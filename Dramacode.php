@@ -85,7 +85,7 @@ CREATE TABLE play (
   source     TEXT,    -- XML TEI refercenced URI
   author     TEXT,    -- auteur
   title      TEXT,    -- titre
-  year       INTEGER, -- année, reprise du nom de fichier, ou dans le XML
+  year       INTEGER, -- année, généralement la publication papier est la seule date sûre
   acts       INTEGER, -- nombre d’actes, essentiellement 5, 3, 1 ; ajuster pour les prologues
   verse      BOOLEAN, -- uniquement si majoritairement en vers, ne pas cocher si chanson mêlée à de la prose
   genrecode  TEXT,    -- comedy|tragedy
@@ -93,6 +93,8 @@ CREATE TABLE play (
   PRIMARY KEY(id ASC)
 );
 CREATE UNIQUE INDEX play_code ON play(code);
+CREATE INDEX play_author_year ON play(author, year, title);
+CREATE INDEX play_year_author ON play(year, author, title);
 
   ";
   /** Lien à une base SQLite */
@@ -232,7 +234,7 @@ CREATE UNIQUE INDEX play_code ON play(code);
     </tr>
   </thead>
     ';
-    foreach ($this->pdo->query("SELECT * FROM play") as $play) {
+    foreach ($this->pdo->query("SELECT * FROM play ORDER BY author, year") as $play) {
       echo "\n    <tr>\n";
       if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['publisher']."</a></td>\n";
       else echo '      <td>'.$play['publisher']."</td>\n";
