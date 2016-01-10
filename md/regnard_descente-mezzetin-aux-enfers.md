@@ -1,0 +1,927 @@
+---
+identifier: regnard_arlequin  
+creator: REGNARD, Jean-François  
+date: 1689  
+title: ARLEQUIN AUX ENFERS, COMÉDIE  
+---
+
+
+ARLEQUIN AUX ENFERS
+
+COMÉDIE
+
+Extrait des Principales scènes françaises de Le descente d'Arlequin aux enfers.
+
+1689
+
+par Régnard
+
+
+Représentée pour la première fois le 5 mars 1689 à l'Hôtel de Bourgogne.
+
+
+# AVERTISSEMENT SUR LA DESCENTE D'ARLEQUIN AUX ENFERS
+
+La Descente d'Arlequin aux Enfers, comédie italienne, mêlée de scènes françaises, en trois actes et en prose, a été représentée pour la première fois sur le théâtre de l'hôtel de Bourgogne, le 5 mars 1689, sous le titre de la Descente de Mezzetin aux Enfers.
+
+Il n'y avait point d'Arlequin alors ; Angelo Constantini, acteur de la troupe italienne, qui avait quelquefois doublé le fameux Dominique, en avait pris l'habit et les rôles, en paraissant toutefois sous le nom de Mezzetin ; mais après les débuts de Ghérardi, ces rôles ont été rendus à l'Arlequin, et il les a conservés jusqu'à la suppression de la troupe.
+
+La mort de Dominique ayant obligé ses camarades à cesser leur spectacle, ce temps fut employé à chercher des moyens pour remplacer le vide que cet excellent acteur faisait à la troupe. Enfin, le mercredi 1er septembre 1688, les comédiens italiens rouvrirent leur théâtre ; et Angelo Constantini, dans une scène préparée, reçut de Colombine l'habillement et le masque d'Arlequin, caractère qu'il joua sous le nom de Mezzetin. Comme il était, quoique très brun, d'une figure gracieuse, et qu'il avait plu infiniment jusqu'alors à visage découvert, le public lui marqua que, s'il continuait à porter le masque d'Arlequin, on perdrait en lui un acteur très varié ; en un mot, une espèce de Protée. Angelo Constantini continua cependant de remplir l'emploi qu'il avait pris après la mort de Dominique, et ne le quitta que lorsque Ghérardi (fils de Flautin) eut joué le rôle d'Arlequin, et que cet acteur fut agréé du public : alors il ne joua plus qu'à visage découvert, ce qu'il continua jusqu'à la suppression de ce théâtre, en 1697. (Histoire de I'ancien Théâtre italien, page 84.)
+
+Cette pièce est la plus informe de toutes celles qui composent le théâtre italien de Regnard ; les scènes n'ont entre elles aucune liaison, et l'on a beaucoup de peine à démêler l'intrigue principale. Il parait cependant que le poète a travesti Orphée et Amphion en deux musiciens de l'Opéra, qui descendent ans enfers pour demander leurs femmes.
+
+Nous aurions désiré pouvoir nous procurer le canevas italien de cette comédie ; mais nos recherches à cet égard ont été infructueuses.
+
+La Descente d'Arlequin aux Enfers n'a point été remise au théâtre depuis le rétablissement de la troupe, en 1716.
+
+
+# PERSONNAGES
+ – ARLEQUIN.
+ – COLOMBINE, femme d'Arlequin.
+ – PIERROT, valet d'Arlequin.
+ – ORPHÉE, Aurélien.
+ – ISABELLE.
+ – UN VENDEUR DE TISANE, Pierrot.
+ – UN AUTEUR, Colombine.
+ – PLUTON.
+ – PROSERPINE.
+ – CARON.Le théâtre représente les côtes de la Thrace, et la mer dans l'éloignement. 
+
+
+# 
+
+
+## SCÈNE I
+Arlequin, Colombine, Pierrot.
+
+Toute cette première scène a été remplacée par un exposé sommaire, dans toutes les éditions. On trouvera que le dialogue de cette scène et de plusieurs autres qui sont rétablies, est tant soit peu libre et même trivial. Cependant, suivant Horace, nous ne sommes pas meilleurs, et nous ne devons donc pas être plus susceptibles que nos pères, qui apparemment s'égayaient à entendre toutes ces plaisanteries débitées avec autant de vivacité que de comique. (G.A.C.)
+
+
+    ARLEQUIN, BOTTÉ, DANS LE VENTRE D’UNE BALEINE
+Hoé, hoé, madame la Baleine ; ouvrez, s'il vous plaît, votre petite gueule.La, la, voilà qui est bien.Les jolies petites quenottes !Je suis votre serviteur ; vous pouvez aller à tous les diables.
+Sortant de la mer.
+
+Ouf !Les chemins sont diaboliques ; je croyais que je ne me tirerais jamais des ornières.Mais je crois que voilà ma femme qui arrive !Je suis bien malheureux !J'espérais que Neptune lui ferait boire rasade.
+Colombine parait en pleine mer, montée sur le dos d'un gros poisson, et accompagnée de Pierrot, monté sur la queue du même poisson.
+
+
+    PIERROT
+Serre la botte, serre la botte.
+À Colombine.
+
+Madame, tenez-vous bien aux crins.
+
+    ARLEQUIN
+Il faut l'aller attendre à la descente du coche, pour lui donner la main.- Bonjour, ma petite femme ; d'où vient donc que vous n'êtes pas noyée ?
+
+    COLOMBINE
+Ah !Je n'en puis plus ; je suis toute rompue.Quelle maudite voiture !
+
+    ARLEQUIN
+C'est la poste de ce pays-ci.
+
+    PIERROT
+Par ma foi, monsieur, nous avons eu bien de la peine.J'ai cru vingt fois que madame accoucherait de quelque sole entre mes bras.
+
+    COLOMBINE
+Je suis tombée plus de cent fois ; et sans Pierrot...
+
+    PIERROT
+Cela est vrai, monsieur, c'est moi qui l'ai repêchée.
+
+    ARLEQUIN
+Tu n'avais que faire de te donner tant de peine.Les méchantes femmes sont de liége, et ne vont jamais à fond.
+
+    PIERROT
+Voilà un pauvre poisson qui n'en peut plus.
+À Arlequin.
+
+Tenez, monsieur, voyez, il est sur les dents ; il sera fourbu de ce voyage.Il y a huit jours que nous marchons sans débrider.
+
+    ARLEQUIN
+Hé bien, mène-le à l'écurie.Quel poisson est-ce cela ?
+
+    PIERROT
+C'est un maquereau, monsieur.
+
+    ARLEQUIN
+Un maquereau ?Voilà une bonne voiture pour une femme !
+
+    COLOMBINE
+Dis-moi donc présentement ce que nous venons faire ici, et pourquoi on nous a fait déménager aussi vite que si nous avions dix commissaires à nos trousses.
+
+    ARLEQUIN
+Cela a été un peu chaud ; mais est-ce qu'on vous a pris pour du train dans notre quartier ?
+
+    COLOMBINE
+Non pas tout à fait ; mais on a jeté nos meubles par la fenêtre.
+
+    ARLEQUIN
+Diable !Cela est scandaleux.Mais rien ne peut m'arrêter quand la gloire m'appelle.Nous sommes en Thrace, et j'ai quitté la Grèce pour venir ici disputer avec Orphée de la musique.
+
+    COLOMBINE
+Quoi !Ce ménétrier de village ?
+
+    ARLEQUIN
+Il a eu l'effronterie de m'appeler en duel.
+
+    COLOMBINE
+En duel ?Et depuis quand donc les musiciens sont-ils devenus si braves ?
+
+    ARLEQUIN
+Bon, bon !Ils enragent de se battre quand ils ne voient personne.Tiens, voilà la lettre que je lui ai écrite.
+
+    AMPHION, À ORPHÉE
+« J'ai appris, mon petit mignon, que vous vous mêlez de chanter et de racler le boyau.Que cela ne vous arrive plus ; car je vous ferais chanter sur un diable de ton.Je veux vous voir les instruments à la main, quoique vous ne soyez qu'un chantre du Pont-Neuf, et que vous ne deviez chanter qu'avec des grenouilles, ou braire avec des ânes comme vous. »
+
+
+## SCÈNE II
+Arlequin, Colombine.
+
+
+    COLOMBINE
+De quoi vivrons-nous en ce pays-ci ?Car nous n'avons point d'argent.
+
+    ARLEQUIN
+Cela m'embarrasse un peu ; car ce diable d'argent, c'est la cheville ouvrière d'un ménage.
+
+    COLOMBINE
+Si tu voulais me laisser faire, je ferais de bonnes connaissances, et nous n'en serions pas plus mal.Autrefois, quand tu étais absent, je ne manquais de rien.
+
+    ARLEQUIN [1]
+Tant pis, morbleu, tant pis !Je me défie diablement de ces femmes qui battent monnaie en l'absence de leurs maris.
+
+    COLOMBINE
+Ne voilà-t-il pas ?Ces maris se mettent d'abord cent choses dans la tête.C'est bien cela !J'ai des secrets merveilleux, qui m'ont été donnés par un chimiste qui m'aimait autrefois.
+
+    ARLEQUIN [2]
+N'est-ce pas celui qui a le laboratoire au collège des Quatre-Nations, qui vend du chocolat volatil, de la crème de perle et du sirop de diamants ?
+
+    COLOMBINE
+Je compose une huile, que j'appelle élixir de patience, dont une goutte, appliquée sur le front d'un mari, le délivre pour jamais du mal de tête.
+
+    ARLEQUIN
+Diable !Voilà qui est beau !Mais je crois que tu gagnerais bien davantage si ton secret le délivrait de sa femme.
+
+    COLOMBINE
+J'en ai un autre bien plus beau pour les femmes d'aujourd'hui : je compose la poudre de bonne réputation.
+
+    ARLEQUIN
+Oh, oh !Je crois qu'elle est diablement difficile à faire !
+
+    COLOMBINE [3] [4]
+Qu'une coquette soit décriée, que sa conduite soit la plus raboteuse du inonde, elle n'a qu'à changer de quartier, ne plus voir d'hommes, et prendre une pincée de ma poudre dans un bouillon, en trois mois elle fera assaut de vertu avec les plus vestales.
+
+    ARLEQUIN
+Voilà le plus beau secret du inonde.Mais peux-tu faire assez de cette poudre-là ?J'en ai un pour le moins aussi beau.Qu'un homme ait une colique enragée, en un moment je la lui fais passer ; je le couche par terre, je fais chauffer une meule de moulin, et je la lui applique sur l'estomac : n'ayez pas peur qu'il ait jamais la colique.
+
+    COLOMBINE
+Ni la colique ni autre mal.
+
+    ARLEQUIN
+Le malade meurt ordinairement ; mais s'il ne mourait pas, ce serait le plus beau secret du monde.J'ai encore un autre moyen pour gagner de l'argent.Tu sais bien que, quand je joue de ma lyre, je fais tout venir à moi.Je n'ai qu'à aller aux Invalides, je servirai de grue pour monter les pierres, et on me paiera comme trente manœuvres ensemble.
+
+    COLOMBINE [5]
+Fi !Voilà un vilain métier !Je ne veux point d'un mari grue.Fais-toi plutôt maître à chanter ; on te donnera deux louis d'or par mois, et tu trouveras peut-être quelque écolière à qui tu ne déplairas pas ; car voilà la grippe des femmes d'aujourd'hui.
+
+    ARLEQUIN
+Quoi !Est-ce un si bon métier ?
+
+    COLOMBINE [6]
+Je te dis qu'il n'y a pas une plus jolie vacation au monde ; on est de tous les bons repas ; jamais de promenades sans le maître à chanter : on se donne de petits airs de familiarité avec l'écolière ; on lui prend la main pour lui faire battre la mesure : le mari passe tout sur la foi de la musique, et il ne se doute pas, bien souvent, de la partie qu'on fait chanter à sa femme.
+
+    ARLEQUIN
+Voilà mon affaire : il n'y a qu'une chose qui m'embarrasse ; il me semble que je ne suis pas assez bien habillé.
+
+    COLOMBINE
+Ne te mets pas en peine ; tu n'auras pas montré trois mois, que tu seras aussi doré que les maîtres à danser.Bon !Une écolière, en levant une jupe chez un marchand ; ne lève-t-elle pas aussi une veste pour son maître de musique ?Qu'est-ce qu'il lui en coûte ?C'est le mari qui paye cela ; la bête a bon dos.
+
+    ARLEQUIN
+'Voilà de jolis profits ; mais aussi on a bien de la peine : c'est un rude métier : il faut quelquefois chanter quand on a envie de boire.Mais n'importe, voilà qui est fait ; quand l'argent me manquera, je me jette dans la musique.Adieu ; je m'en vais chercher Orphée ; il n'a qu'à se bien tenir ; je lui ferai manger son violon jusqu'au manche.
+
+    COLOMBINE
+Et moi, je vais travailler à ma poudre de bonne réputation.
+
+    ARLEQUIN
+Ne manque pas d'en garder pour toi.À propos, qu'as-tu fait de nos enfants ?
+
+    COLOMBINE
+Pour les cacher à cette âme damnée de Jupiter, qui nous en a tué déjà deux, j'en ai fait un ballot, que j'ai porté à la douane ; et je vais voir s'il est arrivé, pour en payer les droits.
+
+    ARLEQUIN
+Cette marchandise-là ne devrait pas beaucoup payer d'entrée ; elle paye assez à la sortie.
+
+
+## SCÈNE III
+Arlequin, Isabelle.
+
+
+    ARLEQUIN
+Il y a longtemps, madame, que la tapisserie de mes inclinations est pendue au clou à crochet de vos beautés.C'est l'amour qui en a été le tapissier ; et cela est si vrai que le mérite... votre mine, d'un côté... mais d'ailleurs.À propos, mademoiselle, est-ce vous que j'aime ?Car vous me paraissez bien petite aujourd'hui.
+
+    ISABELLE
+Il est assez difficile, monsieur, de vous répondre juste sur ce que vous me demandez.Tout ce que je puis vous dire, c'est que je ne me souviens pas d'avoir été plus grande.
+
+    ARLEQUIN
+Oui, charmante princesse, c'est vous.Je vous reconnais à vos flamboyantes prunelles.
+Il tourne autour d'elle.
+ [7]
+J'en suis pourtant toujours pour ce que j'ai dit, voilà qui est diablement chiffon.Si nous nous marions ensemble, jamais nos enfants n'entreront dans le régiment des gardes.
+
+    ISABELLE
+Cela n'est pas encore fait.
+
+    ARLEQUIN, LA MESURANT AVEC UNE CORDE [8]
+Je ne pense pas que vous ayez dix-sept paumes.
+
+    ISABELLE
+Apparemment, monsieur, que vous avez quelque cheval à assortir, ou bien vous me voulez prendre la mesure d'un habit.
+
+    ARLEQUIN
+Que je serais heureux si je pouvais être le tailleur fortuné qui prendra la mesure d'une si aimable personne !Mais je crains bien que les ciseaux de mon amour...vous m'entendez bien ?
+
+    ISABELLE
+Point du tout ; je vous avoue que je n'ai point le don de deviner.
+
+    ARLEQUIN
+Comme mon amour ne vise qu'au mariage, plus je vous regarde, et plus je trouve que vous êtes assez mon fait.Quand on a une femme à prendre, les plus petites sont toujours les meilleures.
+
+    ISABELLE
+Suivant cette maxime-là, je suis donc fort bonne à marier ?
+
+    ARLEQUIN [9]
+Oh !Vous l'êtes de reste.Allons, la belle, dites la vérité ; n'est-il pas vrai que vous serez bien aise d'être ma moitié ?Voyez, regardez-moi ; cet air, ce port ; eh !J'enrage quand je vois ces petits embryons de cour vouloir faire assaut avec moi.
+
+    ISABELLE [10]
+Il faut qu'ils aient perdu l'esprit !Ce sont de plaisantes marmousettes !
+
+    ARLEQUIN
+J'ai le derrière un peu gros, tirant même sur le porteur de chaise ; mais mon médecin m'a promis qu'il me ferait en aller cela ; il m'a ordonné de prendre du petit-lait.
+
+    ISABELLE
+Oh !Je crois ce remède-là sûr.
+
+    ARLEQUIN
+Il m'a dit que c'était une humeur âcre, répandue dans le diaphragme du mésentère, et qui tombe sur l'omoplate.Mais laissons cela, et parlons du plaisir que nous aurons.
+
+    ISABELLE
+On se trompe quelquefois dans ce calcul-là, et l'on n'y trouve pas souvent tout le bonheur qu'on s'y était proposé. [11]
+
+    ARLEQUIN
+Je suis doux, pacifique, aisé à vivre, l'humeur satinée, veloutée : j'ai vécu six ans avec ma première femme, sans avoir le moindre petit démêlé.
+
+    ISABELLE
+Cela est assez extraordinaire.
+
+    ARLEQUIN
+Une fois seulement, après avoir pris du tabac, je voulais éternuer, elle me fit manquer mon coup ; de dépit, je pris un chandelier, je lui cassai la tête, et elle mourut un quart d'heure après.
+
+    ISABELLE
+Ah ciel !Est-il possible ?
+
+    ARLEQUIN
+Voilà le seul différend que nous ayons jamais eu ensemble, et qui ne dura pas longtemps, comme vous voyez.
+
+    ISABELLE
+Cela est fort expéditif, je vous l'avoue.
+
+    ARLEQUIN
+Quand une femme doit mourir, il vaut bien mieux que ce soit de la main de son mari que de celle d'un médecin, qu'il faut bien payer, et qui vous la traînera six mois ou un an.Je n'aime point à voir languir le inonde ; et puis l'on gagne son argent par ses mains.
+
+    ISABELLE
+Et vous n'avez point d'horreur d'avoir commis un crime aussi noir que celui-là ?
+
+    ARLEQUIN
+Moi ?Point du tout : je suis accoutumé au sang de jeunesse.Mon père a fait mille combats en sa vie, où il a toujours tué son homme.Il a servi le roi trente-deux années.
+
+    ISABELLE
+Sur terre, ou sur mer ?
+
+    ARLEQUIN
+En l'air.
+
+    ISABELLE
+Comment, en l'air ?Je n'ai jamais ouï parler de ces officiers-là.
+
+    ARLEQUIN
+C'est que, comme il était fort charitable, lorsqu'il rencontrait quelque agonisant que l'on menait à la Grève, il se mettait avec lui dans la charrette, et l'aidait à mourir du mieux qu'il pouvait.
+
+    ISABELLE
+Ah, l'horreur !
+
+    ARLEQUIN
+Tous ses confrères les médecins (car il avait pris ses licences dans leur école) disaient qu'il n'y avait jamais eu un homme aussi adroit, et qu'on ne voyait point de besogne faite comme la sienne : aussi l'avaient-ils fait recteur de la Faculté.
+
+    ISABELLE
+Voilà, je vous assure, des talents bien merveilleux.
+
+    ARLEQUIN
+Je vous dis, madame, que si vous l'aviez vu travailler, il vous aurait fait envie de vous faire pendre.
+
+    ISABELLE
+Comme ce sont peut-être des talents de famille, vous deviez prendre la charge de monsieur votre père.
+
+    ARLEQUIN
+Je m'y sentais assez d'inclination ; mais vous savez qu'il faut qu'un gentilhomme voie le pays.J'ai couru par toutes les sept parties du monde, et me voilà enfin à vos pieds, ma divine princesse, le cœur en braise, pour vous dire que je me pendrai assurément, si vous n'êtes unie avec moi par le lien conjugal.
+
+
+## SCÈNE IV
+Arlequin, Isabelle, Colombine, qui survient et écoute sans être vue.
+
+
+    COLOMBINE, À PART
+Ah !Traître !
+
+    ISABELLE
+Je ne trouve qu'une petite difficulté à notre mariage, c'est que je suis déjà mariée.
+
+    ARLEQUIN
+Mariée ?Bon, voilà une belle affaire !Est-ce cela qui vous embarrasse ?Je le suis aussi ; mais il n'y a rien de si aisé que d'être veuf ; cinq sous de mort aux rats en font l'affaire.
+
+    COLOMBINE, À PART
+Ciel !Qu'entends-je ?
+
+    ARLEQUIN
+Allons donc, épine de mon âme, touchez là ; commençons les préliminaires de notre mariage.
+
+    COLOMBINE, À PART
+Le traître !
+
+    ARLEQUIN, S’APPROCHANT D’ISABELLE, ET LUI LEVANT SA COIFFE [12]
+Je ne demande que la petite oie.
+
+    ISABELLE
+Tout doucement, monsieur ; réservez ces caresses-là pour votre femme.
+
+    ARLEQUIN [13]
+Pour ma femme ?Je vous ai déjà dit que c'était une carogne que je hais comme le diable.Je voudrais qu'elle fût pendue.
+
+    COLOMBINE, À PART
+Scélérat !
+
+    ARLEQUIN
+Et daris peu j'espère lui donner d'une potion cordiale qui l'empêchera d'avoir faim de longtemps.
+
+    ISABELLE
+C'est-à-dire que voilà la manière dont vous traitez vos femmes, quand vous voulez les régaler : je suis votre très humble servante, je n'aime point la mort aux rats.
+
+    ARLEQUIN, L’ARRÊTANT [14] [15]
+Vous me fuyez !Oui, si vous voulez me promettre de m'épouser, je vous promets, moi, de la faire crever dans deux jours comme un vieux mousquet.Arrêtez donc, beauté léoparde !
+
+    COLOMBINE, LE PREND PAR LE BRAS
+Comme un vieux mousquet !
+Isabelle s'en va.
+
+
+
+## SCÈNE V
+Arlequin, Colombine.
+
+
+    ARLEQUIN [16]
+Ah, ma petite femme !Te voilà ?Hé !Que j'ai de joie de te voir, mon petit bouchon !
+
+    COLOMBINE
+Ah, scélérat !Voilà donc les transports de ton amour ?Je vous promets de la faire crever dans deux jours.
+
+    ARLEQUIN
+Hé !Ne vois-tu pas bien que je disais cela pour rire ?Il faut bien plus de temps pour faire crever une femme.
+
+    COLOMBINE
+Ali, malheureux !Il faut que je te dévisage.
+
+    ARLEQUIN
+C'est elle qui me voulait mettre à mal.
+
+    COLOMBINE
+Non, je ne serai pas contente que je ne t'aie étranglé de mes propres mains.
+Elle se jette sur lui et le bat.
+
+
+
+## SCÈNE VI
+Arlequin, Colombine, Un Vendeur de tisane.
+
+
+    ARLEQUIN
+Au meurtre !Au guet, au guet !On égorge un bourgeois.
+
+    LE VENDEUR DE TISANE
+Chalands, chalands, qui est-ce qui veut boire ?
+
+    COLOMBINE, SE MET À PLEURER AUSSITÔT QU’ELLE VOIT LE VENDEUR DE TISANE
+Ah, ah, ah !
+
+    LE VENDEUR DE TISANE
+Quel vacarme faites-vous donc là ?Fi donc !Quelle honte d'estropier une pauvre femme !
+
+    ARLEQUIN
+C'est ma femme : de quoi vous mêlez-vous ?
+
+    COLOMBINE
+Ah, ah, ah, ah !
+
+    LE VENDEUR DE TISANE
+Le sac à vin !
+
+    COLOMBINE, TOUJOURS PLEURANT
+Je suis...hi, hi.
+
+    ARLEQUIN
+Par ma foi, voilà une méchante carogne.
+
+    LE VENDEUR DE TISANE, À ARLEQUIN [17]
+Çà n'est morgué pas bien, tout franc.
+
+    COLOMBINE
+Je suis toute brisée, hé, hé, hé, hé.
+
+    ARLEQUIN
+La, la, la, ma petite femme, ce ne sera rien ; cela ne m'arrivera plus.
+
+    LE VENDEUR DE TISANE [18]
+Hé, le brutal !Quand vous voulez battre une femme, que ne lui sanglez-vous un coup de bâton sur la tête, sans vous amuser à la faire crier deux heures !
+À Colombine.
+
+Qu'est-ce donc qu'il vous a fait ?
+
+    COLOMBINE
+Il m'a..., il m'a...Ah !Je ne saurais parler, er, er, er.
+
+    ARLEQUIN
+Par ma foi, je commence à croire que c'est moi qui l'ai battue.
+
+    LE VENDEUR DE TISANE
+Allons, je veux faire la paix : je n'aime pas à voir de noise dans un ménage ; je veux vous raccommoder : venez çà.
+
+    COLOMBINE
+Non, je ne lui pardonnerai jamais.
+Le Vendeur de tisane donne un bâton à Colombine, qui en frappe Arlequin.
+
+Allons, vous voilà quittes.
+
+    ARLEQUIN
+Oui, tout d'un côté et rien de l'autre.
+
+    LE VENDEUR DE TISANE
+Sans moi, vous vous seriez battus, et vous voilà les meilleurs amis du monde.À la fraîche, à la fraîche ; qui est-ce qui veut boire ?
+
+
+## SCÈNE VII
+Arlequin, Un Auteur.
+
+C'est Colombine sous le costume approprié au rôle d'auteur.
+
+
+    ARLEQUIN, APERCEVANT L’AUTEUR QUI GESTICULE BEAUCOUP SANS RIEN DIRE
+Voilà un sac de charbon de l'enfer qui va à la promenade.Monsieur ou madame, car je ne sais si vous êtes mâle ou femelle, je ne vous vois que par derrière...
+
+    L’AUTEUR [19]
+Vade retro, profane.Qui t'a fait si téméraire que de m'interrompre ?
+
+    ARLEQUIN
+Je vous demande pardon.
+
+    L’AUTEUR
+Une personne de mon savoir...
+
+    ARLEQUIN [20]
+Je n'y tâchais pas.
+
+    L’AUTEUR
+Qui fait les madrigaux de Proserpine.
+
+    ARLEQUIN
+Je ne le ferai plus.
+
+    L’AUTEUR [21] [22]
+Et qui est le premier consignant pour entrer ici-bas à l'Académie.
+
+    ARLEQUIN
+À l'Académie ?Quoi !Il y en a une ici ?C'est donc une académie de malins esprits.
+
+    L’AUTEUR
+Je me promenais sur les bords du Cocyte, pour travailler plus en repos à ma harangue, et tu viens te jeter au travers de mes conceptions !
+
+    ARLEQUIN
+Comment donc !Est-ce que vous faites vos harangues vous-même ?
+
+    L’AUTEUR
+Je sais bien que la plupart des académiciens, là-haut, ne se donnent pas cette peine-là, et que, pourvu qu'ils la sachent lire, on les reçoit tout d'une voix ; mais ce n'est pas de même ici ; et il ne suffit pas de savoir faire l'anatomie d'un mot, pour être l'interprète des mystères de notre diabolique Académie.
+
+    ARLEQUIN
+Apparemment que vous en étiez là-haut ?
+
+    L’AUTEUR
+Que j'en étais là-haut !Que j'en étais !Est-ce qu'on me recevrait ici, si j'en avais été ?Ce n'est pas que je n'aie eu cent fois plus de mérite qu'il ne faut pour en être.J'ai été le plus bel esprit de mon temps, et j'ai fait en ma vie plus de cent comédies.
+
+    ARLEQUIN
+Plus de cent comédies !
+
+    L’AUTEUR
+Oui, cent ; cent cinquante, si vous me fâchez.Il n'y eut jamais un meilleur naturel que le mien ; je rendais une comédie aussi facilement qu'un autre rend un lavement.C'est moi qui ai enrichi les comédiens français ; et il n'y avait point d'hiver que je ne leur donnasse sept ou huit pièces, tant sérieuses que comiques.
+
+    ARLEQUIN
+Et les jouait-on longtemps ?
+
+    L’AUTEUR
+Jamais qu'une fois ; mais aussi tout Paris venait se crever à la première représentation ; car personne ne voulait attendre la seconde, de peur de ne la point voir.
+
+    ARLEQUIN
+J'aurais cru que c'eût été là le moyen d'envoyer les comédiens à l'hôpital.
+
+    L’AUTEUR
+C'est ce qui vous trompe.Une comédie nouvelle, pour être bonne, ne doit se jouer qu'une fois ; quand elle va jusqu'à deux, ma foi, on s'ennuie.J'ai mis le siècle dans ce goût-là ; et, si vous y prenez garde, depuis moi, tous les auteurs donnent là-dedans.Ils ont raison, au bout du compte ; car, comme les bonnes choses aujourd'hui n'ont point de cours, pour peu qu'une méchante pièce puisse être représentée une fois, voilà les comédiens riches.
+
+    ARLEQUIN
+Les vôtres étaient donc sur ce pied-là ?
+
+    L’AUTEUR
+Vous pouvez croire que je me suis mis à la mode tout des premiers.De plus, je n'ai jamais voulu ôter au public l'usage récréatif des sifflets.Tout au contraire, je marquai, dans mes rôles, les endroits où l'on devait siffler, afin que l'acteur se reposât et qu'il reprit haleine.C'est le jugement qui conduit tout cela.
+
+    ARLEQUIN
+Et moi je voudrais que les sifflets fussent au diable.Quand cette quinte-là prend au parterre, il démonterait Titus et Bérénice.
+
+    L’AUTEUR
+Je m'étais, de mon vivant, abonné avec un marchand de sifflets, qui était, dans son métier, le premier homme du monde.
+
+    ARLEQUIN
+Les comédiens vous ont bien de l'obligation.
+
+    L’AUTEUR
+Il en faisait pour la prose, pour les vers, pour les Français, pour les Italiens ; mais, ma foi, où il triomphait, c'était pour l'Opéra.Pour le mettre en crédit, j'avais fait un opéra, moi, qu'on allait jouer quand je mourus.Ce devait être la plus belle chose qu'on eût jamais vue sur le théâtre.Je ne l'avais pas pris de la métamorphose comme ces chardons du Parnasse ; fi !Cela sent le collège : je l'avais tiré tout entier de l'histoire de France ; il portait pour titre : les Aventures du Pont-Neuf.La fable n'a rien de si magnifique.
+
+    ARLEQUIN
+Les Aventures du Pont-Neuf !Un sujet tiré de l'histoire de France !
+À part.
+ [23]
+Voilà un auteur échappé des Petites-Maisons des enfers.
+
+    L’AUTEUR [24]
+Comment donc !Est-ce que je dis des impertinences ?Paris n'est-il pas la plus belle ville de France ?Le Pont-Neuf n'est-il pas le plus bel endroit de Paris ?Ergo, les Aventures du Pont-Neuf sont les plus beaux traits de l'histoire de France.C'est une figure, ignorant, que nous appelons en latin, pars pro toto ; et en grec synecdoche...
+
+    ARLEQUIN
+Et en français, la folie.
+
+    L’AUTEUR
+Mais vous me faites perdre bien du temps.Que voulez-vous de moi ?
+
+    ARLEQUIN
+Je veux apprendre le chemin des enfers, et je vais y chercher ma femme.
+
+    L’AUTEUR
+Vous allez chercher votre femme ?Ah, ah !
+Il se touche le front du bout du doigt.
+
+
+    ARLEQUIN
+Comment donc !Est-ce que je suis barbouillé ?
+
+    L’AUTEUR [25]
+Chercher sa femme !Il vous faut cinq ou six grains d'ellébore.
+
+    ARLEQUIN
+Le diable m'emporte si je ne vais la chercher.Je ne me moque point.
+
+    L’AUTEUR
+Ah !Pour la rareté du fait, je veux vous y mener.Suivez-moi : je veux entendre ce compliment-là.
+
+    ARLEQUIN [26]
+Avant que d'aller plus avant, je voudrais bien savoir une chose de vous ; car on dit que l'on est si savant quand on est mort !Ma femme a toujours été diablement coquette : dites-moi, je vous prie, si je ne suis point...Là...Là...Vous m'entendez bien ?
+
+    L’AUTEUR
+Oui-da, cela est bien aisé.Voyons : là, levez le nez, l'air fixe, le corps ferme, la tête droite ; montrez la langue.
+
+    ARLEQUIN
+Ah !Je tremble.
+
+    L’AUTEUR
+Montrez-moi votre main ; ah, ah !Tirez la langue ; eh, eh !
+Il lui tâte le pouls.
+
+Oh, oh !
+Il lui touche le front.
+
+Hu, hu !
+
+    ARLEQUIN
+Ah, la carogne !
+
+    L’AUTEUR
+Que cela ne vous fasse point de peine : c'est un mal de famille.Votre père l'était, votre grand-père l'était, votre bisaïeul l'était.
+
+    ARLEQUIN
+Je vous remercie : quand on fera des chevaliers de cet ordre, je vous prierai de faire mes preuves.
+
+
+## SCÈNE VIII
+Pluton, Proserpine, assis sur un trône de flamme, au milieu de leur Cour.
+
+
+    PLUTON [27]
+C'est une chose étonnante, phlégétontique assemblée, que de voir l'affluence d'âmes qui tombent journellement par vos soins dans mon royaume : il faut désormais refuser l'entrée aux survenants, ou faire bâtir des appartements nouveaux ; et, pour cela, je crois qu'il sera bon de lever un droit sur le bois et le charbon qui se brûlent ici-bas : voilà le sujet pour lequel je vous assemble.
+
+    PROSERPINE [28]
+Ali !Fi, m'amour !Ne parlons point d'impôt : c'est quelque nouveau venu de maltôtier qui vous a soufflé cet avis-là.
+
+    PLUTON
+J'ai vu autrefois le temps si misérable, qu'il ne venait pas ici le moindre petit griffonneur de sergent, qu'il ne fallût députer un diable tout exprès pour aller le quérir ; et présentement, nous ne sommes employés qu'à les chasser : il faut que les greffiers attendent des années entières à la porte, parce qu'ils ne veulent pas passer devant les conseillers, qui pleuvent ici de toutes parts.
+
+    PROSERPINE [29]
+Il ne faut plus recevoir de gens de robe ; l'enfer est déjà assez lugubre ; et surtout, point de greffiers, car ces gens-là mettent l'enfer en mauvais prédicament.
+
+    PLUTON [30]
+Oui ; mais vous ne savez pas que, moi qui suis Pluton, je n'ai pas plus de droit en enfer que ces messieurs-là.Bienheureux si, quelque jour, ils ne m'en chassent pas.Je suis si soûl des gens de chicane, que dernièrement je fis une querelle d'Allemand à un diable de qualité, qui revenait de Paris ; et je lui fis fermer la porte, parce qu'il avait hanté mauvaise compagnie là-haut, et qu'il sortait du corps d'un procureur.
+
+    PROSERPINE
+Vous avez eu raison ; ce serait le moyen de gâter bient8t tout ici.
+
+    PLUTON
+Je veux que vous soyez témoins de ce que je dis, et que Caron apporte devant vous le livre journal des âmes qu'il a passées aujourd'hui.
+
+
+## SCÈNE IX
+Pluton, Proserpine, Caron, Suite de Pluton.
+
+Deux Diables apportent un gros livre sur leur dos ; Caron le feuillette et lit.
+
+
+    CARON, LISANT
+Du dix-sept, passé deux mille sept cent treize médecins avec leurs mules.
+
+    PLUTON
+Ces messieurs-là font mieux nos affaires là-haut : il les faut renvoyer.Je ne veux plus qu'on en reçoive aucun à l'avenir qu'il n'ait une attestation de service et un certificat des fossoyeurs, comme il a bien et fidèlement exercé sa charge de médecin, et tué pour le moins dix mille personnes à sa part.
+
+    CARON
+Du même jour, quatorze cents apothicaires.
+
+    PLUTON
+Pour les apothicaires, passe.On est échauffé en ce pays-ci, et on a besoin de lavements pour se déconstiper.
+
+    CARON, TOUJOURS LISANT [31]
+Dudit jour, cinquante-sept mille deux cent dix sept, tant fermiers, sous-fermiers, que commis et rats-de-cave.
+
+    PLUTON
+Il est vrai qu'il en est tombé ce matin une bruine ; on ne se voyait pas en enfer.
+
+    CARON
+Pour les fermiers, tout franc, il n'y a plus moyen de les passer ; ils sont si gros et si gras, que ma barque enfonce.
+
+    PLUTON
+Comment voulez-vous faire ?Nous ne pouvons pas les refuser, c'est ici leur apanage.
+
+    CARON
+Plus, quinze mille sept cents, tant clercs que procureurs.
+
+    PLUTON [32]
+Pour ceux-là, il faut en faire provision ; c'est le bois d'andelle de l'enfer ; et je ne veux pas que l'on brûle autre chose dans mon cabinet.
+
+    CARON
+Quatorze mille douzaines de femmes tant grandes que petites.
+
+    PLUTON
+Ah !Voilà ce que je craignais !Et pourquoi les laisse-t-on passer ?
+
+    CARON, LISANT
+Item.Passé, en corps et en âme, deux carabins de symphonie, soi-disant musiciens de l'Opéra, qui viennent redemander leurs femmes.
+
+    PLUTON
+Ils sont donc fous ?Qu'on les fasse venir au plus vite, je veux les voir ; voilà du fruit nouveau.
+
+    PROSERPINE
+Il y a longtemps que je suis en ce pays-ci, mais je n'ai point encore vu une pareille ambassade.
+
+
+## SCÈNE X
+Pluton, Proserpine, Orphée, Isabelle, femme d'Orphée, Arlequin, Colombine.
+
+
+    PLUTON, À ORPHÉE, MONTRANT ISABELLE
+Est-ce là votre femme ?Elle valait bien la peine de faire le voyage.
+Orphée fait un compliment à Pluton, en italien ; ensuite il chante un air pour redemander sa femme.
+
+
+    ARLEQUIN
+S'il ne tient qu'à une chanson pour avoir sa femme, je vais en dire une nouvelle.
+Il chante sur l'air : Dupont, mon ami.
+
+Pluton, mon ami,  
+J'ai fait ce voyage,  
+Pour tirer d'ici  
+Celle qui m'engage :  
+Si tu ne veux me la donner,  
+Il faudra bien s'en consoler.  
+
+    ISABELLE
+S'il est étonnant de voir un mari chercher sa femme jusqu'aux enfers, il ne l'est pas moins de voir une femme souhaiter avec empressement de retourner avec son mari, quand une fois elle en a été séparée.
+
+    PLUTON
+Voilà un petit début qui n'est point sot.
+
+    ARLEQUIN [33]
+Ni la débuteuse non plus.
+
+    ISABELLE
+Pour moi, je ne suis point de celles qui regardent la séparation d'avec un mari comme la porte de leur félicité ; et j'avoue franchement que je suis d'assez mauvais goût pour trouver qu'il n'y a point de bonheur égal à celui de vivre avec un époux que l'on aime et dont on est tendrement aimé.
+
+    ARLEQUIN
+Eh !Fi donc ; faites-la taire : elle prêche là une nouvelle doctrine.
+
+    ISABELLE [34]
+Je sais que je ne suis pas du goût d'aujourd'hui, et que pour être présentement femme du bel air, il ne faut prendre un mari que comme un surtout de bienséance, et un paravent de réputation ; mais j'aime mieux n'être pas tout à fait à la mode, et être un peu plus dans la route de mon devoir.C'est ce qui fait que je viens implorer votre clémence, et vous prier, par tout ce que vous avez de plus cher, au nom de l'amour que vous vous êtes porté l'un et l'autre, de m'accorder la grâce que je vous demande, de me rendre à un mari que je chéris plus que toute chose au monde, et je serai obligée de faire le reste de ma vie des vœux pour la santé et la prospérité de vos majestés diaboliques.
+
+    ARLEQUIN [35]
+Malepeste !Voilà du plus beau récitatif.
+
+    PLUTON
+Qu'est-ce que c'est que ce bruit-là ?
+
+    CARON
+Ce sont des anciens marguilliers qui veulent passer devant des avocats.
+
+    PLUTON
+Le procès n'a-t-il pas été jugé là-haut ?
+
+    CARON
+Oui ; mais ils en appellent devant vous.
+
+    PLUTON
+Huissier, faites faire silence ; nous verrons cela tantôt.
+
+    COLOMBINE, DÉCLAMANT
+Les femmes d'aujourd'hui sont si malheureuses, et l'empire des maris si absolu, que je ne m'étonne plus qu'il y ait tant de filles à marier, et qui regardent le mariage comme l'écueil de leurs plaisirs et le tombeau de leur liberté.
+
+    ARLEQUIN
+Bon !Bon !Toute la journée les filles ont le gosier ouvert pour chanter :
+Ma mère, mariez-moi,  
+Vous savez la raison pourquoi.  
+
+    COLOMBINE
+En effet, n'est-ce pas une chose qui crie vengeance, de voir l'inhumanité avec laquelle les pauvres femmes, ces moutons d'amour, sont traitées par ces loups dévorants !
+Elle crie.
+
+Ne dirait-on pas...
+
+    ARLEQUIN
+Oh !Je vois bien que nous sommes ici sur le patrimoine des avocats.Comme elle a appris à crier !
+
+    COLOMBINE
+Ne dirait-on pas, dis-je, que le mariage, qui devrait être l'union, le nœud et la soudure des volontés, soit présentement un champ de bataille, où le mari s'exerce à chagriner sa femme, et où la femme est toujours la malheureuse exposée aux insultes, et bien souvent aux coups de celui qui devrait être le rempart de sa faiblesse ?
+
+    PLUTON [36]
+Nous voyons pourtant souvent ici des maris qui portent de vilains chinforgnaux sur leur tête.
+
+    ARLEQUIN
+Hé !Ce n'est que pour entretenir la paix.Ne savez-vous pas bien que qui bat sa femme, il la fait braire ; qui la rebat, il la fait taire.
+
+    COLOMBINE
+Pour moi, je vous déclare que, si heureusement mon mari était mort le premier, j'aurais crié ; je me serais couverte, jusqu'au bout des ongles, d'un deuil où le cœur n'aurait pas eu grande part ; mais loin de le venir trouver aux enfers, je me serais bien donné de garde de le chercher.
+
+    ARLEQUIN
+Oli !Ma petite femme, je n'ai jamais douté de votre affection.
+
+    COLOMBINE
+Ainsi, puisqu'il vient me chercher de si loin : c'est une marque qu'il ne saurait se passer de moi ; mais il ne m'aura que par le bon bout : je prétends avoir des conditions si avantageuses, qu'on ne puisse pas me reprocher d'avoir gâté le métier...Comme c'est une chose qui crie vengeance, de voir le peu de dépenses que les femmes font aujourd'hui, je veux avoir plus d'argent que par le passé, et que chacun ait, sa semaine, la clef du coffre-fort.
+
+    ARLEQUIN
+Si vous l'aviez une semaine, je courrais grand risque la suivante de ne pas entrer en exercice.
+
+    COLOMBINE
+Item.Oh !Voilà un grand item celui-ci : point de jolies femmes de chambre, c'est-à-dire, que je les choisirai moi-même les plus laides que faire se pourra, et qui auront au moins quarante-cinq ans.
+
+    ARLEQUIN
+Fi !On n'est jamais bien servi par ces vieilles-là.Il faut donc que vous retranchiez aussi les grands laquais.
+
+    PLUTON [37]
+Tudieu !Cet oiseau-ci sait bien sa leçon.Voilà une pèlerine qui a diablement d'esprit.
+
+    ARLEQUIN
+Elle a encore six fois plus de tête.La la, voyons : j'ai aussi à proposer mes conditions, moi, et voilà des articles que nous ferons signer par des notaires de ce pays-ci ; car je crois qu'il n'y en manque pas.
+
+    COLOMBINE
+Oui, tu le prends comme cela ?Et moi, je ne veux pas sortir.Une jolie femme comme moi, en tout pays, ne manque point de mari.
+
+    ARLEQUIN
+Oh !Je sais bien qu'il y a partout assez de gens qui se mêlent de ces emplois-là.Primo.Puisque je ne profite pas de votre mort, je prétends que vous me rendiez les frais du deuil et de l'enterrement que j'ai payés au crieur.
+
+    PLUTON
+Cela est juste ; mais il n'en coûte pas grand'chose gour faire enterrer une petite femme.
+
+    ARLEQUIN
+Ah !Ces diables de corbeaux-là ne les mesurent pas B la toise, et ils rançonnent si exorbitamment un pauvre mari, que souvent il aimerait presque autant que sa femme ne mourût pas.
+
+    PLUTON
+Ils gagnent assez d'ailleurs.
+
+    ARLEQUIN
+Je prétends à l'avenir que vous baissiez votre rayon d'un grand demi-pied au moins.
+
+    COLOMBINE
+D'un demi-pied !Je me ferais plutôt couper la tête.Non, non, je demeurerai ici.
+
+    ARLEQUIN
+Il vous en restera encore plus d'un grand pied ; et un grand pied de rayon doit suffire à la femme d'un musicien.
+
+    PROSERPINE
+Oh, oh !Je le crois bien ; je m'en contenterais bien, moi qui suis Proserpine.
+
+    ARLEQUIN
+Je veux que vous soyez beaucoup plus sage que par le passé, et que vous promettiez de n'aimer désormais que moi.
+
+    COLOMBINE
+Oh !Pour cet article-là, néant.Je ne veux point engager ma conscience.Dans le temps où nous sommes, il n'y a point de femmes qui puissent promettre cela.
+
+    ARLEQUIN
+Je veux que les enfants que j'aurai dans ln suite (car il faut recommencer sur nouveaux frais) soient élevés à ma fantaisie, et j'en disposerai comme de chose à moi appartenante.
+
+    COLOMBINE
+Cela s'en va sans dire.
+
+    PLUTON
+Hé !De quoi vous embarrassez-vous ?Puisqu'elle est votre femme, tous les enfants qu'elle aura ne seront-ils pas les vôtres ?
+
+    ARLEQUIN
+Nego consequentiam.Vous ne savez pas tout le manège de là-haut, monsieur Pluton : il y a tant de pères qui n'ont jamais eu d'enfants !
+
+    PLUTON
+Après avoir entendu les raisons des uns et des autres, pour vous défrayer des frais de votre voyage, moi Pluton, prince des ténèbres, souverain du Styx et du Phlégéton, gouverneur des pays-bas, président du sabbat, et correcteur né des arts, métiers et professions, je vous permets non seulement d'emmener chacun votre femme, mais toutes celles qui sont en enfer, sans même en excepter Proserpine.
+
+    ARLEQUIN
+Pour moi, je n'en ai que trop de celle-ci ; mais il y a bien des gens qui ne demanderont pas mieux que de troquer avec vous.
+
+-------
+
+
+[1] Morbleu : Sorte de jurement en usage même parmi les gens de bon ton. L
+
+[2] Les Quatre-Nations, ou le collége des Quatre-Nations : collége fondé à Paris par Mazarin, pour l'éducation et l'entretien de 60 enfants originaires des pays conquis par Louis XIV. L
+
+[3] Raboteux : Inégal, qui n'est pas poli, ni uni. Scabrosus, scaber. Le bois qui a beaucoup de nœuds, est raboteux, difficile à raboter, à unir. Raboteux, au figuré, signifie, Rude, grossier, mal poli, mal digéré. T
+
+[4] Vestale : Nom doné chez les Romains à des vierges, consacrées à la Déesse Vesta. FC
+
+[5] Grippe : Terme familier. Fantaisie, goût passager, capricieux. L
+
+[6] Vacation : Profession d'un certain métier auquel on vaque, on s'exerce. T
+
+[7] Chiffon : Vieux morceaux d'étoffe, de linge, vieille guenille, et généralement chose de nulle valeur. T
+
+[8] Paume : Mesure dont on se sert pour la taille des chevaux, et qui consiste dans la hauteur d'un poing fermé. Un cheval de seize paumes. L
+
+[9] Embryon : Fœtus qui commence à se former dans le ventre de la mère. On dit figurément ou par mépris, d'un fort petit homme. Ac
+
+[10] Marmouset : En termes de mépris, petit garçon, ou petit homme mal fait. FC
+
+[11] Tout ce qui précède, à partir du commencement de cette troisième scène, a été supprimé dans toutes les éditions. Comme ces suppressions sont très multipliées dans cette pièce et dans les suivantes, je crois inutile d'en avertir davantage le lecteur. (G. A. C.)
+
+[12] Petite-oie, les bas, le chapeau, et les autres ajustements pour rendre un habillement complet ; ainsi dit par comparaison avec l'abatis d'une volaille. Fig. Les petites faveurs que les femmes accordent à leurs amants. L
+
+[13] Carogne : Terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. F
+
+[14] Mousquet : Arme à feu qu'on porte sur l'épaule, qui sert à la guerre, qui prend feu avec une mèche. F
+
+[15] Léopard : Quadrupède carnassier qui a la peau marquetée. Adjectivement et par plaisanterie. L
+
+[16] Bouchon : Fig. et familièrement. Mon petit bouchon, terme de tendresse et de caresse. Vieux en ce sens. L
+
+[17] Morgué : Sorte de juron de paysan. L
+
+[18] Sangler : Familièrement. Appliquer avec force un coup. L
+
+[19] Vade retro : Expression latine, cite par Jésus dans la Bible : Vade retro, Satanas : Va en arrière, Satan.
+
+[20] Tâcher : Faire des efforts pour venir à bout de. Familièrement. Il n'y tâchait pas, il ne l'a pas fait exprès, avec intention. L
+
+[21] Il est facile de voir que Regnard se permet, dans ce passage et le suivant, une épigramme contre l'Académie terrestre et française, dont il ne fut jamais membre. Mais sans doute qu'un autre motif le priva de cette honorable distinction due à son mérite. Sa Satire sanglante contre le cardinal de Richelieu (voyez Ép. vi, tome. iv) était un obstacle plus sérieux à son admission ; car il s'était mis dans l'impossibilité de prononcer l'éloge obligé du fondateur de l'Académie, dont la mémoire, à ce titre, et à cette époque si rapprochée de Regnard commandait les justes et sincères hommages des littérateurs et des savants. On sait que c'est au cardinal de Richelieu que l'on doit aussi l'établissement de l'Imprimerie royale. (G. A. C.)
+
+[22] Consigner : Assurer le paiement de quelque somme sur laquelle il y a quelque contestation, en la mettant en main tierce jusqu'à la décision de la difficulté qui empêche qu'on ne la délivre sur le champ. T
+
+[23] Petites maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. Il est à mettre aux Petites-Maisons c'est un échappé des Petites-Maisons, c'est un homme sans raison, qui fait ou dit des choses folles. L
+
+[24] Synecdoche : Figure de Rhétorique, qui fait entendre un tout pour une de ses parties, ou une partie pour le tout, ou la matière pour la chose. T actuellement graphié synecdoque
+
+[25] Ellébore : Plante, dite dans l'Avranchin herbe enragée, très usitée dans la médecine des anciens comme cathartique et qui passait pour guérir la folie. Avoir besoin d'ellébore, avoir l'esprit troublé. L
+
+[26] Diablement : Adverbe qui sert à augmenter la force d'une expression. T
+
+[27] Phlégéton : Terme de la mythologie. Nom d'un des fleuves des enfers.
+
+[28] Maltôtier : Celui qui fait la matôte : impôt levé sous Philippe le Bel, pour la guerre contre les Anglais. Perception d'un droit qui n'est pas dû. Toute espèce de perception d'impôts.
+
+[29] Prédicament : Terme de Logique. C'est une des Catégories, une division qui se fait de la nature des substances, ou des qualités des êtres. Les Philosophes ne sont pas d'accord sur le nombre des prédicaments. On dit proverbialement, qu'une personne est en un bon, ou mauvais predicament, selon qu'elle s'est mise en bonne, ou en mauvaise reputation. F
+
+[30] Querelle : on dit proverbialement, Faire une querelle d'Allemand à quelqu'un, pour dire, l'attaquer sans sujet et de gaité de cœur. F
+
+[31] On appelle ironiquement rat de cave, un Commis des aides qui va visiter et marquer les tonneaux des Cabaretiers, pour en faire payer le Gros et Huitiéme. L
+
+[32] 
+
+[33] Débuteuse : mot formé avec le mot début de la phrase précédente. Après le compliment pour la phrase dIsabelle, par Pluton, Arlequin fait un autre compliment à celle qui a fait ce petit début.
+
+[34] Surtout : Grosse casaque ou juste-au-corps qu'on met en hiver par dessus ses autres habits. Ce mot n'est en usage que depuis fort peu d'années. C'est à peu prés ce qu'on appellait anciennement Souravis, comme qui auroit dit Surhabits. Th. Corneille
+
+[35] Malepeste : Imprécation qu'on fait contre quelque chose, et quelquefois avec admiration. F
+
+[36] Chinforgnaux : mot dérivé de Chinfreneau. Coup à la tête ou au visage. Terme populaire. L
+
+[37] Tudieu : Juron de l'ancienne comédie. L Euphémime pour "Tue Dieu".

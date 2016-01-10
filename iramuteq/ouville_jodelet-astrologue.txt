@@ -1,0 +1,3477 @@
+
+
+**** *book_ *id_dedicace *date_1646 *creator_ouville
+
+A MESSIRE NICOLAS BOURDIN, CHEVALIER, SEIGNEUR DE VILLENNES.
+
+MONSIEUR,
+
+Comme entre plusieurs belles connoissances que vous avez, je sçay que vous vous divertissez particulierement à l'Astrologie, dont vous penetrez tous les secrets, j'ay creu que pour vous delasser l'esprit de vos penibles travaux et de vos occupations serieuses, vous n'auriez pas desagreable que je vous presentasse ce petit Ouvrage Comique de Monsieur d'Ouville qui m'est tombé entre les mains.
+Vous y verrez, MONSIEUR, les naïsvetez d'un faux Astrologue, dont l'ignorance vous plaira mieux quelquefois, que tous les beaux Livres qui vous ont rendu si fameux en cette science, et pourveu qu'il vous fasse rire apres le chagrin que vous aurez peu prendre en vostre estude, j'auray visé tout droit au but où je tends.
+Recevez-le donc s'il vous plaist, MONSIEUR, non comme un present qui soit digne de vous, mais comme une petite marque de la passion que j'ay de vous divertir, et de vous plaire, estant avec plus d'affection et de fidelité que personne du monde,
+
+MONSIEUR,
+
+Vostre tres-humble et tres-
+
+obeissant serviteur,
+
+C. B.
+
+**** *book_ *id_body-3-1 *act_ *date_1646 *creator_ouville
+
+-*who_liliane
+NE faites point, Tindare, ici plus long sejour,
+De grace allez vous-en, vous voyez qu'il est jour,
+Si par hazard quelqu'un vous voyoit dans la ruë,
+Et qu'on vous sceust ici, Dieux je serois perduë⁎ !
+
+-*who_tindare
+Ayant devant mes yeux le Soleil que je voy,
+Puis-je m'imaginer qu'il vient derriere moy ?
+Madame, en m'absentant de l'Astre que j'adore,
+Je suis bien esloigné de rencontrer l'Aurore.
+
+-*who_liliane
+Gardez qu'on ne descouvre icy nostre secret.
+
+-*who_tindare
+Enfin, je ne sçaurois vous quitter qu'à regret.
+
+-*who_liliane
+Mais quoy vous me perdrez⁎.
+
+-*who_tindare
+Eh de grace, Madame,
+Pensez qu'en vous quittant j'abandonne mon ame,
+Me voulez-vous, grands Dieux ! reduire au desespoir ?
+
+-*who_liliane
+Tindare cette nuict vous me pourrez revoir,
+Mais si vous faites cas de mon amour extresme,
+Venez-y sans tesmoins.
+
+-*who_tindare
+J'y viendray sans moy-mesme,
+N'en doutez nullement, car l'heur⁎ que je reçoy
+Fait que dés à present je suis tout hors de moy.
+Mais ne soyez point tant de vos faveurs avare.
+
+-*who_liliane
+Sans perdre plus de temps retirez-vous, Tindare,
+Sur tout souvenez-vous d'estre sage⁎ et discret,
+De m'aymer comme il faut, et garder le secret.
+
+-*who_tindare
+Ah Dieux que dites-vous ? ne craignez rien, Madame,
+Plustost que le secret on m'arrachera l'ame.
+
+-*who_liliane
+Sus donc⁎, retirez-vous, allez Tindare, allez.
+
+-*who_tindare
+Il faut bien s'en aller puis que vous le voulez.
+
+**** *book_ *id_body-3-2 *act_ *date_1646 *creator_ouville
+
+-*who_liliane
+IL le faut advoüer, je suis bien malheureuse,
+De nourrir dans mon sein cette flame⁎ amoureuse,
+Qui me consomme toute, et reduit à tel point,
+Que mon plus grand espoir est de n'en avoir point.
+
+-*who_nise
+Dequoy vous plaignez-vous ? je ne sçay pas, Madame,
+Qui vous peut exciter⁎ tant de troubles dans l'ame ?
+Vous aymez, on vous ayme, on brusle de vous voir,
+Qui peut apres cela destruire vostre espoir ?
+Qui se fascha⁎ jamais de se voir trop aymee ?
+
+-*who_liliane
+Cet amour apres tout ne peut estre blasmee :
+Tu voids qu'on veut forcer mon inclination⁎,
+Me livrant à l'objet⁎ de mon adversion.
+
+-*who_nise
+Je vous ay dit cent fois que je ne puis comprendre
+Le subjet pour lequel vous rebutez⁎ Timandre.
+Peut-on voir dans Paris un Cavalier⁎ mieux fait⁎ ?
+Il a tres-bonne mine⁎, il est riche, et discret⁎.
+Il vous ayme, ou plustost, Madame, il vous adore,
+Il meurt d'amour pour vous ; mais ce qui plus encore
+Vous devroit obliger à preferer à tous
+Ce brave⁎ Cavalier⁎ pour estre vostre espoux,
+Vostre pere y consent, et vous sçavez, Madame,
+Qu'il est fort esloigné d'approuver vostre flame⁎,
+Il ayme la richesse, et vous sçavez tres-bien
+Si Tindare est galand⁎ qu'il ne possede rien.
+
+-*who_liliane
+Je sçay bien qu'il possede un merite⁎ si rare⁎,
+Qu'enfin je ne voy rien comparable à Tindare,
+Timandre vient trop tard, car Tindare a mon cœur,
+Qui se sent ravir d'aise au nom de ce vainqueur.
+
+-*who_nise
+Madame vous semblez, souffrez⁎ que je le die,
+En cette occasion⁎, Dame de Comedie,
+Vous rebutez⁎ le riche, et prenez l'indigent ?
+
+-*who_liliane
+Dois-je pas preferer les vertus à l'argent ?
+
+-*who_nise
+Non, Madame, sçachez qu'en ce siecle où nous sommes,
+On ne fait plus d'estat de la vertu des hommes ;
+Et quand cela seroit, me pouvez-vous nier
+Que toutes les vertus d'un parfait Cavalier⁎
+Ne soient pas en Timandre ? En croyant le contraire,
+Si vous desavoüez une chose si claire,
+Je dy qu'on a raison de peindre Amour sans yeux.
+
+-*who_liliane
+Ce que tu dis est vray, Nise, mais j'ayme mieux
+Expirer mille fois, que paroistre volage.
+Oüy, Nise, asseure-toy que j'ay trop de courage⁎,
+Pour rejetter Tindare, il a receu de moy
+Depuis six mois entiers des gages de ma foy⁎,
+Tels que je ne sçaurois à present m'en desdire.
+
+-*who_nise
+Mais si c'est pour luy seul que vostre cœur souspire,
+Pourquoy refusez-vous de le voir en plein jour ?
+Et feignez-vous qu'il soit absent de cette Cour ?
+
+-*who_liliane
+Nise, tu ne sçais pas, et c'est ce qui m'afflige,
+Jusques où la rigueur de l'honneur nous oblige,
+Ce poinct trop chatoüilleux pour peu devient suspect,
+Et on n'y peut jamais estre trop circonspect,
+Je ne le cele⁎ point, Nise, je te confesse,
+Que j'eu pour ce Tindare un excez de tendresse,
+Si tost que je cognu que ce parfait Amant
+Brusloit d'amour pour moy ; Mais admire comment
+J'ay peu me retenir dans cet amour extresme,
+N'ayant jamais voulu qu'il cognust que je l'ayme,
+Que lors⁎ qu'en s'absentant, Nise, il me fit sçavoir
+Qu'il s'éloignoit de moy par un pur desespoir.
+Je confesse qu'alors il me fut impossible
+De nier qu'à ses vœux⁎ je ne fusse sensible,
+Qu'il possedoit mon cœur, il voulut demeurer,
+Aussi-tost qu'il apprit qu'il pouvoit esperer,
+Mais je luy prescrivi cette loy rigoureuse
+Pour ne pas éventer cette flame⁎ Amoureuse
+Que je tenois secrette au profond de mon cœur,
+Qu'il se tiendroit caché dans Paris en lieu seur,
+Et qu'il feroit courir le bruit qu'en Italie
+Il s'alloit divertir de sa melancolie.
+Il est dedans Paris caché depuis six mois,
+Et ce secret ici n'est sceu que de nous trois.
+
+-*who_nise
+Qui peut causer en vous cette cruelle envie ?
+
+-*who_liliane
+L'honneur qui m'est plus cher mille fois que la vie,
+Je crains plus que la mort qu'on sçache que mon cœur
+Rebelle jusqu'icy recognoisse un vainqueur,
+N'ayant jamais souffert⁎ l'empire de personne.
+
+-*who_nise
+Il est certain, Madame, et chacun s'en estonne
+Et depuis fort long-temps par tout où j'ay hanté
+On fait baucoup de bruit de vostre cruauté,
+Jusques-là qu'aujourd'huy je me suis laissé dire
+Qu'un Poëte de ce temps en fait une Satyre.
+
+-*who_liliane
+Ce bruit m'est favorable, eh ! sotte penses-tu
+Qu'on ait droict de blâmer un excez de vertu,
+Quand une fille passe et pour jeune et pour belle,
+On ne l'offense point en la nommant cruelle ;
+Enfin, je ne crains rien, et je ne doute point
+Que Tindare ne soit discret au dernier poinct,
+On ne m'a pas trompée, et je crains trop de l'estre,
+Un amy peu discret, un valet lasche⁎, et traistre
+Nous peut par un rapport⁎ aysement ruiner,
+Et l'honneur est apres trop fort à regagner,
+Une langue peut tout quand elle veut mesdire,
+A cent femmes d'honneur une langue peut nuire,
+Et cent langues aussi ne sçauroient restablir,
+Ce delicat honneur que l'on vient d'affoiblir.
+
+-*who_nise
+Ne craignez rien de moy sur ce sujet, Madame,
+Quoy d'aller reveler les secrets de vostre Ame ?
+Je souffrirois⁎ plutost qu'on m'arrachast le cœur.
+Mais c'est estre bigearre, et d'une estrange humeur⁎,
+Pardonnez si je semble en cecy trop hardie,
+Vous voulez imiter, souffrez⁎ que je le die,
+Vous voyant follement l'esprit embarassé,
+L'humeur⁎ des Chevaliers errans du temps passé.
+Pourquoy vouloir paroistre et cruelle et severe⁎
+Pour le soustien d'un bien qui n'est qu'imaginaire ?
+D'un chimerique honneur, dont vous vantez le prix ?
+Ce rigoureux tyran des credules esprits ?
+Nul ne sçait vostre humeur⁎ qui d'abord n'attribue
+Tant de precaution et tant de retenuë,
+A trop d'impertinence, et de simplicité,
+Pardonnez si je parle avecque liberté.
+Aymez comme on s'habille, assavoir à la mode,
+Outre qu'il est utile, il est bien plus commode,
+Sans vouloir en Amour introduire une loy
+Nouvelle, et ridicule ?
+
+-*who_liliane
+Impudente tay toy.
+Mais quelqu'un entre icy.
+
+-*who_nise
+Madame, c'est Timandre.
+
+**** *book_ *id_body-3-3 *act_ *date_1646 *creator_ouville
+
+-*who_liliane
+QUe voy-je ? justes Dieux ! osez-vous entreprendre
+De m'aborder⁎ ainsi ? Timandre, resvez⁎-vous ?
+
+-*who_timandre
+Madame, moderez ce violent courroux,
+Faut-il que la colere à ce poinct vous transporte⁎ ?
+Qui vous peut obliger à traitter de la sorte
+Celuy qui vous adore, en rebutant⁎ l'Amour
+Du plus parfait Amant qui respire le jour ?
+
+-*who_liliane
+Timandre, c'est en vain, faisons donc je vous prie
+Tresve de complimens⁎, et de cajolerie,
+Je vous laisseray là si vous ne me quittez.
+
+-*who_timandre
+Le charme est trop puissant qu'on void en vos beautez,
+Comme le papillon tournoye, et bat de l'aisle
+Tant qu'il se vient enfin brusler à la chandelle,
+Mon amour aveuglé qui n'a point de pareil
+Vient aussi se brusler aux rais de ce Soleil,
+Et c'est de mes souhaits la plus haute fortune⁎.
+
+-*who_liliane
+Je mesprise un amour alors qu'il m'importune,
+Et si contre mon gré ce Dieu vous a surpris,
+Ne vous plaignez, Monsieur, jamais de mes mespris.
+Mais quand chasserez-vous cet amour de vostre ame ?
+
+-*who_timandre
+Lors⁎ que vous cesserez d'estre belle, Madame,
+Et lors⁎ que je seray sans oreille et sans yeux.
+
+-*who_liliane
+Je ne puis revoquer la volonté des Cieux ;
+Car despend-il de moy, Timandre d'estre belle ?
+S'il est vray toutefois que je vous paroy telle ?
+
+-*who_timandre
+Mais ne vous aimer point, est-il dans le pouvoir
+De quiconque, Madame, a des yeux pour vous voir ?
+Et par cette raison excusez je vous prie
+Ces violents effets de mon effronterie.
+
+-*who_liliane
+Sortez je vous supplie, ou vous courez danger
+En passant plus avant de me desobliger⁎ ;
+C'est en effect avoir bien peu de complaisance,
+Rien ne me déplaist tant que fait vostre presence,
+En vain auprez de moy vous cherchez du credit,
+Je ne vous puis souffrir⁎, cent fois je vous l'ay dit,
+Et vous le dis encor.
+
+-*who_timandre
+Ah ! Madame, de grace
+Ayez pitié de moy.
+
+-*who_liliane
+Je vous quitte la place,
+C'est trop m'importuner, je vous laisse en ce lieu
+En vous disant, Timandre, un eternel Adieu.
+Vous prenez du plaisir à me mettre en colere.
+
+**** *book_ *id_body-3-4 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+QU'entens-je, justes Dieux ? je meurs, je desespere.
+
+-*who_jodelet
+Quoy Monsieur, vous souffrez⁎ que l'on vous traite ainsi ?
+Si vous le voulez bien, je le veux bien aussi,
+Comment ? j'endurerois d'une fille si vayne⁎
+Tant d'apparens mespris ? Non, fust-elle une Reyne,
+Et plus qu'une Deesse eust-elle des appas,
+On ne me verroit point pour elle faire un pas.
+
+-*who_timandre
+Fut-il jamais Amant méprisé de la sorte ?
+Ah ! je voy que pour moy toute esperance est morte.
+
+-*who_nise
+J'ay pris vostre party, jusques à la fascher⁎,
+Mais c'est en vain, Monsieur, que j'ay creu la toucher,
+Plus je vous vantois brave⁎, et rempli de merite⁎,
+Plus elle se monstroit orgueilleuse et depite.
+
+-*who_timandre
+La cruelle me traitte avec trop de rigueur.
+Mais, Nise, en sçais-tu point la cause ?
+
+-*who_nise
+Non, Monsieur.
+Elle traite un chacun de mesme indifference,
+Et ne donne à pas un plus qu'à vous d'esperance.
+
+-*who_timandre
+Amour, sors de mon cœur, oüy je t'en veux bannir,
+Cette estroite prison ne te peut contenir,
+Tu ne sçaurois durer en si petit espace,
+Ny conserver mes feux⁎ avecque tant de glace.
+Voyant tant de mespris, ingrate, je promets
+De briser tes liens, et n'y rentrer jamais.
+Je ne desire pas pourtant que Nise pense
+Que ses soins⁎ ont esté pour moy sans recompense,
+Cette chaine est à toy.
+
+-*who_nise
+Je vois en verité
+Que vous estes, Monsieur, en pleine liberté.
+Mais en sortant des fers de celle qui vous brave⁎,
+Vous m'enchainez, Monsieur, et me rendez esclave.
+Mais quel service encor desirez-vous de moy ?
+
+-*who_timandre
+Je te paye ici ceux que j'ay receus de toy,
+Je ne te feray plus requeste ny priere,
+Puis que j'ay recouvré⁎ ma liberté premiere,
+Puis qu'on rit de ma peine, et que je voy fort bien
+Que mes plus grands efforts ne m'y servent de rien.
+Vien, suy-moy, Jodelet, va, Nise, je te laisse,
+Comme j'ay resolu de laisser ta Maistresse.
+
+-*who_jodelet
+Laissez-moy, je vous prie, et nous dites Adieu,
+Je pourray n'estre pas inutile en ce lieu.
+
+**** *book_ *id_body-3-5 *act_ *date_1646 *creator_ouville
+
+-*who_jodelet
+ET bien, Nise, feray-je ainsi que fait mon Maistre ?
+Te quitteray-je aussi ?
+
+-*who_nise
+Serois-tu bien si traistre ?
+T'obligeay-je à me faire un si perfide tour ?
+Et ne te rens-je pas un reciproque Amour ?
+Qui t'oblige à me faire ici cette bravade ?
+
+-*who_jodelet
+Si mon Maistre est guery, pourrois-je estre malade ?
+Je t'aymeray sans doute autant qu'il aymera,
+Mais son Amour cessant la mienne cessera.
+Je parle à cœur ouvert, car je hay l'imposture.
+
+-*who_nise
+Va, tu n'és qu'un ingrat, va, tu n'és qu'un parjure,
+Je le merite bien, je ne m'en prens qu'à moy,
+Je t'ay trop témoigné de constance et de foy⁎.
+Mais dy-moy, suis-je cause icy que ma Maistresse
+Fuit ton Maistre, et le traite avec tant de rudesse ?
+Pourquoy dois-je patir pour la faute d'autruy ?
+N'ay-je pas fait en vain ce que j'ay peu pour luy ?
+
+-*who_jodelet
+Mais ne pourrois-tu point vaincre cet impossible ?
+Et rendre ta Maistresse un peu plus accessible ?
+Je croy certainement si tu le desirois
+Que tu peux tout sur elle, et je t'adorerois.
+Ou dy-moy le sujet qui la rend si severe⁎,
+Il faut que cette humeur⁎ cache quelque mystere
+Que je ne comprens point, car tu sçais en effet
+Que mon Maistre est galand⁎, aymable⁎ et tres-bien fait⁎,
+Liberal et discret⁎, autant qu'on le peut estre.
+
+-*who_nise
+Ce que tu dis est vray, je sçay bien que ton Maistre
+Est brave⁎ au dernier poinct, et croy que tous les jours
+Je tiens à ma Maistresse un semblable discours ;
+Mais loin de la flechir sa hayne devient pire,
+Je n'ose plus parler, mais si je t'osois dire
+Le sujet qui la porte à ne le pas aymer,
+Tu n'aurois pas si fort subjet de la blasmer.
+Mais quoy, c'est un secret de trop grande importance.
+
+-*who_jodelet
+Je ne le sçauray point ?
+
+-*who_nise
+Non.
+
+-*who_jodelet
+As-tu l'asseurance
+De me parler ainsi ? tu m'aymes ?
+
+-*who_nise
+Oüy.
+
+-*who_jodelet
+Tu ments.
+
+-*who_nise
+Veux-tu que je t'en fasse ici mille serments ?
+
+-*who_jodelet
+A quoy bon si tu crains de me dire une chose ?
+
+-*who_nise
+Ne m'importune point.
+
+-*who_jodelet
+Dy le moy donc.
+
+-*who_nise
+Je n'ose.
+J'aymerois mieux mourir, car j'ay juré ma foy⁎
+De n'en parler jamais.
+
+-*who_jodelet
+Va, va, Nise, tay-toy,
+Je la sçauray, je gage.
+
+-*who_nise
+Encor de quelle sorte ?
+
+-*who_jodelet
+N'és-tu pas femme ?
+
+-*who_nise
+Non, je suis fille.
+
+-*who_jodelet
+Qu'importe ?
+Sers⁎-tu pas.
+
+-*who_nise
+Oüy je sers⁎, quoy qu'à mon grand regret.
+
+-*who_jodelet
+Et tu pourrois, dy-moy, me celer⁎ un secret ?
+
+-*who_nise
+Pour le sçavoir de moy, quel don me veux-tu faire ?
+
+-*who_jodelet
+Mais que demandes-tu bien plutost pour te taire ?
+Tu brusle de le dire, à ce que je puis voir,
+Cent fois plus que je n'ay desir de le sçavoir.
+
+-*who_nise
+Puis que tu fais paroistre en avoir peu d'envie
+Tu ne le sçauras point.
+
+-*who_jodelet
+Je ne vis en ma vie
+Tant aller ny venir, parle, depesche-toy,
+Voudrois-tu bien ici te deffier de moy ?
+
+-*who_nise
+Ne t'estonne si j'ose en user de la sorte,
+Car plus que tu ne crois cette chose m'importe,
+Jure moy donc avant de n'en parler jamais,
+Et je te le diray.
+
+-*who_jodelet
+Va je te le promets.
+Mais quel serment, dy-moy, veux-tu que je te fasse ?
+Puissay-je maintenant tomber dans ta disgrace,
+Et ne te voir jamais si l'on le sçait par moy.
+
+-*who_nise
+Va, je suis resoluë, et quasi⁎ je te croy.
+
+-*who_jodelet
+Parle donc librement, et sans aucun scrupule.
+
+-*who_nise
+Tu dois doncques sçavoir.
+
+-*who_jodelet
+Laisse ce preambule,
+
+-*who_nise
+Qu'un obstacle tres-grand, à ton Maistre fatal,
+Empesche qu'on ne l'ayme.
+
+-*who_jodelet
+Et bien quel ?
+
+-*who_nise
+Un Rival.
+Qu'il ne s'estonne point de voir qu'on le méprise,
+Depuis un an et plus, ma Maistresse est esprise
+D'un jeune Cavalier⁎, galand⁎, sage⁎, et discret⁎,
+Et cet Amour entr'eux est tellement secret,
+Que nous trois seulement en avons cognoissance :
+Depuis plus de six mois on le croit hors de France.
+Mais afin que de tout tu sois bien adverty,
+Il est en cette ville, et n'en est point sorty,
+Caché chez un amy, sans que cet amy mesme
+Ait peu sçavoir de luy quelle Maistresse il ayme.
+Il vient parfois la nuict voir cet objet⁎ aymé,
+Car le reste du jour il demeure enfermé,
+Et ma Maistresse alors me commande de mettre
+Pour servir de signal, un linge à la fenestre.
+Lors⁎ je le fais entrer sans scandale et sans bruit
+Par certain huis secret qui n'ouvre que de nuit ;
+Car tout le long du jour, il est fermé de sorte
+Qu'on ne sçauroit avoir soupçon de cette porte.
+Une grille respond en bas dans le jardin,
+Et se parlent par là du soir jusqu'au matin.
+Voy que je t'ay tout dit sans nulle retenuë,
+Garde-toy de causer, car je serois perduë⁎.
+
+-*who_jodelet
+Non, non, tu ne m'as fait l'histoire qu'à demy,
+Pourquoy me celes⁎-tu le nom de cet amy,
+Et celui du Rival ?
+
+-*who_nise
+Ariste est, ce me semble,
+Le nom de cet amy, mais croy moy que je tremble,
+Lors⁎ que je me resous à nommer ce rival ;
+Car il m'en peut sans doute arriver un grand mal.
+Va, Tindare est son nom ; mais adieu je te laisse,
+Car j'entends qu'on m'appelle, et que c'est ma Maistresse,
+Sors d'ici promptement, car il m'en faut aller,
+Et garde bien qu'un tiers n'en entende parler.
+
+-*who_jodelet
+Adieu donc mon Soleil. Ah la triste nouvelle !
+Quoy ? c'est là le sujet qui te rend si cruelle ?
+Et c'est là cet honneur que tu vantois si fort
+Perfide Liliane ? Ah Dieux mon Maistre est mort !
+Cette estrange nouvelle est un coup de tonnerre
+Qui le va roide mort faire tomber par terre.
+Je brusle de le dire, et je ne sçay comment
+J'ay tenu ce secret caché si longuement,
+La langue d'un valet est pire qu'un trompette,
+Voy que Nise a tenu la chose bien secrette,
+On me le vient d'apprendre au marais, et demain
+On le sçaura sans doute au fauxbourg S.Germain.
+Fin du premier Acte.
+
+**** *book_ *id_body-4-1 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+QUOI ? ce que tu m'as dit est-il vray ?
+
+-*who_jodelet
+Je le jure,
+Vous voudrois-je, Monsieur, repaistre d'imposture ?
+Nise m'a tout conté comme je vous l'ay dit.
+
+-*who_timandre
+Ah Dieux ! par ce rapport⁎ tu me rens interdit⁎ ?
+Quoy donc, tu viens icy par ce discours funeste
+A mes maux joindre un mal plus cruel que la peste,
+Ce vautour renaissant, cette jalouse humeur⁎
+Qui de son fier venin m'empoisonne le cœur ?
+Ah ! mon esprit se perd, et ma raison s'égare,
+Je ne me plains pas tant qu'elle aime ce Tindare,
+Comme je suis picqué d'apprendre que son cœur
+Se sert dans les mespris d'une fausse pudeur,
+D'un honneur chimerique ; Encor si la cruelle
+Me bravoit⁎ seulement pour estre indigne d'elle,
+Sçachant ce qu'elle vaut, je pourrois l'endurer,
+Et mesme sans m'en plaindre et sans en murmurer.
+Mais aymer ce rival ? ah Dieu j'en desespere,
+C'est par trop de mespris, je ne m'en sçaurois taire,
+Ce seroit estre lasche⁎, et trop manquer de cœur⁎,
+Vengeons-nous puissamment de ce sexe trompeur,
+Mon dépit aujourd'huy paroistra legitime,
+Si je vay de ce pas luy reprocher son crime.
+
+-*who_jodelet
+Que dites-vous, Monsieur ? quel est vostre dessein ?
+Ah ! mettez-moy plutost un poignard dans le sein,
+Car des le mesme instant, Nise seroit chassee,
+Voudriez-vous qu'elle fust si mal recompensee
+Des offices⁎ puissans qu'elle vous a rendus ?
+Que sa peine et ses soins⁎ fussent ainsi perdus⁎ ?
+Et voulez-vous aussi me ruiner moy-mesme
+Me rendant ennemy d'une fille qui m'ayme ?
+
+-*who_timandre
+Excuse, Jodelet, ce violent courroux,
+Puis-je estre retenu lors⁎ que je suis jaloux,
+Non, j'ayme mieux ici, de peur de te desplaire,
+Devorer mon dépit, et vaincre ma colere,
+Je la voy sur la porte, allons tost l'aborder⁎.
+
+-*who_jodelet
+Vous ne pourrez, Monsieur, jamais vous en garder,
+Je vous cognoy trop bien.
+
+**** *book_ *id_body-4-2 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+JE ne viens plus, Madame,
+Pour vous exagerer tous ces souspirs de flame⁎,
+Ces vœux⁎ et ces respects qui vous sont odieux,
+Mais pour mortifier ce cœur ambitieux,
+Abbaisser cet orgueil qui vous rend ainsi vaine⁎,
+Qui vous porte à ma honte à trancher⁎ de la Reyne,
+Je ry de vos faveurs, et je vous fais sçavoir
+Si j'ay dit que sur moy vous avez du pouvoir,
+Je m'en dédy tout haut, et puisque ma presence,
+Comme je le sçay bien, vous choque et vous offence,
+Je viens pour me vanger, vous declarer ici
+Que vous ne me causez ny peine ny souci⁎,
+Et que comme le corps n'abandonne point l'ame,
+Malgré vous jour et nuict je vous suivray, Madame,
+Voila le seul sujet qui m'emmeyne, et je puis
+Vous dire franchement qu'en l'estat où je suis
+Ma satisfaction est dans vostre colere.
+
+-*who_liliane
+Timandre, je devrois vous quitter et me taire,
+Vous trouvez, dites-vous, du bien dans mes rigueurs ?
+S'il est vray, je vous veux accabler de faveurs,
+Si mes plus grands mépris vous sont considerables,
+Et si vous estimez mes dédains agreables,
+Je suspendray ma haine, et jusques à tel poinct
+Que je vous aimeray pour ne vous aimer point.
+Car je mourray plutost, Timandre, que de faire
+Quelque chose qui soit capable de vous plaire.
+
+-*who_timandre
+Vous pensez me prescrire une severe loy,
+Mais avant que partir, de grace escoutez-moy.
+Je me mocque, Madame, et ce discours m'offence,
+Je hais une vertu qui n'est qu'en apparence.
+
+-*who_liliane
+Je tiens⁎ tous les mortels trop indignes de moy,
+Un Dieu mesme auroit peine à me donner la loy,
+Oüy, quand bien vous seriez l'Astre qui nous esclaire,
+Vous ne pourriez m'aimer, et ne me pas déplaire.
+
+-*who_timandre
+Il est vray, vostre honneur n'eut jamais de pareil,
+On ne vous peut blasmer, qu'en effect le Soleil
+Ait en vous jusqu'icy fait voir foiblesse aucune,
+Mais vous ne direz pas le mesme de la Lune,
+Alors qu'entre une et deux.
+
+-*who_liliane
+Que dict cet effronté ?
+
+-*who_timandre
+Je trace cet Eloge à vostre chasteté ;
+Et fais paroistre ici beaucoup de patience,
+Mais je seray contraint de rompre le silence.
+Si vous avez le don d'exceller en beauté,
+Vous témoignez ici bien plus de vanité,
+Ne me contraignez pas, Madame, de vous faire
+Un discours là dessus qui vous pourroit déplaire.
+
+-*who_liliane
+Vous ne pouvez rien dire avec vostre courroux,
+Qui me puisse déplaire en ce poinct plus que vous.
+
+-*who_timandre
+Quand je vous auray dit tout ce que j'ay dans l'ame,
+Je plairay moins encor ; eh de grace, Madame,
+Escoutez-moy de jour, puis que vous escoutez
+Mon rival chaque nuit.
+
+-*who_jodelet
+Ah vous vous emportez !
+
+-*who_liliane
+Tresve de ce discours, Monsieur, je vous supplie,
+Ce procedé vers moy tient trop de la folie,
+Et je necele⁎ point, que j'abhorre les fous.
+
+-*who_timandre
+Je veux pourtant avoir cette faveur de vous,
+Non pas avec dessein de vous prier de mettre
+La nuit un linge blanc pour marque à la fenestre.
+Qu'une grille responde en bas dans le jardin,
+Par où nous discourions du soir jusqu'au matin :
+Ny que j'entre de peur que vous soyez blasmée
+Par une porte ouverte, et qui semble fermée,
+Par où vous recevez la nuit ce languissant
+Caché dedans Paris, et que l'on croit absent,
+Que Nise fait venir toutes les nuits, de sorte
+Qu'il entre en seureté par cette fausse porte.
+N'en sçay-je pas assez ?
+
+-*who_liliane
+Vous le sçavez si bien
+Qu'on peut dire en ce poinct que vous n'ignorez rien.
+Vous avez sans mentir la memoire excellente.
+
+-*who_timandre
+Je croy qu'elle vous est en ce poinct déplaisante,
+C'est pour vous advertir à n'estre plus d'humeur⁎
+De tant exagerer chez vous un faux honneur,
+Ne tranchez⁎ point vers moy tant de l'honneste femme,
+Puis que je vous cognoy : Non, vos mespris, Madame,
+Ne me déplairoient point, s'ils avoient seulement
+En cette occasion⁎ l'honneur pour fondement.
+Avec un tel defaut, vous estes trop hautaine,
+Soyez d'oresnavant plus modeste et moins vaine⁎,
+Ne me dédaignez point, car chacun vaut son prix,
+Et tenez⁎ pour certain que c'est de vos mespris
+Que ce discours provient, non de ma jalousie ;
+Et que plus que la mort je hay l'hypocrisie,
+Et toute vanité, car la vertu toujours
+Se fait voir aux effects, et non pas au discours.
+Pardonnez ce transport⁎, Madame, et vous souvienne
+Qu'une langue en est cause, et ce n'est pas la mienne.
+
+-*who_liliane
+Qu'entends-je justes Dieux ?
+
+-*who_jodelet
+Qu'avez-vous fait Monsieur ?
+
+-*who_timandre
+Je ne sçay mon Amy.
+
+-*who_nise
+Grands Dieux je meurs de peur !
+Qu'en cette occasion⁎, Madame ne m'accuse.
+
+-*who_timandre
+N'allez point inventer quelque nouvelle excuse,
+Ce que je dis est vray, j'en suis bien asseuré.
+
+-*who_liliane
+Tu m'as trahie infame⁎, ah ! j'en eusse juré.
+
+-*who_nise
+Cela n'est point, Madame, et je vous le proteste.
+
+-*who_liliane
+Des valets langagers sont pires que la peste,
+Dieux à qui me fiois-je ?
+
+-*who_jodelet
+Ah vous avez grand tort !
+
+-*who_liliane
+Sans doute tu seras la cause de ma mort.
+
+-*who_jodelet
+Cette fille en patit, voyez que l'on l'accuse.
+Ah Dieux qu'avez-vous dit !
+
+-*who_timandre
+Invente quelque ruse,
+Pour nous tirer tous deux de ce dedale ici.
+
+-*who_jodelet
+S'il ne tient qu'à mentir, laissez-m'en le souci⁎,
+Demeurerois-je court en si belle matiere ?
+Non, non, ne craignez point, je ne tarderay guere.
+
+-*who_nise
+Escoutez-moy, Madame.
+
+-*who_liliane
+Ah ! perfide tay toy.
+
+-*who_nise
+Si quelqu'un vous a fait ce faux rapport⁎ de moy
+Sans doute il a menty, car jamais en ma vie,
+Et me croyez, madame, il ne m'en prist envie.
+
+-*who_jodelet
+J'ay conceu dans moy-mesme un tour assez plaisant.
+
+-*who_timandre
+Je t'ay tousjours cognu l'esprit assez present,
+Va, va, je t'ayderay.
+
+-*who_jodelet
+Quand on me devroit pendre,
+Je le diray, Monsieur, je ne m'en puis defendre.
+Je ne sçaurois souffrir⁎ que l'on blasme en effect
+Cette servante ici d'un rapport⁎ que j'ay fait.
+Madame, vous taxez à tort son innocence,
+Je me sens obligé mesme en ma conscience
+De reveler ici le tout de poinct en poinct.
+Que gagnez-vous, Monsieur, je ne me tairay point.
+Madame, il me fait signe ici que je me taise,
+Mais je n'en feray rien, luy plaise ou luy déplaise,
+Je vous conteray tout.
+
+-*who_timandre
+Mais voyez ce maraut⁎,
+Qu'est-ce qu'il va conter ?
+
+-*who_jodelet
+Ne parlez point si haut,
+Ferois-je pas , Madame, une grande injustice ?
+Car si j'ay fait le mal, faut-il qu'elle en patisse ?
+Que sert en ce sujet de faire tant le fin ?
+Sçachez donc que je suis Astrologue⁎ et Devin.
+Je voy bien en effect que mon Maistre s'en fasche⁎,
+Pour cause il ne veut pas que personne le sçache,
+Mais en ce fameux art, sans rien dissimuler,
+Il n'est homme icy bas qui me puisse égaler,
+Je sçay ce qui se fait au fond de l'Allemagne,
+En Flandre, en Italie, en Hongrie, en Espagne,
+Je sçay des ennemis les secrets plus cachez,
+Et comme l'A, b, c, je cognoy vos pechez,
+Je fourny tous les jours cent nouvelles secrettes
+Au maistre du Bureau pour remplir ses Gazettes,
+Et pour avoir sur luy quelques hauts ascendants,
+Je luy dy les tenir de mes correspondants.
+
+-*who_timandre
+Que dit cet insensé ?
+
+-*who_jodelet
+Je dy ce qui vous fasche⁎,
+Mais entre vous et moy, serois-je pas bien lasche⁎
+Et bien dénaturé de souffrir⁎ aujourd'huy
+Que l'innocent patist pour la faute d'autruy ?
+Pour vous desabuser, sçachez doncques, Madame,
+Que sçachant comme vous les secrets de vostre ame,
+Voyant que vous traittiez mon Maistre avec rigueur,
+Je luy fis hier au soir voir à nud vostre cœur ;
+Je luy fis voir à clair par un rare⁎ artifice
+Le sujet qui vous fait mépriser son service⁎,
+Je luy fis contempler dans un certain miroir
+Tout ce qu'il vient ici de vous ramentevoir.
+La grille, le jardin, le linge, la fenestre,
+Et le galand⁎ aussi qu'il peut alors cognoistre,
+Devisant avec vous, sans qu'il peust toutefois
+Entendre ses discours, ny discerner sa voix.
+
+-*who_timandre
+Puis que cet impudent a commencé, Madame,
+A descouvrir ici les secrets de mon ame,
+Je veux tout advoüer, et vous veux dire aussi
+Le sujet qui m'oblige à le cacher ainsi.
+Vous avez dans Paris autrefois veu paroistre
+Un qui dans ce mestier estoit l'unique maistre,
+Qu'on appelloit Cesar, en cet art si fameux
+Qu'ainsi que dans un Livre il lisoit dans les Cieux.
+Aussi ces feux brillans sont une tablature
+Capable de servir aux doctes d'escriture,
+Pour cognoistre par là le soir et le matin,
+Quel doit estre leur bon ou leur mauvais destin.
+Il sçavoit quand la nuict tendoit ses noires voilles,
+Juger de l'advenir par le cours des estoilles,
+Et sans luy voir en rien l'esprit embarassé,
+Ainsi que l'advenir, il sçavoit le passé.
+Il sçavoit la vertu des pierres, et des plantes,
+Et par l'oblique cours des estoiles errantes,
+Joint aux Astres brillants cloüez au Firmament,
+Faisoit de nos destins un certain jugement.
+Ce prodige estonnoit⁎ une simple cervelle,
+Estimant que la cause en fust surnaturelle,
+Ce qui faisoit qu'aucuns l'estimoient un pipeur,
+Les uns Magicien, les autres enchanteur,
+Et cette opinion passoit pour si certaine
+Que ces credules sots l'ont souvent mis en peine,
+Et mesme la pluspart de ce peuple grossier
+Soustenoit qu'il avoit un esprit familier.
+Mais moy qui ne croy pas de leger aux merveilles,
+Qui déments en ce poinct mes yeux et mes oreilles,
+J'ay creu, sondant avant dans ces secrets cachez
+Qu'à la seule science ils estoient attachez.
+Il croyoit que m'estant amy si fort intime,
+S'il m'eust teu quelque chose eust esté faire un crime,
+Ce qui peut l'obliger lors⁎ à me faire part
+De tout ce qu'il avoit de plus rare⁎ en son art.
+Mais craignant que cet art n'engendrast des scrupules
+Capables d'ébranler les esprits trop credules,
+Qui pourroient de moy faire un mauvais jugement.
+Pour me mettre à l'abry de cet evenement,
+Et tirer quant-et-quant profit de sa science,
+Je fy que mon valet en eust la cognoissance,
+Il y prist tant de peine, et l'instruisit si bien
+Qu'en peu moins de trois mois, il n'ignoroit plus rien,
+Et de luy-mesme apres s'est rendu si capable
+Qu'en ce rare⁎ sçavoir il est incomparable.
+Mais comme en ce bel art on le vit exceller,
+Des jaloux envieux en voulurent parler,
+Qui ne cognoissans pas la noble Astrologie⁎,
+Luy voulurent donner le surnom de Magie.
+Il s'en lava pourtant, mais en quelque façon
+Redoutant le scandale, et qu'on en eust soubçon,
+J'ay voulu qu'il cachast cette rare⁎ science,
+Luy commandant sur tout de garder le silence,
+Et se monstrer muet, redoutant le danger
+A qui sur ce sujet viendroit l'interroger.
+Moy voyant à ce poinct ma gloire traversee,
+Et ma fidelle amour si mal recompensee,
+Et me voyant de vous jusques icy traitté
+Avec trop de mespris et trop d'indignité,
+Je ne vous cele⁎ point que j'ay voulu cognoistre
+Ce qui vous obligeoit à me faire paroistre
+Ces evidents effects de vostre adversion,
+Et pourquoy vous braviez⁎ ainsi ma passion.
+Et par le seul moyen de ce maraut⁎ infame⁎,
+Qui vous a revelé les secrets de mon ame,
+J'ay veu le linge blanc, la grille, le jardin,
+La porte, la fenestre, et cognu qu'à la fin
+Tout tendoit à ma perte, ah Dieux je perds courage !
+Suffit, je ne puis pas en dire davantage.
+Si j'ay paru, Madame, en ce poinct peu discret
+De vous avoir ici revelé ce secret,
+Qui comme vous sçavez m'est de telle importance,
+C'est que j'ay desiré vous oster la croyance,
+Que vous avez conceuë, et que c'est sans raison
+Qu'ici vous accusez Nise de trahison.
+
+-*who_jodelet
+Ce qu'il vous dit est vray, Madame, je vous jure,
+Et je ne serois pas en si pauvre posture
+Si je n'avois cognu dans l'arrest du destin,
+Que je m'en doy trouver bien-heureux à la fin.
+Et qu'en servant⁎ ainsi, je cours fortune⁎ d'estre
+Avant qu'il soit long-temps plus riche que mon maistre.
+
+-*who_liliane
+Que deviendray-je, ô Dieux ! je suis tout hors de moy.
+
+-*who_nise
+Aurez-vous desormais des doutes de ma foy⁎.
+Pourrez-vous m'accuser que je vous ay venduë ?
+
+-*who_jodelet
+La fourbe⁎ est excellente, et quasi⁎ je l'ay creuë,
+Tant vous l'avez, Monsieur, sceu peindre adroitement.
+
+-*who_liliane
+Vostre discours, Monsieur, m'estonne⁎ extremement.
+Mais je n'ay point, je croy, de sujet de me plaindre,
+Car vous cognoissant bien je ne doy jamais craindre
+Qu'un brave⁎ Cavalier⁎, si noble et si discret⁎
+Pour me perdre⁎ d'honneur revele mon secret.
+Vous le devez au sexe, et j'aurois tort de croire
+Que vous vous voulussiez opposer à ma gloire,
+Puis que vostre valet a cet art merveilleux,
+De pouvoir penetrer jusques dedans les Cieux,
+Puis qu'il cognoist l'Amour où mon Astre m'incline,
+Qu'il m'est force d'aller où le Ciel me destine,
+En voyant vostre flame⁎, et vos desseins trahis,
+Accusez-en, Monsieur, l'Astre à qui j'obeïs.
+En tout autre dessein le Ciel vous soit propice,
+Voyez où je pourray vous rendre du service.
+
+-*who_timandre
+Si le Ciel vous defend de me rien accorder,
+Aurois-je bien le front de vous rien demander ?
+Adieu, sur ce discours je vous quitte, Madame,
+Mais sur tout n'ayez pas aucun soupçon en l'ame,
+Que jamais pour mourir j'évente ce secret.
+Reposez-vous sur moy.
+
+-*who_liliane
+Je vous tiens⁎ trop discret.
+
+**** *book_ *id_body-4-3 *act_ *date_1646 *creator_ouville
+
+-*who_liliane
+NIse, fut-il jamais fille plus malheureuse ?
+Regarde où me reduit cette flame⁎ amoureuse ?
+Quel fruit j'ay recueilly de ma precaution ?
+Si le destin ainsi trahit ma passion ?
+Quoy les plus grands secrets qui soient en la nature,
+Veulent rendre eternels les tourmens que j'endure ?
+Et mon sort rigoureux approuvant leur dessein
+Se resout à me mettre un poignard dans le sein ?
+
+-*who_nise
+Non, non, n'ayez Madame, aucune deffiance,
+Que Timandre jamais à ce poinct vous offence,
+Il est noble, et remply de generosité.
+
+-*who_liliane
+Ah Dieux ! c'est un Amant que j'ay trop rebuté⁎,
+Il voudra se vanger, et me perdre⁎ sans doute.
+
+-*who_nise
+Non, ne le craignez point.
+
+-*who_liliane
+C'est ce que je redoute,
+Tout m'est indifferent, et la vie et la mort,
+Ainsi je me remets aux volontez du sort.
+
+**** *book_ *id_body-4-4 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+HElas ! j'estois perdu⁎ sans toy, je le confesse,
+Je ne sçaurois assez admirer ton adresse,
+C'est trop peu te payer que d'un remerciement,
+Pour un service tel reçoy ce diamant.
+
+-*who_jodelet
+Je vous baise les mains⁎, mais aussi je proteste
+Que vous avez, Monsieur, bien achevé le reste,
+Vous avez si bien feint, que peu s'en est fallu
+Tant vous estes adroit, que je ne l'aye creu.
+Mais encor dites moy, comme avez-vous peu faire
+D'avoir si promptement trouvé cette chimere ?
+
+-*who_timandre
+Croy que toute la ruse, et la subtilité
+Gist au mensonge adroit, et si bien inventé,
+Qu'il ne s'esloigne point du tout du vray-semblable.
+
+-*who_jodelet
+Pour avoir fait passer ce cas pour veritable
+Vous m'advoüerez, Monsieur, que nous ne tenions rien
+Rencontrant un esprit plus subtil que le sien.
+
+-*who_timandre
+Je voy venir Acaste, il est amy d'Ariste,
+Et mon grand confident.
+
+**** *book_ *id_body-4-5 *act_ *date_1646 *creator_ouville
+
+-*who_acaste
+QUi vous rend ainsi triste?
+
+-*who_timandre
+Me le demandez-vous en l'estat où je suis ?
+Ne sçavez-vous pas bien d'où naissent mes ennuis⁎ ?
+Et de quelle façon me traitte ma cruelle ?
+Encore qu'à present la cause en soit nouvelle.
+
+-*who_acaste
+Ne la sçauray-je point ?
+
+-*who_timandre
+Je vous la dirois bien.
+Mais j'ay fait un serment.
+
+-*who_acaste
+Vous ne me direz rien ?
+Me traittez-vous ainsi ? ce procedé m'offence.
+
+-*who_timandre
+Quoy que la chose soit de tres-grande importance,
+Je n'ay, vous le sçavez, rien de caché pour vous,
+Je vous le diray donc, mais, Acaste entre nous.
+
+-*who_acaste
+Cette precaution, Timandre, est inutile.
+
+-*who_timandre
+Que diriez-vous, amy, si dedans cette ville
+Tindare, dont j'estois à grand peine jaloux
+Depuis six mois entiers estoit caché chez vous ?
+Chez Ariste j'entens, car sçachant qu'il vous aime,
+Je le tiens⁎ justement estre un autre vous-mesme.
+Vous sçavez que Tindare a fait courir le bruit
+Qu'il est en Italie : Or sçachez que la nuit
+Il s'en va deguisé parler à ma Maitresse,
+Qui pour luy meurt d'amour, et qui fait la Lucrece.
+Vous en serez surpris, sans doute comme moy.
+
+-*who_acaste
+Amy que dites-vous ? à peine je vous croy.
+Ariste vient ici qui me le pourra dire.
+Je vay luy demander.
+
+-*who_timandre
+Adieu, je me retire,
+Nous nous verrons tantost⁎.
+
+**** *book_ *id_body-4-6 *act_ *date_1646 *creator_ouville
+
+-*who_acaste
+AMy je vous cherchois.
+
+-*who_ariste
+Qu'avez-vous à me dire ?
+
+-*who_acaste
+Ariste je voudrois
+Sçavoir s'il est certain, car la chose m'importe,
+Que depuis quelque mois Tindare soit de sorte
+Refugié chez vous, et si secrettement
+Qu'il ne sort du logis que de nuict seulement,
+Pour voir et pour parler à certaine Maistresse
+Qu'on nomme Liliane.
+
+-*who_ariste
+Ah Dieux ! par quelle adresse,
+Par quel moyen je viens à sçavoir aujourd'huy
+Ce que je n'ay jamais peu descouvrir par luy.
+Encor que l'on m'ait fait une defense expresse
+De tenir ce secret, amy je vous confesse,
+Car ne vous celant⁎ rien, je fay ce que je doy,
+Qu'il est depuis six mois entiers caché chez moy.
+Il ne sort que de nuit, et c'est une folie
+De croire, comme on dit, qu'il soit en Italie,
+Mais si je vous le dy gardez bien d'en parler,
+C'est un secret qu'on m'a conjuré de celer⁎.
+
+-*who_acaste
+Je n'en parleray pas, n'en soyez point en peine.
+
+-*who_ariste
+S'il aime Liliane, ah ma peur est bien vaine
+De croire que l'objet⁎ qui cause mon soucy⁎
+Soit la cause et l'objet⁎ de ses peines aussi.
+Je n'ay point témoigné ma passion extresme
+Ny mes transports⁎ d'amour à la beauté que j'ayme,
+Croyant que mon amy pour qui j'ay du respect,
+Bruslast aussi d'amour pour ce charmant objet⁎.
+Mais à ce que je voy je ne m'en doy point feindre,
+Ayant plus de sujet d'esperer que de craindre.
+Ah ma chere Jacinte, et quand viendra le jour
+Que tu m'obligeras⁎ d'un reciproque amour ?
+Grands Dieux, lors⁎ que j'avois une ferme esperance
+Que mon amy partoit, et que par son absence
+J'aurois lieu de servir⁎ cette rare⁎ beauté
+Et de me declarer en pleine liberté,
+En feignant estre absent de la beauté que j'ayme
+Je le tiens dans Paris, et dans mon logis mesme.
+Mais allons la trouver, le Ciel m'inspirera,
+Et je me resoudray sur ce qu'elle dira.
+Fin du second Acte.
+
+**** *book_ *id_body-5-1 *act_ *date_1646 *creator_ouville
+
+-*who_ariste
+JE ne sçay si venant de la part de Tindare
+J'auray droict d'aborder⁎ une beauté si rare⁎,
+Madame, puis-je entrer avecque liberté ?
+
+-*who_jacinte
+Vous avez de vous-mesme entiere authorité,
+Monsieur, mais dites-moy quelles bonnes nouvelles
+Avez-vous de sa part ?
+
+-*who_ariste
+Madame elles sont telles
+Que vous les souhaittez, il se porte fort bien,
+Mais par cet ordinaire il ne vous mande⁎ rien
+Qu'un mot de compliment⁎ seulement dans ma lettre.
+
+-*who_jacinte
+Juste Ciel, comment donc m'oseray-je promettre
+Qu'il m'aime comme il dit ? car ayant de l'amour
+Pourroit-il demeurer sans m'escrire un seul jour ?
+Qu'en dites-vous Ariste ? Ah folles que nous sommes
+De nous fier si fort aux paroles des hommes.
+Il est mesme parti le cruel de ce lieu
+Sans m'estre venu voir, et sans me dire adieu.
+Pardonnez mon transport⁎, je ne sçaurois moins faire,
+Et ce n'est qu'à vos yeux qu'éclatte ma colere.
+
+-*who_ariste
+Vostre plainte est tres-juste, et je dois en effect
+Accuser mon amy du tort qu'il vous a fait,
+S'il n'estoit pas si loing, Madame, je vous jure
+Que j'irois à son cœur reprocher cette injure.
+Est-il possible, ô Dieux ! qu'il ait si peu d'amour
+Pour le plus rare⁎ objet⁎ qui respire le jour ?
+Vous meritez sans doute une autre recompense.
+Je prens congé de vous, mais durant mon absence
+Croyez que dessus moy vous avez tout pouvoir.
+
+-*who_jacinte
+Faites-moy la faveur de me venir revoir,
+Le plus que vous pourrez, Ariste, je vous prie,
+Afin de divertir un peu ma resverie,
+Pour discourir nous deux souvent de ce cruel.
+
+-*who_ariste
+Je n'y manqueray pas, Madame. Juste Ciel
+Amour que pretends-tu ? d'où te vient ce caprice ?
+Pourquoy me fais-tu faire une telle injustice ?
+Tindare mon amy, quoy qu'on le tienne⁎ absent,
+Est ici dans Paris : et quoy ton cœur consent
+A le desobliger⁎ ; lasche⁎, perfide, traistre,
+Comment devant Tindare oseras-tu paroistre ?
+Mais Jacinte est trop belle, et je ne sçaurois pas
+Vivre et n'adorer point tant de charmans appas.
+Amy pardonne-moy, ne trouve point estrange
+Si j'adore ses yeux puis que tu cours au change⁎.
+Mais j'apperçois Acaste, allons, sortons d'ici,
+Son abord ne feroit qu'augmenter mon souci⁎.
+
+**** *book_ *id_body-5-2 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+AInsi que je le dy la chose s'est passee,
+Jamais fille ne fut si fort embarassee ;
+Je sçavois ce secret, et n'avois pas dessein
+Qu'elle le sceust de moy, mais ce cœur trop hautain
+M'a traitté de mespris avec tant d'arrogance
+Que je n'ay peu du tout souffrir⁎ son impudence,
+L'ingrate m'a contraint exprez pour la fascher⁎,
+De publier son crime, et le luy reprocher.
+Je m'en suis repenty d'abord, je le confesse,
+Mais Jodelet alors avec ce tour d'adresse,
+Comme je vous ay dit, a le tout reparé,
+Mais si subtilement, que vous eussiez juré
+La chose veritable, enfin dans sa croyance
+Il est le plus sçavant Astrologue⁎ de France.
+
+-*who_acaste
+Ce conte sans mentir est subtil et plaisant.
+
+-*who_timandre
+Ce n'est pas tout, Acaste, il nous faut à present
+Publier en tous lieux cette estrange nouvelle,
+Et la mettre par là s'il se peut en cervelle,
+Soustenant hautement qu'il est vray devant tous,
+Car l'apprenant ainsi par d'autres que par nous,
+Elle croira bien mieux la chose veritable,
+Et Nise en ce faisant ne sera plus coupable.
+
+-*who_acaste
+Il ne faut que nous deux, car moy la publiant
+Comme je pretens faire, et vous en l'advoüant,
+Qui pourra par apres soustenir le contraire ?
+Laissez-moy comme il faut ménager cette affaire.
+
+-*who_jodelet
+Et moy, me croyez-vous l'esprit si peu rusé
+Que chacun n'y soit pas par moy-mesme abusé⁎ ?
+Je ne parleray point qu'aussi-tost je ne face
+En fronçant le sourci quelque estrange grimace,
+Je tourneray les yeux quelquefois de travers,
+Je sçauray composer mille gestes divers,
+Comme un Poëte qui prend des vers à la pipee.
+Quelle cervelle apres n'y seroit attrapee ?
+Je diray, si quelqu'un vient vanter mon sçavoir,
+C'est icy quelque fat qui me vient decevoir⁎,
+Quoy ? vous pensez Messieurs, qu'aysement on m'abuse⁎ ?
+Je n'eus pour me guider jamais verve ny muse,
+Je ne suis point Docteur, je cognoy seulement
+Quelques signes cachez qui sont au Firmament.
+Mais ceux que je feray feront assez cognoistre
+Qu'en ce rare⁎ mestier je veux passer pour Maistre.
+Mais que feray-je apres ? sur un si faux bruit,
+Pour sçavoir son destin le monde me poursuit,
+Sur ce qu'on m'enquerra que pourray-je respondre ?
+Le moindre suffira, Messieurs, pour me confondre,
+Mesme les ignorants en seront estonnez⁎,
+Et chacun me verroit avec un pied de nez.
+Si l'on me fait parler, je ne pourray rien dire,
+Vous sçavez bien, Messieurs, qu'à peine puis-je lire ?
+
+-*who_acaste
+Fay tout ainsi qu'ils font pour acquerir renom,
+Il ne faut qu'un oüy, quelquefois et qu'un non
+Pour dupper l'ignorant sur ce qu'il vous confesse :
+Mais il le faut conduire avecque telle adresse,
+N'affirmant jamais rien, qu'on t'estime sçavant,
+Ceux qui parlent beaucoup rencontrent⁎ bien souvent.
+Les faiseurs d'Almanachs, les Devins, les Bohemes,
+Je mets tout en un rang, et tous les sçavans mesmes,
+Nul d'eux quoy qu'on les croye habiles en leur art
+Ne rencontrent⁎ jamais si ce n'est par hazard.
+
+-*who_timandre
+Ariste vient ici.
+
+-*who_acaste
+Retirons-nous, Timandre,
+Il cherche le filet, sans doute il vient s'y prendre,
+Il ne nous a point veus, duppe le.
+
+-*who_timandre
+Je le veux.
+
+-*who_acaste
+Adieu.
+
+**** *book_ *id_body-5-3 *act_ *date_1646 *creator_ouville
+
+-*who_ariste
+FUt-il jamais homme plus malheureux ?
+Je suis le confident et l'amy de Tindare,
+Il m'ayme, je le sçay, mais d'une amitié rare⁎,
+Il m'est amy, je suis neantmoins son rival ;
+O Dieux ! est-il destin à mon destin esgal ?
+Quel bien dans mon amour me pourrois-je promettre ?
+J'apporte de Tindare à Jacinte une lettre,
+Il la date de Rome, et l'escrit de chez moy ;
+Grands Dieux à mon amy c'est bien manquer de foy⁎ !
+Quoy ? je m'ose addresser à la beauté qu'il ayme,
+Connoissant que l'amour de Jacinte est extresme ?
+Allons chez elle, oyons ce qu'elle nous dira,
+Et peut-estre qu'alors le Ciel m'inspirera,
+Il me faut declarer à la beauté que j'ayme,
+C'est Acaste, je croy, sans doute c'est luy-mesme.
+
+**** *book_ *id_body-5-4 *act_ *date_1646 *creator_ouville
+
+-*who_acaste
+LE voici, mais feignons de ne l'avoir point veu,
+Commençons nostre fourbe⁎ ; Ah grands Dieux qui l'eust creu !
+Comment peut un mortel de si basse naissance
+Posseder comme il fait une telle science ?
+
+-*who_ariste
+Que faites-vous Acaste ? où s'adressent vos pas ?
+Quoy ? je suis prés de vous, et ne me voyez pas ?
+
+-*who_acaste
+J'ay les sens tout confus, Ariste, je le jure,
+Ce que je viens de voir me semble une imposture,
+Je suis tout estonné⁎, vous le serez aussi.
+
+-*who_ariste
+Dites moy ce que c'est ?
+
+-*who_acaste
+Sommes-nous seuls icy ?
+
+-*who_ariste
+Oüy parlez librement.
+
+-*who_acaste
+Vous cognoissez Timandre ?
+
+-*who_ariste
+Oüy, fort bien, achevez.
+
+-*who_acaste
+Cela vous va surprendre
+Ainsi comme il m'a fait. Il a certain valet
+Que vous cognoissez bien, appellé Jodelet.
+Ah ! quel rare⁎ homme c'est !
+
+-*who_ariste
+Comment ?
+
+-*who_acaste
+C'est un prodige.
+
+-*who_ariste
+Un prodige ? Comment ?
+
+-*who_acaste
+Un miracle, vous dis-je ?
+
+-*who_ariste
+Cet homme si mal fait⁎ ? que je voy si souvent ?
+
+-*who_acaste
+C'est de tous les mortels l'homme le plus sçavant,
+Comme son Alphabeth il sçait l'Astrologie⁎,
+Et je ne pense pas qu'il n'use de Magie.
+Il le faut croire ainsi, car sans estre sorcier,
+Et sans avoir sur luy quelque esprit familier
+Il ne sçauroit jamais par aucune science
+Faire ce qu'il a fait tantost⁎ en ma presence.
+Vous seriez estonné⁎ de tout ce qu'il a fait,
+Il a devant mes yeux fait parler un portraict.
+Je suis tout hors de moy d'avoir veu ces merveilles
+Qui bien plus que mes yeux ont trompé mes aureilles.
+Il m'a rendu l'esprit si fort embarassé
+Alors qu'il m'a conté tout ce qui s'est passé
+Depuis que je suis nay, jusqu'aux moindres pensees
+Que j'en suis tout confus, si comme les passees
+Il cognoist comme il dit les choses à venir,
+Je doy cherir mon sort, ouy je le doy benir,
+Car jamais sous le Ciel ne se vit heur⁎ semblable
+A l'heur⁎ qu'il me promet.
+
+-*who_ariste
+Est-il bien veritable ?
+
+-*who_acaste
+Il n'est rien de plus vray ; Mais le cognoissez-vous ?
+
+-*who_ariste
+Pour moy je le prenois pour le Maistre des fous,
+J'ay parlé seulement une fois à son Maistre,
+Que je n'ay pas l'honneur autrement de cognoistre.
+Mais je remarqué lors⁎ que ce valet icy
+Grimassoit en resvant⁎, et fronçoit le sourcy,
+Comme s'il eust tramé quelque grande entreprise,
+Mais je l'attribuois purement à sottise,
+Et n'en pouvois pas faire un autre jugement.
+
+-*who_acaste
+Sa fureur le tenoit pour lors⁎ asseurement.
+Il ne faut pas toujours juger sur l'apparence.
+
+-*who_ariste
+Donnez-moy, cher amy, l'heur⁎ de sa cognoissance,
+Vous m'obligerez⁎ fort.
+
+-*who_acaste
+Oüy, quand vous le voudrez
+Je vous y meneray, certes vous cognoistrez
+Un excellent esprit, et le plus sçavant homme
+Que l'on sçauroit trouver d'icy jusques à Rome.
+Que dis-je jusqu'à Rome ? ah dessous le Soleil
+Je croy qu'on auroit peine à trouver son pareil.
+Vous verrez sans mentir des choses admirables,
+Que vous ne tiendrez⁎ pas vous mesme veritables.
+
+-*who_ariste
+Seroit-il bien sorcier ?
+
+-*who_acaste
+Il n'en faut point douter,
+Il faudroit trop de temps, je ne puis tout raconter.
+
+-*who_ariste
+J'ay quelque affaire icy. Voudriez-vous m'attendre
+Chez vous ?
+
+-*who_acaste
+Ne manquez pas, Ariste, à vous y rendre,
+J'iray droict de ce pas. Il en tient tout de bon⁎.
+
+-*who_ariste
+La surprise est estrange, Ah Dieux le croiroit-on !
+S'il ne m'abuse⁎ pas, luy-mesme il s'abuse⁎,
+Me dire qu'un valet qui me semble une buze,
+Soit un tel personnage ? un prodige en sçavoir ?
+Un tresor de tel prix ? allons il le faut voir ;
+Mais n'apperçoy-je pas Jacinte sur sa porte ?
+Dieux de quelle façon cet amour me transporte⁎,
+Portons-luy cette lettre, allons nous declarer,
+Sçachons s'il faut mourir, ou s'il faut esperer.
+
+**** *book_ *id_body-5-5 *act_ *date_1646 *creator_ouville
+
+-*who_julie
+LE disois-je pas bien ? c'est Ariste, Madame.
+
+-*who_jacinte
+Ariste, justes Dieux ! quel trouble j'ay dans l'ame.
+Ariste, qu'avez-vous ?
+
+-*who_ariste
+Rasseurez vostre esprit,
+Je viens de recevoir maintenant cet escrit,
+Madame le voila.
+
+-*who_jacinte
+De la part de Tindare ?
+
+-*who_ariste
+De qui doncques, Madame ?
+
+-*who_jacinte
+Ah mon esprit s'égare !
+Je suis si hors de moy, j'ay les sens si confus
+Qu'en l'estat où je suis je ne me cognoy plus.
+Mais encor dites moy d'où m'escrit-il Ariste ?
+
+-*who_ariste
+Il vous escrit de Rome.
+
+-*who_jacinte
+Ah ce discours m'attriste,
+Veut-il toute sa vie estre esloigné de moy ?
+
+-*who_ariste
+Il vous contentera là dessus que je croy.
+
+-*who_jacinte
+Voyons ce qu'il m'escrit.
+
+-*who_ariste
+Il faut prendre courage,
+Je ne doy point sans doute attendre davantage,
+Mais que peut, justes Dieux ! contenir cet escrit ?
+Je voy qu'en le lisant Jacinte s'attendrit,
+Je suis mort autant vaut⁎, je perds toute esperance,
+De m'aller descouvrir, grands Dieux quelle apparence ?
+Elle témoigne trop l'amour qu'elle a pour luy.
+
+-*who_jacinte
+Je ne verray jamais de fin à mon ennuy⁎,
+Laissons, ne lisons pas cet escrit davantage,
+Si j'ay beaucoup d'amour, j'ay bien peu de courage
+D'adorer cet ingrat en voyant ses mespris.
+
+-*who_ariste
+Courage, tout va bien, reprenons nos esprits.
+
+-*who_jacinte
+Ah ! je meurs de douleur.
+
+-*who_ariste
+Que ma raison est vaine⁎.
+
+-*who_jacinte
+Cette absence me met, Ariste, en telle peine,
+Tant j'ayme cet ingrat, que je ne pense pas
+Dans ces pressans ennuis⁎ éviter le trespas,
+J'ay peur que tout au moins ma raison ne s'emporte.
+
+-*who_ariste
+N'en parlons plus, ô Dieux ! mon esperance est morte.
+
+-*who_jacinte
+Ariste, pleust à Dieu que je peusse un moment
+Parler à cet ingrat, ou le voir seulement.
+Mais cela ne se peut.
+
+-*who_ariste
+Si vous voulez, Madame,
+Je puis bien en ce poinct soulager vostre flame⁎,
+Il m'est facile assez de vous le faire voir.
+
+-*who_jacinte
+Vous mocquez-vous, Ariste, auriez-vous ce pouvoir  ?
+Si vous faites cela vous me donnez la vie.
+
+-*who_ariste
+Laissez moy contenter vostre amoureuse envie.
+
+-*who_jacinte
+Il est donc dans Paris ? ah ! douceur de mon sort.
+
+-*who_ariste
+Ah Dieux ! en ce faisant je procure ma mort.
+Reparons cette faute, usons d'une industrie⁎.
+
+-*who_jacinte
+Parlez-moy franchement Ariste, je vous prie.
+
+-*who_ariste
+Il faut pour contenter mon desir et le sien
+Me servir en ce cas de ce Magicien.
+Ouy Jodelet le peut, sa science est certaine,
+Et par un tel moyen je la veux mettre en peine.
+Madame, je cognois un homme qui peut tout,
+Qui de tous vos desseins pourra venir à bout,
+Et vous fera venir aujourd'huy sans obstacle
+Tindare d'Italie en ce lieu par miracle.
+
+-*who_jacinte
+Ariste, resvez⁎-vous ?
+
+-*who_ariste
+Non, je ne resve⁎ point.
+
+-*who_jacinte
+Quoy ? je serois heureuse ? et jusques à ce poinct ?
+Je pourrois voir ici ce cher Amant que j'ayme ?
+
+-*who_ariste
+Non Tindare en effect, mais un autre luy-mesme,
+Un esprit fantastique, un corps formé dans l'air,
+Que vous verrez, Madame, et luy pourrez parler,
+Au mesme estat qu'il est à present dedans Rome.
+
+-*who_jacinte
+Un esprit peut dans l'air prendre forme d'un homme ?
+Qui ne sera pas luy, mais qui le paroistra ?
+
+-*who_ariste
+Ouy dans le mesme estat que pour lors⁎ il sera,
+Mais aurez-vous, Madame, assez de hardiesse
+Pour luy pouvoir parler ? je crains vostre foiblesse,
+Et que vous n'osiez pas ce que vous souhaittez.
+
+-*who_jacinte
+Ariste, c'en est trop, vous me persecutez,
+Faites-moy seulement le bien que je le voye,
+Vous comblerez mes sens de trop d'heur⁎ et de joye,
+Ne me retardez point cette felicité.
+
+-*who_ariste
+Je pretens l'abuser⁎ avec la verité.
+Cognoissez vous Timandre, un homme d'importance ?
+Qui se tient ici prez ?
+
+-*who_jacinte
+J'ay peu de cognoissance
+Avec luy, l'est-ce donc ?
+
+-*who_ariste
+Non, mais un sien valet
+Qui le suit quelquefois, qu'on nomme Jodelet.
+Madame croyez-moy qu'il n'est en cette ville
+Ny dans le monde entier, un qui soit plus habile.
+Il surprendra sans doute à l'abord tous vos sens.
+Il fait parler les morts, revenir les absents.
+
+-*who_jacinte
+Comment ce nazillard ? cette triste figure ?
+
+-*who_ariste
+Luy-mesme, mais sçachez qu'en toute la Nature
+Il n'est point de mortel qui l'égale en sçavoir.
+
+-*who_jacinte
+Dieux ! que me dites-vous ?
+
+-*who_ariste
+Il faudroit pour le voir
+Et pour le gouverner s'addresser à son Maistre.
+Je n'ay pas à present l'honneur de le cognoistre,
+Ny de l'avoir hanté, toutefois aujourd'huy
+Un amy m'a promis de me mener chez luy.
+
+-*who_jacinte
+Pour jouyr d'un tel bien j'ay trop d'impatience.
+
+-*who_ariste
+Mais dites-moy, Madame, aurez-vous l'asseurance
+De voir un tel fantosme ? aurez-vous point de peur ?
+
+-*who_jacinte
+Avecque tant d'amour, manquerois-je de cœur⁎ ?
+
+-*who_ariste
+Adieu, je voudrois bien vous rendre ce service⁎ .
+
+-*who_jacinte
+Je sçauray reconnoistre un si parfait office⁎,
+N'en doutes point, Ariste, ou je puisse perir.
+Monte là-haut, Julie, et va-t'en me querir
+Et ma coiffe et mon masque.
+
+-*who_julie
+Ah ! que voulez-vous faire ?
+
+-*who_jacinte
+Je veux tout sur le champ terminer cette affaire,
+Va donc, depesche-toy.
+
+-*who_julie
+Vous avez l'esprit prompt,
+Comment sans le connoistre aurez-vous bien le front
+De l'aller requerir ? craignez-vous point le blasme ?
+
+-*who_jacinte
+Un Cavalier⁎ peut-il refuser une femme ?
+
+-*who_julie
+Considerez-le mieux.
+
+-*who_jacinte
+Je l'ay consideré,
+C'est trop peu pour un bien que j'ay tant desiré.
+
+**** *book_ *id_body-5-6 *act_ *date_1646 *creator_ouville
+
+-*who_acaste
+JOdelet en tout lieu ta science est connuë,
+Chacun te montre au doigt à present dans la ruë,
+Et tous en admirant ton unique sçavoir
+Chacun brusle à l'envi du desir de te voir.
+Je n'ay jamais tant eu de plaisir en ma vie,
+J'ay sur le champ esté pour voir la Comedie,
+Et comme j'ay voulu d'abord parler de toy
+J'ay veu qu'on le sçavoit autant ou mieux que moy.
+Et plusieurs raffinans dessus mon industrie⁎,
+Faisoient passer pour vraye entr'eux ma menterie.
+Et l'un d'eux attestant de ses yeux avoir veu
+Des prodiges de toy, peu s'en faut, je l'ay creu.
+Et j'aurois à present bien de la peine à faire
+Que pas un d'eux voulust soustenir le contraire.
+
+-*who_timandre
+Il ne faut pas avoir grande subtilité
+Pour faire authoriser un mensonge inventé,
+Le peuple adjouste foy⁎ bien plutost à des fables,
+Qu'aux choses qui par tout passent pour veritables.
+
+-*who_jodelet
+Et moy, quoy que je sois un parfait ignorant,
+Si je passe par tout aujourd'huy pour sçavant,
+Quand je seray cognu pour qui je suis peut-estre,
+Je me repentiray de m'estre fait cognoistre,
+Je passeray pourtant pour tel, puis qu'il vous plaist.
+
+-*who_timandre
+On frappe, Jodelet, va, regarde qui c'est.
+Qui dans ce passe-temps peut s'empescher de rire ?
+
+-*who_jodelet
+Une Dame, Monsieur, masquée, et qui desire
+Vous dire icy deux mots.
+
+-*who_timandre
+Qu'elle entre promptement.
+Qui sera-t'elle, ô Dieux ?
+
+**** *book_ *id_body-5-7 *act_ *date_1646 *creator_ouville
+
+-*who_jacinte
+J'Entre bien librement.
+Faites-moy, s'il vous plaist, la faveur de m'apprendre
+Lequel c'est de vous deux qui s'appelle Timandre.
+
+-*who_timandre
+Chacun m'appelle ainsi, Madame, mais pourquoy
+Auriez-vous le dessein de vous servir de moy ?
+Serois-je assez heureux ? commandez je vous prie.
+
+-*who_jacinte
+J'use avec vous, Monsieur, de trop d'effronterie,
+Que je parle à vous seul, avec vostre valet.
+
+-*who_timandre
+Madame, je le veux, approche, Jodelet,
+Acaste, obligez⁎-moy, retirez-vous de grace.
+
+-*who_acaste
+Il n'est rien, cher amy, que pour vous je ne fasse ;
+Cachons-nous, escoutons quel est leur entretien.
+
+-*who_timandre
+Madame, seyez-vous, et ne redoutez rien.
+
+-*who_jacinte
+Je vous obeïray, Monsieur.
+
+-*who_timandre
+C'estoit dommage
+De nous vouloir cacher un si parfait visage,
+Quoy que ces brillans yeux, ces beaux astres d'Amour
+Descouvroient trop l'esclat qui nous donne le jour.
+
+-*who_jacinte
+Vueillez donc secourir une femme affligee,
+Qui par vous seulement peut estre soulagee,
+J'aurois tort de vouloir vous cacher qui je suis,
+Ny le sujet aussi qui cache mes ennuis⁎,
+Puis que par le moyen d'une science extréme
+Rien ne vous est caché. Je diray donc que j'aime,
+Le dis-je sans rougir ? ouy, l'aymable⁎ vainqueur
+Qui d'un trait de ses yeux m'a desrobé le cœur,
+Possede tant d'appas et de si puissans charmes
+Que pour m'en garantir j'ay de trop foibles armes.
+Depuis six mois entiers il est absent d'icy,
+Et c'est le seul sujet qui cause mon souci⁎.
+Le desplaisir que j'ay de cette longue absence
+Tient mon cœur amoureux en trop d'impatience.
+Je brusle de le voir, ne vous estonnez point
+De me voir à present reduite en un tel point,
+Vous ayant dit mon mal, et confessé que j'ayme,
+Ma passion me doit porter jusqu'à l'extréme.
+Je viens de recevoir cette lettre de luy,
+Et c'est ce qui m'afflige et cause mon ennuy⁎,
+Puis que par cet escrit je n'ay nulle esperance
+De revoir que bien tard ce mien Amant en France.
+Vous avez un valet qui par son grand sçavoir,
+A ce que l'on m'a dit, me le peut faire voir :
+De là despend, Monsieur, le bonheur de ma vie,
+Il peut en un clin d'œil revenir d'Italie,
+Si vostre valet veut. Vueillez donc m'accorder
+La faveur, s'il vous plaist, de le luy commander,
+Vous estes Cavalier⁎, vous recevriez du blasme 
+Si vous vous resolviez d'esconduire une femme :
+Vous estes genereux, faites donc qu'aujourd'huy
+Je puisse par son art soulager mon ennuy⁎.
+
+-*who_timandre
+A-t'on jamais parlé d'aventure semblable ?
+Dissimulons pourtant. Il n'est pas raisonnable,
+Madame, de vouloir en cette occasion⁎
+Vous tromper en flatant vostre inclination⁎.
+Mon valet, je l'advouë, entend l'Astrologie⁎,
+Mais ce que vous voulez dépend de la Magie.
+Qui vous met en l'esprit de telles visions ?
+Il faut pour ce sujet commander aux Demons.
+Vous imaginez-vous, grands Dieux quelle folie !
+Qu'on le puisse à l'instant r'appeller d'Italie ?
+Et le faire apporter par l'air dedans ces lieux,
+Pour avoir seulement cognoissance des Cieux ?
+D'où sçavez-vous, Madame, et qui vous a fait croire
+Que mon valet s'entend à la science noire ?
+Quiconque l'auroit fait, ou pensé seulement
+Meriteroit en France, un rude chastiment.
+
+-*who_jodelet
+Non, je ne suis pas tel.
+
+-*who_jacinte
+Vous pouvez sans scrupule
+Vous descouvrir à moy, je ne suis point credule
+A tel poinct qu'aysement on m'ait peu decevoir⁎ ;
+Je sçay jusqu'où s'estend son merveilleux sçavoir,
+Sa science est, Monsieur, miraculeuse et rare⁎.
+
+-*who_timandre
+Le nom de vostre Amant.
+
+-*who_jacinte
+Il s'appelle Tindare,
+Depuis six mois entiers il est absent d'ici.
+
+-*who_timandre
+Jodelet, que t'en semble ? escoutes-tu ceci ?
+
+-*who_jodelet
+Fort bien.
+
+-*who_jacinte
+Je garderay le secret quoy que femme.
+
+-*who_timandre
+Jodelet, en ce poinct il faut servir Madame,
+Elle est femme d'honneur, va ne redoute rien.
+Escoute un mot icy.
+
+-*who_jodelet
+Je vous entends fort bien,
+Il vous faut obeyr, mon Maistre le commande,
+Mais pour dire le vray, Madame, j'apprehende,
+Et j'en ay du subjet, qu'on m'aille descouvrir.
+
+-*who_jacinte
+Ne crains point, mon amy, j'aymerois mieux mourir.
+
+-*who_jodelet
+Il vous faut donc servir, Madame, tout que vaille.
+Vostre Amant n'est-il pas d'une assez belle taille ?
+Avec de grands cheveux frisez, haut en couleur,
+Sur tout propre en habits, discret⁎, et peu parleur,
+D'une façon modeste, et qui demeure à Rome
+Depuis six mois entiers !
+
+-*who_julie
+Ah ! le merveilleux homme !
+Est-il possible, ô Dieux ! qu'il ait un tel esprit ?
+Je suis tout hors de moy, qui luy peut avoir dit ?
+
+-*who_jacinte
+Le sçavois-je pas bien ! c'est un homme admirable,
+Ce que vous dites-là n'est que trop veritable,
+C'est le mesme en effet.
+
+-*who_jodelet
+Madame, jurez-moy
+Qu'en cette affaire ici vous me tiendrez la foy⁎
+Que vous me promettez, ce faisant je m'oblige
+De vous le faire voir.
+
+-*who_jacinte
+Quand ?
+
+-*who_jodelet
+Aujourd'huy, vous dis-je.
+
+-*who_jacinte
+Ouy, je te le promets.
+
+-*who_jodelet
+N'aurez-vous point de peur ?
+Luy pourrez-vous parler ?
+
+-*who_jacinte
+Va, va, j'ay trop de cœur⁎,
+Que j'ay, si je le voy, de choses à luy dire.
+
+-*who_jodelet
+Madame, tout à l'heure il vous luy faut escrire.
+Je vay querir dequoy.
+
+-*who_jacinte
+Dieux ! que vous estes heureux
+De posseder chez vous cet homme merveilleux ?
+Quel espoir il me donne, ah ! j'ay l'ame ravie.
+
+-*who_timandre
+Il peut facilement contenter vostre envie.
+
+-*who_jodelet
+Escrivez à present.
+
+-*who_jacinte
+Qu'escriray-je ?
+
+-*who_jodelet
+Escrivez
+Ce que je dicteray. Cher Tindare, approuvez.
+Non, effacez ce mot, et mettez, Cher Tindare,
+Je vous attends chez moy tantost⁎, et me prepare
+A vous bien recevoir. Croyez que je sçay bien
+Où vous estes, venez, et ne redoutez rien.
+Mettez-y vostre nom. Allez, laissez-moy faire,
+Je sçay bien comme il faut mesnager cette affaire :
+Vous le verrez tantost⁎ chez vous asseurément.
+
+-*who_jacinte
+Dieux ! je seray ravie en cet heureux moment.
+Je vous baise les mains⁎, Monsieur, je vous rens grace.
+
+-*who_timandre
+Je suis content pourveu que je vous satisface.
+
+-*who_jacinte
+Va, je reconnoistray le bien que tu me fais.
+
+-*who_jodelet
+Vous servant, mes desirs sont assez satisfais.
+
+**** *book_ *id_body-5-8 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+AVez-vous jamais veu de plus plaisante histoire ?
+
+-*who_acaste
+Je la voy de mes yeux, et j'ay peine à la croire,
+J'en ay pensé mourir de rire.
+
+-*who_timandre
+Avez-vous veu
+Que tout ce qu'il a dit l'innocente l'a creu.
+
+-*who_acaste
+Vous rencontrez des gens de legere croyance.
+
+-*who_timandre
+Qui pourroit en douter avec cette apparence ?
+Que pretens-tu de faire à present, Jodelet ?
+
+-*who_jodelet
+Il faut faire couler finement ce poulet
+Dans le logis d'Ariste.
+
+-*who_acaste
+Et puis.
+
+-*who_jodelet
+Laissez-moy faire,
+Tindare la lira, qui voyant son affaire
+Destruite, et son secret tout à fait descouvert
+Viendra trouver Jacinte.
+
+-*who_acaste
+Enfin à quoy te sert
+Ta belle invention, crois-tu, quoy qu'on te dies,
+Que ce nœud soit pareil à ceux des Comedies
+Où tousjours tout succede ainsi qu'on l'a tracé ?
+Quand bien il se verroit l'esprit embarassé
+Ira-t'il chez Jacinte ? en voudrois-tu respondre ?
+S'il n'y va point, il peut tous tes desseins confondre.
+
+-*who_jodelet
+Nous ne manquerons point d'excuses en ce cas
+Quand chez elle aujourd'huy Tindare n'iroit pas.
+
+-*who_timandre
+Si tous ne sont duppez, nous en dupperons une,
+Et laissons faire apres le reste à la fortune⁎.
+Fin du troisiesme Acte.
+
+**** *book_ *id_body-6-1 *act_ *date_1646 *creator_ouville
+
+-*who_ariste
+ELLE demeura triste, et l'esprit interdit⁎
+Quand elle eut achevé de lire vostre escrit,
+Et j'ay connu par là sa passion extréme,
+Et qu'elle vous cherit à l'esgal d'elle-mesme,
+Vous devriez la traitter avec moins de rigueur.
+
+-*who_tindare
+Pour parler franchement j'ayme ailleurs, et mon cœur
+Brusle pour un objet⁎ si parfait et si rare⁎,
+Qu'en vain Jacinte aspire à posseder Tindare.
+Ceci soit entre nous, je me sens enflamé
+D'un objet⁎ que j'adore, et dont je suis aimé :
+Je n'aime, cher Ami, Jacinte que par feinte,
+Et pour couvrir le feu⁎ dont mon ame est atteinte.
+
+-*who_ariste
+Vous vous consoleriez, à ce que je puis voir,
+Si quelqu'autre que vous tomboit sous son pouvoir.
+
+-*who_tindare
+Si vous parlez pour vous, sans que je m'en offense,
+Vous en avez, Ariste, une entiere licence.
+
+-*who_ariste
+J'useray de bon cœur de cette liberté,
+Mais contentez encor ma curiosité.
+Qui peut tenir vostre ame en telle inquietude ?
+Et quel est le sujet de cette solitude ?
+Qui ceans⁎ vous retient si long-temps enfermé ?
+Car si vous aimés bien, si vous estes aimé,
+Qui vous peut obliger à cette procedure ?
+Si vous me la cachez, vous me faites injure,
+Doit-on ainsi traitter un Amy si parfait ?
+
+-*who_tindare
+Si je pouvois, Ami, vous seriez satisfait.
+Si j'osois à quelqu'un descouvrir cette histoire,
+Ce seroit à vous seul, vous le pouvez bien croire,
+Mais soyez asseuré que je ne le puis pas.
+
+-*who_ariste
+Ce secret est tres-grand pour en faire un tel cas.
+Adieu je ne veux point en dire davantage :
+Voyez si vous devez me le taire. Je gage,
+Encor que vous fassiez le sage⁎ et le discret⁎,
+Que fort peu dans Paris ignorent ce secret.
+Mais je vous veux laisser dans vostre solitude.
+
+-*who_tindare
+Dieux, ce discours me met en telle inquietude !
+Que je ne sçaurois bien rasseurer mon esprit :
+Mais quoy ? ne voy-je pas à mes pieds un escrit ?
+Dieux ! il s'adresse à moy, voyons-le.
+Cher Tindare,
+Je vous attens chez moy tantost⁎, et me prepare
+A vous bien recevoir : croyez que je sçay bien
+Où vous estes, venez, et ne redoutez rien.
+Jacinte on m'a trahi, grands Dieux ! que doy-je faire ?
+Ariste a descouvert sans doute le mystere,
+Que dira Liliane ? Ah ! je perds en ce jour
+Tout ce que j'esperois d'un si parfait amour.
+Allons-y toutefois, et trouvons quelque ruse
+Qui dans l'occasion⁎ non seulement l'abuse⁎,
+Mais qui luy donne encor des preuves de ma foy⁎.
+
+**** *book_ *id_body-6-2 *act_ *date_1646 *creator_ouville
+
+-*who_tindare
+QUe veut dire cela ? comment ? Nise chez moy ?
+Ah ! je suis descouvert, ma perte est trop certaine.
+Nise, que me veux-tu ? dy.
+
+-*who_nise
+Vous tirer de peine,
+Le Ciel met aujourd'huy vos desseins à l'envers,
+Par un certain malheur vous estes descouvers :
+Mais par un cas estrange, et difficile à croire,
+Ma Maistresse tantost⁎ vous en fera l'histoire :
+Tindare, allez-la voir, mais allez en plein jour,
+Et cachez neantmoins à chacun vostre Amour ;
+Chassez aussi de vous toute melancolie,
+Et feignez d'arriver sur le champ d‘Italie,
+Sçachez que ma Maistresse a son oncle à Thurin,
+Le frere de son pere, appellé Palmerin.
+Pour avoir le moyen de salüer son pere,
+Dites-luy qu'à Thurin vous avez veu son frere,
+Qu'en passant il vous a chez luy fort regalé,
+Mais que par les chemins ayant esté volé,
+On vous a pris sa lettre avec vostre equipage.
+Je ne sçaurois, Monsieur, demeurer davantage,
+Madame vous attend. Adieu, feignez si bien
+Que de cette autre fourbe⁎ on ne descouvre rien.
+
+-*who_tindare
+Escoute encor un mot.
+
+-*who_nise
+Je ne sçaurois, Tindare,
+Adieu.
+
+-*who_tindare
+Cet avanture est sans mentir fort rare⁎,
+Allons trouver Jacinte, et dans ce mesme jour
+Cachons bien nostre feinte ainsi que nostre amour.
+
+**** *book_ *id_body-6-3 *act_ *date_1646 *creator_ouville
+
+-*who_julie
+MAis, Madame, en effet vostre raison s'esgare,
+Vous imaginez-vous aujourd'huy que Tindare
+Puisse venir ceans⁎ ainsi qu'on vous a dit ?
+N'avez-vous pas receu de sa part un escrit
+Par où vous voyez bien qu'il est en Italie ?
+
+-*who_jacinte
+A-t'on jamais parlé d'une telle folie ?
+Quoy ! par ton ignorance, imbecille, crois-tu
+Borner la suffisance et la rare⁎ vertu
+De ce divin Esprit tout confit en science ?
+Est-il rien qui ne soit soubmis à sa puissance ?
+
+-*who_julie
+Mais quel fruict, dites-moy, pourrez-vous recevoir
+D'un fantosme trompeur ?
+
+-*who_jacinte
+Le plaisir de le voir.
+
+-*who_julie
+Ce ne sera pas luy.
+
+-*who_jacinte
+Mais il sera, Julie,
+Tout tel que de present il est en Italie.
+
+-*who_julie
+Mais enfin, n'aurez-vous nulle apprehension
+De voir devant vos yeux l'estrange vision
+D'un corps qui paroistra seulement par magie⁎ ?
+
+-*who_jacinte
+Quoy ! d'un homme que j'ayme à l'esgal de ma vie ?
+Non, non, j'ay trop de cœur⁎.
+
+-*who_julie
+Mais moy, je n'en ay pas.
+
+-*who_jacinte
+Va promptement ouvrir, quelqu'un frappe là-bas.
+
+-*who_julie
+Bien, Madame, j'y cours.
+
+-*who_jacinte
+Que je suis malheureuse,
+O Dieux, que ne fait point une femme amoureuse ?
+Quel obstacle s'oppose à son contentement ?
+
+**** *book_ *id_body-6-4 *act_ *date_1646 *creator_ouville
+
+-*who_julie
+IL n'est rien de plus vray que cet enchantement.
+Je suis morte autant vaut⁎ : c'est Tindare, Madame.
+
+-*who_jacinte
+Que dis-tu ?
+
+-*who_julie
+C'est luy-mesme.
+
+-*who_jacinte
+Ah ! justes dieux ? je pasme,
+Je confesse mon foible, helas ! je n'en puis plus,
+Le courage me manque, et mes sens sont confus.
+J'ay desiré vous voir, et non pas vous parler.
+
+-*who_tindare
+Il n'est plus temps de feindre et de dissimuler,
+Madame, permettez qu'ici je vous embrasse.
+
+-*who_jacinte
+Que vois-je ? justes Dieux ! retirez-vous de grace ?
+Sortez d'icy, Tindare, et ne m'approchez pas.
+
+-*who_tindare
+Quoy vous me rejettez quand je vous tens les bras ?
+Madame, pouvez-vous me traitter de la sorte ?
+
+-*who_jacinte
+A l'ayde, mes Amis, sauvez-moy, je suis morte,
+La force me defaut, et je tremble de peur.
+
+-*who_tindare
+Est-ce de la façon qu'on me reçoit, mon cœur ?
+Apres avoir souffert⁎ une si longue absence ?
+De mes travaux passez est-ce la recompense ?
+Quand je viens pour jouyr du bonheur de vous voir ?
+
+-*who_jacinte
+Je l'avoüe, il n'est pas, Tindare, en mon pouvoir,
+Suffit, je vous ay veu, sortez d'ici, de grace.
+
+-*who_tindare
+Qu'entens-je ? qu'est-ce-cy, cette peur m'embarasse,
+Si pour m'estre absenté vous doutez de ma foy⁎,
+Je vous satisferay, Madame, escoutez-moy.
+
+-*who_jacinte
+Non, je n'escoute point, ah ! grands Dieux ! quel martire ?
+
+-*who_tindare
+Pour un certain sujet que je m'en vay vous dire.
+
+-*who_jacinte
+Je le sçay bien ; quel trouble agite mon esprit ?
+
+-*who_tindare
+Je suis ici venu, mandé⁎ par vostre escrit.
+
+-*who_julie
+Ah ! qui si tost a peû luy porter cette lettre ?
+Il faut bien qu'un Demon.
+
+-*who_tindare
+Me voulez-vous permettre
+De me justifier, Madame, là-dessus ?
+
+-*who_jacinte
+Ouy, je vous ay mandé⁎ : mais las ! je n'en puis plus,
+Je ne sçaurois parler, ma surprise est extréme,
+Enfin, ce que j'ay faict monstre que je vous aime,
+Tindare, c'est assez, pour Dieu retirez-vous.
+
+-*who_tindare
+Qu'est-ce-cy donc ? Madame, est-ce peur, ou courrous ?
+Escoutez mes raisons, oyez-moy, je vous prie.
+
+-*who_jacinte
+Ma curiosité me coustera la vie,
+Je meurs, je n'en puis plus, j'ay le sang tout glacé.
+
+-*who_tindare
+Quoy que vous ayez sceu tout ce qui s'est passé,
+Vous m'excuserez bien.
+
+-*who_jacinte
+Tay-toy, je te supplie,
+Fantosme, promptement retourne en Italie,
+Ou je te quitte-là.
+
+-*who_tindare
+Madame, escoutez-moy.
+
+-*who_jacinte
+Dieux ! qui peut appaiser le trouble où je me voy ?
+J'en souffre trop, va-t'en, je te ferme la porte.
+
+-*who_tindare
+Escoute-moy, Julie.
+
+-*who_julie
+A ce coup je suis morte ?
+Que doy-je devenir ? sans doute il me tuëra.
+
+-*who_tindare
+Dy moy pour quel sujet.
+
+-*who_julie
+Madame le dira.
+
+-*who_tindare
+Que voy-je ? et que faut-il qu'à present je devienne ?
+Quelle peine jamais fut pareille à la mienne ?
+De qui me doy-je pleindre en cette occasion⁎ ?
+Et qui peut m'asseurer en ma confusion ?
+Un Amy me trahit, il aime l'infidelle,
+Mais c'est un beau moyen pour me deffaire d'elle.
+Allons voir Liliane, et benissons le jour
+Qui me deffait ainsi d'un si fascheux⁎ amour.
+Mais je la voy qui sort du logis, ce me semble,
+Je suis si hors de moy qu'à son abord je tremble.
+
+**** *book_ *id_body-6-5 *act_ *date_1646 *creator_ouville
+
+-*who_tindare
+MAdame, quel succez decevant⁎ mon espoir
+Me donne en liberté le bonheur de vous voir ?
+
+-*who_liliane
+Tindare, vous sçavez l'estrange stratageme,
+Qui m'a mise aujourd'huy dans une peine extréme,
+Par lequel on a peu descouvrir nostre amour.
+
+-*who_tindare
+Madame, quel qu'il soit, j'en beny l'heureux jour :
+Mais puis que je joüis d'une faveur si grande,
+Faites-m'en encor une, ouy, je vous la demande,
+D'elle despend mon heur⁎ et ma felicité.
+
+-*who_liliane
+Vous pouvez commander de pleine authorité.
+
+-*who_tindare
+Si j'avois ce ruban, j'aurois quelque asseurance
+Estant verd, qu'il pourroit flater mon esperance,
+Faites-moy la faveur de m'accorder ce bien.
+
+-*who_liliane
+C'est peu, puis que desja vous possedez le mien :
+Non pas le ruban seul, de plus, je vous presente
+Ce cœur de diamans.
+
+-*who_tindare
+Non, non, je me contente
+Du ruban seulement.
+
+-*who_liliane
+Non, vous seriez fasché⁎
+Puis que ce cœur se trouve au ruban attaché
+Avecque tant de nœuds, que je prisse la peine
+De l'en oster, et puis, c'est chose tres-certaine
+Que le mien le surpasse encor en fermeté !
+
+-*who_tindare
+Peut-on rien adjouster à ma felicité ?
+Bien, je l'accepte donc, mais avecque promesse.
+
+-*who_liliane
+Tout beau, mon pere vient. Taschez avec adresse
+De bien dissimuler.
+
+-*who_tindare
+N'en ayez pas de peur.
+
+**** *book_ *id_body-6-6 *act_ *date_1646 *creator_ouville
+
+-*who_arimant
+QUel est ce Cavalier⁎ ?
+
+-*who_tindare
+Pardonnez-moy, Monsieur,
+Si n'ayant pas l'honneur de vostre connoissance
+J'ose vous aborder⁎ avec tant de licence.
+Je reviens d'Italie, et passant par Thurin
+J'ay receu tant d'honneur du Seigneur Palmerin
+Que je suis obligé⁎ pour tant de bons offices⁎
+De vous venir offrir mes vœux⁎ et mes services,
+Et vous en rendre grace. Il vous avoit escrit,
+Mais par certain malheur j'ay perdu cet escrit
+Dont je viens m'excuser.
+
+-*who_arimant
+Il n'est point necessaire ;
+Je me resjoüy fort d'apprendre que mon frere
+Ait eu l'honneur d'avoir receu dans sa maison
+Un homme tel que vous, et c'est bien la raison
+Qu'en faisant comme luy, je vous offre la mienne,
+Disposez-en, Monsieur, ainsi que de la sienne,
+Vous aurez en ce lieu la mesme authorité.
+
+-*who_tindare
+Vous m'honorez par trop. Vous, parfaite beauté !
+
+-*who_arimant
+Ma fille, il parle à vous.
+
+-*who_tindare
+Disposez d'une vie
+Qui par tant de raisons est vostre ; et je vous prie,
+Sçachant ce que je suis, et ce que je vous doy,
+D'user du plein pouvoir que vous avez sur moy.
+Vous sçavez bien qu'ici je ne feins point, Madame,
+Que je vous ouvre à nud les secrets de mon ame ?
+
+-*who_arimant
+Ma fille, respondez,
+
+-*who_liliane
+Je reçoy trop d'honneur
+De vos civilitez, et croyez-moy, Monsieur,
+Que si vous m'honorez de quelque bienveillance
+Je suis trop obligee⁎ à la reconnoissance,
+Pour ne vous pas priser ainsi que je le doy,
+Disposez donc, Monsieur, du logis et de moy,
+Vous estes Maistre icy, comme le veut mon pere,
+Et croyez, s'il luy plaist, qu'il ne me peut déplaire.
+Venez-nous voir souvent, quoy que l'on ferme à tous
+Cette porte, Monsieur, elle s'ouvre pour vous.
+
+-*who_arimant
+Elle respond fort bien.
+
+-*who_nise
+O Dieux ! qu'elle est rusee ?
+Elle parle sans feinte, ou je suis abusee⁎.
+
+-*who_tindare
+Vous me faites tous deux rougir de tant d'honneur,
+Je vous baise à tous deux les mains⁎.
+
+-*who_arimant
+Adieu, Monsieur.
+Rentrons, nous serons mieux là-haut que dans la ruë.
+
+-*who_nise
+J'aperçoy Jodelet, sans doute qu'il m'a veuë,
+Je veux l'attendre ici, je meurs pour luy parler,
+Et mesme tout de bon⁎ je le veux quereller.
+
+**** *book_ *id_body-6-7 *act_ *date_1646 *creator_ouville
+
+-*who_nise
+QUoy ! l'on ne te void plus ?
+
+-*who_jodelet
+Tu sçais bien que mon Maistre
+En ce logis ici n'oseroit plus paroistre.
+
+-*who_nise
+Mais pour toy, qui te fait ainsi m'abandonner ?
+
+-*who_jodelet
+Je ne puis pas, pour estre habile à deviner,
+Il faut passer les jours et les nuicts à l'estude.
+
+-*who_nise
+Tu me sembles avoir fort peu d'inquietude,
+Tu n'en es point maigri, je te trouve en bon point.
+
+-*who_jodelet
+Quand l'exercice plaist, on n'en emmaigrit point :
+Mais laissons ce discours. Que dis-tu de l'adresse
+Dont j'ay tantost⁎ usé pour tromper ta Maistresse ?
+
+-*who_nise
+Est-ce-là le secret que tu m'avois promis ?
+Est-ce-là comme il faut obliger⁎ ses amis ?
+Va, tu n'és qu'un ingrat, qu'un perfide, qu'un traitre,
+Falloit-il reveler ce secret à ton Maistre ?
+
+-*who_jodelet
+Pouvois-je luy celer⁎ ? tout bien consideré ?
+Mais que t'importe-t'il si je l'ay reparé ?
+Mais, Nise, asseurément je pariëray ta perte
+Si nostre fourbe⁎ un jour peut estre descouverte.
+Pour donc continuer la ruse, averty-moy
+De tout ce qui se passe, et qui se fait chez toy ;
+Ayant de tes secrets l'entiere connoissance,
+Je ferois à chacun admirer ma science :
+Autrement ta Maistresse auroit juste raison
+De t'accuser d'avoir usé de trahison.
+Et tu pourrois apres tomber en sa disgrace.
+
+-*who_nise
+Bien, je veux t'avertir de tout ce qui se passe.
+Sçache que ce galand⁎, cet Amant incognu,
+Feignant de son voyage estre nouveau venu,
+Est arrivé ceans⁎, a salüé mon Maistre,
+Feignant qu'il luy portoit de Thurin une lettre
+D'un sien frere qu'il a, pour pouvoir librement
+Quand il voudra, venir au logis d'Arimant.
+Le bon homme l'a creu, Liliane ravie
+D'un certain ruban verd dont il avoit envie,
+Où pend un cœur orné de diamans, en fait
+Present à son Amant, dont il est satisfait,
+En peu de mots voila ce que je te puis dire.
+
+-*who_jodelet
+J'en suis ravi de joye.
+
+-*who_nise
+Adieu, je me retire,
+Mon Maistre vient ici.
+
+-*who_jodelet
+Dy moy, que gagnes-tu ?
+Faisons semblant de rien, puis qu'il m'a desja veu.
+
+**** *book_ *id_body-6-8 *act_ *date_1646 *creator_ouville
+
+-*who_arimant
+QUel est cet homme ici ?
+
+-*who_nise
+Mentons avec adresse.
+Par l'ordre que tantost⁎ m'a donné ma Maistresse,
+Je l'ay mandé⁎, Monsieur.
+
+-*who_arimant
+Pour quel sujet, dy moy ?
+
+-*who_nise
+Pour m'informer de luy. Mais à ce que je voy,
+Vous ignorez, Monsieur, son extresme science,
+C'est le plus grand Esprit qui se retrouve en France,
+Les plus sçavans Docteurs en sont tous estonnez⁎,
+Il les rend tous confus avec un pied de nez.
+Il predit l'avenir, il connoist toutes choses,
+Et mesme est tres-sçavant dans les Metamorphoses.
+Ma Maistresse sçachant qu'il vous plaist aujourd'huy
+La ranger sous l'Hymen⁎, veut s'informer de luy
+Si l'ascendant fatal sous lequel elle est née
+Luy promet un heureux ou fascheux⁎ Hymenée⁎.
+C'est ce qui l'embarasse, et la met en soucy⁎,
+Et c'est dequoy, Monsieur, nous discourions ici.
+
+-*who_arimant
+Quels contes fabuleux ? dy-moy, quelles chimeres
+Me viens-tu raconter ?
+
+-*who_nise
+Ce sont choses si claires
+Que personne n'en doute.
+
+-*who_jodelet
+Ah ! ne la croyez pas ?
+Elle vous fait de moy, Monsieur, par trop de cas,
+Je ne suis point sçavant, et toutefois j'avoüe,
+Sans desirer pourtant qu'en ce poinct on me louë,
+Qu'amateur de Vertu, j'ay dés mes jeunes ans
+Pour connoistre les Cieux employé quelque temps,
+Sçachant que les effets despendent de leurs causes,
+J'ay voulu penetrer dans les Metempsicoses.
+
+-*who_arimant
+Cet homme est tres-sçavant, et je connoy fort bien,
+Puis qu'il se vante peu, qu'il doit n'ignorer rien.
+Que respond-il, encor, touchant le mariage
+De ma fille ?
+
+-*who_nise
+Monsieur, de bon cœur j'en enrage.
+Il dit que ma Maistresse.
+
+-*who_arimant
+Acheve, je le veux.
+
+-*who_nise
+Doit-espouser un homme assez necessiteux.
+
+-*who_arimant
+Crois-tu qu'un Astrologue⁎, ô simple Creature !
+Puisse prescrire ainsi des loix à la Nature ?
+Tu crois ce qu'il te dit ?
+
+-*who_nise
+J'ay sujet d'avoir peur.
+
+-*who_jodelet
+C'est ce que maintenant je luy disois, Monsieur,
+La Science est douteuse, et tousjours l'homme sage
+L'emporte sur les Cieux.
+
+-*who_arimant
+Ah ! le grand personnage ?
+
+-*who_nise
+Je le cognoy fort bien, il ne mentit jamais.
+
+-*who_arimant
+Sors d'ici promptement, et nous laisses en paix.
+Pour toy, mon amy, croy, quoy qu'ignorant, et rude,
+Que je ne laisse point d'aimer les gens d'estude,
+Et j'ay dans mon jeune âge esté si curieux
+Que j'ay voulu sçavoir la science des Cieux.
+Maistre Imbert de Billy, docte en ce haut mistere,
+M'a donné dans cet art desja quelque lumiere,
+Je voudrois avec toy repasser mes leçons.
+
+-*who_jodelet
+On en discourt, Monsieur, mais de plusieurs façons.
+Ah ! je suis attrapé, me voila pris au piege.
+
+-*who_arimant
+Pour m'y rendre sçavant, mon amy, que feray-je ?
+Dy moy, je t'en seray grandement obligé⁎.
+
+-*who_jodelet
+Monsieur, en ceci l'ordre est grandement changé,
+On use d'un autre art et d'une autre methode,
+Il faut estre à present Astrologue⁎ à la mode.
+
+-*who_arimant
+Encore, que dis-tu de tous ces Animaux
+Qu'on nous peint dans le Ciel ? ces hydres, ces taureaux,
+Ces affreux scorpions, la chaude canicule,
+Qui jusqu'aux intestins nous eschauffe et nous brusle,
+Le lyon rugissant, l'ourse de Caliston.
+
+-*who_jodelet
+On les nomme à present bien d'une autre façon.
+Pour vous rendre sçavant dedans l'Astrologie⁎,
+Il vous faut commencer par la Mitologie.
+Cette science est rare⁎, et faut plus d'une fois
+Pour s'y rendre congru, suer dans le harnois.
+L'estoile qui paroist à nos yeux la premiere
+Dessus nostre horizon, s'appelle pouciniere,
+De mine⁎ mordicante, et d'un aspect hagard,
+Excusez-moy, Monsieur, ce sont termes de l'art.
+Mais pour cette heure ici, cela vous doit suffire,
+Car je serois trop long si je voulois tout dire.
+
+-*who_arimant
+Je te supplie, Amy, vien-t'en souvent me voir,
+Car j'admire en effet ton unique sçavoir.
+Fin du quatriesme Acte.
+
+**** *book_ *id_body-7-1 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+JE n'en puis plus, Acaste, et je perds patience.
+
+-*who_acaste
+Quoy ! si j'ay publié par tout cette science
+Vous l'avez ordonné.
+
+-*who_timandre
+Je ne le puis nier,
+Mais je ne voulois pas qu'on le tint pour sorcier.
+
+-*who_acaste
+Le bruit s'acroit toûjours, mais qu'avés-vous à craindre ?
+Vous n'avez en ceci nul sujet de vous plaindre,
+Si de ce grand sçavoir chacun est satisfait.
+De plus, voyez-vous pas vous mesme qu'en effet
+Vous demeurez vangé par cette estrange adresse,
+Et de vostre Rival, et de vostre Maistresse ?
+Mais dites en quel poinct, Timandre, est vostre amour ?
+
+-*who_timandre
+D'un tel mal je gueris aisement en un jour,
+Pour cet ingrat objet⁎ je n'ay ny feu⁎ ny flame⁎,
+Et je n'ay maintenant d'autre desir en l'ame
+Que de troubler la joye et les contentemens
+De ces deux criminels et perfides Amans :
+Car si tost que je voy qu'une Dame que j'aime
+Me traitte de mespris, je la traitte de mesme,
+De sorte que je tiens⁎ Liliane en ce jour
+Indigne de ma haine, et plus de mon amour.
+
+-*who_acaste
+Timandre, s'il est vray, dites-moy, je vous prie,
+Le subjet qui vous pût porter à l'industrie⁎
+Que vous m'avez contée ?
+
+-*who_timandre
+He ! ne falloit-il pas
+Pour luy sauver l'honneur, sortir de l'embaras
+Où ma langue avoit mis cette pauvre servante
+Et faire croire à tous qu'elle estoit innocente ?
+
+-*who_acaste
+Ah ! sans mentir, j'ay creu qu'en cette occasion⁎
+Vous n'aviez d'autre objet⁎ ny d'autre intention
+Qu'un dessein d'empescher ce fascheux⁎ mariage.
+
+-*who_timandre
+Non, non, j'ay peu d'amour et beaucoup de courage⁎,
+Tout au contraire, Ami, croyez que je feray,
+Pour haster leur Hymen⁎, tout ce que je pourray.
+
+-*who_acaste
+Pour quel sujet, encor ?
+
+-*who_timandre
+C'est chose qui m'importe.
+Mais j'entens, que je croy, quelqu'un à cette porte,
+Sans doute elle est ouverte, on monte, que je croy.
+
+**** *book_ *id_body-7-2 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+AH ! Madame, est-ce vous ?
+
+-*who_jacinte
+Ouy, Timandre, c'est moy,
+Je vous dy librement, Monsieur, que je souhaitte
+Parler à Jodelet.
+
+-*who_timandre
+Estes-vous satisfaite,
+Madame, de son art ?
+
+-*who_jacinte
+J'ay sujet aujourd'huy
+De me pleindre, Monsieur, et de vous et de luy.
+
+-*who_timandre
+De vous pleindre, Madame ?
+
+-*who_jacinte
+Ouy, faites-le paroistre.
+
+-*who_timandre
+Il n'est pas au logis.
+
+-*who_jacinte
+Ah ! le voici, le traistre ?
+
+-*who_timandre
+Madame vient ici pour se pleindre de toy.
+
+-*who_jodelet
+Pour se pleindre ?
+
+-*who_jacinte
+Ouy, me pleindre.
+
+-*who_jodelet
+Eh ! Madame, pourquoy ?
+
+-*who_jacinte
+Vien ça, si tu sçavois que l'Amant que j'adore
+Estoit dedans Paris, si tu sçavois encore
+Qu'il n'en est point parti, lasche⁎ di-moy, pourquoy
+Ne me détrompois-tu ?
+
+-*who_jodelet
+Le sçavois-je bien, moy ?
+Si je vous ay promis de vous monstrer l'image
+De vostre cher Amant ? fais-je pas davantage,
+Madame, en vous monstrant le vray corps animé
+Que vous n'attendiez pas de ce visage aimé ?
+Voulez-vous un effet de ma rare⁎ science
+Plus grand, que sans avoir aucune connoissance
+Qu'il fust dedans Paris, ( car qui l'eust peu sçavoir ?)
+J'ay fait que vostre escrit tombast en son pouvoir.
+
+-*who_jacinte
+Ce discours en effet n'a point de repartie,
+Puisque donc que de tout je suis bien advertie
+Que je n'ay nul sujet de me mettre en courroux,
+Gueri la passion de mon esprit jaloux.
+Tindare est à Paris, où l'on m'a dit qu'il aime
+La fille d'Arimant à l'égal de luy-mesme,
+Que cet objet⁎ divin l'a tellement charmé,
+Que s'il l'aime, il en est esgalement aimé.
+Chasse-là de son cœur, et me mets en sa place,
+Fay que Tindare soit pour elle tout de glace,
+Qu'il m'aime comme il l'aime, et selon mes souhais
+Fay tant, car tu le peux, qu'il n'y pense jamais.
+
+-*who_jodelet
+Celuy qui vous a fait ce discours-là, Madame,
+L'a fait pour exciter⁎ ces troubles en vostre ame.
+Il n'est rien de plus faux, Madame, croyez-moy,
+Que Tindare jamais ne vous manqua de foy⁎.
+Et c'est un imposteur qui vous dit autre chose,
+S'il est dedans Paris, vous en estes la cause,
+Si durant ces six mois il s'est caché de vous,
+C'est parce, croyez-moy, qu'il en estoit jaloux :
+Retirez-vous, Madame, et vivez satisfaite,
+Que la constance est ferme, et son amour parfaite,
+Et tant plus il vous fait paroistre ses mespris,
+C'est lors⁎ qu'il est de vous plus ardemment espris.
+
+-*who_jacinte
+Justes Dieux, ce plaisir surpasse mon attente,
+Je n'esperois pas tant. Ah ! que je suis contente !
+Allons, Julie, allons.
+
+-*who_timandre
+Mais quel est ton dessein ?
+
+-*who_jodelet
+Ne vous tourmentez point, je ne fais rien en vain,
+Ma response ambiguë est semblable à l'Oracle,
+Elle reüssira peut-estre par miracle,
+Acaste m'a-t'il pas donné cette leçon ?
+
+-*who_acaste
+Il faut tromper Ariste en la mesme façon,
+Il s'avance vers nous, et meurt pour vous connoistre,
+Il luy faut, Jodelet, joüer d'un tour de Maistre.
+
+**** *book_ *id_body-7-3 *act_ *date_1646 *creator_ouville
+
+-*who_ariste
+MEssieurs, je suis ravi de vous trouver tous deux,
+Le Ciel me favorise, et je suis trop heureux,
+Je souhaittois fort l'heur⁎ de vostre connoissance.
+
+-*who_timandre
+Je voudrois vous servir de toute ma puissance.
+
+-*who_ariste
+Encor que j'eusse peu par Amis aisément
+Me faire presenter, j'ay voulu librement
+Me confier à vous des secrets de mon ame.
+Sçachez donc que j'ay veu par malheur une Dame,
+Elle gagna mon cœur, mais je ne devois pas,
+Sans doute, me laisser vaincre par ses appas.
+C'est estre criminel, car Tindare qu'elle aime
+Est mon Amy parfait, est un autre moy-mesme :
+Mais il ne l'aime point, je voudrois de bon cœur
+Me voir de ses beautez l'unique possesseur.
+Mon Amy le permet, si j'ay l'heur⁎ que je puisse
+Acquerir son amour par quelque bon service⁎.
+Mais je crains de parler, tant j'ay l'esprit confus,
+Car bien plus que la mort j'apprehende un refus.
+Commandez, s'il vous plaist, à Jodelet qu'il face
+En sorte par son art qu'elle me satisface,
+Qu'il luy face oublier le rival qui la fuit,
+Et se laisse gagner par celuy qui la suit.
+
+-*who_jodelet
+Sçait-elle vostre amour ?
+
+-*who_ariste
+Je n'oserois luy dire.
+
+-*who_jodelet
+Donnez-moy vostre main, regardez-moy sans rire,
+Haussez les yeux vers moy, froncez-moy le sourci,
+Rabaissez-les un peu. Tout va bien jusqu'ici :
+Tournez-les de costé, j'ay tres-bonne esperance
+Que vous en obtiendrez bien-tost la joüissance.
+Quand vous en recevrez d'abord quelque mespris
+Ne vous rebutez⁎ point, r'asseurez vos esprits,
+Ne vous laissez pas vaincre à ce premier caprice,
+Continuez tousjours à luy rendre service⁎,
+Et soyez asseuré, car je vous le promets,
+Que vous serez bien-tost au bout de vos souhaits.
+
+-*who_ariste
+Je feray mon effort pour vaincre un impossible,
+Si Jacinte doit estre à mes douleurs sensible,
+Je vous baise les mains⁎, et prens congé de vous.
+
+-*who_timandre
+Je suis ravi de voir à la fin tant de fous,
+Fut-il jamais au monde une telle ignorance ?
+
+-*who_acaste
+Mais que pretens-tu faire avec cette esperance
+Dont tu repais en vain cet amoureux transi ?
+
+-*who_jodelet
+Je pretens le tromper, et peut-estre qu'aussi
+Luy rendant tous les jours nombre de bons offices⁎,
+Il pourra la flechir à force de services⁎,
+Et s'imaginera l'obtenir par mon art.
+
+-*who_acaste
+Ce n'est pas mal pensé, mais que veut ce Vieillard ?
+
+**** *book_ *id_body-7-4 *act_ *date_1646 *creator_ouville
+
+-*who_jodelet
+AH Dieux ! c'est Arimant, il me pourroit confondre,
+Il vient m'interroger, je ne pourrois respondre,
+Je ne l'attendray point, je ne suis pas si sot.
+
+-*who_arimant
+Jodelet, escoutez, je veux vous dire un mot.
+
+-*who_jodelet
+Une autrefois, Monsieur, j'ay maintenant affaire,
+Et je ne vous puis pas à present satisfaire.
+
+-*who_arimant
+Je n'ay qu'un mot à dire, estes-vous si pressé ?
+
+-*who_jodelet
+Je me trouve à present l'esprit embarassé.
+
+-*who_arimant
+Messieurs, obligez-le de m'escouter de grace!
+
+-*who_timandre
+Escoute, Jodelet.
+
+-*who_jodelet
+Que veut-on que je face ?
+
+-*who_arimant
+Je le diray devant ces Messieurs que voici,
+D'un larcin qu'on m'a fait, je suis en grand souci⁎,
+Je viens pour en avoir de vous la connoissance.
+
+-*who_jodelet
+Sans doute il connoistra d'abord mon ignorance,
+Il faut tout avoüer, aussi bien je suis pris.
+
+-*who_timandre
+Responds-luy, Jodelet, r'asseure tes esprits.
+
+-*who_jodelet
+Que voulez-vous, Monsieur, ici que je responde,
+Je vay tout confesser, Arimant, dans le monde
+Il ne se trouve point d'ignorant comme moy.
+Ne me pressez donc point, je vous jure ma foy⁎
+Que je n'y cognoy rien.
+
+-*who_arimant
+J'ay trop de connoissance
+De ce que vous sçavez. Puis cette deffiance,
+Ce mespris de vous mesme, et cette humilité
+M'en font voir plus à clair encor la verité.
+
+-*who_jodelet
+Je vous le dis encor, je n'y sçay rien je jure,
+Pourquoy vous le nierois-je ?
+
+-*who_arimant
+Ah ! l'estrange imposture ?
+Ce joyau, c'est un cœur orné de diamans
+Qu'on a pris à ma fille.
+
+-*who_jodelet
+En quels ravissemens
+Me trouvé-je, grands Dieux ! sus⁎ faisons bonne mine⁎.
+
+-*who_arimant
+Il réve⁎ là-dessus, sans doute il s'examine.
+
+-*who_jodelet
+Est-il bonheur au mien qui se puisse esgaler ?
+Je disirois, Monsieur, ici dissimuler,
+Pour ne vous annoncer rien qui vous peust déplaire,
+Mais si vous le voulez il vous faut satisfaire,
+Vous avez un peu trop de curiosité,
+Mais je vay franchement dire la verité.
+
+-*who_arimant
+Vous m'obligerez⁎ fort, dites, je vous supplie.
+
+-*who_jodelet
+Un certain Cavalier⁎ qui revient d'Italie,
+Vous l'avez veu chez vous, Monsieur, tantost⁎ a pris
+Ce cœur de diamans qui sans doute est de pris,
+Ainsi vous pouvez bien recouvrer⁎ vostre perte,
+N'estoit-il pas pendant d'une ceinture verte ?
+Si je n'ay contenté si tost vostre desir,
+Je ne luy voulois pas rendre ce desplaisir,
+Sçachant que c'est un homme assez considerable.
+
+-*who_arimant
+Qui pourroit avoir creu ce Cavalier⁎ capable
+D'une si detestable et si lasche⁎ action ?
+Mais pourray-je sans honte et sans confusion
+La luy redemander ? Il me faut par adresse,
+Sans l'accuser de rien, et sans qu'il le confesse,
+La r'avoir si je puis. Dure necessité.
+Pardonnez, s'il vous plaist, à ma temerité,
+Messieurs. Vous Jodelet, pour ce parfaict office⁎
+Voyez où je pourray vous rendre du service.
+
+-*who_jodelet
+Je vous suis serviteur, ces complimens⁎ sont vains.
+
+-*who_timandre
+Vous pouvez tout ceans⁎, je vous baise les mains⁎.
+
+-*who_arimant
+De grace obligez⁎-moy, Messieurs, je meurs d'envie
+De boire avecque vous, partant je vous convie,
+Mais sans ceremonie, à souper pour ce soir.
+
+-*who_timandre
+Puis que vous le voulez, bien, nous vous irons voir.
+Commens as-tu si tost peu controuver ce songe ?
+
+-*who_ariste
+Sans doute il est plaisant.
+
+-*who_jodelet
+Ce n'est point un mensonge,
+Ce que je viens de dire est une verité,
+N'en doutez nullement, Nise m'a tout conté.
+
+-*who_timandre
+Mais que veut ce Vieillard ?
+
+-*who_jodelet
+C'est à moy qu'il s'adresse,
+Il me cherche, Monsieur.
+
+-*who_timandre
+Demeure, je te laisse.
+Retirons-nous, Acaste, et les laissons ici.
+
+**** *book_ *id_body-7-5 *act_ *date_1646 *creator_ouville
+
+-*who_moron
+AMy, pour te trouver j'estois fort en soucy⁎,
+J'ay bien besoin de toy pour un certain affaire,
+En trois mots je te veux conter tout ce mistere.
+J'ay servi⁎, tu le sçais, depuis mes jeunes ans,
+Avecque quelque espargne ; Or durant tout ce temps
+J'ay faict un petit fond avec un grand mesnage,
+Pour vivre accomodé le reste de mon aage,
+Je voudrois à present me retirer chez moy.
+Je suis de loing d'ici Jodelet, c'est pourquoy
+Ayant de ton sçavoir parfaite connoissance,
+Pour dessus les chemins espargner la despense,
+Et de peur des voleurs, tu peux en un moment
+Me conduire chez moy par un enchantement,
+Provence est mon pais, fay moy donc je te prie,
+Porter en un instant dans ma chere patrie,
+C'est ce que maintenant je desire de toy.
+
+-*who_jodelet
+Peux-tu pas disposer absolument de moy ?
+Botte-toy promptement, et mets, s'il est possible,
+(Car en allant par l'air, il faict un froid horrible)
+Un habit bien doublé. Puis va m'attendre ainsi
+Dans ton jardin. Apres, laisse-m'en le souci⁎.
+
+-*who_moron
+Je vay me preparer, songe à moy je te prie.
+Je te reverray donc, ô ma chere patrie ?
+
+-*who_jodelet
+Bon, bon, dans mes filets, je tiens le renard pris.
+
+**** *book_ *id_body-7-6 *act_ *date_1646 *creator_ouville
+
+-*who_tindare
+JE puis en liberté contenter mes esprits,
+Et sans scrupule aucun pouvant me satisfaire,
+Allons voir la beauté que mon ame revere.
+
+-*who_arimant
+Je vous cherche par tout depuis une heure ou deux.
+
+-*who_tindare
+Si c'est pour vous servir je me tiens⁎ trop heureux.
+
+-*who_arimant
+Voyez qu'il est courtois, grands Dieux ! est-il croyable
+Que d'un crime si noir cet homme soit capable ?
+Cet homme si bien fait⁎. Je desirois vous voir.
+Ne vous estonnez⁎ point, s'il vous plaist, pour r'avoir
+Un joyau qu'à ma fille, on a surpris n'aguere,
+Je sçay que vous l'avez. Voyez comme il s'altere,
+Rendez-le moy de grace.
+
+-*who_tindare
+Ah ! que je suis surpris ?
+
+-*who_arimant
+Cela ne vous doit point alterer les esprits.
+
+-*who_tindare
+Qu'entens-je ? justes Dieux ! que je suis miserable ?
+
+-*who_arimant
+Je ne vous tiens⁎, Monsieur, aucunement coupable,
+Je me plains de la main de qui vous la tenez.
+
+-*who_tindare
+Monsieur, ici, vers vous.
+
+-*who_arimant
+Quoy ! vous vous estonnez⁎ ?
+Je ne cognoy que trop, Monsieur, vostre innocence,
+C'est la personne ici seulement qui m'offence
+De qui vous la tenez : Dieux ! je l'excuse ainsi.
+
+-*who_tindare
+Il faut que vous soyez sur ce poinct esclairci.
+Blasmez-moy seulement, je suis le seul coupable.
+
+-*who_arimant
+Voyez comme il s'accuse.
+
+-*who_tindare
+Il est tres-veritable,
+Je ne le puis nier, mais la necessité
+M'a contraint d'en venir à cette extremité,
+Je l'ay moy-mesme osté, Monsieur, à Liliane.
+
+-*who_arimant
+Quand je veux l'excuser, luy-mesme il se condamne.
+La conscience, ô Dieux ! est un trop fort tesmoin,
+Ne vous excusez pas, il n'en est point besoin.
+Brisons-là, je sçay bien comme tout va, vous dis-je.
+Mais la necessité bien souvent nous oblige
+A faire encore pis.
+
+-*who_tindare
+Monsieur, si vous sçavez
+Comme tout s'est passé, s'il vous plaist, approuvez
+L'action que j'ay faite, authorisez mon crime,
+Ouy, vous pouvez Monsieur, le rendre legitime,
+Je n'ay pas grands moyens, mais j'ay beaucoup d'honneur,
+Et de naissance aussi : Permettez-moy Monsieur,
+D'avoir l'honneur d'entrer dedans vostre famille,
+Faites-moy, s'il vous plaist, espouser vostre fille.
+
+-*who_arimant
+Cet homme est fol sans doute, il a perdu le sens.
+Monsieur, une autrefois prenez mieux vostre temps,
+Vous me demandez donc ma fille en mariage ?
+Vous révez⁎, que je croy, mais estes-vous bien sage ?
+Adieu, ne craignez rien, je suis assez discret
+Pour sçavoir comme il faut vous cacher ce secret.
+
+**** *book_ *id_body-7-7 *act_ *date_1646 *creator_ouville
+
+-*who_tindare
+QUelle confusion à la mienne est pareille ?
+Qu'entens-je ? justes Dieux ! est-il vray que je veille ?
+Je me mesprens, ou bien Arimant se mesprend,
+D'un abisme profond je r'entre en un plus grand ?
+Quel malheur ? juste Ciel ! s'oppose à ma fortune⁎ ?
+Mais pour comble d'ennuis⁎ je voy cette importune ?
+
+-*who_jacinte
+Vous estes à Paris, et sans me venir voir,
+Je pensois bien sur vous avoir plus de pouvoir.
+Quoy vous estes muet ? ah Dieux ! est-il possible
+Bruslant d'amour pour moy, qu'il feigne estre insensible ?
+Si je sçay vostre cœur et vos pensers aussi,
+Qui vous peut obliger à me traitter ainsi ?
+Pourquoy jusqu'à ce poinct voulez-vous vous contraindre ?
+
+-*who_tindare
+Escoutez-moy, Madame, il n'est plus temps de feindre,
+Quand vous m'avez mandé⁎, vous m'avez en couroux
+Fermé la porte au nez, et chassé de chez vous.
+Apres ce traittement, ne trouvez point estrange
+Si je vous abandonne, et si je cours au change⁎,
+Tindare a trop de cœur⁎ pour souffrir⁎ ces mespris
+Un plus parfait objet⁎ occupe mes esprits.
+Adieu donc, pour jamais je vous quitte, Madame.
+
+-*who_jacinte
+Voyez qu'il est adroit à déguiser sa flame⁎.
+
+-*who_julie
+Il ne déguise rien, Madame, que je croy.
+
+-*who_jacinte
+Avec tous ces mespris il meurt d'amour pour moy.
+
+-*who_julie
+Mais vous trompez-vous point, Madame, la premiere ?
+
+-*who_jacinte
+Ne le cognois-tu point ? cette feinte est grossiere,
+Il faut bien qu'il soit vray, Jodelet me l'a dit.
+
+-*who_julie
+En ce poinct il perdra sans doute son credit.
+
+**** *book_ *id_body-7-8 *act_ *date_1646 *creator_ouville
+
+-*who_moron
+ADieu Paris, Adieu, je veux perdre la vie
+Si de te voir jamais il me reprend envie,
+Ah ! quel plaisir j'auray de cheminer ainsi,
+Qui le croiroit ? ce soir je partiray d'ici,
+Et demain au matin, quel plaisir quand j'y pense ?
+Je me verray par l'air arriver en Provence ?
+Jodelet tarde bien, le voici, que je croy.
+
+-*who_jodelet
+As-tu ce qu'il te faut ?
+
+-*who_moron
+Je porte tout sur moy.
+
+-*who_jodelet
+Il faut presentement te bander le visage,
+Tu n'as, je le sçay bien, point manque de courage,
+Mais il faudra passer par tant de regions,
+Voir au Ciel des taureaux, des tigres, des lions,
+Des Hidres, des serpens, des monstres effroyables,
+Et tu te donnerois de peur, à tous les diables.
+Tu voleras par l'air durant toute la nuit,
+Quand tu commenceras d'entendre quelque bruit
+Quelques confuses voix et quelque tintamarre
+Ne t'en estonne⁎ point, Moron, je te declare
+Que tu seras alors bien proche de chez toy,
+Lors⁎ on te desliera. Vien ça doncques, suy-moy,
+Entrons dans le jardin, là ta monture est preste.
+
+-*who_moron
+Mais ne me baille pas quelque meschante beste.
+
+**** *book_ *id_body-7-9 *act_ *date_1646 *creator_ouville
+
+-*who_liliane
+MOn pere, dites-vous, vous a redemandé
+Ce cœur de diamans ?
+
+-*who_tindare
+Je me suis hazardé
+Pour vous justifier de me rendre coupable.
+
+-*who_liliane
+Je suis cause de tout, que je suis miserable ?
+J'ay feint que ce joyau m'avoit esté volé,
+Un certain Astrologue⁎ a le tout revelé,
+Qui s'est monstré tousjours à nos amours contraire,
+Mais croy-moy, cher Amant qu'en despit de mon pere,
+Malgré le Ciel, la Terre, et tous les Elemens
+Liguez pour s'opposer à mes contentemens,
+Malgré l'Astrologie⁎, et quoy qu'il en advienne,
+Il n'est rien qui me puisse empescher d'estre tienne,
+Je t'en donne parole, et pour gage, ma foy⁎.
+
+-*who_tindare
+Est-il homme ici bas plus glorieux que moy ?
+Madame, permettez pour la faveur insigne
+Que je reçois de vous, dont je me sens indigne,
+Que je puisse baiser la trace de vos pas.
+
+-*who_nise
+Ah Dieux ! tout est perdu⁎, vostre pere est là-bas
+Dans le jardin, Madame, il vient avec Timandre.
+
+-*who_liliane
+Que feray-je, grands Dieux ! quel parti doy-je prendre ?
+Taschez par ce coin-là d'entrer dans le jardin,
+Tindare, et vous cachez derriere ce jasmin.
+
+**** *book_ *id_body-7-10 *act_ *date_1646 *creator_ouville
+
+-*who_timandre
+DIeux, que de ce jardin la veuë est agreable ?
+Que tout est propre ici ?
+
+-*who_arimant
+Que l'on dresse la table,
+Nise, et que l'on nous serve à souper promptement.
+
+-*who_moron
+Dieux ! je vole par l'air assez legerement,
+Je suis desja bien loin de Paris, ce me semble,
+Je crois ouïr des gens qui discourent ensemble.
+
+-*who_timandre
+Madame, tenez⁎-moy pour vostre serviteur.
+
+-*who_liliane
+Je suis vostre servante.
+
+-*who_arimant
+Est-ce pas là ce cœur
+Que vous aviez perdu ?
+
+-*who_liliane
+Monsieur, je vous rends grace.
+
+**** *book_ *id_body-7-11 *act_ *date_1646 *creator_ouville
+
+-*who_jacinte
+NOn, non, Ariste, il faut que je me satisface,
+Il me faut esclaicir de cette verité.
+
+-*who_ariste
+Madame, il est ainsi que je vous l'ay conté.
+
+-*who_arimant
+Que veut dire Madame ?
+
+-*who_jacinte
+Arimant, je vous prie
+Excusez cet effet de mon effronterie,
+Pour dire en peu de mots le trouble où je me voy,
+J'ayme, et je suis trahie, on me manque de foy⁎,
+Liliane cherit un homme que j'adore,
+Elle me l'a volé : je vous di plus encore
+Qu'on le face chercher, il est caché ceans⁎.
+
+-*who_arimant
+Un homme ici caché ?
+
+-*who_liliane
+Dieux ! qu'est-ce que j'entens ?
+
+-*who_moron
+J'entens, je croy, du bruit, et quelques voix confuses,
+Que Jodelet m'a dit.
+
+-*who_jacinte
+Ne cherchez point d'excuses.
+
+-*who_arimant
+Comment ? tu ne dis mot, meschante, as-tu le front,
+De m'oser regarder apres un tel affront ?
+Quel homme est-ce ? respons, infame⁎, je te jure
+Que je me vengeray.
+
+-*who_liliane
+Dieux ! l'estrange imposture ?
+
+-*who_arimant
+Que l'on cherche par tout, et qu'on ne laisse rien.
+
+-*who_ariste
+Laissez faire, Monsieur, je le trouveray bien.
+
+-*who_liliane
+Je suis perduë⁎, ô Dieux !
+
+-*who_jodelet
+Ah ! Monsieur, je vous jure.
+
+-*who_jacinte
+Ce qu'il veut dire ici n'est rien qu'une imposture,
+Ce n'est qu'un affronteur qui ne faict que mentir.
+
+-*who_moron
+Dieux ! qui de ce danger me pourra garantir ?
+Je suis prez de chez moy, je me le persuade
+Par ce bruict que j'entens.
+
+-*who_ariste
+Sur cette palissade
+J'aperçoy, ce me semble, un homme garoté.
+
+-*who_arimant
+Que veut dire cela ? grands Dieux ! suis-je enchanté ?
+Est-ce ici le Palais, ou d'Armide, ou d'Urgande ?
+
+-*who_moron
+Quels bruits entens-je ici ? grands Dieux que j'aprehende ?
+Suis-je hors de danger, respons-moy, Jodelet.
+
+-*who_timandre
+C'est quelque plaisant tour qu'aura fait mon valet.
+Sus donc⁎ que promptement ce pauvre homme on deslie.
+
+-*who_arimant
+A-t'on jamais parlé de pareille folie ?
+Est-ce là cet Amant qui se tenoit caché ?
+
+-*who_ariste
+Avec tous mes efforts j'y suis bien empesché.
+
+-*who_moron
+Je suis en mon païs, quelle resjouïssance ?
+Il faut baiser la terre où j'ay pris ma naissance.
+
+-*who_arimant
+N'est-ce pas là Moron ? Dieux ! qu'est-ce que je voy ?
+
+-*who_moron
+Estes-vous en Provence aussi bien comme moy,
+Monsieur ? Dieux ! je reçoy une joye infinie
+De rencontrer chez moy si bonne compagnie ?
+
+-*who_jodelet
+Pour n'avoir pas bien fait tout ce que je t'ay dit,
+Le charme t'a manqué.
+
+-*who_moron
+Que je suis interdit⁎ ?
+
+-*who_arimant
+Cherchons cet affronteur, Madame, je vous prie.
+
+-*who_tindare
+Pardonnez, Arimant, à mon effronterie,
+C'est moy, ne cherchez pas davantage, Monsieur.
+
+-*who_arimant
+Quoy ! l'Amant de ma fille est doncques ce voleur ?
+
+-*who_jacinte
+Arimant, révez⁎-vous ?
+
+-*who_liliane
+Que dites-vous, mon pere ?
+
+-*who_jodelet
+Messieurs, je puis moy seul desbroüiller cette affaire,
+Arimant sur ce poinct vous serez esclairci.
+Depuis un an et plus, Tindare que voici
+Adore Liliane, et Liliane l'aime,
+Ce n'est point un larron, car vostre fille mesme
+Avoit de ce joyau faict don à son Amant.
+
+-*who_arimant
+Ma fille, est-il bien vray ?
+
+-*who_liliane
+Confessons franchement
+La chose comme elle est, Ouy, Monsieur, je declare
+Que Tindare est à moy, que je suis à Tindare,
+Et si vous ne voulez approuver nostre amour,
+Privez-nous sur le champ de la clarté du jour.
+
+-*who_arimant
+En cette extremité, Monsieur, que doy-je faire ?
+
+-*who_timandre
+Puis qu'ils s'aiment si fort, il les faut satisfaire,
+Approuvez leurs amours et secondez leurs vœux⁎.
+
+-*who_arimant
+Bien, pour l'amour de vous, Timandre, je le veux.
+Ouy, Tindare, à ce coup je desire me rendre,
+Je vous donne ma fille et vous reçois pour gendre.
+
+-*who_tindare
+Quel homme sous le Ciel est plus heureux que moy ?
+Je suis ravi, Monsieur, de l'heur⁎ que je reçoy.
+
+-*who_liliane
+Vous me mettez, mon pere, au comble de ma gloire.
+
+-*who_ariste
+N'avez-vous point sujet à present de me croire ?
+Madame obligez⁎-moy, puis qu'en cet heureux jour
+Je ne rencontre plus d'obstacle à mon amour,
+Confirmez, s'il vous plaist, la parole donnee,
+D'estre jointe avec moy sous les loix d'hymenee⁎.
+
+-*who_jacinte
+Ariste, je le veux , vous l'avez merité,
+Je doy recompenser vostre fidelité.
+
+-*who_liliane
+Tu pensois, Jodelet, avoir cet avantage
+De rompre par ton art nostre heureux mariage,
+Mais ne l'ayant pas fait, tu vois bien, en un mot,
+Que ta science est fausse, et que tu n'és qu'un sot.
+
+-*who_jacinte
+Ne m'avois-tu pas dit que Tindare de flame⁎,
+Quoy qu'il me rebutast⁎, m'adoroit en son ame ?
+S'il en espouse une autre, on voit bien, en un mot,
+Que ta science est fausse, et que tu n'és qu'un sot.
+
+-*who_ariste
+N'avois-tu pas cognu par ton art grand et rare⁎,
+Que Jacinte m'aimoit, et n'aimoit plus Tindare ?
+Le contraire paroist, et tu vois, en un mot,
+Que ta science est fausse, et que tu n'és qu'un sot.
+
+-*who_moron
+M'avois-tu pas promis qu'avecque ta science
+Tu me ferois par l'air enlever à Provence ?
+Si je suis dans Paris, tu vois bien, en un mot,
+Que ta science est fausse, et que tu n'és qu'un sot.
+
+-*who_jodelet
+Nise, va confirmer tout ce que je vay dire.
+Je vous ay tous fourbez, cela vous doit suffire,
+Arimant, et croyez que l'on me doit loüer
+Pour ce que maintenant je vay vous avoüer.
+Sans de l'Astrologie⁎ avoir la connoissance
+J'ay passé pour devin dedans vostre croyance,
+Et par un artifice estrange et non commun,
+N'ay-je pas satisfait aux desirs d'un chacun ?
+Nise m'a descouvert l'amour de sa Maistresse,
+Que mon Maistre adoroit, admirez mon adresse,
+Et jusques à quel poinct, vous les braves⁎ esprits,
+Arimant, ce joyau que l'on vous avoit pris,
+Vous l'ay-je pas fait rendre ? Et respondez, Ariste,
+N'estes-vous pas content si tout vostre heur⁎ consiste
+A posseder Jacinte ? Et vous, Jacinte, aussi
+J'ay tiré vostre esprit de peine et de souci⁎ ?
+Sans doute vous devez estre fort satisfaite,
+Vous ayant aujourd'huy fait voir l'amour parfaite
+Qu'Ariste avoit pour vous, et l'infidelité
+De Tindare qui meurt pour cette autre beauté ?
+Toy, Moron, t'ay-je pas par cette belle feinte,
+Comme tu desirois, delivré de la crainte
+D'estre par les chemins pillé par les voleurs ?
+Tu n'es plus en estat d'avoir telles frayeurs,
+Avec toy les voleurs auroient peu de resource.
+
+-*who_moron
+Ah ! Messieurs ? Jodelet m'a desrobé ma bourse.
+
+-*who_timandre
+Tout s'est fait par mon ordre, et pour nous resjouïr.
+Vous, Tindare, croyez que vous pouvez joüir
+Des plaisirs infinis où le Ciel vous convie
+Sans qu'à vostre bonheur je porte nulle envie.
+Et pour toy, Jodelet, rens l'argent à Moron.
+
+-*who_jodelet
+Je le veux, mais que Nise obtienne son pardon,
+Et qu'il vous plaise aussi me la donner pour femme,
+Pour elle dés long-temps mon cœur n'est que de flame⁎.
+
+-*who_liliane
+Si mon pere y consent, Jodelet, je le veux.
+
+-*who_arimant
+Ouy, je suis tres-content de seconder leurs vœux⁎.
+
+-*who_nise
+J'ay tout ce que je veux.
+
+-*who_jodelet
+Moy ce que je desire.
+
+-*who_tindare
+Moy, le parfait objet⁎ pour qui mon cœur souspire.
+
+-*who_jodelet
+Et moy content aussi, je vous dis, en un mot,
+Que je ne suis devin, Astrologue⁎, ny sot.
+Fin de la Comedie de Jodelet Astrologue.

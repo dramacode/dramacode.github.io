@@ -1,0 +1,5494 @@
+---
+identifier: boyer_amours  
+creator: Boyer, Claude  
+date: 1666  
+title: Les Amours de Jupiter et Sémélé. Tragédie.  
+---
+
+
+LES AMOURS DE JUPITER ET SÉMÉLÉ
+
+TRAGÉDIE
+
+Par Monsieur BOYER.
+
+A PARIS, Chez GUILLAUME DE LUYNE, Libraire Juré, au Palais en la Salle des Merciers sous la montée de la Cour des Aydes, à la Justice. M. DC. LXVI. Avec Privilege du Roy.
+Édition critique établie par Évelyne Collinet sous la direction de Georges Forestier (2003-2004)
+
+
+# Introduction
+
+En 1666, dans sa Préface des *Amours de Jupiter et de Sémélé*, Claude Boyer déclarait :
+
+
+Puis-je laisser à la Postérité une idée plus avantageuse de la bonne fortune de ma Pièce, que celle d'avoir amusé agreablement le plus grand Roy du monde (…) ?
+
+C'était d'emblée chercher dans le jugement de la postérité un espoir de reconnaissance et assurer ainsi la renommée de sa pièce. En effet, face au talent reconnu de poètes et d'écrivains de génie tels que Pascal, La Rochefoucauld, Corneille, Molière, Racine… nombreux sont les auteurs dont les œuvres sont injustement tombées dans l'oubli après avoir été dénigrées par Boileau. Claude Boyer en est un exemple : entre 1645 et 1695, il a écrit plus de vingt pièces de théâtre parmi lesquelles des pastorales, des tragi-comédies, des comédies et des tragédies à machines. Malgré les calomnies dont le criblèrent Boileau et Furetière, Boyer fit preuve de persévérance, sachant s'adapter à l'évolution des goûts du public et ne renonçant jamais à sa carrière littéraire. Avec *Les Amours de Jupiter et de Sémélé* représentés en 1666, Claude Boyer s'essayait à un genre nouveau, celui de la tragédie à machines, très apprécié du public du XVII*e* siècle, notamment pour ses effets spectaculaires. Ayant remporté un grand succès, elle est considérée par Lancaster comme « the most ambitious play of the century [1] » et est l'une des seules pièces de Claude Boyer avec *Oropaste ou le faux Tonaxare* et *Tyridate* à avoir bénéficié d'une réédition.
+
+
+# Biographie de Claude Boyer
+
+Claude Boyer est né à Albi en 1618. Il fit ses études au collège de la ville tenu par des Jésuites où il acquit une bonne connaissance de la rhétorique, de la littérature latine et grecque. Nous ignorons cependant le moment exact où Boyer manifesta un intérêt particulier pour l'art dramatique. En 1645, âgé de 27 ans, il quitta Albi en compagnie de son ami Michel Leclerc pour monter sur Paris, ville incontournable, où évoluaient lettrés, académiciens et éditeurs reconnus. Tous deux s'en allaient avec l'espoir de rencontrer la fortune littéraire au cœur des salons parisiens, l'un avec sa *Porcie romaine* et l'autre avec sa *Virginie romaine*. D'après Furetière dans l'un de ses *Factums contre l'Académie*, il possédait en arrivant à Paris le titre d'abbé et le grade de bachelier en théologie. Boyer réussit à se faire admettre dans le salon de la Marquise de Rambouillet, très influent à l'époque et fréquenté par Voiture, Balzac, Ménage et Chapelain. L'abbé Boileau, dans sa réponse au *Discours de réception de l'abbé Genest*, successeur de Boyer à l'Académie Française y faisait allusion :
+
+
+Dans ses tendres années, il (Boyer) trouva l'appui d'une noble famille, dont le nom nous sera toujours cher, qui sembla l'adopter, parce que tous les gens d'esprits paraissaient naturellement en être… [2]
+
+C'est ainsi qu'il dédia à la Marquise *La Porcie romaine* à qui il rendit un vif hommage dans sa préface :
+
+
+(…) il n'y a que vous, MADAME, en ce Royaume, qui se puisse vanter d'avoir avec son païs et son sexe une naissance et une vertu pareilles aux siennes; c'est de vous seule, qu'elle La Porcie Romaine veut sçavoir, si en quittant le langage de Rome, elle en a perdu les sentiments; (…) c'est seulement par l'accueil que vous lui ferez qu'elle veut juger d'elle-mesme [3].
+
+La pièce fut représentée au théâtre de l'Hôtel de Bourgogne et selon l'abbé Genest, elle « enleva tout Paris ». Ainsi admis dans les cercles de la vie mondaine, il se lia d'amitié avec Jean Chapelain, une des plus hautes autorités littéraires de l'époque dont il devint peu à peu le protégé. Il enchaîna alors la publication de plusieurs pièces comme *Porus ou la Générosité d'Alexandre* et *Aristodème* – une tragi-comédie – en 1648 mais qui ne remportèrent pas le succès de la première. L'année suivante, il s'essaya au genre de la tragi-comédie à machines avec *Ulysse dans l'isle de Circé ou Euriloche foudroyé.* En 1649, la période de la Fronde interrompit la carrière de Boyer. À ce moment, le public faisait preuve d'un engouement particulier pour la comédie au détriment de la tragédie et de la tragi-comédie. Il s'ensuivit un silence de onze ans pendant lequel la vie du dramaturge nous est très mal connue.
+
+Boyer revint au théâtre en 1659 et il dédia la plupart de ses pièces à des personnes hautement placées dans la société : Clotilde (1659) à Fouquet, *Frédéric* (1659) au duc de Guise, *La mort de Démétrius* (1660) au chancelier Séguier, *Oropaste ou le faux Tonaxare* (1662) au duc d'Epernon, *Policrite* (1662) au comte Martel de Claire. Ces pièces ne remportèrent pas vraiment un vif succès même s'il précisait dans ses préfaces la satisfaction du public. C'est à partir des années 1660 que Boyer reçut plusieurs marques de reconnaissance de la part de ses compatriotes :
+
+En 1662, Claude Boyer se voit loué par son ami Jean Chapelain qui, à la demande de Colbert, établit une liste de gens de lettres recensant les auteurs qui recevront une pension royale. Chapelain lui dédia l'article suivant :
+
+
+Boyer est un poète de théâtre, qui ne cède qu'au seul Corneille en cette profession, sans que les défauts qu'on remarque dans le dessein de ses pièces rabattent de son prix ; car les autres n'étant pas plus réguliers que lui en cette partie, cela ne luy fait point de tort à leur égard. Il pense fortement dans le détail, et s'exprime de même. Ses vers ne se sentent point du vice de son pays, il ne travaille guère en prose. [4]
+
+Il recevait alors huit cents livres, et son nom réapparut chaque année sur la liste des gratifications royales, excepté en 1667.
+
+Corneille fit aussi l'éloge de son mérite, dans une lettre d'avril 1662. Le Théâtre du Marais était alors dans une situation critique et Corneille fit appel à Boyer, Quinault et Lulli afin d'assurer le devenir du théâtre :
+
+
+Ainsi si ses Messieu rs Boyer et Quinault ne les secourent ainsi que moi il n'y a pas d'apparence que le Marais se rétablisse, et quand la machine qui est aux abois sera tout à fait défunte, je trouve que ce théâtre ne sera pas en trop bonne posture [5].
+
+– En 1666, l'ascension de Boyer est alors à son apogée puisqu'il est élu à l'Académie Française par ses pairs :
+
+Ces jours passez, le sieur Boyer,  
+Digne d'un immortel loyer,  
+Et dont souvent on idolâtre,  
+Sur l'un et l'autre Théâtre,  
+Le grand Cothurne et l'Escarpin,  
+Fut, par un glorieux Destin,  
+Receu dans notre Academie…  
+Entrant dedans ce corps illustre…  
+Il harangua bien tout à fait,  
+Si que la docte Compagnie  
+Admira son ardent Genie  
+Et tinst, certes, à grand honneur,  
+Comme aussi même à bon-heur,  
+De l'avoir dans ses hauts mystères  
+Pour l'un des braves confrères. [6]  
+
+La même année, Boyer revint à la pièce à machines. *Les Amours de Jupiter et de Sémélé* remportèrent un grand succès dans une période où le public était avide de représentations d'ordre spectaculaire. Il dédia la pièce à Louis XIV qui assista à l'une des représentations au Théâtre du Marais. Christian Delmas souligne le succès de Boyer dans cette nouvelle voie :
+
+
+Boyer qui avait modestement tâté du genre à l'époque des balbutiements, est ainsi l'auteur original d'une remarquable tragédie des *Amours de Jupiter et de Sémélé*, reprise en 1666-1667, et 1667-1668, puis d'une *Feste de Vénus* en 1669. [7]
+
+Cependant, vers le début des années 1670, Boyer dut faire face à l'hostilité de certains de ses rivaux et à la montée de la critique. Soulignons qu'en 1667, Jean Racine triomphait avec *Andromaque* et d'après Lancaster, la disgrâce de Boyer correspondait à l'ascension de Racine. Boileau dans son *Art poétique* n'hésita pas à qualifier Boyer de « froid écrivain qui ne sait rien qu'ennuyer » . Il usa alors de sa verve pour éliminer le concurrent potentiel de son protégé, Racine :
+
+On peut avec honneur remplir les seconds rangs ;  
+Mais, dans l'art dangereux de rimer et d'écrire,  
+Il n'est pas de degrés du médiocre au pire.  
+Qui dit froid écrivain dit détestable auteur :  
+Boyer est à Pinchêne égal pour le lecteur. [8]  
+
+Les attaques de Furetière furent aussi très virulentes notamment après son exclusion de l'Académie Française en 1686. Furetière accabla Boyer de critiques acerbes et moqueuses dans son *Recueil de Factums contre l'Académie Française* :
+
+
+Il Boyer n'a pas été assez heureux pour faire dormir personne à ses sermons, car il n'a point trouvé de lieux pour prêcher. La nécessité l'a donc réduit à prêcher sur les Théâtres des Marais et de l'Hôtel de Bourgogne; mais il leur a porté malheur. [9]
+
+Ou encore :
+
+Quand les pièces représentées  
+De Boyer sont peu fréquentées,  
+Chagrin qu'il est d'y voir peu d'assistants,  
+Voici comme il tourne la chose:  
+Vendredi la pluie en est cause,  
+Et le dimanche le beau temps. [10]  
+
+et il rebaptisa notre auteur « Laboyer » dans les *Couches de l'Académie*. À partir de cette période, cabales et épigrammes allaient se multiplier. Preuve en est la préface du *Jeune Marius* (1669) dédiée à Colbert auquel il rendit hommage pour le remercier de figurer de nouveau sur la liste des gratifications royales dont il avait été privé deux ans plus tôt :
+
+
+Soutenu par la dignité de mon sujet, je vous ai consacré mon travail avant que de le commencer ; j'ai envisagé toute le gloire que je pouvais attendre de votre appréciation…, et je me suis dit sans cesse, qu'ayant été choisi pour être un des sujets des gratifications du Roi, je devais soutenir, ou plutôt justifier un choix si honorable. C'est avec ce grand secours que j'ai travaillé assez heureusement. Quoique la fortune et la cabale se mêlent aujourd'hui de faire le bon et le mauvais destin des ouvrages de théâtre, celui que je vous ai consacré n'a pas succombé sous leur injustice. [11]
+
+Face aux attaques et aux nombreuses calomnies dont il était victime, Boyer publia en 1680 *Agammenon*, sous le nom de Pader d'Assezan pour savoir « si la chute de ses ouvrages ne devait pas être imputée à la mauvaise humeur du parterre » [12]. Le stratagème réussit et la pièce remporta un grand succès qui lui ouvrit les portes des salons de Mme de Deshoulières, de Mme de Bouillon et de Mme de Tallemant :
+
+
+Agamemnon ayant suivi Le comte d'Essex, et voulant la dérober à une persécution si déclarée, je cache mon nom et laisse afficher et annoncer celui de M. Assezan. Jamais pièce de théâtre n'a eu un succès plus avantageux. Les assemblées furent si nombreuses et le théâtre si rempli, qu'on vit beaucoup de personnes de la première qualité prendre des places dans le parterre... Qu'arriva-t-il après cette réussite extraordinaire ? On soutint, on voulut faire des paris considérables, que je n'avais aucune part à cet ouvrage… [13]
+
+Cependant, quand trois ans plus tard il fit représenter *Artaxerce* sous son vrai nom, la pièce subit le même sort que les autres œuvres.
+
+Après *Antigone*, surnommée « les déserts de la Thébaïde » par Furetière, Boyer ne renoua avec l'écriture dramatique qu'en 1691. Vers la fin du règne de Louis XIV, à Versailles, le goût pour le faste, les fêtes et les grands spectacles s'estompaient peu à peu pour laisser place à plus d'austérité et de recueillement notamment sous l'influence de madame de Maintenon. À cette époque, le public manifesta un engouement nouveau pour la tragédie sacrée. Sur le conseil de l'abbé Testu, elle fit appel à notre auteur et lui commanda une tragédie, *Jephté*, à l'attention des jeunes filles de l'institution de Saint-Cyr. Dans sa préface, Boyer précisa qu'il pris un certain plaisir à s'essayer à un genre nouveau imposant des règles strictes :
+
+
+Une des plus importantes règles était de retrancher dans cette tragédie tout ce qu'il y avait de plus vif et de plus touchant dans les tragédies ordinaires, c'est-à-dire tous les emportements de l'amour profane…Mais l'attrait le plus engageant, ce fut de voir combien ce travail convenait à mon âge et à la situation où je me trouvais ; je ne pouvais m'imaginer rien de plus heureux que de me faire une occupation qui pouvait rendre ma muse toute chrétienne… [14]
+
+Boyer créa une seconde tragédie sacrée représentée sur la scène de la Comédie Française en 1695, *Judith*, qui connut un succès énorme à la scène comme en librairie, avant d'être elle aussi victime de la cabale racinienne. Après *Judith*, notre auteur renonça cette fois, définitivement au théâtre. Il consacra les dernières années de sa vie à la poésie et en fit aussi quelques lectures à l'Académie :
+
+
+Ses cantiques et ses paraphrases qu'on écoutoit avec plaisir toutes les fois que nous ouvrions nos portes. [15]
+
+Puis, revenant à la religion et à la méditation, il écrivit un ouvrage en prose : *Caractères des prédicateurs, des prétendants aux dignités ecclésiastiques, de l'âme délicate, de l'amour profane, et de l'amour saint.*
+
+
+Il a sanctifié ses dernières productions en les adressant au Ciel [16].
+
+Il mourut le 22 juillet 1698 à Paris.
+
+Claude Boyer fut reconnu de son vivant par une partie de l'opinion publique, et avait surtout gagné l'estime du grand Corneille et de Chapelain. Néanmoins, sa carrière fut sans cesse entravée par les épigrammes, pamphlets et attaques dont l'assaillissaient Boileau et Furetière. Soulignons que l'Art poétique était considéré comme le critérium de ce qu'il convient d'appeler le bon goût classique. N'admettant pas de milieu entre le sublime et le médiocre, il contribua à entacher l'œuvre de Boyer vis-à-vis de la postérité et à faire tomber dans l'oubli la plupart de ses pièces. Ainsi, même si les Frères Parfaict reconnaissaient l'acharnement et la méchanceté de Boileau à l'égard de notre auteur, ils ne le réhabilitèrent pas pour autant :
+
+
+On ne sait qui des deux doit le plus surprendre, ou l'aveuglement de M. Boyer  sur les défauts de ses ouvrages, ou l'acharnement ridicule de M.M. Racine et Boileau contre cet auteur. Cette persécution si peu convenable à de si grands hommes n'avançait que de quelques jours la chute des poèmes de leur adversaire (…) [17]
+
+et plus loin encore : « Sa poésie est dure, chevillée, pleine d'expressions froides ou basses » et son « dialogue n'exprime rien de ce qu'il doit dire, et c'est un perpétuel galimathias » .
+
+
+# Contexte de création et de représentation de la pièce
+
+
+## Contexte de représentation de la pièce
+
+Ce fut dès 1648 que le Théâtre du Marais, installé dans l'ancien Jeu de Paume, rue Vieille du Temple, se spécialisa dans la création de pièces à grands spectacles forts coûteux, désireux de répondre aux exigences du public et de lui offrir quelque chose des fastes de la Cour. Or, en 1666, la tragédie à machines était de plus en plus envahie par des composantes opératiques telles que les entrées de ballets, les chansons, qui interrompent l'action. Selon Christian Delmas, c'est
+
+
+à partir de Sémélé que la tragédie à machines se laisse elle-même subvertir par des éléments spectaculaires musicaux, chantés ou dansés, essentiels dans l'opéra mais parasitaires dans la tragédie, et qui rongent peu à peu l'ordonnance classique initiale… [18]
+
+En effet, musique et décor n'avaient pas seulement un rôle ornemental, ils tenaient une place essentielle dans notre pièce et s'inséraient parfaitement au sein de l'action. *Les Amours de Jupiter et de Sémélé*, tragédie en cinq actes, en vers, furent joués au Théâtre du Marais pour la première fois le 2 janvier 1666.
+
+Claude Boyer remit sa pièce à la troupe des comédiens du Marais en 1665 qui, à ce moment là, était dirigée par Laroque. Le machiniste-décorateur Denis Buffequin, ingénieur du roi, fut chargé de faire la mise en scène des machines et est l'auteur du *Dessein de la Tragédie des Amours de Jupiter et de Sémélé*, recueil exposant le sujet et les différentes étapes de la mise en scène ainsi que la succession des machines sur le théâtre [19]. Le nombre de machines était relativement impressionnant en raison de la place importante que tenait la décoration dans la pièce, puisqu'un changement de décor intervenait à chaque acte. Et ceci à tel point qu'on réutilisa les machineries qui avaient servi lors des représentations de la *Toison d'Or* de Corneille quatre ans plus tôt. La musique, elle aussi, tenait une place prépondérante : le Théâtre du Marais engagea des musiciens et Louis de Mollier [20] composa l'accompagnement musical. Soulignons qu'il était en effet très rare de faire appel à des compositeurs professionnels pour réaliser des musiques de théâtre, sauf pour la Cour. Henry Prunières souligne que :
+
+
+Chaque scène de cet opéra déclamé contient des chants, des dialogues, des chœurs. A tout moment, les airs et les symphonies surgissent au cours de l'action [21].
+
+Concernant la danse, le théâtre engagea deux mois après le début des représentations de la pièce un danseur du nom d'Anthoine Desbrosses, qui selon S. W. Deierkauf-Holsboer [22] était peut-être maître-danseur de la troupe. Ceci laisse supposer que ce n'était vraisemblablement pas les acteurs qui exécutaient les ballets. De la même manière, Bénédicte Louvat [23] souligne que les passages chantés étaient exécutés par des chanteurs professionnels en coulisse et n'apparaissaient sur la scène que dans des rôles secondaires.
+
+Toutes les conditions étaient donc réunies pour faire de cette tragédie à machines un grand succès et l'année 1666 correspondait pour le Marais à une période de prospérité qui ne dura pas longtemps du fait de la concurrence de l'Hôtel de Bourgogne et du Palais-Royal. C'est pourquoi le Théâtre du Marais, qui en 1667 commençait à être en difficultés, décida de remettre à l'affiche les pièces à grand spectacle qui avaient eu la faveur du public quelques mois auparavant. Ceci donna lieu à une reprise des *Amours de Jupiter et de Sémélé* durant la saison 1667-1668.
+
+
+## Réception de la pièce
+
+Le succès remporté par les *Amours de Jupiter et de Sémélé* auprès du public, manifestant un goût pour le merveilleux et le faste, fut immense :
+
+
+L'année même où échouait à peu près *Le Misanthrope, l'Antiochus* de Thomas Corneille était porté aux nues et le public se pressait aux représentations des *Amours de Jupiter et de Sémélé* [24].
+
+L'abondance des articles, gazettes, pamphlets et autres écrits qui lui faisaient référence nous en fournit une juste preuve. Souvent qualifiée de « divine » , « sans pareilles » , et « merveilleuse » , les éloges faites sur la pièce furent nombreuses et incitèrent également les gens à aller assister à une représentation. Il s'agissait la plupart du temps des comptes rendus des différentes représentations s'accompagnant d'une description de la pièce, d'un jugement de valeur sur la qualité des vers ou bien sur la mise en scène et en particulier sur la succession des décors et des machines sur le théâtre. Ils donnaient également très souvent un aperçu des intentions de l'auteur. Néanmoins, il est possible de mettre en doute l'objectivité et la sincérité de ces propos. En effet, ces comptes rendus étaient rédigés le lendemain des premières et ne présentent pas le même intérêt que des critiques réfléchies dans la mesure où elles ne bénéficiaient pas du recul nécessaire. Nous avons retenu ceux qui nous semblent les plus importants et les plus révélateurs du succès remporté par la pièce et de l'impact qu'elle eut à ce moment. Le 3 janvier 1666, au lendemain de la première, la *Gazette de Subligny*, en fit le compte rendu accompagné d'un éloge de la mise en scène :
+
+Curieux, allez voir la Pièce du Marais ;  
+Les machines de l'Andromède  
+Ne semblent, ma foy, rien auprès  
+De ce dernier ouvrage, voit, à qui tout autre cède.  
+Le Machiniste avoit, je croy, le diable au corps  
+Lorsqu'il fit de telles merveilles ;  
+On ne conçoit point les ressorts  
+De ses machines sans pareilles.  
+Mais sur ce peu de vers on n'en peut rien sçavoir.  
+Allez, vous dis-je, allez les voir [25].  
+
+Le chroniqueur ajouta quelques vers plus loin que l'actrice Marie La Vallée tenait le rôle de Sémélé [26]. Robinet, le 16 janvier 1666, relata la venue du roi qui assista à la représentation donnée le 11 du même mois [27] :
+
+Sa Majesté le meme jour,  
+Presqu'avec toute la Cour ,  
+Fut voir sans mouiller la semele,  
+Comment Jupiter & Sémélé,  
+Se font l'amour sur nouveau frais,  
+Dans les machines du Marais ;  
+Ce sont, ce dit-on, des merveilles,  
+Pour les yeux & pour les oreilles,  
+Pour les oreilles je le croi  
+Ainsi qu'un article de foi  
+Car Boyer qui sur le Theatre,  
+Fait du bruit presqu'autant que quatre ;  
+De ce Poëme a fait des vers,  
+Et Moliere [28] a fait les concerts.  
+Et j'ajoute ici seulement,  
+Que La Roque fit complément,  
+Ou harangue à notre beau Sire,  
+Autant bien qu'on le sçauroit dire.  
+
+Quant à Mayolas, il loua la beauté des machines, la décoration du théâtre et rendit hommage au compositeur de la musique [29] :
+
+Chacun admire une Machine  
+Qui semble être presque divine,  
+Faizant si promptement aller  
+Et du bout à l'autre voler  
+Cette éclatante Renommée,  
+Des honnêtes gens tant aimée.  
+Du théatre les changemens,  
+Décorations, ornemens,  
+Augmentent la magnificience  
+De cet ouvrage d'importance,  
+Et les talens particuliers  
+De l'esprit de Monsieur Moliers  
+Par un concert incomparable,  
+Le rendent fort recommandable.  
+
+L'engouement pour les *Amours de Jupiter et de Sémélé* suscite compliments et louanges. Robinet, le 6 mars 1666, souligne que la cherté des places est un « mal nécessaire » qui est à la mesure de la beauté du spectacle. (Le Marais doublait le prix des places lors des premières représentations) [30] :
+
+Ceux qui donnent dans la machine  
+Pourront aussi, je m'imagine,  
+Rencontrer leur compte au Marais,  
+Il est vrai, c'est à plus grand frais,  
+Mais quant il faut se satisfaire,  
+Le coust est un mal nécessaire…  
+D'ailleurs de pareilles machines,  
+Des machines presque divines  
+Méritent bien, sans aucun doute  
+Qu'on y courre, quoi qu'il en coûte.  
+
+Mais le point de vue de la postérité à l'égard de notre pièce est plus diversifié : en 1681, Donneau de Visé, fait remarquer dans le *Sujet des Amours du Soleil* que personne n'a oublié « cette belle pièce en Machines » et que « *l'Andromède, La Toison d'Or et la Sémélé* sont les dernières pièces de théâtre qui aient paru sur ce superbe théâtre. » . Cependant, Les Frères Parfaict parlent de « personnages équivoques qui soutiennent si peu leur caractère… » ou encore d'un *« * ouvrage … qui eut assez de succès pour exciter la curiosité du Roy, qui voulut honorer une de ses représentations de sa présence [31] » . Ils n'épargnent pas non plus le style et la qualité des vers :
+
+
+On verra que l'Auteur, cherchant toujours l'esprit & le sublime, lorsque souvent il ne falloit que du naturel, est tombé dans un galimathias inintelligible peut-être à lui-même, & des discours bas, répétés si frequemment, qu'on est tenté de croire que c'est le hasard qui a jetté dans son Poëme quelques vers heureux qu'on y rencontre.
+
+
+# La tragédie à machines : un théâtre des sens, un théâtre total
+
+
+## « Tenir les esprits, les yeux et les oreilles dans un égal enchantement » La Bruyère, *Caractères* [32].
+
+La définition que donne la Bruyère du théâtre à machines rend bien compte du fait qu'il s'agit d'un théâtre qui possède ses propres caractéristiques. Ayant recours à des composantes qui ne sont pas purement verbales tels que les ballets, chansons, airs et autres, elle ne répond pas aux critères de bienséance et de vraisemblance voulus par la tragédie dite régulière. Voici comment Hélène Visentin définit la situation :
+
+
+Deux poétiques, deux esthétiques s'affrontent. D'un coté, un théâtre des « effets » qui accorde la primauté au spectacle de la scène ; de l'autre un théâtre de la raison qui fait la part belle au raffinement stylistique et au respect des bienséances. [33]
+
+En effet, les théoriciens classiques ont été largement influencés par *La Poétique* d'Aristote : même s'il souligne que c'est du spectacle que « naissent les plaisirs les plus vifs » et que le « spectacle implique tout : caractères, histoire, expression, chants et pensées. » , il rajoute cependant que même s'il fait partie du système théâtral,
+
+
+il est totalement étranger à l'art et n'a rien à voir avec la poétique, car la tragédie, réalise sa finalité même sans concours et sans acteur [34].
+
+Ainsi, reconnaissant la suprématie du texte qui, à lui seul, peut susciter frayeur et pitié, Aristote proscrit l'usage de la machine au théâtre car elle détournerait les spectateurs du texte. De la même façon les théoriciens classiques condamnent la plupart du temps l'utilisation des machines dans les pièces de théâtre, considérées comme des artifices qui nuisent à l'efficacité du texte et en particulier dans un moment où l'on élabore les règles de la tragédie unie, modèle dominant dans la seconde moitié du XVII*e*  :
+
+
+Et outre que ces Machines ne peuvent estre transportées aux lieux où la Tragédie doit estre la plus parfaite, il faut avoüer qu'un poëme qui subsiste de soy-mesme, a toujours autant d'avantage sur ceux qui veulent le secours des ornements extérieurs, qu'ont les beautez naturelles sur celle qui ne le sont pas [35].
+
+La Mesnardière bannit donc ici toutes sortes d'éléments extérieurs qui viendraient desservir l'efficacité mimétique du texte dramatique. Avoir recours à des machines seraient considérer que le texte aurait besoin de s'extérioriser à travers la représentation pour parvenir à atteindre son objectif et il perdrait alors de sa valeur :
+
+
+Poétiquement, la machine dénature le poème dramatique, c'est un élément extérieur qui rompt la cohérence interne de l'œuvre et désamorce l'émotion que doit susciter la tragédie [36].
+
+Les arguments soulevés par d'Aubignac qui défavorisent la tragédie à machines concernent moins la poétique que l'aspect pratique ; il dénonce les frais de représentation qu'occasionnent ces spectacles et remet en cause le savoir-faire des décorateurs :
+
+
+Bien que la Cour ne les ait pas désagréables, et que le peuple fasse foule à toutes les occasions de voir quelque chose de semblable, je ne conseillerais pas à nos poètes de s'occuper souvent à faire de ces pièces de théâtre à machines ; nos comédiens ne sont ni assez opulents, ni assez généreux pour en faire la dépense, et leurs décorateurs ne sont pas assez habiles pour y réussir [37].
+
+Même si la machine est souvent considérée comme un élément perturbateur, on reconnaît cependant le faste et la beauté de ce genre de spectacle mais également le fait que l'action se trouve comme amplifiée par l'introduction d'éléments spectaculaires : « La machine augmente et embellit la fiction » et
+
+
+elle soutient la douce illusion qui est tout le plaisir du théâtre, où elle jette encore le merveilleux [38].
+
+Malgré toutes les controverses, l'introduction de l'opéra italien en France à partir de 1648 précipite le développement du théâtre à machines. D'après Hélène Visentin, c'est entre 1641 et 1693 que la tragédie à machines connait sa période d'épanouissement, d'apogée mais aussi de déclin. Son expansion répond aussi à une nécessité toute simple : le public recherche le divertissement mais est aussi curieux d'avoir un aperçu des spectacles que l'on donne à la Cour. La machine peut provoquer la surprise et le ravissement des spectateurs et non pas seulement nourrir leur esprit. De ce fait, le public tient un rôle qu'il n'a pas dans la tragédie dire régulière puisque le théâtre à machines suscite l'admiration ou la critique du spectateur face aux décors et aux machines qu'on lui montre sur la scène. La machine est là avant tout pour séduire le regard, pour plaire, et sa finalité ne se situe pas en elle-même mais dans le regard et le jugement du public. La tragédie à machines trouve donc incontestablement sa place dans la réalité sociale de l'époque.
+
+En ce sens, la tragédie de Pierre Corneille *Andromède*, représentée en 1650 se définit comme le « modèle achevé du genre » dans la mesure où elle en fixe les composantes et possède alors des caractéristiques qui lui sont propres. Dans l'*Argument* de la pièce, Corneille précise que le «  principal but ici a été de satisfaire la vue par l'éclat et la diversité du spectacle, et non pas de toucher l'esprit par la force du raisonnement, ou le cœur par la délicatesse des passions » . Ce qui signifie que le texte ne tient pas la place essentielle et n'est pas le seul à provoquer l'émotion tragique que doit susciter la tragédie. Il s'agit en effet d'une collaboration, d'une réunion de tous les arts où les effets spectaculaires, la représentation, sont autant à l'origine de l'émotion et du plaisir ressentis par le spectateur que le texte. Lorsque le spectateur assiste à la représentation d'une tragédie à machines, tous ses sens doivent être convoqués. Revenons à la définition de la Bruyère : aucun sens n'est privilégié, il précise bien qu'il s'agit d'un « égal enchantement » . C'est la réunion des différents plaisirs suscités par les yeux (succession de nombreuses machines sur le théâtre et décors merveilleux) , les oreilles ( passages chantés : airs, chansons, musique d'accompagnement) et l'esprit (qualités des vers et de la déclamation) qui font du théâtre à machines un théâtre des sens où l'effet produit sur le spectateur est plus important que le texte lui-même.
+
+Néanmoins, c'est principalement à partir de 1666, lors de la représentation des *Amours de Jupiter et de Sémélé* que les composantes non verbales se diversifient de plus en plus (on trouve aussi bien des entrées de ballets, que des passages chantés par les chœurs mais aussi par les personnages eux-mêmes notamment dans le prologue, et également de la danse.) et s'introduisent dans la trame de la tragédie à machines définie quelques années auparavant.
+
+
+## Les composantes de la tragédie à machines
+
+Nous nous proposons après cette définition théorique de rappeler brièvement les différentes parties qui composent « traditionnellement » une pièce à machines. Nous retiendrons cinq caractéristiques principales.
+
+
+### Un prologue
+
+Repris de l'opéra italien, il est selon Jacques Truchet, le « signe tangible du rattachement de ce genre de pièce aux ballets de Cour [39] » . Plaisir du roi et apologie du genre de la tragédie à machines sont les deux fonctions du prologue : il s'agit en effet d'une louange adressée à la gloire du roi, ou les arts sont soumis au divertissement royal :
+
+
+Notre siècle a inventé une autre espèce de prologue pour les pièces de machines, qui ne touche point au sujet, et n'est qu'une louange adroite du prince devant qui ces poèmes doivent être représentés [40].
+
+Mais le prologue a aussi pour fonction, à travers le dialogue des Muses, de légitimer le genre du théâtre à machines en prônant la réunion de tous les arts afin de créer un spectacle total.
+
+
+### Des changements de décor à vue
+
+Les changements de décors s'effectuent généralement à la fin de chaque acte et si nécessaire en cours d'acte, c'est-à-dire en changement à vue. Ils préparent de cette manière l'esprit du spectateur à ce qui va suivre. Les lois de la perspective sont respectées à l'aide d'un châssis coulissant. L'abbé d'Aubignac précise toutefois qu'il vaut mieux effectuer les changements de décors
+
+
+dans l'intervalle d'un Acte afin que les Ouvriers prennent tout le temps nécessaire pour remuer les machines, et que le Personnage qui doit ouvrir l'Acte, laisse passer le bruit que ce nouvel ornement aura excité [41].
+
+La richesse de la machinerie ou l'arrivée d'un nouvel ornement soulevaient parfois un brouhaha d'émerveillement dans la salle.
+
+
+### Des apparitions divines machinées
+
+C'est le genre même de la tragédie à machines qui justifie la présence des dieux sur la scène puisque la majorité d'entre elles mettent en scène un sujet mythologique. Ces apparitions se font au moyen d'une volerie ou d'un char volant. Soulignons également, que les apparitions machinées permettent la mise en valeur du statut particulier des dieux, afin de les différencier des hommes. La machine devient nécessaire à l'action et « doit son rôle aux exigences du texte [42] » . L'une des particularités propres au genre est que les dieux participent activement à l'action dramatique. (cf. notre étude en VII, 1 : des dieux metteurs en scène) .
+
+
+### De la musique, des vers mêlés dans les passages chantés
+
+À l'origine, musique et chants servaient essentiellement à couvrir le bruit que faisaient les machines lors de leur arrivée sur la scène. Elle avait donc simplement un rôle ornemental. Corneille lui accorde un rôle limité :
+
+
+Les paroles qui se chantent étant mal entendues des auditeurs, pour la confusion qu'y apporte la diversité des voix qui les prononcent ensemble, elles auraient fait une grande obscurité dans le corps de l'ouvrage, si elles avaient eu à instruire l'auditeur de quelque chose d'important [43].
+
+La musique remplace alors la parole des personnages quand le spectacle empêche les spectateurs d'être attentifs au dialogue. Toutefois elle prend une place plus importante dans l'action dramatique : nombreux sont les chansons, les passages musicaux chantés par le chœur.
+
+
+### Des ballets, surtout à partir des *Amours de Jupiter et de Sémélé*
+
+La présence des ballets s'explique en 1666, par la concurrence de la comédie-ballet. Face à ce genre né de la Cour, le Théâtre du Marais « tâche de faire valoir que la ville n'est pas en reste [44] » .
+
+Toute pièce à machines s'accompagne également d'un dessein : il s'agit d'un livret d'une quinzaine de pages qui, à l'origine, était réservé aux opéras. Ayant valeur de programme, il est publié avant la représentation d'une pièce à machines et vendu en librairie. Il permet alors aux spectateurs de se familiariser avec la pièce avant d'aller assister à la représentation ou d'en faire la commémoration. Sa fonction est essentiellement descriptive puisqu'il résume de manière détaillée toute l'intrigue de la pièce et décrit la façon dont se succèdent les machines sur le théâtre. Le narrateur n'hésite pas à vanter l'habileté des machinistes, la rapidité des changements de décors, la qualité de la mise en scène ainsi que la beauté des décorations. La précision dans les détails scéniques et la description des nouveautés sont là pour convaincre le spectateur de la beauté du spectacle.
+
+On constate donc qu'il s'agit d'un genre théâtral en perpétuelle évolution, mais qui cependant n'a pas cessé de satisfaire le public avide de merveilleux, présent dans ces tragédies luxuriantes. La particularité du genre tient à l'importance que l'on accorde à la représentation et à l'art de plaire. Comment ces différentes composantes s'agencent t-elles dans les *Amours de Jupiter et de Sémélé* ? En quoi font-elles intégralement partie de l'action dramatique et comment la servent-elle ?
+
+Nous verrons comment ces éléments sont mis en valeur dans notre pièce afin de créer un spectacle total où la représentation sert l'action dramatique. Ainsi, les effets ne sont pas seulement rendus par le texte mais sont extériorisés par la représentation.
+
+
+# Présentation de la pièce
+
+
+## Résumé de la pièce
+
+
+### Le prologue
+
+Scène 1 : Melpomène, la Muse de la Tragédie, s'interroge sur le sujet le plus propre à faire l'éloge du roi Louis XIV. Elle ne doit plus désormais représenter les exploits des Héros et des demi-dieux mais le spectacle de la gloire du règne du roi. Elle est interrompue dans ses réflexions par sa sœur Thalie, Muse de la Comédie.
+
+Scène 2 : La Muse de la Tragédie voit sa place sur le théâtre contestée par sa sœur. Thalie reproche à Melpomène les objets de ses discours et veut la persuader qu'ils ne sont plus « à la mode » . Elles décident de faire appel à leur sœur Euterpe, Muse de la Pastorale, pour les départager.
+
+Scène 3 : Euterpe leur fait savoir qu'elle aussi concourt et fait l'apologie des sujets et fonctions des discours que tiennent ses sœurs avant de vanter son propre art. Toutes trois font appel à Apollon, le souverain juge.
+
+Scène 4 : Les trois Muses chantent une chanson au dieu pour faire l'éloge de leur arts respectifs. Mais Apollon décide de réunir les trois arts sur la scène pour créer un genre nouveau. Melpomène reste sur le théâtre alors que ses deux sœurs s'envolent dans le ciel.
+
+
+### L'argument principal
+
+Sémélé, fille du roi de Thèbes Cadmus et de la reine Hermione est aimée de Jupiter qui se déguise en berger pour mieux pouvoir l'approcher et pour cacher cette passion à Junon. Cependant, elle est promise à Alcméon, prince d'Argos qui apprend l'infidélité de la princesse. Sémélé, par orgueil, voudrait montrer cet amour au grand jour, et Junon, ayant appris l'existence de cette relation, jalouse, rend visite à la princesse sous les traits de Mercure. Elle profite de la faiblesse de Sémélé pour la faire douter de l'identité de son amant et lui dit que la seule façon de savoir s'il s'agit d'un imposteur ou non, c'est de demander à Jupiter de se présenter à elle dans toute sa puissance. Jupiter, ayant promis à la princesse de réaliser tous ses désirs, est contraint d'accepter et Sémélé est réduite en cendres ainsi que le palais. Apprenant la nouvelle, Alcméon se suicide. Alors que le roi et la reine se lamentent sur le sort de leur fille, Jupiter fait apparaître Sémélé dans le ciel devenue immortelle et demande à la déesse de la Renommée et à Mercure d'aller répandre la nouvelle de la gloire de Sémélé et de l'honneur qui est fait au roi.
+
+
+### Résumé détaillé
+
+
+#### Acte I
+
+Scène 1 : Les Heures et L'Aurore entrent dans la chambre de la princesse Sémélé pour presser son réveil car Jupiter l'attend dans le parc sous l'apparence d'un berger. Une Heure va prévenir le dieu que la princesse, par souci de bienséance, doit attendre le lever du jour pour le rejoindre.
+
+Scène 2 : Dircé, la confidente de Sémélé, tente de persuader la princesse qu'il vaut mieux renoncer à cet amant divin. En effet, le roi de Thèbes, son père, l'a promise au prince d'Argos Alcméon. Mais Sémélé, par orgueil, désire révéler le nom de son amant au grand jour pour que tout le monde apprenne l'honneur qui lui est fait, ce que Jupiter ne veut pas. Elle raconte ensuite à Dircé la naissance de cet amour et la façon dont Jupiter l'a séduite.
+
+Scène 3 : Alcméon, doutant de la fidélité de la princesse, lui rend visite, lui reproche sa soudaine froideur et attend de sa part le renouvellement de ses vœux. Cependant, elle lui apprend qu'elle en aime un autre, sans vouloir lui en révéler le nom et le prévient de ne pas s'opposer à ce rival si éminent, de le craindre, et de ne pas s'exposer dangereusement à sa colère. Le roi entrant, elle s'en va rejoindre son amant et mande à Dircé de rester.
+
+Scène 4 : Alcméon confie au roi l'infidélité de la princesse qui de prime abord ne le croit pas, étant persuadé qu'il s'agit d'un artifice féminin pour éprouver l'ardeur et la fidélité de son futur époux. Le roi reproche à la reine Hermione, fille de Vénus, d'avoir fait naître dans le cœur de sa fille l'envie de se choisir un amant qui soit au-dessus du pouvoir royal. La reine s'en défend, et le roi lui demande de découvrir le nom de cet amant.
+
+Scène 5 : La reine somme Dircé de lui révéler le nom de cet amant. Mais celle-ci craint la colère de Sémélé et la reine lui demande d'aller chercher la princesse pour qu'elle révèle elle-même l'identité du rival. C'est alors que le Dieu Amour porté par un aigle paraît dans le ciel et prévient la reine de ne pas forcer sa fille à révéler son secret.
+
+
+#### Acte II
+
+Scène 1 : Jupiter attend Sémélé dans le parc sous l'habit d'un berger pour tromper la vigilance de Junon. Momus lui reproche son inconstance et aussi de ne s'intéresser qu'à des beautés mortelles. Jupiter regrette sa condition d'immortel.
+
+Scène 2 : Sémélé apercevant Jupiter déguisé en berger critique ce déguisement car il sert moins à se cacher de Junon qu'à dissimuler les sentiments qu'un dieu a pour une mortelle. Jupiter s'en défend et Sémélé lui dit qu'il est temps de révéler cet amour au grand jour pour éviter la colère du roi de Thèbes ainsi que son mariage avec Alcméon. Jupiter finit par céder et consent à ce que tout le monde apprenne son nom et la victoire de Sémélé. L'arrivée d'Alcméon interrompt cet entretien.
+
+Scène 3 : Croyant avoir en face de lui un véritable berger, Alcméon lui demande de s'éloigner afin qu'il dise à la princesse que le mariage aura lieu avant la fin de la journée. Mais Sémélé refuse que le berger s'en aille. Jaloux, Alcméon comprend qu'il s'agit de son rival et s'apprête à le combattre en dégainant son épée. Cependant, un charme retient le bras d'Alcméon et il découvre l'identité de son rival. Mais il prend ce charme pour un acte de magie et non un acte divin. C'est alors que l'orage vient à gronder, et Alcméon prend Jupiter pour un imposteur et un enchanteur. Jupiter sachant qu'il s'agit de Junon qui descend sur la terre s'envole dans les airs avec la princesse pour la cacher.
+
+Scène 4 : Junon fait savoir à Alcméon qu'il s'agit du véritable Jupiter. Jalouse de l'infidélité du Dieu, elle veut perdre sa rivale et propose son aide au prince pour qu'il se venge d'une infidèle. Celui-ci, éprouvant encore de la tendresse pour la princesse, charge Junon d'achever sa vengeance.
+
+
+#### Acte III
+
+Scène 1 : Jupiter et Sémélé se trouvent dans un jardin enchanté qui protège la princesse de la colère de son père et de Junon. Après lui avoir vanté les charmes et la douceur de ce lieu, Sémélé ne doute plus de l'identité de son amant. Celui-ci doit retourner pour quelque temps dans le ciel et il demande à Vénus, aux Plaisirs et à l'Amour de la divertir en son absence et de veiller sur elle.
+
+Scène 2 : Vénus entoure Sémélé de deux amours pour lui assurer la beauté et la constance de Jupiter. Elle la prévient de l'arrivée de la Jeunesse.
+
+Scène 3 : la Jeunesse danse en compagnie des Plaisirs et de deux amours qui rendent la princesse encore plus belle pour Jupiter.
+
+Scène 4 : Junon, déguisée en Mercure, rend visite à Sémélé restée seule avec les deux amours. Elle la persuade qu'elle vient de la part de Jupiter pour l'informer qu'elle est victime d'un imposteur et pour lui prouver la véracité de son propos, elle fait disparaître le jardin enchanté. Les deux amours, avant de partir, préviennent Sémélé qu'elle est abusée par un faux Mercure.
+
+Scène 5 : Dans le doute où se trouve Sémélé, Junon-Mercure lui conseille de demander à Jupiter de se présenter à elle dans toute sa gloire et sa puissance c'est-à-dire tel qu'il apparaît dans le Ciel à Junon. De cette sorte, elle saura si c'est un imposteur ou non.
+
+Scène 6 : Junon, seule, vante la réussite de son entreprise. Elle s'interrompt en apercevant Momus.
+
+Scène 7 : En révélant à Junon l'endroit où Jupiter cache sa maîtresse, Momus attise la jalousie de la déesse qui lui reproche son manque de discrétion. Il parvient à persuader Junon qu'il s'agit d'aventures passagères et qu'elle devrait renoncer à se venger. Cependant, la déesse fait semblant de remonter au ciel et Momus court avertir Jupiter de la nouvelle résolution de celle-ci.
+
+
+#### Acte IV
+
+Scène 1 : Demeurée seule, Sémélé expose ses hésitations et le trouble dans lequel elle se trouve : doit-elle écouter son cœur, et s'excuser de son attitude auprès d'Alcméon, ou bien son orgueil qui la pousse à mépriser l'amour d'un mortel après avoir cru être aimée d'un dieu ?
+
+Scène 2 : Sémélé confie à Dircé le trouble de son âme. Malgré les arguments de sa confidente, la gloire l'emporte sur l'amour.
+
+Scène 3 : Alcméon avoue de nouveau sa flamme à Sémélé, qui malgré sa tendresse pour le prince, lui dit froidement qu'elle préfère être aimée d'un dieu quelques instants plutôt que de s'unir à un mortel. Mais le prince décide d'achever le mariage selon l'ordre du roi.
+
+Scène 4 : La reine entre et annonce à sa fille qu'elle n'a pas pu persuader le roi d'annuler le mariage.
+
+Scène 5 : Malgré les supplications de Sémélé, le roi ordonne qu'elle s'avance dans le temple avec le prince.
+
+Scène 6 : Le temple d'Hyménée se transforme en un antre de la Jalousie qui effraie le roi et Alcméon.
+
+Scène 7 : La Jalousie dit au roi qu'elle sera la seule déesse présente lors du mariage et qu'elle y sèmera la querelle.
+
+Scène 8 : Croyant qu'il s'agit encore d'un artifice de l'imposteur, il fait appel à Minerve pour célébrer la cérémonie.
+
+Scène 9 : Jupiter déguisé en Minerve prévient le roi de la colère de Jupiter s'il achève le mariage. Il ordonne ensuite à tout le monde de se retirer sauf à Sémélé.
+
+Scène 10 : Sémélé reconnaît son amant divin sous ce déguisement et l'accuse d'imposture. Elle lui demande alors de se montrer à elle dans toute sa puissance et avec tout son apparat. Ayant fait serment à la princesse de satisfaire ses moindres désirs, il est contraint d'accepter.
+
+
+#### Acte V
+
+Scène 1 : Sémélé fait savoir à Dircé que Jupiter va venir lui rendre visite dans tout son éclat.
+
+Scène 2 : Momus informe Sémélé de la venue de Jupiter ; il blâme son orgueil et sa curiosité.
+
+Scène 3 : Jupiter descend du ciel avec tout son équipage. Momus lui rappelle le péril que court la princesse mais Jupiter doit tenir sa parole.
+
+Scène 4 : Momus, resté seul, aperçoit des flammes qui sortent du palais et monte sur l'aigle pour rejoindre Jupiter au ciel.
+
+Scène 5 : Alcméon apprend de Dimas, son confident, la mort de la princesse et reproche à Jupiter de ne pas avoir préservé sa vie.
+
+Scène 6 : Alcméon accuse la reine d'avoir fait preuve de trop d'ambition vis-à-vis de sa fille et d'être à l'origine de ce désastre. Le prince décide de se donner la mort en se précipitant dans les flammes. Mais il voit Junon qui arrive sur le théâtre.
+
+Scène 7 : Tandis que le prince et la reine se lamentent sur le sort de la princesse, Junon se félicite d'avoir réussit à perdre sa rivale. Le roi entre.
+
+Scène 8 : Le roi laisse éclater sa colère et rend la reine responsable de ce désastre. Il plaint le pauvre Alcméon et craint qu'il ne se suicide. Atys, le capitaine des gardes entre.
+
+Scène 9 : Atys fait le récit de la mort du prince et la reine, se lamentant, invoque Jupiter pour savoir les raisons de ce malheur. Un théâtre de nuages remplaçant le palais laisse voir Jupiter dans sa demeure.
+
+Scène 10 : Jupiter console le roi de Thèbes et fait apparaître dans le ciel Sémélé, devenue immortelle. Le dieu ordonne à la Renommée et à Mercure d'aller conter partout la gloire et l'honneur qui sont faits au roi et à sa fille.
+
+
+## Le traitement des sources
+
+Le travail de réécriture d'un mythe consiste à reconstituer une fable en en conservant la trame, c'est à dire en s'inscrivant dans une tradition mythologique tout en s'en démarquant par la mise en valeur de certains aspects du mythe ou l'ajout d'éléments dans l'action dramatique.
+
+La question essentielle est donc celle de la représentation du mythe. Comment Boyer a-t-il écrit par rapport à celui-ci ? Qu'a-t-il retenu de la fable ? Sur quoi fonde t-il l'intrigue des *Amours de Jupiter et de Sémélé* et sur quoi a-t-il mis l'accent par rapport au mythe d'origine ? Nous analyserons en quoi consistent ces modifications et ce qu'elles impliquent du point de vue de l'action dramatique, puis nous nous pencherons sur les raisons de ces changements. Dans sa présentation du *Recueil de tragédies à machines sous Louis XIV*, Christian Delmas souligne qu'il « ne connaît pas d'antécédent à Sémélé [45] » et Donneau de visé dans le *Sujet des Amours du Soleil* reconnaît son indéniable succès :
+
+
+*L'Andromède, la Toison d'Or, et la Sémélé* sont les dernières pièces de spectacle qui aient paru sur ce superbe théatre.
+
+En effet, le mythe des *Amours de Jupiter et de Sémélé* a été très peu exploité dans le théâtre classique et la nouveauté du sujet pour le public du XVII*e* permet à Claude Boyer de reprendre le mythe d'origine pour en faire une tragédie à immense succès. Dans le dessein de la pièce, le machiniste Denis Buffequin expose d'abord l'argument de la pièce en racontant le mythe tel qu'il a été relaté dans les *Métamorphoses* d'Ovide ; puis, en résumant l'action acte par acte, il précise les raisons des changements qui ont été apportés à la fable et nous permet de mesurer les écarts entre le mythe et la pièce.
+
+
+### Sources antiques : Ovide et Apollodore
+
+
+#### Les *Métamorphoses* d'Ovide
+
+Intéressons-nous tout d'abord à l'histoire de Sémélé telle qu'elle est racontée dans les *Métamorphoses* d'Ovide en résumant brièvement la fable : le poète inscrit le récit de la légende de Sémélé dans le cadre de la vengeance de Junon sur la maison d'Agénor. La déesse s'indigne que Sémélé soit enceinte de Jupiter. S'ensuit un long monologue dans lequel elle forme le dessein de se venger et de perdre sa rivale. Elle décide de rendre visite à Sémélé sous l'apparence de Béroë d'Epidaure, la nourrice de la jeune princesse et l'incite à demander à Jupiter d'apparaître tel qu'il est dans le ciel. De cette façon, elle saura s'il s'agit réellement du vrai Jupiter. Sémélé s'en va alors trouver Jupiter qui lui fait serment d'accepter le moindre de ses désirs :
+
+
+Choisis, tu n'éprouveras pas de refus ; pour mieux t'en convaincre, je prends à témoin le grand fleuve du Styx, ce dieu que redoutent les dieux eux-mêmes.
+
+Cependant, après avoir écouté le vœu de Sémélé, il comprit son erreur. Ne pouvant pas revenir sur sa promesse, il se présente devant la princesse en « essayant d'affaiblir sa force » . Ne pouvant résister à ce fracas, Sémélé est consumée sur place. Jupiter sauve l'enfant qu'il coud dans sa cuisse et le confie à sa naissance à Ino, la sœur de Sémélé, qui elle-même confia l'enfant aux nymphes.
+
+Nous constatons donc que notre auteur a occulté certains détails et ceci, dans un premier temps, par souci de respect des bienséances : en effet, on ne trouve dans notre pièce aucune allusion au fait que Sémélé soit enceinte de Bacchus. De même, la dimension sexuelle a été totalement supprimée. Répondant au vœu imprudent de la princesse, Jupiter apparaît dans toute sa splendeur à la fin de la pièce uniquement pour plaire à sa belle et lui faire la cour. Ces règles de la bienséance correspondent, selon Jacques Scherer, à une « exigence morale » , puisque la pièce ne doit choquer ni les goûts ni les idées morales du public.
+
+Dans un deuxième temps, il convient que le sujet s'adapte au genre de la tragédie à machines. Si Ovide fait apparaître Junon au yeux de Sémélé sous l'apparence de sa nourrice Beroë, Boyer lui donne l'apparence de Mercure aux scènes 4 et 5 de l'acte III. Denis Buffequin s'en justifie dans le dessein :
+
+
+L'Autheur de la Pièce a crû que Junon se déguiseroit plus agreablement sous cette figure, que sous celle de la vieille Beroë nourrice de Semelé, & et que ce déguisement seroit plus propre à faire réüssir son artifice.
+
+C'est donc l'insertion de la machine dans la structure dramatique de la pièce qui justifie le déguisement de Junon en Mercure. De surcroît, ce déguisement permet à Junon de conserver son statut de dieu dans la mesure où elle prend l'apparence d'un autre dieu et non pas celle d'une mortelle :
+
+JUNON  
+Ouy je viens de sa part vous tirer d'une erreur,  
+Qui vous livre aux desirs d'un infame imposteur.  
+Un amant qui se cache & qui n'oze paroistre  
+Se nomme Jupiter & se vante de l'estre ;  
+L'Enfer preste à sa flâme un merveilleux pouvoir,  
+Et tout ce qu'en ces lieux ces charmes vous font voir  
+N'est qu'une illusion d'images empruntées,  
+Et le pompeux amas de beautez enchantées.  
+
+Le discours qu'elle tient alors à Sémélé n'en sera que plus crédible puisque sa parole sera celle d'un dieu en qui Sémélé a toute confiance.
+
+L'autre modification porte sur le dénouement. Chez Ovide, Sémélé meurt enflammée par la présence de Jupiter. Le *deus ex machina* propre à la tragédie à machines et tant condamné par les doctes est le ressort par lequel se résout le dénouement. Les nuages s'ouvrent dans la dernière scène de la pièce pour laisser la place à Jupiter, qui fait apparaître Sémélé dans le ciel, devenue immortelle :
+
+Voy quel est le beau coup qui l'arrache aux mortels  
+Pour le pris d'un trespas que j'ay causé moy-mesme,  
+Je la rends immortelle & digne des autels ;  
+C'est comme Jupiter fait perir ce qu'il aime.  
+
+Le dénouement est donc en deux temps : dans un premier temps, il est conforme à la fable telle qu'elle est relatée dans les *Métamorphoses* puisque le roi, la reine et Alcméon croient que la princesse a péri dans l'incendie du palais provoqué par la venue de Jupiter avec toute sa pompe :
+
+La honte de mon sang, tout mon espoir perdu,  
+Mon throsne & mon palais embrazez par la foudre,  
+Ma fille aneantie, & son corps mis en poudre,  
+Et les justes horreurs qu'attireront sur nous  
+Ces effets esclattans du celeste courroux.  
+
+Cependant, l'intervention du maître des dieux dénoue l'intrigue et modifie la résolution de l'action dramatique. Notons également que Boyer ne retient pas de la fable le fait que Jupiter sauve Bacchus de la mort en le cousant dans sa cuisse. Ainsi, notre auteur fonde l'intrigue sur les rapports de dépendance entre la passion et l'entreprise d'éclaircissement de l'identité du berger. L'amour qu'elle porte à Jupiter n'est honorable et reconnu que s'il s'agit du vrai Jupiter et non pas d'un usurpateur.
+
+
+Je souhaite, dit Junon, que ce soit bien Jupiter ; mais je crains tout : combien de mortels ont sous le nom des dieux pénétré dans de chastes couches ! Au reste, il ne suffit pas qu'il soit Jupiter ; si c'est véritablement lui, exige que la grandeur et la gloire dont il est environné quand la hautaine Junon le reçoit sur son sein, se manifestent aussi quand il te presse dans ses bras ; qu'il commence par revêtir l'appareil de sa puissance [46].
+
+Cette dépendance était déjà présente chez Ovide et Boyer a choisi de mettre en valeur cet aspect de la fable. La réalisation du vœu de la princesse est soumise à la révélation de l'identité de son amant.
+
+
+#### La *Bibliothèque* d'Apollodore
+
+Dans sa *Bibliotheque* [47], Apollodore relate la naissance miraculeuse de Bacchus. Dès le début du récit, on sait que Sémélé est enceinte de Bacchus. Trompée par Junon, elle demande à Jupiter, lié par sa promesse, de satisfaire le moindre de ses vœux, « de venir la trouver dans l'équipage dans lequel il était allé épouser Héra » . Jupiter s'exécute, « Sémélé expira et Zeus, dérobant aux flammes le bébé de six mois dont elle venait d'avorter, le cousit dans sa cuisse » .
+
+Les données de départ sont donc les mêmes que chez Ovide. De ce fait, la vengeance de Junon naît également de la haine qu'elle porte au futur enfant de Sémélé. Le récit s'articule donc autour du dessein malveillant de la déesse. Il ajoute à la fin du récit qu'
+
+
+à la mort de Sémélé les autres filles de Cadmus répandirent le bruit que Sémélé avait couché avec un mortel et avait faussement mis en cause Zeus, et qu'elle avait été pour cette raison foudroyée par le tonnerre.
+
+Nous remarquons que contrairement à Apollodore qui met l'accent sur le fait que ce sont ses proches qui doute de la véracité de la parole de la princesse, Boyer fait reposer le nœud de l'intrigue sur le doute que nourrit Sémélé à l'égard de Jupiter et le dénouement de l'intrigue porte sur l'éclaircissement de cette identité. Le *deus ex machina* modifie donc le mythe tel qu'il est raconté dans les sources antiques précédemment étudiées. Reste la question de la vraisemblance dans la représentation d'un mythe aux yeux du public ; en quoi la fable est-elle crédible à ses yeux ?
+
+
+Tout ce que la fable nous dit de ses dieux, et de ses métamorphoses, est encore impossible, et ne laisse pas d'être croyable par l'opinion commune, et par cette vieille traditive qui nous a accoutumé à en ouïr parler.… L'auditeur n'est point trompé de son attente, quand le titre du poème le prépare à n'y voir rien que d'impossible en effet ; il y trouve tout croyable, et cette première supposition faite qu'il est des dieux, et qu'ils prennent interet et font commerce avec les hommes, à quoi il vient tout résolu, il n'a aucune difficulté à se persuader du reste [48].
+
+Corneille parle de « vraisemblance extraordinaire » pour qualifier un sujet fabuleux qui par la seule connaissance que le public en a, trouve sa légitimité. S'inscrivant dans une tradition mythologique, la pièce reçoit alors l'assentiment du public. Néanmoins, il faut que la fable, à travers les modifications apportées soit reconnaissable aux yeux du public pour être légitimée et acceptée.
+
+
+### Une analogie de structure avec une autre tragédie de Boyer, *Oropaste ou le Faux Tonaxare*
+
+Représentée pour la première fois sur le théâtre du Palais-Royal en novembre 1662, *Oropaste ou le Faux Tonaxare* retrace l'histoire d'une imposture royale à l'époque de la Perse antique entre la fin du règne de Cambyse, fils de Cyrus, et l'avènement de la nouvelle dynastie fondée par Darius. Alors que la conquête en Egypte retient Cambyse loin du palais de Suse, un imposteur dénommé Oropaste usurpe la couronne en se faisant passer pour Tonaxare, le frère défunt de Cambyse. Malgré sa ressemblance avec le roi, Hésione, sœur du vrai Tonaxare ainsi que Darie et Zopire, princes de Perse, doutent de la légitimité du nouveau roi d'autant plus qu'Oropaste est amoureux d'Hésione. Ils entreprennent alors de découvrir la vérité : s'agit-il du vrai Tonaxare ou d'un imposteur ?
+
+Que ce soit dans *Oropaste ou le Faux Tonaxare* ou dans *Les Amours de Jupiter et de Sémélé*, le doute porte sur l'identité du héros et la résolution de l'intrigue amoureuse est soumise au dévoilement de l'identité du faux Tonaxare et de Jupiter. Cependant, le déguisement de Jupiter n'est qu'un moyen utilisé pour approcher Sémélé et cacher son identité alors que pour Oropaste le déguisement constitue le but du pouvoir. Dans *Les Amours de Jupiter et de Sémélé*, la question de l'Etat reste secondaire. Boyer met d'avantage l'accent sur les amours de Sémélé que sur la portée politique de son mariage avec le prince Alcméon. De surcroît, si les soupçons de Darie et de Zopire à l'égard de l'identité du nouveau roi sont légitimes et vrais, ceux qui remettent en question la nature divine de Jupiter sont provoqués par des éléments extérieurs telles que des manifestations divines. Transposant la question du mystère de l'identité dans un sujet mythologique, Claude Boyer fait porter le doute sur la nature des pouvoirs de Jupiter.
+
+Tous ces changements trouvent ainsi une justification dans le fait que le sujet mythologique doit s'adapter au genre de la tragédie à machines dans le respect des goûts du public de l'époque.
+
+
+# Structure de l'action dramatique
+
+
+## Caractéristiques générales
+
+Il s'agit ici d'appréhender la construction globale des *Amours de Jupiter et de Sémélé*, dans la répartition de ses vers, ses actes, ses scènes et d'envisager une étude spatio-temporelle de la pièce avant d'aborder dans les détails la construction interne de son action.
+
+Tout d'abord, notre pièce contient 2043 vers dont 316 vers réservés au prologue. Les pièces à machines étaient un peu plus longues qu'une pièce dite « régulière » du fait de la présence des passages chantés et du prologue. Par ailleurs, les cinq actes sont équilibrés en ce qui concerne le nombre de vers : entre 343 et 371 vers. Toutefois, la répartition du nombre de scènes par actes n'est pas homogène. Participant à la croissance de la tension dramatique, le nombre de scènes augmente au fur et à mesure que nous progressons dans l'intrigue : soit 5 et 4 scènes pour les actes I et II puis 7 scènes pour l'acte III et enfin 10 scènes pour les actes IV et V. De cette première approche, il ressort que l'organisation de la pièce met particulièrement en valeur les deux derniers actes où se multiplient les apparitions des personnages et où la rapidité de l'action rend compte de l'urgence de la résolution de la situation.
+
+Intéressons-nous maintenant aux conditions d'exercice de la parole déterminantes dans le cours de l'action dramatique. Il existe des règles spécifiques au théâtre à machines qui ne correspondent pas tout à fait aux règles des trois unités imposées par les doctes.
+
+
+### L'unité de lieu
+
+Circonscrivant le cadre où se déploie l'action, l'unité de lieu dans la tragédie à machines est définie de la manière suivante par d'Aubignac :
+
+
+ce qui ne doit point changer, c'est le sol de la scène ; mais le fond et les cotés de la scène, c'est-à-dire les décors, qui « ne figurent que les choses qui environnaient dans la vérité les personnages agissants, et qui pouvaient recevoir quelque changement, … peuvent aussi changer en la représentation [49].
+
+Mais ce précepte n'est pas respecté la plupart du temps. Dans notre pièce, le palais royal de la ville de Thèbes constitue le lieu général mais l'on s'aperçoit qu'à chaque changement d'acte correspond un changement de lieu. L'action a tout d'abord pour cadre la chambre de Sémélé (acte I) puis le parc du palais où Sémélé rejoint Jupiter déguisé en berger (acte II) . Ce dernier transforme le parc en un jardin enchanté (acte III) que Junon, au cours du même acte, métamorphose en un parc. Le roi voulant précipiter le mariage de sa fille, l'acte IV se situe devant le temple d'Hyménée qui se transforme en antre lors de l'arrivée de la Jalousie. À l'acte V, on voit successivement le palais royal enflammé puis brûlé. Cette énumération des différents lieux permet de constater que ceux-ci sont plus ou moins contigus et de ce fait, restent vraisemblables. Corneille, dans son *Examen d'Andromède* justifie l'extension du lieu unique par le genre de la pièce :
+
+
+Les diverses décorations dont les pièces de cette nature ont besoin, nous obligeant à placer les parties de l'action en divers lieux particuliers, nous forcent de pousser un peu au-delà de l'ordinaire l'étendue du lieu général qui les renferme ensemble, et en constituent l'unité [50].
+
+Tout se passe comme si les mouvements et les actes personnages assuraient le lien entre les différents lieux. En effet, nous avons vu qu'à plusieurs reprises des changements de lieux intervenaient en cours d'acte. Ils résultent de l'intervention des dieux dans le cours de la vie des mortels et sont constitutifs des différentes étapes de l'action. La transformation du jardin enchanté en parc par Junon à l'acte III se trouve justifiée dans le dessein. Comment Junon peut-elle vraisemblablement avoir un pouvoir supérieur à celui du maître des dieux et ainsi annuler les effets de sa puissance ?
+
+
+Parce que quelqu'un pourrait trouver étrange qu'on donne à Junon de détruire les ouvrages de Jupiter, on peut respondre que Junon ne fait pas disparaître le jardin en le détruisant, mais en supposant le parc à sa place, par une fausse image, dont elle fascine les yeux de sa rivale [51].
+
+Il s'agirait donc d'un artifice et non pas d'une métamorphose. Ainsi, la multiplicité des lieux participerait à la mise en place et à la résolution de l'intrigue.
+
+
+### L'unité de temps
+
+L'unité de temps est respectée. La pièce se déroule sur une journée entière et est ponctuée par des allusions à la durée de l'action. Au début de l'acte I, la déesse Aurore annonce visuellement le lever du jour ; puis à la scène 3 de l'acte II, Alcméon vient annoncer à Sémélé que son père désire la marier ce jour-ci :
+
+Le Roy vous veut contraindre à me donner la main,  
+Et pour ce coup fatal marque cette journée.  
+
+Les différentes mentions qui sont faites de l'unité de temps rappellent l'urgence de la situation : Junon doit réaliser son dessein de vengeance « avant la fin du jour » (v. 1008) et la princesse Sémélé attend avec impatience la venue de son amant afin de voir par elle-même s'il s'agit bien de Jupiter :
+
+Mais quoy le jour pâlit, & le Dieu que j'adore,  
+Le puissant Jupiter ne paroist point encore !  
+
+Le rappel de l'unité de temps confirme la part importante qu'elle tient dans la compréhension et la vraisemblance de la pièce du point de vue du spectateur.
+
+
+### Analyse du prologue
+
+Comme nous l'avons précédemment vu dans les différentes parties qui composent une pièce à machines, le prologue fonctionne comme une justification et une explication de la réunion de tous les arts sur le théâtre. Les Muses de la Tragédie, de la Comédie et de la Pastorale que sont respectivement Melpomène, Thalie et Euterpe se disputent la gloire du théâtre. La musique accompagne l'arrivée des Muses : trompettes et clairons résonnent pour Melpomène, Thalie arrive en « joüant d'un Tambour de basque, auquel se mesle un Concert de Violons », et lorsqu'Euterpé descend du Parnasse, « les Musettes & Hautbois joüent un air fait exprès pour la pastoralle. » . L'originalité de l'œuvre de Boyer est de remettre en cause dès le début du prologue la primauté de Melpomène sur le théâtre. Sa place se trouve contestée de prime abord par la Muse de la Comédie :
+
+THALIE  
+Vostre Regne est passé, le mien vient à son tour ;  
+Vous estes du vieux temps & de la vieille Cour ;  
+
+Chacune des Muses expose les vertus de son art dans le but de définir laquelle assurera le divertissement du roi. Le fait de procéder à une définition des trois arts se trouve légitimé par le désir de plaire au roi louis XIV :
+
+MELPOMENE  
+Loüis se verra t-il, tel qu'il est aujourd'huy,  
+Dans tout ce que ma main entreprendra pour luy ?  
+
+De la même façon, Thalie lui répond que Louis l' « ayme » , qu'elle a pour « luy des appas » (v. 37) . Euterpe à la scène III fait aussi l'éloge du roi (v. 198-210) . Le prologue est ainsi le lieu d'une réflexion théorique et esthétique sur les trois arts présents sur le théâtre. Sous le discours tenu par Thalie se moquant des attributs de ses sœurs (v. 255-260) , se profile une défense de la comédie critiquée par Melpomène aux vers 87 à 89. Assimilant la comédie à la satire, il semblerait que Molière soit visé dans ces critiques :
+
+EUTERPE  
+Pour vous vous le sçavez, le siècle vous fait grace,  
+Bien souvent vostre Jeu n'est que pure grimace ;  
+Un geste ridicule, & des tons imitez.  
+
+À ces jugements, Thalie met en valeur deux des fonctions principales de la comédie : instruire (v.51-52) tout en divertissant (v.35-36) , l'esthétique comique ne se séparant pas de l'art de plaire. Dans une comparaison entre la comédie et la tragédie, Molière prend la défense de la comédie :
+
+
+ Je trouve qu'il est bien plus aisé de se guinder sur des grands sentiments…que d'entrer comme il faut dans le ridicule des hommes [52].
+
+Melpomène remet en cause la vocation morale de cette dernière. Ainsi, deux principes esthétiques s'affrontent : aux vertus de la comédie, Melpomène oppose celles de la tragédie : « joindre … l'agreable à l'utile » (v. 76) , toucher le « spectateur d'un tendre sentiment » (v. 82) et rendre ainsi « la douleur agreable » (v. 84) . L'émotion produit donc le plaisir qui est vecteur de l'instruction. La Muse de la tragédie plaide pour son art en en donnant une définition, c'est-à-dire en faisant allusion à la catharsis suscitée par la tragédie.
+
+Se rajoute à leur débat la Muse de la Pastorale mais aussi de la Musique, Euterpe. Celle-ci ne nous donne pas une définition directe de son art ; elle reprend les arguments exposés par ses sœurs en définissant son art par ce qu'il n'est pas, tout en conservant certaines caractéristiques qui lui sied également :
+
+Je n'ay point vos defaux, & j'ay tous vos appas.  
+Je chante sur un ton ny trop haut ny trop bas ;  
+J'ay de vos passions le tendre & l'agreable ;  
+J'ay comme vous le stile ingenu, raisonnable ;  
+Dans ma façon d'agir & dans mes sentimens  
+Je n'ay ny vos chagrins, ny vos emportemens ;  
+Plus discrette que vous je plais sans médisance ;  
+Et plus douce que vous j'agis sans violence :  
+
+Cependant, le débat ne se résout que par l'intervention d'Apollon qui jugeant les trois arts égaux décide de les réunir sur le théâtre. Cette réconciliation des Muses constitue la nouveauté de la pièce de Boyer. Alors que dans le prologue de l*'Andromède* de Corneille, c'est Melpomène qui présidait elle seule à la réunion des arts, son statut n'étant pas remis en question,
+
+Arrête un peu ta course impétueuse,  
+Mon Théâtre, Soleil, mérite bien tes yeux,  
+Tu n'en vis jamais en ces lieux  
+La pompe plus majestueuse :  
+J'ai réuni, pour la faire admirer,  
+Tout ce qu'ont de plus beau la France et l'Italie,  
+De tous leurs Arts mes sœurs l'ont embellie.  
+
+Les Muses se trouvent toutes convoquées chez Boyer et mises en scène : tragédie, spectacle, musique et danse se trouvent réunis au sein d'un seul et même ouvrage.
+
+Mais malgré cette synthèse des arts, c'est Melpomène qui ouvre et qui ferme le prologue. Trouvant sa présence nécessaire, elle revendique la suprématie de la tragédie en soumettant les autres arts à sa volonté :
+
+Vous spectacles pompeux venez parler pour moy.  
+Venez justifier l'honneur de mon employ.  
+Venez me seconder, vous sçavantes fureurs ;  
+Vous, qui communiquez ces divines chaleurs,  
+Ces glorieux transports ; dont le pouvoir supréme,  
+Peut élever l'esprit au delà de luy-méme.  
+
+
+## Analyse des différents moments de l'action
+
+L'analyse de l'action des *Amours de Jupiter et de Sémélé* est inséparable d'une réflexion sur le mode d'insertion de la machine dans l'intrigue. Le sujet mythologique de la pièce légitime et rationalise le recours à des effets spectaculaires machinés et justifie l'intervention des dieux dans la vie des mortels. En effet, comment la machine contribue t-elle à la croissance continue de l'action dramatique ? En quoi la machine participe t-elle activement à la progression et à l'efficacité du dialogue ?
+
+D'Aubignac, dans sa *Pratique du théâtre* souligne la nécessité de l'insertion des effets machinés dans le corps de l'action :
+
+
+Surtout il faut faire en sorte, que de ces grands ornements il en résulte un effet notable et extraordinaire dans le corps de la Pièce ; c'est à dire, qu'ils doivent contribuer au Nœud des Intrigues du Théâtre, ou au Dénouement ; car s'ils ne servent que pour produire quelque événement peu considérable et qui ne soit pas de l'essence de l'Action Théâtrale, les gens d'esprits pourront estimer les Ouvriers qui les auront bien faits ; mais le Poète n'en sera pas loué [53].
+
+Selon l'expression d'Hélène Visentin, nous montrerons comment l'« action de la parole » et l' « action de la représentation » sont intrinsèquement lié dans la structure dramatique de notre pièce et de quelle manière la structure de l'action s'organise autour de l'entreprise de dévoilement et de révélation de l'identité de Jupiter incognito.
+
+
+### Étude de l'exposition
+
+L'exposition selon Bénédicte Louvat se définit ainsi :
+
+
+Premier moment de la tragédie, l'exposition, commence avec la première scène et couvre, au plus, la totalité du premier acte. Elle ne nécessite souvent qu'une à trois scènes, qui servent à présenter les personnages principaux (sans qu'ils soient nécessairement tous présents sur scène) et l'action principale autant que l'action secondaire [54].
+
+Le but de l'exposition est donc de susciter la curiosité du public mais aussi de ne pas trop surcharger la mémoire du spectateur. Elle consiste à mettre en place les éléments indispensables à la compréhension de l'intrigue. Il convient d'analyser la façon dont le dialogue informe le spectateur dans l'exposition des *Amours de Jupiter et de Sémélé* et surtout d'étudier les moyens utilisés par l'auteur pour dynamiser l'action. On peut considérer que les scènes 1 et 2 de l'acte I constituent l'exposition car elles concentrent les éléments nécessaires à la compréhension de l'action principale et en partie de l'action secondaire. La scène 1 débute comme nous l'avons vu au lever du jour dans le respect de la règle de l'unité de temps et nous fournit la majeure partie des informations : nous apprenons tout d'abord par l'intermédiaire des Heures et de l'Aurore que Jupiter est amoureux de Sémélé et qu'il l'attend dans le parc du palais déguisé en berger. Dès le début, nous savons qu'il s'agit du vrai Jupiter incognito. Son identité n'est pas remise en question mais n'est connue que de Sémélé. Cependant, ce n'est qu'à la scène 2 de l'acte II que l'on apprend la raison principale de son déguisement :
+
+Je trompe ainsi Junon & me cache à ses yeux :  
+De son jaloux esprit la triste inquietude  
+A m'épier sans cesse applique son estude ;  
+
+Cette donnée nouvelle est fondamentale pour l'intrigue principale puisque qu'elle prépare la découverte du stratagème de Jupiter et la vengeance de Junon. La scène 1 débute *in medias res* pour suggérer au spectateur qu'il prend connaissance d'une intrigue déjà mise en place. D'où la part d'artificialité dans cette première scène : le lien avec le passé est assuré par le rêve de Sémélé, dans la mesure où il rend compte d'une continuité dans les sentiments éprouvés par la jeune fille. Le discours de l'Aurore (v. 333-340) n'en est que plus vraisemblable. Cette première scène met aussi en valeur un autre élément indispensable à la structure de l'intrigue : il s'agit de la mise en relation des plans humain et divin. L'apparition de l'Aurore trouve sa justification dans la mesure où elle montre visuellement le lever du jour. L'exposition se poursuit dans la scène 2 de l'acte I. Le dialogue entre Sémélé et sa confidente Dircé permet de nouer l'intrigue en précisant les relations entre les personnages ; nous savons désormais que la princesse est promise au prince d'Argos Alcméon par son père le roi de Thèbes. L'enjeu de ce mariage prend donc une dimension politique. Le destin de Sémélé scelle aussi celui de la ville toute entière. D'autre part, le désir de révéler l'identité de son amant prépare les conséquences de l'orgueil démesuré de Sémélé. Toutefois, se pose également dans ce type de scène, comme dans la scène précédente, le problème de l'artificialité des propos échangés car, bien souvent, les personnages ne font que répéter des événements qu'ils connaissent déjà dans le seul but d'en informer le spectateur. Le phénomène se produit à la fin de la scène 2 lorsque Sémélé fait à Dircé le récit de la naissance de son amour et de la façon dont Jupiter l'a séduite. Dircé a parfaitement connaissance de ces informations bien avant le début de la pièce. Or, on note dans notre scène la volonté de rendre le dialogue le plus vraisemblable possible. En effet, cet échange d'informations est justifié par le fait que le nom de son amant devait jusqu'alors rester secret et que la révélation de son identité est l'un des faits qui noue l'intrigue :
+
+Vous m'avez confié le nom de vostre amant :  
+Contez-moy vostre amour & son commencement.  
+
+Ainsi, Dircé n'est pas sensée connaître les événements antérieurs et les sentiments de sa maîtresse.
+
+Les scènes 1 et 2 de l'acte I contiennent l'essentiel de l'exposition. Nous remarquons cependant qu'une partie des informations est disséminée jusqu'à la fin de l'acte II. En effet, la scène 1 de l'acte II met en scène pour la première fois le personnage de Momus, dieu railleur et indiscret dont Jupiter veut faire un « confident d'amour » (v. 759) . Son apparition nous livre des informations qui sont nécessaires à l'intrigue secondaire puisque, comme nous le verrons plus en détail dans l'étude du nœud et des personnages, c'est le dieu Momus qui, en dévoilant les projets Jupiter à Junon, scelle le destin de Sémélé. D'après Jacques Scherer, ces entrées amènent un « renouveau » de l'exposition ; elles apportent des données fondamentales pour l'intrigue secondaire. Ceci est également le cas à la scène 4 de l'acte II où Junon rend visite à Alcméon qui charge la déesse d'assurer sa vengeance mais aussi de faire en sorte que Sémélé lui revienne : Junon paraît pour la première fois sur la scène et c'est là qu'est formulé concrètement le projet de vengeance de la déesse :
+
+Tu seras satisfait & c'est-là mon employ.  
+Je sçay l'art de haïr sans remors & sans peine :  
+Si l'amour a ses Dieux je le suis pour la haine.  
+Pour faire agir la mienne avec plus de bon-heur,  
+Et mettre en seureté mon nom & mon honneur,  
+Sous des traits déguisez abusant ta Princesse…  
+Mais je t'en dirois trop & je crains ta foiblesse :  
+Je t'instruiray de tout avant la fin du jour.  
+Adieu je vay vanger ma gloire & ton amour.  
+
+Si l'on se réfère à Jacques Scherer, pour qui une exposition satisfaisante « doit être entière, courte, claire, intéressante et vraisemblable » , l'exposition des *Amours de Jupiter et de Sémélé* remplie en partie ces conditions. Toutes les données de l'action principale sont comprises dans les scènes 1 et 2 du premier acte. Néanmoins, nous avons vu que l'exposition présente une forme discontinue dans la mesure où certains éléments de l'intrigue principale et secondaire, peut-être dans le souci de raviver l'attention du spectateur, n'apparaissent qu'à la dernière scène de l'acte II.
+
+
+### Étude du nœud
+
+Tout l'art du théâtre classique est de nouer une intrigue, d'imbriquer de façon non arbitraire les obstacles qui s'opposent aux désirs des héros. Dans une pièce à machines, ce sont bien souvent les dieux qui font évoluer l'action, qui créent ou résolvent des obstacles. Il convient dès lors d'analyser comment progresse cette dernière, de quelle manière interviennent les obstacles au cœur des *Amours de Jupiter et de Sémélé* et en quoi la justesse de l'intervention de la machine permet de nouer et de dénouer l'intrigue. Corneille, dans l'*Examen d'Andromède* explique la fonction de la machine dans l'action :
+
+
+Les machines ne sont pas dans cette Tragédie comme des agréments détachés, elles en font en quelque sorte le nœud, et le dénouement, et y sont si nécessaires, que vous n'en sauriez retrancher aucune, que vous ne fassiez tomber tout l'édifice [55].
+
+Nous constatons que chacun des actes de notre pièce s'organise autour des entreprises successives d'élucidation de l'identité de Jupiter incognito mais aussi d'éclaircissement des mystères. Les scènes 3 à 5 de l'acte I contiennent toutes une révélation : à la scène 3, Sémélé révèle à Alcméon qu'il a un rival. De ce fait, Alcméon fait part de cette nouvelle au roi (I, 4) qui pousse la reine à interroger Dircé sur l'identité de l'amant de Sémélé (I, 5) . Durant cette fin de premier acte, le doute porte sur l'existence d'un possible amant :
+
+Prenez quelque pitié de mon inquietude ;  
+De grace apprenez moy quelle ingratte froideur  
+Change l'heureux destin de ma fidelle ardeur.  
+On vient de m'asseurer qu'on voit naistre en vostre ame  
+Le remors d'un adveu favorable à ma flâme.  
+
+puis sur ensuite sur son identité :
+
+Mais quel est cét amant dont on fait un mystere ?  
+
+Cependant l'action n'évolue qu'à partir de l'intervention du dieu Amour. La venue du dieu met un terme au questionnement auquel se livrent le roi et la reine. Mais l'intrigue se noue véritablement à la scène 3 de l'acte II lorsque les deux rivaux se trouvent face à face en présence de Sémélé. C'est encore une fois l'intervention d'un dieu qui fait évoluer les points de vue des personnages : Jupiter, par compassion envers l'amant de Sémélé qui l'a bravé, retient son coup. Cet affaiblissement de sa force fait conclure à Alcméon qu'il s'agit d'un imposteur et induit le doute de Sémélé :
+
+Sans doute qu'un faux charme abuse ma tendresse.  
+
+Le nœud est donc partiellement posé ; cette scène met en place le doute de Sémélé sur l'origine des pouvoirs surnaturels de son amant et induit la décision d'Alcméon de vouloir démasquer cet imposteur. L'action se construit selon ce que Georges Forestier appelle le « principe de l'action empêchée » [56]. En effet, le principal obstacle à l'action dramatique et à la réalisation des désirs de Sémélé est constitué par le déguisement lui-même, par le doute qu'elle nourrit à l'égard de l'identité de son divin amant. Toute prise de décision est impossible tant que Sémélé n'est pas convaincue de la nature divine de son amant. Cependant, nous constatons que l'enjeu majeur sur lequel repose la pièce, c'est-à-dire la révélation de l'identité de Jupiter incognito, est en réalité un faux obstacle. C'est sur un malentendu qu'Alcméon, le premier, doute de l'origine divine de l'amant de Sémélé. En assimilant l'affaiblissement de la force de Jupiter à un « charme trompeur » , le prince d'Argos interprète mal les actes du dieu. Sa mauvaise appréciation des intentions de Jupiter entraîne la croissance de la tension dramatique. Voulant mettre un terme à cette méprise, Jupiter multiplie alors les preuves d'amour par la création du jardin enchanté à la scène 1 de l'acte III tout en voulant justifier son identité :
+
+Hé bien ces grands essais d'amour & de puissance  
+Vous laissent-ils encor dans quelque defiance ?  
+Doutez-vous de mon nom ? ce merveilleux sejour,  
+Et ces lieux enchantez qu'a produit mon amour,  
+Sont-ils de ma grandeur un foible tesmoignage ?  
+
+Toutefois, l'intervention de Junon déguisée en Mercure (III, 4 et 5) fait de nouveau douter Sémélé. Ce fait constitue l'une des péripéties les plus importantes dans le déroulement de l'intrigue. Selon Aristote :
+
+
+La péripétie est un événement extérieur qui crée un effet de surprise et bouleverse les héros, modifiant leur situation et les amenant à prendre des décisions.
+
+Il s'agit donc d'un renversement de fortune qui se traduit par le passage du bonheur au malheur : le stratagème de Junon provoque de nouveau la remise en question de Sémélé et révèle également l'un des aspects moteurs de l'action dramatique c'est à dire l'orgueil démesuré de Sémélé. L'intervention des forces surnaturelles est à l'origine des prises de décisions des personnages. C'est la machine qui noue véritablement l'intrigue.
+
+Parallèlement à ce premier obstacle, il en existe un second : celui de la volonté d'un père. Le roi Cadmus s'oppose catégoriquement pendant tout le déroulement de l'action à ce que Sémélé épouse quelqu'un d'autre qu'Alcméon. Représentant de l'autorité et du pouvoir, le roi fait prévaloir les intérêts politiques. Ainsi, le mariage de Sémélé doit contribuer à la réunion des villes de Thèbes et d'Argos (v. 548-553) . Il s'agit d'un obstacle fondamental se cachant sous des idées ou des préceptes comme celui du mariage ou du statut de son futur époux. C'est surtout à partir de la scène 3 de l'acte IV que cet obstacle se matérialise de plus en plus. Au début de la pièce, il n'est nullement question de presser le mariage et le roi ne parle de l'infidélité de sa fille qu'en terme de supposition :
+
+Quoy vous pourriez avoir un rival dans ma Cour ?  
+
+Ou encore :
+
+Voudroit-il traverser l'hymen que je désire ?  
+
+À l'acte IV, l'urgence de la situation amène le roi à passer de la parole à l'acte :
+
+Venez, Seigneur, suivez, & vous aussi Princesse ;  
+Allons dedans ce Temple accomplir ma promesse.  
+
+Cet obstacle perdure jusqu'à la scène 8 de l'acte IV. Il faut attendre l'intervention de Jupiter déguisé en Pallas à la scène 10 pour que le roi renonce enfin à son projet. En prenant l'apparence de Minerve, le discours de Jupiter devient plus crédible aux yeux du roi. Les actions des mortels sont à chaque fois influencées par les actions des dieux.
+
+La scène 10 de l'acte IV prépare le dénouement et la résolution de l'intrigue. C'est une des scènes majeures de la pièce puisqu'elle lie à elle seule le destin de la princesse (v. 1671-1672) et c'est aussi l'une des plus longues (soit 88 vers) . Mettant à exécution les conseils de Junon,
+
+Monstrez de Jupiter des marques plus sensibles.  
+Vous devez autrement vous monstrer en ce lieu ;  
+Pour vous faire connoistre il faut paroistre en Dieu.  
+
+son passage à l'acte conditionne sa perte et est une conséquence tragique du doute qu'Alcméon nourrit à l'égard de Jupiter comme nous le verrons dans l'étude du dénouement.
+
+
+### Étude du dénouement
+
+Le dénouement marque le moment où l'on dénoue littéralement les fils de l'intrigue et doit avoir lieu au cours du dernier acte comme le rappelle Corneille dans son *Premier Discours* [57]. Le dénouement de notre pièce couvre tout l'acte V et se déroule en deux temps :
+
+Dans un premier temps s'opère le basculement de l'action et le passage du bonheur au malheur. L'arrivée de Jupiter avec tout ses appas divins dans la chambre de Sémélé (V, 3) entraîne la perte de cette dernière ; ce qui devait constituer un bonheur pour elle provoque sa mort :
+
+Monstrant ce que je suis j'expose ce que j'aime ;  
+Sa curiosité luy va couster le jour ;  
+
+Par souci de bienséance, la mort n'est pas représentée sur la scène du théâtre. Ce qui implique le recours à un artifice tel que le récit : Dimas, le confident d'Alcméon informe le spectateur de la mort de Sémélé, victime de l'embrasement :
+
+Ouy Seigneur, cet amant adorable,  
+Aux vœux de sa Princesse un peu trop favorable,  
+Est descendu du Ciel, pour s'offrir à ses yeux,  
+Tel qu'il est, quand il regne, & tonne dans les Cieux.  
+De ce Dieu tout en feu la fatale presence…  
+
+Une partie du dénouement est donc racontée, notamment avec le récit de la mort d'Alcméon par Atys, le capitaine des gardes du roi, qui joue ici le rôle de messager. Le recours à l'hypotypose fait de ce récit une description avec une alternance entre temps du passé (v.1963) et présent de narration (v.1987-1989) . Tout se passe comme si le présent de narration créait l'hypotypose en actualisant le discours d'Alcméon et en intégrant cette réalité passée à un présent qui est celui du dialogue. C'est notamment à travers des détails sensibles et forts tels que la description de sa mort (v.1970-1972) ou l'exacerbation de ses sentiments pour la princesse (v.1984-1986) , qui captent l'attention du spectateur, qu'on perçoit la scène comme si elle se produisait sous nos yeux.
+
+Le deuxième temps du dénouement est constitué par le *deus ex machina* provoquant le renversement de situation finale. Cet effet de surprise provoquée par le jeu des machineries est banni par Aristote dans sa *Poétique* car ce type de dénouement ne résulte pas entièrement et strictement de l'histoire elle-même dans la mesure où il ne s'agit pas d'un procédé de rebondissement de l'action. De la même façon, d'Aubignac marginalise le théâtre à machines ; une intervention extérieure venant perturber la progression du poème dramatique :
+
+
+L'invention était certaine, mais si l'on en admettait de telle sorte dans le poème dramatique, il ne faudrait plus se mettre en peine pour en rompre les nœuds les plus difficiles. Il est de meme de toutes ces machines qui se remuent par des ressorts du Ciel ou des Enfers ; elles sont belles en apparence mais souvent peu ingénieuses [58].
+
+La machine est donc considérée comme une solution de facilité pour le poète. Dans notre pièce, l'apparition du dieu Jupiter à la dernière scène de l'acte vient modifier les données de la première partie du dénouement :
+
+Voy quel est le beau coup qui l'arrache aux mortels  
+Pour le pris d'un trespas que j'ay causé moy-mesme,  
+Je la rends immortelle & digne des autels ;  
+C'est comme Jupiter fait perir ce qu'il aime.  
+
+La métamorphose de Sémélé en étoile, devenue ainsi immortelle s'apparente à une sorte de légitimation de son orgueil démesuré. Cependant, l'enjeu de ce renversement de fortune dépasse la simple gloire que tire Sémélé de cet événement. Il implique la renommée de la ville de Thèbes et la gloire du roi aux yeux de la postérité (v.2012-2013) . Cependant, il semblerait que l'apothéose finale consacre plus la gloire du dieu Jupiter que l'honneur qui est fait au roi Cadmus. Il s'agit pour le maître de l'Olympe de rendre public les bienfaits qu'il prodigue aux mortels :
+
+JUPITER *à la Renommée & à Mercure.*  
+Vous, allez publier ce que j'ay fait pour elle ;  
+Allez vanter par tout la gloire de son sort,  
+Mais avec tant d'éclat, que toute autre mortelle,  
+Porte envie aux honneurs d'une si belle mort.  
+
+Divulguer la gloire de Sémélé semble être pour Jupiter une sorte de moyen pour s'assurer une renommée sans égale et affirmer face aux mortels l'étendue de son pouvoir.
+
+L'étude de l'action des *Amours de Jupiter et de Sémélé* nous a donc montré combien les machines sont intrinsèquement liées à chaque étape de l'action en nouant puis en dénouant l'intrigue. Chaque moment de l'action : exposition, nœud et dénouement tentent de répondre aux goûts du public pour les effets spectaculaires. Mais les dernières scènes de chaque acte contribuent, elles aussi, à maintenir le spectateur en haleine comme nous allons le voir à présent.
+
+
+## Valeur dynamique des dernières scènes de chaque acte
+
+Si l'on se réfère à la définition de Jacques Scherer, l'acte « n'est pas une division arbitraire de la pièce », il a « son unité et son individualité », « il tend à former un ensemble organique [59] » . D'ou l'importance des dernières scènes de chaque acte qui ont pour fonction de résoudre certains aspects de l'intrigue tout en en créant de nouveaux. Chaque prise de décision engendre un nouveau conflit et éveille la curiosité du spectateur. Nous avons vu dans notre étude sur la structure dramatique de la pièce que les actes s'organisent autour des révélations et des éclaircissements des faits, des identités et des stratagèmes. Comment les dernières scènes des actes dynamisent-elles l'action ?
+
+Dès la scène 5 de l'acte I, l'accent est mis sur l'identité secrète de l'amant de Sémélé. Le retardement de la révélation permet de garder l'attention du spectateur en éveil. Dès la fin de l'acte I, c'est l'intervention d'un dieu, ici Amour, qui empêche le dévoilement du secret de Sémélé (v. 641-647) . Tout se passe comme si l'intrigue semblait résolue et que Sémélé puisse garder le silence. Cependant, l'identité restée cachée est révélée dans la scène 4 de l'acte II. La déesse Junon résout elle aussi un des obstacles en certifiant à Alcméon que l'amant de Sémélé est bien le dieu Jupiter (v. 956-957) . Cette scène de révélation, tout en donnant une réponse au questionnement d'Alcméon et en apportant au spectateur un éclairage nouveau sur les scènes précédentes, crée de nouveaux obstacles en mettant en place le dessein de vengeance de la déesse :
+
+Je t'instruiray de tout avant la fin du jour.  
+Adieu je vay vanger ma gloire & ton amour.  
+
+Il semblerait que chaque intervention machinée résolve les péripéties, mette en place les obstacles et vienne élucider les mystères précédemment cachés. En effet, les dieux sont de nouveau présents à la dernière scène de l'acte III. Le dialogue entre Junon et Momus constitue une scène d'explication selon la définition qu'en donne Jacques Scherer :
+
+
+La scène d'explication ou de commentaireporte sur des événements dont le spectateur a été témoin mais dont il n'a pas pu comprendre la véritable portée parce qu'une donnée lui manquait [60].
+
+Nous apprenons que c'est Momus qui révéla à Junon l'emplacement du jardin enchanté où Jupiter s'était réfugié avec Sémélé :
+
+JUNON.  
+Toy qui sçays les transports de cette frenesie,  
+Pourquoy m'as tu fait voir en amy peu discret,  
+(Par zele ou par chagrin) cet azile secret,  
+Que Jupiter expres a fait pour sa maistresse ?  
+
+Cette forme de fin d'acte n'est donc pas tournée uniquement sur l'avenir en annonçant le dénouement et la mort prochaine de Sémélé (v. 1294-1298), elle explique aussi le passé. Les actions passées servent aussi à Jupiter de justification de son identité aux yeux de Sémélé dans la scène 10 de l'acte IV. Cependant, le dieu étant lié par un serment , il se voit contraint de satisfaire les désirs de la princesse. Cette scène dynamise donc l'action en établissant un lien entre le passé comme nous venons de le montrer et le futur puisque c'est dans le dialogue entre Jupiter et Sémélé que se décide le destin de la princesse.
+
+On s'aperçoit donc que chaque fin d'acte est rythmée par le questionnement ou la prise de décision d'un personnage.
+
+
+# Étude des personnages
+
+Pour établir une hiérarchie des personnages, nous pouvons comparer leur importance respective en étudiant pour chacun d'entre eux à la fois leur temps de présence sur scène, leur volume de parole et leur fonction dans le déroulement de l'intrigue [61]. De cette analyse, se dégagent trois personnages principaux : Sémélé, Jupiter, Alcméon ; quatre personnages secondaires : Junon et Momus, le roi et la reine. On distingue également des personnages annexes qui n'apparaissent que très ponctuellement et parlent peu, ce sont les confidents Dimas et Dircé ainsi que le capitaine des gardes Atys.
+
+
+## Sémélé, Jupiter, Alcméon
+
+
+### Sémélé
+
+Selon d'Aubignac,
+
+
+les principaux personnages doivent paraître le plus souvent et demeurer le plus longtemps qu'il est possible sur le théâtre.
+
+La princesse est le personnage qui parle le plus : soit 450 vers ; elle est présente dans chaque acte et dans 21 scènes (sur 36) mais ne s'exprime que dans 18 scènes. Néanmoins ce n'est pas le personnage qui s'exprime le plus qui domine les rapports de force dans le cas de notre pièce. En effet, la princesse semble être à la merci de la volonté des dieux. Chacune de ses décisions est remise en cause par une intervention divine : le déchaînement des éléments et le tonnerre qu'agite Junon alors que Jupiter est près d'elle la fait douter de l'identité de son amant (II, 3) :
+
+Sans doute qu'un faux charme abuse ma tendresse.  
+
+Lorsque Junon transforme le jardin enchanté en un parc (III, 4), Sémélé se croit à nouveau victime du charme d'un imposteur. Accordant plus de crédibilité à ce qu'elle voit, les manifestations surnaturelles ébranlent ses certitudes. Profitant de l'indécision de la princesse, la déesse Junon lui conseille de demander à Jupiter de « paroistre en Dieu » . Aux yeux de la princesse, cette preuve, parce qu'elle est visuelle, a plus de valeur qu'un simple discours. Cette crédulité face au surnaturel fait donc de Sémélé un personnage essentiellement passif et lui fait remettre en cause l'identité de Jupiter incognito. Elle se trouve alors confrontée à un obstacle que Jacques Scherer qualifie « d'intérieur », le malheur de l'héroïne venant d'un sentiment, d'une passion qui est en elle. Sémélé est prise entre deux impératifs opposés et inconciliables : l'orgueil de posséder un dieu même s'il s'avère que ce soit un imposteur et le mariage avec Alcméon désiré par son père :
+
+Car enfin je veux bien t'avoüer ma foiblesse,  
+L'orgueil fait dans mon cœur autant que ma tendresse.  
+
+L'orgueil de Sémélé apparaît alors comme l'un des moteurs de l'action dramatique. Jupiter désirant cacher cet amour, Sémélé se sent humiliée par le « silence honteux » auquel il la condamne :
+
+Je veux que tout le monde apprenne ma victoire,  
+Et ne croiray jamais qu'on m'ayme tendrement,  
+Si le grand Jupiter rougit du nom d'amant :  
+Ma gloire en cet estat est tousjours imparfaite.  
+
+Son ambition pousse Jupiter à révéler son identité à Alcméon (v. 883-886) qui le prend pour un imposteur. Ceci entraîne l'incertitude de Sémélé quant à la nature divine de son amant. C'est dans la scène 1 de l'acte IV que l'on perçoit véritablement les hésitations de Sémélé. Les stances sont composées d'une suite de strophes construites sur un même modèle rythmique. Chaque strophe possède une unité de sens et se termine par une chute. D'un point de vue dramatique, elles fonctionnent comme une pause lyrique où le personnage analyse ses sentiments qui traduisent son émotion. Si l'on étudie la progression de ce type de monologue on perçoit l'évolution des sentiments de Sémélé. Dans la première strophe, son orgueil la pousse à préférer la gloire à l'amour :
+
+Quelque choix, quelque amant que mon destin m'apreste,  
+La plus precieuse conqueste,  
+L'est bien moins que l'erreur de posseder un Dieu.  
+
+Bien qu'éprouvant un reste de tendresse pour le prince Alcméon dans les deux strophes suivantes, elle en conclue que :
+
+la gloire est une maistresse,  
+Qui veut estre obeye aussi-bien que l'Amour.  
+
+Elle met ainsi sur un même pied d'égalité ses sentiments pour le prince et son ambition. Ceci est visible dans l'avant-dernière strophe. Les quatre premiers vers concerne Jupiter et les quatre derniers « parlent pour un Prince adorable » . L'indécision de Sémélé semble résolue dans la dernière strophe :
+
+Ne laisse plus parler la gloire,  
+Je l'ay presque oubliée en faveur de l'amour.  
+
+L'emploi de l'adverbe *presque* laisse supposer que sa décision n'est pas irrévocable. Les stances sont donc bien un lieu de bouleversement et de réflexion du personnage sur la situation et sur ses sentiments et n'aboutissent pas forcément à une prise de décision véritable. À la scène suivante, elle confie à Dircé son choix :
+
+Non je diray tousjours que Jupiter m'adore.  
+Je l'ay dit, je l'ay creu, je le veux croire encore.  
+
+Elle bannit donc Alcméon de son cœur quand bien même il ne s'agirait pas de Jupiter par refus de « tomber » dans « une honte extreme » . L'apothéose finale (V, 10) donne raison à la princesse et légitime son orgueil :
+
+Allez vanter par tout la gloire de son sort,  
+Mais avec tant d'éclat, que toute autre mortelle,  
+Porte envie aux honneurs d'une si belle mort.  
+
+
+### Jupiter [62]
+
+Même si Jupiter n'apparaît qu'au début de l'acte II déguisé en berger, il est au centre du dialogue dès le début de la pièce. Sémélé expose à sa confidente Dircé (I, 2) les innombrables qualités d'un « dieu qui flatte & qui caresse » et qui « fait tout pour nous plaire » . Avec 293, 5 vers, il est le personnage qui s'exprime le plus derrière Sémélé. Il n'hésite pas à se mettre lui-même en avant :
+
+Moy craindre pour ma gloire un choix si glorieux ?  
+Moy qui pour vous servir, abandonne les cieux ?  
+Moy qui bruslant pour vous d'une ardeur sans seconde  
+Neglige sans rougir la conduite du monde ?  
+Moy qui montre à vos yeux un amant si charmé,  
+Qu'il cesse d'estre Dieu pour estre plus aymé ?  
+
+La construction anaphorique « moy qui » en début de vers confirme l'importance que Jupiter accorde à ses moindres actes qui doivent être perçus comme des exploits aux yeux d'une mortelle. De la même façon, à la fin de la pièce, il commande à la Renommée et à Mercure d' « aller publier ce qu'il a fait pour elle » ; l'immortalité de Sémélé consacre donc la gloire de Jupiter. Il met en valeur chacune de ses actions, notamment la création du jardin enchanté. Véritable cadre pastoral, il est l'un de ses « grands essais d'amour et de puissance » . L'accent est également mis sur la nature du dieu : son attitude presque trop humaine remet en cause son statut divin. Par faiblesse, Jupiter satisfait le moindre désir de la princesse quitte à se compromettre :
+
+Hé bien que tout le monde aprenne ma deffaite :  
+Il faut bien satisfaire à vostre ambition ;  
+Que mon amour éclatte aussi loin que mon nom.  
+
+La faiblesse du dieu transparaît à travers son attitude vis-à-vis d'Alcméon (II, 3) . Par compassion pour l'amant de Sémélé, il ne lui montre qu'un « essay » de son pouvoir. Puis lorsque Junon s'apprête à descendre sur terre, il prend la fuite avec Sémélé. Tout se passe comme si Jupiter éprouvait des sentiments humains. De surcroît, il est plus souvent représenté sur terre en habit de berger (II, 1, 2, 3 ; IV, 10) que sur une machine (III, 1 ; IV, 9 ; V, 3) ; d'où la proximité entre les hommes et les dieux et le désir d'approcher l'amour humain :
+
+Que ne suis-je plus foible afin de mieux aymer ?  
+Ou s'il faut souhaiter une chose impossible,  
+Que ne suis-je moins Dieu pour estre plus sensible ?  
+
+À la fois mari, amant et maître de l'Olympe, seule sa fonction divine lui rappelle son statut de dieu lorsqu'il « rend (ses) soins à l'univers » ainsi que la façon dont il conçoit l'amour divin où l'on retrouve l'idée d'une constante insatisfaction (v. 719-725) . Jupiter ne recouvre complètement son aspect divin qu'à la fin de la pièce  :
+
+J'aime, mais j'aime en Dieu, sans honte & sans foiblesse,  
+La gloire fut tousjours ma premiere maistresse ;  
+Si je preste à l'amour ma gloire & mon pouvoir,  
+Je sçay sacrifier l'amour à mon devoir.  
+
+
+### Alcméon
+
+Le prince d'Argos Alcméon est l'un des seuls personnages véritablement tragiques. L'une des premières questions qui se pose après la lecture de cette tragédie est de savoir qui en est le héros. Fils de roi, amoureux trompé et jaloux (v.455-460), Alcméon possède tous les éléments principaux qui caractérisent un héros tragique. De plus, il participe à la création du nœud en faisant part au roi de ses inquiétudes (I, 4) et de l'infidélité de Sémélé. Tout comme la princesse, Alcméon a confiance en la parole des dieux : il n'hésite pas à confier à Junon le soin de venger son amour :
+
+Hé bien sauvez mon cœur de cette lâcheté :  
+Je voudrois bien haïr cette ingrate beauté ;  
+Mais puis que sur mes sens elle est trop souveraine,  
+Pour vanger mon amour, prestez-moy vostre haine ;  
+Si je ne sçay qu'aymer, hayssez-là pour moy.  
+
+Le tragique semble en effet être du coté d'Alcméon dans la mesure où son statut de mortel n'est pas comparable à celui du maître des dieux. Il lutte contre un pouvoir qui le dépasse et en a parfaitement conscience :
+
+Que suis-je, helas que suis-je aupres de Jupiter ?  
+
+Ou encore,
+
+Je me suis dis cent fois en secret, à moy-mesme,  
+Qu'il faut cesser d'aimer quand Jupiter vous aime,  
+Et que d'un foible amant le sort trop inégal,  
+Doit trembler prés d'un Dieu qui s'est fait mon rival.  
+
+Ces forces surnaturelles sont rendues visibles dans le genre de la tragédie à machines et permettent l'affrontement entre les hommes et les dieux. La scène 3 de l'acte II matérialise cette rivalité : croyant affronter un simple berger, Alcméon tente de le braver (v. 871-876) mais lorsqu'il apprend par Junon qu'il s'agit du vrai Jupiter (v. 958-961), cette concurrence se transforme en un affrontement entre amour divin et amour humain. Même si Jupiter « peut tout » car « il est Dieu », le prince « aime plus que luy » et peut offrir sa mort à la princesse. Il accorde ainsi plus de prix à l'amour d'un mortel et le met souvent en valeur :
+
+A-t'il du sang à perdre, une vie à donner ?  
+Et si vous demandez & son sang & sa vie,  
+Vostre Dieu pourroit-il contenter vostre envie ?  
+
+Cependant, face à un dieu tout puissant, son amour est voué à l'échec :
+
+Les Dieux ont secondé vostre injuste rigueur  
+Cruelle, ils devoient seuls achever mon mal-heur,  
+Et j'avois merité de perdre ce que j'aime,  
+Pour la haine des Dieux, & non pas par vous mesme.  
+
+Soumis à la volonté du dieu, la passion tragique qu'il nourrit pour Sémélé le conduit à la mort à l'annonce de l'embrasement de cette dernière. Bien que la princesse soit considérée comme l'héroïne de la pièce (elle est fille de roi, et est constamment tiraillée entre orgueil et amour), Alcméon apparaît comme le personnage le plus tragique de cette tragédie d'autant plus qu'au XVII*e* siècle, le suicide est considéré comme un acte de bravoure.
+
+
+## Junon et Momus
+
+
+### Junon
+
+La déesse Junon apparaît de prime abord comme l'un des personnages secondaires de la pièce. Elle n'est présente que dans 6 scènes ; soit 113, 5 vers. Toutefois, elle fait figure de manipulatrice et participe à la création du nœud de la pièce. Soulignons que Junon intervient à chaque fois à la fin des actes II, III et V. Ses apparitions semblent déterminer l'avenir des personnages et ont un impact sur le dénouement. Femme trompée, elle n'agit que pour se venger de sa rivale et cache sa vengeance sous celle d'Alcméon (II, 4) :
+
+Sur sa fiere beauté par de secrets moyens  
+Je m'apreste à vanger tes feux comme les miens.  
+
+Elle lui promet l'amour de la princesse en retour et non pas sa mort. Après avoir révélé les motifs de sa vengeance, la déesse a recours à « l'artifice & l'adresse » et au déguisement pour mettre à exécution ses plans. Elle rend visite à Sémélé sous l'apparence de Mercure (III, 4) afin de la persuader qu'elle est victime des charmes d'un « infame imposteur » . Pour faire réussir ses projets, elle commence par faire douter la princesse de son propre discours :
+
+Non non n'en croyez pas le fils de Jupiter,  
+De cette douce erreur vous devez vous flatter ;  
+
+puis parvient à la faire s'interroger sur la véracité des propos d'un des deux amours :
+
+L'en croyez-vous si-tost qu'il se vante de l'estre ?  
+Ces yeux à qui l'amour doit le nom de vainqueur  
+N'ont garde de douter d'un si charmant honneur ;  
+Vous pourriez toutesfois, sçachant ce que vous estes  
+Prendre d'autres garands pour de telles conquestes.  
+Mais n'en croyez icy Mercure ny l'amour,  
+Et dans ces lieux suspects craignez quelque faux jour.  
+
+Junon prépare ainsi habilement sa vengeance en donnant plus de valeur à son ultime argument : demander à Jupiter qu'il lui « fasse un digne essay de toute sa puissance. » . La preuve concrète apparaît donc plus fiable aux yeux de la princesse que n'importe quels discours. L'épouse de Jupiter est donc constamment à l'origine des actions et des paroles de Sémélé puisque c'est sur son conseil que la princesse demande à Jupiter de se montrer à elle dans toute sa gloire (IV, 10) .
+
+
+### Momus
+
+D'après le dessein, Momus « n'est pas, comme quelques uns se l'imaginent, le bouffon des Dieux mais un railleur chagrin, et un Chagrin indiscret » . Dieu de la raillerie et des critiques malicieuses, Momus n'est présent que dans 6 scènes tout comme Junon, soit 164, 5 vers. Cependant, il joue un rôle essentiel dans les rapports de force entre les personnages. Il apparaît de prime abord comme un moralisateur critiquant la conduite de Jupiter (II, 1), lui reprochant son inconstance et le recours à de multiples déguisements (v. 666-679) . Il « blâme » également Junon (III, 7) pour sa curiosité et son excès de jalousie envers la princesse. De surcroît, il est non seulement le censeur des dieux mais aussi celui des hommes (V, 2) . Lorsque Jupiter s'apprête à rendre visite à Sémélé, Momus lui reproche d'avoir « dans la teste un orgueil dangereux » et de considérer qu' « estre aimé » n'est pas selon elle « le plus grand bien » . La constante observation des hommes par les dieux est donc assurée par Momus, véritable médiateur entre les plans humain et divin. Mais le statut de ce dieu dans notre pièce est en réalité très original puisqu'il devient le serviteur, le confident de Jupiter. Le questionnement de Momus (v. 732-746) entraîne une justification de l'attitude de Jupiter. Momus permet l'explicitation des désirs de son maître :
+
+S'il est quelque foiblesse à se laisser charmer,  
+Que ne suis-je plus foible afin de mieux aymer ?  
+Ou s'il faut souhaiter une chose impossible,  
+Que ne suis-je moins Dieu pour estre plus sensible ?  
+
+Il « tien(t) la place de Mercure » et le maître des dieux « fait d'un censeur des dieux un confident d'amour » . Dominique Quéro parle d'un « contre-emploi [63] » car le rôle qui lui est attribué ne correspond pas à celui qu'on lui confère habituellement. Son statut est en constante contradiction avec les propos qu'il tient à la scène 1 de l'acte III :
+
+MOMUS *bas en s'en allant.*  
+J'obeiray fort mal s'il faut estre discret.  
+
+Il semblerait que Momus apparaisse la plupart du temps à des moments stratégiques de l'action dramatique c'est-à-dire en début ou en fin d'acte. Son dialogue avec Junon intervient à la dernière scène de l'acte III comme pour montrer la portée de son pouvoir. C'est dans cette scène que l'on comprend quels sont les desseins de Momus :
+
+De l'employ de censeur, je ne puis me defaire :  
+Mon metier vaut celuy de Jupiter ton pere :  
+Qu'il dispose de tout, qu'il regne dans les Cieux,  
+Qu'il gouverne à son gré les hommes & les Dieux,  
+Il a droit de tout faire, & j'ay droit de tout dire ;  
+Il est armé de foudre, & moy de la satire :  
+L'empire d'un censeur va plus loin que le sien ;  
+Il épargne les Dieux, & je n'épargne rien :  
+
+Il met donc sur un même pied d'égalité le rôle de Jupiter et le sien et se définit comme un facteur de discorde. Ses rares apparitions sont donc déterminantes pour l'avenir des personnages : c'est lui qui révèle à Junon l'emplacement du jardin enchanté (v. 1285-1288) et qui, indirectement, est à l'origine des décisions de la déesse qui provoquent la mort de la princesse. Contrairement à Junon qui désire se venger de Sémélé par jalousie, Momus agit sur des motifs personnels :
+
+D'ailleurs si de ce Dieu j'évante le secret,  
+C'est un juste despit qui me rend indiscret ;  
+Quand pour servir sa flâme je m'erige en Mercure,  
+Je trahis son amour pour vanger mon injure  
+
+Il raille et badine sur son propre rôle tout en attisant la colère des dieux. À la fois confident et traître, il ambitionne même de se servir des attributs de Jupiter à son insu, pendant que celui-ci rend visite à Sémélé (V, 4) .
+
+
+## Le roi et la reine
+
+
+### Le roi
+
+Instance dirigeante représentante du pouvoir, le roi de Thèbes Cadmus rentre pour la première fois sur scène à la scène 4 de l'acte I pour ne réapparaître qu'à l'acte IV. Le prince Alcméon vient lui faire part de ses inquiétudes concernant la fidélité de Sémélé et le prévenir qu'il a « un rival dans sa Cour » . En faisant apparaître le roi dès l'acte I, cela permet de mettre en place un enjeu non négligeable pour la suite de l'intrigue : le destin de Sémélé est lié à celui de la ville de Thèbes. En effet, plus qu'une autorité paternelle, Cadmus représente l'autorité royale. Lorsqu'ils parlent de lui, les personnages font toujours référence à sa fonction en l'appelant « le roy » et non pas Cadmus. De surcroît, les décisions qu'il prend dépendent intégralement du bien-être de la ville :
+
+On sçait, pour faire à Thebes un solide repos,  
+Que voulant allier ce Trône avec Argos,  
+Il faut qu'avecque vous, par un Hymen fidelle,  
+Semelé nous assure une paix immortelle :  
+Un si grand interest ne peut estre ignoré.  
+
+La « paix immortelle » est probablement une allusion au dénouement. Cette paix sera obtenue mais pas de la façon dont le roi le prévoit. Le père choisit donc un futur époux à sa fille sans le consentement de cette dernière en fonction de sa richesse et de sa puissance. Pour des raisons diplomatiques, le mariage de Sémélé est nécessaire. Elle « doit s'expliquer ou craindre (son) pouvoir » . Le roi intervient à nouveau à l'acte IV c'est-à-dire au moment de l'accomplissement de sa parole :
+
+Je n'examine point si c'est histoire ou fable,  
+Et si son Jupiter est feint ou veritable.  
+Quoy qu'il en soit, il peut uzer de son pouvoir ;  
+Mais non pas m'empescher de faire mon devoir.  
+Venez, Seigneur, suivez, & vous aussi Princesse ;  
+Allons dedans ce Temple accomplir ma promesse.  
+
+Malgré les interventions successives de la reine (IV, 5), de l'Hyménée (IV, 6) et de la Jalousie (IV, 7), la volonté du roi reste inébranlable : « Je crains peu ces horreurs, & je suis sans foiblesse » ou encore : « Je tiendray ma parole, & j'iray jusqu'au bout » . C'est l'intervention de Jupiter déguisé en Pallas qui fait renoncer le roi ; d'où la crédibilité du déguisement en Minerve aux yeux du roi et la supériorité de l'instance divine sur la volonté humaine (v. 1598-1601) . La nouvelle de la mort de Sémélé permet la réapparition de Cadmus sur la scène ; il énumère alors les malheurs auxquels il doit faire face :
+
+La honte de mon sang, tout mon espoir perdu,  
+Mon throsne & mon palais embrazez par la foudre,  
+Ma fille aneantie, & son corps mis en poudre.  
+
+Il n'est question de la mort de Sémélé qu'après avoir fait allusion à la perte de sa renommée et à l'embrasement du palais. Il accorde ainsi plus d'importance à sa réputation et à l'avenir de Thèbes qu'à la perte de sa fille. Celle-ci était l'instrument qui permettrait la réalisation de tout ses espoirs : la gloire de Thèbes. De même, la mort tragique d'Alcméon est assimilée au « dernier coup d'un malheur sans égal » . Cependant, à travers l'immortalité de Sémélé, ce n'est pas seulement l'honneur et la gloire du roi qui sont saufs, c'est aussi ceux de Jupiter. En demandant pardon à Jupiter (v. 2022-2025), il glorifie ce dernier.
+
+Même si le roi n'apparaît pas dans toutes les scènes, sa présence est souvent sous-entendue à travers des idéaux et des valeurs tels que le mariage (v. 371-374 ; v. 851-852) . Parfois, il s'agit d'un moyen de pression pour faire changer d'avis la princesse (v. 1387, 1402) . Il met donc en valeur l'affrontement constant entre les plans divins et humains.
+
+
+### La reine
+
+Contrairement au roi, la reine Hermione, fille de Vénus et sœur d'Amour, agit en fonction de son autorité maternelle et non impériale. Sa présence sur la scène n'est pas négligeable : soit 13 scènes sur 36. C'est en elle que semble résider la cause de l'amour de Sémélé pour Jupiter :
+
+Vous fille de Venus, ne la flattez-vous pas  
+De l'espoir de gagner un Dieu par tant d'appas,  
+
+La première tirade de la reine (I, 4) porte sur l'éducation qu'elle a donné à sa fille. Elle met en valeur les bienfaits de son origine divine (585-587) . Ainsi, les raisons de sa désobéissance ne seraient pas à imputer au sang des dieux. La reine joue également le rôle de pacificatrice (601-604) et rend possible le dialogue à la scène suivante. Pressant Dircé de lui révéler l'identité de l'amant de sa fille (I, 5), elle apparaît comme une intermédiaire entre le roi et sa fille et devient un adjuvant de celle-ci après l'intervention d'Amour. La venue du dieu établit dès lors une proximité avec les dieux. Elle est la toute première à assurer le lien entre le ciel et la terre en ayant connaissance des décisions terrestre et céleste (v. 649-655) . Tout comme le roi, la reine intervient à l'acte I puis à l'acte IV et V ; agissant dans l'intérêt de Sémélé, elle oppose une défense constante au mariage de sa fille avec Alcméon dans les scènes 5, 6, 7 et 8 de l'acte IV,
+
+En vain aupres du Roy ma tendresse obstinée,  
+A tasché de combattre un hymen resolu ;  
+Il faut aller au temple, & l'ordre est absolu.  
+
+et rend ainsi légitime l'orgueil de Sémélé (v.1498-1502) en soutenant son choix :
+
+Joüis de ta fortune & soustiens dignement,  
+L'illustre choix d'un Dieu, qui s'est fait ton amant.  
+
+C'est donc la parole du dieu Amour et les promesses de gloire qui l'accompagne (v. 1527) qui justifient l'attitude de la reine. Cependant, lors de la nouvelle de la mort de Sémélé, elle se tient pour responsable de ce malheur et accuse Junon (V, 7) de « triompher de (sa) fille et de (son) désespoir »
+
+Nous retrouvons ici la même thématique que dans l'*Andromède* de Corneille où Cassiope, femme de Céphée roi d'Ethiopie, fière de la beauté de sa fille Andromède n'hésita pas à la préférer à celle des Néréides. Irritées par tant d'orgueil, elles firent sortir des flots un monstre marin. Alors qu'Andromède est désignée par l'oracle pour être la prochaine victime du monstre, sa mère se lamente et se sent responsable du destin que les dieux ont réservé à sa fille :
+
+CASSIOPE.  
+Me voici, qui seule ai fait le crime,  
+Me voici, justes Dieux, prenez votre victime,  
+S'il est quelque justice encore parmi vous,  
+C'est à moi seule, à moi qu'est dû votre courroux.  
+Punir les innocents, et laisser les coupables,  
+Inhumains, est-ce en êtren est-ce en être capables ?  
+A moi tout le supplice, à moi tout le forfait [64].  
+
+Dans notre pièce, le reine Hermione se reproche d'avoir « flatté » l'orgueil de sa fille :
+
+Mais pourquoy la punir du crime de sa mere ;  
+J'avois mis dans son cœur cet orgueil temeraire,  
+Et c'est par mes leçons qu'elle osa se flatter,  
+D'arracher à Junon le cœur de Jupiter.  
+
+Cependant, elle reste l'une des garantes sur terre de la véracité de la parole divine, elle tient une place privilégiée dans le dialogue entre les dieux et les mortels. C'est notamment la reine qui interpelle Jupiter dans la dernière scène de la pièce en lui demandant les raisons d'un tel malheur (v. 1991-1999) .
+
+
+## Dircé et Dimas
+
+Dircé, la confidente de Sémélé n'apparaît que très peu sur la scène. La plupart du temps, elle est présente dans des scènes de dialogue entre elle et sa maîtresse. Lorsque l'héroïne éprouve le besoin de s'épancher ou d'exposer son dilemme, la confidente est là pour faire l'analyse de la situation (v. 362-367) et pour lui en rappeler le danger :
+
+Mais le Roy qui du Prince estime l'alliance,  
+Et voit que vostre cœur panche à quelque inconstance,  
+Veut sans plus differer le faire vostre Espoux ;  
+Vous devez obeir ou craindre son courroux.  
+
+À la scène 2 de l'acte I, Dircé est la seule à détenir le secret de l'identité de l'amant de Sémélé. La scène entre la maîtresse et la confidente est donc un lieu privilégié pour nous faire part des informations nécessaires à la compréhension de l'action. Elle permet aussi de mettre au jour les projets de Sémélé (v. 382-386) . Le rôle de Dircé est également d'assurer le lien entre la reine et sa maîtresse (I, 5) . Elle est en effet l'unique personne qui serait susceptible de dire la vérité et de faire avancer l'action dramatique par le dévoilement du nom de l'amant de Sémélé. Cependant, l'on s'aperçoit que lors des dialogues entre la confidente et l'héroïne, c'est Sémélé qui parle le plus. Soit 30 vers contre 6 à la scène 2 de l'acte IV ou encore 18 vers contre 3 pour Dircé à la scène 1 de l'acte V. Le questionnement de Dircé permet l'explicitation des sentiments contradictoires de la princesse :
+
+DIRCE.  
+Quel est donc cét orgüeil, Madame, qu'il s'explique,  
+Luy, qui parle si fort pour un Dieu chimerique.  
+La gloire defend-elle à ce cœur abusé,  
+De preferer un Prince à ce Dieu supposé ?  
+SEMELE.  
+La gloire permet-elle à ma flame trompée,  
+Qui de l'espoir d'un Dieu s'estoit preoccupée,  
+D'accepter un mortel, & par ce changement,  
+Faire éclater ma honte & mon aveuglement ?  
+
+Ce dialogue intervient juste après les stances de Sémélé dans lesquelles transparaissent les hésitations de la princesse. La véritable prise de décision intervient lors du dialogue (v. 1388-1401) : elle « dira tousjours que Jupiter l'adore » . L'aveu des ses sentiments, ou plutôt de son orgueil est rendu possible par le questionnement de la confidente qui, lui exposant un autre point de vue et défendant le prince Alcméon, lui permet de choisir entre son amour et sa gloire. À la scène 1 de l'acte V, elle tente une nouvelle fois de la persuader de renoncer à ses projets (v. 1718-1720), mais sans succès.
+
+Quant à Dimas, le confident d'Alcméon, il n'intervient que deux fois à la scène 3 de l'acte II pour introduire le prince auprès de la princesse et à la scène 5 de l'acte V pour prévenir son maître de la mort de Sémélé. Comme nous l'avons dit, il semblerait que ce soit la déesse Junon qui se substitue à Dimas. Celui-ci n'est pas le témoin de la souffrance d'Alcméon et n'a donc pas véritablement le statut de confident.
+
+Même si le rôle du confident n'est que secondaire, il participe à la progression de l'action dramatique en transmettant des informations, en conseillant son/sa maître(sse) et en l'avertissant des conséquences et des enjeux des décisions prises.
+
+
+## Les divinités auxiliaires
+
+Dieux secondaires (l'Aurore, les Heures) ou divinités allégoriques (la Jeunesse, les Plaisirs, Les Fantômes, la Jalousie, la Renommée) sont les serviteurs des grandes puissances olympiennes. Qu'ils soient messagers des dieux ou qu'ils symbolisent un élément naturel ou un sentiment, ils n'interviennent que ponctuellement dans l'action.
+
+
+# Enjeux dramatiques principaux
+
+
+## Des dieux metteurs en scène
+
+Dans les *Amours de Jupiter et de Sémélé*, les dieux apparaissent comme des metteurs en scène qui font et défont les décors à leur guise et qui dirigent la vie des hommes en y prenant activement part.
+
+Tout d'abord, quelles sont les caractéristiques qui confèrent aux dieux un statut particulier qui les distinguent des mortels ? Chacun des dieux entre en scène sur une machine accompagné par des dieux secondaires ou par un air musical qui les différencie. Par exemple, l'Aurore pénètre dans la chambre de Sémélé « précédée par deux Heures, & l'on entend un concert de voix et d'instruments » . De la même façon, Vénus descend en terre accompagnée de deux amours et Junon au chant des chœurs des bergers. Si l'arrivée des dieux est inséparable d'un air musical, il arrive que certains dieux chantent eux-mêmes : Vénus rend visite à Sémélé dans son char et descend tout en chantant ; lorsque Jupiter s'apprête à entrer dans la chambre de Sémélé avec toute sa pompe, lui aussi entonne un air. Nous constatons donc que la musique confère aux dieux un statut à part et les fait apparaître en tant que dieux. Les composantes non verbales que sont les machines et la musique permettent de distinguer aux yeux des spectateurs les dieux des mortels. Elles fonctionnent comme des attributs des dieux. Les chœurs accompagnent la descente ou l'envol de plusieurs divinités (v. 936-941 ; v. 2006-2008) . La puissance des dieux est également mise en valeur par la façon dont ceux-ci s'expriment. Lorsqu'ils sont sur les machines, les dieux s'expriment en vers mêlés (v. 249-358 ; v. 1110-1115) . Ainsi, le chant permet de distinguer les dieux des mortels ; il s'agit d'un élément de reconnaissance. En effet, lorsque les dieux arrivent sur terre (v. 660-665 ; v. 1142-1159), faisant ainsi la jonction entre les plans humain et divin, ils s'expriment en alexandrins. Jupiter, désirant masquer son identité aux yeux de Junon, se déguise en berger et s'exprime alors comme un mortel en alexandrins pour que la confusion soit complète. Toutefois, Jupiter ne s'exprime pas en mode chanté dans notre pièce, même lorsqu'il revêt sa véritable apparence. (v. 2010-2021) .
+
+Si la machine révèle la puissance des dieux, elle rend également visible aux spectateurs leurs actions. Leur supériorité leur permet d'avoir recours à de nombreux artifices et machinations influençant le cours de l'action. Nous constatons que les interventions divines sont de deux sortes : celles où le dieu apparaît sous sa véritable apparence, rendant ainsi visible son identité aux mortels, et celles qui sont cachées, détournées où les dieux utilisent stratagèmes et déguisements pour parvenir à leurs fins. Analysons de prime abord la portée dramatique du premier type d'intervention. Ce sont la plupart du temps les dieux qui sont porteurs d'un message venant d'un dieu supérieur qui interviennent dans le fil de l'action sous leur véritable apparence : Jupiter fait prévenir Sémélé de sa présence dans le parc du palais en habit de berger par l'intermédiaire de l'Aurore. Cette délégation de la parole transparaît également à travers l'intervention du dieu Amour. La présence de l'aigle est le signe direct de l'origine du discours prononcé par Amour. Les dieux au service de Jupiter, en tant que messagers, conservent leur identité. Ainsi, le propos n'en a que plus de valeur et sa véracité n'est pas remise en cause. La seule présence divine suffit à assurer une crédibilité au discours tenu (III, 2, 3) . Cependant, les dieux, pour servir leurs intérêts ont recours à la ruse et à la tromperie. Comment les dieux prennent-ils le statut de magicien ? Nous constatons qu'ils agissent directement sur les changements de décors s'apparentant ainsi à des metteurs en scène : à la scène 1 de l'acte III, Jupiter transporte Sémélé dans un jardin enchanté. Voulant persuader la princesse que ces effets de puissance sont le fruit d'une imposture, Junon transforme le jardin enchanté de Jupiter en un parc. Ainsi, les changements de décors à vue sont vécus comme des tours de magie et tiennent une place décisive dans le déroulement dramatique. L'intervention même du dieu provoque le changement de décor. À la scène 3 de l'acte V, Jupiter rendant visite à Sémélé avec tout son apparat, change le palais en un décor de palais brûlé. Les transitions entre les différents décors sont justifiées par le rôle accordé aux dieux. Non seulement ils modifient les décors, mais ils interviennent sur les éléments : Junon excite les orages pour faire croire à Sémélé que Jupiter incognito est un imposteur et à la scène 10 de l'acte V, « le Theatre se change en un theatre de nuages » au moment où Jupiter apparaît dans son palais. Maître des éléments, les dieux affirment leur toute puissance. Soulignons que ce sont les personnages qui nous informent des résultats des changements de décors :
+
+JUPITER  
+Quel changement soudain excite la tempeste ?  
+Quand je suis sur la terre, il tonne dans les cieux.  
+
+Ou encore, lorsque le temple d'Hyménée laisse la place à l'antre de la Jalousie :
+
+LE ROY.  
+Que vois-je, justes Dieux, quel est grand courroux ?  
+Et le temple, & le Dieu, tout s'enfuit devant nous.  
+Et je vois à leur place un horrible spectacle.  
+
+Le discours des personnages est actualisé par la machine. Tout se passe comme si le texte théâtral légitimait les manifestations divines en les incluant dans le fil de l'action. En maîtrisant les éléments, ils interviennent sur le cours de la vie des hommes qu'ils régissent. Les décisions des mortels apparaissent comme des conséquences de ces machinations : si Sémélé doute de plus en plus de l'identité de son amant (v. 921), c'est bien parce que le tonnerre retentit alors que Jupiter est sur terre. Les dieux sont ceux qui informent les mortels des stratagèmes. Convainquant ainsi les mortels qu'ils détiennent la vérité, ils influencent leurs actions. C'est la déesse Junon qui vient trouver Alcméon (II, 4) en lui certifiant qu'il a bien Jupiter pour rival. Ainsi, elle modifie la perception qu'Alcméon a de la situation :
+
+Jupiter mon rival ? que dites vous Déesse ?  
+Le rival dont j'osois mépriser la foiblesse,  
+Luy qui comme un berger se montroit à mas yeux,  
+Ce rival est un Dieu le plus puissant des dieux ?  
+
+Mais pour réussir leurs desseins, non seulement les dieux transforment les décors mais ils se métamorphosent eux-mêmes : apparaissant et disparaissant, ils se cachent à leur gré. Jupiter rend visite à Sémélé incognito déguisé en berger pour échapper à la vigilance de Junon, puis voulant fuir sa colère, il disparaît à nouveau avec Sémélé dans une nue pour ne réapparaître ensuite qu'à la scène 9 de l'acte IV sous l'apparence de Minerve. Junon, elle aussi, use de cet artifice : déguisée en Mercure, elle rend visite à Sémélé (III, 4), et reprend sa véritable identité dans les scènes suivantes (III, 6, 7) . Jouant ainsi sur leur apparence pour abuser les mortels, tout se passe comme si les dieux réglaient des différents internes indépendamment des humains. Les dialogues qu'entretiennent respectivement Jupiter et Junon avec Momus en sont la preuve. Le déguisement de Jupiter en berger est un prétexte nécessaire pour mieux discourir sur l'inconstance de Jupiter. À la scène 1 de l'acte II, Momus lui reproche de « courir de belle en belle » ce qui amène Jupiter à se justifier et à argumenter sur sa conception de l'amour :
+
+Ouy mais de mon amour apprens tout le mystere.  
+Quelque glorieux chois, qu'un Dieu se puisse faire,  
+Sçache qu'il ne sçauroit remplir tous ses desirs :  
+Son cœur qui veut par tout le comble de plaisirs,  
+Repare le deffaut de ces beautez mortelles,  
+Par un enchaisnement de conquestes nouvelles.  
+
+De ce fait, on s'aperçoit que Junon veut moins se venger de Sémélé que de l'inconstance de ce « Dieu qui va tousjours de conqueste en conqueste » (II, 4) . C'est dans ce type de dialogue entre dieux qu'on perçoit les véritables desseins des personnages. Soulignons que ces dialogues sont peu nombreux. On en compte trois : la scène 1 de l'acte 2 constitue le premier dialogue entre Jupiter déguisé en berger et Momus. Nous constatons que ce sont des motivations personnelles qui font agir Jupiter : craignant la jalousie de Junon, ce dernier érige Momus en Mercure pour prévenir les soupçons de sa divine épouse et « fait d'un censeur des dieux un confident d'amour » . Véritable metteur en scène, Jupiter redéfinit le rôle de Momus. En lui conférant un nouveau statut, il participe à la progression de l'action dramatique en faisant naître chez Momus le désir de vengeance. Le second dialogue entre dieux est celui entre Junon et Momus à la scène 7 de l'acte III. C'est dans cette scène que l'on comprend le double jeu de Momus :
+
+Quand pour servir sa flâme je m'erige en Mercure,  
+Je trahis son amour pour vanger mon injure,  
+
+et que l'on perçoit l'entreprise de vengeance de Junon (v. 1321-1322) . Les dieux prennent des décisions à titre personnel qui vont influencer le cours de la vie des hommes : la trahison de Momus, qui divulgue à la déesse les projets de Jupiter, réveille la jalousie de Junon et scelle ainsi le destin de Sémélé. À la scène 3 de l'acte V, la présence de Momus permet à Jupiter de légitimer sa décision d'apparaître à Sémélé avec toute sa pompe (v. 1824-1826) et prépare le dénouement (v. 1814 à 1816) .
+
+À chaque dialogue entre dieux, on perçoit les dessous de l'intrigue et les motifs qui les font agir. Modifiant les décors et ayant prise sur les éléments, ils affirment leur supériorité et tiennent les fils des ressorts de l'action dramatique.
+
+
+## Un tragique de l'incertitude liée à l'identité
+
+Nous avons vu dans l'étude du déroulement de l'action en quoi le déguisement est lui-même un obstacle à la progression et à la résolution de l'intrigue. En effet, il conditionne les réactions des personnages ainsi que leurs prises de décisions. Mais qu'implique le déguisement de Jupiter en berger ? De quelle manière rend-t-il possible la tragédie ?
+
+Au cours de la pièce, le maître des dieux revêt plusieurs déguisements successifs. C'est-à-dire qu'il y a à la fois « addition » et « multiplication » des déguisements. Georges Forestier précise qu'il s'agit de « l'unique tragédie qui présente cette forme [65] » . Mais comment et pourquoi Jupiter se déguise-t-il ? Le maître de l'Olympe apparaît pour la première fois déguisé en berger à la scène 1 de l'acte II. Ce déguisement a plusieurs fonctions : tout d'abord, il permet à Jupiter de se cacher de Junon et d'éviter sa colère (v. 771-774), mais il est surtout nécessaire pour approcher Sémélé. Sans déguisement, Sémélé serait foudroyée par la présence de Jupiter. Il convient dès lors de se pencher sur les conséquences qu'induit ce changement d'identité. Qui dit déguisement dit changement de condition : en apparaissant en berger, Jupiter choisit un statut qui lui est inférieur. Cependant, contrairement à un déguisement classique qui implique qu'on taise son nom et qu'on adapte son discours à sa condition, on sait depuis le début de la pièce que Jupiter se cache derrière le berger. Il ne s'agit pas pour le dieu de changer d'identité mais de taire celle-ci, de la masquer aux yeux de certains personnages. Soulignons également que des personnages comme Sémélé, Dircé et Momus sont mis dans la confidence de ce changement. Ainsi l'illusion du déguisement ne doit pas faire effet sur tous. Il est utilisé par prévention. De ce fait, il reste essentiellement un moyen. Mais qu'advient-il si l'illusion ne fonctionne pas ? C'est à partir du moment où Alcméon s'aperçoit que ce n'est probablement pas un berger, que le doute s'installe et rend ainsi possible l'action tragique. Nous l'avons vu, la scène 3 de l'acte II est l'une des scènes principales participant à la création du nœud. Dans cette scène, on s'aperçoit qu'il y a une inadéquation totale entre l'apparence d'un berger et les propos tenus par celui-ci :
+
+JUPITER.  
+Ce conseil quel qu'il soit nous fera peu de mal.  
+ALCMEON.  
+Hé quoy vous me bravez ?  
+JUPITER.  
+Non j'aurois peu de gloire,  
+De braver un rival quand il pert la victoire.  
+ALCMEON.  
+C'est parler devant moy bien haut pour un berger.  
+JUPITER.  
+Des bergers comme moy le peuvent sans danger.  
+ALCMEON.  
+Cette fierté m'étonne & je ne puis comprendre…  
+
+C'est le mode d'expression qui est à l'origine du doute du prince. Si le discours démasque en quelque sorte l'identité de Jupiter, en quoi le déguisement qu'il choisit, celui d'un humain, favorise t-il d'autant plus le doute ?
+
+Tout se passe comme si le personnage de Jupiter se trouvait humanisé. Dans un premier temps, c'est le dieu lui-même qui en vient à regretter sa condition d'immortel :
+
+S'il est quelque foiblesse à se laisser charmer,  
+Que ne suis-je plus foible afin de mieux aymer ?  
+Ou s'il faut souhaiter une chose impossible,  
+Que ne suis-je moins Dieu pour estre plus sensible ?  
+
+Il n'y a donc pas de coïncidence entre son attitude et celle que Momus s'attend à voir transparaître chez Jupiter :
+
+MOMUS.  
+Est-il d'autres plaisirs pour le Dieu du tonnerre  
+Que celuy quand il veut de foudroyer la terre ?  
+
+En regrettant sa nature divine, il fait preuve de sentiments humains, et se montre comme un dieu sensible et doué d'émotion (v. 1105-1107) . On s'aperçoit donc que le déguisement en berger permet au maître de l'Olympe de se rapprocher de l'amour humain. Il l'humanise et le fait passer pour un être vulnérable aux yeux de Sémélé et d'Alcméon (v. 879) .
+
+Outre l'apparence, le dieu Jupiter est humanisé par sa proximité avec les mortels et par le doute qui plane autour de son pouvoir. Sémélé semble oublier qu'elle a en face d'elle le dieu Jupiter. De surcroît, elle met sur un même plan l'amour des dieux et celui des hommes (v. 440) . C'est donc le coté trop humain de Jupiter qui nourrit le doute de Sémélé sur l'identité de son amant.
+
+D'après Christian Delmas, « c'est cette humanisation qui permet la tragédie [66] » . Le doute induit une quête, une recherche de la véritable identité de celui qu'on soupçonne d'être un imposteur. Cette entreprise d'élucidation pose la question de la légitimité et de l'imposture du pouvoir. Quels sont donc les effets du déguisement une fois celui-ci démasqué ? À partir du moment où les personnages se rendent compte qu'il s'agit d'un déguisement (II, 3), le doute sur l'identité du berger devient possible. Il semblerait que la nouveauté de l'œuvre de Claude Boyer soit de mettre l'accent sur la question de la nature du pouvoir du dieu Jupiter. À chaque action entreprise par le dieu, son origine est remise en cause. Alcméon parle d'« un prompt enchantement » ou d'« un charme invisible » qui pour lui est le fruit d'une imposture. En voulant affaiblir sa force par compassion envers l'amant de Sémélé, il fait douter le prince de son identité :
+
+ALCMEON.  
+Princesse ouvrez les yeux & voyez l'imposture  
+D'un art affreux & noir, qui force la nature.  
+Vous laissez vous surprendre aux charmes d'un trompeur ?  
+
+La pitié de Jupiter remet en question son statut divin : est-ce un homme, un dieu ou un traître ? Christian Delmas montre que c'est « l'association entre imposture et surnaturel [67] » qui est à l'origine du tragique de l'identité. En affaiblissant sa force, Jupiter se voit assimilé à un « divin enchanteur » et son pouvoir n'est en fait qu'un « charme trompeur » . (En cela, la tragédie à machines hérite de la tragi-comédie et de la pastorale par la présence de magiciens.) C'est parce qu'Alcméon et Sémélé sont persuadés qu'il s'agit de pouvoirs surnaturels, de tours de magie qu'on le soupçonne d'imposture. Jupiter, en voulant donner la preuve de son pouvoir, est la cause de la remise en question de sa nature divine :
+
+L'Enfer preste à sa flâme un merveilleux pouvoir,  
+Et tout ce qu'en ces lieux ces charmes vous font voir  
+N'est qu'une illusion d'images empruntées,  
+Et le pompeux amas de beautez enchantées.  
+
+Le maître des dieux est donc réduit au statut de magicien et sa nature divine est compromise. Soupçonner Jupiter d'imposture permet à Boyer de trouver les ressorts nécessaires à la progression de l'action dramatique dans la mesure où Jupiter désire constamment prouver dans la suite de la pièce quelle est sa véritable identité. Le maître de l'Olympe multiplie les preuves d'amour qui prouveraient à Sémélé qui il est : à la scène 1 de l'acte III, il la transporte dans un jardin enchanté et n'hésite pas à mettre en valeur sa puissance (v. 1014-1036) et sa maîtrise de la nature, des éléments comme reflet de son pouvoir. Faisant appel à d'autres divinités tels que Vénus, la Jeunesse, les Plaisirs et les Amours, il prouve ainsi à Sémélé son statut divin :
+
+SEMELE.  
+Ah ! que de ces discours la divine eloquence,  
+Du Dieu dont je doutois me fait voir la presence !  
+Vous estes Jupiter, mon doute est esclaircy,  
+Et les Dieux seulement peuvent parler ainsi.  
+
+Il met donc en œuvre des « indices de reconnaissance » qui cependant ne suffisent pas à convaincre Sémélé. Le stratagème de Junon (III, 5) consiste à faire de nouveau porter le doute sur l'origine du pouvoir et pour justifier ses paroles, elle fait disparaître le jardin enchanté. Elle prouve donc visuellement à Sémélé son erreur. L'aspect visuel, comme nous l'avons déjà dit, est très important parce qu'il conditionne la croyance de Sémélé. C'est en voyant de ses propres yeux disparaître le jardin enchanté qu'elle croit qu'il s'agit véritablement d'un imposteur. Pour remédier à ce doute, Junon lui propose d'employer le même type de preuve, c'est-à-dire visuelle, afin de découvrir l'identité de son amant. La preuve visuelle utilisée par Junon prépare ainsi le dénouement. Ce dernier est l'aboutissement de la quête d'identité. Non seulement la personne du dieu Jupiter crée le tragique en étant moteur de l'action dramatique mais il le résout également par le *deus ex machina*. Si l'on se réfère au dessein de la pièce, on s'aperçoit qu'il annonçait des merveilles :
+
+
+LE THEATRE FRANCOIS a fait voir des Spectacles si Magnifiques, qu'on avoit sujet de croire que toute l'invention des Poétes & des Machinistes estoit épuisée ; cependant on pretend faire connêtre dans la Representation des Amours de JUPITER & de SEMELE qu'on a découvert de nouvelles sources du Beau & du Merveilleux.
+
+Ces « nouvelles sources du Beau & du Merveilleux » sont probablement une allusion aux aspects novateurs des *Amours de Jupiter et de Sémélé*. Elle est la première pièce qui réussit à faire porter le doute sur l'origine du pouvoir et sur la nature de celui qui le possède.
+
+
+## Les machines, reflets des états d'âme des personnages
+
+Figure d'analogie, la métaphore rend possible l'adéquation du référé et du référent en rejoignant deux réalités distinctes. Etant normalement prise en charge par le texte seul, il semblerait que les interventions machinées modifient le statut de cette figure en en faisant une métaphore visuelle qui se poursuit tout au long de la pièce. Comment l'action se trouve t-elle retranscrite d'un point de vue symbolique et en quoi les métaphores sont-elles au service de la passion amoureuse ?
+
+Tout au long des *Amours de Jupiter et de Sémélé*, les machines traduisent les sentiments amoureux et les états d'âme des personnages et en particulier ceux de Sémélé et de son divin amant. La création du jardin enchanté est une représentation symbolique de la passion éprouvée par Jupiter. De la même façon, Vénus, la Jeunesse et les Plaisirs qui sont là pour divertir Sémélé en l'absence de Jupiter mettent en valeur ses charmes (III, 2, 3) et traduisent son désir de plaire à Jupiter. L'intervention des dieux participent à l'extériorisation des passions. Ils rendent visible aux yeux du spectateur l'intériorité du personnage. Hélène Visentin définit ainsi le recours à la machine :
+
+
+À certain moment de l'intrigue, l'énoncé du discours théâtral est non seulement performatif mais aussi démonstratif (au sens étym.) c'est-à-dire qu'il exige un redoublement de sa propre action (en parole et en acte) et renvoie à une réalité extérieure [68].
+
+Texte dramatique et représentation machinée fonctionnent ensemble : tout se passe comme si les machines intervenaient à propos afin d'illustrer un discours. Dès le début de la pièce, la princesse « brûle » d'amour pour Jupiter, ses « sens éblouis de cet amas de charme » . Le regard de Jupiter s'apparente à « un brillant amas de force & de douceur » . Mais l'amour donc elle se consume n'est peut-être que le fruit d'un « charme trompeur » .
+
+Bien qu'exprimant la passion, les machines peuvent également représenter visuellement la crainte ou la peur. L'apparition de l'antre de la Jalousie à la place du temple d'Hyménée (IV, 7) semble prévenir le roi du danger qu'il court s'il ne renonce pas au mariage de sa fille et tente de le dissuader de son projet. Quant à la visite des Fantômes à Sémélé après que celle-ci fit promettre à Jupiter de lui rendre visite dans toute sa gloire, elle symbolise sa crainte et le risque auquel la princesse s'expose.
+
+Il convient dès lors de s'interroger sur le mode d'insertion de la machine dans l'action : rendant visible ce que le texte dramatique assure normalement à lui seul, la machine montre les effets des différentes péripéties sur les personnages. Selon Michel de Pure [69],
+
+
+ces agreables & spirituelles inventions, & cette surprenante variété d'effets, semblent ne dépendre que d'un beau feu, d'une subtile et vive imagination. Il n'y aucune règle, ni aucuns préceptes pour de tels ouvrages, si ce n'est la justesse de l'invention, avec l'idée de la Feste, ou du sujet de la Feste.
+
+En intervenant de façon propice, les machines s'insèrent dans l'action et en deviennent constitutives. Elles rendent compte sur un plan abstrait et métaphorique de l'amour dont « brule » Sémélé et préparent le dénouement. L'embrasement du temple d'Hyménée n'est qu'une annonce de l'embrasement final du palais royal (v. 1846-1848) . De ce fait le recours à la machine permet et légitime le passage du plan symbolique au plan réel. Celui-ci s'opère véritablement à partir de la scène 5 de l'acte V :
+
+Quoy celle qui portoit sa flamme jusqu'aux Dieux,  
+Perit donc par la flamme, & perit à leur yeux !  
+
+Il s'établit une sorte de lien entre la flamme amoureuse et la flamme embrasant le palais et la princesse :
+
+Cendres, où j'allumeray mes flammes amoureuses ?  
+
+Plus qu'un lien, il s'agit d'un rapport de cause à conséquence : la « flamme » qui animait le princesse est la cause de la venue de Jupiter et de sa mort. Il y donc une correspondance entre les sentiments de Sémélé et les éléments naturels. D'après Christian Delmas, l'individu est comme pris dans un tout qui le dépasse :
+
+
+Par l'adéquation du référé et du référent, la métaphore permet d'établir une équivalence entre le monde intérieur et les éléments, réintégrant de la sorte l'individu au cosmos dans lequel il s'inscrit [70].
+
+En étant métamorphosée par Jupiter en étoile, Sémélé devient encore « plus brillante » en s'associant au cosmos et réalise véritablement le passage de la réalité des sentiments à celle du « *monde extérieur* », de l'univers.
+
+
+# Conclusion
+
+Pour conclure, on peut se demander qu'est-ce qui fit le succès incontestable des *Amours de Jupiter et de Sémélé*, alors que d'autres œuvres de Boyer ne connurent pas un succès aussi retentissant.
+
+Notre auteur bénéficia tout d'abord de l'engouement du public pour la tragédie à machines. Il s'agit en effet d'un genre à part entière qui n'est pas à sous-estimer. Lancaster reconnaît la place accordée à la tragédie à machines dans la période classique :
+
+
+L'histoire des pièces à machines montre à quel point serait incomplète notre perception des goûts du XVIIe si l'on étudiait que les principales tragédies et comédies de cette période et à quel point les règles de la poétique classique pouvaient être reléguées au second plan au profit de « l'art de plaire », autrement plus important [71].
+
+Mais la nouveauté de Boyer est d'avoir réussi à impliquer de plus en plus les dieux dans les conflits humains tout en conservant leur supériorité, à la différence de Corneille qui semblait limiter leur rôle au bon ordonnancement des éléments. Il est ainsi parvenu à créer une œuvre singulière qui se démarque des pièces de ses contemporains par l'originalité du sujet mythologique et par la façon dont celui-ci est traité.
+
+
+# Notes sur la présente édition
+
+Nous connaissons trois éditions des *Amours de Jupiter et de Sémélé.* La présente fut exécutée et achevée en mars 1666, à Paris, par Guillaume de Luynes [72]. Notice n°FRBNF 31052109 . En voici la description :
+
+1vol. 6ff. non chiffrés : 1-1bl-10 - 94p ; in-12.
+
+(I) : LES AMOURS / DE / JUPITER / ET DE / SEMELE′ / TRAGEDIE. / *par Monsieur BOYER* [73]. / (vignette) / A PARIS, / chez GUILLAUME DE LUYNE, / Libraire Juré, au Palais en la Salle des / Merciers sous la montée de la / Cour des Aydes, à la Justice. / M. DC. LXVI. / *Avec Privilege du Roy.*
+
+(II) : Verso blanc.
+
+(III - VIII) : Epistre.
+
+(IX- XI) : Privilege du Roy.
+
+(XII) : Acteurs.
+
+1 à 94 : texte de la pièce.
+
+Le texte de la pièce est précédé d'un rappel de titre en haut de la première page ( en dessous d'un bandeau de bois) .
+
+Quatre autres exemplaires de cette même édition sont également disponibles. Ils sont identiques du point de vue de leur présentation, des bandeaux, lettrines, vignettes, coquilles, pagination, mots effacés et lieu d'édition. Un exemplaire à la Bibliothèque Mazarine fut exécuté à Paris en la Salle des Merciers par Thomas Jolly : 21749 F, in-12. Trois exemplaires se trouvent à la Bibliothèque de l'Arsenal :
+ * Un premier dans le fonds Belles Lettres édité par Thomas Jolly : il se trouve dans *Le Théâtre de Boyer*, soit six recueils (2 in-4°, 4 in-12), ne constituant pas une édition, et un septième volume in-8, Paris 1648 et 1713. Le sixième volume contient notre pièce. 8° B.L. 12922 6° vol. in-12 .
+ * Un second dans le fonds Douay du même éditeur. Cet exemplaire ne contient pas le Privilège du Roi d'où la modification du nombre de pages non numérotées, soit huit pages au lieu de douze. GD5200, in 12.
+ * Un troisième dans le fonds Rondel : Rf. 5640 in-12.
+
+Nous avons également trouvé deux éditions pirates à la Bibliothèque de l'Arsenal ; Soulignons que la disposition du texte, la vignette et la numérotation des pages et des cahiers diffèrent de celles de notre présente édition. Des modifications graphiques ont également été apportées.
+ * – L'une dans le fond Douay : elle fut exécutée et achevée en 1666 à Paris d'après l'imprimé original et se vend à Amsterdam ; l'éditeur n'est pas mentionné : 1vol. 3ff. non chiffrés : 1-1bl-4 - 87p ; in 18. GD1825 .
+ * – L'autre se trouve dans le fond Rondel ; elle date de 1667 et porte la mention « se vend au Palais » . Là aussi, l'éditeur n'est pas précisé : 1vol. 3ff. non chiffrés : 1-1bl-4 - 80p ; in 8°. Rf. 5641 .
+
+Nous n'avons pas trouvé d'autres exemplaires ou éditions édités chez Etienne Loyson ou Gabriel Quinet.
+
+
+## Établissement du texte
+
+Pour l'établissement du texte, nous avons suivi la leçon de la première édition. Nous avons toutefois procédé à quelques rectifications d'usage qui nous ont paru indispensables pour une parfaite compréhension du texte.
+ * – Nous avons décomposé les voyelles nasales surmontées d'un tilde, employées pour indiquer la nasalisation d'une voyelle, en voyelle + consonne (v. 169, 201, 376, 480, 666, 682, 760) .
+ * – Nous avons remplacé tous les *∫* par des *s*.
+ * – Nous avons distingué *i* et *u* voyelles de *j* et *v* consonnes.
+ * – Nous avons également rajouté l'accent diacritique de *où* relatif dans certains cas pour le distinguer de *ou* préposition.
+ * – Nous avons fait de même pour distinguer *à* préposition de *a* auxiliaire et *là* préposition de *la* article.
+ * – Nous avons remplacé certains points d'interrogation ayant le sens de points d'exclamation par ces derniers. Nous avons fait de même dans le cas contraire.
+
+Nous avons par ailleurs respecté dans la plupart des cas la ponctuation d'origine, sauf lorsqu'elle nous paraissait fautive (cf. Liste des rectifications et des coquilles) . Parfois, elle est illisible en fin de vers ; nous l'avons rétablie à l'aide des autres exemplaires. En revanche, la graphie des points de suspension n'étant pas strictement fixée, nous l'avons uniformisé à trois petits points (v. 435, 471, 478, 481, 482, 489, 529, 638, 764, 774, 842, 864, 868, 869, 873, 900, 981, 1006, 1228, 1257, 1275, 1298, 1396, 1456, 1480, 1510, 1610, 1628, 1653, 1667, 1687, 1696, 1720, 1822, 1854, 1874, 1961) .
+
+Nous avons également respecté strictement la distinction des lettres romanes et italiques.
+
+D'autre part, certains mots ou parfois quelques lettres sont effacées ; nous avons dans ce cas corrigé la faiblesse métrique des vers concernés par l'ajout d'un mot ou d'une syllabe après consultation des autres exemplaires et éditions (v. 678, 679, 703, 1048, 1080) .
+
+Notons par ailleurs que la numérotation de certaines pages est soit effacée (p. 25 et 55), soit presque illisible (p. 11, 33, 37, 51 et 89) ou présente des erreurs (la page 57 écrite 75 et la page 13 écrite 31) .
+
+Nous avons conservé :
+ * – la ligature *&*.
+ * – les diverses orthographes de mots tels que *bon-heur/bonheur, mal-heur/malheur, orgueil/orgüeil, flater/flatter, couroux/courroux*…etc.
+ * – Toutes les majuscules, y compris celles présentes au milieu d'un vers dans la mesure où elles indiquaient les mots devant être accentués lors de la déclamation.
+ * – Les lettres doubles dans certains mots comme *apperçoy, deppend, deffend*… etc.
+
+Cette tragédie à machines est écrite en alexandrins. On relève cependant la présence d'octosyllabes réservés majoritairement aux passages chantés, lors du prologue ou de l'arrivée d'une nouvelle machine sur le théâtre. Soulignons que le nombre de vers est impair ; soit 2043 vers. Ceci est dû au fait que trois vers peuvent jouer sur la même rime et ne suivent pas le système du distique (voir notes en bas de pages aux vers concernés) .
+
+Une astérisque⁎ à la fin d'un mot renvoie le lecteur au lexique situé à la fin de la présente édition pour une définition de ce mot en usage au XVII*e* siècle et les pages auxquelles nous faisons référence dans les notes en bas de pages sont celles de l'édition originale.
+
+
+## Liste des rectifications et des coquilles
+
+Voici la liste des coquilles et des erreurs que nous avons corrigé dans le texte. Nous signalons également les vers comportant des lettres effacées.
+
+
+### Privilège
+
+p.12 : *seelé.*
+
+
+### Prologue
+
+v.4 : *conteutez*
+
+v.5 : *orguëil*
+
+v.13 : *verra-il*
+
+v.15 : *fons*
+
+v.31 : *combatre*
+
+v.37 : *mayme*
+
+v.91 : *la*
+
+v.97 : *secret. pour*
+
+v.105 : *la*
+
+p. 6, didascalie : *joúent*
+
+v.129 : *la*
+
+v.131 : *à*
+
+v.132 : *deppend*
+
+v.140 : *non*
+
+v.143 : *commance*
+
+v.153 : *qu'a peine*
+
+v.153 : *pouroit*
+
+v.180 : *interrest*
+
+v.181 : *la*
+
+v.183 : *cedder*
+
+v.183 : lart
+
+v.195 : *qu'elle*
+
+v.279 : *vous* (correction manuscrite)
+
+p.14, didascalie : *dansen tune*
+
+
+### Acte I
+
+v.330 : *neluy*
+
+p.17, didascalie: *à mesme temps à mesme temps*
+
+v.388 : *defait on*
+
+v.401 : *ou*
+
+v.403 : *le*
+
+v.414 : *gaigné*
+
+v.425 : *avec avec*
+
+v.449 : *crain*
+
+v.459 : *n'aistre*
+
+v.482 : *point* !
+
+v.496 : *rival* !
+
+v.500 : *un perfide un lâche* ;
+
+v.510 : *la*
+
+v.516 : *la*
+
+v.525 : *veux.*
+
+v.531 : *ou*
+
+v.549 : *Thebe*
+
+v.560 : *ma*
+
+v.612 : *laissez-là*
+
+v.639 : *spectacle* !
+
+v.656 : *blasme*.
+
+
+### Acte II
+
+v.663 : *d'aujoúrd'huy*
+
+v.668 : *si-toist*
+
+v.669 : *bes*
+
+v.678 : *N' t-il*
+
+v.679 : *s*
+
+v.682 : *plus plus*
+
+v.693 : *d'abord, autant*
+
+v.697 : *victorieux autant*,
+
+v.703 : -*e*
+
+v.704 : *oy*
+
+v.752 : *où*
+
+v.766 : *amant* !
+
+v.792 : *ou*
+
+v.803 : *apprenuent*
+
+v.856 : *j'obeysse* !
+
+v.904 : *bontè*
+
+v.906 : *d'écouvrir*
+
+v.922 : *qu'elle*
+
+v.969 : *manque-il*
+
+v.982 : *tremble-tu*
+
+v.991 : *qu'à t-elle*
+
+v.1003 : *à*
+
+
+### Acte III
+
+v.1048 : (un blanc à la rime) .
+
+v.1049 : *ave vous*
+
+v.1069 : *toute*
+
+v.1080 : (un blanc en début de vers) .
+
+v.1104 : *Ah* ?
+
+p.49, didascalie : *VENUS dan son char.*
+
+v.1132 : *Ah* ?
+
+v.1139 : *assez d'elle*
+
+v.1168 : *veux*
+
+v.1193 : *à*
+
+v.1193 : *deub*
+
+v.1211 : *un ombre*
+
+v.1224 : *qu'elle*
+
+v.1226 : *doutez-vous* !
+
+v.1228 : *Maistre.*
+
+v.1258 : *Ah* ?
+
+v.1260 : *qu'elles*
+
+v.1278 : *Ah* ?
+
+v.1289 : *foible Deesse.*
+
+v.1321 : *à*
+
+v.1324 : *s'y*
+
+
+### Acte IV
+
+v.1380 : *defend-elle*
+
+v.1406 : *dit*
+
+v.1481 : *esponx*
+
+v.1492 : *tropour*
+
+v.1515 : *ambitiense*
+
+p.68, didascalie : *LHYMENEE*
+
+v.1544 : *dout er*
+
+v.1590 : *mécouter*
+
+v.1632 : *si vous m'aimes*
+
+v.1536 : *N'atten*
+
+v.1650 : *Ah* ?
+
+v.1665 : *refusez-pas*
+
+v.1670 : *l'avez juré Jupiter*
+
+v.1696 : *contester* ?
+
+
+### Acte V
+
+v.1722 : *Ah* ? .
+
+v.1806 : *toutrespect*
+
+v.1846 : !*Mais* (en début de vers) .
+
+v.1870 : *luy-mesme* !
+
+v.1879 : *Ah* ?
+
+v.1908 : *à*
+
+v.1953 : *prent*
+
+v.1963 : *he-bien*
+
+v.1995 : *nous.*
+
+
+## Liste des abréviations utilisées dans les notes en bas de pages et dans le lexique
+
+ACADÉMIE FRANÇAISE, *Dictionnaire*, Paris, J.-B. Coignard, 1694 (2 vol.) : **(Ac.94) .**
+
+FURETIÈRE, Antoine, *Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*, La Haye et Rotterdam, Arnout et Reiner Leers ; réed. Paris, SNL-Le Robert, 1978 (3 vol.) : **(Furet.)**
+
+RICHELET, P., *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*, Genève, J.-H. Widerhold, 1680 (2 vol.) : **(Rich.) .**
+
+CAYROU, Gaston, *Le Français classique. Lexique de la langue du XVIIe siècle*, Paris, Didier, 1923 : **(Cay.) .**
+
+HAASE, A., *Syntaxe française du XVIIe siècle*, Paris, Delagrave, 1935 : **(Ha.) .**
+
+SANCIER-CHATEAU, Anne, *Introduction à la langue française du XVIIe siècle*, Paris, Nathan, 1993, (2 vol.) : **(Sancier) .**
+
+
+# LES AMOURS DE JUPITER ET DE SEMELE. TRAGEDIE.
+
+
+## Epistre. AU ROY.
+
+SIRE,
+
+Ceux qui verront à la teste de mon Ouvrage Vostre Auguste Nom avec celuy de Jupiter, s'imagineront sans doute, que je veux m'attacher à ces belles comparaisons qu'on peut faire du plus grand des Rois avec le plus puissant des Dieux, & que cherchant la verité dans la fable j'en veux tirer un grand fonds de loüanges pour la gloire de Vostre Majesté ; mais ce n'est pas mon dessein, de m'engager dans une carriere si vaste & si difficile : une matiere si importante ne peut estre dignement expliquée qu'avec le langage des Dieux, & par les bouches immortelles de l'Histoire & de la Renommée. D'ailleurs, SIRE , & je veux bien l'advoüer à Vostre Majesté, le seul interest de mon Ouvrage m'a inspiré la hardiesse de vous le consacrer ; j'ay crû que je n'avois que ce moyen pour achever sa gloire, & pour asseurer sa reputation, & que pour faire valoir mon present, je pourrois publier⁎ hautement qu'il a eu l'honneur de plaire à Vostre Majesté ; quoy que la plus illustre Cour de l'Europe puisse rendre ce témoignage, je n'ay garde de perdre une si belle occasion d‘en parler. Puis-je laisser à la Postérité une idée plus avantageuse de la bonne fortune⁎ de ma Piece, que celle d'avoir amusé agreablement le plus grand Roy du monde [74], d'avoir suspendu trois heures de suitte ces glorieux soins & cette Royale inquietude qu'il donne à la conduite de la premiere Monarchie de la terre, & d'avoir enfin occupé l'attention d'un esprit, dont les vastes pensées embrassent toutes les parties de l'Europe, & s'estendent jusques aux deux bouts de l'Univers ? Mais, SIRE, l'oseray-je dire à Vostre Majesté ? Il n'en falloit pas moins pour une Muse aussi ambitieuse que la mienne : elle ne compte le succés de son ouvrage que du jour de vostre approbation. Je diray bien davantage, la gloire de plaire à Vostre Majesté donne une joye si precieuse & si delicate, que je sens pour elle une avidité qui n'a point de bornes ; rien ne peut arrester cette ambition déreglée, pour la satisfaire je ne voy [75]rien au dessus de mon courage & de mes forces, & j'oze esperer qu'elles pourront égaller le zele ardent & le profond respect avec lequel je suis,
+
+SIRE,
+
+De Vostre Majesté,
+
+Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
+
+
+## **ACTEURS.**
+
+
+### *Dieux.*
+ – JUPITER.
+ – JUNON.
+ – VENUS.
+ – AURORE.
+ – MOMUS.
+ – APOLLON.
+ – MELPOMENE.
+ – THALIE.
+ – EUTERPE.
+ – AMOURS.
+ – HEURES.
+ – JEUNESSE.
+ – PLAISIRS.
+ – FUREURS POETIQUES.
+ – FANTOSMES.
+ – JALOUZIE.
+ – MERCURE.
+ – RENOMMEE.
+ – 
+
+
+### Hommes.
+ – CADMUS,Roy de Thebes.
+ – HERMIONE,Reine de Thebes.
+ – SEMELE,Fille du Roy de Thebes.
+ – ALCMEON,Prince de Thebes.
+ – ATYS,Capitaine des gardes de Cadmus.
+ – DIMAS,Suivant d'Alcmeon.
+ – DIRCE,Confidente de Semelé.
+ – CHOEURS DE BERGERS.
+ – CHŒURS DE THEBAINS.
+ – SUITTE.
+
+
+# LES AMOURS DE JUPITER ET DE SEMELE, TRAGEDIE
+
+
+## PROLOGUE.
+L'Ouverture du Théatre fait voir de front le Mont-Parnasse [76] qui s'éleve du fonds du Théatre jusques aux nuës, avec des allées de Cyprez entremeslées de statuës de Roys & de Heros, & l'on entend à mesme temps [77] des Trompettes & des Clairons.
+
+
+    MELPOMENE *qui est la Déesse de la Tragedie, paroist au fonds du Théatre, & s'estant advancée, elle dit* : 
+Superbes⁎ demy-Dieux dont les noms esclatans  
+Triomphent de l'oubly, de la mort & du temps,  
+Vous que je fais revivre avecque [78] tant de gloire,  
+Heros contentez vous des honneurs de l'histoire.  
+Le siecle [79] de Loüis confond⁎ tout vostre orguëil [80],  
+Pourquoy vous retirer des ombres du cercuëil,  
+Pour faire à ce grand Roy quelque nouveau spectacle ?  
+Son Regne chaque jour nous fournit un miracle,  
+Et s'il luy faut offrir des objets⁎ glorieux,  
+Dois-je offrir d'autre objet⁎ que luy-mesme à ses yeux ?  
+Mais de ce grand dessein mon ame possedée  
+En peut elle remplir la glorieuse idée ?  
+Loüis se verra t-il [81], tel qu'il est aujourd'huy,  
+Dans tout ce que ma main entreprendra pour luy ?  
+De ce fond infiny de gloire & de merveilles…  
+Mais quel bruit importun a frappé mes oreilles.  
+Thalie qui est la Déesse de la Comedie descend du Parnasse sur une nüe en joüant d'un Tambour de Basque⁎, auquel se mesle un concert de Violons.
+
+
+    MELPOMENE *continüe.*
+C'est une de mes sœurs qui pour quelque succez  
+Dans un siecle enjoüé se flatte avec excez.  
+Elle vient m'insulter avec cét avantage.  
+
+
+## SCENE II
+THALIE, MELPOMENE.
+
+
+    THALIE.
+Hé bien tousjours ma sœur sur quelque grand ouvrage,  
+J'ai tort d'ozer ainsi troubler vostre repos :  
+Je voy bien qu'au milieu de ces fameux Heros  
+Vostre esprit se remplit de sentimens tragiques ;  
+Vous n'aimez que les vers enflez⁎ & magnifiques.  
+
+    MELPOMENE.
+La pompe vous déplaist & vous fait mal aux yeux :  
+Vous descriez par tout le langage des Dieux.  
+C'est sçavoir se connoistre, & c'est par cette adresse  
+Qu'estant foible on se fait honneur de sa foiblesse.  
+
+    THALIE.
+Selon vous tout est foible, à moins d'estre en fureur⁎.  
+Guerissez vostre esprit d'une si longue erreur :  
+Je viens vous détromper & non pas vous combattre :  
+Ne me disputez plus la gloire du Théatre ;  
+Vostre Regne est passé, le mien vient à son tour ;  
+Vous estes du vieux temps & de la vieille Cour ;  
+Tout le monde ayme à rire, & j'en scay la methode :  
+Vos tristes entretiens ne sont plus à la mode ;  
+Loüis m'ayme en un mot, j'ai pour luy des appas⁎.  
+
+    MELPOMENE.
+Il vous ayme il est vray, mais il ne me hait pas,  
+Et pour dire tout haut ce que j'en oze croire,  
+Loüis me doit aymer puisqu'il ayme la gloire.  
+Pouvez vous inspirer ces nobles mouvemens,  
+Ces belles passions, & ces grands sentimens,  
+Que je fais si souvent esclatter sur la Scene ?  
+La gloire des Heros & la vertu Romaine  
+Qui la sçait mieux que moy retirer du cercuëil ?  
+Qui la fait mieux revivre avec tout son orguëil ?  
+Pour rendre dignement presens à sa memoire  
+Ces exemples fameux de vaillance & de gloire ?  
+Avez vous comme moy d'assez nobles chaleurs ?  
+Avez vous comme moy d'assez riches couleurs ?  
+Quoy que l'ingenieuse & sçavante satyre  
+Mesle le soin de plaire à la gloire d'instruire,  
+Loüis peut-il tirer de ces enseignemens,  
+De ces foibles leçons, de ces amusemens,  
+Ces sentimens d'honneur, dont une ame enflammée  
+Souspire⁎ pour la gloire & pour la renommée ?  
+L'art de porter un Sceptre & de le maintenir ?  
+L'art de recompenser & celuy de punir ?  
+Ce que vous enseignez n'est que pour le vulgaire⁎ ;  
+Ainsi contentez vous de la gloire de plaire.  
+
+    THALIE.
+Et n'est-ce pas assez de pouvoir quelque fois  
+Divertir le plus sage & le plus grand des Roys ?  
+Aprés que tous les jours sa sagesse profonde  
+A sçeu dans son Conseil regler le sort du monde,  
+Est-ce peu que l'honneur de délasser un Roy  
+De ses soins⁎ assidus, de ce penible employ,  
+Pour le mettre en estat de reprandre avec joye  
+Cette noble fatigue où son zele l'employe ?  
+Mais c'est trop peu pour vous, vostre orguëil aujourd'huy  
+Fait de vostre Théatre une escolle pour luy ;  
+Pour luy qui pour regner n'a besoin de personne,  
+Et qui soustient luy seul le poids de sa Couronne.  
+Vantez vous de l'instruire, il en sçait plus que vous :  
+Ma gloire est de luy plaire & c'est assez pour nous.  
+
+    MELPOMENE.
+Ne puis-je pas ma sœur, ne m'est il pas facile  
+De joindre quand je veux l'agreable à l'utile ?  
+Est il rien de si beau qu'un transport⁎ glorieux  
+Que pousse avec esclat un cœur ambitieux,  
+Qu'une intrigue de Cour menée avec adresse,  
+Qu'un entretien meslé de flame⁎ & de tendresse ?  
+Quelle douceur alors qu'un malheureux amant⁎,  
+Touche le spectateur d'un tendre sentiment !  
+Lorsque je fais agir cette adresse admirable  
+Et ce bel art qui rend la douleur agreable,  
+Et qui des maux d'autruy nous faisant souspirer  
+Fait trouver si souvent de la joye à pleurer.  
+Pour vous qui vous piquez de divertir le monde  
+Donnez vous une joye & solide⁎ & profonde ?  
+Le ris, l'emportement, n'ont qu'un charme trompeur,  
+Les sensibles⁎ plaisirs sont dans le fond du cœur,      
+Et ce sont là ma sœur les plaisirs que je donne.  
+
+    THALIE.
+Vos charmes sont puissans, mais on vous abandonne,  
+On ne veut plus de vous, tout le monde est pour moy.  
+Et pour vous en parler icy de bonne foy,  
+La pompe de vos vers plaist moins que ma satyre ;  
+Apprenez que pour plaire, il faut sçavoir mesdire :  
+Voila tout le secret pour ayder mon dessein,  
+Il se glisse en naissant dans tout le genre humain  
+Un chagrin qui s'attache à la plus belle vie,  
+Une maligne humeur que l'on appelle envie.  
+Par là la médisance a des charmes pour tous ;  
+Surtout en desguisant sa malice & ses coups  
+Sous une delicate & fine raillerie.  
+Pour mordre impunément il suffit qu'on en rie.  
+
+    MELPOMENE.
+Ce sont là des secrets dont je fais peu de cas,  
+Mais au moins mesnagez cette source d'appas⁎,  
+Ce tresor de venin, ce fonds de médisance,  
+Ne le prodiguez pas avec tant de licence⁎.  
+Comme le ridicule est court & limité,  
+On craint pour vos sujets quelque sterilité.  
+
+    THALIE.
+Que vous connoissez mal le fons de ma satyre !  
+Je prens de tous costez la matiere de rire ;  
+L'univers m'en fournit de l'un à l'autre bout,  
+Mon Empire est sans borne & mon fons est par tout.  
+Ne vous flattez⁎ donc point d'une vaine esperance,  
+Et quand d'un monde entier j'obtiens la preference.  
+En voulez vous juger ? vos yeux sont ils meilleurs…  
+
+    MELPOMENE.
+Non ; mais adressons nous à celle de nos sœurs,  
+Qui connoist comme nous les graces de la scene ;  
+Qu'elle regle entre nous une palme incertaine.  
+Elle vient ; je l'entens ; ces sons melodieux  
+Font parler hautement les echos de ces lieux.  
+
+
+## SCENE III.
+Durant qu'Euterpé descend du Parnasse les Musettes⁎ & Hautbois joüent un air fait exprés pour la pastoralle.
+
+MELPOMENE, THALIE, EUTERPE.
+
+
+    MELPOMENE.
+Aprochons.  
+
+    THALIE.     [7]
+Ah ma sœur gardez de l'interrompre.  
+
+    MELPOMENE.
+Je voy que vous songez ma sœur à la corrompre.  
+Euterpé estant descendüe du Parnasse
+
+
+    THALIE LUY PARLE.
+Que vous m'avez charmée avec un air si doux !  
+Nostre grand Apollon n'en sçayt pas plus que vous.  
+
+    MELPOMENE.
+On vous flate ma sœur, mais vous estes fidelle.  
+Vous venez à propos finir nostre querelle :  
+Vous sçavez le Theatre, & c'est là vostre employ ;  
+Sa vanité pretend de [82] l'emporter sur moy,  
+Et croit que sur la scene, elle a tout l'avantage.  
+
+    EUTERPE.
+Quoy mes sœurs vostre honneur depend de mon suffrage !  
+Donc le prix n'est icy disputé qu'entre vous :  
+J'admire entre vous deux ce mouvement jaloux,      
+Qui vous fait oublier la part que j'y doy prendre,  
+Mais si vous ignorez ce que je doy pretendre,  
+Vous permettrés mes sœurs que je garde pour moy  
+Ce que vous disputez, & ce que je me doy.  
+Ce jugement sans doute estonne⁎ l'une & l'autre ;      
+Vous blasmez mon orguëil pour contenter le vostre :  
+Mais voions si j'ay tort, & si c'est un arrest  
+Dicté par la justice ou par mon interest.  
+Je commence par vous de qui l'humeur altiere  
+Pretend entre ses sœurs la preference entiere.  
+Vous vous imaginez que toutes ces horreurs,  
+Ces grands emportemens, & ces nobles fureurs⁎,  
+Dont le monde autres fois fut long temps idolatre,  
+Font encore aujourd'huy les beautés du Theatre.  
+Vos sujets quelques fois ont de tels embarras,      
+Qu'on se lasse d'oüir ce que l'on n'entend⁎ pas :      
+Par le profond secret d'un art impenetrable,  
+Vous embroüillez si fort l'intrigue de la fable,  
+Qu'à peine un Jupiter la pourroit demesler.  
+Tout ce que sur la scene on nous voit estaller,      
+N'est souvent que fumée, & qu'un esclat qui trompe,  
+N'a que de faux brillans, & qu'une vaine pompe.  
+Vous avez beau donner les plus belles couleurs,  
+Aux furieux transports⁎, aux crimes, aux douleurs,  
+Aux plaintes d'un amant⁎, au desespoir, aux larmes,  
+Ma sœur sur le theatre on cherche d'autres charmes ;  
+On y veut des objets⁎ agreables & doux,  
+Sans y mesler l'horreur, la crainte & le courroux.  
+Pour vous vous le sçavez, le siecle vous fait grace,  
+Bien souvent vostre Jeu n'est que pure grimace ;      
+Un geste ridicule, & des tons imitez,  
+Font ordinairement vos plus grandes beautez.  
+On vous voit tous les jours avec tant de licence⁎,  
+(Soit adresse ou chagrin) pousser la medisance,  
+Que les plus retenus en grondent contre vous.  
+Pour moy qui n'ay l'esprit, ny chagrin ny jaloux,      
+J'advoüeray que vos vers vous donnent de la gloire ;  
+Vous aurez vostre place au temple de memoire ;  
+On vous doit estimer [83] tout ce que vous valez,  
+Mais peut-estre un peu moins que ce que vous voulez.  
+Je ne vous diray point à sa honte & la vostre,  
+Pour ne pas tout à fait confondre⁎ l'une & l'autre,  
+Qu'on vous voit tous les jours sans front⁎ & sans pudeur  
+Briguer chez les mortels l'estime & la faveur. [84]  
+Moy-mesme j'en rougis, quand je vois des Deesses  
+Pour un foible interrest faire mille bassesses.  
+Est-ce là le moyen de meriter le prix ?  
+Mais je veux autrement convaincre vos esprits.  
+Pour vous faire ceder la gloire & l'art de plaire,  
+Voyez si comme vous je suis triste & severe.  
+Je n'ay point vos defaux, & j'ay tous vos appas⁎.  
+Je chante sur un ton ny trop haut ny trop bas ;  
+J'ay de vos passions le tendre & l'agreable ;  
+J'ay comme vous le stile ingenu, raisonnable ;  
+Dans ma façon d'agir & dans mes sentimens  
+Je n'ay ny vos chagrins, ny vos emportemens ;  
+Plus discrette que vous je plais sans médisance ;  
+Et plus douce que vous j'agis sans violence :  
+Ainsi vous voyez bien si j'ay droit d'emporter  
+Le prix qu'entre vous deux vous ozez disputer.      
+Je sçay bien toutesfois quelle est vostre esperance,  
+Pour emporter l'honneur de cette preference.  
+Comme le grand Loüis anime vostre voix,  
+Vous me croyez mal propre à chanter ses exploicts.  
+Le moyen que je puisse avec des soins rustiques  
+Celebrer dignement ses vertus heroïques,  
+Ce qu'il fait tous les jours pour l'honneur des beaux arts ;  
+Son regne plus heureux que celuy des Cesars ;  
+Le retour de la paix si long-temps exillée ;  
+L'injustice bannie & la foy rappellée ;  
+Ses amis secourus, ses ennemis deffaits ;  
+La gloire du triomphe au milieu de la paix ;  
+Le commerce estably par sa sage conduite ;  
+Des tirans de la mer la defaite ou la fuite ;  
+Et tout ce qui le rend la gloire des François,  
+La terreur de l'Europe & l'exemple des Roys.  
+Mais vous verrez un jour ce que peut ma musette⁎,  
+Nostre grand Apolon a porté la houlette⁎,  
+Et ma voix pour les Roys n'est pas à negliger,  
+Si les Dieux ont paru sous l'habit de Berger.  
+
+    MELPOMENE.
+Hé quoy ma sœur de Juge on vous voit ma partie⁎,  
+De vos pretentions j'estois mal advertie.  
+Vous disputez le prix ? vous dont la foible voix  
+Ne sçait representer que les plaisirs des bois,  
+Les amours des Bergers, & cette vie obscure  
+Qui ne sçauroit fournir une illustre avanture ?  
+Vous pretendre à mon rang avec tant de fierté ?  
+A Thalie [85].
+
+Vostre exemple ma sœur a fait [86] sa vanité,  
+Et vous voyant pretendre [87] un pareil avantage,  
+Vostre presomption vient d'enfler⁎ son courage.  
+
+    THALIE.
+En vain à mon orguëil vous imputez le sien ;  
+Vous confondez⁎ nos droits pour détruire le mien :  
+Mais pour mieux distinguer son merite & le nostre,  
+Deffions nous, ma sœur, doutons l'une de l'autre,  
+Cherchons un autre Juge, allons luy faire voir      
+Par quelque grand essay quel est nostre sçavoir :  
+Consultons Apollon, & qu'un Dieu si fidelle  
+Decide entre nous trois cette grande querelle.  
+
+    EUTERPE.
+C'est le Dieu du Theatre il peut seul nous juger.  
+
+    MELPOMENE.
+Ma gloire entre ses mains ne court pas grand danger.  
+Divin dispensateur de la plus belle gloire  
+Venez par vostre arrest asseurer ma victoire,  
+Venez donner le prix à qui l'a merité.  
+Il vient & nous fait voir toute sa majesté.  
+Durant qu'Apollon descend on entend un concert de tous les instruments des trois Deesses.
+
+
+
+## SCENE IV.
+MELPOMENE, THALIE, EUTERPE. APOLLON au milieu des airs.
+
+
+    MELPOMENE.
+Arbitre souverain des filles du Parnasse,  
+Le croirez-vous ! on veut me contester ma place :  
+Mes sœurs fieres d'avoir l'honneur d'un mesme sang,  
+Me veulent disputer celuy du premier rang,  
+Et mettant devant vous leur adresse en usage [88],  
+Par de nouveaux efforts briguer vostre suffrage.  
+
+    APOLLON.
+Je sçay de toutes trois le merite & l'employ :  
+Je suis le Dieu des vers comme de la lumiere,  
+Et puis que l'on s'adresse à moy,  
+Pour sçavoir qui des trois doit estre la premiere,  
+J'useray du pouvoir que vous m'avez donné.  
+Je ne veux écouter ny faveur ny caprice,  
+Et vous verrez par ma justice  
+Le seul merite couronné.  
+
+    THALIE.
+C'est sur ce digne espoir grand Dieu que je commence,  
+Et je prends pour ma gloire une entiere asseurance.  
+Chanson pour Thalie.
+
+Sur le lut ou sur la musette⁎,  
+Pour le sceptre ou la houlette⁎,  
+Chantez, mes sœurs, chantez de toutes les façons :  
+Pour moy je n'aime qu'à médire,  
+Et la gloire de faire rire  
+Vaut bien celle de vos chansons.  
+
+    APOLLON. 
+Melpomene, ces chants si charmans & si doux  
+Semblent à vostre sœur promettre la victoire.  
+
+    MELPOMENE.
+Non, non vous n'avez rien à craindre pour ma gloire,  
+Grand Dieu, vous estes juste & c'est assez pour nous.  
+Chanson pour Melpomene.
+
+Foibles esprits, ames vulgaires,  
+Qui des biens les plus ordinaires  
+Faites vos solides⁎ plaisirs,  
+Ce n'est pas vous que je veux croire :  
+De plus dignes objets⁎ occupent mes desirs,  
+Et si je pousse des soûpirs, [89]  
+C'est pour le throsne ou pour la gloire.  
+
+    APOLLON.
+Deesse, l'une & l'autre ont charmé mes oreilles.  
+
+    EUTERPE.
+Attendez de ma voix de plus grandes merveilles.  
+Chanson pour Euterpé.
+
+Venez pasteurs, venez, & des chants les plus beaux,  
+Des plaintes de l'Echo, du bruit de vos ruisseaux,  
+Faites un concert agreable ;  
+Faites voir à mes sœurs par des charmes si doux,  
+Que tout ce qu'elles ont d'aimable⁎,  
+Ne l'est pas tant que nous.  
+
+    THALIE.
+Prononcez vostre arrest, grand Dieu qu'attendez-vous ?  
+Est-il si mal aisé de juger entre nous ?  
+
+    MELPOMENE.
+C'est trop c'est trop languir dans cette inquietude.  
+
+    EUTERPE.
+Tirez-nous promptement de cette incertitude.  
+
+    APOLLON.
+Que puis-je prononcer, alors qu'également⁎  
+Je me trouve surpris entre [90] tant de merveilles ?  
+Le prix est incertain pour des beautez pareilles,  
+Et cette égalité suspend mon jugement.  
+Aussi ne voulant pas qu'une ait tout l'avantage,  
+Par un art qui vous mesle & ne vous détruit pas,  
+Le theatre aujourd'huy va produire un ouvrage ;  
+Qui doit unir tous vos appas⁎,  
+Et sans juger sur qui doit tomber la victoire,  
+Par un meslange heureux confonde⁎ vostre gloire.  
+Vivez sans jalousie & n'ayez d'autre soin⁎  
+Que de plaire à Loüis & d'avoir son suffrage :  
+Travaillez à l'envy⁎ pour ce grand avantage ;  
+Qu'il soit de vos travaux le juge & le témoin.  
+Sur ses soins genereux tout vostre espoir se fonde ;  
+Par luy vos differents cesseront desormais,  
+Et pour comble de ses bien-faits,  
+Son equitable arrest vous va donner la paix,  
+Qu'il a donnée à tout le monde.  
+
+    MELPOMENE.
+Tout ce qui va paroistre aux yeux de ce grand Roy,  
+Le resoudra bien-tost à prononcer [91] pour moy.  
+
+    APOLLON.
+Suspendez vostre espoir ; attendez son oracle.  
+Cependant⁎ faisons place à ce rare spectacle,  
+Venez en avec moy contempler la beauté,  
+Et prendre vostre part de cette nouveauté.  
+
+    MELPOMENE.
+Allez & flattez⁎-vous d'un bien imaginaire,  
+Ma presence en ces lieux est encore necessaire.  
+Apollon part avec rapidité vers le milieu des airs, Thalie & Euterpé partent à mesme temps emportées par des nües & par un vol croisé.
+
+
+    MELPOMENE CONTINÜE.
+Vous spectacles pompeux venez parler pour moy.  
+Venez justifier l'honneur de mon employ.  
+Venez me seconder, vous sçavantes fureurs ;  
+Vous, qui communiquez ces divines chaleurs,      
+Ces glorieux transports⁎ ; dont le pouvoir supréme,  
+Peut élever l'esprit au delà de luy-méme.  
+Les Fureurs Poëtiques paraissent & dansent une entrée de Balet, qui fait la fin du Prologue.
+
+
+
+# ACTE I
+
+
+## SCENE I.
+La Scene est dans une chambre magnifique avec une alcove cachée par des rideaux ; aussi-tost que cette decoration a succedé à celle du Prologue, on voit descendre l'Aurore precedée par deux heures, & l'on entend un concert de voix & d'instruments.
+
+
+    LES HEURES *CHANTENT.*
+Voicy la brillante Deesse,  
+Qui vient nous annoncer la naissance du jour.  
+Princesse un jeune cœur tout enflammé d'amour,  
+Peut-il avoir tant de paresse ?  
+Le grand maistre des Dieux presse vostre réveil ;  
+Il languit en secret d'un amoureux martyre⁎ :  
+Le repos vous sied mal quand Jupiter soûpire⁎,  
+Et l'amour est un Dieu plus doux que le sommeil.  
+
+    L’AURORE.
+Belles Heures allez éveiller la Princesse ;  
+La douceur de vos chants peut moins que sa paresse. [92]  
+Monstrez-luy promptement ce spectacle nouveau.      
+Allez sans tarder davantage,  
+Et que l'ombre de ce rideau  
+Ne luy dérobe plus ma voix & mon visage.  
+Les Heures descendent & tirent le rideau de l'alcove.
+
+
+    SEMELE *se levant de dessus son lit.*
+Quel éclat, quelle voix force agreablement  
+Un repos si profond, un sommeil si charmant ?  
+
+    L’AURORE.
+Princesse nous entrons avec cette licence⁎  
+Que nous donne aujourd'huy le souverain des Dieux.       
+Par son divin pouvoir nous penetrons ces lieux [93],  
+Où sa discretion desrobe sa presence.  
+Jupiter sans vous voir, ne peut estre content :  
+Dans ce parc amoureux, en ces sombres retraittes,  
+De vos premiers soûpirs confidentes discrettes,  
+Sous l'habit d'un berger Jupiter vous attend.  
+
+    SEMELE.
+L'image d'un beau songe, un fantosme agreable  
+Rend envers Jupiter ma paresse excusable ;  
+Luy-mesme estoit l'objet⁎ d'un songe si charmant.  
+Allez belle Deesse advertir mon amant⁎,  
+Que j'aime son ardeur⁎, & son impatience :  
+Mais aussi dites-luy qu'il faut par bienseance,  
+Pour sortir du palais, attendre un plus grand jour,  
+Et voler malgré moy ce temps à son amour.  
+
+    L’AURORE.
+Semelé je ne puis paraistre davantage :  
+Une de ces Heures pour moy,  
+Peut aller faire ce message,  
+Le grand jour qui s'avance a finy mon employ ;  
+Je dois quitter la place [94] au Dieu de la lumiere,  
+Il a commencé sa carriere.  
+Filles de Jupiter tesmoins de ses ardeurs⁎,  
+Vous allez satisfaire à son impatience ;  
+Vous pour ce grand secret gardez-bien le silence,  
+Et remontez au Ciel pour rejoindre vos sœurs.  
+Les deux Heures partent à mesme temps & volent vers le cintre du theatre, tandis que l'Aurore remonte vers le lieu d'où elle est partie.
+
+
+
+## SCENE II.
+SEMELE, DIRCE sa confidente.
+
+
+    SEMELE.
+En est-ce assez, Dircé, pour te faire connaistre  
+L'amour, qu'au cœur d'un Dieu mes appas⁎ ont fait naistre ?  
+L'Aurore en ma faveur viendroit-elle en ces lieux,  
+Sans l'ordre de ce Dieu, qui commande les Dieux ?  
+
+    DIRCE.
+Non, je n'en doute plus, & j'en tremble, Madame.  
+Quoy le Prince Alcmeon, qui regnoit dans vostre ame,  
+Ce grand Prince d'Argos, qui depuis si long-temps  
+Vous offre sa Couronne & des vœux si constants,  
+Va perdre tout l'espoir de son amour fidelle ?  
+
+    SEMELE.
+J'ay crû brusler⁎ pour luy d'une flamme⁎ immortelle :  
+Mais puis-je guarantir un feu⁎ si glorieux  
+Contre l'ordre eternel du Destin & des Dieux ?  
+
+    DIRCE.
+Mais le Roy qui du Prince estime l'alliance,  
+Et voit que vostre cœur panche à quelque inconstance,  
+Veut sans plus differer le faire vostre Espoux ;  
+Vous devez obeir ou craindre son courroux.  
+
+    SEMELE.     [18]
+Ah Dircé, son courroux ne seroit pas à craindre ;  
+Si pour vaincre un pouvoir, qui voudra me contraindre,  
+J'osois luy découvrir⁎ la glorieuse ardeur⁎,  
+Que le grand Jupiter allume dans mon cœur :  
+Mais l'ordre de ce Dieu me condamne au silence.  
+
+    DIRCE.
+Mais l'amour de ce Dieu fait seul vostre deffence :  
+Pour vous justifier, il doit paroistre au jour,  
+
+    SEMELE.
+J'obtiendray de ce Dieu l'aveu de son amour.  
+Aussi bien il est temps que son rival aprenne  
+Que l'ardeur⁎, dont je brusle⁎ est fatale à la sienne,  
+Et qu'un mortel me cede à ce nouvel amant⁎,  
+Puis qu'enfin c'est un Dieu qui fait mon changement.  
+
+    DIRCE.
+De cet amant⁎ plustost songez à vous deffaire.  
+
+    SEMELE.
+Se defait-on d'un Dieu qui fait tout pour nous plaire ?  
+Est-il quelque constance, est-il quelque devoir,  
+Qui puisse resister contre tant de pouvoir ?  
+Si tu sçavois l'effet de ces divines flames⁎,  
+Et de quel air un Dieu s'introduit dans les ames ;  
+Ou bien si tu sçavois combien l'amour des Dieux  
+Se saisit aisement d'un cœur ambitieux ;  
+Car enfin je veux bien t'avoüer ma foiblesse,  
+L'orgueil fait dans mon cœur autant que ma tendresse.  
+
+    DIRCE.
+Vous m'avez confié le nom de vostre amant⁎ :  
+Contez-moy vostre amour & son commencement.  
+
+    SEMELE.
+Ah ! que l'amour des Dieux est fort en sa naissance !  
+Il peut tout, il triomphe au moment qu'il commence.  
+J'estois dans ce beau parc où Jupiter m'attend,  
+Quand au milieu des airs un tumulte éclatant,  
+Du costé de ce bruit me fait tourner la veuë.  
+A mes pieds aussitost je voy fondre une nuë,  
+Qui s'estant entr'ouverte offre à mon œil charmé  
+Tous les appas⁎ d'un Dieu quand il veut estre aimé.  
+Sa Majesté d'abord trouble toute mon ame :  
+Puis un regard meslé de tendresse & de flame⁎,  
+Comme un brillant amas de force & de douceur,  
+Me lance un trait de feu⁎ jusques au fonds du cœur.  
+Pour mon premier amour ma raison s'interesse [95] ;  
+Mais elle le defend avec tant de foiblesse,  
+Que dans le doux panchant de cette trahison  
+Mon cœur gagné sans peine entraisne ma raison.  
+Jupiter qui connoist mon desordre⁎ & sa gloire,  
+Par la parole enfin acheve sa victoire ;  
+Il me flatte, il me louë, & de la main des Dieux  
+Tu sçais combien pour nous l'encens est precieux.  
+Ce Dieu qui sçait l'orgueil qui suit nostre foiblesse,  
+Et ce que peut un Dieu qui flatte & qui caresse,  
+Luy qui de sa fierté se doit faire une loy,  
+Avare des douceurs, les prodigue pour moy.  
+Que ne puis-je exprimer la douce violence  
+Que fit à mon esprit cette tendre eloquence ?  
+Je devore aussi-tost avec avidité  
+Ce poison de mon cœur & de ma liberté :  
+Tous mes sens ébloüis de cét amas de charmes,  
+Contre un Dieu, sans raison, sans deffence & sans armes,  
+Je me perds, je m'esgare au milieu d'un beau jour.  
+Et n'ay des mouvemens que ceux de mon amour ;  
+Je ne me connoy plus dans ce desordre⁎ extreme ;  
+Je ne voy ny le parc, ny le Dieu, ny moy-mesme :  
+Une extase amoureuse, un doux enchantement…  
+Que te diray-je enfin de cet heureux moment ?  
+S'il falloit t'expliquer tout ce que j'en doy croire…  
+Mais Jupiter m'attend & je perds la memoire :  
+J'en diray davantage un jour plus à loisir.  
+
+    DIRCE. 
+Contentez sur un point mon curieux desir,  
+Dites-moy, si les Dieux aiment comme les hommes.  
+
+    SEMELE.
+Quand il s'agit d'aimer, ils sont ce que nous sommes.  
+Pour estre plus que nous aiment-ils autrement ?  
+Ils different de nous en ce point seulement,  
+Qu'un Dieu maistre de tout, ainsi que de luy-mesme ,  
+Se fait tout ce qu'il veut, pour plaire à ce qu'il aime,  
+Et peut se faire un cœur, plus sensible & plus doux,  
+Et plus tendre que ceux que le Ciel fait pour nous :  
+Mais c'est trop s'arrester, Jupiter s'en offence.  
+Au moins n'abuse pas de cette confidence,  
+Et crain [96] de mon amant⁎ le souverain pouvoir.  
+
+
+## SCENE III.
+ALCMEON, SEMELE, DIRCE.
+
+
+    DIMAS [97].
+Le Prince est là, Madame, & demande à vous voir.  
+
+    ALCMEON.
+Madame pardonnez à mon impatience.  
+
+    SEMELE.
+Quoy, Seigneur, si matin prendre cette licence⁎.  
+
+    ALCMEON.
+Par un doute cruel⁎ mon cœur est si pressé⁎,  
+Qu'il veut sçavoir le coup dont il est menacé :  
+Je meurs à tout moment dans cette incertitude,  
+Prenez quelque pitié de mon inquietude ;  
+De grace apprenez moy quelle ingratte froideur  
+Change l'heureux destin de ma fidelle ardeur⁎.  
+On vient de m'asseurer qu'on voit naistre en vostre ame  
+Le remors d'un adveu favorable à ma flâme⁎ :  
+Depuis que mon amour me retient dans ces lieux  
+N'ay je pas fait pour vous ce qu'on fait pour les Dieux ?  
+C'est de vous aussi bien que du Roy vostre pere,  
+Que j'ay receu l'adveu d'une flâme⁎ si chere.  
+Ay je arraché ce cœur ? vous me l'avez donné  
+Ce cœur, pour qui le mien eust tout abandonné,  
+Que si pour meriter un don si favorable  
+J'ignore l'art d'aymer, & de se rendre aymable⁎,  
+Au moins j'ay dans mon cœur, dequoy vous enflammer,  
+Si pour se rendre aymable⁎ il ne falloit qu'aymer.  
+Les plus profons respects, la plus forte tendresse…  
+Mais je vous parle en vain infidelle⁎ Princesse ;  
+Au desordre⁎ inquiet, qui trouble vos appas⁎,  
+Ingratte je voy bien qu'on ne m'écoute pas.  
+
+    SEMELE.
+Que me sert d'écouter n'ayant rien à respondre ?  
+Vos reproches sans doute ont dequoy me confondre⁎ ;  
+Je ne puis le nier, je vous aimay Seigneur,  
+Cependant…  
+
+    ALCMEON.
+Achevez, dites moy quel mal-heur,  
+Quel rival me dérobe une amitié⁎ si tendre ?  
+
+    SEMELE.
+Prenons un autre temps Seigneur pour vous l'apprendre  
+Un devoir si pressant…  
+
+    ALCMEON.
+Je ne vous quitte point  
+A moins…  
+
+    SEMELE.
+Faut-il Seigneur m'expliquer sur ce point ?  
+
+    ALCMEON.
+Helas je le voy bien, vous en aymez un autre.  
+
+    SEMELE. 
+Ouy Seigneur ; & ce n'est ma faute ny la vostre  
+Je plains vostre mal-heur, & ce cœur innocent  
+Vous trahit par l'effort d'un charme tout puissant.  
+Mesme je vous dirois, si j'ozois vous le dire,  
+Que de son premier feu⁎ ce cœur encor soûpire⁎,  
+Et sent aupres de vous, quand il vous faut quitter…  
+
+    ALCMEON.
+Ah Princesse…  
+
+    SEMELE.
+Ah Seigneur gardez de vous flatter.  
+Si vostre fier rival sçavoit que ma foiblesse  
+Laisse échaper pour vous une ombre de tendresse,  
+Ce reste de pitié vous deviendroit fatal ;  
+
+    ALCMEON.
+C'est peu de me trahir, on vante mon rival,  
+On veut que sa puissance estonne⁎ ma colere,  
+Quel est donc ce rival ?  
+
+    SEMELE.
+Seigneur c'est un mystere⁎ ;  
+Les Dieux seuls, & mon cœur ont droit de le sçavoir.  
+
+    ALCMEON.
+Et vous voulez ainsi flatter⁎ mon desespoir.  
+Helas je le voy bien, ce rival qui se cache,  
+Pour ma honte & la vostre est un perfide, un lâche ;  
+Pour vous justifier il paroistroit au jour,  
+S'il avoit merité l'honneur de vostre amour :  
+Mais par un sort fatal qui comble ma disgrace,  
+Un indigne rival vient de prendre ma place.  
+
+    SEMELE.
+Tout beau Seigneur, craignez ce dangereux rival.  
+Mais vous vous faites tort en le traittant si mal,  
+Vous devez presumer, qu'alors que je vous quitte,  
+Ce n'est pas par l'effort d'un plus foible merite ;      
+Mais sans autre raison croyez en ma fierté ;  
+Nul n'a droit sur ce cœur, s'il ne l'a merité,  
+Et puisque ma raison me donne au plus aymable⁎,  
+Jugez de ce qu'il vaut, s'il vous est preferable :  
+Blâmez si vous voulez mon cœur de trahison,  
+Mais faites sur ce choix justice à ma raison.  
+
+    ALCMEON.
+Quel qu'il soit, ce rival triomphe dans vostre ame,  
+C'est là qu'il peut braver mon courroux & ma flâme⁎ :  
+Mais nous le connoistrons ce rival si charmant.  
+Cependant dites luy que je suis vostre amant⁎,  
+Et qu'on n'enleve point, sans couster bien des testes,  
+A des gens comme nous de semblables conquestes.  
+
+    SEMELE.
+Quand vous le connoistrez vous perdrez ce courroux :  
+Il sied mal avec luy de faire le jaloux,  
+Et si vous me croyez, sçachant ce qu'il faut craindre,  
+Vous vous plaindrez fort bas, si vous ozez vous plaindre.  
+Peut estre j'en dis trop & plus que je ne veux,  
+Quand il faut consoler un amant⁎ mal-heureux :  
+Mais comme vostre amour attend tout de mon pere,  
+Je crains que vous fassiez un éclat temeraire,  
+Et qu'un rival qui peut du moindre de ses coups…  
+Le Roy vient : échapons à son premier courroux.  
+A Dircé.
+
+Toy demeure ; je cours où mon amour m'appelle.  
+
+
+## SCENE IV.
+CADMUS Roy de Thèbes, HERMIONE Reine, ALCMEON, Suitte.
+
+
+    ALCMEON.
+Vous me voyez frappé d'une atteinte mortelle,  
+Seigneur, on me trahit ; je viens de tout sçavoir ;  
+Un rival en secret m'oste tout mon espoir.  
+
+    LE ROY.
+Ah ! Prince ce soupçon marque trop de foiblesse.  
+
+    ALCMEON.
+Je viens de le sçavoir, Seigneur, de la Princesse.  
+
+    LE ROY.
+Quoy vous pourriez avoir un rival dans ma Cour ?  
+Ma fille veut sans doute esprouver vostre amour,  
+Ou plustost l'augmenter par ces fausses allarmes.  
+
+    ALCMEON.
+Helas c'est bien assez du pouvoir de ses charmes,  
+
+    LE ROY.
+La fiere Semelé ne fera point de choix  
+Qui puisse estre au dessous des Princes & des Roys.  
+
+    ALCMEON.
+A l'entendre parler du choix qu'elle se donne,  
+Son merite est d'un pris plus haut que la Couronne.  
+
+    LE ROY.
+Il faut donc que ma cour à mes yeux abusez⁎  
+Cache sous des sujets des Heros déguisez.  
+Mais en fut-il quelqu'un caché dans cet Empire,  
+Voudroit-il traverser⁎ l'hymen⁎ que je desire ?      
+On sçait, pour faire à Thebes un solide⁎ repos,  
+Que voulant allier ce Trône avec Argos,  
+Il faut qu'avecque vous, par un Hymen⁎ fidelle,  
+Semelé nous assure une paix immortelle :  
+Un si grand interest ne peut estre ignoré.  
+
+    ALCMEON.
+Cependant mon mal-heur, n'est que trop assuré.  
+
+    LE ROY.
+Je sçay bien que ma fille au moins en apparence,  
+Dans ses premiers desirs marque quelque inconstance ;  
+Mais parmy les amans⁎ cette ombre de froideur  
+Peut changer le dehors sans aller jusqu'au cœur.  
+
+    ALCMEON.
+Seigneur tout est changé ; la Princesse elle mesme  
+D'un air si transporté⁎ m'a vanté ce qu'elle ayme,  
+Qu'il n'est mortel ny Dieu qui lui puisse estre égal.  
+Elle veut que je tremble au nom de ce rival,  
+Et sa fausse pitié qui craint pour ma foiblesse,      
+Veut que sans murmurer je cede la Princesse ;  
+Qu'une lâche terreur estouffe mes desirs,  
+Et cache au fonds du cœur jusqu'aux moindres soupirs.  
+
+    LE ROY.
+Madame vous devez connoistre vostre fille ;  
+Elle tient plus à vous [98] que toute ma famille.  
+Plus belle que ses sœurs elle a le premier rang,  
+Et vous fait negliger le reste de mon sang.  
+Par cette aveugle ardeur⁎ qui possede les meres,  
+N'avez-vous point remply sa teste de chimeres ?  
+Vous fille de Venus, ne la flattez⁎-vous pas  
+De l'espoir de gagner un Dieu par tant d'appas⁎,  
+Et qu'un Heros mortel n'est pas assez pour elle ?  
+Vous me vantez souvent vostre race immortelle,  
+Et Semelé sans doute, au point où je la voy,  
+Prent pour luy tout l'orguëil, que vous avez pour moy.  
+
+    LA REINE. 
+Je n'ay rien fait, Seigneur, qui vous oblige à croire,  
+Que le sang de Venus, dont je tire ma gloire,  
+Me fasse negliger mon Espoux & mon Roy :  
+Je sçay ce que je suis, & ce que je vous doy.  
+Cet imprudent orgüeil qui n'est qu'extravagance,  
+Vient aux simples mortels d'une simple naissance :  
+Mais cet orgueil qui suit ceux qui sortent des Dieux,  
+Est un orgüeil illustre, innocent, glorieux.  
+C'est celuy que j'ay mis dans l'esprit de ma fille,  
+Et si je la prefere à toute ma famille,      
+Je ne puis le nier, dés qu'elle vit le jour,  
+Elle eut mes premiers soins & mon premier amour ;  
+Mais tout ce grand amour & cette preference  
+N'ont rien mis dans son cœur plus haut que sa naissance.  
+Elle a choisi ce Prince & j'ay loüé son choix ;  
+Et si le sang des Dieux avec celuy des Rois,  
+Est entre vous & moy joint par nostre hymenée⁎,  
+Ce grand exemple instruit une fille bien née.  
+Quoy qu'il semble aujourd'huy, que pour ce digne amant⁎,  
+Semelé se dispose à quelque changement,  
+Je luy rendray bien-tost sa première tendresse :  
+Mais il faut mesnager son ame avec adresse ;  
+N'y meslez pas, Seigneur, l'aigreur & le courroux ;  
+Il faut pour la gagner des traittemens plus doux ;  
+Elle doit obeir, mais d'une obeissance,  
+Qui n'ait rien de l'indigne & basse dépendance.  
+
+    LE ROY.
+Je veux bien à vous seule abandonner ce soin ;  
+Je sçauray faire agir mon pouvoir au besoin⁎.  
+Mais quel est cét amant⁎ dont on fait un mystere⁎ ?  
+
+    LA REINE.
+Pour de pareils secrets choisit-on une mere ?  
+
+    LE ROY. 
+Madame il faudra donc employer mon pouvoir.  
+
+    LA REINE.
+Je sçauray l'obliger à faire son devoir.  
+
+    ALCMEON.
+Ah ! Madame, ah ! Seigneur, sans forcer ma Princesse,  
+Laissez-la disposer de toute sa tendresse :  
+Mes maux sont trop cruels⁎ pour les pouvoir guerir :  
+C'est assez de l'aimer, l'adorer, & mourir.  
+
+    LE ROY.
+Prince defaites-vous de ce respect frivolle ;  
+La Princesse est à vous, je tiendray ma parolle.  
+Vous, voyez vostre fille, & faites-luy sçavoir,  
+Qu'elle doit s'expliquer ou craindre mon pouvoir.  
+
+
+## SCENE V.
+LA REINE, DIRCE.
+
+
+    LA REINE.
+Tu vois l'ordre du Roy, Dircé par ton adresse  
+Descouvre⁎ promptement l'amant⁎ de ta Maitresse⁎ :  
+Ou plustost ouvre moy cet important secret ;  
+Ma fille l'aura mis dans un sein si discret ;  
+Il n'en faut pas douter.  
+
+    DIRCE.
+Ah ! de grace, Madame,  
+Ne me demandez pas le secret de sa flame⁎ ;  
+Ce secret revelé me cousteroit le jour.  
+L'ordre qui me deffend d'expliquer cet amour,  
+Vient d'un Amant⁎ si fier, si puissant, si terrible⁎,  
+Qu'en vous le descouvrant⁎ ma perte est infaillible.  
+Contentez-vous enfin d'apprendre que ce choix  
+Vous fera plus d'honneur, que le plus grand des Rois.  
+
+    LA REINE.
+S'il est ainsi, pourquoy s'obstiner à se taire ?  
+Puis-je pas [99], s'il le faut, cacher ce grand mystere⁎ ?  
+Ah ! que je crains de l'air, dont je te vois agir,  
+Que tu caches un choix qui nous fera rougir.  
+Quel que soit cet Amant⁎, il faut que je l'apprenne.  
+
+    DIRCE.
+Pourquoy par cet adveu m'exposer à sa haine ?  
+Puisque de Semelé vous pouvez l'obtenir,  
+Ne me contraignez point…  
+
+    LA REINE.
+Faites-la donc venir.  
+Mais que vient m'annoncer ce merveilleux spectacle ?  
+Viens-tu nous esclaircir, Amour, par ce miracle ?  
+
+    L’AMOUR *porté par un Aigle.*
+Non Reine, à qui je puis donner le nom de sœur,  
+Puisque Venus est nostre mere.  
+Loin d'aller de ta fille esclaircir le mystere⁎,  
+Garde toy de forcer le secret de son cœur ;  
+Commande luy plustost d'aimer & de se taire.  
+L'aigle sur qui je viens t'imposer cette loy,  
+T'apprend, qu'elle te vient d'un Dieu plus grand que moy.  
+L'Amour prend son vol du ceintre du Theatre vers le fonds.
+
+
+    DIRCE.
+Madame vous voyez ce que les Dieux ordonnent.  
+
+    LA REINE.
+Je le vois avec joye, & l'ordre qu'ils me donnent,  
+Monstre, combien au Ciel mon sang est precieux,  
+Quand ce sang jusqu'icy fait descendre les Dieux.  
+Allons apprendre au Roy cette grande nouvelle,  
+Et l'ordre souverain d'une bouche immortelle :      
+Qu'il respecte un secret qu'une divine voix  
+Commande de la part du grand maistre des Rois.  
+Toy, dis à Semelé que sans crainte de blasme,  
+Elle peut conserver son secret & sa flame⁎,  
+Et que malgré l'ardeur⁎ d'un desir indiscret⁎,  
+Je renonce au pouvoir d'arracher ce secret.  < Fin du premier Acte. >
+
+
+# ACTE II.
+
+
+## SCENE I.
+La scene est dans un parc.
+
+JUPITER, en habit de Berger, MOMUS.
+
+
+    JUPITER.
+Ouy j'attens Semelé sous ce nouveau visage :  
+C'est l'amour qui m'a fait ce galant équipage⁎ :  
+Mais si tu vois un Dieu sous l'habit d'un Berger,  
+Ce n'est pas d'aujourd'huy que tu m'as veu changer,  
+Et de mes feux⁎ secrets cacher les avantures,  
+Sous les traits differents de cent autres figures.  
+
+    MOMUS.
+C'est donc l'Amour qui fait tous ces beaux changemens.  
+J'admire Jupiter sous ces déguisemens,  
+Et si-tost qu'il s'agit de faire une conqueste,  
+Il fait beau voir un Dieu faire l'homme ou la beste.  
+On sçait sous quelle forme on vous vit sur le dos,  
+Ravir la belle Europe [100] & traverser les flots.  
+Vous en voulez tousjours à celles de sa race :  
+Et desja Semelé vient de prendre sa place.  
+Dans le sang d'Agenor vous trouvez des appas⁎,  
+Que dans un autre sang vos yeux ne trouvent pas.  
+On vous voit tous les jours courir de belle en belle,  
+Aymez-vous ces beaux noms d'inconstant, d'infidelle⁎ ?  
+N'est-il point de beauté qui vous puisse arrester,  
+Les Dieux n'ont-ils point honte de coqueter⁎ ?  
+
+    JUPITER.
+Momus, veux-tu tousjours censurer & medire ?  
+N'as-tu jamais connu le souverain Empire,  
+Qui force au changement le plus puissant des Dieux ?  
+Voy comme c'est en nous un deffaut glorieux.  
+Quand j'aime une beauté, d'abord je vois en elle  
+Tout ce qu'a de charmant une beauté mortelle ;  
+La lumiere d'un Dieu descouvre en ce moment  
+Tout ce qui peut toucher les desirs d'un amant⁎.  
+Un mortel a besoin de temps & de lumiere,  
+Pour faire à son amour une digne matiere ;  
+Mais un Dieu pour ce chois n'a pas besoin de temps :  
+Il voit tout d'un coup d'œil & dehors & dedans ;  
+Son esprit convaincu d'un merite adorable,  
+Aime d'abord autant, que l'objet⁎ est aimable⁎,  
+Et par un feu⁎ divin qui peut tout enflammer,  
+Il embrase l'objet⁎ qui vient de le charmer.  
+Ce violent Amour vient à peine de naistre,  
+Qu'il est victorieux, autant qu'il le peut estre,  
+Et deslors qu'il joüit⁎ avecque tant d'ardeur⁎,  
+Sa flame⁎ à son objet⁎ applique tout son cœur,  
+Qu'au mesme instant qu'un Dieu possede une maistresse⁎,  
+Il espuise sa joye & toute sa tendresse :  
+Ainsi le cœur d'un Dieu presque en un seul moment,  
+Aime [101], se fait aimer, & cesse d'estre Amant⁎.  
+Toy qui n'aimas jamais, tu sçais mal comme on aime.  
+
+    MOMUS.
+Peut-estre Jupiter, l'ignorez-vous vous mesme :  
+Car enfin Semelé vous couste plus d'un jour,  
+Et je ne vous croy pas trop bien avec l'Amour ;  
+Vous vous broüillez souvent avec luy ce me semble [102].  
+
+    JUPITER.
+Nous nous broüillons exprés pour estre mieux ensemble.  
+Si l'amour avec moy s'entendoit tous les jours,  
+Quelle gloire de vaincre avec ce grand secours ?  
+Je me fais de l'amour un combat volontaire,  
+Un doux empressement, une agreable affaire :  
+Sous l'habit d'un Berger je me deguise exprés,  
+Pour affoiblir ainsi la force de mes traits,      
+Et par quelques combats achetant la victoire,  
+Pour croistre mes plaisirs, j'y mesle un peu de gloire.  
+
+    MOMUS.
+Quelques-fois en un jour on vous voit demander,  
+Attaquer, emporter la place, & la ceder.  
+
+    JUPITER.
+Ouy mais de mon amour apprens tout le mystere⁎.  
+Quelque glorieux chois, qu'un Dieu se puisse faire,  
+Sçache qu'il ne sçauroit remplir tous ses desirs :  
+Son cœur qui veut par tout le comble de plaisirs,  
+Repare le deffaut de ces beautez mortelles,  
+Par un enchaisnement de conquestes nouvelles.  
+
+    MOMUS.
+Pourquoy vous attacher aux beautez d'icy bas ?  
+Nos Deesses pour vous sont elles sans appas⁎ ?  
+
+    JUPITER.
+L'Amour n'a pas au Ciel son veritable empire :  
+C'est icy seulement qu'on brusle⁎ & qu'on soûpire⁎ ;  
+Dans le sejour⁎ des Dieux l'on y vit sans desirs,  
+Et sans desirs l'Amour a-t'il [103] de vrais plaisirs ?  
+
+    MOMUS.
+Est-il d'autres plaisirs pour le Dieu du tonnerre  
+Que celuy quand il veut de foudroyer la terre ?  
+Rire des beaux desseins d'un fol ambitieux,  
+Et preparer sa cheute en l'élevant aux Cieux ;  
+Tout remply de nectar dans une paix profonde,  
+D'un branlement de teste ébranler tout le monde ;  
+Faire de ses desirs sa raison & ses loix ;  
+Se joüer à son gré des peuples & des Roys ;  
+Voir les mortels broüillés dans toutes leurs prieres ;  
+Leur voir pousser des vœux l'un à l'autre contraires ;  
+Confondre⁎ leurs projets & d'une mesme main,  
+Aujourd'huy les flatter & les punir demain ;  
+Et sur cette conduite inégale, incertaine  
+Ouyr les sots discours de la prudence humaine ;  
+Voila de Jupiter les doux amusemens.  
+
+    JUPITER.
+J'en trouve dans l'amour qui sont bien plus charmans :  
+Quand l'amour dans un cœur met toute la tendresse…  
+
+    MOMUS.
+C'est avec ce beau nom qu'on cache sa foiblesse.  
+
+    JUPITER.
+S'il est quelque foiblesse à se laisser charmer,  
+Que ne suis-je plus foible afin de mieux aymer ?  
+Ou s'il faut souhaiter une chose impossible,  
+Que ne suis-je moins Dieu pour estre plus sensible ?  
+Mais j'ay tort de parler à qui n'ayma jamais :  
+Ne combats plus ma flâme⁎ & sers la desormais ;  
+Momus tu tiens icy la place de Mercure.  
+
+    MOMUS.
+Ouy grace à vos bontez & ma gloire en murmure ;  
+Vostre ordre malgré moy m'employant en ce jour,  
+Fait d'un censeur des Dieux un confident d'amour.  
+
+    JUPITER.
+C'est pour tromper Junon qu'aujourd'huy je t'employe,  
+Tu sçays qu'incessamment elle trouble ma joye,  
+Et du subtil Mercure aprehendant l'employ,  
+Il luy seroit suspect s'il estoit pres de moy.  
+Ainsi…Mais j'aperçois Semelé.  
+
+    MOMUS.
+Je vous laisse ;  
+Un tiers est incommode aupres d'une maistresse⁎.  
+
+
+## SCENE II.
+JUPITER, SEMELE.
+
+
+    JUPITER.
+Ma Princesse est ce vous ?  
+
+    SEMELE.
+Est-ce là mon amant⁎ ?  
+
+    JUPITER.
+Me méconnoissez-vous sous ce déguisement ?  
+Avez vous oublié le discours de l'aurore ?  
+
+    SEMELE.
+Non, non, il m'en souvient [104], c'est le Dieu que j'adore ;  
+Sous l'habit d'un berger, il m'attend en ces lieux.  
+
+    JUPITER.
+Je trompe ainsi Junon & me cache à ses yeux :  
+De son jaloux esprit la triste inquietude  
+A m'épier sans cesse applique son estude ;  
+Mais voulant m'assurer mes plaisirs les plus doux…  
+
+    SEMELE.
+Ah vous vous cachez moins pour Junon que pour vous :  
+Vous aymez vostre gloire, & vous craignez pour elle,  
+Qu'on sçache ce qu'un Dieu fait pour une mortelle.  
+
+    JUPITER. 
+Moy craindre pour ma gloire un choix si glorieux ?  
+Moy qui pour vous servir, abandonne les cieux ?  
+Moy qui bruslant⁎ pour vous d'une ardeur⁎ sans seconde [105]  
+Neglige sans rougir la conduite du monde ?  
+Moy qui montre à vos yeux un amant⁎ si charmé,  
+Qu'il cesse d'estre Dieu pour estre plus aymé ?  
+
+    SEMELE.
+Hé bien si vostre amour est à couvert du blâme,  
+Si vous prisez si fort l'honneur de vostre flâme⁎ ;  
+Jupiter il est temps qu'elle paroisse au jour ;  
+Il court de fâcheux bruits de ce secret amour,  
+Et si vostre ordre encor [106] me condamne au silence,  
+Cet amour va perir par mon obeyssance :  
+On presse mon himen⁎ pour le Prince Alcmeon ;  
+J'oppose un autre amant⁎, mais j'en cache le nom.  
+Ce silence honteux où s'obstine mon ame,  
+Au sentiment de tous cache une indigne flâme⁎,  
+Et tandis que ce feu⁎ n'ozera voir le jour,  
+Ma gloire est en peril ainsi que mon amour.  
+
+    JUPITER.
+Ne craignez rien ; Amour pour finir vostre peine⁎,  
+Et par mon ordre expres envoyé vers la Reyne,  
+Luy deffend d'écouter un desir indiscret⁎,  
+Qui veut de vostre flâme⁎ arracher le secret.  
+Et par un autre choix tiranniser vostre ame.  
+
+    SEMELE.
+Tant de precautions à cacher vostre flâme⁎,  
+Le respect de Junon, tous vos déguisemens  
+Ne m'apprennent pas trop quels sont vos sentimens.  
+En effet, quand un Dieu se fait une maistresse⁎,  
+Il doit aymer sans bruit, & cacher sa foiblesse ;  
+Un Dieu doit s'épargner cette confusion⁎ ;  
+Junon est trop à craindre en cette occasion,  
+Et quoy que le secret soit fatal à ma gloire,  
+Qu'importe on en croira ce qu'on en voudra croire.  
+Ce procedé n'est pas d'un veritable amant⁎ :  
+Un Dieu qui craint les bruits ayme bien foiblement.  
+Pour moy je ne crains point de dire qu'un Dieu m'ayme ;  
+Donnez m'en la licence⁎, ou je la prens moy-mesme.  
+Contre un pere en courroux, contre tout son pouvoir  
+Je n'ay que cet adveu pour sauver mon devoir,  
+Et je croy qu'un amour, dont mon ame est si fiere,  
+Est trop noble & trop beau pour craindre la lumiere.  
+Cependant advoüez que j'ayme plus que vous.  
+Je le voy bien, les Dieux n'ayment pas tant que nous :  
+Les Dieux n'ont pas le temps d'aymer comme on les ayme,  
+Le soin⁎ de vostre gloire & l'amour de vous mesme  
+Vous peuvent-ils [107] pour nous laisser quelques desirs ?  
+Mais vous estes vous seul ma gloire & mes plaisirs :  
+Ainsi loin de cacher cette flâme⁎ divine ;  
+J'en veux vanter par tout l'adorable origine,  
+Et faire voir par tout un feu⁎ si glorieux.  
+
+    JUPITER.
+Et n'est ce pas assez qu'il paroisse à nos yeux ?  
+Un témoin comme moy suffit pour vostre gloire.  
+
+    SEMELE.
+Je veux que tout le monde apprenne ma victoire,  
+Et ne croiray jamais qu'on m'ayme tendrement,  
+Si le grand Jupiter rougit du nom d'amant⁎ :  
+Ma gloire en cet estat est tousjours imparfaite.  
+
+    JUPITER.
+Hé bien que tout le monde aprenne ma deffaite :  
+Il faut bien satisfaire à vostre ambition ;  
+Que mon amour éclatte aussi loin que mon nom.  
+
+    SEMELE.
+Apres un tel adveu je brave la colere  
+Des hommes & des Dieux, d'un amant⁎ & d'un pere.  
+Mais Alcmeon paroist, tâchons de l'éviter ;  
+
+    JUPITER.
+Il faut voir le rival, qu'on donne à Jupiter.  
+
+
+## SCENE III.
+JUPITER, SEMELE, ALCMEON.
+
+
+    ALCMEON.
+Ce beau berger est-il de vostre confidence ?  
+
+    SEMELE.
+Comment ?  
+
+    ALCMEON.
+Je vous apporte un advis d'importance,  
+Et n'oze devant luy…  
+
+    SEMELE.
+Parlez ne craignez rien,  
+Ou gardez vostre advis, s'il rompt nostre entretien.  
+
+    ALCMEON.
+J'ay tort de l'interrompre ; & je voy bien Madame,  
+Puis que vous luy fiez⁎ le secret de vostre ame,  
+Que c'est luy qui souvent vous attire en ces lieux.  
+C'est donc là ce rival si fier, si glorieux ;  
+Puis donc qu'on [108] ne craint rien d'un témoin si fidelle,  
+Apprenez le sujet d'une douleur mortelle.  
+Malgré tous mes conseils, contre vostre dessein,  
+Le Roy vous veut contraindre à me donner la main,  
+Et pour ce coup fatal marque cette journée.  
+
+    JUPITER, *bas à Semelé.*
+Mes ordres sçauront bien rompre cet Himenée⁎.  
+
+    SEMELE, *à Alcmeon.* 
+Que me conseillez-vous sur cet ordre absolu ?  
+Ou vous mesme plustost qu'avez-vous resolu ?  
+Mon sort dépend de vous, faut-il que j'obeysse ?  
+
+    ALCMEON.
+C'est à ce digne amant⁎ faire trop d'injustice,  
+De prendre en ce besoin⁎ conseil de son rival.  
+
+    JUPITER.
+Ce conseil quel qu'il soit nous fera peu de mal.  
+
+    ALCMEON.
+Hé quoy vous me bravez ?  
+
+    JUPITER.
+Non j'aurois peu de gloire,  
+De braver un rival quand il pert la victoire.  
+
+    ALCMEON.
+C'est parler devant moy bien haut pour un berger.  
+
+    JUPITER.
+Des bergers comme moy le peuvent sans danger.  
+
+    ALCMEON.
+Cette fierté m'étonne⁎ & je ne puis comprendre…  
+
+    JUPITER.
+On m'ayme & ce seul mot suffit pour vous l'apprendre.  
+
+    ALCMEON.
+Que vous sert cet amour quand j'ay l'adveu du Roy ?  
+
+    JUPITER.
+Que vous sert cet adveu, quand son cœur est à moy ?  
+Quand on a comme moy la gloire de lui plaire…  
+
+    ALCMEON.
+Quand on n'a qu'à combattre un berger temeraire…  
+
+    JUPITER.
+Je ne sçay qui l'est plus du berger ou de vous.  
+
+    ALCMEON.
+Ah c'en est trop.  
+
+    JUPITER.
+Calmez ce dangereux courroux.  
+
+    SEMELE. 
+Hé quoy contre un berger & mesme en ma presence  
+Un Prince…  
+
+    JUPITER.
+Je répons icy de sa clemence.  
+
+    ALCMEON, *portant la main sur la garde de son épée.*
+Vous voyez qu'un berger me brave impunement,  
+Et vous vous offensez de mon ressentiment ?  
+C'est trop souffrir⁎.  
+
+    SEMELE.
+O Dieux !  
+
+    JUPITER.
+Ne craignez rien Princesse.  
+
+    ALCMEON.
+Quel charme sur mes bras jette tant de foiblesse ?  
+
+    JUPITER, *à Semelé.*
+Pouvez-vous pour un Dieu craindre quelque danger ?  
+
+    SEMELE.
+Ma tendresse d'abord n'a rien veu qu'un berger.  
+
+    ALCMEON.
+Ce prompt enchantement & ce charme invisible  
+Me fait connoistre enfin cet amant⁎ si terrible⁎.  
+Ce rival dont tantost vous m'avez menacé.  
+
+    JUPITER.
+Ouy Prince, c'est luy mesme, & le charme est passé :  
+J'ay pitié de l'estat, où vous met trop d'audace :  
+Amant⁎ de Semelé vous meritez ma grace.  
+Au moins par cet essay connoissez mon pouvoir.  
+
+    ALCMEON.
+Va ta pitié ne fait qu'aigrir mon desespoir,  
+Injurieux rival, laisse moy ma foiblesse ;  
+Accable un mal-heureux, ou me rend [109] ma Princesse ;  
+Tu me l'ostes ; cruel⁎ ; & ton charme trompeur  
+Ainsi que sur mon bras a passé dans son cœur.  
+Princesse ouvrez les yeux & voyez l'imposture  
+D'un art affreux⁎ & noir, qui force la nature.  
+Vous laissez vous surprendre aux charmes d'un trompeur ?  
+
+    SEMELE.
+Vous mesme connoissez ce divin enchanteur⁎,  
+Qui sous les foibles traits d'un enfant de la terre,  
+Cache le puissant Dieu qui lance le tonnerre.  
+Admirez quel rival vous fait mon changement.  
+
+    ALCMEON.
+Jupiter mon rival ! Dieux quel aveuglement !  
+
+    SEMELE À JUPITER.
+Vous voyez…  
+
+    JUPITER À SEMELÉ.
+J'ay pitié de l'erreur qui l'abuse⁎.  
+
+    ALCMEON.
+Vostre infidelité⁎ cherche en vain cette excuse.  
+
+    SEMELE.
+Sans doute, & je rougis qu'un changement fatal  
+Donne au Prince d'Argos un berger pour rival,  
+Si la bonté d'un Dieu ne daigne vous absoudre,  
+Craignez de le connoistre à l'éclat de sa foudre.  
+
+    ALCMEON.
+Pleut au Ciel, qu'il voulut découvrir à mes yeux  
+Par un coup de tonnerre, un choix si glorieux.  
+Du moins en connoissant le Dieu qui me surmonte⁎,  
+Je mourrois avec joye, & vous perdrois sans honte ;  
+Mais las ! ce n'est pas luy, mais c'est vous que je crains :  
+La foudre est [110] dans vos yeux, & non pas dans ses mains.  
+Mais quoy l'air s'obscurcit & l'orage s'appreste…  
+
+    JUPITER.
+Quel changement soudain excite la tempeste ?  
+Quand je suis sur la terre, il tonne dans les cieux,  
+
+    ALCMEON *à Semelé.*
+Il tonne, & c'est icy le grand maistre des Dieux.  
+C'est à cet imposteur qu'il declare la guerre.  
+
+    JUPITER *à Semelé.*
+Junon quand il luy plaist peut former le tonnerre,  
+Elle est Reyne des airs.  
+
+    ALCMEON.
+Foudre tombe en ce lieu ;  
+Ta gloire est de punir le fantôme d'un Dieu.  
+
+    JUPITER.
+Sans doute que Junon en veut à ma Princesse,  
+
+    SEMELE.
+Sans doute qu'un faux charme abuse⁎ ma tendresse.  
+
+    JUPITER
+Quoy vous doutez ?  
+
+    ALCMEON À SEMELÉ.
+Voyez quelle estoit vostre erreur.  
+
+    JUPITER.
+Junon descend en terre ; évitons sa fureur.  
+Nuages descendez, & qu'une épaisse nuë  
+La derobe à sa rage & nous cache à sa veuë.  
+Une nuë décend qui ayant enveloppé Jupiter, & Semelé remonte dans le Ciel.
+
+
+
+## SCENE IV.
+ALCMEON, JUNON paroist dans un Ciel orageux.
+
+
+    ALCMEON.
+Dissipez ce nüage, il est temps d'éclater,  
+Tombez foudres, tombez sur un faux Jupiter.  
+Grand Dieu vange ton nom usurpé par un traistre.  
+Mais quel est ce prodige, & que vois je paroistre ?  
+C'est Junon elle-mesme avec la foudre en main.  
+Pourquoy cet équipage⁎, & quel est son dessein ?      
+De ce faux Jupiter qui m'oste ce que j'ayme,  
+Me vient-elle vanger, ou se vanger soy-mesme [111] ?  
+Bergers qui la voyez descendre dans ce bois,  
+Pour haster son secours, prestez-moy vostre voix.  
+Chanson.
+
+Reyne des vents Maistresse des tempestes  
+Espargnez nos champs & nos testes,  
+Et sur ce ravisseur tournez ce grand courroux,  
+A ce triste mortel il ravit ce qu'il ayme :  
+Vous voyez sa douleur, vous sçavez par vous-mesme,  
+Tout ce que souffre⁎ un cœur amoureux & jaloux.  
+
+    JUNON *en descendant sur le Théatre.*
+Tu me vois Alcmeon au milieu des nüages  
+Par un soin inutile exciter des orages,  
+Et pour des vains efforts prester à mon courroux,  
+Ces traits que j'ay surpris à mon perfide époux.  
+Jupiter à mes yeux dérobe son amante⁎ ;      
+Son amour tout puissant, rend ma haine impuissante.  
+Vents, tempestes, esclairs, enfans de ma fureur,  
+Qui ne semez icy qu'une vaine terreur,  
+Evanouyssez-vous : l'artifice⁎ & l'adresse  
+Vangeront mieux que vous ma gloire & ma foiblesse.  
+Junon estant descenduë.
+
+Prince d'Argos approche & n'apprehende rien,  
+Nos mal-heurs sont communs & ton sort est le mien :  
+Une ingrate Princesse à ta flâme⁎ infidelle⁎,  
+Triomphe d'un mortel, & brave une immortelle,  
+Et sa fiere beauté par un mal-heur fatal  
+Rend Jupiter perfide, & le fait ton rival.  
+
+    ALCMEON.
+Jupiter mon rival ? que dites vous Deesse ?  
+Le rival dont j'osois mépriser la foiblesse,  
+Luy qui comme un berger se montroit à mes yeux,  
+Ce rival est un Dieu le plus puissant des Dieux ?  
+J'esperois esclaircir cette estrange avanture,  
+Pour convaincre un rival d'une lâche imposture,  
+C'estoit là tout l'espoir dont j'ozois me flatter⁎,  
+Et dans cet imposteur je trouve Jupiter ?  
+Vous deviez prevenir⁎ ces mortelles allarmes :      
+Avec tant de puissance, avecque tant de charmes,  
+Deesse ignorez-vous l'art de vous faire aymer ?  
+Et que vous manque t-il pour plaire & pour charmer ?  
+
+    JUNON.
+Mais Prince le moyen que [112] ma beauté l'arreste  
+Ce Dieu qui va tousjours de conqueste en conqueste.  
+Rien ne sçauroit borner ses glorieux soûpirs,  
+Quel objet⁎ peut borner de si vastes desirs ?  
+Pour consoler ma gloire & toute ma tendresse,  
+Tâchons adroitement de perdre⁎ sa Maistresse⁎ ;  
+Sur sa fiere beauté par de secrets moyens  
+Je m'apreste à vanger tes feux⁎ comme les miens.  
+Jusqu'icy j'ay voulu par une guerre ouverte,  
+Par de honteux éclats, entreprendre sa perte ;  
+Mais le grand Jupiter est plus puissant que moy.  
+Pour la perdre⁎ en secret…d'où te vient cet effroy ?  
+Trembles-tu des perils d'une ingrate Princesse ?  
+
+    ALCMEON.
+Toute ingrate qu'elle est excusez ma foiblesse :  
+J'ay pour sa trahison une secrette horreur,  
+Et l'amour toutesfois regne encor dans mon cœur.  
+
+    JUNON.
+J'ay donc tort de venir avec tant d'imprudence,  
+Te fier⁎ le secret d'une juste vengeance.  
+Gardant pour ma rivale un sentiment si doux,  
+Ta foiblesse contre elle augmente mon courroux.  
+
+    ALCMEON.         [44]
+Regardez ma Princesse avec moins de colere :  
+Qu'a t'elle fait enfin qui puisse vous déplaire ?  
+Aux tendresses d'un Dieu peut-elle resister ?  
+Que suis-je, helas que suis-je aupres de Jupiter ?  
+
+    JUNON.
+Sous ces belles couleurs couvre ton infamie,  
+Pour meriter ma haine ayme mon ennemie.  
+
+    ALCMEON.
+Hé bien sauvez mon cœur de cette lâcheté :  
+Je voudrois bien haïr cette ingrate beauté ;  
+Mais puis que sur mes sens elle est trop souveraine,  
+Pour vanger mon amour, prestez-moy vostre haine ;  
+Si je ne sçay qu'aymer, hayssez-là pour moy.  
+
+    JUNON.
+Tu seras satisfait & c'est-là mon employ.      
+Je sçay l'art de haïr sans remors & sans peine⁎ :  
+Si l'amour a ses Dieux je le suis pour la haine.  
+Pour faire agir la mienne avec plus de bon-heur,  
+Et mettre en seureté mon nom & mon honneur,  
+Sous des traits déguisez abusant⁎ ta Princesse…      
+Mais je t'en dirois trop & je crains ta foiblesse :  
+Je t'instruiray de tout avant la fin du jour.  
+Adieu je vay vanger ma gloire & ton amour.  < Fin du second Acte. >
+
+
+# ACTE III.
+
+
+## SCENE I.
+La scene est dans un jardin enchanté.
+
+JUPITER, SEMELE, MOMUS.
+
+Jupiter & Semelé descendent dans une nuë,
+
+
+    JUPITER.
+Vous n'avez rien à craindre icy belle Princesse.  
+à Momus.
+
+Toy, tasche d'observer la jalouse Deesse ;  
+Sur tout cache luy bien cet azile secret.  
+
+    MOMUS *bas en s'en allant.*
+J'obeiray fort mal s'il faut estre discret.  
+
+    JUPITER.
+Hé bien ces grands essais d'amour & de puissance  
+Vous laissent-ils encor dans quelque defiance ?  
+Doutez-vous de mon nom ? ce merveilleux sejour⁎,  
+Et ces lieux enchantez qu'a produit [113] mon amour,  
+Sont-ils de ma grandeur un foible tesmoignage ?  
+Vous voyez au milieu d'une forest sauvage,  
+Naistre par un miracle aussi rare que beau,  
+D'un amas de beautez le spectacle nouveau.  
+Ces lieux quand vous voudrez vous offrent un azile,  
+Pour vous comme l'accez l'issuë en est facile.  
+Icy loin de Junon, & loin de vostre Cour,  
+Et sans autres tesmoins que les yeux de l'Amour,  
+Nous gousterons tous deux tout ce que dans les ames      
+Respandent de douceurs les plus heureuses flames⁎,  
+Tout ce que font sentir de joye & de plaisirs,  
+Le commerce⁎ amoureux des yeux & des souspirs,  
+Les combats d'amitié⁎, de soins⁎, de deferences,  
+Les flatteurs entretiens, les tendres confidences,      
+Ces beaux emportemens de l'esprit & du cœur,  
+Ces charmes composez de flame⁎, & de langueur,  
+Les doux égaremens, les aimables⁎ foiblesses,  
+Les extases d'amour, les transports⁎, les tendresses,  
+Tout ce qui peut enfin nous flatter tour à tour,      
+Quand on se donne tout [114] au pouvoir de l'Amour.  
+
+    SEMELE.
+Ah ! que de ces discours la divine eloquence,  
+Du Dieu dont je doutois me fait voir la presence !  
+Vous estes Jupiter, mon doute est esclaircy,  
+Et les Dieux seulement peuvent parler ainsi.  
+Autrefois d'un mortel j'ay ressenty la flame⁎ ;  
+Mais ce n'est pas ainsi qu'il regnoit dans mon ame :  
+Je sens bien d'autres feux⁎, & des traits plus puissans.  
+Un coup d'œil vous rend maistre, & des cœurs & des sens,  
+Et cette liberté nostre unique avantage,      
+De vos divines mains le present & l'ouvrage,  
+Pour entrer dans vos fers⁎ trouve un panchant si doux,  
+Qu'on voit bien que nos cœurs s'entendent avec vous.  
+
+    JUPITER.
+Si ma divinité vous paroist si presente,  
+Je dois vous en donner une marque esclatante.  
+Je veux que dans ces lieux le comble des plaisirs,  
+Par un charme eternel remplisse vos desirs ;  
+Le Ciel respectera ce precieux azile ;                         47  
+Vous y respirerez un air pur & tranquile,  
+Que rien ne troublera que vos tendres souspirs,      
+Et le soufle amoureux des aimables⁎ Zephirs⁎ ;  
+Icy chaque saison nous donnera des roses,  
+Les plus charmantes fleurs, & les plus belles choses,  
+Et pour n'y rendre pas [115] nos plaisirs limitez  
+Chaque jour produira de nouvelles beautez ;  
+La Mere des Plaisirs vous y suivra sans cesse,  
+Cette source d'appas⁎, la brillante Jeunesse,  
+Respandra sur vos jours un eternel printemps,  
+Et les affranchira de la fureur des ans ;  
+Mille Ris, mille Jeux, & leur charmante Mere [116],  
+N'y prendront d'autre soin que celuy de vous plaire ;  
+Vous y verrez tousjours les plus jeunes Amours,  
+Et tout ce qu'avec eux amenent les beaux jours ;  
+C'est icy que nos cœurs aimeront sans contrainte,  
+Joüiront⁎ sans degoust, possederont sans crainte,  
+Et ce qui plus que tout doit flatter⁎ vos desirs,  
+C'est un Dieu tout-puissant qui promet ces plaisirs.  
+
+    SEMELE.
+Que de biens à la fois ! mais helas ! leur durée  
+N'en sera-t'elle point courte & mal asseurée ?  
+Ces plaisirs qui seront les fruits de vostre amour,      
+Suivront-ils le destin de qui les met au jour ?  
+L'amour n'est pas pour vous un tribut necessaire,  
+Vous estes de ses loix esclave volontaire,  
+Un Dieu n'aime qu'autant qu'il se laisse enflammer,  
+Et qui peut n'aimer pas, cesse bien-tost d'aimer.  
+Pardonnez-moy de grace, un peu de défiance ;  
+Tant de biens pour jamais ont si peu d'apparence [117],  
+Que j'ay trop de sujet de craindre un changement.  
+
+    JUPITER.
+Que vous connoissez mal le cœur de vostre amant⁎ !  
+Son ardeur⁎ pour s'esteindre est trop grande & trop belle ;  
+Dans un cœur immortel l'amour est immortelle,  
+Et ce feu⁎ dont vos yeux sont la source & l'appuy,  
+Doit s'il enflâme un Dieu durer autant que luy.  
+Souffrez⁎ pour un moment qu'en ces lieux je vous laisse ;  
+Mon destin me l'ordonne & mon devoir me presse⁎ ;  
+Mais songez quand je rends mes soins à l'univers,  
+Qu'un Empire si beau me plaist moins que vos fers⁎.  
+
+    SEMELE.
+Faites vostre devoir, grand Dieu vous devez croire  
+Que je vous ayme trop pour trahir vostre gloire.  
+Mais du plus haut des cieux dans ce divin employ  
+Laissez tomber au moins quelque regard sur moy.  
+
+    JUPITER.
+Je dois à l'univers les soins de ma sagesse,  
+Et ceux de mon amour sont tous à ma Princesse.  
+Mais avant que quitter [118] ce jardin enchanté  
+Je vay voir si Momus pour vostre seureté  
+Veille sur la Deesse, & le prier encore  
+D'éloigner ses regards de celle que j'adore.  
+Ah ! que je veux de mal Princesse à ma grandeur !  
+Helas si j'en croyois & mes yeux & mon cœur,  
+Je laisserois le Ciel sans maistre & sans conduite :  
+Ma gloire ne se peut sauver que par la fuite.  
+Vous cependant⁎, Venus, plaisirs jeunesse amour  
+Venez prendre ma place attendant mon retour.  
+
+
+## SCENE II.
+SEMELE, VENUS descend du Ciel dans son char, accompagnée de deux amours, & chante en décendant.
+
+
+    [VENUS [119].]
+Princesse on ne voit rien de charmant & de doux,  
+Qui ne se rende aupres de vous :  
+Rien ne peut égaller vostre bon-heur extreme ;  
+Un Dieu prend soin de vos plaisirs,  
+Que ne fera-t'il point pour remplir vos desirs ?  
+Il peut tout & vous ayme.  
+
+    SEMELE.
+Que de beautez ensemble & de rares merveilles  
+Enchantent à la fois mes yeux & mes oreilles !  
+C'est la mere d'amour qui descend en ce lieu,  
+Et me vient consoler de l'absence d'un Dieu.  
+
+    VENUS DANS SON CHAR.
+Digne sang de ma fille, & digne de la pomme,  
+Que je receus jadis de la faveur d'un homme [120],  
+Je viens à tant d'appas⁎ joindre un nouveau secours :  
+Jupiter est volage & je crains pour ta gloire,  
+Pour t'assurer cette grande victoire,  
+Je viens à ta beauté prester ces deux amours.  
+Ils ont ordre tous deux de t'obeïr sans cesse :  
+L'un comme estant un Dieu de flâme⁎ & de tendresse,  
+Doit d'un amour constant [121] embraser ton vainqueur ;  
+L'autre te doit armer d'un charme inévitable ;  
+L'un fait aymer, & l'autre rend aymable⁎,  
+L'un ira dans tes yeux, & l'autre dans son cœur.  
+Les deux amours descendent aupres de Semelé.
+
+
+    SEMELE.
+Ah ! que de vostre part tant d'heur⁎ & de puissance,  
+Preuve [122] bien clairement l'honneur de ma naissance :  
+
+    VENUS.
+Mais ce n'est pas assez du glorieux secours  
+Que te promettent ces amours ;  
+Tu vas voir dans ces lieux la charmante deesse,  
+La mere des amours l'immortelle jeunesse,  
+Te suivre incessamment dans cet heureux sejour⁎.  
+Elle vient, c'est assez, d'elle je me retire :  
+Je laisse aupres de toy, ma fille & c'est tout dire,  
+Je laisse aupres de toy la jeunesse & l'amour.  
+
+
+## SCENE III.
+VENUS remonte au Ciel tandis que la Jeunesse descend dans un char avec une Couronne de fleurs à la main.
+
+LA JEUNESSE, SEMELE, deux amours. [123]
+
+
+     [LA JEUNESSE.]
+Par ce mesme pouvoir, que vient de faire naistre  
+Tout ce que dans ces lieux Jupiter fait paraistre,  
+Je viens icy Princesse executer ses loix.  
+C'est par son ordre expres & par son propre choix,  
+Que ma main de ces fleurs a fait une Couronne,      
+C'est par son ordre aussi que ma main vous la donne.  
+Tout ce que sur ce teint le Ciel a mis de fleurs,  
+Et tout ce que j'y mets de brillantes couleurs,  
+Conservera tousjours ces graces naturelles  
+A l'ombre & sous l'abry de ces fleurs immortelles.  
+Le temps ce vieux tiran de toutes les beautés  
+N'eust jamais droit d'entrer dans ces lieux respectez,  
+Et s'il regne par tout sur tout ce qui respire,  
+Il perdra pres de vous ses droicts & son Empire :  
+Sans cesse malgré luy je veux suivre vos pas.  
+Vous venez rendre hommage à ses divins appas⁎,  
+Plaisirs, venez icy mes compagnons fidelles,  
+Et faites vostre Cour à la Reyne des belles.  
+Les plaisirs descendent des quatres coins du Théatre.
+
+LES PLAISIRS [124] avec la jeunesse dansent une entrée de ballet devant Semelé, & les deux amours se meslent à leur danse.
+
+
+    LA JEUNESSE *apres avoir dansé.*
+Voilà le foible essay de vos contentemens ;  
+Vous aurez dans tous les momens  
+Ou de nouveaux plaisirs ou des beautez pareilles.  
+Commandez ; vous avez un plain pouvoir sur nous :  
+Mais attendés encor de plus grandes merveilles  
+De ces puissans amours, que je laisse avec vous.  
+La Jeunesse remonte au Ciel ; suivie des Plaisirs.
+
+
+    SEMELE *aux deux amours.*
+Vous donc divins enfans, dont la seule puissance  
+Peut d'un bon-heur sans borne affermir l'esperance,  
+Pour élever ma gloire au comble de mes voeux,  
+Rendez un Dieu constant, comme il est amoureux.  
+Mais quel nouvel éclat vient augmenter ma joye ?  
+C'est Mercure, c'est luy que Jupiter m'envoye.  
+
+
+## SCENE IV.
+JUNON déguisée en Mercure, SEMELE, deux Amours.
+
+
+    JUNON.
+Ouy je viens de sa part vous tirer d'une erreur,  
+Qui vous livre aux desirs d'un infame imposteur.  
+Un amant⁎ qui se cache & qui n'oze paroistre  
+Se nomme Jupiter & se vante de l'estre ;  
+L'Enfer preste [125] à sa flâme⁎ un merveilleux pouvoir,  
+Et tout ce qu'en ces lieux ces charmes vous font voir  
+N'est qu'une illusion d'images empruntées,  
+Et le pompeux amas de beautez enchantées.  
+
+    SEMELE.
+Est-ce vous que j'entens, Mercure ? quoy Venus  
+L'Aurore, & d'autres Dieux si grands & si connus,  
+Ont ils authorisé cette lâche imposture ?  
+Contre leur témoignage en croiray-je Mercure ?  
+
+    JUNON.
+Non non n'en croyez pas le fils de Jupiter,  
+De cette douce erreur vous devez vous flatter ;  
+Mettez dans vostre esprit cette belle chimere ;  
+Dites, pour vous tromper que je trompe mon pere :  
+Puisque Europe autrefois eust dequoy le charmer,  
+Vous estes de son sang, il peut bien vous aymer ;  
+Ce n'est pas d'aujourd'huy qu'il ayme des mortelles,  
+Et l'on peut vous compter au nombre des plus belles ;  
+Tout le Ciel a-t'il rien, qu'on vous peust comparer ?  
+Jupiter à Junon vous a deu preferer :  
+Elle est Reyne du monde, elle est belle & deesse ;  
+Mais enfin elle est femme & vous estes maistresse⁎ :  
+Ce beau nom vous suffit & c'est assez pour vous  
+De vaincre une Deesse aux yeux de son espoux.  
+J'ay pitié d'un orguëil si foible & si credule,  
+Et pour destruire enfin une erreur ridicule,  
+Qui du grand Jupiter merite le courroux,  
+Fantômes decevans évanouyssez-vous.      
+Hé bien m'en croirez-vous ?  
+Le jardin enchanté disparoit & le parc revient.
+
+
+    SEMELE.
+Ah surprise mortelle.  
+J'ay pris pour Jupiter un fourbe un infidelle⁎.  
+
+    JUNON.
+Voila de vostre orguëil la vaine illusion.  
+
+    SEMELE.
+Vous me couvrez de honte & de confusion⁎.  
+Quoy cet amour d'un Dieu, cette illustre avanture,  
+Quoy tout ce que j'ay veu n'estoit qu'une imposture ?  
+Voicy ces mesmes lieux où ce perfide amant⁎  
+Sema tous les appas⁎ d'un long enchantement,  
+Ou de ce grand amas de plaisirs & de gloire,  
+A peine en reste-t'il un nombre en ma memoire.  
+Abandonnez ces lieux infidelles⁎ amours,  
+Contre un faux Jupiter ridicule secours,  
+Allez qu'à d'autres soins vostre pouvoir s'applique ;  
+Enfans d'une Venus trompeuse & chimerique.  
+
+    UN DES AMOURS.
+Nous t'alons obeïr, mais s'il faut te quitter  
+Princesse écoute au moins ce fidelle⁎ langage.  
+Cet envoyé de Jupiter  
+T'abuze par un faux message :  
+Ce feint ou vray Mercure est luy-mesme un trompeur ;  
+Sçache que ce n'est point un imposteur qui t'ayme,  
+C'est Jupiter luy-mesme.  
+Nul ne sçayt mieux que moy le secret de son cœur.  
+Les deux Amours s'envolent.
+
+
+
+## SCENE V.
+SEMELE, JUNON.
+
+
+    SEMELE.
+Quelle est cette estonnante⁎ & bizarre avanture ?  
+Et qui croiray-je enfin d'amour ou de Mercure ?  
+
+    JUNON.
+Princesse en doutez-vous ?  
+
+    SEMELE.
+Puis-je n'en pas douter ?  
+Vous estes confident & fils de Jupiter,  
+Mais peut-estre qu'amour son vainqueur & son Maistre… [126]  
+
+    JUNON.
+L'en croyez-vous si-tost qu'il se vante de l'estre ?  
+Ces yeux à qui l'amour doit le nom de vainqueur  
+N'ont garde de douter d'un si charmant honneur ;  
+Vous pourriez toutesfois, sçachant ce que vous estes  
+Prendre d'autres garands pour de telles conquestes.  
+Mais n'en croyez icy Mercure ny l'amour,  
+Et dans ces lieux suspects craignez quelque faux jour.  
+Que ce Dieu supposé si grand en apparence  
+Vous fasse un digne essay de sa toute puissance ;  
+Qu'il descende du Ciel avec la foudre en main,  
+Avec tout l'appareil du pouvoir souverain,  
+Et tel qu'il est enfin quand pour plaire à sa femme,  
+Il s'offre tout brillant de lumiere & de flâme.  
+C'est comme⁎ cet amant⁎ se doit montrer à vous [127] ;  
+
+    SEMELE.
+Ouy sans doute il me doit un spectacle si doux :  
+C'est ainsi qu'à mes yeux cet amant⁎ doit paroistre ;  
+S'il n'est pas Jupiter, il est digne de l'estre.  
+Graces à vostre advis, j'ay trouvé le moyen  
+D'éclaircir plainement son destein & le mien :  
+Mais c'est trop s'amuser⁎, cette longue retraitte  
+Peut trouver dans la Cour un mauvais interprette.  
+Cependant⁎ allez dire à vostre Jupiter,  
+Que si de son amour mon cœur s'oze flatter  
+Je ne puis consentir à perdre tant de gloire ;  
+Vostre nom vos discours m'obligent de [128] vous croire ;  
+Mais il faut que l'essay, dont vous estes l'autheur  
+Me montre clairement que j'ayme un imposteur.  
+
+
+## SCENE VI.
+
+    JUNON *seule.*
+Va ce fatal essay te coustera la vie ;  
+Tu mourras ma rivalle & ma rage assouvie…  
+Mais j'apperçoy Momus.  
+
+
+## SCENE VII.
+JUNON, MOMUS.
+
+
+    MOMUS.
+Ah ! Mercure est-ce toy ?  
+Viens-tu pour mon honneur reprendre ton employ ?  
+Tu sçais quelles raisons m'ont fait prendre ta place ;  
+Mais j'ayme mon mestier, & le tien m'embarrasse.  
+Il faut pour ce commerce⁎ un confident discret,  
+Et je suis fort mal propre à garder un secret.  
+De l'employ de censeur, je ne puis me defaire :  
+Mon metier vaut celuy de Jupiter ton pere :  
+Qu'il dispose de tout, qu'il regne dans les Cieux,  
+Qu'il gouverne à son gré les hommes & les Dieux,  
+Il a droit de tout faire, & j'ay droit de tout dire ;      
+Il est armé de foudre, & moy de la satire :  
+L'empire d'un censeur va plus loin que le sien ;  
+Il épargne les Dieux, & je n'épargne rien :  
+Quand je puis censurer selon ma fantaisie,  
+C'est un plaisir qui vaut toute nostre ambrosie⁎.  
+Toy qui fais vanité de plaire & de flatter ;  
+Toy qui trahis Junon pour servir Jupiter…  
+Mais tu resves, d'où vient un si morne silence  
+A l'orateur des Dieux ; au Dieu de l'éloquence ?  
+
+    JUNON.
+Ah ! Momus connois mieux sous ces traits supposez,  
+Celle qui se déguise à tes yeux abusez⁎ ;  
+Tu vois icy Junon sous ce nouveau visage.  
+
+    MOMUS.
+Je viens de vous laisser dans un autre équipage⁎,  
+La maistresse des Dieux se déguiser ainsi ?  
+Je blâmois Jupiter & je vous blâme aussi.      
+C'est sans doute un effet de vostre jalousie.  
+
+    JUNON.
+Toy qui sçays les transports⁎ de cette frenesie,  
+Pourquoy m'as tu fait voir en amy peu discret,  
+(Par zele ou par chagrin) cet azile secret,  
+Que Jupiter expres a fait pour sa maistresse⁎ ?  
+
+    MOMUS.
+Je ne puis rien cacher, c'est mon foible, Déesse.  
+D'ailleurs si de ce Dieu j'évante le secret,  
+C'est un juste despit qui me rend indiscret⁎ ;  
+Quand pour servir sa flâme⁎ je [129] m'erige en Mercure,  
+Je trahis son amour pour vanger mon injure,  
+
+    JUNON.
+Et j'ay sçeu profiter d'un secret éventé,  
+Faisant évanoüir le jardin enchanté,  
+Et trompant Semelé dessous cette apparence ;  
+Elle croit mes advis, les suit sans deffiance,  
+Et de ces faux conseils ignorant le danger…  
+
+    MOMUS.
+Quoy tousjours dans l'esprit le soin⁎ de vous vanger ?  
+
+    JUNON.
+Verray-je sans courroux ces amours infidelles⁎,  
+Et tout mon bien en proye à des beautez mortelles ?  
+
+    MOMUS.
+Et ne sçavez-vous pas Déesse qu'un grand Dieu  
+Ne sçauroit s'empescher d'aymer en plus d'un lieu ?  
+Qu'ayant un riche fonds de tendresse & de flâme⁎,  
+Il en peut dérober quelque part à sa femme.  
+Voulez-vous tout pour vous, tout son temps, tout ses soins ?  
+Pour estre un peu galand vous en ayme-t'il moins ?  
+Croyez-moy, laissez-luy ces ardeur⁎ passageres,      
+Cette courte inconstance, & ces flâmes⁎ legeres :  
+Les beautez de la terre avec tous leurs appas⁎  
+Amusent Jupiter, & ne l'arrestent pas.  
+
+    JUNON.
+Quoy le censeur des Dieux excuse un infidelle⁎ ?  
+
+    MOMUS.
+Je me lasse d'ouïr cette vieille querelle,  
+Ce courroux importun qui trouble tous les Cieux,  
+Et dont vous fatiguez les hommes & les Dieux.  
+
+    JUNON.
+En effet je rougis de l'ardeur⁎ qui m'emporte ;  
+Va dire à Jupiter que ma fureur est morte :  
+Mais cache luy l'estat où tu trouves Junon ;  
+Adieu je vais reprendre & mon char & mon nom.  
+
+    MOMUS.
+Je vous seray fidelle, & je sçauray me taire,  
+Elle a beau déguiser sa haine & sa colere ;  
+Elle m'en a trop dit pour cacher son courroux.  
+Allons de sa vengeance advertir son époux :      
+Sy j'offence Junon, que ne se souvient-elle  
+Que j'ay pour le secret une haine mortelle ?  < Fin du troisiesme Acte. >
+
+
+# ACTE IV.
+
+
+## SCENE I.
+La Decoration du Theatre est composée d'un Portique magnifique, & du Temple d'Hymenée.
+
+S T A N C E S.
+
+
+    SEMELE.
+Cesse de m'abuser⁎ esperance orgueilleuse ;  
+Je ne voy plus le Dieu qui regne dans mon cœur,  
+Il se cache cet imposteur,  
+Qui flattoit⁎ de mes feux⁎ l'erreur ambitieuse.  
+Helas ! faut-il cesser d'aimer en si beau lieu ?  
+Quelque choix, quelque amant⁎ que mon destin m'apreste,  
+La plus precieuse conqueste,  
+L'est bien moins que l'erreur de posseder un Dieu.  
+  
+Cher Prince, dont l'amour fut si pure & si tendre,  
+Toy que j'abandonnay par l'espoir seulement,  
+D'avoir un Dieu pour mon amant⁎,  
+Ne m'offre plus un cœur que je ne puis reprendre.  
+Apres avoir flatté⁎ l'orgueil de mes desirs.       
+De la flamme⁎ d'un Dieu que je creus veritable,  
+Apres cet espoir adorable,  
+Peut-on s'accoustumer à de moindres souspirs ?  
+  
+Je te plains, Alcmeon, & ce reste de flame⁎,  
+Te fait voir le remords d'un changement fatal :  
+Mais enfin tu sçais quel rival,  
+Ou plustost quel orgueil t'a chassé de mon ame.  
+Tu devois de ma flame⁎ attendre un prompt retour,  
+Apres avoir guery l'erreur de ma tendresse ;  
+Mais la gloire est une maistresse,       
+Qui veut estre obeye aussi-bien que l'Amour.  
+  
+Je l'entens cette gloire incessamment me dire,  
+Qu'un cœur qui s'est flatté⁎ jusques à se vanter,  
+D'enchaisner le grand Jupiter,  
+Ne doit plus d'un mortel reconnoistre l'empire.      
+Il est vray que l'Amour à demy revolté,  
+Honteux de son erreur d'un ton plus favorable,  
+Parle pour un Prince adorable,  
+Et ce tendre discours estonne⁎ ma fierté.  
+  
+Soustien ce mouvement que l'amour authorise,  
+Prince pour toy je laisse échaper des souspirs,  
+Et parmy de foibles desirs,  
+Je te preste un secours dont la gloire est surprise.  
+Menage le moment de ce tendre retour,  
+Et pour ne laisser plus balancer⁎ la victoire,  
+Ne laisse plus parler la gloire,  
+Je l'ay presque oubliée en faveur de l'amour.  
+
+
+## SCENE II.
+SEMELE, DIRCE.
+
+
+    SEMELE.
+Vien, Dircé, vien calmer le trouble de mon ame ;  
+Je consultois icy mon orgüeil & ma flame⁎,  
+Et mon cœur partagé combatoit tour à tour,  
+Tout ce que me disoit ma gloire & mon amour [130].  
+Tu sçais ce que je dois au rapport de Mercure,  
+Et d'un faux Jupiter la fatale avanture.  
+Le fidelle Alcmeon en secret dans mon cœur,  
+Me demande un amour qu'usurpe un imposteur :  
+Ce cœur tout indigné me presse de le rendre ;  
+Mais ma gloire aussi-tost semble me le deffendre,  
+Et je sens de l'orgueil l'imperieuse loy,  
+Prendre, malgré l'amour, trop de pouvoir sur moy.  
+
+    DIRCE.
+Quel est donc cét orgüeil, Madame, qu'il s'explique,  
+Luy, qui parle si fort pour un Dieu chimerique.  
+La gloire defend-elle à ce cœur abusé⁎,  
+De preferer un Prince à ce Dieu supposé ?  
+
+    SEMELE. 
+La gloire permet-elle à ma flame⁎ trompée,  
+Qui de l'espoir d'un Dieu s'estoit preoccupée,  
+D'accepter un mortel, & par ce changement,  
+Faire éclater ma honte & mon aveuglement ?  
+
+    DIRCE.
+Mais d'un scrupule vain vostre gloire est gesnée⁎ :  
+On vient d'ouvrir pour vous le temple d'Hymenée.  
+
+    SEMELE.
+Ah ! Dircé, c'est icy qu'un scrupule si fort,      
+Pour revolter mon cœur redouble son effort.  
+Quoy j'aurois dit par tout que c'est un Dieu que j'aime,  
+Et je pourrois tomber dans cette honte extreme,  
+D'advoüer que j'ay feint d'aimer en si haut lieu,  
+Ou dans la lascheté d'abandonner un Dieu ?  
+Non je diray tousjours que Jupiter m'adore.  
+Je l'ay dit, je l'ay creu, je le veux croire encore.  
+Peut-estre que Mercure avec un faux rapport…  
+Mais le Prince paroist, je tremble à son abord.  
+Glorieux sentimens, dont je suis idolatre,  
+Ramassez vostre force, on vient pour vous combattre ;  
+Ne vous desmentez point, espargnez à mon front,  
+La honte qui suivroit un changement si prompt.  
+
+
+## SCENE III.
+ALCMEON, SEMELE, DIRCE.
+
+
+    ALCMEON.
+Madame vous sçavez l'ordre de vostre pere :  
+Pardonnez, si l'ardeur⁎ d'un amour temeraire,  
+Se laissant emporter au dernier desespoir,  
+Abuse contre vous du souverain pouvoir.  
+Je me suis dis cent fois en secret, à moy-mesme,  
+Qu'il faut cesser d'aimer quand Jupiter vous aime,  
+Et que d'un foible amant⁎ le sort trop inégal,      
+Doit trembler prés d'un Dieu qui s'est fait mon rival.  
+Toutesfois je ne puis luy ceder ma Princesse,  
+Et quand trop de puissance estonne⁎ ma foiblesse,  
+A ma flame⁎ en secret je preste cét appuy,  
+Il peut tout, il est Dieu, mais j'aime plus que luy,      
+Et s'il faut à son rang ceder tout l'avantage,  
+Quiconque a plus d'amour merite davantage.  
+
+    SEMELE.
+Qui vous fait presumer qu'il aime moins que vous ?  
+Mais je veux que son cœur ne soit pas tout à nous,  
+Je veux que d'autres soins⁎ occupent sa memoire ;  
+Un regard que pour nous il desrobe à sa gloire,  
+Un penser⁎ destourné des soins⁎ de sa grandeur,  
+Un seul souspir vaut plus que toute vostre ardeur⁎.  
+
+    ALCMEON.
+Ah ! Princesse, l'amour parle un autre langage ;  
+La seule ambition touche vostre courage.  
+
+    SEMELE.
+Quoy le grand Jupiter, un si parfait amant⁎,  
+Ne peut-il d'un cœur tendre estre aimé tendrement ?  
+
+    ALCMEON.
+Peut-on l'aimer ainsi si son cœur est volage ?  
+
+    SEMELE.
+Il suffit un moment d'avoir cét avantage :  
+Ce moment glorieux respand sur l'advenir  
+L'eternelle douceur d'un si beau souvenir.  
+Je vous pers à regret, & mon cœur en souspire ;  
+Je sçay que vostre hymen⁎ me promet un Empire ;  
+Mais l'hommage d'un Dieu, fust-il d'un seul moment,  
+Vaut cent throsnes offerts des mains d'un autre amant⁎.  
+
+    ALCMEON.
+Poussez jusques au bout cette belle maxime :  
+Ce digne emportement rend le mien legitime :  
+Mesprisez le pouvoir & d'un pere & d'un Roy ;  
+Faites tout pour ce Dieu, je feray tout pour moy.  
+
+    SEMELE.     [64]
+Quoy ne voyez-vous pas [131], le Dieu qui vous menace ?  
+
+    ALCMEON.
+Je crains peu son courroux, si vous me faites grace.  
+
+    SEMELE.
+C'est vous perdre⁎, Seigneur, que de vous secourir.  
+
+    ALCMEON.
+N'importe, je ne veux que vous seule & mourir.  
+Que Jupiter esclate & me reduise en poudre,  
+Que je tombe à vos pieds, & par un coup de foudre.  
+Puis-je me reserver pour un plus digne autel ?  
+Dois-je eschaper aux coups de ce bras immortel ?  
+Pour le moins, puis qu'enfin il faut que je perisse,  
+Je puis faire à vos yeux un si grand sacrifice,  
+Que le plus grand des Dieux en doit estre jaloux.  
+
+    SEMELE.
+Que pouvez-vous pour moy ?  
+
+    ALCMEON.
+Je puis mourir pour vous,  
+Et rien ne vaut aux yeux de mon amour fidelle,  
+La gloire d'une mort dont la cause est si belle :  
+Ce Dieu pour qui je voy qu'on veut m'abandonner,  
+A-t'il du sang à perdre, une vie à donner ?  
+Et si vous demandez & son sang & sa vie,  
+Vostre Dieu pourroit-il contenter vostre envie ?  
+
+    SEMELE.
+Vivez, Prince, vivez, & peut-estre qu'un jour…  
+
+    ALCMEON.
+Et peut-estre est-ce là l'espoir de mon amour ?  
+Apres que Jupiter à vos vœux infidelle⁎,  
+Aura mis dans son cœur une flame⁎ nouvelle,  
+Peut-estre alors vos vœux ne seront que pour moy.  
+Non, non cruelle⁎, il faut suivre l'ordre du Roy ;  
+Je veux absolument achever l'hymenée⁎.  
+
+
+## SCENE IV.
+LA REINE, SEMELE, ALCMEON, DIRCE.
+
+
+    LA REINE.
+En vain aupres du Roy ma tendresse obstinée,  
+A tasché de combattre un hymen⁎ resolu ;  
+Il faut aller au temple, & l'ordre est absolu.  
+Esclave de sa foy⁎, dont il fait son idole,  
+Il croit devoir aux Dieux bien moins que sa parolle,  
+Et sans considerer un Dieu fier & jaloux,  
+Pour tenir sa promesse, il brave son courroux.  
+Mais que pretendez-vous, Alcmeon ?  
+
+    ALCMEON.
+Ah ! Madame,  
+Je connoy tout entier le mal-heur de ma flame⁎:  
+Mais dans mon desespoir contre la trahison,  
+Je ne connois ny Dieux, ny conseil, ny raison.  
+Resister contre un Dieu c'est une audace extreme ;  
+Mais enfin qu'ay-je à craindre en perdant ce que j'aime ?  
+Si je luy cedois tout, par la peur de perir,      
+Il me laisseroit vivre, & je cherche à mourir.  
+
+    LA REINE.
+Perdez, Prince, perdez cette funeste envie ;  
+Conservez pour le throsne une si belle vie ;  
+Souffrez⁎ que Jupiter…  
+
+    ALCMEON.
+Que me demandez-vous ?  
+En gardant Semelé sera-t'il son espoux ?  
+Je sçay bien que ce Dieu consacre⁎ ce qu'il aime,  
+Qu'au sang de vostre fille il s'attache luy-mesme ;  
+Mais prefererez-vous de legeres amours,  
+Aux ardeurs⁎ d'un mortel qui dureront tousjours ?  
+
+    SEMELE.
+Mais enfin que ce Dieu soit constant ou volage,  
+Je l'aime, je l'adore, en faut-il davantage ?  
+Je le repete encor', n'aimast-il qu'un moment,  
+Le plus fidelle espoux vaut moins que cét amant⁎.  
+Au moins, s'il me trahit, si je perds ma victoire,  
+Je sçay plus d'un moyen pour conserver ma gloire,  
+Et c'est trop pour vanger mes vœux humiliez,  
+De voir un seul moment Jupiter à mes pieds.  
+
+    LA REINE.
+Prince vous la voyez pleine de cette idée,  
+De l'orgüeil de son choix tellement possedée,  
+Qu'il n'est point de mortel, qu'elle veüille escouter,  
+Ny peut-estre de Dieu s'il n'est pas Jupiter.  
+Laissez à sa fierté ces biens imaginaires,  
+Ces nobles visions, ces brillantes chimeres.  
+Vous, portez autre part vos amoureux desirs,  
+L'ingratte ne veut pas l'honneur de vos souspirs ;  
+Retirez vostre cœur des mains d'une infidelle⁎.  
+
+    ALCMEON.
+Je voy dans vos conseils plus d'orgueil que de zelle.  
+Vostre fille n'agit que par vos mouvemens,  
+Elle a tout vostre cœur, & tous vos sentimens.  
+Vous croyez que le sang d'une race divine,  
+A droit de remonter jusqu'à son origine,  
+Et que sans voir l'abysme, où l'orgüeil la conduit,  
+Il est beau de tomber, quand on tombe avec bruit.  
+Le Roy…mais il s'avance.  
+
+
+## SCENE V.
+LE ROY, LA REINE, ALCMEON, SEMELE, DIRCE, Suitte.
+
+
+    LE ROY.
+Hé bien se rendra-t'elle,  
+Cette ame ambitieuse à mes loix si rebelle !  
+Croit-elle que le nom de souverain des Dieux,  
+Que ce nom éclatant ait esblouy mes yeux ?  
+Je n'examine point si c'est histoire ou fable,  
+Et si son Jupiter est feint ou veritable.  
+Quoy qu'il en soit, il peut uzer de son pouvoir ;  
+Mais non pas m'empescher de faire mon devoir.  
+Venez, Seigneur, suivez, & vous aussi Princesse ;  
+Allons dedans ce Temple accomplir ma promesse.  
+
+    SEMELE.
+Que faites-vous, Seigneur ; j'embrasse vos genoux.  
+
+    LA REINE.
+C'est tout perdre, Seigneur, & j'en tremble pour vous.  
+
+    SEMELE.
+Voulez-vous irriter le maistre du tonnerre ?  
+
+    LA REINE.
+Luy prefererez-vous un amant⁎ de la terre ?  
+
+    SEMELE.
+Vous devez à ses loix bien plus qu'à vostre foy⁎.  
+
+    LA REINE.
+Un Dieu peut dégager la parolle d'un Roy.  
+
+    SEMELE. 
+Par luy vostre grandeur doit estre sans seconde.  
+
+    LA REINE.
+Par luy Thebes sera la maistresse du monde.  
+
+    LE ROY.
+Esprits ambitieux que vous connoissez mal,  
+Le peril d'un amour qui vous sera fatal !      
+Et ne sçavez-vous pas que les Dieux infidelles⁎,  
+Au gré de leurs desirs, se joüent des mortelles,  
+Et que l'illusion d'un orgueil abusé⁎,  
+D'un mortel quelquesfois fait un Dieu supposé ?  
+Allons sans plus tarder au temple d'Hymenée,  
+De ce Prince à la vostre unir la destinée.  
+
+
+## SCENE VI.
+
+    L’ HYMENEE *paroist à l'ouverture du Temple, & dit au Roy.*
+N'attend rien de l'Hymen, ny du reste des Dieux,  
+Le Ciel a pour toy tant de haine,  
+Que je me voy forcé d'abandonner ces lieux,  
+Par le commendement d'une loy souveraine.  
+L'Hymenée s'envole & à mesme temps l'Antre de la Jalouzie paroist à la place du Temple.
+
+
+    LE ROY.
+Que vois-je, justes Dieux, quel est ce grand courroux ?  
+Et le temple, & le Dieu, tout s'enfuit devant nous.  
+Et je vois à leur place un horrible spectacle.  
+Dieux que m'annoncez-vous par cet affreux⁎ miracle !  
+
+    ALCMEON.
+Vostre perte & la mienne, il n'en faut plus douter :  
+Des coups si surprenans partent de Jupiter.  
+Je vous l'ay desja dit, c'est Jupiter luy-mesme,  
+Qui veut par ses efforts m'arracher ce que j'aime.  
+Sortons, Seigneur, sortons de ces lieux pleins d'effroy ;  
+Helas ! je ne vaux pas [132] le trouble où je vous voy.  
+De plus heureux destins attendent la Princesse.  
+
+    LE ROY.
+Je crains peu ces horreurs, & je suis sans foiblesse.  
+Jupiter à son gré, ce fameux ravisseur,  
+Peut enlever ma fille aussi-bien que ma sœur [133] ;  
+Mais que d'un Dieu tyran la fureur obstinée,  
+S'oppose incessamment à ce juste hymenée⁎,  
+Je tiendray ma parole, & j'iray jusqu'au bout.  
+
+    LA REINE.
+Vous obstinerez-vous contre un Dieu qui peut tout ?  
+Voyez encor l'enfer pour rompre vostre envie,  
+De ce fonds tenebreux vomir une furie,  
+Fuyons Seigneur.  
+
+    LE ROY.
+Fuyons, allons en d'autres lieux,  
+Achever cet hymen⁎, & chercher d'autres Dieux.  
+
+
+## SCENE VII.
+La Jalousie sort d'un abysme qui s'ouvre dans le fonds de l'Antre.
+
+LA JALOUZIE, LE ROY, LA REINE, SEMELE.
+
+
+    LA JALOUZIE.
+Arreste, pere aveugle, ou menes-tu ta fille ?  
+Ce mal-heureux hymen⁎ va perdre⁎ ta famille.  
+Au lieu de l'Amitié⁎, de l'Honneur, de la Foy,  
+Qui doivent assister à l'heureux hymenée⁎,  
+Pour unir cét amant⁎ à cette infortunée,  
+Tu n'auras d'autres Dieux que moy.  
+Je suis la noire Jalouzie,  
+Qui puis quand je le veux par un poison fatal,  
+Des plus heureux amans⁎ broüiller la fantaisie :  
+Crain pour tous deux le fleau [134] de l'amour conjugal.  
+Adieu, je vais semer mille & mille querelles,  
+Chez les amans⁎ les plus fideles.  
+La Jalouzie s'envole dans les airs.
+
+
+
+## SCENE VIII.
+LE ROY, LA REINE, & c [135].
+
+
+    LA REINE.
+Vous le voyez Seigneur tout parle contre vous.  
+
+    LE ROY.
+Non non, & tous les Dieux ne sont pas contre nous ;  
+C'est de son imposteur le dernier artifice⁎ ;  
+De ces illusions l'enfer est le complice.  
+Qu'il arme encor s'il peut le Ciel contre mon choix :      
+La parole & l'honneur sont les Dieux des grands Roys.  
+Mais il nous reste encore nostre grande Déesse.  
+C'est à toy seule enfin Pallas, que je m'adresse,  
+Pour unir ces amans⁎ preste nous tes Autels,  
+Et redouble l'ardeur⁎ de tes soins immortels.       
+Nous sommes exaucez, malgré ces noirs presages,  
+Madame je la vois au travers [136] ces nuages ;  
+La Déesse descend, & sa divinité  
+Fait plus qu'à l'ordinaire éclatter sa fierté.  
+
+
+## SCENE IX.
+JUPITER, sous l'habit de Minerve, LE ROY, LA REINE, SEMELE, ALCMEON, suite.
+
+
+    JUPITER DANS LES AIRS.
+Roy de Thebes en vain en faveur de ta fille,  
+J'ay pressé le grand Jupiter ;  
+Ce Dieu ne veut plus m'écouter,  
+Pour l'interest de ta famille :  
+Ta des-obeyssance irrite son courroux.  
+Roy, Reyne, Prince, allez, retirez-vous,  
+Dérobez la Princesse à ce triste Himenée⁎ :  
+C'est trop peu que le thrône il luy faut des Autels ;  
+La hauteur de sa destinée  
+La rend inaccessible aux soûpirs des mortels.  
+
+    LE ROY.
+Déesse, j'obeis, toute ma resistance  
+Ne sçauroit plus tenir contre vostre presence :  
+Vous pouvez tout sur nous, & vostre seule voix  
+Fait rompre sans remors la parolle des Roys.  
+
+    JUPITER.
+Sortez donc de ces lieux qu'un chacun se retire.  
+Vous Princesse arrestez, j'ay beaucoup à vous dire.  
+Jupiter descend sur le Théatre.
+
+
+    ALCMEON *à Semelé*.
+Les Dieux ont secondé vostre injuste rigueur  
+Cruelle⁎, ils devoient seuls achever mon mal-heur,  
+Et j'avois merité de perdre ce que j'aime,  
+Pour la haine des Dieux, & non pas par vous mesme.  
+
+    LA REINE.
+Joüis de ta fortune⁎ & soustiens dignement,  
+L'illustre choix d'un Dieu, qui s'est fait ton amant⁎.  
+
+
+## SCENE X.
+JUPITER, SEMELE.
+
+
+    SEMELE.
+Ah ! Deesse sans vous par un ordre severe…  
+Mais que vois-je ? est-ce vous, Minerve ou vostre pere ?  
+D'où me vient tout d'un coup un trouble si puissant ?  
+A juger des transports⁎ que mon ame ressent,  
+J'en reconnois la cause, & si je l'oze dire,  
+Ils ne sont pas de ceux qu'une Deesse inspire.  
+Ces traits me sont conneus sous ce déguisement :  
+C'est Jupiter luy-mesme, ou du moins mon amant⁎.  
+
+    JUPITER.
+Princesse pouvez-vous separer l'un de l'autre ?  
+
+    SEMELE.
+Mon amour est trop grand pour soupçonner le vostre.  
+Les surprenans effets d'un merveilleux pouvoir,  
+Cent miracles d'amour me le font assez voir.  
+Cependant cet amant⁎ n'est pas le Dieu que j'aime,  
+Et je puis opposer Jupiter à luy-mesme,  
+Puisqu'un Dieu de sa part, dont je ne puis douter,  
+M'apprend qu'un imposteur s'erige en Jupiter.  
+
+    JUPITER. 
+Momus m'a tout appris touchant cette imposture :  
+Junon vous a parlé sous l'habit de Mercure,  
+Et pour vous abuser⁎ me traittant d'imposteur…  
+
+    SEMELE.
+S'il est ainsi, pourquoy connoissant mon erreur,  
+Me laisser si long-temps dans cette incertitude,  
+Et livrer mon amour à tant d'inquietude ?  
+Helas ! si vous m'aimez, falloit-il un moment  
+Laisser ce tendre cœur douter de son amant⁎ ?  
+Loin de moy d'autres soins⁎ vous occupent sans cesse :  
+Vous ne voudriez pas pour toute ma tendresse  
+Suspendre un seul moment vostre divin employ ;  
+Quand on n'a rien à faire alors on pense à moy :  
+C'est le sort malheureux d'une foible mortelle.  
+
+    JUPITER.
+Hé ! ne voyez-vous pas, Princesse avec quel zele,  
+Je m'oppose aux desirs d'un pere & d'un amant⁎ :  
+Je fais dans vostre Temple un affreux⁎ changement ;  
+Je sousleve l'Enfer, je descens sur la terre ;  
+J'abandonne le Ciel, ma gloire & mon tonnerre,      
+Et sçachant qu'en ces lieux Minerve a tout pouvoir,  
+Sous l'habit de Minerve icy je me fais voir.  
+
+    SEMELE.
+N'avez-vous pas par tout une égalle puissance ?  
+Pourquoy vous desguiser sous une autre apparence ?  
+Jupiter doit rougir sous un nom estranger :  
+Un Dieu quand il peut tout n'a rien à ménager.  
+Ah ! vous ne l'estes pas, ou n'ozez le paroistre.  
+
+    JUPITER.
+Que faut-il faire enfin pour me faire connoistre ?  
+J'atteste du destin le pouvoir glorieux,  
+Que s'il est un moyen pour me connoistre mieux…  
+
+    SEMELE. 
+Il en est, & j'en sçay qui seront infaillibles,  
+Monstrez de Jupiter des marques plus sensibles⁎.  
+Vous devez autrement vous monstrer en ce lieu ;  
+Pour vous faire connoistre il faut paroistre en Dieu.  
+
+    JUPITER.
+Que me demandez-vous trop aveugle Princesse ?  
+Ah ! c'est là le conseil de la grande Deesse.  
+Gardez-vous d'escouter ce conseil dangereux ;  
+Contentez-vous de voir Jupiter amoureux,  
+Jupiter desarmé de ces clartez terribles⁎,  
+Qui rendent aux mortels les Dieux inaccessibles.  
+
+    SEMELE.
+Est-ce trop de le voir une fois glorieux ?  
+Ah ! ne refusez pas ce plaisir à mes yeux ;  
+Monstrez-moy mon amant⁎ avecque tous ses charmes.  
+Ah ! vous ne m'aimez point…  
+
+    JUPITER.
+Ah ! cachez-moy ces larmes.  
+Helas ! sçavez-vous bien ce que vous demandez ?  
+
+    SEMELE.
+Tout me semblera doux si vous me l'accordez ;  
+Vous me l'avez juré, Jupiter c'est tout dire.  
+
+    JUPITER.
+Je l'ay juré, Princesse, & mon cœur en souspire ;  
+Mais songez aux perils qui menacent vos jours.  
+
+    SEMELE.
+Quels perils ay-je à craindre avec vostre secours ?  
+
+    JUPITER.
+Je ne sçay si je puis vous sauver de moy-mesme ;  
+On s'oublie aisement aupres de ce qu'on aime.  
+Un rayon échappé de cette majesté,  
+De cet éclat qui sort d'une divinité,      
+Peut embrazer le monde & mettre tout en cendre.  
+
+    SEMELE. 
+Plus contre mes desirs vous vous voulez defendre,  
+Plus mon soupçon revient, plus j'ay lieu d'en douter,  
+Si l'amant⁎ que j'adore est le vray Jupiter.  
+
+    JUPITER.
+Faut-il vous le monstrer en perdant ce que j'aime ?  
+
+    SEMELE.
+Vous me faire perir, c'est douter de vous-mesme.  
+
+    JUPITER.
+Il n'est rien de si seur, croyez-en ces frayeurs ;  
+Croyez un Dieu, qui tremble, & qui verse des pleurs.  
+
+    SEMELE.
+Qu'ay-je à craindre d'un Dieu si tendre & si sensible ?  
+
+    JUPITER.
+Ce Dieu-là devenir si fier & si terrible⁎…  
+
+    SEMELE.
+Dans quelque estat qu'il soit il m'aimera tousjours.  
+
+    JUPITER.
+L'amour dans cet estat est un foible secours.  
+Je vous feray perir en dépit de moy-mesme.  
+
+    SEMELE.
+Je ne crains rien d'un Dieu qui peut tout & qui m'aime.  
+
+    JUPITER.
+Vous devez craindre tout, je vous laisse y penser.  
+
+    SEMELE.
+Mon esprit sur ce point n'a rien à balancer⁎ ;  
+Ne laissez plus languir cette douce esperance,  
+Espargnez ce tourment à mon impatience.  
+
+    JUPITER.
+Au nom de nostre amour…  
+
+    SEMELE.
+Ah ! c'est trop contester !  
+
+    JUPITER.
+Vous le voulez, Princesse, il faut vous contenter.  
+Jupiter s'envole dans le Ciel.
+
+Quatre fantosmes paroissent dans le fonds de l'Antre de la Jalouzie, & se presentent à Semelé.
+
+
+    SEMELE.
+Que vois-je juste Ciel ! quel Dieu me les envoye,  
+Ces fantômes affreux⁎ au milieu de ma joye ?  
+Les fantômes dansent, & apres avoir dansé
+
+
+    SEMELE *continuë*.
+En vain par ces horreurs on veut m'épouventer,  
+Quel qu'en soit le succés, je veux voir Jupiter.  < Fin du quatriéme Acte. >
+
+
+# ACTE V.
+
+
+## SCENE I.
+La Scene est dans le Palais Royal.
+
+SEMELE, DIRCE.
+
+
+    SEMELE.
+Que d'un superbe⁎ espoir mon ame possedée,  
+Se fait de mon amant⁎ une agreable idée !  
+Que j'auray de plaisir de le voir en ces lieux,  
+Apporter cet éclat qui fait trembler les Dieux !  
+Pour respondre à l'honneur que ce Dieu me veut faire,  
+Je voudrois des appas⁎ plus grands qu'à l'ordinaire,  
+Leur donner plus de force, & me rendre aujourd'huy  
+Plus aimable⁎ cent fois & plus digne de luy.  
+Mais quoy le jour pâlit, & le Dieu que j'adore,  
+Le puissant Jupiter ne paroist point encore !       
+Luy qui voit tout mon cœur, luy qui sçait mes desirs,  
+Qui voit pour son retour l'ardeur⁎ de mes souspirs.  
+Me faut-il si long-temps attendre sa presence ?  
+Veut-il faire mourir ce cœur d'impatience ?  
+Te diray-je, Dircé, que j'oze encore douter,  
+Si c'est un imposteur ou le vray Jupiter ?  
+
+    DIRCE. 
+Vostre doute, Madame, est assez raisonnable,  
+Et quand vous trahissez un heros adorable,  
+Peut-estre que le Ciel pour vanger vostre amant⁎…  
+
+    SEMELE.
+Ah ! cruelle⁎ veux-tu redoubler mon tourment ?  
+Mais j'aperçoy Momus, & je tremble à sa veüe.  
+
+
+## SCENE II.
+SEMELE, MOMUS, DIRCE.
+
+
+    SEMELE.
+Viens-tu de Jupiter m'annoncer la venüe,  
+Ou d'une vaine excuse amuser⁎ mon espoir ?  
+
+    MOMUS.
+Non, non, vous le verrez.  
+
+    SEMELE.
+Je brusle⁎ de le voir.  
+
+    MOMUS.
+Pour vous du haut des Cieux il s'appreste à descendre :  
+Mais un Dieu tel qu'il est peut bien se faire attendre.  
+Quoy qu'il donne à l'amour ses momens les plus doux,  
+Les soins de Jupiter ne sont pas tous pour vous.  
+Vous le voulez donc voir avec toute sa pompe ;  
+Vous vous abandonnez à l'orgueil qui vous trompe,  
+Et sans considerer le peril qui le suit,  
+Vous suivez follement l'amour, qui vous conduit.  
+Vous aimez mieux le voir d'une ardeur⁎ indiscrette⁎  
+Avec la foudre en main, qu'avec une houlette⁎ :  
+Cet ornement sied mal au grand Maistre des Dieux ;  
+Les feux & les esclairs le pareront bien mieux.  
+Ah ! que vous estes femme, & que pour estre aimée :  
+Du souverain des Dieux dont vous estes charmée,  
+Vous avez dans la teste un orgueil dangereux !  
+Voir sans bruit en secret Jupiter amoureux,  
+C'est trop peu pour l'honneur d'une amante⁎ orgueilleuse ;  
+Sa flame⁎ est une flame⁎ illustre, ambitieuse ;  
+Alors qu'un Dieu nous aime on peut estre indiscret⁎,  
+Et l'orgueil d'un tel choix ne veut pas [137] le secret.  
+En effet ce seroit perdre toute sa gloire,  
+De vaincre un si grand Dieu, sans vanter sa victoire,  
+Estre aimé selon vous n'est pas le plus grand bien :  
+Un triomphe ignoré vous le comptez pour rien.  
+Il faut s'accommoder à l'esprit d'une femme ;  
+Vous demandez du bruit, vous en aurez, Madame ;  
+Jupiter quand il veut en sçait faire beaucoup ;  
+Il tonnera pour vous, mais gardez-vous du coup.  
+
+    SEMELE.
+Qu'il esclaire, qu'il tonne au peril de ma vie ;  
+Voyons tout Jupiter, c'est toute mon envie :  
+Qu'on m'accuse d'orgueil, de trop d'ambition,  
+Jupiter qui voit tout, connoist ma passion,  
+Quoy qu'il en soit, il faut que je me satisface ;  
+Comme Jupiter m'aime, il peut me faire grace :  
+Il peut en ma faveur suspendre pour un temps,  
+Tout ce qu'ont de mortel des feux trop éclattans.  
+
+    MOMUS.
+C'est à dire forcer sa grandeur pour vous plaire,  
+Et n'apporter chez vous qu'une foudre legere,  
+Où son amour meslant ce qu'il a de plus doux,  
+Y laissera bien moins de force & de courroux.  
+Vous voulez de la pompe, & la voulez commode,  
+Et qu'à vostre foiblesse un grand Dieu s'accommode.  
+Vous beautez d'icy bas vous croyez follement  
+Qu'on doit tout immoler quand on est vostre amant⁎,  
+Et qu'on peut d'un Dieu mesme exiger sans scrupule,  
+L'effet le plus bizarre & le plus ridicule.  
+Jupiter a pour vous le cœur fort radoucy ;  
+Mais ce n'est pas un Dieu qui se gouverne ainsi.  
+Vous le verrez ce Dieu, tel qu'un Dieu doit paroistre,  
+Et tel qu'il l'a juré pour se faire connoistre.  
+
+    SEMELE.
+C'est comme je le veux, il ne me plairoit pas,  
+S'il n'apportoit chez moy tous ses divins appas⁎ :  
+Ces foudres, ces esclairs, cette pompe terrible⁎,  
+Me rendront de ce Dieu la presence sensible⁎ :  
+Je ne douteray plus, & pour ne plus douter,  
+M'embraze de ses feux le puissant Jupiter.  
+
+    MOMUS.
+Dans vostre appartement vous le pouvez attendre.  
+Ce tumulte m'apprend qu'il s'appreste à descendre.  
+
+    SEMELE.
+Ce tumulte agreable a passé dans mon cœur.  
+Grand Dieu, venez, hastez ma gloire & mon bon-heur.  
+
+
+## SCENE III.
+JUPITER descend porté par son Aigle au milieu des nuées enflammées, Cependant⁎ qu'on chante ces vers.
+
+Je descends sur la terre avec toutes mes armes,  
+Avec tout ce que j'ay de puissance & de charmes ;  
+Mais parmy tant d'éclat quel destin est le mien ?  
+Je crains pour Semelé cette pompe mortelle :  
+Ainsi dans cet estat, Amour tu le sçais bien,  
+Quand je fais tout trembler, mon cœur tremble pour elle  
+
+    *Apres que Jupiter est descendu* [138], MOMUS.
+Quoy pour une mortelle apporter icy bas  
+Cette affreuse⁎ beauté, ces dangereux appas⁎ !  
+
+    JUPITER.
+Tu ne vois qu'un essay de cét éclat terrible⁎,  
+Qui doit rendre à ses yeux tout Jupiter visible :  
+De peur d'offrir icy ma gloire à d'autres yeux,  
+J'affoiblis tous les traits du grand maistre des Dieux ;  
+Ils sont pour ma Princesse, & ce n'est qu'aupres d'elle  
+Que je veux estaller cette pompe immortelle.  
+Tu l'as veuë, & tu sçais jusqu'où va cette ardeur⁎,  
+De voir toute ma gloire, & toute ma grandeur.  
+
+    MOMUS.
+Ouy, mais quand vous venez contenter son envie,  
+Songez-vous bien au moins au peril de sa vie ?  
+
+    JUPITER.
+Je connoy le peril, il n'en faut point douter :  
+Mais Jupiter l'a dit, il faut l'executer.  
+Contre un serment lasché tout respect est frivole,  
+Et le destin n'est pas plus seur que ma parole.  
+Tout le sort des mortels est trop à negliger,  
+Quand pour eux nostre gloire est en quelque danger.  
+J'aime, mais j'aime en Dieu, sans honte & sans foiblesse,  
+La gloire fut tousjours ma premiere maistresse ;  
+Si je preste à l'amour ma gloire & mon pouvoir,  
+Je sçay sacrifier l'amour à mon devoir.  
+J'adore Semelé, le peril est extreme ;  
+Monstrant ce que je suis j'expose ce que j'aime ;  
+Sa curiosité luy va couster le jour ;  
+Je le voy, tout mon cœur tremble pour mon amour.  
+Je voudrois retenir cette foudre, & ces flames,  
+Mais quand l'amour a mis son trouble dans nos ames,  
+Tout eschappe au milieu de ces charmants transports⁎,  
+Et le dedans troublé respond mal au dehors.  
+Cependant ma parole a sur moy tant d'empire…  
+
+    MOMUS.
+En effet un grand Dieu ne doit pas se dédire⁎ :  
+Il fait de sa parole une eternelle loy,  
+Perisse tout plustost que manquer à sa foy⁎.  
+Depuis quand avez-vous ce scrupule dans l'ame ?  
+Cette fidelité qui trahit vostre flame⁎,  
+N'est-ce point un pretexte à quelque changement ?  
+Vous vantez un peu trop le pouvoir d'un serment ;  
+Je crois qu'à Semelé vous n'estes si fidelle,  
+Que par le seul espoir de vous deffaire d'elle.  
+
+    JUPITER.
+Tu respens ton venin sur tout ce que je fais ;  
+Mais voyons Semelé, contentons ses souhaits.  
+Tu vois ce que je fais en dépit de moy-mesme ;  
+Amour sauve de moy si tu peux ce que j'aime.  
+Toy garde icy mon aigle attendant mon retour.  
+
+    MOMUS.
+Je garderay vostre aigle, & vous ferez l'amour⁎.  
+
+
+## SCENE IV.
+
+    MOMUS *seul.*
+Fiez⁎-vous à ce Dieu, qui malgré sa tendresse,  
+Au respect d'un serment immole sa maistresse⁎.  
+Vantez vostre pouvoir, vous allez voir enfin,  
+Orgueilleuse beauté quel est vostre destin.  
+Durant que [139] Jupiter demeure sur la terre,  
+Au gré de mon chagrin gouvernons son tonnerre,  
+Apprenons aux mortels à nous mieux respecter,  
+Et monstrons à la terre un autre Jupiter.  
+Il monte sur l'Aigle.
+
+Mais quoy je voy desja des flames allumées,  
+Des gens espouventez, des femmes allarmées ;  
+Le palais est en feu, Jupiter dans les airs  
+S'enfuit enveloppé de flammes & d'éclairs.  
+Quelqu'un vient, en ces lieux je ne doy plus paroistre.  
+Aigle remonte au Ciel, & vole apres ton maistre.  
+
+
+## SCENE V.
+Tout le fonds du Theatre estant en feu, ALCMEON, & DIMAS, sortent des deux costez.
+
+
+    DIMAS.
+Ah ! Seigneur.  
+
+    ALCMEON.
+Ah ! Dimas, quel est nostre mal-heur ?  
+Secourons la Princesse.  
+
+    DIMAS.
+Il n'est plus temps, Seigneur.  
+
+    ALCMEON.
+Quoy desja…  
+
+    DIMAS.
+C'en est fait, une flamme cruelle,  
+A vengé vostre amour d'une amante⁎ infidelle⁎.  
+
+    ALCMEON.
+Helas ! c'est trop punir son infidelité⁎ :  
+Malgré sa trahison j'adorois sa beauté.  
+Je la plains cette ingratte, & la plaindray sans cesse,  
+Et si j'oze un moment survivre [140] ma Princesse,  
+C'est pour sçavoir quel sort, dans son appartement  
+A produit tout d'un coup ce grand embrazement.  
+Ce rival immortel, luy qui me l'a ravie,      
+N'a-t'il pû garantir une si belle vie ?  
+Quoy celle qui portoit sa flame⁎ jusqu'aux Dieux,  
+Perit donc par la flamme, & perit à leur yeux !  
+Quoy ce Dieu qui l'aimoit souffre⁎ qu'elle perisse !  
+Est-ce orgueil, jalouzie, inconstance, ou caprice ?  
+
+    DIMAS.
+Admirez & plaignez la rigueur de son sort ;  
+Ce grand Dieu, qui l'aimoit, est l'autheur de sa mort.  
+
+    ALCMEON.
+Quoy luy-mesme ?  
+
+    DIMAS.
+Ouy Seigneur, cet amant⁎ adorable,  
+Aux vœux de sa Princesse un peu trop favorable,  
+Est descendu du Ciel, pour s'offrir à ses yeux,  
+Tel qu'il est, quand il regne, & tonne dans les Cieux.  
+De ce Dieu tout en feu la fatale presence…  
+
+    ALCMEON.
+Quoy ce Dieu plein d'amour manque-t'il de puissance ?  
+Ou plustost ce grand Dieu, pour luy sauver le jour,  
+Avec tant de puissance a-t'il manqué d'amour ?  
+Mais j'apperçoy la Reine.  
+
+
+## SCENE VI.
+LA REINE, ALCMEON, DIMAS.
+
+
+    ALCMEON *continuë.*
+Ou fuyez-vous Madame ?  
+
+    LA REINE.
+Ah ! Seigneur, rien ne peut esteindre cette flamme.  
+
+    ALCMEON.
+Voila de vostre orgueil le juste chastiment :  
+Vous avez allumé ce triste embrazement.  
+Je vous le disois bien que les beautez mortelles  
+Ne trouvoient dans les Dieux que des cœurs infidelles⁎.  
+Si vous aviez voulu consentir à mes vœux,  
+Vostre fille vivroit, & je serois heureux.  
+
+    LA REINE.
+Ouy sans doute, Seigneur, & par vostre hymenée⁎  
+Elle seroit vivante, heureuse & couronnée :  
+Son orgueil l'a perduë⁎, & je l'ay trop flatté  
+Ce malheureux orgueil qu'enfante la beauté.  
+
+    ALCMEON.
+Quelque aveugle amitié⁎ que vous eussiez pour elle,  
+Je ne m'en prends qu'aux Dieux, qui la firent trop belle.  
+Jupiter qui la fit pour le charme des yeux,  
+Envioit à la terre un bien si precieux,  
+Et de tant de thresors qu'il a voulu reprendre,  
+A peine ce rival nous laisse un peu de cendre.  
+Acheve, Dieu jaloux, & destruit promptement,  
+Tout ce qui reste d'elle en ce fidelle amant⁎,  
+Et pour aneantir un si parfait ouvrage,  
+Mets en cendre ce cœur qui garde son image.  
+Mais pourquoy, quand il faut finir mon triste sort,  
+Remettre à mon rival la gloire de ma mort.  
+Pour le faire rougir de mon amour fidelle,  
+Dans cet embrazement allons mourir pour elle.  
+Mais j'apperçoy Junon, qui semble de sa main,  
+Opposer à ma mort un ordre souverain.      
+
+
+## SCENE VII.
+JUNON dans son char avec sa forme ordinaire, LA REINE, ALCMEON, DIMAS.
+
+
+    JUNON *à Alcmeon.*
+Arreste & ne perds pas le fruit de ta vengeance ;  
+Ma rivalle a bravé ma haine & ta confiance,  
+Et ma haine a fait son devoir.  
+Ce feu qui me servit contre elle,  
+Quand tu veux suivre une infidelle⁎,  
+S'esteint & ne veut pas servir ton desespoir.  
+Le fonds du Palais enflammé se change en un Palais bruslé.
+
+
+    ALCMEON.
+Gardez vostre secours trop jalouze Deesse.  
+Quel secours m'offrez-vous quand je perds ma Princesse ?  
+Ce feu, qui luy ravit la lumiere du jour,  
+A vangé vostre haine & non pas mon amour.  
+En vain vous me voulez empescher de la suivre ;  
+En vain ce feu s'esteint pour me forcer de vivre :  
+Cruelle⁎ pour finir ma peine⁎ & mon malheur,  
+Helas ! c'est bien assez de ma seule douleur.  
+
+    JUNON.
+Va mourir, Prince ingrat, indigne de ma grace.  
+Toy Reine, vante encor la gloire de ta race :  
+Dans ce palais bruslé, voy comme en son cercueil,  
+La folle ambition d'une fille trop vaine ;  
+Voy la peine⁎ de ton orgueil,  
+Et le triomphe de ma haine.  
+Junon remonte dans le Ciel.
+
+
+    LA REINE.
+Je ne connois que trop vostre divin pouvoir.  
+Triomphez de ma fille & de mon desespoir :  
+Mais pourquoy la punir du crime de sa mere ;  
+J'avois mis dans son cœur cet orgueil temeraire,  
+Et c'est par mes leçons qu'elle osa se flatter,  
+D'arracher à Junon le cœur de Jupiter.  
+Mais le Roy vient. Le feu⁎ qui brille en son visage…  
+
+
+## SCENE VIII.
+LE ROY, LA REINE, Suitte.
+
+
+    LE ROY.
+Vous voyez nos malheurs, & voilà vostre ouvrage :  
+Voila comme⁎ les Dieux sçavent faire l'amour⁎.  
+Vous me l'aviez bien dit que je verrois un jour,  
+Par la faveur d'un Dieu ma grandeur sans seconde,  
+Et que Thebes seroit la maistresse du monde.  
+C'est-là le digne sort que j'avois attendu.  
+La honte de mon sang, tout mon espoir perdu,  
+Mon throsne & mon palais embrazez par la foudre,  
+Ma fille aneantie, & son corps mis en poudre,  
+Et les justes horreurs qu'attireront sur nous  
+Ces effets esclattans du celeste courroux.  
+
+    LA REINE.
+Pardonnez ma foiblesse à cet amour de mere,  
+Qu'alluma dans mon cœur une fille si chere :  
+Toute mere est aveugle, & je seray tousjours,  
+Un exemple esclattant de leurs folles amours.  
+
+    LE ROY.
+Je vous pardonnerois cette horrible disgrace,  
+Si tout ce que j'en crains se bornoit à ma race ;  
+Mais le Prince accablé de ce dernier malheur  
+Abandonne son ame à toute sa douleur.  
+J'ay veu son desespoir, & sa funeste envie :  
+C'est par mon ordre en vain, qu'on prend soin de sa vie ;  
+L'ingratte, à qui le Ciel vient de ravir le jour,  
+Trop digne de sa peine⁎, & non de tant d'amour,  
+Entraisne par sa mort un amant⁎ trop fidelle ;  
+Il vivoit pour ma fille, il va mourir pour elle.  
+Helas ! le Roy d'Argos, ce pere infortuné,  
+Envoya dans ma cour un amant⁎ couronné,  
+Un heros plein d'honneur, de gloire & d'esperance,  
+Et je luy rends…ô Dieux ! c'est Atys qui s'avance,  
+Et je voy dans ses pleurs le mal-heur que je crains.  
+
+
+## SCENE IX.
+LE ROY, LA REINE, ATYS, Suitte, & c.
+
+
+    LE ROY.
+Hé bien le Prince est mort.  
+
+    ATYS.
+Nos soins ont esté vains.  
+Voyant que par vostre ordre, on s'obstine à le suivre ;  
+Quoy (nous dit-il) veut-on me contraindre de vivre ?  
+Quelle pitié barbare, & quel injuste effort  
+Me condamne à la vie, & m'arrache à la mort !  
+Mais que tout l'univers s'oppose à mon envie,  
+Je sçay mille chemins pour sortir de la vie.  
+Là tirant son espée, & par un coup pressé,  
+De son fer racourcy, dans son sein enfoncé,  
+Il previent⁎ mon dessein, & trompant nostre zelle,  
+Il tombe dans son sang d'une cheute mortelle.  
+Puis donnant à l'objet⁎ de ses tendres desirs,  
+Et ses derniers momens, & ses derniers souspirs,  
+Il cherche autour de luy dans ces debris funestes,  
+D'un objet⁎ trop aimé les pitoyables restes :  
+Mais son œil vainement jetté de toutes parts,  
+Sur un monceau de cendre arrestant ses regards,  
+Ne seroit-ce point vous, reliques precieuses,  
+Cendres, où j'allumeray mes flammes⁎ amoureuses ?  
+Recevez tout mon sang, avec ces tristes pleurs,  
+Que je donne à mes maux bien moins qu'à vos malheurs.  
+Voyez de vos amants⁎ quel fut le plus fidelle ;  
+L'un destruit ma Princesse, & j'expire pour elle.  
+Il fut aimé l'ingrat, & je ne l'estois pas,  
+A ces mots sa douleur acheve son trespas,  
+Et tirant de son cœur un soupir tout de flâme⁎,  
+Elle emporte avec luy le reste de son ame.  
+
+    LE ROY.
+Voila le dernier coup d'un malheur sans égal.  
+
+    LA REINE.
+Que vous avons-nous fait pour nous traitter si mal,  
+Jupiter ? Quoy mon sang pour estre trop aimable⁎,  
+Pour estre trop aimé s'est-il rendu coupable ?  
+Pourquoy d'un Prince illustre & rival & jaloux  
+Enlever la maistresse⁎, ou la choisir chez nous,  
+Si ce fatal honneur fait ma honte & ma peine⁎ ?  
+Vostre amour est-il donc pire que vostre haine ?  
+Helas ! puisqu'il produit de si cruels⁎ trespas,  
+Grand Dieu haissez nous, ou ne nous aimez pas.  
+
+    LE ROY.
+Dieux quelle surprenante & nouvelle tempeste,  
+Agite tous les airs & descend sur ma teste ?  
+Quel épais tourbillon se leve autour de nous ?  
+C'est le grand Jupiter ; est-ce grace ou courroux ?  
+Il semble que le Ciel est tombé sur la terre.      
+Peuples rendez hommage au maistre du tonnerre.  
+Le Theatre se change en un Theatre de nuages, & Jupiter paroist dans son Palais, qui s'avance insensiblement vers le milieu du Theatre, durant qu'on chante ces paroles.
+
+Ne craignez plus ce Dieu, dont l'éclat dangereux  
+Vient d'embrazer un objet⁎ plein de charmes,  
+Jupiter n'aura plus de clartez ny de feux,  
+Que pour tarir la source de vos larmes.  
+
+
+## SCENE DERNIERE.
+JUPITER, LE ROY, LA REINE, & c.
+
+
+    JUPITER.
+Roy de Thebes, je viens consoler ta douleur ;  
+Cesse de t'affliger du trespas de ta fille,  
+Et rends graces au Ciel, d'un illustre malheur,  
+Qui consacre⁎ à jamais l'honneur de ta famille.  
+Mais pour ne pas douter d'un sort si glorieux,  
+Qui la rend par sa mort plus brillante & plus belle,  
+Nuages ouvrez-vous, & monstrez à ses yeux,  
+Ce qu'a fait pour sa fille une main immortelle.  
+Semelé paroist au fonds du Theatre d'en haut dans un Ciel lumineux.
+
+Voy quel est le beau coup qui l'arrache aux mortels  
+Pour le pris d'un trespas que j'ay causé moy-mesme,  
+Je la rends immortelle & digne des autels ;  
+C'est comme⁎ Jupiter fait perir ce qu'il aime.  
+
+    LE ROY. 
+Pardonnez-moy grand Dieu cette aveugle douleur,  
+Qui du plus grand des biens se faisoit un malheur.  
+J'adore cette main puissante & favorable,  
+Qui rend les maux heureux, & la honte honorable.  
+
+    JUPITER.
+Mais ce n'est pas assez pour vanger ton honneur  
+Que les Dieux soient tesmoins d'une illustre avanture ;  
+Je veux que tout le monde apprenne ton bonheur,  
+Venez icy venez, Renommée & Mercure.  
+Ces deux divinitez paroissent.
+
+Voy ces divinitez fidelles à mes loix,  
+Tu les verras tousjours fidelles à ta gloire,  
+Par cét éclat qui suit leur immortelle voix,  
+Consacrer⁎ à jamais ton nom & ta memoire.  
+
+    LE ROY.
+Quels encens, quels presens offerts sur tes autels,  
+Payeront dignement ces honneurs immortels ?  
+
+    LA REINE.
+Ah grand Dieu pardonnez aux douleurs d'une mere  
+Un insolent murmure, un éclat temeraire ;  
+Je vous connoissois mal, & ne prevoyois pas  
+Les biens que Semelé tire de son trespas.      
+
+    JUPITER *à la Renommée & à Mercure.*
+Vous, allez publier⁎ ce que j'ay fait pour elle ;  
+Allez vanter par tout la gloire de son sort,  
+Mais avec tant d'éclat, que toute autre mortelle,  
+Porte envie aux honneurs d'une si belle mort.      
+Mercure & la Renommée s'envolent jusques au fonds de la salle.
+< FIN. >
+
+
+# Privilege du Roy.
+
+LOUIS par la grace de Dieu Roy de France & de Navarre, à nos amez & feaux Conseillers les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, & autres nos Justiciers & Officiers qu'il appartiendra, Salut ; Nostre cher & bien amé GUILLAUME DE LUYNE Marchand Libraire en nostre ville de Paris nous a fait remonstrer⁎ qu'il a recouvré⁎ un Poëme intitulé, *Les Amours de Jupiter & de Semelé Tragédie de la composition du sieur* BOYER, qu'il desireroit faire imprimer s'il avoit nos Lettres à ce necessaires : A ces causes voulant le favorablement [141] traiter, luy avons permis & octroyé, permettons & octroyons par ces presentes d'imprimer ledit Poeme, & iceluy [142] vendre & debiter durant cinq ans, pendant lesquels faisons deffences à tous autres Imprimeurs & Libraires de l'imprimer sans son consentement, ou de ceux qui auront droit de luy, à peine de [143] confiscation des exemplaires, de deux mil livres d'amende, despens, dommages & interests de l'exposant, à la charge d'en mettre deux Exemplaires en nos Bibliotheques publiques & Chasteau du Louvre, & un en celle de nostre tres-cher & feal Chevalier Chancelier de France, avant que de les exposer en vente ; comme aussi de faire registrer⁎ ces presentes au registre du Syndic de la Communauté des Libraires & Imprimeurs de nostredite ville de Paris à peine de nullité d'icelles, du contenu desquelles vous mandons faire joüir l'Exposant pleinement & paisiblement, sans permettre qu'il y soit contrevenu en aucune maniere que ce soit. Si voulons qu'en mettant au commencement ou à la fin de chacun [144] Exemplaire un Extrait des presentes, qu'elles soient tenües pour deüement signifiées, & que foy y soit adjoustée comme au present original. Mandons en outre au premier nostre Huissier ou Sergent de faire en execution tous exploits dont il sera requis, sans autre permission ; nonobstant Clameur de Haro, Chartre Normande & autres Lettres à ce contraires [145] : Car tel est nostre plaisir. DONNE à Paris le dernier jour de Janvier l'an de grace mil six cent soixante-six, & de nostre regne le vingt-troisiéme. Par le Roy en son Conseil. GUITONNEAU. Et scelé [146].
+
+Et ledit de Luyne a fait part du present Privilege à Thomas Jolly, Estienne Loyson & Gabriel Quinet, pour en jouyr suivant l'accord fait entr'eux.
+
+Registré sur le livre de la Communauté le 2. Mars 1666. Signé PIGET Syndic.
+
+Achevé d'imprimer le 15. Mars 1666.
+
+
+# Lexique
+
+Nous donnons ici la définition des mots lorsque celle-ci diffère du sens actuel. L'orthographe des mots est celle donnée par les différents dictionnaires consultés. De surcroît, nous mentionnons les numéros de lignes renvoyant à l'*Epître* ou au *Privilège du Roy*, et les numéros de vers renvoyant à la pièce elle- même.AbuserSignifie « Tromper, séduire » (Furet.).V. 545, 900, 921, 1279, 1326, 1380, 1532, 1628Voir aussi abusant au vers 1006.AffreuxUn seul sens, très fort au XVII*e*, « qui est horrible, qui fait peur, qui donne de l'effroy » (Furet.).V. 893, 1543, 1641, 1699, 1793Aimable« Qui a des qualités qui attirent l'amour, ou l'amitié de quelqu'un » (Furet.).V. 278, 693, 1034, 1057, 1709, 1992Aymable (v. 468, 470, 511, 1130).A l'envyAdverbe qui signifie « A qui mieux mieux » (Furet.).V. 296Amant, ante, ansSens plus large qu'en français moderne ; « Celuy qui aime d'une passion violente et amoureuse » (Furet.).V. 81, 159, 344, 385, 387, 397, 449, 518, 526, 557, 597, 607, 620, 627, 635, 687, 703, 766, 782, 791, 810, 831, 837, 857, 881, 885, 946, 1085, 1174, 1208, 1242, 1244, 1331, 1336, 1408, 1424, 1433, 1489, 1523, 1566, 1570, 1573, 1582, 1609, 1617, 1622, 1633, 1640, 1667, 1681, 1703, 1720, 1742, 1769, 1855, 1870, 1897, 1956, 1959, 1984Ambrosie« Boisson ou nourriture propre aux Immortels » (Furet.).V. 1273Amitié« Affection que l'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit réciproque. » (Furet.) ; ce mot a donc un sens très fort au XVII*e* puisqu'il désigne une profonde affection.V. 479, 1030, 1564, 1890Amour (Faire l')« C'est tâcher de plaire à quelque Dame, & de s'en faire aimer » (Furet.).V. 1837, 1934Amuser« Arrester quelqu'un, lui faire perdre son temps inutilement » (Furet.) , amuser prend alors le sens de retarder.V. 1248« Signifie aussi, Repaistre les gens de vaines esperances » (Furet.).V. 1724Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose » (Furet.).V. 37, 106, 185, 291, 360, 406, 473, 574, 674, 727, 1063, 1122, 1157, 1209, 1310, 1707, 1777, 1793Ardeur« Amour, passion, action vive & pleine de feu » (Rich.).V. 345, 355, 377, 384, 458, 571, 658, 698, 780, 1086, 1308, 1316, 1403, 1421, 1485, 1583, 1713, 1734, 1800Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution » (Furet.).« Signifie aussi, Fraude, déguisement, mauvaise finesse » (Furet.). Dans les deux occurrences, le mot joue sur les deux significations.V. 950, 1576Au besoin, en ce besoin« Dans une situation critique, une situation difficile, une occasion grave ; dans le péril » (Cay.).V. 606, 858Balancer« Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, & qui le font incliner de part & d'autre » (Furet.).V. 1363, 1693Brusler« Figurément, signifie être agité d'une violente passion d'amour, d'ambition, de désir, d'impatience » (Furet.)V. 368, 384, 729, 1725Bruslant au vers 780.CependantIl formait à l'origine la proposition participiale *ce pendant* signifiant « cela étant en suspens » ; l'adverbe conserve ici son sens temporel, il faut comprendre : « pendant cela, pendant ce temps-là » (Ac.94).V. 306, 1108, 1250 et la didascalie avant le vers 1786CommeSignifie « De quelle manière, de cette manière » (Ac.94).V. 1242, 1934, 2021Commerce« Fréquentation, correspondance » (Rich.).V. 1029, 1262Confondre« C'est un composé de fondre, qui ne se dit point au propre mais au figuré. Il signifie, Mesler deux ou plusieurs choses ensemble » (Furet.).V. 176, 226, 293« Se dit aussi de ceux qu'on surprend en quelque action honteuse qui les fait rougir » (Furet.).V. 5, 476« Emmêler, brouiller ses discours avec ceux d'une autre personne » (Furet.).V. 742ConfusionQui peut signifier « Honte » (Furet.).V. 806, 1205Consacrer« Mettre au rang des Dieux » (Rich.).V. 1482, 2013, 2033Coqueter« Se plaire à cageoller, ou à être cageollé, Faire l'amour en divers endroits » (Furet.).V. 679Cruel, elle« Le sens premier est très fort au XVIIe avec l'idée de sang issue de *cruo*r, *oris* en latin, c'est-à-dire « sang rouge, sang qui coule » (Dictionnaire Latin-Français de F. Gaffiot).« Se dit aussi des choses qui sont simplement fascheuses. Les amans (…) disent que leur maistresse est cruelle quand elle ne satisfait pas à tous leurs désirs » (Furet.).V. 1461, 1605, 1721« Qui n'a point de bonté, qui est dur, qui ne fait aucune grâce » (Rich.).V. 890, 1918« Il signifie aussi, Fascheux, douloureux, insupportable » (Ac.94).V. 453, 613, 1998Dédire« Signifie aussi retracter sa parole & en manquer. On le dit avec le pronom personnel » (Furet.).V. 1823Descouvrir« Signifie aussi monstrer une chose qu'on doit cacher » (Furet.) ; c'est-à-dire révéler, divulguer.V. 620, 628Desordre« Trouble causé par une passion, dérèglement » (Rich.).V. 415, 431, 473EgalementCe mot n'a qu'un seul sens au XVII*e* siècle : « d'une manière égale » (Furet.).V. 284Enfler« Se dit figurément en Morale, & signifie, Rendre plus vain, plus hardi » (Furet.).V. 224« On dit aussi *enfler son stile*, lorsqu'on sort de la manière naturelle d'escrire, & qu'on affecte de grands mots pour le rendre plus pompeux » (Furet.).V. 24Entendre« Se dit figurément en choses spirituelles, & signifie, Comprendre, penetrer dans le sens de celuy qui parle, ou qui escrit » (Rich.).V. 150Equipage« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valet, chevaux, carrosses, habits, armes » (Furet.).V. 661, 931, 1281EstonnerDu latin *attonare* qui signifie *frapper de la foudre*. « Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte » (Furet.). Le mot issu de la même famille que tonnerre, a donc un sens très fort au XVII*e*, celui d'ébranlement. V. 139, 495, 864, 1357, 1411Voir aussi estonnant au vers 1224.Fers« On appelle absolument les fers, les chaisnes, carcans et menottes qui servent à tenir les prisonniers et les esclaves (…) En ce sens, il signifie Esclavage, et se dit particulierement en matière d'amour » (Furet.), emploi pluriel pour ce sens.V. 1048, 1093Feu« Se dit poétiquement pour signifier la passion de l'amour » (Rich.). À plusieurs reprises, et notamment au vers 794, le sens propre du mot se confond avec le sens figuré. Voir en introduction notre étude sur la métaphore filée de la flamme qui prépare le dénouement de la pièce.V. 369, 410, 488, 664, 694, 794, 826, 977, 1044, 1088, 1329Fidelle« Qui est conforme à la vérité » (Ac.94), c'est-à-dire ce qui est authentique, sur.V. 1217Fier« Donner ou laisser quelque chose à un autre sur la croyance qu'on a de sa fidélité » (Furet.).V. 845, 987, 1838Fla(m) me, flâme« On dit figurément la flamme de l'amour » (Furet.), le mot s'emploie donc dans le sens d'ardeur amoureuse et appartient au vocabulaire galant.V. 80, 368, 391, 408, 460, 464, 516, 624, 657, 699, 755, 785, 793, 799, 801, 824, 954, 1127, 1176, 1292, 1304, 1309, 1339, 1342, 1346, 1367, 1382, 1412, 1459, 1471, 1743, 1827, 1864, 1981, 1988Flat(t) er« Deguiser une verité qui seroit desagrable à celuy qui y est interessé, luy donner meilleure opinion d'une chose qu'il n'en doit avoir » (Furet).V. 115, 309, 573, 964, 1329, 1338, 1351« Se dit figurément en choses spirituelles. *Flatter* sa douleur, c'est-à-dire, l'adoucir par quelques reflexions morales. *Flatter* son amour, c'est-à-dire, Se donner de belles esperances » (Furet.). Les deux sens sont assez poreux l'un à l'autre. V. 498, 1072Fortune« On appelle Fortune, ce qui arrive par hasard, ce qui est fortuit & impreveu (…) » (Furet.).Epistre l. 13 ; v. 1608FoySignifie « Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer » (Furet.).V. 1466, 1524, 1825Front« Air, attitude, en générale sans idée d'audace effrontée, d'imprudence cynique. Il se dit absolument d'un air ferme, d'une attitude intrépide » (Cay). *Sans front* : c'est-à-dire absence de retenue.V. 177Fureur« Se dit de toutes les passions qui nous font agir avec de grands emportemens » (Furet.).V. 146« Se dit aussi des violents mouvements de l'âme, des enthousiasmes qui la mettent hors de son assiette ordinaire » (Furet.), notamment en poésie.V. 29GênerLe sens premier de gesne est l'instrument de torture ou le supplice que l'on inflige. Ce terme évoque une notion de souffrance que l'on retrouve dans son sens dérivé : « Signifie plus communément, Tourmenter le corps ou l'esprit » (Rich.).V. 1386Heur« Ce mot signifie bon-heur, mais il est bas & peu usité & se prononce sans faire sentir son *h* » (Rich.).V. 1132Houlette« Baston de Berger qui a un fer par enhaut taillé en demi-cylindre. Il luy sert à lever des mottes pour jetter à ses moutons, quand ils s'escartent, & à les ramener dans le troupeau » (Furet.).V. 212, 256, 1735Hymen, himen, née« Le mot signifie mariage, mais en ce sens, il ne se dit qu'en vers, ou dans des discours de prose qui tiennent de la poésie » (Rich.).V. 548, 551, 595, 790,  853, 1431, 1462, 1464, 1555, 1561, 1563, 1565, 1594, 1886Indiscret, ette« Celuy qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait » (Furet.), c'est-à-dire agir sans retenue.V. 658, 798, 1291, 1734, 1744InfidelleSens plus large qu'en français moderne. « Celuy qui ne garde point la foy, qui n'execute point les choses qu'il a promises, ou jurées » (Furet.).V. 472, 677, 954, 1203, 1212, 1300, 1312, 1458, 1502, 1530, 1855, 1883, 1910Voir aussi infidelité aux vers 901 et 1856.Jouir« Posseder quelque chose, en estre le maistre, en avoir les fruits en la disposition » (Furet.).V. 698, 1071Licence« Congé et permission d'un supérieur. »V. 333, 452, 813« Se dit aussi de l'abus de ces permissions, qu'on étend au de-là de leur intention, ou de la liberté qu'on prend sur soy- même » (Furet.).V. 108, 167Mai(s)tresse« On le dit plus particulierement d'une fille qu'on recherche en mariage » (Furet.).V. 620, 700, 765, 804, 975, 1195, 1288, 1839, 1995Martyre« Se dit poëtiquement & frequemment de la souffrance des amans » (Furet.).V. 322Musette« Instrument à vent & à anche portatif, qui sert à faire une musique champestre » (Furet.).Didascalie p. 6, v. 211, 255Mystere« Se dit d'une chose qu'on tient caché, qu'on ne veut pas descouvrir » (Furet.). V. 496, 607, 632, 643, 720Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour » (Furet.), le mot appartient au vocabulaire galant.V. 9, 10, 161, 269, 343, 693, 695, 699, 973, 1974, 1977, 2007PartieSens judiciaire ; « Terme de Palais. Le demandeur, ou le defendeur, la demanderesse ou la defenderesse. Le mot de partie en ce sens est ordinairement feminin (…) ma partie est particulièrement interessé dans l'affaire » (Rich.). V. 215PenserSubstantif « Qui n'est usité qu'en vers & qui veut dire pensée » (Rich.).V. 1420Peine« Chatiment, punition » (Rich.).V. 1924, 1955, 1996« Douleur, tourment » (Furet.). Le sens est ici très fort.V. 796, 1002, 1918, 1996 (peut recevoir les deux acceptions du mot).Perdre« Oter l'honneur » (Rich.).V. 1563Signifie aussi  « Faire périr, tuer » (Cay.).V. 975, 981, 1440, 1888Presser« Serrer à la gorge, oppresser, angoisser, tourmenter » (Cay.).V. 453, 1091PrévenirIl est employé au sens premier de « Estre le premier à faire la même chose » (Furet.), c'est-à-dire devancer.V. 1972« Signifie aussi, Remedier aux maux qu'on a preveus, les empêcher, s'en garantir » (Furet.).V. 966Publier« Rendre public. Dire, clairement, hautement & publiquement, Divulguer » (Rich.). V. 2040Remonstrer« Monstrer de nouveau » (Furet.). Privilège l. 4Recouvré« Acquis de nouveau. Mis de nouveau en sa possession » (Rich.). Privilège l. 5Registrer« Escrire quelque chose dans un registre. On se sert plus ordinairement du mot *enregistrer*, qui signifie la mesme chose » (Furet.). Privilège l. 14Séjour« La demeure qu'on fait, ou qu'un autre fait en quelque lieu » (Rich.). V. 730, 1016, 1138Sensible« Se dit de ce qui est dans la sphere d'activité, dans la portée de nos sens, en état de faire sur eux quelques impressions » (Furet.).V. 90, 1655, 1779SoinDans le vocabulaire galant, se dit des hommages que l'on rend à la femme aimée.V. 1030« Se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (Furet.), dans ce cas, il signifie souci.V. 66, 294, 821, 1299, 1418, 1420, 1634Solide« Ce mot se dit des choses & des personnes, & veut dire ferme, constant, qui n'est point léger » (Rich.).V. 88, 267, 549SouffrirSe dit par civilité dans le sens d'accepter, permettre.V. 1090, 1480« Ne se pas opposer à une chose, y consentir tacitement » (Furet.), prend le sens de tolérer, supporter.V. 876, 941, 1866Souspirer« Signifie aussi, aspirer, pretendre à quelque chose (…) Les amants souspirent pour le cœur de leurs maîtresses » (Furet.).V. 56, 323, 488, 729Superbe« Employé comme adjectif, ce mot signifie plein d'orgueil, plein de fierté, orgueilleux, & se dit des choses et des personnes » (Rich.).V. 1, 1702Surmonter« Se dit figurément en choses morales, & signifie Vaincre, avoir l'avantage sur quelqu'un » (Furet.). V. 908Tambour de Basque« Petit cerceau de bois muni d'une peau tendue et entouré de grelots, tambourin » (Furet.).Didascalie avant v. 17Terrible« Se dit aussi par exagération, de ce qu'on veut traitter de grand, d'extraordinaire, de surprenant » (Furet.). V. 627, 881, 1662, 1687, 1778, 1794Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions » (Furet.). V. 77, 158, 1035, 1285, 1613, 1820Voir aussi transporté au vers 560.On dit aussi *« un transport »* en parlant d'une « fureur poétique » (Furet.). V. 315Traverser« Se dit figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement » (Furet.).V. 548VulgaireDésigne le « Peuple » (Rich.).V. 59Zéphir« Se dit poëtiquement des vents doux et agréables & de ceux qui viennent au printemps » (Furet.).V. 1057
+
+
+# Appendice I
+
+
+## DESSEIN DE LA TRAGEDIE DES AMOURS DE JUPITER, ET **DE SEMELÉ.**
+
+REPRESENTEE SUR LE THEATRE ROYAL DU MARAIS.
+
+inventé par le Sieur BUFFEQUIN, Machiniste.
+
+A PARIS, Chez PIERRE PROME, Ruë de la Bouclerie, Proche de la rue de la Huchette, A la Charité.
+
+M.DC.LXVI.
+
+
+## DESSEIN DE LA TRAGEDIE DES AMOURS DE JUPITER, ET DE SEMELÉ.
+
+REPRESENTEE SUR LE THEATRE ROYAL DU MARAIS.
+
+LE THEATRE FRANCOIS a fait voir des Spectacles si Magnifiques, qu'on avoit sujet de croire que toute l'invention des Poétes & des Machinistes estoit épuisée ; cependant on pretend faire connêtre dans la Representation des Amours de JUPITER & de SEMELE qu'on a découvert de nouvelles sources du Beau & du Merveilleux. L'Autheur de cét Ouvrage estant du nombre de ceux que le Roy a honoré de ses gratifications, & l'ayant destiné pour estre la marque publique de sa reconnoissance, a voulu inventer des choses toutes nouvelles dans la composition de cette Piece & dans le choix de tout ce qui peut contribuer aux ornemens de son Poëme.
+
+La Dépense extraordinaire que les Comediens ont faite pour la construction des Machines, & pour la magnificence des habits, les merveilleuses inventions du Machiniste, la composition de la Musique faite par ordre du Roy, et pas un des plus grands Genies du Royaume, l'excellence & la diversité des Airs, l'agréable Pompe des Decorations, la Rapidité des changemens, l'exacte Regularité des Perspectives, la nouveauté des Vols , qui tiennent de l'enchantement ; tout cela fera voir que rien n'est impossible à la glorieuse ambition de plaire au plus grand Roy du Monde, que sous un Regne miraculeux, tous les Arts peuvent faire des Miracles, & que ce bonheur, qui accompagne par tout cét auguste Monarque, & qui acheve les merveilles de sa conduite, & le repos de ses Peuples, se répand sur tout ce qu'on entreprend pour son plaisir, ou pour sa gloire.
+
+
+### ARGUMENT.
+
+Il n'est rien de plus connu dans la Fable que les Amours de Jupiter, & de Semelé. Ce Dieu estant amoureux de cette Princesse, fille de Cadmus Roy de Thebes, & cét amour ayant puissamment excité la jalousie de Junon, comme toutes les autres amours de Jupiter, elle décend sur Terre, & voulans perdre Semelé par ses artifices, elle l'aborde sous la forme de Berol sa Nourrice, gaigne ainsi sa confiance, & lui faisans connoistre qu'elle avoit raison de douter que son Amant fut le veritable Jupiter, elle luy persuade que le seul moyen qu'elle avoit pour s'éclaircir, c'estoit d'obliger son Amant à se faire voir avec toute la Pompe & toute la majesté du grand Maistre des Dieux, & tel qu'il est quand il rend visite à Junon. Semelé également touchée de curiosité, d'amour d'ambition, suit le Conseil de la jalouse Deesse & engage adroitement Jupiter, sans s'expliquer, à contenter ses desirs. Ce Dieu promet toutes choses, & s'estant engagé par un serment inviolable, il se fait voir malgré toute son Amour à cette Amante ambitieuse, et l'embrase tout d'un coup par ses flammes divines, qui sortent de toute sa personne.
+
+
+### PROLOGUE.
+
+A l'Ouverture du Theatre, on voit de front un amas de Rochers élevez les uns sur les autres, qui forment la Montagne de Parnasse, dont la cime est couverte de Lauriers & d'autres Arbres, & le pied estant percé à jour, laisse voir dans l'éloignement une agreable campagne. Les costez du Theatre sont occupez par des allées de Pins & de Ciprez, parmy lesquels on voit des Statuës des Roys & de Heros, de Reynes & de Heroïnes. Cette pompeuse Décoration fait connoistre assez que c'est la demeure de Melpomene, la Muse de la Tragédie, qui paroit à mesme temps avec un équipage digne de la grandeur de son employ, sa venuë est annoncée pas ces grands bruits de Clairons et de Trompettes, estant sur le Theatre elle adresse sa parole à ces Personnes heroïques, qui y sont representées, leur dit qu'elles ne seront plus désormais la matiere de ses Ouvrages, & que les vertus du Grand Louys, & la gloire de son Regne, doivent occuper toutes ses pensées.
+
+Comme elle alloit s'estendre sur ses loüanges, Thalie qui est la Muse de la Comedie, l'interrompt par un bruit agreable, qu'elle fait entendre dans les Airs, suivi d'un concert de Violons, qui joüent un Air fait expres pour marquer le caractere d'une Muse enjoüée : estant descendüe sur le Theatre, elle aborde Melpomene avec cette fierté, que luy donne sa bonne fortune, elle vante son merite, & dispute avec sa Sœur la premiere gloire du theatre, ne pouvant pas resgler par elles mémes un si grand differend, elles s'en remettent à Euterpé, qui est la Muse de la Pastorale, qu'on voit à méme temps décendre du Parnasse au son des Musettes & des Hautbois. Estant auprés de ses Sœurs, & se voyant l'arbitre de cette preferance, qu'elles disputent sans elle, elle méme se la donne, & tâche de leur persuader par ses raisons, qu'elle doit avoir le premier rang.
+
+Melpomene & Thalie appellent de son Jugement au Tribunal souverain du grand Apollon, qui descend du Parnasse sur une nüe, sa venüe est celebrée par un admirable Concert de tous les Instruments des Muses, pour faire voir qu'il en est le Maistre, demeurant au milieu des Airs, & ayant apris pas la bouche de Melpomene le differend des trois Muses, & qu'elles en faisoient le Juge : il leur promet Justice entiere, les entend chanter l'une aprés l'autre, & parceque les Vers qu'on chante sont ordinairement mal entendus, on a crû qu'il seroit à propos de les mettre icy, afin qu'on pûst mieux juger de l'excellence des Airs, par la conformité qu'ils ont avec le sens des paroles.
+
+CHANSON DE THALIE.
+Sur le Luth, ou sur la Musete,  
+Pour le Sceptre, & pour la Houlete ;  
+Chantez, mes Sœurs, chantez de toutes les façons :  
+Pour moy je n'aime qu'à médire,  
+Et la gloire de faire rire  
+Vaut bien celle de vos chansons.  
+
+CHANSON POUR MELPOMENE
+Foibles Esprits, ames vulgaires,  
+Qui des biens les plus ordinaires  
+Faites vos solides plaisirs ;  
+Ce n'est pas vous que je veux croire,  
+Des plus dignes objets occupent mes desirs ;  
+Et si je pousse des soûpirs,  
+C'est pour le Trône, & pour la Gloire.  
+
+CHANSON D'EUTERPE.
+Venez Pasteurs, venez, de vos chants les plus beaux,  
+Des plaisirs de l'Echo, du bruit de vos Ruisseaux,  
+Faites un Concert agreable :  
+Faites voir à mes Sœurs par des charmes si doux,  
+Que tout ce qu'elles ont d'aimable,  
+Ne l'est pas tant que vous.  
+
+Apollon également partagé entre des beautez pareilles, se contente de leur dire que le Theatre François va produire un Ouvrage, où la gloire de toutes trois sera également ménagée par un heureux mélange de tout ce qu'elles ont de plus agréable. Ensuite il les exhorte de vivre sans jalousie, de n'avoir d'autre ambition que celle de plaire au Grand Louys, & d'abandonner leurs interests à sa justice : il les invite enfin de venir avec luy contempler ce nouveau spectacle qu'on destine au divertissement de ce grand Monarque, & part à mesme temps avec rapidité vers le milieu du Ciel, tandis que Thalie & Euterpé sont emportées dans les airs sur des nües par un vol croisé. Melpomene demeure sur le Theatre, comme se croyant necessaire pour l'execution de la Piece qui doit parêtre, & fait changer par un ordre souverain cette Forest de Pins, & de Cyprés, ces statuës, & ce Parnasse, en deux Galeries, qui aboutissent à une Chambre aussi galante, que magnifique, qui fait la decoration du premier Acte.
+
+
+### ACTE PREMIER
+
+Quoy que toutes les Decorations de notre Piece soient riches & pompeuses, ce n'est pas là qu'on les doit estimer d'avantage, on a veu peut-estre sur d'autres Theatres plus d'or & de magnificence, mais on n'en vit jamais où il y eu tant de regularité pour l'Architecture, & tant de justesse par la perspective, si l'ordre & la proportion font la premiere beauté des Spectacles, & font le charme des yeux sçavans et délicats, nous sommes asseurez du succez de nos Machines, tout y plaist, & rien n'y blesse la veuë, parce que rien n'y blesse les regles de l'Art. C'est ce qu'on peut remarquer dans cette premiere Decoration, pour en augmenter les beautez, le Ciel de l'Aurore s'ouvre, d'où elle décend dans un Char d'or, precedée par deux Heures, qui chantent en forme de Dialogue un Air admirable, dont voicy les paroles qu'elles adressent à Semelé.
+Voicy le brillante Deesse  
+Qui vous vient annoncer la naissance du Jour.  
+Princesse un jeune cœur tout enflamé d'amour,  
+Peut il avoir tant de paresse ?  
+Le grand maistre des Dieux presse vostre réveil,  
+Il languit en secret d'un amoureux martyre.  
+Le repos vous sied mal, quand Jupiter soûpire,  
+Et l'Amour est un Dieu plus doux que le sommeil.  
+
+Cette chanson n'ayant pas éveillé la Princesse, l'Aurore, commande aux Heures de décendre au pied de son Alcove, qui est dans le fons du Theatre, & de tirer les rideaux qui la ferment, les Heures obeïssent, & font voir Semelé couchée sur un lict magnifique dans un Alcove, dont le lambris brille d'or & des couleurs les plus vives. Semelé s'estant éveillée, & se levant à mesme temps de dessus son lict, l'Aurore luy parle, & luy dit que Jupiter l'attendoit en habit de Berger dans ce parc, où ils ont accoustumé de se voir. Semelé luy promet de s'y rendre, aussi-tost qu'un plus grand jour luy permettroit de sortir du Palais avec bienseance. L'Aurore commande à une des Heures d'aller porter sa réponse à Jupiter, & à l'autre d'aller rejoindre ses Sœurs, & remonte aussi-tost par un vol extraordinaire, vers le lieu, d'où elle estoit partie, tandis que les deux Heures par un vol encore plus surprenant remontent vers le cintre du Theatre.
+
+Semelé tire de ce message de l'Aurore une pleine asseurance de l'amour de Jupiter, & Dircé sa confidente, s'interressant pour le mal-heureux Alcmeon Prince d'Argos, à qui le Roy de Thebes l'avoit promise, luy fait voir les engagemens du Roy, pour l'accomplissement de ce mariage, Semelé espere tout du pouvoir de Jupiter, & s'assure de dégager la parole du Roy par la consideration d'un amour qui luy faisoit tant d'honneur, & qu'elle estoit resoluë de luy declarer, aussi-tost qu'elle en auroit obtenu la licence de Jupiter ; en suitte elle apprend à sa confidente la naissance de cét amour, & l'impossibilité de rompre une chaine si forte & si glorieuse.
+
+Alcmeon plein de cette inquietude que donne à un Amant passionné la froideur d'une Maistresse, aborde Semelé, & luy demande la cause du changement qu'il remarquoit en elle dépuis quelque temps. Semelé qui ne sçait que répondre à de si justes reproches, est enfin obligée de luy avoüer son changement, & tache de luy faire connoistre, en luy exagerant la grandeur de son Rival, sans le nommer, que son inconstance n'a rien de honteux pour luy, ny pour elle.
+
+La venuë du Roy, accompagné de la Reyne, qui passe dans les Appartemens, oblige Semele de se retirer pour se derober à son premier courroux, & pour satisfaire aux ordres de Jupiter. Alcmeon arreste le Roy, & se plaint à luy du changement de la Princesse. Le Roy qui ne sçait à quoy l'imputer, en demande la cause à la Reyne, s'imaginant qu'une Mere qui se vantoit s'estre fille de Venus, avoit mis dans l'esprit de sa fille quelque ambition déreglée.
+
+Mais la Reyne luy ayant protesté qu'elle ignoroit le secret de Semelé, il la quite en la menaçant de son couroux, si elle ne faisoit advouër à sa fille la cause de son changement.
+
+La Reyne presse Dircé qui demeure aupres d'elle, de luy dire le secret de sa Maistresse, & voyant qu'elle se defend par crainte & par respect de luy nommer un Amant qui ne veut pas estre connu, elle se resoud de faire parler sa fille : mais au moment qu'elle commande à Dircé de la faire venir, l'Amour porté par un Aigle, décend du Ciel, pres du centre du Theatre, & commande à la Reyne de laisser à sa fille, & le secret, & ses nouvelles Amours, & part à méme temps vers le fons du Theatre, dans un Ciel qui le reçoit.
+
+La Reyne ravie de voir que les Dieux s'interressent dans la gloire de sa fille, va raporter au Roy le miracle qu'elle vient de voir, & les ordres qu'elle avoit receus de la bouche d'un Dieu.
+
+
+### A CTE SECOND.
+
+Un Parc en fait la Decoration. Des Forests & des cheutes d'Eau se mélent parmy les Arbres, dont les troncs découpez à jour, font une agreable confusion, où la veuë du Spectateur se perd agreablement. C'est dans ce lieu que Jupiter déguisé en Berger, attend Semelé. Momus esr auprés de luy, & tient la place de Mercure pour servir l'amour de Jupiter, & pour le mieux cacher à Junon. Momus qui n'est pas, comme quelques uns s'imaginent, le bouffon des Dieux ; mais un railleur chagrin, & un Chagrin indiscret reproche à ce Dieu ce grand nombre de Maistresses qu'il se fait tous les jours. Jupiter se justifie, & luy fait voir la raison qu'il a d'aymer en tant de lieux, & que le changement, qui est un si grand défaut parmy les hommes, est dans Jupiter une glorieuse necessité. Cét Entretien est interrompu par la venue de Semelé, qui voyant Jupiter déguisé en Berger, pressée d'un scrupule de tendresse & de gloire, luy reproche ce déguisement, & l'accuse de s'en servir, bien moins pour se dérober aux yeux de la jalouze Deesse, que pour cacher l'amour qu'il a pour une mortelle ; en suitte elle luy fait voir la necessité qu'il y a de publier cét amour, pour s'opposer aux ordres de son Pere, qui presse son mariage avec le Prince Alcmeon. Jupiter se rend enfin à ses raisons, & consent que tout le monde aprenne la victoire de la Princesse.
+
+Alcmeon entre, & surprenant Semelé avec Jupiter, il la prie de l'éloigner (le prenant pour un veritable Berger) pour luy dire en particulier, que le Roy vouloit absolument que leur mariage se fist avant la fin du jour : mais voyant qu'elle s'obstine à retenir ce Berger, il entre en jalouzie ; & le regardant comme un indigne Rival, il commence un entretien picquant, qui se termine en querelle ; & portant la main sur la garde de son Epée, son bras devient immobile. Le Prince prenant ce miracle pour l'effet d'un charme, & non pas l'effet d'un pouvoir divin, qu'il ne connoist pas, il traite Jupiter d'Enchanteur & d'Imposteur ; quoy que Jupiter & Semelé luy puissent dire.
+
+Ce qui le confirme dans cette erreur, c'est qu'il entend le Tonnerre gronder dans les Airs, & qu'il ne peut s'imaginer que Jupiter soit en Terre, tandis qu'il tonne dans le Ciel. La Princesse mesme en prend quelque soupçon. Jupiter qui voit que c'est Junon qui veut décendre en terre, pour se cacher aussi bien Semelé aux yeux de la Deesse, commande à une nuë de décendre. Cette nuë estant décenduë, envelope le Dieu & la Princesse, & les enleve dans les Airs.
+
+Cependant le Ciel s'ouvre, & l'on voit Junon au milieu des nuages & des tempestes, avec la Foudre à la main. Alcmeon demande son secours contre un Imposteur, & conjure les Bergers qui habitent ce Bois de luy adresser leurs prieres, pour detourner le couroux de la Deesse sur le Ravisseur de Semelé. Les Bergers à mesme temps mélant leurs voix à leurs Instrumens, chantent une hymne, & la commençant avec une Harmonie précipitée, qui marque admirablement bien le besoin & l'empressement d'une Troupe alarmée.
+Reyne des Vents, Maistresse des Tempestes,  
+Epargnez nos Champs & nos Testes,  
+Et sur ce Ravisseur tournez ce grand couroux :  
+A ce triste mortel il ravit ce qu'il ayme,  
+Vous voyez sa douleur, vous sçavez par vous méme  
+Tout ce que souffre un Cœur amoureux & jaloux.  
+
+Junon estant descenduë sur le Theatre, commanda aux nuages de disparoistre, & ayant fait aprocher le Prince, elle luy aprend que c'est Jupiter luy méme, qui enleve sa Princesse, luy offre son secours pour vanger son amour, & l'exhorte d'abandonner une infidelle Maistresse. Mais estant sur le point de luy proposer les moyens de se vanger, elle decouvre dans le trouble de son visage, & dans ses discours, des marques de sa tendresse : & croyant qu'il y auroit de l'imprudence de confier à ce Prince l'artifice qu'elle avoit conçeu pour perdre sa Rivale, elle le quitte sans s'expliquer.
+
+
+### ACTE TROISIEME.
+
+Le Jardin qui fait la decoration du Theatre, est un Jardin qu'on peut appeler enchanté, & parce qu'il produit par une puissance miraculeuse, & parce qu'on y voit des beautez qui tiennent de l'enchantement : ce lieu que Jupiter fait exprés pour estre l'azile de Semelé contre la jalouzie de Junon, est un amas irregulier, & une agreable confusion de tout ce que la plus vaste imagination peut inventer pour l'embellissement d'un Jardin. Cette suite de belles choses qui occupe les deux côtez du Theatre, ce mélange de toutes sortes de Fleurs & de Fruicts, de Vases & Fontaines & Bassins, de Statuës à l'antique, de Pyramides, d'Amours, de Tritons, de Tortuës, de Muffles réhaussez d'or, se termine à une Grote admirable, où une Nape & vingt Jets d'eau naturels achevent la beauté de ce merveilleux Spectacle.
+
+C'est dans ce Jardin que Jupiter décend avec Semelé, envelopé de cette méme nuë, qui les emporte dans les Airs au second Acte. C'est là qu'après avoir entretenu la Princesse de toutes les douceurs, & de tous les plaisirs qu'elle doit attendre d'un Dieu qui peut tout, & qui est infiniment amoureux, il la laisse pour aller donner quelques ordres dans le Ciel, qui regardent la conduite du monde : mais en prenant congé d'elle, il commande à Venus, aux Plaisirs & à l'Amour, de venir prendre sa place, & de travailler au divertissement de la Princesse, pour la consoler de son absence.
+
+Venus décend à méme temps accompagnée de deux Amours dans un Char trainé par deux Pigeons, dont les Rénes sont gouvernées par deux petits Amours. Et durant qu'elle décend elle chante ces Vers :
+Princesse on ne voit rien de charmant & de doux,  
+Qui ne se rende auprés de vous :  
+Rien ne peut égaler vostre bon heur extreme,  
+Un Dieu prend soin de vos plaisirs ;  
+Que ne fera-t'il pas pour remplir vos desirs ?  
+Il peut tout & vous ayme.  
+
+En suitte elle parle à Semelé, & lui dit, que pour luy assurer la conqueste d'un Dieu volage, elle venoit luy prester deux Amours dont l'un metroit dan ses yeux tout ce qui la peut rendre aymable, & l'autre metroit dans le Cœur de son Amant, tout ce qui le peut rendre constant & fidele. Ayant fait décendre les deux Amours auprés de Semelé, elle luy annonce la venuë de la Jeunesse, qui décend dans un Char tout semé de Rozes, & conduit par la Fortune, durant que Venus remonte dans le Ciel.
+
+La Jeunesse estant sur le Theatre, parle à Semelé, & luy offrant une Couronne de fleurs, elle promet à sa beauté un éclat, qui ne s'effacera jamais, & qui se conservera en dépit des années, à l'abry de ces fleurs immortelles ; puis elle commande aux Plaisirs qui la suivent ordinairement, de décendre auprés de Semelé. Les Plaisirs décendent aussi-tost des quatre coins du Theatre, où estant décendus, ils dansent avec la Jeunesse & les deux Amours une entrée de Balet, composée par un des meilleurs Maistres du Royaume.
+
+La Danse estant finie, la Jeunesse & les Plaisirs s'envolent tous ensemble, & estant au milieu des Airs, les Plaisirs se separent, & prenent des routes differentes, tandis que la Princesse remonte vers le Ciel.
+
+Semelé demeure sur le Theatre avec les deux Amours, charmée de tous ces miracles, qui sont autant de nouvelles asseurances de l'amour de Jupiter. Cependant Junon, que Momus avoit advertie de la retraite de Semelé, décend auprés d'elle, soubs l'habit de Mercure. L'Autheur de la Piece a crû que Junon se déguiseroit plus agreablement sous cette figure, que sous celle de la vieille Beroë nourrice de Semelé, & que ce déguisement seroit plus propre à faire reüssir son artifice. Junon abordant Semelé, luy dit qu'elle vient de la part de Jupiter, pour la tirer des mains d'un Imposteur, qui se servant des puissances de l'Enfer, exposoit à ses yeux un amas des Beautez enchantées, Semelé opposant à son témoignage celui de l'Aurore, de Venus & d'autres divinitez. Junon pour la convaincre fait evanouïr le jardin enchanté : mais parce que quelqu'un pourroit trouver étrange qu'on donne à Junon de détruire les ouvrages de Jupiter, on peut répondre que Junon ne fait pas disparoistre le Jardin en le détruisant, mais en supposant le Parc en sa Place, par une fausse image, dont elle fascine les yeux de sa Rivale. Semelé qui se rend aux miraculeux changemens, accablée de confusion, & voulant chasser d'auprés d'elle ces deux Amours qu'elle croit luy avoir ésté envoyez par une Venus aussi infidelle que son Amant, un des Amours l'advertit de la tromperie de ce faux Mercure, & l'ayant asseurée que son Amant est le veritable Jupiter, tous deux partent ensemble, & volent vers le Centre du Theatre. Semelé ne sçachant qui croire de l'Amour ou de Mercure, Junon luy conseille de ne croire ny l'un ny l'autre : mais de faire un essay de ce faux Jupiter, & de l'obliger de se montrer avec toute la Majesté, & toute la Pompe qu'il aporte chez Junon, lors qu'il veut luy plaire, & s'en faire aymer. Semelé pleine de curiosité & d'ambition, donne dans ce Piege, & quite Junon, après l'avoir remerciée du Conseil qu'elle luy avoit donné. Momus entre, & ayant rencontré Junon, il la raille, & sur son déguisement & sur sa jalouzie, & ayant condamné le dessein qu'elle avoit de perdre sa Rivale, ils se separent, Junon en faisant semblant de retourner dans le Ciel, pour dissimuler le dessein qui la retient sur la Terre, & Momus pour aller advertir Jupiter du dessein de Junon, poussé seulement par cette aversion naturelle qu'il a pour le secret.
+
+
+### **ACTE QUATRIESME.**
+
+Deux Portiques magnifiques, & le Temple d'Hymenée en font le decoration. Deux rangs de statues de bronze dont les Chapiteaux & les Bases sont enchassez d'or, & qui servent de Termes à ce pompeux Edifice, & le Dieu de l'Hymenée qui paroît au milieu du Temple, donnent à ce Spectacle quelque chose de grand & d'auguste, qui inspire la veneration aux Spectateurs.
+
+C'est dans ces Portiques que Semelé se promene, & qu'elle exprime par des Stances le trouble d'une Ame, qui voit son Amour & son Ambition trompée ; & qui sentant quelque retour de tendresse pour le fidele Alcmeon, est à mesme temps combatuë par son orgueïl, qui ne peut consentir à l'amour d'un mortel, après avoir crû estre aymée d'un Dieu.
+
+Dircé sa confidente la surprenant dans cette agitation, Semelé luy declara enfin que la gloire l'emporte sur l'amour, & que ce reste de tendresse qu'elle sent en faveur du Prince, ne sauroit resister à cette passion imperieuse.
+
+Le Prince l'ayant abordée, elle s'arme contre luy (de peur de se dementir) d'une fierté plus grande qu'à l'ordinaire. C'est dans cét entretien que le Prince explique toute sa tendresse & tout son desespoir qui se termine enfin à une forte resolution d'épouser la Princesse, & d'executer les ordres du Roy, en dépit de Jupiter.
+
+Le Reyne les interrompt, & dit à sa fille qu'elle a perdu ses prieres auprés du Roy, & qu'il falloit aller au Temple pour achever la ceremonie de son Mariage.
+
+Le Roy le suit de prés, & commande au Prince & à la Princesse de le suivre, pour aller au Temple. Mais au méme temps qu'il l'aproche, le Temple s'evanouyt, le Dieu s'envole dans les Airs, & cet auguste Spectacle se change en un Spectacle d'horreur, qui est l'antre de la jalouzie, laquelle sort bientost après du fonds du Theatre, comme d'un Abime, dans un Char traîné par des Dragons. Cette Furie parle au Roy, & après l'avoir menacé de semer dans le Camp du Prince & de la Princesse tout son venin, & toutes ses fureurs, s'ils achevoient leur Mariage, elle s'envole emportée par ses Dragons.
+
+Le Roy sans s'estonner de tous ces mauvais presages, & de toutes ces menaces, se resout de tenir sa parole au Prince : il invoque pour cela Minerve la protectrice de Thebes, & la prie de luy prêter ses faveurs & ses Autels.
+
+Jupiter déguisé en Minerve décend dans un Char traîné par des Hybous, & ayant menacé le Roy de la colere de Jupiter, s'il s'obstinoit de donner sa fille au Prince Alcmeon, il luy commande de se retirer, aussi bien qu'à la Reyne & au Prince, & ordonne à la seule Princesse de demeurer. Tout le monde s'estant retiré, il décend sur le Theatre. Semelé l'ayant reconnu pour son Amant, elle l'accuse d'imposture : & Jupiter s'estant justifié, elle luy reproche le peu de soin qu'il a de la desabuser : & voulant profiter du Conseil que Junon luy avoit donné, sous l'habit de Mercure, elle témoigne à Jupiter de nouvelles défiances, & l'engage adroitement par un serment inviolable, de luy accorder tout ce qu'elle luy demanderoit, pour s'éclaircir d'un doute qui la tourmentoit continuellement. Jupiter qui se voit pressé d'accorder à Semelé une grace, qui luy seroit mortelle, n'ayant pû resister à ses prieres ny à ses larmes, & moins encore se dispenser du serment qu'il avoit fait, se rend enfin, & remonte dans le Ciel, pour en décendre bien-tost avec tout l'éclat d'un Dieu, & tel que Semelé souhaite de le voir.
+
+
+### ACTE CINQUIESME.
+
+Le Palais du Roy de Thebes pris la place de ce Theatre horrible de l'entrée de la Jalouzie. C'est dans ce Palais que l'on voit éclater tous les traits les plus hardis & les plus reguliers de l'Architecture. Le Peintre ayant voulu judicieusement que la Politesse y surmontât la Magnificience, parce qu'on n'en sçauroit trouver sur la Terre, qui puisse répondre dignement à la Majesté d'un Dieu, & parce que d'ailleurs un Dieu amoureux & galant trouve plus de beauté dans les agréemens de l'Art, de l'Ordre, & de la Propreté, que dans une Pompe qui seroit tousjours beaucoup au dessous de celle qu'on doit à sa prudence.
+
+C'est là que Semelé attend avec impatience la venuë de Jupiter, qui est precedée de celle de Momus, qui raille fort cette princesse sur se curiosité, & sur son ambition déreglée. On entend un grand bruit dans les Airs, où Jupiter paroît dans un Ciel tout brillant d'or et de lumiere.
+
+Il en décend, porté par son Aigle, avec toute la pompe imaginable. En décendant il chante ces paroles.
+Je décends sur la Terre avec toutes mes Armes,  
+Avec tout ce que j'ay de puissance & de charmes :  
+Mais avec tant d'éclat, quel Destin est le mien ?  
+Je crains pour Semelé cette Pompe immortelle,  
+Ainsi dans cét estat, Amour tu le sçais bien ;  
+Quand je fais tout trembler, mon Cœur tremble pour elle.  
+
+Momus admirant Jupiter dans ce pompeux Equipage, & luy reprochant les soins qu'il prenoit pour plaire à une mortelle, Jupiter luy dit que tout ce qu'il voyoit n'estoit qu'un faible échantillon de ce qu'il feroit voir à Semelé, & qu'il en cachoit la plus grande partie pour ne pas exposer dans ce Palais sa gloire à d'autres yeux. Momus continuant sa raillerie, reproche à Jupiter le peril auquel il exposoit sa Maistresse, Jupiter s'en justifie par la necessité qu'il a d'accomplir sa promesse, & de tenir un serment inviolable. Et quittant Momus, il entre dans l'appartement de Semelé. Peu de temps après Momus voyant le fons du Palais tout en feu, & Jupiter s'envoler dans les Airs il monte sur l'Aigle que ce Dieu luy avoit donnée à garder, & luy mande de voler après son Maistre.
+
+Le Prince tout allarmé pour le Princesse, de ce soudain embrasement, courant pour la secourir, il rencontre Dimas son confident, qui luy apprend qu'elle avoit esté embrasée par la présence de Jupiter. Le Prince deplore son malheur, & voyant arriver la Reyne, il luy reproche son ambition, comme la principale cause de cét embrasement qui avoit fait perir sa fille ; & s'abandonnant à son desespoir, il s'alloit precipiter dans des Fleuves, lorsque Junon venant au devant de luy dans un Char, l'arreste, & commande à ce Feu de s'esteindre, & fait paroistre un Palais brûlé, à la place du Palais enflamé. Le Prince fort plein de sa douleur, & Junon après avoir triomphé de la perte de sa Rivale, aux yeux de la Reyne, s'envole dans le Ciel. Le Roy entre, & fait éclater son courroux contre la Reyne ; & comme il luy témoigne la crainte que luy donne le desespoir du Prince, quelques ordres qu'il ait donné pour le prevenir, Atys son Capitaine des Gardes entre, & luy fait le recit de sa mort.
+
+Le Roy & la Reine se plaignant de tant de disgraces, le Palais s'évanoüit, & le Theatre se couvre tout d'un coup de nuages. Ce Spectacle est dautant plus surprenant, que toute la Sale de la Comedie en est couverte, & qu'il semble que le Ciel soit tombé sur la Terre, & que les Acteurs & Spectateurs soient enfermez dans une Nuë. Pour augmenter les beautez de ce Spectacle, le Ciel s'ouvre, où Jupiter paroît dans un Palais, orné de tout l'éclat & de toute la Pompe qui peuvent representer aux mortels la demeure d'un Dieu. Ce Palais s'avance vers le milieu du Theatre, durant qu'on chante ces paroles.
+Ne craignez plus un Dieu, dont l'éclat dangereux  
+Vient d'embraser un objet plein de Charmes,  
+Jupiter n'aura plus de Clartez ny de Feux.  
+Que pour tarir la source de vos Larmes.  
+
+Jupiter pour consoler le Roy de Thebes de la perte qu'il a faite de sa fille, par la gloire qui suit sa mort, ayant commandé à des Nuages, qui couvrent le fons du Ciel, de s'ouvrir, luy fait voir Semelé avec tout l'éclat d'une Immortelle. Pour combler le Roy de joye & d'honneur, Jupiter commande à Mercure & à la Renommée de venir auprés de luy. Ces deux Divinitez paroissent aussi-tost, & ce Dieu ordonne à l'une & à l'autre d'aller publier aux deux bouts de l'Univers, la gloire de Semelé. Les deux Divinitez partent aussi-tost, & volent jusques au fond de la Sale, dans un Ciel de nuages, qui les reçoit. Tandis que le Spectateur admire ce Vol miraculeux, tout le Spectacle du Theatre disparoît. Voila des foibles Idées de nostre Piece, que nous pouvons appeler un Assemblage de tout ce que l'Art des Machines a de plus surprenant, de tout ce que la Musique a de plus sçavant & de plus agreable, & enfin de tout ce que la Poesie a de plus fort & de plus galant.< FIN. >
+
+
+# Appendice II – Tableaux des apparitions des personnages.
+
+
+## Personnages du Prologue
+ | SCENE I | SCENE II | SCENE III | SCENE IV | Tot. sur nbre. de sc. | Tot. sur 316 vers.
+MELPOMENE | 19 | 55 | 21, 5 | 26 | 4/4 | 121, 5
+THALIE |  | 48 | 10, 5 | 10 | 3/4 | 68, 5
+EUTERPE |  |  | 84 | 8 | 2/4 | 92
+APOLLON |  |  |  | 34 | 1/4 | 34
+
+
+
+
+## Personnages de la pièce
+ | ACTE I (dans l'ordre scènes 1 ; 2 ; 3 ; 4 ; 5) | ACTE II (dans l'ordre scènes 1 ; 2 ; 3 ; 4) | ACTE II (dans l'ordre scènes 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7)
+SEMELE | 10 | 75 | 38, 5 |  |  |  | 50, 5 | 15 |  | 27 | 6 | 6 | 16, 5 | 17, 5 |  | 
+JUPITER |  |  |  |  |  | 63, 5 | 23, 5 | 23, 5 |  | 72 |  |  |  |  |  | 
+ALCMEON |  |  | 42, 5 | 20 |  |  |  | 45, 5 | 40 |  |  |  |  |  |  | 
+JUNON |  |  |  |  |  |  |  |  | 38 |  |  |  | 27, 5 | 14, 5 | 2, 5 | 19
+MOMUS |  |  |  |  |  | 42, 5 |  |  |  | 1 |  |  |  |  |  | 48, 5
+LE ROI |  |  |  | 39 |  |  |  |  |  |  |  |  |  |  |  | 
+LA REINE |  |  |  | 28 | 23 |  |  |  |  |  |  |  |  |  |  | 
+DIMAS |  |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 
+DIRCE |  | 16 |  |  | 11 |  |  |  |  |  |  |  |  |  |  | 
+AURORE | 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+VENUS |  |  |  |  |  |  |  |  |  |  | 26 |  |  |  |  | 
+AMOUR |  |  |  |  | 7 |  |  |  |  |  |  |  |  |  |  | 
+AMOURS |  |  |  |  |  |  |  |  |  |  |  |  | 8 |  |  | 
+HEURES | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+JEUNESSE |  |  |  |  |  |  |  |  |  |  |  | 24 |  |  |  | 
+HYMENEE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+JALOUSIE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ATYS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CHOEURS |  |  |  |  |  |  |  |  | 6 |  |  |  |  |  |  | 
+SUITE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+ | ACTE IV (dans l'ordre scènes 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10) | ACTE V (dans l'ordre scènes 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10)
+SEMELE | 40 | 30 | 18,5 | 8 | 4 |  |  |  |  | 51 | 18 | 18,5 |  |  |  |  |  |  |  | 
+JUPITER |  |  |  |  |  |  |  |  | 12 | 37 |  |  | 38 |  |  |  |  |  |  | 24
+ALCMEON |  |  | 42,5 | 19,5 |  | 7 |  |  | 4 |  |  |  |  |  | 17,5 | 22,5 | 8 |  |  | 
+JUNON |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 12 |  |  | 
+MOMUS |  |  |  |  |  |  |  |  |  |  |  | 44,5 | 14 | 14 |  |  |  |  |  | 
+LE ROI |  |  |  |  | 17,5 | 11,5 |  | 13 | 4 |  |  |  |  |  |  |  |  | 26 | 11,5 | 6
+LA REINE |  |  |  | 19,5 | 4 | 3,5 |  | 1 | 2 |  |  |  |  |  |  | 5 | 7 | 4 | 9 | 4
+DIMAS |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 9 |  |  |  |  | 
+DIRCE |  | 6 |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  |  |  | 
+AURORE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+VENUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+AMOUR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+AMOURS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+HEURES |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+JEUNESSE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+HYMENEE |  |  |  |  |  | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+JALOUSIE |  |  |  |  |  |  | 12 |  |  |  |  |  |  |  |  |  |  |  |  | 
+ATYS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 26,5 | 
+CHOEURS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 
+SUITE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+ | Total sur 36 scènes | Total sur 1727 vers
+SEMELE | 21 | 450
+JUPITER | 8 | 293, 5
+ALCMEON | 13 | 269
+JUNON | 6 | 113, 5
+MOMUS | 6 | 164, 5
+LE ROI | 9 | 128, 5
+LA REINE | 13 | 110
+DIMAS | 4 | 10
+DIRCE | 9 | 36
+AURORE | 1 | 24
+VENUS | 1 | 26
+AMOUR | 1 | 7
+AMOURS | 2 | 8
+HEURES | 1 | 8
+JEUNESSE | 1 | 24
+HYMENEE | 1 | 4
+JALOUSIE | 1 | 12
+ATYS | 1 | 26, 5
+CHOEURS | 2 | 10
+SUITE | 6 | /
+
+
+
+
+# Appendice III - Œuvres de théâtre de Claude Boyer publiées et non publiées
+
+
+## Œuvres publiéesLa Porcie romaine
+La Sœur généreuse
+Porus ou la Générosité d'Alexandre
+Aristodème
+Tyridate
+Ulysse dans l'isle de Circé, ou Euriloche foudroyé
+Clotilde
+Frédéric
+La Mort de Démétrius, ou le rétablissement d'Alexandre, roi d'Epire
+Policrite
+Oropaste ou le faux Tonaxare
+Le grand Alexandre, ou Porus, roy des Indes
+Les Amours de Jupiter et de Sémélé
+La Feste de Vénus
+Le Jeune Marius
+Policrate
+Le Fils supposé
+Lisimène, ou la jeune bergère
+Le Comte d'Essex
+Agamemnon
+Artaxerce
+Antigone
+Jephté
+Judith
+Méduse
+
+
+
+## Œuvres de théâtre non publiéesTigrane
+Atalante
+Démarate
+Oreste
+
+
+
+# Bibliographie
+
+
+## Œuvres de référence
+
+
+### ŒuvresBibliothèque
+Le jeune Marius
+Le Comte d'Essex
+Oropaste ou le faux Tonaxare, tragédie
+Les Amours de Jupiter et de Sémélé, tragédieRecueil de tragédies à machines sous Louis XIV
+La Porcie Romaine,  tragédie
+Jephté, tragédie
+Œuvres Complètes
+Andromède, tragédie
+Caractères
+Les Métamorphoses
+
+
+
+### Ouvrages de poétiqueLa Poétique
+La Pratique du théâtre
+Art poétique
+La Poétique
+Poétique de l'introduction musicale : le statut de la musique dans le théâtre français entre 1550 et 1680
+
+
+
+⁎⁎⁎La Réponse de l'abbé Boileau au discours de réception de l'abbé Genest, successeur de Boyer à l'Académie française
+Opuscules critiques
+Recueil des Factums d'Antoine Furetière
+La Muze historique ou Recueil des lettres en vers contenant les nouvelles du temps
+Lettres en vers de La Gravette de Mayolas, Robinet, Boursault, Perdou de Subligny, Laurent et autres
+Histoire du théâtre français des origines jusqu'à présent
+Idées des spectacles anciens et nouveaux
+
+
+
+## Études
+
+
+### Approches généralesIntroduction à l'analyse des textes classiques
+Le Théâtre en France
+Le Langage dramatique
+Momus philosophe : recherches sur une figure littéraire du XVIII*e* siècle
+Lire le théâtre
+Lire le théâtre II
+
+
+
+### Ouvrages sur le théâtre au XVII*e* siècleHistoire de la littérature française au XVIIe siècle
+Morales du Grand Siècle
+Bibliographie de la littérature française du XVIIe siècle
+Le Théâtre du Marais
+Mythologie et mythe dans le théâtre français (1650-1676)
+Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+A History of French Dramatic Literature in the Seventeenth Century
+Le Théâtre et le public à Paris sous Louis XIV (1659-1715)
+Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV (1659-1715)
+Mythe et Histoire dans le Théâtre Classique : hommage à Christian Delmas
+L'Opéra italien en France avant Lulli
+La Dramaturgie classique en France
+Le Théâtre à machines en France à l'âge classique : histoire et poétique d'un genre
+
+
+
+### Ouvrages sur le genre de la tragédieLa Tragédie de l'âge classique
+Passions tragiques et règles classiques. Essai sur la tragédie française
+Poétique de la tragédie
+
+
+
+### Ouvrages sur Claude BoyerHistoire littéraire de la ville d'Albi
+
+
+
+## Instruments de travailDictionnaire
+Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
+
+
+⁎⁎⁎La Versification
+Introduction à la stylistique
+La Ponctuation
+Le Français classique. Lexique de la langue du XVIIe siècle
+Dictionnaire Latin Français
+Syntaxe française du XVIIe siècle
+Introduction à la langue française du XVIIe siècle
+
+
+-------
+
+
+[1]  Lancaster, *A History of French Dramatic Literature in the Seventeenth Century*, part III, vol. 2.
+
+[2] *Discours de réception de l'abbé Genest à l'Académie française, prononcé le 7 septembre 1698*, in *Histoire de l'Académie Française*, t. II, p. 345.
+
+[3] *La Porcie Romaine*, tragédie, 1646, Bibilothèque de l'Arsenal Rf : 5626.
+
+[4]  Chapelain, *Liste de quelques gens de lettres français vivants en 1662*, in *Opuscules critiques*, éd. A. Hunter, Paris, Droz, 1936, p. 343.
+
+[5] *P. Corneille à l'abbé de Pure, lettre de 25 avril 1662*, in Pierre Corneille, *Œuvres Complètes*, éd. G. Couton, Bibliothèque de la Pléiade, Paris, Gallimard, vol. III, 1987, p. 10.
+
+[6]  Robinet, *Lettres en vers à Madame, datée du 19 septembre 1666*, in *Les Continuateurs de Loret*, II, p. 307-308.
+
+[7]  Delmas Christian, *Recueil de tragédies à machines sous Louis XIV*, Toulouse, Centre de recherches « Idées, thèmes et formes 1580-1660 », 1985, *Présentation* du recueil.
+
+[8]  Boileau, *Art poétique*, chant IV, 1674 ; Paris, Hachette, 1959. Notons que ces quelques vers n'ont pas été écrits du vivant de Claude Boyer. Ils constituent un ajout tardif de l'auteur et ont contribué à entacher la renommée de Boyer à l'égard de la postérité.
+
+[9]  Furetière, Antoine, *Recueil des Factums d'Antoine Furetière*, éd. Charles Asselineau, Paris, Poulet-Malassis et de Boise, 1859 (2 vol.), in-16, d'après l'édition de 1694, p. 172.
+
+[10]  Épigramme attribuée à Furetière. Elle apparaît en effet dans son recueil intitulé *Second Factum*. Mesnard, *Oeuvres de Jean Racine*, IV, Paris, 1887.
+
+[11] *Le Jeune Marius*, tragédie, 1670, Bibliothèque de l'Arsenal Rf: 5644 .
+
+[12]  Jules Rolland, *op. cit.*, p. 245-283.
+
+[13] *Préface d'Artaxerce*, tragédie, Paris, chez Cardin Besogne, 1683, Bibliothèque de l'Arsenal Rf : 6479 .
+
+[14] *Jephté, tragédie*, 1692, Bibliothèque de l'Arsenal Rf. 5651 .
+
+[15] *Discours de l'abbé Boileau directeur de l'académie française à la mort de Boyer*, in *Histoire du Théâtre françois*, les Frères Parfaict, III, p. 116.
+
+[16] *Discours de l'abbé Genest successeur de Boyer à l'Académie française*, in *Histoire de l'académie française*, Pellisson et d'Olivet, II, p. 345.
+
+[17]  Frères Parfaict, *Histoire du théâtre français des origines jusqu'à présent*, t. XII, Paris, 1734-1749, 15 vol. ; Genève, Slatkine reprints, 3 vol., 1967.
+
+[18]  Delmas Christian, *op. cit.* ; *Présentation* du recueil.
+
+[19]  Concepteur de la scénographie des *Amours de Jupiter et de Sémélé*, nous n'avons que très peu de renseignements sur la vie du machiniste-décorateur. Fils de Denis Buffequin, « peintre et artificier ordinaire du Roy » , il a travaillé aussi bien au théâtre de la ville qu'au théâtre de la Cour. Dès 1660, il devient le décorateur officiel du Marais et « l'ingénieur-décorateur ordinaire du Roy » . Il doit à Torelli, responsable des machineries au Palais Royal et dans la salle du Petit-Bourbon, une partie de son savoir-faire. Il a notamment été responsable de la scénographie d'*Andromède, Ulysse dans l'isle de Circé, La conquete de la Toison d'Or* et aussi des *Amours de Vénus et d'Adonis.* C'est ensuite Beaulieu qui lui succéda au théâtre du Marais.
+
+[20] Louis de Mollier, compositeur de renom, quitta précisément la Cour en 1665 où il avait été pendant près de vingt ans joueur de luth et danseur. 
+
+[21]  Prunières Henry, *L'Opéra italien en France avant Lulli*, Paris, Honoré Champion, 1975, p. 331.
+
+[22]  Deierkauf-Holsboer S. Wilma, *Le Théâtre du Marais*, Paris, Nizet, 2 vol., 1954-1958, p. 159.
+
+[23]  Louvat Bénédicte, *Poétique de l'introduction musicale : le statut de la musique dans le théâtre français entre 1550 et 1680*, Thèse de doctorat, Université de Paris IV, 1996, p. 377-378.
+
+[24]  Mélèse Pierre, *Le Théâtre et le public à Paris sous Louis XIV (1659-1715)*, Paris, Droz, 1934.
+
+[25] *Gazette de Subligny*, v. 205-222. 
+
+[26] *La Muse Dauphine*, Paris, 1666-1667, v. 205-214.
+
+[27] *Gazette de Robinet*, v. 224-243.
+
+[28] Il s'agit de Louis de Mollier parfois désigné sous le nom de Molière.
+
+[29] *Gazette de Mayolas*, le 17 janvier 1666, v. 45-58.
+
+[30] *Gazette de Robinet*, v. 244-260.
+
+[31]  Freres Farfaict, *op. cit.*, t. XII, p. 119.
+
+[32]  La Bruyère, *Caractères*, ch. I, Paris, Le Livre de Poche, 2000, p. 143.
+
+[33]  Visentin Hélène, *Le Théâtre à machines en France à l'âge classique : histoire et poétique d'un genre*, Université de Paris-IV Sorbonne, 1999, p. 187.
+
+[34]  Aristote, *Poétique*, Paris, Seuil, 1980, p. 57.
+
+[35]  La Mesnardière, *La Poétique*, Paris, A. de Sommaville ; réimpression Genève, Slatkine, 1972, p. 418.
+
+[36]  Visentin Hélène, « La tragédie à machines ou l'art d'un théâtre bien ajusté » , in *Mythe et Histoire dans le Théâtre Classique : hommage à Christian Delmas*, Toulouse, SLC, 2002, p. 417-429.
+
+[37]  D'Aubignac, *La Pratique du théâtre* (1657) , Genève, Slatkine Reprints, 1971, p. 321.
+
+[38]  La Bruyère, *op. cit*., ch. I, p. 143.
+
+[39]  Truchet Jacques, *La Tragédie classique*, Paris, PUF, 1994, p. 148-149.
+
+[40]  Corneille Pierre, *Discours du poème dramatique*, in *Œuvres Complètes*, éd. G. Couton, Paris, Gallimard, Bibliothèque de la Pléiade, 1987. 
+
+[41]  D'Aubignac, *op. cit.*, livre IV, ch. 8, p. 322.
+
+[42]  Visentin Hélène, *op. cit.*, p. 174.
+
+[43]  Corneille, *Examen d'Andromède*, 1660.
+
+[44]  Louvat Bénédicte, *op. cit.*, p. 389. 
+
+[45]  Delmas Christian, *op. cit.*, Présentation.
+
+[46]  Ovide, *Les Métamorphoses*, livre III, v. 280-286, Paris, Folio classique, 2001.
+
+[47]  Apollodore, *Bibliothèque*, livre III, ch. 4, Besancon, 1991.
+
+[48]  Corneille, *Discours de la tragédie, op. cit.*, t. III, p. 170. 
+
+[49]  D'Aubignac, *op. cit*., livre II, ch. 6, p. 111. 
+
+[50]  Corneille, *op. cit*.
+
+[51] *Dessein de la tragédie des* Amours de Jupiter et de Sémélé, Paris, Pierre Promé, 1666, in-4° ; réimp. dans *Recueil de tragédies à machines sous Louis XIV*, présenté par Chistian Delmas, Toulouse, Centre de recherches « Idées, thèmes et formes : 1580-1660 » , 1985.
+
+[52]  Molière, *Critique de l'Ecole des Femmes*.
+
+[53]  D'Aubignac, *op. cit*., « Spectacles, machines & décorations du théâtre » , p. 490.
+
+[54]  Louvat Bénédicte, *op. cit*., p. 75.
+
+[55]  Corneille, *op. cit*.
+
+[56]  Forestier Georges, *Esthétique de l'identité dans la théâtre français (1550-1680) . Le déguisement et ses avatars*, Genève, Droz, 1988, livre III, ch. 3, p. 477-528.
+
+[57]  Corneille, *Les Trois Discours sur le poème dramatique (1660)*, in *op. cit*.
+
+[58]  D'Aubignac, *op. cit*., II, 9 ; IV, 8, p. 321-322.
+
+[59]  Scherer Jacques, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 196-213.
+
+[60]  Scherer Jacques, *ibid.*
+
+[61] Pour plus de détails, des tableaux en appendices récapitulent la répartition des vers en fonction des scènes, des actes et des personnages.
+
+[62] Nous reviendrons de façon plus approfondie sur la remise en cause de la nature divine de Jupiter au VIII, 2.
+
+[63]  Quéro Dominique, *Momus philosophe : recherches sur une figure littéraire du XVIII*e**, Suisse, Champion, 1995, p. 80.
+
+[64]  Corneille, *Andromède*, III, 2, *tragédie*, Paris, Didier, 1974.
+
+[65]  Forestier Georges, *op. cit.*, livre I, ch. 1, p. 40.
+
+[66]  Delmas Christian, « Le merveilleux dans la tragédie à machines : *Les Amours de Jupiter et de Sémélé* de Claude Boyer », in *Mythologie et mythe dans le théâtre français (1650-1676)*, Genève, Droz, 1985, p. 85.
+
+[67]  Delmas Christian, *ibid.*
+
+[68]  Visentin Hélène, *op. cit.*, p. 117.
+
+[69]  Pure Michel abbé de, *Idées des spectacles anciens et nouveaux*, Paris, Brunet, 1668 ; Genève, Minkoff Reprint, 1972, p. 184.
+
+[70]  Delmas Christian, « Théâtralité du théâtre à machines (1650-1671) », in *op. cit.*, p. 37.
+
+[71]  Traduit par Hélène Visentin, *op. cit.*, p. 12.
+
+[72] Soulignons qu'il s'agit d'une édition partagée entre Guillaume de Luynes, Thomas Jolly, Gabriel Quinet et Etienne Loyson. C'est le nom de Thomas Jolly qui apparaît sur les divers exemplaires consultables à la bibliothèque de l'Arsenal.
+
+[73] Présence d'une correction manuscrite de date indéterminée du prénom du poète, Claude, au-dessus du mot « Monsieur » .
+
+[74]  Il s'agit d'une expression qui, au XVII*e* siècle, désignait le roi Louis XIV.
+
+[75]  On voit certaines formes du présent de l'indicatif telles que *voy, croy, doy, connoy* côtoyer les formes modernes *vois, crois, dois, connois*. Vaugelas souligne dans ses *Remarques sur la langue françoise* que l'omission du *s* n'est possible qu'à la première personne de l'indicatif. Cependant, cette règle ne semble pas totalement respectée puisque le *s* est également omis à la première personne de l'impératif. Voir la note du vers 449.
+
+[76] Le Parnasse est un massif montagneux au Nord-Est de Delphes. Il était considéré comme le séjour traditionnel du dieu Apollon et des neuf Muses. C'est donc d'emblée mettre en scène le lieu privilégié de la création poétique et ainsi légitimer le sujet du Prologue, à savoir la question de la nature des trois arts qui seront réunis et représentés sur la scène. 
+
+[77]  Selon Haase, *à* marque un rapport de temps. Cependant, Vaugelas ne différencie pas l'emploi de *à mesme temps*  et  *en mesme temps* ; il est utilisé pour désigner un moment précis.
+
+[78]  Doublet poétique *avec/avecque* qui permet l'ajout d'une syllabe dans le vers. La forme *avecque* apparaît à plusieurs reprises au cours du texte : v. 551, 698, 967, 1666. 
+
+[79]  Nous signalons les diérèses sur les mots suivants : *siecle* (v. 5) , *Loüis* (v. 37, 40, *joüent* (v. 1531) . Son emploi permet de mettre en relief un mot ou une expression dans le vers et solennise l'action évoquée.
+
+[80]  Le substantif *orgueil* est orthographié de diverses manières. Nous les avons conservé ; soit *orgüeil* au vers 583, 586, 1367, 1378, 1495, 1508 ; ou soit *orguëil* aux vers 5, 46, 69, 140, 225, 578, 1198, 1204. Le reste du temps,  il est orthographié comme aujourd'hui.
+
+[81]  Coquille : nous avons rajouté un *t*- épenthétique pour une meilleure compréhension du vers. Voir aussi *manque t-il* au vers 969.
+
+[82] *Prétendre de* : d'après Haase, l'infinitif est accompagné de la préposition *de* lorsqu'il se construit avec des verbes comme  *confesser, s'imaginer,  prétendre*.
+
+[83] *Estimer* est ici employé dans le sens de « Faire l'estimation d'une chose, la priser. » (Rich.)
+
+[84] Les vers 177-178 semblent être une allusion aux lectures que Corneille, Molière et Racine faisaient dans les salons pour préparer le succès de leur pièce.
+
+[85] Dans le texte original, la didascalie se trouvait dans la marge de droite. Nous l'avons replacé au sein du texte, telle qu'elle apparaît dans les autres exemplaires de cette même édition.
+
+[86]  Le verbe *faire* est employé ici dans le sens de *susciter*.
+
+[87]  Le verbe *prétendre* était, au XVIIe, directement suivi par un complément d'objet direct contrairement à aujourd'hui où le complément est précédé d'une préposition. Comprendre : *Prétendre à*. Voir également le vers 335 : *penetrons ces lieux*. Nous rajoutons là aussi en français moderne une préposition ; il s'agit ici de *en* ou *dans*. 
+
+[88] *En usage* signifie ici *en pratique*. « Le mot d'usage en ce sens n'a point de pluriel. » (Rich.)
+
+[89] Les vers 267, 269 et 270 jouent sur la même rime. Il y a également d'autres vers qui ne respectent pas le système du distique : v. 299, 300, 301 et v. 642, 643, 645.
+
+[90]  La préposition *entre* prend quelquefois le sens de *parmi, au milieu de* au XVII*e*.
+
+[91]  L'omission du pronom régime des verbes réfléchis, en usage en ancien français, n'a pas encore disparu au XVII*e*. Comprendre : *à se prononcer en ma faveur*.
+
+[92] Ce qui signifie que les chants ne suffisent pas pour la réveiller. 
+
+[93] Se référer à la note du vers 223.
+
+[94] *Quitter la place* signifie *céder la place.*
+
+[95] *S'interesser pour* s'emploie ici dans le sens de *prendre le parti de.*
+
+[96]  Au XVII*e*, on omet déjà le *s* à l'impératif des verbes de la première conjugaison. L'usage reste incertain pour les autres verbes comme en témoigne ici la forme *crain*. Voir aussi *soustien* vers 1358, *vien* vers 1366, *Crain* vers 1571.
+
+[97] Soulignons que la présence du confident Dimas n'est pas annoncée dans la liste des personnages en début de scène. 
+
+[98] *Tenir à quelqu'un* : comprendre *être proche de*. 
+
+[99]  D'après Haase, le sens négatif de *pas* s'accentue de plus en plus au XVII*e* et finit par exprimer à lui seul la négation. De ce fait, cet emploi est très fréquent dans l'interrogation directe.
+
+[100] Europe était la fille d'Agenor, roi de Phénicie, et la sœur de Cadmus. Alors qu'elle jouait sur la plage avec ses compagnes, Jupiter, séduit par sa beauté se métamorphosa en taureau pour pouvoir la séduire. Il se prêta ainsi aux jeux et aux caresses de la jeune fille qui monta sur son dos. Il traversa alors la mer jusqu'en Crête avec elle.
+
+[101] Le mot en début de vers est effacé dans le texte de notre édition. La consultation des autres exemplaires nous a permis de rétablir le mot manquant. 
+
+[102]  Le pronom *ce* sert souvent de sujet aux verbes être et sembler ; il remplace le pronom neutre *il*. Cet emploi se rencontre encore au XVII*e*.
+
+[103] *A-t'il* : il s'agit d'une forme courante au XVII*e* où l'apostrophe remplace le tiret usité en français moderne. Voir aussi *a-t'il* vers 1192, 1453, 1863 et 1877,  *a-t'elle* vers 991,  *reste-t'il* vers 1211, *sera-t'il* vers 1481, *sera-t'elle* vers 1075, *fera-t'il* vers 1114, *ayme-t'il* vers 1307, *manque-t'il* vers 1875, *rendra-t'elle* vers 1510.
+
+[104]  Vaugelas déclare que les tournures *je me souviens* et *il me souvient* sont également bonnes, bien que la première soit d'un usage plus fréquent à la cour.
+
+[105] *Sans seconde* signifie *qui n'a point d'égale, qui est sans pareille.* Voir aussi les vers 1526 et 1936.
+
+[106]  Doublet poétique *encor/encore* qui permet l'ajout ou le retrait d'une syllabe dans le vers. Voir aussi : *encor* aux vers 488, 985, 1015, 1164, 1488, 1558, 1578, 1921. Selon Haase, il conserve au XVIIe le sens de « déjà » , que lui attribuait l'ancienne langue, n'envisageant que la fin de l'action.
+
+[107]  Comprendre : *le peuvent t-ils*.
+
+[108]  « Des mots, ou de courtes prépositions s'intercalaient souvent entre deux parties d'une locution conjonctive, emploi qui ne se rencontre plus guère aujourd'hui qu'avec les conjonctions *puisque* et *lorsque*. » (Ha.) .
+
+[109] Signifie : *rends-moi ma Princesse.* Il était encore d'usage au XVIIe d'employer le pronom personnel clitique *me* à la place de sa forme disjointe *moi.*
+
+[110] Notons la présence d'une correction manuscrite de date indéterminée qui porte sur le mot entier.
+
+[111]  Au XVII*e*, le pronom personnel réfléchi *soi* peut renvoyer à un sujet déterminé et animé au singulier ou au pluriel. Les formes toniques *lui* et *elle* concurrencent aussi la forme réfléchie.
+
+[112]  Comprendre : *Mais Prince, par quel moyen ma beauté pourrait-elle l'arrêter* ?
+
+[113]  « En ancien français, le participe passé construit avec le verbe *avoir* s'accordait avec le complément direct omis, que ce complément le précédât ou qu'il le suivît. » (Ha.) ; l'invariabilité du participe passé employé avec le verbe *avoir* n'était pas encore tout à fait respectée. L'accord restait donc fluctuant au XVII*e*. 
+
+[114]  Ce qui signifie : *se donner tout entier, totalement.*
+
+[115]  « Vaugelas conseille de placer la négation *ne pas* devant l'infinitif sans intercaler ce dernier entre *ne* et *pas* comme on le faisait au XVIe et début XVIIe. » (Ha.) . L'ordre des mots des vers 1060 et 1081 est donc considéré comme incorrect par Vaugelas.
+
+[116] Vénus est la mère des Amours, des Jeux et des Ris ; ils forment la cour de la déesse et ne la quittent jamais. 
+
+[117]  Comprendre : *Tant de biens pour toujours sont si peu vraisemblables*.
+
+[118] *Avant que + infinitif* : contrairement à l'usage actuel, la langue du XVII*e* siècle omet très souvent la préposition *de* devant l'infinitif. Cet emploi est condamné par Vaugelas. Il faudrait dire : *avant que de + infinitif*. L'emploi de *avant de* ne se généralisera qu'au XVIII*e*. 
+
+[119] En début de scène, le prénom de la déesse Vénus n'apparaît pas graphiquement avant qu'elle ne prenne la parole. Nous l'avons rajouté. Nous avons fait de même au début de la scène 3 de l'acte III pour la Jeunesse. 
+
+[120] Il s'agit d'une référence au jugement de Pâris sur le mont Ida. Rivalisant avec Junon et Minerve, Vénus fut désignée comme étant la plus belle par le fils de Priam, et obtint la pomme d'or. Rappelons que la mère de Sémélé, Hermione, est la fille de Vénus.
+
+[121]  Contrairement à aujourd'hui où *amour* est un substantif masculin au singulier et au pluriel, son genre n'était pas encore fixé à la fin du XVII*e* siècle. Au pluriel, *amour* était au feminin tandis qu'au singulier, on pouvait l'écrire au masculin comme au feminin. L'adjectif s'accordait avec lui. Nous l'avons mis au masculin. 
+
+[122]  « Quelques-uns disent *preuver*, mais ordinairement on dit & on écrit *prouver* » (Rich.) .
+
+[123] *deux amours* est écrit en minuscules car les personnages sont certainement considérés comme secondaires dans la mesure où ils accompagent Vénus. Voir aussi les didascalies aux pages 52 et 53.
+
+[124] Les Plaisirs ne sont pas annoncés en début de scène car il s'agit d'une machine qui apparaît.
+
+[125]  Le mot *preste* présentait une coquille qui a été corrigée de façon manuscrite.  Il était écrit *prestre.* Cette modification n'est pas présente dans les autres exemplaires. 
+
+[126] Nous avons ajouté des points de suspension pour suggérer l'interruption du discours par Junon. 
+
+[127]  Comprendre : *c'est de cette manière, c'est comme cela.*
+
+[128]  « La langue actuelle envisageant le complément de certains verbes comme un résultat à atteindre, le construit avec *à*, tandis que le XVII, l'envisageant comme une cause, le construisait avec *de* » (Ha.) .
+
+[129]  Le pronom personnel *je* a été remplacé de façon manuscrite par le pronom indéfini *on.* Peut-être s'agit-il d'une correction faite par l'un des possesseurs de cet exemplaire. Nous n'avons pas tenu compte de la modification. 
+
+[130]  Au XVII*e*, les règles fixant l'accord du verbe avec des sujets coordonnés diffèrent de celles d'aujourd'hui. Selon Haase, « le verbe se met souvent au singulier lorsque les sujets, noms abstraits ou concrets, sont réunis par la conjonction *et*, parce qu'ils se présentent à l'esprit comme formant un tout. » Il s'agit d'un latinisme qui consiste à accorder le verbe avec le sujet le plus proche, en particulier lorsqu'il s'agit de sujets postposés. 
+
+[131]  L'adverbe de négation *pas* a été rajouté de façon manuscrite au-dessus du pronom personnel *vous*. Nous l'avons conservé pour éviter que le vers soit faux. 
+
+[132] *Valoir* est ici employé dans le sens de *mériter.*
+
+[133] Rappelons qu'Europe est la sœur de Cadmus et la fille d'Agenor, roi de Phénicie. 
+
+[134]  Synérèse portant sur la substantif *fleau* ; le mot compte pour une syllabe. 
+
+[135] *&c* signifie *et cetera*. Ne sont donc pas mentionnés les noms des autres personnages qui étaient déjà présents dans la scène précédente. Une didascalie précise à la fin de la scène VII que la Jalouzie ne reste pas sur la scène. Voir aussi la dernière scène de la pièce.
+
+[136]  Vaugelas approuve *au travers du* et *à travers le*. Il déclare également que l'emploi de *à travers de* est tout à fait récent au XVII*e*. L'omission dans le vers de la préposition *de* répond peut-être à un souci rythmique.
+
+[137]  Comprendre : *Et l'orgueil d'un tel choix n'admet pas le secret.*
+
+[138] La didascalie précède ici le prénom du personnage pour bien insister sur le fait que Momus commence à prendre la parole seulement lorsque Jupiter est descendu de sur son aigle et qu'il se trouve sur la scène.
+
+[139]  Locution conjonctive dont l'usage était courant au XVII*e* et qui a aujourd'hui disparu.
+
+[140]  D'après Vaugelas, le verbe *survivre* régit le datif et l'accusatif. C'est à dire que *survivre quelqu'un* et *survivre à quelqu'un* sont également bons. « Il depend après cela de l'oreille, de mettre tantost l'un tantost l'autre, selon qu'elle le juge plus à propos » *(Remarques sur la langue françoise) .* Cependant, l'Académie exige qu'on mette *survivre à* lorsque ce verbe régit un nom de chose, et l'admet sans préposition lorsque le régime est un nom de personne.
+
+[141]  Au XVII*e* siècle, la place de l'adverbe est encore fluctuante.
+
+[142]   *iceluy, icelle*  : pronom démonstratif qui selon Haase est « ordinairement substantif ou pronom substantif au XVII*e*  » et qui signifie  *celui-ci, celle-ci*.  
+
+[143]  Comprendre *sous peine de* ; « La préposition *à* servait souvent à indiquer le motif dirigeant une action ou déterminant un jugement » (Ha.) .
+
+[144] *Chacun* : adjectif qui signifie *chaque*. Cet emploi est considéré comme un archaïsme et est condamné par Vaugelas.
+
+[145]  Les lettres de Chancelerie portent ordinairement cette mention. Le *Haro* est un « Terme de la Coûtume de Normandie. C'est un cri qu'on fait en Normandie, lors qu'on trouve sa partie, & qu'on la veut mener devant le Juge ; car alors elle est obligée de suivre celuy qui a crié *haro* sur elle, & l'un & l'autre demeure en prison, ou en la maison du Juge, jusqu'à ce qu'il ait prononcé sur leur different du moins par provision » (Furet.) .
+
+[146]  Coquille : nous avons corrigé la graphie du texte original où le participe était écrit *seelé*. Il s'agit de la seule occurrence où la lettre *c* est confondue avec la lettre *e*. 

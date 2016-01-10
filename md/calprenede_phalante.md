@@ -1,0 +1,3472 @@
+---
+identifier: la-calprenede_phalante  
+creator: La Calprenède, Gautier de Coste  
+date: 1642  
+title: Phalante. Tragédie.  
+---
+
+
+Phalante
+
+Tragédie
+
+De Mr de La Calprenède
+
+A Paris, Chez ANTOINE DE SOMMAVILLE, au Palais en la Galerie des Merciers, à l'Écu de France , 1642
+Édition critique établie par Camille Loiseau dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2010)
+
+
+# Introduction
+
+Au cours du xvii*e* siècle et jusqu'au xviii*e* siècle, le succès de La Calprenède ne s'est pas démenti. Ses tragédies et ses tragi-comédies, prisées par le public, louées par les plus importants personnages de l'époque ont connu de véritables succès. Quant à ses romans, ils ont apporté une reconnaissance posthume à l'écrivain dont la seule évocation du nom est devenue l'emblème du roman héroïque. Aujourd'hui, La Calprenède est devenu une personnalité incontournable de l'histoire littéraire de la première moitié du xvii*e* siècle ; aussi, doit-il être considéré dans toute son œuvre. Nous tenterons dans cette introduction de percevoir sa tragédie *Phalante* comme représentative des enjeux propres à l'auteur mais aussi comme le reflet des évolutions littéraires du début du xvii*e* siècle. Éditée en 1641, au seuil de sa maturité, un an tout juste avant qu'il ne publie son premier roman, la pièce signe un tournant dans la création de l'auteur ; *Phalante* est aussi un témoin des goûts de l'époque, de l'émergence de nouveaux genres littéraires, de la remise en question de certains autres et de la quête d'un idéal littéraire qui, par la *mimesis*, cherche à développer un art singulier.
+
+
+# Biographie de La Calprenède
+
+
+## Ses origines périgourdines
+
+Gautier de Costes est né au château de Toulgou à Salignac en 1609, au sein d'une famille de magistrats sarladais. Salignac se situe à quelques kilomètres de Sarlat, au sud-est du Périgord. Ses parents, Pierre de Costes et Catherine du Verdier-Genouillac eurent dix enfants dont Gautier était l'aîné. Parmi eux, ils eurent deux filles prénommées toutes deux Catherine ; Jean de Costes, capitaine d'une compagnie d'infanterie et mort à vingt-huit ans ; Nicolas de Costes auteur d'un traité de six cent quatorze pages sur les devoirs du bon prêtre. On sait peu de choses de l'enfance de Gautier si ce n'est qu'il était suivi par un précepteur et fut inscrit par ses parents dès l'âge de trois ans à la confrérie du Très Saint Sacrement. Cette confrérie devait préserver l'Église catholique pour éviter le retour des guerres de religions. Ses parents, pourtant protestants, ont été les parmi premiers membres et Pierre, le père de Gautier, en fut nommé « baille » en 1620. La famille de Costes, fortement ancrée dans le Périgord noir, a laissé plusieurs traces de son passage dont certaines remarquables. Antoine de Coste de La Calprenède, le cousin de Gautier et conseiller au Présidial de Sarlat fit construire en 1653, à l'emplacement d'une demeure noble détruite lors d'un épisode de la Fronde à Eyrignac, un manoir dont les jardins sont aujourd'hui classés Monument historique. Si l'on ne peut rencontrer que des ruines du château de Toulgou où est né notre auteur, on peut, à Salignac-Eyvigues, admirer les jardins du Manoir d'Eyrignac. Le petit-fils d'Antoine de Costes avait commencé à créer ces jardins qui ont été augmentés et modifiés jusqu'au xix*e* siècle. Détruits par un incendie, ils ont été replantés selon les goûts du xvii*e* siècle par les descendants de la famille de La Calprenède. Cette famille habite toujours le manoir dont les jardins sont ouverts au public mais le nom de La Calprenède a aujourd'hui disparu. C'est dans une des salles à manger de ce manoir que l'on peut admirer le seul portrait qui nous reste de Gautier de Costes [1]. Si une partie de la famille de La Calprenède est restée plusieurs générations en Périgord, Gautier n'y fera pas sa vie comme ses proches l'avaient pourtant prévu. Son précepteur lui reconnaît des prédispositions intellectuelles et ses parents le destinent à une carrière de juriste en Périgord. Ces derniers l'envoient étudier la magistrature à l'université de Toulouse espérant qu'il reviendra en Périgord exercer le même métier que ses ancêtres.
+
+
+## L'arrivée à Paris ou la naissance de l'écrivain
+
+Gautier nourrit, pendant ses années d'études, un fort intérêt pour les armes et la littérature chevaleresque. Gautier de Costes s'est adonné à plusieurs de ses vocations dans le même temps. Simultanément cadet puis officier au régiment des gardes et auteur son engagement militaire se percevra dans son écriture. Beaucoup de ses biographes, comme Maupoint ou Leris, lui prêtent un tempérament fiévreux et une imagination fertile qui lui auraient inspiré ses romans [2]. Vers 1632, alors qu'il a environ vingt-deux ans, il décide d'aller à Paris pour embrasser la carrière des armes. Membre de la Société d'Art et d'histoire de Sarlat et du Périgord Noir, Jean-Jacques Despont explique que c'est à cette époque qu'il a commencé à se faire appeler « La Calprenède », en français, « charmille », *calpre* signifiant le charme en occitan. Il est vrai que Gautier de Costes a souvent été accusé de s'être donné des noms alors qu'il ne possédait pas les terres éponymes mais le nom de La Calprenède aurait en réalité été associé aux Costes antérieurement en raison d'un hôtel qu'ils possédaient à Sarlat. À Paris, Gautier de La Calprenède entre en qualité de cadet au Régiment des gardes sous Louis XIII où bientôt il deviendra officier. Ce dernier grade ne s'obtient alors que si l'on est d'une maison reconnue par le roi, ce qui était le cas de la famille de Costes, noblesse de robe périgourdine. Maupoint [3], parmi d'autres, raconte qu'il composa, alors qu'il était cadet, un roman intitulé *Silvandre* et qu'avec l'argent gagné de son impression, il s'acheta des habits étranges. Quand on lui demandait de quelle étoffe il était vêtu, il répondait : « c'est du Silvandre » ; d'autres rapportent qu'alors qu'il venait de faire donner *La Mort de Mithridate*, il aurait répondu : « c'est du Mithridate. » La Calprenède était certainement, comme on le rapporte souvent, plein de verve et de certains traits d'orgueil mais pour servir ce portrait, des anecdotes ont été inventées. Ses romans sont son œuvre de maturité, il semble donc peu probable qu'il ait commencé par là, d'autant qu'on ne connaît aujourd'hui aucun roman intitulé *Silvandre* qui aurait été composé par La Calprenède, alors qu'on a conservé tous ses écrits. Il est plus plausible que sa première création ait été une tragédie écrite alors qu'il était cadet au régiment des gardes : *la Mort de Mithridate*, jouée en 1635 à l'Hôtel de Bourgogne. Cette pièce sera cédée en 1636 au libraire Antoine de Sommaville qui l'imprimera la même année. L'acte notarial stipule que l'auteur résidait alors, entre deux campagnes militaires, rue Tireboudin, à l'Image Saint-Sauveur [4]. Le sujet de cette tragédie sera repris par Racine en 1673 dans son *Mithridate*. C'est entre 1632, date de son arrivée à Paris, et 1635 que Gautier de Costes s'est rapproché de la reine et des dames de la cour. Pierre Niceron, Duckett fils et d'autres, rapportent cette histoire : quand il venait à la cour, La Calprenède amusait les dames et servantes de la reine. Anne d'Autriche aurait demandé un jour à ses femmes de chambre ce pourquoi elles n'effectuaient pas leurs tâches correctement. « Elles répondirent qu'il y avoit dans la première salle de son appartement, un jeune homme qui contoit les histoires du monde les plus amusantes, et qu'on ne pouvoit s'empêcher de l'écouter : cela donna à la reine la curiosité de le voir et de l'entendre, et elle en fut si contente, qu'elle lui donna une pension [5]. » Il est attesté qu'il y a eu une rencontre similaire entre la reine et notre auteur. Certains de ses contemporains racontent que lors de cette rencontre, La Calprenède aurait lu une partie de *La Mort de Mithridate* à la reine qui l'aurait beaucoup appréciée et que c'est cette lecture qui l'aurait décidée à donner une pension à l'auteur. Si ce n'est peut-être pas lors de cette première rencontre que la reine a pu en juger, elle semble en effet avoir aimé la pièce et l'avoir fait savoir à l'auteur. L'épître dédicatoire de cette pièce adressée à la reine prouve qu'elle était une protectrice de l'auteur et a apprécié cette pièce :
+
+
+Ma vanité n'est peut-estre pas excusable dans la creance que j'ay, que ceste Tragedie n'a point dépleu à vostre Majesté. Mais outre l'honneur que j'ai eu de l'entendre assez souvent de sa bouche, je puis dire sans mentir, que le peu de reputation qu'elle a euë, ne peut naistre que de l'estime qu'elle en a faite, et qu'elle ne pouvoit passer pour absolument mauvaise, apres l'approbation du meilleur jugement du monde. [6]
+
+Cette pièce semble avoir été appréciée par d'autres. Dans son *Au Lecteur* La Calprenède écrit que des impressions en circulaient illégalement avant qu'il ne cède l'œuvre au libraire Antoine de Sommaville. Quant à Grenaille, il reconnaît dans *La Mort de Mithridate* « un chef d'œuvre au jugement des habiles [7] ».
+
+
+## Les années d'écriture
+
+Un écrivain est né qui a su bien s'entourer. La Calprenède a trouvé une protectrice et non des moindres en la personne d'Anne d'Autriche. Gautier de Costes a fait représenter sa première pièce à l'Hôtel de Bourgogne qui semble-t-il a eu assez de succès pour être éditée par un des trois plus importants libraires de la place de Paris, Antoine de Sommaville. S'ensuivent les années d'écriture durant lesquelles il continue à exercer le métier des armes. À partir de 1635, la France entre en guerre contre l'Espagne, ce qui n'empêche pas notre auteur, alors qu'il combat, de donner en 1636 une tragi-comédie, *Bradamante*, puis en 1637, *Le Clarionte ou le sacrifice sanglant*. La même année, est donnée, à l'Hôtel de Bourgogne, sa tragédie *Jeannne, reine d'Angleterre*. Curieusement, c'est Antoine de Sommaville qui se charge de rédiger ici une épître dédicatoire à l'abbé d'Armentière annonçant la mort de La Calprenède. Il est très possible que La Calprenède ait été à ce moment à l'armée et que la nouvelle de sa mort ait circulé. Antoine de Sommaville a semble-t-il profité de cette occasion pour obtenir le privilège du roi en l'absence de l'auteur. D'ailleurs, c'est la seule œuvre de l'auteur qui ait été cédée pour neuf ans à un libraire. En 1637, quand il publie *Le Comte d'Essex*, La Calprenède évoque cette mésaventure dans son avis au lecteur :
+
+
+Pardonnez les fautes de l'Impression comme celles d'une miserable Jeanne d'Angleterre que j'ay faite d'autres fois … c'est une Tragedie que j'avois cherement aymée, mais par malheur elle fut jouée et imprimée en mon absence … et l'Imprimeur sur quelques legeres apparences m'a fait passer pour mort dans son Epistre, quoy que Dieu mercy, je ne me sois jamais mieux porté.
+
+Bien que cette tragédie soit cédée par privilège à Augustin Courbé, le dramaturge reviendra vers Sommaville qui l'avait pourtant fait passer pour mort. En dépit du caractère orgueilleux et du tempérament gascon que beaucoup lui prêtent, La Calprenède parait ici être fidèle envers son entourage et donnera souvent et longtemps des preuves d'amitié à ses amis. Il existe une lettre de lui à Mademoiselle de Scudéry, datée du 12 septembre 1661, dans laquelle il propose de veiller sur Madame la Surintendante alors que son mari, Fouquet, vient d'être condamné. Revenons à sa tragédie *Le comte d'Essex*. Il est le premier à avoir pris pour sujet l'injustice subie par ce personnage historique, avant que Thomas Corneille et Claude Boyer s'inspirent de sa pièce respectivement en 1677 et 1678. *La mort de Mithridate* dont s'est inspiré Racine et *Le Comte d'Essex* repris par Corneille puis Boyer sont considérées aujourd'hui comme les deux meilleures pièces de l'auteur. La dédicace de sa deuxième pièce à la princesse de Guéménée est intéressante :
+
+
+Vous eustes la bonté d'appuyer les commencements d'un jeune Cadet sortant des Gardes encore chancelant, et foible de la famine d'Allemagne, vous lui donnastes un courage qu'il n'avoit point receu de son naturel.
+
+Cette épître dédicatoire nous apprend deux choses. D'abord que La Calprenède était protégé par la princesse de Guéménée, dame de la cour de Louis XIII qui, comme Anne d'Autriche, était connue pour être en opposition avec le cardinal de Richelieu. Ensuite, qu'il a en effet combattu en Allemagne pendant la guerre de Trente Ans. En 1638, La Calprenède donne *Édouard*, tragi-comédie, cette fois dédicacée au duc d'Angoulême qui a lui aussi combattu en Allemagne, ce qui semble les avoir rapprochés. Il se plaint au duc de ne pouvoir exercer ses deux professions qu'imparfaitement. En effet, ses deux vocations étaient parfois pesantes pour l'auteur mais aussi il était certainement en train de se rendre compte que depuis qu'il avait écrit ses deux pièces à succès, *La mort de Mithridate* et *Le comte d'Essex*, il n'était pas parvenu à se renouveler. Guy Snaith écrira d'ailleurs au sujet de ses œuvres : « he was repeating himself [8]. » En 1638 toujours, il donne *La Mort des enfants d'Hérode, ou la suite de Marianne* qu'il dédicace au cardinal de Richelieu alors qu'il est protégé par deux de ses opposantes et est lui-même connu comme méprisant l'autorité du Cardinal :
+
+
+Vous aurez raison de desdaigner un devoir que je vous rends si tard, et de mescognoistre celuy qui semble s'interesser si peu dans les obligations que tout ce royaume vous a. Il est vray Monseigneur que je parois mauvais François [9]. 
+
+C'est en 1640 qu'il fait jouer la tragédie qui nous intéresse, *Phalante*. Nous ne savons malheureusement pas dans quel théâtre. L'absence d'avis au lecteur et de dédicace nous empêche de connaître si la pièce a eu du succès et nous n'avons aucune information non plus sur le lieu de sa représentation. En 1641, il donne *Herménigilde*, sa seule tragédie en prose car, à partir de 1640, plusieurs auteurs expérimentent le mode d'écriture de la tragédie. Puget de la Serre comme d'Aubignac feront plusieurs tragédies en prose. Ainsi, d'Aubignac écrira : « les Règles du théâtre ne sont pas fondées en autorité, mais en raison. Elles ne sont pas établies par l'exemple, mais sur le jugement naturel [10]. » Cette tragédie aura pu orienter l'auteur vers un autre mode d'écriture puiqu'il passe à cette époque à l'écriture romanesque peut-être par goût, peut-être parce que son écriture théâtrale s'essouffle comme le pense Guy Snaith, peut-être encore (et surtout), parce que le théâtre est moins rentable que le roman. En effet, quand pour ses meilleures pièces de théâtre, La Calprenède peut toucher jusqu'à 250 livres, pour les seules troisième et quatrième parties de son premier roman, il obtient 4000 livres [11].
+
+
+## Le roman : reconnaissance et maturité
+
+Selon les propos de Georges Molinié, La Calprenède est le précurseur du roman héroïque [12]. Ses romans « d'amour et d'exploits » laissent transparaître son goût pour les armes et les valeurs de courage qui l'accompagnent. Il saura faire du roman autre chose que ce qu'en font les écrivains « précieux ». Si, bien sûr, ses romans sont empreints de galanterie et ponctués de conversations amoureuses, c'est l'action qui sera mise en avant et dominera. En cela, il se démarque de son époque en sachant trouver les qualités romanesques parfois omises par la littérature galante. Ainsi, c'est avec le roman que l'auteur passera à la postérité. Il trouve aussi la reconnaissance immédiate de ses contemporains dont certains sont des plus prestigieux, nous le verrons par la suite. C'est en 1642 que La Calprenède publie le premier volume de son premier roman, *Cassandre*. Ce dernier connaîtra plusieurs éditions et sera traduit en italien dès 1652 par Maiolino Bisaccioni, puis en anglais en 1676 à Londres par Charles Cotterell. De 1647 à 1658, La Calprenède publie son plus célèbre roman : *Cléopâtre*. En 1648, à trente-huit ans, alors qu'il vient d'entamer l'écriture de son chef d'œuvre, il épouse Madeleine de Lyée, dame de Saint-Jean-de-Livet et du Coudray qui a alors entre vingt-huit et trente ans. Veuve de Jean de Vieux-pont, seigneur de Compant en premières noces et en secondes noces d'Arnoul de Braque, seigneur de Vaulont et de Château-Vert, elle est connue sous le nom de Délie dans les salons. Selon le contrat de mariage est passé à Paris le 6 décembre 1648 [13], La Calprenède demeurait alors au Marais du Temple, rue de Perche, sur la paroisse de Saint-Nicolas-des-Champs mais aussi « ordinairement dans sa maison de Toulgoud, près Sarlat, pay de Périgord [14]. » Notons ici que La Calprenède, s'il n'a pas suivi la carrière que son entourage lui réservait, est resté proche de sa famille, fidèle à ses origines périgourdines et est souvent revenu en Périgord. Certains prétendent que Madeleine de Lyée l'aurait épousé avec pour terme du contrat qu'il devait finir sa *Cléopâtre* mais cette affirmation n'est pas attestée [15]. En tout cas, *Cléopâtre* est l'œuvre de La Calprenède qui a le plus fait réagir ses contemporains en bien comme en mal, signe de son succès. Boileau est l'un des détracteurs de l'auteur ; il critique généralement ses romans par comparaison à *l'Astrée* d'Honoré d'Urfé : « au lieu que d'Urfé de bergers très frivoles avait fait des héros de romans très considérables, ces auteurs, au contraire, des héros les plus considérables de l'histoire firent des bergers très frivoles [16]. » Madame de Sévigné, plus élogieuse, écrit à sa fille au sujet de ce roman : « le caractère m'en plait beaucoup plus que le style. Pour les sentiments, j'avoue qu'ils me plaisent et qu'ils sont d'une perfection qui remplit mon idée sur la belle âme. Vous savez aussi que je ne hais pas les grands coups d'épée. » Plus tard : « Je n'ose pas vous dire que je suis revenue à *Cléopâtre*, à ce La Calprenède, et que, par le bonheur que j'ai de n'avoir point de mémoire, cette lecture me divertit encore. » [17] Si la Harpe pense qu'il y a des conversations trop longues dans ce roman, il trouve aussi que c'est le meilleur qu'ait écrit l'auteur et retient particulièrement le personnage d'Artaban. En effet, la force de ce personnage est d'être passé à la postérité dans l'expression : « fier comme Artaban. » La Calprenède dédie son chef d'œuvre au Grand Condé dont il s'inspire. Une lettre datée du 17 février 1657 écrite par ce prince à l'auteur traduit ce lien particulier qui semble être aussi fait de reconnaissance :
+
+
+C'est ainsi que vous vous plaisez à faire des choses qui ne tiennent pas du commun des gens ; témoins que vous avez de faire quelque ouvrage pour moy, à quoy j'ai peine à croire …. Ainsy vous n'aurez qu'à travailler sur les mémoires que vous pourrez avoir, et s'il y en a quelques-uns qui vous manquent, me les faisant connoistre, aussitôt je vous les envoyeray. … je ne suis pas d'humeur à mettre en oubly ce que M. de la Calprenède a fait pour moy [18].
+
+En 1667, un abrégé de *Cléopâtre* est publié à Paris par le libraire imprimeur Joly. Giovanni Battista édite en 1697, à Venise, une traduction italienne de *Cléopâtre* par Maiolino Bisaccioni. En 1700, l'œuvre est traduite en allemand et éditée à Hambourg. En 1769, à Amsterdam, une certaine Madame D. fait un abrégé qu'elle intitule *Les Amans illustres, ou la Nouvelle Cléopâtre*. Enfin, en 1789, Benoist Pierre Vincent écrira un nouvel abrégé publié à Paris. Ces divers abrégés et traductions, illustrent la reconnaissance posthume accordée au chef-d'œuvre de l'auteur.
+
+En 1650, La Calprenède devient gentilhomme ordinaire de la Chambre du Roi. Le 19 août de la même année, sa femme accouche de leur fille unique, Jeanne Élisabeth qui épousera en 1669 son cousin, Arnaud de Coustin de Bourzolles. Ils n'auront aucun enfant et après eux, s'éteindra la branche cadette de la famille de Costes. En mars 1655, La Calprenède acquiert le fief du Grand-Saint-Martin où sa femme fondera la chapelle de Vatimesnil. Ainsi, nous pourrons retrouver notre auteur sous le nom de Gautier, seigneur de Costes, de La Calprenède, de Toulgou et de Vatimesnil en référence à ses origines et à ses terres. Durant cette période, il semble que La Calprenède s'essaie aussi à la poésie puisqu'il est publié dans la première partie de *L'eslite des bouts-rimez de ce temps* en 1655 aux côtés de Boisrobert, Desmarests ou encore Benserade [19]. En 1659, il revient vers le théâtre pour donner sa tragi-comédie *Béllissaire* à l'Hôtel de Bourgogne. Cette pièce est la seule des ses œuvres qui ne sera jamais imprimée. Le roman, *Les nouvelles ou les divertissements de la Princesse Alcidiane* imprimé en 1660 est tantôt attribué à l'auteur, tantôt à sa femme. Pourtant, il est signé du pseudonyme de sa femme, Délie, qui en a écrit plusieurs autres et sous différents noms. L'auteur avait par ailleurs des liens avec la plus célèbre des romancières contemporaines, Madeleine de Scudéry. Tallement des Réaux raconte plusieurs anecdotes sur leurs entrevues dans des salons qui illustrent l'orgueil gascon dont notre auteur est souvent taxé [20]. Antoine Adam affirme que Mademoiselle de Scudéry a imité La Calprenède pour ses descriptions romanesques. En 1661, l'auteur commence à publier son dernier roman, *Faramond.* En 1663, le registre tenu par La Grange, comédien de la troupe de Molière, indique que ce dernier a commandé une pièce à La Calprenède contre huit cents livres qu'il lui a avancées [21]. Cette commande est preuve du succès de La Calprenède, puisque Molière, déjà auteur de plusieurs grands succès et reconnu par le Roi, fait appel à La Calprenède, sûr que son œuvre plaira au public du théâtre du Marais. Mais La Calprenède mourra la même année avant d'honorer cette prestigieuse commande. Les circonstances de la mort de La Calprenède sont floues, Louis Moréri le fait même mourir par erreur en 1661. Dans toutes les versions, sa mort est accidentelle. La gazette de l'époque tenue par Loret répercute les divers accidents qui lui sont arrivés cette année là en rentrant de Normandie où sa femme possédait quelques terres :
+
+L'illustre de la Calprenède,  
+Dont l'excellent esprit possède  
+Des talens rares et charmans  
+Pour les vers et pour les Romans :  
+Et qui d'ailleurs est fort brave homme,  
+Ou plutôt brave Gentilhomme,  
+Ces jours passés en un cadeau  
+Contenant maint objet fort beau,  
+Voulut par un coup de justesse  
+Montrer aux dames son adresse.  
+Mais, soit que le fatal canon  
+De son fusil crevât, ou non,  
+(L'on ne m'a pas dit la chose)  
+La poudre audit canon enclose,  
+Qui s'emflâma, qui s'emporta,  
+Droit au visage lui sauta ;  
+Et par cette triste avanture,  
+Outragea si fort sa figure,  
+Que l'assemblée avec douleur  
+Déplora son triste malheur.  
+Ce fut au Château de Monflaine  
+Que cette disgrace inhumaine  
+Parvint à cet homme important,  
+Mais qui n'en mourra pas pourtant. [22]  
+
+La gazette reprend ses mésaventures, le 21 octobre :
+
+Comme il faut qu'à la mort tout cede,  
+L'excellent Sieur de Calprenede …  
+A succombé sous cette Parque  
+Et de Caron passé la Barque.  
+Enfin par la rigueur du sort  
+Cet admirable Auteur est mort.  
+Mais personne ne peut débattre  
+Que sa Cassandre et Cléopatre  
+Cheres merveilles de nos jours,  
+Malgré sa mort vivront toujours.  
+Pour son Faramond c'est dommage  
+Qu'à son incomparable ouvrage  
+Pour le plaisir du genre humain,  
+Il n'ait mis la derniere main.  
+Mais on m'a dit que Sommaville,  
+Un des Libraires de la Ville,  
+Qui tient sa boutique au Palais,  
+Fut sur ses chevaux de relais  
+Chez le mort recueillir les restes  
+Des amours, intrigues, et gestes,  
+Que cet esprit, rare et fécond  
+A laissé dudit Faramond,  
+Avec maint instructif mémoire,  
+Pour conclusion de l'Histoire  
+De ce roman illustre et fin  
+Dont chacun voudra voir la fin. [23]  
+
+Gautier de Costes de La Calprenède est donc mort accidentellement, probablement des suites de sa blessure causée par un fusil quelques jours avant le 21 octobre 1663. Son *Faramond*, qu'il n'aura pas pu terminer sera donc récupéré par Sommaville et continué par un admirateur, Pierre Dortigue de Vaumorière. Vice-recteur de l'académie d'Hédelin, abbé d'Aubignac, on le retient principalement pour avoir continué ce roman. La gazette que nous venons de citer, témoin du goût de l'époque, prouve encore combien La Calprenède était apprécié par ses contemporains pour ses romans et pour son théâtre, selon les termes élogieux employés par Loret : « L'excellent Sieur de Calprenède /Si renommé dans l'univers, /Pour sa prose, et pour ses beaux vers. »
+
+
+# Les différents constituants de la pièce [24]
+
+
+## Résumé de l'intrigue
+
+Hélène, reine de Corinthe, refuse l'amour de Philoxène qui a été élevé avec elle. Ce dernier croit que c'est la possession récente du trône qui rend Hélène distante. Phalante, un prince étranger dépossédé de son royaume, vient plaider la cause de Philoxène auprès de la reine. Celle-ci est tombée amoureuse de l'intercesseur et commence à lui avouer sa passion lors de cette première entrevue. Le prince étranger est lui aussi amoureux de la reine mais il décide de ne le révéler à personne car il ne veut pas devenir le rival de son ami. Il est alors déchiré entre amour et amitié. La tragédie se noue au rythme auquel se resserre ce dilemme. Hélène et Phalante se rencontrent à nouveau dans un bois. La reine se rend compte au fil de leurs entrevues que Phalante ne veut pas s'unir à elle. Dès lors, elle se désespère et commence à regretter son penchant. Philoxène apprend alors de manière détournée la passion de la reine pour Phalante. Fou de jalousie, il provoque son ami en duel. Ce dernier refuse le combat mais sort sa lame dans le but de se défendre et, par maladresse, Philoxène tombe sur l'épée. Mortellement blessé, il interprète ce signe des dieux comme la preuve de l'innocence de Phalante. Philoxène exonère son ami de toute faute devant son père Timandre. Phalante, seul dans un bois, est prêt à se suicider pour venger son ami et le rejoindre dans la mort. Il reçoit alors une lettre de la reine lui apprenant qu'elle est mourante. Elle s'est empoisonnée, trouvant son aveu indigne de sa position. Il retourne auprès d'elle pour lui avouer finalement sa passion avant de se poignarder. La reine rend son dernier souffle à ses côtés.
+
+
+## La pièce, scène par scène
+
+Acte I, scène 1 : La pièce s'ouvre sur une tirade de Philoxène, prince de Corinthe, qui déclare son amour à Hélène, reine de Corinthe. Hélène le presse avec virulence de cesser ses déclarations. Philoxène, amoureux d'elle depuis l'enfance, s'il se présente comme son vassal, croit mériter cet amour. Il semble le plus valeureux et le plus fidèle amant de la reine. Philoxène pense que la gloire récente du trône a rendu la reine détachée des préoccupations de s'unir à un mari.
+
+Scène 2 : Cette scène, très courte, annonce l'arrivée de Phalante, prince étranger. Alors qu'Hélène est troublée par cette venue, Philoxène semble au contraire soulagé de le voir.
+
+Scène 3 : Au cours de cette scène, nous apprenons que Phalante a été forcé par la guerre de quitter ses terres mais qu'il est très apprécié à Corinthe où il a été accueilli. Il vient plaider la cause de son ami Philoxène auprès de la reine. Se développe ici le thème de l'alter ego : Phalante semble partager les maux que subit son ami. Hélène loue l'amitié de Phalante pour Philoxène mais affirme que ce dernier doit guérir car elle ne l'aime pas. Hélène hésite ici à révéler sa passion à Phalante puis lui avoue, à mi-mot, qu'elle l'aime. Devant l'incompréhension de Phalante elle devient plus explicite. Phalante est stupéfait et Hélène part, troublée, en lui demandant de réfléchir.
+
+Scène 4 : Hélène est prise de profonds remords. Elle songe à sa couronne, à ses aïeux, à son honneur et regrette de ne pas s'être tuée plutôt que d'avoir révélé son amour. De plus, elle est convaincue que Phalante ne l'aime pas. Aminte, une de ses demoiselles, tente de la rassurer, en vain. Hélène entrevoit la funeste issue de sa passion.
+
+Acte II, scène 1 : Timandre, père de Philoxène, s'enquiert de l'état de Phalante qui semble profondément triste. Le prince explique qu'il ne fait que partager la souffrance de son ami Philoxène. Ce dernier veut se suicider, refusant d'être la cause des maux de Phalante. Timandre rappelle qu'il a été le régent d'Hélène et dénonce l'ingratitude de celle-ci envers son fils. Phalante promet d'essayer à nouveau de convaincre Hélène. Il demande à rester seul pour y réfléchir.
+
+Scène 2 : Arbante, serviteur confident de Phalante, rejoint son maître et tente de lui faire dire les raisons de ses souffrances. Phalante le chasse pour rester seul.
+
+Scène 3 : Phalante, seul dans un bois, déplore un secret qu'il ne peut révéler à personne : il aime Hélène. Perdu, il s'adresse aux cieux et au soleil et énonce son dilemme : être fidèle à son amitié et renoncer à l'amour ou trahir cette amitié pour assouvir sa passion. Dans les deux cas, Phalante ne pourra être heureux. Le dilemme est complexe car il sait maintenant qu'Hélène l'aime en retour. Il songe un instant à trahir son amitié mais se ravise rapidement. La reine entre dans le bois, accompagnée de Cléone, une de ses demoiselles.
+
+Scène 4 : Le trouble et la confusion s'emparent de Phalante et d'Hélène en présence l'un de l'autre. Hélène déclare à nouveau son amour à Phalante mais dit aussi sa gêne et sa honte. Elle lui demande de lui répondre. Celui-ci s'excuse d'être si surpris et lui dit seulement combien l'aveu de cet amour lui est cher. Sur ce, Cléone annonce l'arrivée d'Arate et Cléomède, deux seigneurs de Corinthe. Phalante est soulagé par cette interruption.
+
+Scène 5 : Arate et Cléomède viennent prévenir Hélène qu'elle est attendue à un conseil. Hélène prie Phalante d'y assister aussi.
+
+Acte III, scène 1 : Philoxène, suspicieux, demande à Cléone si Hélène est amoureuse de Phalante. Cléone confirme ses soupçons. Elle ajoute qu'elle pense que Phalante n'est pas insensible aux charmes de la reine.
+
+Scène 2 : Phalante, dans la chambre d'Hélène, affirme l'impossibilité de leur union. Il dit ne pas mériter cet intérêt ; il montre combien il est touché par cet amour mais énonce son dilemme. Son seul espoir reste que la reine fasse le bonheur de Philoxène. Hélène est dépitée. Phalante tente de démontrer à la reine qu'elle cesserait de l'aimer s'il trahissait son ami. Hélène est de plus en plus irritée et voudrait éloigner Philoxène, seul obstacle à cette union selon elle. Les deux personnages expriment tour à tour leurs sentiments. Alors que le rythme du dialogue s'emballe, Phalante coupe court à leur conversation et sort.
+
+Scène 3 : Hélène, seule, condamne sa passion et veut revenir à la raison pour oublier Phalante. Elle tente de le mettre en accusation mais elle est rapidement rattrapée par la passion et se trouve incapable d'y renoncer.
+
+Scène 4 : Philoxène vient trouver Hélène et lui demande les raisons de sa tristesse. Il lui déclare à nouveau sa passion et rappelle sa place à Corinthe et son mérite. Irritée par tant d'insistance, elle le menace. Lui songe à se suicider pour la laisser en paix. Il finit par évoquer l'amour qu'elle porterait à un autre. Elle le chasse en lui déclarant qu'en effet elle aime Phalante.
+
+Acte IV, scène 1 : Cléomède et Arate, au conseil, louent le bon gouvernement de la reine et lui annoncent que le peuple réclame un prince de son sang pour assurer sa succession sur le trône de Corinthe. Timandre, le père de Philoxène, souligne les intérêts qu'elle aurait à se marier. Hélène accepte et congédie Arate et Cléomède en les assurant d'une réponse prochaine.
+
+Scène 2 : Hélène retient Timandre qui espère toujours qu'elle s'unira à son fils. Hélène, loin de répondre aux attentes de l'ancien régent, se plaint du comportement de Philoxène. Elle lui dit qu'il a menacé Phalante et lui demande à de protéger ce prince. Timandre ne voit dans la conduite de son fils que l'effet de la passion.
+
+Scène 3 : Philoxène, seul, évoque son amitié bafouée et décide de se venger de Phalante.
+
+Scène 4 : Phalante, rejoint par Philoxène, demande à Arbante de les laisser seuls. Philoxène, hors de lui, provoque Phalante en duel. Ce dernier ne comprend pas, il rappelle à Philoxène leur amitié et refuse de lever son arme contre lui préférant mourir. Philoxène prononce le nom d'Hélène et Phalante tente de prouver son innocence. Philoxène ne voulant rien entendre, Phalante, espérant lui faire recouvrer la raison, l'entraîne dans un bois pour s'expliquer avec lui.
+
+Scène 5 : Arbante est rentré au palais. Il se trouve en compagnie de Timandre et Cléomède qu'il vient d'informer de l'entrevue de Philoxène et Phalante. Prévenu par Hélène, Timandre comprend le péril de la situation et s'élance avec Cléomède à la poursuite de son fils.
+
+Scène 6 : Philoxène est à terre, mourant. Phalante relate brièvement la mésaventure qui vient de se produire : son ami est tombé accidentellement sur son épée. Philoxène reconnaît là la leçon des dieux. Il demande pardon à Phalante de l'avoir accusé à tort et l'enjoint de s'unir à Hélène. Quant à Phalante, il veut se suicider, incapable de se pardonner son crime.
+
+Scène 7 : Arbante, Cléomède et Timandre arrivent sur le lieu du duel et découvrent Philoxène à terre. Timandre veut d'abord venger son fils. Alors que Phalante l'encourage, Philoxène l'en empêche et le supplie d'aimer Phalante comme un fils. Timandre ne peut s'y résoudre mais Cléomède coupe court à ces débats pensant qu'il est possible de sauver Philoxène. Timandre rentre au palais avec Arbante et Cléomède qui emportent le blessé.
+
+Acte V, scène 1 : Phalante, seul, évoque le souvenir de son ami et de son crime. Il s'adresse à Philoxène et se prépare à le rejoindre. Rattrapé par le souvenir de sa passion qu'il tente pourtant d'oublier, il songe un instant à s'unir à Hélène, comme l'en avait autorisé Philoxène. Très vite, il se reprend et se figure à nouveau l'horreur de son crime.
+
+Scène 2 : Arbante et Aminte interrompent le monologue de Phalante. Aminte vient lui apporter une lettre de la reine. Phalante y apprend que la reine, mourante, demande à le voir une dernière fois. Il part lui dire adieu.
+
+Scène 3 : Hélène, dans sa chambre, vient de prendre du poison. Elle est entourée d'Arate et Cléomède qui rappellent à la reine son devoir et condamnent son geste qui entraîne ses sujets avec elle. Ils tentent de la faire revenir à la raison et Cléomède évoque la possibilité de prendre un antidote. Hélène ne veut rien tenter, elle se juge indigne de sa position de reine et pense que les Corinthiens doivent espérer un meilleur gouvernement.
+
+Dernière scène : Phalante et Cléone découvrent la reine sur son lit, mourante. Hélène dit à Phalante qu'il est responsable de sa mort et, sur un ton de reproche, elle ajoute qu'elle ira voir Philoxène aux enfers pour l'assurer de la fidélité de son ami. Elle voudrait que Phalante reconnaisse sa vertu et ne conserve pas l'image d'une reine rabaissée. Alors, Phalante, s'adresse d'abord à Philoxène et aux dieux avant d'avouer sa passion à la reine. Il regrette seulement de ne pouvoir subir un double châtiment alors qu'il a causé la mort des deux êtres qui comptaient le plus pour lui. Hélène le supplie de la tuer avec sa dague. Il refuse et se tue. Hélène dit adieu à ses sujets et rend son dernier souffle.
+
+
+## Tableaux de présence des personnages dans la pièce
+
+Le premier tableau comporte deux entrées : le nom des personnages et les actes et scènes. La colonne de droite totalise le nombre de scènes dans lesquelles chaque personnage est apparu. Au vu des seules trois premières lignes qui représentent les trois personnages principaux, nous constatons qu'au moins un de ces trois personnages est toujours présent sur scène. La scène 5 de l'acte IV qui compte seulement dix-huit vers constitue la seule exception. Ainsi, les personnages sont prodigués selon le terme employé par Scherer. Phalante, le héros exemplaire et personnage éminemment tragique, est présent la moitié des scènes. Hélène, l'héroïne galante, est présente 13 scènes sur 24. Quant à Philoxène, héros de second ordre, il est présent neuf scènes sur 24. Ainsi, l'auteur respecte une règle plus tard énoncée par l'abbé d'Aubignac :
+
+
+Les principaux personnages doivent paraître le plus souvent et demeurer le plus longtemps qu'il est possible sur scène [25].
+
+Phalante a deux monologues, le premier à l'acte II et le second à l'acte V. Ses deux monologues encadrent celui d'Hélène à l'acte III et celui de Philoxène à l'acte IV. Ainsi, à chaque acte son monologue. L'acte I manque à l'appel car l'auteur pense sans doute que l'action n'est pas encore assez avancée pour que le spectateur puisse apprécier les épanchements des héros. Quatre monologues : ni trop, ni trop peu car ils arrivent justement aux moments où les héros ressentent des passions violentes et contradictoires. Clément dira en 1748 :
+
+
+Le monologue n'est supportable dans le poème dramatique que dans le cas où le personnage est agité de divers sentiments parce qu'alors les passions qui se croisent et se combattent en font un véritable dialogue [26]
+
+Notons que l'acte IV comporte plus de scènes que les autres actes. Les scènes sont moins longues et le rythme s'accélère, mimant la rapidité du renversement. En effet, c'est à cet acte que se produit le dénouement, comme nous l'étudierons dans la partie sur l'avancée de la tragédie.
+Persos | A.1, sc.1 | sc.2 | sc.3 | sc.4 | A.2, sc.1 | sc.2 | sc.3 | sc.4 | sc.5 | A.3, sc.1 | sc.2 | sc.3 | sc.4 | A.4, sc.1 | sc.2 | sc.3 | sc.4 | sc.5 | sc.6 | sc.7 | A.5, sc.1 | sc.2 | sc.3 | sc.4 | TOTAL
+HEL | ⁎ | ⁎ | ⁎ | ⁎ |  |  |  | ⁎ | ⁎ |  | ⁎ | ⁎ | ⁎ | ⁎ | ⁎ |  |  |  |  |  |  |  | ⁎ | ⁎ | 13
+PHAL |  |  | ⁎ |  | ⁎ | ⁎ | ⁎ | ⁎ |  |  | ⁎ |  |  |  |  |  | ⁎ |  | ⁎ | ⁎ | ⁎ | ⁎ |  | ⁎ | 12
+PHILOX | ⁎ | ⁎ |  |  | ⁎ |  |  |  |  | ⁎ |  |  | ⁎ |  |  | ⁎ | ⁎ |  | ⁎ | ⁎ |  |  |  |  | 9
+TIMAN |  |  |  |  | ⁎ |  |  |  |  |  |  |  |  | ⁎ | ⁎ |  |  | ⁎ |  | ⁎ |  |  |  |  | 5
+CLEOM |  |  |  |  |  |  |  |  | ⁎ |  |  |  |  | ⁎ |  |  |  | ⁎ |  | ⁎ |  |  | ⁎ | ⁎ | 6
+ARATE |  |  |  |  |  |  |  |  |  |  |  |  |  | ⁎ |  |  |  |  |  |  |  |  | ⁎ | ⁎ | 3
+ARB |  |  |  |  |  | ⁎ |  |  |  |  |  |  |  |  |  |  | ⁎ | ⁎ |  | ⁎ |  | ⁎ |  | ⁎ | 6
+CLEONE |  | ⁎ |  |  |  |  |  | ⁎ |  | ⁎ |  |  |  |  |  |  |  |  |  |  |  |  |  | ⁎ | 4
+AMINTE |  |  |  | ⁎ |  |  |  |  |  |  |  |  | ⁎ |  |  |  |  |  |  |  |  | ⁎ |  | ⁎ | 4
+HUISS |  | ⁎ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1
+
+
+
+
+
+Le second tableau étudie les personnages en fonction de leur prise de parole dans la pièce. Phalante paraît ici incontestablement le héros de cette tragédie. à lui seul, il prononce plus du tiers des alexandrins de cette pièce et lorsqu'il prend la parole, c'est généralement pour s'exprimer plus longuement que les autres personnages de la pièce. Hélène suit Phalante de près et ces deux personnages prononcent à eux deux les deux tiers des vers de la pièce.
+Personnages | Nombre de vers prononcés | Nombre de prises de parole | Nombre de prises de parole>15 vers
+HELENE | 512 | 53 | 8
+PHALANTE | 658 | 61 | 10
+PHILOXENE | 290 | 37 | 7
+TIMANDRE | 115 | 13 | 3
+CLEOMEDE | 40 | 9 | 1
+ARATE | 37 | 3 | 2
+ARBANTE | 22 | 8 | 0
+CLEONE | 34 | 9 | 1
+AMINTE | 8 | 5 | 0
+HUISSIER | 1 | 1 | 0
+TOTAL | 1 716 |  | 
+
+
+
+
+# Les sources de Phalante
+
+Nous nous attacherons dans ces pages à établir une étude comparée entre *Phalante* et sa source. Comme le signale Lancaster [27], un seul *Phalante* a précédé le nôtre, celui de Jean Galaut, édité à Toulouse en 1611 [28]. Galaut a lui-même puisé son inspiration dans un roman anglais de Philip Sidney, *L'Arcadie de la comtesse de Pembrok* [29] écrit à la fin du xvi*e* siècle. La Calprenède, d'après Lancaster [30], n'a certainement eu aucune connaissance de l'œuvre anglaise et s'est inspiré uniquement de Galaut pour écrire son *Phalante*. En effet, les éléments de l'*Arcadie* qui sont aussi dans *Phalante* de La Calprenède se trouvent systématiquement dans celui de Galaut ; c'est pourquoi ici nous ne comparerons notre pièce qu'avec celle de Galaut. Selon Alan Howe qui a fait l'édition critique de *Phalante* de Jean Galaut, l'auteur a été un écrivain très inégal. Aucune de ses pièces n'a connu la postérité et il juge même que *Phalante* ne serait pas la meilleure d'entre elles. Reste à savoir comment notre auteur a pu prendre pour modèle cette œuvre si méconnue et apparemment médiocre. L'explication la plus plausible se trouve dans la fréquentation commune aux deux auteurs de l'université de droit de Toulouse. La Calprenède, lorsqu'il s'y trouvait vers 1630, s'intéressait déjà à la littérature et lisait certainement les rares pièces qui y paraissaient alors. Entre 1553 et 1640, seules trois pièces ont paru en librairie à Toulouse : une édition des *Tragédie*s de Garnier, *La Guisiade* de Pierre Mathieu et la pièce de Galaut. C'est alors que le *Phalante* de Galaut aura retenu l'attention de La Calprenède.
+
+
+## Inventaire des similitudes entres les deux œuvres
+
+Les ressemblances entre ces deux œuvres ne se bornent pas à la reprise d'un même sujet fictif mais sont dans les détails des caractères des personnages et dans les ressorts qui permettent l'avancée de la pièce. Phalante est amoureux d'Hélène mais choisit l'amitié chez Galaut comme chez La Calprenède et il se fait déjà chez Galaut l'intercesseur de Philoxène auprès de la reine. Celle-ci est également très courtisée chez Galaut et vient d'obtenir le trône de Corinthe après que le père de Philoxène a été son régent. Le très long monologue lyrique de Phalante à la fin de la pièce de Galaut aura certainement fait forte impression sur son successeur qui fait à deux reprises monologuer Phalante en employant les mêmes ressorts lyriques et pathétiques. Quelques exemples précis tirés des textes eux-mêmes montreront encore mieux combien La Calprenède s'est inspiré de sa source :
+
+– L'amour de Philoxène pour Hélène remonte à l'enfance dans les deux pièces. « Je luy tastois le sein de ma main enfantine », (G. v. 97 [31]) et « Je vous ay dedié mes premières années », (La C. v. 49).
+
+– Philoxène pense que le gouvernement de Corinthe éloigne Hélène de la préoccupation de se marier : la « Magesté rend son port plus hautain, et plus fier son langage », (G. v. 109, 110) ; « mon cœur ne changea point mais le votre changea, / Si-tost que sous vos lois Corinthe se rangea », (La C. v. 66, 67).
+
+– Dans les deux pièces et pour les mêmes raisons, des sujets de la reine lui suggèrent le mariage : « pour le repos de toute la Province, /Il vous faut entre tous choisir un jeune Prince », (G. v. 231, 232) ; « Enfin ce sont les vœux de toute la province, / Vos fideles sujets vous demandent un prince », (La C. v. 1019, 1020).
+
+– Lors d'un dialogue entre Hélène et Philoxène, Hélène, en colère, réplique : « Parlés-moy pour Phalant comme il a faict pour vous », (G. v. 1146) ; « vous auriez eu des traitements plus doux, / En me parlant pour luy comme il parle pour vous », (La C. v. 1113, 1114).
+
+– Le père de Philoxène apprenant que son fils est avec Phalante part à sa recherche dans les deux œuvres et en dernières paroles, implore les dieux: « Dieux donnés-moy des ailes », (G. v. 1203) ; « Grands Dieux ! Guidez mes pas », (La C. v. 1262).
+
+– La culpabilité de Phalante est double chez Galaut comme chez La Calprenède. D'abord, celle d'avoir tué son ami par accident puis celle d'avoir causé la mort de la reine. Dans son ultime monologue de 148 vers, du vers 1492 à la fin, Phalante commence par évoquer un fleuve infernal. Chez Galaut c'est l'Achéron, v. 1494 et chez son successeur, le fleuve Léthé, v. 1376. 
+
+La Calprenède reprend donc de nombreuses données déjà présentes chez Galaut, voire même certains vers. Il s'inspire aussi d'autres éléments dramatiques de structure développés quelques décennies auparavant par Galaut : le dilemme tragique de *Phalante* était déjà une des principales qualités de l'œuvre de Galaut ; l'importance donnée aux monologues ; le fil tragique qui est très simple et se concentre sur les histoires d'amour et d'amitié infortunées ; l'amour comme agent de destruction de tous les personnages. Si, au regard de cette première comparaison, La Calprenède semble n'avoir pas beaucoup modifié l'œuvre de son prédécesseur, il effectue en réalité des changements dans le caractère des personnages, la structure de l'œuvre et sur des épisodes qu'il omet ou modifie.
+
+
+
+Le travail de réécriture, l'adaptation au goût classique
+
+Entre le *Phalante* de Galaut et celui de La Calprenède, presque un demi siècle s'est écoulé et l'ère classique a commencé à poindre. Il s'agit pour La Calprenède de suivre les goûts et les règles de son temps. Il laisse de côté l'intervention surnaturelle de l'Ombre, le rêve prophétique, le fantôme et les incantations, trop loin de la vraisemblance exigée alors, trop baroques. Si Phalante prend pour confidents « Les Dieux, les bois, les fleurs, et les choses sans ame », v. 1641, La Calprenède rejettera tous les autres motifs pastoraux développés chez Galaut. L'allusion à « la dolente Echo », v. 1537, la description du héros sauvant une « bergerotte » poursuivie par « trois satyres monstrueux », v. 1237-1281 sont laissés de côté par l'auteur préclassique. Il ne reprend pas non plus la totalité du premier acte de Galaut et entre plus rapidement dans l'action dans un souci d'unification de l'action :
+
+
+Le plus bel artifice est d'ouvrir le Théâtre le plus près possible de la catastrophe. … Il faut prendre l'action à son dernier point et, s'il faut ainsi dire, à son dernier moment [32].
+
+Ainsi, avant le début de la pièce, Hélène et Phalante se sont déjà rencontrés et leur passion fait partie des prémisses à la pièces, alors que la première rencontre des deux héros fait l'objet de la scène 4 de l'Acte II chez Galaut. L'exposition de Galaut est alors beaucoup plus longue puisque sa pièce commence plus loin de la catastrophe. Les unités de temps et de lieu sont également mieux respectées par La Claprenède, bien que sa pièce soit loin d'être exemplaire sur ce plan. Jean Galaut fait s'écouler semble-t-il plusieurs jours entre certains actes, voire plus. Il est impossible de le déterminer avec exactitude. Aux vers 1069, 1070 de la pièce de Galaut nous pouvons lire : « Quant à ton cher Phalant, …/ Il y a quelque temps qu'il s'en alla d'ici. » Le *Phalante* de La Calprenède peut donner à penser qu'une seule journée ne suffit pas à ses personnages pour qu'ils puissent connaître ces nombreux revirements et déplacements mais il y a un véritable souci d'unification des actions et du temps dans lequel elles se déroulent. Peut-être s'agit-il de deux jours mais consécutifs. Quant aux lieux, ils ne sont pas toujours bien définissables chez Galaut mais nous pouvons compter : le palais, une pièce dans le palais et une forêt à l'extérieur. Si l'on retrouve ces trois lieux dans la pièce de La Calprenède et qu'ainsi cette unité encore est imparfaite, il a fait un effort d'unification de ces lieux. La forêt de Galaut est devenue un bois chez La Calprenède, ce qui signifie que les lieux dans lesquels évoluent les personnages sont contigus. Ainsi, ils peuvent s'y rendre rapidement sans gêner la vraisemblance. Surtout, le héros, Phalante, ne part pas, comme c'est le cas chez Galaut, au loin dans la forêt où Hélène le recherchera et trouvera la mort. Ici, d'ailleurs, elle meurt avant le héros, alors que chez La Calprenède, la reine expire après lui. La Calprenède rejette également toutes les actions violentes contenues dans la pièce de son prédécesseur. Il exclut ce que d'Aubignac nomme : « les histoires d'horreur et les cruautés extraordinaires. » Timandre ne meurt pas sur le corps de son fils, Hélène ne se suicide pas avec une dague déjà couverte du sang d'un autre et Phalante ne se crève pas les yeux. Il faut noter surtout que, par respect pour la bienséance, La Calprenède épargne aux yeux du spectateur le duel entre Philoxène et Phalante. Ainsi, les héros ne sont pas représentés se précipitant l'un sur l'autre. De manière générale les personnages sont anoblis dans la pièce de La Calprenède en comparaison avec celle de Galaut. Il fait de Philoxène un héros plus patient, au cœur plus noble, qui disculpe son ami avant de mourir ; Hélène est une reine plus fière qui ne se tue pas par amour seulement mais aussi parce qu'en se laissant aller au désespoir, elle a déshonoré son peuple ; Phalante est plus sensible à l'amour d'Hélène.
+
+Les tableaux de présence, témoins des changements de structure [33]
+Personnages | A.1, sc.1 | A.1, sc.2 | A.1, sc.3 | A.2 | A.3, sc.1 | A.3, sc.2 | A.4, sc.1 | A.4, sc.2 | A.4, sc.3 | A.4, sc.4 | A.5, sc.1 | A.5, sc.2 | A.5, sc.3 | A.5, sc.4 | A.5, sc.5 | TOTAL
+HELENE |  | ⁎ |  | ⁎ |  | ⁎ |  | ⁎ |  |  |  |  |  | ⁎ |  | 5
+PHALANTE |  |  | ⁎ | ⁎ |  | ⁎ |  |  |  |  | ⁎ | ⁎ |  |  | ⁎ | 6
+PHILOXENE | ⁎ |  | ⁎ |  |  |  | ⁎ | ⁎ |  |  | ⁎ |  |  |  |  | 5
+TIMOTHEE |  |  |  |  | ⁎ |  |  |  | ⁎ |  | ⁎ |  |  |  |  | 3
+EURILAS |  |  |  |  | ⁎ |  |  |  |  |  |  |  | ⁎ |  |  | 2
+LEON | ⁎ |  |  |  |  |  | ⁎ |  | ⁎ |  |  |  | ⁎ |  |  | 4
+MELISSE |  | ⁎ |  |  |  |  |  |  |  |  |  |  |  |  |  | 1
+CARIE |  | ⁎ |  | ⁎ |  |  |  | ⁎ |  | ⁎ |  |  |  |  |  | 4
+OMBRE |  |  |  |  | ⁎ |  |  |  |  |  |  |  |  |  |  | 1
+
+
+
+Notre tragédie compte 24 scènes contre 15 pour celle de Galaut. Neuf scènes de plus et seulement 76 vers supplémentaires. La Calprenède a donc eu le souci non d'allonger la pièce en multipliant les scènes mais de dynamiser l'avancée de l'action et de mieux en équilibrer les actes. En effet, le classicisme réclame une certaine égalité de longueur entre les différents actes, ce qui n'est absolument pas une préoccupation pour Galaut : preuve en est son acte II, exempt de découpage. L'entrée de Phalante au milieu de cet acte n'engendre pas la création d'une nouvelle scène alors que chez La Calprenède, chaque entrée ou sortie d'un personnage s'accompagne d'un changement de scène. De cette manière ses actes sont mieux répartis et mieux rythmés.
+
+Sur les 15 scènes de la pièce de Galaut, 11, soit plus des deux tiers, sont réservées aux trois personnages principaux. À la différence de La Calprenède qui rend ses personnages principaux quasi omniprésents, comme nous l'avons précédemment étudié, Galaut n'hésite pas à faire disparaître Phalante à la fin de la scène 2 de l'acte III et ce, pendant quatre scènes, soit tout l'acte IV. Lorsqu'il rentre, à l'acte V, Phalante fait le récit des aventures qui lui sont arrivées à l'extérieur de Corinthe. Chez La Calprenède, le héros est très présent pour le plus grand plaisir des spectateurs d'alors qui aiment à observer ces héros qu'ils admirent tant et qui les enthousiasment. Le genre épidictique est de ce fait évité : il n'y aura aucun véritable récit venant raconter ce que les héros font hors de scène car ils évoluent continuellement sous les yeux des spectateurs.
+
+Quant aux personnages, si Philoxène, Hélène, Phalante et Timandre (Timothée chez Galaut) ont les mêmes fonctions chez les deux dramaturges, les personnages secondaires changent. Eurilas, Léon, Mélisse, Carie et l'Ombre ne demeurent pas chez l'auteur préclassique. Mélisse et Carie, les deux « damoiselles » chez Galaut sont nommées Cleone et Aminte « demoiselles de la Reyne » par La Calprenède. Les demoiselles de la reine n'ont plus les mêmes fonctions chez La Calprenède puisque, par exemple, chez Galaut, c'est Mélisse qui se charge de convaincre la reine de prendre un mari alors que cette requête est exprimée par un grand nombre de personnages et beaucoup plus loin, dans la pièce de La Calprenède. Hélène a déjà dialogué plusieurs fois avec Phalante et Philoxène ce qui fait prendre plus d'importance à cette scène à l'issue de laquelle la reine est pressée par son peuple de s'unir à un mari alors qu'elle repousse Philoxène et semble rejetée par Phalante. Quant à Aminte, chez La Calprenède elle conserve la même fonction de confidente qui rassure Hélène que Carie chez Galaut.
+
+Les plaintes de Philoxène sont principalement adressées à Léon, gentilhomme mais aussi confident de Philoxène chez Galaut, alors que chez La Calprenède, il les exprime ainsi que son désarroi directement aux autres héros et à son père. Ainsi, les confrontations entre les personnages principaux sont multipliées et le personnage de Léon devient inutile. Par exemple, alors que Phalante et Hélène n'ont que deux scènes en commun chez Galaut, ils en ont quatre chez son successeur, c'est à ces moments que le spectateur est renseigné sur les désirs et sentiments de Philoxène et ces entrevues entre héros renforcent la tension tragique. Chez Galaut, le gentilhomme Eurilas est le confident du père de Philoxène, Timothée. Le père et le fils ont donc chacun leur confident qui vont se rejoindre à la scène 3 de l'acte V pour découvrir leurs seigneurs morts sur scène, passage qui n'existe pas chez La Calprenède. Celui-ci supprime finalement les personnages de Léon, Eurilas mais aussi de l'Ombre dont nous avons déjà parlé et ajoute un Huissier, rôle à l'utilité contestable au demeurant. Il ajoute aussi Arbante, confident de Phalante, personnage qui n'existait pas chez Galaut et particulièrement intéressant [34]. Il ajoute aussi Arate et Cléomède, deux seigneurs de Corinthe. Ces deux derniers personnages ne sont pas des confidents comme l'étaient les gentilshommes chez Galaut mais simplement des seigneurs qui réagissent aux actions des héros : ils sont la voix du peuple de Corinthe et annoncent à la reine que le peuple réclame qu'elle se marie ; accourent à la suite de Philoxène lorsqu'ils croient ce dernier et Phalante en danger ; supplient la reine de ne pas se suicider à l'acte V en lui demandant de songer à ses sujets qui devront la suivre.
+
+
+# Caractère et fonctions des personnages
+
+Les personnages ou « Acteurs », comme ils sont nommés au début de l'œuvre, sont présentés dans un ordre bien précis qui constitue une hiérarchie sociale. La reine de Corinthe est donc nommée en premier, avant le prince Phalante qui est pourtant le héros de cette tragédie. Pour visualiser dès maintenant la pièce d'un point de vue plus structurel, les personnages seront ici présentés par ordre d'apparition.
+
+
+## Philoxène, l'incarnation de l'obstacle
+
+Ce personnage se trouve être tout à la fois l'incarnation de l'obstacle et l'élément déclencheur du dénouement. Héros de second ordre, il est amoureux d'Hélène depuis l'enfance et sa peine grandit à mesure que la reine le rejette. Il subit un châtiment sévère au cours de cette pièce mais il n'est pas celui pour qui le spectateur espère ou craint le plus car il empêche l'union des deux héros. Hélène le considère ainsi comme l'obstacle à écarter (v. 824) : « Cet importun me nuit, je sçauray m'en défaire. » Philoxène le reconnaît lui même à l'acte IV, scène 6 (v. 1327) : « Car j'estois criminel en mettant quelque obstacle. » C'est Phalante qui, paradoxalement, en voulant aider son ami le fait haïr de la reine et des spectateurs (v. 522) : « Tu le rends odieux au lieu de l'assister. » Ce personnage est intéressant et utile d'abord parce qu'il constitue le principal obstacle à l'union d'Hélène et de Phalante ; ensuite parce que c'est lui qui déclenche le dénouement à l'acte IV, scène 4 lorsqu'il attaque Phalante. Fou de jalousie, son statut d'amant rejeté par Hélène se transforme en celui d'ennemi furieux de Phalante. C'est dans ce rôle qu'il retient toute l'attention des spectateurs. C'est le seul personnage de la pièce à subir une telle métamorphose. Alors qu'il semblait être la figure inamovible de cette pièce, son évolution fait naître simultanément la surprise et la terreur chez le spectateur. Ce dernier ne s'attendait pas à voir se transformer si radicalement ce personnage méprisé par Hélène pour son « ambition trop douce et trop petite » (v. 152). Cette surprise est un élément indispensable à la tragédie selon Aristote pour conserver l'intérêt du public. Pari réussi ici car le spectateur ne s'attendait pas à voir naître la fureur chez ce personnage présenté comme faible et dépendant des autres personnages de la pièce. Dès la scène 2 de l'acte I, Philoxène dira à Phalante (v. 85) : «  Ma vie est en vos mains et j'attens tout de vous. » Pourtant, Phalante ne parviendra pas à aider son ami et c'est paradoxalement Philoxène qui sera un élément moteur pour la tragédie. Ce dernier permet également au spectateur de ressentir la terreur, autre élément indispensable à la tragédie selon *La Poétique* d'Aristote. Quand Philoxène, furieux et incontrôlable, s'attaque injustement à Phalante, le public craint pour le héros. Ce changement de comportement est source d'ironie tragique dans la pièce. Alors que se développe largement le thème de l'alter ego tout au long de la tragédie, la figure exemplaire de ce motif, Phalante, est attaquée par son ami. Celui qui respecte l'amitié au point de renoncer à son propre bonheur se voit ici trahi par son alter ego. Le pardon final de Philoxène à Phalante redonne au personnage de Philoxène de l'humanité et le rend plus héroïque.
+
+
+## Hélène, l'héroïne galante 
+
+Jeune et belle reine de Corinthe, elle rejette Philoxène car elle est amoureuse de Phalante. Si on ne connaît pas l'âge de la reine, on peut penser qu'elle est très jeune. Avec la noblesse, la jeunesse constitue une des premières qualités d'une héroïne, surtout lorsqu'elle doit déclencher, comme c'est le cas ici, la passion des personnages masculins qui l'entourent.
+
+Le personnage d'Hélène partage certains traits de caractère avec celui de Didon qui, elle aussi, a accueilli avec bonté un prince étranger en difficulté (Énée) avant de lui offrir l'hospitalité. Elles ressentent de la même manière un violent amour pour le prince qu'elles recueillent et à qui elles se livrent car leur passion leur a également enlevé le souci de la gloire. Didon se donne à Énée dans une grotte, quant à Hélène, elle avoue son amour à Phalante oubliant son devoir de reine. Finalement, toutes deux se suicideront parce que leur amant ne veut (ne peut) pas les épouser. Si Didon se suicide par désespoir lorsqu'Énée la quitte pour suivre son destin, Hélène ne se suicide pas directement par simple désespoir amoureux mais parce qu'elle s'est mise en danger, en tant que reine, en avouant son amour à Phalante. Cela dit, la passion reste l'élément déclencheur du désespoir qui mènera au suicide.
+
+Au cours de la tragédie, Hélène est simultanément héroïne, amante et reine. Ces deux derniers statuts créent des contradictions internes chez ce personnage : comment peut-elle gouverner sa Cité étant elle-même sous l'empire de la passion ? L'issue de la pièce laisse entendre que les deux fonctions d'amante et de reine sont inconciliables. Elle en témoigne elle-même dès le premier acte (v. 284-304) :
+
+J'ay failly, j'ay failly, mon front mesme m'accuse. …  
+Je devois maintenir cette Majesté haute,  
+Conserver l'asseurance à ce front couronné, …  
+Je devois estouffer une naissante flame, …  
+Je devois pour le moins me faire violence,  
+Cacher un feu honteux, mourir dans mon silence, …  
+Que sçay-je si desja cette estrange ouverture  
+Aura fait à ma gloire une mortelle injure ?  
+
+La passion ne fait pas bon ménage avec l'art de gouverner dans *Phalante* et c'est par le biais de ce personnage que la pièce prend des allures politiques. C'est en partie la responsabilité du trône de Corinthe et le souvenir de ses aïeux qui la culpabilisent d'avoir avoué son amour. C'est aussi par le biais ce personnage que l'État entier est engagé dans le dénouement. Quand la reine se suicide la ville, laissée à elle même, peut perdre la paix qui y régnait grâce à Hélène et certains de ses proches se trouveront forcés de se tuer pour suivre leur reine. Rappelons ici que le fait politique n'arrive qu'incidemment et que c'est le fait amoureux qui est le point de départ de la tragédie et se répercute sur le statut royal de l'héroïne.
+
+Après avoir présenté son statut d'amante en contradiction avec celui de reine, il est impératif de s'interroger sur son statut d'héroïne en tant que tel. Reprenons d'abord la définition d'héroïne donnée par le Furetière ou le dictionnaire de l'Académie : « femme qui possède les qualités d'un héros [35]. » Si l'on compare Hélène à Phalante, il est aisé de voir rapidement que malgré son statut d'héroïne qui voudrait qu'elle partageât avec lui son caractère admirable, il n'en est pas ainsi. Bien sûr, elle possède de nombreuses qualités parce qu'elle ne punit pas Philoxène par amour et par respect pour son père Timandre et parce qu'elle ressent de la culpabilité. Cependant, elle ne peut rivaliser avec la dévotion dont fait preuve Phalante qui renonce à son bonheur pour celui d'autrui. La reine met même sa cité en péril lorsqu'elle se suicide. Phalante, lui, voudrait pouvoir se condamner lui-même plutôt que de faire encourir quelque peine à autrui. Il faut cependant reconnaître qu'elle n'est pas dénuée de courage en ce qu'elle exerce sur elle-même un jugement sévère. Elle songe à sa position de reine, à ses aïeux, à son honneur et c'est cela qui la culpabilise (v. 1529-1534) :
+
+Et par des laschetés dont le remords m'accable,  
+Du rang que j'ay tenu, je me rends incapable :  
+Celle qui du devoir a fait si peu d'estat, …  
+Est indigne à jamais de porter la Couronne  
+
+Toutefois, ce n'est pas seulement la culpabilité morale qui la conduit à se suicider mais aussi le désespoir d'une femme qui a été rejetée. C'est parce que Phalante ne lui donne pas de preuve de son amour qu'elle se voit déshonorée et songe à son devoir. Elle n'est pas aussi admirable que le héros Phalante qui lui, se suicide uniquement par devoir et qui s'est toujours puni de la moindre pensée égoïste depuis le début de la pièce. Elle est donc loin de l'héroïsme dans ses qualités masculines. Le siècle, en effet, n'est pas prêt à admettre des « idées unisexe [36] ». « Affecter les vertus d'un autre sexe, c'est une espèce d'usurpation, qui n'est permise qu'avec beaucoup de tempérament et de sobriété [37] » affirme Du Bosc. Ce dernier explique clairement que dans la tragédie classique, la femme ne peut pas être admirée si elle se fait l'égal de l'homme. Autrement dit, si Hélène avait été aussi vertueuse que Phalante et avait fait preuve d'autant de courage que ce héros, ce dernier n'aurait pas pu vraisemblablement la considérer comme aimable. Noémie Hepp pense que ce qui peut faire de la femme une héroïne est principalement sa capacité à bien aimer : « retenons donc l'amour pour un homme unique, ou l'amour de Dieu, ou encore le passage de l'un à l'autre comme une valeur sûre de l'héroïsme féminin [38]. » En effet, cette définition semble corroborer la vision qu'a La Calprenède de son héroïne. En se suicidant, après n'avoir aimé qu'un seul homme, elle passe directement de l'amour de Phalante à la dévotion aux dieux. Son amour pour Phalante côtoie déjà le divin à la dernière scène, alors qu'elle est proche de la mort (v. 1601, 1602) : « … jamais peut estre une plus saincte flame, / Ny de plus beaux desseins n'allumerent une ame. » Donc, Hélène aime bien selon la définition de Noémie Hepp mais elle est aussi le centre de l'amour des deux héros masculins et en tant que telle, le centre de la tension. Au détriment de la première signification d'héroïne, égale du héros, Hélène est une héroïne en ce qu'elle passe de l'amour humain pour un seul homme à la mort et qu'elle est un personnage central dans l'œuvre.
+
+
+## Cléone, personnage duplice
+
+Demoiselle de la reine, son rôle va beaucoup plus loin que celui de simple confidente. En effet, c'est elle qui assure Philoxène que la reine est amoureuse de Phalante. Ainsi, elle fait naître la surprise chez le spectateur qui ne s'attendait pas à ce que ce personnage, si proche de la reine, forme cette sorte d'alliance avec Philoxène. Elle ne se rend certainement pas compte de l'impact de sa révélation sur la suite des événements, puisqu'elle se montrera profondément touchée à l'issue de la pièce et prononcera ces mots en découvrant l'état de la reine (v. 1558) : « Ah ! je meurs. » Elle s'évanouit certainement à ce moment.
+
+
+## Huissier
+
+Il faut s'interroger sur le rôle mineur de ce personnage. Il ne prononce qu'un demi vers à la scène 2 de l'acte I pour annoncer l'arrivée de Phalante. De plus, le personnage n'est pas nommé dans la liste des acteurs. Sa présence doit être considérée comme une maladresse de l'auteur car il fait clairement doublon. Son demi vers pourrait très bien être prononcé par un autre personnage. Aminte, par exemple, pourrait sans difficulté se charger de cette réplique.
+
+
+## Phalante, le héros tragique
+
+Jeune prince étranger, il est recueilli par la reine car son pays est occupé par des guerres. Ami de Philoxène, il est aussi amoureux d'Hélène. Tout au long de la pièce, il est déchiré entre amitié et amour. À chaque fois qu'il rencontre Hélène, il plaide la cause de Philoxène alors que lui même est amoureux d'elle. Le dilemme de Phalante semble impossible à résoudre mais il choisit l'amitié plutôt que l'amour mettant de côté son propre bonheur. Il exprime clairement ce choix à la fin de la pièce (v. 1655, 1656) :
+
+Car j'ay pour le servir trahy mon sentiment,  
+Sacrifiant ma vie à son contentement.  
+
+Phalante, comme le suggère déjà le titre, est le véritable héros de cette pièce. La Calprenède choisit, selon le terme de Jacques Scherer, de « prodiguer » son héros qui est présent la moitié des scènes et à qui il offre deux longs monologues lyriques représentant ainsi l'exaspération de la souffrance du héros. La Calprenède exploite au maximum toutes les capacités de ce personnage pour faire naître l'émotion du spectateur. En effet, Phalante est le personnage qui appelle le plus la pitié. De plus, c'est autour de Phalante que se noue la tragédie puisque c'est à lui que se présente le dilemme.
+
+Lorsqu'il crée le personnage de Phalante, La Calprenède semble influencé par celui d'Énée. Hélène les compare dès l'acte I (v. 319-322) :
+
+Pourquoy pour le salut de cette infortunée,  
+N'avez-vous de nos bords destourné cét Enée,  
+Qui desja dans mon ame à ma confusion,  
+Allume un plus grand feu que celui d'Ilion.  
+
+Si la fin des deux héros est différente, Phalante et Énée ont certaines caractéristiques communes. Tous deux sont de vaillants princes forcés de quitter leurs terres et sont tombés amoureux de la reine qui les recueille. Cette comparaison avec Énée renforce la représentation paroxystique du héros dans cette pièce. Phalante en héros incontesté est aimé de tous les personnages qui l'entourent mais aussi des spectateurs. Hélène, dès le premier acte explique le charme de Phalante, l'enchantement qu'il produit sur son entourage, comme un effet de ses innombrables qualités et de sa vertu : « Mon ame … Faisoit réflexion à tant de qualitez, / Et d'actes de vertu dont vous nous enchantez. » Phalante, est le personnage particulièrement exemplaire. Il est irréprochable à tous points de vues. Hélène évoque sa valeur dès leur première entrevue à la scène 2 de l'acte I : « Car après les grandeurs qu'il eust dans sa province, / Ma cour est un exil pour un si brave prince. » Elle ajoute plus loin qu'il possède « un cœur si genereus » (v. 145) ; il fait aussi preuve d'un « généreux courage » (v. 340) et d'une « haute vertu » (v. 341) selon Timandre. Par amitié et compassion, Phalante plaide une cause qui va à l'encontre de ses intérêts personnels. Enfin, à l'acte V, il se condamne lui-même en se suicidant alors que son ami l'avait enjoint d'écouter ses sentiments et de vivre avec la reine. Phalante est un héros irréprochable qui réunit à lui seul toutes les vertus dans lesquelles aiment à se reconnaître les spectateurs de l'époque et il se trouve que ce héros souffre tout au long de la pièce. Cette équation va créer inévitablement un sentiment de pitié chez le spectateur chaque fois que ce personnage se trouvera en difficulté. Pour Aristote, la pitié est un des sentiments essentiels à la tragédie et La Calprenède joue particulièrement avec ce ressort émotif à travers le personnage de Phalante qu'il rend continuellement malheureux. Ses monologues délibératifs, acte II, scène 3 et au commencement de l'acte V sont prétextes à de longues lamentations lyriques. Quand Phalante balance entre ce qu'il doit à son ami et son propre bonheur, il évoque largement ses peines. Il souffre plus encore dans le second monologue car il a plusieurs objets de souffrance. Sur lui pèsent la culpabilité d'avoir tué un ami, le poids du dilemme entre amour et amitié et la honte de penser parfois à choisir son propre bonheur. Il est à ce moment dans l'exaspération de la souffrance. Seul, « retiré de la Cour et du bruit » il s'adresse à son ami mort qu'il se prépare à suivre. Les antithèses viennent renforcer le pathétique de la scène : « regrets, justes regrets … / Que vous m'estes cruels me paroissans si doux », s'exclame t-il (v. 1387 et 1389). Le jugement trop sévère qu'il porte sur lui-même, *topos* du héros tragique à cette époque, est preuve de sa qualité. Au cours de cette pièce, à travers ses multiples souffrances, il gagne la dénomination de « héros tragique ». Il meurt, toujours en véritable héros, songeant que deux personnes meurent à cause de lui alors que lui ne peut mourir qu'une seule fois. Le *topos* de la belle mort est ici développé et Phalante paraît d'autant plus héroïque qu'il meurt songeant encore à autrui. Il provoque, par sa grandeur d'âme et sa dignité, la pitié et l'admiration du spectateur. Ainsi, Phalante, est, plus que le personnage éponyme de cette pièce, l'incontestable héros tragique.
+
+
+## Timandre, le père et le poids moral
+
+Père de Philoxène, il constitue lui aussi un obstacle à l'union de Phalante avec Hélène puisqu'il tente d'unir son fils à cette dernière. Régent de la jeune reine avant qu'elle ne monte seule sur le trône, c'est cet ancien lien qui retient l'héroïne d'agir et de punir Philoxène à l'acte III. Hélène s'adressant à Timandre à la scène 2 de l'acte IV (v. 1078-1080) :
+
+Mais sans vostre respect je m'en sçaurois vanger.  
+C'est vous seul que j'estime et que je considere,  
+Et la faute du fils je la pardonne au père  
+
+Il constitue pour Hélène un rappel de son devoir. Timandre a une profonde considération pour Phalante qu'il perçoit comme son propre fils. Ainsi, le tragique est renforcé lorsqu'il découvre son fils à terre, tué par Phalante.
+
+
+## Cléomède, porte parole des Corinthiens
+
+Seigneur de Corinthe, il est comme Arate le porte parole du peuple de Corinthe. Ce sont ces seigneurs qui demandent à la reine de se marier pour offrir à la population un futur souverain. Aussi, ce sont eux qui tentent de la dissuader de se suicider songeant au sort de l'État. Écho de la voix du peuple, Cléomède est aux côtés de Timandre lorsqu'il découvre le corps de Philoxène. Il réagit alors comme certainement l'aurait fait le peuple lui-même en observant la scène (v. 1328) : « Dieux, le triste spectacle ! »
+
+
+## Aminte, la confidente
+
+Demoiselle de la reine et confidente. Elle tente, plus prosaïque que les personnages de haut rang, de trouver des points positifs à la passion d'Hélène à la scène 4 de l'acte I. Elle a pour rôle de permettre à l'héroïne de révéler ses sentiments au moyen d'un dialogue. Fidèle à sa maîtresse, c'est elle qui remet la lettre de la reine à Phalante au dernier acte.
+
+Aminte, tout au long de la pièce, est un soutient pour Hélène, à la différence de Cléone, l'autre demoiselle de la reine. Cette dernière, si elle est plus impliquée qu'Aminte dans l'avancée de l'intrigue, est aussi moins fidèle à Hélène en révélant à Philoxène la passion de la reine.
+
+
+## Arbante, le confident
+
+Ce statut de « confident » laisse présager que c'est grâce à lui que le public va obtenir des informations sur les sentiments du héros. L'importance d'Arbante se trouve plutôt dans ce que Phalante ne lui révèle pas. Ce dernier, voulant cacher son amour pour Hélène ne révèlera ce secret à personne, pas même à son confident. À la scène 2 de l'acte II, alors qu'Arbante veut connaître les raisons de la tristesse de son maître, Phalante refuse de lui parler. Ce non dit permet de renforcer la tension autour de Phalante et de piquer la curiosité du spectateur. Phalante paraît d'autant plus malheureux, donc plus charmant pour le spectateur de l'époque, parce qu'il n'a personne à qui confier sa souffrance. Le seul véritable rôle de ce confident sera de prévenir Timandre qu'il a laissé Phalante et Philoxène dans le bois à l'acte IV, scène 5.
+
+
+## Arate, porte parole des Corinthiens
+
+Seigneur de Corinthe. Il a le même statut et un rôle similaire à celui de Cléomède. Cependant, ces deux personnages ne font pas doublon : ils ne sont pas trop de deux pour représenter le peuple qui entoure les héros et le poids de celui-ci sur la reine.
+
+Au vu de cette présentation par ordre d'apparition dans la pièce, nous pouvons observer que les protagonistes sont parmi les premiers personnages à entrer en scène. D'Aubignac, écrira à propos de l'arrivée des héros sur scène :
+
+
+Les spectateurs d'abord les désirent voir, et tout ce qui se dit ou se fait auparavant leur arrivée leur donne plus d'impatience que de plaisir, et souvent est compté pour néant [39].
+
+
+# Phalante, témoin de l'émergence des règles classiques
+
+Nous verrons dans ces pages en quoi l'auteur respecte les normes de la dramaturgie classiques qui se construisent dans la décennie 1630-1640 et s'inspire de la littérature qui l'entoure. Nous étudierons l'avancée de l'action de l'exposition au dénouement avant de nous arrêter sur les influences du *Cid* et de la galanterie dans *Phalante*.
+
+
+## Une longue exposition, mêlée à l'action
+
+*Phalante* débute *in medias res*. Pas d'insinuation, la pièce commence par un dialogue déjà très animé entre Hélène et Philoxène. Le dialogue passionné constitue déjà une ébauche d'action mais renseigne parallèlement le spectateur sur les éléments déjà acquis de la situation. En incorporant les éléments de l'exposition à l'action, La Calprenède rend la présentation des éléments d'information plus dynamique et ramasse déjà l'action au plus proche du dénouement comme le conseillera d'Aubignac dans sa *Pratique du théâtre*. Cette présentation du sujet débute avec le commencement de la tragédie mais il est très difficile de délimiter exactement sa fin. L'auteur réalise une exposition qui a la qualité de paraître moins artificielle, puisque naturellement incorporée au dialogue, mais qu'il est difficile de borner. Cependant, et de manière artificielle, nous dirons que celle-ci s'étend du début de l'acte I à la scène 5 de l'acte II. L'exposition s'étale à tel point que l'auteur s'est beaucoup éloigné de l'idéal classique qui voudrait qu'elle soit « courte [40] ». De même, Boileau, dans son *Art Poétique* souligne que le sujet n'est jamais assez tôt expliqué : « Inventez des ressorts qui puissent m'attacher. / Que dès les premiers vers l'action préparée / Sans peine du sujet m'applanisse l'entrée [41]. » Même Corneille dans son troisième Discours affirme que l'exposition doit se terminer au premier acte, ce qui est loin d'être le cas pour *Phalante*. Cela dit, il faut concéder à La Calprenède que si son exposition est un peu trop diluée, elle possède la qualité de délivrer des données claires. Les informations sont réparties à différents moments de la pièce, de façon à ce que le spectateur ait le temps de les intégrer pleinement. Dans cet intervalle d'un acte et cinq scènes, l'auteur délivre au spectateur les éléments afférents à la qualité et à la position de chaque personnage ; aux différents liens qui unissent les personnages principaux : l'amour ou l'amitié ; au le lieu de l'action : Corinthe, dans le palais de la reine ; à la préparation d'un conseil. En ce qui concerne les relations des personnages entre eux, il est étonnant de constater que le public découvre que Phalante est amoureux de la reine seulement à l'acte II, scène 3. La Calprenède donne cette information primordiale très tard au public certainement pour ménager la curiosité de celui-ci mais aussi sa surprise. Une autre surprise se cache dans cette exposition. À la fin de l'acte I, scène 1, le spectateur a toutes les raisons de penser que si Hélène n'aime pas Philoxène, c'est parce que la préoccupation du trône l'occupe entièrement. En réalité, le spectateur apprend à la scène 3 du même acte qu'elle rejette Philoxène parce qu'elle est amoureuse de Phalante. L'auteur sait ménager ainsi l'effet de surprise et pique la curiosité du spectateur. Après avoir reçu tous les renseignements, ce dernier est avide de connaître les réponses aux questions posées par l'exposition. Phalante va-t-il succomber à la tentation de s'unir à Hélène ? Phalante et Philoxène vont-ils réussir à faire pencher la reine en faveur d'un mariage avec Philoxène ? Phalante va-t-il parvenir à cacher sa passion à tous ? Qua va-t-il se passer au conseil ? Autant d'interrogations qui ont toutes un lien et qui, sans dénaturer l'unité d'action, nous le verrons en conclusion de cette partie, renforcent la curiosité et l'attention du spectateur.
+
+
+## Le nœud tragique : étude du dilemme
+
+Une fois l'exposition terminée, toutes les données semblent réunies pour que la tragédie se noue autour des deux grands thèmes de la passion et de l'amitié. Ces deux sentiments sont ici confrontés pour donner naissance au dilemme tragique énoncé par Phalante lors de son premier monologue, acte II, scène 3 :
+
+Cet amour qui déja tient mon ame captive,  
+Si je ne suis aymé ne veut pas que je vive.  
+On m'ayme, et dans ce bien qui me doit conserver  
+Je rencontre la mort au lieu de me sauver.  
+
+En d'autres termes, Phalante exprime le fait qu'il mourrait s'il n'était pas aimé d'Hélène mais que, paradoxalement, le fait qu'Hélène soit amoureuse de lui le conduit également à la mort. Cette contradiction nait de l'amitié qu'il voue à Philoxène. C'est ainsi que l'amitié rentre en confrontation avec la passion pour s'y lier parfaitement et former le nœud (v. 540-542) :
+
+Quoy tu pourras trahir un amy qui t'adore,  
+Et sans considerer ta vie et ton honneur,  
+Tu pourras sur sa perte establir ton bon-heur ?  
+
+Cette question n'attend pas de réponse mais renvoie à son incapacité à trahir son alter ego. Phalante explique ce choix par l'antériorité (v. 1648) : « Mais avant mon amour j'avois donné ma foy. » Philoxène et Phalante se sont liés d'amitié avant que ce dernier ne tombe amoureux de la reine. Aussi, l'amitié et par extension Philoxène, fait-elle ici directement obstacle à la passion. Cependant, si Phalante choisit l'amitié, il ne cessera de balancer entre ces deux sentiments. Ce dilemme est d'autant plus cruel et pathétique que Phalante doit délibérer seul. Il pèse tour à tour les deux possibilités et démontre ainsi que chacune d'entre elles le conduit irrémédiablement à sa perte. Il met donc en avant l'impossibilité d'accéder au bonheur qui est pourtant le but recherché par la délibération. Au sein de cette délibération, Phalante devient son propre obstacle et s'en désespère (v. 515) : « Ah ! Phalante, ennemy du salut de Phalante. » Ce dilemme ne nait pas d'un obstacle extérieur mais intérieur que Phalante est seul à s'opposer. De cette manière la tragédie reste nouée car Phalante sera inéluctablement malheureux ; Philoxène ne pourra pas accéder à l'amour car Hélène en aime ni pour le moment y renoncer ; Hélène ne pourra pas non plus accéder à l'amour car Phalante choisit l'amitié et son honneur est entaché par son aveu. Au dilemme qui constitue le noyau du nœud de l'action, s'ajoute principalement un autres fil qui vient le resserrer : le fil politique. La reine en avouant sa passion a mis sa position en péril, ce qu'elle déplore dès le début de la pièce (v. 272) : « Dignité de mon Sceptre indignement blessée. » Une requête renforcera le poids politique qui pèse déjà sur la reine. Au début de l'acte IV, les Corinthiens, par les voix d'Arate et de Cléomède réclament qu'Hélène se marie pour assurer sa succession sur le trône. Ainsi, le fait politique se lie parfaitement au fait amoureux qui domine cette pièce.
+
+Ainsi, ce duel permet de répondre à la question que Phalante s'était posée plus tôt dans la pièce (v. 523, 524) : « Les interests d'autruy deffendent-ils les nostres, / Et se doit-on haïr pour bien aymer les autres ? »
+
+
+## Le dénouement
+
+
+Le tragique n'est pas dans le malheur réel et imprévu, qui nous vide aussitôt de pensées, mais au contraire dans le malheur attendu, dont on entend les pas, qui arrivera, qui est déjà arrivé, qui fera son entrée comme un acteur [42]
+
+Depuis le premier acte, plusieurs éléments présagent le dénouement. Hélène, déjà à l'acte I, avait pressenti la funeste issue de la tragédie (v. 130-131) :
+
+
+Cent tristes visions, cent songes que j'ay faits,
+
+Menacent cest amour d'une funeste issuë
+
+L'auteur prépare plus visiblement encore le dénouement à l'acte III, scène 1 quand Cléone confirme les soupçons de Philoxène sur l'amour que porte la reine à Phalante. Dès l'instant où Philoxène détient cette information, la tragédie ne peut que se diriger vers un dénouement funeste au sein duquel Philoxène jouera peut-être le premier rôle. L'issue tragique est préparée en amont, le spectateur l'attend et peu même deviner qui l'initiera mais il continu de craindre et d'espérer car certains éléments doivent encore être éclaircis. D'Aubignac nomme ce suspense « l'attente agréable [43]». En effet, l'auteur laisse encore un peu de répit à ses personnages, il ménage ses effets. Hélène tente d'empêcher l'issue tragique en menaçant Philoxène et en prévenant Timandre de l'état de désespoir de son fils. Cette tension justement dosée entre la perspective d'une sombre issue et l'espoir péripétie qui transforme le sort des personnages constitue une des qualités de la pièce. C'est à la scène 4 de l'acte IV que le dénouement « fera son entrée » selon les termes d'Alain. C'est lors de cette scène que Philoxène finit de se métamorphoser en héros furieux et menace son ami Phalante. De ce duel, point de non retour de la tragédie, découlent deux catastrophes : Philoxène est blessé à mort par Phalante et le sentiment de culpabilité que ce dernier éprouve pour avoir mortellement blessé son ami le conduira au suicide. Éliminer Philoxène, c'est pourtant éliminer un obstacle au bonheur d'Hélène et Phalante. L'élimination de cet obstacle permet à La Calprenède de conserver toute l'attention du spectateur lors du dernier monologue de Phalante qui hésitera, une dernière fois, à s'unir à Hélène mais son sentiment de culpabilité l'en empêchera. La conclusion de la pièce ne se trouvera pas encore à ce moment puisque le duel ne suffit pas à entrainer toutes les catastrophes. Un second dénouement vient se superposer au premier grâce à l'arrivée d'une lettre d'Hélène à la scène 3 de l'acte V (v. 1475-1480) :
+
+Si tout ce que j'ay faict n'a pû vous esmouvoir,  
+Souffrés à mon trespas que je me satisface,  
+Et que vous demandant le bon-heur de vous voir,  
+Pour la derniere fois j'obtienne ceste grace ;  
+Je n'attens plus que vous pour partir de ce lieu,  
+Que je ne puis quitter sans vous dire un adieu  
+
+C'est lors de ce second dénouement que le spectateur apprend que la reine est en train de mourir. La forme de la lettre permet qu'à la surprise de l'annonce du suicide corresponde la surprise que procure le changement de métrique. Cette lettre est écrite en rimes croisées alors que les alexandrins sont en rimes plates dans la tragédie. Ainsi, l'auteur signale ici clairement la seconde péripétie. Pour le personnage d'Hélène, le dénouement vient du désespoir et de la honte de s'être détournée de son devoir de reine. Elle s'empoisonne pour des raisons politiques. L'unité du dénouement n'est donc pas parfaitement respectée ici car la seule péripétie du duel n'a pas suffi à entraîner tous les personnages vers leur fin tragique. Cependant, l'héroïne meurt des suites des mêmes maux que les deux autres héros de cette pièce : des affres de la passion qui constituent le fil principal de l'action et dont le fait politique est dépendant. L'ultime entrevue entre Phalante et Hélène permet à l'auteur de satisfaire les attentes du public et de renforcer le pathétique du dénouement. Phalante, alors qu'il s'apprête à se tuer et que la reine s'est empoisonnée, lui avoue à son tour qu'il l'aime. La scène particulièrement pathétique se termine par la mort des deux héros. Le sort de tous les personnages de la pièce se trouve enfin scellé soit par le duel, soit par le suicide la reine. Il faut relever un fait important au sein de cette tragédie des passions, c'est qu'aucun des personnages ne meurt directement à cause de la passion mais plutôt de ses conséquences.
+
+Au vu de l'avancée de la tragédie, nous pouvons conclure que l'auteur respecte le précepte énoncé par Corneille : « l'action que le Poète choisit pour son Sujet doit avoir un commencement, un milieu, et une fin. » Ces trois moments sont le support d'une action simple et linéaire. Par sa simplicité, la pièce de La Calprenède concorde avec la pensée de d'Aubignac :
+
+
+Tous les Sçavants en l'Art nous apprennent que les fables Polymiythes, c'est-à-dire chargées d'un grand nombre d'incidens, ou sont vicieuses, ou ne sont pas des meilleures [44].
+
+Unité aussi car une intrigue principale est énoncée, à laquelle se subordonnent des intrigues secondaires. Le fait amoureux est le principal qui entre en conflit avec la fidélité amical et le fait politique. La question centrale demeure : les personnages vont-ils parvenir à se faire aimer les uns des autres ? La question de la fidélité amicale apparaît avec le personnage de Phalante et entre en tension avec la passion à laquelle elle s'oppose. Quant au poids politique il n'arrive que secondairement avec le personnage de la reine et est subordonné aussi à la question de l'amour. Les personnages sont tous liés par la haine ou l'amour. L'intérêt n'entre pas en jeu. L'absence de péripétie jusqu'au quatrième acte contribue à la simplicité et à la linéarité de l'action. Le premier véritable retournement de situation se produit seulement avec le dénouement et tout ce qui y conduit est connu auparavant. à l'exception de la figure de Philoxène qui se transforme, les personnages restent relativement fidèles à eux-mêmes, même s'ils s'assombrissent au fil de la tragédie. D'emblée, la reine montre des prédispositions à haïr Philoxène et à aimer Phalante ; dès l'exposition, Phalante présente une grande dévotion vis à vis de son ami ; et dès la première scène, Philoxène montre son désir fiévreux d'être aimé par la reine. Là encore l'unité et la simplicité de l'action sont pleinement respectées par notre auteur. Quant à l'unité de temps et de lieu nous avons eu l'occasion d'en parler auparavant et nous aurons encore l'occasion de les évoquer plus loin.
+
+
+## L'influence du* Cid*
+
+À l'origine d'un immense succès suivi d'une querelle historique, *Le Cid* ne peut être ignoré par aucun auteur de l'époque. La Calprenède n'échappera pas à son influence. Certaines normes de dialogues sont reprises dans *Phalante* ; Hélène partage certains attributs de Chimène. C'est ainsi que lors d'un échange animé entre Hélène et Phalante le vers 853 partagé entre les deux héros fait écho à un échange entre Rodrigue et Chimène 
+
+Phalante : Je fais ce que je dois.  
+Hélène : Je fais ce que je puis.  
+Rodrigue : Tu le dois  
+Chimène : Je ne puis  
+
+Les répliques rapides entre les deux amants, qui se partagent des vers pour confondre leurs disputes dans un même dialogue lyrique, sont communes aux deux auteurs. Ces stichomythies marquent une apogée dans les échanges des héros et renforcent considérablement la tension dramatique. Ces jeux oratoires de prises de parole successives très rapide atteignent au lyrisme. Les paroles des personnages forment une seule voix, ce qui semble les unir dans un chant de désespoir. Influencé par Pierre Corneille, La Calprenède a parfaitement su adapter ce procédé au sein de sa pièce.
+
+Les deux héroïnes du *Cid* et de *Phalante* partagent une même faiblesse. Les actions des personnages qui les entourent dépassent leurs discours. Toutes deux préfèrent la parole aux actes ce qui rend leurs paroles vaines. Chimène a beau énoncer à de nombreuses reprises qu'elle veut que Rodrigue soit condamné, elle ne sera pas écoutée ; Hélène a beau vouloir empêcher Philoxène d'agir, elle n'y parviendra pas. Chimène dit vouloir se venger de Rodrigue (v. 842) : « Il y va de ma gloire, il faut que je me venge. » Quant à Hélène, elle veut punir Philoxène (v. 981, 982) : « Soyez très-asseuré que je vous feray voir / Et quelle est votre faute, et quel est mon pouvoir. » Chimène implore la justice du roi Don Fernand (v. 647) : « Sire, Sire, justice ! » et Hélène aussi demande à Timandre de faire respecter la justice (v. 1117, 1118) : « Gardez qu'il ne s'attaque à ce Prince estranger / Puis que je le protege, et le sçauray venger. » Les menaces de ces deux héroïnes n'auront aucun effet car elles n'agissent pas par elles-mêmes mais réclament l'aide d'autrui. Ainsi, lorsque Chimène a la possibilité de tuer Rodrigue, elle s'y refuse et quand Hélène, lors de sa dernière entrevue avec Philoxène, pourrait le faire arrêter, elle le laisse partir. Malgré leurs condamnations, elles n'empêchent rien et ainsi, deviennent tributaires de l'action des autres. Ces deux héroïnes ont un autre point commun : elles sont déchirées entre devoir et passion. Bien que Chimène veuille venger son père et punir Rodrigue, elle lâche à sa confidente (v. 810, 811) : « C'est peu de dire aimer, Elvire : je l'adore. / Ma passion s'oppose à mon ressentiment » De la même manière, Hélène quand elle tente d'oublier Phalante pour s'attacher à son devoir, doit avouer (v. 910 et 917) : « Quelque ressentiment dont je sois animée, … / Je t'ayme tout cruël et tout mécognoissant. »
+
+Nous pouvons aussi concevoir certains liens entre Phalante et le personnage de Chimène en ce que ces deux personnages, tout au long de la pièce, sont déchirés entre deux choix dont aucun ne pourra les conduire au bonheur. Le pathétique naît de la nécessité dans laquelle sont les deux héros de se soumettre au devoir en dépit de leurs sentiments. Le fameux dilemme cornélien est ainsi parfaitement respecté par La Calprenède, le sens du devoir dépasse le sentiment amoureux. Ainsi, l'amour est vaincu et le devoir vainqueur. Cependant, quand Corneille fait s'opposer devoir filial et sentiment amoureux, La Calprenède fait s'opposer la volonté de préserver l'amitié – dont Phalante se fait un devoir– et le sentiment amoureux. L'opposition qu'il crée entre amour et amitié le singularise par rapport à Corneille.
+
+
+## L'émergence de la galanterie
+
+Dès la fin des années 1630, les salons dits « précieux » et la littérature galante émergent pour acquérir leur pleine visibilité dans les années 1660. Nous allons examiner ici en quoi *Phalante*, édité en 1641, traduit déjà les prémices d'un « art d'aimer », selon les termes de Delphine Denis.
+
+D'abord, il faut rappeler que le genre galant est loin d'être stabilisé en 1641. Si la carte allégorique rencontre déjà un certain succès, les règles qui définiront la galanterie ne sont pas encore édictées. C'est pourquoi, le personnage de Phalante peut choisir l'amitié plutôt que la passion et affirmer que « l'amour seul est trop foible » (v. 571) ; il peut conserver sa raison devant l'être aimé ; il peut même être traité d' « ingrat », d' « insensible » par Hélène tout en paraissant véritablement amoureux aux yeux des spectateurs de l'époque et en paraissant celui qui souffre le plus. De même, Titus, lorsqu'il choisira « la gloire » plutôt que Bérénice, paraîtra empreint d'une froideur inhumaine face à une Bérénice dans une souffrance extrême. Le recul que peuvent prendre ces deux personnages s'explique par le fait que Phalante, comme Titus sont des personnages véritablement tragiques, guidés avant tout par la gloire et l'honneur alors qu'Hélène est un personnage qui s'apparente plus au roman galant. En effet, elle possède déjà de nombreux attributs qui seront ceux des plus grandes héroïnes galantes de la deuxième moitié du xvii*e* siècle. Il faut croire que la galanterie s'attache plus facilement aux personnages féminins, plus passionnés selon Jaulnay, qu'aux masculins. Alors que Phalante semble conserver sa raison tout au long de la pièce, la passion domine le jugement de la reine. C'est cette passion qui la poussera sans qu'elle puisse s'en défendre à avouer son amour à Phalante. Phèdre non plus ne peut pas s'empêcher d'avouer sa passion à Hippolyte bien qu'elle sache ce qui l'attend. Ce Phénomène est expliqué ainsi par Jaulnay :
+
+
+L'amour … est trop actif pour compatir avec le Jugement et plus les occasions sont pressantes, moins il est capable de faire des réflexions raisonnables. 
+
+C'est pourquoi elle ne semble réaliser qu'*a posteriori* les suites que peut engendrer cet aveu. Selon elle, l'amour a été « Imperieux par son authorité » (v. 277). Philoxène aussi perd le jugement au contact de la reine : « ce Tyran des Dieux, d'un insolent pouvoir ; / Dans mon aveuglement estouffe mon devoir » (v. 17, 18). Autre *topos* de la littérature galante, l'amour véritable ne peut pas se cacher et les héros, malgré eux, font voir leurs sentiments. L'amour se traduit alors physiquement. Hélène est régulièrement trahie par des attitudes incontrôlables (v. 235, 236) : « Ainsi, j'en ay trop dit, et vous pouvez connoistre, Ce que ma passion malgré moy fait paroistre. » Phalante, ainsi, a pu observer l'effet de sa présence sur la reine (v. 1435) : « Malgré toy tes beaux yeux ont versé quelques larmes. » Même Phalante qui est pourtant le personnage le plus secret de cette pièce est trahît les traits de sa physionomie (v. 635-638) :
+
+Que vostre Majesté ne trouve point estrange,  
+Si par un tel discours mon visage se change,  
+Et si je fais paroistre en cette occasion,  
+Et mon estonnement et ma confusion.  
+
+La difficulté, voire l'incapacité à dire l'amour qui sera développée dans la littérature galante, s'observe déjà dans cette tragédie. Trop puissant, ce sentiment échappe à la parole. Hélène traduit cette difficulté à avouer sa passion à l'acte I, scène 3. Elle demande à Phalante de comprendre qu'elle l'aime sans avoir besoin de rien prononcer (v. 257-259) :
+
+… ne me forcez point contre ce que je doy,  
+A vous faire un adveu trop indigne de moy :  
+Lisez-le dans mes yeux  
+
+La passion semble modifier les personnages pour les soumettre à des maux douloureux. Philoxène est celui que la passion transforme le plus, nous l'avons relevé plus haut. C'est la jalousie qui domine ce personnage et la métamorphose. Jaulnay affirme que « si la colère ou la jalousie sont causées par l'Amour, elles sont plus fortes que l'Amour mesme ». La reine ressent aussi et à plusieurs reprises une profonde colère envers la froideur de Phalante et envers Philoxène qui fait obstacle à son bonheur. Cependant, si la reine et Phalante sont changés par la passion, ils ne connaissent pas la transformation que subit Philoxène. La souffrance les atteint peu à peu pour les assombrir et les mener au désespoir. Reprenons un vers de *Suréna* pour exprimer le lien indéfectible qui unit la souffrance à la passion : « Toujours aimer, toujours souffrir, toujours mourir. » L'amour ou plutôt la passion mènerait donc en droite ligne à la souffrance puis à la mort. En effet, la passion, dans *Phalante* est perçue comme une prémisse à la mort :
+
+Ceux qui peuvent sentir les atteintes mortelles  
+Dont vos yeux ont blessé les ames les plus belles, …  
+Dans la mort seulement treuvent leur guerison  
+
+Aussi, les termes « douleur », « peine », « criminel » sont-ils souvent attachés à la passion. Le mot même d'amour semble funeste (v. 243) : « En fin Phalante, j'ayme, ô Dieu ! ce mot me tuë. » La passion est source de souffrance mais aussi de retrait progressif de la société avant le retrait définitif trouvé dans la mort. La chambre de la reine, un des trois lieux de cette pièce, sera un lieu d'élection dans la littérature galante. Le bois aussi constitue un lieu de retraite privilégié dans cette pièce et très employé plus tard dans la littérature galante. La princesse de Clèves, héroïne galante par excellence, se retirera régulièrement à la campagne avant son retrait définitif de la cour. De la même manière, Hélène se retire dans le bois pour mieux songer à Phalante. Elle s'affranchit alors de ses obligations sociales. Le bois permet d'être plus libre qu'au sein d'un palais où tout pourrait lui rappeler son devoir. Phalante, lui aussi recherche la solitude dans ce bois, le seul endroit où, loin de la société, il peut se laisser aller à l'épanchement de ses émotions et à l'aveu de sa passion. Ce lieu de retrait constitue un passage qui mène au retrait définitif qu'est la mort. C'est d'ailleurs là que le dénouement trouvera sa place. L'omniprésence de l'amour mène à une ironie tragique : la solitude s'empare progressivement des héros. Chaque personnage est lié par l'amour ou par l'amitié et pourtant la passion entraine de telles souffrances qu'elle finit par créer des personnages solitaires. Ainsi Hélène se retire dans les bois pour réfléchir, Phalante ne pouvant se confier à quiconque, ne parle de son amour qu'à des arbres, bois et fleurs comme il les nomme à la scène 3 de l'acte II et dans son dernier monologue, il semble dans une retraite proche de la mort, « tout retiré de la cour et du bruict ».
+
+Si certains *topoï* du roman galant son préfigurés ici, l'écriture de La Calprenède est aussi révélatrice d'une esthétique galante en pleine émergence. Les dialogues entre Hélène et Phalante faits de stichomythies sont empreints de lyrismes et le lexique de la passion est choisi et très fourni, un des traits caractéristique de la galanterie. L'amour est un « Tyran des dieux » (v. 17) et un « Impérieux » dans la bouche d'Hélène. Pour dire l'ampleur de l'amour, impossible à représenter par des mots, de nombreuses métaphores sont utilisées par l'auteur. Ainsi, il devient « un plus grand feu que celui d'Ilion » (v. 322) pour Hélène ou un « funeste flambeau » (v. 1413) pour Phalante.
+
+
+# La question du genre
+
+Nous nous attacherons ici à l'étude du genre tragique et particulièrement à l'observation des limites de ce genre au sein de la pièce. Si certaines caractéristiques de la pièce comme la mort des héros sont celles attestées de la tragédie, certaines autres témoignent d'une tendance de l'auteur à l'ouverture vers d'autres genres.
+
+
+## Rhétorique délibérative et genre tragique
+
+Les tragédies de l'auteur que sont *Jeanne, reyne d'Angleterre, Le comte d'Essex, La Mort des enfans d'Hérodes* et *Herménégilde* contiennent de vastes procès et relèvent toutes du genre judiciaire. *Phalante* comme *La Mort de Mithridate* sont les seules tragédies à faire entorse à cette règle. Alors que la tragédie est incontestablement attachée au genre judiciaire, *Phalante*, étonnamment, repose sur le genre délibératif. Dans cette tragédie, le nœud se fonde sur un dilemme qui ne peut être résolu que par la délibération de Phalante. Soit, le héros bafoue son amitié pour aller vers la personne qu'il aime, soit il renonce à sa passion pour honorer son amitié. Aussi le nœud repose-t-il entièrement sur le genre délibératif et en cela ce genre domine. Cette délibération a une particularité en ce qu'elle ne nécessite pas la rencontre de plusieurs partis ni la prise de conseils. Phalante délibère seul, face à sa propre conscience. Il est lui-même le principal obstacle à son propre désir. Les délibérations de ce personnage ont pour effet de ménager un certain suspense. Tout repose sur la décision de Phalante et jusqu'au milieu de l'acte III, le spectateur ne peut pas savoir ce qui va faire basculer la pièce vers le dénouement tragique ni de quelle manière le dilemme peut se transformer puisqu'aucun autre parti n'intervient dans les délibérations du héros. Les deux imposants monologues de Phalante ressortissent tous les deux principalement au genre délibératif. Le héros change plusieurs fois de décision au cours du même monologue ce qui rend ces passages très intéressants qui constituent de véritables dialogues entre deux désirs contradictoires du même personnage.
+
+Nous évoquerons brièvement le genre démonstratif, presque absent de la pièce. La seule action qui aurait nécessité l'emploi de ce genre aurait été le récit du duel par un personnage témoin. Le duel étant presque intégralement représenté sur scène, il ne nécessite pas de récit, tout au plus quatre vers de Phalante retracent brièvement ce qui s'est passé hors scène. Aucun discours n'est donc dominé par le genre démonstratif. Cependant, il est évident que de nombreuses fois, des ressorts de ce genre sont employés et particulièrement pour décrire Hélène. Philoxène est très élogieux au sujet de la reine dès la première scène du premier acte. Tout comme le fera Phalante à différents endroits, il loue les qualités de cette reine. Ainsi, nous percevons l'influence de Pétrarque et de l'éloge amoureux mais seulement par touches.
+
+Quant au genre judiciaire, il n'a pas la place que l'on attendrait qu'il tienne au sein d'une tragédie mais il est présent tout au long de la pièce. C'est Hélène qui illustre le mieux ce genre. Elle condamne le comportement de Philoxène durant toute la pièce et particulièrement à l'acte IV. Consécutivement, elle commence à effectuer son propre procès dès la dernière scène de l'acte I, après son aveu. Certains personnages secondaires ont également un rôle judiciaire. À la scène 3 de l'acte V, Arate et Cléomède condamnent la reine de s'être empoisonnée. Elle est selon eux coupable d'abandonner ses sujets et de les pousser à la suivre dans la mort. Mais c'est à la fin de la pièce que le genre judiciaire tient une place prépondérante car il prend le relai du délibératif pour clore la tragédie. Philoxène, Hélène et Phalante, chacun à leur tour, émettent différents procès qui provoquent le dénouement et les catastrophes qui s'ensuivent. Philoxène se fait juge de Phalante, coupable de trahison selon lui. En le provoquant en duel il se fait lui-même l'exécutant de sa propre condamnation. Ensuite c'est au tour de Phalante qui, en raison de la blessure qu'il a infligée à Philoxène, exerce sur lui-même un jugement d'une extrême sévérité. D'abord il se juge coupable du crime de son ami puis de la mort de la reine à la dernière scène. C'est donc la culpabilité qui pousse Phalante à se suicider et ses derniers mots sont (v. 1702- 1704) :
+
+C'est que pour m'acquiter je ne perds qu'une vie,  
+Et qu'ayant fait mourir ma Reyne et mon amy,  
+Je ne puis en mourant les payer qu'à demy.  
+
+Ainsi, même en se suicidant, il juge que la punition n'est pas suffisamment sévère et qu'une seule mort ne pèse pas assez lourd au regard des deux morts dont il se juge responsable. Quant à Hélène, elle énonce clairement que ce n'est pas par passion ou désespoir qu'elle se tue mais bien parce qu'elle se juge indigne de ses aïeux et de son trône (rappelons tout de même que c'est la froideur de Phalante qui mène la reine à faire réflexion sur son honneur et sa gloire). Son empoisonnement s'apparente donc aussi à une condamnation. Comme Phalante, elle est à la fois juge et coupable. Comme Phalante et Philoxène, elle est l'exécutante de sa propre condamnation. Si le genre délibératif est central dans la pièce en ce qu'il sert à énoncer le nœud tragique, le dénouement se produit grâce à l'intervention du genre judiciaire. Le genre judiciaire, en servant le dénouement, apothéose de la tragédie, vient subvertir le genre délibératif.
+
+
+## Prélude au roman héroïque
+
+La pièce peut être étudiée comme la préfiguration de la carrière de romancier de La Calprenède. Pour la première fois, l'auteur choisit un sujet fictif comme point de départ de sa pièce, ce qui témoigne de son désir de changement. La Calprenède « s'est distingué entre les auteurs du xvii*e* siècle qui ont composé des romans » affirme le dictionnaire de Louis Moréri dès le début de son article sur La Calprenède. Il est reconnu jusqu'aujourd'hui comme un pionnier et modèle du roman héroïque [45]. Si son *Phalante* a des allures romanesques, il ne faut donc pas s'en étonner. Cet élan vers le roman héroïque se trouve principalement dans l'ébauche de duel entre Phalante et Philoxène à l'acte IV, scène 4. Le duel en tant que tel est banni de la scène classique mais la joute oratoire entre les deux héros, presque déjà épique, souligne l'attrait de l'auteur pour les scènes de combats. Philoxène apparaît une épée à la main et tente d'engager Phalante dans un affrontement. L'époque et, à plus forte raison, le genre tragique n'acceptent pas de montrer l'action physique, encore moins celle des héros. Si Phalante, en héros tragique et exemplaire, refuse de tirer son épée, Philoxène, furieux, tire son épée sur scène et veut passer à l'acte. Le dialogue conserve la primauté mais le genre est près de basculer dans la tragi-comédie pour servir le goût épique de notre auteur. Les deux héros sortent alors de scène pour terminer cette action. À la scène 6, nous les retrouvons et Philoxène est blessé. Seul le moment où Phalante a tenu l'épée et s'est défendu a été épargné au spectateur, ainsi, la tragédie n'a pas basculé et ce laps de temps nous est brièvement rapporté par Phalante. Quand Timandre découvre son fils à terre, Phalante est cette fois provoqué en duel par le père. Si ces duels ne se passent pas effectivement sur scène mais hors de scène ou que les héros se contentent de se provoquer oralement, ces passages dénotent du goût prononcé de l'auteur pour le genre épique. Ses romans héroïques lui permettront d'assouvir pleinement ce penchant qui lui vient sans doute de son goût pour le métier des armes et la littérature chevaleresque.
+
+
+## Entre tragédie et tragi-comédie
+
+La pièce de *Phalante* s'éloigne souvent du genre tragique pour rejoindre le genre tragi-comique. Jacques Morel commence sa description de la tragi-comédie ainsi : « sujet non historique [46] .» Il faut tout de même nuancer cette définition car il arrive que la tragi-comédie s'inspire de sujets historiques mais ayant « un caractère romanesque plus marqué [47] ». L'auteur ici, non seulement emploie un sujet non historique mais qui, de plus, est empreint d'un caractère romanesque marqué. Encore, s'il était courant que l'auteur emploie des sujets fictifs, alors ce ne serait pas un argument pour nous mais La Calprenède a principalement écrit sur la base de sujets historiques. Il s'est intéressé entre autres au personnage d'Hérodes et au suicide du roi Mithridate ; il évoque différentes périodes de l'histoire d'Angleterre avec *Le comte d'Essex, Édouard* ou *Jeanne, reine d'Angleterre*. Le seul appui historique de *Phalante* est sa situation : la fameuse ville de Corinthe. Le dramaturge se singularise non seulement à l'intérieur de son œuvre mais il se démarque aussi des goûts de ses contemporains, puisque les tragédies de l'époque sont en effet principalement influencées par des sujets dits « historiques ». Au début des années 1640, il n'y a que deux tragédies sur vingt-deux qui reposent sur un sujet fictif, d'après Lancaster. Ce dernier remet également en cause l'unité de lieu dans la pièce en soulignant que *L'injustice Punie, Thomas Morus* et probablement *Phalante* s'étendent sur deux jours. Cette mise en doute doit être réfutée pour plusieurs raisons que nous verrons plus loin mais d'abord et surtout car il n'y a aucun vers témoignant du temps qui passe dans la pièce. Évidemment, le propos de Lancaster n'est pas tout à fait infondé. En effet, l'étude de l'unité de lieux révèle que l'action se déplace beaucoup, à tel point, que les personnages ne peuvent pas parcourir tous ces lieux dans le temps que dure la représentation :
+
+
+La scène ne devra représenter que des lieux où les personnages peuvent vraisemblablement se rendre pendant le temps que dure l'action [48].
+
+Les lieux représentés dans la pièce sont : le bois, la chambre de la reine et une salle dans le palais. Les premières scènes se passent dans la chambre. Au deuxième acte, Phalante et parallèlement la reine se retirent dans un bois avant de s'y rencontrer par hasard. Le palais accueille à nouveau Hélène qui va assister au conseil. à nouveau, la chambre de la reine puis le palais réunissent les différents couples. Le duel entre Phalante et Philoxène se passe dans le bois et d'autres personnages vont les rejoindre. Enfin, la chambre de la reine accueille la scène finale. Les allers et retours entre ces différents lieux sont fréquents et même ils s'effectuent à l'intérieur d'un même acte. L'action demeure malgré cela unifiée et surtout, si l'unité de lieux n'est pas parfaitement respectée, comme c'est d'ailleurs rarement le cas dans la première moitié du siècle, les lieux son contigus. Ainsi, les personnages peuvent s'y rendre « dans le temps que dure l'action », en moins de vingt quatre heures sans problème car le bois est très proche du palais. Notons ici que la tragi-comédie accepte plus aisément que la tragédie la multiplicité de lieux. Les trois lieux de l'action nécessitent de nombreux déplacements pour nos personnages et les mouvements fréquents sont plutôt caractéristiques de la tragi-comédie que de la tragédie.
+
+De plus et surtout, la fin de la pièce est problématique. N'aurait-elle pas pu avoir une issue heureuse ? L'auteur se serait-il laissé le choix jusqu'au cinquième acte entre issue tragique et issue tragi-comique ? En effet, plusieurs éléments prouvent que la dernière scène aurait pu être bien différente. D'abord, Philoxène, blessé et à terre, reconnaît l'innocence de son ami et l'encourage à s'unir à la reine. Ainsi, le principal obstacle à l'union de la reine avec Phalante est évincé. Ce serait, comme nous l'avons étudié précédemment, faire fi de la culpabilité ressentie par Phalante pour avoir tué son ami. Mais, à y regarder de plus près, rien ne prouve que Philoxène meure des suites de sa blessure. Au contraire, le personnage de Cléomède semble envisager qu'il survive (v. 1365, 1366) :
+
+Il n'est plus temps de plaindre, il le faut secourir,  
+Emportons-le chez vous, il peut encor guerir.  
+
+Après cette sortie, rien n'indique clairement que Philoxène succombe à sa blessure. Seul Phalante se l'imagine dans la scène suivante. Quant à Hélène qui s'empoisonne à l'acte V, un échange entre elle et Cléomède laisse ouverte la possibilité qu'elle ingère un antidote (v. 1514-1516) :
+
+On peut encore au mal donner quelque remede,  
+Peut estre ce poison n'est pas si violent  
+Qu'on n'y puisse apporter  
+HELENE.  
+Helas ! il est trop lent  
+
+Et si Philoxène, lors de l'ultime entrevue entre Phalante et Hélène, réapparaissait guéri ? Ainsi, Phalante ne serait plus obligé de se suicider pour venger son ami puisqu'il aurait survécu. Ainsi, Phalante et Hélène pourraient s'unir avec la bénédiction du principal obstacle à leur amour. Hélène pourrait à ce moment ingérer un antidote sans remettre en cause la vraisemblance de cette action, puisque la probable existence de celui-ci a été mentionnée plus haut. Alors, tous les personnages pourraient revenir sur scène pour bénir cette l'union sans que l'exemplarité de Phalante ne soit mise en doute ni que le rôle politique de la reine ne soit entaché. D'ailleurs, Timandre et Philoxène sont les deux seuls grands absents de la dernière scène puisque tous les autres personnages sont présents, sauf l'inutile huissier, comme pour attendre l'issue tragi-comique. Et tous alors pourraient se réjouir de cette union. Philoxène a déjà donné son accord, Timandre aime Phalante comme son fils donc il pourrait très bien ressentir de la satisfaction à cette union, quant aux autres personnages, ils seraient ravis que Phalante soit le nouveau roi de Corinthe. Très tôt dans la pièce, l'auteur laisse entendre que le prince étranger est particulièrement apprécié par les Corinthiens. Timandre, ancien régent, en témoigne lui-même (v. 351, 352 et 358) :
+
+Icy tout vous adore et jamais autre prince,  
+Ne fut plus reveré dans sa propre province …  
+Les Princes du pays n'ont plus recours qu'à vous  
+
+La Calprenède semble s'être laissé une grande liberté pour clore sa pièce et avoir préparé en amont les deux issues. Reste à savoir pourquoi il a préféré l'issue tragique. C'est certainement le contexte de l'époque et son expérience personnelle qui peuvent l'expliquer.
+
+
+## Le choix raisonnable de la tragédie
+
+La tragédie est mise à l'honneur à partir des années 1640 comme le genre le mieux représentatif des règles classiques, aux dépends de la tragi-comédie. D'Aubignac jugera dans sa *Pratique du théâtre* que la tragédie est le genre qui a le mieux survécu parmi les genres anciens avant d'ajouter que l'introduction du genre tragi-comique est une disposition fâcheuse prise par ses contemporains [49]. En 1637, la querelle à propos de la tragi-comédie du *Cid* a opposé Pierre Corneille à de redoutables adversaires comme Georges de Scudéry. *Les sentiments de l'Académie* sur *Le Cid*, bien qu'adoucis par Chapelain, émettent un avis défavorable sur *Le Cid* et par conséquent sur le genre tragi-comique. Il est donc moins risqué à l'époque de représenter une tragédie, redevenue le genre le plus prestigieux. Au delà du contexte historique, l'histoire personnelle de l'auteur peut expliquer ce choix de l'issue tragique. Deux ans plus tôt, La Calprenède avait vécu un cuisant échec avec sa tragi-comédie, *Édouard*. Sa dédicace au duc d'Angoulême souligne le désir de l'auteur d'éloigner de lui cet échec : « Je vous offre mon Edoüard … un ouvrage si mauvais, et le dernier de cette nature que je pretends mettre au jour. » La Calprenède a donc toutes les raisons de ne plus écrire de tragi-comédies.
+
+Il semble donc peu probable que, dans ce contexte, l'auteur ait pu se laisser le choix entre les deux genres en écrivant son *Phalante*. Cependant, certaines raisons nous font penser qu'il pouvait encore avoir de l'attrait pour la tragi-comédie parce que malgré le contexte historique et littéraire beaucoup de dramaturges continuaient d'en écrire et parce qu'il pouvait encore penser que le succès arriverait par là. Comme le signale Antoine Adam, il reste quelques années de gloire à la tragi-comédie avant la Fronde :
+
+
+Bien que tenue en moindre estime que le genre rival, elle restait suffisamment goûtée pour que les écrivains comme Rotrou, Scudéry, Du Ryer, Baro, d'Ouville ne se soient pas crus déshonorés de la cultiver [50].
+
+Si *Le Cid*, tragi-comédie, été très décriée, a d'abord obtenu un véritable succès. Son influence était risquée mais elle était peut-être aussi l'assurance du succès. L'auteur ayant repris, comme nous l'avons étudié plus haut, certains éléments stylistiques et dramatiques du *Cid*, peut-être, sur de cet exemple, sera-t-il allé jusqu'à hésiter à faire de *Phalante* une tragi-comédie sans pour autant l'oser, finalement.
+
+
+# Note sur la présente édition
+
+Nous ne connaissons qu'une seule édition de *Phalante* de La Calprenède, celle-ci a été réalisée par le libraire Antoine de Sommaville qui a fait imprimer l'œuvre en 1641 par Théophraste Renaudot. Notre exemplaire de référence se trouve à la Bibliothèque nationale de France (BNF) sous la cote Yf-520 mais n'est malheureusement pas consultable en version papier du fait de sa trop grande fragilité. Il est néanmoins possible de visualiser cet exemplaire reproduit en microfiche à la BNF sous la cote M-23396 et en version numérique sur Gallica [51]. Le texte, en alexandrins à rimes plates, a été édité en in-4°, comporte douze cahiers de huit pages chacun, soit en tout quatre-vingt-douze pages foliotées auxquelles s'ajoutent trois pages non foliotées avant le texte de la pièce. Nous reproduisons en tête de notre édition la page de titre mais nous n'avons pas repris les bandeaux qui se trouvent en tête de chaque acte ni les frises qui séparent chaque scène ni encore les lettrines formées avec la première lettre du premier vers débutant chaque acte. Les bandeaux représentent un bouc entouré de deux loups enlacés dans des branchages, les frises représentent des motifs géométriques et les lettrines sont formées de personnages qui, reposant sur la lettre, sont entourés de feuillages.
+
+Le droit d'imprimer le texte a été cédé pour cinq ans au libraire par « privilege du roy » en date du 3 mai 1641 et les impressions ont été réalisées le 12 novembre de la même année selon l'« achevé d'imprimé ». Il semble que l'auteur ait reçu entre 150 et 250 livres tournois pour cette pièce du libraire Antoine de Sommaville [52]. Ce dernier a exercé de 1620 à 1665 au Palais, galerie des Merciers, à l'Ecu de France. Avec Augustin Courbé et Toussaint Quinet, il est alors le troisième plus important libraire du théâtre français. Il est spécialisé dans l'édition des Belles Lettres, pièces de théâtre, poésie, romans, traductions de poètes latins et italiens. Ce libraire est connu pour avoir pris des initiatives commerciales illicites contre les auteurs, notamment Rotrou ou contre ses collègues comme Sercy ou Courbé [53]. Il semble n'avoir pas été plus honnête avec La Calprenède, quand il profite d'une rumeur sur la mort de l'auteur pour obtenir un privilège de neuf ans pour la tragédie *Jeannne, reine d'Angleterre*. Cependant, La Calprenède a continué à travailler ave ce libraire jusqu'à son dernier roman, *Faramond* dont Sommaville édite les huit premier tomes. L'imprimeur de *Phalante* est Théophraste Renaudot qui exerçait rue de la Calandre entre les années 1638 et 1644 [54]. Il est connu pour son travail fort médiocre, ce qui explique les nombreuses coquilles et les changements de graphie constants qui seront évoqués plus loin dans la note.
+
+
+## Avis au lecteur
+
+Le lecteur peut être gêné par certaines formes grammaticales, la graphie et la ponctuation du texte. Ces trois aspects ont beaucoup évolué depuis le xvii*e* siècle.
+
+Concernant les formes grammaticales, pouvoir et devoir à l'imparfait dans le texte ont une valeur modale de conditionnel passé. Ils expriment la non réalisation du procès. Ex. : « Et je devois mourir, et me taire en mourant », v. 14. Il faut comprendre : « j'aurais dû mourir.»
+
+Le lecteur peut être surpris par les changements de graphie pour un même mot. Par exemple, « malheur » pourra être orthographié « mal'heur » ou encore « mal-heur », sans oublier la graphie que nous connaissons aujourd'hui ; « lâche » pourra aussi bien être orthographié « lasche ». La richesse de la graphie en ce début de xvii*e* siècle est due aux changements orthographiques en train de se produire. Le français que nous connaissons est à cette époque encore instable. De plus, les cahiers sont souvent répartis entre plusieurs acteurs pour que le travail soit réalisé plus rapidement, ce qui crée des différences. Autre cas de figure qui peut se combiner avec le précédent, ayant utilisé tous les « s » en caractère de plomb pour imprimer les vers précédents, l'imprimeur se trouve forcé d'écrire « yeux » au lieu de « yeus » comme il en avait l'habitude. Certaines graphies peuvent ainsi gêner la compréhension du sens. Par exemple, la terminaison verbale de la deuxième personne du pluriel de l'indicatif est souvent utilisée pour marquer le participe passé et inversement. Ainsi, « -és » marque la deuxième personne du pluriel de l'indicatif et « -ez » le participe passé. Les vers 29, 33 et 34 pour exemple :
+
+Philoxene je sçay ce que vous meritez …  
+Et je vous rediray puisque vous m'y forc*és*,  
+Que vous dev*és* guerir si vous vous cognoiss*és*.  
+
+Quant aux majuscules, leur usage peut surprendre. Par exemple, « Reyne », « Dieux », « Tyran », « Sort » prennent régulièrement une majuscule alors qu'ils ne sont pas en début de vers et qu'aucune règle typographique de ce genre n'a été fixée sur leur emploi. Ces majuscules marquent en général la déférence ou le soulignement [55]. Notons que certains mots prennent ou non une majuscule selon le personnage qui les prononce, le moment de la pièce et l'interlocuteur. Par exemple, dans la bouche de Timandre au vers 349, « sort » ne prend pas de majuscule ; en revanche, quand Phalante parle à Hélène de son « Sort » au v. 640, la majuscule vient souligner l'importance de ce mot à ce moment de la pièce. En effet, « Sort » renvoie ici au dilemme qui déchire Phalante, son avenir va se modifier en fonction du choix qu'il fera.
+
+Il en va de même pour la ponctuation. Elle a été scrupuleusement respectée bien que quelques emplois puissent retenir l'attention du lecteur. Au xvii*e* siècle, la ponctuation respectait scrupuleusement les besoins de la mise en valeur de l'effet théâtral, parfois, semble-t-il au détriment de la syntaxe ou de la compréhension intuitive d'une phrase. La ponctuation était destinée à marquer les pauses, les accents, la hauteur de la voix dans la déclamation et la lecture à haute voix [56]. Il faut penser, en lisant la pièce, que la lecture silencieuse était inconnue pour les textes en vers.
+
+Quelques exemples d'écarts de ponctuation entre de xvii*e* siècle et aujourd'hui qui peuvent gêner la lecture, voire la compréhension du texte pour le lecteur :
+
+v. 972 : « Et donnez par pitié. », les points de suspension plutôt que le point seraient un meilleur témoin du fait que le personnage est ici coupé. Notons que les points de suspension étaient presque inexistants à cette époque.
+
+Bien que « quel » ait aussi une valeur interrogative, au v. 1558 il a cette fois une valeur exclamative mais est suivi d'un point d'interrogation : « Quel estrange spectacle ? » Il est pourtant clair dans le contexte que Phalante ne pose aucune question mais qu'il s'étonne de ce qu'il voit. Cependant, l'auteur, voulant certainement outrer le sentiment d'incompréhension que ressent Phalante à la vue de la reine mourante, a choisit un point d'interrogation au détriment de la logique syntaxique.
+
+
+## Corrections effectuées sur le texte original
+
+L'œuvre originale été respectée dans l'établissement du texte sous quelques réserves que nous étudierons ici.
+
+
+### Corrections sur toute l'œuvre
+
+– tous les « & » ont été remplacés par « et ».
+
+– tous les « u » ont été remplacés par des « v » lorsque le sens le nécessitait.
+
+– tous les « i » ont été remplacés par des « j » lorsque le sens le nécessitait. [57]
+
+– tous les tildes ont été supprimés pour laisser place à la nasale qu'ils substituaient.
+
+– tous les « S » ont été remplacés par « s ».
+
+– toutes les espaces superflues ont été réduites, avant une virgule par exemple ; d'autres espaces ont été ajoutées, avant un point d'exclamation par exemple.
+
+– aucune lettrine n'a été conservée ni aucune double majuscule en début de scène ou d'acte.
+
+
+### Liste des erreurs et coquilles
+
+Dans l'*Extraict du privilege du Roy* : « Imprimer où faire imprimer » où>ou
+
+Dans l'œuvre :
+
+v. 64, « sa naissance ? »  ?> !
+
+v. 81, « Qu'il entre, le cruel » ,> ;
+
+v. 104, « pris en butte. » .>,
+
+v. 108, « fortune errante. » .>,
+
+v. 110, « que je ne fus jamais, » ,>.
+
+v. 134, « Peut toucher de son mal celle qui la causé » la>l'a
+
+v. 210, « je meure de pitié. » .> ?
+
+v. 306, « il dedaigne le prix, » ,> ?
+
+v. 353, « Vostre vertu d'abord à produit mille effets » à>a
+
+v. 386, « Mais c'est vostre malheur qui causeras mes soings » causeras>causera
+
+v. 485, « … la clarté de cieux, » de>des
+
+,>.
+
+v. 502, « Si l'on ne m'aymois pas … » aymois>aymoit
+
+v. 535, « blessee » > blessée, pour le respect de la rime avec « pensée », v. 536
+
+v. 540, « trahïr » > trahir
+
+v. 587, « deffends toi » > « deffend toi ». Les verbes de la réplique sont à l'impératif et le sujet est commun à tous les verbes. Le « s » n'a donc pas lieu d'être ici puisqu'au xvii*e* siècle, la première personne de l'impératif ne prenait jamais de « s » quel que soit le groupe verbal.
+
+v. 595, « … pensees » > pensées ; v. 596 « … adressees » > adressées. Les accents en fin de mot sont conservés partout ailleurs dans l'impression originale.
+
+v. 613, « J'ay fait une basse indigne de mon rang » basse>bassesse
+
+v. 657, « … hnoneur » > honneur
+
+v. 708, « … eux mesmes » > eux-mesmes
+
+v. 751, « … ostiner… » > obstiner
+
+v. 754, « avez pris. » .> ?
+
+v. 758, « plus doux, » ,> ?
+
+v. 766, « je devois avoir » > « je devois avoir. »
+
+v. 774, « mon cœur. » .>,
+
+v. 884, « … tu m'as haie » haie>haïe
+
+v. 898, « … haït » > hait
+
+v. 926, « Songes à ce que tu fais, r'appelles ta vertu » songes>songe ; r'appelles>r'appelle. Toute la phrase est à l'impératif. Le contexte suggérant en effet un impératif, nous l'avons rétabli dans toute la phrase (sans « s » à la deuxième personne du singulier au xvii*e* siècle).
+
+v. 996, « … advantaguex … » > advantageux
+
+v. 1044, « … à cogneu … » à>a
+
+v. 1095, « Q'au … »>Qu'au
+
+v. 1157, « Laissez-moy seul, Arbante ? »  ?> !
+
+v. 1458, « ce lasche dessein. » .> ?
+
+p. 71 de l'imprimé d'origine « PHILOXEN » > PHILOXENE
+
+v. 1510, « Qui parmy les mortels nous ayt porté la couronne ». « Nous » est supprimé pour le respect de l'alexandrin. Il est peu probable que ce soit La Calprenède qui ait fait cette erreur.
+
+v. 1575, « Par quel traits de constance ou d'inhumanité » traits>trait. On choisit ici de rectifier cette erreur d'accord par un singulier et non un pluriel comme cela aurait pu être possible. Seulement, Hélène semble ici confuse et le singulier permet de souligner cette hésitation entre un seul des deux termes qui ont ici une valeur quasi oxymorique.
+
+v. 1613, « … suprem es » > supremes
+
+v. 1715, « Va rejoindrr … » > rejoindre
+
+– une erreur est survenue dans la pagination de l'œuvre d'origine : les pages foliotées 100, 101 et 102 devraient porter les numéros 90, 91, 92. Dans la numérisation de l'impression d'origine, une page a été ajoutée par la BNF signifiant la « pagination incorrecte ».
+
+– les trois derniers cahiers sont appelés K, L et M mais devraient s'appeler J, K et L. Cette erreur n'a pas été modifiée pour que l'on puisse plus facilement se repérer par rapport à l'impression originale.
+
+
+## Relevé des différences et similitudes entre les exemplaires
+
+L'étude a été effectuée sur la base d'un exemplaire numérisé visualisable sur Gallica et en microfiche. Il a été poinçonné par la Bibliothèque royale qui le possédait. Il existe quatre autres exemplaires de *Phalante*, tous consultables dans les bibliothèques rattachées à la BNF. Chaque exemplaire dont nous avons connaissance est imprimé en in-4° et ils ont été apparemment tous imprimés à la même date car on retrouve sur chacun d'eux : « achevé d'imprimé le 12. Novembre, 1641. » Deux d'entre eux se trouvent dans des recueils factices créés plusieurs années après l'impression de *Phalante* par Sommaville. Ces recueils n'ont pas été établis pas l'auteur lui-même et peuvent même dater d'après sa mort. Ils sont un signe de l'intérêt porté aux pièces de La Calprenède. Étudier les différences et similitudes entre les exemplaires nous permet à la fois de répertorier toutes les impressions consultables de l'œuvre mais aussi de voir quel était le niveau d'intervention des personnes présentes lors de l'impression et si l'auteur pouvait intervenir lui-même.
+
+Recueil factice de trois tragédies de La Calprenède consultable à la bibliothèque de L'Arsenal sous la cote 4- BL- 3479 (1) :
+
+*Phalante*, 1641 ; *Jeanne Reyne D'Angleterre* 1637 ; *Hermenigilde*, 1643.
+
+Poinçonné par la bibliothèque de l'Arsenal.
+
+Les erreurs typographiques sont en général similaires à celles de l'exemplaire numérisé.
+
+Cahier D, v. 613 : « basse » a été corrigé par « Bassesse »
+
+v. 657 : « hnoneur » a été corrigé par « honneur »
+
+Pagination : les pages 90 et 91 sont aussi paginées 100 et 101 mais bizarrement, la page 92 est correctement paginée.
+
+Cahiers : les erreurs de numérotation des derniers cahiers sont similaires.
+
+Recueil factice de 5 tragédies et 3 tragi-comédies consultable à la bibliothèque de L'Arsenal sous la cote 4- BL- 3476 (4) :
+
+*La mort de Mithridate*, tragédie de 1636 ; *Le Clarionte ou le Sacrifice sanglant*, tragi-comédie de 1637 ; La *Bradamante*, tragi-comédie de 1637 ; *Phalante*, tragédie de 1641 ; *Le Comte Dessex*, tragédie de 1639 ; *Edouard*, tragi-comédie de 1640 ; *La mort des enfants d'Herodes ou la suite de Mariane*, tragédie de 1639 et *Hermenigilde*, tragédie de 1643.
+
+Poinçonné par la bibliothèque de l'Arsenal.
+
+Les erreurs sont identiques au recueil factice mentionné ci-avant.
+
+Exemplaire de *Phalante* consultable à la bibliothèque de L'Arsenal  sous la cote GD- 43796 :
+
+Poinçonné par la bibliothèque de l'Arsenal.
+
+p. 41-42, la page dépasse du livre et a été repliée.
+
+Cahier D, v. 613 : « basse » corrigé par « Bassesse »
+
+v. 657 : « hnoneur » corrigé par « honneur »
+
+Cahier I p. 71 : « Philoxen » a été corrigé par « Philoxene »
+
+Cahier L, v. 1613, « suprem es » a été corrigé par « supremes »
+
+Les pages 90 et 91 sont aussi paginées 100 et 101 mais la page 92 est restée correctement paginée.
+
+Les erreurs de numérotation des derniers cahiers sont similaires.
+
+Exemplaire de *Phalante* consultable à la bibliothèque de Richelieu sous la cote RF- 6277 (6) :
+
+Poinçonné par la bibliothèque Royale.
+
+Les erreurs son similaires à l'impression qui nous sert de modèle, sauf :
+
+Cahier D, v. 613 : « basse » corrigé par « Bassesse »
+
+v. 657 : « hnoneur » corrigé par « honneur »
+
+Cahier I p.71 : « Philoxen » a été corrigé par « Philoxene »
+
+La collation des différents imprimés prouve que l'impression sur laquelle nous nous basons a été réalisée antérieurement aux quatre autres puisque c'est celle qui contient le plus d'erreurs. On peut ainsi déterminer qu'il y a eu correction sous presse et qu'elles ont toutes effectuées par les imprimeurs eux-mêmes au cours de l'impression. Au xvii*e* siècle la lenteur de l'acte d'impression, page par page, explique ce phénomène. Les imprimeurs avaient le temps de relire les feuilles pendant l'impression et ainsi de corriger les coquilles qui leur apparaissaient. Il n'y a aucune correction de fond pour deux raisons très simples. D'abord, il n'y a qu'une seule édition connue donc l'auteur n'a pas repris son texte. Ensuite, il était rare que les auteurs soient présents lors de l'impression de leur œuvre. Il est évident ici que l'auteur n'était pas présent lors de l'impression et ne pouvait ni guider les imprimeurs ni relire son texte sous presse. S'il avait été là, nous aurions pu trouver des corrections de fond, peut-être moins de coquilles et des choix de graphie plus homogènes. Le plus souvent, lorsque l'auteur cédait son œuvre à un libraire, libre à ce dernier de décider comment il désirait l'imprimer et quel atelier s'en chargerait. L'auteur était alors dépossédé de tous ses droits sur l'œuvre durant une période définie par le privilège, cinq ans dans le cas de *Phalante*.
+
+S'il n'y a pas d'argument avant le texte lui-même, il en existe un consultable séparément de l'œuvre. Il date de 1641 et on le trouve à la bibliothèque de l'Arsenal sous la cote GD-159816. L'argument a été collé à l'intérieur d'une feuille A4 bleue pliée en deux se présentant alors come un A5. Le titre, le nom de l'auteur et la date d'impression on été écrites à main levée à l'encre sur la première page : Phalente / La Calprenède (1641). La notice bibliographique stipule que l'argument a été réalisé en in-16 Une photocopie de l'impression d'origine est collée à l'intérieur de cette la page :
+
+
+Hélène, reine de Corinthe, a conçu autant d'amour pour Phalente, prince étranger, qu'elle a d'aversion pour Philoxène, fils du prince Timandre. Tout l'intérêt de cette pièce roule sur la délicatesse de Phalente qui sacrifie son amour à l'amitié qui le lie avec Philoxène. En effet, au lieu de répondre aux tendres empressements de la princesse, il ne lui parle que pour son ami. Mais ses soins ne servent qu'à redoubler l'aversion de la reine, et excitent très-injustement la jalousie de Polixène, qui, sans vouloir écouter la justification de son ami, force son rival à mettre l'épée à la main. Polixène se précipite avec tant de fureur sur le fer de son ami qu'il se blesse mortellement. Il reconnaît enfin son erreur et expire pénétré de son aveuglement. D'un autre côté, les froideurs affectées de Phalente jettent la reine dans un tel désespoir, qu'elle s'empoisonne pour terminer une vie importune. Elle vient, en cet état, se présenter aux yeux de son cruel amant : la vue de la princesse expirante lui cause de cuisants remords ; il se reproche sa faiblesse, qui l'a engagé à entretenir l'infructueux amour de son ami, et empêché de profiter de celui d'une reine adorable ; et, cédant à l'excès de sa douleur, il se frappe, et tombe aux pieds de son amante qui le suit de près.
+
+Il est étonnant d'observer que l'argument de *Phalante* est indépendant de l'ouvrage lui-même. Certainement l'auteur l'a-t-il réalisé avant d'écrire son œuvre ou pendant son écriture. La Calprenède ne semble pas sûr encore du nom qu'il donnera à ses personnages : « Phalante » est écrit « Phalente » et l'auteur hésite en permanence entre « Polixène » et « Philoxène ». Le document ne délivre aucun renseignement sur l'imprimeur ou le libraire, seule la date, 1641, peut laisser penser que c'est Sommaville qui aurait fait imprimer ce texte séparément de l'impression de la pièce. Peut-être que La Calprenède lui aurait soumis plus tard.
+
+
+# Phalante. Tragédie
+
+
+## EXTRAICT DU PRIVILEGE DU ROY.
+
+Par grace et Privilege du Roy, en datte du 3. jour de May 1641. signé par le Roy, en son Conseil le Brun. Il est permis à ANTOINE DE SOMMAVILLE Marchand Libraire à Paris, d'Imprimer ou faire imprimer une piece de Theatre intitulée PHALANTE TRAGEDIE, et ce durant le temps de cinq ans. Et deffence sont faictes à tous autres de quelque qualité et condition qu'ils soient d'en vendre d'autres que celle qu'aura faict imprimer ledit de Sommaville, sur les peines portées pas lesdites lettres.
+
+Achevé d'imprimer le 12. Novembre, 1641.
+
+
+## ACTEURS.
+ – HELENE,Reyne de Corinthe.
+ – PHALANTE,Prince estranger.
+ – PHILOXENE,Prince de Corinthe.
+ – TIMANDRE,Pere de Philoxene.
+ – CLEOMEDE,Seigneur de Corinthe.
+ – ARATE,Seigneur de Corinthe.
+ – ARBANTE,Confident de Phalante.
+ – CLEONE,
+ – AMINTE,Demoiselles de la Reyne.
+ – 
+
+
+## ACTE I.
+
+
+### SCENE PREMIERE.
+PHILOXENE, HELENE dans sa chambre.
+
+
+    PHILOXENE.
+Ces regards enflammés que lancent vos beaus yeus,  
+Ne sont que des esclairs pour cet audacieus [58],  
+Et sa presomption [59] a merité la foudre⁎ [60],  
+Dont ils s'arment desja pour le reduire en poudre.  
+Ouy, Madame, il est juste, et vostre Majesté  
+Me doit enfin punir de ma temerité ;  
+J'abuse insolemment des bontés de ma Reine,  
+Du respect qu'un vassal doit à sa Souveraine,  
+Et dans⁎ ma passion⁎ je ne recognoy pas,  
+Et combien elle est haute, et combien je suis bas.  
+Mon audace a rendu ma faute irrémissible [61],  
+Ma flamme⁎ est criminelle en tant qu'elle est visible,  
+Aussi n'ay-je peché qu'en vous la descouvrant,  
+Et je devois [62] mourir, et me taire en mourant :  
+Mais quelque passion⁎ qui rompe mon silence,  
+Ne m'en accusez point, on me fait violence [63],  
+Et ce Tyran des Dieux [64], d'un insolent pouvoir ;  
+Dans⁎ mon aveuglement estouffe mon devoir,  
+Ma passion⁎ l'emporte avec trop d'avantage,  
+Et ceux à qui vos yeux laissent encor l'usage,  
+Et de la cognoissance et du raisonnement⁎,  
+Quelques prudens qu'ils soient, manquent de jugement,  
+Si l'on brûloit pour vous d'une flamme⁎ commune ;  
+
+    HELENE.
+Philoxene il suffit, ce discours m'importune,  
+Lassés [65]-vous à la fin de me persecuter,  
+Comme ma patience [66] est lasse d'escouter.  
+
+    PHILOXENE.
+Si pour vous adorer j'ay pû commettre un crime,  
+J'ay failly,  
+
+    HELENE.
+Ce n'est pas que je ne vous estime  
+Philoxene je sçay ce que vous meritez  
+Et pour vostre naissance et pour vos qualitez,  
+Mais quelques sentimens que l'estime me donne  
+Vostre amour me desplaist plus que vostre personne,  
+Et je vous rediray puisque vous m'y forcés,  
+Que vous devés guerir si vous vous cognoissés [67].  
+
+    PHILOXENE.
+Je me cognois Madame, et ceste amour extréme,  
+Qui m'a presque en naissant detaché de moy mesme,  
+Ne m'aveugle pas tant, que pour comble d'ennuys⁎  
+Je ne puisse juger qui j'ayme et qui je suis,  
+Si de vous adorer la gloire⁎ est interdite,  
+A ceux que la grandeur, le sang et le merite,  
+Ne rendent point egaux à vostre Majesté,  
+Qui se pourra vanter de l'avoir merité ?  
+Mais si par les ardeurs d'une flame⁎ eternelle  
+Par un profond respect, par un feu⁎ plein de zele,  
+Par des preuves d'amour, de constance et de foy,  
+On le peut espérer, qui le doit mieux que moy ?  
+Tousjours vos volontés ont fait mes destinées⁎,  
+Je vous ay dedié mes premieres années.  
+Naissant je vous servis, et les Dieux sont tesmoins  
+Que le Sceptre à vos loix m'assujetit le moins,  
+Que mon cœur asservy du plus bas de mon âge,  
+Sans contrainte à vos pieds rendit un double hommage,  
+Et ne mesla jamais dans⁎ ses sainctes ardeurs,  
+A l'interest d'amour l'interest des grandeurs :  
+Je fus deux fois subjet, vous deux fois Souveraine,  
+Et vivant avec gloire⁎, esclave de ma Reyne,  
+J'eus dés vos jeunes ans, eslevé pres de vous,  
+Et des bon-heurs plus grands, et des momens plus dous.  
+Vous excusiez pour lors ma passion⁎ naissante,  
+Qui vous entretenoit d'un amour innocente [68],  
+Vostre esprit jeune encor differoit mon trespas,  
+Et me pleignoit d'un mal qu'il ne cognoissoit pas.  
+Mais helas ! que le Ciel a mis de difference  
+A la suitte d'un bien si grand dans sa naissance !  
+Mon cœur ne changea point, mais le vostre changea,  
+Si-tost que sous vos loix Corinthe se rangea :  
+Quand vostre dignité s'accrut avec vostre aage,  
+Et que la majesté qui brille en ce visage,  
+Receut d'une couronne un esclat tout nouveau,  
+Toute mon esperance entra dans le tombeau,  
+Vous ne cogneustes plus le pauvre Philoxene,  
+Son amour seulement fit naistre votre haine,  
+Et ce ressentiment⁎ qui vous peut animer  
+Ne vous le fait haïr que pour vous trop aymer.  
+
+    HELENE.
+Si je vous haïssois autant que vous le dites,  
+Je me garantirois de toutes vos visites.  
+Et ne preferant point vostre repos au mien,  
+Je me delivrerois d'un facheux entretien,  
+Suffit que je vous soufre et que trop indulgente,  
+
+
+### SCENE II.
+CLEONE, HELENE, PHILOXENE, UN HUISSIER.
+
+
+    CLEONE.
+Madame, quelqu'un vient.  
+
+    HUISSIER.
+C'est le Prince Phalante.  
+
+    HELENE.
+Qu'il entre ; le cruel revient pour m'affliger,  
+Mais non pas pour me plaindre ou pour me soulager,  
+Ah ! l'ingrat, le voicy, cache un peu ta foiblesse.  
+
+    PHILOXENE.
+Qu'il arrive à propos, cher amy je vous laisse,  
+Ma vie est en vos mains et j'attens tout de vous.  
+
+
+### SCENE III.
+HELENE, PHALANTE.
+
+
+    HELENE.
+Depuis que vos malheurs sont des bon-heurs pour nous,  
+Et que nous benissons le succés de ces guerres,  
+Qui pour nous visiter vous font quitter vos terres [69],  
+Treuvez vous parmy nous un divertissement  
+Qui puisse soulager vostre bannissement,  
+Car apres les grandeurs qu'il eust dans sa province,  
+Ma Cour⁎ est un exil pour un si brave Prince.  
+Mais pourtant un exil qui peut estre adoucy,  
+Par l'absolu pouvoir que vous avez icy.  
+
+    PHALANTE.
+Madame, vos bontez sont pour moy sans limites  
+Et m'ayant honoré⁎ par dessus mes merites,  
+Vos faveurs m'ont fait tort, m'ayant mis en estat,  
+Ou de mourir pour vous, ou de mourir ingrat,  
+Que peut un mal-heureux que les Dieux et la guerre,  
+Font errer fugitif de sa natale terre ?  
+Et qui devoit [70] perir si vostre Majesté  
+N'eut soulagé sa perte avec tant de bonté ;  
+Certes de tous les maux dont le ciel persecute  
+Celuy que son courroux semble avoir pris en butte.  
+La plus vive douleur qu'il pouvoit [71] recevoir,  
+C'est de vous devoir tant et de ne rien pouvoir :  
+Vous avez relevé ma dignité panchante,  
+Recueilly les debris de ma fortune⁎ errante,  
+Et par mille faveurs et par mille bien-faits  
+Vous m'avez mis plus haut que je ne fus jamais.  
+Aussy de quelque aigreur dont la fortune⁎ averse [72]  
+Dans⁎ mes plus beaux desseins sans cesse me traverse⁎,  
+Je la voudrois benir et tous mes ennemis,  
+De l'estat glorieux où leur rage m'a mis.  
+Si de tant de bon-heur dont vous estes la source,  
+Un sensible regret ne traversoit⁎ la course,  
+Un regret qui me tuë, et qui fera perir,  
+Ce qu'en vain vos bontez ont daigné secourir ;  
+Pardonnez un discours que la douleur arrache.  
+
+    HELENE.
+Ce n'est pas tout Phalante, il faut que je le sçache,  
+Et si par mon credit il se peut soulager,  
+Je ne refuse rien qui vous puisse obliger,  
+Souffrez⁎ ma confidence, et recevez mon ayde.  
+
+    PHALANTE.
+De vous seule depend le mal et le remede  
+Et vostre charité du tombeau tirera  
+Et l'amy qui se meurt, et l'amy qui moura.  
+Ce n'est pas d'aujourd'huy que ma bouche importune⁎  
+Regrette à vos genous sa mauvaise fortune⁎,  
+Et qu'affligé d'un mal que je souffre à demy,  
+Je demande à vos pieds le salut⁎ d'un amy.  
+Certes si la pitié peut attendrir une ame,  
+Et si quelque rayon de la plus belle flame⁎,  
+Dont le cœur d'un amant⁎ fut jamais embrasé,  
+Peut toucher de son mal celle qui l'a causé,  
+Vous estes obligée à soulager la peine⁎  
+Qu'on voit souffrir pour vous au pauvre Philoxene.  
+Jamais cœur ne brusla dans⁎ un si grand respect,  
+Et bien que l'amitié⁎ me peut rendre suspect,  
+J'atteste des grands Dieux la puissance supréme  
+Que jamais un mortel n'ayma comme il vous ayme :  
+C'est de ceste pitié que naissent tous mes soins⁎,  
+Et cet estroit lien dont nos esprits sont joints.  
+Quelque bien, quelque mal, quelque honneur⁎ qu'on me face  
+M'a rendu mal-heureux dans⁎ sa seule disgrace.  
+
+    HELENE.
+Belle et digne amitié⁎ d'un cœur si genereus,  
+Que dans⁎ tous les [73] malheurs Philoxene est heureus,  
+D'avoir fait un amy dont la vertu trop haute,  
+Compatit à ses maus, et souffre pour sa faute.  
+Mais puis qu'une si forte et si rare amitié⁎,  
+Vous a pour son malheur donné quelque pitié,  
+Et que vous ressentez la peine⁎ qu'il merite,  
+Pour son ambition trop douce et trop petite,  
+Donnez luy desormais le conseil de guerir,  
+Puisque ce cœur ingrat ne le peut secourir.  
+C'est, quoy que son erreur luy face encor pretendre,  
+L'office⁎ le meilleur que vous luy puissiez rendre ;  
+Il vous croira sans doute, et par raisonnement⁎  
+Il se retirera de son aveuglement :  
+Employez-y vos soins⁎.  
+
+    PHALANTE.
+O ciel ! est-il possible  
+Qu'à tant de passion⁎ vostre cœur insensible  
+A cét Amant⁎ fidele ordonne le trespas,  
+Puis que sans ce remede il ne guerira pas ?  
+Ceux qui peuvent sentir les atteintes mortelles  
+Dont vos yeux ont blessé les ames les plus belles,  
+Quoy que fassent pour eux le temps et la raison⁎,  
+Dans la mort seulement treuvent [74] leur guerison :  
+Certes si vous pouviez sans mépris ou sans haine  
+Considerer les maux du pauvre Philoxene.  
+Et voir le triste estat où vous l'avez reduit  
+Depuis qu'il vous adore avec si peu de fruit,  
+Vous verriez qu'un conseil d'une telle nature,  
+Au lieu de l'adoucir aigriroit sa blessure.  
+Helas combien de fois pasle et sans mouvement,  
+Ses yeux devers [75] le ciel eslevez lentement,  
+Ses yeux à qui des pleurs la course continuë,  
+Auroit presque ravy l'usage de la veuë,  
+L'ay-je veu demander pour un dernier secours  
+La fin de vos rigueurs dans⁎ la fin de ses jours ?  
+Il est vray, ses douleurs faisoient naistre les miennes,  
+Mes larmes, je l'avouë, accompagnoient les siennes,  
+Mon ame par pitié blâmoit vostre rigueur,  
+Et ses ardans souspirs me touchoient jusqu'au cœur,  
+Ce fut cette pitié qui me fit temeraire,  
+Et bien que le respect m'obligeât à me taire,  
+Cette compassion me le fit violer,  
+Et pour le secourir me força de parler,  
+Mais Dieux ! que mes discours ont eu peu d'eficace,  
+Mes importunitez⁎ augmentent sa disgrace,  
+Et redoublent le mal qui l'accable aujourd'huy,  
+Parce qu'un mal-heureux intercede pour luy.  
+
+    HELENE.
+Faut-il que ce discours si vivement me touche,  
+Et que pour Philoxene il sorte de sa bouche :  
+O Dieux ! qui l'escoutez, puis qu'il s'adresse à moy,  
+Que ne permettez-vous qu'il le fasse pour soy ?  
+Mais c'est trop endurer, haste ta destinée⁎,  
+Force ce dur silence où tu t'es condamnée,  
+Et puis que ton brasier ne se peut plus cacher  
+Esprouve⁎ la bonté d'un ennemy si cher,  
+Il n'est point insensible, et ce visage aymable,  
+N'est point sorty des flancs d'une ourse impitoyable,  
+S'il n'est plus endurcy qu'un tronc ou qu'un rocher :  
+Tes yeux ont des attraits qui le pourront toucher,  
+Force cette pudeur qui te fait violence.  
+Ah ! pardon, ma vertu,  
+
+    PHALANTE. 
+La princesse balance,  
+Sans doute mes discours auront fait quelque fruit.  
+Ah ! cruauté du ciel où m'avez-vous reduit ?  
+Faut-il que je poursuive avecque tant d'envie,  
+Dans⁎ le bien d'un amy la perte de ma vie ?  
+Que je donne vainqueur ma vie à l'amitié⁎,  
+Ou que n'obtenant rien je meure de pitié ?  
+
+    HELENE.
+Ma vertu, ma pudeur, mon action vous blesse,  
+Mais à ma passion⁎ pardonnez ma foiblesse,  
+Ma flamme⁎ est innocente et n'a point de penser,  
+Pure et chaste qu'elle est, qui vous puisse offenser,  
+Je peche seulement contre la bien-seance,  
+Et ne vous choque point qu'en forçant le silence.  
+Phalante, pardonnez mon incivilité⁎  
+Aux mouvemens divers⁎ d'un esprit agité ;  
+Mon ame dans⁎ l'estat où vous l'avez reduite,  
+Par les puissants efforts d'une ardante poursuite,  
+Faisoit reflexion à tant de qualitez,  
+Et d'actes de vertu dont vous nous enchantez [76] :  
+Et certes Philoxene a bien plus d'avantage  
+Ayant receu du ciel ce glorieux partage [77],  
+D'un amy vertueux et brave comme vous,  
+Que je n'en ay d'un Sceptre, et d'un regne assez doux.  
+Aussi vostre merite et ce que je defere  
+Au vouloir d'un amy dont la vertu m'est chere,  
+Produiroient dans mon cœur de plus puissans effets,  
+Que son affection⁎ n'en produira jamais :  
+Si mon ame desja n'estoit préoccupée [78],  
+Et si le coup mortel dont je la sens frappée,  
+Me laissoit de mon cœur disposer un moment,  
+Afin de satisfaire un amy si charmant [79] ;  
+Helas ! j'en ay trop dit, et vous pouvez connoistre,  
+Ce que ma passion⁎ malgré moy fait paroistre,  
+Espargnez à ma honte une confession,  
+Que je ne vous feray qu'à ma confusion :  
+Car bien que mon esprit soit sans tache et sans crime,  
+Cette vive couleur que la pudeur imprime  
+Sur mon front innocent, m'a desja reproché,  
+Qu'il en falloit rougir ainsi que d'un peché :  
+En fin Phalante, j'ayme, ô Dieu ! ce mot me tuë.  
+
+    PHALANTE.
+Doncques pour mon amy l'esperance est perduë [80]  
+Quoy vous aymez Madame, et son zele et sa foy. [81]  
+
+    HELENE.
+Croyez que son repos ne depend plus de moy,  
+Et confessez aussi qu'en cette confidence,  
+Philoxene tesmoigne une haute imprudence :  
+Pour gaigner sur mon cœur beaucoup plus qu'il n'a fait,  
+Il se devoit passer d'un amy si parfait,  
+Raisonner⁎ dans ce choix s'il en estoit capable,  
+Juger qui de vous deux estoit le plus aymable,  
+Et pour donner l'employ qu'il vous donne aujourd'huy,  
+Prendre un intercesseur qui le fut moins que luy.  
+O Dieux ! ma honte icy n'est que trop manifeste,  
+Phalante j'en dis trop, dispensez moy du reste,  
+Et ne me forcez point contre ce que je doy,  
+A vous faire un adveu trop indigne de moy :  
+Lisez-le dans mes yeux et dessus mon visage,  
+Ils ne parlent que trop à mon desadvantage :  
+Ils sont assez changez par la honte qu'ils ont,  
+Et paroissent confus de l'office⁎ qu'ils font.  
+
+    PHALANTE.
+O Dieux ! que deviendray-je ? ah ! Madame.  
+
+    HELENE.
+De grace,  
+Dequoy que mon destin⁎ me flatte ou me menace,  
+Faites reflection encore un peu de temps,  
+Avant que [82] prononcer l'arrest que j'en attends.  
+Et que pour mon repos vostre bonté permette,  
+Qu'apres ce grand effort mon ame se remette :  
+Elle est toute troublée⁎ en cette extremité,  
+Adieu pardonnez-moy cette incivilité⁎.  
+
+
+### SCENE IV.
+HELENE, AMINTE.
+
+
+    HELENE.
+Restes d'une pudeur laschement offensée,  
+Dignité de mon Sceptre indignement blessée,  
+Manes de mes parens, noble suite d'ayeux,  
+De qui l'illustre sang sortit du sang des Dieux,  
+Vous que j'offence tous d'une mortelle injure,  
+Pardonnez-moy ma faute, amour vous en conjure,  
+Et cet Imperieux [83] par son authorité  
+La veut rendre excusable à la posterité.  
+J'ay peché par contrainte, et mon ame esperduë,  
+Avant que de ceder s'est long-temps defenduë.  
+Ma vertu mille fois m'a mis devant les yeux,  
+Le soin⁎ de mon honneur⁎, mon rang et mes ayeux,  
+M'a cent fois remonstré le tort irreparable  
+Que mon sang recevoit d'un feu⁎ si condamnable,  
+Que ma faute outrageoit les vivans et les morts,  
+Et contre ce Tyran a fait de vains efforts.  
+O pretexte honteux dont mon ame s'abuse,  
+J'ay failly, j'ay failly, mon front mesme m'accuse.  
+Si je n'estois coupable, il ne rougiroit point,  
+Vous, que ma passion⁎ outrage au dernier poinct,  
+Honneur⁎, couronne, ayeux, n'excusez plus ma faute,  
+Je devois maintenir cette Majesté haute,  
+Conserver l'asseurance à ce front couronné,  
+Et mourir dans le rang que vous m'avez donné,  
+Je devois estouffer une naissante flame⁎,  
+Et si le ciel jaloux ne me pourveut d'une ame  
+Digne de ma naissance et du rang que je tiens,  
+Pour refuser un joug et d'indignes liens,  
+Je devois pour le moins me faire violence,  
+Cacher un feu⁎ honteux, mourir dans mon silence,  
+Et m'arracher plustost ce vil et lasche cœur,  
+Qu'implorer la mercy [84] d'un insolent vainqueur :  
+Que sçay-je si desja cette estrange⁎ ouverture  
+Aura fait à ma gloire⁎ une mortelle injure ?  
+Si l'ingrat l'a receuë avecque du mespris,  
+Et si sans le combat il dedaigne le prix ?  
+Peut estre que desja tes flames⁎ importunes⁎  
+Passent dans son esprit pour ses moindres fortunes⁎,  
+Et qu'il conte [85] une Reyne entre mille beautés,  
+De qui la passion⁎ flatte ses vanités :  
+Ah ! si tu soûpirois pour un mal volontaire,  
+Helene tu devois ou mourir ou le taire :  
+Estaindre pour jamais, ou cacher ton flambeau,  
+Et ne le pouvant plus l'estouffer au tombeau.  
+O protecteur des Roys et Demon tutelaire [86],  
+Et vous grand Dieu des mers que Corinthe revere [87],  
+Vous qui lui fistes voye, et vistes ses vaisseaux  
+Errans et vagabonds sur le front de vos eaux,  
+Pourquoy pour le salut⁎ de cette infortunée,  
+N'avez-vous de nos bords destourné cét Enée [88],  
+Qui desja dans mon ame à ma confusion,  
+Allume un plus grand feu que celui d'Ilion [89].  
+Si je devois brusler pourquoy dedans son ame  
+N'allumiez-vous de mesme.  
+
+    AMINTE.
+Esperez-le Madame,  
+Bannissez cette crainte, et recognoissez mieux,  
+Cet amour qui triomphe et brille dans vos yeux :  
+Si l'on n'en doit juger que selon l'apparance,  
+
+    HELENE.
+Dans⁎ cette affection⁎ j'ay bien peu d'esperance :  
+Et j'ay d'un mal prochain cent presages mauvais :  
+Cent tristes visions, cent songes que j'ay faits,  
+Menacent cest amour d'une funeste issuë,  
+Grands Dieux si dans⁎ ma peur je ne suis point deceuë⁎,  
+Et si vous haïssez un feu⁎ qui me fait tort,  
+Envoyez moy bien-tost le remede ou la mort.  
+
+
+## ACTE II.
+
+
+### SCENE PREMIERE.
+TIMANDRE, PHALANTE, PHILOXENE.
+
+
+    TIMANDRE.
+Nous serions trop ingrats à tant de bons offices⁎,  
+Dont vous avez desja prévenu⁎ nos services,  
+Si nous ne vous pressions pour apprendre de vous  
+La cause d'un chagrin qui nous afflige tous,  
+Vous estes tout changé d'humeur et de visage,  
+Et je cognois trop bien ce genereux courage,  
+Qui s'est tousjours muny d'une haute vertu,  
+Et que tant de revers ont en vain combatu,  
+Pour craindre que des maux de si peu d'importance,  
+En puissent esbranler l'invincible constance :  
+Si des rebellions ont troublé⁎ vostre Estat,  
+Si vous avez perdu vostre premier estat,  
+Et s'il vous faut ceder au malheur d'une guerre,  
+Qui vous fait esloigner de vostre ingrate terre :  
+Pour le moins vostre sort⁎ me paroist assez doux  
+Dans le port asseuré qu'il vous offre chez nous  
+Icy tout vous adore et jamais autre prince,  
+Ne fut plus reveré dans sa propre province,  
+Vostre vertu d'abord [90] a produit mille effets,  
+Vous a gaigné des cœurs, vous a fait des subjets  
+Vous a fait surmonter et l'enuie et la haine,  
+Et vous a si bien mis dans l'esprit de la Reyne,  
+Que pour cette bonté qui les oblige tous,  
+Les Princes du pays n'ont plus recours qu'à vous ;  
+Mesmes vos interest⁎ l'ont si fort animée,  
+Qu'elle rompt l'alliance [91], et forme un corps d'armée :  
+Vous donnant le secours qu'elle vous a promis,  
+Pour vous aller servir contre vos ennemis.  
+Phalante ces raisons me font assez cognoistre,  
+Que ce nouveau chagrin que vos yeux font paroistre :  
+Et la vive douleur qui vous change à ce poinct,  
+Ont quelque autre subjet que nous ne sçavons point.  
+Si l'amitié⁎ jurée, et quelque experience,  
+Ont merité l'honneur⁎ de vostre confidence,  
+Ne dissimulez-plus à des amis discrets,  
+Vos soings⁎ plus importans, et vos maux plus secrets.  
+
+    PHILOXENE.
+Quelques vaines raisons que sa froideur m'oppose,  
+Si Phalante pouvoit me cacher quelque chose,  
+J'aurois subjet de plainte, et croirois desormais,  
+N'en estant plus aymé qu'il ne m'ayma jamais.  
+Je vous conjure donc par toute la franchise,  
+Et toute l'amitié⁎ que vous m'avez promise,  
+De ne me cacher plus ce qui me fait mourir,  
+Et pour vous soulager s'il ne faut que perir,  
+S'il ne faut prodiguer que mon sang et ma vie,  
+Soyés tres-asseuré que j'en brusle d'envie,  
+Et que pour vous servir j'embrasseray la mort.  
+
+    PHALANTE.
+C'est assez, cher amy, ce penser me fait tort :  
+Et vous avez blessé l'amitié⁎ qui nous lie  
+En souffrant⁎ ce soupçon de ma melancholie⁎,  
+Mon cœur vous est ouvert les Dieux m'en sont tesmoings :  
+Mais c'est vostre malheur qui causera mes soings⁎,  
+Vostre seul desplaisir fait naistre ma tristesse,  
+Et dans⁎ vos passions⁎ mon ame s'interesse⁎,  
+Et ressent vos ennuys⁎ avec tant de douleur  
+Que vos moindres soucis me touchent jusqu'au cœur,  
+Je meurs du desplaisir de vous estre inutile,  
+De prier vainement un esprit indocile ;  
+Et de voir qu'en l'estat où vous estes reduit  
+J'intercede pour vous avec si peu de fruit ;  
+Si la Reyne agreoit vos fideles services,  
+Mon ame en vous servant gousteroit ses delices,  
+Et preferant ainsi vos interest aux miens,  
+Elle oublieroit ses maux pour ressentir vos biens :  
+De tous mes desplaisirs voila la seule cause,  
+Pour m'affliger si fort mes maux sont peu de chose,  
+Et je n'ay ressenty que des coups bien legers,  
+En perdant des honneurs⁎ et des biens passagers :  
+Quoy qu'ayt fait contre moy la fortune⁎ outrageuse  
+La mienne aupres de vous est trop avantageuse,  
+J'aime trop Philoxene et l'amitié⁎ des siens  
+Pour regretter encor la perte de mes biens :  
+Ce lien qui nous joint d'une amitié⁎ parfaite  
+A de tant de bon-heur honoré⁎ ma retraite⁎,  
+Que je croirois mon sort⁎ plus heureux que jamais,  
+Si pour vous le bon-heur secondoit mes souhaits,  
+Et si de vos malheurs mon ame combatuë,  
+Ne ressentoit pour vous,  
+
+    PHILOXENE.
+Ah ! ce discours me tuë :  
+Juste ciel falloit-il pour comble de douleur,  
+Qu'un innocent amy partageât mon malheur,  
+Et que n'ayans qu'un cœur et qu'une ame commune,  
+Nous ne deussions avoir qu'une mesme fortune⁎ ?  
+Certes, de tous les coups de mon sort⁎ rigoureux  
+C'est là le plus sensible et le plus douloureux,  
+Et mon mal ne pouvoit venir au poinct extreme,  
+Qu'en se communiquant à cet autre moy-mesme.  
+Malheureux Philoxene, Amant⁎ infortuné,  
+Regarde à quelle fin le ciel t'a destiné⁎,  
+Voy de quelle rigueur sa cholere t'accable,  
+Il fait de ta misere un autre miserable :  
+Et punit de ta faute un innocent amy,  
+Pour voir perir un tout qui souffroit à demy.  
+Ah ! Phalante, c'est trop, et je hay trop ma vie,  
+Dans⁎ les maux eternels dont je la voy suivie,  
+Pour souhaitter encor qu'elle dure à ce prix,  
+Laissons, laissons Helene avecque ses mépris :  
+S'ils ne m'ont pû guerir que la mort m'en delivre,  
+Mon amour l'importune⁎ et je suis las de vivre.  
+Philoxene au tombeau n'importunera⁎ plus  
+La Reyne et son amy par des soins⁎ superflus,  
+Et le profond repos qu'il goustera luy-mesme,  
+Dans⁎ un mesme repos mettra tout ce qu'il ayme.  
+
+    TIMANDRE.
+La Reyne le méprise avec peu de raison⁎,  
+Elle doit mieux traitter une illustre maison :  
+Et juger quelque rang qu'un changement nous donne,  
+Qu'autrefois nos ayeulx ont porté sa couronne,  
+Je suis subjet, mais Prince, et son pere en mourant  
+Fit de nostre maison un cas bien different,  
+Et mettant en mes mains son Sceptre et sa famille,  
+Il me nomma Regent et Tuteur de sa fille :  
+Quelque faiste d'honneur⁎ où je fusse monté,  
+Je n'abusay jamais de cette authorité.  
+Je pouvois au despens d'une foible jeunesse,  
+Agrandir ma maison des biens que je luy laisse :  
+Et me rendre si grand qu'elle eut bien souhaitté,  
+Celuy qu'elle rejette avec indignité,  
+Mais le ciel m'est tesmoin qu'en ma charge importune⁎,  
+Je ne consideray ny moy ny ma fortune⁎ :  
+Et quoy que ce pays deust beaucoup à mes soins⁎,  
+Que de tous mes voisins j'y profitay le moins,  
+Certes sa Majesté le devroit mieux cognoistre  
+Que par ce grand mépris qu'elle nous fait paroistre  
+Et mieux considerer le merite et le sang,  
+De ceux qui dans l'Estat tiennent le premier rang.  
+
+    PHALANTE.
+Il m'est encor resté quelque peu d'esperance,  
+Qu'on la pourra gaigner par la perseverance ;  
+Et je croy qu'à la fin son ame se rendra,  
+Du moins pour vous servir Phalante se perdra :  
+Et quand pour ce dessein il donneroit sa vie,  
+Il la croira toujours heureusement ravie,  
+Si le ciel luy permet de la perdre pour vous ;  
+
+    PHILOXENE.
+O Dieu ! qu'en mes malheurs ce souvenir m'est doux,  
+Et que j'ay de bonheur parmy tant de disgrace,  
+D'avoir fait un amy,  
+
+    PHALANTE.
+Souffrez⁎ que je vous chasse :  
+Adieu laissez moy seul y rever un moment,  
+Vous trouverez la Reyne en son appartement.  
+
+
+### SCENE II.
+ARBANTE, PHALANTE.
+
+
+    ARBANTE.
+Seigneur de quelque soing⁎ que vostre ame agitée,  
+Déguise la douleur dont elle est tourmentée,  
+Je voy bien au travers de ce déguisement,  
+Ce qu'à ma passion⁎ [92] vous cachez vainement.  
+Pardonnez-moy Seigneur, si je vous importune⁎,  
+Mais vous n'aurez jamais de mauvaise fortune⁎ :  
+Que mon affection⁎ ne ressente avec vous,  
+Si pour s'en décharger un mal devient plus doux,  
+Et si vous conservez encor quelque memoire,  
+D'une fidelité qui fut toute ma gloire⁎,  
+Recompensez Seigneur, ces preuves de ma foy.  
+
+    PHALANTE.
+Je n'ay rien à te dire, Arbante laisse moy,  
+
+
+### SCENE III.
+
+    PHALANTE *seul.* 
+Enfin je reste seul, et cette ingrate flame⁎,  
+Qui sans aucun espoir tirannise mon ame,  
+Peut enfin éclater à la clarté des cieux.  
+Chers tesmoins de mon mal, tristes et sombres lieux,  
+Vous que j'ay seuls jugez capables d'un silence,  
+Digne de mon secret et de ma confidence :  
+Puis qu'à vous seulement j'évente mes regrets,  
+De grace en ma faveur soyez tousjours secrets ;  
+Et ne parlez jamais de ce malheur extreme,  
+Que mon ame a regret d'avoüer à soy-mesme.  
+Ciel qui penetrez seul mes plus cachez [93] ennuis⁎,  
+Vis-tu jamais un homme en l'estat où je suis ?  
+Et toy, dont les rayons esclairent tout le monde,  
+Cognois-tu de fortune⁎ à la mienne seconde ?  
+Dans⁎ l'estat deplorable où mon destin⁎ m'a mis,  
+Je suis le plus cruel de tous mes ennemis.  
+J'ayme, et je suis aymé, mais mon malheur extreme  
+Me vient de mon amour, me vient de ce qu'on m'ayme,  
+Et je ne serois pas malheureux à ce point  
+Si l'on ne m'aymoit pas et si je n'aymois point.  
+L'amitié⁎ m'a reduit à ce point de misere,  
+Que dans⁎ ma passion⁎ j'ay plus que je n'espere :  
+Mais me sacrifiant pour le salut⁎ d'autruy,  
+J'ay ce que je souhaitte, et j'ay ce que je fuy :  
+Cet amour qui déja tient mon ame captive,  
+Si je ne suis aymé ne veut pas que je vive.  
+On m'ayme, et dans⁎ ce bien qui me doit conserver  
+Je rencontre la mort au lieu de me sauver.  
+Ces soins⁎ où je m'attache avecque tant d'envie,  
+Servent moins mon amy qu'ils n'attaquent ma vie,  
+Et faisant sur mon ame un pitoyable effort,  
+En cherchant son salut⁎ je demande ma mort.  
+Ah ! Phalante, ennemy du salut⁎ de Phalante,  
+Laisse, laisse en repos ton ame languissante,  
+Et devenant plus doux ne persecute plus  
+Phalante que tu perds par tes soins⁎ superflus.  
+Ce que ton amitié⁎ pour Philoxene essaye,  
+Ne sert point ton amy, mais rengrege [94] ta playe,  
+Et t'animant toy-mesme à te persecuter,  
+Tu le rends odieux au lieu de l'assister.  
+Les interests⁎ d'autruy deffendent-ils les nostres,  
+Et se doit-on haïr pour bien aymer les autres ?  
+Ton amy satisfait des preuves de ta foy,  
+Ne peux-tu pas avoir quelque amitié⁎ pour toy ?  
+Puis que tous ses devoirs ne touchent point la Reyne,  
+Et que pour son repos ton assistance est vaine,  
+Pourquoy ton amitié⁎ s'obstine desormais  
+Sans fruit et sans espoir de le servir jamais ?  
+Crains-tu que ton amy luy-mesme ne t'excuse,  
+Qu'il ne te cede point un bien qu'on luy refuse,  
+Et qu'il ne soit content de te voir posseder  
+Ce que ton amitié⁎ ne luy peut accorder.  
+Ah ! pardon, amitié⁎ mortellement blessée,  
+Une si criminelle et si lasche pensée,  
+Quoy que ma passion⁎ pour elle ait combatu,  
+Est indigne d'un Prince et dément ma vertu :  
+Lascheté qui me tuë et qui me deshonore⁎,  
+Quoy tu pourras trahir un amy qui t'adore,  
+Et sans considerer ta vie et ton honneur⁎,  
+Tu pourras sur sa perte establir ton bon-heur ?  
+Donc ce fidele amy n'aura dans⁎ ta retraitte⁎,  
+Honoré⁎ ton abord d'une amitié⁎ parfaitte,  
+Et sans autre interest que de l'affection⁎,  
+N'aura pris tant de part dans⁎ ton affliction,  
+Doncques dans⁎ ton malheur et le fils et le pere,  
+N'auront de tous leurs biens assisté ta misere,  
+T'honorans⁎ comme un Dieu dans leur propre maison,  
+Que pour se voir payez par une trahison :  
+O de tant de bien-faits indigne recompense !  
+Beaux effets de tes soins⁎ et de ton assistance,  
+C'est ce qu'il attendoit de tes nobles desseins,  
+Lors qu'il mit l'innocent, sa vie entre tes mains,  
+Et qu'il t'ouvrit son ame avec tant de franchise,  
+Sur l'espoir décevant⁎ d'une amitié⁎ promise,  
+Il reste seulement que de ta propre main,  
+Sans aucune pitié tu luy perces le sein,  
+Et portes dans son cœur mille atteintes mortelles,  
+Pour suivre en liberté tes flames⁎ criminelles.  
+C'est le plus doux pour luy, car enfin n'attends pas  
+Qu'il en puisse estre quitte à moins que du trespas ;  
+Que se voyant trahy par un autre soy-mesme,  
+Que voyant à ses yeux enlever ce qu'il ayme :  
+Quoy que sa vertu fasse avec tous ses efforts,  
+Ce malheureux Amant⁎ ne souffre mille morts.  
+Ah ! ne revenez plus lâche, lâche pensée [95],  
+Fuyez d'une vertu que vous avez blessée :  
+L'amour et Philoxene ont partagé mon cœur,  
+Mais l'amour est vaincu, Philoxene vainqueur,  
+L'amour seul est trop foible, et quoy qu'il me prepare,  
+Enfin pour mon amy ma vertu se declare :  
+Il est assez puissant l'ayant de son party,  
+Ce que ma passion⁎ peut contre mon amy,  
+Malgré sa violence, et son pouvoir supreme,  
+Ma vertu qui le sert le fait contre elle-mesme :  
+Philoxene revien [96], amy tu m'as vaincu,  
+Et si pour ton repos j'ay desja trop vescu,  
+Si ma presence nuit à ta bonne fortune⁎,  
+Je sçauray retrancher une vie importune⁎,  
+Avant que mon amour t'oblige à me haïr,  
+Et que ce mesme amour me force à te trahir.  
+Mais j'apperçois la Reyne, ô rencontre cruelle !  
+Que dois-je devenir, dois-je m'esloigner d'elle ?  
+Evite son abord, fuy miserable fuy [97].  
+
+
+### SCENE IV
+HELENE, CLEONE, PHALANTE.
+
+
+    HELENE.
+Ne vois-je pas Phalante ?  
+
+    CLEONE.
+Oüy Madame, c'est luy.  
+
+    PHALANTE.
+Mais je suis découvert, ah ! deffend toy, mon ame,  
+Arme toy de vertu, cache, cache ta flame⁎,  
+Et ne relâche point de tes premiers desseins [98].  
+
+    HELENE.
+Quoy tu trembles mon cœur ! quoy mon ame tu crains !  
+Et sembles redouter la mortelle sentence :  
+Mais le voicy l'ingrat, arme toy de constance.  
+
+    PHALANTE.
+Je craignois d'approcher de vostre Majesté,  
+Et m'allois retirer dans ce bois escarté,  
+Pour n'interrompre point vos secrettes pensées.  
+
+    HELENE.
+Ah ! Phalante, à vous seul elles sont adressées,  
+Et si la solitude a pour moy rien de doux,  
+Je l'ayme seulement pour mieux songer à vous.  
+Depuis que pour vous seul mon esprit est malade,  
+Je gouste des douceurs dans cette promenade,  
+Qui me font oublier le soing⁎ de mes estats,  
+Pour trouver du repos loing de tant d'embarras,  
+C'est icy que je cherche à resver et me plaindre,  
+Et ce n'est que pour vous, il n'est plus temps de feindre.  
+J'ay tout franchy Phalante, et je vous ay fait voir,  
+Malgré l'honneur⁎ du sexe, et malgré mon devoir,  
+Forçant mon naturel, mon silence et ma crainte,  
+De quelle passion⁎ mon ame estoit atteinte :  
+Je n'en ay que trop dit, et quelque affection⁎  
+Qui puisse authoriser une indigne action,  
+Je devois conserver ce pouvoir sur mon ame,  
+De souffrir sans parler, ou de mourir sans blâme :  
+J'ay fait une bassesse indigne de mon rang,  
+Qui blesse ma beauté, mon courage et mon sang,  
+Et vous donne sans doute une injuste croyance,  
+D'une facilité⁎ dont ma vertu s'offence.  
+Mais si vous le pouvez apres l'impression  
+Qu'aura fait sur vostre ame une telle action,  
+Ne souffrez⁎ point de grace un penser qui m'outrage,  
+Et ne soupçonnez rien à mon desavantage,  
+Je vous ayme, et mon mal vous est assez connu :  
+Mais à quelque degré qu'il soit déja venu,  
+Quelque transport⁎ estrange⁎, et quelque violence,  
+Qui contre mon devoir ayt rompu mon silence,  
+La plus haute vertu ne se peut offencer,  
+De mon plus criminel et plus lasche penser,  
+Et je puis esperer sans reproche et sans blâme,  
+Le remede du mal, et le repos de l'ame :  
+Estant si bien instruit de mon intention,  
+Que ne respondez-vous à mon affection⁎,  
+Que ne m'apprenez-vous ce que j'en puis attendre,  
+Vostre silence, ô Dieux ! me le fait trop comprendre,  
+Vous en estes confus, vous rougissez pour moy,  
+Et ce discours muët m'apprend ce que je doy.  
+
+    PHALANTE.
+Que vostre Majesté ne trouve point estrange⁎,  
+Si par un tel discours mon visage se change,  
+Et si je fais paroistre en cette occasion,  
+Et mon estonnement⁎ et ma confusion.  
+Je suis surpris, Madame, il faut que je l'avoüe,  
+Et celuy dont le Sort⁎ incessamment se joüe,  
+En le precipitant dans⁎ les adversitez,  
+Dont il est soulagé par vos seules bontez,  
+Quoy qu'il receut de vous des graces tres-insignes,  
+N'attendoit pas un bien dont les Dieux sont indignes.  
+Cet honneur⁎ m'ébloüit, et je ne le reçoy,  
+Indigne que j'en suis que comme je le doy.  
+Un Dieu rechercheroit ceste bonne fortune⁎.  
+
+    CLEONE.
+Arate et Cleomede.  
+
+    HELENE.
+O surprise importune⁎,  
+Ces gardes ont failly, je l'avois deffendu.  
+
+    PHALANTE.
+Helas ! sans ce secours Phalante estoit perdu.  
+
+
+### SCENE V.
+HELENE, CLEOMEDE [99].
+
+
+    HELENE.
+Phalante une autre fois vous me direz le reste,  
+J'en attends le succez favorable ou funeste.  
+
+    CLEOMEDE.
+Madame pardonnez nostre importunité⁎,  
+On n'attend au conseil que vostre Majesté,  
+Et l'affaire qu'on traitte est assez importante  
+Pour divertir un peu,  
+
+    HELENE. 
+Vous en serez, Phalante.  
+
+    PHALANTE.
+Vous me comblez d'honneur⁎.  
+
+    HELENE.
+Venez donc avec nous.  
+Je ne veux rien oüir [100] ny resoudre sans vous.  < Fin du second Acte. >
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE.
+PHILOXENE, CLEONE.
+
+
+    PHILOXENE.
+La Reyne ayme Phalante.  
+
+    CLEONE.
+Oüy Seigneur.  
+
+    PHILOXENE.
+Ah ! Cleone,  
+Regarde la douleur que ce discours me donne,  
+Et si ton amitié⁎ ne me peut secourir,  
+Du moins n'invente rien qui me fasse mourir :  
+Tu lances sur ma vie une mortelle foudre⁎,  
+
+    CLEONE.
+Asseurez vous, Seigneur, qu'avant que m'y resoudre,  
+Je n'ay point épargné ma peine⁎ ny mes soins⁎,  
+J'ay tout ozé pour vous, les Dieux m'en sont témoins :  
+Et que pour destourner le coup qui vous menace,  
+Je n'ay point redouté d'encourir sa disgrace,  
+J'ay forcé le respect et la discretion  
+Pour condamner cent fois sa folle passion⁎ :  
+Et cent fois m'opposant à cette amour naissante,  
+Contre mes sentimens j'ay médit de Phalante.  
+
+    PHILOXENE.
+Tu m'offençois Cleone, et quoy que mon salut⁎,  
+
+    CLEONE.
+Croyez qu'en mes discours j'avois un autre but,  
+Et que je travaillois à forcer son caprice,  
+Qui le luy rend aymable à vostre prejudice.  
+Je voulois qu'à ses yeux il parust moins parfait,  
+Et luy representant le tort qu'elle se fait,  
+D'aymer un Estranger, et rechercher un Prince,  
+Dépouillé de ses biens, chassé de sa province :  
+à qui pour tout recours il ne restoit plus rien,  
+Qu'un refuge chez elle, et d'appuy que le sien.  
+Je luy representois vos fideles services,  
+Le rang que vous tenez, et mille bons offices⁎,  
+Que dans ses jeunes ans sa foiblesse receut,  
+Des soins⁎ de vostre pere en la charge qu'il eut :  
+Mais Seigneur ces discours ont redoublé sa flame⁎,  
+Et cette resistance ayant picqué son ame,  
+Elle s'est obstinée avec trop de mépris,  
+Et contre la raison, et contre mes avis.  
+
+    PHILOXENE.
+Et Phalante,  
+
+    CLEONE.
+Je croy qu'il n'est pas insensible,  
+Et que s'il n'est formé de nature impassible,  
+S'il n'a les duretez d'un arbre ou d'un rocher,  
+La Reyne a des appas [101] qui le doivent toucher.  
+
+    PHILOXENE.
+C'est assez, juste ciel !  
+
+    CLEONE.
+Gardez moy le silence,  
+Vous me perdriez [102], Seigneur.  
+
+    PHILOXENE.
+Vy dans⁎ cette asseurance,  
+Et previens⁎ cet esprit de tes bonnes leçons,  
+Mais entrons, je veux mieux éclaircir mes soupçons.  
+
+
+### SCENE II.
+PHALANTE, HELENE dans sa chambre.
+
+
+    PHALANTE.
+Les Dieux me sont tesmoins que mon ame troublée⁎,  
+De ces excez d'honneur⁎ dont vous l'avez comblée,  
+N'a pas si fort perdu tout son raisonnement⁎,  
+Qu'il ne luy reste encore assez de jugement :  
+Pour cognoistre en ce point où sa gloire⁎ s'acheve,  
+A quel faiste d'honneur⁎ vostre bonté l'éleve,  
+Aussi le recevant ainsi que je le doy,  
+Ce n'est pas comme un bien trop relevé pour moy :  
+Mais comme une faveur dont les grandeurs supremes,  
+Dont les Dieux immortels sont indignes eux-mesmes,  
+C'est là mon infortune⁎, et c'est là que je voy  
+Que la haine du ciel esclate contre moy,  
+Me donnant d'un bon-heur dont il m'offre la veuë,  
+Une esperance esteinte aussi-tost que conçeuë,  
+Sa rigueur me l'offrant me deffend d'en joüir,  
+Et ne me le monstrant qu'afin de m'esbloüir,  
+Par la grandeur du prix il m'en oste l'envie,  
+Puis qu'il faut l'acheter par une chere vie :  
+Car enfin ce tresor ne peut estre pour moy,  
+Qu'en blessant ma vertu, qu'en violant ma foy :  
+Qu'en noyant l'amitié⁎ dans une lâche haine,  
+Et portant mille morts au sein de Philoxene.  
+Dure condition qu'il met à mon bon-heur,  
+N'en pouvois-je jouir sans me perdre d'honneur⁎ ?  
+Sans faire un parricide⁎ et souiller ma memoire,  
+Par une lâcheté si sanglante et si noire,  
+Qu'ont fait contre le ciel deux fideles amis :  
+Et pourquoy maintenant ne m'est-il pas permis,  
+De payer les bontez d'une si grande Reyne,  
+Au prix de tout mon sang, et sauver Philoxene ?  
+Ah ! Madame, mon front exprime ma douleur,  
+Et vous pouvez juger que je parle du cœur ;  
+Je vous l'ouvre, Madame, et dessus mon visage,  
+Vos yeux en peuvent voir la veritable image :  
+Je ne suis point ingrat à vos rares bontez,  
+Je n'ay point l'œil mauvais ny les sens⁎ hebetez,  
+Et de tous les costez je voy bien l'avantage,  
+Dont m'accordant la veuë on me deffend l'usage,  
+Mais Dieux ! à quoy me sert cet insigne bon-heur,  
+S'il m'oste le repos, et la vie et l'honneur⁎ ?  
+S'il faut qu'un amy meure avant que j'en joüisse,  
+Et que pour m'eslever Philoxene perisse ?  
+Ah ! Madame, plutost par excez de bonté,  
+Honorez⁎-en celuy qui l'a mieux merité,  
+Et puis que son repos establit mes delices,  
+Donnez-le à ma priere autant qu'à ses services [103] :  
+C'est le plus grand effet de bonne volonté  
+Que je puisse esperer de vostre Majesté,  
+Et si vostre pitié s'accorde à mon envie,  
+En sauvant mon amy vous me sauvez la vie.  
+
+    HELENE.
+Ingrat, ce mot eschape à cette vive ardeur,  
+Que vous reconnoissez avec tant de froideur.  
+Ingrat, pouvez-vous bien vous obstiner encore  
+à me persecuter pour celuy que j'abhorre,  
+Et traiter une Reyne avec tant de mépris,  
+En dedaignant un cœur que vous seul avez pris ?  
+Quoy mon affection⁎ est donc si peu de chose,  
+Qu'en faveur d'un amy vostre soin⁎ en dispose :  
+Et que vous rejettez comme indigne de vous,  
+Un plus digne sujet, d'un traitement plus doux ?  
+Vous croyez m'honorer⁎, m'offrant à Philoxene,  
+Ah ! j'en cognois la cause, et souffre⁎ cette peine⁎,  
+Comme le juste prix d'une facilité⁎,  
+Que vous devez traitter avec indignité,  
+Vostre cœur méprisant une gloire⁎ flestrie,  
+Dedaignant justement une Amante⁎ qui prie,  
+Et par ce traitement m'enseignant mon devoir,  
+A la honte pour moy que je devois avoir.  
+J'ai failly, je l'avoüe, et puis que ma foiblesse  
+N'avoit peu resister à ce coup qui me blesse,  
+Et qu'un Dieu trop puissant me contraignit d'aymer,  
+Ma flame⁎ pour le moins me devoit consommer⁎.  
+Ouy je devois sans doute ou mourir ou me taire :  
+Mais puis que mon mal-heur fut un mal necessaire,  
+Et que malgré mon rang, mon sexe, et mon honneur⁎  
+Ma passion⁎ parut en trahissant mon cœur,  
+Je sçauray bien lever cette honteuse tache,  
+Qui par mon imprudence à ma gloire⁎ s'attache,  
+Et punir ce cœur bas de l'avoir entrepris,  
+Et par sa lâcheté merité vos mépris.  
+
+    PHALANTE.
+Ah ! Madame cessez un discours qui me tuë,  
+Pleust à Dieu vissiez-vous mon ame toute nuë,  
+Et vous feriez sans doute un jugement plus doux,  
+Des nobles sentimens qu'elle eut tousjours pour vous :  
+Si de quelque amitié⁎ vostre bonté m'honore⁎,  
+Loing de la mépriser, Madame je l'adore,  
+Et mon ressentiment [104] la voudroit meriter,  
+Par le plus noble prix qui la puisse acheter :  
+Mais si vostre bonté me donne la licence⁎  
+De redire à vos pieds deux mots en ma deffence,  
+Considerez Madame en l'estat où je suis,  
+Et tout ce que je dois, et tout ce que je puis.  
+Suis-je privé du sens⁎, et croyez-vous qu'un prince  
+Refugié [105] chez vous, chassé de sa province,  
+Sans bien et sans appuy, que vos seules bontez,  
+Pût refuser l'honneur⁎ que vous luy presentez ?  
+Si pour servir d'obstacle à sa bonne fortune⁎,  
+Il n'avoit de raison qu'une raison commune,  
+Et pouvoit parvenir à ce dernier bon-heur,  
+Sans perdre Philoxene et se perdre d'honneur⁎,  
+Considerez un peu le nœud qui nous assemble,  
+Que par un mesme coup nous perirons ensemble,  
+Et qu'une inviolable et parfaite amitié⁎,  
+N'en a formé qu'un tout, dont il est la moitié.  
+Outre ce beau lien qui joignit nos deux ames,  
+A moy seul il fia⁎ le secret de ses flames⁎,  
+Et ce parfait amy commit tout à ma foy,  
+N'attendant son salut⁎ que de vous et de moy.  
+Jugez si vous pourriez me conseiller vous mesme,  
+De violer ma foy, trahir celuy qui m'aime,  
+Et contre ma parole, et contre l'amitié⁎,  
+Massacrer mon amy sans honte et sans pitié.  
+Ah ! Madame apres tout, vous aymez trop la gloire⁎  
+Pour approuver vous-mesme une action si noire :  
+Et pour m'aymer encor si j'avois merité  
+L'honneur⁎ que vous m'offrez par une lâcheté ;  
+Certes pour estre aymé d'une si grande Reyne,  
+Il faut estre sans tache, et tel que Philoxene,  
+Luy seul a merité l'honneur⁎ de vous servir,  
+Luy seul merite un bien qu'on ne luy peut ravir,  
+Et vous ne pouvez plus sans faire une injustice,  
+Luy refuser le prix qu'on doit à son service.  
+Sa vertu, son amour,  
+
+    HELENE.
+Ces discours superflus  
+M'aigrissent contre luy, bien, bien, n'en parlons plus,  
+Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,  
+Cet importun⁎ me nuit, je sçauray m'en deffaire,  
+Et le chasser si loin qu'avant que me revoir,  
+Peut-estre on le verra rentré dans⁎ son devoir.  
+
+    PHALANTE.
+Ah ! Madame, songez.  
+
+    HELENE.
+Songez plustost vous-mesme.  
+
+    PHALANTE.
+Que Philoxene meurt.  
+
+    HELENE.
+Et qu'Helene vous ayme.  
+
+    PHALANTE.
+Le lairrez [106]-vous perir ?  
+
+    HELENE.
+Verrez-vous mon trespas ?  
+
+    PHALANTE.
+Pouvez-vous l'oublier ?  
+
+    HELENE.
+Ne m'oublierez-vous pas ?  
+
+    PHALANTE.
+Prieray-je sans espoir ?  
+
+    HELENE.
+Prierez-vous pour un autre ?  
+
+    PHALANTE.
+L'interest⁎ que j'y prends.  
+
+    HELENE.
+Esteindra-il le vostre ?  
+
+    PHALANTE.
+Celuy de mon amy sera tousjours le mien,  
+Le bien qu'on luy fera sera mon propre bien,  
+Et si vous l'honorez⁎ d'une amour parfaite [107],  
+Vous me rendez heureux au poinct que je souhaite :  
+C'est moy qui sentiray l'effet de vos bontez,  
+L'empeschant de mourir vous me ressuscitez,  
+Et l'elevant au poinct de sa gloire⁎ supreme,  
+A ce dernier bonheur vous m'elevez moy-mesme.  
+
+    HELENE.
+Deportez⁎-vous enfin de ce cruël dessein,  
+Ou me portez vous-mesme un poignard dans le sein.  
+Ce traittement de vous sera plus supportable  
+Que l'outrageux mespris dont vous estes coupable,  
+A cause qu'il me nuit vos soins⁎ officieux⁎  
+A ce cœur irrité le rendent odieux,  
+Autrefois je l'ay veu sans mespris et sans haine,  
+Maintenant je mesprise, et je hay Philoxene,  
+Et si cet insolent m'en vient entretenir,  
+De sa presomption je le sçauray punir,  
+Et luy faire cognoistre  
+
+    PHALANTE.
+Ah ! Madame.  
+
+    HELENE.
+Ah ! Phalante.  
+
+    PHALANTE.
+Doit-on pas secourir  
+
+    HELENE.
+Une Reyne mourante.  
+
+    PHALANTE.
+Je fais ce que je dois.  
+
+    HELENE.
+Je fais ce que je puis [108].  
+
+    PHALANTE. 
+Jugez de mon devoir.  
+
+    HELENE.
+Et voyez qui je suis.  
+
+    PHALANTE.
+Vous estes en merite en beauté grande Reyne,  
+Un chef-d'œuvre du ciel, mais j'ayme Philoxene,  
+Et par ma propre mort je le dois secourir,  
+Sauvez-le par pitié.  
+
+    HELENE.
+Je ne puis sans mourir,  
+Et sans m'assassiner vous ne pouvez encore  
+M'entretenir de luy.  
+
+    PHALANTE.
+Madame il vous adore.  
+
+    HELENE.
+Et j'adore Phalante.  
+
+    PHALANTE.
+Il meurt.  
+
+    HELENE.
+Je meurs aussi.  
+
+    PHALANTE.
+Que fais-tu miserable ! esloigne toy d'icy,  
+Ne persecute plus une Reyne qui t'ayme,  
+Ne perds point ton amy, ne te perds point toy-mesme.  
+Amant⁎ infortuné, mal-heureux confident,  
+Et sauve ta vertu d'un naufrage evident.  
+Elle rend les abois.  
+
+    HELENE.
+Enfin l'ingrat balance,  
+Amour en ma faveur témoigne ta puissance :  
+Fay grand Dieu quelque effort sur ce cœur endurcy.  
+
+    PHALANTE.
+Je prends congé, Madame, et m'esloigne d'icy,  
+Pour regretter ailleurs ma mauvaise fortune⁎,  
+Qui vous rend mon discours et ma veuë importune⁎ [109].  
+
+
+### SCENE III.
+
+    HELENE.
+Va cruël, va plus loin signaler ta rigueur,  
+Et sors de ma presence ainsi que de mon cœur,  
+Je ne veux plus aymer un ingrat qui me tuë,  
+Contre ma passion⁎ ma vertu s'évertuë,  
+Et me tirant enfin de mon aveuglement,  
+Fait ceder mon amour à mon ressentiment,  
+Tes mespris insolens ont attiré ma haine,  
+J'ay vescu, je veux vivre, et veux mourir en Reyne,  
+Et reprendre l'éclat de cette dignité  
+Que je deshonorois⁎ par une lascheté.  
+Ce n'est qu'en ta faveur que je me suis trahie,  
+Parce que je t'aymois cruël, tu m'as haïe,  
+Recevant un amour avecque du mespris,  
+Qui de mille travaux [110] devoit estre le prix :  
+Cent Princes mes voisins [111], dont la haute puissance  
+A cent peuples sousmis sous leur obeissance,  
+Plus relevez que toy de merite et de rang,  
+La voudroient acheter au prix de tout leur sang.  
+Je n'aymois rien que toy, tu m'as seul mesprisée,  
+Je te donnois mon ame, et tu l'as refusée,  
+Estimant peu le bien qu'on t'avoit presenté,  
+Parce qu'on te l'offroit sans l'avoir merité :  
+Mais ne t'abuse plus monstre d'ingratitude,  
+J'ay brisé cette lasche et vile servitude,  
+Un moment m'a guerie, et mon cœur satisfait,  
+Pour reparer sa faute, abhorre qui le hait.  
+C'est par aveuglement que je fus embrasée,  
+Je te treuvois aymable, et j'estois abusée.  
+Ma raison⁎ qui revient fait voir à mon esprit,  
+Luy monstrant tes deffaux, l'erreur qui le surprit.  
+La cognoissance enfin de mon ame t'efface,  
+L'aveuglement t'y mit, et la raison⁎ t'en chasse,  
+Te rendant odieux à cet esprit remis  
+Plus que le plus cruël de tous mes ennemis.  
+Foibles raisonnemens⁎ dont je me fortifie,  
+Retirez-vous de moy, l'insolent m'en défie,  
+En vain vostre secours me le rend odieux,  
+Et si-tost que l'ingrat revient devant mes yeux,  
+Quelque ressentiment dont je sois animée,  
+Foibles raisonnemens⁎ vous allez en fumée.  
+Pardonne, cher Phalante, à ma temerité,  
+Crois que je me repens de l'avoir attenté,  
+Et si dans⁎ mon transport⁎ j'ay fait quelque blaspheme,  
+Que mon ressentiment⁎ l'a fait contre moy-mesme.  
+Je t'ayme tout cruël et tout mécognoissant,  
+Et cette vive ardeur que mon ame ressent,  
+Quelque excez de malheur dont elle soit suivie,  
+Ne treuvera [112] de fin qu'en celle de ma vie.  
+En vain de ces desdains tu t'armes contre moy,  
+Ce cœur si mal traité n'a brûlé que pour toy,  
+Rien ne peut partager une ame toute entiere,  
+Et sa premiere ardeur doit estre la derniere.  
+Helene, pauvre Helene, à quoy te resous-tu ?  
+Songe à ce que tu fais, r'appelle [113] ta vertu,  
+Et par des actions fatales à ta gloire⁎  
+Ne deshonore⁎ point une illustre memoire,  
+Revien [114] à ton devoir, songe à ce que tu fus,  
+Ah ! raison, ah ! devoir, ne m'importunez⁎ plus,  
+De vos foibles conseils mon ame est incapable,  
+Et pour vous escouter Phalante est trop aymable.  
+Je l'ayme, ma raison⁎, et je le veux aymer,  
+Enfin c'est un buscher qui me doit consommer⁎ :  
+C'est un feu⁎ qui me plaist, et je serois marrie [115]  
+Si du mal qu'il me fait mon ame estoit guerie.  
+
+
+### SCENE IV.
+PHILOXENE, AMINTE, HELENE.
+
+
+    PHILOXENE.
+Que fait la Reyne, Aminte ?  
+
+    AMINTE.
+Elle est triste.  
+
+    PHILOXENE.
+Et de quoy.  
+
+    HELENE.
+Ah ! que mal à propos l'importun⁎ vient à moy,  
+Je luy montreray bien qu'il desplaist à la Reyne,  
+Et du mal qu'il me fait il portera la peine⁎.  
+
+    PHILOXENE.
+Puis-je bien approcher de vostre Majesté,  
+Et divertir ses soins⁎ sans importunité⁎ ?  
+Quelque nouveau chagrin paroist sur son visage,  
+Pleust aux Dieux que je peusse en tirer avantage,  
+Et que cette douleur dont je sens la moitié,  
+Fut dans vostre belle ame un effet de pitié.  
+
+    HELENE.
+Cest plutost un effet de cholere et de haine,  
+Souvenez vous enfin que je suis vostre Reyne,  
+Et que vous déportant⁎ de vos soins⁎ superflus,  
+Vous devez vous cognoistre, et ne me facher plus.  
+
+    PHILOXENE.
+Bien que je me cognoisse, et que dans vostre estime  
+Ma passion⁎ aveugle ait passé pour un crime,  
+Je ne suis pas sorty des termes du devoir,  
+Et si vostre bonté m'en donne le pouvoir,  
+Je vous diray Madame avec quelque licence⁎,  
+Que cette passion⁎ ne vous fait point d'offence.  
+Bien que je sois sujet, on sçait assez mon rang,  
+Que parmy vos vassaux je suis prince du sang.  
+Qu'autrefois mes ayeulx ont porté la couronne,  
+Et qu'en me regardant je ne cognoy personne  
+De ceux que la naissance a mis sous vostre loy,  
+Qui de sang et de biens ne soit plus bas que moy.  
+Mais ce n'est point par là que mon cœur se propose  
+De pouvoir pres de vous meriter quelque chose,  
+Mon amour seulement m'a donné cest espoir,  
+Et depuis que je sers par un double devoir,  
+Dans⁎ une passion⁎ si sainte et si fidele,  
+Je vous ay témoigné tant d'ardeur et de zele.  
+Et sans en murmurer j'ay tant souffert pour vous,  
+Que j'ay creu meriter un traitement plus doux,  
+Accordez-le, Madame, à ma perseverance :  
+Et donnez par pitié.  
+
+    HELENE.
+Perdez-en l'esperance.  
+Et si par mes bontez vous en avez conçeu,  
+Croyez que jusqu'icy vous vous estes deçeu⁎,  
+Si c'est par des devoirs que vostre amour espere,  
+Sçachez qu'il n'a rien fait que vous ne deussiez faire,  
+Que je souffre⁎ vos soins⁎, mais que je les reçoy,  
+Non pas comme il vous plaist, mais comme je le doy :  
+Ne parlez donc jamais d'une amour qui m'offence,  
+Et si vous osez plus enfreindre ma deffence,  
+Soyez tres-asseuré que je vous feray voir  
+Et quelle est vostre faute, et quel est mon pouvoir.  
+
+    PHILOXENE.
+Vostre pouvoir est grand, et ma faute est plus grande ;  
+Mais si pour l'expier [116], c'est mon sang qu'on demande,  
+J'espargneray la peine⁎ à vostre Majesté,  
+De me faire punir de ma temerité.  
+Cent fois en vous servant on me l'a veu répandre,  
+Et puis que cest arrest me le fait trop comprendre,  
+Et que dans vos discours je voy vostre desir,  
+Mon ame obeyssante y court avec plaisir,  
+Je quitte sans regret une vie importune⁎,  
+Ma perte seulement establit ma fortune [117],  
+Et je meurs trop heureux puis que dans⁎ mon trespas  
+Je vous rends un devoir qui ne vous déplaist pas :  
+Pour le moins ce bonheur dont ma mort est suivie,  
+M'est plus advantageux que tous ceux de ma vie,  
+Vivant je vous dépleus, je vous plais en mourant,  
+Et je vous rends encore un service assez grand,  
+Puis que par mon trespas j'asseure les delices,  
+De celuy qui reçoit le prix de mes services :  
+Je porte le respect dans⁎ une extremité,  
+Où par vos traitemens je suis precipité,  
+Et mon ressentiment⁎ me force de vous dire  
+Qu'un autre plus heureux a ce que je desire :  
+Et malgré mon amour, ma constance et ma foy,  
+Emporte le beau prix qui n'estoit deu qu'à moy.  
+
+    HELENE.
+Osez-vous me parler avec tant d'insolence ?  
+Sortez audacieux, sortez de ma presence,  
+Et n'importunez⁎ plus un esprit irrité,  
+Qui puniroit enfin vostre temerité :  
+Mais sçachez pour borner vostre inutile attente,  
+Que vos soupçons sont vrais, que j'adore Phalante,  
+Et que vous auriez eu des traitements plus doux,  
+En me parlant pour luy comme il parle pour vous.  
+
+    PHILOXENE.
+Phalante, ah ! le perfide.  
+
+    HELENE.
+Evitez ma cholere,  
+Et si vostre fureur vous porte à luy déplaire,  
+Sçachez que je l'appuye, et que j'ay le pouvoir  
+De punir un subjet qui sort de son devoir.  < Fin du Troisiesme Acte. >
+
+
+## ACTE IV.
+
+
+### SCENE PREMIERE.
+CLEOMEDE, ARATE, TIMANDRE, HELENE.
+
+
+    CLEOMEDE.
+Enfin ce sont les vœux de toute la province,  
+Vos fideles sujets vous demandent un prince,  
+Et d'un commun accord vous prient [118] par ma voix,  
+De faire vivre en vous la race de nos Roys.  
+Ce n'est pas qu'en effet le peuple et la noblesse  
+Treuvent en vostre regne aucun trait de foiblesse,  
+Et que l'on n'y remarque avec estonnement⁎  
+Les plus heureux succez d'un bon gouvernement :  
+On ne regna jamais avec plus de justice,  
+Et jamais Souverain ne maintint sa police  
+Avec plus de prudence, et plus d'authorité,  
+Qu'on la voit maintenir à vostre Majesté :  
+Depuis le bon succez de nos dernieres guerres,  
+Vous avez estably le repos dans vos terres,  
+Et par une honorable⁎ et glorieuse⁎ paix,  
+Vous leur avez donné le calme pour jamais.  
+Tout le monde l'admire en ce sexe, en cet aage,  
+Et toutes ces raisons m'animent davantage,  
+A vous impotuner et vous prier pour tous  
+De nous donner un jour des Roys sortis de vous,  
+
+    ARATE.
+De vos predecesseurs la recente memoire  
+Vit encor dans nos cœurs avecque tant de gloire⁎,  
+Et laisse dans Corinthe un si beau souvenir,  
+Que la suite des ans ne le sçaurait bannir :  
+Le feu Roy vostre pere, et tous vos bons Ancestres,  
+Que ce Royaume illustre a cogneu pour ses Maistres,  
+Bien qu'ils soient morts pour nous ont laissé desormais  
+Un amour parmy nous qui ne mourra jamais.  
+Ce sacré souvenir, Madame, vous oblige  
+A conserver en vous le reste d'une tige,  
+De qui le sang illustre à la posterité  
+A regné parmy nous avec tant de bonté.  
+Considerez les vœux d'un peuple qui desire,  
+Qu'à jamais vostre sang gouverne cet Empire,  
+Et qui ne verra point sans mourir mille fois,  
+Au trône hereditaire eslever d'autres Roys.  
+
+    TIMANDRE.
+Lors que par un mary vous serez soulagée,  
+De ce pesant fardeau, vostre ame dégagée,  
+Dans un calme profond goustera le repos,  
+Qu'un soing⁎ continuel luy trouble⁎ à tout propos,  
+D'un peuple satisfait vous serez reverée,  
+Et d'un prince obligé vous serez adorée :  
+Qui trouvant à vos pieds un empire plus doux,  
+Y mettra le bandeau [119] qu'il recevra de vous.  
+Vous donnerez un Roy de qui vous serez Reyne,  
+Il vous reconnoistra comme sa Souveraine :  
+Et conservant le rang et l'estat d'aujourd'huy,  
+Plus que sur vos sujets vous regnerez sur luy.  
+
+    HELENE.
+J'approuve vos souhaits, et vous veux satisfaire,  
+Mais assez d'importance est jointe à cette affaire,  
+Pour vouloir qu'on y songe encore un peu de temps,  
+Adieu, dans peu de jours je vous rendray contens.  
+
+    TIMANDRE.
+Dieux ! rendez son dessein tel que je le desire.  
+
+
+### SCENE II.
+HELENE, TIMANDRE.
+
+
+    HELENE.
+Timandre demeurez, j'ay deux mots à vous dire.  
+
+     TIMANDRE.
+Quel espoir pour mon fils cache tes sentimens,  
+Voulez-vous m'honorer⁎ de vos commandemens ?  
+
+    HELENE.
+Je vous veux advertir de la haute insolence  
+De vostre Philoxene.  
+
+    TIMANDRE.
+O Dieux !  
+
+    HELENE.
+Son imprudence  
+N'a pas craint aujourd'huy de me desobliger :  
+Mais sans vostre respect je m'en sçaurois vanger.  
+C'est vous seul que j'estime et que je considere,  
+Et la faute du fils je la pardonne au pere,  
+Sans crainte et sans respect, l'insolent à mes yeux  
+A menacé Phalante, a fait le furieux⁎,  
+Et m'a fait, l'imprudent, un reproche à moy-mesme,  
+Que j'ay souffert⁎ de luy parce que je vous ayme.  
+
+    TIMANDRE.
+Il a tort de déplaire à vostre Majesté,  
+Mais dans⁎ le desespoir où vous l'avez jetté,  
+Par les cruels effets d'une rigueur extreme,  
+Il ne recognoit plus son devoir ny soy-mesme :  
+L'aveuglé dans⁎ l'estat où vous l'avez reduit,  
+Recevra mes leçons avec fort peu de fruit :  
+Et ne recouvrera sa sagesse premiere  
+Qu'au funeste moment qu'il perdra la lumiere.  
+Helas ! qu'ay-je commis dans un gouvernement,  
+Où j'ay consideré vostre bien seulement ?  
+Qu'ay-je fait contre vous pour plonger ma vieillesse  
+Dans⁎ une si sensible et mortelle tristesse,  
+Pour me priver d'un fils dont l'appuy m'est si doux,  
+Et de qui tout le crime est de mourir pour vous ?  
+Un feu⁎ plein de respect le rend-il si coulpable ?  
+Peche-t'il d'adorer un sujet adorable ?  
+Et sa condition le met-elle si bas,  
+Que sa presomption soit digne du trespas ?  
+Ah ! vous cognoissez mieux son rang et sa naissance,  
+L'amour d'un tel sujet ne vous fait point d'offence.  
+Et mesme le feu Roy dans vostre âge plus bas [120],  
+En vid les fondemens qu'il ne condamna pas.  
+On ne peut mépriser son sang ny sa personne,  
+Et son deffaut [121] enfin n'est que d'une couronne.  
+
+    HELENE.
+Timandre c'est assez, ce discours me déplaist,  
+Et je le hay tout Prince et tout brave qu'il est :  
+Sa derniere action, et sa haute insolence,  
+M'ont assez témoigné qu'il perd la cognoissance [122] :  
+Mais s'il ne se remet dans⁎ son premier devoir,  
+Quelque Prince qu'il soit, il verra mon pouvoir.  
+Devant moy l'orgueilleux a menacé Phalante,  
+Vous sçavez son caprice et son humeur boüillante,  
+Gardez qu'il ne s'attaque à ce Prince estranger  
+Puis que je le protege, et le sçauray venger.  
+
+
+### SCENE III.
+
+    PHILOXENE.
+Reste d'une amitié⁎, que le traistre a blessee,  
+Vains restes d'amitié⁎, sortez de ma pensee,  
+Et ne tourmentez point, souvenirs superflus,  
+Un cœur desesperé qui ne vous cognoist plus.  
+Malheureuse amitié⁎ dans nos ames esteintes,  
+Va retrouver Phalante, et luy faire ta plainte,  
+Ce traistre le premier a violé sa foy,  
+Et je suis le dernier qui peche contre toy,  
+Quitte donc pour jamais une ame desolée,  
+Et ne l'accuse point de t'avoir violée,  
+Cet esprit innocent ne se sent point touché  
+Par le moindre remords d'un semblable peché,  
+Et pour te témoigner comme il te fut fidelle,  
+Amitié⁎ violée il prendra ta querelle :  
+Il perdra la lumiere, ou punira l'ingrat,  
+Qui de tes saintes loix a fait si peu d'estat,  
+Et sans craindre l'horreur dont sa faute est suivie,  
+T'a le premier enfrainte aux dépens de ma vie.  
+Monstre d'ingratitude et d'infidelité,  
+Regarde en quel estat tu m'as precipité ?  
+Regarde desloyal de combien de supplices  
+Ou de combien de morts tu payes mes services ?  
+Mais ne te vante pas, monstre de cruauté,  
+De m'arracher la vie avec impunité :  
+Perfide en quelque endroit que le Soleil t'éclaire,  
+Rien ne te peut ravir à ma juste cholere :  
+Cherche pour ton salut⁎ cent aziles divers⁎,  
+Ou monte dans les cieux, ou descens aux enfers.  
+Le ciel, ny les enfers, ny la terre, ny l'onde,  
+Te deussent-ils cacher aux yeux de tout le monde,  
+Ne te sçauroient cacher à mon juste courroux ;  
+J'arracheray ce cœur percé de mille coups,  
+Et goustant dans sa veuë une derniere joye,  
+Je mourray satisfait, pourveu que je le voye.  
+Que je puisse à ce cœur noircy de lâchetez,  
+Reprocher en mourant ses infidelitez.  
+Et laver dans ton sang la faute que j'ay faite,  
+D'honorer⁎ un ingrat d'une amitié⁎ parfaite.  
+
+
+### SCENE IV.
+PHALANTE, ARBANTE, PHILOXENE.
+
+
+    PHALANTE.
+Laissez-moy seul, Arbante !  
+
+    PHILOXENE.
+O grands Dieux je le voy.  
+
+    ARBANTE.
+Je vous suivray, Seigneur.  
+
+    PHALANTE.
+Arbante laisse moy.  
+
+    PHILOXENE.
+Il faut mourir perfide.  
+
+    PHALANTE.
+O Dieux !  
+
+    PHILOXENE. 
+Deffends toy traistre,  
+Cette confusion que tu me fais paroistre,  
+Est un effet leger du remords que tu sens,  
+Mais il en faut mourir.  
+
+    PHALANTE.
+Estes-vous hors du sens⁎  
+Amy ?  
+
+    PHILOXENE.
+Quitte ce nom que ton crime viole,  
+Homme sans cœur, sans foy, sans honneur⁎, sans parole,  
+Ce nom ne t'est plus deu.  
+
+    PHALANTE.
+Bons Dieux ! je suis confus,  
+Philoxene, deux mots, ne me cognois-tu plus ?  
+
+    PHILOXENE.
+Ouy je te cognois trop, et cette cognoissance  
+Arme ce bras vangeur.  
+
+    PHALANTE.
+Contre mon innocence.  
+
+    PHILOXENE.
+Ton innocence traistre, ah ! c'est estre innocent,  
+De violer sa foy, de trahir un absent,  
+Et d'oster lâchement par haine ou par envie,  
+A son meilleur amy le repos et la vie ;  
+C'est là ton innocence, et c'est trop discourir,  
+Resous toy desloyal à tuer ou mourir.  
+
+    PHALANTE
+A mourir je suis prest, mais ce danger extreme  
+Ne m'armera jamais contre un autre moy-mesme,  
+Et tu verras ce fer se tourner contre moy,  
+Plutost que ton amy s'en serve contre toy.  
+Mon amitié⁎ persiste inviolable et sainte,  
+Bien que ton action ne l'ait que trop enfreinte,  
+Et que ce traitement soit bien rude pour moy,  
+Mais souffrant⁎ d'un amy je fais ce que je doy :  
+Et puis que de mon sang ton ame est alterée,  
+Ta vengeance déja n'est que trop differée.  
+Et tu peux sans obstacle achever ton dessein,  
+Puis que pour t'y servir je te tendray le sein.  
+Frappe cet estomac [123], perce ce cœur perfide,  
+Croy que mon amitié⁎ t'absout d'un parricide⁎,  
+Et que malgré l'erreur qui te rend inhumain,  
+Je ne mourray jamais d'une plus chere main :  
+Mais avant qu'en ma mort ton cœur se satisfasse,  
+Accorde pour le moins cette derniere grace  
+Au souvenir d'un bien de ton ame effacé,  
+De ne me cacher plus en quoy t'ay-je offencé,  
+Et si c'est quelque erreur où ton ame demeure [124].  
+
+    PHILOXENE.
+Ouy, perfide il est juste, et devant [125] que je meure,  
+Je te veux reprocher une infidelité  
+Qui te rend detestable à la posterité,  
+Je t'avois donc fié⁎ le secret de ma flame⁎,  
+A toy seul, desloyal, j'avois ouvert mon ame,  
+Pour trahir ma franchise, et rechercher pour toy  
+Un bien que tu feignois de souhaitter pour moy :  
+C'estoit donc l'amitié⁎ que tu m'avois promise,  
+C'est ce que ta bonté rendoit à ma franchise,  
+Et ce que tu devois à toute ma maison,  
+Se devoit donc payer par cette trahison ?  
+Tu t'acquitois, ingrat, en m'enlevant Helene,  
+Et portant mille morts  
+
+    PHALANTE.
+C'est assez Philoxene,  
+Je t'entends, mais les Dieux, juges de tous mes soins⁎,  
+Sont de mon proceder [126] veritables tesmoins :  
+Que leur courroux éclate, et que d'un coup de foudre⁎  
+A cette heure à tes yeux ils me mettent en poudre,  
+Si je ne t'ay servy dans cette occasion  
+Avec plus de franchise et plus d'affection⁎  
+Que jamais un amy.  
+
+    PHILOXENE.
+Je n'en suis plus en doute,  
+Cherche pour t'excuser un autre qui t'écoute,  
+Deffends-toy seulement : quoy tu manques de cœur ?  
+Ah ! lasche deffends-toy, je te perdray d'honneur⁎,  
+Et faisant à ta gloire⁎ une eternelle tache,  
+Je publiray par tout  
+
+    PHALANTE.
+Ah ! je ne suis point lâche,  
+Tu le sçais Piloxene, et tu m'as veu souvent  
+Dans⁎ de plus grands perils engagé trop avant,  
+Pour conserver de moy cette indigne créance [127].  
+Si d'autres me faisoient une semblable offence  
+Je la repousserois au lieu de m'excuser,  
+Tu le devrois cognoistre au lieu d'en abuser,  
+Et dans un procéder qui te doit satisfaire,  
+Voir que je fais pour toy plus que je ne dois faire.  
+
+    PHILOXENE.
+Tu dois mourir perfide, ah ! c'est trop écouter,  
+Apres des trahisons dont je ne puis douter :  
+J'en suis trop bien instruit, mets toy donc en deffence,  
+Et témoigne à ta mort un peu de resistance,  
+Bien que ma main resiste et s'arme contre toy,  
+Sçache que tous les coups s'adresseront à moy :  
+Et que tu me contraints de tirer une espée  
+Que dans mon propre sang j'eusse plustost trempée.  
+
+    PHALANTE.
+Les Dieux me sont tesmoins que j'ay souffert⁎ de toy  
+Plus que tu n'esperois et plus que je ne doy,  
+Et que sans ressentir une douleur extreme  
+Je ne puis me porter contre un homme que j'ayme :  
+Mais puis qu'il faut venir à cette extremité,  
+Cherchons pour t'assouvir un lieu plus escarté,  
+On nous peut descouvrir du quartier de la Reyne,  
+Ce bois est plus commode, entrons-y Philoxene.  
+
+
+### SCENE V.
+TIMANDRE, ARBANTE, CLEOMEDE.
+
+
+    TIMANDRE.
+Dieux ! que mon fils est prompt, et que sa folle humeur  
+A ses meilleurs amis va causer de douleur !  
+Dans⁎ les bouillans transports⁎ d'une aveugle cholere,  
+Il n'escoute raison⁎, ny conseil, ny priere.  
+Et suit de sa fureur l'aveugle mouvement :  
+O jeune homme insensé !  
+
+    CLEOMEDE.
+Courons-y promptement,  
+Icy la diligence est assez importante,  
+Arbante en quel endroit as-tu laissé Phalante ?  
+
+    ARBANTE.
+Presque en ce mesme lieu, mais à mon grand regret,  
+Lisant dans son visage un deplaisir secret,  
+Que ses yeux et son teint ne font que trop paraistre,  
+J'ay bien veu Philoxene approcher de mon maistre.  
+
+    CLEOMEDE.
+N'as-tu rien entendu ?  
+
+    ARBANTE.
+J'estois trop esloigné,  
+Et mon maistre en partant ne m'a rien témoigné,  
+Qui me fist redouter de les laisser ensemble,  
+Estant si bons amis, je croyois  
+
+    TIMANDRE.
+Dieux je tremble !  
+Courons, ah ! que je crains que ce ne soit trop tard,  
+Grands Dieux ! guidez mes pas.  
+
+    CLEOMEDE.
+Courez d'une autre part.  
+
+
+### SCENE VI.
+PHILOXENE, PHALANTE.
+
+
+    PHILOXENE *blessé à mort et tombant.*
+La justice des Dieux en ta faveur éclate,  
+Et leur courroux enfin punit une ame ingrate,  
+
+    PHALANTE.
+Philoxene.  
+
+    PHILOXENE.
+Je meurs, et ma temerité  
+Reçoit enfin le prix qu'elle avoit merité,  
+Je meurs, mais d'une mort qui n'est pas assez rude  
+Pour punir cest ingrat de son ingratitude.  
+
+    PHALANTE.
+Helas ! je reculois et je parois tes coups,  
+Et toy seul transporté⁎ d'un trop boüillant courroux,  
+Mesprisant une espée à son maistre infidelle,  
+Tu t'es precipité dans sa pointe mortelle.  
+
+    PHILOXENE. 
+Phalante, les Dieux seuls m'ont mis en cet estat,  
+Mais si tu peux encore escouter un ingrat,  
+Et si le souvenir d'une amitié⁎ passée  
+Me peut encor laisser un lieu dans ta pensée,  
+Pardonne, cher Phalante, à mon ressentiment,  
+Je reconnois mon crime et mon aveuglement,  
+J'eus tort de soupçonner une vertu si haute,  
+Mais puis que je reçoy la peine⁎ de ma faute,  
+Et lave de mon sang le mal que j'ay commis,  
+Souffre⁎ qu'à mon trespas nous demeurions amis,  
+Et que rien ne separe une amitié⁎ si sainte,  
+Je l'ay par mon erreur indignement enfreinte,  
+Mais croy s'il m'est permis apres ce que j'ay fait,  
+Que mourant ton amy, je mourray satisfait.  
+
+    PHALANTE.
+Quelque vive douleur que mon visage exprime,  
+N'espere point de moy que j'excuse mon crime,  
+Et que par ma douleur ou par quelque raison⁎  
+J'implore ta bonté pour avoir un pardon.  
+Je cognois trop ma faute, et ceste main barbare  
+A fait une action qu'il faut qu'elle repare.  
+Elle a versé ton sang et demande le mien,  
+L'amitié⁎ qui joignit mon cœur avec le tien  
+De liens eternels nos deux ames assemble,  
+Et veut qu'apres la mort nous demeurions ensemble.  
+Je repare mon crime et suis son mouvement,  
+L'un et l'autre se peut par ma mort seulement.  
+J'embrasse donc la mort, et je ne la differe,  
+Que par la volonté de te mieux satisfaire :  
+Escoute donc amy, si ce nom m'est permis,  
+Apres l'assassinat que ma main a commis,  
+Escoute Philoxene, escoute ma priere,  
+Et croy que sans regret je perdray la lumiere,  
+Si j'obtiens en mourant cette grace de toy,  
+Croy que jamais ce cœur ne t'a manqué de foy,  
+Et que je veux souffrir les peines⁎ eternelles  
+Qui gesnent [128] aux enfers les ames criminelles,  
+Si je n'ay fait pour toy dans ma commission  
+Tout ce que ma promesse et ton affection⁎  
+Ont jamais demandé d'une amitié⁎ parfaite.  
+
+    PHILOXENE.
+Helas ! de ce costé mon ame est satisfaite,  
+Vous n'avez que trop fait, mais puisque par pitié  
+Vous me gardez encor cette entiere amitié⁎,  
+Qui si peu meritée et si mal recogneuë  
+Dans l'offence et le sang s'est tousjours maintenuë,  
+Ne me refusez point pour mon soulagement  
+Ma derniere requeste à mon dernier moment :  
+Je ne puis plus douter qu'Helene ne vous ayme,  
+Je le sçavois d'ailleurs et l'ay sceu d'elle-mesme.  
+Vous la sçavez aussi, quoy que vostre vertu  
+Pour un indigne amy contre elle ayt combatu.  
+Vivez pour la servir, puis que les destinées⁎  
+Trenchent pour son repos le cours de mes années,  
+Faites luy desormais un traitement plus doux,  
+Vous estes digne d'elle, elle est digne de vous,  
+Et j'estois criminel en mettant quelque obstacle.  
+
+
+### SCENE VII.
+ARBANTE, CLEOMEDE, TIMANDRE, PHALANTE, PHILOXENE.
+
+
+    ARBANTE.
+Nous arrivons trop tard.  
+
+    CLEOMEDE.
+Dieux, le triste spectacle !  
+
+    TIMANDRE.
+Acheve, acheve ingrat, apres ta trahison,  
+Et te soüille du sang de toute ma maison,  
+Meurs ou me fais mourir.  
+
+    PHALANTE.
+Il est juste Timandre.  
+Voicy, voicy le sang que vous devez répandre,  
+Je suis ce desloyal, ce cruel, cet ingrat,  
+Qui survis laschement à cet assassinat,  
+J'ay trahy vostre fils, et l'ay privé de vie,  
+Ne differez donc plus d'accomplir vostre envie.  
+Regardez vostre fils, vangez-le, vangés-vous,  
+Percez, percez ce cœur indigne de vos coups,  
+Vous qui vous opposez à sa juste cholere,  
+Pourquoy retenés-vous les mouvemens d'un pere.  
+Retirés-vous Arbante.  
+
+    PHILOXENE.
+Ah ! mon pere, deux mots,  
+Et si vous desirés que je meure en repos,  
+Ayez plus de respect pour un autre moy-mesme,  
+Traictés mieux mon amy.  
+
+    TIMANDRE.
+Quoy, tu veux que je l'ayme,  
+Celuy qui de ton sang rougit indignement,  
+Ce meurtrier de mon fils [129].  
+
+    PHILOXENE.
+Ah ! je meurs doublement.  
+
+    TIMANDRE.
+Ce monstre, ce cruel.  
+
+    PHALANTE.
+Encore plus Timandre,  
+Ce traistre, ce bourreau.  
+
+    PHILOXENE.
+Me voulez-vous entendre  
+Mon Pere ? par ce nom et si cher et si doux,  
+Par la clarté du jour que je receus de vous,  
+Et qui dans un moment me doit estre ravie  
+Dans les bras de celuy de qui je tiens la vie,  
+Aymés, aymés Phalante, autant ou plus que moy,  
+C'est un amy sans tache.  
+
+    PHALANTE.
+Il t'a manqué de foy,  
+T'a trahy, t'a tué.  
+
+    PHILOXENE.
+Ce desespoir m'offence.  
+
+    PHALANTE.
+Non, non, si ce discours retarde sa vangeance,  
+S'il a si peu de cœur et si peu d'amitié⁎,  
+Que d'espargner un traistre indigne de pitié,  
+Je supplée au deffaut d'un Pere impitoyable,  
+Ceste main qui me reste en est desja capable,  
+M'ayant peu de ma vie enlever la moitié  
+Penses-tu que pour l'autre elle ayt plus de pitié ?  
+
+    TIMANDRE.
+Ah ! mon fils, seul appuy d'une foible vieillesse,  
+Seul espoir de mes jours, crois-tu que je te laisse ?  
+
+    CLEOMEDE.
+Il n'est plus temps de plaindre, il le faut secourir,  
+Emportons-le chez vous, il peut encor guerir.  
+Arbante assistez nous.  
+
+    PHALANTE.
+O pitoyable office⁎,  
+Helas avec quel cœur te rends-je ce service !  
+Cher et noble fardeau d'un mal-heureux amy  
+Dans⁎ ce reste d'espoir dois-je vivre à demy ?  
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE.
+
+    PHALANTE *seul.*
+Esprit d'un cher amy que ma main meurtriere,  
+Pour me priver de vie, a privé de lumiere,  
+Belle ombre qui là bas errante sans soucy,  
+Es exempte des maux que je ressens icy,  
+Si des restes d'amour t'ont defendu de boire  
+L'onde qui pour jamais enleve la memoire [130],  
+Leve les yeux amy pour voir le triste estat  
+Où l'horreur de son crime a reduit cet ingrat,  
+Voy ce profond silence, et voy quelles tenebres  
+Accompagnent mon deüil et mes devoirs funebres,  
+Icy tout retiré de la Cour⁎ et du bruit,  
+Je me couvre avec toy d'une eternelle nuit,  
+Et fuyant la clarté que ma main t'a ravie,  
+Je traisne à ton cercueil une mourante vie,  
+Jusqu'à ce que mon deüil en retranche le cours,  
+Et que je te rejoigne au dernier de mes jours :  
+Regrets, justes regrets, repentirs legitimes,  
+Ah ! que vous estes lents à la peine⁎ des crimes,  
+Que vous m'estes cruels me paroissans si doux,  
+Et que vous differez ce que j'attends de vous :  
+Mais tu souffres⁎ encor remords lent, remords lasche,  
+Qu'une autre passion⁎ à mon ame s'attache,  
+Et que dans les tombeaux, le silence, et l'horreur,  
+L'amour se mesle encore avecque la douleur,  
+Helas dans un cercueil où mon amy m'appelle,  
+Ne me tourmente plus passion⁎ criminelle !  
+Fay place à ma douleur, fay place à ma raison⁎,  
+Amour, ingrate amour, tu n'es plus de saison,  
+Ce n'est point dans ces lieux solitaires et sombres,  
+Le siege de la mort, et le sejour des ombres,  
+Où tant de passions⁎ tyrannisent mon cœur,  
+Que tu cherches un trosne environné d'horreur :  
+Icy le desespoir s'establit et te chasse,  
+La terreur, le remords ont occupé ta place,  
+Et te laissant choisir des Empires meilleurs,  
+Ils te disent Amour que tu regnes ailleurs.  
+Miracle de beauté, Princesse infortunée,  
+Que je pleure ton sort⁎, pleurant ma destinée⁎,  
+Et que je ressens bien que le Ciel fut cruel  
+D'embraser nos deux cœurs d'un amour mutuel,  
+Et par la simpathie exciter dans nos ames  
+De pareils mouvemens et de pareilles flames⁎ :  
+S'il n'allumoit en nous ce funeste flambeau,  
+Que pour en esclairer ta perte et mon tombeau,  
+Donc pour paroistre amy jusques dans la mort mesme,  
+Il faut que je te fuye encore que je t'ayme,  
+Et qu'abhorrant mon bien et ton contentement  
+Je face le cruel contre mon sentiment.  
+Faudroit-il quand le ciel n'auroit mis dans mon ame  
+Pour un si digne object une si belle flame⁎,  
+Que je parusse ingrat aux bonnes volontés  
+Dont tu m'as soulagé dans⁎ mes adversités ?  
+Tu m'offres tes Estats, tu m'offres ta Couronne,  
+Et ce qui m'est plus cher, tu m'offres ta personne.  
+Et ne desdaignant point de te donner à moy,  
+Tu faits de ton captif ton espoux et ton Roy.  
+Cependant pour le prix d'une bonté si rare,  
+Je suis ingrat, cruel, inhumain et barbare,  
+Et malgré mon amour, et la civilité⁎,  
+Je te traicte, ma Reine, avec indignité,  
+J'ay si mal satisfait ta derniere visite  
+Et mes discours glacez t'ont si fort interdite [131],  
+Que demeurant confus de ton soudain départ,  
+J'ay leu ton desespoir dans ton dernier regard.  
+Malgré toy tes beaux yeux ont versé quelques larmes,  
+Et ce Tygre l'a veu sans mettre bas les armes.  
+Ceste ame de rocher, ce courage endurcy,  
+A veu couler tes pleurs sans en respandre aussi.  
+Ah ! Phalante, c'est trop, il est temps de se rendre,  
+Desormais ta valeur n'est plus à te deffendre,  
+Ton amour jusqu'icy cede à ton amitié⁎,  
+Bien resiste à l'amour, mais cede à la pitié.  
+Ouy, sauve par pitié ceste adorable Reyne,  
+Tu le peux desormais sans nuire à Philoxene,  
+Tu le peux desormais sans troubler⁎ son repos,  
+Mesme s'il t'en souvient ce sont ses derniers mots,  
+Et cet amy fidele en perdant la lumiere,  
+En te disant adieu, t'a fait cette priere.  
+Contente ton devoir, contente ton amy,  
+Et puis qu'il l'a voulu, vy pour Helene, vy,  
+Ton amy te l'ordonne il faut l'aymer et vivre ;  
+O lasche mouvement, meurs plustost pour le suivre,  
+Philoxene n'est plus, mais tu l'as fait mourir,  
+Fuy le jour, fuy la honte, et songe à te guerir.  
+Quoy tu pourras souffrir⁎ que tout le monde die  
+Que Phalante est heureux par une perfidie ?  
+Qu'il joüit de son crime et qu'il perça le sein  
+A son meilleur amy pour ce lasche dessein ?  
+Pardon, cher Philoxene, ame illustre, ame chere,  
+D'un indigne penser je te veux satisfaire,  
+Il est comme un esclair dans mon ame passé  
+Il se formoit à peine et tu l'as effacé,  
+Mais je sçay qu'il t'offence et merite ta haine.  
+
+
+### SCENE II.
+ARBANTE, PHALANTE, AMINTE.
+
+
+    ARBANTE.
+Aminte vous vient voir de la part de la Reyne.  
+
+    PHALANTE.
+Cruel redoublement à mes vives douleurs,  
+Reyne pour qui je crains, Reyne pour qui je meurs,  
+Quel soin⁎ te peut encor rester d'une ame ingrate.  
+
+    AMINTE.
+Encor ce mouvement de quelque espoir me flate,  
+Il parle de la Reyne, ô Dieux changez ce cœur !  
+
+    PHALANTE.
+Aminte quel dessein.  
+
+    AMINTE.
+Vous me voyez Seigneur  
+Par le commandement d'une Reyne affligée.  
+
+    PHALANTE.
+Dieux, pourquoy par ma mort n'est-elle soulagée ?  
+Et je la souffrirois⁎ avec tant de plaisir.  
+
+    AMINTE.
+Seigneur dans ce papier vous verrés son desir.  < LETTRE D’HELENE A PHALANTE. >
+
+    PHALANTE *lit.*
+Si tout ce que j'ay faict n'a pû vous esmouvoir,  
+Souffrés⁎ à mon trespas que je me satisface,  
+Et que vous demandant le bon-heur de vous voir,  
+Pour la derniere fois j'obtienne ceste grace ;  
+Je n'attens plus que vous pour partir de ce lieu,  
+Que je ne puis quitter sans vous dire un adieu. [132]  
+
+    PHALANTE *continuë.*
+Il est juste, il est temps que la mort nous separe,  
+Mais toute sa rigueur n'est que pour ce barbare,  
+Ma Reyne, ton escrit m'enseigne mon devoir,  
+C'est le plus doux arrest que j'en puis recevoir,  
+Allons dire un adieu qui finit ma disgrace.  
+Il est juste, il est temps que je te satisfasse.  
+
+
+### SCENE III.
+ARATE, CLEOMEDE, HELENE dans sa chambre assise sur son lit, venant de prendre du poison.
+
+
+    ARATE.
+Ah ! Madame, voyez nos sensibles regrets,  
+Helas ! que vous ont fait vos fideles sujects,  
+Qui vous puisse obliger par un excez de haine  
+A les faire mourir dans⁎ la mort de leur Reyne ?  
+Ouy Madame mourir, vostre Empire est si doux,  
+Que ce Royaume entier doit perir avec vous :  
+Et quand par ceste mort vous leur serez ravie,  
+Ce coup enlevera leur repos et leur vie.  
+C'est ce qu'à leurs souhaits vous aviez donc promis,  
+C'est le sanglant arrest que vous aviez remis,  
+Et vos rigueurs, Madame, à leur douce semonce [133]  
+Destinoient⁎ ceste ingrate et cruelle responce.  
+Helas ! considerez à quelle extremité  
+Vous nous reduisez tous par ceste cruauté,  
+Et si vous dédaignez un peuple qui vous ayme,  
+Considerez quel tort vous faites à vous mesme,  
+Combien on blâmera ce dessein furieux⁎,  
+Combien ce desespoir irritera les Dieux.  
+Et de quelle importance est une telle injure,  
+Et contre les grands Dieux et contre la Nature.  
+
+    CLEOMEDE.
+Destruirez-vous ainsi leur chef-d'œuvre plus beau [134],  
+Et par vos propres mains mettrez-vous au tombeau  
+La plus grande, plus juste, et plus belle personne,  
+Qui parmy les mortels ayt porté la couronne.  
+Madame, par pitié songez encore à vous,  
+Vos fideles subjects vous en conjurent tous.  
+Ah ! ne refusez plus leur priere et leur ayde,  
+On peut encore au mal donner quelque remede,  
+Peut estre ce poison n'est pas si violent  
+Qu'on n'y puisse apporter  
+
+    HELENE.
+Helas ! il est trop lent,  
+Et le cruel servant mon ingrate fortune⁎,  
+Laisse par trop durer une vie importune⁎ :  
+Mais bien qu'il soit si lent à servir ma douleur,  
+Je sens bien mes amis qu'il approche du cœur,  
+Qu'il gaigne ceste noble et derniere partie,  
+Et que desja mon ame est prés de sa sortie.  
+Ne respandez donc plus tant d'inutiles pleurs,  
+Et ne me donnez point par vos vives douleurs  
+Celle de vous quitter, et ceste preuve insigne  
+D'une fidelité dont je me sens indigne,  
+Ne me regrettez point trop fideles sujects,  
+Ma derniere action condamne vos regrets,  
+Et par des laschetés dont le remords m'accable,  
+Du rang que j'ay tenu, je me rends incapable :  
+Celle qui du devoir a fait si peu d'estat,  
+Et qui s'est abaissée à prier un ingrat,  
+Soubmettant à ses pieds son Sceptre et sa personne,  
+Est indigne à jamais de porter la Couronne,  
+Et de regner encor sur des gens comme vous,  
+Apres des laschetez qui les offencent tous.  
+Ceste seule raison m'a sans doute poussée  
+A vanger par ma mort ma dignité blessée,  
+Et satisfaire ainsi mon peuple et mon devoir,  
+Plustost par la raison⁎ que par le desespoir.  
+Ce n'est point mes amis une amour qui me porte  
+A donner de mon deüil une preuve si forte,  
+Si je mourois pour luy, l'ingrat seroit trop vain,  
+Et j'ay dans⁎ mon trespas un plus juste dessein,  
+Je meurs pour me donner la peine⁎ qui m'est deuë,  
+Et ne survivre point à ma gloire⁎ perduë.  
+Heureuse en mon trespas, si de vostre penser  
+La cause de ma mort se pouvoit effacer,  
+Et s'il peut parmy vous sauver la renommée  
+De celle qu'autresfois vous avez tant aymée,  
+J'ay voulu mes amis vous voir tous en ce lieu,  
+Pour vous en supplier, et pour vous dire adieu.  
+Veüillent les immortels eslever à ma place  
+Un Roy digne de vous, et qui vous satisface  
+Par sa protection et par mille bien-faits  
+Autant que mon malheur vous a peu satisfaits.  
+
+    ARATE.
+Ah ! discours qui me blesse au plus vif de mon ame.  
+
+
+### DERNIERE SCENE.
+PHALANTE, HELENE, ARBANTE, CLEONE, ARATE, CLEOMEDE, AMINTE.
+
+
+    PHALANTE.
+Quel estrange⁎ spectacle ? [135]  
+
+    CLEONE.
+Ah ! je meurs.  
+
+    CLEOMEDE.
+Ah ! Madame,  
+Vous pouvés-vous resoudre à nous quitter ainsi ?  
+Eh bien, nous vous suivrons.  
+
+    HELENE.
+O grands Dieux le voicy.  
+Ah ! le cruel, mon cœur fremit à ceste veuë,  
+Et d'un object si cher mon ame retenuë,  
+Bien que cet inhumain la presse de partir,  
+S'arreste sur le bord toute preste à sortir.  
+Approchez-vous Phalante, et si dans⁎ vostre haine  
+Vous estes insensible aux malheurs d'une Reyne,  
+Que vostre cruauté met en ce triste estat,  
+Par ce funeste object soulez⁎ ce cœur ingrat.  
+Je vous ay fait sortir de ces demeures sombres,  
+Où vous vous occupez à l'entretien des ombres,  
+Pour donner à vos yeux un divertissement,  
+Qui doit à vos douleurs servir d'allegement,  
+Pour reparer ma faute et souler⁎ vostre haine,  
+Je vay dans les enfers redire à Philoxene  
+Par quel trait de constance ou d'inhumanité,  
+Vous signalez encor vostre fidelité,  
+Puis que par mon trepas je respare mon crime,  
+Et qu'il reçoit de vous une telle victime ;  
+S'il conserve pour nous quelque reste de foy  
+Il sera satisfait et de vous et de moy.  
+Pour vous, bien qu'il me reste un suject assés ample,  
+D'accuser en mourant des rigueurs sans exemple,  
+Et qu'ayant merité des traitemens plus doux,  
+J'eusse quelque raison de me plaindre de vous,  
+Les Dieux me sont tesmoins que je vous voy sans haine,  
+Et que de mon erreur je vais souffrir⁎ la peine⁎,  
+En demandant au Ciel pour dernieres faveurs,  
+Qu'il face prosperer l'ingrat pour qui je meurs ;  
+Vivez dans le repos où ma mort vous fait vivre,  
+Les importunitez⁎ dont elle vous delivre  
+Ne viendront plus troubler⁎ vostre tranquillité,  
+Et n'esbranleront plus vostre fidelité.  
+J'ay pris pour ce dessein un poison salutaire⁎,  
+Qui doit laver ma faute, et vous doit satisfaire,  
+Vous faisant avoüer que je meurs à propos,  
+Pour l'honneur⁎ qui me reste et pour vostre repos.  
+Cependant si je puis apres tant de prieres  
+Croire que vos bontez exaucent les dernieres,  
+Accordez moy ce bien quelque amour qu'il ayt eu  
+De croire que mon cœur adoroit la vertu,  
+Et que jamais peut estre une plus saincte flame⁎,  
+Ny de plus beaux desseins n'allumerent une ame,  
+Si j'obtiens en mourant ceste grace de vous  
+Dans mon dernier moment mon sort⁎ sera plus doux,  
+Et mon ame aux enfers ira tres-satisfaite,  
+En ayant obtenu tout ce que je souhaite.  
+
+    PHALANTE.
+Esprit de mon amy plein d'amour et de foy,  
+Toy qui sçais maintenant ce que j'ay fait pour toy,  
+Si de mes actions la derniere t'offence,  
+Pardonne à ceste amour qui me fait violence,  
+Puis que ne l'avoüant qu'à ceste extremité,  
+Ma mort va reparer mon infidelité.  
+Et vous Maistre des Roys, divinités supremes,  
+Qui sçavez nos desseins beaucoup mieux que nous mesmes,  
+Vous fustes seuls tesmoins de mon affection⁎,  
+Soyés-le aussi grands Dieux de ma confession [136],  
+Et lancés si je ments sur ma teste coulpable  
+Ce que vostre cholere a de plus redoutable.  
+Chef d'œuvre, le plus beau qui de la main des Dieux  
+Fut jamais envoyé pour briller à nos yeux,  
+Lumiere de nos jours et que j'ay seul esteinte  
+Par une deplorable et cruelle contrainte,  
+Grande Reyne l'amour de tout cest Univers,  
+Beauté que j'idolâtre et beauté que je perds,  
+Tournez de vos beaux yeux la lumiere mourante,  
+Et voyez à vos pieds le desolé Phalante  
+Prest à vous satisfaire avec ce mesme cœur,  
+Qui s'arma contre vous d'une fausse rigueur ;  
+Dans⁎ ces extremitez il n'est plus temps de feindre  
+L'estat où je vous voy me permet de me plaindre,  
+Et de vous declarer ce que ce cœur noircy,  
+A tout le monde entier a caché jusqu'icy.  
+Quoy que ma passion⁎ cedat à ma contrainte,  
+Jamais ame ne fut si vivement attainte,  
+Et ne brusla d'un feu⁎ si parfait et si beau  
+Que celuy qui m'enflame, et me guide au tombeau,  
+Bien qu'il souffrît pour vous d'une ardeur violente,  
+Philoxene luy mesme aymoit moins que Phalante,  
+Un mal qu'il descouvroit estoit beaucoup plus doux,  
+Il vous aymoit, Madame, et je mourois pour vous,  
+Les Dieux, les bois, les fleurs, et les choses sans ame  
+Ont esté seulement confidens de ma flame⁎,  
+Et seulement aux Dieux, à des fleurs, à des bois  
+Ce cœur desesperé s'est ouvert mille fois,  
+Depuis le premier jour mon ame vous adore,  
+La passion⁎ qu'elle eut et qui luy reste encore,  
+Prevint⁎ l'affection⁎ que vous eustes pour moy,  
+Mais avant mon amour j'avois donné ma foy.  
+Ma foy que mon mal'heur indignement viole,  
+Ouy j'estois engagé d'honneur et de parole,  
+Et je devois servir jusqu'à l'extremité,  
+Un amy vertueux [137] : Je m'en suis acquité,  
+Ou pour le moins j'ay fait ce que je pouvois faire,  
+Pour garder ma parole et pour le satisfaire.  
+Et j'ay pour le servir trahy mon sentiment,  
+Sacrifiant ma vie à son contentement,  
+Je l'ay deu, je l'ay fait, ô souvenir funeste !  
+Vous le sçavez Madame, et vous verrez le reste.  
+En vain pour mon amy j'ay fait ce que j'ay peu,  
+Vous verrez si pour vous j'ay fait ce que j'ay deu.  
+Mon mal'heur m'a rendu cruel à ce que j'ayme,  
+Je l'ay perdu, vous perds, et me perdray moy-méme,  
+Ce coulpable innocent a peché par malheur,  
+Son amy pardonna son crime à sa douleur.  
+Il vit son desespoir et creut son innocence,  
+Mais je dois autrement reparer mon offence.  
+Et vos bontés en vain me voudroient pardonner,  
+Puisque par tout mon sang je ne puis redonner  
+A Timandre son fils à ce peuple sa Reyne,  
+Que je suis un object d'horreur, d'effroy, de hayne,  
+Et que moy seul, ô Dieux ! ay mis dans le tombeau,  
+Ce que pour moy la terre eut d'aymable et de beau.  
+J'ay perdu l'un et l'autre, et les veux satisfaire,  
+Vous peuple à qui j'enleve une Reyne si chere,  
+Suject infortuné de qui le deuil profond,  
+Comme il est dans vos cœurs se lit sur vôstre front,  
+En detestant l'ingrat qui vous l'aura ravie,  
+Considerez aussi les malheurs de sa vie.  
+Et vous ressouvenez que pour vous contenter  
+Vos yeux dessus ce fer l'ont veu precipiter,  
+Et que sa mort est douce en reparant son crime.  
+
+    HELENE.
+O reparation qui n'est plus legitime,  
+Ah ! Phalante.  
+
+    ARBANTE.
+Ah ! mon Maistre, ô malheur de mes jours !  
+Helas ! assistés-moy.  
+
+    PHALANTE.
+J'abhorre ton secours.  
+
+    HELENE.
+Ah ! cruel à moy seule, et non pas à toy-mesme,  
+Qui te donnes la mort à cause que je t'ayme,  
+Pour me perdre deux fois, faisant un double effort,  
+Et cruel dans ta vie, et cruel dans ta mort.  
+Acheve, acheve ingrat, et s'il te reste encore,  
+Un rayon de pitié pour celle qui t'adore,  
+Finis ton homicide et preste en ma faveur  
+Et ton fer et ta main pour en percer ce cœur,  
+C'est là qu'il faut donner la derniere blessure,  
+Et que tu dois percer ta vivante figure,  
+Ta derniere retraite⁎ est dans cette prison  
+Cherche toy la, cruel, et previen⁎ [138] le poison,  
+Il est lasche, il est lent, suppleons,  
+
+    PHALANTE.
+Ah ! Madame,  
+De grace en ce moment où je vous rends une ame  
+Toute pleine de zele et d'amour et de foy,  
+Ne me condamnez point, je fay ce que je doy,  
+Le plus juste regret dont ma mort est suivie,  
+C'est que pour m'aquiter je ne perds qu'une vie,  
+Et qu'ayant fait mourir ma Reyne et mon amy,  
+Je ne puis en mourant les payer qu'à demy.  
+Je perds la voix, adieu recevez  
+
+    HELENE.
+Ah ! Phalante.  
+
+    ARBANTE.
+Ah ! Seigneur.  
+
+    HELENE.
+Il est mort, et moy je suis vivante.  
+Et l'effort du poison est si foible et si lent,  
+Pour me faire mourir d'un coup plus violent,  
+Bien que par ton moyen ma mort soit asseurée,  
+Je te maudis cruel qui l'as tant differée,  
+Et qui par ton secours me pourrois garantir  
+Du regret qui me tuë avant que de partir.  
+Ah ! je sens son approche, une mortelle glace  
+Gagne desja mon cœur et l'ame qu'elle chasse,  
+Va rejoindre Phalante au partir de ce lieu,  
+Adieu mes chers amis ne pleurez plus, Adieu.  < FIN. >
+
+
+# GlossaireAffection. subst. f.Passion de l'âme qui nous fait vouloir du bien à quelqu'un, ou nous plaire à quelque chose. On le dit de l'amour et de l'amitié. (F. ⁎⁎)V. 230, 328, 477, 545, 609, 630, 755, 1214, 1310, 1615, 1647.Amant, ante. adj.Celui qui aime d'une passion violente et amoureuse. Au xvii*e* siècle l'amant(e) n'est par forcément aimé(e) en retour. (F)V. 133, 161, 421, 566, 764, 865.Amitié. subst. f.Affection que l'on a pour quelqu'un, et qui d'ordinaire est mutuelle. (A.)V. 138, 145, 149, 209, 367, 376, 383, 405, 407, 503, 519, 526, 529, 534, 535, 544, 556, 661, 719, 783, 801, 809, 1119, 1120, 1123, 1132, 1156, 1179, 1188, 1203, 1275, 1283, 1294, 1311, 1315, 1357, 1441.Civilité. subst. f.Ici, manière honnête, douce et polie d'agir, de converser ensemble. (F.)V. 1429.Incivilité. subst. f.Action peu honnête, peu civile, peu courtoise. (F.) Signifie aussi, déraisonnable, qui s'oppose à toute bienséance. (A.)V. 217, 270. Consommer. vb.Au xvii*e* siècle, on employait indifféremment consommer et consumer. Ici, employé dans le sens de consumer : user, dissiper, détruire, réduire à rien. (A.)V. 770, 934.Cour. subst. f.Se dit des manières de vivre à la cour. (F.)Lieu où habite un roi ou un prince souverain. (F.)V. 92, 1381.Dans.Préposition de lieu. On s'en sert aussi pour marquer l'état, la disposition, la situation à l'égard du corps, de l'esprit, des mœurs, de la fortune. (A.)V. 9, 18, 112, 137, 144, 166, 178, 146, 208, 219, 328, 332, 388, 429, 436, 497, 504, 509, 543, 546, 547, 641, 696, 916, 967, 993, 1001, 1086, 1089, 1096, 1113, 1222, 1247, 1370, 1422, 1490, 1544, 1565, 1589, 1629.Decevoir. vb.Tromper. (A.)V. 332, 556, 974.Deporter, se deporter. vb.Ici, se désister, se départir. (A.)V. 823, 841, 949.Destin, destinée. subst. m. et f.Ici, enchaînement nécessaire de causes subordonnées les unes aux autres qui produit infailliblement son effet ; les poètes entendaient par là une puissance à laquelle les dieux mêmes étaient soumis. (A.) C'est ce que les païens appelaient fatalité. (F.)V. 47, 195, 264, 422, 497, 1323, 1408, 1498.Divers, erse. adj.Différent, dissemblable, qui est de nature ou de qualité différente. (A.)V. 218, 1145.Ennui. subst. m.Lassitude, langueur, fatigue d'esprit, causée par une chose qui déplaît par elle-même, ou par sa durée, ou par la disposition dans laquelle on se trouve. (A.)V. 37, 389, 493.Esprouver. vb.Ici, Essayer, faire expérience de quelque chose. (A.)V. 198.Estonnement. adv.Surprise causée par quelque chose d'inopiné. (A.) Au xvii*e* siècle, le sens est plus fort, on doit comprendre : ébranlement, secousse.V. 638, 1025.Estrange. adj.Ici, employé au figuré : qui n'est pas dans l'ordre et dans l'usage commun. (A.)V. 303, 623, 635, 1558.Facilité. subst. f.Ici, moyen, manière facile de faire; de dire (A.) Employé ici dans un sens péjoratif.V. 616, 761.Feu. subst. m.Ici, expression figurée qui traduit l'ardeur, la violence des passions et les mouvements impétueux de l'âme. (A.)V. 44, 284, 300, 333, 935, 1099, 1635.Fier. vb.Ici, commettre à la fidélité de quelqu'un. (A.)V. 804, 1199.Flamme ou flame. subst. f.Ici, se dit figurément pour la flamme de l'amour ; se dit premièrement de l'amour divin et communément de l'amour profane. (F) Signifie figurément et poétiquement, la passion de l'amour. (A.)V. 12, 23, 43, 132, 213, 295, 307, 483, 560, 588, 687, 770, 804, 1199, 1412, 1420, 1601, 1642.Fortune. subst. f.Ici, c'est la providence divine qui agit par des voies inconnues et au dessus de la prudence des hommes. C'était autrefois une divinité païenne qu'on croyait être la cause de tous les événements extraordinaires. (F.)V. 108, 111, 128, 308, 403, 416, 452, 476, 496, 579, 647, 795, 871, 1517.Infortune. subst. f.Ici, malheur, désastre, adversité, disgrâce. (A.)V. 709. Foudre. subst. m. et f. Ici, se dit figurément de la colère de Dieu ou des rois. (F.)V. 3, 663, 1211.Furieux, euse. adj.Ici, qui est transporté de colère, de fureur, de furie. (F.) Qui est en furie - divinité infernale chez les païens - (A.)V. 1082, 1503.Gloire. subst. f.Honneur, louange, estime, réputation qui procède du mérite d'une personne, de l'excellence de ses actions ou de ses ouvrages. (A.)V. 39, 56, 304, 480, 703, 763, 776, 811, 839, 927, 1033, 1040, 1219, 1546.Honneur. subst. m.Ici, estime qui est due à la vertu et au mérite. S'applique plus particulièrement à deux sortes de vertus : la vaillance pour les hommes et la chasteté pour les femmes. (F.)V. 96, 143, 282, 291, 368, 402, 408, 445, 541, 544, 549, 606, 645, 657, 700, 704, 722, 738, 742, 759, 773, 783, 794, 798, 814, 817, 835, 1033,  1074, 1156, 1164, 1218, 1596, 1650.Deshonneur.V. 539, 882, 928.Importuner. vb.Incommoder, fatiguer, ou par ses assiduités, ou par ses discours. (A.) V. 127, 307, 432, 433, 451, 475, 580, 648, 824, 872, 930, 938, 991, 1009, 1518.Importunité. subst. f.Action qui importune, qui incommode. (F.) Ennuie, incommodité que cause un importun. (A.)V. 188,  653, 942, 1590.Intérêt. subst. m.Ici, se dit du Sentiment qui nous fait prendre part à ce qui regarde une personne, à ce qui lui arrive d'agréable ou de fâcheux. (A.)V. 359, 388, 832.Licence. subst. f.Ici, permission d'un supérieur. (F.)V. 787, 955.Melancholie. subst. f.Une des quatre humeurs qui sont dans le corps, la plus pesante et la plus incommode. La mélancolie cause la tristesse, le chagrin. La mélancolie noire cause quelquefois la folie. (F.)Tristesse même, le chagrin qui vient par quelque fâcheux accident. (F.)V. 384.Office. subst. m.Secours ou devoir réciproque de la vie civile. C'est le propre d'un honnête homme de rendre de bons offices à tout le monde.V. 156, 335, 684, 1367.Prière particulière qui se dit à l'honneur de chaque saint. (F.) L'occurrence de prière est employée dans la métonymie du vers 262 : les yeux d'Hélène semblent prier Phalante.Officieux, euse. adj.Qui est prompt à rendre de bons offices, serviable. (A.)V. 845.Parricide. subst. m.Le crime que commet le parricide, celui qui tue son père ou sa mère, son aïeul ou son aïeule, ou quelque autre de ses ascendants. On étend cette dénomination à ceux qui ôtent la vie à leurs très proches parents, comme frères, sœurs, enfants, petits-enfants, etc.; et enfin à tous ceux qui se rendent coupables d'un crime énorme et dénaturé. (A.)V. 723, 1188.Passion. subst. f.Ici, mouvement de l'âme excité dans la partie concupiscible, ou dans la partie irascible. Il se prend plus particulièrement pour l'amour. (A.) La passion est fortement reliée à l'idée de souffrance au xvii*e* siècle.V. 9, 15, 19, 59, 160, 212, 236, 290, 310, 388, 474, 504, 537, 574, 608, 670, 774, 876, 952, 956, 967, 1392, 1396, 1401, 1633, 1646.Peine. subst. f.Douleur, affliction, souffrance, sentiment de quelque mal, dans le corps, ou dans l'esprit. (A.) Le sens est beaucoup plus fort au xvii*e* siècle qu'aujourd'hui.Châtiment, ce qu'on fait souffrir à ceux qui ont fait quelque faute. (F.)V. 135, 151, 665, 760, 940, 985, 1280, 1307, 1388, 1545, 1586.Prévenir. vb.Être le premier à faire quelque chose, gagner les devants. (F.) A le sens de devancer.V. 697, 1647, 1696.On dit, d'un homme qui de lui-même et sans en être recherché a rendu toute sorte de bons offices à un autre, qu'il l'a prévenu par toute sorte de bons offices. (A.)V. 336.Raison. subst. f.Ici, entendement, première puissance de l'âme qui discerne le bien du mal, le vrai du faux. (F.) Ce sens se retrouve dans la pièce dans le terme « raisonnement » dont les occurrences sont également relevées ici.V. 21, 157, 165, 251, 437, 690, 701, 901, 904, 907, 912, 930, 933, 1248, 1397, 1540.Retraite. subst. f.Asile, lieu de refuge où on se met en sureté. (F.) Action de se retirer. Se dit aussi de l'état que l'on embrasse en se retirant du monde, de la cour, des affaires. (A.)V. 408, 543, 1695.Salut. subst. m.Ici, conservation d'une chose, ce qui sert à la mettre en sa perfection. Se dit par excellence de la béatitude éternelle. (F.)V. 130, 319, 505, 514, 515, 673, 806, 1145, 1593.Sens. subst. m.Ici, l'esprit, le jugement, la raison. (F.) La faculté de comprendre les choses et d'en juger selon l'usage de la raison. (A.)V. 734, 791, 1162.Soin. subst. m.Ici, Inquiétude, peine d'esprit, souci. (A.)V. 141, 159, 282, 370, 386, 453, 471, 511, 518, 552, 601, 665, 686, 756, 823, 845, 942, 949, 977, 1058, 1209, 1467.Sort. subst. m.La vie, la fortune des hommes, dans sa tournure poétique. (F.)Hasard, rencontre fortuite d'événements bons ou mauvais. (A.)V. 349, 409, 417, 640, 1408, 1604.Souffrir. vb.Ici, Supporter, tolérer. (A.)V. 123, 384, 468, 619, 760, 977, 1084, 1182, 1237, 1281, 1391, 1455, 1473, 1476, 1596. Souler. vb.Ce qui remplit les organes des sens et même l'esprit. (F.) Prendre toutes sortes de plaisirs avec excès. (A.)V. 1568, 1573.Transport. subst. m.Ici, est employé figurément pour exprimer les choses morales, le trouble ou l'agitation de l'âme par la violence des passions. (F.)V. 623, 915, 1247, 1270.Traverser. vb.Ici, est employé dans sa tournure figurée signifiant faire obstacle, opposition, apporter de l'empêchement. (F.)V. 112, 116.Trouble. subst. m.Ici, se dit figurément en morale des désordres de l'âme causés par les passions. (F.) Inquiétude, agitation de l'esprit. (A.) Le sens est plus fort au xvii*e* siècle qu'aujourd'hui.V. 269, 345, 699, 1058, 1445, 1591.
+
+⁎ Les définitions sont données à la faveur du contexte et ne correspondent qu'aux occurrences notées en fin de définition.
+
+⁎⁎ Les définitions sont empruntées principalement au Furetière, 1690 (F.) et au dictionnaire de l'Académie, 1694 (A.).
+
+
+# Bibliographie
+
+
+## Œuvres de La Calprenède citées*La Calprenède*La mort de Mitridate, Paris, A. de Sommaville, 1637
+Le Clarionte, ou Le sacrifice sanglant, Paris, A. de Sommaville, 1637
+La Bradamante, Paris, A. de Sommaville, 1637
+La mort des enfans d'Hérodes, ou Suite de Mariane, Paris, A. Courbé, 1639
+Édouard, Paris, A. Courbé, 1640
+Herménigilde, Paris, A. de Sommaville et A. Courbé, 1643
+Jeanne, reyne d'Angleterre Paris, A. de Sommaville, 1638
+Le comte d'Essex, Paris, T. Quinet, 1650
+
+
+
+## Ouvrages*Adam*Histoire de la littérature française au xvii*e* siècle
+*Alain*Vingt leçons sur les beaux-arts*e*
+*Aubignac*Pratique du théâtre
+*Bécheaud*Histoire d'Eyrignac du XIV*e* siècle à nos jours [139]
+*Boileau*Art Poétique
+*Corneille*Le Cid
+*Delmas*La Tragédie de l'âge classique 1553-1770
+*Denis*Histoire de la France littéraire*xvii**e**xviii**e*
+*Denis*Le parnasse Galant, Institution d'une catégorie littéraire
+*Duckett*Dictionnaire de la conversation et de la lecture
+*Forestier*Œuvres complètes
+*Forestier*Introduction à l'analyse des textes classiques
+*Hepp**Leiner*Onze études sur l'image de la femme
+*Howe*écrivains de théâtre 1600-1649
+*Howe*Phalante
+*Howe*Le Théâtre professionnel à Paris. 1600-1649
+*Jal*Dictionnaire critique de biographie et d'histoire, errata et supplément
+*La Grange* Registre (1658-1685), précédé d'une notice biographique
+*Lancaster*A History of French Dramatic Literature in the Seventeenth Century
+*Leris*Dictionnaire portatif historique et littéraire des théâtres
+*Mahelot*Mémoire pour la décoration des pièces qui se représentent par les Comédiens du Roi
+*Maupoint*Bibliothèque des théâtres, contenant le catalogue alphabétique des pièces dramatiques et opéra
+*Molinié*Littératures classiquesxvii*e*
+*Morel*La Tragédie
+*Moreri*Le grand dictionnaire historique ou le mélange curieux de l'histoire sacrée et profane
+*Parfaict*Histoire du théâtre françois
+*Prioul*Le Nouvel Observateur
+*Riffaud*Répertoire du théâtre français imprimé 1630-1660
+*Scherer*La Dramaturgie classique en France
+*Sidney*L'Arcadie de la comtesse de Pembrok
+*Snaith*En marge du classicisme
+*Snaith*La Mort des enfants d'Herodes
+*Tallemant des Réaux*Historiettes
+
+
+
+## Dictionnaires et grammaires*Académie Française*Dictionnaire
+*Corvin*Dictionnaire encyclopédique du théâtre
+*Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+*Fournier*Grammaire du français classique
+*Haase*Syntaxe française du *xvii**e* siècle
+*Richelet*Dictionnaire de la langue française ancienne et moderne ; augmenté de plusieurs additions d'histoire, de grammaire, de critique, de jurisprudence et d'une liste alphabétique des auteurs et des livres citez...
+
+
+-------
+
+
+[1] Cf. ce portrait in Anne Bécheaud, *Histoire d'Eyrignac du XIV*e* siècle à nos jours*, Bézenac, 2006, p. 51.
+
+[2] Antoine de Leris, *Dictionnaire portatif historique et littéraire des théâtres*, Paris, C. A. Jombert, 1763, p. 601, 602.
+
+[3] Maupoint, *Bibliothèque des théâtres, contenant le catalogue alphabétique des pièces dramatiques et opéra*, Paris, J. Chardon, 1733.
+
+[4] Alan Howe, *écrivains de théâtre 1600-1649*, Paris, Centre historique des Archives nationales, 2005, p. 105.
+
+[5] William Duckett, *Dictionnaire de la conversation et de la lecture*, Paris, Belin-Mandar, 1832-1851, p. 149.
+
+[6] Épître dédicatoire, in La mort de Mithridate, Paris, A. de Sommaville, 1637. 
+
+[7] François de Grenaille, « Discours », *L'innocent malheureux*, cité in *Écrivains de théâtre 1600-1649, op. cit*.
+
+[8] Guy Snaith, « Suspense as a Source of Theatrical Pleasure in the Plays of La Calprenède », *En marge du classicisme* dir. Alan Howe et Richard Waller, Liverpool University Press, 1987 p. 95.
+
+[9] Guy Snaith, *La mort des enfants d'Herodes*, éd. critique, England, University of Exeter, 1988, p. 2. 
+
+[10] D'Aubignac, *La pratique du théâtre*, cité in Antoine Adam, *Histoire de la littérature française au xvii*e* siècle*, Paris, Albin Michel, 1997, t. 2, p. 358.
+
+[11] Alan Howe, *op. cit.*, p. 109 et 114, 115.
+
+[12] Georges Molinié, « La Calprenède ou l'héroïsme à la question », *Romanciers du xvii*e* siècle*, Paris, Klincksieck, coll. Littératures classiques, n°15, octobre 1991, p. 111-118.
+
+[13] Cf. Louis Moréri, *Le grand dictionnaire historique ou le mélange curieux de l'histoire sacrée et profane*, Tome 4, à « Costes (Gautier de) ». Cet article dément, une information donnée dans l'édition de 1718 du même dictionnaire (et qui a été répercutée par beaucoup d'autres) : La Calprenède n'a jamais été séparé de sa femme. Ce dictionnaire dément aussi un bruit répandu par Guy Patin, connu pour répandre des rumeurs sur ses contemporains. En 1666 il écrit à tort que Madeleine aurait été condamnée pour le meurtre de son dernier mari. Les registres de la paroisse de Saint-Sulpice datent son enterrement au 14 mars 1668 à l'Église de la Charité et stipulent qu'elle était alors veuve de Gautier de Costes. Il n'y a donc eu ni séparation ni meurtre.
+
+[14] J. T. Wilson, « The mariage contract of La Calprenède », *Modern Philology*, T. XXVII, p. 253-255, cité par Antoine Adam, *op. cit.*, p. 116.
+
+[15] Tallement des Réaux écrit dans ses *Historiettes* que la condition du mariage était que l'auteur terminât *Cléopâtre*. Auguste Jal qui a vu le contrat de mariage pense malheureusement qu'il n'est pas nécessaire de l'analyser. Wilson, lui, a transcrit ce contrat dans son entier, *op. cit*., et rien ne figure à propos de *Cléopâtre*. Cf. Auguste Jal, *Dictionnaire critique de biographie et d'histoire, errata et supplément*, Paris, Plon, 1872, p. 307.
+
+[16] William Duckett, *op. cit.*, p. 70
+
+[17] *Ibid.*
+
+[18] Lettre de M. le Prince à M. de la Calprenède, bibl. de l'Arsenal. Fonds Conrart, vol. X, p. 51.
+
+[19] Ce recueil est consultable à la BNF sous la cote RES- YE- 2750.
+
+[20] Gédéon Tallemant des Réaux, *Historiettes*, éd. établie et annotée par Antoine Adam, Paris, Gallimard, coll. Bibliothèque de la Pléiade, 1961, t. 2, p. 584-588.
+
+[21] La Grange, *Registre* (1658-1685), précédé d'une notice biographique, Paris, J. Claye, 1876, p. 52.
+
+[22] Loret, *Muse historique*, gazette du 11 mars 1663, cité par frères Parfaict, *Histoire du théâtre françois*, Paris, Le Mercier-Saillant, 1745, t. 5, p. 150, 151.
+
+[23] *Ibid.*, p. 152, 153.
+
+[24] Ce paragraphe pourrait être consacré à la représentation de la tragédie et à sa réception mais aucun document ne peut nous renseigner sur le théâtre qui a reçu cette pièce car nous n'avons rien trouvé dans le mémoire de Laurent Mahelot ; le site César ne nous informe ni sur l'année, ni sur le lieu de sa représentation. De plus, l'auteur n'ayant signé ni épitre ni avis au lecteur, rien ne peut témoigner de la réception de l'œuvre.
+
+[25] *Ibid*. p. 278.
+
+[26] Clément, *De la tragédie*, tome II, p. 313, cité par Jacques Scherer, *La dramaturgie classique en France*, Saint-Genouph, Librairie Nizet, 2001, p. 258, 259.
+
+[27] Lancaster, *A history of french dramatic littérature in the seventeenth century*, Baltimore, the Johns Hopkins Press, 1929-1942, part. II, vol. II, p. 366, 367.
+
+[28] Nous nous appuierons pour l'étude de cette œuvre sur l'édition critique d'Alan Howe : *Phalante* de Jean Galaut, ed. critique, UK, Exeter Press, 1995.
+
+[29] Philip Sidney, *L'Arcadie de la comtesse de Pembrok*, Paris, Robert Foüet, 1625, t. I, p. 243-268.
+
+[30] Lancaster, *op. cit., id.*
+
+[31] Pour simplifier la lecture, les vers de Galaut seront notés ici (G. v.+n°) et les vers de La Calprenède (La C. v.+n°).
+
+[32] D'Aubignac, cité par Antoine Adam, in *Histoire de la littérature française au xvii*e* siècle*, Paris, Albin Michel, 1997, t. 2, p. 359.
+
+[33] Cf. supra, le tableau de présence de *Phalante* de La Calprenède.
+
+[34] Cf. supra, « Les caractères des personnages et leurs fonctions ».
+
+[35] Les dictionnaires d'Antoine Furetière et de l'Académie, in Wolfgang Leiner (dir.), Noémie Hepp, « La notion d'héroïne », *Onze études sur l'image de la femme*, G. Narr ; copié à Paris, J.-M. Place, 1984, p. 12.
+
+[36] *Ibid.*, p. 15.
+
+[37] P. Du Bosc, cité par Noémie Hepp, *op.cit.*, p.16.
+
+[38] Noémie Hepp, « La notion d'héroïne », *op. cit.*, p. 17.
+
+[39] D'Aubignac, *La pratique du théâtre*, éd. Hélène Baby, Paris, Champion, 2000, livre IV, chap. I, p. 277.
+
+[40] « Le manuscrit 559 », cité par Jacques Scherer, *op. cit.*, p. 56.
+
+[41] Nicolas Boileau, *Art Poétique*, ed. annotée par Eugène Géruzez, Paris, Hachette, 1850, Chant III, v. 27-28.
+
+[42] Alain, *Vingt leçons sur les beaux-arts*, Paris, 1931, 2*e* éd, p. 129.
+
+[43] D'Aubignac, *La Pratique du théâtre, op. cit.*
+
+[44] D'Aubignac, *op. cit.*, cité in Antoine Adam, *Histoire de la littérature française au xvii*e* siècle, op. cit.*, p. 359.
+
+[45] Georges Molinié, « La Calprenède ou l'héroïsme à la question », *op. cit.*
+
+[46] Jacques Morel, *La Tragédie*, Armand Colin, Paris, 1964, p. 25.
+
+[47] Antoine Adam, *op. cit.*, p. 324
+
+[48] René Bray, *La formation de la doctrine classique en France*, Paris, Nizet, 1983, p. 257.
+
+[49] D'Aubignac, *op. cit.*, p. 218.
+
+[50] In *Histoire de la littérature française au xvii*e* siècle, op. cit.*, p. 323, 324.
+
+[51] Cf. le lien : http://gallica.bnf.fr/ark:/12148/bpt6k1097720.r=phalante.langFR
+
+[52] Alan Howe, *op. cit.*, p. 20.
+
+[53] Alain Riffaud, *Répertoire du théâtre français imprimé 1630-1660*, Droz, Genève, 2009, p. 412.
+
+[54] *Ibid.*, p. 391.
+
+[55] Georges Forestier, « Lire Racine », in Racine, *Œuvres complètes*, Paris, Gallimard, Bibliothèque de la Pléiade, 1999.
+
+[56] *Ibid.*
+
+[57] C'est à Etienne Dolet, l'éditeur de Rabelais, que l'on doit la codification des accents et de la ponctuation mais aussi l'insertion de deux nouvelles lettres : le *j* et le *v* pour remédier à la confusion avec le *i* et le *u*. Ce changement date de 1529. On se rend compte au regard de notre texte que l'adoption de ces deux nouvelles lettres n'a pas paru évidente et a pris plus d'un siècle. Racine les distinguera.
+
+[58] Diérèse sur « audacieus » (le mot compte pour quatre syllabes). Ce phénomène prosodique consiste en la division en deux syllabes d'une succession de voyelles commençant par *i, u* ou *ou*. Pour les autres diérèses en *–ieu*, cf. v. 114, 224, 225, 277, 486, 522, 845, 846, 905, 909, 1008, 1033, 1082 et 1503.
+
+[59] Diérèse sur « presomption ». Pour les autres diérèses en *–ion*, cf. v. 9, 15, 19, 59, 152, 160, 185, 211, 212, 221, 230, 236, 237, 238, 265, 290, 321, 322, 328, 330, 345, 388, 474, 477, 504, 537, 545, 546, 574, 608, 609, 610, 617, 618, 629, 630, 637, 638, 669, 670, 721, 755, 774, 812, 850, 876, 927, 952, 956, 967, 1101, 1102, 1111, 1160, 1180, 1213, 1214, 1292, 1309, 1310, 1392, 1396, 1401, 1528, 1555, 1609, 1615, 1616, 1633, 1646, 1647 et 1682.
+
+[60] Les astérisques renvoient au glossaire établi à la suite de la pièce.
+
+[61] « Irremissible » signifie, qui n'est pas pardonnable, qui ne mérite point de pardon, de rémission. (Dictionnaire de l'Académie, 1694)
+
+[62] Comprendre un conditionnel passé : « j'aurais dû ». Devoir et pouvoir au passé ont une valeur modale. Cette note vaut pour toute la pièce. (Haase)
+
+[63] Pour les autres diérèses en *–io*, cf. v. 185, 203, 299, 575, 623, 718, 803, 808, 1125, 1128, 1132, 1163, 1170, 1179, 1515, 1610, 1637, 1649 et 1708.
+
+[64] Il s'agit très certainement du dieu Amour.
+
+[65] Comprendre « lassez-vous ». La terminaison verbale de la deuxième personne du pluriel de l'indicatif est souvent utilisée pour marquer le participe passé et inversement. Ainsi, « -és » marque la deuxième personne du pluriel de l'indicatif et « -ez » le participe passé. Cf., par exemple, v. 493.
+
+[66] Pour les autres diérèses en *–ien*, cf. v. 367, 407, 803 et 1295.
+
+[67] « Se connaître » : prendre une juste idée de soi-même, de ses forces, de sa dignité (dictionnaire de l'Académie).
+
+[68] « Amour » s'emploie indifféremment au masculin et au féminin au xvii*e* siècle, c'est pourquoi l'adjectif est ici accordé au féminin. 
+
+[69] Phalante serait prince Argien. Cf. Jean Galaut, *Phalante*, critiqué par Alan Howe, university of Exeter Press, UK, 1995, v. 440.
+
+[70] Comprendre « qui aurait dû ». cf. note du vers 14.
+
+[71] Comprendre « qu'il aurait pu ». cf. note du vers 14.
+
+[72] « Averse » signifie opposé, contraire. Seul Pierre Richelet tient compte de cette graphie, cf. son *Dictionnaire de la langue française ancienne et moderne*, Amsterdam, La Compagnie, 1732, vol. 1.
+
+[73] Ici, on pourrait s'attendre à rencontrer le pronom possessif « ses » qui ferait référence aux malheurs rencontrés directement par Philoxène. La Calprenède a préféré employer « les » certainement pour signifier que, si Philoxène devait endurer n'importe quelle épreuve, il serait soutenu par son ami Phalante, de manière inconditionnelle.
+
+[74] « Treuver » et « trouver » s'emploient indifféremment à cette époque.
+
+[75] « Devers » est une préposition de lieu qui signifie du côté de. (Dictionnaire de l'Académie)
+
+[76] « Enchanter » signifie, ici, ravir en admiration. (Dictionnaire de l'Académie, 1694) Au xvii*e* siècle, enchanter est proche du champ lexical du merveilleux ; user de magie, d'art diabolique, pour opérer quelque merveille qui arrête le cours de la nature. (Furetière, 1690) 
+
+[77] « Partage » signifie, ici, au sens figuré, portion de biens et de maux que la nature et la fortune semblent avoir donnée à tous les hommes, ou à chacun d'eux. (Dictionnaire de l'Académie, 1694) 
+
+[78] « Preoccuper » signifie prévenir l'esprit de quelqu'un en lui donnant quelque impression qu'il est difficile de lui ôter. Il se prend toujours en mauvaise part. (Dictionnaire de l'Académie, 1694) 
+
+[79] « Charmant » signifie qui plait extraordinairement, qui ravit en admiration. (Furetière, 1690) Le sens est plus fort au xvii*e* siècle qu'aujourd'hui.
+
+[80] Le v. 244 est dit en aparté alors que le suivant est adressé à Hélène.
+
+[81] La phrase est interrompue ici. Les points de suspension étant encore très peu employés à l'époque, nous avons préféré ici ne pas corriger la ponctuation et conserver le point.
+
+[82] La langue du xvii*e* siècle omet très souvent, contrairement à l'usage actuel, la préposition *de* devant un infinitif construit avec le *que* comparatif. Cette note vaut pour toute la pièce. (Haase)
+
+[83] L'adjectif « impérieux », ici substantivé, signifie altier, hautain, qui commande avec orgueil. (Dictionnaire de l'Académie, 1694)
+
+[84] La « mercy » est la grace que l'on demande à un victorieux, à un plus fort que soi, à celui que l'on a offensé. (Furetière, 1690) 
+
+[85] « Compter » et « conter » s'emploient indifféremment à cette époque.
+
+[86] Il s'agit très certainement de Zeus, souverain suprême des mortels, premier des dieux mais aussi dieu particulièrement redoutable.
+
+[87] Poséidon est le dieu protecteur de Corinthe.
+
+[88] Énée est connu pour avoir été contraint à quitter sa ville natale et avoir erré longtemps en mer avant d'échouer à Carthage où la reine Didon l'accueillit pour en tomber amoureuse. Phalante également est parti de sa ville d'origine et a été reccueilli par Hélène qui en tombe amoureuse.
+
+[89] Hyperbole représentant l'étendue de la passion d'Hélène. Les feux d'Ilion correspondent à l'incendie de Troie.
+
+[90] « D'abord » signifie, ici, dès le premier instant, au commencement. (Dictionnaire de l'Académie, 1694)
+
+[91] Diérèse sur « alliance ». Pour les autres diérèses en *–ian*, cf. v. 505 et 1656.
+
+[92] Si Arbante ici évoque sa « passion », c'est parce qu'en tant que fidèle confident de Phalante, il partage les « mouvements de l'âme » ressentis par ce dernier.
+
+[93] La terminaison de la deuxième personne de l'indicatif pluriel est parfois confondue avec celle du participe passé, comme ici. Cf. note du v. 25.
+
+[94] « Rengreger » signifie augmenter, accroitre ; ne se dit guère que dans ces phrases : Rengreger son mal. Rengreger sa douleur. Rengreger sa peine. (Dictionnaire de l'Académie, 1694) 
+
+[95] Le singulier pour « pensée » peut étonner. Phalante vouvoie sa pensée.
+
+[96] Forme injonctive. Au xvii*e* siècle, le « s » était absent à la première personne de l'impératif de tous les groupes verbaux.
+
+[97] Cf. note du v. 577.
+
+[98] Succession d'impératifs. Cf. note du v. 577.
+
+[99] La rubrique de scène est incomplète. Elle devrait mentionner également Phalante qui prend la parole à cette scène ; Cléone restée sur scène ; Arate dont l'arrivée en scène est annoncée par Cléone au v. 648.
+
+[100] Diérèse sur « ouïr ». Pour les autres diérèses en *–oüi*, cf. v. 713, 714, 739 et 1457.
+
+[101] « Appas » (au pluriel) se dit particulièrement en Poésie et signifie charmes, attraits, agrément, ce qui plaît. (Dictionnaire de l'Académie, 1694) 
+
+[102] Synérèse sur « perdriez ». Aujourd'hui, on emploiera la diérèse sur ce mot.
+
+[103] La métrique exige d'élider le « e » de « le » et de prononcer « donnez-l'à ma prière ». Cette particularité repose sur une licence poétique en cours au xvii*e* siècle et évite l'hiatus « le à ».
+
+[104] « Ressentiment » signifie ici, le souvenir que l'on garde des bienfaits ou des injures. (Dictionnaire de l'Académie, 1694) 
+
+[105] Diérèse sur « refugié ». Pour les autres diérèses en *–ié*, cf. v. 1199.
+
+[106] Il est rare de rencontrer ce terme encore au xvii*e* siècle. Au xvi*e* siècle, « lairrer, lairer, lerer » signifie quitter, abandonner, laisser.
+
+[107] Nous voyons ici les limites d'écriture de l'auteur qui fait une impasse sur les règles classiques de versification. Pour que le vers soit juste, l'« e » d'« une »  doit compter pour une syllabe alors que le mot suivant commence par une voyelle. La règle classique voudrait pourtant que l'« e » soit élidé en fin de mot quand le mot qui suit commence par une voyelle pour éviter l'hiatus.
+
+[108] Le vers 853 fait écho à un échange du *Cid* entre Rodrigue et Chimène (cf. l'introduction à l'œuvre) : *Rodrigue : Tu le dois / Chimène : Je ne puis.* 
+
+[109] Le xvii*e* siècle conserve dans certains cas, comme ici, l'accord avec le plus proche hérité du latin.
+
+[110] « Travail », lorsqu'il est employé au pluriel, signifie certaines entreprises remarquables. (Dictionnaire de l'Académie) 
+
+[111] Jean Galaut, *op. cit.*, nomme ces princes venus de différentes régions du Péloponnèse, v. 281 à 283. Ces noms, d'après Alan Howe, sont inventés ou empreintés à *L'Arcadia* de Sidney.
+
+[112] « Treuver » et « trouver » s'emploient indifféremment au xvii*e* siècle.
+
+[113] Graphie étymologique. 
+
+[114] Forme de l'impératif. cf. note du v. 577.
+
+[115] « Marri, ie » signifie repentant, fâché, qui a du regret d'avoir fait quelque chose. (Furetière, 1690) 
+
+[116] Diérèse en *–ier* de Philoxène.
+
+[117] Ce vers peut paraître obscur car antithétique. Il s'explique en partie grâce au v. 997 : « Vivant je vous dépleus, je vous plais en mourant. » Philoxène, s'il mourait, servirait les désirs de sa reine, ce qui le rendrait paradoxalement heureux.
+
+[118] L'« e » caduc de « prient » se prononce ici car il est situé après une voyelle. Ainsi, le mot compte pour deux syllabes.
+
+[119] « Bandeau » signifie, ici, marque de la royauté. On appelle diadème, un bandeau royal, parce que la marque de la royauté était autrefois un bandeau que les rois mettaient sur leur front. (Furetière, 1690) 
+
+[120] Le comparatif pris dans le sens d'un superlatif pouvait se passer de l'article dans l'ancienne langue. Cet emploi se conserve au xvii*e* siècle, lorsque le comparatif est précédé d'un substantif construit avec l'article défini ou, comme c'est le cas ici avec un possessif. (Haase)
+
+[121] Il ne faut pas prendre « deffaut », ici, dans le sens « d'imperfection » mais de « manque ». Philoxène n'a pas de « couronne » car il n'est ni roi, ni prince.
+
+[122] Par « il perd la cognoissance », il ne faut pas comprendre que Philoxène s'évanouit mais qu'il perd la raison, dominé par la *furor*.
+
+[123] Partie extérieure du corps qui répond à la poitrine et à l'estomac. (Dictionnaire de l'Académie française). 
+
+[124] Comprendre : « Ne me cache plus l'offence dont tu m'accuses car il se pourrait que tu sois dans l'erreur. » Phalante veut que Philoxène exprime les fautes qu'il lui reproche pour pouvoir en juger par lui-même.
+
+[125] « Devant » est une préposition d'ordre opposée à après. (Dictionnaire de l'Académie, 1694) 
+
+[126] L'ancienne langue employait couramment l'infinitif avec l'acceptation d'un substantif. Cet usage devient de plus en plus rare au cours du xvii*e* siècle. (Haase)
+
+[127] « Creance » signifie sentiment, opinion, avis, pensée, foi, crédit. (Richelet, 1680)
+
+[128] « Gesner » signifie tenir en contrainte, mettre quelqu'un dans un état violent en l'obligeant de faire ce qu'il ne veut pas ou en l'empêchant de faire ce qu'il veut. (Dictionnaire de l'Académie, 1694)
+
+[129] Synérèse sur « meurtrier ». Le mot compte pour deux syllabes. Le français contemporain effectue une diérèse sur ce mot alors qu'au xvii*e* siècle la synérèse et la diérèse sont employées indifféremment sur « meurtrier », selon les besoins de l'alexandrin.
+
+[130] Il s'agit du fleuve Léthé, un des cinq fleuves des Enfers, qui, selon la mythologie grecque et romaine, est celui de l'oubli.
+
+[131] « Interdire » signifie, ici, étonner, troubler en sorte qu'on ne sache ce qu'on dit, ni ce qu'on fait, et dans ce sens il n'a guère d'usage que dans les temps qui sont formés du participe. (Dictionnaire de l'Académie, 1694) 
+
+[132] Par convention, la lettre est écrite en rimes croisées. Les deux derniers vers en rimes plates permettent de recréer le lien avec la pièce en alexandrins.
+
+[133] « Semonce » signifie, ici, avertissement fait par quelqu'un qui a autorité. (Dictionnaire de l'Académie, 1694) 
+
+[134] Cf. la note du v. 1105.
+
+[135] Phalante ne pose ici aucune question. Le point d'exclamation traduirait mieux sont sentiment d'étonnement mais le point d'interrogation traduit son incompréhension. cf. l'avis au lecteur dans la note sur la présente édition.
+
+[136] Pour que l'alexandrin comporte le bon nombre de syllabes, prononcer : « Soyés-l'aussi. » Cf. la note du v. 744.
+
+[137] Diérèse en *–ueu* sur « vertueux ».
+
+[138] Forme de l'impératif. cf. note du v. 577.
+
+[139] La mention d'éditeur manque ici car cet ouvrage a été écrit et édité sur la demande de Gilles Sermadiras, descendant de la famille de La Calprenède, pour sa collection privée. Son fils, Patrick Sermadiras, m'a très aimablement prêté cet ouvrage.

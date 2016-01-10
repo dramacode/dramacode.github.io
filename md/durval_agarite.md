@@ -1,0 +1,5025 @@
+---
+identifier: durval_agarite  
+creator: Durval, Jean-Gilbert  
+date: 1636  
+title: Agarite. Tragi-comédie  
+---
+
+
+Agarite
+
+Tragi-comédie
+
+Par le Sieur DURVAL.
+
+A PARIS, Chez *François Targa*, au premier pillier de la grand'Salle du Palais, devant la Chapelle, au Soleil d'or. M. DC. XXXVI. Avec privilege du Roy.
+Édition critique établie par Marine Jeannoutot dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2003-2004)
+
+
+# Introduction
+
+Jean-Gilbert Durval est un auteur très peu connu de nos jours. Il mérite cependant d'être redécouvert, d'une part pour son engagement en matière de dramaturgie théâtrale, et plus particulièrement au sujet des règles dites « classiques » qui s'instaurèrent à cette époque, et contre lesquelles il s'insurgea de façon tranchée et assez virulente, et d'autre part, pour ses œuvres poétiques et théâtrales originales empreintes d'un mélange d'ancien et de moderne, de classique et de baroque.
+
+*Agarite* (1636) est la seconde tragi-comédie de Durval ; elle est en matière de longueur dans la moyenne observée par J. Scherer [1], c'est-à-dire un peu plus de 1600 vers, composée de cinq actes et a pour objet les amours contrariées d'une jeune fille prénommée Agarite. On y retrouve les principales caractéristiques du genre, comme le thème du déguisement, celui du père qui tente d'imposer un prétendant à sa fille, les évasions préméditées, le coup de théâtre de la dernière scène, mais aussi des éléments, plus particuliers et moins attendus dans une tragi-comédie, comme un assassinat sur scène, le jeu d'une pièce de théâtre dans la pièce de théâtre, des lectures de poèmes, ainsi que nous allons le constater.
+
+
+# Biographie
+
+Nous ne connaissons que très peu d'éléments de la vie de Jean-Gilbert Durval, si ce n'est à travers les préfaces de ses pièces. Nous ignorons les dates de naissance et de mort de cet auteur du XVII*e* siècle. Il semble qu'au moment où *Agarite* fut publiée, il avait déjà un certain âge [2].
+
+L'œuvre qui nous est restée de Durval est peu importante et diversifiée ; il fut en effet poète et dramaturge en plus d'avoir été acteur. Il s'est farouchement et ouvertement [3] opposé aux règles que les réguliers finirent par imposer à cette époque où le théâtre français connut bon nombre de bouleversements. Il semble également être resté longtemps sous la protection du Duc et de la Duchesse de Nemours à qui il dédie deux de ses pièces. Il a écrit de façon certaine, trois pièces qui sont :
+ * – *Les Travaux d'Ulysse*, pièce qui date de 1631, et qui fut, selon la préface de la pièce, la première tragi-comédie de Durval ; elle fut bien reçue et représentée à Fontainebleau devant le roi, probablement avant le départ de Louis XIII en Italie, en avril 1630 [4] ; il semble, toujours selon l'épître dédicatoire, que le Duc de Nemours sous la protection duquel il était, l'approuva. Cette longue pièce relate ce que Durval a « pensé être de plus beau et de plus utile » dans l'*Odyssée* d'Homère et n'a « fait bonnement que traduire les plus ingénieuses fictions des Payens » ; selon Jean-Marc Civardi [5], « Durval fait partie de ces modernes qui ne rejettent pas les anciens mais qui n'y sont pas inféodés ».
+ * – *Agarite*, qui a été éditée en 1636 et qui sera l'objet de notre étude ;
+ * – *Panthée*, tragédie éditée en 1638. Cette pièce peut selon les Frères Parfaict [6] ne pas avoir été représentée. Il s'agit du même thème que celui abordé par un « ancien maistre », sous-entendu Hardy, mais aussi par son rival de l'époque Tristan L'Hermite, dans sa *Panthée*, en 1639, mais avec un dénouement différent, puisque Durval introduit trois eunuques qui se tuent en même temps que l'héroïne, et, d'après Lancaster [7], ces deux pièces écrites à peu près en même temps ne se doivent rien l'une à l'autre.
+
+C'est dans sa préface qu'il annonce qu'il s'est retiré de la scène, car « il est plus séant de faire place aux maîtres qui l'enseignent la règle des trois unités que de les choquer », déclare-t-il avec ironie.
+
+Durval fut également poète, puisqu'il écrivit *La Poésie au Roy, L'Annonciade*, recueils non datés, et des poèmes publiés en appendice des *Travaux d'Ulysse* tels La matinée, l'Automne, Enigme, Le parfaict Amy. Frédéric Lachèvre [8] mentionne aussi trois poèmes qu'il aurait fait publier dans la *Muse* de Beauchasteau, en 1657.
+
+Une autre pièce lui est attribuée de façon incertaine, *L'Ecclésiaste en vers lyriques, accomodé à la politique et morale chrétienne…*, publiée en 1652.
+
+Les Frères Parfaict notent au sujet de Durval que « les auteurs contemporains lui ont reproché d'avoir cherché à traiter des sujets tristes », faisant allusion au poème d'Antoine Gaillard « la Furieuse Monomachie de Gaillard et Braquemard » [9], poème dans lequel l'auteur porte un jugement sur différents dramaturges tels Corneille, Rotrou, Du Ruyer (« Durier »), Rayssiguier (« Raziguier »), et un certain « Dorval » dont il est dit qu'il « est ténébreux » et qu'il « aime le cercueil », sans doute selon Lancaster [10] à cause des allusions aux ossements des défunts dans deux des pièces de Durval (dont *Agarite*) :
+
+Corneille est excellent, mais il vend ses ouvrages :  
+Rotrou fait bien des vers, mais il est poète à gages [11] :  
+Durier est trop obscur, et trop remply d'orgueil :  
+Dorval est ténébreux, il aime le cercueil :  
+Raziguier est Gascon, par conséquent il volle [12] :  
+Marcassus est sçavant, mais il sent trop l'escolle :  
+Gomer nous seroit bon, s'il n'estoit pas si gueux.  
+De Coste écrit parfois, mais il est malheureux.  
+Auvray ce gros camart, plaide pour les suivantes.  
+Claveret est rimeur, mais c'est pour les servantes.  
+
+La dernière production que l'on attribue à Durval de façon incertaine puisque cet ouvrage fut publié de façon anonyme, est le fameux *Discours à Cliton sur les Observations du Cid avec un Traité de la disposition du Poème dramatique, et de la prétendue Règle des vingt-quatre heures*, publié en 1637 [13]. D'abord attribué à Gougenot, Mairet, ou encore Mareschal, il semble évident que Durval en soit l'auteur si l'on en croit les termes employés par Durval dans ses préfaces ou les thèmes plus généraux développés par cet auteur. C'est d'ailleurs la thèse défendue par J.-A. Lisle dans son *Essai sur les Théories dramatiques de Corneille* [14] ainsi que celle de Jean-Marc Civardi [15] et de Giovanni Dotoli [16]. C'est dans ce texte important, qui a alimenté de façon animée la *Querelle du Cid*, Durval étant de ceux qui s'opposèrent à l'établissement des règles classiques contre les intellectuels et les dramaturges qui soutiennent l'unité de temps, sujet sur lequel nous reviendrons, que Durval « dit adieu au théâtre en versant ses rancunes dans le Traité, déjà composé ou qu'il composait alors (…). Ce n'est pas par crainte d'afficher ses théories mais pour ne pas révéler ses rancunes ou pour ne pas brûler définitivement ses vaisseaux (tant d'auteurs ont solennellement dit adieu au théâtre, qui bientôt y sont revenus !) qu'il a gardé l'anonymat, en publiant son œuvre. Après quoi, il était difficile de l'avouer tardivement en 1639(…) » [17], 1639, date à laquelle est parue sa *Panthée.*
+
+Si l'on part du postulat que Durval est bien l'auteur du Discours, on peut dire de ce dernier qu'il était favorable à Corneille et de surcroît un grand admirateur du dramaturge Hardy [18], ce qui vient corroborer ce qui était dit dans la préface de *Panthée*.
+
+
+# Édition et réception d'Agarite et conditions de représentation
+
+Le grand succès de cette pièce est évoqué par Durval dans son épître dédicatoire à la Duchesse de Nemours : « Celle-cy  la pièce de théâtre que j'ay l'honneur de présenter à Votre Grandeur ayant esté aucunement bien receuë sembloit ne devoir plus craindre l'injure du temps ny les coups de langue(…) » , ainsi que par les Frères Parfaict [19] qui n'apprécient guère, ni l'engagement de Durval contre les règles naissantes, ni « la mauvaise versification » de l'auteur, ni son scénario médiocre ; il faut cependant rappeler que ce dénigrement fut très en vogue au XVIII*e* siècle, le mépris pour le baroque, dont ce genre découle directement du fait de sa grande liberté, perdurant encore jusqu'au début du XIX*e* siècle, époque où des auteurs commencèrent à s'intéresser aux précurseurs du théâtre classique et à leur production abondante et diversifiée.
+
+Selon le *Mémoire de Mahelot* [20], la pièce fut jouée en 1633, 1634 au plus tard [21], à l'Hôtel de Bourgogne, si l'on en croit son auteur, créateur de décors ayant consacré un des chapitres de son mémoire à la mise en scène d'*Agarite*. Nous pouvons également ajouter, mais nous y reviendrons plus tard, que la mise en scène dut être impressionnante pour les spectateurs de l'époque, puisque Durval, dans son choix de ne pas se plier aux règles des trois unités a multiplié les lieux.
+
+D'autre part, il est donné au milieu de la pièce un ballet spectaculaire où dansent les quatre vents, dans un tumulte d'éclairs et de tonnerre, et dans un tourbillon de plumes, dont étaient vêtus les personnages, et durant lequel un meurtre a lieu sur scène, ce qui était rare dans les tragi-comédies, et certainement impressionnant.
+
+Cette pièce est jugée comme l'une des plus divertissantes de la période par Lancaster.
+
+
+# Résumé de l'histoire
+
+Agarite, belle demoiselle chaste est courtisée par le roi d'un pays dont on ne connaît pas le nom, les contrées imaginaires étant une constante dans les tragi-comédies [22]. Pour échapper aux avances de ce puissant prétendant, son père, Médon, l'exhorte à fuir à la campagne où ils possèdent une demeure, de façon à faire croire au roi que la belle a été ravie. Là bas, Agarite fait la connaissance de deux gentilshommes : Policaste, objet de son amour, et Lizène qui ne fera qu'attiser sa haine. Très vite ce dernier va trouver Médon afin d'obtenir la main d'Agarite. Pour qu'elle échappe à ce mariage forcé, Policaste suggère à son amante de fuir le soir de ses noces avec lui, de se retrancher dans la forteresse de son père, un peu plus loin en suivant la rivière, et de se départir au passage de ses vêtements pour faire croire à un suicide.
+
+Dans un même temps, Célidor, le favori du roi, fait la connaissance de Corintie, la sœur de Lizène, tandis qu'il cherche Agarite en vain. Le roi, apprenant qu'Agarite va lui échapper une nouvelle fois, en épousant Lizène, demande à Célidor d'éliminer ce dernier : il profitera du ballet donné en l'honneur des épousés pour assassiner Lizène sur scène, tirant avantage des coups de feux tirés pour représenter les éclairs. Au palais, tout le monde croit Agarite morte, et ce, d'autant que des pêcheurs ont retrouvé ses effets près de la rivière…
+
+Par ailleurs, Corintie qui comprend que celui qu'elle aime a tué son frère, décide de résoudre ce dilemme en pardonnant à Célidor ; mais ce dernier estimant son forfait trop important préfère faire pénitence en partant en pèlerinage, malgré les demandes répétées de Corintie, qui finalement le suivra déguisée en page.
+
+Agarite et Policaste, désireux de rentrer à la cour, doivent trouver un moyen pour que le roi, ivre de douleur, oublie cette passion déraisonnée pour Agarite.
+
+Ils rencontrent la jeune princesse Amélise, éprise du roi et de son trône, qu'ils décident de substituer à la statue érigée en l'honneur d'Agarite, sur le lit de parade sur lequel le roi laisse cours à son chagrin. C'est au moment où la vraie fausse statue s'anime, laissant le roi médusé, qu'il en oublie instantanément son chagrin et accepte d'épouser cette princesse. Il est alors temps pour les amants de dévoiler le stratagème, et Agarite, au roi. Ce dernier consent à les unir, ainsi que Célidor et Corintie, eux aussi revenus à la cour après s'être retrouvés. La pièce s'achève sur l'annonce de ce triple mariage.
+
+
+# Description de la pièce
+
+
+## ACTE I (318 vers)
+
+*Scène 1* : Monologue d'exposition où le roi annonce qu'il aimerait se faire aimer d'Agarite et profiter de ses charmes (sans que le nom de cette dernière ne soit prononcé). Entrée de son favori, Célidor, à qui il promet fortune et gloire si ce dernier parvient à le faire « jouyr » de cette « beauté si rare » (V.35).
+
+*Scène 2* : Célidor entreprend Agarite dans la boutique d'un marchand de tableaux flamands en vantant les vertus de l'amour et en prenant de ce fait appui sur un tableau où sont célébrées les beautés et les nécessités naturelles de l'amour. Mais Médon, le père d'Agarite, n'est pas loin et appelle sa fille.
+
+*Scène 3* : Médon montre à Agarite un tableau où sont peints les dangers et les apparences trompeuses et séduisantes de l'amour, la mettant en garde contre le roi, dans une scène absolument symétrique à la précédente. Il décide d'envoyer Agarite consentante à la campagne afin d'échapper au roi et de faire croire à ce dernier à un rapt (premier stratagème).
+
+*Scène 4* : Apparition fugitive d'Amélise (qui ne réapparaîtra qu'à la fin de la pièce) qui avoue à Phénice son attrait pour le roi. Dans un second temps, Phénice dans un mouvement de travelling interne va assister au conseil du roi où il est question de la fidélité des vassaux. Médon fait alors irruption dans le conseil et informe le roi du rapt de sa fille, lequel annonce que l'auteur de ce forfait le paiera de sa tête.
+
+
+## ACTE II (288 vers)
+
+*Scène 1* : Monologue d'Agarite qui évoque l'amour qu'elle porte à Policaste et la haine que lui inspire Lizène. Entrée des deux prétendants à qui elle révèle respectivement ses sentiments par le biais de deux poèmes, dont ils font la lecture. Lizène, dédaigné, part, furieux. S'ensuit un badinage amoureux entre les deux amants.
+
+*Scène 2* : Lizène annonce à Corintie, sa sœur, qu'il va épouser Agarite de gré ou de force, en demandant sa main à Médon. Corintie, restée seule, présage un désastre. Arrivée de Célidor dont on apprend qu'il courtise Corintie depuis qu'il l'a rencontrée en cherchant Agarite. S'ensuit un badinage amoureux entre les amants.
+
+*Scène 3* : Badinage amoureux entre Agarite et Policaste. Arrivée du cocher qui annonce à Agarite que son père lui fait épouser Lizène. Policaste élabore un stratagème : fuir avec Agarite le soir de ses noces pour gagner la forteresse paternelle de Policaste en remontant la rivière. Elle devra au préalable s'être dépouillée de ses vêtements pour faire croire à un suicide.
+
+Scène 4 : Le roi apprend que Lizène va épouser Agarite. Il commande à Célidor de le tuer et de ravir l'épousée.
+
+
+## ACTE III (288 vers)
+
+*Scène 1* : Dissertation de Médon sur les vertus du mariage (jeux de mots sur l'équivoque sexuelle), afin de tenter d'accorder les époux, mais Agarite reste glaciale.
+
+*Scène 2* : Policaste attend Agarite sur la barque, déguisé en batelier. Evocation de son amour pour cette dernière qu'il compare au lieu sordide où il se trouve (un cimetière), attente et craintes amoureuses. Arrivée d'Agarite qui de son côté dans un long monologue a évoqué la frayeur que lui inspirait le lieu. Ruse de Policaste qui fait semblant d'être mort ; s'ensuit un long badinage amoureux (cette scène à elle seule fait 180 vers). Ils se décident à partir.
+
+*Scène 3* : Représentation du « Ballet Des Quatre Vents », durant lequel Lizène est tué par Célidor qui profite des coups de feu représentant les éclairs et le tonnerre, pour tuer l'époux. C'est alors qu'on s'aperçoit de la disparition d'Agarite.
+
+
+## ACTE IV (360 vers)
+
+*Scène 1* : Conversation pittoresque des pêcheurs. Découverte des effets d'Agarite sur la rive.
+
+*Scène 2* : Annonce au roi et à Médon d'une funeste découverte.
+
+*Scène 3* : Badinage amoureux entre Policaste et Agarite : celle-ci refuse de perdre sa chasteté, n'étant pas mariée.
+
+*Scène 4* : Reconnaissance des effets d'Agarite qui est tenue pour morte. Evanouissement de Médon et lamentations du roi, désespéré.
+
+*Scène 5* : Monologue de Corintie en proie au dilemme de savoir si elle doit ou non pardonner à celui qu'elle aime le meurtre de son frère. Elle choisit l'amour plutôt que les liens du sang. Célidor, qui se reproche d'avoir trahi son amante pour obéir au roi décide de partir en pèlerinage. Corintie le suit, déguisée en cavalier, sans qu'il le sache.
+
+*Scène 5* : Lamentations du roi, fou de tristesse, qui décide de faire ériger un lit de parade en l'honneur d'Agarite. Cette scène est la plus longue de l'acte.
+
+
+## ACTE V (366 vers)
+
+*Scène 1* : Retour d'Agarite et de Policaste au palais. Policaste a inventé un stratagème pour que le roi oublie Agarite et consente à les unir. Ils trouvent en chemin Phénice et Amélise qui vont les aider dans ce projet.
+
+*Scène 2* : Retrouvailles de Célidor et de Corintie. Après un badinage amoureux, ils décident de rentrer au palais.
+
+*Scène 3* : Amélise s'est substituée à la statue d'Agarite sur le lit de parade, et commence à se mouvoir tandis que le roi songe à Agarite. Ce dernier, émerveillé en oublie aussitôt son amour pour Agarite et finit par accepter d'épouser Amélise. Aveu du subterfuge au roi, qui consent à unir les amants. Arrivée de Corintie et de Célidor que le roi relève de sa promesse de faire pénitence et qui bénit cette nouvelle union. La pièce s'achève sur ce triple mariage.
+
+
+# Sources et réécriture
+
+Les sources sont inconnues pour Lancaster [23], qui propose néanmoins quelques pièces présentant des similitudes avec celle de Durval. En ce qui concerne le prénom de l'héroïne, Agarite, ce nom a été utilisé par Richemont Banchereau dans *Les Passions égarées* [24]. D'autre part, dans *La Pélerine amoureuse* [25] de Rotrou, on retrouve une discussion sur la valeur de certains poèmes, comme celle qu'a Agarite avec ses prétendants, acte II, scène 1 ; cette pièce a cependant probablement été jouée au même moment ou peu de temps avant *Agarite*, son influence sur celle de Durval est donc discutable. Quant au ballet joué sur scène, une seule pièce présente un ballet de ce type : il s'agit d'*Antioche, Tragoedie traitant le martyre de sept enfants machabéens* de Jean-Baptiste Le Francq, publiée en 1625 ; au troisième acte, scène 7 est dansé un ballet donné par le « génie de nature », les « esprits de l'homme », et les vents pour condamner l'inconstance.
+
+Il existe en revanche des œuvres théâtrales incluant des pièces représentées et développant ainsi le procédé du théâtre dans le théâtre que nous aborderons plus loin. Nous pouvons par exemple citer *Célinde* de Baro (1629), pièce dans laquelle l'héroïne, Célinde, incarne Judith, elle-même l'héroïne d'une autre tragédie intitulée Holoerne, qui relate l'histoire de Judith. Cette dernière, pour sauver son peuple et sa ville, Bétule en Judée, assiégée par l'armée du général syrien Holoferne, n'hésita pas à s'infiltrer chez l'ennemi et feindre de trahir les siens. Grâce à sa beauté et à sa condition de femme, elle parvint à obtenir une soirée en tête à tête avec le général Holoferne, à qui elle trancha la gorge, ce qui priva l'armée de son chef et permit la victoire de Bétule. Dans la pièce citée plus haut, l'héroïne parvient elle aussi à tuer Floridan, à qui elle est promise et qu'elle n'aime pas, ce dernier jouant le personnage d'Holoferne. Dans cette pièce, les acteurs sont des personnages de la pièce, clairement identifiés par les spectateurs – acteurs, qui se font abuser dans les deux pièces de la même façon puisque la fiction laisse place à une sordide réalité, à la différence d'*Agarite* où seul Célidor joue un rôle et qu'il n'est pas reconnu par les protagonistes. Dans Célinde, la pièce occupe tout le troisième acte à la différence du « Ballet des Quatre Vents » qui n'occupe que la scène 3 de l'acte III, mais qui est plus spectaculaire au sens où les effets spéciaux impressionnent davantage ; mais la substitution d'un ballet à une pièce témoigne des relations particulières qui reliaient les deux genres à cette époque. D'autre part, signalons que le prénom « Célidor », rappelle celui de « Célinde » et celui de « Lucidor », amant de Célinde, dans *Célinde*.
+
+L'introduction de jeunes hommes déguisés de chapeaux à plumes tournoyantes pour danser un ballet mais dont les vraies motivations sont autres, est constatée dans la nouvelle de Sorel intitulée *Le Palais d'Angélie* [26].
+
+Il est cependant important de faire un rapprochement avec le théâtre élisabéthain et jacobéen, dans lequel les thèmes de l'assassinat et de la vengeance [27] furent fréquemment liés au procédé du théâtre dans le théâtre. Mais cet emprunt est discutable [28]. On peut cependant dire que Baro a donné l'idée à Durval l'idée de la surthéâtralisation, car la mise en abîme trouvée dans *Célinde* est absente de notre pièce. Ainsi, à moins de supposer, comme le souligne Georges Forestier [29], que Durval a voyagé en Hollande, en Angleterre, en Allemagne ou en Belgique, où les tragédies anglaises remportaient beaucoup plus de succès qu'en France depuis le début du XVII*e* siècle, pourquoi dans ce cas « ont-ils [30] limité à ces trois pièces, à une petite partie de ces trois pièces, leurs emprunts » [31] ? Il faut envisager que cela n'est que coïncidence. En ce qui concerne les influences italiennes, seule la *commedia dell'arte* pourrait avoir eu une influence : elle aurait permis de donner un prétexte vraisemblable, compte tenu du fait qu'on y célèbre des mariages, et que dans la réalité, il n'y a pas de riche mariage sans divertissement, on peut se demander si les dramaturges ont véritablement été influencés par la tradition italienne [32].
+
+Durval pour l'élaboration de ce ballet s'est peut être inspiré du *Ballet de l'Harmonie* [33] dans lequel figurent Eole et les quatre vents.
+
+En ce qui concerne la substitution d'une femme à une statue comme c'est le cas dans le dernier acte d'*Agarite*, Lancaster souligne [34], qu'il existe des similitudes avec le mythe de Pygmalion ( l'artiste amoureux de la statue, Galatée qu'il a façonnée demanda à Aphrodite de lui donner cette femme pour épouse ; laquelle touchée, anima la statue), mais rien ne prouve que Durval se soit directement inspiré du mythe pour créer Agarite, même s'il est indéniable qu'il existe des points communs entre les deux histoires. De même, on peut rapprocher *Agarite* du *Conte d'hiver* de Shakespeare (publié en in-folio en 1623, mais la lecture des pièces anglaises n'étant pas prouvée, il est hasardeux d'affirmer que Durval ait pu lire la pièce), du *Pandosto* de Greene ou de *El Mârmol de Felisardo* de Lope de la Vega, où un jeune homme se marie avec une statue qui s'anime. Cependant l'auteur du Discours semble ne pas ignorer les pièces italiennes, puisqu'il affirme qu'elles sont faites sur le patron des pièces grecques et latines [35].
+
+Enfin, une autre pièce est à rapprocher d'*Agarite* : il s'agit de *Pyrame et Thisbé* de Théophile de Viau (1621), d'après Ovide. Un garçon, Pyrame, et une jeune fille, Thisbé, s'aiment depuis qu'ils se sont vus (la contiguïté de leurs maisons est un peu banalement à l'origine de leur amour) ; leurs familles se haïssent et pour se parler ils utilisent une fente dans le mur. Un jour, ils décident de fuir ensemble, et se donnent rendez-vous près du tombeau de Ninus. Thisbé, arrivée la première et effrayée par un lion, s'enfuit, perdant en chemin un de ses voiles. Lorsque Pyrame arrive, il découvre sur le voile du sang qu'il prend pour celui de Thisbé, et, ne la voyant pas, il la croit morte, attaquée par un lion et se poignarde; quand cette dernière revient sur les lieux, elle découvre avec horreur la situation et décide de mourir en véritable héroïne grecque. Cette pièce présente bon nombre d'analogies avec *Agarite*, bien que l'histoire soit différente. Il s'agit particulièrement du passage où Thisbé, voilée dans la nuit doit retrouver Pyrame près du tombeau de Ninus, et où cette dernière évoque ses craintes de se frayer un tel chemin en pleine nuit (Acte IV, scène 3), qui rappelle étrangement les craintes d'Agarite lorsqu'elle rejoint son amant dans le cimetière (acte III, scène 2) et la scène suivante, symétrique, comme dans *Agarite*, où Pyrame se rend au tombeau à son tour, qui rappelle la scène où Policaste attend celle qu'il aime. Tout d'abord, il faut souligner que le lieu de rencontre est le même : un tombeau, près d'une rivière, dans *Pyrame et Thisbé*, un cimetière près d'une rivière, dans *Agarite* ; la situation ensuite : les deux femmes cherchent à échapper à leurs familles et partent retrouver leur amoureux. Les craintes des protagonistes sont aussi identiques : d'une part, ils craignent de se perdre et d'être délaissés par l'objet de leur amour, crainte très romantique, ce qui donne lieu à des lamentations, et d'autre part, ils évoquent des instances de la nature plus ou moins en rapport avec la mythologie (c'est surtout valable pour la pièce de Théophile de Viau).En revanche, la symbolique des lieux évoquant l'idée de quelque prédestination dans *Pyrame et Thisbé*, ne se trouve pas dans *Agarite*, puisque, nous le verrons, il n'y a pas d'idée de fatalité, de destin dans la pièce de Durval (mise à part peut-être la clairvoyance de Corintie, vers 434), les éléments de nature n'étant pas porteurs de symboles.
+
+Enfin, dans *Agarite*, le jeu auquel se livre Policaste, lorsqu'il lui fait croire qu'il est mort afin d'obtenir un baiser, fait écho à la scène tragique où Pyrame trouve Thisbé évanouie (lui la croit morte) ; le dénouement est bien différent, les protagonistes ne jouant pas.
+
+La ressemblance est vraiment frappante et il est difficile de ne pas penser que Durval s'en soit inspiré, tant les images et les effets de symétrie sont semblables.
+
+Nous pouvons enfin rapprocher notre pièce de celle de Cyril Tourneur, intitulée *La Tragédie du Vengeur*, publiée en 1607, dans laquelle une mascarade meurtrière a lieu au moment du dénouement de l'histoire, mais nous l'avons signalé, l'influence du théâtre élisabétain est loin d'être avérée.
+
+Les thèmes tels que la rivalité du roi et de son sujet, le faux kidnapping de la jeune fille afin qu'elle échappe aux assiduités du roi ou l'assassinat du rival par un autre protagoniste, sont des thèmes communs aux pièces romantiques, même s'il est vrai que le meurtre sur scène est surprenant en ce qui concerne une tragi-comédie. Le thème de l'horrible (la scène du cimetière) est un thème baroque. De ce fait, la pièce de Durval, assez conventionnelle en ce qui concerne son histoire, se démarque des autres tragi-comédies par quelques traits d'originalité comme nous le verrons, et par la dramatisation bien élaborée de son intrigue.
+
+
+# Décors et mise en scène
+
+Durval ne nous fournit aucune indication [36] en ce qui concerne le pays où a lieu l'histoire, comme ce fut souvent le cas des tragi-comédies. En revanche, et conformément à sa volonté de ne pas se soumettre systématiquement à l'unité de lieu [37], il a multiplié les lieux dans cette pièce ; huit au total :
+ * – le palais dans lequel se trouve le lit (acte I, 1 et 4 ; acte II, 4 ; acte IV, 2 et 6 ; acte V, 1 et 3),
+ * – la boutique du marchand de tableaux (acte I, 2) ;
+ * – le cabinet de Médon, où il y a le tableau (acte I, 3) ;
+ * – la maison de plaisance d'Agarite où celle-ci rencontre Policaste et Lizène (acte II, 1 et 3 ; acte III, 1 et 3) ;
+ * – la maison de Corintie où elle rencontre son amant (acte II, 2 ; acte IV, 5) ;
+ * – le cimetière au bord de la rivière avec le clocher ruineux (acte III, 2 ; acte IV, 1 et 4) ;
+ * – la forteresse de Policaste (acte IV, 3) ;
+ * – les bois dans lesquels se trouve une fontaine (acte V, 2).
+
+L'adaptation scénique est alors une véritable gageure, même si à cette époque où les règles classiques n'en étaient qu'à leurs balbutiements, il n'était pas rare de trouver des pièces avec un certain nombre de lieux ; si l'on en croit Eugène Rigal dans *le Théâtre français avant la période classique*, « il n'en est guère de plus compliqué de décor dans le *Mémoire* ».
+
+En effet, selon Laurent Mahelot, dans *le Mémoire de Mahelot* [38] il faut, « au milieu du théâtre … une chambre garnie d'un superbe lict, lequel se ferme et s'ouvre quand il en est besoin. A costé du theatre, il faut une forteresse vieille ou se puisse mettre un petit batteau, laquelle forteresse doit avoir un antre a la hauteur de l'homme, d'ou sort le batteau. Autour de ladicte forteresse, doit avoir une mer haute de deux pieds 8 pouces, et, a costé de la forteresse, un cimetiere garny d'une cloche et de brique cassée et courbé c'est-à-dire un clocher de brique cassé et courbé, trois tombeaux et un siege. Du mesme costé du cimetiere, une fenestre d'ou l'on void la boutique du paintre qui soit a l'autre costé du theatre, garnie de tableaux et autres peintures, et, a costé de la boutique, il faut un jardin ou bois ou il y ayt des pomes, des grinions sorte de poires. Des ardans feux follets ; un moulin un moulinet pour le ballet probablement, habits de ballet, des fiolles, des aisles pour les vents, des perruques de filace, deux flambeaux de cire, quatre flambeaux d'etain garnis de lumieres ; une robe d'hermite, le mantelet et le bourdon ; un manteau de cocher et le foit fouet aussy ; et une nuit. », ce qui est considérable.
+
+Comme nous pouvons le constater, Mahelot a réduit ce chiffre à six, faisant jouer dans le « morceau de maison » (entre la chambre royale et le cimetière), la scène ayant lieu dans le cabinet de Médon, et on peut imaginer que les scènes initialement prévues chez Agarite et Corintie (Célidor vient la voir lorsqu'il chasse, donc la maison est non loin de la forêt) eurent lieu devant le bois.
+
+À première vue, la scène est découpée en cinq compartiments :
+ * – un au fond de la scène : la chambre (avec un lit que l'on pouvait cacher grâce à un rideau) ;
+ * – deux à gauche : la forteresse baignée par les flots (au premier plan) et le cimetière avec l'église ;
+ * – deux à droite : le bois (au premier plan) et la boutique du marchand de peintures.
+
+Cependant, et comme le souligne Rigal, cette disposition symétrique qu'affectionnait particulièrement le décorateur de l'Hôtel de Bourgogne au point de la reproduire aussi souvent que cela était possible, est compromise du fait qu'étant difficile d'isoler complètement la chambre du fond du cimetière (à gauche), le décorateur a dû placer entre les deux, un morceau de maison (ou palais). Mais cette façade rapprochée du cimetière et faisant bloc avec lui (espèce de prolongement de l'église) et la boutique du marchand, en face, étant assez large, l'œil du spectateur ne distingue dans un premier temps que cinq compartiments, ce qui offre malgré tout une impression de symétrie.
+
+
+# Les personnages
+
+Il est intéressant de considérer le statut des personnages dans la pièce : le père, Médon passe du statut d'adjuvant à celui d'opposant, ce qui est assez original pour être souligné : dans un premier temps, il aide sa fille à fuir loin du roi et, dans un second temps, il lui impose un pédant contre son gré. Ainsi l'ordre transgressé dans un premier temps est rétabli. De ce fait Agarite est obligée de fuir : c'est l'action type des tragi-comédie pour échapper à un obstacle. En revanche, ce qui est assez étonnant dans *Agarite*, c'est l'absence d'obstacles majeurs à ces échappées (les seuls obstacles sont les ombres de la nuit), qui ne connaissent ni échec, ni retard ; l'action est sans cesse dédramatisée de ce point de vue, puis une nouvelle tension se crée du fait qu'à chaque fois, la fuite devient un emprisonnement : Agarite, pour échapper au roi, tombe dans les griffes de Lizène, et lorsqu'elle échappe à ce dernier, elle ne peut profiter de sa liberté, puisque la société ne peut reconnaître leur amour illégitime.
+
+Cependant, il serait faux de définir la tragi-comédie comme une tragédie saupoudrée de bouffonneries ponctuelles, l'aspect mal dégrossi étant justifié par le statut social peu élevé des personnages qui formulent ces discours (les pécheurs par exemple). *Agarite* allie deux oppositions : l'image du héros et les allusions graveleuses, le ton comique étant donné par ce mélange hétérogène. Malgré la gravité de la situation, des traits plus légers viennent toujours nuancer l'intensité du drame : Médon s'évanouit tandis qu'il voit les vêtements de sa fille, qu'il croit morte, sur la rive, par exemple.
+
+Le dénouement est assez classique : la pièce s'achève sur un triple mariage.
+
+Attardons-nous quelques instants sur l'épisode où Amélise se substitue à la statue d'Agarite : cela va permettre à Agarite de recouvrer son identité et d'épouser Policaste. C'est parce qu'ils ne peuvent pas vivre hors-la-loi que les amants vont inventer ce stratagème. L'ordre des événements est donc relativement logique ; en revanche, ce qui l'est moins et qui paraît beaucoup moins vraisemblable, c'est le changement radical du roi sur le plan amoureux. En ce sens, les effets du stratagème sont presque merveilleux. La magie et le stratagème scénique de la substitution se superposent lorsque l'on considère l'effet visuel provoqué. On imagine sans peine la réaction médusée du spectateur de l'époque qui voit cette statue s'animer sous ses yeux. Le recours au vrai faux merveilleux est ainsi immédiatement abandonné, au profit d'une rouerie aussitôt déjouée par le spectateur, qui identifie rapidement Amélise. Précisons enfin, en ce qui concerne le dénouement, que le dernier mot revient à celui qui détient l'ordre social, c'est-à-dire le roi, dont les exactions passées ne lui sont à aucun moment ni reprochées, ni rappelées. Le pardon est alors immédiatement consenti par Médon, dès lors qu'Agarite l'interpelle et le reconnaît comme son père, le rétablissant ainsi dans la hiérarchie familiale [39].
+
+Durval sait ménager un certain suspens, malgré le fait que la dramatisation tourne trop vite court quelquefois, et cela volontairement, comme lorsque nous assistons aux états d'âme de Corintie, qui ayant appris que celui qu'elle aime est à l'origine de l'assassinat de son frère, a un choix à faire. Tandis que le spectateur moderne s'attendrait à un choix douloureux et improbable, comme celui de Chimène dans *Le Cid* de Corneille, Durval fait en sorte que Corintie se décide immédiatement, mais cela est sans doute volontaire afin de ne pas détourner l'action principale de son cours et lui donner une moindre importance.
+
+On peut déplorer la docilité des héros, leur manque de caractère et l'absence de fatalité qui retrancherait les héros derrière leur humanité et leur originalité (Agarite parvient sans encombres à rejoindre Policaste ; aucune de leurs actions n'échoue dans le fond) ; mais cela n'est pas le but visé par Durval ; comme le dit Lancaster [40], Durval ne tente pas de dessiner des personnages (« There is little attempt at character drawing, no care for unity or propriety (…) ») ; c'est d'ailleurs une des raisons pour lesquelles il est difficile de les considérer comme des héros ; Durval cherche à plaire et à divertir.
+
+
+## Agarite
+
+(9 apparitions, 225 vers) C'est le personnage principal de la pièce même si en ce qui concerne le nombre de vers prononcés, elle est en quatrième position. Elle apparaît dans neuf scènes sur vingt, ce qui en fait après Célidor, le personnage le plus présent sur scène ; et lorsqu'elle n'est pas présente, elle est presque toujours l'objet de conversation des personnages, même indirectement. Elle est l'objet, l'enjeu de toute la pièce, qui porte d'ailleurs son nom ; de son existence dépendent toutes les amours de la pièce, y compris celles de Corintie et de Célidor, dans la mesure où c'est grâce à elle que Célidor rencontre Corintie, tandis qu'il la cherchait, mais à cause d'elle qu'il s'en sépare, car c'est à cause d'Agarite que Célidor doit faire pénitence (meurtre de Lizène). C'est d'elle que vont s'éprendre ses trois prétendants que sont Lizène, Policaste et le roi.
+
+En ce qui concerne son apparence, le texte nous renseigne peu : on sait qu'elle est « jeune » (vers 45 et 88), belle (c'est un « soleil de beautés », vers 4), et d'« une beauté si rare » (vers 35) que le roi ferait n'importe quoi pour pouvoir en jouir. Elle a une beauté classique : le visage clair (« vermeil », vers 1225), les yeux bleus (vers 1229), des cheveux blonds (vers 1235).
+
+D'un point de vue social, elle est une « simple demoiselle » (vers 68), donc d'une condition inférieure au roi ; selon Richelet, ce nom se donne « par abus aux filles et aux dames qui sont un peu bien mises, qui ont quelque air ou quelque bien un peu considérable », pourvu qu'« elles ne soient pas de la lie du peuple, ou nées d'artisans », rajoute Furetière, ce qui semble bien définir le personnage dans le cas présent. Elle a en tout cas reçu une certaine éducation, puisqu'elle lit des poèmes (vers 62, 69 et 70), et qu'elle est suffisamment habile pour se départir de Lizène en lui soumettant un poème adéquat. Dans la pièce, son père possède plusieurs maisons et va à la cour ; il est donc fort probable qu'il s'agisse d'un grand seigneur. Il est évident pour elle que le roi ne l'épousera pas ; elle est donc lucide et peu vaniteuse (elle préfère garder son honneur plutôt que de céder), et d'une chasteté exemplaire puisqu'elle résistera même à Policaste.
+
+Dans un premier temps, elle est soumise puisqu'elle se laisse entraîner par son père hors de la ville, puis désobéissante lorsqu'elle décide de suivre son amant hors de la demeure paternelle, bravant ainsi tous les dangers et les conventions sociales ; en digne aventurière, elle acceptera de se déguiser en page pour ne pas être reconnue et arriver jusqu'au roi, ce qui fait d'elle une amoureuse de convention.
+
+
+## Policaste
+
+(6 apparitions, 296 vers) Il est la figure même de l'amant ; sans doute beau (Agarite s'en éprend), mais il est certainement moins fortuné que Lizène (il possède une vieille forteresse). Il reste vertueux et chevaleresque puisqu'en dépit d'un langage et d'actions quelque peu paillards, il sait rester sage et n'abusera pas d'Agarite tandis qu'il en a la possibilité.
+
+C'est grâce à lui que la situation qu'il a compliquée malgré lui va être résolue, puisqu'il est l'auteur des stratagèmes qui lui permettront d'obtenir Agarite. Dans un premier temps, il organise son enlèvement consenti (il la soustrait au roi et à son futur époux) ; puis, dans un second temps, il parvient à redonner au roi sa lucidité : il imagine un moyen de le guérir définitivement de sa passion pour Agarite en substituant à la statue de cette dernière la princesse Amélise, amoureuse potentielle. Il devient à la fois magicien, car la réussite du projet est miraculeuse et rapide, et scénariste de la scène dont il va lui-même tirer avantage, légitimant ainsi son union avec Agarite.
+
+
+## Lizène
+
+(4 apparitions, 67 vers) Il s'agit du méchant de l'histoire dont les consonances du prénom résument les sentiments qu'il inspirera à l'héroïne : il y a le substantif « lise » (c'est un personnage qui n'hésitera pas à faire appel à ses relations pour avoir Agarite de gré ou de force) et le substantif « haine », sentiment que ressentira très vite Agarite à son égard, ainsi que le roi qui ira jusqu'à le faire tuer sur scène (il a tenté de lui soustraire Agarite).
+
+Son assassinat aurait dû provoquer ressentiments et tristesse, puisqu'il est tué par l'amant de sa sœur, sur scène de surcroît, mais ces sentiments sont très vite oubliés, et son nom n'est plus prononcé à partir du moment où sa mort est découverte. Il est obstiné, déplaisant (vers 335 et 337) et lourdaud (vers 543). Sa mort n'apporte rien à ceux qui la souhaitaient (Agarite s'est enfuie), mais arrange les affaires d'Agarite puisqu'elle se libère de la contrainte imposée par son père. Sa mort était inévitable pour rétablir l'équilibre de la pièce : il y a trois hommes pour une même femme au début de la pièce. La présence d'Amélise compensant le déséquilibre, il était difficile d'introduire une troisième femme ; la seule solution était de faire disparaître l'un des rivaux, et de surcroît le moins sympathique.
+
+
+## Le roy
+
+(7 apparitions, 379 vers) Si l'on se base sur le nombre de vers déclamés par le roi dans la pièce, on peut dire qu'il s'agit du personnage le plus présent sur scène ; en effet, son temps de parole représente presque un quart du temps de parole de tous les personnages (soit 379 vers sur les 1620 de la pièce), et pourtant, ce n'est pas celui qui apparaît le plus souvent (il est en quatrième position de ce point de vue). En revanche, lorsque ce personnage apparaît, il accapare la parole ; c'est le roi, le maître des lieux ; une scène entière lui est accordée (acte IV, scène 6) tandis qu'il pleure Agarite.
+
+En ce qui concerne le personnage à proprement parler, le texte là encore ne nous donne que peu d'informations : nous ne connaissons ni le nom du pays qu'il gouverne, ni son nom ; nous pouvons supposer qu'il s'agit d'un homme d'âge mûr (vers 1 « Que les Roys de mon aage ont de trouble en aimant »), décrit par Célidor comme un homme « libéral », « vaillant » et « sage » (vers 115). Agarite ne le trouve pas laid, au contraire : « ce sont là de bien beaux traicts de visage » (vers 116), mais aucune description physique n'a été trouvée.
+
+Il se comporte comme un roi amoureux de tragi-comédie : l'amour le pousse à perdre toute dignité et à se conduire en tyran.
+
+
+## Célidor
+
+(10 apparitions, 231 vers) C'est l'amant de Corintie en plus d'être le favori du roi. En tant que proche du roi, il est opposé à Lizène qui est son rival, et du fait de cette position viendra à un moment donné contrarier ses amours. Tandis que le spectateur s'attend à assister à un dilemme tragique, que l'on pourrait résoudre ainsi : choisir entre honneur et amour, Durval occulte le problème, puisqu'au moment où Célidor opère il ignore probablement qui est Lizène (il ne l'a jamais vu, du fait que Corintie le faisait venir quand son frère était parti).
+
+Il agit par intérêt (c'est-à-dire, occuper une position sociale plus élevée), mais aussi par contrainte (il se doit d'obéir au roi), sinon il s'expose à ne plus être protégé par le roi. Il est ambitieux, malin, ne rechignant à aucune bassesse (comme tuer Lizène, kidnapper ou soudoyer Agarite (vers 28)), mais est cependant d'une grande fidélité vis-à-vis du roi puisque pour lui il parcourt sans relâche les environs pour retrouver Agarite, et qu'il va même jusqu'à se déguiser pour s'infiltrer dans le ballet. Il porte un jugement lucide sur le pouvoir en général, qui implique qu'il y ait des dominants et des dominés (reste à son sens, à rester le plus près possible des premiers, et ce afin d'acquérir pouvoir et argent en vue d'une certaine liberté).
+
+C'est dans ce personnage que la voix de Durval apparaît le plus ; il flatte pour pouvoir exister. Il possède néanmoins une certaine morale puisqu'il décide de se punir non d'avoir tué, mais d'avoir tué le frère de celle qu'il aime. A la fin de la pièce, la fidélité de ce personnage est récompensée : celui qui s'était vu abandonner l'amour et la cour tout à la fois se voit réhabilité dans les deux domaines ; il gagne ainsi une double reconnaissance, royale et affective.
+
+
+## Medon
+
+(8 apparitions, 116 vers) C'est le père d'Agarite ; conformément aux principes de la tragi-comédie, il va aller contre les desseins de sa fille en la mariant à Lizène qu'elle n'aime pas, et ce, en raison des liens d'amitié qui lient les deux familles. Mais l'image du père est différente : il ne s'agit pas d'un homme cruel et intransigeant, d'un père tyrannique, mais d'un personnage comique, voire bouffon, à qui les plaisanteries salaces dans le genre de celles des pécheurs ne déplaisent pas, notamment lorsqu'il va tenter d'adoucir Agarite qui doit épouser Lizène. Durval ne lui épargne rien, pas même de s'évanouir sur la rive. En revanche, lorsqu'il lui présente les dangers de l'amour, il joue plus le rôle d'un conseiller ou d'une mère (qui n'existe pas dans la pièce), que celui de père : il ne lui interdit rien, pas même de recevoir chez eux deux prétendants, et ne lui impose aucune obligation. Il sait mentir, puisqu'il n'hésite pas à duper le roi en lui annonçant le faux enlèvement de sa fille.
+
+C'est un homme âgé (il porte la calotte et des lunettes (vers 627 et 844)). On ignore son appartenance sociale, mais on peut supposer qu'il s'agit d'un grand seigneur de la cour, puisqu'il possède au moins un tableau (vers 199), et deux maisons (une à la ville, une à la campagne). De plus il organise un mariage somptueux au cours duquel un ballet est joué.
+
+
+## Corintie
+
+(6 apparitions, 165 vers) C'est la sœur de Lizène dont on apprend qu'elle entretient une amitié avec le favori du roi, Célidor.
+
+Elle est belle (vers 479, 480, 481) et a des yeux bleus, comme toute beauté classique.
+
+Elle ne joue pas de rôle particulier dans l'intrigue principale. Le spectateur moderne s'attend en ce qui la concerne, au dilemme cornélien : choisir entre l'amour et l'honneur ; mais il n'en est rien : Corintie aura tôt fait de pardonner au meurtrier et d'oublier son frère dont elle avait prédit la mort (amorce dramatique) à l'acte II, scène 2. N'ayant réussi à convaincre son amant que l'amour excuse toute chose, elle va se travestir en cavalier pour le suivre. Comme dans la scène où Agarite est déguisée en homme, le spectateur va assister à une discussion amoureuse entre deux hommes, si l'on se base sur l'apparence physique, ce qui rend cocasse la situation, comme cela était fréquemment le cas dans les tragi-comédies (comme par exemple dans *La Sœur Valeureuse* de Mareschal [41]).
+
+
+## Amélise
+
+(3 apparitions, 22 vers) Elle est le *deus ex machina* de la pièce. Elle doit avoir le même âge qu'Agarite, « l'âge de se marier » (vers 258). Elle est belle (vers 1314), mais sans doute moins qu'Agarite, puisqu'elle dit d'elle qu'elle est d'une beauté moindre, vers 264; à moins que ce ne soit de la modestie. Cependant, c'est une princesse ; elle est donc d'une condition sociale supérieure à Agarite, c'est pourquoi elle ne refuserait pas les avantages de la couronne, si l'occasion s'en présentait (vers 259-262).
+
+Elle s'exprime très peu (22 vers), et n'apparaît que trois fois (dans le premier acte, ainsi que cela doit être dans les règles classiques du théâtre, et dans le dernier). En revanche, c'est grâce à ce personnage que la pièce trouve un dénouement heureux, car c'est grâce à elle que le stratagème inventé par Policaste prend corps et réussit, en faisant oublier au roi la belle Agarite de façon quasi merveilleuse. C'est grâce à elle que l'ordre des passions est rétabli.
+
+
+## Phénice
+
+(5 apparitions, 65 vers) C'est le conseiller du roi et le gouverneur d'Amélise ; il exerce une fonction politique. C'est en sa présence que sont abordés pour l'unique fois dans la pièce les problèmes liés à la politique intérieure du royaume (les trahisons et fourberies des conseillers du roi), acte I, scène 4. En tant qu'homme politique, il va chercher à donner au roi une épouse et en tant que gouverneur, il souhaite rendre Amélise heureuse ; deux souhaits qui vont être exaucés à la fin de la pièce.
+
+C'est un personnage discret dont la présence non indispensable au déroulement de l'intrigue, apporte toutefois une touche réaliste à une pièce qui n'est pas du tout ancrée dans la réalité.
+
+Voici un tableau indiquant la présence scénique des différents personnages ce qui nous permet de nous renseigner sur l'importance desdits personnages ainsi que sur la composition de la pièce en fonction de leurs allées et venues :
+ | Le roy | Le flamand | Celidor | Agarite | Médon | Phénice | Amélise | Exempt | Policaste | Lizene | Corintie | Le cocher | Pescheur 1 | Pescheur 2 | Total | Nb perso / scene
+Acte 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 318 | 
+Scène 1 | 41 |  | 19 |  |  |  |  |  |  |  |  |  |  |  | 60 | 2
+Scène 2 |  | 4 | 92 | 35 1/2 | 2 1/2 |  |  |  |  |  |  |  |  |  | 134 | 4
+Scène 3 |  |  |  | 6 1/2 | 47 1/2 |  |  |  |  |  |  |  |  |  | 54 | 2
+Scène 4 | 27 |  | 6 1/2 |  | 5 | 20 | 9 1/2 | 2 |  |  |  |  |  |  | 70 | 6
+Total/perso | 68 | 4 | 117 1/2 | 42 | 55 | 20 | 9 1/2 | 2 |  |  |  |  |  |  |  | 
+Acte II |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 288 | 
+Scène 1 |  |  |  | 53 |  |  |  |  | 30 1/2 | 24 1/2 |  |  |  |  | 108 | 3
+Scène 2 |  |  | 39 1/2 |  |  |  |  |  |  | 4 1/2 | 36 |  |  |  | 80 | 3
+Scène 3 |  |  |  | 21 1/2 |  |  |  |  | 46 |  |  | 2 1/2 |  |  | 70 | 3
+Scène 4 | 17 2/3 |  | 12 1/3 |  |  |  |  |  |  |  |  |  |  |  | 30 | 2
+Total/perso | 17 2/3 |  | 51 5/6 | 74 1/2 |  |  |  |  | 76 1/2 | 29 | 36 | 2 1/2 |  |  |  | 
+Acte III |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 288 | 
+Scène 1 |  |  |  | 2 5/6 | 30 1/3 |  |  |  |  | 8 5/6 | 2 |  |  |  | 44 | 4
+Scène 2 |  |  |  | 80 1/3 |  |  |  |  | 99 2/3 |  |  |  |  |  | 180 | 2
+Scène 3 |  |  | 4 |  | 14 1/2 |  |  |  |  | 29 | 16 1/2 |  |  |  | 64 | 4
+Total/perso |  |  | 4 | 83 1/6 | 44 5/6 |  |  |  | 99 2/3 | 37 5/6 | 18 1/2 |  |  |  |  | 
+Acte IV |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 360 | 
+Scène 1 |  |  |  |  |  |  |  |  |  |  |  |  | 24 1/2 | 17 1/2 | 42 | 2
+Scène 2 | 27 |  | 1 1/2 |  | 9 | 2 |  |  |  |  |  |  | 2 1/2 |  | 42 | 5
+Scène 3 |  |  |  | 15 1/2 |  |  |  |  | 36 1/2 |  |  |  |  |  | 52 | 2
+Scène 4 | 57 1/2 |  |  |  | 3 1/2 | 3 1/2 |  |  |  |  |  |  | 1 1/2 |  | 66 | 4
+Scène 5 |  |  | 12 1/2 |  |  |  |  |  |  |  | 65 1/2 |  |  |  | 78 | 2
+Scène 6 | 80 |  |  |  |  |  |  |  |  |  |  |  |  |  | 80 | 1
+Total/perso | 164 1/2 |  | 14 | 15 1/2 | 12 1/2 | 5 1/2 |  |  | 36 1/2 |  | 65 1/2 |  | 28 1/2 | 17 1/2 |  | 
+Acte V |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 366 | 
+Scène 1 |  |  |  | 6 1/3 |  | 13 1/2 | 3 1/2 |  | 64 2/3 |  |  |  |  |  | 88 | 4
+Scène 2 |  |  | 25 1/2 |  |  |  |  |  |  |  | 40 1/2 |  |  |  | 76 | 2
+Scène 3 | 128 1/2 |  | 8 | 3 | 3 | 25 1/2 | 9 | 3 | 18 |  | 4 |  |  |  | 202 | 9
+Total/perso | 128 1/2 |  | 43 1/2 | 9 1/3 | 3 | 39 | 12 1/2 | 3 | 82 2/3 |  | 44 1/2 |  |  |  |  | 
+Total/perso piece | 378 2/3 | 4 | 230 5/6 | 224 1/2 | 115 1/3 | 64 1/2 | 22 | 5 | 295 1/3 | 66 5/6 | 164 1/2 | 2 1/2 | 28 1/2 | 17 1/2 | 1620 | 
+Nb apparition | 7 | 1 | 10 | 9 | 8 | 5 | 3 | 2 | 6 | 4 | 6 | 1 | 3 | 1 |  | 
+Pl r/tps parole | 1 | 13 | 3 | 4 | 6 | 8 | 10 | 12 | 2 | 7 | 5 | 14 | 9 | 11 |  | 
+
+
+
+
+# Étude thématique
+
+
+## *Agarite* et le *Discours à Cliton*
+
+Comme nous l'avons constaté précédemment, au moment où paraît cette tragi-comédie, l'histoire du théâtre connaît bien des turpitudes : « Anciens » et « Modernes » se déchirent au sujet des règles classiques qui finiront par s'imposer au genre dramatique. La tragi-comédie est d'emblée un genre controversé puisqu'elle n'applique aucun des principes édictés par Aristote dans sa *Poétique.*
+
+Durval, nous l'avons vu, se situe du côté des fervents défenseurs de la liberté du poète ; il l'exprimera d'ailleurs dans le fameux *Discours à Cliton* qu'on lui attribue de façon certaine [42], nous le verrons en examinant la préface d'Agarite. François Ogier, dans sa « Préface au Lecteur » de *Tyr et Sidon*, Tragi-comédie écrite par Jean Schélandre en 1628, défend la modernité théâtrale et attaque les règles classiques. Le point de vue de Durval est plus modéré : il ne refuse pas les apports des anciens mais prône la liberté de s'en inspirer ou non, au nom de l'inspiration créatrice du poète [43] :
+
+
+Les uns sont tellement attachez aux œuvres du temps passé, qu'ils font conscience de rien inventer, et les autres se plaisent si fort dans leurs nouvelles imaginations, qu'ils ne veulent rien inventer des anciens. Pour moi qui cherche mon milieu entre ces deux extrèmes ; je respect *sic* autantqu'un autre les Terences, les Plautes, les Euripides et les Ménandres … je ne croy pas que nous soyons tenus de régler nos poèmes sur les modelles des Grecs et des Latins … Aussi, quand nos Modernes prennent de l'essor et qu'ils s'égarent en des extravagances, je commence à les quitter, mais quand ils me descouvrent un nouveau fonds de poésie, et des elegances de leur invention, je laisse les anciens derrière, sans perdre de veuë les uns ny les autres.
+
+Les réguliers cherchent donc à conserver la protection souveraine procurée par l'autorité des anciens, le but étant l'imitation parfaite afin que la catharsis, chère à Aristote puisse s'opérer dans l'esprit du spectateur : pour pouvoir être dupé, le spectateur doit oublier le mensonge du théâtre. C'est ainsi qu'il est inconcevable d'imaginer représenter une histoire s'étalant sur dix ans en deux heures. Si l'on se réfère à Aristote, la dilatation temporelle maximale doit être de vingt-quatre heures, séquence trop courte pour que l'intrigue s'organise en conservant toute vraisemblance. Au contraire des réguliers, Durval affirme son indépendance quant à la différence entre la chose imitée et la chose qui imite. Pour lui, l'auteur doit assumer son choix : à la fin de l' « Argument » d'*Agarite*, il écrit clairement qu'il s'agit d'une histoire feinte et qu'il récuse l'unité de lieu, tout en ironisant sur la querelle qui déchire défenseurs et contempteurs de l'unité de temps.
+
+Dans l'avertissement au lecteur, Durval distingue les « poèmes composés » des « poèmes simples », les premiers traitant de deux ou trois sujets et s'étalant sur un laps de temps supérieur à vingt-quatre heures (c'est le cas de la tragi-comédie et de la pastorale), les seconds ayant une intrigue n'excédant pas vingt-quatre heures, et respectant en cela l'unité de temps (c'est le cas de la tragédie et de la comédie).
+
+Dans *Le Discours*, Durval reprend la conception mimétique du théâtre telle qu'elle fut concue par Aristote ainsi que la démonstration de Chapelain dans la *Lettre sur les vingt-quatre heures*, avec laquelle la ressemblance est frappante.
+
+L'enjeu des irréguliers et des réguliers est finalement le même, c'est-à-dire faire en sorte que le spectateur adhère à ce qu'il voit ; ainsi, ou bien le mensonge est d'emblée accepté et considéré comme une médiation symbolique du vrai, ou bien, l'imaginaire et les sensations parviennent à divertir le spectateur, l'illusion de la vérité étant souvent plus belle que la vérité.
+
+La mention des quatre genres que sont la tragédie, la tragi-comédie, la comédie et la pastorale, trouvée dans la préface d'*Agarite* est également retrouvée dans le *Discours à Cliton*, page 248.
+
+
+## Une tragi-comédie dans les règles de l'art
+
+On peut considérer qu'*Agarite* ne correspond pas exactement aux règles en usage à l'époque. En ce qui concerne la temporalité de l'histoire, il est impossible d'évaluer le nombre de jours qui s'écoulent entre le moment où le roi est surpris dans son palais à avouer qu'il convoite une jeune fille (Acte I, scène 1), et celui où la pièce s'achève sur un triple mariage, dont celui du roi (Acte V, scène III). Agarite doit avoir le temps de fuir la ville, avec l'aide de Médon, d'y revenir pour y célébrer son mariage, et de repartir à nouveau, escortée cette fois de son amant Policaste, pour finalement revenir à la cour. L'acte I peut se dérouler en quelques heures ; en revanche, le voyage représente au moins une nuit, le temps pour Célidor de se mettre en quête du criminel qui a ravi Agarite ; l'acte II peut également couvrir une journée, deux au plus, le temps pour Lizène de trouver Médon à la ville et de lui demander sa fille en mariage et de faire quérir Agarite à la campagne. Les actes IV et V peuvent également chacun se dérouler sur une journée. Mais il s'écoule un temps plus conséquent entre les actes.
+
+Quant à l'unité de lieu, on peut dire que Durval a relativement réussi à contourner les difficultés que pouvaient poser les changements de lieu : à cet effet, il laisse à chaque fois aux personnages le temps d'une scène : par exemple, Agarite et son père décident de partir à la campagne Acte I, scène 3. Ils n'apparaissent pas à la scène 4, ce qui leur laisse le temps de voyager. De même acte III, scène 2, le long monologue de Policaste laisse matériellement à Agarite le temps de sortir du château et de le rejoindre. En outre, le changement de scène permet une ellipse de temps entre le moment où les futurs époux et Médon discutent des bienfaits du mariage (en fin d'après midi, sans doute, juste avant que les invités n'arrivent) et celui où Agarite les laisse pour aller faire une fausse sieste, comme cela nous est révélé à l'acte suivant (V. 837). Une nuit s'écoule entre la réception au cours de laquelle Lizène est tué (acte III, scène 3) et la découverte des effets d'Agarite (Acte IV, scène 1), par les pêcheurs qui nous donnent à travers leur dialogue une indication de temps (« hier soir », vers 901). Ce long laps de temps est résumé par le jeu du changement d'acte, alors en usage dans ce genre de situations. La scène suivante où l'un des pêcheurs annonce au roi la sinistre découverte n'est pas immédiatement suivie par la reconnaissance des vêtements par les protagonistes, mais est interrompue par une scène où le spectateur retrouve Agarite et Policaste (le dramaturge rompt ainsi la tension qui s'était instaurée : Agarite et son amant arriveront-ils à bon port ?). D'autre part, cela a permis le déroulement du voyage de manière cohérente tout en provoquant une nouvelle tension : quelles vont être les réactions du roi et du père ?
+
+Durval se sert de ces va-et-vient entre les différentes histoires pour dramatiser l'action, en créant chez le spectateur un sentiment d'attente angoissée concernant ce qui va advenir, puis son attention est détournée, avant d'être à nouveau aiguisée et ses préoccupations sont mises en attente. Ainsi trois scènes ont lieu avant que nous ne retrouvions Policaste et Agarite devant le palais (le spectateur sait que les amants ne peuvent rester dans cette situation impossible : il doivent avoir le consentement du roi pour pouvoir légitimer leur union et profiter du bonheur auquel ils prétendent, reste à savoir comment les amants vont pouvoir dénouer les nœuds de cette intrigue et guérir le roi, qui vient de se présenter sous un jour terrible, ivre de tristesse) la tension est croissante. On assiste encore à deux scènes avant de revoir Corintie et Célidor dont on ne sait pas s'ils se retrouveront alors que Célidor fait pénitence (le devoir et la force morale triompheront-ils de l'amour ?). L'arrivée de ces derniers est différée puisque pendant qu'ils retournent au palais, les autres protagonistes ont réussi à guérir le roi et avoué le stratagème mis en place. Considérant le déroulement de l'action, le temps est impossible à chiffrer, nous l'avons vu. Ce qui est sûr, c'est que la durée est inférieure à six mois et supérieure à vingt-quatre heures ; mais trop peu d'éléments existent, pour nous donner une idée de temporalité précise. On peut dire que l'histoire dure entre cinq jours (durée minimum) et un mois, mais sans aucune certitude ; il n'y a, en effet, aucun actualisant dans le texte qui pourrait nous donner une quelconque information. Ainsi, sur ce plan là, la contrainte d'Aristote n'est pas respectée.
+
+Si l'on compare aux autres tragi-comédies de l'époque, *Agarite* met en scène un nombre important de lieux différents, huit au total.
+
+Il faut également souligner l'influence de la pastorale sur la tragi-comédie : la forêt, les champs, la campagne sont les espaces des amoureux [44]. La nature attire les amants dans leur fuite, mais cette nature se renferme souvent sur les jeunes gens, les rendant eux-mêmes prisonniers : Policaste et Agarite sont dans une forteresse, un lieu clos qu'ils devront quitter. La représentation de la nature traduit un état d'esprit social : c'est la liberté et en même temps l'abandon des règles de vie et des lois. Les amants ne peuvent donc pas y demeurer à moins de devenir des parias. Ils doivent retrouver leur état originel pour que l'action dramatique soit menée à son terme, puisque le couple Célidor-Corintie se retrouve lui aussi face à ce problème et réintègre très vite la cour.
+
+Les lieux tels la forêt, la rivière sont des lieux ouverts qui parsèment les tragi-comédies ; c'est la frontière et le lien entre l'aire domestiquée et le monde sauvage, entre le connu et l'infini.
+
+L'intrigue principale, est assez claire et peu parasitée par une intrigue secondaire assez superflue [45], à la différence de bien des tragi-comédies. La règle de bienséance encore peu en vogue à l'époque n'est pas observée : un homme est tué sur scène et les dialogues des personnages sont parfois très audacieux, comme souvent dans ce type d'exercices ; en évoquant le mariage de Lizène et d'Agarite, Médon dit, vers 636 :
+
+Volontiers qu'elle songe aux prises qu'à ce soir  
+Vous aurez avec elle et vous le pouvez voir.  
+
+De même, la discussion imagée des pêcheurs, vers 915 :
+
+L'autre jour en raillant, je disois qu'une Anguille  
+Passeroit aisément par le trou d'une aiguille,  
+Et ma femme disoit qu'elle n'en croyroit rien.  
+Pescheur I.  
+Pauvre sot, tu devois la passer dans le sien.  
+
+Heureusement, le langage est vite corrigé par le premier des pêcheurs au vers suivant. Il en va de même pour les badinages amoureux des amants où les gestes parfois outrepassent la bienséance, et notamment lorsque ces derniers sont déguisés, ce qui donne lieu à des situations cocasses pour le spectateur qui visuellement assiste aux ébats de deux hommes, ce genre d'équivoques amusant beaucoup le public de l'époque, comme c'est le cas, par exemple acte V, scène 2.
+
+
+## Mythologie et religion
+
+L'amour est sans cesse personnifié sans pour autant être nommé ou que d'autres dieux ne soient évoqués. Durval, qui avait écrit *Les Travaux d'Ulysse*, n'a recours à aucun des dieux latins ou grecs auxquels on s'attendrait. Il est souvent fait mention d'une instance supérieure, celle de la nature ou de l'amour, mais Durval conserve une neutralité, de ce point de vue quasi religieuse.
+
+Les références aux dieux anonymes fourmillent pourtant pour exprimer tantôt l'étonnement [46], l'effroi [47], l'enthousiasme et l'espoir [48], la folie et la colère [49].
+
+Le profane et le religieux sont souvent mêlés : Agarite est divine, ses vêtements sont de véritables reliques ; les inspirations sont à la fois chrétiennes et païennes. Les dieux sont tantôt encensés, tantôt insultés, quand les événements ne sont pas favorables à celui qui profère les injures. D'ailleurs à la fin de la pièce, le roi va jusqu'à se substituer à l'image du dieu de l'amour. Ces références aux dieux servent curieusement un certain athéisme de la part de Durval. Cependant, flatter les dieux est également une façon plus ou moins directe de flatter le roi de France, Louis XIII.
+
+De plus, la notion de destin est perçue lorsque Corintie, telle Cassandre, annonce qu'un drame va se produire à l'encontre de son frère, sans pouvoir cependant changer le cours des événements. A la fin de la pièce, les crimes sont effacés car ils furent perpétrés au nom de l'amour. Ainsi la justice divine ne tient pas devant l'amour païen, puisqu'en outre, le roi relève de son vœu Célidor, parti pour faire pénitence, comme cela était courant à cette époque où les pèlerinages, notamment ceux menant à Saint-Jacques de Compostelle, étaient très en vogue.
+
+
+## Le déguisement, art du spectacle et art dramatique
+
+Le déguisement est l'un des attributs classiques de la tragi-comédie ; il témoigne d'un goût des contemporains pour l'illusion [50] ; à partir du moment où le faux est pris pour le vrai, il y a illusion. Si le dramaturge conçoit des déguisements pour ses personnages, c'est en vue d'une orientation dramatique précise. Mais dans cette pièce le déguisement est relativement peu développé, en comparaison de pièces comme *La Sœur valeureuse* de Mareschal [51] par exemple. Cependant, comme dans cette tragi-comédie, le travestissement a pour finalité « la fuite » et « la reconquête » [52]. Dans le cas présent, quatre personnages se déguisent, voire cinq si l'on inclut la princesse Amélise qui se substitue à la statue ; le déguisement est un peu plus qu'un accessoire. Il y a trois cas de figure :
+ * – Le déguisement peut être envisagé comme un moyen de masquer son identité ponctuellement : c'est le cas d'Agarite et de Corintie qui se travestissent respectivement en page et en cavalier. Leur but est de ne pas être reconnues du roi en ce qui concerne Agarite, de son amant en ce qui concerne Corintie, puisqu'elle le suit. Dans les deux cas, les femmes sont encore travesties à la fin de la pièce, même si leur identité est révélée chaque fois par le personnage masculin qui les escorte. L'aveu de leur identité usurpée les rétablit dans leur identité de femme, qu'elles ont quittée pour les commodités du voyage, mais aussi nous venons de le dire pour n'être pas reconnues. Ce temps où elles évoluent est à chaque fois très bref, et marque dans les deux cas le retour dans la société (même s'il est vrai que Corintie est dans un premier temps déguisée pour rejoindre Célidor, elle ne quitte pas ses vêtements masculins pour autant en arrivant à la cour). Le spectateur est d'emblée informé de l'identité usurpée par les jeunes femmes : Corintie annonce, vers 1166, qu'elle va « le Célidor suivre partout en jeune cavalier », tandis que Policaste révèle immédiatement le déguisement de sa maîtresse ; le déguisement n'est donc pas un artifice destiné à tromper le spectateur, mais a une fonction interne à l'histoire, c'est-à-dire cacher une identité, ce qui donnera lieu à des équivoques sexuelles [53], ainsi qu'une discussion sur les faux-semblants de la cour, Acte V, scène 1, dans laquelle il est envisageable d'imaginer la voix de l'auteur. Le masque tombe à partir du moment où les personnages sont nommés, et de ce fait, les deux femmes recouvrent à la fois une identité sexuelle et une identité sociale refoulées ponctuellement pour la réussite du stratagème mis en place. Ce retour à l'ordre lié à la chute du déguisement occasionne une triple joie royale : celle de trouver une épouse (Amélise sort de son rôle de vraie fausse statue), de retrouver vivante celle qu'il avait tant chérie, et enfin de retrouver son favori.
+ * – Le second type de déguisement est celui de Célidor, mais cette fois lorsqu'il fuit pour faire pénitence : si l'on reprend l'analyse faite par Georges Forestier, force est de constater que le déguisement apparaît dans ce cas de figure comme « le véhicule du repentir » [54]. Il n'est pas fondamental en ce qui concerne l'action dramatique. Le seul but est d'obtenir le pardon de celle à qui il a causé, indirectement, du tort, et être réintégré par là même dans la société. La gravité de l'acte qu'il a commis, travesti, est effacée par son déguisement en pèlerin.
+ * – Le troisième type de déguisement est celui de Célidor lorsqu'il interprète le ballet des Quatre-Vents : il profite du spectacle pour commettre un meurtre. Cet usage inhabituel déguisement sert la poursuite de l'action mais à la différence du cas précédent, il est légitimé par le fait que Célidor est à ce moment-là un acteur. L'habit ne travestit pas une identité, il fait partie intégrante du spectacle et de la mise en scène, même si Célidor utilise à bon escient cet anonymat, ce qui lui permet d'ailleurs de fuir sans que quiconque ne s'en préoccupe, l'attention étant fixée sur la victime.
+
+
+## Le théâtre dans le théâtre
+
+Une des particularités d'Agarite se trouve donc dans le fait qu'un ballet, celui des Quatre-Vents, est joué et représenté sur scène, à l'Acte III, scène 3 [55] ; ce procédé est celui du théâtre dans le théâtre qui « consiste à inclure un spectacle dans un autre spectacle ; … il s'agit avant tout d'une structure … il y a théâtre dans le théâtre à partir du moment où au moins un des acteurs de la pièce cadre se transforme en spectateur » [56]. C'est tout à fait le cas d'*Agarite*, puisque deux des personnages deviennent acteurs du ballet, c'est-à-dire Lizène (contre son gré) et Célidor et deux autres assistent au spectacle, Médon et Corintie. Les acteurs devenus spectateurs regardent un spectacle comme le spectateur regarde *Agarite* ; il s'agit d'un dédoublement du point de vue de la structure.
+
+Il est intéressant de se pencher sur les influences qui ont pu induire ce procédé en France mais de façon très restreinte, nous le constaterons.
+
+Comme le souligne Georges Forestier [57], il est difficile de rejeter complètement l'influence espagnole, même si elle est fort limitée, ni nier de la même façon l'influence anglaise et le concept du « play within a play » [58], même si cette influence fut presque absolument niée [59]. Cependant si l'on considère le théâtre élisabéthain, nous remarquons que ce procédé fut souvent rattaché aux thèmes de la vengeance et de la mort. Ainsi, *Agarite* ainsi que *Célinde* de Baro sont les deux premières pièces présentant la représentation d'un spectacle interne à la pièce, qui donne lieu à un assassinat : Célidor profite des coups de pistolets symbolisant les éclairs et le tonnerre pour assener un coup mortel au rival du roi.
+
+*Agarite* fait partie des « comédies nuptiales » [60], et avec *Célinde*, « elles constituent dans une certaine mesure une transposition du réel » [61]. Ainsi, compte tenu du fait qu'à l'époque il était impossible de concevoir un riche mariage sans un divertissement théâtral, lequel était joué par les gens de la maison ou par des comédiens, il est plus probable de considérer que cette tradition a inspiré les dramaturges, que d'y voir des influences du théâtre étranger, ce dernier peu divulgué en France, restant néanmoins à la portée des voyageurs [62].
+
+Dans notre pièce, la représentation est le support de l'assassinat de Lizène, seul moyen pour Durval de se « débarrasser » commodément d'un personnage masculin gênant, du fait qu'il y a alors sur scène trois prétendants pour une seule et même femme, et ce, en vue de rétablir l'ordre paritaire à la fin de la pièce. C'est le seul moyen pour l'auteur de résoudre un tel problème. Cependant, la pièce n'est pas jouée uniquement pour éliminer le déplaisant rapidement [63] ; en fait, son assassinat est emblématique, et, quoique secondaire finalement, il marque un tournant de la pièce. L'épisode de la rivalité de Lizène est bref mais il conditionne la suite de l'histoire [64].
+
+L'action dramatique est suspendue le temps de la représentation, action qui reprend son cours, mais de façon modifiée, à l'issue de la représentation. Pour résumer, on peut dire que « le spectacle intérieur est rattaché à l'intrigue par un véritable lien qui se superpose à ce prétexte » [65].
+
+Le spectacle apporte aussi du spectaculaire : le théâtre du peuple est fait pour divertir [66]. Cela s'inscrit aussi dans l'esthétique baroque qui aime le sang, les péripéties nouvelles et le suspens. Le Ballet des Quatre-Vents est un véritable divertissement : il s'agit d'une prouesse technique [67], le spectacle est un moyen de procurer du plaisir, de la poudre aux yeux. Il apporte du spectaculaire, de l'émotion (sensation ascendante) pour se terminer par l'horrible : la mort. Le spectateur est abusé et glacé d'effroi, lorsqu'il découvre comme Médon, l'homme mort. Il naît de ce décalage entre le plaisir à la fois sonore et visuel du spectacle, et la cruauté de la mort, un sentiment d'étonnement et de crainte, adouci par le fait que Lizène est le méchant de cette pièce et que d'un certain point de vue sa mort est heureuse.
+
+En revanche, à la différence de *Célinde*, ce n'est pas une pièce comprenant vers et paroles qui est jouée. Le temps pris par la représentation est résumé par « Icy se danse le ballet » ; il serait intéressant de se demander combien de temps cette action a pu prendre par rapport au temps réel. En fait, il y a une élision temporelle intéressante, car, tandis que Lizène est sur le point de mourir, Agarite est déjà en route ; les deux scènes ayant lieu plus ou moins simultanément, s'enchaînent dans la pièce l'une après l'autre. Ainsi, le problème du temps se pose à nouveau : il s'agit d'une extension temporelle ; les deux actions simultanées se trouvant étalées de façon consécutive. Cependant, il est également possible d'envisager que l'assassinat soit postérieur à l'épisode du cimetière, mais cela est peu probable, puisque l'aube est prête à se lever à l'acte III, scène 2.
+
+Cette structure enchâssante renforce l'impact du spectacle sur le spectateur, mais il reste malgré tout un élément non réel, car le spectateur y est étranger d'une part, et parce que les mécanismes du théâtre y sont saillants [68]. Le temps réel et le temps fictif de représentation sont superposés et correspondent. Le spectacle n'est pas interrompu par des entractes ; ainsi, cet enchâssement introduit deux nouvelles temporalités. En ce qui concerne l'utilité du recours au spectacle, il faut souligner que compte tenu du fait qu'il était prévu que Lizène périsse sous la main de Célidor [69], cette action aurait pu être commise par un autre biais, et même représentée hors de la pièce. Célidor profite des coups de feu pour assener le coup mortel et s'enfuir dans la confusion générale, puisque finalement personne ne cherche à savoir qui a commis le forfait. La structure du théâtre dans le théâtre a aussi pour but de théâtraliser [70], voire de surthéâtraliser, comme c'est le cas dans *Agarite* : en commettant un meurtre sous les yeux du public, donc sur scène, il y a une première théâtralisation ; or, en effectuant cet acte dans une pièce jouée elle-même dans la pièce, nous parvenons à un second niveau de théâtralisation que nous pouvons nommer surthéâtralisation : en plus d'assister au spectacle du meurtre, le spectateur peut épier les réactions de Médon et Corintie, commis au rôle de spectateurs.
+
+Durval a ainsi opté pour une mise en scène de la mort de Lizène afin d'en accroître l'aspect spectaculaire, même si l'auteur a donné une explication causale n'impliquant que la fonction dramatique, à la représentation du ballet :
+
+
+En cette scène est représenté le Ballet des Quatre-Vents, lequel est dansé pour faire tuer Lizène le soir de ses noces par un stratagème inventé par Célidor.
+
+De plus, et comme le remarque Georges Forestier [71], tout est ordonné autour de l'assassinat, même le cartel qui indique la raison des coups de feu :
+
+Les pistolets que nous avons  
+Représentent l'éclair, la foudre et le tonnerre,  
+Et nos vases pleins d'eau montrent que nous pouvons  
+Faire pleuvoir dessus terre.  
+
+Un autre épisode est à considérer dans *Agarite*, il s'agit du passage où Amélise prend la place de la statue d'Agarite sur le lit de parade [72]. Nous pouvons considérer qu'il y a une forme d'enchâssement structurel, lorsque cette mise en scène [73] s'opère et qu'Amélise, véritable marionnette mi-divine, mi-humaine commence à se mouvoir. Effectivement, ce second spectacle, fort bref, est joué devant un public (Phénice, Agarite, Célidor, et le roi [74]), dont le spectateur peut voir les réactions, et à la suite duquel l'action dramatique est modifiée, puisque le roi en oublie totalement Agarite.
+
+
+## Les formes de discours
+
+Dans *Agarite*, figurent deux poèmes [75] et un cartel [76] qui viennent s'insérer dans les dialogues en alexandrins des personnages.
+
+Les deux poèmes sont des sonnets, en alexandrins et à rimes croisées, qui viennent remplacer les rimes plates ; ils sont parfaitement intégrés à la pièce et auront pour effet de dramatiser l'intrigue : force est de constater que l'un des deux prétendants se voit conforté dans son rôle d'amant, tandis que le second, apprend qu'Agarite le repousse. Dans les deux cas, le titre du sonnet est révélateur des sentiments de la jeune fille. C'est à partir de cette lecture que le second obstacle va venir contrecarrer les plans des amants : Lizène, appuyé par Médon va chercher à imposer à Agarite son amour contre son gré. C'est par le biais de ces poèmes savamment insérés dans l'histoire, que la tension dramatique va s'accélérer : dans un premier temps, la lecture du poème débarrasse les amants de l'intrus, mais dans un second temps, le dédaigné va obtenir par la force ce qu'il sait ne pas obtenir par les sentiments.
+
+Le cartel lu par Célidor n'a pas le même nombre de vers : il comprend six strophes de quatre vers disposés de la façon suivante : un octosyllabe, deux alexandrins et à nouveau un octosyllabe. Les rimes sont croisées, comme pour les sonnets. Ce cartel a un double statut : amorcer la tension dramatique et créer un suspens : le spectateur reconnaît sans doute Célidor et sait qu'il doit éliminer le rival du roi [77]. Dans un second temps, le cartel renseigne le lecteur, et vient expliquer certains phénomènes, c'est-à-dire l'assimilation des coups de feu aux manifestations météorologiques. Il enrichit le spectacle en sollicitant un décor sonore et visuel. Il est la première étape du ballet. Une réplique de quatre vers suit le ballet jusqu'à ce que les personnages comprennent. C'est le seul cas où la représentation influe sur la pièce en elle-même et comme l'écrit Hélène Baby [78], il s'agit à la fois d'un « spectacle du vers », et d'un « spectacle de la scène » ; le vers est mis en scène.
+
+Ces stances sont dans les deux cas typographiquement isolées du texte par un saut de ligne supplémentaire et par le changement de rimes. Les sonnets ont une importance cruciale dans *Agarite* ; il est inenvisageable de les considérer comme des « pièces détachées », ainsi que le souligne Hélène Baby [79], et ce, contrairement à bien des tragi-comédies. Les sonnets donnent lieu à des jugements critiques, notamment celui de Lizène. Il faut également préciser que présenter un écrit préparé, c'est le présenter comme un objet littéraire à part entière, où le travail des vers peut faire sens [80]. Naturellement, l'auteur reste anonyme puisqu'il s'agit de l'auteur même.
+
+Les stances sont à rapprocher des monologues [81], elles font partie de la rhétorique passionnelle : les sentiments des personnages sont exaltés tant dans leur violence que dans leur joie paillarde. Les lamentations du roi furieux donnent lieu à un monologue douloureux et l'attente dans la nuit à des monologues lyriques et pathétiques. La langue dramatique est ponctuée également d'hyperboles en ce qui concerne l'amour, de comparaisons stéréotypées, les métaphores exprimant par exemple les traits de l'amour qui blessent, et sont emblématiques de la littérature dite baroque, tout comme les apostrophes et les invocations fort nombreuses dans le texte qui expriment tantôt la douleur, tantôt la stupéfaction.
+
+
+# Notes sur la présente édition
+
+
+## Présentation
+
+La présente édition a été établie à partir de l'édition originale de 1636 qui apparaît comme suit (Bibliothèque nationale de France : Yf4810) :
+
+Page de titre : AGARITE. / *tragi-comédie. / dediée/ a madame /* la Duchesse de Nemours. / *Par le Sieur *durval. /* *vignette / *a paris, /* Chez *François Targa*, au / premier pillier de la grand'Salle / du Palais, devant la Chapelle, / au Soleil d'or. / filet / *m. dc. xxxvi. /* *Avec Privilege du Roy.*
+
+(I) Verso blanc
+
+(III-VI) Dédicace à la Duchesse de Nemours
+
+(VII-VIII) Au lecteur
+
+(IX-XII) Poème liminaire de Allard
+
+(XIII-XV) Argument
+
+(XVI) 126 pages (texte de la pièce), pagination arabe.
+
+(1-126)
+
+(CXXXXII) Privilège du Roi
+
+Il existe quatre exemplaires de cette pièce dont voici les références :
+ * – Paris, BN : Yf.4810, P87/1265.
+ * – Paris, Ars : 8°BL14083 (1) : il s'agit d'un recueil des œuvres complètes de Durval.
+ * – Nîmes, bibliothèque du Carré d'Art : 8344/80, Lettre 2 ; il s'agit d'un recueil factice contenant *Agarite* et d'autres pièces.
+ * – Londres, BM [82] : 164.d.18.
+
+*Comparaison des exemplaires* : aucune différence n'a été constatée, et aucune correction n'a été faite.
+
+
+## Liste des corrections
+
+Dans le texte, nous avons distingué les « u » et les « v » et les « i » et les « j », initialement confondus. Nous avons également remplacé les voyelles surmontées d'un tilde par le groupe voyelle/consonne nasale (« m » ou « n ») correspondant, ainsi que les abréviations par les lettres correspondantes lorsque cela s'imposait ; le « B » a été développé en « ss ». De surcroît, nous avons rectifié les coquilles d'imprimerie ainsi que la ponctuation lorsque cela s'avérait nécessaire. Au XVII*e* siècle le « a » et le « à » comme le « ou » et le « où » étaient souvent confondus ; nous les avons donc corrigés quand cela était indispensable. Nous avons cependant veillé à respecter l'édition originale ; aucune modification n'a été apportée. Les graphies différentes d'un même mot ont été reproduites dans le respect du texte.
+
+Nous avons ajouté entre crochets les noms ou les caractères qui avaient été omis.
+
+
+### Epître
+ * – **l.4** : ; supprimé après « *Grandeur* ».
+ * – **l.12** : : remplacé par . ; « ésté » remplacé par « esté ».
+ * – **l.20** : « employe » remplacé par « employé ».
+ * – **l.26** : « a » remplacé par « à ».
+ * – **l.27** : ajout d'un point avant « les noms » et d'une majuscule à « les ».
+
+
+### Au lecteur
+ * – **l.4** : « très-volontiers » remplacé par « très volontiers ».
+ * – **l.13** : « face » remplacé par « fasse ».
+ * – **l.15** : « que » a été omis.
+
+
+### Poème liminaire
+ * – **l.6** : ; supprimé à la fin du vers.
+ * – **l.54** : ? remplacé par , et « a » remplacé par « à ».
+ * – **l.61** : , supprimé à la fin du vers.
+ * – **l.26** : « ou » remplacé par « où ».
+ * – **l.30** : « a » remplacé par « à ».
+ * – **l.53** : « ou » remplacé par « où ».
+ * – **l.64** : « ? » remplacé par une virgule.
+
+
+### Argument
+ * – **l.3** : « ésté » remplacé par « esté ».
+ * – **l.19** : : remplacé ,.
+ * – **l.21** : : supprimé après « pere ».
+ * – **l.40** : . supprimé et ajout d'une minuscule à « le roy ».
+ * – **l.41** : ; remplacé par ,.
+
+
+### Pièce
+ * – **v.14** : « quand-il » pour « quand il ».
+ * – **v.16** : : supprimé en fin de vers.
+ * – **v.17** : « a » remplacé par « à ».
+ * – **v.36** : : remplacé par ,.
+ * – **v.68** : , remplacé par . en fin de vers.
+ * – **v.73** : , remplacé par ..
+ * – **v.76** : ; supprimé en fin de vers.
+ * – **v.77** : yeux ;. Ajout du point-virgule.
+ * – **v.78** : « quelles » pour « qu'elles ».
+ * – **v.96** : Monsieur ,. Ajout de la virgule. , remplacé par  ? à la fin du vers.
+ * – **v.102** : « à » remplacé par « a ».
+ * – **v.130** : « prés » remplacé par « près ».
+ * – **v.137** : « à » remplacé par « a ».
+ * – **v.149** : « o » remplacé par « où ».
+ * – **v.150** : « à » remplacé par « a ».
+ * – **v.156** : fecondes ;. Ajout du point-virgule.
+ * – **v.168** : « à » remplacé par « a » et « a » remplacé par « à ».
+ * – **v.174** : « d amour » remplacé par « d'amour ».
+ * – **v.186** : ; supprimé en fin de vers.
+ * – **v.187** : ajout d'un ; en fin de vers.
+ * – **v.189** : - retiré entre « chez » et « luy ».
+ * – **v.190** : , remplacé par ..
+ * – **v.191** : : remplacé par ,.
+ * – **p.13**   : *Medon* . remplacé par ,.
+ * – **v.195** : ajout d'un point-virgule en fin de vers.
+ * – **v.205** : « qu'elle » pour « quelle ».
+ * – **v.207** : « a » remplacé par « à ».
+ * – **v.218** : « veille » remplacé par « veuille ».
+ * – **v.236** : ajout d'un point virgule en fin de vers.
+ * – **v.239** : « aprés » remplacé par « après ».
+ * – **p.16**  : « *Medon »* a été omis entre les vers 249 et 250.
+ * – **v.278** : . supprimé en fin de vers.
+ * – **v.313** : : supprimé en fin de vers.
+ * – **v.316** : « exprés » remplacé par « exprès ».
+ * – **v.324** : « ou » remplacé par « où ».
+ * – **v.336** : : remplacé par ,.
+ * – **v.360** : « ou » remplacé par « où ».
+ * – **v.383** : . remplacé par ,.
+ * – **v.396** : . supprimé en fin de vers.
+ * – **v.398** : : supprimé en fin de vers.
+ * – **v.399** : « face » remplacé par « fasse ».
+ * – **v.418** : « ou » remplacé par « où ».
+ * – **v.429** : « a » remplacé par « à ».
+ * – **v.476** : . remplacé par ,.
+ * – **v.477** : . supprimé en fin de vers.
+ * – **v.481** : . supprimé en fin de vers.
+ * – **v.482** : : remplacé par ,.
+ * – **v.485** : au reste ,. Ajout d'une virgule.
+ * – **v.500** : « vous » a été omis.
+ * – **v.502** : « ou » remplacé par « où ».
+ * – **p.34**  : « *le cocher* » a été omis entre les vers 506 et 507.
+ * – **v.520** : ; ajouté en fin de vers.
+ * – **v.525** : : remplacé par ,.
+ * – **v.532** : ajout d'un point d'interrogation après « ville ».
+ * – **v.553** : « ou » remplacé par « où ».
+ * – **v.560** : « ou » remplacé par « où » et . remplacé par ,.
+ * – **v.561** : « ou » remplacé par « où ».
+ * – **v.569** : « ou » remplacé par « où ».
+ * – **v.582** : ajout de : à la fin du vers.
+ * – **v.586** : . supprimé en fin de vers.
+ * – **v.593** : . remplacé par ,.
+ * – **v.610** : , remplacé par ..
+ * – **v.677** : ; ajouté en fin de vers.
+ * – **v.679** : . remplacé par , et « ou » remplacé par « où ».
+ * – **v.680** : . remplacé par ,.
+ * – **v.681** : « ou » remplacé par « où ».
+ * – **v.684** : : remplacé par ,.
+ * – **v.700** : . remplacé par ,.
+ * – **v.702** : ajout d'un point à la fin du vers.
+ * – **v.714** : , remplacé par ..
+ * – **v.731** : ? remplacé par !.
+ * – **v.732** : ? remplacé par !.
+ * – **v.733** : : remplacé par ,.
+ * – **v.746** : « ou » remplacé par « où ».
+ * – **v.750** : : remplacé par ,.
+ * – **v.753** : « ou » remplacé par « où ».
+ * – **v.756** : « ou » remplacé par « où ».
+ * – **v.758** : « ou » remplacé par « où ».
+ * – **v.764** : « méme » remplacé par « même ».
+ * – **v.767** : ajout du point-virgule à la fin du vers.
+ * – **v.775** : . remplacé par ,.
+ * – **v.776** : ajout d'un point en fin de vers.
+ * – **v.779** : « est » remplacé par « es », dans les deux cas.
+ * – **v.780** : « ce n'est fait » remplacé par « c'en est fait ».
+ * – **v.786** : « és » remplacé par « es ».
+ * – **v.825** : . supprimé en fin de vers.
+ * – **v.827** : je meure ;. Ajout des points de suspension.
+ * – **v.841** : . supprimé en fin de vers.
+ * – **v.843** : . supprimé en fin de vers.
+ * – **v.849** : . supprimé en fin de vers.
+ * – **v.892** : « cherchè » remplacé par « cherché ».
+ * – **v.901** : « her » remplacé par « hier ».
+ * – **v.902** : . remplacé par , à la fin du vers.
+ * – **v.913** : . supprimé en fin de vers.
+ * – **v.921** : . supprimé en fin de vers.
+ * – **v.923** : . supprimé en fin de vers.
+ * – **v.927** : . supprimé à la fin du vers.
+ * – **v.940** : , remplacé par ..
+ * – **v.941** : « face » au lieu de « fasse ».
+ * – **v.945** : « l'a » remplacé par « la ».
+ * – **v.946** : « face » au lieu de « fasse ».
+ * – **v.969** : ajout d'une virgule après « dépesche ».
+ * – **v.984** : Ajout d'une virgule en fin de vers.
+ * – **v.1010** : ajout d'un point à la fin du vers.
+ * – **v.1012** : : remplacé par ,.
+ * – **v.1014** : e a été omis à l'article indéfini au féminin singulier « une ».
+ * – **v.1016** : : remplacé par ,.
+ * – **p.71** : « IIII » a été omis entre les vers 1030 et 1031.
+ * – **v.1044** : ; ajouté à la fin du vers.
+ * – **v.1058** : « n'aviez-pas » remplacé par « n'aviez pas ».
+ * – **v.1082** : ajout d'un point à la fin du vers.
+ * – **v.1092** : « ou » remplacé par « où ».
+ * – **v.1099** : . supprimé en fin de vers.
+ * – **v.1123** : . supprimé en fin de vers.
+ * – **v.1197** : ! supprimé après « Dieux ».
+ * – **v.1200** : … ajouté en fin de vers.
+ * – **v.1207** : : remplacé par ,.
+ * – **v.1232** : , remplacé par ..
+ * – **v.1236** : . ajouté en fin de vers.
+ * – **v.1237** : suppression de la virgule en fin de vers.
+ * – **v.1252** : « a » remplacé par « à ».
+ * – **v.1280** : ; remplacé par ,.
+ * – **v.1284** : . ajouté en fin de vers.
+ * – **v.1285** : « pense » remplacé par « pensé ».
+ * – **v.1287** : « d une » remplacé par « d'une ».
+ * – **v.1297** : . supprimé en fin de vers.
+ * – **p.83** : « *Policaste* » a été omis entre les vers 1298 et 1299.
+ * – **p.86** : , omis après *Celidor* entre les vers 1342 et 1343.
+ * – **v.1361** : . supprimé à la fin du vers.
+ * – **v.1363** : « la » remplacé par « l'a ».
+ * – **v.1368** : « te » remplacé par « de ».
+ * – **v.1369** : . supprimé en fin de vers.
+ * – **v.1383** : , supprimé en fin de vers.
+ * – **v.1387** : ? remplacé par !.
+ * – **v.1395** : « effrayez-point » remplacé par « effrayez point ».
+ * – **v.1399** : « yéux » remplacé par « yeux ».
+ * – **v.1401** : . supprimé en fin de vers.
+ * – **v.1426** : « mouvément » remplacé par « mouvement ».
+ * – **v.1440** : « pus » remplacé par « plus ».
+ * – **v.1524** : « d'un, roy » remplacé par « d'un roy ».
+ * – **v.1543** : ? remplacé par !.
+ * – **v.1553** : ? remplacé par !.
+ * – **v.1606** : « cé » remplacé par « ce ».
+
+
+### Privilège du roi
+ * – **l.5** : : remplacé par ..
+ * – **l.8** : : remplacé par ..
+ * – **l.10** : . remplacé par ,.
+ * – **l.12** : : remplacé par ..
+ * – **l.14** : . supprimé après « livre » ; . supprimé après « années ».
+ * – **l.15** : : remplacé par ..
+ * – **l.23** : . supprimé après « signifiées ».
+ * – **l.29** : : remplacé par , et suppression de la majuscule de « et ».
+ * – **l.31** : : remplacé par , et suppression de la majuscule de « sans ».
+ * – **l.32** : : remplacé par , et suppression de la majuscule de « et ».
+ * – **l.33** : : remplacé par ..
+ * – **l.35** : : remplacé par , et suppression de la majuscule de « et ».
+
+
+# AGARITE. TRAGI-COMEDIE. DEDIEE A MADAME la Duchesse de Nemours.
+
+
+## A TRES HAUTE ET PUISSANTE PRINCESSE ANNE DE LORRAINE, Duchesse de Genevois, de Nemours & d'Aumale.
+
+Madame,
+
+Le tesmoignage, que rend le public des pieces de Theatre, n'estant bien souvent fondé que sur le bien faire des Acteurs, n'est pas une lettre de recommandation pour les faire passer à la Posterité. Celle-cy que j'ay l'honneur de presenter à *Vostre Grandeur* ayant esté aucunement [83] bien receuë sem/ /bloit ne devoir plus craindre l'injure du temps ny les coups de langue : mais l'approbation de quelques bons Esprits durant l'espace de peu d'années n'est pas une marque suffisante pour faire trouver bonne la plus belle Poësie [84], si le travail de la presse ne fait les mesmes effects que l'artifice du Theatre ce que n'osant me promettre de ce genre de Poëme [85] je differois tousjours d'en faire mettre les Vers en lumiere [86], prevoyant assés qu'une lecture interrompuë d'Actes et de Scenes osteroit la grace qu'ils peuvent avoir en la bouche des Acteurs [87]. Toutefois puisqu'ils n'ont jamais esté recités comme les voicy j'ay pensé que mes fautes estant publiques je les devois reparer par cette edition. Que si d'avanture cette occupation d'esprit vous semble peu serieuse, c'est encore un peu de jeunesse qui n'est pas incompatible avec l'âge viril & pour ainsi dire c'est la plus proche folie de la / /sagesse. Vous entendés bien, *Madame*, que je me veux excuser de sçavoir faire des Vers en loüant un Art souvent incommode, & quelque fois ridicule en ceux qui l'exercent, mais jusqu'icy n'ayant point fait rencherir le papier a force d'escrire, je pense n'avoir employé en ce gracieux travail que certaines heures de recreation. Pourtant quand il s'agira de traiter a bon escient quelque haut sujet [88] qui vous appartienne, encore que les Princes de
+
+vostre Maison soient Tres Illustres dans les Histoires & que le simple discours de vostre Genealogie surpasse en magnificience le stile des Poëtes & des Orateurs j'ose vous promettre des pieces de meilleure trempe & de plus longue haleine. Alors pour faire admirer à tout le monde les Ducs, & les Chevaliers d'Aumale je traceray volontiers un plus grand dessein. Les noms de Nemours, & de Genevois me fourniront de hautes / /pensées & sans mediter rien de fabuleux, j'imagineray peut-estre de si nobles fictions qu'elles seront respectées pour l'amour de vous & me feront connoistre.
+
+*Madame*,
+
+De vostre Grandeur, Tres-humble & tres-obeïssant serviteur,
+
+DURVAL./ /
+
+
+## AU LECTEUR.
+
+Ne pense pas Lecteur, que je vueille mettre un long preambule au devant de cette Piece pour suspendre les opinions des maistres sur le jugement qu'ils en pourront faire. Je ne suis point si amoureux de mes Poëmes que je ne les supprime tres volontiers, quand ils seront condamnés par des Juges competants. Cependant & jusqu'à tant que nos Poetes & nos Orateurs soient erigés en tiltre d'office, je n'estime pas qu'ils se puissent attribuer une souveraine juridiction sur les matieres de Prose ou de Vers. Et je crois qu'il me doit estre permis comme à plusieurs autres d'en dire mon petit mot pour le temps que j'ay mis à lire les œuvres de quelques-uns qui me semblent plus curieux de trouver de nouveaux accents en nostre langue par la nouvelle orthographe que d'animer & polir leurs escrits par la force de leur genie & par les graces de l'Eloquence acquise. Je ne les veux point choquer plus rudement de peur que le contre coup ne me fasse mal, car je ne sens point en moy plus de vigueur qu'ils en peuvent avoir, & les def*/* /fauts que je remarque en eux, je les ay peut-estre sans que je les voye. C'est pourquoy je ne laisse point aller sans passe-port cette premiere Tragi-Comedie [89] , que je te prie de ne pas prendre pour un modelle adjusté [90] de tout point aux regles qui serviront un jour de Preface à d'autres, si tu la reçeois ainsi, je te puis asseurer d'un volume de quatre pieces plus justes & plus nombreuses [91] , chacune desquelles tenant sa partie te fera voir comme alors que je me suis diverty à cette belle science, j'ay separément traité, La Tragedie, La Tragi-Comedie, La Pastorale et la Comedie, les unes dans la pretendue Regle de vingt-quatre heures, comme Poemes simples [92] & les autres
+
+hors de la mesme regle, comme Poemes composés [93] . C'est tout ce que mon loisir m'a permis de contribuer à la Scene Françoise qui ne peut avoir que les quatre faces que je te monstre. Je laisse aux autres à remplir les niches du Theatre de ses figures & decorations exterieures, & je me contente d'en avoir mis le plan à fleur de terre & dressé la base quadrangulaire sur laquelle tous les bons ouvriers peuvent jetter les fondemens de l'œuvre dramatique & le [94] conduire à sa perfection./ /
+
+
+## A MONSIEUR DURVAL. Sur la Tragi-Comedie d'Agarite. ODE.
+
+En vain le Ciel pretend l'hommage,  
+De produire icy bas des Dieux ;  
+C'est un dessein injurieux  
+Que nous ravir cet adventage ;  
+Durval possede ce pouvoir,  
+Et dedans ses vers nous fait voir   
+La naissance d'une Carite [95] ?  
+Le moins qu'il en doit esperer,  
+Est que sous le nom d'Agarite,  
+On se porte à le reverer./ /  
+
+Comme elle parut aux theatres,  
+Et qu'elle y sema ses douceurs,  
+Les plus critiques des censeurs [96],  
+Y devinrent ses idolatres ;  
+Elle vainquit ses envieux  
+Et l'on jugea bien que les Cieux,  
+Avoient infus [97] dedans son pere,  
+Les graces, l'ardeur, les appas,  
+Qui rendirent Jupiter mere,  
+
+Lorsqu'il enfanta sa Pallas [98].  
+Agarite fournit des charmes,  
+Qui derobent la liberté,  
+Son advanture et sa beauté,  
+Ont fait rire et jetter des larmes,  
+Sa bouche recelle un Aimant,  
+Où le plus horrible tourment,  
+Sent estouffer toute sa rage ?  
+C'est un Oracle [99] des Neuf sœurs [100],  
+Qu'il faut n'avoir point de courage,  
+Pour ne flechir à ses douceurs./ /  
+
+Divine amorce à nos oreilles,  
+Dont nostre esprit reste estonné,  
+Qui devroit estre courronné,  
+Pour avoir fait tant de merveilles ?  
+Alors que ton [101] sage guerrier  
+Parut couronné de Laurier,  
+Et le cœur rempli de delices,  
+Sortit des Enfers tenebreux [102],  
+On vit que les travaux d'Ulysses,  
+Pour toy seul n'estoient que des jeux.  
+
+Ce grand heros a le merite,  
+Qui luy fait tout vaincre et charmer,  
+Mais l'honneur de se faire aimer,  
+Est reservé pour Agarite.  
+Ainsi tous deux ont leurs appas,  
+Et donnent tous deux le trespas [103],  
+A qui leur porte de l'envie,  
+Pres ce prodige de valeur,  
+Celuy qui conserve sa vie,  
+La rend aux charmes de sa sœur [104]./ /  
+
+Durval dans le sacré mistere,  
+Que Parnasse [105] tient recelé  
+Où l'onde du cheval Aislé [106],  
+Apprend à parler et se taire,  
+Rencontre des charmes si doux,  
+Que le Ciel en devient jaloux,  
+Contre le bonheur de la terre,  
+Et son despit est si peu fainct,  
+Que rien n'arreste son tonnerre [107],  
+Que les Lauriers dont il est ceint.  
+
+Esprit qui ne sens nuls obstacles,  
+A façonner les plus beaux vers,  
+Et des beautez de l'univers,  
+Fais les moindres de tes miracles,  
+Agarite qui sort au jour,  
+Suspend nos vœux, et nostre amour,  
+Sur ses graces et tes louanges ;  
+Mais dans ce doute, hasardeux,  
+Le Ciel m'enseigne par ses anges,  
+Qu'on vous doit admirer tous deux.  
+*ALLARD* [108]. / /  
+
+
+## ARGUMENT.
+
+Agarite jeune Damoiselle, mais trop agreable aux yeux d'un Roy est sollicitée par Celidor, son favory. Medon pour eluder cette artificieuse poursuite, se vient plaindre à la Majesté du rapt qu'il suppose avoir esté fait de sa fille. Cependant il la depaïse & l'envoye aux champs en une maison de plaisance. Elle n'y est pas si tost que deux Gentilshommes en deviennent amoureux. Policaste gaigne son cœur, & Lisene provoque sa haine. Cetui-cy d'aussi bonne maison que son Rival, & plus riche que luy : pour mieux reüssir en sa recherche vient trouver le pere, qui le reçoit comme il desire ; & envoye querir sa fille pour les accorder. Corintie en l'absence de son Frere est cajolée par Celidor, qui en devient amoureux en cherchant Agarite, mais comme elle ne peut l'entretenir longtemps, il retourne aupres du Roy rendre compte de sa Commission. Là il apprend par le commun bruit, & la bouche du Roy, le Mariage que Medon pretend faire, & sur le soupçon qu'ils ont que c'est pour reparer le rapt commis, ils deliberent de se défaire du marié le soir de ses nopces, & d'enlever la mariée. Mais Policaste, executant le premier un autre stratageme, dont il est demeuré d'accord avec Agarite, frustre le dessein du Roy une seconde fois. Le soir de ses nopces venu, Agarite est ravie par son Amant, & conduite par eau dans une place forte. Lisene son espoux est tué dans un Balet inventé exprés par Celidor & Medon n'est pas plus affligé de la perte de sa fille & du meurtre de son gendre que le/ /Roy l'est de son entreprise mal executée. Enfin pour surcharge d'afflictions ce malheureux pere est amené devant ce Prince irrité, qui l'accuse du meurtre de son Gendre, & luy impose la mort de sa fille, pour luy faire declarer où elle est. Dans cette confusion turbulente d'evenemens tragiques, un Pescheur vient dire que sur le bord de la riviere il a treuvé des habits de femme à l'usage d'une Damoiselle. On s'y transporte. Medon les reconnoist pour ceux de sa fille, & le Roy presumant qu'Agarite s'est noyée par desespoir, en est si fort troublé, qu'il luy fait dresser un Lict de parade, où tous les jours il vient faire ses regrets. D'autre costé Celidor ayant sçeu que Lisene qu'il a tué estoit Frere de Corintie son Amante, se resoust de faire penitence d'un si grand crime, & pour s'en aller en pelerinage, il prent congé d'elle, mais celle cy pour rompre son dessein, le suit bien-tost déguisée en Cavalier. Tandis Policaste & Agarite demeurent dans leur Chasteau, d'où enfin ils sortent pour venir en Cour & treuver moyen en desabusant le Roy, d'accomplir leur mariage. Ils s'addressent à Phenice gouverneur d'Amelise, auquel ils conseillent de faire mettre ceste jeune Princesse à la place de l'effigie d'Agarite que le Roy idolatre, afin qu'il s'en puisse rendre amoureux, & qu'il soit plus facile de luy faire changer son amour imaginaire en une affection réglée & legitime. Ce qu'ils executent au contentement d'Amelise, qui est bien aise de faire l'idole pour devenir Reine, & s'estans pris garde que depuis une telle supposition le Roy n'est plus si furieux. Un jour entre autres qu'il se plaint dans sa chambre, Amelise se leve en sursaut de dessus le lict de parade. Incontinent Phenice parest suivi de Policaste & d'Agarite deguisée en Page. Tous ensemble le rasseurent, & Pheni/ /ce luy ayant monstré l'Autheur de la feinte s'esvertuë encor par vives raisons de luy oster Agarite de la memoire, pour luy faire prendre un party sortable à la dignité de sa personne. Finalement il se resout d'espouser Amelise. Alors Policaste descouvre Agarite, & la reconnoist pour sa maistresse. Le Roy, autant ravy de ce miracle, que la grande affection qui est entr'eux, change l'amour qu'il a eu pour elle en bienveillance, & pour recompenser Policaste d'une feinte qui reüssit à tant d'heureux effects, il luy accorde Agarite en mariage. Au mesme temps Celidor & Corintie estans retournez en Cour en habits déguisez, sont aussi reconnus & mariez ensemble.
+
+Une consideration m'empesche de nommer le Royaume & la Province où j'ay feint cette Histoire. Je diray seulement contre l'opinion de ceux qui veulent que la Scene soit en un seul lieu, qu'une partie des adventures de ce Poëme se passe aux champs, & l'autre à la ville, s'ils ne veulent prendre pour un seul lieu toute une contrée [109] . / /
+
+
+## PERSONNAGES
+ – LE ROY.
+ – LE FLAMAN,Peintre & Marchand de Tableaux.
+ – CELIDOR,Favory du Roy, Amant de Corintie.
+ – AGARITE,Amante de Policaste.
+ – MEDON,Pere d'Agarite.
+ – PHENICE,gouverneur d'Amelise.
+ – AMELISE,jeune Princesse.
+ – L'EXEMPT des gardes du Roy.
+ – POLICASTE,Amant d'Agarite.
+ – LIZENE,rival de Policaste.
+ – CORINTIE,sœur de Lizene.
+ – LE COCHER de Medon.
+ – LES PESCHEURS (I et II).
+
+AGARITE                
+
+Tragi-comedie
+
+
+## ACTE PREMIER
+
+
+### Scene premiere.
+Le roy, celidor.
+
+
+    LE ROY. 
+Que les Roys de mon aage ont de trouble en aymant !  
+Et qu'un Sceptre déplaist en la main d'un Amant !  
+L'éclat de ma Couronne est contraire à la flame⁎  
+Qu'un Soleil de beautés allume dans mon ame.  
+Et bien que ma fortune⁎ esleve mon amour [110]                      
+Elle me fait haïr les pompes [111] de ma Cour,  
+J'ayme d'entretenir [112] à des heures secrettes⁎  
+Celuy d'entre les Dieux [113] qu'on adore à cachettes [114] :  
+C'est icy qu'avec luy je confère souvent,  
+Il entend⁎ les raisons que je mets en avant :  
+Je luy dy mes secrets⁎, il me preste l'oreille,  
+Et tout Roy que je suis un enfant me conseille.  
+Ce petit Dieu m'apprend que les plus innocens  
+Souffrent⁎ quand il luy plaist les peines⁎ que je sens.  
+Et lors que je me plains des tourmens⁎ que j'endure  
+Il me dit que j'ay tort d'accuser la Nature⁎   
+Qui sousmet tout le monde à ses divines lois⁎,  
+Et luy fait obeïr les Princes et les Rois, [115]  
+Ainsi contre l'Amour j'esprouve⁎ ma constance,  
+Et toutefois en vain je lui fay resistance,  
+Comment luy resister ? Il est armé de traits⁎,  
+Et pour se faire aymer ma belle a tant d'atraits,  
+Que si je ne cedois à la force des armes, [116]  
+Elle me gaigneroit par l'effect⁎ de ses charmes⁎.  
+Mais voicy de retour celuy qui tous les jours  
+A l'honneur⁎ de la voir.  
+
+    CELIDOR.    
+            Sire point⁎ de discours⁎  
+On ne la peut gaigner [117] par des belles parolles,  
+Une chaine de prix et du poids des pistolles [118]  
+Pourroit à mon advis. [119]  
+
+    LE ROY.
+            Ha ! ce traffic aussi  
+Me desplaist.  
+
+    CELIDOR.
+        Si [120] fait on toutes choses ainsi.  
+
+    LE ROY.
+L'or ne peut enrichir que les Nymphes du Tage [121],  
+Il faut qu'à celle-cy je donne davantage.  
+
+    CELIDOR.
+O Prince liberal [122] que l'on deût adorer !  
+Que nous verrons longtemps vostre regne durer !  
+
+    LE ROY.
+Si tu me fais jouyr d'une beauté si rare⁎,  
+Outre qu'en ton endroit je ne suis point⁎ avare,  
+Sçache qu'en un instant je te puis eslever  
+Jusques [123] où tes souhaits ne sçauroient arriver.  
+
+    CELIDOR.
+J'y fay tout mon pouvoir [124] mais plus je continuë  
+Et plus dans le discours⁎ je la voy retenuë.                   
+
+    LE ROY.
+Il n'en faut donc jamais esperer d'amitié⁎ ?  
+
+    CELIDOR.
+Jamais qu'elle [125] ne soit vostre chere moitié. [126]  
+
+    LE ROY.
+Celidor tu sçais bien que c'est chose impossible  
+Sollicite, poursuis et la rends [127] plus sensible,  
+La jeunesse, l'Amour et la simplicité  
+Gaigneront son esprit⁎ estant sollicité.  
+
+    CELIDOR.
+Il est vray que l'Amour fond [128] les ames de glace  
+Il faudra que ce feu⁎ dans son cœur trouve place,  
+Vis à vis de chez elle un Marchand de tableaux  
+Qui s'entend⁎ avec moy, fait monstre [129] des plus beaux.  
+Elle de qui l'esprit⁎ aux nouveautés s'applique [130],  
+Pour les considerer entre [131] dans la boutique.  
+Alors je prens mon temps et la viens accoster  
+Luy monstrant des objets⁎ qui la peuvent tenter.  
+Enfin vostre pourtrait dont je dy des merveilles⁎  
+Charme⁎ autant ses beaux yeux que je fay ses oreilles, [132]  
+
+    LE ROY.
+Tu luy parles d'amour. [133]                                
+
+    CELIDOR.
+            Je vous laisse à penser. [134]  
+
+    LE ROY.
+O service qu'un Roy ne peut recompenser !  
+Tu te peux asseurer que ta fortune⁎ est grande,  
+Mais voy la plus souvent et fay qu'elle se rende.  
+ACTE I.
+
+
+### Scene II.
+Agarite, le Flaman, Celidor, Medon.
+
+
+    AGARITE. 
+Si le mignon [135] du Roy n'est point⁎ un suborneur⁎  
+Qui tâche d'abuser une fille d'honneur⁎,  
+Ce nom de Masjesté m'esblouyt et me tente  
+Et celuy de l'amour me peut rendre contente,  
+Mais quoy ! c'est me flatter⁎ d'esperances en l'air               
+Qui passent devant moy plus viste qu'un esclair,  
+Encore que les Rois cherissent les plus belles  
+Ils n'espousent jamais de simples Damoiselles. [136]  
+Et pour moy j'ayme mieux vivre sans vanité  
+Que de perdre la fleur de ma pudicité [137] :  
+C'est tousjours le plus seur. Mais les belles figures⁎ [138]  
+He Dieu ! que ce Flaman a de riches⁎ peintures ?  
+Je m'en vay l'aborder pour les voir de plus prés.  
+Monsieur asseurement vous les faites exprés [139],  
+Vous nous monstrés tousjours quelques pieces nouvelles.  
+
+    LE FLAMAN.
+Le monde qui les voit les estime plus belle  
+Quand elles ont receu quelques traits⁎ de vos yeux ;  
+En effect⁎ il est vray qu'elles s'en vendent mieux.  
+
+    AGARITE.
+Ha ! ne me gaussés [140] point⁎ en me voulant complaire⁎  
+
+    LE FLAMAN.
+Excusez [141] j'ay là haut quelques comptes à faire.  
+
+    CELIDOR. 
+Page⁎ [142] tiens mon espée et m'attends là devant, [143]  
+Vrayment j'eusse mal fait de passer plus avant                      
+Voyant des raretés où l'art de la Peinture  
+Compare tous ses traits⁎ à ceux de la Nature⁎.  
+
+    AGARITE.
+Monsieur, je vous entends⁎ : mais de tous ces pourtraits  
+Vous ne voyés en moy que les plus rudes [144] traits⁎.  
+
+    CELIDOR.
+J'estime que l'amour n'acheva cet ouvrage  
+Qu'aprés vous avoir veuë en la fleur de votre âge [145].  
+
+    AGARITE.
+Pensés-vous ? et l'on dit que l'amour n'a point⁎ d'yeux.  
+
+    CELIDOR.
+On en peut dire autant de tous les autres Dieux.  
+Mais laissent ils de [146] voir ce qu'on fait dans le monde ?  
+
+    AGARITE.
+Je ne sçay donc sur quoy le vulgaire [147] se fonde.  
+
+    CELIDOR.
+Passons outre, parlons de ce que nous voyons  
+Et disons librement ce que nous en croyons.  
+
+    AGARITE.
+Bien que ce soient icy des peintures prophanes [148]  
+Monsieur, que dites vous de ces deux courtisanes ?  
+
+    CELIDOR.
+Si leurs rares⁎ tableaux se perdoient une fois [149]                      
+On treuveroit en vous les beautés que j'y vois.  
+
+    AGARITE.
+Ha ! vous ne dites pas tout ce qu'il vous en semble  
+Je ne croy point⁎ avoir tant de beautés ensemble [150].  
+
+    CELIDOR.
+Vous les avez pourtant et ne les semblez pas  
+Car ceste belle gorge a bien d'autres appas⁎.  
+
+    AGARITE.
+Dites mieux [151] que de loin je parois estre telle,  
+Mais à me voir de prés que je ne suis plus belle.  
+
+    CELIDOR.
+Je ne feray jamais ceste comparaison,  
+Ce seroit proprement dementir la raison,  
+Et délors [152] ces pourtraits qui manquent de parole  
+En auroient pour reprendre une personne fole.  
+
+    AGARITE. 
+Vous ne serés jamais par leurs bouches repris.  
+
+    CELIDOR. 
+Pourquoy ? de leurs beaux yeux je me sens bien espris,  
+Ils font dedans [153] mon cœur ce qu'au vostre peut faire  
+Ceste image⁎ du Roy capable de vous plaire.                       
+
+    AGARITE.
+Pour me parler du Roy vous me dites cela.  
+
+    CELIDOR.
+Comment ! négligés vous la passion⁎ qu'il a ?  
+Il est si liberal, si vaillant, et si sage.  
+
+    AGARITE.
+Vrayment ce sont bien là de beaux traits⁎ de visage,  
+Mais une autre que moy le pourra contenter⁎.  
+
+    CELIDOR.
+Dieux ! tout ce que je voy vous y deut inviter,  
+Voyés ce beau Printemps [154] où l'amour s'est luy mesme  
+Representé par tout comme sur un Embléme.  
+Il n'est trait⁎ là dedans qui ne vous face voir  
+Des chef-d'œuvres entiers de son divin pouvoir.  
+Alors que ces peupliers [155] à la Vigne [156] se lient  
+Leurs feüilles tremblent d'aise et leurs branches s'en plient,  
+L'esprit⁎ qui les produit d'un soin⁎ perpetuel,  
+Nourit entre leurs troncs un amour mutuel :  
+Ainsi le Grenadier [157] et le Myrthe [158] se baisent,  
+Et parmy les Citrons les Oranges [159] se plaisent,                       
+Cette Palme [160] profite et se charge de fruits,  
+Passant près de son masle et les jours et les nuits, [161]  
+Ces arbres où l'on prend des poires [162] et des pommes [163]  
+Ont chacun leurs moitiés aussi bien que les hommes, [164]  
+Et sans nous arrester à tant de vegetaux  
+La nature⁎ marie encore les metaux,  
+L'or [165] avecques [166] le plomb [167] sur le feu⁎ se r'assemble  
+Et dedans ce creuset ils se meslent ensemble,  
+Sçavés vous bien pourquoy l'on a peint ce cailloux [168] ?  
+C'est pour monstrer qu'il a plus d'amitié⁎ que vous,  
+Car le jaspe [169] s'engendre au cœur de ceste pierre,  
+Et rien de vostre cœur ne germe sur la terre,  
+Certes [170] sans y penser nous tombons dans la mer,  
+Où mesme les poissons nous enseignent d'aymer,  
+Dans ce froid element, les Sepches [171] s'entrelassent  
+Les Dauphins font l'amour, et les Poulpes s'embrassent.  
+Ceux-cy qui sont plongés au fonds [172] de ce tableau  
+N'esteignent point⁎ le feu⁎ qui les brusle dans l'eau.  
+On diroit à les voir qu'ils se meurent de joye  
+Et que dedans du laict l'un et l'autre [173] se noye,  
+Ou que bien à propos en la saison des fleurs                      
+Le peintre les a faits de diverses couleurs,  
+Car c'est la verité qu'aprochans [174] du rivage  
+Ils prennent la couleur de tout un paysage,  
+En la mesme façon que vous prenés en vous  
+Tout l'esclat des pourtraits qui sont autour de nous.  
+Mais c'est trop vous mener à la mercy des ondes      
+Retournons maintenant dans les plaines fecondes ;  
+Que pensez vous que fait dedans ce chaume sec  
+Cette belle Perdris [175] qui nous monstre son bec :  
+Elle en conçoit une autre à la moindre parole  
+Qu'elle entend⁎ prononcer à son masle qui vole,  
+Il ne faudroit que voir ces Ramiers accouplés,  
+Pour sçavoir en quel temps [176] les desers sont peuplés,  
+Quoy ! ne direz-vous pas que ces deux Tourterelles  
+R'appellent leurs maris pour coucher avec elles,  
+Regardés ces Lapins, ces Lievres, ces Chevreux  
+Ce sont des animaux qui sont tous amoureux. [177]  
+Sur tout considerez que ce boccage sombre  
+Où l'ouvrier [178] a caché deux personnes à l'ombre,  
+N'empesche point⁎ de voir ces deux jeunes amans                  
+Qui sont venus au but de leurs contentemens⁎,  
+Il n'en faut point⁎ mentir cette piece [179] merite [180]  
+Il n'y manque rien plus [181] que l'amour d'Agarite.  
+
+    AGARITE.
+Mon cœur ne s'est esmeu non plus [182] de ce discours⁎  
+Que mes yeux en voyant tant de sortes d'amours,  
+Le papier souffre⁎ tout et la toile de mesme.  
+
+    CELIDOR.
+Quoy ! n'aymerez vous pas un Prince qui vous ayme ?  
+Serez vous seule [183] au monde en qui la cruauté  
+Ait de l'intelligence avecque la beauté. [184]  
+
+    MEDON. 
+Qu'est-ce que ce mignon peut tant dire à ma fille ?  
+Sur la fleur de ses ans je crains cette chenille.  
+
+    AGARITE.
+Monsieur retirez-vous, hé Dieu ! j'entens⁎ parler  
+Mon Pere à la fenestre.  
+
+    CELIDOR.
+            Il faut donc s'en aller.  
+
+    MEDON.
+Agarite ma fille.  
+
+    AGARITE. 
+        Escoutez il m'appelle !  
+Adieu c'est trop causer.  
+
+    CELIDOR. 
+            Adieu doncque [185] cruelle⁎  
+Ha ! qu'il est mal aisé de la solliciter [186]  
+En passant par icy je ne puis m'arrester   
+Qu' [187] aussitost d'elle et moy son pere ne soupçonne [188] ;  
+Ce viellard ne veut pas qu'elle parle à personne [189],  
+Et la tient de si prés, que mesme de chez luy  
+Il voit ce qu'elle fait en la maison d'autruy [190].  
+Allons trouver le Roy, mais faignons que l'affaire  
+S'est passée autrement affin de luy complaire⁎,  
+Il faut payer les Grands d'esperance et de vent  
+Car de mesme monnoye ils nous payent souvent.  
+ACTE I.
+
+
+### Scene III.
+Medon, Agarite.                                  
+
+
+    MEDON.
+Agarite parfois pour estre trop civile [191]  
+On fait courre de soy [192] de faux bruits⁎ dans la ville ;  
+Que te monstroit là bas le favory⁎ du Roy ?  
+
+    AGARITE.
+Un tableau du Printemps.  
+
+    MEDON.
+            Ma fille je te croy.  
+Mais dans mon cabinet j'en ay bien un plus rare⁎,  
+Celuy de qui je l'ay l'acheta d' [193] un Barbare⁎.  
+
+    AGARITE.
+Hé ! mon pere voyons ce tableau pretieux [194].  
+
+    MEDON.
+Il faut bien contenter⁎ ton esprit⁎ curieux,  
+Voy comme là dedans toutes choses finissent,  
+Comme les unes font que les autres perissent,                       
+Et de quelle façon la nature⁎ reduit  
+Aux termes du neant tout ce qu'elle produit.  
+D'abord tu cognois⁎ bien qu'à l'entour de la vigne [195],  
+Ce Laurier [196] est tousjours une plante maligne,  
+Que ce jeune Olivier un vieux chesne destruit,  
+Et que tous deux mourans ils ne font aucun fruit,  
+L'or l'argent et l'estain dans ce fourneau de pierre  
+Se font comme tu vois une cruelle⁎ guerre,  
+Et tu peux bien juger⁎ que ce fin diamant  
+Empesche tout à fait la vertu⁎ de l'Aymant.  
+Ce Congre dans la mer devore une Lamproye,  
+Et cet autre poisson est des Poulpes la proye.  
+Sur terre nous voyons qu'il n'est point⁎ d'animal  
+Qui ne nuise à quelque autre, ou ne luy veuille mal,  
+Ainsi cette Perdris deux ou trois fois remise [197]  
+Sous la main de l'Autour, enfin se trouve prise,  
+L'Aigle dessus les bois va prendre des Ramiers  
+Et les Cerfs sont dedans deschirez des limiers.  
+O Dieux ! que voy-je là ? non loin de ce fueillage  
+Une Bergere meurt à la fleur de son aage,                       
+C'est un jeune Seigneur qui feignant de chasser  
+Luy vient oster la vie en la voulant forcer.  
+Agarite prens garde où sa rage le porte  
+Et songe que l'on peut te traiter de la sorte.  
+
+     AGARITE.
+Las ! Pourvoyez y donc car c'est la verité  
+Qu'on attente desja sur ma pudicité,  
+Le Favory⁎ du Roy tous les jours m'importune  
+Il voudroit que l'amour gouvernast ma fortune⁎.  
+
+    MEDON.
+Ha ! ma fille l'Amour est un mauvais Enfant  
+Il se plaist à des jeux que l'honneur⁎ luy desfend,  
+Garde que ce Mignon. [198] Mais il est difficile  
+D'empescher son dessein⁎ demeurant dans la ville ;  
+Il faut. Attends un peu que je songe à cecy,  
+Il faut que sur le soir tu t'en ailles d'icy,  
+Et qu'aussitost après en déplorant ma vie  
+Je vienne dire au Roy que quelqu'un t'a ravie,  
+Qu'en dis-tu mon enfant il n'est pas mal aisé,  
+De sauver ton honneur⁎ par un rapt supposé,  
+Je te feray mener en un lieu de plaisance  
+Esloigné de la Cour et de la medisance,  
+Et je pourray sous-main te trouver un espoux,                   
+Dont le Roy quelque jour ne sera point⁎ jaloux.  
+
+    AGARITE.
+On ne sçauroit trouver une fourbe [199] meilleure.  
+
+    MEDON.
+Non, mais il faut aussi l'accomplir de bonne heure.  
+ACTE I.
+
+
+### Scene IV.
+Phenice, Amelise, le Roy, Celidor, l'Exempt , Medon.
+
+
+    PHENICE. [200] 
+Quand je pense, Madame [201], au bon-heur qui vous fuit,  
+Il me semble de [202] voir un beau jour qui me luit.  
+Soit que je vous regarde ou que je considere,  
+Le grand bien⁎ pour l'estat⁎ que de vous on espère,  
+Il n'est point⁎ de Princesse, en qui sans vanité,  
+On puisse remarquer tant de prosperité.  
+Outre que tout le monde à bon droit⁎ vous honore,                   
+Tant de nobles partis vous regardent encore,  
+Qu'il ne vous reste plus. [203]  
+
+    AMELISE.
+                Phenice taisez vous,  
+Je sçay que vous allez me parler d'un espoux,  
+Mais ne me flattés⁎ point⁎ d'une esperance vaine,  
+Et ne me parlés plus de ce tiltre de Reine.  
+J'ay bien assés de cœur [204] pour regner quelque jour [205],  
+Si j'estois creature à donner [206] de l'amour,  
+Encore que le Roy, quelque fois me caresse [207],  
+Une moindre [208] beauté luy tient lieu de maistresse⁎,  
+Mais il entre au Conseil⁎, allez-y vistement  
+Tandis [209] je me retire en mon apartement.  
+
+    PHENICE. [210]
+Je reviendray bien tost.  
+
+    LE ROY.
+            Les affaires civiles,  
+Nous tiennent prisonniers dans les plus belles villes,  
+Les Sceptres dont les Rois gouvernent les humains,  
+Sont d'un Cedre pesant qui suë entre leurs mains,  
+Ceux qui sont eslevés au faiste [211] d'un Empire,                       
+Tiennent à mon advis le timon [212] d'un Navire,  
+Dont le fonds est d'Ebene et le reste d'un bois,  
+Que l'orage et la foudre enflament comme poix,  
+Et puis en leur endroit tous les vents sont propices  
+Ils nagent dans les biens⁎ et dedans les delices [213].  
+Erreur de loüer tant la fortune⁎ des Roys,  
+En mon particulier [214] je me contenterois⁎  
+Si quelqu'un [215] sans toucher à l'interest⁎ des Princes,  
+Pouvoit mettre un bon ordre en toutes mes provinces.  
+
+    PHENICE.
+Si la teste n'agit, tout les membres du corps,  
+En matiere d'Estat⁎ sont de foibles ressors.  
+Sire, pardonnez-moy, je le dis d'un bon zele,  
+A peine trouvez-vous un seul homme fidelle⁎,  
+Il est temps desormais de ne croire que vous,  
+Puisque vos Conseillers⁎ vous trompent quasi tous.  
+
+    LE ROY.
+Les Roys sur leurs sujets ne sont pas tousjours maistres,  
+On voit en tous estats⁎ des meschans et des traistres ;  
+Si mon Conseil⁎ n'est bon, pour le moins je n'eslis                  
+Que des hommes de bien⁎ lors que je l'establis.  
+
+    PHENICE.
+C'est aussi dans ce choix que les sages vous trompent  
+Car dedans les honneurs⁎ les hommes se corrompent.  
+Et tels que [216] de bienfaits vous pensez obliger⁎,  
+Ont de l'intelligence avecques l'estranger⁎.  
+
+    CELIDOR.
+Monsieur quand on a sçeu de semblables cabales,  
+On a tousjours puny ces ames desloyales.  
+Quiconque sert les Rois, et ne vit comme il faut,  
+Est mené tost ou tard dessus [217] un Eschaffaut.  
+
+    PHENICE.
+Oüy, quand les Magistrats ne se laissent corrompre.  
+
+    LE ROY.
+Que me veut cet Exempt qui nous vient interrompre ?  
+
+    EXEMPT.
+**Sire**, un pauvre Vieillard, et fort inquieté,  
+Desire de parler à vostre Majesté.                           
+
+    LE ROY.
+Et bien faites le entrer, ma clemence m'oblige⁎  
+D'avoir pitié de ceux que la Fortune⁎ afflige.  
+
+    CELIDOR.
+C'est le Pere, escoutez à l'oreille. [218]  
+
+    LE ROY.
+                Tant mieux.  
+
+    MEDON.
+**Sire**, si ce discours⁎ ne vous est ennuyeux,  
+Je demande justice, et me plains d'une injure⁎,  
+Qui trouble en mes vieux ans le cours de la Nature⁎.  
+On a ravy ma fille (Helas ! en ce penser  
+Mille traits⁎ de douleur me viennent traverser.)  
+
+    LE ROY.
+Console-toy, Bon-homme, en des crimes semblables,  
+Il se faut informer des personnes coupables.  
+Sçachons [219] les Ravisseurs, afin de les punir   
+Et voyons quel chemin ils auront pu tenir. [220]  
+Celidor, c'est de toy que j'attens la vengeance,  
+Te chargeant tout exprés de ceste diligence [221].                      
+
+    CELIDOR.
+Quiconque soit l'Autheur de ceste lascheté  
+Je respons de sa teste à vostre Majesté [222].  
+
+
+## ACTE II                        
+
+
+### Scene premiere.
+Agarite, Lizene, Policaste.
+
+
+    AGARITE. 
+Je pense qu'autrefois en ceste solitude [223],  
+Quelque Esprit⁎ amoureux s'occupoit à l'estude [224],  
+Et je croy que celuy qui fit bastir ce lieu,  
+Faisoit icy des vers à la gloire d'un Dieu.  
+Pour le moins j'ay trouvé sur de vieilles Armoires,  
+Ce Recueil où l'Amour a rangé ces memoires.  
+Il semble que l'Autheur ne les fit imprimer  
+Que pour me faire voir comme je dois aimer.                       
+Dans ce livre tout plein d'agreables meslanges,  
+La Flatterie enseigne à donner des loüanges.  
+On apprend à parler avec des complimens  
+Capables de tromper les meilleurs jugemens.  
+Il est un peu meslé de Sonnets Satyriques :  
+Mais c'est pour condamner ces Amans frenetiques,  
+Qui ne veulent jamais recevoir d'autre loy⁎,  
+Encore qu'on rejette et qu'on blasme leur foy⁎.  
+Tel est en mon endroit [225] cet obstiné Lyzene [226],  
+Dont l'Amour s'est rendu coulpable de ma haine,  
+Tant il est déplaisant, et tant j'ayme celuy  
+Que je dois par dessein⁎ obliger⁎ aujourd'huy. [227]  
+J'ay choisi dans ces Vers une sorte de style [228],  
+Où [229] Lyzene verra sa recherche inutile :  
+En un mesme fueillet j'ay trouvé ce qu'il est,  
+Et combien en son lieu [230] Policaste me plaist :  
+Mais les voicy tous deux à propos.  
+
+    LYZENE.    
+                C'est merveilles⁎  
+De voir une Beauté qui n'a point⁎ de pareille.  
+
+    AGARITE.
+Vous pouvez bien aussi [231] vous tromper en ce point⁎.  
+
+    POLICASTE.
+Ha ! nous sommes d'accord, que vous n'en avez point⁎.  
+
+    AGARITE.
+Peu s'en faut que tous deux je ne vous desadvouë.  
+
+    POLICASTE.
+Si vous ne voulez pas que personne [232] vous louë,  
+Je ne sçay comme il faut vous faire un compliment.  
+
+    AGARITE.
+Lisez où j'en estois, et vous sçaurez comment.  
+
+    POLICASTE.
+Sonnet, d'un Gentilhomme aymé de sa Maistresse⁎.  
+
+    LYZENE.
+Celuy-là meritoit d'estre mis sur la Presse⁎,                      
+Acheve Policaste, il semble que l'Autheur  
+Eut dessein⁎ là dedans de parler du Lecteur.  
+
+    POLICASTE.
+Celle que je cheris ne rougit point⁎ de honte,  
+Quand je prens sur sa bouche un amoureux baiser,  
+Et si quelque rougeur sur sa face luy monte  
+Elle provient d'un feu⁎ que je sçais attiser.  
+Souvent entre ses bras, il faut que je luy conte,  
+D'où peut naistre ce feu⁎ qui nous vient embraser,  
+Et quand c'est tout de bon [233] que l'Amour nous surmonte [234],  
+Ceste flame⁎ s'accroist au lieu de s'appaiser.  
+Alors pour adoucir mes amoureuses peines⁎  
+Et rafraischir le sang qui me boult dans les veines,  
+Elle me fait presser la neige de son sein.                           
+Mais en cette action elle a beau me complaire⁎,  
+La Nature⁎ a formé ses Tetons à dessein⁎  
+Qu'il en sorte du laict, [235] et non pas de l'eau claire.  
+
+    LYZENE.
+Je meure [236], ce Sonnet en sa pointe⁎ me plait, [237]  
+
+    POLICASTE.
+L'eau m'en vient à la bouche, avec ce goust de laict.  
+
+    LYZENE.
+De grace⁎, permettez que j'en trouve un semblable.  
+
+    AGARITE.
+Tournez donc le fueillet, sans chercher à la Table.  
+
+    LYZENE.
+Je suis d'un beau sujet espris si follement,  
+Que je prens à faveur⁎ le desdain et la haine,  
+Celle que je poursuis me hait mortellement                      
+Et si [238] je n'oseroy l'appeller inhumaine.  
+Je fay ce que je puis pour son contentement⁎,  
+Elle ce qu'elle peut pour rengreiger [239] ma peine⁎,  
+Et si je la veux voir une heure seulement,  
+Elle ne me veut voir de toute la semaine.  
+Jamais je n'en auray le plaisir que j'attens :  
+Un autre jouyra [240] du bien⁎ que [241] je pretens,  
+Car alors qu'elle voit mon ame a la torture,  
+Elle irrite mon mal au lieu de le guerir,  
+Et dit en se mocquant des tourmens⁎ que j'endure,  
+Qu'elle m'aymeroit bien, si j'en pouvois mourir.  
+Cela s'addresse à moy, je trouve en ceste page  
+Pour sortir de chez vous un honneste passage. [242]  
+Adieu la belle Adieu : vous avez de l'esprit⁎  
+De me donner ainsi mon congé par escrit.  
+
+    AGARITE.
+Policaste va voir, je ne croy pas qu'il sorte,  
+Il nous peut escouter sur le sueil de la porte.                       
+
+    POLICASTE.
+Il est desja bien loing,  
+
+    AGARITE.
+            laisse le donc courir,  
+Ce n'est pas avec luy que je veux discourir.  
+
+    POLICASTE.
+Je crains que de colere il descouvre la vie [243]  
+Que nous faisons tous deux,  
+
+    AGARITE.
+                Il crevera d'envie [244]  
+Plustost que d'en parler : car un sot amoureux  
+Espere tost ou tard de se voir bien heureux   
+Et ne s'offense point⁎ quelque mal qu'on luy fasse.  
+
+    POLICASTE.
+Je serois bien fasché [245] si j'estois à sa place.  
+
+    AGARITE.
+Je n'ay garde, [246] mon cœur de te desobliger⁎,  
+
+    POLICASTE.
+Ce seroit le moyen de me bien affliger.  
+
+    AGARITE.
+Que jamais ce penser n'interrompe nostre aise, [247]  
+
+    POLICASTE.    
+Pour n'y penser jamais, permets que je te baise.  
+
+    AGARITE.
+Pourveu qu'en tout honneur⁎.  
+
+    POLICASTE.
+                Je ne demande rien.  
+Autre chose, d'honneur⁎, je ne veux que le tien. [248]  
+
+    AGARITE.
+Tu t'émancipes trop de parler de la sorte.  
+
+    POLICASTE.
+Ha ! que tu cognois⁎ mal [249] l'amour que je te porte.  
+
+    AGARITE.
+Apres un doux baiser ne demande rien plus [250],  
+Je hay plus que la mort ces plaisirs dissolus.  
+
+    POLICASTE.
+Je ne veux point⁎ passer [251] ou le sein ou la bouche.  
+Mignarde [252] ne crains point⁎ qu'autre part je te touche. [253]  
+
+    AGARITE.
+C'est trop recommencer : ha ! je me fascheray.  
+
+    POLICASTE.
+Je n'en veux plus qu'un autre, et puis je m'en iray.  
+
+    AGARITE.    
+Despeschez-vous : je crains que Lyzene revienne.  
+
+    POLICASTE.
+Adieu, je prens ton livre, afin qu'il t'en souvienne.  
+
+    AGARITE.
+Agreable maison mon honneur⁎ est chez toy,  
+Beaucoup plus seurement qu'à la ville où j'estoy.  
+Il est vray qu'en ce lieu je suis comme captive,  
+Mais l'Amour encourage une fille craintive ;  
+Et ce qui me console en ma captivité,  
+Est de voir Policaste en toute liberté :  
+Son entretien me plaist en ce lieu solitaire [254],  
+Plus que tous les honneurs⁎ qu'un Roy me pouvoit faire.  
+Et certes [255] desormais l'amour qu'il a pour moy  
+Me fait hair la Cour [256] autant que je l'aymoy.  
+ACTE II.
+
+
+### Scene II.
+Lyzene, Corintie, Celidor.                 
+
+
+    LYZENE. 
+Malgré ses cruautez je luy seray fidelle⁎,  
+Ma sœur [257] ne parle point⁎ de son pere, ny d'elle,  
+Peut-estre qu'à la fin.  
+
+    CORINTIE.
+            Elle se resoudra  
+De prendre le party que son Pere voudra,  
+Medon depuis long temps cognoist⁎ nostre famille.  
+
+    LYZENE.
+En tout cas je m'en vay luy demander sa fille :  
+Adieu, si je l'espouse on te viendra querir.  
+
+    CORINTIE.
+Je ne sçay quoy, me dit qu'on le fera mourir,  
+Mais je n'oserois pas luy conter ce presage :  
+Et d'ailleurs pour le croire, il n'est pas assez sage :               
+Dieu vueille qu'aucun mal ne luy puisse arriver.  
+Cependant [258] Celidor me doit venir trouver,  
+Et pourveu qu'à chasser il ne s'arreste guere, [259]  
+Nous sçaurons mesnager l'absence de mon Frere.  
+Courage⁎, le voicy, j'entends⁎ un Cor d'argent [260],  
+Son Veneur [261] ce matin est assez diligent,  
+Afin qu'aucun des siens ne le puisse distraire,  
+Je m'en vay luy monstrer le signal ordinaire.  
+Quand je mets un bouquet sur ma fenestre, alors  
+Il est bien asseuré que mon Frere est dehors.  
+O qu'heureuse me fut sa premiere visite !  
+Il me trouva n'aguere en cherchant Agarite,  
+Et je luy pleus si fort qu'à la faveur⁎ des bois,  
+Il est venu depuis me revoir plusieurs fois.  
+
+    CELIDOR.
+Beaux yeux qui m'arrestez le matin quand je passe,  
+Et me faites quitter le plaisir de la Chasse,  
+C'est icy que de vous je reçois le bon jour,                       
+Et non pas du Soleil qui luit sur ceste Tour.  
+
+    CORINTIE.
+Si comme le Soleil je reglois les journées,  
+Celles-cy croyez-moy dureroient des années.  
+
+    CELIDOR.
+Celle par [262] qui je compte et les jours et les nuicts,  
+Peut bien croistre [263] ma joye, et finir [264] mes ennuis⁎.  
+
+    CORINTIE.
+Ne vous en mocquez pas une personne absente  
+Pourra rendre vostre ame et la mienne contente.  
+
+    CELIDOR. 
+Hé Dieu ! seroit-ce bien vostre Frere ?  
+
+    CORINTIE.
+                    C'est luy.  
+
+    CELIDOR.    
+Mais quoy ! ne doit-il pas retourner [265] d'aujourd'huy ?  
+
+    CORINTIE.
+Possible de [266] huict jours.  
+
+    CELIDOR.
+            O favorable absence !  
+Donne nous desormais un peu plus de licence⁎.  
+
+    CORINTIE.
+Il faut croire qu'un Dieu nous procure ce bien⁎,  
+Pour unir à ce coup⁎ vostre cœur et le mien.  
+Vous sçavez que mon ame est unie à la vostre,  
+Il n'est point⁎ d'amitié⁎ [267] qui ressemble [268] la nostre.  
+
+    CORINTIE.
+En ce parfait amour une difficulté [269]  
+M'empesche de gouster nostre felicité.  
+
+    CELIDOR.
+Quelle difficulté vous empesche de rire ?  
+
+    CORINTIE.    
+Je n'ose descouvrir ce que mon cœur desire.  
+
+    CELIDOR.
+Me taire tel secret⁎ [270], c'est me faire un affront.  
+
+    CORINTIE.
+Il se fait voir assez lisez-le sur mon front.  
+
+    CELIDOR.
+Vrayment, puisque l'Amour se lit en vostre face  
+Comme une vive flame⁎ en une belle Glace,  
+Je vay parler si haut [271] de vos rares⁎ beautez  
+Que je vous raviray si vous les escoutez.  
+Ceste Gorge d'appas⁎, et de graces⁎ pourveuë,  
+Est le plus bel object⁎ qui contente⁎ ma veuë.  
+Voire, [272] si la Beauté s'appelle proprement [273]  
+Une chose que l'œil cognoist⁎ parfaictement,  
+Il faut avec les yeux m'oster la cognoissance,  
+Ou croire que de vous mon amour prend naissance.  
+Au reste, qui ne voit que vos yeux ravissans  
+Pour attirer les cœurs ont des charmes⁎ puissans ?  
+Ils jettent dans les miens de petites bluettes⁎,                      
+Et des langues de feu⁎ qui ne parlent muettes : [274]  
+Les astres prennent tous leur clairté de la leur : [275]  
+C'est d'eux que le Ciel emprunte sa couleur.  
+Mais nul à mon advis ne doit trouver estrange⁎  
+Qu'ils soient de bleu celeste au visage d'un Ange.  
+
+    CORINTIE.
+Que vous estes flatteur⁎ !  
+
+    CELIDOR.
+            Voila trop m'offenser [276]  
+
+    CORINTIE.
+De parler autrement que vous n'osez penser.  
+
+    CELIDOR. 
+Ha ! vous le payerez,  
+
+    CORINTIE.
+            Tout beau [277] je vous supplie.  
+
+    CELIDOR.
+Il faut, [278]  
+
+    CORINTIE.
+    Arrestez-vous : Hé Dieu ! quelle folie.  
+
+    CELIDOR.    
+Quand l'ame par les yeux exprime ses desirs  
+Pourquoy priver le corps de ses menus plaisirs ?  
+
+    CORINTIE.
+Ha ! que vous estes fin.  
+
+    CELIDOR.
+            Quelle grande finesse  
+Trouvez -vous [279] en l'humeur⁎ d'une simple jeunesse ?  
+
+    CORINTIE.
+Vous taschez de venir, [280]  
+
+    CELIDOR.
+            Achevez sur un poinct⁎.  
+
+    CORINTIE.
+Où sans doute (Beau-fils) vous n'arriverez point⁎.  
+
+    CELIDOR.
+Possible [281] qu'au jardin dessous un beau fueillage,  
+Vous laisserez la fleur de vostre Pucelage.  
+
+    CORINTIE.    
+Ha ! vous ferez beaucoup d'obtenir un baiser. [282]  
+
+    CELIDOR.
+Allons, je ne suis plus en humeur⁎ de causer.  
+ACTE II.
+
+
+### Scene III.
+Policaste, Agarite, le cocher.                 
+
+
+    POLICASTE.
+Celuy qui n'ayme pas n'est pas digne de vivre,  
+J'ay marqué ce beau traict⁎ fueilletant vostre Livre.  
+
+    AGARITE.
+Où l'avez-vous laissé ?  
+
+    POLICASTE.
+            Dedans mon Cabinet [283].  
+
+    AGARITE.
+Vous ne lirez donc point⁎ maintenant de Sonnet.  
+
+    POLICASTE.
+Non, mais je pourray lire en plus beaux caracteres  
+Les merveilles⁎ d'Amour [284] et ses divins mysteres.                   
+Où sçaurois-je mieux voir sa puissance qu'en vous ?  
+Elle y paroist escrite en un stile si doux,  
+Qu'il n'est Esprit⁎ humain qui me la puisse apprendre  
+Comme un si beau sujet me la peut faire entendre⁎.  
+
+    AGARITE.
+Tout-beau vous me feriez entrer en vanité  
+Reprenez le discours⁎ que vous avez quitté.  
+
+    POLICASTE.
+Je disois que ceux-là sont indignes de vivre  
+Qui censurent l'Amour, ou ne l'osent pas suivre [285] ;  
+Si je suis amoureux, ne vous en estonnez⁎,  
+Ce n'est que pour aymer que nous sommes tous nez,  
+Et je croy que les Dieux seroient ce que nous sommes,  
+Si l'on aymoit au Ciel à la façon des hommes.  
+
+    AGARITE.    
+Vous voulez donc conclure, afin de me charmer⁎,  
+Qu'il n'est point⁎ de plaisir  
+
+    POLICASTE.
+                Plus grand que de s'aymer.  
+C'est le souverain [286] bien⁎ des personnes bien nées.  
+
+    AGARITE.
+Passons donc en aymant nos meilleures années.  
+
+    POLICASTE.
+Vivons, vivons contents [287], mais que mal à propos  
+Celuy-cy vient troubler nostre amoureux repos [288].  
+
+    AGARITE.
+Ha ! c'est nostre Cocher : et bien quelle nouvelle  
+A la ville ?  
+
+    POLICASTE. 
+Il me faut retirer d'aupres d'Elle.  
+
+    LE COCHER.
+Monsieur m'a commandé de vous venir querir,  
+Et depuis mes chevaux n'ont cessé de courir :                       
+Il vous escrit [289] ce mot.  
+
+    AGARITE.
+            monstre que je le voye.  
+O le mauvais conseil⁎ que mon Pere m'envoye !  
+Cocher, fay tout le moins [290] repaistre tes chevaux.  
+Dieux, tousjours les Amans auront-ils des Rivaux ?  
+
+    POLICASTE.
+Entendez⁎-vous parler de Lyzene ?  
+
+    AGARITE.
+                mon Pere  
+Me le fait espouser, cela me desespere.  
+
+    POLICASTE.
+L'apparence [291] qu'absente on vous puisse obliger⁎ ?  
+Un Pere ne le peut, mais il y faut songer.  
+
+    AGARITE.
+Si je n'ay qu'un lourdaut [292], le moyen que je l'ayme [293].  
+Lyzene, couvert d'or sera tousjours luy-mesme :  
+Il sera tousjours tel que je l'ay recogneu [294],                      
+Ha ! j'ayme mieux avoir Policaste tout nu.  
+
+    POLICASTE.
+Escoutez le conseil⁎ que l'amour me suggere  
+J'ay trouvé le moyen de tromper vostre Pere :  
+Mais il faut que ce soit bien avant dans la nuict,  
+Et lors qu‘és [295] grands chemins on n'entend⁎ plus de bruit⁎ :  
+En sortant de la ville on voit sur la Riviere  
+Un Clocher ruineux [296] dedans un Cymetiere,  
+C'est le lieu plus commode [297] où peut s'executer  
+Le glorieux⁎ [298] dessein⁎ que je viens d'inventer.  
+
+    AGARITE.
+Tousjours vous inventez quelque ruse gentille [299].  
+
+    POLICASTE.
+Vous sçavez comme on danse aux nopces d'une fille [300].  
+Le soir estant venu qu'espere mon Rival,  
+Il vous faut esquiver de la Presse⁎ du Bal.  
+Quand vous serez venuë à la rive du fleuve,  
+Où dans le mesme temps il faut que je me treuve,                   
+Vous lairrez [301] vos habits, où [302] durant les chaleurs  
+Ceux qui se vont baigner se despoüillent des leurs.  
+Le monde qui verra cet indice funeste⁎,  
+Pourra s'imaginer facilement le reste,  
+Et croira que d'ennuy, de rage et desespoir,  
+Vous vintes vous noyer à quelque heure du soir.  
+Tandis [303] à la faveur⁎ de l'Ombre et des Estoilles,  
+Je vous auray conduit [304] à rames et à voiles, [305]  
+Jusques dans une Place, où mon Pere autrefois,  
+A souffert des assauts, et des sieges de Rois,  
+Là nous pourrons tous deux finir nos destinées [306],  
+Ou du moins nous aymer durant longues années [307].  
+
+    AGARITE.
+Je trouve aucunement [308] ce dessein⁎ hazardeux [309]  
+Toutesfois l'entreprise est heureuse à tous deux.                   
+Mon cœur asseurez-vous [310] que l'affaire est concluë,  
+Adieu, c'est assez dit, m'y voilà resoluë.  
+ACTE II.
+
+
+### Scene IV.
+Le Roy, Celidor.                         
+
+
+    LE ROY.
+Je ne m'estonne⁎ pas si tes gens n'ont rien fait  
+Et si tu n'as pas mis ta promesse en effect⁎,  
+Tu n'avois pas moyen de trouver ceste Belle,  
+Puisque son Ravisseur est en ville avec elle.  
+Or bien que ta poursuitte [311] ait fort mal reüssi,  
+Tu peux sçavoir le bruit⁎ qu'on en fait courre icy :  
+On dit que le Seigneur qui la tenoit n'aguere,  
+Afin de l'espouser est venu vers le Pere,  
+Et que du rapt commis luy demandant pardon,  
+Il a flechy le cœur du bon-homme Medon  
+Tellement que [312] bien-tost la nopce se doit faire,  
+Pour couvrir [313] ce forfaict d'un amour volontaire [314].  
+
+    CELIDOR.
+En ce rapt vous avez le plus grand interest⁎  
+C'est un crime public, *Sire*, je suis tout prest                      
+D [315]'exterminer l'Autheur d'une faute si grande.  
+
+    LE ROY.
+Celidor, c'est aussi ce que je te commande,  
+Quand tu verras le soir de la nopce approcher,  
+Une heure auparavant [316] qu'on s'en aille coucher,  
+Il le faut. [317]  
+
+    CELIDOR.  
+        C'est tout dire. [318]  
+
+    LE ROY.
+                Et ravir l'Espousée.  
+
+    CELIDOR.
+*Sire* je voy desja l'affaire bien aisée.  
+
+    LE ROY.
+Escoute, si tu fais ce coup⁎ là dextrement,  
+Juge⁎ que [319] peut un Roy qui t'ayme uniquement [320].  
+
+    CELIDOR. 
+Pourveu que ses faveurs⁎ soient un peu de durée,  
+Je verray pour long temps ma fortune⁎ asseurée.  
+Tandis qu' [321]un Gentil-homme a l'oreille d'un Roy [322],              
+A tous ses [323] courtisans il impose la Loy⁎,  
+Mais au premier revers de la moindre disgrace  
+Chacun la luy veut faire [324] et se mettre en sa place,  
+De sorte qu'à la Cour, dés la premiere fois,  
+Il se faut bien servir de la bonté des Rois.  
+
+
+## ACTE III.                         
+
+
+### Scene premiere.
+Medon, Lyzene, Agarite, Corintie.
+
+
+    MEDON.
+Le sacré mariage unit l'homme et la femme,  
+D'un nœud comme celuy qui joint le corps et l'ame,  
+Et l'anneau conjugal qui les serre est si fort  
+Que leur chaste amitié⁎ dure jusqu'à la mort.  
+Ainsi de temps en temps le monde multiplie [325]  
+Et la loy⁎ de nature⁎ [326] est tousjours accomplie,                   
+Par elle on voit tousjours les peres rajeunir,  
+Et l'on ne voit jamais les familles finir,  
+Mais il vaut mieux entrer dans quelque Monastere,  
+Et mourir [327] tous les jours dans une vie austere  
+Que d'estre mal ensemble et de s'injurier,  
+Pour avoir un sujet de se demarier.  
+Depuis que la discorde entre dans un mesnage,  
+On y passe à regret le reste de son âge,  
+Et le contentement⁎ qu'on y [328] devroit avoir  
+Se change en une horreur que l'on a de se voir.  
+Agarite je croy que vous estes bien aise,  
+Que Lyzene aujourd'huy vous caresse et vous baise.  
+Mais il luy faut monstrer un visage gaillard, [329]  
+Prenez exemple à [330] moy qui ne suis qu'un vieillard,  
+De l'aise que j'en ay, j'ay quitté la callotte [331],  
+Et bien-tost pour danser je vay prendre la botte,  
+Afin de tesmoigner aux hommes de mon temps  
+Que je retourne encore à l'aage de vingt ans.  
+
+    LYZENE.    
+Est ce que vous craignez quelque trait⁎ de malice,  
+Quand nous serons tous deux en l'amoureuse lice ?  
+Il n'en faut pas rougir, et cet œil rigoureux  
+Ne se doit offencer d'un langage⁎ amoureux.  
+
+    AGARITE.
+Excusez mon humeur⁎, je suis ainsi nourrie [332].  
+
+    LYZENE.
+Je vous adouciray.  
+
+    AGARITE.
+        Laissez moy je vous prie.  
+
+    MEDON.
+Volontiers [333] qu'elle songe aux prises [334] qu'à [335] ce soir  
+Vous aurez avec elle et vous le pouvez voir.  
+
+    LYZENE.
+Est-il vray.  
+
+    AGARITE.
+Je ne sçay.  
+
+    MEDON.
+            Tu ne l'oses pas dire.  
+
+    LIZENE.    
+Elle a bien de la peine⁎ à s'empescher de rire.  
+
+    AGARITE.
+Je n'en ay point⁎ d'envie, au moins avecques vous.  
+
+    LIZENE.
+C'est que vous me craignez en qualité d'époux [336],  
+Mais ne vous arrestez sur de telles pensees,  
+Vos apprehensions seront bien-tost passees.  
+
+    CORINTIE.
+Causeur promettez moins et la payez comptant.  
+Faites-en davantage et n'en dites pas tant.  
+
+    MEDON.
+Ces rencontres⁎ gaillards [337] abbregent les journees  
+Et pourroient de beaucoup prolonger mes annees.  
+Sus [338] allons de bon cœur recevoir nos amis,  
+Et leur donnons le bal que je leur ay promis.  
+ACTE II.
+
+
+### Scene II.
+Policaste, vestu en battelier, Agarite.                 
+
+
+    POLICASTE. 
+Nymphes ne trouvés point⁎ ce changement estrange⁎,  
+Ce n'est qu'en vestemens que j'affecte le change⁎,  
+Et puis je suis de ceux que vous favorisez⁎,  
+Vos amoureux Bergers sont ainsi deguisez,  
+Et je croy que ceux-là ne sçavent pas leur monde,  
+Qui ne font le mestier que je fay dessus l'onde,  
+Icy vos claires eaux me servent de miroir  
+Pour plaire à vos beautez que je suis venu voir,  
+Mais quoy sans y penser je caresse des Fées [339]  
+Couvertes de roseaux et de saules coiffées,  
+Nymphes je m'en dédis je ne vous puis flatter⁎,  
+Agarite croiroit que je la veux quitter,  
+Elle en seroit jalouse, et diroit à part elle, [340]  
+Que je serois espris d'une flame⁎ nouvelle,                       
+Ou du moins que le feu⁎ qui me brûle en aimant  
+Se pourroit amortir dedans vostre élement,  
+J'aime mieux vous laisser que de la mettre en peine⁎,  
+Tandis [341] courez [342] tousjours afin que je l'emmeine,  
+Ou plutost retenez pour un temps mon batteau,  
+Je m'en vay la treuver sur la rive de l'eau,  
+Dieux ! qu'il fait desja noir, la campagne deserte  
+En un crespe de dueil change sa robbe verte :  
+Il fait clair dessus [343] l'eau, mais ce petit faux jour  
+Ne me peut enseigner les chemins d'alentour.  
+Je rencontre à tastons des murailles de brique,  
+C'est je pense la tour de ce clocher antique [344],  
+Où j'estois obligé⁎ [345] de me rendre à ce soir ;  
+Voicy les monumens [346] où je me dois asseoir.  
+Tombeaux, où les Defuncts sont pourris de vermine, [347]  
+Sepulchres démolis que la Riviere mine,  
+Reliques du vieux Temps où les flots courroucez  
+Deterrent quelquesfois les pauvres Trespassez.  
+Piliers d'Antiquitez, vieilles Poutres, Masures [348] :                   
+Je vous remarqueray [349] dedans mes advantures⁎,  
+Et sur vos fondemens j'esleveray des Tours,  
+Que l'on verra durer autant que mes Amours,  
+Dans l'horreur [350] de la nuit je vous rendray celebres  
+Et vous feray paroistre au milieu des tenebres :  
+Vos pierres parleront de ma fidelité⁎,  
+Je les feray cognoistre⁎ à la Posterité.  
+Et bien que leur hauteur ne surpasse les arbres,  
+Elles dureront plus que les Palais de marbres,  
+Mais qu'Agarite est longue à me venir trouver  
+Elle est cause qu'icy je m'amuse [351] à resver.  
+O Ciel ! si les flambeaux [352] ne percent le nuage  
+Qui s'estend sur la terre et te couvre d'ombrage,  
+Le moyen [353] qu'elle vienne en ces lieux escartez ?  
+Toutesfois si tes feux⁎ nous monstroient leurs clartez  
+Quelqu'un la pourroit voir en passant dans les rues.  
+Donc ô flambeaux des Cieux ne dissipez les nuës,  
+Ne chassez de la nuict que les spectres hideux,  
+Qui peuvent à present nous effrayer tous deux.  
+Sorciers, allez bien loing allumer vos bougies,                       
+Et courez autre part faire voir vos magies.  
+Vous Fantosmes errans qui n'avez point⁎ de corps,  
+N'en prenez point⁎ icy dans les bieres des morts.  
+Et toy Dieu du repos et des songes nocturnes,  
+Afin de m'assoupir en ces lieux taciturnes,  
+Sur mes yeux languissans fay glisser le sommeil,  
+Et puis en t'en allant fay venir mon Soleil. [354]  
+Las [355] ! pour ce que [356] la nuict est mere du Silence,  
+Il semble qu'en parlant je luy fay violence,  
+Ou que je veux forcer [357] ceste fille de l'Air,  
+Que les murs seulement peuvent faire parler. [358]  
+Et bien, c'est pour le mieux que je voy toute chose  
+Se taire en ce quartier, afin que je repose.  
+**Agarite** en ce lieu je vay penser à toy.  
+Encore que desja tu me manques de foy⁎.  
+Je voy que tes sermens se tournent en mensonge :  
+Mais je m'efforceray de te baiser en songe.  
+Et si de ce tombeau je ne me leve pas,  
+Dy [359] qu'au lieu du sommeil j'ay trouvé le trépas.  
+
+    AGARITE.
+On n'entend⁎ plus de bruit⁎ dans les places publiques,  
+Tous les Gens de Mestiers [360] ont fermé leurs boutiques.  
+Le Guet [361] ne marche plus chacun est en repos.  
+Pouvois-je de chez nous sortir plus à propos ?  
+Non certes : mais pourtant une chose m'attriste,  
+A trouver les chemins ma Fortune⁎ consiste,  
+Et le Ciel est si plein de brouïllards, que la nuit  
+En me favorisant⁎ de son Ombre me nuit.  
+O Dieux ! que la campagne est pleine de Tenebres !  
+Que d'images⁎ affreux [362], et de songes funebres !  
+J'ay peur à chaque pas de l'ombre qui me suit,  
+Et je crains en parlant de faire trop de bruit⁎ :  
+Si je ferme les yeux, mon ame est offensée [363],  
+De celle d'un Defunt qui m'entre en la pensée.  
+Amour, vas-tu la nuit sans prendre ton flambeau ?  
+Voy-tu pas [364] que la peur me va mettre au Tombeau ?  
+Je te prie ayde moy d'un rayon de lumiere.  
+A ce coup⁎ je cognois⁎ qu'il entend⁎ ma priere :  
+Ces petits Feux⁎ Ardens qui font un peu de jour,                   
+Ne peuvent estre nez que du flambeau d'Amour :  
+On dit que ces Feux⁎-là menent vers les Rivieres,  
+Quand pour se faire suivre ils charment⁎ nos paupieres.  
+Mais je le sçauray bien, je m'en vay l'esprouver⁎     
+Sur la rive du Fleuve, où je dois arriver.  
+Toutesfois en suivant ces bluettes⁎ errantes,  
+Si je me laissois choir dans les ondes courantes,  
+Qui pourroit dedans l'eau me venir secourir ?  
+Ma flame⁎ seroit lors [365] en danger de mourir,  
+Et l'on verroit icy tous les jours Polycaste [366],  
+Qui me reprocheroit d'estre morte si chaste.  
+Ne suivre point⁎ aussi le chemin où je suis,  
+Ce n'est pas m'esloigner de la mort que je fuis [367] :  
+Puis que celuy que j'ayme est sur le bord des ondes,  
+Où me veulent mener ces flame⁎ vagabondes,  
+Sans doute [368] si je veux me rendre sur le port,  
+Je trouveray ma vie où [369] je crains tant la mort.  
+Ha ! c'est trop consulter⁎ une affaire pressée [370],  
+La crainte que j'avois est à demy passée.  
+Mais j'entens⁎ sous mes pieds des os s'entrechoquer.              
+La mort en cet endroit me veut-elle attaquer ?  
+Je ne m'estonne⁎ point⁎ de son images⁎ blesme,  
+Par les fléches d'Amour elle meurt elle-même.  
+Cependant, quand j'y pense il semble que j'ay peur ?  
+Helas ! c'est de trouver Policaste trompeur [371].  
+Qu'est-ce à dire ? vrayment pourveu que je le treuve ;  
+De sa fidelité⁎ je ne veux autre preuve.  
+La Mort et le sommeil n'ont qu'un lict pour tous deux,  
+Aupres de quelque tombe il repose avec eux.  
+Il le faut appeler. Dieux ! tout nous favorise⁎  
+Et tous les elemens consultent⁎ de ma prise [372].  
+J'entends⁎ pour [373] mon sujet les vents se quereller  
+A qui repoussera les injures⁎ de l'air.  
+Le Ciel en ma faveur⁎ est couvert d'un grand voile,  
+Il ne voit que d'un œil, je ne voy qu'une estoile.  
+Les flots disent entr'eux qu'ils me veulent servir,  
+Et la terre consent qu'ils me viennent ravir.  
+Paresseux es-tu sourd es-tu mort sur la rive                      
+Si tu l'es, c'en est fait, il faut que je te suive.  
+Neantmoins un baiser te peut resusciter.  
+
+    POLICASTE. 
+La riviere s'arreste afin de l'escouter.  
+C'est elle mais je veux la tenir en haleine  
+Le plaisir est plus grand avec un peu de peine⁎.  
+
+    AGARITE.
+Policaste, respons tu n'es point⁎ endormy.  
+Ou pour le moins sans moy tu ne l'es qu'à demy  
+
+     POLICASTE.
+Ingrate, desloyale, et cruelle⁎ maistresse⁎.  
+
+    AGARITE.
+He ! mauvais à la fin j'ay tenu ma promesse.  
+
+    POLICASTE.
+Tu ne viens qu'en esprit⁎ et pour me faire peur.  
+
+    AGARITE.
+Je reduiray bien-tost cette crainte en vapeur.  
+
+    POLICASTE.
+Tu visites les morts pour en croistre le nombre.  
+
+    AGARITE.    
+Resveur, asseurément, tu me prens pour une Ombre :  
+Mais je vay te heurter au rencontre⁎ si fort,  
+Que tu diras. [374]  
+
+    POLICASTE.
+        Hé Dieu ! je croyois estre mort.  
+
+    AGARITE.
+Au moins jusques icy tu ne m'as pas cognuë⁎.  
+
+    POLICASTE.
+C'est que je n'ay pas creu que tu fusses [375] venuë.  
+
+    AGARITE.
+Et moy, bien que le jour ne soit pas arrivé,  
+J'ay cognu⁎ Policaste et si [376] je l'ay trouvé.  
+
+    POLICASTE.
+Il nous reste mon cœur de [377] prevenir l'Aurore  
+Nous sommes asseurez qu'elle sommeille encore.  
+
+    AGARITE.
+J'entends⁎ comme tu sçais luy donner mes habis,  
+Et ne me veux laisser ny perles ny rubis.  
+
+    POLICASTE.
+Que le jour sera beau si l'Aurore se pare  
+Des habis somptueux d'une beauté si rare⁎.  
+Mais laisse là ta coiffe et ton masque [378] ennuyeux, [379]                   
+Ceste nuit le serain [380] ne fait point⁎ mal aux yeux.  
+
+    AGARITE.
+Puisque tu me previens en ce loüable office,  
+Ayde [381] à me devestir, mais ne songe malice.  
+
+    POLICASTE.
+Mon ame le moyen [382] de t'ayder à tastons ?  
+La main en ce devoir est si prés des tetons,  
+Qu'on ne peut. [383]  
+
+    AGARITE.
+        Laisse moy. [384]  
+
+    POLICASTE.
+                Pourquoy te laisseray-je ?  
+Miracle ! j'ay trouvé sur deux pommes de neige  
+Deux petits glands de feu⁎. [385]  
+
+    AGARITE.
+                Sois sage.  
+
+    POLICASTE.
+                    En cet endroit.  
+Comme [386] peux-tu sentir plus de chaud que de froid ?  
+
+    AGARITE.    
+Mon Dieu ! que faisons nous si long temps sur la rive,  
+J'apprehende le jour.  
+
+    POLICASTE.
+        Ne crain [387] point⁎ qu'il arrive.  
+
+    AGARITE.
+Les eaux ne coulent pas si viste que le temps. [388]  
+
+    POLICASTE.
+Tu verras à la fin [389] que nous serons contens.  
+
+    AGARITE.
+Despeschons.  
+
+    POLICASTE.
+        As-tu fait. [390]  
+
+    AGARITE.
+                Allons me voila preste.  
+
+    POLICASTE.
+Afin que le serein [391] ne te nuise à la teste,  
+Entre dans la cabane [392] et laisse-moy ramer.  
+
+    AGARITE.
+Au moins que ce basteau n'aille point⁎ dans la mer.  
+
+    POLICASTE.    
+Peureuse nous n'irons que dans la place forte,  
+Où le vent est d'accord que [393] ce fleuve nous porte.  
+
+    AGARITE.
+J'ay peur que cet accord ne tienne.  
+
+    POLICASTE.
+                Pour le moins  
+En le voulant passer ils ont pris deux tesmoins.  
+
+    AGARITE.
+Je meure [394]… la riviere est bonne larronnesse [395].  
+
+    POLICASTE.
+Comment. [396]  
+
+    AGARITE.
+        Pour me ravir elle use de finesse,  
+Je n'entends⁎ plus le bruit⁎ de son flus et reflus.  
+
+    POLICASTE.
+Ayant ce qu'elle veut elle n'en parle plus.  
+ACTE II.
+
+
+### Scene III.
+Medon, Lizene, Corintie.                
+
+En ceste Scene est representé le Balet des Quatre-vents, lequel est dansé pour faire tuer Lyzene le soir de ses nopces par un stratageme inventé par Celidor.
+
+
+    MEDON.
+Il faut voir ce Balet.  
+
+    LIZENE.
+            Je commence d' [397]entendre⁎  
+Le son des instrumens.  
+
+    MEDON.
+            Prenons place mon Gendre.  
+
+    CORINTIE.
+Les voicy j'entrevoy la clairté d'un flambeau.  
+
+    LIZENE.
+Chacun dit que la Cour n'a rien veu de si beau.  
+
+    MEDON.    
+A propos il faudroit appeller l'espousée.  
+
+    LIZENE.
+La mauvaise me fuit de peur d'estre baisée.  
+
+    CORINTIE.
+Les Dames maintenant [398] parloient de la coucher.  
+
+    MEDON.
+Possible [399] que pour rire elles la font cacher.  
+
+    CORINTIE.
+Prenez garde Monsieur ils sont tous à la porte.  
+
+    MEDON.
+N'ont-ils point⁎ de cartel [400].  
+
+    LIZENE.
+                Le voicy qu'on l'apporte. [401]  
+
+    CORINTIE.
+Mon frere je les voy.  
+
+    MEDON.
+            Lyzene je ne puis  
+En faire la lecture à la place où je suis.  
+
+    LIZENE.
+Donnez-moy. [402]  
+
+    MEDON.
+        Quel plaisir en auroient les Poëtes  
+Si pour lire des Vers je prenois mes lunettes.                       
+
+    LIZENE.
+
+Des quatre coins de l'Univers,  
+Où chacun de nous quatre a choisi sa demeure,  
+D'habits tous differens et de plumes couvers,  
+Nous sommes venus dans une heure [403].  
+
+Par nostre souffle seulement  
+Nous esprouvons⁎ en quoy nostre force consiste,  
+Remuant toute chose aussi facilement  
+Que le moulin qui nous resiste.  
+
+En cette Province arrivans,  
+Nous monstrons que c'est nous qui possedons [404] les Dames,  
+Car puisque leurs esprits⁎ se tournent à tous Vents,  
+Nous pouvons tout dessus leurs Ames.  
+
+Pour nous garantir du trespas  
+Que nous pourroient causer leurs œillades mortelles,  
+Nous n'allons que la nuict et pour ne les voir pas                  
+Nous tuons toutes les chandelles.  
+
+Les pistollets que nous avons  
+Representent l'esclair, la foudre et le tonnerre  
+Et nos vases pleins d'eau monstrent que nous pouvons  
+Faire pleuvoir dessus la terre.  
+AUX DAMES.
+
+Beaux sujets paroissez hardiment,  
+Les Vents que vous voyez n'enrhument point⁎ les Dames,  
+Ils les couvrent fort bien et souflent seulement  
+Dans leur sein amoureux [405] des souspirs et des flames⁎.  
+Ce sont les Quatre-vents que nous verrons danser, [406]  
+
+    MEDON.
+C'est assez taisons-nous, car ils vont commencer.  
+Icy se danse le Ballet
+
+
+    CELIDOR *masqué representant l'un des Quatre-vents, le Balet finy dit les vers suyvants.*    
+Amis le coup⁎ est fait, avant qu'il resuscite [407]  
+Un autre jouyra des amours d'Agarite.  
+Cependant [408] sauvons-nous puisqu'on ne peut trouver  
+La belle qu'à ce soir je voulois enlever.  
+
+    MEDON.
+Ce balet sur la fin me deplaist de ses feintes⁎,  
+Quelqu'un rallumez nous les chandelles esteintes, [409]  
+O Dieux ! ce n'est pas feinte⁎.  
+
+    CORINTIE.
+                O Ciel ! tout est perdu,  
+Mon frere aupres de nous est tout roide estendu [410].  
+
+    MEDON.
+O scandaleuse [411] danse !  
+
+    CORINTIE.
+            O nopce infortunée⁎ !  
+
+    MEDON.
+O malheureuse nuict !  
+
+    CORINTIE.    
+            O funeste⁎ journée !  
+
+    MEDON.
+Helas ! je vay sçavoir. [412]  
+
+    CORINTIE.
+            Ha ! je meurs de douleur.  
+
+    MEDON.
+Ce que l'on aura fait de ma fille. [413]  
+
+    CORINTIE.
+                O malheur !  
+Ou plustost perfidie horrible à la memoire !  
+Execrable homicide et dificile à croire,  
+Mon frere ay-je perdu ce nom plein de douceur ?  
+Ne sçaurois-je pour tout m'appeller vostre sœur ?  
+Mon frere encore un mot, un soupir, une œillade.  
+Hé Dieu ! peut-on mourir que [414] l'on ne soit malade,  
+O Cieux ! l'horible coup⁎ ! c'en est fait il est mort,  
+O coup⁎ de trahison ! que tu me fais de tort.  
+
+    MEDON.    
+Bons Dieux ! que ferons nous ma fille est enlevée,  
+Las ! j'ay cherché par tout et ne l'ay point⁎ trouvée.  
+
+    CORINTIE.
+Amis emportés nous dans un mesme cercueil,  
+Venez m'ayder.  
+
+    MEDON. 
+        Allons nous revestir de dueil.  
+
+
+## Acte IIII.                        
+
+
+### Scene premiere.
+Les pescheurs I. et II.
+
+
+    [PESCHEUR]  [415] I.
+Tant que dessus [416] les eaux nous voyons la bonasse [417],  
+Les poissons clairvoyants n'entrent point⁎ dans ma Nasse,  
+Mais apres que les vents ont troublé nos marets [418],  
+Et que l'egout du Ciel inondant nos guerets [419],  
+A coulé dans ce fleuve une espaisse lécive [420]  
+C'est alors qu'il est bon de pescher à la rive.                       
+Hier soir il fit un temps qui coucha nos moissons.  
+Il aura dans l'eau trouble estourdy les poissons.  
+Prenons chacun un Croc qui nous serve de sonde,  
+Pour trouver mon Panier, jusques au fond de l'Onde.  
+
+    [PESCHEUR] II.
+Faisons tout bellement [421] pour le tirer dehors,  
+L'adresse fait autant que la force du corps.  
+
+    [PESCHEUR] I.
+Sens-tu dans le profond [422] nostre nasse ?  
+
+    [PESCHEUR] II.
+                    Courage⁎ !  
+Nous allons voir bien-tost des Anguilles en cage.  
+O la belle ! Compere [423] apprestez nostre seau.  
+
+    [PESCHEUR] I.
+Donne-moy ce poisson qui se bat hors de l'eau.  
+Il est froid comme glace, et luisant comme verre.  
+
+    [PESCHEUR] II.
+Prenez garde, il eschappe à celuy qui le serre.  
+
+    [PESCHEUR] I.    
+Meschante, je m'en vay te percer le gosier  
+Et passer à travers une branche d'Osier.  
+
+    [PESCHEUR] II.
+L'autre jour en raillant, je disois qu'une Anguille  
+Passeroit aisément par le trou d'une aiguille,  
+Et ma femme disoit qu'elle n'en croyroit rien.  
+
+    [PESCHEUR] I.
+Pauvre sot, tu devois la passer dans le sien.  
+
+    [PESCHEUR] II.
+Je vous prie allons boire, et changeons de langage⁎.  
+
+    [PESCHEUR] I.
+Je le veux, allons voir l'Hostesse du Village.  
+Tu mangeras ta part de la pesche  
+
+    [PESCHEUR] II.
+                Vrayment  
+Je l'entens⁎ bien ainsi mon Parrain, autrement,  
+
+    [PESCHEUR] I.
+Garson, voicy de quoy s'estonner⁎  
+
+    [PESCHEUR] II.
+                Au contraire  
+Il se faut resjouyr [424] d'une si bonne affaire.                       
+
+    [PESCHEUR] I.
+Ces habits que tu vois si riches⁎ et si beaux,  
+Me font apprehender sur la rive des eaux  
+Quelque Dame imbecille [425] ou d'amour transportee [426]  
+Pour [427] finir ses ennuis⁎ dans les flots s'est jettée.  
+
+    [PESCHEUR] II.
+Et quoy ! laisserons-nous ces vestemens tous neufs ?  
+Ils nous vaudront l'argent de vingt paires de bœufs,  
+Prenons les.  
+
+    [PESCHEUR] I.
+        Si tu veux que l'on te mene pendre.  
+
+    [PESCHEUR] II.
+Ho ! Ho ! que dites vous je ne veux pas les prendre.  
+
+    [PESCHEUR] I.
+Sçay-tu que [428] nous ferons, retourne à la maison.  
+
+    [PESCHEUR] II.    
+Il vaut mieux s'y tenir que d'aller en prison.  
+
+    [PESCHEUR] I.
+Cependant. [429]  
+
+    [PESCHEUR] II.
+        N'ayez peur que l'on m'en divertisse.  
+
+    [PESCHEUR] I.
+Je m'en vay de ce cas advertir la justice.  
+ACTE IIII.
+
+
+### Scene II.
+Le Roy, Celidor, Medon, Phenice, le Pescheur.                 
+
+
+    LE ROY. 
+Un desir violent me presse de la voir,  
+Où croy-tu qu'elle soit [430] ?  
+
+    CELIDOR.
+            On ne le peut sçavoir.  
+
+    LE ROY.
+Je l'auray morte ou vive, ou ma juste colere  
+Dans le fonds d'un cachot fera mourir son pere.  
+Qu'on le fasse venir se voyant mal traité,  
+Il sçaura bien trouver cette jeune beauté.  
+
+    CELIDOR.
+Sire, si je sçavois ce qu'elle est devenuë.  
+
+    LE ROY.
+Ta bonne volonté ne m'est que trop cognuë⁎,  
+Il faut que ce viellard qui la fit esquiver  
+En quel lieu qu'elle soit me la fasse trouver.                       
+Escoutons ces raisons, [431] le voicy. Miserable.  
+Est-il vray que tu sois de deux meurtres coupable ?  
+Pour celuy de ton gendre il n'en faut plus douter  
+Sur un autre plus grand je te veux escouter,  
+Qu'as-tu fait de ta fille ?  
+
+    MEDON.
+            O noire calomnie !  
+
+    LE ROY.
+On n'est pas deschargé des crimes que l'on nie :  
+Confesse qu'elle est morte ou me la fais venir,  
+Autrement ton bon droit⁎ ne se peut soustenir.  
+
+    MEDON.
+O Cieux ! de quel forfait l'innocence est chargée.  
+
+    LE ROY.
+Barbare⁎ je cognoy⁎ que tu l'as esgorgée,  
+N'osant venir au point⁎ qui te presse le plus  
+Tu nous veux abuser de propos superflus.  
+
+    MEDON.
+Sire, pour me purger d'une telle imposture [432]  
+Il ne faudroit qu'ouyr [433] la voix de la nature⁎. [434]  
+On a ravy ma fille et fait un assassin [435]                          
+Mais je n'ay point⁎ trempé dans ce mauvais dessein⁎.  
+
+    LE ROY.
+C'est trop dissimuler [436], qu'on le mene au supplice,  
+Toutefois attendez, que j'escoute Phenice,  
+C'est peut estre un tesmoin qu'il nous ameine icy,  
+Afin que sur le tout [437] je sois mieux esclaircy.  
+
+    PHENICE.
+Sire, ce bon Pescheur sur une conjecture  
+Desire vous conter une estrange⁎ advanture⁎.  
+
+    LE ROY.
+Dépesche, que veux-tu nous dire de nouveau. [438]  
+
+    LE PESCHEUR.
+Sire, que j'ay trouvé dessus le bord de l'eau  
+Des vestemens. [439]  
+
+    LE ROY.
+        Voicy de mauvaises nouvelles.  
+
+    LE PESCHEUR.
+Tels qu'on en voit porter aux jeunes Damoiselles.  
+
+    MEDON.     
+Las, peut-estre ma fille, haissant son espoux [440]  
+Au soir pour se noyer se dérobba de nous.  
+
+    LE ROY.
+Je suspens ma colere et veux que la justice  
+Examine à son tour de plus prés cet indice,  
+Pescheur viens nous mener au rivage.  
+
+    MEDON.
+                    Les Cieux  
+N'influent dessus moy que la haine des Dieux. [441]  
+ACTE IIII.
+
+
+### Scene III.
+Policaste, Agarite.                    
+
+
+    POLICASTE.
+Encore qu'en ce lieu tu sois en ma puissance,  
+Je crains de te parler avec trop de licence⁎,  
+J'ay peur de te déplaire, et croy faire un larcin  
+De toucher [442] seulement l'albastre de ton sein.  
+Je n'ose mesurer ceste main à la mienne.  
+Ma bouche n'ose prendre un baiser sur la tienne,  
+Il semble que je sors [443] des bornes du devoir  
+Depuis que je conseille à mes yeux de te voir.  
+Enfin dirois-tu pas en cet amour extréme  
+Que je suis trop discret [444] ou jaloux de moy-mesme.  
+
+    AGARITE.
+Si tes deportemens [445] ressemblent [446] tes discours⁎  
+Vrayment j'auray sujet de le dire tousjours,                       
+Et jamais avec toy je n'auray de divorce⁎.  
+
+    POLICASTE.
+Mon Ame, le moyen [447] que je prenne par force  
+Des faveurs⁎ que l'Honneur⁎ me permet librement.  
+
+    AGARITE.
+Que tu sçais obtenir un baiser finement,  
+
+    POLICASTE.
+Agarite, j'entens⁎ demeurer un quart d'heure  
+Sur ceste belle gorge.  
+
+    AGARITE.
+            Ha ! tu veux que je meure,  
+C'est trop en voilà plus que je ne t'ay promis.  
+
+    POLICASTE.
+Dieux ! que [448] ne m'en as-tu davantage permis ?  
+Pourquoy ne passons [449]-nous jusqu'à la jouyssance.  
+
+    AGARITE.
+Amour ne seroit plus à l'aage d'innocence.  
+
+    POLICASTE.
+Estant comme je suis à l'aage de raison,  
+Il ne te pourroit faire aucune trahison.  
+
+    AGARITE.    
+Les Amans font tousjours tant de belles promesses.  
+
+    POLICASTE.
+Je ne suis point⁎ de ceux qui changent de Maistresses⁎.  
+Si tu veux en ce point⁎ des marques de ma foy⁎,  
+Je ne t'en puis monstrer autre part que chez moy.  
+Considere ces Tours dont l'assiette [450] guerriere,  
+Resiste fortement au cours de la riviere,  
+Et de grace⁎ dy moy, si tu vois ce Chasteau  
+Se bouger tant soit peu pour [451] la vague de l'eau.  
+Quand les flots raviront ceste forte muraille,  
+Tout ainsi qu'ils feroient une loge de paille [452],  
+Jure que Policaste est un esprit⁎ leger,  
+Et dy que pour une autre il t'a voulu changer [453].  
+
+    AGARITE.
+Lors qu'on demandera ceste Roche perduë,  
+Comme si dans ce fleuve elle s'estoit fonduë,  
+Appelle-moy volage, et sur le bord de l'eau  
+Accuse d'inconstance un debile cerveau.  
+
+    POLICASTE.    
+Bien que nous ayons tous le cerveau fort humide,  
+Amour n'a point⁎ en moy de siege plus solide :  
+Et pourtant je n'obtiens que le simple baiser  
+Que mesme aux inconstans on ne peut refuser.  
+
+    AGARITE.
+C'est tout ce que je puis te donner à cette heure,  
+En attendant tousjours [454] quelque saison meilleure.  
+
+    POLICASTE.
+Ainsi nous esperons que les fleurs du Printemps  
+Feront naistre des fruicts au bout de quelque temps.  
+
+    AGARITE.
+Les Dieux nous ayderont, allons je te supplie  
+Passer en quelque lieu nostre melancholie. [455]  
+
+    POLICASTE.
+Dans ce Parc où les Dains se promenent parfois  
+Nous pouvons faire un tour à l'ombrage [456] des bois.  
+ACTE IIII.
+
+
+### Scene IIII.
+Le Roy, Medon, Phenice, le Pescheur.                 
+
+
+    LE ROY.
+Nous voicy sur le lieu.  
+
+    MEDON.
+            Ha ! je cognoy⁎ ma perte.  
+De ces mesmes habits ma fille estoit couverte [457] :  
+Amis soustenez-moy, je tombe en pasmoison.  
+
+    PHENICE.
+La douleur en ce corps fait l'effect⁎ du poison,  
+Pescheur cours vistement au bord de la Riviere,  
+Tes mains en un besoin [458] te serviront d'Aiguiere [459].  
+
+    LE PESCHEUR.
+Tenez voila de l'eau tant qu'il en peut tenir  
+Dans le creux de ma main.  
+
+    PHENICE.    
+                Faisons-le revenir.  
+
+    LE ROY.
+Oyseaux qui vous cachez dans les vieilles masures,  
+Et cherchez vostre vie auprés des sepultures,  
+Quittez ces monumens. Venez tristes hibous [460]  
+Sur la rive des eaux vous plaindre comme nous :  
+**Agarite** est perduë et les Ondes coupables  
+M'ont privé de l'object⁎ de ses beautez aymables ;  
+J'esperois de la voir au lever du Soleil,  
+Et l'horreur de la nuict m'a caché son bel œil. [461]  
+O Ciel ! ô Terre ! ô Mer ! ô Ciel devois-tu luire  
+De tant d'astres malins [462] ce soir-là pour me nuire ?  
+O Terre devois-tu priver de monument  
+Celle que je demande à ce traistre Element ?  
+O Mer ! devois-tu [463] pas engloutir tout ce fleuve  
+Qui d'un si beau sujet fait la nature⁎ veufve.  
+Et vous tristes Rochers d'où naissent les ruisseaux,  
+Qui vont perdre leur nom dans l'abysme des eaux,                   
+Pourquoy d'un frein glacé n'arrestiez-vous leurs courses,  
+Ou ne les faisiez-vous remonter à leurs sources ?  
+Ha ! c'est qu'en ceste nuict si pleine de malheurs  
+Vous n'aviez pas moyen de retenir vos pleurs,  
+Mesme il semble à present que vostre dueil redouble,  
+Et que de vos torrents la Riviere se trouble.  
+Mais ce n'est pas à vous, ô Rochers ! de pleurer,  
+Et ce n'est pas à vous, ô Vents de souspirer,  
+La tristesse n'agit qu'en un sujet passible [464]  
+Et c'est aux hommes seuls que le mal est sensible.  
+Qu'on ne me peigne plus Amour comme un oyseau,  
+Depuis cet accident il nage dessous l'eau,  
+Si jadis il sortit d'une conque marine [465]  
+Il est allé trouver sa premiere origine.  
+Et dans ce desespoir se jettant sous les joncs  
+Il a voulu donner ses aisles aux plongeons [466].  
+Pescheur en cet endroit ne jette plus ta ligne :                       
+Purge plustost les eaux de toute herbe maligne,  
+Et croy que les poissons qui vivent dans leurs cours  
+Desormais en ce lieu seront autant d'amours,  
+Pour toy [467] n'afflige point⁎ ce vieillard davantage,  
+Ne baigne plus son front de l'eau de ce rivage,  
+Oblige⁎ moy [468] Phenice : Ha ! tu le fais mourir.  
+Si sa fille en est morte on ne peut le guerir.  
+O riches⁎ vestemens ! dont l'ornement superbe  
+De honte et de regret se cache dessous l'herbe.  
+Je veux qu'à mon exemple on arrouse de pleurs  
+Ce fertile gazon qui vous [469] couvre de fleurs.  
+Je vous tiendray tousjours ainsi que des reliques,  
+Et vous feray monstrer en nos festes publiques,  
+Je vous enchasseray dans un riche⁎ metal,  
+Et vous feray baiser à travers un christal.  
+Qu'on prenne ces habits qu'on les parfume d'Ambre [470],  
+Et que tout de ce pas [471] on les porte en ma chambre,  
+J'y veux voir Agarite, et là de tous costez,  
+En sa belle Effigie adorer ses beautez.                           
+Je veux que l'on luy dresse un beau lict de parade [472],  
+Où de dueil et d'ennuy je devienne malade :  
+Mais le pauvre Medon est enfin revenu.  
+Dieux que ce mal de cœur vous a long temps tenu ?  
+
+    MEDON.
+Ha ! Sire, commandez s'il vous plaist qu'on m'emporte.  
+
+    LE ROY.
+Qu'on l'emmeine, pour moy [473] la douleur me transporte.  
+ACTE IIII.
+
+
+### Scene V.
+Corintie vestuë en dueil, Celidor en pelerin [474].            
+
+
+    CORINTIE. 
+Quel jour peut amener le Soleil qui nous luit [475]  
+Qui ne soit obscurcy de l'ombre de la nuit ? [476]  
+L'air peut-il estre calme où [477] mes pleurs continues  
+Versent plus de Torrens qu'il n'en tombe des nuës ?  
+Le moyen [478] qu'en ce lieu s'exhalent mes souspirs  
+Sans troubler à l'entour le rire des zephirs [479],  
+Les champs qui sont ailleurs tapissez de verdure,  
+Souffrent⁎ icy leur part des peines⁎ que j'endure,  
+Et les fleurs que mes yeux regardent par mespris,                   
+Contractent la couleur des atours que j'ay pris.  
+Ce Boccage attristé du crespe que je porte,  
+D'un vestement de dueil couvre sa fueille morte.  
+La mort d'un voile obscur ombrage les buissons,  
+Et pare les chemins de ses noirs Escussons :  
+En quel lieu [480] je passe une image⁎ tremblante  
+Me fait voir comme en songe une teste sanglante,  
+Aux champs et dans la ville un Esprit⁎ me poursuit  
+Lizene massacré m'apparest chaque nuict  
+Et sçachant que l'amour [481] a commis cette offense  
+Contre mon propre sang, j'excuse son enfance.  
+Triste dueil falloit-il que ta noire couleur  
+Accusast un Amant [482] d'avoir fait ce malheur ?  
+Si d'un drap si pesant je n'eusse esté chargée  
+Celidor là dessus ne m'eut interrogée. [483]  
+Et je n'eusse pas sceu le crime qu'il a fait.  
+Crime, helas ! dont ses yeux m'ont plus que satisfait [484].  
+Il faudroit qu'il eust eu la poitrine de Roche  
+Pour tuer celuy-là qui m'estoit le plus proche.                       
+Mais jamais par malheur il ne l'avoit cognu⁎,  
+Encore que chez nous il fut souvent venu.  
+Pour ce que [485] ma beauté luy fut tousjours si chere,  
+Qu'il sembloit acheter [486] l'absence de mon Frere.  
+Or bien que l'ignorance excuse tout peché,  
+Il pense que le sien ne peut estre caché.  
+Sçachant que les Amans ne souffrent⁎ qu'en l'absence [487],  
+Il veut aller bien loing en faire penitence.  
+Hé Dieu ! n'est-ce pas luy, qui tenant un bourdon [488],  
+Vient encore une fois me demander pardon ?  
+En fin ce dessein⁎ est d'aller en Terre saincte.  
+
+    CELIDOR.
+C'est là que j'ay conclu d'aller cueillir l'absynthe [489]  
+Qui par son amertume efface les pechez.  
+
+    CORINTIE.
+Ha ! je vous retiendray.  
+
+    CELIDOR.
+                Helas ! ne me touchez  
+Que [490] je ne sois purgé d'un meurtre detestable.                   
+
+    CORINTIE.
+L'ignorance et l'amour l'ont rendu pardonnable.  
+
+    CELIDOR.
+Tousjours est-ce commettre un enorme forfait  
+De rompre le sainct vœu qu'une personne a fait.  
+
+    CORINTIE.
+Accomplir celuy-cy c'est un crime bien pire.  
+
+    CELIDOR.
+Ne blasmes le conseil⁎ qu'un bon Ange m'inspire.  
+
+    CORINTIE.
+S'il faut que sur l'Amour un Ange soit vainqueur,  
+Vous ferez donc encore un meurtre dans mon cœur.  
+
+    CELIDOR.
+Cet Archer [491] qui n'aguere y faisoit quelques bresches,  
+Par dessous mon habit ne tire plus de flèches,  
+
+    CORINTIE
+Ce Chasseur qui souvent m'est venu visiter,                       
+Encore par les champs se fait-il redouter.  
+
+    CELIDOR.
+Croyez-moy ce Bourdon que j'ay pour toutes armes [492]  
+Ne me sert qu'à passer les ruisseaux de mes larmes.  
+
+    CORINTIE.
+Les miennes que vous seul pouvez faire cesser,  
+Font icy des Torrents que l'on ne peut passer.  
+
+    CELIDOR.
+Adieu, vous ne pouvez m'empescher le passage,  
+Me deussé-je noyer [493] commençant mon voyage. [494]  
+
+    CORINTIE.
+Tu n'iras guere loing sans m'avoir prés de toy,  
+Ton remords ne sçauroit te separer de moy.  
+Cruel⁎ ! pourrois-tu faire une plus grande offense  
+Que me priver ainsi de ta chere presence ?  
+Ne croy pas que je vueille attendre ton retour,  
+Je me sçauray servir des conseils⁎ de l'Amour.  
+Si je me déguisois ? Dieux comme les pensées,                       
+Nous viennent promptement aux affaires pressees.  
+Je recevray dans l'ame un plaisir singulier  
+De le suivre par tout en jeune Cavalier,  
+J'esveilleray par fois son humeur⁎ solitaire,  
+Et puis en temps et lieu je luy diray l'affaire,  
+C'est le meilleur moyen que je puisse trouver :  
+Au reste d'accident [495] il n'en peut arriver :  
+Je puis en peu de temps dresser mon equipage [496],  
+Et sans estre cognuë⁎ entreprendre un voyage.  
+Allons, je me resous de [497] partir promptement,  
+Et ne veux differer ce dessein⁎ d'un moment.  
+ACTE IIII.
+
+
+### Scene VI.
+
+    LE ROY *furieux⁎.*    
+Traistres [498] sortez d'icy, mes fureurs⁎, et mes rages  
+Me servent-elles pas d'Officiers et de pages⁎ ?  
+Voulez-vous par despit irriter vostre Roy ?  
+Laissez faire l'amour, je ne suis plus à moy.  
+Je deteste [499], j'enrage. Ha ! Dieux ! je desespere,  
+Que [500] le Ciel contre moy ne se met en colere ?  
+Que la Terre ne s'ouvre, et qu'au bruit⁎ de mes cris  
+Je ne fay souslever tous les malins Esprits⁎ ?  
+Engeance de Sorciers ! Fantosmes effroyables,  
+Qui nous faites haïr les objects⁎ plus aimables,  
+Venez m'empoisonner de fiel et de rancœur,  
+Et chassez le Tyran⁎ qui regne dans mon cœur.  
+Faites moy confesser en l'ardeur qui m'enflame,                   
+Que je n'ay plus d'amour qui ne soit tout de flame⁎ !  
+Demons, ouvrez le sein d'un Monarque amoureux,  
+Et faites y l'Enfer d'un Prince malheureux.  
+Tenez, le voilà prest, accourez je vous prie ; [501]  
+Mais ces Monstres cruels⁎ ont peur de ma furie.  
+Foudre, Gresles, Esclairs, Quoy ! n'estes vous là haut,  
+Que pour faire combattre et le froid et le chauld ?  
+N'osez-vous me frapper ? faut-il que mes blasphemes,  
+Et mes cris insolens irritent les Dieux mesmes ?  
+Faux Dieux que les Mortels ont formé de leurs doigts  
+Là haut comme icy bas ils vous ont fait de bois. [502]  
+Puisque pas un de vous n'est sensible à l'outrage  
+Que vomit [503] contre luy ma furie et ma rage…                      
+Ha ! c'est icy le trosne où la Divinité  
+Ne souffre⁎ que je vive avec impunité.  
+Mais, ô saincte Beauté, que seule je reclame,  
+Contente⁎ toy du corps, et ne puny mon ame.  
+Helas ! que [504] te sert-il de me voir insensé [505],  
+Te suffiroit-il pas de me voir trespassé,  
+Si du mal que je sens tu n'es pas satisfaite,  
+Puny, puny de mort la faute que j'ay faite  
+Traite moy, je te prie, avec plus de rigueur,  
+Et ne me laisse plus si long temps en langueur.  
+Las ! je me plains en vain, celle que je regrette,  
+Animeroit [506] plustost cette idole muette,  
+Et je verrois plustost son corps ressuscité  
+Que je ne flechirois son esprit⁎ irrité.  
+Cruelle⁎, si [507] faut-il que je te tesmoigne encore,  
+Quel pouvoir a sur moy ton ombre [508] que j'adore,  
+Ma bouche baisera ce chef-d'œuvre parfaict,  
+Et benira la main de l'ouvrier [509] qui l'a fait :  
+Mes yeux contempleront cette belle effigie,  
+Où l'art semble avoir fait quelques traicts⁎ de magie,  
+Figurant [510] ma Deesse avec tant de rapport [511]  
+Qu'on croit mesme de prés que c'est elle qui dort.               
+O divine Beauté ! depuis que tu reposes  
+On n'a point⁎ veu mourir les œillets ny les roses,  
+Ton front majestueux, ton visage vermeil  
+Conservent leur beau teint en dépit du sommeil,  
+Et je croy que l'amour n'a fermé ses paupieres  
+Que pour mieux eviter leurs œillades meurtrieres [512],  
+Quand ma belle perdit la lumiere des Cieux [513]  
+Il fit cette figure⁎ aggreable à mes yeux,  
+Croyant que son idée [514] emprainte en cette image⁎  
+Pourroit aucunement [515] reparer ce dommage.  
+Autre [516] qu'Amour n'a fait un ouvrage si beau,  
+Il suivit tout exprés Agarite sous l'eau,  
+Afin de rapporter sa chevelure blonde,  
+Que naguere en plongeant il a sauvé de l'onde.  
+Beaux cheveux qui sçauroit que vous fustes jadis  
+Les cheveux du Soleil croiroit ce que je dis,  
+Qui verroit en ce lieu comme je vous adore,  
+Verroit idolatrer les atours de l'Aurore,  
+Il seroit amoureux de tout ce que je voy,                   
+Mais ce mol [517] entretien est indigne d'un Roy,  
+O paroles de femme, un homme de courage⁎  
+Se deut-il eschaper a [518] tenir ce langage⁎ ?  
+Brise [519] là ce discours⁎ et monstre que tu peux  
+Disposer ta raison à tout ce que tu veux.  
+Ne souffre⁎ ce tiran⁎ qui regne sur la terre  
+Et tasche desormais de luy faire la guerre.  
+Pauvre Prince desja ton courage⁎ abbatu  
+Pour complaire⁎ à [520] l'amour a trahy ta vertu⁎.  
+Tu n'avois dans l'esprit⁎ qu'une bonne pensée  
+Et le meilleur remede à ton ame blessée⁎,  
+C'est de perdre le soin⁎ de venir tous les jours  
+T'entretenir icy de tes folles amours [521].  
+
+
+## Acte V.                         
+
+
+### Scene premiere.
+Policaste, Agarite, en Page, Phenice, Amelise.
+
+
+    POLICASTE. 
+Tant de braves [522] Seigneurs que le Roy tient à gages,  
+Et que l'on voit suivis d'une troupe de Pages⁎,  
+Ne s'imaginent pas, me voyant [523] à la Cour,  
+Que je mene avec toy la prudence [524] et l'amour,  
+Si mon dessein⁎estoit seulement de paroistre [525],              
+La sottise et l'orgueil me feroient mieux connoistre⁎,  
+Le vice a plus de train que non pas la vertu⁎,  
+Chacun de ses couleurs desire estre vestu [526],  
+Tel pour faire le brave [527] en bonne compagnie,  
+Engage [528] sa Noblesse et vend sa Baronnie,  
+Et souvent la plus part de tous ceux que tu vois  
+Se vient faire de feste [529] à la suitte des Rois :  
+Mais c'est pitié de voir que tant de volontaires [530],  
+Au lieu de s'advancer [531] y font mal leurs affaires,  
+Je ne m'estonne⁎ pas si le monde s'en rit,  
+Il n'est parmy les grands que d'avoir de l'esprit⁎, [532]  
+J'ay par tout des ressors dont je fay des merveilles⁎,  
+Et si [533] je ne fay rien que tu ne me conseilles.  
+Amour en soit loüé, c'est luy qui dans tes yeux  
+Me monstre les moyens de passer en tous lieux,  
+N'agueres qu' [534] avec toy j'estois à la Campagne,  
+Dedans ce beau Chasteau, que la Riviere bagne [535],  
+Le Dieu que nous servons [536] me montroit les détours,  
+Et les chemins secrets⁎ pour sortir de nos tours.                   
+Il m'a dit le premier cette nouvelle heureuse,  
+Que le Roy languissoit d'une fiévre amoureuse,  
+Et m'a fait esperer, qu'en luy donnant secours,  
+Je verrois à la fin réussir mes amours :  
+Tant est [537] que j'ay songé [538] cette noble furie [539],  
+Par quelque beau secret⁎ pouvoir estre guerie.  
+J'ay pensé qu'arrivant dans la chambre du Roy,  
+Il nous pourra tous deux regarder sans effroy,  
+Et qu'il perdra l'amour d'une muette idole [540],  
+Si je puis seulement luy dire une parole.  
+Qu'en dis-tu ? Si je puis le remettre en santé. [541]  
+
+    AGARITE.
+Vous serez plus heureux que vous n'avés esté.  
+
+    POLICASTE.
+La plus grande faveur⁎ que le Roy me peut faire,  
+Dépend de t'espouser.  
+
+    AGARITE.
+            C'est le juste salaire  
+Que j'attends d'un Seigneur de vostre qualité.  
+
+    POLICASTE.
+Page⁎, vous m'alleguez vostre fidelité⁎.  
+Quoy que le vermeillon vous monte sur la face,                   
+Encore en ce discours⁎ vous avez bonne grace⁎ [542].  
+
+    AGARITE.
+Me voulez-vous long temps gausser de la façon  
+A cause qu'à [543] present je ressemble un garçon.  
+
+    [POLICASTE.]
+Agarite, chacun fait l'amour [544] à sa guise,  
+Et l'on doit trouver bon qu'ainsi je te déguise.  
+
+    AGARITE.
+Mais direz-vous au Roy qui je suis ?  
+
+    POLICASTE.
+                Je diray,  
+Si je m'y voy contraint, ce que j'adviseray.  
+Ce pendant je voudrois avoir trouvé Phenice,  
+Je suis bien asseuré que sçachant l'artifice  
+Dont je me veux servir, il nous feroit entrer.  
+
+    AGARITE. 
+Cet honneste Escuyer nous le pourra montrer.  
+
+    POLICASTE.
+Dieux ! faites réussir cette haute entreprise.  
+C'est luy-mesme, il conduit la Princesse Amelise :  
+Allons le salüer.  
+
+    AGARITE.    
+        Je vous suis.  
+
+    POLICASTE. 
+                Monseigneur.  
+J'interprete déja ce rencontre⁎ à bon-heur,  
+En ce Palais Royal, le dessein⁎ qui m'ameine,  
+Est de guerir le Roy, vous donnant une Reine  
+
+    PHENICE.
+Si vous avez moyen de le desabuser,  
+Voicy bien la Beauté qu'il pourroit espouser,  
+On ne sçauroit trouver un party plus sortable  
+Pour un Roy si puissant, mais, chose epouvantable !  
+Il est si furieux⁎ qu'on ne le peut tenir. [545]  
+
+    POLICASTE.
+Dites-moy, s'il vous plaist, d'où son mal peut venir.  
+
+    PHENICE.
+D'un amour déreglé, maudite resverie,  
+Qui par aucun secret⁎ ne peut estre guerie.  
+
+    POLICASTE.
+Cet amour déreglé, qui luy passe en fureur⁎,  
+D'ordinaire provient d'une divine erreur,  
+Et ne se guerit point⁎ comme une maladie,                   
+Dont l'assoupissement rend nostre ame étourdie.  
+Les fièvres, dans nos corps, s'engendrent des humeurs⁎,  
+Mais telles passions⁎ s'engendrent de nos mœurs [546]:  
+De sorte que ce mal, que vous nommez furie,  
+Procede d'une belle, et noble intemperie [547].  
+Et jamais il ne faut estimer insensé  
+Celuy-là que l'Amour de ses traits⁎ a blessé⁎.  
+Veu qu'un mal qui provient d'une cause divine  
+Comme un bien⁎ souverain, porte [548] sa medecine.  
+
+    PHENICE.
+Si le Roy vous oyoit quelque temps discourir,  
+Pour le seur vos raisons le pourroient bien guerir.  
+
+    AMELISE.
+Encore [549] pour venir à bout de cette cure,  
+Quel secret⁎ sçavez-vous en toute la Nature⁎ ?  
+
+    PHENICE.
+Il nous le pourra dire en un lieu moins suspect,  
+Où nous le traitterons avec plus de respect.  
+On ne sçauroit icy recevoir la Noblesse,  
+Selon qu'elle merite [550], à cause de la presse⁎.  
+Entrons dans le Palais.                               
+
+    AMELISE.
+            Venez m'entretenir,  
+Du loüable dessein⁎ qui vous a fait venir.  
+ACTE V.
+
+
+### Scene II.
+*Corintie*, en cavalier, *Celidor *, en pelerin.
+
+
+    CORINTIE. 
+Mon Amant doit passer au coin de ce Boccage,  
+En ce lieu je pourray le guetter au passage,  
+Cet Ormeau que je voy, de Lambrusches [551] couvert,  
+Me peut mettre à l'abry de [552] son fueillage vert.  
+
+    CELIDOR.
+En fin, m'accoustumant à baiser les fontaines,  
+J'étancheray ma soif de leurs eaux souveraines [553].  
+Et me desalterant de leur fraische liqueur,                   
+J'amortiray le feu⁎ que je sens dans le cœur.  
+Je me trompe, les eaux n'augmentent que ma braise,  
+Et mon amour renaist des Nymphes que je baise.  
+
+    CORINTIE. 
+Demeure, Pelerin, dans ce bois écarté,  
+Un jeune homme se plaint que tu l'as maltraitté.  
+
+    CELIDOR.
+Genereux [554] Cavalier, à tort on me soupçonne,  
+Croyez-moy, dans ce bois je n'ay trouvé personne.  
+
+    CORINTIE.
+Je te croy, Celidor, et je te parle ainsi,  
+Afin tant seulement [555], de t'arrester icy.  
+Ne fay pas l'étonné⁎, tu cheris Corintie,  
+Ta flame⁎ dans cette eau ne s'est point⁎ amortie,  
+Tu ne t'en peux dédire.  
+
+    CELIDOR.
+            Il est vray, je l'ay dit  
+A l'Echo.  
+
+    CORINTIE.    
+    Tu voulois qu'elle [556] te respondit,  
+Mais en cet entretien ma voix l'a prevenuë.  
+
+    CELIDOR.
+Helas ! pourquoy dés lors ne vous ay-je cogneuë⁎ ?  
+
+    CORINTIE.
+Pourveu que je t'emmeine, il n'importe.  
+
+    CELIDOR.
+                    Vrayment.  
+Je vous suivray par tout en qualité d'Amant,  
+
+    CORINTIE.
+Ainsi j'ay le pouvoir de rompre ce voyage,  
+Où tu voulois passer le meilleur de ton aage :  
+Tu confesses qu'Amour n'exauce point⁎ de vœux  
+Contraires à celuy que nous fismes tous deux.  
+
+    CELIDOR.
+Que vous m'avez surpris [557] d'une façon estrange⁎,  
+Il faut que mon humeur⁎ à la vostre se range,  
+Un pauvre Pelerin ne peut aller plus loing,  
+Voyant un Cavalier qui vient l'épée au poing.  
+
+    CORINTIE.
+Ta volonté suffit, les Dieux pour une offense,  
+Sont déja satisfaits aussi tost qu'on y pense.                   
+
+    CELIDOR.
+Helas ! vous dites vray, les Dieux ont eu pitié,  
+Et de nostre fortune⁎, et de nostre amitié⁎ :  
+Mais que vous me plaisez d'estre ainsi déguisee.  
+
+    CORINTIE.
+Pour rompre ton dessein⁎, je me suis advisee  
+D'errer à l'advanture⁎, ainsi que ces guerriers  
+Que nos vieux Amadis [558] couronnent de lauriers.  
+
+    CELIDOR.
+Donc pour les imiter, icy tout nous convie  
+De [559] gouster les douceurs d'une paisible vie :  
+Sans passer plus avant [560] il nous faut reposer,  
+Et prendre l'un de l'autre un amoureux baiser :  
+Ha ! que je sens de mal en cette solitude !  
+
+    CORINTIE.
+Tout ce mal ne sera qu'un peu de lassitude,  
+Vous avez beu trop chaut, vous avez trop marché,  
+Mais vous ne serez pas demie heure [561] couché,  
+Que vous serez guery.  
+
+    CELIDOR.    
+            Soustenez-moy, je pasme.  
+
+    CORINTIE.
+Hé, Dieux ! entre mes bras voulez-vous rendre l'ame.  
+Il ne tient pas à moy de vous bien secourir,  
+Pourquoy, sans me tuer, vous laissez-vous mourir ?  
+
+    CELIDOR.
+Ne vous effrayez point⁎.      
+
+    CORINTIE.
+            D'où vient cette foiblesse,  
+Qui vous rend si defait ?  
+
+    CELIDOR.
+            Peu de chose [562] me blesse⁎,  
+Et toutefois mes sens me vont abandonner,  
+Si je n'ay le plaisir de vous deboutonner. [563]  
+
+    CORINTIE.
+Je vous entends⁎, vos yeux meurent de jalousie.  
+
+    CELIDOR.
+Pour ne vous point⁎ mentir, j'ay dans la fantaisie [564]  
+De vous prendre au collet, et d'ouvrir ce pourpoint [565]  
+Pour voir à découvert ce que je ne voy point⁎.                  
+
+    CORINTIE.
+Est-ce que vous doutez que je sois Corintie ?  
+
+    CELIDOR.
+Non, mais vous m'en cachez la plus saine partie.  
+
+    CORINTIE.
+Pelerin, je connois⁎ quel est vostre dessein⁎.  
+
+    CELIDOR.
+Suis-je pas bien devot, d'aimer tant vostre sein ?  
+
+    CORINTIE.
+Alors qu'il [566] sera temps d'entrer en jouïssance,  
+Des biens⁎ que la Nature⁎ a mis en ma puissance,  
+Et lors qu'en mesme lict on nous fera coucher,  
+Je t'abandonneray ce que j'ay de plus cher,  
+Ce pendant [567] aimons-nous.  
+
+    CELIDOR.
+                Ha ! que ce temps me dure [568] ?  
+Et qu'il fait bon icy nous coucher sur la dure [569].  
+
+    CORINTIE.
+Nous n'avons point⁎ de droit⁎ sur les terres d'autruy.  
+Debout, il nous faut rendre à la Cour aujourd'huy.  
+
+    CELIDOR.    
+Las ! sans vous obeïr, le moyen [570] que je vive ?  
+Allons, puis qu'il vous plaist, il faut que je vous suive.  
+
+    CORINTIE.
+Sans toy, mon cher Amant, je pourrois m'égarer,  
+Avec toy le chemin ne me sçauroit durer.  
+ACTE V.
+
+
+### Scene derniere                
+Le Roy, Policaste, Amelise, Phenice, Agarite, Medon, l'exempt, Celidor, Corintie.
+
+
+    LE ROY. 
+En fin cette Beauté, dont je suis idolatre,  
+A changé ma fureur⁎ en une humeur⁎ folastre,  
+Je ne sens plus en moy ce transport [571] furieux⁎,  
+Qui me venoit de voir [572] son pourtrait glorieux⁎ [573],  
+Ma passion⁎ n'est plus dans la melancolie,                   
+Et mon amour n'est plus qu'une douce folie,  
+Qui porte mon esprit⁎ à parler seulement,  
+A des choses qui n'ont, ny sens [574], ny mouvement.  
+Ainsi dessus ce lict mon ame s'imagine  
+Qu'elle adore en essence une Beauté divine,  
+Et tout autour de moy je ne voy point⁎ d'objet⁎,  
+Que [575] pour m'entretenir sur un si beau sujet.  
+O Divine Effigie, où l'humaine industrie [576]  
+A fait ce qu'elle a pû pour mon idolatrie,  
+Trouve bon qu'un Pecheur, et qu'un pauvre Mortel  
+T'esleve sur ce lict, comme sur un Autel.  
+Et toy, divin Esprit⁎, belle Ame que j'honore,  
+Puissance que je crains, Deesse que j'adore,  
+Cependant [577] qu'à genoux j'admire ton Pourtrait,  
+Fay que d'aucun des miens je ne sois point⁎ distrait.  
+Icy puisse le Ciel respandre tant de Baume,  
+Qu'il soit en Orient pl us cher qu'en mon Royaume :  
+Icy brusle tousjours tant de Myrrhe [578] et d'Encens,  
+Que l'on flaire du Ciel les odeurs que je sens,  
+Comme si l'on avoit parfumé toutes choses                  
+De l'essence des lys, et de celle des roses.  
+O beau visage aimé d'un Prince malheureux,  
+Ha ! vraiment ton bel œil ne m'est plus rigoureux.  
+Je te trouve aujourd'huy plus beau [579] que de coustume ;  
+Une plus noble [580] flame⁎ en mon ame s'allume,  
+Et mon cœur est épris de tant de Majesté  
+Que je voy sur le front d'une Divinité.  
+En toy je ne croy plus adorer une idole :  
+Et si tu me respons une seule parole,  
+Je croiray qu'à ce coup⁎, pour m'oster de [581] soucy⁎,  
+Une belle Deesse est descenduë icy.  
+Je croiray que l'Amour anime cet albastre,  
+Et n'invoqueray plus une image⁎ de plastre.  
+Ha ! si tu me disois un seul mot, je pourrois  
+M'en prevaloir beaucoup dessus les autres Rois :  
+Mais, helas ! t'en prier, c'est faire une insolence,  
+Ta Majesté veut estre adorée en silence.  
+
+    POLICASTE.
+Il est temps de parestre.  
+
+    PHENICE.
+            Allons l'entretenir.  
+
+    LE ROY.
+O Dieux ! elle se leve , elle me veut punir,                   
+Méchant ! j'ay prophané ce beau lict de parade.  
+
+    POLICASTE.
+Quoy ! Sire, craignez-vous de mourir d'une œillade,  
+Où courez-vous ainsi ? cette chaste beauté  
+Ne deut [582] pas faire peur à vostre Majesté.  
+
+    AMELISE.
+Sire, me voicy preste à tout ce que vostre ame  
+Peut jamais desirer d'une pudique Dame.  
+
+    POLICASTE.
+L'image⁎ que vos yeux adoroient cy devant,  
+Fut-il [583] jamais si beau que ce portrait vivant ?  
+
+    LE ROY.
+Confus d'étonnement⁎, et ravy de merveille⁎,  
+Je ressemble à celuy qui d'un songe s'eveille :  
+Ha ! quand elle dormoit, je disois bien alors  
+Que la Grace⁎ et l'Amour animoient ce beau corps.  
+
+    AMELISE.
+Apres l'evenement⁎ d'une feinte⁎ subtile,  
+Celle qui sur un lict paroissoit immobile,  
+A repris la parole, et vous offre à present  
+Ce que le cœur disoit, la langue se taisant.  
+
+    PHENICE.
+Sire, qu'en dites-vous, de pareilles Princesses                  
+Feroient-elles pas honte aux plus belles Deesses ?  
+
+    LE ROY.
+Phenice, as-tu trouvé ce merveilleux⁎ secret⁎  
+Pour chasser de mon cœur un amour indiscret [584],  
+Et pour éteindre en moy cette flame⁎ illicite  
+Qui n'a pû s'amortir en la mort d'Agarite ?  
+
+    PHENICE.
+Sire, ce Gentil-homme a luy-mesme trouvé  
+Le secret⁎ que sur vous nous avons éprouvé :  
+Mais afin de vous dire encore mieux sa feinte⁎,  
+Pour vous oster l'amour d'une figure⁎ peinte,  
+Et pour vous faire aimer Amelise en son lieu,  
+Il a fait ce qu'à peine auroit pû faire un Dieu :  
+Il nous a conseillez de vous faire connoistre⁎  
+Qu'il ne faut se troubler de ce qui ne peut estre ;  
+Et vous me permettrez de vous representer,  
+Qu'Agarite icy bas ne peut ressusciter :  
+Mesmes [585] pour ne frustrer cette amour excessive  
+Qui vous est demeurée en l'imaginative [586],  
+Nous avons trouvé bon de surprendre vos yeux  
+Par un autre sujet qui vous plaist déja mieux.  
+Sire, pensez à vous, et quand bien Agarite                  
+Retourneroit au monde avec plus de merite,  
+Songez que sur vous-mesme il faut estre absolu [587]  
+Pour éteindre le feu⁎ d'un amour dissolu.  
+En fin, puis qu'on a mis Amelise en sa place,  
+Avec autant d'appas⁎, avec autant de grace⁎,  
+Ne l'éconduisez point⁎ par un honteux refus.  
+
+    LE ROY.
+Las ! tu m'en as trop [588] dit pour me rendre confus,  
+Je reconnois ma faute, et j'en porte la peine⁎,  
+De n'oser voir en face une si belle Reine :  
+Car, à ne point⁎ mentir, j'ay deu [589] considerer  
+Qu'aux plus belles du monde on la doït preferer ;  
+De [590] ma part je consens que [591] la foy⁎ mutuelle  
+Confirme l'amitié⁎ que je nouë avec elle.  
+
+    PHENICE.
+C'est le commun souhait de tous les gens de bien⁎,  
+Les Dieux vueillent unir vostre cœur et le mien.  
+
+    LE ROY.
+Madame, le party vous est-il agreable,  
+Pour moy je n'en sçay point⁎ qui me soit plus sortable.  
+
+    AMELISE.
+Sire, le bon plaisir de vostre Majesté  
+Agit absolument dessus ma volonté.                       
+
+    LE ROY.
+Ha ! que cette parole a de grace⁎ en la bouche  
+D'une belle Princesse, et digne de ma couche. [592]  
+Peuple, resjouy [593] toy, l'allegresse, et la paix  
+Font un nœud que la mort ne defera jamais   
+Pour toy, qui m'as guery, je te donne parole,  
+Mais parole d'un Roy plus ferme que le Pole [594],  
+De te recompenser ainsi que tu voudras,  
+Et mesmes si tu veux un Sceptre, tu l'auras.  
+
+    POLICASTE.
+De charges, et d'honneurs⁎, mon ame est assouvie,  
+Je voudrois contenter⁎ mon amoureuse envie.  
+
+    LE ROY.
+Parle donc, et choisi quelque noble party :  
+On passera par tout où j'auray consenty. [595]  
+
+    POLICASTE.
+Si quelqu'un [596] d'entre nous vous montroit tout à l'heure [597]  
+Cette jeune Beauté que tout le monde pleure,  
+En qualité d'époux, la pourroit-il avoir.  
+
+    LE ROY.
+Il faudroit que les Dieux nous la fissent revoir.  
+
+    POLICASTE.
+Cette affaire pourtant, n'est pas fort malaisee :                   
+Car la belle Agarite est ainsi deguisee.  
+
+    LE ROY.
+O Cieux ! qu' [598]auparavant ne m'en suis-je apperceu ?  
+Toutefois je me suis heureusement déceu⁎,  
+Et je me resjouïs qu'une amitié⁎ si forte,  
+Face ressusciter une personne morte.  
+
+    AGARITE.
+Sire, je le cheris d'un amour conjugal,  
+Et luy ne trouve point⁎ de party plus egal.  
+
+    LE ROY.
+O merveille⁎ d'Amour ! ô joyeuse nouvelle !  
+Le Ciel vueille [599] benir vostre couple fidelle⁎.  
+Finissez avec moy vos amoureux tourmens⁎,  
+Jouïssant du repos qu'attendent les Amans.  
+Qu'on appelle Medon, que mon peuple la voye,  
+Et que toute la ville en [600] fasse feu⁎ de joye [601].  
+Ha ! vraiment dans ma Cour il n'est point⁎ de Seigneur,  
+Qui ne voulut avoir un tel Page⁎ d'honneur⁎.  
+
+    POLICASTE.
+Sire, je vous promets qu'elle fut tousjours sage,  
+Et qu'elle l'est encore en cet habit de Page⁎ :                   
+Cent fois entre ses bras j'ay demeuré vaincu !  
+Mais le frere et la sœur n'auroient pas mieux vécu.  
+
+    LE ROY.
+Agarite en sera davantage estimee,  
+En cela tu fais voir comme tu l'as aimee.  
+Un amour débauché ne sçauroit prosperer,  
+Les plaisirs dissolus ne peuvent pas durer,  
+Et sont comme des fruits que par force l'on cueille,  
+Ou que le vent abbat auparavant [602] la fueille ;  
+Au contraire l'amour qui cede à la raison,  
+Ne craint point⁎ la rigueur de l'arriere saison,  
+Semblable à l'oranger [603], dont la fueille ne tremble  
+Que pour donner des fleurs, et des fruicts tout ensemble.  
+
+    MEDON.
+Ha ! Sire, montrez-moy ma fille.  
+
+    LE ROY.
+                La voicy.  
+
+    AGARITE.
+Hé ! mon Pere, prenez vostre fille à mercy. [604]  
+
+    MEDON.
+Mon Enfant, leve-toy, j'excuse ta jeunesse,  
+Qu'a voulu gouverner mon avare viellesse.                   
+
+    LE ROY.
+Ce n'est pas tout, il faut la pourvoir promptement,  
+Ce brave Gentil-homme est son fidel⁎ Amant.  
+
+    MEDON.
+Les Dieux en soient loüez.  
+
+    POLICASTE.
+                Je meurs d'impatience,  
+De passer avec vous cette heureuse alliance.  
+
+    LE ROY.
+J'approuve cet accord, mais je pense tousjours  
+Aux effets⁎ arrivez dans vos longues amours,  
+Ami, je m'en étonne⁎, il faut que je medite  
+Sur ce qu'ont fait les Dieux pour l'Amour d'Agarite.  
+Je veux penser comment nous fusmes tous déceus⁎ ;  
+Laissez-moy quelque temps ruminer là dessus.  
+
+    L’EXEMPT.
+Je pense que ces gens qui heurtent à la porte,  
+Sont de ceux qui croyoient qu'Agarite fut morte.  
+
+    CORINTIE.
+Estrangers⁎, nous venons pour voir sa Majesté.  
+
+    L’EXEMPT.    
+Entrez, et vous tenez seulement à costé.  
+
+    CELIDOR.
+Il nous faut demeurer en un profond silence.  
+
+    LE ROY.
+La fortune⁎ et l'amour sont en juste balance,  
+Je ne sçay que juger⁎ de tant d'évenemens⁎  
+Qui traversent ainsi les plaisirs des Amans,  
+Pourtant, puis que je voy que les Dieux nous benissent,  
+Et que pour mesme fin nos volontez s'unissent,  
+Ma Reine, de rechef je vous donne ma foy⁎.  
+
+    AMELISE.
+Sire, dessus mon cœur vous serez tousjours Roy.  
+
+    LE ROY.
+Dites qu'en vos beautés je conqueste [605] un Empire,  
+Et qu'en [606] terre il n'est plus de Couronne où [607] j'aspire.  
+Escoute voyageur, possible [608] tu verras  
+Tout ce que l'Ocean renferme de ses bras,  
+Quand tu feras le tour de la terre et de l'onde,  
+Vante toy d'avoir veu le plus grand Roy du monde.  
+
+    CELIDOR.
+Sire, pardonnez-moy, je seray prés de vous,  
+Celidor se plaist trop en un regne si doux.                   
+
+    LE ROY.
+Ravy d'étonnement⁎, croiray-je ce miracle,  
+Ay-je oüy Celidor, ou la voix d'un Oracle ?  
+Hé, Dieux ! en quel habit te viens-tu presenter ?  
+
+    CELIDOR.
+Je serois trop long temps à vous le raconter, [609]  
+Vous sçaurez à loisir toutes mes advantures⁎,  
+Cependant, si je suis entre vos Creatures,  
+Celuy que dessus [610] tous vous avez plus [611] chery,  
+Donnez ce Cavalier à vostre favory⁎.  
+
+    CORINTIE.
+Sire, sous tel habit vous voyez une Amante.  
+
+    LE ROY.
+Dieux ! mon étonnement⁎ de plus en plus s'augmente,  
+Je croy qu'en ma faveur⁎ le Ciel fait tout cecy,  
+Et que tous les Amans se trouveront icy.  
+
+    CORINTIE.
+Que vostre Majesté, s'il luy plaist, me permette  
+D'espouser aujourd'huy celuy que je souhaite.  
+
+    LE ROY.
+Approche, Cavalier. Pelerin, le sainct noeu  
+Que je fais entre vous, t'excuse de ton vœu. [612]                   
+Or sus [613], que tout mon peuple, et toute ma Noblesse  
+Prepare [614] un Carrousel [615] à ma Belle Princesse,  
+Que l'on nous mene tous dans un Char triomphant,  
+Où l'Amour soit assis, non pas comme un enfant :  
+Mais comme un jeune Roy que la presse⁎ environne,  
+Lors qu'en ceremonie on luy met la Couronne.  
+FIN
+
+
+## PRIVILEGE DU ROY.
+
+*Louis, par la grace de Dieu, Roy de France & de Navarre, A nos amez & feaux Conseillers les Gens tenans nos Cours de Parlement de Paris, Roüen, Tholoze, Bordeaux, Rennes, Aix, Dijon, Grenoble, Metz, Prevost dudit Paris, Seneschaux de Lyon, Poictou, Anjou, Baillifs, Prevosts & tous autres nos justiciers & Officiers qu'il appartiendra, Salut. Nostre bien amé François Targa, Marchand Libraire de nostre bonne ville de Paris, nous a fait remontrer qu'il a nouvellement recouvré un Livre, intitulé, Agarite, Tragi-Comedie, faite par le sieur Durval, lequel il desireroit imprimer & mettre en vente. Mais il craint qu'aprés les frais qu'il a déja faits, & qu'il luy convient faire pour la perfection dudit Livre, quelques autres Imprimeurs & Libraires ne se voulussent ingerer de l'imprimer, & mettre en vente, & le frustrer par ce moyen du fruict qu'il espere de son travail, Nous requerant tres-humblement nos Lettres à ce necessaires. A ces causes, Nous avons audit exposant, permis & permettons par ces presentes, de faire imprimer, vendre, & distribuer ledit Livre pendant le temps & espace de six années à compter du jour qu'il sera parachevé d'imprimer. Pendant lequel temps Nous avons fait tres-expresses inhibitions & defenses à tous Imprimeurs & Libraires de nostre Royaume, & à toutes autres personnes, de quelque qualité & condition qu'ils soient, d'imprimer, ou faire imprimer, vendre, ou distribuer ledit Livre, sans le congé de l'exposant, Sur peine aux contrevenans, de cinq cents livres d'amende, & confiscation des exemplaires qui se trouveront imprimez, & mis en vente au prejudice des presentes. Voulons en outre qu'en mettant au commencement, ou à la fin de chacun desdits livres autant de cesdites presentes, ou l'extraict d'icelles, qu'elles soient tenuës pour signifiées et venuës à la cognoissance de tous. A la charge de mettre deux exemplaires de chacun dudit livre en nostre Bibliotecque, gardée aux Cordeliers de nostre bonne ville de Paris, & une autre és mains de nostre tres-cher et feal le Sieur Seguier, Chevalier, Garde des Sceaux de France, avant les exposer en vente, à peine d'estre décheu du present Privilege. S***i vous mandons***que de ces presentes vous ayez à faire jouïr plainement, & paisiblement ledit exposant, et au premier nostre Huissier, ou Sergent sur ce requis, faire pour l'execution desdites presentes, tous exploicts requis & necessaires sans pour ce demander aucun congé & permission et nonobstant Clameur de Haro, chartres Normande, prise à partie, & lettres à ce contraires. Car tel est nostre plaisir. Donné à Paris, le treiziesme jour de Mars, l'an de grace mil six cens trente cinq, et de nostre regne le vingt-cinquiesme.*
+
+Par le Roy en son Conseil.
+
+*Signé FARDOIL*.
+
+Achevé d'imprimer le deuxiesme jour de juin mil six cens trente-six.
+
+Les Exemplaires ont esté fournis en la Bibliotheque du Roy, & à Monseigneur le Chancelier.
+
+
+# Lexique
+
+Liste des abréviations :Dictionnaire de l'Académie française
+Dictionnaire du français classique. « La langue du XVIIe siècle »
+Dictionnaire universel
+Dictionnaire françois
+ADVANTURE (n.f.)« Accident, ce qui arrive inopinément en bien ou en mal. » CV. 684, 968, 1603.« Hasard » CV. 1381.AMITIE (n.f.)« Grâce, faveur, plaisir » R,V. 41.« On le dit encore en matière d'amour » FV. 138, 468, 610, 1378, 1512, 1539.APPAS (n.m.)« Amorce, charme. Ce qu'on emploie pour gagner ou attraper quelqu'un » RV. 102, 479, 1504.BARBARE (n.m.)« Les barbares étaient ceux qui avaient de la rudesse dans leurs manières ou qui pechoient contre la pureté et les règles du langage : mais la ferocité et la grossiereté étaient des vices naturels aux hommes qui ne connoissaient que les sentiments que la nature inspire presque à tous les animaux » R, ce terme signifie ici surtout « étranger qui est d'un pays fort éloigné » FV. 200. (adj.) : « Cruel, impitoyable, qui n'écoute point la pitié ni la raison »V. 956.BIEN (n.m.)« Mérites, qualités » CV. 1408.« Toutes sortes de possessions et de richesses » FV. 276.« Bonheur » AV. 252, 382.« Joie » AV. 465, 527, 1332.« Homme, gens de bien » : « Homme(s) généreux » FV. 290, 1513.BLESSER (v.)« Frapper, toucher profondément. Se dit figurément en matière d'amour. Il est du style poétique, il se dit d'ailleurs avec ce sens très fort de tous les sentiments vifs ou tristes dont un homme peut être atteint (…) » CV. 1252, 1330, 1396.BLUETTE (n.f.)« Petite étincelle de feu » FV. 487, 747.BRUIT (n.m.)« Sons » FV. 550, 723, 734, 829, 1181.« Il signifie une sorte de nouvelle qui se dit et qui court » RV. 196, 582.  CHANGE (n.m.)« En poësie il est plus usité qu'en prose dans la signification de changement. Cependant il ne s'en faut servir que le plus rarement qu'on peut, et à moins qu'il ne soit dans quelque façon de parler, belle ou jolie » RV. 652.CHARME (n.m.)« Ce qui nous plait d'une façon extraordinaire » FV. 24, 486.CHARMER (v.)« User de sortilèges et de charmes » FV. 56, 525, 744.COMPLAIRE (v.)« Se rendre agréable à quelqu'un en déférant à ses volontez et à ses sentiments » FV. 79, 192, 366, 1250.CONNOISTRE (v.)« Savoir » FV. 207, 482, 740, 944, 956, 1031, 1125, 1405, 1491.« Avoir fréquenté le monde, avoir de grandes expériences de quelque choses » FV. 431.« Découvrir, faire voir ce que l'on est » FV. 690, 1260.« Reconnaître » CV. 795, 798, 1172, 1364.Connaîstre mal : « méconnaître » CV. 408.CONSEIL (n.m.)« Dessein réfléchi, décision calculée, parti fermement pris » CV. 547, 1162.« Signifie quelques fois, Résolution » FV. 536.« Assemblée de notables, personnes ou officiers pour délibérer sur les affaires publiques, ou pour juger les différents des particuliers (…) », il s'agit sans doute ici du conseil des depesches, conseil « particulier qui se tient dans la chambre du Roy (…) » FV. 265, 289.« Secret de la providence divine » FV. 1144.CONSEILLER (n.m.)« Ministre (…), celui qui donne conseil » FV. 286.CONSULTER (v.)« Réfléchir, hésiter » CV. 759.« Conférer ensemble, délibérer » AV. 772.  CONTENTEMENT (n.m.)« Plaisirs, joyes mondaines » FV. 621.« Satisfaction qu'on a de quelque chose » FV. 170, 377.CONTENTER (v.)« Satisfaire quelqu'un, le rendre heureux ou content, soit en paroles, soit en argent » FV. 202, 480, 1528.« Donner ce qui est propre pour satisfaire ; contenter les passions, les satisfaire » FV. 117.« Suffire » FV. 278, 1204.COUP (n.m.)« Acte frappant, imprévu, se dit aussi des actions héroïques, hardies et extraordinaires, soit en bien, soit en mal » CV. 597, 871.« Accidents extraordinaires qui sont des effets de la Providence, de quelque cause inconnue, de la fortune, du hasard » FV. 889, 890.A ce coup : « Cette fois, pour cette fois » CV. 466, 740, 1453.COURAGE (n.m.)« Cœur comme siège du sentiment, passion, mouvement » CV. 1243, 1249.« Affection, ardeur, zèle sans idée de fermeté à braver le péril, la souffrance » CV. 441, 907. CRUEL (adj.)« Qui ne respond pas bien aux cageolleries qu'on luy fait » FV. 1159, 1215.« Qui est barbare, inhumain, qui aime à tuer, massacrer, tourmenter les autres hommes » FV. 212, 1192.« Celle qui ne fait nulle faveur » RV. 184, 787.DECEU (adj.)« Trompé » FV. 1538, 1577.DESOBLIGER (v.)« Faire quelque déplaisir à quelqu'un, quelque incivilité, luy rendre de mauvais offices » FV. 401. DESSEIN (n.m.)« Détermination, décision, entreprise » C ; « résolution » AV. 236, 338, 354, 573, 962, 1135, 1174, 1259, 1311, 1342, 1380, 1405.« Conception, plan » CV. 554.A dessein : « Exprès et à certaine intention » FV. 367.DISCOURS (n.m.)« Raisonnement, réflexion » CV. 989, 1296.« Action (…) de raconter, par la parole orale ; exposé, récit » CV. 173, 306.« Signifie aussi entretien » AV. 40.« Propos, assemblage de paroles pour expliquer ce qu'on pense » AV. 26, 518, 1245.DIVORCE (n.m)« Différend, querelle » CV. 991. DROIT (n.m.)« Titre qu'on a pour posséder quelque chose ou y prétendre » FV. 954, 1413.A bon droit : « Adverbial, pour dire avec raison, avec juste cause » FV. 255.EFFECT/ EFFET (n.m.)« Acte, réalisation, manifestation » CV. 24, 578, 1034, 1574.En effet : « Réellement » AV. 78.ENTENDRE (v.)« Ouïr, écouter » FV. 85, 160, 181, 441, 539, 550, 723, 740, 761, 773, 829, 831.« Comprendre, pénétrer dans le sens de celui qui parle ou écrit » FV. 10, 516, 922, 1399.« Avoir de l'intelligence avec » FV. 50.« Avoir l'intention, prétendre » FV. 801, 995.ENNUI (n.m.)« Douleur odieuse, tourment insupportable, violent désespoir » CV. 928.« Fâcherie, chagrin, déplaisir, souci » FV. 458.ESPRIT (n.m.)« Souffle, âme » CV. 46, 202, 320, 515, 789, 855, 1214, 1251, 1425, 1435Et notamment « âme de personnes mortes » RV. 1113.« Intelligence » CV. 51, 125, 389, 1270.« Cœur » CV. 1013.« Au pluriel, ce sont de petits corps légers, chauds et invisibles, qui portent la vue et le sentiment dans les parties de l'animal » AV. 1182.ESPROUVER (v.)« Expérimenter » F, « Mettre à l'épreuve » CV. 19, 745, 850.ESTAT (n.m.)« Royaume, province ou étenduë de pays qui sont sous une même domination » FV. 252, 288.« Se dit aussi de la domination et de la manière dont on se gouverne dans une nation » FV. 282.ESTONNEMENT (n.m.)« Action ou effet qui cause de la surprise par de l'admiration » FV. 1471, 1599, 1608.ESTONNER (v.)« Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte » FV. 521, 577, 763, 923, 1269, 1359, 1575.ESTRANGE (adj.)« Hors des conditions où l'on vit habituellement » C, « Extraordinaire » RV. 491, 651, 968, 1371.ESTRANGER (n.m.)« Qui est d'un autre pays que celui où il est » RV. 294, 1581.EVENEMENT (n.m.)« L'issue, le succès de quelque chose » AV. 1475.« Se dit des choses grandes, surprenantes et singulières qui arrivent dans le monde » FV. 1585.FAVEUR (n.f.)« Grâce qu'on fait à quelqu'un, bon office qu'on lui rend » FV. 567.« Bienveillance d'un puissant, d'un supérieur, le crédit qu'on a sur son esprit » FV. 599.« Se dit ordinairement en amour de ce qu'une maîtresse accorde à celui qu'elle aime » FV. 993.« En faveur » ou « à faveur » ou encore « à ma faveur » dans le texte : « en considération, à l'avantage » FV. 374, 775, 1609.« A la faveur » : « Par l'advantage » FV. 449, 1291.FAVORISER (v.)« Faire grâce, plaisir, faveur à quelqu'un, luy aider » FV. 653, 730, 771.FAVORY (n.m.)« Qui a les bonnes grâces d'un prince, d'une personne puissante (…) et généralement d'un supérieur à qui plusieurs s'efforcent de plaire » FV. 197, 231, 1606.FEINTE (n.f.)« Desguisement, apparence, dissimulation » FV. 875, 877.« Coup destiné à tromper, invention, stratagème » FV. 1475, 1487.FEU (n.m.)« Se dit poétiquement pour signifier la passion de l'amour » AV. 48, 146, 358, 360, 488, 665, 813 (jeu de mots avec l'autre sens du terme : « brûlant »), 1350, 1502. « Elément chaud et sec » FV. 135 et 813.« Astres » FV. 698.« Feux ardents » : « Exhalaisons qui s'enflamment » FV. 741, 743.« Feux de joye » : « Feux d'artifices, faits artificiellement avec de la poudre à canon, qu'on tire dans les résjoüissances publiques ou dans les régals magnifiques » FV. 1548. FIDEL, LE (adj.)« En qui on peut avoir foi, en parlant de personnes, qui tient ses promesses » CV. 284, 1570.« En quoi on peut avoir foi, en parlant des choses » CV. 1544.« Docile, obéissant » CV. 427.FIDELITE (n.f.)« Entretien des serments qu'on a faits, des paroles qu'on a données » FV. 689, 768.« Confiance, obéissance docile d'une personne » CV. 1294.FIGURE (n.f.)« Reproduction matérielle d'une forme » C (peinture, sculpture…)V. 71, 1230.« Visage » CV. 1488.FLAME (n.f.)« Partie la plus subtile du feu qui s'élève en haut » FV. 476, 756.« Amour » FV. 3, 362, 664, 868, 1188, 1360, 1448, 1483.« Eclat, vivacité » FV. 750 FLATTER (v.)« Caresser au sens figuré, les sens, l'esprit, charmer, séduire » CV. 661.« On dit flatter quelqu'un de quelque chose pour dire : lui faire espérer quelque chose, l'amuser de l'espérance de quelque chose » AV. 65, 259.FLATTEUR (adj.)« Caressant », AV. 493.FORTUNE (n.f.)« Destinée, ensemble de « (…) tout ce qui peut arriver de bien ou de mal à un homme, ce à quoi il est voué par le sort » A » CV. 232, 304, 728, 1378. « Situation, élevée ou non, où l'on se trouve placé, condition où l'on est » AV. 5, 277, 600, 1584.« Elévation, « se prend aussi pour l'avancement et l'établissement dans les biens, dans les charges, dans les honneurs » A » CV. 59.INFORTUNÉ (adj.)« Malheureux ou à qui il est arrivé quelque accident fortuit » FV. 879.FOY (n.f.)« Fidélité à un engagement donné, honneur, conscience, sincérité, loyauté d'une personne » CV. 334, 1005, 1589.« Ce qui dans les personnes inspire confiance, assurance donnée par une personne, engagement, parole que l'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose » RV. 718, 1511.FUNESTE (adj.)« Qui concerne la mort, funèbre, sanglant, souillé par un meurtre » CV. 563, 880.FUREUR (n.f.)« Emportement violent causé par un dérèglement d'esprit et de la raison » F, « Folie » CV. 1321, 1420.« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements » FV. 1175.FURIEUX (adj.)« Fou, insensé, égaré par une passion, surtout par l'amour »  CV. 1175 (didascalie), 1317.« Signifie aussi Prodigieux… excessif » AV. 1421.GLORIEUX (adj.)« Qui est dans la gloire céleste, qui jouit de la béatitude éternelle » FV. 1422.« Est aussi celuy qui a acquis de la gloire par son mérite, son savoir, sa vertu ou ce qui donne de la gloire » FV. 554.GRACE (n.f.)« En poésie : les grâces en parlant des divers agréments qu'ont les femmes qu'on aime » FV. 479, 1474.« Signifie aussi la bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller, qui plaisent aux autres » FV. 1296, 1504, 1519.« De grâce » : emploi adverbial, signifiant « par faveur, par pitié, par courtoisie » FV. 371, 1009.HONNEUR (n.m.)« Tesmoignage d'estime ou de soumission qu'on rend à quelqu'un par ses paroles ou ses actions » FV. 406, 424.« S'applique plus particulièrement à deux fortes vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes » FV. 62, 242, 405, 993, 1550.« Se dit aussi de la chose qui honore, qui donne de la gloire » FV. 26, 234, 292, 417, 1527.HUMEUR (n.f.)« Caractère au point de vue moral » CV. 1167.« Disposition accidentelle, état d'âme passager » CV. 506, 1372, 1420.« Disposition de l'esprit » FV. 500.« Substance fluide (…). En terme de médecine, certaines provoquent des maladies » FV. 1325.IMAGE (n.f.)« Représentation artificielle que font les hommes, soit en peinture, ou en sculpture » FV. 112, 1231, 1456, 1469.« Peinture qu'on se forme soi-même dans son esprit par les meslange de plusieurs idées et impressions de choses » FV. 732, 763, 1111.INJURE (n.f.)« Offense volontaire qu'on fait à quelqu'un contre la défense de la loi » RV. 307.« Dommage, « tort » R » CV. 774.INTEREST (n.m.)« Ce qui touche une personne, par la part qu'elle y prend ; affaire, question, souci qui la regarde » CV. 279.« Part même que la personne prend à l'affaire, de la façon dont elle s'y trouve mêlée, dont son intérêt y est engagé » CV. 589.JUGER (v.)« Estimer, penser » FV. 213, 598, 1585.LANGAGE (n.m.)« Bavardage » CV. 634, 1244.« Manière dont chacun parle » FV. 919.LICENCE (n.m.)« Liberté, sans idée d'excès, ni de dérèglement moral « Permission. Mais, en ce sens, il est vieux » R » CV. 464, 980.LOY/ LOI (n.f.)« Commandement qui vient d'une autorité supérieure, auquel un inférieur est contraint d'obéir » FV. 17, 612.« Se dit aussi d'une obéissance volontaire qui fait qu'on se soumet souvent aux volontez d'autrui » FV. 333, 602.MAISTRESSE (n.f.)« Fiancée, à cause de l'empire qu'elle exerce sur l'homme qu'elle aime. Se dit aussi des « femmes … simplement aimées de quelqu'un » A, sans qu'il y ait réciprocité, mais toujours d'un amour honnête et légitime » CV. 264, 351, 787, 1004.MERVEILLE (n.f.)« Phénomène étrange, hors de l'ordre commun, « chose rare, extraordinaire, surprenante qu'on ne peut guère voir ni comprendre » F, digne d'étonnement plutôt que d'admiration » CV. 55, 343, 1271.« Il se dit parfois, au singulier, de l'étonnement même, de la surprise » CV. 1471.« Phénomène surnaturel accompli par une divinité » CV. 512, 1543.MERVEILLEUX (adj.)« Surprenant » FV. 1481.NATURE (n.f.)« Comprend toutes les choses créées et incréées, le spirituel et le corporel » FV. 84, 134, 205, 612, 1052.« Action de la providence qui agit en tous les corps » FV. 16, 308, 367, 960, 1336, 1408.OBJET/ OBJECT (n.m.)« Ce qui est opposé à notre vue… ou ce qui se représente à notre imagination » F, spectacle, aspect, image matérielle, vision, image morale » CV. 54, 480, 1044.« Se dit poétiquement des belles personnes qui donnent de l'amour » FV. 1184, 1429.OBLIGER (v.)« Lier, enchaîner par un serment, par un service » CV. 293.« Lier par un arrangement, engager, inviter, prier » CV. 303, 677, 1077.« Exciter, porter quelqu'un à persuasion, par promesse, aussi bien que par force ou menace » FV. 541. « Obliger … de » : « Faire quelque faveur, civilité, courtoisie » FV. 338.PAGE (n.m.)« Enfant d'honneur qu'on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées, et en même temps y avoir une honneste éducation et y apprendre leurs exercices » FV. 81, 1256, 1176, 1294, 1550, 1552.PASSION (n.f.)« Sentiment, mouvement du cœur » CV. 114, 1326.En général, « se dit des différentes agitations de l'âme, selon les divers sujets qui se présentent à ses sens… le volupté, la douleur, la cupidité et la fuite, l'amour et la haine… la colère, l'audace, la crainte, l'espérance et le désespoir, etc… » FV. 1423 ; en l'occurrence, ici il s'agit de l'amour.PEINE (n.f.)« Obstacle, difficulté » FV. 640, 784.« Soin, inquiétude d'esprit » FV. 363, 667.« Douleur, tourment » FV. 14, 378, 1104, 1507.POINCT/ POINT (n.m.)« Se dit aussi de ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté » CV. 345, 957, 1005.« Marque syntaxique »V. 501 (jeu de mots avec le sens précédent).Adv. « de sorte négative… Semble nier plus fort que la négative pas » RV. 26, 36, 61, 79, 89, 100, 146, 169, 171, 217, 246, 253, 259, 344, 346, 355, 399, 411, 412, 428, 468, 510, 526, 641, 651, 705, 706, 753, 763, 785, 806, 816, 822, 840, 866, 892, 896, 962, 1004, 1020, 1075, 1224, 1323, 1360, 1369, 1395, 1400, 1402, 1413, 1430, 1433, 1505, 1509, 1516, 1542, 1549, 1562.POINTE (n.f.)« Pensée qui surprend par quelque subtilité d'imagination, par quelque jeu de mots » AV. 369.PRESSE (n.f.)« Foule » AV. 558, 1340, 1619.« Machine en bois qui sert à serrer fort étroitement quelque chose. Elle est composée de deux pièces de bois unies qui se serrent tant qu'on veut par le moyen de deux vis qui les assemblent. Machine qui sert à imprimer. Mettre sous la presse : imprimer » FV. 352.RARE (adj.)« Qui se trouvent peu souvent et en petite quantité, ou qui ont quelque beauté ou excellence particulière » FV. 97, 199.« Se dit aussi des personnes extraordinaires en savoir, en vertu, en mérite » FV. 35, 477, 804. RENCONTRE (n.f.)On le trouve normalement au féminin, mais il arrivait de le trouver au masculin, comme c'est le cas dans le texte. Il signifie :« Pointe d'esprit, bon mot » AV. 647.« Assemblage, jonction de deux choses qui se meslent ensemble, ou qui se touchent simplement » F, chocV. 793.« Signifie aussi l'arrivée fortuite de deux personnes, ou de deux choses en un mesme lieu » FV. 1310. RICHE (adj.)« Qui a abondance de toute chose » FV. 72.« Se dit de tout ce qui est de grand prix, magnifique, orné » RV. 925, 1079, 1085.SECRET (n.m.)« Choses secrètes, entretien particulier, tête-à-tête » CV. 11, 473, 1336.« Recette particulière pour quelque maladie » RV. 1284, 1320, 1481, 1486.SOIN (n.m.)« Préoccupation, « se dit des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » F » CV. 1253.« Attention, application, attachement à une chose… sans aucune idée d'effort pénible, ni d'inquiétude morale » CV. 125.SOUCI / SOUCY (n.m)« Chagrin, inquietude d'esprit » FV. 1453.SOUFFRIR (v.)« Supporter, subir (avec complément de choses) » CV. 14, 175, 1104, 1202, 1247.« Sentir de la douleur, du mal ou quelque incommodité considérable » FV. 1131.SUBORNEUR (n.m.)« Celui qui corrompt, débauche » FV. 61.TIRAN/ TYRAN (n.m.)« Se dit aussi figurément en Morale, des désirs violents, du désordre de nos passions » FV. 1186, 1247.TOURMENS (n.m.)« Se dit figurément en Morale, des peines et chagrins qu'on se donne soi-mesme, ou les uns aux autres » FV. 15, 385, 1545.TRAICT/ TRAIT (n.m.)« Se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils inspirent de l'amour » CV. 77, 1330.« Se dit aussi des diverses parties et configurations du visage » C,V. 84 (jeu de mot entre ce sens et celui de « coup de crayon »), 86, 116.« Se dit aussi en quelques supplices, coups » FV. 310.« En terme d'architecture, se dit du dessin et de la coupe » FV. 84, 121.« Se dit figurément et poétiquement des regards et des blessures que les traits font dans les cœurs quand ils y inspirent de l'amour » FV.21.« Se dit figurément en choses spirituelles et morales » FV. 508, 631, 1220.VERTU (n.f.)« Energie, force, vigueur, tant du corps que de l'âme. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance » CV. 214, 1250.« Il se dit aussi de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite » CV. 1261.
+
+
+# Annexe 1 : Épitre dédicatoire des *Travaux d'Ulysse* de Durval
+
+A très-haut et puissant Prince, Henry de Savoye, Duc de Genevois, de Nemours et d'Aumalle, Comte de Geneve, et de Gisors, Marquis de Sainct Sorlin, etc.
+
+Monseigneur,
+
+*Il vous semblera peut-être que je fais une faute de me donner au public en un temps où j'ay esté entierement vostre. Mais quand ce livre, que je dedie à***Vostre Grandeur** , *n'auroit pas esté sous la presse lors que j'eus l'honneur de vous offrir mon tres-humble service, il me seroit impossible de vous celer que je l'eusse fait, et j'aurois mauvaise grace de la desadvouër. Ce n'est pas de la fausse monnoye que que de la poësie. Je ne craindray jamais que l'on me treuve saisi de quelques pieces de pareille estoffe, principalement si elles sont bonnes, et si vous permettez qu'elles soient marquées au coin de vos armes, et de vostre nom.*
+
+*Celle-cy (***Monseigneur*) **est la premiere que j'ay faite, et par consequent elle ne peut pas estre la meilleure : Pourtant elle a esté assez bien reçeuë, et il me souvient qu'à Fontaine-bleau lors qu'elle fut représentée devant le Roy, vous daignastes l'approuver. Sa Majesté fut si contente de vous ouïr, que ce Heros qui vous servit d'entretien n'a jamais reçeu tant de gloire des acclamations publiques de toute la Grece, ny de la plume des bons Autheurs, qu'il en receut, en presence d'un si grand Roy, de la bouche d'un si grand Prince. Deslors je me sentis obligé de vous dedier ce Poëme (outre l'inclination que j'y avais, pour l'estime que vous faites des belles sciences) et vrayment rien ne m'en a empesché jusqu'à present qu'une occasion d'estre cognu de vous, que j‘ay tousjours attenduë, et qui enfin m'est arrivée fort à propos. Vous sçavez trop** (*Monseigneur*) **le sujet de cet œuvre, il me suffit de vous dire que je n'ay point pris à tasche toute l'histoire d'Ulysse, et que j'ay seulement recueilly ses plus belles advantures, pour les accomoder à la Scène Françoise. Mon dessein n'a pas esté d ‘embarrasser le théatre de la continuation de ses longs voyages par terre et par mer. Un si ample argument excede les regles de la dramatique, et quand j'aurois disposé toute l'Odyssée d'Homere en autant de journées qu'il y a de livres, à peine aurois-je eu le contentement d'y rien adjouster du mien ; et ayant basty sur le fonds d'autruy, je ne pourroy qu'à faux titre y pretendre quelque droict. J'ai donc mieux aymé choisir ce que j'ay pensé estre de plus beau et de plus utile en ceste fable, et sur les plus hautes entreprises que ce sage Guerrier a executées, je n'ay fait bonnement que traduire les plus ingenieuses fictions des Payens, je reserve mes propres imaginations pour vous (***Monseigneur**  ) *et pour les Princes de vostre sang. C'est la plus glorieuse occupation que je pouvoy desirer, je borne là toute mon ambition ; et pour tesmoignage de l'obeïssance actuelle que je vous ay vouée, j'ose vous presenter ce petit ouvrage. Si vous luy donnez place en vostre cabinet, vous le mettrez à couvert de l'enuie et des médisans, et souz vostre permission je me diray toute ma vie*,
+
+
+
+Monseigneur,
+
+De vostre Grandeur,
+
+*Le tres-humble, tres-obeïssant et tres-obligé serviteur*, **J.G.Durval.**
+
+
+# Annexe 2 : Extrait des Amours tragiques de Pyrame et Thisbé de Théophile de Viau, acte IV, scène 3 et acte V, scène 1.
+
+ACTE IV, Scène 3, *Thisbé seule.*
+Déesse de la Nuit, Lune mere de l'ombre,  
+Me voyant arriver sous ce feuillage sombre,  
+Tiens toy dans ton silence, et ne t'offence pas,  
+De l'Amour effronté qui guide icy mes pas,  
+Ne me regarde point pour envier mon aise,  
+C'est assez qu'icy bas qu'Endymion te baise,  
+Et sans me quereller d'aucun jaloux soupçon,  
+Demeure toute seule avecque ton garçon,  
+Et croy qu'en ce dessein que mon Amour hazarde,  
+Je n'ay d'intention pour rien qui te regarde,  
+Celuy qui maintenant te fait icy venir,  
+N'a que trop dans ses yeux dequoy m'entretenir,  
+Et toy sacré ruisseau dont le plaisant rivage,  
+Semble plus accostable en ce qu'il est sauvage,  
+Redouble à ma faveur le doux bruit de ton cours,  
+Tant que tous les Sylvains en puissent estre sourds,  
+Et que la vaine Echo de ton bruit assourdie,  
+Mes amoureux propos à ces bois ne redie,  
+Mais non, va doucement de peur de resveiller  
+Les Nymphes de tes eaux, laisse les sommeiller,  
+L'onde ne leur met pas tant de froideur dans l'ame,  
+Qu'elle ne s'embrassast en regardant Pyrame,  
+Mais quoy ? ce paresseux est encor à venir,  
+Je ne sçay quel subject le peut tant retenir,  
+Il a bien de l'amour, mais il n'est pas possible,  
+Qu'il ne ressente au poinct, où je me voi sensible,  
+Je ne le dis qu'à vous, ruisseaux, antres, forests,  
+A qui mesme Diane a commis ses secrets,  
+A ma faveur, Echo commande à ceste roche,  
+De luy toucher un mot d'un amoureux reproche,  
+Mais n'oy-je pas de loing ce semble un peu de bruict (…)  
+
+ACTE V, Scène I, *Pyrame seul.*
+En fin je suis sorty ; leur prudence importune,  
+N'a plus à gouverner, ny moy, ny ma fortune,  
+Mon Amour ne suit plus que le flambeau d'Amour,  
+Dans mon aveuglement je trouve assez de jours.  
+Belle nuict qui me tends tes ombrageuses toilles :  
+Ha ! vrayment le Soleil vaut mieux que tes estoilles,  
+Douce et paisible nuict, tu me vaux desormais  
+Mieux que le plus beau jour ne me valut jamais,  
+Je voy que tous mes sens se vont combler de joye,  
+Sans qu'icy nul des Dieux ny des mortels me voye,  
+Mais me voicy desja proche de ce tombeau.  
+J'apperçoy le Meurier, j'entends le bruict de l'eau,  
+Voicy le lieu qu'Amour destinait à Diane,  
+Icy ne vient jamais rien que moy de prophane,  
+Solitude, silence, obscurité, sommeil,  
+N'avez-vous point icy veu luire mon Soleil,  
+Ombres, où cachez-vous les yeux de ma maistresse,  
+L'impatient desir de le sçavoir me presse :  
+Tant de difficultez m'ont tenu prisonnier,  
+Que je mourois de peur d'estre le dernier :  
+Mais à ce que je voy, je m'y rends à bonne heure,  
+Puis qu'encore en son lict, mon Aurore demeure,  
+Attendant qu'elle arrive icy bien à propos,  
+Le reste de la nuict m'offre son doux repos :  
+Mais pourrois je dormir en mon inquietude,  
+Quelque sommeil qui regne est ceste solitude,  
+Depuis que je la sers, Amour m'a bien instruict,  
+A passer sans dormir les heures de la nuict,  
+Le murmure de l'eau, les fleurs de la prairie,  
+Cependant flatteront un peu ma resverie,  
+O fleurs si vos esprits jamais se transformans,  
+Despouillerent le corps des malheureux Amans,  
+S'il en est parmy vous qu'il se souvienne encore,  
+D'avoir souffert ailleurs qu'en l'Empire de Flore,  
+Deux objects de pitié ne soyez point jaloux,  
+Si la faveur d'Amour m'a traicté mieux que vous,  
+Et si du temps passé le souvenir vous touche,  
+Prestez nous sans regret vostre amoureuse couche ;  
+
+
+# Annexe 3 : EXTRAITS DU DISCOURS A CLITON SUR LES OBSERVATIONS DU CID, ATTRIBUE A DURVAL :
+
+Tu me demandes, Cliton [616], ce qu'il me semble du *Cid* et des observations que nous en avons. N'est-ce pas me vouloir mettre mal avec l'un ou l'autre de nos Autheurs qui sont en querelle, et peut-estre avec tous les deux ensemble ? veritablement si j'estois assez habile homme pour trouver un moyen de les accorder, j'amerois mieux faire le hola [617] que de m'engager à prendre party, ou de les avoir tous les deux sur les bras (…).
+
+Je me suis trouvé une fois dans le pareterre, et une autre fois dans les galleries à la representation de ce nouveau Poëme ; et je suis tesmoin de ce qu'en disent encore les sçavants, et les ignorants, la cour et le bourgeois, comme remarque nostre Observateur : je n'en connois l'Autheur que de nom, et par les affiches des Comediens. Or à cause que je fais quelque fois des vers [618], et que je favorise ceux qui s'en meslent, j'ay inclination pour luy, et je panche desja du costé de ses Approbateurs [619] (…).
+
+Mon dessein est bien de m'y [620] arrester pour te satisfaire : toutefois je ne m'oblige pas de respondre ponctuellement à l'Observateur [621] car il me souvient d'avoir escrit quelque chose de cette matiere, il y a cinq ou six ans principalement de la disposition du Poème Dramatique, et de la pretenduë Regle de vingt-quatre heures, qui est la plus embroüillée, et la plus épineuse partie de ce genre de Poësie, car pour l'invention nous en sommes tous d'accord (…).
+
+Il s'agit de sçavoir, comme doit estre disposé le Poëme Dramatique, qui n'est autre chose qu'un oeuvre [622], où le poëte ne parle point ; mais où sont introduites des personnes qui parlent. De ce genre sont les Eglogues et les Dialogues, mais principalement les pieces de theatre comme les Tragedies, les Tragicomedies, les Pastoralles et les Comedies. Tels Poëmes pour estre bien faicts ont leurs Regles et leurs mesures, non toutefois égales, mais selon que les Auteurs anciens et modernes les ont prescrites en divers temps. Or comme une ville mal policée, les Artisans font ce qui leur plaist, et ne laissent pas de faire passer leurs manufactures pour bonnes, bien qu'ils travaillent sur de faux modelles. Beaucoup d'esprits qui ne connoissent point de maistrise au mestier de Poësie, ont produit quelques ouvrages, mais non de tel poids, et de telle valeur qu'il seroient si les Regles de l'Art estoient bien gardées. Recherchant la cause de cet inconvéniant : il m'a semblé qu'il provenoit de ce que plusieurs qui se meslent d'escrire, non seulement rejettent les bonnes loix, mais encore authorisent les mauvaises. Entr'autres j'au consideré celle qu'ils appellent de vingt-quatre heures, par laquelle ils veulent que toutes les pieces de Theatre soient faictes de telle sorte, que par la disposition de l'œuvre et le recit des Acteurs on connoissent que toutes les choses representees ont peu estre faictes dans vingt-quatre heures, pour ce (disent-ils) que le jugement ne peut concevoir, ny la memoire comprendre ce qui se passe sur un Théâtre en deux heures esté faict en plus long temps, que d'un jour et d'une nuict : Et cette regle, ils la rendent si généralle, et si necessaire, qu'un Poëme n'est pas bien faict, si le sujet n'est ainsi disposé. Quelques uns exceptent de cette Loy, la Tragedie et la Tragicomedie ; mais ils desirent qu'elle soit gardée en la Pastoralle ; Et principallement en la Comedie (…).
+
+Les uns sont tellement attachez aux œuvres du temps passé, qu'ils font conscience de ne rien inventer, et les autres se plaisent si fort dans leurs nouvelles imaginations, qu'ils ne veulent rien imiter des Anciens. Pour moy qui cherche un milieu entre ces deux extremes ; je respect (sic) autant qu'un autre les Terences, les Plautes, les Euripides, et les Ménandres (…) je ne crois pas que nous soyons tenus de regler nos poëmes sur les modelles des Grecs et des Latins, quand il nous vient quelque lumiere qu'ils n'ont pas euë, ou quelque grace dont ils ont manqué. Aussi quand les modernes prennent l'essor, et qu'ils s'esgarent en des extravagances, je commence à les quitter, mais quand ils me descouvrent un nouveau fond de Poësie, et des elegances de leur invention, je laisse les anciens derriere, sans perdre de veuë les uns ny les autres. (…) Nos Réguliers ne veullent au Theatre qu'une action principale, un temps reglé de vongt-quatre heures, et une Scene en un seul lieu. Et d'autant que cette Regle generalementprise, semble exclurre toute autre façon de disposer un Poëme Dramatique : mon dessein est de montrer qu'elle n'est point générale ny necessaire, et que l'observation est non seulement dificile, mais absurde et vicieuse (…).
+
+Pour ce qui est des anciennes pieces des Grecs et des Latins, sur les patrons desquelles, celles des italiens semblent estre faites, je demeure d'accord de quelques unes, mais non pas pour les tirer en conséquence, et en faire une regle generalle : car il est bien vray qu'un effet Tragique ou Comique pouvant arriver en une journée, est naturellement disposé à estre discouru et representé dans un pareil temps, mais il faut sçavoir que tels Poëmes, dont les circonstances et les evenements se terminent à un jour, sont Poëmes simples. Les autres qui sont composez de deux ou trois sujets remplis d'effects et d'incidents sont hors de la Regle de vingt-quatre heures, et demandent un plus long temps pour estre representez, non toutesfois si long qu'il seroit si les choses se faisoient, mais tel que les Auditeurs en puissent discerner une partie est supposer l'autre (…). Pour monstrer aux opinastres que je ne parle point sans authorité, et que la distinction que j'ay apportée des poëmes simples et composez, n'est poinct une loy nouvelle, j'ay à leur dire qu'Aristote l'a escite en sa Poëtique (…). Je dis par la raison, en ce que, comme dans la nature, rien n'empesche que deux choses de mesme essenc (sic) ne puissent estre joinctes, et ne puissent faire ensemble un plus grand corps, et occuper un plus grand lieu qu'elles ne faisoient chacune à part : De mesme il n'y a nulle absurdité que deux ou plusieurs sujets simples de Tragedies ou Comedies ne puissent estre joints, et ne puissent faire ensemble un Poëme composé, qui demandera un plus long temps et un plus grand lieu pour sa representation qu'il n'en faloit pour representer chacun separement. (…) Par l'unité d'action ils [623] n'accomodent que le Theatre qu'a une sorte d'histoires, au lieu d'accomoder toute sorte d'histoires au Theatre, par l'espace de vingt-quatre heures ils restraignent la puissance de l'imagination et de la memoire, au lieu de l'estendre et font les auditeurs d'un petit Esprit, et par la Scene qu'ils assignent en un seul lieu, ils ostent tous les cas fortuits qui sont en la nature et imposent une necessité aux choses de se rencontrer icy ou la, en quoy ils destruisent la vraysemblance regle fondamentale de la Poësie.(…)
+
+Cependant il me suffit que les pieces que j'ay faictes, quoy qu'en petit nombre, parviennent és mains de ceux que j'honore et que je cheris, et qu'elles prejugent à l'avenir ce que j'aurois pu faire de plus. Si je renonce au mestier, ce n'est pas qu'il me déplaise, ny que je m'en lasse, mais je ne le puis faire ny en Mercenaire, n'ayant pas le cœur si bas, ny gratuitement, n'en pouvant gratifier que des Comediens, autant indignes du bien qu'on leur fait, qu'ils sont incapables de juger des pieces qu'on leur donne.
+
+
+# Bibliographie
+
+
+## AgariteAgarite, tragi-comédie
+
+
+
+## Autres œuvres de Jean-Gilbert DurvalLes Travaux d'Ulysse, tragi-comédie, tirée d'Homère
+Discours à Cliton sur les Observations du CD avec un Traité de la disposition du Poème Dramatique, et de la prétendue Règle des vingt-quatre heures, Paris, imprimé aux dépens de l'AuteurLa Querelle du Cid, pièces et pamphlets publiés d'après les originaux avec une introduction
+Panthée, tragédie
+L'Ecclésiaste en vers Liriques, accomodé à la politique morale et chrétienne…
+L'Annonciade
+La Poésie au Roy
+La Lyre du jeune Apollon, ou la muse naissante du petit de Beauchasteau
+
+
+
+## Textes contemporainsCélinde
+Œuvres Meslées
+Ballets, mascarades de cour de Henri III à Louis XIV, 1581-1652
+Antioche, Tragoedie traitant le martyre de sept enfants machabéens
+La Sœur valeureuse, ou l'Aveugle amante, tragi-comédie
+Les Passions égarées ou le roman du temps, tragi-comédie, par le Sr de Richemont-Banchereau
+Angélque ou la Pélerine amoureuse
+Conte d'hiver
+La Tragédie du vengeur
+Comedias novelescasLa Fuerza lastimosa; Don Juan de Castro; la doncello Teodor; la prueba de los ingenios; el mármol de Felisardo; la pobreza estimada
+Les Amours tragiques de Pyrame et ThisbéŒuvres Complètes
+
+
+
+## Textes théoriques (avant 1800)
+
+
+### AntiquitéLa Poétique
+
+
+
+### XVII*e* siècleOpuscules critiques
+Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne
+
+
+
+## Études générales sur l'histoire des idées, l'histoire littéraire, la littérature au 17*e* siècleHistoire de la littérature française au 17*e* siècle
+Le Masque et le visage, du baroque espagnol au classicisme français
+La Querelle du Cid
+The Triumph of time 1584-1588, in Life and complete works in prose and verse...
+Bibliographies des recueils collectifs de poésie publiées de 1597 à 1700
+Le Langage dramatique
+Essai sur les Théories dramatiques de Corneille d'après ses discours et ses examens
+La Littérature de l'âge baroque en France : Circée et le paon
+Lire le théâtre
+
+
+
+## Études sur le théâtre du 17*e* siècle
+
+
+### RecensionsL'Ère baroque en France, répertoire chronologique des éditions de textes littéraires (1585-1643)
+A History of French Dramatic Literature in the XVIIth Century
+Histoire du théâtre français depuis ses origines jusqu'à présent
+
+
+
+### Etudes généralesArmand Gasté « la Querelle du Cid »
+La Tragédie de l'âge classique (1553-1770)
+Temps de préfaces. Le débat théâtral en France de Hardy à la Querelle du Cid
+Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+Introduction à l'analyse des textes classiques. Eléments de rhétorique et de poétique du 17*e* siècle
+Le Théâtre dans le théâtre
+Études sur le théâtre français
+Le Théâtre français avant la période classique (fin 16*e* et commencement du 17*e*)
+La Dramaturgie classique en France
+
+
+TRUCHET, Jacques, *La Tragédie classique en France*, Paris, PUF, collection « SUP », 1975.
+
+
+### Etudes sur la tragi-comédieTragi-comédie de Corneille à Quinault
+La Tragi-comédie
+The French tragi-comedy. Its origin and development from 1552 to 1628*re*
+
+
+
+## Instruments de travailDictionnaire de l'Académie française
+Dictionnaire du français classique. La langue du XVII*e* siècle
+Dictionnaire universl contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
+
+
+
+### SyntaxeSyntaxe française du XVII*e*  siècle
+Introduction à la langue française du XVII*e* siècle
+Remarques sur la Langue française
+
+
+
+### VersificationEléments de métrique française
+
+
+
+### Autres ouvragesLe Livre des superstitions
+
+
+-------
+
+
+[1] *La Dramaturgie classique en France*, 1950, p. 196.
+
+[2] Il affirme dans sa préface qu'il a atteint « l'âge viril », voir p. LXIII.
+
+[3]  Voir les différentes préfaces de ses pièces ainsi que *le Discours à Cliton*, qu'on lui attribue, présentés en annexes.
+
+[4]  Lancaster, *A History ofFrench dramatic literature*, Part. I, p. 531-532.
+
+[5]  Armand Gasté, *La Querelle du Cid*, Mémoire de DEA, Paris III, 1994.
+
+[6] *Histoire du théâtre français depuis ses origines jusqu'à présent*, 1734-1749, 5*e* vol., p. 412.
+
+[7] *A History of French dramatic Literature*, Part. I, p. 463.
+
+[8] *Biographie de recueils collectifs de poésies publiées de 1597 à 1700*, 1905.
+
+[9] *Œuvres meslées*, 1634, p. 33-34.
+
+[10] *A History of French dramatic Literature*, p. 463.
+
+[11] Rotrou était en effet un « écrivain professionnel ».
+
+[12] L'honnêteté de Rayssiguié a en effet été mise en doute.
+
+[13]  Nous prendrons appui en ce qui concerne la pagination, sur le texte réédité par Armand Gasté, *La Querelle du « Cid »*, H. Welter, 1898.
+
+[14] Paru en 1852.
+
+[15] Voir note 5.
+
+[16] *Temps de Préface*.
+
+[17] *La Querelle du Cid*, p. 276
+
+[18] Ibid.
+
+[19] *Histoire du Théâtre français depuis ses origines jusqu'à présent*, vol. V, p. 112.
+
+[20] De Laurent Mahelot, décorateur de l'Hôtel de Bourgogne.
+
+[21]  C'est probablement, si l'on en croit Lancaster, parce que Targa était en train de publier *Agarite*, que Durval supprima la référence à l'éditeur que l'on peut trouver dans certaines éditions de *la Matinée : Les Conseillers du Parlement / Vont au Palais tout bellement / La Cour est d'un monde suivie, / Les présidens se vont prier ; / Desja, pour vendre une Silvie, / Targa s'égore de crier. Remplacé par : Les Advocats du parlement  / Vont au Palais tout bellement, / Les clients en troupe les suivent / Et recomandent leurs procès / A des jeunes Clercs qui ne vivent / Que de factums et de placets.*
+
+[22] À ce sujet, Durval avoue dans les pages consacrées au lecteur, qu'« une considération l' empêche de nommer le royaume et la province où il a feint cette histoire ».
+
+[23] *A History of French dramatic Literature*.
+
+[24] 1632. 
+
+[25] *Angélique ou la pélerine amoureuse*, 1637.
+
+[26] 1622 ; noter au passage la ressemblance entre les prénoms « Angélie » et « Amélise ».
+
+[27]  Encore que celui-ci n'apparaisse pas dans *Agarite*. 
+
+[28]  R. Lebègue, « Le théâtre de démesure et d'horreur en Europe Occidentale aux 16*e* et 17*e* siècles », dans *Études sur le théâtre français*, Paris, Nizet, 1977-1978 (2 vol.).
+
+[29] *Le Théâtre dans le théâtre*, p. 55.
+
+[30]  Durval, Corneille (*L'Illusion comique*) et Baro (*Célinde*) qui développent tous les trois dans leur pièce, le procédé du théâtre dans le théâtre. 
+
+[31]  Georges Forestier, *ibid.*
+
+[32]  Cette idée est développée par Georges Forestier, dans *ibid.*
+
+[33] *Ballets et mascarades de cour, de Henri III à Louis XIV, 1581-1652*, t. IV, de Claude de L'Estoile, Pierre Cotignon et Guillaume Colletet.
+
+[34] *Ibid.*, p. 466.
+
+[35] *Le Discours à Cliton*, édition d'A. Gasté, p. 253.
+
+[36] Durval ne fait mention d'aucun nom de pays et le roi reste anonyme.
+
+[37] *Agarite* est un « poème composé ».
+
+[38]  Laurent Mahelot, *Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne*, édition H.C. Lancaster, Paris, Champion, 1920, p. 80, 81.
+
+[39] « Mon père, prenez vostre fille à mercy », acte V, scène 3.
+
+[40] *A History of French dramatic Literature*, p. 469.
+
+[41] *La Sœur valeureuse, ou l'Aveugle amante, tragi-comédie*, Paris, A. de Sommaville, 1634.
+
+[42]  Voir *Temps de préface* de Dotoli et *La querelle du Cid* de Jean-Marc Civardi.
+
+[43] *Le Discours à Cliton*, p. 251.
+
+[44] Idée qui est renforcée par le départ forcé de Lizène, de chez Agarite ; Lizène qu'on ne retrouve qu'à la ville pour la célébration de ses noces.
+
+[45] Les amours contrariées de Corintie et de Célidor.
+
+[46] V. 461 : « Hé Dieu ».
+
+[47] V. 731.
+
+[48] V. 771.
+
+[49] V. 1997.
+
+[50] C'est d'ailleurs une des manifestations du baroque.
+
+[51] Où le déguisement est un élément fondamental de la pièce.
+
+[52]  Georges Forestier, *Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars*, p. 113.
+
+[53]  Effectivement, il y a quelque chose de piquant pour le public du 17*e* siècle dans le fait de voir deux hommes s'embrasser sur scène. Après 1635, la règle de la bienséance fera disparaître ces scènes du théâtre.
+
+[54] *Esthétique de l'identité dans le théâtre français*, 188.
+
+[55] C'est le milieu de la pièce.
+
+[56]  Georges Forestier, *Le Théâtre dans le théâtre*, p. 10.
+
+[57] *Ibid.*, p. 54 et suivantes.
+
+[58] Littéralement « pièce dans la pièce ».
+
+[59]  R. Lebègue, *Le Théâtre de démesure et d'honneur en Europe Occidentale aux 16*e* et 17*e* siècle, Etudes sur le théâtre français.*
+
+[60] *Ibid.*, p. 132.
+
+[61] Ibid.
+
+[62]  Georges Forestier, *Le Théâtre dans le théâtre*, p. 81.
+
+[63] Car finalement, entre le moment où Lizène apparaît sur scène pour la première fois, c'est-à-dire acte II, scène 1, et celui où il se fait tuer (acte III, scène 1), il ne se passe qu'un acte, ce qui est peu considérable, et ce d'autant que son nom ne sera plus prononcé après cette scène tragique.
+
+[64] Les amants qui ignorent que Lizène va mourir anticipent l'action, ce qui permet de surcroît à Agarite d'échapper au rapt envisagé par Célidor. De plus, c'est dans mort de Lizène que l'histoire de Corintie et de Célidor prendra un sens.
+
+[65] *Ibid*.
+
+[66]  Voir ci-dessus, l'étude thématique « *Agarite* et *le Discours à Cliton* ».
+
+[67] Voir le Mémoire de Mahelot où il est dit qu'il faut des instruments particuliers, pour pouvoir représenter la pièce. 
+
+[68]  « Autoreprésentation du théâtre », le terme est de Georges Forestier dans *Le Théâtre dans le théâtre.*
+
+[69] Acte II, scène 4.
+
+[70]  « Il y a théâtralisation toutes les fois qu'une action dramatique passe par le détour du théâtre dans le théâtre, sans que ce détour soit nécessaire, toutes les fois qu'elle devient spectacle sans cesser d'être action dramatique », Georges Forestier, *ibid.*, p. 326.
+
+[71] Ibid.
+
+[72] Acte v, scène 3.
+
+[73] Le théâtre de la supercherie étant le fabuleux lit de parade, et le metteur en scène Policaste qui a expliqué à la princesse comment elle devait procéder.
+
+[74] À la fois acteur et spectateur.
+
+[75] Acte II, scène 1.
+
+[76] Acte III, scène 3.
+
+[77] Acte II, scène3.
+
+[78]  BABY, Hélène, La *Tragi-comédie de Corneille à Quinault.*
+
+[79] Ibid.
+
+[80] N'oublions pas que Durval était également poète à ses heures.
+
+[81] Nous pouvons en dénombrer cinq dans la pièce : celui du roi, Acte I, scène 1, qui traite de l'amour et de ses tourments ; celui de Policaste, puis celui d'Agarite, Acte III, scène 2, craignant l'un et l'autre que l'objet de leur amour ne soit pas au rendez-vous ; celui de Corintie, Acte IV, scène 5, où il est question du dilemme auquel elle est en proie au sujet de Célidor ; enfin celui du roi, furieux, qui occupe la totalité de la scène 5, acte IV. 
+
+[82] Bibliothèque du British Museum
+
+[83] Se dit aussi à l'affirmative pour dire « en quelque façon », quelque peu, selon Furetière.
+
+[84]  Vient du latin *poesis*, qui signifie genre poétique, et en particulier « œuvre poétique ». Au XVII*e*, siècle, il a le sens particulier de « pièce de vers » et au sens général, celui d' « art de faire des vers ».
+
+[85]  Le terme « poème » vient du grec *poiêma* et désigne ce que l'on fait : une création, une œuvre. 
+
+[86] Raison de la publication tardive.
+
+[87] Le théâtre est avant tout fait pour être joué et regardé que lu.
+
+[88]  Allusion à la tragédie : il semble alors que Durval ne considérait pas *les Travaux d'Ulysse* comme une tragédie.
+
+[89]  En effet, la première tragi-comédie de Durval est *Les Travaux d'Ulysse*, selon Lancaster, il est probable qu'au fond Durval la considère comme une tragédie.
+
+[90]  « Accomodé, selon G. Cayrou. Dans *Panthée*, en 1639, Durval affirme que la restriction impliquée par la discipline rigoureuse qu'imposent les règles des unités, entraîne une restriction de l'esprit : « L'effet de cette loi nouvelle / Est de décomprimer la cervelle, / De rétrécir l'entendement, / D'affaiblir l'imaginative (…) ».
+
+[91]  Durval ne publiera en définitive que trois pièces : *Les Travaux d'Ulysse* et *Agarite* (qui sont deux tragi-comédies), et *Panthée* (l'unique tragédie de Durval). Il nous est impossible de dire quelle a été la quatrième pièce, écrite certainement à ce moment-là.
+
+[92]  Concepts retrouvés dans *Panthée* et dans le *Discours à Cliton*, ce qui rend quasi-certaine l'attribution du *Discours* à Durval.
+
+[93] Voir note précédente. 
+
+[94] « Le substantif est tantôt masculin, tantôt féminin », selon Furetière.
+
+[95]  Ce prénom est trouvé dans un poème de Jean Ogier de Gombault (1588-1666), intitulé *Carite a pour jamais quitté ses fontaines.*
+
+[96] Cela témoigne du succès de la pièce lors de sa représentation.
+
+[97] Comprendre que les cieux avaient répandu les grâces…
+
+[98] Un jour, Jupiter avala la mère de Pallas, Métis, tandis qu'elle était enceinte, car un oracle lui avait prédit que le premier enfant serait une fille et que le second serait un garçon qui le détrônerait. Un jour, Jupiter fut pris d'un mal de tête terrible ; Pallas naquit du crâne de son père, toute armée.
+
+[99] Littéralement, « paroles préférées ».
+
+[100] Il s'agit des Neufs Muses, filles de Jupiter.
+
+[101]  Allusion aux *Travaux d'Ulysse*, la précédente pièce de Durval.
+
+[102] Ulysse est sorti des Enfers après avoir rencontré l'âme des grands héros morts, ainsi que l'ombre de sa mère.
+
+[103] Agarite a indirectement tué Lizène tandis qu'Ulysse a tué le cyclope, ainsi que les troupeaux qui appartenaient au soleil. En punition ses compagnons moururent sans exception. Seul Ulysse survécut. 
+
+[104] En effet Agarite qu'on croit morte, est retrouvée vivante à la fin de la pièce.
+
+[105] Lieu où vivent les Muses.
+
+[106] Il s'agit de Pégase qui ne prête son dos et ses ailes qu'aux poètes. Il venait en ce lieu régulièrement.
+
+[107] *Les Travaux d'Ulysse* s'achève par la colère de Zeus. Ainsi le trait d'humour de l'auteur : c'est le succès d'*Agarite*, qui arrête la colère divine de la première pièce de Durval.
+
+[108] L'auteur de ce poème n'a pu être identifié.
+
+[109] Ironie en ce qui concerne l'unité de lieu remise en question à l'époque.
+
+[110] Comprendre : Et bien que ma fortune me rende l'amour plus facile. 
+
+[111]  « Appareil magnifique » *Dictionnaire de l'Académie française*, 1694. 
+
+[112]  Au 17*e* siècle, le lien causal est plus vague devant les infinitifs qui sont précédés de « de », comme dans ce cas, le français moderne les construisant directement.
+
+[113] Cupidon, le Dieu de l'Amour. La personnification de l'amour est souvent représentée comme un chérubin ailé qui tire des flèches. De là, l'allusion à l'enfant, vers 12 et aux traits, vers 21.
+
+[114]  Comprendre : en cachette. La préposition « à » tend à remplacer toutes les autres au 17*e*, et s'emploie ici avec le sens de « en ».
+
+[115] Comprendre : et qui (la nature) fait en sorte que Princes et Rois obéissent bon gré mal gré à Cupidon.
+
+[116] Sous-entendu, celles de Cupidon, voir supra, la note du vers 8. A la force signifie « A l'aide, au secours », selon Furetière.
+
+[117]  Le pronom personnel régime indirect, complément d'un infinitif régime précède le plus souvent le syntagme verbal, l'infinitif faisant corps au 17*e* avec le verbe régent, comme c'est le cas pratiquement tout au long de la pièce.
+
+[118] Selon Furetière, « Monnoye d'or estrangere battuë en Espagne, et en quelques endroits d'Italie », ce qui nous donne une indication sur le pays dans lequel pourrait se dérouler cette pièce.
+
+[119]  Les signes de ponctuation sont utilisés différemment au 17*e* : le point marque un temps long, et remplace parfois, comme c'est le cas ici, les points de suspension.
+
+[120] « Si » a une valeur adverbiale d'opposition et signifie dans le cas présent « pourtant ». Dès lors, il peut justifier une inversion du sujet.
+
+[121]  Le Tage est un fleuve du Portugal qui avait pour réputation de rouler de l'or ; dans *Les Métamorphoses* d'Ovide, il est écrit que « (…) l'or que roule le cour du Tage, coule en fusion (…) ».
+
+[122]  « Qui donne avec raison et jugement, en sorte qu'il ne soit ni prodigue, ni avare. » A.Furetière, *Dictionnaire universel*, 1690.
+
+[123]  Il faut selon Vaugelas, dans *Remarques sur la Langue française*, écrire « jusques » même devant une consonne ; mais « on dit l'un et l'autre » (P.Richelet, *Dictionnaire françois*, 1680, selon les besoins de la mesure. 
+
+[124] Comprendre : je fais tout ce que je peux dans ce but.
+
+[125] Sens de « à moins que ».
+
+[126] Comprendre : jamais avant que vous ne l'épousiez. 
+
+[127]  Lorsque deux impératifs sont coordonnés, il est constant tout au long du 17*e* siècle et au-delà, que le pronom personnel complément, régime direct, à la forme atone, vienne se placer devant le dernier impératif. Cela est constant dans la pièce.
+
+[128] Fait fondre.
+
+[129]  Faire « se joint avec divers substantifs, avec lesquels il forme des phrases, qui peuvent se résoudre par les verbes primitifs ou dérivés, qui répondent à chacun de ces substantifs », *Dictionnaire de l'Académie française*, 1694, ici « monstre » est selon Cayrou l'« action d'étaler pour séduire, à l'occasion pour tromper » ; il faut donc comprendre ici que le marchand fait étalage des plus beaux tableaux pour attirer l'œil des promeneurs.
+
+[130] « S'appliquer » signifie « S'intéresser » selon Furetière.
+
+[131] Présent à valeur de futur : Célidor raconte au roi son plan et imagine. La même remarque est à faire pour les verbes qui suivent aux vers 53 et 55.
+
+[132]  Comprendre : son portait charme autant ses yeux que je charme ses oreilles en faisant vos louanges. La virgule remplace indifféremment au 17*e* les points de suspension.
+
+[133] Voir la note du vers 29.
+
+[134] Comprendre : je vous le laisse à penser.
+
+[135] « Favory, soit en matière d'amitié, soit d'amour. La plus part des princes ont des mignons », selon Furetière.
+
+[136] Voir la définition de ce mot p. XV.
+
+[137] « Chasteté », Furetière.
+
+[138] Comprendre que la phrase reste en suspens.
+
+[139]  Comprendre : vous les étalez exprès ; « faire (…) se joint aussi avec divers (…) substantifs, sans que les phrases qu'il sert à former puissent se rendre par un verbe qui y réponde », selon de *Dictionnaire de l'Académie*.
+
+[140] Verbe non pronominal et transitif, contrairement au français moderne ; il signifie, selon Furetière, « railler ».
+
+[141] Le pronom régime tonique « moi » est omis ici, à l'impératif.
+
+[142] Il faut noter qu'il n'est nulle part dans la pièce, fait mention de ce page. Il n'apparaît probablement pas sur scène.
+
+[143] La virgule est ici équivalente à un point d'exclamation, du fait de l'impératif.
+
+[144] « Non dégrossi, brut », selon G.Cayrou.
+
+[145] Nous pouvons remarquer que l'ancien français ne distingue pas les différentes graphies ; « âge » est écrit « aage » au vers 1, et sa graphie varie tout au long de la pièce.
+
+[146] « Négliger de », selon G.Cayrou.
+
+[147] « Commun, trivial, ordinaire », selon Furetière.
+
+[148] « Se dit simplement de ce qui est étranger aux choses sacrées sans aucune idée de sacrilège », selon G. Cayrou. 
+
+[149] Signifie un jour, comme dans l'archaïsme « il était une fois ».
+
+[150]  « Tout à la fois », selon *le Dictionnaire de l'Académie.*
+
+[151]  Comprendre : plutôt.
+
+[152]  Autre orthographe de « dès lors ».
+
+[153] En ancien français, les adverbes sont généralement employés à la place des prépositions qui leur correspondent, comme c'est le cas ici : il faut comprendre « dans » ; c'est très souvent le cas dans la pièce. 
+
+[154] C'est la première des quatre saisons ; métaphoriquement, c'est le temps des amours, du jeune âge ; le choix de cette période n'est pas un hasard puisque Célidor a dans l'esprit de convaincre Agarite qu'il faut qu'elle succombe au roi, puisque l'amour est dans l'ordre de la nature.
+
+[155] Terme à lire en synérèse ; le mot compte donc deux syllabes. Arbre fort haut qui a un fruit grappu : en plus d'avoir un caractère funéraire dans l'Antiquité, c'est l'arbre du souvenir : Leucé a été métamorphosée par Hadès en peuplier à l'entrée des Enfers, car celui-ci l'aimait et voulait la garder près de lui.
+
+[156] Il s'agit probablement de la vigne vierge qui grimpe rapidement ; cependant, l'hypothèse de la vraie vigne est possible ; l'élément de comparaison entre le peuplier et la vigne étant que l'un est plutôt maléfique et l'autre bienfaiteur ; en effet, la vigne est l'arbre du paradis. 
+
+[157] Arbre érotique et phallique par excellence, dans ce passage très ambivalent. Dans l'ancienne Grèce, les fruits sont consacrés à Aphrodite et à Héra. Ses fleurs sont le symbole de l'amour ardent et ses fruits, les grenades, sont le symbole de la fécondité et de la germination (à cause des grains qu'il y a dedans).
+
+[158] Arbrisseau bénéfique, souvent associé au mariage. Ici, ceux sont encore deux arbres différents qui sont associés ; mais l'un est de taille normale, l'autre petit (un exemple de la possibilité pour les contraires de s'attirer).
+
+[159] Arbre également consacré à Vénus (à cause de l'odeur de ces fleurs, propice à l'amour) ; symbole de la fécondité. Les deux arbres comparés ici se ressemblent, mais ne sont pas de la même variété.
+
+[160] « Branche ou rameau de palmier », selon Furetière. 
+
+[161]  Certains rapportant les croyances des Anciens, disent de cet arbre « dont il y a la femelle et le mâle, que si l'on approche la femelle du mâle avec des cordes, ses branches s'attendrissent et se penchent de son côté. » *Le Livre des superstitions*, Eloïse MOZZANI, p. 1330.
+
+[162] Là aussi, symbole érotique chez les anciens, la poire étant consacrée à Aphrodite. 
+
+[163] Il s'agit du fruit défendu. Dans la mythologie païenne, la pomme est associée à Venus.
+
+[164]  Sans doute une allusion au discours d'Aristophane dans *Le Banquet* de Platon : Aristophane explique aux autres convives comment le monde fut crée selon lui : à l'origine, les mortels étaient des boules hermaphrodites possédant deux têtes, quatre jambes et quatre bras ; les sexes de ces boules étaient de trois sortes : il y avait des boules homme-homme, femme-femme et homme-femme. Ayant essayé de prendre le pouvoir aux dieux et après bien des péripéties, les dieux pour les punir se contentèrent de les couper en deux. De cette histoire est née l'expression « rechercher sa moitié », chacun essayant de retrouver sa partie perdue. 
+
+[165] Le plus précieux et le plus purs des métaux, symbole de la perfection et de la connaissance.
+
+[166] Doublet poétique de « avec », qui permet en poésie d'atteindre le nombre de syllabes nécessaires au mètre choisi (il s'agit ici d'alexandrins)
+
+[167] Le plus vil des métaux, symbole de la lourdeur. Comme nous pouvons le constater, les deux métaux qui s'unissent par alchimie sont d'un point de vue symbolique opposés.
+
+[168] Le « x », marque du pluriel ne s'explique pas, si ce n'est pour permettre la rime avec le vers suivant et par analogie avec le pluriel de ce terme.
+
+[169] Il s'agit d'une pierre dure, qui a la particularité de produire d'autres pierres à l'intérieur. Elle est le symbole de l'accouchement. 
+
+[170]  « En vérité », selon Richelet, dans son *Dictionnaire françois*, 1680.
+
+[171] L'orthographe de ce terme est probablement due à son étymologie : en effet, « seiche » vient du grec « sêpia », et a connu une réfection vers 1270 en « seiche ». Il est probable qu'il y a eu une confusion entre le terme issu de l'étymologique, et le nouveau, le mot « sépia » existant toujours.
+
+[172] Il semble n'y avoir aucune raison pour que « fond » ait un « s », avec ce sens là. Il ne s'agit pas non plus d'une coquille, car cette orthographe se retrouve dans la pièce. Il s'agit donc probablement d'une analogie avec le terme « fonds » qui a un autre sens.
+
+[173]  Lorsque les sujets sont unis sont unis par « et », le singulier reste fréquent tout au long du 17*e* siècle, l'accord du verbe se faisant avec le sujet le plus proche.
+
+[174] Comprendre : lorsqu'ils approchent.
+
+[175] A l'exception des tourterelles, les animaux dont il va être question sont des animaux qu'on chasse, du gibier.
+
+[176] A quelle occasion.
+
+[177] Si l'allusion à la lubricité des lagomorphes est avérée, nous n'avons pas pu vérifier celle des chevreuils.
+
+[178]  Terme à lire en synérèse, cette prononciation, aujourd'hui étrange était courante au 17*e* siècle. Le même phénomène est constaté au vers 1218. L'ouvrier, c'est ici le peintre, « celui qui fait un travail, une œuvre », selon G.Cayrou.
+
+[179] « Morceau, œuvre », selon G.Cayrou. Ici, le terme désigne le tableau dont il est question.
+
+[180] Comprendre : a du mérite. Le verbe « mériter » est utilisé en emploi absolu : normalement transitif, il n'accepte ici pas de compléments et prend son sens plein : « avoir du mérite ».
+
+[181] « Adverbe signifiant de plus », selon G. Cayrou.
+
+[182] Signifie « pas plus », selon G.Cayrou.
+
+[183] L'article est souvent omis devant « seul », attributif construit avec une proposition relative déterminative.
+
+[184]  Au Moyen Age, la coutume voulait qu'on assimile l'apparence physique aux qualités morales d'une personne. Une personne laide était considérée comme d'esprit bas et une personne au physique harmonieux était considérée comme possédant des qualités de noblesse d'âme. Cette croyance a sans doute continué d'exister au 16*e* siècle.
+
+[185] Doublet poétique de « donc ».
+
+[186] « Entraîner par des arguments séduisants », selon G.Cayrou.
+
+[187] « Sans que », selon G. Cayrou.
+
+[188] Comprendre : sans qu'aussitôt son père ne soupçonne quelque chose, nous voyant ensemble.
+
+[189] A la différence de « nul », « personne » a une valeur positive puisqu'il s'agit d'un substantif signifiant « un être, quelqu'un » ; pendant tout l'ancien français, et même bien au-delà, « personne » a pu conserver ce statut de substantif, admettant alors la détermination par un article quelconque.
+
+[190] Cela nous renseigne sur la disposition des décors. Rares sont « les indices » que nous laisse Durval.
+
+[191] « Indique (…) l'affabilité douce, l'amabilité caressante plutôt que le simple savoir-vivre et la connaissance des bonnes manières », selon G.Cayrou.
+
+[192] Signifie « courir sur soi », cependant, selon Vaugelas, on faire « courir » un bruit et non « courre » un bruit ; c'est également le cas au vers 582.
+
+[193]  Signifie « acheter à » ; « de », comme « à » tendent au 17*e* siècle à remplacer toutes les autres prépositions et « de » s'emploie notamment au sens de « à ».
+
+[194] Diérèse, tout comme « curieux », au vers suivant.
+
+[195] Effet de symétrie par rapport à la scène précédente ; la reprise point par point de la description précédente va être faite, mais cette fois en évoquant la cruauté de la vie et les intérêts de chacun.
+
+[196] Rien ne laisse croire que le laurier, plante de l'immortalité, peut s'avérer « malin » pour une plante telle que la vigne. Il s'agit peut être d'une allusion à Daphné, la fille du dieu-fleuve, Pénée, dont le nom signifie « laurier » en grec. Aimée et poursuivie par Apollon, elle s'enfuit, jusqu'au jour, où sur le point d'être atteinte, elle supplia son père de faire quelque chose : il la transforma en laurier.
+
+[197] Comprendre : épargnée.
+
+[198] Comprendre : Prends garde que ce mignon…, la phrase restant en suspens. Le point équivaut parfois à des points de suspension, comme c'est également le cas aux vers 237, 405, 429.
+
+[199] « Tromperie », selon Furetière.
+
+[200] Phénice est avec Amélise, dans les appartements de cette dernière.
+
+[201]  « Est aussi un titre qu'on donne aux femmes et aux filles des bourgeois en parlant d'elles ou à elles », selon le *Dictionnaire de l'Académie*.
+
+[202]  « L'infinitif sujet est accompagné de la préposition « de » lorsqu'il se construit avec « il me semble » », selon Haase, *Syntaxe française du 17*e* siècle, §112B.*
+
+[203] Comprendre : ...
+
+[204] « Courage », selon G.Cayrou.
+
+[205] Comprendre : un jour.
+
+[206] « Inspirer », selon G. Cayrou.
+
+[207] « Montrer des signes d'affection », selon G. Cayrou. 
+
+[208] Selon Furetière, il s'agit d'un « terme comparatif : petit à l'égard d'un plus grand ».
+
+[209] Signifie « tandis que », selon G.Cayrou.
+
+[210]  Phénice entre au conseil. Il faut ici remarquer l'effet de travelling : le spectateur suit le conseiller du roi.
+
+[211] « A la fortune », selon G.Cayrou.
+
+[212] Il s'agit du gouvernail du navire.
+
+[213] « Vie de mollesse voluptueuse, de luxe raffiné », selon G.Cayrou.
+
+[214] « Quant à moy », selon Furetière.
+
+[215] Comprendre : quant à moi je serais heureux si quelqu'un …
+
+[216] Comprendre : ceux que. 
+
+[217] Sur.
+
+[218] Comprendre : Prêtez l'oreille.
+
+[219] « Découvrir », selon G.Cayrou.
+
+[220] Comprendre : Et voyons quel chemin ils auront pu suivre.
+
+[221] « Activité qui nous fait porter avec promptitude à exécuter notre devoir ou nos desseins.
+
+[222] Comprendre : je m'engage à apporter sa tête à votre Majesté.
+
+[223] « Lieu désert et inhabité ou séparé du monde », selon Furetière.
+
+[224] « Lecture, méditation pour apprendre, inventer quelque chose », selon Furetière.
+
+[225] Comprendre « à mon endroit », « envers moi ».
+
+[226] L'orthographe du nom de ce personnage est variable durant toute la pièce ; il est écrit tantôt « Lizène », tantôt « Lyzène ».
+
+[227] Comprendre : à qui j'ai décidé d'accorder quelque faveur aujourd'hui (et par conséquent de lui révéler mon amour).
+
+[228] Comprendre : J'ai choisi dans ces vers une façon particulière de lui dire ce que je pense.
+
+[229] « Dans laquelle », selon G.Cayrou.
+
+[230] A sa place.
+
+[231] En référence à l'amour que Lizène lui porte et qu'il croit partagé.
+
+[232] Sens positif, contrairement au français moderne.
+
+[233] « Sérieusement », selon G.Cayrou.
+
+[234] « Surmonter », signifie ici « vaincre », selon Furetière.
+
+[235] Le lait symbolise l'abondance et la fertilité.
+
+[236] Il s'agit d'un subjonctif présent à valeur optative. L'ancien français n'utilise que très rarement le morphème « que », devenu usuel par la suite, devant le subjonctif ayant cette valeur.
+
+[237] La virgule est équivalente à des points de suspension ; c'est également le cas aux vers 393, 396, 403, 495, 496.
+
+[238] « Et malgré cela », selon G.Cayrou.
+
+[239] « Augmenter le mal », selon G.Cayrou.
+
+[240] A lire en diérèse.
+
+[241] Auquel. 
+
+[242] Comprendre : voilà une façon polie de me dire de quitter votre demeure.
+
+[243]  Au 17*e* siècle, on supprime généralement « ni » après les expressions de crainte lorsque la principale est affirmative (Haase, §104, B). Aujourd'hui, on écrirait : « je crains que de colère il ne découvre la vie que nous faisons tous deux ». 
+
+[244] « Chagrin qu'on a de voir les bonnes qualitez ou la prospérité de quelqu'un », selon Furetière.
+
+[245] « Affligé », selon G.Cayrou.
+
+[246] Comprendre : je ne songe pas.
+
+[247] « Aise » signifie « joie de vivre » selon G.Cayrou. 
+
+[248] Comprendre : je ne veux rien d'autre que ton honneur. Le double sens de la phrase est évident ; d'ailleurs, l'héroïne a tôt fait de rappeler à l'ordre son amant au vers suivant.
+
+[249] Méconnaître.
+
+[250] De plus.
+
+[251]  « Aller au-delà », selon le *Dictionnaire de l'Académie*.
+
+[252]  « Qui a une bonté délicate, qui a des traits doux et agréable » ; c'est aussi  « une épithète qu'on donne aux enfants pour les flatter et les caresser », selon Furetière.
+
+[253] Bien qu'aucune didascalie ne l'indique, il est aisé de comprendre qu'à ce moment Policaste embrasse Agarite.
+
+[254] « Peu fréquenté », selon Furetière.
+
+[255] « Assurément », selon G.Cayrou.
+
+[256]  « Se prend aussi pour l'air et la manière de vivre à la cour », selon le *Dictionnaire de l'Académie*.
+
+[257] Il s'agit d'une apostrophe ; il faut donc marquer un temps, correspondant au signe typographique de la virgule.
+
+[258]  « Pendant ce temps-là », selon *Le Dictionnaire de l'Académie.*
+
+[259] Comprendre : pourvu qu'il ne s'attarde pas à la chasse.
+
+[260] Il s'agit d'une « trompette de chasseur » si l'on se réfère à Furetière.
+
+[261] « Celuy qui conduit la chasse et les chiens, qui queste, qui détourne, qui lance la beste, qui laisse courre, qui la suit », selon Furetière.
+
+[262]  Selon *le Dictionnaire de l'Académie*, ce terme « sert encore à désigner la cause » et signifie « à cause de ».
+
+[263]  Croistre « est aussi actif, et signifie faire croître, augmenter », selon *le Dictionnaire de l'Académie*.
+
+[264] Comprendre : faire finir. 
+
+[265] Comprendre : s'en retourner à la ville.
+
+[266] Comprendre : peut-être pour.
+
+[267] Diérèse.
+
+[268]  Comprendre : ressembler à. Beaucoup de verbes intransitifs aujourd'hui étaient transitifs au 17*e* siècle, c'est le cas de « ressembler ». Selon Vaugelas (II, 258), ce verbe qui régissait anciennement l'accusatif exige le datif, surtout en prose. (Haase, § 59)
+
+[269] « Obstacle qui se trouve à faire quelque chose », selon Furetière.
+
+[270] Comme dans l'ancienne langue, l'article est omis devant un substantif modifié par un autre, comme « tel »  (Haase, §57.II).
+
+[271] « Tout ce qui a quelque degré d'excellence », selon Furetière. Il faut comprendre ici : je vais faire vos louanges tant et si bien que…
+
+[272]  « Oui vraiment », selon *le Dictionnaire de l'Académie.*
+
+[273] « Au sens propre du mot », selon G.Cayrou.
+
+[274] Lire « muettes » en apposition.
+
+[275] C'est-à-dire de la clarté des yeux de Corintie.
+
+[276] La phrase est laissée en suspens, même si aucun signe typographique ne l'indique.
+
+[277]  Signifie « doucement » ; il s'agit d'une « interjection pour arrêter ou imposer le silence », selon *le Dictionnaire de l'Académie.*
+
+[278] De la même façon que Policaste embrasse Agarite au vers 412, Célidor embrasse Corintie, bien que cette indication scénique ne soit là encore pas précisée.
+
+[279] Le vers n'a que onze syllabes. Le pronom personnel « vous » a probablement été omis.
+
+[280] La phrase est mise en suspens du fait que Célidor l'interrompt, ce qui donne lieu à un jeu de mots. La fin de cette phase se trouve au vers 502, après l'intervention de Célidor.
+
+[281] « Peut-être », selon G.Cayrou.
+
+[282] Comprendre : vous aurez beaucoup réussi si vous parvenez à obtenir un baiser.
+
+[283]  C'est le lieu dans une maison où sont « les livres ou quelqu'autre chose, selon la profession ou l'humeur de la personne qui y habite », selon *Le Dictionnaire de l'Académie*.
+
+[284] La personnification (il s'agit du Dieu de l'amour) explique l'absence d'article.
+
+[285] La relative peut être éloignée de son antécédent comme c'est le cas ici avec la relative qui a pour antécédent « ceux-là » ; c'est également le cas au vers 557, 655.
+
+[286] « Qui est élevé au dessus des choses », selon Furetière.
+
+[287] « Content » signifie ici  « satisfait », selon G.Cayrou. La phrase évoque le célèbre vers de Ronsard lorsqu'il écrit « cueille, cueille les roses de la vie ». De la même manière, Policaste exhorte Agarite à profiter du temps qui leur est octroyé. 
+
+[288] « Quiétude d'esprit et de corps qui les met hors de trouble », selon Furetière.
+
+[289] Présent à valeur de passé.
+
+[290] « Au moins », selon G. Cayrou.
+
+[291] Cette expression s'emploie souvent de façon elliptique, dans les tours interrogatifs où l'on se demande si une chose est vraisemblable, probable et signifie « Est-ce possible ».
+
+[292] Personnage « pesant, grossier, maladroit, stupide », selon Furetière.
+
+[293] Il faut interpréter la phrase comme une interrogative, dont le pronom interrogatif a été supprimé, de la même manière que l'expression « l'apparence », ci-dessus. Ainsi, il faut comprendre « quel est le moyen que je l'aime ? ». Cette élision est faite tout au long de la pièce ; voir la note au vers 543. 
+
+[294] Selon Furetière « reconnaître » peut signifier « descouvrir ».
+
+[295] Employé encore en français moderne dans certains archaïsmes, « ès » est la contraction de la préposition « en » et de l'article défini au pluriel « les ».
+
+[296] « Qui menace ruine », selon Furetière ; prêt à s'effondrer. Le mot est à lire en diérèse.
+
+[297] L'article est fréquemment omis dans des propositions relatives construites avec les adverbes « moins » et « plus », comme c'est le cas ici. (Haase, § 29.B).
+
+[298] A lire en diérèse.
+
+[299]  « Se dit aussi de ce que l'on veut loüer, mais non dans l'excès », selon Furetière.
+
+[300]  Il n'y a aucune notion défavorable ici. Le terme signifie simplement « jeune fille », par « opposition à la femme mariée », selon *le Dictionnaire de l'Académie.*
+
+[301] Rend compte de l'usage ancien pour « laisserez ». Selon Vaugelas, p. 119, le tour « ne vaut rien, quoy qu'une infinité de gens le disent ou l'escrivent ».
+
+[302] Comprendre « là où ».
+
+[303] Pendant ce temps. 
+
+[304] L'accord du participe passé avec le complément d'objet direct, lorsque celui-ci était antéposé au groupe verbal pouvait manquer, comme c'est le cas ici.
+
+[305] Il semble étrange de trouver un voilier ici, puisqu'il s'agit d'une rivière. Nous pouvons penser que c'est l'aspect poétique et la force de l'image qui sont privilégiés ici.
+
+[306] « Mourir », selon Furetière.
+
+[307] L'absence de substantivateur s'explique par la difficulté à cerner le signifié substantiel : le nombre d'années n'est pas déterminé.
+
+[308] « Quelque peu », selon G.Cayrou.
+
+[309] « On dit qu'un coup est fort hasardeux quand il est fort incertain, quand il peut manquer par cent inconvénients qui peuvent arriver, ou quand les suittes en seront dangereuses. », selon Furetière.
+
+[310] Comprendre : Soyez sûr.
+
+[311] « Chasse qu'on donne à quelqu'un, en le pressant, en courant après lui avec ardeur », selon Richelet.
+
+[312]  Il signifie ici « si bien que ». Il « ne s'emploie aujourd'hui que dans le style familier, tandis qu'il n'en était pas ainsi au 17*e* siècle », selon Haase, §137.5, rem. I.
+
+[313] Cacher
+
+[314] « Libre, qui se fait sans contrainte », selon Furetière.
+
+[315] « Disposé à », selon G.Cayrou.
+
+[316] Avant.
+
+[317] La phrase est interrompue ; le point a donc valeur de points de suspension. 
+
+[318] « Pour faire voir qu'on ne luy peut rien demander davantage », selon Furetière.
+
+[319] Ce que.
+
+[320] « Par-dessus tout », selon, G.Cayrou.
+
+[321] « Aussitôt que », selon G. Cayrou.
+
+[322] « On dit qu'un homme a l'oreille de quelqu'un pour dire qu'il a eu de favorables audiences », selon Furetière.
+
+[323] Ceux du roi.
+
+[324] C'est-à-dire la loi. Comprendre : chacun veut le commander.
+
+[325] Comprendre : Ainsi au fil du temps qui passe, le monde se multiplie.
+
+[326] L'absence de substantiveur s'explique par le fait que le référent est un nom de sens « générique ».
+
+[327] « Se dit hyperboliquement en parlant des grandes douleurs ou afflictions qu'on souffre », selon Furetière.
+
+[328] Dans le mariage.
+
+[329] « Jovial », selon G.Cayrou.
+
+[330] Sur.
+
+[331] « Petite cale ou coëffe de cuir, de satin ou d'autre étoffe, qui couvre le haut de la tête (…) les vieillards portent des calottes à oreilles », selon Furetière ; il ne faut donc pas y voir une connotation religieuse.
+
+[332]  Nourrir « signifie aussi figurément, instruire, élever », selon *le Dictionnaire de l'Académie.*
+
+[333] « Adverbe qui marque le consentement », selon Furetière et que l'on pourrait traduire ici par « bien sur qu'elle songe… ».
+
+[334] « Se dit aussi des querelles, des rebellions », selon Furetière, mais le jeu de mots est évident.
+
+[335] A partir.
+
+[336] « Fiancé », selon G.Cayrou. 
+
+[337] « Gaillard » signifie, selon Furetière, « enjoué, qui ne demande qu'à faire rire », ainsi que « des choses qui sont licencieuses et hardies », comme c'est le cas ici.
+
+[338]  « Interjection dont on se sert pour exhorter, inciter », selon *le Dictionnaire de l'Académie*. Comprendre ici : Allons, debout.
+
+[339] Les nymphes sont d'une grande beauté mais se montrent souvent malfaisantes et cruelles : elles rendent fous les hommes qu'elles ont séduits. Selon les croyances, elles épient le pêcheur et l'attirent dès que l'occasion se présente dans un gouffre où il disparaît pour toujours. Ici, il s'agit probablement d'une allusion à ces croyances puisque Policaste se voit malgré lui faire les louanges des naïades, avant de se ressaisir, comme si elles l'avaient envoûté.
+
+[340] Comprendre : se dirait.
+
+[341] Pendant ce temps.
+
+[342] La rivière est personnifiée par les nymphes. Cette course symbolise le courant qui permettra aux amants de fuir loin du pays.
+
+[343] Sur.
+
+[344] « Ancien », selon Furetière.
+
+[345] Comprendre : où j'avais promis.
+
+[346] « Tombeaux, et particulièrement en poésie », selon Furetière.
+
+[347] Il s'agit d'une image typiquement baroque.
+
+[348] « Vieux logis qui est abandonné ou qui tombe en ruines », selon Furetière.
+
+[349] « Noter », selon Furetière.
+
+[350] « Profondeur mystérieuse », selon G.Cayrou.
+
+[351] « Amuser » peut signifier « perdre son temps », selon C.Cayrou.
+
+[352] « Les étoiles » selon Furetière.
+
+[353] Comprendre : quel est le moyen… ; voir la note au vers 543.
+
+[354] Sous-entendu Agarite.
+
+[355] « Hélas », selon G. Cayrou ; selon Richelet, ce terme est « plus en usage en poésie qu'en prose, à cause qu'il donne la facilité pour la mesure des vers ».
+
+[356] « Parce que », selon G. Cayrou.
+
+[357] « Se dit aussi d'une personne dont on fait fléchir le courage », selon G.Cayrou.
+
+[358] Comprendre : qui ne veut parler à personne. 
+
+[359] Comprendre : dis-toi.
+
+[360] Les commerçants.
+
+[361] « Personne qui espionne et qui demeure en garde en quelque lieu pour voir ce qui s'y passe », selon Furetière.
+
+[362] Images effroyables ; le genre masculin ne s'explique pas en ce qui concerne le mot « image ».
+
+[363] « Offenser » signifie, selon Furetière, « incommoder ».
+
+[364]  « Pas » employé seul en interrogative directe est très courant au 17*ème* siècle.
+
+[365] « A ce moment là », selon G.Cayrou.
+
+[366] Comme c'est le cas en ce qui concerne l'orthographe de « Lizène », qui varie constamment tout au long du texte, l'orthographe de « Policaste » varie une ou deux fois.
+
+[367] Comprendre : mais si je ne suis pas ce chemin, je ne m'éloignerai pas pour autant de cette mort que je fuis (c'est-à-dire le mariage avec Lyzène).
+
+[368] « Sans aucun doute », selon G.Cayrou.
+
+[369] Là où. 
+
+[370] Comprendre : c'est beaucoup se préoccuper pour cela.
+
+[371] C'est-à-dire que Policaste ne vienne pas au rendez-vous.
+
+[372] Comprendre : ne savent pas quoi décider à mon sujet.
+
+[373] « A », selon G.Cayrou.
+
+[374] Voir la note du vers 29.
+
+[375] Le subjonctif est justifié ici, car il n'y a pas de coïncidence entre le moment où l'opinion est énoncée par le locuteur et celui où il l'a conçue (passé).
+
+[376] « Et avec cela », selon G.Cayrou.
+
+[377] « De », selon G.Cayrou.
+
+[378] « Couverture que les femmes de condition mettent sur leur visage pour se garantir du halo ou même par modestie pour être moins vue », selon Furetière, mais également pour se protéger du froid et de l'humidité.
+
+[379] « Insupportable », selon G.Cayrou.
+
+[380] « Humidité froide et invisible qui tombe vers le coucher du Soleil, qui engendre les rhumes et les caterres la caterre ou catarre est une « fluxion des humeurs de la tête sur quelque partie du corps », selon Richelet », selon Furetière.
+
+[381] Le pronom personnel au cas régime tonique, « moi », n'est pas exprimé ici. C'est également le cas au vers 969.
+
+[382] Voir la note du vers 543.
+
+[383] Voir la note du vers 29.
+
+[384] Comprendre : arrête-toi !
+
+[385] Sous-entendre des points de suspension : Policaste achève sa phrase à la fin de ce même vers, après la répartie d'Agarite.
+
+[386] « Comment », selon G.Cayrou.
+
+[387] Vaugelas n'accepte la suppression du « s » final avec les verbes « je crois », « je plais », « je dis », qu'à la fin du vers pour la commodité de la rime (p. 131, 132). Cela ne justifie en rien l'absence du « s » au milieu du vers, et encore moins pour le verbe « craindre ».
+
+[388] Image du sablier.
+
+[389] Double sens : il s'agit aussi d'un clin d'œil de l'auteur qui connaît, seul, l'issue de la pièce.
+
+[390] Comprendre : as-tu fini ?
+
+[391] Voir la note du vers 806.
+
+[392] Les cabanes « en terme de marine sont de petits logements pour coucher les pilotes et autres officiers de marine, qui sont fort estroits et en forme d'armoires, pratiquez en divers endroits du chasteau de poupe », selon Furetière.
+
+[393] « Pour que », selon G.Cayrou.
+
+[394] Voir la note du vers 369.
+
+[395] Selon Furetière, « qui prend le bien d'autrui en cachette ou avec subtilité ».
+
+[396] Le point équivaut cette fois à un point d'interrogation.
+
+[397]  « De » tend au 17*e* à remplacer toutes les autres prépositions. Elle signifie « à », en particulier devant un infinitif complément de verbe, comme c'est le cas ici.
+
+[398] « Tantôt », selon Furetière.
+
+[399] Signifie « peut-être », selon G.Cayrou.
+
+[400] Le cartel est une sorte de feuille-programme que l'on distribuait aux spectateurs des ballets.
+
+[401] La construction est redondante en comparaison du français moderne, qui n'aurait pas exprimé le déterminant « le », se contentant du présentatif. Cela provoque un effet d'insistance.
+
+[402] Le complément d'objet n'est pas exprimé ici. Il s'agit du cartel.
+
+[403] « En une heure », selon G.Cayrou.
+
+[404] « Posséder » signifie dans le cas présent « se rendre maître », selon G. Cayrou.
+
+[405] Leur cœur.
+
+[406] La virgule a la valeur de points de suspension, ici.
+
+[407]  Au 17*e* siècle, la présence du « ne » explétif n'est pas obligatoire.
+
+[408] « En attendant », selon G.Cayrou.
+
+[409] Comprendre : que quelqu'un rallume les chandelles éteintes.
+
+[410]  Ancienne construction de phrase où le complément d'objet direct pouvait précéder le verbe. Elle disparaît définitivement au début du 17*e*, mais on trouve encore des traces lorsque, comme c'est le cas ici, le complément est placé entre l'auxiliaire et le participe.
+
+[411] « Heretique, contraire à la foy et à la Morale », selon Furetière.
+
+[412] Voir note vers 29.
+
+[413] Médon sort pour et réapparaît au vers 890.
+
+[414] « Sans que », selon G.Cayrou.
+
+[415] Dans l'édition originale, les pêcheurs sont juste désignés par les chiffres I et II.
+
+[416] Sur.
+
+[417] « Calme qui arrive sur mer », selon Richelet.
+
+[418] Autre orthographe de « marais ».
+
+[419] « Terre qu'on avait laissé reposer et qu'on a fraîchement labourée pour l'ensemencer en la même année », selon Furetière.
+
+[420] C'est-à-dire une eau épaisse.
+
+[421] « D'une manière lente et sans bruit », selon Furetière.
+
+[422] C'est-à-dire au fond de l'eau.
+
+[423] « Parrain », selon G.Cayrou.
+
+[424] A lire en diérèse.
+
+[425] « Qui est faible et sans vigueur », selon Furetière.
+
+[426] « Se dit aussi des violentes agitations de l'esprit », selon Furetière.
+
+[427] Qui pour.
+
+[428] « Ce que », selon G.Cayrou.
+
+[429] « Cependant » signifie « pendant ce temps », selon G.Cayrou. Le pécheur I. est interrompu par son compère et finit sa phrase au vers suivant.
+
+[430] Le subjonctif traduit ici la pesée critique de celui qui rapporte l'opinion. Par avance, il rend caduque cette opinion en la rejetant hors de l'actuel.
+
+[431] Selon G.Cayrou, il s'agit des « explications d'un fait obscur ».
+
+[432] Comprendre : Pour montrer qu'il s'agit d'une méprise à mon égard…
+
+[433] A lire en diérèse.
+
+[434] C'est-à-dire qu'un père ne peut tuer son enfant.
+
+[435] Comprendre : et on a commis un assassinat.
+
+[436] « Mentir », selon G.Cayrou.
+
+[437] « Comprendre : tout ça.
+
+[438] « Extraordinaire », selon G.Cayrou.
+
+[439] Voir note 29.
+
+[440] « Fiancé », selon G. Cayroux.
+
+[441] Comprendre : les Cieux ne m'apportent que la haine des Dieux.
+
+[442] Comprendre : en touchant.
+
+[443] L'indicatif est justifié car « sembler » est ici actualisant : l'énoncé est présenté comme une constatation objective, que rien ne vient mettre en doute.
+
+[444]  « Avisé, prudent », selon *le Dictionnaire de l'Académie.*
+
+[445] « Conduite et manière de vivre », selon Furetière.
+
+[446]  « Ressembler » était transitif au 17*e*. Selon Vaugelas (II, 258), ce verbe qui régissait anciennement l'accusatif exige le datif surtout en prose. 
+
+[447] Comprendre : c'est le moyen…
+
+[448] Il s'agit de l'adverbe interro-exclamatif qui signifie « pourquoi ».
+
+[449] Dans ce cas, « passer » signifie « aller ».
+
+[450]  « Situation d'une maison, d'une ville », selon *le Dictionnaire de l'Académie*.
+
+[451] « A cause de », selon G.Cayrou.
+
+[452] « Petit lieu serré où on se retire en quelques occasions », selon Furetière ; comprendre ici, qu'il s'agit d'une demeure construite en un matériau peu résistant.
+
+[453] Comprendre : quand les flots raviront cette forte muraille ainsi qu'ils le feraient d'une maison de paille, tu pourras affirmer que Policaste est un esprit léger et dire que pour une autre il t'a voulu changer.
+
+[454] « Incessamment », selon Furetière.
+
+[455] « C'est une des quatre humeurs qui sont dans le corps, la plus pesante et la plus incommode. La mélancolie cause la tristesse, le chagrin (…) », selon Furetière.
+
+[456] Les mots en « –age » sont en vogue à cette époque : on préfère « ombrage » à « ombre », « herbage » à « herbe »… 
+
+[457] Habillée.
+
+[458] « Dans cette circonstance difficile », selon G.Cayrou. 
+
+[459] « Vaisseau rond et quelque fois couvert, propre à servir de l'eau sur la table », selon Furetière.
+
+[460] Oiseau de mauvais augure.
+
+[461] Images de la vie et de la mort. De plus, la rime « soleil » / « œil » n'est pas exacte, puisque le son vocalique autour duquel doit se construire une rime n'est pas identique : œ et e sont des sons différents. Ainsi nous pouvons parler de rime pour l'œil ou de contre-assonance, phénomène visant à une homophonie consonantique et à une hétérophonie vocalique, le son y étant le seul commun aux deux termes. Il s'agit d'un fait de prononciation archaïque. Le son e est cependant présent dans l'adjectif « bel » antéposé à « œil » et donne l'impression d'une rime approximative.
+
+[462] Malveillants.
+
+[463] Sens de conditionnel.
+
+[464] « Qui peut souffrir les joies et les douleurs, qui a du sentiment et peut-être esmeu de passions », selon Furetière.
+
+[465]  Il s'agit d'une « grande coquille ; on peint les Néréides, les Dieux marins sur les conques », *selon Furetière*. Ici l'allusion à Aphrodite est évidente : elle est née des flots.
+
+[466]  « Oiseau qui se trouve sur la mer et sur les rivières et qui a le dos noir », selon Furetière.
+
+[467] Quant à toi.
+
+[468] Comprendre : je t'en prie…
+
+[469] C'est-à-dire les riches vêtements d'Agarite, qui vont devenir pour le roi de véritables reliques (mélange du sacré et du profane).
+
+[470] Les Anciens brûlaient de l'ambre pour honorer leurs dieux.
+
+[471] « Tout de suite », selon Furetière.
+
+[472] « Lit magnifique dressé dans la principale chambre d'un appartement où d'ordinaire on ne couche point et où on expose quelques temps les princes ou les grands seigneurs, quand ils sont morts pour les faire voir au peuple », selon Furetière.
+
+[473] En ce qui me concerne.
+
+[474] Corintie porte le deuil suite à l'assassinat de son frère Lizène. Célidor, quant à lui, est habillé en pèlerin afin de partir en pèlerinage pour se repentir du meurtre du frère de son amante.
+
+[475] Le verbe « luire » est intransitif. Il faut considérer le pronom personnel « nous » comme un complément circonstanciel de but dont la préposition « pour » aurait été omise ; l'antéposition du complément circonstanciel au verbe étant justifiée par la place du pronom relatif en tête de la dépendante.
+
+[476]  Comprendre : quel jour, qui, n'étant obscurci par l'ombre de la nuit, peut nous apporter un soleil radieux. La relative est détachée du terme qu'elle complète, comme cela était fréquemment le cas au 17*e* siècle.
+
+[477] Quand.
+
+[478] Comprendre : quel est le moyen… ; voir la note au vers 543.
+
+[479] « Se dit poétiquement des vents doux et agréables et de ceux qui viennent au printemps », selon Furetière.
+
+[480] Où que. Le terme « lieu » est à lire en diérèse.
+
+[481] C'est la première fois qu'apparaît le lien entre l'intrigue secondaire et l'intrigue principale ; c'est à cause de l'amour (celui du roi pour Agarite), et en vertu de l'amour et de la fidélité que Célidor nourrit envers son roi, que cet assassinat trouve des circonstances atténuantes.
+
+[482] « Celui qui aime et qui est aimé », selon G.Cayrou.
+
+[483] C'est le vêtement de deuil de Corintie, l'étoffe noire, qui a fait comprendre à Célidor quel forfait il avait commis.
+
+[484] On attendrait l'accord de « satisfait », le complément d'objet direct, féminin, étant placé avant le verbe. « Satisfaire » signifie « faire des excuses ». 
+
+[485] Parce que.
+
+[486] Profiter de. 
+
+[487] Comprendre : qu'en étant séparés.
+
+[488] « Bâton fait au tour, qui a une pomme au haut et au milieu, et un fer pointu par en bas que portent les pèlerins », selon Furetière.
+
+[489]  « Plante médicinale (…) fort amère », selon G. Cayrou. On s'est longtemps servi de l'absinthe comme contrepoison.
+
+[490] Avant que.
+
+[491] Autrement dit, Cupidon.
+
+[492] En français moderne, on attendrait le singulier.
+
+[493] Encore un jeu de mots, cette fois à propos du torrent de larmes de Corintie, mais aussi parce qu'il est au bord de l'eau.
+
+[494] Célidor sort.
+
+[495] « Coup du sort », selon G.Cayrou.
+
+[496] « Provision de tout ce qui est nécessaire pour voyager ou s'entretenir honorablement, soit de valets, chevaux, carrosses, habits, armes (…) », selon Furetière.
+
+[497] A.
+
+[498] L'apostrophe s'adresse sans doute aux dieux qui ont laissé mourir Agarite.
+
+[499] « Détester » signifie « pester », selon Furetière. 
+
+[500] Pourquoi. C'est également le sens de « que » au vers suivant.
+
+[501] Il est aisé d'imaginer le roi sur scène, se livrant, et invoquant des instances supérieures dans un accès de tristesse démesurée.
+
+[502] Comprendre : les dieux ne sont que des statues bonnes à décorer les temples.
+
+[503]  Le français moderne s'attendrait à trouver le verbe conjugué au pluriel ; or, au 17*e* siècle, quand les sujets  au singulier sont unis par « et », le singulier reste fréquent en ce qui concerne l'accord du verbe.
+
+[504] A quoi.
+
+[505] « Qui a perdu l'esprit, fou », selon Furetière.
+
+[506] Au sens premier du terme, c'est-à-dire, mettrait de la vie, bougerait. Il s'agit également d'une sorte de prémonitions puisque les faits vont semblablement s'accomplir.
+
+[507] « Pourtant », selon G.Cayrou.
+
+[508]  « Se prend encore pour apparence », selon *le Dictionnaire de l'Académie.*
+
+[509] A lire en synérèse, voir la note du vers 168.
+
+[510] « Représentant », selon G.Cayrou.
+
+[511] « Ressemblance », selon Furetière.
+
+[512] « Meurtriere » doit être lu en synérèse pour des besoins de métrique, c'est-à-dire à la fois pour rimer avec « paupiere », terme à lire de cette façon, et pour que ce mot ne compte que pour deux syllabes et que le vers ait douze syllabes et non treize.
+
+[513] Mourut.
+
+[514] « Image, création de l'esprit, type parfait, idéal », selon G. Cayrou.
+
+[515] Il s'agit du sens affirmatif de l'adverbe ; il signifie « quelque peu », selon G. Cayrou.
+
+[516] Comprendre : personne d'autre.
+
+[517] « Lâche, efféminé, trop délicat », selon Richelet.
+
+[518] « Eviter de », selon G. Cayrou.
+
+[519] Arrête.
+
+[520] Pour.
+
+[521] Le mot « amour » dont le genre au singulier est hésitant, est toujours féminin au pluriel. V.1495, on trouve « amour » au féminin, singulier. Il est au masculin dans le reste de la pièce.
+
+[522] « Honnêtes, braves », selon G.Cayrou.
+
+[523]  Le gérondif s'emploie de façon usuelle avec la préposition « en », mais pas toujours au 17*e* siècle, comme on peut le constater.
+
+[524] « C'est la première des vertus cardinales, qui enseigne à conduire sa vie et ses mœurs, ses discours et ses raisons selon sa droite raison », selon Furetière.
+
+[525]  « Se faire remarquer », selon *le Dictionnaire de l'Académie.*
+
+[526] Comprendre : chaque homme désire faire bonne figure en se faisant remarquer et en cédant à ses vices.
+
+[527] « Qui fait belle figure », selon G.Cayrou.
+
+[528] Comprendre : met en gage.
+
+[529] « S'introduire dans une fête sans y être invité », selon G.Cayrou.
+
+[530] « On le dit aussi des personnes de qualité qui n'ont pas d'employ ni de charge  dans l'armée, mais qui se trouvent dans les occasions par le seul désir de la gloire. », selon Furetière.
+
+[531]  « Pousser quelqu'un dans les emplois (…), luy donner les moyens de s'enrichir », selon Furetière.
+
+[532] Comprendre : il suffit d'avoir de l'esprit pour être parmi les grands.
+
+[533] « Et malgré cela », selon G.Cayrou.
+
+[534] Comprendre : tandis que.
+
+[535] Baigne.
+
+[536] C'est-à-dire le Dieu de l'amour, Cupidon.
+
+[537] Si bien.
+
+[538] Sous entendre « que ».
+
+[539] Les Furies sont les gardiennes de la vie humaine, on en citait trois : Tisiphone, Mégère et Alecto ; leur mission était de pourchasser et punir les pécheurs et on les appelait « celles qui marchent dans l'ombre » ; leur aspect était affreux, leur chevelure était entortillée de vipères et leurs yeux pleuraient des larmes de sang. Tant que le péché demeurerait dans le monde, elles ne pourraient en être bannies. Il faut prendre ici ce mot au sens figuré de fureur, violentes actions du dehors.
+
+[540] « Se dit poétiquement d'une vaine image comme celles qui paraissent en songe », selon Furetière.
+
+[541] La phrase est laissée en suspens.
+
+[542] Comprendre : vous êtes gentille.
+
+[543]  Usuel au 17*e*, mais ne survit pas et signifie « parce que ».
+
+[544]  « Aimer », selon *le Dictionnaire de l'Académie.*
+
+[545] « Retenir », selon Furetière.
+
+[546] « Caractère », selon G.Cayrou.
+
+[547] « Dérèglement. Il ne se dit guère que de l'air et des humeurs du corps humain », selon G. Cayrou.
+
+[548] A en soi.
+
+[549] « Dès à présent », selon G. Cayrou.
+
+[550] Comprendre : ainsi qu'elle doit l'être.
+
+[551] « Vigne sauvage qui n'apporte jamais de fruit meur », selon Furetière.
+
+[552] Grâce à.
+
+[553] Se dit de « ce qui est  élevé au dessus des autres », selon Furetière.
+
+[554] « Qui a l'âme grande et noble et qui préfère l'honneur à tout intérêt », selon Furetière.
+
+[555] « Rien davantage », selon Furetière, c'est-à-dire « seulement ».
+
+[556] Il s'agit de la Nymphe Echo, ce qui explique le féminin.
+
+[557]  « Surprendre » signifie « tromper », selon *le Dictionnaire de l'Académie.*
+
+[558]  Les Amadis sont de vieux romans de chevalerie, où les prouesses guerrières des chevaliers, ainsi que leurs aventures, sont relatées. Nous pouvons citer, par exemple, *l'Amadis de Gaule* composé vers le 14*e* siècle qui relate les aventures d'Amadis de Gaule (les quatre premiers livres) ainsi que les aventures des autres Amadis tels *Amadis de Grèce, Amadis de l'Étoile, Amadis de Trébizonde.* On attribue ce roman au Portugais Vasco de Lobeira, mais cela est discutable.
+
+[559] A.
+
+[560] Comprendre : avant d'aller plus loin.
+
+[561] L'article indéfini n'est pas exprimé ici, car le référent est général.
+
+[562] On attendrait le pluriel en français moderne.
+
+[563] Littéralement « défaire les bouton de votre robe ».
+
+[564]  « Signifie aussi généralement esprit, pensée, idée », selon *le Dictionnaire de l'Académie.*
+
+[565]  « Partie d'un habit d'homme qui couvre le corps depuis le cou jusque vers la ceinture », selon *le Dictionnaire de l'Académie*. Ce vêtement, par-dessus lequel on portait un manteau était primitivement une sorte de gilet à manches, très rembourré, qui est devenu la veste courte à collet et à basque, avec des manches s'arrêtant presque à l'épaule pour laisser passer la chemise.
+
+[566] Lorsque.
+
+[567]  « En attendant », selon *le Dictionnaire de l'Académie*.
+
+[568] Comprendre : que ce temps me tarde.
+
+[569] Le sol.
+
+[570] Voir note vers 543.
+
+[571] « Trouble, agitation de l'âme », selon Furetière.
+
+[572] Comprendre : en voyant.
+
+[573]  « Furieux » et « Glorieux » sont à lire en diérèse.
+
+[574] « Organe corporel sur lequel les objets exterieurs faisant diverses impressions, se font connoistre à l'ame d'un animal », selon Furetière.
+
+[575] « Si ce n'est que », selon G.Cayrou.
+
+[576] « Habileté, ingéniosité, appliquée au bien », selon G.Cayrou.
+
+[577] Pendant.
+
+[578] « Gomme de liqueur (…), c'est la plus excellente de toutes », selon Furetière. C'est l'encens et la myrrhe que les rois mages apportèrent au Christ.
+
+[579] Le visage.
+
+[580] Amélise est princesse.
+
+[581] Du.
+
+[582] Comprendre : n'aurait pas dû. Les verbes « devoir » et « pouvoir » au passé, construits avec un infinitif sont considérés comme des auxiliaires modaux, car ils marquent l'hypothèse, la probabilité ; le procès non réalisé est envisagé comme irréel. Le passé simple a dans ce cas la valeur d'un conditionnel imparfait.
+
+[583] « L'image ». En ce qui concerne le genre du terme, voir la note du vers 732.
+
+[584] « Irréfléchi », selon G.Cayrou.
+
+[585] Adverbe ; selon Vaugelas., il faut l'écrire avec un « s » près d'un nom singulier et sans « s », près d'un nom pluriel pour le distinguer de l'adjectif.
+
+[586] « Qualité qu'on attribuë à une partie de l'âme qui luy fait concevoir les choses et s'en former une vraye idée », selon Furetière.
+
+[587] « Sans condition, sans réserve », selon Furetière.
+
+[588] Suffisamment.
+
+[589] Voir la note du vers 1466.
+
+[590] Pour.
+
+[591] A ce que.
+
+[592] « Et digne de ma couche » vient compléter l'adjectif « belle » pour qualifier le terme princesse.
+
+[593] A lire en diérèse.
+
+[594] Il s'agit sans doute d'une allusion au pole nord ou sud, où il fait très froid et où la terre est par conséquent dure. Ainsi, la comparaison entre la fermeté du roi et la dureté de la glace. 
+
+[595] Comprendre : tu auras celle que tu voudras qu'elle quelle soit.
+
+[596] L'un.
+
+[597] Immédiatement.
+
+[598] Pourquoi.
+
+[599] Le subjonctif s'explique par le fait qu'il s'agit d'un souhait.
+
+[600] De cela ; en l'honneur de tout ça.
+
+[601] Les feux de joie « sont des marques de la joie publique qui se font par le feu », selon Richelet. En revanche, on ne trouve pas l'expression « faire feu de joie », mais « faire des feux de joie » ; l'omission de l'article ne s'explique donc pas.
+
+[602] Avant.
+
+[603] L'oranger est un arbre qui donne des fruits en hiver. L'orange représente la pureté, la virginité et la sagesse.
+
+[604] Comprendre : ayez pitié de votre fille.
+
+[605] Selon Furetière, « conquester signifie la même chose que conquérir mais n'a pas un si grand usage.
+
+[606] Sur.
+
+[607] A laquelle.
+
+[608]  Adverbialement, signifie « peut-être », selon *le Dictionnaire de l'Académie*.
+
+[609] Comprendre : ce serait trop long à vous raconter maintenant.
+
+[610] Par-dessus.
+
+[611] L'article est souvent omis en ancien français.
+
+[612] Celui de faire pénitence.
+
+[613] Là-dessus.
+
+[614] Voir la note du vers 1200.
+
+[615] « Feste magnifique que font des princes ou des seigneurs pour quelque resjouissance publique, comme aux mariages », selon Furetière.
+
+[616] Le destinataire du traité n'a pas été identifié
+
+[617] Un point d'interrogation est inscrit dans l'édition de Gasté ; nous avons corrigé cette ponctuation éronée.
+
+[618] Allusion à son statut de dramaturge.
+
+[619] Il s'agit probablement de Corneille.
+
+[620] En parlant du poème. 
+
+[621] Voir note 2.
+
+[622] Ce mot peut-être tantôt masculin, tantôt féminin.
+
+[623] Ceux qui défendent les unités.

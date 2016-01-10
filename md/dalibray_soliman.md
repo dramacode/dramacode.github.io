@@ -1,0 +1,4759 @@
+---
+identifier: vion_soliman  
+creator: Vion, Charles de  
+date: 1637  
+title: Le Soliman  
+---
+
+
+Le Soliman
+
+Tragi-comédie
+
+A PARIS, Chez TOUSSAINCT QUINET, au Palais, dans la petite salle, sous la montee de la Cour des Aydes. M.DC.XXXVII AVEC LE PRIVILEGE DU ROY.
+Édition critique établie par Marie-Pauline Martin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2009-2010)
+
+Le xvii*e* siècle constitue l'une des périodes les plus fastes du théâtre français et d'ailleurs, entre 1628 et 1648, le théâtre n'a jamais été autant joué et pensé. Cependant, aujourd'hui beaucoup d'auteurs ont été négligés et la culture théâtrale française se résume souvent aux tragédies de Corneille, Rotroux ou Racine. De plus, nos connaissances théâtrales se rattachent souvent à la tragédie qui s'est imposée dans les années 1635. Pourtant, au même moment la comédie et la tragi-comédie sont en plein essor. Ce dernier genre moderne, souvent considéré comme hybride, a peu de résonance à notre époque malgré son importance et son intérêt pour l'évolution du théâtre.
+
+Charles Vion d'Alibray fait partie de ces auteurs oubliés. En 1637, il décide d'« habiller à la française » une pièce italienne de Prosepero Bonarelli : *Il Solimano*. Alors que la querelle du *Cid* bat son plein et que les théoriciens classiques cherchent à imposer leurs règles, notre auteur décide de faire de la tragédie de Bonarelli une tragi-comédie, ou plutôt, selon d'Alibray lui-même, une « tragédie à fin heureuse » en modifiant le dénouement funeste de la pièce. Alors qu'à cette époque la concurrence entre tragédie et tragi-comédie est rude, ce choix peut paraître étonnant voire ambitieux. Toutefois, d'Alibray s'appuie sur les Anciens dans son avis Au Lecteur qui précède la pièce, afin de prouver que son *Soliman* est avant tout porteur de valeurs morales.
+
+Cette œuvre de d'Alibray, tout comme celle de Bonarelli, comporte deux intrigues. Il s'agit donc d'une pièce complexe.
+
+Alors que les Turcs et les Perses se livrent une guerre sans merci, Soliman confie à son fils aîné, Mustapha, le commandement de l'armée. Rustan, jaloux du choix du sultan met en place un complot. Il utilise les sentiments et les craintes de la Reine vis à vis de ce fils bâtard afin de convaincre Soliman que le prince s'est allié à l'ennemi pour renverser son pouvoir.
+
+En parallèle se met en place une intrigue amoureuse entre le fils du Sultan et Persine, fille du Roi de Perse. La jeune femme avoue à son père nourricier son amour pour Mustapha. Contrarié, Alvante tente de raisonner Persine, mais rien n'y fait. Désespéré, il déchire la lettre destinée au jeune prince et fait croire à la princesse que Mustapha l'a reniée. Osman, conseillé de Rustan, retrouve les papiers et les donne à son maître qui les utilise à ses fins. Le sultan convoque donc Mustapha à la Cour afin d'y voir plus clair. Pendant ce temps, Persine, qui veut se venger de son amant, s'abandonne aux mains des ennemis. Lorsque Mustapha aperçoit la jeune femme conduite au cachot, il demande à son père de faire preuve de clémence envers elle. Soliman, manipulé par Rustan, y voit la marque du complot dont on lui a tant parlé. Malgré ses sentiments paternels, il accomplit son devoir de souverain en condamnant à mort les deux amants.
+
+Mais un retournement de situation inespéré et une reconnaissance insoupçonnée vient bouleverser le sort tragique de Mustapha et de Persine.
+
+
+# Charles Vion d'Alibray : un auteur oublié
+
+Les informations biographiques sur la vie de Charles Vion d'Alibray (aussi reconnu et graphié sous le nom Vion Dalibray) sont peu nombreuses et la chronologie de sa vie assez floue. Même si l'auteur dans ses vers se peint avec fidélité et nous permet de connaître le milieu dans lequel il évolue, nous ne disposons pas de témoignages précis sur sa vie.
+
+Nous ne savons rien de sa naissance dans les années 1590 et de sa jeunesse probablement parisienne. Il était le fils de Marguerite le Mazurier et d'un auditeur des comptes : Pierre de Vion, Seigneur d'Oinville et de Gaillonnet. Il était donc issu d'une riche famille du Vexin français appartenant à la noblesse de robe. Cependant sa lignée est bâtarde puisque son arrière grand-père qui était prêtre eut quatre enfants. Ces derniers ont été légitimés par faveur royale en 1552. D'Alibray avait deux frères : Jean de Vion, Seigneur d'Oinville et Pierre de Vion, sieur de Gaillonnet mais l'auteur resta surtout attaché tout le long de sa vie à sa sœur, Marguerite Vion, plus connue sous le nom de Madame de Saintot [1], dont le nom apparaît dans les lettres de Vincent Voiture. Ce poète français, bientôt membre de l'Académie française offrit en 1625 à cette femme qu'il cherchait à conquérir [2] un exemplaire du *Roland furieux* de l'Arioste auquel il joignit une lettre d'amour.
+
+C'est par l'intermédiaire de sa sœur que d'Alibray fréquenta à son tour le milieu mondain [3] et c'est probablement ces quelques visites qui influencèrent son *Discours sur le sonnet* et ses *Vers amoureux* qui comportent des éléments de poésie galante [4]. Toutefois Tallemant rapporte que les galanteries des Madame de Saintot avec l'écrivain Voiture avaient fait scandales [5] et que les frères de la jeune femme cherchaient à l'éloigner de son amant. Dès lors, nous pouvons nous demander si Charles Vion d'Alibray fréquentait cette société réellement par goût ou pour surveiller sa sœur.
+
+Les archives fournissent peu d'éléments sur la vie amoureuse de notre auteur. Certains critiques pensent que d'Alibray connut des déceptions sentimentales mais ne vécut jamais d'amour passionnel à l'instar de son frère Pierre. Cependant, dans sa correspondance, Madame de Saintot fait part des sentiments de son frère pour une de ses jeunes amies dont le nom est inconnu [6]. Toutefois, cette aventure n'est pas datée et nous ignorons l'importance qu'il faut lui accorder puisque de nombreux vers badins ponctuent les *Œuvres poétiques* [7] de d'Alibray.
+
+En 1632, notre auteur refusa, malgré de nombreuses sollicitations, à s'engager dans une carrière administrative en tant que lieutenant général au bailliage de Meudon. Alors que ce titre était depuis longtemps porté dans sa famille, d'Alibray préfèra se consacrer essentiellement à l'écriture [8].
+
+Il mourut en 1652 au moment où ses dernières productions [9] furent publiées mais une fois encore le silence persiste autour de d'Alibray. Une seule épigramme de Du Pelletier, publiée en 1653, fait mention de son décès :
+
+J'ay toujours estimé les vers de ta façon  
+De ton syle coulant mon âme fut éprise,  
+D'Alibray, tu vivois en généreux garçon,  
+Mais si j'aymay tes vers, j'aymay mieux ta franchise. [10]  
+
+Bien que totalement méconnu à notre époque, d'Alibray semble pourtant posséder une place non négligeable parmi les poètes et les dramaturges du xvii*e* siècle. Nous allons tenter de montrer son intérêt et sa place dans l'histoire de la littérature française.
+
+
+## Un poète de cabaret
+
+Malgré son titre d'écuyer, Charles Vion d'Alibray fit le choix de vivre modestement. Passionné d'art, il appartenait au monde libertin et fréquentait les cabarets. Il logea d'abord dans une chambre bruyante à *L'auberge du faubourg* près de la Foire Saint Germain qu'il quitta ensuite pour se rendre au *Bel Air* mais aussi au *Riche Laboureur* [11]. Il y côtoya de grands auteurs comme Faret et Saint Amant ce que confirme Vaugelas lorsqu'il rappelle que « les trois hommes se retrouvaient souvent au cabaret dont ont dit qu'ils y cherchaient une inspiration joyeuse ».
+
+C'est d'ailleurs, au cabaret du *Bel Air* qu'un de ses sonnets « Je ne vous quitte point pour quelque amour nouvelle » [12], furent mis en musique par le célèbre Michel Lambert [13], et interprété une jeune fille dont l'identité reste incertaine [14]. Toutefois, l'Histoire de Paris n'a pas retrouvé l'emplacement de ce lieu dans lequel se rencontraient d'illustres poètes. Mais d'Alibray, dans ses *Œuvres poétiques*, nous aide à nous faire une idée de l'ambiance qui y régnait et nous donne un aperçu des mets qui y étaient servis :
+
+Bon-Puis est-il vraiment ce bon hoste d'eslite,  
+Puisque chez luy, bien mieux qu'au puis de Démocrite,  
+Dans le fond d'une tasse on rencontre le vray  
+Puisse-t-il tousjours préparer la grillade  
+La tranche de jambon avecques la salade,  
+Pour Pailleur, Bensserade et le gros Dalibray. [15]  
+
+Mais peut-on croire tout ce que confie cet auteur à la verve bouffonne qui acquit le qualificatif de « bon gros » ? Ce titre, donné à celui qui représentait au mieux les poètes légers et les bons vivants de son époque, vise à le représenter comme un homme franc, joyeux et amateur de bonne chair. *Le dictionnaire des Précieuses* le qualifie même de « débauché » dans l'article qu'il consacre à Madame de Saintot. En 1752, Mouhy parla de lui en ses termes « Il y a de la force dans ses ouvrages. Il aimoit la table et le plaisir, et il ne s'occupait que du présent » [16]. Il faisait donc partie de ce qu'on appelait les « biberons » [17] de l'époque.
+
+Dans cette période, il se peignit lui-même avec légèreté et ironie comme un buveur invétéré :
+
+Je me rendrai du moins fameux au cabaret  
+On parlera de moi comme on fait de Faret  
+Qu'importe-t-il, ami, d'où nous vienne la gloire ?  
+Je la puis acquérir sans beaucoup de tourment ;  
+Car, graces à Bacchus, déjà je sçais bien boire ;  
+Et je bois tous les jours avecque Saint Amant. [18]  
+
+D'Alibray cultiva son goût pour la poésie [19] en rejoignant le groupe des *Illustres Bergers* [20] créé en 1625 à Paris avec Godeau, Colletet ou encore Ogier. Son appartenance à ce cercle témoigne d'un désir de reconnaissance et de soutien de la part de ses pairs [21] ; ce type de lieu étant souvent considéré comme « lieu de sociabilité » mais aussi « d'information et de formation » [22]. Il fut aussi en lien avec la famille de Pascal [23] par l'intermédiaire de Jacques le Pailleur [24], ami d'Etienne Pascal et dédia deux de ses sonnets « A monsieur Pascal le fils » [25].
+
+Sa poésie [26] tout comme celle des autres membres du groupe, s'inspire des poésies élégiaques de Théophile de Viau (poète et dramaturge français du xvii*e* siècle) mais relève aussi de l'influence du héros pastoral de *l'Astrée*. Ces fervents admirateurs de Ronsard et Malherbe cherchent à allier dans la littérature leur respect de la religion ainsi qu'un certain classicisme, avec une littérature galante. C'est sûrement dans cette perspective que d'Alibray publia en 1634 sa pastorale : *La Pompe funèbre, ou Damon et Cloris.* Bruzen de la Martinière le compare alors à Diogène [27] et dit qu'il :
+
+
+acquit de la réputation par ses vers ; quoi qu'à proprement parler ce qu'il a fait n'ait rien d'exact. Ce fut un de ces Poëtes qui doivent presque tout à leur génie. On a de lui quelques petits ouvrages où il y a du naturel et de la verve poëtique. [28]
+
+D'Alibray appréciait aussi l'esthétique de l'épigramme et écrivit à la suite de Furetière, Scarron, l'Abbé de la Mothe ou encore Balzac, soixante-treize épigrammes contre Montmaur [29], professeur royal en langue grecque [30].
+
+Notre auteur mena donc une vie légère, pleine de plaisir. D'ailleurs, selon les critiques, on trouve dans ses *Œuvres poétiques* des vers amoraux dans des pages profanes qui n'ont pas été massicotées. Il écrivit aussi des poèmes mis en musique [31] mais nous pouvons être surprise par les « vers moraux et chrestiens » qui clôturent son recueil. D'Alibray qui est mort l'année de la publication de cette dernière œuvre semble donc, durant les années de sa vie, avoir changé d'opinions et de mode de vie.
+
+
+## Un dramaturge de talent
+
+Mais d'Alibray ne s'est pas contenté du genre poétique, il s'est aussi passionné pour le théâtre. L'ensemble de son œuvre théâtrale compte surtout de multiples traductions et adaptations de textes italien [32]. Ses réflexions sur la difficulté d'une bonne traduction et sur le peu de reconnaissance du traducteur ainsi que ses développements théoriques, critiques et stylistiques, que l'on peut trouver dans l'avis Au Lecteur de *L'Aminte* et du *Torrismon* [33] ont grandement intéressé ses contemporains. Nous pouvons ajouter à ces textes l'avis Au Lecteur du *Soliman* [34] qui vient particulièrement compléter celui du *Torrismon*. L'auteur qui préférait la clarté de la pensée au travail des vers y critique le style enflé et les pointes [35]. Il revient aussi sur le statut de traducteur [36] ainsi que sur la place du théâtre dans la littérature. Sur ce dernier point qui nous intéresse plus particulièrement, il faut noter l'importance que donne d'Alibray à la lecture du texte théâtral.
+
+
+… ces récits longs et historiques qui viennent souvent à bout de la patience de quelques Auditeurs, sont trouvez admirables alors qu'on les considère et qu'on les lit attentivement. Ce n'est donc pas l'oreille qu'il faut prendre pour souverain Juge en ces occasions, mais seulement la veuë, c'est à dire la lecture. [37]
+
+Il ajoute que pour comprendre une pièce il faut la « lire plus d'une fois ». Ainsi le lecteur est soumis à sa propre interprétation et non à celle proposée par l'acteur qui peut aussi commettre des erreurs lors de sa récitation.
+
+Dans ses pièces et particulièrement dans *Le Torrismon* qu'il considérait comme « un sujet agréable à lire », il pensait que l'intérêt était plutôt dans les « belles peintures que dans les Scenes commodes et plaisantes à la veuë ». L'auteur ponctue donc son texte d'indications pour le lecteur, et non pour le spectateur, à propos des personnages, du contexte…
+
+
+A quoy serviront de beaucoup l'argument que j'ay fait mettre à la marge, qui suppléent aucunement à ce qui sembleroy devoir estre plus eclaircy : Ce qui est un avantage que sa représentation ne pouvoit pas avoir … [38]
+
+Dans son avis Au Lecteur du *Soliman* d'Alibray développe et justifie ses choix esthétiques en s'appuyant sur les Anciens comme Homère, Aristote, Euripide et bien d'autres. Il renouvelle aussi son point de vue sur la tragi-comédie qui n'est autre qu'une tragédie à fin heureuse :
+
+
+C'est à dire quand au lieu d'une Tragedie pure, nous en faisons une meslée, que nous nommons Tragi-Comedie, (car les anciens n'y mettoient point de difference) ainsi je l'ay pratiqué en ramenant par une heureuse reconnoissance …
+
+Les liens qui unissent Faret, Saint Amant, membres de l'Académie française, et d'Alibray renforcent l'inscription de notre auteur dans le milieu littéraire français. L'absence de postérité de Charles Vion d'Alibray, peut éventuellement s'expliquer par le grand succès de ses deux amis mais aussi en raison du discrédit que lui a apporté sa vie insouciante, proche du monde des cabarets et du libertinage. Il ne semble donc pas avoir réussi à se détacher de sa première image de poète léger.
+
+La bonne vingtaine d'œuvres [39] répertoriée à la Bibliothèque nationale de France contribue néanmoins à prouver l'importance et la reconnaissance de l'auteur comme écrivain et traducteur au xvii*e* siècle. Ses œuvres les plus marquantes sont celles publiées dans les années 1630. On compte parmi elles des traductions et adaptations de pièces de théâtre :
+ * – 1632 : *L'Aminte de Tasse* (pastorale traduite de l'italien)
+ * – 1632 : *La Réforme du Royaume d'Amour*
+ * – 1635 : *Le Torrismon du Tasse* (tragédie)
+ * – 1637 : *Le Soliman* (traduction et adaptation)
+
+Toutefois, il semble que ses *Œuvres Poétiques*, publiées en 1653 aient marqué un grand nombre de ses contemporains et de critiques. La publication des recueils poétiques [40] de d'Alibray avait d'ailleurs été annoncée dans l'adresse Au Lecteur du *Soliman*, en 1637, dans lequel l'auteur prévenait qu'il quittait le théâtre pour se consacrer à la poésie :
+
+
+J'espere qu'apres tant de Tragedies et de Comedies qui ont cours maintenant, les meslange ou l'essay Poëtique que je te veux desormais preparer, aura dequoy contenter la curiosité des plus diffciles. Je te declaire neantmoins que ces vers estant les premiers, et peut-estre les seuls que tu verras de mon invention, je n'ay pas envie de rien precipiter.
+
+C'est donc peut-être en remettant au goût du jour ses œuvres et plus particulièrement ici *Le Soliman*, traduction et adaptation de la pièce du dramaturge italien Prospero Bonarelli, que l'on peut en partie réaliser le rêve de d'Alibray qui voyait dans la littérature un moyen de continuer à vivre dans les générations futures :
+
+Cher et parfaict amy qui vis naistre ma Muse  
+Et qui de tes conseils la daigna secourir  
+Je voudrois par mes vers t'empescher de mourir  
+Mais comment te donner ce que l'on me refuse,  
+Quoiqu'il arrive donc, je te rends ce devoir  
+Et commettrois un crime, et trop lasche et trop noir,  
+En laissant des vertus dignes de tant de gloire :  
+Si je vis, tu pourras revivre avecques moy.  
+Si je meurs (et cecy doi-je bien plustot croire)  
+Je me consoleray de mourir avec toy. [41]  
+
+
+# Circonstances de création et de publication : la querelle avec Mairet
+
+*Le Soliman* de Bonarelli (1619) a été traduit par deux auteurs français. D'Alibray, en 1637, est le premier à publier anonymement, cette tragédie italienne à succès. Deux ans plus tard, Mairet « habille à son tour à la française » une tragédie intitulée *Le Grand et dernier Solyman ou la mort de Mustapha*. Il précise dans son avis Au Lecteur que « *le Solyman* qu'on a mit en lumière il y a deux ans n'est point de lui » et annonce ironiquement que l'auteur du premier *Soliman* est « plus honnête homme et avancé dans le Parnasse » que lui.
+
+Nous pouvons donc nous demander lequel de ces deux auteurs a eu le premier l'idée de faire représenter et de publier cette traduction du texte de Bonarelli qui a eu un grand succès en France, [42] surtout que pour Daniela Dalla Valle « Prospero Bonarelli, Mairet, Vion d'Alibray rappresentano un momento cruciale dell' italianismo francese nel Seiciento » [43].
+
+Selon Corneille dans *L'Avertissement au Besançonnais Mairet* en 1637 [44], « la traduction du Solyman de Mairet a déjà couru les ruelles dix-huit mois », *Le Grand et dernier Solyman* aurait donc pu déjà être lu en 1636. D'ailleurs Mairet lui-même avait annoncé son intention d'adapter la pièce de Bonarelli dans l'avis Au Lecteur de *La Sophonisbe* en 1635 :
+
+
+Et pour les modernes, qu'ils aient la curiosité de me voir justifier dans les deux discours que le comte Prosper Bonarelli adresse à un de ses amis nommé Antoine Brun, pour son Soliman, que j'espère habiller un de ces jours à la française [45].
+
+Dans *Les Galanteries du duc d'Ossone* [46] en janvier 1636 sa pièce est considérée comme étant écrite. Pourtant, elle n'est publiée qu'en 1639, et a donc dû être jouée à la fin de l'année 1637 ou au début de 1638 [47]. C'est ce que confirme Corneille en déclarant [48] qu'« on réserve pour cet hiver » le *Solyman* de Mairet.
+
+Il ne faut toutefois pas oublier que d'Alibray est un spécialiste des traductions et adaptations italiennes. Après *l'Aminte* et *Le Torrismon* du Tasse, il ne semble donc pas si étonnant qu'il se soit penché sur la pièce de Bonarelli. Pour répondre à certaines accusations de son rival, d'Alibray présente son *Soliman* dans l'avis Au Lecteur du *Torrismon* (1636) comme « un fruit du dernier Automne » [49]. Il aurait donc traduit et adapté le texte de Bonarelli en automne 1636. Il précise aussi qu'« il n'avoit pas entrepris de le choquer en marchant dessus ses pas … et qu'il avoit bien voulu consentir à ne pas faire paroistre son Soliman, avant que le sien ne fust prest ». Cependant l'achevé d'imprimer du 30 juin 1637 laisse à croire que d'Alibray a fait jouer sa pièce au début de l'année 1637, par la troupe du Marais [50] alors dirigé par Guillaume Desgilberts dit Montdory. [51]
+
+Dans les années 1630-1640, les troupes de l'Hôtel de Bourgogne et du Marais entretiennent une vrai rivalité. Toutefois la période de 1635 à 1641 est « la période de gloire du Marais » [52]. Ce théâtre moderne se caractérise par une certaine stabilité. En effet, en 1635, les acteurs du Marais signent un nouveau bail pour cinq ans. La troupe est alors composée [53] de Guillaume Desgilberts (Montdory), Claude Deschamps (sieur de Villiers) et sa femme Marguerite Béguin, François Chastelot (dit Beauchasteau), Madeleine Du Pouguet sa femme, Pierre Marcoureau (dit Beaulieu) ainsi que Nicolas de Vis (dit des Oeillets).
+
+Sophie-Wilma Deierkaupf-Holsboer a aussi déduit de ses recherches que Pierre Petitjean (dit La Rocque), André Boyron (dit Baron) Philibert Robin (dit le Gaulcher) et Bellemore étaient aussi comédiens du Marais. Toutefois, il semblerait qu'après la première représentation de *La Marianne* de Tristan l'Hermite, Des Oeilets ait quitté la troupe et que Mademoiselle Beaupré (dit Madeleine Lemeine) l'ait rejoint. Les critiques ont aussi des doutes sur la carrière de Petitjean au Marais après l'année 1635.
+
+Certains critiques comme Marc Villermoz pensent que les deux auteurs ont eu en même temps l'idée d'adapter la pièce italienne de Bonarelli. Ils se seraient respectivement inspirés du travail de l'un et de l'autre. Mais cela ne justifie pas le retard de représentation et de publication de Mairet. On peut s'appuyer sur l'hypothèse de Lancaster qui suggère que, puisque d'Alibray avait déjà fait monter sa pièce par Montdory, Mairet aurait fait représenter la sienne par la troupe Royale [54]. En s'adressant à Bellerose alors qu'il avait quitté l'Hôtel de Bourgogne depuis 1632, date des *Galanteries du duc d'Ossone*, il aurait rencontré certaines complications [55]. Pour Marc Villermoz cette idée est peu probable puisque Mairet représentait, après le succès de ces dernières pièces, un enjeu économique important qui ne pouvait pas laisser indifférent le responsable de l'Hôtel de Bourgogne. Le critique cherche donc à montrer que Mairet aurait finalement directement proposé sa pièce à l'Hôtel de Bourgogne « sanctuaire de la tragi-comédie » [56]. Il est rejoint dans cette hypothèse par Ph. Tomlinson [57] :
+
+
+Mais si les indications de d'Alibray sont exactes et que Mairet eût bien eu d'abord le dessein d'écrire une tragi-comédie, il serait peut-être légitime de supposer que, par suite du mauvais succès de Cléôpatre et de l'imprudence de l'auteur, qui a peut-être mécontenté Montdory, par suite également du transfert des meilleurs comédiens du Marais à l'Hôtel de Bourgogne, surtout de Lenoir, dont le comte de Belin s'était entiché, Mairet ait bien eu l'intention dès le début de donner sa pièce à Bellerose plutôt qu'à Montdory, le public de l'Hôtel de Bourgogne aimant mieux les tragi-comédies que les tragédies.
+
+D'autres critiques ont par ailleurs pensé que ce retard était consécutif au travail de réécriture. Mairet aurait d'abord eu l'idée de faire du *Solimano*, une tragi-comédie à l'instar de son rival, comme l'indique d'Alibray dans son avis Au Lecteur du *Torrismon* : « s'il a persisté tousjours dans le dessein qu'il avoit d'accommoder aussi le *Soliman* en Tragi-Comédie ». Mais, selon Marc Villermoz, cette hypothèse n'est pas plus valable que les autres puisqu'on « on voit mal comment un auteur capable d'écrire trois pièces majeures en deux ans aurait pu avoir besoin d'autant de temps pour en remanier une seule » [58]. De plus, il semble que Mairet avait déjà l'intention de modifier sa pièce en tragédie au moment où d'Alibray publie *Le Torrsimon* (1636) :
+
+
+Que si, comme on m'a fait accroire depuis, il a mieux aymé le laisser en Tragedie ; **ce sera le moyen de rendre chacun content : car quoy que la plus-part des evenemens soient semblables, neantmoins la contrarieté des conclusions, dont l'une suivra le verité, et l'autre la vraysemblance, mettre une entiere diversité entre les deux pieces. Au moins je t'asseure bien que tu y reconnoistras tousjours à ma conclusion la grande difference qu'il y a d'un mauvais versificateur à un bon Poëte.
+
+Cette conclusion du « Au Lecteur » montre assez ouvertement que la tension entre les deux hommes est déjà palpable.
+
+L'adresse Au Lecteur du *Soliman* qui répond à la promesse faite par l'auteur dans *Le Torrismon* [59], rappelle le conflit déjà latent entre les deux auteurs et suggère une nouvelle hypothèse à la critique.
+
+
+Il est bien vray pourtant que les vers que je te donne eussent aucunement esté plus accomplis, sans le malheur qui en a fait perdre l'exemplaire entre les mains de ceux qui l'avoient en garde ; On m'a voulu persuader que celuy dont je viens de parler pouvoit bien l'avoit fait soustraire, et que j'avois dit de luy par un esprit de prophetie, que la plume de l'Aigle devoreroit la mienne [60] ; mais j'ay tousjours respondu à cela, qu'il n'estoit pas croyable que cét Aigle n'eust peu souffrir le petit éclat que mon Soliman a rendu, et qu'encore qu'il conversast depuis quelque temps avec les Turcs, neantmoins il estoit trop bien nay pour imiter leur damnable coustume de faire mourir leurs freres afin de regner tout seuls ; Quoy que c'en soit je desirerois que cet inconvenient qui m'a fait haster l'impression de cette Tragi-Comedie ….
+
+Si on se reporte à la préface du *Torrismon*, on comprend fort bien que la métaphore de l'Aigle désigne Mairet :
+
+
+C'est un bon-heur qui m'arrivera dans le malheur que j'ay de m'estre rencontré avec lui ; car d'un autre costé je ne doute point que mon Soliman qui peut-estre estoit assez bon de soy, ne se trouve mauvais par accident, et lors qu'il sera comparé au sien, et que la plume de l'Aigle ne devore la mienne.
+
+Dés lors, si on en croit d'Alibray, son adaptation du Soliman serait malencontreusement tombée aux mains de Mairet. À l'aide de la métaphore du fratricide chez les Turcs du xv*e* siècle, il l'accuse ouvertement de lui avoir pris son sujet et de l'avoir plagié. Il se sert aussi de cette dénonciation pour justifier la publication précoce de sa pièce  : « Quoy que c'en soit je desirerois que cet inconvenient qui m'a fait haster l'impression de cette Tragi-Comedie servist en quelque façon d'excuse à mes fautes ».
+
+Les tensions engendrées par cette adresse Au Lecteur ont probablement contribué à pousser Toussaint Quinet, à qui d'Alibray avait cédé son Privilège, à supprimer cette adresse Au Lecteur dans une seconde émission du texte, et à la remplacer par un Argument pour *Le Soliman.*
+
+Toutefois, notre découverte de ce texte dans le cahier liminaire de certains exemplaires vient quelque peu éclairer les conditions de publications de ces deux pièces. Nous supposons que c'est à la suite de cette incrimination que Mairet a modifié les derniers actes de sa pièce pour faire de sa tragi-comédie une tragédie. De plus, il est possible qu'il ait préféré patienter avant de faire jouer sa pièce et de la publier afin de ne pas être accusé de plagiat par les critiques et le public. Il aurait sinon perdu de son capitale spécifique et de sa crédibilité. Cela explique peut être aussi pourquoi Mairet ne considère pas sa pièce comme une réussite, alors que Sarasin dans l'une de ses lettres à l'auteur affirme qu'elle a réjoui le public [61] :
+
+
+Monsieur mon cher ami, il est raisonnable que ma lettre soit une des bouches de la renommées, qui vous apprendra que vous avez triomphé. J'ai vu le Solyman autant de fois qu'on l'a représenté, et autant de fois j'ai loué avec les sages et battu des mains avec le peuple.
+
+Le *Solyman* de Mairet n'a cependant connu qu'une seule édition ce qui prouve son succès relatif en librairie. Elle a sans doute été éclipsée par la réussite de ses autres pièces comme *La Sophonisbe.*
+
+À l'inverse, il reste encore aujourd'hui à la Bibliothèque nationale de France, un certain nombre d'exemplaires de la pièce de d'Alibray qui a été rééditée en 1642 [62]. Dès lors, même si l'on ignore quel accueil le public a réservé au *Soliman* de notre auteur, les lecteurs semblent l'avoir apprécié; les admirateurs de d'Alibray savaient probablement que l'auteur préférait la lecture de ses pièces à leur représentation [63].
+
+
+# Les sources
+
+
+## Les sources historiques
+
+À partir des années 1620 et jusqu'au xviii*e* siècle, la culture occidentale et plus spécifiquement en ce qui nous concerne, le théâtre, se tournent vers l'Orient. C'est alors que de Venise se déploie une imagerie du despote oriental et de l'Empire ottoman qui s'appuie sur la prise de Constantinople par les Turcs en 1453. Cette imagerie se nourrit aussi des nombreuses campagnes guerrières du peuple turc et particulièrement des affrontements avec l'Occident chrétien.
+
+C'est Selim I*er* qui, le premier, chercha à agrandir la puissance ottomane en annexant des provinces voisines. Soliman le Magnifique [64], reconnu pour son caractère belliqueux, continua ces combats et entama en 1533 une guerre contre les Perses. Malgré la révolte de Thamasp I*er* [65] qui pratiqua une politique de terres brûlées contre le peuple ottoman, la ville de Bagdad fut prise. Le premier accord entre les Turcs et les Perses fut signé en 1555 et garantît la paix pendant 30 ans. En parallèle le règne de Soliman marqua le début des relations politiques et économiques entre la France et l'empire ottoman [66].
+
+L'Orient avec ses sérails, synonymes d'exotisme et d'érotisme, fascine en raison de ses mœurs, de sa religion et de ses lois. Toutefois le fanatisme religieux et la politique qui y règnent révulsent. Auteurs et artistes construisent donc une représentation de l'ennemi et un contre-modèle du souverain occidental. L'Occident a besoin d'un autre pour se construire et « L'Orient n' est rien d'autre qu' une idée qui a une histoire et une tradition de pensée, une imagerie et un vocabulaire qui lui ont donné réalité et présence en Occident et pour l'Occident » [67]. Furetière définit la turquerie comme « une manière d'agir cruelle et barbare, comme celle dont usent les Turcs … » C'est en lien étroit avec cette violence, émanant de l'image du gouvernement oriental, que la notion de « machiavélisme » se développe. D'ailleurs, comme le souligne Dominique Carnoy :
+
+
+la dominante du pouvoir mahométan est … l'absolutisme « monarchique », « despotique », « tyrannique », ces adjectifs reviennent systématiquement dans les textes. Mais, comme s'ils ne suffisaient pas, on leur associe sans cesse des adverbes d'intensité, qui suggèrent que ce pouvoir n'a rien de comparable à celui que l'on connaît en France …. Certes l'absolutisme est une notion qu'il n'est guère besoin de développer aux lecteurs du xvii*e*, mais il convient de définir celui des monarques orientaux, de préciser où se situe la ligne de démarcation avec son homologue français …. Dans le cas du mahométisme, l'inspiration du Seigneur est évidemment inexistante, faisant place à l'intervention du Mal intrinsèque à la religion ; l'ombre de Satan plane sur la féroce iniquité du souverain [68].
+
+En 1748 dans l*'Esprit des Lois*, Voltaire stéréotypera ce phénomène en osant dire « que le gouvernement modéré convient mieux à la religion chrétienne et le gouvernement despotique à la mahométane ».
+
+De Bounin, auteur de *La Soltane* (1561) à Desmares et sa *Roxelane* (1643) un grand nombre d'auteurs se sont intéressés au règne de Soliman le Magnifique [69], sultan ottoman qui régna de 1520 à 1566. Outre de multiples campagnes en Europe, en Méditerranée et Orient, il illustre parfaitement les lois du monde turc et du sérail.
+
+Plus largement, on relève environ 24 tragédies ou tragi-comédies à sujet turc [70] dont 14 concernent le mariage du sultan avec Roxelane, ancienne esclave devenue troisième épouse du harem par la naissance de son fils Mehmet (l'histoire parle peu de ce fils qui est mort jeune). D'autres concernent l'assassinat d'Ibrahim, ancien favori devenu grand Vizir. Certaines s'intéressent à la rivalité pour le trône entre Bajazet et Sélim, respectivement troisième et quatrième fils de Soliman et Roxelane ou évoquent la mort de Mustapha en 1533, tué par Soliman.
+
+Ces œuvres, majoritairement construites à partir des récits de voyageurs « temoignent des excès de ce pouvoir omnipotent  : … un homme de guerre turc porté à la plus haute fonction de l'État par son souverain puis brutalement disgracié et exécuté suite à un revirement de fortune  ; … un fils du sultan soupçonné de trahison et expédié à la mort par son père sans aucune pitié ; … une histoire de machination politique mise en place par des comploteurs pour perdre un héros en vue à la cour du sérail » [71]. On parle alors pour ces pièces de « Cycle du Soliman » [72].
+
+Sylvie Requemora [73] compte entre 1621 et 1681 sept tragédies et 3 tragi-comédies (dont la majorité ont été publiées entre 1621 et 1656), ce qui prouve la grande influence du règne de Soliman II au xvii*e* siècle. Les turqueries semblent donc « lier au lieu et au personnel dramatique » [74]. En effet, tous les personnages évoluent autour de Soliman mais aussi de Roxelane qui apparaît presque systématiquement comme une femme fourbe, cruelle et avide de pouvoir.
+
+De surcroît, les pièces à sujets turcs permettent aux dramaturges de nourrir leur réflexion sur le meilleur type de sujet tragique et sur l'importance de la violence au sein des alliances énoncée par Aristote dans sa *Poétique* [75]. La loi du fratricide qui pousse un nouveau sultan à éliminer tous ses frères pour éviter que l'un d'eux, par un excès de jalousie, ne tente un coup d'état, correspond tout à fait aux mésalliances tragiques souhaitées par les dramaturges.
+
+Nous pouvons donc dire à la suite de Michèle Longino que « figurativement et littéralement, l'Orient est un espace de théâtre » [76], probablement en raison de la démesure et de la violence qui y règnent. Il s'agit donc d'un lieu qui peut être représenté dans une visée morale et cathartique.
+
+
+## *Le Soliman* de Bonarelli
+
+*Il Solimano* de Bonarelli représente sur scène les complots machiavéliques de Rustan et de Roxelane qui s'appuient sur la *libido dominandi* du sultan afin de faire périr Mustapha. C'est en effet cette passion du pouvoir et la peur d'être détrôné qui conduit le sultan à condamner injustement son fils. Lancaster considère que les deux pièces adaptées du *Soliman* italien s'inspirent historiquement de la mort de Mustapha exécuté par Soliman II en 1533. Autour de cet événement les dramaturges ont brodé deux motifs romantiques, l'amour entre Persine et Mustapha et l'échange d'enfants entre Roxelane et Circasse [77].
+
+Il faut préciser qu'en raison du dénouement tragi-comique de sa pièce, l'intrigue du *Soliman* de d'Alibray ne s'achève pas par la mort de Mustapha.
+
+Prospero Bonarelli (1582-1639) est le frère cadet de Guidobaldo Bonarelli, célèbre auteur de *Fillis de Sciro* (1607) et membre fondateur des Intrépides de Ferrare [78]. Il composa neuf drames en musique, des comédies en prose et de nombreuses poésies. Il crée *Il Solimano* pour le duc de Toscane et la Cour de Vienne et souhaite avec cette pièce composer une tragédie dans les règles en adéquation avec les goûts du public. Il soumet d'ailleurs les scènes les unes après les autres à des critiques.
+
+C'est une réussite puisque sa pièces est considérée comme « une des meilleures de son temps » [79]. Dans son premier *Discours*, Bonarelli résume l'intrigue de son *Soliman* comme l'histoire d'un père juste et aimant poussé par quelques-uns à faire assassiner son fils :
+
+
+en raisons des intrigues menées par la Rossa et des soupçons que Rusteno avaient fait naître en lui, Solimano, qui ne voulait pas priver son fils du trône, ni de la vie, en vint à faire périr celui-ci misérablement. [80]
+
+Toutefois l'auteur subit des critiques de la part d'Antonio Bruni, qui lui reproche d'avoir choisi un sujet moderne déjà traité par l'historien Natale Conti. L'auteur lui répond dans deux lettres apologétiques [81]. Ces textes démontrent une connaissance parfaite de la *Poétique* d'Aristote et sont repris par d'Alibray dans son adresse Au Lecteur. Certains passages laissent même à penser que notre auteur a par endroit directement traduit Bonarelli :
+
+
+J'ay pourtant obmis quelques autres raisons que tu pourras voir dans les deux lettres apologetiques que nostre Autheur adresse à Bruni, et dont je n'ay point fait de difficulté d'emprunter ce que j'ay trouvé de meilleur pour une seconde deffense de mon Soliman.
+
+C'est pourquoi, nous utiliserons en grande partie ce texte pour mettre en avant les arguments de Bonarelli sur les conditions de modifications de l'Histoire.
+
+Comme d'Alibray le rappelle il y a différents types d'histoires : « les unes sont anciennes, et les autres modernes ». Il distingue encore celles « arrivées en un païs esloignée, ou comme arrivées en un païs proche ». Il est alors admis de modifier les histoires anciennes ou encore les histoires qui se sont déroulées dans un pays étranger, la distance temporelle étant palliée par la distance spatiale [82] : l'assassinat de Mustapha qui a eu lieu en 1533 en Turquie rentre donc dans cette catégorie. D'Alibray rajoute que pour lui « un siecle ou environ suffit à leur acquérir ce titre d'histoires anciennes… et que c'est assez au Poëte de n'avoir point de tesmoins oculaires qui le dementent ». De plus, aucune règle n'oblige les auteurs de tragédie à puiser leurs sujets dans l'Antiquité et Aristote demande seulement qu'au moins un type de distance (spatiale ou temporelle) soit appliquée. Même si le choix d'un sujet moderne peut être étonnant dans une époque où règne la tragédie antique, Bonarelli ne va donc nullement à l'encontre des règles aristotéliciennes du genre.
+
+La seconde lettre de Bonarelli, ainsi que l'adresse Au Lecteur de d'Alibray, se placet dans la continuité du chapitre ix de la *Poétique* d'Aristote. Ils y développent les différences entre la Poésie et l'Histoire :
+
+
+L'histoire …, est une narration selon la vérité, d'actions humaines memorables et arrivées ; la Poësie est une narration selon la vraysemblance d'actions humaines memorables et qui pouvoient avenir ; la matiere de l'une doit estre pareille à celle de l'autre, je l'avouë, mais pareille et non pas la mesme ;. [83]
+
+La Poésie et l'Histoire n'ont pas le même but et ne peuvent donc pas rentrer en concurrence. Bonarelli évoque tout d'abord les faits *contra historiam* recherchés par l'historien. Il s'agit de faits véritables et universels, même si, comme le rappelle d'Alibray en reprenant les exemples du dramaturge italien, certains historiens ne respectent pas toujours la vérité [84]. Il y a d'autre part les faits *praeter historiam*, plus anecdotiques. C'est prioritairement ceux qui sont utilisés par le poète puisqu'il peut y introduire ses inventions propres en s'appuyant davantage sur la vraisemblance que sur la véracité des faits.
+
+D'Alibray reprend aussi l'idée de Bonarelli sur le crédible merveilleux ou le merveilleux vraisemblable. C'est la combinaison d'éléments véritablement tirés de l'histoire et d'éléments inventés qui produit le meilleur effet sur le public et est le plus à même de purger les passions. D'Alibray résume en disant que  :
+
+
+Le Poëte ne doit pas perdre à la vérité le croyable pour le merveilleux, mais aussi ne doit-il pas mespriser le merveilleux pour le croyable, d'autant que les deux joints ensemble, forment le sujet de la Poësie, et que l'un ne peut estre sans l'autre dans un bon Poëme. [85].
+
+Selon les dramaturges, c'est la notion *d'inventio*, largement développé par Aristote au chapitre ix de *La Poétique*, qui les autorise à modifier les événements secondaires de l'Histoire ou ceux qui ont été rapportés par des historiens mineurs [86] ou encore, comme on l'a déjà vu, ceux qui sont arrivés dans un pays éloignés. Puisque le rôle du poète est d'inventer d'Alibray rappelle que « … l'authorité du Poëte estant presque aussi forte que celle des Historiens de son pays, cela luy donne le moyen d'introduire ses inventions propres et de le rendre veritablement Poëte ».
+
+Bonarelli respecte alors dans sa pièce l'action première et modifie les éléments secondaires. On trouve dans *Il Solimano* six changements par rapport à l'Histoire.
+
+Il a tout d'abord réduit en une journée « ce que l'Histoire dit être advenu en plusieurs mois et années ». Certes, cet élément s'accorde avec la question de l'unité de temps mais prouve aussi selon d'Alibray l'immense génie du poète italien à faire croire vraisemblable le complot contre Mustapha en un temps si court. Le travail sur le caractère des personnages a donc du être établi avec perfection [87] afin que la vraisemblance psychologique soit respectée. En effet Soliman change radicalement de point de vue sur son fils en passant de l'admiration à la haine. Bonarelli a donc su contourner cette difficulté technique de l'unité de temps : il amoncèle les faux indices de la trahison de Mustapha [88] et réussit à faire en sorte que l'intrigue soit vraisemblable.
+
+La seconde modification concerne la relation qu'entretient Despine (ou Persine selon les auteurs) avec le fils de Soliman. Même si quelques lettres suggérant cette relation ont été retrouvées, leur liaison n'a jamais été avérée par les historiens :
+
+
+on intercepta certaines lettres du Bassa d'Amasie, qui faisaient vaguement mention d'une sorte de mariage entre Mustafà et la fille du Roi de Perse, lesquelles lettres, présentées par la Reine à Soliman, produisirent l'effet désiré. Mais moi, à partir de cette petite graine historique, j'ai pensé pouvoir faire naître la plante fabuleuse des amours de Mustapha avec Despine et des actions de la jeune fille, en la greffant de telle sorte sur le tronc de la fable principale, que l'une ne puisse se tenir, ou finir sans l'autre. [89]
+
+Quoi qu'il en soit, cet élément permet à l'auteur d'apporter un caractère romanesque aux faits historiques. Cette intrigue constitue un épisode au sens aristotélicien du terme [90] puisqu'elle est étroitement liée à l'intrigue politique. La création d'un couple tragique [91] renforce la crainte et la pitié du spectateur sur Mustapha, accusé innocemment et permet à la pièce de conserver son unité d'action.
+
+Faire de Roxelane la mère de Mustapha est une pure invention du dramaturge puisque le jeune homme est reconnu historiquement comme le fils de Circasse, l'autre femme du sultan [92]. Toutefois par l'échange d'enfants Bonarelli annonce une tragédie complexe avec reconnaissance [93].
+
+Bonarelli modifie aussi quelque peu la fin tragique des amants. Il reprend à son compte l'imagerie d'horreur et de violence rattachée à l'Orient au point que certains critiques comme Lancaster ont vu un côté ridicule à la description de la mort de Persine [94].
+
+
+La décapitation des amants est en effet un prétexte à une scène très spectaculaire, dans laquelle la tête coupée du prince passe des mains de la Reine à celles de Solimano (V, 4) et à un récit macabre riche en hypotyposes relatant l'exécution de Despina (dont la tête coupée parle encore en tombant de l'échafaud, et rebondit de marche en marche jsuqu'aux pieds de Mustafà (V, 1). [95]
+
+Enfin, Bonarelli déplace doublement le lieu de l'action. Il situe son intrigue dans la ville d'Alep alors que l'Histoire situe la guerre des Turcs contre les Perses dans les « campagnes » [96] d'Arménie et d'Azebaidjan, et il y place le palais de Soliman qui se trouve normalement à Istambul. Le choix de l'urbanisme et d'un espace large est une commodité qui permet le respect de l'unité de lieu et ne va pas à l'encontre du vraisemblable puisque ce choix est guidé par « la raison qui l'a obligé d'en user ainsi » [97] et que l'auteur compense la proximité temporelle par l'éloignement spatial. De plus le choix de cette ville n'est pas si aléatoire et infondé qu'il n'y paraît puisqu'historiquement le grand vizir Ibrahim se rendit à Alep au cours de l'hiver 1533 afin de préparer ses nouveaux combats contre les Perses.
+
+Dans son second *Discours*, Bonarelli précise qu'Alep est une ville fort éloignée et que de ce fait les informations que l'on peut en avoir sont sujettes à caution. Ce changement apparaît donc aussi comme un prétexte supplémentaire pour introduire des éléments fictifs dans la pièce.
+
+Quoiqu'il en soit, le pari de Bonarelli est réussi puisqu'il semble que sa pièce ait connu un fort succès. C'est avec l'art d'un vrai Poète qu'il a fait de son Soliman une tragédie complexe à reconnaissance. Les ressorts de la catharsis y sont mis en place afin que le spectateur tremble pour Mustapha et ait pitié de Soliman. Par la perte de son fils et le suicide de sa femme, qui découvre trop tardivement que le jeune prince est bien son fils et non celui de Circasse, le sultan connait un véritable changement de fortune et doit être considéré comme le vrai héros de la pièce. Son destin horrible est d'ailleurs le sujet de la morale d'Acmat à la fin de l'acte v.
+
+
+## *LeSoliman* « habillé à la française »
+
+Puisque Mairet et d'Alibray ont tous les deux traduit la pièce de Bonarellie et l'ont adapté adapté aux règles dramaturgiques françaises, il nous a paru intéressant de mettre leur pièce en parallèle.
+
+Nous avons numéroté les scènes de chacune des deux pièces en indiquant, selon les conventions le numéro de l'acte en chiffre romain (I, II, III, IV, V) suivi de celui de la scène. Les actes et scènes correspondant à la pièce de d'Alibray sont indiqués en gras et ceux de la pièce de Mairet en italique. Afin que le parallèle entre les deux pièces soit mis en évidence, nous avons pris soin d'indiquer après chaque résumé de scène la concordance avec la pièce concurrente (par exemple : // **I, 5** ou *II, 3*…).
+
+
+## Résumés des deux pièces
+D'ALIBRAY | MAIRET
+**I, 1** Soliman, roi des Turcs est arrivé à Alep et poursuit avec succès la guerre contre les Perses. Il attend son fils Mustapha qui revient d'Amasie où il a combattu l'ennemi. Acmat apparaît comme un fervent admirateur de Soliman et le gendre du sultan, Rustan, propose son aide pour vaincre une fois pour toutes les Perses. Dés cette première scène la tension entre Acmat et Rustan est palpable. « Le propre d'un guerrier c'est d'agir et de se taire ». Cet embryon de querelle est interrompu par Soliman. Rustan, en aparté confère une menace de mort contre Mustapha et s'en va retrouver la Reine. //I, 3 | I, 1 Roxelane se confie à Hermine. Après un bref rappel de son passé d'esclave au sérail de Soliman, la Reine avoue à Hermine qu'elle avait échangé son premier né avec un enfant mort, puisque Circasse, une autre femme de Soliman, avait accouché un jour avant elle. Craignant, que sa rivale ne fasse tuer son enfant elle préféra le faire passer pour mort. Mustapha est donc présenté comme le fils de Circasse et Soliman. Son courage et sa fureur guerrière annonce qu'il sera probablement le successeur de son père. Roxelane craint donc pour son fils cadet Selim. (En Turquie, pour éviter les combats et les conflits pour le trône, le fils qui arrive au pouvoir avait pour habitude d'opérer un fratricide. Ce principe a été entériné par un décret de Mehmed II). // Révélation Reine V, 3
+**I, 2** Osman vient annoncer à Soliman l'arrivée de Mustapha et loue ses mérites. Les vertus du fils sont rattachées par Acmat à celles du père. Il suggère à Soliman d'aller accueillir son fils et ses soldats au camp. Sur les ordres du sultan, Osman part avertir Rustan du retour de Mustapha. La scène se clôture par une réplique d'Osman qui fait écho à la didascalie du début de la scène « Osman estoit du parti de Rustan, et loue Mustapha pour le rendre suspect à Soliman » / « (…) un vieux Roy, de son fils, hait la trop grande estime. ». Une machination menée par Rustan semble donc se tramer autour de la personne de Mustapha. | I, 2 Alvante incite Despine, déguisée en espion de Perse, à quitter le pays. Celle-ci refuse et avoue son amour pour Mustapha qui dure depuis deux ans. Pour Alvante cet amour est une trahison, mais face à la constance de Despine il consent à rester même si pour lui ces liensamoureux sont présages de malheur. // I, 3
+**I, 3** Alvante apprend à Persine, déguisée en soldat, que Soliman et son armée veulent mener une ultime bataille contre la Perse. Il l'incite donc à quitter la Thrace. Pour justifier son refus, Persine avoue à Alvante qu'elle aime Mustapha et que cet amour est réciproque. C'est donc la passion amoureuse qui l'a poussée à venir dans ce pays, déguisée. Elle peut ainsi apaiser les tourments de son cœur en apercevant le jeune prince. De plus, une promesse de mariage a été conclue entre les deux amants. Pour Alvante, cet amour est inconcevable d'autant qu'il s'apparente à une trahison. Malgré les nombreuses craintes et remontrances de son père nourricier, Persine refuse de renoncer à son amour. Pour elle, les douleurs du cœur sont plus fortes que les douleurs de la guerre. // I, 2 | I, 3 Soliman évoque la guerre qu'il conduit contre la Perse et ses victoires anciennes. Il nomme son fils Mustapha, grand et courageux guerrier, comme chef des armées. Mustapha semble alors démontré un grand respect pour son père. **//II, 1 + I, 1**
+**I, 4** Dans cette scène on apprend l'inimitié de la Reine pour Mustapha. Sur les conseils de Séline elle cherche à le « rendre coupable auprès du Roy ». Séline pense que la Roxelane peut avoir un impact important sur le sultan en raison des liens matrimoniaux qui les unissent. Cependant la Reine, qui a compris que Soliman avait choisi Mustapha, fils de Circasse comme successeur et jalouse et accuse le sultan de ne plus l'aimer.. Elle souhaiterait que Sélin, son fils cadet, prenne la place de son demi-frère et met en place une machination contre Mustapha. Selon sa confidente « pour vivre et pour régner, tout se fait, tout s'excuse ». | I, 4 Rustan, le gendre de Soliman est furieux du choix fait par le sultan. Il pensait en effet être choisi comme chef des armées. Osman considère que d'avoir venter Mustapha auprès de Soliman n'était pas la bonne solution. Cependant, Rustan rebondit et compte bien se venger du prince en le faisant haïr par son père. Pour ce faire il décide d' utiliser la Reine et les sentiments des deux époux. Le complot contre Mustapha se met donc en place. **//II, 2**
+**II, 1** Soliman, en présence de ses deux conseillers, confie à Mustapha le commandement de l'armée et fait vœux de victoire. Mustapha remercie le sultan pour cet honneur et lui promet fidélité. Sa réponse est propice à des louanges envers les anciennes vertus guerrières de son père. Il se positionne donc comme le digne héritier de Soliman. Sur les sollicitations et encouragements de son père, Mustapha rejoint le camp. *// I, 3* | I, 5 Alvante feint d'accepter l'amour que Despine porte à Mustapha. Celle-ci lui confie donc les circonstances de leur rencontre. Mustapha ayant été fait prisonnier, commença à avoir des sentiments pour la jeune femme. Un entretien qu'ils eurent tous les deux s'acheva par une promesse de mariage. Cependant le camp perse fut attaqué et Despine perdit contact avec le fils du sulatn. De peur de se faire voir et reconnaître par les ennemis, elle confit à Alvante une lettre pour son amant ainsi qu'un papier blanc signé du roi de Perse. Celui-ci fait donc à Despine la promesse de remettre ces papiers à Mustapha. Mais il annonce indirectement sa volonté de « guérir » la princesse de son amour. **//II, 5**
+**II, 2** Rustan, n'accepte pas le choix du sultan et avoue à Osman qu'il jalouse le poste de commandant des armées de Mustapha, qu'il pensait acquérir. Selon Osman, la première idée de Rustan, à savoir louer Mustapha auprès de Soliman les valeurs guerrières de son fils afin qu'il finisse par être inquiété n'était pas la bonne solution. Rustan décide de se venger. Il envoie Osman comme espion au camp. *//I, 4* | I, 6 Seul en scène, Alvante exprime ouvertement son désaccord avec l'amour que porte Persine à Mustapha. Il considère cette union comme immorale et déchire les papiers qu'elle lui avait confiés. Osman survient à ce moment là et récupère les papiers. Il croit y voir une trahison de Mustapha envers son pays. Il pense à donner les morceaux de la lettre et le cachet du roi persan à Soliman mais décide finalement de les confier à Rustan qui pourra s'en servir comme instrument pour sa ruse. **//II, 6**
+**II, 3** Rustan propose à la Reine de faire mourir Mustapha. Mais, prise de pitié elle n'ose pas prendre une telle décision. Séline et Rustan lui laisse croire que si Mustapha acquiert davantage de pouvoir, elle devra craindre pour le sien et risque même de perdre la vie. Rustan apprend aussi à Roxelane que Soliman a nommé Mustapha chef des armées. La Reine, inquiète, confie son sort à Rustan qui l'incite à faire part de ses soupçons au sultan. //II, 1 | II, 1 La fureur guerrière de Mustapha est l'argument premier de Rustan pour convaincre la sultane de se mêler au complot pour éliminer le prince. Il souhaite que Roxelane face part de ses soupçonx à Soliman afin que le Solyman craigne pour son pays et son trône et se retourne contre Mustapha. **//II, 3**
+**II, 4** La Reine trouve Soliman soucieux. Au nom des liens qui les unissent elle lui en demande les raisons. Soliman n'arrive pas à en identifier les raisons même s'il sait que ce n'est ni la peur de la défaite ni l'angoisse de vieillir qui le met dans un tel état. Rustan intervient en prédisant un malheur pour le trône et la Reine suggère que Mustapha pourrait être la cause de son inquiétude. Elle lui laisse croire que ce jeune homme, dont la valeur guerrière n'est plus à prouver est plein d'ambition. Il serait peut-être en train de manigancer quelque chose pour prendre la place de son père et se serait allié avec les Perses. Rustan s'empresse de renchérir. À ces arguments, Rustan feint d'ajouter celui de la témérité de Mustapha à vouloir obtenir le poste de commandant des armées. Soliman avoue que l'attrait du pouvoir mène souvent à des actes inattendus. Il écoute les avis de son épouse et de son conseiller mais ne prend pas de décision. //II, 2 | II, 2 La sultane poussée par Rustan expose à Soliman ses soupçons envers Mustapha. Elle pense que le fils du sultan cache derrière ses services et son air aimable, une avidité de pouvoir et un désir de prendre la place de son père. Elle pense que Mustapha a pu nouer des liens avec les Perses lors de son voyage et de son emprisonnement afin de trahir son père. Roxelane l'invite donc à prendre garde et Soliman prend son intervention avec sérieux. À la fin de cette scène, Osman survient pour confier à Rustan les papiers qu'il avait récupérés à la fin de l'acte précédant. **//II, 4**
+**II, 5** Alvante feint d'accepter l'amour de Persine envers Mustapha, pour mieux « l'en guérir ». Persine lui raconte donc sa rencontre avec le prince ennemi. C'est, déguisée en soldat, qu'elle l'a découvert caché dans un buisson. Alors que des soldats tentent de l'arrêter mais le jeune homme combat avec force, seul contre tous. Persine, prise de pitié, s'approche et croise son regard et en devient passionnément amoureuse. Elle interrompt le combat et demande au jeune homme de se rendre et de devenir son serviteur. En voyant devant lui le visage de la jeune fille, Mustapha semble troubler. Alvante, sans même avoir entendu la fin de l'histoire trouble de mauvais présages la relation des deux amants. Une fois prisonnier, Mustapha révèle son identité et avoue à la princesse qu'il était venu en reconnaissance dans son pays. À travers leur regard, les deux amants se disent leur amour mais Mustapha fut le premier à l'avouer. Il promet à Persine un mariage qui conclurait la paix entre leur deux pays. Toutefois, les deux amants ont été séparés puisque Persine fut obligée de se retirer dans un fort isolé pour se protéger. Elle est donc revenue en Thrace dans l'espoir de croiser son amant. Alvante promet à Persine de l'aider en portant à Mustapha la lettre qu'elle lui a confiée. Elle y joint un papier avec le cachet du roi de Perse. //I, 5 | II, 3 Alvante fait croire à Despine qu'il a donné la lettre à Mustapha et que celui-ci l'a déchirée. Il lui dit que le prince turc la rejette et renie son amour pour elle en l'associant à du « libertinage ». Alvante feint de retranscrire les paroles haineuses de Mustapha pour inciter Despine à fuir la guerre et à retourner dans son pays. La jeune femme blessée dans son honneur crie à la vengeance et à la mort. Elle se prépare à partir. **//III, 1**
+**II, 6** Alvante désespéré, laisse place au pathos et imagine Mustapha à la place du roi. Il ne peut se rédoudre à servir l'amour des deux amants et déchire la lettre. Osman qui l'observe prend ses paroles à la lettre. Il récupère le papier et le cachet du Roi. Il s'en va les donner à Rustan pour que ce dernier fasse de « ce peu de matière … le sujet d'une ruine entière ». //I, 6 | II, 4 Telle une amante abandonnée, Despine seule en scène se livre à une monologue tragique. Elle lance alors des imprécations mortelles et décide de se venger en mourant devant les yeux de Mustapha.
+**III, 1** Alvante annonce à Persine que Mustapha n' pas tenuesa promesse d'hyménée et a déchiré la lettre qu'il lui a donné. Il lui fait croire que Mustapha ne fera preuve d'aucune indulgence envers eux puisque la jeune femme l'avait ensorcelé. La princesse est touchée par ces mots et est même prête à se donner la mort. Toutefois, Alvante l'encourage à quitter le pays en lui suggérant que sa vengeance sera totale si la Perse remporte le combat. Persine semble acquiescer mais une fois seule en scène elle réitère sa volonté de mourir devant les yeux de son amant afin qu'il s'en sente coupable.. //II, 3 | II, 5 Rustan continue son plan machiavélique. Il compte se servir des papiers ramassés par Osman pour faire écrire une fausse lettre qui imitera l'écriture du roi de Perse. Il cherche ainsi à faire croire à Soliman que Mustapha prévoit de le tuer et qu'il s'est allié avec l'ennemi. Rustan ne veut pas que la Reine soit au courant de peur qu'elle ne soit pas d'accord et révèle au grand jour la machination. Osman jure fidélité à son ami.
+**III, 2** Soliman souhaite faire rentrer Mustapha du camp afin d'apaiser ses soupçons. Acmat est étonné des doutes du sultan et lui laisse entendre qu'une machination est en train de se préparer. Pour lui, Mustapha possède de nombreuses vertus dont la fidélité et la franchise. Il retourne les arguments de Rustan et de la Reine : le voyage en Perse du prince a été autorisé par le Roi et Mustapha prendrait trop de risques en renversant son père puisque la succession au trône lui est d'ores et déjà assurée. D'autres part les forfaits énoncés par Rustan et par la Reine ne sont aucunement prouvés et visibles. Sur les mots de son conseiller, Soliman s'apaise. *//II, 6* | II, 6 Acmat s'étonne des soupçons de Soliman envers son fils et défend les nombreuses vertus de Mustapha . Même si Soliman a du mal à y croire il adopte finalement l'avis d'Acmat et renonce à faire rappeler son fils du camp. **//III, 2**
+**III, 3** Rusan arrive au palais avec le papier signé du cachet du Roi de Perse. Il a fait écrire dessus un message qui compromet fortement Mustapha. //II, 6 | II, 7 Rustan entre en scène en grand bruit, les papiers à la main. Il raconte à Soliman comment Osman les a trouvé et combien ils prouvent la trahison de Mustapha. Soliman stupéfait décide de donner l'ordre à son fils de rentrer au palais. **//III, 3**
+**III, 4** Mustapha a reçu un message du sultan qui lui demande de revenir au palais. Cependant, Ormène arrive et avertit le prince qu'il craint qu'une machination menée par Rustan et la Reine se soit tramée contre lui. Il lui apprend que le gendre du sultan est jaloux de son poste de chef d'armées et que la Reine, marâtre craint pour son fils Sélin. Mustapha s'étonne que Roxelane et Rustan aient réussi a convaincre Soliman de sa culpabilité, n'ayant jamais brisé la fidélité envers son pays et son père. Osman pense à juste titre qu'ils ont trouvé de fausses raisons pour faire douter le sultan ou que la relation de Mustapha avec Persine a été découverte. Toutefois, le jeune prince, tout en renouvelant un serment d'amour envers la princesse, rappelle qu'il ne l'épousera pas sans le consentement de son père. Il veut que la jeune femme lui soit offerte suite à sa victoire ou que Soliman autorise son union. Malgré les craintes d'Ormène , Mustapha considère qu'il doit obéir à l'ordre de son père sous peine de lui manquer de respect. //III, 1 | III, 1 Bajazet, qui est chez Mairet l'ami et non le frère de Mustapha, vient inciter le prince à ne pas retourner au palais. Il le prévient, sur les propos entendus par un page, du complot que dresse contre lui la Reine et Rustan, mais, le fils de Soliman lui accorde peu de crédit. Bajazet avance alors l'argument de la déception de Rustan de n'avoir pas été choisi par Soliman pour gouverner les armées alors qu'il est avide de pouvoir ; ainsi que la crainte de la Reine pour son fil face à l'ascension de Mustapha. Il suggère aussi que l'amour du prince pour Despine aurait pu être découverte et servirait d'argument aux deux autres personnages pour avancer à Soliman l'idée que Mustapha se serait lié avec les Perses. Sur ce, Mustapha avoue clairement son amour pour la fille du roi de Perse mais aussi son choix de toujours rester fidèle à son pays et à son père. Il cherche donc à mené à bien la mission que Soliman lui a donné en gagnant la guerre contre les Persans. Il décide de ne pas fuir et d'aller voir son père. C'est alors qu'intervient Hermine, une esclave. Elle jette un mouchoir dans lequel se trouve un message pour Mustapha. Elle l'informe elle aussi d'une machination qui se monte contre lui. Dés lors Mustapha est assuré de courir un danger. **En partie // III, 4**
+**III, 5** Adraste arrive sur ces entrefaites et réitère les doutes d'Ormène. Il confirme à Mustapha que la Rustan et la Reine ont monté une machination contre lui en jetant « de faux soubçons, dedans l'esprit du Roy ». Les deux hommes craignent donc pour sa vie et l'incite à fuir ou à renverser Soliman. Mustapha refuse l'une et l'autre solution par honneur et respect pour le Roi. Il prend la décision de rentrer au palais pour découvrir ce qui s'y prépare. | III, 2 Un page vient avertir Mustapha que ses soldats le croient mort et souhaitent le venger. Il lui suggère de retourner au camp promptement. Mustapha qui a prévu d'aller au Palais demande à Bajazet de rassurer les soldats pour lui. Mais celui-ci pense qu'il ne sera pas cru par les hommes. Mustapha est donc obligé de retarder son départ et s'en retourne au camp pour apaiser la crainte de ses soldats.
+**III, 6** Un messager arrive et demande à Mustapha de retourner au camp. Les soldats croient qu'il est déjà mort et préparent une vengeance. Le jeune homme qui ne veut pas différer son retour au palais demande à Adraste d'y aller pour lui. Toutefois Adraste comme Ormène affirme que leur présence ne sera d'aucun effet sur ces hommes qu'il doit lui-même aller les apaiser. //III, 2 | III, 3 Rustan craint qu' Acmat découvre la ruse et en fasse part à Soliman. Mais il compte bien utiliser la Reine qui par son amour est la plus apte à influencer le sultan. **//III, 6**
+**IV, 1** La lettre et le retardement de Mustapha font penser à Soliman que son fils est coupable : il veut le punir. Rustan y reconnaît l'action d'un grand Roi mais Acmat fait appel à la fois aux sentiments paternels et à l'esprit de justice qui animent Soliman. Il rappelle que les espions de Soliman n'ont toujours pas réussi à trouver de vrais indices de sa culpabilité et que cette lettre vient probablement d'ennemis qui cherchent à nuire au prince. Toutefois, le sultan, appuyé bien entendu par Rustan, voit dans la lettre un indice suffisant de la culpabilité de Mustapha. Acmat rappelle au sultan qu'une décision trop hâtive est rarement la bonne et l'invite à réfléchir. Il demande de faire preuve de clémence envers son fils. Il met en avant la difficulté de l'homme à être père en même temps que Roi. //III, 6 | III, 4 Il s'agit encore d'une scène entre Soliman et son conseiller Acmat. Ce dernier continue de douter de la culpabilité de Mustapha et pense que la lettre donnée au Roi n'est que l'instrument d'une manipulation et d'une machination. Soliman attend la défense et les arguments de Mustapha. En cas d'innocence il le renverrait en Perse et si sa culpabilité est avérée il le condamnerait a mort.
+**IV, 2** Scène de quiproquo avec le devin qui annonce lui aussi une trahison dont la lettre est l'instrument. Il confirme les liens qui unissent Mustapha aux Perses mais sans en préciser leur nature. Rustan qui se sent menacer congédie le devin qui rétorque que tôt ou tard tout sera révéler. Soliman, perturbé voit venir un prisonnier. | III, 5 Roxelane encouragée par Rustan vient inciter Soliman à punir son fils. Elle dit au sultan que des menaces de mort planent au-dessus de lui et l'invite à renoncer à son amour paternel au nom de la paix. Soliman répond que justice sera faite. Rustan voit son plan avancer.
+**IV, 3** Le prisonnier est en fait Persine déguisée en soldat. Soliman croit qu'il s'agit d'un complice de Mustapha. Les gardes avouent l'avoir aperçu roder autour du palais  ; ils ont de suite penser qu'il avait commis quelques larcins. Après avoir été capturé le « jeune homme » a avoué être un espion de Perse. //III, 7 | III, 6 Scène des conseillers avec les arguments d'une part de Rustan contre Mustapha et ceux d'Acmat qui le défend en partie en raison de sa popularité. L'échange incisif des deux hommes est interrompus par l'arrivée d'un prisonnier. **//IV, 1**
+**IV, 4** Devant Soliman, Persine réitère sa nationalité Perse et sa condition d'espion. Alors que Soliman la condamne à mort, Alvante intervient et malgré les supplications de Persine, il révèle l'identité de la fille de Tamas, roi de Perse. Soliman, surpris, lui demande les raisons de sa venue. Tandis que Persine la justifie par la haine qu'elle éprouve contre le peuple turc, Alvante apprend au sultan que Persine et Mustapha sont unis par des liens amoureux. Immédiatement, Soliman voit dans ces sentiments, la trahison de son fils. Il condamne à mort Alvante et envoie Persine en prison. La jeune femme est satisfaite car sa vengeance va bientôt être accomplie. //III, 8 | III, 7 Giafer amène auprès du roi un jeune homme persan qu'il a pris pour un espion. Il s'agit en fait de Despine. Acmat est mis à l'écart de la discussion de Solyman et Rustan, qui semble avoir trouver l'adhésion du sultan. Les deux hommes présentent au prisonnier la lettre pour savoir s'il y reconnaît bien le cachet du roi de Perse et si cet écrit est bien adressé à Mustapha. Persine semble confuse. **//IV, 3**
+**IV, 5** Le gardien de la prison semble être séduit par Persine. Au mot même de « maîtresse » de Mustapha, Persine semble blessée. De loin elle aperçoit son amant et demande au soldat qu'il la laisse s'entretenir avec lui afin que « sa langue punisse son offence ». L'homme accepte. | III, 8 Solyman prend le silence du prisonnier comme un aveu et le condamne à mort. C'est alors qu'Alvante, gouverneur de Despine, intervient pour demander une audience afin d ‘obtenir la grâce de la jeune femme. Alors que la princesse refuse qu'il dévoile son identité puisqu'elle souhaite être condamnée et mourir, Acmat révèle le haut rang de celle qui se cache derrière un déguisement. Stupéfait, Solyman s'interroge sur les raisons de sa présence. Despine se dépeint comme espionne alors qu'Alvante invoque les raisons amoureuses. Despine est emmenée au quartier de la reine tandis que Solyman entreprend de faire venir Mustapha pour une confrontation. **//IV, 4**
+**IV, 6** Avant d'entrer dans le palais, Mustapha quitte ses armes afin de prouver son innocence. Persine lui lance des menaces de mort et le désigne comme coupable de ses maux. Mustapha est surpris de la présence de Persine, en tant que prisonnière au palais. Le jeune homme ne comprend pas pourquoi elle l'incrimine ainsi et la jeune femme pense qu'il se moque d'elle. Elle lui rappelle alors qu'il a déchiré la lettre qu'elle lui a envoyée, qu'il l'a accusée d'être une « sorcière » et qu'il lui avait demandé de quitter le pays sous peine de la condamner. Puisqu'il n'a pas respecté sa promesse, Persine avoue se punir elle même de l'avoir aimé. Le jeune homme est blessé par de tels propos et tente de lui faire admettre qu'il s'agit d'un complot. Il préfère mourir plutôt que de constater que son amante le croit coupable. De toute façon, Persine est déjà condamnée. Mustapha souhaite se sacrifier pour elle. // III, 10 + IV, 3 | III, 9 Rustan décide de rattraper le roi pour lui conseiller de laisser Acmat en présence de Despine.
+**V, 1** Les deux amants réconciliés, sont conduits au supplice. Mustapha ne comprend pas pourquoi Persine est condamnée. Seul l'amour les rend coupable aux yeux de Soliman. Les deux amants marchent donc avec courage vers la mort pour prouver qu'on ne peut pas les séparer. | III, 10 Tandis que Mustapha se désarme et demande à son armée de s'éloigner afin de rentrer en innocent dans le Palais, il aperçoit Despine prisonnière. Celle-ci l'accuse de ses maux alors qu'il s'interroge sur les raisons de sa condition. Il ordonne aux soldats de la libérer. **//IV, 6**
+**V, 2** La Reine prise de remord veut tout avouer à Soliman et reconnaît l'innocence de Mustapha. Séline tente de l'en empêcher. | III, 11 À ces ordres s'opposent ceux du Rustan. Pour contrer l'insolence du conseiller face à Mustapha, Bajazet lui porte un coup d'épée. Il tombe, mort. Bajazet, qui craint pour Mustapha, lui suggère d'entrer en guerrier, avec ses soldats, dans le Palais. Mustapha refuse et entre seul. Bajazet se prépare à créer et conduire une armée pour sauver et venger le prince.
+**V, 3** Ormène intervient afin de révéler un lourd secret à la Reine. Le jour où elle accoucha, l'enfant de Circasse mourut. Cette dernière demanda donc à Ormène de trouver un enfant vivant pour remplacer le sien. La reine, stupéfaite, souhaite savoir si le nouvel enfant de Circasse possédait des traces sur le corps. La réponse d' Ormène est affirmative. La Reine comprend alors qu'il s'agit de son propre fils et révèle à son tour un secret. Afin de préserver son enfant de Circasse, la reine fait passer son nouveau-né pour mort. C'est alors que sa rivale récupéra sans le savoir, l'enfant de la Reine à la place du sien. Sans plus attendre, Roxelane souhaite empêcher la mort de Mustapha. Révélation de la Reine // I, 1 et annonce que Mustapha est son propre fils alors qu'il est déjà mort en IV, 6 | IV, 1 Mustapha reçoit un billet de Solyman qui lui donne l'ordre d'aller voir Despine. Dans une longue tirade, il exprime son incompréhension face au travestissement de la jeune femme et son changement de comportement envers lui. Il reconnaît aussi que la Reine et Rustan, par jalousie, ont du retourner Solyman contre lui. Il s'inquiète du sort qu'on réserve à son amante et à lui-même.
+**V, 4** Soliman est tiraillé entre son rôle de souverain et ses sentiments de père. Il regrette de devoir condamner son fils. Pour Acmat c'est peut-être parce qu'au fond de lui, le sultan pense que Mustapha est innocent qu'il se sent si mal. Il lui suggère de laisser une chance à son fils de s'expliquer. | IV, 2 Hermine, esclave et favorite de la reine apparaît. Elle informe Mustapha que Roxelane le fait espionner et qu' au palais, tout le monde le croit coupable de trahison et de complot contre Solyman, à l'exception d'Acmat. Elle l'informe que Rustan, après la blessure infligée par Bajazet est à l'article de la mort ce qui ne joue pas en sa faveur. Mustapha espère au moins que Despine pourra échapper à un dénouement funeste.
+**V, 5** Malgré la demande de Rustan, la Reine décide d'aller trouver Soliman. Rustan s'enfuie tandis que la Reine avoue au sultan qu'elle vient d'apprendre qu'elle était la véritable mère de Mustapha. Elle reconnaît avoir conduit, avec Rustan, une machination contre le prince. Elle a tenté le rendre coupable auprès du roi à partir de faux soupçons. Soliman ordonne que l'arrêt de Mustapha soit levé mais appréhende qu'il soit déjà trop tard. Mais, la Reine a déjà demandé qu'on retarde la mise à mort. Elle demande à Soliman l'autorisation d'aller elle- même accueillir son fils. | IV, 3 Despine et Mustapha s'entretiennent. Despine, condamnée à mort, considère que Mustapha est responsable de son sort. Le fils du sultan, malheureux, ne comprend pas pourquoi Despine l'accuse autant et veut surtout s'enquérir sur les raisons de sa venue au palais. La princesse lui rappelle donc les propos qu'il aurait tenu à Alvante et la lettre qu'il aurait déchirée. À ces mots, Mustapha est surpris, il jure n'avoir jamais reçu de lettre et ne jamais avoir dévoilé, si ce n'est à « des amis discrets » ses sentiments. Cette accusation l'atteint. **//IV, 6**
+**V, 6** Seul le cachet de Tamas rend encore Mustapha coupable. Acmat pense que la Reine qui a participé au complot va expliciter cet élément, mais que la fuite de Rustan en dit long sur l'innocence de Mustapha. Soliman décide de condamner à mort Rustan. Il s'étonne aussi sur ce nouveau lien qui unit la Reine à Mustapha puisque Roxelane a accouché d'un enfant mort. La Reine tarde à revenir ce qui inquiète le sultan quand Acmat aperçoit la mère et le fils. | IV, 4 Alvante intervient et confie qu'il a inventé cette histoire puisqu'il avait peur des conséquences de leur relation. Mustapha obtient donc sans discussion le pardon de Despine. Avec cet aveu, Alvante apporte une bonne nouvelle puisqu'Acmat a su convaincre Solyman de l'innocence des deux amants et que ce dernier veut les entretenir.
+**V, 7** La Reine prévient son fils qu'il n'a plus qu'à se justifier de la lettre auprès de son père. | V, 1 Scène équivoque dans laquelle l'ironie est très présente dans les paroles de Solyman. Le sultan propose que les deux amants s'unissent pour l'éternité, mais en les condamnant à mort. Despine et Mustapha y voient, eux, un dénouement matrimonial. Toutefois, Mustapha a un doute sur la sincérité de son père, mais il est en ce point vite rassuré par Acmat. Solyman s'en va en promettant de leur faire parvenir un objet.
+**V, 8** Osman vient annoncer le suicide de Rustan, qui se sentait trop coupable. C'est finalement Osman qui dévoile la vérité sur la lettre. Rustan, s'est servi du papier blanc signé du Roi pour écrire, en déformant son écriture, un message pour discréditer Mustapha. Rustan voyant que la Reine hésitait à prendre totalement part à ce complot ne lui avait pas fait part de cette action. Alvante avoue alors avoir déchirré ces papiers pour empêcher la relation entre Persine et Mustapha. Persine s'aperçoit alors que jamais Mustapha ne l'a reniée et reconnaît avoir davantage crut son père nourricier. Soliman considère alors la sagesse de son conseiller, Acmat et s'excuse auprès de son fils. Mustapha ne lui en veut pas et demande pardon au Roi à la fois pour les propos véhéments de Persine mais aussi pour les liens qu'ils ont tissé sans son accord. //Reconnaissance de la culpabilité d'Alvante en V, 7 | V, 2 Seul avec Despine, Mustapha lui avoue qu'il voit derrière cet entretien un sombre présage. Tout en s'inquiétant du sort qui leur est réservé, les deux amants se redisent une nouvelle fois leur amour et la douleur que procurerait la perte de l'être aimé À cet instant un page intervient avec le cadeau du roi : il s'agite d'une hache, de liens et de bandeaux. Mustapha, affaibli, reçoit une leçon de constance de la part de Despine qui lui suggère d'être aussi héroïque devant la mort que sur le champ de bataille.
+**V, 9** L'Ambassadeur de Perse arrive. Tamas a été mis au courant que sa fille avait été fait prisonnière et propose la paix contre sa fille. Il suggére que le deux amants pourraient se marier afin de symboliser cette paix. Soliman accepte. Toutefois Persine semble perturbée. Elle s'excuse auprès de Mustapha de ne pas avoir cru en son innocence et se juge indigne de lui. C'est la seule qui ne semble pas totalement heureuse. Elle vient obscurcir le tableau final du dénouement. | V, 3 Osman intervient et Mustapha lui reproche d'avoir participé au complot mené par Rustan. Despine se demande pourquoi les amis de Mustapha n'intervienne pas pour les sauver, mais face à la rapidité de la mise à mort, Mustapha pense que le Roi craint la délivrance de son fils. **La Reine apprend en V, 3 que Mustapha est son fils mais il n'est pas encore mort.**
+ | V, 4 Osman s'approche pour tuer Mustpaha qui menace de se rebeller. Solyman intervient par une fenêtre, et demande à son fils de se livrer sans quoi le corps de Despine sera exposé sur la place public. Coupable de s'aimer, les deux amants sont ligotés séparément et Mustapha avance le premier vers l'échafaud sur les ordres du roi. **Aveu d'Alvante // V, 8**
+ | V, 5 Par un oracle, la reine apprend que la mort de Mustapha n'assurera aucunement le destin de Selim.
+ | V, 6 Après la mort de Mustapha, Hermine entre en scène accompagnée de la vieille Alicola qui veut discuter avec la Reine. Alors que Solyman pleure déjà la mort de son fils, Roxelane apprend que Mustapha était son propre fils. Circasse, après avoir accouché d'une enfant mort l'avait échangé contre un vivant. Cet enfant s'est trouvé être celui-là même que la Reine avait abandonné. Elle vient donc de condamner à mort son propre fils et souffre de cette terrible nouvelle. Roxelane souhaite alors tout révéler à Solyman. Sur son lit de mort Rustan a écrit une lettre prouvant sa culpabilité.
+ | V, 7 Alvante confie à Solyman que c'est lui qui avait déchiré la lettre et donc mis à la portée de Rustan le cachet du Roi de Perse. Endeuillés et malheureux, les deux hommes signent la paix entre les deux royaumes. Au même instant, Acmat vient annoncer l'arrestation d'Osman qui confirme les propos de Rustan. Cependant, Bajazet et ses soldats sont en train de rentrer dans la ville. Solyman demande à Acmat de les apaiser en reconnaissant son erreur de jugement.
+ | V, 8 Orcambre apporte à Solyman une lettre de la reine qui a décidé de se suicider, atteinte par la douleur. Elle lui avoue dans cette lettre être la véritable mère de Mustapha. Sur les conseils d'Orcambre, Solyman se précipite pour tenter de l'en empêcher.
+ | V, 9 Bajazet entre dans la ville avec une grande fureur guerrière et une envie de vengeance. Hermine intervient et annonce la mort de la Reine et le désespoir de Solyman. Malgré les sages paroles d'Acmat et le désarroi de Solyman, Bajazet et ses compagnons entrent dans le palais avec la ferme intention de le détruire et de mettre à mort un grand nombre de personnes pour venger Mustapha et Despine.
+
+
+
+
+## Comparaison formelle des pièces
+
+La comparaison formelle des pièces permet de mettre en évidence les différences entre *Le Soliman* italien et les deux pièces « habillées à la française » par Mairet et d'Alibray. Si les deux auteurs ont transposé *Il Solimano* en alexandrins ils se sont aussi engagés par des partis pris esthétiques et dramaturgiques.
+
+D'une part, les dramaturges français ont choisi de resserrer la pièce d'origine. Comme le montre les tableaux de présence [98] des trois pièces. S'il y a 21 personnages chez Bonarelli il n'y en a plus que 16 dans ces deux pièces françaises. L'intrigue apparaît donc plus resserrée autour des personnages principaux qui évoluent à la cour du sultan turc. Mairet est le seul à avoir restitué à la Sultane son nom de Roxelane lui offrant une plus grande singularité [99] et prouvant ainsi son travail préalable « d'historien ». Son texte est en effet très empreint de culture et de mœurs turques [100]. Il a cependant commis une erreur en nommant Bajazet le « Lieutenant et ami de Mustapha », puisque historiquement il s'agit du troisième fils légitime de Roxelane. Il rajoute aussi le personnage d'Hermine qui a le rôle d'une rivale passive face à Despine et qui cherche à favoriser le destin de Mustapha.
+
+Nous pouvons éventuellement noter le jeu de mot opéré par d'Alibray qui modifie le nom de Despine en Persine. La jeune femme est alors d'emblée caractérisée par son pays d'origine.
+
+La liste des « Acteurs » est présentée par les dramaturges selon un ordre différent. Habituellement,
+
+
+on nomme d'abord … les personnages doués d'autorité ou de prestige ; les suppléent ou les suivent d'autres héros de la pièce, ceux dont les tourments vont émouvoir ou les aventures amuser le spectateur, après eux, leurs frères, sœurs, parents, « maîtresse » ou « amants », dont la présence autour du héros est déjà un commencement d'exposé de la situation ; enfin les comparses .. qui n'ont pas l'honneur d'être nommés mais dont la présence est requise sur scène …. Cette hiérarchie, on le voit, s'inspire de l'échelle sociale du xvii*e* siècle et ne coïncide pas nécessairement avec l'ordre des préoccupations techniques de l'auteur dramatique … [101].
+
+Cependant, nous sommes surprise de constater que d'Alibray et Mairet qui se livraient à une adaptation de la pièce italienne aient pris soin de modifier l'ordre de cette liste. Il faut donc en conclure qu'elle révèle tout de même quelque chose sur les choix dramaturgiques. Les deux dramaturges français ont laissé la première place au sultan Soliman et les dernières aux personnages subalternes qui ne sont, parfois, même pas dotés de noms.
+
+La place de Mustapha est, elle, particulièrement intéressante. Chez Mairet le personnage est placé sous le nom de son père, Soliman, ce qui laisse directement penser qu'il est de naissance noble et digne et ce qui annonce implicitement son destin tragique. Il acquiert en effet immédiatement sa place de héros tragique comme l'annonçait d'ores et déjà le titre de la pièce, *Le Grand et dernier Solyman ou la mort de Mustapha.* L'auteur va même jusqu'à lui accorder la même présence scénique que le sultan. Le personnage est présent durant 13 scènes tandis que chez Bonarelli on ne le retrouve qu'à 6 reprises (contre 13 toujours pour Soliman) et il apparaît dans 9 scènes chez d'Alibray (contre 16 pour le sultan).
+
+Chez notre auteur, Mustapha est placé dans la liste des acteurs, juste avant les personnages insignifiants. Le doute sur sa position sociale persiste donc. Il se distingue alors de Persine, fille du roi de Perse située juste après les personnages proches de Soliman. On peut aussi noter que Mairet comme Bonarelli présentent les hommes avant les femmes. Cela met au jour un autre type de hiérarchie sociale dans laquelle les hommes ont davantage de pouvoir que les femmes.
+
+L'étude des tableaux de présence, avant même une lecture de la pièce, permet de déceler les alliances entre les personnages et de montrer que d'Alibray comme Mairet ont respecté les choix de Bonarelli. Les affinités entre Soliman et ses conseillers à savoir Rustan et Acmat sont fortement visibles et il en de même pour Persine et son père nourricier Alvante. On peut aussi constater que des liens se nouent entre Roxelane, Séline, Rustan et son conseiller Osman.
+
+D'Alibray est celui qui semble rester le plus fidèle à la traduction de Bonarelli [102]. Toutefois, il préfère le dynamisme des dialogues, des échanges rapides et des stichomythies [103] et retranche de la pièce les quelques longs récits que l'on trouve chez le dramaturge italien. Il y a donc peu de monologues dans sa pièce. Seuls quelques vers sont récités par un personnage lorsque les autres viennent de quitter la scène. C'est le cas d'Osman qui clôture l'acte ii de Persine à la fin de la scène 1 de l'acte iii ou de Soliman à la scène 2 du même acte. D'Alibray s'accorde donc avec Chapelain [104] qui considère qu'il faut réduire au maximum les monologues et ne les utiliser qu'en cas d'extrême nécessité.
+
+Le goût de l'action chez Mairet est marqué par les multiples entrées et sorties des personnages et par la division des scènes. Sa pièce constituée de 35 scènes, use de nombreuses ruptures de scènes laissant alors l'espace scénique vide [105]. Cependant Mairet ne va que rarement à l'encontre des règles classiques puisque « l'absence de liaison en dehors des fins d'actes, est en rapport si étroit avec le changement de lieu que, pour un classique, l'un implique l'autre » [106] et d'ailleurs Chapelain en 1635 énonce que « Quelques uns ont désiré que les scènes de chaque acte fussent liées les unes avec les autres, et il est vrai que cela fait beauté et que par ce moyen la scène n'est jamais vide, mais cela n'est point nécessaire » [107].
+
+
+## Comparaison des choix de composition dramaturgique
+
+D'Alibray a transformé la tragédie de Bonarelli en tragi-comédie. Il faut souligner que pour lui la simple modification d'un dénouement funeste par un dénouement heureux, permet de modifier la catégorie dramaturgique de la pièce. Notre auteur rapproche donc lui même sa pièce d'une tragédie à fin heureuse dans son avis Au Lecteur : « C'est à dire qu'au lieu d'une Tragédie pure, nous en faisons une meslée, que nous nommons Tragi-Comédie, (car les anciens n'y mettoient point de différence) ainsi je l'ay pratiqué en ramenant par une heureuse reconnoissance, Mustapha, presque de la mort à la vie. ». Il avait d'ailleurs déjà fait ce choix esthétique dans *Le Torrismon* et se justifiait ainsi :
+
+
+Joinct que je suis en doute s'il est necessaire que la Tragedie finisse tousjours par les actions les plus funestes. La raison sur quoy je me fonde, outre l'expéience que j'ay souvent veuë du contraire, c'est que les maistres de l'Art appellent changement en la Tragedie non seulement quand elle termine en quelque malheur, mais aussi quand elle tourne en mieux, ce que nous nommons Tragi-comedie : Or selon cette regle je pouvois bien conclurre par quelque chose de moins triste, puisque je pouvois mesme conclurre par quelque chose de plus gay sans rien faire contre la Tragedie. [108]
+
+D'Alibray affirme que l'on peut plaquer un dénouement heureux sur une pièce dont la structure est tragique et l'abbé d'Aubignac dans sa *Pratique du théâtre* [109] semble s'accorder avec lui sur ce sujet puisqu'il définit la tragédie comme « une chose magnifique, sérieuse, grave et convenable aux agitations et au grands revers de la forme des princes » mais ne mentionne pas de règle concernant le dénouement de la tragédie.
+
+Notre auteur applique donc sa théorie à la pratique en modifiant le dernier acte du *Soliman* de Bonarelli. Ce détachement est visible par le tableau de présence à la fin de l'acte iv et la rupture est consommée à l'acte v, scène 3 lorsque Ormène intervient auprès de la Reine pour lui révéler la véritable identité de Mustapha. C'est d'ailleurs cette scène a valeur de catastrophe [110] qui différencie nettement la pièce de d'Alibray de celles des deux autres dramaturges puisqu'elle prouve la prédominance de la vraisemblance sur l'Histoire.
+
+Mairet a lui fait le choix de mettre le lecteur, dès la scène 1 de l'acte i, dans la confidence de l'échange d'enfants laissant alors supposer que Mustapha est le fils de Roxelane et non celui de Circasse. On peut aussi remarquer, en comparant les résumés de ces deux pièces, que chez Mairet l'exposition [111] se déroule sur le premier acte alors qu'il déborde sur le second chez d'Alibray. Le spectateur apprend dans le premier acte du *Grand et dernier Solyman* la visée ambitieuse de Rustan et sa jalousie envers Mustapha tandis qu'elle est seulement latente chez d'Alibray. De plus la scène dans laquelle Alvante déchire la lettre destinée à Mustapha a lieu dès la scène 5 de l'acte i alors qu'elle ne se produit qu'à l'acte ii, scène 5 chez d'Alibray. L'acte i de Mairet met donc en place tous les éléments de l'intrigue ; à la fois les adjuvants et les opposants à Mustapha mais aussi les opposants à l'amour entre les deux amants. Ce schéma actanciel [112] met davantage de temps à se dessiner chez d'Alibray qui retranscrit Bonarelli. Cette fidélité à l'auteur italien, que nous avons déjà énoncée, est d'ailleurs un des arguments de Mairet pour discréditer son rival [113].
+
+On constate aussi que les deux auteurs ont voulu compléter le dénouement du dramaturge italien qui ne faisait aucunement mention du sort de Rustan après la reconnaissance de Mustapha en tant que fils de Roxelane et une fois le complot qu'il avait mené découvert. De nouveau, les choix de Mairet et de d'Alibray diffèrent. Selon Hélène Baby « le revirement du traître Rustan est motivé chez Mairet par la peur de l'Enfer : blessé dans la scène III, 13 par Bajazet, il agonise et craint les châtiments éternels. Dans la pièce de Dalibray, le revirement du traître n'est lié à aucun événement, et revendique sa propre gratuité. » [114] Marc Villermoz dans son introduction au *Soliman* de Mairet précise aussi que la mort de Rustan, blessé par Bajazet, annonce la violence du personnage, qui à la fin de la pièce va embraser la ville. Or, quand un favori qui se sent menacé se suicide, nous sommes en droit de parler, à la suite d'Anne Ubersfeld, de « tragédie grotesque » [115] . L'avis Au Lecteur du *Soliman* de d'Alibray permet, lui, de nous éclairer sur cette mort volontaire de Rustan. Bien que peu argumentée, elle a aussi pour but de clôturer le dénouement inachevé de Bonarelli et en devient alors un peu moins « gratuite ». Si l'on en croit notre auteur elle ne relève pas uniquement de *l'inventio* mais aussi de la *dispositio* de la pièce :
+
+
+J'ay esté obligé de le faire mourir tant pour ne pas laisser la faute impunie, ce qui me sembloit un grand defaut, qu'afin que le changement de fortune de Mustapha en fust plein et plus admirable ; attendu que son bon-heu dependant de l'affection de son pere, de la possession de Persine, et de la perte de ses ennemis, la felicité estoit accomplie, quand il obtiendroit ces trois points. Car de faire une réconciliation de Rustan avec Mustapha, cela est bon pour les Comedies … ; J'ay donc mieux aymé qu'il se tüast dans la rage ordinaire à ceux de son païs, voyant ses desseins avortez, et qu'il ny avoit plus de jour à son salut. [116]
+
+Notre auteur évoque donc ici deux arguments : la valeur cathartique morale du théâtre liée au plaisir du spectateur.
+
+
+outre le dessein que j'avois faisant une Tragi-Comédie du Soliman, c'est à dire, punissant le coupable et sauvant l'innocent, la perte duquel selon Aristote excite notre indignation contre le Ciel mesme, qui est une chose horrible, outre dis je le dessein que j'avois d'instruire aucunement à la vertu, et de retirer du vice par l'espoir de la recompense et de l'apprehension de la peine, les deux grands Maistres de nostre vie ; J'ay cru encore qu'apres qu'on se seroit senty offensé des malices de Rustan et affligé des miseres de Mustapha, lors qu'on apprendroit la mort de l'un, et qu'on verroit le bon heur de l'autre, on en recevroit une joye d'autant plus pure … que ce second mouvement nous estoit une nouvelle preuve, que nous sommes gens de bien et veritablement amateur de la justice. [117]
+
+Comme Lucrèce qui parlait de la poésie comme d'un miel qui permet l'absorption d'un remède plus amer, d'Alibray choisit de « surprendre l'imagination du spectateur … pour le mieux conduire sans obstacle à la créance que l'on veut qu'il prenne en ce qui lui est représenté » [118]. Mais cela ne peut se faire que par une action mimétique et vraisemblable, comme il l'explique longuement dans son avis Au Lecteur. Le choix du suicide est donc justifié par la violence de caractère supposée des orientaux et est nécessaire au dénouement total de l'intrigue. Nous pouvons considérer que d'Alibray a tout de même opté pour une solution un peu facile en se rattachant *in extremis* à l'un des topos de l'imagerie orientale [119] même si cette mort reste cohérente avec le personnage de Rustan caractérisé par sa fureur et de machiavélisme.
+
+Mairet modifie quelque peu le dénouement de la pièce italienne en se servant, lui aussi, de cette imagerie. Il met l'accent sur la violence et l'ironie (qui deviendra une ironie tragique) du despote oriental en multipliant les faux espoirs envers les deux amants, ce qui est d'ailleurs un des ressorts de la tragi-comédie. Le dénouement de Bonarelli, lui, sacrifiait davantage à « l'esprit horrifique qui traverse la tragédie à la charnière du xvi*e* et du xvii*e* siècle » [120] puisque à la fin de l'acte v, la tête coupée de Despina continue à s'exprimer de manière macabre.
+
+
+# Étude dramaturgique du Soliman de d'Alibray
+
+
+## Une pièce classique et régulière
+
+
+### La structure interne de la pièce
+
+Dans les années 1630, la tragi-comédie, connue pour sa modernité et son irrégularité semble se plier de plus en plus aux normes classiques. C'est ce que nous pouvons déjà constater dans le *Clitandre* de Corneille (1632) puis dans *Le Cid* (1637). Pour Lancaster notre pièce prend en considération les règles classiques et se conforme aux trois unités imposées par Richelieu en 1630 [121]. À première vue déjà, nous remarquons que d'Alibray a transposé la pièce italienne, selon les convenances françaises, en alexandrins, vers noble par excellence et que notre auteur refuse l'hétérométrie.
+
+Force est aussi de constater que le resserrement du temps historique est accompagné d'un respect de l'unité de temps et d'une adéquation avec le vraisemblable. Pour prouver que sa pièce se déroule en une seule journée, d'Alibray ponctue son récit d'adverbes et d'expressions temporelles telles que « aujourd'huy », « la journée », « dés la pointe du jour », « dans une heure », « ce matin », « devant qu'il soit une heure », « tout à l'heure », « en ce jour », « dés ce jour ». Après avoir élagué le texte de Bonarelli de ses longs récits, il fait tout de même perdurer le récit rétrospectif de Persine qui évoque à l'acte i scène 3 et à l'acte ii scène 5 sa rencontre avec Mustapha. Notre auteur rend alors plus vraisemblable les sentiments des amants qui se sont déjà rencontrés à plusieurs reprises [122] dans un hors-scène plus lointain.
+
+La rapidité de l'action découle aussi des ellipses temporelles qui viennent ponctuer la pièce. On peut supposer qu'il y en a une dès l'acte i, scène 4 puisque dans cette scène, Séline semble favoriser les desseins de Rustan. Les deux personnages ont donc pu s'entretenir auparavant afin que Séline amorce la machination prévue par Rustan en rendant les sentiments de la Reine envers son fils plus acerbes. Une autre ellipse temporelle a lieu entre la scène 2 et la scène 3 de l'acte iii. Entre ces deux scènes, Osman a en effet eu le temps d'apporter à Rustan les papiers déchirés par Alvante et le traître a pu imaginer un stratagème qui ne sera révélé qu'à l'acte v [123]. Le changement de lieu à la scène suivante entraîne une autre ellipse qui permet à Soliman d'écrire et de faire envoyer un message à son fils afin d'exiger son retour au palais. Enfin la dernière ellipse s'accompagne d'une entorse à la dramaturgie classique. En effet, pendant le hors-scène entre la dernière scène de l'acte iv et la première scène de l'acte v, les deux amants de se sont réconciliés. Cette ellipse narrative et temporelle est très fortement marquée par l'absence de changement du personnel dramatique entre ces deux actes. Il s'agit pourtant d'une règle dramaturgique importante car selon l'abbé d'Aubignac :
+
+
+si la dernière scène d'un acte était liée avec la première du suivant, ce ne serait pas deux actes, vu qu'il n'y aurait pas de moyen d'en marquer la distinction en un lieu plutôt qu'en l'autre. [124]
+
+D'Alibray imite Bonarelli en reprenant un espace large qui lui permet de respecter l'unité de lieu. [125] Toute la pièce se déroule dans la ville d'Alep [126]. On reconnaît toutefois assez nettement deux espaces qui correspondent à l'intérieur du palais de Soliman et à l'extérieur. Nous pouvons alors supposer que le dramaturge subdivise ces deux grands espaces.
+
+À l'intérieur même du palais nous imaginons facilement une distinction entre les espaces privés et les espaces publics : les scènes qui se déroulent en présence de Soliman peuvent avoir lieu dans une grande salle de conseil et les scènes où se trame le complot, dans des appartements privés. À l'extérieur du palais il y a le camp de Mustapha ainsi que d'autres lieux dans lesquels Persine et Alvante s'entretiennent [127] et où Mustapha retrouve ses alliés [128]. Il ne faut pas oublier la présence de la prison, où est emmenée Persine à la scène 6 de l'acte iv, à proximité du palais. Toutefois, ces changements de lieux ne sont que de simples déductions car notre auteur est avare en didascalies qui pourraient nous permettre d'imaginer plus précisément l'espace scénique. Il préfère faire appel à notre imagination visuelle.
+
+Nous sommes donc amenée à penser que la pièce de d'Alibray nécessite à l'intérieur et à l'extérieur du palais deux à trois compartiments. Si nous nous rapportons aux gravures du *Mémoire* de Mahelot, deux solutions semblent possibles. D'une part le metteur en scène pouvait juxtaposer les compartiments pour réaliser un décor simultané. La Mesnardière propose que :
+
+
+si l'Avanture s'est passée moitié dans le Palais d'un roi en plusieurs appartements, et moitié hors de sa Maison … ; il faut que le grand du Théâtre … serve pour tous les dehors où ces choses ont été faites ; et que les Renfondremens soient divisés en plusieurs Chambres, par les divers Frontispices, Portaux, Colonnes, ou Arcades. [129]
+
+Mais dans les années 1635 le décorateur usait aussi de tapisseries sur lesquelles étaient peintes un décor. Cette dernière solution semble la plus à propos pour notre pièce puisque les changements d'espace sont réguliers et les lieux contigus. Le décor fait alors partie de la surprise et suggère une esthétique d'un monde en mouvement.
+
+La pièce évoque aussi des hors-scènes tels que la Perse, avec qui Soliman est en guerre, ainsi que la région d'Amasie d'où revient Mustapha dans la scène d'ouverture [130]. Persine dans son récit rétrospectif de l'acte ii scène 5 fait également mention de son propre campement [131].
+
+Pour ce qui concerne l'unité d'action, d'Alibray s'attache à suivre l'unité de péril. Il s'agit alors d'un autre argument pour justifier la diminution du nombre d'acteurs. Plus l'action est centrée autour de quelques personnages, plus le spectateur est attentif à ce qui se joue devant lui. Le complot de Rustan et de la Reine est l'action principale de la pièce. Elle s'appuie sur une dimension politique, puisque les deux protagonistes mettent en place de nombreux stratagèmes pour faire imaginer un péril d'État à Soliman :
+
+
+        Je crains qu'un scelerat
+
+N'ai tramé dessous vous quelque noir attentat,
+
+Et par vostre trespas n'occupe cét Empire,
+
+Où son ambition depuis long-temps aspire (Acte ii scène 5 vers 407-410)
+
+L'action principale est assortie d'une action secondaire qui vient l'étoffer : bien entendu, il s'agit des sentiments éprouvés par Mustapha et Persine. Cette intrigue amoureuse vient simplement nourrir l'action principale et est considérée comme un épisode au sens aristotélicien par notre auteur. [132]
+
+La pièce de d'Alibray est donc totalement cohérente dans sa structure interne et répond aux exigences énoncées par Chapelain dans son *Discours de la Poésie représentative* [133] :
+
+
+Dans le premier Acte, les fondements de l'histoire se jettent. Dans le second, les difficultés commencent à naître. Dans le troisième, le trouble se renforce. Dans le quatrième, les choses sont désespérées. Dans le cinquième, le désespoir continuant, le nœud se démêle par des voies inespérées et produit la merveille.
+
+Pour Lancaster, sa seule erreur est de ne pas avoir mis le spectateur ou le lecteur dans la confidence de l'échange d'enfants entre Circasse et Roxelane [134]. Cependant, d'Alibray s'en défend une fois encore dans son avis Au Lecteur et prétend que la *dispositio* est parfaite en ce point :
+
+
+j'ay changé la reconnoissance de Mustapha doublement, et en sa cause et en son effect : car au lieu que Bonarelli la faisoit venir de certaines femmes qui suivoient incessamment Mustapha sans qu'il sçeut pourquoy, j'ay creu qu'il estoit plus seant qu'Ormene que je feignois son pere Nourrissier, et qui par cette consideration pouvoit ne l'abandonner jamais, se trouva tout à propos pour donner jour à cette reconnoissance. Ce qui m'a paru d'autant mieux que par ce moyen on n'avoit point recours au dehors, mais à un personnage qui faisoit partie du sujet. [135]
+
+Le dénouement de la pièce est inattendu puisqu'il est le résultat d'une péripétie (aussi appelé coup de théâtre) qui provoque la surprise du spectateur et « produit la merveille » [136] D'Alibray transforme donc *Le Soliman* de Bonarelli en une « tragédie » complexe à reconnaissance et c'est ce qui constitue selon Heinsius « la seule Fable qui soit absolument parfaite » [137]. Nous constatons cependant que notre auteur s'éloigne d'Aristote en procédant à une reconnaissance par signe [138]. En effet la Reine reconnaît Mustapha comme son fils uniquement quand Ormène lui assure avoir vu sur son corps une cicatrice en « forme de Croissant » à la scène 3 de l'acte v (vers 1414-1417). Toutefois, ce signe n'est pas montré sur le théâtre ce qui contribue à redonner un peu de dignité à la scène puisqu'Aristote préfère les reconnaissances qui « naissent d'une péripétie » aux « reconnaissances obtenues à titre de preuve » [139] qui apportent à la pièce une dimension encore plus spectaculaire.
+
+
+### La figure du héros
+
+Nous pouvons nous demander quel personnage incarne au mieux dans cette pièce la figure du héros. Selon Jacques Scherer « Le héros classique est jeune ; …. D'autres prestiges s'ajoutent à ceux- là : … le héros de théâtre doit briller par son courage et sa noblesse » [140]. Si Mustapha comme son père semblent posséder ces deux dernières qualités, le fils du sultan est favorisé par la vigueur de l'âge  :
+
+
+Mille rayons de feu lui servoient d'ornement,
+
+Et son oeillade estoit de tant d'attraicts pourveuë,
+
+Que tout aus mesme instant il m'esbloüit la veuë, (vers 516-518)
+
+tandis que son père est invité à « aimer le repos que son âge desire » [141].
+
+Si le héros tragique doit être malheureux, lequel de ces deux personnages doit on considérer comme le plus à même de susciter la pitié ? Soliman, qui, manipulé, craint pour son pays et n'assume que difficilement son rôle de souverain et de père en même temps ? Ou Mustapha qui renonce, du moins pour un moment, à son amour pour la fille du roi de Perse au nom de son devoir et dont les qualités « deviennent dans la bouche de Rustan un motif de culpabilité et un sujet de crainte » [142] ?
+
+Tandis qu'Acmat formule le conflit interne du sultan :
+
+Faut-il qu'un Roy si sage, et si plein de clemence,  
+Condamne à mort son Fils sans oüyr sa deffence !  
+Son Fils, dis-je, ô doux nom ! qui marque le lien  
+Que la Nature a mis de vostre sang au sien.  
+Les escadrons des Roys, et lerus puissans asyles,  
+Sont au prix des enfans des forces trop debiles. (vers 1047-1052)  
+
+Mustapha illustre avec brio le courage et la noblesse de cœur associés à la noblesse de sang et se soumet à l'autorité royale de son père. Il ne peut rejeter la mission qui lui a été confiée sous peine de perdre l'estime de son pays et par conséquent celle de sa bien-aimée de qui il ne serait plus l'égal. Octave Nadal pense que pour un héros « l'amour est subordonné à la gloire, disons aux intérêts qui s'attachent au pouvoir. Les femmes autant que les hommes sont bien décidés à ne pas perdre la tête, à ne pas s'embarrasser d'un amour coûteux à leur ambition mais à s'en inspirer, ce qui les aident à y parvenir » [143].
+
+Soliman est le personnage qui occupe le plus l'espace scénique tandis que Mustapha est davantage un personnage absent dont on parle. Si l'abbé d'Aubignac considère que « les principaux personnages doivent apparaître le plus souvent et demeurer le plus longtemps qu'il est possible sur le théâtre » [144], Jacques Scherer rappelle qu'en ce qui concerne le héros on trouve deux situations : « la première consiste à le montrer tout le temps, ou du moins le plus souvent possible, à prodiguer sa présence, la seconde, plus subtile, consiste à ménager les apparitions du héros, à ne le faire paraître que rarement, en utilisant le reste du temps à parler de lui ou de ses desseins, pour mieux préparer les scènes où il figure » [145]. Même si le titre de la pièce suggère que Soliman est le héros, nous pouvons facilement considérer que cette pièce en comporte deux, dans le sens où le fils assume les qualités royales que le Père ne peut avoir et inversement. Les deux personnages illustrent chacun des conflits intérieurs et des passions différentes, qui sont par ailleurs les vrais obstacles de la pièce [146].
+
+
+## La question du genre
+
+Le respect des trois unités de la dramaturgie classique nous invite à nous interroger sur le genre même de notre pièce. La tragi-comédie est un genre théâtral qui pose certains problèmes de définition. Nous pouvons donc la considérer comme un genre souple et irrégulier. Certains considèrent qu'il faut y mêler les plus beaux éléments de la tragédie et de la comédie, pour Ogier, la tragi-comédie met en scènes « tantôt des affaires sérieuses, importantes et tragiques et incontinent après des choses communes, vaines et comiques » mais pour d'autres critiques ou dramaturges, tel que notre auteur, la tragi-comédie n'est rien d'autre qu'une tragédie à fin heureuse. Nous allons donc essayer de voir dans quelles mesures notre pièce doit se rattacher à l'une ou l'autre de ces définitions.
+
+
+### Les différentes formes de tragique dans la tragi-comédie
+
+Si d'Alibray parle de sa pièce comme une tragédie à fin heureuse c'est qu'il a bien conscience d'utiliser une trame dramaturgique à tonalité tragique.
+
+D'une part, comme on vient de le voir, notre pièce respecte, sur le modèle de la tragédie, l'ensemble des règles classiques ce qui constitue une forme de tragique dramaturgique. De plus, dans une approche plus stylistique, nous constatons que d'Alibray vise avant tout la simplicité et l'effet avec des vers proches de la prose qui sont le plus à même d'« imprimer dans nos coeurs une si forte aversion des faits que nous voyons représentés, qu'elle est capable d'estouffer tout ce que nous pourrions jamais concevoir de semblable » [147].
+
+
+Quand je t'invite à la lecture du Soliman, ce n'est pas à un Jardin mais à une Scene Tragique que je t'invite. Tu n'y trouveras point, pour ainsi parler, ces riches canaux de cristal et de marbre qui ravalent le prix et l'éclat des eaux qu'ils reçoivent, mais bien des pensées qui coulent d'une veine naturelle ….
+
+Cependant notre auteur ne rejette pas totalement l'ornement poétique qui permet de créer le sublime et au travers de ses imprécations, Persine, qui croit que Mustapha l'a reniée, devient une véritable amante tragique : « O trois et quatre fois Persine infortunée ! » (vers 649) ; « O Ciel ! injuste Ciel ! que fais-tu de ta foudre ! / Laisses-tu les meschants sans les reduire en poudre ! » (vers 697-698), « Sus donc cœur imprudent, sus donc ame coupable » (vers 725).
+
+De surcroît, *Le Soliman*, emprunte à la tragédie une isotopie qui mentionne l'inéluctabilité du sort : « fatal », « sort », « destin », « fortune », « tragique », « à la mercy du Sort », « presage », et la noblesse de cœur et d'esprit «  sublime », « grand », « courage », « coeur », « téméraire », « puissant », « constance », « merite » ; mais aussi des vers qui font office de maximes, de sentences tels que :
+
+Car quoy que le Roy feigne, on tient cette maxime,  
+Qu'un vieux Roy, de son fils, hait la trop grande estime. (vers 81-82)  
+Pour vivre et pour régner, tout se fait, tout s'excuse. (vers 238)  
+Mais l'homme sage doit toute chose tenter,  
+Pour connsoistre son mal, afin de l'éviter :  
+Qui craint que dedans peu son nauffrage n'arrive,  
+A recours promptement à la prochaine rive. (vers 383-386)  
+
+*Le Soliman* de d'Alibray, met en scène un sujet historique qui se déroule sous le règne de Soliman II [148]. La pièce est donc uniquement composée de personnages de haut rang. Cette homogénéisation du personnel dramatique autour des personnages de pouvoir est un des ressorts de la tragédie qui favorise la mise en place d'une intrigue politique et tragique. *Le Soliman* introduit de différentes manières un péril d'état. D'une part à travers la guerre contres les Perses (même si la victoire du peuple turc semble se dessiner dés les premiers vers [149]), mais aussi dans le complot de Rustan. Le gendre de Soliman souhaite prendre la place de Mustapha et accéder au pouvoir, c'est un fin calculateur qui évalue les retombées de ses actions et sait trouver les bons arguments pour manipuler le sultan [150]. Il s'appuie sur le fait que « l'on tient cette maxime, / Qu'un vieux Roy, de son fils, hait la trop grande estime » (vers 78-79). On peut alors sans nul doute le qualifier de machiavélique.
+
+La question du pouvoir est donc plus qu'évoquée dans notre texte et est surtout représentée par la figure du sultan, qui ouvre et clôture la pièce. Le combat entre les Perses et les Turcs permet de créer une forme de tragique de la violence issue du péril de mort mais c'est aussi un prétexte à mentionner les valeurs guerrières, bien connues de Soliman le Magnifique mais aussi de son fils, Mustapha :
+
+Mais, Sire nous devons quant et quant avoüer,  
+Que louer Mustapha c'est aussi vous loüer :(vers 55-56).  
+
+Nous ne pouvons absolument pas nier que l'intrigue du *Soliman* se noue dans une même famille, dans une atmosphère de jalousie, d'envie et de vengeance. Or, c'est, selon Aristote, quand « les événements se passent entre personnes amies ; que, par exemple, un frère donne ou soit sur le point de donner la mort à son frère, une mère à son fils, un fils à sa mère, ou qu'ils accomplissent quelque action analogue » [151] qu'ils sont le plus à même d'exciter les passions. D'ailleurs, Corneille dans son *Discours de la Tragédie* en 1660 dira que « C'est un grand avantage pour exciter la commisération que la proximité de sang et les liaisons d'amour et d'amitié entre le persécuteur et le persécuté » et que cela constitue « un sujet merveilleux pour la tragédie » [152]. De surcroît le péril de mort du héros que nous avons évoqué précédemment est doublé par l'évocation d'un matricide et d'un parricide. En effet Rustan qui convoite le pouvoir fait croire à Soliman que Mustapha risque de le détrôner afin que le sultan condamne son fils à mort ; et Roxelane pensant que le Prince est le fils de Circasse participe elle aussi au complot menée par son gendre.
+
+Toutefois, dans notre pièce cette forme du tragique est aussi mis à distance puisqu'aucune scène de combat n'est représentée sur le théâtre et qu'aucun personnage n'est tué. En effet, la mort de Rustan ne peut pas rentrer dans cette catégorie puisque comme on l'a déjà vu elle est sujette à caution [153]. Le pôle terrifiant des tragédies du début du xvii*e* siècle tend donc à s'atténuer dans la tragi-comédie. D'ailleurs, cette mise à distance du côté horrifique a un impact dans les tragédies de la seconde moitié du siècle et Racine reconnaît en 1671 dans la préface de *Bérénice* que « ce n'est point une nécessité qu'il y ait du sang et des morts dans une Tragédie » [154].
+
+Les personnages qui évoluent autour de la famille royale ont aussi leur place dans une pièce à caractère tragique. Adraste a le rôle de confident, Alvante et Ormène ceux de protecteurs. Rustan, quand à lui, incarne comme on l'a vu, la figure de l'opposant voire de l'anti-héros qui, par son machiavélisme, s'inscrit tout à fait dans le registre tragique. Guidé par son *hybris* il incarne le thème politico-moral du personnage victime de son désir de vengeance et de son avidité du pouvoir :
+
+… un nouveau venu prendre  
+Le premier rang d'honneur où je devois pretendre ? …  
+Pourquoy donc s'usurper, et prendre insolemment  
+Un pouvoir qui n'est deu qu'à Rustan seulement ?  
+Mais non, n'en parlons plus, j'en auray la veangeance :(vers 285-293)  
+
+Il participe à la mise en place du tragique puisque son complot contre le Prince « vise à l'assouvissement des passions … au mépris de toute conduite morale. » [155] et qu'il s'en prend aussi à un couple d'amants justes et totalement innocents.
+
+Nous constatons aussi que les personnages principaux de notre pièce sont en proie à des événements qui les dépassent ce qui provoquent chez eux des sentiments passionnels qui définissent leur *ethos*. En effet, selon Aristote [156], le caractère d'un homme se définit
+
+
+par des traits fixes qui relèvent de son sexe, de sa condition sociale, de son âge, … mais il est aussi constitué par ce qui relève du pathos, c'est à dire par ces mouvement temporaires qui sont les passions, certaines passions étant plus propres à l'homme qu'à la femme, au jeune homme qu'au vieillard, au roi qu'à l'esclave, au bon qu'au méchant, etc. [157]
+
+Dès lors, il semble cohérent que *Soliman*, tyran turc, soit emporté par sa passion du pouvoir aussi appelée *libido dominandi* lorsque Rustan et la Reine lui apprennent que Mustapha se serait allié avec l'ennemi afin de pouvoir le renverser, mais que ses sentiments de père le pousse à vouloir faire preuve de tempérance et de jugement. C'est d'ailleurs à cette seconde attitude que l'incite le juste Alvante [158]. De la même manière, Persine aveuglée par sentiments souhaite se venger. Mustapha, à l'inverse, incarne le courage et l'innocence jusqu'au bout puisqu'il ne semble jamais dépassé par ses passions. Ne craignant ni la mort ni le supplice, il avance à vers l'échafaud avec courage et dignité :
+
+Avançons donc, Persine et courons avec joye,  
+Où par arrest du Ciel un Pere nous envoye . (vers 1349-1350)  
+
+Notre pièce a donc pour but d'émouvoir mais aussi d'instruire le spectateur qui doit se « purger » des passions qu'ils voient représentées sur scène. Cette dramaturgie des passions, souvent rattachée à la tragédie, incite le spectateur à la vertu et nous rappelle que d'Alibray souhaitait laisser une grande place à la morale dans son *Soliman*
+
+Enfin, l'ombre qui plane sur le dénouement heureux de notre pièce participe aussi à créer une forme de tragique. En effet, même si le mariage entre Persine et Mustapha signe la paix entre les Perses et les Turcs, l'union n'est pas célébrée sur scène et un doute sur sa réalisation persiste : le dénouement reste ouvert. La Princesse qui occupe pourtant dans la pièce une grande partie de l'espace textuelle [159], ne prononce que quatre vers à la dernière scène de la pièce, tandis que tous les autres personnages s'exclament [160]. Il est alors difficile de savoir si elle accepte réellement cette union. D'ailleurs, Mustapha interroge la jeune femme :
+
+Mais quelle triste nüe obscurcit ton visage ?  
+Persine, fuyrois-tu cét heureux mariage ?  
+Ou si tu ressentant de ton premier courroux,  
+Tu m'estimes coupable, et me hays pour espoux ? (vers 1669-1672)  
+
+La réponse de Persine se fait courte et peu précise :
+
+Plutost ton innocence est tout ce qui me trouble :  
+Par elle, mon erreur s'augmente et se redouble ;  
+Si bien que je me juge indige de l'honneur  
+Que me fais maintenant nostre commun Seigneur (vers1673-1676)  
+
+Elle semble avoir des remords de ne pas avoir cru son amant fidèle. Puisque sa noblesse de cœur ne lui paraît donc plus digne du rang de Mustapha, doit-on comprendre qu'elle refuse finalement ce mariage ? Quoiqu'il en soit ce dénouement n'est pas totalement heureux mais il ne peut pas non plus être caractérisé de funeste. Dès lors, il se situe à la frontière entre les genres de tragédie et de la tragi-comédie.
+
+Toutefois, même si la constitution du *Soliman* de d'Alibray apparaît comme régulière et que notre auteur a su laisser dans sa pièce une large place aux différentes formes de tragiques, il a souvent recours aux procédés tragi-comiques afin de divertir ses spectateurs et plaire à son public.
+
+
+### Les ressorts de la tragi-comédie
+
+D'Alibray reprend à son compte un certain nombre de topos tragi-comiques de manière plus ou moins visibles dans sa pièce.
+
+D'une part, comme on l'a déjà vu, le dynamisme participe à la création du spectaculaire.
+
+Ce jeu est renforcé par la présence d'objets qui passent dans les mains des personnages et permettent la création de l'intrigue. On notera bien évidemment le rôle de la lettre de Persine accompagnée du cachet du roi persan, déchirés par Alvante à la fin de l'acte ii et soigneusement récupérés par Osman. Ces papiers sont l'instrument premier de la machination de Rustan.
+
+L'épée est aussi très présente. Elle est le symbole de la valeur guerrière de Mustapha à l'acte ii scène 5 mais aussi celui de son innocence et de son courage. C'est en effet en rentrant désarmé au palais de son père à l'acte iv scène 6 que Mustapha veut prouver à Soliman qu'il n'a rien tramé contre lui :
+
+Mais afin que mon Pere avec plus d'asseurance  
+Sur ce flanc desarmé lise mon innoncence,  
+Emporte cette espée, et vas pres de la Tour,  
+Ou si tu veux, au camp, attendre mon retour. (vers 1219-1222)  
+
+De plus, cet objet est souvent associé à une métaphore phallique qui renvoie aux valeurs que nous avons déjà énoncées. Toutefois, lorsque Mustapha lâche son épée devant Persine à l'acte ii, scène 5, on peut éventuellement y lire la soumission de l'homme au regard de la femme aimée :
+
+O Dieu ! que puis-je plus ! j'apperçoy mon vainqueur !  
+Oüy, Madame, je rends et l'espée et le coeur,  
+Tous deux ils sont à vous ;… (vers 542-544)  
+
+D'ailleurs, l'arrivée de Mustapha au palais de Soliman à l'acte iv est différée par l'intervention de Persine. C'est donc sans arme que Mustapha va subir la colère de son amante :
+
+Que les armes par toy sont justement quittées,  
+Puis qu'elles en estoient indignement portees !  
+Qu'à bon droit tu deffends qu'on ne te suive pas,  
+Ferois-tu bien le Prince ayant le coeur si bas ? (vers 1223-1226)  
+
+Finalement Mustapha quitte à chacune de ses rencontres avec la fille du roi de Perse son habit de valeureux guerrier pour celui de l'homme galant et de l'amant. D'ailleurs, Persine elle aussi, n'est pas vêtue de son déguisement de soldat lorsqu'elle s'adresse à Mustapha. Effectivement, lors de leur première rencontre, Persine « leve son armet et hausse sa visière » [161] et, la seconde fois, la figure féminine de Persine et son identité ont d'ores et déjà été découvertes par Soliman à l'acte iv scène 1.
+
+Le travestissement de la jeune femme, topos tragi-comique par excellence, est ici justifié par l'audace et la vaillance de Persine à qui l'auteur prête des qualités guerrières et militaires habituellement réservées aux hommes :
+
+Faisant une action si fort deraisonnable,  
+Je perds de mon dessein l'effet le plus loüable,  
+Et rends ma hardiesse et ce deguisement,  
+Au lieu d'estre loüez, dignes de chastiment (vers 93-96)  
+
+D'Alibray semble croire à la capacité d'action de son personnage féminin qui peut, par certains côtés, prendre la place du héros. Cependant Persine, comme beaucoup de personnages féminins au théâtre, est guidée par la passion et par ses sentiments. Elle ressemble à ces « héros de roman engagés dans des aventures qui avaient pour fin la conquête amoureuse » [162] :
+
+Apprends, que le subjet qui me tira d'Arsace,  
+Ne fut pas d'espier les desseins de la Thrace :  
+Mais qu'un beaucoup plus noble et plus fort mouvement  
+M'a fait venir icy sous cet habillement ;  
+Un mouvement d'amour, que tu croiois de la hayne. (vers 125-129)  
+
+C'est d'ailleurs pleine de désespoir et avec la volonté de mourir qu'elle se rend au palais de Soliman. C'est donc finalement la faiblesse du héros qui ne vit que dans sa relation amoureuse qui est mise en avant.
+
+Le travestissement de Persine est aussi l'occasion pour d'Alibray de jouer avec les topos tragi-comiques en prouvant la faculté du genre à s'auto-représenter.
+
+Lorsque Persine est amenée en tant que prisonnière devant Soliman, ce dernier ne voit en elle qu'« un jeune homme ».On voit donc s'opposer les personnages de la Cour de Soliman, qui interpellent Persine par le pronom personnel masculin « il », et Alvante qui reconnaît bien entendu la jeune femme qu'il a élevée. Elle est finalement reconnue par l'attribut féminin premier, à savoir les cheveux :
+
+                Ces cheveux  
+Qu'elle serre au dedans entortillez par noeuds : (vers 1156-1157)  
+
+La Mesnardière qui, dans sa *Poétique* de 1639, défend la suprématie de la tragédie jugera qu'il ne faut pas « approuver ces duretés d'imagination qui font que l'un des personnages n'en reconnait pas un autre … à cause qu'il est travesti … ».
+
+Cette scène 3 de l'acte iv, qui constitue une scène de jugement fortement attendue par le public est donc ici assez absurde et totalement ancrée dans le genre tragi-comique. Elle tranche complétement avec la scène des conseillers à l'acte iv scène 1 dans laquelle Acmat et Rustan avancent des arguments pour prouver l'innocence ou la culpabilité de Mustapha ; chacun de ces arguments est alors désamorcé par le personnage rival.
+
+De plus, cette scène de reconnaissance se joue à partir de faux arguments. Au départ, Persine est soupçonnée, plus ou moins justement, d'être un espion perse. Or, le lecteur sait bien que la jeune femme s'est livrée en espérant mourir devant les yeux de son amant. Une fois son identité découverte elle ne veut pas énoncer les vrais raisons de sa présence et c'est Alvante qui malgré les recommandations de la jeune fille [163] révèle au grand jour les sentiments de Mustapha et de Persine :
+
+Seigneur, le vray subject, et qu'elle a voulu taire ;  
+Est tel qu'il esteindra toute vostre colere ;  
+C'est l'amour qu'elle porte au Prince vostre ainé,  
+Soubs la foy de l'hymen entr'eux deux destiné.  
+
+Soliman qui craint la trahison de son fils croit alors que Mustapha s'est allié avec les Perses (d'ailleurs le thème de l'amante ennemie est aussi un topos exploité régulièrement dans les tragi-comédies). Appuyé par Rustan, il condamne injustement Persine en croyant son raisonnement fondé :
+
+Voilà cet innocent qu'Acmat vouloit deffendre !  
+Le crime est averé, Sire, n'en doutons point,  
+Voilà comment ce fils avec le Perse est joint,  
+Voilà sa trahison. (vers 1172-1175)  
+
+Cette scène ne fonctionne donc que sur les jeux d'illusions qui est un ressort récurrent de la pièce. En réalité, toute l'intrigue est basée sur de faux obstacles puisque Mustapha n'est pas le fils de Circasse mais bien celui de la Reine et n'a aucune intention de renverser son père. Du point de vue amoureux l'épisode raconté par Alvante à l'acte ii scène 5 est entièrement faux : le père nourricier de Persine n'a jamais rencontré Mustapha et ce dernier n'a donc jamais voulu renier celle qu'il aime.
+
+La scène 2 de l'acte iv où apparaît le devin est construite sur un quiproquo qui emprunte sa tonalité à la comédie. Les paroles du devin créent une rupture de ton qui vient annihiler la tension dramatique puisque Soliman aveuglé par Rustan ne perçoit que la culpabilité de Mustapha au travers des sentences du prêtre, or le spectateur, lui comprend aisément que c'est le conseiller du sultan qu'elles désignent [164].
+
+Enfin, le dénouement du *Soliman* de d'Alibray est la partie de la pièce qui, selon les critiques, est la moins vraisemblable et la moins conforme aux règles classiques. Comme on l'a déjà vu, notre auteur s'en défend en démontrant que la merveille survient par un personnage interne à l'histoire. Toutefois, il est vrai que la catastrophe semble peu préparée et assez inattendue. Nous pouvons nous étonner que le personnage d'Ormène, qui comme le dit très justement notre auteur, en tant que père nourricier de Mustapha, « ne pouvoit ne l'abandonner jamais », ne soit pas intervenu plus tôt alors que le danger se rapprochait du fils du sultan. Cette catastrophe provoque inexorablement le retournement total de la Reine, qui est alors prête à tout pour sauver son propre fils [165], mais indirectement aussi celui de Rustan qui fait le choix de se suicider. Cette reconnaissance permet une nouvelle fois à la tragi-comédie de s'auto-représenter puisque comme le genre l'indique, le lecteur s'attend à un dénouement heureux. Or, d'Alibray joue avec l'attente de son lecteur en créant une fausse tension dramatique et un jeu à partir de la fausse mort du héros en différant le retour des amants, envoyés à l'échafaud. Il faut en effet attendre la fin de la scène 4 de l'acte v pour savoir que la Reine a déjà demandé que l'on retarde l'exécution de Mustapha :
+
+Seigneur, j'avois désja de moy-mesme mandé,  
+Que son supplice fuste quelque temps retardé ;  
+Craignant qu'on ne courust trop tard à sa deffence,  
+Quand vostre Majesté sçauroit son innocence (vers 1487-1490)  
+
+Ce n'est qu'à la fin de la scène 6, lors de laquelle Soliman s'est longuement inquiété du sort de son fils [166], qu'Acmat aperçoit enfin Mustapha :
+
+*S*eigneur, voicy la Reyne, et son Fils qu'elle embrasse (vers 1525)  
+
+Mais le dénouement tragi-comique n'est pas encore achevé puisque le mariage n'est annoncé qu'à la scène 9. L'ambassadeur de Perse intervient alors, inquiet du sort qui a pu être réservé à Persine, il vient demander la paix au nom de son Roi. Là encore. Le lecteur est alors en droit de se demander de quelle manière Tamas, personnage hors-scène, a pu être mis au courant de l'emprisonnement de sa fille [167], mais aussi des sentiments qu'elle nourrit pour Mustapha. Lancaster parle d'ailleurs de l'intervention de l'ambassadeur comme un *deus ex machina*, ce qui prouve bien que cette scène est à la limite de la vraisemblance :
+
+Au nom du Roy Tamas, mais au nom de vous mesme,  
+D'embraser le repos, et pour vous, et pour luy,  
+Que la faveur du Ciel vous presente aujourd'huy :  
+Vous sçaurez trop, Seigneur, de quelles belles flames  
+Se sentent consommer ces genereuses ames,  
+Donnez à leur ardeur seulement vos aveux  
+Et nos feux aussi-tost s'esteindront par ce feu : (vers1638-1644)  
+
+Si le dénouement matrimonial était attendu, nous notons avec quelle simplicité la paix entre les deux pays, qui s'entretuent depuis des années [168], est signée. Sans négociation aucune, Soliman accepte la proposition de l'ambassadeur et dénoue l'intrigue politique.
+
+La clémence est une vertu royale et en ce sens Soliman accomplit dans cette dernière scène une action noble et extraordinaire. Mais nous ne pouvons pas réellement parler dans le cas présent de vraisemblance extraordinaire puisque cette figure de pouvoir, incarné par le sultan, n'a cessé de changer d'opinion et d'avis durant la pièce, hésitant entre ses sentiments paternels et son statut de souverain. Si selon d'Alibray « ça esté un grand coup de maistre à Bonarelli … de faire naistre dans l'ame de Soliman des horreurs subites et inconnuës », l'instabilité du personnage et sa faculté à être manipulé, fait de lui un personnage de tragi-comédie et dénote d'une précarité dans la gestion du pouvoir.
+
+*Le Soliman* de d'Alibray semble posséder un grand nombre de points communs avec la tragédie : personnel dramatique de haut rang, péril de mort et d'État, intrigue politique et recherche d'un ton porté par l'alexandrin, mais il joue aussi sur les ressorts tragi-comiques. D'Alibray a voulu à travers sa dernière œuvre théâtrale allier à la fois « la jouissance propre à la tragédie qu'avait analysée Aristote dans sa *Poétique* – provoquer du plaisir en faisant naître des émotions violentes » (en témoignent les nombreuses références de notre auteur à Aristote dans son adresse Au Lecteur) mais aussi engendrer une « méditation morale … sur les inconstances de la fortune, la fragilité des choses humaines, la justice et les funestes conséquences des passions. » [169] D'ailleurs en parlant de son dénouement dans son avis Au Lecteur, d'Alibray considère qu'on devrait « en recevoir une joye d'autant plus pure … qu'il nous donne une nouvelle preuve, que nous sommes gens de bien et veritablement amateur de justice ».
+
+La proximité des deux genres permet de considérer la tragi-comédie comme un genre sérieux et explique pourquoi notre pièce peut selon le point de vue adopté être classée dans l'un ou l'autre genre. Comme le souligne Georges Forestier [170], « durant le xvii*e* siècle, 230 tragi-comédies ont été publiées. On n'en connait plus qu'une, *Le Cid*, dont Corneille a modifié plus tard l'appellation. Il prenait ainsi acte de la désaffection pour ce genre hybride » et annonce la suprématie de la tragédie dans les années 1640.
+
+C'est probablement parce qu'en 1648 les critiques finissent par accepter la possibilité d'une tragédie à fin heureuse [171], que la tragi-comédie a par la suite été presque abandonnée. Toutefois, nous pouvons la considérer comme la première marche vers la liberté théâtrale.
+
+Ce genre hybride n'oppose pas de manière frontale le grotesque et le sublime mais joue avec le mélange des tonalités. Sa structure a peut-être en partie influencé le mélodrame et le drame romantique du xix*e* siècle. Selon Hugo dans la préface de *Cromwell*, ce genre cherche lui aussi à réconcilier les différents publics que sont la foule, les femmes et les penseurs en mettant en scène à la fois des passions, des caractères et des actions. Or, nous retrouvons déjà dans notre pièce « le plaisir des yeux » au travers du spectaculaire découlant de la rapidité d'actions et des jeux de scène ; « le plaisir du cœur » grâce à l'intrigue galante et « le plaisir de l'esprit » puisque la pièce joue avec les caractères : avec son habit de roi et de père, Soliman doit faire face à des sentiments contradictoires, les amants sont ennemis politiquement et le retournement de Roxelane est lui aussi intéressant.
+
+Notre pièce possède une dimension historique de par son sujet (le complot de Rustan et de Roxelane contre Mustapha) et d'Alibray tire de son intrigue une valeur morale (la violence des passions, le respect du pouvoir…). Il prouve ses qualités littéraires dans la traduction de la pièce de Bonarelli mais aussi dans l'invention de certains passages (la reconnaissance, la mort de Rustan…) et, dans l'ensemble, par un respect de la vraisemblance. Sa pièce dépeint des sentiments (la vengeance, la haine, la jalousie, l'amour, les sentiments familiaux…) et acquiert une dimension humaine.
+
+D'ailleurs, les critiques envers la tragi-comédie et le drame romantique sont similaires. On leur reproche souvent la confusion des styles et le mauvais goût. Pourtant ces deux genres dénotent le plus souvent une valeur morale, punissant le coupable et sauvant l'innocent. Ils mettent en scène des rebondissements inattendus, porteurs d'intensité émotionnelle. La tragi-comédie et le drame ne cherchent pas à représenter sur scène une humanité idéale mais plutôt à « apporter aux hommes de leur temps un message philosophique et social en accord avec les préoccupations contemporaines » [172].
+
+Enfin, force est de constater que la définition du drame romantique selon Victor Hugo [173] est très proche de l'une des définitions de la tragi-comédie [174] :
+
+
+On le voit ; le drame tient de la tragédie par la peinture des passions, et de la comédie par la peinture des caractères. Le drame est la troisième grande forme de l'art, comprenant, enserrant et fécondant les deux premières. … De cette façon les deux électricités opposées de la comédie et de la tragédie se rencontrent et l'étincelle qui en jaillit, c'est le drame.
+
+
+# Note sur la présente édition
+
+Le texte a été établi à partir de la première édition du *Solyman* de Charles Vion d'Alibray, achevé d'imprimer en 1637 chez Toussainct Quinet à Paris et plus spécifiquement à partir de l'exemplaire de la salle de réserve de la Bibliothèque de la Sorbonne : RRA8 = 422
+
+
+## Description
+
+I LE/SOLIMAN/TRAGI-COMEDIE / vignette : armoiries de France / À PARIS, / Chez TOUSSAINCT QUINET, Au Palais, dans la/ petite salle, sous la montee de la Cour des Aydes./ M.DC.XXXVII/ AVEC LE PRIVILEGE DU ROY.
+
+III -XXVIII : Au Lecteur
+
+XXIX : Privilège du Roy
+
+XXX : Les acteurs
+
+pages 1 à 112 : Texte de la pièce, précédé à partir de la page 2, à chaque double page du titre suivant « Le Soliman, Tragi-Comédie. ». La première partie du titre se trouve sur les pages paires et la seconde sur les pages impaires.
+
+
+## Autres exemplaires consultés
+ * – **4Ê10918-1/1** (Bibliothèque Mazarine) : Le texte du *Soliman* est inclus dans un recueil collectif factice ayant appartenu à Nicolas Joseph Foucault. Cette indication est donnée par les armoiries présentes à la première page du recueil, mentionnant « Ex Bibliotheca Nicolai Joseph Foucault comitis consistoriani ». Nicolas Joseph Foucault (1643-1715) laissa des mémoires qui éclairent sur le rôle de l'intendant, statut qu'il avait acquis sous le règne de Louis xiv. L'ouvrage semble, d'après l'*ex libris*, « A mon ami le duc de Penthièvre », avoir été offert ou dédié à Louis-Jean-Marie de Bourbon (1725-1793) ou à son père Louis Alexandre de Bourbon (1678-1737), fils de Louis XIV et de Madame de Montespan. Même si les dates peuvent laisser croire qu'il aurait d'avantage appartenu à Louis-Alexandre, les conservateurs de la bibliothèque reconnaissent sur la reliure du recueil les armes de Louis-Jean-Marie de Bourbon.
+
+Le texte possède un *ex libris* indiquant « par Bonarelli traduite et imitée par D'Alibray ». L'avis « Au Lecteur » et la liste des personnages sont postposés au texte.
+
+L'exemplaire présente deux erreurs de pagination : entre les pages 16 et 18 le numéro de page indiqué est 71 ; après la page 88, on trouve une page 87 suivie d'une page 88. La coquille du vers 1358 [175] a été corrigée sous presse.
+
+Le recueil contient d'autres pièces de Gillet éditées elles aussi chez Toussaint Quinet : *Le Desniaisé* (comédie, 1638), *Sigismond duc de Varsav* (tragi-comédie à la Reyne, 1646), *Le triomphe des cinq passions* (tragi-comédie, 1642), *L'art de regner ou le sage gouverneur* ( tragi-comédie, 1636).
+
+Gillet de la Tessonnerie est selon Mouhy (1752), « Conseiller des Monnoyes, né en 1620. Il est l'Auteur de dix Piéces. Il n'avoit que 20 ans lorsqu'il publia les deux premieres, la belle Quixaire, Tragédie & l'Olicrete, Tragi-Comédie. Il étoit encore vivant en 1640. »
+ * – **YF-211** (BNF- Tolbiac) : Après la page 65, on remarque une erreur de numérotation: la page suivante est une seconde page 64 et il n'y a pas de page 66. Comme dans l'exemplaire précédent, il y a un problème de numérotation à la page 88. La numérisation de *Gallica* a coupé la fin du vers 1353. Cet exemplaire tout comme les autres qui suivront ne possède pas d'adresse Au Lecteur. De plus, et ceux pour l'ensemble des exemplaires suivants, Toussainct Quinet s'est probablement aussi octroyé le droit de modifier le Privilège du Roi que D'Alibray lui avait cédé. En revanche le cahier liminaire de la pièce est constitué d' un Argument pour *Le Soliman.*
+
+Cet exemplaire possède un changement de ponctuation par rapport à notre texte : v. 197 : C'est pourquoy je voudrois; qu'avecques plus d'adresse, …
+ * – **YF- 619 (** BNF-Tolbiac) : après la page 88 suivent deux nouvelles pages 87 avant la page 89.
+ * – **YF- 304** (BNF-Tolbiac) : la pièce se situe dans un recueil avec un ex-libris aux armes de la famille Brulart [176].
+ * – **GD-44262** (Bibliothèque de l'Arsenal, Paris) : N'est pas précédé de l'Argument pour *Le Soliman.*
+ * – **4-BL-3572(2)** (Bibliothèque de l'Arsenal) : Il s'agit d'un recueil dans lequel *Le Soliman* est précédé du *Torrismon de Tasse* (1636). La pagination non-continue entre les œuvres laisse supposer que la renommée de d'Alibray à la fin des années 1630 et le succès de ses pièces ont incité le bibliothécaire à relier ensemble les deux pièces et à faire croire à une nouvelle édition. Le choix de ces deux pièces est assez intéressant puisque l'auteur fait mention dans l'avis Au Lecteur du *Torrismon* de la seconde pièce et en réponse à son concurrent, Mairet [177]. Il faut noter que cet exemplaire du *Soliman* a connu des corrections sous presse pour les coquilles concernant la liste des acteurs et pour le vers 1358.
+
+Après la page 88, on trouve à nouveau une page87 suivie d'une page 88.
+
+L'exemplaire ne possède pas d'Argument pour *Le Soliman.*
+ * – Édition de 1642 : **GD-42102** (Bibliothèque de l'Arsenal) : La pièce possède le privilège à Toussainct Quinet. Sur la page de titre, on peut remarquer qu'un nouveau titre a été donné à la pièce : *Le grand Soliman* et que le texte a été édité : A PARIS, / Chez TOUSSAINCT QUINET, au Palais.
+
+La coquille du vers 1358 a été corrigée.
+
+Cet exemplaire ne possède pas d'Argument pour *Le Soliman.*
+
+Tous les exemplaires ne possèdent pas le même cahier liminaire : Au Lecteur, Privilège du Roy, Argument pour *Le Soliman* [178].
+
+L'exemplaire le plus curieux est celui que nous avons choisi de reproduire. Il s'agit de l'unique exemplaire dans lequel le Privilège du Roi est d'abord attribué à d'Alibray avant d'être cédé par l'auteur à Toussaint Quinet.
+
+D'autre part il faut aussi noter que ces recherches nous ont permis de retrouver dans ce même exemplaire ainsi que dans l'exemplaire factice de la Bibliothèque Mazarine un texte critique de notre auteur. Ce texte que constitue l'avis Au Lecteur s'inscrit dans la lignée de la Préface du *Torrismon* (1636) autant d'un point de vue critique que dans l'histoire concernant la querelle avec Mairet. Ce texte se veut aussi un prolongement des réflexions aristotéliciennes menées par Bonarelli et est donc précieux pour la compréhension de notre pièce. De plus, il remet en cause les remarques de certains critiques qui pense que d'Alibray n'a pas défendu « en son lieu » son *Soliman* [179].
+
+La consultation de ces différents exemplaires permet de retracer approximativement les conditions d'édition de notre texte. La première édition de 1637 aurait connu deux émissions. La première serait celle qui correspond à l'exemplaire reproduit avec l'adresse Au lecteur. À la suite de la querelle avec Mairet et à l'accusation ouverte de d'Alibray contre l'auteur [180], nous supposons qu'une nouvelle émission a été faite. L'adresse Au Lecteur, sujet de discorde, aurait alors été supprimée et remplacée par le Libraire par un argument sur *Le Soliman*. D'autre part dans cette seconde émission, Toussaint Quinet se serait octroyé le droit de modifier le Privilège qui lui avait été cédé par l'auteur. La réimpression des cahiers liminaires explique pourquoi on retrouve de manière récurrente certaines coquilles, absentes du texte reproduit ici, dans les autres exemplaires consultés.
+
+La seconde édition date de 1642.
+
+Notre texte a été imprimé par Denis Houssaye [181].
+
+
+## Établissement du texte
+
+Le texte a été établi à partir de l'édition mentionnée. Cependant des modifications d'usage ont été établies afin d'en faciliter la compréhension :
+ * – Conformément aux codes typographiques actuels nous avons transposé le texte de notre pièce, écrit en italique, en caractères romains. Les vers 815 à 818 dans lesquels Soliman lit la lettre que vient de lui apporter Mustapha sont eux, à l'inverse, en italique dans notre édition.
+ * – Distinction entre le /i/ voyelle et le /j/ consonne entre deux voyelles(confondu en /i/ dans le texte) ainsi qu'entre le /u/ voyelle et le /v/ consonne (indifféremment /u/ dans l'édition originale)
+ * – Suppression du tilde qui signalait la nasalisation des voyelles et décomposition en groupe nasalisé voyelle+consonne du type: /an/, /en/, /am/, /em/, /on/.
+ * – Décomposition de la lignature « & » en « et »
+ * – Décomposition du « ß » en « ss »
+ * – Ajout d'accents diacritiques pour distinguer ou/où et a/à
+
+Une astérisque ⁎ est utilisée pour signaler les mots expliqués dans le glossaire.
+
+
+## Les graphèmes étymologiques
+
+Il ne se prononcent pas. Leur rôle est de rappeler l'étymon savant du mot. La liste suivante contient les occurrences les plus remarquables du texte :
+
+Advis, advocat < advocatus ; adviser<advertere
+
+ceste<cestui
+
+vostre<vestrum
+
+nostre<nostrum
+
+quant<quantus
+
+hast< hasta
+
+monstrer<monstrare
+
+debvoir<debere
+
+marastre<matrastra
+
+*Subjet* ou *subject < subjectio* (la seconde graphie est attestée dans le dictionnaire de Nicot *Trésor de la Langue Française* de 1606).
+
+imparfaict < imperfectus
+
+soustenir< sustenare
+
+gratieux< gratiosus
+
+pretieux< pretiosus
+
+*vous faictes < facere* et son déverbal *faict< factum*
+
+*puissans<potens, entis* : La graphie « puissant » est déjà attestée au xvii*e* siècle. Le graphème /ans/ rappelle le nominatif latin en /ens/.
+
+On trouve aussi un cas de fausse étymologie avec : *sçavoir*, qui a été associé à *scire*. Cependant les historiens de la langue ont prouvé que savoir provenait du latin *sapere*. Cette erreur est courante.
+
+
+## Orthographe, graphie et prononciation
+ * – Le e fermé est signalé de différentes façons :
+ * – par un /s/ diacritique dans la syllabe initiale. Le /s/ est la plupart du temps aussi étymologique. (*estoit<esse)*
+ * – par un/z/: ancienne notation de l'affriquée /ts/ réduite à /s/ au XIII*e* siècle : il s'agit donc d'une graphie historique *(enflammez, entrecoupez…)*
+ * – par l'accent aigu inventé au 16e siècle (théorisé par l'Académie Française en 1694) : *jugé, armée, nécessité, agréable…*
+
+Dans *cét*, l'accent aigu est apparu après la chute de l'ancien /s/ diacritique: cestuy
+ * – Le e ouvert est signalé par le /z/ final muet : *succez, decez, exprez*
+ * – *OI* dans *estoit, devoit, attendoit, avoit, lairroit, connois, concevois, déreboit…* est une graphie historique (ou conservatrice) qui a servi à noter phonétiquement la diphtongue /oi/ du xii*e* siècle. Au xvi*e* siècle cette graphie correspond à une prononciation en wę ou ę dans la désinence verbale de l'imparfait et du conditionnel. Vers 1650 c'est la prononciation en ę qui prédomine. C'est seulement en 1835 que l'Académie Française entérinera la graphie /ai/ pour adapter l'orthographe à la prononciation.
+
+Il faut aussi noter que /OI/ est dans les verbes un graphème marqueur de l'imparfait ou du conditionnel.
+ * – Le tréma sert à distinguer :
+ * – **le e muet de fin de mot: *venuë, connuë issuë , inconnuë, ingenuë, entenduës, menuë, retenuë, nuë, tuë, veuë, pourveuë, deuë, contenuë, avouë, connuë, avenuë, defenduë, conceuës, tortuës, survenuës*
+ * – le /u/ voyelle du /u/ consonne: *reünir, avoüer, loüer, loüange, oüy, oüir, reüssir, esbloüir, doüaire, tüer, joüyr, avoüer, resjoüir, reüssir, doüaire, nüe, loüange, desavoüer, s'insinüer, absolüe, joüer.*
+
+Cette dernière graphie n'est pas uniformisée dans le texte puisqu'on trouve aussi le maintien de l'ancien hiatus médiéval /eu/.
+
+Ce hiatus a un apport diacritique car il indique au lecteur l'allongement du /ü/. Cette voyelle est donc longue et$ le /e/ ne se prononce pas mais indique la manière dont on doit prononcer le /u/ qui suit. C'est le cas dans : *cheute, deu, deut, sceu, creut, eut, pleust, asseure, asseurance, seur, émeu, apperceu, pourveu, receu, leu, eusse, eut, peut, peu, veuë, veus, veu, pourveuë, deuë, sceu*,
+
+On notera aussi le cas d'une graphie redondante avec le substantif « *veüe* » qui emploi à la fois le graphème /eu/ et le tréma.
+ * – Il faut noter qu'un certain nombre de mots ou adjectifs se terminant en français moderne en /ent/ sont graphiés, au masculin pluriel, /ens/ dans notre texte. Il faut y voir la résurgence de l'affriquée ts graphiée /z/. Au xii*e* siècle, cette aphriquée se simplifie en /s/.
+
+On a donc : *jugemens, evenemens, accidens, excellens, mouvemens, sentimens, medicamens, ornemens, violens, desregelemens, tourmens…*
+
+Lors de la fixation des règles d'orthographe, le français moderne a remis en place le /t/ au pluriel pour des raisons étymologiques et d'analogie avec le féminin. Le /s/ devient alors un simple morphogramme du pluriel.
+ * – Le doublet Reyne/ Reine peut éventuellement s'expliquer par l'importance des lettres ornementales de la calligraphie au xvii*e* siècle. On abuse en effet souvent du /y/ à la place du /i/. Le /y/ est de plus souvent considéré comme une lettre provenant de la langue savante puisqu'il était courant dans les mots grecs.
+
+
+## La ponctuation
+
+Dans les éditions théâtrales du xvii*e* siècle, on remarque une certaine dichotomie entre la ponctuation syntaxique et la ponctuation comme indice de déclamation pour le comédien.
+
+Ainsi, l'hésitation est courante entre le point d'interrogation et le point d'exclamation qui indiquent tout deux dans un système vocalique une montée de voix soulignant une certaine émotion, une indignation… Furetière dans son dictionnaire de 1690 précise alors qu' un « point interrogant est celuy qui marque qu'il faut prononcer d'un ton superieur » alors que « le point admiratif est celuy qui marque qu'il faut admirer ou se lamenter ». Cependant, les deux signes existent et la ponctuation devient de plus en plus syntaxique au fil du siècle.
+
+Dans le système d'utilisation de la ponctuation comme indice pour le comédien, les deux points, « : », correspondent à une pause forte dans le discours. C'est une pause plus marquée que le point virgule « ; » mais qui lui est souvent équivalente.
+
+C'est par exemple le cas aux vers 76, 98, 107, 108, 126, 140
+
+Après avoir expliqué ceci, il semble que cela n'empêche pas la bonne compréhension du texte par un lecteur moderne. Nous n'avons donc apporté qu'une seule modification qui nous est apparue comme une coquille :
+
+v. 109 : *A suivy jusqu'icy vos desseins genereux.--> A suivy jusqu'icy vos desseins genereux*,
+
+
+## Coquilles
+
+La version corrigée se trouve dans notre texte
+
+**Au Lecteur** : *on se figure tousjours que celuy qui donne à un plus grand que soy, à plus d'envie de demander que de rendre ; C'est la difference qu'il y a de la façon d'exciter les passions … et celle dont a besoint la Poësie ; le lieu ou tout s'est fait, les entant si bien sur le tronc du principal sujet ; cela est bon pour les Comedies, ou comme on n'y void que des personnes de basse condition ; la méchanceté, ma fait retrancher ces longues et malheureuses prédictions ; celles qui sont arrivées en un païs estrange ; en un lieu esloigné d'ou elles sont arrivées ; d'ou vient qu'Aristote dit ; de vaguer ou bon luy semble ; qui pourra s'amander avec l'aage ; quand quelqu'un par ignorance estre sur le point de commettre une chose où il ny aurait plus de remde ; d'autant que, ou les conclusions sont prouvées par des causes necessaires ; nous nous en sentons extremément touchez ; le fait qui nous est representé comme faux, nous touche seulement à l'égal de nous mesmes ; et autres Poëmes, que nous n'ignorons pasavoir esté faites à plaisir ; outre disje le dessein que j'avois d'instruire aucunement à la vertu ; Je me suis cent fois estonné, Lecteur, dece que dit Aristote ; là ou le vers porte naturellement ; ces Poësies difficiles et couppées qne nous appellons Stances ; mais tousjours doivent elles estre extremement naïfves ; tu y reconnnoistras par tout une grandesplendeur ; queBonarelli en l'estat mesme ou je l'ay mis ; cette connoissance de moy-mesme ou tant de personnes s'abusent ; qu'a cause qu'il ma semblé, Tu le peux reconnoistre à ce que je ne me suis jamais proposé que les plus grands exemples, ou comme on est obligé de s'attacher davantage à l'original à cause de son excellence ; cet inconvenient qui ma fait haster l'impression de cette Tragi-Comedie ; je n'avois desja renoncé à la gloire de faire de beaux vers, …, ou toute la loüange qu'on puisse acquerir ; , nous sommes en un temps ou ce qui a tousjours deu faire peur* **Argument pour le Solyman**: *Alep, ou Soliman l'attendoit ; Alvante, a qui elle avoit fait accroire ; on reconnoist la fausseté de la lettre qu'on avoit supposee ;* **v. 6** *Trace*, **v.84** *Et puis que Soliman n'attend que son retour*, **v.278** *Oule vouloir d'un Pere*, **v.286** *Le premier rang d'honneur ou je devois pretendre* ?, **v.359** *Madame, ayeZ bon cœur, tout vous vient à souhait* ; **v.410** O*u son ambition depuis long-temps aspire* ; **v. 412** *Celuy dont vous devrieZ attendre moins ce tort* ; **v. 427** *Et que vous les aymez par un aveugle erreur* ; **v. 488** *Cherchant un lieu commode ou nous camper la nuit* ; **v. 491** *Et qui s'avance enfin ou le champ plus ouver* ; **v.615** *Tiens, avecque la lettre ou dans peu de discours*, **v. 623** *Doncques est-il possiple* ! ; **v. 633** *Moy porter ces papiers ou ta honte est enclose, ;* **v.792** *Et chasse, s'il lui plaist de son coeur tout soucy.* ;**v.910** *Ou l'on conspire de vous priver du jour*; **v. 912** *Du camp, ou ce malheur vous-mesme vous r'appelle* ; **v.964** *Ou parmy tous les Chefs la nouvelle est seméee* ; **v.1002** *Par ou je remettray vostre esprit en repos* ; **v.1143** *Et ne vueilles priver du jour une personne* ; **v.1167** *Seigneur, le vray subject, et quelle a voulu taire* ; **v.1174** *Voila comme ce fils avec le Perse est joint* ; **v.1219** *Mais àfin que mon Pere avec plus d'asseurance*, **v. 1358** *Je suis donc l'instrumeut d'une mort si cruelle* !, **v. 1370** *La deuxième partie du vers n'est pas précédée d'un alinéa*, **v. 1375** *Mustapha maintenant à les Cieux ennemis*, **v.1389** *Ou de mon aisné mort je pleuray la disgrace*, **p.103 scène 8** la liste des personnages a été omis, **v.1601** V*ous aveZ trop de soin de l'ame la plus basse*, **v.1606** *L'exceZ où la porta son ardeur* ; **p.108 scène 9** Le nom des personnages n'est pas dans la même police que dans le reste du texte: il n'est pas en majuscules, v.**1623** *Il m'a, Seigneur, expreZ devers vous deputé*, v.**1649** *Je veux que vous soyeZ certain de la victoire*, **Avant le vers 1659** le nom du personnage n'est pas annoncé dans la même police qu' à l'habitude. Il est en miniscule: L'Ambassadeur de Perse ; **v.1669** *Mais quelle triste nuë obscurcit ton visage* ?
+
+À partir de la page 88, suite à un problème de numérotation (deux nouvelles pages 87 après la page 88), un décalage s'opère jusqu'à la fin du texte. Nous l' avons conservé afin de permettre une meilleure correspondance avec l'édition originale.
+
+Coquille récurrente à signaler dans les autres exemplaires : Liste des Acteurs : Persine : Pille du roi de Perse.
+
+
+# LE SOLIMAN TRAGI-COMEDIE.
+
+
+## AU LECTEUR
+
+Je n'ay pas voulu (LECTEUR) faire deux presens d'une mesme chose, ny redonner à un particulier ce que j'avois desja donné au public: Les Anciens n'ont point affecté de dédier leurs Comédies à personne, et c'est soubs l'authorité des Grands la liberté de nos sentimens, qui naturellement ne reconnoissent point d'autre juridiction que celle de la Raison ; Joint que cela me semble d'autant plus à éviter, qu'il peut estre mal interpreté, et qu'encore que d'ordinaire on n'ait dessein que de payer ce que l'on doibt au merite et à la vertu ; neanmoins par je ne sçay quel malheur qui fait que l'on pense bassement des personnes moindres, on se figure tousjours [182] que celuy qui donne à un plus grand que soy, a plus d'envie de demander que de rendre : Delà vient qu'en de pareilles rencontres, on ne feint point de comparer quelques Poëtes à cét Erisicthon [183] dont il est parlé dans leurs Fables, qui vendoit et revendoit sa fille pour subvenir à sa necessité ; Et quoy que j'aye trop bonne opinion de ceux du métier pour en croire cette lascheté, et que je n'ignore pas que Pegase est peint aislé, afin de nous apprendre qu'ils mesprisent la terre, et qu'avec cela c'est un animal noble et fougueux qui ne souffre personne sur son dos ; j'ay pourtant trouvé plus à propos de ne prendre pour protecteur de cet ouvrage, que le mesme peuple que j'avois choisi pour en estre le Juge ; Et certes avec raison, puisque comme il a les deux qualitez necessaires pour bien juger, qui sont de ne se servir point du jugement d'un seul, ny de n'estre pas prevenu d'aucune affection ou connoissance en particulier, qui fasse qu'aymant comme sien ce qu'il void, il se l'approche de trop près, et ne luy laisse pas la distance requise pour le discerner exactement ; aussi a-t'il d'autant plus de force en sa deffense qu'elle n'est appuyé que sur sa justice et sur l'équité mesme. Mais tout ainsi qu'il ne suffit pas d'avoir ouy simplement un fait, pour prononcer [184] dessus, et qu'il faut encore estre instruit de toutes ses circonstances : De mesme je ne pense pas qu'on doive rien determiner absolument touchant de cette Tragi-Comedie sans avoir esté auparavant pleinement informé des raisons de chaque chose ; C'est à quoy j'ay dessein de travailler icy, tant pour fortifier l'advis de ceux qui l'ont approuvée, qu'afin de resoudre les doutes de ceux qui y auroient trouvé à redire. Que ces derniers seulement ne se rebutent pas de sa lecture, car outre que les fautes qui se comprennent simplement par nostre entendement, comme alors qu'on lit, ne nous offensent pas tant à beaucoup prés, que celles qui tombent soubs nos yeux, ainsi qu'il arrive dans une representation ; la veuë du corps estant en cela semblable à ces vapeurs espaisses qui font que les objets⁎ apparoissent plus grossiers, j'espere encore les satisfaire si bien, qu'ils reviendront de mon costé, et qu'ils avoüeront qu'en ce qui regarde les jugemens particuliers, la fortune⁎ regne quelquefois autant sur le succez des pieces de Theatre, que dans les evenemens mesmes qui nous y font representez. Toutesfois devant⁎ que commencer, je priray ceux que sont generalement ennemis des Prefaces, qui les croyent toutes inutiles, et tousjours la mesme chose, et seulement propres à rencherir les livres, de ne point passer plus outre en la lecture de celle-cy, car je ne doute point qu'elle ne leur fust ennuyeuse ; et quant aux autres, je les suppliray de m'accorder la patience qu'il faut pour m'ouyr rendre raison de mon travail, et examiner tant ce qui a esté inventé que ce qui a esté changé dans l'histoire par nostre Autheur et par moy, et je leur promets de le faire le plus briesvement qu'il me sera possible.
+
+La premiere chose qui s'offre à considerer, c'est cette fiction qui fait Mustapha fils de Roxolane, (ainsi s'appeloit la Sultane femme de Soliman) quoy que les histoires et le bruit commun l'ayent dit fils de Circasse. Surquoy l'on remarque, que pourveu que ces suppositions d'enfans et ces échanges soient vray-semblables et vray-semblablement introduits, le Poëte a satisfait à son devoir, et par consequent les a rendus assez croyables, bien que l'histoire et le bruit commun en parlent autrement ; d'autant que le Poëte n'est point obligé de raconter les choses comme elles sont effectivement arrivées, mais comme elles ont peu arriver, ou qu'il a esté vray-semblable ou absolument necessaire, suivant les paroles d'Aristote ; Et nostre Autheur n'a pas manqué d'exemples pour l'induire à cecy, car il rapporte qu'Euripide dans ses Troades [185] nomme Ganymede [186] fils de Laomedon, quoy qu'Homere [187] et Sophocle [188] le nomment fils de Trous ; que Lycophron [189] fait Iphigenie [190] mere de Neoptelemus [191], quoy qu'il fust tenu de chacun pour fils de Deiopée [192] ; qu'Helene est ordinairement estimée fille de Leda [193], et qu'il y en a pourtant quelques-uns qui la disent fille de Nemesis [194] : Enfin que c'est une chose si facile de s'abuser en ce point, que nous voyons tous les jours dans les causes civiles des Advocats qui soutiennent hautement que tel n'est pas fils de celuy qu'il pretend estre son pere ; De sorte que nostre Autheur a peu dire que Mustapha estoit fils de Roxolane, encore que quelques Historiens et la renommée l'ayent dit fils de Circasse, et pourveu qu'il ait sceu feindre cela probablement, il aura avec raison obtenu d'estre croyable, parce que ce qui rend une chose croyable, n'est pas de ce qu'elle est contenuë dans les Histoires, puisque les Histoires mesme sont sujettes à mentir, ainsi que nostre Autheur le prouve ; mais de ce qu'il a esté possible que la chose arrivast comme on la feint : En un mot le Poëte ne doit pas perdre à la verité le croyable pour le merveilleux, mais aussi ne doit-il pas mespriser le merveilleux pour le croyable, d'autant que les deux joints ensemble, forment le sujet de la Poësie, et que l'un ne peut estre sans l'autre dans un bon Poëme.
+
+Il ne faudra donc point non plus condamner le personnage de Persine introduit par notre Autheur, et qui est la seconde chose qu'il a principalement inventée et changée en la verité du fait: tant pour les raisons que nous venons de dire, qu'à cause que sans doute il s'attache fort bien à l'histoire, et est un Episode conjoint à la Fable, de la mesme façon qu'Aristote nous enseigne que les Episodes doivent estre [195] : Il n'est pas tout à fait esloigné de l'Histoire, puis qu'on y lit que quelques lettres furent suprises par le Bacha d'Amasie, dans lesquelles il y avoit je ne sçay quoy d'un mariage entre Mustapha, et la fille du Roy de Perse, et que ces lettres estant presentées par Roxolane à Soliman, elles firent l'effet⁎ qu'elle desiroit : et de ce peu de semence historique notre Autheur a creu pouvoir avec raison faire élever cette plante fabuleuse pour ainsi parler, des amours et autres avantures de Persine, les entrant si bien sur le tronc du principal sujet, que le tout s'avance et finit en mesme temps. [196]
+
+Pour ce qui est d'avoir fait arriver en un jour vray-semblablement ce que l'Histoire dit estre arrivé en plusieurs mois et en plusieurs années, comme sont les mauvais offices⁎ de Roxolane et de Rustan contre Mustapha, et les soupçons que s'insinüerent peu à peu dans l'esprit de Soliman ; Je dy que ça esté un aussi grand coup de maistre à nostre Autheur de l'avoir fait, comme il estoit necessaire qu'il le fist : car pour y parvenir il a falu qu'il se servist de bien nouvelles et de bien pressantes occasions, d'envie et de dépit dans Rustan, de haine et de crainte dans la Reyne, et afin que l'un et l'autre travaillassent à la ruine de Mustapha avec plus d'effet⁎, il luy a falu faire naistre dans l'ame de Soliman des horreurs subites et inconnuës, faire parler le Devin en termes equivoques pour disposer davantage l'esprit du Roy à la croyance d'une chose controuvée [197] ; Il luy a falu avoir recours à de fausses lettres, faire prendre prisonniere la fille du Roy de Perse ; descouvrir les amours d'elle et de Mustapha pour convaincre entierement Soliman, qui ne pouvoit se resoudre à croire la felonnie [198] dont son fils estoit accusé : Et nostre Autheur n'a pas jugé que ce raccourcissement de temps fust contre la vray-semblance, l'ayant veu pratiquer fort souvent par plusieurs grands personnages ; En tesmoignage dequoy il rapporte ce fameux exemple du fait d'Hercule avec les filles de Thespius [199] : car Ephore dans ses Histoires [200], et Homere dans sa poësie racontent que ce Heros fit en une seule nuit, ce que Pausanias [201] et d'autres affirment qu'il ne fit qu'en cinquante.
+
+Quant à ce qui est de la Scene, c'est à dire, le lieu où tout s'est fait, qui est la quatriesme chose que nostre Autheur a changée, et qui selon la verité de l'histoire fut une campagne, et que nostre Autheur feint avoir esté la ville d'Alep ; quoy que pour deffendre cecy, il suffit de se ressouvenir des raisons que nous avons desja exposées⁎, et qui peuvent servir en general pour chaque changement : neantmoins nostre Autheur en adjoute encore une nouvelle, avec un exemple. La raison qui l'a obligé d'en user ainsi, ça a esté la bien-seance et la commodité, parce que les actions qu'il avoit à representer devoient beaucoup mieux succeder [202] dans une ville, que non pas dans une campagne, au milieu de mille pavillons, et parmy la confusion d'une armée, et du bruit des instruments de guerre. Pour exemple, il rapporte le lieu de la sepulture de Tifée, qu'Homere [203] dit estre en Syrie, Pindare entre Cumes et Sicile [204], et Virgile [205] en Ischie.
+
+Icy je quitte Bonarelli, quoy que nous ayons tous deux à parler d'une semblable chose, et quelquefois avec les mesmes raisons, car où il est en peine de se deffendre de la mort de Roxolane, il faut que je me justifie de celle de Rustan. Je dy donc que je ne pense pas qu'il importe beaucoup que l'histoire en parle, pourveu que la suitte des autres choses la puisse rendre coyable, et que j'ay esté obligé de le faire mourir tant pour ne pas laisser la faute impunie, ce qui me sembloit un grand defaut, qu'afin que le changement de fortune⁎ de Mustapha en fust plus plein et plus admirable ; attendu que son bon-heur dependant de l'affection de son pere, de la possession de Persine, et de la perte de ses ennemis, la felicité estoit accomplie, quand il obtiendroit ces trois points. Car de faire une reconciliation de Rustan avec Mustapha, cela est bon pour les Comedies, où comme on n'y void que des personnes de basse condition qui se mettent mal ensemble pour peu de chose, aussi est-il fort aisé de les reünir ; J'ay donc mieux aymé qu'il se tüast dans la rage ordinaire à ceux de son païs, voyant ses desseins avortez, et qu'il n'y avoit plus de jour à son salut ; Et si sa mort n'a pas esté telle que je la feins, je ne merite pas pour cela de n'estre pas creu, parce qu'on ne sçait pas trop certainement comme [206] il est mort ; Et puis je ne suis pas le premier qui ne m'accorde pas en de semblables rencontres avec ce que disent les Histoires et la renommée ; car Ciceron luy-mesme qui faisoit profession d'estre Orateur, et non pas Poëte, parlant de Coriolanus, veut qu'il se soit tué de sa main [207], et neantmoins tous les Historiens sont en ce point d'un advis contraire : dequoy s'apercevant bien, il adjoute apres, qu'il est permis aux Orateurs de mentir, afin de pouvoir dire quelque chose de plus beau [208], à plus forte raison donc le doit-il estre aux Poëtes, afin qu'ils puissent dire quelque chose de plus merveilleux et de plus capable d'exciter de l'horreur ou de la commiseration. Nous avons encore pour nous l'exemple d'Helene, qu'Homere dit estre morte en Sparte de mort naturelle, et les autres comme particulièrement l'interprète d'Euripide avoir esté lapidée par ceux de Rhodes [209] ; Et de plus l'authorité des enfans de Medée, qu'on croit communément avoir esté tüez par leur mere [210], quoy que les autres veulent que ç'ait esté par les Corinthiens [211]. Les mesmes raisons que nous dirons cy-apres pour deffendre la vie de Mustapha pourront servir encore à deffendre la mort de Rustan.
+
+Ce n'a pas esté en ce point seulement que je n'ay pas suivy nostre Autheur, car outre que la necessité de ma conclusion qui ne devoit estre funeste qu'à la méchanceté, m'a fait retrancher ces longues et malheureuses prédictions que menaçoient Roxolane et Soliman, pour ne toucher qu'à la mort de Rustan en passant, j'ay aussi remis au dernier Acte afin de faire triompher plus avantageusement l'innocence de Mustapha, l'éclaircissement de quelques trahisons, dont notre Autheur informoit les spectateurs à mesure qu'elles se tramoient, à dessein d'en rendre la mort de Mustapha plus pitoyable ; Et puisque j'ay resolu de te rendre raison de tout, je te diray encore que j'ay changé la reconnoissance de Mustapha doublement, et en sa cause et en son effect⁎ : car au lieu que [212] notre Autheur la faisoit venir de certaines femmes qui suivoient incessamment Mustapha sans qu'il sçeut pourquoy, j'ay creu qu'il estoit plus seant qu'Ormene que je feignois son pere Nourrissier, et qui par cette consideration pouvoit ne l'abandonner jamais, se trouvast tout à propos pour donner jour à cette reconnoissance. Ce qui m'a paru d'autant mieux que par ce moyen on n'avoit point recours au dehors, mais à un personnage qui faisoit partie du sujet, et qui sembloit ordonné à quelque autre fin ; conditions essentielles à une bonne reconnoissance : Pour l'effet⁎ que j'ay voulu que cette reconnoissance produisit, qui est que Mustapha ne mourust pas ; quand meme la Tragi-Comedie ne m'y auroit pas obligé, j'aurois tousjours eu raison de le faire. Car j'ay leu dans un grand Maistre [213], que cette conclusion-là des Tragedies est la plus approuvée, lors⁎ qu'un homme juste est amené jusques sur le bord du precipice, et qu'il en est retiré par quelque moyen : Et Aristote mesme trouve cette fin là plus recommandable, quand quelqu'un par ignorance est sur le point de commettre une chose où il n'y auroit plus de remede si elle estoit faite, et qu'il s'en empesche par quelque reconnoissance qui survient [214] ; C'est à dire quand au lieu d'une Tragedie pure, nous en faisons une meslée, que nous nommons Tragi-Comedie, (car les anciens n'y mettoient point de difference) ainsi je l'ay pratiqué en ramenant par une heureuse reconnoissance, Mustapha presque de la mort à la vie.
+
+Et pourtant c'est ce que quelques uns peuvent moins souffrir, que j'aye fait en cela contre la verité de l'Histoire. Tu me permettras, Lecteur, de m'estendre un peu sur ce point, qui embrasse luy seul la deffense de tous les autres [215] ; Car si je justifie ce changement contre l'histoire, à plus forte raison auray-je justifié ceux qui ne sont qu'outre l'histoire. Il faut donc remarquer qu'il y a deux sortes d'histoires, les unes sont anciennes, et les autres modernes ; lesquelles ont doit considerer encore en deux façons, ou comme arrivées en un païs esloigné, ou comme arrivées en un païs proche ; Or est-il qu'il est bien plus permis au Poëte de changer les histoires anciennes, que les modernes, et bien plus celles qui sont arrivées en un païs estrangé, que celles qui sont arrivées en quelque lieu voisin. Mais que le sujet de nostre Tragi-Comédie soit tiré d'un païs reculé, on n'en doutera point si l'on pense que c'est d'une chose arrivée en Alep, ville esloignée de nous de beaucoup plus de journées que n'est pas Constantinople, et dont les nouvelles ne viennent pas si aysément jusques à nos oreilles ; De cecy nous asseure ce que nostre Autheur remarque, que nous n'avons eu connoissance du fait de Mustapha que par une seule lettre, q ui depuis a esté inserée mot à mot dedans nos Histoires [216], si bien qu'outre la distance du païs, le defaut d'escrivains ne sert pas peu à nostre deffance. Maintenant il faut sçavoir quelles histoires ont droit de s'appeller anciennes ; Pour moy j'estime qu'un siecle ou environ suffit à leur acquerir ce titre, principalement en un lieu esloigné d'où elles sont arrivées, et que c'est assez au Poëte de n'avoir point de tesmoins oculaires qui le dementent ; Car de cette sorte le fait se pouvant probablement ignorer, et l'authorité du Poëte estant presque aussi forte que celle des Historiens de son pays, cela luy donne le moyen d'introduire ses inventions propres, et de le rendre veritablement Poëte [217]. Joint qu'afin de mieux exciter il n'est pas besoin⁎ qu'il attende trop long-temps, suivant l'advis de quelques uns qui veulent que l'avanture que l'on raconte ne soit pas si vieille, et qu'elle se passe comme devant nos yeux : Neantmoins à le prendre au pis, quand mesmes on n'adjoutera point de foy⁎ à ce que l'on verra representer, l'ouvrage n'en perdra rien de sa gloire. L'histoire, ainsi que nous avons desja dit, est une narration selon la verité, d'actions humaines memorables et arrivées ; la Poësie est une narration selon la vray-semblance d'actions humaines memorables et qui pouvoient avenir ; la matiere de l'une doit estre pareille à celle de l'autre, je l'avouë, mais pareille et non pas la mesme ; Tout le devoir d'un bon Poëte c'est d'imiter les accidens de la vie ; c'est d'imaginer un combat de la fortune⁎ contre nous :d'où vient qu'Aristote dit, qu'il ressemble davantage au Philosophe qu'à l'historien, parce qu'il s'attache plus à l'universel qu'au particulier [218] : La Poësie ne s'oblige donc à la foy⁎ de personne, il luy est permis de s'emporter et de vaguer où bon luy semble, pourveu qu'elle ne s'égare ny ne s'extravague pas ; qu'elle fasse des portraicts faux tant qu'il luy plaira, pourveu seulement qu'elle ne nous donne point de chimeres ; Les mediocres Peintres qui reconnoissent leur peu de suffisance, arrestent nos yeux par la verité de l'histoire, mais ceux qui sont excellens se contentent de peindre bien et naturellement ce qui leur vient en fantaisie : Et toutesfois il y a cette difference entre la Poësie et la peinture, qu'une chose connuë plaist beaucoup moins descripte en vers que representée en un tableau, et qu'aux ouvrages de celle-cy, la fiction n'est pas ce qu'on estime le plus : mais dans la Poësie, elle est à si haut prix, qu'Aristote la prefere à toutes les autres parties [219] : Aussi qui a trouvé mauvais qu'Homere ait fait les Grecs victorieux de Troye, et la femme d'Ulisse [220] si sage, quoy que Dion raconte le contraire ? ou que Virgile nous ait feint Didon [221] amoureuse et impudique, elle qui fut si chaste qu'elle se tua pour conserver son honneur, et pour garder la foy⁎, mesme à son mary mort ? tant il est vray qu'il a tousjours esté permis aux Poëtes de contredire à l'histoire, dont ils n'empruntent bien souvent que ce qui leur en faut pour dorer leurs Fables, afin de les faire recevoir plus aysément à ceux, pour le plaisir ou pour l'utilité de qui ils les preparent ; Si bien que nous pouvons conclurre que de changer la verité des choses, ne fait pas perdre au Poëte la creance qui luy est necessaire, pourveu qu'il observe les conditions que nous avons dites, qu'il ne prenne pas un suject trop connu, ny d'un pays trop proche de celuy des spectateurs, et qu'il attende quelque temps pour mentir plus impunément, puisque mesme les Historiens attendent bien quelquefois pour dire la verité ; Que si l'histoire que j'ay changé n'estoit pas assez ancienne, et si en cela je n'ay pas bien imité Homere et Virgile, au moins est-ce une faute qui pourra s'amander avec l'age, de sorte que ce qui oste le prix presques à toutes choses, accroistra peu à peu celuy de mon Soliman. Mais je n'en demeure pas là, et ne me contente pas d'avoir monstré que les choses pour contredire à l'histoire, ne laissent pas d'estre croyables, je pretends monstrer encore que mesme estant connuës fausses, elles ne laissent pas d'exciter toutes les fois qu'elles sont croyables. Mais comment le faux connu pour tel peut estre croyable, c'est ce qui paroist avoir besoin⁎ d'une forte preuve ; Neantmoins cette proposition est de celles qui d'abord font peur et semblent farouches, et qui se trouvent à les manier fort faciles et fort traitables. Et pour te le faire voir, je dis avec nostre Autheur que ce que chacun appelle croyable, est l'object qui a du rapport avec nostre croyance, et que cette croyance, comme aussi l'opinion et la science, ne sont rien autre chose qu'une certaine disposition ou habitude, pour parler ainsi, que nous acquerons à l'endroit⁎ de ce qui nous est proposé ; d'autant que, où les conclusions sont prouvées par des causes necessaires, et lors⁎ s'engendrent la science, ou bien par des moyens qui ne sont pas desmonstratifs, mais universels et probables seulement, et lors⁎ naist l'opinion ; ou elle sont fondées sur des raisons particulières capables de persuader, et lors⁎ se produit la croyance, qui a pour object, comme nous avons dit, ce qui est croyable, lequel object determine et specifie la Rhetorique et la Poësie, mais avec cette difference que la Rhetorique regarde ce qui est croyable, entant que croyable seulement, et la Poësie le considere entant que croyable et merveilleux, si bien que la fin de la Rhetorique c'est de dire des choses propres à persuader, et le but de la Poësie c'est d'en chercher qui puissent réveiller nostre admiration. Concluons donc ainsi, s'il suffit au Poëte d'estre croyable, si ce qui est croyable, est l'objet⁎ de nostre creance, si nostre creance procede de choses particulieres capables de persuader ; tout autant de fois qu'on mettra en avant un fait capable de persuader, c'est à dire qu'il n'importe pas qu'il soit vray ou non, necessairement, il emportera nostre creance et avec elle nos passions. Pour confirmation dequoy l'on adjoute, que l'esmotion se peut considerer en deux façons, de l'une, elle est droite et absolüe, et de l'autre, indirecte et dependante ; La premiere, c'est quand nous nous sentons touchez d'une action que nous sçavons assurément estre arrivée comme on nous la represente, si bien que par cette raison nous sommes autant émeus pour celuy à qui elle est avenuë que pour l'amour de nous mesmes, lors⁎ que nous pensons qu'une pareille chose nous pourroit arriver quelque jour ; La seconde sorte d'emotion que nous avons appellée indirecte, c'est quand le fait qui nous est representé comme faux, nous touche seulement à l'égard de nous mesmes, ou de quelqu'un des nostres, parce qu'encore que nous nous appercevions bien que l'action et les personnes qui passent devant nos yeux sont feintes ; neantmoins faisant une reflexion dans nous mesmes de cet accident, qui est si croyable, qu'il nous peut arriver, ou à quelqu'un de nos proches, nous nous en sentons extremement touchez. C'est pourquoy Aristote a dit dans sa Rhetorique que la commiseration estoit une douleur qui provenoit de la veuë d'un mal corrompant et sensiblement dommageable à quelqu'un qui en estoit indigne, et que nous croyions pouvoir aussi nous mesmes souffrir⁎ ou bien quelqu'un des nostres, et le reste. [222] Mais il semble necessaire de considerer icy un point de tres-grande importance en l'affaire que nous traictons. C'est la difference qu'il y a de la façon d'exciter les passions qui appartient à la Rhetorique, et celle dont a besoin⁎ la Poësie, particulierement celle du Theatre, parce que la Rhetorique s'efforce le plus souvent de persuader quelque chose en faveur aussi d'une autre, ou d'une tierce personne qui n'est ny l'Orateur, ny simplement ceux qui escoutent ; là où la Poësie, et principalement celle de Theatre, a pour premier but de profiter tousjours à ses Auditeurs de sorte que toutes les fois que le Poëte composera son Poëme de telle façon, que par le moyen des mouvemens indirects et reflechis dont nous avons parlé, les spectateurs seront émeus à terreur et à compassion, il obtiendra entierement sa fin, pusique procurant par là notre utilité propre, il a tout ce qu'un bon Poëte doit avoir. C'est pourquoy encore que le suject de la Tragedie, nommée la fleur d'Agathon [223], fust faux et reconnu pour tel, il ne laissoit [224] pas pourtant de toucher ; autrement il n'eust pas merité d'estre loüé par Aristote [225] : Et voilà que je croy, la vraye raison de l'experience que nous faisons tous les jours en nous sentant émouvoir par tant de Comedies, Pastorales, Tragedies, et autres Poëmes, que nous n'ignorons pas avoir esté faites à plaisir, et qui neantmoins reveillent en nous de veritables passions ou de tristesse, ou de joye, car nostre raisonnement doit s'appliquer à l'un et à l'autre : Et s'il n'estoit ainsi, je me serois bien abusé moy-mesme, puisque outre le dessein que j'avois, faisant une Tragi-Comedie du Soliman, c'est à dire, punissant le coupable et sauvant l'innocent, la perte duquel selon Aristote excite nostre indignation contre le Ciel mesme, qui est une chose horrible [226], outre dis je le dessein que j'avois d'instruire aucunement à la vertu, et de retirer du vice par l'espoir de la recompense et par l'apprehension de la peine, les deux grands Maistres de nostre vie ; J'ay cru encore qu'apres qu'on se seroie senty offensé des malices de Rustan, et affligé des miseres de Mustapha, lors⁎ qu'on apprendroit la mort de l'un, et qu'on verroit le bon heur de l'autre, on en recevroit une joye d'autant plus pure (quoy que pour des sujects faux) que ce second mouvement⁎ nous estoit une nouvelle preuve, que nous sommes gens de bien et veritablement amateurs de la justice : Cette mesme consideration m'a fait adjouter aux autres felicitez de Mustapha la possession de Persine ; qui ne pouvant pas estre sans le consentement et contre le gré d'un pere et d'un ennemy ; on ne doit pas trouver hors de propos ce me semble, que je fasse survenir l'Ambassadeur du Roy de Perse, puis qu'il apporte la conclusion du mariage avec la fin de la guerre.
+
+Voilà (Lecteur) nostre Tragi-Comedie examinee et defenduë ; Que si ce discours t'a paru ennuieux, considere, je te prie, que la matiere le demandoit, et que je n'ay pas esté long, mais que mon suject estoit ample ; J'ay pourtant obmis quelques autres raisons que tu pourras voir dans les deux lettres apologetiques que nostre Autheur addresse à Bruni [227], et dont je n'ay point fait de difficulté d'emprunter ce que j'ay trouvé de meilleur pour une seconde deffense de son Soliman ; car puisque j'avois pris ses vers, il me devoit bien estre permis de me servir de sa prose ; Maintenant il resteroit qu'apres t'avoir parlé de l'oeconomie entiere de la piece, je t'entretinsse de l'embon-point et de la beauté du teint de chaque partie, c'est à dire de la douceur et de la naïveté des pensées et des paroles ; Mais j'ay peur de les avoir tellement alterées, que tout ce que j'avancerois à la loüange de Bonarelli ne retournast à ma confusion ; Et puis je me suis desja tant de fois estendu en de pareilles rencontres, que si je ne repete les mesmes mots, au moins me sera-t'il mal-aisé d'éviter que je ne redie les mesmes choses ; Toutesfois parce qu'il n'est que trop croyable que ce que j'en ay escrit n'aura pas merité d'estre veu de toy, et que d'ailleurs il importe de détromper quelques esprits qui ne font cas que d'un stile enflé et corrompu, en faveur de celuy de nostre Autheur, je veux bien, quoy qu'à ma honte et imparfaitement, mais tousjours à propos de la Tragedie, exposer⁎ encore icy mes sentimens sur cette matiere.
+
+Je me suis cent fois estonné, Lecteur, de ce que dit Aristote touchant l'effect⁎ de la Tragedie, que par l'horreur et par l'effroy elle nous purgeoit de l'un et de l'autre [228], car il me sembloit que sa principale fin estoit de nous en remplir ; Neantmoins considerant la chose de plus prés, j'ay trouvé qu'il avoit raison, puisqu'en effet⁎ la veuë d'un acte terrible et espouvantable, tel qu'on les represente d'ordinaire dans les Tragedies, en imprime dans nos coeurs une si forte aversion, qu'elle est capable d'estouffer tout ce que nous pourrions jamais concevoir de semblable : Aussi, dit-il, que la Tragedie est une invention de personnes graves [229] ; comme s'il vouloit nous faire entendre⁎ par là, qu'elle n'a esté instituée que pour seconder la Philosophie à nous retirer du vice, et pour nous monstrer au doigt ce que les meditations de l'autre nous enseigneroient peut-estre inutilement ; De là vient qu'elle ne nous propose que de grands exemples, et le plus souvent de personnes meilleures que nous, afin de nous estonner davantage par cette comparaison. De là vient aussi que tant d'excellens hommes n'ont point estimé indigne d'eux, de nous laisser de gros volumes touchant ses regles, et bien souvent sans dire un seul mot de la Comedie [230] ; En consideration dequoy tu me permettras de remarquer, qu'encore que la Comedie soit appellée le miroir de la vie, neantmoins elle ne nous propose pas tant nos diformitez, pour les corriger, que pour nous en faire rire [231] ; au contraire cette vaine delectation qu'elle nous donne ne sert qu'à reveiller nos vices, de mesme que ces foibles medicamens qui émeuvent plutost les mauvaises humeurs qu'ils ne les arrachent ; Il n'en va pas ainsi de la Tragedie ; elle n'a pas pour but le plaisir, mais le remede ; ce n'est pas un amusement inutile de la veüe, mais une severe reformation de nos mœurs ; elle attendrit nos coeurs et fait fondre nos yeux en larmes, et si elle nous monstre nos taches, elle nous fournit en mesme temps dequoy les laver. Supposé donc que la Tragedie soit un instrument serieux de la Philosophie, qui croira qu'il la faille manier en se joüant ? qui croira que ces grands hommes qu'elle nous fait voir, ne soient pas plutost introduits pour nous instruire qu'afin de nous chatouïller seulement les oreilles ? Ces affeteries de langage [232] sont comme le fard d'une femme desbauchée, laissons-les à la Comedie ; La Tragedie est belle et majestueuse de soy ; loin d'elle ces ornemens estrangers, et ces legeres subtilitez entierement ennemies du poids de ses evenemens. Qui ne sçait aussi que les personnages que la Tragedie nous represente estant tous occupez en de grandes passions, ne se possedent pas assez eux-mesmes pour discourir avec tant de gentillesses ? Qui ne sçait que
+
+            La douleur qui s'exprime  
+Avec tant soit peu d'art, pert son nom legitime,  
+Deroge à sa naissance ?  
+
+Et que nous seulement la douleur, mais toute sorte de mouvemens violens ne demandent point de paroles ambitieuses, mais veritables, n'en veulent point qui soient nées sur les lévres, mais qui soient conceuës dans le coeur ? Combien y a t'il que ce judicieux Precepteur de l'Eloquence Latine [233], nous a crié, que trop de diligence empiroit bien souvent nostre stile, que les meilleures pensées estoient celles qui nous venoient le plus aysément, qui estoient les moins tirées de loin, qui approchoient le plus de la simplicité, et qui sembloient sortir de la chose mesme ? Que ces elocutions qui tesmoignoient trop de travail, et qui paroissoient composées avec artifice, n'avoient ny grace, ny vertu pour persuader, parce qu'elles portoient ombre au sens, et luy nuisoient de la mesme façon que des herbes trop fortes estouffent les bonnes semences ; Que par une certaine envie de parler nous allions à l'entour de ce qui se pouvoit dire sans tant biaiser ; que nous repetions ce que nous avions desja suffisamment touché ; que nous chargions de beaucoup de mots ce qu'un seul decouvroit, et qu'enfin nous faisions plus de cas de signifier, que d'exprimer beaucoup de choses ? Par là tu vois comme la dignité des pensées doit estre preferée à l'elegance des paroles, afin qu'on s'arreste plus à ce qui se dit, qu'à la façon dont on le dit : Aussi est il bien juste, que ce qui vaut mieux paroisse davantage et que l'éclat de la diction n'obscurcisse pas la lumiere des sentimens, puisque l'une n'a esté trouvée que pour servir à l'autre.
+
+Ce qu'il faut particulierement observer dans les discours de Theatre qui passent viste, et qui, s'ils sont trop figurez, ne s'accomodent pas à l'intelligence de tous ceux qui esccoutent. C'est pourquoy un grand Maistre ordonne, que le stile du Poëte soit moins magnifique que celui de l'Orateur, et qu'il parle plutost en citoyen, que non pas en Historien [234] ; Et le mesme remarque que les Anciens choisirent le vers lambique pour leurs Tragedies, parce qu'il tomboit sans y penser dans la bouche de ceux qui discouroient ensemble ; et non pas l'hexametre, qui n'estoit pas si familier et qui s'élevoit par trop ; Et quant à moy je croy qu'ils se seroient abstenus de toute sorte de vers, n'estoit qu'ils frappent plus agreablement l'oreille, et qu'ils servent aucunement à soulager la memoire des acteurs : Joint que de prononcer de la prose au ton qu'il faut pour le Theatre, n'a pas si bonne grace, et ressent sa personne furieuse, ou qui parle à des sourds ; là où le vers porte naturellement quant et soy⁎ ce renforcement et ce rehaussement de voix sans qu'on encoure pas un de ces inconveniens. Ils estoient donc bien loin de mesler dans leurs Tragedies de ces Poësies difficiles et couppées que nous appellons Stances, et qu'on a introduites pour faire des plaintes avec plus d'artifice : Surquoy j'advertiray en passant, que si l'on s'en veut servir, au moins il faut qu'il paroisse que celuy qui les prononce ait eu le temps de les mediter ; car toute grande passion pouvant rendre Poëte, et les Stances tenant lieu de Vers parmy les autres, qui sont comme de la prose en comparaison, on les supportera beaucoup mieux de cette façon, que non pas si elles naissent à l'instant mesme, et de l'occasion qui se presente ; mais tousjours doivent elles estre extremement naïfves, sans qu'il soit besoin⁎ d'y rechercher ces subtilitez si fort estudiées, ny d'armer la fin de chaque dernier vers d'une pointe [235]. En effect⁎ qu'elle apparence y a-t'il qu'un amant⁎ bien affligé trouvast les pensées qu'on luy met d'ordinaire en la bouche, c'est à dire, qu'un miserable se joüast ainsi de sa misere ? Seroit-il possible que de l'esprit restast encore si vif, quand le coeur se meurt ? que l'un fust en paix quand l'autre est dans le trouble, et que l'abondance des pleurs, ainsi qu'une forte pluie ne fust pas capable d'effacer ou de faire languir toutes ces belles fleurs de Rhetorique [236] ? Aussi ne les rencontreras tu pas dans nostre Autheur, et quand je t'invite à la lecture du Soliman, ce n'est pas à un Jardin, mais à une Scene Tragique que je t'invite. Tu n'y trouveras point, pour ainsi parler, ces riches canaux de cristal et de marbre qui ravalent le prix et l'éclat des eaux qu'ils reçoivent, mais bien des pensées qui coulent d'une veine naturelle. Tu n'y verras point briller d'un costé et d'autre ces petites estincelles d'esprit qui donnent dans la veuë ; mais tu y reconnnoistras par tout une grande splendeur et lumiere de jugement ; En un mot tu y seras comme en un jour clair et serain, illuminé d'un seul Soleil, mais qui vaut mieux que cent mille estoilles.
+
+Car je ne croy pas (Lecteur) avoir esté si malheureux que ma version ait fait perdre à Bonarelli tout son lustre ; Je me suis approché le plus pres que j'ay pû de son stile et de ses pensées tant pour les raisons que je viens de declarer, que parce que j'estime qu'il faut estre aussi religieux et fidele à rendre l'autheur que nous traduisons, que les Peintres le sont à tirer les lineamens [237] de nostre visage ; Mais comme bien souvent ils font des portraits plus petits que le naturel, qui ne laissent pas toutesfois d'estre bons ; aussi je t'avouë franchement qu'encore que j'aye resserré beaucoup de choses en nostre Autheur, et que je sois demeuré partout au dessous de sa naïveté, neantmoins j'ay tousjours imité sa façon, mesme quand je me suis escarté de luy, et qu'en fin il s'en faut peu que je ne te donne son entiere ressemblance : De sorte que si tu mesprises le Peintre et sa peinture, tu dois pour le moins faire cas du personnage qui t'est representé. Et de fait c'est tout ce que j'espere, que Bonarelli en l'estat mesme où je l'ay mis, retient encore de sa naissance assez de grace et de majesté pour gagner ta bienveillance et ton respect, et pour luy et pour moy. Car pour ce qui est des couleurs et de l'estoffe dont je l'ay revestu, je veux dire pour ce qui regarde les vers que je lui ay prestez, j'ay desja donné tant de preuves de mon peu de suffisance en ce métier, que ce seroit un miracle si j'y avois bien reüssy : Le feu qui fait le Poëte ressemble à ces herbes qui poussent d'elles mesme et de la seule vigueur du terroir, il ne vient point d'ailleurs ny par experience, ny par habitude, il faut que la nature nous le donne ; Mais cependant sa vertu est telle que s'il ne nous eschauffe, il nous esclaire, et que ceux mesmes qui n'ont point d'inclination ny d'ardeur⁎ à la Poësie, ne sçauroient s'empescher d'avoir quelque amour et quelque lumiere pour elle. C'est ce vin des Demons, comme l'appelle un Pere [238], qui est tout plein de tentations, et qui contraint les plus sages de suivre quelque-fois ses semonces ; Et à ce propos, si je ne craignois que cela ne fust pas assez serieux, je te ferois part d'une pensée qui me vient de naistre sur le champ ; c'est que je m'imagine que non seulement les grands hommes, comme on a fort bien remarqué, mais ceux aussi qui ne sont que mediocres, peuvent estre sujets à de certains transports et desreglemens, sans lesquels on a dit qu'on heurtoit vainement à la porte des Muses, et dont on ne sçauroit pour l'ordinaire se bien guerir et remettre, que par l'exercice de la Poësie ; de sorte que cét art seroit à nostre esprit ce que nous disions tantost que la Tragedie estoit à nostre ame, l'un et l'autre en chassant ce que nous y avons de vicieux. C'est pourquoy Aristote a dit d'un certain Marcus, citoyen de Syracuse, que son jugement s'égarant il devenoit excellent Poëte, et qu'apres il estoit plus rassis [239], mais fort mauvais versificateur ; C'est pour cette raison là mesme que Platon, Ciceron et mille autres excellens personnages n'ont peu se retenir de vacquer quelquefois à la Poësie ; et c'est pour cela encore que Socrate le plus sage de tous les hommes, un peu devant⁎ que de mourir, afin de purifier son ame, et de la rendre digne de la compagnie des Dieux, dit qu'il se sentoit solicité par son Genie de composer des Vers, à laquelle voix il obeït [240]. *Faisant un peu de Poësie D'un peu de fureur qu'il avoit.*
+
+Suivant cette doctrine, tout ainsi que je ne me dois non plus fascher de n'estre pas bon Poëte, que de n'estre pas sujet à de fortes maladies : aussi me dois-tu pardonner, Lecteur, si je retombe souvent en cette faute de versifier, puisque tu vois qu'il n'est pas tousjours absolument en nostre pouvoir de nous en deffendre ; Il suffit que je n'en fay pas profession, et que je prends seulement quelques heures de passe-temps avec la Poësie, apres avoir rendu mes soins⁎ et mes assiduitez à quelque plus digne maistresse : Car pour en parler sainement la premiere n'a rien dequoy remplir nostre esprit, si elle ne l'emprunte d'ailleurs ; de soy, elle n'est qu'une chose vuide [241], un son, une cadance ; tout son travail est en l'air, j'ay pensé dire semblable à celuy d'un danceur de corde, puisqu'en l'un et en l'autre il faut tousjours prendre garde aux pieds. Ce discours n'est pas d'un homme qui se sente bien avec elle ; Aussi fay-je plus de cas de cette connoissance de moy-mesme où tant de personnes s'abusent, que de tous les lauriers du Parnasse ; Et quand je me suis diverty à la Poësie, ce n'a pas esté dans la creance ny dans l'esperance mesme de faire de beaux vers ; mon principal but a tousjours esté de profiter dans l'imitation des choses que je voyois, et de me former dans l'esprit une idée pareille à celle que je m'essayois de rendre ; Tu le peux reconnoistre à ce que je ne me suis jamais proposé que les plus grands exemples, où comme on est obligé de s'attacher davantage à l'original à cause de son excellence, aussi est-il plus difficile de bien reüssir dans le tour des vers qui demandent de marcher en pleine liberté. Mais y avoit-il aucune consideration de rithmes qui me peust exempter avec raison de suivre pas à pas un Aminte [242], la premiere et la plus achevée des Pastorales qui ait esté composée d'une action entiere, et avec toutes les parties requises à une piece de Theatre ? Devois-je m'esloigner le moins du monde des pensées pompeuses d'une Pompe Funebre [243] qui ne dement point la reputation de son Autheur, ce divin Philosophe Caesar Cremonin [244] ? Devois-je changer celle d'un Torrismon [245], dont Casoni [246] le meilleur esprit de son temps a dit, qu'il relevoit la langue Italienne à l'égal de la Grecque et de la Latine ? Enfin ne devois-je pas imiter le plus que je pouvois un Soliman, dont j'espere pourtant qu'un plus habile que moy, te fera mieux voir l'un de ces jours les merites. Au moins entre beaucoup d'autres avantages, aura-t'il celuy-cy, qu'il ne s'écartera point du dessein de Bonarelli, et n'ira point chercher ailleurs une conclusion nouvelle ; Ce que j'ay creu pouvoir faire, tant pour la raison du bon exemple que j'ay desja dite, qu'à cause qu'il m'a semblé qu'apres la condamnation de Mustapha et de Persine au supplice, il ne restoit plus rien à souhaiter aux spectateurs qu'une Catastrophe [247] et revolution entiere de fortune⁎. Autrement il m'estoit aisé de mettre apres la reconnoissance de Mustapha, qui selon nostre Autheur fust arrivée trop tard pour le sauver, le recit de la mort des deux Amants⁎, avec les regrets et le desespoir de Roxolane et de Soliman sur la perte de leur fils innocent ; deux endroits⁎ ou nostre Bonarelli triomphe ; Mais j'ay mieux aymé faire comme j'ay fait, appuyé des raisons que je t'ay exposées⁎ ; et au peril mesme que la fin de mon Soliman apres que tu l'aurois veuë ne te causast un desplaisir pareil à celuy que l'on ressent de la fausseté d'un joyau que l'on croyoit vray, laisser l'autre conclusion à une personne qui devoit faire éclatter la piece dans toutes ses beautez en des vers et plus doux et plus agreables. Il est bien vray pourtant que ceux que je te donne eussent aucunement esté plus accomplis, sans le malheur qui en a fait perdre l'exemplaire entre les mains de ceux qui l'avoient en garde ; On m'a voulu persuader que celuy dont je viens de parler pouvoit bien l'avoit fait soustraire, et que j'avois dit de luy par un esprit de prophetie, que la plume de l'Aigle [248] devoreroit la mienne ; mais j'ay tousjours respondu à cela, qu'il n'estoit pas croyable que cét Aigle n'eust peu souffrir⁎ le petit éclat que mon Soliman a rendu, et qu'encore qu'il conversast depuis quelque temps avec les Turcs, neantmoins il estoit trop bien nay pour imiter leur damnable coustume de faire mourir leurs feres afin de regner tout seuls ; Quoy que c'en soit je desirerois que cet inconvenient qui m'a fait haster l'impression de cette Tragi-Comedie servist en quelque façon d'excuse à mes fautes, si je n'avois desja renoncé à la gloire de faire de beaux vers, et principalement dans une version et aux despens d'autruy, où toute la loüange qu'on puisse acquerir, quand on auroit le mieux reüssi du monde, c'est celle qui se donne aux Acteurs qui representent bien une piece qu'un autre aura inventée. Aussi, pour me flatter un peu moy-mesme, quand je voudray affecter le nom de Poëte, je ne pense pas estre si pauvre que je ne trouve encore devers⁎ moy quelques ouvrages de ma façon, qui me pourront legitimement faire prendre part à cet honneur ou à cette fumée ; Ce ne sont point des pieces de Theatre que j'entends⁎ par là ; Je confesse franchement que j'ay un trop petit fonds d'esprit pour fournir un si vaste champ ; Et puis pour rendre ce témoignage à la verité, nous sommes en un temps où ce qui a tousjours deu faire peur à cause de l'eminence de l'art, doit espouvanter et sembler temeraire pour l'excellence de quelques uns qui s'en meslent, dont les chef-d'œuvres donnent bien de l'enuie, mais desesperent de les pouvoir imiter ; de sorte que ce qui reste maintenant de gloire à la plus-part des autres ouvrages de ce genre, c'est seulement d'avoir veu le jour soubs leur regne ; Et c'est pour le respect qui leur est deu que je dis à mon Soliman, que tout grand Seigneur qu'il soit, il ne se monstre pas aupres d'eux, et moins encore aupres de ce dernier miracle, qui porte comme lui, mais à meilleur tiltre, le nom de Seigneur et de Tragi Comedie,
+
+
+*Sed longè sequere, Et vestigia pronus adora* [249].
+
+Ce n'est donc point de ces longs et penibles ouvrages de Theatre que je me vante, mais d'autres qui ne demandent point de si grands efforts d'esprit, et dont la petitesse ainsi que des moindres figures ne donne pas tant de lieu pour remarquer la foiblesse et les defauts de leur Autheur, comme font les Sonnets, les Stances, et de semblables pieces Lyriques. Il y a desja long-temps que je t'en eusse donné une bonne partie, si tant que j'ay peu te faciliter la conversation de plus honnestes gens que moy, je n'avois tousjours beaucoup mieux aymé m'y employer ; De cecy font foy⁎ les versions que j'ay citées, et quelques unes encore d'une autre espèce, qui sont par avanture plutost tombées entre tes mains, et que je passe soubs silence, de crainte que si je publiois icy toutes mes fautes, tu ne creusses avec raison que j'aurois entrepris de faire une confession generale ; Mais maintenant que je ne connais plus de subjects de Theatre qui meritent la peine de les traduire, ou que si j'en connois ils ressemblent à ces arbres qui ne peuvent estre transplantez, ils renviendroient fort mal à nostre langue : et que d'ailleurs, il ne m'est pas permis de mettre au jour quelques versions en Prose, qui pour la gravité des matieres ne seroient pas sans doute de peu d'utilité (quoy que d'aucuns [250] estiment tout ce qui peut divertir assez profitable) ; J'espere qu'apres tant de Tragedies et de Comedies qui ont cours maintenant, le meslange ou l'essay Poëtique que je te veux desormais preparer, aura dequoy contenter la curiosité des plus diffciles. Je te declaire neantmoins que ces vers estant les premiers, et peut-estre les seuls que tu verras de mon invention, je n'ay pas envie de rien precipiter. Je tiens d'un grand Maistre que qui publie une chose qu'on ne lui demande pas, sans aucune necessité, publie aussi la confiance qu'il a en son jugement, et en la bonté de ce qu'il donne, laquelle chose si elle se trouve mauvaise, l'Autheur ne sçauroit éviter d'estre accusé de malice, ou d'impertinence, d'avoir voulu tromper autruy, ou de s'estre laissé tromper soy-mesme ; de façon qu'il vaut mieux pour moi que j'accroisse un peu ton attente par mon retardement, que si par une vaine ambition je ne mettois au hazard de haster ma propre honte [251]. Je conclurray, Lecteur, ainsi que j'ay commencé, par une authorité des Anciens, lesquels respresentoient une tortuë aux pieds de l'image de Minerve [252], afin de nous apprendre, comme il est bien croyable, qu'en ce qui vient de nostre teste, nous ne pouvions jamais aller trop lentement, et que pour une bonne production de l'esprit, aussi bien que pour un heureux enfantement du corps, la rentenuë et la maturité sont également necessaires. Adieu.
+
+            Fautes survenuës en l'impression
+
+Dans la Preface. Touche seulement à l'égal de nous mesmes, lisez à l'égard.
+
+Page 87. Quel est cruel Destin aujourd'huy ton envie ? lisez. Quelle.
+
+Page 101. Que la Reyne a formé par ce fils innocent.lisez, pour ce fils.
+
+Page 105. Et seul à sa malice ay fourny de matiere. Lisez, l'ay seul, etc…
+
+
+## Privilege du Roy.
+
+Louis par la grace de Dieu Roy de France et de Navarre, A nos amez et feaux [253] les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevots, Juges, ou leurs Lieutenans, et à chacun d'eux en droict foy, Salut. Nostre cher et bien-amé *le sieur Dalibray*, nous a fait remonstrer, qu'il desireroit imprimer et mettre en lumiere une Tragi-Comédie, intitulée, *Le Soliman*, par lui composée: mais craignant que l'Impression ne luy soit dommageable si d'autres que luy s'ingeroient [254] de le faire imprimer, il nous a requis nos Lettres sur ce necessaires. A ces causes, Nous avons permis, et octroyé, permetons et octroyons audit sieur Dalibray d'imprimer ou faire imprimer ladite Tragi-Comédie, par tels Libraires que bon luy semblera, et qui auront droit de luy, icelle vendre et exposer⁎ durant sept années, pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et deffenses à tous autres Libraires et Imprimeurs de la faire Imprimer, vendre, ny debiter, sur peine de perte des exemplaires, et de cinq cens livres d'amende, despens, dommage et interests: Et afin qu'ils n'en pretendent cause d'ignorance, Nous voulons qu'en faisant mettre en fin des exemplaires autant des presentes, elles soient tenues pour certifiées. A la charge toutesfois [255] de mettre deux exemplaires de ladite Tragi-Comedie dans nostre Biblioteque des Cordeliers à Paris et un exemplaire d'icelle és mains de nostre amé et feal256 Chevalier Chancelier Garde des Seaux de France, le sieur Seguier Dautruy. Car tel est notre plaisir. Donné à Paris le vingt-septiesme jour de Fevrier l'an de grace, mil six cens trent-sept. Et de nostre regne le vingt-septiesme. Par le Roy en son Conseil⁎, PETIT. Et scellé du grand seau de cire jaune.
+
+Achevé d'imprimer le 30. Juin 1637
+
+Et ledit sieur Dalibray a cedé et transporté le present Privilège à Toussainct Quinet Marchand Libraire, pour jouyr du contenu porté par iceluy, ainsi qu'il a esté accordé entre-eux
+
+
+## LES ACTEURS
+ – SOLIMAN.Roy de Thrace.
+ – RUSTAN.Gendre de Soliman.
+ – ACMAT.Conseiller.
+ – OSMAN.Gentil-homme de Rustan.
+ – PERSINE.Fille du Roy de Perse deguisée en garçon, amoureuse de Mustapha.
+ – ALVANTE.Pere Nourricier de Persine.
+ – LA REYNE.Femme de Soliman.
+ – SELINE.Confidente de la Reyne.
+ – MUSTAPHA.Fils de Soliman.
+ – SOLDATS.De la garde de Soliman.
+ – ORMENE.Pere Nourricier de Mustapha.
+ – ADRASTE.Lieutenant de Mustapha.
+ – MESSAGER.
+ – DEVIN.
+ – GENTIL-HOMME DE SOLIMAN.
+ – L'AMBASSADEUR DE PERSE.
+La Scene est en Alep, ville de Syrie
+
+
+
+## ACTE PREMIER
+
+
+### SCENE PREMIERE.
+SOLIMAN. ACMAT. RUSTAN.
+
+
+    SOLIMAN.
+Moi qui me figurois que jusques dans Bizance [256],  
+Ils viendroient à mes pieds implorer ma Clemence :  
+Me voicy dans Alep, et ces fiers ennemis  
+Ne se sont pas encore à mon pouvoir soubmis !  
+O Dieu quelle fureur ! Quel orgueil ! Quelle audace !  
+Les Perses resister au grand Seigneur [257] de Thrace !  
+Ont-ils donc oublié que nos moindres efforts,  
+Ont mille fois couvert⁎ leurs campagnes de morts ?  
+Veulent-ils derechef⁎ tenter une fortune⁎  
+Qui leur prepare à tous une cheute commune ?  
+Car (assurez-vous-en) nos bras victorieux [258]  
+Perdront de ces mutins l'Empire glorieux :  
+Le Ciel qui dés-long-temps medite leur ruine [259],  
+A si belle entreprise⁎ aujourd'huy me destine.  
+Obeyssons lui donc, et tous ayez pour moy  
+Dans le cœur, le courage, et dans l'ame, la foy⁎.  
+
+    ACMAT.
+Grand Roy, nous attendons la fin de cet ouvrage,  
+Moins du Ciel, ou du Sort, que de vostre courage :  
+Et nous suivrons les pas de vostre Majesté,  
+Le cœur remply d'ardeur⁎ et de fidelité.  
+
+    RUSTAN.
+Commandez seulement, et vous pourrez connestre  
+De quel zele⁎ Rustan est porté pour son Maistre :  
+Au moindre signe d'œil, j'iray, Sire, pour vous      
+M'exposer⁎ hardiment à la fureur des coups.  
+Ah que n'est la journée et l'heure desja preste [260],  
+Où nous devons avoir nos ennemis en teste ! [261]  
+Car alors je mourray d'un glorieux trespas,  
+Ou vous apporteray la teste de Tamas.  
+
+    ACMAT.
+Que sert de faire au Roy cét offre temeraire ?  
+Le propre d'un guerrier c'est d'agir et se taire.  
+
+    RUSTAN.
+Qu' inferes-tu de là ?  
+
+    SOLIMAN.
+Silence, taisez-vous.  
+Je connois le merite et la valeur de tous.  
+Mais allons, que du camp la place soit choisie,  
+Attendant que mon fils arrive d'Amasie [262].  
+
+    RUSTAN *tout bas.* [263]
+Que puisse-t'il plustot estre privé du jour,  
+Seigneur, la Reyne attend que je sois de retour,  
+Je la vay retreuver⁎ si j'en obtiens licence [264].  
+
+    SOLIMAN.
+Allez  
+
+
+### SCENE DEUXIESME.
+SOLIMAN. OSMAN. ACMAT.
+
+
+    SOLIMAN.
+Je vois Osman qui devers⁎ moy s'avance,  
+Il revient d'Amasie, et rapporte joyeux,  
+Des nouvelles qu'on lit desjà dedans ses yeux.  
+
+    OSMAN.
+Invincible Seigneur, Roy le plus grand du monde,  
+Qu'ainsi tousjours [265] le Sort à vos souhaits responde :  
+Ce fils de qui la gloire a l'univers ravy  
+Osman estoit du party de Rustan, et loue Mustapha pour le rendre suspect à Soliman
+
+Le brave Mustapha, de cent Princes suivy,  
+Arrive dans Alep.  
+
+    ACMAT.
+O nouvelle agréable !  
+
+    SOLIMAN.
+Et qui remplit mon cœur d'une joye incroyable.  
+A ce conte [266] ses soins⁎ furent bien diligens⁎ !  
+Comment a-t'il si tost ramassé tant de gens ?  
+
+    OSMAN.
+Le seul bruit de son nom et de sa renommée,  
+Pourroit en moins de temps lever toute une armée,  
+L'esclat de sa valeur sans exemple et sans pris  
+Est l'attrait et l'aymant des cœurs et des esprits.  
+
+    ACMAT.
+Que j'ayme ses vertus, et qu'on me parle d'elles ;  
+Là se fonde l'espoir des Ministres⁎ fidelles [267] !  
+Mais, Sire nous devons quant et quant [268] avoüer,  
+Que loüer Mustapha c'est aussi vous loüer :  
+Un ruisseau clair et net nous fait veoir [269] en sa course,  
+Qu'il a tiré son eau d'une plus vive source.  
+
+    SOLIMAN.
+Retournons sur nos pas, afin de recevoir  
+Ce fils qui fait par tout éclatter [270] mon pouvoir.  
+
+    ACMAT.
+Sire, continuez [271] vostre premier voyage [272],  
+Et recevez au camp ce fils plein de courage,  
+Il l'a bien merité, l'honneur qui semble deu  
+Pousse à faire encor [273] mieux alors qu'il est rendu.  
+Puis vous sçavez qu'il vient accompagné de Princes,  
+Qui ne sont point sujets aux loix de vos provinces,  
+Si bien que vous pouvez sans vous faire aucun tort,  
+Les accueillir au camp, dés leur premier abord.  
+Rien ne peut dans la guerre exciter le courage,  
+Comme un Prince qui monstre un gracieux visage,  
+Et les moindres regards dont il flate nos sens,  
+Pour faire aimer la mort, ont des charmes puissans.  
+
+    SOLIMAN.
+Ce que tu dis, Acmat, ne souffre⁎ point de doute,  
+C'est pourquoy poursuivons nostre premiere route.  
+Toy, vas dire à Rustan qu'il s'en vienne apres⁎ moy  
+Si tost qu'il aura sceu ces nouvelles de toy :  
+Cours et fais promptement ce que je te commande.  
+
+    OSMAN.
+Que ne fais-je aussi-bien ce que Rustan demande,  
+Dont je viens d'observer, comme j'ay tousjours fait,  
+Les preceptes et l'art⁎, peut-estre avec effet⁎ ;  
+Car quoy que le Roy feigne, on tient cette maxime,  
+Qu'un vieux Roy, de son fils, hait la trop grande estime. [274]  
+
+
+### SCENE TROISIEME.
+PERSINE, ALVANTE.
+
+
+    PERSINE
+D'où l'as-tu donc appris ?  
+
+    ALVANTE.
+C'est le bruit de la Cour,  
+Et puisque Soliman n'attend que son retour,  
+Pour venir fondre⁎ en Perse et nous faire la guerre,  
+Madame, treuvez⁎ bon de quitter cette terre.  
+Retournons vers Tamas luy faire tout sçavoir,  
+Afin qu'en diligens⁎ il y puisse pourvoir.  
+
+    PERSINE.
+Mais si, comme tu dis, dans peu le fils de Thrace,  
+Doit faire voir icy ses gens et leur audace,  
+Faut-il m'en retourner sans avoir aujourd'huy  
+Jugé de la valeur de ses gens et de luy ?  
+Faisant une action si fort deraisonnable,  
+Je perds de mon dessein l'effet⁎ le plus loüable,  
+Et rends ma hardiesse et ce deguisement,  
+Au lieu d'estre loüez, dignes de chastiment.  
+
+    ALVANTE.
+Les soldats que le Prince ameine en cette ville,  
+Si j'ay bien entendu⁎, sont à peine dix mille :  
+Dans un nombre de gens petit comme le leur,  
+Que peut-on remarquer d'audace et de valeur ?  
+Mais ce qui me fait peur, c'est la puissante armée,  
+Et depuis si long-temps à vaincre accoustumée,  
+Que suivant votre advis, j'epiois ce matin,  
+Et qui va de la Perse achever le destin.  
+Partons donc tout à l'heure, afin que votre Pere  
+Ait le temps d'aviser à [275] ce qu'il faudra faire.  
+
+    PERSINE.
+Alvante, attends encor.  
+
+    ALVANTE.
+Ce seroit vous trahir :  
+En toute autre sujet je suis prest d'obeïr :  
+Quelle necessité vous oblige à cette heure  
+A vouloir faire icy de plus longue demeure [276] ?  
+Ah ! Retournons Persine, et si le Sort heureux  
+A suivy jusqu'icy vos desseins genereux⁎,  
+Songez qu'il peut tourner ce visage agreable [277],  
+Et que son naturel c'est d'estre variable ;  
+Car si l'on nous descouvre, hé bon Dieu ! quelle main  
+Vous pourra retirer de ce peuple inhumain.  
+
+    PERSINE.
+Mais si je pars, je cours fortune⁎ de la vie.  
+
+    ALVANTE.
+Hé par qui, hors d'icy, peut-elle estre ravie ?  
+Dieu comme elle se trouble, ah ! Madame parlez,  
+Et que je sçache au vray ce que vous me celez⁎.  
+
+    PERSINE.
+Oüy, la foy⁎, qui depuis que m'esleva ta femme,  
+S'est fait voir à mes yeux si pure dans ton ame,  
+A bien, mon cher Alvante, aujourd'huy merité,  
+Que tu sçaches de moy toute la verité ;  
+Apprends que le subjet qui me tira d'Arsace [278],  
+Ne fut pas d'espier [279] les desseins de la Thrace :  
+Mais qu'un beaucoup plus noble et plus fort mouvement⁎  
+M'a fait venir icy sous cet habillement ;  
+Un mouvement⁎ d'amour, que tu croiois de hayne.  
+
+    ALVANTE.
+Un mouvement⁎ d'amour, est celuy qui vous meine  
+Et pour qui ?  
+
+    PERSINE.
+Pour celuy qu'on attend aujourd'huy.  
+
+    ALVANTE.
+Vous avez de l'amour pour Mustapha ?  
+
+    PERSINE.
+Pour luy.  
+
+    ALVANTE.
+Helas ! qu'ay-je entendu⁎, quelle est vostre pensee ?  
+Et depuis quand vostre ame est elle ainsi blessee ?  
+
+    PERSINE.
+Le Soleil a desja deux fois dedans les Cieux,  
+Rallumé le courroux du Lion [280] furieux [281],  
+Depuis le jour fatal que l'amoureuse flamme  
+Passa dedans mes yeux pour consommer [282] mon ame.  
+De te dire à present d'où s'alluma ce feu,  
+Ou comment je fus prise, il importe fort peu :  
+Alvante sois content de sçavoir que je l'ayme,  
+Et que s'il l'en faut croire, il me cherit de mesme.  
+Si bien que pour donner à ce cœur langoureux,  
+Le doux soulagement d'un regard amoureux,  
+Et sçachant en ce lieu son heureuse venuë,  
+J'y vins avec toy seul, et sans estre connuë ;  
+C'est donc luy que j'attends, luy dont je veux tirer,  
+Les effets⁎ de la foy⁎ qu'il ma voulu jurer :  
+Car mon tourment s'accroist plus l'Hymen se differe,  
+Et plus l'Hymen retarde, et plus j'en desespere.  
+C'est Alvante en un mot ce que je me promets,  
+Et voilà, tu connois mon secret desormais.  
+
+    ALVANTE.
+O fille sans esprit ! pardonnez moy Madame  
+L'excez d'affection qui me transporte l'ame :  
+Par qui vous estes vous laissee ainsi charmer ?  
+Quelle amour [283] est-ce là ? quelle façon d'aimer ?  
+Pouvez vous voir ainsi vostre gloire fletrie  
+Et violer [284] la foy⁎ deuë à vostre patrie ?  
+Suivez vous deguisée, avec tant de fureur,  
+Un ennemy qui n'a pour vous que de l'horreur ?  
+Sçavez vous pas [285] qu'ils ont en ce païs infame,  
+Le serment dans la bouche et le parjure en l'ame ?  
+Ainsi tout glorieux de vous manquer de foy⁎,  
+Il ira triomphant de la fille d'un Roy !  
+Pouvez vous donc souffrir⁎ cette infamie extresme,  
+D'aller de vostre honneur luy faire offre vous mesme ?  
+Vous mesme à votre honneur en vain et sans raison,  
+Vous ferez sans rougir si lâche trahison ?  
+
+    PERSINE.
+Que cela desormais, amy, ne te soucie,  
+Je reconnois ton zele⁎ et je t'en remercie :  
+J'appröuve tes raisons, j'approuve ta bonté,  
+Mais je ne sçaurois plus changer de volonté :  
+L'Amour me le deffend, et me donne asseurance,  
+Que ce Prince mieux né sera plein de constance⁎ :  
+Car si des Cavaliers [286] gardent si bien leur foy⁎,  
+Que doit faire celuy dont ils prennent la loy ?  
+
+    ALVANTE.
+Je veux [287] qu'il soit fidelle, et plein de courtoisie.  
+Aujourd'huy que son pere avec toute l'Asie,  
+Au milieu de la guerre est en sa Majesté,  
+Et par tout l'Univers se void si redouté,  
+Sans craindre le succez de son outrecuidance,  
+Ozera-t'il traiter d'une telle alliance ?  
+Non, ne le croyez pas : changez donc de dessein,  
+Et voyez mes raisons d'un jugement plus sain :  
+Car Madame, escoutez encore une parole,  
+Si vous n'abandonnez cette entreprise⁎ fole [288],  
+Ou ne la reservez à quelque temps meilleur,  
+Puissé-je estre trompé, je vous predis mal-heur [289].  
+
+    PERSINE.
+Toutes sortes de maux me seront agreables,  
+Et les tourmens d'Amour sont bien moins tolerables.  
+
+    ALVANTE.
+On vient. Fuyons ; le Ciel releve ta vertu [290] !  
+
+    PERSINE.
+Helas de trop d'ennuys⁎ mon cœur est abbatu.  
+
+
+### SCENE QUATRIESME
+LA REINE. SELINE.
+
+
+    LA REINE.
+J'ignore en quel endroit⁎ mon pié douteux me guide,  
+Au trouble des pensers [291] qui me rendent timide.  
+
+    SELINE.
+Ceux qui renferment mieux leurs pensers au dedans,  
+Sont Madame, à la Cour tenus les plus prudens [292] :  
+C'est pourquoy je voudrois ; qu'avecques [293] plus d'adresse,  
+Vous retinssiez couvert⁎ le tourment qui vous presse,  
+Moderez votre plainte, usez d'un doux accueil,  
+Envers cét ennemy, bouffi de tant d'orgueil :  
+Enfin n'oubliez rien qui vous rende croiable,  
+Alors qu'aupres du Roy vous le rendrez coupable.  
+
+    LA REYNE.
+Hé comment recevoir avec un doux accueil,  
+Un [294] qui mettra mon fils, et moy-mesme au cercueil ?  
+Comment ayant le cœur en guerre, et dans l'orage,  
+Montreray-je la paix, et le calme au visage ?  
+
+    SELINE.
+Mais vostre inimitié du moins se doit cacher,  
+Voiant que Soliman l'ayme et le tient si cher ;  
+Feignez de luy porter une amitié⁎ semblable,  
+Vous en serez au Roy d'autant plus agreable,  
+Et par là vos discours auront plus de credit,  
+Plus on ayme quelqu'un, plus on croit ce qu'il dit.  
+
+    LA REYNE.
+Ha ! Seline, un temps fut que je pouvois bien croire  
+Que le Roy m'eslevoit à ce degré de gloire :  
+Mais maintenant helas ! et c'est là mon tourment,  
+Il n'est plus embrazé d'un feu si vehement.  
+
+    SELINE.
+Que dites-vous, Madame, et quel nouvel indice  
+Tesmoigne qu'envers vous son feu se refroidisse ?  
+
+    LA REYNE.
+Celui-cy justement qu'il m'en donne ce jour,  
+Ayant pour Mustapha tant d'estime et d'amour ;  
+Car il m'apprend assez qu'au Sceptre il le destine,  
+De Selin [295], et de moy, meditant la ruine.  
+Qu'en vain sur son amour je fonday mon espoir,  
+Je commence, et trop tard, à m'en appercevoir :  
+Son amour qui me fit, par un dessein contraire  
+Garder ce second fils aupres du Roy son Pere,  
+Au lieu de l'exposer⁎, le sauvant de la mort,  
+Ainsi que je fis l'autre, à la mercy du Sort [296].  
+Je creu que Soliman espris de cette flamme  
+Que Circasse estant morte, il eut pour moy dans l'ame,  
+Me lairroit [297] de ses feux un tesmoignage entier,  
+En choisissant ce fils pour unique heritier.  
+Mais bien loin de regner, je connois à cette heure,  
+Qu'il faudra qu'avec moy le miserable meure.  
+
+    SELINE.
+Oüy, si vous n'essaiez avec la mort d'autruy,  
+De destourner ce mal, et de vous et de luy.  
+Donc pour y parvenir, usez d'art⁎ et de ruse,  
+Pour vivre, et pour regner, tout se fait, tout s'excuse.  
+
+    LA REINE
+Je te croiray, Seline, et veux dés aujourd'huy,  
+Commencer à le perdre, et me tirer d'ennuy⁎.  
+Fin du premier Acte.
+
+
+## ACTE II.
+
+
+### SCENE PREMIERE.
+SOLIMAN, MUSTAPHA, ACMAT, RUSTAN, OSMAN.
+
+
+    SOLIMAN.
+Je vay prier les Cieux de nous estre propices :  
+Toy, vas à nostre camp dessous de bons auspices,  
+Et dessus tes Soldats prens l'absolu pouvoir,  
+Qu'un General d'armée y doit tousjours avoir.  
+Si le moindre repos à ta valeur fait peine [298],  
+Dés la pointe du jour couvre toute la plaine,  
+Commence de marcher contre les ennemis,  
+Et conduis les Soldats qu'à tes soins⁎ j'ay commis*1* :  
+Je te suivray de prez avec une autre armée,  
+Et bien-tost leurs projets s'en iront en fumée.  
+
+    MUSTAPHA.
+Derechef⁎ je rends grace à vostre Majesté  
+D'un honneur que je sçay n'avoir point merité :  
+Le pouvoir qui me vient de cette main auguste  
+Ne souffrira⁎ jamais rien de lasche ou d'injuste :  
+Mais dessous la faveur d'un Prince si guerrier,  
+J'espere veoir fleurir la Palme et le Laurier :  
+Combatant pour un Roy remply de tant de gloire  
+Me pourroit-on ravir l'honneur de la victoire ?  
+Pleust aux Cieux seulement que vostre Majesté  
+Commist [299] toute la guerre à ma fidelité,  
+Et que se reservant au bien de cét Empire,  
+Elle aimast le repos que son âge desire,  
+Et non pas toutesfois sans imiter le cœur,  
+Qui ne bouge et partout espanche sa vigueur.  
+
+    SOLIMAN.
+Tu m'asseures, mon fils, en tenant ce langage,  
+De ton affection, et de ton grand courage :  
+Mais je ne puis vouloir que ce que j'ay voulu,  
+L'ordre qu'on doit tenir est desjà resolu,  
+Et je ne trouve point d'entreprise⁎ honnorable,  
+Qu'alors qu'un Roy present la rend plus venerable,  
+Et delà, les combats qui sont gagnez pour nous,  
+Comme œuvres de nos mains, nous en semblent plus doux.  
+Va donc trouver l'armée, et fay ce que j'ordonne :  
+Cependant que le Ciel de Lauriers t'environne :  
+Acmat, suivez-le au camp [300], et luy monstrez ses gens,  
+Et que pour le retour vos pas soient diligens⁎.  
+
+    MUSTAPHA.
+Je prens congé, grand Prince, et cours avecque joye,  
+Où le vouloir d'un Pere et le Destin m'envoye.  
+
+    SOLIMAN.
+Encore un coup, sois tu tousjours victorieux !  
+Je vais exprés au Temple en conjurer les Cieux.  
+
+    RUSTAN.
+Aille apres⁎ qui voudra : demeure, Osman, demeure.  
+
+
+### SCENE DEUXIESME
+RUSTAN, OSMAN.
+
+
+    RUSTAN.
+Avant que je le souffre⁎ il faudra que je meure,  
+
+    OSMAN.
+Mon Maistre qu'avez-vous ?  
+
+    RUSTAN.
+Ah ! c'est trop r'animer  
+Le feu dont contre luy je me sens enflamer.  
+Qu'en dis-tu, cher Osman ? un nouveau venu prendre  
+Le premier rang d'honneur où je devois pretendre ?  
+Quelle presomption et surquoy se fonder ?  
+Quel merite si grand le peut recommander ?  
+Nous partageons l'honneur d'une mesme famille,  
+Il est le fils du Roy, moy, l'espoux de sa fille :  
+Pourquoy donc s'usurper⁎ [301], et prendre insolemment  
+Un pouvoir qui n'est deu qu'à Rustan seulement ?  
+Mais non, n'en parlons plus, j'en auray la vengeance :  
+
+    OSMAN.
+Vostre colere est juste, et grande son offence,  
+Et cecy peut encor aigrir vostre douleur,  
+Que vous avez vous-mesme ourdy vostre mal-heur [302] :  
+D'avoir fait que chacun, comme j'ay fait moy-mesme,  
+Vantast à Soliman son merite supresme ;  
+Sans doute ces discours, contre vostre dessein,  
+Ont jetté plus d'amour que d'envie, en son sein.  
+
+    RUSTAN.
+Ainsi le plus souvent la Fortune⁎ mesprise,  
+De faire reüssir une sage entrerprise :  
+Mais je mespriseray moy-mesme ses mespris,  
+Allons : que le conseil⁎ promptement en soit pris :  
+Toy, vas voir prés du camp, comme [303] tout s'y dispose,  
+Là considre bien juqu'à la moindre chose,  
+Ce qu'on fait, ce qu'on dit, enfin rapporte moy  
+Quelque apparent [304] subjet de soubçonner sa foy⁎.  
+Vas, reviens bien instruit ; Mais j'apperçoy la Reyne.  
+
+
+### SCENE TROISIESME.
+SELINE, LA REINE, RUSTAN.
+
+
+    SELINE.
+Mais, Madame, c'est estre à soy-mesme, inhumaine :  
+
+    LA REINE.
+Tais-toy, voicy Rustan : je te treuve⁎ à propos  
+Pour en parler ensemble, et me mettre en repos.  
+
+    RUSTAN.
+Madame, dans l'estat que nous voyons l'affaire,  
+Bien plus que le discours l'effet⁎ est necessaire.  
+Je m'en allois vers vous afin d'en conferer,  
+Et resoudre sa mort ; mais sans plus differer.  
+
+    LA REINE.
+Et c'est là justement le point qui me tourmente ;  
+Car sa mort d'une part le salut nous presente,  
+D'autre part la pitié m'attendrit tellement,  
+Que je ne sçaurois presque y penser seulement.  
+
+    RUSTAN.
+Dieu qu'est-ce cecy ? qu'ay-je entendu⁎ Madame ?  
+Un mouvement⁎ si foible esbranle une telle ame ?  
+Le son de quelques mots agreables et doux,  
+Vous a fait relascher d'un si juste courroux ?  
+Avez vous oublié que s'il ne perd la vie,  
+La vie et la couronne à vous mesme est ravie ?  
+
+    SELINE.
+Ah Madame ! plustot qu'il meure mille fois.  
+
+    LA REINE.
+Je voy bien ce danger, et je vous le disois,  
+Que s'il vivoit, la mort nous estoit asseurée :  
+Mais soit pour quelque temps sa perte differée [305].  
+
+    RUSTAN.
+Pour quelque temps, Madame ? Ah ! seulement je crains  
+Que desjà nos efforts ne soient foibles et vains :  
+Helas que pouvoit-il nous arriver de pire ?  
+Et que luy reste-t'il pour obtenir l'Empire,  
+Et nous faire mourir d'une cruelle mort,  
+Chef d'une telle armée, et se voyant si fort ?  
+
+    LA REINE.
+Las que me dites vous ? Chef ! et de quelle armée ?  
+
+    RUSTAN.
+Quoy vous n'en estes pas encor mieux informée ?  
+
+    LA REINE.
+Je n'en ay rien apris.  
+
+    RUSTAN.
+Vous ne sçavez donc pas  
+Qu'il a sous son pouvoir presque tous nos Soldats ?  
+
+    LA REINE.
+Est-il donc vray !  
+
+    RUSTAN.
+Que trop : jugez donc à cette heure  
+S'il est bon qu'imparfaict nostre dessein demeure ;  
+Un Sceptre rarement s'arrache aux mains d'autruy,  
+Quand la force et le fer luy sert de ferme appuy.  
+
+    LA REINE.
+Donc en tant de façons, ô Destin plein d'envie,  
+M'ostes-tu les moyens de me sauver la vie ?  
+Comment n'a peu le Roy prevoir un si grand mal ?  
+Mais tires-nous Rustan, de ce danger fatal.  
+
+    RUSTAN.
+En ces occasions la meilleure deffense ;  
+C'est qu'il faut par esprit rompre la violence.  
+
+    LA REINE.
+Je veux à ce subjet seulement dire au Roy  
+Les soupçons qui pour luy me donnent de l'effroy ;  
+Affin que subvenant à sa propre disgrace,  
+Il nous delivre aussi du mal qui nous menace.  
+
+    RUSTAN.
+C'est le meilleur moyen que nous puissions tenir.  
+
+    LA REINE.
+Allons donc le treuver⁎ : mais le voicy venir.  
+
+
+### SCENE QUATRIESME. [306]
+LA REINE, SOLDATS, SELINE, SOLIMAN, RUSTAN.
+
+
+    LA REINE.
+Soldats, où va le Prince ?  
+
+    SOLDATS.
+Au Palais, grande Reyne.  
+
+    LA REINE.
+Arrestez-vous icy. Dieu quel soucy le gesne⁎ !  
+
+    SELINE.
+Madame, ayez bon cœur, tout vous vient à souhait :  
+Ce trouble obscurcira la verité du fait.  
+
+    LA REINE.
+Seigneur, que le Destin tousjours plus favorable  
+Vous comble d'un bon-heur qui soit incomparable.  
+
+    SOLIMAN.
+Il le peut, s'il le veut : Mais qui [307] vous meine icy ?  
+
+    LA REINE.
+Vous connoissez, Seigneur, mon amoureux soucy,  
+Et que je ne vy pas si je ne vous contemple :  
+Si bien que pour vous voir je m'en allois au Temple :  
+Avec dessein aussi que nos vœux innocens  
+Estant unis ensemble, en fussent plus puissans :  
+Mais, Seigneur, de quel mal avez vous l'ame attainte ?  
+Quelles sont vos douleurs, vos soins⁎, ou vostre crainte ?  
+
+    SOLIMAN.
+Madame, je sçay bien que vostre affection  
+A droit de s'enquerir de mon affliction ;  
+Mais il est mal-aysé qu'un autre puisse entendre⁎  
+Ce que je ne puis pas moy-mesme bien comprendre.  
+Je suis triste, je crains, et je ne sçay pourquoy,  
+Ny quel trouble importun s'est emparé de moy.  
+
+    SELINE.
+Prenez le temps, Madame.  
+
+    LA REINE.
+Hé que dites-vous, Sire !  
+
+    SOLIMAN.
+Ce qui n'est que trop vray.  
+
+    RUSTAN.
+Quand le Ciel veut prédire  
+Quelque estrange mal-heur, il se sert quelquefois  
+Du langage secret de ces muettes voix.  
+
+    SOLIMAN.
+Quoy qu'il puisse arriver, Rustan, un tel presage  
+Peut troubler, mais non pas abbatre mon courage.  
+
+    LA REINE.
+Mais l'homme sage doit toute chose tenter  
+Pour connoistre son mal, afin de l'eviter :  
+Qui craint que dedans [308] peu son naufrage n'arrive,  
+A recours promptement à la prochaine⁎ rive.  
+Qui sçait si l'Empereur⁎ successeur des Latins [309],  
+Las d'esprouver tousjours de contraire destins,  
+N'auroit point espié le temps de vostre absence,  
+Pour entrer aujourd'huy le plus fort dans Bisance ?  
+Si l'air de ce climat ou de cette Cité,  
+Ne pourroit pas enfin nuire à vostre santé ?  
+Ou bien si combattant avecques trop d'audace,  
+Quelque danger helas ! de mort ne vous menace ?  
+Si bien que retournant en Thrace seulement,  
+Ce presage seroit sans nul évenement⁎.  
+
+    SOLIMAN.
+Il faut bien que d'ailleurs vienne quelque infortune⁎,  
+Je ne suis pas troublé d'une crainte commune :  
+La Thrace est trop puissante, et j'ay le cœur trop fort,  
+Pour craindre, elle à present l'ennemy, moy la mort.  
+
+    LA REINE.
+Sire, c'est bien conclurre [310], et j'apperçoy moy-mesme  
+Une autre occasion de ce peril extresme.  
+Helas ! seroit-il vrai !  
+
+    SOLIMAN.
+Poursuivez hardiment.  
+
+    LA REINE.
+Peut-estre crains-je à tort, quoy qu'avec fondement.  
+
+    RUSTAN.
+A l'heure qu'il s'agit du salut d'un Monarque,  
+On craint avec raison dessus la moindre marque.  
+
+    SOLIMAN.
+Madame, parlez donc :  
+
+    LA REINE.
+Je crains qu'un scelerat  
+N'ait tramé dessus vous quelque noir attentat,  
+Et par vostre trespas n'occupe cét Empire,  
+Où son ambition depuis long-temps aspire.  
+
+    SOLIMAN.
+Qui seroit si hardy ?  
+
+    LA REINE.
+Qui se sent le plus fort :  
+Celuy dont vous devriez attendre moins ce tort ;  
+L'injuste Mustapha.  
+
+    SOLIMAN.
+Mustapha ?  
+
+    LA REINE.
+C'est luy-mesme.  
+Pourquoy vous troubler tant, et devenir plus blesme ?  
+Je n'en asseure pas, j'en doute seulement :  
+Mais certes cette peur me trouble extremement.  
+
+    RUSTAN.
+Peut-estre cette peur n'est que trop raisonnable,  
+Sire, j'en concevois une toute semblable.  
+
+    SOLIMAN.
+Qui de luy, justement ces soupçons peut avoir ?  
+Et comment me peut-on les faire concevoir ?  
+
+    LA REINE.
+Sire, voyez-vous pas cette valeur guerriere [311],  
+Combien elle luy rend l'ame hardie et fiere,  
+Et tant d'autres vertus veritables ou non,  
+Qui donnent dans la veuë [312], et font bruire son nom ?  
+Ouy, vous le voyez bien, et voyez trop peut-estre,  
+Puis que mesme il vous plaist si bien les reconnestre,  
+Et que vous les aymez par une aveugle erreur,  
+Au lieu que vous devriez les avoir en horreur :  
+Considerez de plus cette humeur liberale,  
+Et cette courtoisie à tout le monde esgale [313] :  
+Ne croit-il pas par là meriter d'estre Roy ?  
+N'est-ce pas par cet art⁎ qu'on tire un peu à soy [314] ?  
+Si bien qu'il est certain que ses desseins sinistres  
+Ne manqueront jamais de damnables ministres⁎ :  
+Et puis vous sçavez bien que le peuple souvent  
+Aveugle a plus d'amour pour le Soleil levant.  
+Mais de plus qui pourroit nous donner asseurance  
+Qu'il n'ait avec Tamas eu quelque intelligence,  
+Quand sous un faux pretexte errant comme inconnu,  
+Il fut chez les Persans en prison retenu ?  
+Ce fut peut-estre alors qu'il trama vostre perte,  
+Et qu'au Prince ennemy son ame fut ouverte :  
+Peut-estre il luy promit un bon-heur eternel,  
+S'il vouloit seconder son dessein criminel :  
+Et tant de messagers, et de courses diverses,  
+Dont il feint d'espier l'intention des Perses  
+Pour moy je les soupçonne, et crois avec raison  
+Qu'ils sont les instruments de cette trahison :  
+Et si jusques icy l'issuë en fut remise  
+Les forces luy manquant à si haute entreprise⁎ :  
+Desormais qu'il se void la puissance en la main ;  
+Il l'executera du jour au lendemain.  
+
+    SOLIMAN.
+Tant s'en faut, ce pouvoir est un tres-seur remede,  
+On ne desire plus le bien que l'on possede.  
+
+    LA REINE.
+Mais, Seigneur, vous sçavez ce que c'est du pouvoir,  
+Que tant plus on en a, plus on en veut avoir.  
+
+    RUSTAN.
+Certes, Sire, voilà de grands subjects de crainte :  
+Mais repensez encore à cette bonté feinte  
+Qui luy faisoit tantost rechercher ardemment,  
+D'avoir tous vos soldats sous son commandement :  
+Que pretendoit-il faire avecques deux armées,  
+Sinon tenir la Thrace et Bisance opprimés ?  
+
+    LA REINE.
+A-t'il donc tesmoigné tant de temerité ?  
+Ah ! que doutons nous plus de cette verité ?  
+Seigneur, qui vous retient ? helas ! sans le connaistre,  
+Vous vous precipitez aux lacs⁎ que tend un traistre :  
+Si vous ne nous croyez, croyez-en pour le moins  
+Ces voix de vostre cœur, muets, mais vrais temoins.  
+
+    SOLIMAN.
+Ne vous tourmentez point : j'y penseray, Madame,  
+Et vos sages advis prendront place en mon ame.  
+Retournons là dedans, O celeste bonté !  
+
+    LA REINE.
+Allons, mais qu'il souvienne à vostre Majesté  
+Qu'on ne sçauroit trop tost prevoir à [315] son dommage.  
+
+    SOLIMAN.
+C'est assez dit, Allons.  
+
+    RUSTAN *tout bas à la Reyne.*
+Prenons, prenons courage.  
+
+
+### SCENE CINQUIESME.
+PERSINE. ALVANTE.
+
+
+    PERSINE.
+Alvante est donc enfin émeu par mes discours  
+Et prend compassion de mes tristes amours.  
+
+    ALVANTE *tout bas ces deux vers seulement*
+Pour guerir un amant⁎ de sa melancolie,  
+Il faut faire semblant d'approuver sa folie.  
+Ouy, je me sens vaincu ; Qui pourroit resister  
+A ce Dieu si puissant, et qui sçait tout donter [316] ?  
+Suivez donc seulement l'histoire commencée,  
+Et puis sur ce sujet j'ouvriray ma pensée.  
+
+    PERSINE.
+Ainsi tousjours le Ciel te soit propice et doux !  
+Suivant donc cette audace ordinaire entre nous,  
+Je m'habille en Guerrier, et contre la Scythie,  
+Conduis de nos Soldats la meilleure partie,  
+Et cependant qu'un jour j'allois à petit bruit,  
+Cherchant un lieu commode où nous camper la nuit :  
+Voilà, nous descouvrons, dans un bois assez sombre,  
+Un Guerrier qui marchoit à la faveur de l'ombre ;  
+Et qui s'avance enfin où le champ plus ouvert,  
+De l'ombrage du bois n'estoit pas si couvert⁎.  
+Là de nous il fut joint [317], et quoy que l'apparence  
+Ne nous fist remarquer aucune difference,  
+Qu'il fust armé de mesme et parlast comme nous,  
+Pour ennemy pourtant il fut jugé de tous :  
+J'ordonne qu'on l'arreste, on court à l'instant mesme,  
+Luy ne s'estonne⁎ point dans ce peril extresme,  
+Mais l'espée à la main, il se vient presentant,  
+Et fait teste à tous ceux qui le vont combattant ;  
+Il frappe, tuë, abbat, et donne trop à croire  
+Que le nombre tout seul empeschoit sa victoire ;  
+Il resiste pourtant, et d'un accent plus fier,  
+De ces mots menaçans les ose défier :  
+Oüy, poltrons je mourray puis que le Ciel l'ordonne ;  
+Mais je vous vendray cher mon sang et ma personne :  
+Son courage, son sort, ces mots, cette action,  
+Firent naistre en mon cœur de la compassion :  
+Je cours où le combat plus violent se montre,  
+Et justement j'arrive (agreable rencontre)  
+Lors⁎ que de mille coups son armet⁎ entr'ouvert,  
+Se lasche et laisse voir sa face à descouvert :  
+Tel qu'apres maint éclair et le bruit du tonnerre,  
+Le Soleil apparoist plus riant à la Terre,  
+Tel brilla ce visage en cét heureux moment ;  
+Mille rayons de feu luy servoient d'ornement,  
+Et son œillade estoit de tant d'attraicts pourveuë,  
+Que tout au mesme instant il m'esbloüit la veuë,  
+Et me remplit le sein d'une telle amitié⁎,  
+Qu'aussi-tost elle change en amour ma pitié.  
+Ainsi pour le tirer de ce peril extresme,  
+Je luy fais contre tous un bouclier [318] de moy-mesme ;  
+Et crie à mes soldats, d'un accent de courroux,  
+Qu'ils appaisent leur rage et retiennent leurs coups ;  
+Puis retournant mes yeux dessus son beau visage,  
+D'un ton plus gratieux je luy tiens ce langage :  
+Veuillez, brave guerrier nous ceder desormais,  
+Recevez de nos mains et la vie et la paix,  
+Et si de nous ceder vous avez quelque honte,  
+Cedez de moins au sort, c'est luy qui vous surmonte :  
+Si vous ne desdaignez la fille d'un grand Roy,  
+Soyez son serviteur et vous rendez à moy,  
+A moy qui suis Persine : à ceste voix derniere  
+Je leve mon armet⁎, je hausse ma visiere ;  
+Il me contemple, il tremble, une morne pâleur  
+Luy dérobe⁎, et luy rend sa vermeille couleur ;  
+Et toutes deux cent fois partagent son visage ;  
+Puis souspirant au Ciel, il luy tient ce langage ;  
+O Dieu ! que puis-je plus ! j'apperçoy mon vainqueur !  
+Oüy, Madame, je rends et l'espée et le cœur,  
+Tous deux ils sont à vous ; là rompant sa harangue,  
+Il commit à ses yeux l'office⁎ de sa langue,  
+Ses yeux où je lisois avec contentement  
+Les secrets qu'il n'osoit me dire ouvertement.  
+Voilà quand et comment mon amour prit naissance,  
+Or entends⁎ maintenant comme elle prit croissance :  
+Et puis tu jugeras par quel heureux chemin  
+Elle doit desormais parvenir à sa fin.  
+
+    ALVANTE
+Qu'une amour née en guerre et parmy les alarmes,  
+N'attende que la mort, et des subjets de larmes.  
+
+    PERSINE.
+Pourquoy vas-tu troublant de presages de mort  
+Le fortuné succez que j'espere du sort.  
+
+    ALVANTE.
+J'apprehende pour vous, parce que je vous ayme,  
+Et ne vous nuirois pas, non pas du penser mesme. [319]  
+
+    PERSINE.
+Escoute donc comment s'avança mon amour.  
+Estant avecque luy vers mon camp de retour.  
+Je le presse instamment de me faire connaistre  
+Son nom, et ce qu'en fin le Ciel l'avoit fait naistre,  
+Luy jurant de garder, quel que fust son secret,  
+L'inviolable foy⁎ d'un silence discret ;  
+Et de plus luy donner, si c'estoit son envie,  
+Entiere liberté, non seulement la vie :  
+Lors⁎ il me declara qu'aux Scythes inconnu,  
+Jusqu'où nous l'avions pris, seul il estoit venu ;  
+Qu'il pretendoit de là voir le pays des Perses,  
+Pour connestre des lieux les assiettes [320] diverses ;  
+Qu'encor qu'il pratiquast ce dangereux métier,  
+De la Thrace pourtant il estoit l'heritier :  
+Joyeuse de sçavoir une telle merveille,  
+Je preste à ses discours une attentive oreille,  
+Rien ne m'asseurant mieux qu'il n'estoit pas menteur,  
+Que [321] faisoit mon desir, amoureux et flatteur :  
+Apres ces mots s'accroist le feu qui me tourmente,  
+Car l'amour entr'égaux facilement s'augmente ;  
+Et lors⁎ je reconnois, quoy qu'il n'en dise rien,  
+Que son brasier n'est pas moins ardent que le mien :  
+Comme d'une autre part, encor que je me taise,  
+Il reconnoist aussi mon amoureuse braise :  
+Car des cœurs enflammez d'un mutuel desir,  
+S'expliquent d'une œillade et du moindre soûpir.  
+Nous fusmes quelque temps dans cette violence ;  
+Mais il fut le premier qui rompit le silence,  
+Et qui me descouvrit sa flame en peu de mots,  
+Mais mots entrecoupez de pleurs et de sanglots :  
+Croyant qu'un jour apres le decez des deux Princes,  
+Cela pourroit causer la paix dans nos provinces,  
+D'un esprit balancé de honte et de plaisir,  
+Je l'escoute, me tais, approuve son desir,  
+Et lors⁎ entre nous deux fut la foy⁎ d'hymenee,  
+Le Ciel pris à tesmoin, secrettement donnée :  
+Cependant le Tartare [322] en Perse descendit,  
+Tu sçais comme le Sort à ses vœux respondit  
+Si bien que dans un fort tristement retirée,  
+De mon aymable espoux je me vis separée,  
+Qui depuis me manda par un moyen secret,  
+Qu'il estoit retourné dans la Thrace à regret,  
+En attendant le temps et l'heureuse journée  
+Que nous verrions l'effet⁎ de cette foy⁎ donnee,  
+Dont voilà, cher Alvante, et la cause, et la fin :  
+Ce qui m'ameine icy tu l'as sceu ce matin.  
+Donc puisque incessamment un peuple l'environne ;  
+Et que je ne sçauroit luy parler en personne :  
+Si tu ressens pour moy quelque peu d'amitié⁎,  
+Si, comme tu disois, mon feu te fait pitié,  
+Declare maintenant ce qu'il faut que je fasse.  
+
+    ALVANTE.
+Vous pourriez esmouvoir un naturel de glace :  
+Oüy, je vous veux ayder, et par cette action  
+Vous tesmoigner l'ardeur⁎ de mon affection :  
+Quel soin⁎ plus glorieux me pouviez vous commettre !  
+Je vay porter au Prince et la fueille [323] et la lettre :  
+Au cas que sans roder icy tout alentour.  
+Vous irez au logis attendre mon retour.  
+
+    PERSINE.
+O mon amy fidelle, ô pere secourable,  
+Qu'à tes vœux, derechef⁎ le Ciel soit favorable !  
+Tiens, avecque la lettre où dans peu de discours,  
+Je reclame son ayde à mes longues amours,  
+Ce papier blanc signé que je pris à mon Pere :  
+Qu'il reçoive dans luy la Perse de doüaire [324],  
+Car il le peut remplir de ce qu'il luy plaira,  
+Et dessous ce cachet tout le monde plira.  
+
+    ALVANTE.
+Allez, et je feray tout ce qu'il faudra faire.  
+
+    PERSINE.
+Je m'en vay, daigne Amour conduire cette affaire.  
+
+
+### SCENE SIXIESME.
+ALVANTE, OSMAN.
+
+
+    ALVANTE
+Doncques est-il possible ! ô Dieu quelle fureur !  
+Puis-je estre encore en vie à cét objet⁎ d'horreur !  
+
+    OSMAN *sans estre apperceu.*
+Comme tousjours le sort destruit ce que je tente !  
+Mais quel nouveau visage à mes yeux se presente !  
+
+    ALVANTE.
+Mustapha, nostre Roy !  
+S'il espousoie Persine, mais Osman le prend à la lettre
+
+
+    OSMAN.
+C'est quelqu'un [325] de ses gens,  
+Et sans doute quelqu'un de ses nouveaux agens.  
+Escoutons-le.  
+
+    ALVANTE.
+Et pour luy trahir ainsi son pere !  
+Son pere ! et son Royaume !  
+
+    OSMAN.
+O fortune⁎ prospere !  
+
+    ALVANTE.
+Me croire l'instrument de sa lâche fureur !  
+Comment pûst son esprit tomber dans cette erreur !  
+Moy porter ces papiers où ta honte est enclose !  
+Ne permette le Ciel que je me le propose.  
+Voilà comme j'avois dessein de les porter,  
+Il les deschire
+
+Lors⁎ que je te promis de les luy presenter.  
+
+    OSMAN.
+Comme il est disparu [326] ! La colere l'emporte !  
+Encor si ces papiers deschirez de la sorte,  
+Par quelques mots entiers me rendoient éclaircy,  
+De ce dont en fuyant il me laisse en soucy ;  
+Mais qu'est-ce que je voy ! Dieu l'heureuse avanture !  
+C'est du Prince ennemy la propre signature !  
+C'est son propre cachet ! qu'il nous vient à souhait !  
+Je m'en vais à Rustan exposer⁎ tout le fait :  
+Il est bien si rusé qu'en ce peu de matiere,  
+Il treuvera⁎ subject d'une ruine entiere.  
+Fin du second Acte.
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE.
+PERSINE. ALVANTE.
+
+
+    PERSINE.
+Le traistre a donc commis cette infidelité !  
+Alvante que dis-tu ?  
+
+    ALVANTE.
+Je dis la verité.  
+
+    PERSINE.
+O trois et quatre fois Persine infortunée !  
+
+    ALVANTE.
+D'autant plus qu'oubliant la promesse donnée,  
+L'impatiente ardeur⁎ de vostre jeune amour  
+Vous a fait si soudain prevenir⁎ mon retour  
+Pour apprendre plutost ceste triste nouvelle.  
+
+    PERSINE.
+Je n'ay donc plus de part à ce cœur infidelle !  
+Je suis doncques trahie, et mon chaste desir  
+N'obtiendra pour tout fruit qu'un honteux desplaisir ?  
+En vain je prends les noms et d'Espouse et d'Amante⁎,  
+Puis qu'on fait un peché de ma flame innocente :  
+Mais qu'est-ce que tu dis à ce cœur inhumain ?  
+
+    ALVANTE.
+Quand je vis ces papiers déchirez de sa main,  
+Ah ! grand Prince, luy dis-je, est-ce donc de la sorte,  
+Que vous reconnoissez une amitié⁎ si forte ?  
+N'estimez vous donc rien qu'elle ait quitté pour vous,  
+Tout ce qu'en son païs elle avoit de plus doux ?  
+Que sans aucune suitte, et comme une inconnuë,  
+Elle soit pour vous voir en ce lieu cy venuë ?  
+Qu'elle ait esté rebelle à son pere, à son Roy,  
+Plustost que de souffrir⁎ de vous manquer de foy⁎ ?  
+Comment eut elle mieux contenté vostre envie,  
+Qu'en vous livrant son cœur, son Royaume, et sa vie ?  
+Seigneur, par vostre bonheur, et par cette clarté,  
+Que vous n'ignorez pas tenir de sa bonté,  
+Daignez prester secours à cette infortunée,  
+Et donnez luy la vie, elle vous l'a donnee ;  
+Aimez donc qui vous aime, et luy [327] gardez la foy⁎.  
+
+    PERSINE.
+Ce discours, sage Alvante, estoit digne de toy :  
+Mais que dit-il ?  
+
+    ALVANTE.
+D'un cris de mespris, et de rage,  
+(Car ces mots vivement piquerent [328] son courage)  
+M'oses-tu bien, dit-il, faire ressouvenir  
+D'une foy⁎ que jamais je n'ay voulu tenir ?  
+
+    PERSINE.
+O Ciel !  
+
+    ALVANTE.
+Et puis, dit-il, par un pouvoir magique,  
+Et par cette science [329] en Perse si publique,  
+Elle m'avoit alors empoisonné le cœur,  
+Qui depuis grace au Ciel a repris sa vigueur.  
+Et si de son honneur faisant si peu de conte [330],  
+Elle foule à ses pieds toute sorte de honte :  
+Je ne suis pas d'advis de suivre ceste loy,  
+Et ce seroit mal fait qu'un Prince comme moy,  
+Prist en affection, et moins en hymenée,  
+Une fille dont l'ame est si desordonnée :  
+Partez doncques tous deux dans une heure d'icy  
+Ou n'attendez de moy ni grace, ni mercy ;  
+Son visage à ces mots paroissant tout de flame,  
+Me jetta l'espouvante et l'horreur dedans l'ame,  
+Et ma langue et mon cœur resterent si confus,  
+Qu'aussi-tost je m'enfuys sans luy repliquer plus.  
+
+    PERSINE.
+O Ciel ! injuste Ciel ! que fais-tu de ta foudre !  
+Laisses-tu les meschants sans les reduire en poudre !  
+
+    ALVANTE.
+Quoy qu'elle ait à souffrir⁎ de ce contrepoison,  
+Il n'importe, pourveu qu'il soit sa guerison. [331]  
+Madame, il n'est plus temps desormais de se plaindre,  
+Craignons pour nostre vie :  
+
+    PERSINE.
+Hé ! que puis-je plus craindre,  
+Si sans chercher ailleurs ce dernier reconfort,  
+Je suis preste moy-mesme à me donner la mort ?  
+
+    ALVANTE.
+L'excez de la douleur vous trouble et vous surmonte,  
+Vostre mort ne feroit qu'augmenter vostre honte.  
+
+    PERSINE.
+Mais elle amoindriroit un si fascheux tourment.  
+
+    ALVANTE.
+Un invincible cœur endure constamment⁎.  
+
+    PERSINE.
+Vivray-je donc apres une si grande offense ?  
+
+    ALVANTE.
+Oüy, car c'est le moyen d'en tirer la vengeance :  
+Quittons donc ce pays, et si cét inhumain  
+Montre avoir maintenant vostre amour à desdain,  
+Qu'il vous trouve au retour sa mortelle ennemie,  
+Et dans son propre sang lave son infamie :  
+Allons, pour revenir avec tant de soldats,  
+Que nous mettions sa teste et son orgueil à bas.  
+
+    PERSINE.
+Allons, c'est la raison que l'amoureuse flame  
+Cede aux feux que la haine attise dans mon ame.  
+Va donc pour donner ordre à nostre partement [332],  
+
+    ALVANTE.
+J'y cours, ô d'un tel tour l'heureux evenement⁎ !  
+
+    PERSINE. [333]
+Mais quel est mon dessein, et quelle est ma pensée !  
+Moy-mesme plus qu'aucun je me suis offensée.  
+Donc pour punir celuy qui m'a fait plus de tort,  
+C'est à moy seulement qu'il faut donner la mort.  
+Sus donc cœur imprudent, sus donc ame coupable,  
+Songeons à nous donner un trespas honorable :  
+Mais que ce soit aux yeux de ce traistre et brutal,  
+Que je voye en mourant l'objet⁎ qui m'est fatal,  
+Afin qu'au triste aspect d'une fin si cruelle,  
+De son crime, il conçoive une horreur eternelle.  
+
+
+### SCENE DEUXIESME.
+SOLIMAN, ACMAT.
+
+
+    SOLIMAN.
+Voylà ce que je crains, et pour me soulager,  
+Je luy viens d'envoyer [334] en haste un messager  
+Qui le r'appelle en Cour, afin que j'examine  
+Avec plus de loisir, ses discours et sa mine.  
+
+    ACMAT.
+Sire, je suis surpris d'un tel estonnement⁎,  
+Qu'à peine puis-je icy dire un mot seulement :  
+Si vous aviez peu voir avec quelle franchise⁎,  
+Il a receu l'armée à sa charge commise,  
+Je suis bien asseuré que vostre Majesté  
+Penseroit autrement de sa fidelité.  
+
+    SOLIMAN.
+Pour mieux executer sa trahison mortelle,  
+Nostre ennemy souvent prend le nom de fidelle.  
+
+    ACMAT.
+Mais qu'il est encor vray qu'il n'est point de poison,  
+Qui plus mortellement blesse nostre raison,  
+Comme de croire trop à ces soubçons iniques  
+Qui sont suivis enfin de mille actes tragiques :  
+Partant puis que ce poinct vous est encor permis ;  
+Sire, foulez aux pieds ces soubçons ennemis  
+Quoy doncques les vertus d'un Prince magnanime,  
+Ne causeront en vous que la crainte d'un crime ?  
+Une miniere d'or produit-elle du fer ?  
+Et trouve-t'on au Ciel les horreurs de l'Enfer ?  
+Que si tant de valeur vous trouble et vous estonne⁎,  
+Non que vous craigniez rien de sa propre personne,  
+Mais que de vos subjets estant trop bien voulu  
+Ils luy donnent sur eux un pouvoir absolu ;  
+Sçachez qu'il n'est chery d'une amitié⁎ si forte :  
+Qu'à cause seulement de l'amour qu'on vous porte ;  
+Hé par qui des mortels ne seroient estimez  
+Ceux qui viennent de vous, et que vous mesme aymez ?  
+Doncques si c'est pour vous qu'on l'honore et l'estime,  
+Qui pour luy, contre vous, voudroit commettre un crime ?  
+Et quoy sera-t'il dit que vostre Majesté  
+Ayt oublié si tost nostre fidelité ?  
+
+    SOLIMAN.
+Soit la foy⁎ de mon peuple inviolable et sainte :  
+Il me reste d'ailleurs de grands sujets de crainte,  
+Ce fils dénaturé joint avec les Persans  
+Pour me perdre a-t'il pas des moyens trop puissans ?  
+
+    ACMAT.
+Le Prince vostre fils a l'ame trop prudente  
+Pour s'embarquer sans voir la fin de ce qu'il tente :  
+Hé comment combattroit l'ennemy pour autruy,  
+Luy qui ne peut garder son Royaume pour luy ?  
+Mais qui jusques icy de ces intelligences  
+A peu donner encor les moindres apparences ?  
+Il est vray qu'il a veu les pays ennemis ;  
+Mais, Sire, vous aviez ce voyage permis ;  
+Vous sceutes ce qu'il fit durant tout son voyage,  
+Et si quelque entreprise⁎ eust trahy son courage,  
+Vous auriez peu bien-tost vous en apercevoir,  
+Ou quelque amy secret vous l'auroit fait sçavoir :  
+Non, non, Sire, croyez qu'un cœur épris de gloire  
+Ne concevra jamais une action si noire.  
+
+    SOLIMAN.
+Un grand cœur tousjours monte, et suit audacieux  
+Le talent qu'en naissant il a receu des Cieux :  
+Et quoy qu'à ma couronne il doive seul pretendre,  
+Peut-estre ayme-t'il mieux l'usurper que l'attendre.  
+
+    ACMAT.
+Mais, Sire, de sa gloire il est si fort jaloux,  
+Que l'on ne doit jamais apprehender pour vous  
+Que s'emparant ainsi d'une chose asseurée  
+Il voulut perdre un bruit d'éternelle durée :  
+Que vostre Majesté pense donc à cecy,  
+Et chasse s'il luy plaist, de son cœur, tout soucy.  
+
+    SOLIMAN.
+Je commence à le faire, et sens qu'à ta parole  
+Mon cœur moins agité s'appaise et se console :  
+Vas, et s'il n'est party, retiens Geron chez toy,  
+Et luy dis qu'il attende un autre ordre de moy.  
+
+    ACMAT.
+Grand Prince j'obeys.  
+
+    SOLIMAN.
+Quelle est la citadelle  
+Qui nous mette [335] en repos comme un amy fidelle !  
+Voilà que son discours enfin m'a desgagé  
+Des soubçons dont mon cœur se sentoit assiegé.  
+Dans une douce paix maintenant je respire,  
+Et dessus moy la peur n'a plus aucun empire.  
+
+
+### SCENE TROISIESME.
+RUSTAN. SOLIMAN.
+
+
+    RUSTAN.
+Que vostre Majesté n'espere desormais  
+A ses tristes mal-heurs de tresve ny de paix ;  
+Qu'elle appreste la mort à son fils infidelle,  
+Et contre les Persans une guerre immortelle.  
+Sire, lisez ce mot qui vient d'estre arraché  
+Par mon fidelle Osman, d'un espion caché.  
+
+    SOLIMAN.
+Il s'adresse à mon fils ! detestable aventure [336] !  
+C'est du Prince ennemy la propre signature !  
+C'est son propre cachet ! ô Ciel secourez nous.  
+
+    RUSTAN.
+Mais tout vostre salut ne depend que de vous.  
+Sire, hâtez-vous donc ainsi que veut l'affaire,  
+En ces occasions, il se perd qui differe.  
+
+    SOLIMAN *lit.*
+Je n'attens pour partir que vostre mandement.  
+Cette puissante armée est deja toute preste.  
+Commencez seulement d'attaquer cette teste,  
+Et vous serez par moy secouru promptement.  
+Qu'ay-je leu ! mais allons adviser au remede :  
+
+    RUSTAN.
+O bien-heureux Rustan, que la fortune⁎ t'aide.  
+
+
+### SCENE QUATRIESME
+MUSTAPHA. ORMENE.
+
+
+    MUSTAPHA.
+Que si le Messager n'est indigne de foy⁎,  
+Au Palais de la Reine, on doit trouver le Roy :  
+Voicy donc le plus court ; Mais voy-je pas Ormene !  
+Comment m'as-tu suivy bon Pere et qui t'ameine !  
+
+    ORMENE.
+Seigneur, j'acours à vous, et je rends grace aux Cieux,  
+Qu'encore assez à temps je vous touve en ces lieux :  
+Certes si j'eusse esté present à ce message,  
+Je m'y fusse opposé ; mais de tout mon courage,  
+Pour la crainte que j'ay d'un sinistre accident [337],  
+Qui dedans mon esprit se rend presque evident.  
+
+    MUSTAPHA.
+Que crains-tu ?  
+
+    ORMENE.
+J'apprehende, et non sans juste cause,  
+Que l'on n'ait contre vous machiné quelque chose :  
+Pourquoy si promptement vous r'appeller en Cour,  
+Vous mandant de tenir secret vostre retour ?  
+A peine en sortez vous, et nous devons bien croire,  
+Que Soliman n'a rien laissé dans sa memoire.  
+Quel desir pourroit donc rendre en si peu de temps  
+D'un Roy si resolu les conseils⁎ inconstans ?  
+Ah je voy les serpens qui se cachent sous l'herbe,  
+C'est la Reyne elle-mesme, et Rustan le superbe⁎,  
+Dont la rage vomit son venin contre vous.  
+
+    MUSTAPHA.
+Quelle raison pourroit exciter leur courrous ?  
+
+    ORMENE.
+Je croy que dans Rustan vostre insigne merite  
+Desjà depuis long-temps cette rancune excite,  
+Le merite à la Cour est rare et pretieux,  
+Et tousjours exposé⁎ pour butte aux envieux ;  
+Mais ce qui plus que tout a sa rage enflamée,  
+C'est de voir que le Roy vous a fait chef d'armée :  
+Je sçay que ce matin il ne l'a peu souffrir⁎,  
+Presumant qu'à luy seul ce rang se deust offrir.  
+
+    MUSTAPHA.
+Et qui peut concevoir un courroux équitable,  
+Pour un choix que chacun trouve si raisonnable ?  
+
+    ORMENE.
+Quoy que ce qui nous nuit se fasse justement,  
+On ne le sçauroit voir sans mescontentement :  
+Si bien que secondé du courroux de la Reine,  
+Il dresse à vostre vie une embusche certaine ;  
+Et vous n'ignorez pas quelle injuste raison  
+Peut obliger la Reine à cette trahison :  
+Seigneur, elle est marastre, et de plus ne demande  
+Que de voir chaque jour sa puissance plus grande :  
+Mais elle craint de vous, pour elle et pour Selin,  
+A leurs jours glorieux, une cruelle fin.  
+
+    MUSTAPHA.
+Quiconque craint de moy quelque offense, il s'abuse :  
+Mais quels seroient leurs lacs⁎ ? quelle seroit leur ruse ?  
+Quelle puissance ont-ils, et quel droit dessus moy ?  
+N'ay-je pas pour deffense et mon Pere, et mon Roy ?  
+
+    ORMENE.
+Ah Seigneur, vous feignez de ne me pas entendre⁎.  
+Sçachant que le Roy seul sur vous peut entreprendre,  
+Ils vous auront vers luy quelque crime imposé⁎.  
+
+    MUSTAPHA.
+Et dequoy Mustapha peut-il estre accusé !  
+Ma foy⁎ n'est-elle pas à mon Pere assez claire ?  
+
+    ORMENE.
+Mais les ruses et l'art⁎ que ne peuvent-ils faire ?  
+Manquent-ils de matiere à leur subtilité,  
+Ou de fausse couleur⁎ à leur méchanceté ?  
+Hé qui sçait s'il n'ont point desseigné [338] vostre perte  
+Sur cette amour, par eux, malgré nous descouverte ?  
+
+    MUSTAPHA.
+Ce seroit là vrayment un detestable tour,  
+De faire reüssir leur haine par l'amour !  
+J'ayme, je le confesse (et tu connois Ormene  
+Quelle est à son sujet mon amoureuse peine)  
+La fille de Tamas, Roy de nos ennemis,  
+Persine, en qui le Ciel tous ses thresors a mis :  
+Et toutesfois (permets qu'icy je le redie [339])  
+Bien loin de me noircir d'aucune perfidie,  
+Si je ne puis enfin gaigner [340] dessus le Roy,  
+Que par un doux hymen je dégage ma foy⁎ :  
+Si, dis-je, je n'obtiens dedans cette entreprise⁎,  
+Ou que par la victoire elle me soit acquise,  
+Ou bien mesme qu'estant des Perses surmonté,  
+Mon Pere me la daigne offrir par sa bonté :  
+Pour ne pas offenser mon Roy pour l'amour d'elle,  
+Pour ne la pas trahir ny rester infidelle,  
+Je me türay moy-mesme, et de cette façon  
+Je m'exempteray bien de blasme et de soubçon.  
+
+    ORMENE.
+Seigneur, si la bonté de cette ame ingenuë,  
+Comme elle l'est au Ciel, en terre estoit connuë,  
+Je suis bien asseuré, que ny de cette part,  
+Ny d'ailleurs vous n'auriez à courre [341] aucun hazard :  
+Mais quoy, l'œil des mortels ne connoist pas ces choses :  
+Voyez donc si je crains avec de justes causes,  
+Et vous-mesme jugez combien il est besoin⁎,  
+D'apporter en ce fait, de prudence et de soin⁎.  
+
+    MUSTAPHA.
+J'approuve ta sagesse, Ormene, et je l'escoute :  
+Mais ta peur apres tout, n'est que sur une doute [342] :  
+Si bien que je ne puis, sans manquer au devoir,  
+N'aller pas vers mon Pere apprendre son vouloir ;  
+J'y vais, et que le Ciel m'aide si j'en suis digne.  
+
+    ORMENE.
+Seigneur, ne bouge, et voy qu'Adraste t'en fait signe.  
+
+
+### SCENE CINQUIESME
+ADRASTE. MUSTAPHA. ORMENE.
+
+
+    ADRASTE.
+Ah grand Prince ! fuyez cette maudite Cour,  
+Où l'on a conspiré de vous priver du jour.  
+
+    MUSTAPHA.
+Que veut dire, et d'où vient mon Adraste fidelle ?  
+
+    ADRASTE.
+Du camp, où ce malheur vous-mesme vous r'appelle.  
+
+    MUSTAPHA.
+L'homme ferme et constant⁎ n'a pas le pied leger [343],  
+Et ne se trouble point sans sçavoir le danger.  
+Apprends moy donc devant⁎, ce qui te met en peine.  
+
+    ADRASTE.
+C'est, Seigneur, en un mot ; que Rustan et la Reine,  
+Pour vous perdre, ont de vous en diverses façons,  
+Dedans l'esprit du Roy, jetté de faux soubçons.  
+
+    ORMENE.
+O de ma triste peur asseurances trop grandes !  
+
+    MUSTAPHA.
+Mais en es-tu certain ? ou si [344] tu l'apprehendes ?  
+
+    ADRASTE.
+Vous n'estiez pas encor de nostre camp sorty,  
+Que j'en fus en secret aussi-tost adverty :  
+Ainsi, Seigneur, tandis que vous le pouvez faire  
+Evitez promptement son injuste colere.  
+
+    ORMENE.
+Fuyons, mon fils, fuyons.  
+
+    MUSTAPHA.
+L'innocent est trop fort,  
+Il est invulnerable à tous les traicts du sort.  
+
+    ORMENE.
+Mais qui se peut garder du venin de l'envie ?  
+
+    ADRASTE.
+Seigneur, c'est lascheté d'aymer par trop la vie,  
+Et de ne pas mourir à l'heure qu'il le faut :  
+Mais de mourir à tort, c'est un pareil defaut.  
+
+    ORMENE.
+Ah Seigneur ! Ah mon fils ! par tes jeunes années,  
+Autrefois par mes soins⁎ tendrement gouvernées ;  
+Par mon affection, par mon ardente foy⁎,  
+Conserve toy, mon fils, et pour nous, et pour toy :  
+Fuys nostre perte à tous, fuys cette injuste mere,  
+Fuys du traistre Rustan la malice ordinaire,  
+Evite la fureur de ce Pere irrité,  
+Et laisse avec le temps sortir la verité.  
+
+    MUSTAPHA.
+Non, ne differons plus, qui differe est coupable.  
+
+    ORMENE.
+Hé mon Fils !  
+
+    ADRASTE.
+Entendez⁎ un mot irrevocable ;  
+Que le Dieu Tout-puissant qui punit les pervers,  
+Tienne dessous mes pieds les abymes ouverts,  
+Si ma promesse n'est de son effect⁎ suivie :  
+Il vous faut, ou regner, ou bien perdre la vie :  
+Mais Adraste aujourd'huy vous sauve et vous fait Roy  
+Et l'armée, et la Cour, tout est presque pour moy :  
+Sus [345] donc, qu'attendons-nous ? Le Destin favorise  
+Ceux qui suivent hardis une belle entreprise⁎.  
+Nous te declarons Roy : Compagnons criez tous,  
+Vive le jeune Prince.  
+
+    MUSTAPHA.
+Amis, que faictes-vous ?  
+Plutost, plutost qu'il meure.  
+
+    ADRASTE.
+Ah, Seigneur, quelle rage !  
+
+    MUSTAPHA.
+Mais dis que c'est l'effect⁎ d'une affection sage,  
+Qui desire empescher vos crimes par ma mort.  
+
+    ADRASTE.
+Mais ce remede seul détourne vostre sort.  
+
+    MUSTAPHA.
+Sans l'honneur qui vrayment est l'ame de la vie,  
+La vie est elle un bien digne de nostre envie ?  
+
+    ORMENE.
+Ouy, mais si Soliman vous contraint de mourir,  
+Et que par tout le monde il fasse apres courir  
+D'une innocente fin, une raison infame,  
+Vostre mort sera-t elle honorable et sans blasme ?  
+
+    MUSTAPHA.
+Le Temps descouvrira la verité du faict.  
+
+    ORMENE.
+Vivez donc, pour joüyr de cét heureux effect⁎.  
+
+
+### SCENE SIXIESME.
+MESSAGER. MUSTAPHA. ADRASTE. ORMENE.
+
+
+    MESSAGER.
+O Seigneur, retournez, retournez à l'armée,  
+Où parmy tous les Chefs la nouvelle est semée,  
+Que vostre teste court un funeste danger,  
+Desjà l'on se soûleve afin de vous vanger [346].  
+
+    MUSTAPHA.
+O de tous mes mal-heurs ; le mal-heur plus extresme !  
+Retourne ! mais retourne Adraste aussi toy-mesme,  
+Si jamais ta bonté me daigna secourir,  
+Et leur dis que je vis.  
+
+    ADRASTE.
+Mais que tu vas mourir.  
+Pensez-vous que des gens remplis de défiance [347],  
+Aux paroles d'autruy prestent si tost creance ?  
+A peine voudront-ils s'en fier à leurs yeux,  
+Seul vous appaiserez leurs esprits furieux.  
+
+    ORMENE.
+Si de ce cœur fidelle, et de ce grand courage,  
+Vous craignez que le Roy prenne le moindre ombrage.  
+Seigneur, vous jugez bien qu'il est plus à propos,  
+Que vous-mesme y mettiez la paix et le repos.  
+
+    ADRASTE.
+Seigneur, trouvez-vous pas cét advis raisonnable ?  
+
+    MUSTAPHA.
+Que trop ; allons-y donc, ô Sort impitoyable !  
+Fin du troisiesme Acte.
+
+
+## ACTE IIII.
+
+
+### SCENE PREMIERE.
+SOLIMAN. RUSTAN. ACMAT.
+
+
+    SOLIMAN.
+Pourquoy s'en retourner au camp si promptement,  
+Et ne pas obeyr à mon commandement ?  
+Non non, sa trahison n'est que trop descouverte  
+Rien ne le peut sauver, ny retarder sa perte :  
+Je veux de vive force entrer dedans son camp,  
+Et faire qu'il y soit puny dessus le champ.  
+
+    RUSTAN.
+C'est de cette façon qu'un grand Prince doit faire :  
+
+    ACMAT.
+Mais non de la façon que doit agir un Pere.  
+
+    SOLIMAN.
+A l'endroit⁎ d'un tel Fils, un Pere avec raison  
+Peut oublier de Pere et l'amour et le nom.  
+
+    ACMAT.
+Mais il faut que du moins l'humanité le touche.  
+
+    SOLIMAN.
+On n'en a point envers une beste farouche.  
+
+    ACMAT.
+On en a toutesfois souvent quelque pitié.  
+
+    SOLIMAN.
+Celuy-là soit hay qui n'a point d'amitié⁎.  
+
+    ACMAT.
+Donc un si brave Fils mourra sans qu'on l'escoute ?  
+
+    SOLIMAN.
+Quel besoin⁎ de l'oüir si son crime est sans doute ?  
+
+    ACMAT.
+Mais quel signe le rend criminel comme on dit ?  
+
+    SOLIMAN.
+Quel indice veux-tu plus clair que cét escrit ?  
+
+    ACMAT.
+Par ma fidelité qui vous est si connuë,  
+Par mon affection et si pure et si nuë :  
+Daignez, Sire, prester l'oreille à ce propos,  
+Par où je remettray vostre esprit en repos.  
+
+    SOLIMAN.
+Parle donc, je veux bien te donner audiance.  
+
+    RUSTAN.
+Le moindre delay, Sire, est de grande importance.  
+
+    ACMAT.
+Je ne veux point icy repeter les raisons,  
+Qui le font croire exempt de telles trahisons.  
+Je ne propose point quelque autre conjecture,  
+Qui me fait soubçonner la lettre d'imposture :  
+Et que vous entendrez⁎, Seigneur, tout à loisir,  
+Lors⁎ que vous en aurez le temps et le desir,  
+Je dis, que comme c'est une subtile ruse,  
+Et dont entre ennemis le plus souvent on use,  
+Peut-estre cét escrit vint de nos ennemis  
+A dessein seulement d'estre en vos mains remis :  
+Pour rendre vostre Fils suspect par cette adresse,  
+Et renverser sur nous l'embusche qu'on leur dresse.  
+
+    RUSTAN.
+L'interprete subtil !  
+
+    ACMAT.
+Veritable pourtant :  
+Mais, Sire, ces soldats que l'on redoute tant,  
+Et par qui Mustapha vous doit faire la guerre,  
+Où furent-ils levez ? et quel lieu les resserre ?  
+Puis que vos espions, qui vont par tout rodant,  
+N'en ont peu découvrir aucun signe evident.  
+S'il est vray que ce soit une invisible armée,  
+Pour moy, je la croiray de fantosmes formée,  
+Et qui, si vous daignez y jetter seulement  
+Un des moindres rayons d'un si clair jugement,  
+Disparoistront bien-tost comme dans les lieux sombres,  
+A l'aspect du Soleil, disparoissent les ombres.  
+Vous verrez que ce camp qui nous fait tant de peur  
+N'est qu'un camp fabuleux, chimerique et trompeur.  
+
+    RUSTAN.
+Sire, encore une fois je declare et proteste,  
+Que puis que nous voyons le crime manifeste ;  
+C'est avecques danger, mais danger tres-pressant,  
+Que l'on s'efforce en vain de le rendre innocent.  
+A quoy bon recourir aux fantosmes, aux fables,  
+Ayant entre nos mains des preuves si palpables ?  
+Mais puis que le fait touche à vostre Majesté,  
+C'est la raison qu'on suive icy sa volonté.  
+
+    SOLIMAN.
+En effet⁎, cher Acmat, je ne vous dois pas croire,  
+Apres ce que je voy d'une action si noire :  
+C'est pourquoy ne pouvant demeurer asseuré,  
+Et laisser impuny ce fils dénaturé,  
+Je veux que les horreurs de sa mort criminelle,  
+Apprennent à chacun à m'estre plus fidelle.  
+
+    ACMAT.
+O Sire ! qu'il souvienne à vostre Majesté,  
+Du mal qui peut venir d'un conseil⁎ trop hasté.  
+Faut-il qu'un Roy si sage, et si plein de clemence,  
+Condamne à mort son Fils sans oüyr sa deffence !  
+Son Fils, dis-je, ô doux nom ! qui marque le lien  
+Que la Nature a mis de vostre sang au sien.  
+Les escadrons des Roys, et leurs puissans asyles,  
+Sont au prix des enfans des forces trop debiles⁎.  
+Quand le meilleur amy nous quitte et cede au temps,  
+Seuls parmy les mal-heurs ils demeurent constans :  
+C'est pour eux que le Ciel pourvoit à nos dommages,  
+De nous-mesmes ils sont les vivantes images.  
+Donc sans respect de vous, ny de son amitié⁎,  
+Peut-estre sans raison, mais tousjours sans pitié :  
+Souffrirez⁎-vous, Seigneur, que la fureur vous porte,  
+Jusqu'à faire perir vostre Fils de la sorte,  
+Sans qu'il se justifie, ou demande pardon ?  
+Puis que mesme il devroit obtenir un tel don.  
+Que d'un Roy genereux⁎ la vengeance est bannie,  
+Et qu'une ame bien née est tousjours mieux punie,  
+Et reçoit de sa faute un plus seur chastiment  
+Quand on remet sa peine à son ressentiment⁎.  
+Enfin que la douceur est d'autant plus loüable,  
+Plus on peut concevoir un courroux équitable [348].  
+Sire, vous estes Roy, les Roys ce sont des Dieux  
+Qui pardonnent sur terre, ainsi que l'autre aux Cieux.  
+
+    RUSTAN.
+Ny les Dieux d'icy bas, ny les puissances hautes  
+Ne nous pardonnent pas toute sorte de fautes :  
+Mais comme son discours donne au Roy du soucy ! [349]  
+
+    ACMAT.
+Seul, vous devez Seigneur, vous consulter ainsi,  
+Vous ne sçauriez avoir un Conseiller plus sage.  
+
+    RUSTAN.
+Termine desormais cét importun langage,  
+Et songe pour le moins que commettre un forfait,  
+Ou le deffendre trop, c'est le mesme en effect⁎.  
+
+    ACMAT.
+Je n'apprehende rien, car aupres de mon Maistre,  
+Et mon zele⁎, et ma foy⁎ se font assez parestre.  
+
+    SOLIMAN.
+O Fils !  
+
+    ACMAT.
+Seigneur, voicy venir la verité.  
+
+    RUSTAN.
+Et de tous mes dangers, le moins premedité.  
+
+
+### SCENE DEUXIESME.
+SOLIMAN. DEVIN. RUSTAN. ACMAT.
+
+
+    SOLIMAN.
+Toy, qui dedans les Cieux, de l'esprit te promenes,  
+Où tu lis le secret des volontez humaines,  
+Dy moy la verité de cette trahison.  
+
+    DEVIN.
+La trahison est vraye, et faite sans raison.  
+
+    RUSTAN.
+Sire, que faut-il plus ?  
+
+    DEVIN.
+Mais le traistre se cache,  
+Et couvre avec son nom, une action si lasche,  
+Qui non plus que son nom ne se cognoistra pas,  
+Qu'apres l'evenement⁎ de son juste trépas.  
+
+    RUSTAN.
+Dieu ! qu'est-ce qu'il veut dire !  
+
+    SOLIMAN.
+Et pourtant cette létre  
+M'apprend la trahison, avec le nom du trétre ?  
+
+    DEVIN.
+Cette lettre, de vray [350], monstre assez le forfait ;  
+Mais ne declare pas le nom de qui l'a fait ;  
+
+    SOLIMAN.
+Comment ?  
+
+    RUSTAN. [351]
+Je suis perdu.  
+
+    SOLIMAN.
+De quelle part vient elle ?  
+Et n'apprend elle pas une embusche mortelle ?  
+
+    DEVIN.
+Cét escrit que tu tiens, et qui t'emplit d'effroy,  
+S'addressant à ton Fils, ne regardoit que toy.  
+
+    RUSTAN.
+Ouy, Sire, il regardoit vostre seule Couronne.  
+
+    ACMAT.
+Plutost ne s'adressoit qu'au Roy mesme en personne.  
+
+    SOLIMAN.
+Responds moy seulement encore sur ce point,  
+Est-il vray que mon Fils au Persan se soit joint ?  
+
+    DEVIN.
+Bien plus que tu ne crois, et sans estre coupable.  
+
+    SOLIMAN.
+Comment se fait cela ?  
+
+    DEVIN.
+Mon dire est veritable :  
+Mais je ne sçaurois pas t'expliquer clairement,  
+Ce que je n'apperçoy qu'en ombre seulement ;  
+Le reste surpassant mon humaine foiblesse,  
+Demeure ensevely dans une nuit espaisse.  
+
+    RUSTAN.
+Puis qu'on ne t'entend⁎ point, ne dis mot, et vas-t'en ;  
+Tu rends le Roy resveur.  
+
+    DEVIN.
+Oüy j'obeys, Rustan :  
+Mais si je pars, tousjours le Ciel sur toy demeure,  
+Et parlera pour moy, devant⁎ qu'il soit une heure.  
+
+    SOLIMAN.
+Je suis plus que jamais incertain et pensif :  
+Mais que veulent ces gens avecques ce captif ?  
+
+    RUSTAN.
+Fascheux retardement.  
+
+
+### SCENE TROISIESME.
+PERSINE. SOLDATS. SOLIMAN. ACMAT. RUSTAN.
+
+
+    PERSINE. [352]
+Heureux subject de joye,  
+Puis que je puis aussi mourir par cette voye.  
+
+    SOLDATS.
+Sire, ce prisonnier Persan de nation,  
+Vient pour vous éclaircir de son intention.  
+
+    SOLIMAN.
+C'est sans doute, Rustan, quelqu'un de ses complices.  
+
+    RUSTAN.
+Il faut qu'il le confesse au milieu des supplices.  
+
+    ACMAT.
+Dieu qu'est-ce cy !  
+
+    SOLIMAN.
+Comment l'avez-vous arresté ?  
+
+    SOLDATS.
+Faisant garde, et rodant autour de la Cité,  
+Nous le vismes de loin comme hors de luy-mesme,  
+Les yeux estincelans, et le visage blesme ;  
+Et creusmes aussi-tost qu'il couvoit en son sein,  
+Ou venoit d'achever quelque mauvais dessein.  
+Apres nous estre enquis de cent choses diverses,  
+Il nous dit qu'il estoit un espion des Perses ;  
+Et sans nous resister il fut conduit icy.  
+
+    SOLIMAN.
+Jeune homme, avoüez-vous ce que dit celuy-cy ?  
+
+
+### SCENE QUATRIESME
+ALVANTE. SOLIMAN. RUSTAN. PERSINE. ACMAT. SOLDATS.
+
+
+    ALVANTE.
+Elle est entre leurs mains, ô Ciel quelle disgrace !  
+
+    SOLIMAN.
+Responds-moy donc : Es-tu de Perse, ou bien de Thrace ?  
+
+    PERSINE.
+Importune frayeur, et qu'est-ce que je crains ?  
+La mort que j'apperçoy si belle entre leurs mains ?  
+Pourquoy trembler ? [353]Je suis de Perse et non de Thrace.  
+
+    RUSTAN.
+Voyez comme il respond, et qu'il est plein d'audace !  
+
+    SOLIMAN.
+Et de plus Espion ?  
+
+    PERSINE.
+Vous l'avez entendu⁎ ;  
+
+    ALVANTE.
+Ah fille mal-heureuse ! hé Dieu ! tout est perdu.  
+
+    SOLIMAN.
+Tu mourras.  
+
+    ALVANTE.
+Ah Seigneur !  
+
+    PERSINE.
+Que veux-tu faire Alvante ?  
+
+    RUSTAN.
+Quelle est de ce vieillard l'entreprise⁎ insolente !  
+
+    ALVANTE.
+De grace, par ces pleurs qui baignent tes genoux,  
+Daignes, puissant Seigneur, surmonter ton courroux,  
+Et ne veuilles priver du jour une personne,  
+Qui peut pour sa rançon t'offrir une couronne.  
+
+    SOLIMAN.
+Cette affaire n'est pas de petit interest :  
+Leve-toy, bon vieillard, et m'apprends donc qui c'est.  
+
+    PERSINE.
+Ne dis rien, ou du moins secondant mon enuie,  
+Ne dis que ce qui peut me faire oster la vie.  
+
+    ALVANTE.
+Seigneur, sans vous tenir plus long-temps en soucy,  
+La fille de Tamas, Persine, la voicy.  
+
+    PERSINE.
+O par trop pitoyable, et trop cruel Alvante.  
+
+    ALVANTE.
+Seigneur, comme je voy, ce mot vous espouvante :  
+Mais j'ay dit toutesfois la pure verité.  
+
+    SOLIMAN.
+Toy Persine !  
+
+    PERSINE.
+A ce mot, si ton cœur irrité  
+De ma perte, conçoit une plus forte enuie,  
+Il est vray, je la [354] suis, arrache moy la vie.  
+
+    ALVANTE.
+Seigneur considerez  
+
+    PERSINE.
+Que fais-tu ?  
+
+    ALVANTE.
+Ces cheveux  
+Qu'elle serre au dedans entortillez par nœuds :  
+
+    SOLIMAN.
+Mais quelle occasion en ce pays t'ameine ?  
+
+    ALVANTE.
+Seigneur, je le diray.  
+
+    PERSINE.
+La naturelle hayne  
+Que contre ta personne, et contre tous les tiens,  
+Dans ce cœur genereux⁎ de tout temps j'entretiens,  
+Est l'unique sujet qui m'ameine en Syrie,  
+Pour te faire sentir l'effet⁎ de ma furie.  
+Doncques que veux-tu plus, et qu'est-ce qu'on attend ?  
+J'ay merité la mort, que differes-tu tant ?  
+
+    ALVANTE.
+Seigneur, le vray subject, et qu'elle a voulu taire ;  
+Est tel qu'il esteindra toute vostre colere ;  
+C'est l'amour qu'elle porte au Prince vostre ainé,  
+Soubs [355] la foy⁎ de l'hymen entr'eux deux destiné.  
+
+    PERSINE.
+Que tu me fais de tort !  
+
+    SOLIMAN.
+Dieu que viens-je d'entendre⁎ !  
+
+    RUSTAN.
+Voilà cet innocent qu'Acmat vouloit deffendre !  
+Le crime est averé, Sire, n'en doutons point,  
+Voilà comme ce fils avec le Perse est joint,  
+Voilà sa trahison.  
+
+    ACMAT.
+Dieu la triste avanture [356] !  
+
+    SOLIMAN.
+Je le reconnois trop, ah fils contre nature,  
+Et vous, dans peu de temps vous sçaurez, scelerats,  
+De quels maux je punis de pareils attentats.  
+
+    ALVANTE.
+O deplorable Sort !  
+
+    SOLIMAN.
+Soldats, qu'on me l'emmeine,  
+Dans un obscur cachot en attendant sa peine ;  
+Et toy, vieillard, suy moy, tu seras mis aux fers.  
+
+    ALVANTE.
+O Persine.  
+
+    PERSINE.
+O tourmens d'une main douce offers !  
+
+
+### SCENE CINQUIESME
+SOLDATS. PERSINE.
+
+
+    SOLDAT.
+Madame, de vos maux j'ay si fort l'ame attainte,  
+Et fay ce triste office⁎ avec tant de contrainte,  
+Que si l'on avoit mis l'un et l'autre à mon choix,  
+Je choisirois plustost de mourir mille fois.  
+
+    PERSINE.
+Quelle pitié tardive amollit ton courage !  
+
+    SOLDAT.
+Vos beautez, vostre rang, vostre sexe, et vostre âge,  
+Que vous faites reluire avecques tant d'éclat,  
+Me touchent vous voyant reduite en cét estat :  
+Mais ce qui plus que tout sensiblement me presse,  
+C'est que de Mustapha vous soyez la Maistresse.  
+
+    PERSINE.
+Ah tais-toy, mon amy, de semblables propos  
+Bien plus que tu ne crois, nuisent à mon repos.  
+Sçaches que le subjet qui fait que tu m'estimes  
+Indigne de ces maux, les rend seul legitimes :  
+Mais que voy-je bon Dieu ! de grace mes amis,  
+Qu'un moment de delay me soit icy permis ;  
+Souffrez⁎ que je reproche à qui m'oste la vie,  
+Qu'il a ce qu'il desire, et qu'elle m'est ravie :  
+C'est Mustapha qui vient, laissez moy veoir à luy,  
+Que de quelques propos j'allege mon ennuy⁎,  
+Et si je n'en sçaurois tirer d'autre vengeance,  
+Que ma langue du moins punisse son offence.  
+
+    SOLDAT.
+Amour, Maistresse, mort, vengeance, deplaisir ;  
+Mais soit ce qui pourra ; j'accorde ton desir.  
+
+    PERSINE.
+Ah veüe ! ah fier aspect ! ah cruel homicide !  
+Et ce qui passe tout, homme ingrat et perfide !  
+Dieu ! comme le venin qui de son sein glacé  
+Tout froid, jusqu'en mon cœur, par mes yeux a passé,  
+Me saisissant la langue et le pied tout ensemble,  
+Oste la voix à l'une et fait que l'autre tremble.  
+
+
+### SCENE SIXIESME.
+MUSTAPHA. PERSINE. SOLDAT.
+
+
+    MUSTAPHA.
+Vas t'en, et si quelqu'un venoit dessus mes pas,  
+Enjoins-luy de ma part de ne me suivre pas ;  
+Et luy dis qu'aimant mieux une mort glorieuse,  
+Que de vivre une vie à mon Prince odieuse,  
+Je retourne à la Cour pour avoir le bon-heur  
+D'immoler s'il le faut ma teste à mon honneur :  
+Mais afin que mon Pere avec plus d'asseurance  
+Sur ce flanc desarmé lise mon innoncence,  
+Emporte cette espée, et vas pres de la Tour,  
+Ou si tu veux, au camp, attendre mon retour.  
+
+    PERSINE.
+Que les armes par toy sont justement quittées,  
+Puis qu'elles en estoient indignement portees !  
+Qu'à bon droit tu deffends qu'on ne te suive pas,  
+Ferois-tu bien le Prince ayant le cœur si bas ?  
+Mais quitte aussi le jour, ou dedans les boccages,  
+Vas te cacher parmy les Ours les plus sauvages,  
+Comme eux impitoyables, et sans aucune foy⁎.  
+
+    MUSTAPHA.
+Veillé-je, ou si [357] je dors ! Dieu ! qu'est-ce que je voy !  
+Est-ce une chose vraye ! ou si*101* c'est quelque songe,  
+Dont mon desir m'abuse avec un doux mensonge !  
+
+    PERSINE.
+Non, ces liens [358] ne sont ny mensonge, ny faux,  
+Tu me vois endurer de veritables maux,  
+Et la mort qui bien tost finira ma misere,  
+Ne sera point non plus fausse ny mensongere :  
+Doncques resjoüis-toy, superbe⁎, déloyal,  
+Et qui foules aux pieds un cœur de sang royal :  
+Contemple avec plaisir dans une chaisne infame,  
+Et qui n'attend sinon [359] l'heure de rendre l'ame,  
+Celle dont tu receus la lumiere du jour,  
+Et qui fut pour toy seul dans les liens d'amour.  
+
+    MUSTAPHA.
+C'est sans doute elle mesme ! ô Dieu ! troupe barbare !  
+Hé comment traitez-vous une beauté si rare !  
+
+    SOLDAT.
+Le Roy, brave Seigneur, l'a mise entre nos mains,  
+Jugez par là du reste.  
+
+    MUSTAPHA.
+O Destins inhumains !  
+En quel estat apres une si longue perte,  
+Maintenant à mes yeux, par vous est-elle offerte !  
+Persine prisonniere ! et pour tout reconfort,  
+Persine n'attendant que l'heure de la mort !  
+Persine qui pourroit retenir asservie  
+Des Rois les plus puissans, la franchise [360] et la vie !  
+Et pourquoy m'accuser de manquer à ma foy⁎,  
+Moy qui n'aimay jamais, et qui n'ayme que toy ?  
+
+    PERSINE.
+Tu ne te crois donc pas assez abominable  
+Si tu ne feins encor de n'estre pas coupable ?  
+Que pretens-tu par là ? d'accroistre mes ennuis ?  
+Tu ne le sçaurois plus [361] en l'estat où je suis ;  
+Ou si craignant d'en haut une juste vengeance,  
+Tu veux dissimuler et nier ton offence  
+Et penses comme à moy pouvoir cacher aux Cieux,  
+Ce qu'ils n'ont que trop veu pleins de lumiere et d'yeux ?  
+Non, non, n'espere pas leur cacher ton offence,  
+Et sçaches qu'ils prendront eux-mesme ma deffence.  
+
+    MUSTAPHA.
+Je reste tout troublé ! quel est donc ce forfait ?  
+Que je sçache du moins le crime que j'ay fait ?  
+Certes si j'ay failli, ma faute est pardonnable,  
+Car c'est la volonté qui rend seule coupable.  
+
+    PERSINE.
+Tu te mocques encore, et le mal te plaist tant,  
+Que tu le veux ouyr redire à chaque instant :  
+Et bien, j'en suis contente, il faut que je te die  
+Comme tu déchiras, remply de perfidie,  
+Et la lettre et la feuille où se tenoient enclos,  
+Mon esprit, mon espoir, ma vie et mon repos.  
+Comme te noircissant d'un horrible parjure,  
+Tu fis à mon honneur une sensible injure,  
+En niant de m'avoir jamais donné la foy⁎,  
+Sinon pour m'abuser et te mocquer de moy :  
+Comme tu m'accusas de science magique ;  
+Comme tu me chassas ainsi qu'une impudique,  
+Et si je ne sortois de ces lieux promptement,  
+Dis que tu me ferois mourir honteusement :  
+Mais va, resjoüis-toy, la mort m'est preparée,  
+J'ay voulu la chercher toute desespérée,  
+Afin de me punir de t'avoir trop aymé.  
+
+    MUSTAPHA
+Ah tais-toy, de douleur je suis presque pasmé :  
+Je perds à tes discours et l'esprit et la vie :  
+Quelle [362] est cruel destin aujourd'huy ton envie ?  
+Quel estrange complot de l'Amour et du Sort,  
+A juré ma ruyne, et conspiré ma mort ?  
+Quels autres ennemis ont entrepris encore  
+De m'accuser à toy d'un crime que j'ignore ?  
+Dequoy me parles-tu ? quels estoient ces escris ?  
+Qui me les apporta ? qui les a veus ou pris ?  
+Qui jamais entendit sortir de cette bouche,  
+Que des mots de loüange en tout ce qui te touche ?  
+Deschirer tes escrits ! desavoüer ma foy⁎ !  
+Ah que ces actions ne partent pas de moy.  
+T'appeller ny te croire impudique ou sorcière !  
+Te chasser, menacer de t'oster la lumière !  
+O Ciel, s'il est ainsi, que tarde ton courroux ?  
+Precipices, Enfers, que ne vous ouvrez-vous ?  
+Affin de m'engloutir dans vos profonds abysmes,  
+Pour la punition que meritent ces crimes ?  
+Que la terre ait horreur de soustenir mes pas ;  
+Que ny l'air, ny le feu ne me soulagent pas ;  
+Qu'avec les Elemens l'Univers me haïsse,  
+Et pour me souhaitter un plus rude supplice,  
+Que Persine elle mesme ait pour moy de l'horreur,  
+Si jamais mon esprit conceut tant de fureur,  
+Et si dedans ce cœur qui garde ton image,  
+Mon amour ne te rend un eternel hommage ;  
+Que ne penetres-tu dedans mes sentimens !  
+Que ne vois-tu Persine en ce cœur si je mens !  
+
+    PERSINE.
+Quand [363] tu m'en donnerois une entiere asseurance,  
+Que me peut desormais servir ton innocence ;  
+Puis qu'elle ne sçauroit me sauver du trespas ?  
+
+    MUSTAPHA.
+On ne respectera plus de si divins appas [364],  
+Et quand tant de beauté ne te pourroit deffendre,  
+Si quelqu'un doit mourir, J'ay du sang à respandre.  
+Fin du quatriesme Acte.
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE.
+MUSTAPHA, et PERSINE, conduits au supplice.
+
+
+    MUSTAPHA
+Faut-il donc que ce fer, trop aimable Persine,  
+Se monstre si cruel à ta beauté divine,  
+Et que nos cœurs unis par l'Amour et le Sort,  
+Soient separez du coup d'une si dure mort !  
+Mais pourquoy n'est-on pas content de mon supplice,  
+Sans que cette Princesse avecque moy perisse,  
+Qui ne peut en vivant donner aucun ennuy⁎,  
+Ny s'usurper⁎ [365] la gloire ou le Sceptre d'autruy ?  
+Ne reconnoist-on pas quelle est son innocence ?  
+Si ce n'est que l'amour ait causé son offence.  
+
+    PERSINE.
+Mais plutost ce visage est luy seul criminel,  
+Et digne que je souffre⁎ un supplice eternel,  
+Puisque pour avoir eu le bon-heur de te plaire,  
+Il a de Soliman excité la colere.  
+
+    MUSTAPHA.
+Ce visage Persine a des attraits trop doux,  
+Pour estre le sujet d'un si rude courroux :  
+Croy plutost que le Ciel jaloux des belles flames  
+Où s'alloient consommant nos innocentes ames,  
+Et dont nous recevions dans un paisible accord  
+Des biens qu'on ne sçauroit gouster qu'apres la mort ;  
+Le Ciel, dis-je, sur nous deschargeant son envie,  
+A luy mesme entrepris de nous oster la vie :  
+Mais mourons constamment⁎, et faisons voir ce jour  
+Qu'on nous peut bien oster la vie, et non l'amour.  
+
+    PERSINE.
+Que ce soit, cher Amant⁎, ou le Ciel ou la Terre  
+Qui nous livre aujourd'huy cette funeste guerre,  
+J'en deteste l'autheur, mais la cause m'en plaist,  
+Et j'en benis l'effet⁎ tout injuste qu'il est.  
+
+    MUSTAPHA.
+Avançons donc, Persine, et courons avec joye,  
+Où par arrest⁎ du Ciel un Pere nous envoye ;  
+Et puis qu'on nous deffend de nous joindre autrement,  
+Qu'en allant l'un et l'autre ensemble au monument⁎ ;  
+Allons mourir ensemble, et qu'au moins en ce monde  
+Nostre sang dans la mort se mesle et se confonde.  
+
+
+### SCENE DEUXIESME.
+LA REINE. SELINE.
+
+
+    LA REINE.
+Seline, c'en est faict, son arrest⁎ est donné,  
+On va faire mourir ce Prince infortuné.  
+O Dieu quelle pitié dans moy se renouvelle !  
+Je suis donc l'instrument d'une mort si cruelle !  
+
+    SELINE.
+La raison, le devoir, les loix de l'amitié⁎,  
+Vouloient que vous eussiez de vous-mesme pitié.  
+
+    LA REINE.
+Mais il meurt innocent.  
+
+    SELINE.
+Il deviendroit coupable,  
+Empescher de faillir [366] c'est estre charitable.  
+
+    LA REINE.
+Quoy doncques des soupçons legers et sans raison,  
+Auront peu me resoudre à cette trahison !  
+Non, je ne puis souffrir⁎ ce reproche en mon ame,  
+Je veux tout declarer.  
+
+    SELINE.
+Gardez-vous-en, Madame,  
+Si vous vous accusez, vous attirez sur vous,  
+Du juste Soliman, la haine et le courroux.  
+
+    LA REINE.
+N'importe.  
+
+    SELINE
+Parlez bas, car nous serions perdues,  
+Si celuy-cy qui vient nous avoit entenduës⁎.  
+
+
+### SCENE TROISIESME.
+ORMENE. LA REINE. SELINE.
+
+
+    ORMENE.
+Possediez-vous, Madame, un eternel bon-heur,  
+Comme vous ferez grace à mon fils et Seigneur :  
+Car lors⁎ que vous sçaurez un secret d'importance,  
+Vous userez sans crainte envers luy de clemence :  
+Mustapha maintenant a les Cieux ennemis,  
+Non point comme je crois, pour mal qu'il ait commis :  
+Mais parce qu'il n'est pas de royale naissance,  
+Pour heriter du Sceptre et regner dans Bisance ;  
+Encor qu'en ce point mesme il soit net de peché,  
+Et que jusques icy ce fait luy soit caché :  
+J'ay tousjours reservé ce secret dans mon ame,  
+Depuis qu'il fut enfant eslevé par ma femme :  
+Mais le voyant helas ! si proche de la mort,  
+J'ayme encor mieux qu'il vive, et renonce à son sort.  
+
+    LA REINE.
+Ce que tu dis, vieillard, me surprend et m'estonne⁎ !  
+Mustapha ne pourroit pretendre à la Couronne !  
+Et n'est-ce pas celuy que trois jours justement,  
+Devant⁎ les premiers cris de cét enfantement,  
+Où de mon aisné mort je pleuray la disgrace,  
+Mit pour ma perte au jour, la Sultane Circasse ?  
+
+    ORMENE.
+Le jour que vostre aisné dans le monde parut,  
+Le mesme jour, le fils de Circasse mourut :  
+Elle qui sur ce fils élevoit son courage,  
+Craignant que ce trépas ne causast son dommage,  
+Afin de reparer cette injure du sort,  
+Me pria de chercher un vivant pour le mort :  
+C'est celuy que depuis la subtile Circasse  
+Fit croire à Soliman de son illustre race ;  
+Bien que de fort bas lieu sans doute il soit venu,  
+Et que je l'eusse pris du premier inconnu,  
+Qui le debvant porter au loin dans une ville,  
+Dont la mer qui la ceint rend l'abord difficille,  
+Consentit aisément à s'en veoir delivré,  
+Moyennant cent sequins [367] qu'alors je luy livray  
+Avecques l'enfant mort qu'il mit en sepulture.  
+
+    LA REINE.
+Ciel ! estoit-ce donc luy ! L'avare ! le parjure !  
+Doncques tant de joyaux qu'il receut lors⁎ de moy  
+Ne purent l'obliger à me garder sa foy⁎ !  
+Mais dy-moy bon vieillard, toy qui dés sa naissance,  
+As de ce jeune Prince entiere connoissance,  
+Toy, dis-je, dont les soins⁎ furent creus suffisans,  
+Pour eslever la fleur de ses plus tendres ans,  
+N'as-tu point sur son corps apperceu quelque marque ?  
+
+    ORMENE.
+Le Ciel vouloit qu'un jour il fust nostre Monarque ;  
+Aussi pour cét effect⁎ receut-il en naissant  
+Sur le bras droit, un signe, en forme de Croissant [368].  
+
+    LA REINE.
+C'estoit mon propre fils ! et celuy de Circasse  
+L'enfant mort qui fut mis au sepulchre en sa place !  
+Naissant je le perdis par trop de piété ;  
+Maintenant je le perds par ma credulité.  
+Je suis en son endroit⁎ doublement criminelle,  
+Pitoyable autrefois, et maintenant cruelle :  
+Car sçaches, bon viellard, que l'on croit faussement,  
+Que mon premier enfant soit dans le monument⁎ :  
+Je feigny cette mort pour luy sauver la vie,  
+Craignant que par Circasse, elle luy fust ravie,  
+Qui ne pouvoit souffrir⁎ ( mais tu la connus bien)  
+De voir à Soliman d'autre enfant que le sien.  
+Ainsi pour eviter son embusche mortelle,  
+Je voulus pratiquer cette ruse nouvelle,  
+Et j'envoyois mon fils loin d'elle et du danger,  
+Dans une place forte avec cét estranger,  
+Qui devant⁎ que partir me donna (chose estrange),  
+L'autre enfant mort du roy qu'il eut par ton eschange,  
+Et qui sous un destin plus heureux et plus beau  
+Fut pour mon propre fils porté dans le tombeau,  
+De mesme que du Ciel la sagesse profonde  
+T'adressa vers celuy que j'avois mis au monde,  
+Afin que tous les deux, le vivant, et le mort,  
+Fussent creus fils du Roy, mesme malgré leur sort.  
+
+    ORMENE.
+O prodige !  
+
+    SELINE.
+O merveille !  
+
+    LA REINE.
+Allons donc tout à l'heure  
+Empescher si je puis que mon cher fils ne meure,  
+Et si l'ayant trouvé je le pers aujourd'huy,  
+Moy-mesme je mourray de regret et d'ennuy⁎.  
+
+
+### SCENE QUATRIESME
+SOLIMAN. ACMAT.
+
+
+    SOLIMAN.
+Je sens, fidelle Acmat, une pareille crainte  
+A celle dont j'avois ce matin l'ame attainte :  
+Les mesmes mouvemens, et la mesme terreur  
+Confondent mes esprits de tristesse et d'horreur.  
+O Dieu que dans nos cœurs la Nature est puissante !  
+Tout coupable qu'il est, son trespas m'épouvante.  
+
+    ACMAT.
+Ah Seigneur ! cette horreur que vostre ame ressent,  
+Montre que Mustapha sans doute est innocent :  
+Sire, encore une fois, au nom de la Nature,  
+Escoutez sa deffence, Acmat vous en conjure :  
+A la perte d'un Fils qu'on ne peut réparer  
+Un Pere sçauroit-il jamais trop differer ?  
+Mais Dieu ! voicy la Reyne et Rustan qui l'arreste,  
+A quelque autre dessein leur malice s'appreste ?  
+
+
+### SCENE CINQUIESME.
+RUSTAN. LA REINE. SOLIMAN. ACMAT. ORMENE.
+
+
+    RUSTAN.
+Mais Madame, escoutez ;  
+
+    LA REINE.
+Je t'ay trop escouté :  
+Ta trahison aura ce qu'elle a merité.  
+Non, toutes ces raisons ne m'en peuvent distraire.  
+J'apperçoy Soliman.  
+
+    RUSTAN.
+Hé ! que pensez-vous faire ?  
+
+    LA REINE.
+Seigneur, c'est à moy seule  
+
+    RUSTAN *s'enfuit.*
+O Ciel, je suis perdu !  
+
+    LA REINE.
+A qui de Mustapha le chastiment est deu ;  
+Ma mort plus que la sienne, est juste et legitime,  
+Et seule contre vous, j'ay peu commettre un crime,  
+Puis que j'ay conspiré contre mon propre sang,  
+Et ruyné celuy qui sortit de ce flanc :  
+Je suis de Mustapha la veritable mere,  
+Et que cecy, grand Prince, appaise ta colere ;  
+Quel autre chastiment me peut estre donné,  
+Qui ne cede aux tourmens dont j'ay l'esprit gesné⁎ ;  
+Marastre que je suis ! horreur de la nature !  
+J'ay de mon propre fils creusé la sepulture.  
+
+    SOLIMAN.
+Mustapha vostre fils !  
+
+    LA REINE.
+Ouy, Sire, asseurément :  
+Ce vieillard me l'enseigne, et vous sçaurez comment :  
+Cependant de Rustan l'ambition couverte⁎  
+M'a fait injustement travailler à sa perte,  
+Et jetter dans l'esprit de vostre Majesté  
+Des soupçons esloignez de toute verité :  
+Ou souffrez⁎ donc, Seigneur, qu'avec luy je perisse,  
+Ou que j'aille à l'instant le tirer du supplice.  
+
+    SOLIMAN.
+O Ciel ! qu'ay-je entendu⁎ ! Courez, Courez Soldats ;  
+Que son funeste arrest⁎ ne s'exécute pas.  
+
+    ACMAT.
+O doux commandement !  
+
+    ORMENE.
+O bien-heureux Ormene !  
+
+    SOLIMAN.
+Mais j'apprehende fort que leur course soit vaine.  
+
+    LA REINE.
+Seigneur, j'avois désjà de moy-mesme mandé,  
+Que son supplice fust quelque temps retardé,  
+Craignant qu'on ne courust trop tard à sa deffence,  
+Quand vostre Majesté sçauroit son innocence.  
+Mais, Seigneur, accordez au Zele⁎ toute puissant,  
+Que pour son propre sang une mere ressent,  
+Que je coure moy-mesme aussi le reconnestre,  
+Et que j'aille embrasser⁎ celuy que j'ay fait naistre.  
+
+    SOLIMAN.
+Allez, Madame, allez, et l'amenez icy.  
+
+
+### SCENE SIXIESME
+SOLIMAN. ACMAT.
+
+
+    SOLIMAN.
+Je ne puis rien comprendre à tout ce discours cy !  
+Car si de Mustapha l'innoncence est si grande,  
+Que veut dire l'escrit que l'ennemy luy mande ?  
+Encor qu'en tout le reste on ait peu m'abuser,  
+En cecy pour le moins n'a-t'on sceu m'imposer⁎ ;  
+Car voilà de Tamas le propre signature !  
+C'est son prorpe cachet ! c'est sa propre escriture !  
+
+    ACMAT.
+La Reyne qui servit d'instrument au forfait,  
+Seigneur, éclaircira la verité du fait :  
+Mais vous n'ignorez pas avecque quelle ruse  
+Ce traistre sçait charger l'innocent qu'il accuse,  
+Et vous avez peu veoir comme au premier accent,  
+Que la Reyne a formé pour [369] ce fils innocent,  
+Le perfide a jugé sa trame descouverte,  
+Et s'est mis à fuyr asseuré de sa perte ;  
+Ce qui declare assez qu'il n'ose se fier  
+A l'escrit qui pourroit seul le justifier.  
+
+    SOLIMAN.
+De mon Fils Mustapha l'innocence averée !  
+Au perfide Rustan la mort est asseurée ;  
+Mais un autre sujet de mon estonnement⁎,  
+C'est que je ne puis voir par quel evenement⁎,  
+Mustapha pourroit estre aussi fils de la Reyne,  
+Quoy qu'avecques plaisir, certes j'en suis en peine.  
+
+    ACMAT.
+Cecy pareillement me rend fort estonné,  
+Car son aisné mourut aussi-tost qu'il fut né.  
+
+    SOLIMAN.
+Mais personne ne vient, helas ! que j'apprehende  
+Qu'on ait executé ce que l'arrest⁎ commande ;  
+Ah Dieu ! il est ainsi qu'on l'execute à tort,  
+Puis-je mourir apres d'une assez rude mort.  
+
+    ACMAT.
+Seigneur, voicy la Reyne, et son Fils qu'elle embrasse⁎.  
+
+
+### SCENE SEPTIESME.
+LA REINE. MUSTAPHA. PERSINE. ALVANTE. SOLIMAN. ACMAT.
+
+
+    LA REINE.
+C'est le subject, mon Fils, d'où provient ta disgrace,  
+Et sur tout de la lettre ; Il ne te reste plus  
+Qu'à te justifier au Prince, là dessus.  
+Le voilà qui t'attend pour ouyr ta deffence.  
+
+
+### SCENE HUITIESME.
+LA REINE, MUSTAPHA, PERSINE, ALVANTE, SOLIMAN, ACMAT, OSMAN
+
+
+    OSMAN *survient.*
+O triste desespoir ! ô divine vangeance !  
+Seigneur, Rustan est mort !  
+
+    SOLIMAN.
+Comment ! de quelle mort !  
+
+    OSMAN.
+Il a fait sur soy-mesme un violent effort.  
+
+    SOLIMAN.
+Et pour quelle raison ?  
+
+    OSMAN.
+Ayant veu que Madame  
+Accusoit sa malice, et son injuste trame,  
+Il est dans son logis accouru furieux,  
+Et d'un coup de sa main tombé mort à mes yeux.  
+
+    SOLIMAN.
+Son bras a seulement prevenu⁎ ma justice,  
+Et le triste appareil⁎ d'un infame supplice ;  
+Il eust apprist le Traistre à vomir son poison  
+Autre-part que sur ceux qui sont dans sa maison.  
+
+    LA REINE.
+Ainsi le Ciel luy-mesme a puny son offence.  
+
+    SOLIMAN.
+A ce point prés, mon fils, je voy ton innocence,  
+Comment donc pourras-tu respondre à cét escrit ?  
+
+    OSMAN.
+Seigneur, j'en puis tout seul esclaircir vostre esprit :  
+Espiant prés du camp, comme voulut mon maistre,  
+Dequoy rendre à vos yeux le jeune Prince traistre ;  
+Des papiers deschirez s'offrent à ce desseing,  
+Où de Tamas estoient le cachet et le seing [370] ;  
+Je les donne à Rustan, qui trop plein d'artifice  
+Les employe aussi-tost à ce damnable office⁎ :  
+Le nom du Roy Tamas d'une aiguille il picqua,  
+Qu'au pied d'un papier blanc après il applicqua :  
+Puis il seme dessus une poudre menuë ;  
+Mais de qui la noirceur sur le blanc retenuë,  
+Laisse apres à sa plume un moyen fort aisé  
+De passer sur le nom qu'il avoit supposé :  
+Enfin le cachet mis en sa forme ordinaire,  
+Il trace cét escrit changeant son caractere,  
+Et vous le vint offrir le feignant arraché  
+D'un Persan, qu'il vous dit que je treuvay⁎ caché.  
+
+    ALVANTE.
+Je fus de tout le mal l'occasion premiere,  
+Et seul à sa malice ay fourny de matiere ; [371]  
+Car au lieu de tenir ce que j'avois promis,  
+Ces papiers par moy-mesme en pieces furent mis,  
+Et pensant ruyner les amours des Persine,  
+Malheureux que je suis, je causay sa ruyne ;  
+Car avecques l'escrit qu'elle m'avoit donné,  
+Estoit du Roy son Pere un papier blanc siné [372].  
+
+    MUSTAPHA.
+Persine, une autre fois me croirez-vous coupable ?  
+
+    PERSINE.
+Ne devois-je pas croire Alvante veritable,  
+Luy que j'avois tousjours trouvé digne de foy⁎ ?  
+
+    MUSTAPHA.
+Doncques vous le croyiez plus fidelle que moy ?  
+
+    LA REINE.
+Seigneur, son innocence est desormais trop claire.  
+
+    SOLIMAN.
+Mais comment pût la Reyne ignorer ce mystere ?  
+
+    OSMAN.
+La voyant seconder ses desseins à regret ;  
+Il n'oza ly fiér cét important secret ;  
+Au contraire il vouloit la tromper elle-mesme,  
+Afin que se jugeant dans un peril extresme,  
+Elle vous conjurast avecques plus d'effect⁎,  
+De procurer la mort de l'autheur du forfait.  
+
+    SOLIMAN.
+O perfide Rustan ! dont la noire malice  
+Meritoit les horreurs d'un plus cruel supplice !  
+Quel estoit ton dessein sinon par mon erreur  
+Me rendre à tous les mien un objet⁎ plein d'horreur ?  
+O Dieu ! que dans la Cour, mesme au Throsne où nous sommes,  
+On doit apprehender les embusches des hommes !  
+Et toy, fidelle Acmat, dont la sage raison,  
+Tousjours de son venin fut le contrepoison :  
+Que tu meritois mieux l'heureux titre de gendre  
+De celuy dont le Fils tu sçais si bien deffendre :  
+Mais toy, mon Fils, pardonne à ton Pere seduit⁎  
+Le funeste danger où tu t'es veu reduit ;  
+Et dont les justes Cieux par leur muet langage  
+Me donnoient ce matin un asseuré presage ;  
+Cela me monstre assez combien tu leur es cher,  
+Et que sans sacrilege on ne te peut toucher :  
+Aussi reconnoissant tes vertus nompareilles  
+Je devais croire moins mes yeux et mes oreilles.  
+
+    MUSTAPHA.
+Pere, et Roy, le meilleur et plus grand des humains,  
+Et ma vie et ma mort sont bien entre vos mains ;  
+Vous avez trop de soin⁎ de l'ame la plus basse,  
+Pour ne pas mesnager le sang de vostre race :  
+Puis de quelque façon que vint vostre courroux,  
+Que pouvoit-il m'oster qui ne fust tout à vous ?  
+Pardonnez seulement à cette belle Amante⁎  
+L'excez où la porta son ardeur⁎ vehemente ;  
+Aussi pardonnez-moy si sans vostre congé⁎  
+Dans cét amour suspect mon cœur s'est engagé,  
+Le plus juste sujet de toutes mes traverses.  
+
+
+### SCENE NEUFIESME.
+GENTIL-HOMME. SOLIMAN. L'AMBASSADEUR DE PERSE. LA REYNE. ACMAT. ALVANTE. MUSTAPHA. PERSINE.
+
+
+    GENTIL-HOMME.
+Seigneur, voicy venir l'Ambassadeur des Perses.  
+
+    SOLIMAN.
+Escoutons-le. Tamas meu d'une juste peur  
+Veut renoncer sans doute à son espoir trompeur.  
+
+    L’AMBASSADEUR DE PERSE.
+Invincible Seigneur, le Roy Tamas mon Maistre,  
+Privé du doux aspect de celle qu'il fit naistre,  
+Et qu'il a fait chercher par d'inutiles soins⁎  
+Dedans tous les pays de son pouvoir tesmoins ;  
+Desjà desesperé de perdre en cette fille  
+L'appuy de sa Couronne, et l'heur de sa famille,  
+Enfin a descouvert par la bonté des Cieux  
+Qu'elle estoit inconnuë arrivée en ces lieux ;  
+Et comme si son cœur trop veritable augure  
+Eust pour elle preveu cette triste avanture :  
+Il m'a, Seigneur, exprez devers⁎ vous deputé,  
+Pour la redemander à vostre Majesté :  
+Elle vient de courir fortune⁎ de la vie,  
+Seigneur, ne souffrez⁎ pas qu'elle luy soit ravie ;  
+Quel honneur recevroit un grand Roy comme vous,  
+Qu'une jeune Princesses esprouvast son courroux ?  
+Plustost, plutost, Seigneur, dissipez ces tempestes,  
+Qui s'en vont fondre⁎ en Perse et menacent nos testes,  
+Et puis que nous voyons le port nous estre ouvert,  
+Que vostre Majesté nous y mette à couvert⁎.  
+Il semble qu'en ce jour le Ciel et la Fortune⁎  
+Offrent l'occasion à nos vœux opportune [373] :  
+L'occasion est fiere, elle hayt le refus ;  
+Une fois méprisée elle ne revient plus :  
+C'est elle qui vous prie au nom du Diadéme,  
+Au nom du Roy Tamas, mais au nom de vous mesme,  
+D'embrasser⁎ le repos, et pour vous, et pour luy,  
+Que la faveur du Ciel vous presente aujourd'huy :  
+Vous sçaurez trop, Seigneur, de quelles belles flames  
+Se sentent consommer ces genereuses ames,  
+Donnez à leur ardeur⁎ seulement vostre aveu⁎  
+Et nos feux aussi-tost s'esteindront par ce feu :  
+Car j'ay charge, Seigneur, de vous rendre les terres  
+Qui causent parmy nous de si cruelles guerres,  
+Au cas que cét Hymen de mon Roy souhaitté  
+Ayt aussi l'heur de plaire à vostre Majesté.  
+Je veux que vous soyez certain de la victoire ;  
+Icy, Seigneur, la paix vous donne autant de gloire,  
+Et puis dés à present mon Prince vous remet,  
+Ce qu'apres un long temps vostre espoir vous promet.  
+
+    SOLIMAN.
+Quand ces raisons sur moy n'auroient point de puissance,  
+En faveur de mon fils, j'userois de clemence ;  
+Ouy, j'accorde la paix, et je veux dés ce jour  
+L'arrester entre nous par des liens d'amour ;  
+Je veux que Mustapha joint avecque Persine,  
+Couppe de tous nos maux la source et l'origine.  
+
+    L’AMBASSADEUR DE PERSE.
+A quel bon-heur mon Roy se void-il eslevé !  
+
+    LA REINE.
+O fils heureusement aujourd'huy retreuvé⁎ !  
+Que tu rends desormais ta mere fortunée !  
+
+    ACMAT.
+Que du sein de la mort sort un bel hymenée !  
+
+    ALVANTE.
+Que les Cieux sçavent bien nos fautes reparer !  
+Je les ay reünis, les voulant separer !  
+
+    MUSTAPHA.
+La valeur du bien-fait et l'action est telle,  
+Qu'elles meritent, Sire, une grace immortelle ;  
+Et si je ne croy pas qu'un tel remercîment  
+Pûst encore estre égal à mon ressentiment⁎ :  
+Mais quelle triste nüe obscurcit ton visage ?  
+Persine, fuyrois-tu cét heureux mariage [374] ?  
+Ou si te ressentant de ton premier courroux,  
+Tu m'estimes coupable, et me hays pour espoux ?  
+
+    PERSINE.
+Plustost ton innocence est tout ce qui me trouble :  
+Par elle, mon erreur s'augmente et se redouble ;  
+Si bien que je me juge indigne de l'honneur  
+Que me fait maintenant nostre commun Seigneur.  
+
+    SOLIMAN.
+Finissez ces debats, et que chacun s'appreste  
+A bien solemniser cette amoureuse feste.  
+Retournons là dedans : où Madame à loisir,  
+Doit touchant Mustapha contenter mon desir ;  
+Apres, nous songerons à quitter cette terre :  
+Persine valoit bien toute seule une guerre.  
+FIN.
+
+
+# Lexique
+
+Ouvrages consultés :
+ * – ATILF, *Dictionnaire du Moyen français* : www.atilf.fr/dmf
+ * – *Thresor de la langue française*, Nicot, 1606
+ * – *Dictionnaire françois* de Pierre Richelet, 1680
+ * – *Dictionnaire de l'Académie Française* 1*re* édition, 1694
+ * – *Dictionnaire des Arts et des Sciences* de Thomas Corneille, 1694
+ * – *Dictionnaire universel de Furetière*, 1687, 1690 et 1695
+ * – *Le Petit Larousse Illustrée* 2000
+ * – Dictionnnaire *Le Robert* 2009Amant(e).Celui qui aime.Au Lecteur ; Argument pour le Solyman ; v. 477 ; 657 ; 1345 ; 1605Sens moderne : « Personne avec qui qqun a des relations sexuelles en dehors du mariage. »AmitiéAffection (sens moderne)V. 209 ; 519 ; 603 ; 757 ; 1359AmourV. 662 ; 994 ; 1057AppareilPréparatifV. 1538Sens moderne : Le substantif désigne un objet, une machine, un dispositif.AprèsÀ la suite deV. 75 ; 281On ne relèvera pas toutes les occurrences du terme, puisque dans les autres cas il a le sens moderne de « ensuite ».ArdeurFerveurAu Lecteur, v. 20VivacitéV. 608Désir, passion amoureuseV. 651 ; 1606 ; 1643Sens moderne : « Énergie impétueuse qui pousse à faire qqch »ArmetPetit casque ferméV. 511 ; 534Emploi moderne : Utilisé dans un vocabulaire technique et spécifique pour désigner ce « casque en métal en usage du xv*e* au xvii*e* siècle »ArrestJugement d'une Cour, d'une Justice supérieure, par lequel une question de fait ou de droit est arrêtéeV. 1350 ; 1355 ; 1522Condamnation/mortV. 1484Sens moderne : « action d'arrêter, de s'arrêter. » Dans un sens plus restreint on trouve aussi « décision rendue par une juridiction supérieure » qui rappelle le premier sens trouvé dans notre texte.ArtAdresse, subtilitéV. 80ArtificeV. 237 ; 432 ; 872Ce qui est composé et conduit avec raisonnement, en faisant une juste application des principes ou préceptes destinés à rendre utile ou agréable. Ici il désigne plus directement la Poésie.Au LecteurSens modernes : « Aptitude, habilité à faire qqch » / *Beaux Arts* : « Création d'objets destinés à produire chez l'homme un état de sensibilité lié au plaisir esthétique. »AveuConsentement, autorisationV. 1643Sens moderne : désigne une déclaration par laquelle on reconnaît quelque chose.BesoinÉprouver la nécessité de qqch avec connotation de difficulté. Dans l'adresse Au Lecteur, on trouve déjà l'expression moderne d'« avoir besoin » et non plus d'« estre besoin ». Ces deux expressions conjuguées avec un auxiliaire différent, ont le même sens.Au Lecteur, v. 901 estre besoinNécessité (sens moderne)V. 996CelerCacher, taire.V. 120 Sens moderne : le sens de « cacher, taire » s'est élargi. Le verbe désigne alors le fait de « tenir secret ».CongéPermissionV. 1607Sens moderne : Autorisation donnée pour cesser le travail.ConseilDécisionV. 304 ; 838 ; 1046À la Cour on ne pouvait prendre aucune décision en l'absence du Roi et de son Assemblée, d'où la précision qui souligne l'accord du Roi après délibération dans un lieu approprié (cf. 2*e* sens moderne)Privilège du Roy : Par le Roy en son conseilSens modernes : « Avis sur ce qu'il convient de faire ». / « Assemblée de personnes chargées de fonctions consultatives, délibératives, administratives, juridictionnelles, etc…. »Constance / Constant (adjectif) / Constamment (adverbe)Persévérance dans le bienV. 174PersévérantV. 913Avec constance : avec une certaine force morale qui permet de ne pas se laisser abattre.V. 708 ; 1343Sens moderne : « d'une manière continue »CouleurPrétexteV. 874Sens moderne : « coloration »Couvrir / Couvert (adjectif) / À couvertSens moderne de recouvrir (sens hyperbolique dans le contexte)V. 8Caché, dissimuléV. 198 ; 492 ; 1477À l'abriV. 1632Sens moderne : mettre par-dessus, abriter, protéger.DebileFaibleV. 1052DevantAvantV. 915 ; 1112 ; 1388Avant deAu Lecteur ; v. 1433 : devant queSens moderne. La préposition a une valeur spatiale plus que temporelle.Au Lecteur devant nos yeuxSens moderne : marque principalement l'antériorité dans l'espace. La préposition peut aussi avoir un léger sens temporel dans des expressions comme « Il est arrivé devant toi »DeversVers, du côté deAu Lecteur, v. 38, 1623DerechefDe nouveau, à nouveauV. 9 ; 251 ; 614Dérober« S'enfuir furtivement »Argument pour le Solyman« Retirer, soustraire furtivement »V. 536Sens modernes : en plus du sens du vers 536, on trouve aussi dérober « s'approprier furtivement le bien d'autrui »DiligensRapideV. 47, 276« En toute hâte »V. 88 En diligenceSens moderne : l'adjectif a gardé le sens de « rapide ». Il désigne quelqu'un qui agit avec promptitude e efficacité : assidu, zêlé.Effet/effectRésultat (proche du sens moderne)Au Lecteur, v. 80, 94Par extension manifestation concrèteAu Lecteur avec plus d'effet, v. 148 ; 598 ; 1164Action, réalisationV. 314 ; 943 ; 952 ; 962 ; 1348 ; 1415En réalité, en vérité (sens moderne)En effet : Au Lecteur, Argument pour le Solyman ; v. 1039Sens modernes : En plus du sens de « résultat d'une action », on trouve aussi couramment le sens de « impression produite sur qqun »EmbrasserÉtreindreV. 1494 ; 1525Sens figuré : adopter, choisirV. 1639Sens moderne : donner des baisersEmpereurCommandant en chef d'une armée (sens latin de *imperator*)Argument pour le Solyman ; v. 387Sens moderne : « chefs suprêmes de certains États, détenteur de l'ensemble des pouvoirs »Endroit« Envers untel »Argument pour le Solyman, v. 988 ; 1421 : à l'endroit d'untel« Envers quelque chose »Au Lecteur : à l'endroit de qqch« Lieu, place »Au Lecteur, v. 193Sens modernes : le sens de « lieu déterminé », reste très employé. On trouve aussi la locution « à l'endroit » : « dans le bon sens, du bon côté ».EnnuyChagrin, soucisV. 192, 240, 1202, 1444DéplaisirV. 1327Sens moderne : le terme s'est aujourd'hui. Il désigne encore quelquefois un « désagrément fâcheux », « un soucis », mais il est surtout employé pour parler d'une « provoquée par l'inaction ou le désintérêt ».EntendreComprendreAu Lecteur ; v. 98 ; 373 ; 1009 ; 1109Je veux dire par là, je veux faire comprendre par là.Au Lecteur : J'entends par làÉcouter raconter (proche du sens moderne de la perception auditive)V. 133 ; 321 ; 1012 ; 1137 ; 1171 ; 1370 ; 1483Écouter (proche du sens moderne)V. 546 ; 940Sens moderne : « percevoir par l'ouïe. ». L'expression *entendre par là* reste encore usité.EntrepriseDessein, décision de faire qqchV. 14 ; 186 ; 269 ; 450 ; 778 ; 887 ; 948 ; 1140Sens modernes : En plus du déverbal d'entreprendre que l'on utilise peu en français moderne, le terme est très souvent usité dans le sens de « affaire commerciale ou industrielle »Etonner / EstonnementCraindre / crainteV. 498 ; 735Surprendre / surprise (proche du sens moderne)V. 753 ; 1385 ; 1515Sens moderne : frapper, suprendre par quelque chose d'extraordinaire, inattendu.ÉvénementSortie, issueV. 720 ; 1090 ; 396Aventure remarquableV. 1516Sens moderne : « Fait qui a souvent une importance marquante ».ExposerMettre à la vue d'autruiArgument pour le Solyman ; v. 227Représenter sur scènePrivilège du RoySe mettre en lieu où… / s'abandonner à V. 24PrésenterAu Lecteur, v. 644 ; 846Sens moderne : Le 1er sens est conservé mais on trouve aussi l'idée d'expliquer ou encore, mais plus rarement « mettre en péril » dans l'expression « exposer sa vie ». Le verbe existe aussi sous forme pronominale et signifie « courir le risque de ».FoyFidélité, loyautéAu Lecteur (garder la foy) ; v. 16 ; 121 ; 158 ; 308 ; 668 ; 675 ; 765 ; 871 ; 1080SincéritéV. 821 ; 1229 ; 1529Croyance, assurance. Par extension *faire foy* : faire preuve, assurance.Au LecteurEngagement, parole donnéev. 148 ; 175 ; 560 ; 589 ; 598 ; 680 ; 886 ; 1170 ; 1253 ; 1277 ; 1297 ; 1408ReconnaissanceV. 163 ; 933De lui-mêmeAu Lecteur quant et soySens modernes : « Croyance ». Cependant le sens de « fidélité à remplir ses engagements » est encore utilisé dans la littérature.FondreS'abattre, se précipiter sur… dans le but de le détruire.V. 85 ; 1630Sens moderne : « Amener un solide à l'état liquide sous l'effet de la chaleur »FortuneHasard, destinée, sortAu Lecteur, v. 630 ; 820AventureV. 9Être en prise au sort à la *bonne ou mauvaise fortune* : chance ou danger, être en proie à la chance ou au danger. L'expression *partir à l'aventure* en est proche de sens.V. 117 ; 1625 courir fortune de la vieTout ce qui peut arriver de bien ou de mal à qqun. Dans ce sens les expressions *retournement de fortune* ou *changement de fortune* indique le retournement de la chance ou de la malchance contre la personne.Au LecteurSort, Destin en tant que instance supérieure ayant une influence sur la vie des hommes.Au Lecteur combat de la fortune, v. 301 ; 1633MalchanceInfortune v. 397Sens modernes : « Ensemble des biens matériels, des richesses que possède qqun » ; bien que peu usité, on trouve encore le substantif comme synonyme de « chance heureuse ou malheureuse ; hasard »FranchiseDéverbal du verbe *franchir.*Subtilité d'esprit, absence de difficulté. Par extension : loyautéV. 737Sens moderne : Qualité d'une personne sincère et droite.GénéreuxSe dit de qqun qui a une grandeur d'âme, qui agit noblement.Argument pour le Solyman ; v. 112 ; 1063 ; 1162Sens moderne : « Se dit de qqun qui donne largement »GesnerTourmenter, torturer, affliger.V. 358 ; 1472 Sens moderne : le verbe s'est affaibli il désigne désormais le fait de perturber, d'entraver le bon fonctionnement de quelque chose ou le fait d'avoir des contraintes.ImposerAccuserV. 869Tromper, mentirV. 1500Sens moderne : « obliger à faire », « ordonner quelque chose de pénible ».LacsAu figuré, piège tenduV. 466Ce sont ici les méthodes, les ruses qui sont désignées par la métaphore du chasseur qui utilise un *lacs* : noeud coulant qui permet d'attraper le gibier.V. 864Sens moderne : Le terme est employé dans un vocabulaire très technique et rarement usitéLa prochaineL'autreV. 386Sens moderne : la suivanteLors (adverbe de temps)AlorsAu Lecteur, v. 511 ; 563 ; 575 ; 589 ; 636 ; 1407 QuandAu Lecteur : lors que, v. 1010 ; 1373Sens modernes : L'adverbe n'est plus employé seul mais accompagné de préposition comme « depuis » ou « de ».MinistreServiteur, conseillerV. 54InstrumentV. 434Sens moderne : Membre d'un gouvernement d'un État.MonumentTombeauV. 1352 ; 1424Sens moderne : Édifice remarquable par sa beauté ou son ancienneté.MouvementMotif, mobileV. 127Trouble, émotion de l'âme qui peut aller jusqu'à la notion de passion, de désir.Au Lecteur, v. 129 ; 130 ; 322Sens moderne : déplacement, changement de position d'un corps dans l'espace.ObjetCause, motif d'un sentimentAu Lecteur, v. 624 ; 1584Chose qui affecte les sensV. 728Sens moderne : la chose que l'on regardeAu Lecteur : les objetsSens moderne : Toute chose concrète perceptible par la vue ou le toucher.OfficeTâcheV. 542 ; 1550Faire office : remplir une fonctionV. 1184Sens modernes : Outre le sens du vers 1184 encore usité, on trouve aussi le sens d'« établissement public ou privé se consacrant à une activité déterminée ». Le substantif peut aussi avoir le sens religieux d'« ensemble des prières et des cérémonies »PrevenirDevancerV. 652 ; 1537Sens moderne : avertir, prendre les devants de qqch pour l'empêcher de se produire en prenant les précautions nécessaires.RessentimentSentiments de l'âme, quand elle est émue de certaines passionsV. 1066 ; 1668Sens moderne : souvenir des injures et désir de vengeanceSéduitAbusé, trompéV. 1591Sens modernes : être attiré fortement, être charmé ou avoir obtenu les faveurs de qqun.SoinTâcheV. 609 ; 1411 ; 1601Intérêt/attention porté à qqun ou qqchV. 902 ; 932 ; 1615Application d'esprit à faire qqchAu Lecteur ; v. 47Charge, responsabilitéV. 248SoucisV. 370Sens modernes : Le substantif est surtout utilisé pour désigner « l'ensemble des moyens par lesquels on s'efforce de rendre la santé à des malades ». On trouve encore le sens d « attention à qqun ou qqch ».SouffrirSupporter, tolérerAu Lecteur ; v. 73, 165, 254, 282, 668, 668, 849, 1059, 1199, 1332, 1365, 1427, 1481, 1626Sens proche du sens moderne : endurer.V. 699SuperbeOrgueilleuxV. 840 ; 1237Sens moderne : « d'une beauté éclatante ».S'usurperS'emparer injustement.V. 291 ; 1328Sens moderne : le verbe ne s'emploie plus dans sa forme pronominale mais il a gardé le même sens.TreuverA le même sens que *trouver* qui l'a supplantéV. 86 ; 311 ; 356 ; 646 ; 1560RetreuverV. 37 ; 1660Le *Dictionnaire critique de la langue française* de JF Féraud indique que « *Vaugelas* était d'avis que *trouver* et *treuver* étaient tous deux bons ; mais que le premier était sans comparaison le meilleur. » Dans *Le Solyman* on trouve les deux verbes.ZeleAffectionV. 22 ; 170 ; 1080 ; 1491Sens moderne : Le terme a souvent un aspect péjoratif dans le sens d'« empressement excessif ». Mais on trouve aussi le sens d'« ardeur au service d'une personne ou d'une chose, inspiré par la foi, le dévouement etc… ».
+
+
+# Liste des Acteurs : Le Grand et dernier Solyman ou la mort de Mustapha de Jean Mairet.
+Solyman | Roi de Thrace ou de Turquie
+Mustapha | Fils de Solyman
+Acmat | Conseiller de Solyman et ami de Mustapha
+Rustan | Gra, d Vizir, gendre de Solyman et ennemy mortel de Mustapha
+Bajazet | Lieutenant et amy de Mustapha
+Orcambre | Vieil esclave de la Sultane
+Osman | Confident de Rustan
+Alvante | Gouverneur de Despine
+Despine | Fille du Roy de Perse Amazone et Amante de Mustapha
+Roxelane | Sultane et femme de Solyman
+Hermine | Esclave et favorite de la sultane
+Alicola | Vielle esclave estrangere qui fait la reconoissance de Mustapha
+
+
+
+La scène est en Alep ville de Syrie, la piece est dans toutes les reigles de la Tragedie.
+
+
+# Liste des Acteurs du Solimano de Bonarelli
+Solimano | Rè de Traci
+Rusteno | Genero del Ré
+Acmat | Consigliere del Rè
+Osmano | Familiar di Rusteno
+Corimbo | Filgio di Mulearbe
+Mulearbe | Indovino del Rè, Padre di Corimbo
+Mustafà | Figlio del Rè
+Ormusse | Rettore e Consigliero di Mustafà
+Adrasto | Luogotenente di Mustafà
+Meslo | Di Mustafà
+Nunzio | Primo
+Nunzio | Segundo
+Giaffer | Custode d'una porta della Città
+Alvante | Persiano, Rettor di Despina
+Despina | Figlia del Rè di Persia in habito di Maschio, innamorata de Mustafà
+Regina | Moglie di Solimano
+Nutrice | Della Regina
+Aidina | Nutrice di Mustafà
+Alicola | Serva di Mustafà
+Soldato | Della guardia del Rè
+
+
+
+La Scena è in Aleppo, Città della Soria.
+
+Traduction
+Soliman | Roi de Thrace
+Rustan | Gendre de Soliman
+Acmat | Conseiller du Roi
+Osmane | Proche de Rustan
+Corimbo | Fils de Mulearbe
+Mulearbe | Devin du Ro, Père de Corimbo
+Mustafà | Fils du Roi
+Ormène | Recteur et conseiller de Mustafà
+Adraste | Lieutenant de Mustafà
+Mesla (traduction introuvable) | De Mustafà
+Messager | premier
+Messager | second
+Giaffer | Gardien d'une des portes de la ville
+Alvante | Persan, Recteur de Despina
+Despine | Fille du Roi de Perse en tenue d'homme, amoureuse de Mustafà
+Nourrice/ Confidente | De la Reine
+Aïdina | Nourrice Mustafà
+Alicola | Servante de Mustafà
+Soldats | De la garde royale
+
+
+
+La scène se déroule à Alep; ville de Syrie [375]
+
+
+# Liaisons et ruptures de scènes
+
+
+## Tableau des liaisons et ruptures de scènes du *Soliman* de Charles Vion d'Alibray.
+Acte I | Acte II | Acte III | Acte IV | Acte V
+1-2 / 3-4 | 1-2-3-4 / 5-6 | 1-2-3-4-5-6 | 1-2-3-4-5-6 | 1 / 2-3 / 4-5-6-7-8-9
+
+
+ * - : liaisons de scène/ : ruptures de scène
+
+À noter, la liaison de vue entre les scènes 3 et 4 de l'acte I puisque toutes les autres sont des liaisons de présence.
+
+
+## Tableau des liaisons et ruptures de scènes du *Grand et dernier Solyman ou la mort de Mustapha* de Jean Mairet
+Acte I | Acte II | Acte III | Acte IV | Acte V
+1 / 2 / 3-4 / 5-6 | 1-2 / 3-4 / 5 / 6-7 | 1-2 / 3 / 4 / 5 / 6-7-8-9-10-11 | 1-2-3-4 | 1-2-3-4 / 5-6 / 7-8 / 9
+
+
+
+
+## Tableau des liaisons et ruptures de scènes du *Solimano* de Prospero Bonarelli
+Acte I | Acte II | Acte III | Acte IV | Acte V
+1-2 / 3-4 | 1-2-3-4 / 5-6 | 1 / 2-3 / 4 / 5-6-7 | 1-2-3-4-5-6-7-8 / 9-10-11 | 1 / 2-3-4-5
+
+
+
+
+# Tableau de présence du Soliman de Charles Vion d'Alibray
+ | I, 1 | I, 2 | I, 3 | I, 4 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | IV, 5 | IV, 6 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5 | V, 6 | V, 7 | V, 8 | V, 9
+Solyman | X | X |  |  | X |  |  | X |  |  |  | X | X |  |  |  | X | X | X | X |  |  |  |  |  | X | X | X | O | X | X
+Rustan | X |  |  |  | X | X | X | X |  |  |  |  | X |  |  |  | X | X | X | X |  |  |  |  |  |  | X |  |  |  | 
+Acmat | X | X |  |  | O |  |  |  |  |  |  | X |  |  |  |  | X | X | X | X |  |  |  |  |  | X | X | X | O | O | X
+Osman |  | X |  |  | O | X |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | 
+Persine |  |  | X |  |  |  |  |  | X |  | X |  |  |  |  |  |  |  | X | X | X | X | X |  |  |  |  |  | O | X | X
+Alvante |  |  | X |  |  |  |  |  | X | X | X |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  | O | X | X
+La Reyne |  |  |  | X |  |  | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  | X |  | X | X | X
+Seline |  |  |  | X |  |  | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  |  | 
+Mustapha |  |  |  |  | X |  |  |  |  |  |  |  |  | X | X | X |  |  |  |  |  | X | X |  |  |  |  |  | O | X | X
+Soldats |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  | X | O | X | X |  |  |  |  |  |  |  |  | 
+Ormene |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X |  |  |  |  |  |  |  |  | X |  | X |  |  |  | 
+Adraste |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Messager |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Devin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | 
+Gentil-homme de Soliman |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X
+Ambassadeur de Perse |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X
+
+
+
+X : personnages présents sur scène
+
+O : personnages présents sur scène mais qui ne parlent pas
+
+
+# Tableau de présence du Solimano de Bonarelli
+ | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | III, 7 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | IV, 5 | IV, 6 | IV, 7 | IV, 8 | IV, 9 | IV, 10 | IV, 11 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5
+Solimano | O | O |  |  |  | O |  |  | O |  |  |  | O | O |  |  |  |  |  | O | O | O | O |  |  |  |  |  |  |  | X | X | X | 
+Rusteno | O |  |  |  |  | O | O | O | O |  |  |  |  | O |  |  |  |  | X | O | O | O | O |  |  |  |  |  |  |  |  |  |  | 
+Acmat | O | O |  |  |  | O |  |  |  |  |  |  | O |  |  |  |  |  |  | O | O | O | O |  |  |  |  |  |  |  | X | X | X | X
+Osmano |  | O |  |  |  | O | O |  |  |  | O |  |  |  | X |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Corimbo |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Mulearbe |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | 
+Mustafà |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  | O | X | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ormusse |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | O | X | O |  |  |  |  |  |  | O | X |  |  |  | X |  |  |  | 
+Adrasto |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Meslo |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | 
+Nunzio |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | 
+Giaffer |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X | X | X |  |  |  |  |  |  |  | 
+Alvante |  |  | O |  |  |  |  |  |  | O | O | O |  |  |  |  |  |  |  |  |  |  | O |  |  | X |  |  |  |  |  |  |  | 
+Despina |  |  | O |  |  |  |  |  |  | O |  | O |  |  |  |  |  |  |  |  |  | O | O | O | O | X |  |  |  |  |  |  | X | 
+Regina |  |  |  | O | X |  |  | O | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  | 
+Nutrice |  |  |  | O | X |  |  | O | O |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | 
+Aidina |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X |  |  |  |  | 
+Alicola |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X |  |  |  |  | 
+Soldato |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Messo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+
+O : personnages communs à la pièce d'Alibray
+
+X : personnages supplémentaires
+
+
+# Tableau de présence du Grand et dernier Solyman ou la mort de Mustapha de Jean Mairet
+
+Ce tableau de présence du *Grand et dernier Solyman ou la mort de Mustapha* de Mairet diffère de celui que l'on peut trouver dans l'édition Champion 2005 (*op. cit.*) puisqu'il nous a semblé y découvrir certaines erreurs.
+ | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | I, 6 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | II, 7 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | III, 7 | III, 8 | III, 9 | III, 10 | III, 11 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5 | V, 6 | V, 7 | V, 8 | V, 9
+Solyman |  |  | O |  |  |  |  | O |  |  |  | O | O |  |  |  | X | X | O | O | O |  |  |  |  |  |  |  | X |  |  | X |  |  | X | X | 
+Mustapha |  |  | O |  |  |  |  |  |  |  |  |  |  | O | O |  |  |  |  |  |  |  | O | X | X | X | O | X | X | X | X | X |  |  |  |  | 
+Acmat |  |  | O |  |  |  |  |  |  |  |  | O |  |  |  |  | X |  | O | O | O |  |  |  |  |  |  |  | X |  |  |  |  |  | X |  | X
+Rustan |  |  | O | O |  |  | O | O |  |  | O |  | O |  |  | X |  | X | O | O | O | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  | 
+Bajazet |  |  |  |  |  |  |  |  |  |  |  |  |  | O | O |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | X
+Orcambre |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | O |  | X | 
+Osman |  |  | O | O |  | O |  | X |  |  | O |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | X |  | X | X |  |  |  |  | 
+Alvante |  | O |  |  | O | O |  |  | O |  |  |  |  |  |  |  |  |  |  |  | O |  | X |  |  |  |  | X |  |  |  |  |  |  | X |  | 
+Despine |  | O |  |  | O |  |  |  | O | X |  |  |  |  |  |  |  |  |  | O | O | X | O | X |  |  | O | X | X | X | X | X |  |  |  |  | 
+Roxelane | X |  |  |  |  |  | O | O |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | O |  |  | 
+Hermine | X |  |  |  |  |  | O | O |  |  |  |  |  | X |  |  |  | X |  |  |  |  |  |  |  | X | O | X |  |  |  |  |  | O |  |  | X
+Alicola |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | 
+Soldat |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | O |  |  | O |  |  |  |  |  |  |  |  | X | X |  |  |  |  | X
+Page |  |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  | 
+Giaffer |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ormonte |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Capitaines |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | I, 3 | II, 1 | II, 2 | II, 5 | II, 6 | II, 3 | II, 4 | III, 1 |  | II, 2 | III, 3 |  |  | III, 4 | III, 6 |  |  |  | IV, 1 | IV, 3 | IV, 4 |  | IV, 6 |  |  |  | IV, 6 |  |  |  |  |  | V, 3 |  |  | 
+
+
+
+Les chiffres en dernière ligne du tableau font référence à la correspondance de la pièce d'Alibray avec celle de Mairet.
+
+O : personnages communs à la pièce d'Alibray
+
+X : personnages supplémentaires
+
+
+# Bibliographie sommaire
+
+
+## Texte de référenceLe Soliman
+
+
+
+## Sources
+
+
+### Sources principalesIl SolimanoDue lettere del signor compte Prospero Bonarelli al signor Antonio Bruni
+Le Grand et Dernier Solyman ou la mort de Mustapha
+
+
+
+### Ouvrages de l'Antiquité
+
+http ://hodoi.fltr.ucl.ac.be : hodoi elektronikai : bibliothèque des textes grecs
+
+http ://agoraclass.fltr.ucl.ac.be : itinera electronica : bibliothèque des textes latinsLa Poétique
+La Rhétorique
+Problèmes
+Les Troyennes
+L'Iliade
+L'Odyssée
+Les hymnes homériques
+Alexandra : La Cassandre
+Les Métamorphoses
+L'énéide
+Phédon
+Fragments
+
+
+
+### Ouvrages publiés avant 1800Pratique du théâtre
+Pratique du théâtre
+Œuvre de Bacon
+Le Temps des Préfaces, Le débat théâtral en France de Hardy à la Querelle du « Cid »
+Sentimens de l'Académie française sur le Cid
+Discours de la Poésie représentative
+Correspondance de Madame de Saintot
+Trois discours sur le poème dramatique
+De constitutione tragoediae : La constitution de la tragédie
+La Poétique
+La fleur d'Agathon
+Préface de Tyr et Sidon, tragi-comédie divisée en deux journées de Schélandre
+Histoire du théâtre françois, depuis son origine jusqu'à présent
+
+
+
+### Ouvrages consultés pour la biographie de l'auteurNouveau recueil des Épigrammatistes François Anciens et Modernes
+Un Académicien du xvii*e* siècle : Saint Amant, son temps, sa vie, ses poésies : 1594-1661
+Anecdotes dramatiques
+Historiettes
+Nouveau recueil de poésies héroïques, satiriques et burlesques
+Les œuvres de Monsieur de Voiture
+
+
+
+### Autres ouvrages de notre auteurL'Aminte du Tasse
+La Pompe funèbre
+Le Torrismon
+Œuvres poétiques du Sr Dalibray. Divisées en vers bachiques, satyriques, heroïques, amoureux, moraux, et chrestiens
+
+
+
+## Études historiques et critiques
+
+
+### Sur le théâtre du xvii*e* siècle, le contexte littéraire et le contexte historiqueLa tragi-comédie de Corneille à Quinault
+Des tavernes aux bistrots : histoire des cafés
+La Querelle du Cid
+L'arte dell'interpretare
+Le Théâtre de l'Hôtel de Bourgogne
+
+
+Dossier sur Le Grand SiècleLe Magazine littéraire
+Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+La Querelle du Cid
+Paroles de musique (158-1694)
+Le théâtre de Mairet. Une dramaturgie de l'existence
+Le Théâtre professionnel à Paris, 1600-1649
+La Poésie française du premier xvii*e* siècle (1598-1630) : esquisse pour un tableau
+A History of French Dramatic Litterature in the Seventeeth Century
+Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie-Française au xvii*e* siècle
+Dramaturgie et politique dans la tragédie française (1634-1651)
+Le Sentiment de l'amour dans le théâtre de Corneille
+Les Libertins en France au xvii*e* siècle
+Répertoire du théâtre français imprimé 1630-1660
+Le style de Vincent Voiture : une esthétique galante
+Un professionnel des lettres au xvii*e* siècle : Valentin Conrart, une histoire sociale
+La Dramaturgie classique en France
+
+Mairet et ses protecteurs, une œuvre dans son milieu
+Œuvres poétiques. Publiées sur les éditions originales de « La musette » de 1647 et des « Œuvres poétiques » de 1653. Avec une notice sur un poète de cabaret au 17è siècle, des notes historiques et critiques et des pièces justificatives
+Les Institutions littéraires en France au dix-septième siècle
+
+
+
+### Sur le genre : la tragi-comédie et les « turqueries »Représentation de l'Islam dans la France du xvii*e* siècle. La ville des tentations
+Représentation de la tyrannie dans les tragédies à sujet turc du Grand siècle français
+The Turk in French History, Thought and Litterature
+xvii*e*CidLittérature et exotisme
+L'Orient dans la littérature française du xvii*e* et du xviii*e* siècle
+Littératures classiques 51
+L'orientalisme. L'Orient créé par l'Occident
+
+
+
+### Sur le drame romantiquePréface de Cromwell
+Le Drame de Diderot à Ionesco
+Le roi et le bouffon : étude sur le théâtre de Hugo de 1830 à 1839
+
+
+
+### Études sur la mythologieL'ange et la bête, Michel-Ange et Cavalieri
+La Mythologie : Ses dieux, ses héros, ses légendes
+
+
+
+### Éditions critiques des œuvres du xvi*e*, du xvii*e* et du xix*e* siècleLe Cid
+Le Cid
+Cinna
+Polyeucte
+Ruy Blas
+Le Prince
+La Sophonisbe
+La Silvanire
+Oeuvres complètes de Blaise Pascal
+BajazetŒuvres complète
+BéréniceŒuvres complètesi
+Venceslas
+
+
+
+
+## Instruments de travail
+
+
+### Langue, Rhétorique, grammaire et ponctuation au xvii*e* siècleSyntaxe française du xvii*e* siècle
+Précis de phonétique historique
+Études historiques, littéraires et morales sur les proverbes français et le langage proverbial
+La Ponctuation du théâtre imprimé au xvii*e* siècle
+
+
+
+### Dictionnaires et documents historiquesDictionnaire du Moyen Françaiswww.atilf.fr/dmf
+*e*
+Dictionnaire des Arts et des Sciences
+Dictionnaire universel
+Bibliothèque des théâtres
+Thresor de la langue française
+Dictionnaire des Théâtre de Paris*e*
+Dictionnaire françois
+Dictionnaire des précieuses
+Histoire des journaux françois et étrangers.
+
+
+cesar.org.uk
+
+www.ambafrance-tr.org
+
+http://www.bibliorare.com
+
+-------
+
+
+[1] Épouse de Pierre Saintot, trésorier de France à Tours.
+
+[2]  Voir *Les Œuvres de Monsieur de Voiture*, nouvelle édition revue et corrigée par Amédée Roux, Toussainct Quinet, 1856.
+
+[3]  Le nom de Madame de Saintot apparaît dans *Le Dictionnaire des précieuses*, Sieur de Somaize, t. 2, Paris, P. Jannet, 1856.
+
+[4]  On retrouve dans les « Vers amoureux » de notre auteur (*Œuvres poétiques du Sr Dalibray. Divisées en vers bachiques, satyriques, heroïques, amoureux, moraux, & chrestiens*, Paris, Jean Guignard / Antoine de Sommaville, 1653, in-8°, p. 5 -35) cet art d'écrire avec spontanéité, tel que l'on parle, un recours régulier à la métaphore, à la comparaison et à l'hyperbole mais aussi une connaissance parfaite des codes amoureux.
+
+[5] *Historiettes* de Tallemant des Réaux, t. 2, Paris, Alphonse Levavasseur, 1834, p. 273 : « Il y avait eu assez de scandales pour que les frères de madame de Saintot, lui fissent une insulte, car une fois ils ne vouloient seulement que le jeter par les fenêtres. Cela esloigna Voiture pour quelques temps … ». 
+
+[6] *Manuscrits* de Conrart, Bibliothèque de l'Arsenal, p. 7 : « … Je ne finirois pas encore si mon frère d'Alibray ne me pressoit de vous faire un compliment pour luy  ; mais il ne veut pas permettre de vous parler d'autre chose que du ressentiment que luy donne votre souvenir. Il est si ayse d'estre dans une de vos lettres et de voir son nom écrit de votre main, qu'il ne trouve point de paroles qui puissent vous en remercier dignement. Il a recours à moy pour cela, à cause, comme je croy, qu'il connoit bien que l'amitié supplée à l'éloquence ; mais c'est seulement pour exprimer ce que l'on ressent… ».
+
+[7]  Voir *op. cit.*, « Vers amoureux ».
+
+[8] *Oeuvres poétiques, op.cit.* « Vers bachiques » : « Je ne vay point aux coups exposer ma bedaine / Moy qui ne suis connu n'y d'Armand ni du Roy  ;  / Je veux sçavoir combien un poltron comme moy / Peut vivre n'estant point Soldat ny Capitaine. ».
+
+[9] *Oeuvres poétiquesdu Sr Dalibray. Divisées en vers bachiques, satyriques, heroïques, amoureux, moraux, & chrestiens*, Paris, Jean Guignard / Antoine de Sommaville, 1653, in-8° .
+
+[10] *Nouveau recueil de poésie. héroïques, satiriques et burlesques*, Paris, veuve Loyson , 1652.
+
+[11]  D'Alibray fait mention de cette taverne dans ses *Oeuvres poétiques, « * Vers bachiques », Sonnets, *L'auberge* p. 112. « Ce fut de jadis un cabaret parfait / Le Riche Laboureur, nul vivant ne l'ignore … / Un poéte jamais n'est ennemi du vin … / Vraiment je suis bien où je suis … ».
+
+[12] *Œuvres Poétiques*, « Vers amoureux » publié dans *Recueil des plus beaux airs qui ont esté mis en chant : tant des Airs que des Paroles*, Bénigne de Bacilly, de Sercy, 1661, première partie, p. 192. « Je ne t'impute point l'amour que je te porte, / D'un objet tout divin mes sens y sont forcez, / Je sçay ce que tu vaux, Phyllis, et c'est assez, / Et je sçay ce que c'est d'un Amant de ma sorte. // N'apprehende donc point qu'un vain desir m'emporte, / Ny que je vueille voir mes maux recompensez ; / Je ne demande rien pour ceux qui sont passez, / Je ne demande rien pour ceux que je supporte. // Non, je n'approuve point ces superbes Esprits / Qui pensent captiver l'objet qui les a pris, / J'entends qu'absolument, ton cœur du mien dispose, // Phyllis, sans nul espoir je me veux consumer, / Car je t'estime tant, et moy, si peu de chose, / Que je t'aimerois moins si tu pouvois m'aimer. »
+
+[13] Cet homme, considéré comme l'un des meilleurs musiciens de son temps, mariera sa fille avec le célèbre Lully.
+
+[14]  Selon Adolphe Van Beur, il s'agirait de la fille du cabaretier mais notre auteur ne nous éclaire pas davantage dans ses *Œuvres Poétiques*, « Vers bachiques », x : « O Bel-Air qui reçeus ce nom de la Nature / Pour la sérénité que te garde le Ciel ; / Tu l'obtiens maintenant, et sans te faire injure, / Des Airs de cette fille et du petit Michel …. »
+
+[15]  D'après *Oeuvres Poétiques* de Charles Vion Dalibray, notice d'Ad. Von Beuer sur un poète de cabaret, Paris, E. Sansot, 1906.
+
+[16] D'après cesar.org.uk
+
+[17] Ce terme désigne les hommes amateurs de bonne chair et qui savent bien boire.
+
+[18] *Œuvres Poétiques, op.cit*, « Vers amoureux », p.130.
+
+[19]  « … Chacun s'avancera par des sentiers divers, quant à moy, mon trésor, mon sçavoir, ma fortune, c'est de suivre Apollon, et de faire des vers », article sur d'Alibray dans *Histoire du théâtre françois, depuis son origine jusqu'à présent*, Claude Parfaict, t. 5, Paris, Le Mercier, 1745).
+
+[20]  Les membres de ce groupe sont pour la plupart des auteurs issus d'un milieu bourgeois médiocre. Ils publient, souvent anonymement, des poèmes dans lesquels ils se mettent en scène. Ils entretiennent donc le mystère sur leur identité et sont liés entre eux par leur origine sociale ainsi que par le choix d'une esthétique poétique (voir *Un professionnel des lettres au xvii*e* siècle : Valentin Conrart, une histoire sociale*, Nicolas Schapira, Epoques, Champ Vallon, 2003).
+
+[21]  Selon les frères Parfaict d'Alibray rédige à l'occasion de *Polyeucte*, un sonnet à l'intention de Corneille. « … Tu l'as fait, cher Corneille, et sans apprentissage, / Ce chef d'oeuvre qu'en vain d'autres avoient tenté ; … » Le texte est alors cité dans les  « Jugements et anecdotes » de l'édition de 1785 de la tragédie chrétienne du  *Polyecute* de Corneille.
+
+[22]  A. Viala, *Les Institutions littéraires en France au dix-septième siècle*, Lille, Atelier de reproduction des thèses 1982. p. 42. Et H. Lafay, *La Poésie française du premier* xvii*e* *siècle (1598-1630) : esquisse pour un tableau*, Paris, Nizet, 1975, p. 61.
+
+[23]  C'est d'ailleurs à Madame de Saintot que Jacqueline Pascal était confiée pendant les voyages de son père (voir *Œuvres complètes de Blaise Pascal*, t. 1 édition des Grands Écrivains de la France, publiées suivant l'ordre chronologique, avec documents, introductions et notes. Pascal Blaise, Brunschvicg Léon, Boutroux Pierre ; Gazier Félix, Hachette, 1925.
+
+[24]  D'Alibray publie dans les « Vers bachiques » de ses *Oeuvres Poétiques, op.cit* la *Response aux Vers bachiques et aux Sonnets sur le mouvement de la terre* de Le Payeu . Ce texte prouve bien l'existence d'une correspondance entre les deux hommes.
+
+[25]  Voir sonnet de d'Alibray « Vers Héroïques » dans *les Œuvres poétiques, op. cit.*
+
+[26] *Les Œuvres poétiques du sieur Dalibray, divisées en vers bachiques, satyriques, héroïques, amoureux, moraux et chrétiens*, publiées en 1653 à Paris, Jean Guignard / Antoine de Sommaville, 1653, in-8°.
+
+[27]  Dans son *Nouveau recueil Des Epigrammatistes François Anciens et Moderne* : « D'Alibray ressembloit assez à Diogène par bien des endroits », Amsterdam, Les Frères Wetstein, 1720, Livre l, p. 225.
+
+[28] *Ibid.*, p. 223.
+
+[29]  Première parution en 1643 sous le titre *Métamorphose de Gomor en marmite* (figure gravée représentant Gomor en marmite). On les trouve réimprimées dans les *Œuvres poétiques*, édition cité de 1653 (*Vers satyriques*, v, Antigomor), p. 42 à 99.
+
+[30] Ce dernier était en effet méprisé par ses contemporains en particulier à cause de son pédantisme.
+
+[31] *Paroles de musique* (1658-1694), Anne-Madeleine Goulet, Centre de musique baroque de Versailles, Mardaga, 2007.
+
+[32]  D'Alibray a en effet adapté *L'Aminte* et *Le Torrismon* du Tasse, *La Pompe funèbre ou Damon et Cloris* de César Crémonin ainsi que bien évidemment *Le Soliman* de Prospero Bonarelli. *La Réforme du Royaume d'amour* est la seule œuvre théâtrale de sa composition. Toutefois ce n'est qu'un intermède, en musique et en prose, joué pendant la pastorale de *La Pompe Funèbre.*
+
+[33]  Ces réflexions sont prolongées par celles développées dans l'avis Au Lecteur du *Soliman*. Toutefois, la critique ne semble pas l'avoir considéré. Sa rareté dans les exemplaires consultés peut éventuellement expliquer cet oubli.
+
+[34] On peut le trouver dans les exemplaires originaux de la bibliothèque de la Sorbonne ou de la bibliothèque Mazarine. Nous l'avons reproduit dans notre édition critique.
+
+[35]  « Le Poëte doit délecter, mesme dans les choses tristes, mais celuy-la le fait-il qui se sert des pensées qui mettent notre entendement à la gesne, telles que son ces pointes etudées, et qui portent souvent avec elles plus d'embarras que de nouveauté ? … il y a des quantité de gens qui cherchent des pointes par tout, mesme hors des Sonnets et des Epigrammes, et ne s'avisent pas cependant qu'il n'y a rien de si froid, ny qui fasse tant languir l'actions sur le théâtre, où l'on doit bien plus songer à l'importance de la chose qui se traite, que non pas au jeu et à la rencontre des paroles. » (Vion d'Alibray, « Au Lecteur », *Torrismon*, Paris, Denis Houssaye, 1635). « Tu n'y trouveras point, pour ainsi parler, ces riches canaux de cristal et de marbre qui ravalent le prix et l'éclat des eaux qu'ils reçoivent, mais bien des pensées qui coulent d'une veine naturelle. Tu n'y verras point briller d'un costé et d'autre ces petites estincelles d'esprit qui donnent dans la veuë ; mais tu y reconnoistras par tout une grande splendeur et lumiere de jugement » (Vion d'Alibray, « Au Lecteur », *Le Soliman* Paris, Toussainct Quinet, 1637).
+
+[36]  Préface du *Torrismon, op. cit.* : « tu peux voir aisément que je ne cesse point de rechercher parmy les meilleurs Autheurs quelque chose d'excellent, ou en Vers, ou en Prose, affin de te l'offrir. En quoy tu m'as double obligation, puisque non seulement je te donne, mais que je vay mandiant pour te donner. Les autres dans leurs ouvrages qu'ils mettent au jour ne songe qu'à leur propre reputation, et moy qu'à ta satisfaction ; » ou « pour me divertir je m'amuse à ce mestier, lors que je suis retiré à la campagne, ou je ne trouve rien de plus utile que cét Art qui n'a rien d'utile, ny rien de plus agreable que de traduire, qui est le labeur le plus ingrat de tous … ». « Je m suis approché le plus pres que j'ay pû de son stile et de ses pensées tant pour les raisons que je viens de declarer, que parce que j'estime qu'il faut estre aussi religieux et fidele à rendre l'autheur que nous traduisons … je t'avouë franchement qu'encore que j'aye resserré beaucoup de choses en nostre Autheur, et que je sois demeuré partout au dessous de sa naïveté, neantmoins j'ay tousjours imité sa façon, mesme quand je me suis escarté de luy … » : Adresse « Au Lecteur » du *Soliman, op. cit.*
+
+[37]  Avis Au Lecteur du *Torrismon*. Sitation relevée par A. Riffaud dans *La ponctuation du théâtre imprimé au xvii**e* *siècle*, Droz, 2007.
+
+[38]  Dans *Le Soliman* on trouve aussi des indications tels que « In Bruto », « Osman estoit du party de Rustan, et loue Mustapha pour le rendre suspect à Soliman », « S'il espousoie Persine, mais Osman le prend à la lettre ».
+
+[39]  Œuvres écrites par l'auteur ou pour lesquelles il a participé d'une quelconque façon, voir par exemple le catalogue de la BNF sur *gallica* (catalogue.bnf.fr)
+
+[40] *La Musette (*1647) reprise dans *Les Oeuvres poétiques, op. cit.*, 1653.
+
+[41]  Lettre à de la Crevaille (*Oeuvres poétiques*, « Vers héroïques », p. 52, 1653).
+
+[42] En effet six des huit éditions de la pièce italienne sont conservées dans les bibliothèques françaises.
+
+[43]  Dans *L'arte dell'interpretare*, Cuneo, L'Arciere, 1984, p. 261-275 (traduction) : « Prospero Bonarelli, Mairet, Vion d'Alibray représentent un moment crucial de l'italianisme français du xvii*e* siècle ».
+
+[44]  Pour la date de 1637, voir G. Dotoli *La Datazione del teatro di Jean Mairet*, Paris, Nizet, 1973, p. 67.
+
+[45] *La Sophonisbe*, « Au Lecteur », dans Jean Mairet, *Théâtre complet*, t. 1, édition critique sous la direction de Georges Forestier, Paris, Champion, 2004, p. 104
+
+[46]  Voir l'*Épitre dédicatoire, comique et familière* précédant la pièce publiée en 1636.
+
+[47] Et non en 1630 comme l'indique le dictionnaire des Frères Parfaict de 1767 (t. 5 p. 197-198).
+
+[48]  Dans *l'Avertissement aux Besançonnais Mairet*, 1637 ; A. Gasté, *La Querelle du Cid*, Paris, Welter, 1898, p. 325.
+
+[49] Le Torrismon du Tasse, « Au Lecteur », Paris, D. Houssaye, 1636.
+
+[50]  C'est ce que confirme Lancaster dans *A History of french dramatic litterature in the Seventeeth Century*, Baltimore, the Johns Hopkins Press, 1929-1945, vol. 2, p. 36 « Dalibray's tragi-comedy was given at the Marais ».
+
+[51]  D'après les recherches, la pièce de d'Alibray est jouée avant l'accident de Montdory en août 1637. L'apoplexie de la langue du comédien qui jouait le rôle d'Hérode lors d'une représentation de *Mariane* de Tristan l'Hermite l'obligea à renoncer à sa profession et marqua le déclin de la troupe de la rue Vieille du Temple.
+
+[52]  Alan Howe, *Le théâtre professionnel à Paris. 1600-1649*, Centre historique des Archives nationales, 2000, chapitre vi.
+
+[53]  La liste des acteurs de la troupe du Marais a été établie à partir de l'ouvrage d'Alan Howe (*ibid*.).
+
+[54]  Voir frontispice de la pièce ainsi que Lancaster, *op. cit.*, p. 36 : « That Dalibray's tragi-comedy was given at the Marais is shown by the fact that Mairet's was acted by the rival company ».
+
+[55] *A History of French Dramatic Litterature in the Seventeeth Century*, Henry Carrington Lancaster, Baltimore, the Johns Hopkins Press, 1929-1942, vol. 2, p. 37 « is shown by the fact ? ». Selon S. W. Deierkauf-Holsboer, le départ de Mairet pour la troupe rivale « a profondément vexé le grand chef de troupe qui s'est alors détourné de ces jeunes auteurs » (*Le Théâtre de l'Hôtel de Bourgogne*, Paris, Nizet, 1968, vol. 1, p. 165).
+
+[56]  Expression de Marc Villermoz dans *Le Grand et dernier Solyman* de Jean Mairet *(Théâtrecomplet*, t. 1, édition critique sous la direction de Georges Forestier, Champion, 2004).
+
+[57]  Ph. Tomlinson, *Jean Mairet et ses protecteurs, une oeuvre dans son milieu*, Paris, Seattle, Tübingen Biblio 17, 1983, p. 298-299.
+
+[58]  Dans l'introduction du *Grand et dernier Solyman* de Jean Mairet, *op. cit.*
+
+[59] « Les raisons qui m'ont induit à cela je te les déduiray plus au long en son lieu ».
+
+[60]  Cette métaphore rappelle l'avis Au Lecteur du *Torrismon* « je ne doute point que mon Soliman qui peut-estre estoit assez bon de soy, ne se trouve mauvais par accident, et lors qu'il sera comparé au sien, et que la plume de l'Aigle ne dévore la mienne ».
+
+[61]  Cité par R. Horville, *Le Théâtre de Mairet. Une dramaturgie de l'existence*, thèse de doctorat d'État, soutenue à l'Université Paris III, La Sorbonne nouvelle, 1978, p. 299.
+
+[62] Voir la note sur la présente édition.
+
+[63] Voir infra p. 9.
+
+[64] Soliman II est en effet plus connu sous le nom de Soliman le Magnifique. Ce superlatif lui a été donné en raison de sa grande valeur guerrière. Il régna entre 1520 et 1566.
+
+[65] Ce sultan régna entre 1524 et 1576
+
+[66]  En février 1536, un premier traité est signé entre la François I*er* et Soliman : « Connus sous le nom de « Capitulations », les textes conclus offrent à la France un droit de représentation permanente avec Ambassade et Consulats ainsi que des avantages pour le commerce avec la Sublime Porte  ; privilèges complétés par la protection des pèlerins se rendant en Terre Sainte. » (source http ://www.ambafrance-tr.org).
+
+[67]  Edward Said, *L'orientalisme. L'Orient créé par l'Occident*, Seuil, 2005, p. 23.
+
+[68]  D. Carnoy, *Représentation de l'Islam dans la France du* xvii*e* *siècle. La ville des tentations*, Paris, 1998, p. 279.
+
+[69]  Voir à ce sujet l'article de Sylvie Requemora dans son article intitulé « Les Turqueries : une vogue théâtrale en mode mineur », *Littératures classiques*, nº 51, 2004, p. 133-151.
+
+[70]  Chiffres établis par Sylvie Requemora, *ibid.* À noter que le célèbre *Bajazet* de Racine (1672) est probablement la pièce à sujet turc la plus connue et que pour cette pièce l'auteur s'est sans doute inspiré des pièces de d'Alibray et Mairet.
+
+[71] David Chataignier, « Représentation de la tyrannie dans les tragédies à sujet turc du Grand Siècle français », sur crht.org.
+
+[72]  Expression de C.-D. Rouillard dans The Turk in French History, Thought and Literature, Paris, Boivin, 1941, p. 421
+
+[73]  Article de Sylvie Requemora p. 134 « Les turqueries : problèmes de définition d'une vogue théâtrale en mode mineur », *Littératures classiques*, nº 51, 2004, p. 133-151.
+
+[74] *Ibid*., p. 135.
+
+[75]  Aristote, *La Poétique*, chap. xiv, vi-ix « Voyons donc quelle sorte d'événements excitera la terreur ou la pitié. De telles actions seront nécessairement accomplies ou par des personnages amis entre eux, ou par des ennemis, ou par des indifférents. Un ennemi qui tue son ennemi, ni par son action elle-même, ni à la veille de la commettre, ne fait rien paraître qui excite la pitié, à part l'effet produit par l'acte en lui-même. Il en est ainsi de personnages indifférents entre eux. Mais que les événements se passent entre personnes amies ; que, par exemple, un frère donne ou soit sur le point de donner la mort à son frère, une mère à son fils, un fils à sa mère, ou qu'ils accomplissent quelque action analogue, voilà ce qu'il faut chercher » (traduction Ch. Emile Ruelle, 1922).
+
+[76]  M. Longino, « Politique et théâtre au xvii*e* siècle : Les Français en Orient et l'exotisme du *Cid* », dans *Littérature et exotisme*, D. de Courcelles (éd.), Paris, Champion, « Études et rencontres de l'École de Chartres », 1997, p. 35-39.
+
+[77]  Lancaster, *op.cit.*, p. 36 « The fate of Mustapha, a highly gifted pince, executed en 1533 by his father, Solyman II, as the result of a palace intrigue, conduced by the young man's stepmother and the grand vizier, Rustan, had been Bonarelli's theme. To the historical events had added two romantic motifs, the love of Mustapha for the daughter of the King of Persia, and the exchange of infants, resulting in the fact that the prnce is done to death by his own mother, who believes him to be the son of a rival Sultana and opposed to the interests of her second son. »
+
+[78]  « L'an 1600, on fonda à Ferrare l'académie des *Intrépides*, qui subsiste toujours, et dont le fondateur fut Jean-Baptsite Aléotti d'Argenta, fameux ingénieur et homme de lettres. L'objet de cette institution fut la belle littérature et la gymnastique ou exercice d'arme et d'adresse. …. Les magistrats de Ferrare, qui en reconnurent les avantages, l'affermirent et la rendirent durable, en destinant, pour le bien de cette institution, un revenu tiré des fonds publics » : *Histoire des journeaux françois et étrangers.* Par une Société de Gens de Lettres, Paris, Vallade, t. VII, juillet 1784.
+
+[79] *Biographie universelle classique, ou Dictionnaire historique portatif*, vol. 1, Charles Théodore Beauvais de Préau, Antoine-Alexandre Barbier, Paris, Charles Gosselin, 1929.
+
+[80]  Les deux discours de Bonarelli correspondent en fait aux lettres que l'auteur a envoyé à Antonio Bruni pour défendre son œuvre. *Due lettere del signor comte Prospero Bonarelli al signor Antonio Bruni dans Il Solimano-Tragedia del co Prospero Bonarelli* …, Roma, F. Corbeletti, 1632 « Gli universali della Storai di Mustafà, se non m'inganno, son questi ; chez Solimano suo Padre per arti della Rossa, e di Rusteno insospettito, ch'egli non lo volesse privar del Regno, e della vita lo fece meseramente morire » : *ibid*., p. 4.
+
+[81] Ibid.
+
+[82] Sur ce que pense Racine là-dessus voir note 36 de l'avis Au Lecteur.
+
+[83] Voir note 37 du « Au Lecteur » de d'Alibray.
+
+[84] « … les Histoires mêmes sont sujettes à mentir, ainsi que nostre Autheur le prouve » (adresse Au Lecteur).
+
+[85] *Le Soliman* de d'Alibray, « Au Lecteur ».
+
+[86] Ce qui laisse penser que Bonarelli considérait Natale Conti comme un historien mineur.
+
+[87] « Pour ce qui est d'avoir fait arriver en un jour vray-semblablement ce que l'Histoire dit estre arrivé en plusieurs mois et en plusieurs années, comme sont les mauvais offices⁎ de Roxolane et de Rustan contre Mustapha, et les soupçons que s'insinüerent peu à peu dans l'esprit de Soliman ; Je dy que ça esté un aussi grand coup de maistre à nostre Autheur de l'avoir fait, comme il estoit necessaire qu'il le fist : car pour y parvenir il a falu qu'il se servist de bien nouvelles et de bien pressantes occasions, d'enuie et de dépit dans Rustan, de haine et de crainte dans la Reyne, et afin que l'un et l'autre travaillassent à la ruine de Mustapha avec plus d'effet⁎, il luy a falu faire naistre dans l'ame de Soliman des horreurs subites et inconnuës, faire parler le Devin en termes equivoques pour disposer davantage l'esprit du Roy à la croyance d'une chose controuvée. ».
+
+[88] La lettre déchirrée par Alvante ainsi que le quiproquo qui résulte des paroles du devin, constituent autant d'éléments qui permettront facilement à d'Alibray de faire ce cette tragédie une tragi-comédie.
+
+[89]  « … del Bassà dell' Amasia furono intercette alcune lettere, nelle quali era un non so 'che di maneggio di nozze trà Mustafà, e la figliuola del Rè di Persia, le quali lettere appresentate dalle Rossa a Solimano, oprorono l'effetto da lei desiderato, io pero' da questo picciol seme Istorico ho' pensato poter far' nascere la favolosa pianta de gli amori, e de gli altri effetti di Despina, inestandola in modo col tronco della favola principale, che l'una non possa reggersi, ne finir senza l'altra. », *Due lettere del signor comte Prospero Bonarelli al signor Antonio Bruni dans Il Solimano*-Tragedia del co Prospero Bonarelli …, Roma, F. Corbeletti, 1632, p. 5-6
+
+[90] Voir note 14 de l'adresse Au Lecteur, p. 80.
+
+[91] Figure qui aura une postérité importante dans la tragédie française.
+
+[92] La polygamie était une pratique courante au sérail.
+
+[93] Voir note 32 et 33 de l'avis Au Lecteur, p. 84.
+
+[94]  Lancaster, *op. cit.*, p. 38 : « He Mairet avoids the ridiculous description given by Bonarelli of the heroine's death ».
+
+[95]  D'après Marc Villermoz dans son introduction critique du *Grand et dernier Solyman* de Mairet, *Théâtre complet*, t. 1, Honoré Champion, Paris, 2004, p. 405-406.
+
+[96]  « La cagione, che a cio' m'ha spinto è stata il decore dell' apparato, perchè multo meglio l'azzioni che a me bisogna raprresentare succederanno in una Città, che fuori alla campagna tra mille padiglioni, trà confusioni di Soldati, e trà rumori di guerrieri strumenti » : Bonarelli, *op. cit.*, p. 18.
+
+[97]  D'Alibray, avis Au Lecteur du *Soliman* p. 82.
+
+[98] Voir annexe.
+
+[99] On peut toutefois relevé une certaine distorsion chez Mairet puique la Sultane est présentée sous le nom de Roxelane dans la liste des Acteurs mais est nommée « La Sultane » quand elle intervient dans la pièce.
+
+[100] Par exemple le fait de se prosterner « la face contre terre à la mode des Turcs ».
+
+[101] *La Dramaturgie classique en France*, Jacques Scherer, Paris, Nizet, 1991, p. 19
+
+[102] « Je me suis approché au plus pres que j'ay pû de son stile et de ses pensées … ; aussi je t'avouë franchement qu'encore que j'aye resseré beaucoup de choses en nostre Autheur … neantmoins j'ay tousjours imité sa façon » Dans « Au Lecteur » p. 92.
+
+[103]  Voir par exemple début de l'acte iv, vers 991 à 998
+
+[104]  Dans son *Discours de la Poésie représentative, op. cit.*
+
+[105] On compte 11 ruptures de scène chez Mairet et 5 chez d'Alibray.
+
+[106] *La Dramaturgie classique en France*, Jacques Scherer, Paris, Nizet, 1991, p.274.
+
+[107]  Jean Chapelain, *Discours de la Poésie représentative* prononcé à l'Académie française vers 1635, texte cité dans G. Dotoli, *Le Temps des Préfaces, Le débat théâtral en France de Hardy à la Querelle du « Cid »*, Paris, Klincksieck, 1996, p. 302.
+
+[108]  Avis Au Lecteur du *Torrismon, op. cit.*
+
+[109] *Pratique du théâtre*, livre II, chapitre x, Pierre Martino (éd.), Paris, Champion, 1927, p. 144.
+
+[110] Voir la définition donnée par la note 65 de l'avis Au Lecteur p.94.
+
+[111]  L'exposition comprend « tous les énoncés de faits dont la connaissance est indispensable à l'intelligence de l'intrigue ». En bref, il s'agit d'une « partie de la pièce de théâtre qui fait connaître tous les faits nécessaires à l'intelligence de la situation initiale ». Selon Jacques Scherer dans *La Dramaturgie classique en France*, Paris, Nizet, 1991, p. 51 et 437.
+
+[112] Pour une synthèse du schéma actanciel, voir annexes.
+
+[113]  « tu verras que je l'ai composé avec beaucoup de soin, et que si c'est une imitation du Comte Quido Baldi, au moins n'est-elle pas des plus serviles » Avertissement au Lecteur du *Grand et Dernier Solyman ou La mort de Mustapha, op. cit.* (notons ici que Mairet confond Prospero Bonarelli avec son frère Guidobaldo Bonarelli).
+
+[114] *La tragi-comédie de Corneille à Quinault*, Hélène Baby, Klincksieck, 2002.
+
+[115]  Anne Ubersfeld, *Le Roi et le bouffon : étude sur le théâtre de 1830-1839*, J. Corti, 2001 p. 400.
+
+[116]  Adresse Au Lecteur du *Soliman*, p. 83.
+
+[117] *Ibid.*, p. 84.
+
+[118]  Jean Chapelain, « Lettre sur les règles des vingt-quatre heures », Lettre écrite à Godeau en 1630. Texte cité dans G. Dotoli, *op. cit.*, p. 301.
+
+[119] Voir supra, « III. Les Sources ».
+
+[120]  Expression de Marc Villermoz dans son introduction au *Grand et dernier Solyman ou la Mort de Mustapha (op. cit.*, p. 405).
+
+[121]  Lancaster, *op. cit.*, p. 38 : « Both are classical in structure. »
+
+[122] V. 135 « Le Soleil a desja deux fois dedans les Cieux/ Rallumé le courroux du Lion furieux … », v. 487 « … un jour j'allois à petit bruit/ Cherchant un lieu commode où nous camper la nuit ».
+
+[123]  Acte v scène 8, v. 1544 et suivants « Seigneur, j'en puis tout seul esclaircir vostre esprit :/ Espiant prés du camp, comme voulut mon masitre, / Dequoy rendre à vos yeux le jeux Prince traistre ;/ Des papiers deschirez s'offrent à ce desseing, / Où de Tamas estoient le cachet et le seing ;/ Je les donne à Rustan, qui trop plein d'artifice/ Les employe aussi-tost à ce damnable office : … ».
+
+[124] *Pratique du théâtre, op. cit.*, livre iii, chapitre v, p. 221.
+
+[125]  Cette définition large de l'unité de lieu sera théorisé par La Mesnardière dans sa *Poétique* en 1639.
+
+[126]  Lancaster, *A history of the french dramatic litterature* « a larger space, which, however, does not extend beyond the walls of Aleppo. ».
+
+[127]  Voir acte i, scène 3 (à la fin de cette scène, Persine et Alvante voient arriver Séline et Roxelane), acte ii scène 5 et acte iii scène 1.
+
+[128]  Voir acte iii scènes 4 et 5.
+
+[129] *La Poétique*, La Mesnardière, Paris, Sommaville, 1639 (réimpr. Slatkine Reprints, Genève, 1972), p. 412-413.
+
+[130] V. 33-34 « Mais allons, que du camp la place soit choisie, / Attendant que mon fils arrive d'Amasie ».
+
+[131] V. 556 et suivants « Estant avecque luy vers mon camp de retour./ … Lors il me declara qu'aux Scythes inconnu, / Jusqu'où nous l'avions pris, seul il estoit venu ;/ Qu'il pretendoit de là voir le pays des Perses, … ».
+
+[132] C'est « un Episode conjoint à la Fable, de la mesme façon qu'Aristote nous enseigne que les Episodes doivent estre » (avis Au Lecteur).
+
+[133]  Jean Chapelain, texte cité dans G. Dotoli *op.cit* p.302.
+
+[134] « The only approach to the violation of the unity of action lies in the fact we learn, late in the plays, that Mustapha is the son of the hostile Sultane ».
+
+[135]  Il reprend ici une idée déjà développée dans son adresse Au Lecteur du *Torrismon* « la reconnoissance est d'autant meilleure qu'elle se fait sans aucuns signes pris de dehors, qu'elle vient et se tire de la chose mesme et de la disposition du sujet ».
+
+[136]  Chapelain, *Discours de la Poésie représentative*, p. 129, Opuscule critique, Alfred Hunter (éd.), Paris, Droz, 1936.
+
+[137] Voir note 32 de l'avis Au Lecteur.
+
+[138]  « Quant aux formes de la reconnaissance, la première et celle qui emprunte le moins à l'art et qu'on emploie le plus souvent, faute de mieux, c'est la reconnaissance amenée par des signes » : Aristote, *La Poétique*, chapitre xvi, 70 (traduction citée).
+
+[139]  Aristote, *op. cit.*, chapitre xvi, 74-75.
+
+[140] *La Dramaturgie classique en France*, Jacques Scherer, Nizet, 1991, p. 21.
+
+[141] Vers 262.
+
+[142]  David Chataignier, *« Représentation de la tyrannie dans les tragédies à sujet turc du Grand Siècle français »* sur le site crht.org.
+
+[143]  Octave Nada, *Le Sentiment de l'amour dans le théâtre de Corneille*, Gallimard (coll. Tell), 1948, p. 224.
+
+[144] *La Pratique du théâtre*, Livre IV, chapitre I, p. 278 (édition de Pierre Martino, Paris, Champion, 1927).
+
+[145]  Jacques Scherer, *La Dramaturgie classique en France*, Nizet, 1991, p. 24.
+
+[146]  À noter que le titre même de la pièce de Mairet *Le Grand et dernier Solyman ou la mort de Mustapha* offre aussi cette approche.
+
+[147] Avis Au Lecteur p. 90.
+
+[148] Pour plus de détails voir la partie concernant les sources historiques.
+
+[149] « O Dieu quelle fureur ! Quel orgueil ! Quelle audace ! / Les Perses resister au grand Seigneur de Thrace ! /Ont-ils donc oublié que nos moindres efforts, /Ont mille fois couvert leurs campagnes de morts ? » (vers 5 à 8).
+
+[150]  Voir par exemple l'acte ii scène 3.
+
+[151] *La Poétique*, Aristote, chap. xiv, 54 (traduction citée).
+
+[152]  Corneille, *Discours de la Tragédie*, 1660 dans *Trois discours sur le poème dramatique*, Présentation par Bénédicte Louvat et Marc Escola, GF-dossier, Flammarion, 1999.
+
+[153] Voir page 42.
+
+[154] *Bérénice*, Préface, dans Racine, *Œuvres complètes*, édition Forestier, Pléiade, i, p. 450.
+
+[155]  David Chataignier, *op. cit.*
+
+[156] *La Rhétorique, op. cit.*
+
+[157]  Georges Forestier, *Passion tragique et règles classiques.Essai sur la tragédie française*, Paris, PUF, 2003, p. 269.
+
+[158]  Voir par exemple acte iv scène 1.
+
+[159] C'est en effet le personnage de Persine qui récite le plus de vers (291, 75) suivi de près par Soliman (221, 5).
+
+[160] « A quel bon-heur mon Roy se void-il eslevé ! » v. 1659, « Que du sein de la mort sort une belle hymenee ! » 1662. etc.
+
+[161] Vers 534.
+
+[162]  Georges Forestier dans *Le Magazine littéraire*. Dossier sur Le Grand Siècle, article « Au théâtre, en rire ou en pleurer ? », nº 497, mai 2010.
+
+[163] « O par trop pitoyable, et trop cruel Alavante » vers 1151 ; « Que fais-tu ? » (vers 1156).
+
+[164]  Voir par exemple le vers 1086 « La trahison est vraye, et faite sans raison ».
+
+[165] Sylvie Requemora dans son article sur les « turqueries » considère que « chez Dalibray Roxane parvient à exécuter Mustapha, qui en fait n'était pas son fils », or c'est bien l'inverse qui se produit. Grâce à l'intervention d'Ormène la Reine reconnaît en Mustapha le fils qu'elle avait abandonné à sa naissance en voulant le protéger. Voir vers 1417-1440.
+
+[166] Voir entre autres vers 1521-1524.
+
+[167] D'ailleurs le personnage parle lui-même de la « bonté des Cieux » qui a permis au roi Tamas de savoir ce que devenait Persine.
+
+[168] Historiquement la guerre des Perses contre les Turcs a duré de 1533 à 1535.
+
+[169] *Le magazine littéraire*, Dossier sur Le Grand Siècle, Article de Georges Forestier « Au théâtre, en rire ou en pleurer ? », nº 497, mai 2010, p. 58-59.
+
+[170] *Ibid.*, p. 59.
+
+[171]  C'est à cette date que Corneille décide d'intégrer sa tragi-comédie du *Cid* dans le genre tragique sans en modifier une ligne, mais en 1643, *Cinna* est la première pièce à être considérée comme une tragédie à fin heureuse.
+
+[172]  Michel Lioure, *Le Drame de Diderot à Ionesco*, A. Colin, 1973 p. 259.
+
+[173]  Dans la Préface de *Ruy Blas*, Petits Classiques Larousse, 2001.
+
+[174]  « De la définition de la Tragédie et de la Comédie, on peut aisément tirer celle de la tragi-comédie qui est une composition de l'une et de l'autre », Mairet, Préface de *La Silvanire*, édition citée t. 2.
+
+[175]  Pour rappel : « *Je suis donc l'instrumeut d'une mort si cruelle ! »*.
+
+[176]  Cet exemplaire a pu entre autres appartenir à Pierre Brulart à la fin de sa vie. Cet homme fut secrétaire d'état, ambassadeur d'Espagne ou encore grand trésorier des ordres de France. Il est le fils de Nicolas Brulart et de Claude Prudhomme.
+
+[177]  Pour la querelle entre Mairet et d'Alibray voir introduction critique: II. Circonstances de création  et de publication: la querelle avec Mairet.
+
+[178] Nous avons pris soin d'ajouter à la fin de notre texte les documents issus du cahier liminaire de la seconde émission.
+
+[179]  Voir entre autres l'introduction du *Grand et dernier Solyman* de Mairet, *op.cit* (note 60 p. 407).
+
+[180] À ce sujet voir notre analyse dans l'introduction critique (II. Circonstance de création et de publication : la querelle avec Mairet).
+
+[181]  D'après Alain Riffaud, *Répertoire du théâtre français imprimé 1630-1660*, Droz, 2009.
+
+[182] Voir note du vers 42.
+
+[183]  Pour avoir abattu des arbres, le personnage d'Erisichthon fut condamné à une faim perpétuelle par la déesse Céres. Mais plus il mangeait plus il avait faim. Il dûvendre l'ensemble de ses biens pour continuer à se nourrir. Lorsqu'il n'eut plus rien il se décida même à vendre sa fille. Le mythe d'Erisichthon est raconté par Ovide dans *Les Métamorphoses*, livre viii 749-787 (GF-Flammarion, p. 224-228).
+
+[184]  Au xvii*e* siècle, le verbe n'existait pas sous sa forme pronominale mais peut avoir le même sens que « se prononcer » au sens de « Declarer son sentiment sur quelque chose » (*Dictionnaire de l'Académie française*, première édition, 1694).
+
+[185]  « C'est donc en vain, fils de Laomédon que ta main verse le nectar dans la coupe du maître des dieux » 799, (40) traduction du grec *des Troyennes* par M. Artaud (Paris, Charpentier, libraire-éditeur, 1842).
+
+[186]  « Ganymède est un jeune prince troyen d'une beauté éclatante qui fut saisi, enlevé et transporté dans l'Olympe par l'aigle de Zeus. » Il remplaçait parfois Hébé, fille de Zeus et d'Héra pour servir à boire aux dieux. (*La mythologie : Ses dieux, ses héros, ses légendes*, Edith Hamilton, Marabout, 2005). 
+
+[187]  Homère mentionne au chant v (265-270) de l'*Illiade* « ils les chevaux sont en effet de la race fameuse de ceux que Zeus au vaste regarde donna un jour à Trôs en compensation du rapt de Ganymède son fils, …. » (Classiques de Poche, édition et traduction de Mario Meunier, 1972, p. 139) et au chant xx (219, 240) que « Érichthonios engendra Trôs, qui fut le roi des Troyens. Trôs à son tour engendra trois enfants sans reproche : Illos, Assaracos et Ganymède rival des dieux, qui devint le plus beau des hommes mortels. Les dieux charmés de sa beauté, l'enlevèrent de la terre, afin qu'il servît d'échanson à Zeus et séjournât parmi les Immortels. » (*ibid.*, p. 453).
+
+[188]  Il semblerait que Sophocle évoque Ganymède dans l'un des *Fragments* retrouvés de ses pièces. (Sophocle, fragment 345, *Sophocles Fragments*,  Harvard University Press, 1996).
+
+[189]  Lycophron est un poète grec du iv*e* siècle av. JC. Il fut probablement le disciple de Gorgias. Il ne reste de lui qu'un poème intitulé *Alexandra* (autre nom de Cassandre, fille de Priam) : c'est une longue prédiction des malheurs réservés à Troie et aux Grecs après la prise de la cité. Son style est très hermétique.
+
+[190] Iphigénie est la fille d'Agamemnon qui dirigeait la flotte grecque lors de la guerre de Troie. Afin d'apaiser la colère des dieux, Iphigénie fut demander en sacrifice.
+
+[191] Néoptolème est le fils d'Achille. Il est l'un des soldats qui fut enfermé dans le cheval de Troie.
+
+[192]  Déidamie est la fille du roi Lycomède. Elle fut la première à se rendre compte qu'Achille avait été envoyé à la cour de son père, déguisé en fille par sa mère Thétis, qui voulait  l'empêcher d'aller à Troie où son destin était de trouver la mort.
+
+[193]  « Léda était la femme de Tyndare, roi de Sparte, et la légende la plus répandue veut qu'elle lui ait donné deux enfants mortels, Castor et Clytemnestre, celle-ci femme d'Agamemnon ; mais à Zeus, qui l'abusa sous la forme d'un cygne, elle en donna deux autres qui étaient immortels : Pollux et Hélène, l'héroïne de Troie. ». (*La mythologie : Ses dieux, ses héros, ses légendes*, Edith Hamilton, Marabout, 2005, p. 45).
+
+[194]  Némésis, déesse de la juste colère, apparaît dans la légende de Narcisse : « Elle n'avait pas demeure parmi les Olympien et Hésiode dit que son son beau visage voilé de blanc, ne quittera ce monde … que le jour où les hommes seront devenus complètement mauvais. » (*ibid.*, p. 43).
+
+[195]  « L'épisode est une partie complète en elle-même de la tragédie, placée entre les chants complets du chœur. ». et chapitre xii, 4 « Puis on parle encore de quantité d'épisodes et des autres accessoires destinés à orner chaque partie. » Aristote, *La Poétique*, chapitre iv, 16 (traduction Ch. Emile Ruelle, 1922). Heinsius dans sa *Constitution de la Tragédie* reprend à son tour « C'st à ce type de dévelopements, qui n'étaient ni nécessaires, ni pourtant extérieurs au sujet qu'Aristote a donné le nom d'*Episode*. C'est donc ainsi qu'il appelle tout ce qui n'appartient pas à l'argument mais que les poètes introduisent pour servir l'argument, et en fonction de l'argument. ». (*De constitutione tragoediae : La constitution de la tragédie*  d'Heinsius, chapitre vii p. 167 édition et traduction d'Anne Duprat, Droz, 2001).
+
+[196]  D'Alibray semble ici traduire directement Bonarelli dans ses *Discours* : « … del Bassà dell' Amasia furono intercette alcune lettere, nelle quali era un non so 'che di maneggio di nozze trà Mustafà, e la figliuola del Rè di Persia, le quali lettere appresentate dalle Rossa a Solimano, oprorono l'effetto da lei desiderato, io pero' da questo picciol seme Istorico ho' pensato poter far' nascere la favolosa pianta de gli amori, e de gli altri effetti di Despina, inestandola in modo col tronco della favola principale, che l'una non possa reggersi, ne finir senza l'altra. » (*Due lettere del signor comte Prospero Bonarelli al signor Antonio Bruni* dans *Il Solimano-Tragedia del co Prospero Bonarelli* …, Roma, F. Corbeletti, 1632, p. 5-6). Soit « on intercepta certaines lettres du Bassa d'Amasie, qui faisaient vaguement état d'une sorte de mariage entre Mustafà et la fille du Roi de Perse, lesquelles lettres, présentées par la Rossa à Solimano, produisirent l'effet désiré. Moi, toutefois, à partir de cette petite semence historique, j'ai pensé pouvoir donné naissance à la plante fabuleuse des actions de Despina et de ses amours avec Mustafà, en la greffant de telle sorte sur le tronc de la fable principale, que l'une ne puisse se soutenir, ni finir sans l'autre.
+
+[197] On dit qu'une chose est « controuvée » quand elle est feinte.
+
+[198]  forfait,  injure faite.
+
+[199]  Lors d'un de ses premiers exploits, à savoir le combat contre le lion du mont Cithéron,  Hercule fut logé par le roi Thespios qui lui envoya chaque soir une de ses cinquantes filles. Le héros croit retrouver la même jeune fille et devient le père de cinquante fils, Les Thespiades.
+
+[200]  Dans *Histoire universelle des Grecs et autres peuples depuis le retour des Héraclides.*
+
+[201] *Le Tour de la Grèce*, livre ix, chapitre 27, 6 : « καὶ Ἡρακλέους Θεσπιεῦσίν ἐστιν ἱερόν· ἱερᾶται δὲ αὐτοῦ παρθένος, ἔστ´ ἂν ἐπιλάβῃ τὸ χρεὼν αὐτήν. αἴτιον δὲ τούτου φασὶν εἶναι τοιόνδε, Ἡρακλέα ταῖς θυγατράσι πεντήκοντα οὔσαις ταῖς Θεστίου συγγενέσθαι πάσαις πλὴν μιᾶς ἐν τῇ αὐτῇ νυκτί· ταύτην δὲ οὐκ ἐθελῆσαί οἱ τὴν μίαν μιχθῆναι· τὸν δὲ ὑβρισθῆναι νομίζοντα δικάσαι μένειν παρθένον πάντα αὐτὴν τὸν βίον ἱερωμένην αὐτῷ. » Traduction : « … La raison qu'ils en donnent est qu'Hercule en une même nuit débaucha les cinquante filles de Thespios, à la réserve d'une, qui ne voulut point condescendre à ses volontés. Hercule piqué de ses refus, la condamna à demeurer vierge toute sa vie, et cependant il l'honora de son sacerdoce » (source HODOI ELEKTRONIKAI).
+
+[202] Réussir.
+
+[203] *L'Iiade, ii*, 780, (*op. cit.*, p. 95) : « Οἳ δ᾽ ἄρ᾽ ἴσαν ὡς εἴ τε πυρὶ χθὼν πᾶσα νέμοιτο· / γαῖα δ᾽ ὑπεστενάχιζε Διὶ ὣς τερπικεραύνῳ / χωομένῳ ὅτε τ᾽ ἀμφὶ Τυφωέϊ γαῖαν ἱμάσσῃ / εἰν Ἀρίμοις, ὅθι φασὶ Τυφωέος ἔμμεναι εὐνάς / ὣς ἄρα τῶν ὑπὸ ποσσὶ μέγα στεναχίζετο γαῖα / ἐρχομένων· μάλα δ᾽ ὦκα διέπρησσον πεδίοιο. / Τρωσὶν δ᾽ ἄγγελος ἦλθε ποδήνεμος ὠκέα Ἶρις /πὰρ Διὸς αἰγιόχοιο σὺν ἀγγελίῃ ἀλεγεινῇ / οἳ δ᾽ ἀγορὰς ἀγόρευον ἐπὶ Πριάμοιο θύρῃσι / πάντες ὁμηγερέες ἠμὲν νέοι ἠδὲ γέροντες· » Traduction : « Tous ces Danaens avançaient comme un feu qui ravagerait la terre toute entière, et le sol gémissait comme sous la colère de Zeus lance-foudre, lorsqu'il fouette la terre autour de Thyphéen chez les Arimes, où l'on dit que se trouve la couche de Thyphée (…) ». La note 3 à la même page de la même édition indique que Typhée est un « être monstrueux qui fut enseveli par Zeus sous l'Etna. On disait que Typhée s'agitait sous le volcan, ce qui provoquait à nouveau les foudres de Zeus. ».
+
+[204]  Les *Odes, Les Pythiques*, (Ode i, 15-50) : « Tel frémit gisant au fond du Tartare ténébreux, cet ennemi des dieux, ce Typhée aux cent têtes, que vit naître jadis l'antre fameux de Cilicie. Maintenant enchaîné sous le rivage des mers qui s'étendent au-delà de Cume, il expie son audace téméraire ; la Sicile pèse sur sa poitrine hérissée, et l'Etna » ὅς τ´ ἐν αἰνᾷ Ταρτάρῳ κεῖται, θεῶν πολέμιος, / Τυφὼς ἑκατοντακάρανος· τόν ποτε / Κιλίκιον θρέψεν πολυώνυμον ἄντρον· νῦν γε μάν / ταί θ´ ὑπὲρ Κύμας ἁλιερκέες ὄχθαι / Σικελία τ´ αὐτοῦ πιέζει / στέρνα λαχνάεντα· κίων δ´ οὐρανία συνέχει, / νιφόεσς´ Αἴτνα, πάνετες χιόνος ὀξείας τιθήνα·(source : HODOI ELEKTRONIKAI).
+
+[205] *L'Enéide* livre ix, 710-716 « Ainsi parfois, au rivage euboïque de Baïes, s'affaisse une pile de pierre, … ; alors, à ce fracas, se mettent à trembler la haute Prochyta et Inarimé, dure couche de rocs posés sur Typhée par la volonté de Jupiter. » Version originale : « Talis in Euboico Baiarum litore quondam saxea pila cadit, magnis quam molibus ante constructam ponto iaciunt ;sic illa ruinam prona trahit penitusque uadis inlisa recumbit : miscent se maria, et nigrae attolluntur haren; tum sonitu Prochyta alta tremit durumque cubile Inarime Iouis imperiis imposta Typhoeo. ».
+
+[206] « Comme » peut aussi être une préposition marquant la manière. Dans ce cas « comme » est synonyme de « comment ». On le retrouve aussi dans le texte de la pièce, voire note 38 correspondante.
+
+[207]  Comme l'indique l'auteur en marge du texte, Cicéron parle de Coriolanus dans *In Bruto* (chapitre x, 41-42) « nam bellum Volscorum illud grauissimum, cui Coriolanus exsul interfuit, eodem fere tempore quo Persarum bellum fuit, similisque fortuna clarorum uirorum ; Si quidem uterque, cum ciuis egregius fuisset, populi ingrati pulsus iniuria se ad hostes contulit conatumque iracundiae suae morte sedauit. nam etsi aliter apud te est, Attice, de Coriolano, concede tamen ut huic generi mortis potius adsentiar. » : « En effet la rude guerre des Volsques, à laquelle prit part Coriolan exilé, se place à peu près en même temps que les guerres médiques ; et, par ailleurs, le destin de ces deux grands hommes fut le même. Tous deux, citoyens éminents, furent injustement chassés par un peuple ingrat, passèrent à l'ennemi, et ne trouvèrent que dans la mort le moyen d'arrêter ce qu'un mouvement de colère leur avait fait entreprendre. » (source : agoraclass).
+
+[208]  Cicéron, *In Brutus* chapitre xi, 43 : « At ille ridens : tuo uero, inquit, arbitratu ; quoniam quidem concessum est rhetoribus ementiri in historiisn ut aliquid dicere possint argutius » : « Atticus se mit à rire  : Comme il te plaira, dit-il ; on permet aux rhéteurs d'arranger les faits historiques, afin de leur donner plus de piquant » (source agoraclass).
+
+[209]  Voir la pièce d'Euripide, *Oreste* v.1114 et suivants « **PYLADE** :Faisons périr Hélène. Quelle amère douleur pour Ménélas ! **ORESTE** :Par quel moyen ? J'y suis prêt, si la chose est possible./ **PYLADE** :En l'égorgeant ; elle est cachée dans ton palais. Ainsi que 1131 et suivants « **PYLADE : (**…) tu laisseras ce nom odieux pour en prendre un meilleur, celui de meurtrier d'Hélène, qui fut fatale à tant de guerriers.(…) Que je cesse de vivre, si je ne la perce de ce fer ! ou, si nous ne parvenons à frapper Hélène, embrasons ce palais et ensevelissons-nous sous ses ruines(…) » (traduction de M. Artaud, Paris, 1842).
+
+[210]  Voir entre autre La *Médée* d'Euripide ou *L'Héroide* xii d'Ovide.
+
+[211] C'est en partie à cause du vase apulien du Peintre de Darius (environ 340-320 av. J.-C.) que cette variante du mythe est apparu.
+
+[212] Au lieu que à le sens littéral de « à la place de », « à l'endroit où ». Il faut ici comprendre « alors que notre Autheur la faisoit venir …, j'ay creu… ».
+
+[213]  Les propos de d'Alibray rappellent ici ceux développés par Heinsius « Parfois, d'ailleurs, il arrive que les deux se retrouvent combinés ensemble, je veux dire ce Renversement que l'on appelle Péripétie, et la Reconnaissance, ce qui donne alors d'après Aristote, la seule Fable qui soit absolument parfaite. On trouve les deux à la fois dans *L'Oedipe* de Sophocle et dans celui de Sénèque ». Comme Aristote, Heinsius développe ensuite l'exemple d'Iphigénie en Tauride (*Poétique* chapitre xi) comme exemple de la double reconnaissance : « lorsqu'elle s'apprête à sacrifier Oreste, elle ignore que celui-ci est son frère ; de son côté, Oreste ignore également qu'elle est sa sœur. Donc ce dernier reconnaît sa sœur grâce à une lettre, tandis que celle-ci le reconnaît comme son frère d'après ses vêtements, peu après que celui-ci l'ai reconnu elle-même : la Reconnaissance qui suscite les passion et implique un renversement de situation est de loin préférable à celle qui est simple. ». (*De constitutione tragoediae : La constitution de la tragédie*  d'Heinsius, chapitre vii, p. 178-179 édition et traduction d'Anne Duprat, Droz, 2001). Toutefois, il semble difficile à croire qu'au xvii*e* siècle, d'Alibray considère Heinsius comme un « grand Maistre ».
+
+[214] *La Poétique* d'Aristote, chap. xiv, 14 « Il peut exister une troisième situation, c'est lorsque celui qui va faire une action irréparable. par ignorance, reconnaît ce qu'il en est avant de l'accomplir » (*op. cit.*).
+
+[215]  D'Alibray reprend ici une nouvelle fois les propos de Bonarelli dans sa correspondance avec Bruni (*op. cit.*).
+
+[216]  « … del Bassà dell' Amasia furono intercette alcune lettere, nelle quali era un non so 'che di maneggio di nozze trà Mustafà, e la figliuola del Rè di Persia, le quali lettere appresentate dalle Rossa a Solimano, oprorono l'effetto da lei desiderato, io pero' da questo picciol seme Istorico ho' pensato poter far' nascere la favolosa pianta de gli amori, e de gli altri effetti di Despina, inestandola in modo col tronco della favola principale, che l'una non possa reggersi, ne finir senza l'altra. » (*op. cit.*, p. 5-6) : « on intercepta certaines lettres du Bassa d'Amasie, qui faisaient vaguement état d'une sorte de mariage entre Mustafà et la fille du Roi de Perse, lesquelles lettres, présentées par la Rossa à Solimano, produisirent l'effet désiré. Moi, toutefois, à partir de cette petite semence historique, j'ai pensé pouvoir donné naissance à la plante fabuleuse des actions de Despina et de ses amours avec Mustafà, en la greffant de telle sorte sur le tronc de la fable principale, que l'une ne puisse se soutenir, ni finir sans l'autre. ».
+
+[217]  Cette idée de la compensation de la proximité temporelle par l'éloignement spatiale a été reprise par Racine dans la seconde préface de *Bajazet. « * Quelques lecteurs pourront s'étonner qu'on ait osé mettre sur la scène une histoire si récente. Mais je n'ai rien vu dans les règles du poème dramatique qui dût me détourner de mon entreprise …. L'éloignement des pays répare en quelque sorte la trop grande proximité des temps ». (Racine, *Œuvres complètes. Théâtre - Poésie*, Paris, Gallimard, Bibliothèque de la Pléiade, 1999, p. 625).
+
+[218]  « Aussi la poésie est quelque chose de plus philosophique et de plus élevé que l'histoire ; car la poésie parle plutôt de généralités, et l'histoire de détails particuliers. » Aristote, *La Poétique* chapitre ix, 3 (*op. cit.*).
+
+[219]  « Ainsi donc il ne faut pas affecter de s'en tenir de tout point aux fables traditionnelles sur lesquelles il existe déjà des tragédies. Cette affectation serait ridicule, car les sujets connus ne le sont que d'un petit nombre et, cependant, font plaisir à tout le monde. Il est évident, d'après cela, que le poète doit être nécessairement un faiseur de fables plutôt qu'un faiseur de vers, d'autant qu'il est poète par l'imitation : or il imite des actions ; donc, lors même qu'il lui arrive de composer sur des faits qui sont arrivés, il n'en sera pas moins un poète, car rien n'empêche que quelques-uns des faits arrivés soient de telle nature qu'il serait vraisemblable qu'ils fussent arrivés ou possible qu'ils arrivent, et, dans de telles conditions, le poète est bien le créateur de ces faits ». Aristote, *La Poétique*, chapitre ix, 8-9 (*ibid.*).
+
+[220]  Homère évoque surtout Pénélope dans *L'Odyssée.* Selon lui, pendant les vingt années d'absence d'Ulysse, sa femme lui garda une fidélité à toute épreuve.
+
+[221]  Dans *L'Enéide*, Livre iv.
+
+[222] *La Rhétorique* d'Aristote livre II, chapitre viii, 2 « La pitié sera le chagrin que nous cause un malheur dont nous sommes témoins et capable de perdre ou d'affliger une personne qui ne mérite pas d'en être atteinte, lorsque nous présumons qu'il peut nous atteindre nous-mêmes, ou quelqu'un des nôtres, et cela quand ce malheur parait être près de nous …. » (wikisource).
+
+[223]  Martello dans *l'Euripide déchirée* fait réciter par un de ses personnages une comédie intitulée *Il fior d'Agatone* (*La Fleur d'Agathon).* « M.Marin de l'Académie de Marseille, et de la Société Royale de Nancy, Censeur Royal et de la Police, et Secrétaire Général de la Librairie de France » décide de traduire cette pièce en trois actes et en vers rimés en français. Il l'a finalement adapté dans une pièce en prose, en un acte. Cette pièce a été édité  dans un recueil chez Duchesne en 1665 « Avec approbation et Privilège du Roy » (voir l'Avertissement et les Observations de Marin sur sa pièce).
+
+[224] Selon Furtière dans son dictionnaire de 1687, le verbe « laisser » peut vouloir dire « demeurer malgré quelques obstacles ». Il peut ici se comprendre au sens de « cesser de ».
+
+[225]  « Néanmoins, dans quelques tragédies, il y a un ou deux noms connus, et les autres sont fictifs ; dans quelques autres, il n'y en a pas un seul de connu, par exemple dans la Fleur, d'Agathon ; car, faits et noms, tout y est imaginaire, ce qui n'empêche pas que cette pièce fait plaisir ». Aristote, *La Poétique* chapitre ix, 7 (*op. cit.*).
+
+[226]  « (…) il est évident, d'abord, qu'il ne faut pas que les gens de bien passent du bonheur au malheur (ce qui n'excite ni la pitié, ni la crainte, mais nous fait horreur) ». Aristote,  *La Poétique*, chapitre XIII, 2. (*Ibid.*).
+
+[227] *Due lettere del signor comte Prospero Bonarelli al signor Antonio Bruni* dans *Il Solimano-Tragedia del co Prospero Bonarelli* …, Roma, F. Corbeletti, 1632.
+
+[228] *La Poétique* d'Aristote chapitre vi, 2, (*op. cit.*) : « La tragédie est l'imitation d'une action grave et complète, ayant une certaine étendue, présentée dans un langage rendu agréable et de telle sorte que chacune des parties qui la composent subsiste séparément, se développant avec des personnages qui agissent, et non au moyen d'une narration, et opérant par la pitié et la terreur la purgation des passions de la même nature. ».
+
+[229] *La Poétique* d'Aristote chapitre v, 7, (*Ibid.)* : « L'épopée marche avec la tragédie jusqu'au mètre (exclusivement), comme imitation des gens graves produite par le discours ; mais elle s'en sépare d'abord en ce qu'elle a un mètre simple. ».
+
+[230]  Cette remarque vise entre autres Aristote qui dans sa *Poétique* n'a consacré que très peu de lignes à la comédie, de même que ses commentateurs.
+
+[231]  Cette expression, très fréquemment utilisée par les auteurs de comédie du XVI*e* siècle, s'inspire probablement de Donat (Aelius Donatus), commentateur de Térence.
+
+[232]  Manière de parler avec un air de coquetterie (*Dictionnaire de l'Académie*, 1*re* édition, 1694).
+
+[233]  Cette périphrase désigne probablement Quintilien, auteur de *L'Institution oratoire.*
+
+[234]  Cette théorie est explorée entre autre par Cicéron dans le *De Oratore.*
+
+[235] L'abbé d'Aubignac développe exactement la même conception dans sa *Pratique du théâtre* (1657).
+
+[236]  Cette critique semble viser les célèbres stances de Rodrigue dans *Le Cid.*
+
+[237]  Trait ou ligne delicate qu'on observe en quelque chose, et particulierement sur le visage, qui en compose la delicatesse, qui en fait conserver l'image, qui en cause le rapport ou la ressemblance avec quelque autre. On n'attrape dans les esbauches que les premiers *lineaments* du visage d'une personne.
+
+[238] Cette expression a été inventée par un des Grands Docteurs de l'Église chrétienne afin de condamner la poésie profane.
+
+[239]  Selon le *Dictionnaire* de Nicot en 1606, « rassis » est synonyme d'« appaisé ». Si on s'en réfère à le première édition du *Dictionnaire de l'Académie*, 1694, *rassis* « se dit des humeurs, du sang, des esprits qui ont esté eschauffez, esmus ».
+
+[240] Platon dans *Phédon* évoque les derniers instants de Socrate. Il fait mention de sa poésie au chapitre 4 : « Alors Cébès prenant la parole : « Par Zeus, Socrate, dit-il, il est heureux que tu m'en aies fait souvenir  ; car, à propos des poésies que tu as composées en mettant en musique les fables d'Ésope et un prélude pour Apollon, plusieurs personnes m'ont déjà demandé, et l'autre jour encore Évènos, quelle idée tu as eue, depuis que tu es ici, de composer des vers, toi qui jusque-là n'en avais point fait de ta vie. … Eh bien, Cébès, répondit Socrate, dis-lui la vérité, que ce n'est pas dans le dessein de rivaliser avec lui ni avec ses poèmes que j'ai composé les miens, car je savais bien que ce n'était pas chose aisée, mais que c'était pour éprouver le sens de certains songes et que, pour acquitter ma conscience, je voulais m'assurer si c'était bien ce genre de musique qu'ils me prescrivaient de cultiver. Voici en effet de quoi il s'agissait. Souvent, dans ma vie passée, j'ai eu la visite du même songe  ; il apparaissait tantôt sous une forme, tantôt sous une autre, mais il me disait toujours la même chose : « Socrate, fais œuvre de poète et cultive la musique. » Version originale : « οὖν Κέβης ὑπολαβών, « νὴ τὸν Δία, ὦ Σώκρατες, ἔφη, εὖ γ᾽ ἐποίησας / ἀναμνήσας με. περὶ γάρ τοι τῶν ποιημάτων ὧν πεποίηκαςἐντείνας / τοὺς τοῦ Αἰσώπου λόγους
+    καὶ τὸ εἰς τὸν Ἀπόλλω προοίμιον καὶἄλλοι τινές / με ἤδη ἤροντο, ἀτὰρ καὶ Εὔηνος πρῴην,
+    ὅτι ποτὲ διανοηθείς, ἐπειδὴ δεῦρο / ἦλθες, ἐποίησας αὐτά, πρότερον οὐδὲν πώποτε ποιήσας. Εἰ οὖν τίσοι μέλει / τοῦ ἔχειν ἐμὲ Εὐήνῳ ἀποκρίνασθαι ὅταν με αὖθις ἐρωτᾷ - εὖοἶδα γὰρ ὅτι / ἐρήσεται - εἰπὲ τί χρὴ λέγειν. / - Λέγε τοίνυν, ἔφη, αὐτῷ, ὦ Κέβης, τἀληθῆ, ὅτι οὐκ ἐκείνῳβουλόμενος οὐδὲ / τοῖς ποιήμασιν αὐτοῦ ἀντίτεχνος εἶναι ἐποίησα ταῦτα - ᾔδηγὰρ ὡς οὐ / ῥᾴδιον εἴη / ἀλλ᾽ ἐνυπνίων τινῶν ἀποπειρώμενος τί λέγοι, καὶἀφοσιούμενος / εἰ ἄρα πολλάκις ταύτην τὴν μουσικήν μοι ἐπιτάττοι ποιεῖν. Ἦνγὰρ δὴ ἄττα / τοιάδε· πολλάκις μοι φοιτῶν τὸ αὐτὸ ἐνύπνιον ἐν τῷ παρελθόντιβίῳ, ἄλλοτ᾽ / ἐν ἄλλῃ ὄψει φαινόμενον, τὰ αὐτὰ δὲ λέγον, « Ὦ Σώκρατες », ἔφη, « μουσικὴν ποίει καὶ ἐργάζου » » (traduction de Victor Cousin, 1822, corrigée par Philippe Remacle).
+
+[241] L'adjectif « vuide » est proche de l'adjectif moderne « vide ».
+
+[242]  D'Alibray fait ici référence à sa traduction de *L'Aminte* du Tasse en 1632. Il s'agit d'un drame pastoral en cinq actes et en vers.
+
+[243] Cette pièce a été traduite en vers français de l'italien en 1634.
+
+[244]  Cesare Cremonini (1550-1631) est un professeur italien reconnu comme un des plus grands philosophe de son temps. Il écrivit  *Le Pompe funebri*  en 1559.
+
+[245] Cette pièce du Tasse a été traduit encore une fois de l'italien par d'Alibray en 1636.
+
+[246] Guido Casoni est un poète italien (1561-1642).
+
+[247]  Selon Mairet dans la Préface de *La Silvanire* (1631), La Catastrophe « est celle qui change toute chose en joie, et qui donne l'éclaircissement de tous les accidents qui sont arrivés sur la scène ».
+
+[248]  Cette métaphore rappelle l'Avis au Lecteur du *Torrismon* (1636) « je ne doute point que mon *Soliman* qui peut-estre estoit assez bon de soy, ne se trouve mauvais par acccident, et lors qu'il sera comparé au sien, et que la plume de l'Aigle ne dévore la mienne ». L'Aigle désigne le dramaturge Jean Mairet.
+
+[249]  Stace dans *La Thébaïde* en parlant de *L'Éneide* « Mais suis la toujours de loin, et adore toujours ses traces ».
+
+[250]  D'Alibray pense, ans doute, entre autre à Ogier qui dans la Préface de *Tyr et Sidon* de Schélandre (1628) énonce que « La poésie, et particulièrement celle qui est composée pour le théâtre, n'est faite que pour le plaisir et le divertissement … ». 
+
+[251]  D'Alibray a en effet publié des textes poétiques en 1647 : *La Musette* et en 1653 : *Œuvres poétiques du Sr Dalibray, Divisées en vers bachiques, satyriques, heroïques, amoureux, moraux et chrestiens.*
+
+[252] Minerve était entre autre la déesse de l'art et de l'artisanat.
+
+[253] Feal (pluriel : feaux) : «  Fidèle, Loyal ».
+
+[254] S'ingérer de : « se mêler de faire qqch sans en être prié, sans en avoir la permission ».
+
+[255] Cette graphie souligne que l'adverbe de temps provient de la soudure du déterminant indéfini « toutes » et du substantif « jours ».
+
+[256]  Byzance est une ancienne cité grecque, capitale de la Thrace. En 330, la ville est renommée Constantinople par l'empereur Constantin. Le 29 mai 1453, elle tombe au main des Turcs qui en font la capitale de l'Empire ottoman et la nomme Istanbul. D'Alibray continue d'employer le nom de « Byzance », tout comme Mairet dans son *Soliman*. À la suite de certains critiques, on peut alors penser que les auteurs ont jugé que l'ancien nom de la ville invoquait davantage l'idée d'abondance voire de luxe et que dans ce sens le terme était plus noble et plus sujet au dépaysement du lecteur. On notera aussi une hésitation dans la graphie entre *Bizance* et *Bisance*, aujourd'hui orthographiée *Byzance.*
+
+[257]  Les Occidentaux donnen le titre de Grand Seigneur à Soliman et dans ses lettres à François I*er* il se présente lui-même comme « Le Sultan des Sultans, le Souverain des Souverains, le Distributeur des Couronnes aux Monarques du Globe, l'Ombre de Dieu sur terre, le Sultan et le Padischah de la mer Blânche, de la mer Noire, de la Roumélie, de l'Anatolie, de la Caramanie, du pays de Roum, de Zulcadir, du Diarbeckr, du Kurdistan, de l'Azerbaïdjan, de la Perse, de Damas, du Caire, de La Mecque, de Médine, de Jérusalem, de toute l'Arabie, du Yémen et de plusieurs autres contrées que met nobles aïeux et mes illustres ancêtres conquirent par la force de leurs armes et que mon Auguste Majesté a également conquises avec mon glaive flamboyant et mon sabre victorieux… » (extrait de E. Charrière, *Négociations de la France dans le Levant*, Paris, Imprimerie nationale, 1858). Pour la formule « de Thrace » voir la note du vers 1.
+
+[258]  Diérèse, le mot compte ici pour trois syllabes. La diérèse en -ieux/-ieuse comme aux vers : 12, 25, 70, 136 163, 279, 526, 609, 666, 783, 845, 862, 974, 1215, 1216, 1535.
+
+[259] Diérèse, le mot compte ici pour trois syllabes. Diérèse en -ui/ -uy, comme au vers 646, 1290.
+
+[260]  Au xvii*e* siècle, le système d'accord du sujet n'est pas le même que dans la grammaire d'aujourd'hui. Quand deux substantifs sont coordonnés par le conjonction de coordination « et » , le verbe se met souvent au singulier.  Les deux noms sont en effet considérés comme formant un tout (Haase, *La Syntaxe française du xvii*e* siècle*, Delagrave, 1925, §146). Cette règle est aussi appliquée au vers 344.
+
+[261] Avoir l'ennemi en teste : être face à l'ennemi pour le combattre ou pour lui résister (d'après le dictionnaire de Richelet, 1680).
+
+[262] Ville de la région du Pont aujourd'hui située dans le nord de la Turquie près de la mer Noire. C'est une ville de la région caucasienne réputé pour son commerce de soie.
+
+[263] Cette didascalie ne concerne que le vers 33 et non l'ensemble de la réplique de Rustan.
+
+[264] Permission.
+
+[265] Cette graphie souligne que l'adverbe de temps provient de la soudure du déterminant indéfini « tous » et du substantif au pluriel « jours » et signifie littéralement « tous les jours ».
+
+[266]  Au xvii*e* siècle, le trait sémantique de l'énumération et le sens narratif des verbes conter/ compter et de leur déverbal, ne se différencient pas l'un de l'autre par une distinction systématique dans l'orthographe.
+
+[267] *Le Dictionnaire de l'Académie* indique que *fidelle* est un adjectif de tout genre. Le suffixe -elle étant plus souvent usité pour les mots de genre féminin le français moderne choisira l'orthographe *fidèle* pour cet adjectif. Voire vers 179 ; 618 ; 747 ; 803 ; 813 ; 916 ; 980 ; 1049 ; 1551 ; 1566 et son antonyme *infidelle* vers 659, 810 et 897.
+
+[268] Adverbe d'insistance : « tout de même ».
+
+[269]  Graphie historique. « Voir » en français moderne vient du latin *videre*. Par l'évolution phonétique, le /d/ intervocalique ainsi que le /e/final disparaissent. Le /e/diphtongue en wa graphié /oi/ et le /i/ s'affaiblit en e central. Cependant ce /e/ est normalement tombé dés le 14e siècle.
+
+[270] Briller.
+
+[271] Diérèse en -uez.
+
+[272]  Voyage n'a pas ici le sens moderne de l'action qui consiste à se rendre dans un lien lointain mais il désigne d'avantage une idée. Comprendre : « Sire, persévérer dans votre première idée. » Toutefois, puisque Soliman souhaite aller accueillir Mustapha à l'entrée de la ville on peut aussi être en adéquation avec le dictionnaire de Furetière qui considère que le« voyage » peut désigner « une petite course qu'on fait d'un lieu en un autre, soit dans les endroits circonvoisins, soit dans la ville, soit même dans sa maison ».
+
+[273] L'utilisation de « encore » sans /e/ final est fréquente pour des raisons de métrique.
+
+[274] Cette dernière réplique d'Osman est prononcée à part tandis qu'il s'en va. 
+
+[275]  Jusqu'au xix*e* siècle, le verbe « aviser » était construit avec la préposition « à » et non pas « de ».
+
+[276] Substantif féminin qui désigne le fait de tarder, de s'attarder.
+
+[277] On dirait aujourd'hui, « il peut changer de visage envers vous ». Comprendre : « il peut se retourner contre vous ».
+
+[278] La patrie des Arsacides est le nom donné à la dynastie Parthe établie surtout en Iran et qui fut renversée par les Sassanides perses en 224 av. J.-C.
+
+[279] Diérèse en -ier/-ié comme aux vers  : 389, 446, 504, 973, 1419, 1511, 1512, 1528, 1576.
+
+[280]  Diérèse en -ion comme aux vers : 153, 266, 287, 349, 371, 372, 402, 410,  446, 476, 507, 508, 607, 608, 689, 782, 808, 814, 933, 952, 1000, 1040, 1088, 111, 1118, 1128, 1137, 1159, 1297, 1303, 1476, 1560, 1633, 1634, 1664.
+
+[281] La constellation du Lion est traversée chaque année par le Soleil du 10 août au 16 septembre. Cela fait donc déjà deux ans que Persine et Mustapha se sont rencontrés et qu'ils se sont avoués leur amour pour la première fois.
+
+[282]  Au xvii*e* siècle, les verbes « consumer » et « consommer » étaient plus ou moins équivalents et l'on trouve régulièrement l'un à place de l'autre. Cela est probablement dû à leur étymologie très proche : consumer *consumere* et consommer *consummare*. D'ailleurs les première définitions données par le dictionnaire de Furetière : Consumer : « dissiper, détruire » et consommer :« user, dissiper des denrées, des provisions nécessaires à la vie », sont assez semblables.
+
+[283]  Au xvii*e* siècle, le genre du substantif *amour* est indistinctement masculin ou féminin (autre occurrence : v.876). Le choix du féminin s'explique souvent pour les besoins de la rime.
+
+[284] Diérèse, le mot compte ici pour trois syllabes. Diérèse en -io comme aux vers 509 ; 562 et 765.
+
+[285]  Au xvii*e* siècle, l'omission de « ne » est encore fréquente dans les interrogations directes ou indirectes. Haase dans *La Syntaxe française du xvii*e* siècle* en donne la cause : « le sens négatif des adverbes pas ou point s'accentua peu à peu, si bien qu'ils finirent par exprimer à eux seuls la négation ».
+
+[286] Se dit d'un homme galant qui courtise une Dame. (Dictionnaire de Furetière, 1690). Cependant il faut noter que notre auteur joue sur les mots puisque le cavalier désigne aussi le guerrier à cheval  ; or Mustapha est nommé chef des armées de son père.
+
+[287] Le verbe « vouloir » est ici porteur d'une valeur modale d'atténuation. Il signifie « je veux bien », « je concède », « j'accorde ».
+
+[288]  Au xvii*e* siècle on trouve aussi bien *folle* que *fole* au féminin. Le /e/ est donc la marque graphique du féminin. Le masculin de l'adjectif est *fol.*
+
+[289] *Heur* a tendance à signifier : bonheur et à tendre vers un sens positif (c'est le cas aux vers 1618 et 1648) il est ici précédé de et  l'adjectif « mal ». Le tout forme un substantif féminin qui signifie : sort injuste, évènement qui affecte, situation pénible. Au fil du siècle le mot désigne de plus en plus l'absence de chance. On peut le trouver sous la forme d'un mot composé avec un trait d'union ou soudé graphiquement. Son antonyme est bon-heur : « félicité, état de celui qui est heureux ».
+
+[290]  Au xvii*e*, la valeur du souhait qui s'exprime par une proposition dont le verbe est au subjonctif, se dispense souvent de la conjonction optative « que » (voir Haase, *op. cit.*, chapitre 6, p. 369, §136).
+
+[291]  L'infinitif substantivée « penser » est encore en concurrence avec le substantif « pensée » au xvii*e* siècle (confère vers 195 ; 552).
+
+[292]  L'adjectif au superlatif « prudens », est attribut du pronom démonstratif sujet « ceux ». Au xvii*e* siècle, l'expression « tenir pour » signifie « être considéré comme…, en qualité de… » et est généralement introduite par la préposition « pour ». Cependant elle peut aussi être élidée (comme c'est le cas ici) ou remplacée par la préposition « comme » (voir Haase, *op. cit.*, p. 363 §134, C).
+
+[293]  Le « s » a ici pour fonction de souligner la valeur adverbiale de « avecque ». Il est encore très présent au xvii*e* siècle surtout après les préposition « avecque » et « doncque ». Les graphies « avecque » à la place de « avec » et « doncque » à la place de « donc » s'expliquent pour des raisons de métrique (ajout d'une syllabe). L'adjonction du /s/ ne semble pas obligatoire après la préposition d'accompagnement puisque d'Alibray emploie alternativement l'une ou l'autre forme v. 197 ; 277 ; 393 ; 461 ; 557 ; 616 ; 1034 ; 1115 ; 1190 ; 1327 ; 1406 ; 1506 ; 1519 ; 1568 ; 1580 ; 1658. Cependant, on peut noter la présence systématique du /s/ après la préposition « doncque ». 
+
+[294] On trouve ici l'acception pronominale de « un » dans le sens de « quelqu'un » : Comprendre « Quelqu'un qui mettra son fils… ». « Un » désigne Mustapha.
+
+[295]  Le texte donne peu d'informations au sujet de ce personnage. Selin est désigné au vers 226 comme « ce second fils ». Cependant en lisant *Le Solyman* de Mairet, on apprend de manière très explicite que Selin est le fils cadet de la reine et donc le frère de Mustapha.
+
+[296] Être à la mercy du sort : être aux mains du sort, dépendre des aléas de la Fortune et du hasard.
+
+[297]  Graphie historique du verbe *laisser* à la troisième personne du singulier du conditionnel. L'ancien français connait une double série : *lesseroie* ou *laisseroie*… et *leroie* ou *lairoie* .. qui sont en fait issues de deux verbes différents : *laisser* et *laire*. Les formes en lerais/lairais …ont subsisté jusque dans la langue classique mais ont été éliminées car elles allaient à l'encontre du système. Pour la graphie /oi/ confère note sur l'édition.
+
+[298] Comprendre : Si tu penses que le fait de te reposer va à l'encontre de ta valeur ou si tu crains que cela nuise à ta renommée.
+
+[299] Passé simple du verbe « commettre » qui signifie ici confier qqch à qqun.
+
+[300] La métrique exige l'élision du /e/ muet devant la voyelle qui suit. Le pronom /le/ est alors prononcé l.
+
+[301]  Usurper pour soi-même: s'emparer (pour soi même) injustement de quelque chose. Même si on rencontre dans d'autres textes du xvii*e* siècle cette forme pronominale du verbe, elle n'est pourtant, dans ce sens, attestée par aucun dictionnaire. (En effet, seul Furetière en fait mention dans l'un de ses exemples: « Un mot equivoque s'*usurpe* en plusieurs significations. En ce sens il est vieux.)
+
+[302] Comprendre : « vous avez vous- même participer à votre malheur ».
+
+[303] Comme dans l'avis Au Lecteur, « Comme » peut aussi être une préposition marquant la manière. Dans ce cas « comme » est synonyme de « comment »  : v. 546, 592, 1174, 1272, 1507.
+
+[304] Probable, Concevable.
+
+[305] Voir note du vers 191.
+
+[306] Dans cette scène judiciaire, d'Alibray et Mairet suivent de très prêt la pièce italienne et les arguments utilisés par les personnages afin de rendre coupable Mustapha aux yeux de son père sont directement empruntés à Bonarelli.
+
+[307]  Qui et que au xvii*e* siècle peuvent être des pronoms neutres. Ils sont remplacés aujourd'hui par « ce qui » et « ce que ». Il faut ici comprendre : « qu'est-ce qui vous meine icy ? ». 
+
+[308] L'adverbe « dedans » a ici une valeur temporelle. Suivi de « peu » il forme une locution qui a le sens de « Dans peu de temps ».
+
+[309] La périphrase désigne ici le roi Tamas.
+
+[310]  Cette graphie est bien attestée dans le premier dictionnaire de l'Académie Française. Le verbe a le même sens que *conclure.*
+
+[311] Diérèse, le mot compte ici pour trois syllabes. Diérèse en – iere/-ière comme aux vers : 422, 751, 1635.
+
+[312]  L'expression a le sens d'éblouir, frapper, surprendre… Aujourd'hui, on utiliserait l'expression  « en mettre plein la vue ».
+
+[313] Comprendre que Mustapha est toujours aussi poli et agréable quelque soit la personne à qui il s'adresse.
+
+[314] L'expression « tirer à soy » signifie : chercher à attirer l'attention, mettre quelqu'un de son côté, afin d'en tirer profit. Aujourd'hui, l'expression « tirer la couverture à soi » est dans la même veine.
+
+[315]  La construction du verbe *prévoir* suivi de la préposition à n'est attesté par aucun dictionnaire. Comprendre ici : « on ne saurait trop tôt se préoccuper de son dommage afin de pouvoir le contrer ».
+
+[316]  Variation orthographique de *dompter* qui peut ici avoir le sens de surmonter ou de réduire sous obéissance.
+
+[317] Joint = rejoint.
+
+[318] Synérèse : À l'inverse de la diérèse, la synérèse consiste à prononcer deux voyelles qui se suivent en une seule syllabe.
+
+[319] Comprendre : et ne vous nuirois même pas par la pensée.
+
+[320] Situation, position.
+
+[321] « que » est ici employé comme conjonctif universel à la place de « et ».
+
+[322] Désigne les Enfers.
+
+[323]  Graphie conservatrice de feuille, encore attestée dans le *Thrésor de la Langue Française* de Nicot. Le graphème /ue/ provient de la diphtongaison conditionnée du /o/ bref accentué. Cette graphie était courante en Ancien Français.
+
+[324] Biens donnés aux futurs époux.
+
+[325]  « Quelqu'un » pouvait avoir un sens neutre au xii*e* siècle. Il a alors le sens de « l'un de… », « l'un d'entre eux ». On  retrouve cette acception aux vers 627 et 1212.
+
+[326] Le verbe disparaître s'emploie parfois pour signifier « se retirer rapidement ».
+
+[327]  « Lorsque deux impératifs étaient coordonnés, le pronom précédait le second » (Haase, *op. cit*., p. 417 §154, B).
+
+[328] Irriter par des vexations.
+
+[329] Savoir-faire, connaissance.
+
+[330] Voir note du vers 46
+
+[331] Ces deux derniers vers sont à dire en aparté.
+
+[332] Départ.
+
+[333] Une fois seule en scène.
+
+[334]  « En ancien français, lorsqu'un verbe à un mode personnel en précédait un autre à l'infinitif, l'ancienne langue considérait les deux verbes comme une seule expression et plaçait le pronom devant le premier. Au xvi*e* siècle pour les infinitifs prépositionnels, l'ordre des mots actuels rentre dans l'usage et l'ancien, sauf quelques rares exceptions ne survit au xvii*e* siècle qu'avec *venir de*, très usité à cette époque. » (Haase, *op. cit.*, p. 418-419, §154, C).
+
+[335]  Le subjonctif s'explique ici par le type de la phrase, qui même si elle s'achève par un point d'exclamation a une valeur de questionnement ; de réflexion (sur la ponctuation, voire *la note sur la présente édition)*. Ce type de phrase met en doute l'existence du référent et a donc en français classique une affinité avec le subjonctif, temps à valeur inaccompli, ou temps *in posse.*
+
+[336] Événement inattendu, accident.
+
+[337] Événement.
+
+[338]  La base du mot est « dessein ». On trouve le verbe dans le dictionnaire de Cotgrave qui le traduit par « *To designe, purpose, proiect, lay a plot*. » soit en français : « concevoir, envisager, monter un complot ».
+
+[339] Le /e/ est la marque du subjonctif présent à la P1 on le retrouve aussi au vers 1271.
+
+[340]  Au sens propre : faire gain. Le verbe sera ensuite supplanté par *gagner.*
+
+[341]  A le même sens que *courir. Courre* tend à être supplanté par *courir*.
+
+[342]  Doute est un substantif dont le genre a varié ; les dictionnaires de la fin du xvii*e* siècle ne connaissent plus que le masculin (alors que le dictionnaire de Nicot en 1606 ne connait que le féminin).
+
+[343]  L'expression « avoir le pied léger » signifie « s'enfuir ». Au sens figuré, elle a le sens de « s'engager légèrement dans une affaire, sans y accorder beaucoup d'importance ». (Voir Haase, *op. cit.*, p. 387, §141) Comprendre : « Mais en es-tu certain ? ou bien est-ce que tu l'appréhendes ? »
+
+[344]  « Si » est, dans ce cas, une conjonction de coordination héritée de l'ancien et du moyen français. On la retrouve encore quelque fois dans la langue du xvii*e* siècle. Elle réunit alors deux propositions avec un sens opposé. Elle est ici  renforcée par la conjonction de coordination « ou » qui la supplantera par la suite.
+
+[345] Exhortation dont on se sert pour inciter.
+
+[346]  Cette graphie est attestée dans le *Thrésor de la Langue Française* de Nicot (1606). On peut supposer que cette orthographe a été choisie pour les besoins de la rime. Ici l'auteur respecte ainsi parfaitement la rime pour l'œil et la rime pour l'oreille.
+
+[347] Diérèse en -iance comme aux vers 1003.
+
+[348] Comprendre : Faire preuve de clémence dans son jugement est encore plus louable quand on a des raisons d'être en colère.
+
+[349]  La présence de la 3*e* personne au travers du possessif, laisse à penser que ce vers est dit à part.
+
+[350] Avec certitude, assurément.
+
+[351] À part.
+
+[352] Probablement sans être entendue.
+
+[353] Les interrogations de Persine peuvent être comprises comme des questionnements à elle-même. Ces vers seraient donc prononcés sans être entendus des autres personnages.
+
+[354]  « Le pronom le, attribut du sujet s'accorde avec son sujet au xvii*e* siècle. Les formes la et les remplacent le neutre le dans la langue actuelle » (Haase, *op. cit.*, p. 11 §17).
+
+[355]  Cette graphie graphie étymologique qui rappelle la préposition *sub* en latin est la seule occurrence du texte. La préposition n'a pas réellement de valeur locative mais marque davantage le lien de dépendance entre l'amour et la promesse de mariage.
+
+[356] Cette graphie en concurrence avec « aventure » est attestée dans le dictionnaire de Richelet de 1680 et dans celui de Cotgrave de 1611.
+
+[357] Voir note du vers 920.
+
+[358] Diérèse, le mot compte ici pour deux syllabes. Diérèse en ien.
+
+[359] Particule exceptive. Comprendre : « qui n'attend rien excepté l'heure de rendre l'âme ».
+
+[360] Liberté.
+
+[361] Aux temps du subjonctif et associé à une négation, le verbe « sçavoir » a le sens de « ne pouvoir pas » (dictionnaire de l'Académie Française, première édition, 1694).
+
+[362] Cette coquille est signalée à la fin de l' avis Au Lecteur comme fautes survenues à l'impression.
+
+[363] « Quand » peut parfois avoir une valeur de concession. Il a alors le sens de « si », « même si ». C'est aussi le cas aux vers 1319 et 1653.
+
+[364]  Attrait exercé par qqun ; « Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les attirer, à les inviter à faire quelque chose », dictionnaire de Furetière.
+
+[365] Voir note du vers 291.
+
+[366] Commettre une erreur.
+
+[367]  Pièces d'or dont les premières ont été frappées à Venise à la fin du xiii*e* siècle. Cette monnaie est particulièrement utilisée en Italie et dans le Levant (aujourd'hui appelé Proche-Orient ou Moyen-Orient). Des sequins de Soliman le Magnifique de 20 millimètres et de 3, 45 grammes ont d'ailleurs été retrouvé à Constantinople  : preuve que cette monnaie a bien été utilisée sous le règne du sultan.
+
+[368] Le Croissant lunaire est à l'origine le symbole de l'Empire byzantin. En 1453, quand les Turcs prennent Constantinople, ils adoptent le drapeau et le signe de la ville. Une légende raconte que le fondateur de l'Empire Ottoman, Osman, avait fait un rêve dans lequel le croissant englobait l'ensemble des peuples et nations de la Terre. Le Croissant lunaire est alors devenu un des symboles de la puissance ottomane. Aujourd'hui il est souvent associé à l'Islam.
+
+[369] Cette coquille est signalée à la fin de l' avis Au Lecteur.
+
+[370] Signature.
+
+[371] La liste des « fautes survenües en l'impression » reproduite dans l'avis Au Lecteur signale qu'il faut modifier le vers. Dans le mesure où nous ne voyons pas en quoi le précédent vers a été erroné nous l'avons conservé comme tel. Toutefois, nous rappelons à titre indicatif la version suggérée par l'auteur : « l'ay seul…, etc ».
+
+[372]  Au xvii*e* siècle, les mots en /gne/ et plus particulièrement les mots *cygne* et *signe* sont très souvent graphiés et prononcés avec avec une finale en /ine/.
+
+[373] L'adjectif « opportune » s'accorde ici au substantif « occasion ».
+
+[374] Diérèse en -iage.
+
+[375] Nous n'avons pas trouvé dans le dictionnaire le mot « Soria ». Nous avons donc pensé qu'il s'agissait d'une coquille et que le mot était « Siria ».

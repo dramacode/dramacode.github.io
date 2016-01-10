@@ -1,0 +1,2563 @@
+
+
+**** *book_ *id_privilege *date_1666 *creator_corneille
+
+Extrait du Privilege du Roy.
+
+Par Grace et Privilege du Roy, en datte du dixhuitiéme Février mil fix cens soixante-six, Signé par le Roy en son Conseil, BERTHAULT : Il est permis au Sieur THOMAS CORNEILLE de faire imprimer une Piece de Theatre de sa Composition, intitulée ANTIOCHUS, pendant cinq années : Et deffences sont faites à tous autres de l'imprimer, à peine de tous dépens, dommages et interest, et de trois mil livres d'amendes, et autres peines portées par lesdites Lettres.
+
+Imprimée aux dépens de l'Autheur.
+
+Et ledit Sieur de Corneille a cédé le present Privilege à Guillaume de Luyne, et Gabriel Quinet, suivant l'accord fait entr'eux.
+Et ledit Sieur de Luyne et quinet ont fait part dudit Privilege à Thomas Yolly et Loüis Billaine, suivant aussi l'accord fait entr'eux.
+Registré sur le livre de la Communauté des Libraires le 19 iour de Fevrier 1666.
+Signé, piget, Syndic.
+Les Exemplaires ont esté fournis.
+
+Achevé d'imprimer le 6.
+Iour de Mars 1666.
+
+A Rouen, par L. MAURRI.
+
+**** *book_ *id_body-3-1 *act_ *date_1666 *creator_corneille
+
+-*who_antiochus
+En vain à cét appas⁎ vous voulez que je cede,
+C'est redoubler mon mal que m'offrir ce remede,
+Et le croire l'effet d'un chagrin⁎ bien leger,
+Si par l'éclat d'un Trône on peut le soulager.
+Quoy qu'aux plus vertueux la Couronne soit chere,
+J'aime à la voir briller sur la teste d'un Pere,
+Et l'orgueil de mes vœux ne s'est jamais porté
+Jusqu'à ce grand partage où panche sa bonté.
+De quel front accepter les droits du Diadême,
+Si je n'ay pas appris à regner sur moy-mesme,
+Et par quelle aspre soif du vain tiltre de Roy
+Prendre un Empire ailleurs que je n'ay pas sur moy ?
+Non, non, l'avidité de cette independance
+Ne m'en a point encor laissé voir l'esperance,
+Et quoy qu'elle fust juste au rang où je suis né,
+Je puis vivre content⁎ sans estre couronné.
+
+-*who_tigrane
+Seigneur, chacun connoit avec quel avantage
+Une entiere vertu regle vostre courage,
+Et trop de grands effets l'exposent à nos yeux
+Pour laisser croire en vous un Prince ambitieux ;
+Mais le Roy, que poursuit l'impatiente envie
+De rendre ce grand jour le plus beau de sa vie,
+Languira dans ses vœux, si pour les voir remplis
+Espousant Stratonice il ne couronne un Fils ;
+L'excez de son amour pour cette belle Reyne
+Veut tout ce qu'a d'éclat la grandeur Souveraine,
+Et croit mal seconder la gloire de son choix
+S'il ne la place au Trône au milieu de deux Roys.
+Souffrez donc que par là d'un auguste Hymenée
+Nous voyions avec pompe éclater la journée,
+Et que de tans d'apprests qui marquent sa grandeur
+Vostre Couronnement augmente la splendeur.
+
+-*who_antiochus
+L'éclat qui le suivroit n'a rien qui m'ebloüisse,
+Je sçay que Seleucus adore⁎ Stratonice,
+Qu'il ne vit que pour elle, et que jamais l'Amour
+Ne prit tant d'interest aux pompes d'un grand jour ;
+Mais lors qu'il luy consacre une ardeur toute pure,
+Sa bonté pour un Fils vers elle est une injure,
+Puisque par ce partage il la prive des droits
+D'étendre jusqu'à moy la gloire de ses loix ;
+Ainsi, mon cher Tigrane, à quoy qu'il se prépare,
+Il faut que mon refus pour elle se declare,
+Et mette un prompt obstacle à l'injuste projet
+Qui pour me couronner lui dérobe un Sujet.
+
+-*who_tigrane
+Seigneur, quand sous vos loix il met la Phenicie,
+Seleucus regne encor sur toute la Syrie,
+Et croit que plus d'éclat suit le don de sa foy
+S'il lui soûmet en vous les hommages d'un Roy ;
+Mais si de ce refus vous vous trouvez capable,
+C'est l'effet du chagrin⁎ dont l'excez vous accable.
+Déjà depuis long-temps une morne langueur⁎
+Estale dans vos yeux l'ennuy⁎ de vostre cœur ;
+Rien n'en sçauroit forcer l'abatement funeste,
+La seule solitude est le bien qui vous reste,
+Et tout ce que jamais la Cour eut de plus doux
+Semble n'estre que gesne⁎, et supplice pour vous.
+Chacun surpris de voir ce changement extréme…
+
+-*who_antiochus
+Helas ! Tigrane, helas ! j'en suis surpris⁎ moy-mesme,
+Et de ce noir chagrin⁎ les accez languissants
+Accablent ma raison, et confondent mes sens.
+En vain tout mon courage à leur trouble s'oppose,
+Plus j'en ressents l'effet, moins j'en trouve la cause,
+Et pour la découvrir, rien ne s'offre à mes yeux
+Que l'Astre qui nous force, ou le couroux des Dieux.
+
+-*who_tigrane
+Quoy, d'un Astre ennemy la dure violence…
+
+-*who_antiochus
+Ouy, Tigrane, aujourd'huy croyez-en mon silence.
+Si quelque ennuy⁎ secret me faisoit soûpirer,
+Pourrois-je si long-temps vous le voir ignorer,
+A vous dont l'amitié me fut toûjours si chere,
+Qu'il n'est rien que la mienne ait encor pû vous taire ;
+A vous à qui l'Estat par vos soins⁎ conservé
+Doit avec moy le jour que vous m'avez sauvé ?
+
+-*who_tigrane
+C'est trop vous souvenir d'un si foible service
+Quand par vous la Princesse à ma flame est propice,
+J'aimois, et ma raison condamnant mes desirs,
+Un respect trop severe estouffoit mes soûpirs.
+Niepce de Seleucus, et Fille de son Frere,
+Le rang d'Arsinoé les forçoit à se taire.
+Vous avez auprés d'elle authorisé mes vœux,
+Tiré le doux adveu qui doit me rendre heureux,
+Et les plus grands exploits que mon zele imagine
+Sont au dessous du prix que le Roy me destine ;
+Mais, Seigneur, si j'osois dans un estat si doux,
+Lors que je vous dois tout, me plaindre un peu de vous,
+Je dirois qu'en secret cette humeur sombre et noire
+Suspendant mon bonheur met obstacle à ma gloire ;
+D'un jour grand et fameux les superbes apprests
+Sont pour le reculer des pretextes secrets,
+Et la pompe qui manque à l'Hymen d'une Reine,
+C'est d'un mal inconnu la guerison certaine.
+Le Roy qu'alarme en vous un sort trop rigoureux,
+Si vous n'estes content⁎, refuse d'estre heureux,
+Et comme un mesme jour également propice
+Doit m'approchant du Trône y placer Stratonice,
+Mes vœux les plus pressants en vain l'osent haster
+Quand vostre inquietude⁎ y semble resister
+
+-*who_antiochus
+Et c'est aussi par là que mon ame abatuë
+Se livre toute entiere au chagrin⁎ qui me tuë,
+J'en souffre d'autant plus que le bonheur du Roy
+Dépend de l'Hymen seul qu'il differe pour moy.
+Puisqu'enfin jusques là sa bonté l'inquiete,
+Voyez le pour luy faire agréer ma retraite.
+Peut-estre un mois ou deux dans un autre sejour
+Me rendront le repos que je pers à la Cour,
+Sa pompe m'embarasse, et mon inquietude⁎
+Pour calmer ses transports⁎ veut de la solitude,
+C'est un bien que vos soins⁎ me peuvent obtenir.
+
+-*who_tigrane
+Moy, Seigneur, de la Cour chercher à vous bannir ?
+
+-*who_antiochus
+Ce volontaire exil que mon chagrin⁎ m'impose
+A droit seul de calmer la peine qu'il me cause,
+Icy tout m'importune, et le trouble où je suis
+Dans le bonheur d'autruy trouve un surcroist d'ennuis⁎;
+Je m'en hay, mais mon cœur, quelques soins que j'emploie,
+Repousse malgré moy tous les sujets de joie,
+Je languis, je soûpire, et je ne sçay pourquoy ;
+Tigrane, encor un coup allez trouver le Roy,
+Et d'une Feste Auguste où seul je mets obstacle,
+Par mon éloignement pressez l'heureux spectacle.
+
+-*who_tigrane
+Mais, Seigneur, ce dessein…
+
+-*who_antiochus
+Rien ne peut l'ébranler,
+C'est me servir enfin que d'oser luy parler,
+D'un Roy qui vous cherit craignez-vous la colere ?
+
+-*who_tigrane
+Mes vœux les plus ardents n'aspirent qu'à vous plaire ,
+Et vostre seul desir servant de regle au mien,
+Je parleray, Seigneur, mais je n'obtiendray rien.
+
+**** *book_ *id_body-3-2 *act_ *date_1666 *creator_corneille
+
+-*who_antiochus
+Suy le juste projet où l'honneur te convie,
+Fuy de ces tristes⁎ lieux, ou plustost de la vie,
+Ingrat Antiochus, et du moins par ta mort
+Tâche de rachepter la honte de ton sort.
+Aussi-bien cét exil, où ton chagrin⁎ aspire,
+De tes sens revoltez te rendra- t'il l'empire ?
+Y crois-tu de ta flame écouter moins l'ardeur,
+Et pour changer de lieux, changeras-tu de cœur ?
+Non, non, ce cœur en vain croit vaincre sa foiblesse,
+Son destin est d'aimer, il aimera sans cesse,
+Et quoy que ta raison offre à le secourir,
+Il cherit trop son mal pour en vouloir guerir.
+Ah, lâche ! à quel orgueil ta passion t'entraine !
+Porter insolemment tes vœux jusqu'à la Reyne,
+Adorer Stratonice, et violer la foy
+Qu'un Fils doit à son Pere, un Sujet à son Roy !
+La sienne estant déja l'heureux prix de sa flame,
+Par ce gage receu n'est-elle pas sa femme,
+Et pour bannir un feu que tu nourris en vain,
+Faut-il attendre, helas ! qu'elle ait donné sa main ?
+Songe, songe à l'horreur de ce secret murmure
+Qu'à tes vœux insenses oppose la Nature,
+Et voy de ton amour les transports odieux
+Blesser également les hommes et les Dieux.
+Par ce fatal Portrait dont la perte t'accable
+Ces Dieux semblent t'offrir un secours favorable,
+Il nourrissoit ta flame, il en flatoit l'ardeur,
+Ce qui charmoit tes yeux se gravoit dans ton cœur,
+Et lors qu'à mille soins⁎ ce Portrait te convie,
+Tu pers en le perdant le seul bien de ta vie.
+Mais las ! en d'autres mains que sert qu'il soit passé,
+Si de ce triste cœur il n'est pas effacé ?
+J'y vois, j'y vois toûjours une adorable⁎ Reine
+Augmenter mon amour, et redoubler ma peine,
+J'observe avec plaisir ces merveilleux⁎ accords
+Des charmes de l'esprit, et des graces du corps ;
+Et sans cesse y trouvant mille sujets d'estime,
+Cette mesme raison qui m'en faisoit un crime,
+Contrainte de ceder à des traits si puissants,
+Se range contre moy du party de mes sens.
+Aimons-donc, puisqu'enfin c'est un mal necessaire,
+Mais aimons seulement pour souffrir et nous taire,
+Et cherchons dans l'exil qui seul est mon recours,
+La fin de cét amour par celle de mes jours.
+Là mon dernier soûpir poussé pour Stratonice
+D'un feu si criminel bornera l'injustice,
+Et mon secret caché justifiant ma foy
+Me rendra … mais ô Dieux ! c'est elle que je voy.
+Dans quel trouble me jette une si chere veuë !
+Ma raison se confond, mon ame en est émeuë,
+Fuyons, ce seul moyen m'épargne le soucy …
+
+**** *book_ *id_body-3-3 *act_ *date_1666 *creator_corneille
+
+-*who_stratonice
+Quoy, Prince, c'est donc moy qui vous chasse d'ici ?
+
+-*who_antiochus
+Si vous fuir blesse en vous l'honneur du Diadême,
+On peut le pardonner à qui se fuit soy-mesme ;
+Jugez si de mes maux je puis venir à bout,
+Je tasche de me perdre, et me trouve par tout.
+
+-*who_stratonice
+Si vous trouver par tout est pour vous un supplice,
+Prince, resolvez-vous à vous rendre justice ;
+Et quoy que pour vos sens le chagrin⁎ ait d'appas⁎,
+Vous vous consolerez de ne vous perdre pas.
+
+-*who_antiochus
+C'est par où ma raison redouble ses alarmes,
+L'habitude au chagrin⁎ y fait trouver des charmes⁎,
+Et j'apprehende bien de ne guerir jamais
+D'un mal où malgré moy je sens que je me plais.
+
+-*who_stratonice
+Si vous vous y plaisez, vous estes moins à plaindre
+Que ceux à qui pour vous sa rigueur donne à craindre,
+Il leur oste un repos qu'il vous laisse acquerir.
+
+-*who_antiochus
+Helas ! est-ce estre heureux que se plaire à souffrir ?
+Un mal n'est-il plus mal s'il flate en apparence,
+Et pour nous estre cher perd-il sa violence ?
+Non, non, ses traits pour nous sont d'autant plus perçans
+Que pour surprendre l'ame, il abuse les sens ;
+Qu'à peine il nous fait prendre un chagrin volontaire
+Qu'un Astre imperieux nous le rend necessaire,
+Et force un cœur seduit par cette trahison
+Au refus du secours que preste la raison.
+
+-*who_stratonice
+Du mal pour qui le cœur à la raison s'oppose
+Le charme est dans l'effet beaucoup moins qu'en la cause,
+Et pour voir quel remede on y peut appliquer,
+Qui la connoist si bien la devroit expliquer.
+
+-*who_antiochus
+Triste, ⁎ confus, resveur⁎, si ce mal peut me plaire,
+C'est sans sçavoir pourquoy la peine m'en est chere,
+Et quand un pareil trouble embarasse l'esprit,
+Qui sçait mal ce qu'il sent sçait bien peu ce qu'il dit.
+
+-*who_stratonice
+Le Roy trop vivement partage vostre peine,
+Pour ne pas faire efforts…
+
+-*who_antiochus
+C'est-là ce qui me gesne,
+Son déplaisir m'accable, et comme un noir destin
+Par l'éclat de la Cour redoute mon chagrin,
+Je croy pour quelque temps qu'il luy sera moins rude
+De souffrir ma retraite en quelque solitude.
+Voilà ce qu'aujourd'huy je luy fais demander,
+Pour tirer son adveu daignez me seconder,
+Madame, et par vos soins …
+
+-*who_stratonice
+Quoy, Prince, dois-je croire
+Qu'en secret ce chagrin porte envie à ma gloire,
+Et que dans vostre cœur un mouvement jaloux,
+Lors qu'on m'appelle au Trône…
+
+-*who_antiochus
+Ah, que me dites- vous ?
+Qu'à l'ardeur de mes vœux le juste Ciel réponde,
+Et vous estes soudain la Maistresse du Monde ;
+Si le Sceptre en est beau, quoy que vous presumiez,
+Qu'il le mette en mes mains, je le mets à vos pieds.
+Dans ce degré pompeux, loin que l'éclat m'en gesne,
+Je ne veux qu'adorer, voir, et servir ma Reine,
+Elle seule en est digne, et pour mieux l'élever…
+Mais Dieux !
+
+-*who_stratonice
+Vous avez lieu de ne pas achever,
+Et le trouble sur vous peut prendre quelque empire,
+Quand la civilité vous engage à trop dire.
+
+-*who_antiochus
+Pourquoy de ce reproche affecter la rigueur ?
+Ma bouche ne dit rien sans l'adveu de mon cœur,
+Et ce brillant amas de vertus et de charmes⁎…
+Madame, et de mon mal le Roy prend trop d'alarmes,
+Proposez ma retraite, et de grace, obtenez…
+
+-*who_stratonice
+Prince, je monte au Trône, et vous m'abandonnez !
+Fuir d'en estre témoin est-ce cherir ma gloire ?
+
+-*who_antiochus
+Ah, si vous connoissiez tout ce qu'il en faut croire…
+Adieu, Madame, adieu, dans le trouble où je suis,
+Penser, fuir, et me taire, est tout ce que je puis.
+
+**** *book_ *id_body-3-4 *act_ *date_1666 *creator_corneille
+
+-*who_phenice
+Ou j'ay peu de lumiere, ou le Prince, Madame,
+Cherche à cacher un mal dont la source est dans l'ame.
+Tandis qu'il vous parloit, ses timides regards,
+S'il rencontroit vos yeux, erroient de toutes parts,
+Languissant, interdit, plein d'un desordre extréme,
+Si j'osois m'expliquer, je dirois qu'il vous aime,
+Et que par tant d'appas⁎ s'estant laissé charmer…
+
+-*who_stratonice
+Quoy, Phenice, tu crois qu'il me pourroit aimer ?
+
+-*who_phenice
+Je crains de dire trop, mais s'il faut ne rien taire,
+Je croy qu'il le pourroit, et ne pas vous déplaire ;
+De l'air dont vous parlez, c'est sans trop de couroux…
+
+-*who_stratonice
+Phenice, qu'as tu dit ?
+
+-*who_phenice
+Mais que me dites- vous ?
+
+-*who_stratonice
+Que te peut dire une ame estonnée⁎, abatuë,
+Qui dans ce qu'elle doit voit tout ce qui la tuë,
+Et qui de son devoir redoublant les efforts,
+Plustost que le trahir, souffrira mille morts ?
+Ouy, Seleucus, Phenice, aura ce qu'il espere,
+Il a receu ma foy dans la Cour de mon Pere,
+Par là je suis sa Femme, et mon malheur en vain
+Fait trembler ma constance à luy donner ma main.
+Quand le bien de l'Estat conclut cét hymenée,
+Pourquoy deslors, helas ! ne fut-elle donnée ?
+Falloit-il pour la pompe en voir le jour remis,
+Et me laisser le temps de connoistre son Fils ?
+Tandis que Seleucus de retour en Syrie
+Songe aux apprets d'un sort qui va m'oster la vie,
+Le Prince Antiochus chez mon Pere à son tour
+En superbe appareil vient charmer⁎ nostre cour.
+Attendant qu'en ces lieux il doive me conduire,
+Mon repos à le voir commence à se destruire,
+L'air galant, l'ame noble, un courage élevé,
+Tout ce qui marque enfin un Heros achevé,
+Aux Courses, aux Tournois, pour luy toute la gloire,
+Son adresse par tout sçait traisner la victoire,
+Et je sens malgré moy que sans cesse vainqueur,
+En emportant le prix, il emporte mon cœur.
+
+-*who_phenice
+Antiochus sans doute a tout ce qui doit plaire,
+Mais déjà vostre main estoit deuë à son Pere,
+Et lors que vostre cœur se sentit enflamer…
+
+-*who_stratonice
+Helas ! sçait-on qu'on aime en commençant d'aimer,
+Et l'Amour qui d'un cœur cherche à se rendre maistre,
+Tant qu'on peut resister, se laisse- t'il connoistre ?
+Non, non, et mon malheur aujourd'huy me l'apprend,
+C'est en se déguisant que l'Amour nous surprend.
+Avant qu'aucun soupçon découvre sa naissance
+Dans l'ame qu'il attaque il prend intelligence,
+Et de son feu secret l'industrieux pouvoir
+S'acquiert des partisans qui l'y font recevoir.
+D'un tendre et doux panchant l'appas⁎ imperceptible
+La dispose d'abord à se rendre sensible ;
+Un peu d'émotion qui marque ce qu'elle est
+Luy rend en vain suspect un trouble qui lui plaist,
+D'un merite parfait les images pressantes
+Luy peignent aussi-tost ces douceurs innocentes,
+Et des sens ebloüis par ce charme trompeur
+La vertu qu'elle admire authorise l'erreur,
+Le cœur qu'en ont seduit les flateuses amorces⁎
+Pour se vaincre en tout temps se répond de ses forces ;
+Sur l'offre du secours que luy fait la raison
+Il laisse agir sans crainte un si subtil poison,
+Il en aime l'appas⁎, il le gouste, il luy cede,
+C'est assez qu'au besoin il en sçait le remede ;
+Et quand le mal accreu presse d'y recourir,
+L'habitude est formée, on n'en peut plus guerir.
+C'est ainsi que d'abord mon imprudence extréme
+Me laissa consentir à me trahir moy-mesme,
+Dedans Antiochus je ne sçay quoi de grand
+Exigea de mon cœur le tribut qu'il luy rend.
+Ce cœur trop plein pour luy d'une estime empressée
+N'en crut ny mon devoir ny ma gloire blessée,
+J'admirois sans scrupule un Prince si parfait,
+Je voulois estimer, et j'aimois en effet,
+Et mon cœur de mes sens negligeant l'artifice
+Pensoit fuir une erreur dont il estoit complice.
+
+-*who_phenice
+Mais de ce triste amour quel peut estre l'espoir ?
+
+-*who_stratonice
+Phenice, encor un coup, je feray mon devoir,
+Et quoy qu'Antiochus trouve trop à me plaire,
+Ma main suivra ma foy, je suis toute à son Pere ;
+Mais enfin je voudrois pouvoir croire aujourd'huy
+Qu'il ressentist pour moy ce que je sens pour luy ;
+Que le mesme panchant dont la force m'entraisne
+Par mon funeste Hymen luy donnast mesme gesne ;
+Que tremblant d'un devoir où je ne puis manquer,
+Il voulust me le dire, et n'osast s'expliquer ;
+Que sa fiere douleur par le respect contrainte
+A ses confus soûpirs abandonnast sa plainte,
+Et l'étoufast d'un air, qui dans ces durs combats
+Me laissast deviner ce qu'il ne diroit pas.
+
+**** *book_ *id_body-3-5 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Madame, tout est prest, et la Syrie en peine
+De rendre promptement son hommage à sa Reyne,
+N'attend plus que demain pour voir selon ses vœux,
+Et Stratonice au Trône, et Seleucus heureux :
+Un seul trouble s'oppose au comble de ma joye,
+Toûjours à ses chagrins⁎ je voy le Prince en proye,
+Et ne pouvant les vaincre, il tasche obstinement
+A m'arracher l'adveu de son éloignement.
+J'ay sans doute à rougir dans l'amour qui m'enflame,
+Que d'autres interests puissent trop sur mon ame ;
+Mais peut-estre ce Fils a-t'il des qualitez
+A rendre son malheur digne de vos bontez,
+J'implore leur secours, empeschez qu'il nous quitte,
+Si j'ay trop de tendresse, il a quelque merite,
+Et je vous devray tout, si rompant son dessein
+Vous obtenez qu'au Trône il vous preste la main
+
+-*who_stratonice
+Quel que soit vostre amour, il me feroit injure,
+Seigneur, s'il estoufoit la voix de la Nature,
+Et vous avoit seduit jusqu'à vous détacher
+Des soins⁎ où vous oblige un interest si cher.
+Jamais dans un destin à nos voeux si contraire
+Pour un Fils plus illustre on n'a veu craindre un Pere ;
+Mais en vain nos souhaits hastent la guerison
+Des inquiets transports⁎ qui troublent sa raison.
+Tandis qu'aupres de vous vous voulez qu'on l'arréte,
+Il m'employe à vous faire agréer sa retraite,
+Et l'éclat des apprets qu'étale vostre Cour,
+Blesse autant son chagrin⁎ qu'il flate vostre amour.
+
+-*who_seleucus
+Qu'esperer donc, Madame, et quel Dieu favorable
+Luy rendra le repos dont la perte m'accable ?
+Comme sur ses pareils l'ambition peut tout,
+Par là de ses ennuis j'ay crû venir à bout :
+Quand ma main vous appelle au Trône de Syrie,
+J'aime à luy voir remplir celuy de Phenicie,
+Et pense que sur luy dans un chagrin si noir
+La douceur de regner aura quelque pouvoir ;
+Mais bien loin qu'à ce charme il se montre sensible,
+Tigrane m'en rapporte un refus invincible,
+Et ne découvre rien qui puisse m'eclaircir
+D'un mal que tous nos soins ne peuvent adoucir.
+
+-*who_stratonice
+C'est par là que j'en voy la suite plus à craindre,
+Quoy que souffre le Prince, on ne peut que le plaindre,
+Et l'amour paternel vous fait en vain chercher
+Par où guerir un mal qu'il se plaist à cacher.
+J'ay déja fait effort pour vaincre son silence,
+Mais je l'ay veu s'aigrir par cette violence,
+Et craignant d'oser trop…
+
+-*who_seleucus
+Ah, tout vous est permis,
+Et vous seule avez droit de me rendre mon fils.
+Vos soins y peuvent tout, employez-les, de grace,
+A détourner un sort dont l'horreur nous menace,
+Et pour lire en son cœur malgré son noir destin,
+Contraignez-vous encor à flater son chagrin⁎.
+Quand vous le presserez, peut-estre aura-t'il peine
+A ne pas expliquer le trouble⁎ qui le gesne⁎ ;
+Sur tout, arrachez-luy ce dessein de partir,
+Madame, c'est à quoy je ne puis consentir.
+Tandis que vos bontes en rompront l'injustice,
+J'iray presser le Ciel de nous estre propice,
+Et par des vœux soûmis desarmant son couroux,
+Luy demander pour luy ce que j'attens de vous.
+
+**** *book_ *id_body-4-1 *act_ *date_1666 *creator_corneille
+
+-*who_barsine
+Quoy, lors que sa langueur va jusques à l'extréme,
+Le trouble⁎ qui la suit fait connoistre qu'il aime ?
+
+-*who_arsinoe
+Oüy, Barsine, et le Prince a beau se déguiser,
+L'amour seul à ce trouble⁎ a droit de l'exposer,
+Dans son cœur malgré luy mes soupçons me font lire.
+
+-*who_barsine
+Ce peut-estre pour vous qu'Antiochus soûpire,
+Et par là, quoy qu'il cache, il vous seroit aisé
+De connoistre le mal que vous auriez causé .
+
+-*who_arsinoe
+Tu crois qu'il m'aimeroit, luy dont l'ardent suffrage
+A des vœux de Tigrane authorisé l'hommage,
+Me l'a fait agréer, et sur l'adveu du Roy
+Asseure à son amour et mon cœur et ma foy ?
+
+-*who_barsine
+Peu voudroient d'un Rival favoriser la flame,
+Mais, Madame, il n'est rien que n'ose une grande ame,
+Et Tigrane à son Prince ayant sauvé le jour,
+Tout me devient suspect quand il sert son amour.
+Pour triompher du sien, le forcer au silence,
+L'amitié s'est pû joindre à la reconnaissance,
+Et quoy qu'il se contraigne à soûpirer tout bas,
+L'excez de son chagrin ne le trahit- il pas ?
+Peut-il mieux expliquer qu'il cede ce qu'il aime ?
+
+-*who_arsinoe
+C'est ce cruel effort qui l'arrache à luy- mesme,
+Mais lors qu'il se soûmet à cette affreuse loy,
+La Reyne en ce qu'il souffre a plus de part que moy.
+
+-*who_barsine
+Stratonice ?
+
+-*who_arsinoe
+Elle mesme.
+
+-*who_barsine
+Et vous le pouvez croire
+Dans le peu d'interest qu'il montre pour sa gloire ?
+Quand chacun à l'envy s'y fait voir empressé
+Du plus foible devoir il se croit dispensé,
+Jamais il ne luy parle, et la fuyant sans cesse …
+
+-*who_arsinoe
+S'il l'a fuit, ce n'est pas son chagrin qui l'en presse,
+Il fuit, il craint des yeux trop sçavans à charmer,
+Et craindre un bel objet, Barsine, c'est l'aimer.
+
+-*who_barsine
+Quoy, c'est-là de sa flame une preuve certaine ?
+
+-*who_arsinoe
+Non, mais enfin j'en croy ce Portrait de la Reyne,
+Qui trouvé sur mes pas me laisse peu douter
+D'un feu que son respect empesche d'éclater.
+Depuis que le hazard m'en fait depositaire
+Sa perte est un malheur dont on aime à se taire,
+Et pour le recouvrer, tout autre qu'un Amant,
+N'ayant rien à cacher, s'en plaindroit hautement.
+Elle tire une boëte de Portrait qu'elle montre à Barsine.
+Voy de nouveau, Barsine, avec quel avantage
+Ce qui doit l'enfermer estale son ouvrage,
+Admire tout autour quels pompeux ornements
+Luy fournit à l'envy l'éclat des diamants :
+Tant de profusion, comme elle est peu commune,
+Marque en qui la peut faire une haute fortune,
+Et la Boëte est d'un prix qui ne fait que trop voir
+Qu'un Prince à l'enrichir a montré son pouvoir ;
+Outre que je la trouve en ce lieu solitaire
+Où l'on voit chaque jour Antiochus se plaire,
+Sous ces Arbres toufus dont l'agreable frais
+Pour qui cherche à resver a de si doux attraits,
+Croy moy, de mes soupçons la preuve est convaincante.
+
+-*who_barsine
+S'ils ne vous trompent point, la disgrace est touchante⁎,
+Car c'en est une enfin sous qui trembler d'effroy
+D'estre Rival ensemble, et d'un Pere, et d'un Roy,
+Mais d'un Roy qui d'ailleurs adore Stratonice.
+
+-*who_arsinoe
+Il faut que cét amour aujourd'huy s'eclaircisse,
+Cette Boëte y peut tout, et pour m'en assurer
+Aux yeux d'Antiochus je n'ay qu'à m'en parer.
+De son trouble à la voir penses-tu qu'il soit maistre ?
+
+-*who_barsine
+Le feu qu'il tient caché par là se peut connoistre,
+Mais n'oubliez-vous point ce que vous avez fait,
+Que par vous cette Boëte a changé de Portrait ?
+Pour celuy de la Reine elle enferme le vostre.
+
+-*who_arsinoe
+C'est exprés que le mien tient la place de l'autre.
+A moins qu'un tel échange aidast à m'éclaircir,
+En vain par cét effay j'y croirois reussir.
+Le Prince auroit sur soy peut-estre assez d'empire
+Pour ne rien laisser voir de ce qu'il n'ose dire,
+Et sur quelque pretexte il pourroit trouver jour
+A reprendre un Portrait si cher à son amour ;
+Au lieu que par la Boëte ayant un seul indice
+Que je garde en mes mains celuy de Stratonice,
+L'ardeur de retirer ce depost precieux
+Luy fera découvrir ce qu'il cache le mieux,
+Ou s'il peut me laisser en quelque incertitude,
+Du moins je joüiray de son inquietude,
+Il parlera par elle, et quand …Mais je le voy,
+Pour le contraindre moins, Barsine, éloigne-toy.
+
+**** *book_ *id_body-4-2 *act_ *date_1666 *creator_corneille
+
+-*who_arsinoe
+Seigneur, est-il possible, et pourra-t'on le croire,
+Que vous mesme ayez mis obstacle à vostre gloire,
+Et que lors que le Roy cherche à vous couronner
+Vostre adveu pour un Trône ait peine à se donner ?
+L'éclat du nouveau rang qui d'une pompe insigne…
+
+-*who_antiochus
+Sa bonté l'a surpris quand il m'en a crû digne,
+Mais mon zele à ses soins⁎ auroit mal répondu
+Si j'avois accepté ce qui ne m'est pas deu,
+Je suis né son Sujet, et fais gloire de l'estre.
+
+-*who_arsinoe
+Dites que de vos sens le chagrin⁎ est le maistre,
+Et que tout vostre cœur s'en laissant accabler,
+Ce qui doit l'adoucir sert à le redoubler.
+
+-*who_antiochus
+Il est vray qu'il m'emporte, et qu'en vain mon adresse
+S'efforce de bannir ou cacher ma foiblesse,
+Malgré moy je luy cede, et son subtil poison
+D'une vapeur maligne infecte ma raison,
+Sans cesse s'abysme, et son trouble …de grace,
+Faites …
+
+-*who_arsinoe
+Et bien, Seigneur, que faut-il que je fasse ?
+Vous ne dites plus rien, et tout à coup vos yeux…
+
+-*who_antiochus
+J'examine un travail et riche et curieux,
+Et trouve en cette Boëte un chef-d'œuvre si rare
+Qu'il semble en l'admirant que mon esprit s'égare,
+La façon est nouvelle, et j'en estime l'art.
+
+-*who_arsinoe
+Toute riche qu'elle est, je la tiens du Hasard.
+
+-*who_antiochus
+Quoy, Madame, en vos mains le Hasard l'a remise ?
+
+-*who_arsinoe
+Oüy, Seigneur, et c'est là ce qui fait ma surprise,
+Que qui pour l'enrichir n'a rien fait épargner,
+Puisse en souffrir la perte, et n'en rien témoigner.
+
+-*who_antiochus
+J'admire comme vous qu'on la tienne secrete,
+Mais, Madame, attendant qu'on sçache qui l'a faite,
+Souffrez que j'en joüisse, et tâche à profiter
+De ce qu'en ce modele on peut faire imiter.
+Pour un travail charmant dont la garde m'est chere
+Un ouvrage pareil me seroit necessaire,
+Et je ne sçaurois mieux en regler le projet…
+
+-*who_arsinoe
+J'estimois ce depost, et j'en avois sujet,
+Mais je vous l'abandonne, et ne veux pour partage
+Que reprendre un Portrait…
+
+-*who_antiochus
+Ah, c'est me faire outrage,
+En me le confiant ne craignez rien pour luy,
+Et souffrez que sa veuë amuse mon ennuy⁎,
+La Peinture eut toûjours dequoy me satisfaire.
+
+-*who_arsinoe
+Si j'en croy ce qu'on dit, celle-cy doit vous plaire,
+Et comme enfin, Seigneur, vous vous y connoissez,
+Dites-moy d'un coup d'œil ce que vous en pensez,
+Les traits en sont hardis, et la main…
+
+-*who_antiochus
+Non, Madame,
+Déja la resverie⁎ occupe trop mon ame,
+Et du moins devant vous c'est à moy d'éviter
+Tout ce que je prévoy qui pourroit l'augmenter,
+Du Peintre en ce Portrait examinant l'adresse
+J'oublierois malgré moy…
+
+-*who_arsinoe
+Seigneur, je vous le laisse, .
+Quoy que sur ce travail j'aye à vous consulter,
+La Reyne qui paroist m'oblige à vous quitter.
+
+**** *book_ *id_body-4-3 *act_ *date_1666 *creator_corneille
+
+-*who_antiochus
+Et bien, Madame, enfin le Roy me fait-il grace ?
+Consent-il au destin dont la rigueur me chasse,
+Et que loin de la Cour je tâche à retrouver
+La douceur du repos dont je me sens priver ?
+
+-*who_stratonice
+Seigneur, pour vous le rendre esperez tout d'un Pere,
+Il n'est rien qu'à son Fils sa tendresse prefere,
+Mais c'est trop vous flater de croire qu'aisément
+Il donne son adveu pour vostre éloignement.
+Ce dessein l'epouvante, en parler c'est un crime.
+
+-*who_antiochus
+Il faut donc qu'en mes maux sans cesse je m'abysme
+Que sans cesse une triste⁎ et mortelle langueur⁎…
+
+-*who_stratonice
+Tout le monde avec vous partage sa rigueur,
+Mais quand pour l'adoucir vous cherchez la retraite,
+La Cour n'a-t'elle rien dont l'éclat vous arréte ?
+N'y voyez-vous par tout qu'Objets à dédaigner ?
+
+-*who_antiochus
+Ah, ce n'est pas par là qu'il m'en faut éloigner.
+S'il est rien dont l'appas⁎ ou me flate, ou m'attire,
+C'est-là que je le vois, c'est là que je l'admire,
+Et l'Univers entier n'a rien d'un si haut prix
+Qui vaille les douceurs dont je m'y sens surpris ;
+Mais dans le trouble obscur de mon ame abatuë,
+Mon bonheur fait mon mal, ce qui me plaist, me tuë,
+Et mon chagrin funeste a l'art d'empoisonner
+Tous les biens que le Ciel cherche à m'abandonner.
+
+-*who_stratonice
+Quoy ? toûjours ce chagrin⁎ sans m'en dire la cause ?
+J'avois creu que sur vous je pouvois quelque chose,
+Mais…
+
+-*who_antiochus
+Si dans ce pouvoir vous trouvez quelque appas⁎,
+Il ne va que trop loin, ne vous en plaignez pas.
+
+-*who_stratonice
+Vous me cachez vos maux, et je pourrois vous croire ?
+
+-*who_antiochus
+Mais, Madame, songez qu'il y va de ma gloire,
+Et que je la trahis si j'ose découvrir
+Ce qu'en vain ma raison a tasché de guerir.
+
+-*who_stratonice
+Quoy que pour un grand cœur la raison ait d'amorces⁎,
+Où la passion regne elle reste sans forces,
+Et sur tout ses conseils font peu d'impression
+Quand le mal naist d'amour, ou vient d'ambition.
+
+-*who_antiochus
+Ah, pour l'ambition j'en crains peu la surprise,
+Plus je suis prés du Trône, et plus je le méprise,
+Et lors qu'on vous y place, il me seroit moins doux
+D'aller donner des loix que d'en prendre de vous.
+
+-*who_stratonice
+Cet illustre mépris sied bien aux grands courage,
+Mais chaque passion excite ses orages,
+Et tel qu'un plus haut rang ne peut inquieter,
+Aux troubles de l'amour a peine à resister.
+
+-*who_antiochus
+Helas !
+
+-*who_stratonice
+Vous soûpirez !
+
+-*who_antiochus
+Il est vray, je soûpire,
+Et dis peut-estre plus que je n'ay crû vous dire ;
+Mais si j'explique trop ce qu'en vain je combats,
+Songez que c'est à vous à ne m'entendre pas.
+
+-*who_stratonice
+Quoy, Prince ? il se peut donc que l'amour…
+
+-*who_antiochus
+Ah, Madame,
+Vous avez arraché ce secret de mon ame,
+Et quand rien sur ce point ne pouvait m'ébranler,
+Vous blasmiez mon silence, il a falu parler ;
+Mais ne pretendez point pour finir mon martyre
+Que j'accepte l'oubly que vous m'allez prescrire,
+Et que ma passion puisse prendre la loy
+Du pouvoir absolu que vous avez sur moy.
+Avec toute l'ardeur dont un cœur soit capable
+J'aime ce que jamais on vit de plus aimable⁎,
+Et trouveray toûjours un sort bien moins amer
+A mourir en aimant, qu'à vivre sans aimer.
+
+-*who_stratonice
+Quoy que de mes conseils vostre amour semble craindre,
+J'en croy le feu trop beau pour le vouloir éteindre ;
+Mais je ne comprens point quel bizarre pouvoir
+Le forçant au silence arme son desespoir.
+Outre qu'en vain sans cesse on veut qu'il se contraigne,
+Vous n'estes pas d'un rang qu'aisément on dédaigne,
+Ou si rien en aimant ne vous peut secourir ,
+Du moins on plaint un mal qu'on ne sçauroit guerir.
+
+-*who_antiochus
+Non, non, à mon destin le Ciel veut que je cede,
+Madame, il faut mourir, mon mal est sans remede ;
+Ce n'est pas qu'en effet la douceur d'estre plaint
+Ne soulageast les maux dont mon cœur est atteint ;
+Mais pour flatter le trouble où leur rigueur m'expose,
+Il faudroit estre plaint de celle qui les cause,
+Et dans l'obstacle affreux qui s'offre à respecter,
+C'est estre criminel que de le souhaiter.
+
+-*who_stratonice
+J'ignore quel obstacle elle vous montre à craindre ;
+Mais pour vous soulager s'il ne faut que vous plaindre,
+Quelque austere vertu qui la force d'agir,
+C'est un bien qu'elle peut accorder sans rougir.
+Pour moy, si sur son cœur, quand elle a tout le vostre,
+Je puis…
+
+-*who_antiochus
+Vous y pouvez sans doute plus qu'une autre,
+Et si je me souffrois l'espoir d'un bien si doux,
+Mon amour ne voudroit l'attendre que de vous,
+Mais si-tost que j'aurois…Je sçay trop que ma flame…
+
+-*who_stratonice
+Et bien Prince, achevez.
+
+-*who_antiochus
+N'en parlons plus, Madame,
+J'oubliois un devoir que mon respect soûtient,
+Je m'allois égarer, mais ma raison revient,
+Et tant qu'un coup fatal borne enfin ma misere,
+Je voy qu'il faut languir, soûpirer, et me taire.
+
+-*who_stratonice
+Pour vous en pouvoir croire, il faut qu'auparavant…
+
+-*who_antiochus
+Madame, au nom des Dieux n'allez pas plus avant.
+Tant que j'aime en secret j'aime avec innocence,
+Mais enfin je la pers si j'en fais confidence,
+Et c'est peut-estre assez dans un sort si cruel
+De vivre malheureux, sans mourir criminel.
+
+-*who_stratonice
+Aprés ce que sur vous je dois avoir d'empire,
+Prince, c'est m'outrager que s'en vouloir dédire,
+Et soupçonner qu'un zéle aussi faux qu'indiscret…
+
+-*who_antiochus
+Madame, encor un coup laissez- moy mon secret.
+Vous mesme qui voulez qu'un libre adveu l'exprime,
+S'il eschape à mon cœur, vous m'en ferez un crime,
+Et sans voir par quel ordre il l'ose reveler,
+Vous me demanderez qui m'aura fait parler ;
+Ne vous exposez point pour vouloir trop connoistre…
+
+-*who_stratonice
+Vos malheurs sont au point de ne pouvoir s'accroitre,
+Et quand je n'agirois qu'afin de vous trahir…
+
+-*who_antiochus
+Enfin vous le voulez, il faut vous obeïr,
+Mais j'atteste les Dieux, si je romps le silence,
+Que vostre ordre à mon feu fait cette violence,
+Et que jusqu'au tombeau sans cette dure loy
+Ce seroit un secret entre mon cœur et moy.
+Puisqu'il faut expliquer pour qui ce cœur soûpire ,
+Vous mesme dites-vous ce que je ne puis dire,
+Ce Portrait trop aimable⁎, et trop propre à charmer
+Vous montrera l'Objet que je n'ose nommer.
+
+-*who_stratonice
+Cet excez de respect marque une ame incapable…
+
+-*who_antiochus
+Et bien, qu'ordonnez-vous d'un Amant déplorable ?
+A tout son desespoir faut-il l'abondonner,
+Ou le plaindre d'un sort qu'il n'a pû détourner ?
+Mais vostre teint se change, et ce front qui s'altere…
+C'en est fait, je le voy, j'ay deu, j'ay deu me taire,
+Et l'amour dont je suis l'indispensable loy,
+Quand j'en nomme l'Objet, est un crime pour moy .
+
+-*who_stratonice
+Vostre choix me surprend, et quelque haut merite
+Que cet amour se peigne en l'Objet qui l'excite…
+
+-*who_antiochus
+Ah ! si par le merite il pouvoit s'excuser,
+Qui n'approuveroit pas ce qu'il me fait oser ?
+A l'orgueil de mes vœux ne faites point de grace,
+Mais épargnez l'objet qui les force à l'audace,
+Jamais rien de si beau ne parut sous les Cieux,
+Jamais rien de si vif ne sceut charmer nos yeux,
+De la Divinité c'est l'image visible,
+Pour ne l'adorer pas il faut estre insensible,
+Et quand ce libre adveu presse vostre couroux,
+Le malheur est pour moy, mais le crime est de vous .
+Quoy que prest d'expirer sous l'horreur du silence,
+J'ay voulu de mon feu cacher la violence,
+J'ay voulu déguiser à quels charmes soûmis…
+
+-*who_stratonice
+Pourquoy ce long silence à qui tout est permis ?
+Je dois à ce Portrait l'adveu de vostre flame ,
+Et sur ce qu'il m'apprend …
+
+-*who_antiochus
+Rendez- le moy, Madame,
+Mon Amour le demande, et dans son desespoir…
+
+-*who_stratonice
+Ce n'est pas de ma main qu'il doit le recevoir.
+
+-*who_antiochus
+Quoy, me le refuser ! O rigueur impreveuë !
+Et bien, privez mes yeux d'une si chere veuë,
+Vous n'empescherez point que gravé dans mon cœur
+Du beau feu qui m'embrase il n'augmente l'ardeur.
+C'est-là que malgré vous j'adoreray sans cesse
+Les traits d'une charmante et divine Princesse,
+Qu'un hommage secret luy soûmettant ma foy…
+
+-*who_stratonice
+Prince, adieu, c'en est trop.
+
+-*who_antiochus
+Madame, écoutez-moy .
+Si je ne puis forcer mon amour à se taire,
+J'ay du sang à répandre, il peut vous satisfaire
+Je vous l'offre, et mon mal deviendra plus leger…
+
+-*who_stratonice
+Tigrane qui paroist sçaura le soulager,
+Comme il peut tout pour vous, vous luy pouvez tout dire.
+
+**** *book_ *id_body-4-4 *act_ *date_1666 *creator_corneille
+
+-*who_tigrane
+Pour adoucir les maux dont vostre cœur soupire,
+Seigneur, se pourroit-il que mon zéle et mes soins⁎…
+
+-*who_antiochus
+Mon chagrin⁎ pour resver⁎ ne veut point de témoins.
+Accordez ce relasche à mon ame abatuë.
+
+-*who_tigrane
+Quoy, vous me déguisez la douleur qui vous tuë ?
+Et l'amitié, Seigneur, vous y fait consentir ?
+
+-*who_antiochus
+Je vous l'ay déja dit, Tigrane, il faut partir,
+C'est tout ce que je sçay.
+
+-*who_tigrane
+Je n'ose vous promettre
+Que le Roy sur ce point vueille rien vous permettre,
+D'un congé si funeste il condamne l'espoir,
+Et plein d'impatience il demande à vous voir.
+Mais si je m'en rapporte à ce qu'a dit la Reyne,
+Il semble que je puis soulager vostre peine,
+Et qu'à me l'expliquer vous faisant quelque effort …
+
+-*who_antiochus
+Voyons le Roy, Tigrane, et laissons faire au Sort.
+
+**** *book_ *id_body-5-1 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Prince, n'esperez point que jamais je consente
+A ce cruel depart qui flate vostre attente.
+S'il faut de vos ennuis partager le tourment
+J'en prefere la peine à vostre éloignement,
+De vostre veuë au moins laissez-nous l'avantage ;
+Mais enfin se peut-il que rien ne vous soulage,
+Et qu'un Roi qui peut tout, et fait cent Rois jaloux,
+Avec ce plein pouvoir ne puisse rien pour vous ?
+
+-*who_antiochus
+Seigneur, je me condamne, et n'ai rien à vous dire,
+A l'exil qui m'est dû c'est par là que j'aspire,
+Je rougis de troubler par mon fatal chagrin
+Le triomphe éclatant de vostre heureux destin,
+Et pour vous épargner la gesne⁎ où vous expose…
+
+-*who_seleucus
+Vous me l'épargneriez à m'en dire la cause.
+
+**** *book_ *id_body-5-2 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Qu'avez-vous fait pour moy ? Vous avez veu mon Fils,
+Madame, et de vos soins⁎ je me suis tout promis,
+Dans le trouble où l'engage un destin trop contraire
+A-t'il pû vous cacher ce qu'il aime à nous taire ?
+
+-*who_antiochus
+S'il estoit quelque soin qui le pust adoucir,
+Les bontez de la Reyne auroient dû reüssir,
+Mais dans mes sens confus, Seigneur, tel est ce trouble,
+Que plus on le combat, plus je sens qu'il redouble,
+Et malgré moy sans cesse interdit, estonné…
+
+-*who_stratonice
+A d'éternels ennuis⁎ il se croit destiné,
+Mais quel que soit le mal à qui sa raison cede,
+Peut-estre est-il aisé d'en trouver le remede,
+Et l'on n'ignore pas où l'on doit recourir
+Quand on n'a dans un cœur que l'amour à guerir.
+
+-*who_seleucus
+Quoy, mon fils aimeroit ?
+
+-*who_antiochus
+Qu'avez-vous dit, Madame ?
+
+-*who_stratonice
+Ouy, Seigneur, son chagrin est l'effet de sa flame,
+Son cœur de son secret obstinément jaloux…
+
+-*who_antiochus
+Ah, Madame, est-ce là ce que j'ay crû de vous ?
+
+-*who_seleucus
+N'en rougy point, mon fils ; si l'adveu t'en fait honte,
+Voi qu'il n'est point de cœur que l'Amour ne surmonte,
+Et pour authoriser celuy qui t'a surpris,
+Songe que ton Pere aime avec des cheveux gris.
+Quelques brulants transports⁎ où cette ardeur t'entraine,
+Puis-je les condamner quand j'adore la Reyne,
+Et prefere en l'aimant la gloire de ses fers
+A celle de me voir Maistre de l'Univers ?
+Aime donc puiqu'enfin aimer n'est pas un crime,
+Mais aime pour te rendre un secours legitime,
+Quelque cœur que l'amour te force d'attaquer
+Pour voir finir tes maux tu n'as qu'à t'expliquer.
+
+-*who_antiochus
+Seigneur, trop de bonté pour moy vous interesse⁎,
+J'aime, en vain je voudrois vous cacher ma foiblesse,
+On vous en a trop dit, mais enfin c'est du temps
+Que dépend dans mes maux le secours que j'attens,
+Vaincre ma passion en est le seul remede.
+
+-*who_seleucus
+A tant d'aveuglement se peut-il qu'elle cede
+Que dans ce qu'authorise un absolu pouvoir,
+Tu n'oses luy souffrir la douceur de l'espoir ?
+Voy dans toute l'Asie, a-t'elle aucune Reyne
+Qui dédaignast l'honneur d'avoir causé ta peine ?
+Ou s'il te plaist d'aimer dans un destin plus bas,
+Pour l'élever à toy choisy qui tu voudras
+Ma tendresse y consent, et tu n'as rien à taire.
+
+-*who_antiochus
+Je me vaincray, Seigneur, c'est tout ce qu'il faut faire.
+
+-*who_seleucus
+Hastez la guérison d'un Amant trop discret,
+Madame, vous sçavez le reste du secret ?
+
+-*who_stratonice
+Ouy, Seigneur, et je puis…
+
+-*who_antiochus
+Ne dites rien, Madame,
+Vous n'avez que trop fait d'avoir trahy ma flame,
+Bornez-la des malheurs qu'on ne peut reparer,
+Et laissez-moy mourir sans me desesperer.
+
+-*who_stratonice
+Souffrir que sous l'amour un si grand Prince expire !
+Ce Portrait vous dira ce qu'il n'ose vous dire,
+Seigneur, voyez pour qui son cœur est prevenu.
+
+-*who_antiochus
+Enfin, l'on sçait mon crime, et tout vous est connu,
+L'Astre qui m'en a fait un destin necessaire
+Dérobe à mon respect la gloire de me taire,
+Et pour comble d'horreur dans un mal si pressant
+Il ne m'est plus permis de mourir innocent ;
+C'estoit par là pourtant que je flatois ma peine,
+Et si j'ay découvert mon secret à la Reyne,
+J'avois quelque sujet de croire qu'à son tour
+Elle voudroit m'aider à cacher mon amour.
+L'adveu qu'elle en a fait demande mon suplice,
+Ordonnez-le, Seigneur, et vous faites justice,
+Déja ce que pour vous j'y prenois d'interest
+Par l'exil que je presse avoit fait mon arrest.
+
+-*who_seleucus
+O vertu sans exemple ! Ô cœur trop magnanime !
+Ne parle point, mon Fils, ny d'exil ny de crime,
+Quoi qu'oppose à ta flame un scrupuleux devoir,
+C'est trop, c'est trop long-temps luy deffendre l'espoir,
+Je répons du succez, aime sans plus rien craindre .
+
+-*who_antiochus
+Que pour moy jusques-là vous vueillez vous contraindre !
+Ah, plustost qu'abuser de vos rares bontez,
+Puissent croistre ces maux que j'ay trop meritez,
+Puissent…
+
+-*who_seleucus
+Je sçais à quoy ton grand cœur te convie,
+Tu dois tout à Tigrane, il t'a sauvé la vie,
+Mais le trouble où t'abysme un long et dur ennuy⁎,
+Quoi qu'il ait fait pour toy, te rend quite vers luy,
+Tu n'as que trop payé ce fidelle service.
+
+-*who_antiochus
+Je crains peu qu'en mon cœur jamais rien l'affoiblisse,
+Mais pourquoy m'advertir de ce que je lui doy ?
+Tigrane…
+
+-*who_seleucus
+Le voicy, laisse parler ton Roy.
+
+**** *book_ *id_body-5-3 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Pour arracher ton Prince au tourment qui l'accable,
+D'un grand et rare effort sens-tu ton cœur capable ?
+
+-*who_tigrane
+Au prix de tout mon sang j'aspire à le montrer,
+Seigneur…
+
+-*who_seleucus
+Dans ses ennuys⁎ on vient de penetrer,
+Il en cachoit la cause avec un soin extréme,
+Mais tout est éclaircy, te le diray-je ? Il aime,
+Et son feu qu'au silence il a toûjours contraint,
+A causé tous les maux dont tu le vois atteint,
+Puisque d'Arsinoé dépend son seul remede,
+Il faut qu'à son amour ton amitié la cede,
+Et qu'un heureux hymen commence dés demain
+A luy rendre un repos qu'il attend de sa main.
+
+-*who_antiochus
+Moi, Seigneur ? La Princesse ! Ah Dieux ! Qu'à l'hymenée,
+Tigrane…
+
+-*who_seleucus
+Son malheur tient ton ame estonnée,
+Tu crains de luy ravir ce qui plaist à ses yeux,
+Mais enfin à l'Estat tes jours sont precieux.
+Quelque atteinte qu'il sente à ce grand coup de foudre,
+Pour conserver ta vie il sçaura s'y resoudre,
+Je répons de son zele, et connoy trop sa foy.
+
+-*who_tigrane
+Vous le pouvez, Seigneur, je dois tout à mon Roy.
+
+-*who_antiochus
+On s'abuse, Tigrane, et c'est en vain qu'on pense…
+
+-*who_seleucus
+Allez et trop long-temps tu t'es fait violence,
+Laisse enfin éclater un amour trop discret,
+Va voir Arsinoé, je te rends son Portrait,
+D'un gage si charmant la garde est toûjours chere.
+
+-*who_antiochus
+Confus, hors de moi-mesme, et contraint de me taire…
+
+-*who_seleucus
+Dans l'excez du bonheur les sens sont interdits,
+Enfin je n'ai plus rien à craindre pour mon Fils.
+Madame, c'est à vous que j'en dois l'avantage,
+Mais ne dédaignez pas d'achever vostre ouvrage,
+Et puisqu'à la Princesse il faut tout declarer,
+Par un premier advis venez-l'y preparer.
+
+-*who_antiochus
+Madame, se peut-il…
+
+-*who_stratonice
+Ouy, perdez vos alarmes,
+Vos vœux pour la Princesse auront assez de charmes,
+Et si pour la toucher quelque soin m'est permis,
+Je vous y serviray comme je l'ay promis.
+
+**** *book_ *id_body-5-4 *act_ *date_1666 *creator_corneille
+
+-*who_tigrane
+Je ne demande plus d'où partoit le silence
+Qui de vostre secret m'ostoit la connoissance,
+Seigneur, il est donc vray qu'un revers trop fatal
+M'apprestoit la douleur de vous voir mon Rival,
+De voir tout ce qu'on craint dans un malheur extréme
+Porter sur mon amour…
+
+-*who_antiochus
+Quoy, Tigrane, et vous-mesme
+Vous croyez que mon cœur pour la Princesse atteint…
+
+-*who_tigrane
+Ah, ce n'est pas dequoy ma passion se plaint.
+Arsinoé sans doute a tous les advantages
+Dont l'éclat puisse plaire aux plus nobles courages.
+Et comme rien n'échape à qui peut tout charmer,
+Puisque vous la voyiez, vous avez dû l'aimer ;
+Je me plains seulement que l'adveu de ma flame
+Ne m'ait pas attiré le secret de vostre ame,
+Mon respect joint alors à ce que je vous doy
+Eust esté pour me vaincre une assez forte loy.
+Dans ces commencemens, quelque ardeur qui nous presse,
+Des sens encor soûmis la raison est maistresse,
+Et contraint en naissant d'en estouffer l'appas⁎,
+Si le cœur en soûpire, il soûpire tout bas ;
+Mais avant qu'éclater vous m'avez laissé prendre
+Tout l'espoir qu'un beau feu puisse jamais attendre,
+Vous avez consenty que ce cœur amoureux
+Touchast le doux moment qui m'alloit rendre heureux,
+Demain l'Hymen devoit couronner ma victoire,
+Demain je devois estre au faiste de la gloire,
+Et par l'affreux revers d'un trop funeste sort,
+Le jour de mon triomphe est celuy de ma mort.
+
+-*who_antiochus
+Non, non quoi qu'il arrive, aimez en asseurrance,
+Les maux dont vous tremblez ne sont qu'en apparence,
+C'est de mon seul repos que le Sort est jaloux,
+Tigrane, croyez-m'en, la Princesse est à vous.
+
+-*who_tigrane
+Elle est à moy, Seigneur ! Et le puis-je pretendre
+Quand c'est me l'arracher que me la vouloir rendre,
+Et que vostre vertu par cét illustre effort
+M'expliquant mon devoir fait l'arrest de ma mort ?
+Au peril de vos jours chercher à vous contraindre,
+C'est combattre mon feu, c'est m'apprendre à l'éteindre,
+Et croistre d'autant plus de si sensibles coups
+Qu'il ne m'est pas permis de me plaindre de vous.
+Encor si vous disiez qu'à l'espoir qu'on me vole
+Vous voulez que pour vous ma passion s'immole,
+Et qu'un ordre absolu me forçast d'étoufer
+Un feu dont vostre cœur n'auroit pû triompher,
+Je vous demanderois si vous auriez dû croire
+Que j'obtinsse plustost cette triste victoire,
+Et si pour renoncer à l'espoir le plus doux
+J'aurois ou plus de force, ou moins d'amour que vous.
+Je vous demanderois par quelle grandeur d'ame
+Je pourrois plus sur moy que vous sur vostre flame,
+Et pourquoy jusqu'au jour où j'attens tout mon bien
+On m'auroit tout promis pour ne me donner rien ;
+Mais plus vous me cedez, moins ce bien me demeure,
+Quand vous voulez mourir, l'honneur veut que je meure,
+Et meure au desespoir d'estre encor vers le Roy
+Coupable des ennuys⁎ que vous souffrez pour moy.
+
+-*who_antiochus
+Ils sont grands, je l'advouë, et j'ay lieu de m'en plaindre,
+Mais s'il m'estoit permis de ne me point contraindre,
+Et de vous faire voir à quels rudes combats…
+
+-*who_tigrane
+Parlez, parlez, Seigneur, ne vous contraignez pas,
+Dites que la princesse agrée en vain ma flame,
+Qu'elle a tout vostre cœur, qu'elle a toute vostre ame,
+Qu'avant que la ceder vous verrez tout perir,
+Je mourray de l'entendre, et je cherche à mourir.
+
+-*who_antiochus
+Quoy ? Vous me reduirez à vous dire sans cesse
+Que je ne pretens rien au cœur de la Princesse,
+Que loin que mon espoir combate vostre feu,
+Je suis prest…
+
+-*who_tigrane
+Ah, Seigneur, pourquoy ce desaveu ?
+N'avez-vous pas au Roy déclaré quel empire…
+
+-*who_antiochus
+J'ai parlé sans sçavoir ce que j'ay voulu dire,
+Ou plustost dans les maux dont je suis attaqué,
+On a crû mon silence, il s'est mal expliqué.
+
+-*who_tigrane
+Et ce Portrait, Seigneur ?
+
+-*who_antiochus
+En vain on me l'oppose,
+S'il semble avoir trop dit n'en cherchez point la cause,
+Mon cœur dont ce mystere augmente l'embarras,
+Ne vous peut éclaircir ce qu'il ne conçoit pas.
+
+-*who_tigrane
+Je le conçois, Seigneur, mon desespoir vous gesne⁎,
+Vous m'en montrez l'exemple, il faut ceder sans peine,
+S'applaudir en donnant ce qu'on a de plus cher,
+Et démentir l'amour qu'on ne peut s'arracher.
+Et bien, quoy que sur nous son pouvoir soit extréme,
+Si vous y renoncez, j'y renonce de mesme.
+Dequoy que la Princesse ait paru me flater,
+Vous engager son cœur c'est ne me rien oster.
+Si j'eus lon-temps l'espoir que le Roy vous asseure,
+Je le pris sans amour, je le perds sans murmure,
+Sa main pour mon bonheur n'avoit rien d'important,
+En est-ce assez, Seigneur, et vivrez-vous content ?
+
+-*who_antiochus
+Pour l'esperer jamais ma disgrace est trop forte.
+
+**** *book_ *id_body-5-5 *act_ *date_1666 *creator_corneille
+
+-*who_antiochus
+Madame, retenez un Amant qui s'emporte,
+Sa mort sera l'effet d'un ordre qu'il reçoit,
+Son desespoir la presse, et c'est luy qu'il en croit.
+
+-*who_arsinoe
+Quoy que de Seleucus le Ciel m'ait fait dependre,
+Tigrane sçait de moy ce qu'il a droit d'attendre ;
+Mais comme enfin cét ordre a droit de l'étonner,
+De grace, apprenez-moy ce qui l'a fait donner.
+Qu'avez-vous dit, Seigneur, dont son ame abatuë…
+
+-*who_tigrane
+Qu'il meurt d'amour pour vous, que cét amour le tuë,
+Et que pressé d'ennuys, la langueur qui les suit
+Est l'effet de l'estat où vous l'avez reduit.
+
+-*who_arsinoe
+Sous quelque dur soupçon que Tigrane languisse,
+Je me connoy, Seigneur, et je vous rends justice,
+Ce qui le fait trembler étonne⁎ peu ma foy⁎ ;
+Mais encor une fois qu'avez-vous dit au Roy ?
+Luy deviens-je suspecte, et m'avez-vous nommée ?
+
+-*who_antiochus
+Non, Madame, et sa flame en vain s'est alarmée,
+Le nom d'Arsinoé ne m'est point échapé,
+Et si le Roy se trompe, il veut estre trompé.
+
+-*who_tigrane
+Hélas ! Pour exprimer tout l'amour qui l'inspire,
+Montrer vostre Portrait n'est-ce pas assez dire,
+Et sur l'heureux depost d'un gage si charmant
+Peut-il moins advoüer que le tiltre d'Amant ?
+
+-*who_arsinoe
+M'a-t'on dit vray, Seigneur, qu'expliquant vostre peine
+Vous ayez laissé voir mon Portrait à la Reyne,
+Et souffert que le Roy…
+
+-*who_antiochus
+Madame, vous sçavez
+Que plaignant les ennuys qui me sont reservez
+Vous-mesme…
+
+-*who_arsinoe
+Et bien, Seigneur ?
+
+-*who_tigrane
+Que cherchez-vous, Madame ?
+Son trouble n'est-il pas le témoin de sa flame ?
+Vous faut-il un témoin plus fort, plus asseuré,
+Et Tigrane a-t'il tort s'il meurt desesperé ?
+
+-*who_antiochus
+Ses transports⁎ iront loin si vostre amour n'arreste
+L'injuste desespoir où ce Portrait le jette,
+Il est vray qu'on l'a veu, mais sans trop s'alarmer,
+Qu'il attende…
+
+-*who_arsinoe
+Je voy ce qu'il faut presumer,
+Et penetre à la fin sous quel secret empire…
+
+-*who_antiochus
+Ah, Madame, sur tout gardez-vous de ne rien dire,
+Ou plustost du silence où je dois m'obstiner
+Gardez-vous malgré moy d'oser rien deviner,
+Loin d'adoucir mes maux ce seroit les accroitre.
+
+-*who_tigrane
+Pour ne les guérir pas ils se font trop connoistre,
+Et d'un amour contraint le dur accablement,
+Sans qu'on devine rien, parle assez clairement.
+
+-*who_antiochus
+O devoir, ô respect dont la loy trop severe
+Quand je veux m'expliquer me condamne à me taire !
+Je ne vous dis plus rien, mais pour m'en consoler
+Les effets parleront si je n'ose parler.
+
+**** *book_ *id_body-5-6 *act_ *date_1666 *creator_corneille
+
+-*who_tigrane
+Madame, c'est donc là…
+
+-*who_arsinoe
+Vous n'estes pas à plaindre
+Autant que vostre amour vous engage à le craindre.
+Quelque ordre dont l'éclat menace vostre espoir,
+Il suffit que c'est moy qui dois le recevoir.
+
+-*who_tigrane
+Contre l'ordre du Roy que peut vostre constance ?
+
+-*who_arsinoe
+Par lui, par son adveu ma flame a pris naissance,
+Tigrane, et c'est assez pour m'acquerir les droits
+D'appuyer hautement la gloire de son choix.
+
+-*who_tigrane
+A suivre ce projet quand le Prince vous aime,
+Songez-vous que déjà sa langueur est extréme,
+Qu'on en voit chaque jour redoubler les accez,
+Qu'on tremble de la suite ?
+
+-*who_arsinoe
+Attendez le succez.
+
+-*who_tigrane
+Il y va de sa vie, et quand le peril presse,
+Vous voulez…
+
+-*who_arsinoe
+Sa vertu bannira sa foiblesse,
+Ou s'il essaye en vain de contraindre ses vœux,
+Le Roy n'a qu'à vouloir, et le Prince est heureux.
+
+-*who_tigrane
+Et ne le veut-il pas quand son ordre m'arrache…
+
+-*who_arsinoe
+Vostre heur est toûjours seur, quelque ombre qui le cache,
+Ne vous alarmez point.
+
+-*who_tigrane
+Quoy ? Garder quelque espoir ?
+Quand pour le rendre heureux le Roy n'a qu'à vouloir ?
+
+-*who_arsinoe
+Je vous le dis encor malgré vostre surprise,
+La guerison du Prince au Roy seul est remise,
+Mais il est dangereux en de tels embarras
+D'oser trop s'expliquer ce qu'on ne comprend pas.
+
+-*who_tigrane
+C'est sans m'expliquer rien que je puis vous entendre,
+Qu'a mon malheur d'obscur pour ne le point comprendre ?
+Ne vois-je pas…
+
+-*who_arsinoe
+Adieu, gardez toûjours ma foy,
+Je vous en diray plus quand j'auray veu le Roi .
+
+**** *book_ *id_body-6-1 *act_ *date_1666 *creator_corneille
+
+-*who_stratonice
+Flateuse illusion que j'ay trop osé croire,
+Doux abus de mon cœur par mes desirs trompé,
+Cessez pour me punir d'opposer à ma gloire
+Le pouvoir que sur luy vous avez usurpé.
+D'un vray merite en vain j'eus peine à me deffendre,
+En vain je l'écoutay sur la foy de l'amour,
+S'il triompha par là de ce cœur foible et tendre,
+Le noble et juste orgueil qui cherche à me le rendre,
+En doit triompher à son tour.
+Ouy, pour en arracher cette estime enflamée
+Dont mon devoir trop tard se sentit alarmer,
+Il suffit de l'affront de n'estre point aimée
+A qui sur cét espoir s'estoit permis d'aimer.
+Voy donc avec mépris tout ce qu'eut d'estimable
+Ce prince qui sur toi prenoit trop de pouvoir ;
+Mais d'un pareil effort est-on si-tost capable,
+Et pour cesser d'aimer ce que l'on trouve aimable⁎,
+Helas ! N'a-t'on qu'à le vouloir ?
+Je sçay que le dépit qu'un autre Objet l'emporte
+Semble jusqu'à la hayne attirer tous nos soins⁎,
+Qu'à nos yeux la plus rude à peine est assez forte ;
+Mais pour vouloir haïr on n'en aime pas moins.
+L'ardeur de se vanger par là de ce qu'on aime
+Hausse le prix d'un cœur vainement attaqué,
+Et sentir dans ce trouble une colere extréme
+C'est moins le dédaigner, que vanger sur soy-mesme
+La honte de l'avoir manqué.
+Ainsi ne prétens point avoir éteint ta flame
+Par ce brûlant couroux qui te defend d'aimer,
+Le vif ressentissement qui l'étouffe en ton ame
+Ne fait que l'assoupir pour mieux se rallumer .
+La seule indifference est la marque certaine
+D'un cœur que la raison ou soulage, ou guerit,
+Et loin que les transports⁎ de colere et de hayne
+De ce cœur indigné puissent calmer la peine,
+C'est dequoy l'amour se nourrit.
+Cependant quand l'Hymen étonne⁎ ta constance,
+Que ta lâche vertu fremit de ton devoir,
+T'oseras-tu vanter de cette indifference
+Qui fait seule acquerir ce que tu crois vouloir ?
+T'apprend-elle à ceder à l'oubly nessessaire
+De tans de vœux secrets que tu te crus permis,
+Et dans l'instant fatal qu'un destin trop severe
+T'advertit que demain tu dois ton cœur au Pere,
+Peux-tu ne point songer au Fils ?
+Dures extrémitez où l'ame partagée…
+
+**** *book_ *id_body-6-2 *act_ *date_1666 *creator_corneille
+
+-*who_phenice
+Madame, sçavez-vous que vous estes vangée ?
+En vain Antiochus se flatoit d'estre heureux,
+La fiere Arsinoé n'en peut souffrir les vœux,
+Et si le Roy pretend user de sa puissance,
+Elle sçait comme il faut signaler sa constance,
+C'est assez qu'à Tigrane elle ait donné sa foy,
+Voilà ce qui se dit.
+
+-*who_stratonice
+Et que resout le Roy ?
+
+-*who_phenice
+Pour vaincre ses refus on croit qu'il l'ait mandée,
+Mais dans le pur amour dont elle est possedée,
+Les ordres violents qu'elle va recevoir
+N'en feront dans son cœur qu'affermir le pouvoir.
+
+-*who_stratonice
+Qu'importe du succez à mon ame alarmée ?
+Pour refuser d'aimer n'est-elle point aimée,
+Et quoy que sa fierté brave l'ordre du Roy,
+En vois-je moins ailleurs ce que je crus à moy ?
+
+-*who_phenice
+L'amour d'Antiochus n'a pû trop vous surprendre.
+Mais comme à son Hymen vous ne pouviez pretendre,
+C'est du moins quelque charme à vostre esprit jaloux
+De le voir dans ses vœux aussi trompé que vous.
+
+-*who_stratonice
+Que tu penetres mal l'ennuy qui me surmonte !
+Si le Prince est trompé, Phenice, il l'est sans honte,
+Et n'a point à rougir de s'estre répondu
+Du succez qu'à sa flame il croyait estre deu.
+Il sçavoit qu'à Tigrane Arsinoé fidelle
+Verroit avec chagrin qu'il soûpirast pour elle,
+Et poursuivant un cœur pour un autre enflamé,
+Il aimoit asseuré de n'estre point aimé.
+Mais qui n'auroit point crû qu'une secrete flame
+M'avoit abandonné l'empire de son ame ?
+De ses yeux interdits la confuse langueur
+Sembloit de son destin m'expliquer la rigueur,
+A ses souhaits pour moy rien ne pouvoit suffire,
+Il parloit, s'égaroit, et craignoit de trop dire.
+S'il alloit quelquefois jusques à m'admirer,
+Se taisant tout à coup je l'oyois soûpirer,
+Et de son feu secret j'avois pour asseurrance
+Ses regards, ses soûpirs, sa crainte, et son silence.
+Cependant j'ay trop crû ce silence trompeur.
+Ah, si tu connoissois tout ce que souffre un cœur,
+Quand au gré de ses vœux se flatant d'estre aimée
+On croit oüir son nom, et qu'une autre est nommée !
+
+-*who_phenice
+C'est sans doute un chagrin qu'on ne peut concevoir,
+Mais dequoy peut se plaindre un amour sans espoir ?
+Que perd-on en perdant ce qu'on n'a pû prétendre ?
+
+-*who_stratonice
+Lagloire d'avoir pris ce qu'on avoit crû prendre,
+Et de pouvoir du moins ne se point reprocher
+Qu'on ne meritoit pas ce qu'on n'a sçeu toucher.
+Outre que dans le rang où le Ciel m'a fait naistre,
+Je rougissois d'un feu que je sentois s'accroistre,
+Et pour en consoler ma severe fierté
+Je voulois m'excuser sur la Fatalité,
+Voir le mesme Ascendant par une égale amorce
+Forcer Antiochus de mesme qu'il me force,
+Et pouvoir imputer mes vœux trop enflamez
+Au panchant invincible où nous estions formez ;
+Mais lors qu'à mon destin le sien est si contraire
+Il semble que ma flame ait esté volontaire,
+Et que mon cœur exprez pour mandier le sien
+Se soit permis des vœux dont je n'attendois rien.
+Peut-estre, hélas ! peut-estre à m'expliquer trop prompte,
+De ces vœux indiscrets j'ay découvert la honte,
+J'ay pû luy donner lieu de s'en apercevoir,
+De voir toute mon ame, et c'est mon desespoir.
+
+-*who_phenice
+Sur ce scrupule en vain vostre fierté s'alarme,
+Il aime Arsinoé, cét amour seul le charme,
+Son cœur à cette idée entierement rendu,
+Quoy que vous ayez dit, n'aura rien entendu,
+Et loin de voir pour luy que vostre ame enflamée…
+
+-*who_stratonice
+Ah, pour le remarquer que ne m'a-t-il aimée,
+Et quand à s'enhardir mon feu luy donnoit jour,
+Que ne l'ay-je pû voir éclairé par l'amour ?
+N'y pensons plus, Phenice, ou croyons qu'il s'obstine
+A braver l'Ascendant qui pour moy le domine,
+Et que pour l'en punir, les Dieux l'ont fait pancher
+Où d'autres vœux receus l'empeschent de toucher.
+Mais sans doute frapé d'une mortelle atteinte
+Tigrane que je voy vient m'adresser sa plainte,
+Tandis que sa douleur se soulage avec moy,
+Va sçavoir, s'il se peut, les sentimens du Roy.
+
+**** *book_ *id_body-6-3 *act_ *date_1666 *creator_corneille
+
+-*who_stratonice
+Un revers trop cruel traverse vostre flame
+Pour pouvoir m'étonner du trouble de vôtre ame ;
+Mais du moins c'est beaucoup que malgré sa rigueur
+D'un triomphe secret vous goustiez la douceur.
+J'apprens que de vos feux la Princesse charmée
+Fait vanité d'aimer autant qu'elle est aimée,
+Et que sur sa constance on ne sçauroit gagner
+D'en immoler la gloire à celle de regner.
+
+-*who_tigrane
+Madame, le Destin m'est d'autant plus contraire
+Qu'au moment qu'il m'accable il consent que j'espere,
+Et par de faux appas⁎ ébloüissant ma foy
+Me force d'appuyer ce qu'il fait contre moy.
+Antiochus renonce à m'oster ce que j'aime,
+D'Arsinoé pour moy la constance est extréme,
+Et quoy qu'on fasse enfin, si je les croy tous deux,
+Rien ne peut mettre obstacle au succez de mes feux.
+Du Prince cependant le déplaisir s'augmente,
+Son chagrin est plus noir, sa langueur plus traisnante,
+Et si de sa vertu j'ose me prévaloir,
+Sa mort presque certaine étouffe mon espoir.
+Jugez si mes ennuys en ont moins d'amertume.
+
+-*who_stratonice
+Peut-estre il n'aime pas autant qu'on le presume,
+Et puisqu'à son bonheur il cherche à resister
+On peut croire…
+
+-*who_tigrane
+Ah, Madame, il n'en faut point douter,
+La Princesse le charme, il l'adore, et son ame
+Peut à peine suffire à l'excez de sa flame,
+Jamais un plus beau feu ne regna sur un cœur,
+Mais un foible service en arreste l'ardeur ;
+Il ne peut oublier qu'un sort digne d'envie
+M'a fait sauver ses jours au peril de ma vie,
+Et par reconnoissance il s'obstine à son tour
+A donner aujourd'hui la sienne à mon amour.
+
+-*who_stratonice
+Je voy ce qui vous gesne⁎, une amitié si pure
+Vous force à refuser ce qu'elle vous asseure ;
+Mais au moins vostre amour dans ce revers fatal
+N'a point à redouter le bonheur d'un Rival,
+Puisqu'à vous preferer la Princesse constante
+Sçaura trop …
+
+-*who_tigrane
+C'est par là que mon malheur s'augmente.
+On m'apprend que le Roy de tant d'amour surpris
+M'impute pour son choix ce qu'elle a de mépris,
+Et que si jusqu'au bout il la trouve obstinée
+A refuser l'honneur de ce grand Hymenée,
+Comme il m'en croit la cause, il veut que dés demain
+Moy-mesme je choisisse à qui donner ma main.
+La Princesse par là de sa foy dégagée
+N'aura plus dans ses vœux à rester partagée,
+Et voyant mon devoir porter ma flame ailleurs,
+Cedera sans scrupule à des destins meilleurs.
+S'il est vray qu'on m'appreste un si cruel supplice
+J'implore vos bontez contre tant d'injustice,
+Par pitié de mes maux détournez-en l'effet,
+Il suffit de l'effort que mon devoir s'est fait,
+Pourquoy presser l'éclat d'un desespoir funeste ?
+Ma douleur le commence, elle répond du reste,
+Et n'aura pas besoin, pour terminer mes jours,
+De souffrir que mon bras luy preste du secours.
+
+-*who_stratonice
+Si le Prince …
+
+-*who_tigrane
+A ses yeux il faut cacher mon trouble,
+Et puisque mon malheur par sa vertu redouble ;
+Je vous laisse empescher qu'une vaine pitié
+N'immole dans son cœur l'amour à l'amitié.
+
+**** *book_ *id_body-6-4 *act_ *date_1666 *creator_corneille
+
+-*who_stratonice
+Prince, enfin il est temps que ce chagrin s'efface,
+Tigrane sans murmure accepte sa disgrace,
+Et pour finir vos maux renonçant à l'espoir…
+
+-*who_antiochus
+Pour les finir ? helas ! en a-t'il le pouvoir ?
+Non, non, ces tristes maux dont ma flame est suivie
+N'auront jamais de fin qu'en celle de ma vie,
+Et pour quitter ces lieux je me voy dispensé
+D'attendre le congé que vous avez pressé.
+Demain le Roy vous place au Trône de Syrie,
+J'en seray le témoin, mon devoir m'y convie,
+Mais ma fuite suivra la pompe de son choix,
+Et je vous parle icy pour la derniere fois.
+
+-*who_stratonice
+L'hymen d'Arsinoé…
+
+-*who_antiochus
+Je le voy bien, Madame,
+Vous consentez pour elle au beau feu qui m'enflame,
+Mais l'excuseriez-vous si de ce feu charmé
+J'advoüois que c'est vous qui l'avez allumé ?
+
+-*who_stratonice
+Moy, Prince ?
+
+-*who_antiochus
+Il n'est plus temps, Madame, de vous taire
+Qu'Arsinoé n'a rien de ce qui peut me plaire.
+Ne me demandez point quel fatal contre-temps
+M'a fait luy donner part aux ennuys que je sens,
+Comme un malheur toûjours est la source d'un autre,
+Vous donnant son Portrait j'ay crû montrer le vôtre,
+Et sur le faux rapport de vos yeux abusez
+On l'accuse des maux que vous m'avez causez.
+
+-*who_stratonice
+Et vous ne craignez point d'exciter ma colere ?
+
+-*who_antiochus
+Qu'elle éclate, Madame, elle m'est necessaire,
+Et quoy que mes ennuys doivent trancher mes jours,
+Pour en haster l'effet il leur faut du secours.
+Dure necessité de mon malheur extréme !
+J'aspire à la douleur d'irriter ce que j'aime,
+Et pour mourir plustost, forcé de me trahir,
+J'ay besoin de chercher à me faire haïr.
+Par là mon desespoir pressant sa violence…
+
+-*who_stratonice
+Ce transport va trop loin, et dit plus qu'il ne pense,
+Mais je dois excuser ce triste excez d'ennuys
+Qui vous fait malgré vous oublier qui je suis.
+
+-*who_antiochus
+N'excusez point mon crime, il n'a rien que j'ignore,
+C'est vous qui me charmez, vous que mon cœur adore,
+Et ce cœur qu'à vous voir un prompt amour surprit,
+En vous l'osant jurer, sçait trop bien ce qu'il dit.
+
+-*who_stratonice
+Si c'est sans vostre adveu qu'il s'en est rendu maistre,
+Vous devriez au moins l'empescher de paroistre,
+Et ne me pas reduire à songer à punir
+Quand la pitié de moy voudroit tout obtenir.
+
+-*who_antiochus
+Pour moy dans mes malheurs la vostre seroit vaine,
+D'autres cherchent l'amour, je cherche vostre haine.
+Pour prix des plus beaux feux à qui l'on pûst ceder,
+Après ce que je souffre, est-ce trop demander ?
+
+-*who_stratonice
+Quoy que vostre douleur de cette haine espere,
+Ne la meritez point si vous me voulez plaire,
+Et me cachant l'amour qui tient vos sens seduits,
+Laissez-moy la douceur de plaindre vos ennuis.
+
+-*who_antiochus
+Plaindre d'un malheureux la disgrace inhumaine
+C'est montrer quelque pente à soulager sa peine,
+Et pour flater la mienne au point qu'elle se voit,
+Si c'est moins qu'il ne faut, c'est plus qu'on ne luy doit.
+
+-*who_stratonice
+Si le Ciel à mon choix… Mais qu'est-il necessaire…
+
+-*who_antiochus
+N'achevez point si-tost.
+
+-*who_stratonice
+C'est à moy de me taire,
+Mon destin le demande, il luy faut obeir.
+
+-*who_antiochus
+Mais enfin si le Ciel vous eust laissé choisir ?
+
+-*who_stratonice
+Que vous estes cruel ! ah !
+
+-*who_antiochus
+Vostre cœur soûpire ?
+
+-*who_stratonice
+Ce soupir eschapé…
+
+-*who_antiochus
+Parlez, que veut-il dire ?
+M'apprend-il que mes vœux des vostres secondez…
+
+-*who_stratonice
+Que me demandez-vous puisque vous l'entendez ?
+
+-*who_antiochus
+Quoy ? vostre hymen me livre au plus cruel supplice
+Sans que de mes malheurs vostre cœur soit complice,
+Et si vostre seul choix avoit reglé vos vœux,
+J'aurois pû par mes soins meriter d'estre heureux ?
+
+-*who_stratonice
+Prince, n'abusez point d'une pitié trop tendre
+Qui m'a fait dire plus qu'on ne devoit entendre,
+Et sans quelque soûpirs n'a pû me laisser voir
+L'aspre necessité de suivre mon devoir.
+Il pourra tout sur moy, mais en l'osant promettre
+J'avoüeray qu'en secret je tremble à m'y soumettre,
+Et que l'ordre à mon cœur auroit esté plus doux
+Si le Ciel m'eust souffert d'en disposer pour vous.
+C'est alors qu'on m'eust veuë en recevant le vostre…
+
+-*who_antiochus
+Ah, Madame, il en a disposé pour un autre,
+Et dequoy que pour moy vous vous sentiez presser,
+Vostre main est promise, il n'y faut point penser.
+
+-*who_stratonice
+Je suis deuë à l'Estat, il me fait sa victime.
+
+-*who_antiochus
+C'est à moy cependant à payer pour ce crime,
+A soûpirer sans cesse, et languir consumé
+De l'ennuy de pouvoir, et n'oser estre aimé.
+Pour en cacher l'excez blasmerez-vous ma fuite ?
+
+-*who_stratonice
+Non, Prince, et dans l'estat où mon ame est reduite
+J'y consens d'autant plus que sa triste rigueur
+Sauvera ma vertu des troubles de mon cœur.
+La pitié de vos maux dés l'abord y fit naistre
+Un chagrin inquiet que je n'osay connoistre ;
+Mais si le charme en plut à mes sens alarmez
+Il se rend plus sensible à voir que vous m'aimez,
+Malgré moy je succombe à ce qu'il a d'amorce,
+J'aime l'appas⁎ flateur dont le pouvoir m'y force,
+Et quand je vous estime, un sentiment confus
+M'engage à soûpirer de n'oser rien de plus.
+Allez, Prince, et daignez m'epargner une veuë
+Qui me fait oublier à qui ma main est deuë,
+Non qu'enfin ma raison en ait moins de pouvoir,
+Mais j'écoute, et c'est trop pour qui sçait son devoir.
+
+-*who_antiochus
+De vos bontez pour moy ce dernier témoignage
+Pour ce cruel devoir est sans doute un outrage,
+Mais enfin par ma mort s'il peut se reparer,
+Consolez-vous, Madame, il n'a guere à durer.
+
+-*who_stratonice
+Si vostre éloignement s'est rendu necessaire,
+Songer que vostre vie a lieu de m'estre chere,
+Et que l'honneur toujours permettant d'estimer…
+
+-*who_antiochus
+Helas ! Madame, helas ! je vivrois pour aimer.
+Pourriez- vous à ce prix consentir à ma vie ?
+
+-*who_stratonice
+Vivez pour n'aimer plus, c'est moy qui vous en prie,
+Ou si ce triste effort passe vostre pouvoir,
+Prince, vivez du moins pour ne le plus vouloir.
+
+-*who_antiochus
+Ainsi, quelques ennuis⁎ que j'aye encor à craindre,
+Vous n'aurez qu'à vouloir pour cesser de m'en plaindre ?
+Vostre cœur aussi-tost se rendant tout à soy…
+
+-*who_stratonice
+Prince, adieu plus j'écoute, et moins je me connoy.
+
+-*who_antiochus
+Et bien, il faut survivre à cet adieu funeste,
+Il faut voir vostre Hymen, j'ordonneray du reste ;
+Mais au moins si l'honneur apres ce triste jour
+N'ose plus vous souffrir de plaindre mon amour,
+Attendant que ma mort en efface le crime,
+Madame, asseurez-moy de toute vostre estime,
+Me la promettez-vous ?
+
+-*who_stratonice
+Ouy, je vous la promets,
+Fuyez, et s'il se peut, ne me voyez jamais.
+
+-*who_antiochus
+Ah, si c'est pour jamais que le Ciel nous separe,
+Madame, soustenez ma raison qui s'égare,
+Et qu'un moment encor…elle fuit, et je voy…
+
+**** *book_ *id_body-6-5 *act_ *date_1666 *creator_corneille
+
+-*who_arsinoe
+Seigneur, le Roy me mande, et vous sçavez pourquoy.
+Avant que luy parler j'ay crû devoir m'instruire
+De ce que vous jugez que je luy doive dire,
+J'agiray par vostre ordre, et viens le recevoir.
+
+-*who_antiochus
+Qu'ay- je à dire, ou plustost qu'avez-vous à sçavoir ?
+Rendez Tigrane heureux, vous l'aimez, il vous aime.
+
+-*who_arsinoe
+Je sçay ce que je dois à son amour extréme,
+Mais quand le Roy prétend disposer de ma main,
+Est-ce à moy de braver le pouvoir Souverain ?
+Mon refus vaincra-t'il, et puis-je, quoy que j'ose,
+Soûtenir un espoir où le vostre s'oppose ?
+
+-*who_antiochus
+Moy, je m'oppose au feu dont vous estes charmez ?
+
+-*who_arsinoe
+Quoy ? n'avez-vous pas dit au Roy que vous m'aimez,
+Que pour moy vostre cœur secretement soûpire ?
+
+-*who_antiochus
+Ah, Madame ! pourquoy me l'avez-vous fait dire ?
+Vostre Portrait, helas !
+
+-*who_arsinoe
+Seigneur, il me suffit,
+Je voy ce que sans vous je m'estois déja dit,
+Vous brûlez pour la Reyne, et l'amour…
+
+-*who_antiochus
+Ouy, Madame,
+Vous avez malgré moy penetré dans mon ame,
+Et ce qu'obstinément j'aurois toûjours caché,
+De ce cœur amoureux vous l'avez arraché,
+J'adore Stratonice, et l'ardeur qui me presse
+M'est un ordre absolu de l'adorer sans cesse.
+Cependant par l'erreur de son Portrait changé
+A vivre sous vos loix on me croit engagé,
+Tigrane me condamne, et telle est ma contrainte
+Qu'il faut par mon silence authoriser sa plainte.
+C'est à vous qui causez le trouble où je me voy
+A rompre l'injustice où s'emporte le Roy,
+A montrer pour Tigrane un cœur assez fidelle…
+
+-*who_arsinoe
+Je sçay vos interests, vous connoistrez mon zele.
+Quelque excez qu'à son feu le Roy semble souffrir,
+Son âge…
+
+-*who_antiochus
+Ah, gardez-vous de luy rien découvrir.
+Pour mettre auprés de vous mon crime en évidence
+Le Destin par surprise a trahy mon silence ;
+Mais si vous m'accusez, il n'est rien que ma foy
+Pour se justifier ne tente contre moy.
+Pour démentir l'ardeur de mon ame embrasée
+J'advoüeray que c'est vous qui me l'aurez causée,
+Et que l'honneur me force à mourir de langueur
+Pour ne pas à Tigrane arracher vostre cœur.
+
+-*who_arsinoe
+Mais que diray-je au Roy qui veut que j'obéïsse ?
+
+-*who_antiochus
+Obtenons que demain son Hymen s'accomplisse,
+Tandis qu'un peu de temps, malgré vos premiers feux,
+Disposera vostre ame à couronner mes vœux.
+Regardant ce delay comme un bonheur supréme,
+Promettez tout alors, je promettray de mesme,
+Et l'hymen achevé, quoy que vueïlle le Roy,
+Je vous rends à Tigrane en me rendant à moy.
+Mais ne refusez point, pour soulager ma peine,
+De remettre en mes mains le Portrait de la Reyne,
+Sa veuë adoucira …
+
+-*who_arsinoe
+J'ay sujet d'en douter,
+Mais ce n'est point à moy, Seigneur, à resister,
+Ce Portrait est à vous, je sçauray vous le rendre.
+Tandis je vay sçavoir quel conseil je dois prendre,
+Voir à quoi l'on aspire, et sur l'ordre du Roy
+Regler et ma réponse, et ce que je vous doy.
+
+**** *book_ *id_body-7-1 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Princesse, enfin c'est trop vous en vouloir defendre,
+Il est temps de ceder, il est temps de vous rendre,
+Le beau feu dont pour vous mon Fils est consumé
+Ne le rend pas peut-etre indigne d'estre aimé.
+Ne dites point qu'ailleurs vostre main est promise,
+Pour le bien de l'Estat l'inconstance est permise,
+Et Tigrane à son Prince immolant son espoir
+Par ce trait de vertu vous en fait un devoir.
+
+-*who_arsinoe
+Tigrane de vostre ordre a beau voir l'injustice,
+Vous parlez, commandez, il faut qu'il obéïsse ;
+Mais, Seigneur, nostre Sexe a souvent le malheur
+D'embrasser la revolte avec plus de chaleur.
+Comme au rang que je tiens c'est une peine extréme
+De pouvoir se resoudre à prononcer qu'on aime ;
+Quelques charmes d'ailleurs qui flatent nos souhaits,
+Qui l'a dit une fois ne s'en dédit jamais.
+Par d'invincibles nœuds, par de secretes flames,
+Sans nous, sans nostre adveu le Ciel unit nos ames,
+Et sur l'heureux rapport qui fait ce doux lien
+Tigrane est vostre choix, j'y puis regler le mien.
+
+-*who_seleucus
+Il le fut, je l'advouë, et j'avois lieu de croire
+Que vostre Hymen pour luy n'estoit point trop de gloire,
+La sienne qu'élevoient mille fameux exploits,
+Pour grand que fust ce prix, authorisoit mon choix ;
+Mais plûtost que ceder quand luy-mesme il vous cede
+Verrez-vous tout perir sans secours, sans remede,
+Et mon Trône pour vous est-il d'un si bas prix
+Qu'il ne merite pas que vous sauviez mon Fils ?
+
+-*who_arsinoe
+S'il est quelque remede où le mal semble extréme
+Vous le cherchez en moy quand il l'a dans luy-mesme,
+Et que de ses ennuys il voit la guerison
+S'il ose consentir à croire sa raison.
+
+-*who_seleucus
+C'est en vain qu'il l'écoute, en vain qu'il la veut suivre,
+Plustost que n'aimer plus il cessera de vivre,
+Pour étouffer sa flame il n'est rien qu'il n'ait fait,
+La langueur qui le tuë en est le triste effet.
+Tout à l'heure en mes bras pasmé, plein de foiblesse,
+Chacun l'a veu ceder à l'ennuy⁎ qui le presse,
+On craint tout pour sa vie, et contre vostre Roy…
+
+-*who_arsinoe
+Mais pour donner mon cœur, ce cœur est-il à moy ?
+
+-*who_seleucus
+Si vostre amour se plaint d'un effort si funeste,
+Accordez vostre main, le Ciel fera le reste,
+Et le temps au devoir prendra soin de fournir
+La force du panchant qui n'a pû vous unir.
+D'un Prince infortuné prevenez la disgrace,
+Il y va de ses jours, son destin les menace,
+Sauvez-le, sauvez-moy, pour l'obtenir de vous
+Faudra-t'il qu'on me voye embrasser vos genoux ?
+
+-*who_arsinoe
+Ce seroit trop, Seigneur, et ce haut caractere…
+
+-*who_seleucus
+Si c'est trop pour un Roy, c'est trop peu pour un pere,
+Qui d'un Fils aux abois plaignant le triste sort
+Abandonneroit tout pour empescher sa mort.
+J'en voy le coup certain dans ces dures contraintes
+Dont vostre ingrat refus redouble les atteintes,
+Ce n'est qu'abatement dans ses sens desolez,
+Et s'il perit enfin, c'est vous qui l'immolez.
+
+-*who_arsinoe
+Cét amour qu'à nos yeux il tâche de contraindre
+Merite la pitié qui vous porte à le plaindre ;
+Mais par quel droit, Seigneur, m'exposer aujourd'hui
+A l'horreur d'un tourment dont vous tremblez pour luy ?
+Mesme sort est à craindre où regne mesme flame,
+Ce qui perce son cœur doit déchirer mon ame,
+Et dans l'ardeur d'un feu qui n'ose attendre rien,
+S'il languit sans repos, qui répondra du mien ?
+J'aime, et quand cét amour par vostre ordre a sçeu naistre,
+Je n'ay point à rougir de le laisser paroistre,
+Tigrane a des vertus dont le secret pouvoir
+Par mes vœux les plus doux prevenoit mon devoir,
+Mon cœur sur un appuy si fort, si legitime,
+Se livra sans scrupule à toute son estime,
+Et ces je ne sçay quoy dont je me vis charmer
+Sont des nœuds que vous mesme eustes soin de former.
+Pour me promettre ailleurs puis-je en rompre la chaisne ?
+
+-*who_seleucus
+L'effort est grand sans doute, et j'en conçois la peine,
+Mais lors qu'Antiochus à la mort se résout,
+L'Estat souffre en sa perte, et vous luy devez tout.
+
+-*who_arsinoe
+L'amour qu'on a flaté jusqu'à luy tout promettre
+Aux maximes d'Estat a peine à se soûmettre,
+Et pour sauver un Fils quoy que tout semble doux,
+Je n'en veux point, Seigneur, d'autre juge que vous.
+Stratonice vous charme, et vous sentez pour elle
+Tout ce qu'un rare Objet attend d'un cœur fidelle,
+Dans cét excez d'amour, prest à la posseder,
+Si le Prince l'aimoit, la pourriez-vous ceder ?
+Je répons de me vaincre, asseurez-m'en l'exemple.
+
+-*who_seleucus
+Jamais douleur n'auroit de matiere plus ample,
+J'oseray l'advoüer, mais le Ciel m'est témoin
+Que pour sauver mon Fils j'irois encor plus loin,
+Je ne reserverois Sceptre ny Diadême.
+
+-*who_arsinoe
+C'est promettre en grand cœur le feriez-vous de mesme ?
+
+-*who_seleucus
+Me punissent les Dieux s'il m'en falloit presser.
+L'exemple vous est seur, qui vous fait balancer ?
+Songez qu'un Fils si cher sans qui je ne puis vivre…
+
+-*who_arsinoe
+Si l'exemple est certain vous n'avez qu'à le suivre,
+Vostre tendresse en vain me l'offre pour époux,
+Le Prince aime la Reyne, et tout dépend de vous.
+
+-*who_seleucus
+Il aime…
+
+-*who_arsinoe
+Et quoy, Seigneur ? Vous promettez sans peine,
+Et quand il faut agir, l'engagement vous gesne⁎.
+
+-*who_seleucus
+Vostre amour prend le change, et croit m'inquieter,
+Mais sur l'adveu du Prince on n'a point à douter,
+Et de vostre Portrait l'éclatant témoignage
+Fait trop voir qui des deux attire son hommage.
+
+-*who_arsinoe
+Ce Portrait me convainc d'avoir touché son cœur,
+Mais quand vous le voudrez vous sortirez d'erreur,
+De tout ce que je dis j'ay la preuve certaine.
+
+-*who_seleucus
+Quoy ? Dans sa passion a-t'il nommé la Reyne ?
+
+-*who_arsinoe
+Non, et trop de respect captive ses souhaits
+Pour craindre qu'il s'échappe à la nommer jamais.
+Son secret étouffé n'en fera rien connoistre,
+Je le tairay de mesme, et vous en estes maistre.
+C'est à vous seulement à penser, à bien voir
+Ce que de cét amour il vous plaist de sçavoir,
+Je vous laisse en resoudre, et pour plus d'asseurance
+Que le Prince pour moy n'a rien de ce qu'on pense,
+Quoy que sur ses ennuys⁎ on vueille m'imputer,
+J'abandonne ma main s'il la veut accepter.
+Promettez-la, Seigneur, c'est sans trahir Tigrane
+Qu'à cét effort pour vous mon devoir me condamne ;
+Mais si l'offre en déplaist à son esprit confus,
+Gardez-vous de douter d'où partent ses refus.
+
+**** *book_ *id_body-7-2 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Ah, pour ne point douter de son indigne flame
+Il suffit du desordre où se plonge mon ame,
+Et la tremblante horreur sous qui mon cœur gemit,
+Sans qu'on m'explique rien, ne m'en a que trop dit.
+Et bien, Roy malheureux, qu'un excez de tendresse
+Dans le sort de ton Fils en aveugle interesse⁎,
+La cause de ses maux te rendoit inquiet,
+Tu la voulois sçavoir, te voyla satisfait.
+Un feu pareil au tien l'attache à Stratonice,
+Ton bonheur fait sa mort, le sien fait ton supplice,
+Et quoy que sa vertu triomphe du desir,
+Il meurt si tu ne meurs, c'est à toy de choisir.
+Quoy ? Le flateur appas⁎ de ce feu temeraire
+Luy peut-il donner droit d'estre Rival d'un Pere,
+Et voyant à quel point on m'avoit sçeu charmer,
+N'a-t'il pas dû, l'ingrat, se defendre d'aimer,
+De ses vœux par respect arrester l'injustice ?
+Mais si son devoir cede, il cede à Stratonice,
+Et quelque effort qu'il fist pour se faire écouter,
+Qui la voit et l'admire a-t'il à consulter ?
+Non, non, il faut qu'il aime, et si tu tiens à crime
+Qu'un Fils n'ait point borné cét amour à l'estime,
+Songe à tant de beautez dont les charmes pressans
+Pour t'enflamer sur l'heure ébloüirent tes sens,
+Songe à ce noble amas de vertus et de graces
+Qui sçeut de tes vieux ans fondre soudain les glaces.
+Ce fils pour adorer ce qui surprit ta foy
+N'avoit-il pas un cœur et des yeux comme toy ?
+Mais pourquoy rappeller dans mon ame insensée
+Le penetrant appas⁎ des traits qui l'ont blessée ?
+Pour soustenir tes vœux par les siens traversez
+Crains-tu, lâche, crains-tu de n'aimer point assez ?
+Songe, songe plustost que sous le poids de l'âge
+L'amour ne peut offrir qu'un ridicule hommage,
+Et que sous le silence un Fils prest d'expirer
+T'apprend à la raison comme il faut deferer.
+O combat, dont le trouble oppose dans mon ame
+L'Objet de ma tendresse à celuy de ma flame !
+De mon cœur l'un et l'autre attire tous les vœux,
+Et sans estre à pas un il est à tout les deux.
+S'il ose consentir que l'Amour s'en asseure,
+C'est un triomphe amer dont tremble la Nature,
+Et quand vers la Nature il a quelque retour,
+C'est un triomphe affreux qui fait trembler l'Amour.
+Mais d'où vient qu'à l'espoir cét amour se refuse ?
+Arsinoé peut-estre ou s'abuse ou t'abuse.
+Esclaircy-toy d'un mal qu'elle aime à découvrir ;
+Mais quand tu l'auras sçeu, le voudras-tu guerir ?
+Dure necessité d'une ame combatuë !
+Je veux croire ma gloire, et ma gloire me tuë,
+Et mon cœur que toûjours trop de tendresse émeut
+Voulant tout ce qu'il doit n'ose voir ce qu'il veut,
+Pour conserver mon Fils il faut perdre la Reyne,
+Il faut … mais le voicy que son chagrin amene .
+Dieux, qui voyez le trouble où je suis abysmé,
+Ne se pourroit-il point qu'il n'eust jamais aimé ?
+
+**** *book_ *id_body-7-3 *act_ *date_1666 *creator_corneille
+
+-*who_seleucus
+Prince, ostez-moy d'un doute, il ne faut plus rien taire,
+Si ce que l'on m'a dit est un rapport sincere,
+Vous nous trahiriez tous à cacher plus long-temps…
+
+-*who_antiochus
+Seigneur.
+
+-*who_seleucus
+J'en ay receu des advis importants,
+Et vous seul pouvez tout pour me tirer de peine.
+J'apprens qu'au vif éclat des beautez de la Reyne…
+Ne me déguisez rien, que dit-on à la Cour
+Des pompes que pour elle appreste mon amour ?
+
+-*who_antiochus
+Seigneur, qu'en peut-on dire ? On vous aime et respecte.
+
+-*who_seleucus
+L'aveugle deference à ma gloire est suspecte,
+Elle en forme un scrupule, et me fait presumer
+Qu'avec des cheveux gris il m'est honteux d'aimer,
+A moy-mesme en secret mes vieux ans me font peine
+Quand j'ose soûpirer pour une jeune Reyne,
+J'aime à fuir le murmure, et c'est sur vos advis…
+
+-*who_antiochus
+Seigneur, oubliez-vous…
+
+-*who_seleucus
+Non, non, parlez, mon Fils,
+Je ne demande point que vous flatiez ma flame,
+Ouvrez-moy vostre cœur, je vous ouvre mon ame ;
+Je puis avoir trop crû ce doux empressement
+Qui m'a fait accepter la qualité d'Amant,
+Mais si l'âge où je suis repugne à l'Hymenée,
+Quels qu'en soient les apprests, ma main n'est pas donnée,
+Et je veux qu'aujourd'huy vous resolviez pour moy
+S'il faut que j'abandonne, ou retire ma foy.
+
+-*who_antiochus
+Comme de ma raison le desordre est extréme,
+Vous prendrez mieux, Seigneur, ce conseil de vous-mesme,
+Ou plustost l'Amour seul a droit de decider
+Ce scrupule de gloire où je vous voy ceder,
+C'est luy qu'il en faut croire, il connoit seul vostre ame,
+Mais apres tout l'éclat qu'a cherché vostre flame,
+Croiray-je qu'à vos yeux la Reyne moins aimable⁎ …
+
+-*who_seleucus
+Douter si Stratonice est toûjours adorable !
+Elle pour qui le Ciel par de rares efforts
+Semble avoir épuisé ses plus riches tresors !
+Elle à qui tous les cœurs, gagnez sans resistance…
+Et croy ton Pere prest à reprendre sa foy,
+S'il faut ce sacrifice à la gloire d'un Roy.
+
+-*who_antiochus
+Non, non, aimez, Seigneur, je voy trop quel empire
+A sur vous cét amour qu'il vous plaist d'en dédire,
+En tout âge il est beau de brûler de ses feux,
+Vivez pour Stratonice, et rendez-vous heureux.
+Aussi bien dans l'accord qu'il vous faudroit enfraindre
+Demetrius son Pere auroit lieu de se plaindre,
+Et la guerre aussi-tost…
+
+-*who_seleucus
+Afin de l'empescher
+Il faudroit…
+
+-*who_antiochus
+Quoy ! l'affront s'en pourroit-il cacher,
+Et manquer de parole où l'on voit que la sienne…
+
+-*who_seleucus
+Vostre main supléeroit au defaut de la mienne,
+Et sans rompre l'Accord…
+
+-*who_antiochus
+Que dites-vous Seigneur ?
+
+-*who_seleucus
+Je sçay quel coup, mon Fils, c'est porter sur ton cœur,
+Un changement si dur l'arrache à la Princesse,
+Mais…
+
+-*who_antiochus
+J'ay promis, Seigneur, de vaincre ma faibloisse.
+
+-*who_seleucus
+Non, si tu souffres trop par ce nouveau projet,
+Je consens que ton feu ne change point d'objet,
+Et pour t'en épargner le funeste supplice,
+Je suis prest, s'il le faut, d'épouser Stratonice.
+J'ay mesme à t'annoncer le bonheur le plus grand,
+Comme Tigrane cede, Arsinoé se rend,
+Pour couronner tes vœux sa main est toute preste.
+
+-*who_antiochus
+Tigrane a de son cœur merité la conqueste,
+Et luy voler sa main quand il garde sa foy,
+C'est le desesperer sans rien faire pour moy.
+
+-*who_seleucus
+Quoy, lors que sur tes sens l'amour prend tant d'empire…
+
+-*who_antiochus
+J'ay dit sur cét amour ce que j'avois à dire,
+Quelque éclat qu'il ait fait, laissons Tigrane heureux,
+Le temps fera pour moy, c'est tout ce que je veux ;
+
+-*who_seleucus
+Je sçay qu'il peut beaucoup, mais quitte l'artifice,
+Et m'apprens…
+
+-*who_antiochus
+Quoy, Seigneur ?
+
+-*who_seleucus
+Aimes-tu Stratonice ?
+
+-*who_antiochus
+Si j'aime Stratonice ! Ah Dieux, qu'ay-je entendu ?
+Mon hommage sans doute à Stratonice est dû,
+Je la dois reverer, Stratonice est ma Reyne,
+Mais que vers Stratonice un fol amour m'entraisne,
+Que Stratonice ait pû m'ébloüir, m'enflamer  !
+
+-*who_seleucus
+Tu la nommes souvent pour ne la point aimer.
+
+-*who_antiochus
+Helas ! Pour écouter un feu si temeraire
+Oublierois-je, Seigneur, que vous estes mon Pere ?
+Ah, plustost mille morts…
+
+-*who_seleucus
+Va, c'en est trop, mon Fils,
+Je découvre l'abysme où ton respect t'a mis,
+Quelques charmes d'abord avoient sçeu me surprendre,
+Mais puisque ton amour peut dégager ma foy,
+Sans que j'en souffre rien, Stratonice est à toy,
+Aime-la j'y renonce, et me souviens à peine
+Que mon Hymen conclu te la donnoit pour Reyne.
+D'un cœur aussi content que le sort m'en est doux
+Je verray l'heureux jour qui t'en rendra l'Espoux,
+J'ay déjà sans effort banny de ma memoire…
+
+-*who_antiochus
+Gardez, Seigneur, gardez d'oser trop vous en croire,
+Quoy que vostre bonté s'offre à sacrifier
+Oublier tout si-tost c'est ne rien oublier.
+Mais pourquoy m'en promettre une preuve si vaine ?
+Vous le sçavez, Seigneur, je n'aime point la Reyne,
+Espousez-la, de grace, et si ce n'est assez…
+Mais, ô Dieux !
+
+-*who_seleucus
+A la voir, Prince, vous rougissez,
+Parlons-luy, cette épreuve est encor necessaire,
+Vous sçavez mieux apres ce que vous pourrez faire.
+
+**** *book_ *id_body-7-4 *act_ *date_1666 *creator_corneille
+
+-*who_stratonice
+Seigneur, Tigrane a crû devoir encor par moy
+Vous donner aujourd'huy des preuves de sa foy,
+Et malgré les ennuys⁎ dont la rigueur le presse,
+Il vient vous asseurer que si de la Princesse
+Vos souhaits dés l'abord ne peuvent obtenir…
+
+-*who_seleucus
+Son zele m'est connu, qu'on la fasse venir.
+
+-*who_tigrane
+Seigneur…
+
+-*who_seleucus
+Lors qu'à Tigrane on voit tout si contraire,
+Madame, vous pouvez ordonner qu'il espere,
+Quoy que d'Arsinoé le Prince soit charmé
+Il sçaura l'oublier s'il est ailleurs aimé ;
+Mais il faut qu'il le soit d'un Objet adorable,
+Et cet Objet si rare, et préferable à tous,
+S'il faut m'expliquer mieux, ne peut estre que vous.
+
+-*who_stratonice
+Seigneur, dans ma surprise agréez mon silence,
+J'ay cedé sans murmure aux loix de ma naissance,
+Par elles je vous dois et ma main et ma foy,
+L'une est à vous déja, l'autre est encore a moy,
+Et si mon Hymenée est pour vous une gesne,
+Je puis…
+
+-*who_seleucus
+Dans mes Estats vous devez estre Reyne,
+Et je ne manque à rien si mon Fils couronné
+Vous asseure le rang qui vous est destiné.
+Mon amour s'en esmeut, mais je voy qu'à mon âge
+L'Hymen où j'aspirois est pour vous un outrage,
+Et d'ailleurs il y va d'étouffer tant d'ennuis…
+
+-*who_stratonice
+Mon devoir a toûjours reglé ce que je puis ;
+Seigneur, apres cela je n'ay rien à vous dire.
+
+-*who_antiochus
+A ce que veut le Roy gardez-vous de souscrire,
+Pour moy de sa tendresse il croit trop les appas⁎,
+Madame, il vous adore.
+
+-*who_seleucus
+Et ne l'aimes-tu pas ?
+
+-*who_antiochus
+Aimer la Reyne ? Ô Ciel !
+
+-*who_seleucus
+Et bien, il t'en faut croire,
+Mais si de son Hymen tu rejettes la gloire,
+Fay qu'elle-mesme au moins puisse apprendre de toy
+Que ses charmes sont peu pour surprendre ta foy
+Qu'un mépris…
+
+-*who_antiochus
+Moy, j'aurois du mépris pour la Reyne !
+Seroit-il pour ce crime une assez rude peine ?
+Jamais tant de beautez n'eurent droit de charmer,
+Mais, Seigneur, je ne dois ny ne la veux aimer,
+J'en atteste les Dieux, et si de ma foiblesse,
+Vostre ame…
+
+-*who_seleucus
+Accepte donc la main de la Princesse,
+Je la laisse à ton choix.
+
+**** *book_ *id_body-7-5 *act_ *date_1666 *creator_corneille
+
+-*who_arsinoe
+Elle est à luy, Seigneur,
+S'il peut pour l'accepter faire suivre le cœur,
+Mais la Reyne…
+
+-*who_antiochus
+Ah, Madame ! et vous-mesme osez dire…
+Mais, Seigneur, vous voyez à quoy sa flame aspire,
+Pour épargner Tigrane elle veut m'imputer…
+
+-*who_seleucus
+Il est temps de resoudre, et non de consulter,
+Puisqu'elle offre sa main c'est à toy de la prendre,
+Je n'en croy que ce gage.
+
+-*who_antiochus
+Et bien, il me faut rendre,
+Ceder à mon destin. Donnez, Princesse, hélas !
+Seigneur, c'est de Tigrane asseurer le trépas,
+Des jours qu'il m'a sauvez est-la récompense ?
+
+-*who_arsinoe
+Ce Portrait confondra son obstiné silence,
+L'ayant trouvé, Seigneur, sans qu'il en ait sçeu rien.
+Pour lire dans son cœur j'ay supposé le mien,
+On m'impute par là ce qu'il sent pour la Reyne.
+
+-*who_seleucus
+Connois-tu ce Portrait.
+
+-*who_antiochus
+Ordonnez de ma peine,
+Il faut punir le crime où l'amour m'a fait choir,
+C'est tout ce que je puis et connoistre et sçavoir.
+
+-*who_seleucus
+Non, mon Fils, contre toy ne crains rien de ma flame,
+La Reyne, je l'advoüe, avoit touché mon ame,
+Mais apres les efforts que s'est fait ton amour
+Il est beau que du mien je triomphe à mon tour,
+Je t'en fais possesseur et Roy de Phenicie.
+
+-*who_antiochus
+Que tout vostre heur s'immole à celuy de ma vie !
+Non, non, plustost, Seigneur, abandonner un Fils,
+Je vaincray ma foiblesse, et je vous l'ay promis.
+
+-*who_seleucus
+Cesse d'en vouloir croire un respect qui me tuë,
+Tu dois vaincre ta flame, et la mienne est vaincuë.
+Je vous l'avois bien dit, que pour sauver ses jours
+Je n'attendois plus rien que de vostre secours,
+Madame à son espoir vous rendrez-vous contraire ?
+
+-*who_stratonice
+Ma réponse, Seigneur, dépend du Roy mon Pere,
+Ses seules volontez ont droit de m'engager.
+
+-*who_seleucus
+A donner son adveu nous sçaurons l'obliger.
+
+-*who_antiochus
+Seigneur, encor un coup…
+
+-*who_seleucus
+Obey sans replique,
+C'est tout ce que je veux que ton devoir m'explique.
+
+-*who_antiochus
+O bonté sans égale, ô vertu dont l'éclat
+Loin de punir un Fils récompense un ingrat !
+Madame…
+
+-*who_seleucus
+Apres l'ennuy des plus rudes alarmes
+Tigrane de l'espoir goustera mieux les charmes,
+S'y rendra tout entier ; attendant l'heureux jour
+Qui remplissant ses vœux, couronne vostre amour.

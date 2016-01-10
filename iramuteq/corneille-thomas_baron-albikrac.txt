@@ -1,0 +1,4394 @@
+
+
+**** *book_ *id_dedicace *date_1667 *creator_corneille
+
+A M. B. E. C. S
+
+Madame,
+
+J'ay bien lieu d'estre satisfait du succez de ma Comedie.
+Vous m'avez asseuré que sa représentation vous a divertie agreablement, et je n'avois rien de plus à souhaiter.
+Quand le Public se seroit entierement declaré pour elle, son suffrage n'auroit point suffit à mon ambition, et la gloire de vous avoir plû est quelque chose de si considerable pour moy, qu'elle me console aisément de la severité de la censure.
+C'est peut-estre dire beaucoup, mais ce n'est point encor dire assez pour la surprise où je me suis veu tant de fois de la force de vostre esprit, et de la delicatesse de vostre discernement.
+
+A vous entendre discourir
+D'une vivacité brillante
+Sur tout ce qui se peut offrir,
+On vous prendroit pour une Tante,
+A qui dix ans adjoutez à cinquante
+Auroient donné tout le temps de meurir.
+Cependant à l'envy sur vostre beau visage
+On voit les charmes du bel âge
+Semer pompeusement ce qu'ils ont de plus doux.
+Tous vos traits sont marquez au coin de la Jeunesse,
+Et l'on ne trouve poit de Niepce
+Qui ne soit moins Niepce que vous.
+
+C'est à dire, Madame, que trois années de sacrement ne vous ostent point l'avantage sur toutes celles qui y prétendent, et que vous paroissez tellement ne faire qu'entrer à la vie, qu'on a peine à se persuader que vous ayez déjà fait un Heureux.
+Il est bien rare sans doute que d'aussi tendres années que les vostres soient soûtenuës d'autant de lumieres que vous en avez ; mais il l'est beaucoup davantage qu'ayant de quoy vous attirer des vœux en foule par tout ce qu'une belle personne a d'engageant, vous sçachiez si bien regler les sentiments de ceux qui vous approchent, que vous ne leur inspiriez pas moins de respect pour vostre vertu, que d'admiration pour vostre beauté.
+
+Ce n'est pas qu'à vous voir de mille attraits pourveuë
+Les yeux aussi brillants que doux,
+Il soit aisé de s'éloigner de vous
+Sans songer que l'on vous a veuë
+Il reste par ce souvenir
+Assez dequoy se voir punir
+Du plaisir où le cœur s'est trop laissé surprendre,
+Mais c'est ce qu'on ne vous dit pas,
+Et si d'en soûpirer on ne peut se défendre,
+Il faut qu'au moins ce soit si bas
+Que vous ne le puissiez entendre.
+
+C'est, Madame, cette scrupuleuse severité qui vous a donné plus de lieu de vous réjoüir aux dépens de la Vieille Tante.
+Dans l'âge le moins propre à s'attirer des douceurs, elle va au devant de ce que vous ne croyez pas qu'on doive souffrir dans le vostre, et comme elle n'est pas la seule de son caractere, il sera difficile que vous ne trouviez à vous divertir de plus d'une Copie d'un si ridicule Original.
+Souffrez que pour vous aider à les mieux connoistre, je l'oblige à vous aller debiter une seconde fois ses folies jusques chez vous, et que par cette foible marque de ma reconnaissance, je tâche à m'acquiter d'une partie de ce que je vous dois pour l'obligeant Portrait que vous avez daigné faire de moy.
+Je sçay que vous vous estes assez laissée préoccuper en ma faveur pour en avoir adoucy les traits, et cherché plûtost à les rehausser par de vives couleurs, qu'à y faire trouver une exacte ressemblance : Mais, Madame, il est naturellement si doux d'estre flaté, et surtout par une personne faite comme vous, qu'il ne s'en faut guere que je ne tâche quelquefois à m'y reconnoistre.
+Du moins je puis vous asseurer avec beaucoup de verité que ce glorieux témoignage de vostre estime est un honneur que je préfere à tout ce que je pour- -rois souhaiter d'ailleurs.
+Aussi ne suis-je plus en estat de me contenter des remerciements particuliers que je vous en ay déja faits.
+Ma vanité aspire à les rendre publics autant qu'il vous a plû de me le permettre, et si en me faisant supprimer mille éloges qui vous sont deubs, vostre modestie ne m'avoit pas forcé en mesme temps à cacher vostre nom sous des lettres misterieuses, j'aurois eu la joye d'apprendre aujourd'huy plus ouvertement à tout le monde avec combien de respect et de passion je suis et je seray toute ma vie,
+
+MADAME,
+
+Vostre tres-humble, tres obeissant,
+
+Et tres-obligé serviteur,
+
+T. CORNEILLE.
+
+**** *book_ *id_body-3-1 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Si j'en croy ce billet, Oronte est fort sincere,
+Il met tout son bonheur à me voir, à me plaire,
+Mais ce fut là toûjours le style des Amants.
+
+-*who_philipin
+Madame, il meurt pour vous. Vous sçavez si je ments,
+Je suis valet d'honneur, et quoy qu'il pûst écrire,
+S'il n'estoit fou d'amour, voudrois-je vous le dire ?
+Il pense à vous sans cesse, et s'il avoit cent cœurs…
+
+-*who_angelique
+Quand il peut me parler il me dit des douceurs⁎,
+Mais son Sexe⁎ par tout doit ce tribut au nostre.
+
+-*who_philipin
+Mon Maistre, croyez-moy, n'est point fait comme un autre,
+A moins qu'on ne luy plaise, et plaise tout de bon,
+Jamais sur la fleurete⁎ il ne regle son ton.
+
+-*who_angelique
+Jamais ? et quelquefois il en conte⁎ à ma Tante.
+
+-*who_philipin
+C'est là de son amour la preuve convaincante.
+Il n'est pas de ces gens si fort abandonnez⁎
+Qu'il doive estre réduit aux attraits surannez,
+Et si par vostre Tante, aussi vieille que fole
+Il se laisse arracher quelque douce parole,
+S'y pourroit-il résoudre à moins que de sçavoir
+Qu'on n'obtient que par là le plaisir de vous voir ?
+Mais que doit-il attendre enfin, que luy diray-je ?
+
+-*who_angelique
+Que j'ay leu son billet.
+
+-*who_philipin
+Le rare privilege !
+N'aurons-nous rien de plus ?
+
+-*who_angelique
+Quoy, tu n'es pas content ?
+
+-*who_philipin
+La plus indifferente en feroit bien autant.
+Ce n'est que sçavoir lire.
+
+-*who_angelique
+Un jour viendra peut-estre…
+
+-*who_philipin
+Un peut-estre n'est point ce que cherche mon Maistre.
+
+**** *book_ *id_body-3-2 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Et vite.
+
+-*who_angelique
+Qu'est-ce ?
+
+-*who_lysette
+Et tost.
+
+-*who_angelique
+Ma Tante ?
+
+-*who_lysette
+Détalons,
+La voila qui descend, elle est à mes talons.
+Par le petit degré gagnez le haut.
+
+-*who_philipin
+Lysette,
+Obtiens nous…
+
+-*who_lysette
+Son Tailleur sur l'escalier l'arreste,
+Sans cela…
+
+-*who_philipin
+Mais au moins, en trois ou quatre mots
+Qu'elle déclare…
+
+-*who_angelique
+Adieu.
+
+**** *book_ *id_body-3-3 *act_ *date_1667 *creator_corneille
+
+-*who_philipin
+C'est bien dit. Ah, les sots
+Qui sans rien attraper avec un soin extrême
+Sont un an à poursuivre un chetif, je vous aime !
+Prétend-elle toûjours ainsi se défier ?
+
+-*who_lysette
+Faute d'experience elle se fait prier,
+Elle est novice encor, mais enfin laisse faire ;
+Mes soins en si bon train ont déja mis l'affaire,
+Qu'en la pressant un peu, si ton maistre est discret,
+Je luy répondrois bien d'un rendez-vous secret.
+Luy peignant bien sa flame il l'obtiendra sans doute.
+
+-*who_philipin
+Mais on ne luy dit rien que la Tante n'écoute,
+Et montrer pour la Niepce un cœur d'amour blessé
+Ce seroit le secret d'être bien-tost chassé,
+O le fâcheux dragon qu'une Tante éternelle !
+
+-*who_lysette
+Adjouste qui prétend estre encor jeune et belle,
+Et qui laissant au coffre un peu plus de trente ans
+Veut jusque dans l'hyver ramener le printemps.
+A chaque occasion parlant de son peu d'âge
+Son radoucissement tire un piteux hommage,
+Qui lent à s'avancer…
+
+-*who_philipin
+Pour de si vieux appas⁎
+Dy moy, quelle douceur⁎ pourroit doubler le pas ?
+A soixante et dix ans ! l'agreable mignonne !
+
+-*who_lysette
+Dy soixante.
+
+-*who_philipin
+Et bien soit, la difference est bonne.
+Comment diable à cet âge ose-t'on vivre encor ?
+
+-*who_lysette
+Sçais-tu pas qu'une femme en tout temps prend l'essor ?
+
+-*who_philipin
+Je le sçay, mais du moins on n'a point la figure
+D'une Ostrogote faite en dépit de Nature,
+Et l'on doit s'habiller sans tant de sots atours
+A l'usage des Gens que l'on voit tous les jours.
+De son deuil mitigé la mode est fort nouvelle.
+
+-*who_lysette
+Elle croit du commun se distinguer par elle,
+En estre plus galante, et plus propre à charmer.
+
+-*who_philipin
+Elle a le diable au corps, croire se faire aimer !
+Ne voir pas qu'on la raille alors qu'on s'humanise !
+
+-*who_lysette
+Qu'on luy dise un mot tendre, elle est soudain éprise,
+Croit tout, prend feu sur tout, et c'est là son destin.
+Aussi sans le doux style on n'est point son Cousin.
+On n'a chez elle accez qu'en luy contant fleuretes⁎,
+Qu'en feignant un amour…
+
+-*who_philipin
+Un amour à Lunetes.
+Si bien que sans douceurs⁎ et le tendre soûpir
+Ce Dragon surveillant ne se peut assoupir ?
+
+-*who_lysette
+C'en est la seule voye.
+
+-*who_philipin
+Ah, beauté bisayeule !
+Si j'osois pour douceur⁎ te bien paumer la gueule,
+Que je prendrois plaisir…
+
+-*who_lysette
+Tu te mets en courroux ?
+
+-*who_philipin
+Mais quand avec la Niepce avoir ce rendez-vous ?
+Où l'en presser ?
+
+-*who_lysette
+Leandre est amy de ton Maistre,
+On l'aime icy déja plus qu'on ne fait paroistre.
+Qu'il amuse la Tante, et l'endorme si bien
+Qu'Oronte avec la Niepce ait un libre entretien.
+
+-*who_philipin
+Ouy, mais tu ne dis pas que ce Leandre enrage
+D'avoir déja dix fois joüé ce personnage ?
+Il est saoul de la Tante, et n'en veut plus taster.
+
+-*who_lysette
+Voyez que c'est bien là dequoy se rebuter.
+La pauvre Niepce et moy nous en souffrons bien d'autres
+Et peut-estre il n'est point d'ennuis⁎ pareils aux nostres.
+Ma foy, c'est charité que de nous secourir.
+
+-*who_philipin
+Mais avant qu'attraper il faut long-temps courir,
+Et de l'air dont elle est par la Tante gardée…
+
+-*who_lysette
+La rage d'un mary l'a si fort possedée
+Que comme elle en veut un, quoy qu'il puisse coûter,
+La Niepce n'est jamais en pouvoir d'écouter.
+Depuis neuf ou dix mois qu'est mort nostre bon homme,
+La Vieille requinquée en desirs se consomme,
+Dans le premier venu croit voir un Protestant⁎,
+S'en fait conter⁎ par force, et s'offre au mesme instant,
+Ainsi point de quartier tant qu'elle ait eu son compte.
+Mais dy moy, cet Espoux que promettoit Oronte,
+Ce Baron d'Albikrac est long-temps à venir.
+
+-*who_philipin
+Quelque obstacle maudit l'aura pû retenir,
+Nous le sçaurons bien tost ; un certain la Montagne
+Chez nous, quand j'en sortois, arrivoit de Bretagne.
+Il en rapportera ce que tu veux sçavoir.
+
+-*who_lysette
+A vanter ce Baron j'ay bien fait mon devoir.
+Sur ce que j'en ay dit nostre Tante charmée
+Par lettres aussi-tost de luy s'est informée.
+
+-*who_philipin
+Tant pis, qu'a-t'elle sçeu ? car enfin il n'a rien.
+
+-*who_lysette
+Qu'il estoit de naissance⁎ avec fort peu de bien,
+Mais enjoüé, folastre, et toûjours prest à rire.
+
+-*who_philipin
+Plus encor mille fois qu'on ne le sçauroit dire.
+Mais d'où diable as-tu feint que tu sçavois son nom ?
+
+-*who_lysette
+J'ay dit que j'avois veu ce Monsieur le Baron
+Qui plein d'amour pour elle, et pressé d'un voyage,
+Devoit à son retour parler de mariage,
+Qu'il n'avoit point voulu la voir pour un moment.
+On croit ce qu'on souhaite assez facilement.
+
+-*who_philipin
+Ah Baron, qu'à présent tu serois necessaire !
+
+-*who_lysette
+Qu'il vueille d'elle ou non, ce n'est point nostre affaire
+Pourveu qu'en temps et lieu l'entretenant d'amour
+A celuy de ton Maistre il donne quelque jour.
+
+-*who_philipin
+Mais à propos d'amour, m'aimes-tu ?
+
+-*who_lysette
+Le beau doute !
+
+-*who_philipin
+Tu m'en as asseuré bien des fois, mais écoute,
+Il me le faut jurer plus authentiquement.
+
+-*who_lysette
+Philipin se défie⁎ ?
+
+-*who_philipin
+A parler franchement,
+Je te trouve gaillarde autant qu'on le peut estre,
+Et nostre la Montagne est un dangereux traistre
+Qui toûjours goguenard, prend en goguenardant
+Ce qu'on dit qu'on n'obtient jamais en demandant,
+Comme nouveau venu tu voudras qu'il t'en conte⁎ ?
+
+-*who_lysette
+Badin.
+
+-*who_philipin
+J'ay de l'honneur, et l'autre a beu sa honte,
+Plus effronté qu'un Page en vain on le retient.
+
+-*who_lysette
+Tay-toy, ne vois-tu pas que nostre Tante vient ?
+
+**** *book_ *id_body-3-4 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Que te dit Philipin ?
+
+-*who_lysette
+Que son Maistre l'envoye
+S'informer s'il se peut que bien-tost il vous voye.
+
+-*who_tante
+Dy-luy que je l'attens.
+
+-*who_lysette
+Retourne, Philipin.
+
+-*who_philipin
+Il en faisoit scrupule à cause du matin,
+Leandre est avec luy.
+
+-*who_tante
+Qu'ils viennent l'un et l'autre.
+
+**** *book_ *id_body-3-5 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Madame, vous voyez quel pouvoir est le vostre,
+Tous deux ne sçauroient vivre un seul moment sans vous.
+
+-*who_tante
+Que n'est-il vray ! mais non, ils ont besoin de nous,
+Et venus à Paris pour quelque grande affaire
+Je les dois regarder comme amys de mon Frere.
+Tu sçais ce que pour eux d'Angleterre il m'écrit,
+Qu'en leur faveur je tâche à trouver du credit⁎,
+Et que les obliger c'est l'obliger luy-mesme.
+
+-*who_lysette
+Mais ne croyez-vous pas que l'un des deux vous aime ?
+
+-*who_tante
+J'aurois lieu de le croire, et Leandre du moins
+Semble pour me gagner ne manquer point de soins⁎,
+Mais enfin je crains tant qu'il ne soit pas honneste
+Qu'à me remarier je me montre si preste…
+
+-*who_lysette
+Le veusvage est un don qu'on m'a toûjours appris
+Que le Ciel ne depart qu'à ses plus Favorys,
+Et si dans ce qu'on sçait par mainte et mainte épreuve
+Vous pouviez transporter vostre Office de Veusve,
+Au lieu de le garder toûjours en enrageant
+Il vous seroit aisé d'en trouver de l'argent.
+Malgré des blonds cheveux la mode avantageuse
+Un Bandeau sied au front mieux qu'une Paresseuse⁎.
+Mais, Madame, chacun sçait ses necessitez.
+
+-*who_tante
+Il est vray, le Veusvage a ses commoditez,
+Mais s'il en est à qui le Mariage couste,
+D'autres n'y trouvent pas…
+
+-*who_lysette
+Vous le sçavez sans doute,
+Pendant plus de trente ans vous avez eu loisir
+D'apprendre ce qu'il a qui touche le desir,
+Le Défunt vous aimoit, et chacun sçait bien comme…
+
+-*who_tante
+Au mal de Jaloux prés je le trouvois bon homme,
+Mais il estoit si vieux…
+
+-*who_lysette
+J'entens, pour reconfort
+Vous en voulez un jeune.
+
+-*who_tante
+Eh Lysette, ay-je tort ?
+
+-*who_lysette
+Non pas, et la jeunesse est d'un si grand usage
+Qu'ayant à prendre Maistre il le faut du bel âge ;
+Mais la difficulté c'est que vostre Barbon
+A bien usé le vostre.
+
+-*who_tante
+Eh mon Dieu, le voit-on ?
+Mes ans aux yeux de tous sont-ils si manifestes ?
+
+-*who_lysette
+Avec un peu d'emprunt vous avez de beaux restes,
+Et certain charme en vous saute encor tant aux yeux
+Qu'il en est à vingt ans qui ne valent pas mieux.
+Mais entre vous et moy qui connoy vos affaires,
+Vous en avez du moins trente surnumeraires,
+C'est quelque chose.
+
+-*who_tante
+Ainsi tu me tiens hors d'estat
+De plus faire divorce avec le Celibat ?
+
+-*who_lysette
+Non, un Mary pour vous est un point necessaire.
+
+-*who_tante
+Les Gens ont sans cela tant de peine à se taire
+Que pour oster tout lieu de médire de nous…
+
+-*who_lysette
+Eh, si l'une s'en plaint l'autre le trouve doux.
+Dans la fleur de nos ans où tout aime à nous rire⁎,
+C'est gloire⁎ que de nous on s'attache à médire,
+Et j'en sçay qu'on verroit pester au dernier point
+Si de leurs Soûpirans on ne médisoit point.
+Les Belles à l'envy⁎ tirent de ce murmure
+Du costé du merite⁎ un favorable augure,
+C'en est aussi la marque, et sans expliquer rien
+Si l'on a leurs faveurs on les achepte bien;
+Mais dans l'âge où pour nous manque la complaisance,
+Malheur à qui ne sait taire la médisance,
+Grand opprobre, Madame.
+
+-*who_tante
+Il est rude en tout temps.
+
+-*who_lysette
+Et beaucoup plus encor quand on a nombre d'ans.
+Croyez-moy, sur ce point la médisance est vraye,
+Estant jeune, on se vend, estant vieille, l'on paye,
+Et je laisse à juger, la belle passion
+Qui s'allume ou s'éteint selon la Pension ?
+
+-*who_tante
+Ah, Lysette.
+
+-*who_lysette
+Excusez, je parle avec franchise.
+
+-*who_tante
+En est-il…
+
+-*who_lysette
+Non, témoin nostre vieille Marquise
+Qui ne pouvant trouver de galand tout entier
+Se contente, dit-on, qu'on serve⁎ par quartier.
+Pour quatre Pensions il faut bonne finance.
+
+-*who_tante
+Et puis, je n'ay pas lieu de fuïr la médisance ?
+
+-*who_lysette
+Ouy, sans doute, et de vous on en diroit autant.
+Mais en fait d'un mary ne barguignez point tant,
+Le vouloir jeune et riche…
+
+-*who_tante
+Eh, pour le bien, Lysette,
+Tu sçais que ce n'est pas…
+
+-*who_lysette
+L'affaire vaut donc faite,
+Le Baron d'Albikrac sera vostre vray fait.
+
+-*who_tante
+S'il a si bonne mine…
+
+-*who_lysette
+Ah, Madame !
+
+-*who_tante
+En effet,
+J'y puis songer.
+
+-*who_lysette
+Sur tout suivez ma tablature,
+Gardez toûjours la bourse, et donnez à mesure.
+Quand on a comme vous force écus bien comptez,
+On peut faire à propos ses liberalitez,
+Il est d'heureux moments où l'on trouve son compte.
+
+-*who_tante
+Si j'osois m'asseurer de Leandre ou d'Oronte,
+J'aurois bientost choisy.
+
+-*who_lysette
+Le respect les retient,
+Peut-estre ils parleront si nostre Baron vient.
+Souvent la jalousie est ce qui nous enflame.
+
+-*who_tante
+Mais il semble qu'Oronte et ma Niepce…
+
+-*who_lysette
+Madame.
+
+-*who_tante
+Tout de bon, à l'oreille il aime à luy parler.
+
+-*who_lysette
+Croyez qu'il ne luy dit que des comptes en l'air.
+Elle est si jeune encor…
+
+-*who_tante
+Défions-nous⁎ de l'âge,
+Il en est dés douze ans que la fleurete⁎ engage,
+Et le cœur…
+
+-*who_lysette
+Il est vray, c'est un oiseau si fin
+Qu'il faut pour l'attraper venir de bon matin,
+Mais quant à vostre niepce, à moins d'en vouloir rire,
+On ne peut…
+
+-*who_tante
+La voicy, voyez ce qui l'attire,
+Il faut que je l'éloigne.
+
+-*who_lysette
+Ah, gardez-vous-en bien.
+Vous sçavez que Leandre aime vostre entretien,
+Et s'il peut avec elle embarasser Oronte,
+Je croy qu'auprés de vous il trouvera son compte.
+
+-*who_tante
+Cela se pourroit bien, mais s'il falloit aussi
+Que ma Niepce…
+
+-*who_lysette
+N'ayez pour elle aucun soucy.
+
+**** *book_ *id_body-3-6 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Vous plaist-il que quelqu'un aille pour ces Tabletes⁎,
+Ma Tante ?
+
+-*who_tante
+Non, tantost.
+
+-*who_angelique
+Je croy qu'elles sont faites.
+
+-*who_tante
+N'importe, ce matin vos yeux sont mal ouverts.
+
+-*who_angelique
+Comment ?
+
+-*who_tante
+Vostre coifure est toute de travers,
+Bon Dieu ! cela fait peur.
+
+-*who_angelique
+Je me coife à ma mode,
+Ma Tante.
+
+-*who_tante
+En attendant qu'on vous la raccommode,
+Cachez-la tout au moins d'une Coife.
+
+-*who_angelique
+Et pourquoy ?
+Ay-je à plaire à quelqu'un ?
+
+-*who_tante
+C'est qu'il me plaist à moy.
+
+-*who_lysette
+Avec vos cheveux blonds en coquete fieffée,
+Vous vous imaginez estre fort bien coifée,
+Rien n'est plus ridicule, et Madame a raison,
+Mettez.
+
+-*who_angelique
+Mettre une Coife en gardant la maison !
+
+-*who_tante
+Que de raisonnements ! approchez.
+
+-*who_angelique
+Je deteste.
+
+-*who_lysette
+Voila proprement l'air d'une fille modeste,
+Mais Leandre…
+
+**** *book_ *id_body-3-7 *act_ *date_1667 *creator_corneille
+
+-*who_leandre
+Voyez si l'on se plaist chez vous,
+Madame.
+
+-*who_oronte
+C'est un bien dont chacun est jaloux.
+
+-*who_tante
+Vous le dites, je sçay ce qu'il faut que j'en croye.
+
+-*who_leandre
+Vous cacher de la sorte ! ah souffrez qu'on vous voye.
+Est-ce pour inspirer des desirs plus ardents ?
+
+-*who_tante
+Laissez, elle se plaint d'un si grand mal aux dents,
+Qu'elle souffriroit trop…
+
+-*who_angelique
+Il se passe, ma Tante.
+
+-*who_leandre
+Ostez donc.
+
+-*who_angelique
+L'osteray-je ?
+
+-*who_tante
+Ostez. L'impertinente !
+Vous prenez donc plaisir à montrer vostre nez ?
+J'en suis fort aise.
+
+-*who_lysette
+Ainsi les esprits sont tournez,
+Plus on défend…
+
+-*who_oronte
+Madame, on poursuit mon affaire,
+Vostre credit⁎ bientost me sera necessaire,
+J'ose en esperer tout.
+
+-*who_tante
+Il me sera bien doux
+D'avoir occasion de m'employer pour vous,
+Mon frere m'en écrit d'une assez bonne sorte
+Pour n'y rien negliger, et d'ailleurs, mais n'importe,
+L'effet vous montrera si je sers mes amis.
+
+-*who_leandre
+Ce titre est glorieux, vous me l'avez promis.
+
+-*who_tante
+Vous y pretendez donc ?
+
+-*who_leandre
+Beaucoup plus que personne.
+
+-*who_tante
+Si je ne suis pas belle, au moins suis-je assez bonne,
+Et c'est toûjours dequoy réparer ce defaut.
+
+-*who_leandre
+Defaut, Madame ?
+
+-*who_tante
+On sçait un peu ce que l'on vaut,
+Et sans ce grand éclat d'une beauté brillante
+Quelquefois une femme a l'heur d'estre touchante,
+Il est mille agréements…
+
+-*who_leandre
+C'est ce qu'on voit en vous,
+Et l'assemblage en est si charmant et si doux
+Que j'admire souvent en vous voyant paroistre…
+
+-*who_tante
+Vous avez assez l'air de vous y bien connoistre.
+
+-*who_leandre
+Par ce que je vous dis du moins vous l'éprouvez.
+
+-*who_tante
+Angelique.
+
+-*who_angelique
+Ma Tante.
+
+-*who_oronte
+Enfin donc vous trouvez
+Ma garniture⁎ belle ?
+
+-*who_angelique
+Ouy belle, et des plus belles.
+
+-*who_lysette
+J'écoute, il ne luy dit que pures bagatelles,
+Et vous laisse par là Leandre à gouverner.
+
+-*who_tante
+Quel âge croyez-vous qu'on me puisse donner ?
+
+-*who_leandre
+Vous n'estes qu'une Fille, et sans vostre veusvage
+Je vous croirois trop jeune encor pour le ménage.
+Vingt et un an au plus.
+
+-*who_lysette
+Où les va-t'il chercher ?
+
+-*who_tante
+Non, j'en puis avoir Trente, et n'en veut point cacher.
+
+-*who_leandre
+Quoy, trente, et dans cet âge un brillant de jeunesse…
+
+-*who_tante
+J'ay pourtant eu souvent grand sujet de tristesse,    
+Du vivant du bon homme, ah grands Dieux quels ennuis⁎ !
+C'estoient de tristes jours.
+
+-*who_lysette
+Et de plus tristes nuits.
+
+-*who_leandre
+Qu'un Vieillard ait eu l'heur d'obtenir… J'en soûpire.
+
+-*who_tante
+Que j'ay versé de pleurs !
+
+-*who_leandre
+Au moins dans ce martyre
+Grace à sa prompte mort peu de temps s'écoula ?
+
+-*who_tante
+Quinze ans s'y sont passez.
+
+-*who_lysette
+Et quinze par de-là.
+
+-*who_leandre
+Quel supplice ! et vos yeux aprés quinze ans de larmes
+Ont trouvé le secret de conserver leurs charmes ?
+Que de jaloux debats vont causer vos attraits !
+
+-*who_tante
+L'hymen n'a pas grand lieu de toucher mes souhaits,
+Et quitte des ennuis⁎ dont j'ay trop fait l'épreuve,
+J'aime assez le repos qui suit l'état de Veusve.
+Je vis tranquille, heureuse.
+
+-*who_leandre
+Et vous faites fort bien,
+C'est en cela…
+
+-*who_tante
+Pourtant je n'ay juré de rien,
+Et selon…
+
+-*who_leandre
+D'ordinaire où sont vos promenades ?
+
+-*who_tante
+Où l'on veut.
+
+-*who_leandre
+A Saint Clou les charmantes cascades !
+Vous allez fort souvent en ces aimables lieux ?
+
+-*who_tante
+Pas trop.
+
+-*who_leandre
+Dites le vray, Vincennes vous plaist mieux.
+
+-*who_tante
+On ne se divertit dans toutes ces Parties
+Que selon qu'elles sont bien ou mal assorties,
+Le goust dépend des lieux beaucoup moins que des gens,
+Quand ils sont bien choisis…
+
+-*who_leandre
+C'est comme je l'entens.
+
+-*who_tante
+Si bien que vous croiriez qu'une haine si forte
+Contre le mariage en aveugle m'emporte,
+Que seure qu'on m'aimast j'eusse assez de rigueur
+Pour voir un vray merite⁎ et défendre mon cœur ?
+
+-*who_leandre
+Qu'il en faudroit, Madame, et qu'il est difficile
+Que vous ne rendiez pas ce merite⁎ inutile !
+En est-il qui ne céde, en voyant éclater…
+
+-*who_tante
+Mon Dieu, ne perdez point le temps à me flater,
+Je n'aime point l'encens.
+
+-*who_leandre
+Puisque c'est vous déplaire
+Je le quitte, Madame, et change de matiere.
+Croyez-vous qu'à la Cour Ariste ait du credit⁎ ?
+
+-*who_tante
+Vous n'expliquez pas bien ce que je vous ay dit.
+Si j'ay quelque merite⁎, il n'est pas raisonnable
+De prétendre qu'à peine⁎ il s'en trouve un semblable,
+Et quelqu'un que je sçay vaut tout ce que je vaux.
+
+-*who_lysette
+Bon cela.
+
+-*who_leandre
+Ce quelqu'un n'a donc point de defauts ?
+
+-*who_tante
+Vous le connoissez bien.
+
+-*who_leandre
+Moy, Madame ?
+
+-*who_tante
+Vous mesme.
+
+**** *book_ *id_body-3-8 *act_ *date_1667 *creator_corneille
+
+-*who_cascaret
+Madame.
+
+-*who_tante
+Que veut-on ?
+
+-*who_cascaret
+La Marquise d'Amblesme…
+
+-*who_tante
+Et bien, qu'est-ce ?
+
+-*who_cascaret
+Elle vient.
+
+-*who_tante
+Qu'a-t'elle à me conter⁎ ?
+
+-*who_lysette
+C'est peut-estre un galant qu'elle veut emprunter.
+
+-*who_tante
+Qu'on la reçoive ailleurs. L'incommode personne !
+Ah !
+
+-*who_leandre
+Si tu m'y retiens, va, je te le pardonne.
+Peste soit de la vieille !
+
+-*who_tante
+Allez l'entretenir,
+Je vous suy.
+Demeurez, je m'en vay revenir.
+
+-*who_oronte
+Quelle est cette Marquise ?
+
+-*who_tante
+Une Sempiternelle,
+Qui passe soixante ans, et fait encor la belle.
+Elle aime la fleurete⁎, et la moindre douceur⁎
+Luy fait ouvrir l'oreille, et chatoüille le cœur.
+C'est un Original.
+
+-*who_lysette
+L'impertinence extrême
+De faire son portrait et se railler soy-mesme !
+
+-*who_oronte
+Elle vous fournit bien dequoy vous divertir ?
+
+-*who_tante
+Et qui ne riroit pas de l'entendre mentir
+Que pour elle en secret plus d'un Chevalier brûle,
+Que Monsieur le Marquis s'en meurt.
+
+-*who_leandre
+La ridicule !
+
+-*who_tante
+Je l'aurois avec nous mise de l'entretien,
+Mais vous n'en auriez pas esté quites pour rien,
+Et nous n'eussions point veu la fin de la visite.
+Adieu, pour un moment souffrez que je vous quitte,
+Je sçauray m'en défaire, et perdray peu de temps.
+
+**** *book_ *id_body-3-9 *act_ *date_1667 *creator_corneille
+
+-*who_leandre
+Faites icy le sot, pour moy si je l'attens…
+
+-*who_oronte
+Amy, songez de grace…
+
+-*who_leandre
+Il n'est amy qui tienne,
+Pour couvrir vostre jeu cherchez qui l'entretienne,
+J'ay paré de mon mieux les plus dangereux coups,
+Mais tirer à la rame est un mestier plus doux.
+Au moindre jour offert d'union conjugale,
+Elle en fait seul à seul un fort joly régale.
+J'en ay tremblé deux fois, et j'ay crû que tout net
+J'allois pour l'épouser estre pris au colet.
+
+-*who_lysette
+C'est l'unique moyen de l'ébloüir⁎.
+
+-*who_leandre
+N'importe.
+
+-*who_oronte
+M'abandonneriez-vous au besoin⁎ de la sorte ?
+Il y va de ma vie, et si vous faites cas…
+
+-*who_leandre
+Vivez, mais s'il vous plaist que je ne meure pas.
+Encor un teste à teste, et le moins qui m'arrive
+C'est de perdre l'esprit.
+
+-*who_lysette
+La défaite est naisve.
+Mais nostre Niepce enfin ?
+
+-*who_oronte
+Qu'elle est aimable ! Ah Dieux !
+
+-*who_lysette
+Son entretien est-il aussi doux que ses yeux ?
+
+-*who_oronte
+Qu'il est remply d'appas⁎ ! j'en suis charmé, Lysette.
+
+-*who_lysette
+Vous a-t'elle promis audience secrete ?
+
+-*who_oronte
+Ouy, si la Tante ailleurs se laissant engager
+T'asseure les moyens de me la ménager,
+Tout dépend de tes soins⁎.
+
+-*who_lysette
+Ou plûtost de Leandre,
+Qu'il prenne un rendez-vous…
+
+-*who_leandre
+Bon soir.
+
+-*who_oronte
+Vous en défendre,
+Amy, quand il y va de tout l'heur de mes jours ?
+
+-*who_leandre
+Faut-il combatre icy des Lyons et des Ours,
+Forcer quelque Chasteau, m'opposer seul à trente ?
+A cela je suis prest, mais ma foy, pour la Tante…
+
+-*who_lysette
+Ah si vostre Breton estoit prest d'arriver !
+
+-*who_oronte
+L'argent comptant le charme, il viendra nous trouver,
+Et craignant qu'on ne songe à presser les affaires,
+Il m'envoye un Pouvoir passé devant Notaires,
+Mais de plus de dix jours il ne sçauroit partir.
+
+-*who_lysette
+Et Leandre pour rien ne voudra consentir…
+
+-*who_leandre
+Non, mais à mon defaut employez la Montagne,
+Qu'il fasse quelques jours le Baron de Bretagne,
+On ne le connoit point.
+
+-*who_lysette
+A-t'il un peu d'esprit ?
+
+-*who_oronte
+Que trop ; quoy qu'il boufonne, il sçait bien ce qu'il dit,
+Le voicy qu'à propos Philipin nous amene.
+
+**** *book_ *id_body-3-10 *act_ *date_1667 *creator_corneille
+
+-*who_leandre
+As-tu veu le Marquis ?
+
+-*who_la_montagne
+J'ay bien eu de la peine.
+
+-*who_leandre
+Viendra-t'il ?
+
+-*who_la_montagne
+Ouy, Monsieur, où vous lui marquez.
+
+-*who_leandre
+Bon
+Mais ici cependant il nous manque un Baron.
+Peux-tu le devenir ?
+
+-*who_la_montagne
+Moy, Baron ? et de reste.
+
+-*who_oronte
+Tu connois Albikrac ?
+
+-*who_la_montagne
+C'est un gaillard, la peste !
+
+-*who_oronte
+Il faut passer pour luy.
+
+-*who_la_montagne
+Je suis vostre homme, allez,
+Vous me verrez Baron, et des plus signalez.
+
+-*who_lysette
+Donc sans plus balancer, dés cette apresdinée
+Qu'il s'en vienne nous faire un début d'hymenée,
+La Tante l'attendra dans son appartement,
+Et nous nous servirons de cet heureux moment.
+
+-*who_oronte
+Mais pour voir en secret ton aimable Maistresse ?
+
+-*who_lysette
+Vous avez belle peur que je manque d'adresse.
+Que Philipin au guet ait soin de se montrer,
+Je viendray l'avertir quand vous pourrez entrer.
+
+-*who_oronte
+Adieu donc, nous allons en Baron de Campagne
+Travestir décemment Monsieur de la Montagne,
+Si la Tante se plaint de ne nous trouver plus,
+Dy que…
+
+-*who_lysette
+Vous me donnez des avis superflus,
+Suffit que du Baron j'auray receu message,
+Au moins faites-luy bien jouër son personnage.
+
+-*who_la_montagne
+Va, je sçay mon mestier, n'en sois point en soucy⁎.
+As-tu plus de quinze ans ?
+
+-*who_lysette
+Environ, Dieu mercy.
+
+-*who_oronte
+Sors viste, s'il falloit qu'on te vist avec elle,
+Tu perdrois tout.
+
+-*who_la_montagne
+Adieu, tendre et jeune pucelle,
+Jusqu'au revoir.
+
+-*who_philipin
+Lysette, Ah !
+
+-*who_lysette
+Quel diantre de ton !
+Tu gemis ?
+
+-*who_philipin
+Que je crains la Montagne Baron.
+
+**** *book_ *id_body-4-1 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Philipin m'attendoit par l'ordre de son Maistre,
+Icy dans un moment vous l'allez voir paroistre,
+L'avis luy sera doux.
+
+-*who_angelique
+Lysette, en vérité
+Ce que tu me fais faire est bien précipité ;
+Permettre qu'en secret un Galand m'entretienne.
+
+-*who_lysette
+Voulez-vous que je coure empescher qu'il ne vienne ?
+
+-*who_angelique
+Non, mais n'est-ce point trop…
+
+-*who_lysette
+Voilà bien des façons !
+Eh, mon Dieu, hardiment prenez de mes leçons,
+Vous m'en remercierez quelque jour.
+
+-*who_angelique
+Mais Lysette,
+J'accorde une faveur peut-estre en indiscrete⁎,
+Et si de moy par elle Oronte veut juger…
+
+-*who_lysette
+Quoy, la Tante aura droit de nous faire enrager,
+Et vous craindrez…
+
+-*who_angelique
+Je crains d'affoiblir son estime.
+
+-*who_lysette
+Un entretien secret n'est pas un si grand crime,
+Et d'un joug trop pressant pour fuir les durs apprests
+Il n'y faut pas toûjours regarder de si prés.
+Pour moy, de tous les maux où l'on s'impatiente,
+Je n'en croy point d'affreux comme le mal de Tante,
+Il suffoque, et jamais un moment de repos.
+
+-*who_angelique
+Toutes n'agissent pas du mesme air⁎.
+
+-*who_lysette
+En deux mots
+La vostre est une Turque⁎, une Arabe⁎, et le Diable
+N'en fourniroit qu'à peine⁎ encor une semblable,
+Elle ne peut souffrir que vous leviez les yeux,
+Il faut qu'on soit pour elle, obligeant, gracieux,
+Qu'on louë à tous moments les beautez qu'elle achepte.
+
+-*who_angelique
+Mais si nous soupçonnant d'une intrigue secrete
+Elle nous découvroit, tout seroit lors perdu.
+
+-*who_lysette
+Elle attend ce Baron si long-temps attendu,
+De miroir en miroir se façonnant la bouche,
+Elle oste, et puis remet dix fois la mesme mouche,
+Dans ce soin d'agréements songera-t'elle à vous ?
+
+-*who_angelique
+Ainsi, c'est tout de bon qu'il luy vient un Espoux.
+Est-il assez bien fait pour luy plaire ?
+
+-*who_lysette
+Peut-estre                 30
+En ay-je un peu plus dit qu'on n'en verra paroistre,
+Mais sur la bonne mine il faut nous récrier.
+Dans la demangeaison de se remarier
+Elle nous en croira.
+
+-*who_angelique
+Mais l'affaire estant faite,
+Comme alors elle aura tout ce qu'elle souhaite,
+Ce rendez-vous secret à quoy bon l'accorder ?
+Oronte ouvertement pourra me demander.
+
+-*who_lysette
+Ouy, mais d'où pouvez-vous tirer un seur indice
+Que pour ses durs appas⁎ le Baron s'attendrisse ?
+Qu'il vueille d'elle aprés qu'il en aura goûté ?
+Servons-nous de ce temps pour plus de seureté,
+Par quelques entretiens éprouvez-vous l'un l'autre,
+Voyez si son humeur se rapporte à la vostre,
+Si toûjours elle aura pour vous mesmes appas⁎,
+Là, l'aimez-vous un peu ?
+
+-*who_angelique
+Je ne m'y connois pas,
+Mais tantost prest d'entrer, le voyant dans la ruë
+De ma Chambre icy bas je suis viste accouruë,
+Et j'eusse eu grand dépit qu'on m'eust voulu chasser.
+
+-*who_lysette
+Continuez, cecy n'est point mal commencer.
+
+-*who_angelique
+D'ailleurs, quand on le nomme ou qu'il nous rend visite,
+Certain je ne sçay quoy fait que mon cœur palpite,
+J'aime à le regarder, et soûpirant tout bas
+J'ay des troubles d'esprit que je ne comprens pas.
+Si-tost qu'il est party, je resve⁎. Quand on aime,
+Est-ce là comme on est, Lysette ?
+
+-*who_lysette
+Tout de mesme.
+L'Amour en peu de temps vous en a bien appris,
+Mais Oronte…
+
+-*who_angelique
+Il vient. Dieux !
+
+-*who_lysette
+Reprenez vos esprits.
+
+-*who_angelique
+Que luy pourray-je dire, et…
+
+-*who_lysette
+S'il faut ne rien taire,
+Vous faites l'innocente, et vous ne l'estes guere.
+
+**** *book_ *id_body-4-2 *act_ *date_1667 *creator_corneille
+
+-*who_oronte
+Madame.
+
+-*who_lysette
+En liberté je vous laisse jaser⁎,
+Nostre Tante est à craindre, et je cours l'amuser.
+
+-*who_oronte
+Enfin mon heureux sort aprés tant de contraintes,
+De mes tristes langueurs soulage les atteintes,
+Et sans estre gesné⁎ par des regards jaloux
+Je puis vous dire icy ce que je sens pour vous.
+Mais que sert que ma bouche à l'expliquer s'employe ?
+Pour vous marquer ma flame il suffit de ma joye,
+Et quand l'occasion rend le temps pretieux
+Il faut dans ce moment laisser parler les yeux.
+C'est là que sans reserve en voyant ce qu'on aime
+Tout le secret du cœur se produit de luy mesme,
+Et qui prend part au feu qui le fait éclater
+N'a besoin que de voir, et non pas d'écouter.
+
+-*who_angelique
+J'ay trop peu de clartez pour pouvoir bien comprendre
+Ce que de vos secrets je dois vouloir apprendre,
+Mais je sçay qu'un motif que je croy genereux
+M'oblige à souhaiter que vous soyez heureux,
+Qu'à vous combler de gloire⁎ à l'envy⁎ tout conspire.
+
+-*who_oronte
+Ce souhait est beaucoup, mais si j'ose le dire
+Dans ce que vos appas⁎ ont pour moy d'engageant,
+S'il n'est que genereux, il n'est point obligeant.
+A moins qu'il soit l'effet d'une estime empressée,
+D'un tendre mouvement où vous soyez forcée,
+D'une inquiete ardeur…
+
+-*who_angelique
+Ah, que vous me gênez⁎ !
+J'ay bien peur de sçavoir ce que vous m'apprenez,
+Ne l'examinons point, et quoy qu'il en puisse estre…
+
+-*who_oronte
+Craignez-vous de m'aimer ?
+
+-*who_angelique
+Je le fais mal paroistre,
+Mais au moins je devrois malgré vos vœux soûmis
+Craindre de vous aimer plus qu'il ne m'est permis.
+
+-*who_oronte
+Helas ! le pouvez-vous quand ma flame est extréme,
+Et que l'Amour n'a point d'autre prix que luy mesme ?
+Non, quoy que vous fassiez, pour vaincre le soucy⁎…
+
+-*who_angelique
+N'est-ce point déja trop que vous souffrir icy ?
+J'en rougis, et s'il faut que ma Tante soupçonne…
+
+-*who_oronte
+A ce scrupule en vain vostre esprit s'abandonne⁎,
+Lysette y met bon ordre, et seconde mon feu,
+Il s'agit seulement d'obtenir vostre aveu,
+Me l'accorderez-vous ?
+
+-*who_angelique
+Ce qu'icy je hazarde
+Ne vous répond que trop de ce qui me regarde,
+Mais songez que les loix d'un rigoureux devoir
+Me forcent d'une Tante à craindre le pouvoir,
+Que mon Pere en mourant me mit sous sa conduite,
+Que par quelque interest elle m'aime à sa suite,
+Et qu'avant que pour moi vous puissiez rien oser,
+Il faut qu'elle ait trouvé qui la vueille épouser.
+Il s'offre, m'a t'on dit, un Baron d'importance,
+Si l'affaire se fait…
+
+-*who_oronte
+Vivons en esperance,
+Quelque obstacle qui tienne un esprit alarmé,
+Pour vaincre tout, Madame, il suffit d'estre aimé.
+
+-*who_angelique
+J'aurois peut-estre deu m'en tenir à l'estime,
+Mais puisque vous brûlez d'un feu si legitime,
+Que depuis si long-temps que vous le contraignez
+L'amour est tel en vous que vous me le peignez,
+Je ne me defens plus.
+
+**** *book_ *id_body-4-3 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+La peinture est jolie,
+Le rouge vous sied bien, vous estes embellie,
+L'appetit au besoin vous viendroit en parlant,
+Vrayement, j'en suis d'avis, il vous faut un Galant.
+
+-*who_angelique
+Moy, ma Tante ?
+
+-*who_tante
+Voyez la petite effrontée.
+Je ne vous ay donc pas tout à l'heure écoutée,
+Quand sur ce bel amour qui le faisoit agir…
+
+-*who_oronte
+Madame.
+
+-*who_tante
+Allez, Monsieur, vous devriez rougir,
+Et du moins ce n'est pas à d'honnestes familles
+Qu'on se doit adresser pour corrompre des filles.
+
+-*who_oronte
+L'hymen estant le but qui m'a fait la prier
+D'entendre…
+
+-*who_tante
+Il n'est icy personne à marier,
+Parler d'amour chez moi ! vous estes fort mignonne.
+
+-*who_angelique
+Ne croyez pas…
+
+-*who_tante
+Comptez, je vous la garde bonne,
+Et si…
+
+-*who_angelique
+Venez encor emprunter mon secours,
+J'ay bien affaire, moy, de vos sotes amours.
+
+-*who_tante
+Quoy, que veut-elle dire ?
+
+-*who_angelique
+Et bien, il me faut taire,
+Cela ne serviroit qu'à vous mettre en colere
+Mais si jamais il vient me demander appuy…
+
+-*who_tante
+Comment ? est-ce qu'il veut que vous parliez pour luy ?
+
+-*who_oronte
+Qu'allez-vous dire ?
+
+-*who_angelique
+Tout, et devant tout le monde ;
+Voyez, il faut pour vous, Monsieur, que l'on me gronde.
+Je vous l'avois bien dit renvoyant vos amours
+Que ma Tante vouloit rester veusve toûjours.
+Elle en a fait bon vœu.
+
+-*who_tante
+C'est mon dessein sans doute,
+Et qui parle d'amour Dieu sçait si je l'écoute,
+Je n'en veux point.
+
+-*who_oronte
+Madame, il n'y faut plus penser ;
+Et puisque je connoy que c'est vous offencer…
+
+-*who_tante
+Laissez, par le recit que je veux qu'elle fasse
+J'auray lieu de juger s'il faut lui faire grace.
+Ce doit estre sa peine aprés ce qu'elle a fait.
+
+-*who_oronte
+Vous haïssez la cause, épargnez-vous l'effet.
+
+-*who_angelique
+Oyez donc.
+
+-*who_oronte
+L'embarras où vous nous allez mettre.
+
+-*who_angelique
+Mais quand vous aurez sçeu ce qu'il m'a fait promettre,
+Contre moy tout d'un coup je crains bien de vous voir…
+
+-*who_oronte
+Ah, ne l'apprenez point.
+
+-*who_tante
+Non, je veux tout sçavoir.
+Pourquoy seule avec luy ?
+
+-*who_angelique
+C'est qu'il m'a rencontrée,
+Et qu'il entroit icy comme j'y suis entrée.
+Il venoit…
+
+-*who_oronte
+Sans donner de plus forte raison
+Dites que je venois pour voler la maison,
+Je l'avoüeray plûtost que…
+
+-*who_tante
+Qu'est-ce qu'il vous conte⁎ ?
+
+-*who_angelique
+Qu'à vous expliquer tout il va mourir de honte,
+Mais en vain il prétend que j'ose rien cacher.
+
+-*who_oronte
+Je suis pris.
+
+-*who_angelique
+Enfin donc il venoit vous chercher,
+Et m'ayant apperceuë, il m'a fait la peinture
+De je ne sçay quels maux que pour vous il endure ;
+Que depuis qu'il vous voit il languit nuit et jour,
+Et que si je n'avois pitié de son amour…
+A ce nom j'ai crié furieuse, en colere,
+Ainsi que vous m'avez appris qu'il falloit faire.
+Il m'a toûjours pressée, et moy j'ay toûjours dit
+Que sans doute il falloit qu'il eust perdu l'esprit,
+Que vous oser parler pour luy, ny pour personne,
+C'estoit… Il vous dira si pour vous je raisonne.
+Il m'a dit que sçachant vostre temperament
+Il ne vous falloit pas presser ouvertement,
+Mais qu'au moins on pouvoit de loin vous faire entendre
+Que vous estiez encore dans un âge assez tendre,
+Qu'aussi fraîches que vous peu se feroient prier
+Pour choisir un brave homme, et se remarier,
+Et que selon l'humeur où je vous verrois estre,
+Je servirois⁎ sa flame, et la ferois connoistre.
+Alors, je l'avoüeray, c'est en quoy j'ay manqué.
+Sensible à l'air touchant dont il s'est expliqué
+J'ay promis, sans penser pourtant faire un grand crime,
+Que puisque son amour estoit si legitime,
+Qu'il m'en peignoit le feu si plein d'ardeur…
+
+-*who_tante
+Rentrez.
+
+**** *book_ *id_body-4-4 *act_ *date_1667 *creator_corneille
+
+-*who_oronte
+Ma presence vous choque, et je vay…
+
+-*who_tante
+Demeurez.
+
+-*who_oronte
+Madame, le regret d'avoir pû vous déplaire…
+
+-*who_tante
+J'aurois quelque sujet d'estre assez en colere.
+
+-*who_oronte
+Vous l'avez. Je l'avouë, aussi je vous promets
+Que de moy sur ce point vous n'en aurez jamais,
+Je sçay trop pour l'amour jusqu'où va vostre hayne.
+
+-*who_tante
+Pour le moins jusqu'icy je l'ay vaincu sans peine.
+
+-*who_oronte
+Tout le monde en convient, et c'est estre indiscret
+D'avoir à vostre Niepce expliqué mon secret,
+Mais que ne fait-on point quand un mal est extréme ?
+
+-*who_tante
+Et pourquoy ne vous pas adresser à moy-mesme ?
+
+-*who_oronte
+A vous-mesme, Madame ? helas ! et de quel air⁎ ?
+Non, je mourrois plûtost que de vous en parler,
+Mais si vous faites grace à l'ardeur de mon zele,
+Souffrez que quelquefois j'en soûpire avec elle,
+C'est tout ce que je veux pour prix d'un si beau feu.
+
+-*who_tante
+Il me paroist trop beau pour obtenir si peu.
+Pour prix de vostre amour, si sa flame est constante,
+Il vaut mieux que j'en sois la seule confidente,
+A ma Niepce sur tout n'en témoignez plus rien,
+Dans un si jeune esprit un secret n'est pas bien.
+
+-*who_oronte
+Quoy, pour me soulager vous pourriez vous contraindre
+A souffrir ce qu'ailleurs on vous voit le plus craindre ?
+Vous que l'amour offence, et dont l'aversion
+Vient de paroistre encore pour cette passion,
+Vous qui loin d'excuser l'innocente peinture
+Dont…
+
+-*who_tante
+Il faut quelquefois garder quelque mesure,
+Et devant une Fille il est bon de blâmer
+Ce qui leur peut apprendre à se laisser aimer.
+Ce sont tendres esprits qui sans leçon ny maistre
+Ne sçavent que trop-tost d'où ce panchant peut naistre,
+Et pour rendre l'amour à leur goust moins charmant
+On leur en fait un Monstre, et l'on pense autrement.
+Ce n'est pas qu'il ne soit des douceurs⁎ au veusvage
+Qui valent quelquefois celles du mariage.
+Vivre comme on l'entend, ne répondre qu'à soy…
+
+-*who_oronte
+Ah, n'apprehendez point de les perdre pour moy.
+Vous me donnez l'exemple, et je dois sans m'en plaindre
+Quand vous vous contraignez, apprendre à me contraindre,
+Sur moy-mesme à mon tour prendre assez de pouvoir…
+
+-*who_tante
+Je ne dis pas cela pour me faire valoir,
+Au contraire, je veux…
+
+**** *book_ *id_body-4-5 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Voicy, qu'on vous apporte
+De ces petits Tableaux.
+
+-*who_oronte
+Bon.
+
+-*who_angelique
+L'homme est à la porte,
+Le feray-je entrer ?
+
+-*who_tante
+Non, qu'il revienne. Est-ce fait ?
+L'étourdie, est-il temps…
+
+-*who_oronte
+C'est pour un cabinet ?
+Voyons-les.
+
+-*who_angelique
+Il en a des plus jolis du monde.
+
+-*who_tante
+Quelle stupide ! encor ? l'espoir où je me fonde
+C'est que me connoissant…
+
+-*who_angelique
+S'il les vouloit laisser ?
+Il peut les vendre ailleurs.
+
+-*who_tante
+Il s'en faudra passer,
+Qu'il les vende, ce soin vous rend officieuse⁎ ?
+Si…
+
+-*who_oronte
+Le friand⁎ragoust⁎ qu'une vieille amoureuse !
+
+**** *book_ *id_body-4-6 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Sans trop de vanité je pourrois me flater
+Qu'il n'a tenu qu'à moy jusqu'icy d'écouter,
+Cent fois, le défunt mort, on m'a persecutée,
+Officiers, gens de Cour, mais rien ne m'a tentée.
+J'ay mesme depuis peu receu de tous costez
+Pour un certain Baron mille importunitez.
+On m'en veut malgré moy donner la connoissance.
+
+-*who_oronte
+Quel est-il ?
+
+-*who_tante
+Un Breton de fort haute naissance⁎,
+Albikrac. C'est un nom assez connu de tous.
+Il vous donne à resver⁎, en estes-vous jaloux ?
+
+-*who_oronte
+Pour m'oublier ainsi je sçay trop me connoistre.
+
+-*who_tante
+Du moins vous n'aurez pas long-temps sujet de l'estre ;
+Une visite ou deux puisque je l'ay promis,
+Aprés, ne craignez rien, nous vivrons bons amis.
+
+-*who_oronte
+Vous priver de sa veuë, et que rien m'autorise…
+
+**** *book_ *id_body-4-7 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Ah, ma Tante, voicy ce beau point de Venise.
+
+-*who_tante
+A-t'on jamais…
+
+-*who_angelique
+Vos yeux en vont être ébloüis⁎.
+
+-*who_oronte
+Ah, Madame !
+
+-*who_angelique
+On l'aura peut-estre à vingt Loüis.
+Voyez ce long branchage, et ces Fleurs qui se jettent.
+
+-*who_oronte
+On surfait de moitié quand les hommes acheptent.
+On m'en fit un quarante encor hier au matin
+Qui n'est pas…
+
+-*who_angelique
+Le Tissu n'en peut être plus fin.
+
+-*who_tante
+Il est assez passable, allez, qu'on me le garde,
+Nous le verrons tantost.
+
+-*who_oronte
+Dieux !
+
+-*who_angelique
+Plus je le regarde,
+Plus je l'aime. Voyez de l'un à l'autre bout,
+L'ouvrage saute aux yeux, il est égal par tout.
+
+-*who_tante
+Ne finirez-vous point ? que veut encor Lysette ?
+
+**** *book_ *id_body-4-8 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Le Baron d'Albikrac…
+
+-*who_oronte
+Enfin ma tâche est faite,
+Respirons.
+
+-*who_lysette
+Ah, Madame, il n'est rien plus galant.
+
+-*who_oronte
+Ces Messieurs les Barons font valoir le talent,
+Ce sont gens du bel air⁎.
+
+-*who_tante
+Vous avez de l'ombrage⁎.
+
+-*who_oronte
+Madame.
+
+-*who_tante
+Il ne faut pas m'en dire davantage,
+J'y pourvoiray. Qu'il entre, il faut le recevoir.
+Demeurez. Vous, Lysette, ayez soin du mouchoir.
+Nous laisser seul à seul surprendre en confidence
+Seroit sans aucun fruit choquer la bienseance.
+
+-*who_oronte
+Madame.
+
+-*who_tante
+Sans cela j'aurois sceu prendre soin
+De n'avoir pas ma Niepce avec nous pour témoin.
+Du moins tenez vous seur, quand je le pourray faire,
+Que vous n'aurez jamais ce chagrin.
+
+-*who_oronte
+Pour vous plaire
+Je l'essuyeray sans peine, et consens que par là…
+
+**** *book_ *id_body-4-9 *act_ *date_1667 *creator_corneille
+
+-*who_la_montagne
+Qui des deux est la Tante ? à l'âge, la voila.
+Pardonnez, je sçay bien que ce vilain mot d'âge
+Aux Belles comme vous tient toûjours lieu d'outrage,
+Mais il ne vous en fait aucun, et tout de bon
+Vous chercher à deux fois auprès d'une Poupon,
+Auprés de cette Niepce à peine⁎ encor au monde
+C'est une gloire⁎ en vous qui n'a point de feconde.
+On m'en avoit bien dit, et j'en trouve encor plus.
+
+-*who_angelique
+Que diray-je, ma Tante ?
+
+-*who_la_montagne
+A d'autres cet abus⁎,
+Ma Tante !
+
+-*who_tante
+Je la suis.
+
+-*who_la_montagne
+Et celle-cy, la Niepce ?
+
+-*who_tante
+Elle s'est déclarée.
+
+-*who_la_montagne
+Ouy, pour me faire piece⁎,
+Comme Provincial vous voulez me sonder,
+Mais ce n'est pas à moy qu'on en baille⁎ à garder.
+
+-*who_tante
+On ne vous trompe point.
+
+-*who_la_montagne
+Quoy, vous seriez la Tante ?
+
+-*who_tante
+Moy-mesme.
+
+-*who_la_montagne
+Je ne sçay si le Diable me tente,
+Mais je sçay qu'il me fait vouloir que cela fust.
+Ah, quel plaisir alors de s'aimer but à but,
+Car ne pouvant causer qu'un mal de cœur extréme
+Tel qu'on l'auroit pour vous, vous l'auriez tout de mesme,
+Mal de cœur en amour est un drôle de mal.
+Mais qui de notre Tante est donc l'Original ?
+Sans railler est-ce vous ?
+
+-*who_tante
+Je ne suis point surprise
+De vous voir affecter exprés cette méprise,
+Vous estes obligeant, et me voulez flater.
+
+-*who_la_montagne
+Non, ma foy ; j'enrageois d'avoir lieu de douter,
+Et déja je songeois à trouver quelque adresse
+Pour planter là la Tante, et donner sur la Niepce.
+
+-*who_tante
+Ma Niepce est-elle si…
+
+-*who_la_montagne
+Chacun vaut son prix,
+Mais enfin.
+
+-*who_angelique
+Est-il fou de s'estre ainsi mépris ?
+
+-*who_lysette
+Le beau jeune Seigneur ! qu'il est bien fait !
+
+-*who_la_montagne
+Ma mere
+A pris aussi, dit-on, grand plaisir à me faire,
+Et je m'en suis senty, car certain air⁎ gaillard
+Que j'ay d'elle hérité me rend tout égrillard.
+Je vous divertiray, belle Tante. Ah, ma Niepce,
+Il faut ceder, la Tante est la mesme jeunesse,
+Certains traits enfantins, doux, mignons, delicats…
+
+-*who_tante
+Ne me loüez point tant.
+
+-*who_la_montagne
+Je ne vous loüerois pas
+Vous que je voy briller comme fleur Printaniere ?
+Dieu me sauve, il n'est point… montrez-vous par derriere,
+Vous estes encor mieux, et si propre à charmer
+Qu'il ne faut point vous voir afin de vous aimer,
+Le port beau, l'air poupin. J'en tiens et sans remede.
+Quelle taille !
+
+-*who_tante
+Il en est qui l'ont un peu plus laide.
+
+-*who_la_montagne
+Comment Diable ! et de plus de cinquante carats.
+
+-*who_lysette
+Qu'il a d'esprit, Madame !
+
+-*who_la_montagne
+Ah, l'on n'en doute pas.
+
+-*who_tante
+Vous estes tout resveur.
+
+-*who_la_montagne
+J'eusse eu peine à m'en taire
+Si vous ne l'eussiez dit. Resve⁎-t'il d'ordinaire ?
+C'est un mal de chagrin dont je crains les accez.
+
+-*who_tante
+Il est à pardonner quand on a des procez.
+
+-*who_la_montagne
+Monsieur en a ? tant pis. Monsieur est de Province ?
+
+-*who_oronte
+Auvergnac.
+
+-*who_la_montagne
+On pretend vostre Noblesse mince,
+Et vous venez icy la rehabiliter ?
+
+-*who_oronte
+Je crains peu que l'on songe à m'en inquieter.
+
+-*who_la_montagne
+J'en connoy soy disans issus de haute race
+Nobles comme le Roy qu'on remet dans la crasse.
+Parmy de vieux papiers abandonnez aux Rats
+Ils ont beau la pluspart dénicher des Contracts,
+Leur Gentilhommerie estant toute en paroles
+Ne se trouve de poids qu'à celuy des pistoles ;
+A nous autres Barons qu'on voit hors du commun
+On n'a pas dit un mot, moins à moy qu'à pas un.
+Aussi par tout le bruit de ma Noblesse craque,
+Mon Pere estoit Kerling, et ma Mere Albikraque,
+Deux Familles, pensez, d'éclat et de renom.
+Qu'on s'informe, on verra si quelqu'un dira, non.
+
+-*who_tante
+Vous n'avez pas sujet…
+
+-*who_la_montagne
+Je vous trouve inquiete,
+Est-ce que vous craignez de me sembler mal faite ?
+Ma foy, quand tout exprés pour me rostir d'amour
+L'Ouvrier qui vous fit vous auroit faite au tour,
+Qu'il auroit compassé pour me rendre tout vostre
+Chaque connexité d'un membre avecque l'autre,
+Vous ne me plairiez pas davantage, et déja
+J'enrage d'estre au point dont mon Pere enragea ;
+Car on tient que deux jours aprés son mariage
+Il s'en mordit les doigts.
+
+-*who_angelique
+Lysette, il n'est pas sage.
+
+-*who_lysette
+C'est un homme enjoüé. Qu'il est divertissant !
+
+-*who_tante
+Rien ne nous presse encor.
+
+-*who_la_montagne
+Je suis un peu pressant.
+Mais à voir tant d'appas⁎ qui feroit moins la presse !
+Et puis, quand on va droit sans entendre finesse,
+Et que l'un a peu prés est de l'autre le fait⁎,
+On dit que le plûtost vaut le mieux.
+
+-*who_lysette
+En effet.
+
+-*who_tante
+On y doit un peu plus songer que vous ne faites.
+
+-*who_la_montagne
+Gay comme je le suis, vous, dans l'âge où vous estes,
+Selon que je me sens fortement dans vos laqs,
+Nous aurons quantité de petits Albikracs,
+Ma Tante.
+
+-*who_tante
+Pour le moins épargnez une fille,
+Vous la faites rougir.
+
+-*who_la_montagne
+Elle en est plus gentille.
+Quant à moy, j'aime à voir ce vermillon subit
+Dont en baissant les yeux la Friponne soûrit.
+Il faut les faire à tout, mais, mon aimable Tante,
+Voyons vostre Maison, sa propreté m'enchante,
+Et si j'en puis juger par cet appartement…
+
+-*who_tante
+Vous n'y trouverez pas ce que…
+
+-*who_la_montagne
+Sans compliment,
+Agréez que je sois vostre Escuyer.
+
+-*who_lysette
+Madame
+A dans son Cabinet ce qui peut ravir l'ame,
+Il vous faut tout au moins deux heures pour le voir.
+
+-*who_tante
+Quelque autre jour.
+
+-*who_la_montagne
+Ah, non.
+
+-*who_tante
+Je suis au desespoir,
+Ne vous chagrinez point, mon Cher, je vous en prie,
+Si je donne la main…
+
+-*who_lysette
+Par cette galerie.
+
+-*who_tante
+Suivez-nous.
+
+-*who_oronte
+En suivant éloignons-nous un peu.
+
+-*who_lysette
+Profitez du moment, on vous donne beau jeu.
+
+**** *book_ *id_body-5-1 *act_ *date_1667 *creator_corneille
+
+-*who_leandre
+Nos Amants à leurs feux vont trouver peu d'obstacles,
+Nostre nouveau Baron fait pour eux des miracles,
+Et de ce cabinet qu'il appelle enchanté
+Je suis exprés sorty pour rire en liberté.
+La Tante a beau vouloir faire un pas vers Oronte,
+Il a pour l'arrester toûjours un nouveau conte,
+Et sur chaque Tableau la faisant haranguer
+Il la force à loüer, ensuite extravaguer,
+Ainsi pour nos Amants point de Tante importune.
+
+-*who_lysette
+Ce n'est pas là pour elle une grande infortune,
+S'il la prive d'Oronte, au moins d'une douceur⁎
+De moment en moment il luy flate le cœur ;
+Mais quand elle vous tient à l'écart l'un ou l'autre
+Il n'est point de plaisir qui soit égal au vostre,
+Vous passez vostre temps à ravir⁎ ?
+
+-*who_leandre
+Justement,
+Oronte en a tâté.
+
+-*who_lysette
+Tres copieusement.
+Jamais on ne souffrit de si longue torture.
+
+-*who_leandre
+Il m'a dit en deux mots toute son avanture.
+
+-*who_lysette
+Quand dans le Cabinet il vous a parlé bas
+J'ay bien crû qu'avec vous il ne s'en taisoit pas.
+
+-*who_leandre
+Tu fais le guet pour eux, et les laisses surprendre ?
+
+-*who_lysette
+Quand le malheur en veut on a beau s'en défendre.
+Oronte estant entré, j'ay couru promptement
+Pour rejoindre la Tante en son appartement,
+Mais par sa défiance elle a trompé la nostre,
+J'ay pris un Escalier, elle venoit par l'autre.
+
+-*who_leandre
+Oronte cependant tombe en de bonnes mains ?
+
+-*who_lysette
+Qu'il s'en tire, s'il veut.
+
+-*who_leandre
+C'est comme tu le plains ?
+
+-*who_lysette
+Si tant de charité pour luy vous inquiete,
+Faites le tour d'amy, son affaire vaut faite,
+La Tante vous adore et vous préferera.
+
+-*who_leandre
+Elle m'aime ?
+
+-*who_lysette
+Hier encor son cœur en soûpira,
+Et dans ce que de vous sans cesse elle me conte⁎,
+Vous l'emportez en tout de bien loin sur Oronte,
+Jamais homme à ses yeux ne parut si parfait.
+Vous resvez⁎ ?
+
+-*who_leandre
+Je cherchois quel grand crime j'ay fait,
+Pour se trouver aimé d'une vieille et luy plaire,
+Il faut avoir du moins assassiné son Pere.
+Si la Tante avec moy s'expliquoit sur ce ton,
+Je la divertirois de la bonne façon.
+
+**** *book_ *id_body-5-2 *act_ *date_1667 *creator_corneille
+
+-*who_leandre
+Vous vous estes enfin échapez ?
+
+-*who_oronte
+La peinture
+Nous preste ce bonheur, fort grand, pourveu qu'il dure,
+Mais Monsieur le Baron nous le fait esperer,
+Il paroist n'estre point encor las d'admirer,
+Dix ou douze portraits qu'il voit l'un aprés l'autre
+Faisant son entretien ont asseuré le nostre,
+Ils sont tous de la Tante, et vous pouvez juger
+Si le bien qu'il en dit a dequoy l'engager,
+Les loüant trait pour trait il luy chatoüille l'ame,
+Elle peut à son gré favoriser sa flame,
+Nous l'en avons laissée en pleine liberté.
+
+-*who_angelique
+J'en seray querellée.
+
+-*who_lysette
+Et moy de mon costé,
+Mais n'importe.
+
+-*who_leandre
+Il est vray qu'il luy doit estre rude
+Qu'on luy donne si-tost sujet d'inquietude.
+Puisqu'Oronte est pour elle un Amant declaré
+C'est mal faire sa cour que s'estre retiré,
+Elle en murmurera.
+
+-*who_angelique
+Je le voy fort à craindre.
+
+-*who_oronte
+Mon malheur est fort grand, mais je n'ose m'en plaindre,
+Il me vient d'une part qui m'est trop à cherir
+Pour craindre d'essuyer ce qu'il faudra souffrir.
+
+-*who_angelique
+Que faire, où la rencontre estoit si surprenante ?
+
+-*who_leandre
+Soûtenir qu'il vouloit cajoler la servante,
+Et qu'accouruë au bruit vous luy faisiez leçon.
+
+-*who_angelique
+Mais je ne querellois en aucune façon,
+Et mesme elle m'avoit en entrant écoutée.
+
+-*who_leandre
+Qu'il soit donc Chevalier de la Dame enchantée,
+Car c'est enchantement⁎ qu'aimer à soixante ans.
+
+-*who_oronte
+Vous me raillez, chacun peut-estre aura son temps,
+Que sçait-on ?
+
+-*who_lysette
+Pour le moins il a cet avantage
+Que si pour nostre Tante il sucroit le breuvage,
+Ma foy, vous tireriez vostre poudre aux Moineaux,
+Il vous suplanteroit.
+
+-*who_leandre
+Voyez ce que je vaux,
+Mon Estoile est heureuse, et c'en est une marque.
+
+-*who_oronte
+C'est une rude mer que celle où je m'embarque,
+Mais je ne compte à rien tout ce que je prévoy
+Pourveu que cette Belle ait du panchant pour moy,
+Qu'elle daigne à mon feu permettre l'esperance.
+
+-*who_angelique
+J'y voy beaucoup d'ardeur, mais je crains sa constance,
+S'il ose m'en promettre il peut tout esperer.
+
+-*who_oronte
+C'est dequoy cet Amy pourroit vous asseurer,
+C'est un autre moy-mesme, il voit toute mon ame ;
+Pour plus de seureté d'une eternelle flame
+Souffrez que devant luy je vous donne ma foy⁎,
+Qu'il en soit le garand.
+
+-*who_lysette
+Donnez.
+
+-*who_angelique
+Je la recoy,
+Et pourveu que toûjours et sincere et constante
+Elle soûtienne en vous…
+
+-*who_leandre
+Prenez garde, la Tante…
+
+-*who_angelique
+Ah Dieux !
+
+-*who_oronte
+Ne craignez rien, et me laissez parler.
+Avant qu'un an ou deux se puissent écouler,
+Vous aurez une grande et longue maladie.
+
+-*who_angelique
+Quel présage !
+
+-*who_oronte
+S'il faut encor que je le die,
+Cet Angle qui se ferme à traits presque tirez
+Est la mort d'un Parent dont vous heriterez.
+
+-*who_angelique
+Bon cela.
+
+-*who_oronte
+De ce bien vous ne joüirez guere,
+Car cette ligne jointe à ce triangulaire
+Est pour vous tost aprés la marque d'un Couvent.
+
+-*who_angelique
+Ma Tante pour le moins m'en parle fort souvent,
+Je le croirois, selon que j'aime peu le monde.
+
+-*who_leandre
+Pensez-vous qu'au Couvent cette ligne réponde ?
+
+-*who_oronte
+Celle-cy qui s'étend le dénote encor mieux.
+
+**** *book_ *id_body-5-3 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Que luy prédisiez-vous icy de curieux ?
+Du destin qui l'attend veut-elle estre éclaircie ?
+
+-*who_oronte
+J'ay pris jadis leçon sur la Chiromancie,
+Et je la debitois sans doute en écolier.
+
+-*who_tante
+Mais que luy trouviez-vous de plus particulier ?
+
+-*who_oronte
+Qu'elle court grand hazard d'estre Religieuse,
+Je voy de certains traits…
+
+-*who_tante
+Qu'elle seroit heureuse ?
+Si j'estois en son âge, il est seur…
+
+-*who_lysette
+Escoutez.
+
+-*who_tante
+On a dans le Couvent la paix de tous costez,
+Au lieu que dans le monde inquiete, jalouse,
+Souvent prendre un Espoux c'est la mort qu'on épouse.
+
+-*who_angelique
+Il en est donc beaucoup qui cherchent à mourir ?
+
+-*who_tante
+Depuis quand sur l'hymen sçavez-vous discourir ?
+Vous m'apprendrez bien-tost comme il faut qu'on le nomme.
+
+-*who_leandre
+Ce Monsieur le Baron paroist bien honneste homme.
+
+-*who_tante
+Toûjours quelque enjouëment à son discours est joint.
+
+-*who_leandre
+Son humeur me plaist fort.
+
+-*who_tante
+Il ne se contraint point,
+Il dit tout ce qu'il pense.
+
+-*who_oronte
+Il vous a tost quitée ?
+
+-*who_tante
+Je croy que de Tableaux il a l'ame enchantée,
+Il ne s'en peut saouler.
+
+-*who_leandre
+Il est encor là-haut ?
+
+-*who_tante
+Je vay l'y retrouver.
+
+-*who_leandre
+Ah, sans doute il le faut.
+
+-*who_tante
+Seulement un quart-d'heure allez tenir ma place.
+Pour rester avec vous voyez que je les chasse,
+Je vous iray rejoindre.
+
+-*who_oronte
+Ah, Madame, songez…    
+
+-*who_leandre
+Mais le Baron dira que vous le négligez ?
+
+-*who_tante
+La franchise jamais n'aura rien qui le blesse.
+Dites à vostre amy qu'il emmene ma Niepce.
+
+-*who_leandre
+Vous avez de l'esprit, tirez-vous d'embarras.
+Pour moy…
+
+-*who_oronte
+De grace, amy, ne m'abandonnez pas.
+
+-*who_leandre
+Je me rendrois suspect à m'en vouloir defendre.
+Il faut…
+
+-*who_tante
+Faites pour moy compagnie à Leandre.
+
+-*who_angelique
+Si l'on peut le sçavoir qu'est-ce qu'on en dira ?
+Aller seule avec luy !
+
+-*who_tante
+Lysette vous suivra,
+Vous estes scrupuleuse.
+
+-*who_oronte
+Ah detestable Tante !
+
+**** *book_ *id_body-5-4 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Je croy que vous devez avoir l'ame contente,
+Du moins pour vous marquer une tendre amitié,
+Je fais assez pour vous.
+
+-*who_oronte
+C'est trop de la moitié,
+Que dira le Baron ? que croira vostre Niepce ?
+
+-*who_tante
+La bonne Creature est simple et sans finesse,
+Pour l'autre, le ménage offre assez d'embarras
+Pour m'avoir donné lieu de faire ce faux pas.
+J'ay supposé quelque ordre oublié par mégarde,
+Et prié le Baron de n'y prendre point garde,
+Que je ne le quittois que pour un seul moment ;
+Il est libre et veut bien voir agir librement.
+Et puis, quand cette faute iroit jusqu'à l'extréme
+On se pardonne tout manquant pour ce qu'on aime.
+
+-*who_oronte
+Madame.
+
+-*who_tante
+Tout de bon, s'il faut ouvrir mon cœur,
+Dans vostre procedé je voy tant de candeur,
+Tant d'honnesteté jointe à l'ardeur la plus sage
+Que pour quelque repos que m'offre le veusvage,
+Je ne me croirois pas estre digne du jour
+Si je desesperois plus long-temps vostre amour.
+Perdez donc ce chagrin que vostre front déploye,
+Vous voulez m'épouser ? J'y consens avec joye,
+Vostre peine par là trouve une heureuse fin.
+
+-*who_oronte
+Madame, à tant de gloire⁎ élever mon destin !
+Mais que dis-je, insensé ? c'est bien mal me connoistre,
+Vous estes genereuse, et je dois aussi l'estre,
+Le Baron d'Albikrac charmé de vos appas⁎
+Vous mettra dans un rang où je ne vous mets pas,
+Vous en puis-je sans crime envier l'avantage ?
+
+-*who_tante
+Je vous l'ay déja dit, vous avez de l'ombrage⁎ ;
+Mais pour vous en guerir, il nous faut sans façon
+Faire épouser ma Niepce à Monsieur le Baron.
+Dequoy se plaindra-t'il ? elle est jeune, assez belle.
+
+-*who_oronte
+Ce n'est point mal pensé, mais répondez-vous d'elle ?
+Vous luy faites sans cesse un Monstre de l'amour,
+Et je crains…
+
+-*who_tante
+Agissons chacun à nostre tour.
+Tirez-la quelquefois à l'écart, et luy dites
+Que le baron me choque avecque ses visites,
+Et que s'il luy plaisoit vous pourriez m'obliger
+A souffrir que pour elle il voulust s'engager.
+Je favoriseray toutes vos confidences.
+
+-*who_oronte
+C'est agreablement flater mes esperances,
+Je n'épargneray rien afin de la toucher,
+Mais il ne faudra pas d'abord⁎ l'effaroucher,
+Comme sans interest je luy feray connoistre
+Qu'une Fille se perd à vouloir toûjours l'estre,
+Le temps fera le reste, et prenant toûjours soin…
+
+-*who_tante
+Donnez-vous tout le temps dont vous aurez besoin,
+Prenez la plus commode et la plus seure voye,
+Vous ne m'en verrez point retarder vostre joye ;
+Je vous aime, et pour prix d'un zele si discret
+Je vous puis aisément épouser en secret.
+
+-*who_oronte
+M'épouser en secret ! me voila bien, courage.
+
+-*who_tante
+Ce soir nous signerons, demain, le mariage,
+Chez moy je suis maistresse, et l'hymen contracté,
+Lysette estant pour nous, tout est en seureté :
+Quoy, vous en soûpirez ?
+
+-*who_oronte
+Ah, douceurs⁎ imparfaites !
+Que ne me parliez vous tantost comme vous faites !
+Mon amour n'eust alors fait scrupule de rien,
+Et Leandre jamais ne m'eust parlé du sien.
+
+-*who_tante
+Leandre m'aimeroit ?
+
+-*who_oronte
+D'une amour éperduë.
+
+-*who_tante
+Cet aveu me surprend.
+
+-*who_oronte
+Ah, Madame, il me tuë.
+
+-*who_tante
+Depuis quand sçavez-vous que j'ay touché son cœur.
+
+-*who_oronte
+Trop tard pour mon repos, trop tost pour mon malheur.
+Tantost à l'impourveu⁎ vous sçavez que Leandre
+Dans vostre Cabinet nous est venu surprendre.
+Là voyant le Baron, plein d'un secret depit,
+Est-ce-là quelque Amant, pour Madame, a-t'il dit ?
+Ayant appris la chose, Ah malheureux, je l'aime,
+A-t'il lors ajousté, cent fois plus que moy-mesme,
+Et si mon triste espoir n'est par vous affermy,
+Oronte, c'en est fait, vous n'avez plus d'amy.
+Je vous cachois toûjours cette ardeur violente,
+Mais plus j'approche d'elle et plus elle s'augmente ;
+Où je ne la voy point je ne fais que languir.
+A ces mots je n'ay pû retenir un soûpir,
+Ny m'empescher de dire en faveur de ma flame,
+Que vous sçaviez déja le secret de mon ame.
+Vous m'avez prevenu, Soyez Amant heureux,
+M'a-t'il dit, c'est à moy de ceder à vos feux.
+Quels qu'en soient mes ennuis⁎, vous n'avez rien à craindre,
+Je mourrois mille fois plûtost que de m'en plaindre,
+Plûtost que d'avoüer ce que je souffre. Alors
+Faisant sur sa douleur de violents efforts
+Il a couru vers vous, et parlé de peinture.
+
+-*who_tante
+Vous craignez plus pour luy peut-estre qu'il n'endure,
+Je sçauray son secret.
+
+-*who_oronte
+Il voudra le cacher,
+Je le connois, en vain vous croirez l'arracher.
+Tandis qu'il languira d'ennuy⁎, d'inquietude,
+A dementir sa peine il mettra son étude ;
+Feignant d'estre content….
+
+-*who_tante
+Nous croirons qu'il le soit.
+
+-*who_oronte
+Le puis-je avec honneur ? Madame, il en mourroit.
+Comme on ne m'a jamais imputé de bassesse…
+
+-*who_tante
+Soit pour vous, soit pour luy, voyez toûjours ma Niepce,
+A l'hymen du Baron, mais le voicy.
+
+-*who_oronte
+J'en tiens
+Si Leandre…
+
+**** *book_ *id_body-5-5 *act_ *date_1667 *creator_corneille
+
+-*who_la_montagne
+Suffit, je vay rompre les chiens.
+Quoy tous deux teste à teste ?
+
+-*who_tante
+Est-ce un sujet de blâme ?
+
+-*who_oronte
+Dans ce lieu par hazard j'ay rencontré Madame,
+Qui parloit pour affaire à quelqu'un de ses gens.
+
+-*who_la_montagne
+Diable, que vous sçavez prendre bien vostre temps !
+Ces tristes songe-creux valent pis que les autres.
+N'importe, vous avez vos desseins, nous les nostres,
+Et chacun a les siens en son particulier,
+Courage, rira bien qui rira le dernier.
+
+-*who_tante
+En desesperez vous ?
+Si tu sçavois, Lysette…
+
+-*who_la_montagne
+J'ay toûjours bon espoir, et connoy ma Planete,
+Sans rien dire pourtant je voy ce que je voy,
+Mais patience.
+
+-*who_tante
+Enfin vous vous plaignez de moy.
+
+-*who_la_montagne
+Eh, non pas tout à fait, mais il faut laisser faire,
+Tout vient avec le temps.
+
+-*who_tante
+Voy Leandre se taire,
+Qu'il est chagrin !
+
+-*who_la_montagne
+Toûjours quelque mot en passant
+A vostre Confidente.
+
+-*who_tante
+Il est fort innocent.
+
+-*who_la_montagne
+Au diable qui s'y fie ; entre vous autres Belles
+Mille cœurs friponnez⁎ passent pour bagatelles,
+Et de vos yeux malins si j'en croy le fracas
+La multiplicité ne vous en déplaist pas.
+Sur Monsieur l'Auvergnac vous faites fonds, mais baste.
+
+-*who_tante
+C'est à tort que…
+
+-*who_la_montagne
+Vos yeux ont je ne sçay quel faste,
+Un certain aigre doux si savoureux pour moy,
+Que je pasme d'amour si-tost que je vous voy.
+Quand nous marierons-nous, ma Reyne ? sur mon ame
+Je n'en puis plus.
+
+-*who_tante
+Il faut moderer vostre flame.
+
+-*who_la_montagne
+Sans cesse auprés de vous le cœur me fait tic tac.
+Tâtez.
+
+-*who_tante
+Ah !
+
+-*who_la_montagne
+Vous craignez ce diable d'Auvergnac.
+
+-*who_tante
+Mais s'il vous entendoit ?
+
+-*who_la_montagne
+Et bien, ay-je à luy plaire ?
+Je m'en ris.
+
+-*who_angelique
+Non, Monsieur, il n'est pas necessaire.
+
+-*who_tante
+Qu'est-ce qu'il vous propose ?
+
+-*who_oronte
+Un seul tour de jardin,
+Mais elle en fait scrupule.
+
+-*who_la_montagne
+Ah, c'est joüer au fin.
+
+-*who_tante
+Vous y pouvez aller.
+
+-*who_la_montagne
+Je découvre la piece⁎,
+Ce qu'il sent pour la Tante, il le dit à la Niepce,
+Et ne pouvant icy parler comme il l'entend,
+La confidence marche.
+
+-*who_tante
+Il est persecutant.
+Quoy, toûjours soupçonner ?
+
+-*who_la_montagne
+Bon pied, bon œil, ma Tante,
+Je ne sçaurois avoir l'ame trop surveillante,
+Et comme sans dessein il ne peut s'éloigner
+Au jardin tout exprés je vay l'accompagner,
+S'il raisonne, du moins je sçauray qu'il raisonne.
+
+-*who_oronte
+Je ne l'entretiendray que de vostre personne,
+De ce que vous valez.
+
+-*who_la_montagne
+Sans vanité, je croy
+Qu'il est quelques Barons plus mal taillez que moy
+Ce port, cette action ? Ah ma Tante tres chere,
+Si vous connoissiez bien tout ce que je sçay faire :
+Mais ils sortent ma foy, je veux suivre leurs pas.
+
+-*who_tante
+Allez avec ma Niepce, et ne la quitez pas.
+
+**** *book_ *id_body-5-6 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Leandre me laisser pour une promenade ?
+
+-*who_leandre
+J'admirois du Baron la plaisante boutade,
+Et voulois voir la fin de tout ce different.
+
+-*who_tante
+Vous estes bien secret.
+
+-*who_leandre
+Moy !
+
+-*who_tante
+Cela vous surprend.
+
+-*who_leandre
+J'écoute le reproche et n'en sçay point la cause.
+
+-*who_tante
+Eh, j'en avois déja soupçonné quelque chose,
+Mais mon Sexe⁎…
+
+-*who_leandre
+Dequoy me voulez-vous parler ?
+
+-*who_tante
+Un homme quand il veut sçait bien dissimuler !
+Vous ne m'aimez donc pas ?
+
+-*who_leandre
+Moy, Madame ?
+
+-*who_tante
+Vous mesme.
+
+-*who_leandre
+Si sans en rien sçavoir il se peut que l'on aime…
+
+-*who_tante
+Que vous estes injuste ! on me l'avoit bien dit
+Qu'à feindre on n'eut jamais tant d'adresse et d'esprit.
+
+-*who_leandre
+Mais qui donc vous a fait ce rapport de ma flame ?
+
+-*who_tante
+Celuy qui comme vous voit au fonds de vostre ame,
+Vostre amy.
+
+-*who_leandre
+Quoy, ces feux, ces amours prétendus,
+Vous les sçavez d'Oronte ?
+
+-*who_tante
+Ouy de luy, mais bien plus.
+Il m'a dit qu'ayant sceu combien je luy suis chere,
+Vous prétendiez pour luy renoncer à me plaire,
+Mourir plûtost cent fois d'un desespoir jaloux…
+
+-*who_leandre
+Madame, Dieu me damne, il se moque de vous,
+Je n'y pensay jamais.
+
+-*who_tante
+Vous le voulez bien dire,
+Mais…
+
+-*who_leandre
+Où donc en pourroit estre le mot pour rire ?
+Je dis ce qu'il faut croire.
+
+-*who_tante
+A quoy bon affecter
+De nier un amour dont je ne puis douter ?
+
+-*who_leandre
+Vous le devez pourtant.
+
+-*who_tante
+C'est vous trahir vous-mesme,
+Ne vous obstinez point…
+
+-*who_leandre
+Enfin donc je vous aime ?
+
+-*who_tante
+Quand d'Oronte aujourd'huy je n'aurois pas appris
+Combien d'amour pour moy vous vous sentez épris,
+Vous m'en avez tant dit ce matin mesme encore,
+J'ay tant veu dans vos yeux que vostre cœur m'adore,
+Que le mien de vos feux jamais ne doutera.
+
+-*who_leandre
+J'ay dit, vous avez veu tout ce qu'il vous plaira,
+Mais je ne vous aimay cependant de ma vie.
+
+-*who_tante
+Vous ne m'aimez pas ?
+
+-*who_leandre
+Non, et n'en ay point d'envie.
+
+-*who_tante
+Le terme est un peu fier, et mesme injurieux,
+Mais j'en sçay le motif, et vous en aime mieux.
+Qui peut à son amy sacrifier sa flame,
+S'il estoit marié cheriroit bien sa femme.
+Peut-on assez loüer cet effort de vertu ?
+
+-*who_leandre
+Mais je vous parle net.
+
+-*who_tante
+Vous vous estes trop teu,
+C'est d'où vient tout le mal, mais j'y voy du remede.
+Sans trop en murmurer ce cher amy vous cede,
+Et mesme s'il vous faut dire tout aujourd'huy,
+J'ay du panchant pour vous beaucoup plus que pour luy.
+
+-*who_leandre
+Est-ce en dépit des gens que selon son envie…
+
+-*who_tante
+Non, mais en dépit d'eux on prend soin de leur vie,
+Et souffrir vostre mort pouvant vous secourir…
+
+-*who_leandre
+Eh, faites-moy l'honneur de me laisser mourir.
+
+-*who_tante
+Si quelques jours encor vostre amour se veut taire,
+Differons, j'y consents, mais vous aurez beau faire,
+Il faudra malgré vous enfin le declarer.
+
+-*who_leandre
+Si quelque adroit détour ne m'aide à m'en tirer,
+Elle m'accablera. Madame, quand Oronte
+De mon amour pour vous vous a fait le beau conte,
+Ne luy parliez-vous point d'épouser ?
+
+-*who_tante
+Dés demain,
+S'il l'eust pû consentir.
+
+-*who_leandre
+Vous l'offriez en vain,
+Je ne m'étonne plus s'il a joüé d'adresse.
+
+-*who_tante
+Seroit-il marié ?
+
+-*who_leandre
+Non pas, mais…
+
+-*who_tante
+Et bien, qu'est-ce ?
+
+-*who_leandre
+Ce seroit le trahir que vous en dire plus.
+
+-*who_tante
+De grace.
+
+-*who_leandre
+Je ne puis m'expliquer là-dessus,
+Il romproit avec moy s'il avoit pû l'apprendre.
+
+-*who_tante
+Je n'en parleray point.
+
+-*who_leandre
+Je crains trop…
+
+-*who_tante
+Non, Leandre,
+Croyez-moy.
+
+-*who_leandre
+Vous vouliez recompenser son feu ?
+Jugez s'il le peut estre, il est vostre Neveu.
+
+-*who_tante
+Mon…
+
+-*who_leandre
+Il m'a fait cent fois jurer de vous le taire.
+
+-*who_tante
+Quoy, vous dites…
+
+-*who_leandre
+Qu'Oronte est fils de vostre Frere,
+Qui laissant ce Païs pour l'Angleterre, aima
+La comtesse d'Uspek qu'à son tour il charma.
+De leurs amours secrets ce fruit serra la chaîne,
+Mais au moins songez bien…
+
+-*who_tante
+N'en soyez point en peine,
+Allons les retrouver, mais si vous m'aimiez ?
+
+-*who_leandre
+Non,
+Madame, vous sçavez que j'agis sans façon.
+
+**** *book_ *id_body-6-1 *act_ *date_1667 *creator_corneille
+
+-*who_oronte
+Puisqu'il faut essuyer encor cette corvée,
+Sois témoin de quel air⁎ ma flame est éprouvée,
+Ne quitte point, Lysette, et demeure avec nous.
+
+-*who_lysette
+Vous ne vous sentez pas d'un si cher rendez-vous ?
+Vos yeux brillent de joye.
+
+-*who_oronte
+Elle est étincelante.
+Mais n'as-tu point appris ce que me veut la Tante ?
+
+-*who_lysette
+Non, je sçay seulement qu'elle m'a dit tout bas
+Qu'à vous prendre à quartier je ne manquasse pas,
+Qu'avec vous du jardin icy je me rendisse.
+
+-*who_oronte
+De ses jaloux soupçons il faut fuir la malice.
+Le refus d'y venir eust pû les éveiller.
+
+-*who_lysette
+Ma foy, nous n'avons pas trop sujet de railler,
+Dans la rage d'amour où son panchant l'engage,
+Quoy que pour l'ébloüir⁎ vous mettiez en usage,
+Elle vous va serrer le bouton de bien prés.
+
+-*who_oronte
+Mais ayant fait Leandre épris de ses attraits,
+Cette amorce jettée au moins sçaura suspendre…
+
+-*who_lysette
+C'est vous estre fort mal adressé qu'à Leandre,
+Ce jeu déja luy semble un ennuyeux party.
+
+-*who_oronte
+Je ne sçay pas encor comme il en est sorty,
+Seulement tout riant, sans marque de querelle,
+Il est venu nous joindre au jardin avec elle,
+Et m'a dit en passant que je l'avois joüé.
+
+-*who_lysette
+Croyez qu'il vous aura tout franc desavoüé.
+
+-*who_oronte
+Qu'importe ? j'auray droit de soûtenir sans cesse
+Qu'il immole à mon feu la douleur qui le presse,
+Et qu'ainsi je serois et sans cœur et sans foy⁎
+Si je faisois pour luy moins qu'il ne fait pour moy ;
+Mais la voicy.
+
+**** *book_ *id_body-6-2 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Jugez si ma joye est la vostre
+Quand je fausse pour vous compagnie à tout autre,
+Du jardin tout exprés j'ay sçeu me dérober.
+
+-*who_oronte
+Aussi Lysette sçait…
+
+-*who_tante
+Que vous sçavez fourber.
+
+-*who_oronte
+Moy ?
+
+-*who_tante
+Ne craignez rien d'elle, elle est ma confidente.
+
+-*who_oronte
+Leandre aura nié l'ennuy⁎ qui le tourmente ?
+
+-*who_tante
+A quoy bon avec moy faire trop le discret ?
+De tout vostre artifice il m'a dit le secret,
+Un obstacle importun dont vostre amour s'étonne⁎
+Vous faisoit m'abuser⁎, et je vous le pardonne,
+Pourveu que l'amitié dont le nœud vous unit
+Ne s'aigrisse de rien de tout ce qu'il m'a dit.
+
+-*who_oronte
+Madame, je ne sçay ce qu'il vous a pû dire,
+Mais je sçay seurement que pour vous il soûpire,
+Et qu'il mourroit plûtost que vous l'avoir appris.
+
+-*who_tante
+On fait l'amour à Londre aussi bien qu'à Paris.
+
+-*who_oronte
+Qu'il s'y fasse, qu'aura cet amour qui me touche ?
+
+-*who_tante
+Je ne veux qu'un seul mot pour vous fermer la bouche,
+La Comtesse d'Uspek… Vous estes interdit.
+
+-*who_oronte
+Leandre m'a joüé. Qu'est-ce qu'il aura dit ?
+N'estant instruit de rien je ne sçay que répondre.
+
+-*who_tante
+Et bien, sçay-je la carte, et ce qu'on fait à Londre ?
+
+-*who_oronte
+Madame…
+
+-*who_tante
+Elle estoit belle ?
+
+-*who_oronte
+Il ne m'est pas permis…
+
+-*who_tante
+Parlez, cela sied bien dans la bouche d'un Fils.
+
+-*who_oronte
+D'un Fils !
+
+-*who_lysette
+Quoy, jusqu'icy nous avoir fait finesse,
+Monsieur, que vous estiez le Fils d'une Comtesse !
+Madame, il est donc vray ?
+
+-*who_tante
+Tu vois qu'il en rougit,
+Mon frere en fut épris aussi-tost qu'il la vit,
+Juge du reste.
+
+-*who_lysette
+Oronte est Fils de vostre Frere ?
+
+-*who_tante
+A l'air dont il m'avoit écrit pour son affaire,
+Je pouvois deviner qu'il luy touchoit de prés,
+Mais ce qui le fait taire et cause ses regrets,
+C'est qu'étant mon Neveu, quelque amour qui l'engage,
+L'impossibilité se trouve au mariage.
+
+-*who_oronte
+Le tour est d'habile homme, il le faut appuyer.
+Puisque vous sçavez tout je n'ay rien à nier,
+Pour vous cacher mon sort, j'avois feint que Leandre…
+
+-*who_tante
+Je le sçay, mais d'aimer doit-on pas se défendre
+Quand on voit que le sang nous en fait une loy ?
+
+-*who_oronte
+Helas ! combien de fois aime-t'on malgré soy ?
+Quand je m'en apperceus, si vous sçaviez, Madame,
+Les efforts que je fis pour éteindre ma flame,
+Mais toûjours mon panchant plus fort que ma raison
+De mes sens contre moy soûtint la trahison.
+Jugez de mon malheur par l'expresse défence
+De vous oser jamais découvrir ma naissance⁎,
+Mon Pere par serment en avoit pris ma foy⁎.
+
+-*who_tante
+Ce m'est quelque chagrin qu'il se cache de moy,
+Mais comme jusqu'à vous il ne faut pas qu'il passe,
+Devant aimer son Fils, venez que je l'embrasse,
+La tendresse du sang eut toûjours droit d'agir.
+
+**** *book_ *id_body-6-3 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Quoy, ma Tante, embrasser un homme sans rougir,
+Vous qui condamniez tant toute ardeur indecente.
+
+-*who_lysette
+Voyez le bel Oyson qui remontre à la Tante.
+Vous nous épiez donc ?
+
+-*who_angelique
+J'entrois sans y penser.
+
+-*who_lysette
+Quand on a des Neveux on peut les embrasser.
+
+-*who_angelique
+Oronte est le Neveu de ma Tante ?
+
+-*who_lysette
+Ouy, sans doute.
+
+-*who_tante
+La seule ardeur du sang est celle que j'écoute,
+C'est le fils de mon Frere, il m'en a fait l'aveu.
+
+-*who_angelique
+Il est donc mon Cousin s'il est vostre Neveu,
+Et je dois comme vous l'embrasser.
+
+-*who_oronte
+Ma Cousine.
+
+-*who_tante
+Vous l'embrassez bien fort.
+
+-*who_angelique
+C'est que je m'imagine
+Qu'il faut quand on le voit régaler un Cousin.
+
+-*who_tante
+Vous vous estes bientost ennuyée au jardin ?
+
+-*who_angelique
+Comme on médit de tout dans le siècle où nous sommes
+J'ay craint qu'on ne m'y vist moy seule avec deux hommes,
+Pratiquer vos leçons est mon plus grand soucy⁎.
+
+-*who_tante
+Allez dans vostre chambre et nous laissez icy.
+Mon Neveu m'entretient d'une affaire importante.
+
+-*who_angelique
+Adieu donc, mon Cousin.
+
+-*who_oronte
+Adieu, belle Parente.
+
+-*who_lysette
+Le Cousinage n'est…
+
+-*who_angelique
+Leandre m'a tout dit.
+
+**** *book_ *id_body-6-4 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Sans mentir, vous joüez à luy gaster l'esprit,
+C'est pour le renverser ; la flater d'estre belle !
+
+-*who_oronte
+Est-ce qu'elle s'émeut pour une bagatelle ?
+
+-*who_tante
+Elle a déja pour soy des soins⁎ si complaisants…
+
+-*who_oronte
+Ah, qu'une Fille est sote à l'âge de quinze ans !
+
+-*who_tante
+Elle en a prés de vingt, et si, quoy que je fasse,
+Vous voyez ce que c'est.
+
+-*who_oronte
+Vingt ?
+
+-*who_lysette
+Qu'elle a bonne grace
+D'en donner à sa Niepce et de s'en dérober !
+
+-*who_tante
+Ostez-moy d'un scrupule où je viens de tomber.
+D'où vient qu'en luy parlant tantost de vostre flame
+Vous vouliez qu'elle sceust le secret de mon ame,
+Puisque vous étiez seur que, quoy qu'on fist pour vous,
+Le sang rendoit l'hymen impossible entre nous ?
+
+-*who_oronte
+Quoy, vous prétendriez, quand l'amour est extréme
+Qu'un cœur pour raisonner fust maistre de luy mesme ?
+Le mien trop vivement charmé de vos appas⁎
+Vouloit en mesme temps ce qu'il ne vouloit pas,
+Il parloit malgré luy de ce qu'il croyoit taire ;
+Ah, pourquoy suis-je né le Fils de vostre Frere !
+Qu'il m'en couste à la fois de gloire⁎ et de bonheur !
+
+-*who_tante
+Vous vous en faites donc un sensible malheur ?
+
+-*who_oronte
+Tel qu'il passe du ciel tout ce que peut la hayne.
+
+-*who_tante
+C'est trop, je ne vous puis plus long-temps voir en peine,
+Consolez-vous.
+
+-*who_oronte
+Dequoy ?
+
+-*who_tante
+Ce frere prétendu…
+
+-*who_oronte
+Je tremble.
+
+-*who_tante
+Il ne m'est rien.
+
+-*who_oronte
+Ah, me voicy perdu.
+
+-*who_lysette
+Vostre Frere l'Anglois n'est pas vostre vray frere ?
+
+-*who_tante
+Non, quand l'hymen joignit et son pere et ma mere,
+Nous estions déja nez chacun d'un premier lict,
+Dés l'enfance par là l'amitié nous unit.
+Les noms de Frere et sœur l'ont depuis confirmée.
+
+-*who_oronte
+Lysette.
+
+-*who_lysette
+M'en voilà pour vous toute alarmée,
+Vous l'échaperez belle en parant celuy-cy.
+
+-*who_tante
+Donc pour la parenté n'ayez aucun soucy,
+Lysette ira ce soir nous chercher un Notaire,
+Et demain en secret… mais quoy c'est vous déplaire,
+Le chagrin qui vous prend me le fait assez voir.
+
+-*who_oronte
+Que ne vous montre-t'il où va mon desespoir !
+Vous y seriez sensible et forcée à me plaindre.
+
+-*who_tante
+Sçachons donc le motif qui m'y pourroit contraindre,
+Pour le Fils de mon Frere il n'est point d'embarras…
+
+-*who_oronte
+Ne parlons plus d'un nom qui ne m'appartient pas,
+Pour me faire son Fils c'est trop user d'adresse,
+Jamais il n'eut d'intrigue avec une Comtesse,
+Leandre ne l'a feint que pour vous déguiser
+Qu'Oronte, quoy qu'amant, ne vous peut épouser.
+
+-*who_tante
+Qui l'en empescheroit ?
+
+-*who_oronte
+Le malheur qui m'accable.
+
+-*who_tante
+C'est ne rien dire.
+
+-*who_oronte
+Helas, que je suis miserable⁎ !
+
+-*who_tante
+Mais…
+
+-*who_oronte
+Contre un temeraire armez vostre couroux.
+
+**** *book_ *id_body-6-5 *act_ *date_1667 *creator_corneille
+
+-*who_philipin
+Monsieur, vostre Advocat vient d'envoyer chez vous,
+Il dit qu'on se prepare à vuider⁎ vostre affaire.
+
+-*who_oronte
+Laisse-moy, son succez ne m'inquiete guere,
+J'ay bien d'autres soucis.
+
+-*who_tante
+Dites donc ce que c'est.
+
+-*who_oronte
+Je sçay qu'en mon destin vous prenez interest,
+Mais de grace, épargnez à l'ennuy⁎ qui me presse
+Ce qu'à taire toûjours ma gloire⁎ s'interesse,
+Il suffit que le Ciel de mon bonheur jaloux
+Ne veut pas consentir que je sois vostre Espoux.
+
+-*who_tante
+Non, non, c'est trop vouloir m'ebloüir de vos ruses,
+Sur les ordres du Ciel ne cherchez point d'excuses,
+Et sans tant de détours, pour fuir ce mauvais pas,
+Avoüez franchement que vous ne m'aimez pas.
+
+-*who_oronte
+Je ne vous aime pas ! que dites-vous, Madame ?
+Philipin vous dira ce qu'il sçait de ma flame ;
+Combien m'a-t'il oüy tant de nuict que de jour
+Me plaindre en vous nommant et soûpirer d'amour ?
+Il a voulu cent fois en avertir Lysette.
+
+-*who_philipin
+Vostre nom prononcé, nostre nuict estoit faite.
+Mille doux souvenirs pour le mieux embraser
+Luy peignoient…
+
+-*who_tante
+Pourquoy donc ne me pas épouser ?
+
+-*who_oronte
+Par un sort si cruel qu'à peine⁎ j'en respire.
+
+-*who_tante
+Mais enfin quel est-il ?
+
+-*who_oronte
+Je ne puis vous le dire.
+
+-*who_tante
+Vous ne le pouvez ?
+
+-*who_oronte
+Non.
+
+-*who_tante
+Ce sont là ces beaux feux ?
+De grace…
+
+-*who_oronte
+Ah, Philipin, secours-moy si tu peux,
+Suppose, invente, ments.
+
+-*who_philipin
+Moy, Monsieur, que diray-je ?
+
+-*who_tante
+Si bien que le silence est vostre privilege ?
+Il vous faut bonnement croire sur vostre foy⁎.
+
+-*who_oronte
+Madame.
+
+-*who_tante
+Adieu, Monsieur, vous vous moquez de moy,
+Vos secrets sont à vous, et je vous en tiens quite,
+Mais je vous prie aussi, plus aucune visite.
+
+-*who_oronte
+Ah Dieux !
+
+-*who_tante
+Jamais de vous je n'en veux recevoir.
+
+-*who_oronte
+Quoy, vous me priveriez pour toûjours de vous voir,
+Il faut donc que je meure ; est-ce là vostre envie ?
+
+-*who_tante
+Non, je veux seulement…
+
+-*who_oronte
+Il y va de ma vie.
+
+-*who_tante
+Vous ouvrant avec moy vous ne hazardez rien.
+Je vous aime.
+
+-*who_oronte
+Il est vray, je le connoy trop bien,
+Mais il m'est si honteux que vous sçachiez l'affaire.
+
+-*who_tante
+Honteux ou non, enfin ce choix seul est à faire,
+Il faut me dire tout, ou ne me voir jamais.
+
+-*who_oronte
+Parlez donc à Leandre, il sçait tous mes secrets.
+S'il se taist, s'il craint trop pour un amy qu'il aime,
+Je pourray m'enhardir à m'expliquer moy-mesme,
+J'en chercheray la voye, et sorts pour y resver⁎.
+
+-*who_philipin
+La fourbe est commencée, il la faut achever.
+
+**** *book_ *id_body-6-6 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+A-t'on rien veu d'égal au procédé d'Oronte ?
+
+-*who_philipin
+Quelquefois on a peine à surmonter la honte.
+
+-*who_tante
+Ah Philipin, dy nous…
+
+-*who_philipin
+Leandre sçait le tout.
+
+-*who_lysette
+Penses-tu qu'aisément nous en venions à bout ?
+Il s'entendent l'un l'autre.
+
+-*who_philipin
+Et si je vay trop dire,
+Quand mon dos patira, vous n'en ferez que rire.
+
+-*who_tante
+Va, je prens tout sur moy.
+
+-*who_lysette
+Mais enfin tu sçais bien
+Que ton Maistre consent qu'on ne nous cache rien.
+
+-*who_philipin
+Il est vray ; vous sçaurez en tout cas me défendre.
+
+-*who_tante
+Ne crains rien.
+
+-*who_philipin
+Oyez donc ce qu'il vous plaist d'apprendre,
+Un voyage Breton fait tres-mal à propos
+Aujourd'huy de mon Maistre est le trouble repos.
+Pour joindre un Ennemy qui tiroit en arriere,
+Il s'y fit appeller Monsieur de la Rapiere,
+Et sous ce nom d'emprunt sçeut si bien se cacher
+Qu'en six jours il trouva ce qu'il venoit chercher,
+Il vit son Ennemy, le força de se batre,
+Receut un coup d'épée, et le perça de quatre,
+Et craignant les Prevosts il fuit, et sans façon
+Fut demander azyle au Chasteau d'un Baron.
+Le baron, et ce fut le malheur de mon Maistre…
+
+-*who_tante
+On l'appelle ?
+
+-*who_philipin
+Et par où le pourriez-vous connoistre ?
+Au fonds de la Bretagne avez-vous des Agents ?
+
+-*who_tante
+La naissance⁎ en tous lieux fait connoistre les gens.
+
+-*who_philipin
+D'Albikrac. On le tient un des plus galants hommes…
+
+-*who_tante
+Lysette.
+
+-*who_lysette
+Parle bas, ce Baron que tu nommes…
+
+-*who_philipin
+Et bien ?
+
+-*who_lysette
+Avec Leandre il est dans le jardin.
+
+-*who_philipin
+Ah, c'est fait de mon Maistre, et j'en crains bien la fin.
+
+-*who_tante
+Tu connois à quel point son interest m'engage,
+Acheve.
+
+-*who_philipin
+Le Baron estoit lors en voyage.
+Une Sœur qu'il avoit le receut au Chasteau,
+Fit penser la blesseure, et puis, c'est là le beau.
+En se communiquant tous deux ils s'enflammerent,
+Se virent en secret, en secret se parlerent,
+L'occasion rioit⁎, le diable s'en mesla,
+Mon Maistre fit le fou, la Dame pullula,
+La voila grosse enfin de qui que ce put estre.
+
+-*who_tante
+Quoy, ne nous dis-tu pas que ce fut de ton Maistre ?
+
+-*who_philipin
+Je croy qu'à sa grossesse il peut n'avoir pas nuy,
+Mais la Belle estoit douce à bien d'autres qu'à luy,
+Et sur quelques soupçons ayant fait sentinelle,
+Il entrevit de nuict un Galant avec elle,
+Et lors ne voulant plus en entendre parler
+Jusques en Angleterre il alla prendre l'air.
+D'autre part le Baron dont l'ame est assez fiere
+Jura d'exterminer le pauvre la Rapiere,
+Et sçachant au retour ce qui s'estoit passé,
+Voila contre son nom un procez commencé.
+Ainsi qu'un vagabond sans feu ny lieu ny race
+La Rapiere est pendu soudain par Contumace.
+Jugez si quand de tout il nous faut défier,
+Mon Maistre en cet estat s'oseroit marier.
+
+-*who_tante
+Je le blâmois d'abord⁎ d'abuser⁎ une fille
+Dont la gloire⁎ interesse⁎ une illustre famille,
+Mais qui peut écouter deux Galants tour à tour
+Merite la disgrace où la plonge l'amour.
+L'honneur sur un seul choix fixe les feux pudiques.
+
+-*who_philipin
+On se moque aujourd'huy de ces honneurs uniques,
+Et chacun comme il peut vivant sur le commun
+C'est n'avoir point d'amant que de n'en avoir qu'un ;
+Mais, Madame, cela ne fait point nostre affaire.
+
+-*who_tante
+Il faudroit par amis…
+
+-*who_philipin
+L'a-t'on pas voulu faire,
+Autant de temps perdu. Ce diable de Baron,
+Quoy qu'on puisse alleguer, ne change point de ton,
+Toûjours parle de pendre, et rien à l'amiable.
+
+-*who_tante
+Le voicy, je veux voir s'il est si peu traitable.
+
+-*who_philipin
+Ah, Madame, gardez de luy rien declarer
+Que mon Maistre avec vous n'en ait pû conferer.
+
+-*who_tante
+Va, n'apprehende point que je luy puisse nuire.
+
+-*who_philipin
+Il s'en va tout gaster, comment l'oser instruire ?
+
+**** *book_ *id_body-6-7 *act_ *date_1667 *creator_corneille
+
+-*who_tante
+Qu'est devenu Leandre ? il n'est point avec vous.
+
+-*who_la_montagne
+Il entretient tout bas vostre futur Espoux,
+D'intention, s'entend, car quoy qu'il se figure,
+La consommation n'est pas encor trop seure,
+Jamais on n'a tenu contre les Albikracs.
+
+-*who_tante
+Je le croy.
+
+-*who_la_montagne
+Pas trop fou qui suit mes Almanachs.
+
+-*who_tante
+Ils doivent estre bons, mais avant que d'en prendre,
+Baron, quand vous aimez avez-vous le cœur tendre ?
+
+-*who_la_montagne
+Comment tendre ?
+
+-*who_tante
+Il m'en faut une preuve aujourd'huy.
+
+-*who_philipin
+La Rapiere pendu, ta sœur grosse de luy.
+
+-*who_tante
+Et quoy, vous hesitez ?
+
+-*who_la_montagne
+Non, ma poupine veuve,
+Ordonnez, j'ay pour vous un cœur à toute épreuve.
+
+-*who_tante
+Un certain la Rapiere…
+
+-*who_la_montagne
+Il fut un peu pendu
+Pour avoir…
+
+-*who_lysette
+C'est le moins qui luy pust estre dû.
+Affronter un Baron !
+
+-*who_tante
+Sans doute il est coupable.
+
+-*who_la_montagne
+Aussi je vous le fis brancher comme un beau diable,
+Vous l'eussiez veu…
+
+-*who_lysette
+Ce fut devant vostre Chasteau
+Que vous fistes dresser sa Figure en tableau ?
+Si jamais il est pris vous luy ferez grand chere.
+
+-*who_philipin
+Pour peu qu'il parle encor adieu tout le mystere.
+
+-*who_la_montagne
+Que diable a-t'il fait croire, et que dit celle-cy ?
+
+-*who_philipin
+Voir que vous sçachiez tout luy donne du soucy⁎.
+
+-*who_tante
+D'un affront si cruel le souvenir vous fâche,
+Mais les fautes d'autruy ne sont pas…
+
+-*who_la_montagne
+Ah le lâche !
+La douleur dont m'accable un si dur souvenir…
+Amy, pour un moment daigne me soûtenir,
+Je n'en puis plus.
+
+-*who_tante
+Lysette, il faudroit…
+
+-*who_la_montagne
+Non, Madame,
+Ce n'est rien.
+
+-*who_lysette
+Ces malheurs abatent bien une ame,
+Plus la naissance⁎ est haute, et plus on les ressent.
+
+-*who_tante
+Qu'une Fille est par tout un meuble embarassant !
+
+-*who_lysette
+Si j'estois que de vous, et que j'eusse une Niepce,
+Je sçaurois m'en défaire aussi-tost.
+
+-*who_tante
+Rien ne presse,
+Voyons auparavant quel sera mon destin.
+
+-*who_lysette
+Oronte a sceu toucher vostre cœur, mais enfin
+Le Baron sans reserve aspirant à vous plaire
+Je prendrois le plus seur.
+
+-*who_la_montagne
+J'entens, laisse-moy faire.
+
+-*who_philipin
+Dy qu'il sera pendu tout au moins.
+
+-*who_la_montagne
+Pardonnez
+Le desordre où mes sens se sont abandonnez⁎.
+La douleur m'a d'abord⁎ suffoqué la parole.
+
+-*who_tante
+L'accident est de ceux dont rien ne nous console,
+Et j'avouë…
+
+-*who_la_montagne
+Il est vray, je sçay qu'il seroit mieux
+Que de honte et d'ennuy⁎ j'en mourusse à vos yeux,
+Mais ma Sœur dont le sexe⁎ est moins fort que le nostre
+A fait une folie, et j'en ferois une autre.
+Vivons donc s'il vous plaist nonobstant son delit,
+C'est son affaire.
+
+-*who_tante
+Il faut vous en guerir l'esprit,
+Et pour faire finir les ennuis⁎ qu'il vous cause
+Avecque la Rapiere accommoder⁎ la chose.
+
+-*who_la_montagne
+Moy, j'accommoderois⁎ ? vous ne songez donc pas
+Que de tous cas vilains c'est le plus vilain cas ?
+Comment ? dans un Chasteau dont l'antiquité brille
+Venir de guet à pens déhonter une fille,
+Duper sa prud'hommie à force de douceurs⁎,
+De ma sœur qu'elle estoit la faire de nos sœurs,
+Et quand il en est saoul luy tourner le derriere !
+Ah, vous serez pendu, Monsieur de la Rapiere.
+
+-*who_tante
+Je sçay qu'il est coupable, et je l'ay dit d'abord⁎,
+Mais il est des moments où l'amour est bien fort,
+Et pour un peu d'empire⁎ usurpé sur son ame
+Le malheureux qu'il est sera…
+
+-*who_la_montagne
+Pendu, Madame.
+A la sœur d'un Baron apprendre à provigner⁎ !
+
+-*who_tante
+Quoy, ne pouvoir souffrir qu'on tâche à vous gagner,
+Et contre un Gentilhomme avoir l'ame si fiere.
+
+-*who_la_montagne
+Ouy, pendu luy, vous dis-je, et sa gentilhommiere.
+Ne tient-il qu'à venir affronter des Barons ?
+Par son cou, sans ressource.
+
+-*who_tante
+Et bien, nous le verrons.
+M'aimez-vous ?
+
+-*who_la_montagne
+Les transports⁎ dont ma flame est suivie,
+Ne vous font que trop voir…
+
+-*who_tante
+Donnez-moy donc sa vie,
+Sans cela, point de foy⁎.
+
+-*who_la_montagne
+Qui diable en demy jour
+Vous est déja pour luy venu faire la Cour ?
+Vous en a-t'on appris le païs, la naissance⁎ ?
+
+-*who_tante
+Signons sa grace, après entiere confidence.
+
+-*who_la_montagne
+Signons puis qu'il le faut, mais à condition
+Que vous ne ferez point languir ma passion,
+Et que dés aujourd'huy par bon contract en forme
+J'auray droit de vous dire, attendez moy sous l'orme.
+Sans cela point d'accord.
+
+-*who_tante
+Vous prendre pour époux
+Ne seroit pas sans doute assez faire pour vous.
+Ma Niepce est jeune et riche, allez je vous la donne.
+
+-*who_la_montagne
+Et moy, je vous la rends, vous me la baillez⁎ bonne.
+Je hay ces yeux fripons dont la malignité
+Est, dit-on, fort sujette à la fragilité.
+Par la moindre douceur⁎ leur friandise émeuë    
+Laisse égarer soudain leurs regards vers la ruë,
+Et pour peu qu'un Galant prenne la bale au bond…
+
+-*who_tante
+Ma Niepce ne vit pas comme les autres font,
+J'ay pris soin de l'instruire, et je répondray d'elle.
+
+-*who_la_montagne
+D'accord, mais…
+
+-*who_tante
+Elle est riche, et de plus…
+
+-*who_la_montagne
+Bagatelle,
+C'est à vous que j'en veux.
+
+-*who_tante
+Mes beaux ans sont passez,
+J'enlaidis tous les jours.
+
+-*who_la_montagne
+Plaisez-moy, c'est assez.
+
+-*who_tante
+Vous ne voulez pas voir que j'avance dans l'âge,
+Que je n'ay plus…
+
+-*who_la_montagne
+Tant mieux vous en serez plus sage.
+
+-*who_tante
+On m'a parlé de vous, je ne le puis nier,
+Mais si-tost que je songe à me remarier,
+Les soins⁎ que le Defunt prit toûjours de me plaire,
+Ce que pour m'attendrir il s'efforçoit de faire,
+Tout cela me ramene un souvenir si doux,
+Qu'à faire choix d'un autre en vain je me resous.
+Je ne suis plus moy-mesme aussi-tost qu'il me frape.
+
+-*who_la_montagne
+Vous l'avez bien trouvé, c'est par là qu'on m'attrape.
+
+-*who_tante
+Que Lysette…
+
+-*who_la_montagne
+Employez et le verd et le sec
+Pour me faire passer la plume par le bec,
+Nous verrons qui de nous y trouvera son compte.
+
+-*who_tante
+Quoy donc…
+
+-*who_la_montagne
+Vous mitonnez⁎ le taciturne Oronte,
+Et si jamais l'hymen le met entre vos bras
+Vous prendrez patience, et n'en pleurerez pas.
+
+-*who_tante
+Mais si je ne sens point pour vous grande tendresse ?
+
+-*who_la_montagne
+Si je n'en sens non plus pour vostre sote Niepce ?
+
+-*who_tante
+Qu'a-t'elle de si sot pour vous en dégouster ?
+
+-*who_la_montagne
+Et qu'ay-je de si laid pour me tant rebuter.
+
+-*who_tante
+Vingt mille escus pour elle ont entré dans la masse.
+
+-*who_la_montagne
+Mille Barons et plus sont sortis de ma race.
+
+-*who_tante
+Mon bien en l'épousant vous est seur quelque jour.
+
+-*who_la_montagne
+Vous devenez Baronne en payant mon amour.
+
+-*who_tante
+Mais quand ce ne seroit que cet hymen m'importe.
+
+-*who_la_montagne
+Serviteur.
+
+-*who_tante
+A la fin la colere m'emporte.
+Ah, le vilain magot qui refuse les gens.
+
+-*who_la_montagne
+Ah, la laide Guenon qui jase⁎ à soixante ans.
+
+-*who_tante
+Quoy joindre impudemment le mensonge à l'injure,
+Soixante ans !
+
+-*who_la_montagne
+Ouy, soixante, à fort bonne mesure,
+Et je le maintiendray devant vostre Mignon⁎,
+Je le connoy.
+
+-*who_lysette
+Voyez le joly Compagnon
+Qui nous donne des ans, elle n'en a pas trente.
+
+-*who_la_montagne
+Le blondinage a l'art de m'excroquer la Tante,
+Et chacun pour soy mesme agissant comme il peut
+Je laisse heureux Oronte à qui seul on en veut.
+Pour vous garder à luy vous m'avez fait la piece⁎
+De vouloir sotement m'endosser de la Niepce.
+L'affront pour un Baron est un outrage indeu,
+Mais la Rapiere aussi, net, il sera pendu.
+Adieu, Tante.
+
+**** *book_ *id_body-6-8 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Il s'en va bien outré.
+
+-*who_tante
+Mais, Lysette,
+Par où sortir du trouble où son refus me jette.
+
+-*who_lysette
+Moy, je ne vous dis rien.
+
+-*who_tante
+Qu'Oronte est malheureux !
+
+-*who_lysette
+Vous courez grand hazard de les perdre tous deux,
+Craignant d'estre surpris, et que quelque lumiere
+Ne découvre au Baron qu'Oronte est la Rapiere,
+Il va gagner païs.
+
+-*who_tante
+Pour fuir ce dur ennuy⁎,
+Lysette, allons de tout conferer avec luy.
+
+**** *book_ *id_body-7-1 *act_ *date_1667 *creator_corneille
+
+-*who_angelique
+Quoy ? par un faux Baron avoir dupé ma Tante ?
+La piece⁎ est un peu forte.
+
+-*who_oronte
+Elle estoit importante,
+Et sans son entremise il s'offroit peu de jour
+A vous pouvoir montrer l'excez de mon amour.
+C'est luy qui m'a tiré de l'embarras extréme
+Où vous m'avez réduit en feignant que je l'aime,
+Et Philipin eust vu sa fourbe sans effet
+S'il n'eust pas confirmé le conte qu'il a fait.
+La Montagne est adroit et joüera bien son role.
+
+-*who_angelique
+Le bon est que de tout Lysette la console,
+Et ne luy laisse voir rien d'égal au dessein
+De vous sauver la vie en luy donnant la main.
+Elle a si bien tourné son ame irrésoluë
+Que par elle ou par moy vostre affaire est concluë,
+On a fait revenir le Baron tout exprés.
+
+-*who_philipin
+Ils sont à disputer encor sur nouveaux frais.
+J'écoutois tout à l'heure, et d'une ardeur semblable
+L'un nommoit la Rapiere et juroit comme un diable,
+Et l'autre soûtenoit que quoy qu'il fust Baron,
+Sa Niepce valoit bien qu'il signast le pardon.
+Leandre feint entr'eux d'avoir l'ame incertaine.
+
+-*who_oronte
+Il travaille pour nous, n'en soyons point en peine.
+
+-*who_angelique
+Mais pouvez-vous penser, quand ma Tante aprendra
+Qu'un Baron supposé…
+
+-*who_oronte
+Le vray Baron viendra.
+Je vous ay déja dit qu'arreté pour affaire
+Il n'avoit sceu partir comme il le croyoit faire,
+Et que par un Pouvoir que j'avois d'aujourd'huy
+Il me donne plein droit de tout signer pour luy.
+Le voicy, dans vos mains il sera l'asseurance
+De l'hymen dont on a flaté son esperance ;
+Le Baron d'Albikrac se trouvant des mieux faits
+N'aura pas grande peine à faire nostre paix.
+Il luy faut jusques là cacher le stratagème.
+
+-*who_angelique
+Mais quand il l'aura veuë, estes vous seur qu'il l'aime ?
+
+-*who_oronte
+Qu'importe ? elle est fort riche, et luy fort endeté,
+C'est son bien qu'il épouse, et non pas sa beauté.
+Pourveu qu'il trouve l'un il la quite de l'autre.
+
+-*who_philipin
+Que j'aye aussi mon compte en vous donnant le vôtre,
+J'aime Lysette.
+
+-*who_angelique
+Va, nous songerons à toy.
+
+-*who_philipin
+Aprés tout, vostre amour ne tenoit rien sans moy,
+Avoüez que pour vous la Rapiere a fait rage.
+
+-*who_angelique
+J'entens, tu n'en és pas à ton apprentissage.
+
+-*who_oronte
+Le nom de la Rapiere et la Sœur du Baron,
+Grace à son bel esprit, sont traits d'invention.
+Le reste est effectif, et regarde l'affaire
+Où de tous vos amis l'appuy m'est necessaire.
+D'un Breton laissé mort redoutant les Parents
+Au Chasteau du Baron aussi-tost je me rends,
+La nuict par son conseil je quitte la Bretagne,
+Jusqu'à Londre en secret luy-mesme il m'accompagne,
+Et luy devant beaucoup, il m'est doux aujourd'huy
+De trouver quelque voye à m'acquiter vers luy.
+Par son grand bien la Tante est pour luy des plus belles,
+Et sur ce qu'il m'écrit…
+
+**** *book_ *id_body-7-2 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Voicy bien des nouvelles
+Armez-vous de constance et faites l'esprit fort,
+On va vous prononcer la sentence de mort,
+Le Baron pour cela se fait tenir à quatre,
+De ses emportements il ne veut rien rabatre,
+Et la Tante ne peut y mettre le hola
+Qu'en mettant dans vos bras la Belle que voila.
+Voyez si vous pourrez souffrir ce coup de foudre.
+
+-*who_philipin
+Va querir un Docteur afin de l'y resoudre,
+Tu vois comme il en a l'esprit tout consterné.
+
+-*who_lysette
+Pour en amener un l'ordre est déja donné,
+Cascaret est couru d'abord⁎ chez le Notaire.
+
+-*who_oronte
+En croiray-je vos yeux ?
+
+-*who_angelique
+Ils ne peuvent se taire,
+Et vous marquent assez ce que mon cœur ressent.
+
+-*who_lysette
+Au lieu d'une douceur⁎ vous vous en direz cent,
+Mais bouche close icy, renfermez vostre joye,
+J'ay peur que nostre Tante avec luy ne vous voye,
+Elle est preste à venir, et le moindre soupçon
+Nous feroit avorter la fourbe du Baron.
+Rentrez, future épouse, attendant qu'on vous mande.
+
+-*who_oronte
+M'aimez-vous ?
+
+-*who_angelique
+Jugez-en.
+
+-*who_oronte
+Parlez.
+
+-*who_angelique
+Quelle demande !
+Combien de fois déja…
+
+-*who_oronte
+Daignez le repeter.
+
+-*who_angelique
+Adieu, j'en dirois trop si j'osois écouter.
+
+**** *book_ *id_body-7-3 *act_ *date_1667 *creator_corneille
+
+-*who_lysette
+Et bien ?
+
+-*who_oronte
+Je te doy tout, si son cœur est sensible
+C'est par toy…
+
+-*who_lysette
+Vous doutiez qu'il pust estre flexible,
+Croyez-moy, s'il en est qu'on voit s'en affranchir,
+C'est faute de trouver qu'il les vueille flechir.
+On vient à bout de tout avec un peu d'étude,
+Je n'en excepte pas la venerable Prude,
+Qui fuyant moins l'amour qu'elle ne fuit l'éclat⁎,
+Exprés pour n'en point faire est la dupe d'un fat.
+A la voir ne souffrir Blondin⁎ ny galant homme
+C'est la mesme vertu, cependant, c'est tout comme.
+
+-*who_oronte
+Ton sexe⁎ te doit trop.
+
+-*who_lysette
+Je hay les sots détours,
+Et j'enrage de voir ce qu'on voit tous les jours,
+De ces Sages du temps, de ces demy-Beates
+Qui sur le point d'honneur faisant les delicates,
+En tous lieux par un zele aussi faux qu'indiscret⁎
+Preschent contre l'amour qu'elles font en secret.
+Sur leurs levres toûjours la vertu se déploye,
+Beau dehors par la langue, et du reste, à cœur joye.
+Quant à moy je dis fy de ces contrefaçons,
+Point de déguisement, point de…
+
+-*who_philipin
+Bonnes leçons !
+Donc si je t'épousois, et qu'il te prist envie
+De me faire augmenter la grande Confrairie,
+Tu viendrois franchement me le dire à mon nez ?
+
+-*who_lysette
+Le grand mal !
+
+-*who_philipin
+Il s'étend jusqu'aux plus rafinez,
+Mais si pour s'en sauver un Mary ne voit goute,
+Du moins sans qu'il le sçache, il suffit qu'il s'en doute,
+Si nous en venons là, dissimulons tous deux,
+Autrement…
+
+-*who_lysette
+Faites bien le plaintif, le piteux,
+La Tante vient.
+
+**** *book_ *id_body-7-4 *act_ *date_1667 *creator_corneille
+
+-*who_oronte
+La perdre ! Ah douleur qui me tuë !
+
+-*who_lysette
+Tâchez d'en avoir l'ame un peu moins abatuë.
+Si l'on trompe vos feux c'est pour vous secourir.
+
+-*who_oronte
+Ah, qu'il vaudroit bien mieux qu'on me laissast périr !
+Tu dis que cet Hymen luy tient lieu de supplice,
+Qu'elle fait en tremblant ce triste sacrifice,
+Qu'au Baron à regret elle donne la main ?
+
+-*who_tante
+Plaignez-moy, mon malheur, Oronte, est trop certain.
+Vous le sçavez, pour moy l'hymen est une peine,
+Par pitié de vos feux j'étoufois cette haine,
+Et pour vous garantir d'un infame trépas
+Il me faut épouser ce que je n'aime pas,
+Me livrer au Baron.
+
+-*who_oronte
+Au Baron ! Ah, Madame !
+
+-*who_tante
+Que de douceurs, helas ! va perdre vostre flame !
+La mienne chaque jour, si l'hymen nous eust joints,
+Eust charmé vostre cœur par mille tendres soins⁎,
+Je vous aurois chery, témoigné…
+
+-*who_oronte
+Quelle rage !
+
+-*who_philipin
+La bonne ame !
+
+-*who_tante
+Ah, pourquoy n'étiez-vous pas plus sage ?
+Pour la sœur du Baron, quoy qu'elle eust de charmant,
+Falloit-il de vos feux croire l'emportement ?
+S'y trop abandonner⁎, n'en prévoir pas la suite ?
+
+-*who_oronte
+Personne ne veilloit dessus nostre conduite,
+Hors une vieille Tante à tous moments au lict
+Rien ne mettoit obstacle au feu qui nous surprit,
+La Belle d'un coup d'œil forçoit tout à se rendre,
+Je n'étois pas de marbre, elle avoit le cœur tendre,
+Cent faveurs m'asseuroient d'un amour mutuel.
+Madame, estoit-ce à moy de faire le cruel ?
+Sans ce Galand surpris elle m'estoit si chere,
+Qu'afin de l'épouser j'eusse attendu son Frere,
+Mais plûtost…
+
+-*who_tante
+Par argent si nous tâchions…
+
+-*who_oronte
+Abus⁎,
+J'ay fait offrir six fois jusqu'à dix mille écus,
+Mais à moins d'épouser…
+
+-*who_tante
+Il faut donc me resoudre
+A devenir sa femme afin de vous absoudre,
+Un veusvage éternel me seroit bien plus doux.
+
+-*who_oronte
+Et bien demeurez Veusve.
+
+-*who_tante
+Et que deviendrez-vous ?
+Le Baron a juré vostre ruïne entiere.
+Ah, que si vous pouviez n'estre point la Rapiere.
+
+-*who_philipin
+Sa Rapiere a fait rage, il en a pris le nom,
+Voila que c'est d'occire.
+
+-*who_oronte
+Evitant le Baron
+Que craindray-je ? Candie est un poste honorable,
+J'iray contre le Turc…
+
+-*who_philipin
+J'iray contre le Diable ?
+Le Turc, Madame !
+
+-*who_tante
+Non, si le Ciel ne veut pas
+Qu'un doux et chaste nœud me mette entre vos bras,
+Du moins pour m'empescher de vivre infortunée
+Attachez-vous à moy par un autre hymenée.
+Ma Niepce…
+
+-*who_lysette
+Elle est pour luy toûjours à dédaigner,
+C'est pis qu'un heretique, on n'y peut rien gagner.
+Hors vous rien ne luy plaist.
+
+-*who_tante
+Mais on la trouve aimable.
+
+-*who_oronte
+Madame, si l'on veut elle est incomparable,
+Mais je mourrois d'ennuy⁎ si j'étois son époux,
+Chacun voit par ses yeux.
+
+-*who_philipin
+Comme il le baille⁎ doux,
+L'entend-il ?
+
+-*who_tante
+Cependant quoy que nous puissions faire
+Le Baron sans cela refuse vostre affaire,
+Point d'accommodement.
+
+-*who_oronte
+Et par quel interest ?
+
+-*who_tante
+Il croit que vostre hymen est tout ce qui me plaist,
+Que je me garde à vous, et pour son asseurance
+Il vous veut voir tous deux mariez par avance.
+
+-*who_oronte
+Et ne vous peut-il pas épouser dés demain ?
+
+-*who_tante
+Non, une grande affaire en suspend le dessein,
+Il faut qu'auparavant il retourne en Bretagne.
+
+-*who_oronte
+Et moy, je me dispose à faire une campagne,
+Ce que je souffrirois par l'hymen chaque jour
+Rend la guerre pour moy préferable à l'amour,
+J'y vay prendre party.
+
+-*who_philipin
+C'est afin qu'on nous tuë,
+Il a la rage au cœur de vous avoir perduë,
+Madame, ayez pitié du maistre et du valet.
+
+**** *book_ *id_body-7-5 *act_ *date_1667 *creator_corneille
+
+-*who_la_montagne
+Nous nous sommes lassez de garder le mulet.
+Pour pouvoir si long-temps nous laisser en attente,
+Il faut que vous ayez l'ame bien contestante.
+Est-ce fait ? quant à moy dire et faire n'est qu'un.
+
+-*who_oronte
+Vous avez grande haste.
+
+-*who_la_montagne
+Ouy, j'en suis importun,
+Mais c'est mon naturel d'estre preste à tout faire.
+Signerons-nous ? c'est là ma plus pressante affaire.
+
+-*who_tante
+Vous aurez le bonheur que vostre amour attend.
+
+-*who_la_montagne
+Nous n'avons point parlé combien d'argent comptant,
+Il m'en faut quelque peu, ne fust-ce que pour faire
+Un train⁎ digne du rang de défunte ma Mere,
+Je suis dans nos quartiers le Premier des Barons.
+
+-*who_leandre
+Le Notaire venu, nous le stipulerons,
+Madame est raisonnable.
+
+-*who_la_montagne
+Il le faudra superbe.
+Vous pensiez sous le pied me pouvoir couper l'herbe,
+Blondin⁎, mais s'il vous plaist rengainez vos amours,
+La Tante…
+
+-*who_oronte
+Ouy je l'aimois, et l'aimeray toûjours,
+Et quand vous me l'ostez plein d'une fiere audace,
+Ce trait de raillerie est de méchante grace.
+Si pour vous contre moy ses propres interests…
+
+-*who_la_montagne
+Quoy diable, en un besoin il feroit le mauvais ?
+Allez, je vous accepte avec joye infinie
+Pour tres-digne Neveu de nostre Baronnie.
+Je vous donne la Niepce, et vous fais son époux.
+
+-*who_oronte
+Non pas, quand il faudroit…
+
+-*who_la_montagne
+Comment l'entendez-vous,
+Ma Tante ?
+
+-*who_oronte
+Mais comment l'entendez-vous vous mesme ?
+Ne vous suffit-il pas de m'oster ce que j'aime ?
+Faut-il…
+
+-*who_la_montagne
+Criez, pestez autant qu'il vous plaira.
+Sçavez-vous de cecy ce qui resultera ?
+La Rapiere… autant vaut.
+
+-*who_tante
+Mon cher Monsieur.
+
+-*who_oronte
+Madame.
+
+-*who_la_montagne
+On me le doit livrer.
+
+-*who_tante
+Que je touche vostre ame.
+Sauvez un malheureux dont je prens l'interest.
+
+-*who_oronte
+Autant que je le puis je veux ce qui vous plaist,
+Mais vous perdre, et penser qu'une autre me fust chere !
+
+-*who_leandre
+Madame vous en prie. Il faut la satisfaire.
+
+-*who_oronte
+Mais sa Niepce jamais ne voudra…
+
+-*who_tante
+Vueille ou non,
+J'en répons.
+
+-*who_oronte
+Elle espere épouser le Baron,
+Le rang qu'il tient la charme, elle en est entestée,
+Et l'en ayant tantost par vostre ordre flatée…
+
+-*who_la_montagne
+Lors que par les Parents un Hymen est réglé,
+Je voudrois devant moy qu'une Fille eust soufflé⁎,
+Comme je vous… hola, qu'on m'appelle Angelique.
+Pour Niepce de par vous me sera-t'elle unique ?
+Pour moy, j'ay quantité de jeunes Baronneaux
+Que je vous vay donner pour Neveux tout nouveaux,
+Sans le petit Rapiere, il n'entre point en compte.
+
+-*who_tante
+Epousez-là de grace, et me laissez Oronte.
+Epargnez-luy l'ennuy⁎ de me voir dans vos bras,
+Il m'aime tant.
+
+-*who_la_montagne
+Et moy, ne vous aimay-je pas ?
+
+-*who_tante
+Je ne sçay.
+
+-*who_la_montagne
+Quoy, dix fois on m'a pour la Rapiere,
+Avec dix mille écus fait tres-humble priere,
+Je le dépens gratis dés que vous m'en priez,
+Et malgré tout cela vous vous en défiez⁎ ?
+
+-*who_tante
+Mais vous dites que j'ay…
+
+-*who_la_montagne
+C'est que je goguenarde.
+
+-*who_tante
+Vous me trouvez si laide ?
+
+-*who_la_montagne
+Y faut-il prendre garde ?
+
+-*who_tante
+L'affront me tient au cœur.
+
+-*who_la_montagne
+Et moy, fort à l'esprit.
+Avez-vous oublié ce que vous m'avez dit ?
+
+-*who_tante
+Il faut qu'un galant homme endure tout des femmes,
+Et se vanger du sexe⁎ est des petites ames.
+
+-*who_la_montagne
+Quoy, vous aurez le droit de m'appeler Magot,
+Il sera des Guenons, et je ne diray mot ?
+Je suis mutin en diable alors qu'on m'injurie,
+Je ris quand on veut rire, et j'entens raillerrie,
+Et pour vous faire voir qu'on ne me peut payer,
+Si tost qu'il vous plaira nous entretutoyer,
+Sans rancune et sans fiel, volontiers, va, Mignonne,
+Je seray ton Magot, tu seras ma Guenonne,
+Nous choisirons ainsi cent jolis petits noms.
+
+**** *book_ *id_body-7-6 *act_ *date_1667 *creator_corneille
+
+-*who_la_montagne
+La Belle, il faut vouloir ce que nous ordonnons,
+C'est sans aucun appel ; en fille obeïssante
+Oyez ce qu'avec nous a résolu la Tante.
+
+-*who_tante
+On vous donne un Epoux, Monsieur prend ce soucy.
+
+-*who_la_montagne
+Faites la réverence, et dites grand mercy,
+Bouchonne, dés demain vous aurez l'avantage
+De sçavoir quelle joye on trouve au mariage,
+Pour réveiller les sens rien n'est plus souverain.
+
+-*who_angelique
+Oronte dés tantost m'a dit vostre dessein,
+J'avois pour le Couvent l'intention fort bonne,
+Mais pour m'oüir nommer Madame la Baronne,
+Me voir grand équipage⁎…
+
+-*who_la_montagne
+Ah friand⁎ petit nez,
+De vostre chef ainsi vous vous embaronnez ?
+En fait de ce qui flate, et doit donner à rire,
+La chate a le goust bon, et ne prend pas le pire.
+
+-*who_angelique
+Ne m'avez-vous pas dit que vous vouliez…
+
+-*who_la_montagne
+Toux doux,
+Un Baron tel que moy n'est pas viande pour vous.
+Un mets si delicat n'est que pour une Tante.
+
+-*who_angelique
+Ma Tante sans mary vit heureuse et contente,
+Et plûtost qu'à l'hymen on la pust disposer,
+Elle seroit…
+
+-*who_tante
+Il faut vous entendre jaser⁎,
+Où va-t'elle ?
+
+-*who_angelique
+Je sorts de peur de vous déplaire.
+
+-*who_la_montagne
+Vous ne vous sçauriez donc marier et vous taire ?
+Venez, voila le beau qu'on vous a destiné.
+
+-*who_angelique
+Oronte !
+
+-*who_la_montagne
+Il est dispos, alaigre, bien tourné.
+
+-*who_angelique
+N'importe.
+
+-*who_tante
+Vous voulez, je pense, estre priée.
+
+-*who_angelique
+Je suis trop jeune encor pour estre mariée.
+
+-*who_lysette
+Voyez, elle en mourroit.
+
+-*who_la_montagne
+Que d'importuns debats !
+Finissons en deux mots, veut-on ? ne veut-on pas ?
+
+-*who_oronte
+Mais en quoy mon Hymen importe-t'il au vostre
+Pour vouloir que…
+
+-*who_la_montagne
+C'est là me prendre pour un autre,
+Il me faut faire un tour en Bretagne, et tandis
+Vous auriez tout loisir de vous estre ébaudis.
+Moy party, la Rapiere absous, la chere Tante
+Vous prenant pour Mary croiroit vivre contente,
+Il n'est contract signé qui m'en pust garantir.
+
+-*who_oronte
+Et bien, mariez-vous avant que de partir.
+Un jour plus, un jour moins ne vous importe gueres,
+Et…
+
+-*who_la_montagne
+Mon futur Neveu chacun sçait ses affaires.
+Donnez la main.
+
+-*who_angelique
+Moy ?
+
+-*who_la_montagne
+Viste, et sans plus raisonner.
+
+-*who_tante
+La Sote !
+
+-*who_lysette
+Donnez-la puisqu'il la faut donner,
+Vous fâchez vostre Tante.
+
+-*who_angelique
+Elle en parle à son aise,
+Quand on a des Barons…
+
+-*who_la_montagne
+Vous plaist-il qu'il vous plaise ?
+
+-*who_angelique
+Il faut bien obeïr, mais je ne répons pas
+Qu'à vaincre mon dégoust jamais Oronte…
+
+-*who_la_montagne
+Helas,
+On s'accoustume à tout. Demain donc sans remise,
+Dans les bras de l'Epoux l'Epouse sera mise.
+Cela fait je déloge, et parts en seureté.
+
+-*who_oronte
+Mais Madame en a-t'elle autant de son costé ?
+Si pour vous de la foy⁎ mon hymen est le gage
+Il luy faut contre vous un pareil avantage,
+Qu'aprés vostre interest vous asseuriez le sien.
+
+-*who_la_montagne
+Dépendre la Rapiere est donc compté pour rien ?
+Sans l'honneur de ma Sœur, qui ne vaut pas grand'chose,
+Ce sont dix mille escus dont ma Tante dispose,
+Et pour vous faire voir que j'agis franchement,
+J'y veux bien adjouster encor ce Diamant,
+Il n'est pas des plus laids.
+
+-*who_lysette
+Madame, comme il brille !
+
+-*who_leandre
+Il est de prix.
+
+-*who_la_montagne
+C'est presque un tître de famille,
+Des Seigneurs Albikracs il vient de Pere en Fils,
+L'an est gravé dessous, mil deux cent trente six.
+Si l'on ne m'en croit pas, en rompant…
+
+-*who_tante
+Non, de grace,
+On ne peut mieux prouver une ancienne race.
+
+-*who_la_montagne
+Nous la montrerons telle, et vous ramenerons
+Pour nous voir marier quinze ou trente Barons.
+Si la Noblesse a droit de chatoüiller vostre ame,
+Je vous en garantis satisfaite.
+
+**** *book_ *id_body-7-7 *act_ *date_1667 *creator_corneille
+
+-*who_cascaret
+Madame,
+Le Notaire est venu.
+
+-*who_la_montagne
+Bon, allons tous signer.
+Ma Sœur en l'apprenant voudra se mutiner,
+Mais elle a fait la faute, il faut qu'elle la boive.
+
+-*who_leandre
+A son propre repos il n'est rien qu'on ne doive,
+Goûtez-le sans chagrin.
+
+-*who_philipin
+Par la permission
+De tres-haut, tres-puissant Monseigneur le Baron,
+Que j'épouse Lysette.
+
+-*who_la_montagne
+Elle n'est pas novice,
+Tu choisis bien.
+
+-*who_philipin
+Monsieur, je la croy de service,
+C'est bien mon fait⁎ par là.
+
+-*who_la_montagne
+T'aime-t'elle ?
+
+-*who_philipin
+A peu prés.
+
+-*who_la_montagne
+Viens signer avec nous, tu danseras après.
+
+**** *book_ *id_privilege *date_1667 *creator_corneille
+
+Extrait du privilege du Roy.
+
+Par grace et Privilege du Roy donné à S. Germain en Laye le 21 de Février 1668.
+Signé DE MALON, il est permis au sieur T. CORNEILLE de faire imprimer, vendre et debiter par tel Imprimeur et Libraire qu'il voudra choisir, une pièce de Theatre de sa composition, intitulée Le Baron d'Albikrac, pendant le temps et espace de cinq ans entiers et accomplis, à compter du jour que ladite Piece de Theatre sera achevée d'imprimer ; et défences sont faites à tous autres de quelque qualité et condition qu'ils soient de faire imprimer ladite Piece sur peine de trois mille livres d'amende, et de tous dépens, dommages et interests, ainsi qu'il est plus amplement porté par lesdites lettres.
+
+Registré sur le Livre de la Communauté le cinquième de Mars 1668.
+
+Signé THIERRY Adjoint.
+
+Achevé d'imprimer pour la premiere fois le 8 Février 1669. à Roüen, par L. MAURRY, aux dépens de l'Autheur, lequel a traité de la presente impression et du Privilege avec CLAUDE BARBIN, et GABRIEL QUINET Marchands Libraires à Paris, pour en joüir suivant l'accord fait entr'eux.
+
+Les exemplaires ont esté fournis.

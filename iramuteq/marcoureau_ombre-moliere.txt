@@ -1,0 +1,1023 @@
+
+
+**** *book_ *id_body-1 *date_1674 *creator_brecourt
+
+L'OMBRE DE MOLIERE.
+
+COMEDIE.
+
+À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN.
+
+Monseigneur,
+
+Voicy l'Ombre de Moliere ; c'est une Comédie dont le bonheur sera parfait, si V. A. S. l'honore du moindre coup d'œil.
+Sans l'autorité que me donne un long usage, je ne hazarderois pas de mettre vostre Illustre Nom à la Teste d'un Livre, lors qu'il va si glorieusement éclater à la Teste des Armées.
+Alexandre mettoit Homere sous son chevet ; Scipion et Lélie honorerent Térence de leur estime : mais sans le secours de ces Exemples, il suffit de celuy de V. A. S. pour justifier que les Armes et les Lettres n'ont rien d'incompatible, et que le Cabinet et le Camp peuvent estre Amis.
+Souffrez donc, Monseigneur, que les Œuvres de Moliere tiennent quelque rang dans vostre Bibliothèque, et que ma Comedie soit une espece de Table pour les siennes.
+
+DE V.A.S.
+
+Monseigneur,
+
+Le tres-humble et tres-obeïssant Serviteur,
+
+BRECOURT.
+
+**** *book_ *id_body-2 *date_1674 *creator_brecourt
+
+-*who_oronte
+Point, vous dis-je ; C'est une raillerie qu'on vous a faite de moy.
+
+-*who_cleante
+Je vous dis que je suis seûr de la chose.
+
+-*who_oronte
+C'est quelqu'un qui a voulu se divertir à mes dépens, vous dis-je.
+
+-*who_cleante
+Ah ! que vous estes reservé !
+
+-*who_oronte
+Mais que vous estes folâtre avec vostre Comedie !
+C'est bien à moy à entreprendre de ces ouvrages ?
+Non, non, Cleante, je me connoy ; et si parmy mes Amis je me laisse aller à produire quelque Epigramme, quelque Madrigal, ou de semblables bagatelles, croyez que cela ne m'a point donné assez bonne opinion de moy pour entreprendre un Ouvrage que l'on puisse appeller Comédie.
+C'est un pas, à la vérité, que presque tous les Gens franchissent aisément ; et il semble qu'il suffise d'avoir fait à plusieurs reprises une certaine quantité de médiocres ou de mechans Vers pour se donner avec beaucoup d'impunité le nom d'Autheur ; et sous ce titre, on hazarde librement un assemblage de Caracteres bien ou mal fondez, d'Incidens amenez à force, et de Galimatias redoublez, que l'on baptise effrontément du nom de Comédie.
+Voila par où plusieurs honnestes Gens ont échoüé dans le monde ; et sur leur exemple, je ne hazarderay point, mon cher Cleante, de perdre un peu d'estime que d'autres talens que la Poësie m'ont acquise.
+Quand on peut faire quelque chose de mieux qu'une méchante Piece, on ne doit point travailler à cet Ouvrage ; et quoy qu'on entreprenne, si l'on ne peut y reüssir parfaitement, il vaudroit encore mieux ne rien faire du tout.
+
+-*who_cleante
+Je vous trouve admirable, Oronte, avec tous ces justes et beaux raisonnemens !
+Mais ce qui m'en plaît le plus, c'est de vous voir si bien condamner aux autres une démangeaison dont vous n'avez pû vous défendre.
+Oüy, morbleu, je vous dis que vous avez fait une Comédie.
+
+-*who_oronte
+Moy ?
+
+-*who_cleante
+Vous l'avez donnée à étudier déja.
+
+-*who_oronte
+Encore ?
+
+-*who_cleante
+C'est une petite Pièce en Prose.
+
+-*who_oronte
+Bon.
+
+-*who_cleante
+Et les Comédiens qui la représenteront, sont cachez là-haut dans vostre Chambre, pour la repéter aujourd'huy.
+Là, rougissez à present qu'on vous met le doigt sur la Piece.
+Hé ?
+
+-*who_oronte
+Comment avez-vous sçeu cela ?
+
+-*who_cleante
+Ah ! comment je l'ay sçeu ?
+Que me donnerez-vous, et je vous le diray ?
+
+-*who_oronte
+Hé, de grace, dites-moy qui m'auroit pû trahir.
+C'est une chose que je n'ay confiée qu'à mon Frere et à ma Femme.
+
+-*who_cleante
+Socrate se repentit d'avoir dit son secret à la sienne : Mais ce n'est point de la vostre dont j'ay appris cecy ; et pour vous tirer d'inquiétude, sçachez que le hazard, et votre peu de soin, m'ont appris que vous aviez fait une Comédie.
+Vous connoissez vostre écriture apparamment, puis que je la connoy aussy.
+Tenez.
+L'Ombre de Moliere, petite Comedie en Prose.
+Eh ?
+
+-*who_oronte
+Ah Cleante ! je vous l'avouë, puis que vous le sçavez : Je m'y suis laissé aller ; il est vray, vous tenez mon Ouvrage ; C'est une petite Piece de ma façon, et vous estes trop de mes Amis, pour ne pas vous le dire.
+
+-*who_cleante
+Ah ! je vous suis trop obligé vrayment ; et vous m'avez confié ce secret de trop bonne grace, pour ne vous en pas témoigner ma reconnoissance.
+
+-*who_oronte
+Que vous estes fou !
+Donnez donc.
+C'est une bagatelle que je n'ay pas jugé digne d'entrer dans vostre confidence ; et pour vous le dire franche- ment, c'est l'effet de quelques heures de mélancolie qui m'ont fait griffonner ce petit Ouvrage.
+Vous sçavez que j'estimois Moliere ; et cette Pièce n'est autre chose qu'un Monument de mon amitié que je consacre à sa mémoire.
+La maniere dont il paroît dans ma Comédie, le represente naturellement comme il estoit, c'est-à-dire comme le Censeur de toutes les choses déraisonnables, blâmant les sottises, l'ignorance, et les vices de son siecle.
+
+-*who_cleante
+Il est vray qu'il a heureusement joüé toutes sortes de matieres ; et son Theâtre nous a servy longtemps d'une divertissante et profitable Ecole.
+
+-*who_oronte
+Il estoit dans son particulier, ce qu'il paroissoit dans la Morale de ses Pieces ; honneste, judicieux, humain, franc, genéreux ; et mesme, malgré ce qu'en ont crû quelques Esprits mal faits, il tenoit un si juste milieu dans de certaines matieres, qu'il s'éloignoit aussi sagement de l'excés, qu'il sçavoit se garder d'une dangereuse médiocrité.
+Mais la chaleur de nostre ancienne amitié m'emporte, et je m'apperçoy qu'insensiblement je ferois son Panegyrique, au lieu de vous demander quartier ; j'ay plus besoin de grace, que sa mémoire de loüanges.
+C'est pourquoy, cher Cleante, je vous redemande ma Piece : Mais puis que vous estes icy, honorez-la de vostre attention, et ne la regardez, je vous prie, que comme une chose que j'ay dédiée à la seule mémoire de mon Amy.
+
+-*who_cleante
+Allez, Oronte, quelque chose que ce soit, le seul sentiment qui vous l'a fait entreprendre, vous doit assurer de la reüssite de vostre Ouvrage ; et rien n'est plus honneste à vous, que de montrer au Public avec quelle justice vous estimiez un si grand Homme.
+
+-*who_oronte
+Ne me faites pas rougir davantage, Cleante ; et venez seulement donner vostre avis sur nostre Repétition.
+Fin du prologue.
+
+**** *book_ *id_body-3-1 *act_ *date_1674 *creator_brecourt
+
+-*who_ombre
+Donne, donne-moy ce Balay.
+
+-*who_ombre
+Je n'en feray rien, c'est à moy à balayer icy : Pluton y va venir, et je veux que tout soit net, et propre comme il faut.
+
+-*who_ombre
+Oüy, mais je te dispute cet honneur ; cela m'appartient mieux qu'à toy.
+
+-*who_ombre
+Et par quelle raison ?
+
+-*who_ombre
+Par la raison que quand j'estois dans l'autre Monde, je me suis si bien acquitté de mon Employ, que je mérite bien en celuy-cy l'honneur de l'exercer encore.
+
+-*who_ombre
+Et quel mérite avois-tu plus que moy en l'autre Monde ?
+N'estions-nous pas Laquais tous deux ?
+
+-*who_ombre
+Oüy, mais il y a Laquais, et Laquais.
+
+-*who_ombre
+Et qu'as-tu à me reprocher ?
+N'ay-je pas fidellement servy tous les Maistres à qui j'ay esté ?
+
+-*who_ombre
+Ay-je manqué en rien, moy, à tout ce que les miens m'ont commandé ?
+Et quand je servois, par exemple, cet illustre et fameux Tailleur, m'a-t-on jamais veu luy friponner la moindre guenille des choses qu'il déroboit ?
+
+-*who_ombre
+Et quand je servois, moy, mon petit Grison de Procureur, m'a-t-on jamais veu abuser des secrets qu'il me confioit, ny revéler aucune des friponneries qu'il faisoit à ses Parties ?
+
+-*who_ombre
+M'a-t-on veu manquer jamais à la fidélité que j'ay dûë à une Maistresse coquette que je servois, ny avertir son mary que je portois tous les jours des Billets-doux à ses Galans ?
+
+-*who_ombre
+Et, durant les quatre années que j'ay servy ce fameux Empirique, m'a-t-on jamais oüy B ; 17 dire le moindre mot des Poisons qu'il composoit, et de toutes les vies qu'il vendoit par ce moyen au plus offrant et dernier encherisseur ?
+
+-*who_ombre
+Tout-beau ; Le secret de faire mourir les Gens a quelque rapport avec la Medecine, et nous ne serions pas bien venus à enfiler ce discours.
+Nous nous échaperions peut-estre à parler contre les Medecins en parlant des Morts.
+Tu sçais que ces Messieurs sont un peu vindicatifs, et que depuis quelque temps sur tout, nous en avons icy qui ne preschent que la vengeance de ceux qui n'ont pas voulu mourir par leurs mains ; Et s'il arrive que nôtre grand Pluton leur accorde quelque empire en ces lieux, comme ils le prétendent, ils pourroient bien étendre leur colere jusques sur nous, pour n'avoir pas parlé d'eux avec tout le respect qu'ils attendent.
+C'est pourquoy nous ferons mieux de nous taire.
+
+-*who_ombre
+A propos, c'est donc pour ces Messieurs que la Feste se fait, et que nous venons tout préparer icy ?
+
+-*who_ombre
+Je ne sçay si c'est pour d'au- tres, ou pour eux ; mais je sçay bien que Pluton s'y doit rendre bientost pour juger une grande Affaire.
+C'est pourquoy, si tu m'en crois, au lieu de quereller, et de disputer de nos avantages, nous prendrons chacun un Balay, et nous nettoyerons ensemble, pour avoir plutost fait.
+Aussi-bien je voy trop d'ordures icy pour un seul Balayeur.
+
+-*who_ombre
+Tu as raison ; mais j'entens du bruit ; Seroit-ce déja Pluton ?
+
+-*who_ombre
+Attens : Non, non ce n'est pas luy encore ; c'est Caron avec le Génie du Poëte Doucet.
+Je croy qu'ils n'auront jamais finy leur querelle.
+
+-*who_ombre
+A qui en a Caron aussy, de tourmenter incessamment ce pauvre Génie ?
+
+-*who_ombre
+Il faut bien qu'il luy ait fait quelque chose.
+
+**** *book_ *id_body-3-2 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Que font là ces Coquins ?
+Allons, tout est-il net ?
+
+-*who_ombre
+Oüy, Messieurs, et vous pouvez quereller icy fort proprement.
+
+-*who_caron
+Quoy ! tu ne me laisseras pas en repos ?
+Veux-tu te retirer ?
+
+-*who_poete
+Helas, Caron ! helas !
+
+-*who_caron
+Helas, Caron ! helas !
+A qui diable en as-tu avec tes piteux helas ?
+
+-*who_poete
+Quoy ! me laisser secher ainsy dans les Champs Elysées !
+N'as-tu point quelque endroit à me mettre, et doy-je rester parmy les Ombres errantes ?
+
+-*who_caron
+Et où veux-tu que je te fourre, malheureux Génie que tu es ?
+Veux-tu que je te mette parmy les Poëtes ?
+Cela est indigne de ton mérite.
+Que je t'aille nicher aussy parmy des Héros ?
+Ma foy, tu les as un peu trop bien accommodez, pour croire qu'ils s'accommodassent de toy.
+
+-*who_poete
+Et quel outrage leur ay-je fait ?
+
+-*who_caron
+Ce que tu leur as fait ?
+Ma foy, tu en as fait de forts jolis Garçons ; et principalement les Héros Grecs ont grand sujet de se loüer de toy.
+Tu les as si bien barboüillez, qu'ils n'ont plus besoin de masques de Carnaval pour se déguiser.
+
+-*who_poete
+Que tu fais le plaisant mal à propos !
+
+-*who_caron
+Tu as raison, mais ce n'est que depuis que nous nous voyons.
+Ce Faquin, sans me connoistre, m'a si bien traduit en Diseur de bons mots, que l'on me chante en l'autre Monde comme un Opérateur Grotesque, moy qui à force d'entendre des lamentations, dois estre triste comme un Bonnet de nuit sans coëffe.
+Hé bien, tenez, ne voila-t-il pas encore ?
+Un Bonnet de nuit sans coëffe !
+Depuis que je connoy cet Animal, je ne dis que des sottises.
+Il me prend envie de te mettre aux mains avec Virgile, il t'ap- prendra à me connoistre.
+
+-*who_poete
+Helas, Caron ! helas !
+
+-*who_caron
+Encore ?
+Ma foy, je te bailleray de ma Rame sur les oreilles.
+
+-*who_poete
+Peux-tu traitter avec tant de rigueur un Génie qui a passé pour la douceur mesme ?
+
+-*who_caron
+Hé tu n'estois que trop doux, mon Enfant, et un peu de sel t'auroit fait grand bien.
+Mais je suis las de t'entendre ; nous avons bien d'autres affaires ; Adieu, va te promener.
+Ne va pas gâter nos belles Allées au moins, ny t'amuser à cueillir nos Lauriers.
+Ce n'est pas viande pour tes Oyseaux.
+
+-*who_poete
+Où veux-tu donc que j'aille ?
+
+-*who_caron
+Promene-toy sur l'Egoust ; et si la faim te prend, on te permet de manger quelques Chardons pour te rafraîchir la bouche.
+
+-*who_poete
+Helas, Car…
+
+-*who_caron
+Ah, le Bourreau !
+Tu ne sortiras pas ?
+Allons, Balayeurs, faites vostre charge ; Voicy Pluton ; et cet animal n'a que faire icy.
+
+**** *book_ *id_body-3-3 *act_ *date_1674 *creator_brecourt
+
+-*who_pluton
+Ça, il est donc question de rendre justice aujourd'huy.
+Fay venir l'Accusé, Caron ; et que l'Envie ameine les Complaignans.
+Nous avons donc bien des affaires, Messieurs ?
+
+-*who_radamante
+Sans-doute, et il nous est arrivé aujourd'huy une Ombre qui nous va bien donner de la besogne.
+
+-*who_minos
+Ce ne sera pas une bagatelle que cette affaire-cy.
+
+-*who_pluton
+Comment ?
+
+-*who_minos
+Je vay vous instruire de tout, afin que vous n'ayiez pas la peine tantost d'interroger les Parties.
+Il y avoit autrefois là-haut un certain Homme qui se mesloit d'écrire, à ce qu'on dit ; mais il s'estoit rendu si difficile, que rien ne luy sembloit parfait.
+Il se mit d'abord à critiquer les façons de parler particulieres ; En suite il donna sur les habillemens ; De là il attaqua les mœurs, et se mit inconsidérement à blâmer toutes les sottises du monde : Il ne pût jamais se résoudre à soufrir tous les abus qui s'y glissoient.
+Il dévoila le mystere de chaque chose, fit connoître publiquement quel intérest faisoit agir les Hommes, et fit si bien enfin, que par les lumieres qu'il en donnoit, on commençoit de bonne-foy à trouver presque toutes les choses de la vie un peu ridicules.
+Il n'y eut pas jusqu'à la Medecine mesme qui n'eut part à sa Censure ; et ce fut une des choses qu'il toucha le plus souvent, et sçeut si bien reüssir en cette matiere, que pour peu qu'il l'eut traittée encore, il y auroit eu lieu de craindre pour les Medecins qu'ils n'eussent accomply pour une seconde fois quelque petit Bannissement de six cens années.
+
+-*who_pluton
+Cela nous auroit fait grand tort.
+
+-*who_minos
+Et c'est son arrivée icy qui cause cette Audiance, qui sans doute ne sera pas sans difficulté.
+Chacun prétend avoir sujet de se plaindre de luy ; Luy prétend n'avoir offensé personne ; Au contraire, de la maniere dont il parle, il semble que tout le monde luy soit obligé, et mesme il en donne d'assez bonnes raisons, et voila qui est embarrassant.
+
+-*who_pluton
+Tu l'as donc veu ?
+
+-*who_minos
+Je viens de l'entretenir il n'y a qu'un moment.
+
+-*who_pluton
+Où l'as-tu laissé ?
+
+-*who_minos
+Dans l'Allée des Poëtes, où il a trouvé l'Esprit de Terence et de Plaute, avec qui il se divertit.
+
+-*who_pluton
+Il faudra entendre les raisons de chacun.
+Qu'on les fasse venir ; mais faites-les moy paroistre sous les mesmes figures qu'ils avoient dans l'autre Monde, afin de les mieux discerner.
+
+-*who_radamante
+Voicy déja l'Accusé que Caron vous ameine.
+
+-*who_pluton
+Où sont les Complaignans ?
+
+-*who_minos
+L'Envie les doit conduire icy.
+
+**** *book_ *id_body-3-4 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Je n'y puis plus tenir ; Jamais il ne s'est veu tant d'Ombres en un jour ; et la Porte va rompre si vous n'y donnez ordre.
+
+-*who_ames
+Caron…
+
+-*who_caron
+Entendez-vous comme on m'appelle ?
+Dés qu'ils ont veu que je faisois entrer cette Ombre, ils ont pensé me dévorer.
+
+-*who_ames
+Caron…
+
+-*who_caron
+On y va.
+Ordonnez donc ce que vous voulez que je laisse entrer.
+
+-*who_ames
+Caron…
+
+-*who_pluton
+Hé patience.
+Qui sont-ils tous ces gens là ?
+
+-*who_caron
+Ce sont des Prétieuses, des Bourgeoises, des Marquis ridicules, des Femmes Sçavantes, des Avares, des Hy- pocrites, des Jaloux, des Cocus, et des Medecins.
+
+-*who_pluton
+En voila trop pour un jour : Qu'il n'en vienne qu'une partie.
+
+-*who_caron
+J'oubliois encore un Limousin, dont l'esprit est assez matériel pour servir de Corps en un besoin.
+
+-*who_pluton
+Fais-les entrer selon le rang qu'ils auront à la Porte.
+Radamante, prens le Rôle pour écrire le nom des Complaignans.
+Çà, qui est celle-cy ?
+
+**** *book_ *id_body-3-5 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Vous l'allez reconnoître à son langage.
+
+-*who_la_pretieuse
+Grand Monarque des sombres Habitations, plaise aux Destins que vous prestiez attentivement le sens auriculaire de vostre Justice aux éloquentes articulations de nos clameurs, et que par le triste 37 visage de nostre ame vous puissiez estre pénétré de nos unanimes sentimens.
+
+-*who_pluton
+Quel langage est-ce là ?
+
+-*who_caron
+C'est le franc précieux.
+
+-*who_pluton
+Voila un beau jargon, vrayment.
+Ecoutons.
+
+-*who_la_pretieuse
+La surprenante horreur de nostre accablement coûtera, sans-doute, quelque égarement à la grandeur de vostre ame.
+Vous voyez à vos genoux une Addition de Pretieuses qui vous en represente le Corps, pour faire pancher 38 en leur faveur l'équilibre de vostre Justice contre le matériel échapement de ce Chronologiste scandaleux.
+Bien que la vengeance ne soit pas d'une ame du premier Ordre, lors que l'outrage a pris le vif, c'est une foiblesse de se laisser aller aux tendres émulations d'une pitié séduite par les vaines erreurs de l'ostantation.
+
+-*who_pluton
+Ma foy, je n'y entens goute.
+
+-*who_la_pretieuse
+La férocité de cet Esprit sauvage a si bien donné la chasse au Gibier de nostre éloquence, que l'indigestion de nos pensées n'ose plus 39 trouver le suplément de nos expressions.
+Il nous a si bien atteintes du crime d'absurdité, que nous en paroissons presque convaincuës par tout le pied-d'estal du bas Monde.
+Pardonnez, grand Monarque, si j'ose vous parler si vulgairement, et si toutes nos pensées ne sont pas revestuës d'expressions nobles et vigoureuses.
+
+-*who_pluton
+Hé, il n'y a point de mal à cela ; au contraire, on ne se pique pas icy de beau langage.
+Dites un peu naturellement vostre affaire, car foy de Dieu d'icy-bas je n'y ay rien compris encore.
+
+-*who_la_pretieuse
+Se peut-il faire que vostre noire Majesté ait la forme si enfoncée dans la matiere ?
+
+-*who_pluton
+Ma foy, je ne vous entens pas.
+
+-*who_la_pretieuse
+Quoy ! la dureté de vostre Compréhension ne peut estre amolie par le concert éclatant des rares qualitez de vos vertus sublimes ?
+
+-*who_pluton
+Je ne sçay ce que c'est que tout cela, mais j'auray soin de vous rendre justice.
+Passez sur les aîles de mon Trône.
+
+-*who_la_pretieuse
+Quoy, Monarque enfumé ! vous répandrez de vos propres bontez sur le gemissement de nos altercations ?
+
+-*who_pluton
+Cela se pourra bien ; mais laissez-nous un peu travailler à d'autres Jugements.
+Minos, écrits-la sur le Rôle, et me fais ressouvenir de tout ce qu'elle a dit.
+Allons, que répons-tu à cette accusation ?
+
+-*who_moliere
+Rien, et cette matiere est indigne de moy.
+
+-*who_pluton
+Hé bien, que quelqu'autre entre donc, on jugera tout ensemble.
+
+-*who_caron
+Allons, que le plus proche de la Porte vienne.
+
+**** *book_ *id_body-3-6 *act_ *date_1674 *creator_brecourt
+
+-*who_pluton
+Ça, qui est celuy-cy ?
+
+-*who_marquis
+Ah parbleu ! mon petit Monsieur, je suis bien-aise de vous trouver icy.
+
+-*who_moliere
+Qui es-tu, toy, pour me parler ainsy ?
+
+-*who_marquis
+Je suis un de ces Marquis, mon Amy, que vous tournez en ridicule.
+
+-*who_moliere
+Et où sont les grands Canons que je t'avois donnez ?
+
+-*who_caron
+Ils sont restez à la Porte, qui estoit trop étroite pour les faire passer.
+
+-*who_pluton
+Çà, que demandez-vous ?
+
+-*who_marquis
+Je demande justice pour mes Rubans, mes Plumes, ma Perruque, ma Caleche, et mon Faucet, qu'il a joüez publiquement.
+
+-*who_pluton
+Que répons-tu ?
+
+-*who_moliere
+Rien.
+
+-*who_pluton
+Aux autres ; passez, on vous jugera à loisir.
+
+-*who_caron
+Arrestez donc, vous n'entrerez pas.
+
+-*who_pluton
+Qu'est-ce ?
+
+-*who_caron
+C'est le plus fâcheux de tous nos Morts.
+Un Chasseur qui s'est cassé la teste sur son Cheval Alezan, et qui ne parle à tout le monde que de gaulis, de gigots, de pieds, de croupe, et d'encolure.
+
+-*who_pluton
+Fay donc venir qui tu voudras.
+Je commence à me lasser de tout cecy.
+
+-*who_caron
+Entrez, vous.
+
+-*who_pluton
+Çà, qu'est-ce encore que cette grosse Ombre-cy ?
+
+-*who_caron
+C'est l'Ombre d'un Cocu.
+
+-*who_pluton
+L'Ombre d'un Cocu ?
+Il faut que ce soit un furieux Corps !
+Parle, que veux-tu ?
+
+**** *book_ *id_body-3-7 *act_ *date_1674 *creator_brecourt
+
+-*who_cocu
+Vous voyez en ma seule Ombre tout le Corps des Cocus ; Vous les voyez icy en moy, dis-je, affligez, outragez, et tout contrits des affronts publics que ce grand Corps a reçeus depuis que malicieusement cet Ennemy juré de nostre repos nous a rendus le joüet de tout le monde.
+Il n'est presque aucun Mary qui n'ait senty les traits piquans de sa Satyre ; et depuis qu'il s'est meslé d'annéxer le Cocuage à de certains Maris, il se voit peu de Familles où l'on ne soit persuadé de trouver des Cocus de Pere en Fils.
+Ce soupçon outrageant est devenu par son moyen comme un Titre de Maison ; et il en a excepté si peu de Gens, que si je ne parle pour tout le monde, il ne s'en faut guére du moins.
+Voila de quoy se plaint nostre Illustre Corps, qui avant sa scandaleuse médisance vivoit dans l'état de la premiere innocence.
+Chacun vivoit content de sa petite réputation ; Le scandale ne regnoit point publiquement comme il fait ; et si l'on avoit le malheur d'estre Cocu, on avoit du moins la douceur de l'estre en son petit particulier.
+Mais depuis qu'il a dévoilé les mysteres secrets, ce n'est plus partout qu'une gorge chaude des pauvres Maris.
+On en va à la moûtarde, et plusieurs honnestes Gens mesme ont pris en dot le Titre de Cocus en signant leur Contrat de Ma- riage.
+Si la discretion des Notaires n'estoit grande, quelqu'un de ces Messieurs en pourroit parler avec beaucoup de seûreté.
+Voila le desordre et le déreglement qu'il a mis en l'autre Monde, dont nous demandons en celuy-cy justice, vengeance, et reparation.
+
+-*who_pluton
+Qu'avez-vous à dire là-dessus ?
+
+-*who_moliere
+Rien ; je passe condamnation pour les Cocus, et j'ay trop mal reüssy dans cette affaire pour me pouvoir défendre.
+Quelque soin que j'aye pris de faire horreur du Cocuage, j'avoüe de bonne-foy que c'est un vice dont je n'ay pû corriger mon siecle.
+
+-*who_pluton
+Minos, mets-le sur le Rôle.
+Allez, on va vous écrire.
+Qu'est-ce ?
+Qu'y a-t-il de nouveau ?
+
+**** *book_ *id_body-3-8 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Je ne sçay d'où nous est venuë encore une plaisante espece d'Ombre : Mais je croy, si l'on pouvoit trépasser deux fois, qu'elle feroit mourir de rire tous les Morts d'icy-bas.
+
+-*who_pluton
+Comment donc ?
+
+-*who_caron
+Elle rit de tout, et ne s'afflige de rien, pas mesme d'estre venuë icy à la fleur de son âge.
+
+-*who_pluton
+Cela est de bon sens ; y venir tost ou tard, c'est toûjours y venir ; et comme l'usage de la mort est un peu de durée, on fait bien de s'y accoûtumer de bonne heure.
+Mais qui est-elle, cette Ombre ?
+
+-*who_caron
+Ce n'est qu'une Servante.
+
+-*who_pluton
+N'importe, fais-la entrer, il faut entendre tout le monde.
+
+-*who_caron
+Allons, la Rieuse, entrez.
+
+**** *book_ *id_body-3-9 *act_ *date_1674 *creator_brecourt
+
+-*who_moliere
+Ah ! c'est Nicole.
+
+-*who_nicole
+Hé, oüy, c'est moy.
+Quand j'ay appris que vous estiez icy, par ma figue, ay-je dit en moy-mesme, il faut que j'aille voir ce pauvre Homme qui m'a tant fait rire en l'autre Monde.
+
+-*who_moliere
+Tu es donc bien-aise d'estre en celuy-cy, Nicole, puis que tu ris si fort ?
+
+-*who_nicole
+C'est que vous m'avez appris à me moquer de tout : Et puis franchement je ne suis pas trop fâchée d'estre icy, et je ne trouve pas que la Mort soit si dégoûtante que l'on se l'imagine.
+
+-*who_pluton
+Et d'où vient que tu t'accommodes si aisément d'une chose que les Hommes trouvent si peu aimable ?
+
+-*who_nicole
+C'est que je ne me souciois guére de vivre.
+
+-*who_pluton
+Quoy ! tu n'estois pas bien-aise de voir la lumiere ?
+
+-*who_nicole
+Non, car je ne faisois tous les jours que la même chose, dormir, boire, et manger ; et il me semble que le plaisir de la vie est de changer quelquefois.
+A cette heure, voulez-vous que je vous dise, il y a une certaine égalité parmy les Morts qui ne me déplaît pas.
+Je ne voy personne icy qui soit plus grand Seigneur l'un que l'autre ; et j'ay pensé étoufer de rire quand j'ay rencontré en venant mille sortes de Gens qui se desesperoient.
+Un riche Banquier pâle et maigre, qui endêvoit de s'estre laissé mourir de faim.
+Un Amoureux qui s'est tué pour une Maitresse qui ne l'aimoit point.
+Un Alchimiste qui enrageoit d'avoir passé sa vie en fumée ; mais, entr'autres choses, des Dames qui pleuroient de me voir assise aupres d'elles.
+D'autres qui s'affligeoient de n'avoir plus de Toillettes, de Miroirs, et de petites Boëttes.
+Il n'y a rien de plus plaisant que de les voir sans rouge, sans mouches, et sans cheveux ; avec leur grand front chauve, leurs yeux creusez, et leurs jouës décharnées ; vous les prendriez pour des Caresme-prenans.
+Enfin la plus belle et la plus laide se ressemblent comme deux goutes d'eau.
+
+-*who_pluton
+Il n'est pas question de cela.
+Qu'avez-vous à dire contre l'Accusé ?
+
+-*who_nicole
+Moy ?
+Par ma figue, je n'ay rien à dire contre luy, c'est une bonne Ombre ; et tenez, Monsieur Pluton, c'est peut-estre la meilleure Piece de vostre Sac.
+
+-*who_pluton
+Que voulez-vous donc ?
+
+-*who_nicole
+Monsieur, je vien vous prier…
+
+-*who_pluton
+Hé ?
+
+-*who_nicole
+Je viens vous prier, Monsieur…
+
+-*who_pluton
+Et là, dites donc ?
+
+-*who_nicole
+Je viens vous prier, Mon- sieur… de me… laisser… de me laisser… de me laisser…
+
+-*who_pluton
+Et moy, ma Mie, je vous prie de nous laisser… de nous laisser… de nous laisser… de nous laisser en repos, s'il vous plaist.
+
+-*who_nicole
+Monsieur, je vous prie… s'il vous plaist… de m'accorder le plaisir… le plaisir de rire tout mon sou, de vous, et de vostre Royaume.
+
+-*who_pluton
+Ostez-moy cette Impudente.
+Qu'est-ce encore ?
+Je n'en veux plus entendre ; Qu'on me laisse en repos ; L'Audience est finie, et je vais prononcer.
+
+-*who_caron
+Hé, c'est l'Ombre de Pourceaugnac, ce brave Limousin ; Elle n'a qu'un mot à vous dire.
+
+-*who_pluton
+Hé bien, qu'il entre.
+Ah quelle peine !
+Ne sera-ce jamais fait ?
+
+**** *book_ *id_body-3-10 *act_ *date_1674 *creator_brecourt
+
+-*who_pourceaugnac
+Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d'hon- neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu'ils recevront.
+A quoy je conclus.
+
+-*who_pluton
+Repondez.
+
+-*who_moliere
+Hé Monsieur de Pourceaugnac !
+Quel sujet avez-vous de vous plaindre de moy ?
+Si vous preniez bien les choses, ne me loüeriez-vous pas, au lieu de me blâmer, d'avoir rendu vostre Nom aussy celebre que j'ay fait ?
+Car dites-moy un peu ; Ne vous ay-je pas déterré du fond du Limousin, et à force de tour- menter ma cervelle, ne vous ay-je pas amené dans la plus Illustre Cour du Monde ?
+Raisonnons un peu de bonne foy ; Ne m'avez-vous pas quelque obligation de vous avoir fait faire un si beau voyage ?
+
+-*who_pourceaugnac
+Hé… oüy.
+
+-*who_moliere
+N'est-ce pas moy qui vous ay fait connoistre ?
+
+-*who_pourceaugnac
+D'accord.
+
+-*who_moliere
+Ne vous a-t-on pas veu avec beaucoup de plaisir ?
+
+-*who_pourceaugnac
+Cela est vray, car chacun rioit dés qu'on me voyoit.
+
+-*who_moliere
+Vous a-t-on jamais banny des Lieux publics ?
+
+-*who_pourceaugnac
+Au contraire, on y donnoit de l'argent pour me voir.
+
+-*who_moliere
+Et enfin n'ay-je pas rendu vostre Nom immortel pour tout vostre Royaume ?
+
+-*who_pourceaugnac
+Et comment immortel ?
+
+-*who_moliere
+Comment ?
+Hé dés qu'il arrive en France quelqu'un qui ait tant-soit-peu vostre air, de vos gentillesses, et de vos petites façons de faire, fût-ce un Prince, ne dit-on pas, voila un vray Pourceaugnac ?
+Et n'est-ce pas un honneur considérable pour vous, et pour vostre Province, que vostre Nom quelquefois puisse servir d'une Qualité aux Gens de la plus haute Naissance ?
+
+-*who_pourceaugnac
+Il a quelque raison au fonds.
+
+-*who_moliere
+Hé, prenons toûjours les choses du bon costé ; n'allons point envenimer les intentions, et croyons tout à nostre avantage : je n'ay jamais rien fait qu'à vostre honneur et gloire, et serois bien fâché, Monsieur de Pourceaugnac, que les choses eussent tourné autrement.
+
+-*who_pourceaugnac
+Ma foy, apres tout, je pense en effet que j'ay tort de m'estre fâché contre luy.
+Qui diantre sont les sottes Ombres aussi qui s'avisent de me mettre des fariboles dans la teste ?
+Allez, vous estes des Bestes : Monsieur est une honneste Ombre, qui a pris la peine de me faire connoistre, et vous ne sçavez pas prendre les choses du bon costé.
+Monsieur, je suis fâché de tout cecy, et je vous de- mande pardon pour les Ombres de Limoge.
+Je suis vostre Valet, tout à vous, vostre Serviteur, et vostre Amy.
+Je vay chercher mon Cousin l'Assesseur, et mon Neveu le Chanoine, afin que nous beuvions ensemble quelques Verres d'oubly, pour ne nous plus souvenir du passé.
+
+-*who_moliere
+Adieu, Monsieur de Pourceaugnac.
+
+-*who_pluton
+Messieurs, il est tard, et je vay lever le Siege.
+
+**** *book_ *id_body-3-11 *act_ *date_1674 *creator_brecourt
+
+-*who_mme_jourdain
+Justice, justice, justice, justice, justice.
+
+-*who_pluton
+Qui est-ce encore icy ?
+Je ne veux plus entendre personne, et je suis las de tant d'impertinentes Plaintes.
+Pourquoy l'as-tu laissée entrer ?
+
+-*who_caron
+Elle a forcé la Porte.
+
+-*who_pluton
+Pren donc bien garde aux autres, et qu'il n'en entre plus.
+Je n'ay jamais veu tant de Canailles en un jour.
+Çà, que demandez-vous ?
+
+-*who_mme_jourdain
+Ce que je n'auray pas.
+
+-*who_pluton
+Que vous faut il ? hé ?
+
+-*who_mme_jourdain
+Il me faut ce qui me manque.
+
+-*who_pluton
+Quelle nouvelle espece est-ce encore icy ?
+Dites-nous donc ce que vous avez ?
+
+-*who_mme_jourdain
+J'ay la teste plus grosse que le poing, et si je ne l'ay pas enflée.
+
+-*who_moliere
+Ah ! c'est Madame Jourdain, je la reconnoy : Et comment estes-vous icy, Madame Jourdain ?
+
+-*who_mme_jourdain
+Sur mes pieds comme une Oye.
+
+-*who_pluton
+Ah quelle Femme !
+
+-*who_moliere
+Vous venez vous plaindre de moy, n'est-ce pas, Madame Jourdain ?
+
+-*who_mme_jourdain
+Ça non ; j'aurois beau me plaindre, beau me plaindre j'aurois.
+
+-*who_pluton
+Encore ?
+
+-*who_moliere
+Madame Jourdain est un peu en courroux.
+
+-*who_mme_jourdain
+Oüy, Jean Ridoux.
+
+-*who_pluton
+Courage.
+Hé bien, qu'avez-vous à me dire ?
+
+-*who_mme_jourdain
+Oüy, qu'avez-vous à me frire ?
+
+-*who_pluton
+Diable soit la Masque ; Que l'on me l'oste d'icy, et que d'aujourd'huy personne ne me parle.
+Je suis las de tous ces Extravagans, et me voila dans une colere que je ne me sens pas.
+Qu'est-ce encore ?
+Qu'y a-t-il ?
+Que veut-on ?
+Seray-je toûjours troublé, persecuté, accablé d'affaires ?
+Hé, quelle misere est-ce-cy ?
+A-t-on jamais veu un Dieu plus fatigué que moy ?
+
+**** *book_ *id_body-3-12 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Grand Roy…
+
+-*who_pluton
+Non, je croy que tout cet embarras me fera renoncer à mon Empire.
+
+-*who_caron
+Ce sont…
+
+-*who_pluton
+Quoy, sans repos !
+
+-*who_caron
+Il y a…
+
+-*who_pluton
+Sans plaisir !
+
+-*who_caron
+Ce sont…
+
+-*who_pluton
+Sans relâche !
+Non, je ne veux plus rien entendre.
+Que tout soit renversé, bouleversé, sans-dessus-dessous, je n'ecoute personne ; Qu'on ne m'en parle plus.
+
+-*who_caron
+Ce sont des Medecins qui viennent d'arriver, et qui voudroient vous demander un moment d'audiance.
+
+-*who_pluton
+Des ?
+
+-*who_caron
+Des Medecins.
+
+-*who_pluton
+Des Medecins !
+Ho ! qu'on les fasse entrer : Ce sont nos meilleurs Amis ; Qu'ils viennent, qu'ils viennent.
+D'honnestes Gens, à qui je doy trop pour leur rien refuser.
+Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance.
+Mais les voicy.
+
+**** *book_ *id_body-3-13 *act_ *date_1674 *creator_brecourt
+
+-*who_moliere
+Ha, voicy de mes Gens.
+Ecoutons-les parler, et puis nous répondrons.
+
+-*who_pluton
+Messieurs, soyez les bien venus.
+Vous visitez un Prince qui vous honore fort ; je sçay toutes les obligations que je vous ay, et que dans ce vaste Empire des Morts vous pou- vez vous vanter avec raison d'y avoir aussy bonne part que moy : Aussy en revanche de tout vos bons et fidelles services, je ne pretens pas vous rien refuser.
+Demandez seulement.
+
+-*who_medecins
+Grand Monarque des Morts, vous voyez icy la fleur de vos plus fidelles Pensionnaires.
+
+-*who_medecins
+Jamais nous n'avons laissé échaper la moindre occasion de vous donner des marques de nostre obeïssance et fidelité.
+
+-*who_pluton
+J'en suis persuadé.
+L'O- pium, l'Emétique, et la Saignée, m'ont rendu témoignage que vous m'avez fidellement servy.
+
+-*who_medecins
+Nous avons fait nostre devoir.
+
+-*who_pluton
+Beaucoup de Gens sont venus icy de vostre part, qui m'en ont assuré.
+
+-*who_medecins
+C'est avec plaisir que l'on sert un si grand Monarque.
+
+-*who_pluton
+Je vous suis obligé, et j'ay bien de la joye de vous voir.
+Ce n'est pas que vous ne m'eussiez esté encore un peu necessaires là-haut, et j'ay eu quelque chagrin quand les Parques m'ont dit que vous veniez icy : Mais je m'en suis neantmoins consolé lors que j'ay appris que vous aviez laissé de grands Enfants qui sçavoient assez bien leur mestier, et que mesme il estoit déjà venu icy quelques Morts de leurs Amis, qui en avoient fait une experience fort raisonnable.
+Mais que souhaitez-vous de moy ?
+
+-*who_medecins
+Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie.
+
+-*who_pluton
+C'est donc quelqu'un qui la connoît ?
+
+-*who_medecins
+C'est une rage sans fondement, une simple avidité de tout satyrizer, et une animosité envenimée par la seule envie d'écrire, et de former des Cabales contre nous.
+
+-*who_moliere
+Je vous confondray dans peu, superbes Imposteurs.
+
+-*who_medecins
+Il s'est mesme déjà glissé jusques dans ces Lieux une médisance secrette qui nous regarde.
+Tous les Morts semblent se liguer contre nous ; Il leur échape des Satyres piquantes, et des injures calomnieuses contre les Medecins ; et nous venons icy, Grand Monarque, vous remontrer humblement, de la part de nostre Illustre Corps, de quelle importance il est, pour l'accroissement de vostre Empire, que vous reprimiez l'audace et l'insolence de tous ces Morts.
+
+-*who_pluton
+On apprendra à vivre à ces Morts-là.
+J'entens et je pretens qu'on vous regarde comme les plus fermes appuis de mon Estat.
+Mais qui sont ces Morts-là qui ont l'impudence d'aller gaster vostre Mestier ?
+Nommez, nommez-les moy ; J'en veux faire un bon exemple.
+
+-*who_medecins
+C'est un nombre infiny de petits Esprits qui se sont laissez emporter au torrent, et qui n'ont poussé leur Plainte que comme les Echos qui répetent les peines des autres sans les avoir senties.
+Mais c'est à l'Autheur de nos maux que nous en voulons ; c'est à celuy qui comme un nouveau Caton, s'est venu déchaîner contre nous et qui, apres le mépris évident qu'il a fait de nostre Illustre Corps, a poussé son audace encore jusqu'à nous tourner en Ridicules ; en nous rendant la fable et la risée du Public.
+C'est cette Ombre, en un mot, cet insolent Fleau de nostre Faculté, dont nous vous demandons une vengeance authentique.
+
+-*who_pluton
+Répondez.
+
+-*who_moliere
+C'est donc à moy à qui vous en voulez, Messieurs ?
+Vous demandez vengeance du mépris que j'ay fait de vostre Illustre Corps : Je vous ay tourné en Ridicules, je vous ay rendus la fable et la risée du Public ?
+Hé bien, il faut vous répondre, et tracer plus naturellement vos traits, afin de vous bien faire connoistre.
+Pluton, je jure icy par le respect que je te dois, que ce n'est point contre ce grand Art de la Médecine que je prétens me déchaîner.
+J'en adore l'étude, j'en révere la judicieuse pratique, mais j'en abhorre et déteste le pernicieux et meschant usage qu'en font par leur négligence des Fourbes ignorans, que la seule Robe fait appeller Medecins ; et ce n'est qu'à ceux qui abusent de ce nom que je vay répondre.
+
+-*who_pluton
+Ah ! voicy une Conversa- tion raisonnable celle-cy.
+
+-*who_moliere
+Imposteurs !
+Qui peut mieux prouver vostre ignorance, et l'incertitude de vos projets, que vos contrarietez perpétuelles ?
+Vous trouvez-vous jamais d'accord ensemble ?
+Et jusqu'à vos moindres Ordonnances, a-t-on jamais veu un Medecin suivre celle de l'autre, sans y ajoûter ou diminuer quelque chose ?
+Quant à leurs opinions, elles sont encore plus diférentes que leurs pratiques.
+Les uns disent que la Cause des maux est dans les humeurs ; Les autres dans le sang.
+Quelques-uns, par un pompeux galimathias, l'imputent aux atomes invisibles, qui entrent dans les pores.
+Celuy-cy soûtient, que les maladies viennent du defaut des forces corporelles : Celuy-là, qu'elles procedent de l'inégalité des élémens du Corps, et de la qualité de l'air que nous respirons, ou de l'abondance, crudité, et corruption de nos alimens.
+Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires !
+
+-*who_pluton
+Messieurs, hé ?
+
+-*who_moliere
+Ce qu'ils ont de plus unanime dans leur Ecole, et où ils s'entendent le mieux, c'est que tous tant qu'ils sont vous assurent que dans la composition d'une Medecine, une chose purge le cerceau, celle-cy échauffe l'estomac, celle-là rafraîchit le foye, et font partir un Breuvage à bride abbatuë, comme si dans ce mélange chaque Remede portoit son Etiquette, et que tous n'allassent pas ensemble sejourner au mesme lieu.
+Il faut que ces Messieurs soient bien assurez de l'obeïssance et de la sagesse de leurs Drogues : Car enfin, si par mégarde l'une alloit prendre le chemin de l'autre, et que la partie qui doit estre échauffée vint par méprise à estre refroidie, voyez un peu où le pauvre Malade en seroit !
+
+-*who_pluton
+Messieurs, hé ?
+
+-*who_moliere
+Mais quoy, les Imposteurs abusant de l'occasion, usurpent effrontément une authorité tyrannique sur de pauvres Ames affoiblies et abbatuës par le mal, et par la crainte de la mort.
+Il pren- nent si bien leur avantage de nos foiblesses, que de nostre aveu mesme, dans ce dangereux moment, ils hazardent effrontément aux dépens de nos vies toutes les épreuves que leur suggerent leurs ambitieuses imaginations.
+Les Scelérats osent tout tenter, sur cette confiance que le Soleil éclairera leurs succés et que la Terre couvrira leurs fautes.
+
+-*who_pluton
+Messieurs, hé ?
+
+-*who_moliere
+Il me souvient icy, avec quelque douleur, de la foiblesse d'un de mes Amis qui s'estoit sottement confié par leurs noires séductions à l'expérience d'un Remede.
+Deux heures apres l'avoir pris, le Medecin qui l'avoit ordonné, luy en vint demander l'effet, et comment il s'en estoit trouvé.
+J'ay fort sué, luy répondit le Malade.
+Cela est bon, dit le Medecin.
+Trois heures en suite, il luy vint demander comment il s'estoit porté depuis.
+J'ay senti, dit le Patient, un froid extréme, et j'ay fort tremblé.
+Cela est bon, suivit le Charlatan.
+Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit .
+Je me sens, dit le Malade, enfler par tout, comme d'hydropisie.
+Tout cela est bien, répondit le Bourreau.
+Le lendemain j'allay voir ce pauvre Malade ; et luy ayant demandé en quel état il estoit : Helas ! mon cher Amy, dit-il, en rendant le dernier soûpir, à force d'estre bien, je sens que je me meurs.
+Ah ! m'écriay-je alors tout percé de douleur, qu'heureux sont les animaux que la simple Nature sçait guérir sans le secours de leur Consultations !
+Que l'Estre brutal seroit à souhaiter, quand on devient malade !
+Mais aussy qu'il se- roit à craindre, s'il se trouvoit autant de Medecins parmy les Bestes, que de Bestes parmy les Medecins !
+
+-*who_pluton
+Messieurs ?
+
+-*who_moliere
+Qu'ils se plaignent maintenant de moy, et que ton équité, Grand Monarque, paroisse dans tes Jugemens.
+
+**** *book_ *id_body-3-14 *act_ *date_1674 *creator_brecourt
+
+-*who_caron
+Oh ! je n'y puis plus tenir.
+Depuis que je conduits la Barque, je n'ay jamais tant veu de Morts pour un jour ; et si vous n'y venez donner ordre, je ne sçay pas ce que nous en ferons.
+
+-*who_pluton
+Comment ?
+Nous avons donc bien des Gens ?
+
+-*who_caron
+Tout créve à la Porte.
+
+-*who_pluton
+Puis que nous avons tant de Morts icy-bas, il faut qu'il y ait encore bien des Medecins là- haut.
+Mais qu'ils attendent à un autre jour, je ne juge d'aujourd'huy, et voicy ma derniere Sentance.
+Retirez-vous un peu, que je prenne les opinions.
+Minos, qu'en dis-tu ?
+
+-*who_minos
+Moy ?
+Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux.
+
+-*who_radamante
+Il n'y a qu'honneur à juger en sa faveur.
+
+-*who_pluton
+J'en demeure d'accord ; mais aussi les obligations que nous avons à ces Messieurs m'embarrassent ; et je croy qu'un Arbitrage conviendroit mieux à cette affaire qu'un Jugement dans les formes.
+Ne trouvez-vous point à propos de leur proposer un accommodement ?
+
+-*who_minos
+Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté.
+
+-*who_radamante
+Je suis de cet avis.
+
+-*who_pluton
+Je m'en vay leur parler.
+Ça, Messieurs ; Qu'est-ce ?
+N'y a-t-il pas moyen de vous rapatrier ?
+Je voy de part et d'autre que les raisons peuvent subsister ; D'accord ; mais à les bien peser, entre nous, la Balance panchera de son costé ; et sans l'alliance jurée entre nous, franchement, Messieurs, vous seriez tondus.
+C'est pourquoy si vous m'en croyez, tâchez de vous accommoder ensemble ; et pour faciliter l'affaire, j'aime mieux relâcher de mes in- térests, et consentir que vous m'en envoyiez quelques millions de Morts moins qu'à vostre ordinaire.
+
+-*who_medecins
+Quoy ! nostre Ennemy juré ?
+Non, non…
+
+-*who_pluton
+Ho, ho, Messieurs, si vous n'êtes contens, prenez des Cartes.
+J'y pers plus que vous, et si je ne me plains pas.
+
+-*who_medecins
+Quoy, Pluton…
+
+-*who_pluton
+Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ?
+
+-*who_medecins
+Nous demandons justice, justice.
+
+-*who_pluton
+Encore ? Ah je m'en vay souffler. Fu, fu.
+Mais il est temps de prononcer
+En quel endroit je doy placer
+Ton Ombre avecque ta Mémoire.
+Que la Postérité t'en choisisse le lieu ;
+Et tandis qu'elle ira travailler à ta Gloire,
+Entre Térence et Plaute occupe le milieu.
+Le carillon se fait.
+
+-*who_caron
+Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy la retraite.
+Bon-soir.
+FIN.
+
+**** *book_ *id_body-4 *date_1674 *creator_brecourt
+
+EXTRAIT DU PRIVILÈGE DU ROY
+
+Par Grace et Privilege du Roy, donné à Versailles le douziéme Avril 1674.
+Signé, Par le Roy en son Conseil, le normant : Et scellé du grand Sceau de cire jaune.
+Il est permis à Claude Barbin, Marchand Libraire à Paris, d'imprimer, faire imprimer, vendre et débiter une Pièce de Theatre, intitulée l'ombre de molière, Comédie en Prose : Et défenses sont faites à toutes Personnes, de quelque qualité et condition qu'elles soient, d'imprimer ou faire imprimer, vendre ny debiter ladite Pièce de Theatre, sans le consentement de l'Exposant, ou de ceux qui auront droict de luy, pendant le temps et espace de cinq années, entieres et accomplies, à compter du jour que ladite Piece sera achevée d'imprimer pour la première fois, à peine contre chacun des contrevenans, de trois mil livres d'amende, confiscation des Exemplaires contrefaits, et VII de tous despens, dommages et interests, ainsi que plus au long il est porté esdites Lettres de Privilège.
+
+Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour.
+
+D.Thierry.
+Syndic.
+
+Achevé d'imprimé pour la premiere fois
+
+le 2 May 1674.

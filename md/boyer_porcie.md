@@ -1,0 +1,2971 @@
+---
+identifier: boyer_porcie  
+creator: Boyer, Claude  
+date: 1646  
+title: La Porcie romaine. Tragédie  
+---
+
+
+LA PORCIE ROMAINE
+
+TRAGÉDIE
+
+Claude Boyer
+
+A PARIS, Chez AUGUSTIN COURBE, dans la petite Salle du Palais, à la Palme. M. D C. X L V I. AVEC PRIVILEGE DU ROY.
+Édition critique établie par Marie Roux sous la direction de Georges Forestier (1997)
+
+
+# Introduction
+
+La *Porcie Romaine* dramatise un épisode de l'histoire romaine très important sur le plan historique puisqu'il concrétisa l'avènement du « siècle d'Auguste ». Cet épisode est celui de la bataille de Philippes qui eut lieu en 42 avant Jésus-Christ et qui opposa les Triumvirs Antoine, Octave et Lépide aux Républicains, assassins de César, Brutus et Cassius.
+
+En dépit de l'importance du contexte historique, Boyer n'en a pas fait le sujet principal de sa pièce. En effet, il a mis en scène Porcie, la femme de Brutus comme témoin privilégié des événements de l'histoire Romaine. Porcie est un personnage historique puisqu'elle ne se contente pas d'être la femme de Brutus, fils adoptif du grand César. Elle est aussi la fille de Caton d'Utique, ardent défenseur de la tradition politique Romaine et homme de confiance de Pompée. La pièce met surtout en valeur Porcie, héroïne dont la grande volonté est le trait dominant. La force de ses sentiments et de ses actions, aussi bien que la façon dont elle se suicide passent difficilement comme étant la conduite d'une personne ordinaire. Cette période de l'histoire Romaine a été très exploitée par les écrivains bien avant le dix-septième siècle. En effet, à la suite des écrivains romains, les hommes de la Renaissance ont traité maintes fois ce thème : Rome, jusqu'alors invincible, fut ruinée par les guerres et les proscriptions des Triumvirs (Du Bellay, *Les Antiquités* 13, 24). Les auteurs de tragédies trouvaient dans ces guerres civiles matière à des débats sur des lieux communs : clémence ou rigueur ; république ou tyrannie, mais également une attitude face à la mort. Les héros romains sont des hommes qui sont prêt à sauver leur patrie au péril de leur vie. Leur désir de gloire est plus fort que la peur de la mort.
+
+L'époque se prête également à l'évocation de ce passage de l'histoire Romaine. Au milieu du XVII*e* siècle, Richelieu et Louis XIII s'opposent aux complots des grands aristocrates, jusque dans la famille royale [1]. La pièce paraît après la mort de Richelieu (1642) et sous la régence de Mazarin qui gouverne dans le même esprit, mais cette atmosphère est toujours présente.
+
+En mettant en scène cet affrontement dont l'issue est capitale pour le destin de Rome, Boyer a voulu en faire une tragédie politique. Le sujet de la pièce est conforme à la définition de la tragédie politique que donne Corneille dans le *Discours du poème dramatique* [2] : la dignité de la tragédie demande « quelque grand intérêt d'Etat, ou quelque passion plus noble et plus mâle que l'amour, telles que sont l'ambition ou la vengeance ». La pièce de Boyer illustre les deux termes de l'alternative énoncée par Corneille. D'une part, elle met en jeu « l'intérêt d'Etat » puisque Brutus se bat pour instaurer la République et pour mettre fin aux proscriptions et aux souffrances que les Triumvirs font endurer au peuple. Brutus et Porcie font même passer cet « intérêt d'Etat » avant leur propre vie. Cette notion de patriotisme, omniprésente dans la pièce, étoffe la dimension politique de cette tragédie. D'autre part, *La Porcie Romaine* est aussi l'illustration du second terme de l'alternative énoncée plus haut, c'est-à-dire « quelque passion plus noble et plus mâle que l'amour, telles que sont l'ambition et la vengeance ».
+
+L'idée de vengeance est sous-jacente à cette pièce. En effet, le père de Porcie, Caton d'Utique [3] s'est suicidé pour échapper à César. La passion de Porcie et son acharnement sont également motivés par son désir de vengeance. L'héroïne n'occulte pas cette motivation et la dit très clairement : « Vous m'esloignez des lieux, où j'atens ma vengeance ? » (I, 4).
+
+La motivation de Brutus est d'ordre politique puisqu'il craint pour l'avenir de Rome, mais aussi d'ordre sentimental puisqu'il aime sa femme et veut venger la mort de son beau-père. Cette situation rappelle celle de *Cinna* de Corneille. Cinna conspire contre Auguste non seulement parce qu'il hait la tyrannie et est animé par des sentiments républicains, mais aussi et surtout parce qu'il aime Emilie, elle-même désirant se venger d'Auguste parce qu'il a tué son père.
+
+Dans les deux cas, l'amour est dépassé par l'intérêt d'État. Malgré les craintes de son épouse, Brutus part tout de même à la guerre dans l'intérêt de Rome et Porcie exprime très clairement ce sentiment lorsqu'elle dit : « Si je l'aime beaucoup, c'est un peu moins que Rome. » (II, 2). Chez Boyer, l'issue ne dépend pas des événements politiques, mais bien du caractère des personnages. Les péripéties qui étoffent l'action et la rendent plus intéressante reposent sur les faits et gestes des personnages qui sont historiques pour la plupart. Le fait que Brutus aille au combat repose sur la décision de Porcie, de même que sa défaite découle de la mort de Cassius, causée à son tour par l'erreur de jugement de son affranchi.
+
+
+# Destin de la tragédie
+
+*La Porcie Romaine* est reconnue comme la première œuvre de l'abbé Claude Boyer, en dépit de l'avis des Frères Parfaict qui la placent après *La Soeur Généreuse.* Lorsqu'il arriva à Paris, Boyer avait déjà écrit cette tragédie sur laquelle il pensait bâtir sa fortune littéraire. Ses premières démarches dans la capitale, eurent pour but de se faire admettre à l'Hôtel de Rambouillet, le plus prestigieux des salons parisiens. Il fut accepté dans le cénacle. En remerciement, il dédicaça cette pièce à la Marquise de Rambouillet et y ajouta un sonnet plein de reconnaissance et d'admiration. *La Porcie Romaine* fut représentée [4] à l'Hôtel de Bourgogne, le théâtre de la troupe royale, en 1646 dans d'excellentes conditions.
+
+Nous ignorons combien de temps elle resta à l'affiche, mais le théâtre ferma ses portes le 17 avril 1647 afin de permettre la restauration de la salle, et la dernière pièce représentée fut *Héraclius* de Corneille. Si l'on en croit l'abbé Genest, successeur de Boyer à l'Académie Française, la pièce « enleva tout Paris ». Cet accueil chaleureux conforte les espoirs de Boyer qui comptait asseoir sur cette pièce sa réputation de tragédien, comme il l'exprime dans sa dédicace à Madame de Rambouillet :
+
+
+Me flatant par avance du succès de mon essay, je m'eslève à de plus grands desseins.
+
+Comment peut-on expliquer le succès de cette première pièce de Boyer ? On peut penser que le sort de cette tragédie a été favorisé par sa parenté avec les œuvres de Corneille. Cette influence est notable dans les œuvres de Boyer au moins jusqu'en 1672. La pièce de Boyer porte cette marque, ne serait-ce qu'à travers le personnage de Porcie. *La Porcie Romaine* fut présentée à une époque où Corneille jouissait d'une grande popularité. Cette ressemblance pourrait expliquer en partie son succès. De plus, Boyer s'est attaché à respecter scrupuleusement les règles classiques, notamment celles de bienséance et de vraisemblance. L'authenticité et la simplicité de l'intrigue peuvent avoir également séduit le public.
+
+*La Porcie Romaine* inaugure la carrière de Claude Boyer qui fut une des plus longues [5] du siècle. Après ces bons débuts, Chapelain le décrivit comme n'étant surpassé en tant que dramaturge que par le seul Corneille et il obtint une place à l'Académie Française en 1667.Ses dernières années furent assombries par les épigrammes et les attaques dont le criblèrent ses contemporains, principalement Racine, Boileau et Furetière qui portèrent ombrage à ses œuvres. Ainsi, Boileau n'hésite pas à écrire quelques mots à l'intention de Boyer dans son *Art Poétique* (IV, v. 33-38) :
+
+Qui dit froid écrivain dit détestable auteur  
+Boyer est à Pinchêne égal pour le lecteur ;  
+On ne lit guère plus Rampale et Mesnardière,  
+Que Magnon, du Souhait, Corbin et la Morlière.  
+Un fou du moins fait rire et peu nous égayer ;  
+Mais un froid écrivain ne sait rien qu'ennuyer.  
+
+Il fallait affaiblir tous ceux qui auraient pu être des obstacles au règne de Racine, et Boyer était justement le plus titré après les frères Corneille. Au moment de la querelle des Anciens et des Modernes [6], il prit le parti des Modernes, ce qui le rendit plus impopulaire auprès de Boileau et de Racine qui se rangeaient parmi les « doctes ».
+
+Ce n'est pas le lieu ici de présenter en détail la vie et la production dramatique de Claude Boyer – né à Albi en 1618 et mort à Paris en 1698. Cependant, nous nous efforcerons de situer Boyer à l'époque de la création de *La Porcie Romaine* et de comprendre pourquoi, après de bons débuts, ses œuvres eurent moins de succès. Claude Boyer arriva à Paris avec le titre d'abbé et le grade de bachelier en théologie. Nous ignorons s'il a prêché dans la capitale, mais cette situation inspira quelques lignes à Furetière [7] dans son *Deuxième Factum*. Ce dernier était un ennemi de Boyer. Il remarque malicieusement que Boyer « n'a pas été assez heureux pour faire dormir personne à ses sermons, car il n'a point trouvé de lieu pour prêcher. La nécessité l'a donc réduit à prêcher sur les théâtres du Marais et de L'Hôtel de Bourgogne, mais il leur a porté malheur. »
+
+Le succès de *La Porcie Romaine* lui a ouvert la porte des salons littéraires et notamment celle de l'Hôtel de Rambouillet, sanctuaire du goût où il fut admis à côtoyer Chapelain ou Voiture. En 1645, l'Hôtel de Rambouillet était à l'apogée de son influence. De plus, Boyer avait aussi pour protecteur la famille Tallemant : famille de haute robe et de finance.
+
+Dans une lettre à l'abbé Genest, Boileau fait allusion à cet épisode de la vie de Boyer :
+
+
+Dans ses tendres années, il (Boyer) trouva l'appui d'une noble famille, dont le nom nous sera toujours cher, qui sembla l'adopter parce que tous les gens d'esprit paraissaient naturellement en être...
+
+Boyer reçut l'estime de tous les beaux esprits de ce temps. Chapelain [8], grand dispensateur de lauriers poétiques lui fit un accueil des plus chaleureux. Lorsqu'il composa en 1662 une liste d'écrivains, devant servir à l'établissement par Colbert des gratifications royales, il ne manqua pas d'y mentionner Boyer en des termes élogieux :
+
+Boyer est un poète de théâtre qui ne cède qu'au seul Corneille de cette profession, sans que les défauts qu'on remarque dans le dessein de ses pièces rabattent son prix, car les autres n'étant pas plus réguliers que lui en cette partie, cela ne lui fait point de tort à leur égard. Il pense fortement dans le détail et s'exprime de même. Ses vers ne se sentent pas du vice de son pays [9] quoiqu'il ne travaille guère en prose.
+
+Boyer reçut 800 livres, la même somme que Racine qui, rappelons le, n'avait encore publié aucune de ses œuvres dramatiques. Cependant, l'avenir n'était pas du côté de Chapelain et Boyer eut tort de ne pas le comprendre. La reconnaissance le liait à tous ceux qui avaient fréquenté l'Hôtel de Rambouillet, disparu depuis la Fronde. Boyer fut signalé comme le protégé de Chapelain et de tous les autres Alcôvistes [10] dont le crédit commençait à baisser.
+
+*La Porcie Romaine* avait montré aux amateurs de théâtre que Boyer emboîtait le pas aux illustres maîtres de la tragédie. Le début de la carrière triomphale de Racine, avec *Andromaque* en 1667, a porté ombrage à son succès. Racine appartenait aux détracteurs de Boyer, sous l'impulsion de Boileau. Racine attaqua Boyer, car il avait composé *Jephté* pour le théâtre de Saint-Cyr à la prière de Madame de Maintenon, et qu'on préféra faire jouer cette pièce plutôt qu'*Athalie*.
+
+Cette pièce inspira à Racine une de ses plus jolies épigrammes :
+
+A sa Judith, Boyer, par aventure,  
+Etait assis près d'un riche Caissier ;  
+Bien aise était ; car le bon Financier  
+S'attendrissait et pleurait sans mesure.  
+Bon gré vous sais, lui dit le vieux Rimeur  
+Le beau vous touche et ne seriez d'humeur  
+A vous saisir pour une baliverne. »  
+Lors le Richard en larmoyant lui dit :  
+Je pleure hélas ! De ce pauvre Holoferne  
+Si méchamment mis à mort par Judith.  
+
+Indépendamment de cela, Boyer était convaincu que l'insuccès de ses œuvres était dû au parti-pris hostile du public, influencé par les pamphlets et autres épigrammes qui l'attaquaient. Il faillit le prouver en 1680, lorsque sa tragédie *Agamemnon*, présentée comme l'œuvre d'un certain Pader D'Assezan fut applaudie par les spectateurs alors que la pièce suivante, signée de Boyer, fut sifflée.
+
+Boileau décrivit Boyer comme un auteur froid, au style plat et obscur. Les critiques du XVIII*e* siècle n'ont fait que suivre cette opinion. Les premiers historiens de la littérature, les frères Parfaict [11], formulent une critique semblable au sujet de *La Porcie Romaine* : « le sujet est noyé dans un déluge de vers ampoulés, qui par conséquent ne disent rien en beaucoup de mots. » (VII, p. 11), ou encore, « sa poésie est pleine d'expressions froides et jamais nulle images. » (XII p. 183). Ces critiques ne sont pas objectives puisqu'elles reprennent les remarques formulées par Boileau, qui était un ennemi de Boyer.
+
+Au XX*e* siècle, seul H.C. Lancaster [12] a contribué à la réhabilitation de Boyer. Selon lui, il existe effectivement un abîme entre les écrivains comme Boyer, Quinault ou Rotrou, qui du reste sont au dessus de la plupart des autres, et des maîtres comme Corneille ou Racine. Cependant, ces hommes jouent un rôle très important car ils reflètent les goûts et les modes de vie de leur temps plus précisément que les grands auteurs. Leurs oeuvres sont beaucoup moins travaillées que celles des grands auteurs, les personnages qu'ils mettent en scène sont plus ordinaires.
+
+De toute évidence, Boyer doit plus son immortalité aux épigrammes écrites par ses détracteurs qu'à son titre d'académicien. Mais, son œuvre est très variée et touche à toutes les formes du théâtre : opéra, pastorale, tragi-comédie.
+
+Seules quatre de ses œuvres ont été rééditées depuis le XVIII*e* siècle : la tragédie dite « à machines » intitulée *Les Amours de Jupiter et de Sémélé* (1666) en 1985 [13], *Oropaste, ou le faux Tonaxare* (1662) en 1990 [14] et *Tyridate* suivi de *Le Fils supposé* en 1998 [15].
+
+
+# Traitement des sources
+
+L'épisode de l'histoire Romaine mis en scène par Boyer était connu de tous, il nourrissait les débats d'ordre politique, voire moral et servait de référence pour l'évocation et l'analyse des événements contemporains : la personnalité des Républicains, leurs motivations et leurs buts constituaient de véritables modèles – positifs ou négatifs. Boyer a surtout mis l'accent sur le personnage de Porcie. Il n'est pas le premier dramaturge à la mettre en scène. Garnier en 1568 [16] et Guérin de Bouscal en 1635 s'y étaient déjà intéressés. Cependant, dans la pièce de Garnier, Brutus n'apparaît à aucun moment et dans celle de Guérin de Bouscal, Porcie n'a pas un rôle aussi important. Les sources de cette pièce sont de deux natures : historiques essentiellement, mais aussi dramatiques.
+
+
+## Les sources historiques
+
+Porcie est un personnage historique avant d'être une héroïne de tragédie. Elle est liée à l'histoire Romaine par sa famille et par son mariage. Boyer s'est servi des récits des historiens grecs et romains pour déterminer le caractère de son héroïne et pour situer sa pièce dans un contexte. La *Vie de Brutus* de Plutarque est indéniablement l'une de ses sources. L'historien grec raconte en détails l'affrontement qui eut lieu à Philippes entre Brutus et Octave. Tous les personnages de *La Porcie Romaine* y figurent. L'influence de Plutarque est perceptible dès le début de la pièce. Brutus reçoit la visite d'une ombre (I, 1) dont il ne parvient pas à déterminer l'identité. Pour Plutarque, un fantôme pénétra chez Brutus, peu de temps avant le début de la bataille de Philippes (*Vie de Brutus* XXXVI, 7). En mentionnant cet épisode, Boyer restitue le goût de l'historien pour les manifestations surnaturelles. Les mauvais présages, mis en évidence par Plutarque, jouent un rôle considérable dans *La Porcie Romaine.* D'après les sources, beaucoup de mauvais présages concernaient Cassius à la veille de la bataille de Philippes : un licteur lui présenta la couronne à l'envers, beaucoup d'oiseaux de proie apparaissaient chaque jour dans son camp. Plutarque écrit que Cassius n'était pas pressé de livrer bataille à cause de tous ces mauvais présages (*Vie de Brutus* XXXIX, 3-7).
+
+Boyer reprend toutes ces informations dans sa pièce. À la scène 3 de l'acte I, Cassius insiste sur tous ces mauvais présages et essaie de dissuader Brutus de livrer bataille aussi vite :
+
+Lassons sa cruauté par nostre patience ;  
+Que sa longue fureur cède à nostre constance ;  
+Et respectant la main qui nous a menacez, (I, 3 v. 105-107)  
+
+Boyer a utilisé l'œuvre de Plutarque pour établir le contexte historique de sa tragédie. Mais, Plutarque est un historien et un moraliste. La forme de son récit n'est pas compatible telle quelle avec les exigences du théâtre classique. Le travail de Boyer a été de modeler l'histoire pour la faire entrer dans le cadre de la tragédie. Dans le cas de Porcie, le travail de création a consisté à étoffer son personnage, tout en restant fidèle aux sources. Chez Plutarque, Porcie apparaît peu. De surcroît, elle ne figure pas dans le récit de la bataille de Philippes. Les personnages n'y font même pas allusion. Boyer a dû trouver un compromis entre son désir de faire intervenir le personnage de Porcie et celui de mettre en scène la bataille de Philippes, tout en respectant l'unité de lieu.
+
+Pour cela, il eut l'idée de placer Porcie aux abords du champ de bataille et de faire de sa tente le lieu de l'action au cours de laquelle s'affrontent les Républicains et les Triumvirs. Cette situation est une pure invention des dramaturges. En effet, d'après les sources, Porcie suivit son mari jusqu'à Vélia, au bord de la mer, après l'assassinat de César et de là, elle devait retourner à Rome (*Vie de Brutus* XXIII, 1-2). Ce déplacement du lieu de l'action dans la tente de Porcie entraîne des situations incongrues: à la scène 1 de l'acte V, on comprend mal pourquoi Octave et sa suite viennent débattre du sort de Brutus dans la tente de Porcie.
+
+D'autre part, Boyer a déplacé la bataille de Philippes à Pharsale. On peut s'interroger sur le motif de ce changement. En effet, la bataille de Pharsale, à laquelle Brutus participa eut lieu en 49 avant J.-C. et opposa Pompée à César. Elle marque la défaite de Pompée et son exil. Cette entorse à l'histoire peut s'expliquer par le désir de Boyer de suivre les règles dictées par le théâtre du XVII*e* siècle et de créer des situations dramatiques. Toutefois, l'explication la plus probable serait le lapsus. En effet, les circonstances des deux batailles très proches. Dans les deux cas, ceux qui veulent préserver l'intégrité de Rome s'opposent aux tyrans qui veulent l'asservir. Tout comme l'a fait Plutarque, Boyer a concentré les deux batailles de Philippes en une seule. En réalité, il y eut deux batailles de Philippes : Antoine a triomphé de Cassius, puis vingt jours plus tard Octave a battu Brutus. Boyer reste fidèle à sa source, Plutarque, qui avait déjà opéré une synthèse et avait placé chacun des chefs Républicains sur un front différent.
+
+Boyer a également modifié les circonstances du quiproquo qui a causé le suicide de Cassius. À l'origine, il y a un quiproquo historique. Plutarque [17] raconte que Cassius s'est suicidé à la suite d'une méprise : encerclé par des troupes et pensant que c'était des ennemis, il envoya un messager, Titinius pour s'en assurer. Il ignorait que les troupes qu'il voyait étaient celles de Brutus venant lui prêter main forte. Lorsque les soldats de Brutus reconnurent Titinius, ils poussèrent des cris de joie et l'embrassèrent. Cassius, qui observait la scène de loin, crut que son messager était tombé aux mains des ennemis. Il se suicida pour ne pas être fait prisonnier.
+
+Boyer a utilisé le quiproquo, mais en a modifié les circonstances et a fait en sorte qu'il ait des répercussions directes sur Cassius, mais aussi sur Porcie. Dans *La Porcie Romaine*, l'affranchi de Cassius, Philippe est victime d'une méprise. Il croit voir Brutus mort sur le champ de bataille et va tout de suite l'annoncer à son maître. Cette fausse nouvelle cause la mort de Cassius, qui se suicide parce qu'il refuse de survivre à son ami. Boyer a ici transformé l'histoire pour maintenir la cohérence de la tragédie et y ajouter une nouvelle péripétie. En effet, le quiproquo entraîne le suicide de Cassius, mais il provoque également un coup de théâtre. Brutus, que l'on croyait mort, revient sain et sauf à l'acte IV. L'annonce de sa mort a engendré le suicide de Cassius, mais son retour soulage Porcie, qui elle aussi était prête à se suicider. Le coup de théâtre redonne un élan à l'histoire et fait progresser l'action.
+
+Au sujet des circonstances de la mort de Brutus, Boyer n'a que légèrement modifié les faits historiques. Dans *La Porcie Romaine*, Brutus est poursuivi par les soldats d'Octave pour être mis aux fers. Pour leur échapper, il a retourné son épée contre lui. Il est mort sans subir l'humiliation de la captivité, tant souhaitée par Octave. En réalité, c'est un de ses amis, Straton qui l'a tué sur sa demande. Plutarque le met en scène dans l'épilogue de la *Vie de Brutus* : « Voici, César, l'homme quia rendu à mon Brutus le suprême service » dit Messala, un ami de Brutus en présentant Straton à Octave.
+
+Ernst Göhlert [18], qui étudia la vie et la production dramatique de Boyer, pense qu'il trouva matière pour *La Porcie Romaine* dans *La Pharsale* de Lucain. Cette référence pourrait expliquer l'amalgame fait par Boyer entre la bataille de Pharsale et celle de Philippes. En effet, Lucain est coupable de la même erreur en confondant Philippes et Pharsale. Boyer aurait très bien pu faire le même lapsus que lui. Par ailleurs, certains points de cette tragédie sont proches de l'oeuvre de Lucain. Ce dernier insiste sur l'importance des présages au livre I de *La Pharsale.* On peut noter que les paroles de Cassius à la scène 3 de l'acte I reflètent presque mot pour mot les termes employés par Lucain.
+
+Tout comme Brutus, Pompée fut victime d'une vision. Il reçut la visite de sa femme, Julie, morte quelques années auparavant qui lui donne rendez-vous sur le champ de bataille (III, 10). De la même façon, l'ombre de César ou de Caton rend visite à Brutus peu de temps avant la bataille de Philippes. D'après Lancaster [19], Boyer aurait placé la bataille à Pharsale plutôt qu'à Philippes où elle a réellement eut lieu, afin que Porcie puisse prononcer le discours de Lucain sur les cadavres pourrissants. Lorsqu'elle évoque la bataille, Porcie adopte le même ton très réaliste :
+
+Ces restes malheureux d'une effroyable armée,  
+Rome dedans ces lieux à demy consommée,  
+Ce tas de corps pourris, ces ossemens épars,  
+Que nos derniers combats sèment de toutes pars ; (II, 4 v. 577-580)  
+
+Cette description n'est pas sans rappeler celle de Lucain : « Il regarde les cadavres amoncelés en tas aussi hauts... » (VII, v. 790).
+
+Boyer a pu faire appel à d'autres sources pour certains détails. Ainsi, il peut avoir lu Appien [20] qui met davantage l'accent sur les présages que Plutarque. Cependant, les principales sources historiques restent Plutarque et Lucain.
+
+Parallèlement, il convient de relever les modifications faites par Boyer au sujet des personnages. La plupart sont historiques : Porcie, Brutus, Cassius et Octave figurent dans le récit de Plutarque. Boyer n'a pas eu à créer de nouveau personnages pour construire une nouvelle intrigue susceptible d'étoffer la pièce. Les seules entorses à l'histoire sont les changements d'appellations et l'ajout de personnages indispensables à la tragédie du XVII*e* siècle. Boyer a modifié le nom de l'affranchi de Cassius. Dans La *Porcie Romaine*, il s'appelle Philippe.
+
+D'après les sources, l'affranchi de Pompée s'appelait Philippe. Ceci peut n'être qu'une coïncidence ou bien l'effet d'un réel désir de rapprocher Pompée des Républicains et justifier le rapprochement Pharsale, Philippes. Chez Plutarque, l'affranchi de Cassius répond au nom de Pindare. C'est ce même Pindare qui aurait donné la mort à Cassius sur sa demande. Boyer a mis en scène Julie, confidente de Porcie, et Maxime, gentilhomme de Brutus, dont les sources ne parlent pas. Le confident est un élément essentiel du théâtre du XVII*e* siècle. Il permet au héros ou à l'héroïne de parler seul sur scène pour résumer les événements sans que cela paraisse invraisemblable.
+
+Reste les circonstances de la mort de impliquée. Presque tous les auteurs qui s'y sont intéressés soulignent le courage dont elle a fait preuve en avalant des charbons ardents. Elle n'est pas morte sur le champ de bataille où l'a placée Boyer.
+
+Plutarque raconte que, voulant se tuer et en étant empêchée par tous ses amis qui la surveillaient et ne la quittaient pas des yeux, elle prit des charbons ardents et les avala. Cependant, il donne une autre version, suggérée par Nicolas le Philosophe, qu'il expose dans l'épilogue de la *Vie de Brutus.* Porcie aurait décidé de quitter la vie à cause d'une grave maladie, mais l'historien grec émet des réserves sur son authenticité.
+
+
+## Les sources dramatiques
+
+Deux pièces sur le même sujet précèdent *La Porcie Romaine* et il n'est pas impossible que Boyer s'en soit inspiré. La *Porcie* de Garnier, datant de 1568, ne met pas en scène Brutus et concentre son attention sur le personnage féminin. L'histoire de Porcie, qui apprenant la mort de son mari Brutus décide de se suicider, n'avait jamais été portée au théâtre avant cette pièce. Cette tragédie est imprégnée de mythologie et fait intervenir un personnage surnaturel : la Furie Mégère [21]. Garnier prête à Porcie des opinions qui ne sont pas du tout dans l'optique de Boyer. Dans un entretien avec sa nourrice, elle déplore l'assassinat de César, car, au lieu d'un souverain, Rome est dominée par trois tyrans :
+
+Or je te plains, César ! César, je plains ta mort !  
+Et confesse à présent que l'on t'a fait grand tort.  
+Tu devois encor vivre, et devoir encor estre  
+De ce chétif empire et le prince et le maistre (II, 2 v. 545-548).  
+
+Cette opinion paraît surprenante dans la bouche de l'héroïne, mais elle correspond à la thèse que Garnier soutenait à la même époque dans son *Hymne à la monarchie*. D'après Lancaster, l'idée du débat sur la clémence qui ponctue l'oeuvre aurait été inspirée par Garnier.
+
+La seconde pièce sur le même sujet est *La Mort de Brute et de Porcie* de Guérin de Bouscal qui date de 1635. Pour Lancaster, Guérin de Bouscal peut avoir suggéré à Boyer la présence de Porcie dans le camp de son mari. Mais Boyer n'essaie pas, comme l'a fait Guérin de Bouscal de discuter les questions politiques ou de différencier les croyances philosophiques de Brutus et de Cassius. *La Mort de Brute et de Porcie* est remplie de longs discours, surtout des harangues des chefs à leurs soldats et des lamentations de Porcie. Brutus ouvre le premier acte en discourant sur les avantages de la République, alors qu'Antoine ouvre le second avec un discours sur la supériorité de l'Absolutisme.
+
+La Porcie de Boyer est capturée et humiliée par Octave, ce qui n'apparaît pas chez les autres auteurs. La mort de Porcie est annoncée et décrite dans la pièce de Guérin de Bouscal comme dans celle de Boyer et dans les deux cas cela cause un choc à Octave. Dans les deux cas, Octave promet la clémence pour ceux qui sont en son pouvoir.
+
+Dans toutes les pièces, Porcie est présentée comme une femme très fière, ébranlée seulement par la crainte menaçante de la guerre. Boyer écrit à une époque où Corneille connaît un grand succès avec ses pièces qu'il n'a pas pu ignorer. Ainsi, le fait qu'il ait montré, à la fin de la pièce, Octave accordant sa grâce vient probablement de *Cinna* [22], dont l'autre titre est *La Clémence d'Auguste*.
+
+Il est important de constater que Boyer s'est beaucoup inspiré de ses prédécesseurs pour écrire sa tragédie, ce qui fait dire à Lancaster que *La Porcie Romaine* souffre de trop d'imitations. Contrairement à d'autres tragédies dont la chronologie, les circonstances et les personnages sont retravaillés, Boyer a fait peu de modifications par rapport aux sources. Il s'est contenté de changer la vision de la bataille de Philippes en focalisant son attention sur Porcie et d'adapter ces circonstances historiques aux exigences des règles du théâtre du XVII*e* siècle.
+
+
+# Composition : structure et personnages
+
+
+## Une tragédie régulière
+
+*La Porcie Romaine* obéit sans peine aux fameuses règles du théâtre classique. La crise se déroule sur le champ de bataille et plus précisément dans la tente de Porcie, installée non loin de là. C'est en ces lieux que s'affrontent Brutus, Cassius et Octave. Dans le cas précis, le désir d'observer l'unité de lieu peut mettre en péril la vraisemblance. En effet, la situation ne paraît pas naturelle puisqu'il n'y a aucune raison à la présence de Porcie sur le champ de bataille.
+
+La pièce se déroule sur une douzaine d'heures. Pour respecter l'unité de temps, Boyer aurait fait commencer sa pièce au milieu de la nuit avec la vision de Brutus (I, 1). Cette hypothèse est confirmée par les paroles de Brutus à la fin de l'acte I. Il donne rendez-vous à Cassius pour effectuer les premières manœuvres :
+
+Adieu nous nous verrons à la pointe du jour (I, 4 v. 312).  
+
+De fait, la « principale action » se résume à l'affrontement entre les Républicains Brutus et Cassius et le Triumvir Octave. La bataille en elle-même n'est engagée qu'au second acte. À la fin de la scène 2 de l'acte II, Brutus fait ses adieux à Porcie pour partir au combat. Dans les scènes précédentes, il est question de cet affrontement, mais il n'a pas encore commencé. Il est évoqué pour la première fois par Brutus dès la première scène :
+
+Si j'ay pris pour vostre ombre, une ombre faible et lâche  
+Qui pour ternir mon nom d'une honteuse tâche  
+S'efforce à retarder des desseins si glorieux,  
+Que pour la liberté m'inspirèrent les Dieux (I, 1 v. 16-20).  
+
+Le récit de la bataille n'est fait qu'à l'acte III, par Philippe.
+
+La liaison des scènes, qui est l'équivalent des transitions dans la continuité du discours, résulte d'un usage plus que d'une règle. Cependant, Boyer respecte cet usage qui implique une continuité de l'action. En cas de sortie d'un personnage à la vue d'un arrivant indésirable, la scène ne doit pas être vide au cours d'un acte. Dans cette pièce, on rencontre une forme atypique de liaison, « la liaison de recherche ». Lorsqu'un personnage annonce son intention d'en rencontrer un autre, la scène suivante se transporte auprès de celui-ci, devant qui il se présente.
+
+Ainsi, à la scène 3 de l'acte I, Brutus exprime son désir de se rendre auprès de Porcie : « Allons treuver Porcie et pressons ce moment » (v. 167). La scène 4 débute par le dialogue entre Brutus et Porcie. Ce procédé est une formule de transition par juxtaposition de « tableaux ». Pour cette raison, il demande une mise en scène particulière. On peut imaginer que la scène 3 se déroule près du champ de bataille, aux abords de la tente de Porcie, dans laquelle ils pénètrent à la scène 4. Une telle mise en scène demande un aménagement particulier de la scène traditionnelle en compartiments pour rendre cette liaison vraisemblable. Toutes les autres liaisons de la pièce sont des liaisons de présence systématique ou de vue.
+
+Pour ce qui est de la vraisemblance, Boyer se conforme dans l'ensemble aux exigences du théâtre classique. Le dénouement de la tragédie est tout à fait vraisemblable. Brutus et Cassius sont prêts à mourir pour sauver Rome. Croyant son ami disparu, Cassius se suicide parce qu'il sait que sans Brutus il n'y a pas de victoire possible sur les Triumvirs. Brutus se suicide par souci de gloire et d'honneur. Dès le début de la pièce, Brutus annonce qu'il mourra plutôt que de subir une défaite et le joug des Triumvirs :
+
+Ou victimes de Rome, ou ses libérateurs.  
+Vivans dans la franchise ou mourant avec elle (I, 2 v. 36-37).  
+
+La fin de Porcie n'est pas non plus une surprise, puisque dès le début de la pièce, elle annonce qu'elle veut suivre son mari dans la mort, si jamais il lui arrivait malheur :
+
+Que si le Ciel injuste a juré vostre mort,  
+Je vivray cependant ignorant vostre sort ;  
+Et quand je l'auray sçeu, je ne puis que vous suivre,  
+Moy qui ne devois pas un moment vous survivre (I, 4 v. 211-214).  
+
+La vraisemblance du dénouement est ménagée par la progression de l'action : il est annoncé et on le sent de plus en plus inéluctable.
+
+Boyer respecte également les bienséances externes. Ainsi, il ne porte pas sur scène les suicides de Cassius, Brutus et Porcie, mais il les fait raconter. Cependant, il ne se contente pas de faire raconter la vision de Brutus, il la met plus ou moins en scène. Brutus interpelle quelqu'un qu'il est seul à voir. Il appelle Maxime, mais ce dernier n'a rien vu. Boyer va ici moins loin que Guérin de Bouscal qui, dans *La Mort de Brute et de Porcie* fait parler l'ombre (I, 4 v. 158).
+
+Boyer écrit en 1645, période où le triomphe des règles classiques est certain. Mairet les a remises au goût du jour avec sa *Sophonisbe* en 1634, puis les théoriciens se sont efforcés de les imposer (Chapelain, protecteur de Boyer et surtout l'abbé d'Aubignac). L'auteur de *La Porcie Romaine* met un point d'honneur à les respecter.
+
+
+## Structure et personnages
+
+*La Porcie Romaine* n'est pas une longue tragédie : 1590 vers, c'est-à-dire moins que la moyenne qui est d'environ 1700 vers. À titre de comparaison, les tragédies de Corneille font en général 1800 vers.
+
+Les actes comptent approximativement le même nombre de vers. L'acte IV en compte un peu plus. On peut expliquer ceci par le fait que c'est à ce moment qu'intervient l'élément de surprise de la pièce, le coup de théâtre apporté par le retour de Brutus. Maxime apparaît pour apprendre à Porcie que Brutus n'est pas mort. De plus, dans ce même acte, Cassius découragé et ignorant de ce sort favorable a demandé à ses hommes de le tuer. À ce moment précis interviennent un coup de théâtre et un quiproquo qui expliquent pourquoi cet acte est sensiblement plus long.
+
+Tous les personnages sont présentés dans l'acte d'exposition, qu'est l'acte I, à l'exception d'Octave, qui est pourtant au centre des préoccupations. Brutus prononce son nom dès la scène 3, pourtant il n'apparaît qu'à l'acte V. On peut expliquer ceci par le désir de Boyer de ménager l'intérêt dramatique. Jusqu'à l'acte V, on ne sait pas ce qui se passe dans l'autre camp. On ignore les intentions d'Octave : veut-il tuer Brutus, le faire prisonnier, lui accorder sa clémence ? Le spectateur n'est mis en présence que d'un seul des deux protagonistes de l'action principale, jusqu'à l'acte V.
+
+L'acte I souligne la perte de confiance progressive de Brutus au fur et à mesure que l'heure de la bataille approche. Il a dû affronter beaucoup de réticences : celles de Cassius et de Maxime, ses plus proches conseillers. De plus, ils ne bénéficient pas de l'approbation des dieux, ce qui ne fait qu'accentuer le doute. Tous ces obstacles donnent l'occasion à Brutus de prouver que son patriotisme et son désir de délivrer Rome du joug des Triumvirs sont plus forts que les coups du sort. À la fin de l'acte I, Porcie fait son apparition. Brutus la presse de s'éloigner car il craint pour sa sécurité. Elle refuse avec fierté de le quitter et suit sa propre voie.
+
+À l'acte II, on obtient un complément d'information sur les personnages principaux. On assiste à une inversion des rôles entre Brutus et Cassius. Brutus, qui était si pressé d'engager le combat est saisi d'un mouvement de recul. À cause de la présence de Porcie, il est prêt à renoncer à la bataille. Cassius, qui à l'acte I le poussait à reporter la bataille à cause des mauvais présages, l'exhorte à présent.
+
+L'action principale débute à la scène 2 de l'acte II. À ce moment, l'affrontement entre Brutus et Octave devient concret, c'est un fil comportant un début et une fin qui court tout au long de l'œuvre. À l'issu de ces deux actes, Brutus apparaît comme un personnage déchiré entre deux tendances contradictoires. Son amour pour Rome et son désir le poussent à combattre aveuglément : à l'acte I, ni les réticences de Cassius, ni les mauvais présages n'auraient pu le freiner. Il était déterminé à combattre au péril de sa vie pourvu qu'il sauvât Rome de l'emprise des tyrans.
+
+Cependant, un tel engagement met en danger la vie de sa femme. L'amour qu'il porte à Porcie n'est pas compatible avec son ambition. Cette brusque prise de conscience s'effectue à la scène 3 de l'acte I. Brutus est très déterminé au début de la scène, son discours est d'une violence rare et il réfute tous les arguments que Cassius lui oppose. Au vers 42, Cassius mentionne le nom de Porcie car il sait que seul ce sujet peut l'ébranler :
+
+Brute se souvient t-il qu'il hazarde Porcie?  
+
+Cet argument est le dernier recours qu'utilise Cassius pour lui faire prendre conscience de la situation. Ce vers est le pivot de la scène. Après ces paroles, le discours de Brutus change radicalement. Il devient beaucoup moins sûr de lui et utilise des métaphores galantes (comme celle du cœur de l'homme prisonnier ou dominé par l'aimée). La scène 3 est le reflet de ce déchirement et de ce retournement de situation. Cependant, dans la scène suivante, Brutus semble avoir trouvé une échappatoire, qui consisterait à éloigner Porcie du champ de bataille pour préserver sa sécurité. Devant le refus de cette dernière de quitter les lieux, Brutus est inquiet, mais il part tout de même au combat.
+
+Il est important de noter que tout au long de la pièce, la situation amoureuse n'est pas évolutive. Contrairement à ce qui se passe dans beaucoup d'autres tragédies contemporaines, il n'y a pas ici d'intrigue amoureuse venant étayer l'action principale. Brutus et Porcie sont un couple historique, ils ne relâchent pas leur attachement l'un pour l'autre, malgré toutes les épreuves qu'ils endurent. Ce lien est tellement étroit qu'il les mène jusqu'à la mort.
+
+La particularité de cette pièce est que son centre d'intérêt est focalisé sur une seule des deux parties qui s'opposent. Octave, le second protagoniste de l'action principale n'apparaît qu'au dernier acte. Il est mentionné tout au long de la pièce par tous les personnages, mais il n'a la parole qu'au cinquième acte. Boyer est donc délibérément partial puisqu'il ne donne pas à Octave l'occasion de se justifier. De plus, Brutus et Octave ne sont jamais mis face à face. Les actes font alterner des points de vue opposés sans même confronter les personnages qui les expriment.
+
+Le choix de Boyer de ne porter son attention que sur l'une des parties a des conséquences sur la fonction des personnages qu'il met en scène. La plupart de ces personnages sont des adjuvants. Julie et Maxime sont des confidents et en tant que tels, leur mission est d'écouter et de conseiller leurs maîtres. Cassius est l'ami de Brutus et il se bat pour la même cause que lui. Le personnage de Cassius reflète les lacunes de Boyer pour la description des caractères. Ce personnage est tout entier dévoué à Brutus et meurt pour lui. Boyer aurait pu le nuancer et le rendre plus subversif. Il aurait pu se servir de la brouille qui eut lieu entre Brutus et Cassius avant l'assassinat de César. D'après Plutarque [23], Cassius jalousait Brutus car il avait obtenu la magistrature de préteur urbain, qui était très convoitée. Cassius aurait eu des raisons de vouloir satisfaire son ambition personnelle aux dépens de Brutus. Cassius est le seul personnage qui aurait pu être un opposant, moins évident qu'Octave. En effet, Octave est le seul opposant déclaré. Il est présenté dès le début comme l'ennemi et le reste jusqu'à l'avant-dernière scène. L'action principale de la pièce repose entièrement sur cette opposition. Néanmoins, dans la dernière scène, Octave est attendri par le destin de Brutus et de Porcie. La nouvelle de la mort de Porcie a un effet de surprise sur lui et il exprime seulement des mots de regret et de reproche envers lui-même. Octave n'est plus, dans cette scène l'opposant qu'il était au début de la pièce et accorde sa clémence à Maxime, à défaut d'avoir pu sauver Porcie.
+
+Ce revirement de situation souligne le tragique de la pièce : Brutus et Porcie auraient pu être sauvés si Octave s'était montré clément plus tôt. Malgré cela, Octave reste un opposant puisqu'il représente la tyrannie face à la liberté Républicaine. Le statut d'Octave engendre la mort des héros. Brutus se suicide parce qu'il ne veut pas être humilié : la défaite est déshonorante chez les Romains et le suicide est glorieux. L'atroce suicide de Porcie est une des conséquences de la fonction d'opposant d'Octave. Il refuse de laisser Porcie se suicider pour rejoindre son mari.
+
+Enfin le personnage de Philippe peut être considéré comme un « opposant involontaire ». Philippe est victime d'une méprise : il croit voir Brutus mort. Cassius est d'abord sceptique, puis finit par le croire et Porcie ne met pas en doute sa parole. La révélation de Philippe est très lourde de conséquences : elle conduit au suicide de Cassius, qui entraîne la défaite de Brutus et son suicide, lui même de celui de Porcie.
+
+Philippe n'est pas un opposant puisqu'il n'avait pas prémédité cette révélation. De plus, conscient des terribles conséquences de son manque d'attention, il met fin à ses jours comme l'a fait son maître.
+
+
+## Dynamique de la pièce
+
+*La Porcie Romaine* est organisée, comme toutes les tragédies classiques, autour d'une action principale. On peut se demander comment et par quels moyens l'action principale aboutit à un dénouement. Comment, en partant de l'affrontement entre Brutus et Octave, on arrive au suicide de Cassius, de Brutus et de Porcie. Brutus se bat contre Octave parce qu'il veut sauver Rome de la tyrannie exercée par les Triumvirs et parce qu'il veut venger la mort de Caton, son oncle et beau-père, mort par la faute de César. Cette action est fournie par l'histoire. À la scène 1 de l'acte III, surgit une modification. Boyer se sert d'un quiproquo historique dont l'effet dure jusqu'à la scène 5 avec l'arrivée de Maxime. À la scène 5, on assiste à un coup de théâtre : Brutus est en fait vivant et on apprend que Philippe a été victime d'une méprise :
+
+Mais sans s'estre blessé !  
+Philippe voit sa chûte, et sans en voir la suite,  
+Vers le camp de Cassie, il se sauve à la fuite (III, 5 v. 900-902).  
+
+Les conséquences malheureuses de ce quiproquo sont intervenues avant le coup de théâtre : ce qui fait naître le tragique. À partir de ce quiproquo, on assiste à une « réaction en chaîne », où chaque péripétie va dépendre de la précédente. Le quiproquo influe sur l'action principale et le personnage de Brutus fait le lien entre les deux. Il est au centre du quiproquo, il provoque le coup de théâtre et il participe à l'action principale : non seulement Brutus n'est pas mort, mais il revient victorieux :
+
+Allons, allons Julie au devant du vainqueur (IV, 3 v. 1079).  
+
+L'élément de surprise provoqué par le coup de théâtre permet de donner à la pièce une certaine dynamique. Les retournements de situations permettent aux personnages de s'évader tout en restant dans le même lieu pour ne pas contrevenir aux règles classiques.
+
+
+# Caractère des personnages
+
+
+## Porcie, une héroïne cornélienne
+
+La pièce de Boyer met surtout en valeur Porcie, une héroïne qui appartient clairement aux types de personnages de Corneille. Corneille ne parlait pas de Héros, mais de « premier acteur », c'est-à-dire celui qui occupe le plus longtemps la scène et autour de qui l'action principale est construite. Porcie n'est pas au centre de l'action principale, mais c'est à travers ses yeux que nous la percevons. Tout comme Emilie dans *Cinna* ou Cornélie dans *La Mort de Pompée* [24].
+
+Porcie fait preuve d'une puissante volonté. Elle reste fidèle à son mari à l'heure du danger, désireuse de partager avec lui le châtiment, autant par amour que par sens de ses responsabilités. Dès le début de la pièce, Brutus, qui craint pour sa sécurité, la presse de s'éloigner un temps du champ de bataille. Il veut lui épargner la vue du sang et en cas de défaite la préserver des outrages des vainqueurs. Elle refuse avec fierté et s'indigne de cette requête :
+
+Quoy ! Vous me renvoyez ; Brute bannit sa femme ? (I, 4 v. 189)  
+
+N'est-elle pas la fille de Caton d'Utique qui « sut se soustraire au destin qui fit succomber Rome » (v. 258) ? Brutus cède à ses nobles accents non sans inquiétude et demande à Maxime de la protéger. Là encore, elle parvient à exercer sa volonté. Elle convainc Maxime qu'il serait plus utile auprès de Brutus et réussit à le faire partir :
+
+Va cours, volle au combat pour te justifier (II, 3 v. 508).  
+
+Cette force de caractère se manifeste jusqu'à la fin de la pièce. À l'acte V, Octave arrive dans la tente de Porcie à la recherche de Brutus. Porcie est emmenée, mais elle demande à Octave de la laisser se suicider. Octave rejette sa requête en répondant cruellement : « Allez vomir ailleurs le poison qu'il vous reste. » (V, 2 v. 1438). Il met Porcie sous surveillance pour ne pas qu'elle mette fin à ses jours et pour pouvoir ainsi l'humilier. Elle déjoue pourtant l'attention des gardes. Elle se suicide, de manière atroce certes, mais rien n'a pu l'empêcher d'arriver à ses fins. Porcie fait preuve d'un courage à toute épreuve et les péripéties de l'action nous apprennent à découvrir peu à peu sa force de volonté.
+
+De plus, c'est une grande dame Romaine, chez qui le sentiment du devoir prime tout. Héritière d'une grande cause à laquelle furent liées les destinées de Rome, elle lui reste obstinément fidèle. Son père, Caton d'Utique s'était déjà battu pour la République et s'est suicidé pour échapper au tyran César. Elle est envahie de grands sentiments patriotiques et pour cela, elle est comparée au jeune Horace, par C. Brody Carnelson [25], dans son amour ardent pour Rome. Bien que son grand amour pour Brutus soit né de la reconnaissance de ce qu'il y avait de bon en lui, elle admet que son amour pour Rome est plus grand :
+
+Si je l'aime beaucoup, c'est un peu moins que Rome (II, 2 v. 418).  
+
+Elle a la passion de la justice : Octave, qui a pris le pouvoir illégalement doit disparaître. De plus, elle est imprégnée d'un sentiment de vengeance auquel elle ne veut pas renoncer. Octave est le descendant de César, le même César qui est responsable de la mort de son père. Le désir de venger la mort de Caton est une des raisons pour lesquelles elle veut rester près du champ de bataille. Elle veut voir mourir de ses propres yeux le tyran. Lorsque Brutus la presse de s'éloigner, elle revendique ce sentiment pour rester auprès de lui :
+
+Vous m'esloignez des lieux où j'atens ma vengeance ? (II, 4 v. 194)  
+
+Elle est prête à agir pour venger sa famille. Pour des raisons matérielles elle ne peut être l'exécutrice de cette vengeance car une femme ne peut prendre les armes. Cependant, elle envisage la mort d'Octave, moins comme un acte de vengeance que comme un acte de justice. Octave tient les Romains asservis. Porcie, tout comme Brutus a soif de justice et de liberté. Elle voit comme une imposture la consécration d'un prince aux mains rouges du sang de ses concitoyens. Même s'il est fait allusion aux trois tyrans, Antoine et Lépide n'apparaissent pas. Octave représente le seul ennemi des Républicains.
+
+Porcie est très attachée à l'honneur et la respecte en toute circonstance. Son constat d'impuissance à l'acte V l'incline à adopter une dignité stoïque. Elle est humiliée par Octave, mais continue à mettre en avant l'honneur de son sang, pour qu'il la traite comme une femme digne de son rang : « Et par tes traitemens fais justice à mon rang. » (V, 2 v. 1324). À aucun moment elle ne supplie Octave de la laisser se suicider. Les demandes plaintives ne sont pas conformes à son rang. Elle devient même agressive et tient un discours qui n'est pas celui d'une captive face à celui qui a un pouvoir sur elle :
+
+Mais quel droit, tyran, faut-il que j'en dépende ? (V, 2 v. 1353)  
+
+Enfin, ce qui fait de Porcie une héroïne particulière, c'est son exaltation. Devoir et passion coexistent en elle. Devoir et passion vont dans le même sens puisque son mari, Brutus se bat pour une cause qui lui est aussi chère à elle. Elle est partagée entre sa joie de voir ses convictions défendues et la crainte de perdre celui qu'elle aime. L'amour qu'elle éprouve pour Brutus ne cesse d'être affirmé tout au long de la pièce. Cependant, le quiproquo qui fait croire à la mort de Brutus lui fait adopter un discours beaucoup plus passionné :
+
+Désordre de mon Ame, invincibles frayeurs (II, 4 v. 788)  
+
+L'héroïne de Boyer paraît beaucoup plus proche des héroïnes de Corneille que de celles de Garnier. Les héros Romains de Garnier se complaisent dans des attitudes qui favorisent une rhétorique rigide et des sentences définitives. La Porcie de Garnier est beaucoup plus radicale dans ses jugements et affiche volontiers son pessimisme :
+
+*La Nourrice*    Avez-vous doncques peur qu'il ne surmonte pas ?  
+*Porcie*        Leur pouvoir est plus grand        (II, 1)  
+
+La Porcie de Garnier est beaucoup moins exaltée, elle n'est pas aussi dévouée à sa cause que ne l'est celle de Boyer. Elle est repliée sur elle-même. Le cadre ne favorise donc pas le progrès de l'action ni l'évolution psychologique. La Porcie de Boyer est beaucoup plus dynamique (à l'image des personnages cornéliens). Elle participe à l'action, elle est impliquée dans la bataille au point d'aller se tenir informée de la situation des combats :
+
+Allons pour contenter le soin qui me travaille,  
+Descouvrir s'il se peut l'état de la bataille     (II, 4 v. 625-626)  
+
+Porcie, la première héroïne de Boyer est donc un personnage décrit à la manière de Corneille. Elle est le précurseur des femmes de grande volonté des pièces ultérieures de Boyer. Mais, elle domine la tragédie si complètement que les autres personnages sont dans son ombre et perdent beaucoup de leur importance en tant qu'individus.
+
+
+## Les autres personnages
+
+Maxime et Julie ne sont pas de simples confidents, ils participent autant que le permet leur modeste condition, aux déterminations de leurs maîtres. À la scène 4 de l'acte II, Julie exhorte sa maîtresse à reprendre courage et à ne pas se laisser aller au désespoir :
+
+Vous vous emportez trop à d'inutiles plaintes (II, 4 v. 573)  
+
+Maxime a un rôle important tout au long de la pièce. Il conseille Brutus et lui donne son propre avis sur les circonstances qui précèdent le combat :
+
+Ne bravez pas la foudre alors que les Dieux tonnent :  
+Qui vous peut soutenir, lorsqu'ils vous abandonnent ? (I, 2 v. 45-46)  
+
+C'est un homme de confiance et Brutus en est conscient puisqu'il le charge de la protection de Porcie. Lorsque Porcie lui demande de la quitter pour aller rejoindre Brutus, il hésite, mais part tout de même :
+
+*Maxime*    Mais que dira t-il ?  
+*Porcie*     Que Maxime est fidèle (II, 3 v. 529)  
+
+Maxime est aussi le messager qui vient annoncer à Porcie que Brutus est vivant et qui lui explique l'origine du quiproquo :
+
+Quel charme injurieux vous cache sa victoire ?  
+Ces indignes frayeurs me rendent tout confus (III, 5 v. 838-839)  
+
+Maxime plaide la cause de Porcie et implore Octave de se montrer clément et de laisser Porcie se suicider :
+
+Cependant, que Porcie esclave et malheureuse  
+Cherche en vain pour sa gloire une mort généreuse.  
+Souffrez donc qu'elle meure, ou vive sans rougir,  
+Octave c'est ainsi qu'un grand coeur doit agir (V, 4 v. 1473-1475).  
+
+Maxime est le seul bénéficiaire de la clémence d'Octave. Il est plus qu'un confident, mais n'a pas le même statut que Cassius, qui est l'ami intime.
+
+Pour élaborer le personnage de Cassius, Boyer a gommé toutes les imperfections de son caractère que Plutarque soulignait dans la *Vie de Brutus* (VIII, 5). Plutarque décrit Cassius comme un homme passionné, « fougueux, emporté, entraîné souvent par l'appât du gain hors des voies de la justice ». De plus, « on ne doutait point que s'il faisait la guerre, courrait de pays en pays et affrontait le danger c'était plutôt pour s'assurer à lui-même un pouvoir que pour donner à ses concitoyens la liberté. » (XXIX, 5). Boyer n'a pas du tout tenu compte de ces indications dans la description du caractère de Cassius. Il est l'ami fidèle de Brutus, qui le conseille et lui fait confiance. Au début de la pièce, Brutus veut convaincre Cassius d'engager la bataille. Cassius hésite car les dieux ne sont pas favorables, mais il abandonne vite ses craintes et se range du côté de son ami il l'exhorte même au combat lorsqu'il perd courage :
+
+Oüy, Brute, il faut combattre (II, 1 v. 313)  
+
+Cassius est aussi patriote que Brutus et a la même haine du tyran. La fidèle amitié qui le lie à Brutus le conduit même à la mort. Lorsqu'il apprend par son affranchi que Brutus est mort, il sort pour mourir :
+
+Fais que pour l'imiter je succombe aujourd'huy  
+Par mon propre courage, et par la main d'autrui (III, 2 v. 703-704)  
+
+Cassius est la principale victime du quiproquo, mais en se suicidant, il prouve sa fidélité à Brutus : il était prêt à le suivre jusqu'au bout.
+
+Octave est présenté dès le début comme l'un des tyrans qui asservissent Rome. Son caractère n'est décelable qu'au cinquième acte puisque c'est à cet instant qu'il prend la parole. Dans les quatre premières scènes, Octave est très dur. Il n'a qu'une seule idée en tête qui est de capturer Brutus et Porcie et de les humilier pour leur montrer qu'il est le vainqueur. Il refuse à Porcie le suicide et lorsque Maxime le supplie de se montrer clément envers elle, il accepte à condition que Brutus implore « soubmis aux pieds de son vainqueur. » (V, 4 v. 1507). Il humilie Porcie pour mettre en valeur sa victoire et sa gloire personnelle :
+
+Mais plustost qu'elle vive en faveur de ma gloire,  
+Jouyssons pleinement du fruit de ma victoire (V, 3 v. 1441-1442).  
+
+Parce qu'il fait preuve d'une extraordinaire dureté dans les premières scènes, le radoucissement final d'Octave est surprenant. Il est visiblement surpris et touché par la mort de Porcie. À la fin de la pièce, il éprouve une certaine culpabilité et opère sa propre remise en question.
+
+Il promet la clémence pour tous ceux qui sont en son pouvoir. C'est comme si la mort de Porcie avait provoqué chez lui une prise de conscience subite. Ses dernières paroles expriment le désir d'expier ses fautes et d'essayer d'effacer les rigueurs passées pour trouver la paix intérieure :
+
+Que je hay ma fortune et ce superbe rang  
+Qui pour un peu de gloire a cousté tant de sang (V, 5 v. 1589-1590).  
+
+Conformément aux sources, Brutus représente la *dignitas virilis* Romaine. Il est le défenseur d'une vertu presque sans failles. Le caractère de Brutus, patriote courageux et implacable éveille l'intérêt. Il avoue sa haine de la tyrannie et exalte ses sentiments Républicains. Il est prêt à tout pour faire triompher la démocratie, il est prêt à braver les dieux et les mises en garde de ses amis.
+
+Pouvons-nous différer aux yeux de l'Univers  
+D'attaquer les Tyrans, qui le tiennent aux fers ? (I, 3 v. 115-116)  
+
+Il est prêt à tout sacrifier pour le salut de Rome, sauf Porcie. Il réfute tous les arguments que lui oppose Cassius, excepté celui ci :
+
+Je me sens rougir en faveur de Porcie (II, 3 v. 154)  
+
+Auprès de sa femme, il peut tout à fait changer d'attitude et se transformer en galant qui s'adresse à son aimée en utilisant des métaphores. Mais Brutus reste le modèle du patriote, qui a le sens de l'honneur et qui préfère mourir plutôt que d'assumer une défaite et l'humiliation qui en résulte. On ressent parfois chez Brutus des vestiges de son éducation stoïcienne en particulier dans son attitude face à la mort. C'est un homme qui sait aller au bout de ses engagements, même s'il doit y trouver la mort. Dans cette pièce, Brutus n'a pas toute sa grandeur historique parce que son personnage est éclipsé par celui de sa femme.
+
+
+# Une tragédie politique
+
+La tragédie est à la fois le récit d'une action et une méditation sur ce récit, ou du moins une organisation du récit brut. Cette volonté de raconter des histoires en action conduit à préférer l'imagination comme procédé de mise en forme du récit. Selon Hardy, l'imagination reste inséparable des sujets reçus de l'Antiquité. La tragédie a pour objectif de privilégier l'histoire, ce qui exclut les intrigues inventées par plaisir.
+
+Boyer a privilégié l'histoire Romaine. La bataille qui oppose Brutus à Octave étant illustre, il lui était difficile de prendre d'excessives libertés avec l'histoire. Les personnages mis en scène par Boyer sont hors du commun par leur rang : Brutus et Cassius sont de grands chefs militaires qui ont fait leurs preuves lors de batailles précédentes ; Octave est un descendant du Grand César, chef militaire devenu empereur et Porcie est issue d'une illustre lignée. Son père Caton d'Utique était un conseiller de Pompée, arrière-petit-fils de Caton le Censeur et ardent défenseur de la politique Romaine. Le sujet choisi par Boyer met en scène des personnages conformes aux exigences des sujets tragiques.
+
+De plus, Corneille insiste sur la dignité de l'action tragique : « sa dignité demande quelque grand intérêt d'État, quelque passion plus noble et plus mâle que l'amour, telles que sont l'ambition ou la vengeance, et veut donner à craindre des malheurs plus grands que la perte d'une maîtresse [26] ». L'intérêt d'état réside ici dans le désir de Brutus d'instaurer la République et de chasser les tyrans de Rome. Brutus voit dans cette dictature un danger pour Rome. L'intérêt d'État existe bel et bien dans la pièce de Boyer, qui peut ainsi porter le nom de tragédie. Les affaires d'Etat y tiennent une place capitale : le salut de Rome est en jeu.
+
+À l'aventure historique – histoire qui est infléchie en fonction des nécessités dramatiques – s'entrelace une dimension politique. Cette tragédie, comme beaucoup d'autres de la même époque a quelque rapport avec l'actualité politique : les conspirations contre Richelieu et Mazarin ont redonné au problème politique de la conspiration et au conspirateurs Romains leur actualité. La tragédie de Boyer n'est pas une réflexion sur la politique, contrairement à celle de Guérin de Bouscal. *La Mort de Brute et de Porcie* met en scène les théories politiques, prononcées et expliquées par les chefs des différentes factions. La pièce de Boyer met en scène l'affrontement de deux idéologies politiques, mais les protagonistes ne tiennent pas de longs discours sur les avantages de chaque régime.
+
+Lorsque la pièce commence, la situation repose déjà sur un acte politique. Pourquoi Brutus se prépare t-il à affronter Octave à Philippes ? Parce qu'il est l'auteur d'un meurtre et qu'Octave veut venger César, victime de cet assassinat. Le « tu quoque mi fili » de César à Brutus repris par Scudéry dans *La Mort de César (*IV, 8 v. 962), unit régicide (assimilé dans le contexte au tyrannicide) et parricide au sens moral.
+
+Le Brutus qui ouvre la pièce de Boyer est déjà l'artisan d'un acte politique. Pour Brutus, les raisons pour lesquelles il a tué César sont les mêmes que celles pour lesquelles il affronte Octave : il veut bannir la tyrannie. Un idéal politique est proposé c'est celui de Brutus : la République. Brutus est présenté comme le sauveur de Rome :
+
+Taschons par nostre exemple à guérir les Romains (I, 3 v. 92)  
+
+Ce point de vue est de toute évidence une entorse au pouvoir monarchique « héréditaire ». Ces entorses ne peuvent que provoquer les troubles politiques. Dans chaque partie, on peut trouver une raison d'État.
+
+Du côté de Brutus, elle serait de préserver Rome de la Tyrannie et de conserver les libertés individuelles des citoyens. Du côté d'Octave, ce pourrait être le maintien du pouvoir monarchique, quasi héréditaire, comme le veut la loi Salique. Octave est le fils de la nièce de César : c'est donc un de ses descendants, même si ce dernier a pris le pouvoir illégalement, Octave doit en hériter.
+
+Il s'agit donc de savoir quelle est la meilleure forme de gouvernement : démocratie ou pouvoir personnel ? Cette tragédie expose et fait s'affronter ces deux conceptions politiques. La révolte des conjurés avait été dirigée contre la forme de pouvoir exécrable qu'est la dictature. L'engagement d'Octave a pour but de faire respecter le pouvoir établi, même si celui-ci est fondé sur l'usurpation. Toutefois, la monarchie établie satisfait beaucoup plus les souverains que leurs sujets. Les Triumvirs font régner la terreur auprès du peuple en multipliant les proscriptions.
+
+À l'issue de la pièce et après la mort de Brutus et de Porcie, on entrevoit une possibilité de dénouer la situation politique. Dans la dernière scène, Octave est pris de remords, alors qu'il est arrivé à ses fins : il est victorieux et ses ennemis sont morts. Il accorde sa clémence à Maxime à défaut d'avoir pu l'accorder à Porcie. Cette leçon de clémence a une résonance politique : il faut faire aimer et respecter le pouvoir monarchique. Octave a évolué tout au long de la pièce et son comportement final est à la mesure de ce que doivent être les rapports entre l'Etat et les citoyens.
+
+Pourtant une parole d'Octave attire l'attention :
+
+Que je hay ma fortune, et ce superbe rang (V, 5 v. 1587)  
+
+Octave, qui est le vainqueur ne paraît pas satisfait. La volonté de puissance débouche sur une crise morale, sur le doute. Il prend subitement conscience qu'aucun pouvoir ne se peut construire et se maintenir s'il est fondé sur la force et le mépris des citoyens. La raison d'État ne doit pas faire oublier à ceux qui gouvernent celle de l'humanité.
+
+On peut également mettre l'accent sur les rapports entre la politique et la religion mis en scène dans cette œuvre. Dès la scène 2 du premier acte, Boyer met en jeu ces relations. Brutus veut engager le combat le plus tôt possible. Malheureusement, les dieux ne sont pas favorables à cette entreprise. Maxime incite Brutus à s'en remettre au ciel et à attendre une période plus clémente :
+
+Ne bravez pas la foudre, alors que les Dieux tonnent :  
+Qui vous peut soutenir lorsqu'ils vous abandonnent ? (I, 2 v. 45-46)  
+
+Dans la scène suivante, Cassius évoque tous les mauvais présages qui se sont manifestés et essaye à son tour de dissuader Brutus de livrer bataille. Mais, Brutus ne prête pas attention aux prédictions divines et décide d'aller tout de même au combat :
+
+Amy, ne croyons point à ces présages vains ;  
+Taschons par nostre exemple à guérir les Romains  
+D'une religion par qui Rome invincible,  
+A des lasches frayeurs se trouve si sensible (I, 3 v. 91-94).  
+
+Ces paroles sont la parfaite illustration des rapports entre la politique et la religion. Pour Brutus, la religion gêne la politique parce qu'elle freine les hommes. Le monde politique ne se gouverne pas en fonction de la volonté des dieux. Dans ce cas précis, c'est le moment pour Brutus de livrer bataille. Boyer a donné à son Cassius, un caractère plus religieux qu'il ne l'est vraiment. D'après les sources, Cassius était un épicurien qui faisait peu de cas de la religion. Scudéry reprend la personnalité originelle de Cassius lorsqu'il lui fait dire dans *La Mort de César*, dans des circonstances similaires :
+
+Oracle, sacrifice, augure, vol d'oiseaux,  
+Dieux du ciel, de l'enfer, de la terre et des eaux,  
+Invention humaine, aussi belle que feinte,  
+Vous ne me donnez point de sentiments de crainte (II, 4 v. 461-464)  
+
+La raison d'État gouverne tout et amène à un certain fatalisme. Brutus va se battre, avec la conviction que, quoiqu'il arrive, il aura la conscience de s'être battu pour le salut de Rome. La motivation de la raison d'État amène le héros à passer outre la religion et les croyances diverses. La dimension politique est donc très présente dans l'œuvre de Boyer et surpasse la dimension religieuse. Elle n'est pas clairement exprimée, mais la dimension historique permet de décrypter l'actualité.
+
+
+# Une conception particulière de l'amour
+
+La particularité de la tragédie de Boyer réside dans la place occupée par l'amour. Dans la plupart des tragédies du XVII*e* siècle, les auteurs ont créé de toute pièce des personnages pour développer, en marge de l'action principale, une intrigue amoureuse. Ainsi, Corneille a créé le personnage d'Emilie dans *Cinna*. La seule donnée historique était la conspiration de Cinna contre Auguste. Pour étoffer l'action « vraie », il était nécessaire d'inventer des épisodes. Le personnage d'Emilie est l'objet de l'amour de Cinna, mais elle est aussi à l'origine de la conspiration puisqu'elle ne veut se donner qu'à ce prix. L'amour que Cinna porte à Emilie permet de donner une cohérence à l'histoire.
+
+Dans *La Porcie Romaine*, Boyer n'a pas eu besoin de créer un personnage féminin et de construire une intrigue amoureuse autour de lui. Le personnage de Porcie, femme de Brutus est un personnage historique. Il n'y a pas de naissance de l'amour, puisque dès le début et bien avant, Porcie est attachée à son mari et le soutient en toutes circonstances. Ainsi, Plutarque raconte que Porcie, voyant son mari préoccupé par la préparation de l'assassinat de César, ne voulut pas le questionner avant de s'être infligé à elle-même une épreuve. Elle prit des ciseaux, s'entailla profondément la cuisse et fut saisie de violentes douleurs. Elle montra à son mari qu'elle était capable de supporter avec lui un souci qui exige la confiance.Brutus, stupéfait, pria les dieux de lui accorder le succès de son entreprise pour se montrer le digne époux de impliquée (*Vie de Brutus* XIV). Le soutien de sa femme est un moteur pour Brutus.
+
+Il n'y a pas d'intrigue amoureuse, mais l'amour est en parfaite harmonie avec l'action principale, qui consiste à se battre contre Octave. Pour cette raison, Porcie veut être la plus proche possible des combats, pour pouvoir à tout moment soutenir son mari. L'amour ne se façonne pas au fur et à mesure de l'histoire, il est présent dès le début. Pour cette raison, cette tragédie est originale. Dans la plupart des tragédies, l'action principale et l'intrigue amoureuse progressent côte à côte tout au long de l'histoire.
+
+Dans celle de Boyer, l'action principale progresse et arrive à un dénouement ; alors que l'amour est répétitif. Il est présent tout au long de la pièce, il s'intensifie à cause des épreuves traversées, mais à aucun moment il n'est remis en question. Jusqu'à la fin, il est question du sentiment amoureux puisqu'il est une des causes du suicide de Porcie :
+
+Cruels, mon Brute, est mort, et je lui dois survivre !  
+Vos malignes pitiez m'empeschent de le suivre (V, 2 v. 1313-1314).  
+
+Si le sentiment amoureux est au cœur de la pièce, il n'a pas toujours le même statut. L'amour est tout d'abord soumis à la raison d'État. Dans l'esprit du dramaturge et dans celui des héros, l'amour ne doit se contenter que du second rang. Il doit laisser la place à la raison d'État, à la défense de l'honneur. Brutus et Porcie ont tous deux cette conception à l'esprit. Bien qu'il risque la vie de sa femme en la laissant rester aux abords du champ de bataille, Brutus part tout de même au combat parce qu'il doit défendre une cause.
+
+De même, lorsque Brutus revient auprès de Porcie qui le croyait mort, ses premiers mots ne traduisent pas les sentiments qu'il éprouve pour sa femme. Porcie est enthousiaste à l'idée de revoir son mari qu'elle a cru perdre et communique sa joie à Julie :
+
+O ! Transports, ah Seigneur ! (IV, 3 v. 1080)  
+
+Dans le comportement de Brutus, la honte de la défaite prime sur la joie de revoir sa femme :
+
+Madame, où courrez-vous, fuyez un misérable (IV, 4 v. 1081).  
+
+Cependant, Brutus est peiné par sa défaite, mais plus encore parce qu'il n'a pas pu venger l'honneur de sa femme. Le comportement de Porcie reflète également la primauté du salut de Rome sur le sentiment
+
+Il est vray, j'aime Brute avec toute l'ardeur,  
+Qu'un amour constant exige d'un grand coeur :  
+Mais avec quelque ardeur dont j'aime un si grand homme,  
+Si je l'aime beaucoup, c'est un peu moins que Rome (II, 2v. 415-418).  
+
+L'honneur ne triomphe pas de l'amour, elle le contraint à se dépasser, à renoncer à ses aspirations immédiates. Après le retour de Brutus, Porcie ne pense plus à son bonheur, mais aux fières idées de Patrie et de Liberté :
+
+Grands Dieux, la liberté que Rome vous demande,  
+Est-elle à vostre avis une faveur si grande ? (IV, 2 v. 1029-1030)  
+
+On est en droit de penser que si Brutus avait trouvé la mort en triomphant d'Octave, Porcie ne se serait pas suicidée. Elle aurait porté un deuil douloureux, certes, mais elle serait la veuve d'un héros qui a donné sa vie pour la sauvegarde de la patrie. Cette pièce met donc bien en scène un amour soumis à l'honneur et à la raison d'Etat. Néanmoins, l'amour ressort meurtri de sa confrontation avec l'honneur, mais elle le rend plus noble et plus pur. Les nouvelles de la victoire d'Octave confirment, à l'acte IV, les inquiétudes de Brutus. Il suggère à Porcie de mourir tous les deux, courageusement, à leur manière et ainsi éviter de passer sous le joug des vainqueurs. Porcie est d'accord et elle s'indigne lorsque Brutus propose finalement de mourir seul :
+
+Quoy, pour un vain effort m'abandonnerez-vous ? (IV, 5 v. 1264)  
+
+Cette conception de l'amour domine la plus grande partie de la pièce. Pourtant, son expression revêt parfois une forme qui la rapproche de celle de l'amour galant Brutus veut à tout prix engager le combat, mais Cassius lui rappelle qu'il risque la vie de Porcie. À ces mots, Brutus se lamente en des termes dignes d'un amoureux français du XVII*e* siècle. Il utilise la métaphore du combat pour évoquer l'amour que lui porte sa femme. Il exprime la souffrance de l'amant, malade d'amour qui ne peut se résigner à mettre en danger l'être aimé. La métaphore guerrière de l'amour est un cliché : « combâtu » (V, 3 v. 144) ; « mortelles atteintes » (v. 145) ; « fort ennemy » (v. 146) ; « empire » (v. 147) ; « pouvoir » (v. 149)
+
+Brutus se présente comme un esclave de l'amour de Porcie. Cette métaphore figure la flèche de Cupidon qui touche le coeur de celui qui est amoureux.Ce discours est en totale opposition avec les propos tenus précédemment par Brutus. Au seul nom de Porcie, il devient tout à coup vulnérable, lui qui était prêt à braver les dieux pour livrer bataille. Dans la tirade qui suit, il avoue être vaincu par l'amour qu'il éprouve :
+
+Oüy je me rends Cassie  
+Je me rends sans rougir en faveur de Porcie (I, 3 v. 153-154).  
+
+Ce moment d'égarement n'est que de courte durée, puisque bien vite des notions de gloire et d'honneur reprennent le dessus. Ce type de discours revient lorsqu'il apprend le refus de Porcie de s'éloigner du champ de bataille. Il se présente à nouveau comme une victime.
+
+Usez mieux du pouvoir que vous avez sur moy.  
+Pourray-je résister à de si puissans charmes ? (I, 4 v. 220-221)  
+
+Brutus apparaît comme soumis à l'être aimé, son cœur est tout entier sous l'emprise de Porcie. Il finit par céder à la volonté de sa femme de demeurer près du champ de bataille. Cette image de Brutus, dominé tout entier par son amour pour sa femme, cédant à sa grande volonté est en totale adéquation avec celle du héros, assassin de César, qui part à la guerre pour sauver Rome. À la vue de ces propos, on peut conclure que la tragédie de Boyer n'est pas totalement exempte de préciosité dans sa conception de l'amour. La présence de l'amour nous permet de voir en Brutus autre chose que ce patriote courageux et implacable. C'est ici que les paroles de Corneille, pour qui l'amour est une passion « chargée de faiblesse » prennent tout leur sens. Cette expression plutôt galante de l'amour n'est pas incompatible avec les notions de gloire et d'honneur. En effet, l'honneur est fondé sur l'estime de soi-même et l'amour sur celle que l'on éprouve pour l'être aimé.
+
+Enfin, cette tragédie met également en scène un amour passionné. « Passionné » n'est pas à interpréter dans son sens négatif, mais plutôt dans le sens de « qui va jusqu'au bout ». Porcie suit Brutus jusque dans la mort et cela, même contre la volonté de son entourage. Pour elle, la mort est envisagée comme un adoucissement, un soulagement. Vivre sans l'être aimé est une souffrance bien plus grande que celle de mourir en avalant des charbons ardents. Dans une épigramme, Martial résume cette attitude en faisant dire à Porcie (*Ex Martialis XCIX-Epig.L*i*b.I)* :
+
+Ne savez-vous pas que la mort ne peut être refusée ?  
+Je pensais que mon père, par sa mort vous l'avait appris.  
+
+Pour la femme amoureuse qu'est Porcie, la dernière gloire reste la mort. Elle souhaite la mort au nom de l'amour, avec le secret espoir de l'union des âmes après la mort. Dans la dernière scène, Porcie est submergée par le désespoir. Ses gestes sont violents : « jetter » (v. 1550) ; « tombe » (v. 1556) et traduisent son trouble. La scène décrite par Valère est à l'apogée du pathétique : Brutus et Porcie ne semblent faire qu'un. Porcie s'étend sur le corps de son mari comme si elle voulait partager son être. D'ailleurs, ce rapprochement entre ces deux être est souligné par les paroles de Porcie où elle exprime son désir de mourir exactement comme son mari : « Sa main du même fer allait trancher ses jours (v. 1552). »
+
+Jusqu'à l'extrême fin, Porcie reste fidèle à Brutus. La fin de la scène offre une vision apocalyptique de la situation : Porcie a tout perdu. La cause politique qu'elle défendait a été tenue en échec par Octave et son mari qu'elle chérissait est mort. Cette conception de l'amour est une conception destructrice, comme le sont les passions. Porcie en vient à nier son être propre pour suivre son mari dans la mort. Cette conception de l'amour se manifeste surtout à travers le personnage de Porcie. Il est intéressant de constater que la plus grande partie de la pièce est dominée par la vision du sentiment amoureux comme soumis à la raison d'État.
+
+Cependant, on peut observer quelques variantes chez chacun des personnages. L'expression du sentiment amoureux peut prendre une forme plus galante dans la bouche de Brutus, alors qu'elle peut devenir beaucoup plus passionnée dans celle de Porcie.
+
+Le but de Boyer en écrivant cette pièce a été de montrer le cheminement de Brutus et de Porcie, étape par étape, jusqu'à leur mort. Cette volonté de montrer le parcours de deux personnages, liés l'un à l'autre passe inévitablement par une mise en scène de l'évolution du sentiment amoureux.
+
+
+# Tragique et surnaturel
+
+La mission de la tragédie est d'instruire par le biais du divertissement, ce qui la porte à présenter une authentique réflexion sur la condition humaine. Sa justification majeure, que le dénouement soit ou non tragique est la confrontation de l'homme à ce qui le dépasse.
+
+L'époque de la fin du XVI*e* siècle jusqu'au milieu du XVII*e*, éprouve l'ambiguïté renforcée par l'instabilité politique, de la position de l'homme entre nature et surnature. Garnier fait intervenir la Furie Mégère dans sa pièce intitulée *Porcie*, datant de 1568. Ces divinités infernales sont très fréquentes dans le théâtre tragique du XVII*e* siècle.
+
+Le premier acte de cette pièce est rempli par le monologue de ce personnage mythique. Boyer utilise également un personnage surnaturel comme entrée en matière de *La Porcie Romaine.* Dès la première scène, Brutus est confronté à une ombre dont il ne peut déterminer l'identité : est-ce le fantôme de Caton qui lui veut du bien ou celui de César qui vient se venger ? Il s'évanouit et avec lui une part de sa confiance. En mentionnant ce phénomène, Boyer reste fidèle à Plutarque et restitue le goût de l'historien grec pour le surnaturel. Cependant, cet engouement pour le surnaturel n'est-il pas incompatible avec les règles classiques de vraisemblance et de bienséance ?
+
+Une situation est vraisemblable si elle paraît vraie au public qui lui est confronté. Elle doit sembler d'autant plus vraie que le théâtre se veut être une imitation de la vie réelle. Or, il est impensable que la présence d'un fantôme paraisse vraie à un public sain d'esprit. Pour ce genre de situation les théoriciens ont trouvé une échappatoire pour ne pas contrevenir aux règles tout en préservant la notion de merveilleux. Le merveilleux, le surnaturel trouveraient leur vraisemblance dans leur rapport avec l'action principale. Corneille explique ce procédé dans son *Discours sur la tragédie* : il faut faire en sorte que l'on puisse « supposer que cela se soit pu faire, il s'est pu faire comme le poète le décrit ». L'utilisation du merveilleux ou du surnaturel ne doit pas être « gratuite » pour être vraisemblable : elle doit avoir un effet notable sur le corps de la pièce et contribuer au noeud des intrigues. Dans *La Porcie Romaine*, la visite du fantôme décide Brutus à livrer bataille plus tôt que prévu. Il sait que les dieux sont en colère, mais il est déterminé :
+
+Décidons promptement cette vieille querelle (I, 1 v. 38).  
+
+La présence de ce fantôme est donc « vraisemblable » pour les théoriciens car elle a une incidence sur l'action principale. De plus, elle est mentionnée par les sources, ce qui contribue à la légitimer.
+
+On peut également penser que l'intervention du surnaturel dans les pièces de théâtre peut gêner la bienséance. La règle impose de ne pas mettre en scène des faits ou des personnages qui pourraient choquer les spectateurs. Or, les phénomènes surnaturels peuvent toucher la sensibilité de certaines personnes. Dans la pièce de Boyer, l'ombre ne parle pas (contrairement aux sources), mais Guérin de Bouscal met en scène un génie dans *La Mort de Brute et de Porcie*, dans les mêmes circonstances et lui donne la parole :
+
+C'est ton mauvais génie.  
+Qui te vient advertir que dans fort peu de temps  
+Tu le pourras revoir parmy les combattants (I, 4 v. 158-160).  
+
+Dans une certaine mesure, on peut attribuer le terme de « phénomènes surnaturels » aux présages. Les présages résultent de croyances, en cela ils n'existent pas réellement, ils ne sont pas concrets. Les présages sont un héritage de l'Antiquité et Boyer a très bien restitué cette couleur dans sa pièce. Les auteurs du XVII*e* siècle considéraient la Providence comme une cause seconde de l'histoire humaine. Certains rationalistes dénoncent les superstitions populaires et les dieux païens. Mais la plupart des auteurs les intègrent à leurs oeuvres. Boyer insiste sur l'importance des présages à travers le personnage de Cassius. Ce dernier déconseille à Brutus de livrer bataille parce que les dieux sont en colère. La colère des dieux se manifeste par de mauvais présages : un sacrificateur qui laisse échapper sa victime, des oiseaux de proie qui ne volent pas dans le bon sens ou encore un autel touché par la foudre sont autant de mauvais présages. Ces croyances son directement issues de la religion antique et prennent une importance capitale dans la vie des Romains. Ainsi, Tite-Live [27] raconte que c'est par un acte religieux que Romulus et Rémus déterminèrent celui qui gouvernerait Rome. Rémus vit tout d'abord six oiseaux venir vers lui, il interpréta ceci comme un présage en sa faveur. Puis, Romulus vit venir douze oiseaux. L'un revendiqua la royauté au nom de la primauté et l'autre au nom du nombre. Comme ils ne purent pas se départager, ils s'entre-tuèrent. Cet exemple montre à quel point les présages étaient importants dans la civilisation Romaine.
+
+Comme tout Romain, Cassius est fidèle aux dieux et il est impensable pour lui de transgresser leur volonté. La manifestation d'un présage est un oracle et seuls les prophètes pouvaient les interpréter. Ces manifestations surnaturelles étaient primordiales lorsqu'il s'agissait de prendre une décision politique, de construire une ville [28] ou de livrer une bataille. Les présages évoqués par Cassius ne transgressent pas la règle de la vraisemblance puisqu'ils servent l'action principale. Ils auraient pu empêcher Brutus de se battre. Cependant, le patriotisme et le courage de Brutus sont plus forts que les superstitions. Il ne compte que sur lui-même :
+
+Le seul Brute à ce coup sera le dieu de Brute ;  
+Et sans régler mon sort sur leur sanglans avis. (I, 2 v. 50-51)  
+
+Il engage Cassius à l'imiter et à négliger tous ces présages :
+
+Amy ne croyons point à ces présages vains (I, 3 v. 91)  
+
+Les présages évoqués par Boyer bénéficient de la caution de l'histoire. Toutes ces manifestations, qui effraient Cassius étaient redoutées par Pompée dans *La Pharsale* et mentionnées par Plutarque dans la *Vie de Brutus*.
+
+Les présages relèvent du sort, du hasard et de choses qui dépassent l'homme. Brutus a voulu braver les dieux, le sort s'est retourné contre lui et a engendré l'issue tragique de la pièce. On peut comprendre ce dénouement tragique comme une leçon de morale religieuse : il ne faut pas braver le hasard et les désirs des dieux parce que tôt ou tard cela se retourne contre nous.
+
+
+# Le texte de la présente édition
+
+Il n'existe qu'une seule édition de *La Porcie Romaine*, exécutée en 1646 par le libraire Augustin Courbé. B.N : Yf 515 et 680 = Microfilm n°1554 (8)
+
+En voici la description : - 99 p. ; in-4°
+
+(I) : LA / PORCIE / ROMAINE. / TRAGEDIE. / (Vignette) / A PARIS, /Chez AUGUSTIN COURBE', dans la petite / Salle du palais, à la Palme./ M. DC. XLVI / AVEC PRIVILEGE DU ROY.
+
+(II) : verso blanc.
+
+(III-V) : A MADAME **MADAME** LA **MARQUISE DE RAMBOUILLET** (épître dédicatoire imprimée en lettres capitales.)
+
+(VI) : Sonnet dédié à MADAME LA MARQUISE de Rambouillet.
+
+(VII) : EXTRAICT DU PRIVILEGE DU ROY (avec l'achevé d'imprimer en date du 1er août 1646) / *Fautes survenuës à l'impression*. (7 corrections)
+
+(VIII) : ACTEURS
+
+- 99 pages : le texte de la pièce, précédé d'un rappel du titre en haut de la première page (en dessous d'un bandeau gravé sur bois).
+
+Pour l'établissement du texte, nous avons suivi la leçon de cette unique édition, en nous livrant aux rectifications d'usage, qui nous ont parues indispensables pour une parfaite compréhension du texte.
+ * – Nous avons distingué *i* et u voyelles de *j* et *v* consonnes, conformément à la règle adoptée par certains dès le milieu du XVIIe siècle (notamment par Corneille en 1660).
+ * – Nous avons décomposé la ligature *&* en *et* ;
+ * – Nous avons décomposé les voyelles nasales surmontées d'un tilde en voyelle + consonne
+
+
+## Liste des corrections
+
+V. 78 muete : / v. 95 foible / v. 112 pary / v. 149 foiblesse ? / v. 194 esloignez / v. 220 Usés / v. 294 qui de plus grand / v. 297 amitié. v. 305 qu'elle / v. 308 que tu sois / v. 313 tout est-il prest / v. 320 vents / v. 363 quelque autre / v. 388 désirs / v. 391 effees / v. 406 courage / v. 429 pas / v. 438 des soupirs / v. 439 demeure icy / v. 451 combats / v. 534 obeïssance ? / v. 541 avec / v. 568 trouble / v. 581 civiles. / v. 624 flateur / v. 662 justifient donc / v. 668 Romain. / v. 670 espérance / v. 687 vigueur. / v. 705 enuie / v. 735 est succombé / v. 856 avec que / v. 942 un / v. 1035 souffrirez / v. 1057 apredre /
+
+V. 1059 des faveurs / v. 1091 rigueur : / v. 1094 un / v. 1106 jusques à vous / v. 1107 jusqu'à tous / v. 1132 qu'à fait / v. 1219 grads / v. 1253 Maxime. / v. 1369 infortunez / v. 1436 ta femme / v. 1550 ma foiblesse
+
+
+# LA PORCIE ROMAINE. TRAGEDIE.
+
+
+## **A MADAME LA MARQUISE DE RAMBOUILLET**
+
+MADAME,
+
+C'est une dame romaine, qui vient vous rendre ses devoirs. Si beaucoup de françois et de ceux qui se piquent de connoistre les personnes de son païs, ne l'ont extrèmement flatée, elle conserve encore assés de l'air de ce qu'elle fut autrefois pour n'avoir pas besoin de vous dire son nom en vous abordant. Mais comme il n'y a que vous, MADAME, en ce Royaume, qui se puisse vanter d'avoir avec son païs et son sexe, une naissance pareilles aux siennes ; c'est de vous seule, qu'elle veut savoir, si en quittant le langage de Rome, elle en a perdu les sentiments. Et sans tirer aucun avantage de tout ce qu'on dit en sa faveur, c'est seulement par l'accueil que vous lui ferez, qu'elle veut juger d'elle-mesme. Elle espère de vostre bonté que vous souffrirez son entretien, et
+
+pour peu que vous la trouviez semblable à la fille du grand Caton, et à la veuve de Brutus, elle vous estime trop généreuse pour ne s'asseurer pas
+
+que vous lui donnerez vostre protection : et c'est MADAME, l'espérance de ce glorieux avantage, qui l'a fait venir chez vous. Dans l'obligation qu'elle a de se laisser voir à toute la France estrangère comme elle est, considérable seulement par la grandeur de ses disgraces, sans une faveur comme la vostre, il n'est point de mauvaise rencontre qu'elle ne deût apréhender. Mais si vous vous déclarez pour elle, le respect qu'on a pour tout ce que vous avoüez, la rendre aussi vénérable dans les lieux de vostre séjour, qu'elle le fut autrefois dans ceux de vostre naissance, et n'estant plus estrangère, où vous estes si considérée, j'espère, MADAME, qu'elle aura assez de bonheur pour avoir l'entrée de plus curieux cabinets, et pour n'y perdre pas l'estime, qu'elle attend de vostre approbation. Aussi me flatant par avance du succez de mon essay, je m'eslève à des plus grands desseins, qui pourront mieux soustenir la dignité de vostre Nom, et vous faire agréer la hardiesse que je prens de me dire,
+
+MADAME
+
+Vostre trés-humble, et trés
+
+obéïssant serviteur.
+
+BOYER 
+
+LA PORCIE ROMAINE [29] TRAGEDIE
+
+
+## ACTEURS
+ – BRUTE
+ – MAXIME
+ – CASSIE
+ – PORCIE
+ – JULIE
+ – PHILIPE
+ – OCTAVE
+ – VALERE
+ – TITE
+
+
+## ACTE PREMIER
+
+
+### SCENE PREMIERE
+
+    BRUTE
+Pourquoy mal à propos, image triste, et noire [30],  
+Troubles tu sans respect mon repos, et ma gloire ?  
+Caesar est-ce ton ombre et viens-tu dans ces lieux  
+Exposer ma victoire, et ta mort [31] à mes yeux ?  
+Viens-tu pour redoubler l'ardeur qui me consomme,  
+M'aprendre par ta mort comme on affranchit Rome ?  
+Je sçauray m'acquérir, sans écouter ta voix,  
+L'honneur de l'affranchir [32] une seconde fois.  
+Mais peut-estre est-ce vous phantosme vénérable  
+Du grand et fier Caton [33], simulachre adorable.  
+Que me demandez-vous par ces tristes regards ?  
+Belle ombre avez-vous soif du sang de deux Caesars [34] ?  
+Ma main à l'un et l'autre également funeste,  
+Va répandre bien-tost tout le sang qui leur reste.  
+J'y cours ; mais ce Démon s'opose à mes efforts.  
+Pardonnez, grand Caton, à mes derniers transports :  
+Si j'ay pris pour vostre ombre, une ombre foible et lâche,  
+Qui pour ternir mon nom d'une honteuse tâche,  
+S'efforce à retarder les desseins glorieux,  
+Que pour la liberté m'inspirèrent les Dieux.  
+Maxime, à moy.  
+
+
+### SCENE SECONDE
+
+    MAXIME
+Seigneur,  
+
+    BRUTE
+Voy cette ombre obstinée.  
+Mais je ne la voy plus, et mon âme estonnée  
+Sent un trouble secret, quand cette ombre s'enfuit.  
+Sa présence m'anime, et sa fuite me nuit.  
+Ombre par ma constance heureusement vaincuë.  
+Sors [35], sors de ma pensée, ainsi que de ma veuë :  
+En vain tu fais sur moy tant d'efforts differens  
+Pour la honte de Rome, et l'honneur des Tyrans ;  
+Redouble tes horreurs, portes-les à l'extrème :  
+Je suis toujours Romain, Brute est toujours luy-même.  
+Maxime aprens enfin le dessein que je fais.  
+Les Dieux sont en courroux, s'ils le furent jamais :  
+Du moins s'il en faut croire à la voix des Oracles [36]  
+Il faut pourtant combatre, et vaincre ces obstacles ;  
+Ou maistres, ou soubmis à nos persécuteurs,  
+Ou victimes de Rome, ou ses libérateurs,  
+Vivans dans la franchise⁎, ou mourrans avec elle,  
+Décidons [37] promptement cette vieille querelle [38].  
+
+    MAXIME
+Quoy ? Seigneur maintenant ; quand les Dieux en courroux  
+De la grandeur Romaine ennemys ou jaloux,  
+Vous font voir clairement vos futures disgraces [39];  
+Et pour vous advertir, n'usent que des menaces !  
+Ecoutez leurs advis, quoy que trop rigoureux ;  
+Taschez d'en profiter, servez-vous d'eux contr'eux ;  
+Ne bravez pas la foudre, alors que les Dieux tonnent :  
+Qui vous peut soûtenir, lorsqu'ils vous abandonnent ?  
+
+    BRUTE
+Ah ! Ne m'entretiens plus d'un si lâche discours ;  
+Que la terre, et les Dieux me laissent sans recours  
+Qu'ils n'osent me deffendre, et soûtenir ma cheute ;  
+Le seul Brute à ce coup sera le Dieu de Brute ;  
+Et sans régler mon sort sur leurs sanglans avis.  
+Je veux vaincre ou mourir sans les avoir suivis.  
+Quoy ? Sur l'illusion d'une simple chimère [40],  
+D'un spectre formé d'air, d'une ombre imaginaire,  
+Différer un combat, où je suis invité [41] !  
+Me faire soupçonner de quelque lâcheté !  
+Porte ailleurs ce conseil, montre moins de foiblesse.  
+Cassie en rougiroit. Mais Dieux ! Quelle tristesse  
+Couvre, et paslit ce front autrefois si serain ?  
+Est-ce là le maintien, et le front d'un Romain ?  
+
+
+### SCENE TROISIESME
+
+    CASSIE
+Brute je suis Romain, cognoissez mieux Cassie [42]:  
+Je crains pour nostre Rome, et non pas pour ma vie.  
+Quoy seray-je sans crainte, et sans ébranlement⁎ ?  
+Quand je voy nos soldats frémir d'estonnement⁎  
+Ces horribles corbeaux [43], cette troupe affamée,  
+Dans ces champs de Pharsale au sang accoustumée,  
+Renouvelant l'espoir de leurs derniers butins,  
+Sont les noirs truchemens⁎ de nos mauvais destins.  
+Ces menaces du Ciel, et mille autre présages  
+Ont droit d'espouvanter les plus fermes courages.  
+La rencontre d'un More [44] effroyable à nos yeux.  
+Une suëur de sang qui coule de nos Dieux.  
+Mon cheval abatu par l'esclat de la foudre [45];  
+Et par le mesme éclat un Autel mis en poudre⁎.  
+Un prestre mort du coup, un autre de frayeur.  
+La victime échapée au Sacrificateur [46].  
+Les malignes ardeurs d'une estrange comete [47],  
+Qui rend d'estonnement⁎ la Nature muete,  
+Justifient mon trouble, et font voir aujourd'huy [48],  
+Qu'icy ma crainte est juste en craignant pour autruy :  
+Et j'estime envers Rome, insensible ou sans zèle,  
+Qui prévoit tant de maux, et ne craint rien pour elle.  
+
+    BRUTE
+Dieux ! S'il faut présumer que tout est arresté  
+Par l'immuable loy de la fatalité ;  
+Pourquoy nous advertir des maux inévitables ?  
+Si vos propres advis vous font plus misérables,  
+Accablez-nous de maux, sans nous les annonçer.  
+Prévenez nos frayeurs : frapez sans menaçer.  
+Espargnez-nous au moins la honte de nous plaindre.  
+Laissez-nous espérer, si vous nous faites craindre.  
+Amy, ne croyons point à ces présages vains [49] ;  
+Taschons par nostre exemple à guérir les Romains  
+D'une religion, par qui Rome invincible,  
+A des lâches frayeurs se trouve si sensible.  
+Cachons à l'Univers un faible si honteux.  
+N'escoutons-plus enfin ces Oracles douteux.  
+Consultons seulement Rome, et nostre courage.  
+
+    CASSIE
+Brute, Rome pourtant craint l'effet du présage.  
+Vous sçavez que le Ciel par ses ordres cachez⁎  
+Tient à certains momens nos mal-heurs attachez.  
+Differons un combat, que les soldats en crainte,  
+Entreprendront sans doute avec trop de contrainte.  
+Donnons le temps au Ciel de travailler pour nous ;  
+Donnons-luy le loisir de vaincre son courroux ;  
+Lassons sa cruauté par nostre patience ;  
+Que sa longue fureur cède à nostre constance ;  
+Et respectant la main qui nous a menacez,  
+Faisons rougir les Dieux de s'estre courroucez.  
+
+    BRUTE
+Qu'ils rougissent plustost de voir périr Octave :  
+De triomphant qu'il est, devenir nostre Esclave ;  
+Et malgré les dangers, dont ils m'ont adverty,  
+A leurs yeux, par nos mains, voir tomber leur party.  
+Car après tout, Cassie,en l'estat où nous sommes ;  
+Ou de nostre destin dépend celuy des hommes ;  
+Pouvons-nous différer aux yeux de l'Univers  
+D'attaquer les Tyrans, qui le tiennent aux fers ?  
+Un moment de délay⁎ nous va couvrir de honte.  
+L'orgueil des Ennemis nous brave, et nous affronte ;  
+Et nous serons pourtant, quand il se faut vanger,  
+Moins ardens⁎, et moins prompts qu'eux à nous outrager.  
+Que s'il faut déférer⁎ à la voix des augures ;  
+S'ils nous ont annoncé nos tristes avantures ;  
+Prévenons ces mal-heurs par un illustre effort.  
+Pompée en diférant eut-il un meilleur sort [50] ?  
+Peut-estre sa défaite aussi bien que sa fuite,  
+De ses retardemens⁎ fut l'effroyable suite.  
+Profitons de sa honte ; et craignons aujourd'huy,  
+Que qui sçait diférer, peut bien fuir comme luy.  
+Conservons à jamais dans ces Ames Romaines  
+Nos premières ardeurs, et nos premières haines ;  
+Que nos derniers desseins respondent aux premiers  
+Que le sort des Caesars suive ses héritiers :  
+Qu'ils tombent comme luy d'une cheute si prompte ;  
+Qu'ils n'ayent pas le loisir de voir qui le surmonte ;  
+Qu'ils sçachent que le coup qui punit les Tyrans [51],  
+Est un coup qui menace, et frape en même temps.  
+
+    CASSIE
+Brute a donc resolu de forcer mille obstacles.  
+De vaincre les Destins, de faire des miracles,  
+D'expozer tout un Monde à la haine des Cieux :  
+Brute l'a résolu contre l'avis des Dieux.  
+Mais résistera-t-il à l'avis de Cassie ?  
+Brute se souvient-il qu'il hazarde⁎ Porcie ?  
+
+    BRUTE
+Je sens à ce beau nom chanceler ma vertu.  
+Chaste, et divin amour, dont je suis combatu [52],  
+Toy, de qui je ressens les mortelles atteintes,  
+Doux, et fort ennemy [53], qui fais toutes mes craintes,  
+Exerce sur mon coeur un empire plus doux ;  
+Souffre qu'il serve Rome, et n'en sois pas jaloux.  
+Voy quel est ton pouvoir en voyant sa faiblesse,  
+Puisqu'il ayme Porcie avec tant de tendresse,  
+Qu'il ne l'oze exposer à ces fameux revers,  
+A qui j'oze exposer Rome, et tout l'Univers.  
+
+    CASSIE
+Vous vous rendez enfin.  
+
+    BRUTE
+Oüy, je me rends Cassie,  
+Je me rends sans rougir en faveur de Porcie ;  
+Et je fus envers elle ingrat, et sans souci,  
+D'avoir voulu combâtre en la voyant icy.  
+Ne me reproche point pour soüiller ma mémoire,  
+Rome, que mon amour a retardé ta gloire ;  
+Prens pitié de ma flâme, au lieu d'en murmurer,  
+Si pour servir Porcie, il m'en faut séparer.  
+Dures extremitez, qui partagent mon Ame,  
+Où le même dessein sert et nuit à ma flâme.  
+Si j'ayme ma Porcie, il me la faut banir ;  
+Et cette même ardeur tâche à la retenir.  
+Mais c'est trop consulter, lors qu'il faut entreprendre [54].  
+En vain contre l'Amour, l'Amour se veut deffendre [55]  
+Allons treuver Porcie; et pressons ce moment,  
+Qui doit haster ma gloire, et son esloignement [56].  
+O ! Dieux que cet objet met du trouble en mon Ame  
+Qu'un coeur est esbranlé par les yeux d'une femme !  
+
+
+### SCENE QUATRIESME
+BRUTE, PORCIE, CASSIE, JULIE
+
+
+    BRUTE *à PORCIE*
+Enfin nous arrivons à ce funeste jour,  
+Trop différé pour Rome, et peu pour nostre Amour.  
+L'ennemy s'offre à nous, Caesar [57] est tout en armes ;  
+Et mon Amour troublée au bruit de tant d'alarmes⁎,  
+Ne vous voit qu'en tremblant au milieu des hazars⁎.  
+Echapez promptement à la fureur de Mars [58].  
+En vain vous me priez de garder ce que j'aime ;  
+Mon Amour qui le veut, le refuze à soy-même.  
+Vostre exil sera court ; déjà nostre destin  
+Précipitant son cours, incline vers sa fin.  
+Il est vray que le Ciel jaloux de ma victoire,  
+Me remplit de l'espoir de ma future gloire :  
+Je sens bien que les Dieux se déclarent pour nous [59],  
+Mais j'aime, et cet Amour me fait craindre pour vous.  
+Fuyez-donc pour ma gloire : icy vostre présence  
+Irrite mes frayeurs, et trahit ma constance.  
+N'exposés pas tout, Brute, et que votre pitié  
+Mette enfin à couvert⁎ sa plus belle moitié.  
+
+    PORCIE
+Quoy !Vous me renvoyez ; Brute bannit sa femme :  
+Et ce cruel divorce est l'effet de sa flâme !  
+M'aime-t-il de la sorte ? et faut-il aujourd'huy,  
+Que ce qui nous unit me sépare de luy ?  
+Faut-il que par un sort honteux à ma naissance,  
+Vous m'esloigniez des lieux, où j'atens ma vengeance [60] ?  
+Quand l'ennemy s'aproche, et vient fondre sur nous,  
+C'est son premier exploict de m'esloigner de vous.  
+Luy donnez-vous déjà ce superbe avantage,  
+De paroistre plus fort que nostre mariage ?  
+Quoy ? Me soupçonnez-vous ? Ay-je le coeur trop bas ?  
+Seray-je en asseurance⁎ où vous ne serez pas ?  
+Puis-je estre en asseurance⁎ en craignant vostre chute ?  
+Si vous craignez pour moy, je ne crains que pour Brute :  
+Brute estant exposé, je suis dans le danger,  
+Et mon esloignement ne m'en peut dégager.  
+Si le sort vous couronne, et cède à ma prière,  
+L'Espouze du Vainqueur le sçaura la dernière ;  
+Et peut-estre Caesar en fuyant le péril,  
+Peut venir dans un lieu fameux par mon exil ;  
+Et me mettant aux fers pour réparer sa gloire,  
+Vous punir par sa fuite, et par vostre victoire.  
+Que si le Ciel injuste a juré vostre mort,  
+Je vivray cependant ignorant vostre sort ;  
+Et quand je l'auray sçeu, je ne puis que vous suivre,  
+Moy qui ne devrois pas un moment vous survivre,  
+Ah ! Quitez ce dessein, j'embrasse vos genoux :  
+Par le cher nom de Brute, et par celuy d'Espoux :  
+Par ces pleurs, par ce coeur, et par cette tendresse.  
+
+    BRUTE *en l'interrompant*
+Que faites-vous, Madame, espargnés ma foiblesse ;  
+Faites à mon Amour une plus juste loy :  
+Usez mieux du pouvoir que vous avez sur moy.  
+Pourray-je résister à de si puissans charmes ?  
+Brute n'a pas un coeur à l'espreuve des larmes :  
+Demeurés, j'y consens. Ah !Cruel, coeur ingrat ;  
+Expozer ma Porcie aux hazards⁎ du combat.  
+Mais las !Elle le veut, vous le voulez Madame [61] ;  
+Estes vous si contraire aux desseins de mon Ame.  
+Puis-je vaincre, et trembler en vous voyant icy ?  
+Puis-je toujours rongé par ce pressant soucy,  
+Prester tout mon esprit aux desseins de ma gloire ?  
+Et m'abandonner tout aux soins de ma victoire ?  
+
+    PORCIE
+Icy donc ma présence abat un si grand coeur ?  
+Ah ! Plustost redoublez sa force, et sa valeur.  
+Tirez de ma présence un si noble avantage,  
+Qu'elle vous fasse agir avec plus de courage,  
+Pour combattre, pour vaincre, et pour vous conserver,  
+Ayant avecque Rome une femme à sauver [62].  
+
+    BRUTE
+Il est vray, je l'avouë, icy vostre présence  
+Doit pour vostre interest soustenir ma constance :  
+Que ne feray-je point aidé par vos regars ?  
+Que les Dieux contre nous arment mille Caesars,  
+Je puis en vangeant Rome, et servant ma Porcie  
+Asseurer contre tous mon honneur, et ma vie :  
+Mais contre mes désirs, et malgré tant d'ardeur  
+Un secret mouvement réveille ma frayeur.  
+Si le sort nous veut perdre, et s'arme pour Octave,  
+Pouvez-vous pas enfin devenir son esclave ?  
+Vous le pouvez, Madame, et j'en fremis d'horreur.  
+Je voy dessous les fers soupirer ce grand coeur ;  
+Je voys à nos Tyrans, Porcie abandonnée,  
+Par un char triomphant insolemment traisnée.  
+O !Dieux.  
+
+    PORCIE
+Me faites-vous un si lasche destin ?  
+Voyez quel fut Caton, et quelle fut sa fin [63]:  
+Reconnoissez son sang ; et sçachez que sa fille  
+Ne trahira jamais l'honneur de sa famille.  
+Prévoyant sa défaite attendit-il Caesar ?  
+Voulut-il augmenter la pompe de son char ?  
+Sçeut-il pas par un coup digne d'un si grand homme  
+Se soustraire au destin, qui fit succomber Rome ?  
+Et malgré l'ennemy qui creut l'avoir vaincu,  
+Mourir libre et Romain comme il avoit vécu ?  
+Ainsi mourut Caton, ainsi mourra Porcie [64]:  
+Et si jamais Caesar me tenoit asservie,  
+J'irai chercher la mort par des chemins divers ;  
+Mon juste désespoir triompheroit des fers ;  
+On me verroit perir par mon propre esclavage,  
+Et faisant de ma chaine un effroyage usage  
+Changer heureusement par un illustre effort  
+L'instrument de ma honte en celui de ma mort.  
+Enfin vous me verrez au milieu de ma cheute,  
+Digne sang de Caton, digne femme de Brute ;  
+Imiter comme il faut un père généreux⁎ ;  
+Imiter mon espoux, et répondre à tous deux [65].  
+Reconnoissez Porcie à cet adveu fidèle.  
+
+    BRUTE
+Plus je la reconnois, et plus je crains pour elle.  
+Cachez⁎-moi des apas,⁎ que je n'ose exposer ;  
+Quoi que tant de Vertu⁎ semble m'y disposer,  
+Cette même Vertu⁎ dans ce péril extrème  
+Semble me le deffendre, et s'opose à soi-même.  
+Hé ! Que deviendrez-vous dans ces funestes lieux ?  
+Où mille et mille horreurs blesseront ces beaux yeux [66];  
+Où l'on verra la mort par ses fréquens carnages  
+Etaler dans ces champs ses plus noires images ;  
+Et sans considérer alliance ni rang  
+Tirer de mille endroits un déluge de sang.  
+
+    PORCIE
+Je verrai ces horreurs servir à vostre gloire,  
+Et ces torrens de sang haster vostre victoire.  
+Ne m'estant pas permis d'aider que par des voeux  
+La gloire, et le succez d'un combat si fameux,  
+Je pourray pour le moins voir de prés avec joye.  
+Tous nos persécuteurs devenir nostre proye.  
+Voir briser tous nos fers, voir vanger nos parens,  
+Triompher nostre Rome, et tomber ses Tyrans.  
+
+    BRUTE
+O ! Coeur vraiment Romain, et digne de la gloire,  
+Qui des plus grands Héros illustre la mémoire.  
+Je ne résiste plus, demeurez, j'y consens.  
+Mon coeur se rend enfin à des voeux si pressans.  
+L'honneur et l'amour, l'un jaloux, l'autre tendre,  
+M'inspiroient des frayeurs, qui me venoient surprendre :  
+Mais malgré ces frayeurs, dont ils m'ont combattu,  
+Je sens qu'ils sont d'accord avec vostre Vertu⁎.  
+Puisque par nostre Hymen le destin nous assemble,  
+Ne nous séparons point, vivons, mourons ensemble.  
+Courons d'un mesme pas, et par un mesme sort  
+Dans les bras de la gloire, ou dans ceux de la mort [67].  
+à CASSIE
+
+Tu vois quelle est Porcie, et par cette constance  
+Voy comme elle s'accorde à mon impatience,  
+Va donc par ta présence animer le soldat,  
+Demain que tout soit prest pour donner le combat.  
+La nuit s'avance fort. Cependant cher Cassie,  
+J'auray soin de pourvoir au salut de Porcie.  
+Tu sçais combien ce soin importe à mon Amour.  
+Adieu, nous nous verrons à la pointe du jour.  < Fin du premier Acte >
+
+
+## ACTE DEUXIESME
+
+
+### SCENE PREMIERE
+BRUTE entre d'un costé, et CASSIE de l'autre.
+
+
+    BRUTE
+Hé bien, tout est-il prest ?  
+
+    CASSIE
+Oüy, Brute, il faut combâtre :  
+Les soldats, que les Dieux semblent vouloir abâtre,  
+Et qu'ils avoient émeu par d'injustes frayeurs,  
+Ont repris par ma voix leurs premières ardeurs [68].  
+Amys (leur ay-je dit d'une voix assez forte  
+Quelle soudaine peur vous abat de la sorte ?  
+Ces coeurs dans les périls éprouvés si souvent  
+Se laissent-ils troubler par un souffle de vent  
+Par le feu d'un éclair : par le bruit d'un orage :  
+Par les cris des corbeaux animés au carnage,  
+Qui demandent le sang, qu'il vous faut immoler  
+Et bruslent d'une soif, dont vous devez brusler ?  
+Rome et la Liberté, ces deux noms adorables  
+Vous sont-ils maintenant si peu considérables,  
+Que vous les négligiés par des présages vains,  
+Et qu'on doute à vous voir, si vous estes Romains.  
+A ces mots, j'aperçoy qu'une ardeur vive [69], et prompte,  
+Rougit leurs fronts palis d'une superbe honte,  
+Et leurs esprits enfin pleinement excitez  
+Font briller dans leurs yeux ces malignes clartez.  
+Dont un aspre dépit, et l'effort de la rage  
+Dans leur premier transport arment un grand courage,  
+Et tous meslant leurs voix dans un commun éclat,  
+Par des cris redoublez s'animent au combat.  
+On n'attend plus que vous.  
+
+    BRUTE
+Allons donc : mais Cassie,  
+
+    CASSIE
+Quoy ?  
+
+    BRUTE
+Je revoy tousjours l'image de Porcie ;  
+Tu vois que je l'expose, et que malgré mes voeux [70]  
+Rien ne peut ébransler un coeur si généreux [71].  
+Que n'estes vous, Porcie, un peu moins généreuse,  
+Ou que n'es-tu mon ame un peu moins amoureuse.  
+Ce coeur trop chancelant au poinct d'exécuter  
+N'aurroit pas des frayeurs, qu'il ne peut surmonter.  
+
+    CASSIE
+Qu'avés vous résolu ?  
+
+    BRUTE
+De courir à la gloire,  
+De servir mon amour, sans souiller ma mémoire ;  
+D'aymer tousjours Porcie, et de la conserver,  
+De respandre mon sang, pour vaincre, et la sauver ;  
+De rompre en sa faveur les plus puissans obstacles [72];  
+Et de faire à ses yeux ces illustres miracles.  
+Souffre qu'auparavant j'aille voir ces beaux yeux ;  
+Et qu'en eux seulement j'implore tous mes Dieux.  
+Je te suivray de prez où le devoir m'apelle.  
+Elle vient ; un Adieu me rend quite envers elle  
+Accorde à mon Amour ce funeste loisir ;  
+Va, ne sois pas tesmoin de nostre déplaisir.  
+
+
+### SCENE DEUXIESME
+BRUTE, PORCIE, JULIE, MAXIME
+
+
+    BRUTE *à PORCIE* 
+Il est temps de partir : souffrez que je vous quite :  
+On presse le combat, Rome m'y sollicite ;  
+Et la voix du soldat plein d'un noble courroux,  
+M'inspire maintenant ce qu'il attend de nous.  
+J'ay voulu differer pour l'amour de Porcie,  
+Je l'ay fait, et ma gloire en seroit obscurcie  
+Si quelque autre que vous avoit eu le pouvoir  
+De suspendre un moment l'effet de mon devoir.  
+Par ce retardement jugez quelle est ma flamme,  
+Et voyant le pouvoir, qu'elle prend sur mon Ame ;  
+N'exigez pas d'un coeur soubmis à vostre loy,  
+Rien, qui puisse estre indigne, et de vous, et de moy.  
+Régnez sur vostre espoux, mais régnez en Romaine [73] ;  
+Imposez-nous des loix dignes de nostre haine ;  
+Commandez-nous de vaincre ; et par nostre valeur,  
+Porter chez l'ennemy la honte, et le malheur.  
+Redoublez mes ardeurs, et mon obéissance,  
+Par le soin de ma gloire, et de vostre vengeance ;  
+Enfin commandez-moy de sortir de ces lieux,  
+Et par de telles loix faites-moy vos adieux.  
+Mais vous pleurez Porcie : est-ce avecque⁎ des larmes,  
+Que vous me commandez d'aller prendre les armes ?  
+Voulez-vous de la sorte animer ce grand coeur ?  
+N'est-ce pas luy deffendre avec trop de rigueur,  
+Ce que vostre vertu luy commande sans cesse ?  
+Se peut-elle accorder avec tant de foiblesse ?  
+Par quels voeux autrefois dignes de nostre amour  
+Pressiez-vous tous les Dieux de haster ce grand jour ?  
+De vanger vostre père, et par des morts sans nombre,  
+Remplir pompeusement l'atente de son ombre ?  
+Blamez-vous maintenant par des lâches soupirs,  
+Ceux que mirent au jour ces glorieux désirs ?  
+Faites à ces soupirs une plus noble cause ;  
+Qu'ils servent au dessein, que mon coeur se propose ;  
+Changez en des effets de générosité,  
+Ces indignes tesmoins de nostre lâcheté :  
+Soupirez pour ma gloire, ainsi que pour la vostre ;  
+Enfin soyez Porcie [74], et ne soyez point autre.  
+
+    PORCIE
+Me mécognoissez vous souz un voile de pleurs ?  
+Ou bien suis-je changée au milieu des douleurs ?  
+Est-ce là le reproche où mon amour m'expose ?  
+Condamnez-vous l'effect, dont vous aimez la cause ?  
+Si j'ay versé des pleurs dans ce funeste jour,  
+En cherchez-vous la source ailleurs qu'en mon amour ?  
+Je jure, si jamais la crainte ou la foiblesse,  
+Deshonoroient ce front de la moindre tristesse,  
+De laver dans mon sang la honte de ces pleurs,  
+Et punir par ma mort, l'effet de nos malheurs.  
+Dieux ! J'ay fait de mes pleurs un assez long usage,  
+Mais y remarquez-vous un deffaut de courage ?  
+Non non, Brute, mais j'aime, et puisque vous m'aimez,  
+Pardonnez à l'amour, le dueil [75] que vous blasmez  
+Les Dieux me sont tesmoings que cette impatience,  
+Qu'excite dans nos coeurs une illustre vengeance,  
+Me presse comme vous par des efforts puissans.  
+Et vostre impatience est celle que je sens.  
+Mais pour faire éclater ce feu qui me consomme,  
+Recevés cet aveu fait en faveur de Rome.  
+Il est vray, j'aime Brute avec toute l'ardeur,  
+Qu'une amitié constante [76] exige d'un grand coeur :  
+Mais avec quelque ardeur dont j'aime un si grand homme,  
+Si je l'aime beaucoup, c'est un peu moins que Rome.  
+J'exposerois pour elle amys, parens, espoux ;  
+Voilà les sentimens, que j'ay receu de vous ;  
+C'est ce zèle Romain, et cette belle flâme  
+Que le sang des Catons a versé dans mon ame.  
+Si la voix de mes pleurs a retardé vos pas,  
+Suivez celle de Rome, et ne diférez pas,  
+Ne vous souvenez plus que j'ay versé des larmes :  
+Et s'il vous en souvient au milieu des allarmes⁎ ;  
+Alors que vostre bras ira de toutes pars  
+Signaler sa valeur dans les plus grands hazars :  
+Connoissant par ces pleurs que ma flâme est extrême  
+Brute alors, s'il se peut, espargnez ce que j'aime.  
+Adieu ne tardez plus à partir de ces lieux :  
+Dérobez promptement cet objet à mes yeux ;  
+Cet objet trop charmant, qui trouble ma constance,  
+Plus j'en sens les douceurs, plus je crains son absence  
+
+    BRUTE
+Adieu donc, ma Porcie.  
+
+    PORCIE 
+Adieu, souvenez-vous,  
+Que Brute est tout mon bien, que Brute est mon époux :  
+Et si le Ciel, hélas ! Par un coup trop funeste...  
+Pardonnés des souspirs qui vous diront le reste.  
+
+    BRUTE
+Madame esperés mieux, adieu ;demeure icy,  
+Maxime, prens soin d'elle ; et toy Julie aussi.  
+
+
+### SCENE TROISIESME
+PORCIE, JULIE
+
+
+    PORCIE
+Il est party, Julie, et je n'ose m'en plaindre  
+Rome me le deffend, lors que j'ay tout à craindre ;  
+Et mon coeur ébranslé, mais qui n'ose faillir,  
+Gémit soubs un devoir, qu'il ne peut accomplir.  
+Triste, et cruel devoir, fier tyran de mon ame.  
+Toy, qui voys mon amour, toy qui nourris sa flamme,  
+Peux -tu sans injustice exiger de mon coeur :  
+Qu'en s'ouvrant à l'amour, il se ferme à la peur ?  
+Forces-tu la nature, et par tes tyrannies  
+Oses-tu séparer deux passions unies ?  
+Lors qu'on void un époux au milieu des combats,  
+Un coeur est-il humain, s'il aime, et ne craint pas ?  
+Rome qui fais ces loix, et qui les justifies,  
+Qui règnes sur nos coeurs autant que sur nos vies :  
+Et vous, braves Héros, qui parmy vos mal-heurs  
+Devoriés [77] constament vos soupirs, et vos pleurs ;  
+Ombres de Scipions [78], des Catons, des Pompées [79],  
+Si quelque plus grand soin ne vous tient occupées,  
+Descendés dans mon ame et prestés vos esprits  
+A ce coeur amoureux, que la crainte a surpris.  
+Que vos illustres noms sont chers à ma mémoire !  
+Qu'ils servent à propos mon Amour, et ma gloire !  
+Dès lors qu'à mon esprit vous les avés fait voir,  
+Il a conceu pour Brute un glorieux espoir.  
+Oüy je sens sa victoire, et vos âmes Romaines  
+Voyant revivre en luy vos desseins, et vos haines [80],  
+Me viennent advertir par des avis secrets  
+Que vous devés par luy vanger vos interests.  
+Va donc Brute apuyé par ces divins génies  
+Triompher des Césars, punir leurs tyrannies,  
+Voy ce que tes ayeux ont fait par le passé :  
+Et tasche d'achever ce qu'ils ont commencé.  
+Qu'Octave palissant à ce seul nom de Brute,  
+Craigne de nos Tarquins [81], et la honte, et la chûte,  
+Et qu'il éprouve enfin que tes fameux parens  
+Ont remis dans tes mains la foudre des Tyrans [82].  
+Oüy, Julie, aussi-tost que s'offre à ma mémoire  
+Cette suitte des Rois [83], qui noircit nostre histoire,  
+Et qu'un Brute jaloux [84] de nostre liberté  
+Rendit leur nom horrible à la postérité :  
+Lors qu'il me ressouvient que ce grand Politique [85]  
+D'un règne violent fit une république,  
+Et faisant des Consuls un légitime choix,  
+Mit des Pères [86] dans Rome à la place des Rois :  
+Quand je voy mon époux digne sang [87] d'un tel homme  
+Renouvellant l'ardeur de nostre ancienne Rome,  
+Immoler par sa main ce César plein d'effroy,  
+Qui soubs ce nom fameux cachoit celuy de Roy [88],  
+Et qu'en suite je voy qu'il s'arme, et qu'il s'espose,  
+Et pour la mesme Rome, et pour la mesme cause ;  
+Sans craindre des destins les ordres inconstans  
+Je voy dans le passé le succez que j'attens.  
+Mais Maxime est icy, certes cela m'estonne  
+Quand Brute est au combat, Maxime l'abandonne.  
+Quoy ce zèle, ce coeur, si grand, et si connu,  
+Se dément-il [89] si tost ou qu'est-il devenu ?  
+Veut-il suivre le sort de ces âmes serviles ?  
+Qui sans s'interresser dans nos guerres civiles,  
+Et suivant du vainqueur la fortune, et l'apuy,  
+Triomphent sans combattre, et vainquent par autruy.  
+Donc ; de la liberté fais-tu si peu de conte ?  
+Quoy ? Maxime, ce front craint-il si peu la honte ?  
+Et ton coeur trop jaloux de tout le joug Romain  
+Craint-il d'en prodiguer, ou d'en foüiller ta main ?  
+Non, ne perds point le temps à chercher quelque excuse :  
+Ta présence en ces lieux est tout ce qui t'accuse,  
+Si donc de ta valeur je m'ose deffier,  
+Va, cours, volle [90] au combat pour te justifier.  
+
+    MAXIME
+Ne blasmez point, Madame, un devoir légitime ;  
+Si je suis criminel, Brute a fait tout le crime,  
+Qui pour mieux signaler l'amitié d'un époux  
+M'oblige d'arrester [91], et d'estre auprés de vous.  
+
+    PORCIE
+Voy, ma chère Julie à quel poinct Brute m'aime :  
+Il me laisse Maxime, et s'en prive lui-mesme.  
+Il quitte en ma faveur un si fidèle apuy.  
+Dieux, qu'il a soin de moy. Qu'il en a peu de luy !  
+Je le voy dans le sang, dans le camp, dans la poudre⁎ ;  
+Je me voy dans ma tante à l'abry de la foudre ;  
+Il est dans les hazards⁎ [92], et l'on me garde icy ?  
+Mais s'il est au combat, n'y suis-je pas aussi ?  
+Oüy, Maxime, j'y suis ; et pour garder Porcie,  
+Va t'en auprès de Brute, et prens soin de sa vie :  
+C'est en luy seulement que tu vois tout mon bien.  
+En lui je trouve tout, et sans lui tout m'est rien.  
+Va donc garder l'endroit, par où je suis sensible ;  
+Si Brute est à couvert⁎, je suis inaccessible,  
+Et les plus grands malheurs qu'on peut craindre aujourd'huy  
+Pour venir jusqu'à moy doivent passer par luy.  
+Va.  
+
+    MAXIME
+Mais que dira-t-il ?  
+
+    PORCIE
+Que Maxime est fidelle,  
+Et qu'il a pour Porcie un véritable zèle ;  
+Que si sa tendre amour blasme ce procédé ;  
+Dis que c'est mon amour, qui te l'a commandé ;  
+Que c'est luy, qui luy rend tes soins, et ta présence ;  
+Qu'il a rompu son ordre, et ton obéïssance ;  
+Et que sans me fier à quelque autre secours  
+Je remets dans ses mains tout le soin de mes jours.  
+Si tu crois néantmoins qu'un devoir trop sévère  
+T'oblige d'arrester de peur de luy desplaire,  
+Pour le moins va sçavoir, s'il est en bon estat,  
+Et reviens m'advertir du succez du combat.  
+
+
+### SCENE QUATRIESME
+PORCIE continuë.
+
+
+    PORCIE
+Je puis donc maintenant avecque confidence⁎  
+T'expliquer mes douleurs, et mon peu de constance :  
+Quelques beaux sentimens que je fasse éclater,  
+Une secrette peur me vient persecuter.  
+Si j'esleue mon coeur dans un penser⁎ sublime  
+Par l'effort glorieux d'un espoir légitime,  
+Il descend par la crainte, et toute sa vigueur  
+L'abandonne aussi-tost, et se tourne en langueur.  
+Je voy Brute vainqueur, et mon ame orgueilleuse  
+Conçoit de ses exploits l'idée avantageuse :  
+Mais mon amour timide efface ces beaux trais [93],  
+Et semble demander une honteuse pais.  
+Dieux, vous qui dans mon coeur faites tousjours décendre  
+Un sentiment contraire à celuy qu'il doit prendre ;  
+Qu'ai-je fait contre vous ? Quel crime ay-je commis,  
+Qui vous fasse aujourd'huy mes plus grands ennemis ?  
+Quoy, nous enviez-vous une entière victoire ?  
+Ostez-vous à ce tout la moitié de sa gloire ?  
+Et me donnant pour Brute une indigne pitié,  
+Faut-il quand il triomphe, abatre sa moitié ?  
+S'il le faut, justes Dieux, achevez vostre ouvrage,  
+Et soulez⁎ dans mon sang vostre jalouze rage.  
+Mais je ressens assez vostre extrème rigueur  
+Par les impressions d'une injuste frayeur.  
+Il vous suffit, cruels, de voir trembler Porcie :  
+Vous attaquez sa gloire en luy laissant la vie ;  
+Et sçachant de quelle air elle a tousiours vescu,  
+Si son coeur est troublé, vous le croyez vaincu.  
+Dieux qui réglez nos coeurs par un pouvoir suprème,  
+Abandonnez ce soin, laissez-nous à nous-mème :  
+Pour un peu de secours que l'on reçoit de vous,  
+Vous nous donnez des pleurs trop indignes de nous.  
+
+    JULIE
+Vous vous emportez trop à d'inutiles plaintes :  
+Nous-mesme, non les Dieux, faisons toutes nos craintes.  
+Mais quel est le sujet de ces promptes frayeurs ?  
+
+    PORCIE
+Icy tous les objets me causent mille horreurs.  
+Ces restes malheureux d'une effroyable armée,  
+Rome dedans ces lieux à demy consommée,  
+Ce tas de corps pourris, ces ossemens épars [94],  
+Que nos derniers combats sement de toutes pars ;  
+Ce théâtre fameux de nos guerres civiles,  
+Ces champs par nos mal-heurs devenus plus fertiles,  
+Ces lieux à peine secs du sang de nos parens,  
+Rapellent nos frayeurs, et flatent nos Tyrans.  
+C'est icy qu'à César on vit céder Pompée [95] ;  
+Lors mesme que pour luy Brute tira l'espée [96].  
+Si donc Pompée a fuy par Brute secondé,  
+Brute tiendra-t-il ferme où tous deux ont cédé ?  
+Voy par quelles terreurs le Ciel me persécute.  
+
+    JULIE
+Sur ces lâches destins, réglez-vous ceux de Brute ?  
+Et faut-il qu'une fille en cette extrémité  
+Vous fasse des leçons de générosité ?  
+Non, que j'oze blâmer ce que l'Amour fait naistre :  
+Mais enfin il est temps que vous fassiez paraistre.  
+Que l'Amour qui produit ces tendres mouvemens,  
+Ne descend pas chez vous en de bas sentimens ;  
+Que puisque la vertu⁎ ne hait pas la tendresse,  
+D'elle vient vostre peur, non de quelque foiblesse ;  
+Et que par des pensers⁎ dignes des plus grands coeurs  
+Vous sçaurez démentir ces indignes terreurs.  
+Si Brute a donc suivy le destin de Pompée ;  
+Si de quelque frayeur ce coup vous a frapée ;  
+Dites que sa valeur en cette occasion,  
+Voulut par une adroite, et juste ambition,  
+Réserver à luy seul une illustre victoire,  
+Dont le nom de Pompée eut absorbé la gloire [97].  
+Qu'il espargna César, et qu'il le couronna [98],  
+Pour rendre plus fameux le coup qu'il luy donna.  
+Si ce lieu [99] plein d'effroy présente à vostre veüe,  
+De tant d'illustres morts la cendre confonduë ;  
+Si ces vieux ossemens l'un sur l'autre entassez  
+Vous font apréhender tous nos mal-heurs passez :  
+Enfin, si dans ces lieux on vit la tyrannie  
+Triompher une fois, on l'y verra punie.  
+Nous avons d'autres Dieux contre d'autres Tyrans :  
+Nous avons d'autres mains pour vanger nos parens,  
+Et l'on verra la mort dans ces plaines sanglantes  
+Nous prester le secours de leurs ombres errantes.  
+Ainsi ce qui produit vos agitations,  
+Doit icy soustenir vos résolutions.  
+
+    PORCIE
+Que tes discours, Julie, eschauffent mon courage !  
+Oüy, je sens tes ardeurs, j'accepte ton présage :  
+Tout m'offre un bon succez, et tout semble augmenter  
+L'espoir ambitieux dont tu m'ozes flatter.  
+Allons, pour contenter le soin qui me travaille,  
+Descouvrir s'il se peut l'estat de la bataille :  
+Quoy qu'assez loin du camp, quelque endroit de ces lieux  
+En pourra descouvrir quelque chose à nos yeux.  
+Là d'un superbe espoir l'Ame pleine et charmée,  
+L'oeil tournée vers le Ciel, quelquefois vers l'Armée,  
+Je pousseray vers l'un des soûpirs généreux,  
+Et l'autre m'aprendra le succez de mes voeux.  < Fin du deuxième acte >
+
+
+## ACTE TROISIESME
+
+
+### SCENE PREMIERE
+CASSIE, PHILIPE
+
+
+    CASSIE
+Désirs impétueux d'une ardeur violente,  
+Transports⁎ précipitez, douleurs impatientes,  
+Ne vous oposez plus à mon dernier devoir :  
+Je m'abandonne après à tout mon désespoir :  
+Pour le moins un moment souffrez que je respire [100].  
+à JULIE
+
+Que fait fileuses. O ! Dieux, que luy pourray-je dire !  
+
+
+### SCENE DEUXIESME
+JULIE, CASSIE, PHILIPE
+
+
+    JULIE
+Hélas !Sans m'informer, quels sont les desplaisirs,  
+Qui d'un si grand courage arrachent ces soupirs ;  
+J'en prevoy le sujet.  
+
+    CASSIE
+Oüy, Brute est mort, Julie.  
+
+    JULIE
+Dieux !  
+
+    CASSIE
+Dans un profond deuil mon Ame ensevelie,  
+Et ces traits languissans [101], que peignent mes douleurs,  
+Te descouvrent assez la perte, et nos malheurs.  
+Il est vray, je sens bien que ma gloire indignée,  
+A croire un meilleur sort rend mon Ame obstinée :  
+Et ce coeur resistant au destin qui l'abat,  
+S'il cède à la douleur, ce n'est pas sans combat.  
+Me suis-je point trompé, Philippe, et la poussière,  
+Qui couvrant tout le camp, nous cachoit la lumière,  
+M'a-t'elle point surpris d'une fausse terreur ?  
+As-tu veu Brute mort ? N'est-ce point une erreur ?  
+
+    PHILIPE
+Non, Seigneur, je l'ay veu tomber en ma présence [102]  
+Par sa propre valeur, et par sa résistance ;  
+Quand pressé de cent mains sans estre esbranlé,  
+Souz la fuite des siens il se vit accablé.  
+Ne vous souvient-il plus avec quelle furie [103]  
+Venoit fondre sur vous cette Cavalerie,  
+Dont le bruit a troublé toutes vos légions ?  
+Le désordre des Chefs, la mort des espions,  
+Vous peuvent-ils donner que des sujets de crainte ?  
+
+    CASSIE
+Philippe tes discours justifient donc ma plainte.  
+Je te voy donc, Amy [104], sans honneurs, sans Tombeau,  
+La proye ou le rebut d'un infame Corbeau,  
+Le plus grand des Romains, et tout l'espoir de Rome,  
+A peine retenir la figure d'un homme.  
+Dieux, faites-vous semblable, et d'une mesme main,  
+Le destin du grand Brute, et d'un simple Romain ?  
+Et tranchez-vous si-tost avec tant de licence,  
+Du monde désolé la dernière espérance ?  
+Mais quand mesme il vivroit, (si j'oze conçevoir  
+Parmy tant de malheurs, quelque léger espoir)  
+Le mal seroit plus grand, et sa mort moins funeste ;  
+Mon désespoir s'accroist par l'espoir qui me reste :  
+Dans quelque grand éclat qu'il ait tousiours vescu ;  
+Le seul sang peut lever la honte d'un vaincu [105].  
+Vous, qui n'estes jamais lassez de nous poursuivre,  
+Dieux, le condamnez-vous à la honte de vivre :  
+Mais aussi si nos jours relèvent de son sort,  
+Nous pouvez-vous l'oster par un si prompt effort ?  
+Il est mort cependant, et sans que vostre rage  
+Par de nouveaux malheurs s'explique davantage,  
+Sans autre ordre, et sans vous, son destin aujourd'huy  
+Precipite le mien, et m'entraisne vers luy.  
+Sacrez manes [106] de Brute, ombre pasle, et sanglante,  
+Parmy d'indignes morts confusément errante.  
+Viens, amy contempler avec quelle vigueur,  
+Ma constante amitié règne encor dans mon coeur.  
+Avec quelles ardeurs, il brûle de te suivre ;  
+A combien de trespas ta disgrace le livre ;  
+Et souffre qu'au milieu de ses justes douleurs,  
+Il te donne aujourd'huy du sang au lieu de pleurs.  
+Sus, fidelle affranchy, rens-moy ce bon office,  
+Offre à ce grand Héros un si beau sacrifice ;  
+La victime, et le Dieu sont dignes de ta main.  
+Respond à ce beau choix avec un coeur Romain.  
+Frape, contente Brute, et qu'un coup favorable [107]  
+Rende en quelque façon nostre destin semblable :  
+Si Brute a succombé par la fuite des siens,  
+Fais que je tombe icy souz les efforts des miens :  
+Si Brute dans sa mort treuve cet avantage,  
+Qu'abâtu souz les siens il fait voir son courage,  
+Fais que pour l'imiter je succombe aujourd'huy  
+Par mon propre courage, et par la main d'autruy.  
+
+    PHILIPE
+Quoy ? Seigneur.  
+
+    CASSIE
+Ne crains point, contente mon envie;  
+Tranche, tranche le fil [108] d'une fâcheuse vie :  
+Obéis sans réplique, et sans examiner  
+Ce que le Ciel apreuve, et ne peut condamner.  
+Ne crains-point du reproche, où mon dessein t'engage :  
+Tu me prestes la main, et non pas le courage.  
+Plus à mon désespoir ton secours paroist lent,  
+Plus je sens qu'il s'accroist, et se rend violent.  
+Qu'attens-tu ?Qu'un Tyran me fasse son esclave,  
+Et que mon infamie enfle l'orgueil d'Octave.  
+Fais que je meure libre, et qu'un coup attendu  
+Me conserve aujourd'huy ce que je t'ay rendu.  
+Ne manque pas de foy, si tu manques de zèle,  
+Et ne sois pas ingrat, si tu n'es pas fidèle.  
+
+    JULIE
+J'excusois vos douleurs dans leurs premiers efforts ;  
+Mais je n'excuse plus ces violens transports :  
+Est-ce bien ménager une teste si chère ?  
+Versez-vous pour un mort un sang si nécessaire ?  
+Rome perdra son Brute, et l'on verra pour luy  
+Tomber son dernier sang, et son dernier apuy !  
+Et par vostre douleur sa gloire négligée  
+Rougir de tant d'affronts sans en estre vangée.  
+Que vostre mort, Seigneur, s'accorde à ce devoir :  
+Mourez en vous vangeant, non par le désespoir.  
+
+    CASSIE
+Donc, vous blâmez tous deux un coup si magnanime.  
+Mon trespas vous fait peur, et passe pour un crime.  
+Vous voulez que je vive alors que Brute est mort ?  
+Et rompre l'amitié qui confond nostre sort.  
+Puis-je sans lâcheté survivre un [109] si grand homme,  
+Sur l'espoir incertain de vanger nostre Rome ?  
+J'esperay de vaincre, où Brute a succombé !  
+De demeurer debout quand le Monde [110] est tombé !  
+C'est avoir pour la vie une Amour sans seconde,  
+Que de n'oser périr avecque⁎ tout le Monde.  
+Quiconque en cet estat se perd avec honneur,  
+Doit rendre les vainqueurs jaloux de son bon-heur,  
+Et l'on ne peut tomber d'une plus belle chute,  
+Qu'alors qu'on voit tomber l'Univers, Rome, et Brute.  
+Mais fileuses est icy : que je crains son abord,  
+Et qu'un fâcheux respect va retarder ma mort.  
+à PHILIPE
+
+Toy, va voir cependant, si l'ennemy s'avance.  
+
+
+### SCENE TROISIESME
+CASSIE, PORCIE, JULIE
+
+
+    CASSIE
+Madame, il n'est plus temps qu'un trop lâche silence  
+Vous cache le sujet de mes justes douleurs ;  
+Il est vray que je crains qu'après tant de malheurs,  
+Un coup si rigoureux vous treuve trop sensible.  
+Esprouvez-vous [111], Madame, autant qu'il est possible,  
+Et monstrez au plus fort de vos adversitez  
+Que vous n'oubliez point le sang dont vous sortez.  
+Brute n'est plus, Madame, et mon Ame soupire  
+D'avoir de vie assez pour vous le pouvoir dire.  
+Je ne condamne point vos justes déplaisirs,  
+Je respecte vos pleurs, j'aprouve vos soupirs ;  
+Et s'il faut qu'aujourd'huy la voix d'un misérable  
+Vous fasse revenir du deuil qui vous accable.  
+C'est pour ne laisser point ce grand coeur abâtu,  
+Alors qu'il doit agir par sa seule vertu⁎.  
+Si vaincre la douleur au point de sa naissance,  
+Est le suprème effort d'une masle [112] constance ;  
+Si quiconque entreprend un coup si généreux⁎,  
+Tente contre soy-mesme un combat dangereux :  
+Songez, songez qu'Octave est beaucoup plus à craindre ;  
+Qu'il oste à vostre Amour le loisir de se plaindre.  
+Relevez donc ce coeur, consultez avec luy  
+Du glorieux dessein qu'il doit prendre aujourd'huy :  
+N'agissez que par luy dans ce malheur extrème ;  
+Que sa haute vertu⁎ se règle sur soy-mème.  
+Quelque coup dont le sort oze vous assaillir,  
+Le sang du grand Caton ne peut jampis faillir.  
+Je vous laisse à vous-mème ;adieu, Brute m'apelle,  
+Et Rome veut qu'enfin par un coup digne d'elle,  
+J'aprene aux vrais Romains à faire leur devoir.  
+
+
+### SCENE QUATRIESME
+PORCIE, JULIE
+
+
+    PORCIE
+Dieux que viens-je d'entendre !Et que viens-je de voir !  
+N'est-ce point un fantôme, ou n'est-ce point un songe,  
+Qui d'une peur panique a produit ce mensonge !  
+Doncques Brute n'est plus, croiray-je un tel malheur ?  
+Puis-je l'avoir apris sans mourir de douleur ?  
+Mais hélas !Sur ce point suis-je pas esclaircie ?  
+Vous m'en dites assez, désespoir de Cassie [113],  
+Songes sanglans et noirs, augures menaçans,  
+Des Sacrificateurs visages palissans,  
+Astres couverts d'horreur, effroyables comètes,  
+De la fureur des Dieux, horribles interprètes.  
+Vous m'en dites assez, saisissemens, horreurs,  
+Désordre de mon Ame, invincibles frayeurs ;  
+Et sans en consulter ma constance affoiblie,  
+Ton oeil m'en dit assez, triste, et chere Julie.  
+Doncques Brute n'est plus, et cet aimable épous [114],  
+Si cher à tout le Monde, est mort aux yeux de tous :  
+Ma gloire, et mon espoir, vous n'estes plus qu'une ombre,  
+Héros brillant d'honneur, maintenant pâle et sombre,  
+Incomparables traits de grace, et de valeur,  
+Jadis toute ma joye, aujourd'huy ma douleur.  
+Dernier fleau [115] des Tyrans, et plus craint que la foudre,  
+Vous n'estes maintenant qu'un tronc couvert de poudre⁎.  
+Brute vous n'estes plus, et ce coeur amoureux  
+Peut porter sans mourir, un coup si rigoureux.  
+Ne puis-je que pleurer une mort sans seconde,  
+Qui va tirer des pleurs des yeux de tout de Monde !  
+Et quand Brute mourant est regretté de tous,  
+Ne puis-je pas mourir par la mort d'un espoux ?  
+Dieux, qui flatiez mon coeur par une fausse joye [116]  
+Pour accroistre le mal que le destin m'envoye,  
+Qui faites à mon sort un si prompt changement,  
+Pour le rendre plus dur à mon ressentiment ;  
+Dieux qui nous servez mal, Dieux qui m'avez trompée,  
+Dieux injustes à Brute aussi bien qu'à Pompée,  
+Vous, qui tout mort qu'il est m'empeschez de le voir,  
+Ne puis-je succomber que par le désespoir ?  
+Quel plaisir prenez-vous à prolonger ma vie ?  
+Faut-il que par moy-mème elle me soit ravie ?  
+Et que l'on me reproche apres un tel malheur,  
+Que je meurs par ma main, et non par la douleur ?  
+Mais Brute il te sufit que je cesse de vivre :  
+Qu'importe, quel chemin je prendray pour te suivre.  
+Si je meurs aujourd'huy par un illustre effort,  
+La fille de Caton peut choisir cette mort.  
+
+    JULIE
+Madame, surmontez ces premières allarmes.⁎  
+
+    PORCIE
+Ah ! Ne t'opose point au torrent de mes larmes :  
+Si tu m'aimes encor, viens mourir avec moy.  
+
+    JULIE
+Je n'y recule point, mais qu'est-ce-que je voy ?  
+C'est Maxime, et son front marque beaucoup de joye.  
+
+
+### SCENE CINQUIESME
+PORCIE, MAXIME, JULIE
+
+
+    PORCIE
+Maxime se peut-il qu'encor je te revoye ?  
+Hé ! Bien tout est perdu.  
+
+    MAXIME
+Dieux, que me dites-vous !  
+Madame, quand le Ciel se déclare pour nous,  
+De grace, cachez-luy cette ingrate tristesse  
+
+    PORCIE.
+Mais plustost cache moy cette fausse allégresse ;  
+En vain quand je connois l'excez de mon mal-heur,  
+Tu veux trahir ma gloire, et tromper ma douleur  
+
+    MAXIME.
+Madame, donnez-vous le loisir de m'entendre,  
+
+    PORCIE
+Hé ! Je ne sçay que trop, ce que tu veux m'aprendre ;  
+Tu me diras enfin apres un long discours,  
+Que Brute estant défait⁎ a sçeu trancher ses jours ;  
+Qu'il a sçeu mourir libre, et tout couvert de gloire  
+
+    MAXIME.
+Quel charme injurieux vous cache sa victoire [117] ?  
+Ces indignes frayeurs me rendent tout confus :  
+Ouvrez les yeux, Madame, et ne vous trompez plus.  
+J'ay veu tout le combat, aprenés-en l'issue.  
+Il est vray que quelqu'un vous peut avoir deceuë.  
+La victoire douteuse a long-temps balancé ;  
+J'ay veu plus d'une fois nostre espoir renversé.  
+Et voila le sujet de ces fausses allarmes.⁎  
+Mais, Madame, aprenés le succés de nos Armes.  
+Estant auprés de Brute, assés prés des hazards,⁎  
+J'y voy voler par tout une gresle de dards [118].  
+L'avance sans songer au péril de ma vie,  
+Mais un zèle plus fort m'en fit perdre l'envie :  
+Je m'escarte, et soudain nos soldats à la fois,  
+Tous comme par dépit jetent arcs, traits, carquois :  
+Chacun tire l'espée, et leurs brillantes lames,  
+Dans l'air noircy de poudre⁎ allument mille flâmes.  
+Tous la foudre à la main, et d'un commun accord  
+Fondent sur l'autre Armée avecque tant d'effort,  
+Que par ce rude choc se voyant esbranlée,  
+Elle épaissit ses rangs, évite la mélée,  
+Et ménageant sa force avecque sa valeur,  
+Laisse exhaler sans fruit leur première chaleur.  
+Brute aime le péril, et veut tout entreprendre.  
+Antoine moins ardent s'obstine à se deffendre.  
+Enfin voyant ses gens, et plus frais, et plus forts,  
+Et nos soldats lassés par leurs propres efforts,  
+Il fait quitter aux siens le soin de leur deffence,  
+Et lâche enfin la bride à leur impatience.  
+Ils se mèlent alors, mais se recognoissans,  
+Le sang ou l'amitié les rend tous languissans.  
+Tous poussez par leurs Chefs, plus que par leur courage,  
+Les yeux fermez d'horreur s'excitent au carnage.  
+L'un estouffe un germain [119], qu'il brûle d'embrasser ;  
+L'autre immole un amy qu'il voudroit caresser [120].  
+J'en voy parmy ceux-là qui devenus timides  
+Par l'effroyable aspect de tant de parricides [121],  
+A des crimes si noirs n'ozent s'abandonner,  
+Et reçoivent la mort de peur de la donner.  
+L'un combat seulement d'une main languissante,  
+Qui par des coups légers se conserve innocente.  
+Plusieurs vangent sur eux celuy qu'ils ont blessé ;  
+D'autres mèlent des pleurs au sang qu'ils ont versé ;  
+L'un met les armes bas, l'autre rompt son espée ;  
+L'un, qui portant un coup voit sa valeur trompée,  
+Est ravy de faillir le coup qu'il entreprend ;  
+Un autre terrassé par la main d'un parent,  
+Pour le laisser joüyr d'un si triste avantage,  
+Luy cache son forfait en couvrant son visage.  
+Mais enfin quelque Amour qu'ils sentent pour le sang,  
+La fureur les surmonte, et n'espargne aucun flanc.  
+Là de crainte, et d'horreur, j'avois l'Ame trancie,  
+Quand Philippe venant du combat de Cassie  
+M'aborde avec le front d'un homme satisfait,  
+Et me dit en courant qu'Octave estoit défait⁎ [122] ;  
+Il sème dans le camp cette grande victoire ;  
+Brute l'aprend soudain, et prend part à la gloire :  
+Il monstre plus d'ardeur, mais presque en mème instant  
+Le sort capricieux, et tousjours inconstant,  
+Altère cette joye en abandonnant Brute,  
+Ses gens lâchent le pied, il reste seul en bute ;  
+Son cheval par leur fuite est soudain renversé :  
+Il tombe.  
+
+    PORCIE.
+Justes Dieux !  
+
+    MAXIME
+Mais sans s'estre blessé.  
+Philippe voit sa chûte, et sans en voir la suite,  
+Vers le camp de Cassie il se sauve à la fuite [123].  
+Moy pour secourir Brute estant un peu trop loin,  
+J'en voy, qui plus presens m'espargnèrent ce soin.  
+Il remonte à cheval, et soudain son courage,  
+Semble par le dépit se convertir en rage :  
+Il court de tous costez plus viste que le vent ;  
+S'opose aux fugitifs, leur gagne le devant,  
+Fait avancer contr'eux toute l'arrière garde,  
+Arreste enfin leur fuite, ou du moins la retarde ;  
+Et ramassant ainsi la plus-part des Soldats,  
+Ranime son espoir, et revient sur ses pas :  
+L'ennemy cède enfin, se trouble, s'espouvante,  
+Et nostre grand Héros, pour remplir son attente  
+Pensant n'avoir rien fait, s'il ne va jusqu'au bout,  
+Ainsi qu'un fier torrent, trouble, et ravage tout.  
+
+    PORCIE.
+Ce succez me ravit, et j'ay peine à le croire,  
+Cassie espouvanté revient dans ma mémoire.  
+
+    MAXIME
+Cassie espouvanté !  
+
+    PORCIE
+C'est luy, qui fait ma peur ;  
+Oüy, c'est luy qui touché d'une fausse terreur,  
+Est venu dans ces lieux portant sur son visage  
+D'un sanglant désespoir l'espouvantable image,  
+Et qui m'ayant conté la mort de mon épous,  
+Pour suivre son destin [124] s'est esloigné de nous.  
+Le désordre où m'a mis une pareille enuie,  
+M'a fait perdre le soin de conserver sa vie,  
+Et nous sommes privez d'un si puissant secours,  
+Si le Ciel à luy-mème a confié ses jours  
+
+    MAXIME
+Philippe, c'est l'effet de ta soudaine suite :  
+De ton zèle imprudent, voila l'indigne suite.  
+O ! Ciel si tes frayeurs causent ce désespoir,  
+Quel Dieu peut empescher, ce que j'oze prévoir ?  
+
+    PORCIE
+Maxime, va sçavoir s'il a cessé de vivre :  
+A quelque désespoir, ou sa douleur le livre ;  
+Un avis favorable, ou quelque meilleur sort,  
+Auront pu par hazard l'arracher à la mort.  
+Destins, qui par envie, autant que par coustume,  
+Meslez dans tous nos biens quelque peu d'amertume,  
+Afligez nostre esprit par quelque autre malheur ;  
+Sauvez, sauvez Cassie, épargnez sa valeur.  
+Nous vendez-vous si cher la victoire de Brute ?  
+Nous affranchissez-vous par une telle chute ?  
+S'il faut un si beau sang à vostre grand courroux,  
+Prenez le mien, grands Dieux, il est digne de vous.  
+Si c'est le chastiment de nos guerres civiles,  
+De tant de nobles flancs, frapez les moins utiles :  
+Je mourray glorieuse, et béniray mon sort,  
+Si vous me choisissez pour une telle mort  < Fin du troisième acte >
+
+
+## ACTE QUATRIESME
+
+
+### SCENE PREMIERE
+PHILIPE, PORCIE
+
+
+    PHILIPE
+Non, je n'excuse point cette honteuse fuite,  
+Et je dois à jamais en déplorer la suite :  
+Si je fus imprudent, au moins j'auray le coeur  
+De laver cette honte, et punir mon erreur.      
+J'aurois suivy mon Maistre, et j'en bruslois d'envie :  
+Mais son commandement jaloux de vostre vie,  
+A suspendu le coup d'un juste désespoir.  
+
+    PORCIE.
+Comment, aprens-moy tout.  
+
+    PHILIPE.
+Vous allez tout sçavoir.  
+Voyant Brute abatu je courus vers mon Maistre,  
+Mon zèle impétueux voulut soudain paroistre :  
+Mais tous mes sens saisis de douleur et d'effroy  
+Aveuglèrent mon zèle, et trahirent ma foy ;  
+Car je fais Brute mort, et ma crainte infidelle  
+Sème dans tout le camp cette fausse nouvelle :  
+Le bruit de cette mort estourdit le soldat,  
+Et quoy qu'enorgueilly du succez de combat,  
+Il perd à mesme temps l'espoir de sa victoire,  
+Et cède à la douleur tout le soin de sa gloire  
+
+    PORCIE.
+Que devint donc Cassie après ce grand mal-heur ?  
+
+    PHILIPE
+Il vint vous l'annoncer, vous vistes sa douleur.  
+Enfin cherchant par tout quelque main favorable,  
+Qui borna par sa mort un dueïl inconsolable,  
+Il trouve des soldats, qui troublez par la peur,  
+Et regardant d'un oeil tout brillant de fureur  
+Timides, incertains, ont peine à le connoistre ;  
+Ils s'asseurent enfin par la voix de mon Maistre,  
+Et l'ayant reconnu, le plaisir de le voir  
+Mesle une courte joye avec leur désespoir.  
+Cassie au milieu d'eux, d'un ton constant et grave.  
+Compagnons (leur dit-il) puisque le sort me brave,  
+M'abandonnerez-vous aux désirs du vainqueur ?  
+Et pour m'en délivrer manquerez-vous de coeur ?  
+Immolez à ma gloire une honteuse vie,  
+Qu'un de vous remplissant ma généreuse envie,  
+Fasse foy par ma mort, qu'il brusle d'acquérir  
+Avec ma propre main la gloire de mourir.  
+Là voyant qu'un chacun à ce coup se prépare,  
+Il offre tout Cassie à leur [125] pitié barbare,  
+Se met en bute [126] à tous, et chacun de son flanc  
+Ouvre par quelqu'endroit une source de sang.  
+Ils condamnent alors le zèle, qu'il avouë⁎ ;  
+Luy regarde leurs coups, les admire, les louë,  
+Et de peur d'estre ingrat pour un dernier effort  
+Sur son premier meurtrier porte le coup de mort [127],  
+Et luy rendant ainsi son bienfait et son crime,  
+Il succombe, et tombant embrasse sa victime.  
+Les autres, qui restoient, jaloux d'un si beau sort  
+Par des coups mutuels, s'entredonnent la mort,  
+Et toute leur pitié dans cette conjoncture,  
+Est de pouvoir tuer d'une seule blesseure.  
+Maxime cependant s'avance, et vient vers nous  
+Voit mon Maistre mourant, considère ses coups,  
+Et luy découvre enfin la victoire de Brute,  
+Et la fatale erreur, qu'avoit causé sa cheute.  
+Là mon Maistre surpris, et se voyant trompé  
+Regarde avec dépit ceux, qui l'avoient frapé :  
+Mais malgré sa douleur composant son visage  
+Il r'apelle aussi-tost sa gloire, et son courage.  
+Maxime (luy dit-il ) si les Dieux ont permis,  
+Que je meure trompé par mes propre amys.  
+Mon mal-heur sert à Brute, et pour remplir sa gloire  
+Les Dieux n'ont pas voulu partager sa victoire.  
+Dis-luy, que si ma mort sert à ce grand bon-heur,  
+J'expire avec plaisir, et tombe avec honneur :  
+Glorieux de pouvoir l'eslever par ma cheute,  
+Et ravy de mourir dans le siècle de Brute.  
+Que si j'ay du regret, c'est d'avoir trop vécu,  
+S'il fallait en mourant voir l'ennemy vaincu.  
+Puis se tournant vers moy : va détromper Porcie ;  
+Va réparer l'erreur qui me couste la vie :  
+Dis-luy que Brute vit, et que mon amitié  
+Tasche au moins en mourant de sauver sa moitié.  
+A-dieu, vit satisfait, puisque je meurs de mesme.  
+Et ne t'afflige point d'une faute, que j'ayme.  
+Là par un grand souspir il pousse vers son flanc  
+Le reste de sa vie avec son dernier sang.  
+Il meurt, et si [128] j'ay deu malgré moy le [129] survivre,  
+Il vous quitte, Madame, et je parts pour le suivre.  
+
+
+### SCENE DEUXIESME
+
+    PORCIE
+Vous, qui par tant de maux, par tant de sang perdu  
+Nous faites disputer un bien qui nous est deu,  
+Grands-Dieux, la liberté que Rome vous demande,  
+Est-elle à vostre avis une faveur si grande ?  
+Ou nous regardez-vous avec tant de mépris,  
+Que pour la rachepter il faille un si grand prix ?  
+Ne nous devez-vous pas une entière victoire ?  
+N'est-ce pas vostre cause, ainsi que nostre gloire ?  
+Maistres de l'Univers souffrirez-vous des Roys [130] ?  
+Soustiendrez-vous le trosne au dépens de vos Loix ?  
+Déclarez-vous enfin, quel dessein est le vostre ?  
+Quand vous sauvez un Chef vous faites périr l'autre.  
+Arbitre souverain de tous nos différens  
+Destin si tu nous sers, si tu haïs nos Tyrans.  
+Monstre, monstre envers Rome une faveur si pleine,  
+Qu'on puisse distinguer ton amour de ta haine :  
+Partageant tes faveurs on doute si tu sers,  
+Rome ou ses ennemis, Octave ou l'Univers.  
+Mais que dis-je grands-Dieux ?Pardonez à mon zèle,  
+Si je semble envers vous ingrate et criminele,  
+L'interest des Romains me fait plaindre de vous.  
+Je sçay ce que vos soins ont fait pour mon épous ;  
+Je sçay qu'en sa faveur vous forcez mille obstacles ;  
+Je reconnois en luy l'effet de vos miracles,  
+Et je revoy enfin cet extrème danger,  
+Dont vostre seule main le pouvoit dégager,  
+Vostre indignation nous est si peu sensible  
+Par la comparaison d'un bon-heur si visible,  
+Que je dois espérer de vos rares bontez  
+Le comble souverain de nos félicitez.  
+
+
+### SCENE TROISIESME
+JULIE, PORCIE
+
+
+    JULIE
+Madame, Brute arrive, on vient de me l'aprendre?  
+Il est proche d'icy.  
+
+    PORCIE
+Dieux !Que viens-je d'entendre !  
+Ciel ! Qui dans un moment m'accables de faveurs,  
+Que nos maux sont petits au prix de nos bon-heurs !  
+Mais quel facheux objet revient dans ma mémoire  
+Traverser mon repos, et déchirer ma gloire ?  
+Julie hélas !  
+
+    JULIE
+Madame.  
+
+    PORCIE.
+O ! Dieux, ce prompt retour  
+Me deffend tant de joye, et trouble mon Amour [131].  
+
+    JULIE
+Vostre Amour s'afligeant de ce bon-heur extrème.  
+Semble prendre plaisir à se tromper soy-mème.  
+
+    PORCIE
+Cent pensers⁎ differens, comme un amas des flots  
+Viennent soudainement accabler mon repos ;  
+Je connois la fortune, et ses vicissitudes  
+Semblent m'accoustumer à tant d'inquiétudes.  
+J'espère la victoire, et je crains le mal-heur ;  
+Je ressens de la joye, et cède à la douleur.  
+Si Brute triomphant doit estouffer mes plaintes,  
+La mort de son amy ressucite mes craintes,  
+Et l'espoir qui soustient mes glorieux désirs  
+Est aussi-tost banny par mes justes soûpirs :  
+Mais malgré ces frayeurs éclate enfin ma joye,  
+Jouïssons du bon-heur que le Ciel nous envoye :  
+Allons, allons Julie, au devant du vainqueur.  
+
+    JULIE
+Je l'aperçoy, Madame.  
+
+    PORCIE
+O ! Transports⁎, ah Seigneur !  
+
+
+### SCENE QUATRIESME
+BRUTE, PORCIE, JULIE
+
+Troupe de soldats
+
+
+    BRUTE
+Madame, où courrez-vous, fuyez un misérable.  
+Fuyez, fuyez ma honte, et le sort qui m'accable.  
+C'en est fait, et je voy tout à coup renversé  
+Un destin que les Dieux ont longtemps balancé.  
+Le mal-heur de Cassie [132] a produit nos disgraces,  
+Et le Ciel par sa mort a remply ses menaces,  
+Enfin César triomphe.  
+
+    PORCIE
+O sort trop rigoureux.  
+
+    BRUTE
+Hélas vostre douleur me rend plus mal-heureux :  
+Par l'excez de l'ébranlement⁎ qui vous rend abatuë [133],  
+César se peut vanter de vous avoir vaincuë.  
+Vous vous faites sentir avec trop de rigueur,  
+Grands-Dieux, si ma disgrace abat un si grand coeur.  
+Qu'icy vostre vertu s'excite toute entière ;  
+Voicy pour vostre gloire une illustre matière :  
+Un époux mal-heureux, que la fortune abat,  
+Fait de vostre vertu le plus brillant éclat  
+Si sauvant vostre nom de sa dernière honte,  
+Vous sçavez triompher du coup, qui le surmonte,  
+Soustenez un mal-heur dont ma gloire frémit,  
+Et méprisez un coup, soubs qui Rome gémit.  
+Du moins dans le regret d'une perte commune,  
+Monstrez, si vous pleurez ou Brute, ou sa fortune ;  
+Sa fortune a péry, c'est ce que vous pleurez,  
+Et vous aimez un bien, pour qui vous soupirez.  
+Tout Brute reste encor dans ce mal-heur extrème ;  
+Brute ne peut jamais périr que par luy-mème ;  
+Il ne sera jamais sous le pouvoir d'autruy,  
+Et tout vaincu qu'il est, Brute dépend de luy.  
+
+    PORCIE
+Je ne feins point, Seigneur, de répandre des larmes,  
+Puisque mon seul mal-heur fait celuy de vos armes.  
+Tousjours quelque disgrace a suivy ma maison :  
+Je n'y voy point de mort sans fer, ou sans poison.  
+L'Estoile, qui luisoit au point de ma naissance  
+Mesla dans vostre sort sa fatale influence ?  
+C'est par moy que sa rage a passé jusqu'à vous,  
+Et par vous je la voy passer jusques à tous.  
+C'est par moy que le Ciel eut droit sur vostre vie,  
+Et par là sa fureur devoit estre assouvie.  
+Dieux ! Faut-il qu'un Hymen ait servy d'instrument  
+Au désordre fatal d'un si grand changement ?  
+Vous deviez par ma mort rompre ce mariage,  
+Et ne m'offrir jamais un si triste avantage.  
+C'est là, c'est là, Seigneur, le sujet de mes pleurs :  
+Je demeure insensible à mes propres mal-heurs,  
+Et dans l'excez des maux où ma vertu⁎ se treuve,  
+Donnez-luy, s'il se peut, une plus forte épreuve ;  
+Vous la verrez tousjours aller d'un mesme pas,  
+Regarder d'un mesme oeil, la vie et le trespas,  
+Et bravant des vainqueurs, la fortune et la gloire,  
+Par l'éclat de ma mort effacer leur victoire  
+
+    BRUTE.
+Hélas ! Vostre vertu⁎ dans ce pressant mal-heur  
+Ne m'afflige pas moins qu'a fait vostre douleur.  
+Je voy dans l'un et l'autre une pareille envie ;  
+Toutes deux à leur tour menacent vostre vie.  
+Il est vray qu'en l'estat où le sort nous a mis  
+La mort est à nos maux un remède permis.  
+Madame il faut mourir ; c'est une gloire extrème  
+De pouvoir en mourant disposer de soy-mesme :  
+De n'avoir point de Maistre au siècle de César,  
+Et ravir nostre gloire aux pompes de son Char.  
+Le seul mourir est libre en l'estat où nous sommes [134],  
+Donnons ce grand exemple au veu [135] de tous les hommes.  
+Monstrons à nostre Rome en cette extrémité,  
+Que tous deux par un coup de générosité  
+Sçavons mettre à couvert⁎ d'un tyran inflexible,  
+Tout ce qui luy restoit de grand et d'invincible.  
+Que s'il faut espérer la grace du vainqueur,  
+Craignons plus que la mort cette indigne faveur.  
+Nous ne fusmes jamais un sujet de clémence ;  
+Le malheur qui nous perd nous laisse l'innocence,  
+Et c'est pour un Romain un trop funeste don,  
+S'il doit de son tyran recevoir un pardon.  
+Sus donc, chère Porcie, excitez vostre gloire ;  
+De cent braves ayeulx r'apellez la mémoire,  
+Et retraçant sur vous tant de traits de valeur,  
+Peignez dans vostre mort la gloire de la leur.  
+
+    PORCIE
+Seigneur, tant de raisons apuyent ma constance,  
+Qu'elle aura moins de gloire, ayant trop d'asseurance⁎  
+Il suffit de sçavoir que je meurs avec vous :  
+C'est par là que mon sort fera mille jaloux.  
+Il est vray que s'il faut qu'avec vous je périsse,  
+Ma mort m'est une gloire, et non pas un suplice.  
+Seule je dois mourir, ayant seule causé  
+Les maux où maintenant je vous voy exposé.  
+J'eus soif du sang de Jule [136], et pour me satisfaire,  
+Vous sceutes l'immoler aux Manes de mon père ;  
+Vous portastes le coup, quand j'eus donné l'arrest.  
+Et si Rome à mes yeux mesla son interest  
+L'ingrate vous trahit en soustenant Octave,  
+Et vous desavoüa⁎ devenant son esclave.  
+Si doncques ma vengeance a faït tous vos travaux  
+Vangez-vous par ma mort du plus grand de vos maux [137]:  
+Que je sois par un coup, et noble et légitime,  
+Des Destins irritez la dernière victime.  
+
+    BRUTE
+C'est trop, c'est trop, Madame, en l'estat où je suis,  
+Me pressez-vous de vivre au milieu des ennuis.  
+Brute vivra sans gloire, et tout couvert de honte ?  
+Et de la liberté fera si peu de conte ?  
+C'est sur moy, c'est sur moy que doit tomber le sort ;  
+Puisque je suis vaincu je mérite la mort.  
+Si le sang de Caton me fit prendre les armes,  
+Je le fis par devoir autant que par vos larmes,  
+Et Rome à mesme temps m'y devoit engager,  
+Quand je n'aurois pas eu de beaupere [138] à vanger.  
+Si ma main a vangé la mort d'un si grand homme,  
+Je n'ay pas achevé la vengeance de Rome ;  
+Vivez donc, cependant que je cours au trespas,  
+Vostre père est vangé, mais Rome ne l'est pas.  
+J'ay par tous mes efforts soustenu sa querelle ;  
+Maintenant c'est ma mort, qui m'acquite envers elle.  
+J'abandonne un destin qu'on ne peut secourir,  
+Ou plustost je sers Rome en me faisant mourir,  
+Ne la pouvant sauver dans ce commun naufrage,  
+Que du seul déplaisir de voir mon esclavage.  
+Pour vous, qui méritez un destin plus heureux,  
+Portez, portez à Rome un coeur si généreux⁎ :  
+Présentés-luy le sang que je verse pour elle,  
+Reprochez-luy ma mort, et l'ardeur de mon zèle ;  
+Faites enfin pour moy, ce qu'Antoine [139] autrefois  
+Fit pour vanger César, et soûtenir ses drois.  
+S'il arma les Romains contre leur propre gloire,  
+Armez-les maintenant pour leur propre victoire,  
+Aydez à renverser avec vos propres mains  
+Le joug, dont trois Tyrans [140] accablent les Romains.  
+
+    PORCIE
+Moy ! Moy ! Que j'aille à Rome, à Rome l'infidelle,  
+Qui fait si peu pour vous, qui fites tant pour elle ;  
+A Rome, qui se plaist à nous voir succomber ;  
+Qui couronne la main, qui nous a fait tomber !  
+Moy ! Seigneur, j'y verray ces illustres images,  
+Du zèle des Catons, les sacrez témoignages,  
+Par des chétives mains tomber de ces hauts lieux,  
+Et des Tyrans placez où furent nos ayeux !  
+J'y verray triompher leur détestable haine !  
+J'y verray mettre aux fers la fortune Romaine !.  
+Je m'y verray moy-mesme en estat de servir [141]!  
+J'iray m'offrir aux mains, qui veulent m'asservir !  
+Car enfin pensez-vous qu'avec les seules larmes  
+Je puisse rétablir la gloire de nos armes ?  
+Nos malheurs sont trop grands, et pour borner leurs cours,  
+Une femme, Seigneur, est un foible secours.  
+Puisque Brute a péry, tout doit périr ensemble ;  
+Je ne puis éviter le sort, qui nous assemble.  
+Hé ! Quel sort puis-je attendre, et plus noble et plus dous,  
+Que l'éclatant honneur de mourir avec vous.  
+Consentez à ma mort.  
+
+    BRUTE
+Hé ! Bien mourons [142], Madame.  
+Enfin vostre devoir triomphe de ma flamme :  
+Vostre gloire le veut, il y faut consentir :  
+Ma générosité⁎ ne se peut démentir.  
+Tendresse, amour, pitié, qui la vouliez surprendre,  
+Servez mieux mon devoir, il est temps de se rendre.  
+Je ne me deffends plus contre tant de vertu⁎.  
+Toy, qui vois son dessein y consentiras-tu.  
+Justes Ciel ! Pourras-tu voir périr ton ouvrage ?  
+Le reste des Catons, la gloire de nostre âge ?  
+Pourras-tu voir enfin entrer dans le tombeau,  
+Tout ce que nostre Rome a de grand et de beau ?  
+Voir ces brillans appas⁎ se couvrir des ténèbres ?  
+Voir changer ces clartez en des ombres funèbres ?  
+Voir tomber ce beau sang et par un prompt effort  
+Voir passer dans ce corps les horreurs de la mort [143]?  
+Ah ! Madame  
+
+    PORCIE
+Ah ! Seigneur, espargnez ma foiblesse ;  
+Consommons maintenant cette indigne tendresse.  
+
+    BRUTE
+Vous voulez donc mourir, mais quel fer, quelle main  
+Osera traverser cet adorable sein ?  
+O ! Dieux. Que veut Maxime, et qu'à-t-il à nous dire ?  
+
+
+### SCENE CINQUIESME
+MAXIME, BRUTE, PORCIE, JULIE
+
+
+    MAXIME
+Après tant de mal-heurs vous tombez dans un pire ;  
+J'ay par vostre ordre en vain ralié nos soldats,  
+Pour amuser [144] Octave, et retarder ses pas ;  
+Et comblé les chemins de sang, et de carnage ;  
+Octave malgré nous s'est enfin fait passage,  
+Il vous cherche part tout, ne demande que vous,  
+Et semble à ce seul but borner tout son courroux.  
+Enfin vous estes pris, Seigneur.  
+
+    BRUTE
+Voicy Maxime,  
+De quoy braver Octave, et sauver nostre estime.  
+Mais avant que mourir prévenons son dessein,  
+Et mourons, s'il se peut, les armes à la main.  
+Avant qu'on me ravisse une si chère vie,  
+Il faut que ma fureur pleinement assouvie,  
+Par des sanglants exploits achevant ce grand jour,  
+Honore nostre mort, et vange mon amour.  
+Mourons, mais tous couverts du sang de ces perfides.  
+Vous, restes généreux⁎ de nos troupes timides,  
+Venez sur nos tyrans porter vos derniers coups.  
+
+    PORCIE
+Quoy, pour un vain effort m'abandonnerez-vous ?  
+
+    BRUTE
+Doi-je pas tenter tout par un effort supréme,  
+Pour servir nostre Rome, et sauver ce que j'ayme ?  
+Nos efforts seront vains, mais nostre désespoir [145]  
+Ne doit pas attenter⁎ dessus nostre devoir.  
+
+
+### SCENE SIXIESME
+
+    PORCIE
+Prépare toy mon ame à la dernière foudre :  
+Nostre destin s'achève, il est temps de résoudre.  
+Ménageons comme il faut ce précieux moment,  
+Et mourons sans désordre, et sans estonnement⁎.  
+Oüy malgré vos efforts, Tyrans, malgré vos haines  
+Nous mourrons sans rougir, et libres et Romaines,  
+Et je me puis vanter si proche de la mort,  
+Que je puis pour le moins disposer de mon sort.  
+Allons, Julie, allons : mais sur tout si tu m'aymes,  
+Monstre un coeur invincible en ces malheurs extrèmes,  
+Et quand je vay souffrir un glorieux trépas,  
+N'offre rien à mes yeux de lasche ny de bas.  
+Regarde avec plaisir la perte d'une vie  
+Glorieuse à César, et honteuse à Porcie.  
+Souviens-toy du devoir, qui m'oblige à périr,  
+Et qu'à qui n'ose vivre, il est bon de mourir.  < Fin du quatrième acte. >
+
+
+## ACTE CINQUIESME
+
+
+### SCENE PREMIERE.
+OCTAVE et Sa suite
+
+
+    OCTAVE
+Hé ! Bien qu'est devenu ce lasche parricide [146],  
+Que tant de trahisons ont rendu si timide ?  
+Il se cache le traistre, et ce foible mutin  
+S'abandonne aux frayeurs de son lasche destin.  
+Luy qui ne se soutient, que sur l'espoir des crimes,  
+Qui ne forma jamais des desseins légitimes,  
+N'attaque les Césars qu'au milieu du Sénat [147],  
+Et ne se sert contr'eux, que de l'assassinat.  
+Mais peut-il maintenant rencontrer quelque azile ?  
+
+    VALERE
+Seigneur, il est perdu, sa fuite est inutile.  
+Aprés l'avoir réduit [148] dans cet apartement,  
+Pour remplir aussi-tost vostre commandement ;  
+Me voyant soustenu d'une troupe assez forte,  
+J'ataque, et fait céder les Gardes de la porte.  
+On entre dans la chambre [149], et Brute a mesme temps  
+Soustenu par les siens, abat deux de nos gens.  
+Sauvez-le (dis-je alors ) et taschez de le prendre,  
+A ces mots, on le presse, on l'invite à se rendre.  
+Luy, qui craint d'estre pris, se dégage, on le suit,  
+Il revient sur nos gens, et tantost il s'enfuit.  
+Cependant qu'on le cherche, on rencontre sa femme :  
+Ce désordre avoit mis le trouble dans son ame ;  
+Et dans son désespoir, croyant que Brute est mort [150],  
+Elle fait pour le suivre un généreux⁎ effort.  
+Je préviens son dessein, mais je voy qu'on l'emmeine  
+
+    OCTAVE
+Va t'en remplir mon ordre, et me tirer de peine ;  
+Qu'on le cherche par tout.  
+
+
+### SCENE DEUXIESME
+
+    PORCIE
+Ah ! Laissez-moy mourir  
+Bourreaux, qui me perdez, loin de me secourir.  
+Cruels, mon Brute, est mort, et je le dois survivre !  
+Vos malignes pitiez m'empeschent de le suivre.  
+
+    OCTAVE
+Quoy, Madame, osez-vous soubmettre ce grand coeur  
+Aux désordres honteux d'une extrème douleur.  
+La fille de Caton a si peu de constance ?  
+
+    PORCIE
+Tu n'eslèves, cruel, l'esclat de ma naissance ;  
+Tu ne me viens flater de cette vanité,  
+Que pour croistre ma honte, et ton indignité.  
+Si ton ame consent à cette haute estime,  
+Dont tu viens d'honorer cette vertu⁎ sublime,  
+Ne déments pas l'honneur, que tu fais à mon sang,  
+Et par tes traitemens fais justice à mon rang.  
+Recognois-tu Caton où je suis enchaisnée ?  
+Oste moi de ces fers, où sa gloire est bornée.  
+Héros, dont la vertu⁎ frape mon souvenir,  
+Tu devois pénétrer jusques dans l'avenir,  
+Et mélant les destins de père, et de la fille,  
+Sauver par un seul coup l'honneur de ta famille.  
+Pour quel crime, grands Dieux, et pour quelle raison  
+Par moi la servitude entre dans ma maison ?  
+Toi, si Caton encor peut vivre en ta mémoire,  
+Si tu connois sa fille avec si peu de gloire,  
+Rends-nous tout nostre éclat par générosité⁎ ;  
+Ou souffre que je meure avec la liberté.  
+Mais je prie un mortel, et ce triste langage  
+M'introduit à la honte, et sent trop l'esclavage.  
+Que si dans cet estat je puis faire des voeux ;  
+Puis-je exiger d'Octave un effort généreux⁎ ?  
+L'héritier de César, et l'ennemy de Brute ;  
+Lui qui me met aux fers, lui qui me persécute ;  
+Lui qui tout dégoutant du sang de mes parens  
+Monte par mille horreurs au trône des Tirans.  
+Luy.  
+
+    OCTAVE
+C'est trop, et c'est mal implorer ma clémence,  
+Enfin tant de mespris lassent ma patience :  
+Honorez ma fortune, et bénissez les dieux,  
+De vous donner pour Maistre un vainqueur glorieux,  
+Qui n'abuza jamais des droits de sa victoire.  
+
+    PORCIE
+Tu t'en sers toutefois, pour offencer ma gloire,  
+Et tu t'ozes servir d'un injuste pouvoir,  
+Pour empescher ma mort, et forcer mon devoir.  
+Mais par quel droit, Tiran, faut-il que j'en dépende ?  
+La vertu⁎ ne sert point où le vice commande,  
+Et ces fers n'ostent rien à l'éclat des Romains ;  
+Ils relèvent nos coeurs, s'ils abaissent nos mains,  
+Et Rome ne sent point la honte du servage.  
+
+    OCTAVE
+Non, Madame, car Rome aime son esclavage :  
+Et ce pouvoir, que trois ont droit de partager,  
+Luy fait aimer son joug, et le rend plus léger.  
+
+    PORCIE
+Qu'un Tiran connoist mal les sentimens de Rome !  
+Celle, qui gémissoit soubs le pouvoir d'un homme,  
+Souffriroit aujourd'huy vostre trionvirat ?  
+Mais tu te vantes trop de ce nouvel éclat :  
+Tu te flates en vain de ce pouvoir inique [151].  
+Rome, Rome n'est plus soubz ce joug tirannique ;  
+Brute sçachant mourir avec ses propres mains,  
+A fait cheoir avec luy le dernier des Romains [152].  
+Tombez-donc maintenant aigles [153] infortunées;  
+Sortez, sortez des mains, qui vous ont enchainées.  
+Et vous d'un faux honneur ornemens superflus,  
+Brisez-vous vains vaisseaux, et ne paroissez plus.  
+Toy, Ville mal-heureuse, autrefois sans seconde,  
+Dont le nom seulement fit trembler tout le monde ;  
+Quite ce nom de Rome, et tous ces tiltres vains ;  
+Tombe en voyant tomber le dernier des Romains.  
+Que tes débris portez par tout, où va le Tibre [154],  
+Monstrent que tu n'es plus en cessant d'estre libre,  
+Et qu'aprés tant de maux Rome n'a subsisté  
+Qu'autant qu'un vray Romain soustint sa liberté.  
+
+    OCTAVE
+Malgré ces tristes voeux, malgré ce vain présage.  
+Rome, et tous les Romains verront vostre esclavage,  
+Et je feray paraistre aux yeux de l'Univers  
+Ce front humilié soubs la honte des fers.  
+Cet orgueil insolent, qui m'outrage et vous trompe  
+De mon char triomphant augmentera la pompe.  
+Tout Caton paroistra dessoubz cette fierté ;  
+Et ma gloire en croistra de le voir surmonté.  
+
+    PORCIE
+Cruel, Rome, dis-tu, verra mon esclavage !  
+Mon coeur peus-tu souffrir un si sensible outrage ?  
+Préviens en expirant cet horrible mal-heur :  
+Meurs aprés ce discours de honte, et de douleur.  
+Brute, Caton, Romains, vous qu'un coup favorable  
+Exempte des rigueurs d'un sort si déplorable,  
+Affranchissez ce coeur des foiblesses du corps,  
+Brisez tous ces liens, rompez tous ses accords,  
+Par qui l'injuste Ciel retient icy mon ame.  
+Servez-vous du poison, du fer ;ou de la flamme.  
+Digne objet de mes pleurs, cher père, cher époux,  
+Ostez à ce Tyran, ce qui reste de vous,  
+Prenez, prenez ce coeur, que ce corps tient esclave ;  
+Arrachez cette gloire aux triomphes d'Octave,  
+Et ne permettez pas que l'horreur de mon sort  
+Efface indignement l'éclat de vostre mort :  
+Mais j'entens vostre voix, je sens vostre présence.  
+Meurs, meurs, me dites-vous, avec plus de constance :  
+Soustiens malgré ces fers, la gloire des Romains ;  
+Et pour nous imiter meurs par tes propres mains.  
+Voila, voila Tyran, ce qu'il faut que je fasse.  
+Je sçauray soustenir la gloire de ma race :  
+Et je trouve chez nous dequoy me secourir,  
+Mille exemples fameux m'ont apris de⁎ mourir.  
+Préviens tous les moyens, et l'effort ordinaire,  
+Par qui le désespoir tasche à te satisfaire.  
+Je dois à l'Univers un exemple nouveau.  
+Il est plus d'un chemin qui conduit au tombeau :  
+Et sans plus différer dans ce mal-heur extrème  
+Je ne me veux servir que de mon mal-heur mème.  
+Dans l'état où je suis, ma haine et ma douleur  
+Par mille traits perçans vont déchirer ce coeur.  
+L'horreur de ton triomphe, et la crainte de vivre,  
+La perte d'un époux que je brusle de suivre,  
+Ma gloire et mon amour, qui demandent ma mort,  
+Malgré tes vains efforts précipitent mon sort.  
+Cependant que je meurs, vis dans l'ignominie :  
+Vis esclave du trosne, et de la tyrannie :  
+Vis ennemy de tous, sans honneur, sans éclat,  
+Accablé soubs le poids de ton triomvirat.  
+Que tous trois ennemy de leur propre fortune  
+Tombent sous les débris d'une grandeur commune.  
+Que ce piquant remords, qui poursuit les Tyrans  
+T'oblige à détester le pouvoir que tu prens ;  
+Qu'un tas de factieux par leurs sourdes pratiques [155]  
+Purge enfin l'Univers de ces pestes publiques :  
+Ou qu'un peuple mutin justement révolté,  
+Par des sanglants efforts vange la liberté.  
+Accepte et crains toujours ce présage funeste  
+
+    OCTAVE.
+Allez vomir ailleurs le poison qui vous reste,  
+Superbe ; allez ailleurs plaindre vostre mal heur.  
+Et mourrez, s'il se peut, de rage et de douleur.  
+
+
+### SCENE TROISIESME
+
+    OCTAVE *continuë*
+Mais plustost qu'elle vive en faveur de ma gloire.  
+Jouyssons pleinement du fruit de ma victoire.  
+Qu'une illustre pitié la sauve du trespas.  
+Toy, Pison, prend soin d'elle, et ne la quite pas.  
+Mais d'où vient ce grand bruit.  
+
+
+### SCENE QUATRIESME
+TITE, MAXIME, OCTAVE
+
+
+    TITE
+Seigneur, voicy Maxime,  
+Que nostre vigilance a surpris dans son crime,  
+Et qui s'ose vanter du tragique dessein  
+Qu'un execrable zèle avoit mis dans son sein.  
+
+    MAXIME
+J'avoüeray⁎ hardiment une action si belle ;  
+Je ne trahiray point la gloire de mon zèle.  
+Oüy, Porcie eut péry si l'on no m'eut surpris,  
+Et d'un si beau trespas le mien estoit le pris.  
+Résolu de tomber avecque ma fortune,  
+Et de me délivrer d'une vie importune  
+J'ay creu que je devois avant que de périr  
+Mériter par ce coup la gloire de mourir.  
+Pouvois-je par un coup, qui fut plus légitime  
+Signaler mon courage, eslever mon estime ;  
+Et conserver l'honneur du Maistre que je sers  
+Qu'en sauvant sa moitié de la honte des fers.  
+Je sçay combien Porcie ayme la renommée :  
+Mon Ame de ses voeux pleinement informée  
+Sans son commandement sollicitoit ma main  
+D'affranchir par sa mort l'honneur du sang Romain.  
+J'ay voulu l'immoler, j'ay couru pour la joindre ;  
+Si le coup est failly, l'honneur n'en est pas moindre ;  
+Et quoy que ma valeur ayt tenté vainement  
+D'oster à ton triomphe un si grand ornement.  
+Mon coeur avecque⁎ joye attend de ta justice  
+D'un crime généreux⁎ un illustre suplice.  
+Il est vray que j'ay tort dans l'estat où je suis,  
+De vouloir par ma mort terminer mes ennuys⁎ :  
+Cependant que Porcie esclave et mal-heureuse  
+Cherche en vain pour sa gloire une mort généreuse⁎.  
+Souffrez-donc qu'elle meure, ou vive sans rougir.  
+Octave, c'est ainsi qu'un grand coeur doit agir.  
+Une gloire éclatante, et qui n'est pas commune  
+Dépend de la vertu⁎, non pas de la fortune.  
+Le sort donne souvent le tiltre de vainqueur ;  
+Mais celuy de Clément est l'effet d'un grand coeur [156].  
+Est-il d'un généreux, et pourrois-tu sans blâme  
+Punir un ennemy sur l'honneur de sa femme ?  
+Et forçant aujourd'huy ton inclination  
+Préférer à ta gloire un peu d'ambition ?  
+Sauve, sauve ta gloire en celle de Porcie :  
+Triomphe de son coeur, et non pas de sa vie :  
+Et relevant un sort tristement abatu  
+Oblige une ennemie à loüer ta vertu⁎.  
+Attendris cet orgueil à l'aspect de ses charmes.  
+Et laisse-toy toucher par de si belles larmes.  
+Mais j'offence ta gloire en cette occasion  
+D'apeller ce grand coeur à la compassion,  
+Ne conçois pas pour nous des sentimens vulgaires,  
+Considère ta gloire, et non pas mes misères ;  
+Et si tu te résous de finir nos mal-heurs,  
+Escoute ta vertu⁎ plustost que nos douleurs.  
+
+    OCTAVE
+Maxime je me rends, l'orgueil de ma victoire  
+M'a long-temps ébloüy par une fausse gloire.  
+Ton discours r'apellant ma générosité⁎  
+Me rend ce que la haine, et l'orgueil m'ont osté.  
+Tu me rends à moy-mème, et je sens que ton zèle  
+R'anime une pitié qui m'est si naturelle,  
+Il faut que ma bonté règne enfin à son tour,  
+Et qu'un trait de clémence illustre ce grand jour.  
+Mais si ma gloire veut que je te satisface,  
+Il faut qu'auparavant Brute implore ma grace,  
+Que son orgueil soubmis aux pieds de son vainqueur [157]  
+Tasche de mériter cette illustre faveur.  
+Si le sang de César demande sa vengeance,  
+Estant Dieu [158] maintenant il ayme la clémence ?  
+Et l'on apaise moins une Divinité  
+Par un sang criminel, que par l'humilité.  
+
+    MAXIME
+Seigneur, je connoy Brute, et sa vertu⁎ sévère  
+Luy deffend de souffrir un destin si contraire :  
+Il en rompra le cours, et ce coeur indompté  
+Préviendra par sa mort l'effet de ta bonté  
+
+    OCTAVE
+Cependant il s'enfuit, et n'oseroit paraistre.  
+
+    MAXIME
+N'offence pas, Seigneur, la gloire de mon Maistre :  
+Il fuit pour mourir libre, et par un noble effort  
+Goûter avec loisir, le plaisir de la mort.  
+Voilà, voilà Seigneur, le sujet de sa fuite.  
+
+    OCTAVE
+Dans l'estat où je voy sa fortune réduite,  
+Il faut, il faut enfin, qu'il tombe dans nos mains,  
+Et pour s'en garantir tous ses efforts sont vains.  
+Mais Valère revient.  
+
+
+### SCENE DERNIERE
+
+    VALERE
+Seigneur Brute et sa femme  
+Sont morts, l'un par le fer, et l'autre par la flamme.  
+
+    OCTAVE
+O ! Ciel tout mon triomphe a péry par leur mort :  
+Mais Valère aprends-moy par quel bras, par quel sort  
+Ils ont trahy vos soins, et trompé ma clémence.  
+
+    VALERE
+Seigneur, leur désespoir a déçeu ma prudence.  
+Ayant rencontré Brute, et voyant nos soldats,  
+Qui le suivent de prés, et ne l'épargnent pas,  
+Je deffens qu'on le tuë, et fais qu'on s'estudie [159]  
+De lasser sa valeur en espargnant sa vie.  
+Brute, qui veut mourir, se met en bute à tous,  
+Se deffend de nos mains ; et non pas de nos coups,  
+Et soigneux seulement d'éviter la surprise,  
+Il expose son sang, et deffend sa franchise⁎.  
+Le nombre enfin l'accable, et son bras abatu  
+Par un dernier effort secourant sa vertu  
+Contre son propre flanc tourne toute sa rage [160]:  
+On se saisit de luy, mais malgré son servage [161],  
+Son ame suit son sang, et rit de nos efforts.  
+Mettez (dit-il) aux fers ce misérable corps,  
+Vuide du sang Romain, et de l'ame de Brute.  
+Il tombe avec ces mots d'une mortelle cheute.  
+Sa femme qu'on conduit assiste à son mal-heur ;  
+Jugez quel fut alors l'excez de sa douleur,  
+Je la vois aussi-tost succomber de tristesse.  
+Mais un prompt désespoir soustenant sa faiblesse,  
+L'a fait jetter sur Brute, et sans nostre secours  
+Sa main du mème fer alloit trancher ses jours.  
+Quand de ses belles mains j'eus arraché l'espée ;  
+La douleur l'interdit en se voyant trompée,  
+Et son corps abatu sous le poids des douleurs,  
+Tombe sur Brute mort, qu'elle arrouse des pleurs.  
+Elle baise sa bouche, et d'un soûpir de flamme  
+Vers ce corps tout sanglant pousse toute son ame.  
+Quoy (dit-elle) sans moy mon Brute a pû mourir.  
+Puis regardant la main, qui l'avoit fait périr ;  
+Cette main, ce témoing d'une amitié si rare,  
+Elle, qui nous unit, maintenant nous sépare.  
+Ah ! Rigueur, à ces mots poussant un grand soûpir,  
+Elle semble expirer à faute de mourir  
+
+    OCTAVE.
+O ! Dieux que la pitié sensiblement me blesse ;  
+Je souffre ses douleurs, je ressens sa foiblesse.  
+Conte moy promptement la fin de son mal-heur,  
+Et par un court récit abrège ma douleur.  
+
+    VALERE
+Elle se lève enfin, et sans paroistre émeuë,  
+Elle aproche un grand feu qui s'offroit à sa veuë,  
+Et passant tout d'un coup dans un grand désespoir,  
+Par un soudain transport⁎ que je ne puis prévoir,  
+Prent des charbons ardans [162], et d'une bouche avide  
+Dévore avec plaisir cette braise homicide.  
+Elle vouloit parler, mais ses nobles désirs      
+S'expliquent seulement par de bruslants [163] soûpirs.  
+Son mal s'accroist toujours, et la flamme luy vole  
+Les charmes du visage, et ceux de la parolle.  
+Je la veux secourir, mes soins sont superflus :  
+Sa bouche est tout en feu, quand ses yeux n'en ont plus [164].  
+Cette chaleur l'estouffe, et sa bouche allumée  
+Pousse avec sa belle ame un globe de fumée.  
+
+    OCTAVE
+O ! Miracle inoüy de générosité⁎.  
+Triste effet de ma haine, et de ma cruauté !  
+Falloit-il que le sort la rendit mon esclave,  
+Pour reprocher sa mort au triomphe d'Octave ?  
+Que je hay ma fortune, et ce superbe rang  
+Qui pour un peu de gloire a cousté tant de sang [165]  
+Qu'on délivre Maxime, et que sa délivrance  
+Après tant de rigueur signale ma clémence.  < Fin du cinquiesme et dernier Acte. >
+
+
+# LexiqueAllarmesEmotion causée par les ennemis.V. 174, 426, 821, 845.AppasAmorce, charme. Ce qu'on emploie pour gagner ou pour attraper quelqu'un.V. 275.Apprendre deAccompagné de l'infinitif, aujourd'hui « apprendre à » (la construction avec « de » vieillit au XVII*e*).V. 1412.ArdensQui aspire avec force à.V. 120.AsseuranceEtre en sûreté, sécurité.V. 200, 201, 1158.Attenter sur, contreCommettre un attentat contre (aujourd'hui en ce sens on dit « attenter à »).V. 1268.AvecquesAvec. Cette forme est « bonne » selon Vaugelas, « commode aux poètes » et même aux prosateurs qui ont quelque soin de satisfaire l'oreille. Elle s'emploie jusqu'à la fin du siècle.V. 377, 738, 1469.AvouerProtéger, défendre.V. 989, 1449.Désavouer.V. 1170.ConfidenceConfiance. Ce sens s'explique par l'identité d'origine des deux mots « confiance » et « confidence⁎ », doublets du même mot latin.V. 541.CouvertAbri ; mettre à couvert : mettre à l'abri.V. 526, 1145.DéfaitMis en déroute.V. 836, 892.DélayRetard (aujourd'hui, il n'a conservé que le sens de « temps accordé pour faire quelque chose »).V. 117.EbranlementEmotion, trouble violent, bouleversement.V. 63, 443, 655, 1089.EnnuyChagrin, tourment, désespoir.V. 925, 1079, 1133, 1472.EstonnementEpouvante, effroi.V. 64, 78, 1272.FranchiseLiberté (ce sens vieillit au XVII*e* sauf dans le sens politique).V. 37, 1538.GénéreuxBrave, chevaleresque.V. 271, 763, 1144, 1228, 1262, 1308, 1335, 1340, 1470, 1474, 1481, 1499, 1583.HazardDanger, notamment celui qui est couru pendant le combat. Hazarder quelqu'un lui faire courir un danger.V. 175, 224, 428, 519, 847.PensersNom masculin. A partir du milieu du XVII*e* siècle, ce mot ne s'emploie plus guère qu'en poésie.V. 545, 599, 1067.PoudrePoussière.V. 74, 517, 798, 854.SoulerRassasier, rassasier jusqu'au dégôut. Il n'a ni au propre ni au figuré, rien de trivial mais il vieillit et, en 1660, Corneille le remplace dans la plupart des vers où il l'avait d'abord employé.V. 562.TransportBouleversements violents.V. 334, 634, 1080, 1572.TruchementInterprète, qui traduite la pensée.V. 68.VertuForce morale.V. 276, 277, 300, 597, 760, 770, 1125, 1131, 1231, 1322, 1327, 1354, 1478, 1488, 1496, 1513.
+
+
+# Bibliographie
+
+
+## Œuvres de référenceLa Soeur Généreuse
+Les Amours de Jupiter et de SéméléRecueil de tragédies à machines sous Louis XIV
+Oropaste, ou le faux Tonaxare
+Tyridate
+Le Fils supposé
+HoraceOeuvres Complètes
+Cinna
+La Mort de Pompée
+Porcie
+La Mort de Brute et de Porcie
+La Mort de César
+Oeuvres Complètes
+Opuscules critiques
+La Pharsale
+Vie de Brutus
+
+
+
+## ÉtudesHistoire de la littérature française au XVIIème siècle
+The Works of Claude Boyer
+Corneille et la tragédie politique
+Le Théâtre de l'Hôtel de Bourgogne
+La Tragédie de l'âge classique
+Essai de génétique théâtrale, Corneille à l'œuvre
+Abbé Claude Boyer, ein rivale Racines
+Le siècle d'Auguste
+A History of French Dramatic Literature in the Seventeenth Century
+Histoire littéraire de la ville d'Albi
+
+
+-------
+
+
+[1] Le propre frère de Louis XIII (Gaston d'Orléans), sa mère (Marie de Médicis) et la femme du roi (Anne d'Autriche).
+
+[2] Oeuvres complètes, III, p. 124.
+
+[3] Qui est également l'oncle maternel de Brutus puisqu'il est le frère de sa mère Servilia.
+
+[4] Nous pouvons rappeler que « les jours ordinaires de comédie » étaient au nombre de trois par semaine : mardi, vendredi et dimanche.
+
+[5]  Boyer est l'auteur de vingt-deux tragédies, pastorales ou opéras qui s'échelonnent de *La Porcie Romaine* en 1646 à *Méduse* en 1697.
+
+[6] Dans cette querelle qui éclata dans les années 1685, il s'agissait de savoir si les « Anciens » étaient supérieurs aux « Modernes » ou l'inverse, autrement dit laquelle l'emportait sur l'autre des civilisations gréco-latine et contemporaine. La société cultivée finit par se scinder en deux et l'opposition grandissait entre les « doctes » les écrivains classiques (Boileau, Racine, La Fontaine, Bossuet), les esprits sérieux du clergé qui militaient pour une littérature d'une haute tenue morale, nourrie de la culture humaniste et de l'autre les poètes galants comme Quinault, les esprits curieux comme Perrault et Fontenelle, les mondains qui voulaient une littérature de divertissement et préféraient les genres nouveaux (opéras, contes...) La réconciliation entre les deux ennemis, survenue en 1697 ne put masquer que l'avantage restait aux idées des Modernes.
+
+[7]  Furetière avait des raisons d'en vouloir à Boyer. Cette haine provient d'un incident en relation avec l'Académie Française car Boyer était partiellement impliqué dans cette humiliante expérience. En effet, *l'Essai d'un dictionnaire universel* (1684) de Furetière parut avant le dictionnaire de l'Académie que préparaient les Académiciens. Ceux-ci exclurent Furetière de la Compagnie, où il avait été élu en 1662. Boyer répondit à ses attaques dans une épigramme qui figure dans la *Satire des Satires* de Boursault (scène IV) : « C'est prudemment que notre Académie, / Dans son ignorance affermie, / A banni Furetière et l'a mis hors des rangs. / N'aurait-ce pas été dommage, / De laisser ce grand personage / Au milieu de tant d'ignorants.  »
+
+[8] Chapelain, Liste de quelques gens de lettres français vivants en 1662, in Opuscules Critiques, éd. A. Hunter, Paris, Droz, 1936, p. 343.
+
+[9]  Allusion à l'accent occitan de Boyer qui était originaire d'Albi. Ces origines sont raillées par Furetière dans son *Deuxième Factum* : « Claude Boyer et Michel Le Clerc sont deux albigeois qui, étant venus icy pour apprendre la langue, dont ils ne sçavent pas encore la prononciation, veulent l'enseigner aux autres.  »
+
+[10] C'est-à-dire ceux qui fréquentaient les ruelles : « tenir alcôve » a le sens précieux de « ruelle ». Les dames recevaient dans leur chambre : la maîtresse des lieux se tenait couchée ou assise au pied du lit ; une ruelle est occupée par les domestiques, l'autre par les amis siégeant sur des fauteuils.
+
+[11] *Histoire du théâtre français*, Paris, A. Morin et Flahaut, 1734.
+
+[12] History of French Dramatic Literature of the Seventeenth Century, II.
+
+[13]  Par Christian Delmas dans son *Recueil de tragédies à machines* (Toulouse, Société de Littératures classiques, 1985)
+
+[14] Par Christian Delmas et (Droz, 1990).
+
+[15] Par Laetitia Sergent (Droz, 1998).
+
+[16]  Garnier a écrit *Porcie* en 1568, avant lui ce sujet n'avait jamais été porté au théâtre.
+
+[17] *Vie de Brutus* XXXXIII, 4-8.
+
+[18] Abbé Claude Boyer, ein Rivale Racines, Leipzig, 1915.
+
+[19]  H.C.Lancaster, *op. cit.*, II p.593 à 605.
+
+[20]  Appien, *Histoire Romaine*, chap. XV et XVII.
+
+[21] Les furies étaient des divinités infernales pour les Romains, assimilées aux Erinyes des Grec. Elles sont trois, Alecto, Tisiphoné et Mégère. Elles rendent folles les victimes qu'elles persécutent sans fin.
+
+[22] Cette pièce date de 1641.
+
+[23] Vie de Brutus, VII, 1.
+
+[24] Cette pièce date de 1643.
+
+[25] The Works of Claude Boyer, II.
+
+[26] *Discours du poème dramatique*, Oeuvres complètes III, p.124.
+
+[27] Histoire Romaine, I, 6-7.
+
+[28]  On pouvait prendre les augures pour déterminer si un emplacement était propice à la fondation d'une ville. Cicéron raconte comment les anciens fondèrent Rome dans le *De Republica* II, 11.
+
+[29]  Selon H. C. LANCASTER, dans *History of French Dramatic Literature of the Seventeenth Century* (V)  l'adjectif aurait été ajouté au titre pour distinguer la pièce de *La Mort de Brute et de Porcie* de Guérin de Bouscal (1635).
+
+[30]  L'idée « d'image » vient probablement de Plutarque qui était très attaché aux phénomènes surnaturels. Dans la version de Valère Maxime (*Faits et dits mémorables*, I. 8.8), le fantôme de César apparut à Philippes ; non à Brutus mais à Cassius.
+
+[31] Allusion à la conjuration contre César. Les conjurés avaient pris Brutus pour chef car sa seule présence garantissait la justice. On dit que Brutus haïssait la dictature et Cassius, le dictateur.
+
+[32] « L'affranchir une seconde fois ». Ceci est la justification de la bataille de Philippes. Brutus veut libérer Rome de l'emprise des Triumvirs : Octave, Antoine et Lépide qui ont pris injustement le pouvoir après la mort de César.
+
+[33] Il s'agit de Caton d'Utique. Marcius Porcius Cato fut le défenseur de la tradition politique Romaine. Il pousse à l'intransigeance contre César et se retrouve aux côtés de Pompée. Il fut le chef des « Optimates » au Sénat. Il organise la défense d'Utique où il se suicide après la victoire de César. Il est le père de Porcie.
+
+[34] Ce terme désigne César lui-même mais aussi Octave qui était son héritier. En effet, après l'assassinat, Octave vint à Rome où il entendait exploiter le culte naissant du Dieu César.
+
+[35]  Plutarque raconte dans la *Vie de Brutus*, qu'une nuit Brutus aurait eu la vision de son mauvais démon et lui aurait parlé. Ici, il accuse l'ombre de l'empêcher d'agir. (XXXVI ; 6, 7)
+
+[36] Les Oracles constituent les réponses des dieux. Ce rituel était toujours pratiqué avant une bataille et si les Dieux n'étaient pas favorables il était rare que l'on trangressât leur volonté. Mais pour Brutus la liberté de Rome passe avant la volonté des dieux.
+
+[37]  « Décidons » a ici le sens étymologique du latin *decidere* c'est-à-dire trancher moralement, régler un différend.
+
+[38] Brutus est décidé à amener une conclusion définitive à ce dilemme. Il est prêt à braver les dieux et à engager le combat.
+
+[39]  Plutarque admet que Brutus, en prononçant, lors de son anniversaire, un vers homérique de mauvais augure, était sous l'influence d'un dieu qui annonçait ainsi la défaite de Philippes (*Vie de Brutus*, XXIV,6)
+
+[40] Boyer restitue le goût de l'historien pour le surnaturel : « chimère » (v. 54), « spectre » (v. 55).
+
+[41]  Plutarque raconte que lorsque Brutus fut mis en présence de son mauvais démon, il lui demanda la raison de sa venue et le fantôme lui répondit : « Je suis, Brutus, ton mauvais démon, tu me verras à Philippes. » A quoi Brutus répondit « j'y serai donc. » (*Vie de Brutus*, XXXVI ; 6,7)
+
+[42] Il s'agit de C. Cassius Longinus. Tribun de la plèbe, il combattit aux côtés de Pompée pendant la guerre civile. Il organisa la conjuration contre César et rejoignit ensuite Brutus et engagea la première bataille de Philippes contre Antoine.
+
+[43]  Plutarque écrit qu'avant la bataille, beaucoup d'oiseaux de proie apparaissaient chaque jour dans le camp et que l'on vit des essaims d'abeilles se rassembler à l'intérieur du retranchement dans un endroit que les devins firent enclore pour conjurer la superstition qui se glissait dans les esprits des soldats (*Vie de Brutus*, XXXIX ; 5, 6). Cette allusion aux corbeaux rappelle les mauvais présages énumérés par Lucain dans *La Pharsale* « des oiseaux sinistres souillèrent le jour. » (I, 540)
+
+[44] Maure
+
+[45]  « La foudre silencieuse arrachant son feu aux régions arctiques... » (*La Pharsale* I, 534).
+
+[46]  « Les offrandes glissèrent des temples. » (*La Pharsale* I, 558).
+
+[47]  « La comète qui sur terre bouleverse les royaumes. » (*La Pharsale* I, 529).
+
+[48] Ce vers compte onze syllabes. Pour respecter le rythme de l'alexandrin, il faudrait prononcer le e muet de « justifient ».
+
+[49] Cassius, choqué par les mauvais présages conseille de patienter et de reporter la bataille. Cette attitude met l'accent sur la détermination de Brutus. Il est moins confiant puisqu'il sait que les Dieux sont en colère mais il est prêt à les braver pour le bien de Rome. 
+
+[50] Allusion à la guerre civile précédente. Pompée s'était éloigné de Rome avec ses troupes. Il se mit à la poursuite de César, bien résolu à éviter de lui livrer bataille, mais à le harceler et à l'user par la disette en le serrant de près. L'entourage de Pompée le sommait d'engager le combat et il refusa jusqu'au jour où les troupes de César engagèrent l'offensive. Les troupes de Pompée, peu exercées à combattre, furent battues et Pompée s'enfuit en Egypte où il fut assassiné.
+
+[51] L'anaphore des « que » et « qu' « accélère le rythme de la tirade. Elle souligne l'emportement de Brutus et sa détermination. 
+
+[52] La métaphore guerrière de l'amour est un cliché. Elle est souvent utilisée par les poètes galants du met siècle, le cœur de Brutus est soumis à l'amour de Porcie. 
+
+[53]  « Doux ennemy » est un oxymore. Elle souligne la confusion qui règne dans l'esprit de Brutus. Il est  déchiré entre son amour pour Porcie et sa volonté de libérer Rome de l'emprise des Triumvirs. 
+
+[54] Le discours de Brutus est un quasi monologue. La structure de cette tirade montre le cheminement de la réflexion de Brutus. D'une part, il admet qu'il met Porcie en danger. Puis, il trouve une échappatoire qui consiste à éloigner Porcie. Enfin, il conclue le discours en décidant de livrer bataille.
+
+[55]  Epanadiplose. Cette répétition met en valeur le mot « Amour », qui figure par ailleurs dans les deux  hémistiches. Brutus souligne que le fait d'éloigner sa femme, ne veut pas dire qu'il ne l'aime plus.  
+
+[56]  La présence de Porcie dans le camp de son mari peut avoir été suggérée par la pièce de Guérin de met, *La Mort de Brute et de Porcie*.
+
+[57] « Caesar » désigne ici Octave. Les empereurs romains qui ont dirigé Rome à la suite de Jules César, se sont faits appelés ainsi pour lui rendre hommage.
+
+[58]  « Loin des troubles de Mars... » (I, 5)  *La Mort de Brute et de Porcie* de Guérin de met (1635)
+
+[59]  Ce vers contraste avec le vers 91 « Amy, ne croyons point à ces présages vains». Brutus feint d'être  confiant face à Porcie. Ce « mensonge » est destiné à limiter l'inquiétude de Porcie pour qu'elle accepte de s'éloigner. 
+
+[60]  « Vengeance » : Caton d'Utique, le père de Porcie se suicida à Thapsus, après sa défaite contre César.  Porcie le tient pour responsable de la mort de son père. Ces circonstances rappellent la situation d'Emilie dans *Cinna* de Corneille. Emilie veut venger la mort de son père causée par Auguste. Cependant, le désir de vengeance d'Emilie est beaucoup plus farouche et passionné que celui de Porcie. Dans la pièce de Boyer, Brutus parait plus exalté que Porcie.
+
+[61]  Brutus se lamente en des termes dignes d'un amoureux français du XVII*e* siècle.
+
+[62] Porcie met fin au dilemme qui déchirait Brutus au vers 152 : « Qu'il ne l'oze exposer à ces fameux revers. » Elle s'associe à Rome et épouse sa cause afin que Brutus n'ait pas à faire de choix entre elle et Rome. 
+
+[63] Porcie fait allusion au suicide de son père. Voyant que César avait remporté la bataille et avant de le laisser arriver jusqu'à lui, il mit fin à ses jours pour éviter l'humiliation du vaincu. 
+
+[64] Le passage brutal du passé au futur souligne la détermination de Porcie. Elle ne sera pas l'esclave d'Octave. L'épanode montre sa volonté d'avoir un geste héroïque comme son père. 
+
+[65] L'anaphore de « imiter » prête à Brutus l'intention de se suicider s'il est lui-même vaincu.
+
+[66]  Brutus tente de persuader Porcie de quitter son camp en donnant une vision très réaliste des batailles : « carnages » (v. 284) ; « déluge de sang » (v. 287). Cette description rappelle un passage de La *Pharsale* de Lucain « Il regarde les fleuves dont le sang précipite le cours des monceaux de cadavres... »  (VII, v. 789-790).
+
+[67] Brutus cède aux nobles accents de sa femme et s'en remet au destin. L'utilisation de la première personne du pluriel marque sa résignation.
+
+[68]  Plutarque raconte dans La *Vie de Brutus* (XXXIX, 2) que Brutus purifia son armée en plein air. Il donna cinquante drachmes à chaque homme, ce qui accrut le dévouement et l'ardeur des troupes. 
+
+[69] « Ardeur vive » est presque un pléonasme. Il souligne le brusque changement de comportement des soldats après l'exhortation de Cassius. 
+
+[70] Dans ce passage, on assiste à une inversion des rôles. Cassius est maintenant prêt à engager le combat, alors que, Brutus qui était si déterminé à l'acte I, est en proie au doute.
+
+[71] Dévouée
+
+[72] L'anaphore de « de » marque le ressaisissement de Brutus. Il est déterminé à mener le combat et cette bataille semble planifiée.
+
+[73] En faisant tout pour le bien de la patrie, c'est-à-dire en ne l'empêchant pas de combattre pour délivrer Rome.
+
+[74]  « Soyez Porcie » c'est-à-dire soyez digne de votre père. Porcie est une femme de volonté. C. Brody dans *The works of Claude Boyer* la qualifie « d'équivalent féminin du jeune Horace » dans son amour ardent pour Rome.
+
+[75]  « Dueil » est employé jusqu'au XVII*e* siècle dans le sens d'affliction, de tristesse profonde.
+
+[76] « Amitié constante » : Amitié a ici la valeur ancienne érotique et amoureuse. 
+
+[77] « Devoriés » : ravaliez (ne laissiez pas paraître).
+
+[78]  Les Scipions sont une famille de Rome, de la gens Cornelia, dont certains membres se distinguèrent aux III*e* et II*e* siècles av. J.-C. Ils étaient animés d'un esprit à la fois patriote, novateur et philhellène. Les principaux furent Scipion l'Africain (235-183) et Scipion l'Emilien (185-129). 
+
+[79] Ces trois familles ont en commun leur patriotisme et ont combattu au péril de leur vie pour le salut de Rome. 
+
+[80] Les trois familles se sont opposées à César tout comme Brute. En 48, à Pharsale, les troupes de Scipion sont venues de Macédoine rejoindre celles de Pompée pour faire face à César.
+
+[81] Allusion à Tarquin Le Superbe, septième roi de Rome que les historiens ont représenté comme un Tyran. Il fut chassé de Rome, renversé par un complot d'aristocrates, qui ne supportaient plus les contraintes du pouvoir monarchique, à la tête duquel se trouvait Lucius Brutus Junius. Neveu de Tarquin le Superbe, il souleva le peuple à la suite du suicide de Lucrèce (violée par le fils de Tarquin : Sextus) et fit abolir la royauté (509 av. J.-C). Brutus est resté le type même du républicain farouche. 
+
+[82] Comme son ancêtre Lucius Junius Brutus, Brutus se bat contre les tyrans. Après avoir tué César, il combat son descendant Octave. « La foudre » : qui frappe les Tyrans.
+
+[83]  Allusion à la fin de la période monarchique de l'histoire romaine. À Romulus succédèrent jusqu'à la fin du VII*e* siècle des rois Latins et Sabins ; puis trois monarques étrusques : ce sont les trois monarques étrusques qui « noircissent l'histoire » de Rome.
+
+[84] « Jaloux » a ici le sens ancien de : « qui est farouchement attaché à la conservation de quelque chose, d'un avantage. »
+
+[85] Lucius Junius Brutus fut l'un des deux premiers consuls de Rome. 
+
+[86] Pères : « Patres » en latin constituent le Sénat. Ce sont des notables, choisis dans la classe la plus riche des citoyens. C'est de cette assemblée qu'émanent les consuls, chefs du pouvoir exécutif. 
+
+[87]  Brutus descendrait de Junius Brutus, celui qui chassa définitivement les Tarquins. Mais dans la *Vie de Brutus* (II, 6), Plutarque écrit que Brutus serait issu d'une maison Plébéienne qui portait le même nom. 
+
+[88] À l'issu de la guerre civile, César gouverna en souverain absolu. Dictateur et consul à vie en 44, il cumula les magistratures : Grand Pontife, préfet des mœurs, Imperator. Il fut soupçonné de briguer la royauté (ce que le peuple aurait accepté volontiers, mais que la classe dirigeante ne put tolérer).
+
+[89] « Se dément » : démentir sa réputation. 
+
+[90]  Cf. « Je vais les déplorer. Va, cours, vole et nous venge. » Corneille, *Le Cid* (I, 5 v. 290)
+
+[91] « Arrester » : rester
+
+[92] Risques, dangers. 
+
+[93]  Porcie est en proie à un conflit intérieur entre la raison et le cœur. Elle a confiance en Brutus et ne doute pas de sa victoire. Cependant, son amour la fait trembler pour lui. Elle oscille entre le désir de gloire et de vengeance et celui de préserver celui qu'elle aime. Ces paroles ne sont pas sans rappeler le monologue d'Emilie dans *Cinna* (I, 1) : « Et je sens refroidir ce bouillant mouvement / Quand il faut, pour le suivre exposer mon amant. / Oui, Cinna, contre moi moi-même je m'irrite / Quand je songe aux dangers où je le précipite. »
+
+[94]  Porcie donne une description d'une scène de bataille qui n'est pas sans ressembler à celle de Lucain dans *La Pharsale* (VII v. 791) : « Il contemple des amas de corps pourris en décomposition et dénombre les peuples de Magnus. »
+
+[95] Allusion à la bataille de Pharsale (48 av. J.-C.) où Pompée, vaincu par les troupes de César, dut prendre la fuite pour se réfugier en Egypte. 
+
+[96]  Plutarque confirme cette version dans la *Vie de Pompée* (LXIII, 5) « On fit venir Brutus, fils du Brutus qui avait été égorgé en Gaule, homme magnanime, qui n'avait jamais salué, parce qu'il n'avait jamais jusqu'alors adressé la parole à Pompée, parce qu'il voyait en lui le meurtrier de son père, mais qui à ce moment se rangea sous les ordres de celui qui voulait libérer Rome. »
+
+[97] En livrant cette bataille contre le descendant de César, Brutus contribue à faire oublier la retraite honteuse de Pompée à Pharsale. 
+
+[98] César avait pardonné à Brutus son ralliement à Pompée. Il le nomma propréteur en Cisalpine (46) puis préteur urbain (45). Ce rapprochement avec César, contribue à renforcer la portée de son acte. 
+
+[99] « Ce lieu » désigne la plaine de Pharsale. Mais en réalité la bataille entre Brutus et Octave s'est déroulée à Philippes.
+
+[100] Cf. Monologue d'Emilie, Cinna (I, 1) : « Impatients désirs d'une illustre vengeance / Dont la mort de mon père a formé la naissance, / Enfants impétueux de mon ressentiment, / Que ma douleur séduite embrasse aveuglément, / Vous prenez sur mon âme un trop puissant empire : / Durant quelques moments, souffrez que je respire ».
+
+[101] « Languissans » : tourmenté par un violent sentiment. 
+
+[102] Brutus et Cassius n'ont pas combattu le même jour. La première bataille de Philippes se solda par la défaite de Cassius puis vingt jours plus tard par celle de Brutus. En réalité, Boyer a pris ces deux épisodes de la bataille de Philippes, la bataille de Cassius et celle de Brutus et en a fait une seule action, comme l'avait fait avant lui Plutarque. 
+
+[103] Elan furieux.
+
+[104] L'incohérence de l'apostrophe de Cassius marque le trouble causé par la mort de Brutus. Il s'adresse successivement à Brutus qu'il croit mort, puis aux Dieux à qui il reproche la mort de son ami et de nouveau à Brutus. 
+
+[105] Brutus a honoré sa condition de « plus grand des Romains ». Il s'est battu jusqu'à la mort, ce qui fait oublier sa défaite.
+
+[106] Manes : esprits des morts (désignation euphémistique pour les nommer en se les conciliant).
+
+[107]  Boyer s'inspire ici librement de la *Vie de Brutus*. Plutarque raconte que « Cassius, à la suite d'un malentendu, crut que Titinius, un fidèle centurion, était tombé aux mains des ennemis. Il dit alors « trop attaché à la vie, j'ai attendu de voir mon ami enlevé par nos adversaires ». Puis il se retira dans une tente abandonnée en emmenant son affranchi, Pindaros. Relevant sa chlamyde sur sa tête et découvrant son cou, il la lui présenta à couper. On devait trouver la tête séparée du corps. (XLIII ; 7,8)
+
+[108] Allusion mythologique. Les Parques sont des divinités représentant la toute-puissance du Destin. Inflexibles fileuses, elles tissent la vie des hommes sans pitié. 
+
+[109] L'utilisation de « survivre » comme verbe transitif est archaïque (la construction intransitive avec « à » est apparu en 1538) . Il signifie « continuer à vivre pendant un certain temps », spécialement « après la perte de quelque chose de précieux ».
+
+[110] Hyperbole : la mort de Brutus est perçue comme la fin du Monde. Le vers 738 prolonge cette métaphore.
+
+[111] « Esprouvez-vous » : soyez forte.
+
+[112] « Masle » signifie forte, pleine de vigueur.
+
+[113] Porcie fait allusion à tous les mauvais présages qui inquiétaient Cassius à l'acte I, scène 3.
+
+[114] Porcie se lamente sur le sort de Brutus en des vers pompeux manquant étrangement de sentiments personnels et de profondeur : rhétorique traditionnelle de la lamentation. 
+
+[115] « Fleau » doit compter pour une seule syllabe. 
+
+[116] « Fausse joye » rappelle la discussion entre Porcie et Julie à l'acte II scène 4. Julie engageait personnels à avoir bon espoir et à faire confiance à Brutus. À l'issu de cet entretien Porcie semblait apaisée.
+
+[117] La fausse mort de Brutus permet de donner un nouvel élan à l'action en faisant intervenir une nouvelle péripétie. 
+
+[118] « Dards » : arme de jet (sens ancien du mot).
+
+[119] « Germain » : frère
+
+[120] Maxime insiste sur l'absurdité de la bataille en employant dans un même vers deux termes contradictoires : « estouffe », « embrasser » ; « immole », « caresser ». 
+
+[121]  « Parricide » désigne au XVII*e* siècle tout meurtre entre parents. 
+
+[122]  Boyer transforme librement l'histoire. Cassie n'a pas vaincu Octave. Plutarque raconte dans *La Vie de Brutus*, la débandade des soldats de Cassius : « Tandis qu'il hésitait et tardait, au lieu de commander avec promptitude et prévoyance, il se trouva enveloppé par l'aile droite des ennemis. Ses cavaliers se débandèrent et s'enfuirent vers la mer (...). Il fut contraint de se retirer avec une poignée d'hommes sur une colline et c'est à peine s'il aperçut le pillage de son camp, car sa vue était faible. » (XLIII, 4)
+
+[123] Boyer intervertit les rôles de Brutus et de Cassius dans la bataille. D'après Plutarque, Cassius a subi une défaite et Brutus s'est porté à son secours en lui envoyant des renforts. (XLIV).
+
+[124] C'est-à-dire pour suivre Brutus dans la mort.
+
+[125]  Boyer interprète l'histoire. D'après Plutarque, Cassius a été tué sur sa demande par son affranchi Pindaros. Il ajoute même que « personne ne revit plus Pindaros après ce meurtre, ce qui fit penser à quelques uns qu'il avait tué Cassius sans en avoir reçu l'ordre. » *Vie de Brutus* (XLIII,8).
+
+[126] Être la cible de 
+
+[127] Pour respecter le rythme du vers, « meurtrier » compte pour deux syllabes.
+
+[128] Et cependant
+
+[129] Construction transitive de « survivre », voir v.733.
+
+[130] La clé émotionnelle est ici atteinte. Porcie ne pense pas à son bonheur puisque son époux est sain et sauf mais plutôt aux fières idées de Patrie et de Liberté.
+
+[131] La mort de Cassius rend Porcie prudente. Elle ne peut se réjouir pleinement du retour de Brutus.
+
+[132]  Plutarque raconte « qu'un serviteur de Cassius, Démétrios, arriva le soir même auprès d'Antoine, avec les vêtements et l'épée qu'il avait pris sur le cadavre de son maître. Cette remise releva tellement leur moral qu'au point du jour ils firent avancer leurs troupes en armes pour livrer bataille ». (*Vie de Brutus*, XLV)
+
+[133] Irrégularité de versification : ce vers a quatorze syllabes. Pour rétablir le rythme du vers, nous corrigeons en : « Par cest ébranlement qui vous rend abatuë ».
+
+[134] Allusion à l'éducation stoïcienne de Brutus. Cependant Plutarque raconte que Brutus n'adhéra pas totalement à la doctrine stoïcienne, son principal maître fut un Platonicien, Antiochos d'Ascalon. 
+
+[135]   « Au veu » : au vu (à la vue).
+
+[136] Jules César : il était issu d'une grande famille aristocratique, la Gens Julia.
+
+[137]  Porcie veut mourir seule et laisser Brutus venger sa mort, comme la Sabine de Corneille qui propose à son frère et à son mari : « qu'un de vous me tue et que l'autre me venge. » *Horace* (II, 6)
+
+[138] Caton était non seulement le beau-père de Brutus mais il était aussi son oncle, le frère de sa mère Servilia, il s'était chargé de l'éducation de son neveu à la mort de son père.
+
+[139]  Après l'assassinat de César et l'arrivée d'Octave à Rome, Antoine sentit son pouvoir menacé. Il se rapprocha officiellement d'Octave et obtint l'éloignement des principaux conjurés des Ides de Mars. Allusion à la harangue d'Antoine évoquée par G. de Scudéry dans *La Mort de César* (V, 1) : « Faisons voir que César vit en notre mémoire, / Peignons ses assassins d'une couleur si noire / Que le peuple irrité contre l'acte commis / Aille épandre le sang de tous ses ennemis (c'est-à-dire les ennemis de César). »
+
+[140] Il s'agit des Triumvirs : Lépide, Antoine et Octave.
+
+[141] « Servir » : être esclave.
+
+[142] Brutus suggère qu'ils pourraient tous deux mourir courageusement, à leur manière et ainsi éviter de passer sous le joug des vainqueurs ce que malheureusement ils ne pourront éviter. 
+
+[143] Ces quatre vers traduisent le passage de la vie à la mort. Le premier hémistiche décrit la vie : « brillans. appas » (v. 1229); « clartez »(v. 1230) ; « beau sang » (v. 1231) et « corps » (v. 1232) ;tandis que le second figure la mort : « couvrir de ténèbres » (v. 1229) ; « ombres funèbres » (v. 1230) ; « horreurs de la mort » (v. 1232).
+
+[144] « Amuser » : faire durer sans en arriver au fait ; détourner, distraire quelqu'un de son but.
+
+[145] Expression du tragique : Brutus sait qu'Octave a le dessus, mais dans un dernier acte de désespoir, il va combattre pour mourir les armes à la main. Il ne se fait aucune illusion sur l'issue de la bataille. 
+
+[146] Il s'agit de Brutus, que César considérait comme son fils adoptif. César, jeune avait eu pour maitresse Servilia, la mère de Brutus, qui était follement éprise de lui. Comme Brutus était né à l'époque où leur amour était le plus ardent, César avait une sorte de conviction que Brutus était son fils. 
+
+[147] Allusion à l'assassinat de César qui avait eu lieu pendant une séance du sénat que César présidait aux Ides de Mars 44.
+
+[148] « Réduit » : acculé.
+
+[149] La scène est censée se dérouler dans la tente de Porcie. Or, l'évocation des lieux faite par Valère ne coïncide pas avec l'idée que l'on se fait d'une tente. Il parle d'« appartement » au vers 1295, puis de « porte » au vers 1298 et enfin de « chambre », vers 1299. La tente de Porcie paraît bien grande.
+
+[150] À nouveau, Boyer se sert de la mort hypothétique de Brutus pour faire avancer l'action. C'est parce qu'elle pense que Brutus est mort que Porcie tente de mettre fin à ses jours. 
+
+[151] « Inique » : injuste
+
+[152]  Porcie appelle Brutus « le dernier des romains ». Dans la pièce de R. Garnier, *Porcie* (1568) elle appelle ainsi Cassius lorsqu'elle apprend sa mort. Ce qualificatif est aussi employé par Brutus lorsqu'il apprend la mort de Cassius : « Il pleura sur le corps et appela Cassius le dernier des Romains, dans la pensée que Rome ne pouvait plus produire un homme d'un aussi grand coeur. » *Vie de Brutus* (XLIV, 2)
+
+[153]  Le mot « aigle » vient du latin *aquila* qui est un mot féminin. Il est resté féminin jusqu'au XVII*e* siècle. Il prend ici une valeur figurée et désigne l'enseigne des légions romaines (jusqu'en 1680).
+
+[154] Le Tibre est le fleuve qui traverse Rome.
+
+[155] Porcie souhaite à Octave le même sort que son père adoptif. Les « sourdes pratiques » font allusion à la conjuration.
+
+[156]  Ce vers n'est pas sans rappeler les paroles du philosophe Arée dans la *Porcie* de Robert Garnier (1568). Il prie Octave d'être clément car « la clémence est l'honneur d'un prince débonnaire » (III, 2).
+
+[157] Octave consent à la clémence à condition que Brutus se rende. 
+
+[158] Allusion aux efforts mis en œuvre par Octave pour développer le culte de César. Il présida, peu après la mort de son père adoptif, les Jeux de la victoire de César et pendant cette célébration, une comète apparut dans le ciel. Personne ne douta que ce prodige était envoyé par les Dieux afin de prouver la divinité du mort.
+
+[159] « S'estudie » : s'applique à 
+
+[160]  D'après Plutarque, c'est Straton, l'ami de Brutus qui l'a tué sur sa demande. *Vie de Brutus* (Epilogue) Guérin de Bouscal est plus fidèle à l'histoire que Boyer puisqu'il restitue cet épisode dans la *Mort de Brute et de Porcie* (V, 4).
+
+[161] Humiliation due à la captivité.
+
+[162]  Au sujet de la mort de Porcie, Boyer est fidèle à Plutarque et à tous les historiens qui s'y sont intéressés. Cependant, Plutarque fait part d'une autre version dans l'épilogue de la *Vie de Brutus* : « On cite pourtant une lettre de Brutus à ces amis où il leur fait des reproches et déplore qu'ils ne se soient pas occupés de Porcia, alors qu'elle avait décidé de quitter la vie à cause d'une maladie.  » 
+
+[163] « Bruslants » peut être considéré comme une antanaclase, c'est-à-dire qu'on peut lui prêter son sens propre ou son sens figuré. Il a le sens de chaud car elle a avalé des charbons ardents mais aussi celui de passionné car elle a commis un acte désespéré.
+
+[164] « Feu » est également une antanaclase : feu est compris dans le sens de « phénomène naturel » puisqu'elle a avalé des charbons ardents mais aussi dans le sens de « vie ».
+
+[165]  Ces deux vers rappellent les paroles d'Auguste dans *Cinna* de Corneille (V, 1) : « Cette grandeur sans borne et cet illustre rang ; / Qui m'a jadis couté tant de peine et de sang. »

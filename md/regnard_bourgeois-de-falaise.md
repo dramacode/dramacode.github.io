@@ -1,0 +1,1664 @@
+---
+identifier: regnard_bal  
+creator: REGNARD, Jean-François  
+date: 1696  
+title: LE BAL, COMÉDIE  
+---
+
+
+LE BAL
+
+COMÉDIE EN UN ACTE,
+
+AVEC UN DIVERTISSEMENT
+
+OEUVRES COMPLÈTES DE J. F. REGNARD NOUVELLE ÉDITION AVEC DES VARIANTES ET DES NOTES.
+
+M. DC. LXXXXVI.
+
+Jean-François Regnard
+
+À PARIS, Chez J. L. J. BRIÈRE, LIBRAIRE, RUE SAINT ANDRÉ-DES-ARTS, N° 68.
+Représenté pour la première fois le 14 juin 1696 au Théâtre de la rue des Fossés Saint-Germain.
+
+
+# AVERTISSEMENT SUR LE BAL
+
+Cette comédie a été représentée pour la première fois le jeudi 14 juin 1696, sous le titre du Bourgeois de Falaise. Elle a été imprimée sous ce même titre dans la première édition qui a été faite de cette pièce dans sa nouveauté. Depuis, l'auteur l'a nommée le Bal. C'est sous ce dernier titre qu'elle a reparu au théâtre, et qu'elle se trouve imprimée dans toutes les éditions des Oeuvres de Regnard.
+
+Le personnage de Sotencour est celui que l'auteur avait regardé comme le principal de sa pièce, et qui avait donné lieu à sa première dénomination ; niais ce bourgeois ridicule n'était qu'une mauvaise copie de Pourceaugnac ; et comme la pièce n'avait réussi qu'à l'aide de deux personnages subalternes, Mathieu Crochet et le Gascon Fijac, le poète a cru devoir supprimer le premier titre, et a intitulé sa pièce le Bal.
+
+On peut en effet justement reprocher à Regnard l'invraisemblance et la faiblesse de l'intrigue de cette pièce. Ces défauts ne sont pas rachetés par un comique soutenu ; et s'il y a quelques scènes plaisantes, il y en a plusieurs autres qui sont froides et inutiles.
+
+Sotencour, comme nous l'avons remarqué, n'a rien de saillant, et ne présente point un caractère d'un comique décidé. Il arrive du fond de la Normandie pour faire une description ridicule des appas de sa maîtresse, qu'il n'a jamais vue. On ne dit point que ce soit la fortune du beau-père qui le décide à ce mariage, de sorte qu'on ne sait ce qui l'a déterminé à venir de sa province chercher femme à Paris.
+
+Le stratagème qu'on emploie pour le dégoûter de sa belle ne peut pas s'appeler un artifice ; et quoiqu'il soit l'ouvrage de trois fourbes adroits, on n'y voit qu'une ruse grossière dont on est étonné que le beau-père et le gendre futurs soient les dupes.
+
+La première supercherie du Gascon est tout à fait inutile, et ne sert en rien au dénouement. Il était indifférent de prévenir Géronte contre Sotencour, et de le faire passer pour un joueur abîmé de dettes, puisqu'on se proposait d'enlever Léonore ; et dans le fait, cet enlèvement fait seul le dénouement, et détermine seul Sotencour à renoncer à Léonore, et Géronte à la donner à Valère.
+
+Malgré ces défauts, on reconnaît dans cette pièce le génie de Regnard. Il y a, comme nous l'avons remarqué, quelques scènes plaisantes, telles que celle de l'entrevue de Sotencour avec sa maîtresse, le bavardage ridicule de l'un et le silence méprisant de l'autre, que notre campagnard prend pour de la stupidité.
+
+Cette situation comique, et qui a dû produire beaucoup d'effet au théâtre, a été imitée par Destouches, dans sa comédie du Dépôt.
+
+Un marquis d'Esbignac, amoureux de la fille de Géronte, sans l'avoir vue, ou plutôt amoureux de sa fortune, dit au père, en présence de sa fille :
+
+Mais votre fille est belle,
+
+Si j'en crois le portrait que son frère fait d'elle.
+
+GÉRONTE lui faisant apercevoir sa fille.
+
+Vous en pouvez juger.
+
+LE MARQUIS.
+
+C'est là l'original
+
+Du portrait ?
+
+GÉRONTE.
+
+Oui vraiment.
+
+LE MARQUIS.
+
+Elle n'est pas trop mal.
+
+Et après une tirade de gasconnades extravagantes, auxquelles Angélique ne répond que par un silence méprisant, le Marquis se retourne du côté du père, et lui dit :
+
+Est-ce que cette enfant ne parle pas encore ?
+
+GÉRONTE, en souriant.
+
+Oh ! Que pardonnez-moi.
+
+LE MARQUIS.
+
+Jusqu'ici je l'ignore ;
+
+On la croirait muette.
+
+GÉRONTE.
+
+Elle vous parlera
+
+Quand il en sera temps.
+
+LE MARQUIS.
+
+Oh ! Quand il lui plaira ;
+
+Je ne suis point pressé.
+
+La scène dans Regnard est plus originale. La bêtise de Sotencour et son bavardage contrastent mieux avec le silence de Léonore : elle ne répond point à une question sotte et malhonnête que lui fait le provincial ; et celui-ci, au lieu de s'apercevoir de sa sottise, impute à stupidité le silence de sa maîtresse.
+
+Nous avons remarqué aussi dans cette pièce le rôle du Gascon, qui, quoique inutile, est très plaisant. La scène où il demande à Sotencour ce qu'il prétend lui avoir gagné au jeu, quoique semblable à plusieurs autres scènes déjà au théâtre, entre autres à celle du marchand flamand de Pourceaugnac, est vivement dialoguée et d'un très bon comique.
+
+Cette pièce est la seule des comédies de Regnard que l'on ne joue plus ; cependant elle a eu douze représentations dans sa nouveauté, et nous croyons que, malgré ses défauts, on la verrait encore avec plaisir sur notre scène.
+ – GÉRONTE, père de Léonore.
+ – LÉONORE.
+ – VALÈRE, amant de Léonore.
+ – MONSIEUR DE SOTENCOUR, bourgeois de Falaise.
+ – LISETTE, servante de Léonore.
+ – MERLIN, valet de Valère.
+ – FIJAC, Gascon, sous le nom du baron d'Aubignac.
+ – MATHIEU CROCHET, cousin de Sotencour.
+ – MONSIEUR GRASSET, rôtisseur.
+ – MONSIEUR LA MONTAGNE, marchand de vin.
+ – GILLETTE.
+ – Troupe de Masques.La scène est à Charonne.
+
+
+# 
+
+
+## SCÈNE I
+
+    MERLIN, SEUL [1]
+Me voici dans Charonne, et voilà le logis  
+Où l'amour nous conduit : gardons d'être surpris,  
+Il fait, ma foi, bien chaud, j'ai bien eu de la peine,  
+Je suis venu sans boire. Ouf ! Je suis hors d'haleine.  
+Je risque dans ce lieu bien plus qu'au cabaret.  
+Monsieur Géronte a l'air d'un petit indiscret ;  
+S'il me voit, ce vieillard m'éconduira peut-être  
+Fort incivilement. D'ailleurs aussi mon maître  
+Est un autre brutal qui n'entend point raison,  
+Et veut être introduit ce soir dans la maison.  
+Entre ces deux écueils, je le donne au plus sage  
+À pouvoir se sauver ici de quelque orage.  
+Qu'on est fou ! Pour un autre aller risquer son dos !  
+Ah ! Qu'un grand philosophe a dit bien à propos  
+Qu'un bon valet était une pièce bien rare !  
+On dit que pour la noce ici tout se prépare.   [2]
+Je veux, en tapinois, faire la guerre à l'œil.  
+Déjà la nuit commence à s'habiller de deuil.  
+Lisette dans ces lieux m'a promis de se rendre  
+Pour savoir quel parti mon maître pourra prendre.  
+Mais j'entrevois quelqu'un.  
+
+
+## SCÈNE II
+Merlin, M. Grasset, tenant un plat de rôt ; M. La Montagne, tenant un panier de bouteilles.
+
+
+    MONSIEUR GRASSET, À MERLIN
+        Monsieur, voilà le rôt.  
+
+    MONSIEUR LA MONTAGNE, À MERLIN
+Monsieur, voilà le vin.  
+
+    MERLIN
+        Vous venez à propos.  
+À part.
+
+Ils me prennent sans doute ici pour l'économe :  
+Profitons de l'erreur, faisons le majordome.  
+
+    MONSIEUR GRASSET
+Voilà douze poulets à la pâte nourris ;  
+Autant de pigeons gras, dont les culs sont farcis ;  
+Poules de Caux, pluviers, une demi-douzaine  
+De râles de genêt, six lapins de garenne ;  
+Deux jeunes marcassins, avec quatre faisans :  
+Le tout est couronné de soixante ortolans ;  
+Et des perdrix, morbleu ! D'un fumet admirable.  
+Sentez plutôt. Quel baume !  
+
+    MERLIN
+        Oui, je me donne au diable ;  
+Ce gibier est charmant ; et je le garantis  
+Bourgeois, et né natif en plaine Saint-Denis.  
+
+    MONSIEUR GRASSET
+Monsieur !  
+
+    MERLIN
+        Oh ! Je connais vos tours. Qu'il vous souvienne  
+Qu'un jour, étant chez vous, par malheur la garenne  
+S'ouvrit, et qu'aussitôt on vit tous vos garçons  
+S'armer habilement de broches, de bâtons,  
+Et qu'ils eurent grand-peine, avec cet air si brave,   [3]
+À faire rembucher au fond de votre cave,  
+Et dans votre grenier, tous les lapins fuyards,  
+Qu'on voyait dans la rue abondamment épars.  
+
+    MONSIEUR GRASSET
+Je ne mérite pas, monsieur, un tel reproche.  
+
+    MERLIN, PREND DEUX PERDRIX, QU’IL MET DANS SA POCHE
+Donnez-moi deux perdrix : allez coucher en broche,  
+Et souvenez-vous bien, vous et vos galopins,  
+De mieux, à l'avenir, enfermer vos lapins.  
+À Monsieur La Montagne.
+
+Entrez. Pour vous, monsieur, qui portez la vendange,  
+Vous ne valez pas mieux ; on ne perd rien au change.  
+C'est là tout mon vin ?  
+
+    MONSIEUR LA MONTAGNE
+        Tout ; on n'est pas un fripon.  
+Il faut être en ce monde, ou marchand, ou larron.  
+
+    MERLIN, TIRANT UNE BOUTEILLE
+On est bien tous les deux. Voyons. Sans vous déplaire,  
+Cette bouteille-ci me parait bien légère,  
+Vous êtes un fripon, un scélérat.  
+
+    MONSIEUR LA MONTAGNE
+        Monsieur,  
+Vous me rendez confus.  
+
+    MERLIN
+        Un arabe, un voleur.  
+
+    MONSIEUR LA MONTAGNE
+Vous avez des bontés !  
+
+    MERLIN
+        Sans parler de la colle,  
+Ni des ingrédients dont votre art nous désole,  
+Je vous y tiens : voilà, monsieur le gargotier,  
+Des bouteilles qui sont faites d'un triple osier.  
+Ah, monsieur le pendard !  
+Il défait une bouteille couverte de trois ou quatre osiers eu sorte qu'il n'en demeure qu'un fort petit.
+
+
+    MONSIEUR LA MONTAGNE
+        Mais ce n'est pas ma faute.  
+Le marchand....  
+
+    MERLIN
+        Se peut-il volerie aussi haute ?  
+De l'or et des grandeurs, je n'en demande pas :  
+Juste ciel ! Seulement fais qu'avant mon trépas  
+Je puisse de mes yeux voir trois de ces corsaires,  
+Ornant superbement trois bois patibulaires,  
+Pour prix de leurs larcins, en public élevés,  
+Danser la sarabande à deux pieds des pavés !  
+Voilà les vœux ardents que fait pour votre avance  
+Le plus sincère ami que vous ayez en France.  
+Adieu.... Laissez-m'en deux, comme un échantillon,  
+Pour montrer qu'à bon droit vous passez pour fripon.  
+Il les met dans ses poches, et en prend une troisième.
+
+
+    MONSIEUR LA MONTAGNE
+Vous avez pris mon vin !  
+
+    MONSIEUR GRASSET
+        Qui me paiera ma viande ?  
+
+    MERLIN
+Je l'ai fait à dessein. Hippocrate commande,  
+Et dit en quelque endroit que, pour se bien porter,  
+Il se faut quelquefois dérober un souper.  
+
+
+## SCÈNE III
+
+    MERLIN, SEUL
+Si toute cette troupe, et celui qui l'envoie,  
+Etait au fond de l'eau, que j'en aurais de joie !  
+Voilà la noce en branle.  
+Il boit.
+
+
+
+## SCÈNE IV
+Lisette, Merlin.
+
+
+    LISETTE
+        Ah, Merlin ! Te voilà  
+La bouteille à la main ! Que diantre fais-tu là ?  
+
+    MERLIN
+Il boit.
+
+En t'attendant, tu vois que je me désennuie.  
+
+    LISETTE
+Tout est perdu, Merlin ; Léonor se marie.   [4]
+Monsieur de Sotencour, pour nous faire enrager,   [5]
+De Falaise à Paris vient par le messager :  
+Il arrive aujourd'hui ; et, pour lui faire fête,   [6]
+Hors ma maîtresse et moi, tout le monde s'apprête.  
+
+    MERLIN
+Il boit.
+
+Que j'en ai de chagrin !  
+
+    LISETTE
+        Pour faire un plein régal,  
+Ce soir, avant la noce, on donne ici le bal.  
+
+    MERLIN, VIDANT SA BOUTEILLE
+On donne ici le bal ? L'affaire est donc finie ?  
+
+    LISETTE [7]
+Autant vaut, mon enfant.  
+
+    MERLIN
+        Morbleu ! J'entre en furie,  
+En songeant qu'un morceau si tendre et si friand  
+Doit tomber sous la main d'un maudit Bas-normand,  
+Et de Falaise encor. Dis-moi : monsieur Géronte,  
+Père de Léonor, ne meurt-il point de honte ?  
+
+    LISETTE
+Ce Normand a, dit-il, plus de cent mille écus ;  
+Et, pour faire un mari, c'est autant de vertus.  
+
+    MERLIN
+Et que dit ta maîtresse ?  
+
+    LISETTE
+        Elle se désespère,  
+S'arrache les cheveux.  
+
+    MERLIN
+        Autant en fait Valère.  
+À table, aux Entonnoirs, dans un grand embarras,  
+Le pauvre diable attend sa vie ou son trépas.  
+
+    LISETTE
+Il peut donc maintenant, puisque l'affaire est faite,  
+Mourir quand il voudra.  
+
+    MERLIN [8]
+        Quoi ! Ma pauvre Lisette,  
+Laisserons-nous crever un pauvre agonisant ?  
+
+    LISETTE
+N'as-tu point de remède à ce mal si pressant ?  
+Quelque élixir heureux, quelque once d'émétique ?  
+
+    MERLIN
+Mais toi, ne peux-tu rien tirer de ta boutique ?   [9]
+J'ai fait le diable à quatre.  
+
+    LISETTE
+        Et j'ai fait le dragon,  
+Moi. J'attends même encore un mien parent Gascon,   [10]
+À qui j'ai fait le bec, et qui, ce soir, s'engage  
+À venir traverser ce maudit mariage.  
+
+    MERLIN
+Et quel est ce Gascon que tu mets dans l'emploi ?  
+
+    LISETTE
+C'est un fourbe, un fripon, à peu près comme toi.  
+
+    MERLIN
+Comme moi, des fripons ! Fijac seul me ressemble.  
+
+    LISETTE
+C'est lui.  
+
+    MERLIN
+        Je le verrai, nous agirons ensemble.  
+Si Valère pouvait seulement se montrer...  
+
+    LISETTE
+Bon ! Cela ne se peut. Comment pouvoir entrer ?  
+Tout le monde au logis vous connaît l'un et l'autre.  
+
+    MERLIN
+Ne sais-tu pas encor quelle adresse est la nôtre ?  
+On m'a dit que ce soir on doit danser, chanter.  
+
+    LISETTE
+On me l'a dit ainsi.  
+
+    MERLIN
+        J'en saurai profiter.  
+Aide-nous seulement.  
+
+    LISETTE
+        Je suis prête à tout faire.  
+
+    MERLIN
+Et moi je te promets que si, dans cette affaire,  
+Mon maître, plus heureux, épouse incognito,   [11]
+Je pourrai t'épouser de même ex abrupto.  
+
+    LISETTE
+Depuis que mon mari, par grâce singulière,   [12]
+D'un surtout de sapin, que l'on appelle bière,  
+Dont on sort rarement, a voulu se munir,  
+J'ai fait vœu d'être veuve, et je le veux tenir.  
+
+    MERLIN
+Oui-da, l'état de veuve est une douce chose :  
+On a plusieurs amants, sans que personne en glose ;  
+Et l'on fait justement, du soir jusqu'au matin,  
+Comme ces fins gourmets qui vont goûter le vin.  
+Sans acheter d'aucun, à chaque pièce on tâte :  
+On laisse celui-ci de peur qu'il ne se gâte ;  
+On ne veut pas de l'un, parce qu'il est trop vert,   [13]
+Celui-ci trop paillet, cet autre trop couvert ;  
+D'un tel vin la couleur est malade et bizarre ;   [14] [15]
+Cet autre, dans le chaud, peut tourner à la barre ;  
+L'un est trop plat au goût, l'autre trop pétillant ;   [16]
+Et ce dernier enfin a trop peu de montant.  
+Ainsi, sans rien choisir, de tout on fait épreuve :  
+Et voilà justement comme fait une veuve.  
+
+    LISETTE
+Une veuve a raison. J'aime mieux, prix pour prix,  
+Deux amants comme il faut, que cinquante maris.  
+Un époux est un vin difficile à revendre ;  
+On peut en essayer, niais il n'en faut point prendre.  
+
+    MERLIN
+Si tu voulais de moi faire un petit essai,  
+J'ai du montant de reste, et le vin assez gai.  
+Mais je m'arrête trop, et je laisse mon maître  
+Se distiller en pleurs, et s'enivrer peut-être.  
+Je te quitte, et je vais arrêter ses transports.  
+Si Lisette est pour nous, nous sommes assez forts.  
+
+
+## SCÈNE V
+
+    LISETTE, SEULE
+Je veux à les servir m'employer tout entière :   [17]
+Ce monsieur Bas-normand me choque la visière.  
+
+
+## SCÈNE VI
+Gillette, Lisette.
+
+
+    GILLETTE
+De la joie ! Ah, Lisette ! À la fin, dans la cour,  
+Arrive avec fracas monsieur de Sotencour :  
+Monsieur de Sotencour !  
+
+    LISETTE
+        Au diantre la bégueule,  
+Avec son Sotencour : voyez comme elle gueule !  
+
+    GILLETTE
+Je l'ai vu de mes yeux descendre de cheval :  
+Il amène un cousin, un grand original,  
+Qu'on avait mis en croupe ainsi qu'une valise.  
+Mais les voici tous deux.  
+
+    LISETTE
+        L'affaire est dans sa crise.  
+
+
+## SCÈNE VII
+Sotencour, Mathieu Crochet, en guêtres, un Valet, qui porte une lanterne et un sac.
+
+
+    SOTENCOUR
+Trop heureuse maison, et vous, murs trop épais,  
+Qui cachez à mes yeux le plus beau des objets,  
+Qui, dans vos noirs détours, recélez Léonore,   [18]
+Faites de votre pis, cachez-la mieux encore :  
+Mais bientôt, malgré vous, je verrai ses appas  
+Cap à cap, sans réserve, et du haut jusqu'en bas.  
+Je verrai son nez... son... Mais j'aperçois Lisette.  
+Maîtresse subalterne, adorable soubrette,  
+Tu me vois en ces lieux, en propre original,  
+Pour serrer le doux nœud du lien conjugal.  
+
+    LISETTE, À PART
+Le bourreau t'en fasse un qui te serre la gorge,  
+Maudit provincial !  
+
+    SOTENCOUR
+        De plaisir je regorge,  
+En songeant... Ah, cousin ! Qu'elle a le nez joli,  
+Le minois égrillard, le cuir fin et poli !  
+Sur son blanc estomac deux globes se soutiennent,  
+Qui pourtant, à l'envi, sans cesse vont et viennent,  
+Et qui font que d'amour je suis presque enragé.  
+Pour le reste, cousin, quel heureux préjugé !  
+L'eau m'en vient à la bouche.  
+
+    MATHIEU CROCHET, EN NORMAND
+        Est-elle brune ou blonde ?  
+
+    SOTENCOUR [19]
+Oh ! Non, elle est bai clair ; ses cheveux sont en onde,  
+Et fort négligemment flottent à gros bouillons  
+Sur sa gorge d'albâtre et vont jusqu'aux talons.  
+Son teint est... tricolore : elle est, ma foi, charmante.  
+À Lisette.
+
+La belle de me voir est bien impatiente ?  
+Comment se porte-t-elle ?  
+
+    LISETTE
+        Assez mal : elle dit  
+Qu'elle ne fait la nuit que tourner dans son lit.  
+
+    SOTENCOUR
+Dans peu nous calmerons le tourment qu'elle endure,  
+Et nous l'empêcherons de tourner, je te jure.  
+
+    LISETTE
+Sans cesse elle soupire.  
+
+    SOTENCOUR
+        Hé bien, cousin, tu vois :  
+Ai-je tort, quand je dis qu'elle est folle de moi ?  
+
+    LISETTE
+Tout est feinte, monsieur, souvent dans une fille :  
+Ne vous y fiez pas. L'une parait gentille,  
+Pour savoir se servir d'une beauté d'emprunt,  
+Mettre un visage blanc sur un visage brun ;  
+L'autre, de faux cheveux compose sa coiffure ;  
+Cette autre de ses dents bâtit l'architecture ;   [20]
+Celle-ci doit sa taille à son patin trompeur,  
+Et l'autre ses tétons à l'art de son tailleur.  
+Des charmes apparents on est souvent la dupe,  
+Et rien n'est si trompeur qu'animal porte-jupe.  
+
+    SOTENCOUR [21]
+Léonore aurait-elle aucun de ces défauts ?  
+
+    LISETTE
+Je ne dis pas cela ; mais le monde est si faux !   [22]
+Une fille toujours a quelque fer qui loche.  
+
+    MATHIEU CROCHET [23]
+Oh ! Cousin, n'allez pas acheter chat en poche.  
+Pour savoir si la belle est droite ou de travers,  
+Faites-la visiter avant par des experts.  
+
+    SOTENCOUR
+Bon, hon : va, s'il fallait que cette marchandise  
+Fût sujette à visite avant que d'être prise,  
+Malgré tant d'acheteurs, je te jure, cousin,  
+Qu'elle demeurerait longtemps au magasin.  
+Mais je la vois paraître.  
+
+
+## SCÈNE VIII
+Géronte, Léonore, Sotencour, Mathieu Crochet, Lisette.
+
+
+    GÉRONTE, À SOTENCOUR
+        Ah ! Serviteur, mon gendre :  
+Soyez le bien venu. Vous vous faites attendre :  
+Votre retardement allait m'inquiéter,  
+Et ma fille était prête à s'impatienter.  
+
+    SOTENCOUR
+J'en suis persuadé. Mais vous aussi, madame,   [24]
+D'impatients transports vous bourrelez mon âme :  
+Mson cœur, tout pantelant comme un cerf aux abois,  
+Par avance à vos pieds vient apporter son bois.  
+Vos beaux yeux désormais sont le nord ou le pôle  
+Où de tous mes désirs tournera la boussole :  
+Vos appas, vos attraits... qui vous font tant d'honneur...  
+Vous ne répondez rien, doux objet de mon cœur ?  
+
+    GÉRONTE
+La joie et le plaisir...  
+
+    SOTENCOUR
+        Je vous entends, beau-père ;  
+Le plaisir de me voir la gonfle de manière  
+Qu'elle ne peut parler.  
+
+    GÉRONTE
+        Justement.  
+
+    SOTENCOUR
+        Dans ce jour  
+Nous ne ferons plus qu'un, vous et moi Sotencour.  
+
+    LISETTE, À PART
+Ah, la belle union !  
+
+    SOTENCOUR
+        Moi bien fait, vous gentille,  
+Nous allons mettre au monde une belle famille.  
+Beau-père, on dit bien vrai ; quant à moi, j'y souscris :  
+On a beau faire, il faut prendre femme à Paris,   [25]
+L'on y taille en plein drap. Nos femmes de province  
+Ont l'abord repoussant, la mine plate et mince,  
+L'esprit sec et bouché, le regard de hibou,  
+L'entretien discourtois, et l'accueil loup-garou :  
+Mais le sexe, à Paris, a la mine jolie,  
+L'air attractif, surtout la croupe rebondie ;  
+Mais il est diablement sujet à caution.  
+
+    MATHIEU CROCHET [26]
+On dit qu'à forligner il a propension.  
+
+    SOTENCOUR
+Je veux croire pourtant, malgré la destinée,  
+Que je pourrai toujours aller tête levée ;  
+Que, malgré votre nez, et cet air égrillard,  
+Mon front, entre vos mains, ne court point de hasard.  
+Voudriez-vous, mignonne, à la fleur de mon âge,  
+Mettre inhumainement mon honneur au pillage ?  
+Me réserveriez-vous pour un tel accident ?  
+Hem ! Vous ne dites mot ?  
+
+    LISETTE, À PART
+        Qui ne dit mot, consent,  
+
+    SOTENCOUR
+Beau-père, jusqu'ici, s'il faut que je le dise,  
+La future n'a point encor dit de sottise ;  
+Peut-être qu'elle en pense : en tout cas, j'avertis  
+Qu'elle a l'entretien maigre, et le discours concis.  
+
+    GÉRONTE
+Tant mieux pour une femme.  
+
+    SOTENCOUR
+        Oui, quand par retenue  
+Elle caquette peu : mais si c'est une grue...  
+Dans ma famille, au moins, on ne voit point de sots.  
+Lui, par exemple, il a plus d'esprit qu'il n'est gros.  
+
+    MATHIEU CROCHET
+Le cousin me connaît. Oh ! Je ne suis pas cruche,  
+Tel que vous me voyez.  
+
+    SOTENCOUR
+        Lui... C'est la coqueluche  
+Des filles de Falaise. Il étudie en droit,   [27]
+Et sait tout son Cujas sur le bout de son doigt.  
+
+    MATHIEU CROCHET
+Oh ! Quand on a du code acquis quelque teinture,  
+Près des femmes de reste on sait la procédure :  
+Nous autres du barreau, nous sommes des gaillards.  
+
+    LISETTE
+Vous êtes avocat ?  
+
+    MATHIEU CROCHET
+        Et de plus, maître ès arts.  
+
+    SOTENCOUR
+Très altéré, beau-père, au moins ne vous déplaise :  
+On a soif volontiers, quand on vient de Falaise.  
+Allons tâter du vin.  
+
+    GÉRONTE
+        Allons, c'est fort bien dit.  
+
+    SOTENCOUR
+Je me sens là-dedans un terrible appétit.  
+
+    MATHIEU CROCHET
+Depuis trois jours je jeûne, afin d'être capable  
+De pouvoir dignement faire figure à table.  
+
+    LISETTE
+Monsieur est prévoyant.  
+
+    SOTENCOUR
+        Vraiment, c'est fort bien fait.  
+Allons, suivez-moi donc, cousin Mathieu Crochet.  
+Bientôt nous reviendrons, ô beauté, mon idole !  
+Voir si vous n'avez point retrouvé la parole.  
+
+
+## SCÈNE IX
+Léonore, Lisette, regardant partir Mathieu Crochet.
+
+
+    LISETTE [28]
+Voilà ce qui s'appelle un garçon fait au tour !  
+
+    LÉONORE
+Lisette, que dis-tu de monsieur Sotencour ?  
+
+    LISETTE
+Et de Mathieu Crochet, qu'en dites-vous, madame ?  
+
+    LÉONORE
+De monsieur Sotencour je deviendrais la femme !  
+À ne t'en point mentir, je suis au désespoir.  
+
+    LISETTE
+Oh ! Qu'il ne vous tient pas encore en son pouvoir !  
+Valère n'est pas homme à quitter la partie ;  
+II faut qu'il vous épouse, où j'y perdrai la vie.  
+
+
+## SCÈNE X
+Léonore, Lisette, Merlin, en maître de musique, avec des porteurs d'instruments dans l'un desquels est Valère.
+
+
+    MERLIN, CHANTE
+Pour attraper un rossignol,  
+Ré mi fa sol,  
+Je disais un jour à Nanette :  
+Il faut aller au bois ; mais chut !  
+Mi fa sol ut.  
+Je me trouvai dans sa cachette ;  
+Le rossignol y vint aussi,  
+Mi ré ut si ;  
+Et sitôt qu'il fut sur la branche,  
+Prêt à chanter de son bon gré,  
+Sol fa mi ré,  
+Elle le prit de sa main blanche,  
+Et puis dans sa cage le mit,  
+La sol fa mi.  
+
+    LISETTE
+Que cherchez-vous, monsieur, avec cet équipage ?  
+
+    MERLIN
+Vous voyez un Breton prêt à vous rendre hommage.  
+Depuis plus de vingt ans je rôde l'univers,  
+Où je fais admirer l'effet de mes concerts.  
+
+    LISETTE
+Tant mieux pour vous, monsieur, j'en ai l'âme ravie ;  
+Mais nous ne sommes point en goût de symphonie :  
+Laissez-nous, s'il vous plaît, avec tous nos ennuis.  
+
+    MERLIN
+Quand vous me connaîtrez... vous saurez qui je suis.  
+
+    LISETTE
+Je le crois bien.  
+
+    MERLIN
+        Je suis un musicien rare,  
+Charmé de mon savoir, gueux, ivrogne et bizarre.  
+
+    LISETTE
+Pour la profession, voilà de grands talents !  
+
+    MERLIN, À LÉONORE
+Voudriez-vous m'entendre ?  
+
+    LÉONORE
+        Oh ! Je n'ai pas le temps.  
+De chagrins trop cuisants j'ai l'âme pénétrée.  
+
+    MERLIN
+Tant mieux : je vous voudrais encor désespérée.  
+
+    LISETTE
+Elle n'en est pas loin.  
+
+    MERLIN
+        C'est comme je la veux,  
+Pour donner à mon art un exercice heureux.  
+
+    LÉONORE
+Pour des Bretons, monsieur, gardez votre science.  
+
+    MERLIN
+J'ai tout ce qu'il vous faut, autant qu'homme de France.  
+Tout Breton que je suis, je sais votre besoin.  
+
+    LISETTE, À LÉONORE
+Ne le renvoyons pas, puisqu'il vient de si loin.  
+
+    MERLIN
+Bans un concert d'hymen, lorsque quelqu'un discorde,  
+Je sais juste baisser ou hausser une corde ;  
+Nul ne sait de l'amour mieux le diapason,  
+Ni mettre, comme moi, deux cœurs à l'unisson.  
+
+    LISETTE
+Oh ! Vous aurez grand-peine, avec votre industrie,  
+À faire ici chanter deus amants en partie.  
+
+    MERLIN
+J'ai dans cet étui-là, madame, un instrument  
+Qui calmerait bientôt vos maux, assurément :  
+Il est doux, amoureux, insinuant et tendre,  
+Et qui va droit au cœur.  
+
+    LISETTE
+        Ne peut-on point l'entendre ?  
+
+    LÉONORE
+Ah ! Laisse-moi, Lisette, en proie à mon malheur.  
+
+    LISETTE
+Madame, un air ou deux calment bien la douleur.  
+
+    MERLIN
+Écoutez-le, de grâce, un seul moment sans peine ;  
+Et, s'il ne vous plaît pas, soudain je le rengaine.  
+Il ouvre l'étui dans lequel est Valère.
+
+Cet instrument, madame, est-il de votre goût ?  
+
+    LÉONORE
+Que vois-je ? C'est Valère !  
+
+    LISETTE
+        Et Merlin !  
+
+    MERLIN
+        Point du tout.  
+Je suis un Bas-breton.  
+
+    VALÈRE
+        Non, belle Léonore,  
+Je n'ai pu résister au feu qui me dévore ;  
+Et puisqu'on rompt les nœuds qui nous avaient liés,  
+Je viens, dans ce moment, expirer à vos pieds.  
+
+    LÉONORE
+À quoi m'exposez-vous ?  
+
+    VALÈRE
+        Pardonnez à mon zèle.  
+
+    LÉONORE
+Mon père va venir.  
+
+    LISETTE
+        Je ferai sentinelle.  
+
+    LÉONORE
+Mais que prétendez-vous ?  
+
+    VALÈRE
+        Vous prouver mon amour.  
+Pour détourner l'hymen qu'on veut faire en ce jour,  
+Souffrez que cet amour soit en droit de tout faire.  
+
+    LISETTE
+Gare ! Tout est perdu, j'aperçois votre père.  
+
+    MERLIN, À VALÈRE
+Rentrez vite.  
+Valère rentre dans l'étui.
+
+
+    LISETTE
+        Non, non, ce n'est pas encor lui.  
+
+    MERLIN [29] [30]
+Maugrebleu de la masque ! Allons rouvrir l'étui.  
+C'est Lisette, monsieur, qui cause ce vacarme.  
+À Lisette.
+
+Fais mieux le guet au moins : une seconde alarme  
+Démonterait, morbleu, I'instrument pour toujours.  
+
+    VALÈRE, SORTANT DE L’ÉTUI
+Ah, madame ! Aujourd'hui secondez nos amours ;  
+Évitez d'un rival l'odieuse poursuite ;  
+Ce soir, pendant le bal, livrez-vous à sa suite.  
+
+    LÉONORE
+Mais comment ?  
+
+    VALÈRE
+        De Merlin vous saurez pleinement...  
+
+    LISETTE
+Vite, vite, rentrez, monsieur de l'instrument.  
+Ah, Merlin ! Pour le coup, c'est Géronte en personne.  
+
+    VALÈRE
+Ah, madame !...  
+
+    MERLIN, À VALÈRE
+        Et rentrez.  
+Valère rentre dans l'étui,
+
+
+    LÉONORE, À MERLIN
+        A toi je m'abandonne.  
+Elle sort.
+
+
+
+## SCÈNE XI
+Géronte, Sotencour, Lisette, Merlin, Valère, dans l'étui.
+
+
+    MERLIN, FEIGNANT D’ÊTRE EN COLÈRE
+Oui, vous êtes un sot en bécarre, en bémol,  
+Par la clef d'F ut fa, C sol ut, G ré sol.  
+De la sorte insulter la musique bretonne !  
+
+    SOTENCOUR
+Lisette, quelle est donc cette mine bouffonne ?  
+
+    LISETTE
+C'est un musicien bas-breton !  
+
+    SOTENCOUR
+        Bas-breton.  
+Cet homme doit chanter sur un diable de ton ;  
+Je crois dès à présent sa musique enragée :   [31]
+Jamais, de son pays, il n'est venu d'Orphée ;   [32]
+Pour des doubles bidets, passe.  
+
+    MERLIN
+        Fat, animal,   [33]
+Vil carabin d'orchestre, atome musical,  
+Par la mort...  
+
+    SOTENCOUR, L’ARRÊTANT
+        Doucement.  
+
+    MERLIN
+        Tenez-moi, je vous prie ;  
+Si j'échappe une fois, je veux avoir sa vie.  
+Laissez...  
+Il donne sur les doigts de Sotencour.
+
+
+    SOTENCOUR
+        Si je te tiens, je veux être empalé.  
+
+    MERLIN, REVENANT
+Comment ! Me soutenir que mon air est pillé !  
+Un air délicieux, que j'estime, que j'aime,  
+Et que j'ai pris plaisir à composer moi-même   [34]
+Dans Quimper-Corentin.  
+
+    GÉRONTE
+        Il a tort.  
+
+    LISETTE
+        Entre nous,  
+Cela ne se dit point.  
+
+    SOTENCOUR
+        La, la, consolez-vous,  
+Ce n'est pas un grand mal ; on ne voit point, en France,  
+Punir de ces larcins la fréquente licence.  
+Mais que vois-je ? Est-ce à vous ce petit instrument ?  
+
+    MERLIN
+Pour vous servir, monsieur,  
+
+    SOTENCOUR
+        J'en joue élégamment ;  
+Je vais vous régaler d'un petit air.  
+
+    MERLIN, L’ARRÊTANT
+        De grâce,  
+Je ne puis m'arrêter... Il faut...  
+
+    SOTENCOUR
+        Sur cette basse  
+Je veux que l'on m'entende un moment préluder.  
+
+    MERLIN
+Vous seriez trop longtemps, monsieur, à l'accorder ;  
+Et, de plus, mon valet a la clef dans sa poche.  
+
+    SOTENCOUR
+Tous ces gens-là sont faits de croche et d'anicroche.  
+Je vous dis que je veux....  
+
+    LISETTE
+        Vous en jouerez fort mal ;  
+L'instrument est breton.  
+
+    MERLIN
+        Et tant soit peu brutal :  
+Vous l'entendrez tantôt, je me ferai connaître ;  
+Et vous verrez pour lors quel homme je puis être.  
+
+    SOTENCOUR
+Quoi ! Vous voulez, monsieur, donner concert céans ?  
+
+    MERLIN
+Je cherche à me produire aux yeux d'habiles gens.  
+
+    SOTENCOUR
+Vous venez tout à point. Ce soir je me marie ;  
+De la noce et du bal souffrez que je vous prie.  
+
+    MERLIN
+Volontiers : j'y prétends figurer comme il faut.  
+
+    LISETTE, À MERLIN
+Faites toujours porter votre instrument là-haut.  
+
+    SOTENCOUR, À MERLIN
+Allons, venez, monsieur ; je m'en vais vous conduire :  
+Moi-même, dans le bal, je veux vous introduire.  
+
+    MERLIN, EN RAPPORTANT SON ÉTUI [35]
+Et je m'introduirai de moi-même au soupé.  
+À part.
+
+Ma foi, nous et l'étui, l'avons bien échappé.  
+
+
+## SCÈNE XII
+Sotencour, Lisette.
+
+
+    SOTENCOUR
+Hé bien, que dirons-nous ? Où donc est ta maîtresse ?  
+Je vois qu'à me trouver la belle peu s'empresse.  
+Si nous ne nous cherchons jamais plus volontiers,  
+Je ne lui promets pas grand nombre d'héritiers.  
+
+    LISETTE
+Bon, je sais des maris, qui, pour éviter noise,  
+N'ont jamais approché leurs femmes d'une toise,  
+Et qui ne laissent pas d'avoir en leur maison  
+Un grand nombre d'enfants qui portent tous leur nom.  
+
+    SOTENCOUR
+Je sais que Léonore aime un certain Valère,  
+Un fat, un freluquet, qui n'a l'heur de lui plaire  
+Que par son air pincé ; mais c'est un petit fou,  
+Sans esprit, sans mérite, et qui n'a pas un sou :  
+On m'a dit seulement que sa langue babille.  
+
+    LISETTE
+Eh ! Que faut-il de plus pour toucher une fille ?  
+
+    SOTENCOUR
+Oui !... Dis à Léonore, en termes clairs et nets,   [36]
+Que je ne veux pas être époux ad honores.  
+Vois-tu, je ne suis pas de ces gens débonnaires  
+Qui font valoir leur femme en des mains étrangères ;  
+Et, mettant à profit un salutaire affront,  
+Lèvent, à petit bruit, un impôt sur leur front.  
+
+
+## SCÈNE XIII
+Le Baron d'Aubignac, Gascon ; Lisette, Sotencour.
+
+
+    LE BARON
+Ah ! Monsieur, jé vous cherche. Eh ! Permettez dé grâce  
+Qué, sans plus différer, ici jé vous embrasse.  
+
+    SOTENCOUR
+Pour la première fois, l'accueil est fraternel.  
+
+    LE BARON
+N'est-cé pas vous, monsieur, qui vous nommez un tel ?  
+
+    SOTENCOUR
+Oui, je me nomme un tel ; mais j'ai, ne vous déplaise,  
+Encore un autre nom.  
+
+    LE BARON
+        Jé viens vous montrer l'aise  
+Qué j'ai d'avoir appris qué vous vous mariez.  
+
+    SOTENCOUR
+Je ne mérite pas, monsieur, tant d'amitiés.  
+
+    LE BARON
+Nul ne prend plus qué moi dé part à cette affaire.  
+
+    SOTENCOUR
+Et pourquoi, s'il vous plaît, peut-elle tant vous plaire ?  
+
+    LE BARON
+Pourquoi ? Cetté démande est bonne ! Maintenant  
+Qué vous allez rouler déssus l'argent comptant,  
+Vous né ferez, jé crois, loyal comme vous êtes,  
+Nulle difficulté de bien payer vos dettes.  
+
+    SOTENCOUR
+Grâces au ciel, monsieur, je ne dois nul argent,  
+Et vais le front levé sans crainte du sergent.  
+
+    LE BARON [37]
+Cinq cents louis pour vous, c'est une vagatelle ;  
+Allons, payez-les-moi.  
+
+    SOTENCOUR
+        La demande est nouvelle !  
+Sotencour est mon nom, me connaissez-vous bien ?  
+
+    LE BARON
+Sotencour... Justement, c'est pour vous qué jé vien.  
+
+    SOTENCOUR
+Je vous dois quelque chose ?  
+
+    LE BARON
+        Hé donc, lé tour est drôle !  
+C'est cet argent, monsieur, qué sur votre parole,  
+Jé vous ai très gagné, l'autre hiver, à trois dés.  
+
+    SOTENCOUR
+À moi, monsieur ?  
+
+    LE BARON
+        À vous.  
+
+    SOTENCOUR
+        Et, parbleu ! Vous rêvez ;  
+Pour connaître vos gens, mettez mieux vos lunettes,  
+
+    LE BARON
+Comment ! Chétif mortel, vous déniez vos dettes ?  
+Vous né connaissez plus lé baron d'Aubignac,  
+Vicomté : dé Dougnac, Croupignac, Foulignac,  
+Gentilhomme gascon, plus noblé qué personne,  
+D'uné race ancienne autant qué la Garonne ?  
+
+    SOTENCOUR
+Quand elle le serait encor plus que le Nil,  
+Votre propos, monsieur, n'est ni beau ni civil.  
+Je ne vous connais point, ni ne veux vous connaître.  
+
+    LE BARON
+Il né mé connaît pas ! Lé scélérat ! Lé traître !  
+Né vous souvient-il plus dé cet hiver dernier,  
+Quand notré régiment fut chez vous en quartier,  
+Un jour dé carnaval, chez cetté conseillère   [38]
+Qui m'adorait... Hé donc, vous mémorez l'affaire ?  
+
+    SOTENCOUR
+Pas plus qu'auparavant : je ne sais ce que c'est.  
+
+    LE BARON, METTANT LA MAIN À SON ÉPÉE
+Ah ! Jé vous en ferai souvenir, s'il vous plaît ;   [39]
+Car, cadédis, jé veux qué lé diable mé scie...  
+
+    LISETTE, L’ARRÊTANT
+Ah ! Tout beau : dans ce lieu point de bruit, je vous prie ;  
+Monsieur est honnête homme, et qui vous paiera bien.  
+
+    SOTENCOUR
+Moi, payer ! Hé pourquoi, si je ne lui dois rien ?  
+
+    LE BARON
+Vous né mé dévez rien ?  
+
+    LISETTE
+        Un Gascon n'est pas homme  
+À venir, sans sujet, demander une somme.  
+
+    SOTENCOUR
+Un Gascon ! Un Gascon a grand besoin d'argent ;  
+Et pourvu qu'il en trouve, il n'importe comment.  
+Jamais de son pays ne vint lettre de change ;  
+Et, quoiqu'il mange peu, si faut-il bien qu'il mange.  
+
+    LISETTE
+Donnez-lui seulement deux ou trois cents écus.  
+
+    SOTENCOUR
+J'aimerais mieux cent fois vous voir tous deux pendus.  
+
+    LE BARON, L’ÉPÉE À LA MAIN
+C'est trop contre un faquin réténir ma colère.  
+
+    LISETTE, AU BARON
+Hé ! De grâce, monsieur !  
+
+    LE BARON
+        Non, non, laissez-moi faire,  
+Qué jé lé perce à jour.  
+
+    SOTENCOUR, CRIE
+        À l'aide ! Je suis mort.  
+
+
+## SCÈNE XIV
+Géronte, Sotencour, Lisette, Le Baron d'Aubignac.
+
+
+    GÉRONTE
+Pour quel sujet, messieurs, criez-vous donc si fort ?  
+
+    LE BARON [40]
+Un atomé bourgeois qui perd sur sa parole,  
+Et né veut pas payer ! ... Mais cé qui mé console,  
+Jé veux dévénir nul, ou j'en aurai raison.  
+
+    GÉRONTE
+Que veut dire cela ?  
+
+    SOTENCOUR, GÉRONTE
+        Monsieur, c'est un fripon,  
+Un Gascon affamé qui cherche à vous surprendre.  
+
+    LE BARON, À GÉRONTE, VOULANT PERCER SOTENCOUR
+Rétirez-vous, monsieur.  
+
+    GÉRONTE
+        Ah ! Tout beau, c'est mon gendre.  
+
+    LE BARON
+Cet homme est votré gendre ?  
+
+    GÉRONTE
+        II le sera dans peu.  
+
+    LE BARON
+Tant mieux : Vous nié paierez cé qu'il mé doit du jeu.  
+Jé fais arrêt sur vous, sur la fille et la dote.   [41]
+
+    GÉRONTE, À SOTENCOUR
+Quoi ! Vous avez perdu ?  
+
+    SOTENCOUR
+        Je vous dis qu'il radote.  
+Je ne sais...  
+
+    LE BARON, À GÉRONTE [42]
+        Nuit et jour il hanté les brélans ;  
+Il doit encore au jeu plus dé vingt millé francs.  
+
+    GÉRONTE
+Plus de vingt mille francs !  
+
+    LE BARON
+        Oui, monsieur.  
+
+    SOTENCOUR
+        Je vous jure,  
+Foi de vrai Bas-normand, que c'est une imposture ;  
+Que je ne comprends rien à ce maudit jargon,   [43] [44]
+Et ne sais, pour tout jeu, que l'oie et le toton.  
+
+    LE BARON
+Vous mé gâtez ici bien du temps en paroles.  
+Monsieur, jé veux toucher mes quatré cents pistoles,  
+Ou, cadédis, jé veux lé saigner à l'instant.  
+
+    GÉRONTE
+Si mon gendre vous doit...  
+
+    LE BARON
+        S'il mé doit !  
+
+    GÉRONTE
+        Je prétends  
+Que vous soyez payé ; mais, sans plus de colère,  
+Permettez qu'à demain nous remettions l'affaire.  
+Je marie aujourd'hui ma fille, et retiendrai  
+Sur sa dot cet argent, que je vous donnerai.  
+
+    LE BARON
+C'est parler comme il faut. Quand on est raisonnable,  
+Tout Gascon qué jé suis, jé suis doux et traitable.  
+Adieu. Jusqu'à déinain, Mais souvenez-vous-en,  
+Qué j'ai votré parole, et grand besoin d'argent.  
+
+
+## SCÈNE XV
+Géronte, Lisette, Sotencour.
+
+
+    GÉRONTE
+Vous êtes donc joueur ?  
+
+    SOTENCOUR [45]
+        Que l'on me pilorie,  
+Si j'ai hanté ni vu ce Gascon de ma vie.  
+
+    GÉRONTE
+Mais pourquoi viendrait-il...  
+
+    SOTENCOUR
+        C'est un fourbe ; et sans vous  
+J'allais vous le bourrer comme il faut.  
+
+    LISETTE
+        Entre nous,  
+Vous avez d'un joueur acquis la renommée ;  
+Et le feu, comme on dit, ne va point sans fumée.  
+
+    SOTENCOUR
+Oh ! Quittons ce propos, et ne songeons qu'au bal.  
+J'aperçois le cousin ; il n'est, ma foi, point mal.  
+
+
+## SCÈNE XVI
+Mathieu Crochet, en habit de Cupidon,Géronte, Sotencour, Lisette, Léonore, couverte d'une grande mante de Taffetas, un masque à la main ; une Troupe de différents Masques.
+
+
+    MATHIEU CROCHET
+Me voilà, mon cousin, dans mon habit de masque.  
+
+    SOTENCOUR
+L'équipage est galant, et l'attirail fantasque.  
+Ma prétendue aussi n'est pas mal, sur ma foi ;  
+Mon cœur, en la voyant, me dit je ne sais quoi.  
+
+    LÉONORE
+Oh ! Qu'il ne vous dit pas tout ce que le mien pense !  
+
+    LISETTE
+Le cousin est masqué mieux que personne en France ;   [46]
+Il est tout à manger : les femmes, dans le bal,  
+Le prendront pour l'Amour en propre original.  
+
+    MATHIEU CROCHET
+N'est-il pas vrai ?  
+
+    SOTENCOUR
+        Parbleu, plus d'une curieuse  
+De l'aîné des Amours va tomber amoureuse,  
+Et voudra de plus près connaître le cousin.  
+
+    MATHIEU CROCHET
+Qu'on s'y frotte... on verra.  
+
+    LISETTE
+        Oh ! Le petit lutin !  
+Qu'il va blesser de cœurs !  
+
+
+## SCÈNE XVII
+Merlin, Géronte, Léonore, Lisette, Le Baron d'Aubignac, Sotencour, Mathieu Crochet, et tous les Masques.
+
+
+    MERLIN
+        Monsieur, je viens vous dire  
+Que mon concert est prêt.  
+
+    SOTENCOUR
+        Çà, ne songeons qu'à rire.   [47]
+Cousin, il faut ici remuer le gigot.  
+
+    MATHIEU CROCHET
+Laissez-moi faire ; allez, je ne suis pas un sot.  
+Je vais plus qu'on ne veut, quand on m'a mis en danse.  
+À Merlin.
+
+Allons, ferme, monsieur, il est temps qu'on commence.  
+C'est à nous de danser et d'entamer le bal.  
+Dans le mouvement qu'ou fait pour commencer le bal, le Baron couvert d'une pareille mante que Léonore, prend sa place, et Sotencour danse avec lui. Léonore et Lisette sortent pendant leur danse.
+
+
+    SOTENCOUR
+Qu'en dites-vous, beau-père ? Eh ! Cela va-t-il mal ?  
+
+
+## SCÈNE XVIII
+Gillette, Géronte, Sotencour, Merlin, Le Baron, et tous les Masques.
+
+
+    GILLETTE
+Au secours ! Au secours ! Votre fille, on l'emporte ;   [48]
+Des carêmes-prenants lui font passer la porte.  
+
+    GÉRONTE
+Que dis-tu là ?  
+
+    GILLETTE
+        Je dis que quatre hommes, là-bas,  
+La font aller, monsieur, plus vite que le pas.  
+
+    GÉRONTE
+Quoi ! Ma fille...  
+
+    GILLETTE
+        Oui, monsieur.  
+
+    SOTENCOUR
+        La plaisante nouvelle !  
+Tu rêves : tiens, voilà que je danse avec elle,  
+
+    MERLIN
+Monsieur, laissez-la dire ; elle a perdu l'esprit.  
+
+    GILLETTE
+Non, vous dis-je.  
+
+    SOTENCOUR
+        On te dit que dessous cet habit  
+C'est Léonore.  
+
+    GILLETTE
+        Et non ; je n'ai pas la berlue,  
+Je viens de la quitter à l'instant dans la rue.  
+
+    SOTENCOUR
+Au diable la pécore avec ses visions !  
+Il faut te détromper de tes opinions.  
+Tiens, voilà Léonor.  
+Il ôte le masque à la prétendue Léonore, et on reconnaît le Baron.
+
+
+    LE BARON
+        Serviteur.  
+
+    SOTENCOUR
+        C'est le diable !  
+
+    LE BARON
+Prêt à vous emporter ; mais pourtant fort traitable.  
+Vous mé dévez, cherchons quelque accommodement.   [49]
+J'ai votré Léonor pour mon nantissement,  
+Et jé la fais conduire au château dé la Garde :  
+Dé l'argent, jé la rends ; point d'argent, jé la garde.  
+
+    GÉRONTE
+On m'enlève ma fille ! Au secours ! Au voleur !  
+
+
+## SCÈNE XIX
+Valère, Géronte, Sotencour, Mathieu Crochet, Merlin, Le Baron, et tous les Masques.
+
+
+    VALÈRE
+Monsieur, pour Léonor, n'ayez aucune peur ;  
+Loin qu'on veuille lui faire aucune violence,  
+Contre un hymen injuste on a pris sa défense.  
+
+    GÉRONTE
+Ah, Valère, c'est vous !  
+
+    SOTENCOUR
+        Quoi ! Valère... Comment !  
+Que veut dire ceci ?  
+
+    VALÈRE
+        Que très civilement  
+Je viens ici vous dire, en parlant à vous-même,  
+Que Léonor, pour vous, sent une haine extrême ;  
+Qu'elle mourrait plutôt que...  
+
+    SOTENCOUR
+        Léonor me hait ?  
+
+    VALÈRE
+Si vous ne m'en croyez, croyez-en ce billet.  
+
+    SOTENCOUR, LIT
+« Pour éviter l'hymen dont mon amour murmure,  
+Et pour ne jamais voir votre sotte figure,  
+J'irais au bout du monde, et plus loin même encor.  
+On ne peut vous haïr plus que fait Léonor. »  
+En termes clairs et nets cette lettre s'explique,   [50]
+Et le tour n'en est point trop amphibologique.  
+Oh bien, la belle peut revenir sur ses pas  
+Elle aurait beau courir, je ne la suivrais pas.  
+Je vous cède les droits que j'ai sur l'accordée,  
+Et ne me charge point de fille hasardée.  
+
+    GÉRONTE
+Oh ! Ma fille est à vous.  
+
+    SOTENCOUR
+        Non, parbleu, par bonheur :  
+Je lui baise les mains et la rends de bon cœur.  
+
+    GÉRONTE
+Vous me faites plaisir, monsieur, de me la rendre.  
+
+    SOTENCOUR
+Oh ! Vous ne manquerez, sur ma foi, pas de gendre,  
+Ni vos petits-enfants de père. Allons, Mathieu,  
+Retournons à Falaise.  
+
+    MATHIEU CROCHET
+        Adieu, messieurs, adieu.  
+
+    MERLIN
+Place à Mathieu Crochet.  
+
+
+## SCÈNE XX
+Léonore, Géronte, Valère, Lisette, Merlin, Le Baron, et tous les Masques.
+
+
+    LÉONORE
+        À vos genoux, mon père...  
+
+    GÉRONTE
+Oublions le passé, ma fille ; en cette affaire,  
+Je n'ai point prétendu forcer tes volontés.  
+
+    LÉONORE
+Que ne vous dois-je point pour de telles bontés !  
+
+    GÉRONTE
+Pour vous, dont je connais le bien et la famille,  
+Valère, je veux bien que vous ayez ma fille.  
+
+    VALÈRE
+Monsieur...  
+
+    GÉRONTE
+        Nous vous devons assez en ce moment,  
+De nous avoir défait de ce couple normand.  
+
+    MERLIN
+L'honnête homme, morbleu ! Vive monsieur Géronte !  
+Ma foi, sans moi, la belle en avait pour son compte.  
+Puisque tout est d'accord maintenant entre vous,  
+Rions, chantons, dansons, et divertissons-nous.   [51]
+Tous les Masques qui sont sur le théâtre font une espèce de bal ; et, après qu'on a dansé un passe-pied, le Baron chante l'air gascon suivant :
+
+
+    LE BARON
+Cadédis, vive la Garonne !  
+En valur on n'y craint personne ;  
+Les faquins y sont des héros :  
+Jé vous lé dis en quatré mots,   [52]
+En amour, comme au jeu, jé vrille,  
+Et, comme un dé, j'escamote uné fille.  
+On reprend la danse, après laquelle Merlin chante on passe-pied breton.
+
+
+    MERLIN
+Un jour de printemps,  
+Tout le long d'un verger,  
+Colin va chantant,  
+Pour ses maux soulager :  
+Ma bergère, laisse-moi,  
+La la la la, rela, rela :  
+Ma bergère, laisse-moi  
+Prendre un tendre baiser.  
+
+    LES MASQUES SE PRENNENT PAR LA MAIN, ET DANSENT EN CHANTANT :
+Ma bergère, laisse-moi,  
+La la la la, rela, rela :  
+Ma bergère, laisse-moi  
+Prendre un tendre baiser.  
+
+    MERLIN
+La belle, à l'instant,  
+Répond à son berger :  
+Tu veux, en chantant,  
+Un baiser dérober ?  
+
+    UNE BERGÈRE
+Non, Colin, ne le prends pas,  
+La la la la, rela, rela :  
+Non, Colin, ne le prends pas,  
+Je vais te le donner.  
+
+    LE CHŒUR
+Non, Colin, ne le prends pas,  
+La la la la, rela, rela :  
+Non, Colin, ne le prends pas,  
+Je vais te le donner.  
+Tous les Masques ayant formé une danse en rond, se retirent, et Merlin chante an Parterre le couplet suivant :
+
+
+    MERLIN
+Si mon air breton  
+A su vous divertir,  
+Messieurs, d'un haut ton,  
+Daignez nous applaudir :  
+Mais s'il ne vous plaisait pas,  
+La la la la, rela, rela ;  
+Mais s'il ne vous plaisait pas,  
+Dites-le-nous tout bas.  
+
+-------
+
+
+[1] Charonne : quartier de Paris, hors les murs au XVIIème siècle
+
+[2] Guere à l'œil : Faire la guerre à l'œil, observer avec soin ce qui se fait afin de profiter des conjonctures. L
+
+[3] Rembucher : Terme de vénerie. Rembucher un cerf, suivre la voie jusqu'à la coulée par laquelle il est rentré dans le bois. L
+
+[4] Selon les nécessités de la métrique, on a "Léonore" ou "Léonor".
+
+[5] Massager : est aussi celui qui est établi pour porter ordinairement les paquets et les hardes d'une ville à une autre. Le Messager de Poitiers à Paris. Le Messager de Bordeaux. On a établi des Messagers dans toutes les villes du Royaume. Ac 1762
+
+[6] On lit dans toutes les éditions autres que celle originale, "il arrive en ce jour, que l'on û substitué au mot aujourd'hui," pour éviter l'hiatus. Voyez à ce sujet la note ci-après, dans le Distrait, à la fin de la scène VII, acte IV. (G. A. C.)
+
+[7] Autant vaut : Sans complément, également, semblablement. Valoir autant. L
+
+[8] Emétique : est un remede qui purge avec violence par haut et par bas, fait de la poudre et du beurre d'antimoine preparé, dont on a separé les sels corrosifs par plusieurs lotions. Le vin émétique s'est mis en reputation. La poudre émetique se nomme aussi Algarot, du nom de son Auteur. Quelques-uns la nomment Mercure de vie, mais fort mal à propos. F
+
+[9] Diable à quatre : Faire le diable, le diable à quatre, faire grand bruit, grand tumulte, se donner beaucoup de mouvement pour une chose. L
+
+[10] Bec : On lui a fait le bec, c'est-à-dire, on l'a instruit, on lui a dit ce qu'il devait dire ou faire. L
+
+[11] Ex abrupto : loc. latine. Brusquement, sans préambule. L
+
+[12] Surtout : Sorte de vêtement que l'on met sur les autres habits. L
+
+[13] Payet : En parlant du vin rouge, peu chargé de couleur. L
+
+[14] Barre : Pièce de bois transversale qui soutient les fonds d'un tonneau par le milieu. L
+
+[15] Tourner : S'altérer, prendre une mauvaise qualité. Le lait a tourné sur le feu. Ce vin tourne à l'aigre. L
+
+[16] Montant : Goût relevé de certaines choses, de la vapeur qui sort de certaines substances. Ce vin a du montant, n'a pas de montant. L
+
+[17] Visière : (sens figurer) Blesser, choquer la visière, faire chagrin à voir. L
+
+[18] Pis : Faire du pis qu'on peut, faire le plus de mal qu'on peut. L
+
+[19] Bai : D'un rouge brun, en parlant des chevaux. Variétés : bai fauve, bai clair, bai cerise, bai foncé, bai châtain, bai marron, bai brun. L
+
+[20] Patin : Soulier à semelle fort épaisse, que les femmes portaient autrefois pour se grandir. L
+
+[21] Aucun : au sens de quelque, s'emploie très bien dans les phrases dubitatives ou interrogatives, mais autrement c'est un archaïsme. L
+
+[22] Locher : Vieux mot qui signifiait autrefois ébranler. Il n'est plus en usage qu'en cette phrase proverbiale : il y a toûjours en son fait quelque fer qui loche. F
+
+[23] Acheter chat en poche : conclure une affaire sans examen. L
+
+[24] Bourrler : Tourmenter comme ferait le bourreau. La conscience bourrèle les méchants. L
+
+[25] Plein drap : On dit proverbialement et figurément, qu'Un homme peut tailler en plein drap, quand il a amplement et abondamment tout ce qui peut servir à l'exécution d'un dessein, d'un plan, d'un projet. Ac 1762
+
+[26] Forligner : Dégénérer de la vertu de ses ancêtres. Familièrement et par plaisanterie, il se dit d'une fille qui a manqué à l'honneur. L
+
+[27] Il connaît son traité de droit par cœur. Cujas est un juriconsulte français du XVIe siècle et le représentant le plus brillant de l'École historique de droit romain.
+
+[28] Fait au tour : Cette femme a le bras, la main, la gorge faite au tour, elle les a parfaitement bien faits. On dit de même : un homme fait au tour, une femme faite au tour. L
+
+[29] Maugrebleu : Espèce de juron. Ethym. : Mau pour mal, gré, et bleu par euphémisme pour Dieu : mauvais gré de Dieu.
+
+[30] Masque : Terme familier d'injure dont on se sert quelquefois pour qualifier une jeune fille, une femme, et lui reprocher sa laideur ou sa malice. L
+
+[31] Orphée : Personnage mythologique renommé par son excellence comme musicien et comme chantre, et dont on fit plus tard un philosophe et un théologien. Fig. Tout poëte ou musicien illustre. L
+
+[32] Bidet : Cheval de petite taille. Les meilleurs bidets viennent en France. Ce mot a aussi signifié, un petit pistolet de poche. On appelle double bidet, un cheval de taille mediocre au dessus de celle du bidet. F
+
+[33] Carabin : Chevau-léger armé d'une petite arme à feu qui tire avec un rouet.On appelle figurément un Carabin, celui qui entre en quelque compagnie ou dans quelque jeu, sans s'y arrêter longtemps, qui ne fait que tirer son coup et s'en va. T
+
+[34] Quimper : Ville de France. Corosopitum, autrefois Curiosolitae. Elle est dans la Bretagne sur l'Oder, à vingt-trois lieues de Vannes, vers le couchant. Quimper a un Évêché suffragant de Tours. T
+
+[35] Souper : Repas, ordinaire du soir (l'usage du souper tend à disparaître dans les grandes villes). L
+
+[36] Ad honores : Se dit de certains titres qui, n'apportant aucun revenu, et ne demandant aucun travail, n'ont que l'apparence dont on se fait honneur. L
+
+[37] Vagatelle, ou Bagatelle : Chose de peu d'importance. C'est un homme qui s'amuse à des bagatelles. Il a donné cette maison pour une bagatelle. F
+
+[38] Mémorer : Avoir en sa mémoire. Peu usité. On dit plutôt remémorer. L
+
+[39] Cadédis : Jurement qu'on met habituellement dans la bouche des Gascons. L
+
+[40] Atomé : est mis pour atome. ATOME, est aussi un nom qu'on a donné au plus petit de tous les animaux qu'on a decouvert avec les plus excellents microscopes.F
+
+[41] On voit facilement que l'orthographe de ce mot est ici altérée par l'auteur pour le besoin de la rime. Regnard s'est permis assez souvent cette licence et d'autres que des poètes fort au-dessous de son talent ne hasarderaient pas maintenant ; mais on passe beaucoup de négligences au vrai mérite. Les poètes médiocres sont presque toujours rigides observateurs des règles de la versification. (G. A. C.)
+
+[42] Brelan : Jeu qui se joue avec trois cartes, à trois, ou à quatre, ou à cinq.Par extension, maison de jeu, tripot ; il se prend en mauvaise part. L
+
+[43] Jeu de l'Oie : Jeu de l'oie, jeu que l'on joue avec des dés sur un carton où des figures d'oie sont placées dans un certain ordre. L
+
+[44] Toton : Jeu d'enfants qui se fait avec une pirouette, laquelle tombant sur une face marquée de certaines lettres, fait gagner, ou perdre. Quand elle tombe sur le T, elle marque qu'il faut prendre tout ce qui est au jeu. C'est de là que le jeu et la pirouette ont pris leur nom.
+
+[45] Pilorier : Attacher au carcan, au pilori. On a renouvellé l'usage de pilorier les banqueroutiers frauduleux. F
+
+[46] Manger : Être joli à manger, être à manger, se dit d'un joli enfant, d'une jolie personne. F
+
+[47] Remuer le gigot : Populairement. Jambes d'une personne. Étendre ses gigots. Remuer le gigot, danser. L
+
+[48] Carême-prenant : Les trois jours gras avant le mercredi des cendres, et particulièrement le mardi. Personne masquée pendant ces jours gras ; et figurément, toute personne ridiculement vêtue. L
+
+[49] Nantissemnt : Sûreté gage que donne un débiteur à son créancier en meubles ou autres effets pour le paiment de son dû. Les usuriers ne prêtent rien que sous bons gages et nantissements. F
+
+[50] Amphibologique : Ambigu, obscur ; ayant double sens. FC
+
+[51] Passe-pied : Se dit d'une espèce de danse, dont le mouvement est fort vite. FC
+
+[52] Vriller : Pirouetter en montant, suivant un mouvement hélicoïdal, comme certaines pièces d'artifice. L

@@ -1,0 +1,2309 @@
+
+
+**** *book_ *id_dedicace *date_1636 *creator_scudery
+
+A MONSIEUR LE CHEVALIER DE SAINCT GEORGE.
+
+Mon cher et parfait Amy,
+
+Je donne à vostre merite ce que les autres escrivains presentent à la Fortune⁎; et je vous dédie ce Livre, parce que n'estant pas grand Seigneur, je vous juge digne de l'estre.
+Mon object⁎ est bien plus noble que le leur, puis que je regarde la Vertu toute nuë: et qu'eux s'arrestent aux ornemens, dont cette Aveugle pare et déguise le plus souvent la difformité du vice.
+Comme c'est de cette sorte, qu'il faut estimer les hommes, Le choix que je fais de vous, ne peut estre que fort juste; et par consequent approuvé de tous ceux qui vous connoissent: Car si l'on vous regarde par les qualitez de l'ame, et par celles de l'esprit, il faut advouër que les unes estonnent⁎, et que les autres ravissent⁎.
+La vivacité de ce bel esprit dont je parle, la solidité de ce jugement⁎ qui l'accompagne, et la force de cette memoire, qui conserve si fidelement tout ce que les deux autres luy confient, renverse l'opinion Philosophique, qui tient que des effets si differens ne peuvent proceder d'un seul temperamment.
+Et de vray, vous estes un Prothée de belles choses, qui vous changez en autant de formes qu'il vous plaist; et de toutes les connoissances que doit avoir un honneste homme, il ne vous en manque pas une.
+Que si je croyois qu'un Cavalier pûst recevoir sans rougir les loüanges que nous donnons aux Dames, je vous monstrerois dans un miroir, que quelque adresse qui soit en vous, sous les Armes que vous portez, et par cét aimable⁎ visage que la Nature vous a donné, on vous prendra plustost pour Minerve que pour Mars.
+Je vous en dirois davantage, si je ne m'imaginois voir cette belle couleur que la modestie vous met si souvent au front: mais craignant que la colere n'y monte avec elle, et que l'une et l'autre ne me fassent tomber la plume de la main, je me haste de vous dire encor, que je suis, et veux estre toute ma vie,
+
+Mon cher et parfait amy,
+
+Vostre tres-humble et tres-
+
+fidele serviteur,
+
+DE SCUDERY.
+
+**** *book_ *id_au-lecteur *date_1636 *creator_scudery
+
+AU LECTEUR.
+
+Je ne sçaurois à cette fois, couvrir mes fautes de celles de l'Imprimeur: Et si dans ce Livre, tu ne remarques non plus des miennes, que de celles qu'il a faites, j'en auray de la gloire⁎, et toy du plaisir.
+
+Tout mon soing⁎ n'en a pû voir qu'une fort legere, dont je te donne advis; c'est en la page cinquante- quatre, vers dernier, où pour le mot de, qui, tu dois lire, que, Adieu.
+
+**** *book_ *id_privilege *date_1636 *creator_scudery
+
+Extraict du Privilege du Roy.
+
+Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d'Avril mil six cens trente-six.
+Il est permis à Augustin Courbé, Marchand Libraire à Paris, d'Imprimer, vendre et distribuer un Livre intitulé, Le Fils Supposé, Comedie, Composée par Monsieur De Scudery: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu'ils soient, d'imprimer, vendre ny distribuer dudit Livre, d'autre Impression que celle qu'aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d'amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu'il est plus amplemens porté par lesdites Lettres de Privilege.
+
+Par le Roy en son Conseil,
+
+Signé, CONRAR.
+
+**** *book_ *id_body-5-1 *act_ *date_1636 *creator_scudery
+
+-*who_rosandre
+Ha ! ne contestez plus; laissez vous enflamer;
+Et sçachez obeïr, si vous sçavez aimer.
+
+-*who_luciane
+Et quoy, vous lassez vous de souffrir⁎ mes services ?
+Craignez vous que mon cœur ne s'abandonne aux vices ?
+Croyez vous qu'un esprit que vous avez formé,
+Puisse rien concevoir qui doive estre blasmé ?
+Suy-je un fardeau pesant, à vos foibles années ?
+Les larmes que j'espands, sont-elles condamnées ?
+Et devenant cruel⁎ par excez d'amitié⁎,
+Me ferez vous un mal, dont vous avez pitié ?
+Faites que ce torrent ait la course plus lente;
+N'aimez point sans connoistre, au moins voyez Philante;
+Peut-estre les portraits qu'on vous en a tracez,
+Flattent l'original dont vous me menacez.
+Qui sçait si son humeur⁎ pourra plaire à la vostre ?
+Nous ne devons jamais voir par les yeux d'un autre;
+Monsieur, estant bon père, il faut me le preuver;
+Il s'agit de me perdre⁎, ou de me conserver.
+
+-*who_rosandre
+Vostre bonté paroist dedans cette advanture⁎;
+Et nous suivons tous deux La Loy de la Nature:
+Vous m'aimez, je vous aime; et joints par ce lien,                     
+Vous cherchez mon repos, je cherche vostre bien,
+Mais ma fille, sçachez que je serois barbare,
+Si j'osois abuser d'une amitié⁎ si rare;
+Et si loing de rester aux termes du devoir,
+Je bornois vostre joye à celle de me voir.
+Non, non, resoluez vous de finir mon attente;
+Je seray trop content, si vous estes contente;
+Et pourveu que le Ciel conserve vos plaisirs,
+Je mourray sans douleur, et vivray sans desirs.
+La raison nous attaque, et nous devons nous rendre;
+Je vous dois un mary, vous me devez un gendre,
+Et bien que l'amitié⁎ tasche de nous trahir,
+Je vous dois commander, vous devez m'obeïr.
+Mais dedans cét estat, plein d'heur et d'innocence,
+Nous ne souffrirons⁎ point la rigueur d'une absence;
+Le pere de Philante estant bien resolu,
+De demeurer icy, comme je l'ay voulu;
+Sa volonté sans fard s'est peinte en son langage;
+Il mourra dans Paris, j'en ay sa foy⁎ pour gage.
+
+-*who_luciane
+Mais apres tout, Monsieur, son fils m'est inconnu:
+
+-*who_rosandre
+Ne le condamnez pas avant qu'il soit venu;
+Les bonnes qualitez que je remarque au pere,
+Nous le feront voir tel que mon esprit l'espere.
+
+-*who_luciane
+Ces discours par l'effect, souvent sont combatus;
+Je suis bien vostre fille, et n'ay pas vos vertus.
+
+-*who_rosandre
+Tousjours l'humilité suit les filles bien nées;
+Mais si j'eus des vertus, je vous les ay données.
+
+-*who_luciane
+Icy l'obeïssance excede mon pouvoir;
+Le croyez vous un Dieu, pour l'aimer sans le voir ?
+
+-*who_rosandre
+Finissez un propos qui vous rendroit blasmable;
+Si Philante a du bien, il est assez aimable⁎;
+Toutes les qualitez de l'esprit et du corps;                         
+Ce que les amoureux appellent des thresors;
+Avoir le poil frisé, la taille advantageuse;
+L'entretien⁎ agreable, et l'ame courageuse;
+Le visage charmant tout ainsi que l'esprit;
+Faire gemir un luth, mettre bien par escrit;
+Estre bien à cheval, et faire bien des armes,
+Ne sont plus desormais que trop foibles charmes;
+Et quiconque s'y prend, reconnoist à la fin,
+Qu'en matière d'amour il n'est pas le plus fin.
+Ma fille, l'Himenée⁎ est d'une longue suite;
+Et l'on n'y peut entrer avec trop de conduite;
+Dans ces divers sentiers je dois guider vos pas;
+Car l'aage m'a donné ce que vous n'avez pas.
+
+-*who_luciane
+Supposons que mon ame en soit fort enflamée;
+Estes vous asseuré que j'en puisse estre aimée ?
+Ou, serez vous cruel⁎ jusqu'en un si haut point,
+Que de m'abandonner à qui ne m'aime point ?
+Si comme vous, son pere, a contraint ses pensées,
+Que peut-on esperer de deux ames forcées ?
+
+-*who_rosandre
+S'il a du jugement⁎, il vous adorera:                             
+
+-*who_luciane
+Prenez le soing⁎ d'apprendre, au moins s'il en aura.
+
+-*who_rosandre
+J'espere mieux de luy, que de l'ingratitude:
+
+-*who_luciane
+Tousjours ce mot d'espoir est dans l'incertitude:
+
+-*who_rosandre
+Ce long raisonnement me doit estre suspect;
+Il commence à sortir des bornes du respect.
+
+-*who_luciane
+C'est que dans mon esprit la douleur est plus forte:
+
+-*who_rosandre
+Voyons-le cét esprit; pleignez⁎ vous, il n'importe;
+Confessez librement qu'Oronte en est vainqueur:                     
+
+-*who_luciane
+Je ne puis plus parler, vous me blessez au cœur,
+
+-*who_rosandre
+Et c'est en vous taisant que parlent vos pensées;
+Mais vous les enfermez, comme des insensées.
+
+-*who_luciane
+Je ne l'ay jamais veu, que par vostre pouvoir:
+
+-*who_rosandre
+Et le mesme aujourd'hui vous deffend de le voir.
+O dangereux esprit ! Serpent couvert de roses;
+Qui cache son venin dans les plus belles choses,
+Et qui d'un masque feint de l'Amour paternel,
+Tasche de déguiser un Amour criminel:
+Mais en vain l'artifice, a pensé me surprendre;
+J'ay bien veu qu'on aimoit Oronte, et non Rosandre;
+Et que pour obliger mon cœur à la pitié,
+Vous souspiriez⁎ d'amour, et non pas d'amitié⁎
+Mais si vous n'esteignez cette illicite flame,                    
+Qu'un injuste tiran⁎ allume dans vostre ame;
+Si dans vostre repos vous ne cherchez le mien;
+Si vous le traversez⁎ en fuyant vostre bien;
+Si vous vous obstinez contre ce que j'ordonne;
+Vous verrez le pouvoir que Nature me donne.
+
+-*who_luciane
+On me verra mourir avant que vous fascher:
+
+-*who_rosandre
+Voicy ton assassin, fuis-le; va te cacher.
+Oronte, excusez moy, si mon devoir m'oblige,
+A vous faire un discours, dont la fin vous afflige;
+Mais comme les plus francs sont tousjours les meilleurs,
+Prenez d'autres desseins⁎ cherchez fortune⁎ ailleurs:
+Luciane est promise⁎, et bien tost l'himenée⁎,
+Fera voir clairement à qui je l'ay donnée:
+C'est à vous maintenant, mal-gré la passion,
+D'user de cét advis avec discretion;
+Et de n'aspirer plus apres une conqueste,
+Dont un autre a desja le laurier sur la teste.
+
+ACTE I.                
+
+**** *book_ *id_body-5-2 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+Ha ! Monsieur escoutez, au moins auparavant:
+
+-*who_rosandre
+Finissez vos regrets, ou les donnez au vent:
+Me voyant resolu, vous devez vous resoudre.
+
+-*who_oronte
+En fin sur mon espoir, j'ay veu tomber la foudre;
+J'en ay reçeu le coup, de la rigueur du sort;
+Et l'on m'a prononcé ma sentence de mort.
+Que le mal qui surprend a bien plus d'amertume
+Que ces lentes douleurs, qu'on souffre⁎ par coustume !
+Quand aux cœurs genereux⁎ la fortune⁎ deffaut⁎,                
+Que leur cheute est mortelle, et qu'ils tombent de haut !
+La volage qu'elle est, cessant d'estre propice,
+Il n'est point de milieu, du feste, au precipice;
+Et quelque rang qu'on tienne en l'Empire amoureux,
+Il ne faut qu'un moment pour estre mal-heureux.
+O comme on est deçeu⁎ par la belle apparence !
+O qu'on est mal fondé sur la vaine esperance !
+Songe d'homme esveillé; faux espoir si trompeur;
+Chimere qu'on adore; agreable vapeur;
+J'esprouve dans les maux, où le destin me plonge,
+Que qui n'a que l'espoir, n'est bien heureux qu'en songe:
+Où sont tant de grandeurs que j'esperois avoir ?
+Vous qui les promettiez, faites les moy revoir;
+Mais non, retirez-les, ma fortune⁎ est changée,
+Et le plaisir s'enfuit de mon ame affligée;
+Je n'ay connu le bien, que pour le regretter.
+Espoir, avecques vous, le jour me va quitter
+Je sens que la douleur va suivre mon envie;
+Reine de mon esprit, Maistresse de ma vie,
+Luciane, mon cœur, estant abandonné,
+Viens reprendre celuy que tu m'avois donné.
+Mais non, souffre⁎ plustost, qu'au milieu du martire,                 
+Je meure avec un bien, qui vaut mieux qu'un Empire;
+Ainsi dans ce trespas j'auray de la douceur:
+Rival, contente toy d'estre mon successeur:
+La fortune⁎ t'acquiert, et sans peine, et sans guerre,
+Plus que n'eut Alexandre, en conquestant la terre:
+Et tu te peux vanter de tenir un thresor,
+Qui vaut mille fois mieux, que les perles, et l'or.
+Mais quoy ! lasche, timide, à l'honneur⁎ peu sensible.
+Veux-tu comme un demon, te garder invisible ?
+Monstre toy pour le moins; que je sçache en mourant,
+Qui fut de ce thresor le brave conquerant;
+Emporte-le de force, et non pas d'industrie8;
+Dis moy quel est ton nom; apprends moy ta patrie;
+Et puis que le bon-heur accompagne tes pas,
+Illustre encor ta gloire⁎, avecques mon trespas:
+Mais debvant triompher de mon ame trompée,
+Souviens toy pour le moins que je porte une espée:
+Et me vollant un bien qui n'est point limité,
+Viens t'en me tesmoigner que tu l'as merité.
+Que la seule valeur emporte la balance;                 
+Et ne te cache plus sous un honteux silence.
+Helas ! en ce discours, j'ay perdu la raison;
+Le traistre qui m'attaque est ainsi qu'un poison,
+Qui sans se faire voir m'ouvre la sepulture,
+Et par des maux secrets, m'applique à la torture:
+O ! rage ô desespoir ! Ou dois-je recourir ?
+Si je meurs, sans sçavoir, ce qui me fait mourir.
+Ha ! pere sans pitié, qu'une sale avarice,
+Esloigne des vertus, et porte dans le vice,
+Apprends moy quels deffauts⁎ tu me peux reprocher ?
+Sinon que je n'ay point de lingots à cacher;
+Que je foule à mes pieds celuy qui te maistrise:
+Et que tu fais ton Dieu de ce que je mesprise:
+Helas ! dans quelle erreur vit cét homme brutal,
+De qui le cœur de bronze, aime un autre metal.
+Mais vous, chere Maistresse, au milieu de l'orage,
+Pour nous perdre⁎ tous deux, perdrez⁎ vous le courage ?
+C'est icy, mon amour, qu'il est fort important,
+D'avoir un cœur sans crainte, aussi bien que constant;
+Afin de l'opposer à cette tirannie⁎,
+Et m'accorder un bien qu'un pere me desnie.
+Lors que la volonté veut agir sans cesser,                    
+Il n'est point de tiran⁎ qui la puisse forcer.
+Non vous me trahirez, ou vous servirez d'elle;
+Et je ne puis vous perdre⁎, à moins qu'estre infidelle:
+Mais bien, que sur sa foy⁎, je me puisse fier,
+Essayons de la voir, pour la fortifier;
+Et descouvrons encor le nom de l'adversaire:
+O remede sanglant, que tu m'es necessaire ?
+
+ACTE I.
+
+**** *book_ *id_body-5-3 *act_ *date_1636 *creator_scudery
+
+-*who_almedor
+Cher Rosandre, aussi tost qu'on nous eut separez,
+Je tombay dans les maux qui m'estoyent preparez:
+Vous restates à Rome; et je revins en France,
+Où commença le cours de ma longue souffrance:
+J'espousay Crisolite; et dans neuf mois prefix,                         
+Les faveurs de Junon me donnerent un fils:
+Fils, obtenu par vœux, de la bonté celeste;
+Seul plaisir que j'eus lors, et seul bien qui me reste:
+La charge que j'avois m'emporta sur la mer;
+J'entre dans ma Galere, et je la fais ramer
+Du costé du Levant, où l'Admiral m'envoye,
+Pour trouver un Corsaire, et recourre sa proye;
+C'estoit un vaisseau rond, qu'avec fort peu d'effort,
+Ce pirate avoit pris à mille pas du port:
+Le vent qui me trompoit, au lever des Estoiles,
+S'enferma dans sa grotte, et n'enfla plus nos voiles;
+De sorte que la chiorme⁎ agissant à son tour,
+Me le fit voir fort prés, dès la pointe du jour,
+Et lors que le Soleil eut ouvert ses barrieres,
+Ma Galere doubla le cap des Iles d'Ieres;
+Mais pensant l'investir, je me trouve investi,
+Par deux autres vaisseaux de son mesme parti:
+Ils me somment tous trois d'amener bas; semonce,
+Où mon canon tout seul daigna faire responce;
+Car je me resolus au combat inegal,
+Trouvant que le trespas estoit un moindre mal.
+Chacun dans ma Galere à l'instant prend sa place;
+Je range mes soldats; je mets la chiorme⁎ basse;
+Le Comite sifflant, le coutelas au poing,                         
+J'aborde l'ennemy, qui me tiroit de loing.
+Aussitost de leurs gens, la foulle est esclaircie;
+Car je les saluay, d'un canon de Courcie,
+Qui leur donnant en prouë, et presques à fleur d'eau,
+Envoya le boulet tout le long du vaisseau,
+Et porta la frayeur, et la mort avec elle,
+Dans le barbare sein de la Troupe infidelle.
+L'air tout gros de fumée obscurcit leurs Croissants,
+Et la fuite estoit peinte en leurs fronts paslissants:
+Quand un coup de canon qu'un des trois me décharge,
+Fait au Chasteau de poupe une ouverture large,
+L'onde nous engloutit; mais dans cét accident,
+D'une force invincible, et d'un courage ardent,
+Suivy de vingt des miens, qu'anime ma constance,
+Je saute dans leur bord, malgré leur resistance;
+Nous combatons serrez; et leur faisons bien voir,
+Ce que peut la vertu, reduite au desespoir.
+Mais en fin la valeur, succomba souz le nombre;
+Souz la gresle des traicts nous combations à l'ombre;
+Et ces braves Soldats percez de part en part,
+Mourans tous à mes pieds me firent un rampart.
+Je disputois encor les restes de ma vie;
+Mon ame alloit sortir, sans se voir asservie;
+Lors qu'un Turc par derriere (à ce que l'on me dit)                     
+D'un coup de cimeterre à ses pieds m'estendit:
+On me prend, on me lie, et respirant encore,
+Un rayon de pitié toucha le cœur d'un More;
+Il pensa ma blessure; et puis hors de danger,
+Il me vendit Esclave au Royaume d'Arger.
+(Car craignant les prisons qui sont en la mer noire,
+Object⁎ plein de terreur, qui toucha ma memoire)
+Je cachay ma naissance, et fus pris aisément,
+Pour un simple Soldat, à mon habillement.
+Mais esperant la paix, je rencontray la guerre:
+Estant mené captif si loing dedans la terre,
+Qu'il ne me fut permis en aucune façon,
+D'esperer ma franchise⁎, en payant ma rançon.
+Ainsi fus-je traité des noires destinées,
+Pendant le fascheux cours de plus de vingt années:
+Mais en fin la fortune⁎ abregea mon ennuy⁎;
+La peste prit mon Maistre, et tout mourut chez luy.
+Si bien que resté seul en ce climat sauvage,
+Souz l'aisle de la nuict, je gagnay le rivage;
+Où trouvant par bon-heur, un Navire François,
+Il me fit voir les lieux où je me souhaitois.
+(A ce ressouvenir ma douleur se resveille)                     
+Je trouvay que ma femme estoit morte à Marseille,
+Et que mon fils absent bien loing de mon chemin,
+Demeuroit en Bretagne avec son Oncle Osmin.
+Je reviens à Paris, tousjours dans la tristesse,
+Où vous avez banny cette importune hostesse,
+Renouvellant les vœux, d'une antique amitié⁎:
+Voilà quel est mon sort, dont vous avez pitié,
+Trouvant bon que mon fils, espouse vostre fille,
+Pour unir d'autant mieux, l'une et l'autre famille,
+
+-*who_rosandre
+Certes, cher Almedor, ce recit m'a touché:
+Pour n'irriter vos maux, le mien paroist caché:
+Chacun a ses plaisirs; chacun a ses traverses⁎;
+Qui plus, qui moins, selon les fortunes⁎ diverses:
+Mais aujourd'huy nos maux se verront adoucis;
+Et vous et moy trouvons la fin de nos soucis.
+Mais ce fils inconnu d'un si genereux⁎ pere,
+Doit-il bien tost venir ?
+
+-*who_almedor
+            Rosandre je l'espere;
+Doriste l'un des miens me le doit amener:                         
+
+-*who_rosandre
+Adieu, puisse le Ciel, nos travaux⁎ couronner.
+
+ACTE I.
+
+**** *book_ *id_body-5-4 *act_ *date_1636 *creator_scudery
+
+-*who_philante
+Et quoy chere Belise, en augmentant mes peines,
+Vous croyez que Paris est moins plaisant que Renes ?
+Mais si vous respiriez le doux air de la Cour,
+Vous changeriez d'advis, ainsi que de sejour.
+Aux grands et forts esprits toutes villes sont bonnes;
+Nous n'aimons pas les lieux, nous aimons les personnes;
+Le plus affreux desert⁎ nous doit paroitre doux,                         
+Si ce que nous aimons, y vit avecques nous.
+Pour moy (si j'y voyois le bel œil qui me pique)
+Je me croirois en France, au milieu de l'Afrique:
+Car je trouve par tout, dedans vostre entretien⁎,
+Mes solides plaisirs, et mon souverain bien:
+Comme loing d'un object⁎, qui me semble si rare,
+Tout sejour m'est funeste, et tout climat barbare:
+Ces justes sentimens doivent estre suivis;
+Et quiconque aime bien sera de mon advis.
+
+-*who_belise
+Que vous avez de tort, injurieux Philante,
+De croire que ma foy⁎, soit jamais chancelante:
+Et de douter encor, apres tant de serments,
+Que vous puissiez tout dessus mes sentimens.
+Non, non, guerissez vous d'une erreur mal fondée;
+Vous regnez dans mon cœur; je n'ay point d'autre idée;
+Et quelque preuve en fin, que vous veuilliez avoir,
+Si je vous la refuse, elle est hors de pouvoir.
+Quand la fortune⁎ aveugle, en m'offrant un Royaume,
+Me couvriroit d'un Dais, et vous d'un toict de chaume,
+A quelque point d'honneur⁎ qu'elle pust m'eslever,                     
+Je descendrois du Throsne, et vous irois trouver.
+Jugez apres cela, combien je vous estime;
+Et si vostre soupçon n'est pas illegitime.
+
+-*who_philante
+Si vous m'aimez autant comme je vous cheris,
+Vous me le ferez voir, en venant voir Paris.
+
+-*who_belise
+Mais vous, si vous m'aimez, aimez encor ma gloire⁎:
+
+-*who_philante
+Il faut que mon vainqueur me cede la victoire:
+Sous le nom de Mary, vostre honneur⁎ à couvert,
+Craindrez vous le naufrage, ayant ce port ouvert ?
+
+-*who_belise
+Je crains avec raison la fureur de mon frere:
+
+-*who_philante
+C'est n'oser s'embarquer, de peur d'un vent contraire;
+Foible timidité⁎, qui fait tort à ma main:                         
+Vous le traitez en pere, et non pas en germain⁎;
+Sous un frere cruel⁎ vous estes bien à plaindre⁎;
+Il se doit faire aimer, et se veut faire craindre.
+
+-*who_belise
+Vous mesme avez un pere;
+
+-*who_philante
+                ô Dieu ! N'achevez pas:
+Que vous connoissez mal de si charmans appas
+Que les faveurs du Ciel ont mis en ce visage,
+Si vous en ignorez, et la force, et l'usage.
+Quand je serois sorty d'un Tigre sans pitié,
+Un seul de vos regards auroit son amitié⁎:
+Peut-on voir dans mon choix un deffaut⁎ qui le blesse ?
+Manquez vous de vertu ? Manquez vous de noblesse ?
+Et quand la soif de l'or auroit pû le tenter,
+Trouve-t'il pas en vous de quoy la contenter ?
+
+ACTE I.                     
+
+**** *book_ *id_body-5-5 *act_ *date_1636 *creator_scudery
+
+-*who_clorian
+Une affaire pressee, au logis vous demande:
+
+-*who_philante
+Voyez l'imperieux⁎, de quel air il commande !
+Si vous endurez plus de sa severité,
+Je vous crois sans amour, sans generosité⁎:
+
+-*who_belise
+Philante, son orgueil, fait pancher la balance;
+Je n'en puis plus souffrir⁎; je hay trop l'insolence;
+Fais mon unique espoir tout ce qu'il te plaira;
+Celle qui te commande en fin t'obeïra.
+
+-*who_philante
+Un habillement d'homme assurera ma prise:                         
+
+-*who_belise
+Je vaincray le peril comme je le mesprise:
+Adieu; prends soin⁎ de tout; et t'asseure en ma foy⁎:
+Cét importun encor, a les yeux dessus moy.
+
+-*who_philante
+Jamais chasseur d'amour ne fit si belle proye:
+Approche toy Doriste, et prends part à ma joye;
+La belle que je sers, est flexible à mes vœux;
+Je suis Dieu; c'en est fait; elle a dit je le veux.
+Partons, partons Doriste, allons trouver mon pere;
+Qu'il reçoive un plaisir, plus grand qu'il ne l'espere;
+Sa lettre est fort pressante; et moy plein de desir;
+Viens sçavoir mes desseins⁎; viens sçavoir mon plaisir;
+Je veux que ton esprit soit de ma confidence;
+
+ACTE I.                     
+
+**** *book_ *id_body-5-6 *act_ *date_1636 *creator_scudery
+
+-*who_doriste
+Gouvernez tous les deux avecques la prudence:
+Doriste ne sçauroit, ny flatter, ny trahir;
+Mais si vous commandez, c'est à luy d'obeïr.
+
+ACTE I.                     
+
+**** *book_ *id_body-5-7 *act_ *date_1636 *creator_scudery
+
+-*who_clorian
+Ma sœur, je suis fasché que vostre retenuë,
+Se perd, et n'agit plus; qu'est-elle devenuë ?
+A quoy bon ces discours, avec un Estranger,
+Une plume à tous vents, un oyseau passager ?
+Qu'esperez vous de luy pour cette complaisance ?
+Plus sensible à l'honneur⁎, craignez la médisance;
+Ou je vous feray voir que vous estes ma sœur.
+
+-*who_belise
+Je vous reçois pour frere, et non pas pour censeur:
+Et dans ma pureté, je despite⁎ l'envie,
+Avec ses dents de fer, de mordre sur ma vie:
+Au reste je suis libre, on ne me peut forcer.                         
+
+-*who_clorian
+Vostre honneur⁎ est le mien; c'est à moy d'y penser:
+Icy mon interest, s'engage dans le vostre:
+Rejettant mon Conseil, le prendrez vous d'un autre ?
+Je vois bien que la force, est en fin de saison:
+
+-*who_belise
+Je reçois le conseil de la seule raison;
+Et la sçay discerner, d'avecques le caprice:
+
+-*who_clorian
+Vous perdrez⁎ le respect, en deffendant le vice:
+Mais je vous traiteray (voulant vous secourir)
+Comme un esprit blessé qui ne veut pas guerir.
+
+-*who_belise
+En vain mauvais Demon, tu souffles ta manie;
+Je me verray bien tost hors de ta tyrannie⁎;
+Tes menaces en l'air, ne m'espouventent point:
+Partons, puis qu'à l'amour, le courage s'est joint;
+Il en est temps mon cœur; il nous y faut resoudre;                     
+L'esclair assez souvent est suivy de la foudre:
+Mais tousjours le bon-heur, sauve de ces hazards,
+Les mirthes de l'Amour, et les lauriers de Mars.
+
+**** *book_ *id_body-6-1 *act_ *date_1636 *creator_scudery
+
+-*who_luciane
+STANCES.
+
+A quelle injuste loy me trouvay-je asservie,
+Que tout me nuit esgallement ?
+J'oy commander un pere, et prier un Amant;
+De l'un je tiens l'esprit; et de l'autre la vie.
+
+J'oy parler à mon cœur, l'Amour et la Nature,                         
+Le devoir, et la volonté;
+Et mon mal-heur en fin à tel point est monté,
+Qu'il faut que je me rende, ou rebelle, ou parjure,
+
+Dures extremitez, qui partagent mon ame !
+Lequel dois-je desobliger ?
+De tous les deux costez je trouve à m'affliger;
+De l'un je tiens le jour; et de l'autre la flame.
+
+L'un fait agir pour luy, le respect, et la crainte;
+Et l'autre l'inclination;
+J'ay de l'obeïssance, et de la passion;
+Craintive à la menace, et sensible à la plainte.
+
+L'un me dit ce qu'il peut, l'autre ce qu'il desire;
+Et quand j'en fais comparaison;
+Dedans chaque party, mon œil voit la raison;
+Et bien qu'il n'en soit qu'une, il ne la peut eslire.
+
+Quoy, manquer de respect ! quoy, manquer de promesse !
+Ha non, non, il vaut mieux mourir;
+Mon Oronte l'emporte; et j'ay beau discourir,
+Le nom de fille cede à celuy de Maistresse.
+
+Arriere ce propos, dont mon ame insensée:                         
+A pensé chocquer⁎ mon amour:
+Avant que perdre⁎ Oronte, il faut perdre⁎ le jour;
+Et mourir de douleur, pour vivre en sa pensée.
+Tyran⁎ de nos desirs, respect trop rigoureux,
+Ennemy capital de l'Empire amoureux,
+Je n'ay que trop gemy sous tes loix inhumaines;
+Il est temps de borner, ton pouvoir, et mes peines:
+Ouy, bien que mon esprit en puisse estre blasmé,
+Tesmoignons en mourant que nous avons aymé:
+Bruslant d'un feu si pur, découvrons-le sans honte;
+On lira nostre excuse, au visage d'Oronte;
+Et ses yeux tous puissants pourront mesme exprimer,
+Que puis que je les vis, je les devois aimer.
+O rencontre funeste ! Et jadis opportune;
+Sa tristesse me dit qu'il sçait nostre infortune⁎.
+
+ACTE II.                     
+
+**** *book_ *id_body-6-2 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+Et bien mon cœur ? souffrez⁎, pour charmer mon soucy,
+Quoy qu'il ne soit plus mien, que je le nomme ainsi,
+En fin l'arrest d'un pere, ennemy de ma flame,
+Condamne un miserable à sortir de vostre ame ?
+Il veut que l'interest m'oste de vostre esprit,
+Comme on effaceroit ce qu'on auroit escrit ?
+Et qu'un heureux Rival me desrobe une gloire⁎,
+Qui ne me fasse plus qu'affliger la memoire ?
+Soit; mourons; j'y consens; et ma temerité,
+Souffre⁎ en cét accident ce qu'elle a merité:
+Mon vol fut temeraire; il est vray; je l'advouë;
+Le blasme qui voudra, mais pour moy je le louë:
+Lors qu'en un grand dessein⁎ l'on ose s'eslever,                         
+La gloire⁎ est d'entreprendre, et non pas d'achever.
+La fortune⁎ est volage, aussi bien qu'insolente;
+Elle mesprise Oronte, et caresse Philante;
+Car j'ay sçeu que c'est luy qui s'en va me ravir,
+Avec tout mon espoir, l'honneur⁎ de vous servir:
+Il vous doit posseder ? ô cruelle⁎ ordonnance ?
+Fatale à mes plaisirs, dure à ma souvenance,
+Que tu me vas couster, et de sang, et de pleurs:
+He puissay-je tout seul, en souffrir⁎ les mal-heurs;
+Ouy, chere Luciane, en mon ardeur extreme,
+(Apres cela jugez, à quel point je vous aime)
+Je souhaite entre vous un amour mutuel,
+Et le sort aussi doux, comme je l'ay cruel⁎:
+Mais lors que vostre bien m'aura cousté la vie;
+Au milieu des douceurs, où l'himen⁎ vous convie,
+Meslez pour un Amant, si ferme, et si discret,
+A vos souspirs⁎ d'amour, un souspir⁎ de regret:
+Ainsi puisse le Ciel benir vostre advanture⁎,
+Enfermant tous vos maux dedans ma sepulture:
+Et puisse mon Rival, pour vos felicitez,
+Connoistre comme moy, ce que vous meritez.
+
+-*who_luciane
+Amoureux assassin dont la seule parole,
+Me fait vivre et mourir, m'afflige, et me console,
+Et gouverne à son gré les mouvemens d'un cœur,
+Qui jadis invincible, adore son Vainqueur:
+Cessez, helas ! Cessez, cruel⁎, autant qu'aimable⁎,
+De nourrir un soupçon qui vous rendroit blasmable;
+J'ayme; c'est tout vous dire; apres cela, voyez,
+Si Philante me plaist comme vous le croyez;
+Et si souffrant pour vous une ardeur continuë,
+Je puis jamais brusler d'une flame inconnuë.
+Non, non, guarissez vous de cette opinion;
+La parque seulement rompra notre union;
+Et malgré les rigueurs des parents et de l'âge,
+Vous serez inconstant, si je deviens volage:
+M'ayant juré que non, d'un serment solemnel;
+N'est-ce pas vous promettre un amour eternel ?
+
+-*who_oronte
+C'est me remplir d'honneur⁎; c'est me combler de joye;
+Mon pauvre esprit y nâge, et mon ame s'y noye;                     
+Et l'Univers entier ne peut avoir de Roy,
+Qui dedans ce moment soit plus heureux que moy.
+Toutes les vanitez, la grandeur, et la pompe;
+Et ce faste esclatant, par qui l'ame se trompe;
+Le Sceptre, la Couronne, et le Throsne doré
+Valent moins que le bien dont je suis honoré:
+Posseder vostre cœur, est avoir un Empire;
+J'en sçay bien la valeur, c'est pourquoy je souspire⁎,
+Connoissant que le sort, a desseins⁎ de m'oster,
+Ce que tout le Peru ne sçauroit acheter.
+Mais cét Astre⁎ malin qui persecute Oronte,
+Peut l'obliger au mal, et non pas à la honte;
+Il mourra dans la gloire⁎ où vos beaux yeux l'ont mis;
+Et ne suivra jamais le char des ennemis:
+C'est assez m'affliger, sans vouloir que je vive;
+Puis qu'on voit leur triomphe, et ma Reine captive.
+
+-*who_luciane
+Celle qui d'un aspic, sçeut guarir sa douleur,
+M'enseigne que la mort empesche ce mal-heur.
+
+-*who_oronte
+Ce remede est certain; mais j'en connois un autre,                     
+Qui peut sauver ma vie, en conservant la vostre.
+
+-*who_luciane
+Proposez seulement; et si je ne le fais,
+Appellez moy perfide⁎, et ne m'aimez jamais.
+
+-*who_oronte
+Il faut dans ce peril mettre tout en usage:
+Faites que le mespris paroisse en ce visage;
+Que Philante à l'abord y trouve des froideurs,
+Capables d'amortir ses plus vives ardeurs;
+Que tout ce qu'il dira semble ne vous pas plaire;
+Feignez que son respect esmeut vostre colere;
+Ne luy respondez point quand il vous parlera:
+S'il est nay genereux⁎, il se despitera⁎;
+Son esprit rebuté de ce nouveau servage,
+Sans aller plus avant gagnera le rivage:
+Comme les Matelots, qui tous prests de ramer,
+Esvitent dans le port le courroux de la Mer:
+L'Amour ne sçaurois vivre, estant sans esperance.
+
+-*who_luciane
+Je voy que ce conseil a beaucoup d'apparence:
+
+-*who_oronte
+Mais si cela le pique, et ne l'arreste pas;                         
+(Comme on peut tout souffrir⁎ pour avoir vos appas)
+Il faut que je luy die, en ce danger extréme,
+Qu'il ne peut estre aimé d'une fille que j'aime;
+Mais où ce temeraire, encor l'entreprendroit,
+Permettez à ce bras de conserver mon droict.
+
+-*who_luciane
+Si du premier espoir je me trouve trompée,
+Je mettray mon salut au bout de vostre espée,
+
+-*who_oronte
+Secondé de vos vœux, au milieu des combats,
+Il n'est point d'ennemis que je ne mette à bas.
+
+-*who_luciane
+Il nous faut separer craignant qu'on ne nous voye:
+
+-*who_oronte
+Un rayon d'esperance a r'animé ma joye;
+Et puis qu'il m'est permis de deffendre mon bien,
+Je me mocque de tout, et je ne crains plus rien.
+
+ACTE II.                     
+
+**** *book_ *id_body-6-3 *act_ *date_1636 *creator_scudery
+
+-*who_belise
+Doriste, à quel mal-heur me trouvay je reduite ?
+Philante disparu, qui prendra ma conduite ?
+Que dois-je devenir ? helas ! conseille moy,
+Toy de qui le service a signalé la foy⁎:
+Trois jours se sont passez, depuis qu'abandonnée,
+Je pleure en ce desert⁎ un fugitif Enée,
+Qui devoit emprunter les aisles de l'amour,
+Pour voller en allant, aussi bien qu'au retour.
+Qui me laissant icy dans cette solitude,
+Devroit par sa douleur voir mon inquietude;
+Sentir ce que je sents; partager mes ennuis⁎;
+Et nous guerir tous deux, revenant où je suis.                         
+S'il estoit allé loing, j'excuserois sa faute;
+Mais si cette montagne estoit un peu plus haute,
+Et ces champs d'alentour, moins couronnez de bois,
+Nostre œil descouvriroit les murailles de Blois.
+Cependant ce cruel⁎ me laisse à la torture;
+Et peut-estre qu'il rit des peines que j'endure;
+Peut-estre ce volage, au milieu des plaisirs,
+Aussi bien que de lieux, a changé de desirs.
+Mais si tu fais ce crime, infidelle Thesée;
+D'amante bien heureuse, Amante mesprisée;
+Je conjure le Ciel, dans cette trahison,
+S'il n'est de ton party, de m'en faire raison.
+
+-*who_doriste
+Madame, jugez mieux de l'esprit de mon maistre
+Il est homme d'honneur⁎, et vous l'appellez traistre;
+
+-*who_belise
+Pardonne à ma douleur; j'en blasme le transport;
+Et je l'aimerois mieux, infidelle que mort.
+
+-*who_doriste
+Par mon ressentiment je puis juger du vostre:
+Mais j'espere pourtant qu'il n'est ny l'un ny l'autre.                     
+
+-*who_belise
+Confesse à tout le moins qu'il est bien negligent:
+
+-*who_doriste
+Madame, vous sçavez qu'il cherche de l'argent:
+Peut-estre son Amy n'est pas dedans la ville:
+
+-*who_belise
+O qu'icy ton conseil m'est un remede utile.
+Quel chemin prendrons nous en cette extremité,
+N'osant pas retourner chez un frere irrité ?
+Ny songer seulement d'estre dans ma patrie,
+L'object⁎ des médisans pour ma gloire⁎ flestrie.
+
+-*who_doriste
+La fortune⁎ a des traicts qu'on ne peut eviter:
+Mon esprit en suspends ne sçait où s'arrester;
+L'argent nous va faillir; le danger nous tallonne;
+Et pour nostre secours je ne trouve personne.
+Mais puis qu'en ce peril ma main tient le timon,
+Oyez ce que m'inspire un bien heureux Demon.
+Ce seul moyen nous reste; il est plein de courage;                     
+Mais on doit tout oser au milieu de l'orage.
+Le pere de mon Maistre, absent depuis vingt ans,
+N'ayant point veu son fils depuis un si long temps,
+Ne le sçauroit connoistre; et c'est sur quoy je fonde,
+Le projet d'un dessein⁎ le plus hardy du monde.
+Il faut que vous passiez sous cét habillement,
+Pour ce fils desiré qu'il aime uniquement:
+Vostre aage assez esgal fera croire la chose;
+Et tout reüssira comme je le propose.
+Moy seul qui le connois auray plus de credit,
+Lors que j'attesteray ce que vous aurez dit:
+J'ay la lettre d'Osmin, qui nous est d'importance;
+Vous sçavez bien qu'il est de vostre connoissance,
+Vous l'en entretiendrez; et cela suffira,
+Pour luy persuader tout ce qu'il nous plaira.
+S'il parle de la mere, afin de vous conduire,
+Avant qu'estre à Paris, je vous en veux instruire;
+Mais de telle façon qu'un homme plus rusé,
+Donneroit dans le piege, et seroit abusé.
+Ainsi nous coulerons cette absence importune;
+Ainsi facilement nous vaincrons la fortune⁎;
+Et mon Maitre eschapé, sans doute d'un malheur,
+Viendra finir sa peine avec vostre douleur.
+
+-*who_belise
+Quelque difficulté que l'esprit me presente,                     
+De retenir mes pas, elle est insuffisante;
+Bien qu'il soit dangereux je suivray ton conseil;
+Partons pour n'estre veus au coucher du Soleil;
+Et fasse le destin, que ton Maistre revienne,
+Pour terminer sa crainte, en terminant la mienne.
+
+ACTE II.                     
+
+**** *book_ *id_body-6-4 *act_ *date_1636 *creator_scudery
+
+-*who_clorian
+Que ne peut-on forcer avecques la douceur !
+Philante me ravit, aussi bien que ma sœur;
+Malgré moy son respect desarme ma colere;
+Et mon dessein⁎ se change en celuy de luy plaire.
+Bien que mon cœur resiste aux traicts de la pitié,
+Je commence à sentir qu'il a de l'amitié⁎:
+En fin il se faut rendre aux pleurs d'un miserable,
+Et par là faire voir ma deffaite honorable.
+Finissons un procez, qui n'est plus de saison;
+Puis qu'il ouvre mon ame, ouvrons luy la prison;
+Que l'outrage enduré s'efface en ma memoire;
+C'est l'unique moyen de reparer ma gloire⁎:
+Ouy, ses vœux sont les miens; ma haine va cesser;
+Allons rompre ses fers afin de l'embrasser.
+
+ACTE II.                     
+
+**** *book_ *id_body-6-5 *act_ *date_1636 *creator_scudery
+
+-*who_philante
+Sejour des mal-heureux; effroyable demeure;
+Où le destin cruel⁎ veut que Philante meure;
+Apprenez qu'en ce mal, qui cause mon trespas,
+Si je le souffrois⁎ seul, je ne m'en pleindrois⁎ pas.
+C'est foiblesse aux mortels d'apprehender les parques,
+Voyant que nostre sort est celuy des Monarques:
+Que tout meurt, que tout passe; et qu'une mesme loy,
+Traitte avecques rigueur, le subjet, et le Roy.
+Mais de quelque vertu que j'emprunte les armes,
+Je fais voir ma douleur, en faisant voir mes larmes;
+Et venant à songer que Belise m'attend,                             
+Je cede, je me rends, et ne suis plus constant.
+Abandonner Belise en un lieu solitaire !
+Mais voicy le cruel⁎ qui me force à me taire.
+
+ACTE II.
+
+**** *book_ *id_body-6-6 *act_ *date_1636 *creator_scudery
+
+-*who_clorian
+Persistez vous tousjours, en ce mauvais dessein⁎ ?
+Et me voulez vous mettre un poignard dans le sein ?
+Puis qu'en vous rencontrant je rompts vostre entreprise,
+Ne me direz vous point où se trouve Belise ?
+Pourquoy la cachez vous, estant dans la prison ?
+Jugez que la rigueur m'en peut faire raison;
+Et que me refusant cette juste allegeance,                     
+J'ay droict de la chercher avecques la vangeance.
+Que j'en suis en pouvoir; et qu'un frere irrité,
+Doit porter la justice à la severité,
+Et reparer sa gloire⁎, et la faute arrivée,
+Par la credulité d'une sœur enlevée.
+
+-*who_philante
+En vain vostre discours me va solicitant,
+De trahir un secret qui m'est trop important:
+Un esprit resolu ne craint point la torture;
+La force de l'amour en donne à la nature:
+Et quelque cruauté que l'on puisse exercer,
+Mon cœur est un rampart, qu'on ne sçauroit forcer.
+Mais vous, qu'à si bon droict la Bretagne renomme,
+Songez que comme vous je suis nay Gentil homme.
+
+-*who_clorian
+Je me rends, cher Philante; et le masque est levé,
+Ne parlons plus jamais d'un mal-heur arrivé;
+Loing de m'en souvenir, vous verrez au contraire,
+Par mes humbles devoirs que je vous tiens pour frere.
+
+-*who_philante
+Mon oreille me trompe aussi bien que mes yeux !                     
+
+-*who_clorian
+Ha ! tirons la vertu de ces infames lieux.
+
+**** *book_ *id_body-7-1 *act_ *date_1636 *creator_scudery
+
+-*who_philante
+Villanelle.
+
+Helas ! bien qu'en ces Bois ma pleinte continuë,
+Je ne peux descouvrir, ce qu'elle est devenuë.
+
+En quelle extremité me trouvay-je reduit ?
+La douleur m'accompagne, et le plaisir me fuit;
+Le desespoir, l'horreur, la colere, et la rage,                         
+Regnent en mon courage:
+Je cherche vainement l'object⁎ de mon amour;
+Ce Soleil, pour mes yeux, est couvert d'une nuë,
+Je demande Belise aux rochers d'alentour;
+Mais ils ne disent point ce qu'elle est devenuë.
+
+Tesmoings de son départ, comme de ma douleur;
+Qui veistes son dessein⁎; qui voyez mon mal-heur;
+Par la voix des Echos, respondez à la mienne;
+Il faut que je l'obtienne:
+Auriez vous remarqué son esprit inconstant ?
+Vous a-t'elle fait voir son ame toute nuë ?
+Despeignez moy l'humeur⁎ qu'elle avoit en partant;
+Ou me dites au moins ce qu'elle est devenuë.
+
+Auroit-elle trahy mon amour, et sa foy⁎ ?
+Est-elle dans les bras d'un autre Amant que moy ?
+Ne flattez point mon mal; la croiray-je infidelle ?
+Respondez moy pour elle ?
+Quand j'ay perdu ma Dame, en m'esloignant d'icy,
+Quelque nouveau Rival l'a-t'il entretenuë⁎ ?
+Non, non, je suis coupable, en vous parlant ainsi;
+Dites moy seulement ce qu'elle est devenuë,
+
+Helas ! en quel endroit me la faut-il chercher ?                     
+Quel antre reculé me la peut bien cacher ?
+Quoy que tu sois sans yeux, compagnon de sa fuite,
+Amour, prends ma conduite:
+Je n'ay que trop souffert⁎ en ne la voyant pas;
+Et desja le destin me l'a trop retenuë;
+Mais ce cruel⁎ Tiran⁎, qui rit de mon trespas,
+Ne me descouvre point ce qu'elle est devenuë.
+O toy, qui rompts les nœuds d'une saincte amitié⁎;
+Vois les maux que je sens, pour en avoir pitié;
+Et si tu n'es un Tigre, apres l'avoir ravie,
+Viens t'en m'oster la vie:
+Je n'en veux point sans elle; et mon cœur est content,
+De sentir que dans luy la force diminuë;
+Mais avant qu'estre pris du trespas qui m'attend,
+Je voudrois bien sçavoir ce qu'elle est devenuë.
+Belise; ha ! ce beau nom qui me souloit guerir,
+Ne sert plus maintenant qu'à me faire mourir:
+Il augmente ma peine, et reste sans responce;
+Et c'est dans ce mal-heur pourquoy je le prononce;
+Afin que ma douleur, en s'accroissant tousjours,                     
+Puisse trouver son terme en celuy de mes jours.
+Belise; impitoyable; encor un coup; Belise;
+He ! responds à ma voix; dis moy ton entreprise;
+S'il est vray que ton cœur, m'aimast jadis si bien;
+Que je sçache ton sort, en finissant le mien.
+Es tu sourde à mes cris ? Et toy lasche Doriste,
+Peux tu bien me sçavoir en un estat si triste;
+Peux-tu bien t'esloigner; peut-tu suivre ses pas,
+Ainsi que ses desseins⁎, et ne m'advertir pas ?
+Ha traistre ! apres le mal où mon ame est reduite,
+Rien ne te peut sauver, que ma mort, et ta fuite.
+Ma perte est ton salut, infidelle, pervers;
+Car je t'irois punir au bout de l'Univers.
+Destin, Maistresse, Amis, en fin tout m'abandonne:
+Belle ingrate, va-t'en; mon cœur te le pardonne;
+Adorable parjure; aimable⁎ esprit leger;
+Juge apres mon trespas, si tu devois changer.
+O crainte criminelle, autant comme importune;
+Belise est innocente; et non pas la fortune⁎;
+Elle n'a point de tort; je le voy clairement;
+L'excez du desplaisir m'oste le jugement⁎:
+Si le Ciel oit les vœux, poussez pour l'amour d'elle,
+Elle vivra constante, et je mourray fidele;
+Et je l'ose esperer; son extréme vertu
+Releve avant ma mort, mon courage abatu.
+
+ACTE III.                     
+
+**** *book_ *id_body-7-2 *act_ *date_1636 *creator_scudery
+
+-*who_clorian
+Mon frere, tout va bien; mes gens viennent d'apprendre,
+Le chemin qu'elle a pris, et que nous devons prendre:
+
+-*who_philante
+O Dieu ! Puis-je esperer l'honneur⁎ de la revoir ?
+Mais de quelles façon l'avez vous pû sçavoir ?
+
+-*who_clorian
+Sur les courages bas l'argent peut tout sans doute:
+Et l'Hoste en recevant a descouvert sa route;
+Luy mesme l'a conduite au chemin de Paris ?                         
+C'est à nous de la suivre ayant eu cét advis.
+
+-*who_philante
+Vous me ressuscitez avec mon esperance:
+Tout ce qu'il vous a dit a beaucoup d'apparence;
+Retenu prisonnier vous ayant rencontré;
+L'amy que je cherchois ne s'estant pas monstré;
+Absent depuis long temps de sa ville natale;
+Moy privé de secours en cette heure fatale;
+Ne pus pas advertir en ce bois inconnu,
+Belise, du mal-heur qui m'estoit advenu.
+De sorte que restée, et seule, et sans nouvelles,
+Doriste conseillant cette Reine des belles,
+Aura porté ses pas où nous devons aller;
+Ce discours nous amuse, et j'y voudrois voler.
+
+ACTE III.                     
+
+**** *book_ *id_body-7-3 *act_ *date_1636 *creator_scudery
+
+-*who_almedor
+Plus je te voy, mon fils, et plus en ma pensee,
+Je retrace en pourtraict ma jeunesse passee.
+J'avois ainsi les yeux, le front, l'air, et le port;
+Et certes j'y remarque un merveilleux rapport.
+
+-*who_doriste
+Ce bon commencement nous promet bonne issuë:
+
+-*who_almedor
+Et si d'un faux espoir mon ame n'est deceuë⁎,
+Nous aurons en commun, et dedans, et dehors,                         
+Les qualitez de l'ame avec celles du corps.
+
+-*who_belise
+Ce seroit vanité que d'y vouloir pretendre;
+Il ne faut que vous voir pour n'oser l'entreprendre;
+Mais tousjours dans l'esprit j'aurois assez d'appas,
+Si je suivois de loing la trace de vos pas.
+Exact imitateur d'une si belle vie,
+Je pourrois librement me mocquer de l'envie;
+Mais en la gloire⁎ acquise en ce noble mestier,
+Vous laisserez un fils, et non un heritier.
+
+-*who_almedor
+Plus vostre ame se ferme, et tant plus elle s'ouvre:
+Mais mon fils, il est temps qu'un pere vous découvre,
+Le dessein⁎ qu'il a pris pour vostre advancement;
+Sans doute vostre esprit louëra mon jugement⁎;
+Dans le choix qu'il a fait d'une fille bien née,
+Que s'en va vous donner un heureux hymenée⁎.
+
+-*who_belise
+En mon aage, l'hymen⁎ ne fut jamais bon-heur:                         
+Il se faut retirer estant chargé d'honneur⁎;
+Mais sans avoir rien veu, se mettre au mariage,
+C'est manquer de raison ainsi que de courage.
+Monsieur, permettez moy de chercher aux combats,
+Ce que la peine donne, et non point les esbats.
+
+-*who_almedor
+La generosité⁎ vous veut faire rebelle:
+Mais vous me combatrez secondé d'une Belle,
+Capable de ranger un cœur à la raison:
+Doriste qui vous suit en sçait bien la maison;
+C'est là que nous verrons si l'on s'en peut deffendre;
+Enseigne luy dans peu le logis de Rosandre;
+Afin qu'il vienne voir s'il pourra se parer,
+Des coups d'un ennemy qui se fait adorer.
+
+-*who_belise
+Fascheux déguisement; invention fatale;
+Qui pensant m'en tirer m'engage en un dedale,
+D'où je ne puis sortir qu'à ma confusion:                     
+Le mauvais conseiller qu'est nostre passion !
+Que pour nous decevoir⁎ elle est tousjours subtile !
+Par elle nous croyons l'impossible facile !
+Elle est (quand on la suit, et quand on la croit mieux)
+Un verre coloré qui nous trompe les yeux:
+Toutes sortes d'objects⁎ en prennent la teinture;
+Et nous ne voyons rien en sa propre nature.
+A travers ce cristal, si plaisant, et si faux,
+On prend pour des beautez des insignes deffauts⁎;
+Miroir flatteur, Amour, passion desreglée,
+Me regardant en toy je me suis aveuglée;
+Mais quelque excez de mal que j'en puisse sentir,
+Mon esprit amoureux ne peut s'en repentir:
+Doriste, pour ce mal, n'as tu point de remede ?
+
+-*who_doriste
+Rien qui vous soit utile, et rien du tout qui m'aide.
+Plus je tasche à sortir, et plus mon jugement⁎,
+S'embarasse confus dans cét empeschement.
+Marier une fille avec une autre encore,
+J'aurois plustost blanchy le visage d'un More,
+Que je n'aurois trouvé dans mon invention,                         
+Le moyen de sortir de notre affliction.
+
+-*who_belise
+Si faut-il se resoudre; et quoy qu'il en advienne;
+Je suivray ma prudence à faute de la tienne:
+Allons chez ce Rosandre afin d'executer,
+Ce qu'en cét accident je viens de projecter.
+
+ACTE III.
+
+**** *book_ *id_body-7-4 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+Qu'importe à mon esprit si Rosandre s'offence,
+De me revoir chez luy nonobstant sa deffence !
+Bannissons le respect, je n'en dois point avoir;
+Philante est à Paris; il faut que j'aille voir.
+Pour me pâmer de joye, avec combien d'adresse                        
+Sçauront le mal traitter les yeux de ma Maistresse.
+Je verray ces beaux yeux aider à mon dessein⁎;
+Et porter à Philante un glaçon dans le sein.
+Je verray ce Rival me ceder une palme;
+Et quand il se perdra je seray dans le calme.
+Je verray le dépit lutter contre l'Amour;
+Certes de tous les miens voicy le plus beau jour;
+Mais sans perdre⁎ le temps, allons voir nostre gloire⁎;
+Et recueillir les fruicts d'une belle victoire.
+ACTE III.                     
+
+**** *book_ *id_body-7-5 *act_ *date_1636 *creator_scudery
+
+-*who_almedor
+En fin ce serviteur si long temps attendu,
+A dessein⁎ de se rendre, à Paris s'est rendu.
+Et le voicy venir; que cét œil se prepare,
+A darder contre luy ce qu'il a de plus rare;
+Qu'il agisse en esclair; et qu'au premier moment,
+D'un esprit libertin il se fasse un Amant.
+
+-*who_rosandre
+Philante est arrivé ?
+
+-*who_almedor
+            Doriste vous l'ameine;
+
+-*who_rosandre
+Je vay le recevoir;
+
+-*who_almedor
+            N'en prenez pas la peine:
+
+-*who_rosandre
+Est-ce luy que je voy ?
+
+-*who_almedor
+            Luy mesme:
+
+-*who_rosandre
+                    Bien venu,
+Soit dans les bras d'un pere, un enfant inconnu.
+Ma fille... .
+
+ACTE III.                     
+
+**** *book_ *id_body-7-6 *act_ *date_1636 *creator_scudery
+
+-*who_belise
+Sans user de puissance absoluë;
+Souffrez⁎ que je m'advance, et que je la saluë.
+
+-*who_almedor
+Je crois que cét accord ne veut pas de tesmoins;
+On les oblige plus en leur en donnant moins;
+Allons faire trois tours dans vostre gallerie:
+
+-*who_rosandre
+Allons,
+
+-*who_belise
+    connoissez vous l'amoureuse furie ?
+Madame, vostre cœur n'a-t'il jamais souffert⁎,                        
+L'excessive douleur du tourment qui me perd ?
+N'a-t'il jamais aimé ? Ouy; ce morne silence,
+Me dit qu'il en ressent l'extréme violence;
+Et je lis dans vos yeux à travers leur appas,
+(Sans déplaisir pourtant) que vous ne m'aimez pas.
+Sans doute ce propos vous doit sembler estrange;
+Mais, Madame, apprenez où le destin me range,
+Ce secret comme à moy vous doit estre important;
+Conservez-le donc bien, et m'allez escoutant.
+Je suis fille:
+
+-*who_luciane
+        Bon Dieu !
+
+-*who_belise
+            que ceste main d'yvoire,
+Apprenne sur mon sein ce qu'on a peine à croire;
+Mais ne pouvant icy vous faire un long discours,
+Qui dépeigne ma vie, et toutes mes amours;
+Ny vous dire pourquoy mon ardeur violante,
+Me fait prendre le nom, et l'habit de Philante.
+Il suffit de vous dire en l'estat où je suis.                             
+Que ce mesme Philante a causé mes ennuis⁎:
+Que c'est luy que j'adore; et que sa foy⁎ promise⁎,
+Desja depuis long temps engage ma franchise⁎;
+De sorte que vivant souz une mesme loy,
+Mon cœur est à Philante, et le sien est à moy.
+Mais si vous le voulez; et que je sois trompée;
+Que cette belle main reçoive mon espée;
+Et d'un coup pitoyable autant que genereux⁎;
+Qu'elle en frappe un Rival en ce cœur amoureux.
+
+-*who_luciane
+Non, non, belle Estrangere, une plus juste envie,
+Me fera consentir à l'heur de vostre vie;
+Possedez ce Philante, ou je ne pretens rien;
+Fonder vostre repos est establir le mien:
+Mon cœur est engagé souz une autre puissance;
+Et je ne le voyois que par obeïssance.
+Voicy le seul Amant que je puis estimer;
+Jugez par ses vertus si j'ay tort de l'aimer:
+Mais un plaisant dessein⁎ m'entre en la fantaisie;
+Souffrez⁎ que je luy donne un peu de jalousie.
+
+ACTE III.                     
+
+**** *book_ *id_body-7-7 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+Rompant vostre entretien⁎, je crains d'estre indiscret.
+
+-*who_luciane
+L'amour illegitime a besoin de secret:
+Mais quand d'un feu tout pur se consomment deux ames,
+Il leur est glorieux d'en faire voir les flames:
+Et devant tout le monde elles peuvent parler.
+
+-*who_belise
+Le moyen de se taire, et se sentir brusler ?
+
+-*who_oronte
+Il me semble pourtant que par la modestie,
+On tasche d'en cacher la meilleure partie.
+
+-*who_luciane
+Chacun vit à sa mode; et fort mal à propos,
+Vous venez sans raison troubler nostre repos.
+
+-*who_belise
+Mon bon-heur est si haut, et si loing de la terre,
+Qu'en ma tranquilité je n'ois pas le tonnerre.
+
+-*who_oronte
+Troubler vostre repos ! Ce n'est pas mon dessein⁎:
+Et ce penser jamais ne m'entra dans le sein.
+Mais changeons de discours; trouvez vous vos Provinces,
+Plus belles que Paris, le sejour de nos Princes ?
+
+-*who_belise
+Je serois mauvais juge en un pareil sujet;
+N'ayant d'yeux à Paris que pour un seul object⁎.
+
+-*who_oronte
+Et quoy ! n'aller point voir, n'en prendre pas la peine,                     
+Et le cheval de bronze, et la Samaritaine !
+Ma foy⁎ vous m'estonnez⁎; c'est là qu'avec plaisir,
+Le Noble de campagne assouvit son desir.
+
+-*who_luciane
+Quand nouveau Courtisan vous pristes ceste route,
+Vous ne veistes le Roy, qu'en ce lieu-là sans doute:
+
+ACTE III.                     
+
+**** *book_ *id_body-7-8 *act_ *date_1636 *creator_scudery
+
+-*who_rosandre
+Luciane,
+
+-*who_luciane
+Monsieur;
+
+-*who_rosandre
+            on vous demande icy:
+
+-*who_almedor
+Philante, suivez-la, je vous demande aussi.
+
+-*who_oronte
+N'est-ce point un Demon qui forme en ma pensee,
+Le tragique pourtraict de l'histoire passee ?
+Suy-je point endormy ? peut-estre ay-je songé,
+L'abisme des mal-heurs où je me crois plongé !
+Infideles tesmoins par qui l'ame s'abuse,
+Dans ce procez d'amour la mienne vous recuse:
+Vous vous estes trompez; et pour me decevoir⁎,
+Vous ne veistes jamais ce que vous creustes voir.
+Funeste illusion qui destruisez ma joye,
+Retournez dans l'enfer, c'est luy qui vous envoye:
+Et ce que j'ay creu voir, fut sans doute inventé,
+Par le plus noir Demon qui sorte à la clarté,
+Luciane volage ! ha cela ne peut estre;
+Mon œil, elle est fidelle, et vous estes un traistre;
+Vostre rapport est faux; elle ne peut faillir;
+Quel que soit l'ennemy qui la veuille assaillir.
+Mais las ! Pensers flatteurs, qui par de si doux charmes,
+Taschez de retenir le torrent de mes larmes,
+Vous me trompez comme elle; et je voy clairement,                     
+Qu'elle manque d'amour, et moy de jugement⁎:
+Ouy, ouy, je connois bien que mon ame est trompée;
+Et que tout mon espoir dépend de mon espée.
+Employons-là mon bras; ne sois plus endormy;
+Je veux m'ensevelir avec mon ennemy;
+Et luy manger ce cœur qui porte à mon dommage,
+De l'object⁎ de mes vœux l'incomparable image.
+Que nos lasches respects soient desormais bannis;
+Dans les bras de Venus, poignardons Adonis:
+Mais non, suivons plustost au lieu de cette rage,
+Le conseil de l'honneur⁎, et celuy du courage;
+Qu'il meure; mais qu'il meure, en deffendant un bien,
+Que m'oste la fortune⁎, et que l'Amour fit mien.
+
+**** *book_ *id_body-8-1 *act_ *date_1636 *creator_scudery
+
+-*who_belise
+Que vostre esprit adroit, sçait habillement feindre !
+Et que le pauvre Oronte, a sujet de s'en pleindre⁎ !
+Mauvaise, vous deviez d'un clin d'œil au partir,
+Redonner le courage à ce pauvre Martir:
+Quoy qu'il dise de vous sa pleinte est legitime;                         
+Son innocence a droict d'accuser vostre crime;
+Et si l'excez du mal causoit sa guerison,
+Vous seule auriez le tort et luy seul la raison.
+Sa conservation vous estant d'importance,
+Pourquoy voulez vous voir jusqu'où va sa constance ?
+A quoy bon cette espreuve, en fin repentez vous,
+Et faites qu'il reçoive un traictement plus doux.
+Pour moy sans plus servir ny suivre vos malices,
+Qui parmy les douleurs font naistre vos delices;
+Si je le vois jamais je sçauray bien guarir,
+Un mal imaginaire et qui le fait mourir.
+
+-*who_luciane
+Non, quittez ce dessein⁎, veuillez vous en distraire;
+Toute chose (ma sœur) paroist par son contraire;
+Et le contentement qui suit les desplaisirs,
+Qui passe l'esperance et qui vient sans desirs;
+Touche plus vivement que la gloire⁎ certaine,
+Qu'on aquiert sans travail⁎, et qu'on garde sans peine.
+
+-*who_belise
+Mais si vostre secours tarde trop à venir,
+Est-il un chastiment qui vous puisse punir ?
+
+-*who_luciane
+Quelque accident qu'esprouve un homme de courage                    
+La force de l'esprit le sauve de l'orage:
+Et l'Amant que le Ciel regarde de travers,
+Ne meurt point de douleur si ce n'est dans ses vers.
+Ils le disent assez, leur plainte est assez ample;
+Mais de ces morts d'amour nous n'avons point d'exemple:
+Et mesmes quand Oronte en fin expireroit,
+En se voyant aimer, il ressusciteroit,
+
+-*who_belise
+Vous dites là (ma sœur) une fort belle chose;
+Vostre esprit à ce coup a fait des vers en prose;
+Mais de quelque pouvoir qu'on vous puisse flatter,
+Vous le ferez mourir sans le ressusciter:
+On va sans revenir dedans la sepulture;
+Et rien ne peut forcer la Loy de la Nature.
+Mais bien que vostre cœur se plaise en son tourment,
+Icy mon interest sauvera cét Amant;
+Me croyant son Rival, peut-estre son espée,
+Suivra les mouvemens de son ame trompée;
+Je ne suis point vaillante, et me fascheroit fort                    
+Que nostre belle amour fut cause de ma mort;
+J'estime vos faveurs; mais s'il m'en porte envie,
+Je les y quitteray pour conserver ma vie;
+Ce jeu ne me plaist point, il est trop hazardeux;
+De grace, s'il revient soyez entre nous deux,
+Et me donnez le temps de luy faire cognoistre,
+Que fille comme vous le destin m'a fait naistre;
+Et qu'en l'esgalité qui se voit entre nous,
+Tout ce que je puis faire est de faire un jaloux.
+
+-*who_luciane
+Poltronne⁎, j'y consens, et mon ame touchée
+Ne sçauroit plus tenir sa passion cachée;
+Sensible à la pitié plus que vous ne pensez,
+Des traits que je tirois, deux cœurs furent blessez,
+Je souffrois⁎ comme Oronte, et dans cét artifice,
+L'Amour ne laissoit pas de faire son office;
+En le chassant des yeux, il s'en alloit au cœur;
+Place dont ce Monarque est dés long-temps vainqueur:
+Mais il faut advoüer que dedans ceste espreuve,
+(Quoy que vous en disiez) quelque douceur se treuve;
+Ne fust-ce que par elle, en cognoist aisément                    
+Le pouvoir d'une Amante, et l'humeur⁎ d'un Amant.
+
+-*who_belise
+Contentez vous au moins de ceste experience,
+Et voyez son humeur⁎, voyant sa patience:
+Aussi bien d'autres soings⁎ beaucoup plus importans,
+Nous deffendent assez d'y perdre⁎ plus de temps,
+Jamais de tant d'ennuis⁎ je ne fus accablée;
+J'en cherche le remede en ma raison troublée;
+Mais mon esprit lassé de s'en entretenir⁎,
+Si Philante ne vient, ne sçayt que devenir.
+
+-*who_luciane
+J'espere que le Ciel touché de nostre peine;
+Monstrera son amour en suite de sa haine;
+Et que nos cœurs auront un destin plus heureux;
+Mais il faut éviter cét escueil dangereux,
+Et feindre à cét effect de me sentir attainte,
+D'un mal qui sera grand, si l'on en croit ma plainte;
+Et par là gagner temps en attendant secours,                         
+
+-*who_belise
+Un Ange tutelaire inspire ce discours.
+
+ACTE IV.
+
+**** *book_ *id_body-8-2 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+Braside, cher amy, mon amour vous conjure,
+De luy prester la main pour vanger son injure,
+L'ingrate que je sers adore un estranger;
+Son esprit inconstant fait gloire⁎ de changer:
+Et du premier regard qu'un Adonis envoye,
+Il destruit mon espoir, ma fortune⁎ et ma joye.
+Ce Narcisse a des yeux qui charment ses esprits;                     
+Je ne suis pour les siens qu'un object⁎ de mespris;
+Et j'ay veu la perfide⁎ (ô funeste memoire !)
+Prendre ses interests; combattre pour sa gloire⁎;
+Repartir sans raison; et bien plus, m'offencer:
+Qui l'auroit creu jamais ? qui l'auroit pû penser ?
+Il est vray, cependant, la volage me quitte;
+La beauté d'un Rival efface mon merite;
+Il ne luy souvient point des services rendus,
+L'ingrate les oublie, et je les tiens perdus.
+O Miserable estat, où mon ame est rangée !
+O Maistresse changeante ! ô fortune⁎ changée !
+O Rival trop heureux, qui luy donne des loix:
+Mais estant mon second je les vaincray tous trois,
+Si ce bras genereux⁎ preste son assistance;
+Si contre l'infidelle il deffend ma constance;
+J'ose encor esperer au milieu du mal-heur:
+Et je n'en doute point, sçachant vostre valeur.
+
+-*who_braside
+Vostre ame en le croyant ne sera point trompée;
+Contre qui que ce soit employez mon espée;
+Allons sans s'amuser en discours superflus;
+A qui dois-je parler ? ne me le celez⁎ plus.
+
+-*who_oronte
+Philante est le Rival qu'aime la desloyale;                     
+Et son pere demeure à la place Royale.
+
+-*who_braside
+Je ne le connois point; mais au nom seulement,
+Et sçachant son quartier je le trouve aisément:
+Où nous irons nous batre ?
+
+-*who_oronte
+                à cent pas de la porte;
+Pourveu que ce soit prés la place, ne m'importe.
+
+-*who_braside
+Sortez par Sainct Anthoine, et vous mettez en lieu
+Où je vous puisse voir, n'y manquez pas, adieu.
+
+-*who_oronte
+O de tous les amis, l'amy le plus fidele !
+L'inconstante verra si j'estois digne d'elle;
+Et je verray bien tost si cét ambitieux,
+Sçait blesser de la main aussi bien que des yeux.
+
+ACTE IV.                    
+
+**** *book_ *id_body-8-3 *act_ *date_1636 *creator_scudery
+
+-*who_doriste
+Miserable Doriste, en quelle solitude,
+Dois-tu cacher ton crime, et ton inquietude ?
+Quel desert⁎ esloigné, te peut bien garantir,
+De la fureur d'un Maistre et de ton repentir ?
+Lors qu'Almedor verra ta fourbe descouverte,
+Pourra-t'on empescher sa vengeance et ta perte ?
+Ha ! bon Dieu nullement, ton mal n'est point douteux,
+Tu ne peux éviter un supplice honteux;
+Le Ciel impitoyable, est sourd à ta requeste;
+Desja sa foudre gronde et menace ta teste;
+Et si devant trois jours Philante ne revient,                     
+L'esperance t'eschappe et la parque te tient.
+Puissay-je voir ma fin avant ceste journée,
+Où l'on doit achever ce fantasque himenée⁎,
+O Ciel sourd à mes vœux, escoute mon transport,
+Tout ce qu'il te demande est une prompte mort.
+
+ACTE IV.
+
+**** *book_ *id_body-8-4 *act_ *date_1636 *creator_scudery
+
+-*who_philante
+N'auray-je point bien-tost le bon-heur que j'espere ?
+Quelle de ces maisons est celle de mon pere ?
+
+-*who_clorian
+Philante, à ce portail, je crois que la voicy:                         
+
+-*who_braside
+Philante ? ô quel bon-heur de le trouver icy !
+N'estes vous pas Philante ?
+
+-*who_philante
+                ainsi chacun me nomme:
+
+-*who_braside
+Fils d'Almedor ?
+
+-*who_philante
+        Luy-mesme:
+
+-*who_braside
+                un brave Gentil-homme,
+De vous faire appeler, a creu de son devoir;
+Si vous le desirez, je vous le feray voir.
+
+-*who_philante
+Son nom ?
+
+-*who_braside
+son nom fameux ne peut faire de honte;
+Tous les honnestes gens connoissent trop Oronte.
+
+-*who_philante
+Quel que soit cét Oronte, il faut le contenter;
+J'iray sur vostre foy⁎:
+
+-*who_braside
+            non, sans plus contester,
+(Je sçay bien mon mestier) avant nostre sortie,
+Choisissez un amy qui soit de la partie.
+
+-*who_clorian
+Allons à cela pres, vos desirs sont contens;
+Nous en ferons nous deux;
+
+-*who_braside
+            J'ay ce que je prétens.
+
+ACTE IV.                     
+
+**** *book_ *id_body-8-5 *act_ *date_1636 *creator_scudery
+
+-*who_almedor
+Ne remarquez vous pas comme ce beau visage,
+A fait envers mon fils reüssir mon presage ?
+Il meurt quand il le quitte, et ne vit qu'en ses yeux.
+
+-*who_rosandre
+Et vous, et moy devons des victimes aux Cieux;
+L'amour de nos enfans en prend son origine;
+Leur flame est eternelle aussi bien que divine;
+Et le mesme destin qui leur fit voir le jour,
+Escrivit en airain qu'ils auroient de l'amour.
+Jamais chose icy bas ne parut moins possible;                     
+Jamais cœur de rocher ne fut plus insensible
+Que celuy de ma fille, et je dois confesser,
+Qu'à moins que d'un miracle il falloit la forcer.
+Et pour moy (je le dis, et le jure sans feinte)
+Je pense faire un songe en la voyant atteinte;
+Et puis que le mespris de son cœur est banny,
+Philante a dans les yeux un pouvoir infiny.
+
+-*who_almedor
+Philante a mille fois plus d'heur que de merite;
+
+-*who_rosandre
+S'il est consideré, sa fortune⁎ est petite;
+Mais si de l'Univers je devenois vainqueur,
+Je le luy donnerois aussi bien que mon cœur.
+
+-*who_almedor
+Luciane vaut mieux que l'Empire du monde;
+Et ce riche present n'a rien qui le seconde:
+Les beautez, les vertus, font l'aise et le bon-heur;
+Et seules peuvent plaire aux personnes d'honneur⁎;
+Mais ne differons plus nostre bonne fortune⁎;                    
+Confondons nos maisons, et n'en faisons plus qu'une.
+
+-*who_rosandre
+Demain sans differer avec mille plaisirs,
+Nos voeus s'accompliront ainsi que leurs desirs,
+
+ACTE IV.
+
+**** *book_ *id_body-8-6 *act_ *date_1636 *creator_scudery
+
+-*who_oronte
+STANCES.
+
+Tyran⁎, cesse de me poursuivre;
+Fascheux Amour, retire toy;
+Mais non ! peris avecques moy;
+Pour te faire mourir je veux cesser de vivre:
+Viens donc esteindre ton flambeau,                             
+Dans les cendres de mon tombeau.
+
+Luciane est une infidelle;
+Amour est un enfant trompeur;
+Mais puis que je n'ay point de peur,
+Je veux rire de luy, je me veux mocquer d'elle:
+Et dans un genereux⁎ effort,
+Rompre leurs prisons par ma mort.
+
+Esprit changeant, ame perfide⁎;
+Cœur volage, fille sans foy⁎,
+Ton œil qui me donnoit la loy,
+Ne sera plus mon maistre estant mon homicide:
+Et d'Esclave accablé d'ennuy⁎,
+Je veux mourir libre aujourd'huy.
+
+Mais, belle et trompeuse Maistresse,
+Ce plaisir te sera fatal;
+Le triomphe de mon Rival,
+Ne t'obligera point à des chants d'allegresse:
+Car sçache que s'il a du cœur,
+Nous mourrons tous deux sans vainqueur;
+
+Mire toy dans ce beau visage,                             
+Qui met ta constance aux abois;
+Ce sera la derniere fois
+Que mon bras irrité, t'en permettra l'usage;
+S'il ose venir en ce lieu,
+Prends et donne un derniers adieu.
+
+Son sang marquera ton offence;
+Et le mien ma fidelité;
+Nous serons (perdant la clarté)
+Sacrifice d'amour, victime de vengeance:
+Pour te consoler aisément,
+Tu n'as qu'à faire un autre Amant.
+Oüy, sans doute l'ingrate, et la volage Dame,
+R'allumera bientost une nouvelle flame;
+Un tiers de nos travaux⁎ recueillira les fruicts;
+Un tiers viendra bastir sur nos desseins⁎ destruicts;
+Apres dans peu de jours il verra l'inconstante,
+Aussi bien que la nostre abuser son attente;
+Brusler de nouveaux feux et se mocquer du sien;
+Changer et rechanger, aimer tout, n'aimer rien;
+Et dans ses passions veritable Prothee,
+Estre une isle flottante en la mer agitee;
+Roseau fresle, desbile⁎, et qui tourne à tout vent;                     
+Monstre plein d'inconstance, et vray sable mouvant:
+Mais courage mon coeur, quittons cette perfide⁎,
+Voicy nos ennemis, et j'apperçoy Braside.
+
+ACTE IV.
+
+**** *book_ *id_body-8-7 *act_ *date_1636 *creator_scudery
+
+-*who_braside
+Oronte est en estat de fort homme de bien;
+Faites vostre devoir, et je feray le mien.
+
+-*who_oronte
+Tenez, visitez moy; voyez par ma franchise⁎,
+Si je crains le peril ou si je le mesprise.
+
+-*who_clorian
+J'agis par la coustume en des soins⁎ superflus:                         
+
+-*who_philante
+Allez rejoindre Oronte, et ne differons plus.
+
+-*who_braside
+Courage ils sont à nous;
+
+-*who_clorian
+            ô quel excez de gloire⁎
+Avant que de combattre ils chantent la victoire.
+
+-*who_oronte
+Dans quel estonnement⁎ me vois-je retenu ?
+Pourquoy m'amenez vous ce visage inconnu ?
+Mon éxtreme douleur tousjours plus violente,
+M'auroit-elle fait dire un autre pour Philante ?
+Respondez moy Braside;
+
+-*who_braside
+            Oronte, ouvrez les yeux:
+
+-*who_philante
+Philante parle à vous, et regardez le mieux;                     
+Mais vous qui l'attaquez avant que le connoistre,
+Dites luy d'où la haine entre nous a pû naistre ?
+
+-*who_oronte
+Philante que je cherche est le fils d'Almedor:
+
+-*who_philante
+Je ne vous connois point, et suis le mesme encor.
+
+-*who_oronte
+Vous Philante !
+
+-*who_philante
+        luy mesme:
+
+-*who_oronte
+                arrivé de Bretagne ?
+
+-*who_philante
+On le voit en voyant mon habit de campagne:
+
+-*who_oronte
+Fils d'Almedor ?
+
+-*who_philante
+         son fils:
+
+-*who_oronte
+            d'Almedor de Renier ?
+
+-*who_philante
+D'Almedor que les Turcs ont tenu prisonnier.
+
+-*who_oronte
+Vous avez donc changé de taille et de figure,
+
+-*who_philante
+Tel que vous me voyez, tel me fit la Nature.
+
+-*who_oronte
+Pourquoy prendre ce nom est-il assez fameux ?
+
+-*who_philante
+Mes peres l'ont porté, je le porte comme eux.
+
+-*who_oronte
+Je l'ay veu ce Philante aupres de sa Maistresse:                     
+
+-*who_philante
+Ha ! qu'il est donc bien loing du mal-heur qui m'oppresse:
+
+-*who_oronte
+Il veut ma Luciane, et je veux son trespas:
+
+-*who_philante
+Je me battrois cent fois pour ne l'espouser pas.
+
+-*who_oronte
+Plus je veux m'esclaircir, plus je me sens confondre;
+Et je ne sçaurois plus demander ny respondre.
+
+-*who_clorian
+Je commence à voir clair dans cette obscurité;
+Quelque imposteur aura vostre nom emprunté;
+Et devenant Rival d'Oronte qui s'abuse;                         
+Une fille infidelle a secondé sa ruse.
+Apres ce Gentil-homme en vous oyant nommer,
+Aura fait une erreur qu'on ne sçauroit blasmer;
+Mais bien que nous soyons en estat de nous battre;
+Le cœur ne manquant point à pas un de nous quatre;
+Si vous me voulez croire, allons voir ce trompeur,
+Avant que vostre nom le sauve par la peur.
+
+-*who_oronte
+Le front des braves gens visiblement exprime,
+Quelque chose de grand qui ne sent point le crime;
+Je crois vostre discours et commence à sentir,
+De ma faute commise un juste repentir,
+
+-*who_philante
+Vous n'avez point failly, c'est plustost la fortune⁎:
+Qu'Oronte chasse donc cette crainte importune;
+Loing d'estre son Rival je suis son serviteur;
+Mais sans perdre⁎ le temps voyons cét imposteur.
+
+**** *book_ *id_body-9-1 *act_ *date_1636 *creator_scudery
+
+-*who_belise
+STANCES.
+
+En fin malheureuse Belise,
+Tu perdras l'honneur⁎ et le jour;
+On verra ton crime d'amour,
+Quel que soit le chemin que ta prudence élise;
+On verra ton trespas,                                     
+Philante ne vient pas.
+
+Charmante et trompeuse esperance,
+Ne venez plus m'entretenir,
+D'un mal qui ne sçauroit finir;
+Et de qui le remede est si hors d'apparence:
+On verra mon trespas,
+Philante ne vient pas
+
+En quel estat suis-je reduite,
+Que rien ne me peut secourir !
+Si je demeure il faut mourir;
+Et je n'advance rien en reprenant la fuite:
+On verra mon trespas,
+Philante ne vient pas.
+
+Mes peines seront eternelles,
+Si l'esprit a le mesme sort;
+Ingrat viens empescher ma mort;
+Mais pour le pouvoir faire il luy faudroit des aisles:
+On verra mon trespas,
+Philante ne vient pas.
+
+La force de la destinée,                                 
+Regne si souverainement,
+Que c'est perdre⁎ le jugement⁎,
+Que de croire empescher une chose ordonnée:
+On verra mon trespas,
+Philante ne vient pas.
+O Dieu ! Quel accident, retarde ta venuë ?
+La douleur que je sens, ne t'est pas inconnuë;
+Tu la sçais inhumain, ou tu la dois sçavoir;
+Fais donc qu'elle t'oblige à faire ton devoir.
+Viens sauver ta Belise avec sa renommée,
+Viens t'en luy tesmoigner que tu l'as bien aimée;
+Mais las ! encor un coup on verra mon trespas;
+Mes cris sont superflus, Philante ne vient pas.
+Cruel⁎ quand le destin par un excez d'envie,
+Pour me faire mourir t'auroit osté la vie;
+En m'oyant souspirer⁎, en me voyant finir;
+Malgré ses dures loix tu devrois revenir.
+Compagnons du mal-heur qu'esprouve mon courage;
+Vous que le mesme sort expose au mesme orage;
+N'avez vous point trouvé pour nostre affliction,
+Ce que je cherche en vain dans mon invention ?
+
+ACTE V.                     
+
+**** *book_ *id_body-9-2 *act_ *date_1636 *creator_scudery
+
+-*who_luciane
+Helas chere Belise ! il ne m'est pas possible,
+De fleschir la rigueur de ce pere insensible;
+La douleur que j'ay feinte au lieu de l'esmouvoir,
+Irrite sa colere et pique son pouvoir;
+Il vient de me jurer qu'il ne veut plus attendre:
+
+-*who_belise
+Le dessein⁎ d'Almedor est celuy de Rosandre;
+Si bien que nostre perte est un point arresté:
+
+-*who_luciane
+Il faut mourir ma sœur; l'espoir nous est osté.
+
+-*who_belise
+Mais toy de qui l'esprit plus libre que le nostre:
+
+-*who_doriste
+Loing d'estre Conseiller j'en ay besoin d'un autre.
+Vous serez en ce mal si long-temps attendu,
+Tristes (il est certain) mais je seray perdu.
+Pour moy seul la fureur d'un Maistre que j'abuse,
+Fera voir ses efforts en punissant ma ruse.
+Toutefois quelque espoir luit encor à mes yeux,
+Si l'on suit un advis que m'inspirent les Cieux.
+
+-*who_belise
+Propose-le Doriste;
+
+-*who_doriste
+            achevez l'himenée⁎;
+Laissons nous emporter à cette destinée;
+Il faut vaincre en cedant le courroux de la mer:                         
+Aucun ne le sçachant qui nous pourra blasmer ?
+De nous persecuter la fortune⁎ lassee,
+Peut-estre fera voir la tempeste passee,
+Ramenant en ces lieux le juste possesseur:
+Voila ce que je sçay.
+
+-*who_belise
+            qu'en dites vous ma sœur ?
+
+-*who_luciane
+Il nous faut bien resoudre à des maux necessaires:
+
+-*who_belise
+Retirons nous, fuyons, j'entends nos adversaires;
+Vueille apres tant de maux le destin par pitié,
+Favoriser en nous l'amour et l'amitié⁎.
+
+ACTE V.                     
+
+**** *book_ *id_body-9-3 *act_ *date_1636 *creator_scudery
+
+-*who_rosandre
+Ha monsieur on nous trompe, et cette belle flame,
+Esclatte en leur discours sans eschauffer leur ame:
+Le visage et le cœur se trouvent differents,
+Au mespris du respect qu'on doit rendre aux parents.
+Quelque mauvais dessain occupe leur pensee;
+De quelques traicts cachez ils ont l'ame blessee;
+Et malgré l'artifice on voit paroistre au jour,
+Au lieu d'un legitime un illicite amour.
+O siecle mal-heureux ! où les enfans rebelles,                 
+Rompent de justes loix pour des loix criminelles;
+Adorent leur caprice et d'un cœur abbatu,
+S'esloignent du sentier où guide la vertu.
+Mais si faut-il rebelle et peu discrette fille,
+Dont le crime ternit l'esclat de ma famille;
+Si faut-il obeyr, il est temps desormais;
+Et ployer (en un mot) ou rompre sous le faix.
+
+-*who_almedor
+Saisi d'estonnement⁎, l'ame toute confuse;
+Considerant le bien que Philante refuse;
+(Bien qui sans le flatter est sans comparaison)
+Je voy que cét infame a perdu la raison.
+
+-*who_rosandre
+Il a plustost perdu sa franchise⁎ et son ame;
+Sans doute que son cœur brusle d'une autre flame.
+
+-*who_almedor
+Il la devoit esteindre et brusler aujourd'huy
+D'un feu qui contentast vous et moy comme luy.
+
+-*who_rosandre
+Il aime un autre object⁎ qu'il trouve plus aimable⁎:
+
+-*who_almedor
+Ce choix fait sans le mien ne peut qu'estre blasmable;
+Et de quelque costé qu'il se puisse ranger,
+Sans perdre⁎ infiniment, il ne sçauroit changer.
+
+-*who_rosandre
+Vostre seule bonté fait naistre vostre estime:
+
+-*who_almedor
+En voyant vostre fille on la voit legitime.
+
+-*who_rosandre
+Elle n'est qu'une souche, et sa temerité,
+Recevra de ma part ce qu'elle a merité.
+
+-*who_almedor
+Philante est seul coupable;
+
+-*who_rosandre
+            Elle est seule insolente;
+De me desobeyr et refuser Philante.
+
+-*who_almedor
+Une juste colere y porte ses esprits;
+Cét aveugle insensible a causé son mespris;
+Mais bien qu'il soit sans yeux, mais bien qu'il me trahisse;
+Puis que je l'ay promis⁎ il faut qu'il obeysse;
+Ainsi que l'art d'aimer, je sçay l'art de punir.
+Mais que veulent ces gens que j'apperçoy venir ?
+
+ACTE V.                     
+
+**** *book_ *id_body-9-4 *act_ *date_1636 *creator_scudery
+
+-*who_philante
+Voyons ce beau Philante;
+
+-*who_oronte
+            Amour veut que j'espere:
+
+-*who_braside
+Le plus haut de ces deux est Monsieur vostre pere.
+
+-*who_clorian
+Ha ! que nous allons voir un trompeur bien trompé;
+Il ne voit pas le traict dont il sera frappé.
+
+-*who_rosandre
+Ce Cavalier n'est point de nostre connoissance:
+
+-*who_philante
+Puisque c'est de vous seul que je tiens la naissance,
+Mon Pere souffrez⁎ moy d'embrasser vos genoux;
+Je possede l'honneur⁎ d'estre sorty de vous.
+
+-*who_almedor
+Monsieur, que la raison reprenne son usage;
+Vous vous laissez tromper aux traicts de mon visage;
+Je ne vous connois point;
+
+-*who_philante
+            Et ce fils inconnu,
+Par vos commandemens est icy revenu.
+
+-*who_almedor
+On m'appelle Almedor;
+
+-*who_philante
+            On me nomme Philante;
+
+-*who_rosandre
+Ha quelle effronterie !
+
+-*who_almedor
+            ô la fourbe excellente !
+Certes, je manque d'yeux, et j'ay les sens troublez.
+Bien loing d'estre mon fils, si vous luy ressemblez.
+
+-*who_philante
+Cét instinct que Nature aux animaux octroye,
+A fait qu'à vostre abord j'ay tressailly de joye.
+
+-*who_almedor
+La raison qui me guide en ce dangereux pas,
+Fait en vous escoutant que je ne tressauts pas.
+
+-*who_philante
+Si devriez vous sentir dedans cette advanture⁎,
+Ces puissans mouvemens que donne la nature.
+
+-*who_almedor
+Ayant l'esprit tranquille et le jugement⁎ sain;
+Je ris sans m'estonner⁎ de ce plaisant dessein⁎.
+
+-*who_philante
+Quoy ! vous me soupçonnez d'inventer ce langage ?
+
+-*who_almedor
+Quoy, vous croyez dupper un homme de mon âge ?
+
+-*who_philante
+Si dedans ce discours je vous ose mentir,
+Puisse en ce mesme instant la terre m'engloutir.
+
+-*who_almedor
+Si je crois aux sermens dont je sçay la malice,
+Que ma simplicité cede à vostre artifice.
+Cherchant à me tromper vostre esprit cherche un point.             
+Qu'indubitablement il ne trouvera point.
+
+-*who_philante
+Ha ! que vous me donnez une douleur amere;
+Voyez en mon visage un portraict de ma Mere:
+
+-*who_almedor
+Ma femme et ce portraict ne tenoient rien d'esgal;
+Et s'il est fait pour elle, il luy ressemble mal.
+
+-*who_philante
+Que je suis mal-heureux !
+
+-*who_almedor
+            que vous estes coupable !
+
+-*who_philante
+D'un si lasche projet me croyez vous capable ?
+
+-*who_almedor
+Ouy de le commencer; mais non de le finir:
+
+-*who_philante
+Quel que soit l'imposteur que ce bras doit punir,
+Si faut-il que sa fourbe à la fin soit connuë;
+Et que la verité paroisse toute nuë:
+Voyons-le ce Philante, autheur de mon soucy.
+
+-*who_almedor
+Advertissez mon fils; et qu'il descende icy;
+
+-*who_rosandre
+Faites venir encor Luciane;
+
+-*who_oronte
+                ha ! Braside,
+Verray-je sans mourir cette belle homicide ?
+Verray-je ce meschant ? verray-je ce volleur ?
+Dont l'injuste plaisir a causé ma douleur ?
+Qui prend le nom d'un autre, et l'innocence opprime                
+Sans luy faire sentir la peine de son crime ?
+Chacun excusera mon amoureuse erreur;
+Respect, retire toy; laisse agir ma fureur.
+
+-*who_braside
+Faites que la raison soit tousjours la plus forte;
+Soyez Maistre de vous au mal qui vous transporte;
+Domptez vos sentimens et voyons terminer,
+Le combat de ces deux qui vous doit couronner.
+
+-*who_clorian
+Chassez de vostre esprit le soin⁎ qui l'importune;
+Offrez plustost des vœux à la bonne fortune⁎;
+Car si Philante seul vous fait craindre aujourd'huy,
+Oronte encor un coup, je vous responds de luy.
+
+-*who_rosandre
+Quel que soit le dessein⁎ que vous ayez en l'ame,
+Vous n'en pouvez tirer que du mal et du blasme.
+Celuy qui vous abuse et qui me fait ce tort,                     
+N'a point assez de front pour souffrir⁎ mon abord:
+Un coup d'œil seulement le remplira de glace,
+
+-*who_almedor
+Philante; un inconnu veut occuper ta place;
+Il dit estre toy mesme; et le veut soustenir;
+Viens deffendre ton droict, et le faire punir.
+
+ACTE V.                     
+
+**** *book_ *id_body-9-5 *act_ *date_1636 *creator_scudery
+
+-*who_belise
+O Dieu !
+
+-*who_philante
+C'est Elle !
+
+-*who_clorian
+        O Ciel ! quelle advanture⁎ estrange ?
+
+-*who_oronte
+Est-ce ainsi qu'on punit ? est-ce ainsi qu'on se vange ?
+Ils se trouvent amis par un sort hasardeux;                 
+Mais Braside, n'importe, ils sont trois et nous deux:
+
+-*who_rosandre
+Monsieur, à dire vray, leur amitié⁎ m'estonne⁎:
+
+-*who_almedor
+Je ne puis exprimer le mal qu'elle me donne.
+
+-*who_philante
+Il est temps d'esclaircir un mistere caché
+Et d'obtenir pardon si nous avons peché.
+
+-*who_belise
+La belle que j'ameine, estant de nostre ligue,
+Son interest m'oblige à demesler l'intrigue:
+Laissez moy donc parler, m'ayant donné sa foy⁎,
+Dessouz vostre congé; n'est-elle pas à moy.
+En puis-je disposer ?
+
+-*who_rosandre
+            elle est à vous Philante;
+
+-*who_belise
+Usant comme je doibs, d'une chose excellente;
+Je vous la donne Oronte: ou plustost par mes mains,                 
+Vous la donne celuy qui commande aux humains.
+
+-*who_rosandre
+Helas ! qu'ay-je entendu ?
+
+-*who_almedor
+            bon Dieu, quelle insolence,
+
+-*who_clorian
+Que vostre estonnement⁎ soit suivy du silence:
+Prestez moy donc l'oreille, et me vueillez oüir;
+Peut-estre mon discours vous pourra resjoüir.
+Ce Philante est ma sœur; qu'un feu qui la consomme,
+Fait paroistre en ce lieu dessouz l'habit d'un homme;
+Aimant le vray Philante, et quittant ma maison;
+Mais cette histoire est longue, et n'est pas de saison:
+Il suffit de sçavoir que celuy qu'elle estime,
+Est du brave Almedor l'heritier legitime;
+Ouy, celuy qui luy parle est vostre unique enfant;                 
+Desormais d'en douter la raison vous deffend.
+
+-*who_doriste
+Il est vray, Monseigneur, c'est vostre fils unique:
+Et si vous m'accusez je reste sans replique;
+J'ay failly, je l'advouë; avec affliction;
+Mais ce ne fut pourtant qu'à bonne intention.
+
+-*who_almedor
+Pardonne mon cher fils ce que je viens de dire:
+J'en ay du repentir, et ma bouche en souspire⁎;
+Celle qui m'a trompé me peut bien excuser;
+Car à tant de vertus que peut-on refuser ?
+
+-*who_philante
+Je ne sçaurois parler dans ce plaisir extréme;
+Vous n'estes point trompé, car Belise est moy-mesme;
+Et si vostre vouloir s'accorde à mon amour,
+Une seconde fois, je vous devray le jour.
+
+-*who_clorian
+Que si vous redoutez quelque desavantage;
+Et la naissance illustre, et le riche partage,
+D'agreer leurs desirs, pour ma sœur vous semond;                 
+Puis qu'elle est comme moy de la Maison d'Armont:
+Maison assez connuë, et qui dans la Province,
+Ne voir rien dessus soy que le pouvoir du Prince.
+
+-*who_almedor
+Rosandre, vous voyez que les fatalitez,
+Ne tombent point d'accord avec nos volontez;
+Que le Ciel tout puissant autrement en dispose;
+Et que le destin rit de ce que je propose.
+Si bien que c'est à nous de ployer sagement;
+Mais ne soyez point triste en mon contentement;
+Vous recouvrez un fils en recevant Oronte:
+
+-*who_oronte
+Qui frappé dans le cœur du bel œil qui le dompte,
+N'aura jamais de soing⁎ en s'en laissant ravir,
+Que celuy de vous plaire, honorer et servir.
+
+-*who_rosandre
+Levez vous; j'y consens; en fin ma resistance,
+Cessera de lutter contre vostre constance:
+Si vous estes content, je le suis desormais.                     
+
+-*who_oronte
+Souvenir de mes maux ne revenez jamais.
+
+-*who_luciane
+Mon pere, pardonnez à mes fautes passees:
+
+-*who_rosandre
+Ma fille, assurez vous qu'elles sont effacees.
+
+-*who_almedor
+Vivez tous quatre heureux, et que Doriste aussi,
+S'assure du pardon que je luy donne icy.
+
+-*who_philante
+Autheur de mes plaisirs, ainsi que de ma vie,
+Pourray-je vous servir comme j'en ay l'envie ?
+
+-*who_belise
+Et fille, comme fils, oseray-je esperer,
+Que vostre affection puisse encore durer ?
+
+-*who_almedor
+Sçachez que fils, et fille, et Philante, et Belise,
+Vous avez sur mon cœur toute puissance acquise:
+
+-*who_rosandre
+Allons, il se fait tard; le soupper nous attend.
+
+-*who_braside
+Satisfaisons le corps si l'esprit est content.
+
+-*who_belise
+Plus à loisir mon frere, il faut
+
+-*who_clorian
+                fermes la bouche:
+Vostre choix estoit juste, et mon jugement⁎ louche;
+Ne meslons rien d'amer avec cette douceur;
+Oublions l'un et l'autre, et nous aimons, ma sœur.
+
+-*who_luciane
+Et bien jaloux Oronte, estiez vous raisonnable ?
+Vostre faute commise est elle pardonnable ?
+Ce soupçon mal fondé n'est-il pas criminel ?
+Et n'en aurez vous point un remords eternel ?
+Meritay-je du blasme ou bien de la loüange ?
+Suis-je inconstante en fin ? reprochez moy mon change;
+Voyez si ce Rival n'avoit pas bien dequoy,
+Troubler vostre repos en esbranlant ma foy⁎ !
+Mais demandant pardon ma bonté vous l'accorde;
+Et ma justice cede à ma misericorde:
+Ouy, je veux oublier ces soupçons superflus;
+Si vous me promettez de n'y retomber plus.
+
+-*who_oronte
+Rare et divin esprit, sçavant en l'art de feindre,
+Vous vous pleignez premier pour m'empescher de pleindre⁎;
+Vous avez fait la faute, et vous m'en accusez;
+Elle m'a pensé perdre⁎, et vous l'authorisez;
+Vous demandez raison, et je vous la demande:
+Mais il faut obeïr puis qu'on me le commande;
+Soit; donnez le pardon, que vous avez promis⁎,                    
+A ce crime d'amour que vous avez commis.
+Mais non; refuser moy cette juste allegeance;
+Afin que cent baisers m'en fassent la vengeance.
+
+-*who_luciane
+Vous estes en colere, et vous me menacez ?
+
+-*who_oronte
+Le champ nous est ouvert, allons-y; c'est assez.
+
+FIN

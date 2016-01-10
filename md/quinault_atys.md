@@ -1,0 +1,2123 @@
+---
+identifier: quinault_atys  
+creator: QUINAULT, Philippe  
+date: 1676  
+title: ATYS, TRAGÉDIE  
+---
+
+
+ATYS
+
+TRAGÉDIE EN MUSIQUE
+
+ornée d'entrées de ballet, de machines et de changements de Théâtre.
+
+M. DC. CXXVI. Par exprès commandement de Sa Majesté.
+
+
+
+À PARIS, Par CHRISTOPHE BALLARD, seul imprimeur du Roi, pour la musique, rue Saint-Jean de Beauvais, au Mont Parnasse.
+Représenté devant sa Majesté à Saint-Germain-en-Laye le dixième janvier 1676.
+
+
+# ACTEURS
+ – ATYS.
+ – CYBELE.
+ – IRIS.
+ – IDAS.
+ – DORIS.
+ – MÉLISSE.
+ – SANGARIDE.
+ – FLORE.
+ – MELPOMÈNE.
+ – Le TEMPS.
+ – Chœur des HEURES.
+ – ZÉPHIR.
+ – Le CHOEUR.
+ – Le SOMMEIL.
+ – MORPHÉE.
+ – PHOBETOR.
+ – PHANTASE.
+ – SONGES agréables et funestes.
+ – Le fleuve SANGAR.
+ – NYMPHES.
+ – DIEUX de fleuves.
+ – Divinités de fontaines, et de ruisseaux.
+ – Divinités de ruisseaux.
+ – CELAENUS.
+ – Chœur des PHRYGIENS.La scène est en Phrygie. Le théâtre représente une montagne consacrée à Cybele.
+
+
+# PROLOGUE
+Le théâtre représente le palais du temps, où ce dieu paraît au milieu des douze heures du jour, et des douze heures de la nuit.
+
+
+
+## 
+
+    LE TEMPS
+En vain j'ai respecté la célèbre mémoire  
+Des héros des siècles passés ;  
+C'est en vain que leurs noms si fameux dans l'histoire,  
+Du sort des noms communs ont été dispensés :  
+Nous voyons un héros dont la brillante gloire  
+Les a presque tous effacés.  
+
+    CHŒUR DES HEURES
+Ses justes lois,  
+Ses grands exploits  
+Rendront sa mémoire éternelle :  
+Chaque jour, chaque instant  
+Ajoute encor à son nom éclatant  
+Une gloire nouvelle.  
+La déesse Flore conduite par un des zéphirs s'avance avec une troupe de nymphes qui portent divers ornements de fleurs.
+
+
+    LE TEMPS
+La saison des frimas peut-elle nous offrir  
+Les fleurs que nous voyons paraître ?  
+Quel dieu les fait renaître  
+Lorsque l'hiver les fait mourir ?  
+Le froid cruel règne encore ;  
+Tout est glacé dans les champs,  
+D'où vient que Flore  
+Devance le printemps ?  
+
+    FLORE
+Quand j'attends les beaux jours, je viens toujours trop tard,  
+Plus le printemps s'avance, et plus il m'est contraire ;  
+Son retour presse le départ  
+Du héros à qui je veux plaire.  
+Pour lui faire ma cour, mes soins ont entrepris  
+De braver désormais l'hiver le plus terrible,  
+Dans l'ardeur de lui plaire on a bientôt appris  
+À ne rien trouver d'impossible.  
+
+    LE TEMPS ET FLORE
+Les plaisirs à ses yeux ont beau se présenter,  
+Sitôt qu'il voit Bellone, il quitte tout pour elle ;  
+Rien ne peut l'arrêter  
+Quand la gloire l'appelle.  
+Le chœur des heures répète ces deux derniers vers. La suite de Flore commence des jeux mêlés de danses et de chants.
+
+
+    UN ZEPHIR
+Le printemps quelquefois est moins doux qu'il ne semble,  
+Il fait trop payer ses beaux jours ;  
+Il vient pour escorter les jeux et les amours,  
+Et c'est l'hiver qui les rassemble.  
+Melpomène qui est la muse qui préside à la tragédie, vient accompagnée d'une troupe de héros, elle est suivie d'Hercule, d'Antaee, de Castor, de Pollux, de Lyncée, d'Idas, d'Étéocle, et de Polynice.
+
+
+    MELPOMÈNE, PARLANT À FLORE
+Retirez-vous, cessez de prévenir le temps ;  
+Ne me dérobez point de précieux instants :  
+La puissante Cybele  
+Pour honorer Atys qu'elle a privé du jour,  
+Veut que je renouvelle  
+Dans une illustre cour  
+Le souvenir de son amour.  
+Que l'agrément rustique  
+De Flore et de ses jeux,  
+Cède à l'appareil magnifique  
+De la muse tragique,  
+Et de ses spectacles pompeux.  
+La suite de Melpomène prend la place de la suite de Flore. Les héros recommencent leurs anciennes querelles. Hercule combat et lutte contre Antaee, Castor et Pollux combattent contre Lyncée et Idas, et Etéocle combat contre son frère Polynice.Iris, par l'ordre de Cybele, descend assise sur son arc, pour accorder Melpomène et Flore.
+
+
+    IRIS, PARLANT À MELPOMÈNE
+Cybele veut que Flore aujourd'hui vous seconde.  
+Il faut que les plaisirs viennent de toutes parts,  
+Dans l'empire puissant, où règne un nouveau Mars,  
+Ils n'ont plus d'autre asile au monde.  
+Rendez-vous, s'il se peut, dignes de ses regards ;  
+Joignez la beauté vive et pure  
+Dont brille la nature,  
+Aux ornements des plus beaux arts.  
+Iris remonte au ciel sur son arc, et la suite de Melpomène s'accorde avec la suite de Flore.
+
+
+    MELPOMÈNE ET FLORE
+Rendons-nous, s'il se peut, dignes de ses regards ;  
+Joignons la beauté vive et pure  
+Dont brille la nature,  
+Aux ornements des plus beaux arts.  
+
+    LE TEMPS, ET LE CHŒUR DES HEURES
+Préparez de nouvelles fêtes,  
+Profitez du loisir du plus grand des héros ;  
+
+    LE TEMPS, MELPOMÈNE ET FLORE
+Préparez de nouvelles fêtes  
+Préparons de nouvelles fêtes  
+Profitez du loisir du plus grand des héros  
+Profitons du loisir du plus grand des héros.  
+
+    TOUS ENSEMBLE
+Le temps des jeux, et du repos,  
+Lui sert à méditer de nouvelles conquêtes.  
+
+
+# ACTE I
+
+
+## SCÈNE I
+La scène est en Phrygie. Le théâtre représente une montagne consacrée à Cybele.
+
+
+    ATYS
+Allons, allons, accourez tous,  
+Cybele va descendre.  
+Trop heureux phrygiens, venez ici l'attendre.  
+Mille peuples seront jaloux  
+Des faveurs que sur nous  
+Sa bonté va répandre.  
+
+
+## SCÈNE II
+Idas, Atys.
+
+
+    IDAS, ATYS
+Allons, allons, accourez tous,  
+Cybèle va descendre.  
+
+    ATYS
+Le soleil peint nos champs des plus vives couleurs,  
+Il a seché les pleurs  
+Que sur l'émail des prés a répandu l'aurore ;  
+Et ses rayons nouveaux ont déja fait éclore  
+Mille nouvelles fleurs.  
+
+    IDAS
+Vous veillez lorsque tout sommeille ;  
+Vous nous éveillez si matin,  
+Que vous ferez croire à la fin  
+Que c'est l'amour qui vous éveille.  
+
+    ATYS
+Non, tu dois mieux juger du parti que je prends.  
+Mon cœur veut fuir toujours les soins et les mystères ;  
+J'aime l'heureuse paix des cœurs indifférents ;  
+Si leurs plaisirs ne sont pas grands,  
+Au moins leurs peines sont légères.  
+
+    IDAS
+Tôt ou tard l'amour est vainqueur,  
+En vain les plus fiers s'en défendent,  
+On ne peut refuser son cœur  
+À de beaux yeux qui le demandent.  
+Atys, ne feignez plus, je sais votre secret.  
+Ne craignez rien, je suis discret.  
+Dans un bois solitaire et sombre,  
+L'indifférent Atys se croyait seul, un jour ;  
+Sous un feuillage épais où je rêvais à l'ombre,  
+Je l'entendis parler d'amour.  
+
+    ATYS
+Si je parle d'amour, c'est contre son empire,  
+J'en fais mon plus doux entretien.  
+
+    IDAS
+Tel se vante de n'aimer rien,  
+Dont le cœur en secret soupire.  
+J'entendis vos regrets, et je les sais si bien  
+Que si vous en doutez je vais vous les redire.  
+Amants qui vous plaignez, vous êtes trop heureux :  
+Mon cœur de tous les cœurs est le plus amoureux,  
+Et tout près d'expirer je suis réduit à feindre ;  
+Que c'est un tourment rigoureux  
+De mourir d'amour sans se plaindre !  
+Amants qui vous plaignez, vous êtes trop heureux.  
+
+    ATYS
+Idas, il est trop vrai, mon cœur n'est que trop tendre,  
+L'amour me fait sentir ses plus funestes coups.  
+Qu'aucun autre que toi n'en puisse rien apprendre.  
+
+
+## SCÈNE III
+Sangaride, Doris, Atys, Idas.
+
+
+    SANGARIDE ET DORIS
+Allons, allons, accourez tous,  
+Cybèle va descendre.  
+
+    SANGARIDE
+Que dans nos concerts les plus doux,  
+Son nom sacré se fasse entendre.  
+
+    ATYS
+Sur l'univers entier son pouvoir doit s'étendre.  
+
+    SANGARIDE
+Les dieux suivent ses lois et craignent son couroux.  
+
+    ATYS, SANGARIDE, IDAS, DORIS
+Quels honneurs ! Quels respects ne doit-on point lui rendre ?  
+Allons, allons, accourez tous,  
+Cybèle va descendre.  
+
+    SANGARIDE
+Écoutons les oiseaux de ces bois d'alentour,  
+Ils remplissent leurs chants d'une douceur nouvelle.  
+On dirait que dans ce beau jour,  
+Ils ne parlent que de Cybèle.  
+
+    ATYS
+Si vous les écoutez, ils parleront d'amour.  
+Un roi redoutable,  
+Amoureux, aimable,  
+Va devenir votre époux ;  
+Tout parle d'amour pour vous.  
+
+    SANGARIDE
+Il est vrai, je triomphe, et j'aime ma victoire.  
+Quand l'amour fait régner, est-il un plus grand bien ?  
+Pour vous, Atys, vous n'aimez rien,  
+Et vous en faites gloire.  
+
+    ATYS
+L'amour fait trop verser de pleurs ;  
+Souvent ses douceurs sont mortelles :  
+Il ne faut regarder les belles  
+Que comme on voit d'aimables fleurs.  
+J'aime les roses nouvelles,  
+J'aime à les voir s'embellir,  
+Sans leurs épines cruelles,  
+J'aimerais à les cueillir.  
+
+    SANGARIDE
+Quand le péril est agréable,  
+Le moyen de s'en alarmer ?  
+Est-ce un grand mal de trop aimer  
+Ce que l'on trouve aimable ?  
+Peut-on être insensible aux plus charmants appas ?  
+
+    ATYS
+Non vous ne me connaissez pas.  
+Je me défends d'aimer autant qu'il m'est possible ;  
+Si j'aimais, un jour, par malheur,  
+Je connais bien mon cœur  
+Il serait trop sensible.  
+Mais il faut que chacun s'assemble près de vous,  
+Cybèle pourrait nous surprendre.  
+
+    ATYS, ET IDAS
+Allons, allons, accourez tous,  
+Cybèle va descendre.  
+
+
+## SCÈNE IV
+Sangaride, Doris
+
+
+    SANGARIDE
+Atys est trop heureux.  
+
+    DORIS
+L'amitié fut toujours égale entre vous deux,  
+Et le sang d'assez près vous lie :  
+Quel que soit son bonheur, lui portez-vous envie ?  
+Vous, qu'aujourd'huy l'hymen avec de si beaux nœuds  
+Doit unir au roi de Phrygie ?  
+
+    SANGARIDE
+Atys, est trop heureux.  
+Souverain de son cœur, maître de tous ses vœux,  
+Sans crainte, sans mélancolie,  
+Il jouit en repos des beaux jours de sa vie ;  
+Atys ne connaît point les tourments amoureux,  
+Atys est trop heureux.  
+
+    DORIS
+Quel mal vous fait l'amour ? Votre chagrin m'étonne.  
+
+    SANGARIDE
+Je te fie un secret qui n'est su de personne.  
+Je devrais aimer un amant  
+Qui m'offre une couronne ;  
+Mais, hélas ! Vainement  
+Le devoir me l'ordonne,  
+L'amour, pour mon tourment,  
+En ordonne autrement.  
+
+    DORIS
+Aimeriez-vous Atys, lui dont l'indifférence  
+Brave avec tant d'orgueil l'amour et sa puissance ?  
+
+    SANGARIDE
+J'aime, Atys, en secret, mon crime, est sans témoins.  
+Pour vaincre mon amour, je mets tout en usage,  
+J'appelle ma raison, j'anime mon courage ;  
+Mais à quoi servent tous mes soins ?  
+Mon cœur en souffre davantage,  
+Et n'en aime pas moins.  
+
+    DORIS
+C'est le commun défaut des belles.  
+L'ardeur des conquêtes nouvelles  
+Fait négliger les cœurs qu'on a trop tôt charmés,  
+Et les indifférents sont quelquefois aimés  
+Aux dépens des amants fidèles.  
+Mais vous vous exposez à des peines cruelles.  
+
+    SANGARIDE
+Toujours aux yeux d'Atys je serai sans appas ;  
+Je le sais, j'y consens, je veux, s'il est possible,  
+Qu'il soit encor plus insensible ;  
+S'il me pouvait aimer, que deviendrais-je ? Hélas !  
+C'est mon plus grand bonheur qu'Atys ne m'aime pas.  
+Je prétends être heureuse, au moins, en apparence ;  
+Au destin d'un grand roi je me vais attacher.  
+
+    SANGARIDE ET DORIS
+Un amour malheureux dont le devoir s'offense,  
+Se doit condamner au silence ;  
+Un amour malheureux qu'on nous peut reprocher,  
+Ne saurait trop bien se cacher.  
+
+
+## SCÈNE V
+Atys, Sangaride, Doris.
+
+
+    ATYS
+On voit dans ces campagnes  
+Tous nos phrygiens s'avancer.  
+
+    DORIS
+Je vais prendre soin de presser  
+Les nymphes nos compagnes.  
+
+
+## SCÈNE VI
+Atys, Sangaride.
+
+
+    ATYS
+Sangaride, ce jour est un grand jour pour vous.  
+
+    SANGARIDE
+Nous ordonnons tous deux la fête de Cybèle,  
+L'honneur est égal entre nous.  
+
+    ATYS
+Ce jour même, un grand roi doit être votre époux  
+Je ne vous vis jamais si contente et si belle ;  
+Que le sort du roi sera doux !  
+
+    SANGARIDE
+L'indifferent Atys n'en sera point jaloux.  
+
+    ATYS
+Vivez tous deux contents, c'est ma plus chère envie ;  
+J'ai pressé votre hymen, j'ai servi vos amours.  
+Mais enfin ce grand jour, le plus beau de vos jours,  
+Sera le dernier de ma vie.  
+
+    SANGARIDE
+Ô dieux !  
+
+    ATYS
+        Ce n'est qu'à vous que je veux révéler  
+Le secret désespoir où mon malheur me livre ;  
+Je n'ai que trop su feindre, il est temps de parler ;  
+Qui n'a plus qu'un moment à vivre,  
+N'a plus rien à dissimuler.  
+
+    SANGARIDE
+Je frémis, ma crainte est extrême ;  
+Atys, par quel malheur faut-il vous voir périr ?  
+
+    ATYS
+Vous me condamnerez vous-même,  
+Et vous me laisserez mourir.  
+
+    SANGARIDE
+J'armerai, s'il le faut, tout le pouvoir suprême...  
+
+    ATYS
+Non, rien ne me peut secourir,  
+Je meurs d'amour pour vous, je n'en saurais guerir ;  
+
+    SANGARIDE
+Quoi ? Vous ?  
+
+    ATYS
+        Il est trop vrai.  
+
+    SANGARIDE
+        Vous m'aimez ?  
+
+    ATYS
+        Je vous aime.  
+Vous me condamnerez vous-même,  
+Et vous me laisserez mourir.  
+J'ai merité qu'on me punisse,  
+J'offense un rival généreux,  
+Qui par mille bienfaits a prévenu mes vœux :  
+Mais je l'offence en vain, vous lui rendez justice ;  
+Ah ! Que c'est un cruel supplice  
+D'avouer qu'un rival est digne d'être heureux !  
+Prononcez mon arrêt, parlez sans vous contraindre.  
+
+    SANGARIDE
+Hélas !  
+
+    ATYS
+        Vous soupirez ? Je vois couler vos pleurs ?  
+D'un malheureux amour plaignez-vous les douleurs ?  
+
+    SANGARIDE
+Atys, que vous seriez à plaindre  
+Si vous saviez tous vos malheurs !  
+
+    ATYS
+Si je vous perds, et si je meurs,  
+Que puis-je encore avoir à craindre ?  
+
+    SANGARIDE
+C'est peu de perdre en moi ce qui vous a charmé,  
+Vous me perdez, Atys, et vous êtes aimé.  
+
+    ATYS
+Aimé ! Qu'entends-je ? Ô ciel ! Quel aveu favorable !  
+
+    SANGARIDE
+Vous en serez plus misérable.  
+
+    ATYS
+Mon malheur en est plus affreux,  
+Le bonheur que je perds doit redoubler ma rage ;  
+Mais n'importe, aimez-moi, s'il se peut, d'avantage,  
+Quand j'en devrais mourir cent fois plus malheureux.  
+
+    SANGARIDE
+Si vous cherchez la mort, il faut que je vous suive ;  
+Vivez, c'est mon amour qui vous en fait la loi.  
+
+    ATYS
+Hé comment ! Hé pourquoi  
+Voulez-vous que je vive,  
+Si vous ne vivez pas pour moi ?  
+
+    ATYS ET SANGARIDE
+Si l'hymen unissait mon destin et le vôtre,  
+Que ses nœuds auraient eû d'attraits !  
+L'amour fit nos cœurs l'un pour l'autre,  
+Faut-il que le devoir les sépare à jamais ?  
+
+    ATYS
+Devoir impitoyable !  
+Ah quelle cruauté !  
+
+    SANGARIDE
+On vient, feignez encor, craignez d'être écouté.  
+
+    ATYS
+Aimons un bien plus durable  
+Que l'éclat de la beauté :  
+Rien n'est plus aimable  
+Que la liberté.  
+
+
+## SCÈNE VII
+Atys, Sangaride, Doris, Idas, Chœur de phrygiens chantants. Chœur de phrygiennes chantantes. Troupe de phrygiens dansants, Troupe de phrygiennes dansantes, Dix hommes phrygiens chantants conduits par Atys, Dix femmes phrygiennes chantantes conduites par Sangaride. Six phrygiens dansants. Six nYmphes phrygiennes dansantes.
+
+
+    ATYS
+Mais déja de ce mont sacré  
+Le sommet paraît éclairé  
+D'une splendeur nouvelle.  
+Sangaride s'avançant vers la montagne.  
+La déesse descend, allons au devant d'elle.  
+
+    ATYS ET SANGARIDE
+Commençons, commençons  
+De célébrer ici sa fête solemnelle,  
+Commençons, commençons  
+Nos jeux et nos chansons.  
+Le chœur répète ces deux derniers vers.
+
+
+    ATYS ET SANGARIDE
+Il est temps que chacun fasse éclater son zèle.  
+Venez, reine des dieux, venez,  
+Venez, favorable Cybèle.  
+Les chœurs repetent ces deux derniers vers.
+
+
+    ATYS
+Quittez votre cour immortelle,  
+Choisissez ces lieux fortunés  
+Pour votre demeure éternelle.  
+
+    LES CHŒURS
+Venez, reine des dieux, venez.  
+
+    SANGARIDE
+La terre sous vos pas va devenir plus belle  
+Que le séjour des dieux que vous abandonnez.  
+
+    LES CHŒURS
+Venez, favorable Cybèle.  
+
+    ATYS ET SDANGARIDE
+Venez voir les autels qui vous sont destinés.  
+
+    ATYS, SANGARIDE, IDAS, DORIS, ET LES CHŒURS
+Ecoutez un peuple fidèle  
+Qui vous appelle,  
+Venez, reine des dieux, venez,  
+Venez, favorable Cybèle.  
+
+
+## SCÈNE VIII
+La déesse CYBÈLE paraît sur son char, et les phrygiens et les phrygiennes lui témoignent leur joie et leur respect.
+
+
+    CYBÈLE SUR SON CHAR
+Venez tous dans mon temple, et que chacun révere  
+Le sacrificateur dont je vais faire choix :  
+Je m'expliquerai par sa voix,  
+Les vœux qu'il m'offrira seront sûrs de me plaire.  
+Je reçois vos respects ; j'aime à voir les honneurs  
+Dont vous me présentés un éclatant hommage,  
+Mais l'hommage des cœurs  
+Est ce que j'aime davantage.  
+Vous devez vous animer  
+D'une ardeur nouvelle,  
+S'il faut honorer Cybèle,  
+Il faut encor plus l'aimer.  
+Cybèle portée par son char volant, se va rendre dans son temple. Tous les phrygiens s'empressent d'y aller, et répetent les quatre derniers vers que la déesse a prononcés.
+
+
+    LES CHŒURS
+Nous devons nous animer  
+D'une ardeur nouvelle,  
+S'il faut honorer Cybèle,  
+Il faut encor plus l'aimer.  
+
+
+# ACTE II
+Le theatre change et represente le temple de Cybèle.
+
+
+
+## SCÈNE I
+Celaenus roi de Phrygie, Atys, suivants de Celaenus.
+
+
+    CELAENUS
+N'avancez pas plus loin, ne suivez point mes pas ;  
+Sortez. Toi ne me quitte pas.  
+Atys, il faut attendre ici que la déesse  
+Nomme un grand sacrificateur.  
+
+    ATYS
+Son choix sera pour vous, seigneur ;  
+Quelle tristesse semble avoir surpris votre cœur ?  
+
+    CELAENUS
+Les rois les plus puissans connaissent l'importance  
+D'un si glorieux choix :  
+Qui pourra l'obtenir étendra sa puissance  
+Partout où de Cybèle on revère les lois.  
+
+    ATYS
+Elle honore aujourd'hui ces lieux de sa présence,  
+C'est pour vous préferer aux plus puissants des rois.  
+
+    CELAENUS
+Mais quand j'ai vu tantôt la beauté qui m'enchante,  
+N'as-tu point remarqué comme elle était tremblante ?  
+
+    ATYS
+À nos jeux, à nos chants, j'étais trop appliqué,  
+Hors la fête, seigneur, je n'ai rien remarqué.  
+
+    CELAENUS
+Son trouble m'a surpris. Elle t'ouvre son âme ;  
+N'y découvres-tu point quelque secrète flâme ?  
+Quelque rival caché ?  
+
+    ATYS
+Seigneur, que dites-vous ?  
+
+    CELAENUS
+Le seul nom de rival allume mon couroux.  
+J'ai bien peur que le ciel n'ait pu voir sans envie  
+Le bonheur de ma vie,  
+Et si j'étais aimé mon sort serait trop doux.  
+Ne t'étonnes point tant de voir la jalousie  
+Dont mon âme est saisie,  
+On ne peut bien aimer sans être un peu jaloux.  
+
+    ATYS
+Seigneur, soyez content, que rien ne vous alarme ;  
+L'hymen va vous donner la beauté qui vous charme,  
+Vous serez son heureux époux.  
+
+    CELAENUS
+Tu peux me rassurer, Atys, je te veux croire,  
+C'est son cœur que je veux avoir,  
+Dis-moi s'il est en mon pouvoir ?  
+
+    ATYS
+Son cœur suit avec soin le devoir et la gloire,  
+Et vous avez pour vous la gloire et le devoir.  
+
+    CELAENUS
+Ne me déguise point ce que tu peux connaistre.  
+Si j'ai ce que j'aime en ce jour  
+L'hymen seul m'en rend-t-il le maître ?  
+La gloire et le devoir auront tout fait, peut-être,  
+Et ne laissent pour moi rien à faire à l'amour.  
+
+    ATYS
+Vous aimez d'un amour trop délicat, trop tendre.  
+
+    CELAENUS
+L'indifférent Atys ne le saurait comprendre.  
+
+    ATYS
+Qu'un indifférent est heureux !  
+Il jouit d'un destin paisible.  
+Le ciel fait un présent bien cher, bien dangereux,  
+Lorsqu'il donne un cœur trop sensible.  
+
+    CELAENUS
+Quand on aime bien tendrement  
+On ne cesse jamais de souffrir, et de craindre ;  
+Dans le bonheur le plus charmant,  
+On est ingénieux à se faire un tourment,  
+Et l'on prend plaisir à se plaindre.  
+Va songe à mon hymen, et vois si tout est prêt,  
+Laisse-moi seul ici, la déesse paraît.  
+
+
+## SCÈNE II ; Cybèle, Celaenus, Mélisse, troupe de pêtresses de Cybèle.
+
+    CYBÈLE
+Je veux joindre en ces lieux la gloire et l'abondance,  
+D'un sacrificateur je veux faire le choix,  
+Et le roi de Phrygie aurait la préférence  
+Si je voulais choisir entre les plus grands rois.  
+Le puissant dieu des flots vous donna la naissance,  
+Un peuple renommé s'est mis sous votre loi ;  
+Vous avez sans mes soins, d'ailleurs, trop de puissance,  
+Je veux faire un bonheur qui ne soit du qu'à moi.  
+Vous estimez Atys, et c'est avec justice,  
+Je prétends que mon choix à vos vœux soit propice,  
+C'est Atys que je veux choisir.  
+
+    CELAENUS
+J'aime Atys, et je vois sa gloire avec plaisir.  
+Je suis roi, Neptune est mon père,  
+J'épouse une beauté qui va combler mes vœux :  
+Le souhait qui me reste à faire,  
+C'est de voir mon ami parfaitement heureux.  
+
+    CYBÈLE
+Il m'est doux que mon choix à vos désirs réponde ;  
+Une grande divinité  
+Doit faire sa félicité  
+Du bien de tout le monde.  
+Mais surtout le bonheur d'un roi chéri des cieux  
+Fait le plus doux plaisir des dieux.  
+
+    CELAENUS
+Le sang approche Atys de la nymphe que j'aime,  
+Son mérite l'égale aux rois :  
+Il soutiendra mieux que moi-même  
+La majesté suprême  
+De vos divines lois.  
+Rien ne pourra troubler son zèle,  
+Son cœur s'est conservé libre jusqu'à ce jour ;  
+Il faut tout un cœur pour Cybèle,  
+À peine tout le mien peut suffire à l'amour.  
+
+    CYBÈLE
+Portez à votre ami la première nouvelle  
+De l'honneur éclatant où ma faveur l'appelle.  
+
+
+## SCÈNE III
+Cybèle, Mélisse.
+
+
+    CYBÈLE
+Tu t'étonnes, Mélisse, et mon choix te surprend ?  
+
+    MÉLISSE
+Atys vous doit beaucoup, et son bonheur est grand.  
+
+    CYBÈLE
+J'ai fait encor pour lui plus que tu ne peux croire.  
+
+    MÉLISSE
+Est-il pour un mortel un rang plus glorieux ?  
+
+    CYBÈLE
+Tu ne vois que sa moindre gloire ;  
+Ce mortel dans mon cœur est au dessus des dieux.  
+Ce fut au jour fatal de ma derniere fête  
+Que de l'aimable Atys je devins la conquête :  
+Je partis à regret pour retourner aux cieux,  
+Tout m'y parût changé, rien n'y plut à mes yeux.  
+Je sens un plaisir extrême  
+À revenir dans ces lieux.  
+Où peut-on jamais être mieux,  
+Qu'aux lieux où l'on voit ce qu'on aime ?  
+
+    MÉLISSE
+Tous les dieux ont aimé, Cybèle aime à son tour.  
+Vous méprisiez trop l'amour,  
+Son nom vous semblait étrange,  
+À la fin il vient un jour  
+Où l'amour se vange.  
+
+    CYBÈLE
+J'ai crû me faire un cœur maître de tout son sort,  
+Un cœur toujours exempt de trouble et de tendresse.  
+
+    MÉLISSE
+Vous braviez à tort  
+L'amour qui vous blesse ;  
+Le cœur le plus fort  
+À des moments de faiblesse.  
+Mais vous pouviez aimer, et descendre moins bas.  
+
+    CYBÈLE
+Non, trop d'égalité rend l'amour sans appas.  
+Quel plus haut rang ai-je à prétendre ?  
+Et de quoi mon pouvoir ne vient-il point à bout ?  
+Lorsqu'on est au-dessus de tout,  
+On se fait pour aimer un plaisir de descendre.  
+Je laisse aux dieux les biens dans le ciel preparés,  
+Pour Atys, pour son cœur, je quitte tout sans peine,  
+S'il m'oblige à descendre, un doux penchant m'entraîne ;  
+Les cœurs que le destin a le plus separés,  
+Sont ceux qu'amour unit d'une plus forte chaîne.  
+Fais venir le sommeil ; que lui-même en ce jour,  
+Prenne soin ici de conduire  
+Les songes qui lui font la cour ;  
+Atys ne sait point mon amour,  
+Par un moyen nouveau je pretends l'en instruire.  
+Mélisse se retire.
+
+
+    CYBÈLE
+Que les plus doux zéphirs, que les peuples divers,  
+Qui des deux bouts de l'univers  
+Sont venus me montrer leur zèle,  
+Célebrent la gloire immortelle  
+Du sacrificateur dont Cybèle a fait choix,  
+Atys doit dispenser mes lois,  
+Honorez le choix de Cybèle.  
+
+
+## SCÈNE IV
+Les zephirs paraissent dans une gloire élevée et brillante. Les peuples différents qui sont venus à la fête de Cybèle entrent dans le temple, et tous ensemble s'efforcent d'honorer Atys, qui vient revêtu des habits de grand sacrificateur. Cinq zephirs dansants dans la gloire. Huit zephirs jouants du haut-bois et des cromornes, dans la gloire. Cinq zephirs joüants du haut-bois. Trois cromornes jouants dans la gloire. Troupe de peuples differens chantants qui accompagnent Atys. Six indiens et six egyptiens dansants. Six indiens. Six egyptiens.
+
+
+    CHŒURS DES PEUPLES ET DES ZEPHIRS
+Célébrons la gloire immortelle  
+Du sacrificateur dont Cybèle a fait choix :  
+Atys doit dispenser ses lois,  
+Honorons le choix de Cybèle.  
+Que devant vous tout s'abaisse, et tout tremble ;  
+Vivez heureux, vos jours sont notre espoir :  
+Rien n'est si beau que de voir ensemble  
+Un grand mérite avec un grand pouvoir.  
+Que l'on benisse  
+Le ciel propice,  
+Qui dans vos mains  
+Met le sort des humains.  
+
+    ATYS
+Indigne que je suis des honneurs qu'on m'adresse,  
+Je dois les recevoir au nom de la déesse ;  
+J'ose, puisqu'il lui plaît, lui présenter vos vœux :  
+Pour le prix de votre zèle,  
+Que la puissante Cybèle  
+Vous rende à jamais heureux.  
+
+    CHŒURS DES PEUPLES ET DES ZEPHIRS
+Que la puissante Cybèle  
+Nous rende à jamais heureux.  
+
+
+# ACTE III
+
+
+## SCÈNE I
+Le théâtre change et represente le palais du grand sacrificateur de Cybèle.
+
+
+    ATYS, SEUL
+Que servent les faveurs que nous fait la fortune  
+Quand l'amour nous rend malheureux ?  
+Je perds l'unique bien qui peut combler mes vœux,  
+Et tout autre bien m'importune.  
+Que servent les faveurs que nous fait la fortune  
+Quand l'amour nous rend malheureux ?  
+
+
+## SCÈNE II
+Idas, Doris, Atys.
+
+
+    IDAS
+Peut-on ici parler sans feindre ?  
+
+    ATYS
+Je commande en ces lieux, vous n'y devez rien craindre.  
+
+    DORIS
+Mon frère est votre ami.  
+
+    IDAS
+Fiez-vous à ma sœur.  
+
+    ATYS
+Vous devez avec moi partager mon bonheur.  
+
+    IDAS ET DORIS
+Nous venons partager vos mortelles alarmes ;  
+Sangaride les yeux en larmes  
+Nous vient d'ouvrir son cœur.  
+
+    ATYS
+L'heure approche où l'hymen voudra qu'elle se livre  
+Au pouvoir d'un heureux époux.  
+
+    IDAS ET DORIS
+Elle ne peut vivre  
+Pour un autre que pour vous.  
+
+    ATYS
+Qui peut la dégager du devoir qui la presse ?  
+
+    IDAS ET DORIS
+Elle veut elle-même aux pieds de la déesse  
+Déclarer hautement vos secrètes amours.  
+
+    ATYS
+Cybèle pour moi s'interesse,  
+J'ose tout espérer de son divin secours...  
+Mais quoi, trahir le roi ! Tromper son espérance !  
+De tant de biens reçus est-ce la récompense ?  
+
+    IDAS ET DORIS
+Dans l'empire amoureux  
+Le devoir n'a point de puissance ;  
+L'amour dispense  
+Les rivaux d'être généreux ;  
+Il faut souvent pour devenir heureux  
+Qu'il en coûte un peu d'innocence.  
+
+    ATYS
+Je souhaite, je crains, je veux, je me repends.  
+
+    IDAS ET DORIS
+Verrez-vous un rival heureux à vos dépends ?  
+
+    ATYS
+Je ne puis me résoudre à cette violence.  
+
+    ATYS, IDAS ET DORIS
+En vain, un cœur, incertain de son choix.  
+Met en balance mille fois  
+L'amour et la reconnaissance,  
+L'amour toujours emporte la balance.  
+
+    ATYS
+Le plus juste parti cède enfin au plus fort.  
+Allez, prenez soin de mon sort,  
+Que Sangaride ici se rende en diligence.  
+
+
+## SCÈNE III
+
+    ATYS, SEUL
+Nous pouvons nous flatter de l'espoir le plus doux  
+Cybèle et l'amour sont pour nous.  
+Mais du devoir trahi j'entends la voix pressante  
+Qui m'accuse et qui m'épouvante.  
+Laisse mon cœur en paix, impuissante vertu,  
+N'ai-je point assez combattu ?  
+Quand l'amour malgré toi me contraint à me rendre,  
+Que me demandes-tu ?  
+Puisque tu ne peux me défendre,  
+Que me sert-il d'entendre  
+Les vains reproches que tu fais ?  
+Impuissante vertu laisse mon cœur en paix.  
+Mais le sommeil vient me surprendre,  
+Je combats vainement sa charmante douceur.  
+Il faut laisser suspendre  
+Les troubles de mon cœur.  
+Atys s'endort.
+
+Le théâtre change et représente une antre entouré de pavots et de ruisseaux, où le dieu du sommeil se vient rendre accompagné des songes agréables et funestes.
+
+
+
+## SCÈNE IV
+Atys dormant, Le sommeil, Morphée, Phobetor, Phantase, les songes agréables, Les songes funestes, Deux songes jouants de la viole, Deux songes jouants du theorbe, Six songes jouants de la flute, Douze songes funestes chantants, Seize songes agréables et funestes dansants, Huit songes agréables dansants, Huit songes funestes dansants.
+
+
+    LE SOMMEIL
+Dormons, dormons tous ;  
+Ah que le repos est doux !  
+
+    MORPHÉE
+Régnez, divin sommeil, régnez sur tout le monde,  
+Répandez vos pavots les plus assoupissants ;  
+Calmez les soins, charmez les sens,  
+Retenez tous les cœurs dans une paix profonde.  
+
+    PHOBETOR
+Ne vous faites point violence,  
+Coulez, murmurez, clairs ruisseaux,  
+Il n'est permis qu'au bruit des eaux  
+De troubler la douceur d'un si charmant silence.  
+
+    LE SOMMEIL, MORPHÉE, PHOBETOR, ET PHANTASE
+Dormons, dormons tous,  
+Ah que le repos est doux !  
+Les songes agréables aprochent d'Atys, et par leurs chants, et par leurs danses, lui font connaître l'amour de Cybèle, et le bonheur qu'il en doit espérer.
+
+
+    MORPHÉE
+Escoute, écoute Atys la gloire qui t'appelle,  
+Sois sensible à l'honneur d'être aimé de Cybèle,  
+Jouis heureux Atys de ta félicité.  
+
+    MORPHÉE, PHOBETOR ET PHANTASE
+Mais souviens-toi que la beauté,  
+Quand elle est immortelle,  
+Demande la fidélité  
+D'une amour éternelle.  
+
+    PHANTASE
+Que l'amour a d'attraits  
+Lorsqu'il commence  
+À faire sentir sa puissance !  
+Que l'amour a d'attraits  
+Lorsqu'il commence  
+Pour ne finir jamais.  
+Trop heureux un amant  
+Qu'amour exempte  
+Des peines d'une longue attente !  
+Trop heureux un amant  
+Qu'amour exempte  
+De crainte et de tourment !  
+
+    PHOBETOR
+Goûte en paix chaque jour une douceur nouvelle,  
+Partage l'heureux sort d'une divinité,  
+Ne vante plus la liberté,  
+Il n'en est point du prix d'une chaîne si belle.  
+
+    MORPHÉE, PHOBETOR ET PHANTASE
+Mais souviens-toi que la beauté,  
+Quand elle est immortelle,  
+Demande la fidelité  
+D'une amour éternelle.  
+
+    PHANTASE
+Que l'amour a d'attraits  
+Lorsqu'il commence  
+À faire sentir sa puissance !  
+Que l'amour a d'attraits  
+Lorsqu'il commence  
+Pour ne finir jamais !  
+Les songes funestes approchent d'Atys, et le menacent de la vengeance de Cybèle s'il méprise son amour, et s'il ne l'aime pas avec fidelité.
+
+
+    UN SONGE FUNETSE
+Garde-toi d'offencer un amour glorieux,  
+C'est pour toi que Cybèle abandonne les cieux  
+Ne trahis point son espérance.  
+Il n'est point pour les dieux de mépris innocent,  
+Ils sont jaloux des cœurs, ils aiment la vengeance,  
+Il est dangereux qu'on offence  
+Un amour tout-puissant.  
+
+    CHŒUR DE SONGES FUNESTES
+L'amour qu'on outrage  
+Se transforme en rage,  
+Et ne pardonne pas  
+Aux plus charmants appas.  
+Si tu n'aimes point Cybèle  
+D'une amour fidèle,  
+Malheureux, que tu souffriras !  
+Tu périras :  
+Crains une vengeance cruelle,  
+Tremble, crains un affreux trépas.  
+Atys épouvanté par les songes funestes, se réveille en sursaut, le sommeil et les songes disparaissent avec l'antre où ils étaient, et Atys se retrouve dans le même palais où il s'était endormi.
+
+
+
+## SCÈNE V
+Atys, Cybèle, Mélisse.
+
+
+    ATYS
+Venez à mon secours, ô dieux ! Ô justes dieux !  
+
+    CYBÈLE
+Atys, ne craignez rien, Cybèle est en ces lieux.  
+
+    ATYS
+Pardonnez au désordre où mon cœur s'abandonne ;  
+C'est un songe...  
+
+    CYBÈLE
+        Parlez, quel songe vous étonne ?  
+Expliquez-moi votre embarras.  
+
+    ATYS
+Les songes sont trompeurs, et je ne les crois pas.  
+Les plaisirs et les peines  
+Dont en dormant on est séduit,  
+Sont des chimères vaines  
+Que le réveil détruit.  
+
+    CYBÈLE
+Ne méprisez pas tant les songes  
+L'amour peut emprunter leur voix,  
+S'ils font souvent des mensonges,  
+Ils disent vrai quelque fois.  
+Ils parlaient par mon ordre, et vous les devez croire.  
+
+    ATYS
+Ô ciel !  
+
+    CYBÈLE
+        N'en doutez point, connaissez votre gloire.  
+Répondez avec liberté,  
+Je vous demande un cœur qui dépend de lui-même.  
+
+    ATYS
+Une grande divinité  
+Doit s'assurer toujours de mon respect extrême.  
+
+    CYBÈLE
+Les dieux dans leur grandeur suprême  
+Reçoivent tant d'honneurs qu'ils en sont rebutés,  
+Ils se lassent souvent d'être trop respectés,  
+Ils sont plus contents qu'on les aime.  
+
+    ATYS
+Je sais trop ce que je vous dois  
+Pour manquer de reconnaissance...  
+
+
+## SCÈNE VI
+Sangaride, Cybèle, Atys, Mélisse.
+
+
+    SANGARIDE, SE JETTANT AUX PIEDS DE CYBÈLE
+J'ai recours à votre puissance,  
+Reine des dieux, protégez-moi.  
+L'interêt d'Atys vous en presse...  
+
+    ATYS, INTERROMPANT SANGARIDE
+Je parlerai pour vous, que votre crainte cesse.  
+
+    SANGARIDE
+Tous deux unis des plus beaux nœuds...  
+
+    ATYS, INTERROMPANT SANGARIDE
+Le sang et l'amitié nous unissent tous deux.  
+Que votre secours la délivre  
+Des lois d'un hymen rigoureux,  
+Ce sont les plus doux de ses vœux  
+De pouvoir à jamais vous servir et vous suivre.  
+
+    CYBÈLE
+Les dieux sont les protecteurs  
+De la liberté des cœurs.  
+Allez, ne craignez point le roi ni sa colere,  
+J'aurai soin d'appaiser  
+Le fleuve Sangar votre père ;  
+Atys veut vous favoriser,  
+Cybèle en sa faveur ne peut rien refuser.  
+
+    ATYS
+Ah ! C'en est trop...  
+
+    CYBÈLE
+        Non, non, il n'est pas nécessaire  
+Que vous cachiez votre bonheur,  
+Je ne prétends point faire  
+Un vain mystere  
+D'un amour qui vous fait honneur.  
+Ce n'est point à Cybèle à craindre d'en trop dire.  
+Il est vrai, j'aime Atys, pour lui j'ai tout quitté,  
+Sans lui je ne veux plus de grandeur ni d'empire,  
+Pour ma felicité  
+Son cœur seul peut suffire.  
+Allez, Atys lui-même ira vous garantir  
+De la fatale violence  
+Où vous ne pouvez consentir.  
+Sangaride se retire.
+
+
+    CYBÈLE, PARLE À ATYS
+Laissez-nous, attendez mes ordres pour partir,  
+Je prétends vous armer de ma toute-puissance.  
+
+
+## SCÈNE VII
+Cybèle, Mélisse.
+
+
+    CYBÈLE
+Qu'Atys dans ses respects mêlé d'indifference !  
+L'ingrat Atys ne m'aime pas ;  
+L'amour veut de l'amour, tout autre prix l'offense,  
+Et souvent le respect et la reconnaissance  
+Sont l'excuse des cœurs ingrats.  
+
+    MÉLISSE
+Ce n'est pas un si grand crime  
+De ne s'exprimer pas bien,  
+Un cœur qui n'aima jamais rien  
+Sait peu comment l'amour s'exprime.  
+
+    CYBÈLE
+Sangaride est aimable, Atys peut tout charmer,  
+Ils témoignent trop s'estimer,  
+Et de simples parents sont moins d'intelligence :  
+Ils se sont aimés dés l'enfance,  
+Ils pourraient enfin trop s'aimer.  
+Je crains une amitié que tant d'ardeur anime.  
+Rien n'est si trompeur que l'estime :  
+C'est un nom supposé  
+Qu'on donne quelquefois à l'amour déguisé.  
+Je pretends m'éclaircir, leur feinte sera vaine.  
+
+    MÉLISSE
+Quels secrets par les dieux ne sont point pénétrez ?  
+Deux cœurs à feindre preparés  
+Ont beau cacher leur chaîne,  
+On abuse avec peine  
+Les dieux par l'amour éclairés.  
+
+    CYBÈLE
+Va, Mélisse, donne ordre à l'aimable Zephir  
+D'accomplir promptement tout ce qu'Atys désire.  
+
+
+## SCÈNE VIII
+
+    CYBÈLE, SEULE
+Espoir si cher, et si doux,  
+Ah ! Pourquoi me trompez-vous ?  
+Des suprêmes grandeurs vous m'avez fait descendre,  
+Mille cœurs m'adoraient, je les néglige tous,  
+Je n'en demande qu'un, il a peine à se rendre ;  
+Je ne sens que chagrins, et que soupçons jaloux ;  
+Est-ce le sort charmant que je devais attendre ?  
+Espoir si cher, et si doux,  
+Ah ! Pourquoi me trompez-vous ?  
+Hélas ! Par tant d'attraits fallait-il me surprendre ?  
+Heureuse, si toujours j'avais pû m'en défendre !  
+L'amour qui me flattait me cachait son couroux :  
+C'est donc pour me frapper des plus funestes coups,  
+Que le cruel amour m'a fait un cœur si tendre ?  
+Espoir si cher, et si doux,  
+Ah ! Pourquoi me trompez-vous ?  
+
+
+# ACTE IV
+Le théâtre change et représente le palais du fleuve Sangar.
+
+
+
+## SCÈNE I
+Sangaride, Doris, Idas.
+
+
+    DORIS
+Quoi, vous pleurez ?  
+
+    IDAS
+        D'où vient votre peine nouvelle ?  
+
+    DORIS
+N'osez-vous découvrir votre amour à Cybèle ?  
+
+    SANGARIDE
+Hélas !  
+
+    DORIS, ET IDAS
+        Qui peut encor redoubler vos ennuis ?  
+
+    SANGARIDE
+Hélas ! J'aime... Hélas ! J'aime...  
+
+    DORIS, ET IDAS
+        Achevez.  
+
+    SANGARIDE
+        Je ne puis.  
+
+    DORIS, ET IDAS
+L'amour n'est guère heureux lorsqu'il est trop timide.  
+
+    SANGARIDE
+Hélas ! J'aime un perfide  
+Qui trahit mon amour ;  
+La déesse aime Atys, il change en moins d'un jour,  
+Atys comblé d'honneurs n'aime plus Sangaride.  
+Hélas ! J'aime un perfide  
+Qui trahit mon amour.  
+
+    DORIS, ET IDAS
+Il nous montrait tantôt un peu d'incertitude ;  
+Mais qui l'eut soupçonné de tant d'ingratitude ?  
+
+    SANGARIDE
+J'embarrassais Atys, je l'ai vu se troubler :  
+Je croyais devoir réveler  
+Nore amour à Cybèle ;  
+Mais l'ingrat, l'infidèle,  
+M'empéchat toujours de parler.  
+
+    DORIS ET IDAS
+Peut-on changer si tôt quand l'amour est extrême ?  
+Gardez-vous, gardez-vous  
+De trop croire un transport jaloux.  
+
+    SANGARIDE
+Cybèle hautement déclare qu'elle l'aime,  
+Et l'ingrat n'a trouvé cet honneur que trop doux ;  
+Il change en un moment, je veux changer de même,  
+J'accepterai sans peine un glorieux époux,  
+Je ne veux plus aimer que la grandeur suprême.  
+
+    DORIS ET IDAS
+Peut-on changer si tôt quand l'amour est extrême ?  
+Gardez-vous, gardez-vous  
+De trop croire un transport jaloux.  
+
+    SANGARIDE
+Trop heureux un cœur qui peut croire  
+Un dépit qui sert à sa gloire.  
+Revenez ma raison, revenez pour jamais,  
+Joignez-vous au dépit pour étouffer ma flamme,  
+Réparez, s'il se peut, les maux qu'amour m'a fait,  
+Venez rétablir dans mon âme  
+Les douceurs d'une heureuse paix ;  
+Revenez, ma raison, revenez pour jamais.  
+
+    IDAS ET DORIS
+Une infidélité cruelle  
+N'efface point tous les appas  
+D'un infidèle,  
+Et la raison ne revient pas  
+Si tôt qu'on l'a rappelle.  
+
+    SANGARIDE
+Aprés une trahison  
+Si la raison ne m'éclaire,  
+Le dépit et la colère  
+Me tiendront lieu de raison.  
+
+    SANGARIDE, DORIS, IDAS
+Qu'une première amour est belle ?  
+Qu'on a peine à s'en dégager !  
+Que l'on doit plaindre un cœur fidèle  
+Lorsqu'il est forcé de changer.  
+
+
+## SCÈNE II
+Celaenus, suivants de Celaenus, Sangaride, Idas, et Doris.
+
+
+    CELAENUS
+Belle nymphe, l'hymen va suivre mon envie,  
+L'amour avec moi vous convie  
+À venir vous placer sur un trône éclatant,  
+J'aproche avec transport du favorable instant  
+D'où dépend la douceur du reste de ma vie :  
+Mais malgré les appas du bonheur qui m'attend,  
+Malgré tous les transports de mon âme amoureuse,  
+Si je ne puis vous rendre heureuse,  
+Je ne serai jamais content.  
+Je fais mon bonheur de vous plaire,  
+J'attache à votre cœur mes désirs les plus doux.  
+
+    SANGARIDE
+Seigneur, j'obéirai, je despends de mon père,  
+Et mon père aujourd'hui veut que je sois à vous.  
+
+    CELAENUS
+Regardez mon amour, plustôt que ma couronne.  
+
+    SANGARIDE
+Ce n'est point la grandeur qui me peut éblouir.  
+
+    CELAENUS
+Ne sauriez-vous m'aimer sans que l'on vous l'ordonne.  
+
+    SANGARIDE
+Seigneur contentez-vous que je sache obéir,  
+En l'état où je suis c'est ce que je puis dire...  
+
+
+## SCÈNE III
+Atys, Celaenus, Sangaride, Doris, Idas, suivants de Celaenus.
+
+
+    CELAENUS
+Votre cœur se trouble, il soupire.  
+
+    SANGARIDE
+Expliquez en votre faveur  
+Tout ce que vous voyez de trouble dans mon cœur.  
+
+    CELAENUS
+Rien ne m'alarme plus, Atys, ma crainte est vaine,  
+Mon amour touche enfin le cœur de la beauté  
+Dont je suis enchanté :  
+Toi qui fus témoin de ma peine,  
+Cher Atys, sois témoin de ma felicité.  
+Peux-tu la concevoir ? Non, il faut que l'on aime,  
+Pour juger des douceurs de mon bonheur extrême.  
+Mais, près de voir combler mes vœux,  
+Que les moments sont longs pour mon cœur amoureux !  
+Vos parents tardent trop, je veux aller moi-même  
+Les presser de me rendre heureux.  
+
+
+## SCÈNE IV
+Atys, Sangaride.
+
+
+    ATYS
+Qu'il sait peu son malheur ! Et qu'il est déplorable !  
+Son amour méritait un sort plus favorable :  
+J'ai pitié de l'erreur dont son cœur s'est flatté.  
+
+    SANGARIDE
+Epargnez-vous le soin d'être si pitoyable,  
+Son amour obtiendra ce qu'il a merité.  
+
+    ATYS
+Dieux ! Qu'est-ce que j'entends !  
+
+    SANGARIDE
+Qu'il faut que je me venge.  
+Que j'aime enfin le roi, qu'il sera mon époux.  
+
+    ATYS
+Sangaride, eh d'où vient ce changement étrange ?  
+
+    SANGARIDE
+N'est-ce pas vous, ingrat, qui voulez que je change ?  
+
+    ATYS
+Moi !  
+
+    SANGARIDE
+        Quelle trahison !  
+
+    ATYS
+        Quel funeste couroux !  
+
+    ATYS ET SANGARIDE
+Pourquoi m'abandonner pour une amour nouvelle ?  
+Ce n'est pas moi qui rompt une chaîne si belle.  
+
+    ATYS
+Beauté trop cruelle, c'est vous.  
+
+    SANGARIDE
+Amant infidèle, c'est vous.  
+
+    ATYS
+Ah ! C'est vous, beauté trop cruelle.  
+
+    SANGARIDE
+Ah ! C'est vous amant infidèle.  
+
+    ATYS ET SANGARIDE
+Beauté trop cruelle, c'est vous,  
+Amant infidèle, c'est vous,  
+Qui rompez des liens si doux.  
+
+    SANGARIDE
+Vous m'avez immolée à l'amour de Cybèle.  
+
+    ATYS
+Il est vrai qu'à ses yeux, par un secret effroi,  
+J'ai voulu de nos cœurs cacher l'intelligence :  
+Mais ce n'est que pour vous que j'ai craint sa vengeance,  
+Et je ne la crains pas pour moi.  
+Cybèle m'aime en vain, et c'est vous que j'adore.  
+
+    SANGARIDE
+Après votre infidélité,  
+Auriez-vous bien la cruauté  
+De vouloir me tromper encore ?  
+
+    ATYS
+Moi ! Vous trahir ? Vous le pensez ?  
+Ingrate, que vous m'offensez !  
+Hé bien, il ne faut plus rien taire,  
+Je vais de la déesse attirer la colère,  
+M'offrir à sa fureur, puisque vous m'y forcez...  
+
+    SANGARIDE
+Ah ! Demeurez, Atys, mes soupçons sont passés ;  
+Vous m'aimez, je le crois, j'en veux être certaine.  
+Je le souhaite assez,  
+Pour le croire sans peine.  
+
+    ATYS
+Je jure,  
+
+    SANGARIDE
+        Je promets,  
+
+    ATYS ET SANGARIDE
+De ne changer jamais.  
+
+    SANGARIDE
+Quel tourment de cacher une si belle flamme.  
+Redoublons-en l'ardeur dans le fonds de nôtre âme.  
+
+    ATYS ET SANGARIDE
+Aimons en secret, aimons-nous :  
+Aimons plus que jamais, en dépit des jaloux.  
+
+    SANGARIDE
+Mon père vient ici.  
+
+    ATYS
+        Que rien ne vous étonne ;  
+Servons-nous du pouvoir que Cybèle me donne,  
+Je vais préparer les zéphirs  
+À suivre nos désirs.  
+
+
+## SCÈNE V
+Sangaride, Celaenus, le dieu du fleuve Sangar, troupe de dieux de fleuves, de ruisseaux, et de divinités de fontaines, Le fleuve Sangar, Suite du fleuve Sangar, Douze grands dieux de fleuves chantants, Huit dieux de fleuves jouans de la flute, Quatre divinités de fontaines, et quatre dieux de fleuves chantants et dansants, Quatre divinités de fontaines, Deux dieux de fleuves, Deux dieux de fleuves dansants ensemble, Deux petits dieux de ruisseaux chantants et dansants, Quatre petits dieux de ruisseaux dansants, Six grands dieux de fleuves dansants, Deux vieux dieux de fleuves et deux vieilles fontaines dansantes, Deux vieux dieux de fleuves dansants, Deux vieilles nymphes de fontaines dansantes.
+
+
+    LE DIEU DU FLEUVE SANGAR
+Ô vous, qui prenez part au bien de ma famille,  
+Vous, vénérables dieux des fleuves les plus grands,  
+Mes fidèles amis, et mes plus chers parents,  
+Voyez quel est l'époux que je donne à ma fille :  
+J'ai pris soin de choisir entre les plus grands rois.  
+
+    CHŒUR DE DIEUX DE FLEUVES
+Nous aprouvons votre choix.  
+
+    LE DIEU DU FLEUVE SANGAR
+Il a Neptune pour père,  
+Les phrygiens suivent ses lois ;  
+J'ai crû ne pouvoir faire  
+Un choix plus digne de vous plaire.  
+
+    CHŒUR DE DIEUX DE FLEUVES
+Tous, d'une commune voix,  
+Nous approuvons votre choix.  
+Le dieu du fleuve Sangar.  
+Que l'on chante, que l'on danse,  
+Rions tous lorsqu'il le faut ;  
+Ce n'est jamais trop tôt  
+Que le plaisir commence.  
+On trouve bientôt la fin  
+Des jours de réjouissance ;  
+On a beau chasser le chagrin,  
+Il revient plustôt qu'on ne pense.  
+
+    LE DIEU DU FLEUVE SANGAR, ET LE CHŒUR
+Que l'on chante, que l'on danse,  
+Rions tous lorsqu'il le faut ;  
+Ce n'est jamais trop tôt  
+Que le plaisir commence :  
+Que l'on chante, que l'on danse,  
+Rions tous lorsqu'il le faut.  
+
+    DIEUX DE FLEUVES, DIVINITES DE FONTAINES, ET DE RUISSEAUX CHANTANTS ET DANSANTS ENSEMBLE
+La beauté la plus sévère  
+Prend pitié d'un long tourment,  
+Et l'amant qui persévère  
+Devient un heureux amant.  
+Tout est doux, et rien ne coûte  
+Pour un cœur qu'on veut toucher,  
+L'onde se fait une route  
+En s'efforçant d'en chercher,  
+L'eau qui tombe goutte à goutte  
+Perce le plus dur rocher.  
+L'hymen seul ne saurait plaire,  
+Il a beau flatter nos vœux ;  
+L'amour seul a droit de faire  
+Les plus doux de tous les nœuds.  
+Il est fier, il est rebelle,  
+Mais il charme tel qu'il est ;  
+L'hymen vient quand on l'appelle,  
+L'amour vient quand il lui plaît.  
+Il n'est point de résistance  
+Dont le temps ne vienne à bout,  
+Et l'effort de la constance  
+À la fin doit vaincre tout.  
+Tout est doux, et rien ne coûte  
+Pour un cœur qu'on veut toucher,  
+L'onde se fait une route  
+En s'efforçant d'en chercher,  
+L'eau qui tombe goutte à goutte  
+Perce le plus dur rocher.  
+L'amour trouble tout le monde,  
+C'est la source de nos pleurs ;  
+C'est un feu brûlant dans l'onde,  
+C'est l'écueil des plus grands cœurs :  
+Il est fier, il est rebelle,  
+Mais il charme tel qu'il est ;  
+L'hymen vient quand on l'appelle,  
+L'amour vient quand il lui plaît.  
+
+    UN DIEU DE FLEUVE ET UNE DIVINITÉ DE FONTAINE ET CHANTENT ENSEMBLE
+D'une constance extrême,  
+Un ruisseau suit son cours ;  
+Il en sera de même  
+Du choix de mes amours,  
+Et du moment que j'aime  
+C'est pour aimer toujours.  
+Jamais un cœur volage  
+Ne trouve un heureux sort,  
+Il n'a point l'avantage  
+D'être longtemps au port,  
+Il cherche encor l'orage  
+Au moment qu'il en sort.  
+
+    CHŒUR DE DIEUX DE FLEUVES, ET DE DIVINITÉS DE FONTAINES
+Un grand calme est trop fâcheux,  
+Nous aimons mieux la tourmente.  
+Que sert un cœur qui s'exempte  
+De tous les soins amoureux ?  
+À quoi sert une eau dormante ?  
+Un grand calme est trop fâcheux,  
+Nous aimons mieux la tourmente.  
+
+
+## SCÈNE VI
+Atys, troupe de zephirs volants, Sangaride, Celaenus, le dieu du fleuve Sangar, troupe de dieux de fleuves, de ruisseaux, et de divinités de fontaines.
+
+
+    CHŒUR DE DIEUX DE FLEUVES, ET DE FONTAINES
+Venez former des nœuds charmants,  
+Atys, venez unir ces bienheureux amants.  
+
+    ATYS
+Cet hymen déplaît à Cybèle,  
+Elle défend de l'achever :  
+Sangaride est un bien qu'il faut lui réserver,  
+Et que je demande pour elle.  
+
+    LE CHŒUR
+Ah quelle loi cruelle !  
+
+    CELAENUS
+Atys peut s'engager lui-même à me trahir ?  
+Atys contre moi s'intéresse ?  
+
+    ATYS
+Seigneur, je suis à la déesse,  
+Dés qu'elle a commandé, je ne puis qu'obéir  
+
+    LE DIEU DU FLEUVE SANGAR, ET LE CHŒUR
+Pourquoi faut-il qu'elle sépare  
+Deux illustres amants pour qui l'hymen prépare  
+Ses liens les plus doux ?  
+
+    LE CHŒUR
+Opposons-nous  
+À ce dessein barbare.  
+
+    ATYS, ÉLEVÉ SUR UN NUAGE
+Apprenez, audacieux,  
+Qu'il n'est rien qui n'obéisse  
+Aux souveraines lois de la reine des dieux.  
+Qu'on nous enlève de ces lieux ;  
+Zéphirs, que sans tarder mon ordre s'accomplisse.  
+Les zéphirs volent et enlevent Atys et Sangaride.
+
+
+    LE CHŒUR
+Quelle injustice !  
+
+
+# ACTE V
+
+
+## SCÈNE I
+Celaenus, Cybèle, Mélisse.
+
+Le théâtre change et représente des jardins agréables.
+
+
+    CELAENUS
+Vous m'ôtez Sangaride ? Inhumaine Cybelle ;  
+Est-ce le prix du zèle  
+Que j'ai fait avec soin éclater à vos yeux ?  
+Préparez-vous ainsi la douceur éternelle  
+Dont vous devez combler ces lieux ?  
+Est-ce ainsi que les rois sont protegés des dieux ?  
+Divinité cruelle,  
+Descendez-vous exprès des cieux  
+Pour troubler un amour fidèle ?  
+Et pour venir m'ôter ce que j'aime le mieux ?  
+
+    CYBÈLE
+J'aimais Atys, l'amour a fait mon injustice ;  
+Il a pris soin de mon supplice ;  
+Et si vous êtes outragé,  
+Bientôt vous serez trop vengé.  
+Atys adore Sangaride.  
+
+    CELAENUS
+Atys l'adore ? Ah le perfide !  
+
+    CYBÈLE
+L'ingrat vous trahissait, et voulait me trahir :  
+Il s'est trompé lui-même en croyant m'éblouir.  
+Les zéphirs l'ont laissé, seul, avec ce qu'il aime,  
+Dans ces aimables lieux ;  
+Je m'y suis cachée à leurs yeux ;  
+J'y viens d'être témoin de leur amour extrême.  
+
+    CELAENUS
+Ô ciel ! Atys plairait aux yeux qui m'ont charmé ?  
+
+    CYBÈLE
+Eh pouvez-vous douter qu'Atys ne soit aimé ?  
+Non, non, jamais amour n'eût tant de violence,  
+Ils ont juré cent fois de s'aimer malgré nous,  
+Et de braver notre vengeance ;  
+Ils nous ont appellés cruels, tyrans, jaloux ;  
+Enfin leurs cœurs d'intelligence,  
+Tous deux... ah je frémis au moment que j'y pense !  
+Tous deux s'abandonnaient à des transports si doux,  
+Que je n'ai pu garder plus longtemps le silence :  
+NI retenir l'éclat de mon juste courroux.  
+
+    CELAENUS
+La mort est pour leur crime une peine légère.  
+
+    CYBÈLE
+Mon cœur à les punir est assez engagé ;  
+Je vous l'ai déja dit, croyez-en ma colère,  
+Bientôt vous serez trop vengé.  
+
+
+## SCÈNE II
+Atys, Sangaride, Cybèle, Celaenus, Mélisse, troupe de prêtresses de Cybèle.
+
+
+    CYBÈLE ET CELAENUS
+Venez vous livrer au supplice.  
+
+    ATYS ET SANGARIDE
+Quoi la terre et le ciel contre nous sont armés ?  
+Souffrirez-vous qu'on nous punisse ?  
+
+    CYBÈLE ET CELAENUS
+Oubliez-vous votre injustice ?  
+
+    ATYS ET SANGARIDE
+Ne vous souvient-il plus de nous avoir aimés ?  
+
+    CYBÈLE ET CELAENUS
+Vous changez mon amour en haine légitime.  
+
+    ATYS ET SANGARIDE
+Pouvez-vous condamner  
+L'amour qui nous anime ?  
+Si c'est un crime,  
+Quel crime est plus à pardonner ?  
+
+    CYBÈLE ET CELAENUS
+Perfide, deviez-vous me taire  
+Que c'était vainement que je voulais vous plaire ?  
+
+    ATYS ET SANGARIDE
+Ne pouvant suivre vos désirs,  
+Nous croyons ne pouvoir mieux faire  
+Que de vous épargner de mortels déplaisirs.  
+
+    CYBÈLE
+D'un supplice cruel craignez l'horreur extrême.  
+
+    CYBÈLE ET CELAENUS
+Craignez un funeste trépas.  
+
+    ATYS ET SANGARIDE
+Vengez-vous, s'il le faut, ne me pardonnez pas,  
+Mais pardonnez à ce que j'aime.  
+
+    CYBÈLE ET CELAENUS
+C'est peu de nous trahir, vous nous bravez, ingrats ?  
+
+    ATYS ET SANGARIDE
+Serez-vous sans pitié ?  
+
+    CYBÈLE ET CELAENUS
+Perdez toute espérance.  
+
+    ATYS ET SANGARIDE
+L'amour nous a forcés à vous faire une offense,  
+Il demande grâce pour nous.  
+
+    CYBÈLE ET CELAENUS
+L'amour en courroux  
+Demande vengeance.  
+
+    CYBÈLE
+Toi, qui portes partout et la rage et l'horreur,  
+Cesse de tourmenter les criminelles ombres,  
+Viens, cruelle Alecton, sors des royaumes sombres,  
+Inspire au cœur d'Atys ta barbare fureur.  
+
+
+## SCÈNE III
+Alecton, Atys, Sangaride, Cybèle, Celaenus, Mélisse, Idas, Doris, troupe de prêtresses de Cybèle, Chœur de phrygiens.
+
+Alecton sort des enfers, tenant à la main un flambeau qu'elle secoue en volant et en passant au-dessus d'Atys.
+
+
+    ATYS
+Ciel ! Quelle vapeur m'environne !  
+Tous mes sens sont troublés, je frémis, je frissonne,  
+Je tremble, et tout à coup, une infernale ardeur  
+Vient enflammer mon sang, et dévorer mon cœur.  
+Dieux ! Que vois-je ? Le ciel s'arme contre la terre ?  
+Quel désordre ! Quel bruit ! Quel éclat de tonnerre !  
+Quels abymes profonds sous mes pas sont ouverts !  
+Que de fantômes vains sont sortis des enfers !  
+Il parle à Cybèle, qu'il prend pour Sangaride.
+
+Sangaride, ah fuyez la mort que vous prepare  
+Une divinité barbare :  
+C'est votre seul péril qui cause ma terreur.  
+
+    SANGARIDE
+Atys reconnaissez votre funeste erreur.  
+Atys prenant Sangaride pour un monstre.
+
+Quel monstre vient à nous ! Quelle fureur le guide !  
+Ah respecte, cruel, l'aimable Sangaride.  
+
+    SANGARIDE
+Atys, mon cher Atys.  
+
+    ATYS
+Quels hurlements affreux !  
+
+    CELAENUS, À SANGARIDE
+Fuyez, sauvez-vous de sa rage.  
+
+    ATYS, TENANT À LA MAIN LE COUSTEAU SACRÉ QUI SERT AUX SACRIFICES
+Il faut combattre ; amour, seconde mon courage.  
+Atys court aprés Sangaride qui fuit dans un des côtés du théâtre.
+
+
+    CELAENUS, ET LE CHŒUR
+Arrête, arrête malheureux.  
+Celaenus court aprés Atys.
+
+
+    SANGARIDE, DANS UN DES COTÉS DU THÉÂTRE
+Atys !  
+
+    LE CHŒUR
+        Ô ciel !  
+
+    SANGARIDE
+        Je meurs.  
+
+    LE CHŒUR
+Atys, Atys lui-même,  
+Fait périr ce qu'il aime !  
+
+    CELAENUS, REVENANT SUR LE THÉÂTRE
+Je n'ai pu retenir ses efforts furieux,  
+Sangaride expire à vos yeux.  
+
+    CYBÈLE
+Atys me sacrifie une indigne rivale.  
+Partagez avec moi la douceur sans égale,  
+Que l'on goûte en vengeant un amour outragé.  
+Je vous l'avais promis.  
+
+    CELAENUS
+Ô promesse fatale !  
+Sangaride n'est plus, et je suis trop vengé.  
+Celaenus se retire au côté du théâtre, où est Sangaride morte.
+
+
+
+## SCÈNE IV
+Atys, Cybèle, Idas, Mélisse, Chœur de phrygiens.
+
+
+    ATYS
+Que je viens d'immoler une grande victime !  
+Sangaride est sauvée, et c'est par ma valeur.  
+
+    CYBÈLE, TOUCHANT ATYS
+Achève ma vengeance, Atys, connais ton crime,  
+Et reprends ta raison pour sentir ton malheur.  
+
+    ATYS
+Un calme heureux succède aux troubles de mon cœur.  
+Sangaride, nymphe charmante,  
+Qu'êtes-vous devenue ? Où puis-je avoir recours ?  
+Divinité toute puissante,  
+Cybèle, ayez pitié de nos tendres amours,  
+Rendez-moi, Sangaride, épargnez ses beaux jours.  
+Cybèle montrant à Atys Sangaride morte.
+
+Tu la peux voir, regarde.  
+
+    ATYS
+Ah quelle barbarie !  
+Sangaride a perdu la vie !  
+Ah quelle main cruelle ! Ah quel cœur inhumain !...  
+
+    CYBÈLE
+Les coups dont elle meurt sont de ta propre main.  
+
+    ATYS
+Moi, j'aurais immolé la beauté qui m'enchante ?  
+Ô ciel ! Ma main sanglante  
+Est de ce crime horrible un témoin trop certain !  
+
+    LE CHŒUR
+Atys, Atys lui-même,  
+Fait périr ce qu'il aime.  
+
+    ATYS
+Quoi, Sangaride est morte ? Atys est son boureau !  
+Quelle vengeance ô dieux ! Quel supplice nouveau !  
+Quelles horreurs sont comparables  
+Aux horreurs que je sens ?  
+Dieux cruels, dieux impitoyables,  
+N'êtes-vous tout-puissants  
+Que pour faire des misérables ?  
+
+    CYBÈLE
+Atys, je vous ai trop aimé :  
+Cet amour par vous-même en courroux transformé  
+Fait voir encor sa violence :  
+Jugez, ingrat, jugez en ce funeste jour,  
+De la grandeur de mon amour  
+Par la grandeur de ma vengeance.  
+
+    ATYS
+Barbare ! Quel amour qui prend soin d'inventer  
+Les plus horribles maux que la rage peut faire !  
+Bienheureux qui peut éviter  
+Le malheur de vous plaire.  
+Ô dieux ! Injustes dieux ! Que n'êtes-vous mortels ?  
+Faut-il que pour vous seuls vous gardiez la vengeance ?  
+C'est trop, c'est trop souffrir leur cruelle puissance,  
+Chassons-les d'ici bas, renversons leurs autels.  
+Quoi, Sangaride est morte ? Atys, Atys lui-même  
+Fait périr ce qu'il aime.  
+
+    LE CHŒUR
+Atys, Atys lui-même  
+Fait périr ce qu'il aime.  
+
+    CYBÈLE, ORDONNANT D’EMPORTER LE CORPS DE SANGARIDE MORTE
+Ôtez ce triste objet.  
+
+    ATYS
+Ah ! Ne m'arrachez pas  
+Ce qui reste de tant d'appas :  
+En fussiez-vous jalouse encore,  
+Il faut que je l'adore  
+Jusques dans l'horreur du trépas.  
+
+
+## SCÈNE V
+Cybèle, Mélisse.
+
+
+    CYBÈLE
+Je commence à trouver sa peine trop cruelle,  
+Une tendre pitié rappelle  
+L'amour que mon courroux croyait avoir banni,  
+Ma rivale n'est plus, Atys n'est plus coupable,  
+Qu'il est aisé d'aimer un criminel aimable  
+Aprés l'avoir puni.  
+Que son désespoir m'épouvante !  
+Ses jours sont en péril, et j'en frémis d'effroi :  
+Je veux d'un soin si cher ne me fier qu'à moi,  
+Allons... mais quel spectacle à mes yeux se présente ?  
+C'est Atys mourant que je vois !  
+
+
+## SCÈNE VI
+Atys, Idas, Cybèle, Mélisse, prêtresses de Cybèle.
+
+
+    IDAS SOÛTENANT ATYS
+Il s'est percé le sein, et mes soins pour sa vie  
+N'ont pû prévenir sa fureur.  
+
+    CYBÈLE
+Ah ! C'est ma barbarie,  
+C'est moi, qui lui perce le cœur.  
+
+    ATYS
+Je meurs, l'amour me guide  
+Dans la nuit du trépas ;  
+Je vais où sera Sangaride,  
+Inhumaine, je vais où vous ne serez pas.  
+
+    CYBÈLE
+Atys, il est trop vrai, ma rigueur est extrême,  
+Plaignez-vous, je veux tout souffrir.  
+Pourquoi suis-je immortelle en vous voyant périr ?  
+
+    ATYS ET CYBÈLE
+Il est doux de mourir  
+Avec ce que l'on aime.  
+
+    CYBÈLE
+Que mon amour funeste armé contre moi-même,  
+Ne peut-il vous venger de toutes mes rigueurs.  
+
+    ATYS
+Je suis assez vengé, vous m'aimez, et je meurs.  
+
+    CYBÈLE
+Malgré le destin implacable  
+Qui rend de ton trépas l'arrêt irrévocable,  
+Atys, sois à jamais l'objet de mes amours :  
+Reprends un sort nouveau, deviens un arbre aimable  
+Que Cybèle aimera toujours.  
+Atys prend la forme de l'arbre aimé de la déesse Cybèle, que l'on appelle pin.
+
+
+    CYBÈLE
+Venez furieux corybantes,  
+Venez joindre à mes cris vos clameurs éclatantes ;  
+Venez, nymphes des eaux, venez dieux des forêts,  
+Par vos plaintes les plus touchantes  
+Secondez mes tristes regrets.  
+
+
+## SCÈNE VII
+Cybèle, troupe de nymphes des eaux, troupe de divinités des bois, troupe de corybantes, Quatre nymphes chantantes, Huit dieux des bois chantants, Quatorze corybantes chantantes, Huit corybantes dansantes, Trois dieux des bois dansants, Trois nymphes dansantes.
+
+
+    CYBÈLE
+Atys, l'aimable Atys, malgré tous ses attraits,  
+Descend dans la nuit éternelle ;  
+Mais malgré la mort cruelle,  
+L'amour de Cybèle  
+Ne mourra jamais.  
+Sous une nouvelle figure,  
+Atys est ranimé par mon pouvoir divin ;  
+Célébrez son nouveau destin ;  
+Mais malgré la mort cruelle,  
+L'amour de Cybèle  
+Ne mourra jamais.  
+Sous une nouvelle figure,  
+Atys est ranimé par mon pouvoir divin ;  
+Celebrez son nouveau destin ;  
+Mais malgré la mort cruelle,  
+L'amour de Cybèle  
+Ne mourra jamais.  
+Sous une nouvelle figure,  
+Atys est ranimé par mon pouvoir divin ;  
+Celebrez son nouveau destin,  
+Pleurez sa funeste aventure.  
+
+    CHŒUR DES NYMPHES DES EAUX, ET DES DIVINITES DES BOIS
+Célébrons son nouveau destin,  
+Pleurons sa funeste aventure.  
+
+    CYBÈLE
+Que cet arbre sacré  
+Soit reveré  
+De toute la nature.  
+Qu'il s'élève au dessus des arbres les plus beaux :  
+Qu'il soit voisin des cieux, qu'il règne sur les eaux ;  
+Qu'il ne puisse brûler que d'une flamme pure.  
+Que cet arbre sacré  
+Soit reveré  
+De toute la nature.  
+Le chœur répète ces trois derniers vers.
+
+
+    CYBÈLE
+Que ses rameaux soient toujours verts :  
+Que les plus rigoureux hivers  
+Ne leur fassent jamais d'injure,  
+Que cet arbre sacré  
+Soit reveré  
+De toute la nature.  
+Le chœur répète ces trois derniers vers.
+
+
+    CYBÈLE, ET LE CHŒUR DES DIVINITÉS DES BOIS ET DES EAUX
+Quelle douleur !  
+
+    CYBÈLE, ET LE CHŒUR DES CORYBANTES
+Ah ! Quelle rage !  
+
+    CYBÈLE, ET LES CHŒURS
+Ah ! Quel malheur !  
+
+    CYBÈLE
+Atys au printemps de son âge  
+Périt comme une fleur  
+Qu'un soudain orage  
+Renverse et ravage.  
+
+    CYBÈLE, ET LE CHŒUR DES DIVINITÉS DES BOIS, ET DES EAUX
+Quelle douleur !  
+
+    CYBÈLE, ET LE CHŒUR DES CORYBANTES
+Ah ! Quelle rage !  
+
+    CYBÈLE, ET LES CHŒURS
+Ah ! Quel malheur !  
+Les divinités des bois et des eaux, avec les corybantes, honorent le nouvel arbre, et le consacrent à Cybèle. Les regrets des divinités des bois et des eaux, et les cris des corybantes, sont secondeés et termineés par des tremblements de terre, par des éclairs, et par des éclats de tonnerre.
+
+
+    CYBÈLE, ET LE CHŒUR DES DIVINITÉS DES BOIS, ET DES EAUX
+Que le malheur d'Atys afflige tout le monde.  
+
+    CYBÈLE, ET LE CHŒUR DES CORYBANTES
+Que tout sente, ici bas,  
+L'horreur d'un si cruel trépas.  
+
+    CYBÈLE, ET LE CHŒUR DES DIVINITÉS DES BOIS, ET DES EAUX
+Pénétrons tous les cœurs d'une douleur profonde :  
+Que les bois, que les eaux, perdent tous leurs appas.  
+
+    CYBÈLE, ET LE CHŒUR DES CORYBANTES
+Que le tonnerre nous réponde :  
+Que la terre frémisse, et tremble sous nos pas.  
+
+    CYBÈLE, ET LE CHŒUR DES DIVINITÉS DES BOIS, ET DES EAUX
+Que le malheur d'Atys afflige tout le monde.  
+
+    TOUS ENSEMBLE
+Que tout sente, ici bas,  
+L'horreur d'un si cruel trépas.  

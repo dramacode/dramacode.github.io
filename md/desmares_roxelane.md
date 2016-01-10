@@ -1,0 +1,3556 @@
+---
+identifier: desmares_roxelane  
+creator: Desmares  
+date: 1643  
+title: Roxelane. Tragi-comédie  
+---
+
+
+Roxelane
+
+Tragi-comédie
+
+
+
+A PARIS, Antoine de Sommaville, à l'Escu de France, dans la Salle de Merciers. ET Augustin Courbe, Lib. Et Impr. De Mons. Frere du Roy, à la Palme, en la mesme Salle. M. DC. XLIII. AVEC PRIVILEGE DU ROY.
+Édition critique établie par Lucie Soureillat dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2009-2010)
+
+
+# Introduction
+
+Roxelane est l'histoire d'une esclave qui entreprend de légitimer sa descendance en devenant reine. Ce faisant, elle devient la première reine de l'Histoire de l'empire ottoman. Un destin aussi surprenant ne pouvait que susciter l'intérêt du public pour l'Orient.
+
+
+# Présentation de la pièce
+
+
+## Desmares, un auteur inconnu
+
+Nous ne disposons que de peu d'informations sur l'auteur de *Roxelane*, Desmares. Le catalogue de la Bibliothèque Nationale de France l'identifie comme étant le Père Joseph Des Mares, prêtre de l'Oratoire de Jésus (février 1603- janvier 1687) [1]. Cependant, force est de constater qu'aucune autre source ne confirme l'identification de Desmares comme prédicateur et controversiste janséniste. Les frères Parfaict nous indiquent uniquement que Desmares est un *auteur dramatique* [2] qui *ne* {leur} *est connu que par la Piece de Roxelane qui semble être le seul ouvrage qu'il ait publié* [3]. Le *Dictionnaire portatif* d'Antoine de Léris [4] nous donne de nouvelles informations biographiques, discordantes avec celles retenues par la Bibliothèque Nationale : *Desmarres, avoit été Secretaire des Commandemens de M. le Prince. Il avoit une si grande passion pour le Théâtre qu'il étoit rare qu'il manquât un seul jour à la Comédie. Il mourut dans un âge très-avancé, vers l'année 1716. Nous n'avons de lui que Roxelane, donnée en 1643, et Merlin Dragon. On a même prétendu, avec assez d'apparence, que Roxelane étoit d'un autre Auteur, aussi nommé Desmarres.* La confusion est donc grande à propos de Desmares, dont la fréquence du nom et ses nombreux dérivés [5] n'ont fait qu'aggraver l'équivoque. C'est ce que confirme la distinction orthographique que font les frères Parfaict entre les entrées *Desmares*, auteur de *Roxelane* (1643) et *Desmarres* [6], auteur de *Merlin Dragon* (1686) et officier du Grand Condé. De par leurs dates de publication et leurs sujets éloignés, il semble en effet très peu probable que *Roxelane* et *Merlin Dragon* soient les productions d'un même auteur. *Merlin dragon* est une comédie en un acte et en prose. Elle met en scène M. de la Serre, un homme riche et avare qui demande à se marier avec la fille de M. Oronte, initialement destinée à son propre fils, Pimandre. Pimandre reconquiert finalement celle qu'il aime grâce à l'intervention d'un valet, Merlin, qui déguisé en *Capitaine de Dragons* pille la maison de M. Oronte qui renonce au mariage.
+
+Par hypothèse nous retiendrons donc la version modérée – et contemporaine de Desmares – des frères Parfaict. Les travaux de Henri Carrington Lancaster [7] sur l'histoire du théâtre français au XVII*e* siècle et de Clarence Dana Rouillard [8] sur les pièces inspirées de l'histoire turque vont dans ce sens, évoquant *a certain Desmares, otherwise unknown* [9] : Desmares est un dramaturge dont la seule production avérée est *Roxelane*, et dont les charges religieuses, administratives, ou politiques en dehors de la comédie, sont méconnues.
+
+
+## Roxelane, une pièce unique
+
+
+### Publication
+
+Desmares fait publier *Roxelane* en 1643 chez les éditeurs parisiens Antoine de Sommaville et Augustin Courbé. La pièce est représentée en 1641 selon le *Calendrier des spectacles sous l'Ancien Régime* [10]. Cependant, aucun document contemporain ne fait mention de la représentation de la pièce non plus que du théâtre où elle aurait été jouée. Mais comme durant la première moitié du XVII*e* siècle la représentation précède généralement de douze à dix huit mois la publication, cette mention unique nous paraît cependant vraisemblable.
+
+
+### Argument
+
+
+#### Acte I
+
+Successivement, les deux favorites de Soliman apparaissent. D'abord Circasse, qui expose à son confident Acmat Bassa, son désarroi d'être délaissée par le sultan et les craintes qu'elle a pour son fils Mustapha. Circasse évoque le *fer* et le *poison* pour parer aux ruses de Roxelane, l'autre favorite, tandis que son conseiller lui recommande la dissimulation et la patience (sc.1). Apparaît ensuite Roxelane qui craint l'accession au pouvoir de Mustapha. Elle fait part au Mufti de son dessein de légitimer ses propres fils en épousant Soliman : « J'épouze Soliman ou bien la sepulture. » Le Mufti lui rappelle que les lois ottomanes interdisent aux sultans de se marier. Malgré l'interdit juridique, Roxelane évoque sans autre précision un stratagème par lequel le sultan lui-même la priera d'accepter la couronne (sc.2.). Les deux rivales, Circasse et Roxelane, échangent des paroles doucereuses qui cachent leur haine et leur crainte mutuelles (sc.3). Le premier acte se clôt par un long monologue de Roxelane dans lequel elle entérine sa décision de « mont(er) en des lieux d'où Mustapha ne puisse approcher que des yeux » (sc.4).
+
+
+#### Acte II
+
+Alors que Soliman s'affirme en roi amoureux, Acmat se hasarde à souligner que l'autorité croissante de Roxelane affaiblit sa position et qu'en proportion le « peuple croit que pour luy (son) amour est devenu plus froid ». L'ambition de Roxelane surprend Soliman qui se place en sultan respectueux des « lois anciennes ». Le Mufti condamne l'audace d'Acmat (sc.1). Roxelane, sommée de s'expliquer, demande à Soliman la permission de construire un « temple » et un « hospital » qui lui permettraient de sortir de l'état mélancolique dont elle souffre. Soliman demande au Mufti d'exécuter le projet de Roxelane. Parce qu'elle est esclave, le Mufti souligne que l'érection d'un temple et d'une institution de charité ne sera spirituellement profitable qu'à son maître. Le moyen de surmonter l'obstacle est l'affranchissement de Roxelane, que Soliman accorde sur le champ. Elle pourra désormais se consacrer au temple, « véritable image » de la grandeur du sultan (sc.2). Roxelane se réjouit du succès du premier temps de sa stratégie, aux côtés du Mufti qui lui confirme sa loyauté (sc.3).
+
+
+#### Acte III
+
+Un page informe Soliman que Roxelane refuse qu'il entre dans sa chambre en transmettant le message « que l'amour désormais est un crime pour (elle) ». Soliman ordonne la mort de la Sultane mais consent auparavant, en réponse aux prières de Rustan, à attendre l'explication de son refus (sc.1). Alors que Circasse et Acmat craignent l'ambition masquée de Roxelane qui a obtenu l'autorisation de faire construire une « mosquée » (sc.2), Osman leur apprend que Roxelane est sur le point d'être condamnée. Ils décident de profiter de l'état de crise pour évincer définitivement Roxelane (sc.3). Dans un passage en stances, Roxelane prend la mesure du danger qu'implique la réalisation de sa stratégie. Elle choisit cependant de poursuivre la conquête du trône, au risque de mourir (sc.4). Malgré les prières de Rustan et Chamerie — respectivement gendre et fille de Roxelane et de Soliman —, Roxelane n'infléchit pas sa position qui respecte un interdit religieux : un femme libre ne doit pas être favorite du sultan (sc.5). L'acte se clôt sur l'apparition d'Ormin, colonel des janissaires, avec deux de ses hommes qui viennent arrêter la Sultane (sc.6).
+
+
+#### Acte IV
+
+Dans un passage en stances, Soliman oscille entre rage et amour (sc.1). Il promet à Circasse de ne pas se comporter en amant mais en juge (sc.2). Mais quand Roxelane apparaît aux yeux du sultan, elle feint un grand désarroi depuis qu'elle a quitté son rang d'esclave. Soliman renvoie Circasse et les soldats (sc.3). Il demande à Roxelane de ne pas s'arrêter à ces « formalitez ». Elle rétorque que si lui est au-dessus des lois, « Je suis dessous la loi puisque je suis sujette ». Soliman, à la fois « témoin, et partie, et juge, et punisseur », est confronté à une aporie juridique (sc.4). Soliman n'ayant pas le courage de la condamner, convoque une assemblée (sc.5).
+
+
+#### Acte V
+
+Acmat informe Circasse de la rumeur du mariage de Roxelane avec Soliman. Ils sont résolus à s'y opposer (sc.1). Soliman réunit ses conseillers. Le Mufti confirme que le comportement de Roxelane est fidèle à ce qu'impose l'Alcoran. La crainte de Circasse se concrétise quand le Mufti annonce que la solution pourrait être le mariage. Acmat s'oppose violemment à la proposition du Mufti. Il dénonce la fourberie de Roxelane et rappelle l'interdit de la loi ottomane. Le mufti rétorque que si les lois humaines sont modifiables, la loi religieuse est sacrée. Soliman épouse Roxelane sur le champ (sc.2). Soliman sacre ensuite Roxelane « Reine des Musulmans », il partage ses droits avec elle et, même si « les lois semblent y contredire », il désigne ses « enfants successeurs à l'Empire ». Alors que Circasse projette de mourir aux côtés de son malheureux confident, Roxelane continue de jouer intelligemment l'humilité. La pièce se clôt sur ses protestations innocentes « De vivre comme esclave et non pas comme Reine, En tres-humble sujette et non en souveraine. » (sc.3).
+
+
+## Sources
+
+
+### Moyens de connaissance de l'Orient au 17*e* siècle
+
+Le traitement du sujet oriental dans le théâtre du Grand Siècle a connu deux périodes distinctes. La première, plus timide, a vu naître les premières turqueries. C'est à cette première période qu'on rattache la pièce de Desmares, publiée en 1643. L'Orient qui est alors mis en scène reste un lointain mystérieux, mythique et enchanteur. La seconde période, plus affirmée, coïncide avec le règne de Louis XIV. Cette période se caractérise par la transition d'une représentation mythique de l'Orient à une réalité plus concrète, notamment grâce au développement des différentes Compagnies de commerce.
+
+Roxelane est publiée dans le contexte de la politique volontariste de Richelieu. La signature du traité de Compiègne avec les Provinces-Unies en 1635 qui reconnaît la liberté du commerce vers les Indes orientales relance l'activité des Français en direction de l'Asie, avec une visée missionnaire et commerciale. Le Père Joseph [11] établit dès 1628 des liens officiels entre la France et la Perse ouvrant par le golfe persique la route de l'Inde. C'est dans ce contexte que les auteurs français s'intéressent à la question orientale et qu'apparaissent les premières turqueries. Selon J. Scherer :
+
+
+(…) la civilisation musulmane est sentie comme une réalité originale, qui appelle, et parfois obtient une couleur particulière. Les scènes arabes de la Belle Alphrède [12] de Rotrou, la tragédie d'Osman [13] de Tristan, montrent, bien avant les turqueries du Bourgeois Gentilhomme de Molière, ou les inquiétantes allusions aux mœurs du sérail du Bajazet de Racine, un souci de mettre en relief la somptuosité barbare de l'Islam. [14]
+
+Cet intérêt pour l'Orient apparaît d'ailleurs assez nettement dans l'évolution littéraire à partir des années 1630. Essentiellement des tragédies, mais aussi quelques tragi-comédies, paraissent, qui empruntent toutes à un sujet tiré de la vie de Soliman II, dit le Magnifique. De 1621 à 1656, une dizaine de pièces situent en effet l'action au cœur du sérail ottoman.
+
+En 1661, lorsque, après la Régence, Louis XIV entame son règne de plein exercice, le rapport à l'Orient se concrétise de façon radicale. C'est le second versant du siècle, caractérisé par une politique coloniale offensive qui se développe à l'initiative de Colbert, alors ministre des finances. En 1660 est créée la Compagnie de la Chine, en 1665 celle des Indes orientales, et en 1670 la Compagnie du Levant. Ce mouvement fulgurant marque, au-delà de l'histoire politique, l'histoire littéraire.
+
+
+En même temps que l'on crée des comptoirs et des magasins, il se constitue des sources où les écrivains français peuvent puiser, et chaque année l'apport intellectuel venu de l'Orient augmente par une tranquille progression. [15]
+
+Le développement de la Compagnie des Indes, et les voyages tournés essentiellement vers l'Orient, favorisent donc l'irruption, dans l'imaginaire européen, des Persans, des Chinois et des Turcs.
+
+Cependant, la connaissance de l'Orient au XVII*e* siècle sera restreinte aux moyens qui la véhiculeront. Ce sont des récits de voyages ou des récits de missionnaires qui forgent la représentation de l'Orient. Ces récits personnels, marqués par la subjectivité du genre, décrivent un monde perçu à travers le prisme de la culture européenne. Les missionnaires ont de cette manière contribué à créer la vision, parfois déformée, qu'on aura de l'Orient au XVII*e* siècle. Il est en va de même pour les récits de voyage, qui par le procédé récurrent de l'explication de l'inconnu par le connu, alimentent une perception grossière du réel :
+
+
+Mais pour tout ce qui concernait l'homme, leur connaissance de la vie exotique était trop imparfaite : ils ne comprenaient et même ne voyaient que ce qui se rapprochait de leurs idées et en général de la vie française : les visions trop nouvelles et les sentiments trop étranges, ils les écartaient délibérément ou du moins ils les revêtaient de couleurs connues et moins vives. [16]
+
+Si vers 1670, il est ainsi possible de parler de « mode des turqueries », mode qui se développe autour de la publication du *Bourgeois gentilhomme* et de *Bajazet*, il est pourtant établi que c'est à partir de 1640 que les turqueries théâtrales paraissent. C'est le problème traité par Sylvie Requemora dans son article :
+
+
+Mais s'étonner de la publication d'*Ibrahim ou de l'Illustre Bassa* de Scudéry en 1643 « bien que ce ne soit pas encore la mode des turqueries » [17] fait problème du fait que c'est justement dans les années 1640 que les turqueries théâtrales apparaissent. Hormis *Bajazet* en 1672 et *Soliman* de la Tuillerie en 1681, les pièces à sujet oriental paraissent toutes entre 1621 et 1656. [18]
+
+Cette véritable mode qui correspond en fait au règne de Louis XIII et à la Régence se compose de sept tragédies : *La Rhodienne ou La Cruauté de Soliman* de Mainfray (1621), *Le Grand et dernier Soliman ou la Mort de Mustapha* de Mairet (1639), *Perside ou la suite d'Ibrahim Bassa* de Desfontaines (1644), *La Grand Tamerlan ou la mort de Bajazet* de Magnon (1648), *Soliman ou l'esclave généreuse* de Jacquelin (1653), *Osman* de Tristan l'Hermite (1656), *Soliman* de la Tuillerie (1681) ; et de trois tragi-comédies : Soliman de Vion D'Alibray (1637), *Ibrahim ou l'Illustre Bassa* de Georges de Scudéry (1643) et *Roxelane* de Desmares (1643). Ces tragicomédies et tragédies des années 1621-1656, se référant à des œuvres et des auteurs mineurs, préparent les images de puissance raciniennes à l'œuvre dans *Bajazet*. De même, le motif farcesque du retour des Indes Orientales ouvre au début du siècle la voie aux *Fourberies* de Scapin et à la ridiculisation du Mamamouchi de Molière.
+
+
+### Sources historiques : les chroniques de Nicolas de Moffan et les histoires générales de Baudier et Chalcondyle
+
+L'histoire de Soliman et de Roxelane apparaît dans un premier compte rendu historique de la mort de Mustapha et des événements qui y ont conduit dans *Le meurtre execrable et inhumain, commis par Soltan Solyman, grand Seigneur des Turcs, en la personne de son fils aisné Soltan Mustaphe*, de Nicolas de Moffan [19].
+
+Cette « histoire tragique » avant la lettre, émanant d'un ancien prisonnier des Turcs, raconte avec une éloquence pathétique l'assassinat perpétré par Soliman sur la personne de son fils Mustapha, le 21 septembre 1553. Ce récit a eu un succès notable en Europe et a inspiré une lignée de fictions théâtrales ou romanesques, de la *Soltane* de Gabriel Bounin jusqu'aux cycles narratifs de Madeleine de Scudéry.
+
+Il y dépeint les entreprises rusées de Roxelane (appelée Rose par Nicolas de Moffan) par lesquelles elle a échappé à sa position précaire de favorite jusqu'à convaincre le Sultan de l'épouser. D'abord, feignant le pieux désir de construire une mosquée en l'honneur de Dieu et du Prophète pour le profit de son âme, elle est affranchie par Soliman, parce que le Mufti a allégué qu'autrement cette action ne serait profitable qu'au Sultan. Lorsque le Sultan l'a convoque dans sa chambre, « la caulte et fine femme, n'ygnorant finesses et tromperies », lui fait transmettre que comme elle était une femme libre, « la compagnie charnelle (…) ne se pouvoit, certes, faire sans commettre grand crime et peché. » Encore une fois le Muphti la soutient et Soliman, oubliant tout pour sa passion, se marie avec elle, « pourtant que n'estoit la coutume de la race des Othomans, car pour eviter compagnie en l'Empire, ils ne prennent femmes franches et legitimes : mais au lieu d'icelles pour satisfaire à leurs delices, et à leurs paillardises et voluptez désordonnées (esquelles plus que toutes autres nations vilainement et deshonnestement sont subjectz) ont de toutes regions du monde tresbelles et elegantes femmes ravies, qui sont en la maison du Roy (qui s'appelle Serail) Royallement… nourries… » [20].
+
+On retrouve dans la pièce de Desmares les principaux éléments de la chronique de Nicolas de Moffan concernant le stratagème de Roxelane, son affranchissement puis son mariage avec le Sultan. Mais la comparaison s'arrête là. Desmares ne met pas en scène la vile cruauté de Soliman, ni, par conséquent, l'assassinat de Mustapha, sujets excellents pour des « histoires tragiques ». Et l'on peut alléguer une raison (sociologique) à cela. Les pièces tirées des chroniques de Nicolas de Moffan au début du XVI*e* siècle ont plu parce qu'elles coïncidaient avec la mentalité populaire d'alors, c'est-à-dire avec l'image d'un Sultan cruel, sanguinaire, jaloux, concupiscent, sous l'emprise d'une femme ambitieuse, voluptueuse, immorale. Nous verrons à ce propos que Desmares produit une image de l'infidèle pour le moins inusuelle.
+
+Les savants du XVII*e* siècle, ancêtres des orientalistes, s'emploient à apporter ce qu'ils peuvent de lumière scientifique aux connaissances sur l'Orient qui ne sont encore qu'à l'état de mythes ou de traditions. Leurs œuvres ont été, pour la connaissance de l'Orient, une source au moins aussi importante que les relations de voyage ou les lettres des missionnaires. Si ce fut essentiellement un travail de vulgarisation et de large compilation sans contrôle normalisé des sources, ces ouvrages durent être estimés par les contemporains comme une source de faits et d'idées.
+
+Dans sa plus grande partie, Desmares suit fidèlement le schéma diégétique des publications de Démètre Chalcondyle et Michel Baudier, qui lui servent de matière historique sur le règne de Soliman.
+
+Les livres de Baudier, plusieurs fois réédités, sont très lus dans les années 1620. Infatigable vulgarisateur [21], il écrit une étude sur le gouvernement turc, un traité sur la religion musulmane [22], et un *Inventaire de l'histoire générale des Turcs*, publié pour la première fois en 1619, que Desmares a fort probablement consulté.
+
+Une traduction de l'*Histoire de la décadence de l'empire grec et de l'établissement de celui des Turcs* de Démètre Chalcondyle, historien grec du XVe siècle, a été publiée par Blaise de Vigenère en 1577. Cette traduction de Chalcondyle semble être une référence qui témoigne du sérieux des données historiques qu'un écrivain utilise. Dans sa préface d'*Ibrahim* (1641), Scudéry l'évoque comme gage de la bonne utilisation des mots turcs :
+
+
+Pour moi j'ai cru qu'il fallait avoir plus de soin de son travail, et consulter sur ce sujet et les hommes et les Livres ; que si quelqu'un remarque le nom de Satrape dans ce Roman, qu'il ne s'imagine pas que mon ignorance ait confondu l'ancienne et la nouvelle Perse ; et que je l'aie fait sans autorité. *J'en ai un exemple en Vigenère, qui s'en sert dans ses Illustrations sur Calchondile* [23], et je l'ai appris d'un Persan qui est à Paris, qui dit que par corruption de langage, ils appellent encore aujourd'hui les Gouverneurs de Provinces, SOLTAN SITRIPIN.
+
+Dans une partie intitulée *Solyman second du nom quatorzième empereur des Turcs*, Chalcondyle met en lumière dans le chapitre XLVI les *ruses et artifices* de Roxelane dans son accession au pouvoir. Il semble que Desmares ait concentré son attention sur les divisions « Artifice de Roxelane pour avoir sa liberté. », « Roxelane affranchie. », « L'usage des femmes libres defendu par la loy de Mahomet sans mariage. », « Solyman espouse publiquement Roxelane » et « Pourquoi les Seigneurs Othomans ne se marient point. » Desmares en utilise *in extenso* le matériau dont il respecte la continuité.
+
+*Histoire de la décadence de l'empire grec et de l'établissement de celui des Turcs*, Chalcondyle / *Roxelane*, Desmares
+Artifice de Roxelane pour avoir sa liberté. | 
+Pour y parvenir selon qu'ils avoient résolu, sous un pretexte de pieté, elle envoya vers le Muphty, le souverain en leur Religion, luy dire qu'elle avoit un fort grand désir de faire bastir une Mosquée et un Hospital pour les pauvres pèlerins en l'honneur de Dieu et du Prophete ; | Je limite Seigneur, et mes vœux et mes soins, Et c'est à mes souhaits un effect assez ample Que la permission d'edifier un temple, De faire un hospital, de dresser des autels, Ou l'on puisse en mon nom servir les Immortels. (II, 2)
+mais auparavant que de l'entreprendre elle eust bien desiré estre asseuré si telles œuvres seroient agréables à Dieu pour le salut de son ame, le Muphti respondit que ceste entreprise seroit bien agréable à Dieu, mais non pas à son salut, pour estre esclave du grand Seigneur, lequel estoit maître de tout ce qu'elle possedoit, si que le tout tourneroit au salut de luy, et non d'elle, dequoy elle monstra estre extremément contristée de se voir si miserable, qu'elle ne peust faire aucun bien pour son salut, feignant une si grande melancholie, que son mary s'en apercevant en voulut savoir la cause, non sans avoir este auparavant beaucoup impotunée de luy pour le dire, disant toujiours que pour la révérence et le respect qu'elle luy devoit, qu'elle ne luy osoit déclarer ; mais celui luy en ayant encores donné plus grande envie, selon la coutume, en fin elle luy recita ce que nous venons de dire. | C'est qu'un esclave est dépendant d'autruy Et quoy qu'il puisse faire il ne fait rien pour luy Le service divin en rien ne lui profite Son Maistre seul en a la grace et le merite. (II, 2) Seigneur, si la raison n'estoit pas affoiblie Quand le sang est vaincu par la melancholie, Le rang dont vostre amour a voulu m'honorer Me tiendroit en état de ne rien desirer ; (II, 2)
+Roxelane affranchie. | 
+L'empereur turc ayant entendu toute ceste fable, il luy donna parole que bien-tost elle joüiroit de ce qu'elle desiroit, et de faict incontinent apres il luy envoya lettres de son affranchissement expediées en la forme la plus authentique qu'ils ayent entre eux ; dequoy l'ayant remercié en toute humilité, elle commença aussi-tost ses bastimens. | Moi je ne veux de vous que ceste obeissance, C'est que vous viviez libre et hors de ma puissance. (II, 2) Pere depeschés-tost de bastir cet ouvrage Qui soit de ma grandeur la veritable image. (II, 2)
+Or l'amour de Solyman estoit encores en sa plus grande ardeur, car elle avoit choisi son temps pour l'execution de son dessein : comme doncques il luy eust mandé quelques nuicts apres qu'elle vint coucher avecques luy, elle luy fit dire par celuy qui luy apportoit ce message, qu'encores qu'il fust seul Seigneur de sa vie, de ses biens et de son corps, qu'il advisast toutesfois, puis qu'il l'avoit renduë libre de ne contrevenir à la loy ni commettre un peché, ne luy estant loisible d'user d'une femme libre, | Seigneur, j'ai dit à ceste belle Que vous veniez passez ceste nuit avec elle, Qu'elle se preparast à vous bien recevoir, Et selon sa coutume, et selon son devoir Elle m'a répondu, mon enfant je m'étonne De la commission que l'Empereur vous donne. Dites-luy que luy mesme il m'a donné la loy, Que l'amour desormais est un crime pour moy. (III, 1)
+comme il pourroit sçavoir plus amplement du Muphti. | Roxelane estant libre et de sa dependance L'alcoran vous deffend d'avoir sa jouyssance. Sans déplaire aux Prophetes et violer les Lois Vous ne pouvez l'aymer de mesme qu'autrefois. (V, 2)
+L'usage des femmes libres defendu par la loy de Mahomet sans mariage. | 
+Ceste deffence luy augmentant d'avantage le désir, et comme l'ardeur de la passion l'aiguillonoit et ne luy donnoit aucune trefve, il envoya querir ce Muphty, auquel il proposa la question, à sçavoir s'il pouvait user charnellement d'une esclave qu'il auroit affranchie : Cesluy-cy ayant este dejia gagné par ceste femme luy dit que non, et que s'il faisoit autrement qu'il commettroit un tres-grand peché, s'il ne la prenoit pour espouse : ceste responce ne fit que l'embraser d'avantage, et au lieu de le destourner l'incitoit de plus en plus à la jouissance. | Vous pouvez l'épouser.(V, 2)
+Solyman espouse publiquement Roxelane | 
+Si qu'en fin ne voulant pas aller contre la loy, ayant creu à la lettre ce que le Muphty luy avoit dit, comme celui qui n'avoit en cela que des yeux en la test, l'amour luy avant aveuglé ceux de l'esprit, et ne pouvant vivre en la continuelle inquiétude en laquelle il estoit, il se resolut de l'espouser, comme il fit publiquement, en lui donna contract de mariage, cinq mille ducats de revenu par an pour son douaire, non sans l'estonnement de tous ceux qui sçavoient estre contre la coustume des Othomans ; lesquels selon quelques-uns pour n'avoir aucun compagnon en l'Empire, ne se marient jamais, mais au de femmes se servent de concubines : | 
+Pourquoy les Seigneurs Othomans ne se marient point. | 
+d'autres disent aussi que depuis Bajazet premier jusques alors, aucun des Seigneurs Othomans n'avoit pris femme en legitime mariage, pour la honte et l'ignominie que Tamerlan avoit faict jadis souffrir à la femme de Bajazet, (lors que ce redoutable Prince les tenoit tous prisonniers,) de crainte qu'ils avoient eu de courir un semblable danger, joinct que cette ceremonie leur est de peu d'interest, puis que les enfans qu'ils ont de leur femmes légitimement espousées, Solyman toutesfois, digne de toute loüange en cela qu'ayant tout pouvoir de joüyr de celle qu'il aimoit l'ayant en sa puissance, neantmois pour obeyr à sa loy, il aima mieux supporter de l'incommodité, que d'user autrement d'une chose qu'il croyoit luy estre defenduë ; exemple notable aux Princes Chrestiens, qui font possession d'une loy si saincte et bien souvent se dispensens de faire tout ce qu'il leur plaist avec tant de licence. | 
+
+
+
+Dans l'*Inventaire de l'histoire générale des Turcs*, Baudier retient les mêmes éléments historiques en insistant sur la psychologie de Roxelane.
+
+D'abord sur les raisons qui motivent la mise en place de son stratagème
+
+
+Or ceste femme avoit peint en son esprit, le dessein d'eslever ses enfans à l'authorité, et en disposer l'un d'iceux à la succession de la couronne de son pere : mais cela ne se pouvoit faire, que premièrement Mustapha fils de Solyman, et né d'une autre femme, ne fust entierement ruyné : car la générosité de ce Prince, son humeur libérale, et tant de vertus qui servoient d'ornemens, à son ame Royale, luy avoient acquis une telle authorité parmy les Janissaires et les Bassas de la Porte, qu'elle ombrageoit grandement celle des autres Princes fils de Roxelane. Or pour arriver à l'effect de son dessein, et à la perte de Mustapha, voicy comme elle y vient de loin. [24]
+
+Lorsque Baudier écrit que Roxelane « y vient de loin », il exprime le fait qu'elle réalise son dessein d'une manière détournée, et cet aspect préparera la dimension extraordinaire du parcours de la Sultane.
+
+Baudier intitule le quinzième chapitre (livre XII) de son histoire, « Roxelane, la plus chérie des sultanes ». Chérie de Soliman, mais surtout, pour reprendre une expression classique courante, *chérie de la fortune*, qui réalise de manière implacable mais toujours extraordinaire son dessein.
+
+Baudier rappelle son élection dans le sérail en soulignant l'amoureuse impuissance de Soliman dans la dialectique topique entre amour et pouvoir :
+
+
+Solyman, qui parmy les Princes Otthomans, peut estre avec raison, nommé le belliqueux Alexandre, entre les feminines beautez que vainement il adoroit dans son Serrail, Roxelane, nom approchant de la Roxane de l'Alexandre Macedonien, recevoit un plus grand honneur par dessus les autres, comme elle estoit aussi la premiere pour les attraicts d'une humaine beauté. [25]
+
+Dialectique que Desmares réutilisera dans le développement d'Acmat (II, 1). Impuissance de Soliman qui apparaît avec d'autant plus de netteté que Roxelane excelle dans l'art de la feinte.
+
+Le texte de Baudier en témoigne fréquemment. Voici par exemple comment il introduit l'épisode de la construction de la mosquée :
+
+
+La dévotion, ou pour le moins celle qui est feinte, a souvent servy de voile, pour couvrir d'une belle apparence, la laideur de mille pernicieuses entreprises, et particulierement aux femmes : car comme leur sexe a de l'inclination a cest exercice, elles s'en servent souvent pour arriver à leur desseins. [26]
+
+Baudier et Chalcondyle ajoutent à la matière historique de Moffan la source de la loi interdisant aux sultans de se marier. Ils précisent en effet que cette loi a été instaurée après la guerre qui coûta la vie à Bajazet Ier et à sa femme. Il s'agit pour les Turcs de ne pas renouveler *la honte et l'ignominie que Tamberlan avoit fait jadis souffrir à la femme de Bajazet I.*
+
+Depuis Moffan, les principaux protagonistes de la pièce de Desmares sont connus. Le public connaît Mustapha, fils de Soliman et d'une esclave [27]. Soliman a aussi des fils plus jeunes d'une autre concubine, que Moffan appelle Rose, qui est plus célèbre et qui nous est connue sous le nom de Roxelane. Elle a trois fils et une fille du sultan, cette dernière s'étant mariée à Rustan, qui deviendra grand vizir.
+
+
+### Sources littéraires 
+
+Les œuvres théâtrales qui choisissent comme matière littéraire le cycle de Solyman peuvent se classer selon la typologie établie par Clarence Dana Rouillard entre the *Soliman-Mustapha story, the Soliman-Ibrahim story, the S. oliman-Roxelane story* et *the Soliman-Bayezid-Selim story* [28].
+
+
+#### L'histoire de Soliman et de Mustapha
+
+Le meurtre de Mustapha ordonné par Soliman, sous l'influence de ses conseillers, a fort intéressé les dramaturges. Nicolas de Moffan en avait souligné la cruauté. Une fausse lettre du prince héritier au Shah d'Iran lui demandant son aide pour renverser Soliman aurait été interceptée. Mustapha rejoint le camp de Soliman pour s'en justifier. Sans armes, il entre sous la tente de son père pour lui baiser la main et est tué par les eunuques.
+
+Seulement quelques années après le meurtre de Mustapha, Gabriel Bounin écrit La Soltane (1661). Le même sujet est développé au XVII*e* siècle dans trois autres tragédies : *Solyman II* de Georges Thilloys (1608), *Le Grand et Dernier Solyman* de Jean Mairet (1635) et *Le Soliman* de Charles Vion Dalibray (1637).
+
+
+#### L'histoire de Soliman et d'Ibrahim
+
+Ibrahim est un esclave chrétien devenu le grand vizir de Soliman. Il s'attire la jalousie des autres seigneurs augmentée par la haine que nourrissent la mère de Soliman, et sa femme, Soliman, Roxelane. Cette dernière se sent trahie par Ibrahim, qui soutient l'héritier légitime, Mustapha, plutôt que son fils, Bajazet. Sur ordre de Soliman, Ibrahim est finalement égorgé pour déloyauté. Trois pièces sont inspirées par l'histoire de Bajazet : *La Rhodienne ou la Cruauté de Solyman* de Pierre Mainfray (1621), *Ibrahim*, Georges de Scudéry (1643), *Perside ou la suite d'Ibrahim Bassa*, Nicolas Marc Desfontaines (1644)
+
+
+#### L'histoire de Soliman et de Roxelane
+
+*Roxelane* est la seule pièce dans le cycle de Soliman à utiliser comme thème principal la montée de Roxelane au pouvoir.
+
+
+#### L'histoire de Soliman, de Bajazet et de Selim
+
+La rivalité fratricide entre Bajazet, fils préféré de Roxelane, et Selim, fils préféré de Soliman fonde le matériau de la dernière pièce du cycle de Soliman, celle de Jacquelin intitulée *Le Soliman* (1653).
+
+Cette brève typologie nous confirme la spécificité de la pièce de Desmares qui se distingue par son sujet. Ces pièces du cycle de Solyman ont pu d'abord inspirer à Desmares certains noms de personnages. Ainsi, Circasse est citée dans la pièce de Mairet sans apparaître sur scène. Le développement du rôle de Circasse est donc inédit. C'est la propre création de Desmares.
+
+L'autre nouveau rôle est détenu par Chamerie, dont le nom apparaît dans *Soliman II* de Thilloys mais qui est à tort présenté comme la femme de Mustapha, et qui elle non plus n'apparaît pas sur scène.
+
+Aussi la référence à Bajazet qu'on « força de terminer ses jours en une cage » (v.178, II, 2) est commune. Il en est fait mention dans *La Rhodienne* de Mainfray 
+
+Mais Tamerlan voulant de ses jours triompher  
+Luy fit finir ses jours en un cageot de fer ;  
+
+et sera reprise dans la tragédie de Magnon, *Le Grand Tamerlan et Bajazet*, publiée en 1648.
+
+Sur la construction du personnage de Roxelane, il apparaît que Desmares n'ait pas d'imitateur. Cela nous est apparu dans l'étude *d'Ibrahim ou l'Illustre bassa* de Madeleine de Scudéry, que Clarence Dana Rouillard identifie comme une source possible de l'œuvre de Desmares [29]. Rouillard écrit :
+
+
+We have met the story of Roxelane's clever ruse by which she forced Soliman to marry, her, both as told the historians and by the dramatist Desmares. His play, Roxelane (1643), may have been based upon the retelling of the tale by Melle de Scudéry, who probably took it from Chalcondyle or Baudier. As an introduction to the narrative, however, Madeleine de Scudéry relates the story of a sly and sheming pacha named Bajazet, whom she call Roxelane's father, thereby giving some hereditary explanation for Roxelane's unscrupulousness. [30]
+
+Ce dernier élément brièvement évoqué par Rouillard, autorise Rosa Pellegrini à écrire :
+
+
+Scudéry, pur senza guistificar nulla, si préoccupa intanto di umanizzare nel detaglio la figura della Sultana, giunta a corte giovane e ambiziosa, allevata da un padre a suo tempo esiliato e pertanto colmo di odio verso il Sultano [31].
+
+Desmares aurait donc pu avoir l'idée de créer une Roxelane « généreuse », qui endosserait la vengeance de son père dont elle se sentirait responsable. Mais il n'est pas fait mention de son père dans la pièce de Desmares ni du passé de Roxelane. L'événement le plus reculé qui est mentionné renvoie à l'époque où Circasse était Sultane.
+
+Desmares a pu néanmoins trouver dans le roman de Scudéry la base du portrait de Roxelane. Elle y démontre en effet des qualités de persuasion par la séduction et d'une profonde implication dans les affaires d'Etat.
+
+
+Enfin après une longue contestation, Roxelane persuada à Soliman, de prendre conseil du Muphti, qu'elle savoit être à elle, comme lui ayant fait donné cette charge, durant l'absence d'Ibrahim. Et quoique Soliman ne pensât pas que cet homme pût rien trouver qui le satisfît : il l'envoya toutesfois quérir. Lorqu'il fut venu, et que Roxelane en lui proposant la chose, lui eut adroitement fait connoître qu'elle souhaiteroit la mort d'Ibrahim, cet homme qui naturellement avoit de l'esprit, de la malice, et de la finesse, se trouva néanmoins assez empêché à répondre précisément à ce qu'on lui demandoit, et à contenter Roxelane. [32]
+
+Ce passage témoigne de la capacité de Roxelane à infléchir Soliman.
+
+
+## Enjeux littéraires
+
+La décennie 1630-1640 est l'âge d'or de la tragicomédie au point que le genre tragicomique éclipse les autres formes théâtrales. Hélène Baby établit un corpus dramatique composé de cinquante tragicomédies publiées pour la première fois entre 1628 et 1642. La tragicomédie des années 1630 se distingue fortement du genre tragique, comme l'illustrent les textes théoriques publiés en préface des pièces [33]. Quelques années plus tard, la querelle du Cid [34] et la renaissance réussie de la tragédie régulière conduisent les auteurs tragicomiques à se fondre dans la mode régulière. Cette imposante production tragicomique s'insère dans les débats théoriques des années Richelieu où les théoriciens raisonnent à partir de la tragicomédie, sans jamais pour autant la définir tant les frontières du genre sont mouvantes. L'évolution et la disparition du genre s'expliquent d'une part par les changements qui affectent les notions de tragique et de comique. D'autre part, la tragicomédie, qui se définissait par une *dispositio* irrégulière adopte insensiblement une forme plus régulière. Ces bouleversements théoriques atteignent leur apogée à la fin de l'année 1642, année où Mairet écrit sa dernière tragicomédie, *La Sidonie*, à laquelle il ajoute en 1643 l'adjectif héroïque. La même année, la publication de *Cinna* de Corneille, tragédie à fin heureuse, entérine le déclin du genre tragicomique.
+
+Aucun document critique contemporain daté de la période classique n'a été trouvé sur l'œuvre de Desmares, tout au plus les frères Parfaict nous laissent-t-ils ces quelques lignes : « Cette tragi-comédie, quoique foible, a des endroits assez bien rendus. Le rôle de Roxelane est beau, et soutenu [35]. » Et nous ne disposons que du métatexte, *tragicomédie*, comme indication formelle du dramaturge.
+
+La tragicomédie s'est construite au XVI*e* siècle en reprenant à la comédie non seulement son dénouement heureux mais nuptial. Elle en a donc repris le principe constitutif du mariage au dénouement. Mais comme le rappelle Georges Forestier, l'intrigue d'amour est la pierre de touche de la séparation entre les genres. Pour s'élever jusqu'à la tragédie, il faut que l'enjeu amoureux soit doublé par un enjeu, plus important, l'enjeu de péril, et que la passion amoureuse soit doublée ou remplacée par des passions plus graves. Dans la source historique de Chalcondyle et Baudier, la localisation au sérail contient tous les éléments d'une tragédie. En effet, ce lieu obéit à la loi du fratricide qui a pour fin l'élimination des héritiers au profit d'un seul. Le sérail est aussi un lieu de rivalité féminine, où prendre le pouvoir revient à assassiner en quelque sorte ses propres enfants puisque ce sont ceux du roi. Seul le survivant obtiendra légitimement la couronne. Le sérail favorise donc l'expression de la violence « dans les alliances », principe constitutif de la tragédie selon Aristote [36].
+
+La pièce de Desmares, comme toute entreprise fictionnelle, repose sur un enchaînement logique ou probable de causes et d'effets mais sa construction est entièrement fondée sur la cause finale, le mariage.
+
+Nous avons donc cherché à comprendre comment l'œuvre s'est faite en analysant le fonctionnement de la mise en drame de la source historique. Il s'avère, selon la terminologie de Georges Forestier, que la composition d'une pièce classique suit une *matrice tragique* structurée par trois caractères. *L'acte d'exposition* sert de fondement au développement de *l'action*, déduit à rebours du *dénouement* imposé par la source historique.
+
+Ainsi, en déterminant ce que Desmares a construit à partir de la source historique, nous avons pu identifier les enjeux esthétiques que l'auteur a souhaité exploiter. Nous conclurons que l'esthétique de l'œuvre correspond à une cohérence artistique globale. 
+
+
+# Analyse dramaturgique
+
+
+## L'acte d'exposition
+
+
+### La répartition des fonctions actancielles
+
+La description du type social des acteurs en liste liminaire est une source d'indications. Dans les tragicomédies, comme l'écrit Hélène Baby, « la description sociale des acteurs prend toute sa signification dans le rapport du type social à la fonction actorielle ». Soliman n'est présenté que par son nom mais nous savons qu'il est roi; il en possède donc l'ethos. Roxelane est « sultane ». Ce titre, réservé aux esclaves qui ont eu un fils du sultan, donne deux indications. Roxelane n'est pas souveraine, et elle forme un couple potentiel avec le Sultan. Circasse est aussi « sultane » ce qui lui donne un point commun avec Roxelane. Mais l'adjectif « autre », en dépréciant sa situation, souligne la rivalité des deux femmes. Le Mufti est présenté par sa charge de « Souverain Prestre de la Loy de Mahomet ». Il est l'interprète du Coran et ainsi « dit le droit » souverainement, sans autre interprétation possible. Acmat apparaît par sa fonction militaire de bassa mais n'existe que par la relation d'amitié qui le lie à Circasse. .
+
+Circasse remplit la fonction actorielle type du rival. Son procès consiste à attaquer de quelque manière que ce soit la « relation amoureuse » des héros. Son action vise à  « aimer sans réciprocité et à ruiner le couple. [37] » Elle veut tuer Roxelane dans l'espoir d'empêcher la mort de son fils. Elle livre son intention criminelle (v.72), envisage le complot (v.106-107), puis l'amorce (v.133-134). Les traits psychologiques que Desmares lui attribue correspondent à sa situation d'impuissance.
+
+Circasse, animée par la crainte, veut ruiner le couple Soliman-Roxelane, pour légitimer son fils Mustapha comme futur souverain. Elle est aidée par Acmat, et empêchée dans ses actions par Roxelane.
+
+Roxelane s'impose comme le héros de la pièce. Elle est le point de convergence de tous les intérêts, aussi bien ceux des spectateurs que ceux des autres personnages [38]. Elle semble sortir de l'ordinaire (v.99-100) et son potentiel d'action est souligné par son rattachement à la tradition littéraire de la femme forte (v.385-386). Roxelane remplit les fonctions actorielles de « non souveraineté » et d' « aimant ». N'ayant pas le statut qui lui permet de réaliser son dessein (v.161-162), c'est sur le principe de non souveraineté que se construit l'intrigue. La tragicomédie ayant pour fondement le couple amoureux, elle lutte pour préserver son amour. Les images d'amour entre Roxelane et Soliman sont certes inexistantes, mais la tragicomédie impose que l'union de Soliman et de Roxelane se réalise. Les traits psychologiques de Roxelane sont subordonnés à son objectif : devenir reine.
+
+Animée par la *libido dominandi* [39], Roxelane veut parvenir au pouvoir dans son propre intérêt et, *in fine*, pour celui de son fils. Elle est soutenue par le mufti mais la loi civile s'oppose à elle.
+
+L'héroïne et la rivale ont des confidents dont le procès, c'est-dire le processus d'action, est d'abord le conseil. Acmat et le Mufti remplissent respectivement cette fonction auprès de Circasse (v.146) et de Roxelane (v.198-199). Leur fonction canonique de conseiller se complète par leur fonction actancielle d'opposant et d'adjuvant. Acmat et le Mufti sont des confidents actifs par leur implication dans un pacte. Le pacte scellé entre Roxelane et le Mufti fait entré ce dernier dans la fonction actancielle de réalisation de l'amour (v.219-222). Le pacte conclu entre Circasse et Acmat, le premier chronologiquement, fait entrer Acmat dans la fonction actancielle d'opposant à la réalisation du couple (v.135-138). Cette répartition des rôles met à plat les causes du conflit. En affichant de façon aussi évidente au public des alliances définitives, Desmares crée l'intrigue.
+
+Soliman n'est pas présent dans l'acte d'exposition. En tant que sultan il est acquis qu'il dispose de la souveraineté politique. Le sérail est à la fois un lieu public (palais du gouvernement) et un lieu privé (lieu des passions du maître). La passion conditionne le pouvoir de Soliman. Soliman apparaît tout à la fois responsable du désespoir amoureux de Circasse et objet des manipulations de Roxelane. Le passage de l'héroïne du statut d'esclave au rang de sultane reine dépend de son pouvoir souverain.
+
+La confrontation des schémas actanciels met au jour le déséquilibre des forces dans le conflit. Roxelane n'agit que pour elle-même dans le but de parvenir au pouvoir par le mariage (v.193). Son obstacle est la loi religieuse, mais l'interprète de cette loi est son confident. Or le Mufti décide conjointement avec le Sultan de l'application de la loi. Cette configuration semble donc ne laisser aucune issue à Circasse d'autant qu'elle n'a pour soutien qu'un général d'armée placé sous l'autorité du Sultan.
+
+
+### La déconstruction de l'acte d'exposition
+
+Dans le respect de la norme classique, Desmares a concentré dans l'acte d'exposition l'ensemble des possibles. Le drame met en jeu un trio amoureux engagé dans une rivalité politique.
+
+Le dramaturge mime le genre tragique dans sa *dispositio*, en plongeant *in medias res* le spectateur dans l'action. La scène d'exposition s'ouvre sur l'exorde (v.1-10) de Circasse qui se présente elle-même comme *impuissante* (v.4). L'émotion tragique est accentuée au-delà dans la *narratio* (v.11-45) par des modulations sur le thème de la gloire perdue, qui nourrit plus loin le projet de vengeance :
+
+Qui sçait bien qu'il mourra regrette moins sa perte  
+Lorsque son ennemy comme luy l'a soufferte. (v.77-78)  
+
+Cette sentence aux accents cornéliens [40] confirme le registre tragique que souhaite installer Desmares dans cette première scène.
+
+Le mode d'expression canonique du dialogue entre une héroïne et son confident augmente le registre tragique dans l'évocation sentencieuse des sentiments de désespoir (v.29-30), de crainte (v.65-66), puis de révolte (v.77-78) des deux complices.
+
+L'irruption de l'héroïne éponyme dans la deuxième scène tourne en dérision le pathétique de la situation de Circasse. Roxelane surprend par un éclat de voix, et son *« non, non »* inaugural amorce une rupture de rythme, une rupture de ton. Le spectateur est plongé dans un dialogue dont la spontanéïté contraste avec la pesanteur de celui qui vient de s'achever. L'utilisation de la raillerie dans le dialogue entre la sultane et le mufti joue sur la conjonction d'une position sociale élevée et d'un vocabulaire familier. Les familiarités échangées rendent flous les rapports d'autorité entre la sultane et *le Souverain Prestre de la Loy de Mahomet* [41]. Roxelane entre en scène en contredisant le mufti (v.147-148) ! De façon familière, Roxelane qui *se connoi*(t) *fort bien* (v.149-150), évoque avec désinvolture sa situation (v.151-155). Le muphti semble lui opposer une condamnation :
+
+Le precipice est vostre et vous le merités  
+Comme le chastiment de vos temerités. v.155-156  
+
+L'échange se poursuit avec beaucoup d'ironie :
+
+Croyez-vous que ce peuple ardent et genereux,  
+Pour un seul Empereur en reconnoisse deux ? v.167-168  
+
+Le dialogue déplace le rapport d'autorité dans le cadre d'une relation familière que l'on conçoit aisément comme le prolongement d'une relation déjà existante.
+
+Le Muphti investit ensuite sa fonction d'interprète de la loi religieuse en rapportant à Roxelane le supplice infligé à Bajazet qui motive l'interdiction qu'ont les sultans de se marier (v.173-186). Bien que le récit historique de l'honneur bafoué de Bajazet n'emporte pas la compassion de Roxelane - qui réduit l'événement dramatique aux emportements d'un prince ridiculisé (v.187-190) -, la séquence engage le sérieux du sujet. Le conflit s'affirme comme étant de nature statutaire et la parole du Mufti sous-tend que la pièce se déroulera au profit d'une extraordinaire ascension. Si le projet de Roxelane se réalise, il s'agira d'un événement historique, sans précédent depuis plus d'un siècle.
+
+Le jeu ironique du chef religieux est une réponse morale à l'ambition de Roxelane. Même si elle entre en scène en se défendant de toute vanité (v.147-148), le traitement du pronom *je* et la réalisation du présent traduisent une ferme détermination (« c'est un point résolu qu'il faut que je finisse » v.153, « je sçay » v.171, « je voudrais » v.172, « je veux » v.192, « je veux » v.194).
+
+Son projet d'abolir la loi (v.192) est subordonné à la condition nécessaire et suffisante énoncée par le Muphti : « Vous ne le pouvez à moins que d'être reine » (v.193). Cette formule lapidaire contient toutes les virtualités tragiques de la pièce.
+
+En réponse, la formule résolue de Roxelane (« j'épouse Soliman, ou bien la sépulture » v.197) participe de l'unité de péril qui s'engage. Les mises en garde réitérées du Muphti (v.198-199, 202, 216, 220, 230) sur le danger qu'elle encourt visent à susciter la crainte du spectateur. Le péril est redoublé par la localisation de la pièce au sérail qui favorise la confusion des enjeux politiques et humains.
+
+La réalisation de la loi du fratricide qui plane sur les enfants de Roxelane, au profit de Mustapha, apporte aux spectateurs la justification de l'ambition de l'héroïne. Elle invoque « l'amour de (ses) enfants » (v.207, 214) comme motivation de son action.
+
+La réplique de Roxelane qui clôt cette scène reprend ces trois éléments : son projet est « juste » (v.231), sa confiance en elle est « infaillible » (v.233), et sa détermination « féroce » (v.236).
+
+L'intensité dramatique de l'acte d'exposition repose sur la rencontre entre les deux rivales qui s'opère en troisième scène. La tension dramatique est préparée parce que les deux femmes agissent à visage découvert pour le spectateur. Il est en effet déjà informé du plan de Circasse – déterminer s'il faut craindre Roxelane – ; et l'aparté de l'héroïne éponyme en début de scène est machiavélique.
+
+Roxelane manifeste sa supériorité dès la deuxième réplique. En déplaçant la discussion sur sa propre crainte, l'héroïne désarçonne sa rivale. Cette situation fait naître chez le spectateur un sentiment de pitié à l'endroit de Circasse. La tension tragique repose en effet sur le calcul de Roxelane qui profite de l'ignorance et des soupçons de sa rivale pour augmenter sa crainte. La violence tragique n'est pas dans l'action mais dans la confrontation verbale. Comme en témoigne le duel de sentences :
+
+Circasse   
+Qui se peut faire craindre en est mieux obey,  
+Roxelane   
+*Qui se veut faire craindre en est toujours hay.* vv.259-260  
+
+Tout en faisant l'économie d'une action vraiment violente, la mise en œuvre d'une rhétorique des passions – on relève dix réalisations du verbe *craindre* – suscite de fortes émotions chez le spectateur. Dans ce passage, Desmares émeut la pitié et la crainte par le discours, plus précisément au moyen de formes sentencieuses (vv.249, 257-258, 259, 260).
+
+Sur le ton de la discussion, Roxelane crée la confusion chez sa rivale dont les interrogations trahissent l'incompréhension et ne cessent d'accroître l'impuissance. Circasse échoue dans un aveu de faiblesse : « Brisons-là : ce discours d'inimitié me tuë. » (v.298). Roxelane joue en effet sur l'ignorance qu'a Circasse de son projet. Circasse redoute que Roxelane fasse tuer son fils mais elle ignore tout du projet de celle-ci pour accéder au trône. Ce traitement de l'ignorance et de la connaissance construit la tension tragique. La symétrie de la construction de cette scène, ouverte par l'aparté de Roxelane, close sur celui de Circasse, confirme cette tension.
+
+Le monologue de Roxelane peut être rapproché de l'intervention de Circasse dans la première scène. Roxelane se présente pour la première fois uniquement en tant que mère dont l'ambition de protection de ses enfants multiplie les images tragiques (v.358, v.363), jusqu'à aboutir à la formulation d'un dilemme psychologique. Roxelane est déchirée entre son statut de mère et sa « condition de génératrice du sang ottoman [42] », commun à ses enfants et à Mustapha, tous enfants de Soliman. Dans son projet, le pouvoir placera ses propres enfants hors de tout risque.
+
+L'acte se clôt sur l'image d'une femme forte qui entend littéralement réaliser un coup d'Etat, c'est-à-dire investir le pouvoir de façon brutale (v.387-388). Ce coup de force pourrait lui apporter la gloire. Cependant, l'objet de son action est double et peut lui permettre de demeurer innocente et susciter le pathétique à la fois : son mariage lui permettrait d'épargner Mustapha.
+
+La déconstruction de l'acte d'exposition met ainsi au jour toute l'ambigüité de l'héroïne. Sur ces bases l'action s'engage.
+
+
+### Le rôle de la fortune
+
+Au sérail, la fluctuation des désirs érotiques du Sultan est la règle.
+
+L'exorde de Circasse célèbre un mouvement de va et vient du bonheur (v.11 à 28) au malheur (v.31 à 56) qui prend pour point d'articulation une formule sentencieuse (v.29-30). Le malheur de Circasse est du aux changements d'un « Monarque amoureux » (v.31) qui a porté Roxelane progressivement en sa place. La métaphore du naufrage et du port (v.131-132) est une expression conventionnelle des aléas du sort. La fin d'une relation passée se poursuit par un revers de fortune. Roxelane est favorite et puisqu'elle a déjà un fils, Circasse subit la menace de la loi du fratricide. Tout se passe comme si le sort des protagonistes était scellé dans la continuation d'une situation déjà entamée et presque résolue. Desmares présente ici la résolution du drame selon le « rite de l'inauguration en forme de dénouement » [43]. Le temps d'une journée, Roxelane sera sacrée « Reine des Musulmans » et, « combien que les lois sembleront y contredire », Soliman ira jusqu'à désigner ses « enfants successeurs à l'empire. » en invoquant les lois divines. Dans la plupart des tragicomédies, le respect de ce rite est une façon de mettre en abyme la fortune en revendiquant symboliquement le rôle essentiel du hasard dans la progression de l'action.
+
+Pourtant, Roxelane ne craint pas les hasards du sort. Son apparition (I, 2) poursuit la métaphore du naufrage et du port qui place le déroulement de la pièce sous l'autorité de la fortune. Or, la fortune revêt un sens particulier dans l'œuvre de Desmares. La *fortuna* machiavélienne. Avant d'obtenir le consentement du Mufti, Roxelane affirme *tenir un chemin* (qui) *n'est pas la violence* (v.217). Cette expression se dit dans la langue classique « des voies (…), des moyens qu'on a pour parvenir à quelques fins » [44]. À la demande de protection divine du mufti, elle y oppose son mépris, convaincue que la fortune sourit aux audacieux :
+
+Et lors que vous sçaurés mes moyens infaillibles,  
+Vous ne jugères pas mes desseins impossibles, v.233-234  
+
+Cette notion de fortune, au sens machiavélien du terme, n'est en rien aléatoire mais organisée et pensée dans tous ses aspects. Elle dirige la composition de l'œuvre et explique la construction de l'action.
+
+
+## L'action
+
+Comme l'écrit Sylvie Requemora, la turquerie de Desmares est synonyme de « fourberie machiavélique orientale d'autant plus exotique qu'elle est le fait d'une femme. » [45]
+
+On devine aisément ce qui a pu intéresser Desmares dans cette histoire. Roxelane devient Sultane reine par la voie juridique. Elle parvient au pouvoir parce qu'elle se comporte en reine dès sa première apparition, non en concubine de statut inférieur amoureuse du Sultan. Par là, elle s'affirme comme une héroïne tragique. En effet, Roxelane est célèbre pour avoir été plus forte que « le Législateur », comme le surnomment les Turcs (*Kanuni*). La pièce de Desmares qui choisit d'exploiter le sujet de la conquête de Roxelane est une pièce judiciaire qui se plie aux impératifs de la législation ottomane.
+
+Enoncé du problème juridique :
+
+Les lois ottomanes empêchent les sultans de se marier.
+
+Le sultan jouit librement de ses prérogatives sur les sultanes.
+
+Le sultan dispose du droit de libérer les esclaves.
+
+La loi religieuse proscrit de partager la couche d'une femme libre.
+
+Le Sultan ne peut pas modifier la loi religieuse, la *sharia.*
+
+La loi coutumière empêche le Sultan d'exécuter un sujet sans motivations juridiques.
+
+Le *Kanuni* peut abroger une loi civile au profit de la religieuse à condition qu'elle soit d'intérêt public.
+
+La loi religieuse autorise le mariage entre une femme libre et le sultan.
+
+L'obstacle que Roxelane doit surmonter est prescrit par la loi civile qui refuse aux sultans le mariage.
+
+
+### La combinaison des obstacles
+
+L'organisation des obstacles mis en place dans *Roxelane* exploite un mode rare dans le genre tragi-comique. La combinaison de ces obstacles est inhérente à l'exploitation par Desmares « de circonstances transcendantes, tels un oracle, une loi civile ou un impératif religieux. » [46]. L'intrigue se construit dans le dépassement par Roxelane de l'obstacle fondamental de la loi civile (Les lois ottomanes empêchent les sultans de se marier.).
+
+En souhaitant l'érection d'un temple et d'une institution de charité Roxelane provoque l'obstacle de sa condition d'esclave (Un esclave ne dispose de liberté spirituelle). Elle obtient son affranchissement. Refusant la couche de Soliman elle réveille en lui « l'âme d'un barbare » (v.746). C'est alors sa condition de sujet libre qui est litigieuse (La loi religieuse proscrit de partager la couche d'une femme libre.). Par là elle met fin à sa relation avec le Sultan. Si Soliman la désire, il doit transgresser la loi civile. Cette transgression se heurte à plusieurs obstacles. D'abord un obstacle passionnel. Elle provoque la fureur du Sultan qui l'emprisonne et menace de la tuer. Là s'opère la rencontre entre passion amoureuse et nécessité. Ensuite un obstacle politique, l'affranchissement de cette loi jette le discrédit sur la personne du roi (v.1497). Le dépassement de l'obstacle final concrétise la stratégie de Roxelane et « révèle », a posteriori, l'entière combinaison des obstacles.
+
+Dans la pièce, la loi religieuse l'emporte sur la loi civile au profit de Roxelane. Elle oppose la législation séculaire, le *kanun*, à la loi religieuse, la *sharia*, obligeant une modification de la première. La résolution systématique de ces obstacles répond au même motif de logique. La fonction d'adjuvant du Mufti se réalise à deux moments essentiels, celui de la construction de la Mosquée et celui du refus de Roxelane ; dans les deux cas il est écouté par Soliman. En effet, le mufti est le représentant religieux du Sultan et c'est à ce titre qu'il fait preuve d'un pharisaïsme cocasse pour permettre à Roxelane d'accéder au pouvoir. Son hypocrisie religieuse est d'ailleurs cernée par le Sultan qui dit que « pour (Roxelane) il fait parler l'authorité des Lois » (v.1507). Ses « pompeux raisonnements », ses « magnifiques paroles » (v.1421) sont en fait le moyen de créer un environnement propice pour que le Sultan l'écoute, et de proposer *in extremis* le « moyen » du mariage (v.1459), remettant au Sultan le jugement final :
+
+En fin jugez, Seigneur, qui doit ceder des deux  
+De la Loy de la terre ou de celle des Cieux. v.1494-1495  
+
+Soulignons à nouveau, l'originalité du cas de Roxelane est donc qu'elle fait s'opposer la législation séculaire, le *kanun*, à la loi religieuse, la *sharia*, obligeant une modification de la première. La loi séculaire ne doit pas aller à l'encontre des prescriptions de la loi religieuse.
+
+Les obstacles et leur résolution, liés par une relation d'implication nécessaire, expliquent la régularité de la pièce. Dominée par le couple mécaniste Roxelane-Mufti, la construction par imbrication empêche la création d'un nœud. Cette forme particulière est la stricte conséquence de la construction à rebours à partir de la matrice tragique.
+
+
+### Les opposants passifs
+
+Contraint par cette progression, la passivité de l'opposition a une cohérence sur le plan dramaturgique. De la même façon que les obstacles cèdent insensiblement devant Roxelane, les opposants s'effacent devant la progression mécanique de l'héroïne.
+
+Le lieu du sérail est le lieu de la souveraineté du Sultan et de ses désirs. Le schéma actanciel de Roxelane révèle cette situation particulière où le roi est à la fois l'objet amoureux de la conquête et, en tant que sujet politique, une force d'opposition potentielle. Roxelane prévoit d'exploiter la passivité d'un roi en proie à ses passions. Dans sa première apparition (II, 1), Soliman revêt la figure typique du roi-juge. Nous est présenté un Sultan soucieux de ne pas privilégier le sérail au dépens de son peuple (v.507-508), surpris par l'audace d'un projet de mariage qui réduirait sa puissance (v.532-533), d'autant qu'il maitrise l'ambition de ses Sultanes (v.535-536). Mais ces éléments ne sont le fait que d'une pragmatique et ne se concrétisent pas dans un comportement politique. Ainsi, méprisant les mises en garde d'Acmat, le Sultan autorise la construction de la mosquée sans s'accorder de délai de réflexion. Et il ne se soucie guère de manquer de clairvoyance devant ses conseillers. Il donne publiquement une image de « roi aimant » qui se soumet aux désirs de celle qui l'aime.
+
+Mais puisque votre humeur à ce dézir vous porte,  
+Quoy qu'indigne de moy vous l'obtiendrez, n'importe. v.645-646  
+
+Les images d'amour de Soliman pour Roxelane sont nombreuses et se réalisent pleinement dans leur confrontation à la logique politique à deux moments : dans les stances de Soliman (IV, 1) et dans le seul échange privé qu'il a avec Roxelane (IV, 4). Soliman est confronté à un dilemme psychologique entre la clémence amoureuse et la rigueur politique, entre le pardon de Roxelane et une condamnation exemplaire ; et la primauté du cas de Roxelane sur les affaires politiques est sans cesse rappelée :
+
+Puisque chez moi mes passions  
+Me causent plus de mal, me donnent plus d'alarmes  
+Que la rebellion de mille nations v.1111-1113  
+
+Cette primauté est renouvelée dans l'échange avec Roxelane. Le contraste entre les deux discours est flagrant. Soliman profite de l'intimité de l'échange pour l'infléchir en faisant appel à la topique de la naissance de l'amour (v.1187-1190) et au désespoir amoureux dont il souffre (v.1194, 1215-1216, 1229-1230, 1241-1242) tandis que Roxelane invoque mécaniquement le respect de la loi religieuse (v.1202, 1206, 1210, 1217, 1244, 1252). Soliman n'y opposera que la topique galante de la belle insensible (v.1205, 1225).
+
+Le sultan n'est qu'un obstacle efficace à la progression de l'action. La construction de la mosquée a contraint Soliman à affranchir la Sultane. Et c'est selon le même schéma qu'il cèdera devant l'impossibilité de partager sa couche (ou de la tuer) en l'épousant. Soliman est un faux opposant et un éternel amoureux qui devant des situations qui lui semblent inextricables n'envisagera jamais l'abandon de Roxelane.
+
+Circasse et Acmat, opposants traditionnels témoignent de la même passivité.
+
+Acmat, qui a pour mission d'agir auprès de Soliman, est empêché dans son action par son type social. En présence du Sultan, ce dernier le rappelle à l'ordre (v.409-410), puis le ridiculise dans sa fonction de général (v.571-572). Cette manœuvre contraint Acmat à formuler dès le deuxième acte sa totale soumission au Sultan (v.576) qui se concrétise dès la scène suivante (II, 3) dans laquelle il est le spectateur muet de l'affranchissement de sa rivale.
+
+Circasse se manifeste aussi par son silence. La scène finale mise à part, une seule scène met en présence Circasse, Roxelane et Soliman (IV, 3). Roxelane y poursuit son jeu mélancolique devant Soliman sans que Circasse ne fasse d'objections. La présence de Circasse n'est en réalité qu'un prétexte scénique. Elle est destinée à être renvoyée dans la scène suivante pour permettre un échange isolé en Soliman et Roxelane.
+
+Nous constatons que les rares fois où Circasse et Acmat investissent leur rôle d'opposants correspondent aux situations, elles aussi rares, où Soliman se présente comme souverain. Malgré leurs efforts pour jeter le discrédit sur Roxelane, ils ne représenteront jamais une menace sérieuse. La gratuité de l'existence du couple Circasse-Acmat est même justifiée dans la scène finale. Ils n'y apparaissent que pour y décider leur mort (v.1585-1591) sous une forme proche de l'aparté qui donne l'impression qu'ils ne partagent pas le même espace scénique que les autres personnages.
+
+
+### La suspension de l'action
+
+Pour assurer un enchaînement d'actions combinées jusqu'au mariage de l'héroïne, on repère facilement les épisodes inventés par Desmares pour construire son intrigue. Ces épisodes, inclus dans l'action principale, sont des extrapolations de l'événement historique.
+
+Les stances (III, 4, IV, 1) sont le double lieu des délibérations humaines et politiques. Elles révèlent les virtualités tragiques induites par la localisation au sérail. Roxelane décide de poursuivre sa stratégie au moment où le péril est le plus grand (vv. 861-864), elle est prête à « mour(ir) pour (ses) enfants ». Soliman est partagé entre la vengeance pour l'exemple politique et la clémence amoureuse. « Misérable », « déplorable », et « méprisé », Soliman semble accepter la douleur de l'exclusion amoureuse (vv.1015-1016). Ce monologue aux accents élégiaques prépare le revirement final.
+
+Ces suspensions ont donc une cohérence sur le plan dramaturgique. Les épisodes soulignent la progression dramaturgique de manière cohérente, car ils doivent être toujours vraisemblables pour être croyable. Le dialogue du deuxième acte (II, 3) entre le mufti et Roxelane s'organise par souci de vraisemblance autour du thème de l'action entamée qu'il faut terminer (vv.695-696). On observe ce même souci de vraisemblance temporelle dans l'échange entre Circasse et Acmat (III, 2) qui réagissent à la construction de la mosquée. Enfin, les prières de Chamerie et de Rustan (III, 5) soulignent moins le pathétique de la condamnation que la détermination de l'héroïne.
+
+
+## L'achèvement de l'action. La scène finale.
+
+Le « revirement » de Soliman achève l'action. Ce revirement pourrait apparaître contingent dans la mesure où, en sa qualité de souverain, le roi peut changer d'avis à tout moment. Mais l'étude de la pièce a révélé la subordination de ce revirement à la stratégie de Roxelane. Le hasard est en effet absent du dénouement d'une pièce entièrement construite sur la nécessité. Le dénouement est complet. Le sort de tous les personnages est fixé et le problème posé par la pièce trouve une solution. Soliman et Roxelane se marient selon des conditions précises (v.1603-1607), Circasse et Acmat vont « mourir ensemble » (v.1589), et le Mufti fait le serment d'être soumis (v.1608-1609) à Roxelane. Le dénouement est enfin rapide sans que cette rapidité ne vienne contredire le critère de complétude. La prise de paroles des personnages est réduite au minimum mais trouve sa vraisemblance dans le protocole du sacre. Le dénouement heureux de la tragicomédie est réalisé. Même la mort tragique de Circasse est modifiée dans un sens heureux par Acmat : « Allons et faisons voir par un coup genereux/Que qui sçait bien mourir n'est jamais mal-heureux. » (v.1590-1591). Généreux signifie courageux mais aussi noble et cette expression est une allusion explicite à la tragicomédie qui doit bien se terminer.
+
+
+# Esthétique de la vertu
+
+*Roxelane* est une proposition artistique. La mise en œuvre de l'Histoire est une transposition esthétique qui se veut à la fois conforme et supérieure sur le plan artistique à l'original. L'analyse dramaturgique a démontré la cohérence d'une action déduite de sources historiques. Cette cohérence apparaît comme un principe directeur de la composition de l'œuvre, tant dans le déroulement de l'action que dans les choix esthétiques de l'auteur.
+
+Si la fiction ne fait qu'exploiter une virtualité dramatique incluse dans la source, elle a pour but de créer l'illusion d'une action véritable.
+
+D'une part, la pièce met en scène les grands et les puissants. Le lieu du sérail n'abritant que le sultan et son entourage, à l'exception des pages et des janissaires, les acteurs sont des représentants de la noblesse turque : un Sultan, deux “ Sultanes ”, un dignitaire religieux, trois bassas – c'est-à-dire des chefs de l'armée turque – et une princesse. L'absence d'intervention de personnages extérieurs au palais renforce cet isolement recréant un *inland* [47] aristocratique. Comme l'écrit Georges Forestier, « c'est parce que les Princesses n'épousent jamais les aventuriers que des dramaturges ont eu l'idée de forger des intrigues dans lesquelles l'action reposerait sur un amour impossible entre deux personnages qui seraient, en apparence, d'inégale condition. [48] » En l'occurrence, le dénouement nuptial imposé par la source historique sert à l'exploitation du potentiel esthétique du sérail, dans lequel les passions du Roi sont codifiées. Le code politique de l'œuvre est un code dramaturgique. L'exploitation des types sociaux des personnages ne correspond pas à une revendication politique mais est engagée par un souci primordial de cohérence artistique.
+
+D'autre part, la pièce met en scène l'ascension extraordinaire de l'esclave qui devint reine. La proximité des liens entre politique et passion explique l'intérêt manifeste que suscite l'histoire de Roxelane. La ruthénienne transgresse la loi civile, s'oppose au pouvoir du Sultan, mais s'assure du soutien de l'autorité religieuse. Hormis l'exploit politique, ce sont les interrogations sur la vertu du personnage féminin qui emportent l'intérêt du spectateur. Le Sérail est un *inland* dont la fonction est de contenir l'information. Ce sont les fantasmes attachés au comportement de Roxelane qui font l'intérêt de la pièce. Il nous apparaît que dans le but de créer l'illusion d'une action véritable, Desmares a constitué de façon cohérente l'ambigüité du personnage par un travail esthétique sur la vertu.
+
+
+## Le roi
+
+Le roi est la figure souveraine de la pièce. Sa fonction guerrière est rappelée par des images violentes de domination des peuples soumis à la force du « cimeterre » (v.1366). Cette exploitation de la force guerrière passe par le rappel de grands faits militaires (v.391, v.1506). Il incarne régulièrement la fonction de roi juge (v.1091, 1094) et porte un souci particulier aux lois anciennes dont il se porte légataire (v.544-545). Ces autoreprésentations ne font jamais l'objet d'une politique mais d'une pragmatique. Comme l'a souligné l'analyse dramaturgique, ces attitudes ne sont que des postures, et s'il endosse *l'ethos* du roi, il succombe toujours aux désirs de Roxelane (v.404, v.631-632, v.1036-1037, v.1145), multipliant les images d'un amour passionné (v.1531, v.1533, v.1429, v.1430, v.1425, v.1194). Toutes les tragicomédies s'accordent à exploiter la faiblesse, la naïveté, en somme l'humanité des rois. À l'instar d'un roi typiquement tragicomique, Soliman est amoureux parce qu'il est humain et faible. Cette convention prive le roi de la responsabilité politique de ses actes au point qu'il permet l'insubordination politique (II, 1) et subit le machiavélisme de ses conseillers (v.405-408). Cependant le conflit entre Roxelane et Soliman sert la matière tragique. Ce roi demeure puissant et la question de sa légitimité fonde le drame.
+
+Le comportement de Soliman n'outre pas la vraisemblance puisque l'univers passionnel du sérail le permet. Sa méconnaissance manifeste des lois, notamment religieuses (v.659), la précipitation de ses décisions et de ses revirements apparaissent en effet justifiées par la passion qui brouille sa raison. Comme il le confesse dans les stances (IV, 1), sa passion lui a causé “ plus d'alarmes que la rébellion de mille nations ” (v.1012-1013). Si Soliman n'endosse pas l'image barbare et cruelle que le XVIIème siècle a constituée en mythe c'est aussi parce que l'action se déroule dans la phase de son règne où il connaît la paix aux frontières, la paix sur le plan intérieur, et que nul ne conteste sa souveraineté. Ce qui pourrait être envisagé comme un emportement tyrannique n'en est pas. La condamnation d'emprisonnement qu'il prononce à l'encontre de Roxelane, si spectaculaire soit-elle, est moins le fait d'un tyran que d'un roi animé par la *furor amandi*. L'exploitation du motif de la tête coupée (v.757) et le tableau de Roxelane jetée dans l'enfer de la prison (v.1279-1292) ne doivent être interprétés que comme l'expression du ressentiment amoureux du Sultan. L'humanité de Soliman est suggérée en liste liminaire dans laquelle il n'est pas présenté sous sa fonction sociale mais seulement sous son nom. Les stances de Soliman (IV, 1) illustrent les traits conventionnels sur la condition pitoyable de la vie des rois. Dans ce moment de délibération amoureuse, il apparaît plus à plaindre que ses sujets, car sa condition noble le transporte d'un extrême à l'autre de la fortune.
+
+
+## Roxelane
+
+La convention littéraire de la tragicomédie présente le héros tragicomique comme le jouet du hasard et du sort, de la fortune. L'incertitude dans laquelle il agit est le miroir de l'incertitude du spectateur, qui attend lui-même de savoir quel sera le dernier revers de fortune. En portant à la scène un personnage qui agit selon la fortune machiavélienne, Desmares rompt avec cette convention. L'ascension totale de Roxelane qui passe du statut d'esclave au rang de sultane reine est un extraordinaire destin, type même du renversement de fortune dont Aristote considérait dans sa *Poétique* qu'il constitue le sujet fondamental de la tragédie. Cependant, ce renversement de la fortune est contingent à la vertu de l'héroïne.
+
+La déconstruction de l'acte d'exposition traduit l'ambigüité de Roxelane qui nous apparaît sous des traits radicalement différents. Au début de l'intrigue, elle apparaît comme renversant les lois du sérail, outrageant toute modestie, et ne connaissant pas la constance de l'amour (v.254). Mais la suite de l'intrigue montre sa constance et sa détermination (v.1211), même dans les périls les plus extrêmes (v.1080). Ce caractère à la fois audacieux et résistant, comme lorsqu'elle refuse de céder à la passion de Soliman malgré la menace qui pèse sur elle, est emblématique de la « Femme de courage » [49] que Pierre Le Moyne dépeint dans ses *Odes* :
+
+Telle est la Femme de courage :  
+La foule affreuse des malheurs.  
+Ne peut déconcerter ses mœurs ;  
+Ne peut altérer son visage.  
+Dans les temps les plus turbulents,  
+Sous les vents les plus violents,  
+A l'orage, au tumulte, elle fait résistance.  
+Et sous les traits pressants du mal qui la poursuit.  
+Semble un Soleil d'hiver, que son Intelligence,  
+A la pluie, à la grêle également conduit. [50]  
+
+La sensualité de Roxelane pourrait contrevenir à l'image de la femme forte ou de la femme de courage. Mais, bien que la Sultane manipule l'amour pour arriver à ses fins, elle ne peut être reliée à la lignée des femmes dépravées que la littérature morale du XVII*e* citait en contre exemple : Roxelane ne parjure jamais sa condition comme femme de qualité. Ainsi, lorsque qu'elle invoque la loi religieuse pour refuser la couche de Soliman, c'est dans le dessein de se marier avec lui et d'assurer sa descendance. Sa seule faiblesse est de rester fidèle à son amour tout en y renonçant. La pièce de Desmares présente Roxelane comme une femme attentive à protéger la vie de sa progéniture, qui réussit à employer son intelligence pour se préserver des tumultes du monde oriental. Ce comportement à la fois machiavélique, féroce, mais moralement justifié, est de nature à susciter la crainte et la pitié. Il synthétise toute l'ambiguïté du personnage, que le dramaturge a choisi de créer à partir de l'Histoire.
+
+
+## Les objets du discours : le coran et la couronne
+
+Au plan de la représentation, l'esthétique de la vertu est offerte par la médiation symbolique des objets que sont le coran et la couronne.
+
+Bien que ce ne soit pas mentionné dans la pièce, nous formulons l'hypothèse que le Mufti soit représenté tenant le Coran en la main. La liste liminaire présente le mufti comme le « Souverain Prestre de la Loy de Mahomet ». Dès sa première apparition en scène (I, 3), Roxelane l'appelle « père » sur le mode religieux. Au plan des costumes, on se représente le vêtement du Mufti différent peu de celui du Sultan : un habit richement décoré, et un turban. Pour le spectateur du XVII*e* siècle, la propriété de l'objet – coran identifie le personnage de « Souverain Prestre de la Loy de Mahomet ». Sur six apparitions, le Mufti incarne quatre fois l'autorité temporelle dans des assemblées politiques. La loi religieuse est toujours invoquée mais jamais littéralement (v.1441-1444). Par sa propriété l'objet assure au Mufti l'autorité religieuse.
+
+La couronne est « une marque de dignité, ornement que les Rois et les Souverains mettent sur leur teste pour marque de leur pouvoir absolu, et sur tout dans les grandes cérémonies » [51]. C'est dans le discours de Soliman que le syntagme « couronne » est le plus représenté (six occurrences sur neuf). La mention de la couronne est systématiquement associée par le Sultan à d'autres attributs de pouvoir : aux « superbes Palais » (v.390), au « trosne » (v.1000) et au « sceptre » (v.1881). Le souverain est le dépositaire d'un système de valeurs où priment l'exercice du pouvoir et les biens terrestres. Le roi possède l'éthos, puisqu'il porte la couronne.
+
+Les apparences de Roxelane révèlent une dynamique entre deux systèmes de valeurs différents. Tantôt elle se présente comme une femme pieuse, préoccupée par sa vertu, tantôt comme une femme habile dont on ne peut véritablement connaitre les desseins. La pièce développe tout à la fois le discours de la toute puissance des biens terrestres, et de leur dévaluation au profit de la vérité révélée. L'appétit de pouvoir de Roxelane s'affirme pour le spectateur. Lorsque l'action s'engage, le Mufti met en cause la vanité de son ambition politique (« Le pouvoir absolu que l'Empereur vous donne Est indigne de vous sans avoir la couronne ? » v.161-162), une ambition qui méprise autant la terre que le ciel (« Malgré toutes les lois j'obtiendray la couronne. » v.226). La proximité de la réussite anime son envie de pouvoir (v.696).
+
+Pourtant, la stratégie dépend de sa conversion à la loi ottomane. Elle a proposé l'érection d'une Mosquée sans laquelle elle n'aurait pu obtenir sa liberté. Elle dit avoir retiré de son nouveau statut « les lois et la science de la Religion, et de la conscience » (v.1145-1146) dont « l'autorité » (v.1151) l'a contrainte à refuser la couche de Soliman. Les deux autres apparitions du Mufti se font dans des entrevues privées avec Roxelane (I, 2 ; II, 3) au cours desquelles ils ne portent jamais à la scène une stratégie. Or, la parfaite coordination de leur action signale au spectateur que sa mise au point se fait hors scène. Ces indices sont autant de signes de leur connivence.
+
+Le mufti est le *médium* de la parole du Coran. À la fois objet et sujet, la matérialité du Livre véhicule un discours propre par sa valeur symbolique Par un système de signes disséminés dans la pièce, les discours du Coran et de la couronne construisent l'argumentation du poème composé.
+
+Soliman le Législateur confirme la victoire de Dieu sur le temporel. « Cedez humaines Loy cedés à la Divine. Cedez raisons d'etat aux volontés des Cieux. » (v.1529-1530). La conversion de Roxelane est doublée sur le plan du symbole par le sublime de la grâce religieuse qui possède en elle-même une valeur dramaturgique : elle rend vraisemblable le retournement, et ainsi légitime le déroulement de l'action. Roxelane acquiert finalement l'objet convoité par la voix de Soliman : « Montez, vous dis-je, et prenez la couronne » (v.1601).
+
+
+# Note sur la présente édition
+
+
+## Description du volume
+
+1 vol. in-4°, 102 p. (Erreur de pagination sans manque. Saut de la page 56 à la page 59).
+
+I : page de titre.
+
+II : verso blanc.
+
+III-IV : épître dédicatoire.
+
+IV-V : privilège du roi.
+
+VI : liste des personnages.
+
+7-102 : texte de la pièce.
+
+*Roxelane* de Joseph Desmares est publiée en 1643, il existe une seule édition. Nous avons eu accès aux exemplaires de la Bibliothèque National de France des sites Tolbiac, Arsenal, et Richelieu ainsi qu'à celui de la Bibliothèque de l'université de la Sorbonne. Ces exemplaires sont rigoureusement identiques.
+
+Tolbiac : YF- 615, RES- YF- 359 (3)
+
+Arsenal : 4- BL- 3694, 4- BL- 3695, GD- 44017
+
+Richelieu : 8- RF- 6016, 8- RF- 6017
+
+Sorbonne : RRA 8= 435  
+
+
+## Description de la page de titre
+
+ROXELANE / *TRAGI-COMEDIE*. / armoiries du Royaume de France : une épée nue sur deux sceptres en sautoir surmontés des armes de France et de Navarre ; une palme et une branche d'olivier ; la devise d'Henri IV DUO PROTEGIT UNUS signifie littéralement *un seul en défend deux* c'est –à-dire *un même glaive défend les deux royaumes* ; au-dessus le blason de France, d'azur à trois fleurs de lys d'or et le blason de Navarre, de gueules, aux chaines d'or en croix en sautoir et en orle allumées au cœur de sinople ; les *L* sont une référence à Louis XIII qui meurt en 1643 / A PARIS, / Chez / accolade ouvrante *Antoine de Sommaville*, à l'Escu de France, dans la Salle des Merciers. *ET Augustin Courbe*, Lib. Et Impr. De Mons. Frere du Roy, à la Palme, en la mesme Salle. accolade fermante au Palais. / Desmares (manuscritement) / filet / M.DC.XLIII / *AVEC PRIVILEGE DU ROY*.
+
+
+## Liste des coquilles corrigées
+
+v.26 : « allors »
+
+v.37 : « S i »
+
+v.43 : « allors »
+
+v.82 : « qu'el' »
+
+v.87 : « couroux »
+
+v.102 : « de∫∫endre »
+
+v.209 : « le crimes »
+
+v.238 : « rétre »
+
+v.273 : « aage »
+
+v.282 : « creu »
+
+v.380 : « Quy vives »
+
+v.389 : « surperbes »
+
+v.423 : « Amat »
+
+v.468 : « un »
+
+v.469 : « tirannie »
+
+v.510 : « étaindre »
+
+v.550 : « sentant »
+
+v.585 : « Ell' »
+
+v.613 : « crée »
+
+v.659 : « contester »
+
+v.745 : « separe »
+
+v.747 : « ny »
+
+v.795 : « valleur »
+
+v.835 : « Alons »
+
+v.1056 : « vaincoeur »
+
+v. 1127 : « détrui »
+
+v.1322 : « quicourt »
+
+v.1329 : « ACMAT. ROXELANE. »
+
+v.1441 : « deppendance »
+
+v. 1454 : « d'abbord »
+
+v.1469 : « rebuttée »
+
+v.1486 : « publiq »
+
+v.1583 : « Mussulmans »
+
+
+## Typographie
+
+Le texte que nous allons présenter suit fidèlement l'édition originale de 1643, dont nous reproduisons la pagination entre crochets à la droite du texte.
+
+Nous avons conservé la graphie de l'édition originale en rétablissant pour une meilleure lisibilité la distinction entre *i* et *j* et entre *u* et *v*, en transformant le ∫ en s, en résolvant la tilde (vv.464, 466) et en simplifiant la ligature « & » en « et ».
+
+Nous avons aussi rétabli les accents diacritiques :
+ * – *a* en *à* : vv.53, 819, 911, 1017, 1092, 1095, 1533
+ * – *à* en *a* : vv.257, 913
+ * – *ou* en *où* : vv.766, 866, 1528
+ * – *où* en *ou* : liste liminaire (*ou* Souverain Prestre de la Loy de Mahomet), vv.592, v.712, 715, 718 (2 occ.), 834, 841 (2 occ.), 834, 880, 891, 901, 1266, 1306, 1307, 1308
+
+Établir une édition critique conduit à s'interroger sur la conservation de la ponctuation originale. Une habitude ancienne consistait plutôt à moderniser la ponctuation jugée trop erratique pour être conservée [52]. Pourtant, et ceci spécifiquement dans les pièces de théâtre, ce qui peut être envisagé comme des bizarreries typographiques sont en réalité la signalétique des intonations de la voix du comédien. Il faut ainsi garder en mémoire qu'au XVII*e* siècle, si le point indiquait peu ou prou la fin d'une phrase, les signes de ponctuation n'étaient pas le signe d'une rupture grammaticale mais marquaient une pause plus ou moins longue dans la déclamation du texte. Aussi les points d'interrogation et d'exclamation sont révélateurs d'une déclamation spécifique à valeur proprement musicale. Ainsi, même lorsque la phrase qu'il conclut n'est pas *stricto sensu* interrogative, le point d'interrogation indique que la voix du comédien doit monter.
+
+Nous avons était contraint d'harmoniser la ponctuation, le compositeur ayant semble-t-il fait des erreurs au détriment de l'intelligibilité du texte.
+
+Le texte original se caractérisait souvent par une absence de ponctuation. Nous avons donc ajouté :
+ * – des virgules à la fin du vers (vv. 69, 157, 158, 204, 245, 248, 280, 589, 605, 618, 633, 641, 648, 660, 661, 679, 728, 750, 751, 760, 762, 794, 796, 806, 815, 816, 832, 944, 957, 958, 961, 966, 967, 989, 1008, 1022, 1023, 1024, 1031, 1032, 1033, 1037, 1039, 1075, 1081, 1082, 1083, 1088, 1101, 1102, 1107, 1118, 1135, 1136, 1144, 1152, 1160, 1161, 1163, 1165, 1218, 1219, 1231, 1239, 1243, 1244, 1245, 1248, 1249, 1280, 1290, 1299, 1310, 1323, 1330, 1337, 1338, 1366, 1385, 1392, 1395, 1401, 1404, 1407, 1409, 1418, 1425, 1426, 1448, 1469, 1503, 1508, 1513, 1515, 1525, 1526, 1527, 1528, 1536, 1537, 1540, 1541, 1545, 1546, 1548, 1549, 1557, 1558, 1561, 1570, 1572, 1577, 1588, 1594, 1596, 1601, 1602) ou au milieu du vers (vv.24, v.589, 648, 679, 747, 843, 972, 1063, 1215, 1335, 1336) ;
+ * – des points (vv. 242, 420, 646, 727, 732, 1013, 964, 1061, 1090, 1200, 1236, 1340, 1354, 1424, 1428, 1420, 1455, 1461, 1477, 1499, 1539, 1547, 1559) ;
+ * – des points d'interrogation (vv.166, 1004, 1021, 1156, 1433, 1475, 1519) ;
+ * – des points virgules (v.1402) ;
+ * – et des points de suspension (v.1502).
+
+Nous avons également supprimé des points dont l'emplacement n'était pas justifié aux vers 109, 715, 1050, 1060, 1220 et un point d'interrogation au v.1254.
+
+Nous avons enfin transformé certains signes de ponctuation. A plusieurs reprises, le point a été transformé en point d'interrogation (vv. 936, 1158, 1212, 1242, 1256, 1308, 1473, 1483, 1527) ou en virgule (vv.430, 1114, 1282, 1368, 1604). Nous recensons un cas où le point d'interrogation a été transformé en point d'exclamation (v.834) et le point virgule en point d'interrogation (v.374).
+
+
+## Tournures systématiques
+
+L'adjectif interrogatif *quelle* apparaît dans le texte original sous la forme « qu'elle » (vv. 899, 942, 1049, 1088) que nous avons rétablie.
+
+Nous observons également la concurrence entre les désinence *és* et *ez* à la deuxième personne du présent des verbes que nous avons conservée. Nous avons du néanmoins rétablir l'accentuation sur les formes en *és* aux vers 84, 329, et 721.
+
+
+# ROXELANE TRAGI-COMEDIE.
+
+
+## A Mademoiselle de Soucarrière [53].
+
+Mademoiselle,
+
+Tant de belles qualitez que vous possedez devoient deffendre à Roxelane qui conoist ses déffaux, de se presenter devant vous, si vos bontez aussi connuës que vos autres vertus ne luy en eussent donné la hardiesse. Mais quand elle a sçeu que vous estiez la protection de ceux qui en ont besoin ; et particulièrement des Muses qui vous en doivent leurs reconnaissances, elle a mieux aymé pecher contre la discretion en se mettant en hazard [54] de vous déplaire, que contre son devoir en ne vous rendant pas les hommages qui sont deus à vos perfections. Si son choix est un effait [55] de la témérité, il peut être aussi une marque de son jugement, puis qu'estant resoluë de voir la France elle a creu avoir treuvé un Dieu tutelaire en vous : Vous, dis-je, *Mademoiselle*, que toutes les personnes raisonnables reverent, et en faveur de laquelle ils pardonneront aux mauvaises choses qu'ils y trouveront, et donneront des applaudissements aux mediocres. Quoy que l'ordinaire presomption de ses pareilles soit de pretendre à l'immortalité et de la faire esperer à ceux qu'elles honorent, elle a des sentiments assez modestes d'elle mesme pour y renoncer, si votre nom pour lequel le temps aura du respect ne prolonge sa durée. Ainsi, *Mademoiselle*, bien loin de vous promettre cet avantage, elle l'attend de vous, et au lieu de croire contribuer quelque chose à vostre renommée par les loüanges qu'elle vous pourroit donner, elle espere augmenter la sienne par les devoirs qu'elle rend à vostre merite. En effait, comme on ne peut rien adjouster aux choses achevées, la Nature ayant fait voir en vous une union parfaite de tout les avantages du cors et de l'ame : Il n'est point de plume si eloquente qui bien loin de rehausser vostre gloire n'en diminuast l'éclat par son impuissance. Ceste beauté merveilleuse, cet esprit incomparable, et ceste grandeur de courage exemplaire et pourtant sans exemple ont cela de choses divines qu'on ne peut mieux exprimer l'estime qu'on en fait que par un respectueux silence. C'est pourquoi, *Mademoiselle* , puisque le respect que je vous doy l'ordonne, je me tairay apres la protestation publique que je fais d'estre toute ma vie.
+
+Mademoiselle,
+
+Vostre tres-humble, et tres obeïssant
+
+serviteur, *Desmares*
+
+
+## Extraict du Privilege du Roy [56].
+
+Par grace et Privilege du Roy donné à Paris le 16. de Mars 1643. signé par le Roy en son Conseil, *Godefroy*, il est permis à *Antoine de Sommaville* Marchand Libraire à Paris, d'imprimer un Livre intitulé, *Theatre de Roxelane Tragi-Comedie*, durant le temps de cinq ans. Et deffences sont faites à toutes personnes de quelque qualité ou condition qu'elles soient, de l'imprimer, ou faire imprimer, à peine de quinze cens livres d'amende, ainsi qu'il est porté plus au long par ledit Privilege.
+
+Achevé d'imprimer pour la premiere fois, le seiziesme de
+
+Mars mil six cents quarante-trois.
+
+Ledit Sommaville a associé audit Privilege Augustin Courbé, Marchand Libraire à Paris, suivant l'accord fait entr'eux.
+
+Les Exemplaires ont esté fournis.
+
+
+## ACTEURS.
+ – SOLIMAN [57].
+ – ROXELANE [58],SULTANE [59].
+ – CIRCASSE,autre SULTANE.
+ – LE MUFTI [60],ou Souverain Prestre de la Loy de Mahomet.
+ – ACMAT BASSA [61]amy de Circasse.
+ – RUSTAN BASSA,gendre de Soliman et de Roxelane.
+ – CHAMERIE,fille de Soliman et de Roxelane.
+ – ORMIN,Colonel de Janissaires [62].
+ – OSMAN,autre BASSA.
+ – Deux Pages.
+ – Deux Janissaires.
+La Scene est au Serrail [63].
+ < ROXELANE.                     >< TRAGI-COMEDIE. >
+
+
+## ACTE PREMIER.
+
+
+### SCENE PREMIERE.
+CIRCASSE, ACMAT.
+
+
+    CIRCASSE.
+Vous, de qui [64] l'amitié⁎ ne suit point l'esperance, [65]  
+Vous à qui la vertu tient lieu de recompense,  
+Et dont l'affection⁎ [66] foule aux pieds l'interest  
+Puis qu'elle suit Circasse impuissante qu'elle est.  
+Trouvez bon que ma voix décharge ma pensée  
+Du triste souvenir de ma gloire passée,  
+Et si vous ne pouvés combattre mes mal-heurs  
+Aidés moy pour le moins à plaindre mes douleurs.                   
+Puis que par l'entretien d'un amy veritable  
+Le bien devient plus grand le mal plus supportable  
+Vous sçavez, cher Acmat, vous sçavez qu'en ce jour  
+Qui me fist posseder mon Prince et son amour,  
+On me creut bien-heureuse, et cet amour naissante  
+Rendit en peu de tems ma fortune⁎ éclatante,  
+Ma Cour fut bien-tost grosse, et je me vy soûmis      
+Tous ceux que la faveur rend d'ordinaire amis.  
+Je creu devoir attendre en ce degré supréme  
+D'un tel commencement une suite de méme,  
+Et principalement lors que mon fils [67] fut né  
+Que l'Empire regarde en qualité d'aîné,  
+Avec quelque raison je creu que sa naissance  
+Auprés du Roy son pere asseurant ma puissance,  
+Je m'en pouvois promettre un eternel amour,  
+Je ne le creu pas seule, on le creut à la Cour.  
+En effet si devant je me vis honoree,  
+Je le puis dire, alors je me vis adorée,  
+Et de tous les mortels le plus ambitieux  
+Me rendoit des honneurs⁎ qui ne sont deus qu'aux Dieux.  
+Mais comme le pouvoir que nous tenons d'un autre  
+Avec juste raison ne se peut dire nostre,  
+J'appris du changement d'un Monarque amoureux  
+Que quiconque peut choir ne se peut dire heureux.  
+J'appris par le succés de ma fortune⁎ éteinte  
+Qu'on peut aimer les Roys, mais toûjours avec crainte ;  
+Que comme le Soleil de mesme leur amour  
+En quelque lieu qu'il aille y fait suivre le jour.                      
+Si tost que Soliman m'éloigna de sa grace  
+Pour mettre dans son cœur Roxelane en ma place  
+Que sans considerer ni moy ni Mustafa  
+Par le second amour le premier s'étoufa,  
+Je me vy delaissee, et de toute ma gloire  
+Il ne me resta rien qu'une triste memoire.  
+Alors tous ces amis de la prosperité  
+Pareils à ces oiseaux qu'on ne voit qu'en Esté  
+Suivirent la fortune⁎ allant chez ma rivalle,  
+Jugez quelle disgrace à la mienne est égalle,  
+Puisque de cet estat si haut si triomfant  
+Nous restons trois, Acmat, une femme, un enfant.  
+Enfant, helas enfant dont le sort est à plaindre,  
+Enfant pour qui je crains parce qu'on le peut craindre,  
+A qui trop de Noblesse est un bien dangereux  
+Et que trop de grandeur peut rendre malheureux.  
+À [68] sa perte je voy que Roxelane entasse  
+Grandeur dessus grandeur et grace dessus grace,  
+Quelle ne se maintient dedans l'esprit du Roy  
+Qu'à dessein de nous perdre et mon enfant et moy.  
+Assistez⁎, cher Acmat une amie combatuë  
+Que l'espérance quitte et que la crainte tuë.  
+
+    ACMAT.
+Vostre crainte il est vray n'est pas sans fondement  
+Comme vous je redoute un triste evenement⁎ :  
+Mais dans l'estat present je crois de la prudence                      
+De ne rien tesmoigner de cette deffiance,  
+Autrement nous donnons sujet [69] d'executer  
+Ce qu'en dissimulant nous pouvons éviter.  
+Qui tesmoigne qu'il craint oblige d'entreprendre  
+Et s'oste les moyens de se pouvoir deffendre.  
+Laissons agir le temps, attendons la saison,  
+C'est le meilleur advis que m'offre ma raison.  
+
+    CIRCASSE.
+Non, non hazardons tout où [70] le mal est extrême,  
+Aux extremes malheurs des remedes de mesme.  
+
+    ACMAT.
+Mais en hazardant tout quel est vostre dessein ?  
+
+    CIRCASSE.
+De luy planter moy-mesme un poignard dans le sein.  
+
+    ACMAT.
+D'un combat inégal l'issuë est perilleuse.  
+
+    CIRCASSE.
+Certaine de ma mort en craindre une douteuse ?  
+
+    ACMAT.
+Perdre ses ennemis pour perir avec eux                          
+Tient du desesperé plus que du genereux.  
+
+    CIRCASSE.
+Qui sçait bien qu'il mourra regrette moins sa perte  
+Lors que son ennemy comme lui l'a soufferte.  
+
+    ACMAT.
+Avant que de tenter les extrémes hazards  
+Le sage doit tourner les yeux de toutes pars.  
+Avant que de tenter une si grande affaire  
+Considerés un peu quel est vostre adversaire.  
+Sachés que Roxelane est montée en un point  
+Qui donne de la crainte et qui n'en reçoit point.  
+Son sort l'ayant portée au dessus des tempestes  
+A mis dessous ses piés dequoy briser nos testes.  
+Si bien que c'est mourir qu'irriter son courroux,  
+Et décocher des traits pour retomber sur vous.  
+Il est vray qu'autresfois n'estant pas si puissante,  
+On pouvoit étoufer sa fortune⁎ naissante ;  
+Mais depuis que l'amour eut rangé sous ses loix  
+Celui qui peut ranger sous les siennes des Roys,  
+Incontinent⁎ on vit en ceste adroite femme  
+Joindre aux beautés du cors [71] les puissances de l'âme,  
+Cet esprit agissant [72] remplit toute la cour,                       
+En ostant et donnant, de terreur, et d'amour,  
+Et rendit tellement sa puissance affermie  
+Qu'elle ne doit plus craindre une attainte ennemie :  
+Sa grandeur qui ne veut qu'elle pour son support  
+Est si loin au dessus des puissances du sort  
+Que qui la fist monter s'il vouloit l'entreprendre  
+Auroit bien de la peine à la faire descendre.  
+Dans ce degre d'honneur⁎ [73] dont l'eclat glorieux  
+Comme un autre Soleil peut eblouir nos yeux,  
+Que ne peut-elle pas et que peut-on sur elle.  
+
+    CIRCASSE.
+Toute grande qu'elle est je say qu'elle est mortelle,  
+Et si le fer⁎ nous manque employons le poison.  
+
+    ACMAT.
+Mais qui le donnera ?  
+
+    CIRCASSE.
+            Quelqu'un de sa maison.  
+
+    ACMAT.
+Saches qu'en sa maison personne ne se trouve  
+Dont la fidelité ne soit mise à l'épreuve.                           
+
+    CIRCASSE.
+Treuve t'on dans la cour de la fidelité ?  
+
+    ACMAT.
+Ce qu'on ne trouve point ses dons⁎ l'ont acheté.  
+
+    CIRCASSE.
+Une fidelité que nostre argent nous donne  
+Pour qui peut plus donner bien-tost nous abandonne.  
+
+    ACMAT.
+Suppozé que l'argent ait assés de pouvoir  
+Pour en faire sortir quelqu'un de son devoir,  
+Croyés vous rencontrer de la foy dans un traistre  
+Et qu'il en ait pour vous en manquant pour son Maistre ?               
+Comme pour de l'argent il la [74] vous donnera  
+Ainsi pour de l'argent il vous en manquera,  
+Et si vostre entreprise est enfin découverte  
+Vos desseins éventés⁎ hasteront vostre perte.  
+
+    CIRCASSE.
+Donnés moy quelque avis dans ces extremités  
+Qui redonne le calme à mes sens agités.  
+
+    ACMAT.
+Dissimulés comme elle et par cet artifice      
+Dont elle vous veut perdre évités sa malice,  
+Possible [75] que le tems travaillera pour vous  
+Vous mettant en estat de parer à ses cous.  
+Soliman peut mourir et possible elle mesme  
+Et vostre fils monter en ce degré supréme.  
+Esperés, bien souvent l'inconstance du sort  
+Nous met dans le naufrage⁎ et du naufrage au port  
+
+    CIRCASSE. 
+Pour ma seule vertu je prends la patience  
+Et desormais la feinte est ma seule science.  
+
+    ACMAT.    
+Pour moy que la fortune⁎ a toujours destiné,  
+A perdre les cadets pour asseurer l'aîné,  
+Je suis bien resolu de hazarder ma vie,  
+Et la perdre plustost qu'elle vous fust ravie.  
+Mesme des aujourd'huy quoy qu'il puisse avenir  
+Je vay trouver le Roy pour l'en entretenir.  
+Je vay parler bien haut de tout ce qui se passe.  
+
+    CIRCASSE. 
+Helas, mon cher Acmat, je crains vostre disgrace.  
+
+    ACMAT. 
+Pour vous allés la voir, et par des compliments  
+Tachés à [76] penetrer dedans ses sentimens.  
+Sur tout preparés-vous contre ses artifices.  
+
+    CIRCASSE. 
+Que je vous doy de biens pour tant de bons offices [77].  
+
+
+### SCENE II                    
+ROXELANE, LE MUFTI
+
+
+    ROXELANE.
+Non, non, ne pensés pas que la présomption  
+Suggere ce dessein à mon ambition.  
+Je me connois, fort bien, pere, et je me confesse  
+Indigne d'obtenir le titre de Princesse:  
+Mais parce que je voy que je ne puis rester  
+En un lieu si glissant sans descendre ou monter,  
+C'est un point resolu qu'il faut que je finisse,  
+Ou par le diademe, ou par le precipice.  
+
+    LE MUFTI.
+Le precipice est vostre et vous le merités  
+Comme le chastiment de vos temerités.  
+Qui croiroit qu'un esprit de la trempe du vostre,  
+La gloire de son sexe et la honte du nostre,  
+Aprés avoir bravé les tempestes du sort  
+Voulust par vanité faire naufrage⁎ au port [78].  
+Le pouvoir absolu que l'Empereur vous donne  
+Est indigne de vous sans avoir sa couronne ?  
+Vous voulés partager avecques Soliman,  
+La puissance, le Sceptre, et le Trosne Othoman,                   
+Et divisant l'Estat il faut qu'on affoiblisse,  
+Pour vous communiquer le rang d'Imperatrice ?  
+Croyez-vous que ce peuple ardant et genereux,  
+Pour un seul Empereur en reconnoisse deux ?  
+N avez-vous jamais sçeu que les loix Othomanes,  
+Deffendent à nos Roys d'épouzer les Sultanes ? [79]  
+
+    ROXELANE.
+Je sçay bien que les loix decident contre moy,  
+Mais je voudrais sçavoir qui les fist et pourquoi ?  
+
+    LE MUFTI.
+Lors que de Tamerlan [80] les redoutables armes,  
+Noyerent cet état dans son sang⁎, et ses larmes,  
+Et que de Bajazet le mal-heur eut permis,  
+Que sa maison tombast dans les fers ennemis,  
+Ce Prince mal-heureux que la scitique [81] rage,  
+Força de terminer ses jours en une cage [82],  
+Aprenant qu'on avoit indignement traité  
+Du sang paléologue [83] une illustre beauté,  
+Compagne de son lit comme de son empire,  
+Ressentit de ses maux le dernier et le pire [84]:  
+Et pour ressouvenir de son ressentiment,       
+Aux Roys ses successeurs laissa par testament,                       
+D'oster de leur Estat la qualité de Reyne  
+Pour ne jamais soufrir une pareille peine.  
+
+    ROXELANE.
+Donques de Bajazet la honteuse prison,  
+Nous a donné des lois et non pas la raison ?  
+Un Prince infortuné dont l'âme est alterée  
+Doit il donner des loix d'eternelle durée ?  
+Non, non, l'estat present se mocque de ces lois,  
+Et je veux desormais en dispenser nos Rois.  
+
+    LE MUFTI.
+Vous ne le pouvez pas à moins que d'estre Reine.  
+
+    ROXELANE. 
+C'est par là que je veux me monstrer souveraine,  
+Et pour vous dire tout sachez que dans demain [85],  
+Vous me verrés ou morte ou le sceptre en la main,  
+J'epouze Soliman ou bien la sepulture.  
+
+    LE MUFTI.
+De ce dessein je crains quelque étrange avanture,  
+Et qu'à ce grand empire il ne couste du sang⁎.  
+
+    ROXELANE.     
+S'il en est répandu ce sera de ce flanc.  
+
+    LE MUFTI.
+A quelle ambition vostre ame est asservie ?  
+Pour le seul nom de Reyne exposer vostre vie,  
+Vous en avez l'effect, la grandeur, le pouvoir,  
+Le nom vous manque, il faut, ou mourir, ou l'avoir,  
+Cela ne peut entrer qu'en l'esprit d'une femme.  
+
+    ROXELANE.
+Pere, il faut vous ouvrir les secrets de mon ame;  
+L'amour de mes enfans me dit et je le croy,  
+Que si je puis atteindre à l'hymen⁎ de mon Roy,  
+Mustafa dont un jour j'apprehende le crime,  
+N'estant que naturel et mes fils legitimes,  
+Je les mets en estat de perdre leur aîné  
+Qui les auroit perdus se voyant couronné.  
+Croyez, pere, croyez que dans cette entreprise  
+L'amour de mes enfans me porte et m'autorise,  
+Et ne me blasmés plus de ma presomption.  
+
+    LE MUFTI.
+Mais je voy du peril en l'execution.  
+
+    ROXELANE.     
+Le chemin que je tiens [86] n'est pas la violence,  
+Je ne veux seulement que vostre confidence,  
+Me la puis-je promettre ?  
+
+    LE MUFTI.
+            Attendés tout de moy,  
+Et bien que vos desseins me donnent de l'effroy⁎,  
+Et que de grands hazards precedent la victoire,  
+J'iray mesme à la mort si c'est pour vostre gloire.  
+
+    ROXELANE.
+Non, pere, asseurez-vous qu'aux desseins que je fais,  
+La prudence fera succeder les effais,  
+Et que sans hazarder que ma seule personne,  
+Malgré toutes les lois j'obtiendray la couronne,  
+Ma conduite se veut tellement employer,  
+Que mesme l'Empereur m'en vienne suplier.  
+
+    LE MUFTI. 
+Immortels [87] je vous fais une injuste priere,  
+Soyez les protecteurs d'un dessein temeraire.  
+
+    ROXELANE.     
+Vous verrez qu'il est juste et que les immortels,  
+Veullent pour m'y servir employer leurs Autels,  
+Et lors que vous sçaurés mes moyens infaillibles,  
+Vous ne jugerés pas mes desseins impossibles,  
+Il est bien vray qu'il faut les vous communiquer,  
+Et m'asseurez de vaincre avant que d'attaquer.  
+
+
+### SCENE III
+ROXELANE, CIRCASSE, LE PAGE.
+
+
+    LE PAGE. 
+La Sultane Circasse est ici prés, Madame,  
+Qui demande à vous voir.  
+
+    ROXELANE. 
+            C'est à ce coup [88], mon ame,  
+Le Mufti rentre.
+
+Qu'il faut faire merveille en l'art de decevoir⁎,  
+Adieu, cher confident, je vay la recevoir.  
+A sa simplicité je vay tendre les charmes⁎,  
+Circasse paroist.
+
+De la langue, des yeux, s'il est besoin des larmes.                   
+Mais la voicy. Comment vous souvenir de moy,  
+Me venir rendre icy l'honneur⁎ que je vous doy ?  
+Vostre bonté sans cesse en ma faveur éclate,  
+Pour me trop obliger vous me rendrez ingratte.  
+
+    CIRCASSE.
+Je rens ce que je dois à cet object d'honneur⁎,  
+Que son mérite éleve au comble du bon-heur,  
+Qui possedant un Roy possede sa puissance.  
+
+    ROXELANE.
+J'appelle ce bon-heur des fruits de l'inconstance,  
+Dont la possession n'a point de fondement  
+Et comme elle s'acquiert se pert en un moment.  
+
+    CIRCASSE. 
+Jugés mieux de l'amour dont son ame est atteinte.  
+
+    ROXELANE. 
+Cet amour bien que grand n'efface pas ma crainte.  
+
+    CIRCASSE. 
+Vous craindre ? qui pouvez possedant Soliman  
+D'un mot faire trembler tout l'Empire Othoman.  
+
+    ROXELANE.     
+La crainte a ce mal-heur pour celuy qui la donne,  
+Qu'en la donnant, jamais elle ne l'abandonne.  
+
+    CIRCASSE.
+Qui se peut faire craindre en est mieux obey,  
+
+    ROXELANE.
+Qui se veut faire craindre en est toujours hay.  
+
+    CIRCASSE.
+Qui vous pourroit hayr ?  
+
+    ROXELANE.
+            Ceux qui me peuvent craindre,  
+Où se peuvent former des sujets de se plaindre.  
+
+    CIRCASSE.
+Se plaindre qui le peut, tout vous estant soûmis ?  
+
+    ROXELANE.
+Tout ceux que mon bon-heur m'a rendus ennemis.  
+
+    CIRCASSE.
+Mais que pouvez-vous craindre en ce degré supréme ?  
+
+    ROXELANE. 
+Que puis-je craindre ! tout, ma fortune⁎, moy-méme !  
+
+    CIRCASSE. 
+Ce discours est obscur, et ce raisonnement  
+Dans mon esprit confus porte l'étonnement,  
+De grace expliqués-vous.  
+
+    ROXELANE.
+            Sçachés qu'en la journée  
+Que toute autre que moy nommeroit fortunée,  
+Quand l'Empereur m'aymant pour si peu de beauté,  
+Fist d'un dessein d'amour un acte de bonté,  
+Bien que foible d'esprit, et d'un age capable  
+De croire que j'avois quelque chose d'aymable.  
+Au mileu des plaisirs qui me furent offers  
+Mon corps trouva la pompe et mon ame les fers.  
+Depuis ce jour fatal les soupçons, et la crainte  
+Tiennent également mon esprit en contrainte ;  
+Aussi-tôt que je vy que le Roy vous quittant,  
+Prenoit en ma faveur le titre d'inconstant,  
+Et qu'il m'agrandissoit à vostre prejudice [89];                      
+Je cru qu'il vous rendoit une extreme injustice.  
+A vous de qui la cause [90] avoit pour son support  
+Vostre fils que l'Empire attend apres sa mort ;  
+A vous dont la beauté, digne d'estre adoree,  
+Meritoit un amour, d'eternelle duree,  
+Voyant qu'on vous traittoit avec tant de mespris  
+Qu'on ne m'agrandissoit que de vostre débris [91],  
+N'ayant pour mon soutien qu'une humeur inconstante,  
+Je souhaite la fin de ma gloire naissante ;  
+Et dés le premier pas de ce degré si haut,  
+Je souhaite y tomber pour faire un moindre saut.  
+Que le Ciel l'eust permis ! du moins belle Circasse  
+N'ayant que peu de temps occupé vostre place ;  
+J'en serois moins haye [92], et vostre inimitié  
+Auroit changé son nom en celuy de pitié,  
+Et de tant de soupçons mon ame combatuë,  
+
+    CIRCASSE. 
+Brisons-là: [93] ce discours d'inimitié me tuë,  
+Et vos raisonnemens m'éclaircissent assez  
+Pour me persuader que vous me haysser.  
+Vous ne pouvez m'aymer et croire me déplaire,  
+Que par une vertu qui passe l'ordinaire :  
+Aymer ces ennemis c'est la vertu des Dieux  
+Que jamais les mortels n'ont pu tirer des Cieux.  
+
+    ROXELANE. 
+Croyant avec raison meriter vostre hayne,  
+Je la doy recevoir comme une juste peine,  
+Et recevant de vous ce juste chastiment  
+Si je veux quelque mal c'est à moy seulement;  
+Qui justement puny deteste la justice,  
+Au lieu de l'amoindrir augmente son suplice.  
+Ce n'est pas sans raison que vostre affection⁎  
+Rencontre en moy l'object de son aversion.  
+Ce n'est pas sans raison que vostre esprit s'irrite,  
+Des faveurs que mon sort vole à vostre merite.  
+Et qui vous blasmeroit de hayr un voleur,  
+Qui vous ravit des biens de si grande valeur.  
+Si vous ne croyez pas avoir receu d'offense  
+C'est par vostre bonté non par mon innocence,  
+Et comme il est certain que la prosperité  
+Nous porte d'ordinaire à la temerité :  
+Possible les faveurs animant mon caprice,  
+D'esclave que je suis, j'ai fait l'Imperatrice,  
+Et mon ambition a monstré sa fureur⁎,  
+A celle dont l'Empire attend un Empereur.  
+Je ne le pense pas, mais si mon insolence  
+Vous portoit au dessein d'une juste vengeance;  
+Du moins souvenez-vous que mon esprit mal sein [94],  
+Vous dépleût par foiblesse et non pas par dessein ;  
+Et reglés desormais la suite de ma vie.  
+
+    CIRCASSE.     
+De si hautes faveurs surpassent mon envie :  
+J'attends beaucoup de vous mais je dois recevoir  
+Tout de vostre bonté, rien de vostre devoir.  
+Au nom de l'amitié⁎ qui deteste la feinte,  
+Et pour vous, et pour moy, ne parlons plus de crainte,  
+Aimez moy seulement et recevez de moy,  
+Les protestations d'une immortelle foy [95].  
+
+    ROXELANE.
+La crainte et les soupçons de qui j'estois la proye,  
+Laissent par ce discours mon ame dans la joye.  
+
+    CIRCASSE.
+Que dans cet entretien j'ay trouvé de douceur  
+Ma soeur jusqu'au revoir.  
+
+    ROXELANE. 
+            Adieu ma chere soeur.  
+
+    CIRCASSE *s'estant séparée.*
+De quelque faux appas⁎ que ton discours se farde  
+Je suis bien resoluë à me donner de garde. [96]  
+
+
+### SCENE IV                    
+
+    ROXELANE.
+Je vous croiray, Circasse, et vous et vostre fils  
+Un jour vous vengerez le tort que je vous fis.  
+Quand Mustafa montant au trosne de ses peres,  
+Fera son marchepied des cors morts de ses freres.  
+De ses freres, bon Dieu, qu'ay-je dit ! Ha je meurs !  
+De ses freres ces mots couvrent mes yeux de pleurs !  
+Le sang⁎ de Soliman par un horrible crime,  
+Au sang⁎ de Soliman servira de victime.  
+Et de mes chers enfans, le trespas ordonné,  
+Asseurera l'Estat d'un frere couronné.  
+Tu le sçais, Roxelane, et ta voix trop humaine,  
+Traite encore de respect les objects de ta haine :  
+Reserve tes bontés pour une autre saison  
+Employe à ton secours le fer⁎ et le poison ;  
+Le feu s'il est besoin, et que ta rage assemble  
+En un mesme cercueil, et mere, et fils ensemble.  
+L'ennemy qu'on previent est demy combatu [97] :  
+Mais d'un assassinat je fais une vertu,  
+Fuyons la cruauté qu'abhorre la nature :                      
+Mais c'est une vertu quand elle nous asseure.  
+Tremperois-je mes mains dans le sang Othoman [98] ?  
+Mes fils ne sont-ils pas du sang de Soliman ?  
+C'est épargner son sang⁎ si nous pouvons abatre  
+Mustafa dont la mort est le salut de quatre [99].  
+Mais quel crime de perdre un homme de ce rang ? [100]  
+Mais quelle impieté de negliger mon sang ? [101]  
+La justice s'oppose au dessein qui m'anime,  
+Et la pieté⁎ veut que je commette un crime.  
+Justice et pieté⁎ quoy vous vous traversés⁎ ?  
+Donc à mon seul sujet vous vous desunissés.  
+Injuste pieté⁎, justice deffenduë,  
+Retiendrez-vous toujours mon ame suspenduë ?  
+L'amour de mes enfans qui me parle pour eux  
+Me dit pers Mustafa, c'est un crime pieux ;  
+Et Mustafa me dit, nous sommes tous d'un pere ;  
+C'est hayr vos enfans que de perdre leur frere ;  
+Determinons pourtant mon esprit s'il se peut :  
+Que vive Mustafa la justice le veut :  
+Et sans l'interesser [102] la pieté m'engage  
+A porter mes enfans à l'abry de l'orage.  
+Cherchons leurs seuretés et montons en des lieux  
+D'où Mustafa ne puisse aprocher que des yeux :  
+Et d'où quand nous voudrons lançant un coup de foudre  
+S'il sort de son devoir nous le mettions en poudre,  
+Faisons ce coup d'esprit qui nous mette en état  
+De pouvoir éviter et faire un attentat [103].  
+
+
+## ACTE II                        
+
+
+### SCENE PREMIERE
+SOLIMAN, ACMAT, LE MUFTI, ORMIN.
+
+
+    SOLIMAN.
+Non non, ceste grandeur dont l'éclat m'environne,  
+Les superbes⁎ Palais, le Sceptre, la Couronne,  
+Tant de peuple soûmis, tant d'Estats surmontés,  
+N'ont que la moindre part en mes felicités.  
+Un bien plus desirable et dont la jouyssance  
+Du sort capricieux ignore l'inconstance,  
+Que je prends en moy-mesme, et qui dépend de moy  
+Seul établit ma gloire, et me fait vivre en Roy.  
+Un feu [104] délicieux, une divine flame  
+Comble de tant de biens, et mon cors et mon ame,  
+Que l'Empire me plaist en cela seulement,  
+Que par luy je possede un tresor si charmant.  
+Loin d'en rougir, Acmat, je veux que les histoires  
+Parlent de mon amour comme de mes victoires,  
+Que la posterité me nomme également  
+Prince victorieux et bien heureux amant.                       
+
+    ACMAT.
+Seigneur je sçay qu'en vain on offre le remède  
+A celuy qui se plaist au mal qui le possede,  
+Qu'on blesse d'un amant l'imagination,  
+Lors que la verité combat la passion.  
+Toutefois mon devoir,  
+
+    LE MUFTI.
+            Aprenez pour maxime  
+Que quiconque censure [105] un Roy commet un crime,  
+Et que vous ne pouvés sans une impiété  
+Ni des Roys ni des Dieux choquer⁎ la volonté.  
+
+    ACMAT.
+Je sçay bien que le trosne est un lieu venerable  
+D'où ne peut rien sortir qui ne soit adorable,  
+Et que comme il est vray que les Roys sont des Dieux ;  
+Leur voix est un oracle [106] arresté dans les Cieux.  
+Mais comme la pitié de l'humaine misère  
+Desarme bien souvent la celeste colere,  
+Ainsi quand un Estat fait voir ses interests  
+Un Prince peut et doit revoquer ses Arrests.  
+On ne contredit pas, on suplie on remonstre,  
+Apres un sage Roy decide, ou pour, ou contre.  
+
+    SOLIMAN.     
+Parlez parlez, Acmat, j'écoute librement  
+Mon amour se soûmet à vostre sentiment.  
+Comme d'un Potentat [107] c'est le bon-heur supréme,  
+De ne point recevoir de loy que de soy mesme,  
+Je sçay que son mal-heur est sans comparaison  
+Quand il ne cede point aux lois de la raison.  
+
+    ACMAT.
+Prince victorieux en qui le Ciel assemble  
+La bonté, la puissance, et la sagesse ensemble,  
+Veillant dans le repos, constant dans les dangers,  
+Aymés dans vos Etats, craint chés les étrangers,  
+Qui pour vivre pour nous mourustes pour vous mesme  
+Dés lors que vostre front receut le Diademe.  
+Jusqu'icy par vos soins⁎ vostre Etat a gousté  
+Les parfaictes douceurs de la felicité,  
+Et pour luy procurer un bien si desirable  
+Vous vous seriez rendu vous mesme miserable,  
+Sinon que vous mettés vostre souverain bien  
+A manquer de repos pour asseurer le sien,  
+Si bien que vostre peuple à bon droit delibere  
+S'il vous doit appeller, son Seigneur, ou son pere:  
+Et des felicitez dont nous jouyssons tous,  
+La plus considerable est d'estre aymez de vous.  
+Quoy qu'indigne d'un bien si grand si desirable,                   
+Nous l'estimions pourtant autrefois plus durable :  
+Lors que lassé des soins⁎ et sorty des dangers  
+Vous vous divertissiez aux plaisirs passagers,  
+Et que plusieurs beautez possedant vos pensées  
+Delassoient vostre esprit de ses peines passees :  
+Mais voyant à present qu'une seule beauté  
+Retient en son amour vostre esprit arresté,  
+Qu'en luy communiquant l'autorité Royale  
+Vous vous affoiblissez pour la vous rendre égale.  
+C'est n'est pas sans raison que vostre peuple croit  
+Que pour luy vostre amour est devenu plus froid,  
+Et que portant ailleurs les forces de vostre ame  
+Vous quittez son amour pour celuy d'une femme.  
+Je sçay bien qu'à nos Roys le Ciel nous a donnez,  
+Qu'à leurs contentemens nous sommes destinez,  
+Et que leur volonté favorable ou contraire  
+Doit estre en leurs Etats une loy nécessaire :  
+Aussi quoy qu'il vous pleust determiner de nous  
+Nous plaindrions nos malheurs, sans nous plaindre de vous,  
+Et si nostre interest seul animoit nos craintes  
+Nos respects sont trop grands, pour vous faire des plaintes :  
+Mais ce trompeur amour, ce Demon suborneur  
+Qui s'emparant d'une ame en exile l'honneur⁎,  
+Duquel la tiranie [108] insolemment vous brave  
+Vous faisant d'Empereur l'esclave d'un' [109] esclave,  
+Ouy Seigneur cet amour qui vous tient enchanté [110]  
+Donne ces sentimens à ma fidelité.  
+A tel point de mépris ce tiran vous engage                      
+Que vos ennemis mesme en tirent avantage,  
+Et ceux qui ne pensoient qu'à parer à vos cous  
+Se trouvent en état de triomfer de vous.  
+Seroit-il vray, Seigneur, que vous dont la sagesse  
+A fait à la fortune⁎ avoüer sa faiblesse ?  
+Vous dis-je le vainqueur de tant de nations [111]  
+Vous laissassiez enfin vaincre à [112] vos passions ?  
+Remettés vostre esprit, et que la renommée,  
+Qui vante les exploicts de votre main armée,  
+Vante aussi le pouvoir qu'aura vostre raison  
+A delivrer son ame, et rompre sa prison.  
+Je sçay qu'en ce discours je hazarde ma teste,  
+Mais, Seigneur, s'il vous plaist, la voila toute preste,  
+Je mourray glorieux, et marqueray ma foy  
+Ne pouvant pas survivre à l'honneur⁎ de mon Roy.  
+
+    SOLIMAN.
+Vous m'obligez, Acmat, bien loin de me déplaire,  
+Mais vous parlez des Roys, ainsi que du vulgaire,  
+S'il est vray qu'ils sont Dieux, leur supréme pouvoir  
+Par l'esprit d'un mortel ne se peut concevoir.  
+Sçachez que leur puissance est comme la lumière  
+Au Soleil qui la donne elle demeure entiere ;  
+Et bien que Roxelane ait part en ma grandeur  
+Croyez-vous que ma gloire en perde sa splendeur.  
+Au contraire par là forçant les destinées,  
+Je veux que mon renom triomphe des années,                   
+Que ces Roys ennemis sçachent, qu'au dessus d'eux  
+Je puis en un moment élever qui je veux,  
+Et que de la grandeur les veritables marques  
+Sont de mettre un esclave au dessus des Monarques.  
+Mais la gloire empruntée a besoin d'un apuy,  
+Et qui fait un puissant est plus puissant que luy.  
+Pour mon peuple je l'aime, et l'amour d'une femme  
+N'effacera jamais l'amitié⁎ de mon ame.  
+J'ayme differemment deux objects tour à tour,  
+Mon peuple d'amitié, Roxelane d'amour.  
+
+    ACMAT.
+L'amour est l'ennemy que l'amitié⁎ doit craindre.  
+
+    SOLIMAN.
+Je suis son protecteur il ne la peut éteindre,  
+Arbitre du destin de mille nations  
+Je puis bien accorder deux foibles passions.  
+
+    ACMAT.
+Il est vray que l'amour est foible en sa naissance,  
+Mais aussi tost qu'un cœur deffere à sa puissance,  
+Il y regne en tyran, et jamais il n'en sort  
+Que par un grand bon-heur ou par un grand effort.                   
+
+    SOLIMAN.
+Quoy qu'il en soit, Acmat, pardonne moy si j'aime,  
+
+    ACMAT.
+Vous vous offencés seul pardonnés vous vous mesme.  
+
+    SOLIMAN.
+Acmat, vostre rigueur me presse en un haut point :  
+Mais puisque mes raisons ne vous satisfont point      
+Apellés Roxelane afin que sa presence  
+Bien mieux que mon discours parle pour la deffence.  
+
+    ACMAT.
+Je me soûmets, Seigneur.  
+
+    SOLIMAN.
+            Allez, Ormin, allez  
+Et ne lui dites pas pourquoy vous l'appellez.  
+
+    ORMIN.
+Incontinent⁎ Seigneur.                               
+
+    ACMAT.
+            Ma raison condamnée  
+Abandonne à ce mot le titre d'obstinée.  
+Je me soûmets, Seigneur, et suis prest devant vous  
+D'adorer, s'il vous plaist, Roxelane à genoux :  
+Si pour mieux luy donner le rang de souveraine  
+Il vous plaist l'épouser en qualité de Reyne.  
+
+    SOLIMAN.
+Ce discours me surpend mais ne presumes pas  
+Que jamais Soliman ait le cœur assez bas.  
+Je sçay garder mon rang et mon amour ensemble.  
+
+    ACMAT.
+Vostre rang et l'amour n'ont rien qui se ressemble.  
+
+    SOLIMAN.
+L'amour que je luy porte est à condition,  
+Qu'elle sera modeste en son ambition.   
+
+    ACMAT.
+Combien que vostre rang ne luy deust rien permettre :  
+L'amour de vos enfans semble tout luy promettre.  
+
+    SOLIMAN.    
+Je les ayme il est vray, mais j'ayme plus les lois  
+Qui sont les vrais enfans des legitimes Roys.  
+Je veux par mes respects pour les lois anciennes  
+Obliger l'avenir à respecter les miennes.  
+Enfin je sçay garder inviolablement  
+Les lois que Bajazet laissa par testament.  
+
+    LE MUFTI.
+Je m'estonne, Seigneur, de vostre patience,  
+Et c'est ce qui m'oblige à rompre le silence.  
+Je ne puis plus soufrir qu'un suject devant moy  
+Censure sans raison les plaisirs de son Roy.  
+Les deffaux dont Acmat accuze vostre vie  
+Sentent quelque interest ou bien un peu d'envie.  
+Eloigné du commerce et du bruit de la Cour  
+Je suis bien ignorant en matiere d'amour :  
+Mais la condition d'un Empereur est pire  
+Que du moindre suject qui soit en son Empire,  
+S'il est vray qu'aux grands Roys il ne soit pas permis  
+Ainsi qu'à leurs sujets d'acquerir des amis.  
+Donc, Acmat, l'amitié⁎ ceste vertu loüable  
+Est pour eux seulement, un crime condamnable.  
+Sortez, sortez, Acmat, de cette absurdité  
+Qui vous convainc d'erreur ou d'infidelité.                       
+
+    ACMAT.
+Pere ne croyés pas que jamais je consteste  
+Que l'amitié⁎ ne soit une vertu celeste :  
+Mais les grands Rois seroient égaux à leurs subjets  
+Si leur amour n'avoit de plus nobles objets.  
+Aymer en general ses peuples, ses Provinces  
+Et ses confederés, c'est l'amitié⁎ des Princes.  
+Pour vivre heureusement chaque particulier,  
+Se peut bien faire un font d'un amy singulier [113] :  
+Mais les Rois sont publics, et les ames royales  
+Se doivent procurer des amitiés⁎ égales.  
+
+    LE MUFTI.
+L'Empereur a donc tort de vous avoir porté  
+De la fange aux grandeurs où vous estes monté.  
+
+    ACMAT.
+Un Roy recompensant ceux qui luy font service  
+N'ayme pas pour cela, mais il rend la justice.  
+
+    SOLIMAN.
+Mais, Acmat, Roxelane adresse icy ses pas.  
+
+    ACMAT.    
+Seigneur je me soûmets, et mets les armes bas.  
+
+    SOLIMAN.
+Qu'elle ne sache rien de ceste conference [114].  
+
+
+### SCENE II
+SOLIMAN, ROXELANE, LE MUFTI, ACMAT, ORMIN
+
+
+    SOLIMAN.
+Enfin vous me rendés ceste aymable presence.  
+
+    ROXELANE.
+Mon ame destinée à vos contentements,  
+Seigneur, se vient soumettre à vos commandements.  
+
+    SOLIMAN.
+Vostre ame conservant cet ennuy⁎ qui l'oppresse,  
+Ne se peut dire à moy mais bien à la tristesse.  
+
+    ROXELANE.    
+La nature, Seigneur, a de puissantes lois  
+Que ne peuvent forcer ny le sort ny les Rois [115],  
+Elle a voulu regler mes humeurs, mais en sorte  
+Que la mélancolie est toujours la plus forte,  
+Et malgré vos faveurs et malgré la raison  
+Mon cœur ensorcelé conserve ce poison.  
+
+    SOLIMAN.
+Par la nature, a tort, vous vous dites contrainte,  
+Toute tristesse vient de desir ou de crainte :  
+Mais quel mal tant à craindre a pu vous alterer  
+Ou quel si rare bien vous deffend d'esperer.  
+Ne sçavez-vous pas bien qu'en l'estat ou vous estes  
+Vous voyez sous vos pieds l'orage et les tempestes,  
+Que vostre esprit ne peut se former des souhais  
+Que bien-tost mon amour ne change en des effais.  
+Decouvrez vostre mal, sçachés si je vous ayme,  
+Demandés, ordonnés, exécutés vous mesme.  
+Vous ne devez rien craindre et pouvez tout ozer,  
+Qui laschement demande enseigne à refuzer.  
+
+    ROXELANE.
+Seigneur, si la raison n'estoit pas affoiblie  
+Quand le sang⁎ est vaincu par la melancholie [116],  
+Le rang dont vostre amour a voulu m'honorer                      
+Me tiendroit en état de ne rien desirer ;       
+Mais, Seigneur, c'est en quoy je me plains de moy-mesme,  
+Les pompes de la Cour ny ce degré supréme,  
+N'y l'heur que je reçoy de vostre affection⁎  
+N'ont jamais mis ma joie à sa perfection.  
+Tousjours à mes plaisirs je ne sçay quoy s'oppose  
+Dont ma foible raison ne peut trouver la cause ;  
+Si ce n'est que la terre avec tous ses tresors,  
+A des contentements seulement pour le cors :  
+Et que l'esprit créé pour des dezirs célestes  
+Hors son centre ne voit que des objects funestes.  
+C'est ce qui me rend triste et ce raisonnement  
+Me semble reprocher mon peu de jugement.  
+D'avoir donné mon cœur à des biens perissables,  
+Qui pouvoit acquerir des tresors plus durables,  
+D'avoir creu rencontrer de vrais biens en ces lieux,  
+Et d'avoir plus aymé la terre que les cieux :  
+C'est pourquoy desormais ma raison mieux instruite  
+Si vous le permettez veut changer sa conduite,  
+Et joindre aux soins⁎ de plaire à vostre Majesté,  
+Les soins⁎ de plaire encore à la divinité,  
+Et si vostre bonté m'en donne la licence [117],  
+Je feray pour le Ciel quelqu'utile dépence :  
+Mais qui demande trop est digne de refus  
+Je n'oze m'expliquer.                                   
+
+    SOLIMAN.
+            Vous me rendés confus,  
+Et ce discours accuze ou vous d'outrecuidance,  
+Ou moy de peu d'amour, ou de peu de puissance.  
+Que Roxelane enfin peut-elle demander ?  
+Que Soliman ne veuille ou ne puisse accorder ?  
+Hors que vous demandiez mon honneur⁎ ou ma vie,  
+Mon amour peut et veut contenter vostre envie.  
+Que demandez-vous donc ? un Royaume.  
+
+    ROXELANE.
+                        Ha ! bien moins,  
+Je limite Seigneur, et mes vœux et mes soins⁎,  
+Et c'est à mes souhaits un effect assez ample  
+Que la permission d'edifier un temple,  
+De faire un hospital [118], de dresser des autels,  
+Ou l'on puisse en mon nom servir les immortels.  
+C'est tout ce que je veux.  
+
+    SOLIMAN. 
+            Ha la foiblesse extréme,  
+Femme simple ou plustost la simplicité méme  
+C'est trop peu demander d'un Prince genereux,  
+Et principalement lors qu'il est amoureux.  
+Mais puisque vostre humeur à ce dézir vous porte,                   
+Quoy qu'indigne de moy vous l'obtiendrez, n'importe.  
+Pere, tout à propos vous vous trouvez icy  
+C'est un œuvre [119] pieux, prenés-en le soucy,  
+Que ce temple soit tel que l'art et la nature  
+Disputent de l'honneur⁎ de son architecture,  
+Que l'art perfectionne, et presente à nos yeux  
+Tout ce que la nature a de plus precieux,  
+Enfin j'y veux graver pour la gloire Othomane  
+Ce que peut Soliman, ce que vaut Roxelane  
+Mais qu'on depesche⁎ tost.  
+
+    LE MUFTI. 
+                Seigneur, c'est un dessein  
+Qui ne peut étre entré dans un esprit bien sain  
+En faveur d'un esclave edifier un temple ?  
+C'est chose sans raison ainsi que sans exemple. [120]  
+
+    SOLIMAN.
+Pourquoy ?  
+
+    LE MUFTI.
+         C'est qu'un esclave est dépendant d'autruy  
+Et quoy qu'il puisse faire il ne fait rien pour luy,  
+Le service divin en rien ne lui profite,  
+Son Maistre seul en a la grace et le merite.                       
+Et bien que Roxelane ait la faveur d'un Roy  
+Elle est toujiours esclave, et ne peut rien de soy.  
+
+    SOLIMAN.
+Pere vous jugés donc sa demande inciville [121].  
+
+    LE MUFTI.
+Inciville non pas, mais elle est inutile.  
+
+    SOLIMAN.
+Pouvons-nous point lever ceste difficulté ? [122]  
+
+    LE MUFTI.
+Je n'en sçay qu'un moyen.  
+
+    SOLIMAN.
+                Quel ?  
+
+    LE MUFTI.
+                    C'est sa liberté.  
+Vous pouvez s'il vous plaist finir son esclavage  
+Et la faire jouyr des fruits de son ouvrage.                       
+
+    SOLIMAN.
+Soit fait, en sa faveur, et pour sa liberté  
+Je renonce à mes droits de souveraineté. [123]  
+
+    ROXELANE.
+Que dites vous Seigneur ? moy sortir de servage ?  
+Dans ceste liberté je trouve mon dommage⁎.  
+Par là vous me privez de mon plus grand bon-heur,  
+Puis que ma servitude établit mon honneur⁎,  
+Que je tiens mes grandeurs, que je reçois mon lustre [124]  
+De ces fers glorieux de ce servage illustre.  
+Non, non, je n'en sorts point, non je suis à mon Roy,  
+
+    SOLIMAN.
+Non, non vous étes libre, et n'estes plus à moy.  
+
+    ROXELANE.
+Puis que de mon Seigneur la volonté l'ordonne,  
+Qu'il me donne à moy-mesme : à luy je me redonne,  
+Et je ne veux de luy que cette liberté  
+C'est de finir ma vie en ma captivité.                       
+
+    SOLIMAN.
+Moi je ne veux de vous que ceste obeissance,  
+C'est que vous viviez libre et hors de ma puissance.  
+Quoy que vous puissiez dire, en vain vous contestés.  
+
+    ROXELANE.
+A ce mot je reçoy vos liberalités [125].  
+
+    SOLIMAN.
+Pere depeschés⁎-tost de bastir cet ouvrage  
+Qui soit de ma grandeur la veritable image.  
+Qu'elle choisisse un lieu, vous, Acmat, suivez moi,  
+Un grand dessein que j'ay demande vostre employ.  
+
+
+### SCENE III                            
+ROXELANE, LE MUFTI
+
+
+    ROXELANE.
+Jusqu'icy la fortune⁎ à nos vœux exorable  
+Promet à nos desseins un succez favorable.  
+Père ? que dites-vous de ce commencement  
+
+    LE MUFTI.
+Quoy que beau je redoute encor' l'evenement⁎.  
+
+    ROXELANE.
+Le sort ne m'auroit pas monstré si bon visage  
+Pour ne pas garantir ma barque du naufrage⁎.  
+
+    LE MUFTI.
+Craignez son inconstance et jusques dans le port  
+S'il n'estoit inconstant, il ne seroit pas fort.                       
+
+    ROXELANE.
+Je croy qu'il est pour moy, sa premiere assistance  
+D'un succez bien-heureux me permet l'esperance.  
+Je vous l'avois bien dit que tous les immortels  
+Vouloient pour me servir employer leurs autels.  
+Ne m'ont-il pas presté leur temple, et cet azile ?  
+M'a-t-il pas faict trouver ma liberté facile ?  
+Liberté qui me rend égale à Soliman  
+Dans la possession de l'Empire Othoman,  
+Et porte ma fortune⁎ au comble de la gloire,  
+
+    LE MUFTI.
+Mais devant [126] qu'il soit temps vous chantés la victoire,  
+Esperés, mais craignés, entrant dans un combat  
+Dont la fin vous élève, ou du tout [127] vous abat  
+Qui vous portant au trosne, ou dans le precipice  
+Vous donne sans milieu la gloire, ou le suplice.  
+Qui par force ou par art veut un trosne acquerir  
+Doit estre resolu de vaincre ou de mourir.  
+Qu'il attende, en quittant l'espoir de la retraite  
+Ou le succez entier ou l'entiere deffaite.  
+Pourtant quelque grand mal qui vous puisse avenir  
+Ayant bien commencé taschés à mieux finir.  
+L'occasion s'offrant ne manqués à la prendre.                   
+
+    ROXELANE.
+Elle n'est pas bien loin, il ne faut que l'attendre :  
+Mais mon cher confident ne m'abandonnés pas  
+
+    LE MUFTI.
+Je ne vous quitte point mesme dans le trespas.  
+
+
+## ACTE III
+
+
+### SCENE PREMIERE.
+SOLIMAN, RUSTAN, LE PAGE, ORMIN, OSMAN.
+
+
+    SOLIMAN.
+Non je ne vous croy pas, Roxelane est trop sage  
+Page, pensez à vous ce discours vous engage.  
+
+    LE PAGE.
+Je ne m'en dedis point, Seigneur, elle l'a dit.                      
+
+    SOLIMAN.
+Presque d'étonnement je demeure interdit,  
+En quels termes ?  
+
+    LE PAGE.
+        Seigneur, j'ai dit à ceste belle  
+Que vous veniez passez ceste nuit avec elle,  
+Qu'elle se preparast à vous bien recevoir,  
+Et selon sa coutume, et selon son devoir.  
+Elle m'a répondu, mon enfant je m'étonne  
+De la commission que l'Empereur vous donne.  
+Dites-luy que luy mesme il m'a donné la loy,  
+Que l'amour desormais est un crime pour moy.  
+
+    SOLIMAN.
+Donc à mes volontez Roxelane est rebelle  
+Quoy ? l'amour desormais est un crime pour elle ?  
+Soit puisque ses mespris m'imposent cette loy  
+Que l'amour desormais soit un crime pour moy.  
+Que jamais son object ne rentre en ma pensee  
+Que pour me reprocher ma faiblesse passee,  
+Qu'en bannissant l'amour se loge dans mon cœur  
+La detestation et la hayne et l'horreur,  
+Et de quelques appas⁎ que ce trompeur se pare  
+Qu'il ne rencontre en moy que l'ame d'un barbare,  
+Qu'il n'y revienne plus, c'est un point resolu,                     
+Je reprens sur moy mesme un pouvoir absolu.  
+Mais que dis-je ? un esclave, un object de misere,  
+Un ver de terre, un rien me peut mettre en colère,  
+Comme l'amour, la hayne est indigne de moy,  
+Toutes les passions sont indignes d'un Roy.  
+Ormin, pour asseurer le repos de mon ame  
+Et pour mieux étoufer le reste de ma flame  
+Je veux que de ce pas on aille oster le jour  
+A l'ingrate autresfois l'object de mon amour  
+Aportez moy sa teste ou m'envoyez la vostre. [128]  
+
+    ORMIN.
+Qu'il vous plaize Seigneur vous servir de quelque autre,  
+Où differés un peu.  
+
+    SOLIMAN.
+            Comment vous contestés.  
+
+    ORMIN.
+Non, Seigneur, j'obey.  
+
+    SOLIMAN.
+             Toutefois arrestés,  
+Je la puniray mieux.                                   
+
+    RUSTAN.
+            Seigneur, qu'il vous souvienne  
+Que vous m'avez donné vostre fille et la sienne,  
+Que par vostre bonté je possede le bien  
+De me pouvoir nommer vostre gendre et le sien.  
+Au nom de vostre fille et de la sienne ensemble,  
+De vos communs enfans, où vostre sang s'assemble,  
+Ne precipitez pas l'effect d'un jugement  
+Qui vous pourroit causer du mécontentement,  
+Et ne destruisés pas sur le rapport d'un page  
+De nature et du Ciel un si parfait ouvrage.  
+O Seigneur entendez sa deffence ou du moins  
+Avant que de juger ayés d'autres tesmoins !  
+On garde quelque forme [129] aux crimes plus énormes. [130]  
+
+    SOLIMAN.
+Au procez d'un rebelle il ne faut point de formes.  
+
+    RUSTAN.
+Non, lors que trop puissant il fait trembler l'Etat  
+Il ne faut point attendre un second attentat :  
+Mais la fragilité de son sexe l'excuse,  
+De la rebellion de laquelle on l'accuse.  
+Du moins auparavant que de vous émouvoir  
+Seigneur, permettez-moy que je la puisse voir.                      
+Je reviens aussi-tost [131] et je la vous ameine  
+Pour recevoir la grace ou recevoir la peine.  
+
+    SOLIMAN.
+Allez, et qu'aussi-tost je vous revoye icy  
+De sa rebellion je veux estre éclaircy.  
+
+
+### SCENE II
+ACMAT, CIRCASSE.
+
+
+    ACMAT.
+Je ne puis rien comprendre en ceste procedure ;  
+Mais toujours je prevoy quelque grande avanture.  
+Cet esprit qui devant brusloit d'ambition,  
+Changer en un moment de resolution.  
+Par une humilité veritable où masquée  
+Arrester sa fortune⁎ à faire une mosquée [132]  
+Et d'un visage peint d'une grave froideur  
+Mépriser pour le Ciel la mortelle grandeur,  
+Je n'entens point cela.  
+
+    CIRCASSE.      
+            C'est qu'elle desespere  
+De voir monter ses fils au trosne de leur pere,  
+Connoissant que le mien par sa rare valeur  
+Asseure sa fortune⁎ et ruinera la leur,  
+Si bien que hors d'espoir du Royal diadéme,  
+Possible elle a passé de l'un à l'autre extreme.  
+Et la crainte qu'elle a l'oblige de ceder,  
+Et de quitter un rang qu'elle ne peut garder.  
+
+    ACMAT.
+Je connois cet esprit incapable de crainte ;  
+Je la croirois plustost très-capable de feinte :  
+Et ce qui le fait croire est ceste liberté,  
+Où j'ay veu que tendoit sa feinte pieté⁎,  
+Liberté dont je crains quelque sourde menée [133].  
+
+    CIRCASSE.
+Je croy que c'est pas là qu'elle s'est ruinée,  
+Pour vivre en femme libre et qui dépend de soy  
+Il faut quitter le Louvre [134] et s'éloigner du Roy  
+Et cet éloignement peut causer sa disgrace  
+Et mettre ma fortune⁎ en sa premiere place.  
+Qui s'éloigne des grands entend mal la faveur  
+S'éloignant de l'oreille on s'éloigne du cœur [135].                       
+
+    ACMAT.
+La faveur et l'amour ont ceste difference,  
+Que l'un croist par la veuë, et l'autre par l'absence ;  
+Moins l'Empereur la voit, plus il en est charmé,  
+Moins elle a de chaleur, plus il est enflammé,  
+Bref nous devons tirer de ceste procedure,  
+De quelque grand dessein, un infaillible augure,  
+Mais nostre confident à grands pas vient à nous.  
+
+
+### SCENE III
+ACMAT, CIRCASSE, OSMAN.
+
+
+    CIRCASSE.
+He bien mon cher Osman, que nous apportés-vous ?  
+
+    OSMAN.
+Tout succede à vos veux, la fortune⁎ se change  
+Et de vostre parti favorable se range [136].  
+
+    CIRCASSE.    
+Comment ?  
+
+    OSMAN.
+        Vostre rivalle est mal avec le Roy.  
+
+    CIRCASSE.
+Agreable nouvelle, o dieux ! assistez⁎-moy :  
+Augmentant ces rigueurs vous augmentez ma joye.  
+Mais, Osman est-il vray, faut-il que je le croye.  
+Qui te l'a dit ?  
+
+    OSMAN.
+        Personne.  
+
+    CIRCASSE.
+                Et comment l'as-tu sceu ?  
+
+    OSMAN.
+Je l'ay sceu de mes yeux moy-mesme je l'ay veu ;  
+Et pour vous dire plus, j'ay presque veu sa teste  
+Succomber sous les coups d'une horrible tempeste :  
+L'Empereur luy faisoit un fort mauvais party,  
+Si son gendre Rustan ne l'en eust diverty,                        
+Diverty pour un temps, car la colere dure  
+Où plustost elle augmente !  
+
+    CIRCASSE.
+                Agreable avanture !  
+Que ferons-nous Acmat ?  
+
+    ACMAT.
+            Allons voir l'Empereur  
+Allons l'entretenir de hayne et de fureur⁎  
+Et quelque trahison que Roxelane brasse [137]  
+Empeschons s'il se peut qu'elle ne rentre en grace [138].  
+
+    CIRCASSE.
+Je crains que ce dessein ne nous fasse perir,  
+
+    ACMAT.
+Il vaut mieux hazarder qu'asseurément mourir.  
+De ce seul coup depend ou sa perte ou la vostre,  
+La ruine de l'une est le salut de l'autre.  
+
+    CIRCASSE.
+Allons mon cher Acmat, que ce bien-heureux jour,  
+Me fasse posseder mon Prince et son amour.  
+
+
+### SCENE IV                        
+
+    ROXELANE.
+STANCES [139].
+Combien je souffre⁎ de traverses [140],  
+Combien de passions diverses  
+Tiennent mon esprit en suspens.  
+Mon ame agit contre elle mesme,  
+Je veux, je crains, j'espere, j'ayme,  
+Je desire, je me repens.  
+Raison, ambition, amour, crainte, esperance,  
+Qui m'élevez si haut, qui m'abaissez si bas,  
+Qui de vous a le plus, ou le moins de puissance,  
+A qui suis-je de vous, à qui ne suis-je pas ?  
+
+Je sens ma volonté contrainte,  
+Ma raison oppose ma crainte  
+Au cours de mon ambition ;  
+Et l'esperance qui me flatte  
+Des grandeurs dont un trosne éclate  
+Releve ma presomption :  
+Mais le peril est grand : mais ne suis-je pas mere ?                  
+Mourant pour mes enfans je fay ce que je doy,  
+C'est pour moy que je crains, c'est pour eux que j'espère,  
+Mais ceste crainte est lasche, espoir je suis à toy.   
+
+Toutefois en ceste tempeste  
+Où mettray-je à couvert ma teste  
+Sinon sous tes mortes amours ?  
+Voy mon Roy parle en ma deffence,  
+Ta lente, ou ta prompte assistance  
+M'oste ou me redonne le jour.  
+Mais j'ay tort, je t'invoque et je te suis contraire,  
+Je te bannis de moy pour avoir ta faveur,  
+Pour espouzer mon Roy, je le mets en colere,  
+Et je veux par sa hayne entrer dedans son cœur.  
+
+Mais c'est en vain que je hesite [141],  
+La retraitte m'est interdite,  
+Il n'est plus d'azile pour moy.  
+La faute est faite il faut poursuivre,  
+Et je cesse aujourd'huy de vivre,  
+Ou j'épouse aujourd'huy mon Roy :  
+Qu'importe de mourir de la fievre ou du foudre ? [142]  
+De mourir par effort ou naturellement ?  
+Celuy qu'un beau dessein par malheur met en poudre  
+Quand il meurt genéreux vit eternellement.  
+Mais l'alarme est au cap [143], Rustan est hors d'haleine  
+Et ma fille est en pleurs.  
+
+
+### SCENE V                    
+ROXELANE, RUSTAN, CHAMERIE
+
+
+    ROXELANE.
+            Rustan qui vous amene ?  
+
+    RUSTAN.
+Madame vostre mort.  
+
+    ROXELANE.
+            Hé bien il faut mourir !  
+Qui me la vient donner je suis preste à souffrir⁎  
+Je veux tout ce que veut la puissance absoluë.  
+
+    RUSTAN.
+Madame, elle n'est pas encore resoluë,  
+Mais appaisez le Prince ou bien c'est faict de vous.  
+
+    ROXELANE.
+Mais quel crime Rustan, le peut mettre en courroux⁎ ?                   
+
+    RUSTAN.
+Auriez-vous bien tenu le discours qui l'anime ?  
+
+    ROXELANE.
+Quel discours ?  
+
+    RUSTAN.
+        Que pour vous son amour fust un crime ?  
+
+    ROXELANE.
+Ouy je l'ay dit Rustan, et ne m'en repens pas.  
+
+    CHAMERIE.
+O Dieu tout est perdu ! vous courez au trespas.  
+
+    RUSTAN.
+Vous courez donc, Madame, à vostre mort certaine,  
+Donc à l'amour du Roy vous preferez sa haine ?  
+Quelle fausse apparence a charmé vos esprits ?  
+Ou quel deffaut du Roy vous porte à ce mépris ?  
+Quoy ? ce Prince ou plustost ce heros adorable  
+Aymé de tout le monde, autant qu'il est aymable  
+Pour vous avoir portée aux suprémes grandeurs,  
+Et pour vous trop aymer n'aura que vos froideurs !              [144]  
+Voulez-vous noircir de ceste ingratitude !  
+Aprehendez enfin un traitement plus rude.  
+Et croyez que l'amour qui vous a fait monter  
+S'il se change en fureur⁎ vous va precipiter.  
+
+    ROXELANE.
+Quiconque sçait bannir la crainte et l'esperance  
+Des plus cruels tirans desarme la puissance,  
+La mort estant à tous une commune loy  
+Ne me déplaira point me venant de mon Roy.  
+
+    CHAMERIE.
+Mais, Madame, qu'a fait vostre cors à vostre ame  
+Pour vouloir la quitter par une mort infame.  
+
+    ROXELANE.
+Tous les genres de mort frappent également,  
+La cause en établit la honte seulement.  
+La bonne conscience a toujours la victoire,  
+Au milieu des tourmens elle augmente sa gloire,  
+Et contre un innocent le suplice ordonné  
+Noircit le condamnant, et non le condamné.  
+L'injustice est toujours à son auteur contraire,  
+Quoy qu'on die [145], il vaut mieux la soufrir que la faire.                  
+
+    RUSTAN.
+Ne vous y trompez pas, les Roys n'ont jamais tort,  
+Quiconque leur deplaist a merité la mort.  
+Leur colere, jamais n'est cruë illegitime,  
+Et leur opinion fait et deffait le crime.  
+
+    ROXELANE.
+Ouy bien chez les tirans et non pas chez les Roys.  
+
+    RUSTAN.
+Les Roys quant il leur plaist se dispensent des loys.  
+
+    ROXELANE.
+Ils doivent comme Dieux tenir droict la balance.  
+
+    RUSTAN.
+Ils sont Dieux en pouvoir, hommes en connaissance,  
+Qui par leurs interests et par leurs passions,  
+Ordonnent à leur gré dessus nos actions.  
+
+    ROXELANE.
+Soliman est trop juste.                                   
+
+    RUSTAN.
+            Il est trop en colere.  
+
+    ROXELANE.
+Mais si c'est sans sujet ?  
+
+    RUSTAN.
+            Mais s'il croit le contraire ?  
+
+    ROXELANE.
+Mais cette opinion ne dépend pas de moy.  
+
+    RUSTAN.
+Croyez-vous qu'un mespris n'offence pas un Roy ?  
+
+    ROXELANE.
+Moy mépriser mon Roy ?  
+
+    RUSTAN.
+            Vous persistés encore  
+En refusant d'aymer un Roy qui vous adore.                       
+
+    ROXELANE.
+Ce n'est point par mépris, luy mesme l'a voulu  
+Il me l'a commandé de pouvoir absolu.  
+
+    RUSTAN.
+Il vous l'a commandé ? que dites vous, Madame ?  
+Quelle confusion me jettés vous en l'ame ?  
+Il vous l'a commandé ? qui croiray-je des deux ?  
+Mais ce discours combat mon oreille et mes yeux [146],  
+Apres ce que j'ay vû je ne vous sçaurois croire.  
+
+    ROXELANE.
+Il me l'a commandé j'atteste sa mémoire.  
+
+    RUSTAN.
+Voyez-le.  
+
+    ROXELANE.
+        Je ne puis.  
+
+    RUSTAN.
+                Vous voulez donc mourir.               
+
+    ROXELANE.
+Si le destin le veut, Rustan, il faut perir.  
+
+    RUSTAN.
+Vous le voulez vous mesme et non la destinée.  
+
+    ROXELANE.
+Sans son ordre ma mort ne peut estre ordonnée.  
+
+    CHAMERIE.
+Par vos discours on voit que vous vous haïssez  
+Mais si vos interests ne vous touchent assez,  
+Pour vos fils et pour moy conservez vostre vie  
+La pieté, le sang, l'honneur⁎ vous y convie.  
+
+    ROXELANE.
+Ma fille differez de respandre ces pleurs  
+Possible que le tems calmera vos douleurs.  
+
+    CHAMERIE.
+O Ciel ! en quel estat je me treuve réduite,  
+D'un tel commencement qui ne craindroit la suite,  
+En moy tout est en trouble, et jusques dans mon flanc,                   
+Je sens en deux partis se diviser mon sang⁎ ;  
+Ces contraires partis se combattent l'un l'autre,  
+Le sang que j'ay du Roy semble choquer⁎ le vostre.  
+Jugés quel est le sort de vos fils et le mien  
+Si chacun de vous deux veut reprendre le sien [147].  
+N'est-il pas bien étrange et croyez-vous qu'un pere  
+Puisse aymer les enfans dont il hait la mère,  
+Si vous nous aymez tous allez voir l'Empereur,  
+Vous pouvez d'un regard desarmer sa fureur.  
+
+    ROXELANE.
+Ma fille asseurez-vous que dedans la mort mesme,  
+Je vous feray paroistre à quel point je vous ayme.  
+
+    CHAMERIE.
+Mais que voy-je, Madame, helas c'est fait de vous  
+Nous sommes tous perdus, bons Dieux assistez⁎ nous.  
+Ormin ne va jamais avec cet equipage.  
+Que pour executer les decrets de la rage.  
+
+    ROXELANE.
+Consolez vous ce mal ne s'adresse qu'à moy.                       
+
+
+### SCENE VI
+ROXELANE, RUSTAN, CHAMERIE, ORMIN, avec deux janissaires
+
+
+    ROXELANE.
+He bien faut-il mourir ; que vous a dit le Roy ?  
+Vous a-t-il commandé de luy porter ma teste ?  
+Si c'est sa volonté la voila toute preste,  
+
+    ORMIN.
+L'ordre d'executer un si cruel decret  
+Laisseroit en mon ame un éternel regret.  
+Mais, Madame, il est vray que son impatience  
+Ne peut plus sans sa mort supporter votre absence  
+Il nous a commandé de vous saisir, pour moy   
+Je me soûmets à vous.  
+
+    ROXELANE.
+             Non, non servez le Roy.  
+
+    ORMIN.
+L'affection⁎ des Roys imprime un caractere⁎,  
+Qui ne s'efface point sur un coup de colere ;                        
+Et ce n'est pas servir, que servir promptement  
+Un Prince qui s'emporte au premier mouvement :  
+Combien que vos mal-heurs vous trament des disgrâces,  
+De l'amour de mon prince en vous je voy des traces  
+Qui veulent mes respects en sorte que je croy  
+Que lors que je vous sers, je sers aussi le Roy  
+
+    ROXELANE.
+Non, non, servez le Roy.  
+
+    RUSTAN.
+            Que d'effroy⁎, que d'alarme.  
+
+    ROXELANE.
+Allons.  
+
+    CHAMERIE.
+Que ce départ me va couster de larmes.  
+
+    ORMIN.
+La colere du Roy me fait craindre pour vous.  
+
+    ROXELANE.
+Il luy faut obeyr, mesme dans son courrous.  
+
+
+## ACTE IV                        
+
+
+### SCENE PREMIERE.
+
+    SOLIMAN.
+STANCES.
+
+Traistre demon des vanités  
+Qui promets des felicités  
+Et ne donne que des miseres.  
+Trosne, couronne, éclat trompeur  
+Est-il quelqu'un heureux esclave des coleres,  
+Des grandeurs, de l'amour, de l'espoir, de la peur.  
+Que n'apelle t'on l'homme animal miserable  
+Plustost que raisonnable [148] ?  
+Allés flatteurs des Rois qui les appellez Dieux  
+J'éprouve en mon sort déplorable  
+Qu'il n'est point de Dieu hors les Cieux.  
+
+En vain je n'ay plus d'ennemis,  
+En vain tout l'univers soûmis  
+Ayme et craint ensemble mes armes                      
+Puisque chez moy mes passions  
+Me causent plus de mal, me donnent plus d'alarmes  
+Que la rebellion de mille nations.  
+Sous le fais⁎ des ennuis à peine je respire  
+Et dedans mon martire  
+La hayne arme mon cœur, l'amour retient mon bras  
+Et tour à tour me viennent dire  
+Vange toy, ne te vange pas.  
+
+Mais suis-je encor ce Soliman  
+Que dedans l'Empire Othoman      
+La fortune⁎ soumise adore ?  
+Ma vertu signalons ce jour,  
+La fortune⁎ est vaincue, il faut combatre encore,  
+Avec pareil succez, et la hayne et l'amour.  
+Mais passe plus avant et laisse à la mémoire  
+Pour comble de ma gloire  
+Que puisque en l'univers il ne m'est point resté  
+Sur qui remporter de victoire  
+Je me suis moy-mesme domté.  
+
+Mais elle a mesprisé son Roy  
+Suivons la rigueur de la loy,  
+La Justice et non la clémence,  
+Soyons plus juste et moins doux,  
+Punissons pour l'exemple et non pour la vangeance,  
+Non pour nostre interest mais pour celuy de tous.  
+Mais punir Roxelane ? Helas ce nom me laisse                  
+Encore de la tendresse,  
+Pardonnons luy plustost mais c'est trop combattu,  
+La clemence est une faiblesse  
+Et la rigueur une vertu.  
+Mais ne la jugeons pas sans ouyr sa deffence  
+Ormin, Osman, quelqu'un à moy, que l'on s'avance.  
+
+
+### SCENE II
+SOLIMAN, CIRCASSE, ORMIN, OSMAN.
+
+
+    CIRCASSE.
+Seigneur que vous plaist-il.  
+
+    SOLIMAN.
+                Ormin je parle à vous,  
+Amenez Roxelane.  
+
+    CIRCASSE.
+            O Dieux que ferons nous !  
+La paix est bien prochaine alors qu'on parlemente.                   
+
+    ORMIN.
+Dans un moment Seigneur, je la vous rends presente.  
+
+    CIRCASSE.
+Sa presence, Seigneur, est si plaine d'appas⁎  
+Qu'il faut luy pardonner ou bien ne la voir pas.  
+Quelle rigueur pourroit se deffendre des charmes⁎  
+De la langue, des yeux, des soupirs, et des larmes  
+Dont elle sçait l'usage avec un tel effaict  
+Qu'un coup d'œil peut guerir tout le mal qu'elle a fait.  
+Et ne la tenez plus coupable d'insolence,  
+Dites qu'elle use encore trop bien de sa puissance,  
+Qu'elle peut d'un clin d'œil renverser l'univers  
+Puis qu'elle en tient ainsi le vainqueur en ses fers.  
+Ainsi, Seigneur, ainsi ceux qui vous sont fidelles  
+Ne sont pas mieux traitez que ceux qui sont rebelles.  
+Ainsi mon fils pourtant l'ayné de Soliman  
+Que le Ciel destinoit pour l'Empire Othoman  
+Est banny de la Cour durant que Roxelane  
+Asseure pour les siens la puissance Othomane.  
+Mais Seigneur, faites mieux, faites un coup d'amy,  
+N'aymer que justement c'est n'aymer qu'à demy.  
+Vous signalerez mieux sa grace par deux crimes,  
+De Mustafa, de moy, faites luy deux victimes.  
+Et que nos deux cors mors l'un sur l'autre égorgés,  
+Portent à leur effais [149] ces [150] desseins enragés.                        
+Montrez, Seigneur, montrez en dépoüillant la feinte  
+Pour elle plus d'amour pour nous moins de contrainte.  
+Condamnez à la mort deux objects odieux.  
+Delivrez-en la Cour, delivrez-en ses yeux.  
+
+    SOLIMAN.
+Circasse, depuis quand cette humeur vous tient-elle !  
+
+    CIRCASSE.
+Depuis que vous portez le party⁎ d'un rebelle.  
+
+    SOLIMAN.
+Et pour vous et pour moy jugez plus sainement,  
+Vous me verrez son juge, et non pas son amant.  
+Mais voicy nostre ingrate.                               
+
+
+### SCENE III
+SOLIMAN, ROXELANE, CIRCASSE, ORMIN, OSMAN
+
+
+    SOLIMAN.
+            He bien belle Princesse !  
+Ma faveur vous offence et mon amour vous blesse  
+N'est-il pas vray.  
+
+    ROXELANE.
+        Seigneur, je ne contredis pas,  
+Je suis preste à signer l'Arrest de mon trespas.  
+Je n'examine point innocente ou coupable,  
+Je déplais à mon Roy je suis trop punissable,  
+Preparez des tourmens, s'il se peut mille mors,  
+Mon ame avec plaisir verra souffrir mon cors  
+Et bien que ma deffence eust un droit legitime  
+Si je le proposois je croirois faire un crime.  
+Je ne me deffens point contre vostre courrous  
+Je doy plus de respect à ce qui vient de vous,                        
+Que tardez vous, Seigneur ?  
+
+    SOLIMAN.
+            Quelle erreur vous transporte  
+En me connoissant mieux jugez d'une autre sorte.  
+Je suis Roy, non tiran, juste, non violent,  
+Je suis prompt à remettre, à punir je suis lent.  
+Je regne par les loix plus que par la couronne,  
+Je hay le crime seul, et non pas la personne.  
+Mais possible adjoutant la haine à vos mespris  
+Vous voulez l'imprimer dans les autres espris.  
+Vous voulez qu'on publie en cet Empire auguste  
+Qu'aujourd'huy Soliman a cessé d'estre juste  
+Puisqu'il a condamné sans avoir entendu  
+Et sans avoir souffert qu'on se soit deffendu.  
+Voyez jusqu'à quel point se monte vostre envie,  
+Pour me perdre d'honneur⁎ vous perdez vostre vie,  
+C'est bien loin du respect que vous dites avoir,  
+Mais si vous en aviez vous me le feriez voir.  
+Et vous me serviriez en vous servant vous mesme  
+Ostant ce que je hay d'avecques [151] ce que j'ayme.  
+C'est votre crime seul qui me déplaist en vous,  
+Si je n'en trouve point je n'ay point de courrous.  
+Je poursuis vostre crime et j'en veux la vengeance  
+Mais je serois ravy de voir vostre innocence.  
+Et c'est le plus grand mal qui ne puisse avenir  
+Si le crime prouvé m'oblige à vous punir                       
+
+    ROXELANE.
+Prince de vos sujects le Seigneur et le pere  
+Qui jugeant sans rigueur punissez sans colere,  
+Ne vous etonnez⁎ pas d'ouyr mon desespoir  
+Parler contre ma vie et trahir mon devoir.  
+Lors que vous connoistrez les maus où m'ont reduite  
+Mon foible jugement, ma mauvaise conduite,  
+Je sçay que vous laissant toucher à ma douleur  
+Vous direz que ma vie est mon dernier mal-heur.  
+Par un seul coup de vent ma barque est renversee,  
+Mon orgueil abbatu, ma gloire terrassée.  
+En perdant vos faveurs, j'ay perdu mon bon-heur,  
+J'ay perdu mes plaisirs, j'ay perdu mon honneur⁎.  
+Bref vous ayant perdu mon mal-heur est extreme  
+Et je croy profiter si je me pers moy-mesme.  
+Ce jour, ce triste jour m'abbat et me detruit :  
+Ce jour couvre les miens d'une éternelle nuit.  
+Seigneur, helas, Seigneur, vous m'avez ruinée  
+Par ceste liberté que vous m'avez donnée.  
+Ce souvenir me met les larmes dans les yeux.  
+
+    SOLIMAN.
+Je ne vous entens pas esclaircissez-vous mieux.                       
+
+    ROXELANE.
+Lors que j'estois esclave et sous vostre puissance  
+Mes volontez estoient de vostre dependance.  
+Je ne faisois pour moy ny le mal ny le bien,  
+Bref je ne pechois point puis que je n'estoit rien,  
+Que de tout l'Alcoran [152] je n'avois connoissance  
+Que des loix, du respect, et de l'obeyssance  
+Que j'eusse crû choquer⁎ refusant les plaisirs  
+Que l'amour de mon Prince offroit à mes desirs.  
+Mais depuis le dessein d'edifier ce temple  
+Ma fortune⁎ a souffert un revers sans exemple,  
+Je suis libre, Seigneur, vous l'avez souhaité,  
+Mais c'est ce qui me perd que ceste liberté,  
+Liberté qui m'aprend les lois et la science  
+De la Religion, et de la conscience.  
+Sainte Religion, mais trop severe loy  
+Qui me deffend l'amour d'entre mon Prince et moy.  
+Loy qui ne dépend point du Royal diademe  
+Qui vous deffend l'amour aussi bien qu'à moy-mesme  
+Et dont l'autorité m'a contrainte au refus  
+Qui trouble vostre esprit, qui rend le mien confus,  
+Qui me rend miserable au point de vous déplaire  
+Au point de meriter vostre juste colere.  
+
+    SOLIMAN.
+Quoy donc pour estre libre et dépendre de soy  
+La loy ne permet pas d'aymer encor son Roy ?                        
+Qui croiroit que des lois la divine ordonnance  
+Dispersast un sujet de son obeyssance ?  
+
+    ROXELANE.
+Le respect, le service, et la fidelité  
+Sont les droits attachés à la principauté,  
+Droits desquels on ne peut se dispenser sans crime,  
+Mais l'amour quelquesfois peut estre illegitime.  
+Oyez les Talismans, consultés les Dervis [153].  
+Leurs avis là dessus doivent estre suivis.  
+Mais puis qu'aux immortels ma liberté m'engage,  
+Seigneur, souffrez⁎ qu'en vous j'en adore l'image.  
+Recevez du plus pur de mes affections⁎  
+Au lieu de mon amour mes adorations.  
+Oubliez ce plaisir et terrestre et profane  
+Indigne desormais de la gloire Othomane.  
+Qu'à ces conditions j'embrasse vos genoux,  
+
+    SOLIMAN.
+Adieu, Circasse, adieu, Soldats retirez-vous.                        
+
+
+### SCENE IV
+SOLIMAN, ROXELANE.
+
+
+    SOLIMAN.
+Enfin je me voy libre et je puis sans contrainte  
+Vous dire les douleurs dont mon ame est atteinte.  
+Roxelane, il est vray que ny la Royauté  
+Ny le pompeux éclat qu'on nomme Majesté,  
+Ny les biens de la paix, ny la gloire des armes,  
+N'ont pour moy desormais que d'insensibles charmes⁎.  
+Je soûmets à vos pieds toutes ces vanités  
+Et mon Empire cede à celuy des beautés.  
+Ne considerez plus, ny sceptre, ny couronne,  
+Que celle que l'amour sur Soliman vous donne.  
+Regnez sur un Monarque en effet mal-heureux  
+Si vous luy contestés le titre d'amoureux,  
+Et qui foulant aux pieds l'orgueil du diademe  
+Contre vostre rigueur n'oppose que vous mesme.  
+Donc par ces premiers feux, par ces premiers desirs  
+Qui vous ont enseigné l'usage des plaisirs,  
+Par ces premiers liens dont nos ames unies  
+Ont autrefois gousté des douceurs infinies,                        
+Par ce divin esprit l'ornement de ma cour,  
+Par ces yeux ravissants, par le doux nom d'amour,  
+Par nos communs enfans, en un mot par vous mesme  
+Ne desesperez point un Prince qui vous ayme,  
+Et ne vous privez pas pour des formalitez  
+Des plaisirs qu'autresfois vous eussiez achetez.  
+Mais d'où viennent ces pleurs ?  
+
+    ROXELANE.
+                 Je sçay bien que les larmes  
+Pour combatre un grand mal sont de bien foibles armes  
+Mais soufrez-en l'usage à mes yeux languissans  
+Pour les maux que je cause et pour ceux que je sens.  
+Ma volonté pour vous invincible persiste  
+Mais en faveur des lois mon devoir luy resiste.  
+Et l'amour me pressant j'oppose à ses appas⁎  
+Je le puis, je le veux, mais je ne le doy pas.  
+
+    SOLIMAN.
+Vous ne le devez pas, vous estes insensible.  
+
+    ROXELANE.
+Ce que deffend la loy me tient lieu d'impossible.                   
+
+    SOLIMAN.
+Mais on dit que le prince est pardessus la loy.  
+
+    ROXELANE.
+Il est bien vray Seigneur, le prince et non pas moy  
+Je suis dessous la loy puis que je suis sujette.  
+
+    SOLIMAN.
+Mais j'en puis dispenser,  
+
+    ROXELANE.
+            Oüy quand vous l'avez faite  
+Mais ceste loy dépend de la Divinité,  
+
+    SOLIMAN.
+Pourquoy m'opposez-vous ceste difficulté ?  
+Mon interest à part considerez le vostre,  
+Pour garder une loy n'en rompés pas une autre  
+Ne tuez pas un Roy qui vous ayme si fort,  
+Et donnez luy plustost vostre amour que la mort.                   
+
+    ROXELANE.
+En defferant aux lois que mon devoir m'impose  
+Je soufre plus que vous les maux que je vous cause,  
+Mais vous changez plustost cet amour en bonté,  
+Faites vous tant d'état d'un reste de beauté  
+Que le tems a defia presque toute effacée  
+Et qui n'est desormais que dans vostre pensée.  
+Souffrez⁎ que je vous die en parlant contre moy  
+Que cette passion est indigne d'un Roy.  
+Cest amour vous fait tort.  
+
+    SOLIMAN.
+            Helas, belle insensible,  
+Que me conseillez-vous ? de faire l'impossible.  
+Que me conseillez-vous ? de quitter vos appas⁎,  
+C'est pour guerir un mal condamner au trespas.  
+J'ay converty l'amour en ma propre nature,  
+L'amour en me quittant creuse ma sepulture.  
+Et ne m'opposés point le deffaut de beauté,  
+Je trouve encore en vous tout ce qui m'a tenté  
+Et le tems qui hors vous ruine toutes choses  
+Respecte en vostre teint et les lis et les roses.  
+Si bien que son pouvoir n'agit sur vos beautez  
+Que pour les mieux empreindre en mes sens enchantez.  
+Aussi pourquoy les yeux triomphans des années  
+N'asserviroient-ils pas des testes couronnées,               
+S'ils triomphent du tems qui triomphe des Rois,  
+Quel Roy refuseroit d'obeir à leurs lois :  
+Mais si l'on doit payer l'amour de l'amour mesme  
+Dénierez-vous l'amour à mon amour extrême ?  
+
+    ROXELANE.
+Seigneur, que vos raisons ont de puissants appas⁎,  
+Mais la loy determine et ne raisonne pas,  
+J'oppose à vos raisons une force contraire,  
+La loy me le deffend donc je ne le puis faire :  
+Mais puis que vostre amour et le respect des lois  
+Inquietent vostre ame et la mienne à la fois,  
+Vous pouvez travailler au repos de deux ames,  
+Sacrifiés ma vie à l'excez de vos flames.  
+Ainsi par mon trespas finira vostre amour  
+Et sans rompre les lois je quitteray le jour.  
+
+    SOLIMAN.
+Pourquoy me donnez-vous ce conseil sanguinaire ?  
+Pourquoy pour ne commettre un crime imaginaire   
+Voulez-vous me noircir de deux vrais attentats  
+Et contre vos beautés et contre mes Etats ?  
+En vous faisant mourir sans cause legitime  
+Je commettrois moy-mesme un veritable crime.  
+Voulez-vous qu'à ma honte on publie en ma cour  
+Que je donne la mort en donnant mon amour                        
+Et si l'ame vit plus en la personne aymée  
+Qu'en celle qu'en effet elle rend animée,  
+En m'armant contre vous je m'arme contre moy  
+Et je laisse mon peuple et mes Estats sans Roy.  
+Mais ne retenés plus mon esprit en balance,  
+Ou ma vie, ou ma mort, prononcés ma sentence,  
+Voulez-vous point finir les tourmens où je suis ?  
+
+    ROXELANE.
+Je les voudrois finir, mais enfin je ne puis.  
+
+    SOLIMAN.
+Comment vous ne pouvés, vous ne pouvés, ingrate ?  
+C'est à ce coup qu'il faut que ma colere éclate,  
+Oüy ! superbe, les lois te font manquer de foy,  
+Oüy, les lois t'ont apris à mespriser ton Roy :  
+Donc que ces mesmes lois qui font ton insolence  
+Te viennent desormais soustraire à ma vengeance  
+Je seray de ton crime, en quittant la douceur,  
+Et tesmoin, et partie, et juge, et punisseur, [154]  
+Je te rends miserable au point que la mort mesme  
+Deniera son secours à ta misere extréme  
+Quelqu'un à moy.                                    
+
+
+### SCENE V
+SOLIMAN, ROXELANE, ORMIN, OSMAN, etc.
+
+
+    ORMIN.
+            Seigneur.  
+
+    SOLIMAN.
+                Qu'on la charge de fers  
+Qu'on la traisne vivante en l'horreur des enfers,  
+Qu'on luy creuse un abisme [155] au centre de la terre  
+Où son remors luy fasse une eternelle guerre,  
+Où detestant son crime, et sa vie, et son sort  
+En vain à son secours elle appelle la mort,  
+Enfin où sa fureur⁎ à sa perte animée  
+Enrage de despit de se voir desarmée.  
+Qu'on emporte ce monstre, Ormin je parle à vous,  
+Qu'on l'oste, sa presence augmente mon courrous.  
+
+    ROXELANE.
+O Seigneur accordez la mort à ma priere.  
+
+    SOLIMAN.     
+Je te l'accorderois si je voulois te plaire,  
+La mort est une grace et non pas un tourment  
+Pour ceux que je destine à mon ressentiment.  
+Tu la souhaitterois mille fois et ta vie  
+Aux plus cruelles morts portera de l'envie.  
+Qu'on l'oste, dis-je.  
+
+    ROXELANE.
+        Allons, mais helas en quel lieu  
+Où l'on faict souffrir⁎ l'ame avec le cors, Adieu.  
+
+    SOLIMAN.
+Helas, en cet adieu je sens de nouveaux charmes⁎  
+Qui me percent le cœur, qui me donnent des larmes.  
+Ormin, parlez à moy [156], traittez-là doucement,  
+Je veux que tout son mal soit la peur seulement.  
+Asseurez-vous pourtant toujours de sa presence,  
+Faut-il que cette affaire esbranle ma confiance,  
+Possible elle a raison, j'en veux estre éclaircy,  
+Assemblez le Conseil pour une heure d'icy.  
+
+
+## ACTE V                             
+
+
+### SCENE PREMIERE
+CIRCASSE, ACMAT
+
+
+    CIRCASSE.
+En ce jour où le Ciel doit monstrer à ma peine  
+Ou sa derniere grace ou sa derniere hayne,  
+Doy-je l'espoir s'offrant le prendre ou le quitter  
+Me doy-je réjouyr ou me doy-je attrister ?       
+Le perilleux état où je voy ma rivale  
+Me dit et l'un et l'autre avec raison égale,  
+Lors que je pense Acmat, que le Ciel a permis  
+Que je visse aujourd'huy sa teste en compromis,  
+Et que le Roy piqué d'un courroux⁎ legitime  
+Assemblast le Conseil pour juger de son crime,  
+J'ay quelque droit d'attendre un succez bien-heureux,  
+Qui rende à mes desirs un Monarque amoureux ;  
+Mais lors que je remets en mon ame incertaine,  
+Qu'en sa faveur l'amour combat encor' la hayne,  
+Que cet esprit est plein de ruses et d'appas⁎,                        
+Je crains je ne sçay quoi que je ne prevoy pas.  
+
+    ACMAT.
+Vous puis-je, ou plustost vous doy-je faire entendre  
+Un certain bruit qui court que l'on me vient d'apprendre.  
+
+    CIRCASSE.
+Pourquoy mon cher Acmat ?  
+
+    ACMAT.
+                Je crains.  
+
+    CIRCASSE.
+                    Fusse ma mort,  
+Je voy sans m'estonner et l'un et l'autre sort.  
+
+    ACMAT.
+On dit parmy le peuple et dedans la cour mesme  
+Que Soliman pressé de son amour extreme,  
+Et voyant que la loy luy deffend d'en user  
+Trouve un autre moyen !                               
+
+    CIRCASSE.
+            Quel ?  
+
+    ACMAT.
+                C'est de l'épouser,  
+
+    CIRCASSE.
+Qui ?  
+
+    ACMAT.
+Roxelane.  
+
+    CIRCASSE.
+            O Dieu vous m'annoncés ma perte  
+Il n'en faut plus douter la fourbe⁎ est découverte,  
+Je voy certainement, mais trop tard, mais en vain  
+Que tout ce qu'elle a fait tendoit à ce dessein.  
+Mal-heureux Mustafa, Circasse, infortunée  
+Verrez vous sans mourir la fourbe⁎ couronnée ?  
+Non, non, il faut mourir, plustost que de la voir,  
+Cedés craintes et soupçons, cedés au desespoir,  
+
+    ACMAT.
+Mais quoy devant le tems vous rendre misérable,  
+Peut estre c'est un bruit qui n'est pas veritable,  
+Le Conseil assemblé qu'on doit tenir icy,  
+Rendra dans peu de tems ce soupçon éclaircy.  
+Lors que plus puissamment le mal-heur nous outrage,                    
+C'est lors [157] qu'il faut combatre avec plus de courage  
+Et qu'il faut faire voir au destin rigoureux  
+Que quiconque a du cœur n'est jamais mal-heureux.  
+Quand à moy quelque coup de foudre ou de tempeste  
+Que le Ciel mutiné [158] fasse choir sur ma teste.  
+Je mourray genereux et toûjours combattant  
+Et si vous me croyez vous en ferés autant.  
+
+    CIRCASSE.
+Par vos Conseils, Acmat, mon ame se redresse [159],  
+Combattons jusqu'au bout le mal qui nous oppresse.  
+J'assiste⁎ à ce Conseil afin de m'opposer  
+A quiconque ouvrira le discours d'épouser  
+Et combien qu'à mon sexe on en ferme la porte  
+Si l'on m'en fait sortir ce ne sera que morte.  
+Ha Mustafa mon fils : mais voicy l'Empereur,  
+Que cette fuite Acmat redouble ma terreur.                       
+
+
+### SCENE II
+SOLIMAN, CIRCASSE, ACMAT, LE MUFTI, RUSTAN, ORMIN, OSMAN.
+
+
+    SOLIMAN.
+Amis dont la valeur jointe à l'experience  
+Affermit ma couronne, asseure ma puissance  
+Et partage avec moy le soin⁎ de tant d'étas  
+Desquels je suis le chef, vous les mains, et les bras,  
+Apres tant de combats, de murailles forcées  
+De trosnes abattus, de grandeurs terrassées.  
+N'ayant plus rien à vaincre il sembloit desormais  
+Que l'univers soumis nous forçast à la paix,  
+Mais l'Enfer enragé de voir que dans la guerre  
+Tout faisoit place aux coûs de nostre cimeterre [160],  
+Qu'en vain contre ma gloire il faisoit des projects  
+Puis que de ses supposts [161] je faisois mes sujects,  
+L'Enfer dis-je voyant le bon-heur de ma vie  
+Impenetrable aux coûs que lançoit son envie,  
+S'il ne me suscitoit de plus fors ennemis  
+Que l'univers entier qu'il me voyait soûmis,  
+A trouvé dans ce cœur plus grand que tout le monde                   
+Ce qu'il n'a peu trouver sur la terre et sur l'onde.  
+En moy mes ennemis, mais ennemis puissants  
+Et d'autant plus que l'ame est au dessus des sens,  
+Guerre plus que civille, et qui porte a l'extresme  
+Un Roy vainqueur de tous excepté de soy mesme.  
+Jugés où peut aller ceste sedition,  
+Une passion choque⁎ une autre passion.  
+L'irresolution force la patience,  
+La tendresse de cœur s'oppose à la vengeance,  
+Et dedans mon esprit triomphent tour à tour  
+La pitié, la colere, et la hayne et l'amour.  
+Cependant je fourny l'entretien à ces guerres,  
+J'aide les ennemis qui ravagent mes terres,  
+Et bien qu'ils tendent tous à ma destruction  
+Je suis pourtant le chef de chaque faction.  
+Et comme si j'estois l'ennemy de mon ame  
+J'en banny le repos et j'y porte la flame.  
+Pere si vos Conseils ne donnent guerison  
+A l'excez des tourmens que [162] souffre⁎ ma raison,  
+Ce cœur que les assaus des villes assiegées,  
+Ce cœur que les combats, les batailles rangées,  
+Que mesme son mal-heur n'a pû faire tomber,  
+Combattu par soy mesme est prest à succomber.  
+
+    LE MUFTI.
+Je viole les lois que le respect m'impose  
+Mais vous parlez d'effaits sans en dire la cause                   
+Quel moyen de connoistre un mal caché dedans  
+Et qui ne nous paroist que par les accidens ?  
+
+    SOLIMAN.
+Ha que me dites vous, ma playe est si profonde,  
+Que je crains d'en mourir en y portant la sonde [163] ;  
+Toutesfois il le faut : mais vous n'en doutez pas,  
+Roxelane en un mot cause tous ces combats,  
+Vous sçavez à quel point j'aymay ceste rebelle  
+Qu'aujourd'huy ses mespris me rendent criminelle.  
+Et qui pourtant encor' criminelle qu'elle est,  
+Malgré tous [164] ces mespris me captive et me plaist.  
+
+    LE MUFTI.
+Ceste guerre, Seigneur, vous est un champ de gloire,  
+Vous y pouvez gaigner une belle victoire.  
+Combattez seulement et par ceste action  
+Vostre vertu s'éleve à sa perfection.  
+De l'univers soûmis la victoire est commune  
+Entre-vous, vos soldats, et mesme la fortune⁎  
+Mais icy vous pouvez tout seul autant que tous  
+Et pour sortir vainqueur c'est assez que de vous.  
+Perdez ces passions dont la force maistrise  
+Seulement qui leur cede et craint qui les méprise,  
+Pour vaincre en ceste guerre un homme genereux  
+A besoin seulement de dire, je le veux.                    
+
+    SOLIMAN.
+Pompeux raisonnemens, magnifiques parolles,  
+Belles pour le discours, mais pour l'effait frivolles.  
+Au lieu de me donner les moyens de guerir  
+Père vous me donnez les moyens de mourir.  
+J'ayme mes passions et je vy de leur flame,  
+Je n'ay plus d'autre cœur, d'autre sang, ny d'autre ame,  
+Aussi ne veux-je pas les perdre pour jamais  
+Mais je voudrois bien mettre entr'elles quelques pays.  
+J'ayme vous le sçavez avec impatience  
+Celle dont le refus m'anime à la vengeance,  
+Et qui dit que les lois luy deffendent d'aymer  
+Un Monarque qui l'ayme et qu'elle a pû charmer.  
+Dites-moy ceste excuse est elle legitime ?  
+Et si ceste raison la dispense de crime,  
+Accordez s'il se peut mon amour et la loy,  
+Si vous ne voulez pas voir mourir vostre Roy  
+Au nom de Mahomet, père, je vous conjure.  
+
+    LE MUFTI.
+Je me trouve empesché dedans ceste avanture  
+Ceste affaire impliquée [165] offre de tous costés  
+A mon esprit confus mille difficultés.  
+Roxelane estant libre et de sa dependance  
+L'alcoran vous deffend d'avoir sa jouyssance.                      
+Sans déplaire aux Prophetes et violer les Lois  
+Vous ne pouvez l'aymer de mesme qu'autrefois. [166]  
+
+    SOLIMAN.
+Moy ne jouyr jamais des plaisirs de sa couche ?  
+
+    LE MUFTI.
+Icy vostre interest sensiblement me touche.  
+Je voy que cet amour vous embarrasse au point  
+Qu'il faut la posseder ou bien ne vivre point  
+Mais aussi ma raison se confesse debile  
+A trouver un moyen qui vous peust estre utile.  
+
+    CIRCASSE.
+Comme le traistre feint, Acmat voyez-vous pas  
+Comme il trompe le Roy, comme il luy tend des lacs. [167]  
+
+    LE MUFTI.
+Par un certain moyen qui me vient en pensée  
+On peut donner remède à vostre ame blessée  
+Et sans interesser, ny le Ciel, ny ses drois      
+Consilier ensemble et l'amour et les Lois.  
+Mais comme le remede au goust desagreable  
+Souvent au patient est le plus profitable :  
+Ainsi par ce moyen un peu fascheux d'abord                       
+Votre amour et les lois peuvent tomber d'accord.  
+Vous pouvez sans choquer⁎ les lois de conscience  
+De vostre Roxelane avoir la jouyssance.  
+
+    SOLIMAN.
+Pourquoy tardez vous tant à me le proposer.  
+
+    CIRCASSE.
+Que va-t'il dire, Acmat ?  
+
+    LE MUFTI.
+            Vous pouvez l'épouser.  
+
+    SOLIMAN.
+Epouser un esclave ha que dites vous, pere !  
+
+    LE MUFTI.
+Le remede est fâcheux mais il est salutaire.  
+He Seigneur qui des deux est indigne de vous  
+D'estre nay d'un esclave ou d'en estre l'épous.                      
+
+    ACMAT.
+Se peut-il faire ô Ciel que Soliman endure  
+Que l'on fasse à sa gloire une si grande injure ?  
+Qu'en faveur d'une esclave on viole les lois  
+Pour la faire monter au trosne de nos Rois ?  
+Cette fourbe⁎, Seigneur, de long-tems projettée  
+Paroist-elle à vos yeux sans estre rebutée,  
+Et ne voyez vous pas que ceste sainteté,  
+Ce Temple, ces Autels, et ceste liberté,  
+Tous ces refus d'aymer que faisoit Roxelane  
+Avoient pour leur object la couronne Othomane ?  
+Et ne voyez vous pas que pour vous enflammer  
+On vous cite la Loy qui vous deffend d'aymer ?  
+Mais par la passion de la voir couronnée  
+On se taist de la Loy qui deffend l'Hyménée.  
+Ainsi cet imposteur que Roxelane instruit  
+Dit tout ce qui luy sert, taist tout ce qui luy nuit.  
+
+    LE MUFTI.
+Je ne m'offence pas des discours dont l'envie  
+Par la bouche d'Acmat scandalise⁎ ma vie.  
+Et principalement parlant devant un Roy  
+Qui sçait qui le sert mieux ou d'Acmat ou de moy ?  
+Les Lois en cet état n'admettent point de Reynes  
+Il est vray, mais Acmat ces lois ne sont qu'humaines,  
+Pour l'interest public on les peut abroger                       
+Et comme un Roy les fist, un Roy les peut changer,  
+Mais les divines Lois sont Lois inviolables  
+Dont les decisions doivent estre immuables.  
+L'humaine Loy deffend aux Princes Othomans  
+D'estre jamais époux, mais seulement amans,  
+Mais aux mesmes le Ciel deffend la jouyssance  
+De toute femme libre et hors de leur puissance.  
+En fin jugez , Seigneur , qui doit ceder des deux  
+De la Loy de la terre ou de celle des Cieux.  
+
+    SOLIMAN.
+Qui des trois sur mon ame aura plus de puissance  
+De l'honneur⁎, de l'amour, ou de la conscience,  
+Epouser un esclave, ha conseil suborneur  
+Qui pour plaire à l'amour me ruine d'honneur⁎.  
+Non non suivons plustost un avis tout contraire  
+Qui ne veut mon amour, qu'il sente ma colere.  
+Elle en mourra l'ingratte, Ormin que de ce pas…  
+Mais que dis-je l'amour s'oppose à son trespas,  
+Ce traistre en sa faveur contre son ordinaire  
+Se joint à la raison pour vaincre ma colere  
+Et devant ma justice et contre tous mes drois  
+Pour elle il fait parler l'authorité des Lois :  
+Mais les Lois sont contre elle ; est-elle pas sujette,  
+Doit elle contester ce que son Roy projette.  
+Un sujet doit toujiours obeyr : mais un Roy  
+Ne luy doit commander que ce que veut la Loy.                       
+Contraires sentiments dont mon ame est battue  
+La douceur m'est contraire et la rigueur me tuë,  
+Sans remede mon mal ne se peut supporter  
+Et les medicaments [168] ne font que l'irriter,  
+Soit fourbe⁎, soit raison, soit vérité, soit feinte  
+Je sens de tous costez mon esprit en contrainte.  
+Moy contraindre à m'aimer au mespris de la Loy  
+Une personne libre et qui depend de soy ?  
+Mais pourrois-je étoufer ceste agréable flame  
+Qui fait mouvoir mon cors qui fait agir mon ame ?  
+Mais quoy pour contenter cette amoureuse ardeur  
+Suivray-je ce conseil fatal à ma grandeur ?  
+Epouser un esclave et contre la Loy mesme ?  
+Loy mais qui n'est qu'humaine, esclave mais que j'ayme,  
+Lois humaine et divine, amour et majesté,  
+Me tiendrez-vous tousjours en ceste extremité.  
+Mais pourquoy raisonner, où le Ciel determine,  
+Cedez humaine Loy cedés à la Divine,  
+Cedez raisons d'état aux volontez des Cieux, [169]  
+Cedez fiere grandeur aux coups de deux beaux yeux,  
+Cedez, cedez enfin, faux éclat, vaine gloire,  
+Le combat est finy l'amour à la victoire.  
+Qu'on la fasse venir.  
+
+    CIRCASSE.
+            O merveille des Rois  
+J'embrasse vos genoux pour la derniere fois.                      
+La derniere faveur dont je vous importune,  
+C'est la mort c'est la fin de ma triste fortune⁎,  
+Mort qui me sera douce apres ce que je voy  
+Si je puis l'obtenir par l'ordre de mon Roy.  
+Que je rende à vos pieds les restes de l'envie,  
+L'object des trahisons, la butte de l'envie [170],  
+Et si vostre faveur veut m'accorder la mort  
+Que celle de mon fils accompagne mon sort.  
+A Mustafa Seigneur faites misericorde  
+Qu'il meure par l'epée et non pas par la corde,  
+Qu'il meure par le fer et non par le poison,  
+Qu'il meure par vostre ordre et non par trahison.  
+Et ne voyez vous pas la fourbe⁎ découverte,  
+Que cet Hymen⁎conclud [171], conclud aussi sa perte,  
+Hymen⁎ que Roxelane a trouvé pour moyen  
+D'élever ses enfans à la perte du mien.  
+Que pour y parvenir les gens de sa menee  
+Vous viennent proposer cet infame Hymenée⁎.  
+Et que pour satisfaire à son ambition  
+On explique les Lois à son intention.  
+Mais, Seigneur, remontez jusqu'à vostre origine  
+Songez que vous sortez d'une race divine,  
+Du sang de Mahomet et de tant de grans Rois,  
+Et possedant leur trosne au moins gardez leurs Lois.  
+Mais si mal-gré l'honneur⁎ et la gloire Othomane  
+Vous estes resolu d'épouser Roxelane,  
+Afin de ne pas voir la honte de mon Roy  
+Je demande la mort pour mon fils et pour moi.                      
+
+    RUSTAN.
+Quoy, Seigneur, endurer une telle insolence ?  
+Quoy vous scandaliser⁎ de manquer de prudence ?  
+Ne parlez plus, Seigneur, de souveraineté  
+Puis qu'on peut s'opposer à vôtre volonté,  
+Quoy, donc en cet état cesse ceste maxime  
+Qu'on ne peut contester le souverain sans crime.  
+
+    CIRCASSE.
+Tout ce que ma raison tente inutilement,  
+Vostre fourbe⁎ la fait mais plus heureusement,  
+Vostre artifice a fait le crime qu'il m'impute,  
+Ainsi mes ennemis triomphent de ma cheute,  
+Et sur l'esprit du Roy leur pouvoir est si fort  
+Que mesme à ma priere on refuse ma mort,  
+Seigneur, accordez-moy ceste derniere grace.  
+
+    SOLIMAN.
+Vostre vie est à moy, j'en prens le soin⁎, Circasse,  
+
+    CIRCASSE.
+Et Seigneur pourriez-vous la deffendre des cous  
+De celle dont la fourbe⁎ a triomphé de vous !                       
+
+    SOLIMAN.
+J'en prends le soin⁎, vous dis-je, et cela vous suffise.  
+
+    CIRCASSE.
+Que peut un Empereur qui n'a plus de franchise.  
+
+    SOLIMAN.
+Mais j'apperçois l'object de mes contentemens.  
+
+
+### SCENE DERNIERE
+SOLIMAN, ROXELANE, LE MUFTI, CIRCASSE, ACMAT, RUSTAN, ORMIN, OSMAN
+
+
+    SOLIMAN.
+Venez chaste beauté, reine des Musulmans⁎  
+Venez de Soliman l'épouse legitime.  
+
+    CIRCASSE.
+Helas de cet Hymen⁎ je seray la victime  
+Le sang de Mustafa signera cet accord,  
+Que tardes-tu, Circasse, à la mort, à la mort.                       
+Vous qui vostre amitié dans nos mal-heurs assemble,  
+Acmat ne pouvant vivre allons mourir ensemble.  
+
+    ACMAT.
+Allons et faisons voir par un coup genereux  
+Que qui sçait bien mourir n'est jamais mal-heureux.  
+
+    ROXELANE.
+Que faites vous, Seigneur, ceste grace impreveuë  
+Remplit d'étonnement⁎ mon oreille et ma veuë,  
+Moy mal-heureux object de vos ressentiments,  
+Moy pour qui vos rigueurs preparoit des tourmens [172],  
+En un moment monter en ce degré suprême,  
+Cela n'est pas croyable et j'en doute moy-mesme,  
+Où me conduisez vous ?  
+
+    SOLIMAN.
+            En mon trône, en mon rang.  
+
+    ROXELANE.
+Où ne monta jamais personne de mon sang.  
+Seigneur ?  
+
+    SOLIMAN.
+     Montez-vous dis-je, et prenez la couronne  
+Que par les mains d'amour vostre vertu vous donne,                   
+Regnés dessus mon peuple et luy donnés des lois,  
+Je vous donne sur luy la moitié de mes drois,  
+Et combien que les lois semblent y contredire,  
+Je nomme vos enfans successeurs à l'Empire.  
+Vous autres puis qu'icy le sort vous a portez,  
+Prestés-luy le serment de vos fidelitez.  
+
+    LE MUFTI.
+Seigneur, je vous promets pour toute l'assistance  
+De vivre et de mourir sous son obeyssance.  
+
+    SOLIMAN.
+Que voulez-vous encor.  
+
+    ROXELANE.
+            En ce haut rang d'honneur⁎  
+Mon foible esprit ne peut comprendre son bon-heur,  
+Tant de biens que le Ciel par vos bontez m'envoye  
+Font que presque je meurs et de honte et de joye,  
+Mais, Seigneur, je proteste et le Ciel et la loy  
+De vous rendre toujiours l'honneur que je vous doy,  
+De vivre comme esclave et non pas comme Reine  
+En tres-humble sujette et non en souveraine.  
+FIN
+
+
+# Lexique
+
+Les termes signalés dans le texte par une astérisque sont brièvement définis dans ce glossaire. Ne sont retenus que les termes dont le sens a évolué depuis le XVII*e* siècle ou dont une acception n'est plus employée de nos jours. Les définitions sont extraites des ouvrages suivants :Dictionnaire de l'Académie française
+Dictionnaire universel
+Thresor de la langue francoyse, tant ancienne que moderne
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise
+AFFECTION.« Passion de l'ame qui nous fait vouloir du bien à quelqu'un, ou nous plaire à quelque chose. On le dit de l'amour et de l'amitié. » (F.)V. 3, 311, 607, 985, 1167AMITIÉ« Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. On le dit encore en matiere d'amour. » (F.)V. 1, 333, 506, 509, 557, 562, 566, 570APPAS« Au pluriel se dit particulierement en Poësie, et signifie charmes, attraits, agrément, ce qui plaist. » (A.) V. 341, 745, 1047, 1203, 1227, 1243, 1319ASSISTER.« Prester secours à quelqu'un, luy aider de sa faveur, de son argent, de son conseil. » (F.)V. 57, 824, 972, CARACTEREIci, « Empreinte, marque. Il se prend particulierement pour les figures dont on se sert dans l'escriture, ou dans l'impression. » (A.) V. 985 CHARME « Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration. » (F.)V. 241, 1049, 1178, 1297CHOQUER « Offenser »V. 1139, 1461« Déplaire »V. 412« Se contredire, s'opposer l'un à l'autre (…) s'entrechoquer » (A.).  V. 962, 1380COURROUX.« Mouvement impetueux de colere. » (F.)V. 892, 1313DÉCEVOIR« Tromper. » (A.)V. 239DEPESCHER « Faire quelque chose à la haste, en diligence. » (F.) V. 655, 689DOMMAGE« Perte, detriment, préjudice. » (A.)V. 674DON« Present, gratification. » (F.) V. 112EFFROY« Terreur soudaine qui donne une grande émotion ou surprise à la vue, ou au récit de quelque objet qui est à craindre » (F.)V. 220, 993ENNUY« Lassitude d'esprit, causée par une chose qui deplaist par elle-mesme ou par sa durée. » (A.)V. 581EVENEMENT« L'issuë, le succés de quelque chose. »V. 60, 696EVENTER« Découvrier, divulguer. » (R.) V. 122ÉTONNEMENT « Épouvante, sorte de surprise étonnante. » (R.)V. 1115, 1598FAIS« Est proprement vn trousseau soit de bois ou utre chose à porter sur le dos ou sur la teste lié de corde ou de hard, dont on appelle Portefais ceux qui se loüent à porter tels fardeaux. » (N.) Apparaît dans la pièce dans son sens figuré de fardeau. V. 1014FER(S). Métonymie pour désigner les armesV. 107, 356Désigne, au pluriel, les chaînes, carcans et menottes qui servent à retenir les prisonniers et les esclaves. « Il se prend aussi fig. et poëtiquement pour L'estat de l'esclavage, et pour L'engagement dans une passion amoureuse. »V. 176, 276, 678 (A.)FORTUNE « C'estoit autrefois une Divinité Payenne qu'on croyoit estre la cause de tous les évenements extraordinaires: au lieu que c'est en effet la Providence divine qui agit par des voyes inconnuës et au dessus de la prudence des hommes. » (F.) V. 14, 33, 45, 90, 135, 266, 478, 693, 709, 790, 796, 810, 821, 1021, 1023, 1142, 1414, 1542FOURBE.« Usez des formules de Finesse, ou Tromperie. » (N.) V. 1330, 1334, 1473, 1521, 1553, 1576, 1584FUREUR « Emportement violent causé par un déréglement d'esprit et de la raison. » (F.)V. 323, 836, 908, 1285HYMENEE « Signifie poëtiquement, le mariage. » (F)V. 208, 1482, 1554, 1555, 1558, 1590HONNEUR.« Temoignage d'estime, ou de soûmission qu'on rend à quelcun par ses paroles, ou par ses actions ; gloire, marque extérieure, par laquelle on fait connoître la veneration, et le respect qu'on a pour la dignité, ou le merite de quelcun. » (F.) V. 28, 103, 244, 247, 468, 488, 633, 650, 676, 954, 1102, 1124, 1502, 1504, 1565, 1615INCONTINENTUtilisé dans sa forme adverbiale. « Aussi-tost, au mesme instant, tout à l'heure. » (A.) Apparu au XIVème siècle, il est très usité au XVIIème siècle où il devint d'un usage général. V. 93, 525NAUFRAGE.« Ruïne. Débris de fortune, perte de biens, perte d'honneurs. » (R.) V. 132, 160, 698PIÉTÉ« Vertu Morale qui nous fait avoir de l'affection et du respect envers Dieu et les choses saintesV. 370, 371, 373, 804Se dit aussi du respect qu'on a pour ses pere et mere, des assistances qu'on leur donne. Enée a été fort vanté pour sa *pieté* envers son pere, pour l'avoir sauvé sur ses épaules du sac de Troye. » (F.) V. 381, 954PORTER LE PARTY« Se rendre partie pour quelqu'un, intervenir pour lui dans un procès. » (A.) V. 1074SANG« Se dit de la parenté, de l'extraction; de la race; de la communication du sang par la naissance. » (F.)V. 180, 363, 364, 368, 766, 954, 1563Plus utilisée que son acception organiqueV. 174, 199, 349, 350, 365, 602, 960 SCANDALISER (n.p.)« Prendre du scandale, s'offenser. » (A.)V. 1486, 1570SOIN*Soin*, signifie aussi, Sollicitude, peine d'esprit, soucy. (A.) V. 435, 447, 623, 624, 636, 1359, 1582, 1585SOUFFRIR.Se dit aussi des choses qui peinent, qui incommodent, qui fatiguent (F.)V. 845, 888, 1166, 1223, 1296, 1392SUPERBEApparaît dans son sens actuel de magnificience, de somptuositéV. 390Forme adjectivale qui a pour sens « Orguëilleux, arrogant, qui s'estime trop, qui presume trop de luy. » (A.)V. 1271TRAVERSERLe verbe est employé dans son sens figuré. « Faire obstacle, opposition, apporter de l'empeschement. » (F.)V. 371TRAVERSE« Obstacle, empeschement, affliction, opposition. » (A.)
+
+
+# Bibliographie
+
+
+## Sources
+
+
+### Édition de la pièceRoxelane
+
+
+
+### œuvres de l'antiquitéPoétique
+
+
+
+### Ouvrages des XVIe-XVIIIe sièclesLa Pratique du Théâtre
+Inventaire de l'histoire generale des Turcs. Contenant leurs guerres, conquestes, seditions, & autres affaires remarquables, tant contre les Chrestiens, Grecs... que contre les infidelles Tartares, Perses... Tiré de Chalcondyle athenien... jusques en l'année mil six cens dix-sept…Et nouvellement reveu, continué & augmenté... jusques à la presente mil six cens vingt-huict. Avec la mort & genereuses actions de plusieurs seigneurs...
+Histoire generale du serrail et de la cour du Grand Seigneur empereur des Turcs. Ensemble l'Histoire de la cour du roy de la Chine
+Il Solimano
+La Soltane
+Lettre du Père Joseph Des Mares, prêtre de l'Oratoire de Jésus, à monseigneur, monseigneur l'archevêque de Paris
+Roxelane
+Histoire de la décadence de l'Empire Grec et establissement de celuy des Turcs
+Oeuvres complètes
+Œuvres et lettres
+Les Poésies du P. Pierre le Moine
+Œuvres complètes
+Le Mémoire de Mahelot
+La Rhodienne, ou La cruauté de Soliman
+Théâtre complet, tome I : La Sophonisbe, Le Marc-Antoine ou La Cléopâtre, Le Grand et Dernier Solyman ou La Mort de Mustapha
+Leur meurtre exécrable et inhumain commis par Soltan Solyman, … en la personne de son fils aisné Soltan Mustaphe
+Bajazet
+Oeuvres complètes
+Ibrahim ou l'Illustre Bassa
+Ibrahim ou l'Illustre Bassa
+Solyman II, quatorziesme empereur des Turcs
+
+
+
+## Instruments de travail
+
+
+### Ouvrages sur la langue et la rhétorique dramatiques
+
+
+#### Dictionnaires et ouvrages des XVIe et XVIIe sièclesDictionnaire de l'Académie Française
+Dictionnaire Françoislatin, contenant les motz et manieres de parler Francois, tournez en Latin
+Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+Le Grand dictionnaire historique ou mythologique ou le mélange curieux de l'histoire sacrée et profane...
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise... avec les termes les plus connus des arts et des sciences
+Remarques sur la Langue Françoise
+
+
+
+#### Dictionnaires modernesDictionnaire encyclopédique du théâtre
+Dictionnaire des lettres françaises, le XVIIsiècle
+
+
+
+#### Ouvrages modernesSyntaxe française du XVIIème siècle
+Introduction à l'analyse des textes classiques
+Le Langage dramatique
+Lire le théâtre I
+Lire le théâtre II : L'école du spectateur
+Lire le théâtre III : Le dialogue de théâtre
+
+
+
+### Ouvrages bibliographiquesBibliographie de la littérature française du 17ème siècle
+
+
+
+### RecensionsL'ère baroque en France Répertoire chronologique des éditions de textes littéraires
+Écrivains de théâtre, 1600-1649
+History of French Dramatic Literature in the Seventeenth Century
+Dictionnaire portatif des Théâtres
+Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV : 1659-1715
+Histoire du théâtre françois depuis ses origines jusqu'à présent
+Dictionnaire des théâtres de Paris
+Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1671 par forme de dictionnaire
+
+
+
+## Études
+
+
+### Études sur la littérature, l'histoire et l'esthétique du XVIIe siècleHistoire de la littérature française du XVIIsiècle
+Morales du grand siècle
+Le Masque et le visage. Du baroque espagnol au classicisme français
+The Turk in French History, Thought and Literature (1520-1660)
+Jean Racine
+Structure du sérail : la fiction du despotisme asiatique dans l'Occident classique
+L'Orient dans la littérature française au XVIIe et au XVIIIe siècles
+Aspects du vocabulaire de Jean Racine
+Naissance de l'écrivain
+Histoire de la littérature française – Le Classicisme
+
+
+
+### Études sur le théâtre du XVIIe siècle
+
+
+#### OuvragesLe Théâtre de l'Hôtel de Bourgogne 1548-1680
+Le Théâtre de l'Hôtel du Marais
+Essai de génétique théâtrale : Corneille à l'œuvre
+Esthétique de l'identité dans le théâtre français (1580-1680) : le déguisement et ses avatars
+Passions tragiques et règles classiques : essai sur la tragédie française
+La Dramaturgie classique en France
+
+
+
+#### ArticlesFortune and fatality : performing the tragic in early modern France
+"Turcs et Turquesques" nell'« Ibrahim » di Georges de ScudéryLo Straniero
+Le mythe Turc et son declin dans les relations de voyage des Europeens de la Renaissance
+Complots et conjurations dans l'Europe moderne
+Tangence
+Littératures classiques
+
+
+
+#### Études sur le genre tragi-comiqueLa Tragi-comédie de Corneille à Quinault
+La Tragi-comédie
+La Tragédie classique en France
+
+
+-------
+
+
+[1]  La Bibliothèque Nationale de France l'identifie en invoquant comme source une lettre datée du 10 mai 1643 du Père Joseph Des Mares, prêtre de l'Oratoire de Jésus, à Monseigneur l'Archevêque de Paris. Cette lettre, que nous avons pu consulter, prend la forme de la dénégation de paroles injurieuses qu'il aurait formulées contre le Concile de Trente. (Cette lettre ne fait pas mention de la publication, pourtant concomitante, de Roxelane. Il est par ailleurs peu probable qu'un religieux, ainsi incriminé, puisse librement être autorisé à publier une pièce dans la même période). 
+
+[2]  PARFAICT C., *Dictionnaire des Théâtres de Paris*, 1767, Rozet, tome second, p.290. 
+
+[3]  PARFAICT C., *Histoire du théâtre français*, 1745, P.G. Le Mercier et Saillant, p. 248 (a). 
+
+[4]  LÉRIS de A., *Dictionnaire portatif et littéraire des théâtres*, C. A. Jombert, 1763 
+
+[5] Le nom connaît diverses orthographes : Desmares, Des Mares, Desmarres, Des Marres, Desmarets. 
+
+[6]  PARFAITC C., *op. cit.*, vol.13, p.18. 
+
+[7]  LANCASTER H.C., *A history of French dramatic literature in the seventeen century, Part II, The period of Corneille 1635-1651.*
+
+[8]  DANA ROUILLARD C., *The turk in french history, thought and litterature* (1520-1660), 1951. 
+
+[9] « un certain Desmares, par ailleurs inconnu » 
+
+[10]  Base de données CESAR. *www.cesar.org.uk.*
+
+[11] François Leclerc du Tremblay, dit le Père Joseph, est connu pour son rôle de conseiller diplomatique auprès de Richelieu. 
+
+[12]  ROUTROU J., *La Belle Alphrède*, Paris, A. de Sommaville et T. Quinet, 1639. 
+
+[13]  L'HERMITE T., *Osman*, Paris, G. de Luynes, 1656. 
+
+[14]  SCHERER J., *La Dramaturgie Classique en France*, Paris, Librairie Nizet, 2001, p.154. 
+
+[15]  MARTINO, P., *L'Orient dans la littérature française au XVIIème et XVIIIème siècles*, Genève, Slatkine, 1970, p.44. 
+
+[16]  MARTINO P., *op. cit.*, p.51.
+
+[17]  Sylvie Requemora cite ici la préface *d'Ibrahim ou l'Illustre* Bassa établie par Evelyne Dutertre, Paris, STFM, 1998.
+
+[18]  REQUEMORA S., *Les « turqueries » : problèmes de définition d'une vogue théâtrale en mode mineur, Littératures classiques*, 51, 2004, p. 134.
+
+[19]  MOFFAN DE N., *Le meurtre execrable et inhumain, commis par Soltan Solyman, grand Seigneur des Turcs, en la personne de son fils aisné Soltan Mustaphe, traduit en langage françois du latin de Nicolas de Moffan*, par J.V., Paris, chez Jean Caveille, 1556.   
+
+[20]  MOFFAN N., *op.cit.* cité par Clarence Dana Rouillard, *The Turk in French History, Thought and Literature (1520-1660)*, Paris, Boivin, 1941, p.457.  
+
+[21]  L'expression est de Pierre Martino, *op.cit.* p.134.
+
+[22] *Histoire générale du Sérail et de la* cour *du Grand Seigneur* 1624, rééd. 1626, 1638, 1652, *Histoire générale de la religion des Turcs avec la naissance et mort de leur prophète Mahomet* 1625, rééd. 1632, 1640, 1741.
+
+[23] Nous soulignons.
+
+[24]  BAUDIER M., *op. cit.*, livre XII, chap. 15, *Roxelane la plus cherie des Sultanes…*, p. 344.
+
+[25]  BAUDIER M., *op. cit.*, livre XII, chap.15, *Feinte dévotion de Roxelane pour arriver à la liberté.*
+
+[26] Ibid.
+
+[27] Nous parlons ici de Circasse qui n'est pas nommée dans le corpus de sources historiques que nous avons déterminé. 
+
+[28]  DANA ROUILLARD C., *op. cit.*, « L'histoire de Soliman et de Mustapha » p.421, « l'histoire de Soliman et d'Ibrahim » p.441, « l'histoire de Soliman et de Roxelane » p.457 et « l'histoire de Soliman, Bajazet et Selim » p. 462. 
+
+[29]  DANA ROUILLARD C., *op. cit.*, p.458. 
+
+[30]  DANA ROUILLARD C., *op. cit.*, p.553. Nous traduisons : « Nous avons découvert ici le récit de l'habile stratagème de Roxelane par lequel elle força Soliman à l'épouser, ainsi que l'ont raconté les historiens et le dramaturge Desmares. Pour sa pièce, *Roxelane* (1643), il semblerait s'être inspiré de la réécriture du roman de Mlle de Scudéry, elle même l'ayant probablement emprunté à Chalcondyle ou Baudier. Cependant, pour introduire son récit, Madeleine de Scudéry relate l'histoire d'un pacha sournois et intrigant nommé Bajazet, qu'elle identifie comme étant le père de Roxelane, conférant ainsi quelque origine héréditaire à l'absence de scrupule de Roxelane. »
+
+[31]  PELLEGRINI R., « *Turcs et turquesques nell' Ibrahim di Georges de Scudéry », Lo Straniero*, Roma, Bulzoni, 1997, vol II, p.563. Nous traduisons : « Scudéry, sans rien justifier, veut distiller une certaine humanité dans les traits du personnage de la sultane, arrivée à la cour jeune et ambitieuse, élevée par un père qui était alors en exil et empli de haine pour le sultan. »
+
+[32] SCUDERY M., Ibrahim ou l'Illustre bassa, Paris, éd. P. Witte, 1641, Seconde partie, livre X, p.365. 
+
+[33]  OGIER F., Préface de *Tyr et Sidon*, dans *Tyr et Sidon* de Jean de Schélandre, Paris, R. Estienne, 1628 ; MARESCHAL, préface (non paginée) de *La Généreuse Allemande*, Paris, Pierre Rocolet, 1631 ; GASTÉ Armand, *La Querelle du Cid*, « Discours à Cliton », Paris, Welter, 1899, in-8° : ces textes se trouvent dans l'ouvrage de Giovanni DOTOLI (*Temps de préfaces : le débat théâtral en France de Hardy à la querelle du Cid*, Paris, Klincksieck, 1996).
+
+[34] Au printemps 1637.
+
+[35]  PARFAICT, *op.cit.*, p.249.  
+
+[36]  ARISTOTE, *Poétique*, XIV, 1453 b 14-31. 
+
+[37]  BABY H., *La tragi-comédie de Corneille à Quinault*, Paris, Klincsieck, 2001, p.108. 
+
+[38]  « … il n'y a point de définition précise du héros. Mais le spectateur ni le lecteur ne s'y trompent : ils savent bien que les héros sont ceux qui les intéressent, qui font battre leur cœur ou qui séduisent leur esprit » : SCHERER J., *La dramaturgie classique en France*, Paris, Nizet, 2001.
+
+[39] « désir de dominer ».
+
+[40]  « Quand la perte est vengée, on n'a plus rien perdu. » CORNEILLE P., *Horace*, IV, 5.  
+
+[41] Nous nous référons ici à la liste liminaire. 
+
+[42]  “her condition as generator of Ottoman blood” CHATAIGNIER D., « Roxelane on the French Tragic Stage : 1561-1681 », *Fortune and fatality : performing the tragic in early modern France*, edited by Desmond Hosford and Charles Wrightington, Cambridge Scholars Publishing, 2008, p.105. 
+
+[43]  BABY H., *op. cit.*, p.170. 
+
+[44]  FURETIÈRE A., *Dictionnaire universel*, La Haye et Rotterdam, Arnout et Reinier Leers, 1690, art. « chemin ». 
+
+[45]  REQUEMORA S., *Les turqueries : une vogue théâtrale en mode mineur*, Littératures classiques, 51, 2004, p.142. 
+
+[46]  BABY H., *op. cit.*, p.142. 
+
+[47]  BARTHES R., *Essais critiques*, Paris, Seuil, 1991. 
+
+[48]  FORESTIER G., *Esthétique de l'identité dans le théâtre français (1580-1680) : le déguisement et ses avatars*, Genève, Droz, 1988, p.482. 
+
+[49]  Nous nous référons ici à l'article de D. Chataignier, *op.cit.*, p.106.
+
+[50]  LE MOYNE P., *Odes*, cité par D. Chataignier, *op.cit.*, p. 106. 
+
+[51]  FURETIERE, *op.cit.*, art. « couronne ». 
+
+[52]  Sur la question de la ponctuation et plus spécifiquement sur le débat entre les partisans de sa modernisation et ceux s'attachent à préserver la déclamation classique voir Alain Riffaut, *La Ponctuation du théâtre imprimé au XVIIème siècle*, Droz « Travaux du Grand Siècle », 2007. 
+
+[53]  Mademoiseille de Soucarrière - aussi orthographié Souscarrière - est parente du seigneur de Souscarrière, Pierre de Bellegarde, Marquis de Montbrun figurant dans la *Bibliographie des recueils collectifs de poésies (1597-1700)* publiée par Frédéric Lachèvre (Paris, Champion, 1922). Le seigneur de Souscarrière est également connu pour avoir perfectionné les chaises à porteur sous Louis XIII (1619), permettant l'invention des fiacres en 1640.    
+
+[54]  Le *Dictionnaire de l'Académie* rapproche « se mettre en hazard » de « courir hazard » ou de « s'exposer au hazard ». 
+
+[55] L'édition originale présente conjointement les orthographes « effait » (deux occurrences dans la préface, vv.1398, 1422) et « effet » (vv.25, 1183, 1262). 
+
+[56] Le Privilège du Roy est l'autorisation exclusive d'imprimer un ouvrage, après qu'il ait passé la censure. 
+
+[57] Dit Soliman le Magnifique (1494/1520-1566), fils de Sélim Ier (1470-1520), il est le dizième sultan de la dynastie ottomane. 
+
+[58] Roxelane (v.1500-1558), dite la Rhuténienne de par son origine galicienne – la Galicie est située au sud de la région aujourd'hui ukrainienne de Volhynie -, est la favorite de Soliman. 
+
+[59] Le titre était réservé aux esclaves qui ont eu un fils du Sultan. 
+
+[60] C'est le chef de la religion musulmane vivant à Constantinople. Il est l'interprète du Coran et décide des questions de la loi. 
+
+[61] *Bassa* – aussi ortographié bassat et qui a donné pacha- : « chef supérieur de l'armée, gouverneur de province (dans l'Empire ottoman) » *Compte de Pierre de Zande*, Ch. des Comptes de Lille, Arch. du Nord ds Gdf. *Compl.*
+
+[62] *Janissaire* : « Soldat de l'infanterie Turquesque. Les Janissaires sont des enfants de tribut que les Turcs levent sur les Chrestiens, et qu'on esleve pour servir à l'armée. L'Aga ou le Chef des Janissaires est un des premiers Officiers de l'Empire. Toute la puissance du Turc depend des Janissaires. Ce fut Mahomet II. qui establit les Janissaires pour la garde et seureté de sa personne. Menage aprés Vossius derive ce mot de genizeri, qui signifie en *Turc novos homines*, ou *milites*; et non pas de *janua*. » (Furetière)
+
+[63] *Serrail* : « C'est un Palais d'un Prince, d'un Grand Seigneur en Orient. On le dit par excellence du Palais où habite le Grand Seigneur à Constantinople, où il tient sa Cour, où logent ses Concubines. » (Furetière) 
+
+[64]  On peut dire également *de qui* et *dont*. Ex. « Un traître qui n'est hardi qu'à m'offenser, De qui nulle vertu n'accompagne l'audace » Jean Racine, Mithridate, II, 4
+
+[65] Circasse insiste sur le fait qu'elle attend de son interlocuteur un avis qui ne dépend pas de leur rapport d'intimité. 
+
+[66] C'est un cas de diérèse. La diphtongue est divisée en deux syllabes. On compte dans la pièce cent quatre réalisations du phénomène. En voici les occurrences : « affection » (vv.3, 311, 605, 985, « affections » v.1167) , « ambition » (vv.27, 148, 201, 323, 536, 787, 1554), « maintient » (v.56), « déffiance » (v.62), « glorieux » (v.103), « présomption » (vv.147, 215) « diademe » (vv.154, 434, 1149), « execution » (v.216), « violence » (v.217), « possession » (v.251), « aversion » (v.312), « protestations » (v.336), « adieu » v.340, « impieté » (vv.368, 411) « pieté » (vv.370, 371, 373, v.381) « pieux » (v.376), « capricieux » (v.394), « délicieux » (v.397), « victorieux » (vv.404, 429) « imagination » (vv.407, 408), « pitié » (v.417), « nations » (v.511), « passion(s) » (vv.512, 931, 1380 deux occurrences, 1417, 1476), « condition » (vv.535, 553, 1171), « anciennes » (v.541), « inviolablement » (v.543), « amitié » (vv.562, 566), « souhais » (v.595, 637), « perfection » (vv.608, 1412), « crée » (v.613), « permission » (v.638), « edifier » (vv.638, 657, 1141), « pieux » (v.648), « perfectionne » (v.651), « precieux » (v.652), « glorieux » (v.678), « possession » (v.708), « occasion » (v.721), « détestation » (v.744), « rébellion » (vv.778, 784), « résolution » (v.788), « conscience » (vv. 917, 1456, 1497), « cruë » (v.925), « opinion » (v.926), « action(s) » (vv.932, 1411), « opinion » (v.935), « confusion » (v.942), « pieté » (v.954), « impatience » (v.981), « odieux » (v.1071), « souhaité » (v.1143), « Religion » (vv.1146, 1147), « adorations » (v.1168), « inquiètent » (v.1248), « Sacrifiés » (v.1250), « confiance » (v.1302), « experience » (v.1357), « sedition » (v.1379), « irresolution » (v.1381), « patience » (v.1381), « destruction » (v.1387), « faction » (v .1388), « impatience » (v.1429), « patient » (v.1453), « viole » (v .1466), « inviolables » (v.1488), « décisions » (v .1489), « intention » (v.1555). 
+
+[67] Circasse parle de Mustapha, le premier fils de Soliman qui doit normalement lui succéder. 
+
+[68]  « *À* indiquant un but s'employait là où nous nous servons de la préposition *pour*. » Haase, *Syntaxe française du XVIIème siècle*, Paris, Delagrave, 1935, § 123, p.325.   
+
+[69] Raison. 
+
+[70]  « Ce n'est que récemment qu'on a restreint l'emploi de où se rapportant aux choses. Au XVIIème siècle, il n'équivaut pas seulement à un relatif construit avec dans, mais aussi à un relatif construit avec à dans le sens d'un datif. » Haase, *op.cit.*, § 38, p.77.  
+
+[71]  Roxelane se distingue par « son excellente beauté » (Chalcondyle, *Histoire de la décadence de l'empire grec et de l'établissement de celui des Turcs*, chap. XLVI, p.616).  
+
+[72] *Agissant* : « Vif, actif, diligent. » (Richelet) 
+
+[73] *Degré d'honneur* : « En Morale, on dit qu'il faut aller … au plus haut degré d'honneur, de gloire, de vertu. » (Furetière) 
+
+[74] La foi. 
+
+[75] *Possible* (vv. 129, 321, 798, 956, 1095, 1303) est un adverbe d'affirmation fréquent au début du XVIIème siècle. Voir Haase, *op. cit.*, § 97, p. 235.
+
+[76]  “Les verbes *tâcher, essayer, s'efforcer*, se construisent aujourd'hui généralement avec *de* devant un infinitif, tandis qu'ils s'employaient très souvent avec à au XVIIe siècle. » (Haase, *op. cit.*, § 124, p. 330).
+
+[77] *Office* : « Secours ou devoir reciproque de la vie civile. C'est un office d'ami, d'advertir un homme de ses deffauts. » (Furetière)
+
+[78]  Le Muphti souligne l'audace de Roxelane dont l'excès de *libido dominandi* peut lui être préjudiciable. *Faire naufrage au port* : « Proverbe qui signifie échoüer quand on est hors de péril et qu'on est arrivé, réüssir mal sur la fin de quelque afaire. » (Richelet). 
+
+[79]  Depuis l'emprisonnement de Bajazet Ier (1360-1413) et de sa femme, la loi ottomane interdit aux sultans de se marier par crainte du déshonneur. Cette interdiction figure notamment dans Chalcondyle, *op.cit.*, p.616. 
+
+[80] *Tamerlan* (1336-1405) : guerrier turco-mongol du XIV*e* siècle conquérant d'une grande partie de l'Asie centrale et de l'Ouest.  
+
+[81] *Scitique* (adj) renvoie aux Scythes qui sont un ensemble de peuples nomades, d'origine indo-européenne, ayant vécu dans les steppes eurasiennes entre le VII*e* siècle et le III*e* siècle av. J.-C. Avec l'arrivée de tribus turques au Turkestan, région d'Asie centrale, les scythes furent considérés comme Turcs.  
+
+[82]  Ces vers renvoient à un célèbre épisode de l'Histoire turque. Le 20 juillet 1402, dans la plaine d'Ankara, Tamerlan anéantit l'armée ottomane et emprisonne Bajazet. Contraint de suivre Tamerlan dans ses campagnes, enfermé dans une cage de fer selon certaines sources, Bajazet meurt en captivité à Aksehir, peut-être par suicide. La traduction de Petis de la Croix de *L'Histoire de Tamerlan* (1722) rapporte cependant que Bajazet est mort d'une attaque d'apoplexie le 23 mars 1413, dans le camp de Tamerlan.   
+
+[83]  Par métonymie, le *sang* désigne l'hérédité, le lien organique qui unit les membres d'une même famille. Le *sang paléologue* est celui des Paléologues, noble famille de de Byzance qui régna sur l'empire byzantin au XII*e* siècle.
+
+[84] La femme de Bajazet ainsi que ses filles auraient été transférées dans le harem de Tamerlan.
+
+[85] *Dans demain* : d'ici demain. 
+
+[86] *Tenir un chemin* : « Se dit figurément en choses morales, des voyes, des dispositions, des moyens qu'on a pour parvenir à quelques fins. » (Furetière) 
+
+[87] *Immortels* : Nom poétique pour désigner les Dieux. 
+
+[88] Cette fois. 
+
+[89]  Soliman a élevé - *agrandi* - Roxelane en abaissant Circasse. Autrement dit, il a pris un peu de la grandeur de Circasse pour la donner à Roxelane. 
+
+[90] *Cause* (en termes juridiques) : « Principe, ce qui fait qu'une chose est. » (Dictionnaire de l'Académie) 
+
+[91] *Débris* : « Ce qui reste d'une chose rompuë, ce qui reste d'une chose brisée. » (Richelet)
+
+[92] Forme archaïque du participe passé recensée dans le dictionnaire de Robert Estienne, art.hair. 
+
+[93] *Brisons-là* : « Lors qu'on veut empescher quelqu'un de continuer un discours qui desplaist, et luy imposer silence. » (Dictionnaire de l'Académie)
+
+[94]  « *Mal* servait de négation lorsqu'il précédait des adjectifs ou des adverbes. Joint à ces derniers, il a formé des mots composés plus nombreux encore au XVII*e* siècle qu'aujourd'hui. » Haase, *op. cit.*, § 99, p. 249.  
+
+[95] *Protester sa foy* : promettre sa fidélité.  
+
+[96] *Se donner de garde* : surveiller quelqu'un pour empêcher qu'il ne nuise. 
+
+[97]  Vers recensé in D. Rolland, *Esprit des tragédies et tragi-comédies qui ont paru depuis 1630 jusqu'en 1761, par forme de dictionnaire*, chez Brocas et Humblot, Dufour et Dessain, 1762, vol.2, p.82, art. « Ennemi ».  
+
+[98]  Sur l'usage métonymique, voir note 34. Le *sang Othoman* est celui de l'émir Othman (ou Osman), fondateur de la dynastie turque au début du XIVème siècle. Atalide est dans *Bajazet* présentée comme « Fille du Sang ottoman ». Voir Racine, *Œuvres complètes*, vol.I, Paris, Gallimard, Bibliothèque de la Pléiade, 1999. 
+
+[99] Roxelane a eu en réalité cinq fils de Soliman : Abdullah, Bayezid, Dijhangir, Selim II et Memhmed. Ici, elle ne mentionne probablement pas Abdullah (1522-1526), mort jeune. 
+
+[100]  Revirement significatif du déchirement de Roxelane entre son statut de mère et sa condition de *génératrice du sang ottoman*. Cf. *Fortune and fatality : performing the tragic in early modern France*, Desmond Hosford and Charles Wrightington, Cambridge Scholars Publishing, 2008, David Chataignier, art. *Roxelane on the french stage.*  
+
+[101]  Roxelane renvoie à la piété qu'on doit à ses parents. Voir *piété* Lexique.  
+
+[102] *Intéresser* (ici) : « Donner part à quelqu'un en quelque chose d'utile, faire qu'il y trouve du profit. » Académie, 1694.   
+
+[103]  Roxelane est ici associée à l'image de la *femme forte* décrite par Pierre Le Moyne (*Les Poésies du P. Le Moyne de la Compagnie de Jésus*, Paris, Courbé, 1650). Voir préface. 
+
+[104]  Les *feux* et les *flammes* sont des métaphores incontournables dans le langage poétique du XVII*e* siècle pour désigner l'amour. 
+
+[105] *Censurer* (ici) : critiquer.  
+
+[106] *Oracle* (ici) : paroles qui ont une grande autorité. 
+
+[107] *Potentat* : « Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous les Potentats de l'Europe. » (Furetière) 
+
+[108] *Tiranie* (ici) : « Ce mot se dit en amour et veut dire rigueur, empire amoureux de quelque belle inhumaine. » (Richelet)
+
+[109] L'élision est une pratique courante du compositeur ou de l'auteur. Le *e* est ici élidé. 
+
+[110]  Voir lexique, art. *charme.* 
+
+[111] Soliman est connu pour ses nombreuses conquêtes, qui ont souvent inquiété les chrétiens. 
+
+[112]  Le verbe vaincre au XVIIème siècle peut être construit avec la préposition *à* ; par exemple, « se laisser vaincre à la pitié, à des raisons », Dictionnaire de l'Académie, art. vaincre.  
+
+[113] La métaphore du font, c'est-à-dire de la fontaine, traduit l'idée que l'amitié est source de bonheur. 
+
+[114] *Conference* : « Se dit des entretiens qu'ont ensemble des Ministres des Princes, des Ambassadeurs, pour negocier des affaires d'Estat. » (Furetière)
+
+[115]  Vers recensé in D. Rolland, *op.cit.*, vol. 2, p.355, art. « Nature ».
+
+[116] *Melancholie* (ou mélancolie) : « Espece de délire sans fièvre, accompagné de crainte et de chagrins sans raison aparente à cause que l'imagination et le jugement sont blessez par l'abondance d'une bile noire et brûlée. » (Richelet) 
+
+[117] *Licence* : permission. 
+
+[118] *Hospital* : « Lieu pieux et charitable où on reçoit les pauvres pour les soulager en leurs nécessitez. » (Furetière). Cet épisode peut évoquer au lecteur la construction de l'Eglise du Val-de-Grâce par Anne d'Autriche qui formule en 1638, à la naissance du futur Louis XIV, son vœu d'élever un « temple magnifique » et « de rebâtir entièrement l'église et le monastère du Val-de-Grâce et de n'y épargner aucune dépense pour y laisser des marques éternelles de sa piété » (l'abbé de Fleury). La construction s'échelonnera de 1645 à 1667. 
+
+[119] *Œuvre* est au XVII*e* siècle un substantif tantôt masculin tantôt féminin. 
+
+[120] Le Mufti souligne la manœuvre de Roxelane dont la demande n'est pas réalisable, compte tenu de sa qualité d'esclave. 
+
+[121] *Incivil* : « Qui agit contre l'honnesteté, la bien seance, la courtoisie. » (Furetière)
+
+[122] Soliman demande au Mufti, représentant de la Loi, par quelles voies il peut contourner l'obstacle. 
+
+[123] Roxelane est affranchie sur le champ. 
+
+[124] *Lustre* : « Se dit figurément en choses morales. Dans les grandes charges, la valeur, la vertu paroissent dans tout leur lustre, dans tout leur éclat. » (Furetière)
+
+[125] *Libéralité* : « Vertu par laquelle on est libéral. » *Libéral* : « Qui aime à donner, qui se plaist à donner. » (Dictionnaire de l'Académie)
+
+[126]  « Devant et avant ne se distinguent pas encore l'un l'autre d'une manière précise. Tous les auteurs du XVII*e* siècle emploient devant au lieu de avant tantôt comme préposition, tantôt comme adverbe, et les construisent avec le que comparatif. » Haase, *op.cit.*.
+
+[127]  « Du tout (…) pouvait s'employer au XVII*e* siècle (…) dans une proposition affirmative. » Haase, *op.cit.*,  § 98, p.241. 
+
+[128]  La langue classique ne distingue pas clairement le pronom tonique et le pronom réfléchi. Voir A. Haase, *op.cit.*, §13. L'emploi du pronom réfléchi permet ici la réalication de la rime. 
+
+[129] *Forme* : « Maniere, façon, d'agir, de parler, de se conduire, suivant certains usages, certaines regles establies. » (Dictionnaire de l'Académie)
+
+[130]  « Le comparatif pris dans le sens d'un superlatif pouvait se passer de l'article dans l'ancienne langue. Cet emploi se conserve au XVII*e* siècle, lorsque le comparatif est précédé d'un subtantif construit avec l'article défini ou avec un possessif. » Haase, *op.cit.*, §29 (A).
+
+[131] *Aussi-tost* : « dans le moment » (Dictionnaire de l'Académie) 
+
+[132] *Mosquée* : « Lieu où les Turcs s'assemblent pour prier Dieu et invoquer Mahomet, et qui est pour l'ordinaire superbement bâti et bien fondé. » (Richelet)
+
+[133] *Menée* : « Conduite de faction et conspiration, et assemblée illicite. » (Nicot)
+
+[134] *Louvre* : « Palais où demeure le Roy. » (Furetière). Il s'agit d'une antonomase assez courante au XVII*e* siècle et non d'une « distraction » de l'auteur comme le présente Pierre Martino (*op.cit.* p.35). 
+
+[135]  Vers recensé in D. Roland, *op. cit.*, vol.2, p.111, art. « Faveur ». 
+
+[136] *Se ranger du parti* : approuver, adopter, défendre. 
+
+[137] *Brasser* : « signifie figurément, Faire quelque conspiration ou machine pour trahir ou perdre quelqu'un » (Furetière) 
+
+[138] *Rentrer en grâce* : « Etre en grâce auprès du prince ou de quelque personne puissante. Y être en considération, en faveur. » Dictionnaire de l'Académie 
+
+[139] *Stances* : « Strophes se terminant par des pauses fortement marquées ainsi que par des recherches de style, et contituant un monologue. » Jacques Scherer, *La Dramaturgie classique en France*, Appendice I, « Quelques définitions », Paris, Nizet, 1973. Jacques Scherer souligne le travail textuel permis par les stances. Le dramaturge quitte ici le métrage régulier (en alexandrins à rimes plates) de la tragi-comédie pour le système des stances. C'est un système de type lyrique caractérisé par l'alternance des vers (ici huit ou douze syllabes) et par sa structure (ici quatre dizains à rimes embrassées et un distique).  
+
+[140] *Traverses* : « Obstacle, empeschement, affliction, opposition. » (Dictionnaire de l'Académie)
+
+[141] Cette forme n'est pas élidée car elle respecte l'octosyllabe. 
+
+[142] Les derniers vers de la stance sont des alexandrins. On reprend donc un métrage régulier. 
+
+[143]  Cette expression souligne l'état d'urgence. « Quand l'enemy nous vient sur les bras, et que l'alarme est au cap la nécessité nous fait tomber des mains ce que la paix et le repos nous avoient fait amasser. » François de Malherbe, *Les Epitres de Sénèque*, Paris, Antoine de Sommaville, 1640
+
+[144] Erreur de pagination sans manque. Saut de la page 56 à la page 59. 
+
+[145]  Forme archaïque encore utilisée en poésie au XVII*e* siècle. Vaugelas écrit souvent *quoiqu'on die*, et paraît dans une de ses *Remarques* (Paris, Bilaine, 1647) le préférer à *quoiqu'on dise*. L'Académie, dans son *Observation sur cette Remarque*, décide qu'il ne faut plus se servir de *quoiqu'on die*, en ajoutant qu'il *s'est dit autrefois, surtout en poésie.*
+
+[146]  Expression de l'incompréhension devant les apparences courante au XVII*e*, et particulièrement fréquente dans le théâtre baroque des années 1630-1650. 
+
+[147] Le sang 
+
+[148]  Voir Aristote, *Ethique à Nicomaque* I.6, 1097b 22 – 1098a 18. 
+
+[149]  Comprendre *effais* pour *effets* c'est-à-dire *réalisent les desseins enragés*. 
+
+[150]  « **Ce** adjectif démonstratif indique quelque chose de présent à l'esprit de celui qui parle. » Haase, *op.cit.*, §21, p.41.
+
+[151]  « *De* se joint à *avec* et à *entre*, plus librement que dans la langue actuelle. » A. Haase, *op.cit.*, §106. 
+
+[152] *Alcoran* : « Le recueil des écrits de Mahomet. » (Richelet)
+
+[153] *Dervis (ou derviche)* : « Espèce de moine, chez les Turcs. » (Dictionnaire de l'Académie)
+
+[154] C'est en des termes techniques que Soliman expose l'apparente aporie juridique à laquelle il est confronté. 
+
+[155] *Abisme* : « Se dit absolument des enfers. » (Furetière) 
+
+[156]  « Selon l'ancien usage, très courant encore au XVI*e* siècle, on trouve au XVII*e* la forme tonique du pronom avec à au lieu du datif atone sans qu'il y ait intention de l'accentuer. Cet emploi est fréquent, surtout avec les verbes *parler* et *attacher*. » (Haase, *op. cit.*, § 11, p. 26)
+
+[157] *Lors* vaut au XVII*e* siècle pour *alors* et non pour *lorsque*. Voir Haase, *op. cit.*, § 96, p.230-231.
+
+[158] *Mutiner* : « Se dit aussi figurément et poëtiquement des choses qui resistent, qui destruisent, qui sont contraires, comme, les vents mutinez, les flots mutinez. » (Furetière) 
+
+[159] Le Nicot donne comme exemple « Redresser un povre affligé. ». 
+
+[160] *Cimeterre* : « Grosse espée et pesante, qui ne tranche que d'un costé, et qui est un peu recourbée par le bout. Les Turcs et les Orientaux sont armez de *cimeterres*, ont des *cimeterres* d'acier de Damas. Ce mot vient du Turc *scimitarre*. » (Furetière)
+
+[161] *Suppost* : « Se dit quelquefois des personnes sousmises et sousordonnées à une autre. » (Furetière)
+
+[162]  « On emploie souvent, jusque dans le XVIII*e* siècle, à la place du *que* de la langue actuelle, dont, où, ainsi qu'un relatif accompagné d'une préposition pour rappeler un substantif. » A. Haase, *op.cit.*, p. 72, § 36.
+
+[163] *Sonde* : « Terme de Chirurgien. Instrument rond et long dont le Chirurgien se sert pour sonder les plaies. » (Richelet)
+
+[164]  « Tout renforçant l'idée exprimée par l'attribut et construit soit avec un adjectif soit avec un substantif, était adjectif dans l'ancienne langue et l'est encore au XVII*e* siècle dans toutes les constructions où la langue actuelle en fait un adverbe. » A. Haase, *op.cit.*, p.99, §46
+
+[165] *i.e*. compliquée. 
+
+[166]  Voir *L'usage des femmes libres defendu sans mariage par la loy de Mahomet.* Chalcondyle, *op.cit.*, p. 616. 
+
+[167] *Tendre des lacs* : « Se dit figurément en Morale, des piéges, des embusches, des embarras où on a fait tomber quelqu'un. » (Furetière)
+
+[168] *Médicament* : « C'est tout ce qui peut altérer notre corps et le remettre en santé. » (Richelet) 
+
+[169] Soliman cède. 
+
+[170]  « On dit figurément, Estre en *butte* à l'envie, pour dire, Estre exposé aux traits de l'envie. » (Furetière)  
+
+[171]  i.e. *conclut* « Quoy qu'en l'escriture la plus part adjoutent un *d* aux mots icy specifiez. En parlant toutesfois on ne le prononce point, partant on pourra recourir à la terminaizon en U... » (11, 3). Pierre de La Noue, *Le Grand Dictionnaire des rimes françoises selon l'ordre alaphabétique*, éd. M. Berjon, 1623.  
+
+[172] « Souvent, au XVII*e* siècle, le verbe d'une d'une proposition relative, bien qu'ayant pour antécédent un pronom de la 1*re* ou de la 2*e* personne, se met à la 3*e* personne. » Haase, *op.cit.*, §62, p. 149.

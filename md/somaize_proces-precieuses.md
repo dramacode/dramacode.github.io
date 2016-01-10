@@ -1,0 +1,2177 @@
+---
+identifier: somaize_proces  
+creator: Somaize, Antoine Baudeau  
+date: 1660  
+title: Le Procès des Prétieuses en vers burlesques. Comédie.  
+---
+
+
+Le Procès des Prétieuses en vers burlesques
+
+Comédie
+
+
+
+A PARIS, Chez ESTIENE LOYSON, au Palais, à l'entrée de la Gallerie des Prisonniers, au Nom de *Jesus.* M. DC. LX *AVEC PRIVILEGE DU ROY.*
+Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)
+
+
+# A MADAME Madame la marquise de monloy.
+
+*MADAME*,
+
+Apres avoir quelque temps douté si je differerois les preuves de mon respect pour vous en donner de plus considerables, ou si je me hazarderois de vous le témoigner par l'offre d'une bagatelle : je me suis enfin laissé persuaderque je ne pouvois avec trop d'empressement chercher les moyens de vous en donner des marques ; mais comme il me sembloit presque impossible qu'elles vous fussent considerables sortant de mes mains ; j'ay cherché dans les agréments d'un style burlesque dequoy reparer mon peu de merite, & ne me sentant pas assez fort pour vous plaire par la beauté de mes pensées, j'ay voulu vous empescher de songer à ma foiblesse, & reparer ce deffaut par la plaisanterie de mes imaginations : En un mot, MADAME, je me suis resolu de vous offrir une Comedie, n'osant pas vous presenter un Ouvrage serieux. Dans cette entreprise je n'ay point d'autre but que celuy de vous divertir, & de vous faire connoistre que je me souviens de ce que je vous dois. J'avouë que c'est me charger d'une nouvelle obligation que de vouloir m'aquiter ainsi ; mais il est bien mal-aisé de n'estre pas tousjours redevable à celles qui vous ressemblent ; aussi me fonday-je entierement sur vostre bonté. C'est une de vos vertus, MADAME, & vous n'avés pas acquis moins de reputation dans la Cour par elle, que par toutes vos autres bonnes qualitez. Je m'abuserois moy-mesme si je pretendois en faire icy le denombrement. Trop de choses vous ont renduë recommandable durant que vous avez esté auprés de la plus auguste & plus vertueuse Reyne qui ait jamais porté la Couronne pour me laisser le moyen de l'oser entreprendre ; aussi ne m'y hazarderay-je pas ; & tout le tesmoignage que je veux rendre à une vertu conneue de tout le monde, c'est que dans ce lieu où vostre naissance vous avoit appellée ; dans ce lieu dis-je où la médisance n'espargne personne, vostre vertu luy a si bien fermé la bouche que les plus médisans ne l'ont jamais ouverte que pour publier que vous estiez la plus sage & la plus vertueuse personne de la Cour ; & dans ce lieu ce n'est pas peu de chose de conserver tant d'estime avec tant de beauté. Cependant ce qui pour lors estoit vray ne l'est pas moins à present, au contraire on peut dire que vos vertus brillent avec plus d'éclat :mais dans cette estime generale de tous ceux qui vous connoissent souvenez-vous de cette generosité par où vous l'avez acquise. S'en est une bien grande, MADAME, de regarder de bon œil les choses qui sont au dessous de nous, & c'est celle dont je vous prie de vous servir en mon endroit, me permettant de me dire avec respect,
+
+MADAME,
+
+*Vostre tres-humble & tres-obeïssant serviteur, SOMAIZE.*
+
+
+# AU LECTEUR.
+
+Je te donne icy un Procez, dont le sujet est si nouveau, que malgré toute l'antiquité de la chicane, on n'en avoit point encore veu de semblable au Palais : il s'y est fouré comme en son païs natal, & bien qu'il soit né dans un lieu fort tranquille, il n' pas laissé de passer dans celuy du trouble & de l'embaras. En vain j'ay tasché ar raison de le retenir, la demangeaison d'avoir ton jugement m'a forcé de l'exposer à recevoir de toy un Arrest moins favorable que celuy que mes amis en ont porté. Je n'en appelleray point, & ne croiray pas mesme que tu me fasses d'injustice en le condamnant : mais comme tu peux luy estre contraire par plusieurs raison, il me semble assez juste de te dire ce que la liberté du Poëme Burlesque y a rendu raisonnable ; qui est premierement l'expression qui dans ces sortes de Comedies, fait une partie du plaisant, & reçoit toutes sortes de façons de parler. Le sujet en suitte qui dépend entierment de l'imagination, & qui n'a besoin pour estre receu que du passe-port de la vraye-semblance. Il seroit besoin icy de faire un long discours pour expliquer ce que c'est que vraye-semblance ; mais pour te le dire en deux mots, c'est tout ce qui, bien qu'extraordinaire par sa nouveauté, tombe neantmoins assez dessous les sens pour persuader à l'esprit que cela peut arriver sans renverser l'ordre estably dans le cours des Choses. Ce qui despend souvent bien plus de l'arengement des actions, que des actions mesme. Peut-estre m'accuseras-tu d'y avoir manqué precipitant en un jour un procez, qui selon la coustume des Modernes dure pour l'ordinaire des six mois : mais le Theatre peut bien donner cette licence, puisque la raison & l'utilité voudroient qu'ils ne fussent pas plus longs, outre que cecy estant plutost un Arbitrage en forme, qu'un Jugement reglé. Il ne faut pas s'estonner qu'il aille si viste, aussi n'est-ce pas là dequoy je veux le plus me deffendre, & les Scenes deliées qui sont presentement tout à fait condamnées dans les pieces regulieres, & que j'ay laissé passer dans cette Comedie, me fourniroient une ample matiere, d'apporter quantité d'excuses, ce que je ne feray pourtant pas, croyant qu'elles ne sont pas tout à fait condamnables dans une Piece burlesque, qui est proprement un ouvrage ou tout est permis, pourveu qu'il fasse rire. Comme je te l'ay donné pour te divertir, je te pris si tu ne le trouves pas assez plaisant de te donner quelque jour de patience, j'en exposeray un autre à ta censure qui pourra reparer les defaut de celluy cy ? ce sera la Pompe funebre d'une Pretieuse, avec toutes les ceremonies de ce fameux Convoy ; que ces termes de lugubres et funestes ne t'espouvantent point, car je puis t'asseurer que cét Enterrement n'aura rien de triste que son nom.
+
+
+# ACTEURS
+ – RIBERCOUR,Gentihomme Manceau & député de ce Païs.
+ – ROGUESPINE,Son Valet.
+ – THEOCRITE,Professeur és langues Espagnole, Italienne & Françoise.
+ – PANCRACE,Professeur de la langue Pretieuse.
+ – ERGASTE,Escuyer de Madame la Duchesse de ….
+ – UN GREFFIER.
+ – PATRICE,
+ – ANAXARITE,
+ – ARISTIME,Juges, se disant de l'Academie Françoise.
+ – EPICARIE,Deputée du Corps des Pretieuses.
+ – SA SUIVANTE.
+ – RODOGINE,Escoliere, qui vient apprendre à parler Pretieux.
+La Scene est à Paris.
+
+
+
+# LE PROCEZ DES PRETIEUSES *Comédie en vers Burlesques.* [i]
+
+
+## Acte I
+
+
+### SCENE PREMIERE.
+PATRICE, EPICARIE.
+
+
+    EPICARIE, *(en appellant Patrice.)*
+Hem, ou courez-vous de ce pas ?  
+
+    PATRICE.
+Ma foy, je ne vous voyois pas,  
+Et j'allois chez vous pour vous dire,  
+De vous apprester à bien rire.  
+Nostre homme, enfin arriva hier,                       
+Et m'est desja venu prier  
+De luy répondre sa Requeste,  
+Regardez si vous estes preste,  
+Et si vous avez aujourd'huy  
+Le temps de plaider contre luy ?  
+
+    EPICARIE.
+Ouy j'ay tousjours le temps de rire ;  
+Mais il ne sçaura que nous dire,  
+Il le faut laisser reposer  
+Si nous voulons l'oüyr jazer ;  
+Car je croy qu'il aura sans doute  
+Tout oublié pendant sa route.  
+
+    PATRICE.
+Croyez-moy, si l'on le surprend  
+Le plaisir en sera plus grand,  
+Et nous le verrons se confondre  
+Sans sçavoir par où nous répondre.  
+Mon Dieu ! qu'il sera tantost sot ;  
+Tous nos gens ont desja le mot,  
+Et je vous donne ma parolle  
+Que chacun joüera bien son roolle,  
+Et que Professeurs, & Sergens  
+Ne paroistrons pas negligens ;  
+Mais marchons je le vois paroistre.                      
+
+
+### SCENE II.
+RIBERCOUR, ROGUESPINE.
+
+
+    ROGUESPINE.
+Parbieu c'est bien avoir mon maistre,  
+De plaider la demanjaison,  
+Qu'en poste quitter sa maison  
+Pour venir à Paris, se rendre  
+Avecque dessein d'entreprendre  
+Contre des femmes un procez,  
+(Dont j'augure mal du succez)  
+Et cela dites-vous à cause  
+Que leur bouche, n'est jamais clause,  
+Et qu'elles parlent que je croy  
+Le langage des des…… ma foy  
+Ce mot n'est plus dans ma mémoire,  
+Il n'est plus dessus mon grimoire,  
+Et ce nom, ce diable, de nom,  
+Qu'on dit avoir tant de renom,  
+A retenir fait tant de peine,  
+Que je l'ay laissé dans le Maine ;  
+Mais sans doute qu'il nous viendra  
+Quand vos chappons, l'on envoyera ;                      
+Car l'on doit dans cette occurence  
+Vous en envoyer pour la pence  
+De Monsieur, vostre Procureur ;  
+Puis qu'enfin il faut qu'un plaideur,  
+S'il craint de son procez la perte,  
+Ait sans cesse la bourse ouverte.  
+
+    RIBERCOUR.
+Les Nobles du Mant par bonté  
+M'ayant dans Paris, deputé  
+Pour empescher dedans la langue,  
+Par une belle & bonne harangue,  
+L'heresie qui va passer,  
+Et qui commence à se glisser  
+Dedans tout le pays du Maine ;  
+Prendront assurément la peine  
+De m'envoyer force presens,  
+Qui seront plus que suffisans  
+Pour me faciliter l'entrée  
+Auprés des directeurs d'Astrée  
+Et qui me donneront moyen  
+De mener mon procez à bien  
+Et d'avoir (puisque je m'en picque)  
+Un Arrest celebre, authentique,  
+Contre ces jazeuses enfin  
+Que je hay plus que le lutin,  
+Et que l'on nomme Pretieuses ;  
+Mais non pas pour estre amoureuses.                      
+
+    ROGUESPINE.
+Ah ! voila justement ce mot  
+Qui si long-temps a fait le sot,  
+Et qui pour moy, chose nouvelle,  
+M'a fort embroüillé la cervelle ;  
+Mais puisque je le tiens enfin  
+Monsieur, sans attendre à demain,  
+Malgré toute la procedure  
+Apprenez-moy, je vous conjure  
+Pour quelle importante raison  
+L'on les appelle de ce nom,  
+Et pourquoy ? par toute la terre  
+On aime à leur faire la guerre ?  
+
+    RIBERCOUR.
+Ah ! je vois bien que tu seras  
+Curieux, tant que tu vivras,  
+Et que mesme en la sepulture  
+Tu le seras encor, je jure.  
+
+    ROGUESPINE.
+Mon Dieu ! qui ne le seroit pas  
+L'on l'est bien pour un moindre cas :  
+Depuis six ans, le monde en cause,  
+Je n'entends rien dire autre chose,  
+Ce mot en Province a grand cours,  
+De luy les Dames, tous les jours  
+En disent toutes des plus belles,  
+Et dés-lors que quelqu'unes d'elles  
+S'en vont faire un tour à Paris,                      
+Aussi-tost, aux plus favoris,  
+De mesme qu'aux plus favorites  
+Dedans des lettres bien escrites  
+Elles protestent que Paris,  
+Charme tous les plus grands ennuis,  
+Que l'on y rit des Pretieuses,  
+Qu'elles n'y sont pas fort heureuses,  
+Que l'on en a pour cent raisons  
+Imprimé de toutes façons ;  
+Enfin dans Paris, dans le Maine ;  
+Dans Lion, dans Turin, dans Genne,  
+Et dans seize mille autres lieux  
+Pretieuses & Pretieux  
+Font l'entretien de maintes-belles,  
+Des Suivantes, des Demoiselles,  
+Et le vieux, le jeune, & le sot,  
+Veut là-dessus dire son mot.  
+Ne seroit-ce point quelque fable,  
+La chose me paroist croyable,  
+J'ay souvent le goust rafiné ;  
+Et je crois avoir deviné ;  
+Car l'on n'imprime point des femmes.  
+
+    RIBERCOUR.
+Ce sont les Mots, que font les Dames,  
+Que l'on imprime aussi, lourdaut.  
+
+    ROGUESPINE.
+Hé bien, quoyque je sois rustaut,  
+Dites ? comment sont-elles faites ?                      
+Sont-ce des femmes ? fort parfaites,  
+Qui n'ont rien des autres en tout ?  
+Sont-elles point à vostre goust ?  
+Portent-elles, des hauts de chausses ?  
+Sont-ce pieces bonnes, ou fauces ?  
+Quoy Monsieur, vous ne parlez pas,  
+Vous font-elles, de l'embaras ?  
+Sont-elles, point hermaphrodites ?  
+Ont-elles, des justeaucorps ! dites ?  
+Ont-elles, le visage beau ?  
+Ont-elles, un vilain muzeau ?  
+Sont-elles, tant soy peu camuses ?  
+Chantent-elles, comme les muses ?  
+Ont-elles, le nez aquilain ?  
+Ont-elles, l'esprit fort malin ?  
+Sont-ce des beautez, sans secondes ?  
+Sont-elles, brunes, grandes, blondes,  
+Petites, jeunes, vieilles, ou  
+Hideuses, comme un lougarou ?  
+Ne sont-ce point quelques sorcieres ?  
+Sont-elles, douces, ou bien fierres,  
+Ont-elles, des maris ou non ?  
+N'auroient-elles, point de surnom ?  
+Des galands, en endurent-elles ?  
+Ne feroient-elles, point les belles ?  
+Sont-elles, riches à foison ?  
+Sont-elles, de pauvre maison ?  
+En un mot, dites-moy ? sans fraude,                      
+Monsieur, sont-elles à la mode ?  
+
+    RIBERCOUR.
+Oüy, oüy sans doute elles y sont ?  
+
+    ROGUESPINE.
+Elles ont dont des souliers ronds ;  
+Car d'en porter c'est la grande mode.  
+
+    RIBERCOUR.
+Va, de cela ne t'incommode,  
+Je t'en veux faire voir bien-tost.  
+Mes affaires sont comme il faut,  
+Et je n'ay fait dans cette Ville  
+Rien qui ne me soit fort utille ;  
+Desja plein d'animosité  
+J'ay ma Requeste presenté  
+A Messieurs, de l'Academie,  
+Que certes je n'oublieray nie,  
+Tu sçais, dont je suis fort contant,  
+Qu'on l'a répondue à l'instant.  
+
+    ROGUESPINE.
+Mais si faisant les Damoiselles,  
+Un Procureur, venoit pour elles  
+Monsieur, je ne les verrois point ;  
+C'est pourquoy, je crois sur ce point  
+Qu'il vaudroit bien mieux, ce me semble,  
+Leur donner à toutes ensemble  
+Un personnel adjournement.                      
+
+    RIBERCOUR.
+Tu raisonnes fort justement.  
+
+    ROGUESPINE.
+Vous vous croyez donc bien habille,  
+Et s'il en venoit plus de mille,  
+Et que dans ce beau jugement  
+Il fallut personnellement  
+Agir avec toutes, je jure,  
+Que dans une telle adventure  
+Je vous trouverois pas ma foy  
+Fort embarassé.  
+
+    RIBERCOUR.
+        Va, tay toy ;  
+Car quoy que tu me puisses dire,  
+Je ne suis point d'humeur à rire,  
+Et je me ressouviens fort bien  
+Que je n'ay fait encore rien,  
+Quoy que je voye ma Requeste  
+A signifier toute preste,  
+Puisque je ne sçay point du tout  
+Ou pouvoir d'une voir le bout.  
+
+    ROGUESPINE.
+Il faut qu'un secret, je vous die,  
+Pour qu'à cela l'on remedie ;  
+
+    RIBERCOUR.
+Que me veux-tu dire de bon ?  
+
+    ROGUESPINE.
+Prenez-les au petit Bourbon,  
+L'on les dit au païs, plaisantes                      
+Et mesme assez divertissantes  
+
+    RIBERCOUR.
+Tu ne sçais pas ce que tu dis,  
+A Bourbon, va tu t'es mépris  
+Ce ne sont que Comediennes.  
+
+    ROGUESPINE.
+Ah ! je viens sans beaucoup de peines  
+De trouver un expedient.  
+
+    RIBERCOUR.
+Dis ! car je suis impatient.  
+
+    ROGUESPINE.
+Il faut les faire avecque pompe  
+Monsieur, crier à son de trompe.  
+
+    RIBERCOUR.
+Voila justement le moyen  
+Pour ne rencontrer jamais rien ;  
+Puisque toutes les Pretieuses,  
+De se cacher sont curieuses,  
+Qu'elles ne veulent du tout pas  
+Qu'on connoisse rien à leur cas,  
+Et que les plus grandes d'entre-elles  
+Disent qu'elles ne sont point telles.  
+
+    ROGUESPINE.
+J'en veux voir quelqu'une pourtant,  
+Et j'ay des moyens tant & tant,  
+Qu'en quelque endroit que ce puisse estre  
+Je vous en feray voir, mon maistre ;  
+Par exemple, j'en tiens un bon.                       
+J'ay oüy dire avecque raison  
+Que quand l'on a dans cette ville,  
+Perdu quelque chienne gentille,  
+L'on fait afficher des billets  
+De tous les costez au Palais,  
+Et qui promettent recompense  
+A ceux, qui plains de vigilance  
+La rapporteront. Vous pourrez  
+Faire de mesme, & vous verrez  
+Sans doute que quelque suivante,  
+Avide de la paragoüante  
+Ne pourra sa langue tenir.  
+
+    RIBERCOUR.
+Mais quoy ne vois-je pas venir  
+Mon vieil amy, Monsieur Pancrace,  
+Vrayement il faut que je l'embrasse.                      
+
+
+### SCENE III.
+RIBERCOUR, PANCRACE,
+
+ROGUESPINE.
+
+
+    PANCRACE.
+Cher amy, que je suis joyeux  
+De vous rencontrer en ces lieux :  
+Il faut pourtant que je vous fasse  
+Des plaintes, quand je vous embrasse  
+Et que je demande pourquoy  
+Vous n'estes pas venu chez moy,  
+En arrivant en cette ville,  
+Establir vostre domicile  
+Sçachant avec combien d'ardeur  
+Je suis vostre humble serviteur ;  
+
+    RIBERCOUR.
+Un procez, est ce qui m'ameine  
+Et les plaideurs font trop de peine,  
+Le boire, & le manger chez eux  
+Tantost, faute d'une heure ou deux,  
+Ils n'ont que procez à la bouche,  
+L'on ne sçait point quand on s'y couche  
+Et quand on s'y leve encor moins,  
+Cent chicaneurs font tous leurs soins,  
+Un Clerc, aujourd'huy les visitte,                      
+Un Procureur arrive en suitte,  
+Le lendemain un Advocat,  
+Vient dire un nouvel altercat,  
+Apres vient un homme d'affaires,  
+Apporter quelques formulaires,  
+Et tous les jours un tas de gens  
+Affamez, comme des Sergens,  
+Viennent, non pas, avec main morte,  
+Heurter, rudement, à leur porte,  
+Pour dire, quatre meschants mots  
+Qui sont souvent hors de propos.  
+
+    PANCRACE.
+Et quel procez donc vous ameine ?  
+
+    RIBERCOUR.
+Pour le public, j'ay cette peine  
+Et je suis authentiquement  
+Deputé des Nobles du Mant,  
+Comme de la Province entiere,  
+Qui s'interesse en cette affaire,  
+Afin de plaider en ces lieux  
+Contre le parler pretieux  
+Et ces pestes de Pretieuses,  
+Que je vais rendre mal-heureuses ;  
+J'ay desja par precaution  
+Pour intenter mon action  
+Fait tantost un coup de ma teste  
+Et j'ay presenté ma Requeste  
+A l'Academie, & voicy                          
+La teneur que j'en tiens icy.  
+(il lit.)
+
+A Messieurs de l'Academie.  
+Humblement Messieurs, vous supplie  
+Le Sieur de Ribercour, du Mant  
+Gentilhomme qui point ne ment,  
+Et deputé de la Noblesse  
+D'où l'on voit des pommes la presse.  
+*Disant*, *que depuis quelque temps*  
+Il s'espend d'instans en instans  
+Dans leur païs certain langage,  
+Ou plutost un Baragouinage,  
+Qui leur est à tous inconnu,  
+Ne sçachant pas s'il est venu  
+Par eauë, ou sur quelque aridelle  
+Et que Pretieux l'on appelle :  
+Lequel, comme la nouveauté  
+Plaist avecque facilité,  
+Est receu dans nostre Province,  
+De gens, dont la cervelle est mince,  
+Sujets à prendre en cent façons  
+Mille folles impressions,  
+Et qui je croy Messieurs, sous ombre  
+Que ce langage estoit fort sombre  
+Et qu'il estoit né dans Paris,  
+Et s'est fouré jusqu'à leurs huis,  
+*Ont crû, qu'ils seroient fort celebres                    *  
+Et que pour sortir des tenebres,  
+C'estoit un cas sur à chacun  
+Pour les distinguer du commun,  
+S'ils s'attachoient tous à le suivre  
+Et s'ils pouvoient le faire vivre.  
+Neantmoins cela fait grand tort  
+A la Province & luy nuit fort ;  
+Tant à cause Messieurs, du trouble  
+Qui de temps en temps se redouble,  
+Et qui met le commerce à bas,  
+Que du grand nombre de Ducats,  
+Dont tous les jours l'on fait despence,  
+Non sans grande condoleance,  
+Pour avoir à chaque momens  
+Avec soy quelques Truchemens.  
+*Ce consideré*, *qu'il vous plaise*,  
+Pour que ce desordre on appaise,  
+Faire appeller pardevant vous  
+Pour qu'on luy donne du dessous,  
+Tout ce grand corps des Pretieuses,  
+Pour se voir comme factieuses,  
+Condamner d'abord à laisser,  
+Abjurer, quiter, renoncer,  
+Un si pernitieux langage,  
+Et qui peut causer du carnage,  
+Et que deffences à l'instant,  
+Leur soient par vous faites s'entend  
+*De ne s'en plus servir à peine*                      
+*De ne jamais lire* Artamene,  
+Ny mesme aucun autre Romant ;  
+Ou pour un plus dur chastiment  
+Que le lit, desdites femelles,  
+Soit des deux costez sans ruelles,  
+Et qu'il soit mesmement placé  
+Sans estre du tout exaucé ;  
+Et vous ferez bonne Justice.  
+
+    PANCRACE.
+La responce est-elle propice ?  
+
+    RIBERCOUR.
+Oüy : prestez donc attention  
+La voicy : *Qu'assignation*  
+Soit donnée, à ces Pretieuses,  
+Qui sont si fort contentieuses ;  
+Fait justement le vingt & trois  
+De May, le plus fleury des mois.  
+Hé bien ? mon cher Pancrace,  
+Croyez-vous que je les terrace  
+Et que j'aye fort advancé ?  
+
+    PANCRACE.
+Tout à fait ; car enfin je sçay  
+Que ces Messieurs, à forte teste  
+En respondant vostre requeste,  
+Avecque tant d'agilité  
+Ont fait un coup en verité,  
+Qui par sa grande vigilance                      
+Doit estre à tous en evidence ;  
+Puis qu'un mot souvent leur suffit  
+Pour embarasser leur esprit  
+Plus de dix, ou douze semaines ;  
+Mais je vous veux donner mes peines,  
+Et solliciter avec vous :  
+Aussi bien je suis en couroux  
+Contre toutes ces orgueilleuses,  
+Pour dire plus ces Precieuses,  
+Que j'allois perdre, Dieu le sçay,  
+Si vous n'aviez pas commencé ;  
+Vous sçavez bien que dix années,  
+Favorisé des destinées,  
+J'ay suivant ma profession,  
+Enseigné dedans la maison,  
+Avec honneur, & dans la ville,  
+D'une manière fort facille,  
+La langue Italienne, avec  
+L'Espagnolle, sans nul eschec,  
+Et pareillement la Françoise ;  
+Cependant je vois qu'on dégoise  
+Aujourd'huy pour me ruïner  
+Un jargon, qu'on doit condamner.  
+Que mes escoliers se dépitent,  
+Qu'il s'en faut peu qu'ils ne me quittent.  
+Et que lors qu'à quelque estranger,  
+Qui me fait souvent enrager,  
+J'ay bien souvent donné mes peines                      
+L'espace de quelques semaines ;  
+Mais non pas sans bien me fascher,  
+Afin de luy faire escorcher,  
+Le François, qu'il tasche d'apprendre,  
+Il me vient dire, pis que pendre  
+Et crier d'un ton outrageant  
+Que je luy volle son argent,  
+Et qu'il s'est veu parmy des femmes,  
+Des illustres, des belles ames,  
+Qui parloient un patois, sa foy,  
+Qui ne s'apprenoit point chez moy.  
+Que mesme il avoit fait despence  
+Et qu'il dit estre d'importance,  
+Acheptant des Livres nouveaux,  
+Que tout le monde trouve beaux,  
+Intitulez, les Pretieuses,  
+Pretieuses, pour luy fascheuses,  
+Puis qu'il n'y peut connoistre rien.  
+
+    RIBERCOUR.
+Je croy que vous ferez fort bien,  
+Pour exterminer ces femelles,  
+De vous joindre avec moy, contre elles  
+Car enfin s'il faut qu'une fois  
+Voulant imiter les François,  
+Qu'en Espagne, & dans l'Italie,  
+Ce diable de nom, se publie  
+Et qu'il vienne à naistre en ces lieux                      
+Quelque langage pretieux,  
+Vous n'auriez bien-tost, que je pense,  
+Qu'à rengaigner vostre science.  
+
+    ROGUESPINE *(à part.)*
+Je croy que mon maistre aujourd'huy  
+A rencontré plus fou que luy.  
+
+    RIBERCOUR.
+Mais j'oubliois de vous apprendre,  
+Que je ne sçay pas où les prendre,  
+Pour les pouvoir faire assigner.  
+
+    PANCRACE.
+Ah ! sans y long-temps ruminer,  
+Je trouve la chose facille  
+Tout en est plein dans cette ville  
+Et puis, je sçay bien à peu prés  
+Où quelqu'une loge icy prés.  
+
+    RIBERCOUR.
+Allons-y donc, dés tout à l'heure.  
+
+    ROGUESPINE.
+Ils perdent l'esprit, ou je meure,  
+Mais je pense qu'avec lent soin  
+Ils auroient encor grand besoin,  
+Pour que leurs action esclatte  
+De la lenterne de Socrate,  
+Afin de chercher à leur tout  
+Une Pretieuse, en plein jour  
+Comme il faisoit jadis un homme ;                      
+Pour moy je croy que l'on m'assomme,  
+Disant, que tout en est farcy ;  
+Puisque je n'ay pü jusqu'icy  
+Par mon addresse, non commune  
+Jamais en descouvrir aucune,  
+Moy qui depuis trois jours entiers  
+Faits residence en ces quartiers.  
+(Ribercour & Pancrace ayant fait trois ou quatre pas, aperçoivent au dessus d'une porte, une affiche & lisent.)
+
+Les Lecteurs, qui sont curieux  
+Sçauront que le Sieur Theocrite,  
+Dedans cette maison habite  
+Et montre à parler Pretieux.  
+
+    PANCRACE.
+Nous ferons icy nostre affaire  
+Monsieur, & nous n'avons que faire  
+D'aller en d'autre lieux courir :  
+Nous le ferons bien discourir  
+Sy nous pouvons avec addresse  
+Malgré le couroux, qui nous presse  
+Cacher, ce qui nous fait venir.  
+
+    RIBERCOUR.
+Entrons donc pour l'entretenir.                          
+
+
+### SCENE IV.
+
+    ROGUESPINE *seul.*
+Ah ! puisque je sçay la demeure  
+Il me prend envie : ou je meure,  
+De venir sans en dire mot  
+De peur de passer pour un sot,  
+Pour un capagnart, pour un rustre,  
+Apprendre cette langue illustre,  
+Qui met le monde en grand credit.  
+Aussi bien en Province, on dit  
+Que dans Paris, toutes les femmes,  
+Et mesme les plus grandes Dames,  
+Reçoivent jusques aux laquais  
+Quand ils sont bien vestus, bien fais,  
+Et qu'enfin ils ont l'avantage  
+De sçavoir un peu ce langage.                      
+
+
+### SCENE V.
+ROGUESPINE, RODOGINE.
+
+
+    ROGUESPINE.
+Mais où va cette fille-là ?  
+(Monstrant la porte de Theocrite.)
+
+Elle va de ce costé là,  
+Ouy, ses pas font assez connoistre  
+Qu'elle va tout droit chez ce Maistre ;  
+Pour nous desennuier un peu  
+Arrestons-là, dedans ce lieu  
+Madame, ou bien Mademoiselle ;  
+Car il faut que vous soyez telle,  
+Vous ne sçauriez que faire là ;  
+Car……  
+
+    RODOGINE.
+Le beau debut que voila !  
+Que vous avez l'ame grossiere,  
+La forme avant, dans la matiere ;  
+Ah ! mon cher que vous este dur,  
+Et qu'il fait dans vostre ame obscur.  
+
+    ROGUESPINE *(à part.)*
+Qu'est-ce que celle-là veut dire ?  
+Je ne sçay pas si j'en dois rire,  
+Car n'entendant point ce jargon                      
+Elle peut m'appeler fripon ;  
+(à Rodogine.)
+
+Songez mieux à ce que vous faites  
+Impertinente, que vous estes  
+Je suis valet, de probité  
+Et de Monsieur le Deputé,  
+Et si vous me chantez injures,  
+Sçachez, que ce sont impostures.  
+
+    RODOGINE.
+Et quel est donc ce deputé ?  
+
+    ROGUESPINE.
+Ah ! vous raillez en verité,  
+Chacun le doit desja connoistre ;  
+Car qui ne sçait pas que mon Maistre,  
+Est icy deputé du Mant,  
+Afin d'obtenir promptement  
+Contre ces langues venimmeuses,  
+Que l'on appelle Pretieuses,  
+Un Arrest, qui casse tout net  
+Le langage qu'elles ont fait.  
+
+    RODOGINE.
+Justes Dieux ! que je suis surprise  
+De cette maudite entreprise ;  
+Mais encore, est-ce tout de bon ?  
+
+    ROGUESPINE.
+Peste de la commission,  
+J'en avois ma foy, bien affaire,  
+La scelle m'en tient au derriere,  
+Et les sauts que tous les chevaux,                      
+Qui n'estoient certes, bons ny beaux,  
+M'ont (sans qu'il fut fort necessaire),  
+En courant la poste, fait faire,  
+Dans un superlatif degré  
+Le ventre m'ont plus escuré,  
+Que n'auroient, je le dis sans feintes,  
+Jamais pû faire quatre peintes  
+De ce vin bien & mal faisant,  
+Qu'on nomme Emetique à present.  
+
+    RODOGINE.
+J'ay donc en vain vuidé ma bourse,  
+Et mon pauvre argent sans resource  
+Est donc pour tout jamais perdu.  
+Ah ! je voudrois qu'il fut pendu  
+Ce chien, cét enragé, ce traistre,  
+En un mot, ce diable de Maistre,  
+Qui m'a si souvent asseuré,  
+Et qui m'a tant de fois juré,  
+Que ce magnifique langage  
+Auroit le puissant advantage  
+De ne pouvoir mourir jamais.  
+
+    ROGUESPINE.
+Mais nos gens sortent satisfaits,  
+Et je donnerois ma parole  
+Qu'ils viennent d'atraper le drole.                      
+
+
+### SCENE VI.
+RIBERCOUR, PANCRACE,
+
+THEOCRITE, ROGUESPINE,
+
+RODOGINE.
+
+
+    RIBERCOUR 
+(en sortant de chez Theocrite.)
+
+Je vous suis obligé Monsieur,  
+D'une si notable faveur,  
+Et si vous passez d'avanture  
+Par le païs, je vous conjure  
+De venir loger droict chez moy ;  
+Vous y mangerez sur ma foy  
+Des chapons ; mais en abondance  
+Qui seront bons par excellence.  
+
+    PANCRACE.
+Et moy de mon costé Monsieur,  
+Je vous rends graces de bon cœur.  
+
+    THEOCRITE.
+Vos civilitez sont plus grandes  
+Que n'ont pas esté vos demandes,  
+Et dedans cette occasion  
+Il n'est point d'obligation,  
+Qui pour des gens d'un tel merite,  
+Ne soit de nature petite.                          
+
+    THEOCRITE 
+(pendant que Rodogine parle bas à Roguespine.)
+
+Enfin nostre homme est attrappé,  
+Et c'est un deputé duppé ;  
+Mais il auroit tort de ses plaindre,  
+Bien d'autre sans les y contraindre  
+Du depuis que pour l'attraper,  
+Ou pour mieux dire le dupper,  
+J'ay mis sur ma porte une affiche,  
+Sans pretendre leur faire niche,  
+Me sont venus trouver ceans,  
+Et par des discours obligeans  
+M'ont conjuré de leur apprendre,  
+Ce qu'encor j'ay peine d'entendre,  
+Sçavoir à parler Pretieux.  
+(Appercevant Rodogine.)
+
+Mais quoy vous trompez-vous mes yeux ?  
+Non certes, & c'est l'Escoliere  
+Qui me vient trouver d'ordinaire ;  
+Voyons donc de quelle façon  
+Elle a retenu sa leçon.                              
+
+
+### SCENE VII.
+THEOCRITE, RODOGINE.
+
+
+    THEOCRITE.
+Bonjour, entrons dans cette salle.  
+
+    RODOGINE.
+Vous n'este qu'un maistre de balle,  
+Qu'un ipertinent, qu'un jazeur,  
+Qu'un traistre, ny qu'un imposteur,  
+Je ne viendray pas davantage,  
+L'on va casser vostre langage.  
+
+    THEOCRITE.
+Qui sont donc les perturbateurs !  
+Des Ruelles persecuteurs  
+Au beau stile, si fort contraires  
+Et de la raison adversaires,  
+Dont le sens emberliquoqué  
+Vous a dans l'esprit inculqué,  
+Par une injuste jalousie,  
+Cette bizarre fantaisie.  
+
+    RODOGINE.
+Ce que je dis est asseuré,  
+Car enfin l'on me l'a juré,  
+Et sur ce qu'on m'a dit, je gage                          
+Qu'on cassera vostre langage.  
+
+    THEOCRITE.
+Est-ce ainsi que mes documents,  
+Mes leçons, mes enseignements,  
+Sont en des terres infertilles  
+Où mes peines sont inutilles  
+Ou de tout ce qu'on peut planter  
+Rien ne peut jamais profiter.  
+Ah ! c'est donc en vain terre ingratte,  
+Que l'on vous besche, & qu'on vous gratte,  
+Puisque mes soins n'ont pour tout prix  
+Qu'un regret d'en avoir trop pris.  
+Quoy donc s'esnoncer de la sorte,  
+Ah ! cela m'estonne & m'emporte.  
+Ce que je dis, est asseuré,  
+Car enfin l'on me l'a juré  
+Et sur ce qu'on m'a dit, je gage  
+Qu'on cassera vostre langage,  
+Examinez cette oraison,  
+Elle peche en la diction,  
+L'on n'y voit que de la rudesse  
+Les mots en sont pleins de foiblesse.  
+Et……  
+
+    RODOGINE.
+J'ay bien un autre soucy,  
+Et si vous me voyez icy,  
+Ce n'est que pour vous faire rendre                      
+L'argent, que vous voulustes prendre  
+Alors que je vins en ces lieux  
+Pour apprendre le Pretieux :  
+Car enfin puisque ce langage  
+Doit estre bien-tost hors d'usage,  
+Il est raisonnable qu'enfin  
+Vous me rendiez mon saint-crespin.  
+
+    THEOCRITE *(sans l'escouter.)*
+Certes la langue Pretieuse  
+Est une chose merveileuse ;  
+Car enfin l'on parle de ceux  
+Qui sçavent parler Pretieux,  
+D'une si nouvelle manière…..  
+
+    RODOGINE.
+Ah ! ce n'est pas là nostre affaire,  
+Tout cela n'est ny beau, ny bon,  
+L'argent, fait nostre question ;  
+Mais quoy donc ? vous branlez la teste,  
+Et vous n'avez pas la main preste  
+A m'en avindre promptement.  
+Ah ! je m'en vais presentement,  
+Afin de vous estre contraire  
+Plaider de la belle manière,  
+Et me joindre dans mon couroux  
+A ces Messieurs, qui de chez vous  
+Viennent de sortir tout à l'heure :  
+Car de leur Valet, ou je meure,  
+J'ay sçeu qu'un d'eux n'estoit icy                      
+Qu'afin de prendre le soucy,  
+De faire par toute la Terre  
+Une longue, & mortelle guerre  
+A toutes celles, & tous ceux  
+Qu'on prendra parlant Pretieux.  
+(Elle sort.)
+
+
+
+### SCENE VIII.
+
+    THEOCRITE *seul.*
+Ce divertissement est drolle,  
+Et je jouë assez bien mon roolle.  
+Ils sont pris pour duppes ma foy.  
+(Voyant entrer Ergaste.)
+
+Mais que desirez-vous de moy !                          
+
+
+### SCENE IX.
+ERGASTE, THEOCRITE.
+
+
+    ERGASTE.
+Je viens vous prier d'une grace.  
+
+    THEOCRITE.
+Il n'est rien pour vous qu'on ne fasse.  
+Mais Monsieur, parlez s'il vous plaist !  
+
+    ERGASTE.
+Pour vous dire donc ce que c'est.  
+Je viens icy par ordre expresse  
+D'une incomparable Duchesse,  
+Vous prier que de vostre mieux  
+Vous tourniez en vers Pretieux,  
+Ce Madrigal là tout à l'heure.  
+
+    THEOCRITE. 
+(à part ouvrant le Madrigal.)
+
+Que l'on voit de fous, où je meure,  
+Il n'importe pour leur argent,  
+Paroissans à tous obligeant ;  
+Mais dans une pareille affaire,  
+Il faut que le Dictionnaire  
+Que l'on a fait tout à propos,                      
+Me fournisse beaucoup de mots,  
+(Il lit.)
+
+MADRIGAL.
+
+L'autre jour, un Mary, tenant divers discours  
+A sa femme, luy dit, au Cours.  
+Je vois que vous cherchez à faire des conquestes,  
+Elle luy respondit sans y songer du tout,  
+Ah ! ne paroissez plus si surpris que vous estes ;  
+Puis qu'enfin d'un mary les baisers sont sans goust.  
+Luy contre elle, d'abord se mettant en colere  
+Comme a de coustume un jaloux,  
+Luy dit, sans hesiter d'un visage severe,  
+Le Cours ne sera plus pour vous.  
+(Apres avoir leu, il dit.)
+
+Dieux ! que ces vers ont de foiblesse,  
+Qu'on y voit mesme de rudesse,  
+Que les derniers sont peu pointus,  
+Vous ne les reconnoistrez plus.  
+Alors qu'en langue Pretieuse  
+Par une version heureuse,  
+Je les aurez mis,  
+
+    ERGASTE.
+        Mot à mot,  
+
+    THEOCRITE.
+Non certes, je serois un sot  
+Si j'avois ozé le promettre,                      
+Puisque je ne les y puis mettre :  
+A cinq ou six mots prés, pourtant  
+Ils seront faits dans un instant.  
+
+    ERGASTE.
+Mais……  
+
+    THEOCRITE.
+Mais la Pretieuse langue,  
+Sans vous faire une longue harangue,  
+Et pour vous parler en amy,  
+N'est encor faite qu'à demy.  
+
+    ERGASTE.
+Mais l'on vend un Dictionnaire,  
+Qui la doit contenir entierre.  
+
+    THEOCRITE.
+Il n'est pas mauvais, mais l'Autheur,  
+En fait imprimer un meilleur.  
+On y verra des Pretieuses,  
+Toutes les guerres perilleuses,  
+Ensemble les descriptions  
+De leurs plus grandes actions ;  
+L'on y verra leur poëtique,  
+L'on y verra leur politique,  
+Leur Cosmographie y sera,  
+Et de plus l'on y trouvera  
+Un grand narré, de leurs histoires,  
+Leurs conquestes, & leurs victoires,  
+Leurs origines, leurs progrés,                      
+Et par un discours fait exprés  
+L'on verra leur Cronologie,  
+Et tout ce que l'Astrologie,  
+Pendant leur regne predit.  
+De plus encore l'on m'a dit,  
+Que les Villes les plus fameuses  
+Du Royaume, des Pretieuses,  
+Avec leurs coustumes et mœurs,  
+Leurs actions, & leurs humeurs,  
+Y seront amplement descrites ;  
+Et que celle dont les merites  
+Esclattent jusques sur le front.  
+Leurs Esloges y trouveront.  
+Outre cela leurs Poësies,  
+Un traitté de leurs heresies,  
+Et leur Geographie aussi,  
+S'y rencontreront, dieu mercy ;  
+Avecque leur Philosophie,  
+De leurs mots l'ethimologie,  
+Et cent histoires, que je croy  
+Qui plairont fort en bonne foy.  
+Mais ce qu'il faut que chacun prise,  
+C'est qu'on y verra la devise  
+De celles qui par leur esprit  
+Sont dans le Monde en grand credit ?  
+De plus, & c'est sans railleries,  
+L'on y verra leurs Armoiries,  
+Et ceux qui sçavent le Blazon,                       
+S'y divertiront tout de bon,  
+Et pourront voir de cette sorte  
+Ce que chacune d'elles porte.  
+
+    ERGASTE.
+Qu'on aura de contentement  
+A lire un Livre si charmant.  
+
+    THEOCRITE.
+Ce livre sera d'importance  
+Et les Pretieuses de France,  
+Aussi-tost qu'elles le liront  
+Sans doute s'y reconnoistront.  
+
+    ERGASTE.
+Bon Dieu ! qu'on aura de quoy rire.  
+
+    THEOCRITE.
+Tellement, que l'on peut bien dire  
+Que quand la clef on en aura  
+Beaucoup, on s'y divertira.  
+
+    ERGASTE.
+Ah ! je crois que chacun sans doute,  
+Ou par ma foy je n'y vois goutte,  
+Pour sa ratte bien dilater  
+Viendra promptement l'achepter.  
+
+    THEOCRITE.
+Aux gens curieux il doit plaire  
+Mais retournons à nostre affaire  
+Et voyons nostre Madrigal.                      
+
+    ERGASTE.
+Ma foy nous ne ferons pas mal.  
+
+    THEOCRITE.
+Ça prenez donc cette escritoire,  
+J'ay quelques Vers en ma memoire,  
+Qu'en parlant à vous, j'ay trouvez  
+Je crains de les perdre, escrivez.  
+Attendez, que rien ne vous presse,  
+Il faut un tiltre à cette piece.  
+Mettez ce tiltre spetieux.  
+Madrigal en vers Pretieux.
+C'est fait, continuez d'escrire,  
+N'aguerre un mary, dans l'empire……  
+Oüais, je me suis embarassé,  
+Que ce vers là, soit effacé.  
+*Un mar…….*non je resve sans doute,  
+Rien que le premier vers ne couste,  
+Et dés que je l'auray trouvé  
+Nous aurons bien-tost achevé.  
+Je le tiens sans doute, ou je meure,  
+Escrivez donc & tout à l'heure.  
+L'autre jour un mary, causoit  
+Avec sa femme, & luy disoit  
+Dedans l'empire des œillades.  
+Que ces parolles sont mignardes ?  
+Certes de semblables discours                      
+Expriment tout à fait le Cours.  
+Dans ce lieu soit belle ou camarde,  
+Chacun de son costé regarde.  
+Et l'on voit chacun, accorder  
+Qu'on n'y va que pour regarder.  
+Il est donc, quoy qu'on puisse dire,  
+Bien dit des œillades l'empire.  
+(Il poursuit de dicter.)
+
+Je vois que vous cherchez à faire assauts d'appas,  
+Elle sans songer dit, ne t'en estonne pas,  
+Car les baisers permis son fades.  
+Luy d'abord, tout comme un Argus…  
+Mes discours seroient superflus  
+Pour pouvoir icy vous d'escrire  
+Ce que ce mot d'*Argus*, veut dire ;  
+Puisqu'il est desja sçeu de tous  
+Qu'*Argus*, signifie un Jaloux,  
+Et sans aucune incertitude  
+Luy dit, vous n'y reviendrez plus  
+Et contre elle d'abord poussa le dernier rude.  
+Ces Vers sont faits avec estude.  
+Je puis aisément le prouver,  
+Puisqu'on ne peut jamais trouver  
+De façon de parler plus claire,  
+Pour dire se mettre en colere.  
+Mais c'est fait, lisez.                          
+
+    ERGASTE.
+        Je le veux.  
+MADRIGAL EN VERS PRETIEUX.
+
+L'autre jour un mary causoit  
+Avec sa femme, & luy disoit  
+Dedans l'empire des œillades.  
+Je vois que vous cherchez à faire assauts d'appas.  
+Elle, sans songer dit, ne t'en estonne pas,  
+Car les baisers permis sont fades.  
+Luy d'abord tout comme un Argus,  
+Et sans aucune incertitude  
+Luy dit vous n'y reviendrez plus,  
+Et contre elle aussi-tost poussa le dernier rude.  
+
+    THEOCRITE.
+Que ces Vers ont de plenitude.  
+
+    ERGASTE.
+Les derniers ont je ne sçay quoy  
+Qui n'est pas dans les miens.  
+
+    THEOCRITE.
+            Je voy  
+Ce que par là vous voulez dire,  
+Et je m'en vais vous en instruire.  
+C'est qu'on y voit dessus la fin  
+Par un tour delicat & fin,  
+Sans qu'elle y paroisse forcée,                      
+Une maniere de pensée.  
+
+    ERGASTE.
+Vous avez raison en effect.  
+Pour moy j'en suis tres-satisfait  
+Et la personne qui m'envoye,  
+N'aura tantost pas peu de joye  
+De vois ses vers selon ses vœux  
+Si bien tournez en Pretieux.  
+(En luy offrant de l'argent)
+
+Mais Monsieur, s'il vous plaist de prendre.  
+
+    THEOCRITE.
+Certes je ne puis m'en deffendre  
+Tant vous m'en priez de grand cœur.  
+
+    ERGASTE.
+Adieu jusqu'au revoir Monsieur.  
+
+
+### SCENE X.
+
+    THEOCRITE *seul.*
+Bon Dieu ! sans le Dictionnaire  
+Qu'on a fait & que l'on doit faire,  
+J'estois ma foy pris comme un sot ?  
+Car je ne sçeus jamais un mot  
+De cette langue que j'enseigne,                      
+Mais il ne faut plus que je craigne,  
+Puis qu'avecque quatre grand mots  
+L'on duppe souvent bien des sots ;  
+Mais allons sçavoir si nos drolles  
+Ont joüé comme moy leurs roolles,  
+Et si Monsieur, le deputé  
+A force Ducats apporté.  
+
+
+### SCENE XI.
+PANCRACE, RIBERCOUR.
+
+
+    RIBERCOUR.
+Enfin nostre affaire s'avance  
+Au moins si j'en crois l'apparence,  
+Et le bon homme bien & beau  
+A donné dedans le panneau,  
+Nous indiquant une demeure  
+Où l'on trouveroit tout à l'heure  
+Des Pretieuses de renom,  
+Tenant leur conversation ;  
+C'est pourquoy j'ose me promettre  
+Que sans doute on leur pourra mettre  
+Ma Requeste bien-tost en main,  
+Et que devant qu'il soit demain  
+A ces superbes Pretieuses,                      
+Nous verrons faire les pleureuses.  
+
+    PANCRACE.
+Au moins, je vous puis asseurer  
+Et puis mesmement vous jurer,  
+Que vostre Sergent, ou je meure,  
+Vous expedira tout à l'heure ;  
+Car je connois cét homme-là  
+Et je l'ay choisi pour cela,  
+Et maintenant je vous annonce  
+Que vous aurez bien-tost responce,  
+Et qu'il aura fait son devoir.  
+
+    RIBERCOUR.
+Ah ! je m'attends bien de sçavoir  
+Jusqu'à la moindre circonstance  
+De cette affaire d'importance ;  
+Car depuis l'un à l'autre bout  
+Roguespine, me dira tout.  
+C'est le plus curieux peut-estre  
+Que le Ciel ait jamais veu naistre  
+Et qui soit, point je ne vous ments,  
+Depuis Paris jusques au Mans.  
+Il doit suivre jusqu'à la porte  
+Le Sergent qui mon exploit porte ;  
+Mais je gagerois tout de bon  
+Qu'il entrera dans la maison,  
+Qu'il aura mesme l'asseurance  
+D'y faire quelque connoissance,  
+Et que de tout ce qu'il verra                      
+Auss-tost il s'enquerrera.  
+
+    PANCRACE.
+C'est sans doute bien le connoistre  
+Que de ……  
+
+    RIBERCOUR.
+Mais je le voids paroistre.  
+
+
+### SCENE XII.
+RIBERCOUR, ROGUESPINE,
+
+PANCRACE.
+
+
+    RIBERCOUR.
+Eh bien qu'as-tu veu ? qu'as-tu fait ?  
+Dis nous donc es-tu satisfait ?  
+
+    ROGUESPINE.
+Ce que j'ay veu, que vous importe  
+Une maison, où sur la porte  
+L'on avoit mis un escriteau.  
+
+    RIBERCOUR.
+Si je me jette sur ta peau  
+Je te feray bien rendre compte……  
+
+    ROGUESPINE.
+Oh, oh ! vous avez l'ame prompte ?                  
+
+    RIBERCOUR.
+Ah ! coquin je t'estropieray.  
+
+    ROGUESPINE.
+Nouferay Monsieur, nouferay,  
+Vous ne sçauriez jamais pis faire.  
+
+    RIBERCOUR. *(le battant.)*
+Je veux pour t'apprendre à te taire……  
+
+    ROGUESPINE.
+Pourquoy diable tant s'emporter.  
+
+    PANCRACE *(Retenant Ribercour.)*
+Arrestez il va tout conter.  
+
+    ROGUESPINE.
+Oüida, cela pourroit bien estre,  
+Aprenez donc Monsieur, mon Maistre,  
+Que je parlois avec raison ;  
+Puisque dedans cette maison  
+L'on ne voit plus de Pretieuses,  
+Et que ces races, & ces gueuses,  
+Par un endiablé de hazard  
+Logent maintenant autre-part.  
+
+    RIBERCOUR.
+Sans doute, quelqu'un tout à l'heure  
+T'auras pû dire leur demeure.  
+
+    ROGUESPINE.
+Il n'est point de gens de mestier  
+Qui la sçachent dans ce quartier,  
+D'autant que par un trait habille  
+Avant terme elles ont fait gile.  
+Mais je pense que l'on m'a dit,                       
+Oüy c'estoit un homme d'esprit,  
+Et ses discours sont fort croyables  
+Que du Marais, aux Incurables  
+Elles n'avoient rien fait qu'un saut.  
+
+    RIBERCOUR.
+Helas ! Je suis pris comme il faut,  
+Et tousjours le sort m'est contraire  
+Quand je veux faire quelque affaire.  
+Peste…..  
+
+    ROGUESPINE.
+Cessez de tant pester,  
+Et de plus vous inquietter,  
+Ce que je dis, n'est que pour rire  
+Et je m'en vais tout vous redire,  
+
+    RIBERCOUR.
+Quoy maraut……  
+
+    ROGUESPINE.
+        Cessez vos clameurs,  
+Puis qu'enfin les vieux serviteurs  
+Ont tousjours quelque privilege.  
+
+    RIBERCOUR.
+Tu m'as fait donner dans le piege.  
+Mais……  
+
+    ROGUESPINE.
+Mais escoutez à loisir,  
+Puisque selon vostre desir  
+J'ay reüssi dans vostre affaire.                      
+
+    PANCRACE.
+Escoutons, sans plus le distraire.  
+
+    ROGUESPINE.
+Avecque Monsieur le Sergent  
+Homme, tout à fait diligent,  
+Quand je vous quitté, nous allasmes  
+Tout droit au Marais, & trouvasmes  
+La ruë assez facilement  
+Dans laquelle est le logement  
+Des babillardes Pretieuses,  
+Qui sans doute ne sont pas gueuses.  
+Un venerable Savetier,  
+Qui loge en ce noble quartier,  
+D'une façon toute civille  
+Nous indiqua leur domicille,  
+Quoy qu'enfin, par un heureux cas,  
+Nous n'en fussions qu'à quatre pas.  
+A la porte, là nous heurtasmes  
+Et le heurtoir que nous trouvasmes  
+Estoit de linge emmailloté.  
+La chose est rare en verité,  
+Et de mesme qu'en ma memoire,  
+Merite une place en l'histoire,  
+Elle est faite avecque raison,  
+Car c'est une precaution  
+Dont bien souvent elles se servent  
+Et qu'entre-elles, elles observent,  
+Pour que, leur conversation                      
+N'ait jamais d'interruption.  
+Il vint à la susdite porte,  
+Une calle, ou lacquais, n'importe  
+Qui nous ouvrist civilement.  
+Nous sans un long raisonnement  
+A l'instant mesme nous entrasmes  
+Et puis après nous le priasmes,  
+Que sa maistresse, pût sçavoir  
+Que nous desirions fort la voir.  
+Droit à la porte de sa chambre,  
+Où l'on sentoit le musc & l'ambre  
+Le susdit lacquais nous mena,  
+Puis apres il s'en retourna  
+Nous querir certaine suivante,  
+Que je trouvay fort obligeante,  
+Laquelle, je ne sçay pourquoy,  
+*Commune* [ii], il nomma devant moy ;  
+Cette fille, je la crois telle,  
+Vestuë, en jeune Damoiselle,  
+Apres deux mille questions  
+Sans les interrogations,  
+Alloit avec grande vitesse  
+Dans la chambre de sa maistresse,  
+Afin de la faire venir  
+Pour pouvoir nous entretenir :  
+Lors que de cette Pretieuse,  
+L'impatience merveilleuse  
+Fut cause qu'on nous fist entrer.                   
+Nostre Sergent sans differer  
+Voyant cette femme sçavante  
+D'abord, vostre exploit lui presente.  
+Pendant le temps qu'elle le leust,  
+Et qui certes un long-temps fut,  
+Sans y trembler en aucun membre,  
+Je consideray fort la chambre  
+Dans laquelle à loisir je vis  
+Des Pretieuses de Paris,  
+Une longue & nombreuse bande.  
+
+    RIBERCOUR.
+Et ta joye alors fut bien grande  
+D'estre entré si heureusement ;  
+Mais faits nous le denombrement  
+De ce que dedans cette chambre,  
+Qui sentoit tant le musc et l'ambre,  
+Tu vis de beau, de surprenant.  
+
+    ROGUESPINE.
+Vous l'allez sçavoir, maintenant.  
+Car je commence & sans encombre.  
+Cette chambre estoit assez sombre,  
+Le grand jour, n'y pouvant entrer  
+A cause qu'elles font tirer  
+Pour l'empescher de trop paroistre  
+Des rideaux, devant la fenestre  
+Sçachant, que la grande clarté  
+Efface un peu de la beauté.  
+J'y remarqué de plus, en suitte                      
+Quoy que la chambre, fut petite,  
+Que depuis la porte on voyoit  
+Un paravant qui s'estendoit  
+Jusqu'au prés de la cheminée.  
+Pour respondre à ma destinée,  
+Qui m'avoit fait heureusement  
+Entrer dans cét appartement ;  
+De ladite chambre le reste  
+Sincerement je le proteste,  
+Je n'examiné nullement  
+Pour ne pas perdre le moment  
+Que j'avois de lorgner ces belles,  
+Dedans l'une de leurs ruelles.  
+Seize environ elles estoient,  
+De plus toutes elles avoient  
+Au moins, ne s'en falloit-il guere,  
+Assis sur leurs manteaux par terre  
+Paroissans fort humiliez,  
+Un homme, chacun à leurs pieds,  
+Sans ceux qui tres-fort à leur aise  
+Estoient assis dans une chaise,  
+Et faisoient peu les courtisans.  
+Elles avoient tant de rubans,  
+Que je dis, sans dire sornettes,  
+Que comme Mulets de sonnettes  
+Elles estoient, & croyez my,  
+Toutes chargées, par ma foy.  
+La pluspart encore d'entre-elles                      
+Soit deslaides, ou soit des belles,  
+Tenoient avec un air badin,  
+Chacune une canne à la main,  
+La faisant brandiller sans cesse,  
+Et sans mentir je vous confesse  
+Que je n'osois ouvrir le bec  
+Et que j'allois mourir illec,  
+Tant de peur j'avois l'ame esmeuë,  
+Si je n'eus point jetté la veuë  
+Dessus le Sergent, qui d'abord  
+Parût me r'asseurer bien fort.  
+Mais sans vous parler davantage  
+Du Sergent, ny de mon courage,  
+De peur de paroistre poltron,  
+Reprenons la description.  
+Beaucoup sans attendre aux Dimanches,  
+Avoient mis des coiffures blanches  
+Qui toutes en pointe estoient.  
+Beaucoup d'autres, encore avoient  
+Des coiffures, à la païsanne,  
+Et non pas à la courtisanne ;  
+Si depuis un temps à la Cour  
+La mode n'a joüé son tour.  
+Celles qui restoient….ah ! sans rire,  
+Je ne sçay si je le puis dire,  
+Avoient tout au tour du museau  
+De toille jaune, un grand morceau  
+Si gras, que sans estre Prophete,                      
+On l'eust pris pour une ommelette.  
+Si je ne me trompe voila  
+Comme ces Pretieuses-là,  
+Qui ma foy, sont assez jolies  
+Estoient par la teste basties.  
+Or voyons tout presentement  
+Comme estoit leur habillement.  
+Les unes, sans que je vous mente,  
+Avoient une tres-longue fente  
+A leurs habits, cela s'entend,  
+Et qui se rejoignoit pourtant  
+Par des galands, que devant elles,  
+Avoient fait attacher ces belles.  
+Je puis dire que ces habits  
+Estoient faits de fort beaux tabis,  
+Et d'autres estoffes tres rares :  
+Ces habits sont nommez Cimarres,  
+D'autres avoient des Justeau-corps  
+Et d'autres avoient par le corps,  
+Des robbes tout au tour plissées,  
+Parce qu'elles sont plus aisées.  
+Ceux qui s'y fort humiliez  
+Estoient abaissez à leurs pieds  
+Et montroient un cœur plein de flambes,  
+N'avoient point presque tous de jambes,  
+Du moins, ne les voyoit-on pas  
+Tant le rond, & grand embaras  
+De leurs canons à tous estages                      
+A leurs jambes faisoit d'ombrages.  
+Leur estomach asseurément,  
+Et leurs espaules mesmement  
+Estoient j'en ose jurer certes,  
+De grands cheveux toutes couvertes  
+Et pour avoir plus de beauté  
+Leur visage estoit moucheté.  
+Ils avoient selon leurs coustumes  
+Des chapeaux, tous chargez de plumes,  
+Et des rabats tout à fait beaux  
+Qui jusqu') l'espine du dos  
+Descendoient à tous par derriere ;  
+Et j'appris de la chambriere,  
+Qui dans la chambre, en ce moment  
+Se trouva fortuitement,  
+Qu'ils estoient, non Anabaptistes,  
+Mais bien des galands Alcovistes  
+Ou bien pour vous l'expliquer mieux,  
+Des galands, nommez Pretieux.  
+Je fus encor instruit d'icelle,  
+Je la croy pourtant Damoiselle ;  
+Mais cela vous importe peu,  
+Pourquoy ceux qui dedans ce lieu  
+Comme j'ay dit, tres à leur aise  
+Estoient chacun dans une chaise,  
+Avoient tous les yeux fort battus,  
+De plus estoient de noir vestus,  
+Avoient la mine rechignée,                       
+Avoient la teste mal peignée,  
+Avoient de si petits rabats,  
+Qu'on ne les voyoit presque pas,  
+Et dont la toille telle quelle,  
+N'avoit point du tout de dentelle.  
+Autheurs, elle les appella  
+Et me dit, que comme cela  
+D'une serieuse manière  
+Ils s'habilloient tous d'ordinaire,  
+Pour pouvoir avec equité  
+Mieux soustenir la gravité,  
+La beauté, le credit, le lustre,  
+De leur profession Illustre.  
+Je sçeus d'elle encore de plus  
+En discours, non pas ambigus,  
+Que quand pour chercher un bon terme  
+Ils estudioient de pied ferme  
+Et que leurs testes ils grattoient  
+Leurs cheveux souvent se mestoient,  
+Et c'est pour cela que les Poëtes,  
+Qui bien souvent font les Prophetes,  
+Et que sans droit vous dedaignez,  
+Paroissent souvent mal peignez.  
+Voila le recit tres-fidelle  
+De tout ce que m'aprit la belle.                      
+
+    RIBERCOUR.
+Je trouve qu'en voila beaucoup.  
+
+    PANCRACE.
+C'est tres-bien pour le premier coup.  
+
+    RIBERCOUR.
+Et tant que j'ay peine à le croire.  
+
+    ROGUESPINE.
+Mais attendez, si ma memoire  
+Pouvoit un peu me revenir,  
+Je pourrois vous entretenir  
+Encor de quelque circonstance  
+Qu'elle m'a dit & que je pense  
+Avoir oubliée, ah ! vraimy  
+Je m'en resouviens à demy.  
+Ouy c'est sans tarder davantage  
+Qu'elle divisa par estage  
+Tous les autheurs, illec presens,  
+Si mornes & si suffisans.  
+Les uns font en Vers Heroïques  
+Des Poëmes qu'on appelle Epicques  
+Et de ces Livres si charmants  
+Que nous appellons des Romans.  
+Les autres, sans estre des Comtes,  
+Se mettent de faire des Contes  
+Pour rire, je l'entends ainsi,  
+Et d'y bien reüssir aussi.  
+Un seul d'entre-eux ay-je oüy dire,  
+Se picque d'y bien faire rire,  
+Et je croy que c'est un Abbé,                      
+Dont le nom commence par B.  
+Les derniers font des Comedies,  
+Des Madrigaux, des Elegies  
+Des Chansons, Sonnets, & Portraits  
+Dessus de differends sujets.  
+J'en aurois appris d'avanage ;  
+Mais le Sergent, dequoy j'enrage,  
+Sortist dans ce mesme moment  
+Et je le suivis promptement.  
+
+    RIBERCOUR.
+Ce discours a dequoy nous plaire.  
+Mais ce n'est pas là nostre affaire  
+Dis nous ! Si d'un air fier ou non,  
+Elle a veu l'assignation.  
+
+    ROGUESPINE.
+Dés aussi-tost qu'elle l'a veuë,  
+Elle l'a prise & puis l'a leuë,  
+Et dit fort serieusement  
+Qu'elle s'y rendroit promptement.  
+
+    RIBERCOUR.
+Elle y montrera sa foiblesse.  
+
+    PANCRACE.
+Allons viste, l'heure nous presse.  
+
+    RIBERCOUR.
+Allons Monsieur, j'en suis d'accord,  
+Voir ce qu'ordonnera le sort.                      
+
+
+### SCENE XIII.
+
+    ROGUESPINE. *seul.*
+Dieux ! qu'ils ont le jugement mince ;  
+J'ay sçeu dedans nostre Province  
+La moitié de ce que je dis ;  
+Que je les ay bien estourdis :  
+Mais allons ouïr leurs harangues,  
+Allons voir remuer leurs langues ;  
+Car j'en jurerois bien ma foy,  
+Ce doit estre un plaisir de Roy.  
+On leve une toille, les Juges paroissent avce un Greffier.        
+
+
+
+### SCENE XIV.
+PATRICE, ANAXARITE
+
+ARISTIME. Un Greffier.
+
+
+    PATRICE.
+Enfin nous voicy tantost Juges.  
+
+    ARISTIME.
+Nous pourrons servir de refuges  
+A ceux qui n'ont besoin de rien.  
+
+    ANAXARITE.
+Mais encore sçavez-vous bien  
+Si nostre homme icy se doit rendre  
+Et s'il ne fera point attendre.  
+
+    PATRICE.
+Il viendra, car je luy dis hier  
+Aussi-tost qu'il me vint prier  
+De luy respondre sa requeste ;  
+Que l'Academie estoit preste  
+De luy servir en tout d'appuy,  
+Et que de son corps aujourd'huy  
+Elle en choisiroit trois ou quatre  
+Qui viendroient l'entendre combattre  
+A force de raisonnement  
+Sa partie, & qu'asseurement  
+Il auroit l'honneur, & la gloire                      
+D'emporter une ample victoire.  
+
+    ARISTIME.
+Attendons-le donc à loisir,  
+Puisque nous aurons un plaisir  
+Qui certes, n'est pas ordinaire.  
+Mais quelqu'un vient, il nous faut taire.  
+
+    ANAXARITE.
+C'est desja nostre Deputé.  
+
+    PATRICE.
+Tenons donc nostre gravité.  
+
+
+### SCENE XV.
+PATRICE, ANAXARITE,
+
+ARISTIME, Un Greffier,
+
+RIBERCOUR, PANCRACE.
+
+ROGUESPINE.
+
+
+    RIBERCOUR.
+Messieurs, j'en veux aux Pretieuses,  
+A ces femmes pernicieuses,  
+Qui troublent le repos public,  
+Qui causent dedans le trafic  
+Par des mots, inintelligibles,                       
+Des revolutions terribles,  
+Et je deman, de là-dessus  
+Que leur langage ne soit plus  
+Aux mesmes fins de ma Requeste.   
+Quoy ! personne ne me tient teste.  
+Ah ! Messieurs n'estants point icy  
+Jugez s'il vous plaist.  
+
+    PATRICE.
+            Les voicy.  
+
+
+### SCENE XVI.
+PATRICE, ANAXARITE, ARISTIME
+
+Un Greffier, RIBERCOUR,
+
+PANCRACE, EPICARIE ;
+
+ROGUESPINE, Une Suivante.
+
+
+    RIBERCOUR.
+Approchez-vous belle jazeuse,  
+Vrayment pour une Pretieuse,  
+Vous ne vous pressez pas trop fort.  
+
+    EPICARIE.
+C'est signe que je n'ay pas tort.                          
+
+    RIBERCOUR.
+Ah ! Sans chercher tant de finesses  
+C'est que vous faisiez voir vos pieces  
+Sans doute, à quelque homme sçavant.  
+
+    EPICARIE.
+Peut-estre !  
+
+    RIBERCOUR.
+        Et bien d'oresnavant  
+Du procez verra-t'on l'issuë ?  
+
+    EPICARIE.
+Pour le finir je suis venuë,  
+
+    RIBERCOUR.
+Dans vostre consultation  
+Faite dessus mon action,  
+Aviez-vous vos pieces en ordre !  
+
+    EPICARIE.
+Assez pour sur vous pouvoir mordre ?  
+
+    RIBERCOUR.
+Avez-vous ? consulté souvent…..  
+
+    EPICARIE.
+Vous voulez estre trop sçavant.  
+Mais pour mieux pousser sa partie,  
+Pour la rendre sans repartie  
+Tout du moins je croy qu'il faudroit…  
+
+    RIBERCOUR.
+Quoy ! vous monstrer que j'ay bon droit.                  
+
+    EPICARIE.
+Ne l'ayant pas peu voir encore,  
+Vous voulez bien que je l'ignore.  
+
+    RIBERCOUR.
+Bien, bien, nous vous le monstrerons,  
+Puis apres cela nous verrons  
+Lequel des deux perdra sa cause.  
+
+    EPICARIE.
+Je crains, mais c'est pour autre chose.  
+
+    ARISTIME.
+Cessez ce debat entre vous,  
+Il faut du respect devant nous.  
+Pensez bien à ce que vous faites  
+Et songez aux lieux où vous estes.  
+
+    PATRICE.
+Cessez donc la vexation,  
+Nous faisant exhibition  
+Chacun à part de vostre cause.  
+
+    RIBERCOUR.
+Messieurs, je vous diray, si j'ose  
+Que j'ay droict de la chicanner,  
+Que vous la devez condamner ;  
+Puisque mes pieces qu'on a veües  
+Ont parû tout à fait congrües,  
+Mon procez fort bien intenté,  
+Et que c'est une verité  
+Que le droict que quoy je me fonde                      
+Passe pour le meilleur du monde.  
+C'est ce qui fait qu'enfin je croy  
+Que ma partie en desarroy  
+Considerant toutes ces choses,  
+Plus vrayes que metamorphoses,  
+Sans attendre à l'extremité  
+Se rangera de mon costé ;  
+Puis qu'enfin toutes ses deffences  
+Estant de nulles consequences  
+J'aurois de vous asseurément  
+Un favorable jugement  
+Et celuy que je sollicite  
+Contre cette langue maudite,  
+Ou Messieurs, pour m'expliquer mieux  
+Contre le parler Pretieux,  
+Qui s'y bien-tost, l'on n'y met ordre  
+Va faire un terrible desordre.  
+
+    EPICARIE.
+Messieurs, je m'en vais en deux mots  
+Mettre son esprit en repos,  
+Faites qu'on me donne Audiance.  
+
+    PATRICE.
+Non, l'affaire est trop d'importance,  
+Il faut l'entendre tout du long.  
+
+    EPICARIE.
+Mais au moins Messieurs, songez donc  
+Que bon droit vous me devez faire.                      
+
+    PATRICE.
+Nous examinerons l'affaire.  
+Mais parlez, nous vous escoutons.  
+
+    RIBERCOUR.
+Pour vous déduire mes raisons  
+Sans vous faire une longue harangue  
+Je dis Messieurs, que nostre langue  
+Se trouve en un piteux estat  
+Depuis le surprenant esclat  
+Qu'a fait celle des Pretieuses.  
+Dans les Citez les plus fameuses,  
+Pour s'entendre presentement  
+Il faut avoir un truchement,  
+Ou le nouveau Dictionnaire,  
+Que ces femmes viennent de faire.  
+Quelle conclusion pour nous,  
+Ah ! Messieurs, à quoy songez-vous ;  
+Les femmes, oüy Messieurs les femmes,  
+Nous couvrent aujourd'huy de blasmes  
+Et viennent de faire en effet  
+Ce que jamais vous n'avez fait  
+Au moins, si ce n'est en idée ;  
+Pour nostre bien par trop gardée,  
+Mais pour leur reputation  
+Par un beau desir de renom,  
+Elles ont un Dictionnaire  
+Tout fraischement mis en lumiere,  
+Auquel chacun court comme au feu,                   
+Et nous en promettent dans peu  
+De leur façon encore un autre :  
+Cependant helas ! que le vostre  
+Depuis si long-temps commencé,  
+N'en est pourtant encor qu'au C.  
+Ah ! je vois bien que c'est l'ouvrage  
+De Penelopes, & je gage  
+Que dans ce livre l'Omega,  
+Jamais place ne trouvera.  
+De plus j'ose vous dire encore  
+Que si ce parler que j'abhorre  
+Et que l'on nomme Pretieux,  
+S'en racine dans tous les lieux  
+Où l'on sçait qu'il a pris naissance  
+Vous devez Messieurs, que je pense,  
+Et vous agirez comme il faut,  
+A l'Alpha remettre bien-tost  
+Vostre fameux Dictionnaire  
+Que vous commençastes de faire  
+En l'an deux cent cinquante-deux  
+Et qui devoit selon mes vœux,  
+Et selon nostre juste attente,  
+Dedans l'an mil six cens quarante  
+Estre dans sa perfection.  
+Songez donc Messieus, tout de bon  
+A me faire bonne justice  
+Me donnant un Arrest propice ;  
+Mais j'ay tort de vous y pousser                      
+Ne devez-vous pas ? embrasser  
+O Senat mille fois auguste,  
+Un interest si grand, si juste,  
+Et qui par mon heureux destin  
+N'est autre que le vostre enfin.  
+Cependant si ces factieuses,  
+Ces heretiques Pretieuses,  
+Parlent encore ce jargon,  
+La Tour de Babel tout de bon,  
+Dans ce Siecle va renaistre  
+Et dans la France, va paroistre,  
+Mal-heur plus à craindre cent fois  
+Pour les Nobles, pour les Bourgeois,  
+(Mais non pas pour les Eminences)  
+Que les maudites influences  
+Du Capricorne. Neantmoins  
+Si vous n'y mettez tous vos soins,  
+Le desordre s'en va paroistre  
+Que la susdite Tour fist naistre  
+Alors que l'on la batissoit.  
+Cependant helas ! ce n'estoit  
+Que la quantité des langages  
+Qui causa de si grands ravages,  
+Qui fist diviser les mortels,  
+Qui fist piller jusqu'aux Autels,  
+Bref qui parmy toute la Terre,  
+Fist naistre pour jamais la guerre.  
+Je vous addresse donc mes vœux                      
+Messieurs, pour que le Pretieux,  
+Afin qu'en cette conjoincture  
+J'empesche pareille adventure,  
+Soit cassé, brisé, mis à mort  
+Dans les lieux de vostre ressort  
+Comme estant fatal au commerce,  
+Que par tout il trouble & renverse,  
+Et qu'expresse inhibition  
+Soit faite par provision  
+A tout le corps des Pretieuses,  
+Des inventrices perilleuses  
+Des mots, qui par leur nouveauté  
+Troublent nostre felicité,  
+De ne s'en plus servir, *à peine*  
+*De ne jamais lire**Artamene*,  
+Ny mesme aucun autre Roman ;  
+Ou pour un plus dur chastiment  
+Que le lit, desdites femelles,  
+Soit des deux costez sans ruelles  
+Et qu'il soit mesmement placé  
+Sans estre du tout exaucé.  
+
+    ROGUESPINE *(à part.)*
+Peste il a retenu sans peine  
+Tout ce qu'un Advocat du Maine,  
+Luy dit, avant que de partir.  
+
+    PATRICE *(à Epicarie.)*
+Avez-vous de quoy repartir ?                      
+
+    EPICARIE.
+Oüy je suis preste de respondre  
+Et mesmement de le confondre,  
+Et sans parler hors de propos  
+Je m'en vais Messieurs, en deux mots,  
+Afin de deffendre ma cause  
+Donner dans le vray de la chose.  
+
+    RIBERCOUR.
+Ah ! quelle perturbation  
+Voyez son obstination,  
+Voyez avec quelle asseurance,  
+Avec quel front, quelle insolence,  
+Elle ose jusques dans ces lieux  
+Parler devant vous Pretieux.  
+
+    ANAXARITE.
+N'interrompez point sa harangue,  
+Et que devant nous vostre langue  
+Se tienne un peu plus en repos.  
+
+    EPICARIE.
+Je dis donc, Messieurs, en deux mots  
+Qu'il n'a rien dit de patetique  
+Qu'on ne voit rien de plus inique  
+Rien mesme, qui selon mon sens,  
+Soit plus contre le droit des gens  
+Que de vouloir oster aux femmes,  
+La langue, puis qu'enfin sans ames  
+Elles vivroient asseurément  
+Plutost que sans langue un moment.  
+L'on sçait de science certaine                      
+Que c'est là leur vray patrimoine,  
+Que pour en amoindrir les droits  
+L'on n'a point encor fait de loix  
+Dedans Villages, Bourgs, ny Villes,  
+Puis qu'elles seroient inutiles.  
+Cette seule raison pourroit  
+Prouver suffisamment mon droit ;  
+Mais je ne puis encor me taire  
+Et je poursuis. Sa cause entiere  
+S'estend sur les troubles passez  
+Dont il nous croit fort menacez,  
+Par la confusion des langues.  
+
+    ROGUESPINE *(à part.)*
+Elle fait fort bien des harangues.  
+
+    EPICARIE *(poursuit.)*
+Comme si Paris maintenant  
+Craignoit quelque mal surprenant,  
+Parce qu'a present l'on y parle  
+Comme on fait au Maine, & dans Arle,  
+Et qu'on y parle aussi Gascon,  
+Normand, bas-Breton, Bourguignon,  
+Hollandois, & de plus encore,  
+Italien, Grec, Latin, More,  
+Espagnol, Polonois, Flamand,  
+Persan, Turc, Hebreux, Allemand,  
+Picart, Chaldeen ; pour le reste  
+J'en dis & cetera.                           
+
+    ROGUESPINE *(à part.)*
+        La peste,  
+Elle en a bien dit à la fois,  
+Quoy qu'elle ait oublié l'Anglois.  
+
+    EPICARIE *(continuë.)*
+Je croy Messieurs, par cét exemple  
+Aussi puissant comme il est ample,  
+Avoir prouvé suffisamment  
+Et mesme intelligiblement,  
+Que la quantité de langages  
+Ne sçauroit causer de dommages  
+A Paris, ny dans d'autres lieux :  
+Reste à voir si le Pretieux,  
+Qui maintenant est en usage  
+Est un bon, ou mauvais langage.  
+Or si nous pretendons le voir  
+Il faut auparavant sçavoir,  
+De quels gens il a pris naissance.  
+
+    RIBERCOUR *(à part.)*
+Juste Dieux qu'enten-je, je pense  
+Qu'icy je ne gaigneray rien  
+Tant cette femme jase bien.  
+
+    EPICARIE *(continuë.)*
+Il nacquit l'an six cens cinquante,  
+Et de chacun trompa l'attente ;  
+Car j'ay de notables tesmoins  
+Que l'on ne songeoit à rien moins.  
+Des femmes, enfin l'enfanterent                      
+Et trente-neuf ans, le porterent ;  
+Mais voyez quelles elles sont,  
+Quel est le renom qu'elles ont.  
+Elles ressemblent aux Abeilles  
+Hormis que c'est par les oreilles  
+Qu'elles ont pendant tout le temps  
+Des dusnotez trente-neuf ans,  
+Succé tous les discours des Poëtes,  
+Des cervelles les plus parfaites,  
+De tous ceux qui par leur espris  
+Sont dans le Monde en grand credit,  
+Des plus galands portes soutanes,  
+Des Courtisans, des Courtisanes,  
+Des gens d'espée, & du bareau.  
+
+    ROGUESPINE *(à part.)*
+Elle n'a rien dit du Boureau.  
+
+    EPICARIE *(continuë.)*
+Des Messieurs de l'Academie,  
+De qui la gloire est infinie,  
+Et dont vous estes aujourd'huy  
+Afin de me servir d'appuy ;  
+Jugez donc Messieurs, si ces femmes ;  
+Si ces belles & grandes ames,  
+Apres avoir le suc tiré  
+Et tout le jus bien pressuré  
+De maint illustre personnage  
+Ne pouvoient pas faire un langage  
+Et si loings de les condamner                      
+Vous ne devez pas ordonner  
+Que Ribercour, quoy qu'il demande,  
+Quoy que contre nous il pretende,  
+Soit & sans prerogation  
+Deboutté de son action,  
+Comme estant frivole & inepte.  
+(Les Juges opinent.)
+
+
+    ROGUESPINE.
+Escoute un peu jeune soubrette.  
+
+    LA SUIVANTE.
+Qu'est-ce ?  
+
+    ROGUESPINE.
+Ma foy, plaidons nous deux,  
+Car je me trouve assez joyeux  
+Et mesme en estat de te faire  
+Pour ne point traisner nostre affaire  
+Desja communication  
+De……  
+
+    LA SUIVANTE.
+Moy, pour changer l'action  
+J'insinuërois bien sur ta joüe  
+Un soufflet.  
+
+    ROGUESPINE.
+        Va c'est que je jouë,  
+Mais pourtant si nous nous plaidions  
+Si tous deux nous nous chamaillions  
+Il vaudroit ma foy mieux je pense                  
+Pour obvier à la despence  
+Grossoyer ensemble à loisir  
+Nos pieces, peste quel plaisir.  
+
+    PATRICE *(prononce.)*
+Oüy le differend des Parties,  
+Leurs differences & reparties  
+Nous ordonnons selon vos vœux  
+Que le langage Pretieux,  
+Par Arrest celebre, authentique  
+Et de plus encor juridique,  
+Soit cassé, brisé, mis à mort  
+Dans les lieux de nostre ressort :  
+Faisons mesme en cette sceance  
+Aux Pretieuses de la France,  
+Tres expresse inhibition,  
+De ne plus parler ce jargon,  
+Ny de s'en plus servir à peine  
+*De ne jamais lire**Artamene*,  
+Ny mesme aucun autre Romant,  
+Ou pour un plus dur chastiment  
+Que le lit, desdites femelles  
+Soit des deux costez sans ruelles,  
+Et qu'il soit mesmement placé  
+Sans estre du tout exaucé.  
+(Le Siege se leve.)                            
+
+
+    RIBERCOUR.
+Enfin je suis couvert de gloire,  
+Car j'ay remporté la victoire.  
+
+    PANCRACE.
+Vous devez estre fort joyeux  
+D'avoir destruit le Pretieux,  
+Et d'avoir pû dessus tant d'ames  
+Sur tant d'opiniastres femmes  
+Remporté le dessus.  
+
+    EPICARIE.
+(Donnant une lettre à Ribercour.)
+
+        Tout doux  
+Peut-estre aurez vous le dessous,  
+Et cecy me fera justice  
+En despit de Monsieur Patrice,  
+(Elle sort avec sa suivante.)
+
+Qui sans trop bien sçavoir pourquoy  
+Vient de prononcer contre moy.  
+
+    RIBERCOUR. 
+(Prend la lettre & lit.)                        
+
+*Cher amy*,
+Je te conseille de laisser là ton procez, & de revenir dans nostre Province, car j'ay appris depuis que tu en es party que c'est un tour que l'on t'a joüé, & que ceux de ce païs qui t'ont envoyé s'entendent avec trois ou quatre personnes de Paris, qui doivent contrefaire les Juges, & les Pretieuses, pour se divertir de toy, je te donne cét advis ; & suis,
+Ton Serviteur,
+fontenay.
+(Ribercour continuë.)
+
+Quoy l'on m'a joüé de la sorte  
+Cher amy, le couroux m'emporte,  
+Par la mort, je m'en vengeray.  
+
+    ROGUESPINE.
+Et moy, par ma foy, j'en riré.  
+
+    RIBERCOUR. 
+Mais celuy qui cecy m'avance  
+N'est-il point de l'intelligence.                      
+
+    PANCRACE.
+Peut-estre, mais je vois enfin  
+Que vous n'estes pas le plus fin,  
+Que ce n'est que vous qu'on balotte  
+Et qu'on fait servir de marotte.  
+
+    RIBERCOUR. 
+Cependant à des gens d'honneur  
+Cét affront doit tenir à cœur ;  
+Mais je sçauray je vous le jure,  
+Tirer raison de cette injure,  
+Et vais…….  
+
+    ROGUESPINE.
+        En poste vistement  
+Regaigner le païs du Mant,  
+Car je croy qu'on vous y prepare  
+Une entrée tout à fait rare,  
+Et qui doit respondre au succez  
+D'un si favorable Procez.  
+FIN.
+
+-------
+
+
+[i]  Texte établi à partir de l'exemplaire conservé à la Bibliothèque Nationale de France sous la cote « Rés. Yf-4128 » et disponible sur le site Gallica.
+
+[ii]  Commune en Prétieux veut dire suivante.

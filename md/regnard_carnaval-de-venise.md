@@ -1,0 +1,1314 @@
+---
+identifier: regnard_carnaval  
+creator: REGNARD, Jean-François  
+date: 1699  
+title: LE CARNAVAL DE VENISE  
+---
+
+
+LE CARNAVAL DE VENISE
+
+BALLET EN TROIS ACTES
+
+avec un PROLOGUE
+
+1699
+
+par Régnard
+
+
+Représentée pour l'Académie royale de Musique en mai 1699.
+
+
+# PERSONNAGES du BALLET
+ – UN ORDONNATEUR.
+ – MINERVE.
+ – Un suivant de la Danse.
+ – Un suivant de la Musique.
+ – Chœur d'ouvriers.
+ – Troupe de génies qui président aux arts.
+
+
+# PERSONNAGES de L'OPÉRA
+ – PLUTON.
+ – ORPHÉE.
+ – EURYDICE.
+ – UNE OMBRE.
+ – Troupe de divinités infernales.
+ – Troupe d'Esprits follets.Le théâtre représente une foire, ou une assemblée de différentes nations. Mercure entre, suivi de tous ceux qui viennent lui demander l'accomplissement de leurs souhaits.
+
+
+# PROLOGUE DU CARNAVAL DE VENISE
+Le Théâtre représente une salle où l'on doit donner un spectacle : tout y est encor en désordre ; le lieu est plein de morceaux de bois et de décorations imparfaites ; et l'on y voit quantité d'ouvriers qui travaillent pour mettre tout en état.
+
+
+
+## SCÈNE I
+Un Ordonnateur, Chœur d'ouvriers.
+
+
+    L’ORDONNATEUR
+Hâtez-vous, préparez ces lieux ;  
+Ne perdez pas des moments précieux.  
+
+    LE CHŒUR
+Hâtons-nous, préparons ces lieux ;  
+Ne perdons pas des moments précieux.  
+
+    L’ORDONNATEUR
+Redoublez vos efforts, dépêchez, le temps presse ;  
+Tout accuse votre lenteur ;  
+On ne peut travailler avec assez d'ardeur,  
+Quand au plaisir on s'intéresse.  
+Hâtez-vous, préparez ces lieux ;  
+Ne perdez pas des moments précieux.  
+
+    LE CHŒUR
+Hâtons-nous, préparons ces lieux ;  
+Ne perdons pas des moments précieux.  
+
+    L’ORDONNATEUR
+Quelle divinité s'empresse  
+À descendre des cieux ?  
+Minerve paraît à nos yeux.  
+
+
+## SCÈNE II
+Minerve, l'Ordonnateur, Chœur d'ouvriers.
+
+
+    MINERVE
+Je quitte sans regret la demeure immortelle,  
+Pour venir en ce jour,  
+Dans une aimable cour,  
+Partager les plaisirs d'une fête nouvelle.  
+Mais quel désordre affreux règne de toutes parts ?  
+Quelle main téméraire  
+Ôte à ces lieux leur éclat ordinaire ?  
+Est-ce ainsi qu'on prétend mériter mes regards ?  
+
+    L’ORDONNATEUR
+Par nos soins empressés, par notre diligence,  
+Rous allons satisfaire à votre impatience.  
+Hâtez-vous, préparez ces lieux ;  
+Ne perdez pas des moments précieux.  
+
+    LE CHŒUR
+Hâtons-nous, préparons ces lieux ;  
+Ne perdons pas des moments précieux.  
+
+    MINERVE
+Pour attirer les yeux d'un grand prince que j'aime,  
+Vos soins me paraissent trop lents.  
+Retirez-vous, ministres négligents,  
+Je prétends m'employer moi-même.  
+Accourez, dieux des arts ; embellissez ces lieux ;  
+Qu'à ma voix votre ardeur réponde ;  
+Servez le fils du plus grand roi du monde ;  
+C'est un emploi digne des dieux.  
+
+
+## SCÈNE III
+Les divinités qui président aux arts, la Musique, la Danse, la Peinture, l'Architecture, etc. viennent à la voix de Minerve, avec leurs suivants, et élèvent un théâtre magnifique.
+
+
+    LE CHŒUR
+Servons le fils du plus grand roi du monde ;  
+C'est un emploi digne des dieux.  
+Entrée des Génies qui président aux arts.
+
+
+    UN SUIVANT DE LA MUSIQUE
+Qu'Amour dans nos fêtes  
+Fasse des conquêtes :  
+Où ce dieu n'est pas  
+Trouve-t-on des appas ?  
+Venez, cœurs sensibles,  
+Dans ces lieux paisibles ;  
+Il garde pour vous  
+Les plaisirs les plus doux.  
+Qu'Amour dans nos fêtes  
+Fasse des conquêtes :  
+Où ce dieu n'est pas  
+Trouve-t-on des appas ?  
+Il cause des larmes,  
+Des soins, des alarmes ;  
+Mais ses biens parfaits  
+Nous vengent de ses traits.  
+Qu'Amour dans nos fêtes  
+Fasse des conquêtes :  
+Où ce dieu n'est pas  
+Trouve-t-on des appas ?  
+
+    L’ORDONNATEUR
+Les dieux seuls en ce jour auront-ils l'avantage  
+De divertir le maître de ces lieux ?  
+Entre les mortels et les dieux,  
+Il faut que ce bien se partage.  
+
+    L’ORDONNATEUR, UN SUIVANT DE LA MUSIQUE, UN SUIVANT DE LA DANSE, ENSEMBLE
+Joignons nos voix, nos jeux et nos désirs ;  
+Que l'on donne aux mortels le soin de ses plaisirs,  
+Et dans le temple de Mémoire  
+Les dieux prendront soin de sa gloire.  
+Les Génies des arts recommencent leur danse.
+
+
+    MINERVE
+Jeunes cœurs, échappés à la fureur de Mars,  
+Venez, venez de toutes parts  
+Faire au champ de l'Amour les moissons les plus belles ;  
+Venez vous délasser de vos travaux guerriers ;  
+Faites ici des conquêtes nouvelles :  
+Les myrtes quelquefois valent bien des lauriers.  
+Célébrez un roi plein de gloire ;  
+Ses travaux nous ont fait un repos précieux :  
+Mille exploits éclatants consacrent sa mémoire ;  
+Il sait à ses drapeaux enchaîner la victoire ;  
+La Paix descend pour lui des cieux.  
+
+    LE CHŒUR
+Célébrons un roi plein de gloire ;  
+Ses travaux nous ont fait un repos précieux ;  
+Mille exploits éclatants consacrent sa mémoire ;  
+Il sait à ses drapeaux enchaîner la Victoire ;  
+La Paix descend pour lui des cieux.  
+
+    MINERVE
+Vous qui suivez mes pas, remplissez mon attente ;  
+Montrez, par les attraits d'un spectacle pompeux,  
+Tout ce que Venise a de jeux  
+Dans la saison la plus charmante.  
+
+
+# ACTE I
+Le théâtre représente la place Saint-Marc de Venise.
+
+
+
+## SCÈNE I
+
+    LÉONORE, SEULE
+J'ai fait l'aveu de l'ardeur qui m'enflamme,  
+L'Amour a vaincu la fierté ;  
+Cet aveu, qui m'a tant coûté,  
+D'un nouveau trouble agite encor mon âme.  
+Amour, toi qui peux tout charmer,  
+Pourquoi faut-il, sous ton empire,  
+Qu'on ait tant de plaisir d'aimer,  
+Et qu'on souffre tant à le dire ?  
+Je cherche en vain de toutes parts,  
+Léandre ne vient point s'offrir à mes regards.  
+Depuis qu'il connaît ma faiblesse,  
+Je ne vois plus le même empressement.  
+Hélas ! Ce qui devrait animer un amant,  
+Fait bien souvent expirer sa tendresse.  
+Amour, toi qui peux tout charmer,  
+Pourquoi faut-il, sous ton empire,  
+Qu'on ait tant de plaisir d'aimer,  
+Et qu'on risque tant à le dire ?  
+Isabelle paraît ; un soudain mouvement  
+Augmente ma crainte fatale.  
+Ciel ! N'est-ce point une rivale ?  
+Ah ! Qu'un cœur amoureux est jaloux aisément !  
+
+
+## SCÈNE II
+Isabelle, Léonore.
+
+
+    ISABELLE
+Dans ces beaux lieux, où tout enchante,  
+Je viens donner quelques moments  
+Aux jeux, aux spectacles charmants  
+Qu'ici la saison nous présente.  
+
+    LÉONORE
+Dans ces spectacles, dans les jeux,  
+Ce n'est point cet éclat pompeux  
+Qui toujours nous attire ;  
+Sous ce prétexte, dans ces lieux  
+L'Amour prend soin de nous conduire,  
+Pour y voir quelque objet qui nous plaît encor mieux.  
+
+    ISABELLE
+Je ne veux point faire un mystère  
+De l'amour qui peut m'engager :  
+J'aime un jeune étranger,  
+Et je cherche en ces lieux l'objet qui m'a su plaire.  
+
+    LÉONORE
+À vous faire un pareil aveu  
+Cette confidence m'engage ;  
+Et pour un étranger j'ai senti naître un feu  
+Que son cœur avec moi partage.  
+De ses tendres regards je me sens enchanter.  
+
+    ISABELLE
+À ses discours flatteurs je n'ai pu résister.  
+
+    LÉONORE
+Il m'aime d'une ardeur extrême ;  
+Il m'a juré de m'aimer constamment.  
+
+    ISABELLE
+Le tendre amant que j'aime  
+M'a fait cent fois même serment.  
+
+    LÉONORE
+Apprenez-moi le nom de cet amant fidèle.  
+
+    ISABELLE
+Nommez-moi cet objet de votre amour nouvelle.  
+
+    ENSEMBLE
+C'est Léandre. Qu'entends-je ? Ô dieux !  
+
+    LÉONORE
+Le perfide !  
+
+    ISABELLE
+        L'ingrat !  
+
+    LÉONORE
+        Il faut briser nos nœuds ;  
+Que mon dépit fasse éclater le vôtre ;  
+Il nous abuse l'une ou l'autre.  
+
+    ISABELLE
+Peut-être que l'ingrat nous trompe toutes deux.  
+
+    LÉONORE
+Il vient ; pénétrons dans son âme  
+Le secret de sa flamme.  
+
+
+## SCÈNE III
+Léandre, Isabelle, Léonore.
+
+
+    ISABELLLE, À LÉANDRE
+Puis-je croire que votre cœur  
+Pour une autre que moi soupire ?  
+
+    LÉONORE, À LÉANDRE
+Ingrat, ne m'as-tu pas mille fois osé dire  
+Que tu brûlais pour moi d'une sincère ardeur ?  
+
+    LÉANDRE
+Quand je vous vois ensemble,  
+L'Amour, qui dans vos yeux tous ses charmes rassemble,  
+Est également triomphant ;  
+Entre deux beaux objets, qui tons deux savent plaire,  
+Le choix est difficile à faire,  
+Et l'un de l'autre me défend.  
+
+    LÉONORE, À LÉANDRE
+Explique-toi sans artifice.  
+
+    ISABELLE, À LÉANDRE
+Il est temps enfin de parler.  
+
+    LÉONORE, À LÉANDRE
+Il ne faut plus dissimuler.  
+
+    LÉANDRE
+Quelle contrainte ! Quel supplice !  
+De vos tendres regards j'ai senti les attraits ;  
+Je vous aimai, charmante Eléonore ;  
+Mais des yeux plus puissants encore  
+Ont soumis mon cœur à leurs traits ;  
+C'est Isabelle que j'adore,  
+Pour ne changer jamais.  
+
+    LÉONORE
+Ciel ! Que viens-je d'entendre ? Et que ma peine est rude  
+Oses-tu déclarer ton infidélité ?  
+
+    ISABELLE
+En amour bien souvent un peu d'incertitude  
+Flatte plus que la vérité.  
+
+    LÉONORE
+Jouis de ta victoire, orgueilleuse rivale ;  
+Insulte encore à mon malheur :  
+Et toi, perfide amant, crois-tu voir dans mon cœur  
+Dissiper en regrets ma tendresse fatale ?  
+Non, ingrat ! Je prétends que mon courroux égale  
+Et surpasse encor mon ardeur ;  
+Je veux qu'à ma vengeance offert en sacrifice,  
+L'un ou l'autre périsse ;  
+J'en atteste le ciel, en ce funeste jour  
+La haine vengera l'amour.  
+Elle sort.
+
+
+
+## SCÈNE IV
+Léandre, Isabelle.
+
+
+    LÉANDRE
+Que ces vains projets de vengeance  
+Ne servent qu'à serrer nos nœuds.  
+De divers étrangers une troupe s'avance ;  
+Écoutons leurs concerts, prenons part à leurs jeux.  
+
+
+## SCÈNE V
+Une troupe de Bohémiennes, d'Arméniens et d'Esclavons, avec des guitares, vient dans la place Saint-Marc prendre part aux plaisirs du Carnaval.
+
+
+    UNE BOHÉMIENNE
+Amor, amor, tel giuiro a fè,  
+Tuo crudo strale non fa più per me.  
+
+    LE CHŒUR, RÉPÈTE CES DEUX VERS, ET LES REPREND À CHAQUE COUPLET
+Amor, amor, tel giuiro a fè,  
+Tuo crudo strale non fa più per me.  
+
+    UN ESCLAVON
+Lungi da me, vaga Beltà ;  
+Non mi giova la crudeltà.  
+Chi vuol sospirar,  
+Può s'innamorar :  
+Amor, non la voglio con te ;  
+Lascia, mio core in libertà.  
+
+    LE CHŒUR
+Amor, amor, tel giuiro a fè,  
+Tuo crudo strale non fa più per me.  
+
+    UN ESCLAVON
+Grata mercè di costante fè  
+Indarno vien a consolar me :  
+Col foco non voglio più scherzar ;  
+Amor per me gioco non è ;  
+Voglio ridere, non avvampar.  
+
+    LE CHŒUR
+Amor, amor, tel giuiro a fè,  
+Tuo crudo strale non fa più per me.  
+La troupe continue les jeux, et danse la Villanelle.
+
+
+    UNE MUSICIENNE DE LA TROUPE
+Formons, s'il est possible,  
+Les plus doux concerts ;  
+Ce séjour est paisible  
+Dans le sein des mers.  
+
+    LE CHŒUR, RÉPÈTE LES QUATRE VERS PRÉCÉDENTS À CHAQUE COUPLET
+Formons, s'il est possible,  
+Les plus doux concerts ;  
+Ce séjour est paisible  
+Dans le sein des mers.  
+
+    LA MUSICIENNE
+Neptune, plus tranquille,  
+Pour flatter nos vœux,  
+Sert, dans ce doux asile,  
+De théâtre aux jeux.  
+
+    LE CHŒUR
+Formons, s'il est possible,  
+Les plus doux concerts ;  
+Ce séjour est paisible  
+Dans le sein des mers.  
+
+    LA MUSICIENNE
+Nous ressentons dans l'onde  
+Le flambeau d'Amour ;  
+Il est plus cher au monde  
+Que celui du jour.  
+
+    LE CHŒUR
+Formons, s'il est possible,  
+Les plus doux concerts ;  
+Ce séjour est paisible  
+Dans le sein des mers.  
+On recommence la danse.
+
+
+    UNE BOHÉMIENNE
+Tout plaît, tout rit dans ce beau séjour ;  
+Vénus y tient sa brillante cour.  
+
+    LE CHŒUR RÉPÈTE CES DEUX VERS À CHAQUE COUPLET
+Tout plaît, tout rit dans ce beau séjour ;  
+Vénus y tient sa brillante cour.  
+
+    UN ARMÉNIEN
+Dans ces beaux lieux remplis d'attraits,  
+L'Amour, n'a que d'aimables traits ;  
+Tout vient, jeunes cœurs, flatter vos désirs ;  
+Si l'hiver chasse les zéphyrs,  
+Il vous ramène les doux plaisirs.  
+
+    LE CHŒUR RÉPÈTE
+Tout plaît, tout rit dans ce beau séjour ;  
+Vénus y tient sa brillante cour.  
+
+    L’ARMÉNIEN
+Malgré la glace et les noirs frimas,  
+Nous ressentons des feux pleins d'appas,  
+Et les jeux suivent partout nos pas.  
+Quel printemps fait de plus beaux jours ?  
+Au lieu de fleurs il naît des Amours. .  
+
+    LE CHŒUR RÉPÈTE
+Tout plaît, tout rit dans ce beau séjour ;  
+Vénus y tient sa brillante cour.  
+
+
+## SCÈNE VI
+Léandre, Isabelle.
+
+
+    LÉANDRE
+Vous brillez à mes yeux d'une grâce nouvelle,  
+Et je brûle pour vous d'une nouvelle ardeur :  
+La mère des Amours ne fut jamais si belle ;  
+Tout le feu de vos yeux a passé dans mon cœur.  
+
+    ISABELLE
+Je crains une rivale, et mon ardeur fidèle  
+Me fait sentir de mortelles terreurs.  
+
+    LÉANDRE
+Ne craignez rien de ses fureurs.  
+
+    ISABELLE
+Je crains plus de votre inconstance.  
+
+    LÉANDRE
+Ahi ! Que cette crainte m'offense !  
+
+    ISABELLE
+Pourquoi vous offenser de la juste frayeur  
+Dont je sens les atteintes ?  
+Les troubles et les craintes  
+Sont les premiers effets d'une naissante ardeur.  
+
+    LÉANDRE
+De ce tendre discours que mon âme est ravie !  
+
+    ISABELLE
+D'un jaloux odieux je crains la barbarie :  
+Si notre amour éclatait à ses yeux,  
+Rien ne pourrait calmer ses transports furieux.  
+
+    LÉANDRE
+L'Amour, armé de la constance,  
+Me craint ni rivaux, ni jaloux ;  
+Si nos cœurs sont d'intelligence,  
+Rien n'est à redouter pour nous.  
+D'un jaloux importun tromper la vigilance,  
+C'est goûter par avance  
+Ce que l'amour a de plus doux.  
+
+    ISABELLE
+Brûlerez-vous pour moi d'une flamme sincère ?  
+
+    LÉANDRE
+Pouvez-vous vous connaître, et me le demander ?  
+
+    ISABELLE
+La conquête d'un cœur est plus aisée à faire  
+Qu'elle n'est facile à garder.  
+
+    LÉANDRE
+Bannissez ces alarmes,  
+Rendez le calme à votre cœur ;  
+Vos beaux yeux et vos charmes  
+Vous répondront de mon ardeur.  
+
+    ENSEMBLE
+Goûtons, sans nous contraindre,  
+Les plaisirs les plus doux.  
+Ah ! Que pouvons-nous craindre,  
+Si l'Amour est pour nous ?  
+
+
+# ACTE II
+Le théâtre représente la salle des Réduits de Venise, qui est un lieu destiné pour le jeu pendant le Carnaval.
+
+
+
+## SCÈNE I
+
+    RODOLPHE, SEUL
+Vous qui ne souffrez point les peines  
+Qui déchirent les cœurs jaloux,  
+Quel que soit le poids de vos chaînes,  
+Amants, que votre sort est doux !  
+Deux tyrans dans mon cœur exercent leur furie ;  
+L'amour, le tendre amour  
+Y fait naître la jalousie ;  
+Et mes jaloux transports, par un cruel retour,  
+Y font mourir l'amour qui leur donna la vie.  
+Vous qui ne souffrez point les peines  
+Qui déchirent les cœurs jaloux,  
+Quel que soit le poids de vos chaînes,  
+Amants, que votre sort est doux !  
+
+
+## SCÈNE II
+Léonore, Rodolphe.
+
+
+    LÉONORE
+Malgré toute l'ardeur qui règne dans votre âme,  
+On vous séduit, on trahit votre flamme.  
+
+    RODOLPHE
+Ah ! Je m'en doutais bien ; et mes soupçons jaloux  
+M'en avaient instruit avant vous.  
+
+    LÉONORE
+Un autre amant, sans résistance,  
+Remporte le prix le plus doux  
+Que méritait votre constance.  
+
+    RODOLPHE
+Nommez-moi seulement le rival qui m'offense,  
+Et laissez agir mon courroux.  
+
+    LÉONORE
+L'affront est égal entre nous,  
+Je veux partager la vengeance.  
+Un ingrat me jurait de vivre sous mes lois,  
+Je me flattais de ce bonheur extrême ;  
+On se laisse aisément tromper par ce qu'on aime,  
+Lorsque l'on est trompé pour la première fois.  
+À ce perfide amant Isabelle a su plaire,  
+Et Léandre à ses yeux...  
+
+    RODOLPHE
+        Ô ciel ! Que dites-vous ?  
+
+    ENSEMBLE
+Que l'amour dans nos cœurs se transforme en colère ;  
+Vengeons-nous, hâtons nos coups ;  
+La vengeance qu'on diffère  
+Perd ce qu'elle a de plus doux.  
+
+    LÉONORE, À PART
+Et toi, sors de mon cœur, indigne et faible reste  
+D'une impuissante ardeur ;  
+Ne me parle plus en faveur  
+D'un perfide que je déteste.  
+
+    RODOLPHE, À PART
+J'étoufferai la voix d'une pitié funeste  
+Qui crie en vain dans le fond de mon cœur.  
+
+    ENSEMBLE
+Que l'amour dans nos cœurs se transforme en colère :  
+Vengeons-nous, hâtons nos coups ;  
+La vengeance qu'on diffère  
+Perd ce qu'elle a de plus doux.  
+
+    RODOLPHE
+Rien ne peut s'opposer à mon impatience ;  
+Allons, courons à la vengeance.  
+
+
+## SCÈNE III
+LA FORTUNE paraît, suivie d'une troupe de Joueurs de toutes nations.
+
+
+    CHŒUR DE SUIVANTS DE LA FORTUNE
+Suivons tous, d'une ardeur fidèle :  
+C'est la Fortune ici qui nous appelle ;  
+Son pouvoir peut combler nos vœux.  
+Tous les biens volent autour d'elle ;  
+C'est elle qui nous rend heureux.  
+
+    LA FORTUNE
+Je suis fille du Sort, inconstante et légère,  
+Tout fléchit sous nia loi.  
+De tous les dieux que le monde révère,  
+Quel autre a plus d'encens que moi ?  
+Je traîne à mon char la victoire ;  
+Je brise, quand je veux, des trônes éclatants ;  
+Et je puis, à tous les instants,  
+Par quelque événement éterniser ma gloire.  
+Venez implorer mon secours,  
+Amants qu'un triste sort accable ;  
+Je fais naître à mon gré le moment favorable  
+Que, sans moi, l'on attend toujours.  
+Entrée de suivants de la Fortune.
+
+
+    UN MASQUE
+De tes rigueurs,  
+Ni de tes faveurs,  
+Fortune inconstante,  
+Je ne crains rien, rien ne me tente ;  
+Tout ton pouvoir  
+Ne fait ni ma crainte ni mon espoir.'  
+Le bien qui peut enchanter mon âme,  
+Est de brûler d'une constante flamme,  
+Et d'allumer de semblables feux.  
+Deux yeux  
+Touchants,  
+Charmants,  
+Élèvent mon sort aux cieux ;  
+Sans cesse je les implore,  
+Je les adore ;  
+Ce sont mes rois, ma fortune, et mes dieux.  
+
+
+## SCÈNE IV
+Le théâtre change, et représente une vue de plusieurs palais ou balcons. Le reste de l'acte se passe pendant la nuit.
+
+
+    RODOLPHE, SEUL
+De ses voiles épais la nuit couvre les cieux.  
+Je sais que mon rival, dans l'ardeur qui le presse,  
+Doit ici, par ses chants, exprimer sa tendresse ;  
+Pour l'observer, cachons-nous en ces lieux.  
+Il se retire dans un coin du théâtre.
+
+
+
+## SCÈNE V
+Léandre conduit une troupe de Musiciens, pour donner une sérénade à Isabelle.
+
+
+    LÉANDRE
+Doux charme des ennuis et des peines pressantes,  
+Favorable divinité,  
+Sommeil, qui, dans ta fausseté  
+De tes illusions charmantes,  
+Nous fais goûter la vérité  
+De cent douceurs des plus touchantes,  
+Viens verser sur cette beauté  
+De tes pavots les vapeurs les plus lentes ;  
+Et fais que son cœur enchanté  
+Jouisse du repos que ses yeux m'ont ôté.  
+Les Musiciens se joignent à Léandre, et chantent le trio italien qui suit.
+
+
+    TRIO ITALIEN
+Luci belle, dormite ;  
+Deh ! Per pietà, un momento cessate,  
+Con i dardi  
+De' vostri sguardi,  
+Di rinnovar al cor le mie ferite.  
+
+    LÉANDRE, APERCEVANT QUELQU’UN AU BALCON D’ISABELLE
+L'Amour me favorise, et je vois dans ces lieux  
+Une clarté nouvelle ;  
+N'en doutez point, mes yeux,  
+C'est l'Aurore, ou c'est Isabelle.  
+
+
+## SCÈNE VI
+
+    ISABELLE, SUR LE BALCON
+Mi dice la speranza  
+Ch' il tormento  
+In contento  
+Si cangerà.  
+Tra le spine nascosa  
+Si trova la rosa ;  
+Frà le pene Amor trionfera.  
+TRADUCTION DU TRIO ITALIEN.
+
+Dormez, beaux yeux, dormez sans craintes ;  
+Et cessez un moment, avec vos traits vainqueurs,  
+De renouveler les atteintes  
+Dont vous percez les cœurs.  
+TRADUCTION DE L'AIR ITALIEN.
+
+L'espérance me dit que nos peines mortelles  
+Se changeront en des plaisirs charmants.  
+Parmi les épines cruelles  
+On voit les roses les plus belles ;  
+L'Amour doit triompher au milieu des tourments.  
+
+    LÉANDRE
+Quelle félicité peut égaler la mienne !  
+Il faut quitter ce lieu charmant ;  
+Un jaloux s'endort avec peine,  
+Mais il se réveille aisément.  
+
+
+## SCÈNE VII
+
+    RODOLPHE, SORTANT DU LIEU OÙ IL ÉTAIT CACHÉ
+Je me suis fait trop longtemps violence,  
+Je ne puis plus cacher mes transports furieux.  
+Où donc est cet audacieux ?  
+Mais il fuit en vain ma présence ;  
+Avant que le soleil paraisse dans ces lieux,  
+Les ministres de ma vengeance  
+Éteindront dans son sang des feux injurieux.  
+
+
+## SCÈNE VIII
+Isabelle, Rodolphe.
+
+
+    ISABELLE, CROYANT PARLER À LÉANDRE
+Je cède à mon impatience ;  
+Et tandis que la nuit triomphe encor du jour,  
+Cher Léandre, je viens, conduite par l'amour,  
+Vous dire de mes feux toute la violence.  
+Quel plaisir de tromper et les soins et les yeux  
+D'un jaloux importun qui m'obsède en tous lieux !  
+Que je le hais ! Que son amour me gêne !  
+Rien n'est comparable à la haine  
+Que je ressens pour ce jaloux,  
+Que l'amour violent dont je brûle pour vous.  
+
+    RODOLPHE
+Ingrate !  
+
+    ISABELLE
+        Ah, ciel !  
+
+    RODOLPHE
+        Ma voix t'étonne.  
+Je sais les trahisons où ton cœur s'abandonne.  
+
+    ISABELLE
+Si le sort trahit votre espoir,  
+C'est à vous qu'il faut vous en prendre ;  
+Pourquoi cherchez-vous à savoir  
+Ce qu'on ne veut pas vous apprendre ?  
+
+    RODOLPHE
+Ô dieux !  
+
+    ISABELLE
+        Me m'aimez plus, rompez, rompez des nœuds  
+Qui ne sauraient vous rendre heureux.  
+
+    RODOLPHE
+Puis-je briser la chaîne qui m'accable ?  
+Mon cœur par vos attraits s'est trop laissé charmer ;  
+Si vous ne voulez pas m'aimer,  
+Souffrez du moins que je vous trouve aimable.  
+Je veux vous adorer malgré moi, malgré vous ;  
+J'espère que le temps rendra mon sort plus doux.  
+
+    ISABELLE
+Dans mes yeux vous avez pu lire  
+Le sort que vous gardait mon cœur :  
+Jamais d'aucun regard flatteur  
+Ai-je entrepris de vous séduire ?  
+Ah ! Quand on ressent quelque ardeur,  
+Les yeux sont-ils si longtemps à le dire ?  
+
+    RODOLPHE
+Pour rendre le calme à mes sens,  
+Et pour payer I'amour dont mon âme est atteinte,  
+Dites que vous m'aimez, trompez-moi, j'y consens ;  
+Cette fausse pitié, cette cruelle feinte,  
+Peut-être calmeront les douleurs que je sens.  
+
+    ISABELLE
+C'est une peine, quand on aime,  
+D'avouer un penchant qu'on trouve plein d'appas ;  
+Ce serait un supplice extrême  
+De déclarer des feux que l'on ne ressent pas.  
+
+    RODOLPHE
+Mon tendre amour, de votre haine  
+Ne sera-t-il jamais victorieux 3  
+Vous gardez le silence ; insensible ! Inhumaine !  
+
+    ISABELLE
+L'aurore va paraître, il faut quitter ces lieux.  
+
+
+## SCÈNE IX
+Rodolphe, seul.
+
+
+    RODOLPHE, SEUL
+Pour trouver un amant qu'en vain ton cœur adore,  
+La nuit n'a point d'horreur pour toi ;  
+Et tu crains avec moi  
+Le retour de l'aurore !  
+Va, cours chercher ce rival odieux  
+Qui de ton cœur s'est rendu maître ;  
+Tes mépris trop injurieux  
+Étouffent tout l'amour que j'ai pris dans tes yeux :  
+Mais mon juste dépit te fera bien connaître  
+Que, si je sais aimer, je hais encore mieux.  
+
+
+# ACTE III
+Le théâtre représente une place de Venise, environnée de palais magnifiques, où se rendent quantités de canaux couverts de gondoles.
+
+
+
+## SCÈNE I
+
+    LÉONORE, SEULE
+Transports de vengeance et de haine,  
+Succédez à l'amour qui régnait dans mon cœur ;  
+Mon ingrat va périr, et sa mort est certaine ;  
+Peut-être en ce moment une main inhumaine...  
+Je tremble. Je frémis d'horreur.  
+Barbares... Arrêtez... Votre fureur est vaine ;  
+L'ingrat que vous percez cause encor ma langueur.  
+Transports de vengeance et de haine,  
+Ne chassez point l'amour qui flatte encor mon cœur.  
+Mais il vit pour une autre ! Une pitié soudaine  
+Doit-elle s'opposer à mon dépit vengeur ?  
+Ministres qui servez le courroux qui m'entraîne,  
+Frappez... et qu'en mourant, cet infidèle apprenne  
+Que je l'immole à ma fureur.  
+Transports de vengeance et de haine,  
+Succédez à l'amour qui régnait dans mon cœur.  
+
+
+## SCÈNE II
+Rodolphe, Léonore.
+
+
+    RODOLPHE
+À la fin vous êtes vengée :  
+J'ai servi le juste transport  
+De notre tendresse outragée :  
+Votre ingrat ne vit plus, et mon rival est mort.  
+
+    LÉONORE
+Il est mort, justes dieux ! Ma bouche impitoyable  
+A prononcé l'arrêt de son trépas.  
+Qu'ai-je fait, malheureuse ? Hélas !  
+
+    RODOLPHE
+Il ne vit plus ; et le ciel redoutable,  
+S'il respirait encor, ne le sauverait pas.  
+
+    LÉONORE
+Tu l'as souffert, ô ciel ! Et ta main équitable  
+Ne punit point ces attentats !  
+Que fais-tu ? Qui retient ton bras ?  
+Lance ta foudre épouvantable ;  
+Sur ce traître ou sur moi fais voler ses éclats,  
+Tu ne saurais manquer de frapper un coupable.  
+Deux vers ensemble.
+
+
+    LÉONORE
+C'est toi qui lui perces le cœur.  
+
+    RODOLPHE
+C'est vous qui lui percez le cœur.  
+
+    LÉONORE
+Cruel, dis-moi quel est son crime.  
+
+    RODOLPHE
+Vous demandiez une victime.  
+Quatre vers ensemble.
+
+
+    LÉONORE
+Devais-tu croire mon ardeur ?  
+
+    RODOLPHE
+Deviez-vous armer ma fureur ?  
+
+    LÉONORE
+C'est toi qui lui perces le cœur.  
+
+    RODOLPHE
+C'est vous qui lui percez le cœur.  
+
+    RODOLPHE
+Calmez les déplaisirs dont votre âme est saisie.  
+Pour oublier leur perfidie,  
+Aimons-nous, unissons nos cœurs ;  
+Et qu'un amour formé de nos communs malheurs  
+Soit le fruit de la jalousie.  
+
+    LÉONORE
+Que je m'unisse à toi,  
+Monstre sorti de I'infernal empire !  
+Va... Fuis... Je frémis d'effroi,  
+Que le jour que je vois,  
+Que l'air que je respire  
+Me soient communs avec toi.  
+
+
+## SCÈNE III
+
+    RODOLPHE, SEUL
+Laissons de ses regrets calmer la violence.  
+On entend un bruit de réjouissances.
+
+Mais le parti victorieux  
+Du combat que le peuple a donné dans ces lieux  
+Vient montrer sa réjouissance.  
+Allons faire savoir à l'objet qui m'offense  
+Un trépas dont son cœur sera saisi d'effroi ;  
+Je perds le prix de ma vengeance,  
+Si l'ingrate l'apprend d'un autre que de moi.  
+
+
+## SCÈNE IV
+Divertissement de Castellans et de Barquerolles, avec le fifre et le tambourin.
+
+Les Castellans et les Nicolotes sont deux partis opposés dans Venise, qui donnent pendant le carnaval, pour divertir le peuple, ou combat à coups de poing pour se rendre maîtres d'un pont. Le parti victorieux se promène dans tonte la ville, avec des cris de joie et des acclamations publiques.
+
+
+    UN CHEF DE CASTELLANS
+Nous triomphons sur les eaux, sur la terre ;  
+Nous mêlons dans nos jeux l'image de la guerre :  
+Mêlons aussi dans ce beau jour  
+Qui nous comble de gloire,  
+Des chansons d'amour  
+Aux chants de victoire,  
+Des chansons d'amour  
+Au son du tambour.  
+
+    LE CHŒUR
+Nous triomphons sur les eaux, sur la terre ;  
+Nous mêlons dans nos jeux l'image de la guerre :  
+Mêlons aussi dans ce beau jour  
+Qui nous comble de gloire,  
+Des chansons d'amour  
+Aux chants de victoire,  
+Des chansons d'amour  
+Au son du tambour.  
+Des Castellans et des Castellanes témoignent, par leur danse, la joie qu'ils ont de leur victoire.
+
+
+    UNE CASTELLANE
+Entre la crainte et l'espérance,  
+Sur le sein de Neptune, on est à tous moments ;  
+L'empire de l'Amour n'a pas plus de constance,  
+Et l'on y voit flotter sans cesse les amants  
+Entre la crainte et l'espérance.  
+Le parti victorieux recommence la danse.
+
+
+    UN BARQUEROLLE
+Embarquez-vous,  
+Amants, sans faire résistance ;  
+Embarquez-vous,  
+L'empire de l'Amour est doux.  
+C'est une mer toujours sujette à l'inconstance,  
+Que quelque orage à tout moment vient agiter ;  
+Malgré ces maux, le calme de l'indifférence  
+Est encor plus cent fois à redouter.  
+Entrée de gondoliers et de gondolières.
+
+
+    LE CHŒUR
+Tout rit à nos désirs,  
+Ne songeons qu'aux plaisirs ;  
+Que le vent gronde,  
+Que la mer soulève les flots,  
+Que le ciel en feu leur réponde,  
+Nous goûtons ici le repos.  
+
+
+## SCÈNE V
+
+    ISABELLE, SEULE
+Mes yeux, fermez-vous à jamais,  
+Ou ne vous ouvrez plus que pour verser des larmes.  
+Le jour est pour moi désormais  
+Un sujet de peine et d'alarmes.  
+Mes yeux, fermez-vous à jamais,  
+Ou ne vous ouvrez plus que pour verser des larmes.  
+Je suis coupable de vos charmes,  
+J'ai trop fait briller vos attraits ;  
+Et je veux, par les mêmes armes,  
+Me punir des maux que j'ai faits.  
+Mes yeux, fermez-vous à jamais,  
+Ou ne vous ouvrez plus que pour verser des larmes.  
+Mais que servent, hélas ! Ces regrets superflus ?  
+Cher Léandre, tu ne vis plus.  
+Quand tu descends pour moi dans la nuit éternelle,  
+Doit-il m'être permis de voir encor le jour ?  
+Non, non : pour me rejoindre à cet amant fidèle,  
+La plus affreuse mort me paraîtra trop belle,  
+Et ce fer doit ouvrir un chemin à I'amour.  
+Elle tire son stylet pour s'en frapper.
+
+
+
+## SCÈNE VI
+Léandre, Isabelle.
+
+
+    LÉANDRE, LUI ARRÊTANT LE BRAS
+Ciel ! Que voulez-vous entreprendre ?  
+
+    ISABELLE
+Dois-je en croire mes yeux ? Est-ce vous, cher Léandre ?  
+
+    LÉANDRE
+Quelle aveugle fureur vous arrache le jour ?  
+
+    ISABELLE
+Le bruit de votre mort causait seul mes alarmes ;  
+Mon sang versé, mieux que mes larmes,  
+Vous allait prouver mon amour.  
+
+    LÉANDRE
+Quoi ! Vous mouriez pour moi ! Dieux ! Quelle barbarie  
+De votre sort hâtait le cours ?  
+Hélas ! Toute ma vie  
+Ne vaut pas un seul de vos jours.  
+Un jaloux, que la rage anime,  
+Vient de faire éclater son barbare courroux ;  
+Il a porté les mains sur une autre victime,  
+Et la nuit et l'Amour m'ont sauvé de ses coups.  
+
+    ISABELLE
+Je revois enfin ce que j'aime ;  
+L'excès de mon bonheur se peut-il concevoir ?  
+Je crains que le plaisir extrême  
+Que je sens à vous voir  
+Ne fasse sur mes jours l'effet du désespoir.  
+
+    LÉANDRE
+Vivons pour nous aimer, vivons, malgré l'envie ;  
+Nous triomphons des jaloux et du sort.  
+Que notre crainte soit suivie  
+Du plus tendre transport.  
+Aimez-moi, tout vous y convie :  
+Si vous vouliez donner votre sang à ma mort,  
+Hélas ! Que pourriez-vous refuser à ma vie ?  
+
+    ENSEMBLE
+Suivons nos doux emportements,  
+Aimons-nous d'une ardeur nouvelle ;  
+Quand l'Amour au jour nous rappelle,  
+Nous lui devons tous nos moments.  
+
+    LÉANDRE
+Fuyons un lieu funeste à de tendres amants.  
+
+    ISABELLE
+Je fais mon bonheur de vous suivre.  
+Je vous allais chercher dans le sein du trépas ;  
+Lorsque pour moi l'amour vous fait revivre,  
+Qui pourrait m'empêcher de voler sur vos pas ?  
+
+    LÉANDRE
+On doit donner au peuple, en ce jour favorable,  
+Un spectacle où d'Orphée on retrace la fable ;  
+Un bal pompeux doit suivre ces plaisirs ;  
+Le tumulte et la nuit serviront nos désirs.  
+Je vais en ce lieu vous attendre :  
+Un vaisseau par mes soins dans le port va se rendre,  
+Pour nous porter en des climats plus doux,  
+Où nous pourrons braver la fureur des jaloux,  
+Et goûter les douceurs de l'hymen le plus tendre.  
+Pendant que les violons jouent l'entracte, on voit descendre un théâtre fermé d'une toile, qui occupe toute l'étendue du premier. Ce qui reste d'espace jusqu'à l'orchestre, contient plusieurs rangs de loges pleines de différentes personnes placées pour voir un opéra.
+
+
+
+# ORPHÉE AUX ENFERS, OPÉRA
+
+
+## SCÈNE I
+Pluton, au milieu d'une troupe de divinités infernales.
+
+
+    PLUTON
+Dieux des enfers, aux armes !  
+
+    LE CHŒUR
+Aux armes ! Aux armes !  
+
+    PLUTON
+Un mortel insolent, malgré la loi du sort,  
+Dans les royaumes de la Mort  
+Descend encor vivant, et cause mes alarmes.  
+Aux armes ! Aux armes ! '  
+Le Tartare frémit,  
+L'Érèbe gémit,  
+Cerbère mugit.  
+Dieux des enfers, aux armes !  
+
+    LE CHŒUR
+Aux armes ! Aux armes !  
+On entend une symphonie très douce.  
+
+    PLUTON
+Mais quels chants remplis de douceur !  
+Quelle douce harmonie  
+Chasse la barbarie  
+D'un cœur comme le mien, ouvert à la fureur !  
+
+
+## SCÈNE II
+Orphée, Pluton.
+
+
+    ORPHÉE
+Puissant maître des Ombres,  
+À ton trône enflammé l'Amour conduit mes pas :  
+La charmante Eurydice, hélas !  
+A passé les rivages sombres ;  
+Rends-moi cet objet plein d'appas,  
+Ou, par pitié, donne-moi le trépas.  
+
+    PLUTON
+Plus loin que ton espoir tu portes ta demande ;  
+Mais Pluton y consent, si l'Amour le commande.  
+Pars ; sors du ténébreux séjour :  
+Mais je prétends qu'une loi s'accomplisse ;  
+Ne regarde point Eurydice,  
+Que tu ne sois rendu dans l'empire du jour.  
+
+
+## SCÈNE III
+
+    ORPHÉE
+Mon cœur, chantez votre victoire,  
+L'Amour est couronné de gloire.  
+Les ris et les chants  
+À la douleur succèdent,  
+Les enfers cèdent  
+Aux charmes de deux yeux touchants.  
+Entrée de Divinités infernales et d'Esprits follets.
+
+
+
+## SCÈNE IV
+
+    OMBRE HEUREUSE
+Soutienne qui pourra les traits et les éclairs  
+Q'on voit partir d'un beau visage ;  
+La beauté dans les cieux trouve un aisé passage,  
+Et se fait même ouvrir les portes des enfers.  
+On recommence la danse.
+
+
+
+## SCÈNE V
+
+    EURYDICE, SEULE
+Pour plaire à l'objet qui m'enflamme,  
+Amours, volez tous dans mon âme ;  
+Fuyez, peines, soupirs, ne revenez jamais  
+De mon cœur amoureux interrompre la paix.  
+On recommence.
+
+
+
+## SCÈNE VI
+Orphée, Eurydice.
+
+Orphée passe sans regarder Eurydice.
+
+
+    EURYDICE
+Jette, Orphée, un regard sur celle qui t'adore.  
+
+    ORPHÉE, REGARDANT EURYDICE
+Chère Eurydice, enfin, je vous revois encore !  
+
+
+## SCÈNE VII
+Pluton, Orphée, Eurydice.
+
+
+    PLUTON
+Va, fuis loin de mes yeux,  
+Mortel trop téméraire,  
+Puisque des dieux  
+Tu violes l'arrêt sévère ;  
+Qu'Eurydice reste en ces lieux.  
+
+    ORPHÉE
+Ô dieux !  
+
+    PLUTON
+Qu'une troupe rapide  
+De démons empressés  
+Dans l'empire des airs reporte ce perfide.  
+Pluton commande, obéissez.  
+
+    ORPHÉE
+Quelle rigueur impitoyable !  
+
+    EURYDICE
+Un crime de l'amour n'est-il point pardonnable ?  
+Des Démons enlèvent Orphée.
+
+
+
+## SCÈNE VIII
+
+    PLUTON
+Esprits infernaux, en ce jour,  
+Pour chasser le chagrin qui la presse,  
+Riez, chantez, dansez, montrez votre allégresse ;  
+Qu'on ne parle plus de tristesse  
+Où brille le flambeau d'Amour.  
+
+    LE CHŒUR
+Rions, chantons, dansons, montrons notre allégresse :  
+Qu'on ne parle plus de tristesse  
+Où brille le flambeau d'Amour.  
+
+
+## SCÈNE IX
+
+    LÉANDRE
+Il est temps de partir, l'occasion est belle ;  
+Tout conspire pour nous, et la mer, et les vents ;  
+Profitons bien de ces heureux moments,  
+Allons où l'Amour nous appelle.  
+
+
+## LE BAL, DERNIER DIVERTISSEMENT
+Le théâtre représente une salle magnifique, préparée pour donner le bal.
+
+
+    LE CARNAVAL PARAÎT, CONDUISANT AVEC LUI UNE TROUPE DE MASQUES DE DIFFÉRENTES NATIONS
+L'hiver a beau s'armer d'aquilons furieux,  
+Et fixer des torrents la course vagabonde ;  
+En vain ses noirs frimas, pour attrister le monde,  
+Dérobent le flambeau qui brille dans les cieux ;  
+Sitôt que je parais, je bannis la tristesse ;  
+J'ouvre la porte aux jeux, aux festins, à l'amour :  
+À mon départ le plaisir cesse ;  
+Et, pour mieux s'y livrer, on attend mon retour.  
+Vous qui m'accompagnez, montrez votre allégresse ;  
+Par vos jeux, par vos chants, célébrez ce beau jour.  
+Les masques commencent un bal sérieux.
+
+
+    LE CARNAVAL
+Je veux joindre à ces jeux une nouvelle danse ;  
+Venez, aimables enjouements ;  
+Redoublez en ces lieux notre réjouissance  
+Par de nouveaux déguisements.  
+En ce temps de plaisir le plus sage s'oublie,  
+Et permet un peu de folie.  
+On tire un rideau, et l'on voit arriver du fond du théâtre un char magnifique traîné par des Masques comiques, et rempli de figures de même caractère, qui se mêlent en dansant avec les Masques sérieux.
+
+
+    LE CARNAVAL
+Chantez, dansez, profitez des beaux jours ;  
+L'heureux temps des plaisirs ne dure pas toujours.  
+
+    LE CHŒUR
+Chantons, dansons, profitons des beaux jours ;  
+L'heureux temps des plaisirs ne dure pas toujours.  
+
+    LE CARNAVAL
+La raison vainement voudrait vous interdire  
+Des passe-temps si doux ;  
+Les moments que l'on passe à rire  
+Sont les mieux employés de tous.  
+
+    LE CHŒUR
+Les moments que l'on passe à rire  
+Sont les mieux employés de tous.  

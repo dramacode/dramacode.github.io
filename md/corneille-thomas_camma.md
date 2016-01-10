@@ -1,0 +1,5027 @@
+---
+identifier: corneille_camma  
+creator: Corneille, Thomas  
+date: 1661  
+title: Camma, reine de Galatie. Tragédie  
+---
+
+
+CAMMA, REINE DE GALATIE
+
+TRAGÉDIE
+
+DE TH. CORNEILLE
+
+A PARIS, Chez AUGUSTIN COURBE', au Palais, En la Gallerie des Merciers, A la Palme. M.DC.LXI. AVEC PRIVILEGE DU ROY.
+Édition critique établie par Josépha Pisaneschi dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2004-2005)
+
+
+# Introduction
+
+
+L'affirmation de la vie même dans ses problèmes les plus étranges et les plus ardus ; la volonté de vie, se réjouissant de faire le *sacrifice* de ses types les plus élevés, au bénéfice de son propre caractère inépuisable – c'est ce que j'ai appelé le dionysien, c'est en cela que j'ai cru reconnaître le fil conducteur qui mène à la psychologie du poète tragique. *Non* pour se purifier d'une passion dangereuse par sa décharge véhémente – c'est ainsi que l'a entendu Aristote -, mais pour personnifier *soi-même*, au-dessus de la crainte et de la pitié, l'éternelle joie du devenir, - cette joie qui porte encore en elle la *joie* de l'*anéantissement.*La Naissance de la tragédie
+
+
+Vivons jusqu'au moment qu'un traître doit périr,  
+Et vivons, pour tuer, avant que de mourir.  Crisante
+
+
+Une reine de Galatie qui, pour venger son défunt mari et sauver son amant tout à la fois, cherche le moyen de tuer de ses propres mains le meurtrier de son époux et réussit à feindre de vouloir se marier avec lui et à lui faire boire, avant de boire elle-même, la coupe empoisonnée, voilà en quelques mots le sujet de *Camma, reine de Galatie.* Grâce à cette œuvre, Thomas Corneille, en 1661, confirme sa place auprès des plus grands auteurs tragiques.
+
+
+# L'auteur
+
+Déjà avec *Timocrate* [1] (1656), tragédie romanesque répondant parfaitement aux goûts du public, Thomas Corneille (Rouen, 20 août 1625-Andelys, 8 décembre 1709) se fraya un chemin sur la voie du succès. Fils d'un maître particulier des eaux et forêts en la vicomté de Rouen, il suivit, dix-neuf ans après son frère Pierre, dans cette même ville, des études au collège des jésuites. Thomas quitta ce collège en 1643 et entra à l'Université de Caen pour y étudier le droit. Le 21 octobre 1649, il fut reçu avocat. Il exerça alors quelque temps au Parlement de Normandie, mais sa passion pour le théâtre se fit de plus en plus dévorante, et rapidement il décida d'abandonner le droit pour se consacrer entièrement à l'écriture. Cet amour du théâtre lui vint principalement de son frère Pierre, devenu son tuteur à la mort de leur père en 1639. Pierre le conseillait, le guidait et l'influençait énormément. Il débuta avec des comédies inspirées des auteurs espagnols comme Caldéron ou Don Francisco de Rojas : *Les Engagements du hasard* (1649), *Le Feint astrologue* (1650), *Don Bertrand de Cigarral* (1651) … [2] A partir de 1656, il se tourna vers de nouveaux genres théâtraux et notamment vers la tragédie. Son frère Pierre ayant quitté le théâtre, il se rendit compte qu'il y eut dès lors un vide littéraire à combler dans la création de tragédies et il décida de se lancer dans ce genre prestigieux. C'est ainsi que naquit *Timocrate.* Son sujet extraordinaire fondé sur la double identité Timocrate-Cléomène, son intrigue complexe, ses sentiments raffinés à l'extrême et sa fin heureuse donnant une tonalité plutôt tragi-comique à l'ensemble, tout cela concourut à faire de cette pièce, un triomphe. *Timocrate* fut représentée pour la première fois en 1656 sur la scène du Marais. Cette pièce fut interprétée pendant près de six mois, soit quatre-vingts représentations consécutives, c'est-à-dire mieux que son frère, Racine ou Molière. Fort de cette réussite, il produisit ensuite une série de tragédies, dont les sujets furent assez peu connus, mais fournis par les historiens : *La Mort de l'empereur Commode* (1959) [3], *Stilicon* (1660), *Maximian* (1662) [4], *Laodice* (1668) [5], *La mort d'Annibal* (1670) [6], *Ariane* (1672) [7]… Enfin, sans renoncer à la comédie il se lanca dans les comédies et les tragédies à machines : il écrivit ainsi avec Donneau de Visé, *Circé* [8] et *L'Inconnu* [9] (1675). Lorsque, enfin, Racine se retira du théâtre après *Phèdre* (1677), ce qui laissa un champ ouvert pour les autres auteurs de tragédies, il revint à la tragédie avec *Le Comte d'Essex* [10] (1678). Par la suite, il collabora avec Lulli : en furent issus deux opéras, *Psyché* (auquel participa Fontenelle) et *Bellérophon* [11]. L'année 1680 marqua la fin de la carrière de Thomas Corneille. Même s'il continua à écrire, il ne compta plus parmi les plus grands auteurs de théâtre. Furent tout de même représentées : *La Devineresse* (1679) et *La Pierre philosophale* (1681), toutes les deux en collaboration avec Donneau de Visé [12], un opéra *Médée* (1693) [13] avec la musique de Marc-Antoine Charpentier et enfin *Bradamante* (1695) [14]. Son théâtre n'étant plus sollicité, il se tourna vers d'autres activités. Sous l'impulsion de son ami, Donneau de Visé, il collabora dès 1677 au *Mercure Galant*. Plus tard, il fut élu à l'Académie Française le 2 Janvier 1685, à la place de son frère, décédé en 1684. Il prit une part active aux travaux du dictionnaire et écrivit notamment au supplément du *Dictionnaire de l'Académie*, le *Dictionnaire des termes d'arts et des sciences.* Dans une autre perspective, il se consacra jusqu'en 1697, à une traduction des *Métamorphoses* d'Ovide. Puis vers 1702, il donna une *Traduction des fables d'Esope et de Phidelphe, enrichie de discours moraux et historiques et de quatrains à la fin de chaque discours.* Entre temps, il fut élu à l'Académie des inscriptions et des belles-lettres mais sa plus grande préoccupation resta la rédaction d'un *Dictionnaire universel géographique et historique* (1708) commencée en 1694. Vers 1700, il cessa de collaborer au *Mercure Galant*. Dès l'achèvement des travaux du dictionnaire vers 1708, il se retira aux Andelys dans la maison héritée de sa femme. Le 8 Décembre 1709, mourut le Sieur Thomas Corneille de l'Isle.
+
+
+# Genèse et création de la pièce
+
+Entre 1658 et 1661, des tragédies sont de nouveau représentées à Paris alors que l'on a pu assister à une véritable désuétude de ce genre entre 1652 et 1656 : *Timocrate* (1656) lance la mode de la tragédie romanesque et galante. Viennent ensuite l'*Œdipe* (1659) de Pierre Corneille, l'*Ostorius* (1658) de l'abbé de Pure, *Arie et Pétus* (1658) de Gilbert, *La Mort de Cyrus* (1658-1659) de Quinault, *La Mort de Manlie* (1660) de Noguères et *La Toison d'Or* (1661) de Pierre Corneille [15] par exemple.
+
+En fait, on s'aperçoit qu'à cette époque la tragédie subit l'influence de la littérature de salons. C'est d'ailleurs en partie pour cela que la tragi-comédie est encore présente sur la scène. En effet, on peut nommer l'auteur le plus connu, Quinault, qui a fait représenter, deux tragi-comédies : en 1658, *Le Mariage de Cambyse* et en 1660, *Stratonice*. A quelques exceptions près, le modèle auquel réfèrent les tragédies et les tragi-comédies entre 1658 et 1661 est *Timocrate.* Mais Thomas Corneille ne s'en tient pas à cette seule veine. Dans *La Mort de l'Empereur Commode* (1657), dans *Stilicon* (1660) par exemple, l'amour n'occupe plus une si grande place. Les personnages sont absorbés par un sentiment plus « viril » et restent maîtres de leur cœur. De plus, ce qui était visible dans *Timocrate*, à savoir le changement d'identité, est rendu « abstrait » : le déguisement est remplacé par la dissimulation des mobiles et des actes.
+
+C'est à cette lignée qu'appartient *Camma* : rigueur structurale, moins de romanesque, plus de vraisemblance psychologique et dramatique, même si l'enjeu des actes accomplis par les personnages masculins demeure l'amour.
+
+1658 est aussi la date du retour au théâtre de Pierre Corneille, encouragé par le surintendant Fouquet. Il lui propose trois sujets : *Œdipe* [16] et *Camma* sont connus. Une tradition établie depuis la fin du XIX*e* siècle veut que le troisième ait été celui de *Stilicon* [17]. Pierre choisit le premier sujet, Thomas les deux suivants. Les deux pièces de ce dernier furent respectivement représentées pour la première fois le 28 janvier 1661 et le 27 janvier 1660.
+
+Loret rend compte de la création de *Camma, reine de Galatie* dans la *Muze historique.* Il établit d'ailleurs une relation très forte entre ces trois pièces :
+
+Un curieux assûré m'a dit  
+Qu'hier la Pièce de *Camma*  
+Sujet tiré des Opuscules  
+De Plutarque, Autheur sans macules,  
+Fût representée à l'hôtel,  
+Avec un ravissement tel  
+Des judicieux qui la virent,  
+Qui mille et mille biens en dirent,  
+Tant de rares Esprits contents. (…)  
+Tout-de-bon le cadet Corneille  
+Quoy qu'il ait fait mainte merveille  
+Et maint Ouvrage bien sensé,  
+En cétui-cy s'est surpassé.  
+Ainsi cette pièce divine,  
+Qui du Grand Œdipe est couzine,  
+Et propre sœur de Stilicon,  
+(Pièces qu'on tient sans parangon)  
+Est très-digne de sa naissance,  
+Et par l'agréable abondance  
+De mille beaux traits différens  
+Ne fait point tort à ses parens. [18]  
+
+Loret semble enthousiaste à l'annonce de cette création. Il ne dit pas seulement qu'elle est aussi réussie que *Stilicon* ou *Œdipe* ; il établit des liens, métaphoriquement exprimés comme des liens de parenté. Même s'il est vrai que *Camma* est postérieure à *Stilicon* dans la production de Thomas Corneille et que toutes les deux sont des tragédies, il semble difficile d'adhérer à l'hypothèse qui est que ces trois pièces ont des rapports de continuité littéraire entre elles.
+
+
+# L'auteur et l'œuvre devant la critique
+
+Les critiques du XVII*e* siècle n'estimaient guère Thomas Corneille. Ce fut le cas par exemple de Chapelain, D'Aubignac, et Boileau. Seuls les écrivains du XVIII*e* siècle, à l'exception de La Harpe, ont été nettement plus accueillants.
+
+D'Aubignac écrivait en 1663 :
+
+
+… et qu'il n‘apporte plus sur la scène des *Camma*, des *Démétrius*, et autres semblables pièces qui n'ont esté que des excroqueries pour nos Bourgeois.  [19]
+
+Se faisant la défense des frères Corneille, Donneau de Visé répond en 1663 à l'abbé d'Aubignac :
+
+
+Vous sortez de vostre sujet pour répendre vostre fiel sur Monsieur Corneille le Jeune : et comme il a beaucoup de mérite, il n'est pas exempt de vos injures. C'est par là que l'on connoist clairement quel ennui vous fait ouvrir la bouche, puisque sans necessité vous luy dites des choses aussi ridicules que piquantes, et qui font que l'on a pitié de vous. … Nous avons veu plusieurs Ouvrages de luy, qui ont eu l'applaudissement de toute la France ! *Timocrate, Commode, Stilicon* et *Camma* parlent en sa faveur, et l'on ne doute pas que la reputation qui luy ont acquise, ne vous ait fait mal à la teste, puis que c'est cette seule reputation des Grands hommes qui vous met en si mauvaise humeur.  [20]
+
+Cette pièce a eu énormément de succès ; elle a été très bien reçue par le public de l'époque. Dans *Chefs d'œuvre dramatiques de Thomas Corneille* [21], le chapitre « vie de Thomas Corneille » note un succès immédiat de cette pièce puisque les spectateurs l'ont acclamée par des applaudissements. Il y est aussi ajouté que « ce fut avec justice, puisque Pierre Corneille lui-mesme disoit qu'il aurait voulu les avoir faistes Laodice, Darius, Annibal, Stilicon, Camma  ». Comble du succès !
+
+De même, toujours en ce qui concerne la représentation, il est noté dans *L'album Théâtre classique* [22], que « devant l'hôtel de Bourgogne, *Camma, reine de Galatie* provoque des embarras de voitures tant la foule se presse pour venir applaudir la tragédie de Thomas Corneille ». De Visé raconte aussi que « la Cour et la ville se trouvèrent en si grand nombre aux représentations de cette pièce que les comédiens ne trouvoient plus de place pour jouer en tranquilité ». [23] Leiris ajoute que « c'est pourquoi les Comédiens Français, qui jusqu'alors n'avoient joué sur ce théâtre que les dimanches, mardis, et vendredis, commencèrent à cause de la foule que leur attiroit cette pièce, à jouer les jeudis, ce qu'ils continuèrent par la suite, lorsque leurs pièces étoient suivies, et cela augmenta fort leurs recettes. » [24]
+
+Au XVIII*e* siècle, tous sont unanimes et voient en lui un homme de talent. Dans *Le Théâtre de T. Corneille* [25], se trouvaient réunis des « éloges de M. Thomas Corneille » et notamment un « extrait de jugement de M. Baillet » : il y est dit qu'il n'est « guère inférieur à son frère par le nombre de pieces de théâtre qu'il a composées ». On sait aussi que « M. Racine a loué en lui la conformité qu'il a avec ce celèbre frère. »
+
+Cet hommage met en balance les deux frères Corneille sans pour autant que l'un ne l'emporte sur l'autre. Les confronter c'est montrer l'indépendance créatrice de chacun et leurs qualités respectives.
+
+Toute une série de critiques réoriente l'examen des pièces de Thomas Corneille en insistant sur la qualité dramatique de ses pièces. M. Houdart de La Motte, lorsqu'il fut reçu à la place de Thomas Corneille, avait prononcé un discours à l'Académie Française le 8 Février 1710, en son hommage. Il y est écrit que
+
+
+Né avec un goût universel, il connaissait les beautez de l'un et de l'autre scène ; la France le comptera toujours parmi ses Sophocles et ses Ménandres. … Tendre et pathétique, il fit couler pour quelques unes de ces héroïnes des larmes que quarante ans de succès n'ont pas encore épuisées. Mais il sût peindre heureusement les majestueuses douleurs de la Tragédie, le badinage et les jeux instructifs du comique ne lui furent pas moins familiers, et ce qui le distingue dans les deux genres, est qu'il y posséda souverainement le goût de l'intrigue et des situations … . [26]
+
+Toujours sur le même sujet, Destouches se propose de donner son avis :
+
+
+Je me suis fort avancé dans mes observations sur les deux Corneille, dont le cadet, plus je le sonde et l'examine, me paroit infiniment plus estimable qu'on ne se l'imagine ordinairement, sur-tout par rapport à l'invention et à la disposition des sujets. Jamais homme, à mon avis, n'a mieux possédé l'art de bien conduire une Piece de Théâtre.  [27]
+
+Malgré les ripostes de Voltaire (« Ce n'est pas assez d'une intrigue, il la faut intéressante, il la faut tragique ; il ne la faut pas compliquée sans quoi il n'y a plus de place pour les beaux vers, pour les portraits, pour les sentiments, pour les passions » ) [28], le jugement définitif est peut-être celui des Frères Parfaict. Selon eux, sa versification est « foible, entortillée, pleine de répétitions et de choses inutiles, et souvent de galimatias ». Mais la construction de ses pièces est par contre plus intéressante :
+
+
+Cet auteur entendoit parfaitement le Théatre ; ses plans sont presque tous bien imaginés, tous bien rendus ; les caracteres de ses Personnages assez soutenus, et la marche du Théatre admirable. [29]
+
+Thomas Corneille a donc pour principale qualité reconnue par nombre de critiques, la construction et l'invention de l'intrigue.
+
+La Harpe est le seul qui ne tient pas le même genre de discours. Dans son *Lycée, ou cours de littérature ancienne ou moderne*, La Harpe attaque de manière virulente tous les aspects de l'œuvre de T. Corneille :
+
+
+Des fadeurs amoureuses, des raisonnements entortillés, un héroïsme alambiqué, une monotonie de tournures froidement sentencieuses, une diffusion insupportable, une versification flasque et incorrecte, telle est la manière de Thomas Corneille : il y a peu d'auteurs dont la lecture soit plus rebutante. » et « *Camma* et *Stilicon*, qui eurent du succès pendant longtemps, n'ont d'autre mérite qu'une intrigue assez bien entendue, quoique compliquée. Ce mérite est bien faible quand l'intrigue n'attache que l'esprit et qu'il n'y a rien pour le cœur ; et c'est le vice capital de ces deux ouvrages : ils manquent de cet intérêt qui doit toujours animer la tragédie. Il n'y a ni passions, ni mouvemens, ni caracteres ; les héros et les scélérats sont également sans physionomie. Ils dissertent et ils combinent : voilà tout. Les situations étonnent quelquefois mais n'attachent pas. 
+
+Il ne reconnaît aucune qualité littéraire chez cet auteur. La seule chose qu'il accepte de lui concéder c'est le don d'invention qu'il a « parfois » !
+
+Les critiques du XIX*e* et du XX*e* siècle sont plus mitigés même s'ils rendent compte de son importance dans la littérature française.
+
+Gustave Reynier s'attache au fait que Thomas Corneille n'ait eu qu'un succès éphémère et ne soit pas devenu un auteur « classique » :
+
+
+Arriver à propos, s'accommoder au goût du jour, voilà donc toute sa méthode. Cette méthode lui a réussi comme elle réussira toujours, mais il est naturel qu'ayant suivi la mode, il n'ait obtenu qu'une réputation passagère comme elle : ainsi se trouvent expliqués l'éclat et la fragilité de ses pièces. [30]
+
+Ses œuvres sont tendues entre deux extrêmes, entre « éclat » et « fragilité ». Cet équilibre très précaire ne suffit pas à imposer une œuvre d'art dans la durée.
+
+Lancaster est satisfait de la pièce créée par Thomas Corneille. Selon lui,
+
+
+Bien que la pièce n'atteigne pas la valeur d'*Andromaque* et que ses personnages ne soient pas aussi frappants que le protagoniste du *Stilicon, Camma* est une de celle qui, à son époque, a été menée avec le plus d'habileté. L'action, rapide, se déroule en quelques heures et dans une seule pièce, la scène d'exposition possède clarté et vraisemblance, les événements découlent logiquement les uns des autres, l'effet d'attente est bien préservé … . [31]
+
+Il applaudit la technique de notre auteur et la dynamique interne de la pièce.
+
+De son côté, Antoine Adam, dans sa grande *Histoire de la littérature française au XVII*e* siècle*, a porté un jugement favorable sur Thomas Corneille :
+
+
+Thomas Corneille est peut-être le premier écrivain notable qui ait si complètement sacrifié les exigences de l'art à celles du succès.  [32]
+
+Ses œuvres connurent de son temps un très grand succès mais il fut un « raté de la postérité » [33]. En effet, il créait des pièces ancrées dans une temporalité, dans une époque donnée, ce qui fait qu'elles ne pouvaient pas accéder au statut d'œuvres d'art. La preuve en est avec notre pièce, *Camma* : malgré le succès immédiat qu'elle a remporté elle n'a été rejouée que deux fois par la troupe de Molière en 1679 [34] et deux fois à la Comédie-Française en 1700. [35] Au XX*e* siècle, une représentation a eu lieu le 8 Juin 1966, en France, à Barentin au théâtre Montdory au cours du XI*e* Festival National Corneille. La mise en scène était de Jean Serge, les décors et costumes de Dominique Para. [36]
+
+
+# La constitution du sujet : adaptation et réécriture
+
+
+## Résumé de l'action
+
+L'exposition se projette sur les trois premières scènes. Elles permettent au spectateur d'avoir les premiers éléments de l'intrigue, de savoir ce qui a eu lieu précédemment, et de mettre en place le procédé suspensif de l'attente. Ici le spectateur apprend que Sinatus a été tué par Sinorix qui lui enviait sa femme (scène 1), que celle-ci le sait sans pour autant l'avouer et que d'autres comme Hésione l'ignore totalement. On apprend également que Sinorix a pris la décision d'exiler Hésione puisqu'elle refuse d'épouser Sostrate tant qu'elle n'a pas retrouvé le trône de son père et aussi parce que Camma se détourne de lui (scène 2). Considérant cela comme une injustice, elle se confie à sa confidente, Phenice qui lui conseille de révéler la vérité à Hésione pour s'en faire une alliée et pour avoir l'aide de Sostrate. Mais Camma avoue qu'elle est amoureuse de Sostrate, qui est aussi épris d'elle et qui feint d'aimer Hésione pour obéir à Sinorix qui souhaite se libérer de ses engagements envers sa fiancée (Scène 3). A l'arrivée de cette dernière (I, 4) l'action commence. Cette scène est une scène de tension entre Hésione et Camma et à la scène 5 de l'acte I, Hésione demande à Sostrate de la venger en échange de sa main. Par souci de sa gloire elle se refuse à l'idée de l'épouser, même si elle l'aime, tant qu'elle n'a pas, par la mort de Sinorix, retrouvé le trône de son père. Elle lui demande ce service car elle croit qu'il a des sentiments pour elle.
+
+A l'acte II a lieu une confrontation entre Sinorix et Hésione au sujet du pouvoir où finalement il exprime le souhait de se débarrasser d'elle car pour lui c'est un obstacle : en effet, comme Hésione est l'héritière légitime du trône, sa belle-mère ne veut pas être considérée comme une usurpatrice (scène 1). Mais la décision de Sinorix d'exiler Hésione entraîne chez lui de véritables remords (scène 2). Toutefois dès la scène 3, il change de nouveau d'attitude et réapprouve sa première décision. Sa rencontre avec Camma permet à celui-ci de lui faire part encore une fois de ses sentiments. De plus il la soumet à un choix : soit elle a un amant et auquel cas il accepte de ne plus la convoiter, soit elle est libre et de ce fait, elle n'a aucune raison de le repousser (scène 4). A la fin de l'acte II, c'est au tour de la reine de demander à Sostrate de la venger en tuant Sinorix. Sostrate est pris dans un dilemme car il aime Camma mais il est lié par une amitié solide et par un devoir de reconnaissance envers Sinorix. Il propose à Camma une solution : aimer et donc haïr *en soi*, sans chercher à atteindre l'objet de sa haine ou de son amour. Camma, à cet instant précis, décide de réaliser elle-même son acte de vengeance (scène 5).
+
+A l'acte III, Camma laisse de l'espoir à Sinorix : elle n'a pas d'amants, elle est donc libre pour lui. Sinorix lui avait fait dire qu'il se retirerait si un autre homme était dans sa vie. Phaedime, le malin génie de Sinorix, lui conseille de ne pas se soumettre à elle mais au contraire de faire preuve d'une grande fermeté à son égard. Mais à mesure que le bonheur semble se rapprocher, Sinorix est pris de remords et il raconte à son confident l'hallucination qu'il a eue dans laquelle Sinatus lui prédisait la mort de la main d'une personne qu'il n'imaginait pas (scène 1). Après son monologue dans lequel il livre ses doutes et ses craintes (scène 2), la scène 3 de l'acte III est marquée par un épisode majeur : alors que Sinatus est en proie à l'une de ses visions, Camma se dirige vers lui par derrière avec un poignard. De justesse, Sostrate s'élance vers Camma et fait tomber son arme. Comme l'arme est par terre, Sinorix, tiré de sa rêverie, ne sait pas qui de Camma ou de Sostrate voulait le tuer. Un coup de théâtre a lieu puisque Sostrate assume la responsabilité de l'attentat. A la scène 4, Hésione, croyant que Sostrate a agi sur sa demande, vient révéler sa culpabilité en prétendant être l'instigatrice de cette tentative d'assassinat. Dans la dernière scène de l'acte, Sinorix lui lance un ultimatum : soit elle épouse Sostrate et elle le sauve ainsi de la mort, soit elle refuse. Hésione choisit cette possibilité car elle veut d'abord avoir le privilège de son rang avant d'épouser l'homme qu'elle aime.
+
+A l'acte IV, Sostrate est entravé par Hésione qui s'est accaparée la responsabilité de l'acte et, de plus, il est complètement soumis aux choix de Sinorix. Camma prend les devants : elle refuse de laisser Sostrate aux prises avec Sinorix. A la scène 2, elle plaide en faveur de Sostrate pour que le tyran consente à faire grâce. Sinorix lui demande en retour de son pardon un engagement fidèle. Voici le second « ultimatum » : il accepte de gracier Sostrate si Camma se marie avec lui (scène 3). Elle tente ensuite d'expliquer à Sostrate qu'elle le fait par amour et pour lui éviter la mort. C'est un sacrifice qu'elle fait pour lui (scène 4). La situation s'avère désespérante pour Sostrate : la femme qu'il aime épouse l'homme qu'elle disait détester et il ne peut même plus retrouver sa gloire dans la mort. Il demande, ainsi, à Hésione de l'aider à obtenir la mort et de tout entreprendre pour éviter à Camma ce mariage. Hésione refuse et Camma exprime de nouveau fermement sa décision. La situation semble sans issue (scène 5).
+
+A l'acte V, on apprend que pendant les préparatifs du mariage, Hésione s'est insurgée contre « l'ambition d'une reine infidelle » – en effet elle a toujours manifesté beaucoup de mépris aussi à l'égard de sa belle-mère – et « contre un tyran ». Après la cérémonie, au cours de laquelle Camma puis Sinorix boivent dans la coupe nuptiale et où Sosime nous fait part du bonheur de la reine (scène 1), Sostrate, affligé, avoue à Sinorix qu'il aime Camma. Il espère ainsi voir sa mort assurée. Sinorix est furieux car il comprend qu'il a été manipulé jusqu'au bout (scène 2). A la scène 3, Camma révèle la vérité : elle accuse son nouveau mari de l'empoisonnement de Sinatus et elle avoue aussi que c'est elle qui a voulu le poignarder (V, 3 : « Trop genereux amant il prend sur luy mon crime, / Et je ne l'ay souffert qu'afin de m'asseurer / Une autre occasion de pouvoir conspirer. » ). Sinorix finit par avouer et souhaite réparer son geste par la mort. Camma refuse et Phaedime vient annoncer à son maître que des mutins assiègent le palais (scène 4). Sostrate profite de la sortie de scène de Sinorix pour reprocher à Camma son acte et l'avertir que le lien conjugal qu'il y a dorénavant entre eux risque d'atténuer son désir de vengeance. Elle tente de le rassurer sans pour autant lui révéler l'acte qu'elle a commis (scène 5). Cependant, on apprend que Sinorix est mort (scène 6). C'est seulement à la toute fin de cette scène que Camma révèle les circonstances de son décès, alors qu'elle est elle-même en train d'agoniser. C'est elle qui a empoisonné le breuvage de la coupe nuptiale dans laquelle ils ont bu tous les deux.
+
+
+## Les sources
+
+Le personnage de Camma est un personnage historique dont le parcours et les mérites nous sont racontés par Plutarque à deux reprises dans ses *Œuvres Morales*, [37] 257 E, 20*e* histoire et à la fin de *Dialogue sur l'amour* [38], chapitre 22, 768 B. Celui-ci est à peu près équivalent au premier récit sauf que le thème de la vengeance est moins largement développé. Ces deux textes traitent tous les deux de la vertu des femmes, « tendance naturelle » [39], et principalement de leurs capacités de tendresse, de dévouement et de fidélité. Ils portent même cette dernière qualité jusqu'à l'héroïsme.
+
+Dans les *Moralia*, le chapitre qui traite de cette femme illustre s'intitule « Conduites méritoires des femmes » : ce sont vingt sept histoires qui célèbrent toutes le comportement de femmes remarquables, à différentes époques et différents lieux. Ecrit à la demande d'une amie, Cléa, cet ouvrage a fini par déboucher sur l'idée générale que l'αρετή (vertu) est autant une qualité de l'homme que de la femme. La signification morale de la notion de « vertu » est la φίλανδρος  la fidélité en amour). La beauté morale des actions rapportées ici permet de saisir de la meilleure façon possible l'excellence de la nature humaine. Pour persuader au mieux, Plutarque concentre l'action sur des éléments essentiels, sans passer par un long raisonnement qui ennuierait le lecteur plus qu'il ne le convaincrait sur le bien-fondé de ses dires. C'est la traduction en 1572 des *Œuvres Morales* par Amyot qui donnera la notoriété au personnage de Camma.
+
+Cette histoire a également été reprise par Polyen, rhéteur de Macédoine, sous la forme d'un bref récit dans le livre 8, chapitre 39 des *Strategematon*, [40] ouvrage dédié à Marc-Aurèle. La seule différence est qu'il place la mort de Camma avant celle de Sinorix, à l'inverse de Plutarque.
+
+Dans son Epître, adressée au fils du Grand Condé, Thomas Corneille présente le sujet de son œuvre de la manière suivante :
+
+
+J'offre à votre Altesse Sérénissime le portrait d'une reine dont le temps ne sçauroit trop respecter la memoire. Sa beauté causa le crime qui luy fit pleurer la perte de son mary, et sa vertu la soûmit avec tant de fermeté à la rigueur du devoir qui luy en fit jurer la vangeance, qu'elle ne refusa pas de l'acheter au dépens même de sa vie … .
+
+Quatre substantifs semblent se dégager de cette succincte exposition et permettent de rendre compte des potentialités théâtrales que recèle ce personnage : « beauté, vertu, devoir, vangeance ». Le personnage de Camma de Thomas Corneille semble donc être très conforme à l'image que Plutarque avait eue de cette femme.
+
+Pour comprendre pourquoi Fouquet a choisi ce sujet-ci précisément, il n'est pas inutile de resituer l'œuvre dans son contexte. *Camma* apparaît aussi dans la *Gallerie des femmes fortes* de Pierre le Moyne, publiée en 1647, œuvre très appréciée par Fouquet et par son conseiller littéraire et homme de confiance, Pellisson. En effet, ce dernier avait déjà publié, en 1656, les œuvres de Sarasin, mort deux ans auparavant, qu'il avait fait précéder d'un *Discours* où il définissait l'esthétique galante, esthétique où savoir et plaisir s'unissent pour susciter un charme particulier. L'entourage de Fouquet est donc marqué par la galanterie et notamment par le public féminin. D'ailleurs de nombreuses relations se nouent entre le cercle de Mlle de Scudéry et celui de Fouquet. Ils proposent de nouveaux modèles esthétiques qui permettent de définir le statut de la femme.
+
+Du côté de la création, Pierre Le Moyne brosse le modèle de la femme forte. Son « programme » est donné de manière explicite dans sa « préface » :
+
+
+Je n'ay pas entrepris cette Gallerie, afin de donner du mien, un spectacle aux curieux, et un amusement aux personnes désoccupées. La fin que je me suis proposée est de plus grand usage et plus relevée et au sens du plus illuminé des philosophes, qui a crû que la vertu des femmes, estoit une des principales pieces de la felicité politique  … . 
+
+Son but était donc d'établir une Gallerie de portraits dans lesquels la vertu serait omniprésente. Et comme le dit Pierre Le Moyne, toujours dans sa préface, ces peintures ont un but moral :
+
+
+La manière de peindre vise plus à l'instruction qu'à la satisfaction de la veuë.
+
+Le portrait de Camma est situé dans la section des « Fortes barbares » aux côtés de Panthée, d'Artemise, de Monime et de Zénobie. Le récit dramatique qui en est donné développe le thème annoncé dans la gravure :
+
+
+Princesse de Galatie victorieuse de l'Amour et de la Mort, fait un sacrifice de fidelité et de vangeance, à l'ombre de Sinnate son Mary. 
+
+Le récit est donc entièrement centré sur l'acte de vengeance et sur les derniers instants de vie de Sinorix et de Camma. Suit un éloge de Camma, accompagné d'un sonnet  « qui est un autre tableau fait en petit » et d'une réflexion morale « qui va plus droit et plus immédiatement au profit et au reglement des mœurs. » Enfin il « confirme sa décision par un exemple Moderne. »
+
+Ce texte semble donc être la source la plus « directe » de Thomas Corneille, ou plutôt de Fouquet puisqu'il est celui qui en a donné l'idée à notre dramaturge. En effet, Urbain Victor Chatelain a écrit à ce sujet :
+
+
+A l'égard de Camma, sans remonter jusqu'à Plutarque ou à Polyen, que Fouquet pouvait connaître, je ne crois pas me tromper en indiquant, comme l'inspirateur de ce choix, le Père le Moyne.  [41]
+
+Malgré tout, notre dramaturge a construit sa pièce de manière à éviter les imbroglios liés à l'esthétique galante. Il s'est dégagé de cette prégnance, de cette inspiration en créant une pièce où l'amour est présent mais allié à un grand sens du tragique.
+
+Le recueil de récits de Plutarque a inspiré avant Thomas Corneille bon nombre de dramaturges. Avant 1660, des pièces traitant du même sujet ont été créées et représentées. [42] La première est une pièce de Jean Hays, conseiller et avocat du Roi, intitulée *Cammate* et datant de 1598. C'est une tragédie en sept actes reliés par des chœurs, chacun ayant des combinaisons métriques différentes. Le texte de Plutarque est scrupuleusement suivi mais des modifications sont aussi apportées notamment par l'introduction de personnages inventés comme Dictylle, Polyte (nourrice de Camma), Dianomante (devin du Temple de Diane). A cela s'ajoutent des épisodes nouveaux comme les regrets de Sinnate et de Camma de ne pas avoir eu d'enfants. Ce qui est intéressant dans cette pièce, ce sont aussi les remords que ressent cette dernière au moment d'exécuter sa vengeance.
+
+Une deuxième pièce a été écrite en 1637 par Dorothy de Croy et s'intitule *Cinnatus et Camma* : elle est composée de trois actes séparés par des chansons et de seize personnages dont des Dieux, Morphée et Hymen, le Diable qui tente Sinorix et un philosophe ascétique.
+
+En 1641 paraît *Cammane* de La Caze. [43] Il subit l'influence de la tragi-comédie. Sa pièce est composée de cinq actes en alexandrins où aucune unité n'est respectée et de treize personnages. Il n'y a pas d'unité de temps car l'union entre Sinorix et Cammane est fixée au lendemain et pas d'unité de lieu car à la scène 3 de l'acte V, le spectateur se trouve face au temple de Diane où est célébré le mariage. On observe une modification par rapport à *Camma, reine de Galatie* : Sinorix a deux rivaux, son frère Cléomène et son confident Ménandre.
+
+Ces pièces sont toutes d'un intérêt particulier car sans compter les spécificités de chacune d'elle, elles permettent de rendre compte des modifications utiles à apporter à un récit pour en faire une pièce de théâtre. En effet, si on s'attarde quelques instants sur le texte du Père Le Moyne, on se rend compte qu'il est conscient des potentialités dramaturgiques de ce récit :
+
+
+La fidelité et la perfidie sont le *sujet* de cette Action, Camma et Sinorix en sont les *Acteurs* ; et ce Temple en est la *scène*. [44]
+
+De même Gérard Genette, dans *Palimpsestes*, traite de la question de l'adaptation du sujet pour la scène. Il appelle cela des « transpositions » ou « transformations sérieuses par extension ». Il prend l'exemple d'*Œdipe* (1659) de Pierre Corneille mais ce procédé est à l'œuvre dans beaucoup d'autres pièces notamment dans *Camma.*
+
+
+Le principal investissement de l'extension se trouve sans doute au théâtre, et particulièrement dans le théâtre classique français, lorsque des auteurs du XVII et du XVIII*ème* siècle ont voulu adapter à la scène « modernes » des tragédies grecques dont le sujet leur semblait certes admirable, mais insuffisamment « chargé de matière » pour occuper la scène pendant les cinq actes de rigueur. [45]
+
+Comme nous le verrons, notre auteur a donc dû lui aussi adapter ce sujet parce que le récit de Plutarque ou de Pierre Le Moyne ne pouvaient pas suffire à occuper les cinq actes d'une pièce de théâtre.
+
+
+## Le travail de transposition
+
+Pour élaborer le sujet de ce récit en pièce de théâtre, il a fallu adapter l'histoire de Plutarque aux exigences dramaturgiques classiques. Le récit apporte des éléments primordiaux pour la constitution de la pièce comme les circonstances de temps ou de lieu et un arrière-plan politique ou autre. Il comporte trois personnages dont un qui meurt au milieu de l'histoire. Le texte n'a besoin de rien d'autre pour fonctionner, il se suffit à lui-même.
+
+Transposer ce récit sur la scène d'un théâtre nécessite quelques modifications et adaptations. Tout d'abord, la règle classique de l'unité de temps oblige à débuter la pièce in *medias res* c'est-à-dire que le meurtre de Sinatus et l'usurpation du trône sont considérés comme passés. En ce sens le personnage de Sinatus est absent de la tragédie de Thomas Corneille puisque cela fait « six mois » [46] que Sinorix est au pouvoir. Sinatus, mort avant le commencement de la représentation, est donc l'actant qui motive toute la conduite de Camma et toute la conduite de sa fille, Hésione. C'est une force, et non plus un « être-là », un « être-dans-le-monde » vers laquelle tendent ces deux personnages. De plus, l'unité de lieu est respectée : du point de vue de la représentation, les décorateurs ont fait du théâtre un « palais à volonté », espace en un seul tableau où l'unité est conservée. Deux objets essentiels et qui ont un rôle prépondérant occupent également l'espace de la scène à deux moments déterminants : un poignard (III, 3) et un fauteuil (V, 5). [47] Michel Laurent, auteur des notices de la 3*e* partie du *Mémoire de Mahelot*, nous donne à voir un décor dépouillé, représentatif des tragédies de cette période et qui permet, comme on va le voir, de concentrer l'espace en un seul temps et en un seul lieu.
+
+De plus, un nombre réduit de personnages occupe l'espace du récit de Plutarque. En ce sens, Thomas Corneille n'a pu se limiter à deux personnages sur scène dont un qui est un acteur absent. Pour que la pièce soit viable, notre dramaturge a donc créé des personnages supplémentaires : deux confidents, Phaedime et Phenice, Sosime, et surtout Sostrate et Hésione qui ont un rôle de premier plan et qui sont indispensables au bon déroulement de la pièce.
+
+Le confident, par exemple, est un personnage important du théâtre classique. Comme le dit Jacques Scherer, « le héros doit toujours être entouré de personnages secondaires, – sauf pour monologuer » [48]. Le type du confident fait partie de ces personnages secondaires. Phaedime et Phenice sont des actants, avant tout, de convention car ils peuvent être là et donner la réplique, poser des questions et écouter les données de l'intrigue formulées par les protagonistes (notamment lors de la scène d'exposition) ou ne pas être là si l'on préfère qu'ils soient absents. Ils sont physiquement là mais ils ne profèrent aucun son. Par exemple, Phaedime est onze fois sur scène mais ne parle que quatre fois [49] et Phenice est neuf fois sur scène mais ne parle que deux fois [50]. Pourtant, déjà, grâce à ce relevé on voit de manière factuelle que ces deux confidents n'apparaissent pas le même nombre de fois. Ils n'ont donc pas la même importance, ni le même « rôle » dans la pièce.
+
+En effet, dès la scène 1 de l'acte I, Sinorix est sur scène avec Phaedime. On se rend compte que ce dernier ne se contente pas de l'écouter ni seulement de l'approuver. Il tente de lui faire voir la situation sous un autre angle en lui suggérant la possibilité que Camma soit amoureuse de lui mais qu'elle n'ose pas le lui avouer tout de suite par devoir envers son époux décédé. Surtout, on constate qu'il est machiavélique. A la scène 1 de l'acte III, par exemple, il lui conseille d'employer la menace et la contrainte, de ne plus jouer le tendre mais d'user de violence. [51]
+
+Phenice, elle, est le prototype même de la confidente : elle essaye de faire prendre conscience à Camma de l'utilité d'Hésione dans la vengeance. Mais ses conseils sont biaisés car elle n'est pas au courant de tout. Par exemple, à la scène 3 de l'acte I, Phenice conseille à Camma de faire d'Hésione une de ses alliées, pour que Sostrate, amoureux de cette dernière, puisse intervenir. Camma, à ce moment, lui fait part de la vérité et lui annonce que Sostrate est en fait amoureux d'elle [52]. Contrairement à Phaedime, qui est en quelque sorte le « mauvais génie » de Sinorix et qui donc en fait un personnage moins artificiel, Phenice a un rôle plus archétypal dans la mesure où elle a des lacunes, comme le spectateur d'ailleurs, que les informations délivrées au fur et à mesure tentent de combler.
+
+Concernant Sosime, son rôle est, quant à lui, un pur rôle de convention car il n'apparaît qu'à partir de l'acte III et ne parle qu'à l'acte V de manière continue et durable. Dans un premier temps, il fait le récit du mariage entre Sinorix et Camma à Sostrate et il lui annonce la tentative de « coup d'État » d'Hésione et son arrestation. Dans un second temps, à la scène 6 de l'acte V, il fait le récit final de la mort de Sinorix. Puisque l'usurpateur s'est éteint hors scène par respect de la bienséance, le spectateur n'a donc rien vu et n'est pas au courant de ce qui s'est passé. Sosime est donc là pour combler les lacunes du public et directement, en vertu du concept d'  « illusion théâtrale », pour informer les personnages sur scène. Il a donc un rôle de messager.
+
+Aux côtés de ces personnages-types s'en dressent d'autres : Hésione et Sostrate, la fille de Sinatus et le prince, « favory » de Sinorix. Nous verrons plus loin leurs caractéristiques majeures. Toutefois, nous pouvons dire que la faible présence d'Hésione dans la pièce et son rôle d'opposant à l'union entre Camma et Sinorix en font une héroïne secondaire alors que Sostrate va occuper un rôle de tout premier plan. Comme on va le voir, il va permettre de densifier le texte de Plutarque et celui de Pierre Le Moyne. De plus, son intervention à la scène 3 de l'acte III va en faire un héros empêché et soumis aux décisions diverses. En effet, il va devenir un enjeu pour tous les actants puisque Sinorix, au lieu de le tuer et donc de ce fait le punir simplement, va mettre sa mort au cœur d'une alternative à la fois pour se débarrasser d'Hésione et pour obtenir Camma.
+
+Ainsi, après l'étude des personnages inventés par notre dramaturge, nous allons nous intéresser à l'action de cette pièce et à son organisation pour tenter de comprendre les modifications qui ont là aussi été apportées.
+
+Comme le dit Georges Forestier dans *Essai de génétique théâtrale : Corneille à l'œuvre*, « inventer une action dramatique complète à partir d'une matrice tragique qui se réduit le plus souvent à la configuration terminale d'un évènement historique suppose donc d'inventer aussi non seulement les deux premières étapes de l'action principale, mais encore tous les éléments intermédiaires, au premier rang desquels les épisodes qui permettent de passer de façon cohérente de la donnée initiale de l'action au dénouement ce qui revient à les inventer en fonction de la manière (vraisemblable) dont ils seront disposés. » [53] C'est ce qu'il appelle la « construction à rebours » c'est-à-dire qu'à partir d'un dénouement tragique, s'élabore toute une intrigue.
+
+Thomas Corneille a conservé la fin du récit et à partir de cette fin il a construit une intrigue où il va rendre compte de la manière dont le désir de vengeance de Camma va se réaliser. *Camma, reine de Galatie*, s'organise donc de manière assez simple : l'action principale, qui est le désir de vengeance de Camma, va se doubler d'un épisode secondaire qui densifie la pièce et d'événements multiples qui en découlent. L'action principale, menée par Camma, se prolonge d'un épisode amoureux qui va au fur et à mesure de la pièce placer Camma face à un second devoir : venger celui qu'elle aime et qui n'est pas Sinatus. L'épisode secondaire est celui qui a pour sujet principal Hésione. L'objet tant attendu et tant espéré est le pouvoir. Hésione n'est pas nécessaire en soi puisque le dénouement peut avoir lieu sans elle. Elle est surtout importante, comme on l'a vu, dans la mesure où elle est un opposant solide à l'union de Sinorix et de Camma. En effet, l'épisode est fondé sur un projet de mariage antérieur entre Sinorix et la fille de Sinatus. De la rupture de ce projet par Sinorix naît la volonté de vengeance d'Hésione, auprès de laquelle Thomas Corneille a placé un quatrième personnage qui feint d'être amoureux d'elle pour complaire à Sinorix alors qu'il aime Camma.
+
+L'intrigue naît donc de l'entrelacement entre l'action principale et cet épisode : c'est pour sauver Sostrate (épisode) que Camma accepte d'épouser Sinorix et qu'elle décide de s'empoisonner avec lui (action principale).
+
+
+## Le tragique
+
+Sinorix et Camma sont morts, Sostrate prêt à se tuer. Seule Hésione est arrivée là où elle désirait : elle a obtenu le pouvoir après la mort du roi. Elle a profité du fait qu'il ait été tué pour récupérer le trône. Mais le tragique comme valeur dramaturgique n'est pas synonyme de « funeste ». Ici, il préexiste au dénouement puisque le conflit premier est tragique. Là où Aristote parlait d' « un meurtre ou un autre acte de ce genre accompli ou projeté par le frère contre le frère, par le fils contre le père, par la mère contre le fils ou le fils contre la mère » [54], Pierre Corneille modifie la configuration. Il écrit en 1647, « un père qui tue son fils, *une femme son mari*, un frère sa sœur ». [55] Ce sujet est donc tragique si on considère la définition de Pierre Corneille.
+
+De plus, deux dilemmes tragiques constituent le nœud de l'intrigue : une reine veuve peut-elle accepter de se marier avec l'homme qui est la cause de la mort de son défunt mari même pour sauver son amant (premier dilemme) ? Si elle accepte de le faire, n'a-t-elle pas d'autre choix que de l'épouser et de mourir ensuite (second dilemme) ?
+
+Ainsi, le genre de la tragédie n'est tout simplement pas conçu par les dramaturges, les théoriciens et le public de l'époque, comme le lieu d'expression privilégiée d'un tragique de l'existence. Georges Forestier a pu montrer que l'élaboration de leur sujet selon le principe de la cause finale crée du pathétique, pathétique qui est la meilleure manière d'appréhender le tragique au XVII*e* siècle. La « cause finale » selon G. Forestier signifie que « le sujet de la tragédie à crise est le dénouement lui-même, envisagé paradoxalement comme le point de départ de l'action tragique : un point de départ situé à la fin, impliquant que l'action soit construite à rebours. » [56] Le sentiment du tragique naît donc de « la manière dont un dramaturge construit l'enchaînement des actions qui découle de la cause finale » [57]. En effet, à chaque étape des choix sont offerts aux personnages. C'est le cas ici puisque Hésione et Camma ont comme alternative, soit le mariage pour l'une et l'exil pour l'autre, soit la mort de Sostrate. C'est le cas aussi pour celui-ci qui décide de se dénoncer à la place de Camma. Dans la mesure où cette action doit aller vers un dénouement qui lui préexiste (puisque c'est à partir du dénouement que l'on construit la pièce), il faut donner l'impression au spectateur que l'enchaînement des causes et des effets n'est pas artificiel mais qu'il découle des décisions, parfois erronées, des personnages. Ici, cet enchaînement aboutit à un blocage de la situation, tranché ensuite par un retournement inattendu (la révélation de Camma) qui mène au dénouement préalablement connu par le spectateur (la mort de Camma et de Sinorix). C'est d'ailleurs parce qu'il y a un renversement inattendu qu'on a l'impression d'être en face d'une conception providentielle du monde (on se souvient du fait que Sinorix à la toute fin de sa vie considérait sa mort comme découlant d'un châtiment divin).
+
+Le tragique n'est donc qu'un « effet de lecture impliqué par le principe de la construction à rebours » [58]. Il naît de la façon dont le dramaturge conçoit sa pièce, conception qui est ici inspirée de son frère, Pierre Corneille.
+
+
+# Thomas Corneille dramaturge
+
+
+## Les personnages : caractères entre « amour » et « honneur »
+
+
+### Camma, une femme vertueuse et amoureuse
+
+Il s'agit du personnage éponyme de la pièce. Dès le titre, on sait qu'il s'agit d'une reine. Elle a conservé son statut car elle est veuve de Sinatus, roi de Galatie. Elle apparaît dès la scène 2 de l'acte I face à Sinorix. Elle va ensuite être sur scène de façon régulière. Au total, elle apparaît 16 fois dans la pièce, elle est présente notamment dans tout l'acte IV et clôt l'œuvre.
+
+Sa présence scénique en fait l'héroïne de *Camma, reine de Galatie*. De plus, c'est un personnage avec un charisme et une prestance sans pareils. En effet, elle a des valeurs morales indéfectibles et immuables sur lesquelles elles fondent son existence. Ce qui la caractérise essentiellement c'est le devoir de vengeance [59]. Après la mort de son mari et ayant appris qui en était l'assassin, elle s'est jurée de le venger. Sa vie est réglée en fonction de ce principe, de ce devoir et elle est toute entière tournée vers cela (I, 2, v. 137-138 et I, 3, v. 238-241).
+
+Elle est également inflexible dans ses sentiments et dans ses désirs. Le souvenir de Sinatus demeure impérissable et en ce sens elle lui est inconditionnellement fidèle (v. 136).
+
+C'est une héroïne portée par une passion noble. C'est pour cela qu'il est possible de faire un rapprochement avec les héroïnes cornéliennes dans la mesure où elles sont également portées par un désir « généreux », dans la mesure aussi où elles sont fières, et tournées vers la gloire. Camma est comme celles-ci. Elle a une immense fierté et un grand sens de l'honneur. Elle connaît sa valeur et n'hésite pas à défier Sinorix (II, 4, v. 614-616). De la même manière, elle défie aussi Hésione en gardant le silence au sujet de son devoir et de ses mobiles. Elle cache ce qu'elle sait. Elle est implacable envers Hésione :
+
+
+Ce seroit l' = la gloire affoiblir que de la partager.  [60]
+
+De plus, la grande originalité de Thomas Corneille a été d'en faire une héroïne touchée par la grâce de l'amour. Ce n'est plus seulement un amour-souvenir mais aussi un amour vécu dans le présent (I, 3, v. 285-288).
+
+Ce sentiment amoureux va donner une humanité à ce personnage. Camma n'est plus seulement une personne vindicative, poussée par la gloire. Elle est proprement humaine parce qu'elle sait s'adapter aux situations qui adviennent. Vis-à-vis de Sostrate par exemple, elle ne peut s'empêcher au départ de lui en vouloir dans la mesure où il ne l'a pas vengée alors qu'elle le lui avait demandé (II, 5, v. 735-737) Ensuite, elle est injuste vis-à-vis de lui parce qu'il a sauvé la vie de Sinorix et en plus il s'est dénoncé à sa place (IV, 4, v. 1401).
+
+Ce sont des moments de colère passagers qui sont révélateurs de son impulsivité, impulsivité due à la passion qui l'anime. Mais elle n'est pas rigide, ni complètement focalisée sur elle-même. Elle s'est imposée comme but ultime de venger son défunt mari mais si la vie d'une personne qui lui est proche est en danger, cette vie passe avant tout le reste. Cela ne veut pas dire qu'elle va tirer un trait sur la mémoire de Sinatus, ni qu'elle va oublier ce qu'elle doit faire pour lui. Elle instaure un ordre de priorité : sauver l'homme qu'elle aime devient un enjeu qui nécessite de sa part un sacrifice (IV, 1, v. 1244-1245).
+
+Cette décision est un véritable coup de théâtre puisque un second devoir vient momentanément remplacer ce pour quoi elle vivait jusqu'à maintenant. D'un point de vue dramaturgique, ce retournement de situation donne de la dynamique au texte et un certain suspens puisque on ne sait pas tout de suite comment elle compte agir. On l'apprend plus tard : elle va agir selon son éthique personnelle, c'est-à-dire conformément à ce qu'elle doit faire. Elle va se marier avec Sinorix parce que c'est le seul moyen pour sauver Sostrate (IV, 4, v. 1438-1441) mais elle va ensuite réparer son geste par la mort, celle de Sinorix et la sienne, seule façon pour elle de laver son honneur et de conserver sa gloire (V, 6, v. 2009-2015).
+
+Thomas Corneille nous campe une héroïne plus nuancée, humaine, à la fois injuste et auréolée de gloire, qui n'a aucun prestige et dont la mort est seulement un moyen pour elle de retrouver son honneur. Chez Plutarque, c'est différent. Son devoir est suivi scrupuleusement, et elle ressent de la joie à mourir car elle va pouvoir rejoindre son mari [61]. Chez Pierre Le Moyne, également Camma jouit de sa vengeance et va sereinement retrouver Sinatus. [62]
+
+
+### Hésione : une ambition implacable
+
+Le personnage de Camma est à analyser par rapport à celui d'Hésione. En effet, les divergences qui les opposent nous permettent de les confronter.
+
+Elle est la fille de Sinatus ; celui-ci lui lègue son pouvoir à sa mort. Elle apparaît sept fois dans la pièce : aux scènes 4 et 5 de l'acte I, à la scène 1 de l'acte 2, aux scènes 4 et 5 de l'acte III et enfin aux scènes 5 et 6 de l'acte IV. Elle est donc très peu présente. Quel est donc l'enjeu de ce personnage ? Qu'apporte-t-il à l'action ?
+
+En fait, son importance est variable tout au long de la pièce. Elle incarne la légitimité du trône face à l'usurpateur : en effet, elle en est dépossédée par Sinorix qui marque son infidélité en la rejetant et en refusant de se marier avec elle. Elle n'aura de cesse que de vouloir se venger pour récupérer ce qui lui revient de droit :
+
+J'aspire à me vanger, et ce fier mouvement  
+Eloigne de mon cœur tout autre sentiment. [63]  
+
+Son désir de vengeance est absolu, rien ne pourra l'en détourner, pas même Sostrate : en effet, elle refuse le mariage avec ce dernier, imposé par Sinorix, et qui lui éviterait la mort ! Elle a, de ce point de vue, une attitude différente de celle de Camma, qui s'adapte, comme on l'a vu, aux situations. Pour sauver Sostrate, cette dernière était prête à faire ce qu'elle répugnait le plus, à savoir faire un sacrifice. Hésione, elle, le refuse catégoriquement parce qu'elle sait qu'elle va perdre beaucoup. Elle préfère demander à Sostrate de la venger (I, 5, v. 404-407) : comme Emilie dans *Cinna*, elle lui propose sa main en échange de son geste. Elle est portée par la même haine, la même suffisance. Elle est aveuglée par sa colère, et quand elle croit que Sostrate a agi en sa faveur à la scène 3 de l'acte III, elle n'hésite pas à se dénoncer comme l'instigatrice du projet (v. 1067-1068, v. 1148). Cependant, la différence avec Emilie est double : Hésione croit à un amour qui n'est pas réciproque et sa haine est constante jusqu'à la fin.
+
+Elle manifeste, en plus de cette véhémence, une grande fierté, un dédain et un mépris sans pareils, dirigés vers tous sans distinction.
+
+Elle hait sa belle-mère qui, pour elle, joue un double jeu : la scène 4 de l'acte I de ce point de vue est intéressante car il met en scène un affrontement direct entre ces deux personnages. Le jeu des stichomythies révèle une tension extrême où l'ironie et le sarcasme occupent une large part. A l'aigreur de l'une, qui refuse le dialogue volontairement, répondent l'orgueil et la suffisance de l'autre (I, 4, v. 329-331). Un autre exemple d'ironie se retrouve à la scène 5 de l'acte IV lorsque Hésione apprend que Camma a décidé d'accepter la main de Sinorix (v. 1546-1548 et III, 4, v. 1098-1100).
+
+Pareillement, elle hait Sinorix. Elle n'hésite pas à prendre position contre lui, à le menacer (II, 1, v. 472-473). Cette attitude offensive résulte du fait que Sinorix s'est accaparé le pouvoir en lui refusant la partie qui lui revenait de droit. Elle ressent une profonde injustice qui se manifeste par la colère et même aussi, avec Sinorix, par le mépris (III, 5, v. 1129-1130).
+
+Enfin, elle n'hésite pas à rejeter Sostrate de deux manières différentes : tout d'abord, en décidant de s'octroyer toute la responsabilité de la conjuration (III, 5, v. 1155-1157), ensuite, en refusant de l'épouser (v. 1185-1188).
+
+Finalement, la meilleure formule pour résumer l'attitude d'Hésione est de Phenice où « fierté » a le sens de cruauté, sauvagerie : « Vous sçavez sa fierté » [64].
+
+Son orgueil est démesuré et comme on a pu le voir on peut rapprocher son attitude de celle d'Emilie dans *Cinna* (1640) puisqu'elle a le même aveuglement, le même acharnement, le même dédain, et de celle de Placidie, héroïne de *Stilicon* (1660). En effet, cette dernière est si attachée à sa gloire qu'elle est dépourvue de sensibilité. Sa fierté dépasse l'entendement humain. En effet, elle refuse d'épouser Euchérius, fils de Stilicon, même si elle l'aime, parce qu'il est d'un rang inférieur au sien. La seule différence est que Placidie a un rôle plus important dans la pièce et donc est plus nuancée. Hésione, quant à elle, n'évolue pas, elle reste focalisée sur le pouvoir. En ce sens, on peut clairement qualifier Hésione de personnage « cornélien » dans la mesure où elle est portée par une ambition et un désir de vengeance démesurés et où le sacrifice par amour est banni. La définition que donne Paul Bénichou rend compte de la spécificité des héros cornéliens, qui sont poussés par des passions « nobles » :
+
+
+Le plus souvent la satisfaction des désirs et la gloire, loin de s'exclure, ne font qu'un ; leur unité est la donnée première du théâtre cornélien … . Toute passion, haine, désir, dépit, s'y résout en mouvement d'orgueil. Dans ce qui subsistait alors de la société féodale, les valeurs suprêmes étaient l'ambition, l'audace, le succès … . Le mal résidait dans la faiblesse ou la timidité … .  [65]
+
+Ces héros n'ont aucune fêlure. Seul le désir de grandeur et l'ambition du pouvoir sont compatibles. La gloire ne peut pas s'accommoder d'une passion qui serait finalement avilissante (comme l'amour). Si Hésione se sacrifiait par amour, elle perdrait sa gloire et son honneur car la gloire, pour elle, est liée à la grandeur et le sacrifice par amour entraîne la déchéance. Pour Camma, par exemple, cela est différent : la gloire, en ce qui la concerne, est une valeur éthique. Comme on l'a vu, elle agit en fonction de ce qu'elle se doit de faire. Le but est d'éviter une injustice pour Sostrate, qu'elle aime.
+
+Donc, même si elle a l'étoffe d'une héroïne « cornélienne », elle n'a pas un rôle de premier plan puisque, tout d'abord, elle est trop vindicative, poussée par ses passions. De plus elle est en permanence dans l'erreur, le faux : elle croit que Sostrate a tenté de tuer Sinorix pour elle, et elle ne connaît pas les intentions de Camma puisque cette dernière refuse de la mettre dans la confidence malgré les conseils de Phénice. Donc, même si elle fait preuve d'orgueil et que ses désirs sont justifiés, elle est toujours tenue à l'écart, maintenue dans l'erreur et surtout, le fait qu'elle n'apparaisse pas à la fin révèle paradoxalement la labilité de son être puisque même si elle méprise tout le monde, elle est de la même façon dédaignée, pas prise en compte et rejetée. De plus, sa montée sur le trône n'est pas due à la tentative de coup d'État qu'elle a tenté d'instaurer mais elle est due à l'empoisonnement de Sinorix par Camma.
+
+
+### Sinorix, le tyran amoureux
+
+Sinorix est un des protagonistes essentiels de l'œuvre. En effet, il apparaît seize fois dans la pièce et notamment dès l'ouverture. Il occupe tout l'acte III et a droit à un monologue.
+
+Pour le lecteur, le personnage de Sinorix est dès le départ présenté comme un traître, un usurpateur. Il a le rôle, traditionnel dans la littérature, du tyran. Cela fait six mois qu'il règne à la place de Sinatus : « Sinorix, roy de Galatie, ayant usurpé la Couronne sur Sinatus », telle est sa qualification dans la liste des personnages.
+
+Camma a appris de la bouche de Sinatus avant qu'il ne meure que Sinorix était son assassin. Elle lui cache ce qu'elle sait jusqu'à la fin pour pouvoir exercer sa vengeance de manière satisfaisante. On apprend pourtant dès la scène 1 de l'acte I que Sinorix est amoureux de Camma mais que cet amour est unilatéral. C'est cette raison que va utiliser Sinorix pour tenter de légitimer son acte auprès de Camma : le meurtre étant un acte « caché », c'est de l'usurpation du trône (acte visible) dont il va être question. En effet, comme il l'aimait, la seule manière de l'obtenir était de monter sur le trône à la place de Sinatus et d'écarter Hésione. Ainsi, il se déculpabilise (I, 2, v. 163-164, v. 167-168). Il explique son geste en montrant qu'il n'est responsable de rien et en donnant l'impression d'être complètement désintéressé. Il n'a pas volé le trône pour des raisons politiques mais pour une raison passionnelle. Ce n'est pas par ambition que Sinorix a voulu l'évincer mais c'est parce que Sinatus était son rival. Malgré tout, cette raison n'est valable que pour Camma. A Hésione, qui réclame une partie de son bien, il dit tout à fait l'inverse. En effet, il présente Sinatus non pas comme un rival mais comme un monarque illégitime. En fait, il renverse les perspectives : pour fixer sa légitimité, il place Sinatus en position d'usurpateur (II, 1, v. 445).
+
+Dans la littérature les rôles de traîtres sont souvent des rôles monolithiques : c'est le cas ici du personnage de Sinorix, même s'il est plus complexe et plus nuancé qu'il peut sembler au premier abord. En effet, dès le départ, il apparaît faible, triste et lassé du pouvoir (v. 11-12). En effet, le pouvoir ne lui apporte pas ce qu'il désire le plus fondamentalement c'est-à-dire l'amour de Camma. Lieu impersonnel (« on » ), lieu de l'artifice (« flate », « offre des vœux » ), il semblerait que ce ne soit pas une place qui lui convienne sans la femme qu'il aime.
+
+D'autre part, et c'est ce qui fait la caractéristique la plus intéressante du personnage, il alterne entre colère, cruauté et remords, crises de conscience. Vis-à-vis de Camma, il commence par être doux, gentil, il la séduit (« Et puisque pour mes vœux il n'est rien de si doux, / Accablez-moy plutost que de me priver de vous. » [66]) mais à mesure que la discussion avance il passe de la douceur à la menace implicite (I, 2, v. 225-228). Il exerce également ses moyens de pression sur Hésione. En effet, pour éviter de supporter la moindre once de culpabilité, il place la responsabilité de ces mesures sur ceux qui les reçoivent. Par exemple il n'hésite pas à manipuler Hésione pour lui donner l'impression qu'elle a elle-même généré sa propre punition, l'exil (II, 1, v. 419-421).
+
+Cet ultimatum lancé à Hésione se double ensuite d'un second ultimatum lancé cette fois à Camma. Celui-ci non plus n'est pas prémédité : Camma a essayé de le faire changer d'avis concernant Sostrate. Elle a tenté de lui faire avoir pitié de lui. Sinorix profite du fait que Camma veuille aider Sostrate pour lui proposer un choix : il est prêt à laisser la vie sauve à Sostrate si Camma accepte d'épouser un usurpateur (IV, 2, v. 1329-1330 et v. 1349-1350).
+
+Envers Sostrate, son attitude évolue : au départ, sa confiance est sans failles. Il lui demande de séduire Hésione de manière à l'éloigner de lui. Mais il est dans l'erreur car il croit que Sostrate est amoureux d'Hésione. Il fait preuve d'une grande sollicitude à son égard et se sent responsable de la douleur que lui fait, selon lui, ressentir Hésione [67]. Mais quand Sostrate avoue être le coupable de sa tentative de meurtre, le type de relation qu'il entretenait change du tout au tout. Il fait preuve à son égard d'une cruauté sadique :
+
+Que tout ce qu'ont d'horreur les plus affreux supplices  
+Feroit à te punir mes plus cheres delices,  
+Et que j'attacherois leur plus charmant transport  
+A goûter à longs traits le plaisir de ta mort. [68]  
+
+Mais son point de vue n'est pas fixe. Il est pris de remords en ce qui concerne la mort de Sinatus (v. 65-66, v. 71). Le remords amène même Sinorix sur la pente dangereuse de la folie. Camma vient d'annoncer qu'elle ne va plus le repousser mais son complexe de culpabilité est si intense que ses soupçons sont exagérés au point d'imaginer Sinatus revenant d'entre les morts et lui annonçant la mort (III, 1).
+
+Il est tourmenté, divisé. Au sein même d'une tirade, il lui arrive d'être tiraillé par des désirs contraires, ce qui exprime une douleur extrême. Il rend très bien compte de ce qu'il ressent au plus profond de lui-même dans son monologue à la scène 2 de l'acte III. C'est le seul qui a « droit » à ce mode de discours dans la mesure il est seul à ressentir ce dilemme intérieur et depuis Pierre Corneille, le monologue est délibératif et met en valeur ce désordre profond :
+
+Et contraire à moy-mesme en mes propres desseins  
+Je crains ce que je veux, et veux ce que je crains. [69]  
+
+On s'aperçoit que Sinorix est en pleine contradiction, ne sachant pas ce qu'il y a de mieux à faire. De la même façon, les décisions qu'il prend sont remises en doute pour ensuite être de nouveau considérées comme justes. Par rapport au choix qu'il a fait d'exiler Hésione, il est la fois sûr de lui et sûr d'avoir fait une erreur. Il passe de l'un à l'autre comme s'il était pris par un délire irrationnel (II, 2, v. 533-534).
+
+Sinorix est tiraillé par des passions différentes : il subit à la fois de grandes crises de culpabilité et à la fois il peut n'avoir aucun scrupule et faire semblant d'ignorer ce qui est la vérité (V, 3). Mais malgré les divisions et ses contradictions internes, il est déterminé à obtenir celle qu'il aime et peu lui importe les moyens mis en œuvre.
+
+
+### Sostrate, héros galant et sujet loyal
+
+Ce personnage apparaît, quant à lui, dix-huit fois dans l'oeuvre. Son importance va *crescendo.* En effet, il occupe l'espace scénique de façon progressive (I, 5 ; II, 3, 4, 5 ; III, 3, 4, 5 ; IV, 3, 4, 5, 6 ; et dans la totalité de l'acte V) et il clôt la pièce avec Camma. Surtout d'un point de vue strictement littéraire, Sostrate marque l'influence de son frère Pierre Corneille et de la littérature galante.
+
+Il est au centre d'une relation qu'il est difficile pour lui de maîtriser parce qu'il est lié fortement à deux personnages dans la pièce : tout d'abord, il est lié par loyauté à Sinorix, son maître. Ce dernier le couvre de bienfaits, le protège et en contrepartie, il lui doit reconnaissance et fidélité (II, 5, v. 687-689). Cette relation est de type féodal. L'anachronisme de cette réflexion n'est qu'apparent parce que ce mode de fonctionnement, étudié par Paul Bénichou, régit les relations entre certains personnages dans les tragédies du XVII*e* siècle, notamment chez Pierre Corneille. En effet, les relations qui existent entre Cinna et Auguste, par exemple, sont à l'image des vieilles relations entre « vassal » et « suzerain ». Cinna ne veut pas trahir son maître en vertu de cette fidélité qu'il lui doit. On peut définir l'  « esprit » du contrat féodal comme suit :
+
+
+Il s'agit moins ici de l'institution politique que de la forme prise, en rapport avec cette institution, par les relations morales entre le plus fort et le plus faible, idéalement régies par la loyauté chevaleresque, par ce qu'on nommait la foi.  [70]
+
+D'autre part, il est lié également par affection à Camma ; elle lui a d'ailleurs demandé de la venger (v. 300). Mais cela Sinorix ne le soupçonne pas. Seule Camma est au courant de l'amour que lui voue Sostrate. Sinorix croit qu'Hésione est la femme qu'il aime (Hésione d'ailleurs elle-même pense la même chose). Cela donne lieu à plusieurs malentendus. A la scène 5 de l'acte I, Hésione lui demande de la venger et le fait qu'une dame exige cela prouve l'existence d'un lien amoureux. En effet, la dame ne peut céder à l'homme que s'il se couvre de gloire au-dehors. L'homme se dépouille de sa supériorité physique et accepte d'être son serviteur. En conséquence, si Hésione lui demande de « se couvrir de gloire » en échange de sa main, c'est qu'elle croit que Sostrate l'aime et est prêt à tout pour elle.
+
+De la même manière Sinorix est dans le faux [71] jusqu'à la scène 2 de l'acte V où Sostrate lui annonce la vérité (V, 2, v. 1712-1714).
+
+Selon le choix qu'il fera (Sinorix ou Camma), il prendra le risque soit du parjure, soit de l'infidélité. A la fin de la scène 5 de l'acte I, d'ailleurs, Sostrate est dans une situation tragique car elle semble bloquée. En effet, quoi qu'il fasse il trahira Sinorix s'il agit en faveur de Camma et inversement. Ainsi, il ne pourra même plus espérer l'amour de la reine de Galatie, chose qu'il désire au plus haut point. C'est pour cela qu'il tente de convaincre Camma d'abandonner son projet de vengeance. Il lui propose de haïr *en soi* c'est-à-dire sans objet, et en échange il accepte de l'aimer mais sans chercher à la séduire (II, 5, v. 746-749).
+
+Arrive la péripétie de la scène 3 de l'acte III où Sostrate, contre toute attente, prend sur lui le crime organisé par Camma. Il tente un compromis : en effet, il obéit à Camma car il réagit de la même manière que s'il avait lui-même commis le crime et, de plus, il sauve Sinorix. On se trouve ici dans une situation paradoxale où le héros est à la fois innocent et coupable. En effet, il est innocent en acte puisque ce n'est pas lui qui a organisé la conspiration, ni qui a tenté de le poignarder et il est coupable en puissance car il affirme qu'il a eu l'intention de le tuer. De plus, sur le plan politique, il ne peut être que coupable car il est estimé coupable par le souverain. Dans la mesure où deux plans se superposent dans cette pièce (réalité des faits / dissimulation, illusion), notre héros se trouve à la limite, tendu entre deux pôles contraires.
+
+Cette tension est si déstabilisante, si extrême qu'il finit par tomber dans la passivité. En effet, à partir de cet épisode, il ne briguera que la mort, seul moyen pour lui de retrouver son honneur dans la mesure où il a quand même empêché Camma de réaliser pleinement son geste et seul moyen d'éviter de souffrir car Camma, pour le sauver, a décidé d'épouser Sinorix en échange de sa libération. Toutes les interventions que fera Sostrate seront sur le même registre, l'élégie : il répète que la mort est sa meilleure issue et que lui laisser la vie engendrerait une douleur trop forte car il ne peut supporter de voir Camma dans les bras d'un autre. La mort devient un refuge pour ne pas souffrir du sacrifice qu'il a fait. Dans cette attitude subsiste un reste de tragédie galante dans la mesure où notre héros se complaît dans la plainte, est déchiré par la douleur (« Que me servent ces jours qu'on cesse de poursuivre / Si l'on m'oste le bien sans qui je ne puis vivre ? » [72]).
+
+Il est vrai que la lamentation est conventionnelle (V, 1, v. 1661-1663 et v. 1670-1673). Elle exploite des clichés littéraires comme l'apostrophe à des réalités abstraites (« mes douleurs » ), l'appel à la bienveillance (« Ah, Sosime, c'est trop, souffre que je respire » ). Mais la douleur qu'il ressent est telle qu'elle le mène jusqu'à la confusion (v. 1517-1520, v. 1528, v. 1531, v. 1535-1537). Il est bouleversé, transporté par une douleur qu'il ne contrôle plus et qui l'empêche de maîtriser son être et ses émotions. Il n'est plus du tout responsable de lui-même.
+
+Son statisme engendre un nouveau type de relation avec les autres personnages : chacun le traite avec dureté, mépris : Camma accepte qu'il se dénonce à sa place, Hésione refuse de le sauver lorsqu'elle en a la possibilité même si elle ressent de la culpabilité de l'avoir entraîné jusque là et Sinorix se sent déshonoré et trahi par lui.
+
+Ce personnage est à la fois un héros cornélien type engagé dans une relation dont la caractéristique majeure est le dilemme et à la fois un héros « galant », délicat, tendre, soumis à celle qu'il aime, prêt à se sacrifier pour elle. Ce n'est pas contradictoire dans la mesure où la tendresse est un héritage de la tradition chevaleresque dont on a vu les implications dans cette pièce. De plus, cette « galanterie » n'est que ponctuelle car au-delà de la plainte, on constate également que notre héros tombe dans la confusion extrême, la contradiction, la tourmente. Un vers résume très bien son sentiment :
+
+Tout me nuit, tout me perd, tout me devient funeste.  [73]  
+
+Sostrate est le héros qui contient en lui toutes les contradictions. Même si Thomas Corneille a recours à la rhétorique galante comme instrument pour dépeindre sa passion, cela permet aussi au public de ressentir de la pitié pour lui.
+
+En conclusion, les diverses relations entre les actants de la pièce donnent à celle-ci une cohérence et une dynamique interne. L'autre instrument qui crée un spectacle dynamique : c'est l'effet de dramatisation instauré par le dramaturge.
+
+
+## Disposition et réaménagement au service de la dramatisation
+
+Dans *Camma, reine de Galatie*, l'auteur a conduit sa pièce avec grâce et subtilité. En effet, la scène 3 de l'acte III est la péripétie majeure de l'œuvre. A partir de ce coup de théâtre, la pièce prend un nouvel aspect : Sostrate sera considéré comme un traître et sera soumis aux décisions des uns et des autres. Pour Aristote, ce type d'action est « complexe » car un événement majeur vient inverser le cours attendu des actions. De multiples événements, ensuite, jalonneront l'œuvre : les deux ultimatums lancés à Hésione et à Camma, la décision de Camma d'épouser Sinorix, l'aveu de Sostrate, et le siège du palais par des mutins. Ceux-ci ont permis de différer le dénouement, d'augmenter le suspens, et de créer une tension dramatique optimale.
+
+De plus, on peut aussi distinguer différents types de scènes selon leur place et selon leur fonction dans la pièce. Elles permettent de concentrer l'action en un seul temps et en un seul lieu puisqu'elles font coïncider le temps de la représentation et le temps de l'action. Parfois, même, ce sont des scènes qui représentent des motifs conventionnels. Ainsi, la manière dont elles occupent l'espace dramatique et la manière dont elles sont construites rendent compte du talent et de l'art du dramaturge.
+
+
+### La scène d'apparition
+
+Cette scène se trouve à la scène 1 de l'acte I. Sinorix est en compagnie de son confident, Phaedime. Camma vient de lui annoncer qu'elle acceptait son offre, mais cela ne suffit pas à le rassurer. Il est assailli par des remords de conscience, et ses remords sont tels qu'il finit par être soumis à une hallucination : il a vu Sinatus qui lui a parlé. Cette scène prépare la péripétie de la scène 3 de l'acte III dans la mesure où cette apparition lui fait croire qu'une conspiration générale a été organisée contre lui. C'est une scène prémonitoire qui laisse penser que quelque chose va arriver.
+
+Cette scène combine à la fois le récit et le discours direct. En effet, Sinorix raconte à Phaedime la vision qu'il a eue : Sinatus lui est apparu d'entre les morts, ou plutôt son « ombre » lui est apparue. La manière dont est construite la scène nous donne l'impression que cette dernière se déroule sous nos yeux, stylisation d'une hypotypose. Cette figure de style est un trait de rhétorique. Les images sont impressionnantes, le vocabulaire concret car Sinorix décrit l'aspect mortifère et horrible de la vision (« pasle et défiguré / « yeux égarés » / « chancelle » ). C'est l'image d'un spectre que nous dépeint le roi de Galatie. Dans *Camma*, l'ombre de Sinatus parle. Sinorix reproduit ses paroles au discours direct, moyen d'accentuer le tragique de la situation. Sinatus le désigne comme coupable (« tu m'as ravy le jour pour me ravir ma Femme, / Et trahissant ma Fille, adroit dans ce grand Art, / Tu luy voles un Trône où tu n'as point de part. » [74]) et lui lance une prophétie sentencieuse (v. 851).
+
+Cette vision est prémonitoire car elle lui annonce qu'un geste va être porté contre lui par une main dont il ne soupçonne rien. D'ailleurs la tentative de meurtre qui suit va tout de suite être considérée par Sinorix comme le châtiment prévu par Sinatus surtout qu'il a été commis par la personne qu'il « prévoyait le moins », Sostrate. Sinorix interprète Sinatus en considérant comme vrai l'aveu de Sostrate. Mais l'ombre de Sinatus parlait d'un coup « fatal », c'est-à-dire qui entraîne la mort. En étant sûr de la culpabilité de Sostrate, la tension du roi baisse d'un cran. Il ne se sent plus du tout menacé. C'est donc un véritable coup de théâtre quand Camma va lui annoncer qu'elle au courant de l'empoisonnement de Sinatus et qu'elle sait que c'est lui qui l'a organisé. La prophétie va se réaliser à ce moment- là, alors que Sinorix croyait que plus aucune menace ne pesait sur lui.
+
+La « scène du spectre » est un moyen dramaturgique intéressant pour nous faire pressentir que quelque chose de particulier va se passer et tout l'art de Thomas Corneille est de faire que l'évènement qui semble en corrélation avec cette prophétie ne le soit pas. De cette manière, le « coup fatal » a lieu mais il a été différé et il arrive à un moment où on s'y attend le moins.
+
+Malgré tout, rappelons que nous sommes dans une tragédie classique. De ce fait, nous sommes dans un théâtre de constantes, de valeurs inamovibles, dans un théâtre où les mêmes schémas reviennent sans cesse. Certains thèmes deviennent des clichés littéraires et sont réexploités par des auteurs dramatiques plus ou moins talentueux. Le cliché, ainsi, se renouvelle et occupe une place importante dans la pièce nouvellement créée.
+
+En conséquence la scène d'apparition de la scène 1 de l'acte III est un motif conventionnel de la tragédie classique. Elle permet d'attiser le suspens, de révéler l'angoisse du protagoniste et de différer le dénouement dans la mesure où souvent la prophétie, énigmatique, est mal interprétée. De plus, ici, Sinatus prend l'apparence d'un spectre et revient d'entre les morts. Il est désigné comme une « ombre ». Cette image funèbre peut faire penser à celle que l'on retrouve dans de très nombreuses pièces : par exemple, dans *La Mariane* (1636) de Tristan l'Hermite, à la scène 1 de l'acte I, Hérode se réveille du cauchemar qu'il vient de faire. Il le raconte à la scène 3 de l'acte I, après que son frère et son sœur ont tenté de lui faire comprendre la vanité des songes : la vision qu'il a eue était celle de l'Ombre du jeune Aristobule, frère de Mariane, assassiné par Hérode. Il est venu lui reprocher ses crimes passés et en prévoir le châtiment lointain. Cette scène spectaculaire correspond à un état paroxystique de la passion. A la fin du siècle, dans sa pièce *Athalie* (1691), Racine fera du songe du personnage éponyme l'acmé de sa tragédie (II, 5) [75]. Il est aussi construit sur le modèle des songes prémonitoires de tragédies : la première partie est la remémoration de la mise en pièces de sa mère et la figuration symbolique de la réduction à néant des grandeurs illusoires. La seconde partie du cauchemar est la préparation de la « noble et modeste » image d'  « un jeune Enfant », devenant par la suite un « Enfant fatal », aussi séduisant que redoutable, qui va porter un coup de poignard meurtrier à l'encontre d'Athalie.
+
+Dans *La Tragédie française de Jodelle à Corneille (1553-1640). Le thème de la vengeance*, Forsyth Elliott Christopher nous explique que, dans une tragédie où le thème de la vengeance se révèle omniprésent, l'ombre, comme les personnages protatiques, les confidents et les messagers sont des « personnages accessoires conventionnels » [76]. Ils apparaissent comme des motifs essentiels mais sont des *topoï* de la tragédie de vengeance.
+
+De la même manière, la scène de la tentative de meurtre est aussi un motif conventionnel. Bien entendu, c'est un épisode déterminant de la pièce car il va servir à déclencher les péripéties ultérieures qui mèneront au dénouement. En effet, à cause de cet acte, Sostrate a pris la défense de Camma et s'est dénoncé à sa place. Il devient un pion pour Sinorix, qui se sert de lui notamment pour obtenir la main de Camma. Celle-ci ne pouvant pas faire autrement pour sauver Sostrate accepte finalement de l'épouser. Grâce à cet épisode, placé au centre de la pièce, le dénouement est différé et le suspens accentué. Mais, Thomas Corneille n'est pourtant pas l'inventeur de ce motif. Il a su l'utiliser et l'exploiter avec ingéniosité mais c'est en fait un épisode particulièrement apprécié du public de l'époque. On pense que Thomas Corneille s'est inspiré d'une pièce antérieure, également pourvue de cet artifice : *Amalasonte* de Philippe Quinault (1657) [77]. A la scène 6 de l'acte IV, Amalfrède saisit l'épée de Théodat et avance vers la reine Amalasonte qui dort ; Théodat essaye d'arracher l'arme des mains de celle-là mais Amalasonte se réveille au moment où Amalfrède cède l'arme à Théodat. Ce dernier se retrouve avec l'arme à la main. Logiquement, pour Amalasonte les apparences ne sont pas trompeuses et elle croit qu'il veut tenter de l'assassiner alors que le public, et Amalfrède aussi, savent qu'Amalasonte se trompe sur le coupable.
+
+Comme dans *Camma*, on retrouve la tentative de meurtre qui échoue et l'erreur sur la personne qui voulait commettre ce crime. L'innocent est pris pour le coupable et vice-versa mais, la différence est la façon dont ce quiproquo est mis en scène : dans un cas il y a quiproquo parce que les faits sont contre lui dans la mesure où Théodat se retrouve avec l'arme à la main, dans un autre le malentendu a lieu parce qu'un des protagonistes s'est désigné coupable à la place du vrai coupable. L'originalité de Thomas Corneille tient donc dans le fait qu'il s'est concentré sur la notion théâtrale de dissimulation et de changement de rôle.
+
+Ces deux exemples montrent que tout son art n'est pas dans l'invention mais dans l'exploitation de ces divers motifs. De la même façon, pour les scènes rapportées, notre dramaturge ne fait que réutiliser un moyen dramaturgique conventionnel de la tragédie classique.
+
+
+### Les scènes rapportées
+
+Ces scènes se situent à l'acte V. C'est Sosime qui en est le messager. Il ouvre et clôt l'acte. Sa fonction n'est pas très subtile : il donne à voir au public et aux personnages présents sur scène les éléments qui pour des raisons de bienséance (mort du héros) ou pour des raisons d'unités de temps et de lieu (comme par exemple le déroulement de la cérémonie nuptiale qui est raconté par Sosime) ne peuvent être « mis en scène » directement. Les scènes rapportées font partie de l'esthétique classique.
+
+Le premier récit dont nous allons examiner l'organisation est situé à la scène 1 de l'acte V. Deux évènements y sont rapportés : le premier concerne Hésione. Mais rapidement poussé par les interrogations de Sostrate, Sosime finit par rendre compte du déroulement de la cérémonie nuptiale. C'est un sujet qu'il ne comptait pas aborder au départ avec Sostrate.
+
+Le premier événement rapporté contient du discours direct et du récit. Le discours direct reproduit les paroles d'Hésione. Cela donne de la dynamique, de la vivacité au texte. Il essaye de reproduire dans son récit la même intensité que celle véhiculée par Hésione dans sa harangue. De cette manière, Sosime saisit l'auditoire comme on imagine qu' Hésione a pu saisir le sien.
+
+Le discours proféré par Hésione est un discours politique ; elle en appelle au soulèvement du peuple en rendant compte de la légitimité de son action. Elle fait en quelque sorte acte de propagande. La conséquence de cette harangue politique n'est pas celle qu'espérait Hésione. En deux vers Sosime nous renseigne sur son emprisonnement et son futur exil. Mais ce compte-rendu, dynamique et intense, n'a pourtant pas un effet retentissant sur Sostrate. Sosime était persuadé que ce dernier allait ressentir une profonde douleur à l'annonce de ce qui allait suivre :
+
+Ce qui suit, quoy que juste, estonnant vos desirs  
+Vous contraindra sans doute à pousser des soûpirs. [78]  
+
+Mais en fait Sostrate n'est pas du tout intéressé par le récit d'Hésione. Toutes ses interrogations sont au sujet de la Reine. Sosime n'est pas, au début, disposé à en rendre compte :
+
+La pompe vient, Seigneur, d'en estre terminée.  [79]  
+
+Mais les sollicitations de Sostrate, devenant de plus en plus nombreuses, Sosime finit par évoquer ce qu'il n'avait pas l'intention de raconter. Et comme il semble être plus intéressé par ce récit, il va l'évoquer en vingt-trois vers (sans compter les réactions de Sostrate) alors que le récit d'Hésione ne s'étend que sur treize vers.
+
+C'est Sostrate qui pousse Sosime à rendre compte de cette cérémonie nuptiale. Il est sûr que le discours de ce dernier aura pour lui une valeur cathartique, qui finira par le soulager (v. 1636-1637). A partir de cette demande, débute le récit développé de la cérémonie. Dans la mesure où nous sommes dans une tragédie classique, les unités de temps, de lieu et d'action doivent être respectées. C'est le cas ici : la cérémonie a eu lieu hors scène, par respect de la règle des trois unités. Il évoque les sentiments d'euphorie et d'enthousiasme de Camma (v. 1641). L'image donnée par Sosime tranche avec celle espérée par Sostrate (« douleur, contrainte » ). Elle est en proie à un bonheur immense. Le champ lexical est d'ailleurs très riche de termes qui évoquent cette félicité : « plaisir, transport éclatant, croistre leur joye où leur bonheur commence, glorieux. ».
+
+Ce récit est plus qu'un récit informatif ; il avait aussi pour but de convaincre Sostrate que le seul sentiment qui transparaissait était l'extase. Il décrit des sentiments visibles chez l'un et l'autre et tire des conclusions (v. 1658-1660).
+
+Cette cérémonie est pour Sosime la preuve que le pouvoir était ce à quoi Camma tendait. Mais ce récit a des conséquences : « souffre que je respire » [80].
+
+Nous sommes en face d'un quiproquo car Sosime pensait que Sostrate s'en voulait d'avoir été celui qui avait obligé Camma à se marier avec Sinorix pour lui sauver la vie. Il voulait le rassurer. En fait, les sentiments de Sostrate, pour Camma, sont si forts qu'il espérait que Sosime lui dise qu'elle avait véritablement souffert.
+
+Cette cérémonie fait écho à une première cérémonie dont les éléments principaux ont été rapportés à la scène 3 de l'acte I. Il s'agit du mariage entre Camma et Sinatus. Un évènement malencontreux a eu lieu :
+
+Quand lui donnant ma foy, le cœur tout interdit,  
+Le Vase Nuptial tout à coup s'épandit.  [81]  
+
+Cet accident a une valeur prémonitoire puisque, ensuite, Sinatus est mort empoisonné par le liquide qui se trouvait dans la coupe nuptiale. L'union est ici le lieu de la séparation.
+
+Ce qui est intéressant c'est de lire *a posteriori* le récit de Sosime et de voir les liens entre ces deux épisodes. En effet, Sosime donne une vision subjective de la scène, il l'a vue de l'extérieur et n'était pas au courant de tout. C'est Camma à la scène 6 de l'acte V qui donne des informations supplémentaires sur cette cérémonie (v. 1994). C'est parce que la coupe nuptiale était empoisonnée que Sinorix est mort ainsi que Camma. L'union est, aussi ici, le lieu de la séparation. Le même motif a été répété. Au moment du récit de Sosime, ceci n'est pas perceptible. On a besoin de l'éclairage de Camma pour comprendre.
+
+Sosime a fait un compte-rendu subjectif à Sostrate mais dans la mesure où l'acte de vengeance était dissimulé, il était dans le faux. Sa vision extérieure a permis d'augmenter le suspens puisqu'on sait bien que ce ne peut pas là être une fin et elle a permis aussi de renforcer le désespoir de Sostrate.
+
+Le second épisode « rapporté » est la mort de Sinorix à la scène 6 de l'acte V. Il s'agit du récit final. Le dénouement, marqué par la mort du héros, est le seul moment où le confident peut prendre la parole de façon suivie. Celui-ci, en faisant le récit de la mort du héros, se fait l'héritier sur ce point d'une des fonctions du messager de la tragédie antique. Ici, ce récit n'est pas pris en charge par le confident du héros, Phaedime, mais par le capitaine des Gardes de Sinorix.
+
+Cet épisode a eu lieu hors scène pour des questions de bienséance. En effet, Sinorix est mort empoisonné. Par opposition, l'agonie de Camma a eu lieu sur scène dans la mesure où elle s'est suicidée. Jacques Scherer nous explique que le suicide n'est pas traité de la même manière que le meurtre par les bienséances classiques. « Le meurtre est interdit, le suicide ne l'est pas », dans la mesure où le suicide est considéré comme un acte de courage, un acte héroïque, préférable à la honte [82].
+
+Sosime débute son récit par une phrase d'accroche pour demander l'attention de son auditoire. Suit une narration au présent pour donner l'impression au public, sur scène et dans la salle, que cette mort se déroule sous leurs yeux. Le récit, de cette manière, est beaucoup plus dynamique, plus vif, plus évocateur. De plus, cet évènement est aussi caractérisé par son aspect brutal et imprévu. Rien ne laissait présager une telle chose puisque « Tout à coup il s'arreste, et poussant de longs cris / Fait voir un changement dont nous sommes surpris » [83]. Ce que décrit Sosime ensuite avec réalisme et sobriété ce sont les conséquences de l'agonie sur le physique de Sinorix. La mort, étant quelque chose d'abstrait, elle ne peut être préhensible que de manière concrète. Sosime se concentre sur des détails majeurs, assez révélateurs d'une perturbation : le passage du chaud au froid, de l'écarlate à la pâleur. Cette description comble les lacunes du Capitaine car il ne connaît pas la cause de ce changement si soudain. Il lance une hypothèse :
+
+Il agit sur le corps si sa cause est dans l'ame. [84]  
+
+L'âme est en corrélation avec le corps. Sosime dit en filigrane que la raison de sa mort est liée aux tourments, aux peurs, aux remords qu'il ressentait. La douleur, trop forte, l'a tué.
+
+A ce récit, centré sur l'agonie de Sinorix, s'ajoute du discours direct : Sosime reproduit les derniers propos du mourant. On se trouve, là, au comble du pathétique. Sinorix ne ressent aucune peur, aucune angoisse. Pour lui, c'est une fatalité, un châtiment divin qui tôt ou tard devait se réaliser. Ce n'est qu'un juste retour des choses dans la mesure où il est puni du meurtre qu'il a commis. La mort arrive, ensuite, progressivement (« il commence à mourir » / « il expire » / « ne peut plus rien dire » / « il meurt » ) sans que plus rien ne soit possible. La conséquence la plus immédiate c'est Hésione qui en profite pour récupérer ce qui lui revient.
+
+Cet évènement est rendu avec une grande intensité. Même si la description use de clichés pour évoquer l'agonie de Sinorix, le discours de ce dernier en mettant l'accent sur le tragique de la situation, accentue le pathétique. Tout est dans le fait de savoir ménager les impressions.
+
+Malgré tout, ce récit n'est qu'un compte-rendu chargé d'émotions et de pathétique, dont le seul but est de révéler au public une information essentielle, la mort de Sinorix. La cause réelle de ce décès n'est pas explicitée par Sosime. C'est un spectateur externe de la scène, il n'est pas au courant de tout. La seule chose dont il est sûr c'est que ce ne sont pas les mutins qui l'ont tué puisque son agonie est arrivée soudainement, hors de tout contact avec ces derniers.
+
+Comme nous nous trouvons au dénouement, rien ne doit rester en suspens. Tout doit trouver une cause et une raison. L'explication rationnelle de la mort de Sinorix va être donnée par Camma, elle-même : elle révèle que Sinorix est décédé à la suite d'un empoisonnement de la coupe nuptiale dans laquelle il a bu. Cette annonce est double : elle annonce la mort de Sinorix mais également sa propre mort.
+
+Sosime a donc à sa charge deux récits. Ce sont des moyens conventionnels pour ne pas choquer la bienséance et pour évoquer ce qui ne peut pas être montré sur scène à cause de la règle classique des unités. Ils donnent des informations et en même temps tentent de susciter des émotions, une tension dans l'assistance et de différer le dénouement final. Enfin ce sont des récits-limites dans la mesure où ils sont subjectifs. Ainsi, dans une pièce où la dissimulation règne en maître, voir de l'extérieur des évènements et en rendre compte, c'est prendre le risque d'un manque, manque qui rehausse le suspens puisque, de ce fait, des zones d'ombres persistent jusqu'au bout.
+
+Ces scènes sont nécessaires au genre théâtral car elles déploient l'intrigue sur de nombreux actes. Même si ce sont des motifs conventionnels, ils sont exploités par Thomas Corneille avec un grand art et une grande maîtrise.
+
+
+### Le monologue
+
+De la même manière, notre auteur utilise une modalité d'écriture intéressante car elle est peu présente dans l'œuvre et de ce fait son emploi est significatif : c'est le monologue. C'est un moyen littéraire traditionnel pour rendre compte des émotions et de ce que ressent un personnage, la plupart du temps déchiré entre des passions contraires.
+
+Jacques Scherer en parle et évoque la déconsidération du monologue à l'époque classique :
+
+
+On le jugera invraisemblable, on ne l'admettra que s'il n'est pas trop long, ni trop fréquent, on ne le trouvera justifié que si celui qui le prononce est en proie à une passion violente. … ». Corneille pense aussi, en 1660, que « quand un acteur parle seul, …il faut que ce soit par les sentiments d'une passion qui l'agite, et non par une simple narration ».  [85]
+
+Il n'est donc admissible que s'il est passionné. Un seul monologue se trouve dans notre pièce : c'est celui de Sinorix à la scène 2 de l'acte III. Il comporte 31 vers : il est donc assez court.
+
+Notre personnage est sous le coup de la passion. Des sentiments contraires s'expriment en lui. Il est pris de remords, parce que à la fois il s'en veut d'avoir agi de la sorte pour obtenir celle qu'il aime et à la fois il ne peut pas du tout prendre la décision de s'éloigner d'elle.
+
+C'est un monologue qui nous fait percevoir la dualité du comportement de Sinorix et la complexité du personnage, tout en nuances. Seul face au public, il livre ses doutes et ses craintes. Même si le monologue, en soi, est un acte artificiel, il nous donne, paradoxalement, à voir un personnage humain avec ses faiblesses et ses crises de conscience.
+
+
+### Le dénouement
+
+Enfin, la scène de clôture est ce qui, chez Thomas Corneille, est le mieux mené et qui a le plus d'effet sur le spectateur.
+
+Le dénouement se trouve immédiatement après le nœud. Comme le dit Jacques Scherer, « le dénouement d'une pièce de théâtre comprend l'élimination du dernier obstacle ou la dernière péripétie et les évènements qui peuvent en résulter … . » [86]
+
+Ce qui est particulièrement intéressant ici, c'est que Sosime nous présente d'abord le mariage entre Sinorix et Camma comme une fin, comme un dénouement heureux car il insiste bien sur le fait qu'ils partageaient tous les deux une joie immense.
+
+Cette « fin » est un leurre, une illusion. Elle ne dupe que ceux qui ne connaissent pas les mobiles de notre héroïne. Cette « fausse » consécration a pour but d'augmenter la tension dramatique, dans la mesure où le spectateur ne peut considérer cette fin comme une fin probable, et de suspendre le « vrai » dénouement en le différant.
+
+De même, ce qui retarde le dénouement ce sont les efforts de Camma pour dissimuler ce qu'elle a commis. Elle repousse le moment de la révélation, parce qu'elle attend que la mort de Sinorix soit effective. La dissimulation, le silence ont pour but de différer le dénouement. Nous sommes, donc, dans une position suspensive, génératrice de tension. Ce n'est qu'à la scène 6, c'est-à-dire à la toute fin de la pièce qu'on apprend que Sinorix est mort d'un mal insoupçonné et que c'est Camma qui a empoisonné la coupe nuptiale où ils ont bu tous les deux. C'est donc à la toute fin de la pièce que les intrigues se dénouent, se résolvent. Le procédé dilatoire utilisé par Thomas Corneille a pour but de prolonger la tension dramatique et de ce fait permet de donner du suspens. Même si la fin est connue du public, la manière de construire le dénouement et de le repousser à la toute fin de la pièce renouvelle le genre et le sujet.
+
+Comme on a pu le voir, Thomas Corneille exploite des motifs préexistants, les renouvelle et les porte à un degré admirable. Il connaît les clichés les plus conventionnels et se les réapproprie avec brio et talent pour créer une pièce originale.
+
+De la même manière qu'il réutilise des moyens déjà employés par d'autres dramaturges, sa pièce est aussi marquée par de nombreuses influences littéraires, motifs dont se sert Thomas Corneille et qui font aussi partie du travail de création.
+
+
+## La relation entre *Camma, reine de Galatie* et les autres œuvres : modèles contemporains et influences
+
+A lire *Camma*, on se rend compte que cette pièce a de nombreuses influences dans le domaine de la littérature. Thomas Corneille manie avec virtuosité l'intertextualité puisque des liens avec d'autres pièces de la même époque sont possibles. Cela indique, notamment, la forte influence de son frère. De la même façon, il existe des rapprochements à faire entre des pièces du même auteur.
+
+Cependant, Thomas Corneille ne se contente pas de s'inspirer des œuvres de certains auteurs.
+
+
+### Camma et Pertharite
+
+La pièce de Pierre Corneille qui a des similitudes avec *Camma, reine de Galatie* est *Pertharite* (1652). Cette pièce fut un échec total qui décida Pierre à renoncer au théâtre. Dans cette pièce, seuls les trois premiers actes peuvent être rapprochés de notre pièce. Il s'agit d'un usurpateur qui abandonne celle à qui il avait promis le mariage et qui tente de forcer la veuve du vaincu à l'épouser en faisant de son enfant un moyen de pression.
+
+En effet, Grimoald, Comte de Bénévent qui a volé le royaume des Lombards sur Pertharite, menace Rodelinde qui refuse de l'épouser :
+
+Grimoald.  
+Allez, sans irriter plus longtemps mon courroux,  
+Attendre ce q'un maître ordonnera de vous.  
+Rodelinde.  
+Qui ne craint point la mort, crains peu, quoi qu'il ordonne.  
+Grimoald.  
+Vous la craindrez peut-être en quelque autre personne.  [87]  
+
+Ces menaces ressemblent à celles proférées par Sinorix, commençant à perdre patience, à l'égard de Camma.
+
+Ensuite, on retrouve Garibalde, le conseiller machiavélique de Grimoald, qui vient présenter l'ultimatum suivant à Rodelinde : c'est soit le mariage, soit la mort de son fils. Mais il n'est pas inconcevable d'y voir des similitudes avec *Camma.* En effet, Sinorix lui a demandé de choisir entre le mariage ou la mort de Sostrate, son amant.
+
+Enfin, on a vu précédemment que Grimoald demandait de manière très pressante à Rodelinde de l'épouser. La raison est la suivante : il en est amoureux. Il est tiraillé entre l'amour-propre (qui le fait être menaçant) et l'amour. Sinorix est, de la même façon, amoureux de Camma quand il lui demande de l'épouser ; c'est d'ailleurs la raison principale de la mort de Sinatus et de l'éviction d'Hésione. Etant amoureux de Camma, Sinatus était un rival, et Hésione un obstacle.
+
+De nombreux motifs sont similaires entre ces deux pièces ce qui confirme le fait que Thomas Corneille s'est inspiré de son frère pour construire *Camma, reine de Galatie*.
+
+En ce sens, qualifier une partie de son œuvre de « cycle cornélien » [88] est juste dans la mesure où l'influence de son frère a été décisive. Certains personnages de Thomas Corneille ressemble à certains personnages des pièces de Pierre. On ne peut donc nier l'importance que Pierre Corneille a eue sur son frère.
+
+Cependant, le fait de présenter Sinorix s'emparant du pouvoir après avoir fait mourir Sinatus *par amour* est la preuve que Thomas Corneille a voulu faire du Corneille galant. Il s'est donc appuyé sur la vision que Pierre Corneille avait de la tragédie pour la transformer.
+
+De plus, on peut déceler une forte intertextualité interne avec *La Mort de l'empereur Commode* [89] (1659) et *Stilicon* (1660). Thomas Corneille va donc conserver cette structure de base, dont il s'était déjà servi dans ses pièces antérieures, pour construire *Camma.*
+
+
+### Camma et La Mort de l'empereur Commode
+
+Il s'agit dans *La Mort de l'empereur Commode* d'un attentat manqué contre un tyran entrepris par une femme et de la mort finale de celui-ci. Commode au départ décide d'épouser Helvie à la place de Marcia, alors qu'il s'était d'abord engagé auprès d'elle. Il le dit à Laetus qui est à la fois l'amant d'Helvie et un des hommes de confiance de Commode. De plus, ce dernier veut lui donner Marcia. On se rend compte dès les premières lignes de la pièce les rapprochements nombreux avec *Camma.*
+
+Helvie réagit comme Camma :
+
+Pour mériter ce rang que vostre amour m'appreste  
+Il faudroit que mon cœur devienne vostre conqueste.  [90]  
+
+Commode, comme Sinorix, emploie la menace et se déculpabilise aussitôt en faisant porter la faute sur celle même qui est punie :
+
+Oui, je serai tyran, et puisqu'on se déclare  
+Pour qui n'est trop cruel je veux estre barbare.   
+Lorsque je m'en défens, c'est vous qui m'y forcez. [91]  
+
+Cette menace est directement adressée à son père, Pertinax, homme à qui revenait le pouvoir.
+
+Marcia veut se venger et elle demande à Electus de le faire à sa place mais il doute. Le favori Electus, en ce sens, est proche dramaturgiquement du personnage de Sostrate : il a à la fois des obligations envers le tyran (« Et portant un poignard dans le sein de mon maistre / Joindre au titre d'ingrat, l'infâme nom de traistre. » [92]) et envers les deux femmes qui poursuivent la mort de celui-ci.
+
+A la fin de la pièce, Helvie a tenté de le tuer mais cette conspiration a échoué ; Commode doute à cet instant de Laetus. C'est ainsi que Marcia feint de récupérer le cœur de Commode pour pouvoir, avec l'aide d'Electus, l'empoisonner. Commode meurt mais pour ne pas que cette mort soit due aux effets du poison, il se poignarde. Finalement, la « tyrannie expire » [93] et Pertinax récupère son trône.
+
+Un lien très fort unit ces deux pièces, qui ont une structure de base assez proche et qui sont construites toutes les deux à partir d'un conflit d'intérêt. Il s'est beaucoup inspiré de ce sujet pour construire *Camma.*
+
+
+### Camma et Stilicon
+
+La seconde pièce à laquelle on peut penser quand on lit *Camma* est *Stilicon.* Même si les liens sont moins nombreux à faire qu'avec *La Mort de l'empereur Commode*, il est quand même possible d'y observer des similitudes. En effet, dans la mesure où les thèmes sont semblables, ils sont traités à peu près de la même manière : l'une comme l'autre sont des tragédies de conspiration où une tentative de meurtre a été organisée et dissimulée par un faux aveu à la victime. De plus, Placidie, une des héroïnes de *Stilicon*, a des points communs avec Hésione : elles sont toutes les deux attachées à leur gloire, dénuée de toute sensibilité. Mais Placidie, à la différence d'Hésione n'est pas enfermée dans une seule et même attitude. Son orgueil démesuré, à certains moments, s'amoindrit et laisse place à une plus grande humanité, ce qui chez Hésione n'apparaît pas.
+
+
+### Une pièce inspirée par la passion
+
+Cependant, de multiples particularités font de cette pièce une pièce à part. En effet, il serait plus juste de dire, dans la mesure où ce serait prendre en compte toutes les aspérités de la pièce, que *Camma* est à la limite entre plusieurs influences. En effet, cette pièce n'est pas univoque et elle porte en elle des potentialités dramaturgiques originales. Notre auteur révèle ainsi sa très grande virtuosité.
+
+Nous allons ainsi nous attacher à montrer les liens avec *Andromaque* (1666) de Jean Racine et faire ce que nous appellerons de l'  « intertextualité à l'envers » pour mettre en évidence certains traits particuliers de la pièce comme les marques de la passion à laquelle nos personnages sont soumis, soumission qui, malgré tout, n'est en rien un avilissement. Ces rapprochements, à certains moments, ne sont pas totalement dénués de sens.
+
+Jacques Scherer, dans *La dramaturgie classique en France*, explique que « dans Racine, il suffit de citer le dilemme d'*Andromaque*, où la veuve d'Hector cherche à la fois à sauver la vie de son fils et à éviter un mariage qui lui fait horreur. Ces problèmes sont si peu particuliers aux chefs-d'œuvre que M. Mornet a pu retrouver la situation d'*Andromaque* dans de nombreuses pièces antérieures comme *Maximian, Commode, Camma* et *Pyrrhus* de Thomas Corneille, *La mort de Cyrus* et *Astrate* de Quinault. » [94]
+
+Tout d'abord, comme le dit Jacques Scherer, le dilemme central est à peu près similaire : dans *Andromaque*, une princesse veuve est convoitée par celui là même qui a tué toute sa famille. Pour sauver son fils, elle doit l'épouser. Dans *Camma*, une veuve est poursuivie par les assauts de celui qui a tué son mari. Il la menace aussi de tuer son amant mais, et cela fait une grande différence, sans savoir qu'il l'est ; de ce point de vue, c'est donc un demi-chantage. Le dilemme est le même, la vie d'un être cher ou la préservation de son honneur. Seuls changent l'objet du chantage (Astyanax, le fils d'Hector et d'Andromaque ou Sostrate) et la connaissance, par le tyran, de la nature de la relation.
+
+Mais il serait inexact de dire, pour autant, que *Camma* a inspiré *Andromaque*. En effet, ces deux pièces ont été influencées par *Pertharite.* Effectivement, elles ont un point en commun mais ce point en commun est une œuvre de Pierre Corneille. D'ailleurs, si on étudie avec précision *Andromaque*, on s'apercevra que le point de départ de la pièce est plus proche de celui de Pierre que de celui de Thomas.
+
+Examinons le couple Hector / Sinatus. Nos deux héroïnes sont veuves. Elles gardent en mémoire l'ombre de leur mari défunt qui va guider leurs actes et mettre en lumière la force de leur vertu. Elles vouent une fidélité indéfectible à leur mari malgré la séparation. Les différences sont que Camma, contrairement à Andromaque, a dans l'espoir de se venger et que la pièce de Racine contient un autre personnage invisible et muet et qui guide aussi les actes d'Andromaque : c'est Astyanax, son fils.
+
+De plus, le schéma récurrent de la princesse qui promet sa main en échange d'un meurtre est un *topos* de la tragédie de vengeance. C'est un motif qui est essentiel à chaque fois que des grands intérêts sont à l'œuvre dans une pièce. Mais, ce qui est plus particulièrement frappant, et qui nous fait dire que peut-être *Camma*, par certains aspects, annonce la pièce de Racine, c'est que Sinorix semble être un « Pyrrhus avant la lettre » [95].
+
+L'un comme l'autre, en effet, alterne la douceur, la patience et la menace d'un être cher. Dans *Andromaque*, Pyrrhus, à la scène 4 de l'acte I, passe d'un état à un autre :
+
+Je ne balance point, je vole à son secours au secours d'Astyanax ,  
+Je défendrai se vie aux dépens de mes jours.  
+Mais parmi ces périls, où je cours pour vous plaire,  
+Me refuserez-vous un regard moins sévère ?  [96]  
+Songez-y bien. Il faut désormais que mon cœur,  
+S'il m'aime avec transport, haïsse avec fureur.  
+Je n'épargnerai rien de ma juste colère.  [97]  
+
+Mais c'est surtout à la scène 7 de l'acte III que la menace est la plus insoutenable à entendre pour Andromaque :
+
+Songez-y, je vous laisse, et je viendrai vous prendre,  
+Pour vous mener au Temple, où ce fils doit m‘attendre.  
+Et là vous me verrez soumis, ou furieux,  
+Vous couronner, Madame, ou le perdre à vos yeux.  [98]  
+
+Dans *Camma*, cette alternance a lieu à la scène 2 de l'acte I. Mais, cette similitude ne vient pas du fait que Racine ait emprunté ce motif à Thomas Corneille. En fait, chacun s'est inspiré de Pierre Corneille et de sa pièce *Pertharite* : c'est une des œuvres qui est à l'origine de cette esthétique de la contradiction.
+
+Dès lors, c'est surtout au niveau typologique que l'on s'aperçoit des potentialités de l'œuvre de Thomas Corneille. Dans *Pertharite*, Grimoald ne sombre pas dans les affres de la folie. En revanche, Sinorix, lui, est un passionné qui peut tout abandonner à son amour, qui n'arrive pas à résister et qui, de là, est prêt à aller jusqu'au crime. Ce type de passionnés se trouve dans la tragédie galante. Ce sont pour la plupart des traîtres, des méchants. Sinorix est de cela : il est monolithique, comme les héros de tragédie galante. En effet, c'est un tyran qui a tué par amour, mais il est également en proie au remords, ce qui lui confère un semblant de psychologie. Il a conscience de lui-même et son sens de la culpabilité le porte à explorer les profondeurs de son âme mais il ne peut résister à sa passion. Il sait qu'être glorieux c'est sacrifier son amour et ses désirs et ainsi épouser Hésione mais il en est incapable, ce qui le conduit à la brutalité, à la menace. Il devient, malgré sa position politique importante, un « faible » selon l'expression nietzschéenne. De plus, ses relents de culpabilité sont si intenses qu'il en arrive même à sombrer dans la folie (hallucination) et ses émotions, contradictoires, n'en finissent plus de l'assaillir. Pyrrhus et Sinorix ont donc des différences certaines : ce qui fait la complexité plus manifeste de Pyrrhus, c'est qu'il est légitime et qu'il mêle les deux états du passionné issu de la tragédie galante : il est prêt à tuer par amour et prêt à se sacrifier pour celle qu'il aime. Sinorix, lui, a tué par amour mais il est déterminé à aller jusqu'au bout pour obtenir celle qu'il désire. C'est ce qui en fait un personnage moins complexe.
+
+Cependant nous sommes à la jonction entre deux types d'écriture qui se confrontent dans l'œuvre. Hésione, par exemple, est un personnage parfaitement cornélien. Elle est amoureuse mais son amour passe nécessairement après son ambition, c'est-à-dire qu'il passe après le pouvoir. Toutefois comme on a pu le voir, Hésione représente les failles de l'héroïsme dans la mesure où c'est un personnage lacunaire qui n'apparaît pas à la fin de la pièce et qui est toujours maintenue dans l'erreur. Ainsi, on peut dire que Thomas Corneille se réfère à d'autres modèles, se mettant à distance du modèle cornélien.
+
+En effet, si on s'attache à confronter Camma et Andromaque, on se rend compte que les deux personnages sont particulièrement proches et que Camma constitue l'antithèse d'Hésione. Ce sont toutes les deux des modèles de vertu qui s'ancrent dans une temporalité. En effet, il est possible de construire pour chacune des deux ce qu'on appelle une « éthopée », c'est-à-dire un récit qui présente leurs qualités propres, passées et futures. Andromaque par exemple s'ancre dans un lieu, dans un temps donné et pour l'analyser il est indispensable de tout prendre en compte.
+
+Camma, de la même manière, s'ancre dans une temporalité et, contrairement à Hésione, elle s'adapte à la situation présente. Elle agit donc, non pas en fonction de valeurs intangibles et universelles, mais en fonction de valeurs « humaines ». L'éthopée de ce personnage est la suivante :
+ * – situation présente : à l'acte II, 4 elle a dû subir les avances de Sinorix ;
+ * – fidélité au passé : elle se souvient de l'empoisonnement de son défunt mari, de ce qui au départ paraissait être un accident mais qui s'est avéré être, *a posteriori*, un crime ;
+ * – décisions pour l'avenir : à la fois elle doit subir les contraintes du présent comme sauver Sostrate (IV, 4) et à la fois être fidèle au passé et à Sinatus (V, 6). [99]
+
+Aussi, elles décident toutes les deux, à la fin, de mourir (à la scène 1 de l'acte IV dans *Andromaque* et à la scène 6 de l'acte V dans *Camma, reine de Galatie*). Comme le dit Erich Auerbach concernant les pièces de Racine, « ce ne sont pas des pièces du renoncement mais inspirées par la passion » [100]. Ceci peut également être noté à propos de cette pièce de Thomas Corneille. En effet, Camma comme Andromaque, « avec ce conservatisme des instincts qui caractérise les femmes, se cramponnent à la dignité et à l'intégrité de leur passé, tandis que de nouveaux instincts se réveillent en elles » [101]. Ce sont des héroïnes humanisées qui sont soumises à la passion et qui, parce qu'elles ne peuvent se défaire de leurs passions, sont dans un entre-deux, à la frontière entre ces dernières et la mort. Camma possède comme type de passion la passion de l'honneur, celle qui conditionne son désir de vengeance et son désir de mourir. Mais contrairement à Hésione, elle réagit en fonction de ce qu'elle se doit de faire (chose qui évolue en fonction des situations) même si elle doit le payer de sa vie.
+
+En conclusion, on peut donc dire que Thomas Corneille fait du « Corneille galant ». En effet, la dimension proprement cornélienne est présente mais elle est détournée. Comme on a pu le voir, Hésione, véritable héroïne cornélienne, qui ne se laisse en aucun cas aller à la passion qu'elle voue à Sostrate et qui refuse tout compromis, est un personnage secondaire dans l'œuvre de Thomas Corneille. Cette influence-ci est donc dépassée, transcendée. En fait, la comparaison avec *Andromaque* met surtout en évidence l'influence galante de Thomas Corneille dans la mesure où ses personnages ne sont pas aussi complexes que ceux de Racine. Notre auteur a su surtout mettre en valeur les excès de la passion (violence amoureuse et passion de l'honneur) et l'allier dans une certaine mesure à la politique.
+
+
+# Une tragédie de violence politique
+
+
+## Une tragédie de l'usurpation et de la conjuration : politique du discours entre violence, devoir et dissimulation
+
+Avant Thomas Corneille, La Caze avait fait, comme on l'a vu précédemment, une pièce de théâtre à partir du récit de Plutarque, *Cammane* (1641). Une des différences majeure avec *Camma, reine de Galatie*, est qu'elle était dénuée de toute référence, de tout développement politique. Le récit se concentrait sur la rivalité amoureuse entre Sinorix, Cléomène son frère et Ménandre son favori, sur les trahisons, les manipulations et sur le désir de vengeance de Cammane.
+
+En revanche, Thomas Corneille a donné pour toile de fond à sa pièce la politique. Il s'est inspiré de son frère pour qui le drame politique est créateur de « passions nobles » :
+
+
+Sa dignité de la tragédie demande quelque grand intérêt d'État, ou quelque passion plus noble et plus mâle que l'amour, telles que sont l'ambition ou la vengeance, et veut donner à craindre des malheurs plus grands que la perte d'une maîtresse.  [102]
+
+Thomas Corneille le met en scène, représente ses procédés, son côté spectaculaire et saisissant. Le problème central, sans être unique, de la pensée politique de Thomas Corneille, est le problème de l'usurpation et de ses suites. On a pu le voir précédemment, ce thème se retrouve aussi dans *Pertharite* de Pierre Corneille et dans une autre pièce de Thomas Corneille, *La Mort de l'empereur Commode.* Comment l'illégitimité est-elle décrite ?
+
+La première image que l'on a de Sinorix tranche avec l'image du tyran contre lequel s'oppose Camma et Hésione. Emane de lui à la fois une toute-puissance et à la fois une douleur infinie parce qu'en bon tyran galant il n'agit que par amour. Pourtant, deux discours sont développés tout au long de la pièce : celui de Sinorix qui ne doute pas de sa légitimité face, respectivement, à Camma et à Hésione. Sinorix est plus consensuel dans son dialogue avec Camma qu'avec Hésione, qu'il malmène et avec laquelle il n'hésite pas à s'affronter. Par deux fois, Sinorix tente de démontrer sa légitimité : à la scène 2 de l'acte I et la scène 1 de l'acte II.
+
+A la scène 2 de l'acte I, Sinorix se trouve confronté à Camma. Est mis en scène un Sinorix diplomate, qui concède à Camma que sa colère est juste. Pourtant, il tente toutefois de lui faire voir sa bonne foi (I, 2, v. 149-150, v. 153-156, v. 158-160).
+
+Deux idées sont développées dans ces quelques vers : tout d'abord, on s'aperçoit que Sinorix endosse le rôle du prince légitime. Sa culpabilité n'est pas justifiée. Il emploie le substantif « droit » car il explique que ce trône lui revient dans la mesure où il appartenait à sa famille, à ses « Ayeux ». Camma, au contraire, parle d'oppression, de soumission, d'assujettissement. Le moyen dont il use est la force – après avoir usé de l'assassinat –, force qui lui ôte toute légitimité rationnelle et raisonnable. C'est la peur qu'il provoquait parmi le peuple qui lui a permis d'accéder au pouvoir. En fait pour qu'on ne parle plus d'usurpation, le pouvoir doit être conféré aux descendants légitimes c'est-à-dire ici à Hésione. L'union avec celle qui est reconnue à la tête du royaume est un moyen sûr pour récupérer *de droit* ce qu'il a *de fait*. Ainsi :
+
+Pour meriter le Trône, épousez la Princesse, …  
+Possedez justement ce que vous usurpez. [103]  
+
+A la scène 1 de l'acte II, Sinorix se lance dans un débat politique avec Hésione. Il est avec elle moins consensuel ; c'est un lieu de tensions car il se trouve en face de celle qui se sent le plus trahie, spoliée. Le discours se révèle être plus passionné. C'est à ce moment-là que la volonté d'Hésione se fait jour. Selon Paul Bénichou, la « morale cornélienne est fondée sur l'orgueil et la grandeur glorieuse ne peut que représenter les protestations de l'aristocratie contre l'assujettissement où les rois prétendaient la réduire. (…) Affirmer son orgueil, (…) c'est affirmer son insoumission. » [104] Hésione est le parangon des héros cornéliens : elle refuse l'assujettissement, nie toute autorité, et surtout celle de Sinorix car elle ne voit en lui qu'un vulgaire usurpateur. Alors que le peuple était « timide » [105] comme le disait Camma, Hésione, elle, n'hésite pas à s'opposer violemment à lui.
+
+Sinorix déclare que sa légitimité lui vient d'un droit ancien ; il est héritier du trône. Pour lui, c'est Sinatus qui est l'usurpateur puisqu'il a acquis sa légitimité, non pas en héritant le pouvoir de ses « Ayeux », mais en sollicitant le peuple (II, 1, v. 442-447). Il la malmène, essaye de la déstabiliser en inversant les rôles : en effet, il attribue à Sinatus le rôle du mauvais roi qui abuse du pouvoir. Il est même cynique quand il soutient que la mort de Sinatus a été une bonne occasion pour lui de récupérer ce qui lui appartenait.
+
+Face à lui, Hésione se sent profondément oubliée. Mais elle n'est pas désespérée : elle le menace d'une rébellion populaire (II, 1, v. 518-520). Le soulèvement du peuple est un moyen politique efficace car il peut permettre un coup d'État et à long terme un changement de régime. Alors qu'Hésione est toute tournée vers le futur, puisqu'elle lui prédit une fin tragique, c'est-à-dire sa chute du pouvoir et sa mort, Sinorix au contraire prend uniquement en compte le présent et la jouissance actuelle qu'il a du trône. Son destin est d'être roi, il se moque de l'infamie, de la honte et de la mort qui pourraient advenir.
+
+Sinorix dissimule ses actes passés (c'est-à-dire le meurtre de Sinatus) et évoque un « vieux droit » [106] dont la nature est ambiguë. En conséquence, comme il y a dissimulation de la part de celui-ci, l'acte d'usurpation a deux sortes de signification, une pour Camma et une pour Hésione. Ces deux significations dépendent de ce qu'elles savent. En effet, pour Camma, c'est un tyran car il a tué son mari, au pouvoir avant lui. L'usurpation découle d'un acte passionnel. Pour Hésione, dans la mesure où elle n'est pas au courant de l'assassinat, Sinorix est un tyran car il a purement et simplement volé ce qui lui appartenait. L'usurpation découle d'un acte politique. C'est d'ailleurs ce que l'on va développer plus tard, c'est-à-dire, l'idée d'un entremêlement entre le public et le privé.
+
+De plus, à l'usurpation tyrannique répond la conjuration. Dans *Camma, reine de Galatie* aucun complot n'a été organisé face au public. La conjuration a eu lieu sans préparatifs. En fait, on a l‘impression, lorsqu'on voit la scène, que la tentative de meurtre arrive de manière impromptue. Ceci est un moyen pour garantir l'effet de surprise parce qu'en fait, Sinorix, dans son moment hallucinatoire a imaginé qu'une conspiration était organisée contre lui puisqu'il a vu l'ombre de Sinatus lui promettant la mort sous des coups de poignard. Ce qui peut, par contre, ressortir du complot, ce sont les demandes de vengeance formulées par Camma et Hésione à l'encontre de Sostrate, que l'on voit aux prises entre le parjure et l'ingratitude.
+
+L'acte qui découle de cette conjuration, c'est la péripétie de la scène 3 de l'acte III c'est-à-dire la tentative de meurtre. C'est une scène de violence, conséquence de la haine et du désir de vengeance de Camma car il y a eu tentative de meurtre sur le souverain. Sostrate, contre toute attente, s'empare de la responsabilité de l'acte. Il endosse le rôle du traître. Il dissimule la véritable nature de l'acte, compromis pour éviter le parjure envers Camma et pour éviter la mort de son maître. Mais, et c'est ce qui est intéressant dans ce geste, aucune justification n'est donnée par Sostrate. Il garde le silence sur les mobiles qui l'ont poussé à agir ainsi (III, 3, v. 1038 et v. 1044). Il ne donne aucun motif, ni politique, ni autre. Cela correspond au personnage dans la mesure où, dans la pièce, il n'a été l'instigateur d'aucun débat.
+
+De plus, Hésione est à la tête d'une autre conjuration où le peuple est le premier actant : elle en a appelé à lui pour renverser l'homme au pouvoir. Les soulèvements populaires ont un intérêt dramaturgique. Ils transcendent le conflit interne et limité des personnages. Son rôle est lointain, car il n'est pas représenté sur scène, mais c'est un véritable allié. Selon Paul Bénichou, « il peut arriver que le peuple (…) défende son bon droit contre la tyrannie. » [107] Si celui-ci se soulève, ce sera pour des raisons politiques.
+
+Tout d'abord, elle menace de rébellion (« Et nous verrons du sang sans doute répandu / S'il voit qu'elle partage un Trône qui m'est dû ». [108]) pour ensuite passer de la menace verbale à l'acte réel : elle fait de la propagande, en appelant directement le peuple à la révolte (V, 1, v. 1620-1625).
+
+Mais cet acte-ci n'a pas fonctionné car elle été faite prisonnière. Comme la première tentative de meurtre, cet acte de rébellion a été un acte avorté. Par contre, à la toute fin de la pièce, les « Mutins ont assiégé le Palais » [109]. Le peuple a envahi progressivement l'enceinte du palais et symboliquement cela veut dire que l'espace vital de Sinorix s'est amoindri ; c'est un présage pour annoncer la fin prochaine de ce tyran.
+
+Comme on l'a vu, les thèmes politiques existent dans cette pièce. Des actes de violence menacent le pouvoir en place puisque la passion occupe une large part. Mais, parallèlement à cela, Hésione, elle aussi, semble attachée à la politique car elle aborde avec Sinorix les notions de légitimité, de droit alors que Camma, même si elle rend compte de ses abus, a dans l'espoir de commettre un acte privé, un acte de vengeance personnel.
+
+Ainsi, la politique, au théâtre, n'est jamais vue pour elle-même, en soi ; elle est mise en acte, dans une intrigue qui mêle à la fois des intérêts privés et des intérêts publics.
+
+
+## Intrigue amoureuse et intrigue politique
+
+L'intrigue amoureuse, pour Pierre Corneille, ne peut pas se déployer si elle n'est pas plus ou moins reliée au pouvoir. Le spectateur attend à la fois le spectacle de la passion et le spectacle de la politique :
+
+
+Sa dignité de la tragédie demande quelque grand intérêt d'État, ou quelque passion plus noble et plus mâle que l'amour, telles que l'ambition ou la vengeance, et veut donner à craindre des malheurs plus grands que la perte d'une maîtresse. Il est à propos d'y mêler l'amour, parce qu'il a beaucoup d'agrément, et peut servir de fondement à ces intérêts, et à ces autres passions dont je parle, mais il faut qu'il se contente du second rang dans le poème, et leur laisse le premier.  [110]
+
+L'amour ne doit donc pas avoir la première place et tout conduire dans une tragédie ; il ne dit pas non plus que toute passion doive y être éliminée. Il faut comme il le dit encore « que les grandes âmes ne la laissent agir qu'*autant qu'elle est compatible avec de plus nobles impressions ».* [111] L'amour, pour lui, n'est pas à placer au-dessus de tout mais ce sentiment peut être concilié avec des « impressions plus nobles » que produisent les grands intérêts d'État, d'honneur… L'intrigue politique n'a, donc, pas une place anodine : elle rend compte de ce qui fonde l'exercice du pouvoir.
+
+Chez Thomas Corneille, il y a une corrélation très forte entre intrigue amoureuse et politique mais on voit bien à la lueur de cette phrase qu'il fait du « Corneille galant ». Certes, le désir de vengeance existe mais le « grand intérêt d'État » n'est qu'une toile de fond car Sinorix et Sostrate n'agissent que par amour. En effet, les raisons pour lesquelles Sinorix a usurpé le trône sont des raisons d'ordre privé, personnel, alors que l'acte est un acte public car politique. On constate dès le commencement de la pièce un entremêlement du public et du privé. En effet, Sinorix, en plus d'une légitimité revendiquée, donne un mobile privé au fait d'être monté sur le trône : c'est par amour pour Camma qu'il s'est emparé de la place de Sinatus, non pas en le tuant (cela est caché à Camma) mais en s'instituant à la tête du royaume. C'est par amour qu'il a évincé son rival, qui s'avérait être aussi son roi !
+
+Comme le dit Georges Forestier à propos de *La Mort de l'empereur Commode* (1658) ou de *Camma* (1661), « l'assassinat s'est trouvé ainsi presque sanctifié par un acte où la politique s'accordait avec la passion » [112]. L'acte touche à la sphère du politique car c'est le roi qui est touché même si c'est son statut de rival qui est contesté. La politique s'accorde donc avec la passion.
+
+En fait, chaque « notion » comme l'assassinat, la vengeance est rendue visible par un acte qui mêle à la fois le public et le privé, la politique et la passion. De la même façon, les désirs de vengeance de Camma et d'Hésione sont des actes privés car Camma veut venger la mort de son mari et Hésione veut faire payer le coupable de son outrage mais ces actes ont des conséquences politiques dans la mesure où l'homme que ces deux désirs visent est un homme politique, voire même un tyran pour elles. Un rapport inextricable lie ces deux notions, intrigue passionnelle et intrigue politique et la vengeance trouve sa légitimité de cette manière.
+
+Au-delà de ce qui est au fondement même d'un acte, les discussions politiques de l'époque s'attachaient au domaine de la possession amoureuse. En effet, comme le notait Bénichou, dans *Morales du grand siècle*, l'écho de ces discussions est « l'idée de la stabilité plus grande du gouvernement tempéré, qui règne par l'adhésion et pas par la contrainte ». [113] L'obéissance ne peut advenir que si le *cœur* du peuple adhère au monarque. La contrainte empêche toute acception, toute possession. La possession amoureuse tient d'un effort, et si cet effort trouve sa réalisation, la reconnaissance du statut du monarque se fera sans difficultés. L'adhésion du cœur est la condition *sine qua non* de l'adhésion politique, celle-là révèle celle-ci. La contrainte, la violence empêchent toute relation :
+
+Vostre pouvoir est grand, mais pour forcer sa foy,  
+Il n'étend point vos droits sur la Vefve d'un Roy.  [114]  
+
+Ici, Sostrate montre bien qu'il y a une différence entre la possession d'un État et la possession amoureuse. Etre à la tête d'un État, le diriger, est autre chose que posséder le cœur de quelqu'un. Alors que le pouvoir peut s'acquérir par la force, les sentiments, par contre, se gagnent par la tendresse et non par la violence. Contraindre à aimer empêche au départ l'adhésion du cœur de l'autre (II, 3 v. 561-562).
+
+Sinorix comprend cette incompatibilité entre la violence et la possession amoureuse et il la complète :
+
+Dans les cruels mépris qui troublent ma constance  
+Le refus que j'ay fait d'user de violence  
+Montre assez que l'amour qui regne dans mon sein  
+S'il ne gagne le cœur, n'estime point la main.  [115]  
+
+Il a fortement conscience de cette nécessité. Pour lui, l'amour ne peut se réaliser dans la contrainte. Ainsi, Sinorix conçoit qu'on ne peut forcer personne à aimer mais, pourtant, d'un point de vue politique il veut s'imposer et contraindre les autres si cela est nécessaire. C'est pour cela que la violence est si présente car le pouvoir est légitimé au moyen de coups de force. Pour lui, si la possession amoureuse nécessite un attrait réciproque, ce n'est pas une obligation au niveau politique.
+
+Pour Camma et Hésione, la possession du trône passe par la reconnaissance de la parole de Sinatus c'est-à-dire qu'en acceptant de se marier avec Hésione comme l'avait souhaité Sinatus, le trône lui revient de plein droit. La stabilité politique aura lieu dans la mesure où le pouvoir de Sinorix ne pourra plus être remis en cause. Agir en accord avec la parole donnée attribue une grande légitimité à celui qui est au pouvoir et permet d'éviter les oppositions de force.
+
+En conséquence, la légitimité politique passe par l'adhésion du cœur c'est-à-dire par le refus de la contrainte et de la violence et aussi par la prise en compte de la parole donnée. Ce n'est pas le cas ici. C'est donc pour cela que la violence et les coups de force occupent toujours une grande place. L'intrigue amoureuse détermine donc l'intrigue politique, et la justifie.
+
+De même, d'un point de vue scriptural, la politique nécessite également une écriture, ultime légitimation.
+
+
+## Une écriture du politique
+
+*Camma, reine de Galatie* est une pièce mettant en scène la violence politique dans ses aspects les plus extrêmes dans la mesure où c'est une pièce inspirée par la passion (vengeance, ambition, défis, etc.). Thomas Corneille par le biais du théâtre représente les luttes de pouvoir, le jeu intéressé des ambitions et des désirs inconciliables et en tire l'effet dramatique le plus intense : le « suspense ».
+
+En effet, Thomas Corneille n'est pas un théoricien politique, tout comme d'ailleurs son frère Pierre Corneille. Il ne promulgue pas d'idée universelle à partir de faits particuliers. D'ailleurs, le fait le plus significatif est qu'il emploie très peu l'élément dramaturgique qu'est la sentence qui exprime une idée générale, pouvant ressortir à la morale, à la politique, dans une situation particulière. Dans notre pièce, soit ce sont de fausses sentences, soit elles sont révélées comme telles. Environ huit maximes politiques se retrouvent dans notre pièce [116].
+
+Certaines sont des clichés de morale politique. Les pièces où il est question d'un tyran emploient systématiquement cet élément. C'est le cas à la scène 1 de l'acte I, aux vers 57-61 :
+
+Phaedime.  
+Mais dans ce crime en vain l'ombre vous embarrasse,  
+Il n'en est point, Seigneur, que le Trône n'efface,  
+Et dans quelques horreurs qu'on ait pû se porter,  
+Pour estre absous de tout, il suffit d'y monter.  
+Sinorix.  
+Ce sont là des Tyrans les damnables maximes …  
+
+C'est l'idée machiavélique que le trône légitime tous les actes, mêmes les plus condamnables. Désigner le vers de Phaedime de « maximes » est une manière de révéler la valeur morale et politique de ce vers. Dans *La Mort de l'empereur Commode*, cette idée est également exprimée :
+
+Marcia.  
+Il est vrai que Commode a d'injustes maximes ;  
+Mais le trône ma sœur adoucit bien des crimes.  [117]  
+
+De la même manière, le trône est désigné comme un espace inaliénable qui absout tout. La maxime, d'un point de vue politique, a surtout une valeur de *topos*. Ce ne sont pas des théories politiques nouvelles, au sujet de la conception et de l'organisation du pouvoir, sur lesquelles l'auteur réfléchit mais ce sont des sentences qui sont employées dans chaque pièce où l'on trouve le thème de la tyrannie.
+
+Ainsi, comme le dramaturge ne fait part d'aucune volonté de théorisation, les débats argumentés sont donc eux aussi peu mis en scène. En effet, on remarque par exemple qu'aucun débat politique n'a eu lieu entre Sinorix et Sostrate, Sostrate ne donnant aucune justification à son acte alors que Sinorix le malmène. On se trouvait dans un véritable dialogue de sourds. Le débat qui pourrait se rapprocher d'un débat politique a lieu entre Hésione et Sinorix [118] : au droit évoqué par ce dernier s'oppose l'ambition de celle-là, à l'orgueil de celle-là s'oppose le déni de celui-ci. Alors, même si des notions politiques sont évoquées, ce sont plutôt la passion, la violence des sentiments, qui s'expriment. Chacun campe sur ses positions et se méprise mutuellement : Sinorix ne fait pas cas des demandes d'Hésione et cette dernière refuse de lui accorder la moindre légitimité.
+
+En fait, l'écriture du politique se fait à travers le prisme des conflits d'intérêts, des oppositions de force, des heurts de passion. Comme on l'a déjà vu avec Hésione, qui par tous les moyens tente de récupérer ce qui lui revient de droit, de la même façon la vengeance exacerbe aussi les passions. Enfin des luttes de pouvoir ont lieu entre Sinorix, Hésione et Camma : en lançant à chacune d'entre elles des ultimatums, Sinorix manifeste ainsi son omnipotence sur chaque protagoniste et évite par là même de ressentir de la culpabilité dans la mesure où grâce à ces moyens de pression, il tente de se déresponsabiliser. Il veut s'imposer comme roi même s'il est méprisé.
+
+Thomas Corneille met en scène le mauvais roi qui abuse du pouvoir à la place de l'héritière légitime, le mauvais conseiller qui essaye de le faire adhérer totalement à ses mauvais principes. Effectivement, cela correspond à une réalité : les rois de France se sont toujours entourés de conseillers qui leur donnent des conseils sur la manière de gouverner. Mais cette réalité, ici, est surtout traitée de manière factuelle et concrète.
+
+De plus, la politique est le lieu du secret, de l'indicible, du mystère, entre vérité et mensonge, entre réalité et travestissement de la réalité. En ce sens, le théâtre semble être l'espace le plus accompli pour rendre compte au mieux de cet aspect de la politique dans la mesure où c'est un lieu double, où réalité et jeu sont des notions qui s'entremêlent inextricablement. En effet, dans la pièce de Thomas Corneille, la dissimulation est ce qui caractérise ensemble les relations entre les personnages et l'intrigue elle-même. Comme il s'agit d'une pièce mettant en scène la violence politique et les thèmes de l'usurpation, de la conspiration, de la vengeance (même le désir de vengeance de Camma dans la mesure où son acte est à la fois privé et politique puisque Sinorix est à la fois l'homme qui a tué son mari et un tyran), les corollaires essentiels sont la dissimulation et le secret. D'où les non-dits, les ambiguïtés, l'ironie qui participent de cette esthétique : comme la vérité est ce qui ne peut exister que voilée, chacun des personnages la transfigure, la travestit et occupent de ce fait des rôles à contre-emploi. Leurs propos sont à double entente, à la fois compréhensibles d'une façon par leurs interlocuteurs et compréhensibles d'une autre manière par le public ou une tierce personne au courant de la situation. Les seuls moments où ils disent la vérité, où ils ne dissimulent rien, c'est lorsqu'ils sont avec leurs confidents, puisque leurs discussions apportent des informations pour le public, et au dénouement puisque ici tout doit être révélé. A la scène 1 de l'acte V, d'ailleurs, Camma se projette dans l'avenir et dévoile dans le discours ce qui est caché, et ce qui était secret mais qu'elle savait et qu'elle maintenait toujours dans l'ombre (v. 1256-1265). Tout ce qui est dit dans cette tirade est dissimulé à Hésione et à Sinorix dans la mesure où elle veut se venger.
+
+De même, tout au long de la pièce, les personnages manient l'équivoque, manière d'éviter de dire la vérité, soit par culpabilité, soit par stratégie. L'équivoque se décline de deux manières : l'ambiguïté qui est le fait que l'on comprenne diverses significations d'une même phrase et le malentendu qui est le fait de prendre le faux pour le vrai.
+
+Plusieurs types d'ambiguïtés sont décelables dans la pièce : A la scène 2 de l'acte I, Camma donne l'impression de le ménager puisqu'elle atténue la dureté de ses propos. Avec le prétexte de ne pas lui imposer son aigreur, elle exprime en direction du public avec encore plus de force sa haine et son désir de vengeance.
+
+A la scène 1 de l'acte II, au vers 458, le propos est biaisé : il parle de la mort de Sinatus mais en prenant soin de s'ôter toute responsabilité. En fait, la mort de Sinatus est un fait du Destin selon lui.
+
+A la scène 3 de l'acte III, aux vers 978-979, le propos est à double entente D'une part il signifie pour Sinorix qui croit que Sostrate est le meurtrier qu'il recommencerait ce geste s'il en avait encore l'occasion. Mais d'autre part, pour Camma et le public, cela veut dire qu'il referait ce geste pour le sauver et qu'il mentirait encore s'il devait recommencer. Enfin, Camma cherche même à sauver Sostrate mais sans avouer sa culpabilité (IV, 2, v. 1307-1308).
+
+L'équivoque est donc un éclatement du sens où la signification du propos diffère en fonction du degré de connaissance. Dans une tragédie de la conspiration, le mensonge est de rigueur pour que le geste puisse aboutir à un acte. Il est donné à lire comme une vérité et pour ceux qui connaissent la vérité, comme un mensonge. Le secret, la dissimulation sont des forces qui empêchent la révélation et qui sont représentatives de l'écriture du politique, sphère de l'illusion. Une violence sourde a donc lieu qui est celle du non-dit.
+
+De plus, à l'esthétique de la dissimulation s'ajoute celle de la duplicité, qui découle directement de celle-ci. Tout d'abord, nous voyons que les personnages sont doubles : pour voiler la vérité, pour la cacher ils changent de rôle, ils endossent un déguisement qui n'est pas le leur en vue de transfigurer leurs objectifs premiers. Par exemple, Sostrate prend le rôle du traître pour sauver Camma alors que le rôle qui le détermine est celui du sauveur. Il est dans les faits innocent car il n'a pas commis de meurtre et coupable dans la sphère du langage et du jeu. En effet, dire une chose c'est la faire être, lui donner réalité. Ici, à partir du moment où il se dit traître, il le devient.
+
+Cette réflexion sur la duplicité nous amène à réfléchir sur la notion de rôle théâtral puisque ces personnages endossent des caractères, des types qui ne sont pas les leurs. Ils abordent des rôles qui sont à l'opposé de ce qu'ils étaient au début de la pièce mais sans se travestir complètement. Ils restent tels qu'ils sont mais font semblant d'être un autre. C'est en cela que l'on peut parler de duplicité comme corollaire de la dissimulation.
+
+L'esthétique des forces qui empêchent la révélation (secret, illusion, déguisement de la vérité factuelle et de celle des personnages) se montre en se disant de manière particulière dans l'espace du théâtre dans la mesure où la sphère du politique est également la sphère de la représentation c'est-à-dire un espace où l'on joue un rôle, où l'on est toujours en représentation, où l'on s'affuble de masques pour ne pas apparaître tel que l'on est. L'espace théâtral semble donc être le meilleur lieu pour mettre en scène la politique et les luttes de pouvoir ou d'intérêts. C'est un espace où la représentation théâtrale est en phase avec la représentation politique.
+
+
+# Conclusion
+
+Avec *Camma, reine de Galatie*, Thomas Corneille a su nous faire part d'une œuvre riche, personnelle et cohérente, ancrée dans les réalités de son temps et marquée d'influences diverses : celle de son frère, tout d'abord, indéniablement, celle du classicisme, celle de la littérature galante… Thomas Corneille est le représentant de la deuxième moitié du XVII*e* siècle par les valeurs qu'il prône comme l'amour ainsi que le devoir et l'honneur et par la visibilité sociale qu'il attribue à la femme.
+
+Malgré tout, la classification rigoureuse des pièces de Thomas Corneille instituée par Gustave Reynier et David Collins entre autres, et qui est celle de « comédies espagnoles, pièces romanesques, tragédies « cornéliennes » et tragédies « raciniennes », n'est pas la meilleure façon d'aborder son écriture. C'est un carcan qui masque les véritables potentialités de son théâtre. En effet, par exemple, le style de Thomas Corneille dans notre pièce est un style marqué de l'empreinte du classicisme. Mais Thomas Corneille tire de ces contraintes une grande richesse car on retrouve dans sa pièce une dynamique, une « suspension » retardant le dénouement. De même, le choix des personnages, comme la peinture de leurs caractères, est à la fois traditionnel et influencé par les héros cornéliens mais malgré tout, Thomas Corneille parvient à nous en donner une individualité propre : c'est le cas de Sinorix par exemple qui sort de l'archétype du tyran dans la mesure où il se trouve confronté à un conflit intérieur. Même s'il reste toutefois assez monolithique, il n'a plus seulement l'image du traître dominé par une passion violente. Il a des remords ce qui lui confère un semblant de psychologie. De la même manière, Sostrate n'a pas un seul rôle : son acte de compromis à l'Acte III, 3 est révélateur du fait qu'il n'est pas seulement soumis au rôle du parfait amant mais qu'il doit également assumer son rôle de parfait sujet vis-à-vis de son roi. Même si des restes de galanterie subsistent dans son caractère, il est à la limite entre deux « états » et c'est cela qui nous le rend intéressant.
+
+Il serait donc insuffisant de réduire les personnages à des archétypes cornéliens. Seule Hésione correspond à ce type et elle est dévalorisée. Par contre, même si les personnages ne sont plus totalement stéréotypés, ils correspondent assez aux personnages tirés de la littérature galante. Ce qui veut dire que Thomas Corneille, dans cette pièce, a surtout usé de cette influence. En effet, il s'attache à mettre en scène les excès de la passion, passion qui animent les protagonistes et qui s'accorde avec la politique.
+
+Ainsi, cet auteur au succès prodigieux à l'époque mais qui, cependant, aujourd'hui, reste méconnu, a tout pour plaire. Il concentre en lui-même les aspirations multiples de son temps pour en faire une création originale, un spectacle spectaculaire, désignation qui peut s'appliquer à la manière dont est traitée le thème de la politique dans l'œuvre. Il pallie ainsi certaines insuffisances par la représentation théâtrale.
+
+
+# Note sur la première édition
+
+
+## Le texte de la présente édition
+
+L'édition sur laquelle nous avons travaillé a été publiée en 1661 par Augustin Courbé en vertu d'un privilège daté du 14 Février 1661 auquel était associé pour moitié Guillaume De Luyne. Il en existe plusieurs exemplaires.
+ * – CAMMA/ REINE DE GALATIE, / TRAGEDIE / *De Thomas Corneille /* coupe de fruits / *imprimée à ROUEN, Et se vend /* A PARIS, */* chez AUGUSTIN COURBE, au Palais, / en la Gallerie des Merciers, / à la Palme. / filet / M.DC.LXI / *AVEC PRIVILEGE DU ROY.*
+
+In-12°, 7 ff. non chiffrés, 83 pages.
+
+Achevé d'imprimer le 24 Mars 1661.
+
+Bibliothèque nationale de France (site Richelieu) – Arts du spectacle : RF 2709.
+
+Nous ne décrierons ici que l'édition originale.
+
+I) Page de titre
+
+II) Page blanche
+
+III-XI) Epistre « A son Altesse Serenissime Monseigneur le Duc »
+
+XII-XIII) Privilege du Roy
+
+XIV) Acteurs
+
+83 pages ; le texte de la pièce, précédé d'un rappel de titre en haut de la première page.
+ * – *Camma, reine de galatie*, imprimée à Rouen et se vend à Paris, A. Courbé, in 8°, 83 pages.
+
+Achevé d'imprimer le 24 Mars 1661.
+
+Bibliothèque de l'Arsenal : 8° N.F. 4618.
+ * – *Camma, reine de galatie*, imprimée à Rouen et se vend à Paris, A. Courbé, in 12°, 83 pages.
+
+Achevé d'imprimer le 24 Mars 1661.
+
+Bibliothèque nationale de France (site Tolbiac ; Rez-de-jardin) : FB. 19771.
+ * – CAMMA / REINE DE GALATIE, / TRAGEDIE. / par Thomas Corneille rajoutée à la plume / coupe de fruits / *imprimée à ROUEN, Et se vend /* A PARIS, / chez GUILLAUME DE LUYNE, Li- / braire Juré, au Palais, en la Gallerie / des Merciers, à la Justice. / filet / M.DC.LXI / *AVEC PRIVILEGE DU ROY.*
+
+83 pages ; in 32°.
+
+Achevé d'imprimer le 24 Mars 1661.
+
+Bibliothèque Sainte-Geneviève : 8 y 2487 INV 4781 
+ * – *Camma, Reine de Galatie*, in 12°, 1661, imprimée à Paris. Manque la page de titre.
+
+Exemplaire personnel.
+
+Achevé d'imprimer le 24 Mars 1661.
+ * – *Camma, reine de Galatie*, imprimée à Rouen, se vend à Paris, G. de Luyne, 8 ff., 83p. in 12°
+
+Côte et fonds Pelay 501. Bibliothèque de Rouen, Seine-Maritime
+
+Une deuxième édition de *Camma, reine de Galatie* a été publiée en 1662. Il s'agit d'une édition pirate.
+ * – CAMMA / REINE DE GALATIE, / Fleuron / *suivant la copie imprimée* / *A Paris* / M.DC.LXII.
+
+In 12°, 5 ff. non chiffrés ; 73 pages. 1662
+
+Pas d'extrait de privilège du Roy.
+
+Bibliothèque Nationale de France (site Richelieu – Arts du spectacle) : RF 2710.
+
+
+## Établissement du texte
+
+Nous reproduisons le texte de l'exemplaire RF 2709 de la Bibliothèque Nationale de France (site Richelieu) et daté de 1661, dont nous avons conservé l'orthographe et la ponctuation originales, ainsi que la division en cahiers, inscrite entre crochets à la droite du texte. Toutefois, nous avons distingué *i* et *u* voyelles de *j* et *v* consonnes, adopté la graphie moderne *s* pour *∫*, décomposé les voyelles nasales surmontées d'un tilde en voyelles + consonnes (an , on …) et décomposé les consonnes simples surmontées d'un tilde en consonnes doubles (mm , nn …). Nous avons aussi délié la ligature « & » en « et » et nous avons conservé l'orthographe du mot « vefve » que nous trouvons dans le texte, dérivé du masculin « veuf ». Enfin, nous avons corrigé les erreurs et coquilles dues à l'imprimeur. Nous en donnons ici la liste :
+
+
+### Corrections de coquilles
+
+*Privilege du Roy* : seellées ® scellées.
+
+*Vers 133* : fnneste ® funeste
+
+*Vers 334* : détranges ® d'étranges.
+
+*Vers 469* : le ® te
+
+*Vers 504* : flâme ® flame.
+
+*Vers 756* : Si la vangeance preste ® Si la vangeance est preste
+
+*Vers 909* : fondre ® foudre.
+
+*Vers 1033* : suplices ® supplices
+
+*Vers 1391, 1487, 2015* : rachepte(r) ® rachete(r).
+
+*Vers 1444* : ou ® où.
+
+*Acte V, 3 didascalie* : « Sinorix, Camma, Sostrate, Sosime, Phenice, *Suitte* ® « Sinorix, Camma, Sostrate, Sosime, Phenice, *Suite »*
+
+*Vers 1830* : enfin ® afin
+
+*Vers 1870* : par lâ ® par là
+
+
+### Corrections typographiques
+
+*Vers 134* : « Ait réduit mon destin au seul nom m'en reste » ® « Ait réduit mon destin au seul nom qui m'en reste. »
+
+*Vers 1537* : M on ® Mon
+
+
+## Editions ultérieures
+ * – LES / TRAGEDIES / ET / COMEDIES / DE / TH. CORNEILLE, / *revues et corrigées et augmentées / de diverses pieces nouvelles. /* III. PARTIE. / fleuron / filet / *Suivant la copie imprimée* / A PARIS, / filet / M.DC.LXV
+
+2 volumes in 12. Vol.3 qui contient *Stilicon*, tragédie ; *Le Galand doublé*, comédie ; *Camma*, tragédie ; *Maximian*, tragédie.
+
+Chaque titre a front et pagination propres et porte la date : 1662. Il s'agit d'un recueil factice.
+
+CAMMA / REINE / DE / GALATIE. / *TRAGEDIE. /* fleuron identique à celui de la page de titre / filet / *Suivant la copie imprimée /* A PARIS, / M.DC.LXII.
+
+Pas de privilège du Roy.
+
+Bibliothèque Nationale de France (site Richelieu) : RF-2654 (2 et3).
+ * – POËMES / DRAMATIQUES / DE T. / CORNEILLE, / III. PARTIE  / 1666.
+
+3 volumes in-8°.
+
+Cette 3*e* partie est sans titre et date de 1666. La 1*re* et la 2*e* partie sont imprimées à Rouen et se vendent à Paris chez Augustin Courbé et Guillaume de Luyne, 1661 :
+
+POËMES / DRAMATIQUES / DE / T. CORNEILLE. / *I. PARTIE. /* fleuron : panier de fleurs / *imprimés à ROUEN, Et se vendent /* A PARIS, / chez */* AUGUSTIN COURBE, au Palais, en la / Gallerie des Merciers, à la Palme. / Et / *GUILLAUME DE LUYNE*, Libraire Iuré, / dans la mesme Gallerie, / à la Iustice. / filet / M.DC.LXI. / *AVEC PRIVILEGE DU ROY.*
+
+L'achevé d'imprimer de la 3*e* partie est du 30 Octobre 1665. Elle contient *Le Galand doublé, Stilicon, Camma* et *Maximian.* Ceux de la 1*re* et de la 2*e* partie sont datés du 15 Décembre 1660.
+
+*Camma, reine de Galatie* : pages 209 à 302.
+
+Bibliothèque Nationale de France (site Richelieu) : RF 2649(3)
+
+L'orthographe, en majeure partie, est conservée par rapport à la première édition. Seuls les mots marqués d'un tilde sont décomposés en consonnes + voyelles et consonnes doubles, à part dans l'épître, où le substantif « hommage » et le verbe « rends » sont marqués d'un tilde et à l'acte V, 3 (« mon » dans « mon Maistre » ).
+
+
+### Modifications de ponctuation en fin de vers
+
+*Vers 14* : miracles Ø ® miracles,
+
+*Vers 94* : fidelle, ® fidelle ;
+
+*Vers 202* : Diadême. ® diadême :
+
+*Vers 203* : front : ® front.
+
+*Vers 216* : tout. ® tout,
+
+*Vers 288* : aimé. ® aimé ?
+
+*Vers 292* : doux, ® doux ;
+
+*Vers 340* : porter ? ® porter.
+
+*Vers 392* : capable, ® capable.
+
+*Vers 457* : mort, ® mort Ø
+
+*Vers 460* : moy Ø ® moy,
+
+*Vers 472* : prens Ø ® prens,
+
+*Vers 582* : plaindre, ® plaindre ;
+
+*Vers 666* : répondre, ® repondre.
+
+*Vers 690* : Maistre, ® Maistre Ø
+
+*Vers 693* : haine ® haine,
+
+*Vers 839* : à pas lents. ® à pas lents :
+
+*Vers 921* : vie ; ® vie ?
+
+*Vers 1051* : assassiner ? ® assassiner !
+
+*Vers 1104* : rendu. ® rendu,
+
+*Vers 1152* : vous, ® vous.
+
+*Vers 1762* : contente, ® contente.
+
+
+### Modifications de ponctuation en milieu de vers
+
+*Vers 270* : toutefois, helas ! ® toutefois helas !
+
+*Vers 547* : Et bien ? as-tu, Sostrate, entretenu la Reine ? ® Et bien, as-tu, Sostrate, entretenu la Reine ?
+
+*Vers 950* : Le crime veut du sang, et sans rien balancer ® Le crime veut du sang et sans rien balancer
+
+
+### Modifications d'accent
+
+Nous ne notons ici que des exemples représentatifs.
+
+*Epistre au Roy* : vostre vertu ® vôtre vertu.
+
+Sousmis ® soûmis.
+
+Goûter ® gouster
+
+Toûjours ® tousjours
+
+*Vers 3* : eslevé ® élevé
+
+*Vers 538* : Dérober la douceur de me voir dédaigné, ® dêrober la douceur de me voir dédaigné.
+
+*Vers 926* : lâche assassin ® lasche assassin.
+
+*Vers 1301* : Si j'ay chery Sostrate, aprés son parricide ® Si j'ay chery Sostrate, apres son parricide
+
+*Vers 1987* : Esleve la Princesse ® Eleve la Princesse
+
+
+### Modifications de l'orthographe
+
+*Vers 29 et vers 133* : quoy que ® quoy-que
+
+*Vers 236* : menaceant ® menaçant
+
+*Vers 247* : secrete horreur ® secrette horreur
+
+*Vers 259 et vers 422* : dequoy qu'elle m'accuse ® de quoy qu'elle m'accuse.
+
+*Vers 519* : Sujets ® Suiets
+
+*Vers 591* : rejettez ® reiettez
+
+*Vers 594* : contre elle ® contr'elle.
+
+*Vers 868* : Comme j'aime Sostrate à l'égal de moy-mesme ® Comme j'ayme Sostrate à l'égal de moy-mesme
+
+*Vers 937* : incroyable ® incroïable
+
+*Vers 1006* : defense ® defence
+
+*Vers 1106* : c'est avoüer le vol qu'un traistre en a sçeu faire ® C'est advoüer le vol qu'un traistre en a sçeu faire
+
+*Vers 1157* : Les motifs d'un beau coup qui ne sont deus qu'à moy ® Les motifs d'un beau coup qui ne sont dûs qu'à moy
+
+*Vers 1223* : Qu'en tous ses sentiments ® Qu'en tout ses sentiments
+
+*Vers 1391* : rachepter ® racheter
+
+*Vers 1408* : tu le veux, j'y consents ® tu le veux, j'y consens.
+
+*Vers 1912* : avenir ® advenir.
+
+*Vers 1015, 1252, 1570, 1593, 1724, 1870* : par là ® par-là
+
+
+### Corrections de coquilles
+
+*Vers 909* : fondre ® foudre
+
+*Vers 1319* : peu dédaigner ® peû dedaigner.
+ * – POËMES / DRAMATIQUES / DE / T. CORNEILLE / III*ème* PARTIE / vignette / A PARIS, / chez GUILLAUME DE LUYNE, Libraire / Juré, au Palais, dans la Salle des Mer- / ciers, à la justice, dessous la Mon- / tée De La Cour des Aydes. / filet / M.DC.LXVI / *Avec PRIVILEGE DU ROY.*
+
+2 ff . lim. et 401 pages in-8°
+
+Certaines pièces de P. Corneille se trouvent dans la première moitié du recueil. Ce sont *Sertorius, Sophonisbe*, et *Othon.*
+
+Achevé d'imprimer le 30 Octobre 1665.
+
+*Camma, reine de Galatie* : pages 207 à 302.
+
+Bibliothèque Sainte-Geneviève : 8 y 2493 INV 4791 RES
+
+Les modifications et les particularités orthographiques sont identiques à celles du précédent recueil.
+ * – POËMES / DRAMATIQUES / DE / T. CORNEILLE. / *III PARTIE. /* coupe de fruits / *A ROUEN, et se vendent /* A PARIS, / chez GUILLAUME DE LUYNE, Libraire / Iuré, au Palais, en la Gallerie des Merciers, à la Justice. / filet / M. DC. LXIX / *PRIVILEGE DU ROY.*
+
+3 volumes in-12°
+
+La 3*e* partie contient *Le Galand doublé, Stilicon, Camma, Maximian, Pyrrhus roi d'Epire, Persée et Démétrius, Antiochus.*
+
+Privilège du roi à la fin du recueil ; achevé d'imprimer au mois d'Avril 1669.
+
+*Camma* : pages 149 à 217.
+
+Bibliothèque Nationale de France (site Richelieu) : RF. 2651(3).
+
+L'orthographe est identique à celle des éditions antérieures sauf que le y voyelle est distinguée du v consonne, la lettre « i » est distinguée de la lettre « j », et les mots comme « advoüer, advis, adveu » sont remplacés par « avoüer, avis, aveu ». Les voyelles surmontées d'un tilde dans la première édition sont décomposées sauf exceptions :
+ * – « Dans » (vers 444)
+ * – « bien » (vers 523)
+ * – « cent » (vers 980)
+ * – « m'offencer » (vers 1155)
+ * – « vangeance » (vers 1228)
+ * – « tendre » (vers 1865)
+
+De même, la typographie est différente : toutes les tirades sont reproduites les unes à la suite des autres, sans déplacement à la ligne.
+
+Les coquilles, présentes dans la première édition, sont corrigées. Les modifications sont les mêmes que dans les éditions antérieures. Quelques-unes sont nouvelles. Nous en faisons la liste.
+
+
+### Modifications de ponctuation
+
+*Vers 42* : Femme. ® Femme,
+
+*Vers 670* : digne, ® digne ;
+
+*Vers 1423* : puissance ? ® puissance !
+
+*Vers 1618* : redouter. ® redouter,
+
+
+### Modifications d'accents
+
+*Vers 120* : plustost ® plûtost
+
+*Vers 318* : zéle ® zele
+
+*Vers 443* : pretendre ® prétendre
+
+*Vers 490* : soûtenez ® soustenez
+
+*Vers 541* : plustost ® plûtost
+
+*Vers 588* : répondez-vous ® repondez-vous
+
+*Vers 688* : prévenu ® prevenu
+
+*Vers 1301* : après ® apres
+
+*Vers 1493* : châtiment ® chastiment
+
+*Vers 1533* : naître ® naistre
+
+*Vers 1728* : estale ® étale
+
+
+### Modifications de l'orthographe
+
+*Vers 144* : Synorix ® Sinorix
+
+*Vers 196* : peussiez aimer ® pussiez aimer
+
+*Vers 308* : creu ® crû
+
+*Vers 389* : vueille ® veuille
+
+*Vers 832* : secrete ® secrette
+
+*Vers 1307* : j'oys ® j'ois
+
+*Vers 1393* : échafaut ® échafaux
+
+*Vers 1690* : tourments ® tourmens
+ * – POËMES / DRAMATIQUES / DE / T. CORNEILLE. / *III. PARTIE /*fleuron / A PARIS, / Chez GUILLAUME DE LUYNE, Libraire Juré, au / Palais, dans la salle des Merciers, / sous la montée / de la cour des Aydes, à la Justice / filet / M. DC. LXXXII. / *AVEC PRIVILEGE DU ROY.*
+
+3 volumes in-12°.
+
+Privilège du Roi au tome V ; achevé d'imprimer : 23 juillet 1682.
+
+*Camma* : pages 185 à 264.
+
+Bibliothèque Nationale de France (site Richelieu) : RF. 2652(3).
+
+Les y sont remplacés par des v et vice-versa, les tildes sont systématiquement décomposés. Les mots comme « advis, adveu, advouer advertir, advancer, adviser, désadvoüer, vangeance » sont remplacés par « avis, aveu, avouer, avertir, avancer, aviser, désavouer, vengeance ». De plus, le h de « hymen » est toujours en majuscules.
+
+Les coquilles, présentes dans la première édition, sont corrigées. Les modifications sont similaires aux éditions de 1665 et de 1669 sauf pour les vers 14, 42, 94, 270, 318, 392, 482, 519, 538, 547, 588, 591, 666, 690, 868, 926, 937, 950, 1104, 1152, 1223, 1493, 1523, 1728 1762 et dans l'épître où il n'y a aucune modification par rapport à l'édition de 1661.
+ * – CAMMA / REINE DE GALATIE, / *TRAGEDIE*. / *Par T. CORNEILLE* / fleuron / *Suivant la copie imprimée* / A PARIS / M.DC.LXXXX.
+
+Bibliothèque Nationale de France (site Tolbiac ; Rez-de-jardin) : 8-YTH-36543.
+
+Cette édition ne porte pas de privilège du Roy. Il n'y a pas de variations faites sur le texte original. Seule l'orthographe est modernisée : les y sont remplacés par les v et les v par les y , la lettre « i » comme dans « ie », « iurer » est remplacée par la lettre « j ». Quelques modifications ont lieu : le substantif « adveu » est systématiquement remplacé par « aveu », « vesves » par « veuves », « éperduëment » par « éperdûment », « succez » par « succès », « menaceant » par « menaçant » …
+
+Mais le texte, dans sa grande majorité, reste avec ses coquilles et ses archaïsmes.
+ * – LES / TRAGEDIES / ET / COMEDIES / DE TH. CORNEILLE, / *revues et corrigées et augmentées de diverses pieces nouvelles, / suivant la copie imprimée à Paris* / M.DC.LXV.
+
+3 volumes in-12°. Le volume 3 contient *Stilicon* (1661), *Le Galand doublé* (1662), *Camma* (1690), *Maximian* (1662), *Pyrrhus* (1666), *Persée et Démétrius* (1666).
+
+Chaque œuvre a titre, front et pagination propres. *Camma* : 71 pages. Il s'agit d'un receuil factice.
+
+CAMMA / REINE / DE / GALATIE, / *TRAGEDIE*. / *Par T. CORNEILLE.* / fleuron / *Suivant la copie imprimée* / A PARIS. / filet / M.DC.LXXXX.
+
+Pas de privilège du Roi.
+
+Bibliothèque Sainte-Geneviève : 8 OEE 426 (3) INV 741 RES.
+
+L'édition suivante est une édition « revue et corrigée » particulièrement intéressante car elle comporte de nombreuses variantes. Ces dernières se trouvent toutes en note dans la pièce :
+ * – POEMES / DRAMATIQUES / DE / T. CORNEILLE, / III. PARTIE. / bouquet de fleurs / A PARIS, / chez PIERRE TRABOUILLET au Palais, dans la / Gallerie des Prisonniers à l'Image S. Hubert, / et à la Fortune proche de Greffe des / Eaux et Forests. / filet / M. DC. LXXXXII. / *AVEC PRIVILEGE DU ROY.*
+
+5 volumes in 12°. Seul le 5*ème* tome est imprimée chez Augustin Besoigne.
+
+Achevé d'imprimer le 31 Décembre 1691.
+
+*Camma* : pages 185 à 264.
+
+Bibliothèque Nationale de France (site Richelieu) : RF. 2653 et Bibliothèque de l'Arsenal : RES-8-BL-12743 (achevé d'imprimer le 6 Juin 1691).
+
+L'orthographe est modernisée, il n'y a qu'un seul tilde (vers 1054 : « tombe » ) et « Phaedime » est remplacé par « Phedime ». De plus certains mots seront systématiquement modernisés. C'est le cas de « zéle » qui sera remplacé par « zele », « espoux » par « époux », « tousjours » par « toûjours », « plustost » par « plustôt », « aprés » par « après », « eslevé » par « élevé ».
+
+« le libraire au lecteur » : «  (…) Quant aux Cinq Volumes des Pieces de Monsieur de Corneille son frère, qui ont pour titre, Poëmes Dramatiques, outre un tres-grand nombre de fautes d'impression dont l'auteur les a purgées, il a pris soin d'y changer tout ce qui luy a paru de moins correct pour la Langue, qui n'estoit pas aussi épurée il y a trente-cinq ans ou quarante ans qu'elle l'est presentement.(…) ». Tome 1 (bibliothèque de l'Arsenal)
+
+Enfin, l'étude des modifications de ponctuation en fin et milieu de vers par rapport à la 1*re* édition nous permet de conclure que les points-virgules et les points remplacent, lorsqu'il s'agit d'une pause forte, plus systématiquement la virgule.
+
+
+### Modifications de l'orthographe
+
+*Vers 196* : que vous peussiez aimer ® que vous puissiez aimer.
+
+*Vers 236* : menaceant ® menaçant
+
+*Vers 247* : secrete ® secrette
+
+*Vers 259* : Dequoy ® De quoy
+
+*Vers 283* : Amants ® Amans
+
+*Vers 308* : creu ® crû
+
+*Vers 351* : mystere ® mistere
+
+*Vers 389* : vueille ® veuille
+
+*Vers 431* : veux tu ® veux-tu
+
+*Vers 439* : rends-moy ® rens-moy
+
+*Vers 516* : cheute ® chute
+
+*Vers 594* : contre elle ® contr ‘elle.
+
+*Vers 722 et 743* : j'aime ® j'ayme.
+
+*Vers 832* : secrete ® secrette
+
+*Vers 838* : violents ® violens
+
+*Vers 1006* : defense ® defence
+
+*Vers 1157* : deus ® dûs
+
+*Vers 1320* : ardents ® ardens
+
+*Vers 1706* : ses conseils uny ® ces conseils uny.
+
+
+### Modifications typographiques + ponctuation
+
+*Vers 514* : l'Arrest ® l'arrest.
+
+*Vers 793* : mourant ® Mourant
+
+*Vers 922* : ennemy ® Ennemy
+ * – POEMES / DRAMATIQUES / DE / T. CORNEILLE. / *III. PARTIE.* / fleuron : roi tenant une épée et une balance / A PARIS, / Chez GUILLAUME DE LUYNE, Libraire / Juré, au Palais, dans la Salle des Merciers, / Sous la montée de la Cour des Aydes, / à la Justice. / filet / M.DC.LXXXXII. / *AVEC PRIVILEGE DU ROY.*
+
+5 volumes in 12°.
+
+Le privilège du Roi se trouve dans le tome II. Il y est précisé que « Nostre bien Aymé GUILLAUME DE LUYNE Marchand Libraire et Imprimeur de nostre bonne ville de Paris, nous a fait remonstrer que le sieur THOMAS CORNEILLE de l'Académie Françoise, auroit reveu & corrigé les Pieces de Theatre par luy composées, comme aussi celles du feu Sieur PIERRE CORNEILLE son Frere, dans l'impression desquelles, contenant en tout neuf petits volumes, il s'estoit glissé beaucoup de fautes, tellement qu'estant à present dans leur perfection, & le dernier Privilege pour la reimpression desdites pieces de Theatre (…).
+
+Achevé d'imprimer le 6 Juin 1691.
+
+*Camma, reine de Galatie* : pages 185 à 264.
+
+Bibliothèque Nationale de France (site Tolbiac ; Rez-de-jardin) : YF-2575
+
+Les modifications sont similaires à celles rencontrées dans l'édition de Pierre Trabouillet et d'Auguste Besoigne.
+ * – LE / THEATRE / DE / T. CORNEILLE, / Reveu, corrigé & augmenté de diverses pieces nouvelles. / III. PARTIE. / fleuron / *Suivant la copie imprimée*, / filet / A PARIS, / M. DC. LXXXXII.
+
+Recueil factice car pagination autonome : *Camma* : 71 pages + « epistre au Roy ».
+
+CAMMA / REINE / DE / GALATIE, / TRAGEDIE. / Par T. CORNEILLE. / fleuron / *Suivant la copie imprimée.* / A PARIS / filet / M. DC. LXXXX.
+
+In-12°
+
+Bibliothèque Nationale de France (site Tolbiac ; Rez-de-jardin) : 8-YTH-36543.
+ * – POEMES / DRAMATIQUES / DE / T. CORNEILLE. / TROISIEME PARTIE. / fleuron / A LYON, / Chez LAURENS BACHELU fils, / rüe Neuve, à S.Joseph. / filet / M.DC.LXXXXVIII. / *AVEC PRIVILEGE DU ROY.*
+
+5 volumes in 16°. Il manque les tomes 1 et 2.
+
+Le privilège du Roi se trouve au tome 4. Achevé d'imprimer le 4 février 1698.
+
+*Camma, reine de Galatie* : pages 185 à 264.
+
+Bibliothèque UFR de littérature française de Paris IV-Sorbonne : T. 131 (fond Rousselot).
+
+Les modifications sont similaires à celles de l'édition de 1692. Toutefois, contrairement à cette dernière, les accents circonflexes remplacent systématiquement les s comme dans « vôtre », « maîtresse » par exemple, les y , dans leur grande majorité, sont remplacés, à l'intérieur des mots, par les i comme dans « foi », « loi », « quoi » …. De plus le substantif « temps » est orthographié dans toute la pièce « tems » et le e , orthographié « ez » est transformé en e « és », que ce soit la marque de l'impératif, la marque du participe passé, ou même qu'il soit présent dans certains substantifs comme « succez »
+ * – CAMMA, / REINE DE GALATIE, / TRAGEDIE.
+
+Edition non datée, paginée 491-556, in-12. Pièce qui antérieurement a dû faire partie d'un recueil puisque à la fin de la pièce on trouve une notation en italique : « Fin de la seconde partie ».
+
+Bibliothèque Nationale de France (site Tolbiac ; Rez-de-jardin) : 8-YTH-2574.
+
+Nous constatons une modernisation de l'orthographe. A part les terminaisons de l'imparfait qui restent les mêmes, tous les y ont été transformés en i , les s comme dans « estre, eslevé, espoux, ostez, vostre, mesme… » ont été soit remplacés par des accents circonflexes, soit supprimés. Les modifications de vers de l'édition de 1692 sont conservées. Les modifications de ponctuation sont elles similaires à l'édition des Frères Châtelain datant de 1709. Ce recueil contient *Camma, reine de Galatie* aux mêmes paginations et dans le même tome.
+
+On peut donc en conclure que l'édition non datée est apparue après celle de 1709 compte tenu du fait qu'il existe les mêmes modifications de ponctuation mais que l'orthographe a été elle modernisée.
+
+Nous n'en ferons donc pas le détail puisque ces modifications n'ont pas pu être faites par l'auteur.
+
+
+# CAMMA REINE DE GALATIE TRAGEDIE
+
+
+## Espitre
+
+A SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC. [119]
+
+MONSEIGNEUR,
+
+J'offre à VOSTRE ALTESSE SERENISSIME le portrait d'une reine dont le temps ne sçauroit trop respecter la memoire. Sa beauté causa le crime qui luy fit pleurer la perte de son Mary, et sa vertu la soûmit avec tant de fermeté à la rigueur du devoir qui luy en fit jurer la vangeance, qu'elle ne refusa pas de l'acheter au dépens même de sa vie ; mais quoy qu'il semble que cette gloire ait esté la seule qui l'ait pû toucher, elle ne peut revivre aujourd'hui sans se montrer sensible à une autre, et celle de vous avoir plû luy est si prétieuse, qu'elle n'en croiroit jouir qu'imparfaitement si vous ne lui permettiez de la publier. C'est, MONSEIGNEUR, pour obtenir cette grâce de V.A [120] que me faisant précipiter le respectueux hommage que je vous rends, elle ne me souffre⁎ point d'examiner [121] si le zéle ardent qui me porte à cette entreprise a quelque chose d'assez fort pour vous en faire excuser la temerité. On m'en accusera sans doute, mais j'aime mieux me voir exposé à ce péril, que de demeurer plus long-temps dans une admiration muette de tant de hautes qualitez qui estonnent⁎ d'autant plus, qu'on peut dire qu'elles sont moins des dons de la Nature, que l'ouvrage de vos propres soins. Vous ne vous en êtes épargné aucun, et il ne vous a pas suffi de trouver en vous un Grand Prince si tôt que vous vous êtes connu ; vous n'avez songé qu'à vous estudier assidûment pour vous rendre digne de l'estre, et vous ne vous estes point souffert de repos que vous n'ayez empesché la Fortune d'entrer en partage avec votre vertu, du vif éclat qu'un si glorieux titre répand sur vous. L'estude est belle, MONSEIGNEUR, mais comme elle demande les lumieres les plus profondes, et les plus penetrantes de l'esprit, il en est peu qui s'y puissent appliquer avec succez. En effet, il est rare d'en trouver une de la force et de l'etenduë de celui de V.A et c'est un sujet de surprise pour tous ceux qui ont l'honneur de vous approcher, que dans l'âge qui semble moins le permettre, vous joigniez à cette brillante vivacité qu'il inspire, la solidité du plus sublime raisonnement. Mais on a tort de s'en estonner, ⁎ puisque c'est une des moindres merveilles que le Ciel nous ait promises de vous ; il ne vous a fait voir le jour que pour vous en faire, et il vous en offre les moyens à puiser dans une source qui en est si seconde, que pour estre en pouvoir de produire les plus incroyables, votre naissance estoit le seul secours que vous aviez à souhaiter. Je ne dis pas, MONSEIGNEUR, cette naissance illustre qui par l'élevation du rang que vous tenez, vous donne droit aux Couronnes ; j'entens cet avantage particulier que vous avez d'estre né d'un HEROS qui n'a besoin que de vous communiquer un rayon de sa vertu⁎ pour vous mettre en estat de les meriter. Je le puis dire, MONSEIGNEUR, et je suis asseuré que V.A ne m'en desadvouëra pas. Cet avantage est d'un prix si relevé, que quand vous auriez pû naître ce que vous auriez voulu choisir, vous eussiez préferé ce que vous estes à tout ce que l'indiscrete ambition pourroit présumer au dessus. Vous y trouvez ce qui fait la véritable grandeur, et celle qui tient les peuples soûmis ne vous flateroit⁎ point tant que l'honneur d'estre Fils de celuy qui a obscurcy le nom des Cesars, et qui ne souffrant rien qui puisse aller au de-là des Grandes Actions qu'on luy a veu faire, ne laisse qu'à ceux de son sang le privilege de les pouvoir égaler. Jouissez-en , MONSEIGNEUR, et repassant en vous-mesme ces Prodiges inconcevables qu'il a fait paroistre de valeur, de prudence et de conduite, applaudissez-vous en secret des Miracles continuels où votre vie est destinée. Chaque Laurier qu'il a cueilly dans le champ de Mars, est une asseurance de ceux que La Victoire y a semez pour vous. Il n'a point pris de Villes, il n'a point gagné de Batailles qui ne vous soient autant de garands des Triomphes qui vous attendent, et l'Image présente de tant d'inimitables exploits vous doit faire goûter par advance le fruit de ceux qui vous sont reservez. Il me semble, MONSEIGNEUR, que je vois V.A se perdre agreablement dans ces hautes et pompeuses⁎ idées, et que la secrète joye qu'elles vous donnent, redouble cette noble fierté qui accompagne toûjours les personnes de votre rang. On n'en peut ressentir de plus parfaite, et si elle étoit capable de recevoir quelque legere alteration, ce ne pourroit être que de ce loüable chagrin⁎ qui fit autrefois soûpirer Alexandre des conquestes de Philippe. Mais il vous seroit aisé de le dissiper par la certitude où vous devez être, que quoy que le Grand CONDE ne doive qu'à luy seul ce qui luy asseure l'Immortalité, vous ne laisserez pas d'y contribuer quelque chose. L'histoire ne s'en taira point, MONSEIGNEUR, et quand elle aura fortement exageré ce qui le met au dessus des plus fameux Conquerants que l'Antiquité nous vante, elle n'oubliera pas de marquer pour l'achevement de sa gloire, celle qu'il aura euë d'avoir donné à la France un Fils digne d'elle et de luy. Il ne pouvoit luy faire un présent qui luy fust plus cher, et si dans le foible talent que j'ay, il m'estoit permis de former quelque ambitieux desir, ce seroit que vous daignassiez advouër un jour de publier les grandes choses qu'elle vous verra executer ; mais c'est une grace qu'il n'est pas juste que j'espere, ce dessein demande des forces que je ne sçaurois jamais acquerir, puisqu'il faudroit qu'elles fussent égales à l'ardeur toute soûmise avec laquelle je suis,
+
+MONSEIGNEUR,
+
+De V.A SERENISSIME,
+
+Le tres-humble, tres-obeïssant et tres-fidelle Serviteur [122],
+
+T. CORNEILLE.
+
+
+## Extrait du Privilege du Roy
+
+Par Lettres Patentes du Roy données à Paris le 14 Février 1661. Signées, CONRART : il est permis à AUGUSTIN COURBE, Marchand libraire en la Ville de Paris, de faire imprimer, vendre et debiter en tous lieux de l'obeïssance de sa Majesté, une Tragédie composée par le Sieur THOMAS CORNEILLE, intitulée *Camma, Reine de Galatie, Tragédie*, en telles marges, & tels caracteres, en un ou plusieurs volumes, et autant de fois qu'il voudra, durant sept ans entiers, à compter du jour, que ladite Tragédie sera achevée d'imprimer pour la première fois. Avec defferences à toutes personnes de quelque qualité et condition qu'elles soient, de l'imprimer, vendre et debiter, sous quelque pretexte que ce soit, pendant ledit temps, sans consentement dudit COURBE, ou de ceux qui auront son droit, à peine de deux mil livres d'amende, de confiscation des Exemplaires contrefaits, et de tous dépens, dommages et interests, comme il est porté plus au long par lesdites Lettres Patentes, à l'Extrait, et aux Copies collationnées auxquelles sa Majesté veut que foy soit adjoûtée comme à l'Original. Et scellées du Grand sceau de cire jaune sur simple queuë.
+
+Et ledit Courbé a associé, pour moitié, au présent Privilège Guillaume de Luyne, aussi Marchand libraire, suivant l'accord fait entr'eux.
+
+Achevé d'imprimer pour la première fois le 24 Mars 1661, à ROUEN par LAURENS MAURRY.
+
+Les Exemplaires ont esté fournis, ainsi qu'il est porté par ledit Privilege.
+
+*Registré sur le livre de la Communauté, le 23. Février 1661, conformément à l'Arrest du Parlement du 9. Avril 1653.* Signé, Josse, Syndic.
+
+
+## ACTEURS.
+ – CAMMA,Vefve de Sinatus, Roy de Galatie.
+ – SINORIX,Roy de Galatie, ayant usurpé la Couronne sur Sinatus.
+ – HESIONE,Fille de Sinatus.
+ – SOSTRATE,Prince de Galatie, Favory de Sinatus.
+ – PHAEDIME,Confident de Sinorix.
+ – SOSIME,Capitaine des Gardes de Sinorix
+ – PHENICE,Confidente de Camma.
+La Scene est dans la Capitale de Galatie [123].
+
+
+
+## CAMMA REINE DE GALATIE, *TRAGEDIE.*
+
+
+## ACTE I.
+
+
+### SCENE PREMIERE.
+SINORIX, PHAEDIME.
+
+
+    SINORIX.
+Tu dis vray [124], cher Phaedime, on auroit peine à croire  
+Qu'un grand cœur soûpirast au milieu de la gloire,  
+Qu'au faiste des grandeurs Sinorix eslevé  
+Souhaitast dans leur pompe⁎ un bien plus achevé,  
+Et que de tant d'honneurs sa fortune suivie  
+Pûst opposer quelque ombre à l'éclat de sa vie.  
+Il n'est rien au dessus du rang où tu me vois,  
+Toute la Galatie obeït à mes loix ;  
+Un vieux droit [125] que soûtint⁎ un peu de violence [126]  
+M'a laissé sur le Trône établir ma puissance,  
+On me flate⁎, on me craint, chacun m'offre des vœux,  
+Cependant, tu le sais, je ne suis pas heureux.  
+Depuis six mois je regne, et regne sans obstacles [127] ;  
+Mais le Sort fait en vain pour moy tant de miracles  
+Si du plus digne Objet trop vivement charmé,  
+J'aime pour mon supplice, et ne puis estre aimé.  
+
+    PHAEDIME.
+C'est vous plaire, Seigneur, à croistre [128] vostre peine,  
+Que d'expliquer si mal les refus de la Reine,  
+Qui peut-estre en secret brûlant⁎ déja pour vous  
+N'ose encor par devoir vous prendre pour Espoux.  
+Quelque éclat à ses yeux dont la Couronne brille,  
+Elle est Vefve d'un Roy qui vous donnoit sa Fille,  
+Et qui par vostre hymen luy faisoit éviter  
+D'avoir avecque vous un Trône à disputer.  
+Du peuple qui vous craint l'entier et prompt suffrage  
+Vous en a fait sur elle emporter l'avantage,  
+Et lors que tout l'Estat respecte en vous son Roy,  
+Vous la laissez Sujette, et luy manquez de foy⁎.  
+L'affront est grand, Seigneur, et quoy que dans sa haine  
+Le nom de Belle-mere engage peu la Reine,  
+Du moins l'honneur la force à prendre l'interest  
+De la Fille d'un Roy qui la fit ce qu'elle est.  
+Voila ce qui vous nuit, et vous nuira sans cesse,  
+Si vos ordres enfin n'éloignent la Princesse.  
+Ostez-luy cet obstacle, et vous verrez soudain  
+Que son cœur adoucy vous répond de sa main.  
+
+    SINORIX.
+Je voy bien qu'il le faut mais le puis-je, Phaedime,  
+Sans m'exposer encor à trembler de mon crime,  
+Et revoir quel excez d'injustice et d'horreur  
+Déja de mon amour a suivy la fureur ?  
+A ses brûlants⁎ transports livrant toute mon ame,  
+J'ay perdu le Mary, pour acquerir la Femme.  
+Des beautez de la Reine eperduëment épris,  
+D'un parricide⁎ affreux je l'ay faite le prix,  
+Et pour rompre du Roy ce second hymenée,  
+J'en ay par le poison tranché la destinée.  
+C'est peu de Sinatus à ma rage immolé,  
+Si mon devoir ailleurs n'est encor violé [129].  
+Hesione sa Fille à qui son choix m'engage,  
+De mes lâches mépris souffre l'indigne outrage,  
+Et pour forcer⁎ les maux dont mon cœur est atteint,  
+Son exil est un ordre où je me vois contraint.  
+
+    PHAEDIME.
+Mais luy-mesme à sa perte engagea vostre flame⁎,  
+Il vous donnoit sa Fille, et vous aimiez sa femme,  
+Et dans un sort si dur, la seule mort d'un Roy  
+De ce fatal hymen dégageoit vostre foy⁎ ;  
+Mais de ce crime en vain l'ombre vous embarrasse,  
+Il n'en est point, Seigneur, que le Trône n'efface,  
+Et dans quelques horreurs qu'on ait pû se porter,  
+Pour estre absous de tout, il suffit d'y monter [130]  
+
+    SINORIX.
+Ce sont là des Tyrans les damnables maximes [131]  
+En qui l'impunité fait le pardon des crimes,  
+Et qui d'un noir forfait esperant quelque bien,  
+Apres l'avoir commis ne se reprochent rien ;  
+Mais las ! tu me plaindrois si tu pouvois connoistre  
+Ce que dans un grand cœur le repentir fait naistre,  
+Quand aprés un effort⁎ mille fois combatu⁎,  
+Le crime par [132] contrainte échape à la vertu,  
+De son indigne objet sans cesse possedée,  
+L'ame en traîne partout l'épouvantable idée,  
+Un vif et dur remords n'en est jamais banny,  
+Et coupable un moment on est tousjours puny [133].  
+
+    PHAEDIME.
+C'est beaucoup que du moins cette mort qui vous gêne⁎  
+Soit toûjours un secret ignoré de la Reine,  
+Et qu'à Sostrate seul l'ayant sçeu confier,  
+Vous n'ayez point vers elle à vous justifier [134] ;  
+Mais comme enfin, Seigneur, Sostrate a de l'adresse,  
+Devient-elle inutile auprés de la Princesse,  
+Et ses soins⁎ n'ont-ils pû la faire balancer⁎  
+Sur l'hymen où pour luy vous la voulez forcer⁎ ?  
+
+    SINORIX.
+Il la voit chaque jour, Phaedime, et je puis dire  
+Que ce cher Confident partage mon martyre,  
+Puisqu'à mes interests s'osant abandonner,  
+Il a pris malgré luy ce qu'il n'a pû donner [135].  
+S'il a brigué⁎ d'abord son hymen pour me plaire,  
+C'est un bien aujourd'huy qu'à tout autre il préfere,  
+Et quoy qu'il m'ait caché, le chagrin⁎ qui le suit  
+Trahit [136] le desespoir où l'amour le reduit.  
+Aussi plus que le mien son interest me presse  
+D'embrasser⁎ un conseil⁎ qui bannit la Princesse.  
+J'ay fait naistre sa flame⁎, et je luy dois offrir,  
+L'eloignant de ses yeux, une aide à le guerir.  
+
+    PHAEDIME.
+Sostrate est genereux⁎, et jamais un vray zele  
+Ne marquera pour vous une ame plus fidelle,  
+Mais ce fatal amour qui l'accable aujourd'huy,  
+Seroit peut-estre un crime à tout autre qu'à luy.  
+D'un bel espoir trahy [137] l'irreparable offence  
+Sur vous de la Princesse attire la vangeance,  
+Et pretendre à son cœur, c'est presser son couroux  
+D'accepter une main qui la vange de vous.  
+
+    SINORIX.
+Contre moy de Sostrate il n'est rien qu'elle obtienne,  
+Mon amitié pour luy me répond de la sienne,  
+Sa vertu m'est connuë, et ce que je luy doy  
+Ne me laisse aucun droit de douter de sa foy⁎.  
+Cét amour que tu crains flate⁎ en ce point ma peine  
+Qu'esperant d'estre aimé [138] si j'épouse la Reine,  
+Avec tant de chaleur il luy peint mon tourment…  
+Mais je la voy qui passe à son appartement.  
+
+
+### SCENE II.
+SINORIX, CAMMA, PHAEDIME, PHENICE.
+
+
+    SINORIX.
+Vos yeux de vostre cœur marquant l'impatience [139],  
+Madame, et tant de soins⁎ d'eviter ma presence,  
+Ne me font que trop voir le peu qu'il prend de part  
+Au bonheur impréveu que m'offre le hazard [140].  
+
+    CAMMA
+Le chagrin⁎ où je vis me rend si peu traitable⁎,  
+Que souvent malgré moy son aigreur⁎ vous accable,  
+Et mon zéle pour vous osant s'en indigner  
+Par ces soins⁎ de vous fuïr cherche à vous l'épargner.  
+
+    SINORIX.
+Ah, si ce n'est qu'au prix d'une si chere veuë,  
+Perdez une bonté dont la rigueur me tuë,  
+Et puisque pour mes vœux il n'est rien de si doux,  
+Accablez-moy plustost que me priver de vous.  
+Je sçay bien qu'à me voir quelque nouvel outrage  
+Toûjours de mon amour repoussera l'hommage,  
+Que je n'entendray rien qui me souffre [141] l'espoir,  
+Mais, Madame, j'auray le plaisir de vous voir.  
+Ce charme, où tout mon cœur pleinement s'abandonne,  
+Adoucit les mépris dont la fierté⁎ m'étonne⁎,  
+Et dans l'âpre douleur de ce qu'il faut oüir,  
+S'il ne peut l'etouffer, il la sçait ebloüir⁎ [142].  
+
+    CAMMA.
+J'ignore quels mépris je vous ay fais paroistre,  
+Mais je sçay qu'en m'aimant vous m'avez dû connoître [143],  
+Et ne pretendre pas qu'une moindre fierté⁎,  
+Du rang où je me vois soûtinst⁎ la dignité.  
+Sinatus me fit Reine, et quoy qu'un coup funeste  
+Ait reduit mon destin au seul nom qui m'en reste,  
+Le malheur de sa mort ne peut rien sur ma foy⁎,  
+S'il ne vit plus pour vous, il vit encore pour moy ;  
+Je dois à son amour, je dois à sa memoire  
+Le refus d'un hymen qui blesseroit ma gloire,  
+Du Trône en vain par là vous voulez me flater⁎,  
+Ce seroit en descendre, et non pas y monter [144].  
+Usurpez sans remords la grandeur Souveraine,  
+Vefve de Sinatus, je sçay que je suis Reine,  
+Mais si je m'abaissois à vous donner ma foy⁎,  
+Femme de Synorix, la serois-je d'un Roy ? [145]  
+Vostre hymen de ce rang feroit le Sort arbitre,  
+J'en aurois le pouvoir, mais j'en perdrois le titre,  
+Et pour des droits honteux quittant un bien constant,  
+Je pourrois davantage, et ne ferois pas tant.  
+
+    SINORIX.
+Ouy, gardez vostre rang, vous le perdrez, Madame,  
+Si d'un Usurpateur vous devenez la Femme,  
+Et de Reine aujourd'huy le nom qui vous est dû,  
+Dans ce titre odieux se verra confondu.  
+Mais pourquoy, rejettant l'offre d'une Couronne,  
+Nommez-vous attentat⁎ le droit qui me la donne,  
+Et quel crime ay-je fait, quand secondé des Dieux  
+J'ay rentré par leur ordre au bien de mes Ayeux ? [146]  
+
+    CAMMA.
+Pour ébloüir⁎ mes sens c'est une foible amorce⁎  
+Qu'un droit qu'expliqua moins la raison que la force,  
+Le Peuple fut timide⁎, et vous voyant armer⁎,  
+Préfera le Tyran qui pouvoit l'opprimer.  
+
+    SINORIX.
+Et bien, je suis Tyran, ma seule violence [147]  
+Fut le droit qui m'acquit la supréme puissance,  
+Le crime est noir et lâche, il fait horreur à tous,  
+Mais causé par l'amour est-il crime pour vous ?  
+Cet amour n'auroit eu qu'une ardeur imparfaite  
+S'il m'eut souffert⁎ l'affront de vous laisser Sujette,  
+Et seul au vol d'un Trône ayant sçeu me forcer⁎,  
+Je ne l'ay fait du moins que pour vous y placer.  
+
+    CAMMA.
+Et lors qu'à cet excez monte vostre injustice,  
+Vous trouvez glorieux de m'en rendre complice,  
+Et ce parfait amour qui cherche à m'obliger⁎  
+Ne le peut qu'en m'offrant son crime à partager ?  
+Q'icy nos sentiments different l'un de l'autre !  
+Vous trahissez ma gloire, et j'ay soin de la vostre,  
+Et quand pour m'abaisser vous m'offrez vostre foy⁎,  
+Je cherche à faire en vous un legitime Roy.  
+Qu'à ces vives clartez vostre aveuglement cesse,  
+Pour meriter le Trône, épousez la Princesse,  
+Et luy rendant des vœux à sa flame⁎ échapez,  
+Possedez justement ce que vous usurpez. [148]  
+
+    SINORIX
+Si j'en formay pour elle, on ne les vit paroistre  
+Que quand mon cœur pour vous n'osoit se bien connoistre,  
+Et que son zéle⁎ ardent par un adroit détour  
+Cedoit à mon devoir les soins⁎ de mon amour. [149]  
+Ce cœur en qui l'espoir eust esté lors un crime [150]  
+Ne vit qu'elle aprés vous digne de son estime,  
+Et pour ce triste⁎ hymen, mal instruit de mon feu,  
+Sinatus le pressant⁎, il donna son adveu⁎ [151] ;  
+Mais si tost que sa mort laissant agir ma flame⁎,  
+Du secret de mes vœux eut dégagé mon ame [152],  
+Libres dans leur hommage, il leur fut assez doux  
+D'estre encore en estat de s'expliquer pour vous.  
+Ainsi ce qu'ils cachoient se fit bien tôt connoistre,  
+Je parus inconstant afin de ne pas l'estre,  
+Et fis voir qu'à mon feu⁎, pour s'oser exprimer,  
+Il manquoit seulement que vous peussiez aimer.  
+Vous le pouvez, Madame, et de vos vœux maistresse…  
+
+    CAMMA.
+Non, non, c'est présumer en moy trop de foiblesse,  
+Quoy qu'un Trône ait d'éclat, il n'a rien d'assez doux  
+Pour me faire trahir les Manes [153] d'un Espoux.  
+Il est mort, et sa Fille en ce malheur extrême,  
+Du moins par vostre hymen a droit au Diadême :  
+Vous pouvez à ses yeux en ceindre un autre front,  
+Mais ce n'est point par moy qu'elle en aura l'affront.  
+Pour en donner l'adveu⁎, quoy que vous puissiez faire,  
+La source de son sang [154] à mon coeur est trop chere,  
+Et l'on ne verra point qu'infidelle à ce sang  
+J'aide à la Tyrannie à luy voler son rang.  
+
+    SINORIX.
+Ah, puisque vous prenez quelque soin de ma gloire,  
+Sauvez-la d'un peril plus grand qu'on ne peut croire,  
+Et ne me forcez point, lors que je m'en defens,  
+A meriter l'horreur que l'on doit aux Tyrans.  
+J'aime une Reine Auguste⁎, et cette ardeur est telle  
+Que n'aimant et le Trône et le jour que pour elle,  
+Mon cœur, que les dédains peuvent pousser à bout,  
+Dedans son desespoir, est capable de tout. [155]  
+Daignez m'en épargner la fatale disgrace⁎ [156].  
+
+    CAMMA.
+Vous avancez beaucoup d'employer [157] la menace.  
+Je ne vous diray point s'il la faut redoubler,  
+Mais mon cœur est à vous quand il pourra trembler [158].  
+
+    SYNORIX.
+Et bien, pour me punir allez jusqu'à l'outrage,  
+Noircissez ce beau feu⁎ dont vous fuyez l'hommage,  
+Malgré tant de mépris redoublez chaque jour [159],  
+Dans un respect égal vous verrez mon amour,  
+Je vous le jure encor ; mais pour le satisfaire,  
+Sçachant ce qui me nuit, je sçay ce qu'il faut faire [160],  
+Et luy [161] devant l'éclat d'un trop juste couroux,  
+Je puis estre Tyran pour d'autres que pour vous.  
+Je vous laisse y penser, Madame.  
+
+
+### SCENE III.
+CAMMA, PHENICE.
+
+
+    CAMMA.
+Ah, le perfide !  
+Il veut donc achever son lâche parricide⁎,  
+Joindre la Fille au Pere ! ô mon unique espoir [162] ?  
+O vangeance, est-ce ainsi que tu sers mon devoir ?  
+
+    PHENICE.
+Si dans vos déplaisirs⁎ la vangeance vous flate⁎,  
+Pour en jouïr, Madame, il est temps qu'elle éclate,  
+Sinorix menaceant [163], rien n'est à négliger.  
+
+    CAMMA.
+Quoy, tu doutes encor si je veux me vanger [164] ?  
+Par le noir attentat⁎ de ce Tyran infame  
+J'auray veu dans mes bras Sinatus rendre l'ame,  
+Et me contenteray dans un si rude sort  
+De reprocher aux Dieux le crime de sa mort ?  
+Helas ! il me souvient de ce fatal augure  
+Qui d'un Peuple étonné⁎ fit naistre le murmure,  
+Quand luy donnant ma foy⁎, le cœur tout interdit⁎,  
+Le Vase Nuptial tout à coup s'épandit [165].  
+De ce triste⁎ accident l'infortuné presage [166]  
+D'une secrete horreur saisit tout mon courage [167],  
+Et m'annonça dés lors les funestes malheurs  
+Qui pressent ma vangeance, et font couler mes pleurs.  
+
+    PHENICE.
+Pour bien l'executer, si vous m'en voulez croire,  
+Il faut que la Princesse en partage la gloire ;  
+Comme elle ignore encore le crime du poison,  
+Vos mépris, d'un Tyran luy font en vain raison [168],  
+Elle les prend pour feinte, et croyant que dans l'ame  
+La seule ardeur du Trône est ce qui vous enflame,  
+De ces jaloux soupçons l'impatiente aigreur⁎  
+Vous fait souffrir assez pour la tirer d'erreur,  
+Vous sçavez sa fierté⁎ [169].  
+
+    CAMMA.
+Dequoy qu'elle m'accuse,  
+Il n'est pas temps encor que je la desabuse⁎,  
+Si la gloire en secret me pousse à me vanger,  
+Ce seroit l'affoiblir que de la partager.  
+
+    PHENICE.
+Mais Sostrate l'aimant, peut-estre que par elle  
+Il vous seroit aisé d'en corrompre le zele [170].  
+Dans ce que sur sa foy⁎ Sinorix prend d'appuy [171],  
+Sostrate pouvant tout, on ne peut rien sans luy,  
+Il vous faut l'acquerir, et l'amour qui le flate⁎  
+Le peut seul obliger…  
+
+    CAMMA.
+Tu connois mal Sostrate,  
+Il aime, il cherche à plaire, et toutefois, helas !  
+Son cœur contre un Tyran craint d'advoüer son bras. [172]  
+
+    PHENICE.
+Vous le sçavez, Madame ?  
+
+    CAMMA.
+Apprens par quelle adresse,  
+Brûlant⁎ pour une Reine, il feint pour la Princesse [173],  
+Et que mon ordre exprés y contraignant sa foy⁎,      
+Luy fait cacher ainsi l'amour qu'il a pour moy.  
+Sinorix qui l'engage à m'expliquer sa peine,  
+Luy donnant lieu d'agir, l'offre entier à ma haine ;  
+Non qu'il m'ait advoüé la noire trahison  
+Qui contre Sinatus se servit du poison,  
+Mais je reconnois trop, quelques soins⁎ qu'il employe,  
+Qu'en me niant ce crime il veut que je le croye [174],  
+On penetre aisément dans le cœur des Amants.  
+
+    PHENICE.
+Mais, Madame, pour luy quels sont vos sentiments ?  
+
+    CAMMA.
+Te parler sans aigreur⁎ de l'ardeur qui le presse,  
+Phenice, n'est ce pas t'advoüer ma foiblesse,  
+Et que ce triste⁎ cœur de vangeance animé,  
+N'a pû si bien haïr qu'il n'ait enfin aimé [175].  
+Non que par une lâche et honteuse victoire  
+L'amour à mon devoir puisse en ravir la gloire,  
+Au souvenir affreux de la mort d'un Espoux  
+Il [176] me soûmet soudain les charmes les plus doux,  
+Mais à quelques transports que cette mort me livre,  
+Il m'oste en le vangeant [177] le dessein de le suivre,  
+Et me vantant Sostrate, il force mon ennuy⁎  
+A chercher les moyens d'oser vivre pour luy.  
+C'est par là que flaté⁎ d'une douce esperance  
+Mon cœur s'est fait enfin le prix de ma vangeance,  
+Et que pour luy devoir un si precieux bien,  
+Ce qu'auroit fait mon bras, je l'ay remis au sien.  
+Cependant, et c'est-là ce que je me reproche,  
+Je le voy reculer plus ce grand coup approche,  
+Il tremble, et son amour prest à se déclarer,  
+Toûjours sur quelque obstacle aspire à differer ;  
+Mais puisqu'à menacer le Tyran s'authorise,  
+Un peril si pressant ne veut plus de remise,  
+Il faut montrer ma haine, et que si jusqu'icy  
+La Princesse abusée a creu… mais la voicy.  
+
+
+### SCENE IV.
+CAMMA, HESIONE, PHENICE.
+
+
+    HESIONE.
+Madame, je ne sçay si dans ce qui se passe  
+De mes ressentimens vous approuvez l'audace,  
+Et si de mon orgueil l'éclat impetueux  
+N'a rien pour Sinorix qui contraigne vos vœux⁎.  
+Il tâche à les seduire, et le Trône…  
+
+    CAMMA.
+Ouy, Princesse,  
+Mais qu'ils cedent ou non, que ce scrupule cesse,  
+L'injure⁎ qu'on vous fait et qu'il faut reparer,  
+A leur ambition n'a rien à déferer⁎.  
+
+    HESIONE.
+Un zéle dont l'ardeur me sera tousjours chere,  
+M'oblige à respecter la Vefve de mon Pere,  
+Et je ne croirois pas y répondre assez bien  
+Si sur vostre interest je ne reglois le mien.  
+
+    CAMMA.
+Donc si j'ose accepter l'offre d'une Couronne,  
+Ce zéle genereux⁎ soudain me l'abandonne [178] ?   
+Sans vouloir rien pretendre, il m'en cede l'espoir ?  
+
+    HESIONE.
+Pour m'y resoudre au moins je voudrois le sçavoir.  
+
+    CAMMA.
+Si ma façon d'agir vous l'a fait mal comprendre,  
+Par de plus grands effets il faudra vous l'apprendre,  
+D'un doute trop cruel vostre esprit est atteint.  
+
+    HESIONE.
+Je sçay que Sinorix vous accuse, et se plaint ;  
+Mais souvent le dehors n'est qu'une adroite feinte,  
+Qui resiste le plus aime à ceder contrainte [179],  
+Et cet amusement des credules esprits  
+Fait subsister l'espoir au milieu des mépris [180].  
+
+    CAMMA.
+A d'étranges soupçons le chagrin⁎ vous expose.  
+
+    HESIONE.
+Je veux bien l'advoüer, Sostrate en est la cause,  
+Il vous voit si souvent que comme il m'ose aimer,  
+Vos secrets entretiens ont droit de m'alarmer.  
+Il croit, si le Tyran vous avoit épousée  
+Que mon cœur luy seroit une conqueste aisée,  
+Et c'est à quoy sans doute il tâche à vous porter ?  
+
+    CAMMA.
+Il en a l'ordre au moins s'il veut l'executer.  
+
+    HESIONE.
+Qui l'en empescheroit ?  
+
+    CAMMA.
+Ma volonté peut-estre,  
+Ou quelque autre raison que l'on ne peut connoître.  
+
+    HESIONE.
+Mais vous l'auriez souffert⁎ un peu plus rarement.  
+
+    CAMMA.
+Je n'ay pas crû devoir en user autrement [181].  
+
+    HESIONE.
+Quand on ne pretend rien on doit peu se contraindre.  
+
+    CAMMA.
+Il est bon quelquefois de se forcer⁎ à feindre [182].  
+
+    HESIONE.
+C'est pour une grande ame un sentiment trop bas.  
+
+    CAMMA.
+Ouy, mais j'ay des secrets qu'on ne penetre pas.  
+
+    HESIONE.
+Je n'ay pas merité d'en sçavoir le mystere. [183]  
+
+    CAMMA.
+Vous en usez si mal que j'ay lieu de me taire,  
+Mais enfin je pardonne à l'aigreur⁎ où vous met  
+L'injurieux⁎ éclat de l'affront qu'on vous fait,  
+Sans me considerer pressez-en la vangeance,  
+Je la verray sans peine, et pour plus d'asseurance  
+Je vous laisse Sostrate, avec qui consulter  
+Des moyens les plus seurs de bien l'executer.  
+
+
+### SCENE V.
+HESIONE, SOSTRATE.
+
+
+    HESIONE.
+Viens, Sostrate, il est temps que je t'ouvre mon ame  
+Sur [184] l'espoir dont enfin tu peux flater⁎ ta flame⁎.  
+Tes soins⁎ de mon orgueil en poursuivent l'adveu⁎ ? [185]  
+
+    SOSTRATE.
+Madame, le respect accompagne mon feu⁎,  
+Sinorix jusqu'à vous en a porté l'audace,  
+Mais quoy que son appuy combate ma disgrace⁎,  
+Vous me pouvez toûjours défendre d'esperer,  
+Sans que mon cœur jamais en ose murmurer.  
+
+    HESIONE.
+Tu me l'as fait paroistre, et j'aurois lieu sans doute  
+D'admirer les efforts⁎ que ton respect te coûte,  
+Si d'un charme trompeur ton esprit combatu⁎  
+Ne laissoit contre moy séduire ta vertu [186].  
+Ta foy⁎ pour Sinorix cherche à gagner la Reine ?  
+
+    SOSTRATE.
+Vers toute autre ce soin⁎ pourroit vous mettre en peine,  
+Mais tant de fiers⁎ mépris…  
+
+    HESIONE.
+Ne les vante point tant,  
+J'en connoy l'artifice⁎, et voy ce qu'elle attend.  
+Tu verrois le Tyran toucher bien-tost son ame  
+Si j'avois de ma main recompensé ta flame⁎,  
+Et donné lieu par là de rejetter sur moy  
+L'affront de le reduire à me manquer de foy⁎ ;  
+Mais si ce seul espoir l'engage à se contraindre,  
+Elle me connoit mal de s'obstiner [187] à feindre,  
+Et d'oser présumer qu'un cœur comme le mien  
+Par mon hymen jamais authorise le sien.  
+
+    SOSTRATE.
+Il est juste, Madame, et l'ardeur de vous plaire  
+N'enfle pas mes desirs d'un orgueil temeraire,  
+Jusqu'à pretendre enfin qu'elle aura le pouvoir…  
+
+    HESIONE.
+Va, c'est un peu trop tost renoncer à l'espoir ;  
+Non que par cet adveu⁎ que tu n'osois attendre,  
+Flatant⁎ ta passion, je vueille la surprendre,  
+Je ne te diray point qu'elle ait pû m'enflammer,  
+Mais si je n'aime point, du moins je puis aimer.  
+C'est à toy de chercher à m'en rendre capable,  
+Mon estime déja t'est assez favorable,  
+Je connoy ton merite, et sçay que dans ton rang  
+Jamais plus de vertu⁎ ne soûtint⁎ un beau sang.  
+Tu vois que je commence, acheve, entreprens, ose,  
+Peut-estre un seul obstacle à ton bon-heur s'oppose.  
+J'aspire à me vanger, et ce fiers⁎ mouvement⁎  
+Eloigne de mon cœur tout autre sentiment.  
+Plein d'une passion et si juste et si forte,  
+Pour y faire entrer l'une, il faut que l'autre en sorte,  
+Et ta flame⁎ à l'espoir cherche en vain quelque jour⁎,  
+A moins que la vangeance ait fait place à l'amour.  
+J'ay receu du Tyran le plus sanglant outrage,  
+Tu le sçais, je n'ay rien à dire davantage [188] :  
+Ou du feu⁎ qui te brûle⁎ écoute moins l'appas⁎,  
+Ou ne m'offre ton cœur qu'en suite de ton bras.  
+
+    SOSTRATE.
+Quoy…  
+
+    HESIONE.
+Ne réplique point ; quand ce grand coup t'étonne⁎,  
+Voy que je suis ta Reine, et que je te l'ordonne,  
+Et si ta lâcheté me prepare un refus,  
+Ne me le fais sçavoir qu'en ne me voyant plus.  
+C'en sera l'asseurance⁎, adieu.  
+
+    SOSTRATE *seul.*
+Que fuir ta veuë  
+N'est-ce tout le peril d'un ordre qui me tuë ! [189]  
+Mais las ! forcé d'aimer, quels seront mes souhaits  
+S'il faut trahir par tout, ou n'esperer jamais ?  < Fin du premier Acte. >
+
+
+## ACTE II
+
+
+### SCENE PREMIERE.
+SINORIX, HESIONE, PHAEDIME.
+
+
+    SINORIX.
+Je vous le dis encor [190], c'est à vous de resoudre.  
+Il est en vostre choix de repousser la foudre⁎,  
+Je la tiens suspenduë, et malgré mon couroux  
+J'ay peine [191] à consentir qu'elle éclate sur vous ;  
+Mais vostre orgueil m'y force, et dequoy qu'il vous flate⁎,  
+Si vous n'y renoncez en faveur de Sostrate [192],  
+Je sçay ce que je dois à ses feux⁎ méprisez  
+Au defaut de l'adveu⁎ que vous luy refusez.  
+
+    HESIONE.
+Certes, jusques icy l'exemple est assez rare  
+Que contre l'injustice un Tyran se declare [193].  
+J'en fais une, il est vray, si Sostrate confus  
+A l'orgueil de mon sang impute mes refus ;  
+Mais quel aveuglement fait que tu me l'opposes ?  
+La veux tu condamner quand c'est toy qui la causes [194]  
+Et que par l'attentat⁎ qui t'éleve aujourd'huy  
+Tu m'ostes le pouvoir de rien faire pour luy ?  
+Tu le plains de montrer une vertu sublime  
+Sans qu'à peine il m'en coûte un sentiment d'estime,  
+Mais ce charme brillant dont mon cœur est surpris,  
+Quand il se donneroit, demande un plus haut prix [195].  
+Au lieu de luy prester cette pitié frivole,  
+Rends-moy l'éclat du rang que ta rage me vole,  
+Alors tu connoistras s'il faut me reprocher  
+Que l'amour d'un Heros ne puisse me toucher.  
+
+    SINORIX.
+Cessez de vous flater⁎ d'un droit imaginaire  
+Qui vous laisse pretendre à la grandeur d'un Pere,  
+Quoy que dans vos Ayeux vous comptiez de [196] nos Rois,  
+Sinatus pour regner abusa de mes droits.  
+Sa brigue [197] plus puissante et la faveur de l'âge  
+Du Peuple suborné luy gagnerent l'hommage,  
+Et par sa préference obligé de ceder,  
+On me vit obeïr où je dûs [198] commander.  
+Il en donna luy-mesme une preuve assez claire  
+Lors que par vostre hymen il crût me satisfaire,  
+Et voulut que du moins le droit me fust rendu  
+D'un Trône qu'à moy seul il sçavoit estre dû.  
+Ce moyen d'y rentrer et certain et facile,  
+Me fit voir⁎ la revolte un projet inutile,  
+Par ce seul interest j'en acceptay l'accord ;  
+Mais pour m'en dégager le Ciel permit sa mort [199],  
+Par là de tout l'Estat rendu Maistre sans peine,  
+J'osay me consulter sur le choix d'une Reine,  
+Et sans amour pour vous, je crûs honteux pour moy  
+De sembler vous devoir la qualité de Roy.  
+Appellez-moy Tyran, ingrat, traistre, parjure,  
+Vos seuls emportemens font toute vostre injure⁎,  
+Et c'est un peu trop loin en pousser la rigueur  
+Que vouloir sur le Trône assujettir mon cœur.  
+
+    HESIONE.
+Moy, que par une lâche et honteuse foiblesse  
+Je cherche de ton cœur à me rendre Maistresse ?  
+Je l'aurois accepté quand sur l'adveu⁎ du Roy [200]  
+Ma vertu te pouvoit rendre digne de moy ;  
+Mais quelque juste ardeur dont le Trône m'anime,  
+Ne croy pas que je t'aide à joüir de ton crime [201] ;  
+Qui tient pour y monter le chemin que tu prens [202]  
+Merite d'y perir comme font les Tyrans.  
+Rendre par mon hymen ta grandeur affermie,  
+Ce seroit de leur Sort t'épargner l'infamie,  
+Et d'un rang où t'éleve un indigne attentat⁎,  
+Prendre sur moy la honte, et t'asseurer l'éclat.  
+
+    SINORIX.
+Rejettez-la, Madame, et sauvez vostre gloire  
+Du peril odieux d'une tache si noire [203] ;  
+Mon cœur qui voit l'injure⁎ où vous alliez ceder,  
+Sur un si noble soin⁎ aime à vous seconder.  
+Sans doute il ne vaut pas, ce cœur bas, ce cœur lâche,  
+Qu'à son indignité vostre vertu l'arrache,  
+Et vous craignez en vain que je ne fasse effort [204]  
+A répandre sur vous la honte de mon Sort ;  
+Mais quelque triste⁎ fin qu'il faille que j'en craigne,  
+S'il m'expose à perir, il m'apprend que je regne,  
+Et jusqu'au dur revers qui sçaura me trahir,  
+J'auray la joye au moins de me faire obeïr.  
+Soûtenez⁎ vostre orgueil ; quelque loin qu'il s'étende [205],  
+Je sçay ce que je puis alors que je commande [206],  
+Et si toûjours Sostrate est par vous outragé,  
+Ne pouvant estre heureux, il peut estre vangé.  
+
+    HESIONE.
+Va, ne croy pas qu'icy son interest m'abuse,  
+D'un faux zele pour luy je vois l'indigne ruse,  
+Par cet empressement à soûtenir⁎ son feu⁎  
+Ta lâcheté du tien sollicite l'adveu⁎.  
+Ce que la Reine doit au sang dont je suis née [207]  
+Luy défend d'accepter la foy⁎ qui m'est donnée,  
+Et quoy que mon orgueil en dédaigne l'appas⁎,  
+Le mépris que j'en fais ne te dégage pas.  
+Tu le vois, et l'hymen où tu crois me contraindre,  
+La doit mettre en estat de n'avoir plus à feindre,  
+De répondre à ta flame⁎ [208], et de s'abandonner  
+Aux douceurs de l'espoir que tu luy fais donner ;  
+Mais maistresse d'un cœur qui brave ton Empire,  
+Je ris des vains projets que cet amour t'inspire,  
+Et tous mes déplaisirs⁎ semblent s'évanoüir  
+Quand tu fais un parjure, et n'en sçaurois jouïr.  
+
+    SINORIX.
+J'en jouïrai, Madame, et puisque vostre audace  
+Ose presser l'effet d'une juste menace,  
+Nous verrons si l'exil pourra vous laisser jour [209]  
+A trouver les moyens de nuire à mon amour,  
+L'Arrest en est donné.  
+
+    HESIONE.
+Fay donc qu'on l'execute.  
+C'est par là que les Dieux ont resolu ta cheute,  
+Sans cette indignité mon Sort seroit trahy,  
+Plus tu seras Tyran, plus tu seras haï,  
+Mes Sujets me plaindront, et leur haine timide⁎  
+Cessera dans ta mort de croire un parricide⁎.  
+Redouble tes forfaits ; loin d'en rien⁎ redouter,  
+Je vay faire des vœux afin de les haster.  
+
+
+### SCENE II.
+SINORIX, PHAEDIME.
+
+
+    PHAEDIME.
+Je l'avois bien preveu, Seigneur, que la menace,  
+Loin d'étonner⁎ sa haine, aigriroit⁎ son audace,  
+Il falloit sans la voir en venir aux effets.  
+
+    SINORIX.
+Ah, laisse moy trembler du dessein que je fais,  
+Et souffre à⁎ ma vertu, que mon amour opprime,  
+De faire quelque effort⁎ pour m'épargner un crime,  
+Cét exil qu'elle presse a droit de m'effrayer,  
+Avant ce dur remede il faut tout essayer.  
+Au peril de l'orgueil qu'elle m'a fait paroistre  
+J'ay dû [210] luy faire voir quels maux [211] en peuvent naistre,  
+Va luy parler encore, et tâche d'obtenir… [212]  
+Mais quel frivole espoir ose m'entretenir ?  
+Apres tant de refus d'obeïr, de se rendre,  
+Ay-je rien⁎ à tenter ? ay-je rien⁎ à pretendre ?  
+Non, non, il faut enfin à son cœur indigné  
+Dérober la douceur de me voir dédaigné [213],  
+De voir que si la Reine [214] à ma flame⁎ s'oppose,  
+De tout ce que je souffre elle est la seule cause,  
+Ou plustost il faudroit par un noble retour⁎  
+Avec mon injustice [215] esteindre mon amour ;  
+Mais helas ! je sens bien que vain de sa défaite  
+Mon cœur craint à ce prix le repos qu'il souhaite,  
+Et qu'il n'est point de maux où je n'ose m'offrir  
+S'il faut cesser d'aimer pour cesser de souffrir [216].  
+
+
+### SCENE III.
+SINORIX, SOSTRATE, PHAEDIME.
+
+
+    SINORIX.
+Et bien ? as-tu, Sostrate, entretenu la Reine ?  
+La Princesse toûjours régle-t'elle sa haine,  
+Et sur ses interests son indigne rigueur [217]  
+S'obstine-t'elle encor au refus de mon cœur ?  
+
+    SOSTRATE.
+Si vostre amour du temps n'attend quelque miracle,  
+En vain de son orgueil il croit vaincre l'obstacle [218].  
+Comme elle s'est tantôt⁎ expliquée avec vous,  
+Mes soins⁎ n'ont fait, Seigneur, qu'accroistre son couroux.  
+C'est assez [219] qu'elle-mesme elle ait voulu vous dire  
+Quel inutile espoir flate⁎ vostre martyre,  
+Vostre pouvoir est grand, mais pour forcer⁎ sa foy⁎,  
+Il n'étend point vos droits sur la Vefve d'un Roy.  
+
+    SINORIX.
+Ouy, Sostrate, elle peut me dédaigner sans craindre  
+Que mon amour s'emporte à la vouloir contraindre.  
+Quoy qu'à ma tyrannie elle ose reprocher,  
+Son cœur doit s'obtenir, et non pas s'arracher ;  
+Mais puisque la Princesse à ces mépris m'expose,  
+De mon malheur en elle il faut punir la cause,  
+Et te vanger des maux où t'a précipité  
+L'inutile secours que ton feu⁎ m'a presté.  
+
+    SOSTRATE.
+Quoy, contre la Princesse armer vostre colere ?  
+Ah, Seigneur, songez-vous…  
+
+    SINORIX.
+L'arrest t'en doit déplaire,  
+Tu l'aimes, je le sçais, et ton amour soûmis  
+Pour punir son orgueil ne se croit rien permis.  
+Garde ces sentiments, tandis que ma vangeance  
+Pressant…  
+
+    PHAEDIME.
+Voyez, Seigneur, que la Reine s'advance.  
+
+    SINORIX.
+La Reine vient icy ! qu'en dois-je présumer ?  
+Dieux, rendez-la flexible⁎, ou m'empeschez d'aimer.  
+
+
+### SCENE IV.
+SINORIX, CAMMA, SOSTRATE, PHAEDIME.
+
+
+    SINORIX.
+Madame, quel dessein en ce lieu vous amene ?  
+Y venez-vous chercher à jouïr de ma peine,  
+Et dans le desespoir où vous m'avez reduit,  
+Par ce triste⁎ spectacle en goûter mieux le fruit ?  
+
+    CAMMA.
+Je veux bien l'advoüer, vous m'aviez sçeu contraindre  
+A croire en vous ce feu⁎ dont je vous oyais plaindre [220],  
+Mais dans vos feints transports je connoy mon erreur,  
+Vous appellez amour ce qui n'est que fureur.  
+Quoy ? si je me défens de⁎ faire une bassesse [221],  
+Il faut soudain d'exil menacer la Princesse,  
+Et d'un indigne espoir vostre cœur combatu⁎  
+Ose trouver pour elle un crime en ma vertu ?  
+Suivez un mouvement⁎ qu'il vous est doux de croire,  
+Dans vostre tyrannie envelopez ma gloire,  
+Et rejettez sur moy par l'ardeur de regner  
+La honte du dessein qui vous fait l'éloigner ;  
+J'en fuiray l'infamie en prenant sa querelle⁎,  
+Et quelque fiere⁎ ardeur qui vous arme contre elle,  
+Nous verrons qui des deux en fera plus juger [222],  
+Ou vous pour la punir, ou moy pour la vanger.  
+
+    SINORIX.
+Ce dessein de vangeance est l'effet d'un beau zele,  
+Mais vous répondez-vous⁎ qu'il fasse assez pour elle,  
+Lors que pour prevenir l'arrest que vous craignez  
+Il ne faut qu'accepter ce que vous dédaignez [223] ?  
+Pour ses seuls interests [224] infidelle à vous mesme,  
+Je vous voy rejetter l'offre du Diadême,  
+Mon amour s'en offence, et cet éloignement  
+Est le moins qu'il prescrive à mon ressentiment,  
+Il peut aller plus loin, mais quoy qu'il execute,  
+C'est un mal qu'à vous seule il faudra qu'on impute,  
+Et ce sera pour vous un genre de forfait  
+D'avoir pû l'empescher, et ne l'avoir pas fait.  
+
+    CAMMA.
+Et bien, sans respecter le sang qui la fit naistre  
+Commence enfin, Tyran, à te faire connoistre,  
+Montre-toy tout entier, et cherche à découvrir  
+La lâcheté du cœur que tu m'oses offrir.  
+Je veux qu'à [225] t'espouser son interest m'engage,  
+Ce cœur que tu poursuis sera-t-il ton partage [226]  
+Et crois-tu qu'un adveu⁎ par contrainte arraché  
+L'acquiere à tes souhaits si tu ne l'as touché ?  
+Songe qu'indépendant, et jaloux de ce titre  
+C'est luy seul de ses droits qu'il choisit pour arbitre,  
+Et que contre ses vœux, la plus pressante⁎ loy  
+Ne sçauroit le reduire à disposer de soy.  
+
+    SINORIX.
+Dans les cruels mépris qui troublent ma constance  
+Le refus que j'ay fait d'user de violence  
+Montre assez que l'amour qui regne dans mon sein,  
+S'il ne gagne le cœur, n'estime point la main [227] ;  
+Mais ne m'opposez point pour obstacle invincible  
+Que ce cœur par luy seul peut devenir sensible,  
+Nos desirs sont sa regle, et contraint d'obeïr,  
+Il prend d'eux le panchant d'aimer ou de haïr.  
+
+    CAMMA.
+Si ce divers⁎ panchant est un droit qu'il nous laisse,  
+Tâche de m'en convaincre en aimant la Princesse,  
+Et puisque ton amour se soûmet à ton choix  
+Dispose en sa faveur d'un cœur que tu luy dois,  
+
+    SINORIX.
+Me contraindre à l'aimer ! et vostre erreur est telle…      
+
+    CAMMA.
+Quoy ? puis-je plus pour toy que tu ne peux pour elle,  
+Et ce penible effort⁎ où ton cœur ne peut rien,  
+Suis-je plus en pouvoir de l'obtenir du mien ?  
+
+    SINORIX.
+Ouy, Madame, et ce cœur ne pourroit se défendre  
+Des soins⁎ qu'à la Princesse il refuse de rendre,  
+Si d'un premier amour les doux et pressants nœuds⁎  
+Le laissoient en estat de former d'autres vœux⁎ ;  
+Mais ce que vos beautez ont pris sur luy d'empire  
+Ne peut souffrir⁎ le choix qu'on luy vouloit prescrire,  
+Et je quitte un espoir qui m'a trop sçeu charmer  
+Si la mesme raison [228] vous défend de m'aimer.  
+Déclarez-vous, Madame, et sur cette asseurance  
+Triomphez d'un amour dont l'adveu⁎ vous offence,  
+Mon cœur que la raison oblige de ceder,  
+Si vous aimez ailleurs, n'a rien à demander ;  
+J'en atteste⁎ les Dieux, et je veux que leur haine  
+M'expose sans relâche à la plus rude peine,  
+Si quelque heureux Rival dont vous payiez la foy⁎,  
+Je n'immole à ses voeux toute l'amour⁎ d'un Roy [229].  
+Mais aussi dés demain pour finir mon supplice,  
+Je veux avecque luy que l'hymen vous unisse,  
+Et que par ce revers mon malheur confirmé  
+M'arrache au fol espoir de pouvoir estre aimé.  
+Ce sont les seuls partis qui vous restent à prendre [230],  
+Ou donnez vostre main, ou m'y laissez pretendre,  
+Et jugez, dans le choix que je vous offre icy,  
+Si c'est estre Tyran que d'en user ainsi.  
+Je vous laisse resoudre ou ma gloire ou ma peine ;  
+Vous, Sostrate, attendez les ordres de la Reine [231],  
+Et songez à me faire un fidelle rapport  
+Si tost que sa réponse aura reglé mon sort.  
+
+
+### SCENE V.
+CAMMA, SOSTRATE.
+
+
+    CAMMA.
+Ton silence, Sostrate, a droit de me confondre⁎,  
+Sinorix a parlé, c'est à toy de répondre,  
+Le temps presse, on menace [232], et sans plus differer  
+Ou pour l'un ou pour l'autre il faut te déclarer.  
+Si mon cœur est pour toy d'un prix assez insigne⁎,  
+S'il remplit tes desirs, tu peux t'en rendre digne,  
+Mais aussi, c'est un bien qui doit peu te flater⁎  
+Si tes vœux⁎ incertains n'osent le meriter ;  
+Car enfin quelque espoir dont ma main t'entretienne,  
+Tu ne peux l'obtenir sans faire agir la tienne,  
+Et je m'appreste en vain à couronner ton feu⁎  
+Si Sinatus vangé ne m'en donne l'adveu⁎.  
+
+    SOSTRATE.
+Madame, il est aisé par mon desordre extrême  
+De juger des combats que je rends en moy-mesme,  
+Non que j'aspire enfin qu'à meriter un bien [233]  
+Sans qui tout m'est fatal, sans qui tout ne m'est rien ;  
+Mais dans la passion dont le transport⁎ vous guide,  
+Quand j'en voy les moyens je demeure stupide⁎,  
+Je me pers, et ne puis convaincre ma raison  
+Qu'il se doive acquerir par une trahison.  
+Ouvrez les yeux, Madame, et sans trop vous en croire [234],  
+Jettez-les sur les soins⁎ que je dois à ma gloire.  
+Si j'aime Sinorix, il n'est point de bienfaits  
+Dont il n'ait jusqu'icy prévenu⁎ mes souhaits,  
+Ses bontez chaque jour se font pour moy paroistre,  
+Je puis ce que je veux, c'est mon Roy, c'est mon Maistre [235],  
+Et si j'ose sur luy porter de lâches coups,  
+Me soüiller de son sang, suis-je digne de vous ?  
+
+    CAMMA.
+Ouy, tu l'es, puisqu'enfin c'est en servant ma haine  
+Que tu peux égaler le destin d'une Reine,  
+Et trouver dans l'éclat d'un illustre projet  
+A reparer l'affront du titre de Sujet.  
+Crois-tu qu'à t'écouter je me fusse abaissée  
+Si je n'eusse pû voir cette honte effacée,  
+Et sçeu, pour m'enhardir⁎ à recevoir ta foy⁎,  
+Que qui perd un Tyran est au dessus d'un Roy ?  
+Renonce à cette gloire, et quitte un avantage [236]  
+Qui peut-estre jamais n'a touché ton courage,  
+Mais s'il le dédaignait, pourquoy te déguiser [237],  
+Et differer tousjours à me desabuser⁎ ?  
+
+    SOSTRATE.
+J'ay promis, il est vray, c'est ce qui fait ma peine,  
+Mais j'ay crû que l'amour fléchiroit vostre haine,  
+Et que pour en calmer les transports éclatants  
+Il falloit seulement avoir recours au temps.  
+
+    CAMMA.
+Dy plustost qu'alarmé de l'amour de ton Maistre  
+Ton feu⁎ desesperoit d'oser jamais paroistre,  
+Et que ta passion corrompant ton devoir [238]  
+Sacrifiait ses jours à ce manque d'espoir.  
+L'ardeur dont tu flatois⁎ ma noble impatience,  
+Par ton seul interest s'offroit à ma vangeance,  
+Et tu consentois moins par cét accord fatal  
+A punir mon Tyran qu'à perdre ton Rival [239].  
+Alors tu n'avois point cette vertu⁎ timide⁎ [240]  
+Qui tremble à voir mon cœur le prix d'un parricide⁎,  
+Et ta flame⁎ aisément convainquoit ta raison  
+Qu'il pouvoit s'acquerir par une trahison.  
+Aujourd'huy seulement qu'un foible stratagême  
+Fait promettre au Tyran de me ceder si j'aime,  
+Tu veux estre fidelle, et luy garder ta foy⁎,  
+Sur l'espoir de me rendre aussi lâche que toy.  
+Son adveu⁎ d'un beau choix me laissant la puissance,  
+Tu crois qu'en ta faveur j'oublîray ma vangeance,  
+Et que d'un fol amour secondant le pouvoir,  
+Je t'aideray moy-mesme à trahir mon devoir ;  
+Mais gravé dans ce cœur [241] où rien ne le partage,  
+Apprens que l'effacer est un penible ouvrage,  
+Et que je plains en toy, si ton feu⁎ l'entreprend,  
+L'inutile vertu⁎ que cet espoir te rend.  
+
+    SOSTRATE.
+Ah ! que me dites-vous ?                   
+
+    CAMMA.
+Ce que je te dois dire,  
+Que jamais sur ton cœur la gloire n'eut d'empire,  
+Et qu'un lâche interest qu'il vient de mettre au jour  
+Le rend traître ou fidelle au gré de ton amour.  
+
+    SOSTRATE.
+Et bien, pour épargner ce soupçon à ma gloire,  
+Il faut oser icy ce qu'on ne pourra croire,  
+Estouffer de l'amour le charme le plus doux,  
+Et vous donner l'exemple à triompher de vous.  
+Deux grandes passions nous portent à l'extreme,  
+Nous leur déférons⁎ tout, vous haïssez, et j'aime,  
+Trahissons-en l'attente, et pour nous signaler, ⁎  
+Consentons l'un à l'autre à nous les immoler.  
+Par un effort⁎ illustre et digne d'une Reine,  
+Renoncez à l'espoir qui soûtient vostre haine,  
+Et de mes sentimens triomphant à mon tour,  
+Je renonce à l'espoir qui soûtient mon amour.  
+Ainsi nous nous ferons égale violence,  
+Vous haïrez tousjours sans desir de vangeance,  
+Sans chercher qu'à haïr, sans vouloir d'autre bien,  
+Et j'aimeray tousjours sans aspirer à rien.  
+Mais las ! dans cet accord, à bien voir ce que j'ose,  
+Vos maux approchent-ils de ceux que je m'impose ?  
+Si la vangeance preste [242], il vous la faut trahir,  
+Il vous reste du moins la douceur de haïr.  
+Outre qu'un fort mépris que la haine suggere  
+A quelque charme en soy qui peut vous satisfaire,  
+Puisque, quelque ennemy dont on soit outragé,  
+Qui peut le dédaigner en est assez vangé ;  
+Mais dans l'effort⁎ cruel que j'ose me prescrire,  
+Sur quelle juste attente adoucir mon martyre,  
+Et dequoy me flater⁎ dans l'horreur d'un devoir  
+Qui me laisse l'amour, et m'arrache l'espoir ?  
+Estre privé de l'un, lors que l'autre demeure,  
+C'est languir, ou plustost c'est mourir à toute heure,  
+Et qui conçoit ce mal dans un cœur amoureux  
+Advouëra que de tous c'est-là le plus affreux.  
+Jugez si m'y soûmettre, ayant sçeu le connoistre,  
+C'est vous offrir assez pour les jours de mon Maistre,  
+Et si j'ay merité qu'on m'accuse en ce jour  
+D'estre traistre ou fidelle au gré de mon amour [243].  
+
+    CAMMA.
+Le rare et seur moyen d'ébloüir⁎ ma vangeance !  
+Les maux que tu te fais ne sont qu'en apparence,  
+Et cet espoir pour toy si fâcheux à quitter,  
+Sur quelque heureux revers te peut tousjours flater⁎ :  
+Mais puis-je à Sinatus sans me noircir d'un crime  
+N'accorder pas le sang qu'il attend pour victime,  
+Et laisser sa vangeance à decider au Sort [244],  
+N'est-ce pas devenir complice de sa mort ?  
+
+    SOSTRATE.
+Tousjours sur cette mort vous croyez vostre haine [245].  
+
+    CAMMA.
+Non, non, le crime est seur et l'injure⁎ certaine,  
+Sinatus, mais trop tard, connut la trahison,  
+Et tout prest d'expirer m'advertit du poison [246].  
+Sur ce funeste advis cent marques évidentes  
+M'en donnerent dés lors des preuves trop constantes,  
+Et le Tyran depuis luy-mesme en a fait foy⁎  
+A trahir la Princesse, et soûpirer pour⁎ moy [247].  
+J'en sçay trop, et ton zéle en vain le justifie.  
+
+    SOSTRATE.
+L'apparence souvent abuse qui s'y fie,  
+Et contre Sinorix c'est un faible garand  
+Que d'avoir seulement le soupçon d'un mourant.  
+
+    CAMMA.
+Va, si l'indice est foible, ose pour sa défence  
+Me répondre qu'en luy j'outrage l'innocence,  
+Je t'en veux croire seul, mais aussi souviens-toy  
+Que s'il n'est point coupable, il est digne de moy.  
+
+    SOSTRATE.
+Ah, c'est pousser trop loin un effort⁎ magnanime,  
+Vous luy rendrez justice à le croire sans crime,  
+Mais…  
+
+    CAMMA.
+Mais tes vœux ardents à luy sauver le jour  
+Languiront si je songe à payer son amour ?  
+
+    SOSTRATE.
+Madame…  
+
+    CAMMA.
+Il me suffit ; puisque c'est te déplaire  
+Porte luy ma réponce, et dy luy qu'il espere,  
+Que mon cœur n'aime rien, et que dans peu sa foy⁎  
+Peut selon ses souhaits attendre tout de moy.  < Fin du second Acte. >
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE.
+SINORIX, PHAEDIME.
+
+
+    PHAEDIME.
+Ce changement, Seigneur, n'offre rien qui m'étonne⁎,  
+Je connois ce que peut l'éclat d'une Couronne,  
+Et n'ay jamais douté, malgré son feint couroux,  
+Que la Reine en secret ne fist des vœux⁎ pour vous.  
+
+    SINORIX.
+Quoy qu'encore contre moy quelque interest combate⁎,  
+Elle m'a confirmé le rapport de Sostrate,  
+Tout espoir est permis à mon cœur amoureux ;  
+Mais il faut que le temps aide à me rendre heureux,  
+J'ay voulu luy ceder pour montrer plus de zéle⁎.  
+
+    PHAEDIME.
+Non, non, pressez⁎, Seigneur, vous obtiendrez tout d'elle,  
+Déja son fier⁎ devoir voudroit estre forcé.  
+
+    SINORIX.
+D'un scrupule⁎ de gloire il est embarassé.  
+Aprés ses longs refus, un peu de bienseance  
+Doit l'obliger encor à quelque resistance [248],  
+C'est ce qu'à mon amour elle vient d'opposer.  
+
+    PHAEDIME.
+Sur un adveu⁎ si doux vous pouvez tout oser,  
+Menacez, contraignez, rien ne luy peut déplaire.  
+Mais puis-je m'expliquer sans estre temeraire ?  
+Tout vous rit, tout vous flate⁎, et cependant, Seigneur,  
+Je voy qu'un noir chagrin⁎ trouble vostre bonheur.  
+
+    SINORIX.
+Ouy, Phaedime, et mon ame étonnée⁎, interdite⁎,  
+Se veut en vain soustraire à l'horreur [249] qui l'agite.  
+Plus j'ay lieu de tenir mon bonheur asseuré,  
+Plus par de vifs remords je me sens déchiré.  
+Une secrete voix [250] que leur rigueur anime  
+De moment en moment⁎ me reproche mon crime,  
+Et lors que j'en fremis, pour me confondre⁎ mieux,  
+L'Ombre de Sinatus [251] se presente à mes yeux.  
+Pasle et défiguré plus qu'on ne peut comprendre,  
+Il sort de cette tombe où je l'ay fait descendre,  
+Et marquant du poison les efforts⁎ violents,  
+Il chancelle, et vers moy se conduit à pas lents.  
+Ses yeux, quoy qu'égarez, fixes sur le coupable,  
+Me lancent un regard affreux, épouvantable,  
+Et comme si c'estoit me faire peu souffrir [252],  
+Je l'entens s'écrier, *Tyran, il faut mourir*,  
+Il est temps d'expier ta criminelle flame⁎ ;  
+Tu m'as ravy le jour pour me ravir ma Femme,  
+Et trahissant ma Fille, adroit dans ce grand Art,  
+Tu luy voles un Trône où tu n'as point de part.  
+Ta lâche ambition s'estant pû satisfaire,  
+Tiens seur pour toy le prix que ton amour espere,  
+Mais prest de l'obtenir, tremble, et malgré tes soins⁎  
+Succombe au coup fatal que tu prévois le moins [253].  
+Là j'ay beau repousser cette funeste image,  
+L'horreur qu'elle me laisse accable mon courage,  
+Et sans cesse agitant mon esprit incertain  
+Me montre un bras levé pour me percer le sein [254].  
+
+    PHAEDIME.
+De ces vaines frayeurs il vaut mieux vous defendre,  
+Seigneur, qui contre vous oseroit entreprendre [255] ?  
+Vous mesme en le craignant cessez de vous trahir.  
+La Princesse sans doute a droit de vous haïr ;  
+Mais enfin, de regner son cœur toûjours avide  
+Ne prend point contre vous le desespoir pour guide [256],  
+Et tout ce grand éclat où l'enhardit⁎ son rang  
+Aspire à vostre main, et non à vostre sang.  
+
+    SINORIX.
+Mais puisqu'elle sçaura que j'ay fléchy la Reine,  
+Que ne permettra-t'elle aux transports de sa haine ?  
+Déjà, déjà peut-estre elle en sçait le secret.  
+
+    PHAEDIME.
+Quoy, Sostrate, Seigneur, seroit si peu discret ?  
+
+    SINORIX.
+Comme j'aime Sostrate à l'égal de moy-mesme  
+Je sçay bien que pour moy sa tendresse est extréme,  
+Qu'il donneroit cent fois tout son sang pour le mien,  
+Mais souvent l'amour parle, et croit ne dire rien.  
+Pour me tirer du trouble où ce soupçon me laisse,  
+Phaedime, de ce pas va trouver la Princesse,  
+Et par ses sentiments tâche de pressentir  
+Si de l'heur⁎ de ma flame⁎ il a pû l'advertir.  
+Il est bien mal-aisé, quoy que d'abord on feigne,  
+Que long-temps dans sa rage un grand cœur se contraigne,  
+Fais agir ton adresse à lire dans le sien.  
+
+    PHAEDIME.
+Je connois mon devoir et n'épargneray rien.  
+
+
+### SCENE II.
+
+    SINORIX.
+Dieux, dont les loix pour nous doivent estre adorables⁎,  
+Est-ce ainsi que j'ay crû vous trouver exorables⁎  
+Et me reserviez-vous à la necessité  
+De gemir du bonheur que j'ay tant souhaité ?  
+Helas ! fut-il jamais une infortune égale [257] ?  
+Quels que soient mes desirs, l'issuë en est fatale,  
+Et mes vœux⁎ acceptez, je ne fais seulement  
+Que prendre ailleurs ma peine, et changer de tourment.  
+Aprés avoir languy sous la disgrace⁎ extréme  
+Qui m'ostoit tout espoir d'obtenir ce que j'aime,  
+Je me sens maintenant et gêner⁎ et punir  
+Par le cruel remords que j'ay de l'obtenir.  
+Accablé de l'horreur qui dans mon cœur se glisse,  
+Je voudrois n'aimer plus pour en fuir le supplice,  
+Et dans ce qu'à mes yeux la Reine offre d'appas⁎,  
+J'aimerois mieux mourir que ne l'adorer pas.  
+Ainsi le triste⁎ excez de ce confus martyre  
+Fait revolter mon cœur contre ce qu'il desire,  
+Et contraire à moy-mesme en mes propres desseins  
+Je crains ce que je veux, et veux ce que je crains.  
+Ah, qu'il est mal-aisé qu'une ame genereuse⁎  
+Tire d'un noir forfait dequoy se rendre heureuse,  
+Et qu'aux cœurs dont le zele⁎ à la gloire est offert,  
+Le bonheur coûte cher quand le crime l'acquiert !  
+Mais quoy ? d'où tout à coup me vient ce nouveau trouble ?  
+Mon désordre s'augmente, et ma frayeur redouble.  
+Est-ce un advis du Ciel qui cherche à m'annoncer  
+L'arrest que son couroux s'appreste à prononcer ?  
+Il est juste, et d'un Roy quand j'ay fait ma victime,  
+S'il punit par le foudre⁎, il le doit à mon crime.  
+Dieux, hâtez-en la peine, ou m'ostez ces soupçons [258].  
+
+
+### SCENE III.
+SINORIX, CAMMA, SOSTRATE.
+
+
+    CAMMA *paroissant à un des costez du Theatre*,
+Et tirant un poignard.
+
+L'occasion est belle, il est seul, advançons.  
+
+    SINORIX.
+O Sinatus !  
+
+    SOSTRATE *paroissant à l'autre costé du theatre, et voyant Camma qui s'advance vers Sinorix un poignard à la main.* [259]
+Que vois-je ! Ah !  
+
+    CAMMA.
+Perdons cét infame.  
+Dans l'instant que la Reine leve le bras pour fraper Sinorix, Sostrate luy saisit la main, Sinorix se détourne, et le poignard tombe sans qu'il puisse connoistre de quelle main.
+
+Que fais-tu, mal-heureux ?  
+
+    SOSTRATE.
+Que faites-vous, Madame ?  
+
+    SINORIX *se détournant et se saisissant du poignard.*
+Justes Dieux, un Poignard ! On en veut à mes jours,  
+A moy, Gardes, à moy, qu'on vienne à mon secours.  
+
+    SOSIME *entrant avec des Gardes.*
+Seigneur.  
+
+    SINORIX.
+La trahison d'un faux succez suivie  
+Vient d'employer ce fer pour m'arracher la vie ;  
+Mais j'ay tort d'accuser mon ingrat ennemy,  
+Il n'est dans son forfait coupable qu'à demy,  
+Il suit l'ordre du Ciel dont l'arrest trop severe  
+Trouve pour moy la mort une peine legere [260],  
+Et d'un lâche assassin n'arreste la fureur  
+Qu'afin que la menace en redouble l'horreur.  
+C'est peu que dans mon sang cette fureur s'esteigne,  
+Avant que j'y succombe il veut que je la craigne,  
+Et dans cette frayeur pour mieux m'envelopper,  
+Il retire le bras sur le point de fraper.  
+Sa cruelle pitié qui de mon Sort decide  
+M'envoye un protecteur avec un Parricide⁎,  
+Et dans le mesme instant, d'un effort⁎ different  
+L'un attaque ma vie, et l'autre la défend.  
+Voudrez-vous m'éclaircir ce coup abominable,  
+Madame ? je le vois, et le trouve incroyable,  
+Et mon cœur qu'en confond le projet odieux,  
+Cherche sur tant de rage à démentir mes yeux.  
+
+    CAMMA.
+Vous avez peu besoin que je vous éclaircisse,  
+Un autre peut icy vous rendre cet office⁎,  
+Et dans l'effort⁎ douteux [261] qui vous comble d'effroy  
+Le fidelle Sostrate a plus de part que moy.  
+
+    SINORIX.
+Et bien, parle, Sostrate, et me tire de peine.  
+Suivras-tu contre moy l'exemple de la Reine,  
+Et voudras-tu comme elle en cét évenement  
+Refuser quelque jour⁎ à mon aveuglement ?  
+
+    SOSTRATE.
+Non, Seigneur, c'est en vain que je voudrois me taire,  
+Vous avez veu l'effort⁎ que mon bras vient de faire ;  
+Le crime veut du sang, et sans rien balancer⁎,  
+Sçachant ce qui m'est dû, vous devez prononcer.  
+
+    SINORIX.
+Traistre, par cét adveu⁎ mets le comble à ta rage,  
+Je ne voyois que trop le crime qui t'engage,  
+Mais pour avoir pretexte à t'en justifier,  
+Je voulois que du moins tu l'osasses nier.  
+La Reine en ta faveur ayant voulu se taire  
+Me donnoit jour⁎ à prendre une erreur volontaire [262] ;  
+Et si par ton silence il m'eust esté permis,  
+Je t'ostois de l'abysme où ta flame⁎ t'a mis.  
+Aidé de ce silence à toy seul favorable  
+Je me fusse contraint à douter du coupable,  
+Et j'aurois pû par là dans un sort si cruel  
+Donner à l'innocent [263] les jours du criminel.  
+Dans celuy dont ma mort a sçeu toucher l'envie  
+J'eusse craint de punir qui [264] m'a sauvé la vie,  
+Et la peine et le prix qu'à tous deux je vous doy  
+Fussent restez secrets entre mon cœur et moy ;  
+Mais c'est peu qu'à ma perte un lâche espoir t'anime,  
+Si tu ne fais encore vanité de ton crime,  
+Et si l'indigne adveu⁎ que ta fureur en fait  
+Ne tâche aux yeux de tous d'en supléer l'effet [265].  
+Ingrat, de mes bienfaits est-ce la recompense ?  
+
+    SOSTRATE.
+Ils sont tous dans mon cœur mieux gravez qu'on ne pense ;  
+Mais enfin, je l'advouë, il ne peut consentir  
+Que de ce que j'ay fait j'ose me repentir.  
+Vous m'apprestez la mort, et ce cœur la desire,  
+Elle seule aujourd'huy fait tout l'heur⁎ où j'aspire,  
+Et pour mieux la haster, sçachez que cette main  
+En mesme occasion auroit mesme dessein ;  
+Que cent fois de nouveau l'effort⁎ qu'elle a sçeu faire…  
+
+    SINORIX.
+Quoy, traistre jusques-là ta rage te peut plaire ?  
+Et bien, sçache à ton tour que plus tu me fus cher,  
+Moins ce cœur dans ton sort se laissera toucher ;  
+Que l'amitié par toy lâchement outragée  
+Sur ton sang hautement sera par moy vangée,  
+Et que de ma tendresse estouffant la chaleur  
+Je le verray couler sans la moindre douleur.  
+Mais pardonnez, Madame, aux transports qu'authorise  
+Du plus noir attentat⁎ la plus lâche entreprise,  
+Et qui m'offrant un gouffre ouvert de toutes parts,  
+Sur le coupable seul arreste mes regards.  
+Surpris de sa fureur je m'emporte, et j'oublie,  
+Quand je luy dois la mort, que je vous dois la vie,  
+Et que m'abandonnant à cét ardent couroux,  
+Ce cœur juste pour luy devient ingrat pour vous.  
+Sans vous je n'estois plus, sans vous, triste⁎ victime,  
+Mon sang d'un Parricide⁎ eut couronné le crime,  
+Et dans ce grand secours, c'est peu le meriter  
+Que songer à punir plustost qu'à m'acquiter.  
+Souffrez⁎ donc qu'à vos pieds…      
+
+    CAMMA.
+Ah, c'est trop me confondre⁎.  
+Je voy, j'entens, j'écoute, et ne sçay que répondre,  
+Et mon esprit confus, surpris, inquiété,  
+Tombe enfin malgré moy dans la stupidité⁎.  
+Ce que Sostrate a fait m'est la plus rude offence,  
+Je voudrois toutefois parler en sa defense,  
+Et lors qu'en sa faveur la pitié m'entretient,  
+Un autre sentiment m'inspire, et me retient [266].  
+
+    SINORIX.
+Vous, Madame, defendre un perfide, un infame ?  
+
+    SOSTRATE.
+Non, non, de grace, non, ne dites rien, Madame,  
+Et sans vouloir pour moy tenter un vain effort⁎  
+A toute ma disgrace⁎ abandonnez mon sort.  
+Tout ce que vous diriez pour garantir ma teste  
+Me seroit plus cruel que la mort qu'on m'appreste,  
+Par là mon desespoir se verroit achevé,  
+Et je mourrois cent fois si vous m'aviez sauvé.  
+
+    SINORIX.
+Par cette lâche ardeur de perir pour son crime,  
+Admirez contre moy quelle rage l'anime,  
+Et le charme qu'il trouve à se rendre aujourd'huy  
+Indigne des bontez que vous auriez pour luy.  
+
+    CAMMA.
+A quoy [267] qu'en son malheur sa fierté⁎ le hazarde,  
+Je ne vous dis plus rien sur ce qui le regarde,  
+Mais sur vos interests, vous devez présumer  
+Que si son entreprise a pû vous alarmer,  
+Si d'un effroy secret vostre ame embarassée  
+Se trouve à quelque trouble indignement forcée,  
+Ces alarmes, ce trouble, et ces sujets d'effroy [268]  
+Sont des maux qu'aujourd'huy vous souffrez malgré moy,  
+Qu'à vous les épargner aussi prompte qu'ardente…  
+
+    SINORIX.
+O de bonté pour moy preuve trop obligeante !  
+Je me tais tout remply de ce que vous pensez,  
+Et je ne vous dis rien ne pouvant dire assez.  
+Mais toy, qui mets ta gloire à braver les supplices,  
+Aprés t'estre accusé nomme-nous tes complices,  
+Et sçachons quel soûtien⁎ assez ferme, assez fort,  
+Engageoit ton audace à resoudre ma mort.  
+Sous l'effort⁎ de ton bras apprens-nous qui conspire.  
+
+    SOSTRATE.
+Je vous ay dit, Seigneur, ce que j'avois à dire ;  
+Nommez ce que le Ciel vient de vous faire voir  
+Un effet de ma rage, ou de mon desespoir,  
+Il suffit qu'à punir une action si noire  
+Vos yeux vous soient garands de ce qu'il en faut croire,  
+Vous avez leur rapport, prononcez là-dessus,  
+J'ay parlé, j'ay tout dit, et ne sçay rien de plus.  
+
+    SINORIX.
+Quoy ? garder le silence est ta plus seure adresse  
+Pour tâcher de ton crime à sauver la Princesse ?  
+Va, tu nous tiens en vain ce grand secret caché,  
+L'arrest de son exil t'avoit déjà touché,  
+Et luy contant l'espoir que me souffre⁎ la Reine,  
+Tu n'as pû refuser un forfait à sa haine ?  
+Tu t'es montré soudain prest à m'assassiner ?  
+
+    SOSTRATE.
+Ah, contre-elle, Seigneur, qu'osez-vous soupçonner ?  
+J'atteste⁎ tous les Dieux, et je veux que leur foudre⁎  
+Tombe à vos yeux sur l'heure et me reduise en poudre,  
+Si dans ce grand projet qu'a détruit le hazard,  
+On peut à la Princesse imputer quelque part.  
+C'est moy seul dont le sang doit laver vostre injure⁎.  
+
+    SINORIX.
+Les sermens d'un perfide entraînent un parjure,  
+En vain tu crois par là nous ébloüir⁎ les yeux,  
+Qui peut perdre son Roy ne connoit point de Dieux [269].  
+
+
+### SCENE IV.
+SINORIX, CAMMA, HESIONE, SOSTRATE, PHAEDIME, SOSIME, GARDES.
+
+
+    SINORIX.
+Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?  
+
+    HESIONE.
+Nomme mieux un beau zéle⁎ où la gloire préside.  
+Je sçay par quel malheur son projet avorté  
+L'expose aux fiers⁎ transports d'un Tyran irrité [270],  
+Et viens avec plaisir complice de son crime  
+Offrir à sa fureur une double victime.  
+C'est pour moy que son bras dans son indigne sang  
+Cherchoit à reparer l'outrage de mon rang.  
+Par moy ce bras armé pour soûtenir⁎ ma haine  
+Perdoit l'usurpateur qui détrône sa Reine,  
+Et d'un illustre effort⁎ le genereux⁎ éclat  
+D'un honteux esclavage affranchissoit l'Estat.  
+Le Ciel dont contre toy le couroux se déguise  
+Nous oste exprés le fruit d'une belle entreprise,  
+Et pour voir où ta rage arrestera son cours  
+De Sostrate ou de moy t'abandonne les jours ;  
+Ose, et de mon destin prenant droit de resoudre,  
+De la main qui le lance arrache enfin le foudre⁎,  
+Et comblant des forfaits qu'on ne peut égaler  
+Oste aux Dieux le pouvoir de plus dissimuler.  
+Je suis preste à souffrir quoy que ta rage ordonne,  
+La plus affreuse mort n'aura rien qui m'estonne⁎,  
+Et le coup m'en plaira, s'il me peut épargner  
+L'horreur de te voir Maistre, où je devrois regner.  
+
+    SINORIX *à Sostrate.*
+Et bien ? j'ay fait sans doute injure⁎ à la Princesse,  
+Lâche, ton attentat⁎ n'a rien qui l'interesse,  
+Et j'ay dû [271], quand ton bras s'arme contre ton Roy,  
+Recevoir tes sermens pour garands de ta foy⁎ ?  
+
+    SOSTRATE.
+Qu'avez-vous dit, Madame, et que faites-vous croire ?  
+
+    HESIONE.
+J'ay dit ce qu'a voulu l'interest de ma gloire,  
+Et quand ce grand motif à mon cœur vient s'offrir,  
+Si je ne sçais aimer, du moins je sçay mourir [272].  
+
+    SINORIX.
+Non, vous ne mourrez point, et puisque par ma perte  
+L'asseurance du Trône à vos vœux est offerte,  
+J'aurois tort si j'osois retrancher de vos droits  
+Le pouvoir d'attenter une seconde fois.  
+
+    HESIONE.
+Une si juste ardeur suivra tousjours ma haine,  
+Mais je dois respecter les projets de la Reine,  
+Et ne poursuivre plus d'un effort⁎ si constant  
+Un Trône, où je découvre enfin qu'elle pretend.  
+
+    CAMMA.
+Ce chagrin⁎ inquiet incessamment⁎ vous gêne⁎.  
+
+    HESIONE.
+J'ay soupçonné d'abord, mais je parle certaine,  
+Et je ne vous fais icy qu'un reproche trop dû,  
+Quand le Trône sans vous m'auroit esté rendu.  
+Rompre un coup qui perdoit l'autheur de ma misere,  
+C'est avoüer le vol qu'un traistre en a sçeu faire,  
+Et qui [273] dans cette honte a voulu s'engager,  
+N'en asseure le fruit que pour le partager.  
+
+    CAMMA.
+Sans me justifier, quoy que vous vueilliez croire [274],  
+Il suffit que mon cœur ait l'appuy de ma gloire,  
+Et que de mes desseins pleinement satisfait  
+Il puisse [275] m'applaudir sur tout ce que j'ay fait.  
+Cependant dans son sort Sostrate estant à plaindre,  
+Je vous laisse calmer l'orage qu'il doit craindre,  
+Et me remets au temps à voir [276] qui de nous deux  
+Avec plus de succez aura conduit ses vœux⁎.  
+
+
+### SCENE V.
+SINORIX, HESIONE, SOSTRATE, PHAEDIME, SOSIME, GARDES.
+
+
+    SINORIX.
+Princesse, tant d'orgueil lasse ma patience,  
+La Reine icy toûjours garde pleine puissance,  
+Et quand vous l'offencez, c'est à moy de vanger  
+Les outrages piquants⁎ qu'elle ose negliger.  
+Déjà dessous vos pas [277] s'ouvre le précipice,  
+Si je veux consentir à me faire justice,  
+Et si vous ne songez [278] à vous mieux secourir…  
+
+    HESIONE.
+A quelle indignité je te voy recourir !  
+Quoy, sur ce vain couroux tu crois que je me rende ?  
+Eclate, ordonne, agis, c'est ce que je demande,  
+Mais ne t'arreste pas, quand tu peux m'accabler,  
+A l'inutile effort⁎ de me faire trembler ;  
+Car enfin tu le sçais, Tyran, quoy que tu fasses,  
+Je te dédaigne trop pour craindre tes menaces.  
+Du Destin qui me perd la fatale rigueur  
+Ne sçauroit abaisser ny mon rang ny mon cœur,  
+Malgré sa lâcheté [279] j'ay l'ame toûjours vaine,  
+Malgré ta trahison je suis toûjours ta Reine,  
+Et j'ay la joye au moins que ton heureux projet,  
+S'il te fait mon Tyran, te laisse mon Sujet.  
+
+    SINORIX.
+Mais un pareil Sujet en peut aimer le titre  
+Quand du Sort de la Reine il s'est rendu l'arbitre,  
+Et qu'il en peut tenir le pouvoir limité  
+Dans les emportemens de sa seule fierté⁎.  
+Pour la gloire du rang conservez-la, Madame,  
+Tandis qu'à d'autres soins⁎ je livreray mon ame,  
+Et chercheray sur qui, dans ce noir attentat⁎,  
+De mon ressentiment doit s'estendre l'éclat,  
+J'en sçay dont en ma Cour l'appuy secret vous flate⁎.  
+
+    HESIONE.
+Je les éprouve⁎ donc plus lâches que Sostrate.  
+C'est luy seul dont le zéle à mes desirs se rend,  
+Je m'explique, il est prest, j'ordonne, il entreprend,  
+Tu tiens le criminel, je t'offre sa complice.  
+
+    SOSTRATE.
+Madame, qui vous porte à vous faire injustice,  
+A vouloir de mon sort partager le couroux ?  
+J'entreprens, il est vray, mais ce n'est pas pour vous,  
+Par mon seul interest j'ay dû…  
+
+    HESIONE.
+Qu'oses-tu dire ?  
+Je t'ay sollicité, c'est ton bras qui conspire,  
+Et tu cherches en vain à rejetter sur toy  
+Les motifs d'un beau coup qui ne sont deus qu'à moy [280].  
+
+    SOSTRATE.
+Mais, Madame…  
+
+    HESIONE.
+Non, non, c'est m'offencer, Sostrate,  
+Souffre d'un grand projet que la gloire me flate⁎.  
+Où le peril est beau m'empescher d'y courir,  
+C'est m'arracher la part que j'en puis acquerir.  
+
+    SINORIX.
+Quoy, genereuse⁎ assez pour ne luy pas survivre ?  
+
+    HESIONE.
+Ne pouvant le sauver, du moins je le dois suivre [281],  
+Et n'aurois dans mon sort à me plaindre de rien,  
+Si te donnant mon sang je conservois le sien.  
+
+    SINORIX.
+Et bien, pour satisfaire à cette noble envie  
+Je vous mets en pouvoir de luy sauver la vie.  
+Ouy, quoy qu'il ait tenté, je laisse à vostre choix  
+D'empescher contre luy la rigueur de nos loix.  
+Sostrate doit perir, tout le veut, tout m'en presse,  
+Mais je puis épargner l'époux de la Princesse,  
+Et sa grace pour vous est un effet certain  
+Si pour prix de son crime il obtient vostre main.  
+
+    SOSTRATE.
+Non, Seigneur, ordonnez la peine qui m'est deuë ;  
+Quand je verrois pour moy la Princesse renduë,  
+Sçachant quelle contrainte elle en pourroit sentir,  
+Jamais, jamais ce cœur n'y voudroit consentir.  
+
+    SINORIX.
+Fay, fay le magnanime [282], et souffre à⁎ ton audace  
+De braver ma vangeance et rejetter ma grace,  
+Mais j'en jure les Dieux qui m'ont soûmis ton sort,  
+Elle n'a que ce choix, son hymen, ou ta mort.  
+
+    HESIONE.
+Le détour est adroit, et me mettroit en peine  
+S'il pouvoit m'empescher de voir que je suis Reine,  
+Mais ma main dans ce rang ne sçauroit se donner  
+Qu'en remplissant le droit qu'elle a de couronner.  
+Par là de son refus ne croy pas qu'on s'étonne⁎,  
+Ta fureur m'a ravy ce qu'il faut qu'elle donne,  
+Et tu m'ostes ainsi par tes lâches forfaits  
+Le pouvoir d'accepter l'offre que tu me fais.                 1190  
+
+    SINORIX.
+Il mourra donc, Madame, et vous aurez la gêne⁎  
+De voir que vos mépris feront toute sa peine,  
+Et que de vostre main ce refus éclatant  
+Redoublera l'horreur de la mort qui l'attend.  
+Au moins ce luy doit estre un supplice assez rude  
+De n'en devoir l'arrest qu'à vostre ingratitude,  
+Et de voir qu'en effet, qui doit le secourir,  
+Quand je veux le sauver, le condamne à perir.  
+
+    HESIONE.
+Va, nous sçaurons dans peu, malgré ta lâche audace,  
+Si sa peine à ton tour n'a rien qui t'embarasse,  
+Et si dans le malheur que ses projets ont eu  
+Tu l'oseras punir d'un acte de vertu⁎ [283].  
+Alors cette douceur à ses vœux est offerte,  
+Que je suivray son sort, ou vangeray sa perte [284],  
+Et que hors mon hymen ne luy refusant rien,  
+Il aura pour victime, ou son sang, ou le mien.  
+
+    SOSTRATE.
+Ah, Madame, cessez de vous laissez surprendre…  
+
+    SINORIX.
+Fay le mettre en lieu seur, je suis las de l'entendre,  
+Sosime. Vous, Madame, advisez à⁎ ce choix,  
+Je veux bien vous l'offrir une seconde fois,  
+Mais dans une heure enfin si vostre main n'est preste,  
+La foudre⁎ l'est déjà pour lancer sur sa teste,  
+Songez-y.  
+
+    HESIONE.
+Tu pers temps [285] ; puisque sa mort te plaist,  
+Tonne contre tous deux, j'attendray ton arrest.  < Fin du troisiéme Acte >
+
+
+## ACTE IV.
+
+
+### SCENE PREMIERE.
+CAMMA, PHENICE.
+
+
+    CAMMA.
+L'Arrest en est donné ! que me dis-tu, Phenice [286] ?  
+
+    PHENICE.
+Qu'on dresse l'appareil⁎ d'un funeste supplice,  
+Et que c'est par sa mort qu'un Tyran inhumain  
+Punit ce fier⁎ refus de luy donner la main.  
+
+    CAMMA.
+Quoy, cet amy si cher ne trouve point de grace ?  
+
+    PHENICE.
+Enfin l'effet est prest de suivre la menace.  
+Jamais tant de fureur ne se peut concevoir  
+Qu'en tous ses sentimens Sinorix en fait voir.  
+Indigné de l'orgueil que montre la Princesse,  
+Il éclate, il foudroye⁎, il s'emporte sans cesse,  
+Et le rang qu'en son cœur Sostrate a sçeu tenir  
+Semble augmenter sa rage à le vouloir punir.  
+
+    CAMMA.
+Phenice, il est donc temps que ma vangeance cede,  
+Qu'au mal que j'ay causé j'oppose le remede,  
+Et qu'à tant de fureur, ce cœur reconnoissant  
+Par l'offre du coupable arrache l'innocent.  
+
+    PHENICE.
+Vous découvrir, Madame ? ah, que voulez-vous faire ?  
+
+    CAMMA.
+Espargner à Sostrate une mort volontaire,  
+Et ne permettre pas qu'il expie aujourd'huy  
+Le crime glorieux qu'il a jetté sur luy.  
+Dés lors [287] sans un époux dont l'interest me presse  
+J'eusse de son amour desadvoüé l'adresse,  
+Et n'aurois pas souffert que mon Tyran trompé  
+Le chargeast⁎ d'un forfait sur ma gloire usurpé [288] ;  
+Mais voyant Sinatus sans espoir de vangeance  
+Si je n'en confirmois l'abus par mon silence,  
+J'ay voulu m'y contraindre, et crû que la pitié  
+Luy feroit pour Sostrate écouter l'amitié.  
+C'est à moy, puisqu'enfin je l'en vois incapable,  
+A détruire une erreur qui cache le coupable,  
+A luy montrer le bras qui s'immoloit ses jours,  
+Et des Dieux pour le reste attendre le secours.  
+
+    PHENICE.
+Comme il faudra pour luy que vostre haine éclate,  
+Vous l'allez irriter sans secourir Sostrate.  
+N'ayant rien dit d'abord, vous luy ferez penser  
+Que vous n'avez dessein que de l'embarasser,  
+Et je crains que piqué⁎ de voir par là vostre ame  
+Desadvoüer l'espoir dont il flate⁎ sa flame⁎,  
+Il ne haste une mort dont par quelque interest  
+Il peut songer encor à suspendre l'arrest.  
+
+    CAMMA.
+Mais quand je luy diray qu'une ardeur de vangeance  
+M'a fait de ses forfaits cacher la connoissance ;  
+Que je sçay qu'en secret sa lâche trahison  
+Pour perdre Sinatus eut recours au poison ;  
+Qu'à vanger cette mort ma haine tousjours preste,  
+A Sostrate cent fois a demandé sa teste ;  
+Qu'à son refus tantost dans ma noble fierté⁎,  
+Mon bras se l'immoloit s'il ne l'eust arresté ;  
+Que l'adveu⁎ qu'à sa flame⁎ il a crû propice  
+Pour le mieux ébloüir⁎ n'estoit qu'un artifice⁎ [289],  
+Crois-tu que ce rapport trouve si peu de foy⁎  
+Qu'il le laisse douter entre Sostrate et moy ?  
+
+    PHENICE.
+Le voicy qui paroist ; avant que rien⁎ éclate  
+Songez à Sinatus, jettez l'œil sur Sostrate,  
+Et craignez qu'à sa rage abandonnant vos jours,  
+L'un ne soit sans vangeance, et l'autre sans secours.  
+
+
+### SCENE II.
+SINORIX, CAMMA, PHENICE, PHAEDIME, Suite de Sinorix.
+
+
+    SINORIX.
+Madame, je sçay bien que vous devant la vie,  
+Que sans vostre secours un lâche m'eust ravie,  
+On auroit dû déja me voir à vos genoux  
+Vous consacrer cent fois ce que je tiens de vous ;  
+Mais j'ay crû dans l'ardeur du couroux qui m'enflame  
+Vous devoir dérober les troubles de mon ame,  
+Sans cesse, je l'advouë, il me vient animer,  
+Et toute mon estude a peine à le calmer.  
+
+    CAMMA.
+La cause en est trop juste où le crime est extrême,  
+Mais souvent il est beau de se vaincre soy-mesme,  
+Et d'attacher sa gloire à ce pompeux⁎ éclat  
+Dont brille le pardon d'un indigne attentat⁎.  
+
+    SINORIX.
+Madame, c'est à quoy j'avois sçeu me contraindre,  
+A Sostrate déjà j'ostois tout lieu de craindre,  
+Et faisant sur moy-mesme un genereux⁎effort⁎,  
+Je laissois la Princesse arbitre de son sort ;  
+Mais avec tant d'orgueil, mais avec tant d'audace  
+Tous deux ont dédaigné que je leur fisse grace,  
+Qu'il faut qu'un châtiment aussi juste que prompt  
+Par le sang du perfide en repare l'affront.  
+
+    CAMMA.
+Quoy, la pitié pour luy ne touche point vostre ame,  
+Luy qui vous fut si cher, luy qu'enfin…  
+
+    SINORIX.
+Ah, Madame,  
+Que vous concevez mal, en pressant ma pitié,  
+Quelle horreur à l'outrage adjouste l'amitié !  
+Le coup que de tout autre on verroit sans colere  
+Nous arrache le cœur quand la main nous est chere,  
+Et l'oubly ne pouvant jamais s'en obtenir,  
+Ce cœur devient par là plus ardent à punir.  
+Si j'ay chery Sostrate, aprés son parricide⁎  
+J'aime mieux le voir mort que de le voir perfide,  
+Et trouve plus de peine en ce rude combat  
+A haïr un amy qu'à punir un ingrat.  
+
+    CAMMA.
+Mais enfin à present que je me vois remise  
+De ce trouble où tantost m'engageoit la surprise,  
+J'oys sans cesse mon cœur [290] me reprocher tout bas  
+Que j'ay fait son peril, et ne l'en tire pas [291].  
+Non que s'il s'agissoit encor de vostre teste  
+A de plus vifs efforts⁎ cette main ne fust preste,  
+Mais si vous tenez tout d'un genereux⁎ secours,  
+Pour les vostres sauvez je demande ses jours.  
+
+    SINORIX.
+Quel indigne party la pitié vous fait prendre !  
+
+    CAMMA.
+Estant sans interest je voudrois m'en défendre,  
+Mais quoy que vostre haine ait droit d'en murmurer,  
+Ayant fait son malheur je dois le reparer.  
+
+    SINORIX.
+Mais songez qu'évitant la peine qu'il merite…  
+
+    CAMMA.
+Mais songez que c'est moy qui vous en sollicite,  
+Et qu'aprés tant de vœux que j'ay peu [292] dédaigner,  
+S'ils sont ardents pour moy, c'est mal le témoigner.  
+
+    SINORIX.
+S'ils sont ardents pour vous ? qu'on améne Sostrate.  
+La vangeance déjà n'a plus rien qui me flate⁎,  
+Mais qu'au moins un triomphe et si grand et si beau  
+Sur vostre fier⁎ devoir m'en acquiere un nouveau,  
+Faites à vostre tour que sa rigueur se rende,  
+Vous me demandez grace, et je vous la demande [293] ;  
+Cessez de reculer, pour me voir trop soûmis,  
+L'effet du doux espoir que vous m'avez permis.  
+J'estonne⁎ mon respect, il tremble en ce que j'ose,  
+Mais à qui donne tout vous devez quelque chose,  
+Et mon couroux vaincu peut-estre a merité  
+L'entier et prompt adveu⁎ de ma felicité.  
+
+    CAMMA.
+Donc ces fortes raisons par vous mesme approuvées  
+Sont chimeres en l'air que ma crainte a resvées ?  
+J'ay montré ma foiblesse à leur trop déferer ?  
+
+    SINORIX.
+Il suffisoit tantost⁎ de me faire esperer,  
+Mais contre ce devoir et cette bienseance  
+Qu'opposoit le scrupule à mon impatience,  
+Le sang [294] où ma vangeance a voulu renoncer  
+Authorise l'hymen dont j'ose vous presser ;  
+A ce prix seulement mon cœur vous l'abandonne.  
+
+    CAMMA.
+C'est là ce grand pouvoir que vostre amour me donne ?  
+Vous m'osez refuser quand j'ay crû ne devoir…  
+
+    SINORIX.
+C'est blesser cét amour, j'en suis au desespoir,  
+Mais contre les fureurs d'une fiere⁎ Princesse  
+Dans ce juste refus ma gloire s'interesse,  
+Et ne sçauroit souffrir⁎ que par ses attentats⁎,  
+Elle m'ait fait trembler, et n'en soûpire pas.  
+Il faut, si le Coupable échape à ma justice,  
+Que demain vostre hymen me vange et la punisse,  
+Et que le vain effort⁎ d'un coup si malheureux  
+Luy coûte la douleur de m'avoir fait heureux.  
+
+
+### SCENE III.
+SINORIX, CAMMA, SOSTRATE, PHAEDIME, SOSIME, PHENICE, GARDES.
+
+
+    SINORIX.
+Approche, et quoy qu'ait pû ta criminelle audace,  
+Pour la seconde fois viens recevoir ta grace.  
+Ce cœur que rien pour toy ne pouvoit plus toucher,  
+En faveur de la Reine ose me l'arracher,  
+Elle est entre ses mains, tu peux l'obtenir d'elle.  
+
+    CAMMA.
+Est-ce me la donner qu'abuser de mon zéle,  
+Et m'imposer des loix dont le fatal accord,  
+Ou hazarde ma gloire, ou le livre à la mort ?  
+
+    SOSTRATE.
+Ah, Madame, il se peut que ce choix vous arreste ?  
+Mon destin est trop beau pour en estre inquiete [295],  
+C'est en ternir l'éclat que de me secourir,  
+Conservez vostre gloire, et me laissez mourir.  
+
+    SINORIX.
+Quoy, traistre, jusqu'au bout obstiné dans ta rage  
+L'effet de mes bontez te tiendra lieu d'outrage [296] ?  
+Ta grace t'est offerte, il est vray ; mais apprens  
+Que c'est contre mes vœux que pour toy je me rends ;  
+Que tout ce qu'ont d'horreur les plus affreux supplices  
+Feroit à te punir mes plus cheres delices,  
+Et que j'attacherois leur plus charmant transport⁎  
+A goûter à longs traits le plaisir de ta mort.  
+Aprés un tel adveu⁎ fuy tes fieres⁎ maximes,  
+Fais encor vanité de voir punir tes crimes,  
+Aux bontez de la Reine oppose tes refus.  
+
+    CAMMA.
+Quoy, j'aurois fait pour luy des efforts⁎ superflus ?  
+Ah, songez…  
+
+    SINORIX.
+Non, Madame, il y va de ma gloire,  
+Souffrez à⁎ mon amour cette juste victoire ;  
+Je sçay que resister lors que vous commandez  
+C'est trahir le respect que vous en attendez,  
+Mais je dois à mon rang pour punir la Princesse,  
+Ou le sang d'un perfide, ou l'hymen que je presse.  
+Si mon bonheur trop prompt a dequoy vous gêner⁎  
+A son lâche destin daignez l'abandonner ;  
+Il ne vaut pas, l'ingrat, que par reconnoissance,  
+Vous vous fassiez pour luy la moindre violence,  
+Ny qu'il coûte à ce cœur qu'ont charmé vos appas⁎  
+Le pressant déplaisir⁎ de ne vous ceder pas.  
+Mais enfin c'est en vain que l'amour m'y convie,  
+Vostre main seule a droit de racheter la vie,  
+Et vous pouvez choisir, si ce prix est trop haut,  
+De monter sur le Trône, ou luy sur l'échafaut.  
+C'est dequoy j'attendray la réponce certaine.  
+Qu'on se tienne éloigné par respect pour la Reine [297].  
+Je le laisse avec vous afin que ses advis,  
+S'ils flatent⁎ vos souhaits, puissent estre suivis.  
+
+
+### SCENE IV.
+CAMMA, SOSTRATE.
+
+
+    CAMMA.
+Sous quel voile trompeur le lâche se déguise !  
+A me tyranniser sa gloire l'authorise,  
+Quand il m'arrache l'ame, il agit par vertu ? [298]  
+Ah, Sostrate, Sostrate, à quoy me reduis-tu ?  
+
+    SOSTRATE.
+A daigner [299], pour le prix de l'amour le plus rare,  
+Avoüer [300] mon destin de l'heur⁎ qu'il me prepare,  
+Et laissant Sinorix dans son aveuglement,  
+Honorer d'un soûpir la perte d'un Amant.  
+
+    CAMMA.
+Tu dois estre content si ton erreur t'est chere,  
+Ton amour l'a fait naistre, et je sçauray la taire,  
+Tu le veux, j'y consents, elle aura son effet.  
+
+    SOSTRATE.
+Ah, puisqu'il est ainsi, que je meurs satisfait !  
+Madame… [301]  
+
+    CAMMA.
+Quoy, mourir ? tu me crois assez lâche  
+Pour te livrer au sort dont ta vertu m'arrache ?  
+Si je cache l'abus qui t'expose à perir,  
+C'est par la seule peur de te mal secourir.  
+Le Tyran redoublant la rage qui l'anime  
+De ton amour pour moy te pourroit faire un crime,  
+Et dans son desespoir, sa fureur le pressant⁎,  
+Confondre le coupable avecque l'innocent.  
+Ainsi mon imprudence, à suivre cette envie,  
+Du moins à ce peril exposeroit ta vie,  
+Et quand je te la dois c'est à moy de trouver  
+L'infaillible moyen de te la conserver.  
+
+    SOSTRATE.
+Quel moyen où l'amour n'a point eu de puissance ?  
+
+    CAMMA.
+Celuy que d'un Tyran m'offre la violence.  
+
+    SOSTRATE.
+Quoy, Madame…  
+
+    CAMMA.
+Je tremble à me le proposer,  
+J'en fremis, mais enfin il le faut épouser.  
+
+    SOSTRATE.
+Luy contre qui tantost⁎ vous osiez entreprendre ?  
+
+    CAMMA.
+Luy dont encor le sang me plairoit à répandre,  
+Luy dont, si le hazard m'offroit un coup certain,  
+Au peril de cent morts j'irois percer le sein ;  
+Mais cette occasion si difficile à prendre,  
+Tu me mets hors d'estat de la pouvoir attendre,  
+Ta vie est en danger, et pour te secourir  
+Il me faut faire plus mille fois que mourir.  
+Il me faut consentir qu'un honteux hymenée  
+A mon lâche Tyran joigne ma destinée,  
+Il me faut violer les devoirs les plus saints [302],  
+Ne me condamne point, c'est toy qui m'y contrains,  
+C'est toy qui t'opposant à ma noble colere [303]  
+Me plonges dans un gouffre où tout me desespere,  
+Où quoy que mes malheurs offrent à mes regards,  
+Ce n'est qu'accablement [304], qu'horreur de toutes parts,  
+Où d'un triste⁎ devoir déplorable victime  
+Je connois, je deteste, et couronne le crime,  
+Mais je raisonne en vain sur un point resolu [305],  
+Il n'y faut plus penser, c'est toy qui l'as voulu.  
+
+    SOSTRATE.
+Et bien, de tous ces maux où seul je vous expose  
+Souffrez vous⁎ la douceur de voir punir la cause,  
+Et ne m'enviez point la gloire d'une mort  
+Qui de tant de malheurs affranchit vostre sort.  
+Par ce profond respect dont l'asseurance offerte…  
+
+    CAMMA.
+Moy, que si lâchement je consente à ta perte ?  
+Que te devant le jour je t'en laisse priver ?  
+
+    SOSTRATE.
+Helas, Madame helas ! pouvez-vous me sauver [306] ?  
+En l'estat où je suis ma mort est asseurée,  
+Mon maistre et mon amour à l'envy l'ont jurée,  
+Et je la voy par tout certaine à recevoir, ⁎  
+Ou d'un arrest funeste, ou de mon desespoir.  
+Rendre par vostre hymen cét arrest inutile,  
+Pour une seule mort c'est me livrer à mille ;  
+C'est changer la douceur du sort le plus heureux  
+En tout ce que sa haine a jamais eu d'affreux.  
+Mon ame à ce penser⁎ de frayeur possedée  
+D'un si cruel revers n'ose prendre l'idée,  
+Ny montrer à mes sens interdits⁎, égarez,  
+Toute l'horreur des maux que vous me préparez,  
+Leur menace déjà rend mon tourment extréme.  
+Madame, par pitié sauvez-moy de moy-mesme [307],  
+Et ne remettez point à mes vives douleurs  
+A contraindre ma main de finir mes malheurs.  
+
+    CAMMA.
+Le dessein que je prens t'est un rude supplice,  
+Je le sçay, mais toy-mesme en loüeras la justice,  
+Puisque par sa rigueur je rens ce que je doy  
+A ce qu'a fait ton zéle et pour et contre moy [308].  
+A m'arrester le bras et m'immoler ta vie [309]  
+Tu m'as en mesme temps offencée et servie,  
+Et je dois par l'hymen dont tu me vois presser⁎  
+Te punir tout ensemble et te recompenser [310].  
+Devant tout aux motifs de ta noble imposture,  
+Il m'acquite vers toy par le jour qu'il t'asseure,  
+Et m'ayant outragée à secourir ton Roy,  
+Par l'horreur de me perdre il me vange de toy.  
+Ainsi des deux costez il fait plus qu'on ne pense,  
+En payant le service il repare l'offence,  
+Et de tes jours sauvez te faisant un tourment,  
+Au prix qui les rachete il joint le châtiment.  
+
+    SOSTRATE.
+Quelle justice, helas, vostre haine authorise ?  
+J'ay rompu, je l'advouë, une triste⁎ entreprise,  
+Mais ce crime est-il tel que bien examiné  
+Il merite la peine où je suis condamné [311] ?  
+Faut-il que mon devoir toûjours inébranlable  
+M'attire un châtiment qui n'a point de semblable,  
+Et pour vous satisfaire en de si rudes coups  
+La mort que je demande en est-elle un trop doux ?  
+
+    CAMMA.
+Si la severité⁎ qu'exerce ma vangeance  
+Paroist à ton amour au dessus de l'offence,  
+Aussi, quoy que pour moy ton zéle⁎ ait entrepris,  
+Tu vois que le service est au dessous du prix.  
+C'est une illustre mort que ton amour affronte,  
+Mais pour la détourner je me couvre de honte,  
+Ton zéle⁎ à mon peril sacrifioit tes jours,  
+Et j'immole ma gloire à celuy que tu cours [312].  
+Pour toy je l'asservis au sort le plus infame,  
+De mon Tyran pour toy j'ose me rendre femme [313],  
+Deshonorer mon rang, obscurcir ma vertu.  
+Sostrate, encor un coup [314], à quoy me reduis-tu [315] ?  
+
+    SOSTRATE.
+Mais vous mesme obstinée à me perdre, à vous nuire,  
+A quoy, Madame, à quoy vous osez-vous reduire ?  
+Au plus honteux projet vostre cœur se resout,  
+Il le sçait, il le voit.  
+
+    CAMMA.
+Je vois tout, je sçais tout,  
+Mais en vain de mon sort l'épouventable image  
+Te laisse quelque espoir d'ébranler mon courage.  
+Pour te sauver le jour l'effort⁎ est resolu,  
+Je te l'ay déjà dit, c'est toy qui l'as voulu.  
+
+    SOSTRATE.
+Dites, dites plustost que du Trône touchée  
+Vostre ame à la vangeance enfin s'est arrachée,  
+Et voit avec plaisir le supréme pouvoir  
+Estouffer par empire un si juste devoir [316] ;  
+Que des vœux⁎ d'un Sujet l'importune memoire  
+D'un reproche honteux accabloit vostre gloire,  
+Et que quoy que vers vous ait merité ma foy⁎,  
+Il falloit les [317] confondre en épousant un Roy [318].  
+Dites qu'à les souffrir⁎ vous ayant sçeu contraindre,  
+Le sort le plus cruel ne me rend point à plaindre,  
+Que si vous conceviez une plus rude mort…  
+Mais où m'emporte, helas ! mon aveugle transport⁎ ?  
+A sa coupable audace ordonnez un supplice,  
+Madame, je le sçay, je vous fais injustice,  
+Mais ce cœur déchiré par mille affreux combats,  
+S'il vous en faisoit moins, ne vous aimeroit pas.  
+Dans l'excez des malheurs que le Ciel m'a fait naître [319],  
+Qui ne se connoit plus, peut ne vous pas connoître,  
+Je me pers, je m'égare, et dans mon desespoir  
+Je ne puis écouter ny raison, ny devoir [320],  
+Mon amour s'abandonne au torrent qui l'entraîne [321].  
+
+
+### SCENE V.
+CAMMA, HESIONE, SOSTRATE.
+
+
+    SOSTRATE.
+Ah, Madame, empeschez le dessein de la Reine,  
+Trop injuste pour vous, trop aveugle pour moy,  
+Pour me sauver la vie, elle épouse le Roy.  
+
+    HESIONE.
+On m'apprend à quel prix il t'est permis de vivre,  
+Et je n'ay point douté de ce que je voy suivre.  
+Le zéle est genereux⁎, et j'ay bien à rougir  
+Qu'où mon cœur n'ose rien une autre vueille agir.  
+L'effort⁎ que je refuse à ma reconnoissance  
+Par sa seule pitié la Reyne s'y dispense⁎,  
+Et pour sauver tes jours d'un arrest inhumain,  
+Je n'offre que du sang, elle donne la main.  
+D'un plus noble triomphe eut-on jamais la gloire ?  
+
+    CAMMA.
+Il peut me coûter plus que vous ne voudrez croire.  
+
+    HESIONE.
+Comme de son éclat tout mon cœur est surpris,  
+Je l'examine assez pour en sçavoir le prix.  
+On veut perdre Sostrate, et quand je l'abandonne,  
+Daigner monter au Trône et prendre une Couronne  
+Pour l'arracher au sort dont il est combatu⁎,  
+C'est l'effet d'une rare et sublime vertu.  
+
+    CAMMA.
+Chacun dans ses malheurs est juge de la sienne,  
+Mais, Princesse, aujourd'huy que rien ne vous retienne,  
+Je ne déguise point ce que vous connoissez,  
+Pour rompre mon hymen éclatez, agissez,  
+Puisqu'il empesche seul un injuste supplice,  
+Puisqu'il sauve Sostrate…  
+
+    SOSTRATE.
+Ah, souffrez⁎ qu'il perisse,  
+Qu'il remplisse en mourant la gloire de son sort.  
+à Hesione.
+
+Madame, s'il se peut, obtenez-moy la mort,  
+Empeschez l'injustice où se porte la Reine.  
+
+    HESIONE.
+Non, non, Sostrate, non, ton esperance est vaine,  
+Lors que l'offre d'un Trône a droit de nous flater⁎,  
+Quels qu'en soient les degrez, il est beau d'y monter.  
+C'est par là qu'on s'asseure une illustre memoire [322].  
+
+    CAMMA.
+Il est divers⁎ chemins qui ménent à la gloire [323].  
+
+    HESIONE.
+Y pretendre arriver par des moyens si bas,  
+Ce sont de vos secrets qu'on ne penetre pas.  
+
+    CAMMA.
+Je n'ay point d'autre choix dans celuy qu'on me laisse,  
+Nommez-en les motifs injustice, bassesse,  
+Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,  
+Je porte ma réponce, et n'écoute plus rien.  
+
+
+### SCENE VI.
+HESIONE, SOSTRATE.
+
+
+    SOSTRATE.
+Madame… elle nous quitte. O cœur impitoyable !  
+Pouvois-je craindre, helas ! un sort plus effroyable ?  
+Princesse…  
+
+    HESIONE.
+Va, c'est trop, quitte ce desespoir,  
+Sostrate, ton amour a bien fait son devoir.  
+Pour vaincre les malheurs dont je suis poursuivie  
+Tu m'as aveuglement sacrifié ta vie ;  
+Si les Dieux ont trahy ton espoir et le mien,  
+N'en estant point garand, je ne t'impute rien,  
+Calme ces déplaisirs⁎ à qui [324] ta raison cede.  
+
+    SOSTRATE.
+Ne me consolez point, mes maux sont sans remede,  
+Et quand le Ciel s'obstine à me pousser à bout,  
+Madame, c'est à moy de répondre de tout.  
+
+    HESIONE.
+Si pour t'obtenir grace aprés ton entreprise  
+A l'hymen d'un Tyran la Reine s'authorise,  
+C'est par là que les Dieux peut-estre ont resolu⁎  
+De remettre en mes mains le pouvoir absolu.  
+Tout le peuple en secret plaignant ma destinée  
+De Sinorix pour moy souhaite l'hymenée,  
+Et nous verrons du sang sans doute répandu  
+S'il voit qu'elle partage un Trône qui m'est dû [325].  
+Conserve-moy ton zele⁎, et pour heureux présage  
+Voy ta Princesse ferme au milieu de l'orage.  
+Adieu, je vais agir, cependant souviens-toy  
+Que tu peux, si je regne, esperer tout de moy.  
+Elle sort et Sosime rentre.
+
+
+    SOSTRATE.
+Quel espoir où je vois abysme sur abysme,  
+Où les Dieux irritez, où la Reine… Ah, Sosime [326] !  
+
+    SOSIME.
+Seigneur, si la pitié que j'ay de vostre sort…  
+
+    SOSTRATE.
+Allons, et s'il se peut, qu'on me méne à la mort.  < Fin du quatrième Acte. >
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE.
+SOSTRATE, SOSIME. [327]
+
+
+    SOSTRATE.
+Quoy, d'un si dur revers ma disgrace⁎ est suivie,  
+Sosime, et malgré moy l'on me laisse la vie [328] ?  
+
+    SOSIME.
+Seigneur, vous plaignez-vous quand cét illustre effort⁎  
+Vous épargne l'horreur d'une honteuse mort ?  
+Sinorix a donné sa vangeance à la Reine,  
+Mais aprés ce triomphe obtenu sur sa haine,  
+Ce qui suit, quoy que juste, estonnant⁎ vos desirs  
+Vous contraindra sans doute à pousser des soûpirs.  
+
+    SOSTRATE.
+Je sçay quel coup affreux la Fortune me garde,  
+La Reine…  
+
+    SOSIME.
+Ce malheur n'a rien qui la regarde,  
+C'est à vostre amour seul qui s'offre à redouter.  
+La Princesse tantost a voulu s'emporter ;  
+Contre l'ambition d'une Reine infidelle,  
+Peuple, *a-t'elle crié,* prendras-tu ma querelle⁎ ?  
+C'est pour la couronner que me manquant de foy⁎  
+Un Tyran a trahy la Fille de ton Roy.  
+Par ces mots pleins d'ardeur allant de place en place  
+Dans les cœurs les plus froids elle a mis de l'audace,  
+Et les auroit contraints peut-estre d'éclater  
+Si soudain Sinorix ne l'eust fait arrester.  
+Dans son appartement il la tient prisonniere,  
+Et comme on ne peut rien sur une ame si fiere⁎,  
+Je crains que cét effort⁎ imprudemment tenté  
+Ne le force à l'exil qu'il avoit arresté.  
+
+    SOSTRATE.
+Mais la Reine, Sosime, à quand son hymenée [329] ?  
+
+    SOSIME.
+La pompe⁎ vient, Seigneur, d'en estre terminée.  
+
+    SOSTRATE.
+Quoy, c'en est déjà fait ? ah destins ennemis !  
+La Reine est mariée, et les Dieux l'ont permis.  
+Au moins, dy moy, Sosime, en cette rude atteinte  
+Ce qu'elle a témoigné de douleur, de contrainte.  
+C'est pour moy qu'à l'hymen son cœur violenté…  
+
+    SOSIME.
+Cessez, cessez, Seigneur, d'en estre inquieté [330].  
+Dans les biens les plus grands que le Ciel nous envoye  
+Jamais sur un visage on n'a veu plus de joye.  
+Tandis que Sinorix donne ordre aux Factieux,  
+Dans le Temple enfermée elle invoque les Dieux,  
+Où si tost qu'il paroist, se voyant sans Rivale,  
+Elle fait apporter la Coupe Nuptiale [331],  
+Baise le sacré Vase [332], et s'approchant du Roy,  
+Dieux, *dit-elle,* soyez les témoins de ma foy⁎.  
+Là pour suivre nos loix le portant à la bouche,  
+On lit dedans ses yeux [333] le plaisir qui la touche,  
+Et le Roy que possede un transport⁎ éclatant,  
+Prend de sa main le vase, et l'imite à l'instant.  
+Vers le grand Prestre alors l'un et l'autre s'avance [334],  
+On voit croistre leur joye où leur bonheur commence,  
+Et c'est-là qu'aussi-tost s'estant donnez la foy⁎  
+L'hymen tout glorieux les unit sous sa loy.  
+Jugez par là, Seigneur, si vous avez à craindre  
+Que la Reine pour vous ait voulu se contraindre,  
+Elle aspiroit au Trône, et par de si beaux nœuds⁎,  
+En vous sauvant la vie, elle a remply ses vœux.  
+Il est doux d'obliger⁎ quand on gagne un Empire.  
+
+    SOSTRATE.
+Ah, Sosime, c'est trop, souffre⁎ que je respire,  
+Si mes maux sont si grands laisse-moy l'ignorer,  
+Et ne t'obstine point à me desesperer.  
+Avec tant de vertu seroit-il bien possible  
+Qu'aux douceurs d'un faux charme [335] on se rendist sensible,  
+Et que pour s'asseurer un indigne pouvoir  
+On renonçast à tout, à la gloire, au devoir ?  
+Non, non, cette pensée est lâche et criminelle,  
+Je la dois mieux connoistre, elle a l'ame trop belle,  
+C'est moy qui l'ay contrainte à ce funeste effort⁎,  
+Mais elle est mariée, et je ne suis pas mort.  
+C'est icy, mes douleurs, que j'implore vostre aide,  
+Peignez-moy bien l'horreur du mal qui me possede,  
+La Reine est mariée, et pour finir mes jours  
+Mon desespoir n'attend que ce triste⁎ secours.  
+
+    SOSIME.
+Que dites-vous, Seigneur, et que viens-je d'entendre ?  
+
+    SOSTRATE.
+Ce qu'au Roy, ce qu'à tous il faut enfin apprendre,  
+Dans les maux où le Ciel a voulu m'exposer,  
+Qui n'espere plus rien n'a rien à déguiser [336].  
+
+
+### SCENE II.
+SINORIX, SOSTRATE, SOSIME, Suite de Sinorix.
+
+
+    SINORIX.
+Tu parois encor, lâche, et quand ta perfidie  
+Joint ta gloire soüillée à l'amitié trahie,  
+Loin d'éviter mes yeux, je te vois fierement⁎  
+Attendre tout l'éclat de mon ressentiment ;  
+Mais ne croy plus pour toy que mon couroux l'exprime,  
+Mon indignation t'abandonne à ton crime,  
+Et quoy que ton audace aime à le soûtenir⁎,  
+C'est en te dédaignant que je te veux punir.  
+
+    SOSTRATE.
+Seigneur, puisqu'à ce point ma peine vous est chere,  
+Aprenez que le Ciel cherche à vous satisfaire,  
+Et que tous les tourments l'un sur l'autre amassez  
+Pour égaler le mien ne feroient pas assez.  
+Il n'est point de moment où par quelque artifice⁎  
+Mon desespoir pour moy ne change de supplice,  
+Mille maux l'un de l'autre à l'envy renaissants  
+Accablent ma raison, et confondent⁎ mes sens,  
+Tout me nuit, tout me perd, tout me devient funeste [337].  
+
+    SINORIX.
+Quoy, de tant de fierté⁎ c'est-là ce qui te reste,  
+Et las à me braver de perdre tes efforts⁎,  
+Tu ne crois plus honteux de ceder au remords ?  
+
+    SOSTRATE.
+Non, Seigneur, au remords rien ne peut me résoudre,  
+Quand vous me condamnez la gloire sait m'absoudre,  
+J'ai montré quelque audace, et pour n'en point rougir  
+Ce me doit estre assez qu'elle [338] m'ait fait agir ;  
+Mais helas ! j'en ay beau suivre par tout les traces,  
+Je connois mes forfaits à mes tristes⁎ disgraces⁎,  
+Et malgré tout mon zéle à ses conseils uny  
+Je me tiens criminel quand je me voy puny.  
+Aveugle jusqu'icy dans l'ardeur qui me presse  
+Vous m'avez plaint d'aimer une ingrate Princesse,  
+Mais enfin éclairé par un revers fatal  
+Connoissez vostre erreur, et l'excez de mon mal,  
+J'aime, j'aime la Reine, et l'amour dans mon ame  
+A transmis en secret tout ce qu'il a de flame⁎,  
+Mon cœur à l'adorer met son plus doux appas⁎,  
+Cependant, je la voy, Seigneur, entre vos bras,  
+Je la pers, et sa perte à ce tourment m'expose  
+Qu'accablé de l'effet je fremis de la cause [339] ;  
+On croit me faire grace à trahir mon amour,  
+Et quand on m'assassine on me sauve le jour [340].  
+Que me servent ces jours qu'on cesse de poursuivre  
+Si l'on m'oste le bien sans qui je ne puis vivre ?  
+Ah, pour ce dur supplice il n'est point de forfait,  
+C'est m'avoir trop puny que ne l'avoir pas fait,  
+Par là vostre rigueur va jusques à l'extréme,  
+Elle m'arrache au Sort, et me livre à moy-mesme.  
+Il faut y consentir, et forcer⁎ mon devoir  
+A vous laisser joüir de tout mon desespoir,  
+Je l'estale à vos yeux, triomphez de ma peine.  
+
+    SINORIX.
+C'est donc là d'où partoient les refus de la Reine ?  
+Toûjours traistre, toûjours infidelle à ton Roy  
+Tu détournois ses vœux quand ils panchoient vers moy.  
+Je ne m'estonne⁎ plus si tes serments sans cesse  
+Osoient de ton forfait affranchir la Princesse.  
+Quoy qu'avec toy sa haine eust juré mon trépas  
+Un interest plus fort armoit déja ton bras,  
+Tu feignois par amour d'applaudir à sa rage  
+Tandis qu'une autre ardeur eschauffoit ton courage,  
+Et que l'heureux succez qui suivoit mes desirs  
+Te pressoit dans mon sang d'estouffer tes soûpirs.  
+Ainsi plus lâche encore qu'on ne pouvoit connoistre  
+Tu trahissois ensemble et la Reine et ton Maistre,  
+Puisque le coup fatal qu'elle a sçeu m'épargner,  
+En me privant du jour, l'empeschoit de regner.  
+
+
+### SCENE III.
+SINORIX, CAMMA, SOSTRATE, SOSIME, PHENICE, Suite.
+
+
+    SINORIX.
+Madame, sçavez-vous quelle esperance offerte  
+Avoit poussé Sostrate à resoudre ma perte ?  
+Son orgueil jusqu'à vous ayant porté ses vœux  
+S'indignoit d'un hymen qui me rendoit heureux,  
+Et ma mort…  
+
+    CAMMA.
+Je le sçay, mais, Sinorix, écoute,  
+Il est d'autres secrets dont tu peux estre en doute,  
+Et j'ay quelques clartez acquises par hazard  
+Dont il est juste enfin que je te fasse part.  
+Mon hymen, si j'en croy les transports de ta flame⁎,  
+Faisoit l'unique bien qui pûst toucher ton ame,  
+Et malgré tes soûpirs tant de fois repoussez  
+Tes vœux de ce costez viennent d'estre exaucez.  
+Ainsi le Ciel souscrit à quoy que tu pretendes [341],  
+Je t'ay donné la main, tu regnes, tu commandes,  
+Et tu ne vois plus rien dont la possession  
+Irrite ton amour ou ton ambition ;  
+Mais quand tout à l'envy répond à ton attente,  
+Si l'on te voit content, je ne suis pas contente,  
+Et mon triste⁎ devoir toûjours inquieté  
+Me demande raison de ta félicité.  
+Sinatus ennuyé⁎ d'un assez long veufvage  
+Admira quelque éclat dont brilloit mon visage,  
+Et d'un second hymen ayant pris le dessein,  
+Son amour aussi-tost m'honora de sa main,  
+Tu le sçais, et qu'il m'eut à peine couronnée [342]  
+Qu'un fatal accident trancha sa destinée,  
+Sa mort fut impréveuë, et sans s'inquieter  
+Au malheur de son âge on voulut l'imputer.  
+Pour moy, que de ce coup surprit la promptitude,  
+Je mis à l'averer ma plus pressante étude,  
+Et découvris enfin, sans qu'on l'ait soupçonné,  
+Que ce Roy malheureux mourut empoisonné.  
+
+    SINORIX.
+Empoisonné, Madame ? ah, coupable entreprise !  
+
+    CAMMA.
+Il n'est pas temps encore de montrer ta surprise,  
+S'il t'est advantageux de la faire éclater,  
+Ce que tu vas oüir la pourra mériter.  
+Acheve cependant de me prester silence  
+Du sort de Sinatus j'ay donc eu connoissance,  
+Et l'horreur d'un forfait et si lâche et si noir  
+Laisse mes sentimens aisez à concevoir.  
+La plus pressante ardeur que pour punir un traistre  
+La vangeance jamais dans un cœur ait fait naistre,  
+Tout ce que peut la haine y joindre de soûtien⁎,  
+Pour vanger son trépas se trouva dans le mien.  
+A ses Manes sacrez un zele inviolable  
+Me fit jurer soudain d'immoler le Coupable,  
+Et le Ciel m'est témoin si dans ce triste⁎ cœur  
+Rien égala jamais une si noble ardeur.  
+Cependant de mon sort telle est la perfidie,  
+Que quoy que cette ardeur ne soit point refroidie,  
+Que sa mort de mes vœux soit l'objet le plus doux,  
+Je n'ai pû m'affranchir⁎ d'en faire mon Espoux [343].  
+
+    SINORIX.
+Quoy, Madame…  
+
+    CAMMA.
+Tu vois, t'expliquant l'entreprise,  
+Si j'avois lieu d'abord d'arrester ta surprise,  
+Et de dire, en parlant d'un poison odieux,  
+Que ce qui le suivoit la meriteroit mieux ?  
+
+    SINORIX.
+Ah, Madame…  
+
+    CAMMA.
+Non, non, Sinorix, tu t'abuses  
+Si tu crois que je veüille entendre des excuses,  
+A des vœux criminels tu t'es abandonné,  
+Sinatus leur nuisoit, tu l'as empoisonné.  
+
+    SINORIX.
+Pour asseurer sa flame⁎, et détruire ma gloire,  
+C'est-là ce qu'un perfide ose vous faire croire ?  
+
+    SOSTRATE.
+Moy, Seigneur ?  
+
+    SINORIX.
+Vous aimant, il a crû reüssir  
+Si de quelque grand crime il pouvoit me noircir ?  
+
+    CAMMA.
+C'est le connoistre mal ; pour un Maistre infidelle  
+Je puis répondre, helas ! qu'il n'a que trop de zele,  
+Et que si dans ma haine on pouvoit m'ébransler,  
+Les soins⁎ qu'il en a pris l'auroient fait chanceler.  
+C'est-là son déplaisir⁎ qu'avec impatience  
+Il me voye aspirer sans cesse à la vangeance,  
+Et ne puisse opposer qu'un inutile effort⁎  
+A cette avidité de poursuivre ta mort.  
+
+    SINORIX.
+Vous, la poursuivre ! vous, dont le secours propice  
+Du coup qui me perdoit a rompu l'injustice !  
+Vous, qui me dérobant aux fureurs d'un ingrat…  
+
+    CAMMA.
+Va, ne t'abuse point sur ce noble attentat⁎,  
+Et cesse à ma pitié, dans l'erreur qui te flate⁎,  
+D'imputer un secours que tu dois à Sostrate.  
+Quand ma haine te porte un poignard dans le sein  
+C'est luy pour t'en sauver qui m'arreste la main,  
+Trop fidelle Sujet il m'oste ma victime,  
+Trop genereux⁎ Amant il prend sur luy mon crime,  
+Et je ne l'ay souffert⁎ qu'afin de m'asseurer  
+Une autre occasion de pouvoir conspirer.  
+Comme l'hymen oblige à quelque confiance,  
+Voilà dequoy j'ay crû te devoir confidence,  
+C'est à toy là-dessus à te bien consulter.  
+
+    SINORIX.
+Non, vous cherchez en vain à me faire douter.  
+Les soupçons qu'en vostre ame on aime à faire naistre [344]  
+Font perir Sinatus par le crime d'un traistre,  
+Sa mort rend de couroux vostre cœur embrasé,  
+Et m'en croyant l'autheur vous m'auriez épousé ?  
+
+    CAMMA.
+L'affront m'en fait rougir, l'affront m'en desespere,  
+Mais puis que je l'ay fait, croy que je l'ay dû faire [345],  
+Et tremble d'autant plus que dans ce desespoir  
+Je sçay ta perfidie, tu connois mon devoir.  
+C'est t'expliquer assez les projets de ma haine.  
+
+    SINORIX.
+Pour les executer vous aurez peu de peine,  
+Et la vie à mes vœux n'est pas un bien si doux  
+Qu'il vaille le malheur d'estre haï de vous.  
+De vostre hymen sur moy la gloire répanduë  
+Commençoit à remplir leur plus vaste étenduë [346],  
+Mais en le poursuivant comme un bonheur certain,  
+J'ay cherché vostre cœur, et non pas vostre main.  
+S'il aime, s'il s'obstine à croire l'imposture,  
+Ordonnez que mon bras repare vostre injure⁎,  
+Il est prest, et par luy tout mon sang répandu  
+Sçaura…  
+
+    CAMMA.
+Non, mieux que toy je sçay ce qui t'est dû.  
+Ma vangeance par là flateroit⁎ peu ma peine,  
+Tu l'offres à l'amour, je la dois à la haine.  
+Souffrir⁎ que ton remords me la fasse obtenir,  
+C'est te rendre ta gloire, et non pas te punir.  
+Il faut que ce couroux que je te laisse à craindre  
+N'ait rien en te perdant qui me force à te plaindre,  
+Et que le coup heureux qu'il refuse à ton bras  
+Me vange de ton crime, et ne l'efface pas.  
+
+    SINORIX.
+Quoy, ce parfait amour dont l'ardeur forte et tendre  
+Contre la calomnie auroit dû me defendre,  
+Cet hommage soûmis, ce respect dont jamais…  
+
+
+### SCENE IV.
+SINORIX, CAMMA, SOSTRATE, PHAEDIME, PHENICE, SOSIME, Suite.
+
+
+    PHAEDIME.
+Ah, Seigneur, les Mutins assiegent le Palais,  
+Et chacun à hauts cris demandant la Princesse …  
+
+    CAMMA.
+Voy par là que le Ciel avec moy s'interesse [347],  
+De ma vangeance enfin secondant les projets  
+Pour te chasser du Trône il arme tes sujets.  
+Crains tout de leur revolte, et de l'ardeur soudaine  
+Qu'a mise…  
+
+    SINORIX.
+Ah, je ne crains que vostre seule haine.  
+Madame, au nom des Dieux daignez regler mon sort,  
+Donnez moy vostre amour, ou m'accordez la mort,  
+L'arrest à son defaut m'en sera favorable.  
+Pourquoy le differer si je suis crû coupable ?  
+Pourquoy n'ordonner pas qu'aux Manes d'un Heros…  
+
+    CAMMA.
+Va, songe à tes Mutins, et me laisse en repos,  
+Si le Trône t'est dû, cherche à n'en point descendre.  
+
+    SINORIX.
+Pour vous le conserver il faut l'aller défendre,  
+J'y cours, et pour dompter de lâches Factieux  
+J'appelle icy sans peur la justice des Dieux ;  
+Mais aprés le succez qu'elle m'offre infaillible [348]  
+Si l'abus rend toûjours vostre haine inflexible,  
+Ce cœur qui ne voit rien de si rude à souffrir⁎  
+Ne prend plus que de moy les ordres de mourir [349].  
+
+
+### SCENE V.
+CAMMA, SOSTRATE, PHENICE.
+
+
+    CAMMA. [350] 
+Quoy, le peuple peut-estre en veut à ma personne  
+Et dans ce grand peril Sostrate m'abandonne ?  
+Arreste, j'ay besoin icy de ton secours.  
+
+    SOSTRATE.
+Le Destin veut ma mort, il la presse, et j'y cours,  
+La vouloir retarder dans l'ennuy⁎ qui m'accable  
+C'est m'exposer encor à devenir coupable ;  
+De mes tristes⁎ regards l'indiscrete langueur  
+Vous reproche déja vostre ingrate rigueur,  
+Le respect aura beau m'opposer ses maximes,  
+Si je parle aprés eux [351] je vais faire cent crimes,  
+Ostez en le pouvoir à mon juste couroux,  
+Et me laissez mourir sans me plaindre de vous.  
+
+    CAMMA.
+Que l'on m'approche un siege [352]. Il n'est plus temps, Sostrate,  
+D'empescher contre moy que ce couroux n'éclate.  
+Puisqu'on sçait ton amour, plains toy, condamne moy,  
+Dy que l'ambition m'a fait trahir ma foy⁎.  
+Si pourtant la raison éclairoit ta colere,  
+Ce que tu viens d'oüir t'auroit dû satisfaire,  
+Le sort de Sinorix n'est pas un sort trop doux.  
+
+    SOSTRATE.
+Madame, il est haï, mais il est vostre époux.  
+A la vangeance en vain le devoir vous entraîne,  
+Ce titre malgré vous suspendra vostre haine,  
+Et ce devoir confus va craindre à l'avenir  
+De faire un parricide⁎ à l'en vouloir punir [353].  
+C'en seroit un sans doute, et je voy sans me plaindre  
+Qu'innocent ou coupable, il n'ait plus rien à craindre,  
+Mais fussent vos transports encor plus éclatants,  
+Qui n'a plus à punir ne peut haïr long-temps.  
+Ainsi, Madame, ainsi sa victoire est certaine,  
+Il sçaura vous reduire à perdre vostre haine,  
+Et son heureux triomphe augmentant chaque jour,  
+S'il n'a plus vostre haine, auray-je vostre amour ?  
+Non, non, j'en crois en vain posseder l'avantage,  
+Vos scrupules voudront en faire son partage,  
+Et s'ils tiennent jamais vostre couroux borné,  
+Vous luy devrez ce cœur que vous m'avez donné.  
+Déja, déja sans doute, encore qu'on me le cache,  
+De ce triste⁎ devoir la rigueur me l'arrache,  
+C'en est fait, je le pers, et toutefois, helas !  
+J'aurois bien merité de ne le perdre pas.  
+Pour m'imposer l'horreur d'une peine semblable  
+Le crime n'est pas grand de n'estre point coupable,  
+Et peut-estre jamais tant de severité⁎  
+N'a puny le refus d'une infidelité.  
+Mais je me plains à tort d'un si rude supplice,  
+Puisqu'il vous met au Trône, il est plein de justice,  
+Joüissez des douceurs d'un si glorieux sort,  
+Le prix en est leger s'il ne faut que ma mort.  
+Elle est, elle est trop deuë à ce feu⁎ temeraire  
+Dont l'orgueil à ma Reine eut l'audace de plaire.  
+Pour effacer l'affront qu'il vous a fait souffrir⁎,  
+C'est à vous de regner, c'est à moi de mourir.  
+J'y cours, j'y cours, Madame, et ma rage secrete  
+Vous va mettre en estat de regner satisfaite,  
+Heureux, s'il m'est permis, pour tromper mes malheurs,  
+De vous dire en mourant, c'est pour vous que je meurs.  
+
+    CAMMA.
+Tout t'est permis, Sostrate, et tu vois mon silence  
+Souffrir⁎ de ta douleur l'entiere violence,  
+Parle, accuse, condamne un projet important,  
+Peut-estre l'heure est proche où tu seras content.  
+
+    SOSTRATE.
+Où je seray content ? Et le puis-je, Madame,  
+Dans l'affreux desespoir où vous voyez ma flame⁎ ?  
+Tout l'augmente, et je fais cent efforts⁎ superflus…  
+
+
+### SCENE VI.
+CAMMA, SOSTRATE, SOSIME, PHENICE, Suite.
+
+
+    SOSIME.
+Ah, Madame, le Roy…  
+
+    CAMMA.
+Parle, et bien ?  
+
+    SOSIME.
+Ne vit plus.  
+
+    SOSTRATE.
+Quoy, de nos Factieux la troupe mutinée… [354]  
+
+    SOSIME.
+Non, Seigneur, apprenez la triste⁎ destinée.  
+A peine pour punir leurs nouveaux attentats⁎  
+Vers le lieu du tumulte il a fait quelques pas,  
+Que dans l'âpre douleur de voir tousjours la Reine,  
+Malgré ta foy⁎ receuë, obstinée en sa haine,  
+Tout à coup il s'arreste, et poussant de longs cris  
+Fait voir un changement dont nous sommes surpris.  
+Il agit sur le corps si sa cause est dans l'ame,  
+Ses yeux sont égarez, son visage s'enflame,  
+Et soudain sous l'effort⁎ d'un accez different  
+Une froide sueur le rend pâle et mourant.  
+C'est lors que succombant [355] au tourment qui le presse⁎  
+Il cherche entre nos bras une aide à la foiblesse,  
+Et quand de tous costez on appelle au secours,  
+Voicy l'instant fatal qui doit borner mes jours,  
+A cet ordre eternel c'est en vain qu'on s'oppose,  
+Je meurs, dit-il, je meurs, n'en cherchez point la cause,  
+Je la sçay, mais bien loin d'en oser murmurer,  
+Je me trouve en secret contraint de l'adorer.  
+Le Ciel qui tost ou tard se découvre équitable  
+Se plaist à me punir par où je suis coupable,  
+Et m'avoit bien prédit que malgré tous mes soins⁎  
+Je recevrois la mort d'où je l'ay crû le moins [356].  
+Je la sens qui s'approche, et je mourrois sans peine  
+Si j'osois me flater⁎ d'obtenir de la Reine…  
+Là, trop pressé d'un mal qu'il ne peut plus souffrir⁎,  
+Achevant de parler, il commence à mourir,  
+Ses soûpirs languissants témoignent qu'il expire,  
+Il nomme encor la Reine, et ne peut plus rien dire,  
+Il meurt, et sur ce bruit chacun de voix en voix  
+Esleve la Princesse au Trône de nos Rois.  
+
+    CAMMA.
+Enfin, Sostrate, enfin, grace à mon hymenée,  
+Voicy pour mes desirs une illustre journée,  
+Ma vangeance est remplie, et je meurs sans regret.  
+
+    SOSTRATE.
+Quoy…  
+
+    CAMMA.
+Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,  
+Dy qu'il m'a fait tahir une amour⁎ sans égale ;  
+J'avois empoisonné la coupe nuptiale,  
+Et n'ay donné ma foy⁎ que sur le doux espoir  
+D'en obtenir la mort que j'ay fait recevoir.  
+
+    SOSTRATE.
+La Reine empoisonnée [357] !  
+
+    PHENICE.
+Ah, Madame !  
+
+    SOSTRATE.
+Ah, Phenice,  
+Viste, à la secourir…  
+
+    CAMMA.
+Tu me fais injustice,  
+Si la douceur de vivre eust flaté⁎ ma raison  
+J'aurois sçeu prévenir la force du poison,  
+Laisse agir son pouvoir, le Sort ainsi l'ordonne.  
+
+    SOSTRATE.
+Qu'aux lâchetez du Sort ce cœur vous abandonne !  
+Que mes soins⁎, mes malheurs, tout soit perdu pour moy !  
+
+    CAMMA.
+Je n'ay rien oublié de ce que je te doy,  
+Mais dans l'estat honteux où de peur de te nuire  
+Par l'hymen d'un Tyran il m'a falu reduire,  
+Quand j'en ay dans mon cœur le reproche à souffrir⁎  
+Il n'est point en mon choix de vivre ou de mourir.  
+C'est à moy d'effacer une tache si noire,  
+J'ay rachepté ta vie aux dépens de ma gloire,  
+Et tu dois consentir qu'aprés ce grand secours  
+Je rachete ma gloire aux dépens de mes jours [358].  
+Vy content, si pour vivre et soulager ta peine  
+Il te suffit enfin de sçavoir que ta Reine…  
+Qu'on m'emporte, je meurs, et mes sens interdits⁎…  
+On luy aide à marcher pendant qu'elle dit ce dernier vers.
+
+
+    SOSTRATE.
+O peu sensible amant ! elle meurt, et tu vis.  
+Préviens, lâche, préviens…  
+
+    SOSIME *luy retenant la main qu'il porte sur son épée.*
+Seigneur, qu'allez-vous faire ?  
+
+    SOSTRATE.
+Que vous sert d'empescher un coup si necessaire ?  
+Pour m'arrester le bras en de pareils ennuis⁎,  
+Helas ! me sauvez-vous de la rage où je suis ?  < FIN. >
+
+
+# Glossaire
+
+Nous avons regroupé dans ce glossaire un certain nombre de mots de la langue du XVII*e* siècle qui avaient, outre un sens actuel se trouvant entre parenthèses, un sens différent de celui qu'ils ont aujourd'hui. Ils sont rangés par ordre alphabétique.
+
+Des abréviations sont également utilisées dans ce lexique. Nous en faisons la liste et désignons de quoi il s'agit :
+ * – *Acad. 94* : *Dictionnaire de l'Académie Françoise*, 1*ère* édition, 2 volumes, Paris, Coignard, 1694.
+ * – *Fur. 1690* : Furetière, *Dictionnaire universel contenant généralement tous les mots françois, tant vieux que modernes, et les termes de toutes les sciences et des arts…*, 3 volumes, La Haye-Rotterdam, Arnout et Reinier Leers, 1690.
+ * – *Rich. 1680* : Richelet, *Dictionnaire françois contenant les mots et les choses, et plusieurs nouvelles remarques sur la langue françoise…*, 2 parties in 1 volume, Genève, J.H Widerhold, 1680.AdorableDigne d'être adoré.V. 865AdveuDéclaration d'amour.V. 381, 416, 488, 664, 808, 1241Approbation ou autorisation, consentement donné.V. 188, 459, 713Révélation, déclarationV. 355, 603, 634, 933, 951, 1308Donner l'adveuConsentir.V. 205 Adviser àRéfléchir, songer à qqch.V. 1187Affranchir (s')S'empêcher.V. 1764Aigreur / aigrirHostilité, irritation.V. 114, 255, 281, 347, 514, 1547Amorce« Appasts qui attirent et persuadent l'esprit » (Fur. 1690).V. 157AmourSouvent féminin. « Amour quand il signifie la Passion d'un sexe pour l'autre est quelquefois féminin singulier en Poésie, et presque toujours féminin au pluriel, même en Prose. » (Acad. 94)V. 640, 1953Appareil« Apprest, preparatif » (Acad. 94).V. 1194AppasAttraits, charmes. « En général, on emploie ce mot d'appas (surtout en poésie) pour tout ce qui a du charme, de l'agrément et qui fait plaisir. » (Fur. 1690).V. 399, 491, 879, 1363Signifie aussi délices.V. 1683Armer« Lever des soldats pour faire une armée » (Fur. 1690)V. 159 ArtificeRuse, tromperie, adresse. En ce sens l'emploi de ce mot est plus large qu'aujourd'hui.V. 368, 1242, 1661Attentat« Entreprise criminelle » (Rich. 1680). « Se dit figurément de ce qui est fait contre l'autorité des superieurs et de leur juridiction » (Fur. 1690).V. 154, 237, 423, 467, 970, 1041, 1066, 1123, 1260, 1323, 1788, 1919AttesterPrendre à témoin.V. 637, 1033Auguste« Consacré par les augures ». Qui inspire un grand respect, de la vénération ou qui en est digne.V. 213 BalancerHésiter à, peser, « considerer mûrement dans son esprit » (Acad. 94). V. 79, 931BriguerPlus usuel qu'aujourd'hui au sens de « chercher à obtenir quelque chose ».V. 85 BrûlerFigurément être enflammé d'amour pour quelqu'un.V. 19, 41, 270, 399Chagrin« Inquiétude,  fâcheuse, mauvaise humeur, sans idée d'affliction ni d'ennui » (Acad. 94).V. 87, 113, 329, 812, 1081, epistreChargerAccuser.V. 1216Combatre / Combatu« Pour dire agité de diverses pensées » (Fur. 1690).V. 67, 363, 575, 797, 1527Confondre« Troubler profondément jusqu'à brouiller l'esprit » (Fur. 1690). Bouleverser.V. 653, 981, 1664Faire échouerV. 819, 919Réduire au silenceV. 152, 1496Prendre une personne pour une autreV. 1418 ConseilDessein, résolution.V. 90 Avertissements, recommandationsV. 1706 DéférerAttribuer, accorder.V. 312, 730De moment en momentD'un moment à l'autre.V. 818DéplaisirProfonde douleur, désespoir. Aujourd'hui sens affaibli « contrariété, mécontentement » et surtout employé dans des locutions adverbiales, « avec déplaisir, à mon grand déplaisir ».V. 233, 499, 1364, 1557, 1781DésabuserTirer quelqu'un de l'erreur, de l'illusion qui l'abuse.V. 258, 692DisgraceMalheur, infortune.V. 217, 358, 873, 992, 1577, 1674Dispenser à (se)Se permettre, se laisser aller, se disposer à.V. 1518DiversContraire, opposé. Sens affaibli aujourd'hui de « différent, varié » : « les hommes ont des sentiments très divers c'est-à-dire bien contraires » (Fur. 1690).V. 617, 1542Ebloüir« Tromper, surprendre l'esprit et les sens par de fausses raisons, de fausses lumières » (Fur. 1690).V. 128, 157, 761, 1039, 1242, 1952EffortCoup, atteinte.V. 930, 961, 1327, 1487, 1517, 1579, 1599, 1639Tentative, activité d'un être conscient qui mobilise toutes ses forces pour résister ou vaincre une résistanceV. 67, 362, 518, 623, 733, 749, 785, 823, 991, 1017, 1051, 1079, 1108, 1263, 1286, 1352, 1667, 1783, 1915, 1927EmbrasserSens figuré de saisir de, charger de.V. 90 Enhardir / enhardir (s')Encourager (s').V. 687, 847EnnuyChagrin, tourment, désespoir (aujourd'hui sens atténué de « contrariétés » ).V. 291, 1733, 1857, 1979EprouverTrouver, juger.V. 1126Estonner / estonnéÉbranler, « causer à l'âme de l'émotion soit par surprise, soit par admiration, soit par crainte. » (Acad. 1694).V. 126, 401, 514, 793, 813, 1062, 1165, 1305, 1583, épîtreS'estonner : trouver étrangeV. 1701Exorable« Qui se laisse fléchir par des prières. Il est peu usité. » (Acad. 94).V. 866FeuPassion, amour (fréquent au singulier et au pluriel dans la langue poétique).V. 195, 222, 356, 399, 415, 487, 556, 570, 663, 698, 719, 1901FierCruel, violent, emporté.V. 367, 391, 582, 1044, 1321, 1349Farouche.V. 803, 1300OrgueilleuseV. 1196, 1598, 1651 (adverbe)FiertéCruauté, dureté, rigueur.V. 126, 131, 257, 1120Sentiment élevé de la dignité, de l'honneurV. 1001, 1239, 1666FlameAmour (fréquent en ce sens dans le style élevé).V. 53, 179, 189, 354, 370, 395, 495, 529, 707, 829, 860, 940, 1230, 1241, 1682, 1721, 1773, 1914FlaterFavoriser.V. 105, 354Séduire, charmer, faire plaisir.V. 233, 265, 293, 382, 413, 659, 764, 811, 1138, 1230, 1298, 1539, 1959 + épître Séduire, tromperV. 139, 546, 751, 1372, 1789Apaiser, soulagerV. 1821Espérer, se croire assuré, faire espérerV. 433, 1125Tirer orgueil, vanterV. 11, 701, 1942FlexibleDocile.V. 564Foudre« Dans le propre on le fait aujourd'hui le plus souvent féminin et dans le figuré toujours masculin. Se dit figurément de la colère des Dieux ou des Rois. » (Fur. 1690).V. 410, 894, 1033, 1058, 1190FoudroyerManifester une grande colère.V. 1202ForcerSurmonter, triompher de.V. 51 Obliger, contraindreV. 80, 167, 342, 547, 1695FoyLoyauté, fidélité à un engagement.V. 28, 56, 135, 263, 271, 365, 372, 711Promesse, serment, parole donnée.V. 104, 143, 243, 490, 639, 1068, 1495, 1591, 1623, 1868, 1922, 1955Confiance.V. 175, 547Amour fidèle.V. 687, 791, 1616Preuve. V. 1243Faire foy deL'établir, le prouverV. 775GeneSupplice, torture.V. 1169GenerTorturer. Aujourd'hui sens très affaibli de « embarrasser ».V. 73, 875, 1081, 1359Genereux« Qui est de nature élevée, noble » (Acad. 94), brave. « On appelle d'ordinaire genereux tous les sentiments où il paroist quelque grandeur d'ame. » (Fur. 1690).V. 93, 310, 885, 1051, 1141, 1287, 1515, 1794Magnanime. Le sens actuel de « qui donne plus qu'il n'est tenu de le faire » est rare avant la fin du XVII*e* siècle.V. 1263Heur« Chance, bonne fortune » (Acad. 94). Lat. augurium, « présage bon ou mauvais de l'augure d'où par extension « bonne chance ou mauvaise », état heureux, considéré dans sa continuité. Vieilli au milieu du XVII*e* siècle.V. 860, 958, 1378IncessammentSans cesse, continuellement.V. 1081Injure / injurieuxInjustice, injuste.V. 311, 348, 454, 471, 770, 1037, 1065, 1818Insigne« Adjectif des deux genres. Signalé, remarquable. Il se dit des personnes et des choses. » (Acad. 94).V. 657InterditTroublé, déconcerté, embarrassé (Fur. 1690).V. 243, 813, 1439, 1975JourSe dit de ce qui éclaire l'esprit, d'une lumière jetée sur une matière obscure, d'un éclaircissement, d'une explication.V. 928« Facilité, moyen pour arriver à bout de quelque affaire » (Acad. 94).V. 395VieV. 214, 700, 758, 787, 830, 899, 1056, 1223, 1288, 1427, 1454, 1459, 1475, 1487, 1643, 1688, 1712, 1972Donner jourPermettre facilement, donner les moyens de.V. 938Mouvement« Se dit … des differentes impulsions, passions ou affections de l'ame. » (Acad. 94).V. 391, 577NœudLien, attachement très étroit entre des personnes.V. 627, 1627ObligerLier par un devoir, par un sentiment de reconnaissance.V. 171, 1629ContraindreV. 266, 314, 439, 635, 806, 1797Office« Secours ou devoir reciproque de la vie civile » (Fur. 1690).V. 922ParricideAttentat ou auteur d'un attentat sur la personne d'un souverain.V. 44, 230, 510, 706, 914, 978, 1277, 1876PenserPensée. A partir du milieu du XVII*e*, ce mot ne s'emploie plus guère qu'en poésie.V. 1437PiquerÉmouvoir vivement de colère, de tristesse, irriter, affliger.V. 1229PiquantsIrritants.V. 1100PompeÉclat.V. 4 Cortège solennel.V. 1602PompeuxTriomphant, glorieux, « qui se fait avec pompe et magnificience. » (Fur. 90).V. 1259 + épîtrePresserInsister.V. 188, 802Angoissante, accablante.V. 607, 1391, 1451, 1929HâterV. 99, 248, 281, 349, 487 (nom), 502, 519, 1149, 1271, 1316, 1358, 1677, 1856, 1543ContraindreV. 89, 562, 1213, 1708Querelle« Se dit de l'interest d'autruy quand on en prend la deffense. » (Fur. 90).V. 581, 1590Repondre (se)Compter sur.V. 586RetourRevirement.V. 531 RienQuelque chose. Il tient ce sens positif du latin « rem », une chose.V. 511, 526, 1245ScrupulePetit poids.V. 804SeveritéCruauté, dureté.V. 1469, 1895SoinsAssiduités, attentions.V. 79, 110, 116, 184, 277, 355, 544, 626, 1122, 1780Soucis.V. 366, 472, 835, 1963« Attache particulière qu'on a auprés d'un Maistre ou d'une maistresse, pour les servir ou leur plaire. » (Fur. 90).V. 674Souffrir quelque chose de quelqu'unLe lui accorder, le lui tolérer.V. 166Souffrir àLaisser, permettre à.V. 517, 1029, 1157, 1354, 1422, 1630 + épîtreSouffrirEndurer, supporter. Aujourd'hui uniquement littéraire.V. 339, 630, 981, 1323, 1497, 1534, 1795, 1823, 1851, 1903, 1910, 1943, 1967Soûpirer pourDésirer ardemment.V. 776SoutenirRenforcer, illustrer, supporter.V. 9, 132, 388, 481, 487, 1015 (nom), 1049, 1655, 1755 (nom)Stupide, stupiditéFrappé de stupeur, étourdir, et rendu muet par un coup inattendu, hébété. « Se dit aussi de celui que la surprise de quelque chose rend tout interdit » (Acad. 94).V. 670, 984Tantôt / tantostPresque.V. 543, 1312, 1401TimideSens plus fort qu'aujourd'hui : il signifie « qui manque d'assurance ». Il renvoyait à la notion de « lâche ».V. 159, 509, 705TraitableAimable, « qui a l'esprit doux et facile, qui entend volontiers raison, qui se porte à l'accomodement. » (Fur. 90).V. 113 TristeLat. *tristis*, funeste, sombre, morose.V. 187, 245, 283, 477, 881, 977, 1417, 1462, 1644, 1674, 1731, 1759, 1859, 1890, 1918Vertu« Force, vigueur tant du corps que de l'ame. » (Fur. 90).V. 388, 705Courage, vaillance.V. 720, 1180 + épîtreVœuDésirs amoureux.V. 308, 628, 660, 796, 871, 1096, 1493VoirConsidérer comme.V. 446ZéleArdeur, passion, qu'on a pour quelque chose…les poètes se servent quelquefois de ce mot pour signifier l'amour… en ce sens il vieillit. » (Fur. 90).V. 183, 801, 1042, 1471, 1475
+
+
+# Annexe 1 : Plutarque, Œuvres Morales, Tome IV, chapitre « conduites méritoires de femmes », histoire 20, Paris, Les Belles Lettres, 2002.
+
+Sinat et Sinorix étaient les plus puissants des tétrarques de Galatie et ils étaient aussi vaguement parents. Or l'un deux, Sinat, avait épousé une jeune fille qui s'appelait Camma, d'une beauté et d'une grâce remarquables et d'une vertu encore plus admirable : non seulement elle était réservée et elle aimait son mari, mais encore elle était intelligente, avait l'âme généreuse et se faisait adorer de ses serviteurs par sa bienveillance et sa beauté. Son éclat était aussi augmenté par ses fonctions de prêtresse d'Artémis, particulièrement vénérée des Galates, et par les parures magnifiques dans lesquelles on la voyait chaque fois lors des processions et des sacrifices. Sinorix s'était donc épris d'elle, mais, tant que vivait son mari, il ne pouvait ni la séduire, ni lui faire violence. Aussi perpétra-t-il un forfait monstrueux : il assassina par ruse Sinat et peu après il rechercha en mariage Camma, qui séjournait souvent dans le sanctuaire et supportait le crime de Sinorix, non dans un abattement pitoyable, mais avec courage et en attendant intelligemment son heure. Il était pressant et paraissait ne pas manquer du tout d'arguments spécieux pour prétendre qu'il s'était par ailleurs montré supérieur à Sinat et que, s'il l'avait tué, c'était par amour pour Camma, non pour quelque autre raison qui tiendrait de la scélératesse. Au début, les refus de la femme n'étaient donc pas trop rudes, puis peu à peu elle paraissait s'adoucir. De fait, ses proches et ses amis, afin de servir Sinorix et de lui complaire, car sa puissance était très grande, la poursuivaient de ses instances en employant la persuasion et la contrainte. Pour finir elle céda, et le fit venir à elle pour que son assentiment et son engagement eussent lieu en présence de la déesse. A son arrivée, elle le reçut avec amitié et le conduisit à l'autel, où elle fit une libation avec une coupe, et après avoir bu elle-même une partie de son contenu, elle l'invita à boire le reste. Or c'était de l'hydromel empoisonné. Quand elle vit qu'il avait bu, elle poussa de grands cris de joie et se prosterna devant la déesse en disant : « je te prends à témoin, ô divinité très honorée, c'est pour ce jour que j'ai survécu au meurtre de Sinat, ne tirant tout ce temps aucun plaisir de la vie, sinon l'espérance de la vengeance, et maintenant que je la tiens, je descends rejoindre mon mari. Quant à toi, le plus impie de tous les hommes, au lieu d'une chambre nuptiale et de noces, c'est une tombe que peuvent préparer tes parents ! ». A ces mots, le Galate, qui sentait déjà le poison agir et troubler son corps, sauta sur un char dans l'espoir que les cahots et les secousses lui seraient salutaires, mais il le quitta aussitôt pour passer dans une litière, où il mourut le soir. Quant à Camma, elle vécut toute la nuit, et à la nouvelle qu'il avait expiré, elle finit dans la joie et la gaîté.
+
+
+# Annexe 2 : Pierre Le Moyne, La Gallerie des femmes fortes, « les fortes barbares » :
+
+Que les espérances de l'homme sont vaines ! et que les désirs sont de dangereux Imposteurs, et des Guides peu fidèles ! Sinorix était venu icy pour donner commencement à son mariage. La mort qui se trouve partout a voulu estre de la feste malgré la joye publique. Ce qui est bien étrange, l'Amour l'y a luy-mesme amenée : et par une nouvelle et fatale révolution de toutes choses, la Vertu y est trompeuse et homicide : et les Fiancez y servent de victimes, au sacrifice preparé pour la ceremonie de leurs noces.
+
+La Fidélité et la Perfidie sont le sujet de cette Action, Camme et Sinorix en sont les Acteurs ; et ce Temple en est la Scène. Sinorix ne pouvant vaincre la chasteté de Camme, fit dernièrement tuer Sinnate Son Mary, afin de succéder à son lit et à son Trône. Et Camme ne pouvant autrement se faire raison de Sinorix, la pris pour le feint consentement qu'elle a donné à ses recherches. Elle n'a pas remis sa vengeance au temps et aux occasions qui pouvaient venir : elle n'a pas voulu en attendre d'obscures et de domestiques : elle a crû qu'elle se devoit satisfaire hautement et avec éclat : et sans donner à son Ennemy un moment de trève, elle vient de s'empoisonner publiquement avec luy, du breuvage qui avoit été preparé, pour confirmer en ceremonie et par un sacrifice solennel, le contract de leur mariage.
+
+La déclaration qu'elle a faite d'une action si courageuse et si peu attenduë, a mis le tumulte dans le Temple, et la confusion parmy le Peuple. Il n'y a plus là personne qui pense à la deesse, ny qui se souvienne du sacrifice. Les victimes qui êtoient dé-jà au pied de l'Autel, couronnée de festons et parsemées de pure farine, se sont effrayées au bruit qui s'est fait autour d'elles : et se sauvant avec leurs guirlandes et leurs rubans, ont renversé les cassolettes et les encensoirs et écarté les assistants surpris d'êtonnement, de superstition et de crainte. Au lieu de les ramener, les plus asseurez s'en sont fuy avec elles. Il n'est demeuré que les filles de Diane : encor ont-elles été retenuës par la frayeur, qui leur a lié les pieds, et glacé le sang dans les veines. Leur êtonnement et leur effroy paroissent sur leurs visages qui sont de la couleur de leurs robes (…).
+
+Dans ce tumulte general, Camme toute seule est tranquille et asseurée. Elle ne fut jamais plus belle, ny eût plus de grace que vous luy en voyez : elle ne bût jamais rien de plus doux, ni de plus à son goût, que le reste de la mort qu'elle vient de donner à son ennemy. La douceur de la vengeance qu'elle en a prise, a gaigné son cœur avant le poison et penetré le fond de son Ame. Il s'est fait de là sur son visage une effusion de joye accompagnée d'une petite fierté majestueuse et agréable ; la colère mesme y a de la bien-seance et les dernières goûtes de son fiel s'y sont adoucies. On ne luy voit rien de la mort qu'elle a prise : sa mine est d'une victorieuse, et dans ses parures il y a de la feste et de du triomphe. Les fleurs mesme dont elle est couronnée, semblent se réjoüir de ce qu'elle ne les portera point dans une couche profane et soüillée : et qu'elles mourront chastes et sans tache en sa compagnie. On croyait qu'elle les eut prises, pour sacrifier avec plus de decence : et pour faire honneur à son Ministre et à son nouveau mariage : et c'était pour aller mieux parer à Sinnate, et pour triompher de Sinorix avec plus de pompe.
+
+Le Mal-heureux abatu de sa conscience, et percé des reproches de Camme, vient de tomber à terre avec la couppe fatale qui l'a déceu. La pâleur de la mort qu'il a beuë, commence à s'épandre sur son visage. Et troublé de son desespoir, non moins que de sa colère : il regarde Camme avec des yeux qui ne sont ny d'Amant, ny de Mary. Je pense mesme qu'il vomit contre elle tout le fiel de son Esprit, qui est plus aigre, et qui vient d'une plus mauvaise source que le poison qu'il a beu. Et ne pouvant luy faire pis, il la démembre au moins de ses desirs et de son geste : et fait de son corps, autant de pieces, qu'il luy fait d'imprécations, et luy dit d'injures. Elle l'écoute froidement et sans trouble : on peut dire qu'elle l'ayme et cet estat, et ne l'ayant jamais veu sans horreur, elle le voye maintenant avec joye. Cependant le poison gagnant ses parties nobles, et trouvant le cœur demy ouvert, par l'effort que son Ame y fait pour en sortir, et s'aller reunir à Sinnate ; elle tombe entre les mains de ses Filles.
+
+Elles sont bien revenuës de leur premier trouble. Mais elles ne sont pas en estat de la secourir, si leurs larmes ne luy valent de contrepoison. Tout ce qu'elles peuvent de mieux, c'est de lever les yeux et les mains à la Déesse : et luy demander de leurs gestes et de leurs soûpirs, la conservation d'une si haute Vertu, pour l'honneur et pour l'exemple de leur Sexe. Ne croyez pas qu'elles soient exaucées. Camme s'oppose à leurs prières, et en fait de toutes contraires. Elle voit dans la fumée des flambeaux éteints et des cassolettes renversées, l'Ombre de Sinnate encore sanglante de sa blessure, qui luy fait signe qu'il est temps de partir et qu'elle est attenduë en la region des Chastes et des Fideles. Son impatience redouble à cette veuë : et son cœur achevant de s'ouvrir, elle prend ongé de la Deesse, lui demande pardon de ce qu'en son Temple et au pied de son Autel et de son Image, elle a sacrifié à l'Amour et à la vengeance : et avec ses dernieres paroles, rend l'Esprit d'un visage serein ; et tel que l'auroit un victorieux, qui aprez une bataille gaignée, expireroit dans la joüissance de sa gloire.
+
+
+# Œuvres de Thomas Corneille de l'Isle
+
+*Les Engagements du hasard*, comédie
+
+*Le Feint astrologue*, comédie
+
+1651, Mai, Bertrand de Cigarral, comédie
+
+1651, *L'Amour à la mode*, comédie
+
+1652, *Le Berger extravagant*, comédie
+
+1655, *Les Illustres ennemis*, comédie
+
+1655, *Le Geôlier de soi-même*, comédie
+
+1656 ?, *Le Charme de la voix*, comédie
+
+1656, Déc., *Timocrate*, Tragédie
+
+1657, *Bérénice*, tragédie
+
+1657, *La Mort de l'empereur Commode*, tragédie
+
+1659, *Darius*, tragédie
+
+1660, Janv., *Stilicon*, tragédie
+
+1660, Janv., *Le Galant doublé*, comédie
+
+1661, Janv., *Camma*, tragédie
+
+1662, Fév., *Maximian*, tragédie
+
+1662, Déc., *Persée et Démétrius*, tragédie
+
+1663 ?, *Pyrrhus*, tragédie
+
+1666, Janv., *Antiochus*, tragédie
+
+1667, *le Baron d'Albikrac*, comédie
+
+1668, *Laodice*, tragédie
+
+1669, *La Mort d'Annibal*, tragédie
+
+1670, *La Comtesse d'Orgueil*, comédie
+
+1672, Fév., *Ariane*, tragédie
+
+1672, Nov., *Théodat*, tragédie
+
+1673, Nov., *Le Comédien poète*, comédie (avec Montfleury)
+
+1673, Déc., *La Mort d'Achille*, tragédie
+
+1674, Déc., *Don César d'Avalos*, comédie
+
+1675, Mars, *Circé*, tragédie lyrique (avec de Visé)
+
+1675, Nov., *L'Inconnu*, pièce à machines (avec de Visé)
+
+1676, Août, *Le triomphe des dames*, pièce à machines (avec de Visé)
+
+1677, Fév., *Le Festin de Pierre*, comédie de Molière versifiée par Thomas Corneille
+
+1678, Janv., *Le Comte d'Essex*, tragédie
+
+1678, Avril, *Psyché*, opéra (musique de Lully)
+
+1679, Janv., *Bellérophon*, opéra (avec Fontenelle et Boileau ; musique de Lully)
+
+1679, Nov., *La Devineresse*, pièces à machines (avec de Visé)
+
+1681, Fév., *La Pierre philosophale*, pièce à machines (avec de Visé) ; pièce non publiée
+
+1685, Fév., *L'Usurier*, comédie (avec de Visé) ; pièce non publiée
+
+1686, Janv., *Le Baron des Fondrières*, comédie ; pièce non publiée
+
+1693, Déc., *Médée*, opéra (musique de Charpentier)
+
+1695, Fév., *Les Dames vengées*, comédie en prose (avec de Visé ? )
+
+1695, Nov., *Bradamante*, tragédie
+
+
+# Bibliographie
+
+
+## Sources
+
+
+### Édition de CammaCamma, Reine de Galatie
+
+
+
+### Autres œuvres de Thomas Corneille*Corneille*Timocrate*Giraud.*
+*Corneille*Stilicon*J. Gossip.*
+*Corneille*La Mort de l'empereur CommodePoèmes dramatiques nouvelle édition
+
+
+
+### Œuvres de l'Antiquité*Aristote*Poétique*Hardy*
+*Plutarque*Œuvres morales
+*Plutarque*Dialogues sur l'amour (Eroticos)
+*Polyen*Strategematon
+
+
+
+### Textes de référence*Bouchard*Camma, drame en vers en trois actes
+*Corneille*Oeuvres Complètes 1*G. Couton*
+*Corneille*Œuvres Complètes 2*G. Couton*
+*Caze*Cammane
+*Moyne*La Gallerie des femmes fortes
+*Hermitte*La Mariane*Madeleine*
+*Montanelli*Camma, tragédie en trois actes
+*Quinault*Amalasonte
+*Racine*Œuvres Complètes*G. Forestier*
+*Rotrou*Théâtre complet 4 (Crisante, Le Véritable Saint Genest, Cosroès)*Duroux**Pasquier**Delmas*
+
+
+
+## Études
+
+
+### Ouvrages
+
+
+#### Autour de Thomas Corneille*Reynier*Thomas Corneille, sa vie et  son théâtre
+Le Théâtre de T. Corneille, nouvelle édition revue, corrigée et augmentée.*ème*
+Chefs d'œuvres dramatiques de T.Corneille
+Album théâtre classique : la vie théâtrale sous Louis XIII et Louis XIV.*Chevalley*
+*Donneau de Vise*Défense du Sertorius de M.Corneille
+*Aubignac*Quatrième Dissertation…, in Troisième Dissertation concernant le Poeme Dramatique en forme de Remarques sur la Tragédie de M. Corneille intitulée L'Œdipe envoyée à Madame la Duchesse de  R⁎, et Quatrième Dissertation concernant le Poeme Dramatique suivant de réponse aux calomnies de M . Corneille
+*Tillet*Le Parnasse françois
+*Mongredien*Recueil de textes et de documents du XVII*ème* relatifs à Corneille
+*Loret*La Muze Historique*ème*
+*Harpe*Lycée, ou cours le littérature ancienne ou moderne
+*Collins*Thomas Corneille, protean Dramatist
+
+
+
+#### Ouvrages généraux sur le XVII*ème* siècle*Adam*Histoire de la Littérature française du XVII*ème*
+*Auerbach*Le culte des passions : essai sur le XVII*ème* siècle
+
+
+
+#### Ouvrages sur le théâtre classique*Bénichou*Morales du Grand Siècle
+*Clarke*The Guénégaud Theatre in Paris (1673-1680), Volume 1 : Founding, design and production & Volume 2 : The Accounts season by season
+*Corneille*Trois Discours sur le Poème dramatique
+*Delmas*la Tragédie de l'âge classique (1553-1770)
+*Escola*Le tragique
+*Forestier*Essai de génétique théâtrale : Corneille à l'œuvre
+*Forsyth*La Tragédie française de Jodelle à Corneille,  1543-1640 : le thème de la vengeance
+*Scherer*La Dramaturgie classique en France
+
+
+
+### Articles*Aulotte*Héroïsme et création littéraire sous les règnes d'Henri IV et de Louis XIII*è*
+*Chaillou*Les ratés de la littérature
+
+
+
+## Instruments de travail
+
+
+### Ouvrages sur la langue*Académie Française*Dictionnaire
+*Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+*Richelet*Dictionnaire françois contenant les mots et les choses, et plusieurs nouvelles remarques sur la langue françoise…
+Dictionnaire du Français Classique, le XVII*ème**ère*
+Le Petit Robert, Dictionnaire de la langue française*ère*
+*Cayrou*Dictionnaire du Français classique, la langue du XVII*ème*
+*Forestier*Introduction à l'analyse des textes classiques
+*Fournier*Grammaire du Français Classique
+*Genette*Palimpsestes
+
+
+
+### Dictionnaire de théâtre du XVII*e**Danier*La mise en scène au XVII, mémoire de Laurent Mahelot et Michel Laurent
+*La Grange*Le Registre de La Grange 1659-1685*B.E Young**G. P Young*
+*Lancaster*A History of French Dramatic Literature in the Seventeeth Century
+*Pasquier*Le Mémoire de Mahelot
+*Parfaict*Histoire du Théâtre français
+
+
+-------
+
+
+[1] *Timocrate*, Rouen, Courbé et de Luyne, 1658, in-12°.
+
+[2] *Les Engagements du hasard*, comédie, Rouen, Augustin Courbé, 1657, in-12°. *Le Feint astrologue*, comédie, Rouen, C. de Sercy, 1651, in-4° et in-12°. *Dom Bertrand de Cigarral*, comédie, Rouen, Maurry ; Paris, Le Petit, 1652, in-12°.
+
+[3] *La Mort de l'empereur Commode*, imprimée à Rouen et se vend à Pars, A. Courbé et De Luyne, 1659, in-12°.
+
+[4] *Maximian*, Paris, Courbé, 1662, in-12°.
+
+[5] *Laodice*, Rouen, imprimée à Rouen et se vend à Paris, Barbin et Quinet, 1668, in-12°.
+
+[6] *La Mort d'Annibal*, Paris, Barbin et De Luyne, 1670, in-12°.
+
+[7] *Ariane*, Paris, De Luyne, Barbin et Trabouillet, 1678, in-12°.
+
+[8] *Circé*, Paris, Pierre Promé, 1675, in-12°.
+
+[9] *L'Inconnu*, Paris, Ribou, 1676, in-12°.
+
+[10] *Le Comte d'Essex*, Paris, Ribou, 1678, in-12°.
+
+[11] *Bellérophon*, Paris, Christophe Ballard et Mlle de Beaujeu, 1679, in-4°.
+
+[12] *La Devineresse*, Paris, Blageart, 1680, in-12°. *La Pierre philosophale*, livret représenté dans *Histoire*, vol XII, pp. 225-461 des frères Parfaict. 
+
+[13] *Médée*, Paris, Christophe Ballard, 1693, in-4°. 
+
+[14] *Bradamante*, Paris, Brunet et de Luyne, 1696, in-12°. 
+
+[15]  Voir « Chronologie des principales pièces du XVII*e* siècle », Appendice III, dans J. Scherer, *La Dramaturgie classique en France*, Paris, Nizet, S.D 1950 , édition de 1986, p. 451-452.
+
+[16] P. Corneille, *Œdipe*, imprimée à Rouen et se vend à Paris chez A. Courbé et Guillaume de Luyne, 1659. 
+
+[17] *Stilicon*, Paris, Courbé, 1660, in 12°. Tuteur de l'empereur Honorius, Stilicon souhaite placer son fils à la tête de l'Empire. Pour ce faire, il organise une conjuration mais c'est un échec ; le fils meurt et Stilicon se suicide. 
+
+[18] Loret, *La Muze historique*, Paris, Ravenel et la Pelouze, 1857-1858, 4 vol., III, 314, Col 2.
+
+[19] D'Aubignac, *Quatrième Dissertation concernant le poeme dramatique servant de réponse aux calomnies de M.Corneille*, Paris, J. Du Breuil, 1663, p. 133-134.
+
+[20] Donneau de Visé, *Défense du Sertorius de M. de Corneille*, Paris, Barbin, 1663, p. 7-9.
+
+[21] Voir *Chefs d'œuvre dramatiques de Thomas Corneille*, Paris, Belin, 1791, vol. 1. 
+
+[22] *Album Théâtre classique : la vie théâtrale sous Louis XIII et Louis XIV*, iconographie réunie et commentée par Sylvie Chevalley, Paris, Gallimard, Pléiade, 1970, p. 90.
+
+[23] Citation reprise de Gustave Reygnier, *Thomas Corneille, sa vie et son théâtre*, Genève, Slatkine Reprints, 1970.
+
+[24] « Catalogue de ses pièces », in *Chefs d'œuvre dramatiques de Thomas Corneille*, Paris, Belin, 1791, vol. 1.
+
+[25] *Le Théâtre de Thomas Corneille, édition revue corrigée et augmentée*, Amsterdam, chez l'Honoré et Châtelain, 1716.
+
+[26] Le Théâtre de Thomas Corneille, op. cit.
+
+[27] Destouches, *Suite de la Cinquième lettre à Monsieur le Chevalier de B⁎⁎, in Œuvres de Monsieur Destouches…* nouvelle édition, Amsterdam et Leipzig, Arkstée et Merkus, 1775, t. IV, p. 46.
+
+[28] Lettre de Voltaire à Jean Baptiste Nicolas Formont, lettre en date du 10 août 1741.
+
+[29] F. et C. Parfaict, *Histoire du théatre françois*, Paris, P. G. Le Mercier et Saillant, 1746, t. VIII, p. 363.
+
+[30] G. Reynier, *Thomas Corneille, sa vie et son théâtre*, Genève, Slatkine Reprints, 1970, p. 115. 
+
+[31] H. Carrington Lancaster, *A History of French Dramatic Literature in the Seventeeth Century*, Baltimore, Johns Hopkins Press, 1936, part III, vol. 2, « 1652-1672 : the period of Molière », p. 442 : « Though the play falls far short of *Andromaque* and has no character so striking as the protagonist of *Stilicon, Camma* is one of the most skillfully constructed on its day. The rapid action takes place in a few hours and in a single room, the exposition possesses clarity and verissimilitude, the events follow one another logically, suspense is well preserved (...). »
+
+[32] A. Adam, *Histoire de la littérature française du XVII*e* siècle*, Domat, 1948-1952, 5 vol ; rééd. Del Duca, 1962, t. II, « L'époque de Pascal », p. 346. 
+
+[33] Expression tirée de “Thomas Corneille” de Michel Chaillou, p. 33, dans *Les ratés de la littérature*, deuxième colloque des Invalides, 11 décembre 1998, Paris, Du Lérot, 1999. 
+
+[34]  Voir J. Clarke, *The Guénégaud Theatre in Paris (1673-1680)*, The Edwin Mellen Press, vol. 1, “Founding, design and production”, 2001, p. 328 et 332 ; vol. 2, “The accounts season by season”, 2001, p. 377. 
+
+[35]  Voir H. Carrington Lancaster, *op. cit.*, p. 442 et *J. Clarke*, *op.cit*, vol. 1, p. 238. 
+
+[36] Information tirée du catalogue BN-Opaline de la Bibliothèque nationale de France, section « Arts du spectacle ». Une petite erreur, selon nous, à souligner : notre pièce est intitulée « tragi-comédie » alors que ce n'est pas le cas. 
+
+[37] Voir Plutarque,  *Œuvres Morales* (ou *Moralia*), t. IV, Paris, Les Belles Lettres, 2002.
+
+[38] Voir Plutarque, *Dialogue sur l'amour* (*Eroticos)*, Robert Flacelière (éd.), Paris, Les Belles lettres, 1953.
+
+[39] Plutarque, *ibid..*, chapitre 21, 767A, « Apologie de l'Amour conjugal ».
+
+[40]  Voir Polyen, *Strategematon*, Bibliotheca Teubneriana, Stuttgart, 1970, Libri VIII, 39. 
+
+[41] U. V. Chatelain, *Le Surintendant Nicolas Fouquet protecteur des lettres, des arts et des sciences*, Paris, 1905 ; Reprints Slatkine, 1971, p. 237-238 (page XXII de *Œdipe* de Corneille par Benedicte Louvat, Société de littératures classiques, Toulouse, 1995).
+
+[42] Voir l'article « Une héroïne de Plutarque, Camma, et son destin dans la littérature dramatique » de Robert Aulotte dans *Héroïsme et création littéraire sous les règnes d'Henri IV et de Louis XIII*, acte de colloque de la Société d'étude du XVII*e* siècle, 5-6 mai 1972, Strasbourg, Paris, Klincksieck, 1974, p. 277-296.
+
+[43] La Caze, *Cammane*, tragédie, A. de Sommaville, 1641, in 4°. 
+
+[44] *La Gallerie des femmes fortes*, Pierre Le Moyne, Paris, Antoine de Sommaville, 1647. Nous soulignons.
+
+[45] G. Genette, *Palimpsestes*, Paris, Seuil, Poétique, 1982, p. 298.  
+
+[46] Acte I, 1, vers 13.
+
+[47] *Le Mémoire de Mahelot Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie-Française au XVII*ème* siècle*, publié par Henry Carrington Lancaster, Paris, Librairie ancienne Honoré Champion, 1920, p. 114 ; rééd. Pierre Pasquier, Honoré Champion, Paris, 2005, p. 329. 
+
+[48] Jacques Scherer, *La Dramaturgie classique en France*, Paris, Nizet, S.d. 1950 ; rééd. 1986, p. 40.
+
+[49] Acte I, 1 ; II, 2 ; II, 3 ; III, 1.
+
+[50] Acte I, 3 ; IV, 1. 
+
+[51] Acte III, 1 vers 817 et 823-824.
+
+[52] Acte I, 3 vers 269-383.
+
+[53] Ed. Klincksieck, 1996, p. 146.
+
+[54] Aristote, *Poétique*, éd. Hardy J., Paris, Les Belles Lettres, collection des Universités de France, 1932 ; rééd. 1952, 1453b, 20-22.
+
+[55] Nous soulignons. 
+
+[56] *Racine, Œuvres Complètes*, éd. Georges Forestier, Gallimard, Bibliothèque de la Pléiade, 1999, p. XL.
+
+[57] Citation dans *Le Tragique*, éd. Marc Escola, GF Flammarion, Corpus, 2002, p. 38.
+
+[58] M. Escola, *éd. cit.*, p. 38. 
+
+[59] On peut citer à titre d'exemple une autre héroïne qui s'inscrit dans une lignée de figures féminines, distinguées pour leur honneur et leur vertu : il s'agit de Crisante, héroïne de Jean de Rotrou qui fait également partie des *Vertueux faits de femmes* de Plutarque. 
+
+[60] Acte I, 3 vers 262.
+
+[61] Voir Plutarque, *Œuvres Morales*, t. IV, « conduites méritoires de femmes », 20*e* histoire, Paris, Les Belles Lettres, 2002 : « Quant à Camma, elle vécut toute la nuit, et à la nouvelle qu'il avait expiré, elle finit dans la joie et dans la gaîté ». Pour des raisons d'unités de temps, il fut impossible pour Thomas Corneille de faire durer le moment de sa mort. 
+
+[62]  Voir Pierre Le Moyne, *La Gallerie des Femmes fortes*, Lyon, Libraires de la Compagnie, 1667, « éloge de Camma » : « Camma eût la satisfaction de le voir mourir avant elle : et aprez avoir joüy deux ou trois heures de sa vangeance, et de la gloire de sa Fidélité, elle alla porter la nouvelle de l'un et de l'autre à Sinnate ». La « Camma » de Thomas Corneille par contre a le sentiment d'avoir perdu son honneur en l'épousant et c'est pour le récupérer qu'elle veut mourir.
+
+[63] Acte I, 5 vers 398-399.
+
+[64] Acte I, 3 vers 258.
+
+[65] Paul Bénichou, *Morales du grand siècle*, Gallimard, 1948 ; rééd. Gallimard, Folio essais, 2003, p. 23. 
+
+[66] Acte I, 2 vers 119-120.
+
+[67] Acte I, 1 vers 81-92.
+
+[68] Acte IV, 3 vers 1369-1372. 
+
+[69] Acte III, 2 vers 898-899. 
+
+[70] Paul Benichou, *Morales du grand siècle*, Gallimard, 1948 ; rééd. Gallimard, Folio Essais, 2003, p.38.
+
+[71] Voir Acte I, 1.
+
+[72] Acte V, 2 vers 1720-1721.
+
+[73] Acte V, 2 vers 1696.
+
+[74] Acte III, 1 vers 845-847.
+
+[75] Voir Acte III, 1 note 126. 
+
+[76] C. Forsyth Elliott, *La Tragédie française de Jodelle à Corneille (1553-1640). Le thème de la vengeance*, Paris, Nizet, 1962 ; rééd. Paris, Champion, 1994, p. 403-405.
+
+[77] *P. Quinault*, *Amalasonte*, Paris, A. Courbé, 1658. 
+
+[78] Acte V, 1 vers 1613-1614.
+
+[79] Acte V, 1 vers 1633.
+
+[80] Acte V, 1 vers 1661.
+
+[81] Acte I, 3 vers 244-245.
+
+[82] J. Scherer, *La Dramaturgie classique en France*, Paris, Nizet, s.d 1950 ; Rééd. 1986, p. 418. 
+
+[83] Acte V, 6.
+
+[84] Acte V, 6 vers 1964. 
+
+[85] Jacques Scherer, *op. cit.*, p. 258.
+
+[86] *Ibid.*, p. 128.
+
+[87] P. Corneille, *Pertharite*, vers 737-740.
+
+[88] Classification à l'œuvre chez Gustave Reynier, *Thomas Corneille, sa vie et son théâtre*, Slatkine Reprints, Genève, 1970, et chez David Collins, *Thomas Corneille : Protean Dramatist*, Mouton & co., London / The Hague / Paris, 1966. 
+
+[89] *La Mort de l'empereur Commode*, Rouen, Courbé et de Luyne, 1659, in 12°. 
+
+[90] Acte III, 2.
+
+[91] Acte III, 2 pour les deux citations. 
+
+[92] Acte III, 6.
+
+[93] Propos d'Helvie, Acte V, 7.
+
+[94] J. Scherer, *op. cit.*, p. 67. 
+
+[95] D. Collins, *Thomas Corneille : Protean Dramatist, éd. cit.*, p. 127.
+
+[96] *Andromaque*, Acte I, 4 vers 287-290.
+
+[97] Acte I, 4 vers 367-369.
+
+[98] Acte III, 7 vers 977-980.
+
+[99] Modèle classificatoire de G. Forestier, *ibid.*, p. 1337. 
+
+[100] E. Auerbach, *Le culte des passions : essai sur le XVII*e* siècle*, Paris, Macula, 1998, chap. « Racine et les passions », p. 42. 
+
+[101] *Ibid.*, p. 43. 
+
+[102] P. Corneille, *Trois Discours sur le Poème dramatique*, éd. Louis Forestier, Société d'Édition d'enseignement supérieur, 1982, p. 46. 
+
+[103] Acte I, 2 vers 178-180.
+
+[104] P. Benichou, *op. cit.*, p. 70.
+
+[105] Acte I, 2 vers 159.
+
+[106] Acte I, 1 vers 9.
+
+[107] P. Benichou, *Morales du grand siècle*, Gallimard, 1948 ; rééd. Folio essais 2003, p. 89. 
+
+[108] Acte III, 6 vers 1597-1598.
+
+[109] Acte V, 4 vers 1868.
+
+[110] P. Corneille, *Trois Discours sur le Poème dramatique*, Louis Forestier, Société d'Édition d'enseignement supérieur, 1982, p. 46.
+
+[111] Corneille, *Lettre à Saint-Evremond* (pour le remercier des éloges contenus dans sa *Dissertation sur Alexandre*). Citation tirée de *Morales du grand siècle*, Paul Benichou, *Ed. Cit.* p. 56.
+
+[112] *Racine, Œuvres Complètes*, éd. Georges Forestier, Gallimard, La Pléiade, p. 1320. 
+
+[113]  P. Benichou, *op. cit.*, p. 97.
+
+[114] Acte II, 3 vers 557-558.
+
+[115] Acte II, 4 vers 621-624.
+
+[116] A l'acte I, 1 ;  I, 3 ;  I, 4 ;  II, 1 ; III, 3.
+
+[117] Acte I, 1.
+
+[118] Acte II, 1.
+
+[119] Il s'agit ici de Henri Jules de Bourbon, duc d'Enghien, fils du Grand Condé. De même que son père était appelé « Monsieur le Prince », le duc d'Enghien était appelé « Monsieur le Duc ». 
+
+[120] *Var. 1692* : V.A.S
+
+[121] *Var. 1692* : elle ne me laisse point examiner
+
+[122] *Var. 1692* : Le tres-humble et tres-obeïssant Serviteur
+
+[123] *La Galatie* : Région de l'Asie Mineure, occupée par les Celtes venus de la Gaule vers 235 av. J.-C. L'ethnique « Galates » est d'origine celtique et aurait d'abord servi à désigner chez les Celtes les nations auxiliaires telles que celles des Belges par exemple. 
+
+[124] Amorce intéressante car il semble que Sinorix confirme une supposition avancée par Phaedime avant le début de la représentation. L'entrée dans le sujet de la pièce est, de cette façon, plus vive, plus dynamique. 
+
+[125] *Un vieux droit* : on ne sait pas de quel droit il s'agit. Plus loin, le trône sera toutefois défini comme le « bien de mes Ayeux » (v .156)
+
+[126] Image de la politique : légitimité et violence.
+
+[127] Sinorix règne depuis la mort de Sinatus. 
+
+[128] *Var. 1692* : nourrir
+
+[129]  « C'est peu de …n'est encore violé » : Il est inutile pour Sinorix d'avoir tué Sinatus si son devoir imposé par Sinatus d'épouser Hésione n'est pas annulé, rompu par  un hymen avec Camma. Il a tué Sinatus pour avoir Camma. Tant que cela n'aura pas lieu, cette mort n'aura aucun intérêt. On comprend cette phrase en faisant porter « immolé » sur « Sinatus » et en traduisant la préposition « de » par une virgule.  De plus diérèse sur « violé ».
+
+[130] Prendre le pouvoir lave tous les péchés. Le pouvoir légitime tous les crimes passés. Voir Acte II, 1 de *Cinna* où Cinna explique à Auguste que son pouvoir est juste dans la mesure où il est monté sur le trône et où son autorité est maintenant reconnue par le peuple : « Gouvernant justement, ils les conquérants s'en font justes princes ». (*Corneille, Œuvres Complètes*, éd. Georges Couton, Gallimard, Pléiade, vol. I, 1980, vers 426). De la même façon, Livie, aussi « machiavélique » que Phaedime, exprime la même idée que cette dernière : « Tous ces crimes d'Etat qu'on fait pour la couronne, / Le Ciel nous en absout alors qu'il nous la donne ; / (…) / Qui pour y parvenir ne peut être coupable ; / Quoi qu'il ait fait ou fasse, il est inviolable » (*Cinna*, Corneille Pierre, *Ed. Cit*, vers 1609-1614). 
+
+[131] *Tyran* : vient du grec τύραννος« maître ». Chez les Grecs, celui qui s'emparait du pouvoir par la force. Plus tard désigne une personne qui, ayant le pouvoir suprême, l'exerce de manière absolue, oppressive.  Personnage assez fréquent dans les tragédies classiques.  Ce vers se retrouve pratiquement mot pour mot dans *Pertharite* de Corneille, II, 3, v. 563 : « Porte, porte aux tyrans tes damnables maximes »
+
+[132] *Par* : s'employait là où nous employons les prépositions ou locutions prépositives. Ici, « à cause de ». 
+
+[133] Sentence populaire qui exprime une idée générale mais le « on » cache ici, de manière imparfaite, le « je ». En effet, il s'agit pour Sinorix d'exprimer toute la culpabilité qu'il peut ressentir. 
+
+[134] «  C'est beaucoup…à vous justifier » : Phaedime se trompe ici.
+
+[135] *Il a pris malgré luy ce qu'il n'a pû donner* : Vers à expliciter car son objet est le pronom démonstratif « ce ». Ce qu'  « il a pris malgré lui » c'est peut-être le sentiment amoureux dont Sostrate doit maintenant supporter le poids car il ne peut pas le partager avec Hésione. 
+
+[136] *Var. 1692* : Montre
+
+[137] « Bel espoir trahy » : l' espoir de monter sur le Trône est «  trahy » car comme Sinorix ne souhaite pas épouser Hésione, elle ne peut monter sur le trône et exercer son pouvoir. 
+
+[138] « Qu'espérant d'estre aimé » sous-entendu « d'Hésione ».
+
+[139] Diérèse.
+
+[140] Camma a l'air de tenter d'éviter de se retrouver face à Sinorix. Ce comportement fait penser à la manière dont Andromaque se comportait face à Pyrrhus : « Me cherchiez-vous, Madame ? / Un espoir si charmant me serait-il permis ? // Je passais jusqu'aux lieux où l'on garde mon fils. / Puisqu'une fois le jour vous souffrez que je voie / Le seul bien qui me reste et d'Hector et de Troie, / J'allais, Seigneur, pleurer un instant avec lui : / Je ne l'ai point encore embrassé aujourd'hui. » (*Andromaque*, dans Racine, *Œuvres Complètes*, éd. G. Forestier, Paris, Gallimard, Pléiade, 1999, Acte I, 4 vers 259-264).
+
+[141] *Souffrir* : ici il faut expliciter. « qui me souffre l'espoir » peut signifier « qui me fasse supporter, qui me donne à supporter  l'espoir ». Sinorix fait semblant d'être lucide, il a conscience du fait qu'il ne doit pas espérer qu'elle l'aime en retour. Il la séduit, la charme. 
+
+[142]  « Ce charme… ebloüir »  : Sinorix a la certitude que son amour pourra séduire la cruauté de Camma.
+
+[143] *M'avez dû connoistre* : en Français classique, il est très fréquent d'avoir ce type de construction que Nathalie Fournier, dans *Grammaire du français classique*, Belin sup, appelle construction avec montée du clitique (2002, p. 80). De plus, « vous m'avez dû connoistre » équivaut à « vous auriez dû me connaître ». 
+
+[144] En épousant Sinorix, elle monterait effectivement sur le Trône mais ce serait aussi se rabaisser et perdre son honneur que d'accepter ce mariage pour être Reine. Par cette métaphore Camma montre le paradoxe de la situation. En l'épousant elle descendrait dans sa propre estime. 
+
+[145] « Vefve de Sinatus…la serois-je d'un Roy » : En restant veuve elle préserve son statut de Reine mais en se mariant avec Sinorix, ce statut est mis en doute car Camma ne considère pas Sinorix comme un « roi ». 
+
+[146] *Rentrer à* : pouvait se conjuguer intransitivement avec l'auxiliaire avoir. Signifie « revenir à ». Sinorix considère son pouvoir comme légitime et comme légal car c'est un bien qui lui revient de sa famille. 
+
+[147] Diérèse : le mot compte pour trois syllabes. 
+
+[148] Opposition entre « possession » et « usurpation ». L'idée de possession est une idée d'appréhension, de jouissance totales du pouvoir alors qu'elle n'est que vain abus, perverti, une usurpation (le mot signifiant l'action de s'emparer par usage) pour l'instant. La possession dans ce cas peut s'acquérir de plein droit par le mariage avec la fille légitime du défunt roi. 
+
+[149] « Et que son zéle…amour » : l'amour que Sinorix voue à Hésione n'est qu'une apparence. C'est en remplaçant l'amour par son devoir envers Sinatus qu'il a pû donner l'impression que ses sentiments étaient sincères. 
+
+[150] *Lors* : Adverbe qui signifie « alors ». Vaugelas ne l'admettait déjà plus que dans les locutions comme dès lors (encore actuelle), pour lors (plus rare aujourd'hui) et lors que (auj. seulement lorsque conjonction écrite en un seul mot). Richelet le considère comme vieux. C'est d'ailleurs pour cela que dans les éditions ultérieures notamment celle de 1692, Corneille a transformé ce vers : « ce cœur en qui l'espoir n'auroit pû qu'estre un crime ». 
+
+[151] *Var. 1665-1692* : je donnai mon adveu. Dans l'édition originale, le sujet est « le cœur », métonymie pour dire « je ». Dans les éditions ultérieures, il supprime la métonymie et le sens devient plus clair. 
+
+[152] « Mais si tost…ame, » : Sinorix laisse entendre que  la mort de Sinatus lui a permis d'avouer sa flamme à Camma. C'est parce que Sinatus est mort que Sinorix a pu se libérer de son lourd secret. Mais le spectateur sait que c'est parce qu'il voulait se marier avec Camma et ne pas épouser Hésione qu'il a décidé de se débarasser de Sinatus. 
+
+[153] *Manes* : âmes des morts, dans la religion romaine. 
+
+[154] *Source de son sang* : périphrase pour désigner celui qui est à l'origine de sa naissance, Sinatus.
+
+[155] *Var. 1692* : S'il suit son désespoir, est capable de tout. 
+
+[156] Menace sourde envers Camma. 
+
+[157] *D'employer* : de nos jours l'infinitif serait remplacé par un gérondif « en employant ».  Phrase teintée d'ironie. 
+
+[158] Camma lui signifie qu'elle ne se donnera que dans la peur. Propos ironiques car c'est une manière de dire qu'aucune violence ne peut l'effrayer. 
+
+[159] *Redoublez* : il s'agit ici du participe passé « redoublées » qu'il ne faut pas confondre ici avec un impératif.  
+
+[160] Autre élément perturbateur qui empêche Camma  de l'épouser : c'est sa belle-fille Hésione. D'ailleurs, implicitement, une menace est proférée par Sinorix envers la princesse (cf. « je puis estre Tyran pour d'autres que pour vous » ). 
+
+[161] *Luy* : « à mon amour » plutôt que « à ce qui me nuit » (vers 226). 
+
+[162] Le sous-entendu de Sinorix à la fin de la scène précédente est rendu explicite par Camma.
+
+[163] *Sinorix menaceant*  : proposition participiale formée d'un élément prédicatif (ici d'un participe présent sous-entendu puisqu'il s'agit vraisemblablement du verbe « être » ) et d'un GN support du prédicat, ici Sinorix. A une valeur causale. 
+
+[164] « (…) si je veux me vanger » : éventualité, fait conçu comme possible. On peut reformuler cette proposition par une subordonnée conjonctive « que je veuille me venger » ou par un groupe nominale « de ma vengeance ». 
+
+[165] Le Vase Nuptial symbolise de façon concrète l'union. Le fait qu'il se soit brisé le jour même de son mariage est considéré par Camma comme un mauvais présage, un signe des Dieux qui signifie qu'une rupture adviendra prochainement. 
+
+[166] *Accident* : évènement fortuit mais qui vaut comme présage, comme un fait prémonitoire. 
+
+[167] Plutarque ne parle pas de ce présage, ni Pierre Le Moyne d'ailleurs. Cette invention dramaturgique de Thomas Corneille sert à mettre en lumière la coupe nuptiale, objet qui va être important notamment dans le dénouement. 
+
+[168] *Faire raison* : donner satisfaction pour une offense, donner une justification, ici de sa vengeance, inutile.  Aujourd'hui en ce sens on dit rendre raison.  
+
+[169] *Savoir* : ici connaître. Hétérométrie avec cet hexasyllabe en fin de réplique. Cela  crée un effet de chute.
+
+[170] Phenice est aussi dans l'erreur car elle croit, comme Sinorix,  qu'Hésione est aimée de Sostrate et qu'elle peut donc l'amadouer pour qu'il les aide à se débarrasser de Sinorix. 
+
+[171] En effet Sostrate est le seul homme digne de confiance pour Sinorix. 
+
+[172] Ce vers signifie que Sostrate a toutes les difficultés, à cause de son affection pour Sinorix, à se retourner contre celui-ci pour venger Camma. 
+
+[173] *Brûler et feindre* : Vis-à vis de Camma et d'Hésione, il a, respectivement,  des sentiments à l'extrême l'un de l'autre. 
+
+[174] *Le* : croire Sostrate et donc conséquemment Sinorix.
+
+[175] « Et que ce triste cœur…aimé »  : ce cœur aime plus qu'il ne hait. 
+
+[176] Le pronom « il » remplace le substantif « devoir ». 
+
+[177] « En le vangeant »  : cela signifie : « au moment où je le vangerai ».
+
+[178] Camma, par cette question, est ironique car elle ne pense pas qu'Hésione fasse tout cela dans un but désintéressé. 
+
+[179] Sentence, maxime qui réfère à l'action particulière de la pièce. Ce n'est donc pas une véritable sentence. Hésione fait allusion à l'attitude de sa belle-mère mais comme l'explique Jacques Scherer dans *La Dramaturgie classique en France*, Paris, Nizet, S.D 1950 ; rééd. 1986 : « C'est ici la forme féminine du dernier mot qui enlève à la phrase la portée universelle qu'elle pourrait avoir » (p. 326). 
+
+[180] Hésione, malgré sa déférence du début,  critique l'attitude de Camma et sous-entend qu'en agissant de la sorte c'est-à-dire en « jouant » le dépit amoureux, elle donne de l'espoir à Sinorix. Pour Hésione, ce n'est qu'une parade car en repoussant les avances de Sinorix, elle n'étouffe pas tous ses espoirs. 
+
+[181] Le « l' « du vers précédent et le « en »  du vers suivant réfèrent à la « volonté ». 
+
+[182] Phrase à entendre à deux niveaux : pour Camma, la « feinte » c'est la ruse ; en d'autres termes, c'est un bon moyen pour se venger car l'effet de surprise est optimum dans la mesure où les buts véritables de toute action sont dissimulés jusqu'à la fin. Tandis que pour Hésione la  « feinte » est synonyme d'hypocrisie, de malhonnêté (cf. vers suivant).  
+
+[183] Dans l'édition originale, c'est le point comme signe de ponctuation qui a été privilégié alors qu'on peut entendre cette phrase comme une interrogation. On  peut  conserver ce signe car il s'agit d'une question rhétorique, c'est-à-dire d'une question qui n'attend pas de réponse. 
+
+[184] *Sur* : sens plus étendu qu'aujourd'hui. Ici s'emploie à la place de « au sujet de, relativement à ».
+
+[185] Hésione s'interroge. Est-ce que les attentions de Sostrate à son égard ne cherchent pas à lui faire avouer sa flame ?
+
+[186] *Ne pas laisser séduire ta vertu contre moi* : Ce tour, très littéraire, est de nos jours très peu utilisé. Il faut comprendre cette phrase comme  « séduire malgré tout ta vertu contre moi ». Le système hypothétique marque la perplexité d'Hésione car elle considère que l'amour de Sostrate envers elle est trompeur car son but premier est de servir son maître. 
+
+[187] *De s'obstiner* : si elle s'obstine. 
+
+[188] Sostrate est au courant que Sinorix ne veut pas honorer la promesse, faite à Sinatus, d'épouser Hésione. 
+
+[189] *Que* : cet adverbe interro-exclamatif signifie « le fait de ». De plus, la négation « n' « est un « ne » explétif c'est-à-dire qu'il ne conserve qu'une trace ténue de cette valeur négative. Sa présence n'est donc pas indispensable. 
+
+[190] *Je vous le dis encor* : une première entrevue a dû avoir lieu entre les deux protagonistes pendant l'entracte. 
+
+[191] *Avoir peine* : Locution verbale avec un GN en complément. La formation de locutions verbales avec un verbe opérateur et un nom à déterminant zéro, est massivement attestée en français. Le français classique se caractérise par une grande vitalité de ces formations. Ces locutions se sont, pour une grande partie, conservées en français moderne ou ont vu le déterminant zéro remplacé par l'article « le ». C'est le cas de « avoir peine » devenu aujourd'hui « avoir de la peine ». 
+
+[192] *Ne* : au XVII*e* siècle, il avait une forte valeur de négation. Le terme négatif « ne », employé à l'origine seul comme le « non » latin, a été très tôt renforcé par des noms qui désignaient une petite quantité. Mais alors qu'en ancien français « ne » se suffisait à lui-même et portait l'essentiel de la valeur négative, il est souvent effacé aujourd'hui à l'oral, qui se contente de l'autre terme, pourvu d'une pleine valeur négative. 
+
+[193] Ironie acerbe d'Hésione : rare pour un « tyran » de se lever contre l'injustice car c'est lui qui habituellement la commet. 
+
+[194] *La* : pronom qui remplace le substantif « injustice ». 
+
+[195] «  Mais ce charme…haut prix » : Hésione ressent cette grâce,  car le charme a opéré en elle mais elle prétend devant Sinorix qu'elle ne peut pas mériter Sostrate tant qu'elle n'aura pas de trône à lui offrir. 
+
+[196] *Compter de* : faire partie de.  
+
+[197] *Brigue* : parti, cabale, faction. Grâce à Plutarque, on apprend que Sinatus et Sinorix étaient les plus puissants tétrarques de Galatie. Les Galates étaient réparties en trois tribus (Trocmes, Techosages et Tolistoboges ou Tolistoages), qui étaient chacune divisée en quatre tétrarchies. 
+
+[198] *Je dûs* : j'aurais dû. 
+
+[199] Sinorix présente la mort comme un fait du Destin.
+
+[200]  Le terme de « roy » employé ici par Hésione ne fait pas référence à Sinorix. En effet, pour parler de lui ou même quand elle l'interpelle, elle utilise uniquement le mot de « tyran ». Donc on peut comprendre que derrière ce substantif « roy »,  Hésione y place la personnalité de Sinatus, qui pour elle est le seul digne de ce titre. 
+
+[201] Ici par « crime », Hésione qualifie l'usurpation. 
+
+[202] *Chemin que tu prens*  : c'est-à-dire accepter la main de la fille du Roi, et à la mort de ce dernier, évincer la fille et prendre le pouvoir seul. 
+
+[203] Ironie, fausse magnanimité de la part de Sinorix. 
+
+[204] *Faire effort* : s'efforcer. Le verbe « faire » se joint, au XVII*e* siècle, avec divers substantifs avec lesquels il forme des phrases qui peuvent se résoudre par les verbes primitifs ou dérivés qui répondent à chacun de ces substantifs. 
+
+[205] *Quelque… que + subjonctif* : Il s'agit d'une concessive paratactique. Les tours concessifs à support indéfini (termes en qu-) sont extrêmement fréquents en français classique, notamment chez Corneille. Le subjonctif, exigé par les grammairiens, est usuel en français classique ; il est lié à la valeur fondamentalement indéfinie de la construction. (N. Fournier, *Grammaire du français classique*, Belin Sup, 2002, p. 360-361). 
+
+[206] *Var. 1692* : Je sçay que dans ces lieux c'est moy seul qui commande, 
+
+[207] *Sang dont je suis née*  : périphrase pour désigner Sinatus. 
+
+[208] *Répondre à ta flame*  : marquer la relation du sceau de la réciprocité. 
+
+[209] *Vous laisser jour* : vous laisser la possibilité de. 
+
+[210] *J'ay dû* : J'aurais dû. 
+
+[211] *Maux* : Sinorix fait référence ici à l'exil. 
+
+[212] Il en proie subitement au remords et demande à Phaedime de résoudre la situation mais les points de suspension révèlent un changement soudain d'attitude. 
+
+[213] « Non, non…de me voir dédaigné » : Ce que veux Sinorix c'est ôter du cœur d'Hésione la suffisance et le bonheur qu'elle ressent  à son égard  lorsqu'il est repoussé par Camma. On comprend cette phrase en faisant porter « à son cœur indigné » sur le verbe à l'infinitif « dérober » et sous-entendre un complément d'agent après « dédaigné ». 
+
+[214] *Var. 1692* : la haine
+
+[215] *Avec mon injustice*  : sans me justifier.
+
+[216] « Et qu'il n'est point de maux… pour cesser de souffrir » : Il n'est pas prêt à supporter de fortes douleurs pour arrêter d'aimer, même si cela fait cesser la souffrance de ne pas être aimé en retour. 
+
+[217] *Sa haine* : il s'agit ici de la haine de Camma. Pour Sinorix, Hésione est responsable des refus de Camma. *Ses interests* : il s'agit des interêts d'Hésione. 
+
+[218] En français classique, le verbe de la principale dans une proposition subordonnée hypothétique est au présent, alors qu'en Français moderne, si le verbe de la subordonnée est au présent, le verbe de la principale est au futur. Sostrate lui avoue que ce n'est qu'avec le temps que Sinorix pourra espérer vaincre l'orgueil et l'amour-propre de Camma.
+
+[219] *C'est assez* : c'est beaucoup
+
+[220] *Var. 1692* : A croire en vous ce feu dont vous osez vous plaindre ; 
+
+[221] La « bassesse », ici, peut être comprise en deux sens : à la scène 2 de l'acte I,  Camma a donné comme raison à son refus le fait que le trône était réservé à Hésione. C'est finalement par devoir envers sa belle-fille qu'elle s'est opposée à cette union. Mais nous savons que ce qui est d'abord une « bassesse » pour Camma, c'est de manquer à son devoir envers Sinatus en épousant le meurtrier de son mari. 
+
+[222] *En fera plus juger*  : sera jugé par le plus grand nombre. Ici, « juger » est pris dans un sens négatif.
+
+[223] *Ce que vous dédaignez*  : c'est-à-dire que Sinorix reste sur le trône.
+
+[224] *Ses seuls interests* : Ce sont les intérêts d'Hésione puisque Sinorix croit que c'est par égard pour elle que Camma refuse de l'épouser. 
+
+[225] *Je veux que* : imaginons que. 
+
+[226] *Sera-t-il ton partage* : signifie : t'appartiendra t-il. Camma doute qu'un engagement forcé attire son cœur vers lui. Voir Emilie : « Mais le cœur d'Emilie est hors de son pouvoir » (Acte III, 4, vers 943. *Cinna*, Corneille). Comme pour celle-ci, la contrainte empêche toute adhésion du cœur. 
+
+[227] *Var. 1692* : S'il ne gagne le cœur, estime peu la main ;
+
+[228] « La mesme raison » c'est-à-dire le désir que Sinatus a prononcé, à savoir celui de voir Sinorix épouser Hésione.
+
+[229] « Si quelque heureux Rival dont vous payiez la foi, / Je n'immole à ses vœux toute l'amour d'un Roy » : La difficulté réside dans le fait que le verbe de la proposition subordonnée hypothétique manque. Ce ne peut être le verbe « immoler » de la principale car il a déjà son propre sujet « je ». On doit donc comprendre que le verbe est sous-entendu et qu'il s'agit de l'auxiliaire « avoir » : « S'il y a quelque heureux Rival dont vous payiez la foi, / je n'immole à ses vœux toute l'amour d'un Roy. ». Ce vers signifie que si Camma aime quelqu'un d'autre, Sinorix renoncera à l'aimer. *Var. 1692* : Vostre amour à ses vœux n'immole ceux d'un Roy. 
+
+[230] *Var. 1692* : Ce sont les seuls partis que vous avez à prendre, 
+
+[231] Sostrate était sur la scène mais n'a proféré aucune parole. 
+
+[232] Le « on » fait ici référence à Sinorix : le pronom personnel neutre est ici péjoratif car il met à distance le Tyran des autres personnages. 
+
+[233] *Non que j'aspire enfin qu'à mériter un bien* : cette causale négative signifie : « ce n'est pas que je n'aspire pas enfin à mériter un bien ». 
+
+[234]  *Sans trop vous en croire*  = sans trop présumer de vous. 
+
+[235]  *C'est mon Roy, c'est mon Maistre*  : leur rapport est un rapport sujet / roi doublé d'un rapport maître / esclave puisque à cette époque les valeurs issues de la  « féodalité » sont toujours présentes. 
+
+[236] Celui d'être le favori de Sinorix.
+
+[237] *Il* : ce pronom désigne le « courage ». La variante de 1692 «  Qui peut-estre jamais n'a touché ton courage. / Si tu le dédaignois, pourquoy te déguiser, » permet d'éclaircir le sens. 
+
+[238] Il s'agit de la « passion » qu'il ressent pour Camma et de son « devoir » envers Sinorix.
+
+[239] Camma s'impatiente comme Emilie dans *Cinna*, Acte III, 4 : « Il suffit, je t'entends ; / Je vois ton repentir et tes vœux inconstants » (*Cinna*, Corneille, dans *Corneille, Œuvres Complètes*, éd. G. Couton, Gallimard, 1980, vol. I, Bibliothèque de la Pléiade). 
+
+[240] *Vertu timide* : un oxymore, paraphrasable en « courage timoré » ; ironie de la part de Camma qui définit l'état d'esprit actuel de Sostrate.  
+
+[241] Son coeur est un « monument » c'est-à-dire un tombeau où est inscrit à tout jamais le devoir immémorial, la fidélité, qu'elle doit à son mari. 
+
+[242] *Si la vangeance preste* : il ya sûrement ici une omission du verbe « être » : « si la vangeance est preste (= prompte) ».
+
+[243] Echo volontaire du vers 736. 
+
+[244] Ce vers signifie : « laisser le soin au Destin de décider de la vengeance de Sinatus ». 
+
+[245] Pour Sostrate, la mort de Sinatus ne vaut pas que Camma veuille se venger. Il cache la vérité puiqu'il sait que Sinorix a empoisonné Sinatus (I, 1). 
+
+[246] Dès la scène 3 de l'acte I, le spectateur était déjà au courant de ce que Camma savait. 
+
+[247] *Var. 1692* : Quand quittant la Princesse, il soûpire pour moy. 
+
+[248] « Aprés ses longs refus… resistance » : la notion de bienséance ici rend compte du concept de « bien-agir » et de « bien-penser » de la tragédie classique. En effet, Camma ne peut pas céder tout de suite aux avances de Sinorix dans la mesure où cela ne serait pas conforme aux exigences de l'époque. 
+
+[249] *Horreur* : ce mot conserve toute sa force étymologique (Horror : hérissement). Voir le rêve d'Athalie dans *Athalie* de Jean Racine, II, 5, vers 490 : « C'était pendant l'horreur d'une profonde nuit » (*Racine, Œuvres Complètes*, éd. G. Forestier, Paris, Gallimard, 1999, Bibliothèque de la Pléiade).
+
+[250] Il s'agit ici de la voix de la conscience qui exacerbe sa culpabilité. 
+
+[251] *L'Ombre de Sinatus* : ce « personnage-accessoire » est un emploi conventionnel des tragédies qui exploitent le thème de la vengeance (cf. *La Tragédie française de Jodelle à Corneille : 1553-1640 : le thème de la vengeance*, C. Forsyth Elliott, Champion, Genève, Slatkine, 1994 1*re* éd. Nizet 1962 , p. 403-405).
+
+[252] Ce vers signifie : « Et comme si ce n'était pas déjà me faire assez souffrir, »
+
+[253] Ce discours prononcé par Sinatus prend l'aspect d'une prophétie biblique : il lui reproche son attitude passée et lui annonce un sort fatal. 
+
+[254] Hallucination qui laisse présager une mort certaine pour Sinorix mais l'article indéfini « un » dans « un bras levé » jette un doute sur l'identité du meurtrier. 
+
+[255] Face aux visions de Sinorix, Phaedime laisse libre cours à une logique raisonnée. 
+
+[256] *Ne prend point contre vous le désespoir pour guide* : cela signifie que Camma ne se laisse pas entraîner par désespoir à la vengeance. 
+
+[257] *Hélas ! fut-il jamais une infortune égale* ? : le « jamais », forclusif construit sans le discordantiel « ne » a ici un effet de sens négatif. Sinorix lance une invective aux Dieux sur la nature du malheur. Il est désespéré car il s'aperçoit que l'infortune est protéiforme.  
+
+[258] *M'ostez ces soupçons*  : le français classique , comme le français moderne, « oppose l'impératif affirmatif avec un pronom postposé et l'impératif négatif avec un clitique atone antéposé (…) à l'exception des séquences avec impératifs coordonnés, qui conservent le schéma du moyen français. (…) Cette construction a pour effet de lier fortement les deux verbes au sein de l'énoncé. » (N. Fournier, *Grammaire du français classique*, Belin Sup-Lettres, 2002, p. 84). 
+
+[259] Configuration particulière de la scène : schéma triangulaire de manière à faire un acte sans être vu. Sinorix est au centre mais il ne voit rien : cela révèle le fait qu'il est hors de la vérité, dans l'illusion. 
+
+[260] Cette menace n'est en rien politique pour Sinorix : c'est une punition divine. Conception de l'humanité sous tutelle d'une puissance transcendante. Sinorix pense que, pour l'ordre divin,  la mort seule est un châtiment infime. Menacer de mort, par contre, est plus « profitable » car cela entraîne l'angoisse et la peur chez celui qui doit supporter cela. 
+
+[261] *Effort douteux* : le coup porté à l'encontre de Sinorix est « douteux » car il n'a pas encore la preuve que Sostrate est coupable de cet acte.
+
+[262] « La Reine…erreur volontaire. » : cela signifie que le silence de la Reine était un moyen pour Sinorix de considérer l'acte de Sostrate, qui au départ pouvait être pris pour un acte délibéré, comme une erreur. 
+
+[263] *Donner à l'innocent* : épargner en faveur de l'innocent. 
+
+[264] *Qui* : celui qui. 
+
+[265] « Et si l'indigne adveu…suppléer l'effet. » : Sinorix se rend compte que pour Sostrate cet acte, dans la mesure où il n'a pas eu « d'effort », n'est rien sans son aveu. Ce qui est le plus important c'est que tout le monde sache ce qui a été tenté. Sinorix dans ses propos est tout à fait cynique. 
+
+[266] Le discours de Camma est un discours à entendre à deux niveaux : pour Sinorix, son attitude n'est pas compréhensible, mais pour le spectateur qui sait de quelle manière les choses se sont passées, Camma est tiraillée entre la pitié et la colère puisque Sostrate l'a empêchée de tuer Sinorix. 
+
+[267] *A quoy* : forme la plus souvent usitée avec un référent non-animé. 
+
+[268] *Trouble* : redondance malséante car ce mot est déjà présent au vers précédent.
+
+[269] C'est l'idée qu'un traître est nécessairement impie.
+
+[270] *D'un Tyran irrité* : Hésione parle de Sinorix à la troisième personne du singulier, alors qu'il est en face d'elle. C'est un procédé stylistique qui permet de mettre à distance, de manière dédaigneuse,  la personne avec qui ou de qui l'on parle.  
+
+[271] *J'ay dû* : j'aurais dû. 
+
+[272] *Si je ne sçais aimer, du moins je sçay mourir* : à la scène 5 de l'acte I, Hésione disait à Sostrate : « Mais si je n'aime pas, du moins je puis aimer ». L'amour semble donc plus difficile à appréhender que la mort. 
+
+[273] *Qui* : celle qui, c'est-à-dire Camma.
+
+[274] *Var. 1692* : quoy que vous puissiez croire, 
+
+[275] *Var. 1692* : il doive
+
+[276] *A  voir* : c'est-à-dire « je m'en remets au temps qui fera voir qui de nous deux… ». 
+
+[277] *Var. 1692* : Voyez que sous vos pas
+
+[278] *Var. 1692* : C'est à vous de songer
+
+[279] *Sa lâcheté* : c'est-à-dire celle du Destin. 
+
+[280] Hésione a partiellement  raison : dans l'Acte I, elle lui avait demandé (I, 5) de la venger de l'affront que lui faisait Sinorix. En échange, elle se donnait la possibilité de l'aimer. Il s'agit ici d'un quiproquo car comme elle ne connaissait pas les désirs de Camma et de Sostrate, il ne pouvait s'agir dans son esprit que de la conjuration qu'elle a elle-même pensée et réfléchie. 
+
+[281] *Var. 1692* : Ne pouvant le sauver, du moins je dois le suivre,
+
+[282] *Fay, fay le magnanime* : propos ironique de la part de Sinorix. 
+
+[283] *D'un acte de vertu* : pour avoir accompli un acte de vertu. 
+
+[284] *Que je suivray son sort, ou vangeray sa perte* : en français moderne, le subjonctif est nécessaire après « que » : « que je suive son sort, ou venge sa perte ». 
+
+[285] *Tu pers temps* : locution verbale à détermination zéro. Cette locution existe toujours aujourd'hui mais il a été ajouté un déterminant. 
+
+[286] Cette question fait référence à une déclaration de Phenice pendant l'entracte.
+
+[287] *Dès lors* : dès alors, d'emblée.  
+
+[288] *Usurpé* : ce participe passé à valeur d'adjectif se rapporte au substantif « forfait » et non pas à « gloire ». 
+
+[289] Tirade construite sur un enchaînement de dix subordonnées qui présentent les raisons  pour lesquelles elle veut se venger. 
+
+[290] *Var. 1692* : J'entens mon triste coeur
+
+[291] Ambiguïté de la situation et du discours : Camma se présente comme coupable mais les circontances précises ne sont pas révélées et Sinorix comprend le contraire. 
+
+[292] *Peu* : il s'agit du participe passé du verbe « pouvoir ». 
+
+[293] *Vous me demandez grace et je vous la demande* : cette réciprocité n'est qu'apparente dans la mesure où Camma demande grâce pour Sostrate alors que Sinorix demande que Camma soit réceptive à ses demandes. 
+
+[294] *Le sang* : celui de Sostrate.
+
+[295] *Pour en estre inquiete* : cela signifie : pour que vous vous en  inquiétez. *Var. 1692* : pour craindre la tempête. 
+
+[296] *Var. 1692* : Tu m'oses faire voir que ma bonté t'outrage ? 
+
+[297] Ce vers est adressé aux confidents et aux gardes, présents pendant cette scène, mais qui vont se retirer à la scène suivante. 
+
+[298] Il s'agit ici plutôt d'une exclamation que d'une véritable question. Au XVII*e* siècle d'ailleurs, le point d'interrogation et le point d'exclamation étaient souvent interchangeables. 
+
+[299] *Var. 1692* : Voudrez-vous,
+
+[300] *Avoüer* : accepter, approuver.
+
+[301] Quiproquo puisque Sostrate a cru que Camma acceptait finalement de le laisser mourir sans rien révéler.
+
+[302] « Il me faut » : trois occurrences anaphoriques qui mettent en relief cet impersonnel, exprimant la notion d'obligation, de nécessité et non pas de devoir moral. 
+
+[303] Elle fait référence au moment où Sostrate l'a empêchée de tuer Sinorix. 
+
+[304] *Var. 1692* : Ce n'est que desespoir, 
+
+[305] *Je raisonne en vain sur un point resolu* : cela signifie : « je continue à m'exprimer inutilement sur une décision déjà prise ». 
+
+[306] Cri pathétique de Sostrate, tonalité élégiaque : situation qui, pour lui, est aporétique et sans espoir. 
+
+[307] « (…) sauvez-moy de moy-mesme » : c'est-à-dire qu'il souhaite que Camma le débarrasse de ses tourments ;  le laisser mourir devient, ainsi, une façon de le soulager. 
+
+[308] *Pour moy* : en te dénonçant à ma place ; *Contre moy* : en m'empêchant de tuer Sinorix. 
+
+[309] *Var. 1692* : En m'arrestant le bras et m'immolant ta vie, 
+
+[310] « A m'arrester le bras…te recompenser » : Camma semble développer une contradiction mais en fait ce n'en est pas une. En empêchant le meurtre, il l'a offensée mais en s'accusant il s'est dévoué pour elle. De la même manière en épousant Sinorix, elle va le  « punir » de l'outrage qu'elle a subi et le « récompenser » en lui rendant la vie sauve.
+
+[311] « La peine où je suis condamné » : non pas la mort mais le chagrin dû à la décision prise par Camma. 
+
+[312] « Ton zéle…que tu cours » : relation de réciprocité. Comme Sostrate s'est sacrifié pour elle, elle sacrifie son honneur pour lui éviter la mort. 
+
+[313] « Pour toy » : elle martèle l'idée qu'elle fait tout cela par amour pour lui. 
+
+[314] « Encor un coup » : encore une fois. 
+
+[315] « A quoy me réduis-tu ? » : écho de l'Acte IV, 4 vers 1401. 
+
+[316] « Dites, dites…devoir » : Sostrate devient cynique. Il finit par voir dans cette résolution implacable un abandon de toutes ses prétentions et de tous ses désirs. Le pouvoir prend l'avantage sur le devoir. 
+
+[317] *Les* : les vœux d'un Sujet.
+
+[318] *Var. 1692* : Et quoy que de vous ait mérité ma foy, / Il falloit m'en punir en épousant un Roy. 
+
+[319] *Var. 1692* : dans les maux que pour moy semblent toujours s'accroître
+
+[320] Dans l'ensemble de cette tirade, malgré la subtilité un peu artificielle du dilemme, l'auteur rend compte d'une situation tendue à l'extrême. 
+
+[321] Ce vers semble annoncer de ce vers d'Oreste dans *Andromaque* : « Je me livre en aveugle au transport qui m'entraîne » (I, 1, vers 98. *Andromaque* de Jean Racine dans *Racine Œuvres complètes*, éd. G. Forestier, Gallimard, Pléiade, 1999). 
+
+[322] Le trône est un monument où le souvenir est conservé, impérissable. Mais ici Hésione semble jouer ironiquement avec ce thème. Voir la tirade d'Auguste dans *Cinna*, Acte V, 3, vers 1695 à 1700, où le pouvoir est présenté comme ce qui permet de rendre compte à la postérité de ce qui a été : « Je suis maître de moi comme de l'univers ; / Je le suis, je veux l'être. Ô siècles, ô mémoire, / Conservez à jamais ma dernière victoire ! / Je triomphe aujourd'hui du plus juste courroux / De qui le souvenir puisse aller jusqu'à vous » (*Cinna*, Pierre Corneille, *Corneille Œuvres Complètes*, éd. G. Couton, Pléiade, Gallimard, 1980). 
+
+[323] Il est possible qu'elle fasse référence à son devoir de vengeance. 
+
+[324] *A qui* : la consigne majeure concerne la restriction à l'animé humain de « qui ». Mais  « Qui » prépositionnel réfère tout au long du siècle, et malgré les grammairiens, à un antécédent non-humain (nom abstrait notamment). Ici, le « qui » réfère au substantif « déplaisirs ». 
+
+[325] Hésione voit dans la décision de Camma d'accepter le Trône un moyen, paradoxalement, de le récupérer. En effet, le peuple risque de se soulever en voyant l'issue de cette usurpation c'est-à-dire en voyant Hésione à l'écart du pouvoir. 
+
+[326] L'entrée en scène de Sosime est capitale : en effet, à la fin de cet acte, la tension est à son comble puisque son arrivée fait croire à Sostrate que la mort est proche pour lui. 
+
+[327] Cet acte commence avec des personnages qui terminaient le précédent. En général, la dramaturgie classique évite soigneusement cela. 
+
+[328] À la fin de l'Acte IV, Sostrate était persuadé que la nature de son châtiment allait être la mort mais au début de l'Acte V, Sostrate apprend avec horreur qu'il s'agit du contaire. 
+
+[329] Alors que Sosime lui annonce qu'Hésione risque fort d'être exilée, Sostrate change de sujet et tente d'aborder le cas de Camma. 
+
+[330] Quiproquo car Sosime croit que Sostrate a peur que Camma ne se soit mariée que par dépit. En fait Sostrate n'en a pas peur, il souhaite au contraire entendre cela. 
+
+[331]  « la coupe nuptiale » est un élément important dans la cérémonie, un rituel pour sacraliser une union.  Voir aussi *Rodogune* (1644) de Pierre Corneille (*Œuvres Complètes*, éd. G. Couton, Paris, Gallimard, Pléiade, 1984, vol. 2) où la coupe est un objet important à la toute fin de la pièce : Cléôpatre a feint de céder le pouvoir à ses fils alors qu'elle s'accroche farouchement au trône. Elle tente de diviser les deux frères en offrant le pouvoir à l'un au détriment de l'autre. Elle le donne d'abord à Séleucus et ensuite elle le tue. Puis, alors qu'elle tente de poursuivre sa comédie de réconciliation avec Antiochus et Rodogune afin de pouvoir les empoisonner au cœur de la cérémonie de couronnement, elle est prise à son propre piège, car elle est contrainte de boire la première dans la coupe empoisonnée. Comme dans *Camma*, la coupe est objet de séparation au cœur d'une union, d'une consécration. Elle n'est pas coupe nuptiale ; elle est mortelle. 
+
+[332] Il a déjà été fait mention du « Vase nuptial » dans la pièce à la scène 3 de l'acte I, lorsque Camma raconte qu'au moment où Sinatus et elle se mariaient, le vase nuptial s'était brisé. 
+
+[333] *Var. 1692* : On connoit dans ses yeux
+
+[334] À l'époque il était grammaticalement correct de laisser le verbe au singulier avec des sujets coordonnés dans la mesure où le verbe s'accordait avec le sujet le plus proche. 
+
+[335] *Un faux charme* : celui de Sinorix. 
+
+[336] Il décide d'avouer la vérité et de ne plus rien dissimuler. Il est déjà mort à lui-même puisqu'il ne peut pas vivre son amour avec Camma et donc il souhaite que la révélation qu'il va faire entraîne sa mort. 
+
+[337] Isotopie de la douleur, il est écrasé par elle. Ce dernier vers au rythme ternaire se rapproche du vers de *Phèdre* de Jean Racine, Acte I, 3 vers 161 : « Tout m'afflige et me nuit, et conspire à me nuire » (*Racine Œuvres Complètes, Ed. Cit.*).
+
+[338] *Elle* : Il s'agit de la gloire et non de l'audace. 
+
+[339] *Qu'accablé de l'effet je frémis de la cause* : l' « effet » c'est la perte de Camma et la « cause » c'est lui-même, Sostrate, puisque c'est par sa faute que Camma a décidé de se marier avec Sinorix. 
+
+[340] *Et quand on m'assassine on me sauve le jour* : lieu des contraires. Cette antiphrase, assez conventionnelle, exprime le fait que la mort est un moyen de le sauver de lui-même. 
+
+[341] *Souscrire à* : donner son adhésion. Ce vers signifie : « le Ciel t'accorde tout ce que tu convoites ». 
+
+[342] « Tu le sçais, et qu'il m'eut à peine couronnée » : pour comprendre ce vers, il faut supposer que la proposition « tu sçais » engage deux compléments : le pronom « le » (et « tu le sçais » équivaudra à « tu sçais cela » ) ; la conjonction de  subordination « que » (= tu sçais qu'il m'eut à peine couronnée qu'un fatal accident trancha sa destinée…). 
+
+[343] Le réquisitoire de Camma, commencé une tirade plus haut, se clôt sur une pointe tragique puisqu'elle révèle par périphrase le nom du coupable. « En » d'ailleurs renvoie à « Coupable » (v. 1790). 
+
+[344] « On aime à faire naistre » : le « on » fait référence à Sostrate. 
+
+[345] *Croy que je l'ay dû faire* : nécessité morale et pas seulement une obligation. 
+
+[346] *Leur plus vaste étenduë* : celle de mes vœux. Sinorix veut dire que tout ce qu'il espérait le plus au monde, c'est-à-dire obtenir Camma, s'est réalisé. 
+
+[347] *S'interesse avec* : prendre intérêt pour, entrer dans les intérêts de quelqu'un. 
+
+[348] *Infaillible* : cet adjectif se rapporte à « succez ». 
+
+[349] « Mais après…mourir » : si après son succès contre les mutins elle est toujours impassible, il prendra lui-même la décision de mourir. 
+
+[350] *Var. 1692* : Camma, *voyant Sostrate qui veut s'éloigner.*
+
+[351] *Aprés eux* : se rapporte à « tristes regards ». Sostrate laisse éclater à la vue de Camma toute l'émotion qu'il peut ressentir. 
+
+[352] *Que l'on m'approche un siège* : cette expression se rapproche de celle de *Cinna* de Pierre Corneille, Acte V, 1, vers 1425 : « prends un siège, Cinna (…) ». (*Corneille, Œuvres Complètes*, Georges Couton (éd.), Gallimard, Pléiade, 1980, vol.1). 
+
+[353] « Et ce devoir confus…à l'en vouloir punir. » : Sostrate craint que le lien conjugal qui existe maintenant entre eux atténue le désir de vengeance de Camma surtout que Sinorix n'est plus un tyran mais un roi. 
+
+[354] Sostrate croit au début que c'est une cause externe qui est à l'origine de la mort de Sinorix comme la mutinerie au palais. 
+
+[355] *Var. 1692* : C'est alors que cedant
+
+[356] Il fait référence au spectre de Sinatus qui lui est apparu à la scène 1 de l'acte III. 
+
+[357] L'exclamation de Sostrate est assez expressive puisque au lieu de crier le nom de Sinorix, il crie celui de Camma dès qu'il comprend qu'elle aussi va mourir car elle a bu dans cette coupe. 
+
+[358] « J'ai racheté ta vie… aux dépens de mes jours » : construction « croisée » entre les vers 2013 et 2015.  Signification de ce vers : après le sacrifice de son honneur auquel elle a dû se soumettre pour sauver Sostrate vient le sacrifice de sa vie pour recouvrer sa gloire. 

@@ -1,0 +1,322 @@
+
+
+**** *book_ *id_I *date_1935 *creator_dac
+
+-*who_le_choeur_antique
+Ô, puissant Dieu des Grecs, je viens sous votre loi
+Faire entendre en ces lieux ma douce et faible voix.
+De Phèdre et d'Hippolyte au lourd passé de gloire
+Je veux ressusciter la tragique mémoire…
+Phèdre aimait son beau-fils, Hippolyte au coeur pur,
+Qui lui ne voulait pas de cet amour impur.
+Ce que vous entendrez ici n'est pas un mythe
+Mais le récit vécu de Phèdre et d'Hippolyte.
+
+-*who_theramene
+Tu me parais bien pâle et triste à regarder
+Qu'as-tu donc Hippolyte ?
+
+-*who_hippolyte
+      Je suis bien emmerdé !
+
+-*who_theramene
+C'est un sous-entendu mais je crois le comprendre.
+Va, dis-moi ton chagrin, je suis prêt à l'entendre.
+
+-*who_hippolyte
+Le dessein en est pris, je pars, cher Théramène,
+Car Phèdre me poursuit de ses amours malsaines.
+
+-*who_theramene
+Et Aricie alors ?
+
+-*who_hippolyte
+      Ah ! Ne m'en parle pas !
+Quand j'évoque la nuit ses innocents appas
+J'ai des perturbations dedans la tubulure
+Car cette Aricie-là je l'ai dans la fressure,
+Elle est partout en moi, j'en ai le cerveau las,
+J'ai l'Aricie ici et j'ai l'Aricie là !
+
+-*who_theramene
+Elle a pris je le vois et tes sens et ta tête…
+
+-*who_hippolyte
+Ah ! Je veux oublier le lieu de sa retraite !
+
+-*who_theramene
+La retraite de qui ?
+
+-*who_hippolyte
+      La retrait' d'Aricie
+Qu'elle sorte de moi ! Aricie la sortie !
+
+-*who_theramene
+Mais qui vois-je avancer en sa grâce hautaine ?
+N'est-ce pas de l'amour la plus pure vision ?
+C'est l'ardente sirène, la sirène des reines
+C'est Phèdre au sein gonflé des plus folles passions !
+
+-*who_phedre
+Oui, c'est moi, me voici. Tiens, c'est toi Théramène ?
+Que viens-tu faire ici ?
+
+-*who_theramene
+      Je venais, souveraine
+Vous redire à nouveau mon récit tant vécu…
+
+-*who_phedre
+Ton récit je l'connais, tu peux te l'foutre au cul !
+À l'écouter encor' j'en aurais du malaise
+Il y a trop longtemps que Théramèn' ta fraise !!!
+
+-*who_phedre
+Hippolyte ! Ah ! Grands dieux je ne peux plus parler
+Et je sens tout mon corps se transir et brûler !
+
+-*who_hippolyte
+Ô rage ! Ô désespoir ! Ô détestable race !
+
+-*who_phedre
+Par Jupiter je crois qu'il me trait' de pétasse !
+
+-*who_sinusite
+Laissez-le donc maîtresse, il ne veut point de vous !
+
+-*who_phedre
+Et moi j'en veux que j'dis, et j'l'aurai jusqu'au bout !
+N'as-tu donc rien compris de mes tendres desseins ?
+T'as-t-y tâté mes cuiss's, t'as-t-y tâté mes seins ?
+Ne sens-tu pas les feux dont ma chair est troublée.
+
+-*who_hippolyte
+C'est Vénus tout entière à sa proie attachée !
+
+-*who_phedre
+Oui, pour te posséder je me sens prête à tout !
+Que veux-tu que j'te fasse ? Je suis à tes genoux…
+Que n'ai-je su plus tôt que tu étais sans flamme…
+
+-*who_hippolyte
+Certes il eût mieux valu que vous l'sussiez, madame…
+
+-*who_phedre
+Mais je n'demande que ça !
+
+-*who_hippolyte
+      De grâc' relevez-vous…
+
+-*who_phedre
+Voyons tu n'y pens's pas, je n'peux pas fair' ça d'bout!
+
+-*who_hippolyte
+N'insistez pas, madam', rien ne peux m'ébranler.
+
+-*who_phedre
+Si t'aim's pas ça non plus, j'ai plus qu'à m'débiner !
+
+-*who_hippolyte
+C'est ça, partez, madame, allez vers qui vous aime.
+
+-*who_phedre
+Par les breloqu's d'Hercule je resterai quand même !
+Ah ! Que ne suis-je assise à l'ombre des palmiers…
+
+-*who_hippolyte
+Et pourquoi donc, Madame ?
+
+-*who_phedre
+      Parc'que là tu verrais
+Ce dont je suis capable et ce que je sais faire…
+Je connais de l'amour quatre cent vingt-huit manières !
+
+-*who_hippolyte
+C'est beaucoup trop pour moi, Madame, voyez-vous.
+
+-*who_phedre
+Dis, t'es pas un peu dingu' ? Ça s'fait pas d'un seul coup !
+Oui je sais distiller les plus rares ivresses…
+C'est y vrai, Sinusite et Pet-d'Nonne ?
+
+-*who_les_servantes
+      Oui c'est vrai, cher' maîtresse…
+
+-*who_hippolyte
+Je ne serais pour vous d'aucune utilité
+Je ne suis que faiblesse et que fragilité.
+
+-*who_phedre
+On n'te demande rien ! Je frai le nécessaire
+T'as pas à t'fatiguer, t'auras qu'à t'laisser faire.
+
+-*who_hippolyte
+Le marbre auprès de moi est brûlant comme un feu…
+
+-*who_phedre
+J'suis pas feignant' sous l'homme et j'travaill'rai pour deux !
+
+-*who_hippolyte
+Vos propos licencieux qui blessent les dieux même
+Point ne les veux entendre, c'est Aricie que j'aime.
+
+-*who_phedre
+Mais de quels vains espoirs t'es-tu donc abusé ?
+Aricie est pucelle et n'a jamais…
+
+-*who_hippolyte
+      Je sais !
+Mais c'est cela surtout qui me la rend aimable…
+
+-*who_phedre
+Oui mais pour c'qu'est d'la chose elle doit être minable !
+Allons, va, n'y pens's plus et sois mon p'tit amant
+Tu connaîtras par moi tous les enchantements!
+
+-*who_hippolyte
+De grâce apaisez-vous, je me sens mal à l'aise…
+
+-*who_phedre
+Viens, pour te ranimer j'te frai Péloponèse !
+
+-*who_hippolyte
+Qu'est-ce encor que cela ?
+
+-*who_phedre
+      C'est un truc épatant !
+Ça s'fait les pieds au mur et l'nez dans du vin blanc !
+
+-*who_hippolyte
+De tant de perversion tout mon être s'affole.
+
+-*who_phedre
+Ben qu'est c'que tu dirais si j'te f'sais l'Acropole.
+
+-*who_hippolyte
+Quelle horreur !
+
+-*who_phedre
+      Comm' tu dis! Mais c'est bougrement bon…
+Ça s'fait en descendant les march's du Parthénon !
+
+-*who_hippolyte
+Prenez garde, Madame, et craignez mon courroux !
+
+-*who_phedre
+C'est ça, vas-y Polyte, bats-moi, fous-moi des coups !
+
+-*who_hippolyte
+Vous frapper ? Moi, jamais, mon honneur est sans tache.
+
+-*who_phedre
+Mais y'a pas d'déshonneur, moi j'aim' ça l'amour vache…
+Viens, tu s'ras mon p'tit homme et j'te donnerai des sous…
+
+-*who_hippolyte
+Ah ! Que ne suis-je assis à l'ombre des bambous…
+Je ne veux rien de vous, mon coeur reste de roche !
+
+-*who_phedre
+Qu'est c'que tu dirais d'un p'tit cadran solaire de poche ?
+J'te frai fair' sur mesure un' joli' peau d'mouton
+Et pour les jours fériés des cothurn's à boutons…
+
+-*who_hippolyte
+Croyez-vous donc m'avoir en m'offrant des chaussures ?
+C'est croire que mon coeur du vôtre à la pointure !
+
+-*who_phedre
+En parlant de pointure, si j'en juge à ton nez
+Ell' doit être un peu là si c'est proportionné !
+
+-*who_hippolyte
+Vous devriez rougir de vos propos infâmes
+Vous me faites horreur, ô méprisable femme !
+
+-*who_phedre
+À la fin c'en est trop! Mais n'as-tu donc rien là ?
+
+-*who_hippolyte
+Madame je n'ai point de sentiments si bas.
+
+-*who_phedre
+Les feux qui me dévor'nt ne sont pas éphémères…
+Hippolyt' je voudrais que tu me rendiss's mère.
+
+-*who_hippolyte
+Ciel ! Qu'est-ce que j'entends ? Madame, oubliez-vous
+Que Thésée est mon père et qu'il est votre époux ?
+
+-*who_phedre
+C'qui fait que j'suis ta mer', c'est pour ça qu'tu t'tortilles ?
+Ben comm' ça tout s'passera honnêtement en famille.
+
+-*who_hippolyte
+Mais si de cet impur et vil accouplement
+Il nous venait un fils, que serait cet enfant ?
+
+-*who_phedre
+Puisque je s'rais ta femme en mêm' temps que ta mère
+L'enfant serait ton fils en mêm' temps que ton frère…
+
+-*who_hippolyte
+Et si c'était un' fill' qu'engendrait votre sein ?
+
+-*who_phedre
+Ta fill' serait ta soeur et ton frèr' mon cousin !
+
+-*who_hippolyte
+Ah ! Que ne suis-je assis à l'ombre des pelouses…
+
+-*who_phedre
+Tu parl's ! Avec c'mond'là, qu'est-c'qu'on f'rait comm' partouzes !
+
+-*who_hippolyte
+Assez, je pars, adieu !
+
+-*who_phedre
+      Ah ! Funèbres alarmes
+Voilà donc tout l'effet que t'inspirent mes charmes ?
+J'attirerai sur toi la colère des dieux
+Afin qu'ils te la coupent !
+
+-*who_hippolyte
+      Quoi, la tête ?
+
+-*who_phedre
+      Non, bien mieux !
+
+-*who_hippolyte
+Vous êtes bien la fille de Pasiphaé !
+
+-*who_phedre
+Et toi va par les Grecs t'faire empasiphaer !
+Sinusite et Pet-de-Nonne venez sacré's bougresses
+Calmez mon désespoir, soutenez ma faiblesse…
+
+-*who_pet_de_nonne
+Elle respire à peine, elle va s'étouffer…
+
+-*who_phedre
+Ben, c'est pas étonnant, j'ai c't'Hippolyt' dans l'nez !
+Je veux dans le trépas noyer tant d'infamie
+Qu'on me donn' du poison pour abréger ma vie !
+
+-*who_sinusite
+Duquel que vous voulez, d'l'ordinaire ou du bon ?
+
+-*who_phedre
+Du gros voyons, du roug', celui qui fait des ronds.
+Qu'est c'que vous avez donc à m'bigler d'vos prunelles ?
+Écartez-vous de moi !
+      Toi, viens ici, flanelle.
+Exauce un voeu suprême sans trahir ta foi,
+Viens trinquer avec moi pour la dernière fois.
+À la tienne érotique sablonneux et casse pas le bol !
+Oh Dieu que ça me brûl', mais c'est du vitriol !
+
+-*who_hippolyte
+Divinités du Styx, je succombe invaincu
+Le désespoir au coeur…
+
+-*who_phedre
+      Et moi le feu au cul !

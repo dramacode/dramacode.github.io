@@ -1,0 +1,2632 @@
+---
+identifier: moliere_dom  
+creator: Molière  
+date: 1661  
+title: Dom Garcie de Navarre. Comédie  
+---
+
+< DOM GARCIE ><  >< DE NAVARRE ><  >< OU ><  >< LE PRINCE JALOUX ><  >< COMÉDIE ><  >< PAR J.B.P. MOLIÈRE ><  >< Représentée pour la première fois, le quatrième Février 1661. Sur le Théâtre >< de la salle du Palais-Royal. ><  ><  >< Par la Troupe de MONSIEUR, >< Frère unique du Roi. >
+
+
+# ACTEURS
+ – Dom Garcie, prince de Navarre, amant d'Elvire.
+ – Elvire, princesse de Léon.
+ – Élise.
+ – Dom Alphonse, prince de Léon, cru prince de Castille, sous le nom de Dom Sylve.
+ – Ignès, comtesse, amante de Dom Sylve, aimée de Mauregat, usurpateur de l'Etat de Léon.
+ – Dom Alvar, confident de Dom Garcie, amante d'Elise.
+ – Dom Lope, autre confident de Dom Garcie, amant rebuté d'Elise.
+ – Dom Pedre, écuyer d'Ignès.
+ – Dom SylveLa scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.
+
+
+# ACTE PREMIER.
+
+
+## SCÈNE PREMIÈRE
+
+    D. ELVIRE
+Non, ce n'est point un choix, qui pour ces deux Amants,  
+Sut régler de mon cœur les secrets sentiments ;  
+Et le Prince n'a point dans tout ce qu'il peut être,  
+Ce qui fit préférer l'amour qu'il fait paraître.  
+Dom Sylve comme lui fit briller à mes yeux  
+Toutes les qualités d'un Héros glorieux ;  
+Même éclat de vertus, joint à même naissance,  
+Me parlait en tous deux pour cette préférence ;  
+Et je serais encore à nommer le vainqueur,  
+Si le mérite seul prenait droit sur un cœur.  
+Mais ces chaînes du Ciel, qui tombent sur nos âmes,  
+Décidèrent en moi le destin de leurs flammes ;  
+Et toute mon estime égale entre les deux,  
+Laissa vers Dom Garcie entraîner tous mes vœux.  
+
+    ÉLISE
+Cet amour que pour lui votre astre vous inspire,  
+N'a sur vos actions pris que bien peu d'empire;  
+Puisque nos yeux, Madame, ont pu longtemps douter  
+Qui de ces deux amants vous vouliez mieux traiter.  
+
+    D. ELVIRE
+De ces nobles Rivaux l'amoureuse poursuite,  
+À de fâcheux combats, Élise, m'a réduite.  
+Quand je regardais l'un, rien ne me reprochait  
+Le tendre mouvement où mon âme penchait ;  
+Mais je me l'imputais à beaucoup d'injustice,  
+Quand de l'autre à mes yeux s'offrait le sacrifice.  
+Et Dom Sylve, après tout, dans ses soins amoureux  
+Me semblait mériter un destin plus heureux.  
+Je m'opposais encor, ce qu'au sang de Castille,  
+Du feu Roi de Léon, semble devoir la Fille;  
+Et la longue amitié, qui d'un étroit lien  
+Joignit les intérêts, de son Père et du mien.  
+Ainsi plus dans mon âme un autre prenait place,  
+Plus de tous ses respects je plaignais la disgrâce:  
+Ma pitié complaisante à ses brûlants soupirs,  
+D'un dehors favorable amusait ses désirs;  
+Et voulait réparer par ce faible avantage,  
+Ce qu'au fond de mon cœur je lui faisais d'outrage.  
+
+    ÉLISE
+Mais son premier amour que vous avez appris,  
+Doit de cette contrainte affranchir vos esprits.  
+Et puisque avant ses soins, où pour vous il s'engage,  
+Done Ignès de son cœur avait reçu l'hommage;  
+Et que par des liens aussi fermes que doux  
+L'amitié vous unit cette Comtesse et vous.  
+Son secret révélé vous est une matière  
+À donner à vos vœux liberté toute entière ;  
+Et vous pouvez sans crainte à cet Amant confus  
+D'un devoir d'amitié couvrir tous vos refus.  
+
+    D. ELVIRE
+Il est vrai que j'ai lieu de chérir la nouvelle,  
+Qui m'apprit que Dom Sylve était un infidèle;  
+Puisque par ses ardeurs mon cœur tyrannisé  
+Contre elles à présent se voit autorisé.  
+Qu'il en peut justement combattre les hommages,  
+Et sans scrupule ailleurs donner tous ses suffrages.  
+Mais enfin quelle joie en peut prendre ce cœur,  
+Si d'une autre contrainte il souffre la rigueur?  
+Si d'un Prince jaloux l'éternelle faiblesse,  
+Reçoit indignement les soins de ma tendresse;  
+Et semble préparer dans mon juste courroux  
+Un éclat à briser tout commerce entre nous ?  
+
+    ÉLISE
+Mais si de votre bouche il n'a point su sa gloire,  
+Est-ce un crime pour lui que de n'oser la croire ?  
+Et ce qui d'un rival a pu flatter les feux,  
+L'autorise-t-il pas à douter de vos vœux ?  
+
+    D. ELVIRE
+Non, non, de cette sombre, et lâche jalousie  
+Rien ne peut excuser l'étrange frénésie ;  
+Et par mes actions je l'ai trop informé,  
+Qu'il peut bien se flatter du bonheur d'être aimé.  
+Sans employer la langue, il est des interprètes  
+Qui parlent clairement des atteintes secrètes.  
+Un soupir, un regard, une simple rougeur,  
+Un silence est assez pour expliquer un cœur.  
+Tout parle dans l'amour, et sur cette matière  
+Le moindre jour doit être une grande lumière;  
+Puisque chez notre Sexe, où l'honneur est puissant,  
+On ne montre jamais tout ce que l'on ressent.  
+J'ai voulu, je l'avoue ajuster ma conduite,  
+Et voir d'un œil égal, l'un et l'autre mérite:  
+Mais que contre ses vœux on combat vainement,  
+Et que la différence est connue aisément,  
+De toutes ces faveurs qu'on fait avec étude  
+À celles où du cœur fait pencher l'habitude.  
+Dans les unes toujours, on paraît se forcer ;  
+Mais les autres, hélas ! se font sans y penser,  
+Semblables à ces eaux, si pures et si belles,  
+Qui coulent sans effort des sources naturelles.  
+Ma pitié pour Dom Sylve, avait beau l'émouvoir,  
+J'en trahissais les soins, sans m'en apercevoir.  
+Et mes regards au Prince, en un pareil martyre  
+En disaient toujours plus, que je n'en voulais dire.  
+
+    ÉLISE
+Enfin, si les soupçons de cet illustre Amant,  
+Puisque vous le voulez n'ont point de fondement;  
+Pour le moins font-ils foi d'une âme bien atteinte,  
+Et d'autres chériraient ce qui fait votre plainte.  
+De jaloux mouvements doivent être odieux,  
+S'ils partent d'un amour qui déplaise à nos yeux.  
+Mais tout ce qu'un Amant nous peut montrer d'alarmes,  
+Doit lorsque nous l'aimons, avoir pour nous des charmes;  
+C'est par là que son feu se peut mieux exprimer,  
+Et plus il est jaloux, plus nous devons l'aimer;  
+Ainsi puisqu'en votre âme un Prince magnanime...  
+
+    D. ELVIRE
+Ah ! ne m'avancez point cette étrange maxime  
+Partout la jalousie est un monstre odieux,  
+Rien n'en peut adoucir les traits injurieux ;  
+Et plus l'amour est cher, qui lui donne naissance  
+Plus on doit ressentir les coups de cette offense.  
+Voir un Prince emporté, qui perd à tous moments  
+Le respect que l'amour inspire aux vrais Amants:  
+Qui dans les soins jaloux, où son âme se noie,  
+Querelle également mon chagrin, et ma joie;  
+Et dans tous mes regards ne peut rien remarquer,  
+Qu'en faveur d'un Rival il ne veuille expliquer.  
+Non, non, par ces soupçons je suis trop offensée,  
+Et sans déguisement je te dis ma pensée.  
+Le Prince Dom Garcie est cher à mes désirs,  
+Il peut d'un cœur illustre échauffer les soupirs:  
+Au milieu de Léon, on a vu son courage  
+Me donner de sa flamme un noble témoignage,  
+Braver en ma faveur les périls les plus grands,  
+M'enlever aux desseins de nos lâches tyrans.  
+Et dans ces murs forcés mettre ma destinée,  
+À couvert des horreurs d'un indigne hyménée ;  
+Et je ne cèle point que j'aurais de l'ennui,  
+Que la gloire en fût due à quelque autre qu'à lui ;  
+Car un cœur amoureux prend un plaisir extrême,  
+À se voir redevable, Élise, à ce qu'il aime;  
+Et sa flamme timide ose mieux éclater,  
+Lorsqu'en favorisant, elle croit s'acquitter.  
+Oui, j'aime qu'un secours qui hasarde sa tête  
+Semble à sa passion donner droit de conquête.  
+J'aime que mon péril m'ait jetée en ses mains,  
+Et si les bruits communs ne sont pas des bruits vains;  
+Si la bonté du Ciel nous ramène mon Frère,  
+Les vœux les plus ardents, que mon cœur puisse faire;  
+C'est que son bras encor, sur un perfide sang  
+Puisse aider à ce Frère, à reprendre son rang.  
+Et par d'heureux succès d'une haute vaillance  
+Mériter tous les soins de sa reconnaissance:  
+Mais avec tout cela, s'il pousse mon courroux,  
+S'il ne purge ses feux de leurs transports jaloux,  
+Et ne les range aux lois, que je lui veux prescrire,  
+C'est inutilement qu'il prétend Done Elvire.  
+L'hymen ne peut nous joindre, et j'abhorre des nœuds,  
+Qui deviendraient sans doute un Enfer pour tous deux.  
+
+    ÉLISE
+Bien que l'on pût avoir des sentiments tout autres,  
+C'est au Prince, Madame, à se régler aux vôtres,  
+Et dans votre billet ils sont si bien marqués,  
+Que quand il les verra de la sorte expliqués…  
+
+    D. ELVIRE
+Je n'y veux point, Élise, employer cette lettre,  
+C'est un soin qu'à ma bouche, il me vaut mieux commettre.  
+La faveur d'un écrit laisse aux mains d'un Amant  
+Des témoins trop constants de notre attachement:  
+Ainsi donc empêchez, qu'au Prince on ne la livre.  
+
+    ÉLISE
+Toutes vos volontés sont des lois qu'on doit suivre.  
+J'admire cependant que le Ciel ait jeté  
+Dans le goût des esprits tant de diversité,  
+Et que ce que les uns regardent comme outrage,  
+Soit vu par d'autres yeux sous un autre visage.  
+Pour moi je trouverais mon sort tout à fait doux,  
+Si j'avais un Amant qui pût être jaloux ;  
+Je saurais m'applaudir de son inquiétude ;  
+Et ce qui pour mon âme est souvent un peu rude,  
+C'est de voir Dom Alvar ne prendre aucun souci.  
+
+
+## SCÈNE II.
+
+    D. ELVIRE
+Votre retour surprend, qu'avez-vous à m'apprendre ?  
+Dom Alphonse vient-il, a-t-on lieu de l'attendre ?  
+
+    D. ALVAR
+Oui, Madame, et ce Frère en Castille élevé  
+De rentrer dans ses droits voit le temps arrivé.  
+Jusqu'ici Dom Louis qui vit à sa prudence  
+Par le feu Roi mourant, commettre son enfance,  
+A caché ses destins aux yeux de tout l'État,  
+Pour l'ôter aux fureurs du traître Mauregat.  
+Et bien que le Tyran, depuis sa lâche audace,  
+L'ait souvent demandé pour lui rendre sa place;  
+Jamais son zèle ardent n'a pris de sûreté,  
+À l'appas dangereux de sa fausse équité.  
+Mais les peuples émus par cette violence  
+Que vous a voulu faire une injuste puissance,  
+Ce généreux Vieillard a cru qu'il était temps  
+D'éprouver le succès d'un espoir de vingt ans.  
+Il a tenté Léon, et ses fidèles trames,  
+Des grands, comme du peuple ont pratiqué les âmes,  
+Tandis que la Castille armait dix mille bras,  
+Pour redonner ce Prince aux vœux de ses États ;  
+Il fait auparavant semer sa renommée,  
+Et ne veut le montrer qu'en tête d'une armée.  
+Que tout prêt à lancer le foudre punisseur,  
+Sous qui doit succomber un lâche ravisseur.  
+On investit Léon, et Dom Sylve en personne  
+Commande le secours que son Père vous donne.  
+
+    D. ELVIRE
+Un secours si puissant doit flatter notre espoir ;  
+Mais je crains que mon Frère y puisse trop devoir.  
+
+    D. ALVAR
+Mais, Madame, admirez que malgré la tempête  
+Que votre usurpateur voit gronder sur sa tête,  
+Tous les bruits de Léon annoncent pour certain,  
+Qu'à la Comtesse Ignès il va donner la main.  
+
+    D. ELVIRE
+Il cherche dans l'Hymen de cette illustre Fille  
+L'appui du grand crédit, où se voit sa famille;  
+Je ne reçois rien d'elle, et j'en suis en souci,  
+Mais son cœur au Tyran fut toujours endurci.  
+
+    ÉLISE
+De trop puissants motifs, d'honneur et de tendresse,  
+Opposent ses refus aux nœuds dont on la presse,  
+Pour…  
+
+    D. ALVAR.
+Le Prince entre ici.  
+
+
+## SCÈNE III.
+D. Garcie, D. Elvire, D. Alvar, Élise.
+
+
+    DOM GARCIE
+Je viens m'intéresser,  
+Madame, au doux espoir, qu'il vous vient d'annoncer.  
+Ce Frère qui menace un Tyran plein de crimes,  
+Flatte de mon amour les transports légitimes.  
+Son sort offre à mon bras des périls glorieux,  
+Dont je puis faire hommage à l'éclat de vos yeux,  
+Et par eux m'acquérir, si le Ciel m'est propice,  
+La gloire d'un revers, que vous doit sa justice;  
+Qui va faire à vos pieds choir l'infidélité,  
+Et rendre à votre sang toute sa dignité.  
+Mais ce qui plus me plaît, d'une atteinte si chère,  
+C'est que pour être Roi, le Ciel vous rend ce Frère;  
+Et qu'ainsi mon amour peut éclater au moins  
+Sans qu'à d'autres motifs on impute ses soins;  
+Et qu'il soit soupçonné, que dans votre personne  
+Il cherche à me gagner les droits d'une Couronne.  
+Oui, tout mon cœur voudrait montrer aux yeux de tous,  
+Qu'il ne regarde en vous autre chose que vous ;  
+Et cent fois, si je puis le dire sans offense,  
+Ses vœux se sont armés contre votre naissance,  
+Leur chaleur indiscrète a d'un destin plus bas  
+Souhaité le partage à vos divins appas,  
+Afin que de ce Cœur, le noble sacrifice  
+Pût du Ciel envers vous réparer l'injustice;  
+Et votre sort tenir des mains de mon amour,  
+Tout ce qu'il doit au sang, dont vous tenez le jour.  
+Mais puisque enfin les Cieux, de tout ce juste hommage,  
+À mes feux prévenus dérobent l'avantage.  
+Trouvez bon que ces feux, prennent un peu d'espoir  
+Sur la mort que mon bras s'apprête à faire voir;  
+Et qu'ils osent briguer par d'illustres services,  
+D'un Frère et d'un État les suffrages propices.  
+
+    D. ELVIRE
+Je sais que vous pouvez, Prince, en vengeant nos droits  
+Faire par votre amour parler cent beaux exploits.  
+Mais ce n'est pas assez pour le prix qu'il espère  
+Que l'aveu d'un État, et la faveur d'un Frère.  
+Done Elvire n'est pas au bout de cet effort,  
+Et je vous vois à vaincre un obstacle plus fort.  
+
+    D. GARCIE
+Oui, Madame, j'entends ce que vous voulez dire,  
+Je sais bien que pour vous mon cœur en vain soupire ;  
+Et l'obstacle puissant, qui s'oppose à mes feux,  
+Sans que vous le nommiez, n'est pas secret pour eux.  
+
+    D. ELVIRE
+Souvent on entend mal, ce qu'on croit bien entendre,  
+Et par trop de chaleur, Prince, on se peut méprendre.  
+Mais puisqu'il faut parler, désirez-vous savoir,  
+Quand vous pourrez me plaire, et prendre quelque espoir ?  
+
+    D. GARCIE
+Ce me sera, Madame, une faveur extrême.  
+
+    D. ELVIRE
+Quand vous saurez m'aimer, comme il faut que l'on aime.  
+
+    D. GARCIE
+Et que peut-on, hélas ! observer sous les Cieux  
+Qui ne cède à l'ardeur, que m'inspirent vos yeux ?  
+
+    D. ELVIRE
+Quand votre passion ne fera rien paraître,  
+Dont se puisse indigner celle qui l'a fait naître.  
+
+    DOM GARCIE
+C'est là son plus grand soin.  
+
+    D. ELVIRE
+Quand tous ses mouvements  
+Ne prendront point de moi de trop bas sentiments.  
+
+    D. GARCIE
+Ils vous révèrent trop.  
+
+    D. ELVIRE
+Quand d'un injuste ombrage  
+Votre raison saura me réparer l'outrage;  
+Et que vous bannirez, enfin, ce monstre affreux,  
+Qui de son noir venin empoisonne vos feux.  
+Cette jalouse humeur, dont l'importun caprice,  
+Aux vœux, que vous m'offrez, rend un mauvais office,  
+S'oppose à leur attente, et contre eux à tous coups  
+Arme les mouvements de mon juste courroux.  
+
+    D. GARCIE
+Ah ! Madame, il est vrai, quelque effort que je fasse,  
+Qu'un peu de jalousie en mon cœur trouve place,  
+Et qu'un Rival absent de vos divins appas  
+Au repos de ce cœur vient livrer des combats.  
+Soit caprice, ou raison, j'ai toujours la croyance  
+Que votre âme en ces lieux souffre de son absence;  
+Et que malgré mes soins, vos soupirs amoureux  
+Vont trouver à tous coups ce rival trop heureux.  
+Mais si de tels soupçons ont de quoi vous déplaire,  
+Il vous est bien facile, hélas ! de m'y soustraire ;  
+Et leur bannissement, dont j'accepte la Loi  
+Dépend bien plus de vous, qu'il ne dépend de moi.  
+Oui, c'est vous qui pouvez par deux mots pleins de flamme,  
+Contre la jalousie armer toute mon âme;  
+Et des pleines clartés d'un glorieux espoir  
+Dissiper les horreurs que ce monstre y fait choir.  
+Daignez donc étouffer le doute qui m'accable,  
+Et faites qu'un aveu d'une bouche adorable  
+Me donne l'assurance au fort de tant d'assauts,  
+Que je ne puis trouver dans le peu que je vaux.  
+
+    D. ELVIRE
+Prince, de vos soupçons la tyrannie est grande  
+Au moindre mot qu'il dit, un cœur veut qu'on l'entende,  
+Et n'aime pas ces feux, dont l'importunité  
+Demande qu'on s'explique avec tant de clarté.  
+Le premier mouvement qui découvre notre âme,  
+Doit d'un amant discret satisfaire la flamme ;  
+Et c'est à s'en dédire autoriser nos vœux,  
+Que vouloir plus avant pousser de tels aveux.  
+Je ne dis point quel choix, s'il m'était volontaire,  
+Entre Dom Sylve et vous, mon âme pourrait faire ;  
+Mais vouloir vous contraindre à n'être point jaloux,  
+Aurait dit quelque chose à tout autre que vous ;  
+Et je croyais cet ordre un assez doux langage  
+Pour n'avoir pas besoin d'en dire davantage.  
+Cependant votre amour n'est pas encor content;  
+Il demande un aveu qui soit plus éclatant.  
+Pour l'ôter de scrupule, il me faut à vous-même,  
+En des termes exprès, dire que je vous aime ;  
+Et peut-être qu'encor pour vous en assurer  
+Vous vous obstineriez à m'en faire jurer.  
+
+    D. GARCIE
+Hé bien, Madame, hé bien, je suis trop téméraire,  
+De tout ce qui vous plaît, je dois me satisfaire;  
+Je ne demande point de plus grande clarté,  
+Je crois que vous avez pour moi quelque bonté,  
+Que d'un peu de pitié mon feu vous sollicite,  
+Et je me vois heureux plus que je ne mérite.  
+C'en est fait, je renonce à mes soupçons jaloux,  
+L'arrêt qui les condamne, est un arrêt bien doux;  
+Et je reçois la Loi qu'il daigne me prescrire,  
+Pour affranchir mon cœur de leur injuste empire.  
+
+    D. ELVIRE
+Vous promettez beaucoup, Prince, et je doute fort,  
+Si vous pourrez sur vous faire ce grand effort.  
+
+    D. GARCIE
+Ah ! Madame, il suffit pour me rendre croyable,  
+Que ce qu'on vous promet doit être inviolable;  
+Et que l'heur d'obéir à sa divinité,  
+Ouvre aux plus grands efforts trop de facilité;  
+Que le Ciel me déclare une éternelle guerre,  
+Que je tombe à vos pieds d'un éclat de tonnerre,  
+Ou pour périr encor par de plus rudes coups,  
+Puissé-je voir sur moi fondre votre courroux;  
+Si jamais mon amour descend à la faiblesse  
+De manquer aux devoirs d'une telle promesse;  
+Si jamais dans mon âme aucun jaloux transport  
+Fait...  
+Dom Pèdre apporte un billet.
+
+
+    D. ELVIRE
+J'en étais en peine, et tu m'obliges fort,  
+Que le Courrier attende. À ces regards qu'il jette,  
+Vois-je pas que déjà cet écrit l'inquiète.  
+Prodigieux effet de son tempérament,  
+Qui vous arrête, Prince, au milieu du serment ?  
+
+    D. GARCIE
+J'ai cru que vous aviez quelque secret ensemble,  
+Et je ne voulais pas l'interrompre.  
+
+    D. ELVIRE
+Il me semble  
+Que vous me répondez d'un ton fort altéré,  
+Je vous vois tout à coup le visage égaré;  
+Ce changement soudain a lieu de me surprendre,  
+D'où peut-il provenir, le pourrait-on apprendre ?  
+
+    D. GARCIE
+D'un mal qui tout à coup vient d'attaquer mon cœur.  
+
+    D. ELVIRE
+Souvent plus qu'on ne croit ces maux ont de rigueur;  
+Et quelque prompt secours vous serait nécessaire,  
+Mais encor dites-moi vous prend-il d'ordinaire ?  
+
+    D. GARCIE
+Parfois.  
+
+    D. ELVIRE
+Ah ! Prince faible, hé bien par cet écrit,  
+Guérissez-le ce mal, il n'est que dans l'esprit.  
+
+    D. GARCIE
+Par cet écrit, Madame, ah! ma main le refuse,  
+Je vois votre pensée, et de quoi l'on m'accuse;  
+Si…  
+
+    D. ELVIRE
+Lisez-le, vous dis-je, et satisfaites-vous.  
+
+    D. GARCIE
+Pour me traiter après, de faible, de jaloux ?  
+Non, non, je dois ici vous rendre un témoignage,  
+Qu'à mon cœur cet écrit n'a point donné d'ombrage ;  
+Et bien que vos bontés m'en laissent le pouvoir,  
+Pour me justifier je ne veux point le voir.  
+
+    D. ELVIRE
+Si vous vous obstinez à cette résistance,  
+J'aurais tort de vouloir vous faire violence ;  
+Et c'est assez enfin, que vous avoir pressé  
+De voir de quelle main ce billet m'est tracé.  
+
+    D. GARCIE
+Ma volonté toujours vous doit être soumise,  
+Si c'est votre plaisir, que pour vous je le lise;  
+Je consens volontiers à prendre cet emploi.  
+
+    D. ELVIRE
+Oui, oui, Prince, tenez vous le lirez pour moi.  
+
+    D. GARCIE
+C'est pour vous obéir au moins, et je puis dire...  
+
+    D. ELVIRE
+C'est ce que vous voudrez, dépêchez-vous de lire.  
+
+    D. GARCIE
+Il est de Done Ignès, à ce que je connais.  
+
+    D. ELVIRE
+Oui, je m'en réjouis, et pour vous, et pour moi.  
+
+    D. GARCIE LIT.
+Malgré l'effort d'un long mépris,  
+Le *T*yran toujours m'aime, et depuis votre absence,  
+Vers moi pour me porter au dessein qu'il a pris,  
+Il semble avoir tourné toute sa violence,  
+Dont il poursui*vai*t l'alliance  
+De vous et de son fils.  
+Ceux qui sur moi peuvent avoir empire  
+Par de lâches motifs qu'un faux honneur inspire,  
+Approuvent tous cet indigne lien*;*  
+J'ignore encor par où finira mon martyre:  
+Mais je mourrai plutôt que de consentir rien.  
+Puissiez-vous jouir, belle Elvire,  
+D'un destin plus doux que le mien.  
+
+    D. IGNÈS
+Il continue.
+
+Dans la haute vertu son âme est affermie.  
+
+    D. ELVIRE
+Je vais faire réponse à cette illustre amie,  
+Cependant apprenez, Prince, à vous mieux armer  
+Contre ce qui prend droit de vous trop alarmer.  
+J'ai calmé votre trouble, avec cette lumière,  
+Et la chose a passé d'une douce manière ;  
+Mais à n'en point mentir il serait des moments,  
+Où je pourrais entrer dans d'autres sentiments.  
+
+    D. GARCIE
+Hé, quoi vous croyez donc…  
+
+    D. ELVIRE
+Je crois ce qu'il faut croire.  
+Adieu, de mes avis conservez la mémoire,  
+Et s'il est vrai pour moi, que votre amour soit grand,  
+Donnez-en à mon cœur les preuves qu'il prétend.  
+
+    D. GARCIE
+Croyez que désormais, c'est toute mon envie,  
+Et qu'avant qu'y manquer, je veux perdre la vie.  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE.
+Élise, D. Lope.
+
+
+    ÉLISE
+Tout ce que fait le Prince, à parler franchement,  
+N'est pas ce qui me donne un grand étonnement ;  
+Car que d'un noble amour une âme bien saisie,  
+En pousse les transports jusqu'à la jalousie,  
+Que de doutes fréquents ses vœux soient traversés,  
+Il est fort naturel, et je l'approuve assez;  
+Mais ce qui me surprend, Dom Lope, c'est d'entendre,  
+Que vous lui préparez les soupçons qu'il doit prendre,  
+Que votre âme les forme, et qu'il n'est en ces lieux,  
+Fâcheux que par vos soins, jaloux que par vos yeux,  
+Encore un coup, Dom Lope, une âme bien éprise  
+Des soupçons qu'elle prend, ne me rend point surprise ;  
+Mais qu'on ait sans amour tous les soins d'un jaloux,  
+C'est une nouveauté qui n'appartient qu'à vous.  
+
+    D. LOPE
+Que sur cette conduite à son aise l'on glose,  
+Chacun règle la sienne au but qu'il se propose ;  
+Et rebuté par vous des soins de mon amour,  
+Je songe auprès du Prince à bien faire ma Cour.  
+
+    ÉLISE
+Mais savez-vous, qu'enfin, il fera mal la sienne,  
+S'il faut qu'en cette humeur votre esprit l'entretienne ?  
+
+    D. LOPE
+Et quand, charmante Élise, a-t-on vu s'il vous plaît,  
+Qu'on cherche auprès des grands, que son propre intérêt?  
+Qu'un parfait Courtisan veuille charger leur suite,  
+D'un censeur des défauts, qu'on trouve en leur conduite;  
+Et s'aille inquiéter, si son discours leur nuit,  
+Pourvu que sa fortune en tire quelque fruit ?  
+Tout ce qu'on fait ne va, qu'à se mettre en leur grâce  
+Par la plus courte voie, on y cherche une place ;  
+Et les plus prompts moyens de gagner leur faveur,  
+C'est de flatter toujours le faible de leur cœur:  
+D'applaudir en aveugle à ce qu'ils veulent faire,  
+Et n'appuyer jamais ce qui peut leur déplaire;  
+C'est là le vrai secret d'être bien auprès d'eux,  
+Les utiles conseils font passer pour fâcheux,  
+Et vous laissent toujours hors de la confidence,  
+Où vous jette d'abord l'adroite complaisance.  
+Enfin on voit partout, que l'art des Courtisans,  
+Ne tend qu'à profiter des faiblesses des Grands;  
+À nourrir leurs erreurs, et jamais dans leur âme,  
+Ne porter les avis des choses qu'on y blâme.  
+
+    ÉLISE
+Ces maximes un temps leur peuvent succéder ;  
+Mais il est des revers, qu'on doit appréhender.  
+Et dans l'esprit des Grands, qu'on tâche de surprendre,  
+Un rayon de lumière, à la fin peut descendre,  
+Qui sur tous ces flatteurs venge équitablement,  
+Ce qu'a fait à leur gloire, un long aveuglement.  
+Cependant je dirai, que votre âme s'explique  
+Un peu bien librement sur votre Politique ;  
+Et ses nobles motifs, au Prince rapportés,  
+Serviraient assez mal vos assiduités.  
+
+    D. LOPE
+Outre que je pourrais désavouer, sans blâme,  
+Ces libres vérités, sur quoi s'ouvre mon âme;  
+Je sais fort bien qu'Élise a l'esprit trop discret,  
+Pour aller divulguer cet entretien secret.  
+Qu'ai-je dit, après tout, que sans moi l'on ne sache ?  
+Et dans mon procédé que faut-il que je cache ?  
+On peut craindre une chute avec quelque raison,  
+Quand on met en usage, ou ruse, ou trahison.  
+Mais qu'ai-je à redouter, moi qui partout n'avance  
+Que les soins approuvés d'un peu de complaisance;  
+Et qui suis seulement par d'utiles leçons  
+La pente qu'a le Prince à de jaloux soupçons ?  
+Son âme semble en vivre, et je mets mon étude,  
+À trouver des raisons à son inquiétude,  
+À voir de tous côtés, s'il ne se passe rien,  
+À fournir le sujet d'un secret entretien.  
+Et quand je puis venir enflé d'une nouvelle,  
+Donner à son repos une atteinte mortelle;  
+C'est lors que plus il m'aime, et je vois sa raison  
+D'une audience avide avaler ce poison,  
+Et m'en remercier, comme d'une victoire,  
+Qui comblerait ses jours, de bonheur et de gloire,  
+Mais mon Rival paraît, je vous laisse tous deux,  
+Et bien que je renonce à l'espoir de vos vœux,  
+J'aurais un peu de peine à voir qu'en ma présence,  
+Il reçût des effets de quelque préférence;  
+Et je veux, si je puis, m'épargner ce souci.  
+
+    ÉLISE
+Tout Amant de bon sens en doit user ainsi.  
+
+
+## SCÈNE II.
+D. Alvar, Élise.
+
+
+    D. ALVAR
+Enfin, nous apprenons que le Roi de Navarre  
+Pour les désirs du Prince, aujourd'hui se déclare ;  
+Et qu'un nouveau renfort de Troupes nous attend  
+Pour le fameux service, où son amour prétend.  
+Je suis surpris pour moi, qu'avec tant de vitesse,  
+On ait fait avancer... Mais...  
+
+
+## SCÈNE III.
+D. Garcie, Élise, d. alvar.
+
+
+    D. GARCIE
+Que fait la Princesse ?  
+
+    ÉLISE
+Quelques lettres, Seigneur, je le présume ainsi;  
+Mais elle va savoir que vous êtes ici.  
+
+
+## SCÈNE IV.
+
+    DOM GARCIE, SEUL.
+J'attendrai qu'elle ait fait ; près de souffrir sa vue,  
+D'un trouble tout nouveau je me sens l'âme émue ;  
+Et la crainte mêlée à mon ressentiment,  
+Jette par tout mon corps un soudain tremblement.  
+Prince, prends garde au moins, qu'un aveugle caprice  
+Ne te conduise ici dans quelque précipice;  
+Et que de ton esprit les désordres puissants,  
+Ne donnent un peu trop au rapport de tes sens.  
+Consulte ta raison, prends sa clarté pour guide,  
+Vois si de tes soupçons, l'apparence est solide,  
+Ne démens pas leur voix, mais aussi garde bien  
+Que pour les croire trop, ils ne t'imposent rien;  
+Qu'à tes premiers transports ils n'osent trop permettre,  
+Et relis posément cette moitié de lettre.  
+Ha ! qu'est-ce que mon cœur, trop digne de pitié,  
+Ne voudrait pas donner pour son autre moitié!  
+Mais après tout que dis-je ? il suffit bien de l'une,  
+Et n'en voilà que trop pour voir mon infortune.  
+Quoique votre Rival*…*  
+Vous devez toutefois vous*…*  
+Et vous avez en vous à*…*  
+L'obstacle le plus grand*…*  
+Je chéris tendrement ce*…*  
+Pour me tirer des mains de*…*  
+Son amour, ses devoirs*…*  
+Mais il m'est odieux, avec*…*  
+
+
+## SCÈNE V
+D. Elvire, d. Garcie.
+
+
+    D. ELVIRE
+Vous avez bien voulu que je vous fisse attendre ?  
+
+    D. GARCIE
+Ha ! qu'elle cache bien.  
+
+    D. ELVIRE
+On vient de nous apprendre  
+Que le Roi votre Père approuve vos projets,  
+Et veut bien que son Fils nous rende nos Sujets,  
+Et mon âme en a pris une allégresse extrême.  
+
+    D. GARCIE
+Oui, Madame, et mon cœur s'en réjouit de même,  
+Mais…  
+
+    D. ELVIRE
+Le Tyran sans doute aura peine à parer  
+Les foudres que partout il entend murmurer,  
+Et j'ose me flatter que le même courage  
+Qui pût bien me soustraire à sa brutale rage;  
+Et dans les murs d'Astorgue, arrachés de ses mains,  
+Me faire un sûr asile à braver ses desseins:  
+Pourra de tout Léon, achevant la conquête,  
+Sous ses nobles efforts faire choir cette tête.  
+
+    D. GARCIE
+Le succès en pourra parler dans quelques jours,  
+Mais de grâce passons à quelque autre discours.  
+Puis-je sans trop oser vous prier de me dire,  
+À qui vous avez pris, Madame, soin d'écrire,  
+Depuis que le destin nous a conduits ici ?  
+
+    D. ELVIRE
+Pourquoi cette demande? et d'où vient ce souci ?  
+
+    D. GARCIE
+D'un désir curieux de pure fantaisie.  
+
+    D. ELVIRE
+La curiosité naît de la jalousie.  
+
+    D. GARCIE
+Non, ce n'est rien du tout de ce que vous pensez,  
+Vos ordres de ce mal me défendent assez.  
+
+    D. ELVIRE
+Sans chercher plus avant quel intérêt vous presse,  
+J'ai deux fois à Léon, écrit à la Comtesse;  
+Et deux fois au Marquis Dom Louis, à Burgos,  
+Avec cette réponse êtes-vous en repos ?  
+
+    D. GARCIE
+Vous n'avez point écrit à quelque autre personne,  
+Madame ?  
+
+    D. ELVIRE
+Non, sans doute, et ce discours m'étonne.  
+
+    D. GARCIE
+De grâce songez bien avant que d'assurer,  
+En manquant de mémoire on peut se parjurer.  
+
+    D. ELVIRE
+Ma bouche sur ce point ne peut être parjure.  
+
+    D. GARCIE
+Elle a dit toutefois une haute imposture.  
+
+    D. ELVIRE
+Prince.  
+
+    D. GARCIE
+Madame.  
+
+    D. ELVIRE
+Ô Ciel! quel est ce mouvement,  
+Avez-vous, dites-moi, perdu le jugement ?  
+
+    D. GARCIE
+Oui, oui, je l'ai perdu, lorsque dans votre vue,  
+J'ai pris pour mon malheur le poison qui me tue;  
+Et que j'ai cru trouver quelque sincérité  
+Dans les traîtres appas, dont je fus enchanté.  
+
+    D. ELVIRE
+De quelle trahison pouvez-vous donc vous plaindre ?  
+
+    D. GARCIE
+Ah ! que ce cœur est double, et sait bien l'art de feindre;  
+Mais tous moyens de fuir lui vont être soustraits,  
+Jetez ici les yeux, et connaissez vos traits;  
+Sans avoir vu le reste, il m'est assez facile  
+De découvrir pour qui vous employez ce style.  
+
+    D. ELVIRE
+Voilà donc le sujet qui vous trouble l'esprit ?  
+
+    D. GARCIE
+Vous ne rougissez pas en voyant cet écrit ?  
+
+    D. ELVIRE
+L'innocence à rougir n'est point accoutumée.  
+
+    D. GARCIE
+Il est vrai qu'en ces lieux on la voit opprimée,  
+Ce billet démenti pour n'avoir point de seing.  
+
+    D. ELVIRE
+Pourquoi le démentir, puisqu'il est de ma main ?  
+
+    D. GARCIE
+Encore est-ce beaucoup que de franchise pure,  
+Vous demeuriez d'accord, que c'est votre écriture ;  
+Mais ce sera, sans doute, et j'en serais garant,  
+Un billet qu'on envoie à quelque indifférent,  
+Ou du moins ce qu'il a de tendresse évidente  
+Sera pour une amie, ou pour quelque parente.  
+
+    D. ELVIRE
+Non, c'est pour un Amant, que ma main l'a formé,  
+Et j'ajoute de plus pour un Amant aimé.  
+
+    D. GARCIE
+Et je puis, ô Perfide...  
+
+    D. ELVIRE
+Arrêtez, Prince indigne  
+De ce lâche transport l'égarement insigne,  
+Bien que de vous mon cœur ne prenne point de loi,  
+Et ne doive en ces lieux aucun compte qu'à soi,  
+Je veux bien me purger pour votre seul supplice,  
+Du crime que m'impose un insolent caprice;  
+Vous serez éclairci, n'en doutez nullement,  
+J'ai ma défense prête en ce même moment.  
+Vous allez recevoir une pleine lumière,  
+Mon innocence ici paraîtra toute entière ;  
+Et je veux vous mettant juge en votre intérêt,  
+Vous faire prononcer vous-même votre arrêt.  
+
+    D. GARCIE
+Ce sont propos obscurs, qu'on ne saurait comprendre.  
+
+    D. ELVIRE
+Bientôt à vos dépens vous me pourrez entendre.  
+Élise, holà.  
+
+
+## SCÈNE VI.
+Élise, D. Elvire, D. Garcie.
+
+
+    ÉLISE
+Madame.  
+
+    ÉLISE
+Madame, j'ai sujet de m'avouer coupable,  
+Je ne sais comme il est demeuré sur ma table ;  
+Mais on vient de m'apprendre en ce même moment,  
+Que Dom Lope venant dans mon appartement,  
+Par une liberté, qu'on lui voit se permettre,  
+A fureté partout, et trouvé cette lettre.  
+Comme il la dépliait, Léonor a voulu  
+S'en saisir promptement, avant qu'il eût rien lu ;  
+Et se jetant sur lui, la lettre contestée,  
+En deux justes moitiés dans leurs mains est restée,  
+Et Dom Lope aussitôt prenant un prompt essor,  
+A dérobé la sienne aux soins de Léonor.  
+
+    D. ELVIRE
+Avez-vous ici l'autre?  
+
+    ÉLISE
+Oui, la voilà, Madame.  
+
+    D. ELVIRE
+Donnez, nous allons voir qui mérite le blâme,  
+Avec votre moitié rassemblez celle-ci,  
+Lisez, et hautement, je veux l'entendre aussi.  
+
+    D. GARCIE
+Au *Prince Dom* Garcie! ah.  
+
+    D. ELVIRE
+Achevez de lire,  
+Votre âme pour ce mot ne doit pas s'interdire.  
+
+    D. GARCIE* lit.*
+Quoique votre *Rival, Prince*, alarme votre âme,  
+Vous devez toutefois vous craindre plus que lui,  
+Et vous avez en vous à détruire aujourd'hui  
+L'obstacle le plus grand que trouve votre flamme.  
+Je chéris tendrement ce qu'a fait *D*om Garcie,  
+Pour me tirer des mains de nos fiers ravisseurs,  
+Son amour, ses devoirs ont pour moi des douceurs ;  
+Mais il m'est odieux avec sa jalousie.  
+
+    D. ELVIRE
+Hé bien, que dites-vous ?  
+
+    D. GARCIE
+Ha ! Madame, je dis,  
+Qu'à cet objet mes sens demeurent interdits;  
+Que je vois dans ma plainte une horrible injustice,  
+Et qu'il n'est point pour moi d'assez cruel supplice.  
+
+    D. ELVIRE
+Il suffit, apprenez que si j'ai souhaité  
+Qu'à vos yeux cet écrit pût être présenté;  
+C'est pour le démentir, et cent fois me dédire  
+De tout ce que pour vous, vous y venez de lire.  
+Adieu Prince.  
+
+    D. GARCIE
+Madame, hélas ! où fuyez-vous ?  
+
+    D. ELVIRE
+Où vous ne serez point, trop odieux jaloux.  
+
+    D. GARCIE
+Ha ! Madame, excusez un Amant misérable,  
+Qu'un sort prodigieux a fait vers vous coupable,  
+Et qui, bien qu'il vous cause un courroux si puissant,  
+Eût été plus blâmable à rester innocent.  
+Car enfin, peut-il être une âme bien atteinte,  
+Dont l'espoir le plus doux ne soit mêlé de crainte ?  
+Et pourriez-vous penser que mon cœur eût aimé,  
+Si ce billet fatal ne l'eût point alarmé?  
+S'il n'avait point frémi des coups de cette foudre,  
+Dont je me figurais tout mon bonheur en poudre ;  
+Vous-même, dites-moi, si cet événement,  
+N'eût pas dans mon erreur jeté tout autre Amant?  
+Si d'une preuve, hélas ! qui me semblait si claire,  
+Je pouvais démentir...  
+
+    D. ELVIRE
+Oui, vous le pouviez faire,  
+Et dans mes sentiments assez bien déclarés  
+Vos doutes rencontraient des garants assurés;  
+Vous n'aviez rien à craindre, et d'autres sur ce gage,  
+Auraient du monde entier bravé le témoignage.  
+
+    D. GARCIE
+Moins on mérite un bien qu'on nous fait espérer,  
+Plus notre âme a de peine à pouvoir s'assurer ;  
+Un sort trop plein de gloire à nos yeux est fragile,  
+Et nous laisse aux soupçons une pente facile.  
+Pour moi qui crois si peu mériter vos bontés,  
+J'ai douté du bonheur de mes témérités ;  
+J'ai cru que dans ces lieux rangés sous ma puissance  
+Votre âme se forçait à quelque complaisance;  
+Que déguisant pour moi votre sévérité…  
+
+    D. ELVIRE
+Et je pourrais descendre à cette lâcheté,  
+Moi prendre le parti d'une honteuse feinte,  
+Agir par les motifs d'une servile crainte,  
+Trahir mes sentiments, et pour être en vos mains,  
+D'un masque de faveur vous couvrir mes dédains;  
+La gloire sur mon cœur aurait si peu d'empire,  
+Vous pouvez le penser, et vous me l'osez dire?  
+Apprenez que ce cœur ne sait point s'abaisser,  
+Qu'il n'est rien sous les Cieux qui puisse l'y forcer.  
+Et s'il vous a fait voir par une erreur insigne  
+Des marques de bonté, dont vous n'étiez pas digne;  
+Qu'il saura bien montrer malgré votre pouvoir,  
+La haine que pour vous il se résout d'avoir;  
+Braver votre furie, et vous faire connaître  
+Qu'il n'a point été lâche, et ne veut jamais l'être.  
+
+    D. GARCIE
+Hé bien, je suis coupable, et ne m'en défends pas,  
+Mais je demande grâce à vos divins appas;  
+Je la demande au nom de la plus vive flamme,  
+Dont jamais deux beaux yeux aient fait brûler une âme.  
+Que si votre courroux ne peut être apaisé,  
+Si mon crime est trop grand pour se voir excusé,  
+Si vous ne regardez, ni l'amour qui le cause,  
+Ni le vif repentir que mon cœur vous expose;  
+Il faut qu'un coup heureux, en me faisant mourir,  
+M'arrache à des tourments que je ne puis souffrir.  
+Non ne présumez pas, qu'ayant su vous déplaire,  
+Je puisse vivre une heure avec votre colère.  
+Déjà de ce moment la barbare longueur,  
+Sous ses cuisants remords fait succomber mon cœur;  
+Et de mille Vautours les blessures cruelles,  
+N'ont rien de comparable à ses douleurs mortelles;  
+Madame, vous n'avez qu'à me le déclarer,  
+S'il n'est point de pardon que je doive espérer,  
+Cette épée aussitôt, par un coup favorable  
+Va percer à vos yeux le cœur d'un misérable;  
+Ce cœur, ce traître cœur, dont les perplexités,  
+Ont si fort outragé vos extrêmes bontés;  
+Trop heureux en mourant, si ce coup légitime  
+Efface en votre esprit l'image de mon crime;  
+Et ne laisse aucuns traits de votre aversion  
+Au faible souvenir de mon affection;  
+C'est l'unique faveur que demande ma flamme.  
+
+    D. ELVIRE
+Ha ! Prince trop cruel.  
+
+    D. GARCIE
+Dites, parlez, Madame.  
+
+    D. ELVIRE
+Faut-il encor pour vous conserver des bontés,  
+Et vous voir m'outrager par tant d'indignités ?  
+
+    D. GARCIE
+Un cœur ne peut jamais outrager quand il aime,  
+Et ce que fait l'amour il l'excuse lui-même.  
+
+    D. ELVIRE
+L'amour n'excuse point de tels emportements.  
+
+    D. GARCIE
+Tout ce qu'il a d'ardeur passe en ses mouvements,  
+Et plus il devient fort, plus il trouve de peine...  
+
+    D. ELVIRE
+Non, ne m'en parlez point, vous méritez ma haine.  
+
+    D. GARCIE
+Vous me haïssez donc ?  
+
+    D. ELVIRE
+J'y veux tâcher au moins ;  
+Mais, hélas ! je crains bien que j'y perde mes soins,  
+Et que tout le courroux qu'excite votre offense  
+Ne puisse jusque-là faire aller ma vengeance.  
+
+    D. GARCIE
+D'un supplice si grand ne tentez point l'effort,  
+Puisque pour vous venger je vous offre ma mort;  
+Prononcez-en l'arrêt, et j'obéis sur l'heure.  
+
+    D. ELVIRE
+Qui ne saurait haïr, ne peut vouloir qu'on meure.  
+
+    D. GARCIE
+Et moi je ne puis vivre, à moins que vos bontés  
+Accordent un pardon à mes témérités,  
+Résolvez l'un des deux, de punir, ou d'absoudre.  
+
+    D. ELVIRE
+Hélas ! j'ai trop fait voir, ce que je puis résoudre.  
+Par l'aveu d'un pardon, n'est-ce pas se trahir,  
+Que dire au Criminel qu'on ne le peut haïr ?  
+
+    D. GARCIE
+Ah ! c'en est trop, souffrez, adorable Princesse...  
+
+    D. ELVIRE
+Laissez, je me veux mal d'une telle faiblesse.  
+
+    D. GARCIE
+Enfin je suis...  
+
+
+## SCÈNE VII.
+D. Lope, D. Garcie.
+
+
+    D. LOPE
+Seigneur, je viens vous informer  
+D'un secret dont vos feux ont droit de s'alarmer.  
+
+    D. GARCIE
+Ne me viens point parler de secret, ni d'alarme  
+Dans les doux mouvements du transport qui me charme,  
+Après ce qu'à mes yeux on vient de présenter,  
+Il n'est point de soupçons que je doive écouter;  
+Et d'un divin objet la bonté sans pareille,  
+À tous ces vains rapports, doit fermer mon oreille,  
+Ne m'en fais plus.  
+
+    D. LOPE
+Seigneur, je veux ce qu'il vous plaît,  
+Mes soins en tout ceci n'ont que votre intérêt;  
+J'ai cru que le secret que je viens de surprendre  
+Méritait bien qu'en hâte on vous le vînt apprendre ;  
+Mais puisque vous voulez que je n'en touche rien,  
+Je vous dirai, Seigneur, pour changer d'entretien,  
+Que déjà dans Léon on voit chaque famille  
+Lever le masque au bruit des Troupes de Castille,  
+Et que surtout le Peuple y fait pour son vrai Roi  
+Un éclat à donner au Tyran de l'effroi.  
+
+    D. GARCIE
+La Castille du moins n'aura pas la victoire,  
+Sans que nous essayions d'en partager la gloire ;  
+Et nos Troupes aussi peuvent être en état,  
+D'imprimer quelque crainte au cœur de Mauregat.  
+Mais quel est ce secret, dont tu voulais m'instruire,  
+Voyons un peu?  
+
+    D. LOPE
+Seigneur, je n'ai rien à vous dire.  
+
+    D. GARCIE
+Va, va, parle, mon cœur t'en donne le pouvoir.  
+
+    D. LOPE
+Vos paroles, Seigneur, m'en ont trop fait savoir,  
+Et puisque mes avis ont de quoi vous déplaire,  
+Je saurai désormais trouver l'art de me taire.  
+
+    D. GARCIE
+Enfin, je veux savoir la chose absolument.  
+
+    D. LOPE
+Je ne réplique point à ce commandement;  
+Mais, Seigneur, en ce lieu le devoir de mon zèle  
+Trahirait le secret d'une telle nouvelle.  
+Sortons pour vous l'apprendre, et sans rien embrasser,  
+Vous-même vous verrez ce qu'on en doit penser.  
+
+<Fin du second Acte.>
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE .
+D. Elvire, Élise.
+
+
+    D. ELVIRE
+Élise, que dis-tu de l'étrange faiblesse,  
+Que vient de témoigner le cœur d'une Princesse ?  
+Que dis-tu de me voir tomber si promptement,  
+De toute la chaleur de mon ressentiment;  
+Et malgré tant d'éclat relâcher mon courage  
+Au pardon trop honteux d'un si cruel outrage ?  
+
+    ÉLISE
+Moi, je dis que d'un cœur que nous pouvons chérir,  
+Une injure sans doute est bien dure à souffrir:  
+Mais que s'il n'en est point qui davantage irrite,  
+Il n'en est point aussi qu'on pardonne si vite;  
+Et qu'un coupable aimé triomphe à nos genoux  
+De tous les prompts transports du plus bouillant courroux,  
+D'autant plus aisément, Madame, quand l'offense  
+Dans un excès d'amour peut trouver sa naissance;  
+Ainsi quelque dépit que l'on vous ait causé,  
+Je ne m'étonne point de le voir apaisé ;  
+Et je sais quel pouvoir malgré votre menace,  
+À de pareils forfaits donnera toujours grâce.  
+
+    D. ELVIRE
+Ah ! sache quelque ardeur qui m'impose des lois,  
+Que mon front a rougi pour la dernière fois;  
+Et que si désormais on pousse ma colère,  
+Il n'est point de retour qu'il faille qu'on espère.  
+Quand je pourrais reprendre un tendre sentiment,  
+C'est assez contre lui que l'éclat d'un serment ;  
+Car enfin un esprit qu'un peu d'orgueil inspire,  
+Trouve beaucoup de honte à se pouvoir dédire;  
+Et souvent aux dépens d'un pénible combat,  
+Fait sur ses propres vœux un illustre attentat,  
+S'obstine par honneur, et n'a rien qu'il n'immole  
+À la noble fierté de tenir sa parole.  
+Ainsi dans le pardon que l'on vient d'obtenir,  
+Ne prends point de clartés pour régler l'avenir ;  
+Et quoi qu'à mes destins la fortune prépare,  
+Crois que je ne puis être au Prince de Navarre,  
+Que de ces noirs accès qui troublent sa raison,  
+Il n'ait fait éclater l'entière guérison,  
+Et réduit tout mon cœur que ce mal persécute,  
+À n'en plus redouter l'affront d'une rechute.  
+
+    ÉLISE
+Mais quel affront nous fait le transport d'un jaloux ?  
+
+    D. ELVIRE
+En est-il un qui soit plus digne de courroux ?  
+Et puisque notre cœur fait un effort extrême,  
+Lorsqu'il se peut résoudre à confesser qu'il aime;  
+Puisque l'honneur du Sexe en tout temps rigoureux,  
+Oppose un fort obstacle à de pareils aveux.  
+L'Amant qui voit pour lui franchir un tel obstacle,  
+Doit-il impunément douter de cet Oracle ?  
+Et n'est-il pas coupable, alors qu'il ne croit pas,  
+Ce qu'on ne dit jamais qu'après de grands combats ?  
+
+    ÉLISE
+Moi, je tiens que toujours un peu de défiance,  
+En ces occasions n'a rien qui nous offense;  
+Et qu'il est dangereux qu'un cœur qu'on a charmé,  
+Soit trop persuadé, Madame, d'être aimé,  
+Si...  
+
+    D. ELVIRE
+N'en disputons plus, chacun a sa pensée,  
+C'est un scrupule, enfin, dont mon âme est blessée ;  
+Et contre mes désirs, je sens je ne sais quoi,  
+Me prédire un éclat entre le Prince et moi;  
+Qui malgré ce qu'on doit aux vertus dont il brille...  
+Mais ô Ciel! en ces lieux, Dom Sylve de Castille;  
+Ah ! Seigneur, par quel sort vous vois-je maintenant ?  
+
+
+## SCÈNE II.
+D. Sylve, D. Elvire
+
+
+    D. SYLVE
+Je sais que mon abord, Madame, est surprenant,  
+Et qu'être sans éclat entré dans cette Ville,  
+Dont l'ordre d'un Rival rend l'accès difficile;  
+Qu'avoir pu me soustraire aux yeux de ses soldats,  
+C'est un événement que vous n'attendiez pas.  
+Mais si j'ai dans ces lieux franchi quelques obstacles,  
+L'ardeur de vous revoir peut bien d'autres miracles,  
+Tout mon cœur a senti par de trop rudes coups  
+Le rigoureux destin d'être éloigné de vous ;  
+Et je n'ai pu nier au tourment qui le tue,  
+Quelques moments secrets d'une si chère vue.  
+Je viens vous dire donc que je rends grâce aux Cieux,  
+De vous voir hors des mains d'un Tyran odieux;  
+Mais parmi les douceurs d'une telle aventure,  
+Ce qui m'est un sujet d'éternelle torture,  
+C'est de voir qu'à mon bras les rigueurs de mon sort,  
+Ont envié l'honneur de cet illustre effort,  
+Et fait à mon Rival, avec trop d'injustice,  
+Offrir les doux périls d'un si fameux service;  
+Oui, Madame, j'avais pour rompre vos liens  
+Des sentiments sans doute aussi beaux que les siens ;  
+Et je pouvais pour vous gagner cette victoire,  
+Si le Ciel n'eût voulu m'en dérober la gloire.  
+
+    D. ELVIRE
+Je sais, Seigneur, je sais, que vous avez un cœur,  
+Qui des plus grands périls vous peut rendre vainqueur ;  
+Et je ne doute point que ce généreux zèle,  
+Dont la chaleur vous pousse à venger ma querelle,  
+N'eût contre les efforts d'un indigne projet  
+Pu faire en ma faveur tout ce qu'un autre a fait.  
+Mais sans cette action, dont vous étiez capable,  
+Mon sort à la Castille est assez redevable;  
+On sait ce qu'en ami, plein d'ardeur et de foi,  
+Le Comte votre Père a fait pour le feu Roi,  
+Après l'avoir aidé, jusqu'à l'heure dernière,  
+Il donne en ses États un asile à mon Frère.  
+Quatre Lustres entiers, il y cache son sort,  
+Aux barbares fureurs de quelque lâche effort;  
+Et pour rendre à son front l'éclat d'une Couronne,  
+Contre nos ravisseurs vous marchez en personne.  
+N'êtes-vous pas content, et ces soins généreux,  
+Ne m'attachent-ils point par d'assez puissants nœuds ?  
+Quoi votre âme, Seigneur, serait-elle obstinée  
+À vouloir asservir toute ma destinée;  
+Et faut-il que jamais il ne tombe sur nous  
+L'ombre d'un seul bienfait qu'il ne vienne de vous ?  
+Ah ! souffrez dans les maux, où mon destin m'expose,  
+Qu'aux soins d'un autre aussi, je doive quelque chose ;  
+Et ne vous plaignez point de voir un autre bras,  
+Acquérir de la gloire, où le vôtre n'est pas.  
+
+    D. SYLVE
+Oui, Madame, mon cœur doit cesser de s'en plaindre,  
+Avec trop de raison vous voulez m'y contraindre,  
+Et c'est injustement qu'on se plaint d'un malheur,  
+Quand un autre plus grand s'offre à notre douleur.  
+Ce secours d'un Rival m'est un cruel martyre ;  
+Mais, hélas ! de mes maux, ce n'est pas là le pire,  
+Le coup, le rude coup, dont je suis atterré,  
+C'est de me voir par vous ce Rival préféré.  
+Oui, je ne vois que trop, que ses feux pleins de gloire,  
+Sur les miens dans votre âme emportent la victoire ;  
+Et cette occasion de servir vos appas,  
+Cet avantage offert de signaler son bras,  
+Cet éclatant exploit qui vous fut salutaire,  
+N'est que le pur effet du bonheur de vous plaire,  
+Que le secret pouvoir d'un astre merveilleux,  
+Qui fait tomber la gloire, où s'attachent vos vœux;  
+Ainsi tous mes efforts ne seront que fumée,  
+Contre vos fiers Tyrans je conduis une armée.  
+Mais je marche en tremblant à cet illustre emploi,  
+Assuré que vos vœux ne seront pas pour moi,  
+Et que s'ils sont suivis, la fortune prépare  
+L'heur des plus beaux succès aux soins de la Navarre.  
+Ah ! Madame, faut-il me voir précipité  
+De l'espoir glorieux dont je m'étais flatté;  
+Et ne puis-je savoir quels crimes on m'impute,  
+Pour avoir mérité cette effroyable chute ?  
+
+    D. ELVIRE
+Ne me demandez rien avant que regarder,  
+Ce qu'à mes sentiments vous devez demander ;  
+Et sur cette froideur qui semble vous confondre,  
+Répondez-vous, Seigneur, ce que je puis répondre;  
+Car enfin tous vos soins ne sauraient ignorer  
+Quels secrets de votre âme on m'a su déclarer,  
+Et je la crois cette âme, et trop noble, et trop haute,  
+Pour vouloir m'obliger à commettre une faute;  
+Vous-même, dites-vous, s'il est de l'équité,  
+De me voir couronner une infidélité.  
+Si vous pouviez m'offrir, sans beaucoup d'injustice  
+Un cœur à d'autres yeux offert en sacrifice,  
+Vous plaindre avec raison, et blâmer mes refus,  
+Lorsqu'ils veulent d'un crime affranchir vos vertus.  
+Oui, Seigneur, c'est un crime, et les premières flammes,  
+Ont des droits si sacrés sur les illustres âmes,  
+Qu'il faut perdre grandeurs, et renoncer au jour,  
+Plutôt que de pencher vers un second amour.  
+J'ai pour vous cette ardeur que peut prendre l'estime,  
+Pour un courage haut, pour un cœur magnanime ;  
+Mais n'exigez de moi que ce que je vous dois,  
+Et soutenez l'honneur de votre premier choix.  
+Malgré vos feux nouveaux, voyez quelle tendresse  
+Vous conserve le cœur de l'aimable Comtesse;  
+Ce que pour un ingrat, (car vous l'êtes Seigneur,)  
+Elle a d'un choix constant refusé le bonheur;  
+Quel mépris généreux dans son ardeur extrême,  
+Elle a fait de l'éclat, que donne un Diadème ;  
+Voyez combien d'efforts pour vous elle a bravés,  
+Et rendez à son cœur, ce que vous lui devez.  
+
+    D. SYLVE
+Ah ! Madame, à mes yeux n'offrez point son mérite,  
+Il n'est que trop présent à l'ingrat qui la quitte ;  
+Et si mon cœur vous dit, ce que pour elle il sent,  
+J'ai peur qu'il ne soit pas envers vous innocent.  
+Oui, ce cœur l'ose plaindre, et ne suit pas sans peine  
+L'impérieux effort de l'amour qui l'entraîne,  
+Aucun espoir pour vous n'a flatté mes désirs,  
+Qui ne m'ait arraché pour elle des soupirs;  
+Qui n'ait dans ses douceurs fait jeter à mon âme,  
+Quelques tristes regards, vers sa première flamme,  
+Se reprocher l'effet de vos divins attraits,  
+Et mêler des remords à mes plus chers souhaits.  
+J'ai fait plus que cela, puisqu'il vous faut tout dire,  
+Oui, j'ai voulu sur moi vous ôter votre empire,  
+Sortir de votre chaîne, et rejeter mon cœur,  
+Sous le joug innocent de son premier vainqueur.  
+Mais après mes efforts ma constance abattue,  
+Voit un cours nécessaire à ce mal qui me tue ;  
+Et dût être mon sort à jamais malheureux,  
+Je ne puis renoncer à l'espoir de mes vœux ;  
+Je ne saurais souffrir l'épouvantable idée  
+De vous voir par un autre à mes yeux possédée ;  
+Et le flambeau du jour qui m'offre vos appas,  
+Doit avant cet Hymen éclairer mon trépas.  
+Je sais que je trahis une Princesse aimable,  
+Mais, Madame, après tout mon cœur est-il coupable;  
+Et le fort ascendant, que prend votre beauté,  
+Laisse-t-il aux esprits aucune liberté ?  
+Hélas ! je suis ici, bien plus à plaindre qu'elle,  
+Son cœur, en me perdant, ne perd qu'un infidèle.  
+D'un pareil déplaisir on se peut consoler ;  
+Mais moi par un malheur qui ne peut s'égaler,  
+J'ai celui de quitter une aimable personne,  
+Et tous les maux encor que mon amour me donne.  
+
+    D. ELVIRE
+Vous n'avez que les maux que vous voulez avoir,  
+Et toujours notre cœur est en notre pouvoir;  
+Il peut bien quelquefois montrer quelque faiblesse,  
+Mais enfin, sur nos sens, la raison, la maîtresse…  
+
+
+## SCÈNE III.
+D. Garcie, D. Elvire, D. Sylve.
+
+
+    D. GARCIE
+Madame, mon abord, comme je connais bien,  
+Assez mal à propos trouble votre entretien ;  
+Et mes pas en ce lieu, s'il faut que je le die,  
+Ne croyaient pas trouver si bonne compagnie.  
+
+    D. ELVIRE
+Cette vue, en effet, surprend au dernier point,  
+Et de même que vous, je ne l'attendais point.  
+
+    D. GARCIE
+Oui, Madame, je crois, que de cette visite,  
+Comme vous l'assurez, vous n'étiez point instruite;  
+Mais, Seigneur, vous deviez nous faire au moins l'honneur  
+De nous donner avis de ce rare bonheur;  
+Et nous mettre en état, sans nous vouloir surprendre,  
+De vous rendre en ces lieux, ce qu'on voudrait vous rendre.  
+
+    D. SYLVE
+Les héroïques soins vous occupent si fort,  
+Que de vous en tirer, Seigneur, j'aurais eu tort ;  
+Et des grands Conquérants les sublimes pensées  
+Sont aux civilités avec peine abaissées.  
+
+    D. GARCIE
+Mais les grands Conquérants, dont on vante les soins,  
+Loin d'aimer le secret, affectent les témoins.  
+Leur âme dès l'enfance à la gloire élevée,  
+Les fait dans leurs projets aller tête levée;  
+Et s'appuyant toujours sur des hauts sentiments,  
+Ne s'abaisse jamais à des déguisements.  
+Ne commettez-vous point vos vertus héroïques,  
+En passant dans ces lieux par des sourdes pratiques;  
+Et ne craignez-vous point, qu'on puisse aux yeux de tous  
+Trouver cette action trop indigne de vous ?  
+
+    D. SYLVE
+Je ne sais si quelqu'un blâmera ma conduite,  
+Au secret que j'ai fait d'une telle visite ;  
+Mais je sais qu'aux projets qui veulent la clarté,  
+Prince, je n'ai jamais cherché l'obscurité.  
+Et quand j'aurai sur vous à faire une entreprise,  
+Vous n'aurez pas sujet de blâmer la surprise;  
+Il ne tiendra qu'à vous de vous en garantir,  
+Et l'on prendra le soin de vous en avertir.  
+Cependant demeurons aux termes ordinaires,  
+Remettons nos débats après d'autres affaires ;  
+Et d'un sang un peu chaud réprimant les bouillons,  
+N'oublions pas tous deux, devant qui nous parlons.  
+
+    D. ELVIRE
+Prince, vous avez tort, et sa visite est telle,  
+Que vous…  
+
+    D. GARCIE
+1Ah! c'en est trop que prendre sa querelle,  
+Madame, et votre esprit devrait feindre un peu mieux,  
+Lorsqu'il veut ignorer sa venue en ces lieux.  
+Cette chaleur si prompte, à vouloir la défendre,  
+Persuade assez mal, qu'elle ait pu vous surprendre.  
+
+    D. ELVIRE
+Quoi que vous soupçonniez, il m'importe si peu,  
+Que j'aurais du regret d'en faire un désaveu.  
+
+    D. GARCIE
+Poussez donc jusqu'au bout cet orgueil héroïque,  
+Et que sans hésiter tout votre cœur s'explique;  
+C'est au déguisement donner trop de crédit,  
+Ne désavouez rien, puisque vous l'avez dit.  
+Tranchez, tranchez le mot, forcez toute contrainte,  
+Dites que de ses feux vous ressentez l'atteinte;  
+Que pour vous sa présence a des charmes si doux....  
+
+    D. ELVIRE
+Et si je veux l'aimer m'en empêcherez-vous ?  
+Avez-vous sur mon cœur quelque empire à prétendre,  
+Et pour régler mes vœux ai-je votre ordre à prendre ?  
+Sachez que trop d'orgueil a pu vous décevoir,  
+Si votre cœur sur moi s'est cru quelque pouvoir ;  
+Et que mes sentiments sont d'une âme trop grande  
+Pour vouloir les cacher, lorsqu'on me les demande:  
+Je ne vous dirai point si le Comte est aimé,  
+Mais apprenez de moi qu'il est fort estimé,  
+Que ses hautes vertus, pour qui je m'intéresse,  
+Méritent mieux que vous les vœux d'une Princesse,  
+Que je garde aux ardeurs, aux soins qu'il me fait voir  
+Tout le ressentiment qu'une âme puisse avoir.  
+Et que si des destins la fatale puissance,  
+M'ôte la liberté d'être sa récompense;  
+Au moins est-il en moi de promettre à ses vœux,  
+Qu'on ne me verra point le butin de vos feux.  
+Et sans vous amuser d'une attente frivole,  
+C'est à quoi je m'engage, et je tiendrai parole.  
+Voilà mon cœur ouvert, puisque vous le voulez,  
+Et mes vrais sentiments à vos yeux étalés;  
+Êtes-vous satisfait, et mon âme attaquée,  
+S'est-elle à votre avis assez bien expliquée ?  
+Voyez pour vous ôter tout lieu de soupçonner,  
+S'il reste quelque jour encore à vous donner;  
+Cependant si vos soins s'attachent à me plaire,  
+Songez que votre bras, Comte, m'est nécessaire;  
+Et d'un capricieux, quels que soient les transports,  
+Qu'à punir nos Tyrans, il doit tous ses efforts.  
+Fermez l'oreille, enfin, à toute sa furie,  
+Et pour vous y porter, c'est moi qui vous en prie.  
+
+
+## SCÈNE IV.
+Dom Garcie, Dom Sylve.
+
+
+    D. GARCIE
+Tout vous rit, et votre âme en cette occasion  
+Jouit superbement de ma confusion;  
+Il vous est doux de voir un aveu plein de gloire,  
+Sur les feux d'un Rival marquer votre victoire ;  
+Mais c'est à votre joie un surcroît sans égal,  
+D'en avoir pour témoins les yeux de ce Rival ;  
+Et mes prétentions hautement étouffées,  
+À vos vœux triomphants sont d'illustres trophées;  
+Goûtez à pleins transports ce bonheur éclatant,  
+Mais sachez qu'on n'est pas encore où l'on prétend.  
+La fureur qui m'anime a de trop justes causes,  
+Et l'on verra peut-être arriver bien des choses;  
+Un désespoir va loin quand il est échappé,  
+Et tout est pardonnable à qui se voit trompé.  
+Si l'ingrate à mes yeux pour flatter votre flamme,  
+À jamais n'être à moi, vient d'engager son âme;  
+Je saurai bien trouver dans mon juste courroux  
+Les moyens d'empêcher qu'elle ne soit à vous.  
+
+    D. GARCIE
+Non, non, ne craignez point qu'on pousse votre esprit,  
+À violer ici l'ordre qu'on vous prescrit;  
+Quelque juste fureur qui me presse, et vous flatte,  
+Je sais, Comte, je sais, quand il faut qu'elle éclate.  
+Ces lieux vous sont ouverts, oui, sortez-en, sortez,  
+Glorieux des douceurs que vous en remportez ;  
+Mais encore une fois, apprenez que ma tête  
+Peut seule dans vos mains mettre votre conquête.  
+
+    D. SYLVE
+Quand nous en serons là, le sort en notre bras,  
+De tous nos intérêts videra les débats.  
+
+<Fin du troisième Acte.>
+
+
+# ACTE IV.
+
+
+## SCÈNE PREMIÈRE.
+D. Elvire, D. Alvar.
+
+
+    D. ELVIRE
+Retournez, Dom Alvar, et perdez l'espérance,  
+De me persuader l'oubli de cette offense;  
+Cette plaie en mon cœur ne saurait se guérir,  
+Et les soins qu'on en prend ne font rien que l'aigrir.  
+À quelques faux respects croit-il que je défère ?  
+Non, non, il a poussé trop avant ma colère ;  
+Et son vain repentir qui porte ici vos pas,  
+Sollicite un pardon que vous n'obtiendrez pas.  
+
+    D. ALVAR.
+Madame, il fait pitié, jamais cœur que je pense,  
+Par un plus vif remords n'expia son offense ;  
+Et si dans sa douleur vous le considériez,  
+Il toucherait votre âme, et vous l'excuseriez.  
+On sait bien que le Prince est dans un âge à suivre  
+Les premiers mouvements, où son âme se livre,  
+Et qu'en un sang bouillant, toutes les passions  
+Ne laissent guère place à des réflexions.  
+Dom Lope prévenu d'une fausse lumière,  
+De l'erreur de son Maître, a fourni la matière;  
+Un bruit assez confus, dont le zèle indiscret,  
+A de l'abord du Comte éventé le secret,  
+Vous avait mise aussi de cette intelligence,  
+Qui dans ces lieux gardés a donné sa présence,  
+Le Prince a cru l'avis, et son amour séduit,  
+Sur une fausse alarme a fait tout ce grand bruit;  
+Mais d'une telle erreur son âme est revenue,  
+Votre innocence, enfin, lui vient d'être connue,  
+Et D. Lope, qu'il chasse, est un visible effet,  
+Du vif remords qu'il sent de l'éclat qu'il a fait.  
+
+    D. ELVIRE
+Ah ! c'est trop promptement qu'il croit mon innocence,  
+Il n'en a pas encore une entière assurance;  
+Dites-lui, dites-lui, qu'il doit bien tout peser,  
+Et ne se hâter point, de peur de s'abuser.  
+
+    D. ALVAR.
+Madame, il sait trop bien…  
+
+    D. ELVIRE
+Mais, Dom Alvar, de grâce,  
+N'étendons pas plus loin un discours qui me lasse,  
+Il réveille un chagrin qui vient à contre-temps,  
+En troubler dans mon cœur d'autres plus importants.  
+Oui, d'un trop grand malheur la surprise me presse,  
+Et le bruit du trépas de l'illustre Comtesse,  
+Doit s'emparer si bien de tout mon déplaisir,  
+Qu'aucun autre souci n'a droit de me saisir.  
+
+    D. ALVAR.
+Madame, ce peut être une fausse nouvelle,  
+Mais mon retour au Prince, en porte une cruelle.  
+
+    D. ELVIRE
+De quelque grand ennui qu'il puisse être agité,  
+Il en aura toujours moins qu'il n'a mérité.  
+
+
+## SCÈNE II.
+Élise, Dona Elvire.
+
+
+    ÉLISE
+J'attendais qu'il sortît, Madame, pour vous dire,  
+Ce qu'il veut maintenant que votre âme respire,  
+Puisque votre chagrin dans un moment d'ici,  
+Du sort de Done Ignès peut se voir éclairci.  
+Un inconnu qui vient pour cette confidence,  
+Vous fait par un des siens demander audience.  
+
+    D. ELVIRE
+Élise, il faut le voir, qu'il vienne promptement.  
+
+    ÉLISE
+Mais il veut n'être vu que de vous seulement ;  
+Et par cet envoyé, Madame, il sollicite,  
+Qu'il puisse sans témoins vous rendre sa visite.  
+
+    D. ELVIRE
+Hé bien nous serons seuls, et je vais l'ordonner,  
+Tandis que tu prendras le soin de l'amener;  
+Que mon impatience en ce moment est forte !  
+Ô! destins, est-ce joie, ou douleur qu'on m'apporte ?  
+
+
+## SCÈNE III.
+Élise, Dom Pèdre.
+
+
+    ÉLISE
+Où...  
+
+    D. PÈDRE
+Si vous me cherchez, Madame, me voici.  
+
+    ÉLISE
+En quel lieu votre Maître…  
+
+    D. PÈDRE
+Il est proche d'ici,  
+Le ferai-je venir ?  
+
+    ÉLISE
+Dites-lui qu'il s'avance,  
+Assuré qu'on l'attend avec impatience,  
+Et qu'il ne se verra d'aucuns yeux éclairé;  
+Je ne sais quel secret en doit être auguré,  
+Tant de précautions qu'il affecte de prendre...  
+Mais le voici déjà.  
+
+
+## SCÈNE IV.
+Élise, Donna Ignès.
+
+
+    ÉLISE
+Seigneur, pour vous attendre  
+On a fait… Mais que vois-je ? Ha ! Madame, mes yeux...  
+
+    D. IGNÈS*, en habit de cavalier*.
+Ne me découvrez point, Élise, dans ces lieux,  
+Et laissez respirer ma triste destinée,  
+Sous une feinte mort, que je me suis donnée.  
+C'est elle qui m'arrache à tous mes fiers Tyrans,  
+Car je puis sous ce nom comprendre mes parents;  
+J'ai par elle évité cet Hymen redoutable,  
+Pour qui j'aurais souffert une mort véritable ;  
+Et sous cet équipage, et le bruit de ma mort,  
+Il faut cacher à tous le secret de mon sort,  
+Pour me voir à l'abri de l'injuste poursuite,  
+Qui pourrait dans ces lieux persécuter ma fuite.  
+
+    ÉLISE
+Ma surprise en public eût trahi vos désirs,  
+Mais allez là -dedans étouffer des soupirs;  
+Et des charmants transports d'une pleine allégresse,  
+Saisir à votre aspect le cœur de la Princesse;  
+Vous la trouverez seule, elle-même a pris soin  
+Que votre abord fût libre, et n'eût aucun témoin;  
+Vois-je pas Dom Alvar ?  
+
+
+## SCÈNE V.
+
+    D. ALVAR.
+Le Prince me renvoie,  
+Vous prier que pour lui votre crédit s'emploie,  
+De ses jours, belle Élise, on doit n'espérer rien,  
+S'il n'obtient par vos soins un moment d'entretien,  
+Son âme a des transports… Mais le voici lui-même.  
+
+
+## SCÈNE VI.
+D. Garcie, Élise.
+
+
+    D. GARCIE
+Ah ! sois un peu sensible à ma disgrâce extrême,  
+Élise, et prends pitié d'un cœur infortuné,  
+Qu'aux plus vives douleurs tu vois abandonné.  
+
+    ÉLISE
+C'est avec d'autres yeux que ne fait la Princesse,  
+Seigneur, que je verrais le tourment qui vous presse ;  
+Mais nous avons du Ciel, ou du tempérament,  
+Que nous jugeons de tout chacun diversement.  
+Et puisqu'elle vous blâme, et que sa fantaisie,  
+Lui fait un monstre affreux de votre jalousie;  
+Je serais complaisante, et voudrais m'efforcer  
+De cacher à ses yeux, ce qui peut les blesser.  
+Un Amant suit sans doute une utile méthode,  
+S'il fait qu'à notre humeur la sienne s'accommode,  
+Et cent devoirs font moins que ces ajustements,  
+Qui font croire en deux cœurs les mêmes sentiments.  
+L'art de ces doux rapports fortement les assemble,  
+Et nous n'aimons rien tant, que ce qui nous ressemble.  
+
+    D. GARCIE
+Je le sais, mais hélas ! les destins inhumains,  
+S'opposent à l'effet de ces justes desseins;  
+Et malgré tous mes soins viennent toujours me tendre  
+Un piège, dont mon cœur ne saurait se défendre;  
+Ce n'est pas que l'ingrate aux yeux de mon Rival,  
+N'ait fait contre mes feux un aveu trop fatal;  
+Et témoigné pour lui des excès de tendresse,  
+Dont le cruel objet me reviendra sans cesse:  
+Mais comme trop d'ardeur, enfin, m'avait séduit,  
+Quand j'ai cru qu'en ces lieux elle l'ait introduit,  
+D'un trop cuisant ennui je sentirais l'atteinte,  
+À lui laisser sur moi quelque sujet de plainte.  
+Oui, je veux faire au moins, si je m'en vois quitté,  
+Que ce soit de son cœur pure infidélité ;  
+Et venant m'excuser d'un trait de promptitude,  
+Dérober tout prétexte à son ingratitude.  
+
+    ÉLISE
+Laissez un peu de temps à son ressentiment,  
+Et ne la voyez point, Seigneur, si promptement.  
+
+    D. GARCIE
+Ah ! si tu me chéris, obtiens que je la voie,  
+C'est une liberté qu'il faut qu'elle m'octroie ;  
+Je ne pars point d'ici qu'au moins son fier dédain...  
+
+    ÉLISE
+De grâce différez l'effet de ce dessein.  
+
+    D. GARCIE
+Non, ne m'oppose point une excuse frivole.  
+
+    ÉLISE
+Il faut que ce soit elle, avec une parole,  
+Qui trouve les moyens de le faire en aller,  
+Demeurez donc, Seigneur, je m'en vais lui parler.  
+
+    D. GARCIE
+Dis-lui, que j'ai d'abord banni de ma présence,  
+Celui dont les avis ont causé mon offense,  
+Que Dom Lope jamais…  
+
+
+## SCÈNE VII.
+D. Garcie, D. Alvar.
+
+
+    D. GARCIE
+Que vois-je! ô justes Cieux,  
+Faut-il que je m'assure au rapport de mes yeux ?  
+Ah ! sans doute ils me sont des témoins trop fidèles,  
+Voilà le comble affreux de mes peines mortelles.  
+Voici le coup fatal qui devait m'accabler,  
+Et quand par des soupçons je me sentais troubler,  
+C'était, c'était le Ciel, dont la sourde menace  
+Présageait à mon cœur cette horrible disgrâce.  
+
+    D. ALVAR.
+Qu'avez-vous vu, Seigneur, qui vous puisse émouvoir ?  
+
+    D. GARCIE
+J'ai vu ce que mon âme a peine à concevoir,  
+Et le renversement de toute la nature  
+Ne m'étonnerait pas comme cette aventure;  
+C'en est fait... le destin... je ne saurais parler.  
+
+    D. ALVAR.
+Seigneur, que votre esprit tâche à se rappeler.  
+
+    D. GARCIE
+J'ai vu... vengeance, ô Ciel !  
+
+    D. ALVAR.
+Quelle atteinte soudaine...  
+
+    D. GARCIE
+J'en mourrai, Dom Alvar, la chose est bien certaine.  
+
+    D. ALVAR.
+Mais, Seigneur, qui pourrait...  
+
+    D. GARCIE
+Ah ! tout est ruiné,  
+Je suis, je suis trahi, je suis assassiné;  
+Un homme, sans mourir te le puis-je bien dire,  
+Un homme dans les bras de l'infidèle Elvire?  
+
+    D. ALVAR.
+Ah ! Seigneur, la Princesse est vertueuse au point...  
+
+    D. GARCIE
+Ah ! sur ce que j'ai vu, ne me contestez point.  
+Dom Alvar, c'en est trop que soutenir sa gloire,  
+Lorsque mes yeux font foi d'une action si noire.  
+
+    D. ALVAR.
+Seigneur, nos passions nous font prendre souvent  
+Pour chose véritable un objet décevant;  
+Et de croire qu'une âme à la vertu nourrie,  
+Se puisse...  
+
+    D. GARCIE
+Dom Alvar, laissez-moi je vous prie,  
+Un Conseiller me choque en cette occasion,  
+Et je ne prends avis que de ma passion.  
+
+    D. ALVAR.
+Il ne faut rien répondre à cet esprit farouche.  
+
+    D. GARCIE
+Ah ! que sensiblement cette atteinte me touche;  
+Mais il faut voir qui c'est, et de ma main punir...  
+La voici, ma fureur, te peux-tu retenir ?  
+
+
+## SCÈNE VIII.
+D. Elvire, D. Garcie, Élise.
+
+
+    D. ELVIRE
+Hé bien que voulez-vous, et quel espoir, de grâce,  
+Après vos procédés peut flatter votre audace ?  
+Osez-vous à mes yeux encor vous présenter,  
+Et que me direz-vous que je doive écouter ?  
+
+    D. GARCIE
+Que toutes les horreurs, dont une âme est capable  
+À vos déloyautés n'ont rien de comparable,  
+Que le sort, les démons, et le Ciel en courroux,  
+N'ont jamais rien produit de si méchant que vous.  
+
+    D. ELVIRE
+Ah ! vraiment j'attendais l'excuse d'un outrage,  
+Mais à ce que je vois, c'est un autre langage.  
+
+    D. GARCIE
+Oui, oui, c'en est un autre, et vous n'attendiez pas  
+Que j'eusse découvert le traître dans vos bras,  
+Qu'un funeste hasard par la porte entr'ouverte,  
+Eût offert à mes yeux votre honte, et ma perte.  
+Est-ce l'heureux Amant sur ses pas revenu,  
+Ou quelque autre rival qui m'était inconnu ?  
+Ô Ciel! donne à mon cœur des forces suffisantes  
+Pour pouvoir supporter des douleurs si cuisantes,  
+Rougissez maintenant, vous en avez raison,  
+Et le masque est levé de votre trahison.  
+Voilà ce que marquaient les troubles de mon âme,  
+Ce n'était pas en vain que s'alarmait ma flamme ;  
+Par ces fréquents soupçons qu'on trouvait odieux,  
+Je cherchais le malheur qu'ont rencontré mes yeux.  
+Et malgré tous vos soins, et votre adresse à feindre,  
+Mon astre me disait ce que j'avais à craindre;  
+Mais ne présumez pas que sans être vengé,  
+Je souffre le dépit de me voir outragé.  
+Je sais que sur les vœux on n'a point de puissance,  
+Que l'amour veut partout naître sans dépendance,  
+Que jamais par la force on n'entra dans un cœur,  
+Et que toute âme est libre à nommer son vainqueur :  
+Aussi ne trouverais-je aucun sujet de plainte,  
+Si pour moi votre bouche avait parlé sans feinte,  
+Et son arrêt livrant mon espoir à la mort,  
+Mon cœur n'aurait eu droit de s'en prendre qu'au sort.  
+Mais d'un aveu trompeur voir ma flamme applaudie,  
+C'est une trahison, c'est une perfidie,  
+Qui ne saurait trouver de trop grands châtiments,  
+Et je puis tout permettre à mes ressentiments;  
+Non, non, n'espérez rien après un tel outrage,  
+Je ne suis plus à moi, je suis tout à la rage,  
+Trahi de tous côtés, mis dans un triste état,  
+Il faut que mon amour se venge avec éclat,  
+Qu'ici j'immole tout à ma fureur extrême,  
+Et que mon désespoir achève par moi-même.  
+
+    D. ELVIRE
+Assez paisiblement vous a-t-on écouté,  
+Et pourrai-je à mon tour parler en liberté ?  
+
+    D. GARCIE
+Et par quels beaux discours que l'artifice inspire...  
+
+    D. ELVIRE
+Si vous avez encor quelque chose à me dire,  
+Vous pouvez l'ajouter, je suis prête à l'ouïr,  
+Sinon faites au moins que je puisse jouir  
+De deux, ou trois moments de paisible audience.  
+
+    D. GARCIE
+Hé bien j'écoute, ô Ciel, quelle est ma patience !  
+
+    D. ELVIRE
+Je force ma colère, et veux sans nulle aigreur,  
+Répondre à ce discours si rempli de fureur.  
+
+    D. GARCIE
+C'est que vous voyez bien...  
+
+    D. ELVIRE
+Ah ! j'ai prêté l'oreille,  
+Autant qu'il vous a plu, rendez-moi la pareille;  
+J'admire mon destin, et jamais sous les Cieux,  
+Il ne fut rien, je crois, de si prodigieux,  
+Rien dont la nouveauté soit plus inconcevable,  
+Et rien que la raison rende moins supportable.  
+Je me vois un Amant, qui sans se rebuter  
+Applique tous ses soins à me persécuter,  
+Qui dans tout cet amour que sa bouche m'exprime,  
+Ne conserve pour moi nul sentiment d'estime,  
+Rien au fond de ce cœur qu'ont pu blesser mes yeux,  
+Qui fasse droit au sang que j'ai reçu des Cieux,  
+Et de mes actions défende l'innocence  
+Contre le moindre effort d'une fausse apparence.  
+Oui, je vois... Ah ! surtout ne m'interrompez point,  
+Je vois, dis-je, mon sort malheureux à ce point,  
+Qu'un cœur qui dit qu'il m'aime, et qui doit faire croire,  
+Que quand tout l'Univers douterait de ma gloire,  
+Il voudrait contre tous en être le garant,  
+Est celui qui s'en fait l'ennemi le plus grand.  
+On ne voit échapper aux soins que prend sa flamme  
+Aucune occasion de soupçonner mon âme;  
+Mais c'est peu des soupçons, il en fait des éclats,  
+Que sans être blessé l'amour ne souffre pas.  
+Loin d'agir en Amant, qui plus que la mort même,  
+Appréhende toujours d'offenser ce qu'il aime,  
+Qui se plaint doucement, et cherche avec respect  
+À pouvoir s'éclaircir de ce qu'il croit suspect,  
+À toute extrémité dans ses doutes il passe,  
+Et ce n'est que fureur, qu'injure, et que menace;  
+Cependant aujourd'hui je veux fermer les yeux  
+Sur tout ce qui devrait me le rendre odieux,  
+Et lui donner moyen par une bonté pure  
+De tirer son salut d'une nouvelle injure.  
+Ce grand emportement qu'il m'a fallu souffrir,  
+Part de ce qu'à vos yeux le hasard vient d'offrir,  
+J'aurais tort de vouloir démentir votre vue,  
+Et votre âme sans doute a dû paraître émue.  
+
+    D. GARCIE
+Et n'est-ce pas...  
+
+    D. ELVIRE
+1Encore un peu d'attention,  
+Et vous allez savoir ma résolution.  
+Il faut que de nous deux le destin s'accomplisse,  
+Vous êtes maintenant sur un grand précipice,  
+Et ce que votre cœur pourra délibérer,  
+Va vous y faire choir, ou bien vous en tirer.  
+Si malgré cet objet qui vous a pu surprendre,  
+Prince, vous me rendez ce que vous devez rendre,  
+Et ne demandez point d'autre preuve que moi  
+Pour condamner l'erreur du trouble où je vous vois,  
+Si de vos sentiments la prompte déférence,  
+Veut sur ma seule foi croire mon innocence,  
+Et de tous vos soupçons démentir le crédit,  
+Pour croire aveuglément ce que mon cœur vous dit;  
+Cette soumission, cette marque d'estime,  
+Du passé dans ce cœur efface tout le crime.  
+Je rétracte à l'instant, ce qu'un juste courroux  
+M'a fait dans la chaleur prononcer contre vous ;  
+Et si je puis un jour choisir ma destinée,  
+Sans choquer les devoirs du rang où je suis née,  
+Mon honneur satisfait par ce respect soudain  
+Promet à votre amour, et mes vœux, et ma main;  
+Mais prêtez bien l'oreille, à ce que je vais dire,  
+Si cet offre sur vous obtient si peu d'empire,  
+Que vous me refusiez de me faire entre nous  
+Un sacrifice entier de vos soupçons jaloux;  
+S'il ne vous suffit pas de toute l'assurance  
+Que vous peuvent donner mon cœur, et ma naissance,  
+Et que de votre esprit les ombrages puissants,  
+Forcent mon innocence à convaincre vos sens,  
+Et porter à vos yeux l'éclatant témoignage  
+D'une vertu sincère à qui l'on fait outrage:  
+Je suis prête à le faire, et vous serez content,  
+Mais il vous faut de moi détacher à l'instant,  
+À mes vœux pour jamais renoncer de vous-même,  
+Et j'atteste du Ciel la puissance suprême,  
+Que quoi que le destin puisse ordonner de nous,  
+Je choisirai plutôt d'être à la mort qu'à vous;  
+Voilà dans ces deux choix de quoi vous satisfaire,  
+Avisez maintenant celui qui peut vous plaire.  
+
+    D. GARCIE
+Juste Ciel ! jamais rien peut-il être inventé  
+Avec plus d'artifice, et de déloyauté ?  
+Tout ce que des Enfers la malice étudie,  
+A-t-il rien de si noir que cette perfidie,  
+Et peut-elle trouver dans toute sa rigueur  
+Un plus cruel moyen d'embarrasser un cœur ?  
+Ah ! que vous savez bien, ici contre moi-même,  
+Ingrate, vous servir de ma faiblesse extrême,  
+Et ménager pour vous l'effort prodigieux  
+De ce fatal amour né de vos traîtres yeux,  
+Parce qu'on est surprise, et qu'on manque d'excuse,  
+D'un offre de pardon on emprunte la ruse,  
+Votre feinte douceur forge un amusement,  
+Pour divertir l'effet de mon ressentiment;  
+Et par le nœud subtil du choix qu'elle embarrasse,  
+Veut soustraire un perfide au coup qui le menace,  
+Oui, vos dextérités veulent me détourner  
+D'un éclaircissement qui vous doit condamner ;  
+Et votre âme feignant une innocence entière  
+Ne s'offre à m'en donner une pleine lumière,  
+Qu'à des conditions, qu'après d'ardents souhaits,  
+Vous pensez que mon cœur n'acceptera jamais;  
+Mais vous serez trompée en me croyant surprendre,  
+Oui, oui, je prétends voir ce qui doit vous défendre,  
+Et quel fameux prodige accusant ma fureur,  
+Peut de ce que j'ai vu justifier l'horreur.  
+
+    D. ELVIRE
+Songez que par ce choix vous allez vous prescrire  
+De ne plus rien prétendre au cœur de Done Elvire.  
+
+    D. GARCIE
+Soit, je souscris à tout, et mes vœux aussi bien,  
+En l'état où je suis ne prétendent plus rien.  
+
+    D. ELVIRE
+Vous vous repentirez de l'éclat que vous faites.  
+
+    D. GARCIE
+Non, non, tous ces discours sont de vaines défaites,  
+Et c'est moi bien plutôt qui dois vous avertir,  
+Que quelque autre dans peu se pourra repentir;  
+Le traître, quel qu'il soit, n'aura pas l'avantage,  
+De dérober sa vie à l'effort de ma rage.  
+
+    D. ELVIRE
+Ah ! c'est trop en souffrir, et mon cœur irrité  
+Ne doit plus conserver une sotte bonté;  
+Abandonnons l'ingrat à son propre caprice,  
+Et puisqu'il veut périr, consentons qu'il périsse;  
+Élise... À cet éclat vous voulez me forcer,  
+Mais je vous apprendrai que c'est trop m'offenser.  
+Élise entre.
+
+Faites un peu sortir la personne chérie...  
+Allez, vous m'entendez, dites que je l'en prie.  
+
+    D. GARCIE
+Et je puis...  
+
+    D. ELVIRE
+Attendez vous serez satisfait.  
+
+    ÉLISE
+Voici de son jaloux sans doute un nouveau trait.  
+
+    D. ELVIRE
+Prenez garde qu'au moins cette noble colère,  
+Dans la même fierté, jusqu'au bout persévère ;  
+Et surtout désormais songez bien à quel prix  
+Vous avez voulu voir vos soupçons éclaircis.  
+Voici, grâces au Ciel, ce qui les a fait naître,  
+Ces soupçons obligeants que l'on me fait paraître,  
+Voyez bien ce visage, et si de Done Ignès,  
+Vos yeux au même instant n'y connaissent les traits.  
+
+
+## SCÈNE IX.
+Dom Garcie, Dona Elvire, Dona Ignès, Dom Alvar.
+
+
+    D. GARCIE
+Ô Ciel !  
+
+    D. ELVIRE
+Si la fureur dont votre âme est émue,  
+Vous trouble jusque-là l'usage de la vue,  
+Vous avez d'autres yeux à pouvoir consulter,  
+Qui ne vous laisseront aucun lieu de douter.  
+Sa mort est une adresse au besoin inventée  
+Pour fuir l'autorité qui l'a persécutée,  
+Et sous un tel habit elle cachait son sort  
+Pour mieux jouir du fruit de cette feinte mort.  
+Madame, pardonnez, s'il faut que je consente  
+À trahir vos secrets, et tromper votre attente;  
+Je me vois exposée à sa témérité,  
+Toutes mes actions n'ont plus de liberté,  
+Et mon honneur en butte aux soupçons qu'il peut prendre,  
+Est réduit à toute heure aux soins de se défendre.  
+Nos doux embrassements qu'a surpris ce jaloux,  
+De cent indignités m'ont fait souffrir les coups.  
+Oui, voilà le sujet d'une fureur si prompte,  
+Et l'assuré témoin qu'on produit de ma honte;  
+Jouissez à cette heure en Tyran absolu  
+De l'éclaircissement que vous avez voulu ;  
+Mais sachez que j'aurai sans cesse la mémoire  
+De l'outrage sanglant qu'on a fait à ma gloire,  
+Et si je puis jamais oublier mes serments,  
+Tombent sur moi du Ciel les plus grands châtiments,  
+Qu'un tonnerre éclatant mette ma tête en poudre,  
+Lorsqu'à souffrir vos feux je pourrai me résoudre.  
+Allons, Madame, allons, ôtons-nous de ces lieux,  
+Qu'infectent les regards d'un monstre furieux,  
+Fuyons-en promptement l'atteinte envenimée,  
+Évitons les effets de sa rage animée,  
+Et ne faisons des vœux dans nos justes desseins,  
+Que pour nous voir bientôt affranchir de ses mains.  
+
+    D. IGNÈS
+Seigneur, de vos soupçons l'injuste violence,  
+À la même vertu vient de faire une offense.  
+
+    D. GARCIE
+Quelles tristes clartés dissipent mon erreur,  
+Enveloppent mes sens d'une profonde horreur,  
+Et ne laissent plus voir à mon âme abattue,  
+Que l'effroyable objet d'un remords qui me tue !  
+Ah ! Dom Alvar, je vois que vous avez raison,  
+Mais l'Enfer dans mon cœur a soufflé son poison ;  
+Et par un trait fatal d'une rigueur extrême,  
+Mon plus grand ennemi se rencontre en moi-même.  
+Que me sert-il d'aimer du plus ardent amour,  
+Qu'une âme consumée ait jamais mis au jour;  
+Si par ses mouvements qui font toute ma peine,  
+Cet amour à tous coups se rend digne de haine ?  
+Il faut, il faut venger par mon juste trépas  
+L'outrage que j'ai fait à ses divins appas;  
+Aussi bien quel conseil aujourd'hui puis-je suivre ?  
+Ah ! j'ai perdu l'objet, pour qui j'aimais à vivre,  
+Si j'ai pu renoncer à l'espoir de ses vœux,  
+Renoncer à la vie, est beaucoup moins fâcheux.  
+
+    D. ALVAR.
+Seigneur.  
+
+    D. GARCIE
+Non, Dom Alvar, ma mort est nécessaire,  
+Il n'est soins, ni raisons qui m'en puissent distraire;  
+Mais il faut que mon sort en se précipitant  
+Rende à cette Princesse un service éclatant.  
+Et je veux me chercher dans cette illustre envie  
+Les moyens glorieux de sortir de la vie.  
+Faire par un grand coup qui signale ma foi,  
+Qu'en expirant pour elle, elle ait regret à moi,  
+Et qu'elle puisse dire en se voyant vengée,  
+C'est par son trop d'amour qu'il m'avait outragée.  
+Il faut que de ma main un illustre attentat  
+Porte une mort trop due au sein de Mauregat,  
+Que j'aille prévenir par une belle audace,  
+Le coup, dont la Castille avec bruit le menace,  
+Et j'aurai des douceurs dans mon instant fatal,  
+De ravir cette gloire, à l'espoir d'un Rival.  
+
+    D. ALVAR.
+Un service, Seigneur, de cette conséquence  
+Aurait bien le pouvoir d'effacer votre offense ;  
+Mais hasarder...  
+
+    D. GARCIE
+Allons par un juste devoir,  
+Faire à ce noble effort servir mon désespoir.  
+
+<Fin du quatrième Acte.>
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIÈRE.
+D. Alvar, Élise.
+
+
+    D. ALVAR.
+Oui, jamais il ne fut de si rude surprise,  
+Il venait de former cette haute entreprise,  
+À l'avide désir d'immoler Mauregat,  
+De son prompt désespoir il tournait tout l'éclat.  
+Ses soins précipités voulaient à son courage,  
+De cette juste mort assurer l'avantage,  
+Y chercher son pardon, et prévenir l'ennui,  
+Qu'un Rival partageât cette gloire avec lui.  
+Il sortait de ces murs, quand un bruit trop fidèle,  
+Est venu lui porter la fâcheuse nouvelle,  
+Que ce même Rival qu'il voulait prévenir,  
+A remporté l'honneur qu'il pensait obtenir;  
+L'a prévenu lui-même, en immolant le traître,  
+Et pousse dans ce jour, Dom Alphonse à paraître,  
+Qui d'un si prompt succès va goûter la douceur,  
+Et vient prendre en ces lieux la Princesse sa sœur;  
+Et ce qui n'a pas peine à gagner la croyance,  
+On entend publier que c'est la récompense,  
+Dont il prétend payer le service éclatant  
+Du bras qui lui fait jour, au trône qui l'attend.  
+
+    ÉLISE
+Oui, Done Elvire a su ces nouvelles semées,  
+Et du vieux Dom Louis, les trouve confirmées,  
+Qui vient de lui mander, que Léon dans ce jour,  
+De Dom Alphonse, et d'elle, attend l'heureux retour,  
+Et que c'est là qu'on doit, par un revers prospère,  
+Lui voir prendre un époux de la main de ce Frère;  
+Dans ce peu qu'il en dit, il donne assez à voir,  
+Que Dom Sylve est l'époux qu'elle doit recevoir.  
+
+    D. ALVAR.
+Ce coup au cœur du Prince...  
+
+    ÉLISE
+Est sans doute bien rude,  
+Et je le trouve à plaindre en son inquiétude,  
+Son intérêt pourtant, si j'en ai bien jugé,  
+Est encor cher au cœur qu'il a tant outragé ;  
+Et je n'ai point connu, qu'à ce succès qu'on vante,  
+La Princesse ait fait voir une âme fort contente,  
+De ce frère qui vient, et de la lettre aussi,  
+Mais…  
+
+
+## SCÈNE II.
+D. Elvire, D. Ignès.
+
+
+    D. ELVIRE
+Faites Dom Alvar venir le Prince ici,  
+Souffrez que devant vous je lui parle, Madame  
+Sur cet événement, dont on surprend mon âme.  
+Et ne m'accusez point d'un trop prompt changement,  
+Si je perds contre lui tout mon ressentiment.  
+Sa disgrâce imprévue a pris droit de l'éteindre,  
+Sans lui laisser ma haine, il est assez à plaindre,  
+Et le Ciel qui l'expose à ce trait de rigueur,  
+N'a que trop bien servi les serments de mon cœur,  
+Un éclatant arrêt de ma gloire outragée,  
+À jamais n'être à lui me tenait engagée ;  
+Mais quand par les destins il est exécuté,  
+J'y vois pour son amour trop de sévérité ;  
+Et le triste succès de tout ce qu'il m'adresse  
+M'efface son offense, et lui rend ma tendresse.  
+Oui, mon cœur trop vengé par de si rudes coups,  
+Laisse à leur cruauté désarmer son courroux,  
+Et cherche maintenant par un soin pitoyable  
+À consoler le sort d'un Amant misérable ;  
+Et je crois que sa flamme a bien pu mériter  
+Cette compassion que je lui veux prêter.  
+
+    D. IGNÈS
+Madame, on aurait tort de trouver à redire  
+Aux tendres sentiments qu'on voit qu'il vous inspire,  
+Ce qu'il a fait pour vous... Il vient, et sa pâleur,  
+De ce coup surprenant marque assez la douleur.  
+
+
+## SCÈNE III.
+D. Garcie, D. Elvire.
+
+
+    D. GARCIE
+Madame, avec quel front faut-il que je m'avance,  
+Quand je viens vous offrir l'odieuse présence...  
+
+    D. ELVIRE
+Prince, ne parlons plus de mon ressentiment,  
+Votre sort dans mon âme a fait du changement,  
+Et par le triste état où sa rigueur vous jette,  
+Ma colère est éteinte, et notre paix est faite.  
+Oui, bien que votre amour ait mérité les coups,  
+Que fait sur lui du Ciel éclater le courroux;  
+Bien que ses noirs soupçons aient offensé ma gloire,  
+Par des indignités qu'on aurait peine à croire;  
+J'avouerai toutefois que je plains son malheur,  
+Jusqu'à voir nos succès avec quelque douleur;  
+Que je hais les faveurs de ce fameux service,  
+Lorsqu'on veut de mon cœur lui faire un sacrifice,  
+Et voudrais bien pouvoir racheter les moments,  
+Où le sort contre vous n'armait que mes serments,  
+Mais, enfin, vous savez comme nos destinées,  
+Aux intérêts publics sont toujours enchaînées,  
+Et que l'ordre des Cieux pour disposer de moi,  
+Dans mon Frère qui vient, me va montrer mon Roi.  
+Cédez comme moi, Prince, à cette violence,  
+Où la grandeur soumet celles de ma naissance ;  
+Et si de votre amour les déplaisirs sont grands,  
+Qu'il se fasse un secours de la part que j'y prends  
+Et ne se serve point contre un coup qui l'étonne  
+Du pouvoir qu'en ces lieux votre valeur vous donne;  
+Ce vous serait sans doute un indigne transport  
+De vouloir dans vos maux lutter contre le sort.  
+Et lorsque c'est en vain qu'on s'oppose à sa rage,  
+La soumission prompte est grandeur de courage,  
+Ne résistez donc point à ses coups éclatants,  
+Ouvrez les murs d'Astorgue au Frère que j'attends,  
+Laissez-moi rendre aux droits qu'il peut sur moi prétendre,  
+Ce que mon triste cœur a résolu de rendre ;  
+Et ce fatal hommage, où mes vœux sont forcés  
+Peut-être n'ira pas si loin que vous pensez.  
+
+    D. GARCIE
+C'est faire voir, Madame, une bonté trop rare,  
+Que vouloir adoucir le coup qu'on me prépare,  
+Sur moi sans de tels soins vous pouvez laisser choir  
+Le foudre rigoureux de tout votre devoir.  
+En l'état où je suis, je n'ai rien à vous dire,  
+J'ai mérité du sort tout ce qu'il a de pire,  
+Et je sais, quelques maux qu'il me faille endurer,  
+Que je me suis ôté le droit d'en murmurer.  
+Par où pourrais-je, hélas ! dans ma vaste disgrâce,  
+Vers vous de quelque plainte autoriser l'audace ?  
+Mon amour s'est rendu mille fois odieux,  
+Il n'a fait qu'outrager vos attraits glorieux:  
+Et lorsque par un juste, et fameux sacrifice,  
+Mon bras à votre sang cherche à rendre un service,  
+Mon astre m'abandonne au déplaisir fatal,  
+De me voir prévenu par le bras d'un Rival.  
+Madame, après cela je n'ai rien à prétendre,  
+Je suis digne du coup que l'on me fait attendre,  
+Et je le vois venir, sans oser contre lui,  
+Tenter de votre cœur le favorable appui.  
+Ce qui peut me rester dans mon malheur extrême,  
+C'est de chercher alors mon remède en moi-même,  
+Et faire que ma mort propice à mes désirs,  
+Affranchisse mon cœur de tous ses déplaisirs.  
+Oui, bientôt dans ces lieux, Dom Alphonse doit être,  
+Et déjà mon Rival commence de paraître.  
+De Léon vers ces murs, il semble avoir volé,  
+Pour recevoir le prix du Tyran immolé;  
+Ne craignez point du tout qu'aucune résistance  
+Fasse valoir ici ce que j'ai de puissance,  
+Il n'est effort humain que pour vous conserver,  
+Si vous y consentiez, je ne pusse braver ;  
+Mais ce n'est pas à moi, dont on hait la mémoire,  
+À pouvoir espérer cet aveu plein de gloire,  
+Et je ne voudrais pas par des efforts trop vains  
+Jeter le moindre obstacle à vos justes desseins.  
+Non, je ne contrains point vos sentiments, Madame,  
+Je vais en liberté laisser toute votre âme,  
+Ouvrir les murs d'Astorgue à cet heureux vainqueur,  
+Et subir de mon sort la dernière rigueur.  
+
+
+## SCÈNE IV.
+D. Elvire, D. ignès.
+
+
+    D. ELVIRE
+Madame, au désespoir où son destin l'expose,  
+De tous mes déplaisirs n'imputez pas la cause,  
+Vous me rendrez justice, en croyant que mon cœur  
+Fait de vos intérêts sa plus vive douleur,  
+Que bien plus que l'amour l'amitié m'est sensible,  
+Et que si je me plains d'une disgrâce horrible,  
+C'est de voir que du Ciel le funeste courroux  
+Ait pris chez moi les traits qu'il lance contre vous,  
+Et rendu mes regards coupables d'une flamme,  
+Qui traite indignement les bontés de votre âme.  
+
+    D. IGNÈS
+C'est un événement, dont sans doute vos yeux  
+N'ont point pour moi, Madame, à quereller les Cieux;  
+Si les faibles attraits qu'étale mon visage,  
+M'exposaient au destin de souffrir un volage,  
+Le Ciel ne pouvait mieux m'adoucir de tels coups,  
+Quand pour m'ôter ce cœur, il s'est servi de vous,  
+Et mon front ne doit point rougir d'une inconstance  
+Qui de vos traits aux miens marque la différence.  
+Si pour ce changement je pousse des soupirs,  
+Ils viennent de le voir fatal à vos désirs ;  
+Et dans cette douleur que l'amitié m'excite,  
+Je m'accuse pour vous de mon peu de mérite,  
+Qui n'a pu retenir un cœur, dont les tributs  
+Causent un si grand trouble à vos vœux combattus.  
+
+    D. ELVIRE
+Accusez-vous plutôt de l'injuste silence,  
+Qui m'a de vos deux cœurs caché l'intelligence,  
+Ce secret plus tôt su, peut-être à toutes deux  
+Nous aurait épargné des troubles si fâcheux ;  
+Et mes justes froideurs des désirs d'un volage,  
+Au point de leur naissance, ayant banni l'hommage,  
+Eussent pu renvoyer…  
+
+    D. IGNÈS
+Madame, le voici.  
+
+    D. ELVIRE
+Sans rencontrer ses yeux vous pouvez être ici,  
+Ne sortez point, Madame, et dans un tel martyre,  
+Veuillez être témoin de ce que je vais dire.  
+
+    D. IGNÈS
+Madame, j'y consens, quoique je sache bien,  
+Qu'on fuirait en ma place un pareil entretien.  
+
+    D. ELVIRE
+Son succès, si le Ciel seconde ma pensée,  
+Madame, n'aura rien, dont vous soyez blessée.  
+
+
+## SCÈNE V.
+D. Elvire, D. Sylve, D. Ignès.
+
+
+    D. ELVIRE
+Avant que vous parliez je demande instamment,  
+Que vous daigniez, Seigneur, m'écouter un moment,  
+Déjà la renommée a jusqu'à nos oreilles  
+Porté de votre bras les soudaines merveilles ;  
+Et j'admire avec tous, comme en si peu de temps,  
+Il donne à nos destins ces succès éclatants.  
+Je sais bien qu'un bienfait de cette conséquence  
+Ne saurait demander trop de reconnaissance,  
+Et qu'on doit toute chose à l'exploit immortel  
+Qui replace mon Frère au Trône paternel.  
+Mais quoi que de son cœur vous offrent les hommages,  
+Usez en généreux de tous vos avantages,  
+Et ne permettez pas que ce coup glorieux  
+Jette sur moi, Seigneur, un joug impérieux.  
+Que votre amour qui sait quel intérêt m'anime,  
+S'obstine à triompher d'un refus légitime,  
+Et veuille que ce Frère, où l'on va m'exposer  
+Commence d'être roi pour me tyranniser.  
+Léon a d'autres prix, dont en cette occurrence,  
+Il peut mieux honorer votre haute vaillance ;  
+Et c'est à vos vertus faire un présent trop bas,  
+Que vous donner un cœur qui ne se donne pas.  
+Peut-on être jamais satisfait en soi-même,  
+Lorsque par la contrainte on obtient ce qu'on aime ?  
+C'est un triste avantage, et l'Amant généreux  
+À ces conditions refuse d'être heureux ;  
+Il ne veut rien devoir à cette violence  
+Qu'exercent sur nos cœurs les droits de la naissance,  
+Et pour l'objet qu'il aime est toujours trop zélé,  
+Pour souffrir qu'en victime il lui soit immolé;  
+Ce n'est pas que ce cœur au mérite d'un autre  
+Prétende réserver ce qu'il refuse au vôtre :  
+Non, Seigneur, j'en réponds, et vous donne ma foi  
+Que personne jamais n'aura pouvoir sur moi;  
+Qu'une sainte retraite à toute autre poursuite...  
+
+    D. SYLVE
+J'ai de votre discours assez souffert la suite,  
+Madame, et par deux mots je vous l'eusse épargné,  
+Si votre fausse alarme eût sur vous moins gagné.  
+Je sais qu'un bruit commun qui partout se fait croire,  
+De la mort du Tyran me veut donner la gloire ;  
+Mais le seul Peuple, enfin, comme on nous fait savoir,  
+Laissant par Dom Louis échauffer son devoir,  
+A remporté l'honneur de cet acte héroïque,  
+Dont mon nom est chargé par la rumeur publique.  
+Et ce qui d'un tel bruit a fourni le sujet,  
+C'est que pour appuyer son illustre projet,  
+Dom Louis fit semer par une feinte utile,  
+Que secondé des miens j'avais saisi la Ville,  
+Et par cette nouvelle il a poussé les bras,  
+Qui d'un usurpateur ont hâté le trépas.  
+Par son zèle prudent il a su tout conduire,  
+Et c'est par un des siens qu'il vient de m'en instruire;  
+Mais dans le même instant un secret m'est appris  
+Qui va vous étonner autant qu'il m'a surpris.  
+Vous attendez un frère, et Léon son vrai Maître,  
+À vos yeux maintenant le Ciel le fait paraître.  
+Oui, je suis Dom Alphonse, et mon sort conservé,  
+Et sous le nom du sang de Castille élevé,  
+Est un fameux effet de l'amitié sincère,  
+Qui fut entre son Prince, et le Roi notre Père.  
+Dom Louis du secret a toutes les clartés,  
+Et doit aux yeux de tous prouver ces vérités.  
+D'autres soins maintenant occupent ma pensée,  
+Non, qu'à votre sujet elle soit traversée,  
+Que ma flamme querelle un tel événement,  
+Et qu'en mon cœur le Frère importune l'Amant.  
+Mes feux par ce secret ont reçu sans murmure,  
+Le changement qu'en eux a prescrit la nature ;  
+Et le sang qui nous joint m'a si bien détaché  
+De l'amour, dont pour vous mon cœur était touché,  
+Qu'il ne respire plus pour faveur souveraine  
+Que les chères douceurs de sa première chaîne,  
+Et le moyen de rendre à l'adorable Ignès,  
+Ce que de ses bontés a mérité l'excès;  
+Mais son sort incertain rend le mien misérable,  
+Et si ce qu'on en dit se trouvait véritable,  
+En vain Léon m'appelle, et le Trône m'attend,  
+La Couronne n'a rien à me rendre content;  
+Et je n'en veux l'éclat que pour goûter la joie,  
+D'en Couronner l'objet où le Ciel me renvoie,  
+Et pouvoir réparer par ces justes tributs  
+L'outrage que j'ai fait à ses rares vertus.  
+Madame, c'est de vous que j'ai raison d'attendre,  
+Ce que de son destin mon âme peut apprendre,  
+Instruisez-m'en de grâce, et par votre discours,  
+Hâtez mon désespoir, ou le bien de mes jours.  
+
+    D. ELVIRE
+Ne vous étonnez pas si je tarde à répondre,  
+Seigneur, ces nouveautés ont droit de me confondre,  
+Je n'entreprendrai point de dire à votre amour,  
+Si Done Ignès est morte, ou respire le jour ;  
+Mais par Ce Cavalier, l'un de ses plus fidèles,  
+Vous en pourrez sans doute apprendre des nouvelles?  
+
+    D. SYLVE *ou* D. ALPHONSE
+Ah ! Madame, il m'est doux en ces perplexités  
+De voir ici briller vos célestes beautés,  
+Mais vous avec quels yeux verrez-vous un volage,  
+Dont le crime...  
+
+    D. IGNÈS
+1Ah! gardez de me faire un outrage,  
+Et de vous hasarder à dire que vers moi,  
+Un cœur, dont je fais cas ait pu manquer de foi ;  
+J'en refuse l'idée, et l'excuse me blesse,  
+Rien n'a pu m'offenser auprès de la Princesse,  
+Et tout ce que d'ardeur elle vous a causé,  
+Par un si haut mérite est assez excusé.  
+Cette flamme vers moi ne vous rend point coupable,  
+Et dans le noble orgueil, dont je me sens capable,  
+Sachez si vous l'étiez, que ce serait en vain,  
+Que vous présumeriez de fléchir mon dédain,  
+Et qu'il n'est repentir, ni suprême puissance  
+Qui gagnât sur mon cœur d'oublier cette offense.  
+
+    D. ELVIRE
+Mon Frère, d'un tel nom souffrez-moi la douceur,  
+De quel ravissement comblez-vous une sœur;  
+Que j'aime votre choix, et bénis l'aventure,  
+Qui vous fait couronner une amitié si pure,  
+Et de deux nobles cœurs que j'aime tendrement…  
+
+
+## SCÈNE VI.
+D. Garcie, D. Sylve, D. Ignès.
+
+
+    D. GARCIE
+De grâce cachez-moi votre contentement,  
+Madame, et me laissez mourir dans la croyance,  
+Que le devoir vous fait un peu de violence.  
+Je sais que de vos vœux vous pouvez disposer,  
+Et mon dessein n'est pas de leur rien opposer,  
+Vous le voyez assez, et quelle obéissance  
+De vos commandements m'arrache la puissance;  
+Mais je vous avouerai que cette gayeté  
+Surprend au dépourvu toute ma fermeté;  
+Et qu'un pareil objet dans mon âme fait naître  
+Un transport, dont j'ai peur que je ne sois pas maître,  
+Et je me punirais, s'il m'avait pu tirer  
+De ce respect soumis où je veux demeurer.  
+Oui, vos commandements ont prescrit à mon âme,  
+De souffrir sans éclat le malheur de ma flamme.  
+Cet ordre sur mon cœur doit être tout-puissant,  
+Et je prétends mourir en vous obéissant;  
+Mais encore une fois, la joie où je vous treuve,  
+M'expose à la rigueur d'une trop rude épreuve,  
+Et l'âme la plus sage en ces occasions  
+Répond malaisément de ses émotions.  
+Madame, épargnez-moi cette cruelle atteinte,  
+Donnez-moi par pitié deux moments de contrainte,  
+Et quoi que d'un Rival vous inspirent les soins,  
+N'en rendez pas mes yeux les malheureux témoins,  
+C'est la moindre faveur qu'on peut je crois prétendre,  
+Lorsque dans ma disgrâce un Amant peut descendre;  
+Je ne l'exige pas, Madame, pour longtemps,  
+Et bientôt mon départ rendra vos vœux contents.  
+Je vais, où de ses feux mon âme consumée,  
+N'apprendra votre Hymen que par la renommée,  
+Ce n'est pas un spectacle où je doive courir,  
+Madame, sans le voir j'en saurai bien mourir.  
+
+    D. IGNÈS
+Seigneur, permettez-moi de blâmer votre plainte,  
+De vos maux la Princesse a su paraître atteinte ;  
+Et cette joie encor, de quoi vous murmurez  
+Ne lui vient que des biens qui vous sont préparés.  
+Elle goûte un succès à vos désirs prospère,  
+Et dans votre Rival elle trouve son Frère;  
+C'est Dom Alphonse, enfin, dont on a tant parlé,  
+Et ce fameux secret vient d'être dévoilé.  
+
+    D. SYLVE* ou *D. ALPHONSE
+Mon cœur, grâces au Ciel, après un long martyre,  
+Seigneur, sans vous rien prendre a tout ce qu'il désire,  
+Et goûte d'autant mieux son bonheur en ce jour,  
+Qu'il se voit en état de servir votre amour.  
+
+    D. GARCIE
+Hélas ! cette bonté, Seigneur, doit me confondre,  
+À mes plus chers désirs elle daigne répondre,  
+Le coup que je craignais le Ciel l'a détourné,  
+Et tout autre que moi se verrait fortuné ;  
+Mais ces douces clartés d'un secret favorable,  
+Vers l'objet adoré me découvrent coupable,  
+Et tombé de nouveau dans ces traîtres soupçons,  
+Sur quoi l'on m'a tant fait d'inutiles leçons;  
+Et par qui mon ardeur si souvent odieuse,  
+Doit perdre tout espoir d'être jamais heureuse ?  
+Oui, l'on doit me haïr avec trop de raison,  
+Moi-même je me trouve indigne de pardon,  
+Et quelque heureux succès que le sort me présente,  
+La mort, la seule mort, est toute mon attente.  
+
+    D. ELVIRE
+Non, non, de ce transport le soumis mouvement,  
+Prince, jette en mon âme un plus doux sentiment,  
+Par lui de mes serments je me sens détachée,  
+Vos plaintes, vos respects, vos douleurs m'ont touchée,  
+J'y vois partout briller un excès d'amitié,  
+Et votre maladie est digne de pitié.  
+Je vois, Prince, je vois, qu'on doit quelque indulgence,  
+Aux défauts, où du Ciel fait pencher l'influence,  
+Et pour tout dire, enfin, jaloux, ou non jaloux;  
+Mon roi sans me gêner peut me donner à vous.  
+
+    D. GARCIE
+Ciel! dans l'excès des biens que cet aveu m'octroie,  
+Rends capable mon cœur de supporter sa joie.  
+
+    D. SYLVE* ou *D ALPHONSE
+Je veux que cet Hymen après nos vains débats,  
+Seigneur, joigne à jamais nos cœurs, et nos États;  
+Mais ici le temps presse, et Léon nous appelle,  
+Allons dans nos plaisirs satisfaire son zèle,  
+Et par notre présence, et nos soins différents,  
+Donner le dernier coup au parti des Tyrans.  

@@ -1,0 +1,5097 @@
+---
+identifier: ouville_jodelet  
+creator: Ouville, Antoine d'  
+date: 1646  
+title: Jodelet astrologue. Comédie  
+---
+
+
+Jodelet astrologue
+
+Comédie
+
+DU SIEUR D'OUVILLE.
+
+A PARIS, Chez CARDIN BESONGNE, au Palais, au haut de la montée de la saincte Chapelle, aux Roses Vermeilles. M. DC. XXXXVI. *AVEC PRIVILEGE DU ROY.*
+Édition critique établie par Pauline Barraud dans le cadre d'un mémoire de
+      maîtrise sous la direction de Georges Forestier (2006-2007).
+
+
+# Introduction
+
+La comédie de d'Ouville, *Jodelet astrologue*, a été vraisemblablement jouée pour la première fois sur les planches du théâtre du Marais en 1645. D'Ouville a introduit la comédie à l'espagnole en France en adaptant les pièces de plusieurs dramaturges espagnols, et avec *Jodelet astrologue*, pièce adaptée de la comédie de Calderón, *El astròlogo fingido*, il signe sa cinquième adaptation. Le rôle principal, qui porte le comique de la pièce, est revenu au célèbre comédien Jodelet, dont la notoriété était telle que l'auteur a choisi de donner son nom au titre de sa pièce.
+
+Il ne s'agit pas, à travers l'étude de cette pièce, de faire sortir de l'ombre une œuvre jugée injustement oubliée, mais bien de comprendre quel était le contexte littéraire dans lequel sont nées les pièces qui ont atteint la postérité et dont nous admirons aujourd'hui encore la qualité. Si le XVII*e* siècle nous évoque immédiatement les œuvres de Corneille, Racine et Molière, il serait faux de penser que ce siècle n'a connu que des œuvres de cette importance, qu'elles ont jailli sans être inspirées, sans avoir été influencées par les créations dramatiques qui les ont précédées.
+
+Ainsi, si le nom de d'Ouville n'évoque rien à nos contemporains, si son œuvre n'a pas traversé les siècles, il n'en reste pas moins que l'étude de ses pièces, de leur réception par le public du XVII*e* siècle permet de mieux saisir une période importante, charnière dans l'histoire de la littérature française et particulièrement cruciale pour le genre comique.
+
+
+# Antoine Le Métel d'Ouville (1587/1590-1656/1657)
+
+
+## Sa vie
+
+Il est difficile de dresser la biographie de d'Ouville de façon exacte. En effet, les sources sont minces et se contredisent parfois. Il est cependant possible de dégager certaines grandes lignes de sa vie.
+
+D'Ouville naquit entre 1587 et 1590 à Caen ou à Rouen selon les recherches effectuées par Frederic de Armas [1]. Il était le fils de Jérémie Le Métel, avocat au Parlement de Rouen, et de Jeanne de Lion. Son frère cadet était l'abbé François Le Métel de Boisrobert, célèbre écrivain de son époque. En 1621, il devint hydrographe, ingénieur et géographe et ce, au service du roi, si l'on en croit James Wilson Coke [2]. Cette profession lui donna l'occasion de beaucoup voyager. Il fut attaché en Espagne durant sept années auprès de Louis Foucault, Comte du Dognon. Les différentes sources qui retracent la vie et la carrière de d'Ouville attestent toutes ce voyage de sept ans en Espagne mais divergent sur les dates de ce séjour. James Wilson Coke le situe entre 1630 et 1637, ce qui expliquerait pourquoi d'Ouville n'a commencé à adapter des pièces espagnoles en français qu'à partir de 1638, date qui correspondrait alors à son retour en France. D'Ouville aurait également vécu quatorze ans à Rome comme le mentionne l'épître dédicatoire de ses *Nouvelles exemplaires et amoureuses*, publiées en 1655, mais il est difficile de situer les dates de ce long séjour.
+
+D'Ouville était surtout reconnu à son époque pour ses facilités en langues étrangères. Il passait pour « l'homme de toute la France, qui parloit le mieux Espagnol, & qui connoissoit le plus parfaitement toutes les graces de cette Langue » [3]. Passionné par les langues, il les maîtrisait parfaitement et, à l'occasion de ses longs voyages, d'Ouville s'intéressa beaucoup aux cultures espagnole et italienne. Il adapta des pièces de théâtre de sources espagnole et italienne, traduisit de nombreux contes et joua un rôle important dans la diffusion de la littérature étrangère en France et plus particulièrement dans l'introduction du théâtre à l'espagnole.
+
+En 1654, il se retira au Mans chez le fils de sa sœur Charlotte, chanoine de la cathédrale du Mans. Il semble qu'il ait fini sa vie dans la plus grande pauvreté. Selon Chardon, en effet, le Comte du Dognon ne le récompensa pas de ses sept années de service et d'Ouville dut faire appel à son frère. Une lettre de Boisrobert à l'abbé Fouquet confirme cette théorie :
+
+Le pauvre Douville est mon frère.....  
+Il porte le titre d'Hydrographe,  
+D'Ingénieur, de Géographe ;  
+Mais, avec ces trois qualités,  
+Il est gueux de tous les côtés.  
+Bref, il n'a plus d'autre ressource,  
+Que celle qu'il trouve en ma bourse. [4]  
+
+D'Ouville mourrut peu après au Mans comme l'indique Tallemant des Réaux dans ses *Historiettes* [5]. Son décès est attesté pour la première fois en 1657 dans la *Suite des Mémoires de Michel de Marolles* [6] dans laquelle l'auteur évoque la personne de « feu seigneur d'Ouville ».
+
+
+## Son œuvre
+
+C'est ainsi en marge de sa carrière de scientifique que d'Ouville se consacra à l'écriture, c'est-à-dire en tant qu'amateur, ce qui n'était pas rare au XVII*e* siècle. Ses différents séjours à l'étranger furent pour lui l'occasion de s'imprégner des cultures voisines de la France et plus particulièrement de leurs pratiques théâtrales. C'est ainsi qu'il introduisit la comédie à l'espagnole, genre inédit en France qui connaissait depuis quelques temps un véritable succès de l'autre côté des Pyrénées. Rotrou avait déjà puisé dans les comédies espagnoles afin de trouver des sujets pour ses tragi-comédies. D'Ouville, lui, traduisit et adapta ces comédies, faisant ainsi connaître les grands auteurs espagnols et leurs pièces qui contribuèrent en Espagne à faire du XVII*e* siècle le Siècle d'Or de l'art théâtral.
+
+D'Ouville écrivit tout d'abord une tragi-comédie, *Les Trahisons d'Arbiran*, (1637), dont la source nous est inconnue. D'Ouville produisit ensuite beaucoup de pièces en quelques années et cela semble confirmer ce que dit Tallemant de Réaux au sujet de d'Ouville : «  Cet homme faisoit et escrivoit en beaux caractères une comedie en treize jours » [7]. Il adapta en effet tous les plus grands auteurs espagnols, à commencer par des pièces de Calderón. D'Ouville créa *L'Esprit follet* en 1638 (pièce publiée en 1642) et *Les Fausses Véritez* en 1641 (1643). Ces deux premières pièces et le succès qu'elles remportèrent à Paris lancèrent en France la mode de la comédie à l'espagnole [8]. D'Ouville adapta ensuite Lope de Vega avec *L'Absent chez soy* en 1642 (1643) et Montalvan avec *La Dame suivante* (1643). Il revint enfin à Calderón en 1645 pour adapter son *astròlogo fingido* et créer *Jodelet astrologue* (1646). En 1646, d'Ouville écrivit *La Coiffeuse à la mode* (1647), comédie de mœurs inspirée de la tradition espagnole. En 1946 encore, d'Ouville mit à profit sa connaissance de la langue et de la culture italiennes et adapta *Les Morts vivants* (1647) du poète Oddi et *Aimer sans savoir qui* de Piccolomini (1647). La dernière pièce de d'Ouville, une tragi-comédie, parut en 1650 sous le titre, *Les Soupçons sur les apparences*, qui rappelle une nouvelle fois la tradition baroque espagnole.
+
+D'Ouville était également connu pour ses *Contes* publiés en 1641, inspirés de ceux de l'italien Boccace. A la fin de sa vie, d'Ouville traduisit six « novelas », nouvelles espagnoles de Maria de Zayas y Sotomayor, qui furent publiées en 1656 sous le titre : *Nouvelles amoureuses et exemplaires par cette merveille de son siècle doña Maria de Zayas y Sotomayor, traduites de l'Espagnol par Antoine de Methel, escuier, sieur d'Ouville, ingénieur et géographe du roy*.
+
+
+## Panorama critique de l'œuvre de d'Ouville
+
+Les critiques à l'égard de l'écriture de d'Ouville furent sévères et il semble qu'il soit toujours resté dans l'ombre de la notoriété de son frère qui l'a protégé tout au long de sa carrière, faisant jouer ses relations pour lui venir en aide. Certains même prétendirent que les oeuvres paraissant sous le nom d'Antoine Le Métel d'Ouville étaient en réalité écrites par son frère. Cela semble peu crédible étant donné que les langues et la traduction tiennent une place capitale dans l'œuvre de d'Ouville et que son frère ne maîtrisait pas aussi bien l'espagnol et l'italien.
+
+Les critiques à l'encontre d'Ouville visaient principalement son style. Les frères Parfaict, dans leur *Histoire du théâtre français*, écrivirent au XVIII*e* siècle que « d'Ouville versifioit encore plus mal que son frère l'abbé » mais reconnurent qu'il entendait « mieux la marche du théâtre » et qu'il répandait « plus de comique dans son dialogue ». Si, dans *La Fouyne de Séville* [9], la bonne connaissance qu'a d'Ouville de l'espagnol est vantée, il est ensuite écrit :
+
+
+Mais comme il n'escrivoit peut-estre pas assez purement en la notre le français, un des plus délicats esprits du siècle, qui a trouvé après sa mort cette traduction parmi ses papiers, en a corrigé le stile, et n'en voulant pas priver le public, il a tasché de luy rendre toutes les graces qu'il auroit pû dérober à son Autheur.
+
+Ainsi, tous lui accordaient un certain talent pour divertir le public mais attaquaient toujours le style de ses vers. Les critiques ne furent pas plus indulgents par la suite et Nicolas Toussaint des Essarts écrivit au début du XIX*e* siècle au sujet de d'Ouville : « On a de lui diverses Comédies imprimées depuis 1638, jusqu'en 1650 : elles sont au-dessous du médiocre » [10].
+
+D'Ouville écrivait en amateur, l'écriture était pour lui un loisir et sa seule prétention fut celle de souhaiter divertir le public. Dans* L'Esprit follet*, à l'acte I scène 6, il fait dire par Licidas qu'il est conscient des défauts de son écriture et que son intérêt se porte surtout sur les péripéties que vivent les personnages de ses pièces :
+
+Pour entendre le fait il faut que je vous die  
+Que j'ai voulu tanstot ouir la comedie  
+Pour voir un beau sujet dont on a tant parlé  
+Dont l'excellent intrigue est tres bien démeslé  
+Les fourbes d'ARBIRAN, c'est ainsi qu'on l'appelle,  
+Cette pièce en effet n'est pas beaucoup nouvelle,  
+Les vers n'en sont pas forts, je ne suis pas flatteur  
+Quoy que je sois pourtant grand amy de l'autheur,  
+Mais dans l'oeconomie, il faut que je confesse,  
+Qu'il conduit un sujet avecque tant d'adresse,  
+Le remplit d'incidents si beaux et si divers,  
+Qu'on escuse aisément la foiblesse des vers.  
+
+Afin de comprendre quelle fut l'importance de cet auteur et de son œuvre, il s'agit de saisir les enjeux littéraires et plus particulièrement dramaturgiques de l'époque. C'est uniquement en situant d'Ouville dans son contexte littéraire que l'on peut apprécier son œuvre à sa juste valeur.
+
+
+# Le contexte littéraire
+
+
+## La place de la comédie en France
+
+La comédie en France dans la première moitié du XVII*e* siècle revient de loin. En effet, ce genre a sommeillé durant plusieurs siècles avant de renaître sous la plume des auteurs humanistes au XVI*e* siècle. Cette absence de la comédie sur la scène française durant si longtemps s'explique par un discrédit moral provenant d'une très vieille tradition critique et religieuse. *La Poétique* d'Aristote, prise pour norme dès l'âge antique, ne traite pas du genre comique. Ce qui pourrait s'expliquer par une perte de manuscrits est interprété comme une condamnation du genre. Dès lors, pèse sur la comédie un interdit moral qui empêche le genre de se développer et dont les seules formes restent longtemps la farce, la sotie et le miracle, beaucoup critiqués pour leur manque de noblesse. Plusieurs auteurs humanistes du XVI*e* siècle, désireux de rompre avec les genres médiévaux, se penchent à nouveau sur la comédie à travers le prisme des pièces antiques qu'ils adaptent pour leur public contemporain. Rendue légitime par la noblesse des écrits des anciens, la comédie connaît un renouveau sous la plume de Jodelle avec sa comédie *Eugène* (1552), puis ensuite avec des dramaturges tels que Grévin, Belleau, Larivey, Amboise et d'autres encore. En s'inspirant largement des modèles antiques, surtout latins, ces auteurs prennent *L'Art poétique* de Boileau comme référence normative tout en n'oubliant pas Aristote. Leurs comédies sont ainsi construites selon des règles bien précises telles le découpage en cinq actes, l'importance de la vraisemblance, qui dicte la loi des unités, et le schéma figé du genre comique, qui vise à montrer des destins médiocres dont la fin est nécessairement heureuse. Cette reconsidération du genre comique et sa théorisation lui permettent de connaître un second souffle et posent les bases de ce qu'elle devient au XVII*e* siècle.
+
+Le genre connaît une autre crise au début du XVII*e* siècle, puis une nouvelle génération d'auteurs comme Pierre Corneille, Rotrou ou encore Mairet s'essaient à la comédie à partir de 1628. En harmonie avec les goûts du public de cette époque et avec ceux du Cardinal de Richelieu qui permet la pratique de cet art, ces auteurs s'éloignent de la pratique farcesque de la comédie, rompent avec les italiens et leur commedia dell' arte. Ils écrivent des comédies régulières et parachèvent la théorisation du genre. Le comique n'est pas la fin de cette écriture qui se veut galante et divertissante sous la plume de Corneille, proche de la pastorale ou de la tragi-comédie sous celle de Rotrou. Leurs pièces obéissent aux normes des unités, de la vraisemblance et de la cohérence dramaturgique.
+
+C'est dans ce contexte littéraire que d'Ouville s'essaye à la comédie et, avec lui, les comédies des années 1630, pourtant très variées, vont être rapidement supplantées par un nouveau type, la comédie à l'espagnole.
+
+
+## La *comedia* espagnole
+
+La *comedia* marque le XVII*e* siècle et contribue à faire de lui le siècle d'or du théâtre espagnol. Les plus grands dramaturges de l'époque s'essaient à ce genre baroque: Calderón, Lope de Vega, Montalván. La *comedia* naît à Madrid et plait au public espagnol, féru de théâtre, tout au long du XVII*e* siècle.
+
+Sur le plan structurel, la *comedia* est composée de trois jornata (journées) et est écrite en vers, souvent près de mille par journée. Elle n'est pas soumise aux strictes règles dramaturgiques des unités et de la vraisemblance. Le genre baroque, au contraire, est marqué par la profusion, le mélange, la contradiction et le renversement de situation, l'illusion et le reflet trompeur. Les grands thèmes développés dans ces pièces sont l'amour, le sens de l'honneur et l'ordre social. La *comedia* reflète ainsi les préoccupations de la société espagnole de l'époque. Martinenche décrit la comédie espagnole comme « le miroir grossissant de l'âme espagnole du XVII*e* siècle » [11]. L'Espagne aime les héros et les aventures, sans oublier les vertus de l'épée. C'est pourquoi les *comedias* sont riches en péripéties, en coups de théâtre et en effets de surprise. Les intrigues sont vives, colorées, pleines de fougue et de jeunesse.
+
+Les *comedias* mettent en scène des personnages types, incarnant certaines valeurs et certains traits de caractère mais ne s'attachent pas à rendre ces personnages consistants et uniques. Le schéma de l'intrigue est également figé et traditionnel. De jeunes hommes nobles et belles dames s'aiment puis se brouillent pour finalement se réconcilier à la fin et se marier. L'attrait du public espagnol se porte surtout sur les différentes péripéties, méprises et quiproquos que connaissent les amants dans cette phase de discorde, plus que sur leurs personnalités propres. L'obstacle à l'amour des jeunes gens est souvent la figure paternelle qui incarne l'ordre et l'honneur et qui empêche les amours de sa fille, ou bien la garde enfermée chez lui. Il s'agit aussi souvent d'un rival, réel ou fantasmé. Les problématiques baroques sont très présentes dans les *comedias* espagnoles. L'importance du jeu sur les apparences est capitale et les amants sont souvent brouillés pour avoir été abusés par celles-ci. Ils croient surprendre l'être aimé en compagnie d'un rival ou bien se méprennent sur la nature de l'identité de l'être aimé. Les situations sont de ce fait souvent compliquées, des actes de jalousie, de vengeance entraînant toujours plus d'incompréhension et de discorde. Tous ces quiproquos et méprises imposent de nouveaux procédés scéniques : déguisement, usurpation d'identité, double identité et tout l'apanage d'une théâtralité intense jouant sur l'ambivalence, la confusion des sens et des sentiments. Si ni les personnages, ni l'intrigue ne sont originaux, les *comedias* se distinguent en revanche par le lyrisme intense de leurs vers, la poésie de la nature souvent évoquée et une écriture profondément symbolique. Les couples d'amants se déclarent leurs amours dans de longues tirades très métaphoriques et dont le style convoque tous les figures du lyrisme. Cet aspect de la *comedia* espagnole, la finesse du langage et la poésie des sentiments sont souvent contrebalancés par un autre type de personnage qui rend ce genre célèbre et dont l'influence est capitale.
+
+Le peuple est également représenté dans les *comedias* et ce, avec les *criados* et* criadas*, c'est-à-dire les valets dont le type le plus fameux est le *gracioso*. C'est lui qui prend en charge le comique de la pièce et qui allège la complexité de l'intrigue principale. Le *gracioso* est le pendant théâtral de Sancho Pança et cumule tous les défauts ; il est couard, poltron, buveur, gourmand, menteur et paraît être le reflet inversé de son maître, qui lui possède toutes les qualités du gentilhomme. Il convient cependant d'introduire une nuance dans la description de ce valet. Si le *gracioso* est souvent le lourdaud décrit ci-dessus, il en existe un autre, plein d'esprit et sachant parodier les manières des maîtres [12]. L'origine du *gracioso* est à chercher du côté du compagnon d'étude du jeune galand et peut de ce fait être instruit. Dans certaines pièces, comme dans *Astrologo fingido*, on le verra, le rapport social maître/valet s'efface au profit d'une véritable relation de confiance et de fidélité où la complicité est très présente. Dans tous les cas, le *gracioso* est le personnage qui fait rire le public, soit par la bassesse de ses réflexions, soit par la finesse et l'ironie de ses propos. Il aide son maître à courtiser celle dont il est épris, transmet des messages, espionne, interroge la servante de cette dame, est souvent amoureux de cette dernière et se marie souvent en même temps que son maître. La *comedia de figurõn* est un type particulier de *comedia* qui met ce valet bouffon au centre de l'intrigue et s'amuse des situations absurdes et comiques dans lesquelles il se voit empêtré.
+
+
+## La comédie à l'espagnole en France
+
+Si Rotrou a écrit en 1629 une pièce inspirée de Lope de vega, *La Bague de l'oubli*, d'Ouville est considéré comme celui qui a introduit ce genre en France. Il a en effet créé plusieurs pièces coup sur coup et chacune d'entre elles a été jouée au Marais ou à l'Hôtel de Bourgogne. C'est lui qui fait découvrir ce type de comédie au public français. Il lance une véritable mode en France car tous les dramaturges de l'époque s'essaient à la comédie à l'espagnole à sa suite.
+
+Les sources d'influences ne manquent pas puisque la production théâtrale espagnole représente entre dix mille et trente mille pièces. *Le Menteur* de Pierre Corneille et *la Suite du Menteur* sont directement inspirées des pièces d'Alarcon et de Lope de Vega. Scarron également adapte de nombreuses pièces espagnoles pour créer entre autres *Jodelet ou le maître valet, Les Trois Dorothées, Don Japhet d'Arménie* ou encore *L'Héritier ridicule*. Boisrobert suit également les traces de son frère pour plusieurs pièces d'inspiration espagnole dont *La Jalouse d'elle-même* ou *Les Apparences trompeuses*. Thomas Corneille enfin satisfait les goûts du public parisien et écrit plusieurs pièces sur le modèle espagnol, telles que *Le Feint Astrologue*, adaptée elle aussi de la pièce de Calderón, ou *L'Amour à la mode*. En l'espace de vingt ans, après d'Ouville, une trentaine de pièces adaptées de comédies espagnoles sont jouées dans les théâtres parisiens. L'influence de ce genre perdure au-delà de cette période puisque des figures telles que le *gracioso* et un certain goût pour les méprises, les quiproquos et pour le jeu sur les apparences s'inscrit définitivement dans la tradition théâtrale française et continue longtemps de donner des idées aux dramaturges.
+
+
+# Jodelet astrologue sur la scène française
+
+
+## Présentation
+
+La date à laquelle *Jodelet astrologue* fut jouée pour la première fois n'est mentionnée nulle part. Cependant, dans la mesure où cette pièce a été publiée en 1646, on peut penser qu'elle fut représentée l'année précédant cette impression comme c'était fréquemment le cas, c'est-à-dire en 1645. Les différents dictionnaires théâtraux recensant les pièces de cette époque, comme celui des Frères Parfaict, situent les représentations de *Jodelet astrologue* au théâtre de l'Hôtel de Bourgogne. Cela ne semble pas correspondre avec ce que l'on sait de la vie du célèbre comédien Jodelet ou Julien Bedeau, figure principale de cette pièce de d'Ouville. En effet, il est certain qu'il rejoignit en 1642 la troupe du théâtre du Marais où il resta jusqu'en 1659. Dès lors, il semble plus cohérent que *Jodelet astrologue* ait été joué au théâtre du Marais. Un indice textuel nous conforte dans cette idée puisque Jodelet s'exclame à la fin de l'acte I : 
+
+La langue d'un valet est pire qu'un trompette,  
+Voy que Nise a tenu la chose bien secrette,  
+On me le vient d'apprendre au marais, et demain  
+On le sçaura sans doute au fauxbourg S.Germain. (v. 327-330)  
+
+
+## Réception de la pièce
+
+Julien Bedeau était très connu et très aimé du public parisien à cette époque. Ce comédien était entièrement associé dans les mentalités de l'époque à la farce, au personnage burlesque et au théâtre du Marais, ce qui fit dire à Tallemant de Réaux [13] « il n'y a plus de farce qu'au Marais où il est ». Sa notoriété était considérable. Sa simple apparition sur scène déclenchait des éclats de rire parmi l'assistance et son jeu suffisait à faire se déplacer les spectateurs. La célébrité de ce comédien, dressé en personnage de premier plan de la pièce de d'Ouville, laisse imaginer le fort succès qu'a connu *Jodelet astrologue* auprès du public parisien. La même année, le théâtre du Marais présenta également *Jodelet et le maître valet* de Scarron, pièce qui connut un vif succès, ce qui contribua encore sans doute à la notoriété de la pièce de d'Ouville. Ce succès fut tel que le Mémoire de Mahelot mentionne *Jodelet astrologue* au répertoire du théâtre de l'Hôtel de Bourgogne dès 1647. Cela signifie que cette pièce fut reprise sitôt l'impression achevée. Les critiques même, d'ordinaire si sévères à l'égard des pièces de d'Ouville, trouvèrent un certain charme à *Jodelet astrologue*. Les frères Parfaict écrivirent à son sujet : « cette pièce n'est pas la plus foible de celles de d'Ouville ; cependant elle est plus plaisante par les situations que par l'expression qui en est assez froide » [14].
+
+
+# L'intrigue et sa source
+
+
+## Résumé de la pièce
+
+
+### Acte I
+
+Liliane et Tindare se quittent au petit jour après s'être entretenus toute la nuit en secret (scène1). Liliane confie à sa servante le malheur que lui procure cet amour impossible car Tindare est sans argent et son père n'acceptera jamais leur union. Nise se moque gentiment des bons sentiments de sa maîtresse et vante les mérites de Timandre qui la courtise également et qui est plus fortuné. Liliane rappelle à Nise comment Tindare l'a courtisée durant deux ans et comment elle a résisté jusqu'au jour où il lui a annoncé son départ pour l'Italie et où elle lui a alors avoué son amour. Il a simulé ainsi son départ et se cache depuis six mois chez un ami afin de pouvoir lui rendre visite chaque nuit en secret (scène 2). Elle congédie sèchement Timandre qui vient lui déclarer sa flamme et prétend qu'aucun homme n'est digne d'elle (scène 3). Jodelet et Nise conseillent à Timandre de cesser d'aimer Liliane et Nise assure avoir tout tenté pour convaincre sa maîtresse de porter son amour sur lui (scène 4). Jodelet, seul avec Nise, parvient à apprendre d'elle que Liliane a un amant, qu'il se nomme Tindare et qu'il se cache chez Ariste. Nise lui révèle également la façon dont ils se retrouvent chaque nuit. Une fois seul, Jodelet s'aperçoit qu'il ne peut tenir sa langue tandis qu'il a promis à Nise de garder le silence quelques minutes auparavant (scène 5).
+
+
+### Acte II
+
+Jodelet fait un rapport complet à son maître et lui recommande la discrétion afin d'éviter des problèmes à Nise (scène 1). Timandre déclare à nouveau sa flamme à Liliane et devant le mépris qu'elle affiche pour les choses de l'amour, il ne résiste pas à la tentation de la confondre en évoquant sa relation avec Tindare. Afin de venir en aide à Nise, accusée de trahison par sa maîtresse, Jodelet prétend être astrologue, avoir lu ces renseignements dans les astres et les avoir ensuite appris à son maître. Timandre confirme l'histoire de Jodelet et invente une fable racontant l'apprentissage de Jodelet auprès d'un grand maître de l'astrologie. Liliane les croit et leur demande de garder le silence (scène 2), puis elle se plaint de sa situation auprès de Nise (scène 3). Timandre rencontre Acaste et fait mine de ne pouvoir lui révéler ce qu'il vient d'apprendre puis, une fois qu'Acaste a promis de garder le silence, il lui apprend que Tindare est l'amant de Liliane et qu'il se cache chez Ariste, un de ses bons amis (scène 5). Acaste va trouver Ariste afin d'avoir confirmation de ce qui vient de lui être dit. C'est l'occasion pour Ariste d'apprendre pourquoi Tindare se cache chez lui, ce qu'il n'avait pu savoir de la bouche de son ami. Il décide alors d'aller trouver Jacinte, qu'il aime en secret et qui est l'amante officielle de Tindare (scène 6).
+
+
+### Acte III
+
+Ariste rend visite à Jacinte qui se désespère de l'absence de Tindare. Elle invite Ariste à revenir afin qu'ils puissent s'entretenir au sujet de son amant (scène 1). Timandre raconte à Acaste la ruse que Jodelet et lui ont inventée. Ils décident de faire courir la rumeur selon laquelle Jodelet a des dons d'astrologue (scène 2). Ariste, seul, se plaint d'être déchiré entre amitié et amour (scène 3). Acaste vient le trouver et vante les talents de Jodelet. Ariste, jusque là persuadé de la bêtise de Jodelet, est impatient de le rencontrer (scène 4). Il apporte à Jacinte une lettre de Tindare provenant d'Italie et devant la tristesse qu'elle affiche, Ariste lui parle des talents de Jodelet, qui peuvent rendre visibles les absents (scène 5). Acaste apprend à Jodelet et Timandre que tout le monde en ville parle des dons de Jodelet. Ce dernier appréhende les questions qui pourraient lui être posées dans le but de tester ses talents. Jacinte frappe à la porte (scène 6) pour demander à Jodelet de lui faire voir son amant qui vit actuellement dans un pays voisin. Le valet lui assure que cela est impossible et relève de la magie puis, lorsqu'il apprend qu'il s'agit de Tindare, il saisit l'occasion de donner du crédit à sa fable et dicte une lettre à Jacinte dans laquelle elle convoque Tindare (scène 7). Acaste, Timandre et Jodelet se félicitent du nouveau tour qu'ils sont en train de jouer. Acaste émet cependant une réserve quant au bon déroulement des événements futurs (scène 8).
+
+
+### Acte IV
+
+Ariste reproche à Tindare son manque d'amour pour Jacinte qui souffre et l'attend. Tindare avoue à son ami qu'il aime ailleurs mais refuse de donner le nom de celle qu'il voit en secret chaque nuit. Ariste le prévient que cela est connu de tous. Tindare, seul, trouve à ses pieds la lettre de Jacinte (scène 1). Nise vient trouver Tindare afin de l'avertir que sa relation avec Liliane est découverte et lui conseille de se présenter auprès de son père en prétendant venir de la part de son frère, l'oncle de Liliane qui habite à Turin, afin de s'introduire chez celle qu'il aime (scène 2). Julie et Jacinte attendent l'apparition de Tindare, l'une est effrayée et l'autre impatiente (scène 3), mais toutes deux sont terrorisées lors que ce dernier arrive. Jacinte supplie Tindare de partir et ce dernier croit que la colère est cause de ce rejet. Il tente de se justifier et Jacinte lui ferme la porte au nez (scène 4). Liliane donne à Tindare un ruban vert avec un cœur de diamant en pendentif en gage de son amour (scène 5). Arimant ouvre les portes de sa maison à Tindare qui dit venir de la part de son frère de Turin. Les deux amants renouvellent leurs serments amoureux devant Arimant grâce à un double langage qui peut faire croire à un simple échange de compliments polis (scène 6). Après avoir reproché à Jodelet de n'avoir su tenir sa langue, Nise le tient au courant de tout se qui s'est passé afin qu'il puisse faire croire à ses dons de devin (scène 7). Nise présente l'astrologue Jodelet à Arimant et prétend qu'il vient d'annoncer à Liliane qu'elle épousera un homme nécessiteux. Jodelet craint d'être découvert et minimise ses talents ce qui convainc Arimant de la grandeur de son savoir. Resté seul avec Jodelet, Arimant lui confie avoir étudié l'astrologie mais avoir besoin d'actualiser ses connaissances et il l'interroge sur certains aspects de cette science en employant le jargon qui lui est propre. Jodelet prétend que tous les noms ont changé et parodie le jargon des astrologues (scène 8).
+
+
+### Acte V
+
+Timandre assure à Ariste qu'il continue à jouer le jeu, non pour empêcher le mariage de Liliane avec Tindare, mais pour éviter des problèmes à Nise (scène 1). Jacinte reproche à Jodelet de l'avoir bernée, ce à quoi il répond qu'il ignorait la présence de Tindare à Paris. Elle lui demande ensuite de lui rendre l'amour de Tindare et Jodelet lui assure qu'il feint l'indifférence (scène 2). Ariste vient trouver Jodelet afin d'obtenir l'amour de Jacinte. Jodelet l'ausculte puis lui prédit qu'il l'obtiendra s'il persévère (scène 3). Arimant vient demander l'aide de Jodelet qui préfère avouer toute la mascarade de peur d'être démasqué. Arimant croit à de la modestie et l'interroge afin de trouver le diamant qui a été dérobé à sa fille. Jodelet, mis au courant à l'acte précédent par Nise, dénonce Tindare. Arimant invite tout le monde à souper le soir même (scène 4). Le page Moron vient trouver Jodelet afin qu'il le fasse voyager par les airs jusqu'à sa Provence natale. Jodelet l'envoie se préparer (scène 5). Arimant demande à Tindare de lui rendre le diamant et ce dernier, pensant que son amour est découvert, s'accuse afin d'innocenter Liliane puis demande sa main à Arimant. Ce dernier croit le jeune homme fou et refuse sèchement (scène 6). Jacinte reproche à Tindare son manque d'amour et ce dernier répond qu'il aime ailleurs depuis qu'elle l'a chassé de chez elle. Jacinte admire ses qualités d'acteur tandis que Julie le soupçonne d'être réellement indifférent (scène 7). Jodelet bande les yeux de Moron, lui décrit les monstres qu'il rencontrera dans les airs tandis qu'il vole sa bourse (scène 8). Liliane et Tindare se jurent à nouveau fidélité et, voyant Arimant arriver avec ses convives, Tindare se cache derrière un buisson (scène 9). Arimant donne les ordres pour préparer le souper et rend son diamant à Liliane (scène 10). Jacinte vient et provoque le scandale en révélant la relation amoureuse qu'entretiennent Liliane et Tindare. Elle affirme que ce dernier est caché dans le jardin. Tous cherchent et trouvent Moron ce qui crée un quiproquo. Tindare se montre et Arimant, croyant toujours qu'il n'est qu'un simple voleur, se met en colère. Jodelet intervient afin de démêler l'affaire. Les amants avouent leur amour et Arimant permet leur union. Ariste déclare ensuite sa flamme à Jacinte qui accepte de l'épouser. Tous se retournent ensuite contre Jodelet et chacun, dans un quatrain, l'accuse d'être un imposteur. Jodelet explique l'origine de cette ruse et affirme que, s'il n'est pas astrologue, il a néanmoins réussi à contenter tout le monde. Timandre assume sa part de responsabilité puis Jodelet accepte de rembourser Moron à condition que Liliane pardonne à Nise son indiscrétion et qu'elle permette son mariage avec lui. Toutes ses demandes sont accordées.
+
+
+## Comparaison avec la source espagnole
+
+Ce tableau met en lumière la reconstruction textuelle effectuée par d'Ouville et permet de comprendre quels furent ses choix et quel fut réellement son travail d'adaptation. Il est aisé de remarquer combien les deux intrigues se ressemblent, la grande majorité des scènes suivant le même ordre et les deux pièces comptant le même nombre de personnages. L'intrigue principale chez d'Ouville est presque en tous points semblable à celle de la pièce de Calderón, de même que les intrigues secondaires. Il est ainsi plus intéressant d'étudier les différences dramaturgiques qui existent entre les deux pièces que d'en énumérer les similitudes.
+
+Ce tableau permet de voir comment d'Ouville a construit sa pièce et à partir de quel matériau textuel. Il s'agit ensuite de comprendre la logique qui a motivé cette reconstruction dramaturgique.
+
+Dans ce tableau, les textes des deux pièces sont distingués afin que les parallélismes et les divergences soient plus évidents. Les scènes non colorées sont celles qui ne connaissent pas ou peu de modifications d'une pièce à l'autre. Celles soulignées correspondent aux scènes ayant subi d'importants changements. Enfin les scènes en gras sont celles qui n'ont pas d'équivalent dans l'autre pièce.
+*Version espagnole* Première journée *Maria, Beatriz:* *Maria rappelle à Beatriz sa situation amoureuse.* *Don Juan, Maria, Beatriz:* *Don Juan et Maria se déclarent leur amour. Ils imaginent un faux départ.* Don Diego, Moron, Maria, Beatriz: Don Diego déclare son amour et Maria le rejette. Moron et Beatriz compatissent avec le malheur de Timandre et lui conseillent d'abandonner. Moron, Beatriz: Moron interroge Beatriz quant aux amours de sa maîtresse. **(Don Juan, Don Carlos:** **Don Juan demande hospitalité auprès de Don Carlos, l'envoie informer Violante, auprès de laquelle il est engagé, de son prétendu départ.)** *Don Carlos, Violante, Quiteria:* *Don Carlos annonce le départ de Don Juan à Violante.* **(Violante, Quiteria:** **Violante dit à Quiteria qu'elle attendra Don Juan.)** Moron, Beatriz: Beatriz raconte à Moron les amours de sa maîtresse. Moron, Don Diego: Moron fait un rapport détaillé à son maître. Don Antonio, Don Diego: Don Diego dévoile ce secret à Don Antonio. Don Antonio, Don Carlos: Don Antonio demande confirmation à Don Carlos. **(Don Antonio rapporte cela à Don Diego qui s'apprête à demander des comptes à Maria.)** Seconde journée *Don Diego, Moron, Maria, Beatriz, un page:* *Don Diego confond Maria qui accuse Beatriz de l'avoir trahie. Moron intervient et prétend révéler les talents d'astrologue de son maître. Don Diego confirme ces dires et Maria les croit. Moron et Don Diégo se félicitent du tour qu'ils viennent de jouer. * (cf plus haut) Leonardo, Maria, Beatriz, Don Diego, Moron: Leonardo arrive et sa fille prétend s'entretenir avec un astrologue au sujet de son futur mariage. Leonardo, Don Diego, Moron: Leonardo invite Don Diégo à revenir afin de parler d'astrologie. Cf scène plus haut entre Don Carlos et Violante Don Diego, Moron, Don Antonio: Don Diego demande à Don Antonio ainsi qu'à Moron de répandre la rumeur. Don Antonio, Don Carlos: Monologue de Don Carlos, déchiré entre amour et amitié. Don Antonio lui vante les talents de Don Diego. Violante, Quiteria, Don Carlos: Don Carlos assure à Violante que Don Diego pourrait lui faire voir Don Juan. Don Antonio, Don Diego, Moron: Don Antonio apprend à Don Diego que la rumeur a pris beaucoup d'ampleur. Don Antonio, Don Diego, Moron, Violante, Quiteria: Violante demande à Don Diego de lui montrer son amant. Il dicte une lettre à Violante dans laquelle elle le convoque. Don Antonio, Don Diego, Moron: Ils rient du nouveau tour qu'ils sont en train de jouer. Don Carlos, Don Juan: Don Juan se confie à Don Carlos puis trouve la lettre de Violante. **Nul équivalent** Quiteria, Violante: Quiteria et Violante attendent le fantôme de Don Juan. Quiteria, Violante, Don Juan: Scène de quiproquo. Violante, effrayée, chasse Don Juan qui croit à de la colère. Troisième journée Maria, Beatriz, Don Juan: Maria donne à Don Juan un diamant en gage d'amour. Maria, Beatriz, Don Juan, Leonardo: Tindare prétend venir de la part de l'oncle de Turin. Arimant lui ouvre les portes de sa maison. **(Leonardo, Maria:** **Maria avertit Leonardo de la perte de son bijou.)** Moron, Beatriz: Beatriz fait un rapport complet à Moron. Cf plus haut (Première Journée) Don Diego, Don Antonio: Ils font un bilan de la situation. Don Diego, Don Antonio, Violante, Quiteria: Don Diego assure à Violante que Don Juan l'aime. Don Diego, Don Antonio, Don Carlos: Don Diego affirme à Don Carlos que Violante l'aime. Don Diego, Don Antonio, Leonardo: Don Diego demande à Don Juan qui a volé le diamant. Don Diego, Don Antonio, Leonardo, Moron: Don Diego dénonce Don Juan auprès de Leonardo qui les invite à souper. Don Diego, Don Antonio, Moron, le page: La page demande l'aide de Don Diego pour le transporter par les airs. Moron demande à s'en occuper et lui conseille de n'enlever son bandeau qu'une fois arrivé. Don Juan, Leonardo: Don Juan prétend avoir volé le diamant afin d'innocenter Maria. >Don Juan, Violante, Quiteria: Violante admire les talents d'acteur de Don Juan qui se montre indifférent. Cf plus haut **(Violante, Quiteria, Don Carlos:** **Violante veut se venger de Don Juan et feint d'être amoureuse de Don Carlos qui trouve dans son attitude la confirmation des dires de Don Diego.)** Le page, Moron : Moron bande les yeux du page et le dépouille. Maria, Don Juan, Beatriz: Les deux amants se plaignent de leur infortune et se jurent fidélité. On entend le page au loin. Beatriz arrive et les prévient de la venue de Leonardo et de ses invités. Don Juan se cache dans le jardin. Don Diego, Leonardo, Moron, Don Antonio, Maria: Ils préparent le dîner. On entend toujours le page au loin. *Tous :* *Violante révèle la relation amoureuse de Maria et que son amant est caché dans le jardin. Tous cherchent l'amant. Ils ne trouvent que le page. Don Juan se montre et dévoile l'amour qui le lie à Maria. Leonardo accepte le mariage. Beatriz intervient pour sauver l'honneur de Don Diego et elle et Moron racontent tout. Don Diego promet d'en avoir fini avec l'astrologie et demande pardon. * | *Version française* Acte I *Scène 1 : Liliane, Tindare, Nise :* *Scène d'au revoir entre les deux amants.* *Scène 2 : Liliane, Nise :* *Liliane confie son amour à Nise qui lui conseille de céder à l'inclination du noble Timandre.* Scène 3 : Liliane, Timandre, Nise, Jodelet : Timandre déclare son amour et Liliane le rejette. Scène 4 : Timandre, Jodelet, Nise : Jodelet et Nise compatissent avec le malheur de Timandre et lui conseillent d'abandonner. Scène 5 : Jodelet, Nise : Jodelet interroge Nise quant aux amours de sa maîtresse. **Nul équivalent** Cette scène à gauche est déplacée à la scène 1 de l'Acte III **Nul équivalent** Elle raconte tout. Acte II Scène 1 : Timandre, Jodelet : Jodelet fait un rapport détaillé à Timandre qui veut demander des comptes à Liliane. Les scènes ici à gauche apparaissent plus tard dans l'Acte II (cf Scènes 5, 6, 7) **Nul équivalent** *Scène 2 : Timandre, Liliane, Jodelet, Nise :* *Timandre confond Liliane qui reproche à Nise d'avoir parlé. Jodelet intervient et prétend être astrologue et avoir tout deviné. Timandre confirme ses dires et Liliane les croit.* Scène 3 : Liliane, Nise : Liliane confie sa peine à Nise. Scène 4 : Timandre, Jodelet : Ils se félicitent de leur ruse. Scène 5 : Acaste, Timandre, Jodelet : Timandre dévoile le secret à Acaste. Scène 6 : Acaste, Ariste : Acaste demande confirmation à Ariste. Ces scènes à gauche apparaissent à la scène 8 de l'Acte IV. Acte III Scène 1 : Ariste, Jacinte, Julie : Ariste écoute les plaintes de la maîtresse de Tindare Scène 2 : Timandre, Acaste, Jodelet : Timandre demande à Acaste de répandre la rumeur. Scène 3 : Ariste seul : Monologue d'Ariste, déchiré entre amour et amitié. Scène 4 : Acaste, Ariste : Acaste vante à Ariste les talents de Jodelet. Scène 5 : Julie, Jacinte, Ariste : Ariste assure à Jacinte que Jodelet pourrait lui faire voir Tindare. Scène 6 : Acaste, Jodelet, Timandre : Acaste apprend à Timandre que la rumeur a pris beaucoup d'ampleur. Scène 7 : Jacinte, Julie, Timandre, Acaste, Jodelet : Jacinte sollicite l'aide de Jodelet pour voir son amant. Jodelet dicte une lettre à Jacinte dans laquelle elle le convoque. Scène 8 : Timandre, Acaste, Jodelet : Ils rient du nouveau tour qu'ils sont en train de jouer. Acte IV Scène 1 : Ariste, Tindare : Tindare se confie à Ariste puis trouve la lettre de Jacinte. **(Scène 2 : Tindare, Nise :** **Nise conseille à Tindare de venir trouver Arimant de la part de son frère qui habite Turin afin d'être le bienvenu chez Liliane.)** Scène 3 : Julie, Jacinte : Jacinte et Julie attendent le fantôme de Tindare. Scène 4 : Julie, Jacinte, Tindare : Scène de quiproquo. Jacinte, effrayée, chasse Tindare qui croit à de la colère. Scène 5 : Tindare, Liliane, Nise : Liliane donne à Tindare un diamant en gage d'amour. Scène 6 : Arimant, Tindare, Nise, Liliane : Tindare prétend venir de la part de l'oncle de Turin. Arimant lui ouvre les portes de sa maison. **Nul équivalent** Scène 7 : Nise, Jodelet : Nise fait à Jodelet un rapport complet. Scène 8 : Arimant, Nise, Jodelet : Arimant s'entretient avec Jodelet au sujet de l'astrologie. Acte V Scène 1 : Timandre, Acaste : Ils font un bilan de la situation. Scène 2 : Timandre, Jacinte, Acaste, Julie, Jodelet : Jodelet assure à Jacinte que Tindare l'aime. Scène 3 : Ariste, Acaste, Timandre, Jodelet : Jodelet affirme Ariste que Violante l'aime. Scène 4 : Jodelet, Arimant, Timandre, Acaste : Arimant demande à Jodelet qui a volé le diamant. Jodelet dénonce Tindare pour le diamant. Arimant invite tout le monde à souper le soir même. Scène 5 : Moron, Jodelet : Moron demande l'aide de Jodelet pour le transporter par les airs. Cf scène 8 du même Acte Scène 6 : Tindare, Arimant : Tindare prétend avoir volé le diamant pour innocenter Liliane. Scène 7 : Tindare, Jacinte, Julie : Jacinte admire les talents d'acteur de Tindare qui se montre indifférent. Scène 8 : Moron, Jodelet : Jodelet conseille à Moron de n'ouvrir les yeux qu'une fois à destination. **Nul équivalent** Il lui bande les yeux et lui vole sa bourse. Scène 9 : Liliane, Nise, Tindare : Les deux amants se plaignent de leur infortune et se jurent fidélité. Voyant Arimant et Timandre arriver, Tindare se cache dans le jardin. Scène 10 : Timandre, Liliane, Nise, Tindare, Jodelet, Arimant et Moron derrière : Tous préparent le souper. Moron entend des voix. *Scène 11 : Tous : Jacinte révèle la relation amoureuse de Liliane et assure que son amant est caché dans le jardin. Ils cherchent l'amant et finissent par trouver Moron. Tindare se montre et dévoile l'amour qui le lie à Maria. Jodelet intervient pour démêler l'affaire et le mariage est accepté par Arimant. Ariste déclare sa flamme à Jacinte qui accepte sa demande en mariage. Jodelet et Timandre s'excusent et Jodelet accepte de rembourser Moron à condition que Liliane pardonne Nise et qu'elle autorise son mariage avec Jodelet, ce qui est accordé. *
+
+
+
+
+# Analyse du travail de réécriture
+
+
+## Les modifications de l'intrigue
+
+La différence majeure qui existe entre la pièce de Calderón et celle de d'Ouville, et qui fait que cette dernière ne peut être considérée comme une simple adaptation, concerne le rôle de l'astrologue. Chez Calderón, le personnage jouant le rôle de l'astrologue est Don Diego, le jeune noble qui courtise Maria. Chez d'Ouville, et c'est là la modification la plus importante qu'il ait effectuée par rapport au texte de Calderón, c'est Jodelet, le valet de ce second courtisan, qui fait croire à des talents d'astrologue afin d'innocenter Nise, dont il est amoureux. Le rôle de son maître, Timandre, est réduit à celui de complice car il le soutient et l'aide dans sa supercherie. La noblesse de son rang donne du crédit à Jodelet lorsque Timandre affirme que son valet est astrologue. Le personnage du valet est évidemment bien plus présent chez d'Ouville que chez Calderón. Les situations et textes sont adaptés à la nature sociale et au caractère de cet astrologue, respectant le critère de vraisemblance et ainsi les caractéristiques propres au valet. Ainsi, Jodelet prend plus de plaisir que Don Diego dans son rôle d'astrologue. Il est en effet plus normal qu'un valet, par son caractère facécieux et la légèreté de ses mœurs, se plaise à jouer son entourage, à se composer un personnage, à faire des grimaces. Jodelet ne se contente pas de donner le change, il exagère et profite de son statut pour piéger les autres personnages et même dépouiller Moron.
+
+Une autre grande différence entre la pièce de d'Ouville et celle de Calderón réside en ce que l'intrigue ne débute pas au même moment dans les deux pièces. En effet, la première journée de l'*Astrologo fingido* est consacrée aux amours de Don Juan et de Dona Maria. Don Juan courtise depuis deux ans Maria qui refuse de lui avouer son amour car elle a trop d'honneur. Désespéré, il vient annoncer son départ pour la guerre à Maria qui lui avoue la nature des sentiments qu'elle nourrit à son égard. Les deux personnages expriment leur amour dans de longues tirades lyriques et en usant de nombreuses métaphores. Puis, ils mettent en place une ruse afin de pouvoir se voir en secret et se donnent rendez-vous dans le plus grand secret le soir même.
+
+Dans *Jodelet astrologue*, d'Ouville fait commencer l'intrigue plus tard que Calderón. La scène d'exposition de cette pièce nous présente d'emblée Liliane et Tindare comme deux amants qui se séparent au lever du jour. Le spectateur comprend rapidement que leurs rendez-vous nocturnes sont réguliers depuis six mois et qu'ils se font dans le plus grand secret, grâce à un stratagème compliqué impliquant Nise, la servante de Liliane. Cette dernière se confie à Nise et voici comment elle expose la situation au spectateur :
+
+Je ne le cele point, Nise, je te confesse,  
+Que j'eu pour ce Tindare un excez de tendresse,  
+Si tost que je cognu que ce parfait Amant  
+Brusloit d'amour pour moy ; Mais admire comment  
+J'ay peu me retenir dans cet amour extresme,  
+N'ayant jamais voulu qu'il cognust que je l'ayme,  
+Que lors qu'en s'absentant, Nise, il me fit sçavoir  
+Qu'il s'éloignoit de moy par un pur desespoir.  
+Je confesse qu'alors il me fut impossible  
+De nier qu'à ses vœux je ne fusse sensible,  
+Qu'il possedoit mon cœur, il voulut demeurer,  
+Aussi-tost qu'il apprit qu'il pouvoit esperer,  
+Mais je luy prescrivi cette loy rigoureuse  
+Pour ne pas éventer cette flame Amoureuse  
+Que je tenois secrette au profond de mon cœur,  
+Qu'il se tiendroit caché dans Paris en lieu seur,  
+Et qu'il feroit courir le bruit qu'en Italie  
+Il s'alloit divertir de sa melancolie.  
+Il est dedans Paris caché depuis six mois,  
+Et ce secret ici n'est sceu que de nous trois. (v. 79-98)  
+
+Ainsi d'Ouville concentre l'action de la première journée de la pièce de Calderón dans un récit récapitulatif effectué par Liliane. Il raccourcit l'intrigue amoureuse et la scène d'exposition plonge le spectateur *in medias res*. De ce fait, la figure de l'astrologue intervient dès le début du second acte chez d'Ouville, tandis que, chez Calderón, l'imposture ne se met en place qu'au début de la seconde journée, soit dans le second tiers de la pièce.
+
+Enfin, la scène finale présente la dernière grande différence dramaturgique entre la pièce espagnole et son adaptation française. En effet, la pièce de Calderón s'achève sur un unique mariage, celui de Dona Maria et de Don Juan, tandis que dans *Jodelet astrologue*, le dénouement est marqué par une véritable scène de liesse avec l'annonce de trois mariages, celui de Liliane et de Tindare, celui d'Ariste et de Jacinte et enfin celui de Jodelet avec Nise.
+
+
+## Les suppressions
+
+Étant donné les modifications dramaturgiques effectuées par d'Ouville dans le premier acte de *Jodelet astrologue*, certaines scènes de la pièce espagnole n'ont plus lieu d'être et ont tout simplement disparu dans l'adaptation de d'Ouville. 
+
+Ainsi, dans la pièce de Calderón, après avoir mis au point la ruse du faux départ avec sa maîtresse, Don Juan va trouver son ami Don Carlos afin de lui demander de faire croire à son départ pour la guerre et de l'héberger en secret. Don Carlos accepte, sans pour autant parvenir à connaître la raison de cette mise en scène. Une telle scène n'aurait aucune utilité dans la pièce de d'Ouville puisque Tindare est déjà caché depuis six mois déjà chez son ami Ariste au début de l'action. Ce dernier résume simplement à l'acte II scène 6 :
+
+Ah Dieux ! par quelle adresse,  
+Par quel moyen je viens à sçavoir aujourd'huy  
+Ce que je n'ay jamais peu descouvrir par luy.  
+Encor que l'on m'ait fait une defense expresse  
+De tenir ce secret, amy je vous confesse,  
+Car ne vous celant rien, je fay ce que je doy,  
+Qu'il est depuis six mois entiers caché chez moy.  
+Il ne sort que de nuit, et c'est une folie  
+De croire, comme on dit, qu'il soit en Italie, (v. 692-700)  
+
+D'autres scènes de la pièce espagnole ont disparu dans l'adaptation française, et ce sans véritable motif semble-t-il. En effet, chez Calderón, au début de la troisième journée, Leonardo s'inquiète de la tristesse de Maria et celle-ci prétend que le vol de son bijou favori est la cause de son chagrin. Cette scène n'a pas d'équivalent chez d'Ouville. En effet, Arimant vient trouver Jodelet afin de lui demander qui a dérobé le diamant de sa fille et le spectateur n'apprend que plus tard comment il a eu vent de la disparition de ce bijou lorsque Liliane s'écrit à l'acte V scène 9 :
+
+Je suis cause de tout, que je suis miserable ?  
+J'ay feint que ce joyau m'avoit esté volé, (v. 1838-1839)  
+
+Elle reste ainsi évasive et le spectateur n'en apprend pas plus par la suite.
+
+Enfin, d'Ouville supprime également la scène dans laquelle Violante feint d'aimer Don Carlos afin de rendre jaloux Don Juan qui vient de la repousser. Cet épisode de la troisième journée vient après celui de la prédiction que fait l'astrologue à Don Carlos, prédiction selon laquelle Violante lui révèlerait bientôt ses sentiments d'amour à son égard. Cette scène sert le comique de la pièce puisqu'elle donne raison aux dires de Don Diégo et qu'elle intensifie encore le quiproquo. Chez d'Ouville, le mariage de Jacinte et d'Ariste survient alors que ces deux personnages n'ont encore jamais parlé d'amour.
+
+
+## Les modifications dans l'enchaînement des scènes
+
+La scène dans laquelle Leonardo interroge le prétendu astrologue sur les dernières découvertes de sa science intervient à deux moments très différents de l'intrigue chez Calderón et chez d'Ouville. Chez l'un, cette scène intervient dans la première journée lorsque Leonardo surprend Don Diego chez lui en train de converser avec Dona Maria. Beatriz explique la présence du jeune homme en prétendant qu'il est ici pour faire part de ses prédictions quant au futur mariage de Maria. Chez d'Ouville, à l'acte IV, Nise trouve le même prétexte pour expliquer la présence de Jodelet qui est venu chercher auprès d'elle des renseignements afin de pouvoir nourrir ses prédictions. C'est ainsi vers la fin de la pièce qu'a lieu cette scène dans laquelle Leonardo met en difficulté l'astrologue en lui posant des questions de connaisseur.
+
+D'Ouville déplace également la scène dans laquelle l'ami de Don Juan ou de Tindare va trouver pour la première fois la maîtresse officielle de ce dernier. Chez Calderón, Don Carlos va trouver Violante dans la première journée, afin de lui annoncer le départ de Don Juan. Chez d'Ouville, cette scène n'a pas lieu d'être au début de la pièce et ne survient qu'au début de l'acte III. Ariste rend visite à Jacinte après avoir appris de la bouche d'Acaste que son ami Tindare est amoureux de Liliane. Ainsi, dans la pièce française, l'intrigue secondaire qui s'intéresse aux amours d'Ariste survient de façon épisodique, concentrée, au début du troisième acte. Chez Calderón, cette intrigue secondaire se déroule tout au long de la pièce.
+
+
+## Un important travail de compression
+
+Lorsque l'on compare *Jodelet astrologue* et *Astrologo fingido*, il apparaît tout de suite que la pièce de d'Ouville, longue pourtant pour une pièce française avec 1996 vers, est beaucoup plus courte que celle de Calderón qui en compte 3235. En adaptant la pièce espagnole, d'Ouville a considérablement compressé l'intrigue.
+
+C'est le premier acte de* Jodelet astrologue* sur lequel ont été faites les plus importantes coupes dans l'intrigue. Il est possible de remarquer que ce premier acte comprend 330 vers et correspond à la première journée de la pièce de Calderón qui a besoin de 1017 pour installer l'intrigue. Cette différence importante s'explique par le choix de d'Ouville de faire commencer son intrigue plus tard que dans la pièce de Calderón.
+
+D'une manière générale, d'Ouville raccourcit toutes les scènes de dialogues amoureux. Dans sa pièce, on ne trouve pas de grandes tirades lyriques. Lorsque Don Diego vient déclarer sa flamme à Maria dans la première journée, il exprime ses sentiments à travers une longue tirade, très lyrique et très métaphorique. Dans la pièce de d'Ouville, il s'agit d'un dialogue entre Timandre et Liliane construit sur le modèle compliment/rejet, tel un duel amoureux, rendu grâce à l'usage des répliques courtes et incisives :
+
+
+LILIANE.
+Mais quand chasserez-vous cet amour de vostre ame ?  
+
+TIMANDRE.
+Lors que vous cesserez d'estre belle, Madame,  
+Et lors que je seray sans oreille et sans yeux.  
+
+LILIANE.
+Je ne puis revoquer la volonté des Cieux ;  
+Car despend-il de moy, Timandre d'estre belle ?  
+S'il est vray toutefois que je vous paroy telle ?  
+
+TIMANDRE.
+Mais ne vous aimer point, est-il dans le pouvoir  
+De quiconque, Madame, a des yeux pour vous voir ? (v. 163-170)  
+
+L'autre grande scène raccourcie par d'Ouville est celle de la mise en place de la ruse. Lorsque Don Diego révèle ses talents d'astrologues au début de la seconde journée, la scène comprend trois cents vers, là où d'Ouville n'a besoin que de deux cents vers pour que Jodelet et Tindare inventent la fable.
+
+Plusieurs petites scènes secondaires se trouvent compressées sous la plume de d'Ouville comme celle dans laquelle Nise révèle le secret de sa maîtresse à Jodelet, à l'acte I scène 5. Dans la pièce de Calderón, Moron a besoin de deux scènes afin d'obtenir de Beatriz ce qu'elle sait au sujet des amours de sa maîtresse. Chez d'Ouville, Nise parle rapidement, ce qui illustre encore mieux le caractère léger des valets, indignes de confiance.
+
+
+## Les ajouts
+
+D'Ouville n'ajoute qu'une scène à la pièce de Calderón : celle dans laquelle Nise vient en aide à Tindare et lui conseille de prétendre avoir rencontré le frère du père de Liliane afin de s'introduire chez elle :
+
+Et feignez d'arriver sur le champ d‘Italie,  
+Sçachez que ma Maistresse a son oncle à Thurin,  
+Le frere de son pere, appellé Palmerin.  
+Pour avoir le moyen de salüer son pere,  
+Dites-luy qu'à Thurin vous avez veu son frere,  
+Qu'en passant il vous a chez luy fort regalé,  
+Mais que par les chemins ayant esté volé,  
+On vous a pris sa lettre avec vostre equipage.  
+Je ne sçaurois, Monsieur, demeurer davantage,  
+Madame vous attend. Adieu, feignez si bien  
+Que de cette autre fourbe on ne descouvre rien. (v. 1240-1250)  
+
+Chez Calderón, Don Juan invente ce mensonge au début de la troisième journée et le spectateur peut se demander comment cette idée lui est venue. La précision de ce qu'il avance semble effectivement suspecte. D'Ouville fait preuve ici de plus de précision et confère à Nise un rôle de complice dans les amours de sa maîtresse.
+
+
+## Une adaptation critiquée
+
+L'ensemble des modifications, dramaturgiques et stylistiques, effectuées par d'Ouville visent à contenter le public français. Ces modifications semblaient nécessaires dans la mesure où il fallait un médiateur entre le public français et la comédie espagnole. En effet, les Espagnols et leur théâtre ne connurent pas un franc succès à Paris. Pour faire passer quelque chose de la comédie espagnole, pour que le public français l'apprécie, d'Ouville adapte cet art théâtral. Il lui donne une forme régulière, gomme les longues tirades lyriques et accentue la tonalité comique de la pièce de façon à mieux satisfaire le public parisien.
+
+Si d'Ouville est considéré comme le dramaturge qui a introduit la comédie à l'espagnole en France, il est également accusé parfois d'avoir desservi ce genre. En effet, ses comédies sont considérées comme des traductions sèches et privées de leur essence en comparaison avec les œuvres de Corneille ou de Scarron qui introduisaient dans leurs adaptations des créations originales. Ernest Martinenche critique le travail des auteurs comme d'Ouville qui adaptent les comédias espagnoles et leur fait le reproche suivant :
+
+
+« Le sort commun à tous les copistes médiocres du drame espagnol est le fait de vouloir mettre plus d'ordre et de clarté dans son modèle en appliquant le moule étroit des unités et en le travestissant misérablement dans la gravité terne et monotone de leurs alexandrins. … Dépouillée de sa poésie et de son âme la “*comedia*” n'offre plus qu'une intrigue compliquée et romanesque et fait retomber notre théâtre dans l'ornière même à laquelle elle avait d'abord contribué à l'arracher. [15] » Lorsqu'il parle de d'Ouville précisément, il écrit : « De la fermété et de la grâce de Caldron rien ne passe dans ces vers obscurs qui éteignent tout ce qui luit. » Cette critique rejoint en fait celle des Frères Parfaict qui trouvent l'expression de d'Ouville trop « froide » [16].
+
+
+# Analyse dramaturgique
+
+Il s'agit à présent de comprendre pourquoi d'Ouville a effectué ces diverses modifications. Tout d'abord, ce travail de recomposition textuelle répond à certaines contraintes poétiques de l'époque.
+
+L'esthétique baroque dans le théâtre espagnol n'est pas accompagnée de normes dramaturgiques précises. Le mot « baroque » vient du portugais *barocco* et désigne une perle irrégulière. Ce terme vient ainsi désigner au XX*e* siècle un genre sans contraintes poétiques particulières.
+
+Le théâtre espagnol du Siècle d'Or joue beaucoup sur la porosité de la frontière entre illusion et réalité et vise à donner à voir au spectateur la vie dans tout son caractère hybride, trompeur, à le plonger dans l'ivresse d'une action riche et variée. La rigueur esthétique ne convient pas à ce théâtre qui aime les contrastes, les rebondissements et les mélanges. La pièce de Calderón se plie ainsi difficilement à la conception normative du théâtre de l'âge classique qui veut qu'une pièce se rapproche le plus possible de la réalité. C'est pourquoi d'Ouville doit remanier ce texte et adapter sa dramaturgie aux règles françaises.
+
+
+## Structure externe de la pièce
+
+D'Ouville doit tâcher de rendre vraisemblable l'intrigue de sa pièce. Pour ce faire, il s'efforce de ramasser l'intrigue de sa pièce, de façon à respecter la poétique classique et les trois unités.
+
+
+### L'unité de temps
+
+Chez Calderón, l'intrigue s'étale sur trois jours. D'ouville choisit de faire commencer l'intrigue de sa pièce bien après celle de Calderón et compresse ainsi considérablement l'action. La pièce commence par les adieux de deux amants qui se quittent au lever du jour (I, 1, v.1-2) :
+
+NE faites point, Tindare, ici plus long sejour,  
+De grace allez vous-en, vous voyez qu'il est jour,  
+
+Elle s'achève le soir de la même journée, lorsque tous les personnages sont chez Arimant avant les préparatifs du dîner comme l'indique les paroles de l'hôte (V, 10, v.1858-1859) :
+
+Que l'on dresse la table,  
+Nise, et que l'on nous serve à souper promptement.  
+
+D'Ouville respecte ainsi le principe de l'unité de temps puisque son intrigue dure moins de vingt-quatre heures.
+
+
+### L'unité d'action
+
+En raccourcissant l'intrigue, d'Ouville n'en garde que l'essentiel. Comme nous l'avons vu, il coupe toutes les longues tirades amoureuses qui laissent s'exprimer, dans la pièce espagnole, le lyrisme des personnages. Chez d'Ouville, les amants s'échangent de rapides compliments, efficaces, et l'expression de leurs sentiments s'efface au profit de la progression de l'intrigue. La pièce de d'Ouville se concentre sur la comédie de Jodelet, son rôle d'astrologue et les quiproquos qu'il provoque. Les histoires amoureuses des différents personnages sont en fait les prétextes qui permettent cette intrigue principale. Plusieurs intrigues sont ainsi compressées et réduites à la fonction d'intrigues secondaires. Cela explique la disparition de la scène dans laquelle Violante, qui souhaite rendre jaloux Don Juan, fait croire à Don Carlos qu'elle l'aime. Cette recherche de l'efficacité de l'intrigue, effaçant tous les ornements, permet le respect de l'unité d'action.
+
+
+### L'unité de lieu
+
+La pièce de d'Ouville se déroule en plusieurs endroits qui sont facilement identifiables.
+
+Un lieu de passage, une rue : au début de l'acte II, Timandre va pour parler à Liliane au niveau de la porte d'entrée de la demeure d'Arimant :
+
+Je la voy sur la porte, allons tost l'aborder. (II, 1, v.365)  
+
+C'est dans cette rue que vont se rencontrer souvent les différents personnages, au croisement des différentes maisons.
+
+La demeure d'Arimant : les personnages se rencontrent à plusieurs reprises dans la demeure d'Arimant, soit à l'intérieur, soit dans le jardin comme à la scène finale.
+
+La demeure de Jacinte : au début de l'acte III, la question d'Ariste nous indique clairement le lieu de l'action (III, 1, v.725) :
+
+Madame, puis-je entrer avecque liberté ?  
+
+La demeure d'Ariste : cet endroit est identifiable grâce à l'exclamation de Tindare (III, 2, v.1230) :
+
+QUe veut dire cela ? comment ? Nise chez moy ?  
+
+La demeure de Timandre : à la scène 6, de l'acte III, Timandre donne au spectateur une nouvelle indication de lieu (v.1038) :
+
+On frappe, Jodelet, va, regarde qui c'est.  
+
+La notion d'unité de lieu est quelque peu mise à mal par la multiplicité des pôles de rencontre. Sur ce point, d'Ouvillle n'a pas retravaillé la pièce de Calderón et a gardé l'ensemble des déplacements dans l'espace. Il est cependant possible d'affirmer que d'Ouville respecte la règle des unités au regard de la dramaturgie de l'ensemble de la pièce car l'intrigue se passe dans une même ville, Paris.
+
+
+## Structure interne de la pièce
+
+Lorsqu'il adapte *L'Astrologo fingido*, d'Ouville a en tête les règles dramaturgiques classiques. L'étude des rapports macrostructurels dans sa pièce révèle sa volonté d'obéir à cette poétique normative.
+
+En effet, la construction et le déroulement de l'intrigue de *Jodelet astrologue* sont en adéquation avec les attentes des théoriciens de l'époque.
+
+
+### La scène d'exposition
+
+La poétique classique réclame un premier acte qui met à plat l'ensemble de l'intrigue à venir, qui présente tous les personnages importants, qui annonce et justifie de façon logique le déroulement de l'action dans les actes suivants.
+
+Si d'Ouville fait commencer son intrigue plus tôt que dans la pièce espagnole, cela révèle la volonté de ce dernier de créer un acte d'exposition répondant aux contraintes dramaturgiques classiques. Il coupe la première journée de Calderón afin de ne conserver que l'essentiel des rouages de l'intrigue. La scène 1 présente *in medias res* les deux amants principaux au spectateur. Dans la scène 2, Liliane fait part à Nise, sa servante, de ses sentiments pour Tindare. Cette scène de confidence, tout à fait canonique, est l'occasion pour d'Ouville de résumer l'action qui se passe chez Calderón tout au long de la première journée. L'histoire qui lie les amants est ainsi livrée par le biais d'un récit récapitulatif. Dans cette même conversation, Nise rappelle à sa maîtresse l'absence de fortune de celui qu'elle aime et l'existence d'un autre prétendant, gentilhomme fortuné. Elle dresse ainsi l'esquisse des obstacles qui vont séparer les amants dans le reste de la pièce. La fin de l'acte révèle ce qui permet à ces obstacles de séparer les amants. Nise et le valet du second prétendant s'entretiennent au sujet des amours de leurs maîtres et Nise trahit le secret de sa maîtresse.
+
+Ainsi cette scène d'exposition respecte les règles dramaturgiques classiques car les personnages principaux y sont présentés ainsi que la trame globale de l'intrigue.
+
+
+### Le nœud
+
+Les règles poétiques classiques définissent le nœud de l'intrigue comique comme l'enchaînement nécessaire d'un conflit qui sépare les amants, et qui est annoncé dans la scène d'exposition. L'action doit être unique et toujours motivée par la logique et la vraisemblance.
+
+Le tableau comparatif permet de remarquer que le déroulement de l'intrigue de la pièce de d'Ouville reprend presque tous les éléments de la pièce de Calderón. Cependant, d'Ouville gomme au maximum les intrigues parallèles n'ayant pas un lien direct avec l'intrigue principale. C'est pourquoi la scène dans laquelle Maria pleure et prétexte la disparition de son bijou auprès de son père n'a pas d'équivalent chez d'Ouville. Liliane explique en une phrase ce qui s'est passé. De même la scène dans laquelle Violante feint d'aimer Don Carlos afin de rendre jaloux Don Juan est supprimée chez d'Ouville. Cette scène n'a en effet pas beaucoup d'implication dans le reste de la pièce et visait à satisfaire, chez Calderón, le goût du public espagnol pour les histoires d'amour et les grandes tirades lyriques. D'Ouville concentre ainsi l'intrigue autour d'une trame principale, respectant les règles dramaturgiques classiques.
+
+
+### Le dénouement
+
+La dramaturgie classique attend du dénouement la résolution de tous les conflits de l'intrigue. La comédie appelle forcément un passage à l'état de malheur à celui de bonheur, c'est-à-dire que les obstacles qui séparent les amants doivent être levés. La règle implique ainsi que la comédie s'achève sur un mariage. Les dramaturges français ont même tendance souvent à achever leurs pièces avec de véritables scènes de liesse générale suite à l'annonce plusieurs mariages.
+
+Le tableau comparatif montre comment d'Ouville suit fidèlement l'enchaînement des faits de la pièce espagnole au dernier acte. Tous les personnages se retrouvent dans un même lieu et la vérité se fait voir. Jacinte dénonce les amants, la ruse de Jodelet est découverte, l'implication de Timandre et Nise révélée. Cet éclatement de la vérité rend nécessaire le dénouement de la pièce et la levée des obstacles. Arimant voit l'amour de sa fille pour Tindare étalé au grand jour et ne peut refuser leur union par peur que l'honneur de sa famille en soit entaché. La découverte de cet amour contredit les prédictions passées de Jodelet et révèle son imposture. Les deux autres personnages joués par Jodelet se tournent l'un vers l'autre et annoncent leur mariage prochain. La ruse de Jodelet déjouée implique les aveux de Timandre et de Nise. Jodelet négocie le pardon de Liliane et son mariage avec Nise en échange de la restitution de la bourse de Moron. En quelques vers, tout le nœud se délie, chaque obstacle connaît une issue. D'Ouville donne à sa pièce une fin heureuse, avec trois mariages, soit deux de plus que chez Calderón.
+
+
+## Les rapports structurels
+
+Le travail de recomposition textuelle effectué par d'Ouville nuit parfois à la cohérence de l'action. En effet, certaines de ces modifications auraient dû entraîner d'autres changements dans le reste de l'intrigue, puisqu'au théâtre, chaque épisode, chaque événement découle d'une situation précédente. Il néglige ainsi les tenants logiques de sa pièce et le spectateur peut aisément se rendre compte de plusieurs contradictions et maladresses.
+
+L'étude de la logique dans l'enchaînement des évènements met un peu à mal le principe de nécessité. Pourtant, d'Ouville est conscient de la nécessité de faire découler les évènements les uns des autres. La phrase d'Acaste, qui s'étonne que Jodelet soit sûr que ce qu'il planifie survienne, le montre (III, 8, v. 1171-1173) :
+
+crois-tu, quoy qu'on te dies,  
+Que ce nœud soit pareil à ceux des Comedies  
+Où tousjours tout succede ainsi qu'on l'a tracé ?  
+
+Cette exigence logique amène d'Ouville à rajouter une scène, à l'acte IV, scène 2. Nise conseille à Tindare de s'introduire chez Liliane, en faisant croire à Arimant qu'il est envoyé par son frère qui vit à Turin. Grâce à cette scène supplémentaire, le spectateur comprend d'où vient ce stratagème et comprend la ruse de Tindare. Ce n'est pas le cas chez Calderón où il est possible de se demander comment Don Juan a eu cette idée.
+
+Cependant, il est possible de remarquer que plusieurs éléments détonnent dans l'organisation interne de la pièce de d'Ouville. L'étude de la pièce de Calderón permet de comprendre que ces maladresses proviennent du travail d'adaptation parfois superficiel effectué par d'Ouville. Il effectue des modifications mais ne semble pas avoir toujours vérifié que le reste de la pièce n'allait pas souffrir de ses retouches.
+
+À l'acte II, scène 5, Timandre et Jodelet viennent de quitter Liliane et d'inventer la ruse de l'astrologue. Ils rencontrent Acaste et Timandre lui fait part de sa tristesse amoureuse, lui apprenant la relation entre Tindare et Liliane. À l'acte III, scène 2, Timandre retrouve Acaste et lui raconte la ruse que Jodelet et lui ont inventée pour innocenter Nise auprès de sa maîtresse. Il semble étrange d'avoir séparé ces deux scènes car l'intrigue n'a pas progressé entre temps. Timandre aurait ainsi pu tout raconter à Acaste d'une seule traite. La raison de ce morcellement du récit est à chercher dans la version espagnole de la pièce. Chez Calderón, Don Diego apprend de Moron que Maria est la maîtresse de Don Juan. Il rencontre Don Antonio et lui apprend sa déconvenue. Il croise ensuite Maria, lui reproche sa vanité, invente la ruse de l'astrologue puis recroise Don Antonio et lui raconte ce qui vient de se passer. D'Ouville a ici repris l'ordre des scènes de Calderón mais sans remarquer que la logique interne de sa pièce ne nécessitait qu'une seule de ces deux scènes.
+
+D'autre part, chez Calderón, la scène dans laquelle Don Antonio interroge Don Diego sur la nature de ses sentiments à l'égard de Maria trouve sa place dans la logique de la pièce. Don Diego se fait passer pour un astrologue, berne tous les personnages et Don Antonio veut s'assurer que ses intentions ne sont pas mesquines et ne visent pas à empêcher l'union de Maria et Don Juan. Chez d'Ouville, au début de l'acte V, Acaste interroge Timandre sur ce même sujet alors que ce n'est pas ce dernier qui tient les rênes de la ruse. Cette scène sonne comme une fausse note car son existence n'est motivée par aucun rouage de l'intrigue.
+
+Lors du dénouement, là où tout découle de ce qui précède, où toute issue doit être logique, certains éléments dissonnent. Tout d'abord, le mariage de Jacinte et d'Ariste est surprenant. D'Ouville a en effet supprimé la scène dans laquelle Ariste déclare sa flamme à Jacinte. De ce fait, il semble étrange que ce mariage soit si rapidement conclu dans la mesure où aucune prémisse ne l'annonce dans le reste de la pièce.
+
+D'autre part, dans la scène finale, Arimant demande conseil à Timandre au sujet du mariage de sa fille avec Tindare.
+
+
+ARIMANT *à Timandre.*
+En cette extremité, Monsieur, que doy-je faire ?  
+
+TIMANDRE.
+Puis qu'ils s'aiment si fort, il les faut satisfaire,  
+Approuvez leurs amours et secondez leurs vœux.  
+
+ARIMANT.
+Bien, pour l'amour de vous, Timandre, je le veux.  
+Ouy, Tindare, à ce coup je desire me rendre,  
+Je vous donne ma fille et vous reçois pour gendre. (v. 1925-1930)  
+
+Cette confiance dans le jugement de Timandre est incompréhensible car pas un instant ces deux personnages ne se sont entretenus dans le reste de la pièce. Dans la pièce de Calderón, Leonardo s'adresse à Don Diego car c'est lui qui tient le rôle de l'astrologue. Chez d'Ouville cette adresse ne fait pas sens. Là encore, il a retravaillé le texte sans repenser la logique de l'enchaînement des événements.
+
+
+## La vraisemblance des caractères
+
+D'Ouville a raccourci la grande majorité des tirades des différents personnages et il a supprimé certaines scènes. Il s'ensuit un appauvrissement de leur consistance. D'Ouville ne s'attache pas au caractère de ses personnages et ne leur confère aucune profondeur car il s'intéresse avant tout à l'intrigue. Cela entraîne quelques incohérences dans leur comportement et le principe de vraisemblance est ainsi parfois mis à mal.
+
+
+### Jodelet
+
+Ce personnage est un mélange entre plusieurs types de valet. Jodelet a en effet plusieurs caractéristiques bien différentes. Il est tout d'abord la représentation classique du personnage espagnol du *gracioso*. Il est balourd, maladroit, et menteur. Il est le valet facétieux qui accomplit les basses actions et fait rire le public. Il fait du chantage à Nise, joue et vole le vieux page.
+
+À cette description classique du personnage de Jodelet doit s'en ajouter une seconde, plus complexe et novatrice. D'Ouville met Jodelet au centre de sa pièce car c'est lui qui joue le personnage de l'astrologue et sa pièce se rapproche ainsi d'un autre type de comédie espagnole, la *comedia de figuron*. Dans la version française, le valet est l'imposteur, ce qui lui demande de grandes qualités d'acteur et un sens de la répartie à toute épreuve. Il réussit à embrouiller Arimant qui lui pose des questions sur l'astrologie et parvient à berner tout le monde. Jodelet fait ainsi preuve de certaines qualités d'esprit et ressemble en cela plus au type du valet-malin qu'à celui du valet-lourdaud. Là encore, le personnage de Jodelet prend en charge le comique de la pièce.
+
+Ce mélange des rôles au sein de la construction du personnage de Jodelet brouille quelque peu la cohérence de ce dernier. En effet, il semble étrange que ce valet puisse être à la fois rusé et cupide, fin et habile. Le travail de reconstitution textuelle effectué par d'Ouville est à l'origine de cette dualité au sein du personnage de Jodelet. En effet, il a conservé certaines tirades de l'astrologue de la pièce espagnole et les a attribuées à Jodelet. Mais, chez Calderón, l'astrologue est un noble gentilhomme dont les préoccupations sont celles de son rang. Cela crée certaines incohérences dans les attitudes de Jodelet. En voici un exemple : chez Calderón, Don Diégo craint que son imposture soit découverte et que son honneur en soit entâché. Chez d'Ouville, Jodelet connaît à l'acte III scène 2 certaines appréhensions et redoute d'être confondu.
+
+
+JODELET.
+Et moy, quoy que je sois un parfait ignorant,  
+Si je passe par tout aujourd'huy pour sçavant,  
+Quand je seray cognu pour qui je suis peut-estre,  
+Je me repentiray de m'estre fait cognoistre,  
+Je passeray pourtant pour tel, puis qu'il vous plaist. (v. 1033-1037)  
+
+Ce genre de préoccupations ne correspond pas au statut social de Jodelet. Les valets n'ont que faire d'ordinaire de leur réputation. Un valet classique se serait jeté dans la duperie sans états d'âmes et a tendance à ne pas anticiper, redouter les conséquences de ses actes. D'Ouville, sans faire un véritable écart par rapport au principe de vraisemblance, nous présente un valet à la personnalité plus complexe que dans la plupart des comédies classiques.
+
+
+### Timandre
+
+Ce personnage est le type même du gentilhomme. Si Jodelet est son complice dans son entreprise amoureuse, il devient ensuite le complice de son valet dans la ruse de l'astrologue. Il a un sens de l'honneur très important et en cela, d'Ouville a conservé quelque chose de la pièce de Calderón, empreinte de tradition espagnole. Timandre est en effet scandalisé par le mensonge de Liliane, non pas tant parce qu'elle en aime un autre, mais parce qu'elle prétend être ce qu'elle n'est pas, c'est-à-dire une femme d'honneur désintéressée des choses de l'amour. Cette imposture heurte son sens de l'honneur. De même, une fois qu'il réalise que les reproches qu'il fait à Liliane mettent Nise dans une situation délicate, il se rappelle ce qu'il lui doit et dès lors devient le complice de Jodelet pour innocenter la servante de Liliane. Timandre assume ainsi ses actes et accepte de s'impliquer dans une fourbe, contraire à la noblesse de son rang, de façon à sauver la mise à une personne, fut-elle une servante, qu'il a mise en difficulté. D'autre part, Timandre, bien qu'il ait été trompé et méprisé par Liliane, ne se montre pas rancunier. Après lui avoir fait la morale au début de l'acte II, il n'essaie pas d'entraver son mariage avec Tindare et l'encourage même dans la dernière scène. Contrairement à Don Diego chez Calderón, ce n'est pas lui qui dénonce Tindare comme le responsable de la disparition du bijou de Liliane.
+
+Son inconstance amoureuse peut rendre suspect le personnage de Timandre. À l'acte I, Timandre nous apparaît désespéré devant l'indifférence de Liliane et il lui déclare son amour avec beaucoup d'emphase. Puis rapidement il oublie sa déception amoureuse et se concentre sur la fourbe de son valet. Il s'amuse des situations provoquées par cette imposture et à l'acte V, Timandre affirme ne plus rien ressentir pour Liliane. Ce revirement sentimental provient de la version de Calderón. Dans la tradition romanesque espagnole, ces amours fluctuantes sont courantes et contribuent à l'esthétique baroque. Dans la pièce de d'Ouville, cela nuit à la vraisemblance du personnage de Timandre car une telle inconstance ne sied pas à la grandeur du rang du gentilhomme.
+
+
+### Tindare
+
+Le personnage de Tindare, qui est pourtant au centre de l'intrigue amoureuse, est quasiment inconsistant. Il n'apparaît que dans peu de scènes (I, 1 ; IV, 1, 2, 5, 6 ; V, 6, 7, 9, 10, 11). D'autre part, d'Ouville a coupé toutes ses grandes tirades du début de la pièce de Calderón. De ce fait, ce personnage est sans grande consistance. Comme pour le personnage de Liliane, Tindare est dit d'une grande noblesse d'âme mais ses actions contredisent cette prétendue vertu. Lui aussi ment et dissimule. Il fait croire à Jacinte qu'il lui est toujours attaché et la laisse l'attendre dans le désespoir. Le public espagnol, féru des intrigues et quiproquos amoureux n'est pas gêné par ce personnage mais, au regard de la tradition classique, Tindare n'agit pas comme le voudrait son statut de gentilhomme. Cependant, lui aussi fait preuve d'une grande loyauté à l'égard de Liliane. Lorsque Arimant vient lui demander le bijou de sa fille, Tindare s'accuse afin d'innocenter celle qu'il aime. Ce couple d'amoureux semble en fait placer son sens de l'honneur dans leur constance sentimentale et dans leur dévouement à l'être aimé mais, quand il s'agit de sauver cet amour, la fin honorable justifie des actes qui le sont moins.
+
+
+### Liliane
+
+Dans la pièce de Calderón, Maria a un caractère de feu et reflète les valeurs espagnoles de l'époque. Le sens de l'honneur dicte sa conduite. Au début de la pièce, elle méprise l'amour de l'homme qu'elle aime car son honneur lui commande de ne pas avouer ses sentiments, afin d'être toujours respectée. Puis, de peur qu'il se fasse tuer à la guerre, elle cède et lui dit son amour. Chez d'Ouville, Liliane est d'emblée présentée comme la maîtresse de Tindare. Ses discours sur l'honneur font ainsi moins sens car ils ne sont jamais illustrés. Liliane, au contraire, est toujours dans le mensonge, auprès de Timandre, de son père, et dans la dissimulation car elle rencontre Tindare la nuit, et ce depuis six mois. Chez Calderón, c'est Don Juan qui prend l'initiative de mentir en disant venir trouver Leonardo de la part de son frère. Chez d'Ouville, Nise renseigne Tindare et cette idée semble ainsi venir de Liliane. Ce personnage se rapproche d'avantage de l'amante passionnée, prête à tout pour sauver son amour. Si ce personnage et ses contradictions ne heurtent pas le public espagnol aimant avant tout les contrastes et les jeux amoureux, la distance évidente qui existe entre ses actions et son discours sur le sens de l'honneur crée une impression de dissonance dans la pièce française. Une telle attitude ne convient par ailleurs pas au rang social de Liliane. Cependant, Liliane met un point d'honneur à n'aimer que Tindare. Dans la pièce espagnole, Maria n'écoute pas les arguments de Beatriz quand elle lui vante les qualités d'un second prétendant, Don Diego, car elle affirme n'aimer que Don Juan. Chez d'Ouville, Liliane semble connaître plus de doute mais reste fidèle à l'amour de Tindare avant tout par sens de la loyauté comme le montre cette tirade à l'Acte I, scène 2 :
+
+Oüy, Nise, asseure-toy que j'ay trop de courage,  
+Pour rejetter Tindare, il a receu de moy  
+Depuis six mois entiers des gages de ma foy,  
+Tels que je ne sçaurois à present m'en desdire. (v. 68-71)  
+
+
+### Nise
+
+Nise est le personnage type de la servante. Elle aide sa maîtresse dans ses entreprises amoureuses, écoutes ses confidences, est la complice de ses rendez-vous nocturnes avec Tindare. Elle aime et est aimée du valet d'un autre prétendant de sa maîtresse, Jodelet, et joue de ce fait les entremetteuses entre Timandre et Liliane. C'est pour cette même raison qu'elle trahit le secret de sa maîtresse à la fin de l'acte I, Jodelet lui ayant fait du chantage affectif. Nise est en fait un véritable moteur dans la pièce de d'Ouville car c'est elle qui renseigne tous les personnages. En effet, c'est par sa bouche que Jodelet apprend l'amour de Liliane pour Tindare. Elle impulse ainsi l'intrigue car c'est pour lui sauver la mise que Jodelet et Timandre inventent la ruse de l'astrologue. Par la suite, Nise tient Jodelet au courant de ce qui se passe sous le toit d'Arimant de façon à pouvoir alimenter ses prédictions. C'est elle encore qui vient trouver Tindare pour lui conseiller de prétendre auprès d'Arimant être envoyé de la part de son frère à Turin. Elle tient ainsi plusieurs fils de l'intrigue.
+
+
+### Jacinte
+
+C'est le deuxième personnage féminin de la pièce. Elle croit que Tindare, dont elle est aussi éperdument amoureuse, vit depuis six mois en Italie et elle l'attend patiemment. Comme Liliane, elle décide de lui rester fidèle et respecte, par sens de l'honneur, la parole donnée. Elle est en fait la femme victime de la pièce dans la mesure où Tindare ne garde quelques liens épistolaires avec elle qu'afin de sauver les apparences et de pouvoir aimer Liliane sans éveiller les soupçons. À la fin de la pièce, c'est elle qui provoque le dénouement de l'intrigue en arrivant chez Arimant pour dénoncer la relation entre Tindare et Liliane. Elle accepte ensuite d'épouser Ariste considérant qu'il le mérite, pour avoir été toujours loyal envers elle.
+
+
+### Julie
+
+Ce personnage de servante est très classique et est avant tout présent dans les scènes de confidences. Jacinte lui fait part des joies et tristesses que lui apporte son amour pour Tindare. Elle est poltronne quand l'apparition de Tindare doit arriver et elle lui ferme la porte au nez lorsqu'il s'adresse à elle. Elle se montre cependant plus clairvoyante que sa maîtresse lorsque Tindare dit à Jacinte aimer ailleurs et ne rien ressentir à son égard. Jacinte, faisant confiance aux prédictions de Jodelet, croit à une indifférence feinte. Julie émet certaines réserves et objecte à sa maîtresse que Tindare a l'air tout à fait sincère.
+
+
+### Ariste
+
+Ce personnage est le type même du gentilhomme et l'ami loyal. Il est très fidèle vis-à-vis de son ami Tindare et accepte de l'héberger pendant six mois dans le plus grand secret. Cela est d'autant plus noble qu'il croit que Tindare se cache chez lui de façon à vivre son amour avec Jacinte, dont Ariste est amoureux en secret. Même une fois renseigné sur la véritable identité de la maîtresse de Tindare, Ariste se reproche son manque d'amitié à l'égard de son ami lorsqu'il se rend chez Jacinte afin de mesurer la profondeur des sentiments qu'elle nourrit pour Tindare. De même lorsque Jacinte lui fait part de son envie de voir Tindare, Ariste s'apprête à dénoncer le secret de son ami et lui affirme pouvoir lui faire voir Tindare très facilement mais il se rattrape au dernier moment en imaginant l'industrie suivante : il conseille à Jacinte d'aller trouver Jodelet qui a le don de faire voir les absents. Jacinte accepte la demande en mariage d'Ariste dans la dernière scène en disant qu'il mérite bien cette récompense. Jacinte fait ici référence à la noblesse d'âme de ce très loyal gentilhomme.
+
+
+### Acaste
+
+Lui aussi incarne un gentilhomme et surtout un ami fidèle. Il est le confident et le complice de Timandre. Il s'implique dans son amour pour Liliane et va trouver Ariste pour lui demander confirmation de la présence de Tindare dans Paris. Il l'aide dans sa ruse et la sert en faisant courir la rumeur des dons de Jodelet. Il est également un représentant de la morale et du bon jugement. C'est lui qui s'enquiert auprès de Timandre afin de savoir si sa ruse ne vise pas à empêcher le mariage de Liliane et Tindare. C'est lui encore qui rassure Jodelet en lui affirmant qu'il peut faire illusion sur ses dons dans la mesure où c'est également ce que font les prétendus véritables astrologues. Acaste est un personnage censé, que la fourbe amuse beaucoup et qui veille à ce que la farce soit toujours légère, sans but mesquin, c'est-à-dire qu'elle reste un jeu, du théâtre.
+
+
+### Arimant
+
+Ce personnage est le garant de l'autorité et de l'honneur. Liliane craint ce père qui la destine à un mariage avec un homme fortuné et tous les personnages de la pièce sont impressionnés par lui. Jodelet, qui craint d'être démasqué par cet homme respectable, préfère avouer son ignorance. La sagesse d'Arimant le pousse à penser que tant d'humilité ne peut que cacher un grand talent. C'est également un personnage de savoir car lui seul met à mal la fourbe de Jodelet en l'interrogeant sur certains aspects de cette science qu'il dit connaître. Dans la dernière scène, il accepte le mariage de sa fille avec Tindare car il craint que l'honneur de sa famille ne soit entâché. À la toute fin de la scène, sa fille s'en remet à son autorité pour décider du mariage de Nise avec Jodelet.
+
+
+### Moron
+
+Ce page n'a pas une grande importance dans la pièce de d'Ouville. Il est simplement le prétexte à un épisode comique dans le dernier acte. Souhaitant rentrer dans son pays natal, il se laisse berner par Jodelet qui lui bande les yeux puis le dépouille de sa bourse. Il reste immobile, les yeux fermés, dans le jardin durant deux scènes, parlant tout seul, croyant être en chemin, ce qui crée un effet très comique.
+
+
+# Le comique
+
+Les critiques à l'encontre des adaptations de d'Ouville semblent ne pas prendre en compte la caractéristique principale du théâtre de cet auteur. Si d'Ouville n'a pas particulièrement soigné l'intrigue et la cohérence de sa pièce, s'il n'a pas cherché à doter ses personnages de caractères propres, si encore le style n'est pas des plus recherchés, c'est que son but est ailleurs. Les comédies de d'Ouville attirent le public parisien et sont réputées pour le faire rire. Le comique est ce que d'Ouville soigne le plus dans ses pièces.
+
+L'objet et la qualité principale de *Jodelet astrologue* sont, comme son titre l'indique, le personnage de Jodelet et plus précisément encore le jeu du comédien Julien Bedeau. Cette pièce se veut divertissante et le comique en est la caractéristique principale.
+
+
+## La prédominance accordée au comique
+
+L'importance du personnage de Jodelet montre la volonté de d'Ouville d'inscrire sa pièce dans la tonalité comique
+
+
+### Qui est Jodelet ?
+
+Nous ne disposons d'aucune information sur les débuts de la carrière de Julien Geoffrin Bedeau, dit Jodelet. Le nom de l'acteur appararaît en effet pour la première fois sur le bail du Théâtre du Maris, le 8 mars 1634 [17]. Or, à cette époque, l'acteur devait avoir plus de trente ans et était sûrement comédien depuis plusieurs années. Il est vraisemblable, selon S Wilma, qu'il ait exercé en Province avant cette date. En 1634 toujours, sur ordre du roi, Julien Bedeau passa en à l'Hôtel de Bourgogne. Il retourna en 1642 au Marais où il connut un véritable triomphe jusqu'en 1659, date à laquelle il passa dans la troupe de Molière et joua dans *Les précieuses ridicules*. Il mourrut peu de temps après.
+
+Son succès devint véritablement important avec *Le Menteur* (1642) et *La Suite du menteur* (1643) de Pierre Corneille. Tallemant des Réaux écrivit : « Jodelet … est un bon acteur ; il n'y a plus de farce qu'au Marais où il est, et c'est à cause de lui qu'il y en a. » [18] Le public se montra très enthousiaste et par la suite, plusieurs dramaturges écrivirent des pièces spécialement pour lui et leur donnèrent son nom. Scarron écrivit *Jodelet ou le maître valet* (1645), *Jodelet duelliste* (1646), d'Ouville lui consacra *Jodelet astrologue* (1646) et enfin Thomas Corneille écrivit *Jodelet Prince* (1655). Ces différents titres sonnent comme les noms d'épisodes consacrés à ce personnage et le public de l'époque devait ainsi rire d'avance à l'idée de retrouver Jodelet sous un nouveau déguisement, dans de nouvelles aventures. 
+
+
+### La naissance d'un personnage et d'un jeu de scène comiques
+
+Jodelet se spécialisa dès ses débuts dans les rôles de valet, et créa un type particulier : glouton, rusé, poltron, vantard et grossier, c'est-à-dire le personnage type du *gracioso*. Parfois, il prenait la place de son maître et faisait le gentilhomme, accumulant les bêtises dont on accusait ensuite son maître. Ce comédien était très apprécié surtout pour son jeu de scène tout à fait personnel. Pierre David Lemazurier évoque le jeu de scène de Jodelet : « Les traits de son visage étaient si marqués et si comiques, qu'il n'avait qu'à se montrer pour exciter les éclats de rire; il savait les augmenter encore par la surprise qu'il témoignait en voyant rire les spectateurs. Il parlait du nez, et ce défaut rendait son débit beaucoup plus burlesque qu'on ne peut l'imaginer.» [19]
+
+
+### Une pièce écrite pour le comédien
+
+D'Ouville fit jouer cette pièce quelques temps après le fameux *Jodelet ou le maître valet* de Scarron et profita du succès incroyable de ce comédien. L'auteur écrivit ainsi cette pièce et le personnage de Jodelet pour le comédien. C'est pourquoi, outre le fait de donner son nom à la pièce, il attribua le rôle de l'astrologue au valet. Il souhaita ainsi mettre Jodelet sur le devant de la scène. Plusieurs répliques dans la pièce font directement référence aux caractéristiques de l'acteur et montrent ainsi combien, jusque dans le texte, cette pièce lui est dédiée.
+
+Le physique comique de Jodelet est à plusieurs reprises mentionné par les différents personnages. À la scène 4 de l'acte III, Ariste s'exclame (v. 861) :
+
+Cet homme si mal fait ? que je voy si souvent ?  
+
+Jacinte également évoque les caractéristiques particulières de Jodelet (III, 5, v. 991) :
+
+Comment ce nazillard ? cette triste figure ?  
+
+Cette tirade surtout amusait sûrement beaucoup le public car Jodelet savait déclencher le rire rien qu'en ouvrant la bouche car il parlait du nez. Enfin, cet extrait de la scène 7 de l'acte IV (v. 1406-1408) joue sur la silhouette du comédien :
+
+
+NISE.
+Tu me sembles avoir fort peu d'inquietude,  
+Tu n'en es point maigri, je te trouve en bon point.  
+
+JODELET.
+Quand l'exercice plaist, on n'en emmaigrit point :  
+
+Deux interprétations sont possibles pour cette réplique. Les illustrations dont nous disposons montrent toujours un Jodelet très maigre, le visage émacié et c'est l'image qu'ont gardé nos contemporains comme le montre cette description du personnage par Henri Lyonnet [20] : « Grand, maigre, laid, les yeux petits et vifs, les sourcils épais, la bouche grande, le nez long et concave ». Le comique de cette tirade reposerait ainsi sur une antiphrase soulignant le fait que Jodelet est plus maigre que jamais. Cependant, un auteur contemporain de Jodelet, Tallemant des Réaux, le décrit tout autrement, en marge de son manuscrit,  dans l'historiette qui lui est consacrée: « Jodelet jouait de préférence les rôles de valet couard et stupide. Il était gros quand il joua *Jodelet astrologue* et maigre dans les* Précieuses ridicules* » [21]. Le comique résiderait alors dans le fait justement que Jodelet est en surpoids.
+
+Toutes ces références au physique de Jodelet montrent que d'Ouville s'est véritablement inspiré de ce personnage pour écrire sa pièce et qu'il a tout fait pour le mettre en valeur. Le jeu du comédien Jodelet apporte beaucoup au jeu sur le langage et au comique de geste.
+
+
+## La nature du comique
+
+
+### Le comique de geste
+
+Le jeu scénique de Jodelet est le principal ressort comique de la pièce. À la scène 2 de l'acte III, il compose son personnage d'astrologue (v. 795-798):
+
+Je ne parleray point qu'aussi-tost je ne face  
+En fronçant le sourci quelque estrange grimace,  
+Je tourneray les yeux quelquefois de travers,  
+Je sçauray composer mille gestes divers,  
+
+Cette tirade fait directement référence au jeu de scène très expressif du comédien, réputé pour déclencher les rires du public. Les paroles d'Ariste, à l'acte III, scène 4 reviennent sur cette particularité du jeu de Jodelet (v. 885-886) :
+
+Mais je remarqué lors que ce valet icy  
+Grimassoit en resvant, et fronçoit le sourcy,  
+
+Ces vers devaient sûrement déclencher le rire des spectateurs qui reconnaissaient immédiatement les mimiques de l'acteur. Si les didascalies sont absentes lorsqu'il s'agit de décrire le jeu de scène des acteurs, il est possible d'imaginer que Jodelet grimaçait beaucoup, exagérait le roulement de ses yeux et son ton nasillard lorsqu'il se lançait dans ses prédictions. Chez Calderón, Don Diego fait des effets de voix et de grimace pour simuler l'intense concentration. Cela doit avoir inspiré d'Ouville qui comptait sur les talents d'acteur de Jodelet pour caricaturer de façon comique l'attitude du devin inspiré.
+
+
+### Le comique de mots
+
+
+#### Les Jodeletteries
+
+Les valets interprétés par Jodelet étaient réputés pour leurs jeux de mots et leurs néologismes. D'Ouville s'inspire encore de cette caractéristique du comédien dans sa pièce. À la scène 7 de l'acte IV (v.1408-1409), Nise fait référence à la silhouette de Jodelet :
+
+Tu n'en es point maigri, je te trouve en bon point.  
+
+JODELET.
+Quand l'exercice plaist, on n'en emmaigrit point :  
+
+Dans la réplique de Nise, cette dernière fait fusionner la formule *être en bon point* signifiant « être en bonne santé » (*Richelet*) et le mot *embonpoint* qui ironise quant à la physionomie de Jodelet. Le terme que Jodelet emploie dans sa réponse n'est pas attesté dans les dictionnaires. Il semble qu'il s'agisse d'un néologisme composé à partir du verbe *maigrir* et suivant la structure du verbe *engrosser*. Nise et Jodelet sont des valets qui ne maîtrisent pas parfaitement la langue. Ces créations langagières proviennent d'erreurs et de confusions, ce qui leur confère une importante charge comique.
+
+Dans la scène suivante, Arimant interroge Jodelet sur l'astrologie :
+
+
+ARIMANT.
+Encore, que dis-tu de tous ces Animaux  
+Qu'on nous peint dans le Ciel ? ces hydres, ces taureaux,  
+Ces affreux scorpions, la chaude canicule,  
+Qui jusqu'aux intestins nous eschauffe et nous brusle,  
+Le lyon rugissant, l'ourse de Caliston.  
+
+JODELET.
+On les nomme à present bien d'une autre façon.  
+Pour vous rendre sçavant dedans l'Astrologie,  
+Il vous faut commencer par la Mitologie.  
+Cette science est rare, et faut plus d'une fois  
+Pour s'y rendre congru, suer dans le harnois.  
+L'estoile qui paroist à nos yeux la premiere  
+Dessus nostre horizon, s'appelle pouciniere,  
+De mine mordicante, et d'un aspect hagard,  
+Excusez-moy, Monsieur, ce sont termes de l'art.  
+Mais pour cette heure ici, cela vous doit suffire,  
+Car je serois trop long si je voulois tout dire. (v. 1495-1510)  
+
+Arimant nomme les différentes constellations et utilise ainsi un vocabulaire précis qui peut paraître obscur pour les non connaisseurs. Jodelet, qui souhaite paraître savant lui aussi, répond par une tirade compliquée, qui se veut recherchée et hermétique. C'est la raison pour laquelle il s'excuse à la fin de sa tirade, sûrement devant l'air interloqué d'Arimant, perplexe et affichant vraisemblablement son incompréhension. Le comique de cette tirade provient d'abord du vers 1504. Il semble qu'ici Jodelet confonde plusieurs expressions. Le verbe *suer* signifie « travailler beaucoup », selon Richelet ; le nom *harnois* désigne l' « habillement d'un homme d'arme » (toujours selon Richelet) mais Furetière écrit « proverbialement on dit qu'un homme sue dans son harnois quand il est trop vêtu ». La fusion de ces deux expressions qui convoquent deux réalités très éloignées, une sérieuse et l'autre très triviale, provoque une décharge comique. Les deux vers suivants comprennent plusieurs mots dont l'utilisation est impropre. La définition que donne Furetière du mot « poussinière » est la suivante : « ce mot ne se dit que de l'étoile poussinière : c'est le nom que le peuple donne à la Constellation des Pleiades, » « constellation formée de sept étoiles … pluvieuses et orageuses fort redoutées des gens de mer». Ce mot est peu courant et doit provoquer ainsi la surprise. D'autre part, il appartient au langage populaire et ne sied pas au discours prétendument scientifique de Jodelet. Enfin, il décrit cette constellation avec les adjectifs suivants « Mordicant » et « hagard » qui, en aucun cas, ne peuvent qualifier une étoile. Cette imitation ratée du discours scientifique, marquée par les inventions langagières de Jodelet, contient ainsi une forte charge comique.
+
+Le jargon de l'astrologie dans la bouche de Jodelet offre des possibilités multiples et se prête facilement aux improvisations fantaisistes. À la scène 8 de l'acte de V, Jodelet réutilise les termes employés par Arimant à l'acte précedent lorsqu'il désigne certaines constellations.
+
+
+JODELET.
+Il faut presentement te bander le visage,  
+Tu n'as, je le sçay bien, point manque de courage,  
+Mais il faudra passer par tant de regions,  
+Voir au Ciel des taureaux, des tigres, des lions,  
+Des Hidres, des serpens, des monstres effroyables,  
+Et tu te donnerois de peur, à tous les diables. (v. 1821-1826)  
+
+Dans cette tirade, ces mots de Jodelet provoquent le rire car il les emploie au premier degré, dans leur réalité concrète et prosaïque. La maladresse légendaire du comédien, sa naïveté ainsi que son jeu de scène expressif font que d'Ouville met Jodelet au cœur du comique de la pièce, surtout pour le comique de gestes et celui de mots.
+
+
+#### Le double langage
+
+À la scène 6 de l'acte IV, Tindare se présente à Arimant afin que lui soient ouvertes les portes de sa demeure et prétend venir de la part de son frère de Turin. Il complimente ensuite le maître de maison afin de le remercier de son hospitalité et fait de même auprès de Liliane. Dans cette dernière tirade, Tindare utilise un double langage. Il déclare à nouveau sa flamme à Liliane en dissimulant ses mots d'amour dans un discours apparemment poli et conventionnel. Cette scène est comique car Arimant ne se rend compte de rien et, au contraire, presse sa fille de répondre à ces compliments. Liliane s'exécute et reformule ses promesses amoureuses et son dévouement pour Tindare et ce, de manière détournée, sous les yeux de son père. Tindare prend ensuite congé de ces deux personnages et dit à Liliane :
+
+Vous me faites tous deux rougir de tant d'honneur,  
+Je vous baise à tous deux les mains. (v. 1395-1396)  
+
+Dans cette dernière réplique qui met fin à ce jeu de langage à double entente, Tindare joue sur le double sens de l'expression *« Je vous baise les mains »* qui peut tout à la fois être une simple formule de politesse et renvoyer à l'idée d'un geste tendre témoignant de l'amour de Tindare pour Liliane.
+
+
+### Le comique de situation
+
+Le jeu sur les fausses prédictions de Jodelet offre des possibilités multiples pour créer des situations cocasses. Les quiproquos sont nombreux et font chaque fois se rencontrer un innocent trompé par l'astrologue et un personnage averti.
+
+
+#### Les quiproquos
+
+Jodelet manipule les différents personnages de la pièce grâce à son prétendu talent d'astrologue. Au courant de tout, il révèle certaines vérités tenues secrètes, de façon à maintenir l'illusion de son don de devin. Cela entraîne plusieurs scènes de quiproquo qui participent au comique de la pièce. 
+
+La scène 4 de l'acte de IV est une des scènes les plus comiques de la pièce. Jacinte se trouve en présence de ce qu'elle croit être le fantôme de Tindare qu'elle a convoqué à travers une lettre, avec l'aide de Jodelet. Ce dernier, au courant de la présence de Tindare dans Paris, lui a en réalité simplement fait parvenir cette lettre. Tindare croit que Jacinte a découvert son infidélité et s'apprête à devoir se justifier. Persuadée d'être face à une image magique, Jacinte prend peur et chasse Tindare qui pense que cette hostilité est dûe à de la rancœur. Les deux personnages se parlent ainsi sans se comprendre et leur étonnement mutuel comprend un fort potentiel comique :
+
+
+TINDARE.
+Qu'est-ce-cy donc ? Madame, est-ce peur, ou courrous ?  
+Escoutez mes raisons, oyez-moy, je vous prie.  
+
+JACINTE.
+Ma curiosité me coustera la vie,  
+Je meurs, je n'en puis plus, j'ay le sang tout glacé.  
+
+TINDARE.
+Quoy que vous ayez sceu tout ce qui s'est passé,  
+Vous m'excuserez bien.  
+
+JACINTE.
+Tay-toy, je te supplie,  
+Fantosme, promptement retourne en Italie,  
+Ou je te quitte-là. (v. 1312-1319)  
+
+Tindare ne peut que s'étonner de la frayeur de Jacinte. En effet, il est mandé par une lettre de sa main et ne peut comprendre la surprise qu'elle manifeste à sa venue.
+
+À la scène 6 de l'acte V, Arimant vient réclamer le bijou de Liliane à Tindare car Jodelet lui a révélé qu'il était en sa possession. Tindare croit alors qu'Arimant sait son amour pour sa fille et qu'il pense son honneur entaché. C'est la raison pour laquelle il s'accuse dans un premier temps, afin d'innocenter sa maîtresse. Arimant s'étonne de voir ce qu'il croit être un simple voleur avouer son crime avec tant d'honnêteté :
+
+
+ARIMANT.
+Quand je veux l'excuser, luy-mesme il se condamne.  
+La conscience, ô Dieux ! est un trop fort tesmoin, (v. 1766-1767)  
+
+Par la suite, Tindare, pensant sa relation avec Liliane découverte, demande la main de sa fille à Arimant. Ceci achève de déconcerter ce dernier qui croit avoir affaire à fou :
+
+
+ARIMANT.
+Cet homme est fol sans doute, il a perdu le sens.  
+Monsieur, une autrefois prenez mieux vostre temps,  
+Vous me demandez donc ma fille en mariage ?  
+Vous révez, que je croy, mais estes-vous bien sage ? (v. 1779-1782)  
+
+L'incompréhension des deux personnages provient du fait qu'ils ne disposent pas des mêmes informations et Tindare ne peut deviner l'intervention de Jodelet. Ce malentendu est une conséquence directe des prédictions du feint astrologue. Le manège de Jodelet provoque encore un quiproquo fort comique vers le même moment de la pièce, là où les conséquences des dires de Jodelet se font sentir et où le spectateur pressent la découverte de son imposture. À la scène 7 de l'acte V, Jacinte va reprocher à Tindare son indifférence, persuadée de l'amour qu'il lui porte malgré les apparences, comme le lui a affirmé Jodelet. Tindare se montre très distant et lui avoue de façon directe qu'il aime ailleurs. Le comique de cette scène provient de l'aveuglement de Jacinte qui continue à croire que Tindare simule l'indifférence et qui admire en aparté ses talents d'acteurs :
+
+
+JACINTE.
+Voyez qu'il est adroit à déguiser sa flame.  
+
+JULIE.
+Il ne déguise rien, Madame, que je croy.  
+
+JACINTE.
+Avec tous ces mespris il meurt d'amour pour moy. (v. 1806-1808)  
+
+Le contraste évident entre les propos de Tindare et l'interprétation qu'en fait Jacinte contient une importante charge comique.
+
+Ainsi le jeu de Jodelet provoque de nombreux malentendus. Il se joue des différents personnages et les met tout au long de la pièce dans des situations fort comiques.
+
+
+#### La crédulité des personnages
+
+Les prédictions de Jodelet sont comiques car elles rencontrent un public naïf. Les personnages, victimes de la supercherie de Jodelet, se laissent en effet aisément convaincre que les vérités énoncées par Jodelet proviennent bien d'un don quelque peu surnaturel. À la scène 7 de l'acte III, Jacinte vient demander à Jodelet de lui faire apparaître l'image de son amant Tindare. Jodelet connaît Tindare et saisit cette occasion de faire croire en ses talents. Il prétend réussir à identifier l'amant de Jacinte, un gentilhomme vivant depuis six mois en Italie, puis le décrit. Ces propos de Jodelet suscitent l'admiration de Jacinte et de sa servante :
+
+
+JULIE.
+Ah ! le merveilleux homme !  
+Est-il possible, ô Dieux ! qu'il ait un tel esprit ?  
+Je suis tout hors de moy, qui luy peut avoir dit ?  
+
+JACINTE.
+Le sçavois-je pas bien ! c'est un homme admirable,  
+Ce que vous dites-là n'est que trop veritable,  
+C'est le mesme en effet. (v. 1128-1133)  
+
+Ces réactions sont comiques dans la mesure où le spectateur sait parfaitement que les prédictions de Jodelet sont en réalités des choses très bien connues de lui. D'autre part, l'émerveillement de Jacinte est d'autant plus amusant qu'elle oublie ce qu'elle a donné elle-même comme indications, à savoir que Tindare vit depuis six mois en Italie.
+
+Jodelet se joue de plusieurs personnages mais aucune ruse n'est plus comique que celle qu'il invente pour Moron. Jodelet entraîne le vieux page dans des situations cocasses. Il lui bande les yeux, le fait s'asseoir sur un banc puis le laisse là, sans bourse, persuadé qu'il est en train d'effectuer un voyage dans les airs. Moron parle ainsi tout seul, commente son voyage et ses répliques viennent ponctuer celles des autres réunis dans le jardin d'Arimant, dans les dernières scènes de l'acte V. La crédulité du vieux page et le ridicule de la situation dans laquelle le met Jodelet provoquent le rire et rapprochent les dernières scènes de la pièce de la farce par certains aspects.
+
+Le comique de la pièce revêt ainsi de nombreux aspects mais il est possible d'affirmer que c'est le personnage de Jodelet qui est en charge du rire. Si ce ne sont pas ses pitreries, ou ses inventions langagières qui amusent le public, ce sont les conséquences de ses prédictions, les situations dans lesquelles il implique les autres personnages. Cette prédominance du personnage comique de Jodelet est encore la preuve de la volonté de d'Ouville de profiter de la notoriété du comédien pour assurer le succès de sa pièce.
+
+
+# La thématique du secret impossible
+
+
+## Le plaisir de se faire prier
+
+À la base de la pièce est un secret, celui de l'amour qui unit Liliane et Tindare. Dans la première scène, le vocabulaire du secret est extrêmement présent et place immédiatement le spectateur dans la position du confident.
+
+
+LILIANE.
+Sans perdre plus de temps retirez-vous, Tindare,  
+Sur tout souvenez-vous d'estre sage et discret,  
+De m'aymer comme il faut, et garder le secret. (v. 20-22)  
+
+Au fur et à mesure de la pièce, la nouvelle de cette relation cachée s'ébruite et nourrit l'intrigue. Chaque personnage mis au courant de ce secret promet de ne pas le répéter. Chaque fois, mourant d'envie de révéler ce qu'il sait, il aiguise la curiosité d'un autre personnage puis se fait prier de révéler ce secret, ce qu'il ne manque pas de faire assez rapidement. Ce schéma a ceci de drôle qu'il se répète tout au long de la pièce et participe ainsi au comique de la pièce.
+
+À plusieurs reprises, les personnages trahissent un secret en feignant vouloir le garder. À la scène 5 de l'acte I, Nise trahit la première le secret de Liliane. Après s'être exclamée au vers 261-262 :
+
+J'aymerois mieux mourir, car j'ay juré ma foy  
+De n'en parler jamais.  
+
+elle s'assure ensuite, pour se donner bonne conscience, que Jodelet lui donne sa parole de ne rien révéler vers 277-278 :
+
+Jure moy donc avant de n'en parler jamais,  
+Et je te le diray.  
+
+Ce jeu autour de secret montre comment le refus de parler puis les prétendues précautions prises avant de dévoiler un secret sont convenus et font partie d'un rituel auquel personne ne croit. Jodelet moque la coquetterie de Nise :
+
+Tu brusle de le dire, à ce que je puis voir,  
+Cent fois plus que je n'ay desir de le sçavoir. (v. 269-270)  
+
+Timandre agit de la même manière à la scène 5 de l'acte II. Il excite la curiosité de son ami et feint ensuite de résister à la tentation de tout lui dire pour changer d'avis deux vers plus tard.
+
+
+TIMANDRE.
+Je vous la dirois bien.  
+Mais j'ay fait un serment.  
+
+ACASTE.
+Vous ne me direz rien ?  
+Me traittez-vous ainsi ? ce procedé m'offence.  
+
+TIMANDRE.
+Quoy que la chose soit de tres-grande importance,  
+Je n'ay, vous le sçavez, rien de caché pour vous,  
+Je vous le diray donc, mais, Acaste entre nous. (v. 665-670)  
+
+Ces changements soudains d'attitude sont comiques et il est possible d'imaginer que ces scènes de confidence étaient jouées de façon exagérée, les comédiens forçant le jeu de façon à montrer la mauvaise foi des personnages. L'inconstance de Timandre pouvait être ici soulignée par l'usage d'un ton de voix grave et sérieux quand il dit être tenu au secret puis une voix légère, libérée du poids du silence dès qu'il se met parler.
+
+
+## Des promesses de circonstances
+
+La mauvaise foi de ceux qui reçoivent le secret est également soulignée dans la pièce de d'Ouville. Dans la scène 2 de l'acte I, Nise prête serment auprès de Liliane et use d'hyperboles convaincantes :
+
+Ne craignez rien de moy sur ce sujet, Madame,  
+Quoy d'aller reveler les secrets de vostre Ame ?  
+Je souffrirois plutost qu'on m'arrachast le cœur. (v. 123-125)  
+
+À la scène 6 de l'acte II, Acaste promet à Ariste qu'il ne répètera pas ce que ce dernier vient de lui apprendre tandis qu'il fait parler Ariste de façon à obtenir des renseignements pour Timandre. Dans ce cas, il fait une promesse sans même croire qu'il tiendra parole, comme de façon automatique. De même Jodelet assure Nise de sa discrétion à la scène 5 de l'acte I :
+
+Va je te le promets.  
+Mais quel serment, dy-moy, veux-tu que je te fasse ?  
+Puissay-je maintenant tomber dans ta disgrace,  
+Et ne te voir jamais si l'on le sçait par moy. (v. 278-281)  
+
+Puis, dès qu'il se retrouve seul, il se fait cette réflexion vers 325-330 :
+
+Je brusle de le dire, et je ne sçay comment  
+J'ay tenu ce secret caché si longuement,  
+La langue d'un valet est pire qu'un trompette,  
+Voy que Nise a tenu la chose bien secrette,  
+On me le vient d'apprendre au marais, et demain  
+On le sçaura sans doute au fauxbourg S.Germain.  
+
+Dans cette tirade dit en fait tout haut ce que chaque personnage semble penser en secret.
+
+Les promesses, les précautions prises avant de révéler un secret semblent ainsi n'être que pure coquetterie et faire partie d'un rituel auquel personne ne croit réellement. La mauvaise foi qui transparaît dans ces comportements typiques contient une charge comique d'autant plus importante qu'elle est accentuée par le phénomène de répétition.
+
+
+## Le gonflement de la rumeur
+
+La dernière caractéristique du secret présente dans la pièce de d'Ouville est celle de l'amplification proportionnelle au nombre de personnes mises au courant.
+
+Les talents de Jodelet augmentent au fur et à mesure de la pièce. Acaste se charge de faire circuler la rumeur selon laquelle Jodelet est un grand astrologue. Lorsqu'Acaste dévoile à Ariste les prodiges qu'il peut accomplir, il assure que Jodelet sait faire parler les portraits et prédire l'avenir. Quand ensuite Ariste fait part à Jacinte (III, 5) de ce qu'il vient d'apprendre, il exagère les talents de Jodelet et affirme :
+
+Madame, je cognois un homme qui peut tout,  
+Qui de tous vos desseins pourra venir à bout,  
+Et vous fera venir aujourd'huy sans obstacle  
+Tindare d'Italie en ce lieu par miracle. (v. 961-964)  
+
+Ce phénomène est remarqué par Acaste qui rie de l'ampleur qu'a prise la rumeur des talents de Jodelet à l'acte III, scène 6 :
+
+J'ay veu qu'on le sçavoit autant ou mieux que moy.  
+Et plusieurs raffinans dessus mon industrie,  
+Faisoient passer pour vraye entr'eux ma menterie. (v. 1022-1024)  
+
+C'est pourquoi les personnages de la pièce viennent tous chercher Jodelet afin qu'ils accomplissent des miracles de plus en plus incroyables. Jacinte demande à Jodelet à l'acte II scène 5 de rendre Tindare amoureux d'elle et qu'il cesse d'aimer Liliane. De même, à la scène suivante, Ariste supplie Jodelet de lui accorder l'amour de Jacinte. Enfin, Moron vient chercher l'aide de Jodelet afin qu'il le fasse voyager par les airs :
+
+tu peux en un moment  
+Me conduire chez moy par un enchantement, (v. 1727-1728)  
+
+Ainsi Moron a-t-il eu vent de ce talent de Jodelet, ignoré de lui-même. Cette amplification de la rumeur dépasse les personnages à l'origine de cette farce. En effet, Jodelet s'inquiète des proportions que prend sa ruse et craint d'être découvert. À la scène 1 de l'acte V, c'est au tour de Timandre de prendre peur devant l'ampleur de la plaisanterie :
+
+
+TIMANDRE.
+JE n'en puis plus, Acaste, et je perds patience.  
+
+ACASTE.
+Quoy ! si j'ay publié par tout cette science  
+Vous l'avez ordonné.  
+
+TIMANDRE.
+Je ne le puis nier,  
+Mais je ne voulois pas qu'on le tint pour sorcier. (v. 1513-1516)  
+
+Les personnages, qui ont pourtant tout manigancé, qui ont inventé ce stratagème et ont simulé de révéler un secret, perdent le contrôle de cette rumeur qui grandit de bouche en bouche. Leur mensonge les dépasse ce qui donne une tonalité comique à la pièce et montre une fois encore que les secrets ne peuvent être gardés.
+
+
+# Le théâtre dans le théâtre
+
+Calderón est l'auteur de la célèbre pièce *El gran teatro del mundo* et ses pièces mettent souvent le théâtre sur le devant de la scène. Dans *Jodelet astrologue*, d'Ouville reprend cette caractéristique de la pièce espagnole qu'est le théâtre dans le théâtre. En effet, les différents personnages sont amenés à jouer la comédie au fur et à mesure de la pièce. Le thème du plaisir pris dans ce divertissement théâtral s'exprime sous de nombreux aspects.
+
+
+## Le plaisir du jeu
+
+Jodelet commence le premier à jouer un rôle. Il feint d'être un astrologue et va devoir maintenir l'illusion tout au long de la pièce. Si le valet craint d'être découvert et humilié, il se prend cependant rapidement au jeu. En effet, Jodelet prend un certain plaisir à composer son personnage et à anticiper les réactions des victimes de sa farce.
+
+
+JODELET.
+Et moy, me croyez-vous l'esprit si peu rusé  
+Que chacun n'y soit pas par moy-mesme abusé ?  
+Je ne parleray point qu'aussi-tost je ne face  
+En fronçant le sourci quelque estrange grimace,  
+Je tourneray les yeux quelquefois de travers,  
+Je sçauray composer mille gestes divers, (III, 2, v. 793-798)  
+
+Lorsqu'Ariste vient trouver Jodelet afin de lui demander de rendre Jacinte amoureuse de lui, Jodelet effectue une petite mise en scène. Il fait mine de chercher une réponse sur les traits d'Ariste :
+
+
+JODELET
+Donnez-moy vostre main, regardez-moy sans rire,  
+Haussez les yeux vers moy, froncez-moy le sourci,  
+Rabaissez-les un peu. Tout va bien jusqu'ici :  
+Tournez-les de costé, j'ay tres-bonne esperance  
+Que vous en obtiendrez bien-tost la joüissance (V, 3, v. 1626-1630)  
+
+Cette attitude de Jodelet révèle le plaisir qu'il prend à jouer l'astrologue. Il exagère son rôle, cherche à lui donner une réelle consistance.
+
+Acaste également est amené à jouer la comédie car c'est lui qui est chargé de répandre la rumeur. À la scène 4 de l'Acte III, il rencontre Ariste et feint d'être encore sous le coup de l'étonnement devant les prodiges de Jodelet. Il joue son rôle pleinement, n'hésitant pas à ajouter des détails extraordinaires et à gonfler les talents de Jodelet. Ensuite, à la scène 6 du même acte, Acaste fait un rapport à Jodelet et lui apprend que la rumeur a circulé largement. Il exprime le bonheur qu'il ressent à jouer la comédie :
+
+Je n'ay jamais tant eu de plaisir en ma vie, (III, 6, v. 1019)  
+
+
+## Le plaisir du spectateur à l'intérieur de la pièce
+
+Le point de vue du spectateur est également évoqué dans la pièce de d'Ouville. Timandre et Acaste sont les complices de Jodelet et assistent à toutes ses manigances. Ce sont les seuls à être au courant de la supercherie et ils sont ainsi dans la même position que les spectateurs de la pièce. Ils s'amusent ainsi au même titre que le public des ruses de Jodelet. Acaste et Timandre expriment leur plaisir de spectateur à plusieurs reprises. À la scène 6 de l'Acte III, Jacinte frappe à la porte et Timandre s'attend à un nouveau rebondissement dans l'intrigue :
+
+
+TIMANDRE.
+On frappe, Jodelet, va, regarde qui c'est.  
+Qui dans ce passe-temps peut s'empescher de rire ? (v. 1038-1039)  
+
+De même, à la scène 8, Timandre et Acaste commentent ce qui vient de se passer après le départ de Jacinte :
+
+
+TIMANDRE.
+AVez-vous jamais veu de plus plaisante histoire ?  
+
+ACASTE.
+Je la voy de mes yeux, et j'ay peine à la croire,  
+J'en ay pensé mourir de rire. (v. 1160-1061)  
+
+Ainsi Timandre et Acaste représentent la figure du spectateur et leurs paroles expriment ce que le spectateur d'une comédie est censé ressentir. La dimension du divertissement est importante mais celle du rire également. Le spectateur est présent pour s'amuser. La comédie doit être drôle et non plus uniquement plaisante.
+
+
+## L'esthétique baroque et la dramaturgie de l'ambiguïté
+
+La pièce de d'Ouville est empreinte de certaines caractéristiques de l'esthétique baroque. Le théâtre dans le théâtre est l'aspect principal de cette influence mais celui-ci ne consiste pas uniquement en une mise en abîme du processus théâtral. En effet, chez Calderón, le théâtre est partout présent, le monde entier est illusion, le réel est par essence trompeur. Ce dramaturge est ainsi friand d'inconstances, de métamorphoses, de renversements de situations, de hasards et de coïncidences. Dans *Jodelet astrologue*, il est possible de retrouver cette impression de constante ambiguïté entre réalité et illusion. L'imposture de Jodelet berne tous les personnages qui ne sont pas dans le secret. Arimant même, qui représente l'homme sage d'expérience, se méfie d'abord de Jodelet puis est convaincu de son honnêteté et de ses talents d'astrologue. Il fera par la suite appel à lui plusieurs fois. Timandre et Acaste, quant à eux, ne cessent de s'étonner de la crédulité des victimes de Jodelet :
+
+
+TIMANDRE.
+Je suis ravi de voir à la fin tant de fous,  
+Fut-il jamais au monde une telle ignorance ? (V, 3, v. 1640)  
+
+ACASTE.
+Vous rencontrez des gens de legere croyance. (III, 8, v. 1163)  
+
+En réalité, Calderón montre combien il est aisé de croire à la magie tant les apparences peuvent être trompeuses. Le public, comme Timandre et Acaste, ont accès aux coulisses des manœuvres de Jodelet et peuvent se délecter de la crédulité des personnages. Ainsi, on observe sans cesse un jeu de bascule entre les moyens simples et concrets qui permettent à Jodelet de maintenir l'illusion et la fascination qu'il exerce sur les différents personnages qu'il abuse. Cela reflète bien la conception que Calderón a du monde, celle d'une construction trompeuse et ambivalente, la vérité n'y tenant qu'une place humaine et subjective.
+
+
+# L'avenir et l'influence de Jodelet astrologue
+
+
+## Une pièce non renouvelable
+
+Le Mémoire de Mahelot mentionne la pièce de d'Ouville, *Jodelet astrologue.* Sans avoir plus de précisions, nous savons ainsi qu'elle a été reprise, très peu d'années après sa création, au théâtre de l'Hôtel de Bourgogne. Ces représentations ne sont décrites nulle part mais il est possible d'imaginer que cette reprise n'a pas connu un grand succès. En effet, la pièce de d'Ouville était prévue pour être jouée par Jodelet. La popularité de ce comédien assurait à elle seule l'approbation du public. La volonté de faire incarner le rôle du valet par Jodelet se ressent dans les choix d'adaptation dramaturgique de d'Ouville, dans le choix du titre et dans le jeu, les paroles du valet. Or, à l'Hôtel de Bourgogne, la pièce est mentionnée au répertoire sous le même titre. Comment la troupe de ce théâtre est parvenue à compenser l'absence du comédien Jodelet ? Les tirades, écrites expressément pour lui, représentaient autant d'obstacles à la reprise de cette pièce. Il paraît vraisemblable que ce soit le Sieur de Villiers qui a repris le rôle de Jodelet. Ce comédien de l'Hôtel de Bourgogne était spécialisé, sous le nom de Philipin, dans le même type de rôle que Jodelet.
+
+Cependant, la pièce de d'Ouville est tellement personnalisée qu'il semble difficile d'imaginer que cette pièce ait eu un succès important dès lors que le rôle de Jodelet n'est plus assuré par le comédien du même nom. La pièce était de ce fait dépendante de Jodelet et avec la disparition du comédien, *Jodelet astrologue* est tombé dans l'oubli, rangé au répertoire des pièces liées intrinsèquement à leur époque.
+
+
+## Une pièce qui inspire Thomas Corneille
+
+À peine cinq ans après le succès de *Jodelet astrologue*, Thomas Corneille reprend le sujet et publie en 1651 *Le Feint Astrologue*. Avec cette pièce, cet auteur s'inscrit dans la vague de popularité du thème de l'astrologie, initiée par l'adaptation de d'Ouville. La pièce a sûrement été jouée en 1648 à l'Hôtel de Bourgogne, soit un an à peine après la reprise de *Jodelet astrologue*. Thomas Corneille souhaite cependant se distinguer de d'Ouville, et se rapproche de la source espagnole. En effet, le titre est une traduction fidèle de celui de Calderón et les noms des personnages sont moins francisés. La différence la plus importante est que le rôle de l'astrologue n'est plus endossé par le valet comme chez d'Ouville mais par le maître, rappelant ainsi plus fidèlement la pièce de Calderón. Les frères Parfaict soulignent cette différence et affirment que c'est celle-ci qui rend la pièce de Thomas Corneille plus cohérente, plus vraisemblable que celle de d'Ouville. Le ton dans la pièce de Thomas Corneille est moins burlesque, et est plus proche de celui des nobles personnages espagnols de la pièce de Calderón. Néanmoins, Thomas Corneille s'inspire de la pièce de d'Ouville pour certaines tirades qu'il reprend parfois presque mot à mot. La critique de l'époque ne mentionne pas cette pièce comme un succès et il semble qu'elle ait eu moins de retentissement que celle de d'Ouville.
+
+
+## Un comique de situation qui inspire Molière ?
+
+Claude Bourqui [22] et Roger Guichemerre [23] ont démontré que le théâtre de d'Ouville représente une source importante pour Molière mais ils n'évoquent pas *Jodelet astrologue*. Pourtant, il est possible de repérer certaines analogies d'ordre comique entre cette pièce de d'Ouville et *Le Médecin malgré lui*. L'origine du comique de la pièce de d'Ouville provient d'une imposture. Jodelet se fait passer pour ce qu'il n'est pas. Il endosse le rôle d'un homme de science, dont l'autorité peut être importante et s'attaque à une discipline dont il ne connaît que la caricature et le *décorum*. Certaines scènes comiques découlent de cette situation, celles où Jodelet est amené à imiter l'astrologue. Il singe d'abord l'astrologue lorsqu'il effectue une prédiction, puis il tente d'imiter son discours lorsqu'il est face à Arimant et que ce dernier utilise un vocabulaire complexe qu'il est supposé comprendre. Jodelet invente alors un jargon complexe, en vague rapport avec les astres et aux sonorités truculentes. Il tente ainsi d'inspirer l'admiration et le respect pour cette science qu'il doit incarner en déstabilisant son interlocuteur avec un vocabulaire opaque et compliqué. Cette scène peut rappeler la scène 4 de l'Acte II du *Médecin malgré lui* de Molière. Dans cette scène, Sganarelle, que tout le monde prend pour un médecin, doit maintenir l'illusion et jouer ainsi le médecin. On lui demande de trouver le mal dont est atteinte Lucinde, la fille de Géronte. Sganarelle singe alors les médecins, utilise un jargon compliqué, latinise son vocabulaire et expose des théories médicales farfelues. Martinenche rapproche ces deux scènes qui jouent selon lui sur le même ressort comique : « Ce faux disciple du « grand Nostradamus » se sert pour parler de l'influence des astres de prétendus termes de l'art qui amènent sur les lèvres le même sourire que le latin du *Médecin malgré lui*. » [24]. Aussi n'est-il pas interdit de penser que le personnage de Jodelet a directement pu inspirer Molière.
+
+
+# Note sur la présente édition
+
+L'édition originale de *Jodelet astrologue* de d'Ouville a été publiée en 1646 par Cardin Besongne. Le volume que nous avons pris pour référence est un exemplaire de la Bibliothèque de la Sorbonne dont la cote est **Rra 8 = 475**.
+
+En voici la description :
+
+Un ouvrage in-4° de IV-142 pages.
+
+Le volume se présente comme suit :
+
+I JODELET / ASTROLOGUE. / Comedie / DU SIEUR D'OUVILLE. / (vignette) / A PARIS, / Chez CARDIN BESONGNE, au Palais, au haut de / la montée de la saincte Chapelle, aux Roses / Vermeilles. / M. DC. XXXXVI. / AVEC PRIVILEGE DU ROY.
+
+II Verso blanc.
+
+III Extrait du privilège.
+
+IV Liste des personnages.
+
+ le texte de la pièce, précédé du titre, en haut de la première page, sous une frise.
+
+Nous avons conservé les graphies et la ponctuation de l'édition originale. Les modifications apportées au texte concernent les éléments suivants :
+
+– conformément à l'usage moderne, nous avons remplacé le *i* consonne par un *j* et le *v* voyelle par un *u*.
+
+– nous avons supprimé le tilde qui indiquait parfois la nasalisation des voyelles.
+
+– nous avons remplacé la ligature & par la conjonction *et*.
+
+– nous avons corrigé les erreurs de pagination.
+
+– nous avons mis en italique les didascalies en romain dans le texte original et nous les avons déplacées après le vers où elles prennent effet.
+
+– nous avons corrigé les fautes d'orthographe et de ponctuation dues à des coquilles et nous avons mis entre crochets toutes les interventions sur le texte.
+
+Liste des corrections
+
+Rubrique personnages : NISE, Suivante de Liliane, amoureuse de Jodelet, ; rubrique personnages : JACINTE, Damoiselle Parisienne amoureuse de Tindare. ; rubrique personnages : ARIMANT, vieillard pere de Liliane. ; v. 115 : omission ; v. 140 : quil ; v. 173 : où ; v. 191 : méprise ; v. 408 : silence (pas de ponctuation) ; v. 416 : encor, ; v. 421 : ne le ; v. 480 : omission ; v. 482 : point (pas de ponctuation) ; v. 617 : trahis. ; v. 618 : obeïs, ; v. 692 : adresse (pas de ponctuation) ; v. 697 : doy. ; v. 748 : son ; v. 840 : bien ; v. 877 : advenir ; v. 879 : vid ; v. 898 : à ; v. 950 : pouvoir. ; v. 958 : magicien (pas de ponctuation) ; v. 968 : non, ; v. 1069 : ans ; v. 1084 : clein ; v. 1196 : Acaste ; v. 1219 : lé ; v. 1332 : amour ? ; v. 1404 : deviner. ; v. 1515 : ordonné ? ; v. 1519 : satisfait ? ; v. 1570 : Puis ; v. 1642 : pretens (pas de ponctuation) ; v. 1657 : grace (pas de ponctuation) ; v. 1747 : voir ? ; v. 1769 : dis-je ? ; v. 1788 : vueille ; v. 1792 : pouvoir ? ; entre les vers 1925 et 1926 : TINDARE. ; v. 1928 : veux ? ; v. 1965 : Maistresse. ; v. 1980 : frayeurs ?.
+
+
+# JODELET ASTROLOGUE, Comedie
+
+
+## A MESSIRE NICOLAS **BOURDIN**, CHEVALIER, SEIGNEUR DE VILLENNES. [25]
+
+MONSIEUR,
+
+Comme entre plusieurs belles connoissances que vous avez, je sçay que vous vous divertissez particulierement à l'Astrologie, dont vous penetrez tous les secrets, j'ay creu que pour vous delasser l'esprit de vos penibles travaux et de vos occupations serieuses, vous n'auriez pas desagreable que je vous presentasse ce petit Ouvrage Comique de Monsieur d'Ouville qui m'est tombé entre les mains. Vous y verrez, MONSIEUR, les naïsvetez d'un faux Astrologue, dont l'ignorance vous plaira mieux quelquefois, que tous les beaux Livres qui vous ont rendu si fameux en cette science, et pourveu qu'il vous fasse rire apres le chagrin que vous aurez peu prendre en vostre estude, j'auray visé tout droit au but où je tends. Recevez-le donc s'il vous plaist, MONSIEUR, non comme un present qui soit digne de vous, mais comme une petite marque de la passion que j'ay de vous divertir, et de vous plaire, estant avec plus d'affection et de fidelité que personne du monde,
+
+MONSIEUR,
+
+Vostre tres-humble et tres-
+
+obeissant serviteur,
+
+C. B. [26]
+
+
+## LES ACTEURS.
+ – TINDARE,Cavalier⁎ Parisien, Amoureux de Liliane.
+ – LILIANE,Damoiselle [27] Parisienne, amoureuse de Tindare.
+ – NISE,Suivante de Liliane, amoureuse de Jodelet.
+ – TIMANDRE,Cavalier⁎ Parisien, amoureux de Liliane.
+ – JODELET,valet de Timandre, amoureux de Nise.
+ – ACASTE,Cavalier⁎ Parisien, amy et Confident de Timandre.
+ – ARISTE,Cavalier⁎ Parisien, Amy et Confident de Tindare, et amoureux de Jacinte.
+ – JACINTE,Damoiselle Parisienne, amoureuse de Tindare.
+ – JULIE,Suivante de Jacinte.
+ – ARIMANT,vieillard, pere de Liliane.
+ – MORON,vieillard, Escuyer de Liliane.
+La Scene est à Paris.
+
+
+
+## ACTE I.
+
+
+### SCENE PREMIERE.
+LILIANE, TINDARE, NISE.
+
+
+    LILIANE.
+NE faites point, Tindare, ici plus long sejour [28],  
+De grace allez vous-en, vous voyez qu'il est jour,  
+Si par hazard quelqu'un vous voyoit dans la ruë,  
+Et qu'on vous sceust ici, Dieux je serois perduë⁎ !  
+
+    TINDARE.
+Ayant devant mes yeux le Soleil que je voy,  
+Puis-je m'imaginer qu'il vient derriere moy ?  
+Madame, en m'absentant de l'Astre que j'adore,  
+Je suis bien esloigné de rencontrer l'Aurore.  
+
+    LILIANE.
+Gardez qu'on ne descouvre icy nostre secret.  
+
+    TINDARE.
+Enfin, je ne sçaurois vous quitter qu'à regret.  
+
+    LILIANE.
+Mais quoy vous me perdrez⁎.  
+
+    TINDARE.
+Eh de grace, Madame,  
+Pensez qu'en vous quittant j'abandonne mon ame,  
+Me voulez-vous, grands Dieux ! reduire au desespoir ?  
+
+    LILIANE.
+Tindare cette nuict vous me pourrez revoir,  
+Mais si vous faites cas [29] de mon amour extresme,  
+Venez-y sans tesmoins.  
+
+    TINDARE.
+J'y viendray sans moy-mesme,  
+N'en doutez nullement, car l'heur⁎ que je reçoy  
+Fait que dés à present je suis tout hors de moy.  
+Mais ne soyez point tant de vos faveurs avare.  
+
+    LILIANE.
+Sans perdre plus de temps retirez-vous, Tindare,  
+Sur tout souvenez-vous d'estre sage⁎ et discret,  
+De m'aymer comme il faut, et garder le secret.  
+
+    TINDARE.
+Ah Dieux que dites-vous ? ne craignez rien, Madame,  
+Plustost que le secret on m'arrachera l'ame.  
+
+    LILIANE.
+Sus donc⁎, retirez-vous, allez Tindare, allez.  
+
+    TINDARE.
+Il faut bien s'en aller puis que vous le voulez.  
+
+
+### SCENE II.
+LILIANE, NISE.
+
+
+    LILIANE.
+IL le faut advoüer, je suis bien malheureuse,  
+De nourrir dans mon sein cette flame⁎ amoureuse,  
+Qui me consomme toute, et reduit à tel point,  
+Que mon plus grand espoir est de n'en avoir point.  
+
+    NISE.
+Dequoy vous plaignez-vous ? je ne sçay pas, Madame,  
+Qui vous peut exciter⁎ tant de troubles dans l'ame ?  
+Vous aymez, on vous ayme, on brusle de vous voir,  
+Qui peut apres cela destruire [30] vostre espoir ?  
+Qui se fascha⁎ jamais de se voir trop aymee ?  
+
+    LILIANE.
+Cet amour apres tout ne peut estre blasmee [31] :  
+Tu voids qu'on veut forcer mon inclination⁎ [32],  
+Me livrant à l'objet⁎ de mon adversion.  
+
+    NISE.
+Je vous ay dit cent fois que je ne puis comprendre  
+Le subjet pour lequel vous rebutez⁎ Timandre.  
+Peut-on voir dans Paris un Cavalier⁎ mieux fait⁎ ?  
+Il a tres-bonne mine⁎, il est riche, et discret⁎.  
+Il vous ayme, ou plustost, Madame, il vous adore,  
+Il meurt d'amour pour vous ; mais ce qui plus encore  
+Vous devroit obliger à preferer à tous  
+Ce brave⁎ Cavalier⁎ pour estre vostre espoux,  
+Vostre pere y consent, et vous sçavez, Madame,  
+Qu'il est fort esloigné d'approuver vostre flame⁎,  
+Il ayme la richesse, et vous sçavez tres-bien  
+Si Tindare est galand⁎ qu'il ne possede rien.  
+
+    LILIANE.
+Je sçay bien qu'il possede un merite⁎ si rare⁎,  
+Qu'enfin je ne voy rien comparable à Tindare,  
+Timandre vient trop tard, car Tindare a mon cœur,  
+Qui se sent ravir d'aise [33] au nom de ce vainqueur.  
+
+    NISE.
+Madame vous semblez, souffrez⁎ que je le die [34],  
+En cette occasion⁎, Dame de Comedie,  
+Vous rebutez⁎ le riche, et prenez l'indigent ?  
+
+    LILIANE.
+Dois-je pas preferer les vertus à l'argent ?  
+
+    NISE.
+Non, Madame, sçachez qu'en ce siecle où nous sommes,  
+On ne fait plus d'estat de la vertu des hommes ;  
+Et quand cela seroit, me pouvez-vous nier  
+Que toutes les vertus d'un parfait Cavalier⁎  
+Ne soient pas en Timandre ? En croyant le contraire,  
+Si vous desavoüez une chose si claire,  
+Je dy qu'on a raison de peindre Amour sans yeux [35].  
+
+    LILIANE.
+Ce que tu dis est vray, Nise, mais j'ayme mieux  
+Expirer mille fois, que paroistre volage.  
+Oüy, Nise, asseure-toy que j'ay trop de courage⁎,  
+Pour rejetter Tindare, il a receu de moy  
+Depuis six mois entiers des gages de ma foy⁎,  
+Tels que je ne sçaurois à present m'en desdire [36].  
+
+    NISE.
+Mais si c'est pour luy seul que vostre cœur souspire,  
+Pourquoy refusez-vous de le voir en plein jour ?  
+Et feignez-vous qu'il soit absent de cette Cour ?  
+
+    LILIANE.
+Nise, tu ne sçais pas, et c'est ce qui m'afflige,  
+Jusques où la rigueur de l'honneur nous oblige,  
+Ce poinct trop chatoüilleux [37] pour peu devient suspect,  
+Et on n'y peut jamais estre trop circonspect,  
+Je ne le cele⁎ point, Nise, je te confesse,  
+Que j'eu pour ce Tindare un excez de tendresse,  
+Si tost que je cognu que ce parfait Amant  
+Brusloit d'amour pour moy ; Mais admire comment  
+J'ay peu me retenir dans cet amour extresme,  
+N'ayant jamais voulu qu'il cognust que je l'ayme,  
+Que lors⁎ qu'en s'absentant, Nise, il me fit sçavoir  
+Qu'il s'éloignoit de moy par un pur desespoir.  
+Je confesse qu'alors il me fut impossible  
+De nier qu'à ses vœux⁎ je ne fusse sensible,  
+Qu'il possedoit mon cœur, il voulut demeurer,  
+Aussi-tost qu'il apprit qu'il pouvoit esperer,  
+Mais je luy prescrivi cette loy rigoureuse  
+Pour ne pas éventer cette flame⁎ Amoureuse  
+Que je tenois secrette au profond de mon cœur,  
+Qu'il se tiendroit caché dans Paris en lieu seur [38],  
+Et qu'il feroit courir le bruit qu'en Italie  
+Il s'alloit divertir de sa melancolie.  
+Il est dedans Paris caché depuis six mois,  
+Et ce secret ici n'est sceu que de nous trois.  
+
+    NISE.
+Qui peut causer en vous cette cruelle envie ?  
+
+    LILIANE.
+L'honneur qui m'est plus cher mille fois que la vie,  
+Je crains plus que la mort qu'on sçache que mon cœur  
+Rebelle jusqu'icy recognoisse un vainqueur,  
+N'ayant jamais souffert⁎ l'empire de personne.  
+
+    NISE.
+Il est certain, Madame, et chacun s'en estonne  
+Et depuis fort long-temps par tout où j'ay hanté [39]  
+On fait baucoup de bruit de vostre cruauté,  
+Jusques-là qu'aujourd'huy je me suis laissé dire  
+Qu'un Poëte [40] de ce temps en fait une Satyre [41].  
+
+    LILIANE.
+Ce bruit m'est favorable, eh ! sotte penses-tu  
+Qu'on ait droict de blâmer un excez de vertu,  
+Quand une fille passe et pour jeune et pour belle,  
+On ne l'offense point en la nommant cruelle ;  
+Enfin, je ne crains rien, et je ne doute point  
+Que Tindare ne soit discret au dernier poinct,  
+On ne m'a pas trompée, et je crains trop de l'estre,  
+Un amy peu discret, un valet lasche⁎, et traistre  
+Nous peut par un rapport⁎ aysement ruiner,  
+Et l'honneur est apres trop fort [42] à regagner,  
+Une langue peut tout quand elle veut mesdire,  
+A cent femmes d'honneur une langue peut nuire,  
+Et cent langues aussi ne sçauroient restablir,  
+Ce delicat honneur que l'on vient d'affoiblir.  
+
+    NISE.
+Ne craignez rien de moy sur ce sujet, Madame,  
+Quoy d'aller [43] reveler les secrets de vostre Ame ?  
+Je souffrirois⁎ plutost qu'on m'arrachast le cœur.  
+Mais c'est estre bigearre [44], et d'une estrange humeur⁎,  
+Pardonnez si je semble en cecy trop hardie,  
+Vous voulez imiter, souffrez⁎ que je le die,  
+Vous voyant follement l'esprit embarassé,  
+L'humeur⁎ des Chevaliers errans [45] du temps passé.  
+Pourquoy vouloir paroistre et cruelle et severe⁎  
+Pour le soustien d'un bien qui n'est qu'imaginaire ?  
+D'un chimerique honneur, dont vous vantez le prix ?  
+Ce rigoureux tyran des credules esprits ?  
+Nul ne sçait vostre humeur⁎ qui d'abord n'attribue  
+Tant de precaution et tant de retenuë,  
+A trop d'impertinence, et de simplicité,  
+Pardonnez si je parle avecque [46] liberté.  
+Aymez comme on s'habille, assavoir à la mode,  
+Outre qu'il est utile, il est bien plus commode,  
+Sans vouloir en Amour introduire une loy  
+Nouvelle, et ridicule ? [47]  
+
+    LILIANE.
+Impudente tay [48] toy.  
+Mais quelqu'un entre icy.  
+
+    NISE.
+Madame, c'est Timandre.  
+
+
+### SCENE III.
+LILIANE, TIMANDRE, NISE, JODELET.
+
+
+    LILIANE.
+QUe voy-je ? justes Dieux ! osez-vous entreprendre  
+De m'aborder⁎ ainsi ? Timandre, resvez⁎-vous ?  
+
+    TIMANDRE.
+Madame, moderez ce violent [49] courroux,  
+Faut-il que la colere à ce poinct vous transporte⁎ ?  
+Qui vous peut obliger à traitter de la sorte  
+Celuy qui vous adore, en rebutant⁎ l'Amour  
+Du plus parfait Amant qui respire le jour ?  
+
+    LILIANE.
+Timandre, c'est en vain, faisons donc je vous prie  
+Tresve de complimens⁎, et de cajolerie [50],  
+Je vous laisseray là si vous ne me quittez.  
+
+    TIMANDRE.
+Le charme est trop puissant qu'on void en vos beautez,  
+Comme le papillon tournoye, et bat de l'aisle  
+Tant qu'il se vient enfin brusler à la chandelle,  
+Mon amour aveuglé qui n'a point de pareil  
+Vient aussi se brusler aux rais [51] de ce Soleil,  
+Et c'est de mes souhaits la plus haute fortune⁎.  
+
+    LILIANE.
+Je mesprise un amour alors qu'il m'importune,  
+Et si contre mon gré ce Dieu vous a surpris,  
+Ne vous plaignez, Monsieur, jamais de mes mespris.  
+Mais quand chasserez-vous cet amour de vostre ame ?  
+
+    TIMANDRE.
+Lors⁎ que vous cesserez d'estre belle, Madame,  
+Et lors⁎ que je seray sans oreille et sans yeux.  
+
+    LILIANE.
+Je ne puis revoquer la volonté des Cieux ;  
+Car despend-il de moy, Timandre d'estre belle ?  
+S'il est vray toutefois que je vous paroy telle ?  
+
+    TIMANDRE.
+Mais ne vous aimer point, est-il dans le pouvoir  
+De quiconque, Madame, a des yeux pour vous voir ?  
+Et par cette raison excusez je vous prie  
+Ces violents effets de mon effronterie.  
+
+    LILIANE.
+Sortez je vous supplie, ou vous courez danger  
+En passant plus avant [52] de me desobliger⁎ ;  
+C'est en effect avoir bien peu de complaisance [53],  
+Rien ne me déplaist tant que fait vostre presence,  
+En vain auprez de moy vous cherchez du credit [54],  
+Je ne vous puis souffrir⁎, cent fois je vous l'ay dit,  
+Et vous le dis encor.  
+
+    TIMANDRE.
+Ah ! Madame, de grace  
+Ayez pitié de moy.  
+
+    LILIANE.
+Je vous quitte la place [55],  
+C'est trop m'importuner, je vous laisse en ce lieu  
+En vous disant, Timandre, un eternel Adieu.  
+Vous prenez du plaisir à me mettre en colere.  
+Elle sort.
+
+
+
+### SCENE IV.
+TIMANDRE, JODELET, NISE.
+
+
+    TIMANDRE.
+QU'entens-je, justes Dieux ? je meurs, je desespere.  
+
+    JODELET.
+Quoy Monsieur, vous souffrez⁎ que l'on vous traite ainsi ?  
+Si vous le voulez bien, je le veux bien aussi,  
+Comment ? j'endurerois d'une fille si vayne⁎  
+Tant d'apparens mespris ? Non, fust-elle une Reyne,  
+Et plus qu'une Deesse eust-elle des appas,  
+On ne me verroit point pour elle faire un pas.  
+
+    TIMANDRE.
+Fut-il jamais Amant méprisé de la sorte ?  
+Ah ! je voy que pour moy toute esperance est morte.  
+
+    NISE.
+J'ay pris vostre party, jusques à la fascher⁎,  
+Mais c'est en vain, Monsieur, que j'ay creu la toucher,  
+Plus je vous vantois brave⁎, et rempli de merite⁎,  
+Plus elle se monstroit orgueilleuse et depite [56].  
+
+    TIMANDRE.
+La cruelle me traitte avec trop de rigueur.  
+Mais, Nise, en sçais-tu point la cause ?  
+
+    NISE.
+Non, Monsieur.  
+Elle traite un chacun de mesme indifference,  
+Et ne donne à pas un plus qu'à vous d'esperance.  
+
+    TIMANDRE.
+Amour, sors de mon cœur, oüy je t'en veux bannir,  
+Cette estroite prison ne te peut contenir,  
+Tu ne sçaurois durer en si petit espace,  
+Ny conserver mes feux⁎ avecque tant de glace.  
+Voyant tant de mespris, ingrate, je promets  
+De briser tes liens, et n'y rentrer jamais.  
+Je ne desire pas pourtant que Nise pense  
+Que ses soins⁎ ont esté pour moy sans recompense,  
+Cette chaine est à toy.  
+
+    NISE.
+Je vois en verité  
+Que vous estes, Monsieur, en pleine liberté.  
+Mais en sortant des fers de celle qui vous brave⁎,  
+Vous m'enchainez, Monsieur, et me rendez esclave.  
+Mais quel service encor desirez-vous de moy ?  
+
+    TIMANDRE.
+Je te paye ici ceux que j'ay receus de toy,  
+Je ne te feray plus requeste ny priere,  
+Puis que j'ay recouvré⁎ ma liberté premiere,  
+Puis qu'on rit de ma peine, et que je voy fort bien  
+Que mes plus grands efforts ne m'y servent de rien.  
+Vien, suy-moy, Jodelet, va, Nise, je te laisse,  
+Comme j'ay resolu de laisser ta Maistresse.  
+
+    JODELET.
+Laissez-moy, je vous prie, et nous dites Adieu,  
+Je pourray n'estre pas inutile en ce lieu.  
+
+
+### SCENE V.
+JODELET, NISE.
+
+
+    JODELET.
+ET bien, Nise, feray-je ainsi que fait mon Maistre ?  
+Te quitteray-je aussi ?  
+
+    NISE.
+Serois-tu bien si traistre ?  
+T'obligeay-je à me faire un si perfide tour ?  
+Et ne te rens-je pas un reciproque Amour ?  
+Qui t'oblige à me faire ici cette bravade [57] ?  
+
+    JODELET.
+Si mon Maistre est guery, pourrois-je estre malade ?  
+Je t'aymeray sans doute autant qu'il aymera,  
+Mais son Amour cessant la mienne cessera.  
+Je parle à cœur ouvert, car je hay l'imposture.  
+
+    NISE.
+Va, tu n'és qu'un ingrat, va, tu n'és qu'un parjure,  
+Je le merite bien, je ne m'en prens qu'à moy,  
+Je t'ay trop témoigné de constance et de foy⁎.  
+Mais dy-moy, suis-je cause icy que ma Maistresse  
+Fuit ton Maistre, et le traite avec tant de rudesse ?  
+Pourquoy dois-je patir pour la faute d'autruy ?  
+N'ay-je pas fait en vain ce que j'ay peu pour luy ?  
+
+    JODELET.
+Mais ne pourrois-tu point vaincre cet impossible ?  
+Et rendre ta Maistresse un peu plus accessible ?  
+Je croy certainement si tu le desirois  
+Que tu peux tout sur elle, et je t'adorerois.  
+Ou dy-moy le sujet qui la rend si severe⁎,  
+Il faut que cette humeur⁎ cache quelque mystere  
+Que je ne comprens point, car tu sçais en effet  
+Que mon Maistre est galand⁎, aymable⁎ et tres-bien fait⁎,  
+Liberal [58] et discret⁎, autant qu'on le peut estre.  
+
+    NISE.
+Ce que tu dis est vray, je sçay bien que ton Maistre  
+Est brave⁎ au dernier poinct, et croy que tous les jours  
+Je tiens à ma Maistresse un semblable discours ;  
+Mais loin de la flechir sa hayne devient pire,  
+Je n'ose plus parler, mais si je t'osois dire  
+Le sujet qui la porte à ne le pas aymer,  
+Tu n'aurois pas si fort subjet de la blasmer.  
+Mais quoy, c'est un secret de trop grande importance.  
+
+    JODELET.
+Je ne le sçauray point ?  
+
+    NISE.
+Non.  
+
+    JODELET.
+As-tu l'asseurance [59]  
+De me parler ainsi ? tu m'aymes ?  
+
+    NISE.
+Oüy.  
+
+    JODELET.
+Tu ments.  
+
+    NISE.
+Veux-tu que je t'en fasse ici mille serments ?  
+
+    JODELET.
+A quoy bon si tu crains de me dire une chose ?  
+
+    NISE.
+Ne m'importune point.  
+
+    JODELET.
+Dy le moy donc.  
+
+    NISE.
+Je n'ose.  
+J'aymerois mieux mourir, car j'ay juré ma foy⁎  
+De n'en parler jamais.  
+
+    JODELET.
+Va, va, Nise, tay-toy,  
+Je la sçauray, je gage.  
+
+    NISE.
+Encor de quelle sorte ?  
+
+    JODELET.
+N'és-tu pas femme ?  
+
+    NISE.
+Non, je suis fille [60].  
+
+    JODELET.
+Qu'importe ?  
+Sers⁎-tu pas.  
+
+    NISE.
+Oüy je sers⁎, quoy qu'à mon grand regret.  
+
+    JODELET.
+Et tu pourrois, dy-moy, me celer⁎ un secret ?  
+
+    NISE.
+Pour le sçavoir de moy, quel don me veux-tu faire ?  
+
+    JODELET.
+Mais que demandes-tu bien plutost pour te taire ?  
+Tu brusle de le dire, à ce que je puis voir,  
+Cent fois plus que je n'ay desir de le sçavoir.  
+
+    NISE.
+Puis que tu fais paroistre en avoir peu d'envie  
+Tu ne le sçauras point.  
+
+    JODELET.
+Je ne vis en ma vie  
+Tant aller ny venir, parle, depesche-toy,  
+Voudrois-tu bien ici te deffier [61] de moy ?  
+
+    NISE.
+Ne t'estonne si j'ose en user de la sorte,  
+Car plus que tu ne crois cette chose m'importe,  
+Jure moy donc avant de n'en parler jamais,  
+Et je te le diray.  
+
+    JODELET.
+Va je te le promets.  
+Mais quel serment, dy-moy, veux-tu que je te fasse ?  
+Puissay-je maintenant tomber dans ta disgrace,  
+Et ne te voir jamais si l'on le sçait par moy.  
+
+    NISE.
+Va, je suis resoluë, et quasi⁎ je te croy.  
+
+    JODELET
+Parle donc librement, et sans aucun scrupule.  
+
+    NISE.
+Tu dois doncques sçavoir.  
+
+    JODELET.
+Laisse ce preambule,  
+
+    NISE.
+Qu'un obstacle tres-grand, à ton Maistre fatal,  
+Empesche qu'on ne l'ayme.  
+
+    JODELET.
+Et bien quel ?  
+
+    NISE.
+Un Rival.  
+Qu'il ne s'estonne point de voir qu'on le méprise,  
+Depuis un an et plus, ma Maistresse est esprise  
+D'un jeune Cavalier⁎, galand⁎, sage⁎, et discret⁎,  
+Et cet Amour entr'eux est tellement secret,  
+Que nous trois seulement en avons cognoissance :  
+Depuis plus de six mois on le croit hors de France.  
+Mais afin que de tout tu sois bien adverty,  
+Il est en cette ville, et n'en est point sorty,  
+Caché chez un amy, sans que cet amy mesme  
+Ait peu sçavoir de luy quelle Maistresse il ayme.  
+Il vient parfois la nuict voir cet objet⁎ aymé,  
+Car le reste du jour il demeure enfermé,  
+Et ma Maistresse alors me commande de mettre  
+Pour servir de signal, un linge à la fenestre.  
+Lors⁎ je le fais entrer sans scandale et sans bruit  
+Par certain huis [62] secret qui n'ouvre que de nuit ;  
+Car tout le long du jour, il est fermé de sorte  
+Qu'on ne sçauroit avoir soupçon de cette porte.  
+Une grille respond en bas dans le jardin,  
+Et se parlent par là du soir jusqu'au matin.  
+Voy que je t'ay tout dit sans nulle retenuë,  
+Garde-toy de causer, car je serois perduë⁎.  
+
+    JODELET.
+Non, non, tu ne m'as fait l'histoire qu'à demy,  
+Pourquoy me celes⁎-tu le nom de cet amy,  
+Et celui du Rival ?  
+
+    NISE.
+Ariste est, ce me semble,  
+Le nom de cet amy, mais croy moy que je tremble,  
+Lors⁎ que je me resous à nommer ce rival ;  
+Car il m'en peut sans doute arriver un grand mal.  
+Va, Tindare est son nom ; mais adieu je te laisse,  
+Car j'entends qu'on m'appelle, et que c'est ma Maistresse,  
+Sors d'ici promptement, car il m'en faut aller,  
+Et garde bien qu'un tiers n'en entende parler.  
+Elle s'en va.
+
+
+    JODELET *seul*.
+Adieu donc mon Soleil. Ah la triste nouvelle !  
+Quoy ? c'est là le sujet qui te rend si cruelle ?  
+Et c'est là cet honneur que tu vantois si fort  
+Perfide Liliane [63] ? Ah Dieux mon Maistre est mort !  
+Cette estrange nouvelle est un coup de tonnerre  
+Qui le va roide mort faire tomber par terre.  
+Je brusle de le dire, et je ne sçay comment  
+J'ay tenu ce secret caché si longuement,  
+La langue d'un valet est pire qu'un trompette [64],  
+Voy que Nise a tenu la chose bien secrette,  
+On me le vient d'apprendre au marais, et demain  
+On le sçaura sans doute au fauxbourg S.Germain.  
+Fin du premier Acte.
+
+
+## ACTE II.
+
+
+### SCENE PREMIERE.
+TIMANDRE, JODELET.
+
+
+    TIMANDRE.
+QUOI ? ce que tu m'as dit est-il vray ?  
+
+    JODELET.
+Je le jure,  
+Vous voudrois-je, Monsieur, repaistre d'imposture ?  
+Nise m'a tout conté comme je vous l'ay dit.  
+
+    TIMANDRE.
+Ah Dieux ! par ce rapport⁎ tu me rens interdit⁎ ?  
+Quoy donc, tu viens icy par ce discours funeste  
+A mes maux joindre un mal plus cruel que la peste,  
+Ce vautour renaissant, cette jalouse humeur⁎  
+Qui de son fier [65] venin m'empoisonne le cœur ?  
+Ah ! mon esprit se perd, et ma raison s'égare,  
+Je ne me plains pas tant qu'elle aime ce Tindare,  
+Comme je suis picqué [66] d'apprendre que son cœur  
+Se sert dans les mespris d'une fausse pudeur,  
+D'un honneur chimerique ; Encor si la cruelle  
+Me bravoit⁎ seulement pour estre indigne d'elle,  
+Sçachant ce qu'elle vaut, je pourrois l'endurer,  
+Et mesme sans m'en plaindre et sans en murmurer.  
+Mais aymer ce rival ? ah Dieu j'en desespere,  
+C'est par trop de mespris, je ne m'en sçaurois taire,  
+Ce seroit estre lasche⁎, et trop manquer de cœur⁎,  
+Vengeons-nous puissamment de ce sexe trompeur,  
+Mon dépit aujourd'huy paroistra legitime,  
+Si je vay de ce pas luy reprocher son crime.  
+
+    JODELET.
+Que dites-vous, Monsieur ? quel est vostre dessein ?  
+Ah ! mettez-moy plutost un poignard dans le sein,  
+Car des le mesme instant, Nise seroit chassee,  
+Voudriez [67]-vous qu'elle fust si mal recompensee  
+Des offices⁎ puissans qu'elle vous a rendus ?  
+Que sa peine et ses soins⁎ fussent ainsi perdus⁎ ?  
+Et voulez-vous aussi me ruiner moy-mesme  
+Me rendant ennemy d'une fille qui m'ayme ?  
+
+    TIMANDRE.
+Excuse, Jodelet, ce violent courroux,  
+Puis-je estre retenu lors⁎ que je suis jaloux,  
+Non, j'ayme mieux ici, de peur de te desplaire,  
+Devorer mon dépit, et vaincre ma colere,  
+Je la voy sur la porte, allons tost l'aborder⁎.  
+
+    JODELET.
+Vous ne pourrez, Monsieur, jamais vous en garder,  
+Je vous cognoy trop bien.  
+
+
+### SCENE II.
+TIMANDRE, LILIANE, JODELET, NISE.
+
+
+    TIMANDRE.
+JE ne viens plus, Madame,  
+Pour vous exagerer tous ces souspirs de flame⁎,  
+Ces vœux⁎ et ces respects qui vous sont odieux [68],  
+Mais pour mortifier ce cœur ambitieux,  
+Abbaisser cet orgueil qui vous rend ainsi vaine⁎,  
+Qui vous porte à ma honte [69] à trancher⁎ de la Reyne,  
+Je ry de vos faveurs, et je vous fais sçavoir  
+Si j'ay dit que sur moy vous avez du pouvoir,  
+Je m'en dédy tout haut, et puisque ma presence,  
+Comme je le sçay bien, vous choque [70] et vous offence,  
+Je viens pour me vanger, vous declarer ici  
+Que vous ne me causez ny peine ny souci⁎,  
+Et que comme le corps n'abandonne point l'ame,  
+Malgré vous jour et nuict je vous suivray, Madame,  
+Voila le seul sujet qui m'emmeyne [71], et je puis  
+Vous dire franchement qu'en l'estat où je suis  
+Ma satisfaction est dans vostre colere.  
+
+    LILIANE.
+Timandre, je devrois vous quitter et me taire,  
+Vous trouvez, dites-vous, du bien dans mes rigueurs ?  
+S'il est vray, je vous veux accabler de faveurs,  
+Si mes plus grands mépris vous sont considerables,  
+Et si vous estimez mes dédains agreables,  
+Je suspendray ma haine, et jusques à tel poinct  
+Que je vous aimeray pour ne vous aimer point.  
+Car je mourray plutost, Timandre, que de faire  
+Quelque chose qui soit capable de vous plaire.  
+
+    TIMANDRE.
+Vous pensez me prescrire une severe loy,  
+Mais avant que partir, de grace escoutez-moy.  
+Je me mocque [72], Madame, et ce discours m'offence,  
+Je hais une vertu qui n'est qu'en apparence.  
+
+    LILIANE.
+Je tiens⁎ tous les mortels trop indignes de moy,  
+Un Dieu mesme auroit peine à me donner la loy,  
+Oüy, quand bien vous seriez l'Astre qui nous esclaire,  
+Vous ne pourriez m'aimer, et ne me pas déplaire.  
+
+    TIMANDRE.
+Il est vray, vostre honneur n'eut jamais de pareil,  
+On ne vous peut blasmer, qu'en effect le Soleil  
+Ait en vous jusqu'icy fait voir foiblesse aucune,  
+Mais vous ne direz pas le mesme de la Lune,  
+Alors qu'entre une et deux.  
+
+    LILIANE.
+Que dict cet effronté ?  
+
+    TIMANDRE.
+Je trace cet Eloge à vostre chasteté ;  
+Et fais paroistre ici beaucoup de patience [73],  
+Mais je seray contraint de rompre le silence.  
+Si vous avez le don d'exceller en beauté,  
+Vous témoignez ici bien plus de vanité,  
+Ne me contraignez pas, Madame, de vous faire  
+Un discours là dessus qui vous pourroit déplaire.  
+
+    LILIANE.
+Vous ne pouvez rien dire avec vostre courroux,  
+Qui me puisse déplaire en ce poinct plus que vous.  
+
+    TIMANDRE.
+Quand je vous auray dit tout ce que j'ay dans l'ame,  
+Je plairay moins encor ; eh de grace, Madame,  
+Escoutez-moy de jour, puis que vous escoutez  
+Mon rival chaque nuit.  
+
+    JODELET.
+Ah vous vous emportez !  
+
+    LILIANE.
+Tresve de ce discours, Monsieur, je vous supplie,  
+Ce procedé vers moy [74] tient trop de la folie,  
+Et je necele⁎ point, que j'abhorre les fous.  
+
+    TIMANDRE.
+Je veux pourtant avoir cette faveur de vous,  
+Non pas avec dessein de vous prier de mettre  
+La nuit un linge blanc pour marque à la fenestre.  
+Qu'une grille responde en bas dans le jardin,  
+Par où nous discourions du soir jusqu'au matin :  
+Ny que j'entre de peur que vous soyez blasmée  
+Par une porte ouverte, et qui semble fermée,  
+Par où vous recevez la nuit ce languissant  
+Caché dedans Paris, et que l'on croit absent,  
+Que Nise fait venir toutes les nuits, de sorte  
+Qu'il entre en seureté par cette fausse porte.  
+N'en sçay-je pas assez ?  
+
+    LILIANE.
+Vous le sçavez si bien  
+Qu'on peut dire en ce poinct que vous n'ignorez rien.  
+Vous avez sans mentir la memoire excellente.  
+
+    TIMANDRE.
+Je croy qu'elle vous est en ce poinct déplaisante,  
+C'est pour vous advertir à n'estre plus d'humeur⁎  
+De tant exagerer chez vous un faux honneur,  
+Ne tranchez⁎ point vers moy tant de l'honneste femme,  
+Puis que je vous cognoy : Non, vos mespris, Madame,  
+Ne me déplairoient point, s'ils avoient seulement  
+En cette occasion⁎ l'honneur pour fondement.  
+Avec un tel defaut, vous estes trop hautaine,  
+Soyez d'oresnavant plus modeste et moins vaine⁎,  
+Ne me dédaignez point, car chacun vaut son prix,  
+Et tenez⁎ pour certain que c'est de vos mespris  
+Que ce discours provient, non de ma jalousie ;  
+Et que plus que la mort je hay l'hypocrisie,  
+Et toute vanité, car la vertu toujours  
+Se fait voir aux effects, et non pas au discours.  
+Pardonnez ce transport⁎, Madame, et vous souvienne  
+Qu'une langue en est cause, et ce n'est pas la mienne.  
+
+    LILIANE.
+Qu'entends-je justes Dieux ?  
+
+    JODELET.
+Qu'avez-vous fait Monsieur ?  
+
+    TIMANDRE.
+Je ne sçay mon Amy.  
+
+    NISE *bas*.
+Grands Dieux je meurs de peur !  
+Qu'en cette occasion⁎, Madame ne m'accuse.  
+
+    TIMANDRE.
+N'allez point inventer quelque nouvelle excuse,  
+Ce que je dis est vray, j'en suis bien asseuré.  
+
+    LILIANE *à Nise*.
+Tu m'as trahie infame⁎, ah ! j'en eusse juré.  
+
+    NISE.
+Cela n'est point, Madame, et je vous le proteste.  
+
+    LILIANE.
+Des valets langagers [75] sont pires que la peste,  
+Dieux à qui me fiois-je ?  
+
+    JODELET* à Timandre.*
+Ah vous avez grand tort !  
+
+    LILIANE *à Nise*.
+Sans doute tu seras la cause de ma mort.  
+
+    JODELET *à Timandre.*
+Cette fille en patit, voyez que l'on l'accuse.  
+Ah Dieux qu'avez-vous dit !  
+
+    TIMANDRE *à Jodelet*.
+Invente quelque ruse,  
+Pour nous tirer tous deux de ce dedale ici.  
+
+    JODELET.
+S'il ne tient qu'à mentir, laissez-m'en le souci⁎,  
+Demeurerois-je court [76] en si belle matiere ?  
+Non, non, ne craignez point, je ne tarderay guere.  
+
+    NISE.
+Escoutez-moy, Madame.  
+
+    LILIANE.
+Ah ! perfide tay toy.  
+
+    NISE.
+Si quelqu'un vous a fait ce faux rapport⁎ de moy  
+Sans doute il a menty, car jamais en ma vie,  
+Et me croyez, madame, il ne m'en prist envie.  
+
+    JODELET *à Timandre.*
+J'ay conceu dans moy-mesme un tour assez plaisant.  
+
+    TIMANDRE *à Jodelet.*
+Je t'ay tousjours cognu l'esprit assez present [77],  
+Va, va, je t'ayderay.  
+
+    JODELET.
+Quand on me devroit pendre,  
+Je le diray, Monsieur, je ne m'en puis defendre.  
+Je ne sçaurois souffrir⁎ que l'on blasme en effect  
+Cette servante ici d'un rapport⁎ que j'ay fait.  
+Madame, vous taxez [78] à tort son innocence,  
+Je me sens obligé mesme en ma conscience  
+De reveler ici le tout de poinct en poinct.  
+Que gagnez-vous, Monsieur, je ne me tairay point.  
+Madame, il me fait signe ici que je me taise,  
+Mais je n'en feray rien, luy plaise ou luy déplaise,  
+Je vous conteray tout.  
+
+    TIMANDRE.
+Mais voyez ce maraut⁎,  
+Qu'est-ce qu'il va conter ?  
+
+    JODELET.
+Ne parlez point si haut,  
+Ferois-je pas , Madame, une grande injustice ?  
+Car si j'ay fait le mal, faut-il qu'elle en patisse ?  
+Que sert en ce sujet de faire tant le fin ?  
+Sçachez donc que je suis Astrologue⁎ et Devin.  
+Je voy bien en effect que mon Maistre s'en fasche⁎,  
+Pour cause il ne veut pas que personne [79] le sçache,  
+Mais en ce fameux art, sans rien dissimuler,  
+Il n'est homme icy bas qui me puisse égaler,  
+Je sçay ce qui se fait au fond de l'Allemagne,  
+En Flandre, en Italie, en Hongrie, en Espagne,  
+Je sçay des ennemis les secrets plus cachez,  
+Et comme l'A, b, c, je cognoy vos pechez,  
+Je fourny tous les jours cent nouvelles secrettes  
+Au maistre du Bureau [80] pour remplir ses Gazettes [81],  
+Et pour avoir sur luy quelques hauts ascendants, [82]  
+Je luy dy les tenir de mes correspondants.  
+
+    TIMANDRE.
+Que dit cet insensé ?  
+
+    JODELET.
+Je dy ce qui vous fasche⁎,  
+Mais entre vous et moy, serois-je pas bien lasche⁎  
+Et bien dénaturé de souffrir⁎ aujourd'huy  
+Que l'innocent patist pour la faute d'autruy ?  
+Pour vous desabuser [83], sçachez doncques, Madame,  
+Que sçachant comme vous les secrets de vostre ame,  
+Voyant que vous traittiez mon Maistre avec rigueur,  
+Je luy fis hier au soir voir à nud vostre cœur ;  
+Je luy fis voir à clair par un rare⁎ artifice  
+Le sujet qui vous fait mépriser son service⁎,  
+Je luy fis contempler dans un certain miroir  
+Tout ce qu'il vient ici de vous ramentevoir [84].  
+La grille, le jardin, le linge, la fenestre,  
+Et le galand⁎ aussi qu'il peut alors cognoistre,  
+Devisant avec vous, sans qu'il peust toutefois  
+Entendre ses discours, ny discerner sa voix.  
+
+    TIMANDRE.
+Puis que cet impudent a commencé, Madame,  
+A descouvrir ici les secrets de mon ame,  
+Je veux tout advoüer, et vous veux dire aussi  
+Le sujet qui m'oblige à le cacher ainsi.  
+Vous avez dans Paris autrefois veu paroistre  
+Un qui dans ce mestier estoit l'unique maistre,  
+Qu'on appelloit Cesar [85], en cet art si fameux  
+Qu'ainsi que dans un Livre il lisoit dans les Cieux.  
+Aussi ces feux [86] brillans sont une tablature  
+Capable de servir aux doctes [87] d'escriture,  
+Pour cognoistre par là le soir et le matin,  
+Quel doit estre leur bon ou leur mauvais destin.  
+Il sçavoit quand la nuict tendoit ses noires voilles,  
+Juger de l'advenir par le cours des estoilles,  
+Et sans luy voir en rien l'esprit embarassé,  
+Ainsi que l'advenir, il sçavoit le passé.  
+Il sçavoit la vertu des pierres, et des plantes,  
+Et par l'oblique cours des estoiles errantes [88],  
+Joint aux Astres brillants cloüez au Firmament,  
+Faisoit de nos destins un certain jugement.  
+Ce prodige estonnoit⁎ une simple cervelle,  
+Estimant que la cause en fust surnaturelle,  
+Ce qui faisoit qu'aucuns [89] l'estimoient un pipeur [90],  
+Les uns Magicien [91], les autres enchanteur,  
+Et cette opinion passoit pour si certaine  
+Que ces credules sots l'ont souvent mis en peine,  
+Et mesme la pluspart de ce peuple grossier  
+Soustenoit qu'il avoit un esprit familier.  
+Mais moy qui ne croy pas de leger [92] aux merveilles,  
+Qui déments en ce poinct mes yeux et mes oreilles,  
+J'ay creu, sondant avant dans ces secrets cachez  
+Qu'à la seule science ils estoient attachez.  
+Il croyoit que m'estant amy si fort intime,  
+S'il m'eust teu quelque chose eust esté faire un crime,  
+Ce qui peut [93] l'obliger lors⁎ à me faire part  
+De tout ce qu'il avoit de plus rare⁎ en son art.  
+Mais craignant que cet art n'engendrast des scrupules  
+Capables d'ébranler les esprits trop credules,  
+Qui pourroient de moy faire un mauvais jugement.  
+Pour me mettre à l'abry de cet evenement,  
+Et tirer quant-et-quant profit de sa science,  
+Je fy que mon valet en eust la cognoissance,  
+Il y prist tant de peine, et l'instruisit si bien  
+Qu'en peu moins de trois mois [94], il n'ignoroit plus rien,  
+Et de luy-mesme apres s'est rendu si capable  
+Qu'en ce rare⁎ sçavoir il est incomparable.  
+Mais comme en ce bel art on le vit exceller,  
+Des jaloux envieux en voulurent parler,  
+Qui ne cognoissans pas la noble Astrologie⁎,  
+Luy voulurent donner le surnom de Magie.  
+Il s'en lava [95] pourtant, mais en quelque façon  
+Redoutant le scandale, et qu'on en eust soubçon,  
+J'ay voulu qu'il cachast cette rare⁎ science,  
+Luy commandant sur tout de garder le silence,  
+Et se monstrer muet, redoutant le danger  
+A qui sur ce sujet viendroit l'interroger.  
+Moy voyant à ce poinct ma gloire [96] traversee [97],  
+Et ma fidelle amour si mal recompensee,  
+Et me voyant de vous jusques icy traitté  
+Avec trop de mespris et trop d'indignité,  
+Je ne vous cele⁎ point que j'ay voulu cognoistre  
+Ce qui vous obligeoit à me faire paroistre  
+Ces evidents effects de vostre adversion,  
+Et pourquoy vous braviez⁎ ainsi ma passion.  
+Et par le seul moyen de ce maraut⁎ infame⁎,  
+Qui vous a revelé les secrets de mon ame,  
+J'ay veu le linge blanc, la grille, le jardin,  
+La porte, la fenestre, et cognu qu'à la fin  
+Tout tendoit à ma perte, ah Dieux je perds courage !  
+Suffit, je ne puis pas en dire davantage.  
+Si j'ay paru, Madame, en ce poinct peu discret  
+De vous avoir ici revelé ce secret,  
+Qui comme vous sçavez m'est de telle importance,  
+C'est que j'ay desiré vous oster la croyance,  
+Que vous avez conceuë, et que c'est sans raison  
+Qu'ici vous accusez Nise de trahison.  
+
+    JODELET.
+Ce qu'il vous dit est vray, Madame, je vous jure,  
+Et je ne serois pas en si pauvre posture  
+Si je n'avois cognu dans l'arrest [98] du destin,  
+Que je m'en doy trouver bien-heureux à la fin.  
+Et qu'en servant⁎ ainsi, je cours fortune⁎ [99] d'estre  
+Avant qu'il soit long-temps plus riche que mon maistre.  
+
+    LILIANE.
+Que deviendray-je, ô Dieux ! je suis tout hors de moy.  
+
+    NISE.
+Aurez-vous desormais des doutes de ma foy⁎.  
+Pourrez-vous m'accuser que je vous ay venduë ?  
+
+    JODELET *bas à Timandre.*
+La fourbe⁎ est excellente, et quasi⁎ je l'ay creuë,  
+Tant vous l'avez, Monsieur, sceu peindre adroitement.  
+
+    LILIANE.
+Vostre discours, Monsieur, m'estonne⁎ extremement.  
+Mais je n'ay point, je croy, de sujet de me plaindre,  
+Car vous cognoissant bien je ne doy jamais craindre  
+Qu'un brave⁎ Cavalier⁎, si noble et si discret⁎  
+Pour me perdre⁎ d'honneur revele mon secret.  
+Vous le devez au sexe [100], et j'aurois tort de croire  
+Que vous vous voulussiez opposer à ma gloire [101],  
+Puis que vostre valet a cet art merveilleux,  
+De pouvoir penetrer jusques dedans les Cieux,  
+Puis qu'il cognoist l'Amour où mon Astre m'incline,  
+Qu'il m'est force d'aller [102] où le Ciel me destine,  
+En voyant vostre flame⁎, et vos desseins trahis,  
+Accusez-en, Monsieur, l'Astre à qui j'obeïs.  
+En tout autre dessein le Ciel vous soit propice,  
+Voyez où je pourray vous rendre du service.  
+
+    TIMANDRE.
+Si le Ciel vous defend de me rien accorder,  
+Aurois-je bien le front de vous rien demander ?  
+Adieu, sur ce discours je vous quitte, Madame,  
+Mais sur tout n'ayez pas aucun soupçon en l'ame,  
+Que jamais pour mourir j'évente ce secret.  
+Reposez-vous sur moy.  
+
+    LILIANE.
+Je vous tiens⁎ trop discret.  
+
+
+### SCENE III.
+LILIANE, NISE.
+
+
+    LILIANE.
+NIse, fut-il jamais fille plus malheureuse ?  
+Regarde où me reduit cette flame⁎ amoureuse ?  
+Quel fruit j'ay recueilly de ma precaution ?  
+Si le destin ainsi trahit ma passion ?  
+Quoy les plus grands secrets qui soient en la nature,  
+Veulent rendre eternels les tourmens que j'endure ?  
+Et mon sort rigoureux approuvant leur dessein  
+Se resout à me mettre un poignard dans le sein ?  
+
+    NISE.
+Non, non, n'ayez Madame, aucune deffiance,  
+Que Timandre jamais à ce poinct vous offence,  
+Il est noble, et remply de generosité.  
+
+    LILIANE.
+Ah Dieux ! c'est un Amant que j'ay trop rebuté⁎,  
+Il voudra se vanger, et me perdre⁎ sans doute.  
+
+    NISE.
+Non, ne le craignez point.  
+
+    LILIANE.
+C'est ce que je redoute,  
+Tout m'est indifferent, et la vie et la mort,  
+Ainsi je me remets aux volontez du sort.  
+
+
+### SCENE IV.
+TIMANDRE, JODELET.
+
+
+    TIMANDRE.
+HElas ! j'estois perdu⁎ sans toy, je le confesse,  
+Je ne sçaurois assez admirer ton adresse,  
+C'est trop peu te payer que d'un remerciement,  
+Pour un service tel reçoy ce diamant.  
+
+    JODELET.
+Je vous baise les mains⁎, mais aussi je proteste  
+Que vous avez, Monsieur, bien achevé le reste,  
+Vous avez si bien feint, que peu s'en est fallu  
+Tant vous estes adroit, que je ne l'aye creu.  
+Mais encor dites moy, comme avez-vous peu faire  
+D'avoir si promptement trouvé cette chimere ?  
+
+    TIMANDRE.
+Croy que toute la ruse, et la subtilité  
+Gist au mensonge adroit, et si bien inventé,  
+Qu'il ne s'esloigne point du tout du vray-semblable.  
+
+    JODELET.
+Pour avoir fait passer ce cas pour veritable  
+Vous m'advoüerez, Monsieur, que nous ne tenions [103] rien  
+Rencontrant un esprit plus subtil que le sien.  
+
+    TIMANDRE.
+Je voy venir Acaste, il est amy d'Ariste,  
+Et mon grand confident.  
+
+
+### SCENE V.
+ACASTE, TIMANDRE, JODELET.
+
+
+    ACASTE.
+QUi vous rend ainsi triste?  
+
+    TIMANDRE.
+Me le demandez-vous en l'estat où je suis ?  
+Ne sçavez-vous pas bien d'où naissent mes ennuis⁎ ?  
+Et de quelle façon me traitte ma cruelle ?  
+Encore qu'à present la cause en soit nouvelle.  
+
+    ACASTE.
+Ne la sçauray-je point ?  
+
+    TIMANDRE.
+Je vous la dirois bien.  
+Mais j'ay fait un serment.  
+
+    ACASTE.
+Vous ne me direz rien ?  
+Me traittez-vous ainsi ? ce procedé m'offence.  
+
+    TIMANDRE.
+Quoy que la chose soit de tres-grande importance,  
+Je n'ay, vous le sçavez, rien de caché pour vous,  
+Je vous le diray donc, mais, Acaste entre nous.  
+
+    ACASTE.
+Cette precaution, Timandre, est inutile.  
+
+    TIMANDRE.
+Que diriez-vous, amy, si dedans cette ville  
+Tindare, dont j'estois à grand peine jaloux  
+Depuis six mois entiers estoit caché chez vous ?  
+Chez Ariste j'entens, car sçachant qu'il vous aime,  
+Je le tiens⁎ justement estre un autre vous-mesme.  
+Vous sçavez que Tindare a fait courir le bruit  
+Qu'il est en Italie : Or sçachez que la nuit  
+Il s'en va deguisé parler à ma Maitresse,  
+Qui pour luy meurt d'amour, et qui fait la Lucrece [104].  
+Vous en serez surpris, sans doute comme moy.  
+
+    ACASTE.
+Amy que dites-vous ? à peine je vous croy.  
+Ariste vient ici qui me le pourra dire.  
+Je vay luy demander.  
+
+    TIMANDRE.
+Adieu, je me retire,  
+Nous nous verrons tantost⁎.  
+
+
+### SCENE VI.
+ACASTE, ARISTE.
+
+
+    ACASTE.
+AMy je vous cherchois.  
+
+    ARISTE.
+Qu'avez-vous à me dire ?  
+
+    ACASTE.
+Ariste je voudrois  
+Sçavoir s'il est certain, car la chose m'importe,  
+Que depuis quelque mois Tindare soit de sorte  
+Refugié chez vous, et si secrettement  
+Qu'il ne sort du logis que de nuict seulement,  
+Pour voir et pour parler à certaine Maistresse  
+Qu'on nomme Liliane.  
+
+    ARISTE *bas*.
+Ah Dieux ! par quelle adresse,  
+Par quel moyen je viens à sçavoir aujourd'huy  
+Ce que je n'ay jamais peu descouvrir par luy.  
+Encor que l'on m'ait fait une defense expresse  
+De tenir ce secret, amy je vous confesse,  
+Car ne vous celant⁎ rien, je fay ce que je doy,  
+Qu'il est depuis six mois entiers caché chez moy.  
+Il ne sort que de nuit, et c'est une folie  
+De croire, comme on dit, qu'il soit en Italie,  
+Mais si je vous le dy gardez bien d'en parler,  
+C'est un secret qu'on m'a conjuré de celer⁎.  
+
+    ACASTE.
+Je n'en parleray pas, n'en soyez point en peine.  
+Il s'en va.
+
+
+    ARISTE *seul*.
+S'il aime Liliane, ah ma peur est bien vaine  
+De croire que l'objet⁎ qui cause mon soucy⁎  
+Soit la cause et l'objet⁎ de ses peines aussi.  
+Je n'ay point témoigné ma passion extresme  
+Ny mes transports⁎ d'amour à la beauté que j'ayme,  
+Croyant que mon amy pour qui j'ay du respect,  
+Bruslast aussi d'amour pour ce charmant objet⁎.  
+Mais à ce que je voy je ne m'en doy point feindre,  
+Ayant plus de sujet d'esperer que de craindre.  
+Ah ma chere Jacinte, et quand viendra le jour  
+Que tu m'obligeras⁎ d'un reciproque amour ?  
+Grands Dieux, lors⁎ que j'avois une ferme esperance  
+Que mon amy partoit, et que par son absence  
+J'aurois lieu de servir⁎ cette rare⁎ beauté  
+Et de me declarer en pleine liberté,  
+En feignant estre absent de la beauté que j'ayme  
+Je le tiens dans Paris, et dans mon logis mesme.  
+Mais allons la trouver, le Ciel m'inspirera,  
+Et je me resoudray sur ce qu'elle dira.  
+Fin du second Acte.
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE.
+ARISTE, JACINTE, JULIE.
+
+
+    ARISTE.
+JE ne sçay si venant de la part de Tindare  
+J'auray droict d'aborder⁎ une beauté si rare⁎,  
+Madame, puis-je entrer avecque liberté ?  
+
+    JACINTE.
+Vous avez de vous-mesme entiere authorité,  
+Monsieur, mais dites-moy quelles bonnes nouvelles  
+Avez-vous de sa part ?  
+
+    ARISTE.
+Madame elles sont telles  
+Que vous les souhaittez, il se porte fort bien,  
+Mais par cet ordinaire [105] il ne vous mande⁎ rien  
+Qu'un mot de compliment⁎ seulement dans ma lettre.  
+
+    JACINTE.
+Juste Ciel, comment donc m'oseray-je promettre  
+Qu'il m'aime comme il dit ? car ayant de l'amour  
+Pourroit-il demeurer sans m'escrire un seul jour ?  
+Qu'en dites-vous Ariste ? Ah folles que nous sommes  
+De nous fier si fort aux paroles des hommes.  
+Il est mesme parti le cruel de ce lieu  
+Sans m'estre venu voir, et sans me dire adieu.  
+Pardonnez mon transport⁎, je ne sçaurois moins faire,  
+Et ce n'est qu'à vos yeux qu'éclatte ma colere.  
+
+    ARISTE.
+Vostre plainte est tres-juste, et je dois en effect  
+Accuser mon amy du tort qu'il vous a fait,  
+S'il n'estoit pas si loing, Madame, je vous jure  
+Que j'irois à son cœur reprocher cette injure.  
+Est-il possible, ô Dieux ! qu'il ait si peu d'amour  
+Pour le plus rare⁎ objet⁎ qui respire le jour ?  
+Vous meritez sans doute une autre recompense.  
+Je prens congé de vous, mais durant mon absence  
+Croyez que dessus moy vous avez tout pouvoir.  
+
+    JACINTE.
+Faites-moy la faveur de me venir revoir,  
+Le plus que vous pourrez, Ariste, je vous prie,  
+Afin de divertir un peu ma resverie,  
+Pour discourir nous deux souvent de ce cruel.  
+
+    ARISTE *seul*.
+Je n'y manqueray pas, Madame. Juste Ciel  
+Amour que pretends-tu ? d'où te vient ce caprice ?  
+Pourquoy me fais-tu faire une telle injustice ?  
+Tindare mon amy, quoy qu'on le tienne⁎ absent,  
+Est ici dans Paris : et quoy ton cœur consent  
+A le desobliger⁎ ; lasche⁎, perfide, traistre,  
+Comment devant Tindare oseras-tu paroistre ?  
+Mais Jacinte est trop belle, et je ne sçaurois pas  
+Vivre et n'adorer point tant de charmans appas.  
+Amy pardonne-moy, ne trouve point estrange  
+Si j'adore ses yeux puis que tu cours au change⁎.  
+Mais j'apperçois Acaste, allons, sortons d'ici,  
+Son abord ne feroit qu'augmenter mon souci⁎.  
+
+
+### SCENE II.
+TIMANDRE, ACASTE, JODELET.
+
+
+    TIMANDRE.
+AInsi que je le dy la chose s'est passee,  
+Jamais fille ne fut si fort embarassee ;  
+Je sçavois ce secret, et n'avois pas dessein  
+Qu'elle le sceust de moy, mais ce cœur trop hautain  
+M'a traitté de mespris avec tant d'arrogance  
+Que je n'ay peu du tout souffrir⁎ son impudence,  
+L'ingrate m'a contraint exprez pour la fascher⁎,  
+De publier son crime, et le luy reprocher.  
+Je m'en suis repenty d'abord, je le confesse,  
+Mais Jodelet alors avec ce tour d'adresse,  
+Comme je vous ay dit, a le tout reparé,  
+Mais si subtilement, que vous eussiez juré  
+La chose veritable, enfin dans sa croyance  
+Il est le plus sçavant Astrologue⁎ de France.  
+
+    ACASTE.
+Ce conte sans mentir est subtil et plaisant.  
+
+    TIMANDRE.
+Ce n'est pas tout, Acaste, il nous faut à present  
+Publier en tous lieux cette estrange nouvelle,  
+Et la mettre par là s'il se peut en cervelle,  
+Soustenant hautement qu'il est vray devant tous,  
+Car l'apprenant ainsi par d'autres que par nous,  
+Elle croira bien mieux la chose veritable,  
+Et Nise en ce faisant ne sera plus coupable.  
+
+    ACASTE.
+Il ne faut que nous deux, car moy la publiant  
+Comme je pretens faire, et vous en l'advoüant,  
+Qui pourra par apres [106] soustenir le contraire ?  
+Laissez-moy comme il faut ménager cette affaire.  
+
+    JODELET.
+Et moy, me croyez-vous l'esprit si peu rusé  
+Que chacun n'y soit pas par moy-mesme abusé⁎ ?  
+Je ne parleray point qu'aussi-tost je ne face  
+En fronçant le sourci quelque estrange grimace,  
+Je tourneray les yeux quelquefois de travers,  
+Je sçauray composer mille gestes divers,  
+Comme un Poëte qui prend des vers à la pipee [107].  
+Quelle cervelle apres n'y seroit attrapee ?  
+Je diray, si quelqu'un vient vanter mon sçavoir,  
+C'est icy quelque fat qui me vient decevoir⁎,  
+Quoy ? vous pensez Messieurs, qu'aysement on m'abuse⁎ ?  
+Je n'eus pour me guider jamais verve [108] ny muse,  
+Je ne suis point Docteur, je cognoy seulement  
+Quelques signes cachez qui sont au Firmament.  
+Mais ceux que je feray feront assez cognoistre  
+Qu'en ce rare⁎ mestier je veux passer pour Maistre.  
+Mais que feray-je apres ? sur un si faux bruit [109],  
+Pour sçavoir son destin le monde me poursuit,  
+Sur ce qu'on m'enquerra que pourray-je respondre ?  
+Le moindre [110] suffira, Messieurs, pour me confondre,  
+Mesme les ignorants en seront estonnez⁎,  
+Et chacun me verroit avec un pied de nez.  
+Si l'on me fait parler, je ne pourray rien dire,  
+Vous sçavez bien, Messieurs, qu'à peine puis-je lire ?  
+
+    ACASTE.
+Fay tout ainsi qu'ils font pour acquerir renom,  
+Il ne faut qu'un oüy, quelquefois et qu'un non  
+Pour dupper l'ignorant sur ce qu'il vous confesse :  
+Mais il le faut conduire avecque telle adresse,  
+N'affirmant jamais rien, qu'on t'estime sçavant,  
+Ceux qui parlent beaucoup rencontrent⁎ bien souvent.  
+Les faiseurs d'Almanachs, les Devins, les Bohemes,  
+Je mets tout en un rang, et tous les sçavans mesmes,  
+Nul d'eux quoy qu'on les croye habiles en leur art  
+Ne rencontrent⁎ jamais si ce n'est par hazard.  
+
+    TIMANDRE.
+Ariste vient ici.  
+
+    ACASTE.
+Retirons-nous, Timandre,  
+Il cherche le filet, sans doute il vient s'y prendre,  
+Il ne nous a point veus, duppe le.  
+
+    TIMANDRE.
+Je le veux.  
+
+    ACASTE.
+Adieu.  
+
+
+### SCENE III.
+
+    ARISTE *seul*.
+FUt-il jamais homme plus malheureux ?  
+Je suis le confident et l'amy de Tindare,  
+Il m'ayme, je le sçay, mais d'une amitié rare⁎,  
+Il m'est amy, je suis neantmoins son rival ;  
+O Dieux ! est-il destin à mon destin esgal ?  
+Quel bien dans mon amour me pourrois-je promettre ?  
+J'apporte de Tindare à Jacinte une lettre,  
+Il la date de Rome, et l'escrit de chez moy ;  
+Grands Dieux à mon amy c'est bien manquer de foy⁎ !  
+Quoy ? je m'ose addresser à la beauté qu'il ayme,  
+Connoissant que l'amour de Jacinte est extresme ?  
+Allons chez elle, oyons ce qu'elle nous dira,  
+Et peut-estre qu'alors le Ciel m'inspirera,  
+Il me faut declarer à la beauté que j'ayme,  
+C'est Acaste, je croy, sans doute c'est luy-mesme.  
+
+
+### SCENE IV.
+ACASTE, ARISTE.
+
+
+    ACASTE.
+LE voici, mais feignons de ne l'avoir point veu,  
+Commençons nostre fourbe⁎ ; Ah grands Dieux qui l'eust creu !  
+Comment peut un mortel de si basse naissance  
+Posseder comme il fait une telle science ?  
+
+    ARISTE.
+Que faites-vous Acaste ? où s'adressent vos pas ?  
+Quoy ? je suis prés de vous, et ne me voyez pas ?  
+
+    ACASTE.
+J'ay les sens tout confus, Ariste, je le jure,  
+Ce que je viens de voir me semble une imposture,  
+Je suis tout estonné⁎, vous le serez aussi.  
+
+    ARISTE.
+Dites moy ce que c'est ?  
+
+    ACASTE.
+Sommes-nous seuls icy ?  
+
+    ARISTE.
+Oüy parlez librement.  
+
+    ACASTE.
+Vous cognoissez Timandre ?  
+
+    ARISTE.
+Oüy, fort bien, achevez.  
+
+    ACASTE.
+Cela vous va surprendre  
+Ainsi comme il m'a fait. Il a certain valet  
+Que vous cognoissez bien, appellé Jodelet.  
+Ah ! quel rare⁎ homme c'est !  
+
+    ARISTE.
+Comment ?  
+
+    ACASTE.
+C'est un prodige.  
+
+    ARISTE.
+Un prodige ? Comment ?  
+
+    ACASTE.
+Un miracle, vous dis-je ?  
+
+    ARISTE.
+Cet homme si mal fait⁎ ? que je voy si souvent ?  
+
+    ACASTE.
+C'est de tous les mortels l'homme le plus sçavant,  
+Comme son Alphabeth il sçait l'Astrologie⁎,  
+Et je ne pense pas qu'il n'use de Magie.  
+Il le faut croire ainsi, car sans estre sorcier,  
+Et sans avoir sur luy quelque esprit familier  
+Il ne sçauroit jamais par aucune science  
+Faire ce qu'il a fait tantost⁎ en ma presence.  
+Vous seriez estonné⁎ de tout ce qu'il a fait,  
+Il a devant mes yeux fait parler un portraict.  
+Je suis tout hors de moy d'avoir veu ces merveilles  
+Qui bien plus que mes yeux ont trompé mes aureilles.  
+Il m'a rendu l'esprit si fort embarassé  
+Alors qu'il m'a conté tout ce qui s'est passé  
+Depuis que je suis nay [111], jusqu'aux moindres pensees  
+Que j'en suis tout confus, si comme les passees  
+Il cognoist comme il dit les choses à venir,  
+Je doy cherir mon sort, ouy je le doy benir,  
+Car jamais sous le Ciel ne se vit heur⁎ semblable  
+A l'heur⁎ qu'il me promet.  
+
+    ARISTE.
+Est-il bien veritable ?  
+
+    ACASTE.
+Il n'est rien de plus vray ; Mais le cognoissez-vous ?  
+
+    ARISTE.
+Pour moy je le prenois pour le Maistre des fous,  
+J'ay parlé seulement une fois à son Maistre,  
+Que je n'ay pas l'honneur autrement de cognoistre.  
+Mais je remarqué lors⁎ que ce valet icy  
+Grimassoit en resvant⁎, et fronçoit le sourcy,  
+Comme s'il eust tramé quelque grande entreprise,  
+Mais je l'attribuois purement à sottise,  
+Et n'en pouvois pas faire un autre jugement.  
+
+    ACASTE.
+Sa fureur le tenoit pour lors⁎ asseurement.  
+Il ne faut pas toujours juger sur l'apparence.  
+
+    ARISTE.
+Donnez-moy, cher amy, l'heur⁎ de sa cognoissance,  
+Vous m'obligerez⁎ fort.  
+
+    ACASTE.
+Oüy, quand vous le voudrez  
+Je vous y meneray, certes vous cognoistrez  
+Un excellent esprit, et le plus sçavant homme  
+Que l'on sçauroit trouver d'icy jusques à Rome.  
+Que dis-je jusqu'à Rome ? ah dessous le Soleil  
+Je croy qu'on auroit peine à trouver son pareil.  
+Vous verrez sans mentir des choses admirables,  
+Que vous ne tiendrez⁎ pas vous mesme veritables.  
+
+    ARISTE.
+Seroit-il bien sorcier ?  
+
+    ACASTE.
+Il n'en faut point douter,  
+Il faudroit trop de temps, je ne puis tout raconter.  
+
+    ARISTE.
+J'ay quelque affaire icy. Voudriez-vous m'attendre  
+Chez vous ?  
+
+    ACASTE.
+Ne manquez pas, Ariste, à vous y rendre,  
+J'iray droict de ce pas. Il en tient [112] tout de bon⁎.  
+Il sort.
+
+
+    ARISTE *seul*.
+La surprise est estrange, Ah Dieux le croiroit-on !  
+S'il ne m'abuse⁎ pas, luy-mesme il s'abuse⁎,  
+Me dire qu'un valet qui me semble une buze,  
+Soit un tel personnage ? un prodige en sçavoir ?  
+Un tresor de tel prix ? allons il le faut voir ;  
+Mais n'apperçoy-je pas Jacinte sur sa porte ?  
+Dieux de quelle façon cet amour me transporte⁎,  
+Portons-luy cette lettre, allons nous declarer,  
+Sçachons s'il faut mourir, ou s'il faut esperer.  
+
+
+### SCENE V.
+JULIE, JACINTE, ARISTE.
+
+
+    JULIE.
+LE disois-je pas bien ? c'est Ariste, Madame.  
+
+    JACINTE.
+Ariste, justes Dieux ! quel trouble j'ay dans l'ame.  
+Ariste, qu'avez-vous ?  
+
+    ARISTE.
+Rasseurez vostre esprit,  
+Je viens de recevoir maintenant cet escrit,  
+Madame le voila.  
+
+    JACINTE.
+De la part de Tindare ?  
+
+    ARISTE.
+De qui doncques, Madame ?  
+
+    JACINTE.
+Ah mon esprit s'égare !  
+Je suis si hors de moy, j'ay les sens si confus  
+Qu'en l'estat où je suis je ne me cognoy plus.  
+Mais encor dites moy d'où m'escrit-il Ariste ?  
+
+    ARISTE.
+Il vous escrit de Rome.  
+
+    JACINTE.
+Ah ce discours m'attriste,  
+Veut-il toute sa vie estre esloigné de moy ?  
+
+    ARISTE.
+Il vous contentera là dessus que je croy.  
+
+    JACINTE.
+Voyons ce qu'il m'escrit.  
+
+    ARISTE *bas durant qu'elle lit.*
+Il faut prendre courage,  
+Je ne doy point sans doute attendre davantage,  
+Mais que peut, justes Dieux ! contenir cet escrit ?  
+Je voy qu'en le lisant Jacinte s'attendrit,  
+Je suis mort autant vaut⁎, je perds toute esperance,  
+De m'aller descouvrir, grands Dieux quelle apparence [113] ?  
+Elle témoigne trop l'amour qu'elle a pour luy.  
+
+    JACINTE.
+Je ne verray jamais de fin à mon ennuy⁎,  
+Laissons, ne lisons pas cet escrit davantage,  
+Si j'ay beaucoup d'amour, j'ay bien peu de courage  
+D'adorer cet ingrat en voyant ses mespris.  
+
+    ARISTE *bas*.
+Courage, tout va bien, reprenons nos esprits.  
+
+    JACINTE.
+Ah ! je meurs de douleur.  
+
+    ARISTE *bas*.
+Que ma raison est vaine⁎.  
+
+    JACINTE.
+Cette absence me met, Ariste, en telle peine,  
+Tant j'ayme cet ingrat, que je ne pense pas  
+Dans ces pressans ennuis⁎ éviter le trespas,  
+J'ay peur que tout au moins ma raison ne s'emporte.  
+
+    ARISTE *bas*.
+N'en parlons plus, ô Dieux ! mon esperance est morte.  
+
+    JACINTE.
+Ariste, pleust à Dieu que je peusse un moment  
+Parler à cet ingrat, ou le voir seulement.  
+Mais cela ne se peut.  
+
+    ARISTE.
+Si vous voulez, Madame,  
+Je puis bien en ce poinct soulager vostre flame⁎,  
+Il m'est facile assez de vous le faire voir.  
+
+    JACINTE.
+Vous mocquez-vous [114], Ariste, auriez-vous ce pouvoir  ?  
+Si vous faites cela vous me donnez la vie.  
+
+    ARISTE.
+Laissez moy contenter vostre amoureuse envie.  
+
+    JACINTE.
+Il est donc dans Paris ? ah ! douceur de mon sort.  
+
+    ARISTE *bas*.
+Ah Dieux ! en ce faisant je procure ma mort.  
+Reparons cette faute, usons d'une industrie⁎.  
+
+    JACINTE.
+Parlez-moy franchement Ariste, je vous prie.  
+
+    ARISTE *bas*.
+Il faut pour contenter mon desir et le sien  
+Me servir en ce cas de ce Magicien.  
+Ouy Jodelet le peut, sa science est certaine,  
+Et par un tel moyen je la veux mettre en peine.  
+Haut.
+
+Madame, je cognois un homme qui peut tout,  
+Qui de tous vos desseins pourra venir à bout,  
+Et vous fera venir aujourd'huy sans obstacle  
+Tindare d'Italie en ce lieu par miracle.  
+
+    JACINTE.
+Ariste, resvez⁎-vous ?  
+
+    ARISTE.
+Non, je ne resve⁎ point.  
+
+    JACINTE.
+Quoy ? je serois heureuse ? et jusques à ce poinct ?  
+Je pourrois voir ici ce cher Amant que j'ayme ?  
+
+    ARISTE.
+Non Tindare en effect, mais un autre luy-mesme,  
+Un esprit fantastique, un corps formé dans l'air,  
+Que vous verrez, Madame, et luy pourrez parler,  
+Au mesme estat qu'il est à present dedans Rome.  
+
+    JACINTE.
+Un esprit peut dans l'air prendre forme d'un homme ?  
+Qui ne sera pas luy, mais qui le paroistra ?  
+
+    ARISTE.
+Ouy dans le mesme estat que pour lors⁎ il sera,  
+Mais aurez-vous, Madame, assez de hardiesse [115]  
+Pour luy pouvoir parler ? je crains vostre foiblesse,  
+Et que vous n'osiez pas ce que vous souhaittez.  
+
+    JACINTE.
+Ariste, c'en est trop, vous me persecutez [116],  
+Faites-moy seulement le bien que je le voye,  
+Vous comblerez mes sens de trop d'heur⁎ et de joye,  
+Ne me retardez point cette felicité.  
+
+    ARISTE *bas*.
+Je pretens l'abuser⁎ avec la verité.  
+Cognoissez vous Timandre, un homme d'importance ?  
+Qui se tient ici prez ?  
+
+    JACINTE.
+J'ay peu de cognoissance  
+Avec luy, l'est-ce donc [117] ?  
+
+    ARISTE.
+Non, mais un sien valet  
+Qui le suit quelquefois, qu'on nomme Jodelet.  
+Madame croyez-moy qu'il n'est en cette ville  
+Ny dans le monde entier, un qui soit plus habile.  
+Il surprendra sans doute à l'abord tous vos sens.  
+Il fait parler les morts, revenir les absents.  
+
+    JACINTE.
+Comment ce nazillard ? cette triste figure ?  
+
+    ARISTE.
+Luy-mesme, mais sçachez qu'en toute la Nature  
+Il n'est point de mortel qui l'égale en sçavoir.  
+
+    JACINTE.
+Dieux ! que me dites-vous ?  
+
+    ARISTE.
+Il faudroit pour le voir  
+Et pour le gouverner s'addresser à son Maistre.  
+Je n'ay pas à present l'honneur de le cognoistre,  
+Ny de l'avoir hanté [118], toutefois aujourd'huy  
+Un amy m'a promis de me mener chez luy.  
+
+    JACINTE.
+Pour jouyr [119] d'un tel bien j'ay trop d'impatience.  
+
+    ARISTE.
+Mais dites-moy, Madame, aurez-vous l'asseurance  
+De voir un tel fantosme ? aurez-vous point de peur ?  
+
+    JACINTE.
+Avecque tant d'amour, manquerois-je de cœur⁎ ?  
+
+    ARISTE.
+Adieu, je voudrois bien vous rendre ce service⁎ [120] .  
+Ariste sort.
+
+
+    JACINTE.
+Je sçauray reconnoistre un si parfait office⁎,  
+N'en doutes point, Ariste, ou je puisse perir [121].  
+Monte là-haut, Julie, et va-t'en me querir  
+Et ma coiffe et mon masque.  
+
+    JULIE.
+Ah ! que voulez-vous faire ?  
+
+    JACINTE.
+Je veux tout sur le champ terminer cette affaire,  
+Va donc, depesche-toy.  
+
+    JULIE.
+Vous avez l'esprit prompt,  
+Comment sans le connoistre aurez-vous bien le front  
+De l'aller requerir ? craignez-vous point le blasme ?  
+
+    JACINTE.
+Un Cavalier⁎ peut-il refuser une femme ?  
+
+    JULIE.
+Considerez-le mieux.  
+
+    JACINTE.
+Je l'ay consideré,  
+C'est trop peu pour un bien que j'ay tant desiré.  
+
+
+### SCENE VI.
+ACASTE, JODELET, TIMANDRE.
+
+
+    ACASTE.
+JOdelet en tout lieu ta science est connuë,  
+Chacun te montre au doigt à present dans la ruë,  
+Et tous en admirant ton unique sçavoir  
+Chacun brusle à l'envi [122] du desir de te voir.  
+Je n'ay jamais tant eu de plaisir en ma vie,  
+J'ay sur le champ esté pour voir la Comedie,  
+Et comme j'ay voulu d'abord parler de toy  
+J'ay veu qu'on le sçavoit autant ou mieux que moy.  
+Et plusieurs raffinans [123] dessus mon industrie⁎,  
+Faisoient passer pour vraye entr'eux ma menterie.  
+Et l'un d'eux attestant de ses yeux avoir veu  
+Des prodiges de toy, peu s'en faut, je l'ay creu.  
+Et j'aurois à present bien de la peine à faire  
+Que pas un d'eux voulust soustenir le contraire.  
+
+    TIMANDRE.
+Il ne faut pas avoir grande subtilité  
+Pour faire authoriser [124] un mensonge inventé,  
+Le peuple adjouste foy⁎ bien plutost à des fables,  
+Qu'aux choses qui par tout passent pour veritables.  
+
+    JODELET.
+Et moy, quoy que je sois un parfait ignorant,  
+Si je passe par tout aujourd'huy pour sçavant,  
+Quand je seray cognu pour qui je suis peut-estre,  
+Je me repentiray de m'estre fait cognoistre,  
+Je passeray pourtant pour tel, puis qu'il vous plaist.  
+
+    TIMANDRE.
+On frappe, Jodelet, va, regarde qui c'est.  
+Qui dans ce passe-temps peut s'empescher de rire ?  
+
+    JODELET.
+Une Dame, Monsieur, masquée, et qui desire  
+Vous dire icy deux mots.  
+
+    TIMANDRE.
+Qu'elle entre promptement.  
+Qui sera-t'elle, ô Dieux ?  
+
+
+### SCENE VII.
+JACINTE, JULIE, TIMANDRE, ACASTE, JODELET.
+
+
+    JACINTE.
+J'Entre bien librement.  
+Faites-moy, s'il vous plaist, la faveur de m'apprendre  
+Lequel c'est de vous deux qui s'appelle Timandre.  
+
+    TIMANDRE.
+Chacun m'appelle ainsi, Madame, mais pourquoy  
+Auriez-vous le dessein de vous servir de moy ?  
+Serois-je assez heureux ? commandez je vous prie.  
+
+    JACINTE.
+J'use avec vous, Monsieur, de trop d'effronterie,  
+Que je parle à vous seul, avec vostre valet.  
+
+    TIMANDRE.
+Madame, je le veux, approche, Jodelet,  
+Acaste, obligez⁎-moy, retirez-vous de grace.  
+
+    ACASTE.
+Il n'est rien, cher amy, que pour vous je ne fasse ;  
+Cachons-nous, escoutons quel est leur entretien.  
+
+    TIMANDRE.
+Madame, seyez-vous, et ne redoutez rien.  
+
+    JACINTE *se descouvrant*.
+Je vous obeïray, Monsieur.  
+
+    TIMANDRE.
+C'estoit dommage  
+De nous vouloir cacher un si parfait visage,  
+Quoy que ces brillans yeux, ces beaux astres d'Amour  
+Descouvroient trop l'esclat qui nous donne le jour.  
+
+    JACINTE.
+Vueillez donc secourir une femme affligee,  
+Qui par vous seulement peut estre soulagee,  
+J'aurois tort de vouloir vous cacher qui je suis,  
+Ny le sujet aussi qui cache mes ennuis⁎,  
+Puis que par le moyen d'une science extréme  
+Rien ne vous est caché. Je diray donc que j'aime,  
+Le dis-je sans rougir ? ouy, l'aymable⁎ vainqueur  
+Qui d'un trait de ses yeux m'a desrobé le cœur,  
+Possede tant d'appas et de si puissans charmes  
+Que pour m'en garantir j'ay de trop foibles armes.  
+Depuis six mois entiers il est absent d'icy,  
+Et c'est le seul sujet qui cause mon souci⁎.  
+Le desplaisir que j'ay de cette longue absence  
+Tient mon cœur amoureux en trop d'impatience.  
+Je brusle de le voir, ne vous estonnez point  
+De me voir à present reduite en un tel point,  
+Vous ayant dit mon mal, et confessé que j'ayme,  
+Ma passion me doit porter jusqu'à l'extréme.  
+Je viens de recevoir cette lettre de luy,  
+Et c'est ce qui m'afflige et cause mon ennuy⁎,  
+Puis que par cet escrit je n'ay nulle esperance  
+De revoir que bien tard ce mien Amant en France.  
+Vous avez un valet qui par son grand sçavoir,  
+A ce que l'on m'a dit, me le peut faire voir :  
+De là despend, Monsieur, le bonheur de ma vie,  
+Il peut en un clin d'œil revenir d'Italie,  
+Si vostre valet veut. Vueillez donc m'accorder  
+La faveur, s'il vous plaist, de le luy commander,  
+Vous estes Cavalier⁎, vous recevriez [125] du blasme   
+Si vous vous resolviez d'esconduire une femme :  
+Vous estes genereux, faites donc qu'aujourd'huy  
+Je puisse par son art soulager mon ennuy⁎.  
+
+    TIMANDRE *bas*.
+A-t'on jamais parlé d'aventure semblable ?  
+Dissimulons pourtant. Il n'est pas raisonnable,  
+Madame, de vouloir en cette occasion⁎  
+Vous tromper en flatant vostre inclination⁎.  
+Mon valet, je l'advouë, entend l'Astrologie⁎,  
+Mais ce que vous voulez dépend de la Magie.  
+Qui vous met en l'esprit de telles visions ?  
+Il faut pour ce sujet commander aux Demons.  
+Vous imaginez-vous, grands Dieux quelle folie !  
+Qu'on le puisse à l'instant r'appeller d'Italie ?  
+Et le faire apporter par l'air dedans ces lieux,  
+Pour avoir seulement cognoissance des Cieux ?  
+D'où sçavez-vous, Madame, et qui vous a fait croire  
+Que mon valet s'entend à la science noire ?  
+Quiconque l'auroit fait, ou pensé seulement  
+Meriteroit en France, un rude chastiment.  
+
+    JODELET.
+Non, je ne suis pas tel.  
+
+    JACINTE.
+Vous pouvez sans scrupule  
+Vous descouvrir à moy, je ne suis point credule  
+A tel poinct qu'aysement on m'ait peu decevoir⁎ ;  
+Je sçay jusqu'où s'estend son merveilleux sçavoir,  
+Sa science est, Monsieur, miraculeuse et rare⁎.  
+
+    TIMANDRE.
+Le nom de vostre Amant.  
+
+    JACINTE.
+Il s'appelle Tindare,  
+Depuis six mois entiers il est absent d'ici.  
+
+    TIMANDRE *bas à Jodelet.*
+Jodelet, que t'en semble ? escoutes-tu ceci ?  
+
+    JODELET *bas*.
+Fort bien.  
+
+    JACINTE.
+Je garderay le secret quoy que femme.  
+
+    TIMANDRE.
+Jodelet, en ce poinct il faut servir Madame,  
+Elle est femme d'honneur, va ne redoute rien.  
+Escoute un mot icy.  
+Il luy parle à l'oreille.
+
+
+    JODELET.
+Je vous entends fort bien,  
+Il vous faut obeyr, mon Maistre le commande,  
+Mais pour dire le vray, Madame, j'apprehende,  
+Et j'en ay du subjet, qu'on m'aille descouvrir.  
+
+    JACINTE.
+Ne crains point, mon amy, j'aymerois mieux mourir.  
+
+    JODELET.
+Il vous faut donc servir, Madame, tout que vaille [126].  
+Vostre Amant n'est-il pas d'une assez belle taille ?  
+Avec de grands cheveux frisez, haut en couleur,  
+Sur tout propre en habits, discret⁎, et peu parleur,  
+D'une façon modeste, et qui demeure à Rome  
+Depuis six mois entiers !  
+
+    JULIE.
+Ah ! le merveilleux homme !  
+Est-il possible, ô Dieux ! qu'il ait un tel esprit ?  
+Je suis tout hors de moy, qui luy peut avoir dit ?  
+
+    JACINTE.
+Le sçavois-je pas bien ! c'est un homme admirable,  
+Ce que vous dites-là n'est que trop veritable,  
+C'est le mesme en effet.  
+
+    JODELET.
+Madame, jurez-moy  
+Qu'en cette affaire ici vous me tiendrez [127] la foy⁎  
+Que vous me promettez, ce faisant je m'oblige  
+De vous le faire voir.  
+
+    JACINTE.
+Quand ?  
+
+    JODELET.
+Aujourd'huy, vous dis-je.  
+
+    JACINTE.
+Ouy, je te le promets.  
+
+    JODELET.
+N'aurez-vous point de peur ?  
+Luy pourrez-vous parler ?  
+
+    JACINTE.
+Va, va, j'ay trop de cœur⁎,  
+Que j'ay, si je le voy, de choses à luy dire.  
+
+    JODELET.
+Madame, tout à l'heure [128] il vous luy faut escrire.  
+Je vay querir dequoy.  
+Il sort.
+
+
+    JACINTE. *à Timandre*.
+Dieux ! que vous estes heureux  
+De posseder chez vous cet homme merveilleux ?  
+Quel espoir il me donne, ah ! j'ay l'ame ravie.  
+
+    TIMANDRE.
+Il peut facilement contenter vostre envie.  
+
+    JODELET *avec plume et papier.*
+Escrivez à present.  
+
+    JACINTE.
+Qu'escriray-je ?  
+
+    JODELET.
+Escrivez  
+Ce que je dicteray. Cher Tindare, approuvez.  
+Jacinte escrit.
+
+Non, effacez ce mot, et mettez, Cher Tindare,  
+Je vous attends chez moy tantost⁎, et me prepare  
+A vous bien recevoir. Croyez que je sçay bien  
+Où vous estes, venez, et ne redoutez rien.  
+Mettez-y vostre nom. Allez, laissez-moy faire,  
+Je sçay bien comme il faut mesnager cette affaire :  
+Vous le verrez tantost⁎ chez vous asseurément.  
+
+    JACINTE.
+Dieux ! je seray ravie en cet heureux moment.  
+Je vous baise les mains⁎, Monsieur, je vous rens grace.  
+
+    TIMANDRE.
+Je suis content pourveu que je vous satisface.  
+
+    JACINTE *à Jodelet*.
+Va, je reconnoistray [129] le bien que tu me fais.  
+
+    JODELET.
+Vous servant, mes desirs sont assez satisfais.  
+
+
+### SCENE VIII.
+TIMANDRE, ACASTE, JODELET.
+
+
+    TIMANDRE.
+AVez-vous jamais veu de plus plaisante histoire ?  
+
+    ACASTE.
+Je la voy de mes yeux, et j'ay peine à la croire,  
+J'en ay pensé mourir de rire.  
+
+    TIMANDRE.
+Avez-vous veu  
+Que tout ce qu'il a dit l'innocente l'a creu.  
+
+    ACASTE.
+Vous rencontrez des gens de legere croyance.  
+
+    TIMANDRE.
+Qui pourroit en douter avec cette apparence ?  
+Que pretens-tu de faire à present, Jodelet ?  
+
+    JODELET.
+Il faut faire couler finement ce poulet [130]  
+Dans le logis d'Ariste.  
+
+    ACASTE.
+Et puis.  
+
+    JODELET.
+Laissez-moy faire,  
+Tindare la lira, qui voyant son affaire  
+Destruite, et son secret tout à fait descouvert  
+Viendra trouver Jacinte.  
+
+    ACASTE.
+Enfin à quoy te sert  
+Ta belle invention, crois-tu, quoy qu'on te dies,  
+Que ce nœud soit pareil à ceux des Comedies  
+Où tousjours tout succede ainsi qu'on l'a tracé ?  
+Quand bien il se verroit l'esprit embarassé  
+Ira-t'il chez Jacinte ? en voudrois-tu respondre ?  
+S'il n'y va point, il peut tous tes desseins confondre.  
+
+    JODELET.
+Nous ne manquerons point d'excuses en ce cas  
+Quand chez elle aujourd'huy Tindare n'iroit pas.  
+
+    TIMANDRE.
+Si tous ne sont duppez, nous en dupperons une,  
+Et laissons faire apres le reste à la fortune⁎.  
+Fin du troisiesme Acte.
+
+
+## ACTE IIII.
+
+
+### SCENE PREMIERE.
+ARISTE, TINDARE.
+
+
+    ARISTE.
+ELLE demeura triste, et l'esprit interdit⁎  
+Quand elle eut achevé de lire vostre escrit,  
+Et j'ay connu par là sa passion extréme,  
+Et qu'elle vous cherit à l'esgal d'elle-mesme,  
+Vous devriez [131] la traitter avec moins de rigueur.  
+
+    TINDARE.
+Pour parler franchement j'ayme ailleurs, et mon cœur  
+Brusle pour un objet⁎ si parfait et si rare⁎,  
+Qu'en vain Jacinte aspire à posseder Tindare.  
+Ceci soit entre nous, je me sens enflamé [132]  
+D'un objet⁎ que j'adore, et dont je suis aimé :  
+Je n'aime, cher Ami, Jacinte que par feinte,  
+Et pour couvrir le feu⁎ dont mon ame est atteinte.  
+
+    ARISTE.
+Vous vous consoleriez, à ce que je puis voir,  
+Si quelqu'autre que vous tomboit sous son pouvoir.  
+
+    TINDARE.
+Si vous parlez pour vous, sans que je m'en offense,  
+Vous en avez, Ariste, une entiere licence.  
+
+    ARISTE.
+J'useray de bon cœur de cette liberté,  
+Mais contentez encor ma curiosité.  
+Qui peut tenir vostre ame en telle inquietude ?  
+Et quel est le sujet de cette solitude ?  
+Qui ceans⁎ vous retient si long-temps enfermé ?  
+Car si vous aimés bien, si vous estes aimé,  
+Qui vous peut obliger à cette procedure ?  
+Si vous me la cachez, vous me faites injure,  
+Doit-on ainsi traitter un Amy si parfait ?  
+
+    TINDARE.
+Si je pouvois, Ami, vous seriez satisfait.  
+Si j'osois à quelqu'un descouvrir cette histoire,  
+Ce seroit à vous seul, vous le pouvez bien croire,  
+Mais soyez asseuré que je ne le puis pas.  
+
+    ARISTE.
+Ce secret est tres-grand pour en faire un tel cas.  
+Adieu je ne veux point en dire davantage :  
+Voyez si vous devez me le taire. Je gage,  
+Encor que vous fassiez le sage⁎ et le discret⁎,  
+Que fort peu dans Paris ignorent ce secret.  
+Mais je vous veux laisser dans vostre solitude.  
+Il sort.
+
+
+    TINDARE *seul*.
+Dieux, ce discours me met en telle inquietude !  
+Que je ne sçaurois bien rasseurer mon esprit :  
+Mais quoy ? ne voy-je pas à mes pieds un escrit ?  
+Dieux ! il s'adresse à moy, voyons-le.  
+Il lit.
+
+Cher Tindare,  
+Je vous attens chez moy tantost⁎, et me prepare  
+A vous bien recevoir : croyez que je sçay bien  
+Où vous estes, venez, et ne redoutez rien.  
+Jacinte on m'a trahi, grands Dieux ! que doy-je faire ?  
+Ariste a descouvert sans doute le mystere,  
+Que dira Liliane ? Ah ! je perds en ce jour  
+Tout ce que j'esperois d'un si parfait amour.  
+Allons-y toutefois, et trouvons quelque ruse  
+Qui dans l'occasion⁎ non seulement l'abuse⁎,  
+Mais qui luy donne encor des preuves de ma foy⁎.  
+
+
+### SCENE II.
+TINDARE, NISE.
+
+
+    TINDARE.
+QUe veut dire cela ? comment ? Nise chez moy ?  
+Ah ! je suis descouvert, ma perte est trop certaine.  
+Nise, que me veux-tu ? dy.  
+
+    NISE.
+Vous tirer de peine,  
+Le Ciel met aujourd'huy vos desseins à l'envers,  
+Par un certain malheur vous estes descouvers :  
+Mais par un cas estrange, et difficile à croire,  
+Ma Maistresse tantost⁎ vous en fera l'histoire :  
+Tindare, allez-la voir, mais allez en plein jour,  
+Et cachez neantmoins à chacun vostre Amour ;  
+Chassez aussi de vous toute melancolie,  
+Et feignez d'arriver sur le champ d‘Italie,  
+Sçachez que ma Maistresse a son oncle à Thurin,  
+Le frere de son pere, appellé Palmerin.  
+Pour avoir le moyen de salüer son pere,  
+Dites-luy qu'à Thurin vous avez veu son frere,  
+Qu'en passant il vous a chez luy fort regalé,  
+Mais que par les chemins ayant esté volé,  
+On vous a pris sa lettre avec vostre equipage.  
+Je ne sçaurois, Monsieur, demeurer davantage,  
+Madame vous attend. Adieu, feignez si bien  
+Que de cette autre fourbe⁎ on ne descouvre rien.  
+
+    TINDARE.
+Escoute encor un mot.  
+
+    NISE.
+Je ne sçaurois, Tindare,  
+Adieu.  
+
+    TINDARE.
+Cet avanture est sans mentir fort rare⁎,  
+Allons trouver Jacinte, et dans ce mesme jour  
+Cachons bien nostre feinte ainsi que nostre amour.  
+
+
+### SCENE III.
+JULIE, JACINTE.
+
+
+    JULIE.
+MAis, Madame, en effet vostre raison s'esgare,  
+Vous imaginez-vous aujourd'huy que Tindare  
+Puisse venir ceans⁎ ainsi qu'on vous a dit ?  
+N'avez-vous pas receu de sa part un escrit  
+Par où vous voyez bien qu'il est en Italie ?  
+
+    JACINTE.
+A-t'on jamais parlé d'une telle folie ?  
+Quoy ! par ton ignorance, imbecille, crois-tu  
+Borner la suffisance [133] et la rare⁎ vertu  
+De ce divin Esprit tout confit [134] en science ?  
+Est-il rien qui ne soit soubmis à sa puissance ?  
+
+    JULIE.
+Mais quel fruict, dites-moy, pourrez-vous recevoir  
+D'un fantosme trompeur ?  
+
+    JACINTE.
+Le plaisir de le voir.  
+
+    JULIE.
+Ce ne sera pas luy.  
+
+    JACINTE.
+Mais il sera, Julie,  
+Tout tel que de present [135] il est en Italie.  
+
+    JULIE.
+Mais enfin, n'aurez-vous nulle apprehension  
+De voir devant vos yeux l'estrange vision  
+D'un corps qui paroistra seulement par magie⁎ ?  
+
+    JACINTE.
+Quoy ! d'un homme que j'ayme à l'esgal de ma vie ?  
+Non, non, j'ay trop de cœur⁎.  
+
+    JULIE.
+Mais moy, je n'en ay pas.  
+
+    JACINTE.
+Va promptement ouvrir, quelqu'un frappe là-bas.  
+
+    JULIE.
+Bien, Madame, j'y cours.  
+
+    JACINTE *seule*.
+Que je suis malheureuse,  
+O Dieux, que ne fait point une femme amoureuse ?  
+Quel obstacle s'oppose à son contentement ?  
+
+
+### SCENE IV.
+JULIE, JACINTE, TINDARE.
+
+
+    JULIE *espouventée*.
+IL n'est rien de plus vray que cet enchantement.  
+Je suis morte autant vaut⁎ : c'est Tindare, Madame.  
+
+    JACINTE.
+Que dis-tu ?  
+
+    JULIE.
+C'est luy-mesme.  
+
+    JACINTE.
+Ah ! justes dieux ? je pasme [136],  
+Je confesse mon foible [137], helas ! je n'en puis plus,  
+Le courage me manque, et mes sens sont confus.  
+J'ay desiré vous voir, et non pas vous parler.  
+
+    TINDARE.
+Il n'est plus temps de feindre et de dissimuler,  
+Madame, permettez qu'ici je vous embrasse.  
+
+    JACINTE *troublée.*
+Que vois-je ? justes Dieux ! retirez-vous de grace ?  
+Sortez d'icy, Tindare, et ne m'approchez pas.  
+
+    TINDARE.
+Quoy vous me rejettez quand je vous tens les bras ?  
+Madame, pouvez-vous me traitter de la sorte ?  
+
+    JACINTE.
+A l'ayde, mes Amis, sauvez-moy, je suis morte,  
+La force me defaut [138], et je tremble de peur.  
+
+    TINDARE.
+Est-ce de la façon qu'on me reçoit, mon cœur ?  
+Apres avoir souffert⁎ une si longue absence ?  
+De mes travaux passez [139] est-ce la recompense ?  
+Quand je viens pour jouyr du bonheur de vous voir ?  
+
+    JACINTE.
+Je l'avoüe, il n'est pas, Tindare, en mon pouvoir,  
+Suffit, je vous ay veu, sortez d'ici, de grace.  
+
+    TINDARE.
+Qu'entens-je ? qu'est-ce-cy, cette peur m'embarasse,  
+Si pour m'estre absenté vous doutez de ma foy⁎,  
+Je vous satisferay, Madame, escoutez-moy.  
+
+    JACINTE.
+Non, je n'escoute point, ah ! grands Dieux ! quel martire [140] ?  
+
+    TINDARE.
+Pour un certain sujet que je m'en vay vous dire.  
+
+    JACINTE.
+Je le sçay bien ; quel trouble agite mon esprit ?  
+
+    TINDARE.
+Je suis ici venu, mandé⁎ par vostre escrit.  
+
+    JULIE.
+Ah ! qui si tost a peû luy porter cette lettre ?  
+Il faut bien qu'un Demon.  
+
+    TINDARE.
+Me voulez-vous permettre  
+De me justifier, Madame, là-dessus ?  
+
+    JACINTE.
+Ouy, je vous ay mandé⁎ : mais las [141] ! je n'en puis plus,  
+Je ne sçaurois parler, ma surprise est extréme,  
+Enfin, ce que j'ay faict monstre que je vous aime,  
+Tindare, c'est assez, pour Dieu retirez-vous.  
+
+    TINDARE.
+Qu'est-ce-cy donc ? Madame, est-ce peur, ou courrous ?  
+Escoutez mes raisons, oyez-moy, je vous prie.  
+
+    JACINTE.
+Ma curiosité me coustera la vie,  
+Je meurs, je n'en puis plus, j'ay le sang tout glacé.  
+
+    TINDARE.
+Quoy que vous ayez sceu tout ce qui s'est passé,  
+Vous m'excuserez bien.  
+
+    JACINTE.
+Tay-toy, je te supplie,  
+Fantosme, promptement retourne en Italie,  
+Ou je te quitte-là.  
+
+    TINDARE.
+Madame, escoutez-moy.  
+
+    JACINTE.
+Dieux ! qui peut appaiser le trouble où je me voy ?  
+J'en souffre trop, va-t'en, je te ferme la porte.  
+Elle luy ferme la porte au nez.
+
+
+    TINDARE.
+Escoute-moy, Julie.  
+
+    JULIE.
+A ce coup je suis morte ?  
+Que doy-je devenir ? sans doute il me tuëra.  
+
+    TINDARE.
+Dy moy pour quel sujet.  
+
+    JULIE.
+Madame le dira.  
+Elle luy ferme la porte au nez.
+
+
+    TINDARE *seul*.
+Que voy-je ? et que faut-il qu'à present je devienne ?  
+Quelle peine jamais fut pareille à la mienne ?  
+De qui me doy-je pleindre en cette occasion⁎ ?  
+Et qui peut m'asseurer en ma confusion ?  
+Un Amy me trahit, il aime l'infidelle,  
+Mais c'est un beau moyen pour me deffaire d'elle.  
+Allons voir Liliane, et benissons le jour  
+Qui me deffait ainsi d'un si fascheux⁎ amour.  
+Mais je la voy qui sort du logis, ce me semble,  
+Je suis si hors de moy qu'à son abord je tremble.  
+
+
+### SCENE V.
+TINDARE, LILIANE, NISE.
+
+
+    TINDARE.
+MAdame, quel succez [142] decevant⁎ mon espoir  
+Me donne en liberté le bonheur de vous voir ?  
+
+    LILIANE.
+Tindare, vous sçavez l'estrange stratageme,  
+Qui m'a mise aujourd'huy dans une peine extréme,  
+Par lequel on a peu descouvrir nostre amour.  
+
+    TINDARE.
+Madame, quel qu'il soit, j'en beny l'heureux jour :  
+Mais puis que je joüis d'une faveur si grande,  
+Faites-m'en encor une, ouy, je vous la demande,  
+D'elle despend mon heur⁎ et ma felicité.  
+
+    LILIANE.
+Vous pouvez commander de pleine authorité.  
+
+    TINDARE.
+Si j'avois ce ruban, j'aurois quelque asseurance  
+Estant verd, qu'il pourroit flater mon esperance [143],  
+Faites-moy la faveur de m'accorder ce bien.  
+
+    LILIANE.
+C'est peu, puis que desja vous possedez le mien :  
+Non pas le ruban seul, de plus, je vous presente  
+Ce cœur de diamans.  
+
+    TINDARE.
+Non, non, je me contente  
+Du ruban seulement.  
+
+    LILIANE.
+Non, vous seriez fasché⁎  
+Puis que ce cœur se trouve au ruban attaché  
+Avecque tant de nœuds, que je prisse la peine  
+De l'en oster, et puis, c'est chose tres-certaine  
+Que le mien le surpasse encor en fermeté !  
+
+    TINDARE.
+Peut-on rien adjouster à ma felicité ?  
+Bien, je l'accepte donc, mais avecque promesse.  
+
+    LILIANE.
+Tout beau [144], mon pere vient. Taschez avec adresse  
+De bien dissimuler.  
+
+    TINDARE.
+N'en ayez pas de peur.  
+
+
+### SCENE VI.
+ARIMANT, TINDARE, LILIANE, NISE.
+
+
+    ARIMANT.
+QUel est ce Cavalier⁎ ?  
+
+    TINDARE.
+Pardonnez-moy, Monsieur,  
+Si n'ayant pas l'honneur de vostre connoissance  
+J'ose vous aborder⁎ avec tant de licence.  
+Je reviens d'Italie, et passant par Thurin  
+J'ay receu tant d'honneur du Seigneur Palmerin  
+Que je suis obligé⁎ pour tant de bons offices⁎  
+De vous venir offrir mes vœux⁎ et mes services,  
+Et vous en rendre grace. Il vous avoit escrit,  
+Mais par certain malheur j'ay perdu cet escrit  
+Dont je viens m'excuser.  
+
+    ARIMANT.
+Il n'est point necessaire ;  
+Je me resjoüy fort d'apprendre que mon frere  
+Ait eu l'honneur d'avoir receu dans sa maison  
+Un homme tel que vous, et c'est bien la raison  
+Qu'en faisant comme luy, je vous offre la mienne,  
+Disposez-en, Monsieur, ainsi que de la sienne,  
+Vous aurez en ce lieu la mesme authorité.  
+
+    TINDARE.
+Vous m'honorez par trop. Vous, parfaite beauté !  
+
+    ARIMANT.
+Ma fille, il parle à vous.  
+
+    TINDARE.
+Disposez d'une vie  
+Qui par tant de raisons est vostre ; et je vous prie,  
+Sçachant ce que je suis, et ce que je vous doy,  
+D'user du plein pouvoir que vous avez sur moy.  
+Vous sçavez bien qu'ici je ne feins point, Madame,  
+Que je vous ouvre à nud les secrets de mon ame ?  
+
+    ARIMANT.
+Ma fille, respondez,  
+
+    LILIANE.
+Je reçoy trop d'honneur  
+De vos civilitez, et croyez-moy, Monsieur,  
+Que si vous m'honorez de quelque bienveillance  
+Je suis trop obligee⁎ à la reconnoissance,  
+Pour ne vous pas priser [145] ainsi que je le doy,  
+Disposez donc, Monsieur, du logis et de moy,  
+Vous estes Maistre icy, comme le veut mon pere,  
+Et croyez, s'il luy plaist, qu'il ne me peut déplaire.  
+Venez-nous voir souvent, quoy que l'on ferme à tous  
+Cette porte, Monsieur, elle s'ouvre pour vous.  
+
+    ARIMANT.
+Elle respond fort bien.  
+
+    NISE.
+O Dieux ! qu'elle est rusee ?  
+Elle parle sans feinte, ou je suis abusee⁎.  
+
+    TINDARE.
+Vous me faites tous deux rougir de tant d'honneur,  
+Je vous baise à tous deux les mains⁎ [146].  
+
+    ARIMANT.
+Adieu, Monsieur.  
+Tindare s'en va.
+
+Rentrons, nous serons mieux là-haut que dans la ruë.  
+
+    NISE *bas*.
+J'aperçoy Jodelet, sans doute qu'il m'a veuë,  
+Je veux l'attendre ici, je meurs pour luy parler,  
+Et mesme tout de bon⁎ je le veux quereller.  
+
+
+### SCENE VII.
+NISE, JODELET.
+
+
+    NISE.
+QUoy ! l'on ne te void plus ?  
+
+    JODELET.
+Tu sçais bien que mon Maistre  
+En ce logis ici n'oseroit plus paroistre.  
+
+    NISE.
+Mais pour toy, qui te fait ainsi m'abandonner ?  
+
+    JODELET.
+Je ne puis pas, pour estre habile à deviner,  
+Il faut passer les jours et les nuicts à l'estude.  
+
+    NISE.
+Tu me sembles avoir fort peu d'inquietude,  
+Tu n'en es point maigri, je te trouve en bon point [147].  
+
+    JODELET.
+Quand l'exercice plaist, on n'en emmaigrit [148] point :  
+Mais laissons ce discours. Que dis-tu de l'adresse  
+Dont j'ay tantost⁎ usé pour tromper ta Maistresse ?  
+
+    NISE.
+Est-ce-là le secret que tu m'avois promis ?  
+Est-ce-là comme il faut obliger⁎ ses amis ?  
+Va, tu n'és qu'un ingrat, qu'un perfide, qu'un traitre,  
+Falloit-il reveler ce secret à ton Maistre ?  
+
+    JODELET.
+Pouvois-je luy celer⁎ ? tout bien consideré ?  
+Mais que t'importe-t'il si je l'ay reparé ?  
+Mais, Nise, asseurément je pariëray ta perte  
+Si nostre fourbe⁎ un jour peut estre descouverte.  
+Pour donc continuer [149] la ruse, averty-moy  
+De tout ce qui se passe, et qui se fait chez toy ;  
+Ayant de tes secrets l'entiere connoissance,  
+Je ferois à chacun admirer ma science :  
+Autrement ta Maistresse auroit juste raison  
+De t'accuser d'avoir usé de trahison.  
+Et tu pourrois apres tomber en sa disgrace.  
+
+    NISE.
+Bien, je veux t'avertir de tout ce qui se passe.  
+Sçache que ce galand⁎, cet Amant incognu,  
+Feignant de son voyage estre nouveau venu,  
+Est arrivé ceans⁎, a salüé mon Maistre,  
+Feignant qu'il luy portoit de Thurin une lettre  
+D'un sien frere qu'il a, pour pouvoir librement  
+Quand il voudra, venir au logis d'Arimant.  
+Le bon homme l'a creu, Liliane ravie  
+D'un certain ruban verd dont il avoit envie,  
+Où pend un cœur orné de diamans, en fait  
+Present à son Amant, dont il est satisfait,  
+En peu de mots voila ce que je te puis dire.  
+
+    JODELET.
+J'en suis ravi de joye.  
+
+    NISE.
+Adieu, je me retire,  
+Mon Maistre vient ici.  
+
+    JODELET.
+Dy moy, que gagnes-tu ? [150]  
+Faisons semblant de rien, puis qu'il m'a desja veu.  
+
+
+### SCENE VIII.
+ARIMANT, NISE, JODELET ;
+
+
+    ARIMANT.
+QUel est cet homme ici ?  
+
+    NISE *bas*.
+Mentons avec adresse.  
+Par l'ordre que tantost⁎ m'a donné ma Maistresse,  
+Je l'ay mandé⁎, Monsieur.  
+
+    ARIMANT.
+Pour quel sujet, dy moy ?  
+
+    NISE.
+Pour m'informer de luy. Mais à ce que je voy,  
+Vous ignorez, Monsieur, son extresme science,  
+C'est le plus grand Esprit qui se retrouve en France,  
+Les plus sçavans Docteurs en sont tous estonnez⁎,  
+Il les rend tous confus avec un pied de nez.  
+Il predit l'avenir, il connoist toutes choses,  
+Et mesme est tres-sçavant dans les Metamorphoses.  
+Ma Maistresse sçachant qu'il vous plaist aujourd'huy  
+La ranger sous l'Hymen⁎, veut s'informer de luy  
+Si l'ascendant fatal sous lequel elle est née  
+Luy promet un heureux ou fascheux⁎ Hymenée⁎.  
+C'est ce qui l'embarasse, et la met en soucy⁎,  
+Et c'est dequoy, Monsieur, nous discourions ici.  
+
+    ARIMANT.
+Quels contes fabuleux ? dy-moy, quelles chimeres  
+Me viens-tu raconter ?  
+
+    NISE.
+Ce sont choses si claires  
+Que personne n'en doute.  
+
+    JODELET.
+Ah ! ne la croyez pas ?  
+Elle vous fait de moy, Monsieur, par trop de cas,  
+Je ne suis point sçavant, et toutefois j'avoüe,  
+Sans desirer pourtant qu'en ce poinct on me louë,  
+Qu'amateur de Vertu, j'ay dés mes jeunes ans  
+Pour connoistre les Cieux employé quelque temps,  
+Sçachant que les effets despendent de leurs causes,  
+J'ay voulu penetrer dans les Metempsicoses.  
+
+    ARIMANT.
+Cet homme est tres-sçavant, et je connoy fort bien,  
+Puis qu'il se vante peu, qu'il doit n'ignorer rien.  
+Que respond-il, encor, touchant le mariage  
+De ma fille ?  
+
+    NISE.
+Monsieur, de bon cœur j'en enrage.  
+Il dit que ma Maistresse.  
+
+    ARIMANT.
+Acheve, je le veux.  
+
+    NISE.
+Doit-espouser un homme assez necessiteux.  
+
+    ARIMANT.
+Crois-tu qu'un Astrologue⁎, ô simple Creature !  
+Puisse prescrire ainsi des loix à la Nature ?  
+Tu crois ce qu'il te dit ?  
+
+    NISE.
+J'ay sujet d'avoir peur.  
+
+    JODELET.
+C'est ce que maintenant je luy disois, Monsieur,  
+La Science est douteuse, et tousjours l'homme sage  
+L'emporte sur les Cieux.  
+
+    ARIMANT.
+Ah ! le grand personnage ?  
+
+    NISE.
+Je le cognoy fort bien, il ne mentit jamais.  
+
+    ARIMANT.
+Sors d'ici promptement, et nous laisses en paix.  
+Nise sort.
+
+Pour toy, mon amy, croy, quoy qu'ignorant, et rude [151],  
+Que je ne laisse [152] point d'aimer les gens d'estude,  
+Et j'ay dans mon jeune âge esté si curieux  
+Que j'ay voulu sçavoir la science des Cieux.  
+Maistre Imbert de Billy [153], docte en ce haut mistere,  
+M'a donné dans cet art desja quelque lumiere,  
+Je voudrois avec toy repasser [154] mes leçons.  
+
+    JODELET.
+On en discourt, Monsieur, mais de plusieurs façons.  
+bas.
+
+Ah ! je suis attrapé, me voila pris au piege.  
+
+    ARIMANT.
+Pour m'y rendre sçavant, mon amy, que feray-je ?  
+Dy moy, je t'en seray grandement obligé⁎.  
+
+    JODELET.
+Monsieur, en ceci l'ordre est grandement changé,  
+On use d'un autre art et d'une autre methode,  
+Il faut estre à present Astrologue⁎ à la mode.  
+
+    ARIMANT.
+Encore, que dis-tu de tous ces Animaux  
+Qu'on nous peint dans le Ciel ? ces hydres [155], ces taureaux [156],  
+Ces affreux scorpions [157], la chaude canicule [158],  
+Qui jusqu'aux intestins nous eschauffe et nous brusle,  
+Le lyon [159] rugissant, l'ourse de Caliston [160].  
+
+    JODELET.
+On les nomme à present bien d'une autre façon.  
+Pour vous rendre sçavant dedans l'Astrologie⁎,  
+Il vous faut commencer par la Mitologie.  
+Cette science est rare⁎, et faut plus d'une fois  
+Pour s'y rendre congru [161], suer dans le harnois [162].  
+L'estoile qui paroist à nos yeux la premiere  
+Dessus nostre horizon, s'appelle pouciniere [163],  
+De mine⁎ mordicante [164], et d'un aspect hagard,  
+Excusez-moy, Monsieur, ce sont termes de l'art.  
+Mais pour cette heure ici, cela vous doit suffire,  
+Car je serois trop long si je voulois tout dire.  
+
+    ARIMANT.
+Je te supplie, Amy, vien-t'en souvent me voir,  
+Car j'admire en effet ton unique sçavoir.  
+Fin du quatriesme Acte.
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE
+TIMANDRE, ACASTE.
+
+
+    TIMANDRE.
+JE n'en puis plus, Acaste, et je perds patience.  
+
+    ACASTE.
+Quoy ! si j'ay publié par tout cette science  
+Vous l'avez ordonné.  
+
+    TIMANDRE.
+Je ne le puis nier,  
+Mais je ne voulois pas qu'on le tint pour sorcier.  
+
+    ACASTE.
+Le bruit s'acroit toûjours, mais qu'avés-vous à craindre ?  
+Vous n'avez en ceci nul sujet de vous plaindre,  
+Si de ce grand sçavoir chacun est satisfait.  
+De plus, voyez-vous pas vous mesme qu'en effet  
+Vous demeurez vangé par cette estrange adresse,  
+Et de vostre Rival, et de vostre Maistresse ?  
+Mais dites en quel poinct, Timandre, est vostre amour ?  
+
+    TIMANDRE.
+D'un tel mal je gueris aisement en un jour,  
+Pour cet ingrat objet⁎ je n'ay ny feu⁎ ny flame⁎,  
+Et je n'ay maintenant d'autre desir en l'ame  
+Que de troubler la joye et les contentemens  
+De ces deux criminels et perfides Amans :  
+Car si tost que je voy qu'une Dame que j'aime  
+Me traitte de mespris, je la traitte de mesme,  
+De sorte que je tiens⁎ Liliane en ce jour  
+Indigne de ma haine, et plus de mon amour.  
+
+    ACASTE.
+Timandre, s'il est vray, dites-moy, je vous prie,  
+Le subjet qui vous pût porter à l'industrie⁎  
+Que vous m'avez contée ?  
+
+    TIMANDRE.
+He ! ne falloit-il pas  
+Pour luy sauver l'honneur, sortir de l'embaras  
+Où ma langue avoit mis cette pauvre servante  
+Et faire croire à tous qu'elle estoit innocente ?  
+
+    ACASTE.
+Ah ! sans mentir, j'ay creu qu'en cette occasion⁎  
+Vous n'aviez d'autre objet⁎ ny d'autre intention  
+Qu'un dessein d'empescher ce fascheux⁎ mariage.  
+
+    TIMANDRE.
+Non, non, j'ay peu d'amour et beaucoup de courage⁎,  
+Tout au contraire, Ami, croyez que je feray,  
+Pour haster leur Hymen⁎, tout ce que je pourray.  
+
+    ACASTE.
+Pour quel sujet, encor ?  
+
+    TIMANDRE.
+C'est chose qui m'importe.  
+Mais j'entens, que je croy, quelqu'un à cette porte,  
+Sans doute elle est ouverte, on monte, que je croy.  
+
+
+### SCENE II.
+TIMANDRE, JACINTE, ACASTE, JULIE, JODELET.
+
+
+    TIMANDRE.
+AH ! Madame, est-ce vous ?  
+
+    JACINTE.
+Ouy, Timandre, c'est moy,  
+Je vous dy librement, Monsieur, que je souhaitte  
+Parler à Jodelet.  
+
+    TIMANDRE.
+Estes-vous satisfaite,  
+Madame, de son art ?  
+
+    JACINTE.
+J'ay sujet aujourd'huy  
+De me pleindre, Monsieur, et de vous et de luy.  
+
+    TIMANDRE.
+De vous pleindre, Madame ?  
+
+    JACINTE.
+Ouy, faites-le paroistre.  
+
+    TIMANDRE.
+Il n'est pas au logis.  
+Jodelet vient.
+
+
+    JACINTE.
+Ah ! le voici, le traistre ?  
+
+    TIMANDRE.
+Madame vient ici pour se pleindre de toy.  
+
+    JODELET.
+Pour se pleindre ?  
+
+    JACINTE.
+Ouy, me pleindre.  
+
+    JODELET.
+Eh ! Madame, pourquoy ?  
+
+    JACINTE.
+Vien ça, si tu sçavois que l'Amant que j'adore  
+Estoit dedans Paris, si tu sçavois encore  
+Qu'il n'en est point parti, lasche⁎ di-moy, pourquoy  
+Ne me détrompois-tu ?  
+
+    JODELET.
+Le sçavois-je bien, moy ?  
+Si je vous ay promis de vous monstrer l'image  
+De vostre cher Amant ? fais-je pas davantage,  
+Madame, en vous monstrant le vray corps animé  
+Que vous n'attendiez pas de ce visage aimé ?  
+Voulez-vous un effet de ma rare⁎ science  
+Plus grand, que sans avoir aucune connoissance  
+Qu'il fust dedans Paris, ( car qui l'eust peu sçavoir ?)  
+J'ay fait que vostre escrit tombast en son pouvoir.  
+
+    JACINTE.
+Ce discours en effet n'a point de repartie,  
+Puisque donc que de tout je suis bien advertie  
+Que je n'ay nul sujet de me mettre en courroux,  
+Gueri la passion de mon esprit jaloux.  
+Tindare est à Paris, où l'on m'a dit qu'il aime  
+La fille d'Arimant à l'égal de luy-mesme,  
+Que cet objet⁎ divin l'a tellement charmé,  
+Que s'il l'aime, il en est esgalement aimé.  
+Chasse-là de son cœur, et me mets en sa place,  
+Fay que Tindare soit pour elle tout de glace,  
+Qu'il m'aime comme il l'aime, et selon mes souhais  
+Fay tant, car tu le peux, qu'il n'y pense jamais.  
+
+    JODELET.
+Celuy qui vous a fait ce discours-là, Madame,  
+L'a fait pour exciter⁎ ces troubles en vostre ame.  
+Il n'est rien de plus faux, Madame, croyez-moy,  
+Que Tindare jamais ne vous manqua de foy⁎.  
+Et c'est un imposteur qui vous dit autre chose,  
+S'il est dedans Paris, vous en estes la cause,  
+Si durant ces six mois il s'est caché de vous,  
+C'est parce, croyez-moy, qu'il en estoit jaloux :  
+Retirez-vous, Madame, et vivez satisfaite,  
+Que la constance est ferme, et son amour parfaite,  
+Et tant plus il vous fait paroistre ses mespris,  
+C'est lors⁎ qu'il est de vous plus ardemment espris.  
+
+    JACINTE.
+Justes Dieux, ce plaisir surpasse mon attente,  
+Je n'esperois pas tant. Ah ! que je suis contente !  
+Allons, Julie, allons.  
+Elles s'en vont.
+
+
+    TIMANDRE.
+Mais quel est ton dessein ?  
+
+    JODELET.
+Ne vous tourmentez point, je ne fais rien en vain,  
+Ma response ambiguë est semblable à l'Oracle,  
+Elle reüssira peut-estre par miracle,  
+Acaste m'a-t'il pas donné cette leçon ?  
+
+    ACASTE.
+Il faut tromper Ariste en la mesme façon,  
+Il s'avance vers nous, et meurt pour vous connoistre,  
+Il luy faut, Jodelet, joüer d'un tour de Maistre.  
+
+
+### SCENE III.
+ARISTE, ACASTE, TIMANDRE, JODELET.
+
+
+    ARISTE.
+MEssieurs, je suis ravi de vous trouver tous deux,  
+Le Ciel me favorise, et je suis trop heureux,  
+Je souhaittois fort l'heur⁎ de vostre connoissance.  
+
+    TIMANDRE.
+Je voudrois vous servir de toute ma puissance.  
+
+    ARISTE.
+Encor que j'eusse peu par Amis aisément  
+Me faire presenter, j'ay voulu librement  
+Me confier à vous des secrets de mon ame.  
+Sçachez donc que j'ay veu par malheur une Dame,  
+Elle gagna mon cœur, mais je ne devois pas,  
+Sans doute, me laisser vaincre par ses appas.  
+C'est estre criminel, car Tindare qu'elle aime  
+Est mon Amy parfait, est un autre moy-mesme :  
+Mais il ne l'aime point, je voudrois de bon cœur  
+Me voir de ses beautez l'unique possesseur.  
+Mon Amy le permet, si j'ay l'heur⁎ que je puisse  
+Acquerir son amour par quelque bon service⁎.  
+Mais je crains de parler, tant j'ay l'esprit confus,  
+Car bien plus que la mort j'apprehende un refus.  
+Commandez, s'il vous plaist, à Jodelet qu'il face  
+En sorte par son art qu'elle me satisface,  
+Qu'il luy face oublier le rival qui la fuit,  
+Et se laisse gagner par celuy qui la suit.  
+
+    JODELET.
+Sçait-elle vostre amour ?  
+
+    ARISTE.
+Je n'oserois luy dire.  
+
+    JODELET.
+Donnez-moy vostre main, regardez-moy sans rire,  
+Haussez les yeux vers moy, froncez-moy le sourci,  
+Rabaissez-les un peu. Tout va bien jusqu'ici :  
+Tournez-les de costé, j'ay tres-bonne esperance  
+Que vous en obtiendrez bien-tost la joüissance.  
+Quand vous en recevrez d'abord quelque mespris  
+Ne vous rebutez⁎ point, r'asseurez vos esprits,  
+Ne vous laissez pas vaincre à ce premier caprice,  
+Continuez tousjours à luy rendre service⁎,  
+Et soyez asseuré, car je vous le promets,  
+Que vous serez bien-tost au bout de vos souhaits.  
+
+    ARISTE.
+Je feray mon effort pour vaincre un impossible,  
+Si Jacinte doit estre à mes douleurs sensible,  
+Je vous baise les mains⁎, et prens congé de vous.  
+Il sort.
+
+
+    TIMANDRE.
+Je suis ravi de voir à la fin tant de fous,  
+Fut-il jamais au monde une telle ignorance ?  
+
+    ACASTE.
+Mais que pretens-tu faire avec cette esperance  
+Dont tu repais en vain cet amoureux transi ?  
+
+    JODELET.
+Je pretens le tromper, et peut-estre qu'aussi  
+Luy rendant tous les jours nombre de bons offices⁎,  
+Il pourra la flechir à force de services⁎,  
+Et s'imaginera l'obtenir par mon art.  
+
+    ACASTE.
+Ce n'est pas mal pensé, mais que veut ce Vieillard ?  
+
+
+### SCENE IV.
+JODELET, ARIMANT, TIMANDRE, ACASTE.
+
+
+    JODELET.
+AH Dieux ! c'est Arimant, il me pourroit confondre,  
+Il vient m'interroger, je ne pourrois respondre,  
+Je ne l'attendray point, je ne suis pas si sot.  
+
+    ARIMANT *le retenant.*
+Jodelet, escoutez, je veux vous dire un mot.  
+
+    JODELET.
+Une autrefois, Monsieur, j'ay maintenant affaire,  
+Et je ne vous puis pas à present satisfaire.  
+
+    ARIMANT.
+Je n'ay qu'un mot à dire, estes-vous si pressé ?  
+
+    JODELET.
+Je me trouve à present l'esprit embarassé.  
+
+    ARIMANT.
+Messieurs, obligez-le de m'escouter de grace!  
+
+    TIMANDRE.
+Escoute, Jodelet.  
+
+    JODELET.
+Que veut-on que je face ?  
+
+    ARIMANT.
+Je le diray devant ces Messieurs que voici,  
+D'un larcin qu'on m'a fait, je suis en grand souci⁎,  
+Je viens pour en avoir de vous la connoissance.  
+
+    JODELET.
+Sans doute il connoistra d'abord mon ignorance,  
+Il faut tout avoüer, aussi bien [165] je suis pris.  
+
+    TIMANDRE.
+Responds-luy, Jodelet, r'asseure tes esprits.  
+
+    JODELET.
+Que voulez-vous, Monsieur, ici que je responde,  
+Je vay tout confesser, Arimant, dans le monde  
+Il ne se trouve point d'ignorant comme moy.  
+Ne me pressez donc point, je vous jure ma foy⁎  
+Que je n'y cognoy rien.  
+
+    ARIMANT.
+J'ay trop de connoissance  
+De ce que vous sçavez. Puis cette deffiance,  
+Ce mespris de vous mesme, et cette humilité  
+M'en font voir plus à clair encor la verité.  
+
+    JODELET.
+Je vous le dis encor, je n'y sçay rien je jure,  
+Pourquoy vous le nierois-je ?  
+
+    ARIMANT.
+Ah ! l'estrange imposture ?  
+Ce joyau, c'est un cœur orné de diamans  
+Qu'on a pris à ma fille.  
+
+    JODELET *bas*.
+En quels ravissemens  
+Me trouvé-je, grands Dieux ! sus⁎ faisons bonne mine⁎.  
+
+    ARIMANT *bas*.
+Il réve⁎ là-dessus, sans doute il s'examine.  
+
+    JODELET.
+Est-il bonheur au mien qui se puisse esgaler ?  
+Je disirois, Monsieur, ici dissimuler,  
+Pour ne vous annoncer rien qui vous peust déplaire,  
+Mais si vous le voulez il vous faut satisfaire,  
+Vous avez un peu trop de curiosité,  
+Mais je vay franchement dire la verité.  
+
+    ARIMANT.
+Vous m'obligerez⁎ fort, dites, je vous supplie.  
+
+    JODELET.
+Un certain Cavalier⁎ qui revient d'Italie,  
+Vous l'avez veu chez vous, Monsieur, tantost⁎ a pris  
+Ce cœur de diamans qui sans doute est de pris,  
+Ainsi vous pouvez bien recouvrer⁎ vostre perte,  
+N'estoit-il pas pendant d'une ceinture verte ?  
+Si je n'ay contenté si tost vostre desir,  
+Je ne luy voulois pas rendre ce desplaisir,  
+Sçachant que c'est un homme assez considerable.  
+
+    ARIMANT.
+Qui pourroit avoir creu ce Cavalier⁎ capable  
+D'une si detestable et si lasche⁎ action ?  
+Mais pourray-je sans honte et sans confusion  
+La luy redemander ? Il me faut par adresse,  
+Sans l'accuser de rien, et sans qu'il le confesse,  
+La r'avoir si je puis. Dure necessité.  
+Pardonnez, s'il vous plaist, à ma temerité,  
+Messieurs. Vous Jodelet, pour ce parfaict office⁎  
+Voyez où je pourray vous rendre du service.  
+
+    JODELET.
+Je vous suis serviteur, ces complimens⁎ sont vains.  
+
+    TIMANDRE.
+Vous pouvez tout ceans⁎, je vous baise les mains⁎.  
+
+    ARIMANT.
+De grace obligez⁎-moy, Messieurs, je meurs d'envie  
+De boire avecque vous, partant [166] je vous convie,  
+Mais sans ceremonie, à souper pour ce soir.  
+
+    TIMANDRE.
+Puis que vous le voulez, bien, nous vous irons voir.  
+Arimant s'en va.
+
+Commens as-tu si tost peu controuver ce songe ?  
+
+    ARISTE.
+Sans doute il est plaisant.  
+
+    JODELET.
+Ce n'est point un mensonge,  
+Ce que je viens de dire est une verité,  
+N'en doutez nullement, Nise m'a tout conté.  
+
+    TIMANDRE.
+Mais que veut ce Vieillard ?  
+
+    JODELET.
+C'est à moy qu'il s'adresse,  
+Il me cherche, Monsieur.  
+
+    TIMANDRE.
+Demeure, je te laisse.  
+Retirons-nous, Acaste, et les laissons ici.  
+
+
+### SCENE V.
+MORON, JODELET.
+
+
+    MORON.
+AMy, pour te trouver j'estois fort en soucy⁎,  
+J'ay bien besoin de toy pour un certain affaire [167],  
+En trois mots je te veux conter tout ce mistere.  
+J'ay servi⁎, tu le sçais, depuis mes jeunes ans,  
+Avecque quelque espargne ; Or durant tout ce temps  
+J'ay faict un petit fond avec un grand mesnage [168],  
+Pour vivre accomodé [169] le reste de mon aage [170],  
+Je voudrois à present me retirer chez moy.  
+Je suis de loing d'ici Jodelet, c'est pourquoy  
+Ayant de ton sçavoir parfaite connoissance,  
+Pour dessus les chemins espargner la despense,  
+Et de peur des voleurs, tu peux en un moment  
+Me conduire chez moy par un enchantement,  
+Provence est mon pais, fay moy donc je te prie,  
+Porter en un instant dans ma chere patrie,  
+C'est ce que maintenant je desire de toy.  
+
+    JODELET.
+Peux-tu pas disposer absolument de moy ?  
+Botte-toy promptement, et mets, s'il est possible,  
+(Car en allant par l'air, il faict un froid horrible)  
+Un habit bien doublé. Puis va m'attendre ainsi  
+Dans ton jardin. Apres, laisse-m'en le souci⁎.  
+
+    MORON.
+Je vay me preparer, songe à moy je te prie.  
+Je te reverray donc, ô ma chere patrie ?  
+
+    JODELET.
+Bon, bon, dans mes filets, je tiens le renard pris.  
+
+
+### SCENE VI.
+TINDARE, ARIMANT.
+
+
+    TINDARE.
+JE puis en liberté contenter mes esprits,  
+Et sans scrupule aucun pouvant me satisfaire,  
+Allons voir la beauté que mon ame revere.  
+
+    ARIMANT.
+Je vous cherche par tout depuis une heure ou deux.  
+
+    TINDARE.
+Si c'est pour vous servir je me tiens⁎ trop heureux.  
+
+    ARIMANT *bas*.
+Voyez qu'il est courtois [171], grands Dieux ! est-il croyable  
+Que d'un crime si noir cet homme soit capable ?  
+Cet homme si bien fait⁎. Je desirois vous voir.  
+Ne vous estonnez⁎ point, s'il vous plaist, pour r'avoir  
+Un joyau qu'à ma fille, on a surpris [172] n'aguere,  
+Je sçay que vous l'avez. Voyez comme il s'altere [173],  
+Rendez-le moy de grace.  
+
+    TINDARE *bas*.
+Ah ! que je suis surpris ?  
+
+    ARIMANT.
+Cela ne vous doit point alterer les esprits.  
+
+    TINDARE.
+Qu'entens-je ? justes Dieux ! que je suis miserable ?  
+
+    ARIMANT.
+Je ne vous tiens⁎, Monsieur, aucunement coupable,  
+Je me plains de la main de qui vous la tenez.  
+
+    TINDARE *troublé*.
+Monsieur, ici, vers vous.  
+
+    ARIMANT.
+Quoy ! vous vous estonnez⁎ ?  
+Je ne cognoy que trop, Monsieur, vostre innocence,  
+C'est la personne ici seulement qui m'offence  
+De qui vous la tenez : Dieux ! je l'excuse ainsi.  
+
+    TINDARE.
+Il faut que vous soyez sur ce poinct esclairci.  
+Blasmez-moy seulement, je suis le seul coupable.  
+
+    ARIMANT *bas*.
+Voyez comme il s'accuse.  
+
+    TINDARE *luy rendant le joyau*.
+Il est tres-veritable,  
+Je ne le puis nier, mais la necessité  
+M'a contraint d'en venir à cette extremité,  
+Je l'ay moy-mesme osté, Monsieur, à Liliane.  
+
+    ARIMANT.
+Quand je veux l'excuser, luy-mesme il se condamne.  
+La conscience, ô Dieux ! est un trop fort tesmoin,  
+Ne vous excusez pas, il n'en est point besoin.  
+Brisons-là [174], je sçay bien comme tout va, vous dis-je.  
+Mais la necessité bien souvent nous oblige  
+A faire encore pis.  
+
+    TINDARE.
+Monsieur, si vous sçavez  
+Comme tout s'est passé, s'il vous plaist, approuvez  
+L'action que j'ay faite, authorisez mon crime,  
+Ouy, vous pouvez Monsieur, le rendre legitime,  
+Je n'ay pas grands moyens, mais j'ay beaucoup d'honneur,  
+Et de naissance aussi : Permettez-moy Monsieur,  
+D'avoir l'honneur d'entrer dedans vostre famille,  
+Faites-moy, s'il vous plaist, espouser vostre fille.  
+
+    ARIMANT.
+Cet homme est fol sans doute, il a perdu le sens [175].  
+Monsieur, une autrefois prenez mieux vostre temps,  
+Vous me demandez donc ma fille en mariage ?  
+Vous révez⁎, que je croy, mais estes-vous bien sage ?  
+Adieu, ne craignez rien, je suis assez discret  
+Pour sçavoir comme il faut vous cacher ce secret.  
+Il s'en va.
+
+
+
+### SCENE VII.
+TINDARE, JACINTE, JULIE.
+
+
+    TINDARE *seul*.
+QUelle confusion à la mienne est pareille ?  
+Qu'entens-je ? justes Dieux ! est-il vray que je veille ?  
+Je me mesprens, ou bien Arimant se mesprend,  
+D'un abisme profond je r'entre en un plus grand ?  
+Quel malheur ? juste Ciel ! s'oppose à ma fortune⁎ ?  
+Mais pour comble d'ennuis⁎ je voy cette importune ?  
+
+    JACINTE.
+Vous estes à Paris, et sans me venir voir,  
+Je pensois bien sur vous avoir plus de pouvoir.  
+Quoy vous estes muet ? ah Dieux ! est-il possible  
+Bruslant d'amour pour moy, qu'il feigne estre insensible ?  
+Si je sçay vostre cœur et vos pensers aussi,  
+Qui vous peut obliger à me traitter ainsi ?  
+Pourquoy jusqu'à ce poinct voulez-vous vous contraindre ?  
+
+    TINDARE.
+Escoutez-moy, Madame, il n'est plus temps de feindre,  
+Quand vous m'avez mandé⁎, vous m'avez en couroux  
+Fermé la porte au nez, et chassé de chez vous.  
+Apres ce traittement, ne trouvez point estrange  
+Si je vous abandonne, et si je cours au change⁎,  
+Tindare a trop de cœur⁎ pour souffrir⁎ ces mespris  
+Un plus parfait objet⁎ occupe mes esprits.  
+Adieu donc, pour jamais je vous quitte, Madame.  
+
+    JACINTE.
+Voyez qu'il est adroit à déguiser sa flame⁎.  
+
+    JULIE.
+Il ne déguise rien, Madame, que je croy.  
+
+    JACINTE.
+Avec tous ces mespris il meurt d'amour pour moy.  
+
+    JULIE.
+Mais vous trompez-vous point, Madame, la premiere ?  
+
+    JACINTE.
+Ne le cognois-tu point ? cette feinte est grossiere,  
+Il faut bien qu'il soit vray, Jodelet me l'a dit.  
+
+    JULIE.
+En ce poinct il perdra sans doute son credit.  
+
+
+### SCENE VIII.
+MORON, JODELET.
+
+
+    MORON.
+ADieu Paris, Adieu, je veux perdre la vie  
+Si de te voir jamais il me reprend envie,  
+Ah ! quel plaisir j'auray de cheminer ainsi,  
+Qui le croiroit ? ce soir je partiray d'ici,  
+Et demain au matin, quel plaisir quand j'y pense ?  
+Je me verray par l'air arriver en Provence ?  
+Jodelet tarde bien, le voici, que je croy.  
+
+    JODELET.
+As-tu ce qu'il te faut ?  
+
+    MORON.
+Je porte tout sur moy.  
+
+    JODELET.
+Il faut presentement te bander le visage,  
+Tu n'as, je le sçay bien, point manque de courage,  
+Mais il faudra passer par tant de regions,  
+Voir au Ciel des taureaux, des tigres, des lions [176],  
+Des Hidres, des serpens, des monstres effroyables,  
+Et tu te donnerois de peur, à tous les diables.  
+Tu voleras par l'air durant toute la nuit,  
+Quand tu commenceras d'entendre quelque bruit  
+Quelques confuses voix et quelque tintamarre  
+Ne t'en estonne⁎ point, Moron, je te declare  
+Que tu seras alors bien proche de chez toy,  
+Lors⁎ on te desliera. Vien ça doncques, suy-moy,  
+Entrons dans le jardin, là ta monture est preste.  
+
+    MORON.
+Mais ne me baille [177] pas quelque meschante beste.  
+Il luy bande le visage, et luy oste son argent, et s'en va.
+
+
+
+### SCENE IX.
+LILIANE, NISE, TINDARE.
+
+
+    LILIANE.
+MOn pere, dites-vous, vous a redemandé  
+Ce cœur de diamans ?  
+
+    TINDARE.
+Je me suis hazardé  
+Pour vous justifier de me rendre coupable.  
+
+    LILIANE.
+Je suis cause de tout, que je suis miserable ?  
+J'ay feint que ce joyau m'avoit esté volé,  
+Un certain Astrologue⁎ a le tout revelé,  
+Qui s'est monstré tousjours à nos amours contraire,  
+Mais croy-moy, cher Amant qu'en despit de mon pere,  
+Malgré le Ciel, la Terre, et tous les Elemens  
+Liguez pour s'opposer à mes contentemens,  
+Malgré l'Astrologie⁎, et quoy qu'il en advienne,  
+Il n'est rien qui me puisse empescher d'estre tienne,  
+Je t'en donne parole, et pour gage, ma foy⁎.  
+
+    TINDARE.
+Est-il homme ici bas plus glorieux que moy ?  
+Madame, permettez pour la faveur insigne  
+Que je reçois de vous, dont je me sens indigne,  
+Que je puisse baiser la trace de vos pas.  
+
+    NISE.
+Ah Dieux ! tout est perdu⁎, vostre pere est là-bas  
+Dans le jardin, Madame, il vient avec Timandre.  
+
+    LILIANE.
+Que feray-je, grands Dieux ! quel parti doy-je prendre ?  
+Taschez par ce coin-là d'entrer dans le jardin,  
+Tindare, et vous cachez derriere ce jasmin.  
+
+
+### SCENE X.
+TIMANDRE, LILIANE, NISE, JODELET, ARIMANT, MORON derriere.
+
+
+    TIMANDRE.
+DIeux, que de ce jardin la veuë est agreable ?  
+Que tout est propre ici ?  
+
+    ARIMANT.
+Que l'on dresse la table,  
+Nise, et que l'on nous serve à souper promptement.  
+Nise sort.
+
+
+    MORON *derriere.*
+Dieux ! je vole par l'air assez legerement,  
+Je suis desja bien loin de Paris, ce me semble,  
+Je crois ouïr des gens qui discourent ensemble.  
+
+    TIMANDRE *à Liliane*.
+Madame, tenez⁎-moy pour vostre serviteur.  
+
+    LILIANE.
+Je suis vostre servante.  
+
+    ARIMANT.
+Est-ce pas là ce cœur  
+Que vous aviez perdu ?  
+
+    LILIANE.
+Monsieur, je vous rends grace.  
+
+
+### SCENE XI et derniere.
+JACINTE, ARISTE, TIMANDRE, LILIANE, JULIE, NISE, JODELET, MORON, ARIMANT, TINDARE.
+
+
+    JACINTE.
+NOn, non, Ariste, il faut que je me satisface,  
+Il me faut esclaicir de cette verité.  
+
+    ARISTE.
+Madame, il est ainsi que je vous l'ay conté.  
+
+    ARIMANT.
+Que veut dire Madame ?  
+
+    JACINTE.
+Arimant, je vous prie  
+Excusez cet effet de mon effronterie,  
+Pour dire en peu de mots le trouble où je me voy,  
+J'ayme, et je suis trahie, on me manque de foy⁎,  
+Liliane cherit un homme que j'adore,  
+Elle me l'a volé : je vous di plus encore  
+Qu'on le face chercher, il est caché ceans⁎.  
+
+    ARIMANT.
+Un homme ici caché ?  
+
+    LILIANE.
+Dieux ! qu'est-ce que j'entens ?  
+
+    MORON *derriere*.
+J'entens, je croy, du bruit, et quelques voix confuses,  
+Que Jodelet m'a dit.  
+
+    JACINTE.
+Ne cherchez point d'excuses.  
+
+    ARIMANT *à Liliane*.
+Comment ? tu ne dis mot, meschante, as-tu le front,  
+De m'oser regarder apres un tel affront ?  
+Quel homme est-ce ? respons, infame⁎, je te jure  
+Que je me vengeray.  
+
+    LILIANE.
+Dieux ! l'estrange imposture ?  
+
+    ARIMANT.
+Que l'on cherche par tout, et qu'on ne laisse rien.  
+
+    ARISTE.
+Laissez faire, Monsieur, je le trouveray bien.  
+
+    LILIANE *bas*.
+Je suis perduë⁎, ô Dieux !  
+
+    JODELET.
+Ah ! Monsieur, je vous jure.  
+
+    JACINTE *l'interrompant*.
+Ce qu'il veut dire ici n'est rien qu'une imposture,  
+Ce n'est qu'un affronteur qui ne faict que mentir.  
+
+    MORON *derriere*.
+Dieux ! qui de ce danger me pourra garantir ?  
+Je suis prez de chez moy, je me le persuade [178]  
+Par ce bruict que j'entens.  
+
+    ARISTE *descouvrant Moron.*
+Sur cette palissade  
+J'aperçoy, ce me semble, un homme garoté.  
+
+    ARIMANT.
+Que veut dire cela ? grands Dieux ! suis-je enchanté ?  
+Est-ce ici le Palais, ou d'Armide, ou d'Urgande ? [179]  
+
+    MORON *derriere*.
+Quels bruits entens-je ici ? grands Dieux que j'aprehende ?  
+Suis-je hors de danger, respons-moy, Jodelet.  
+
+    TIMANDRE.
+C'est quelque plaisant tour qu'aura fait mon valet.  
+Sus donc⁎ que promptement ce pauvre homme on deslie.  
+Ariste le deslie.
+
+
+    ARIMANT.
+A-t'on jamais parlé de pareille folie ?  
+Est-ce là cet Amant qui se tenoit caché ?  
+
+    ARISTE.
+Avec tous mes efforts j'y suis bien empesché [180].  
+
+    MORON *deslié*.
+Je suis en mon païs, quelle resjouïssance ?  
+Il faut baiser la terre où j'ay pris ma naissance.  
+
+    ARIMANT.
+N'est-ce pas là Moron ? Dieux ! qu'est-ce que je voy ?  
+
+    MORON.
+Estes-vous en Provence aussi bien comme moy,  
+Monsieur ? Dieux ! je reçoy une joye infinie  
+De rencontrer chez moy si bonne compagnie ?  
+
+    JODELET *bas à Moron*.
+Pour n'avoir pas bien fait tout ce que je t'ay dit,  
+Le charme t'a manqué.  
+
+    MORON.
+Que je suis interdit⁎ ?  
+
+    ARIMANT *à Jacinte*.
+Cherchons cet affronteur, Madame, je vous prie.  
+
+    TINDARE *se monstrant.*
+Pardonnez, Arimant, à mon effronterie,  
+C'est moy, ne cherchez pas davantage, Monsieur.  
+
+    ARIMANT.
+Quoy ! l'Amant de ma fille est doncques ce voleur ?  
+
+    JACINTE.
+Arimant, révez⁎-vous ?  
+
+    LILIANE.
+Que dites-vous, mon pere ?  
+
+    JODELET.
+Messieurs, je puis moy seul desbroüiller [181] cette affaire,  
+Arimant sur ce poinct vous serez esclairci.  
+Depuis un an et plus, Tindare que voici  
+Adore Liliane, et Liliane l'aime,  
+Ce n'est point un larron [182], car vostre fille mesme  
+Avoit de ce joyau faict don à son Amant.  
+
+    ARIMANT.
+Ma fille, est-il bien vray ?  
+
+    LILIANE.
+Confessons franchement  
+La chose comme elle est, Ouy, Monsieur, je declare  
+Que Tindare est à moy, que je suis à Tindare,  
+Et si vous ne voulez approuver nostre amour,  
+Privez-nous sur le champ de la clarté du jour.  
+
+    ARIMANT* à Timandre.*
+En cette extremité, Monsieur, que doy-je faire ?  
+
+    [TIMANDRE.]
+Puis qu'ils s'aiment si fort, il les faut satisfaire,  
+Approuvez leurs amours et secondez leurs vœux⁎.  
+
+    ARIMANT.
+Bien, pour l'amour de vous, Timandre, je le veux.  
+Ouy, Tindare, à ce coup je desire me rendre,  
+Je vous donne ma fille et vous reçois pour gendre.  
+
+    TINDARE.
+Quel homme sous le Ciel est plus heureux que moy ?  
+Je suis ravi, Monsieur, de l'heur⁎ que je reçoy.  
+
+    LILIANE.
+Vous me mettez, mon pere, au comble de ma gloire.  
+
+    ARISTE *à Jacinte*.
+N'avez-vous point sujet à present de me croire ?  
+Madame obligez⁎-moy, puis qu'en cet heureux jour  
+Je ne rencontre plus d'obstacle à mon amour,  
+Confirmez, s'il vous plaist, la parole donnee,  
+D'estre jointe avec moy sous les loix d'hymenee⁎.  
+
+    JACINTE.
+Ariste, je le veux , vous l'avez merité,  
+Je doy recompenser vostre fidelité.  
+
+    LILIANE.
+Tu pensois, Jodelet, avoir cet avantage  
+De rompre par ton art nostre heureux mariage,  
+Mais ne l'ayant pas fait, tu vois bien, en un mot,  
+Que ta science est fausse, et que tu n'és qu'un sot.  
+
+    JACINTE.
+Ne m'avois-tu pas dit que Tindare de flame⁎,  
+Quoy qu'il me rebutast⁎, m'adoroit en son ame ?  
+S'il en espouse une autre, on voit bien, en un mot,  
+Que ta science est fausse, et que tu n'és qu'un sot.  
+
+    ARISTE.
+N'avois-tu pas cognu par ton art grand et rare⁎,  
+Que Jacinte m'aimoit, et n'aimoit plus Tindare ?  
+Le contraire paroist, et tu vois, en un mot,  
+Que ta science est fausse, et que tu n'és qu'un sot.  
+
+    MORON.
+M'avois-tu pas promis qu'avecque ta science  
+Tu me ferois par l'air enlever à Provence ?  
+Si je suis dans Paris, tu vois bien, en un mot,  
+Que ta science est fausse, et que tu n'és qu'un sot.  
+
+    JODELET.
+Nise, va confirmer tout ce que je vay dire.  
+Je vous ay tous fourbez [183], cela vous doit suffire,  
+Arimant, et croyez que l'on me doit loüer  
+Pour ce que maintenant je vay vous avoüer.  
+Sans de l'Astrologie⁎ avoir la connoissance  
+J'ay passé pour devin dedans vostre croyance,  
+Et par un artifice estrange et non commun,  
+N'ay-je pas satisfait aux desirs d'un chacun ?  
+Nise m'a descouvert l'amour de sa Maistresse,  
+Que mon Maistre adoroit, admirez mon adresse,  
+Et jusques à quel poinct, vous les braves⁎ esprits,  
+Arimant, ce joyau que l'on vous avoit pris,  
+Vous l'ay-je pas fait rendre ? Et respondez, Ariste,  
+N'estes-vous pas content si tout vostre heur⁎ consiste  
+A posseder Jacinte ? Et vous, Jacinte, aussi  
+J'ay tiré vostre esprit de peine et de souci⁎ ?  
+Sans doute vous devez estre fort satisfaite,  
+Vous ayant aujourd'huy fait voir l'amour parfaite  
+Qu'Ariste avoit pour vous, et l'infidelité  
+De Tindare qui meurt pour cette autre beauté ?  
+Toy, Moron, t'ay-je pas par cette belle feinte,  
+Comme tu desirois, delivré de la crainte  
+D'estre par les chemins pillé par les voleurs ?  
+Tu n'es plus en estat d'avoir telles frayeurs,  
+Avec toy les voleurs auroient peu de resource.  
+
+    MORON.
+Ah ! Messieurs ? Jodelet m'a desrobé ma bourse.  
+
+    TIMANDRE.
+Tout s'est fait par mon ordre, et pour nous resjouïr.  
+Vous, Tindare, croyez que vous pouvez joüir  
+Des plaisirs infinis où le Ciel vous convie  
+Sans qu'à vostre bonheur je porte nulle envie.  
+Et pour toy, Jodelet, rens l'argent à Moron.  
+
+    JODELET.
+Je le veux, mais que Nise obtienne son pardon,  
+Et qu'il vous plaise aussi me la donner pour femme,  
+Pour elle dés long-temps mon cœur n'est que de flame⁎.  
+
+    LILIANE.
+Si mon pere y consent, Jodelet, je le veux.  
+
+    ARIMANT.
+Ouy, je suis tres-content de seconder leurs vœux⁎.  
+
+    NISE.
+J'ay tout ce que je veux.  
+
+    JODELET.
+Moy ce que je desire.  
+
+    TINDARE.
+Moy, le parfait objet⁎ pour qui mon cœur souspire.  
+
+    JODELET.
+Et moy content aussi, je vous dis, en un mot,  
+Que je ne suis devin, Astrologue⁎, ny sot.  
+Fin de la Comedie de Jodelet Astrologue.
+
+
+# LexiqueAborder« Approcher quelqu'un pour lui parler », *Furetière*.V. 145, 365, 724, 1362Abuser« Tromper », *Furetière*.V. 794, 803, 907, 982, 1228, 1394Astrologie« Science conjoncturale qui enseigne à juger des effets et des influences des astres et a prédire les événements par la situation des Planètes, et par leurs differents aspects. … Tout le monde convient enfin que l'astrologie est une science vaine et incertaine » *Furetière*.V. 567, 863, 1095, 1501, 1845, 1961Astrologue« Qui prédit les événements par le moyen des Astres, et d'un  horoscope, ou figure du ciel qu'il dresse. On appelle aussi Astrologue tous les faiseurs d'Almanacs, devins et charlatans qui se mêlent de prédire par les moyen des astres », *Furetière*. V. 490, 780,  1473, 1494, 1840, 1996Autant vaut« On dit … autant vaut pour dire qu'une chose est presque achevée », *Furetière*.V. 931, 1279Aymable ou aimable« Qui a des qualités qui attirent l'amour », *Furetière*.V. 246, 1065Brave« Excellent en sa profession, qui fait toutes choses de manière noble et honnête. Cette qualité ne doit etre attribue qu'à un home d'épée », *Furetière*.V. 46, 195, 249, 609, 1967Braver« Choquer, mépriser quelqu'un, le traiter de haut en bas, l'insulter, le gourmander », *Furetière*.V. 211, 344, 582  CavalierHomme de haute naissance. Acteurs, v. 41, 46, 62, 289, 609, 1012, 1087, 1360, 1686, 1694 CéansIci, dans ce lieu.V. 1201, 1257, 1429, 1704, 1875Celer« Tenir quelque chose cachée, et secrette ; dissimuler ; taire », *Furetière*.V. 79, 266, 310, 421, 579, 697, 702, 1415Change« Se dit aussi en Morale et signifie changement. Un Amant a recours au change quand il est maltraité », *Furetière*.V. 764, 1802Cœur« Signifie quelquefois vigueur, force, courage, intrépidité », *Furetière*. V. 1002, 1138, 1273« Fierté. Manière d'âme généreuse et incapable de faiblesse et de lâcheté. Caractère d'âme plein de bonté, de tendresse, de générosité et d'amitié », *Richelet*.V. 349, 1803Compliment« Civilité, ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions », *Furetière*.V. 152, 731, 1703 Courage« Cœur », *Richelet*.V. 68, 1543Decevoir« Tromper adroitement », *Furetière*.V. 802, 1109, 1335Désobliger« Faire quelque deplaisir a quelqu'un, quelque incivilité, lui rendre mauvais office », *Furetière*.V. 174, 759Discret« Qui est sage et retenu, dans ses paroles et dans ses actions ; avisé, prudent, judicieux, circonspect. L'honnête homme est discret. », *Furetière*. V. 42, 247, 289, 609, 1126, 1213 Ennui ou Ennuy« Chagrin, fâcherie, tristesse, déplaisir », *Furetière*. V. 662, 934, 942, 1062, 1078, 1090, 1790Estonner« Épouvanter, surprendre d'une manière qui touche », *Richelet*.V. 539, 606, 813, 853, 869, 1447, 1748, 1756, 1830Exciter« Provoquer, causer quelque effet », *Furetière*.V. 32, 1582Fait (bien ou mal)« Se dit de celui qui a bonne ou mauvaise mine, qui est de belle ou de vilaine taille », *Furetière*.V. 41, 246, 861, 1747 Fascher (se)« Choquer, offenser quelqu'un, lui donner un sujet de chagrin, ou de colère », *Furetière*.V. 35, 193, 491, 503, 773, 1351Fascheux« Qui donne de la fâcherie, qui cause de l'ennui, de la peine et de la difficulté » V. 1332, 1454, 1541Feu(x)« Se dit figurément de l'ardeur, et de la violence des passions, et des mouvements impétueux de l'âme », *Académie*.V. 204, 1192, 1525Flame« Amour, passion », *Richelet*. V. 28, 48, 92, 368, 617, 628, 948, 1525, 1806, 1945, 1990Fortune « Hazard », *Richelet*.V. 599, 1180« Bonheur », *Richelet*.V. 159, 1789Fourbe« Tromperie, déguisement de la vérité fait avec adresse », *Furetière*. V. 604, 846, 1250, 1418Foy« Assurance, promesse, serment, parole qu'on donne de faire quelque chose et de l'exécuter », *Furetière*. V. 70, 234, 602, 838, 1134, 1229, 1299, 1584, 1872« Serment, manière de jurement », *Richelet*.V. 261, 1668, 1847« Créance, assurance, témoignage », *Richelet*.V. 1031GalandSubstantif : « amant qui se donne tout entier au service d'une maîtresse », *Furetière*.V. 516, 1427Adjectif : « se dit aussi d'un homme qui a l'air de la Cour, les manières  agréables, qui tâche à plaire, et particulièrement au beau sexe », *Furetière*.V. 50, 246, 289  Heur« Bonheur, bonne fortune. Ce mot est bas et commence à être de peu d'usage », *Furetière*.V. 17, 879, 880, 892, 980, 1343, 1605, 1617, 1932, 1970 Humeur« L'humeur est une des qualités du tempérament. Certaine disposition d'esprit, fantaisie, naturel. », *Richelet*.V. 126, 130, 135, 244, 337, 437Hymen ou Hyménée« Mariage », *Furetière*.V. 1452, 1454, 1544, 1938Inclination« Se dit de l'amour », *Furetière*.V. 37, 1094Industrie« Dextérité, invention, adresse à faire réussir quelque chose, quelque dessein, quelque travail », *Furetière*.V. 955, 1023, 1534Infame« Qui est sans honneur, qui ne mérite aucune estime dans le monde », *Furetière*.V. 458, 583, 1881Interdire« Se dit aussi de ceux qui se troublent, qui sétonnent, qui ne sauraient parler raisonnablement », *Furetière*.V. 334, 1181, 1908Je vous baise les mains« On dit proverbialement, *je vous baise les mains*, pour dire, je me recommande à vous, ou je vous remercie », *Furetière*.V. 647, 1155, 1396, 1639, 1704LascheSubstantif : « un lasche est celui qui n'a pas de fermeté de cœur, de générosité, d'honnêteté », *Furetière*.V. 759, 1559Adjectif : « qui est bas et honteux ; qui est sans honneur, qui est infame », *Furetière*.V. 116, 349, 504, 1695Lors« Adv. de temps qui signifie alors, en ce temps là », *Furetière*.V. 85, 164, 165, 301, 313, 362, 553, 715, 885, 1592, 1832Mander« Écrire à quelqu'un ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger de faire quelque affaire », *Furetière*.V. 730, 1304, 1308, 1443, 1799Maraut« Terme injurieux qui se dit des gueux, des coquins, des fripons, des belitres, qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lachetés », *Furetière*.V. 485, 583Mérite« Assemblage de plusieurs vertus, ou de bonnes qualités en quelque personne, qui lui attire de l'estime, et de la consideration » *Furetiere*.V. 51, 195Mine« Physionomie, extérieur », *Furetière*.V. 1507« Air, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l'intérieur par l'extérieur. On juge à la *mine*, à la physionomie d'une personne, de ses bonnes, ou mauvaises qualités », *Furetière*.V. 42« On dit faire bonne mine en parlant de la contenance que l'on tient pour quelque dessein », *Furetière*.V. 1677Objet« Chose où l'on arrête sa pensée, son cœur, son but ou son dessein », Richelet.V. 38, 705, 706, 1525, 1540« Se dit poétiquement des belles personnes qui donnent de l'amour », Furetière. V. 297, 710, 746, 1187, 1190, 1575, 1804Obligé« Redevable », *Furetière*.V. 1365, 1386, 1491Obliger« Signifie plus généralement faire quelque faveur, quelque plaisir, rendre un bon office », *Furetière*.V. 714, 893, 1051, 1412, 1685, 1705, 1935OccasionLe mot doit être pris au sens étymologique de *ce qui arrive*. V. 56, 442, 455, 1093, 1228, 1327, 1539Office« Secours, ou devoir reciproque de la vie civile, service, plaisir », *Furetière*.V. 357, 1004, 1365, 1645, 1701PerdreSignifie parfois « détruire, ruiner, décrier », *Furetière*. V. 4, 11, 308, 358, 610, 639, 643, 1852, 1885Pour lors« Alors, en ce temps là », *Furetière*.V. 890, 974QuasiPresque.V. 282, 604Rapport« Le récit d'une chose qui s'est passée, … que l'on a vue », *Richelet*. V. 117, 334, 470, 478Rare« Qui arrive peu souvent, qui ne se trouve pas ordinairement. Excellent, précieux, singulier, extraordinaire », *Richelet*. V. 51, 511, 554, 564, 571, 717, 724, 746, 808, 832, 859, 1111, 1187, 1252, 1262, 1503, 1565, 1949Rebuter« Mépriser, rejetter quelque chose », *Furetière*. V. 40, 57, 149, 638, 1946« Dégoûter, empêcher de poursuivre quelque dessein », *Furetière*.V. 1632 Recouvrer« Retrouver », *Furetière*.V. 216, 1689Rencontrer« Signifie aussi réussir en affaires, en ses conjectures », *Furetière*. V. 822, 826Resver« Se dit de ceux qui en veillant font ou disent des extravagances », *Furetière*. V. 145, 965, 1782, 1913« Signifie aussi méditer, appliquer sérieusement son esprit a raisonner sur quelque chose, à trouver quelque moyen, quelque invention », *Furetière*.V. 886, 1678 Sage« Se dit aussi de plusieurs bonnes qualités par relation aux personnes. Si c'est un homme fait, *sage* signifie prudent, qui agit avec circonspection, qui donne de sages conseils », *Furetière*.V. 21, 289, 1213Service« Offices galands rendus à une Dame afin de lui plaire », *Richelet*. V. 1618, 1634, 1646Renvoie au service amoureux qu'un galand rend à une Dame et qui consiste à faire plaisir à sa Dame, la défendre et la soutenir.V. 512, 1003ServirSignifie, dans le vocabulaire amoureux, apporter ses soins, son attention à sa maîtresse.V. 717Signifie être au service d'un supérieur (souvent dans la bouche des valets). V. 265, 599, 1719Severe« À l'égard des femmes, signifie particulièrement cruelle, insensible, dont le cœur est inaccessible aux Amants », *Furetière*.V. 131, 243Soin« Diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner », *Furetière*.V. 208, 358Soucy ou SouciSens fort d'inquiétude. V. 378, 466, 705, 766, 1070, 1455, 1660, 1716, 1736, 1972Souffrir« Supporter », *Richelet*.V. 103, 125, 178, 772, 1293 « Ne pas s'opposer à une chose, y consentir tacitement, la tolérer. », *Furetière*. V. 185, 477, 505, 1803« Permettre », *Académie*.V. 55, 128 Sus et sus donc« Peut s'employer comme interjection, ou par exclamation… ; pour exciter quelqu'un à prendre courage. … Tout cela est du style populaire et par conséquent il ne peut plus avoir d'usage que dans le comique et le burlesque », *Furetière*.V. 25, 1677, 1897Tantost« En un moment, tout à l'heure », *Richelet*.V. 685, 868, 1148, 1153, 1220, 1236, 1410, 1442, 1687Tenir« Estimer », *Richelet*. V. 397, 446, 626, 676, 757, 900, 1531, 1744, 1754, 1863Tout de bon« Adv. sérieusement, en vérité, sans raillerie », *Richelet*.V. 905, 1400Trancher (de quelque chose)« Se dit … ironiquement des fanfarons, de ceux qui affectent de paraitre plus qu'ils ne sont », *Furetière*.V. 372, 439Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions », *Furetière*.V. 451, 708, 739Transporter« Se dit des violentes agitations de l'esprit », *Furetière*.V. 147, 912Vayn ou vain« En Morale signifie, glorieux, superbe, qui a une bonne opinion de lui-même », *Furetière*.V. 187, 371, 444, 939Vœu« Souhait, désir », *Furetière*.V. 1927, 1992« Hommage », *Furetière*.V. 88, 369, 1366
+
+
+# Bibliographie
+
+
+## Textes de référence
+    Le Feint Astrologue
+Le Médecin malgré lui
+The Fake Astrologer, a Critical Spanish Text and Translationet al.
+
+
+
+## Études sur d'Ouville et son œuvre
+    Romances Notes
+XVII*e* siècle
+Scarron inconnu et les types des personnages du roman comique
+Dissertation Abstracts
+Les Siècles littéraires de la France ou Nouveau dictionnaire historique, critique, et bibliographique, de tous les écrivains français morts et vivans, jusqu'à la fin de XVIII*e* siècle
+Revue d'histoire littéraire de la France
+ComediaL'Age d'Or de l'influence espagnole – La France et l'Espagne à l'époque d'Anne d'Autriche 1615-1666Charles
+Mémoires de Michel de Marolles, avec des notes historiques et critiques par l'abbé Claude-Pierre Goujet, AmsterdamPariss.n
+Historiettes
+
+
+
+## Ouvrages généraux sur le XVII*e* siècle
+    Littérature française – L'Âge classique I, 1624-1660
+L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
+Le Théâtre du Marais
+Œuvres complètes
+Introduction à l'analyse des textes classiques
+A History of French Dramatic Literature in the Seventeenth Century
+Galerie historique des acteurs du théâtre français depuis 1600 jusqu'à nos jours
+Dictionnaire des comédiens français
+Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
+Histoire du théâtre français depuis son origine jusqu'à présent
+
+
+
+## Études générales sur la comédie en France au XVII*e* siècle
+    Les Sources de Molière
+Lire la comédie
+La Comédie avant Molière
+La Comédie classique en France. De Jodelle à Beaumarchais
+
+
+
+## Ouvrages sur le théâtre espagnol et son influence
+    Histoire du théâtre espagnol
+La Littérature espagnole
+Le Masque et le visage. Du baroque espagnol au classicisme français
+Du Gracioso au valet comique
+La Comedia espagnole en France de Hardy à Racine
+Revue de Littérature comparée
+
+
+
+## Ouvrages sur le comédien Jodelet
+    *e*Revue d'histoire littéraire de la France
+Dictionnaire biographique des comédiens français du XVII*e* siècle
+
+
+
+## Dictionnaires et outils grammaticaux
+    Dictionnairedel'AcadémieFrançoise
+Dictionnaire universel …
+Dictionnaire François …
+Grammaire du français classique
+Syntaxe française du XVII*e* siècle
+ Introduction à la langue du XVII*e* siècle. Syntaxe
+Grammaire de la langue française du XVII*e* siècle
+
+
+-------
+
+
+[1] Frédéric de Armas, « Antoine Le Métel Sieur d'Ouville : The "Lost Years" », p. 538-543.
+
+[2] James Wilson Coke, « Antoine Le Métel, Sieur d'Ouville : His Live and his Theatre », p. 2344. 
+
+[3] Alonso del Castillo y Solorzano, *La Fouyne de Séville, ou l'Ameçon des Bourses*, « Avis au Lecteur ».
+
+[4] Henri Chardon, *Scarron inconnu*, t. I, p. 319.
+
+[5] Gédéon Tallemant des Reaux, *Historiettes*, t. I, p. 1054-1055.
+
+[6] Michel de Marolles, *Les mémoires de Michel de Marolles*, t. I, p. 410.
+
+[7] Gédéon Tallemant des Reaux, *Historiettes*, t. I, p. 409.
+
+[8] Les frères Parfaict, *Histoire du théâtre français*, t. VII. De même Lancaster remarque concernant le succès des *Fausses Véritez* : « The play seems to have had some success, for ... it was still in the repertory of the Hôtel de Bourgogne in 1646-47. » (H.C. Lancaster, *A History of French Dramatic Literature*, II, 2.) Voir aussi *Le Mémoire de Mahelot*, p. 51.
+
+[9]  Alonso del Castillo y Solorzano, *La Fouyne de Séville, ou l'Ameçon des Bourses*, « Avis au Lecteur ».  
+
+[10] Nicolas Toussaint des Essarts,* Les Siècles littéraires de la France ou Nouveau dictionnaire historique, critique, et bibliographique, de tous les écrivains français morts et vivans, jusqu'à la fin de XVIII*e**, t. V, p. 63.
+
+[11] Ernest Martinenche, *La Comedia espagnole en France de Hardy à Racine*. 
+
+[12] *Ibid.*
+
+[13] Gédéon Tallemant des Reaux, *Historiettes*, t. II, p. 777.
+
+[14] François et Claude Parfaict, *Histoire du théâtre français depuis son origine jusqu'à présent*, t. VI, p. 6.
+
+[15] Ernest Martinenche, *La Comedia espagnole en France de Hardy à Racine*, p. 407-408.
+
+[16] François et Claude Parfaict, *Histoire du théâtre français depuis son origine jusqu'à présent*, t. VI, p. 6.
+
+[17] Sophie Wilma Deierkauf-Holsboer, *Le Théâtre du Marais*, t. I, p. 27.
+
+[18] Gédéon Tallemant des Reaux, *Historiettes*, t. II, p. 777.
+
+[19] Pierre David Lemazurier, *Galerie historique des acteurs du théâtre français depuis 1600 jusqu'à nos jours*, p. 290-296.
+
+[20] Henry Lyonnet, *Dictionnaire des comédiens français*.
+
+[21] Gédéon Tallemant des Reaux, *Historiettes*, t. I, p. 1222.
+
+[22] Claude Bourqui, « D'Ouville adaptateur du théâtre espagnol : deux sources nouvelles ».
+
+[23] Roger Guichemerre, « Une source peu connue de Molière : Le théâtre de Le Métel d'Ouville ».
+
+[24] Ernest Martinenche, *La Comedia espagnole en France de Hardy à Racine*, p. 345.
+
+[25] Nicolas Bourdin : « littérateur et astrologue français, mort en 1676. Il fut secrétaire d'État et membre de l'Académie de l'Abbé d'Aubignac. On a de lui entre autres ouvrages, quelques poésies, et *les remarques de J.B. Morin sur le commentaire du centiloque de Ptolémée, mis en lumière pour servir de fanal aux esprits studieux de l'astrologie* », Hoeffer.
+
+[26] Ces initiales sont celles de l'éditeur, Cardin Besongne.
+
+[27] Demoiselle : « vieux mot qui signifie *fille noble* », *Furetière*.
+
+[28] Séjour : « temps que l'on demeure dans un lieu », *Fureti*ère. Ce mot s'emploie également pour un temps court.  
+
+[29] Comprendre ici *si vous estimez*. (cas : « estime », *Furetière*.)
+
+[30] On observe plusieurs diérèses du type *destruire* : v. 117, v. 359.
+
+[31] Le mot amour est, selon l'usage actuel, masculin au singulier et féminin au pluriel. Au XVII*e* siècle, ce substantif est indifféremment féminin et masculin. L'auteur varie les genres du mot amour dans toute la pièce, sans sembler forcément être motivé par la versification. Ici par exemple un masculin n'aurait pas modifié le nombre de syllabe. Le mot *amour* est encore au féminin aux vers 230, 576, 1590, 1974.
+
+[32] On observe de nombreuses diérèses sur le modèle *inclination* : v. 38, v. 56, v. 136, v. 383, v. 442, v. 455, v. 543, v. 581, v. 582, v. 629, v. 630, v. 671, v. 707, v. 1076, v. 1093, v. 1094, v. 1097, v.1171, v. 1183, v. 1228, v. 1269, v. 1270, v. 1327, v. 1328, v. 1497, v. 1539, v. 1540, v. 1572, v. 1695, v. 1596, v. 1773, v. 1785, v. 1823, v. 1824.
+
+[33] Aise : « joie, contentement », *Furetière*.
+
+[34] La forme verbale *die* (première personne du singulier du subjonctif présent) est une forme de l'ancienne langue encore attestée au XVII*e* siècle selon Spillebout (p. 189). Cette forme est encore présente aux  vers 120 et 1171.
+
+[35] Le Dieu Amour est traditionnellement représenté avec les yeux bandés.
+
+[36] Dédire : « rétracter sa parole, et en manquer. », *Furetière*. 
+
+[37] Chatouilleux : « au sens figuré : délicat, douteux, problématique », *Furetière*.
+
+[38] Richelet écrit : « seur : prononcez *sur, sure* ». Ainsi nous trouvons ici une sorte de rime pour l'œil. Il s'agit d'un phénomène relativement rare à l'époque.
+
+[39] Hanter : « se dit aussi des lieux où l'on va ordinairement », *Furetière*.
+
+[40] Synérèse (fréquente pour ce mot au XVII*e* siècle) : le mot compte pour deux syllabes. Il en est de même au vers 799).
+
+[41] On ne faisait pas la distinction au XVII*e* siècle entre *satire* et satyre.
+
+[42] Fort : « se dit aussi de ce qui est difficile, qui donne de la peine », *Furetièr*e.
+
+[43] Comprendre ici *à quoi cela servirait-il*.
+
+[44] Bigearre ou bizarre : « fantasque, qui a des mœurs inégales, des opinions extraordinaires et particulières », *Furetière*.
+
+[45] Référence à un « prétendu Ordre de Chevaliers dont il est fait mention dans les anciens romans. C'étaient des braves qui couraient le monde pour chercher des aventures, redresser des torts et faire de grandes actions de prouesse », *Furetière*. Nise compare sa maîtresse à ces chevaliers car elle trouve que son sens de l'honneur est poussé à l'extrême et démodé.
+
+[46] La graphie *avecque* est une variante poétique de la forme *avec* et compte pour trois syllabes devant un mot à l'initiale consonnantique. 
+
+[47] Il s'agit ici de l'usage emphatique du point d'interrogation. Cette ponctuation n'a pas valeur interrogative mais  signale le ton qui doit être donné au vers. Il indique que la voix doit monter et équivaut ainsi souvent à un point d'exclamation. Ce phénomène est récurrent tout au long de la pièce : v. 334, v. 338, v. 628, v. 860, v. 1142, v. 1280, v. 1286, v. 1301, v. 1321, v. 1393, v. 1459, v. 1478, v. 1554, v. 1674, v. 1751, v. 1753, v. 1788, v. 1790, v. 1817, v. 1818, v. 1838, v. 1857, v. 1858, v. 1882, v. 1894, v. 1901, v. 1906, v. 1908, v. 1982.
+
+[48] À l'impératif, l'absence de *s* à la deuxième personne du singulier est une règle absolue au XVII*e* siècle. 
+
+[49] On observe plusieurs diérèses du type *violent* : v. 172, v. 361, v. 1198, v. 1314, v. 1683.
+
+[50] Cajolerie : « flatterie pour gagner l'amitié de quelqu'un, en obtenir ce que l'on désire », *Furetière*.
+
+[51] Rai « ou rayon », *Furetière*.
+
+[52] *Passer plus avant* signifie *avancer*. L'expression est ici employée au sens métaphorique. Il faut ainsi comprendre *en  continuant, en persévérant*.
+
+[53] Complaisance : « déférence aux sentiments et aux volontés d'autrui », *Furetière*.
+
+[54] Crédit : « croyance, réputation, estime qu'on s'acquiert dans le public », *Furetière*.
+
+[55] Quitter : « donner quittance, ou ne demander plus rien d'une dette ». Ici, *quitter la place*, pour parler « des obligations, des menus devoirs », *Furetière*. 
+
+[56] Dépit : « colère qui donne du dégoût d'une chose contre laquelle on se fâche », *Fureti*ère. *Dépité* est répertorié dans les dictionnaires et non *dépite*. Il semblerait que l'auteur invente et utilise ce mot uniquement pour la rime. 
+
+[57] Bravade : « menace fière et insolente », *Richelet*.
+
+[58] Libéral : « qui donne avec raison et jugement en sorte qu'il ne soit ni prodigue, ni avare », *Furetière*.
+
+[59] Assurance : « constance, fermeté. », *Furetière*.
+
+[60] Par l'emploi du mot *fille*, Nise rappelle à Jodelet qu'elle n'est pas mariée.
+
+[61] On observe plusieurs diérèses sur le modèle *deffier* : v. 370, v. 461, v. 635, v. 689, v. 736, v. 1199, v.1307, v. 1515, v. 1609, v. 1670, v. 1837.
+
+[62] Huis : « vieux mot qui s'est dit d'une moyenne porte pour entrer dans les sales, chambres et autres appartements », *Furetière*.
+
+[63] On observe plusieurs diérèses du type *Liliane* : v. 646, v. 692, v. 704, v. 1225, v. 1331, v. 1350, v. 1433, v. 1435, v. 1469, v. 1531, v. 1541, v. 1675, v. 1688, v. 1765, v. 1781, v. 1836, v. 1873, v. 1917, v. 1942.  
+
+[64] D'un point de vue sémantique, il serait plus logique de trouver le mot *trompette* au féminin mais cela fausserait le vers. Il semble que l'auteur préfère employer le mot trompette au masculin par souci de versification. Ce mot existe et fait référence aux musiciens chargés de sonner la trompette à l'entrée des invités dans un lieu.
+
+[65] Fier : « cruel », *Furetière*.
+
+[66] Picquer : « se dit … des choses qui nous flattent, ou qui nous choquent. », *Furetière*. 
+
+[67] Synérèse : le mot compte pour deux syllabes.
+
+[68] On observe plusieurs diérèses du type *odieux* : v. 370, v. 566, v. 1483, v. 1848.
+
+[69] Honte : « signifie quelquefois affront, injure qu'on reçoit, infamie qu'on souffre », *Furetière*.
+
+[70] Choquer : « blesser légèrement », *Furetière*.
+
+[71] On observe ce qui semble être une confusion entre le verbe *emmener* : « mener une personne ou une chose en un autre lieu que celuy où l'on est », *Furetière* et le verbe *amener* : « conduire, mener vers quelque personne ou quelque lieu », *Furetière*.
+
+[72] Se mocquer : « mépriser, ne se soucier point des choses », *Furetière*.
+
+[73] On observe de nombreuses diérèses sur le modèle du mot  *patience* : v. 480, v. 550, v. 559, v. 571, v. 848, v. 867, v. 959, v. 999, v . 1015, v. 1063, v. 1072, v. 1104, v. 1111, v. 1263, v. 1422, v. 1445, v. 1477, v. 1484, v. 1503, v. 1513, v. 1514, v. 1565, v. 1767, v. 1944, v. 1948, v. 1952, v. 1953, v. 1956.
+
+[74] Vers : « vers ne se dit que pour le lieu, et envers pour la personne », *Furetière*. Ainsi l'auteur emploie plutôt le mot *vers* de façon à ce que le vers soit juste.
+
+[75] Ce mot n'est attesté dans aucun dictionnaire. Il semble qu'il s'agisse d'un néologisme comique.
+
+[76] Demeurer court : « ne savoir que répondre », *Furetière*.
+
+[77] Présent : « se dit figurément en choses spirituelles et morales. On appelle un esprit *présent*, celui qui se possède bien, qui a la conception prompte et la répartie vive », *Furetière*.
+
+[78] Taxer : « accuser, noter », *Furetière*.
+
+[79] *Personne* est ici employé au sens positif du mot : l'équivalent de *une personne*.
+
+[80] Il s'agit ici du bureau d'adresse : « lieu où on va donner et prendre des avis pour les choses dont on a besoin », *Furetière*. Le « Bureau d'Adresse » a été créé par Théophraste Renaudot. Il s'agissait tout d'abord de ce que nous appelerions aujourd'hui une agence pour l'emploi, c'est-à-dire d'un établissement diffusant des offres d'emplois afin de lutter contre la pauvreté. Dans ce même but philanthropique, Renaudot décide rapidement d'élargir les activités du Bureau d'Adresse en proposant des services comparables aujourd'hui à ceux d'une agence immobilière, d'une agence matrimoniale, et d'un Mont-de-Piété, ainsi que des consultations médicales gratuites.
+
+[81] La gazette est le « petit imprimé qu'on debite toutes les semaines, qui contient les nouvelles de toutes sortes de pays », *Furetière*. Créé en 1631 par Renaudot encore, c'est le premier périodique français. Soutenu par Richelieu qui fit de la Gazette un instrument de sa propagande politique, il obtient le monopole en 1635. La Gazette se démarquait par la qualité de ses articles, l'abondance, la diversité, la concision et la clarté de ses nouvelles et eut ainsi un grand succès.
+
+[82] Ascendant : « se dit en discours ordinaire d'une supériorité qu'un homme a sur l'esprti d'un autre », *Furetière*. 
+
+[83] Désabuser : « détromper quelqu'un », *Furetière*.
+
+[84] Ramentevoir : « faire ressouvenir de quelque chose », *Furetière*.
+
+[85] Prénom du fils du Grand Nostradamus. Il a beaucouo contribué à faire connaître l'œuvre de son père et c'est souvent son prénom qui reste à l'esprit losque l'on pense grand astrologue. D'Ouville voulait sûrement ici faire référence au père.
+
+[86] Feu : « se dit figurément en choses spirituelles et morales de la vivacité de l'esprit », *Furetière*.
+
+[87] Docte : « savant qui a beaucoup vu et lu », *Furetière*.
+
+[88] « On dit que les planètes sont des étoiles errantes, quoy qu'elles aient une route certaine, par opposition aux étoiles fixes qui sont toujours dans un même point du ciel », *Furetière*.
+
+[89] *Aucuns* est ici employé au sens positif du mot : l'équivalent de *certains, quelques- uns*.
+
+[90] Pipeur : « filou qui trompe au jeu, qui joue de mauvaise foi », *Furetière*.
+
+[91] On observe une diérèse dans le mot *magicien*, de même au vers 958.
+
+[92] Cette expression semble signifier *facilement, avec légèreté*, mais cet emploi ne figure pas dans les dictionnaires. 
+
+[93] Il faudrait normalement la graphie *peust* car le verbe est au passé simple. Cette omission est fréquente au XVII*e* siècle.
+
+[94] Comprendre *en un peu moins de trois mois*. Il est probable que cette omission soit volontaire et ceci afin que le vers soit juste.
+
+[95] Se laver de quelque chose : « montrer qu'on est innocent d'un crime dont on est accusé », *Richelet*.
+
+[96] Gloire : « le mot de gloire signifiant orgueil se prend en bonne et mauvaise part », *Richelet*. Ici *gloire* n'est pas employé de façon péjorative mais est pris dans le sens d'*honneur*.
+
+[97] Traverser : « se mettre en travers de, s'opposer à », *Richelet*.
+
+[98] Arrêt : « promesse, parole donnée. Chose résolue et arrêtée », *Richelet*.
+
+[99] Courir fortune : « courir hazard », *Furetière*.
+
+[100] Sexe : « absolument parlant, se dit des femmes.… Il faut avoir du respect pour le *sexe*, pour le beau *sexe*, pour les Dames », *Furetière*.
+
+[101] A plusieurs reprises dans cette pièce, le mot « gloire » est employé dans un sens non répertorié dans les dictionnaire, un sens proche du mot *bonheur*. Le sens classique du mot *gloire* en tant que joie céleste est ainsi bien amoindri. Il en est ainsi aux vers 575 et 1933, de même au vers 1848 où l'adjectif *glorieux* semble être synonyme d'*heureux*.
+
+[102] Force : « nécessité, contrainte », *Furetière*.
+
+[103] Tenir : ici au sens d*'obtenir, gagner*. Comprendre *nous aurions tout perdu si nous avions été face à un esprit plus subtil.*
+
+[104] Héroïne légendaire de la Rome antique, célèbre pour sa vertu. Elle refuse de céder aux avances de Sextus Tarquin, le fils de Tarquin le Superbe et son sens de l'honneur est tel que même ses menaces de mort ne la font pas fléchir. Tite Live raconte comment ce dernier finit par la violer. Lucrèce personifie fréquement l'idée de vertu et d'irréprochabilité.
+
+[105] Ordinaire : « se dit aussi au substantif de la poste », *Furetière*.
+
+[106] Synonyme de *par la suite*.
+
+[107] « On dit figurement attraper quelque chose à la pipée pour dire l'attraper adroitement. Ainsi Regnier a dit dans ses *Satires* “l'ame bizarrement de vapeurs occupée, comme un Poete qui prend des vers a la pipée.” »
+
+[108] Verve : « certaine fureur ou émotion d'esprit qui réveille le génie des poëtes, des peintres, des musiciens, et des gens qui travaillent l'imagination », *Furetière*.
+
+[109] Il semble que le mot *bruit* subisse ici une diérèse, et ce dans le seul but de respecter les conventions de versification. En effet, dans le reste de la pièce le mot *bruit* se prononce de façon classique : v. 95, v. 106, v. 109, v. 301, v. 677, v. 1517, v. 1828, v. 1877, v. 1894.
+
+[110] Adjectif substantivé. Comprendre ici *la moindre chose, le moindre détail*.
+
+[111] Les graphies *é* et* ay* sont équivalentes. Idem pour le vers 885.
+
+[112] En tenir : « être pris, être dupé, être attrapé », *Richelet*.
+
+[113] Apparence : « se dit quelquefois de ce qui est raisonnable », *Furetière*. Il faut comprendre ici *quel est le sens de tout ceci* ?
+
+[114] Se mocquer : « faire quelque dérision, tourner en raillerie, en ridicule quelque personne, ou quelque chose », *Furetière*.
+
+[115] Diérèse : le mot compte pour trois syllabes.
+
+[116] Persécuter : « importuner, presser, soliciter, tourmenter, ne laisser point en repos », *Richelet*.
+
+[117] Comprendre *est-ce donc lui* ?
+
+[118] Hanter : « fréquenter, être souvent de la compagnie de quelqu'un », *Furetière*.
+
+[119] On observe plusieurs diérèses sur le modèle du mot *jouyr* : v. 1295, v. 1341, v. 1370, v. 1630, v. 1901, v. 1983, v. 1984.
+
+[120] Ici l'auteur joue sur les deux sens du mot *service*, le sens courant et le sens amoureux (voir lexique). Ariste ne parvient pas à déclarer sa flame mais emploie un langage équivoque.
+
+[121] Comprendre *que je meurre si je ments*.
+
+[122] A l'envi : « par émulation et pour voir qui fera ou réussira le mieux », *Richelet*. Comprendre *à qui mieux mieux*.
+
+[123] Au XVII*e* siècle, le participe présent s'accorde souvent. Ici, il s'accorde avec le mot *plusieurs* et prend ainsi la désinence plurielle. (idem au vers 567). Raffiner : « allégation de quelque chose fausse que l'on veut faire passer pour vraie », *Furetière*.
+
+[124] Authoriser : « appuyer de son autorité, de son crédit, favoriser … donner son crédit », *Richelet*.
+
+[125] Synérèse : le mot compte pour trois syllabes.
+
+[126] Comprendre *vaille que vaille*.
+
+[127] Tenir foi : « en parlant de foi, de promesse et de parole, signifie garder, tenir parole à quelqu'un », *Richelet*.
+
+[128] Tout à l'heure : « sur le champ », *Furetière*.
+
+[129] Reconnaître : « être reconnaissant d'une grâce. Avoir de la gratitude de quelque faveur qu'on a reçue », *Richelet*.
+
+[130] Poulet : « petit billet amoureux qu'on envoie aux dames galantes, ainsi nommé, parce qu'en le pliant on y faisait deux pointes qui représentaient les ailes d'un poulet. », *Furetière*.
+
+[131] Synérèse : le mot compte pour deux syllabes.
+
+[132] Enflammer : « se dit figurément des choses morales et signifie exciter, échauffer, émouvoir les passions, et surtout l'amour », *Furetière*.
+
+[133] Suffisance : «  doctrine, érudition, science », *Richelet*.
+
+[134] Confit : « se dit figurément en choses morales, en parlant de ceux qui ont quelque bonne ou mauvaise qualité qui les pénètre, et qui se trouve chez eux au suprême degré », *Furetière*.
+
+[135] Seule la forme *à présent* est attestée dans le dictionnaire. Peut-être l'auteur emploie-t-il cette tournure afin que le vers soit juste.
+
+[136] Pasmer : « tomber en défaillance, perdre l'usage des sens : ce qui arrive lorsque l'agitation et le mouvement des esprits est arrété par quelque cause ou passion violente et subite », *Furetière*.
+
+[137] Synonyme de *faiblesse*.
+
+[138] Défaillir : « manquer », *Richelet*.
+
+[139] Travail : «au pluriel, … peine, fatigue, action », *Richelet*. 
+
+[140] Martire : « se dit poétiquement et fréquemment de la souffrance des amants », *Furetière*.
+
+[141] Las !: «  interjection et expression d'un mouvement de douleur ou d'affliction, laquelle on marque avec cette ponctuation ! on dit ailleurs *hélas* ! », *Furetière*.
+
+[142] Succes : « issue d'une affaire. Il se dit en bonne et en mauvaise part », *Furetière*. Ici, le mot *succès* est employé dans le sens neutre d'évènement, de dénouement.
+
+[143] La symbolique des couleurs était très importante au XVII*e* siècle.
+
+[144] Tout beau : « adv. se dit lorsqu'on prie, ou qu'on commande de s'arrêter, de ne rien faire, de ne pas parler », *Richelet*.
+
+[145] Priser : « estimer, faire cas », *Richelet*.
+
+[146] Jeu sur le double sens de cette expression qui peut être tout à la fois une simple formule de politesse et renvoyer à l'idée d'un geste tendre témoignant de l'amour de Tindare pour Liliane. Cela participe du langage à double entente des deux amants dans cette scène.
+
+[147] Jeu de mots qui fait fusionner la formule *être en bon point* signifiant « être en bonne santé » (*Richelet*) et  le mot *embonpoint* qui lui évoque le surpoids de Jodelet.
+
+[148] Ce terme n'est pas attesté dans les dictionnaires. Il semble qu'il s'agisse d'un néologisme composé à partir du verbe *maigrir* et suivant la structure du verbe *engrosser*. 
+
+[149] On observe plusieurs diérèses du type *continuer* : v. 1243, v. 1429, v. 1634.
+
+[150]  Comprendre *à quoi cela te sert-il* ?
+
+[151] Il s'agit ici du sens étymologique du mot *rude* qui vient du latin *rudis* : « inexpérimenté, inculte, ignorant, novice », *Dictionnaire historique de la langue française*, Alain Rey. 
+
+[152] Ne pas laisser de… : « être, demeurer malgré quelque obstacle », *Furetière*.
+
+[153] Imbert ou Himbert de Billy (1557-1604), astrologue du Lyonnais, a rédigé de nombreux almanachs et pronostications à la manière de Nostradamus, c'est-à-dire sous la forme de quatrains.
+
+[154] Repasser : « terme de comédiens, répéter », *Richelet*.
+
+[155] Hydre : « en terme d'astrologie, est une constellation qui est vers le pôle méridional », *Furetière*.
+
+[156] Taureau : « second signe du Zodiaque », *Furetière*.
+
+[157] Scorpion : « huitième signe du Zodiaque. C'est la maison de Mars. Il est de nature très maléfique », *Furetière*.
+
+[158] Canicule : « constellation céleste qui a deux étoiles. Et quand le Soleil ou Mars se lèvent avec elles, il arrive une chaleur excessive, et les jours caniculaires commencent », *Furetière*.
+
+[159] Lyon : « un des douzes signes du zodiaque … c'est la maison du soleil, un signe chaud et sec », *Furetière*.
+
+[160] Il s'agit de la Grande Ourse : «  constellation voisine du pôle Arctique », *Furetière*.
+
+[161] Congru : « suffisant », *Richelet*. (au sens de *savant* ; voir la note du vers 1262) 
+
+[162] Il semble qu'ici Jodelet confonde plusieurs expressions. Le verbe *suer* signifie « travailler beaucoup », selon Richelet ; le nom *harnois* désigne l' « habillement d'un homme d'arme » (toujours selon Richelet) mais Furetière écrit « proverbialement on dit qu'un homme sue dans son harnois quand il est trop vêtu ». La fusion de ces deux expressions qui évoquent deux choses très différentes, une sérieuse et l'autre très triviale, provoque une décharge comique.
+
+[163] Poussinière : « ce mot ne se dit que de l'étoile poussinière : c'est le nom que le peuple donne à la Constellation des Pleiades », *Furetière*. Pleiades : « constellation formée de sept étoiles … pluvieuses et orageuses fort redoutées des gens de mer», *Furetière*.
+
+[164] Mordicant : « ce qui est acide et piquant », *Furetière*.
+
+[165] Comprendre : *ou sinon*.
+
+[166] Partant : « sorte de conjonction, qui signifie *c'est pourquoi* », *Richelet*.
+
+[167] Au XVII*e* siècle, le mot *affaire* est indifférement féminin et masculin.
+
+[168] Ménage : « gouvernement de famille, épargne, économie », *Richelet*.
+
+[169] Accomodé : « riche, qui est à son aise », *Richelet*.
+
+[170] On écrivait autrefois *aage* ou *eage* », *Furetière*.
+
+[171] Courtois : « qui a de la civilité, des manières honnêtes et agréables, qui fait un accueil doux et gracieux à tout le monde », *Furetière*.
+
+[172] Surprendre : « par extension, … intercepter, … obtenir par des moyens détournés », *Dictionnaire historique de la langue française*, Alain Rey.
+
+[173] S'altérer : « se troubler », *Richelet*.
+
+[174] Briser : « rompre avec quelqu'un. Rompre un discours commencé », Richelet.
+
+[175] Sens : « jugement, raison, esprit », *Richelet*.
+
+[176] Jodelet tente de se réapproprier les propos savants d'Arimant des vers 1495 à 1499. Jodelet les réutilise mais au premier degré ce qui provoque un effet comique.
+
+[177] Bailler : « donner, mettre en main », *Furetière*. 
+
+[178] Diérèse : le mot compte pour trois syllabes.
+
+[179] Armide : magicienne séductrice de la *Jérusalem libérée* du Tasse. Son palais, enchanté, est le théâtre de ses amours avec Renaud, un soldat ennemi. Elle détruit avec fracas son univers enchanté lorsqu'elle est délaissée par son amant. Urgande est la protectrice magicienne du héros du roman de chevalerie de Garcia Rodriguez de Montalvo, *Amadis de Gaule*. Son palais également est un lieu enchanté et mystérieux. 
+
+[180] Comprendre *malgré tous mes efforts, j'ai bien du mal à comprendre la situation*.
+
+[181] Desbroüiller: « débarasser, éclaircir une chose embrouillée », *Richelet*.
+
+[182] Larron : « celui qui vole et qui dérobe le bien d'autrui en cachette », *Richelet*. 
+
+[183] Fourber : « tromper adroitement, finement », *Furetière*.

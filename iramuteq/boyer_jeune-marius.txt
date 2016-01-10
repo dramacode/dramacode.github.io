@@ -1,0 +1,2440 @@
+
+
+**** *book_ *id_dedicace *date_1670 *creator_boyer
+
+A Monseigneur colbert. Ministre et secretaire d'Estat.
+
+Monseigneur,
+
+Quelque impatience que j'eusse de vous donner des marques publiques de ma reconnoissance au nom de toutes les Muses en general, et de la mienne en particulier, quoy que j'en fusse sollicité par la bonne ⁎fortune de quelqu'une de mes Pieces qui ont precedé celle-cy, j'ay senty mon devoir arresté par une juste defiance et par une crainte respectueuse.
+Mais enfin ne pouvant plus diferer de satisfaire à ma gratitude, j'ay ramassé toutes mes forces avant que d'entreprendre l'ouvrage que je vous destinois, j'ay pris la Scene la plus magnifique, j'ay choisi un des Heros de l'ancienne Rome, et pour vous le rendre plus agreable, j'ay tâché de le representer avec quelques-uns de ces traits, que nous admirons dans vostre incomparable Heros, Je parle de nostre grand Roy, qui rassemble en luy seul tout ce que l'Histoire a de plus incroyable et de plus merveilleux.
+Plein d'une si haute idée, et soustenu par la dignité de mon sujet, je vous ay consacré mon travail avant que de le commencer ; J'ay envisagé toute la gloire que je pouvois attendre de vostre approbation ; J'ay invoqué avec plus de ferveur que jamais le Dieu qui nous inspire, et je me suis dit sans cesse, qu'ayant esté choisi pour estre un des sujets des gratifications du Roy, je devois soustenir , ou plûtost justifier un choix si honorable.
+C'est avec ce grand secours, MONSEIGNEUR, que j'ay travaillé assez heureusement : quoy que la ⁎fortune et la cabale se meslent aujourd'huy de faire le bon et le mauvais destin des ouvrages du Theatre, celuy que je vous ay consacré n'a pas succombé sous leur injustice.
+Ce n'est que vous, MONSEIGNEUR, que j'ay lieu d'apprehender, quand je l'expose à vos yeux : je sçay que rien n'échape à la penetration de vostre esprit, et que vous possedez le precieux talent de juger finement de toutes choses : Je sçay que c'est de cette idée generale, que vous avez du beau et du parfait que se répandent sans cesse de nouvelles beautez et de nouvelles lumieres sur tous les Arts et sur toutes les Sciences : C'est de là que vient ce grand amour que vous avez pour elles, ces soins continuels et cette magnifique protection, dont vous honorez l'empire des belles Lettres, au milieu de ces grandes occupations que vous donnez avec une application étonnante et sans exemple à la premiere Monarchie de la terre.
+Que j'aurois de choses à dire, MONSEIGNEUR, sur un si vaste sujet, et qu'il seroit doux à une ame reconnoissante comme la mienne de s'abandonner à la loüange de son bienfaicteur !
+Mais je sçay trop quelle est la delicatesse de vostre modestie, et avec quelle discretion il faut manier toutes les matieres qui regardent vostre gloire.
+Agréez au moins, MONSEIGNEUR, que je laisse échaper devant vous une louange qui est dans la bouche de tout le monde.
+
+Permettez que j'apprenne à la posterité,
+
+Que vous avez executé
+
+Des choses qu'avant vous on avoit regardées
+
+Comme les vains projets d'un zele mal fondé,
+
+et dont tous ceux qui vous ont precedé,
+
+Eurent à peine les idées.
+
+Je n'entreray point dans le détail et dans la preuve de toutes ces merveilles, le témoignage que le Roy en rend tous les jours par sa propre bouche, vaut mieux que tous nos eloges ; ces glorieuses veritez sont assez confirmées par les solides marques que sa Majesté vous donne continuellement de son estime, et par les nouvelles dignitez dont il recompense vos travaux.
+Je suis avec un profond respect,
+
+MONSEIGNEUR,
+
+Vostre tres-humble, tres-obeyssant
+
+et tres obligé serviteur,
+
+BOYER.
+
+**** *book_ *id_body-3-1 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+Quel zele, quel ⁎bon-heur t'a conduit en ces lieux,
+Et t'a fait traverser un Camp victorieux ?
+Enfermé dans Preneste, où Sylla nous assiege...
+
+-*who_maxime
+De nos troubles, Seigneur, c'est le seul privilege,
+Qu'un seul peuple formant deux partis differens,
+Parmy nos ennemis nous trouvons des ⁎parens.
+J'ay penetré le Camp par leur intelligence,
+Pressé de vous donner un avis d'importance,
+Et de faire à vous-mesme un fidele rapport,
+Et de l'estat de Rome et de tout vostre sort.
+Telesinus, Seigneur, ce grand Chef des Samnites,
+Dont Sylla sceut jadis resserrer les limites,
+Est aux portes de Rome, et par un grand secours
+Aux fureurs de Sylla vient arracher vos jours,
+Et menaçant les siens d'un destin plus funeste
+Le forcer de lever le siege de Preneste.
+
+-*who_marius
+Je ne puis trop loüer ton courage et ta foy.
+Mais que viens-tu m'offrir et pour Rome et pour moy ?
+Le fier Telesinus ce fameux Capitaine
+Ce voisin trop jaloux de la grandeur Romaine,
+Vient moins pour me servir dans cette occasion
+Que pour servir sa haine et son ambition.
+Trop foible contre nous dans un temps plus tranquile
+Il tasche à profiter de la guerre civile ;
+Mais quand méme il auroit de plus justes desseins,
+Je deteste un secours qui peut nuire aux Romains.
+
+-*who_maxime
+Cependant vous voyez que Sylla sacrifie
+Aux soins de se vanger les soins de sa Patrie ;
+Ce barbare vainqueur trouve un plaisir moins dous
+A sauver son pays qu'à triompher de vous.
+Il croit qu'en envoyant le seul Pompée à Rome,
+Il la peut confier aux soins d'un si grand home,
+Imitez son exemple : en des perils si grans,
+Nul secours n'est honteux pour vaincre les Tyrans.
+
+-*who_marius
+Le ciel m'eut-il permis de l'employer sans crime,
+Ce secours quel qu'il soit injuste ou legitime,
+Ay-je la liberté d'agir en ma faveur ?
+Helas ! j'ay plus d'un maistre, et j'ay plus d'un vainqueur.
+Fils du grand Marius, dont le sort trop contraire
+Combla ses derniers jours d'horreur et de misere,
+Plus malheureux encor dans ce triste sejour
+J'éprouve à mesme temps la ⁎fortune et l'amour.
+
+-*who_maxime
+Quoy, Seigneur, quel amour dans un sort si funeste...,
+
+-*who_marius
+Cecilie est icy.
+
+-*who_maxime
+Quoy, Seigneur, dans Preneste ?
+
+-*who_marius
+Oüy Maxime, et l'amour aprés tant de ⁎hazards,
+Acheve icy sur moy le triomphe de Mars.
+
+-*who_maxime
+La fille de Sylla ?
+
+-*who_marius
+Cecilie, et ses charmes
+Sont plus forts que son pere avec toutes ses armes.
+Mais aprens quel destin l'a menée en ces lieux.
+Je ne veux point icy retracer à tes yeux
+Les troubles intestins, la sanglante ⁎furie,
+Dont mon Pere et Sylla déchiroient leur Patrie ;
+Il suffit de sçavoir tout ce qu'a mis d'horreur
+Entre nos deux ⁎maisons la jalouse fureur.
+Sylla faisant la guerre, et craignant pour sa fille
+La haine que mon pere avoit pour sa famille,
+Il l'envoye à Preneste en secret et sans bruit.
+Tu sçais en quel estat ce coup m'avoit reduit.
+Ne sçachant en quels lieux on cachoit ce que j'aime,
+Je signale par tout mon desespoir extréme,
+Et de mon pere mort devenu successeur,
+Pour vanger mon amour, j'imite sa fureur.
+Sylla revient d'Asie enflé d'⁎heur et de gloire ;
+Tout mon ⁎party s'ébranle au bruit de sa victoire.
+Je l'attaque, il triomphe, et trahy des Romains,
+Je me voy sur le point de tomber dans ses mains.
+Valere Gouverneur pour luy dans cette Ville,
+Gagné par mes presens me l'offre pour azile.
+Sylla me suit, m'assiege, et la soif de mon sang
+Luy fait negliger Rome, et sa gloire et son rang.
+Je me vois en estat de defendre Preneste,
+Ou de rendre sa prise à mon vainqueur funeste.
+Mais admire mon sort : plein d'un si doux espoir
+J'apprens que Cecilie estoit en mon pouvoir.
+Je reçois aussi-tost par les mains de Valere
+Ce precieux dépost, qu'il tenoit de son pere.
+Sylla m'a tout offert pour un tresor si cher.
+Mais rien à mon amour ne le peut arracher,
+Et pour te faire voir mon amour toute entiere,
+Voy quel est l'ascendant d'une beauté si fiere.
+La voyant ma captive, à son premier aspect
+J'en prends un peu d'orgueil et tremble de respect,
+Ses fers m'enflent le cœur, et sa beauté me brave ;
+J'ay le pouvoir d'un maistre, et la peur d'un esclave ;
+Mais plus esclave encor que maistre en ce sejour    
+Ce que je tiens du sort cede aux droits de l'amour.
+
+-*who_maxime
+Quoy qu'il en soit enfin, c'est vostre prisonniere ;
+C'est le plus cher tresor de Rome et de son pere,
+Et ce bien, qu'en vos mains la ⁎fortune a remis,
+Balance le pouvoir de tous vos ennemis.
+
+-*who_marius
+Maxime, connois mieux les droits d'une ⁎Maistresse
+Et ce que dans un cœur l'amour met de foiblesse,
+Ou si l'amour n'a rien qui te puisse charmer,
+N'en juge que par moy, qui suis né pour aimer.
+Sçache que sous le joug de ma belle captive,
+Je sens mon cœur sans force, et ma valeur oisive,
+Et que pour rendre encor mon devoir plus confus
+Je connois ma foiblesse et je n'en rougis plus.
+Sçache enfin que je donne au seul soin de luy plaire
+Tous les soins que je dois à combattre son pere :
+Depuis qu'elle est icy, pour servir ma valeur,
+Je ne retrouve plus ny mon bras ny mon cœur,
+Et toûjours possedé de mon amour extréme
+je ne sçay rien qu'aimer auprés de ce que j'aime.
+
+-*who_maxime
+Le fils de Marius sept fois Consul Romain,
+Luy déja successeur de ce rang souverain,
+Luy le fils d'un Heros plus grand que Rome mesme
+Ne sçait qu'aimer auprés de la beauté qu'il aime !
+Ah, Seigneur, pensez-vous que ce soit un moyen,
+De meriter un jour, un cœur comme le sien ?
+Sauvez vostre vertu de l'indigne foiblesse,
+Qui la tient abbatuë aux pieds d'une ⁎Maistresse.
+Allez forcer Sylla de suivre vostre choix ;
+Faites parler pour vous cent glorieux exploits ;
+Prenez sans plus tarder un temps si favorable,
+Lorsque Telesinus se rend si redoutable,
+Que Sylla mesme en tremble et demeure incertain,
+S'il doit poursuivre encore ou quitter son dessein ;
+Songez, que le Tyran qui voit Rome allarmée,
+Le voulant secourir, affoiblit son armée,
+Met la peur dans le Camp, et le met en estat
+De prevenir l'assaut, et tenter un combat.
+En entrant dans Preneste, et semant avec joye
+Le bruit du grand secours que le Ciel vous envoye,
+J'ay veu sur tous les fronts briller un noble espoir,
+Et chacun resolu de faire son devoir.
+Prenez l'occasion, qu'une prompte victoire
+Vous rende vostre rang, et Rome, et vostre gloire.
+
+-*who_marius
+Maxime, tes conseils dissipent mon erreur ;
+La vertu seule a droit de gagner un grand cœur,
+Et s'il faut qu'à l'amour le mien se sacrifie,
+Aymons, mais d'un amour digne de Cecilie :
+Allons à nos Soldats inspirer ce beau feu.
+Mais je voy Cecilie, attend encor un peu ;
+Je ne puis sans son ordre, à moins de luy déplaire,
+Former quelque entreprise, et combatre son pere.
+
+**** *book_ *id_body-3-2 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Ce qu'annonce Maxime est une verité
+Seigneur, advoüez-vous ce secours tant vanté,
+Que contre Rome mesme un traistre vous envoye ?
+En avez-vous receu la nouvelle avec joye ?
+Un Romain, un Consul appelle l'Etranger,
+Et met Rome en peril afin de se vanger ?
+Le Samnite est tout prest d'en faire sa conqueste...
+
+-*who_marius
+Ostez, Madame, ostez l'obstacle qui m'arreste ;
+Que Sylla se retire, et ne retienne pas
+Dans ces murs assiegez tant de vaillans Soldats,
+Et vous verrez alors, si ma propre vengeance
+M'a fait de nos voisins mandier l'assistance.
+C'est me traiter, Madame, avec trop de rigueur :
+Ce reproche cruel acheve mon malheur,
+Et c'est trop d'accuser un ⁎Amant miserable
+D'estre envers Rome et vous infidele et coupable.
+N'accusez que Sylla ; loin de la secourir,
+Il met toute sa gloire à me faire perir :
+Il se fait plus d'honneur de la perte d'un homme,
+Un soin plus important que du salut de Rome,
+Et me croit plus funeste à mon pays natal,
+Que la fureur du Cimbre, et celle d'Hannibal.
+Pardonnez si forcé d'accuser vostre pere...
+
+-*who_cecilie
+Non, quoy que de mon sang la gloire me soit chere,
+Je ne puis excuser cet étrange ⁎courroux,
+Qui de tant d'ennemis ne veut perdre que vous.
+Mais puisque ma prison fait toute sa colere,
+Ostez ce grand pretexte à la fureur d'un pere.
+
+-*who_marius
+Dure, dure à jamais la guerre et son ⁎courroux,
+Si cette paix me couste et mon amour et vous.
+
+-*who_cecilie
+Advoüez donc, Seigneur, qu'en faveur de sa race
+La fureur de Sylla merite quelque grace,
+Quand pour me delivrer il se croit tout permis,
+Et semble pour vous perdre exposer son pays.
+Il croit que des Romains la grande destinée
+S'il la neglige un jour, n'est pas abandonnée :
+Que Rome en elle mesme ayant assez d'appuy,
+Pour vaincre ses voisins n'a pas besoin de luy,
+Et qu'il doit, en forçant Preneste vostre azile,
+En faire le tombeau de la guerre civile.
+Peut-estre qu'il se flate, et que Rome aux abois
+Malgré ce grand espoir vous presse par ma vois.
+Ecoutez-la, Seigneur.
+
+-*who_marius
+Je l'écoute, Madame ;
+Mais m'écouterez-vous en faveur de ma ⁎flâme ?
+Si je livre à Sylla Preneste et nos Soldats,
+Si mon cœur se trahit, ne le trahissez pas.
+Rome appelle Sylla, je suis prest à le suivre ;
+Mais sans vous je ne veux ny la servir ny vivre.
+Peut estre en luy cedant ce peu que j'ay d'espoir,
+Je me sers, je sers Rome et je fais mon devoir ;
+Mais las si je vous perds apres l'avoir servie,
+Qu'ay-je affaire sans vous de Rome et de la vie ?
+
+-*who_cecilie
+On ne peut trop payer ce que vous luy cedez :
+Mais vous puis-je donner ce que vous demandez ?
+Ne suis-je pas toûjours au pouvoir de mon pere ?
+
+-*who_marius
+Helas ! ne craignez pas qu'un espoir temeraire
+Sur le pouvoir d'un pere attente injustement,
+Je sçay trop ce qu'il doit à son ressentiment ;
+Fils de son ennemy, j'ay tort d'aimer sa fille ;
+Tout mon sang fut toûjours l'horreur de sa famille,
+Mais si mon mauvais sort m'arrache à tant d'⁎apas,
+A toute sa rigueur ne m'abandonnez pas ;
+Prestez à mon amour une foible esperance
+Un seul mot, ou du moins cét aimable silence,
+Ou la foible pitié se laissant entrevoir
+Aux fureurs d'un ⁎Amant mesle un rayon d'espoir.
+
+-*who_cecilie
+N'exigez vous, Seigneur, du cœur d'une Romaine
+Que ces amusemens d'une esperance vaine ?
+L'illustre Marius s'en veut-il contenter ?
+Non, non, et j'advoüeray sans vouloir le flater,
+Que de tout ce qu'il vaut j'en suis persuadée ;
+Que j'ay de sa vertu la plus sublime idée ;
+Qu'il me souvient encor des soins de vostre amour ;
+Que dans Rome autrefois il m'a sauvé le jour,
+Quand le retour sanglant du Consul vostre pere,
+Vangea par mille morts une longue misere,
+Et qu'ainsi je vous doy la plus fidele ardeur,
+Si le Ciel me laissoit disposer de mon cœur.
+
+-*who_marius
+Ce cœur qui fut le don d'une main immortelle
+Est libre, souverain, indépendant comme elle ;
+Et s'il n'est pas de mesme au reste des humains,
+Ce privilege est seur pour les cœurs des Romains
+Ne m'opposez donc plus l'authorité d'un pere ;
+Ou bien si c'est luy seul qui doit m'estre contraire,
+Souffrez qu'une victoire authorisant mon ⁎feu
+Luy demande ou plustost arrache son adveu.
+
+-*who_cecilie
+Voulez vous recourir à ce remede extréme ?
+Deussiez-vous au peril de Rome et de vous-mesme
+Le vaincre et le forcer d'advoüer vostre ardeur,
+Cét adveu suffit-il pour obtenir mon cœur ?
+
+-*who_marius
+Quoy, j'aurois son adveu sans obtenir le vostre ?
+Me hayssez-vous tant ? est-ce moy pour un autre ?
+Vous vous troublez, Madame. Helas ! quand je vous croy
+Aussi fiere pour tous que vous l'estes pour moy,
+Quand de tout mon pouvoir je fais hommage au vostre,
+Peut-estre mon vainqueur en reconnoist un autre,
+Et mes respects en vain combattent sa rigueur,
+Quand ils ont à combattre un Rival dans son cœur.
+
+-*who_cecilie
+Quoy, si je n'aime ailleurs, faut-il que je vous aime ?
+
+-*who_marius
+Pardonnez ce desordre à mon amour extréme.
+Oüy, Madame, je croy qu'un cœur qui n'aime rien
+Tient mal contre un amour aussi grand que le mien.
+Mais c'est trop contester, je le voy bien, Madame,
+Il faut chercher ailleurs le secours de ma ⁎flâme.
+Fille d'un ennemy qui fait tous mes malheurs,
+Vous bravez comme luy mes soûpirs et mes pleurs.
+En deusse-je perir, pour avoir ce que j'ayme,
+Il faut vous arracher à vostre pere mesme,
+Et le fer à la main forcer sa dureté
+A me rendre l'espoir que vous m'avez osté.
+
+-*who_cecilie
+Où courrez-vous, Seigneur ? Helas qu'allez-vous faire ?
+
+-*who_marius
+Vaincre ou perir.
+
+-*who_cecilie
+Songez qu'il faut vaincre mon pere.
+
+-*who_marius
+Vous voulez donc ainsi, ⁎cruelle, m'arrester ;
+Vous sçavez que ce nom se fera respecter ;
+Que dans mon ennemy j'aymeray vostre pere :
+Vous sçavez que ces pleurs charmeront ma colere,
+Ces pleurs qu'à vostre sang vous donnez aujourd'huy,
+Et qui peut-estre helas, ne sont pas tous pour luy.
+Peut-estre qu'un Rival partage vos allarmes,
+Moy seul je suis privé de l'honneur de vos larmes :
+Mais quel que soit l'objet de ces tendres douleurs
+⁎Cruelle, servez-vous du pouvoir de vos pleurs.
+Oüy, Madame, pour vous je renonce à ma gloire,
+Je renonce à l'espoir d'une illustre victoire,
+Je me rends à Sylla, je me livre à ses coups,
+Et je me rends indigne et de Rome et de vous,
+Qu'on ouvre à l'ennemy les portes de Preneste.
+
+-*who_cecilie
+Ah ! je n'exige pas un respect si funeste,
+Je n'ay garde, Seigneur, d'abuser du pouvoir
+Que me donne sur vous un amour sans espoir.
+
+-*who_marius
+Que voulez-vous enfin, Madame, que je fasse,
+Je n'obtiens de vous ny supplice ny grace ?
+
+-*who_cecilie
+Je voudrois pour regler l'espoir de ce grand jour,
+Que vous voulussiez croire un peu moins vostre amour.
+
+-*who_marius
+Non, c'est le seul amour, c'est luy que je veux croire :
+Je prise peu sans vous le jour et la victoire,
+Et puisque c'est un bien qu'un Rival peut m'oster,
+Je m'en vay le chercher pour le luy disputer.
+Ces pleurs coulent encor pour punir ma colere.
+Est-ce pour les perils d'un ⁎Amant ou d'un pere ?
+Ne craignez rien pour eux ; des jours si precieus
+Et qui vous sont si chers, le sont trop à nos Dieux,
+Et si vous vous plaignez du ⁎bon-heur de mes armes,
+Vous aurez tout mon sang pour le prix de vos larmes.
+
+**** *book_ *id_body-3-3 *act_ *date_1670 *creator_boyer
+
+-*who_marcelle
+Ce malheureux ⁎Amant, que vous traitez si mal,
+N'a t-il point deviné, quand il croit qu'un Rival
+Luy dérobe aujourd'huy toute son esperance ?
+
+-*who_cecilie
+Je veux bien à vous deux en faire confidence :
+Je sçay que vostre cœur est fidele et discret,
+Et que je puis sans peur vous confier mon secret.
+Sçachez donc qu'un Rival plus heureux dans mon ame,
+Plus fort que Marius triomphe de sa ⁎flame :
+Mais parmy deux ⁎Amans qui disputoient mon cœur,
+Pourrez-vous toutes deux advoüer mon vainqueur ?
+Puisqu'enfin j'ay choisi, soit raison ou caprice,
+Songez, si je l'ay pû, sans faire une injustice.
+Un pareil entretien est fort peu de saison,
+Mais mon cœur de son choix vous veut rendre raison,
+Et se justifier, d'une rigueur extréme,
+Qui combat Marius pour servir ce que j'aime.
+Marius, fils d'un pere, en qui la cruauté
+Avec un sang trop bas soüilla la dignité,
+Ayant sçeu surpasser la gloire de son pere
+S'est fait une vertu, qui n'a rien de severe ;
+Jamais il n'a soüillé cét air auguste et doux,
+Par quelque emportement d'orgueil et de ⁎courroux :
+Rome tient de luy seul toute la politesse,
+Que le reste du monde envioit à la Grece.
+Quand il s'agit d'aimer, toute Rome aujourd'huy
+Ne sçauroit luy fournir un ⁎Amant comme luy :
+Il a pour exprimer ce qu'il sent, ce qu'il pense
+De la bouche et des yeux la plus tendre éloquence.
+Si l'on voit à la guerre au milieu des combats
+La terreur et la mort accompagner ses pas,
+Si Mars luy tient toûjours ses palmes toutes prestes,
+En amour, l'amour même a soin de ses conquestes ;
+Il conduit tous ses pas, et preste à ses desirs,
+Les charmes les plus doux, les graces, les plaisirs,
+Les jeux les plus galans, la pompe des spectacles,
+Les prodiges de l'art, le secours des miracles,
+Et parmy des objets si pompeux et si doux,
+Luy-mesme est le plus grand et le plus beau de tous.
+Mais aussi parmy nous tu sçais comme on le nomme,
+Tu sçais que Marius paroist aux yeux de Rome
+Un Heros dans la Paix comme dans les ⁎hazars,
+Dans l'un fils de Venus, dans l'autre fils de Mars.
+
+-*who_sabine
+C'est là de Marius l'image veritable ;
+Mais en trouverez-vous qui luy soit comparable ?
+Est-il quelque Romain qui luy put estre égal ?
+
+-*who_cecilie
+Avant que d'en juger connois mieux son Rival.
+Pour t'en faire un portrait juste et qui luy ressemble,
+Mets la gloire elle-mesme et la grandeur ensemble,
+Figure toy, Sabine, au destin élevé,
+Un cœur grand, en un mot, un Heros achevé.
+Regarde le marcher sur les brillantes traces
+Sur les pas triomphans, des Metelles, des Crasses,
+Des Pauls Emiliens, des fameux Scipions,
+Et rassemble en un seul l'éclat de ces grands noms.
+Ne cherche point en luy l'amoureuse tendresse,
+Que j'aime en Marius et qu'il nomme foiblesse :
+La gloire toute seule attache ses desirs,
+Et si son cœur pour moy pousse quelque souspirs,
+Il croit que Cecilie est entre les Romaines,
+Ce qu'est Sylla mon pere entre nos Capitaines,
+Et que tout grand qu'il est, sans ma possession
+Il manque quelque chose à son ambition.
+
+-*who_sabine
+A ces traits, dont je voy que vostre ame est frapée,
+Il n'est pas mal-aisé de connoistre Pompée :
+Mais dans ce grand Heros où brillent tant d'⁎appas,
+Tout manque selon moy, quand l'amour n'en est pas.
+
+-*who_cecilie
+Ah ! que tu connois mal le goust des grandes ames.
+Cette façon d'aimer produit bien d'autres ⁎flames.
+Quand un illustre ⁎Amant se fait de nostre cœur
+Un secours à sa gloire, une aide à sa grandeur,
+L'amour propre éblouy d'une si haute estime
+Se flate et s'applaudit d'un merite sublime,
+Et nous fait bien sentir qu'aux grands cœurs comme nous
+Le plaisir de la gloire est le plus grand de tous.
+
+-*who_sabine
+Ainsi cet autre ⁎Amant si charmant et si tendre...
+
+-*who_cecilie
+Ah ! Sabine, il n'est pas aisé de s'en defendre,
+Et de quelques honneurs, dont un cœur soit jaloux,
+Estre aymé tendrement est un plaisir bien doux :
+Mais contre Marius le ⁎courroux de mon pere
+Laissoit-il quelque espoir à ce choix temeraire ?
+Les plus tendres amours avec tous leurs ⁎appas
+Allument peu de ⁎flame où l'espoir ne luit pas ;
+C'est à ses doux rayons que mes ⁎feux s'allumerent ;
+C'est pour le plus heureux que mes vœux se formerent,
+Et mon cœur à Pompée estoit mal asseuré,
+Si pour son cher Rival mon cœur eut esperé.
+
+-*who_sabine
+Mais Sylla voudra-t'il que choisissant vous-mesme...
+
+-*who_cecilie
+Non, non, c'est par son choix que Sylla veut que j'aime.
+L'espoir de mon hymen flate ses courtisans,
+Et luy fait tous les jours de nouveaux partisans.
+Esclave malgré moy de cette politique
+Mon cœur aime en secret, sans que mon ⁎feu s'explique,
+Et se cache à Pompée avec tant de rigueur,
+Qu'il m'en pourra couster la perte de son cœur.
+Mais pourquoy s'amuser à d'inutiles plaintes,
+Pour cacher à mon cœur ses veritables craintes ?
+Peut-estre Marius attaque en ce moment,
+Peut-estre il fait perir mon pere ou mon ⁎Amant :
+Peut-estre que luy-mesme expire sous leurs armes.
+L'un et l'autre demande et mon cœur et mes larmes,
+L'un brigue ma pitié quand l'autre a mon amour,
+L'un m'a fait souvenir qu'il m'a sauvé le jour ;
+Mais si je dois la vie à son amour extréme,
+Qu'est-ce enfin que la vie en perdant ce qu'on aime ?
+Pardonnez-moy, grands Dieux, le trouble de mon cœur,
+Mon pere devroit seul occuper ma douleur.
+Va du haut de la tour, va voir ce qui se passe,
+Va voir, Marcelle, à qui le sort veut faire grace,
+Tandis que dans mon cœur mon pere et deux ⁎Amans
+Semblent se disputer mes tendres sentimens.
+
+**** *book_ *id_body-4-1 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+maxime, je sçay tout ; cent messagers fideles
+N'ont que trop annoncé ces funestes nouvelles.
+Marius a vaincu ; mais apres ce ⁎bon-heur
+Il devoit pour le moins respecter ma douleur.
+Tu viens donc de sa part me vanter sa victoire,
+Tu viens me reprocher nostre honte et sa gloire ;
+Retracer à mes yeux le spectacle inhumain
+Du Romain tout sanglant du meurtre du Romain.
+
+-*who_maxime
+Non, Madame, et je viens seulement pour vous dire,
+Que parmy tant de morts vostre pere respire,
+Qu'estant à mesme temps et défait et vainqueur...
+
+-*who_cecilie
+Est-ce ainsi que tu viens consoler ma douleur ?
+Dy moy, dy moy plustost par quel honteux caprice,
+Le sort traite mon pere avec tant d'injustice,
+Un Camp victorieux formé de Legions,
+Qui furent la terreur de tant de Nations,
+Cede à de vils Soldats ramassez dans Preneste ?
+
+-*who_maxime
+N'imputez point au sort un succez si funeste.
+Si nostre jeune Maistre a du moins une fois
+Vaincu le grand Sylla, vainqueur de tant de Rois,
+Si son bras a forcé d'invincibles obstacles
+L'amour au desespoir a fait tous ces miracles.
+Admirez cét amour. Plein d'un soupçon jalous,
+Qui se fait un Rival qu'il croit aimé de vous,
+Il demande par tout l'⁎Amant de Cecilie,
+Le cherche dans le Camp, le brave, le défie,
+Et n'en voyant aucun qui s'ose presenter,
+Il se voit seur de vaincre et de vous meriter.
+Mais apprenez aussi malgré tant de colere,
+Ce que ce mesme amour a fait pour vostre pere.
+Sylla voyant les siens ⁎étonnez ou vaincus
+Ou combattre en desordre ou ne resister plus,
+Court avec tant d'ardeur, pour porter sa presence
+Aux lieux où le besoin appelle sa vaillance,
+Que son cheval s'abbat, et pour dernier malheur
+Luy-mesme à mesme temps tombe aux pieds du vainqueur.
+Je voy d'abord cent bras se lever sur sa teste :
+Mais d'un ton menaçant Marius les arreste,
+Et relevant Sylla, rends grace à mon amour,
+Luy dit-il, c'est luy seul qui t'a sauvé le jour.
+Le fier Sylla honteux de luy devoir la vie
+Des mains de Marius s'arrache avec ⁎furie.
+Marius, qui le veut vaincre sans le fraper,
+Par crainte ou par respect tâche à l'enveloper,
+Quand un gros d'ennemis le joint et le dégage.
+Il remonte à cheval, reprend quelque avantage,
+Et si le nombre enfin n'eut lassé sa valeur,
+Sa valeur indignée eut vangé son malheur :
+Mais voyant par les siens son attente trompée...
+
+-*who_cecilie
+Eh ! que faisoit alors l'infidele Pompée ?
+Au secours de Sylla devoit-il pas courir,
+Et l'ingrat n'a-t-il sçeu ny vaincre ny mourir ?
+
+-*who_maxime
+Ah ! Madame, épargnez l'honneur de ce grand homme,
+Jugez mieux aujourd'huy du defenseur de Rome :
+C'est contre l'étranger qu'il vous sert maintenant
+Dans ses murs où Sylla l'a fait son Lieutenant.
+
+-*who_cecilie
+Quoy Pompée est dans Rome ! Ah la joye est extréme,
+Sabine, de pouvoir excuser ce qu'on aime.
+
+-*who_maxime
+Apprenez tout. Sylla qui doute dans son cœur
+Que Sylla puisse vivre et n'estre pas vainqueur,
+Ramasse ses amis dans ce débris funeste,
+Et se montre si fier de l'espoir qui luy reste,
+Que Marius qui craint de perdre ses lauriers,
+Rappelle du combat ses plus ardens guerriers,
+Et par cette prudente et modeste retraite
+D'un ennemy qu'il aime, honore la défaite.
+Mais il vient.
+
+**** *book_ *id_body-4-2 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+Pardonnez si je montre à vos yeux
+Pour un foible succez un front victorieux.
+Quand je doy soupirer du ⁎bon-heur de mes armes,
+D'avoir à ces beaux yeux fait répandre des larmes,
+Quand je devrois trembler de crainte à leur aspect,
+Vous voyez quelle joye échape à mon respect.
+
+-*who_cecilie
+Cette joye est l'effet d'une grande victoire,
+Et sied bien sur un front où brille tant de gloire.
+
+-*who_marius
+Non, Madame, ma joye est le fruit de la paix,
+Qui va finir la guerre et remplir nos souhaits.
+Sylla qui vient de prendre et donner des ostages
+Pressé par d'autres soins, cede à nos avantages.
+Bien plus ses Deputez ont des ordres secrets
+De sacrifier tout aux communs interests,
+De ne rien ménager pour voir la paix concluë,
+Les Romains reünis, et Rome secouruë.
+Mais ce n'est pas assez, ce que j'attens de vous
+Me livre tout entier à des transports si dous.
+Pardonnez cette erreur à l'orgueil de ma ⁎flâme :
+Je sens un doux espoir s'élever en mon ame,
+Quand cherchant dans le Camp l'objet de ma fureur
+Ce Rival trop heureux, qui m'oste vostre cœur,
+Nul ne s'est presenté digne de tant de gloire,
+Nul n'a presque un moment balancé la victoire,
+Et qu'ainsi mon amour se promet d'emporter
+Un cœur que mon Rival ne sçauroit meriter.
+C'est dequoy s'applaudit un ⁎Amant miserable,
+Qui pour se faire un sort un peu plus favorable,
+Tâche de s'épargner les tourmens d'un jalous,
+Et croit n'avoir plus rien à combatre que vous.
+Voila toute ma joye.
+
+-*who_cecilie
+Ainsi vous osez croire,
+Que j'ay pû faire un choix, qui fait tort à ma gloire :
+Vous pouviez m'épargner un si cruel affront,
+Et voyant un succés trop facile et trop prompt,
+Vous deviez presumer qu'en ce malheur extréme
+Il n'est dans tout le Camp aucun Romain que j'aime,
+Et que si quelque ⁎Amant pour moy s'estoit armé
+Peut-estre il eut vaincu, si je l'avois aimé.
+Ne croirez-vous jamais, Seigneur, que vostre ⁎flâme ?
+Sera-t-elle toûjours Maistresse de vostre ame ?
+Par ses mauvais conseils nous verrons nous toûjours
+Sans espoir de la paix, et Rome sans secours ?
+Peut-on entre deux cœurs tout bruslans de vengeance
+Entre vous et Sylla fonder quelque alliance,
+De l'amour, de la paix le plus sacré lien,
+Peut-il jamais unir vostre sang et le mien ?
+
+-*who_marius
+Ah ! ne m'opposez plus la haine de nos peres :
+Vos secretes raisons me sont bien plus contraires,
+Et je ne puis enfin perdre un si doux espoir,
+Si vous ne vous servez de tout vostre pouvoir.
+La paix comme mon cœur est en vostre puissance
+Vous pouvez l'obtenir de mon obeïssance ;
+Mais si vous m'en laissez disposer en ce jour,
+Je ne la donneray jamais qu'à mon amour.
+Ce n'est pas, puisqu'il faut enfin que je m'explique,
+Et mesle à mon amour un peu de politique,
+Que pour ce grand hymen je manque de raisons.
+Une haine immortelle entre nos deux ⁎maisons
+La ⁎fierté de Sylla qui peut tout entreprendre,
+Me defendent la paix, si je ne suis son gendre.
+Mais ces precautions sont bien peu de saison,
+Quand je veux que l'amour soit toute ma raison.
+
+-*who_cecilie
+Ces ombrages, Seigneur, contre une paix sincere
+Se doivent dissiper sur la foy de mon pere.
+Si ce n'est pas assez, venez-vous pas Seigneur,
+De luy sauver la vie en ⁎genereux vainqueur ?
+
+-*who_marius
+Avec ces seuretez n'ay-je plus rien à craindre ?
+La fureur de Sylla se doit-elle contraindre ?
+A moins d'un sacré nœud plus fort que son ⁎courrous,
+Dois-je m'en asseurer, et m'en reprendrez vous ?
+Dois-je vous immoler tous les soins de ma vie ?
+Aymez-vous mon Rival avec tant de ⁎furie ?
+Pardonnez si ce mot échape à ma douleur,
+Vostre pere me traite avec moins de rigueur :
+Pour le prix de la paix vous ayant demandée,
+Le superbe Sylla vous a presque accordée,
+A presque en ma faveur oublié sa fierté,
+Et vous avez repris l'orgueil qu'il a quité,
+Oüy vous qui contre moy me vantiez sa puissance
+Vous m'ostez malgré luy cette foible esperance,
+Au moins laissez parler ceux qui traitent l'accord :
+Attendant un moment, qui va regler mon sort,
+Permettez que j'espere, ou du moins que je doute.
+Helas ! ce n'est pas trop de vouloir qu'il en couste
+A ce cœur qui me hait la peine seulement,
+De cacher à mes yeux vostre haine un moment.
+
+-*who_cecilie
+Ah ! je ne vous hay point : mais quand je voy mon pere
+Vous flater foiblement d'un bien imaginaire,
+Je trouve plus cruel cet espoir d'un faux bien,
+Que le tourment d'un cœur, qui n'espere plus rien.
+Sylla verroit plustost Rome sans assistance...
+Mais quelqu'un vient icy, c'est Pison qui s'avance.
+
+**** *book_ *id_body-4-3 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+He bien Pison. Sylla nous donne-t'il la paix ?
+
+-*who_pison
+Sylla rend aujourd'huy tous vos vœux satisfaits :
+Nul accord n'a jamais avec si peu de peine
+Ny dans si peu de temps étouffé tant de haine,
+Et pour vous en donner le gage le plus doux,
+En faveur de la paix Cecilie est à vous.
+
+-*who_marius
+Cecilie est à moy, faut-il que je le croye ?
+Mon amour pourras-tu supporter tant de joye ?
+Dieux, donnez-m'en la force. Est-ce trop se flater
+De croire cette paix, et d'oser l'accepter ?
+
+-*who_pison
+Si vous y consentez, Sylla viendra luy-mesme...
+
+-*who_marius
+Ah je consens à tout pour avoir ce que j'aime.
+Retournez à Sylla, dites-luy qu'aujourd'huy
+Il me fait partager sa ⁎fortune avec luy,
+Que comme sa grandeur ma gloire est sans seconde,
+Et qu'il jouysse en paix de l'Empire du monde.
+
+-*who_cecilie
+Quoy jusques-là mon pere abbaisse sa fierté,
+Sabine ?
+
+-*who_marius
+N'est-ce point une temerité
+Madame d'accepter des mains de vostre pere
+Un present que vous seule avez droit de me faire ?
+Ne voy je pas déja cét air triste et confus
+Cette sombre fierté m'expliquer vos refus ?
+Pardonnez si ce cœur vient de faire parestre
+Des transports, dont un cœur n'est pas toûjours le maistre.
+Reçoit-on autrement l'offre d'un si grand bien ?
+Un rayon d'esperance à qui n'espere rien
+Peut produire une joye aveugle et temeraire :
+J'en suis assez puny quand vous m'estes contraire,
+Et rien n'est si cruel, quand on voit tant d'⁎appas,
+Qu'un espoir qui nous charme, et qui ne vous plaist pas.
+
+-*who_cecilie
+Je ne le puis nier, vous voyez ma surprise.
+Quoy qu'aux ordres d'un pere entierement soûmise,
+Je dois vous advoüer, que j'ay quelque douleur
+Que tout autre que moy dispose de mon cœur :
+Quand je vous renvoyois au pouvoir de mon pere
+Pour ne pas me montrer à vos vœux trop contraire,
+J'ay crû que son pouvoir consultant son ⁎courrous
+Sans le secours du mien me sauveroit de vous.
+Mais enfin je voy bien que sa vertu l'emporte,
+Que sa haine se rend, que Rome est la plus forte.
+Puisque donc je ne puis m'empescher d'obeyr,
+Vostre amour voudra-t'il luy-mesme se trahir ?
+Voudra-t'il me devoir à mon obeyssance ?
+Car enfin il est temps de rompre le silence.
+Oüy, Seigneur, j'ayme ailleurs, et c'estoit justement
+Que vous me soupçonniez d'aimer un autre ⁎Amant.
+C'est ce secret amour qui combatoit le vostre,
+Et puisqu'enfin le Ciel fit ce cœur pour un autre,
+Vous pourrez vous resoudre à vouloir malgré luy...
+
+-*who_marius
+⁎Cruelle en me montrant ce cœur aux mains d'autruy
+Par ce fatal adveu vous voulez vous dédire,
+Couvrir vostre revolte, et m'y faire souscrire ;
+C'est contre nos traitez vostre dernier secours.
+
+-*who_cecilie
+Non m'en deust-il couster le repos de mes jours.
+Je suis à vous, Seigneur par un ordre suprême ;
+Je doy tout à mon pere, à l'Estat, à vous-mesme,
+Et si mon feu secret échape à ma pudeur,
+Je devois ce secours aux troubles de mon cœur.
+Mais puisque vostre amour veut ce grand sacrifice,
+Sans rien examiner il faut que j'obeysse.
+Ce devoir est cruel, violent, inhumain ;
+Mais on entreprend tout avec un cœur Romain.
+
+-*who_marius
+Hé pourquoy serez-vous victime volontaire
+D'un vainqueur tout à vous et des ordres d'un pere ?
+Pourquoy vous imposer ce devoir inhumain ?
+Que ne resistez-vous avec ce cœur Romain ?
+Que ne vous faites-vous, sans peur de leur déplaire,
+Un cœur indépendant, et de Rome et d'un pere ?
+Que n'armez-vous l'amour avec tout son pouvoir,
+Cét amour plus puissant que tout autre devoir ?
+Peut-estre en vous voyant à ce Rival qu'on aime
+Immoler fierement la paix et Rome mesme,
+Peut-estre alors, Madame, à ce cœur revolté
+Je pourrois opposer une égale fierté.
+Mais las ! vous sçavez bien que vostre obeyssance
+Forceroit doucement toute ma resistance,
+Helas ! vous sçavez bien que qui sçait bien aimer
+A de pareils efforts se laisse desarmer ;
+Qu'estant le seul objet que mon amour contemple,
+Je me dois faire honneur de suivre vostre exemple,
+Et qu'enfin pour vous plaire, et se vaincre à son tour,
+L'amour mesme sçauroit triompher de l'amour.
+
+-*who_cecilie
+Ah ! Seigneur, jugez mieux de cette déferance
+Que je dois toute entiere à mon obeyssance.
+Quoy que souffre ce cœur qu'on force à se trahir,
+Je n'ay d'autre dessein que celuy d'obeïr.
+Vous sçavez ce que c'est que le pouvoir d'un pere ;
+Et puisque ce devoir vous semble trop severe,
+Rendez-le, s'il se peut plus facile et plus doux ;
+Gardez tout vostre amour quand je me donne à vous,
+Et bien loin de combatre une ⁎flâme si belle,
+Conservez-moy ce cœur toûjours tendre et fidelle :
+Que je me puisse dire, en voyant tant d'ardeur
+Marius m'aime trop pour n'avoir pas mon cœur,
+Et si d'un autre ⁎Amant mon ame fut charmée,
+Je l'aime trop peut-estre, et j'en suis moins aimée.
+C'est ainsi que je puis me consoler un peu
+Du malheur de ma ⁎flàme auprés d'un si beau ⁎feu,
+Et répondre à mon cœur en acceptant le vostre,
+Qu'il seroit trop heureux, s'il n'en aimoit un autre.
+
+-*who_marius
+Voyant tout mon amour, vous pouvez presumer
+Que ce n'est pas mon cœur qui se defend d'aimer.
+Quand il combat pour vous une tendresse extréme,
+C'est alors seulement qu'il est vray qu'il vous aime :
+Car enfin est-ce aimer de vouloir ces ⁎appas
+Et d'accepter un cœur qui ne se donne pas ?
+Que mon sort est étrange, et que je suis à plaindre !
+A l'offre qu'on me fait je voulois vous contraindre,
+Mon amour ne pouvant vous obtenir de vous,
+J'ay suivy les transports d'un desespoir jalous,
+J'ay cherché mon Rival, j'ay defendu Preneste,
+J'ay mis Rome en peril, et vous sçavez le reste ;
+J'ay vaincu Sylla mesme, et fléchy son ⁎courroux,
+J'ay fait tout ces efforts pour vous et contre vous.
+Cependant, quand Sylla m'offre tout ce que j'aime,
+Quand je voy son present advoüé de luy mesme
+Tout tremblant de respect, mon cœur n'ose abuser
+D'un genereux adveu qui pourroit m'excuser.
+L'ordre de vostre pere et toute sa puissance
+Doivent-ils m'arracher à mon obeïssance ?
+S'il est vostre tyran, dois-je l'estre à mon tour ?
+Et s'il est sans pitié, dois-je estre sans amour ?
+Voy Sylla de ma part Maxime, et va luy dire
+Que je souscris sans peine à la paix qu'il desire ;
+Que de l'honneur qu'il m'offre estant trop satisfait,
+Je doy pour m'aquiter luy rendre son bien-fait ;
+Que puisqu'en ma faveur il s'est vaincu luy-mesme
+Je dois en sa faveur vaincre un amour extréme.
+Dy luy que quand je vois l'effort qu'il fait pour moy
+Pour toute seureté je ne veux que sa foy ;
+Que je livre en ses mains moy, mes troupes, Preneste,
+Rang, dignité, puissance, et tout ce qui me reste,
+Et que pour servir Rome, et vanger son malheur
+Mon cœur brusle d'aller seconder sa valeur.
+
+-*who_cecilie
+Non, non Maxime arreste, et connois mieux mon pere :
+Garde-toy contre moy d'allumer sa colere,
+Il pourroit soupçonner que son ordre est trahy,
+Et que mon cœur rebelle auroit mal obey ;
+Il croiroit qu'abusant de ce pouvoir suprême
+Qu'un ⁎genereux ⁎Amant me donne sur luy-mesme,
+Je m'oppose à son ordre, et suis un autre choix.
+Va, dy-luy que je veux me soûmettre à ses loix ;
+Sur tout ce qu'il a dit, garde un profond silence.
+Mais répons à Sylla de mon obeyssance,
+Et dis-luy que mon cœur asseuré de sa foy
+Luy répond de ton Maistre aussi bien que de moy.
+
+-*who_marius
+Quoy vous obeyrez
+
+-*who_cecilie
+Oüy , Seigneur.
+
+-*who_marius
+Ah  ! Madame.
+Sçavez-vous quels tourmens se prepare vostre ame ?
+Madame sçavez-vous qu'on a veu plus d'un cœur
+Pour de pareils efforts expirer de douleur ?
+Ah ! si vous ignorez les maux qu'il vous faut craindre,
+Ou si vous le sçavez sans vouloir vous en plaindre,
+Si par pitié pour moy, vous devorez vos pleurs,
+En sentiray-je moins vos secretes douleurs ?
+Toûjours auprés de vous, vous verray-je sans cesse
+Par mille horreurs pour moy vanger vostre tendresse
+Tourner ailleurs vos vœux quand j'auray vostre foy,
+Et pousser des soupirs qui ne sont pas pour moy ?
+Quand un cruel devoir me livre tous vos charmes
+Mon Rival en secret aura toutes vos larmes,
+Aura ce que le cœur peut donner de plus doux,
+Et tout ce qui dépend de l'amour et de vous.
+
+-*who_cecilie
+Seigneur ne craignez rien d'une juste tendresse
+Dont la raison toujours doit estre la maistresse.
+D'un ⁎feu qui vous déplaist ne vous laissant rien voir,
+Vous prendrez pour amour les soins de mon devoir,
+Ce devoir plein de zele à l'amour si semblable
+Se changera bien-tost en amour veritable :
+Au moins je le souhaite, et l'on doit presumer
+Que c'est aimer déja que de vouloir aimer
+Ha ! Si l'amour mutuel entre les belles ames,
+Du flambeau de l'hymen doit allumer les flâmes,
+Pour le commun bonheur j'espere qu'à son tour
+L'hymen allumera les ⁎flâmes de l'amour.
+
+-*who_marius
+Vous l'esperez, Madame, et l'oseray-je croire ?
+Ha ! si vous l'esperés, c'est assés pour ma gloire.
+C'est assez si je puis plein d'un espoir si doux
+Me rendre quelque jour un peu digne de vous.
+Pour acquerir enfin une gloire si grande,
+Ne songeons qu'au secours que Rome nous demande.
+Reyne de l'univers, Rome excuse un ⁎Amant
+Qui t'a deu preferer un objet si charmant,
+Sylla vient d'accorder mon zele et ma tendresse,
+Ma ⁎flâme et mon devoir, Rome avec ma ⁎Maistresse :
+Mais sans plus differer allons le recevoir ;
+Et de sa propre bouche apprendre mon espoir.
+
+**** *book_ *id_body-5-1 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+des mains du grand Sylla recevoir Cecilie ?
+
+-*who_sylla
+Je devrois plus encore, à qui je doy la vie,
+Mais n'ayant rien, qui soit plus cher à vostre amour...
+
+-*who_marius
+Ah ! j'atteste les Dieux témoins de ce grand jour,
+Qu'aprés cette faveur, qui me comble de gloire,
+Tous nos malheurs passez sortent de ma memoire,
+Et que des nœus si beaux vont former une paix,
+Que la haine du sang ne troublera jamais.
+
+-*who_sylla
+Ah ! de ces mesmes Dieux j'atteste la puissance,
+Que rien de cét hymen ne rompra l'alliance ;
+Que malgré nos malheurs, la paix et nos sermens
+Etouffent pour jamais tous nos ressentimens.
+Permettez seulement, que cette grande Feste
+Cede aux glorieux soins du combat qui s'apreste :     
+Il faut secourir Rome ; il faut qu'un prompt retour
+Y puisse avec éclat couronner vostre amour,
+Et qu'un hymen pompeux remplisse vostre attente
+Aux yeux de toute Rome et libre et triomphante.
+
+-*who_marius
+Rome est-elle Seigneur en un si grand danger,
+Qu'il faille...
+
+-*who_sylla
+Ce secours ne se peut negliger.
+Entre Preneste et Rome il est si peu d'espace,
+Qu'on peut à tout moment sçavoir ce qui s'y passe.
+J'ay donc sçeu que Pompée instruit de nostre accord,
+Veut contre l'ennemy faire un dernier effort.
+Menons à son secours mon armée et la vostre,
+Et sous vostre pouvoir unissons l'une et l'autre.
+
+-*who_marius
+C'est à vous qu'appartient tout le commandement.
+
+-*who_sylla
+Vous rendez cét honneur à l'âge seulement.
+
+-*who_marius
+Oüy, lorsque, comme vous on conte ses années
+Par de fameux combats, et d'illustres journées.
+
+-*who_sylla
+Nous pourrons partager nos soins et nos emplois.
+
+-*who_marius
+La victoire par tout a suivy vos exploits,
+Et ce dernier succés que la ⁎fortune lasse,
+Vous oste par caprice, et me donne par grace,
+Vous laisse tout entier le grand nom de vainqueur,
+Avec tout son pouvoir, et toute sa splendeur.
+Je vay donc commencer par mon obeyssance,
+A reconnoistre en vous la supréme puissance
+Y soûmettre la mienne, et sans plus differer,
+Sous vos ordres, Seigneur, je vay tout preparer.
+
+**** *book_ *id_body-5-2 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Comprens-tu bien l'effort que je viens de me faire,
+⁎Fortune, en contraignant ma haine et ma colere :
+Je ne puis oublier ce que tu fis pour moy,
+Mais tu m'ostes enfin plus que je ne le doy,
+Et si de tes faveurs je tiens quelque avantage,
+Tu pers tous tes bien-faits par ce dernier outrage.
+Ah  ! ma fille, à travers toute ta fermeté,
+Je connois de quels soins ton cœur est agité :
+Quand je te donne au fils d'un mortel adversaire,
+Tu fremis dans ton cœur des ordres de ton pere.
+
+-*who_cecilie
+Le jeune Marius ne tient rien de son sang
+Que la splendeur du nom et la gloire du rang.
+
+-*who_sylla
+Que ne te dis-je point pour cette déference ?
+Mais pour voir tout le prix de ton obeyssance,
+Sçache que Marius t'obtiendra malgré moy,
+Quand Pompée, à qui seul j'avois voüé ta foy...
+
+-*who_cecilie
+C'est donc Pompée à qui vous m'aviez destinée.
+
+-*who_sylla
+Oüy, je te le destinois à ce grand hymenée.
+Tu soûpires, ma fille.
+
+-*who_cecilie
+Oüy, je soûpire, helas !
+Puis-je l'aimer, le perdre, et n'en soûpirer pas ?
+Pardonnez cét adveu, ma faute est excusable,
+Si j'aimay sans vostre ordre un Heros trop aimable :
+Je le puis advoüer ; quand pour mon châtiment
+L'injustice du sort m'oste un si digne ⁎Amant.
+
+-*who_sylla
+Ah ! qu'il nous couste cher d'affermir ta puissance.
+Rome ! il faut t'immoler sa ⁎flâme et ma vengeance,
+Et nous devons tous deux, de peur de te trahir,
+Perdre la liberté d'aimer et de haïr.
+Tâche par mon exemple à te vaincre toy-mesme :
+C'est un puissant effort de perdre ce qu'on aime,
+Mais au rang où je suis dompter tout son ⁎courrous,
+Triompher de sa haine est le plus grand de tous.
+
+-*who_cecilie
+Ce qu'a fait Marius en vous cedant Preneste,
+Aprés une victoire à Rome si funeste,
+Vaut bien qu'en sa faveur nous fassions quelque effort :
+Encore ay-je un peu moins à me plaindre du sort :
+Si c'est un mal de voir ma tendresse trompée,
+S'il m'eut esté plus doux de vivre avec Pompée,
+Du moins en Marius je rencontre un épous,
+Digne de Cecilie, et de Rome et de vous.
+
+**** *book_ *id_body-5-3 *act_ *date_1670 *creator_boyer
+
+-*who_octave
+Seigneur. Pompée arrive, et le bruit de sa gloire
+Déja de toutes parts annonce sa victoire ;
+Cent Messagers ⁎hastez de nous faire sçavoir...
+
+-*who_sylla
+O succés surprenant ? qu'on l'aille recevoir,
+Que l'on n'épargne rien pour rendre à ce grand home,
+Quelque essay des honneurs qu'il recevra dans Rome.
+Ma fille, quel bon-heur ! mais quel ennuy secret
+M'a fait voir que ton cœur ne l'apprend qu'à regret ?
+
+-*who_cecilie
+Quand je perdois Pompée avant cette victoire,
+Marius consoloit mon amour et ma gloire ;
+Mais, Seigneur, je ne puis sans un peu de douleur
+Apprendre la victoire, et perdre le vainqueur.
+
+-*who_sylla
+Va, tu ne perdras rien ; nous n'avons rien à craindre,
+Ma fille, nous pouvons cesser de nous contraindre.
+Ce glorieux succés va dégager ma foy,
+Et me rend la douceur de disposer de toy.
+
+-*who_cecilie
+Quoy, trahir Marius, cét ⁎Amant si fidelle ?
+
+-*who_sylla
+C'en est fait, Rome est libre, et je le suis comme elle.
+Toutefois pour pouvoir agir plus seurement,
+Dispose Marius à ce grand changement :
+Sans luy parler de moy ny de mon inconstance,
+Dy-luy ce que ton cœur se fait de violence,
+Qu'ayant un autre ⁎Amant, il est trop ⁎genereux,
+Pour vouloir malgré toy rompre de si beaux nœux,
+Et luy faisant valoir une ⁎flâme si belle,
+Epargne-moy l'affront de paroistre infidelle.
+
+-*who_cecilie
+Mais s'il faut de Pompée essuyer un refus ;
+Car, enfin, s'il m'aimoit, il peut ne m'aimer plus.
+Quand par respect pour vous je luy cachois ma ⁎flâme,
+L'orgueil que j'affectois a passé dans son ame
+Et peut-estre, Seigneur, qu'en le traitant si mal...
+
+-*who_sylla
+Pour ne rien hazarder, ménageons son Rival.
+Je veux sonder Pompée avant que je m'explique.
+Toy prés de Marius cache ma politique ;
+S'il faut rompre avec luy ; sauve par ces moyens
+L'honneur de ma parole et du rang que je tiens.
+Comme enfin Marius doit ceder à Pompée,
+Fais qu'on t'impute tout, si sa ⁎flâme est trompée.
+
+-*who_cecilie
+Vous voulez donc, Seigneur, qu'en luy manquant de foy,
+La honte du forfait tombe toute sur moy.
+
+-*who_sylla
+Donne m'en le pretexte injuste ou legitime ;
+C'est tout ce que je veux, je me charge du crime.
+
+-*who_cecilie
+Il faudra donc toûjours au gré de vos desirs,
+Pousser, ou retenir, ou changer mes soûpirs.
+A qui faut-il, enfin que mon cœur s'abandonne ?
+Attendra-t'il toûjours que vostre ordre le donne ?
+
+-*who_sylla
+Admire le destin et le prix de ton cœur ;
+Il est né pour servir ma gloire et ma grandeur.
+Remplis ce beau destin, n'aime, ne hay, n'espere,
+Qu'autant qu'à ma grandeur il sera necessaire.
+
+-*who_cecilie
+Quoy, Seigneur...
+
+-*who_sylla
+Laisse-nous ; fais ce que je t'ay dit.
+Des soins plus importans occupent mon esprit.
+
+**** *book_ *id_body-5-4 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Fidelle compagnon des travaux d'une guerre,
+Qui m'a presque asseuré l'empire de la terre,
+Cher Pison, dont le zele avec tant de chaleur
+A dans tous mes succés secondé mon ⁎bon-heur,
+C'est à tes yeux, enfin qu'il faut que je déploye
+Tout l'espoir de ma haine et ma secrete joye.
+Mes fureurs n'ont osé contre mon ennemy
+Aux yeux de Cecilie éclater qu'à demy.
+Sa vertu me fait peine, et ce n'est qu'à sa veuë
+Que mon cœur veut forcer toute sa retenuë.
+La ⁎fortune, Pison, par ses derniers bien-faits,
+Va briser tous les fers d'une honteuse paix,
+Qui forçant mon orgueil dans le fonds de mon ame,
+Alloit à ma maison joindre une race infame ;
+Je puis l'en separer, et d'un indigne sang
+Racheter par sa mort la gloire de mon rang.
+
+-*who_pison
+Vous perdre, Marius, qui se croit vostre gendre ?
+Vous qui luy témoignez l'amitié la plus tendre ?
+Vous, qui dans le combat sauvé par son secours...
+
+-*who_sylla
+C'est ce bien-fait, qui fait l'opprobre de mes jours :
+Mon cœur n'en sent que trop la honte insupportable,
+Et gemit sous le poids d'un bien-fait qui l'accable.
+C'est là le desespoir de mon orgueil confus,
+De devoir quelque chose au fils de Marius
+Au sang d'un si barbare et d'un si meschant home ;
+J'en hay ma grandeur mesme, et j'en veux mal à Rome,
+D'avoir forcé ma haine à des remercimens,
+Et changé mes fureurs en des embrassemens.
+J'advoüeray qu'autrefois mon ame ambitieuse
+Par une complaisance et superbe et flateuse,
+Commença ma ⁎fortune, et la sçeut achever ;
+Je m'abaissois alors afin de m'élever ;
+J'oubliay sans rougir le sang qui m'a fait naistre ;
+Voulant le devenir, je me fis plus d'un maistre ;
+Je surpris la faveur des petits et des grans,
+Et marchant en secret sur les pas des Tyrans,
+Par une ambitieuse et sage déferance
+Je montay par degrez à la toute-puissance.
+Mais quand je voy qu'il faut du haut de ma grandeur
+Décendre à Marius et flater son ⁎bon-heur,
+Je sens cette grandeur, heureuse indépendante,
+En devenir jalouse, ingrate et violente,
+Et prés d'un ennemy, je rougis, quand je voy,
+Que son bien-fait le met un peu plus haut que moy.
+
+-*who_pison
+Quoy, Seigneur, sa vertu, son bien-fait vous offense.
+Mais sans parler d'honneur ny de reconnoissance,
+Vos sermens peuvent-ils se rompre impunément ?
+
+-*who_sylla
+Les sermens arrachez nous lient foiblement.
+Quand je jurois aux Dieux une indigne alliance,
+En secret à ces Dieux je jurois ma vengeance,
+Et tous ces faux sermens que j'ay fait à tes yeux,
+Estoient pour les mortels, et non pas pour les Dieux.
+La fortune et l'amour, quand ils font des parjures,
+Ne font à Jupiter que de foibles injures,
+Et ce Dieu que l'on fait le vangeur du serment
+Absout l'ambitieux aussi bien que l'⁎Amant.
+Si ces sortes de crimes occupent son tonnerre,
+Tout son temps se perdroit à foudroyer la terre,
+Et consumant ses traits sur l'infidelité
+Tous les autres forfaits seroient en seureté.
+Ce n'est pas qu'il ne faille en déguiser le crime ;
+En repousser la honte, et sauver son estime.
+Ma fille offre un pretexte à ce manque de foy,
+Et m'épargne l'horreur qui tomberoit sur moy.
+
+-*who_pison
+Si le respect des Dieux n'est pour vous que foiblesse,
+Le ⁎genereux Pompée aura-t'il la bassesse
+De s'entendre avec vous pour trahir Marius ?
+
+-*who_sylla
+Pompée aime la gloire, et voyant ses vertus,
+J'ay besoin d'un peu d'art pour surprendre son ame,
+Sa jeunesse ayant moins de clarté que de ⁎flâme,
+Se peut laisser gagner par un éclat trompeur,
+Embrasser un fantôme en courant à l'honneur,
+Se laisser ébloüir d'une haute esperance,
+Et confondre la gloire avec sa ressemblance.
+
+-*who_pison
+Pompée a de l'esprit, autant qu'il a du cœur.
+
+-*who_sylla
+Pompée aime ma fille, ou du moins sa grandeur.
+La mienne indépendante, et peut estre importune,
+Tient captifs malgré luy son cœur et sa ⁎fortune.
+Car enfin, quel qu'il soit, ambitieux, ⁎Amant,
+L'espoir de ma faveur l'attache également.
+Pour le faire en aveugle entrer dans ma famille,
+Et courir sans scrupule à l'hymen de ma fille,
+Je veux, (et ce dessein possede tout mon cœur)
+Rétablir hautement le rang de Dictateur :
+J'en veux faire revivre et le nom et la gloire,
+Quelque horreur, que dans Rome ait laissé sa memoire.
+Je renonce à jamais au Consulat Romain,
+Qui divise ou confond le pouvoir souverain.
+Deux chefs associez tous deux cessent de l'estre,
+Et l'un et l'autre enfin n'est ny Sujet ny Maistre.
+Il vient.
+
+**** *book_ *id_body-5-5 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Peut on jamais, Seigneur, d'assez de gloire,
+D'un triomphe assez beau payer vostre victoire ?
+Digne Heros issu du plus beau sang Romain ?
+
+-*who_pompee
+Rome et vostre ⁎fortune ont vaincu par ma main.
+
+-*who_sylla
+Mais un si grand succés ne sçauroit se comprendre.
+
+-*who_pompee
+Le bruit de vostre paix m'a fait tout entreprendre :
+Voyant Rome en peril vous forcer d'accorder
+Le prix que Marius osoit vous demander,
+Pour prevenir ce coup, toute nostre jeunesse
+Malgré l'effroy de Rome, et malgré sa foiblesse,
+Fond sur les ennemis avec tant de vigueur,
+Que presque sans combat j'en deviens le vainqueur.
+Chacun pour Cecilie à l'envy plein de zele,
+Semble combatre moins pour Rome que pour elle ;
+Je ne vous diray point les noms de ces guerriers,
+Qui disputoient entr'eux les plus dignes lauriers :
+Je dois bien moins songer à vous vanter leur gloire,
+Qu'à demander pour eux le prix de leur victoire.
+Rome est libre, il suffit, et libre par nos mains :
+Mais quel sera le prix de nos braves Romains ?
+Ils ont vaincu, Seigneur, mais vostre paix est faite ;
+Marius seul obtient ce que chacun souhaite ;
+Un ennemy triomphe et de Rome et de nous,
+Quand nous venons de vaincre et pour Rome et pour vous.
+
+-*who_sylla
+Seigneur, cette obligeante et noble jalousie
+Que nos illustres Chefs font voir pour Cecilie,
+Ce zele genereux, qui nous fait tant d'honneur,
+M'a fait ouyr leur plainte avec quelque douceur.
+Vous pouviez toutefois m'excuser sans vous plaindre,
+Et sçachant ce que souffre un cœur à se contraindre,
+Le mien pouvoit du vostre attendre justement
+Plus de compassion que de ressentiment.
+
+-*who_pompee
+Comme je ne voy rien qui vous puisse contraindre,
+Je ne voy rien aussi qui m'oblige à vous plaindre.
+Rome estoit en peril, je l'advoüeray, Seigneur,
+Mais, quand par vostre choix j'en suis le defenseur,
+Vous pouviez presumer que j'en rendrois bon conte,
+Sans presser une paix, qui nous couvre de honte.
+Vous sçavez quel espoir flatoit tous vos amis :
+Mais j'ay tort de me plaindre, et tout vous est permis.
+
+-*who_sylla
+Non, vous aurez raison de vous plaindre sans cesse
+D'une paix que j'ay faite avec trop de foiblesse,
+D'une paix qui m'outrage, et qui vous a trahy,
+En faveur d'un Rival, et d'un Rival hay.
+Mais pour vous contenter, reglez sa destinée,
+Par vos conseils j'acheve ou romps son hymenée ;
+Quoy que vous choisissiez, je m'abandonne à vous ;
+Sa perte ou son hymen tout me semblera dous.
+Que si quelque scrupule embarasse vostre ame,
+Vous pourrez consulter l'objet de vostre ⁎flâme,
+Tandis que pour ma gloire et pour vostre bon-heur
+Je m'en vay prendre au Camp le nom de Dictateur.
+
+-*who_pompee
+Le nom de Dictateur ?
+
+-*who_sylla
+Quoy ce nom vous étonne ?
+
+-*who_pompee
+Non, puisque vous avez tout le pouvoir qu'il donne,
+Et lors que Marius s'unit à vostre sang,
+Nul ne peut desormais vous disputer ce rang.
+
+-*who_sylla
+Ainsi, si Marius ne devient pas mon gendre,
+On me peut disputer le nom que je veux prendre.
+Et pour le conserver c'est l'unique moyen :
+C'est vostre sentiment, si je vous entens bien.
+Ou je m'explique mal, ou je ne puis comprendre.
+Qu'on réponde si mal à ce qu'on doit entendre :
+Cecilie et l'amour vous ouvriront les yeux,
+Allez la voir, Seigneur, et vous m'entendrez mieux.
+
+**** *book_ *id_body-6-1 *act_ *date_1670 *creator_boyer
+
+-*who_marcelle
+tous vos discours, Seigneur, me font assez comprendre,
+Qu'au lieu de Marius Sylla vous veut pour gendre.
+
+-*who_pompee
+Voy quelle trahison on exige de moy.
+Dy-moy, toy qui par tout m'as signalé ta foy,
+Toy qui sçays ce que peut ton illustre ⁎Maistresse,
+Dois-je à tant de merite exposer ma foiblesse ?
+Puis-je la voir Marcelle et faire mon devoir ?
+
+-*who_marcelle
+Vous pouvez-vous, Seigneur, dispenser de la voir ?
+
+-*who_pompee
+Voyons là, comme elle est aussi fiere que belle,
+Son orgueil et le mien se deffendront contr'elle.
+
+-*who_marcelle
+Vous la verrez bien-tost, elle va revenir,
+Son pere l'a mandée, et veut l'entretenir.
+
+-*who_pompee
+Cependant, voy quel est le trouble de mon ame
+Et quelles laschetez on impose à ma ⁎flâme.
+L'hymen de Cecilie, est tout ce que je veux,
+L'espoir de l'acquerir alluma tous mes feux.
+Dans les troubles de Rome, on m'a veu pour luy plaire
+Quitter tous les partis pour celuy de son pere ;
+J'ay vaincu l'ennemy, sans qui Rome aux abois
+Alloit perdre en un jour le fruit de tant d'exploits,
+Et mesme j'ay vaincu, pardon chere patrie,
+Peut-estre seulement pour gagner Cecilie.
+Cependant, tu vois bien que pour avoir sa main,
+Il faut trahir moy-mesme un illustre Romain ;
+Cecilie est le prix de ce projet infame.
+Cette affreuse pensée éteint toute ma ⁎flâme,
+Et je ne sens plus rien que l'horreur seulement
+De me voir soupçonné d'aimer si laschement.
+Plus d'amour, plus d'espoir, si par la perfidie
+Les Dieux veulent unir Pompée et Cecilie.
+
+-*who_marcelle
+Quand il s'agit d'amour, dans un si jeune cœur,
+Le devoir regne-t'il avec tant de rigueur ?
+Un peu moins de scrupule avec tant de jeunesse,
+Un peu moins de vertu seroit-ce une foiblesse ?
+
+-*who_pompee
+Mon cœur n'en a que trop Marcelle, et je sens bien,
+Qu'auprés de Cecilie il ne répond de rien.
+Je sçay trop le pouvoir de la beauté que j'aime,
+J'en ay presque oublié Rome et la gloire mesme :
+Sylla par mon adveu se nomme Dictateur,
+Il en avoit le rang, mais le nom fait horreur :
+Cependant l'interest d'une beauté si chere
+M'a radoucy ce nom en faveur de son pere.
+Sylla qui de ses yeux connoist tout le pouvoir
+Pour tenter ma vertu m'ordonne de la voir :
+Nous la verrons plus douce, et feignant qu'elle m'aime,
+Pour contenter Sylla se trahir elle-mesme.
+
+-*who_marcelle
+Non, lorsque Cecilie a devant Marius
+Par l'ordre de son pere expliqué ses refus,
+Je sçay...mais elle passe, et vient de chez son pere.
+
+-*who_pompee
+Voy quel thresor m'arrache un pouvoir trop severe.
+Dois-je arrester ? fuyons.
+
+**** *book_ *id_body-6-2 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Vous me fuyez, Seigneur :
+Non, non, ne craignez plus cette injuste rigueur,
+Qui contre mon dessein trompoit vostre esperance ;
+Ce pouvoir qui forçoit ma tendresse au silence,
+Veut que par un adveu, qui n'est plus de saison,
+De toutes mes rigueurs je vous fasse raison.
+
+-*who_pompee
+Aprés avoir cent fois rejetté mon homage,
+Attendiez-vous ce jour pour changer de langage ?
+Pourquoy m'embarasser par ces feintes douceurs,
+Alors que j'ay besoin de toutes vos rigueurs ?
+Alors que je ne veux que mépris et que haine ?
+Helas ; je le voy bien trop aimable inhumaine,
+Sylla vous a fait part de cet ordre fatal,
+Qui remet dans mes mains le sort de mon Rival.
+Aprés m'avoir osté toute mon esperance,
+Vostre fausse bonté veut m'oster l'innocence,
+Et me faisant trahir un Rival ⁎genereux
+Me rendre criminel autant que malheureux.
+
+-*who_cecilie
+Mon discours meritoit un sens plus favorable.
+Ah ! Seigneur cet adveu n'est que trop veritable ;
+Vostre amour aujourd'huy ne doit plus s'abuser ;
+Nos malheurs sont trop grands, pour vous rien déguiser.
+Je vous aime, Seigneur, une vertu trop fiere
+Par l'ordre de Sylla vous cachoit ce mystere,
+D'un dehors affecté l'apparente froideur
+Tenoit ce feu couvert dans le fonds de mon cœur ;
+Sylla qui vouloit seul disposer de mon ame,
+Aujourd'huy seulement laisse échaper ma ⁎flâme.
+Et vous pouvez penser, Seigneur, qu'il m'est bien dous,
+De ne vous plus cacher ce que je sens pour vous.
+
+-*who_pompee
+Quoy, vous m'aimez ? ô ! Dieux m'est-il permis de croire,
+Quand je n'espere rien, tant d'heur et tant de gloire ?
+
+-*who_cecilie
+Que ces transports plairoient au beau ⁎feu que je sens,
+Qu'ils seroient doux, Seigneur, s'ils estoient innocens !
+Mais loin de s'applaudir d'un adveu legitime,
+Songez-vous bien, Seigneur, qu'il vous demande un crime,
+Que mon ⁎feu ne paroist que pour vous éblouyr,
+Et ne me donne à vous qu'afin de vous trahir.
+Songez-vous bien qu'il faut que Marius perisse ;
+Quand Sylla le trahit avec tant d'injustice,
+Qu'est-ce qui desormais retiendra son ⁎courroux,
+S'il ne respecte en luy le nom de mon Epoux ?
+Marius est perdu, s'il ne devient son gendre ;
+Nous le verrons perir, sans le pouvoir defendre,
+Et nous dire en mourant, ingrats, sans mon amour
+Et le pere et la fille auroient perdu le jour.
+Vous aurez vostre part d'un reproche si rude,
+Si vous voulez jouyr de mon ingratitude.
+
+-*who_pompee
+Oüy, sans doute, excusez les transports d'un ⁎Amant ;
+Aveuglé de l'espoir d'un adveu trop charmant,
+J'oubliois les perils d'un Rival magnanime ;
+Ravy de mon bon-heur j'oubliois tout mon crime.
+Ah ! s'il faut renoncer à tout ce que je voy,
+Reprenez les bontez que vous avez pour moy,
+Ah ! Madame, pourquoy rompre un heureux silence,
+Qui de tant de perils sauvoit mon innocence ?
+Puis-je voir tant d'⁎appas, puis-je les adorer,
+Puis-je avec tant d'amour oser mesme esperer,
+Et ne pas acheter l'espoir de tant de charmes,
+Du sang de mon Rival, et de toutes ses larmes ?
+
+-*who_cecilie
+Mais quand la trahison s'appreste à l'accabler,
+Voulez-vous...
+
+-*who_pompee
+Ah ! cessez de me faire trembler.
+
+-*who_cecilie
+Tout l'univers verroit son attente trompée,
+Si l'amour corrompoit la vertu de Pompée.
+
+-*who_pompee
+Helas ! qui l'auroit crû que cet illustre jour
+Broüilleroit pour jamais ma gloire et mon amour !
+Qui l'auroit crû qu'ayant l'adveu de vostre pere,
+Que ne vous voyant plus à mes desirs contraire,
+Je me plaindrois moy mesme aux yeux qui m'ont charmé,
+Du glorieux bon-heur d'aimer et d'estre aimé !
+Qui l'auroit jamais crû que la gloire elle-mesme
+Qui me faisoit aimer, m'osteroit ce que j'aime ?
+
+-*who_cecilie
+Ce devoir trop cruel n'en demeure pas là ;
+Il expose Pompée aux fureurs de Sylla.
+
+-*who_pompee
+Et rien n'est si cruel, que d'exposer sa vie,
+Pour avoir refusé l'illustre Cecilie.
+Devoir trop rigoureux !
+
+-*who_cecilie
+Mais Sylla vient à nous,
+Qu'avez-vous resolu ?
+
+-*who_pompee
+Que me demandez-vous ?
+
+-*who_cecilie
+Ah ! Seigneur, vous devez faire cesser ce trouble.
+
+-*who_pompee
+Ah, plus je le combats, plus je sens qu'il redouble,
+Fuyons.
+
+-*who_cecilie
+Il vous a veu, demeurez.
+
+-*who_pompee
+Je ne puis,
+Et ne veux rien resoudre en l'estat où je suis.
+
+**** *book_ *id_body-6-3 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Quoy, ma fille, Pompée évite ma presence ?
+
+-*who_cecilie
+Seigneur...
+
+-*who_sylla
+Ah ! non j'entens sa fuite et ton silence,
+Alors que par mon ordre il voit en sa faveur
+Le secret de ta ⁎flâme arraché de ton cœur :
+L'ingrat ose braver, sans peur de nous déplaire,
+Et l'amour de la fille, et la haine du pere.
+Ton ⁎Amant a donc pu s'oublier jusques-là ?
+Il épargne un Rival et méprise Sylla.
+Je luy fais esperer l'honneur d'estre mon gendre,
+Jusques à cét adveu je te force à décendre,
+Et je voy qu'il refuse au mépris de mon rang,
+Ce qu'un autre voudroit payer de tout son sang.
+
+-*who_cecilie
+Lorsque pour Marius sa vertu s'interesse,
+Soupçonnez-vous, Seigneur, cette noble tendresse ?
+
+-*who_sylla
+Quoy, vous loüez Pompée et souffrez ses refus ?
+Moy j'abhorre et je crains l'amy de Marius,
+Je le hay d'autant plus que son indigne zele
+A mon propre interest rend ma fille infidele ;
+Que pour toy sans amour, et sans respect pour moy,
+Il demeure incertain entre un Rival et toy.
+Ce zele entre vous trois met trop d'intelligence
+Et pour te découvrir toute ma défiance,
+De deux Rivaux unis le zele est trop puissant,
+Et leur accord enfin ne peut estre innocent.
+Mon nouveau rang demande un nouveau sacrifice ;
+Il faut que l'un me serve, et que l'autre perisse,
+De l'un je veux l'hymen, et de l'autre la mort ;
+Et c'est toy que je fais l'arbitre de leur sort :
+Favorise à ton gré Marius ou Pompée ;
+Ma haine sur ce choix ne peut estre trompée,
+L'un pour ma seureté doit servir à mon sang,
+Et l'autre doit sa mort à l'orgueil de mon rang.
+
+-*who_cecilie
+Si vous portez si loin une injuste vengeance
+Epargnez moy l'horreur de cette confidence,
+Et ne croyant que vous sur cet horrible choix,
+Sauvez moy du forfait de vous prester ma voix.
+
+-*who_sylla
+Non, non, je t'aime trop, et n'osant seul resoudre
+Sur quel de tes ⁎Amans doit tomber cette foudre.
+
+-*who_cecilie
+Vous m'aimez et voulez du crime le plus noir...
+
+-*who_sylla
+Cesse de m'interrompre, et connois mon devoir ;
+Ne m'embarrasse point d'une vaine tendresse,
+Et pese mes raisons sans trouble et sans foiblesse.
+Souviens-toy que j'ay pris le nom de Dictateur,
+Qu'à tous les vrais Romains ce nom doit faire peur ;
+Et cependant Pompée, un Heros que l'on nomme
+L'enfant le plus zelé, l'adorateur de Rome,
+Me donne son suffrage et couvre adroitement
+Son indignation d'un faux consentement,
+Il semble negliger la liberté mourante,
+L'offre luy-mesme aux fers que ma main luy presente,
+Flate une ambition qui sert à me trahir,
+Et me laisse embrasser ce qui me fait haïr.
+Voy d'un autre costé qu'infidelle à soy-mesme
+Pour servir Marius il trahit ce qu'il aime,
+Et par l'emportement d'un zele sans égal
+Deffend mon ennemy dans son propre Rival.
+Voy son grand nom, son rang, sa derniere victoire,
+Voy si je n'ay pas lieu de craindre tant de gloire,
+De craindre une vertu, qui n'apprehende rien,
+Et qui luy fait un nom plus puissant que le mien.
+Le regne de Sylla condamne ces maximes,
+Ces generositez qui condamnent mes crimes,
+Et quand de cent remors je me sens combatu,
+Mon pouvoir est mal seur contre tant de vertu.
+
+-*who_cecilie
+Quoy donc tant de vertu merite qu'on l'opprime ?
+
+-*who_sylla
+J'apprehende en autruy la vertu que j'estime,
+Et voulant m'asseurer mon repos et mon rang,
+Je puis avec honneur répandre un peu de sang.
+Pour Marius, tu sçais qu'il a toute ma haine ;
+Mais tu dois à sa ⁎flâme et ta vie et la mienne :
+Ainsi prens sur ce choix le reste de ce jour,
+Fais justice à ta gloire ou grace à ton amour.
+
+-*who_cecilie
+Entre deux innocens montrez moy le coupable,
+Ou ne m'imposez pas un choix abominable,
+Pere cruel.
+
+-*who_sylla
+Gardez de trahir mon secret
+Par les emportemens d'un scrupule indiscret.
+Songez que de leur sort vous faisant la maistresse,
+C'est en vostre faveur un fruit de ma tendresse,
+Que vous pouvez au moins sauver le plus heureux
+Quand la raison d'Estat les condamne tous deux.
+Répondez à l'honneur de cette confidence,
+Et songez qu'il y va de toute ma puissance.
+
+-*who_cecilie
+O ! Dieux qui d'un tel sang avez formé le mien,
+Que ne me donnez-vous un cœur comme le sien
+
+**** *book_ *id_body-6-4 *act_ *date_1670 *creator_boyer
+
+-*who_pison
+Vous puis-je demander quelle rigueur extréme
+Oblige vostre fille à choisir elle-mesme ?
+Vous luy deviez cacher, pour choisir l'un des deux,
+Que le trépas est seur pour le plus malheureux.
+
+-*who_sylla
+Va, tu sçauras bien-tost le secret de ma haine.
+Mais que fait Marius ? je sçay quelle est sa peine,
+Cecilie a pris soin de luy faire sçavoir
+Que l'amour de Pompée ébranloit son devoir.
+
+-*who_pison
+Et depuis cét adveu cét ⁎Amant miserable
+Ne peut dissimuler la douleur qui l'accable,
+Ennemy de la feinte et du déguisement,
+Son grand cœur sans rien craindre éclate hautement,
+Et peut-estre qu'enfin...mais le voicy luy-mesme...
+
+**** *book_ *id_body-6-5 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+Quoy, Seigneur...
+
+-*who_sylla
+Je connois vostre malheur extréme ;
+Je le voy, je le sens, et vous pouvez penser
+Quels soins dans cet estat viennent m'embarrasser.
+Je sçay que Cecilie à vous seul destinée,
+Voudroit sur son amour regler son hymenée,
+Et moy-mesme touché de crainte et de douleur
+Lorsque je voy Pompée occuper tout son cœur,
+Et l'horreur d'un hymen, qui n'est pas volontaire,
+J'ay peine à resister aux tendresses d'un pere.
+Cependant tout honteux de vous manquer de foy
+Je sens un fier devoir s'élever contre moy,
+Je fremis au seul nom d'ingrat et de parjure ;
+Mais n'osant étouffer la voix de la nature,
+N'osant contre ma fille armer tout mon pouvoir,
+Je fie à sa vertu ma gloire et son devoir.
+Ne precipitons rien, Seigneur, laissons la faire,
+Pour de si grands efforts le temps est necessaire,
+Et sans luy, pour guerir de pareilles amours,
+Les plus fortes raisons sont un foible secours.
+
+-*who_marius
+Quitte, quitte Sylla cet honteux artifice ;
+Etale fierement toute ton injustice,
+C'est assez une fois d'avoir sçeu m'abuser,
+Et la premiere encore suffit pour t'excuser.
+Dy pour me condamner, que j'ay dû te connoistre,
+Que si je suis trahy, j'ay merité de l'estre,
+Qu'au lieu de me livrer aux mains d'un furieux
+Sur tes lâches sermens ; sur la foy de tes Dieux,
+Je devois preferer une guerre immortelle
+Au peril évident d'une paix infidelle ;
+Dy-moy que je devois prevoir que cette paix,
+Alloit mettre à couvert ta haine et tes forfaits ;
+Que voyant tous les jours que dans ta politique
+La vertu vieillissoit comme la Republique,
+Que sous l'infame joug de ton authorité
+Toute Rome expiroit avec la liberté,
+J'ay dû prevoir aussi qu'avec tant de puissance
+Sylla de cette paix prendroit plus de licence,
+Et qu'ainsi la vertu demeurant sans appuy,
+L'orgueil et la fureur regneroit avec luy.
+Je le devois prevoir, mais qui l'auroit pû croire,
+Qu'un cœur peut concevoir une fureur si noire,
+Que pour ta fille et toy mes soins trop genereux,
+Qui d'un trépas certain vous ont sauvé tous deux
+Ne trouveroient en toy qu'un ingrat qu'un parjure ;
+Qu'ayant sçeu parvenir jusqu'à la Dictature,
+Tes sermens violez, et mon espoir trompé
+Seroient le digne essay d'un pouvoir usurpé.
+Non, soit ou ma foiblesse, ou l'erreur de ma ⁎flâme,
+Je n'ay pû concevoir tant d'horreurs dans une ame :
+Quiconque pour les croire auroit assez de foy,
+Devroit estre meschant et cruel comme toy.
+
+-*who_sylla
+Je pardonne aux transports d'une aveugle colere ;
+Je parlois pour ma fille, et vous parlois en pere :
+Je pouvois puisqu'il faut vous parler autrement,
+Vous dire que j'ay pû trahir innocemment,
+Le fils d'un ennemy, qui né dans la bassesse
+Fut le persecuteur de toute la noblesse,
+Le fils d'un vieux ⁎Tyran qui fit par ses forfaits
+Une sanglante guerre au milieu de la paix.
+Je pouvois écouter cette haine invincible
+Qui rend avec mon sang le vostre incompatible.
+Mais pourquoy rappeller ces vieux ressentimens ;
+J'ay deu tout oublier dans nos embrassemens,
+Et separer, malgré la haine hereditaire
+L'innocence du fils et les crimes du pere.
+Supprimons ces raisons de haine et de ⁎courrous,
+J'en ay, qui malgré moy parlent trop contre vous.
+Regardez en quel temps l'offre de Cecilie
+Suivit l'heureuse paix qui nous reconcilie :
+Rome estant aux abois, sur le point de perir,
+D'autres Romains sans nous ont sçeu la secourir ;
+Pompée et ses amis emportent la victoire,
+Previennent mon secours, et m'en ostent la gloire.
+Cecilie est le prix qu'ils avoient attendu,
+Et que trop cherement Rome leur a vendu.
+Je sçay bien qu'un hymen, qui fut leur esperance,
+D'un seul de ces vainqueurs sera la recompense ;
+Mais Pompée au combat estant leur General,
+Ils souffrent en luy seul le bon-heur d'un Rival.
+Encore ay-je sujet de croire que luy-mesme
+N'ose au depens de tous accepter ce qu'il aime ;
+Il hesite, et peut-estre il vous a fait valoir
+Ce genereux refus qui flatoit vostre espoir.
+Vous seul obtiendrez-vous ce qu'ils doivent attendre,
+Et que mesme Pompée ose à peine pretendre ?
+Faudra-t'il nous commettre avec des Chefs jalous,
+Qui déja dans leurs cœurs conspirent contre nous,
+A cent braves Romains preferer un seul home
+Et le fils d'un Tyran au defenseur de Rome ?
+Non, j'auray soin de vous, et je veux à mon tour
+Vous sauver, malgré vous et malgré vostre amour.
+
+-*who_marius
+Quiconque est comme toy né pour la tyrannie,
+Sçait avec ces couleurs farder sa perfidie.
+Penses-tu m'ébloüir par un zele trompeur ?
+Penses-tu me sauver en me perçant le cœur ?
+Acheve, et songe enfin à m'oster une vie    
+Fatale à mes Rivaux, si je perds Cecilie ;
+Pers l'indigne pitié, qui me vole sa foy,
+Ou crains pour mes Rivaux ce que tu crains pour moy.
+Je m'emporte et peut-estre avec trop d'imprudence,
+Mais qu'ay-je à ménager quand je perds l'esperance ?
+La contrainte est honteuse et n'est plus de saison,
+Quand il faut s'expliquer contre la trahison.     
+
+-*who_sylla
+Croyez-moy, remettez le calme dans vostre ame,
+Vous n'avez qu'un moyen pour servir vostre ⁎flâme.
+Sans parler de traité, de serment, ny de foy,
+Souffrez que Cecilie en ordonne sans moy.
+Quoy que de son amour un peu preoccupée,
+De puissantes raisons parlent contre Pompée,
+Et d'ailleurs vous sçavez qu'elle vous doit le jour,
+Et qu'un pareil bien-fait vaut bien un peu d'amour.
+Pour flater vos Rivaux, souffrez qu'elle choisisse,
+Ne vous figurez pas que c'est un artifice,
+Pompée est un ingrat, et mon juste ⁎courrous
+Vous rend ce qu'il avoit d'avantage sur vous.
+Ainsi souffrez qu'un choix et juste et raisonnable...
+
+-*who_marius
+Que ce soit artifice ou zele veritable,
+N'importe, regle tout selon ton interest,
+Pourveu que Cecilie en prononce l'Arrest.
+Adieu.
+
+**** *book_ *id_body-6-6 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Voy maintenant le secret de ma haine.
+Pour perdre Marius et sans honte et sans peine,
+Le choix de Cecilie est un moyen certain :
+Ma fille en fait le crime et l'épargne à ma main :
+Si pour choisir Pompée elle en croit sa tendresse,
+Marius en mourra d'amour et de tristesse,
+Ou voulant se vanger, il se met en estat,
+De perir par son crime et par son attentat :
+C'est ainsi que je puis sans trahir Cecilie
+M'épargner d'un grand crime et la haine et l'envie.
+Mais sans rien negliger sur un si doux espoir
+Voyons ce qu'il faut craindre, et tâchons d'y pourvoir.
+
+**** *book_ *id_body-7-1 *act_ *date_1670 *creator_boyer
+
+-*who_marcelle
+Je ne vous connois plus dans ce desordre extréme.
+
+-*who_cecilie
+Connois-tu bien Sylla, Marcelle ! est-il le mesme ?
+Je ne voy qu'un Tyran sans pitié, sans amour.
+L'ordre qu'il m'a donné dans ce funeste jour,
+Qui pouvoit rebuter toute autre obeïssance,
+A-t'il trouvé chez moy la moindre resistance ?
+Il m'offre Marius, n'ay-je pas obey ?
+Il m'oste à cét ⁎Amant, je l'ay presque trahy :
+Mais quand il veut trahir Marius et Pompée,
+Alors que sa vengeance incertaine ou trompée,
+Demande une victime, et par des soins pressans
+M'ordonne de choisir entre deux innocens,
+Veux-tu que je reçoive un ordre si barbare ?
+La nature en fremit ; tout mon devoir s'égare :
+Le sang ne parle plus pour un pere cruel,
+Et brave son pouvoir quand l'ordre est criminel.
+
+-*who_marcelle
+Mais entendez-vous bien l'ordre de vostre pere ?
+Sa conduite par tout n'est que ruse et mystere.
+Ainsi, quand vous voyez qu'un traitement égal
+Confond dans sa fureur Pompée et son Rival,
+Ne vous arrestez pas, Madame, à l'apparence :
+Il pretend que Pompée emporte la balance ;
+Car, enfin vous sçavez, que Sylla dans son cœur
+L'a toujours honoré de toute sa faveur.
+Ainsi, s'il vous propose un choix qui vous ⁎étonne,
+Expliquez comme il faut les terreurs qu'il vous donne.
+Sur l'ordre de ce choix je vous diray bien plus,
+Quand il se sert de vous pour trahir Marius,
+Tout injuste qu'il est, trop jaloux de sa gloire,
+Il veut par vos refus garantir sa memoire,
+Combatre une pitié, qui le veut secourir,
+Et trouver un pretexte à le faire perir.
+Marius est à plaindre et je le plains moy-mesme,
+Mais haï de Sylla, dans son malheur extréme...
+
+-*who_cecilie
+Et c'est dans cet estat que je veux retenir
+De ce que je luy dois le tendre souvenir ;
+Et c'est dans cet estat que je l'offre à moy-mesme ;
+Quand j'estois comme luy dans un peril extréme ;
+Quand un peuple en fureur massacroit mes ⁎parens
+Et les traisnoit dans Rome égorgez ou mourans,
+Quand mon Palais détruit, le desespoir dans l'ame,
+Pàle, errante, au milieu du sang et de la flâme,
+Je rencontray son pere, et tout tremblant d'effroy,
+Marius se mit seul entre son pere et moy.
+Marcelle à cet objet que veux-tu que je fasse ?
+Mais rappellons encore ma derniere disgrace.
+Prisonniere de guerre au milieu de sa cour,
+Et sous les douces loix d'un prisonnier d'amour,
+Voy comme il m'a traitée, avec quelle tendresse,
+D'une ingrate captive il a fait sa ⁎Maistresse.
+Le ferons-nous perir, luy l'honneur de nos jours,
+Les delices de Rome et ses tendres amours,
+L'exemple des ⁎Amans, en qui l'amour assemble
+Plus de ⁎feux que n'en ont tous les ⁎Amans ensemble ?
+
+-*who_marcelle
+Mais le sauverez-vous ? Quel sera son appuy ?
+
+-*who_cecilie
+Malgré tous, contre tous je veux estre pour luy.
+Et s'il ne tient qu'au choix, que demande mon pere...
+
+-*who_marcelle
+Vous allez donc livrer Pompée à sa colere.
+
+-*who_cecilie
+Viens-tu pas sur ce point de calmer mes frayeurs ?
+Sylla cherit Pompée et le comble d'honneurs.
+
+-*who_marcelle
+Mais sur ce que j'en voy j'en juge mal peut-estre :
+Souvent Sylla n'est rien de ce qu'il veut parestre ;
+Son esprit défiant, son inconstante humeur
+Le font doux et cruel , arrogant et flateur,
+Font qu'il ose et craint tout, et que sa violence
+Agit ou se retient selon sa défiance.
+
+-*who_cecilie
+Ainsi quand sur ce choix je cherche mon devoir,
+Je ne trouve pour moy que honte et desespoir,
+Ainsi lorsque ce choix me rend trop incertaine,
+Que Sylla m'en dispense, et qu'au gré de sa haine...
+
+-*who_marcelle
+Luy rendre le pouvoir qu'il vous donne sur eux,
+C'est en épargner un pour les perdre tous deux.
+
+-*who_cecilie
+Il faut donc se charger de la moitié du crime,
+Et choisir promptement son gendre et sa victime.
+Mais qui fera ce choix Marcelle ? est-ce l'amour ?
+L'amour perdra celuy qui m'a sauvé le jour,
+Cét aveugle transport sans que rien le retienne
+A la foy des traitez arrachera la mienne ;
+Je seray lâche, injuste, ingrate et sans honneur,
+J'ayderay par mon choix à luy percer le cœur.
+Ce n'est point sur ce choix l'amour qu'il en faut croire.
+Marius vient Marcelle, au secours de ma gloire.
+
+**** *book_ *id_body-7-2 *act_ *date_1670 *creator_boyer
+
+-*who_marius
+Je sçay ce que Sylla vient de vous ordonner ;
+Madame, et mon abord semble vous ⁎étonner.
+Je sçay trop bien aimer pour vouloir vous contraindre ;
+Choisissez hardiment, vous n'avez rien à craindre :
+Vous aymez, je le sçay, par vostre propre adveu,
+Vous ne pourrez jamais brusler d'un plus beau ⁎feu.
+Abandonnez aux Dieux un ⁎Amant miserable,
+Que les crimes d'un pere ont rendu trop coupable.
+Et sans plus balancer vostre amour et le mien,
+Croyez en vostre cœur ; tout le reste n'est rien.
+
+-*who_cecilie
+Je vous ay dit l'⁎Amant pour qui mon cœur soûpire,
+Je vous l'ay dit, Seigneur et ne puis m'en dédire ;
+Et si la trahison avoit moins de fureur,
+J'obeïrois peut-estre aux ordres de mon cœur ;
+Mais puisqu'il faut enfin que je vous le confesse,
+Quand d'un Arrest mortel on me fait la Maistresse,
+Sur tout ce que j'en crains me sera-t'il permis
+De m'entendre moy-mesme avec vos ennemis ?
+Peut-estre que Sylla, je tremble à vous l'apprendre,
+A juré vostre mort, si vous n'estes son gendre.
+
+-*who_marius
+Poussez encore plus loin cette tendre frayeur,
+Son gendre ou non, il faut contenter sa fureur.
+Il le faut, mais malgré sa noire perfidie
+Au moins je ne suis pas trahy de Cecilie,
+Et je puis me flater pour le prix de ma foy,
+Qu'elle doute un moment entre Pompée et moy,
+Mais il est temps enfin de vous faire justice :
+Craignez, que comme vous vostre ⁎Amant se trahisse,
+Je l'ay veu ce grand cœur rendre un cruel combat.
+Pompée est ⁎genereux, et je suis un ingrat :
+Je ne pourray jamais par un effort semblable
+Ce qu'un Rival heureux fait pour un miserable ;
+Madame, ma vertu n'ira jamais si loin,
+Je ne puis, comme luy la trouver au besoin.
+Et bien loin d'imiter l'effort qu'il se veut faire,
+Je garde obstinement un espoir temeraire,
+Je ne puis renoncer à ces divins ⁎appas,
+Que j'ay veu presque miens et presque entre mes bras :
+Non, rien ne peut m'oster l'espoir de Cecilie,
+Et c'est le seul lien qui m'attache à la vie.
+
+-*who_cecilie
+Mais que pretendez-vous avec ce foible espoir ?
+
+-*who_marius
+Des mortels et des Dieux implorer le pouvoir,
+Et pour forcer enfin toute sorte d'obstacles,
+Au tout-puissant amour demander des miracles.
+Que s'il faut à ce Dieu joindre d'autres secours,
+Souffrez...
+
+-*who_cecilie
+Daignez, Seigneur, prendre soin de vos jours.
+Echapez promptement aux fureurs de mon pere,
+Ce choix qu'il me demande, et que je crains de faire,
+Quel qu'il puisse estre enfin, ou pour ou contre vous,
+Ne fera que ⁎haster l'effet de son ⁎courrous.
+
+-*who_marius
+Je sçay trop que ce choix, où Sylla me renvoye,
+N'est pour ma seureté qu'une infidelle voye.
+Pour derniere faveur souffrez moy seulement
+Tout ce que peut tenter un malheureux ⁎Amant.
+Quoy qu'il me fust permis dans mon malheur extréme,
+De n'en prendre aujourd'huy l'ordre que de moy-mesme,
+Je dépens de l'amour, et de vostre pouvoir,
+Vous pouvez d'un seul mot éteindre mon espoir ;
+Mais pour me l'arracher, il faut m'arracher l'ame,
+Je ne vis que d'espoir au milieu de ma ⁎flâme,
+Luy seul soûtient mes jours, luy seul est tout mon bien ,
+Et je meurs à vos pieds, si je n'espere rien.
+Ordonnez à ce cœur que mon respect vous livre,
+Ou de vivre pour vous ou de cesser de vivre.
+Vous ne répondez rien.
+
+-*who_cecilie
+Qu'esperez-vous, Seigneur ?
+Quels efforts, quels secours, vaincront vostre malheur ?
+Je ne le puis nier, la perfidie est noire ;
+Il s'agit de vanger et l'amour et sa gloire.
+Mais attendez du choix qu'on vient de m'ordonner...
+
+-*who_marius
+Au peril de ce choix dois-je m'abandonner ?
+Sylla qui m'a vanté cette douce esperance,
+Voudroit sous un ⁎appas endormir ma prudence :
+Mais s'il a pu manquer à la foy d'un traité,
+Puis-je prendre avec luy quelqu'autre seureté ?
+S'il le faut toutefois...
+
+-*who_cecilie
+Non, non, craignez sa haine ;
+Je voy de tous costez vostre perte certaine,
+Et daignez seulement pour vous faire raison
+Employer la vertu contre la trahison.
+
+-*who_marius
+Quelques soins que je donne au secours de ma ⁎flâme,
+Jamais rien de honteux n'entrera dans mon ame,
+Et je serois indigne et de vous et du jour
+Si la gloire n'estoit du party de l'amour :
+Il n'est point de fureur que mon devoir n'arreste :
+Si vous me soupçonnez, je vous livre ma teste,
+Et je ne vous instruis des perils où je cours,
+Que pour mettre en vos mains ma ⁎fortune et mes jours.
+
+-*who_cecilie
+J'ay dans tous vos desseins conceu trop d'innocence,
+Pour abuser jamais de cette confiance,
+Et loin de vous trahir, il me sera bien doux
+De partager mes soins entre mon pere et vous.
+
+-*who_marius
+Ah ! que cette bonté digne de Cecilie
+Me paye avec excés tous les maux de ma vie !
+Quelque soit le succés que mon amour attend,
+Je mourray satisfait, ou je vivray content.
+Adieu, Madame.
+
+-*who_cecilie
+Adieu.
+
+**** *book_ *id_body-7-3 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Que son sort est à plaindre !
+
+-*who_marcelle
+Ah ! que sa vengeance est beaucoup plus à craindre.
+Durant vostre entretien Maxime m'a fait voir
+Sans vouloir s'expliquer, son secret desespoir :
+Je le vois en estat d'aller tout entreprendre.
+
+-*who_cecilie
+Pour son bien, pour le nostre, il faut sans plus attendre,
+Il faut choisir Marcelle, allons en sa faveur...
+
+**** *book_ *id_body-7-4 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Mais j'aperçoy Pompée, où courez-vous, Seigneur ?
+
+-*who_pompee
+Je cours prés de Sylla luy vanter ma victoire ;
+Je cours sacrifier mon amour à ma gloire :
+Mais faut-il vous trouver encore sur mes pas ?
+Ah ! ne m'opposez plus ces dangereux ⁎appas.
+Madame, c'en est fait ; il faut que je réponde,
+Malgré tout mon amour aux vœux de tout le monde,
+Et vous devez souffrir qu'un cœur trop combatu
+Se rende tout entier à sa seule vertu.
+Je doy mesme rougir qu'une trop juste crainte
+M'impose les devoirs d'une vertu contrainte ;
+Déja dans sa douleur Marius me fait voir
+Le secret appareil d'un sanglant desespoir,
+Et Sylla qui le voit outré de sa disgrace
+Par des ordres cachez en previent la menace,
+Et songe à rejetter sur moy-mesme et sur vous,
+Tout ce que va produire un injuste ⁎courrous.
+C'est à nous de sauver de ce peril extréme,
+Sylla, la paix, l'estat, Marius et vous-mesme.
+Puisque Sylla pour nous va rompre le traité
+Et nous veut imputer son infidelité,
+Reprenons l'innocence, et l'honneur qu'il nous vole,
+Et forçons un ingrat de tenir sa parole.
+Je vous aime, Madame, et j'adore en vos yeux
+Le plus visible éclat de la gloire des Dieux,
+Il n'est rien qu'à vos yeux mon cœur ne sacrifie.
+Mais voyant à quel prix on m'offre Cecilie,
+Mon cœur tout indigné renonce à ses ⁎appas ;
+L'amour n'est plus amour, où la gloire n'est pas ;
+Ce Dieu n'est que fureur, foiblesse, extravagance,
+Quand son emportement nous couste l'innocence
+Et tous les vrais Romains refusent des Autels
+A ce lâche Tyran du reste des mortels ;
+Allons, ne laissons pas refroidir ce beau zele ;
+Mon devoir prés de vous, doute, tremble, chancele.
+Le mal presse, il est temps, Madame.
+
+-*who_cecilie
+Allons, Seigneur.
+Excusez, si j'y cours avecque moins d'ardeur :
+Mon cœur, quoy que Romain est fait tout comme un autre,
+Et ma vertu n'est pas si forte que la vostre.
+
+-*who_pompee
+Ah ! si vostre vertu doute de son pouvoir,
+Puis-je bien m'asseurer de faire mon devoir ?
+Avec toute l'ardeur de la vertu Romaine,
+Je resisteray mal au torrent qui m'entraîne,
+Et si vostre devoir ne soustient pas le mien,
+Quelqu'en soit le succés ne me reprochez rien.
+Dieux, qui voyez ma peine en faveur de ma gloire
+De mes derniers efforts gardez bien la memoire.
+
+-*who_cecilie
+Hé quoy presumez-vous, si je doute un moment,
+Que je réponde mal à ce beau sentiment,
+Je feray mon devoir, avec cét avantage
+Que j'ay plus de besoin de force et de courage,
+Que je crains tout pour vous dans ce funeste jour,
+Et que je dois combatre un pere et mon amour ;
+Mais un pere cruel, puisqu'il vous faut tout dire,
+Qui vous voyant douter sur le choix qu'il desire,
+Veut qu'entre deux ⁎Amants arbitre de leur sort,
+Je partage aujourd'huy mon hymen et la mort.
+
+-*who_pompee
+O ! Dieux quelle fureur, ne craignez rien, ma vie
+Peut encor défier toute sa tyrannie,
+Il vient.
+
+**** *book_ *id_body-7-5 *act_ *date_1670 *creator_boyer
+
+-*who_sylla
+Peut-on sçavoir qui sera vostre Epoux ?
+Mais j'entens vostre choix, Pompée est avec vous.
+
+-*who_cecilie
+En effet sur ce choix c'est luy que j'en doy croire,
+J'ay choisi Marius Seigneur, et j'en fais gloire.
+
+-*who_sylla
+Dieux !
+
+-*who_cecilie
+Et j'ay dû répondre en cette occasion,
+Plus à vostre devoir qu'à vostre intention.
+
+-*who_sylla
+Vous avez concerté ce beau choix l'un et l'autre,
+Et vous avez reglé mon devoir sur le vostre :
+Ce Heros tout brûlant, tout avide d'honneur,
+A poussé jusqu'au bout cette noble fureur.
+
+-*who_pompee
+Seigneur, j'aime la gloire, et la trouve trop belle
+Pour rien faire jamais qui soit indigne d'elle.
+Quoy que pour Cecilie, et l'amour et l'honneur
+D'une ⁎flâme immortelle ait embrasé mon cœur,
+Quand la seule vertu doit estre consultée,
+L'amour perd tous ses droits, sa voix n'est point contée.
+Je sçay bien qu'immoler sa gloire à ses beaux yeux,
+Seroit peut-estre un crime illustre et glorieux ;
+Je sçay ce qu'est Sylla, quels honneurs doit pretendre,
+Quiconque aura l'honneur de devenir son gendre ;
+Je sçay quelles fureurs suivront un tel refus ;
+Je sçay que toute Rome, et mesme Marius
+S'étonnera de voir une vertu si rare ;
+Mais quel que sort affreux, que mon cœur se prepare,
+Le destin de Pompée est trop grand et trop beau,
+Pour refuser au monde un exemple nouveau.
+L'univers apprendra que pour l'honneur de Rome,
+Sous le regne du crime il est encore un home,
+Qui fait voir à Sylla malgré tout son ⁎courrous,
+Que le bien de la gloire est le plus grand de tous.
+
+-*who_sylla
+Et ces beaux sentimens ont sur vous tant de force,
+Qu'ils font entre vous deux un eternel divorce.
+Ainsi cette vertu ne sert qu'à vous trahir.
+
+-*who_cecilie
+Ainsi tout nostre amour n'a pû nous ébloüir.
+Ainsi tous deux épris d'une ardeur legitime
+Nous nous aidons l'un l'autre à triompher du crime,
+Et pousser jusqu'au bout un effort genereux.
+Ainsi deux cœurs unis noblement amoureux,
+Font de cette union d'estime et de tendresse
+Un commerce d'honneur et non pas de foiblesse.
+Cet amour va plus loin, et s'il agit pour nous,
+C'est pour mieux faire aller ses soins jusques à vous.
+Il veut servir mon pere au peril de sa haine,
+Rendre cette grande ame à la vertu Romaine ;
+Il le veut arracher à ces noms odieux,
+D'implacable ennemy, de Tyran furieux ;
+Il le veut delivrer du destin des parjures,
+Dérober sa conduite aux craintes, aux murmures :
+Cet amour genereux veut enfin malgré vous
+Payer à Marius ce qu'il a fait pour nous,
+Epargner à Sylla l'ingrate barbarie
+D'attenter sur celuy qui nous sauve la vie,
+Et garentir la paix, Rome et vostre pouvoir
+Des fureurs d'un ⁎Amant qu'on met au desespoir.
+Si par ce digne amour vostre haine est trompée,
+Voilà ce que vous vaut Cecilie et Pompée,
+Rendez graces au Ciel, qui vous preste aujourd'huy
+Une fille comme elle, un amy comme luy.
+
+-*who_sylla
+J'admire ce beau zele , et ne puis m'en defendre,
+Je voy par vos conseils quel ⁎party je doy prendre
+Il faut vous contenter. Qu'on l'aille donc chercher,
+Ce precieux Rival, cet ennemy si cher.
+
+**** *book_ *id_body-7-6 *act_ *date_1670 *creator_boyer
+
+-*who_pison
+Seigneur....
+
+-*who_sylla
+Qu'est-ce Pison ?
+
+-*who_pison
+Marius dans la place
+Suivy d'un gros d'amis et de la populace,
+Marche vers le Palais avec ses revoltez,
+Et vient vous demander l'effet de nos traitez,
+Le Camp est adverty, mais la Ville fermée,
+Vous prive en ce moment du secours de l'armée.
+
+-*who_sylla
+C'est comme Marius s'aquite envers tous deux.
+Grace à son desespoir, j'ay tout ce que je veux,
+Puisqu'il m'ose attaquer, il n'est plus temps de feindre :
+Vains scrupules d'estat cessez de me contraindre,
+Déguisement honteux d'un ⁎courrous violent
+Laisse agir ma fureur ton secours est trop lent.
+Viens Pison, il est temps de me faire connoistre.
+Tremblez mes ennemis, tout Sylla va parestre.
+Vous pouvez demeurer, et vous aider tous deux
+A plaindre dignement un ⁎Amant malheureux.
+
+**** *book_ *id_body-7-7 *act_ *date_1670 *creator_boyer
+
+-*who_pompee
+Que me commandez-vous dans cette conjoncture ?
+
+-*who_cecilie
+Des perils si pressans font trembler la nature :
+Mais contre la vertu, qu'on trahit lâchement,
+Le sang, quoyqu'allarmé s'explique foiblement.
+
+-*who_pompee
+Je vay donc s'il se peut secourir l'un et l'autre.
+
+-*who_cecilie
+Allez, et reglez seul mon devoir et le vostre.
+
+**** *book_ *id_body-7-8 *act_ *date_1670 *creator_boyer
+
+-*who_sabine
+Quel est vostre dessein ? malgré son desespoir
+Le sort de Marius est en vostre pouvoir.
+Empeschez pour son bien un effort temeraire ;
+Servez à mesme temps vous, Rome et vostre pere ;
+Un seul mot, un regard le peuvent desarmer.
+
+-*who_cecilie
+Je sçay jusqu'à quel point Marius sçait aimer.
+Mais je n'abuse point de cét amour extréme.
+Perisse tout plustost, perisse Rome mesme,
+Perisse Cecilie, et toute ma ⁎maison,
+Si je les dois sauver par une trahison,
+Quand tu vois Marius prest à se satisfaire.
+Veux-tu...
+
+-*who_sabine
+Mais voulez-vous exposer vostre pere !
+Vous voyez quels perils...
+
+-*who_cecilie
+Pourquoy m'allarmes-tu ?
+Pourquoy d'un nom si cher ⁎étonner ma vertu ?
+Faut-il avec un pere estre d'intelligence,
+Alors qu'il faut trahir l'honneur et l'innocence ?
+Pour un pere sans foy, le sang est sans pouvoir
+Et le soin de ma gloire est mon premier devoir.
+
+**** *book_ *id_body-7-9 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Qu'est-ce ?
+
+-*who_marcelle
+Helas ! pour comble de misere,
+Marius va tomber aux mains de vostre pere.
+
+-*who_cecilie
+Comment !
+
+-*who_marcelle
+Le ⁎fier Sylla se presente aux mutins,
+Comme s'il estoit seul maistre de leurs destins :
+Son intrepidité desarme leur audace,
+Et toute leur ardeur se convertit en glace,
+Tant ils craignent ce front, devant qui tant de fois
+L'univers tout entier a veu trembler ses Rois :
+Marius reste seul sans secours, sans defence,
+
+-*who_cecilie
+Allons sans plus tarder, allons par ma presence...
+
+**** *book_ *id_body-7-10 *act_ *date_1670 *creator_boyer
+
+-*who_cecilie
+Ah ! Seigneur, Marius...
+
+-*who_pompee
+Vous voyez ma douleur.
+Abandonné des siens, mais malgré son malheur,
+Plus honteux que troublé de les voir sans courage.
+La trahison, dit-il, acheve son ouvrage,
+Sylla. Puis de son fer s'estant percé le flanc,
+Tu n'auras pas l'honneur de répandre mon sang ;
+Ma main en t'immolant ta plus chere victime,
+Pour punir ta fureur luy dérobe ce crime.
+
+-*who_cecilie
+Et soüille tout mon sang apres cet attentat
+Des titres odieux de perfide et d'ingrat.
+
+-*who_pompee
+Mais ce n'est pas assez : j'ay bien plus à vous dire.
+D'horreur et de pitié mon cœur tremble et soûpire.
+Marius, m'adressant sa voix et ses soûpirs,
+Mon trépas, cher Rival, vange tes déplaisirs ;
+Adieu, joüis en paix du bon-heur de ta ⁎flâme.
+Attendri par ces mots jusques aux ⁎feux de l'ame,
+Je change tout d'un coup ma tendresse en horreur,
+Voyant le ⁎fier Sylla d'un œil plein de fureur    
+Jouyr de ce spectacle, et charmé de son crime
+D'un avide regard devorer sa victime.
+Apres avoir soulé toute sa cruauté,
+Inquiet, et malgré toute sa dureté,
+Plein du trouble qui suit les ames criminelles,
+Il veut se dérober à ses peines cruelles,
+Et tasche vainement à force de forfaits
+D'étouffer des remors, qui ne mourront jamais,
+A toute son armée il a livré Preneste :
+En vain je veux combatre un dessein si funeste,
+Plus mon zele importun excite ses remors,
+Plus pour les surmonter il demande de morts :
+Il va jusques sur Rome étendre la tempeste,
+Ce ne sont que fureurs qu'il roule dans sa teste ;
+Et son esprit n'est plein que de punitions,
+De fers, de sang, d'exils et de proscriptions.
+Son cœur persecuté du tourment qu'il endure,
+Deteste sa grandeur, maudit la Dictature,
+Il veut l'abandonner, et privé de son rang,
+Se livrer à quiconque aura soif de son sang.
+Cependant pour combler ses remors et ses crimes
+Il cherche à s'immoler mille et mille victimes.
+Et si vous n'avez soin de calmer son ⁎courrous,
+Je crains tout pour luy-mesme, et pour Rome et pour nous.
+
+**** *book_ *id_body-7-11 *act_ *date_1670 *creator_boyer
+
+-*who_pison
+Sylla n'attend que vous, et sa cruelle rage
+Brûle d'aller dans Rome achever son ouvrage,
+Rien de ce noir projet ne le peut divertir :
+Les ordres sont donnez, Madame il faut partir.
+
+-*who_cecilie
+Allons, allons nous mettre entre Rome et mon pere,
+Et mourir à ses pieds ou fléchir sa colere.
+
+**** *book_ *id_privilege *date_1670 *creator_boyer
+
+extrait du privilege du roy.
+
+Par Grace et Privilege du Roy, donné à Paris le 24. jour de Mars 1669.
+Signé, DALANCE, il est permis à G QUINET, de faire imprimer, vendre et debiter un Livre intitulé le Jeune Marius, Tragedie, durant le temps et espace de sept années, entieres et accomplies, à compter du jour qu'il sera achevé d'imprimer pour la premiere fois, en vertu du present Privilege.
+Et defenses sont faites à tous autres, de quelque qualité et condition qu'ils soient, d'imprimer ou faire imprimer ladite Piece, sur peine de confiscation des Exemplaires, et de tous dépens, dommages et interests, ainsi qu'il est plus amplement porté par ledit Privilege.
+
+Registré sur le livre de la Communauté des Marchands Libraires et Imprimeurs de cette ville de Paris, le 26.Mars 1669. suivant l'Arrest du Parlement du 8.Avril 1653.
+
+A. SOUBRON, Syndic.
+
+Achevé d'imprimer pour la premiere fois le 28.Mars 1669.

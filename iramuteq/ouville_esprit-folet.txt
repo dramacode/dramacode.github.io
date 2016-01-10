@@ -1,0 +1,3527 @@
+
+
+**** *book_ *id_dedicace *date_1642 *creator_ouville
+
+A MADAME DE ⁎⁎⁎⁎⁎⁎⁎⁎⁎
+
+Madame,
+
+Si mon esprit estoit capable de mettre au jour des choses plus sérieuses, je ne vous dédierois point un ESPRIT FOLET, mais des ouvrages aussi excellens que le vostre est capable d'en produire.
+Tout ainsi que ce foible Esprit qui fait le bouffon de la piece (et qui à bon droit en peut estre nommé le Heros, puisque c'est luy qui fait la plus grande partie du sujet) croit estre enchanté par les choses estonnantes qui se presentent à ses yeux, il n'y a personne qui ne croye l'estre en contemplant les merveilles de vostre visage, que je nomme à bon droit l'Abregé des merveilles de ce siècle.Quoy que vostre modestie m'aye defendu de mettre vostre nom au frontispice de ce Livre, ce titre que je vous donn vous doit faire assez cognoistre de ceux qui ont eu l'honneur de vous avoir veuë, je parle mesme de celle de vostre sexe ; parmy lesquelles, quoy que le monstre d'envie regne tres absolument, il faut pour ce coup qu'il meure, puis que pas une ne vous peut disputer cette qualité, sans perdre avec la veuë la raison et le jugement.
+Par mon autre piece, qui est toute preste d'esclorre, et qui ne paroistra point en public que sous vostre nom, si vous me le permettez, comme je vous en conjure, on verra que si je fais passer cet ESPRIT FOLET sous vostre protection, ce n'est à autre dessein que pour vous prier d'agreer les sumissions d'une personne autant indigne de vous les rendre, que ce Livre l'est de porter en teste vostre nom, que je revere de sorte, que la principale de mes ambitions est de meriter par mes services la qualité,
+
+MADAME, de
+
+Vostre tres-humble et tres-obeïssant serviteur,
+
+D'OUVILLE.
+
+**** *book_ *id_sonnet *date_1642 *creator_ouville
+
+A MONSIEUR D'OUVILLE, SUR SA COMEDIE DE L'ESPRIT FOLET. SONNET.
+
+D'OUVILLE, à quel propos charmes-tu nos esprits ?
+Penses-tu nous surprendre, et nous rendre incapables
+De tout ce que l'on croit de ces corps non palpables,
+Dont les illusions font que l'homme est surpris ?
+
+Bien que le tien, subtil en ses rares escrits,
+Nous veut faire passer des lutins pour des fables,
+J'en veux croire pourtant les rapports veritables
+Dans cét ESPRIT FOLET, de qui je suis épris.
+
+Il emprunte le corps et la forme d'un livre,
+Qui fait voir ton genie, et qui fera revivre
+A jamais ton renom comme il fait aujourd'huy.
+
+Il a des pieds nombreux, on les voit, on les touche,
+Et dans son entretien, bien qu'il n'ait point de bouche,
+Il parle toutefois par l'organe d'autruy.
+
+GUILLEMOT
+
+**** *book_ *id_privilege *date_1642 *creator_ouville
+
+PRIVILEGE DU ROY
+
+LOUIS par la grace de Dieu Roy de France et de Navarre, A nos amez et feaux Conseillers les Gens tenans nos Cours de Parlemens, Maistres des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, et à tous autres de nos Justiciers et officiers qu'il appartiendra, Salut.
+Nostre cher et bien amé TOUSSAINT QUINET, Marchand Libraire de nostre bonne ville de Paris, Nous a fait remonstrer qu'il desiroit faire imprimer une Comedie intitulée L'esprit Folet.
+Ce qu'il ne peut faire sans avoir sur ce nos Lettres, humblement nous requerant icelles : A CES CAUSES, desirant traitter favorablement le dit Exposant, nous luy avons permis et permettons par ces presentes, de faire imprimer, vendre et debiter en tous lieux de nostre obeissance ladite Comedie en telles marges et tels caracteres, et autant de fois que bon luy semblera durant l'espace de cinq ans entiers et accomplis, à compter du jour qu'elle sera achevée d'imprimer pour la premiere fois.
+Et faisons tres-expresses deffences à toutes personnes, de quelque qualité et condition qu'elles soient, de l'imprimer, faire imprimer, vendre ne debiter durant ledit temps en aucun lieu de nostre obeissance sans le consentement de l'Exposant, sous pretexte d'augmentation, correction, changement de titre, fausse marque, ou autre, en quelque sorte et maniere que ce soit,à peine de trois millivresd'amende, payables sans deport, nonobstant depositions ou appellations quelconques par chacun des contrevenans, applicables un tiers à Nous, un tiers à l'Hostel-Dieu de nostre bonne ville de Paris, et l'autre tiers au dit Exposant, confiscation des exemplaires contrefaits, et de tous despens, dommages et interests : A condition qu'il sera mis deux exemplaires en blanc de ladite Comedie en nostre Bibliotheque, et un en celle de nostre cher et feal le sieur Seguier, Chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des presentes, du contenu desquelles nous vous mandons que vous fassiez joüir et user pleinement et paisiblement ledit Exposant, et tous ceux qui auront droict de luy, sans qu'il leur soit donné aucun trouble ny empeschement.
+Voulons aussi qu'en mettant au commencement ou à la fin de ladite Comedie un extraict des presentes elles soient tenuës pour deuëment signifiées, et que foy y soit ajoutées, et aux coppies d'icelles collationnées par l'un de nos amez et feaux Conseillers et Secretaires comme à l'original.
+Mandons au premier nostre huissier ou Sergent sur ce requis, de faire pour l'execution des presentes tous exploicts necessaires sans demander autre permission : Car tel est nostre plaisir.
+Nonobstant Clameur de Haro, Chartre Normande, et autres lettres à ce contraires.
+Donné à Paris le vingt-troisiesme jour de Decembre l'an de grace 1641.
+Et de nostre resgne le trentiesme.
+Signé, Par le Poy en son Conseil, DE MONCEAUX.
+
+Achevé d'imprimer pour la premiere fois le dernier jour de janvier 1642.
+
+Les exemplaires ont esté fournis.
+
+**** *book_ *id_body-5-1 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+Oui Paris en effet est l'abregé du monde
+Dans l'enclos de ses murs toute merveille abonde,
+Et je ne l'aurois pas sans doute recognu
+Depuis dix ans entiers que je n'y suis venu.
+Cent palais d'un desert, une cité d'une isle,
+Et deux de ses fauxbourgs enfermez dans la ville.
+Ces fameux changemens que maintenant j'y vois
+Marquent bien la grandeur du plus puissant des rois.
+Cette ville est aussi le sejour ordinaire
+Des plus grands Potentats que le Soleil esclaire ;
+Il n'en voit point de tels dessus nostre horison,
+
+-*who_carrille
+Allons donc chez Lizandre,et cherchons sa maison.
+A quoy tant de discours, Monsieur, je meurs d'envie
+De voir ce cher amy qui chez luy vous convie ;
+Que je suis aujourd'huy favorisé du sort,
+Nous y ferons grand chere, ou je me trompe fort .
+Depeschons-nous.
+
+-*who_florestan
+Lizandre est un homme qui m'ayme,
+Je le sçais de certain à l'égal de luy-mesme,
+Je n'en sçaurais douter : car cette affection
+Est fondée en effet sur l'obligation⁎,
+Il me loge chez luy, dont il brusle d'envie⁎,
+M'estant sans me vanter obligé⁎ de la vie,
+Sans mille autres biens-faits, dont un homme d'honneur
+Ne se peut souvenir sans lascheté de cœur,
+Et beaucoup moins encor en venir aux reproches :
+Mais à ce que je croy nous en sommes bien proches,
+Demande son logis.
+
+**** *book_ *id_body-5-2 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Si comme je le croy,
+Vous estes Gentil-homme,ayez pitié de moy,
+Estant nay cavalier⁎, vous ne pouvez sans blasme
+Laisser perdre la vie, et l'honneur d'une femme,
+Si vous ne désirez m'ayder d'un prompt secours,
+Je perds l'honneur, et suis à la fin de mes jours.
+Il m'importe, Monsieur, de l'honneur,de la vie,
+Que vous vous opposiez à la jalouse⁎ envie⁎,
+D'un qui me veut cognoistre, et brusle de me voir,
+Je suis morte, autant-vaut, si j'entre en son pouvoir,
+En cette occasion monstrez vostre courage,
+Adieu, je ne puis pas en dire davantage.
+Le voila qui me suit.
+
+-*who_carrille
+Est-ce une illusion ?
+Que pretendez-vous faire en cette occasion ?
+
+-*who_florestan
+Elle veut ce secours, Carrille il luy faut rendre,
+Estant ce que je suis je ne m'en puis deffendre.
+
+-*who_carrille
+Mais pourquoy voulez-vous prendre son interest,
+Sans l'avoir jamais veuë, et sans sçavoir qui c'est ?
+
+-*who_florestan
+Elle est femme, il suffit, cherchons donc je te prie,
+Pour en venir à bout quelque prompte industrie :
+Et si par ce moyen je ne puis l'arrester,
+J'useray de la force.
+
+-*who_carrille
+Il faut donc inventer
+Quelque subtil⁎ moyen, à propos cette lettre
+Nous y pourra servir.
+
+**** *book_ *id_body-5-3 *act_ *date_1642 *creator_ouville
+
+-*who_licidas
+Ouy je la veux cognoistre
+Avant qu'elle m'eschape, et veux sçavoir pourquoy
+Elle fuit ma rencontre, et se cache de moy .
+
+-*who_carrille
+Excusez s'il vous plaist, Monsieur, ma hardiesse,
+Et me dites à qui cette lettre s'adresse,
+De grace, obligez-moy.
+
+-*who_licidas
+Retire-toy maraut.
+
+-*who_florestan
+Ce valet est à moy, ne parlez pas si haut,
+C'est me desobliger, car sans qu'il vous offence
+Vous le traittez trop mal, et mesme en ma presence,
+Et par moy sur le champ en ayant autant fait
+A quelqu'un de vos gens vous seriez satisfait⁎.
+
+-*who_licidas
+De satisfaction⁎ je n'en fis en ma vie,
+Et d'esclaircir aucun, je n'en ay nulle envie,
+Mon courage à ce poinct ne se sousmit jamais,
+Prenez si vous voulez, ou la guerre ou la paix.
+
+-*who_florestan
+Cette guerre par vous qui m'est si tost offerte,
+Monstre que vous voulez advancer votre perte,
+Et si j'avais besoin de satisfaction⁎,
+Je l'aurois bien de vous en cette occasion,
+Et vous guerirois bien de cette frenesie :
+Mais si je trouve en vous si peu de courtoisie,
+Que tout homme de Cour, que je croy, doit sçavoir,
+Je vous veux enseigner quel est vostre devoir,
+Marry qu'un estranger vous acquiere la gloire
+De l'apprendre de luy.
+
+-*who_licidas
+C'est trop s'en faire accroire⁎,
+Je puis quand je voudray vous en faire leçon,
+Et lors que je la faits, c'est de cette façon,
+
+-*who_ariste
+As-tu du cœur⁎ ? il faut le faire icy paroistre.
+
+-*who_carrille
+Toubeau, je n'oserois, j'offencerois mon maistre,
+Il me l'a deffendu.
+
+**** *book_ *id_body-5-4 *act_ *date_1642 *creator_ouville
+
+-*who_lizandre
+Que vois-je justes Dieux ?
+Doy-je croire en ce poinct ou desmentir mes yeux ?
+On en veut à mon frere, on l'attaque on l'outrage,
+Allons le secourir, sus mon frere courage,
+Je suis à vous.
+
+-*who_licidas
+Mon frere en voulant m'obliger⁎,
+Vous me desobligez, et voulez m'outrager ;
+C'est me faire un affront signalé que de croire
+Que sans vous je ne puisse emporter la victoire,
+Vous me feriez passer pour un homme sans cœur⁎ ;
+Puis si ce cavalier⁎ a beaucoup de valeur,
+Il n'a jusqu'à present sur moy nul advantage ;
+
+-*who_florestan
+Vous tesmoignez assez quel est vostre courage,
+Cette noble action m'honore tout à fait,
+Mais si vous n'estes pas de tout poinct satisfaict
+Et qu'il vous reste encor quelque scrupule en l'ame
+Je desire envers vous estre exempt de tout blasme,
+Me le faisant sçavoir où bon vous semblera,
+Nous nous rencontrerons .
+
+-*who_licidas
+Tout ce qu'il vous plaira .
+
+-*who_lizandre
+Que vois-je tout de bon ? pourroy-je me mesprendre ?
+Florestan, est-ce vous ?
+
+-*who_florestan
+Est-ce vous cher Lizandre !
+
+-*who_lizandre
+Veille-je,ou si je dors ? Dieux je ne puis penser
+Que mon frere ait jamais eu dessein d'offencer
+Un amy que j'estime à l'esgal de moy-mesme :
+Mon frere,vous devez aymer celuy que j'ayme ;
+Que j'en sçache la cause.
+
+-*who_licidas
+Il est vray qu'en effet,
+Nous nous sommes piquez pour fort peu de sujet,
+Ce valet m'empeschant de poursuivre une affaire,
+Qui m'importoit beaucoup, m'a fait mettre en colere.
+Je l'ay poussé, son maistre à l'instant a voulu
+S'interesser pour luy, ses discours m'ont dépleu,
+J'ay reparti, soudain de parole en parole,
+Nous nous sommes picquez ; mais ce qui me console
+Est que ce Cavalier⁎ accompli de tout point
+Me le pardonnera, ne le cognoissant point.
+
+-*who_florestan
+C'est moy qui veux de vous esperer cette grace,
+J'ay tort, je le confesse, excusez mon audace,
+La faute est à moy seul.
+
+-*who_lizandre
+Il faut tout oublier.
+Mon cher frere, embrassez ce brave Cavalier⁎,
+A qui je doy mon bien, mon honneur et ma vie,
+Secondez je vous prie en ce point mon envie,
+C'est ce cher Florestan, ce n'est pas d'aujourd'huy
+Que vous sçavez les biens que j'ay receus de luy,
+Je vous l'ay dit cent fois, et vous le dis encore.
+
+-*who_florestan
+Pour tesmoigner combien je l'ayme et je l'honore,
+Je veux premier qu'à vous luy rendre ce devoir .
+
+-*who_licidas
+Vostre vertu⁎ , Monsieur, s'est fait assez valoir,
+Sans en cette action me la faire paroistre,
+Oüy par vostre valeur je vous devois cognoistre,
+Mais vous m'excuserez puis que je m'en repens .
+
+-*who_florestan
+Je n'ay que trop connu la vostre à mes despens,
+Car vous m'avez blessé.
+
+-*who_lizandre
+Grands Dieux ! je desepere.
+Quoy ! vous estes blessé ?
+
+-*who_florestan
+La blessure est legere,
+Ce n'est que dans la main .
+
+-*who_licidas
+Monsieur, à deux genoux
+J'en demande pardon.
+
+-*who_florestan
+Ah Dieux ! que faites-vous ?
+
+-*who_lizandre
+Allons icy devant penser vostre blessure.
+
+-*who_florestan
+En entrant dans Paris, Dieux ! quel mauvais augure,
+Qu'il me couste du sang.
+
+-*who_licidas
+Je suis au desespoir,
+Que ce rencontre icy m'empesche de sçavoir
+Quel estoit cet object que je voulois cognoistre.
+
+-*who_carrille
+M'en doutais-je pas bien ? on a payé mon maistre,
+Il le meritoit bien pour avoir imité
+Ce fol de Don Quixote en sa temerité.
+
+**** *book_ *id_body-5-5 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Oste-moy promptement ces habits Isabelle,
+Redonne-moy mon deüil, ah ! fortune⁎ cruelle,
+N'ay-je pas, miserable, encor assez pleuré,
+Mais si mon sort le veut prenons le tout en gré.
+Faut-il m'ensevelir tous les jours toute vive ?
+
+-*who_isabelle
+Depeschez-vous avant que vostre frere arrive,
+S'il a quelque soupçon de vous asseurément
+Vous luy confirmerez avec ce vestement,
+Qu'en l'hostel de Bourgongne il vous a tantost veüe,
+Car quand vous jureriez vous ne seriez point creüe.
+
+-*who_angelique
+N'est-ce pas grand pitié de me voir sans raison
+Tous les jours enfermée au fonds d'une maison,
+Où mesme le Soleil ne m'y peut voir qu'à peine,
+C'est une cruauté certes trop inhumaine,
+Estant vefve j'ay creu me voir en liberté,
+Mais on me traitte avec bien plus d'austerité,
+Je n'avois qu'un mary, maintenant j'ay deux freres,
+Qui plus qu'il ne m'estoit, cent fois me sont severes,
+Inventans tous les jours mille nouveaux tourmens,
+Pour priver mon esprit de tous contentemens .
+Quoy, fais-je une action trop libre et trop hardie
+Si je me plais parfois à voir la Comedie ?
+Qu'on a mise à tel point, pour en pouvoir joüir,
+Que la plus chaste oreille aujourd'huy peut l'oüir ?
+Et si l'on ne veut pas pourtant me le permettre.
+
+-*who_isabelle
+Mais à leurs volontez il faut bien vous sousmettre,
+Et pour vous dire vray, vos freres ont raison
+De vous tenir ainsi recluse à la maison.
+Considerez un peu l'estat auquel vous estes,
+Toutes vos actions aux faux bruits sont sujettes,
+Et c'est avec raison que n'ayant plus d'espoux,
+Ils ne desirent point qu'on murmure de vous,
+Les grands festins, le Cours, le Bal, la Comedie
+Sont lieux suspects pour vous, souffrez que je le die,
+Et vos freres estans jaloux⁎ de leur honneur,
+S'ils vous le permettoient il irait trop du leur .
+Les jeunes vefves sont d'aise aujourd'huy comblées,
+De se voir tous les jours aux grandes assemblées,
+Et rendent leur grand düeil en ce point criminel,
+Qui ne devroit marquer qu'un regret eternel,
+Car on le fait servir pour orner d'avantage
+Par mille ajustemens leur mine et leur visage,
+Elles escoutent tout, et parmy leurs chalans
+Content ceux qu'elles ont acquis pour leurs galans,
+Croyans que c'est l'honneur et la gloire des belles
+De voir plusieurs captifs brusler d'amour pour elles .
+Quoy que vous n'ayez pas ces sottes visions,
+Il en faut toutefois fuir les occasions ;
+Vous n'avez pas sans doute un courage si lasche.
+Mais laissons ce discours qui peut-estre vous fasche,
+Vous ne me parlez point de ce jeune estranger,
+Qui de si bonne grace a sceu vous obliger⁎.
+
+-*who_angelique
+Isabelle, je crois que tu lis dans mon ame.
+
+-*who_isabelle
+Auriez-vous bien pour luy quelque secrette flame ?
+
+-*who_angelique
+Je ne dis pas encor que je l'ayme, mais croy
+Qu'il peut avec le temps gaigner beaucoup sur moy.
+Il est vray qu'il me plaist, mais j'ay peur Isabelle,
+Qu'il n'ait pour mon sujet à l'heure pris querelle,
+Je cognois bien mon frere, il est prompt, et je crains
+Qu'ils n'en soient sur le champ tous deux venus aux mains.
+Mais me voyant pour lors à l'extreme reduite,
+Ainsi que moy toute autre eust manqué de conduite:
+Mais par ta foy, crois-tu qu'il ait sceu l'arrester ?
+
+-*who_isabelle
+Vous mocquez-vous Madame ? en pouvez-vous douter ?
+Vostre frere depuis ne vous a pas suivie.
+
+-*who_angelique
+Je ne veux point celer que je brusle d'envie
+De sçavoir quel il est, et de le voir aussi.
+
+-*who_isabelle
+Madame taisez-vous,vostre frere entre icy.
+
+-*who_angelique
+Ah dieux ! Que j'apprehende, il semble estre en colere.
+
+**** *book_ *id_body-5-6 *act_ *date_1642 *creator_ouville
+
+-*who_licidas
+Que faites-vous ma sœur ?
+
+-*who_angelique
+Mais vous-mesme mon frere ?
+Vous semblez interdit, chagrin et tout deffait,
+Estes-vous en colere ?
+
+-*who_licidas
+Oüy j'y suis en effet.
+
+-*who_isabelle
+Ah Madame, il le sçait.
+
+-*who_angelique
+Grands Dieux ! je suis perdüe,
+Qu'avez-vous donc ?
+
+-*who_licidas
+Je viens de me battre en la ruë.
+
+-*who_angelique
+Vous battre, contre qui ?
+
+-*who_licidas
+Contre un jeune estranger ;
+Et qui pis est encor, qui vient icy loger.
+
+-*who_angelique
+Qui vient icy loger ?
+
+-*who_licidas
+Mon frere nous l'emmeine,
+C'est Florestan, de qui Lizandre estoit en peine,
+Dont nous avons parlé plusieurs fois entre nous.
+
+-*who_angelique
+Mes esprits sont remis. Dieux ! que me dites-vous ?
+Mais quel sujet a fait naistre votre querelle ?
+
+-*who_licidas
+Nous nous sommes battus pour une damoiselle.
+
+-*who_angelique
+Pour une damoiselle ?
+
+-*who_licidas
+Ouy ma sœur
+
+-*who_angelique
+Mais comment ?
+
+-*who_licidas
+Je vous veux tout conter dés le commencement,
+Pour entendre le fait il faut que je vous die,
+Que j'ay voulu tantost oüir la Comedie,
+Pour voir un beau sujet dont on a tant parlé,
+Dont l'excellente intrigue est tres-bien desmeslé,
+Les fourbes d'ARBIRAN, c'est ainsi qu'on l'apelle,
+Cette piece en effet n'est pas beaucoup nouvelle,
+Les vers n'en sont pas forts, je ne suis pas flateur,
+Quoy que je sois pourtant grand amy de l'autheur,
+Mais dans l'oeconomie, il faut que je confesse,
+Qu'il conduit un sujet avecque tant d'adresse,
+Le remplit d'incidents si beaux et si divers,
+Qu'on excuse aisément la foiblesse des vers.
+J'entre dedans l'Hostel avecque mille peines
+Car jamais on a vu les loges aussi pleines,
+Et mille ont pour entrer fait leurs efforts en vain,
+Qu'il a fallu remettre à Dimanche prochain.
+Comme j'estois actif à trouver une place
+J'ay veu chacun tourné pour contempler la grace
+D'une jeune merveille, à ce que l'on m'a dit,
+Car pour moy je n'ay veu d'elle rien que l'habit,
+Car comme j'ay voulu jetter les yeux sur elle
+Pour la voir à mon ayse, aussi-tost la cruelle
+A rabaissé sa coiffe, et comme par mespris
+Donné cette algarade aux cœurs qu'elle avoit pris.
+Moy bruslant de desir de voir ce beau visage,
+A qui cent languissants desja faisoient hommage,
+J'accuse seulement la rigueur de mon sort
+D'estre arrivé trop tard. Mais la voyant d'accord
+Avec plusieurs galands, et de ris et de gestes,
+Par ces muets discours j'ay bien compris le reste,
+Car deslors j'ay cognu⁎ que pour moy seulement
+Elle voulait cacher ce visage charmant.
+Lors j'ay creu, comme un autre eust creu la mesme chose,
+Qu'elle me cognoissait, et que c'estoit la cause
+Qui pouvoit l'obliger à se cacher ainsi,
+Ce qui m'a fait resoudre à m'en voir esclaircy,
+Je sors tout le premier pour l'attendre à la porte,
+Elle s'en aperçoit, et me previent de sorte,
+Qu'encor que je m'efforce à prendre le devant
+Elle descend aussi plus vite que le vent,
+Je la voy devant moy, je tasche, je m'efforce
+De la suivre à grands pas, et l'atteindre par force,
+Car la peur qu'elle avoit d'entrer en mon pouvoir
+M'augmentoit cent fois plus le desir de la voir :
+Sur ce point un maraut qui vient pour me distraire,
+Me presente un escrit qui me met en colere,
+J'ay veu qu'il le faisoit expres pour m'arrester,
+Et que je n'avois point de sujet d'en douter,
+Car comme elle avoit peur de se faire cognoistre⁎,
+Je l'avois veüe avant parler avec son maistre,
+Ce qui me l'a fait lors traitter si rudement,
+Que son maistre ayant eu quelque ressentiment,
+M'a parlé de façon en prenant sa defense,
+Que je n'ay pû du tout souffrir son arrogance,
+J'ay mis l'espée au poing, l'autre s'est defendu,
+Mon frere sur le lieu soudain s'estant rendu,
+A cognu⁎ son Amy. Quoy qu'il ait du courage,
+Du combat cependant j'ai eu quelque avantage.
+Je l'ay blessé.
+
+-*who_angelique
+Blessé, bons Dieux ! je n'en puis plus,
+Soustenez-moy, je meurs.
+
+-*who_licidas
+J'ay les sens tous confus :
+Mais d'où vient que son mal jusqu'à ce point vous touche ?
+
+-*who_angelique
+Ah grands Dieux ! ma douleur m'a trahy par ma bouche .
+Quoy, jusques à ce point dois-je pas m'attrister,
+Si le coup est mortel, qu'il vous faille absenter ?
+
+-*who_licidas
+Non, non, ne craignez rien, sa blessure est legere,
+Ce n'est que dans la main.
+
+-*who_angelique
+J'apprehendois mon frere,
+Je respire à ce coup, et mes sens sont remis.
+
+-*who_licidas
+Nous sommes toutefois demeurez bons amis.
+
+-*who_angelique
+Je m'en resjouis fort, que je hay cette infame,
+Cause de tout le mal, ah ! la meschante femme,
+Qui vous a pensé mettre en un si grand danger,
+Elle ne vous fuyoit que pour vous obliger,
+Sans qu'elle vous cognust, de courir apres elle,
+Et je gagerois bien qu'elle n'est point si belle.
+Croyez si c'eust esté quelque rare beauté,
+Qu'elle vous eust surpris par un œil affeté⁎,
+Elle vous l'eust fait voir ; Dieux ! que c'est chose aisée,
+De decevoir⁎ vos sens pour peu qu'on soit rusée,
+Vous vous laissez gagner par un geste en effet,
+Et par le faux rapport que l'on vous en a fait .
+Ne vous laissez jamais tromper à l'apparence,
+Le vice prend souvent le masque d'innocence,
+Et par de faux attraits telle femme vous plaist
+Qui bien souvent n'est rien de ce qu'elle paroist.
+Mon frere quittez là ces jeunes affetées⁎,
+Qui n'ont point d'autre but que d'estre muguetées,
+Et qui ne pensent point qu'on les puisse obliger⁎
+Sans mettre un honneste homme en evident danger,
+Pensans bien mieux valoir, lors que pour l'amour d'elles
+Des hommes de merite embrassent cent querelles.
+
+-*who_licidas
+Brisons-là, ne disons jamais du mal d'autruy,
+A quoy vous estes-vous divertie aujourd'huy ?
+
+-*who_angelique
+Aux occupations qui me sont ordinaires,
+A pleurer tout le jour l'excez de mes miseres,
+Me le demandez-vous ?
+
+-*who_licidas
+Ma sœur vous avez tort,
+Vos pleurs ne peuvent pas faire revivre un mort,
+Aux plus ardans soupirs, laissez la porte ouverte
+Ils ne vous feront pas recouvrer vostre perte ;
+Mais adieu je vous laisse.
+
+-*who_angelique
+En quel appartement
+Logez-vous Florestan ?
+
+-*who_licidas
+Pour plus commodément
+Le loger, sans qu'il soit mesme veu de personne,
+Et qu'il puisse y venir à toute heure, on luy donne
+Le quartier de derriere, où mon frere a logé,
+Ayant la clef il n'est à personne obligé⁎ ;
+Car dans sa chambre il faut,et qu'il entre et qu'il sorte
+Et par une autre ruë et par une autre porte,
+Ainsi chez nous il semble estre en autre maison
+On l'a fait pour cela.
+
+-*who_angelique
+Vous avez eu raison.
+Mais bien loing d'estre encor contre luy en colere,
+Il vous faut estre amis, aimez-le mon cher frere,
+Vous desobligeriez mon frere asseurément
+Si vous aviez dessein d'en user autrement.
+
+-*who_licidas
+Bien, je m'en vay le voir.
+
+**** *book_ *id_body-5-7 *act_ *date_1642 *creator_ouville
+
+-*who_isabelle
+Qu'en dites-vous, Madame ?
+Celuy que vous aymez d'une secrette flame,
+Ce gentil Estranger, ce galand incognu,
+Celuy qui vostre honneur a si bien maintenu,
+Qui genereux pour vous a hazardé⁎ sa vie,
+Qu'on a blessé pour vous, que vous brusliez d'envie
+De voir et de cognoistre, il est logé chez vous,
+Et vous le pouvez voir en dépit des jaloux⁎.
+
+-*who_angelique
+Ce cas est bien estrange, et s'il ne m'est visible
+A peine le croiré-je, il est presque impossible,
+(Et l'esprit le mieux fait s'y trouveroit surpris)
+Qu'un estranger rencontre arrivant à Paris
+Une femme en passant qui d'abord le convie
+De luy vouloir sauver et l'honneur et la vie,
+Se voir en mesme temps par son frere blessé,
+Arriver l'autre frere, et s'en voir caressé,
+Luy donner son logis, les accorder ensemble,
+C'est un fait qui n'est pas croyable ce me semble.
+
+-*who_isabelle
+Pourquoy ne l'est-il pas ?
+
+-*who_angelique
+Ce sont des accidens
+Qui merveilleusement me surprennent les sens,
+Je n'ose seulement esperer cette gloire,
+Et je pense en effet qu'on me le fait acroire⁎.
+
+-*who_isabelle
+Il m'est assez aisé de vous le faire voir.
+
+-*who_angelique
+Ah ! ma chere Isabelle aurois-tu ce pouvoir ?
+Comment pourrois-je voir de ma chambre en la sienne,
+Veu qu'elle est tellement distante de la mienne .
+
+-*who_isabelle
+Laissez-m'en le soucy⁎ par une invention
+Je viendray bien à bout de vostre intention.
+Je cognoy un endroit prés de la galerie
+Qui respond à sa chambre, où la tapisserie
+Que l'on voit par dedans ne couvre que des ais
+Qui font une cloison, qu'on a fait tout exprés,
+Pour pouvoir pratiquer un lieu propre pour faire
+Un cabinet qui lors nous estoit necessaire.
+Or de cette cloison il est tres à propos
+De destacher deux ais, et dessus deux pivots,
+Et par haut et par bas, faire tourner de sorte
+Ces deux ais entr'ouvers qu'ils nous servent de porte.
+Par là nous pourrons bien entrer fort aisément,
+Sans qu'on s'en apperçoive, en son appartement.
+Ces ais estans rejoints, et fermez par derriere,
+Qui ne jugera pas la cloison estre entiere ?
+Un menuisier pourra mesme dans un moment
+Accomoder ces ais.
+
+-*who_angelique
+Allons donc promptement,
+Et sans plus consulter executer la chose,
+J'approuve cet advis que ton esprit propose,
+Va donner ordre à tout, car je desire avoir
+Ce divertissement, et mesme dés ce soir.
+Mais mandons ma cousine, il est bon ce me semble,
+Que nous ayons ce soir ce passe-temps ensemble,
+Faisons-luy donc sçavoir, sans luy dire pourquoy,
+Qu'elle vienne soupper et coucher avec moy.
+
+-*who_isabelle
+Mais tout de bon Madame ?
+
+-*who_angelique
+Oüy j'en veux voir l'issuë.
+
+-*who_isabelle
+Vous entrerez chez luy ?
+
+-*who_angelique
+M'y voilà resoluë.
+Je veux voir si c'est luy, car si c'est l'estranger
+Qui de si bonne grace a voulu m'obliger⁎,
+Qui me voyant tantost d'un jaloux⁎ poursuivie,
+Pour moy si librement a hazardé sa vie,
+Qui s'est monstré vers moy si courtois et si franc,
+Qui n'a pas épargné mesme jusqu'à son sang,
+Qui m'a gaigné le cœur, et de si bonne grace,
+Isabelle il n'est rien pour luy que je ne face.
+
+-*who_isabelle
+J'y songerois devant, car en cette action,
+Quelle preuve avez-vous de sa discretion ?
+Ne nous fions jamais aux Amours passageres,
+S'il s'en alloit vanter, et le dire à vos freres ?
+
+-*who_angelique
+Il ne le fera pas quand je luy defendray,
+J'en suis tres-asseurée, il ne peut estre vray
+Qu'un homme genereux⁎, qui pour mon advantage
+A mesme à ses despens signalé son courage,
+Par cette lascheté desmentit aujourd'huy
+Les rares qualitez qui se trouvent en luy.
+Fin du premier Acte.
+
+**** *book_ *id_body-6-1 *act_ *date_1642 *creator_ouville
+
+-*who_lizandre
+Si le courage⁎ est grand, la maison est estrette,
+Pour vous bien recevoir comme je le souhaite.
+
+-*who_florestan
+Je ne merite point tant de civilitez.
+
+-*who_lizandre
+Vous n'estes pas receu comme vous meritez,
+Mais selon mon devoir et selon mon envie,
+Je ne le pourrois pas quand j'y mettrois la vie.
+Mais laissons ce discours, et sans vous amuser
+A tant de complimens, allez vous reposer,
+Le lict pour vostre mal vous est fort necessaire.
+
+-*who_florestan
+Le mal n'est pas si grand pour en faire un mystere,
+Comment, cela vaut-il seulement en parler ?
+
+-*who_lizandre
+En vain on me voudroit desormais consoler,
+Si vous aviez sujet de me faire un reproche
+D'estre en peril, blessé par un qui m'est si proche.
+
+-*who_florestan
+Lizandre, vostre frere est un homme de cœur⁎,
+Je veux doresnavant estre son serviteur,
+Et l'honorer bien fort, sa vertu⁎ m'y convie.
+
+**** *book_ *id_body-6-2 *act_ *date_1642 *creator_ouville
+
+-*who_licidas
+C'est moy qui dois pour vous mettre cent fois la vie.
+Voilà ce fer, Monsieur, qui fut si malheureux
+D'avoir osé blesser un bras si genereux⁎,
+Je banny de chez moy cette insolente espée,
+Qui ne sera jamais par mon bras occupée,
+Ainsi qu'un serviteur qui m'a desobligé,
+L'infame je la chasse, et luy donne congé,
+Je la mets à vos pieds.
+
+-*who_florestan
+Puis-je sans jalousie⁎
+Voir qu'encor vous vueilliez me vaincre en courtoisie ?
+C'est trop, contentez-vous ; puis que je recognoy
+Qu'au combat vous l'avez emporté dessus moy,
+Je l'accepte pourtant, sans vous en faire excuse,
+Un si rare present jamais ne se refuse.
+Ce fer venant de vous, fera qu'en bataillant,
+J'apprendray desormais à devenir vaillant,
+Je ne m'en deferay pour quoy qui me survienne,
+Mais daignez s'il vous plaist vous servir de la mienne.
+
+-*who_licidas
+J'accepte de bon cœur si vous le desirez,
+Ce gage d'amitié duquel vous m'honorez,
+Quoy que facilement chacun puisse cognoistre⁎
+Qu'elle perdra beaucoup ayant changé de maistre.
+
+-*who_lizandre
+Laissons ces compliments qui sont hors de saison.
+
+**** *book_ *id_body-6-3 *act_ *date_1642 *creator_ouville
+
+-*who_carrille
+Au diable mille fois je donne la maison,
+Avec ceux qui m'ont fait esgarer par la ruë,
+J'ay esté deux heures planté comme une gruë
+A chercher le logis, et sans mentir je croy
+Que ces fils de putains se mocquoient tous de moy,
+L'un m'envoyoit en haut, l'autre en bas, il n'importe
+Je l'ay trouvé sans eux, le diable les emporte,
+Ils se rioient de moy, mais moy d'eux je me ris.
+Quoy c'est icy ce lieu qu'on appelle Paris,
+Dont on fait tant d'estat, ah ! grands Dieux j'en enrage,
+Je fais plus mille fois cas de nostre vilage,
+On y sçait en une heure autant comme en un jour,
+Car tous les chemins vont aboutir au carfour.
+
+-*who_licidas
+Ce valet est plaisant.
+
+-*who_florestan
+Tu prens trop de licence,
+Maraut, va bouffonner ailleurs qu'en ma presence.
+
+-*who_lizandre
+Laissez-le.
+
+-*who_florestan
+Tes discours sont un peu bien hardis.
+
+-*who_carrille
+J'avois leu que Paris estoit un paradis,
+Mais je croy qu'on dit vray, ce n'est pas chose estrange
+Qu'on nomme Paradis où l'on ne boit ne mange,
+Sçachez que je croiray mon livre une autre fois.
+
+-*who_licidas
+Tu sçais lire, et partant si tantost tu disois
+Que tu ne pouvois pas, c'estoit une imposture .
+
+-*who_carrille
+Je ly bien le moûlé, mais non pas l'escriture.
+
+-*who_florestan
+Il a bien réparé, je hay les froids⁎ bouffons.
+
+-*who_carrille
+Aux plus fins du mestier j'en feray des leçons,
+Laissez-y moy penser, et je vous feray dire
+Que vous n'eustes jamais un tel sujet de rire.
+
+-*who_lizandre
+Monsieur, voilà la clef de vostre appartement,
+Je vous ay mis icy pour pouvoir librement
+Entrer quand vous voudrez sans qu'on vous divertisse.
+
+-*who_florestan
+Quand pourray-je jamais payer ce bon office ?
+
+-*who_lizandre
+Si vous ne voulez pas si tost vous mettre au lit
+Pour tascher d'acquerir un peu plus d'appetit,
+Puis que vous estimez si peu vostre blesseure
+Allons nous promener il est encor bonne heure,
+Si nous allons au Cours quelque rare beauté
+Vous pourra dans Paris ravir la liberté.
+
+-*who_florestan
+Allons, je le veux bien, c'est ce que je desire.
+
+-*who_lizandre
+Descend là-bas Ariste, et va promptement dire
+Que le carroce vienne, et qu'on nous tienne prest
+Le soupé dans une heure.
+
+-*who_florestan
+Allons puis qu'il vous plaist.
+Carrille escoute un mot.
+
+-*who_carrille
+Bien Monsieur sans remise.
+
+**** *book_ *id_body-6-4 *act_ *date_1642 *creator_ouville
+
+-*who_carrille
+Or ça revisitons un peu nostre valize,
+Voicy ma bourse, il faut que je voye à la fin
+Combien j'ay pu gaigner en tout nostre chemin.
+Quelle commodité que de ferrer la mule,
+Si je ne l'avois fait je serois ridicule,
+On peut plus librement voler qu'à la maison,
+Je n'ay qu'à dire : « on conte icy hors de raison,
+Je n'ay jamais rien veu de plus opiniastre,
+L'hostesse des trois Rois n'a rien voulu rabattre,
+Elle est toute en un mot », et quand je suis party
+Qui me peut soutenir au nez que j'ay menti ?
+Contons, mais qui pourroit m'avoir pris quelque chose ?
+Ma bourse est pleine, et puis ma valise estoit close,
+En voyageant ainsi je pourrois m'enrichir,
+Mais prenons notre linge et le portons blanchir.
+Pourquoy rien refermer, laissons tout de la sorte,
+J'ay la clef, c'est à faire à bien fermer la porte.
+
+**** *book_ *id_body-6-5 *act_ *date_1642 *creator_ouville
+
+-*who_isabelle
+Madame, tout à l'heure on me vient d'advertir
+Que vos freres et luy ne font que de sortir.
+
+-*who_angelique
+Tout est-il prest ? entrons, je meurs d'impatience
+De voir de ton dessein la prompte experience.
+
+-*who_isabelle
+Qu'en dites-vous Madame ? est-il rien plus aisé ?
+L'esprit le plus subtil et le plus advisé
+Pourroit-il descouvrir jamais cette finesse ?
+
+-*who_angelique
+Je ne sçaurois assez admirer ton adresse.
+
+-*who_isabelle
+Laissez-moy repasser, et je vous feray voir
+Comme on ne s'en sçauroit jamais apercevoir,
+Quand mesme on defferoit cette tapisserie
+On peut entrer soudain dans cette galerie
+Si quelqu'un survenoit, et la fermer ainsi,
+Poussez.
+
+-*who_angelique
+Je n'en suis plus maintenant en soucy,
+Il n'est rien de plus clair, la preuve en est certaine,
+Et je n'ay pas de peur que l'on nous y surprenne.
+
+-*who_isabelle
+Mais encor dites moy quel est vostre dessein ?
+Quoy Madame aurions-nous pris tant de peine en vain ?
+Quel fruit pretendez-vous tirer, ou quelle joye,
+Si vous ne voulez pas le voir ny qu'il vous voye ?
+
+-*who_angelique
+Si je puis découvrir que nostre Hoste est celuy
+Qui m'a par sa valeur secouruë aujourd'huy,
+Estant blessé pour moy, dois-je pas Isabelle
+Par mes soins procurer qu'il cognoisse mon zele,
+Et m'informer aussi comme va sa santé ?
+C'est le moins que je doy. Mais qui m'a transporté
+Mon cabinet icy ?
+
+-*who_isabelle
+Madame, vostre frere
+S'est tantost contre moy quasi mis en colere,
+Car je ne voulois pas en effect qu'on l'hostat,
+Il l'a voulu par force, et que l'on apportast
+Des plumes, du papier, de l'ancre, une escritoire
+Et des livres aussi qui sont dans cette armoire
+En grande quantité ; c'est pour le divertir.
+
+-*who_angelique
+A ce conte il n'est pas si tost prest à partir,
+Courage tout va bien, grand Dieu tu favorises
+Aujourd'huy mes desseins. Voilà ses deux valises.
+
+-*who_isabelle
+Ouy Madame, elles sont ouvertes, et pouvons
+Visiter ce qu'il a.
+
+-*who_angelique
+Je le veux bien, voyons
+Comme il est curieux⁎ dans les hardes⁎ qu'il porte.
+
+-*who_isabelle
+Mais s'il s'en aperçoit ?
+
+-*who_angelique
+Tire tout il n'importe.
+
+-*who_angelique
+Qu'est-ce là que tu tiens ?
+
+-*who_isabelle
+Un bel habit d'esté.
+Qu'il est riche et superbe, ah quelle propreté !
+Madame peut-on voir de plus belles chemises ?
+Pour moy je ne crois pas qu'il les ait jamais mises ;
+Quelle belle dentelle, et quel beau point-couppé,
+Mais qu'est-ce que cela qu'il tient enveloppé
+Dans ce papier broüillart.
+
+-*who_angelique
+Attend que je le voye.
+Ce sont de beaux rubans, avec deux bas de soye.
+
+-*who_isabelle
+Ouvrons ce cuir, je sens quelque chose dedans,
+Cela ressemble aux fers d'un arracheur de dents.
+Que fait-il de cela ? Dieux que je suis surprise.
+
+-*who_angelique
+A-t'-on jamais parlé d'une telle sottise ?
+Vois-tu pas que ceux-cy servent pour le raser,
+Ceux-là pour la moustache, et ceux-cy pour friser.
+
+-*who_isabelle
+Voicy deux oreillers de satin amaranthe.
+
+-*who_angelique
+Ce sont coussins d'odeur, ah ! qu'elle est excellente.
+
+-*who_isabelle
+Ce sont icy des gands, des mouchoirs, des colets,
+Des mules de velours, et deux beaux bracelets.
+Des peignes, un miroir, ah la belle toillette,
+Mais que peut-il garder fermé dans cette boëtte ?
+
+-*who_angelique
+Ouvre, c'est de l'Iris pour poudrer les cheveux.
+
+-*who_isabelle
+En verité Madame il est fort curieux⁎,
+Voicy force papiers.
+
+-*who_angelique
+Monstre.
+
+-*who_isabelle
+Tenez Madame.
+
+-*who_angelique
+Dieux ! qu'est-ce que je voy ? ce sont lettres de femme
+Qui luy parlent d'amour, je veux voir leur secret,
+Desployons-les. Ah Dieux ! quel excellent portrait !
+Isabelle voy-le, je crois que la nature
+A mis tous ses tresors dedans cette peinture,
+Et si l'original pouvoit estre aussi beau,
+
+-*who_isabelle
+Sans doute vous seriez jalouse du tableau.
+
+-*who_angelique
+Tay toy, ces sots discours me mettent en colere,
+Va , ne tire plus rien.
+
+-*who_isabelle
+Que pretendez-vous faire ?
+
+-*who_angelique
+Puis qu'icy j'ay de quoy, je veux à ce galand
+Escrire un mot de lettre.
+
+-*who_isabelle
+Et pour moy cependant
+Je veux revisiter icy cette autre male,
+C'est celle du valet, voicy du linge sale,
+Quels infames haillons, mais quel est ce livret,
+C'est l'Almanach de l'an mil six cens vingt et sept,
+Des brosses, une estrille, un pair de décrotoire,
+Un bonnet gras sans coiffe, un paquet de lardoires,
+Deux gands despairiés, un grand chanteau de pain,
+Un morceau de fromage, ah ! le sale vilain,
+Des tenailles, des clous, un marteau, des mouchettes,
+Du savon, un fusil, un pacquet d'allumettes,
+Des cartes, des cornets, des dez, un chausse-pié,
+Un peigne gras encor rompu par la moitié,
+Voicy sa bource, il faut maintenant que je voye
+Combien il a d'argent, voicy de la monnoye,
+Des doubles et des sols, et quelques quarts d'escus,
+Courage il ne faut point consulter là-dessus,
+Prenons-les et mettons des charbons à la place,
+Il deviendra tantost aussi froid qu'une glace,
+Et se verra sans doute en estrange soucy.
+
+-*who_angelique
+Ma lettre est faite , il faut que je la laisse icy,
+Raccomode le tout, rajuste ces valizes.
+
+-*who_isabelle
+J'entens ouvrir la porte, ah Dieux nous sommes prises,
+Sauvons-nous promptement.
+
+-*who_angelique
+Laisse tout comme il est,
+Je mets ma lettre là.
+
+**** *book_ *id_body-6-6 *act_ *date_1642 *creator_ouville
+
+-*who_carrille
+Bon, mon fait est tout prest,
+Que veut dire cela ? qui m'a fait ce mesnage,
+Qui nous a mis ainsi nos hardes au pillage ?
+En fait-on un encan ? Dieux je tremble de peur,
+Seroit-ce quelque diable, ou bien quelque enchanteur ?
+Personne ne respond, j'ay bien peur pour ma bourse,
+Si mon argent est pris où sera ma resource ?
+Allons-y voir, j'en tremble, ah Dieux c'est tout de bon,
+Ce diable a transformé mon argent en charbon,
+Autre que luy n'eust peu me traiter de la sorte,
+Personne n'est entré, j'ay la clef de la porte :
+Esprit change en charbon l'argent qui vient de toy,
+Mais celuy que je vole à mon maistre pourquoy ?
+Voilà ce que nous sert un trafic illicite,
+Et comment un argent mal acquis nous profite.
+Qui me peut maintenant r'asseurer les esprits ?
+Je suis icy tout seul, sans doute je suis pris,
+A l'ayde mes amis, au secours de Carrille,
+Empeschez que le diable à present ne l'estrille,
+Il est en son pouvoir.
+
+**** *book_ *id_body-6-7 *act_ *date_1642 *creator_ouville
+
+-*who_licidas
+Dy, qui te fait crier ?
+
+-*who_carrille
+Il ne m'a pas laissé Messieurs un seul denier.
+
+-*who_florestan
+Parle, t'a-t-on battu, t'as-t-on fait quelque injure ?
+
+-*who_carrille
+Vous ne croirez jamais cette estrange adventure.
+
+-*who_lizandre
+Dy-le donc, qui t'empesche à present de parler ?
+
+-*who_carrille
+Pourquoy vous forcez-vous à le dissimuler ?
+Si l'on me voit icy transporté de la sorte,
+Vous en sçavez la cause, ou le diable m'emporte,
+Si vous gardez ceans pour nous prendre au filet,
+Un diable familier, ou quelque Esprit folet⁎,
+Pourquoy nous avez-vous, Monsieur, à la malheure
+Donné pour logement cette estrange demeure ?
+
+-*who_lizandre
+Es-tu fou ? parles-tu de bon, ou si tu ris.
+
+-*who_carrille
+Je n'ay point beu depuis que je suis à Paris,
+Non, non, je ne ris point, voyez cet équipage,
+L'Esprit dont je vous parle a fait tout ce mesnage,
+Je n'ay fait que sortir à quatre pas d'icy,
+A mon retour j'ay veu tout nostre fait ainsi,
+Je ne ments point, Monsieur, c'est chose veritable.
+
+-*who_lizandre
+Ne te manque-t'il rien ?
+
+-*who_carrille
+Mon argent que ce diable
+M'a pris, ou converty pour le moins en charbon.
+
+-*who_florestan
+Ah ! l'insigne maraut.
+
+-*who_licidas
+O le mauvais bouffon !
+
+-*who_lizandre
+Pour ce froid⁎ entretien as-tu pris tant de peine,
+Sont-ce là ces beaux traits ?
+
+-*who_carrille
+Que le diable m'entraine
+Au plus creux de l'enfer, si je vous ments d'un mot.
+
+-*who_licidas
+O le froid⁎ passe-temps, faites taire ce sot.
+
+-*who_florestan
+Si je prens un baston, avec tes menteries
+Tu conteras ailleurs tes froides⁎ railleries.
+
+-*who_carrille
+Et bien je me tairay Monsieur, puis qu'il vous plaist,
+Mais
+
+-*who_lizandre
+Dedans un moment le souper sera prest,
+On vous advertira, mais n'ayez point d'ombrage
+Que nostre Esprit folet⁎ vous face du dommage,
+J'en demeure garand, Adieu, pour ce garçon
+Faites qu'il estudie un peu mieux sa leçon,
+Il nous feroit pleurer pensant nous faire rire.
+
+-*who_licidas
+Tay toy, tu feras mieux, il te faut interdire
+Le mestier de bouffon si tu t'en veux mesler,
+Au plus chaud de l'esté tu nous ferois geler.
+
+**** *book_ *id_body-6-8 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+Et bien traistre, qui peut souffrir tes impudences,
+Je reçoy mille affronts pour tes impertinences,
+Tu vois qu'en ma presence on se mocque de moy.
+
+-*who_carrille
+Vous ne voulez donc pas me croire sur ma foy ?
+Que sur tous les mal-heurs, mon mal-heur soit extreme,
+Si ce que je vous dy n'est la verité mesme.
+Voudrois-je bouffonner seul à seul avec vous ?
+En entrant j'ay trouvé tout sans dessus-dessous,
+Comme vous le voyez, ce n'est point une fable
+Que ce soit un esprit, ou que ce soit un diable,
+Pour moy je n'en sçay rien.
+
+-*who_florestan
+Tu penses m'abuzer,
+Et reparer ta faute, en voulant t'excuser,
+Fut-il jamais au monde une telle insolence ?
+Regarde ces papiers qui me sont d'importance
+En quel estat ils sont.
+
+-*who_carrille
+Je puisse estre bruslé,
+Je puisse estre à present tout vif escartelé,
+Je puisse voir du ciel la foudre toute preste
+A tomber dessus moy.
+
+-*who_florestan
+Je te rompray la teste
+Si tu contestes plus, insolent, c'est assez.
+
+-*who_carrille
+Vous m'obligerez⁎ fort si vous vous en passez,
+Je ne veux pas mourir, je veux encore vivre,
+Je sçay fort bien pourtant que je ne suis pas yvre.
+
+-*who_florestan
+Laisse-là mes papiers, j'en auray le soucy⁎,
+Rajuste tout le reste. Atten, que voy-je icy ?
+Une lettre fermée.
+
+-*who_carrille
+A qui s'adresse-t'elle ?
+
+-*who_florestan
+A moy d'une façon certes toute nouvelle.
+
+-*who_carrille
+Comment ?
+
+-*who_florestan
+Ne m'ouvrez pas, j'appartiens seulement
+A Florestan, dit-elle.
+
+-*who_carrille
+Et bien asseurément,
+Vous serez à la fin obligé de me croire,
+Avez-vous jamais veu de plus estrange histoire ?
+Ne l'ouvrez pas avant que de la conjurer.
+
+-*who_florestan
+La nouveauté m'estonne, et me fait admirer⁎.
+Mais ce n'est pas la peur, car encor que j'admire⁎,
+Je ne crains rien pourtant. Ouvrons, il la faut lire.
+Lettre
+
+Je suis au desespoir, Florestan, d'avoir mis
+Un homme comme vous en danger de la vie,
+Et que pour mon suject vous ayez eu l'envie
+De combattre la fleur de vos meilleurs amis.
+
+J'ay fait respandre un sang que je dois estimer ;
+Et ce sang ouvrira la source de mes larmes ;
+Mais mon mal cesseroit si j'avois quelques charmes⁎,
+Qui vous peussent un jour obliger à m'aymer.
+
+Excusez cét effect de mes legeretez,
+Vous ne vous plaindrés poinct de m'avoir obligée⁎,
+Et de mon desplaisir je seray soulagée
+En me faisant sçavoir comme vous vous portez.
+
+Ayez soin cependant de bien-tost vous guerir,
+Et si vous m'escrivez, obligez⁎ moy de mettre
+Vostre escrit au lieu mesme où sera cette lettre,
+Et je prendray le soin de l'envoyer querir.
+
+Je vous descouvre icy les secrets de mon cœur ;
+Gardez de reveler ce secret à personne ;
+Si l'un de vos amis seulement le soubçonne,
+Je perds en mesme temps et la vie, et l'honneur.
+
+-*who_carrille
+Que dites-vous, Monsieur, de ce miracle icy ?
+
+-*who_florestan
+Mon doute est à present, peu s'en faut esclarcy
+Car on cognoit⁎ assez que cette femme mesme,
+Qui maintenant m'escrit, et qui dit qu'elle m'ayme,
+Est celle qui tantost fuioit de Licidas :
+Estant vray comme il est, pourquoy ne veux-tu pas
+(Car je tiens pour certain que ce soit sa Maitresse,)
+Que pour entrer ceans elle ait assez d'adresse,
+Ou pour par un des siens m'envoyer cet escrit ?
+
+-*who_carrille
+Non je ne puis penser qu'un autre qu'un esprit
+Puisse entrer en ce lieu, la porte estant fermée,
+Ou par un sortilège, il faut qu'il l'ait charmée⁎.
+
+-*who_florestan
+Avant que nous vinssions ?
+
+-*who_carrille
+Vous me feriez damner,
+A ce compte il faudroit qu'elle eut peu deviner
+Que vous deviez avoir sur l'heure une querelle,
+Et que l'on vous devoit blesser pour l'amour d'elle.
+Laissez-moy ces raisons, croyez vostre valet ;
+Cette femme, sans doute, c'est un Esprit folet⁎,
+Nos hardes⁎ en font foy ; c'est pourquoy je me fonde,
+Qu'il faut que ç'ait été quelqu'un de l'autre monde,
+Quel autre eust peu changer mon argent en charbon ?
+
+-*who_florestan
+Mais viençà, dis-tu vray, parles-tu tout de bon ?
+
+-*who_carrille
+Je vous l'ay dit cent fois, en doutez-vous encore ?
+
+-*who_florestan
+Ce fait cache sans doute un secret que j'ignore.
+Tout est-il bien fermé, regarde bien partout ?
+
+-*who_carrille
+Tout est clos comme un œuf, de l'un à l'autre bout.
+En faut-il davantage encor pour vous confondre ?
+Mais que resolvez-vous ?
+
+-*who_florestan
+Je pretends luy respondre,
+Et luy faire paroistre un trait de jugement⁎,
+De n'avoir de sa lettre eu nul estonnement,
+Puis qu'elle doit escrire, avec le temps j'espere
+De pouvoir aisement descouvrir ce mystere.
+
+-*who_carrille
+N'en parlerez-vous point ?
+
+-*who_florestan
+Comment, fausser la foy
+A qui s'est confiée si franchement à moy ?
+J'aymerois mieux mourir.
+
+-*who_carrille
+Vous avez donc envie
+D'offencer Licidas.
+
+-*who_florestan
+Moy, je perdray la vie
+Avant que je consente à cette lascheté,
+Je puis bien contenter ma curiosité,
+Sans envers mon amy paroistre en rien coupable.
+
+-*who_carrille
+S'il faut que cet esprit, ou bien plustost ce diable,
+Entre ceans, en sorte, et se laisse approcher
+Sans qu'on le puisse voir, entendre, ny toucher,
+Que croirez-vous alors ?
+
+-*who_florestan
+Rien d'extraordinaire
+Qu'on ne puisse en effet naturellement faire.
+
+-*who_carrille
+Mais n'est-il point d'esprits ?
+
+-*who_florestan
+D'esprits, c'est le vieux jeu.
+
+-*who_carrille
+De familiers.
+
+-*who_florestan
+Non plus .
+
+-*who_carrille
+De folets⁎ ?
+
+-*who_florestan
+Aussi peu.
+
+-*who_carrille
+De sorciers ?
+
+-*who_florestan
+Point du tout.
+
+-*who_carrille
+De larves au teint blesme ?
+
+-*who_florestan
+Quelle folie, ô Dieux !
+
+-*who_carrille
+Des enchanteurs ?
+
+-*who_florestan
+De mesme.
+
+-*who_carrille
+Des nigromantiens ?
+
+-*who_florestan
+Imaginations.
+
+-*who_carrille
+Des farfadets ?
+
+-*who_florestan
+Ce sont pures impressions.
+
+-*who_carrille
+N'est-ce point une fée ?
+
+-*who_florestan
+O l'estrange chimere !
+
+-*who_carrille
+Ou le moine bouru ?
+
+-*who_florestan
+Maraut, te veux-tu taire ?
+
+-*who_carrille
+Seroit-ce pas une ame en peine ?
+
+-*who_florestan
+Et tu pretends
+Qu'elle me fist l'amour ? as-tu perdu le sens ?
+
+-*who_carrille
+Un succube ?
+
+-*who_florestan
+Es-tu fol ?
+
+-*who_carrille
+Un lutin ?
+
+-*who_florestan
+Ce sont fables.
+
+-*who_carrille
+A ce coup je vous tiens, et n'est-il point de diables ?
+
+-*who_florestan
+Oüy ; mais ils ne sont rien sans un divin pouvoir.
+
+-*who_carrille
+Mais que sera-ce donc ?
+
+-*who_florestan
+Je ne le puis sçavoir,
+Plus je me romps l'esprit sur un sujet si rare,
+Plus mes sens sont confus, et ma raison s'esgare.
+Achevons.
+
+-*who_carrille
+Ce demon,cét esprit enragé
+S'est sauvé de l'enfer sans demander congé,
+Avec son esprit fort mon maistre est heretique,
+De nier les esprits et le pouvoir magique.
+Je croy tout sur ce poinct, jusques aux loups-garoux.
+
+-*who_ariste
+On a servi, Monsieur, on n'attend plus que vous.
+
+-*who_florestan
+Je m'en vay de ce pas, toy prend le soin de mettre
+Cet escrit au lieu mesme ou j'ay trouvé sa lettre,
+Et vien-t-en me servir incontinent apres.
+
+-*who_carrille
+Sans me le commander, je vous suivray de pres ;
+Non n'ayez pas de peur, qu'icy seul je demeure,
+Je veux souper aussi, je m'en vay tout à l'heure.
+Fin du second Acte.
+
+**** *book_ *id_body-7-1 *act_ *date_1642 *creator_ouville
+
+-*who_lucinde
+J'avouë en vérité que vous me surprenez
+Jusques au dernier poinct mes sens sont estonnez,
+Et d'autre que de vous, j'aurois bien peine à croire
+Les divers incidents qui sont en ceste histoire,
+Vous avez par ces ais trouvé subtilement⁎
+Le moyen de passer dans son appartement.
+On n'a jamais parlé d'aventures semblables,
+Et semble qu'en effect vous me contez des fables,
+Qu'il doit estre surpris s'il a veu vostre escrit,
+Sans mentir c'est assez pour luy troubler l'esprit.
+
+-*who_angelique
+Je croy qu'il l'aura veu.
+
+-*who_lucinde
+Je meurs d'impatience,
+Aussi bien comme vous de sçavoir ce qu'il pense,
+Qu'il doit estre surpris !
+
+-*who_angelique
+C'est ce que je pretends,
+Nous le sçaurons bien-tost, et peut-estre est-il temps,
+A present que l'on soupe, allez voir Isabelle,
+S'il aura respondu, mais soyez en cervelle,
+Gardez d'estre surprise, et surtout hastez-vous.
+
+-*who_isabelle
+Il ne faut rien dire.
+
+-*who_angelique
+En fin je me resous,
+Comme je vous ay dit, de le voir, et peut-estre
+Ce sera dés ce soir.
+
+-*who_lucinde
+Et vous faire cognoistre ?
+
+-*who_angelique
+Je m'en garderay bien.
+
+-*who_lucinde
+Dieux ! et comment cela ?
+
+-*who_angelique
+Vous le sçaurez tantost.
+
+-*who_isabelle
+Madame la voilà :
+
+-*who_lucinde
+Comment voilà sa lettre ?
+
+-*who_angelique
+Ah Dieux ! j'en suis ravie,
+Voyons-la promptement, car j'en brusle d'envie.
+Lettre
+
+Ouy, qui que vous soyez, ma belle Damoiselle,
+Je ne sçay si je doy vous appeler ainsy ;
+Je ne vous ay point veuë, et je suis en soucy,
+Si quand je vous verray je vous trouveray telle.
+
+Laissons passer ce mot, n'importe tout que vaille,
+Un chevalier errant est toujours obligé
+De flatter vostre sexe, et se voit engagé
+Pour luy de s'escrimer et d'estoc et de taille.
+
+J'offre pour vous vanger d'employer ma vaillance
+Contre ce fier, felon, et mal-courtois Amant,
+Qui vous retient captive en cet enchantement,
+Et pour vous contre luy, tirer un coup de lance.
+
+S'il est magicien, qu'il enchante⁎ ses armes,
+Oüy de son sort, mon bras sera victorieux,
+Si peut-estre ce n'est celuy de vos beaux yeux,
+Je porte un coutelas à l'espreuve des charmes⁎.
+
+Quand vous l'ordonnerez j'entreray dans la lice,
+Puis que vous me nommez pour vostre Chevalier,
+A ce bras tranche-tout, vous vous pouvez fier,
+J'affronterois le ciel pour vous rendre service.
+
+Faites paroistre icy tous les foudres de guerre,
+Suscitez des titans, des monstres, des geans ;
+Ce bras nerveux les peut pourfendre jusque aux dents,
+Avec l'acier trempé de ce fier cimeterre.
+
+Pour vous du monde entier je ferois la conqueste,
+Mars est-il contre vous, je l'extermineray,
+Le secret vous importe, oüy je le garderay,
+Quand pour vous obeir il iroit de ma teste.
+
+Comme vous meritez, vous serez respectée,
+Soyez fantosme, larve, ou bien ESPRIT FOLET⁎,
+Vous obligez d'avoir honoré d'un poulet,
+Le Chevalier choisi par la Dame enchantée⁎.
+
+-*who_angelique
+Ce style est sans mentir ridicule, et je croy
+Par ce bouffon discours, qu'il se mocque de moy,
+Ce sont en mon endroict d'estranges procedures.
+
+-*who_lucinde
+J'ay veu dans Amadis de telles adventures.
+
+-*who_angelique
+Certes je meurs de honte, et de confusion,
+J'estimois cet escrit plein d'admiration⁎,
+Et qu'il seroit surpris d'une telle industrie,
+Et luy sans s'estonner la prend en raillerie.
+
+-*who_lucinde
+Mais c'est de bonne grace, et fort subtilement,
+Il feint cette adventure, et cét enchantement,
+Il croit avec raison que vous estes charmée⁎ :
+Si vous entrez chez luy la porte estant fermée ;
+Peut-il s'imaginer qu'un autre qu'un esprit,
+Peut sans se laisser voir luy porter un escrit ?
+
+-*who_angelique
+Je ne le celle point, cela me rend confuse.
+
+-*who_lucinde
+Il peut avec le temps descouvrir vostre ruse,
+S'il vous fait espier, peut-il pas en effect,
+Par cent subtils moyens, vous prendre sur le faict ?
+
+-*who_angelique
+Oüy, si je n'estois pas tous les jours en cervelle,
+J'auray des espions toujours en sentinelle,
+Qui ne mancqueront pas de soin pour m'advertir
+Si-tost que dans la rue on les verra sortir,
+S'ils r'entrent par hazard, en nous voyant pressées,
+Encor plus promptement nous serons repassées,
+Non, non, ne doutez pas de cela, je promets
+Qu'ils ne pourront ainsi nous surprendre jamais.
+
+-*who_lucinde
+Mais un homme d'esprit, tel que vous me le faites,
+Peut-il pas descouvrir ces praticques secrettes ?
+Et raffinant un jour sur vos subtilitez⁎,
+S'imaginer par où vous entrez et sortez.
+
+-*who_angelique
+Non, il ne le peut pas ; voulez-vous qu'il devine ?
+Qu'il luy tombe en l'esprit, ou qu'il se l'imagine ?
+
+-*who_lucinde
+Il le peut aysément, pour peu qu'il soit rusé.
+
+-*who_angelique
+A vous qui le sçavez, il semble tres-aysé ;
+Mais pour luy qui l'ignore, encor qu'il soit habile,
+Il trouvera la chose estrange et difficille.
+
+-*who_lucinde
+Posons qu'il ne le puisse et qu'il travaille en vain ;
+Mais encor dites-moy quel est vostre dessein ?
+Que je sçache le but où vostre cœur aspire.
+
+-*who_angelique
+Helas c'est sur ce poinct que je n'ay rien à dire,
+Je confesse mon foible, et vous dy franchement,
+Que je perds de tout poinct icy le jugement⁎,
+Je n'esperois tirer de toutes ces folies
+Qu'un divertissement à mes melancolies ;
+Mais me voyant les sens interdits et confus,
+Je cognoy bien que j'ay quelque chose de plus :
+Car je ne puis nier que j'ay l'ame saisie,
+Et l'esprit agité d'un peu de jalousie,
+D'un beau portraict qu'il garde, et de certains escrits
+Qui m'ont en quelque sorte estonné⁎ les esprits,
+Ne m'estant arrivé rien de tel en ma vie,
+Et si j'avoue aussi que je brusle d'envie
+De le voir cette nuict, et mesme luy parler,
+Jugez chere Cousine où cela peut aller.
+
+-*who_lucinde
+Envers moy voulez-vous estre si rigoureuse ?
+Ne me le celez poinct, vous estes amoureuse.
+Pourquoy dissimuler ce que je cognoy mieux
+Mille fois que vous mesme, et qu'on lit dans vos yeux ?
+Au lieu de vous blasmer, non, non, je vous en louë.
+
+-*who_angelique
+Oüy, vous m'avez surprise, et quasi je l'avouë,
+Si lors qu'on ayme, on a de pareils sentiments ;
+Si je ne dis tout haut que je l'ayme, je ments.
+Mais quoy que j'aye pour luy beaucoup de complaisance
+Cét amour, je vous jure, est bien dans l'innocence :
+Car je mourrois plustost ma Cousine, et me croy,
+Que je fisse jamais rien indigne de moy ;
+Il est temps maintenant, et partant Isabelle
+Va promptement là bas querir de la chandelle,
+Ils sont tous occupés, et je veux à present
+Respondre à son escrit, et luy faire un present
+De cette escharpe icy, d'une façon nouvelle,
+Pour supporter son bras blessé pour ma querelle,
+Avec quelques douceurs ; il ne faut point tarder,
+Ils sortiront bien-tost.Taschez d'accomoder
+Ces hardes⁎ là dedans, afin qu'avant qu'il sorte,
+Et qu'ils soient retirez, Isabelle les porte.
+
+-*who_lucinde
+Disiez-vous pas tantost, qu'on vous a faict sçavoir
+Qu'ils doivent tous ensemble aller au bal ce soir ?
+
+-*who_angelique
+Oüy, je luy veux mander que l'on m'en a priée,
+Qu'il y vienne, et d'autant que je suis espiée,
+Qu'il me pardonnera, si je n'ose pas là
+Me descouvrir à luy.
+
+-*who_lucinde
+Mais à quoy bon cela ?
+Puis que vous sçavez bien que vous ne pouvez faire
+Ce que vous promettez ?
+
+-*who_angelique
+Il est tres necessaire,
+Pour luy troubler encor d'avantage l'esprit,
+Laissez-moy promptement respondre à son escrit.
+
+-*who_lucinde
+Je veux ce qu'il vous plaist ; cependant Isabelle
+Plions bien cette escharpe, ajustons la dentelle,
+Donne moy ce panier, mettons tout proprement.
+
+-*who_isabelle
+Sans doute qu'il sera saisi d'estonnement⁎
+Alors qu'il trouvera ce present sur sa table.
+
+-*who_lucinde
+Qui ne trouveroit pas cette chose admirable⁎ ?
+Couvrons-le maintenant avec ce tafetas.
+
+-*who_isabelle
+Depeschez-vous, Madame, on a souppé là-bas.
+
+-*who_angelique
+C'est faict, mettons encor ma lettre avec ses hardes,
+Depesche toy, va-tost, qu'est-ce que tu regardes ?
+
+-*who_lucinde
+J'aurois un grand desir d'apprendre du destin,
+A quoy reüssira cette histoire à la fin.
+
+**** *book_ *id_body-7-2 *act_ *date_1642 *creator_ouville
+
+-*who_lizandre
+Voulez-vous voir le bal ? vous en prend-il envie ?
+Nous vous y conduirons ; croyez qu'en vostre vie
+Vos sens n'ont point esté tellement enchantez⁎,
+Comme ils seront de voir tant de rares beautez,
+Vous y verrez la Cour, et de long-temps peut-estre
+Personne ne l'a veüe en tel estat paroistre ;
+Mais pourrons-nous de vous cette grace obtenir,
+De nous donner congé de nous en revenir,
+Quand vous serez entré ; car c'est nostre ordinaire
+De nous retirer tost.
+
+-*who_florestan
+Je serois temeraire,
+Si j'avois le dessein de vous incommoder,
+J'irois plustost sans vous.
+
+-*who_lizandre
+Vous y pourrez tarder
+Autant qu'il vous plaira, vous auriez de la peine
+D'entrer en ce lieu là, si l'on ne vous y meine.
+Il faut estre cognu, c'est à vingt pas d'icy,
+Vous reviendrez bien seul.
+
+-*who_florestan
+Laissez-m'en le soucy⁎,
+Aussi bien comme vous je n'y veux pas tant estre ;
+Mais parce qu'en ce lieu je veux un peu paroistre,
+Vous me permettez bien de m'aller ajuster,
+Et de changer d'habit.
+
+-*who_licidas
+Sans vous precipiter,
+Vous avez trop de temps.
+
+-*who_florestan
+Donc sans plus de demeure
+Je vous iray trouver chez vous avant une heure.
+
+**** *book_ *id_body-7-3 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+Carrille, que fais-tu ?
+
+-*who_carrille
+Dieux ! je tremble de peur.
+
+-*who_florestan
+Pourquoy n'es-tu là haut ?
+
+-*who_carrille
+Je n'oserois, Monsieur.
+
+-*who_florestan
+Pour quel sujet, qu'as-tu ?
+
+-*who_carrille
+Dois-je pas avoir crainte
+Que cét Esprit Folet⁎ ne me donne une atteinte ?
+Je crains trop d'esprouver ce que pese sa main.
+
+-*who_florestan
+L'impertinent maraut, tu le fais à dessein
+De faire le plaisant.
+
+-*who_carrille
+Quand on me devroit pendre,
+Faschez-vous-en, ou non, je ne m'en puis deffendre,
+J'y fais ce que je puis, qu'importe si j'ay peur,
+Par menace croit-on me relever le cœur ?
+On ne sçauroit m'oster aysément ces ombrages,
+Non pas quand on devroit me retrancher mes gages,
+J'ayme mieux perdre tout.
+
+-*who_florestan
+Mais voyez ce maraut,
+Allume la chandelle, et la porte là haut,
+Apreste mon habit, le diable te confonde.
+
+-*who_carrille
+Je n'irois pas tout seul, pour tous les biens du monde,
+Ne me l'ordonnez pas, je sçay fort bien pourquoy.
+
+-*who_florestan
+Va, j'y seray, te dis-je, aussi-tost comme toy,
+Va querir un flambeau, je t'attens à la porte.
+
+-*who_carrille
+Ah Dieux ! c'est à ce coup, Monsieur, qu'il nous emporte.
+
+**** *book_ *id_body-7-4 *act_ *date_1642 *creator_ouville
+
+-*who_isabelle
+Je sçay qu'ils sont dehors, on m'en vient d'advertir,
+Mais j'ignore à present par où je dois sortir,
+Ne pouvant remarquer par où je suis entrée,
+Dans cette obscurité je me suis esgarée,
+Que deviendray-je, ô Dieux ? j'en suis fort en soucy,
+Ny mesme où je mettray ce present que voicy ;
+Car je ne puis trouver la porte, ny la table ;
+Juste Ciel, soyez moy maintenant favorable,
+Si quelqu'un survenoit, de quels charmes⁎ grands Dieux,
+Pourrois-je me servir pour ebloüyr ses yeux ?
+Tout seroit descouvert, la chose est infaillible ;
+Car de passer plus outre, il seroit impossible ;
+J'en tremble en y pensant, c'est à ce coup, j'entends
+Qu'on ouvre cette porte, ah ! je perds tous les sens⁎ ;
+Celuy qui l'ouvre encor, porte de la lumiere,
+Que deviendray-je ? il faut me cacher là derriere.
+
+**** *book_ *id_body-7-5 *act_ *date_1642 *creator_ouville
+
+-*who_carrille
+Esprit je te conjure en toute humilité
+(Car tu n'es pas, je croy, de basse qualité)
+Si ta mauvaise humeur icy ne se transporte,
+Si la sumission d'un homme de ma sorte,
+Peut en cét accident quelque chose sur toy,
+Aujourd'huy pour le moins ne songes point à moy,
+Je suis le serviteur, tu n'en veux qu'à mon Maistre.
+
+-*who_isabelle
+La lumiere m'a faict aysément recognoistre.
+
+-*who_carrille
+Aye pitié de moy, tout mal-heur me poursuit,
+Je suis las, laissez-moy reposer cette nuit.
+
+-*who_isabelle
+Je me puis aysément desrober à sa veuë,
+Il ne m'a point encor dans la chambre aperceuë ;
+Joüons luy d'une fourbe, ayons-en le plaisir,
+Tüons luy la chandelle, avant qu'il ait loisir
+De l'aller rallumer, je seray repassée.
+
+-*who_carrille
+Je sens mon ame, ô Dieux ! de cent craintes glacée ;
+Mon Maistre tarde bien, ah ! qu'il est aujourd'huy
+Bien aisé de railler, mesme aux depens d'autruy.
+
+-*who_carrille
+On m'assomme, grands Dieux ! misericorde, à l'ayde,
+Tout de bon, ce Demon à present me possede ;
+Il m'emporte, il m'estrangle, ah Dieux ! j'ay beau prier,
+Invoquant tous les Dieux.
+
+-*who_florestan
+Dy qui te fait crier ?
+Qu'as-tu ?
+
+-*who_carrille
+Monsieur, ils sont tous sourds à ma priere.
+
+-*who_florestan
+T'ay-je pas commandé d'avoir de la lumiere,
+Pourquoy n'en as-tu pas ?
+
+-*who_carrille
+Ah ! cét ESPRIT FOLET⁎
+Nous a tuez tous deux, moy d'un si grand souflet
+Qu'il m'a, fort peu s'en faut, fait cracher la cervelle,
+Et d'un souffle aussi-tost a tué la chandelle.
+
+-*who_florestan
+Comme la peur te fait avoir ces visions.
+
+-*who_carrille
+Ce ne sont pas, Monsieur, imaginations,
+Diable, je ne suis point, tout à fait insensible.
+
+-*who_isabelle
+Maintenant par ces ais, r'entrons s'il est possible.
+
+-*who_florestan
+Qui va là, je la tiens, va promptement là-bas,
+R'allumer ta chandelle.
+
+-*who_carrille
+Ah ! ne le laschez pas.
+
+-*who_isabelle
+Justes Dieux ; c'est bien pis, j'ay rencontré le Maistre.
+
+-*who_florestan
+Qui que tu sois, atten, car si tu fais paroistre
+De vouloir eschaper, je te poignarderay.
+
+-*who_isabelle
+Que deviendray-je, ô Dieux ! qu'est-ce que je feray ?
+Il a pris le panier, je luy laisse, il n'importe,
+Je m'en vay me sauver, j'ay remarqué la porte
+Par où je suis entrée, allons y vitement.
+
+-*who_florestan
+Elle s'est eschapée, et je ne sçay comment.
+Ce n'est point une femme en effect que je touche,
+Que veut dire cela ? vrays Dieux ! plus qu'une souche
+Je demeure immobile, et ne sçay que penser.
+
+-*who_carrille
+Esprit malin, qui croit icy nous traverser,
+Tu n'eschaperas pas.
+
+-*who_florestan
+Aporte la lumiere.
+
+-*who_carrille
+Qu'est-il donc devenu ?
+
+-*who_florestan
+Regarde là derriere,
+Je le tenois tantost ; mais il m'est eschapé.
+
+-*who_carrille
+Aussi bien comme moy vous estes attrapé,
+Et bien qu'en dites-vous ? ne vouliez-vous pas croire
+Que c'estoit une fable, et non pas une histoire ?
+Vous disiez que c'estoient imaginations,
+Que la peur me faisoit avoir ces visions,
+Cela suffit-il pas encor pour vous confondre ?
+Ne le teniez-vous pas ?
+
+-*who_florestan
+Je ne puis que respondre,
+Il me vient de laisser ces hardes⁎ dans les mains,
+Et puis s'est eschapé.
+
+-*who_carrille
+Voyez donc si je crains,
+Que c'est avec raison. Ah ! Monsieur, je vous prie
+Ne vous en mocquez point.
+
+-*who_florestan
+C'est une raillerie,
+De croire que jamais on me puisse charmer⁎.
+
+-*who_carrille
+Mais qu'en croyez-vous donc ?
+
+-*who_florestan
+Il est à presumer,
+Que dis-je à presumer ? sans doute qu'il doit estre
+Que c'est celle qui craint de se faire cognoistre,
+Et qu'un de ses valets m'apportant ses escrits,
+Estoit entré ceans, et se trouvant surpris,
+T' a tué ta chandelle, et traicté de la sorte,
+Et s'est enfuy apres.
+
+-*who_carrille
+Par où ?
+
+-*who_florestan
+Par cette porte.
+
+-*who_carrille
+Vous me feriez mourir, bien mocquez-vous de moy,
+Je l'ay veu, je vous jure, ainsi que je vous voy.
+
+-*who_florestan
+Dy donc comme il est fait ?
+
+-*who_carrille
+Ah ! de crainte j'en tremble,
+Laissez-moy respirer ; il est fait ce me semble
+Comme un coq-d'Inde noir ; mais trente fois plus grand.
+
+-*who_florestan
+Voyez comme la peur saisit cét ignorant.
+Tien, pren.
+
+-*who_carrille
+Moy manier des choses infernales ?
+
+-*who_florestan
+Pren, te dis-je, pendart.
+
+-*who_carrille
+Monsieur, j'ay les mains salles.
+Comme vous le voyez toutes pleines de suif.
+
+-*who_florestan
+Je ne cognu jamais un maraut si craintif,
+Dy moy, de quoy peux-tu jamais estre capable ?
+
+-*who_carrille
+Ce n'est pas pour cela, mettez-le sur la table,
+Vous le verrez bien mieux.
+
+-*who_florestan
+Sus donc puis qu'il te plaist,
+Ostons ce taffetas, et voyons ce que c'est,
+C'est une belle escharpe, et quelques confitures.
+
+-*who_carrille
+A-t'on jamais parlé de telles adventures ?
+
+-*who_florestan
+Et cette lettre icy, voyons ce qu'elle dit.
+Lettre
+
+Je vay ce soir au bal, ne manquez pas d'en estre,
+Recevez cette escharpe, et pour en faire cas,
+Daignez de l'honorer d'un si genereux⁎ bras,
+La portant cette nuit, je vous sçauray cognoistre⁎.
+
+Mais pour moy qui me vois de cent yeux esclairée,
+Pardonner si la peur de faire des jaloux⁎,
+Fait que je ne pourrois me descouvrir à vous,
+Sans courir le hasard d'estre deshonorée.
+
+Qu'un sort injurieux à tous malheurs me livre,
+Si pour aymer je fais jamais un autre chois,
+Et quand je cesseray de reverer vos loix,
+Croyez qu'assurément je cesseray de vivre.
+
+-*who_florestan
+Apporte, donne-moy promptement mon habit,
+Fut-il jamais au monde une telle surprise ?
+
+-*who_carrille
+Croyez-vous aux esprits ?
+
+-*who_florestan
+Ah Dieux, quelle sottise !
+
+-*who_carrille
+Vous en dites autant de tout ce que je fais,
+Vous en voyez vous-mesme arriver tant d'effets,
+Vous voyez un present que par l'air on vous porte,
+Que l'on entre ceans sans passer par la porte,
+Et vous n'en croyez rien ? Mais à ce que je voy
+Tout le bien est pour vous, et tout le mal pour moy.
+
+-*who_florestan
+Comment le mal pour toy ?
+
+-*who_carrille
+Si je voy qu'on renverse
+Nos hardes⁎ en ce lieu, pour en faire un commerce,
+J'ay la peine, et le soin de les raccomoder,
+Vous ne faites que rire, et que me gourmander,
+On vous fait des presens, avec des confitures,
+Moy, l'on me fait jeusner, et n'ay que des injures,
+On ne me donne rien si ce n'est du charbon,
+Si je perds mon argent, on m'appelle bouffon,
+On escrit, on vous flate, on vous esleve en gloire,
+A moy d'un coup de poing on me rompt la maschoire.
+
+-*who_florestan
+Je l'espieray si bien que je la surprendray.
+
+-*who_carrille
+Et vous diray, je gage, encor qu'il n'est pas vray,
+Je n'en veux point avoir de plus grand tesmoignage.
+
+-*who_florestan
+Allons sans discourir en ce lieu davantage.
+
+**** *book_ *id_body-7-6 *act_ *date_1642 *creator_ouville
+
+-*who_isabelle
+Tout comme je vous dis estoit desesperé,
+Mais je l'ay sans mentir plaisamment reparé.
+
+-*who_angelique
+Tu nous contes icy de bien estranges choses,
+Et je doute quasi que tu nous les supposes,
+Je ne puis sans mentir l'imaginer encor,
+Isabelle il est vray, tu vaux ton pesant d'or.
+
+-*who_isabelle
+Si dans les accidens⁎ j'eusse esté moins experte,
+Vostre fourbe⁎ sans doute eust esté descouverte,
+Ce n'a pas toutefois esté sans avoir peur,
+Mais je l'ay fait avoir plus grande au serviteur.
+
+-*who_lucinde
+Le succez en effet en est plus qu'admirable,
+Et rendra cette fourbe⁎ encor plus vray semblable,
+Je voudroy bien sçavoir ce qu'il pense à present,
+De sentir qu'en ses mains on luy mette un present,
+Qu'il reçoive une lettre et qu'il n'ait veu personne,
+Quelque esprit fort qu'il ait il faut qu'il s'en estonne⁎.
+
+-*who_angelique
+Il aura bien sujet d'estre plus interdit
+Quand nous effectuërons ce que nous avons dit.
+
+-*who_lucinde
+Qui ne serait confus se trouvant en sa place ?
+Le fait est tres-subtil⁎, mais grands Dieux quand sera-ce ?
+
+-*who_angelique
+Cette nuit, je n'attends pour luy joüer ce tour,
+Que l'heure et le moment qu'il sera de retour,
+Il ne s'est veu jamais si surpris en sa vie
+Comme il sera tantost.
+
+-*who_lucinde
+Mon ame en est ravie.
+
+-*who_angelique
+Toy si tost qu'un chacun se sera retiré
+Tu sçais bien ce que j'ay tantost deliberé,
+Apreste la lumiere, afin d'aller moy-mesme
+Dans sa chambre querir ce beau portrait qu'il ayme,
+Je ne veux pas qu'un homme à qui je veux du bien,
+Cherisse si je puis d'autre objet que le mien.
+Fin du troisiesme Acte.
+
+**** *book_ *id_body-8-1 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Isabelle m'as-tu preparé la lumiere ?
+Il est temps que je passe à present là derriere,
+Chacun est retiré, je pourray librement
+Aller sans qu'on me voye en son apartement.
+Mais de peur de surprise, ajuste la chandelle
+Dans la lanterne sourde, et sois en sentinelle,
+Je ne l'ouvriray point que je ne sois dedans,
+De crainte que quelqu'un qui peut veiller ceans,
+Descouvre la clarté, vous cousine allez faire
+Ce que vous sçavez bien nous estre necessaire :
+Mais Dieux j'oubliois bien icy le principal,
+De l'advertir qu'il vienne à son retour du bal,
+Il me faut promptement escrire un mot de lettre,
+Il n'y manquera pas, oüy je m'ose promettre
+Qu'il me viendra trouver, où je le manderay.
+
+-*who_lucinde
+Ne doutez point de moy, croyez que je feray
+Mieux que vous ne croyez.
+
+-*who_isabelle
+Et moy je vous proteste⁎
+Que je viendray fort bien à bout de tout le reste.
+
+**** *book_ *id_body-8-2 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+On t'a pris ton flambeau, maraut, je gagerois
+Qu'on te l'a derobé pendant que tu dormois,
+Comment me coucheray-je à present sans chandelle ?
+
+-*who_carrille
+Si vous ne desirez à present que j'appelle
+Quelqu'un dans le logis, vous n'en sçauriez avoir.
+Mais ne sçauriez-vous pas vous coucher sans y voir ?
+Vostre lit est tout prest.
+
+-*who_florestan
+Penses-tu que je vueille
+Faire du bruit ceans, afin que je resveille
+Tout le monde qui dort ? Ouvre donc promptement.
+
+-*who_carrille
+Tout est ouvert Monsieur.
+
+-*who_florestan
+Marche tout doucement,
+Garde en faisant du bruit de resveiller personne,
+Parle bas.
+
+-*who_carrille
+Croyez-moy, de crainte je frissonne,
+Je crains plus que la mort cet Esprit enchanté⁎,
+Que ne nous secourt-il à present de clarté ?
+
+-*who_angelique
+Descouvrons la clarté que je tenois cachée.
+
+-*who_carrille
+Dieux ! de quelle pitié cette dame est touchée,
+Elle vous ayme bien à present je le voy,
+La clarté vient pour vous, et l'on esteint pour moy.
+
+-*who_florestan
+Que veut dire cela ? Dieux que j'en suis en peine,
+Cela ne peut venir d'invention humaine,
+Il est surnaturel qu'on puisse avoir le soin
+De m'apporter ainsi la lumiere au besoin.
+
+-*who_carrille
+N'estes-vous pas contraint de confesser vous-mesme
+Qu'il revient des esprits ?
+
+-*who_florestan
+La surprise est extresme,
+Je ne sçay que penser tant j'ay l'esprit confus.
+
+-*who_carrille
+Mais contesterez-vous encore là dessus ?
+Peut-on desavoüer ce qui nous est visible ?
+
+-*who_florestan
+Je suis quasi forcé de croire un impossible.
+
+**** *book_ *id_body-8-3 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Mettons là la chandelle, et voyons ces escrits.
+
+-*who_florestan
+Carrille, vois-tu bien ? atten, l'esprit est pris
+Parlons bas, vois-tu point cette parfaite Dame,
+Capable d'exciter mille feux dans une ame ?
+Vit-on jamais au monde une telle beauté,
+C'est à ce coup grands Dieux que je suis enchanté⁎.
+Ce prodige m'estonne, et me rend immobile,
+Car d'un Hydre abatu, j'en vois renaistre mille.
+Je suis icy si fort saisi d'estonnement⁎
+Que je manque d'esprit et perd le jugement⁎
+Je suis quasi contraint de te croire, et me taire.
+Elle prend mes papiers, qu'en pretend-elle faire ?
+
+-*who_carrille
+C'est pour les mettre d'ordre, et les arranger mieux,
+Car pour vous cet esprit est fort officieux.
+
+-*who_florestan
+Que de charmes, grands Dieux, les Cieux et la Nature
+Ont mis tous leurs tresors en cette creature,
+On ne voit point au monde une telle beauté,
+Il faut bien que ce soit quelque divinité,
+Qui se fait voir à moy sous ce parfait image.
+
+-*who_carrille
+Si le diable devoit emprunter un visage
+Il eut esté bien sot s'il en eust pris un laid,
+Il est, et me croyez, plus qu'un Esprit folet⁎.
+
+-*who_florestan
+L'esclat de ses yeux brille avec tant de lumiere
+Qu'il esbloüit mes yeux, et sille ma paupiere.
+
+-*who_carrille
+Voyez-vous pas aussi qu'au plus creux de l'Enfer
+Elle a pris cet esclat des yeux de Lucifer ?
+
+-*who_florestan
+Je ne luy puis donner d'assez dignes loüanges
+Et sans doute je croy qu'elle est du rang des Anges.
+
+-*who_carrille
+Ouy, mais du rang de ceux qui sont tombez du Ciel,
+Tout ce que vous voyez n'est qu'artificiel,
+Croyez qu'asseurement vous craindrez ses approches,
+Si vous voyez ses pieds, avec ses ongles croches.
+
+-*who_florestan
+Qu'est devenu ce cœur⁎ que cy-devant j'avois ?
+Je n'ay jamais tremblé que cette seule fois.
+
+-*who_carrille
+La frayeur dans mon cœur⁎ tant de craintes assemble
+Que j'ay toujours tremblé, comme encore je tremble.
+
+-*who_florestan
+Mes cheveux sur mon chef⁎, de crainte herissez
+Me rendent le cœur⁎ lasche, et les sens tous glacez,
+Mais faut-il qu'un soubçon, une idée, un ombrage
+Sans aucun fondement, esbranle mon courage ?
+Il faut voir ce que c'est.
+
+-*who_carrille
+Ne soyez pas si fou
+De vous joüer du Diable, il vous tordroit le cou.
+
+-*who_florestan
+Quoy ? dans mon cœur⁎ la peur pouroit-elle estre empreinte ?
+Non non, resolvons-nous, banissons toute crainte.
+Ombre, Ange, Diable, Esprit, femme, ou qui que tu sois
+Tu n'eschaperas pas de mes mains cette fois.
+
+-*who_angelique
+Je suis surprise, ô Dieux que je suis miserable !
+
+-*who_carrille
+Si tu viens de Dieu parle, et si tu viens du Diable
+Retourne t'en sur l'heure aux Enfers, sans parler.
+
+-*who_florestan
+Que me veux-tu, respons ?
+
+-*who_angelique
+Il faut dissimuler.
+Genereux Florestan, à qui seul la Nature
+Prepare dés long-temps la plus rare adventure
+Qui soit jamais des Cieux arrivée icy bas,
+N'approche point de moy, va ne me touche pas,
+Songe à ce que tu fais, car s'il te prend envie
+De passer plus avant tu perds l'heur de ta vie ;
+Tu verras, que jamais sous la voute des Cieux
+Ne fut homme si fort favorisé des Dieux,
+Une felicité parfaite, et de durée
+Qui t'est par ton destin aujourd'hui preparée
+T'eschapera des mains, croy moy, si tu pretends
+Contre l'arrest du Ciel l'avoir avant le temps.
+Je ne dis rien icy qui ne soit veritable,
+Et pour t'en faire foy regarde sur ta table,
+Je te laisse un escrit pour la derniere fois,
+Consulte là dessus Florestan, et me crois ;
+Je t'escris qu'aujourd'huy je me rendray visible
+A telle heure qu'il est, il est donc infaillible
+Que je ne te mens point si selon ton desir
+Comme tu le peux voir, j'ay desiré choisir
+La plus humaine forme, et la plus raisonnable
+Que j'ay peu pour me rendre à tes yeux agreable.
+Ne preten rien de moy que ce que je voudray,
+Et croy que de tout point je te satisferay
+Si tu sçais observer l'ordre que je te donne,
+Mais pren garde sur tout de le dire à personne,
+Et croy que tu seras mal-heureux à jamais
+Si tu ne te resous de me laisser en paix.
+
+-*who_carrille
+Puis qu'elle la demande ainsi par courtoisie
+Contentez sur ce poinct, Monsieur, sa fantaisie ;
+Accordez luy la paix.
+
+-*who_florestan
+Je ne crains rien icy
+Avant qu'elle m'eschape il faut estre esclaircy.
+Je veux presentement que tu me satisfasses,
+Parle donc, je me ris de toutes tes menaces,
+Je rougis seulement de honte que mon cœur⁎
+Ait en cet accident tesmoigné d'avoir peur.
+Si j'en suis venu là, je te jure et proteste⁎,
+De ne te point quitter sans sçavoir ce qui reste.
+Quand je devrois tout perdre, et tout mettre au hazard,
+Femme donc, car tu l'es, respons-moy par quel art
+Par quel subtil⁎ moyen, que jusqu'icy j'ignore
+Entres-tu dans ma chambre, et quel dessein encore
+As-tu quand tu m'escrits ? dy qui te peut mouvoir ?
+Car je jure les Dieux que je le veux sçavoir,
+Je l'ay presentement, sans vouloir plus attendre,
+Et le souverain bien où tu me fais pretendre,
+Je l'auray tout à l'heure, ou bien je le perdray
+Je n'apprehende rien, croy que j'en joüiray
+Si je tiens un Demon par le moyen du Diable,
+Ou s'il faut que tu sois, comme il est plus croyable
+Une femme mortelle, il faut presentement
+Qu'une femme m'esclaire en cet aveuglement,
+Quoy que je sçache bien, ayant un corps visible
+Qui se laisse toucher, que c'est chose infaillible
+Que tu n'es qu'une femme, et non pas un Demon.
+
+-*who_carrille
+J'en donnerois, Monsieur, le choix pour un teston.
+Pour moy je croy que c'est presqu'une mesme chose.
+
+-*who_angelique
+Garde de transgresser la loy que je t'impose
+Fay ce que je te dis, et ne me touche pas
+Car s'il t'arrive encor tu t'en repentiras.
+
+-*who_carrille
+Peut-estre elle est, Monsieur, fragile comme verre
+Et puis n'estant ny luth, ny harpe, ny guiterre
+Que sert de la toucher ?
+
+-*who_florestan
+En cette extremité
+J'en puis bien aisement sçavoir la verité
+Ce fer m'esclaircira bien-tost de cette affaire,
+Car estant un esprit je ne te puis mal-faire,
+Et pourras eviter la fureur de mon bras.
+
+-*who_angelique
+Toubeau, Seigneur, de grace, ah ne me frappez pas !
+Je confesseray tout, plustost que cette lame
+Soit teinte dans le sang d'une chetive femme ;
+Je le suis, je l'advouë, et de plus que j'ay tort,
+Je confesse mon crime ; et merite la mort,
+Si vous vous offensez en vous disant que j'ayme
+Vos rares qualitez à l'egal de moy-mesme,
+C'est de ce crime seul, dont on peut m'accuser
+Voyez si vous devez vous en formaliser.
+
+-*who_florestan
+Que je sçache ton nom.
+
+-*who_angelique
+Puis que j'y suis forcée
+Vous sçaurez les mal-heurs, dont je suis traversée,
+Je sçay que je me perds de vous desabuser
+Mais il n'est plus saison de vous rien desguiser.
+Mais si par imprudence, ou par mal-heur extresme
+On venoit à sçavoir, je ne dy pas que j'ayme,
+Mais qu'on peut seulement soubçonner cet abord,
+Le Ciel ne pourroit pas me garantir de mort.
+Et c'est ce qui m'estonne⁎, et qui fait que je tremble,
+Car je suis en effet autre que je ne semble.
+Et j'ay sujet de craindre, où le danger est grand,
+Si quelqu'un par mal-heur ensemble nous surprend,
+(Car on est aux aguets) vous prendroit-il envie,
+Que pour vous je perdisse et l'honneur et la vie ?
+Je crains tout par le bruit qu'icy vous avez fait
+Rendez donc sur ce poinct mon esprit satisfait,
+Voyez si tout est clos, si par quelque fenestre
+Cette lumiere icy ne pourroit point parestre
+Chacun n'est pas encor tout à fait retiré.
+
+-*who_florestan
+Elle a raison, esclaire. Et bien, j'eusse juré
+Que c'estoit ce que c'est : voy ce n'est pas un Diable
+Comme tu le croyois.
+
+-*who_carrille
+Il est bien aimable
+S'il faut que c'en soit un, encore n'en sçay-je rien.
+
+-*who_florestan
+Regarde aussi la porte, et si tout ferme bien.
+
+-*who_angelique
+Tout m'arrive grands Dieux comme je le souhaite,
+J'ay pour m'eschaper d'eux trouvé cette deffaite,
+Rentrons et refermons aussi-tost apres nous.
+
+**** *book_ *id_body-8-4 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+Tout est fermé, Madame, avec de bons verrous,
+Contez-moy, mais grands Dieux, qu'est-elle devenuë ?
+Comment s'est-elle peu desrober à ma veuë ?
+
+-*who_carrille
+Moy le puis-je sçavoir ?
+
+-*who_florestan
+Je perds icy le sens⁎.
+
+-*who_carrille
+Et bien qu'en dites-vous ?
+
+-*who_florestan
+Regarde là dedans,
+Quel prodige est-ce icy ? m'eschaper de la sorte ?
+
+-*who_carrille
+N'est-elle point encor sortie par cette porte ?
+Le soustiendrez-vous point ? estes-vous esclaircy ?
+Quel autre qu'un esprit peut nous traitter ainsi ?
+
+-*who_florestan
+Non, mon ame jamais ne fut plus estonnée⁎.
+L'as-tu point veuë aller ?
+
+-*who_carrille
+Ouy, par la cheminée
+Je l'ay veuë eschaper.
+
+-*who_florestan
+Ah l'insigne maraut !
+
+-*who_carrille
+Ouy, Monsieur, je l'ay veuë, ah regardez la haut
+Comme elle s'est soudain convertie en choüette ?
+La voyez-vous voler ?
+
+-*who_florestan
+Quelle vertu secrette
+A ctte femme icy d'eschaper de mes mains ?
+Il m'en faut esclaircir, tous ces discours sont vains.
+Je veux chercher partout ; Dieux c'est chose admirable⁎,
+Voyons dans les rideaux, sous le lit, sous la table,
+Derriere le chevet, cherchons, renversons tout,
+Dans cette chambre icy, de l'un à l'autre bout.
+Arrachons et voyons si quelque tromperie,
+Seroit point en effet sous la tapisserie ;
+Ce n'est qu'une cloison, voyons si dans ces ais
+Seroit point quelque trou qu'elle eut fait tout expres,
+Pour pouvoir aisement de nous deux se deffaire :
+Je ne la puis tenir pour chose imaginaire,
+Pour un esprit non plus, puis qu'elle a craint la mort.
+
+-*who_carrille
+Croyez que c'en est un, ou vous avez grand tort.
+
+-*who_florestan
+Et toy de ton costé, cherche par tout, regarde
+Dessous ces tafetas.
+
+-*who_carrille
+Ah, Monsieur, je n'ay garde !
+La chercher ! ce seroit de tout poinct m'achever,
+Moy qui plus que la mort craindrois de la trouver.
+
+-*who_florestan
+Sa lumiere en effet a paru plus qu'humaine,
+Je ne le cele point, cela me met en peine,
+Mais d'un autre costé, comme femme, elle a craint,
+Et dans cette action je n'ay rien veu de feint.
+Elle a d'illusion esbloüy nostre veüe,
+Et comme un vrai fantosme apres est disparuë.
+Si dans ces vains discours je me laisse emporter,
+J'ay sujet de tout croire, et doy de tout douter,
+D'un et d'autre costé j'y vois tant d'apparence,
+Qu'en cela je ne sçay que dire, et plus j'y pense,
+Plus ma raison se perd, et mes sens sont confus.
+
+-*who_carrille
+Je sçay bien ce que c'est, moy je n'en doute plus.
+
+-*who_florestan
+Quoy ?
+
+-*who_carrille
+C'est un diable femme, est-il pas raisonnable,
+Si la femme paroist le plus souvent un Diable,
+Que le Diable ait pouvoir, une fois seulement
+De paroistre une femme ?
+
+-*who_florestan
+O le beau jugement⁎.
+Est-il temps de railler ?
+
+-*who_carrille
+Quoy ne peut-il pas estre ?
+Je croy ce que je dy.
+
+-*who_florestan
+Tay toy, cherchons sa lettre ;
+Est-elle sur la table ?
+
+-*who_carrille
+Ouy, Monsieur, je la voy.
+
+-*who_florestan
+Voyons si je pourray par elle estre esclaircy.
+Lettre
+Je ne veux pas vous faire attendre davantage,
+Je veux de mon Amour vous rendre un tesmoignage,
+Et vous faire parestre adorable estranger,
+Que je recognoy ceux qui sçavent m'obliger.
+Quoy que je ne sois pas de tant d'attraits pourvuë
+Je desire vous voir, et de vous estre veuë,
+Et parce que le jour est à mon heur⁎ fatal
+Vous me verrez sans faute en revenant du bal.
+
+-*who_carrille
+Elle l'a deviné, sans doute elle est sorciere.
+Lettre
+Trouvez-vous à minuit devant le cimetiere
+Joignant Saint-Innocent.
+
+-*who_carrille
+Estrange rendez-vous.
+
+-*who_florestan
+J'iray.
+
+-*who_carrille
+Je vous tiendray pour le maistre des fous.
+Avec vostre valet rendez-vous à la porte.
+
+-*who_carrille
+Je n'iray point, Monsieur, si quelqu'un ne m'y porte.
+Des gens vestus de noir.
+
+-*who_carrille
+Ce seront des Sathans.
+Meneront un carosse, entrez tous deux dedans.
+N'ayez crainte de rien, venez sur ma parole.
+
+-*who_carrille
+Pour nous faire aux Enfers faire une capriole.
+Si j'y vay jusqu'au sang, je puisse estre foüetté.
+Lettre
+Montrez encor ce trait de generosité⁎,
+Vous viendrez sans resver sur ce poinct davantage
+Si vous avez autant d'Amour que de courage.
+
+-*who_carrille
+Pretendez-vous aller à l'assignation ?
+
+-*who_florestan
+Quoy, je voudrois manquer à cette occasion ?
+Plustost mourir, allons, l'heure est je croy passée.
+
+-*who_carrille
+Je veux estre berné si j'ay cette pensée.
+
+-*who_florestan
+Il faut venir, te dis-je, allons despeche-toy.
+
+-*who_carrille
+Ayez pitié, Monsieur, et de vous, et de moy.
+Irez-vous sans flambeau, grands Dieux quelle folie ?
+Laissez-moy seul icy, Monsieur, je vous supplie,
+Mais que dis-je ? aussi bien y mourrois-je de peur,
+Je ne sçay qui pour moy des deux est le meilleur.
+
+-*who_florestan
+C'est à cent pas d'icy, tien pren cette lumiere.
+
+-*who_carrille
+Pour aller aux Enfers trouver une sorciere,
+Qu'en est-il de besoin ? Grand Dieu je vous promets
+Trente livres d'encens si j'en reviens jamais.
+
+**** *book_ *id_body-8-5 *act_ *date_1642 *creator_ouville
+
+-*who_lucinde
+Que me comptez-vous là, grands Dieux ?
+
+-*who_angelique
+Je me suis veuë,
+Sans mentir, sur le poinct tantost d'estre perduë.
+Il m'avoit tout de bon surprise cette fois
+Je ne le celle point, lors que moins j'y pensois ;
+Mais de ses mains soudain je me suis escartée
+Par la subtilité⁎ que je vous ay contée,
+N'ayant à son retour rien trouvé que du vent.
+
+-*who_lucinde
+Il sera plus surpris encor qu'auparavant
+L'heur⁎ sans doute est pour vous, et le Ciel favorise
+Plus que vous ne voulez cette belle entreprise.
+
+-*who_angelique
+Il se verra tantost sans doute au desespoir,
+Quand il verra mes gens qui sont vestus de noir,
+A cause de mon duëil, et mon carosse mesme,
+Que pourra-t'il penser ?
+
+-*who_lucinde
+«  L'estrange stratageme. »
+Mais quand il se verra dans cet apartement,
+Si riche et si superbe ; en quel estonnement⁎
+Ne se verra-t'il point ?
+
+-*who_angelique
+En ayant veu ma lettre
+Je ne sçay s'il voudra dans ce peril se mettre,
+Mais son cœur⁎ genereux⁎ n'apprehendera rien.
+
+-*who_lucinde
+Nous jouïrons tantost d'un plaisant entretien.
+
+-*who_angelique
+Je croy qu'il passera de beaucoup nostre attente,
+Pour l'heure vous tiendrez le rang de ma servante.
+Comme je vous ay dit. Vous Isabelle aussi,
+Agissez comme il faut.
+
+-*who_isabelle
+Laissez-m'en le soucy⁎.
+Fin du quatriesme Acte.
+
+**** *book_ *id_body-9-1 *act_ *date_1642 *creator_ouville
+
+-*who_isabelle
+Permettez-moy, Monsieur, qu'en ce lieu je vous laisse,
+Je m'en vay de ce pas advertir ma Maistresse,
+Je ne tarderay point.
+
+-*who_carrille
+Monsieur, nous voilà pris,
+Nous sommes maintenant au pouvoir des esprits.
+Voyez un peu que c'est que d'estre opiniastre
+Nous avons à present tout l'Enfer à combatre.
+
+-*who_florestan
+Quoy qu'il arrive il faut que j'en voye une fin.
+
+-*who_carrille
+J'apprehende bien fort cet endiablé lutin
+Il n'en veut rien qu'à moy, c'est moy qui me doy plaindre
+Car pour vous, vous n'avez aucun sujet de craindre,
+Il vous ayme, et ne fait avec vous que railler,
+Ou s'il me mande icy, c'est pour bien m'estriller,
+Mais si vous le voulez il faut bien que j'endure.
+
+-*who_florestan
+Quelle fin peut avoir une telle adventure ?
+
+-*who_carrille
+Quelle fin justes Dieux ? croyez asseurement
+Qu'on ne peut esperer d'un tel commencement,
+Ou je me trompe fort, autre fin que mauvaise,
+Et que vous ne verrez icy rien qui vous plaise.
+Ah Dieux ! qu'avons-nous fait ; n'estions-nous pas bien fous
+De nous estre trouvés tous deux au rendez-vous
+Pour avecque le Diable avoir aucun negoce ?
+On nous a promené plus d'une heure en carosse,
+Tant par haut que par bas, par cent chemins divers
+C'est ainsi qu'on m'a dit qu'on chemine aux Enfers.
+Deux valets nous menoient, aussi noirs que des Diables,
+Et le carosse noir, qui sont choses capables
+Au plus determiné de troubler le cerveau ;
+Estants entrez on a mesme esteint le flambeau,
+En un portail obscur on nous a fait descendre,
+Et sans sçavoir par qui l'on nous est venu prendre,
+On nous a faits aller par cent endroits charmez⁎,
+Au bout de tout cela l'on nous a renfermez
+Dans cette chambre obscure, et vous verrez peut-estre
+Qu'on nous fera tantost sauter par la fenestre.
+Ah nous sommes sans doute aux portes de l'Enfer
+Ou nous aurons bien-tost loisir de nous chauffer,
+Le Diable mescognoit les hommes de merite ;
+Pour deux cens coups de fouët j'en voudrois estre quite,
+Et perdre encor de plus, quatre doigts de la main
+Et r'estre à la maison.
+
+-*who_florestan
+O le joly dessein,
+Je veux tout hazarder⁎, mesme jusqu'à la vie,
+Pour sçavoir ce que c'est, car j'en brusle d'envie,
+Je ne sçaurois plus vivre en cet aveuglement,
+Je sçauray si c'est fourbe⁎ ou quelque enchantement.
+
+-*who_carrille
+Je voy de la clarté, je croy par cette fente.
+
+-*who_florestan
+On ouvre, justes Dieux, que mon ame est contente.
+Carrille, vois-tu pas cette rare beauté ?
+
+**** *book_ *id_body-9-2 *act_ *date_1642 *creator_ouville
+
+-*who_carrille
+C'est à ce coup, Monsieur, que je suis enchanté⁎.
+
+-*who_florestan
+Que songeai-je, grands Dieux ? car je n'oserois dire
+Qu'est-ce que je regarde, ou qu'est-ce que j'admire⁎,
+Tous ces rares objets m'esbloüissent les yeux.
+
+-*who_carrille
+Il fait icy plus beau cent fois que dans les Cieux,
+Si l'on voit aux Enfers des lieux si delectables,
+Que je serois heureux d'aller à tous les Diables.
+
+-*who_angelique
+Vous vous plaindrez de moy, certes avec raison,
+De vous avoir tenu si long-temps en prison
+Parmy ces lieux obscurs.
+
+-*who_florestan
+Deesse que j'adore
+On souffre bien la nuit quand on attend l'Aurore,
+Elle m'eut semblé longue en osant esperer
+Qu'un si brillant Soleil me devoit esclairer.
+Mais si vos divins yeux excitent dans une Ame
+Si tost qu'on les regarde une si belle flame,
+Qui peut en son abord chasser l'obscurité,
+Que n'ay-je veu plus tost cette rare beauté,
+Ce miracle d'Amour, dont le merite extreme,
+Me fait perdre le sens⁎, et m'oublier moy-mesme.
+
+-*who_angelique
+Quoy que ce compliment paroisse en ma faveur,
+Je devrois m'offencer d'un discours si flatteur,
+J'ay fort peu de merite, et toutesfois j'advoüe
+Qu'il ne me déplaist pas quand j'entends qu'on me loüe,
+Mais je ne celle point Florestan que je hais
+De pareils complimens quand ils vont dans l'excez.
+Si j'ay ces qualitez en moy je les ignore,
+Je ne suis point Soleil, je ne suis point Aurore :
+Quoy que je sois pourtant tout ce que vous voudrez,
+Je veux suivre la loy que vous me prescrirez.
+Nommez-moy seulement femme, mais qui vous ayme
+Tenez-le pour certain à l'esgal d'elle-mesme,
+Que vous obligerez⁎ s'il vous plaist d'accepter
+L'offre qu'elle vous fait icy sans en douter.
+
+-*who_florestan
+Fut-il jamais fortune⁎ à la mienne pareille ?
+Je ne sçay si je dors, grands Dieux, ou si je veille,
+Si l'on gouste en dormant des plaisirs si parfaits ?
+Juste Ciel permets-moy de dormir à jamais.
+
+-*who_angelique
+Des sieges promptement.
+
+-*who_carrille
+Je ne fus en ma vie
+Surpris comme je suis, que mon ame est ravie,
+Est-ce une illusion, ou quelque enchantement ?
+
+-*who_isabelle
+Apellons ce valet, le divertissement
+N'en sera point mauvais, faisons luy des caresses.
+
+-*who_lucinde
+Hola-hau mon amy.
+
+-*who_carrille
+Mes Reynes, mes Princesses,
+Vous voulez m'attraper par quelque illusion,
+Qui de vous a changé mon argent en charbon ?
+
+-*who_isabelle
+Ah quelle fausseté ! quelle insigne sottise.
+
+-*who_carrille
+Le mien n'estoit point faux, c'estoit argent de mise.
+
+-*who_lucinde
+Approche toy.
+
+-*who_carrille
+Non, non, je suis fort bien icy,
+Mesdames.
+
+-*who_isabelle
+As-tu peur ? qui te met en soucy ?
+Tu sembles interdit, qu'est-ce qui t'espouvente ?
+
+-*who_carrille
+Quelque valet d'Enfer en habit de suivante,
+Comme il a tantost fait me pourroit testonner.
+
+-*who_isabelle
+Responds-nous à propos, cesse de boufonner.
+
+-*who_carrille
+Vous parlerez long-temps avant que je responde,
+J'abhorre l'entretien des gens de l'autre monde,
+Je n'iray pas, vous dis-je, et je sçay bien pourquoy .
+
+-*who_isabelle
+Je sçay que tu viendras mesme en depit de toy.
+
+-*who_carrille
+J'ay les gouttes aux pieds.
+
+-*who_isabelle
+Ah l'estrange imposture !
+
+-*who_carrille
+
+Je n'eschaperay point si je ne les conjure,
+Je dois icy tout craindre, et ne rien esperer,
+Mais je ne sçay comment il les faut conjurer.
+Retirez-vous maudites ames,
+Au fond des infernales flames,
+Quoy que je sois du rang des sots
+Je vous assure ombres sans os,
+Et je vous le dis en trois mots
+Que l'impitoyable Atropos,
+
+Que Rhadamante, et que Minos,
+Trouveront tous trois à propos,
+Que vous me laissiez en repos,
+Et que vous me tourniez le dos.
+
+-*who_isabelle
+Tu crois par ces vains mots avoir quelque puissance,
+Nous sçavons comme il faut chastier l'insolence.
+Nous allons t'estrangler si tu dis un seul mot.
+
+-*who_carrille
+Je ne parleray plus, je ne suis pas si sot,
+Pardonnez, s'il vous plaist à mon effronterie
+A deux genoux icy Carrille vous en prie,
+Au moins permettez-moy d'avoir un peu de peur.
+
+-*who_isabelle
+Ah ! insigne maraut, quoy ? n'as-tu point de cœur⁎ ?
+
+-*who_carrille
+Non, je n'en eu jamais pour resister aux Diables.
+
+-*who_lucinde
+Mais te parroissons-nous si fort espouventables ?
+
+-*who_carrille
+Non, je ne vy jamais de plus rares beautez,
+Mais ces attraits sont faux, ils sont tous empruntez,
+Car si je vous voyois en forme autre qu'humaine,
+Je mourrois sur le champ, la chose est tres certaine.
+
+-*who_angelique
+Quoy doncques Florestan vous vous pleignez de moy ?
+
+-*who_florestan
+Ouy, puis que vous avez ces doutes de ma foy,
+En me tenant ainsi vos affaires secrettes,
+Pourquoy refusez-vous de dire qui vous estes ?
+
+-*who_angelique
+C'est ce que je ne puis vous dire, et je vous fais
+Cette priere icy, ne m'en parlez jamais :
+Vous ne le sçaurez point encor que je vous ayme,
+(Tenez-le pour certain) à l'esgal de moy-mesme,
+Quand vous desirerez me parler,et me voir
+Je vous obeiray, faites-le moy sçavoir,
+Ce sera tous les jours, en tous lieux, en toute heure,
+Mais vous ne sçaurez point mon nom ny ma demeure.
+Je parois en effet ce que je ne suis pas,
+Et l'on doit faire aussi de moy bien plus de cas
+Que je ne le paroy, cette enigme suffise,
+C'est assez de sçavoir que je vous suis acquise,
+Que je suis toute à vous, si vous voulez m'aymer,
+Croyez que ce n'est point pour vous mes-estimer,
+Mais pour avoir pour vous une amour trop parfaite
+Si je vous tiens ainsi cette affaire secrette ;
+Peut-estre avec le temps que vous sçaurez un jour,
+Quel heur⁎ vous possedez d'acquerir mon amour,
+Je vous en dis assez, et si vous estes sage
+Vous ne chercherez point d'en sçavoir davantage.
+
+-*who_florestan
+N'estes-vous point maistresse au moins de Licidas,
+Ne me le celez point.
+
+-*who_angelique
+Non je ne la suis pas.
+Et je dy plus encore, je ne la sçauray estre.
+
+-*who_florestan
+Pourquoy donc devant luy n'oseriez-vous paroistre ?
+Quelle crainte avez-vous ?
+
+-*who_angelique
+Si vous estes discret,
+Ne vous informez pas non plus de ce secret,
+Il m'importe il suffit, puis-je pas estre femme
+De telle qualité.
+
+-*who_florestan
+Pardonnez-moy, Madame,
+Si dans ce grand desir je vous perds le respect,
+Je ne parleray plus si je vous suis suspect,
+Ce n'est que par amour, mais si je ne vous fasche,
+Faites-moy la faveur pour le moins que je sçache,
+Puis que vous m'honorez de vostre affection,
+Par quel subtil⁎ moyen, par quelle invention
+Vous entrez dans ma chambre.
+
+-*who_angelique
+Il n'est pas temps encore.
+Vous le sçaurez un jour.
+
+-*who_florestan
+Puis que je vous adore,
+Au moins me devez-vous contenter sur ce poinct.
+
+-*who_angelique
+Vous perdez vostre temps, vous ne le sçaurez point.
+Pourquoy sur ce sujet voulez-vous me desplaire ?
+
+-*who_florestan
+Puis que vous le voulez, Madame, il me faut taire,
+Je ne veux desirer rien que ce qui vous plaist.
+
+-*who_angelique
+Que nous sert-on donc ?
+
+-*who_lucinde
+Madame, tout est prest.
+
+**** *book_ *id_body-9-3 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Apelle-t'on ?
+
+-*who_licidas
+Ouvrez.
+
+-*who_angelique
+Justes dieux c'est mon frere !
+
+-*who_lucinde
+En cette extremité que pretendez-vous faire ?
+
+-*who_angelique
+C'est luy-mesme, à la voix je l'ay bien recognu.
+
+-*who_carrille
+Ah ! tout de bon, Monsieur, le vray diable est venu.
+Il va nous testonner, hé dieux de quelle sorte !
+
+-*who_licidas
+Me fera-t'on long-temps attendre à cette porte ?
+
+-*who_angelique
+Monsieur retirez-vous,
+Isabelle fay les
+Entrer dedans leur chambre, et passer par les ais.
+Dieux aux extremitez où je me vois reduite
+Je perds le jugement et manque de conduite⁎ !
+Isabelle entends-tu ? sus donc depesche toy.
+
+-*who_isabelle
+Je vous entends, venez tous deux et suivez moy.
+
+-*who_florestan
+Ne verray-je jamais la fin de cette histoire ?
+
+-*who_carrille
+Monsieur vous avez fait la faute, il la faut boire.
+
+-*who_florestan
+Où m'avez vous conduit, justes dieux !
+
+-*who_carrille
+Ah Monsieur !
+C'estoit avec raison que je mourois de peur.
+
+-*who_licidas
+Pour ouvrir une porte il faut bien du mystere.
+
+-*who_angelique
+Qui vous peut obliger à ces heures mon frere
+De troubler mon repos ?
+
+-*who_licidas
+Lucinde vous voicy,
+Mais que vois-je, grands dieux ? quel habit est-ce icy ?
+Quel apparat de plats ? et quel desordre ? dites ,
+Je vous voy toutes deux grandement interdites,
+Pasles, sans contenance et l'esprit esgaré,
+Que veut dire ce lict superbement paré ?
+Ce riche emmeublement, ces perles, ces dorures,
+Et mesme ce pavé semé de confitures ?
+
+-*who_angelique
+Pourquoy suis-je obligée à vous rendre raison
+De ce que nous faisons seules en la maison ?
+Quel crime faisons-nous ? dites je vous supplie
+Si pour me divertir en ma melancholie
+Nous avons ma Cousine et moy, pris le soucy⁎
+D'ajuster cette chambre, et nous parer ainsi ?
+S'il ne m'est pas permis de sortir à la rüe,
+Si de qui que ce soit on me defend la veüe,
+Hormis de ma Cousine, et si je me veux voir
+Despoüillée entre nous de ce vestement noir,
+Qui ne fait qu'augmenter mon deüil et ma tristesse,
+Est-ce un crime d'estat ? veut-on que je me laisse
+Emporter aux regrets qui me troublent les sens ?
+Me defends-on encor ces plaisirs innocens ?
+Qui vous fait sans raison m'espier de la sorte ?
+Et venir à minuict me faire ouvrir ma porte ?
+
+-*who_licidas
+Ma chambre estant là bas, ma curiosité
+Ayant oüy du bruit dessus moy, m'a porté
+De venir m'informer qui de nuict vous visite.
+
+-*who_angelique
+Ma Cousine est icy.
+
+-*who_licidas
+Je vous vois interdite,
+Je sçay qu'asseurement quelqu'un est là dedans.
+
+-*who_angelique
+Vous vous trompez, vous dis-je.
+
+-*who_licidas
+Et le bruit que j'entends ?
+
+-*who_carrille
+Ah dieu ! si cette fois de ses griffes j'eschape,
+Il sera bien subtil⁎, s'il faut qu'il m'y r'atrape.
+
+-*who_licidas
+Aurez-vous bien encor l'esprit assez rusé
+De dire qu'en cela je me suis abusé ?
+Comment Lucinde aussi vous en estes complice ?
+
+-*who_lucinde
+Si nous vous offensons que le Ciel me punisse.
+
+-*who_licidas
+J'y veux aller moy-mesme, attendez je veux voir.
+
+-*who_angelique
+Non, vous n'entrerez point.
+
+-*who_licidas
+Si je fais mon devoir.
+Je vous monstreray bien.
+
+-*who_angelique
+Ah dieux c'est Isabelle !
+
+-*who_licidas
+Je verray ce que c'est, baillez-moy la chandelle.
+
+-*who_angelique
+Dieux, il les trouvera, Cousine.
+
+-*who_lucinde
+Nullement,
+Ils seront repassez dans leur appartement.
+
+-*who_angelique
+Il trouvera ces ais dé-joints, je suis perduë.
+
+-*who_lucinde
+Ne vous affligez point, sans en sçavoir l'issuë.
+
+**** *book_ *id_body-9-4 *act_ *date_1642 *creator_ouville
+
+-*who_florestan
+Nous sommes, que je croy, veu cette obscurité
+Dans quelque cabinet en lieu de seureté,
+Dont la porte est estroite, ayant eu de la peine
+D'entrer avec l'espée.
+
+-*who_carrille
+Ah ! la chose est certaine,
+Resolvons-nous au pis, nous allons estouffer ,
+Car nous sommes sans doute en un cachot d'enfer.
+
+-*who_florestan
+Quels hazards⁎ ne court point un homme de courage,
+Qui veut entrer par tout où son desir l'engage,
+Sans se fier à rien qu'à sa propre valeur ?
+
+-*who_carrille
+Vous eussiez bien mieux faict, si vous eussiez eu peur
+Aussi bien comme moy.
+
+-*who_florestan
+Que sera devenuë
+Cette rare beauté qui m'a charmé⁎ la veuë ?
+Qui par tant de faveurs a daigné m'obliger⁎ ?
+Mourons, ou la tirons de ce present danger.
+
+-*who_carrille
+On entend quelque voix, soyons en sentinelle ,
+Peut-estre en pourrons-nous sçavoir quelque nouvelle.
+
+-*who_licidas
+Je proteste⁎ qu'un homme est entré là dedans.
+
+-*who_isabelle
+Par où Monsieur ?
+
+-*who_licidas
+Par où vilaine ? tu pretends
+De m'esbloüyr les yeux par ta cajolerie :
+Je le trouveray bien.
+
+-*who_carrille
+Ah grands dieux ! je vous prie
+Ayez pitié de moy, de grace aveuglez-les ;
+On nous cherche .
+
+-*who_licidas
+Qui peut avoir dé-joinct ces ais ?
+
+-*who_isabelle
+Moy le puis-je sçavoir ?
+
+-*who_carrille
+Je voy de la lumiere.
+
+-*who_licidas
+Infame sors d'icy.
+
+-*who_carrille
+Cachons-nous là derriere :
+Quelqu'un entre, Monsieur.
+
+-*who_florestan
+J'ay l'esprit tout confus,
+Mais il ne me faut point consulter là dessus,
+Je ne doy craindre rien, puis que j'ay l'advantage
+De pouvoir au besoin m'ayder de mon courage.
+
+-*who_carrille
+Je me coule pour moy derriere ce buffet.
+
+**** *book_ *id_body-9-5 *act_ *date_1642 *creator_ouville
+
+-*who_licidas
+Quoy donc, c'est Florestan ?
+
+-*who_florestan
+Licidas ? en effect
+Je ne me trompe point, c'est luy-mesme, ô merveille :
+A-t'on jamais parlé d'une chose pareille ?
+Il faut bien que ce soit par quelque enchantement
+Que je me trouve icy dans mon apartement.
+Vit-on jamais au monde un succez⁎ plus estrange ?
+
+-*who_licidas
+Et tu ne penses point traistre que je me vange
+De l'affront signalé que j'ay receu de toy ?
+Perfide, desloyal, homme ingrat et sans foy,
+Infame et faux amy, quel bien, ou quelle gloire
+Esperes-tu tirer d'une action si noire ?
+Peux-tu te dire noble, ayant la lascheté
+De violer les droicts de l'hospitalité ?
+As-tu si peu d'honneur et si peu de courage ?
+
+-*who_florestan
+Est-ce à moy Licidas , que l'on tient ce langage ?
+Je suis si fort surpris de me trouver icy,
+De vous oüyr parler, et de parler ainsi,
+Et toutes mes raisons en sont si confonduës
+Que je crois, sans mentir, que je descends des nuës ;
+Et j'ay sujet de croire, aux lieux où je me voy
+Que ce discours s'adresse à tout autre qu'à moy.
+
+-*who_licidas
+Je ne me repais poinct de ces discours frivoles ;
+Il me faut des effects, et non pas des paroles ;
+Je veux avoir ta vie, et croy qu'asseurement
+Tu ne me sçaurois pas satisfaire autrement.
+Defend toy si tu veux, car encor que sans blasme
+Je puisse en trahison me vanger d'un infame,
+Et d'un perfide amy qui me ravit l'honneur,
+Je penserois pourtant offenser ma valeur,
+Si l'on me reprochoit, que je veux entreprendre
+D'attaquer un poltron qui n'ose se defendre.
+
+-*who_florestan
+Arrestez Licidas, et me dites pourquoy
+Avec tant de chaleur vous vous pleignez de moy,
+Obligez-moy, voyons sans vous mettre en colere
+Si par autre moyen je vous puis satisfaire ?
+
+-*who_licidas
+Par quel autre moyen, dy lasche suborneur
+Puis-je estre satisfaict si tu m'ostes l'honneur ?
+
+-*who_florestan
+Escoutez Licidas, que desormais ma vie
+Soit d'affronts signalée, et d'opprobres suivie,
+Que le Ciel m'extermine, et s'oppose à mon bien
+Si vostre honneur ne m'est aussi cher que le mien.
+
+-*who_licidas
+Tous ces discours sont vains, que me peux-tu respondre
+Si tout ce que je voy ne sert qu'à te confondre ?
+T'ay-je pas descouvert ? n'estois-tu pas caché
+Naguere dans sa chambre ? et quand je t'ay cherché
+Ne t'és-tu pas sauvé par cette fausse porte ?
+Par ces ais entr'ouvers, qu'on a coupés de sorte
+Que tu peux quand tu veux entrer secrettement
+De cette chambre icy dans son apartement ?
+Que peux-tu repartir ?
+
+-*who_florestan
+Monsieur que cette espee
+Que je tiens maintenant, dans mon sang soit trempee,
+Que dis-je cette espee ? ah je luy ferois tort !
+Car elle vient d'un bras trop genereux⁎ et fort,
+Puis qu'elle vient de vous ; mais que plustost la lame,
+Du plus lasche poltron, du cœur⁎ le plus infame
+Me perce en mille endroicts, et le cœur et le flanc,
+Si j'ay rien fait qui soit indigne de mon sang,
+Et de l'affection que je vous ay jurée,
+Si j'ay jamais cognu cette secrette entrée,
+Si je ne suis surpris, plus que vous mille fois,
+Et si je puis vous dire en quel endroict j'estois.
+Pour cette femme icy, que je perisse à l'heure
+Si je sçay quelle elle est, son nom ny sa demeure,
+Je dy la verité, je ne veux rien celer,
+Et sçachez que la peur ne me fait point parler.
+
+-*who_licidas
+Si ce que tu me dis estoit bien veritable,
+Pourquoy l'espée au poing, si tu n'és point coupable ?
+
+-*who_florestan
+Ne sçachant où j'estois en cette extremité
+Est-il homme de cœur⁎ qui l'eust euë au costé
+Se voyant poursuivy ?
+
+-*who_licidas
+Pour vous purger de blasme
+Il vous faut confronter avecque cette infame,
+Cause où je suis trompé de ce scandale icy.
+
+-*who_florestan
+Je le veux, vous serez de tout point esclaircy
+Que je ne trempe point du tout dans ce mystere.
+
+-*who_licidas
+Allons, mais en passant advertissons mon frere,
+Entrons par cet endroict.
+
+-*who_florestan
+Je le veux. Justes dieux
+En cet aveuglement esclaircissez mes yeux !
+
+-*who_carrille
+Grand Dieu fay moy ce bien, que mes craintes soient fausses,
+J'ay d'apprehension lasché tout dans mes chausses.
+Mais quoy sans les laver les laisserois-je ainsi ?
+Oüy, suivons-les de loing, j'aurois peur seul icy.
+
+**** *book_ *id_body-9-6 *act_ *date_1642 *creator_ouville
+
+-*who_angelique
+Que me dis-tu, grands dieux !
+
+-*who_isabelle
+Madame vostre frere,
+Est entré qui soudain s'est fort mis en colere,
+J'entendois par dehors de bien grandes rumeurs.
+
+-*who_angelique
+Il le tuera, Cousine, ah, je pasme, je meurs !
+Et viendra tost apres m'assassiner moy-mesme.
+
+-*who_lucinde
+Je ne puis que resoudre en ce malheur extresme,
+Toute excuse à present seroit hors de saison,
+Fuyons, et me croyez hors de cette maison :
+Il nous faut bien garder d'attendre sa venuë.
+
+-*who_angelique
+A telle heure qu'il est, irons-nous par la ruë ?
+
+-*who_lucinde
+Allons-nous-en chez nous, mon logis n'est pas loing.
+
+-*who_angelique
+Mais quoy, laisserons-nous Florestan au besoin ?
+
+-*who_lucinde
+Que pouvons-nous pour luy ? dieux si vous estes sage
+Fuyons sans consulter sur ce fait davantage.
+
+**** *book_ *id_body-9-7 *act_ *date_1642 *creator_ouville
+
+-*who_lizandre
+Où vas-tu mal-heureuse ? et vous Lucinde aussi
+Où l'accompagnez-vous ? quel desordre est-ce icy ?
+
+-*who_angelique
+Puis que Florestan vit, qu'il paroist à ma veuë,
+Mourons s'il faut mourir, m'y voilà resoluë :
+Mais oyez mes raisons, et ne me jugez pas,
+Avant que de m'oüir, meriter le trespas,
+Je croy que ma requeste est juste et raisonnable,
+Et si vous me trouvez en un seul poinct coupable,
+J'entends contre l'honneur, ny de loing, ny de prés,
+Ne me laissez pas vivre un seul moment après.
+
+-*who_licidas
+Parle, et s'il t'est entré seulement en pensee,
+Ta priere sera sur le champ exaucee,
+Nous n'y manquerons pas.
+
+-*who_lizandre
+Mais sans nous abuser,
+Dy-le tout franchement et sans rien déguiser.
+
+-*who_angelique
+Florestan escoutez, car ce discours vous touche,
+Que vous ne sçaurez point, si ce n'est par ma bouche,
+Puisque contre mon gré l'on m'oblige à parler,
+Je declareray tout, je ne veux rien celer ;
+Je suis donc, puis qu'il faut à cette heure me rendre,
+La sœur de Licidas, et la sœur de Lizandre.
+Sans doute ils ont tous deux raison de me blasmer
+De m'estre à leur deceu portée à vous aymer :
+Mais comme eussay-je osé leur descouvrir la flame
+Qui me brusle pour vous, et me consomme l'ame ?
+Si je suis criminelle en confessant ce point,
+Je merite la mort, je n'y recule point.
+Mais je ne puis penser qu'on puisse estre blasmée
+Pour confesser d'aymer, et vouloir estre aymée :
+Dés la premiere fois vous sçeustes m'engager,
+Quand je vous vis si prompt à vouloir m'obliger⁎,
+Sans sçavoir qui j'estois, et cette gentillesse
+Me fit avoir pour vous une telle tendresse,
+Qu'admirant la valeur d'un cœur si genereux⁎
+Vous rendistes le mien aussi-tost amoureux.
+Vous mon frere sçachez que je suis celle-mesme
+Que vous suiviez tantost avec ardeur extresme,
+Qui si subtilement⁎ eschapé de vos mains
+A l'aide de ce bras qui rompit vos desseins ;
+Cette insigne faveur m'a fait brusler d'envie
+De voir ce Cavalier qui m'a sauvé la vie,
+Car je n'attendois pas, je le dy franchement,
+De vostre promptitude un meilleur traitement ;
+Car encor que je fusse exempte de tout blasme,
+Je n'eusse pas passé pour telle dans vostre ame.
+Desirant donc le voir avecque passion
+J'en suis venuë à bout par cette invention,
+Par ces deux ais j'entrois de ma chambre en la sienne
+Sans qu'il en ait rien sçeu. Si tantost dans la mienne
+Vous l'avez rencontré, croyez il est certain
+Qu'il n'a jamais ny sceu, ny cogneu mon dessein,
+Estant bien esloigné, de penser, je vous jure,
+Qu'il s'adressast à vous, et qu'il vous fist injure.
+Mais pour ne rien celer, je vous diray de plus,
+Que quand j'entré chez luy j'eus l'esprit tout confus :
+Car mon Ame pour lors fut puissament saisie
+De cette passion , qu'on nomme jalousie,
+Luy trouvant ce portraict, que j'ay pris à ce soir,
+Mourant de deplaisir qu'il fust en son pouvoir.
+
+-*who_licidas
+Monstre que je le voye, as-tu bien l'impudence
+D'oser ainsi parler mesme en nostre presence ?
+Insolente, effrontee, oses-tu presumer
+Qu'un Cavalier⁎ d'honneur se resolve d'aymer
+Une qui laschement se produit⁎ elle-mesme,
+Et qui peut sans rougir luy dire qu'elle l'ayme,
+Estant adorateur d'une divinité,
+Car je n'ose autrement nommer cette beauté,
+Ce ravissant portraict ? as-tu bien cette audace
+D'esperer que jamais il te mette en sa place ?
+Sçais-tu bien s'il n'a pas mesme engagé sa foy
+A celle-cy qui vaut mille fois mieux que toy ?
+Auras-tu bien le front de te voir refusee,
+Et de servir apres à chacun de risee ?
+Avant que cela soit tu mourras de ma main.
+
+-*who_florestan
+Ah ! tuez-moy plutost que d'avoir ce dessein.
+Licidas, j'ay le cœur comblé de telle joye
+Du bien inesperé que mon destin m'envoye,
+Que je seray ravy d'avoir en mon pouvoir
+Cette felicité qui passe mon espoir :
+Il ne tiendra qu'à vous, Messieurs, qu'à l'heure mesme
+Je ne sois possesseur de sa beauté que j'ayme,
+Et qu'un lien estroit de consanguinité,
+Nous tienne joints bien plus que nous n'avons esté :
+Car pour ce beau portraict c'est celuy d'une Dame,
+Qui ne peut s'opposer à ma nouvelle flame ;
+Vous l'exaltez par trop , mais croyez tel qu'il est
+Que je suis tres-content de sçavoir qu'il vous plaist,
+Et je serois ravy qu'une seule journée,
+Joignist nos deux maisons par un double hymenee :
+Sçachez que ce portraict est celuy de ma sœur,
+Dont je souhaiterois vous rendre possesseur,
+Car puis que vostre sœur confesse qu'elle m'ayme
+Et qu'elle s'offre à moy, je vous l'offre de mesme,
+Marry pour esgaler cette felicité,
+Que ma sœur n'ait autant comme elle de beauté ;
+Le Peintre luy fait tort, loing de l'avoir flatee,
+Et s'il m'estoit sceant, je dirois en effect,
+Que c'est le jugement que tout le monde en faict.
+
+-*who_licidas
+Dieux ! mes ambitions seroient trop satisfaites
+Si j'osois esperer l'offre que vous me faites,
+Mais mon peu de merite, et mon peu de valeur,
+Me font desesperer d'une telle faveur.
+
+-*who_florestan
+Non, je ne vous promets rien que je ne vous tienne,
+Donnez-moy vostre sœur, je vous donne la mienne.
+
+-*who_licidas
+C'est moy qui vous doy bien demander à genoux
+L'heur⁎ de nostre maison, puis qu'il despend de vous,
+Ainsi que je le suis, je sçay bien que mon frere
+Est ravy de l'honneur qu'il vous plaist de nous faire.
+
+-*who_lizandre
+Oserois-je esperer tant de bien à la fois ?
+Mon cœur usurpera l'office de ma voix :
+Car je deviens muet, mais ce qui me console
+Est qu'un tel bien ne peut s'exprimer par parole.
+
+-*who_licidas
+Le bien que vous m'offrez me rend trop glorieux,
+Ma sœur, et vous et moy rendons graces aux dieux.
+
+-*who_florestan
+Vous Madame, acceptez un cœur que je vous donne,
+Et croyez qu'en constance il ne cede à personne.
+
+-*who_angelique
+C'est moy, Monsieur, qui suis au bout de mes souhaits
+Et qui vous dois aymer et servir à jamais.
+
+-*who_lizandre
+Allons-donc achever cet heureux mariage.
+
+-*who_florestan
+Et dans huict jours d'icy nous ferons un voyage
+Tous ensemble chez nous, pour vos nopces aussi.
+
+-*who_carrille
+Et moy qui me suis veu malheureux jusqu'icy,
+Puis que mes craintes sont de tout point effacées,
+Il ne faut plus songer aux tristesses passees,
+Il se faut réjoüyr.
+
+-*who_florestan
+Carrille, d'où viens-tu ?
+
+-*who_carrille
+De peur de mal-parler, Monsieur je me suis teu,
+Mais dois-je pas aussi dans la commune joye
+Participer au bien que le Ciel nous envoye ?
+Me veut-on oublier ?
+
+-*who_florestan
+Non, parle librement,
+Dy nous ce que tu veux.
+
+-*who_carrille
+Je veux premierement,
+(Puis que l'on me permet de parler de la sorte,)
+Afin que de tout poinct ma tristesse soit morte ;
+Qu'aujourd'huy l'on me fasse intendant du Festin,
+Que j'aye seul l'honneur de presider au vin ;
+Que sans mon ordre exprez icy rien ne se fasse,
+Que je puisse de vous esperer cette grace,
+Apres cela je suis au bout de mes souhaits.
+Me le promettez-vous ?
+
+-*who_florestan
+Oüy je te le promets,
+Repose-toy sur moy, je t'en donne parole.
+
+-*who_carrille
+Je vay donc de bon cœur faire une capriole,
+Et tout droict de ce pas ordonner du festin,
+Pour boire à la santé de cet Ange lutin :
+Il faut auparavant aller laver mes chausses,
+Et puis preparer tout, et donner ordre aux sausses.
+Fin de la Comedie de L'Esprit Folet.

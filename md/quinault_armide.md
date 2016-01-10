@@ -1,0 +1,1449 @@
+---
+identifier: quinault_armide  
+creator: Quinault, Philippe  
+date: 1685  
+title: Armide. Tragédie  
+---
+
+
+ARMIDE
+
+TRAGÉDIE
+
+Représentée par l'ACADÉMIE ROYALE DE MUSIQUE ÉTABLIE À LYON.
+
+Et jouée ci-devant en présence de sa majesté.
+
+M. DCC. IX. Avec Privilège de Sa Majesté.
+
+
+
+À LYON, THOMAS AMAULRY, au Mercure Galant.
+Représenté par l'Académie royale de musique, le 17 avril 1782 à Versailles.
+
+
+# ACTEURS DU PROLOGUE
+ – La gloire.
+ – Troupe de heros, qui suivent le Gloire.
+ – La sagesse
+ – Troupe de nymphes, qui fuient la Sagesse.
+
+
+# ACTEURS DE LA TRAGÉDIE
+ – Armide, Magicienne, nièce d'Hidraot.
+ – Phénice, confidente d'Armide.
+ – Sidonie, autre confidente d'Armide.
+ – Hidraot, Magicien , Roi de Damas.
+ – Troupe de peuples du royaume de damas.
+ – Aronte, Conducteur des Chevaliers qu'Armide a fait mettre aux fers.
+ – Renaud, le plus renommé des Chevaliers du Camp de Godefroy.
+ – Artemidore, un des chevaliers captifs d'Armide et que Renaud a délivré.
+ – Un démon, transformé en Naïade.
+ – Troupe de démons, transformés en Nymphes, en Bergers et en Bergères.
+ – Troupe de démons volants, et transformés en Zéphirs.
+ – La haine.
+ – Suite de la haine.
+ – Les furies.
+ – La cruauté.
+ – La vengeance.
+ – La rage.
+ – Ubalde, Chevalier qui va chercher Renaud.
+ – Le chevalier danois, qui va avec Ubalde chercher Renaud.
+ – Un démon, sous la figure de Lucinde, fille Danoise, aimée du Chevalier Danois.
+ – Troupe de démons, transformés en habitants champêtres de l'île où Armide retient Renaud enchanté.
+ – Un démon, sous la figure de Mélisse, fille Italienne, aimée d'Ubalde.
+ – Les plaisirs.
+ – Troupe de démons qui paraissent sous la figure d'amants fortunés et d'amantes heureuses qui accompagnent Renaud dans le palais enchanté.
+ – Troupe de démons volants, qui détruisent le Palais enchanté.
+
+
+# PROLOGUE
+Le théâtre réprésente un palais.
+
+
+
+## LA GLOIRE, LA SAGESSE, Suite de La Gloire et de la Sagesse.
+
+    LA GLOIRE
+Tout doit céder dans l'Univers  
+À l'Auguste Héros que j'aime,  
+L'effort des ennemis, les glaces des hivers,  
+Les Rochers, les Fleuves, les Mers ,  
+Rien n'arrête l'ardeur de sa valeur extrême.  
+
+    LA SAGESSE
+Tout doit céder dans l'Univers  
+À l'Auguste Héros que j'aime,  
+Il sait l'art de tenir tous les monstres aux fers,  
+Il est Maître absolu de cent peuples divers,  
+Et plus Maître encor de lui-même.  
+
+    LA GLOIRE ET LA SAGESSE
+Tout doit céder dans l'Univers  
+À l'Auguste Héros que j'aime.  
+
+    LA SAGESSE ET SA SUITE
+Chantons la douceur de ses lois.  
+
+    LA GLOIRE ET SA SUITE
+Chantons ses glorieux exploits.  
+
+    LA GLOIRE ET LA SAGESSE ENSEMBLE
+D'une égale tendresse,  
+Nous aimons le même Vainqueur.  
+
+    LA SAGESSE
+Fière Gloire, c'est vous...  
+
+    LA GLOIRE
+        C'est vous, douce Sagesse...  
+
+    LA GLOIRE ET LA SAGESSE
+C'est vous, qui partagez avec moi son grand cœur.  
+
+    LA GLOIRE
+Je l'emportais sur vous tant qu'a duré la Guerre,  
+Mais dans la paix vous l'èmportez sur moi.  
+Vous réglez en secret avec ce sage Roy.  
+Le destin de toute la Terre.  
+
+    LA SAGESSE
+la Victoire a suivi ce Héros en tous lieux ;  
+Mais pour montrer son amour pour la Gloire,  
+Il se sert encore mieux  
+De la Paix que de la Victoire.  
+Au milieu du repos qu'il assure aux Humains,  
+II fait tomber sous ses puissantes mains  
+Un Monstre qu'on a cru si longtemps invincible,  
+On voit dans ses travaux combien il est sensible :  
+Pour votre immortelle Beauté ;  
+Il prévient vos désirs, il passe votre attente,  
+L'ardeur dont il vous aime incessamment s'augmente,  
+Et n'a jamais tant éclaté.  
+Qu'un vain désir de préférence  
+N'altère point l'intelligence  
+Que ce Héros cotre nous veut former :  
+Disputons seulement à qui sait mieux l'aimer.  
+La Gloire repete ce dernter yers avec la Sagesse.
+
+
+    LA GLOIRE ET LA SAGESSE, ENSEMBLE
+Dés qu'on le voit paraître,  
+De quel cœur n'est-il point le maître ?  
+Qu'il est doux de suivre ses pas !  
+Peut-on le connaître  
+Et ne l'aimer pas ?  
+Les Chœurs répètent ces cinq derniers vers. Et la Suite de la gloire et celle de la Sagesse témoignent par des Danses la joie qu'elles ont de voir ces deux divinités, dans une intelligence parfaite.
+
+
+    LA SAGESSE
+Aimons notre Héros, que rien ne nous sépare :  
+Il nous invite aux Jeux qu'on nous prépare :  
+Nous y verrons Penaud, malgré la Volupté,  
+Suivre un Conseil fidèle et sage ;  
+Nous le verrons sortir du Palais enchanté,  
+Où par l'Amour d'Armide il était arrêté,  
+Et voler où la gloire appelle son courage,  
+Le grand Roi qui partage entre nous ses désirs,  
+Aime à nous voir même dans ses plaisirs.  
+
+    LA GLOIRE
+Que l'éclat de son nom s'étende au bout du Monde.  
+Réunissons nos voix ;  
+Que chacun nous réponde.  
+
+    LA GLOIRE, LA SAGESSE ET LES CHŒURS
+Chantons la douceur de ses lois,  
+Chantons ses glorieux exploits.  
+La suite de la Gloire et celle de la Sagesse continuent leur réjouissance.
+
+
+    LES CHŒURS
+Que dans le Temple de Mémoire  
+Son Nom soit pout jamais gravé,  
+C'est à lui qu'il est réservé ,  
+D'unir la Sagesse et la Gloire.  
+
+
+# ACTE I
+Le Théâtre représente une grande place ornée d'un Arc de Triomphe.
+
+
+
+## SCÈNE I
+Armide, Péhnice, Sidonie
+
+
+    ARMIDE
+Dans un jour de Triomphe au milieu des plaisirs,  
+Qui peut vous inspirer une sombre tristesse ?  
+La Gloire, la Grandeur, la beauté, la Jeunesse,  
+Tous les biens comblent vos désirs.  
+
+    SIDONIE
+Vous allumer une fatale flamme  
+Que vous ne ressentez jamais ;  
+L'amour n'ose troubler la paix  
+Qui règne dans votre ame.  
+
+    PHÉNICE ET SIDONIE, ENSEMBLE
+Quel sort a plus d'appas ?  
+Et qui peut être heureux si vous ne l'êtes pas ?  
+
+    PHÉNICE
+Si la guerre aujourd'hui fait craindre ses ravages,  
+C'est aux bords du Jourdain qu'ils doivent s'arrêter,  
+Nos tranquilles rivages  
+N'ont rien à redouter.  
+
+    SIDONIE
+Les Enfers, s'il le faut, prendront pour nous les armes !  
+Et vous savez leur imposer la loi.  
+
+    PHÉNICE
+Vos yeux n'ont eu besoin que de leurs propres charmes,  
+Pour affaiblir le Camp de Godefroy.  
+
+    SIDONIE
+Ses plus vaillants guerriers contre vous sans défense  
+Sont tombés en vôtre puissance.  
+
+    ARMIDE
+Je ne triomphe pas du plus vaillant de tous.  
+Renaud, pour qui ma haine a tant de violence,  
+L'indomptable Renaud échappe à mon courroux.  
+Toat le camp ennemi pour moi devient sensible.  
+Et lui seul, toujours invincible,  
+Fit gloire de me voir d'un œil indifférent,  
+Il est dans l'âge aimable où sans effort on aime...  
+Non je ne puis manquer sans un effort extrême,  
+La conquête d'un cœur si superbe et si grand.  
+
+    SIDONIE
+Qu'importe qu'un'captif manque à votre vie noire,  
+On n'en voit dans vos fers assez d'autres témoins ;  
+Et pour un esclave de moins  
+Un Triomphe si beau perdra peu de sa gloire.  
+
+    PHÉNICE
+Pourquoi voulez-vous songer  
+À ce qui peut vous déplaire  
+Il est plus sûr de se venger  
+Par l'oubli que par la colère.  
+
+    ARMIDE
+Les enfers ont prédit cent fois,  
+Que contre ce guerrier nos armes seraient vaines,  
+Et qu'il vaincra nos plus grands Rois :  
+Ah ! Qu'il me serait doux de l'accabler de chaînes,  
+Et d'arrêter le cours de ses exploits !  
+Que je hais ! Que son mépris m'outrage :  
+Qu'il fera fier d'éviter l'esclavage  
+Où je tiens tant d'autres ééros !  
+Incessamment son importune image  
+Malgré moi trouble mon repos.  
+Un songe affreux m'inspire une fureur nouvelle,  
+Contre ce funeste ennemi,  
+J'ai cru le voir, j'en ai frémi,  
+J'ai cru qui me frappait d'une atteinte mortelle.  
+Je suis tombée aux pieds de ce cruel Vainqueur :  
+Rien ne fléchissait sa rigueur ;  
+Et par un charme inconcevable,  
+Je me sentais cnntrainte à le trouver aimable  
+Dans le fatal moment qu'il me perçait le cœur ;  
+Vous troublez-vous d'une image légère  
+Que le sommeil produit ?  
+Le beau jour qui vous luit.  
+Doit dissiper cette vaine chimère.  
+Ainsi qu'il a détruit  
+Les ombres de la nuit.  
+
+
+## SCÈNE II
+Hidraot, Suite d'Hidraot, Armide, Phénice, Sidonie.
+
+
+    HIDRAOT
+Armide, que le sang qui m'unit avec vous  
+Me rend sensible aux soins que l'on prend pour vous plaire 1  
+Que votre triomphe m'est doux !  
+Que j'aime à voir briller le beau jour qui l'éclaíre !  
+Je n'aurais plus de vœux à faire.  
+Si vous choisissiez un époux.  
+Je vois de près la mort qui me menace  
+Et bientôt l'âge qui me glace  
+Va m'accabler sous son pesant fardeau :  
+C'est le dernier bien ou j'aspire,  
+Que de voir votre hymen promettre à cet Empire,  
+Des Rois formé d'un sang si beau ;  
+Sans me plaindre du sort, je cesserai de vivre.  
+Si ce doux espoir peut me suivre  
+Dans l'affreuse nuit du tombeau.  
+
+    ARMIDE
+La haine de l'Hymen m'étonne,  
+Je crains les plus aimables nœuds.  
+Ah qu'un Cœur devient malheureux  
+Quand la liberté l'abandonne !  
+
+    HIDRAOT
+Pour vous, quand il vous plaît, tout l'Enfer est armé !  
+Vous êtes plus savante en mon art que moi-même :   [1]
+Des grands Rois à vos pieds mettent leur diadème ;  
+Qu'il vous voit un moment, est pour jamais charmé.  
+Pouvez-vous mieux goûter votre plaisir extrême  
+Qu'avec un époux qui vous aime,  
+Et qui soit digne d'être aimé.  
+
+    ARMIDE
+Contre mes ennemis à mon gré je déchaine  
+Le noir Empire des enfers ;  
+L'Amour met des Rois dans mes fers,  
+Je fuis de mille amants maîtresse souveraine :  
+Mais je fais mon plus grand bonheur  
+D'être maîtresse de mon cœur.  
+
+    HIDRAOT
+Bornez-vous vos désirs à la gloire cruelle  
+Des maux que fait votre beauté ;  
+Ne ferez-vous jamais votre félicité ?  
+Du bonheur d'un amant fidèle.  
+
+    ARMIDE
+Si je dois m'engager un jour,  
+Au moins devez vous croire  
+Qu'il faudra que ce soit la Gloire  
+Qui livre mon cœur à l'Amour.  
+Pour devenir mon maître  
+Ce n'est point assez d'être Roi.  
+Ce sera la Valeur qui me fera connaître  
+Celui qui mérite ma foi.  
+Le Vainqueur de Renaud, si quelqu'un le peut-être.  
+Sera digne de moi.  
+
+
+## SCÈNE III
+Troupe de Peuples du Royaume de Damas. Hidraot, Armide, Phénice, Sidonie.
+
+Les peuples du Royaume de Damas témoignent par des danses et par des chants la joie qu'ils ont de l'avantage que la beauté de cette princesse a remporté sur les Chevaliers du Camp de Godefroy.
+
+
+    HIDRAOT
+Armide est encor plus aimable  
+Qu'elle n'est redoutable.  
+Que son Triomphe est glorieux  
+Ses charmes les plus forts sont ceux de ses beaux yeux,  
+Elle n'a besoin d'emprunter l'Art terrible  
+Qui sait quand il lui plaît faire armer les Enfers,  
+Sa beauté trouve tout possible.  
+Nos plus fiers Ennemis gémissent dans ses fers.  
+
+    HIDRAOT ET LE CHŒUR
+Armide est encor plus aimable  
+Qu'elle n'est redoutable.  
+Que son Triomphe est glorieux !  
+Ses charmes les plus forts sont ceux de ses beaux yeux.  
+
+    PHÉNICE ET LE CHŒUR
+Suivons Armide, et chantons sa victoire,  
+Tout l'Univers retentit de sa gloire.  
+
+    PHÉNICE
+Nos Ennemis affaiblis et troublés  
+N'étendront plus le progrès de leurs armes !  
+Ah ! Quel bonheur ! Nos désirs sont comblés.  
+Sans nous coûter ni de sang ni de larmes.  
+
+    LE CHŒUR
+Suivons Armide, et chantons sa victoire,  
+Tout l'Univers retentit de sa gloire.  
+
+    PHÉNICE
+L'ardent Amour qui la fuit en tous lieux  
+S'attache aux cœurs qu'elle veut qu'il enflamme.  
+Il est content de régner dans ses yeux,  
+Et n'ose encor passer jusqu'à son âme.  
+
+    LE CHŒUR
+Suivons Armide, et chantons sa Victoire,  
+Tout L'Univers retentit de sa gloire.  
+
+    SIDONIE ET LE CHŒUR
+Que la douceur d'un triomphe est extrême,  
+Quand on n'en doit tout l'honneur qu'à soi-même.  
+
+    SIDONIE
+Nous n'avons point fait armer nos soldats,  
+Sans leur secours Armide est triomphante ;  
+Tout son pouvoir est dans ses doux appas,  
+Rien n'est si beau, que sa beauté charmante.  
+
+    LE CHŒUR
+Que la douceur d'un triomphe est extrême,  
+Quand, on n'en doit tout l'honneur qu'à soi-même !  
+
+    SIDONIE
+La belle Armide a su vaincre aisément  
+De fiers Guerriers plus craints que le tonnerre,  
+Et ses regards ont en moins d'un moment  
+Danné des lois aux Vainqueurs de la terre.  
+
+    LE CHŒUR
+Que la douceur d'un Triomphe est extrême,  
+Quand on n'en doit tout l'honneur qu'à soi-même !  
+Le triomphe d'Armide est interrompu par l'arrivée d'Aronte, qui avait été chargé de la conduite des Chevaliers Captifs, et qui revient blessé, et tenant à la main un tronçon d'épée.
+
+
+
+## SCÈNE IV, Aronte, Hidraot, Armide, Phénice, Sidonie, Troupe de peuples de Damas.
+
+    ARONTE
+Ô Ciel ! Ô disgrâce cruelle !  
+Je conduisais vos Captifs avec soin ;  
+J'ai tout tenté pour vous marquer mon zèle,  
+Mon sang qui coule en est témoin.  
+
+    ARMIDE
+Mais où sont mes captifs ?  
+
+    ARONTE
+Un Guerrier indomptable  
+Les a délivrés tous.  
+
+    ARMIDE ET HIDRAOT
+Un seul Guerrier ! Que dites-vous !  
+Ciel !  
+
+    ARONTE
+        De nos ennemis c'est le plus redoutable.  
+Nos plus vaillans soldats sont tombés sous ses coups :  
+Rien ne peut résister à sa valeur extrême...  
+
+    ARMIDE
+Ô Ciel ! C'est Renaud.  
+
+    ARONTE
+C'est lui-même.  
+
+    ARMIDE ET HIDRAOT
+Poursuivons jusqu'aux trépas  
+L'ennemi qni nous offense.  
+Qu'il n'échappe pas  
+À notre vengeance.  
+
+    LE CHŒUR
+Poursuivons jusqu'aux trépas  
+L'ennemi qui nous offense.  
+Qu'il n'échappe pas  
+À notre vengeance.  
+
+
+# ACTE II
+Le Théâtre change, et représente une campagne, où une rivière forme une île agréable.
+
+
+
+## SCÈNE I
+Artemidore, Renaud.
+
+
+    ARTEMIDORE
+Invincible Héros, c'est par votre courage  
+Que j'échappe aux rigueurs d'un funeste esclavage ?  
+Après ce généreux recours,  
+Puis-je me dispenser de vous suivre toujours ?  
+
+    RENAUD
+Allez, allez remplir ma place.  
+Aux lieux d'où mon malheur me chasse,  
+Le fier Renaud m'a contraint à punir,  
+Sa téméraire audace :  
+D'une indigne prison Godefroy me menace  
+Et de son Camp m'oblige à me bannir,  
+Ic m'en éloigne avec contrainte,  
+Heureux ! Si j'avais pu consacrer mes exploits  
+À délivrer la Cité sainte  
+Qui gémit sous des dures lois,  
+Suivez les guerriers qu'un beau zèle  
+Presse de signaler leur valeur et leur foi :  
+Cherchez une gloire immortelle,  
+Je veux dans mon exil n'envelopper que moi.  
+
+    ARTEMIDORE
+Sans vous que peut-on entreprendre ;  
+Celui qui vous bannit ne pourra s'en défendre  
+De souhaiter votre retour.  
+S'il faut que je vous quitte ; au moins ne puis-je apprendre  
+En quels lieux vous allez choisir votre séjour.  
+
+    RENAUD
+Le repos me fait violence,  
+La feule Gloire a pour moi des appas :  
+Je prétend adresser mes pas  
+Où la Justice et l'innocence  
+Auront besoin du secours de mes bras.  
+
+    ARTEMIDORE
+Fuyez les lieux où règne Armide,  
+Si vous cherchez à vivre heureux ;  
+Pour le Cœur le plus intrépide  
+Elle a des charmes dangereux,  
+C'est une ennemie implacable,  
+Évitez ses ressentiments ;  
+Puisse le Ciel à mes vœux favorable  
+Vous garantit de ses enchantements.  
+Pat une heureuse indifférence  
+Mon cœur s'est dérobé fans peine à sa puissance,  
+Je la vis seulement d'un regard curieux.  
+Est-il plus mal aisé d'éviter sa vengeance.  
+Que d'échapper au pouvoir de ses yeux ?  
+J'aime la liberté, rien ne m'a pu contraindre  
+À m'engager jusqu'à ce jour.  
+Quand on peut mépriser le charme de l'Amour.  
+Quels enchantements peut-on craindre ?  
+
+
+## SCÈNE II
+Hidraot, Armide.
+
+
+    HIDRAOT
+Arrêtons-nous ici, c'est dans ce lieu fatal  
+Que la fureur qui nous anime  
+Ordonne à l'Empire infernal  
+De conduire notre victime.  
+
+    ARMIDE
+Que l'Enfer aujourd'hui tarde à suivre nos lois !  
+
+    HIDRAOT
+Pour achever le charme il faut unit nos voix.  
+
+    HIDRAOT ET ARMIDE
+Esprit de haine et de rage,  
+Démons, obéissez-nous.  
+Livrez à notre courroux  
+L'Ennemi qui nous outrage.  
+Esprit de haine et de rage,  
+Démons obéissez-nous.  
+
+    ARMIDE
+Démons affreux, cachez-vous  
+Sous une agréable image ,  
+Enchantez ce fier coutage  
+Par les charmes les plus doux. ,  
+
+    HIDRAOT ET ARMIDE
+Esprit de haine et de rage,  
+Démons, obéissez-nous.  
+Armide aperçoit Renaud qui s'approche des bords de la rivière.
+
+
+    ARMIDE
+Dans le piège fatal notre ennemi s'engage.  
+
+    HIDRAOT
+Nos Soldats font cachés dans le prochain boccage,  
+Il faut que sur Renaud ils viennent fondre tous.  
+
+    ARMIDE
+Cette victime est mon partage ;  
+Laissez-moi l'immoler, lailfez-moy l'avantage  
+De voir ce cœur superbe expirer de mes coups.-  
+Hidraot et Armide se retirent.
+
+Renaud, s'arrête pour considérer les bords du fleuve, et quitte une de ses armes pour prendre le frais.
+
+
+
+## SCÈNE III
+
+    RENAUD, SEUL
+Plus j'observe ces lieux, et plus je les admire,  
+Ce Pleuve coule lentement  
+Et s'éloigne à regret d'un séjour si charmant.  
+Les plus aimables fleurs, et le plus donx Zephir  
+Parfument l'air qu'on y respire.  
+Non, je ne puis quitter des rivages si beaux,  
+Un son harmonieux se mêle au bruit des eaux ;  
+Les Oiseaux enchantés se taisent pour l'entendre.  
+Des charmes du sommeil j'ai peine à me défendre.  
+Ce gazon, cet ombrage frais,  
+Tout m'invite au repos sous ce feuillage épais.  
+Renaud s'endort sur un gazon, au bord de la rivière.
+
+
+
+## SCÈNE IV
+Renaud endormi, une naïade qui sort du fleuve, torupe de nymphes, troupe de bergers, troupe de bergères.
+
+
+    UNE NAÏADE
+Au temps heureux où l'on sait plaire  
+Qu'il est doux d'aimer tendrement,  
+Pourquoi dans les périls avec empressement  
+Chercher d'un vain honneur l'éclat imaginaire ?  
+Pour une trompeuse chimère  
+Faut-il quitter un bien charmant ?  
+Au temps heureux où l'on sait plaire  
+Qu'il est doux d'aimer tendrement !  
+
+    LE CHŒUR [2]
+Ha ! Quelle erreur ! Quelle folie !  
+De ne pas jouir de la vie !  
+C'est aux Jeux, c'est aux Amours,  
+Qu'il faut donner les beaux jours.  
+Les Démons sous la figure des nymphes, des bergers et des bergères, enchantent Renaud, en l'enchaînant durant son sommeil avec des guirlandes de fleurs.
+
+
+    UNE BERGÈRE
+On s'étonnerait moins que la saison nouvelle  
+Revint sans amener les fleurs et les zéphirs,  
+Que de voir de nos ans la saison la plus belle  
+Sans l'Amour et sans les plaisirs.  
+Laissons au tendre amour la jeunesse en partage ;  
+La Sagesse a son temps, il ne vint que trop tôt :  
+Ce n'est pas être sage,  
+D'être plus sage qu'il ne faut.  
+
+    LES CHŒURS
+Ah ! Quelle erreur ! Quelle folie !  
+De ne pas jouir de la vie !  
+C'est aux jeux, c'est aux amours  
+Qu'il faut donner les beaux jours.  
+
+
+## SCÈNE V
+Armide, Renaud endormi.
+
+
+    ARMIDE, TENANT UN DARD À LA MAIN
+Enfin, il est en ma puissance,  
+Ce fatal ennemi, ce superbe vainqueur,  
+Le charme du sommeil le livre à ma vengeance.  
+Je vais percer son invincible cœur.  
+Par lui, tous mes captifs sont sortis d'esclavage,  
+Qu'il éprouve toute ma rage...  
+Armide va pourf râper Renaud.f r nt peut exécuter le desseinqu'elle a de lui otfr la vie.
+
+Quel trouble me saisit ? Qui me fait hésiter ?  
+Qu'est-ce qu'en sa faveur la pitié me veut dire ?  
+Frappons... Ciel ! Qui peut m'arrêter ;  
+Achevons... je frémis ! Vengeons-nous... je soupire ;  
+Est-ce ainsi que je dois me venger aujourd'hui ?  
+Ma colère s'éteint quand j'approche de lui.  
+Plus je le vois plus ma colère est vaine,  
+Mon bras tremblant se refuse à ma haine,  
+Ah ! Quelle cruauté de lui ravir le jour !  
+À ce jeune Héros tout cède sur la Terre.  
+Qui croirait qu'il fut né seulement pour la guerre ?  
+Il semble être fait pour l'Amour.  
+Ne puis-je me venger à moins qu'il ne périsse ;  
+Hé ne suffit-il pas que l'Amour le punisse !  
+Puisqu'il n'a pu trouver mes yeux assez charmants,  
+Qu'il m'aime au moins par mes enchantements,  
+Que s'il se peut, je le haïsse.  
+Venez, secondez mes désirs,  
+Démons, transformez-vous en d'aimables zéphirs.  
+Je cède à ce Vainqneur, la pitié me surmonte ;  
+Cachez ma faiblesse et ma honte  
+Dans les plus reculés déserts.  
+Volez, conduisez-nous au bout de l'Univers/  
+Les Démons transformés, en zéphirs, enlèvent Renaud et Armide.
+
+
+
+# ACTE III
+Le Théâtre change et représente un désert.
+
+
+
+## SCÈNE I
+
+    ARMIDE, SEULE
+Ah ! Si la liberté me doit être ravie  
+Est-ce à toi d'être mon vainqueur !  
+Trop funeste ennemi du bonheur de ma vie,  
+Faut-il que malgré moi tu règnes dans mon cœur ?  
+Le désir de ta mort fut ma plus chère envie ,  
+Comment as-tu changé ma colère en langueur ?  
+En vain, de mille amants je me voyais suivie,  
+Aucun n'a fléchi ma rigueur,  
+Se peut-il que Renaud tienne Armide asservie ?  
+Ah ! Si la liberté me doit être ravie,  
+Est-ce à toi d'être mon vainqueur ?  
+Trop funeste ennemi du bonheur de ma vie  
+Faut-il que malgré moi tu règnes dans mon cœur ?  
+
+
+## SCÈNE II
+ArmiDe, Phénice et Sidonie.
+
+
+    PHÉNICE
+Que ne peut point votre art ? La force en est extrême.  
+Quel prodige ! Quel changement !  
+Renaud qui fut si fier, vous aime ;  
+On n'a jamais aimé si tendrement.  
+
+    SIDONIE
+Montrez vous à ses yeux, soyez témoin vous-même.  
+Du merveilleux effet de votre enchantement.  
+
+    ARMIDE
+L'Enfer n'a pas encore rempli mon espérance.  
+Il faut qu'un nouveau charme assure ma vengeance.  
+
+    SIDONIE
+Sur des bords séparez du séjour des humains,  
+Qui peut arracher de vos mains  
+Un ennemi qui vous adore ?  
+Vous enchantez Renaud, que craignez vous encore ?  
+
+    ARMIDE
+Hélas ! C'est mon cœur que je crains  
+Votre amitié dans mon sort s'intéresse :  
+Je vous ai fait conduire avec moi dans ces lieux.  
+Au reste des Mortels je cache ma faiblesse,  
+Je n'en veux rougir qu'à vos yeux.  
+De mes plus doux regards Renaud sut se défendre,  
+Je ne pus engager ce cœur fier à se rendre,  
+Il m'échappa malgré mes soins.  
+Sous le nom du éépit l'Amour vint me surprendre  
+Lorsque je m'en gardais le moins :  
+Plus Renaud m'aimera, moins je serai tranquille ;  
+J'ai résolu de le haïr :  
+Je n'ai tenté jamais rien de si difficile :  
+Je crains que pour forcer son cœur à m'obéir.  
+Tout mon art ne soit inutile.  
+
+    PHÉNICE
+Que votre art serait beau ! Qu'il serait admiré !  
+S'il savait garantir des troubles de la vie !  
+De disposer de son cœur à son gré !  
+C'est un secret digne d'envie,  
+Mais de tous les secrets c'est les plus ignoré.  
+
+    SIDONIE
+La haine est affreuse et barbare ;  
+L'Amour contraint les cœurs dont il s'empare  
+À souffrir des maux rigoureux :  
+Si votre sort est en votre puissance,  
+Faites choix de l'indifférence,  
+Elle assure un repos heureux.  
+
+    ARMIDE
+Non, non, il ne m'est pas possible  
+De passer de mon trouble en un état paisible,  
+Mon cœur ne se peut plus calmer  
+Renaud m'offense trop, ill n'est que trop aimable.  
+
+    MELISSE
+C'est pour moi désormais un choix indispensable.  
+De le haïr ou de l'aimer.  
+
+    PHÉNICE
+Vous n'avez pu haïr ce héros invincible !  
+Lorsqu'il était le plus terrible  
+De tous vos ennemis.  
+Il vous aime, l'Amour l'enchaîne  
+Garderiez-vous mieux votre haine  
+Contre un amant si tendre et si soumis ?  
+
+    ARMIDE
+Il m'aime, quel amour ! Ma honte s'en augmente,  
+Dois-je être aimée ainsi ? Puis-je en être contente ?  
+C'est un vain triomphe, un faux bien.  
+Hélas ! Que son amour est différent du mien !  
+J'ai recours aux Enfers pour allumer sa flamme  
+C'est l'effort de mon art qui peut tout sur son âme,  
+Ma faible beauté n'y peut rien.  
+Par son propre mérite il suspend ma vengeance,  
+Sans secours, sans effort, même sans qu'il y pense,  
+Il enchaîne mon cœur d'un trop charmant lien.  
+Hélas ! Que mon amour est différent du sien ;  
+Qu'elle vengeance ai-je à prétendre  
+Si je le veux aimer toujours ?  
+Quoi, céder sans rien entreprendre ?  
+Non, il faut appeller la Haine à mon secours.  
+L'horreur de ces lieux solitaires  
+Par mon art va se redoubler.  
+Détournez vos regards de mes affreux mystères.  
+Et surtout empêchez Renaud de me troubler.  
+
+
+## SCÈNE III
+
+    ARMIDE, SEULE
+Venez, venez, Haine implacable,  
+Sortez du gouffre épouvantable  
+Où vous faites regner une éternelle horreur.  
+Sauvez-moi de l'Amour, rien n'est si redourable,  
+Contre un ennemi trop aimable :  
+Rendez-moi mon courroux, rallumez ma fureur.  
+Venez, venez, Haine implacable,  
+Sortez du gouffre épouvantable  
+Où vous faites regner une éternelle horreur.  
+La Haine sort des Enfers, accompagnée des Furies, de la Cruauté, de la Vengeance, de la Rage, et des Passions qui dépendent de la Haine.
+
+
+
+## SCÈNE IV
+Armide, Le Haine, Suite de la Haine.
+
+
+    LA HAINE
+Je réponds à tes vœux, ta voix s'est fait entendre  
+Jusques dans le fond des Enfers.  
+Pour toi, contre l'Amour, je vais tout entreprendre,  
+Et quand on veut bien s'en défendre  
+On peut se garantir de ses indignes fers.  
+
+    LA HAINE ET SA SUITE
+Plus on connait l'Amour, et plus on le déteste ;  
+Détruisons son pouvoir funeste,   [3]
+Rompons ses nœuds, déchirons son bandeau ,  
+Brûlons ses traits, éteignons son flambeau.  
+
+    LE CHŒUR, RÉPÈTE CES QUATRE DERNIERS VERS
+Plus on connaît l'Amour, et plus on le déteste,  
+Détruisons son pouvoir funeste ,  
+Rompons ses Nœuds, déchirons son bandeau,  
+Brûlons ses traits, éteignons son Flambeau.  
+La Suite de la Haine s'empresse à briser et à brûler les armes dont l'amour se sert.
+
+
+    LA HAINE ET SA SUITE [4]
+Amour, sort pour jamais, sort d'un cœur qui te chasse,  
+Que la Haine règne en ta place,  
+Tu fais trop souffrir sous ta loi ;  
+Non, tout l'Enfer n'a rien de si cruel que toi.  
+La Suite de la Haine témoigne qu'elle se prépare avec plaisir à triompher de l'Amour.
+
+
+    LA HAINE, APPROCHANT D’ARMIDE
+Sors, sors du sein d'Armide, Amour brise ta chaîne.  
+
+    ARMIDE
+Arrête, arrête, affreuse Haine,  
+Laisse-moi sous les lois d'un si charmant vainqueur.  
+Laisse-moi, je renonce à ton secours horrible,  
+Non, non, n'acheve pas ; non il n'est pas possible  
+De m'ôter mon amour sans m'airacher le cœur.  
+
+    LA HAINE
+N'implores-tu mon assistance  
+Que pour mépriser ma puissance ?  
+Suis l'amour, puisque tu le veux,  
+Infortunée Armide,  
+Suis l'Amour qui te guide  
+Dans un abîme affreux.  
+Sur ces bords écartés c'est en vain que tu caches  
+Le Héros dont ton cœur s'est trop laissé toucher  
+La Gloire à qui tu l'arraches,  
+Doit bientôt te l'arracher,  
+Malgré tes soins, au mépris de tes larmes  
+Tu le verras échapper à tes charmes.  
+Tu me rappelleras, peut-être , dés ce jour :  
+Et ton attente sera vaine :  
+Je vais te quitter sans retour,  
+Je ne puis te punir d'une plus rude peine,  
+Que de t'abandonner pour jamais à l'Amour.  
+La Haine et sa Suite s'abîme.
+
+
+
+# ACTE IV
+
+
+## SCÈNE I
+Ubalde porte un bouclier de diamants, et tien un sceptre d'or, qui lui ont été donné par un magicien, pour dissiper les enchantements d'Armide, et pour délivrer Renaud. Le chevalier Danois porte une épée qu'il doit présenter à Renaud. Une vapeur s'élève et fe répand dans le désert qui a paru au troisième acte. Des antres et des abîmes s'ouvrent, et il en sort des bêtes farouches et des Monstres épouvantables.
+
+
+    UBALDE, ET LE CHEVALIER DANOIS, ENSEMBLE
+Nous ne trouvons partout que des gouffres ouverts ;  
+Armide a dans ces lieux transportées les Enfers.  
+Ah ! Que d'objets horribles !  
+Que de Monstres terribles !  
+Le Chevalier Danois attaque les Monstres, Ubalde le retient, et lui montre le sceptre d'or qu'il porte, et qui leur a été donné pour dissiper les Enchantements.
+
+
+    UBALDE
+Celui qui nous envoie a prévu ce danger.  
+Et nous a montré l'art de nous en dégager.  
+Ne craignons point Armide ni ses charmess  
+Par ce secours plus puissant que nos armes  
+Nous en serons aisément garantis.  
+Laissez-nous un libre passage,  
+Monstres, allez cacher votre inutile rage  
+Dans l'abîme profond d'où vous êtes sortis.  
+Les Monstres s'abîment, la vapeur se dissipe, le désert disparaît, et se change en une Campagne agréable, bordée d'arbres chargés, de fruits et arrosée de ruisseaux.
+
+
+    LE CHEVALIER DANOIS
+Allons chercher Renaud ; le ciel nous favorise  
+Dans notre pénible entreprise.  
+Ce qui peut flatter nos désirs,  
+Doit à son tour tenter de nous surprendre :  
+C'est désormais du charme des plaisirs  
+Que nous aurons à nous défendre,  
+
+    UBALDE, ET LE CHEVALIER DANOIS, ENSEMBLE
+Redoublons nos soins, gardons-nous  
+Des périls agréables,  
+Les enchantements les plus doux  
+Sont les plus redoutables.  
+
+    UBALDE
+On voit d'ici le séjour enchanté  
+D'Armide, et du Héros qu'elle aime.  
+Dans ce Palais Renaud est arrêté  
+Par un charme fatal dont la force est extrême  
+C'est là, que ce vainqueur si fier, si redouté.  
+Oubliant tout jusqu'à lui-même,  
+Est réduit à languir avec indignité  
+Dans une molle oisiveté.  
+
+    LE CHEVALIER DANOIS
+En vain, tout l'Enfer s'intéresse  
+Dans l'Amour qui séduit un cœur si Glorieux  
+Si sur ce bouclier Renaud tourne les yeux,  
+Il rougira de sa faiblesse,  
+Et nous l'engagerons à partir de ces lieux.  
+
+
+## SCÈNE II
+Ubalde, Le chevalier Danois, Lucinde.
+
+Un Démon sous la figure de Lucinde, fille Danoise, aimée du Chevalier Danois. Troupe de Démons transformés en habitants champêtres de l'île qu'Armide a choisie pour y retenir Renaud enchanté.
+
+
+    LUCINDE
+Voici la charmante Retraite  
+De la félicité parfaite ;  
+Voici l'heureux séjour  
+Des jeux et de l'amour.  
+
+    LE CHŒUR
+Voici la charmante Retraite  
+De la félicité parfaite ;  
+Voici l'heureux séjour  
+Des Jeux et de l'Amour.  
+Les habitants champêtres dansent.
+
+
+    UBALDE, PARLANT AU CHEVALIER DANOIS
+Allons, qui vous retient encore ?  
+Allons, c'est trop nous arrêter.  
+
+    LE CHEVALIER DANOIS
+Je vois la Beauté que j'adore,  
+C'est elle, je n'en puis douter.  
+
+    LUCINDE ET LE CHŒUR
+Jamais dans ses beaux lieux nostre attente n'est vaine ,  
+Le bien que nous cherchons se vient offrir à nous,  
+Et pour l'avoir trouvé fans peine,  
+Nous ne l'en trouvons pas moins doux.  
+
+    LE CHŒUR
+Voici la charmante retraite  
+De la félicité parfaite ,  
+Voici l'heureux séjour  
+Des Jeux et de l'Amour.  
+
+    LUCINDE, PARLANT AU CHEVALIER DANOIS
+Enfin, je vois l'amant pour qui mon cœur soupire :  
+Je retrouve le bien que j'ai tant souhaité.  
+
+    LE CHEVALIER DANOIS
+Puis-je voir ici la Beauté  
+Qui m'a soumis à son empire.  
+
+    UBALDE
+Non, ce n'est qu'un charme trompeur  
+Dont il faut garder votre cœur.  
+
+    LE CHEVALIER DANOIS
+Si loin des bords glacés, où vous prites naissance,  
+Qui peut vous offrir à mes yeux !  
+
+    LUCINDE
+Par une magique puissance,  
+Armide m'a conduite en ces aimables lieux ;  
+Et je vivais dans la douce espérance  
+D'y voir bientôt ce que j'aime le mieux.  
+Goûtons-les doux plaisirs que pour nos cœurs fidèles  
+Dans cet heureux séjour l'Amour a préparé.  
+Le devoir par des lois cruelles  
+Ne nous a que trop séparés.  
+
+    UBALDE
+Fuyez, faites-vous violence.  
+
+    LE CHEVALIER DANOIS
+L'Amour ne me le permet pas,  
+Contre de si charmants appas  
+Mon cœur est sans défense.  
+
+    UBALDE
+Est-ce là cette fermeté  
+Dont vous êtes tant vanté ?  
+
+    LE CHEVALIER DANOIS ET LUNCINDE, ENSEMBLE
+Jouissons d'un bonheur extrême.  
+Hé quel autre bien peut valoir  
+Le plaisir de voir ce qu'on aime ;  
+Hé ! Quel autre bien peut valoir  
+Le plaisir de vous voir.  
+
+    UBALDE
+Malgré la puissance infernale,  
+Malgré vous-même, il faut vous détromper  
+Ce sceptre d'or peut dissiper  
+Une erreur si fatale.  
+Ubalde touche Lucinde avec le Sceptre d'or qu'il tient, et Lucinde disparaît aussitôt.
+
+
+
+## SCÈNE III
+Le Chevalier Danois, Ubalde.
+
+
+    LE CHEVALIER DANOIS
+Je tourne en vain mes yeux de toutes parts.  
+Je ne vois plus cette beauté si chère :  
+Elle échape à mes regards  
+Comme une vapeur légère.  
+
+    UBALDE
+Ce que l'Amour a de charmant,  
+N'est qu'une illusion qui ne laisse après elle  
+Qu'une honte éternelle.  
+Ce que l'Amour a de charmant,  
+N'est qu'un funeste enchantement.  
+
+    LE CHEVALIER DANOIS
+Je vois le danger où s'expose  
+Un cœur qui se fuit dans un charme si puissant  
+Que vous êtes heureux si vous êtes exempt  
+Des faiblesses que l'Amour cause.  
+
+    UBALDE
+Non, je n'ai point gardé mon cœur jusqu'à ce jour  
+Près de l'objet que j'aime il m'était doux de vivre ;  
+Mais quand la Gloire ordonne de la suivre  
+Il faut laisser gémir l'Amour.  
+Des charmes les plus forts la raison me dégage,  
+Rien ne nous doit ici retenir davantage ;  
+Profitons des conseils, que l'on nous a donnés.  
+
+
+## SCÈNE IV
+Un démon sous la figure de Mélisse, fille Italienne aimée d'Ubalde, le Chevalier Danois, Ubalde.
+
+
+    MELISSE
+D'où vient que vous vous détournez  
+De ces eaux et de cet ombrage ?  
+Goûtez un doux repos, étrangers fortunés ;  
+Delassez-vous ici d'un pénible voyage,  
+Un favorable sort vous appelle au partage  
+Des biens qui nous sont destinés.  
+
+    UBALDE
+Est-ce vous, charmante Mélisse ?  
+
+    MELISSE
+Est-ce vous, cher Amant ! Est-ce vous que je vois ?  
+
+    UBALDE ET MELISSE ENSEMBLE
+Au rapport de mes sens je n'ose ajouter foi.  
+Se peut-il qu'en ces lieux l'Amour nous réunisse.  
+
+    MELISSE
+Est-ce vous, cher amant ; est-ce vous que je vois ?  
+
+    UBALDE
+Est-ce vous, charmante Mélisse ?  
+
+    LE CHEVALIER DANOIS
+Non, ce n'est qu'un charme trompeur  
+Dont il faut garder votre cœur.  
+Fuyez, faites vous violence.  
+
+    MELISSE
+Pourquoi, faut-il encore marcher mon Amant ?  
+Faut-il ne vous voir qu'un moment  
+Après une si longue absence ;  
+Je ne puis consentir à votre éloignement ;  
+Je n'ai que trop souffert un si cruel tourment,  
+Et je mourrai s'il recommence.  
+
+    UBALDE ET MELISSE, ENSEMBLE
+Faut-il ne nous voir qu'un moment  
+Après une si longue absence ?  
+
+    LE CHEVALIER DANOIS
+Est-ce là cette fermeté.  
+Dont vous vous êtes tant vanté ;  
+Sortez de votre erreur, la Raison vous appelle.  
+Ah ! Que la Raison est cruelle,  
+Si je suis abusé pourquoi m'en avertir ?  
+Que mon erruer ma paraît belle ?  
+Que je serais heureux de n'en jamais sortir ?  
+
+    LE CHEVALIER DANOIS
+J'aurai soin, malgré vous, de vous garantir.  
+Le Chevalier Danois ôte le Sceptre d'or des mains d'Ubalde, il en touche Mélisse, et la fait disparaître.
+
+
+    UBALDE
+Que devient l'objet qui m'enflame  
+Mélisse disparaît soudain.  
+Ciel faut-il qu'un fantôme vain.  
+Cause tant de trouble à mon âme ?  
+
+    LE CHEVALIER DANOIS
+Ce que l'Amour a de charmant  
+N'est qu'une illusion qui ne laisse après elle  
+Qu'une honte éternelle.  
+Ce que l'Amour a de charmant  
+N'est qu'un funeste enchantement.  
+
+    UBALDE, ET LE CHEVALIER DANOIS
+Ce que l'Amour a de charmant  
+N'est qu'un funeste enchantement.  
+
+    UBALDE
+D'une nouvelle erreur, songeons à nous défendre.  
+Évitons des trompeurs attraits ;  
+Ne nous détournons plus du chemin qu'il faut prendre  
+Pour arriver à ce palais.  
+
+    UBALDE, ET LE CHEVALIER DANOIS
+Fuyons les douceurs dangereuses  
+Des illusions amoureuses :-  
+On s'égare quand on les suit ;  
+Heureux qui n'en est pas séduit.  
+
+
+# ACTE V
+Le Théâtre change, et represente le Palais enchanté d'Armide.
+
+
+
+## SCÈNE I
+Renaud, Armide.
+
+
+    RENAUD, SANS ARMES, ET PARÉ DE GUIRLANDES DE FLEURS
+Armide, vous m'allez quitter !  
+
+    ARMIDE
+J'ai besoin des Enfers, je vais les consulter ;  
+Mon art veut de la solitude :  
+L'amour que j'ai pour vous cause l'inquiétude  
+Dont mon cœur se sent agité.  
+
+    RENAUD
+Armide vous m'allez quitter ?  
+
+    ARMIDE
+Voyez en quel lieux je vous laisse.  
+
+    RENAUD
+Puis-je rien voir que vos appas !  
+
+    ARMIDE
+Les plaisirs vous suivrons sans cesse,  
+
+    RENAUD
+En est-il où vous n'êtes pas ?  
+
+    ARMIDE
+Un noir pressentiment me trouble et me tourmente,  
+Il m'anonce un malheur que je veux preyenir ;  
+Et plus notre bonheur m'enchante,  
+Plus je crains de le voir finir.  
+
+    RENAUD
+D'une vaine terreur pouvez-vous être atteinte,   [5]
+Vous qui faites trembler le ténébreux séjour ?  
+
+    ARMIDE
+Vous m'apprenez à connaître l'Amour,  
+L'Amour m'apprend à connoistre la crainte,  
+Vous brûliez pour la Gloire avant que de m'aimer,  
+Vous la cherchiez partout d'une ardeur sans égale.  
+La Gloire est une rivale   [6]
+Qui doit toujours m'alarmer.  
+
+    RENAUD
+Que j'étais insensé de croire  
+Qu'un vain laurier donné par la Victoire :  
+De tous les biens fut le plus précieux ?  
+Tout l'éclat dont brille la Gloire,  
+Vaut-il un regard de vos yeux ?  
+Est-il un bien si charmant et si rare  
+Que celui dont l'Amour veut combler mon espoir ?  
+
+    ARMIDE
+La sévère Raison et le devoir barbare ;  
+Sur les Héros n'ont que trop de pouvoir.  
+
+    RENAUD
+J'en suis plus amoureux plus la raison m'éclaire.  
+Vous aimer, belle Armide, est mon premier devoir ;  
+Je fais ma gloire de vous plaire  
+Et tout mon bonheur de vous voir.  
+
+    ARMIDE
+Que sous d'aimables lois mon âme est asservie !  
+
+    RENAUD
+Qu'il est doux de vous voir partager ma langneur !  
+
+    ARMIDE
+Qu'il m'est doux d'enchaîner un si fameux vainqueur !  
+
+    RENAUD
+Que mes fers sont dignes d'envie !  
+
+    RENAUD ET ARMLDE ENSEMBLE
+Aimons-nous, tout nous y convie  
+Ah ! Si vous aviez la rigueur  
+De m'ôter votre cœur,  
+Vous m'ôteriez la vie.  
+
+    RENAUD
+Non, je perdrai plutôt le jour.  
+Que d'éteindre ma flamme.  
+
+    ARMIDE
+Non, rien ne peut changer mon âme.  
+
+    RENAUD
+Non, je perdrai plutôt le jour,  
+
+    RENAUD ET ARMLDE CHANTENT ENSEMBLE LES DERNIERS VERS QU’ILS ONT CHANTÉ, SÉPARÉMENT
+Non je perdrai plutôt le jour,  
+Que d'éteindre ma flamme ;  
+Non rien ne peut changer mon ame.  
+Non, je perdrai plutôt le jour.  
+Que de me dégager d'un si charmant amour.  
+
+    ARMIDE
+Témoins de notre amour extrême,  
+Vous, qui suiviez mes lois dans ce séjour heureux  
+Jusques à mon retour par d'agréables jeux :  
+Occupez le Héros que j'aime.  
+Les plaisirs, et une Troupe d'amants fortunés, et d'amantes heureuses, viennent divertir Renaud par des Chants et par des Danses.
+
+
+
+## SCÈNE II
+Renaud, Les Plaisirs. Troupe d'Amants fortunés, et d'Amantes heureuses.
+
+
+    UN AMANT FORTUNÉ ET LES CHŒURS
+Les plaisirs ont choisi pour asile  
+Ce séjour agréable et tranquille :  
+Que ces lieux sont charmants,  
+Pour les heureux amants !  
+C'est l'Amour qui retient dans ses chaînes  
+Mille oiseaux qu'en nos bois nuit et jour, on entend.  
+Si l'Amour ne causait que des peines,  
+Les oiseaux amoureux ne chanteraient pas tant.  
+Jeunes Cœurs, tout vous est favorable,  
+Profitez d'un bonheur peu durable.  
+Dans l'hiver de nos ans, l'Amour ne règne plus :  
+Les beaux jours que l'on perd sont pour jamais perdu.  
+Les plaisirs ont choisi pour asile  
+Ce séjour agréable et tranquille.  
+Que ces lieux sont charmants ;  
+Pour les heureux amants !  
+
+    RENAUD
+Allez, éloignez-vous de moi,  
+Doux plaisirs, attendez, qu'Armide vous ramène.  
+Sans la beauté qui me tient sous sa loi,  
+Rien ne me plaît, tout augmente ma peine,  
+Allez, éloignez-vous de moi,  
+Doux plaisirs, attendez qu'Armide vous ramène.  
+Les Plaisirs, les Amants fortunés, et les Amantes heureuses se retirent.
+
+
+
+## SCÈNE III
+Renaud, Ubalde, Le Chevalier Danois.
+
+
+    UBALDE
+Il est seul, profitons d'un temps si précieux.  
+Ubalde présente le bouclier de diamant aux yeux de Renaud.
+
+
+    RENAUD
+Que vois-je ? Quel éclat me vient fraper les yeux ?  
+
+    UBALDE
+Le Ciel veut vous faire connaître  
+L'erreur dont vos sens sont séduits.  
+
+    RENAUD
+Ciel quelle honte de paraître  
+Dans l'indigne état ou je suis ?  
+
+    UBALDE
+Notre General vous rapelle :  
+La Victoire vous garde une palme immortelle,  
+Tout doit presser votre retour ;  
+De cent divers climats chacun court à la guerre ;  
+Renaud seul au bout de la Terre,  
+Caché dans un charmant séjour,  
+Veut-il suivre un honteux amour.  
+
+    RENAUD
+Vains ornements d'un indigne mollesse,  
+Ne m'offrez plus vos frivoles attraits :  
+Restez honteux de ma faiblesse,  
+Allez quittez-moi pour jamais.  
+Renaud arrache les guirlandes de fleurs et les autres ornements inutiles dont il est paré, il reçoit le bouclier de diamants que lui donne Ubalde, et une épée que lui présente le Chevalier Danois.
+
+
+    LE CHEVALIER DANOIS
+Dérobez-vous aux pleurs d'Armide,  
+C'est l'unique danger dont votre âme intrépide  
+A besoin de se garantir.  
+Dans ces lieux enchantés la Volupté préside,  
+Vous n'en sauriez trop tôt sortir.  
+
+    RENAUD
+Allons, hâtons-nous de partir.  
+
+
+## SCÈNE IV
+Armide, Renaud, Ubalde, le Chevalier Danois.
+
+
+    ARMIDE, SUIVANT RENAUD
+Renaud ; Ciel ; ô mortelle peine ;  
+Vous partez ; Renaud ; vous partez ;  
+Démons, suivez ses pas, volez, et l'arrêtez.  
+Hélas ; tout me trahit, et ma puissance est vaine.  
+Renaud ! Ciel ! Ô mortelle peine !  
+Mes cris ne sont pas écoutés,  
+Vous partez : Renaud, vous partez,  
+Renaud s'arrête pour écouter Armide qui continue à lui parler.
+
+Si je ne vous vois plus, croyez-vous que je vive ?  
+Ai-je pu mériter un si cruel tourment ?  
+Au moins comme ennemi, si ce n'est comme Amant,  
+Emmenez Armide captive,  
+J'irai dans les combats, j'irai m'offrir aux coups,  
+Qui seront destinés pour vous :  
+Renaud, pourvu que je vous suive  
+Le sort plus affreux me paraîtra trop doux.  
+
+    RENAUD
+Armide, il est temps que j'évite  
+Le péril trop charmant que je trouve à vous voir.  
+La Gloire veut que je vous quitte,  
+Elle ordonne à l'Amour de céder au devoir :  
+Si vous souffrez, vous pouvez croire  
+Que je m'éloigne à regret de vos yeux ;  
+Vous régnerez toujours dans la mémoire,  
+Vous serez aprés la Gloire  
+Ce que j'aimerai le mieux.  
+
+    ARMIDE
+Non, jamais de l'Amour tu n'as senti le charme ;  
+Tu te plais à causer de funestes malheurs,  
+Tu m'entends soupirer, tu vois couler mes pleurs,  
+Sans me rendre un soupir , sans verser une larme.  
+Par les nœuds les plus doux je te conjure en vain ;  
+Tu suis un fier devoir, tu veux qu'il nous sépare.  
+Non, non ; ton cœur n'a rien d'humain,  
+Le cœur d'un tigre est moins barbare.  
+Je mourrai si tu pars, tu n'en peut douter ;  
+Ingrat, sans toi je ne puis vivre :  
+Mais après mon trépas ne crois pas éviter  
+Mon ombre obstinée à te suivre ;  
+Tu la verras s'armer contre ton cœur sans foi :  
+Tu la trouvera inflexible,  
+Comme tu l'as été pout moi ;  
+Et sa futeur, s'il est possible,  
+Égalera l'amour dont j'ai brûlé pour toi...  
+Ah la lumière m'est ravie ;  
+Barbare ; es tu content ?  
+Tu jouis en parlant,  
+Du plaisir de m'ôter la vie.  
+Armide tombe et s'évanouit.
+
+
+    RENAUD
+Trop malheureuse Armide, hélas !  
+Que ton destin est déplorable.  
+
+    UBALDE ET LE CHEVALIER DANOIS
+Il faut partir, hâtez vos pas,  
+La gloire attend de vous un cœur inébranlable.  
+
+    RENAUD
+Non, la Gloire n'ordonne pas  
+Qu'un grand Cœur soit impitoyable.  
+
+    UBALDE ET LE CHEVALIER DANOIS EMMÈNENT RENAUD MALGRÉ LUI
+Il faut vous arracher aux dangereux appas  
+D'un objet trop aimable.  
+
+    RENAUD
+Trop malheureuse Armide, hélas !  
+Que ton destin est déplorable !  
+
+
+## SCÈNE DERNIÈRE
+
+    ARMIDE, SEULE
+Le perfide Renaud me fuit ?  
+Tout perfide qu'il est, mon lache cœur le fuit.  
+Il me laisse mourante, il veut que je périsse,  
+À regret, je revois la clarté qui me luit :  
+L'horreur de l'éternelle nuit  
+Cède à l'horreur de mon supplice  
+Le perfide Renaud me fuit ?  
+Tout perfide qu'il est mon lâche cœur le suit,  
+Quand le Barbare était en ma puissance,  
+Que n'ai-je cru la Haine et la Vengeance ?  
+Que n'ai-je suivi leurs transports ?  
+Je m'échappe, il s'éloigne, il va quitter ces bords ;  
+Il brave l'Enfer et ma rage,  
+II est déjà près du rivage,  
+Je fais pour m'y traîner d'inutiles efforts.  
+Traître, attends... je le tiens... Je tiens son cœur perfide.  
+Ah ! Je l'immole à ma fureur...  
+Que dís je, où suis-je : hélas ; Infortunée Armide !  
+Où t'emporte une aveugle erreur ?  
+L'espoir de ma vengeance est le seul qui me reste.  
+Fuyez, Plaisirs, fuyez, perdez tous vos attraits.  
+Démons, détruisez ce Palais,  
+Partons, et s'il se peut, que mon Amour funeste.  
+Demeure enseveli dans ces lieux pour jamais.  
+Les Démons détruisent, le Palais enchanté et Armide part sur un char volant.
+
+
+-------
+
+
+[1] Diadème : c'était autrefois un bandeau royal tissu de fil, de laine, ou de soie, qui était la marque de la royauté. F
+
+[2] Dans l"dition originale, "Quelle" est écrit "Qu'elle".
+
+[3] L'amour est souvent représenté avec un bandeau sur les yeux, car l'amour rend aveugle.
+
+[4] Dans l'dition originale, Amour est transcrit au pluriel dans ce vers.
+
+[5] Ténébreux séjour : les enfers.
+
+[6] L'original pote "Que doit toujours..."

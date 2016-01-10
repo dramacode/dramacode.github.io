@@ -1,0 +1,2359 @@
+
+
+**** *book_boyer_agamemnon *id_dedicace *date_1680 *creator_boyer
+
+A MADAME LA DUCHESSE DE BOUILLON :
+
+MADAME,
+
+J'ay sujet de craindre que le destin de cette Tragédie n'ait quelque chose de semblable à celuy d'Agamemnon.
+Ce Roy, Chef de toute la Grece, perit au sein de sa famille, après avoir heureusement évité les perils d'une guerre de dix années ; Et peut-estre que mon Ouvrage exposé de plus prés aux yeux des Critiques, succombera sous leurs atteintes, quelque heureux succés qu'il ait eû pendant ses Representations.
+Quel moyen de l'en garantir si vous ne daignez agréer que je le mette sous la protection de VÔTRE ALTESSE ?
+L'éclat de vôtre Rang, et de vos rares qualitez inspirent pour vous une veneration qui fera taire les Censeurs ; Et si les Anciens respectoient tout ce qui estoit consacré à leurs Deïtez fabuleuses, j'espere avec plus de raison, qu'on sera contraint d'épargner tout ce qui portera un nom aussi glorieux que le vostre.
+Mais, MADAME, ce n'est pas seulement un azile que je cherche auprés de VÔTRE ALTESSE, quand je luy présente ce Poëme.
+L'accueil et l'appuy favorable dont vous honorez les Sciences, cette connoissance parfaite que vous avez de ce qu'il y a de plus singulier chez les Grecs et chez les Latins, font que l'on vous doit comme un tribut tout ce qu'on produit de plus beau dans l'empire des belles Lettres.
+Pour Moy, MADAME, qui ay déjà trouvé un Mecene en VÔTRE ALTESSE, non seulement je vous offre ces prémices, mais je fais vœu de vous consacrer tous les fruits de mes estudes et de mes veilles, et d'estre toute ma vie avec un profond respect,
+
+MADAME,
+
+DE VÔTRE ALTESSE,
+
+Le tres humble et tres Obeïssant serviteur,
+
+PADER D'ASSEZAN,
+
+**** *book_boyer_agamemnon *id_body-3-1 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Ouy, Pylade, il est vray, la valeur et l'adresse
+Ont de l'Asie enfin fait triompher la Grece.
+De tous côtez en foule on vient dans cette Cour,
+Croyant d'Agamemnon celebrer le retour,
+Et toy-mesme suivant le zele⁎ qui te guide,
+Pour voler dans Mycene as quitté la Phocide.
+Cependant cher Amy, tes soins⁎ sont superflus.
+Les Troyens sont vangez : mon Père ne vit plus.
+
+-*who_pylade
+Il n'est plus ! ô disgrace⁎ à jamais déplorable⁎ !
+Des caprices du sort⁎ exemple memorable !
+Monarque infortuné ! mais de grace⁎, Seigneur,
+Quand, comment a pery cét illustre⁎ Vainqueur ?
+
+-*who_oreste
+Après que pour vanger l'enlevement d'Helene
+Il eut mis Ilion soûs le joug de Mycene.
+Enfin à la faveur et des Vens et des Eaux
+Il retournoit en Grece avec mille Vaisseaux.
+De Proye et de Captifs cette flotte chargée
+Couvroit presque déjà toute la mer Egée,
+Déjà du haut des masts les expers Mathelots
+Découvroient les sommets des montagnes d'Argos :
+Quand après un long calme il s'éleve un orage
+Qui des Grecs les plus fiers fait trembler le courage ;
+Et bien-tôt les écüeils, l'eau, la foudre⁎ et les vens
+Font périr à l'envie leurs vaisseaux triomphans.
+Celuy d'Agamemnon, par les vagues émuës,
+Tantôt presqu'englouty, tantôt parmy les nuës,
+Enfin malgré les vœux et tout l'Art des Nochers
+Heurte, s'ouvre et le brise entre d'affreux⁎ rochers.
+
+-*who_pylade
+Juste Ciel !
+
+-*who_oreste
+Pour cacher des objets si funebres,
+La tempeste et la nuit redoublent leurs tenebres
+Et des flots agitez les contraires efforts
+Dispersent en cent lieux le débris et les Morts.
+
+-*who_pylade
+Mais enfin sçait-on bien qu'Agamemnon luy-même,
+Seigneur, ait succombé dans ce peril extrême⁎ ?
+La douleur quelquefois trouble⁎, aveugle, séduit ;
+Et le bruit de la perte est peut-être un faux bruit.
+
+-*who_oreste
+Ah Pylade ! Eurybate échapé de l'orage
+Vint d'abord de mon Père annoncer le naufrage,
+Et depuis quelques Grecs arrivés dans ce Port
+N'ont que trop confirmé son funeste raport.
+Encor, si sur les bords⁎ l'onde⁎ daignant le rendre,
+J'avais dans un tombeau pû renfermer sa cendre :
+Mais Oreste est privé de ce bien precieux
+Qu'au plus simple des Grecs ont accordé les Cieux,
+Et ma douleur n'a pû que par des sacrifices
+A ses Manes errans rendre les Dieux propices.
+Voilà par quel destin ces Dieux nous ont trahis.
+Voilà le sort⁎ du Père, apprens celuy du Fils.
+Le grand Agamemnon ayant mis Troye en cendre,
+Des filles de Priam ne voulut que Cassandre,
+Et bien-tôt avec elle envoya dans ces lieux
+Du butin le plus rare un amas glorieux.
+Quel devins-je au moment que je fus sur la rive
+Recevoir dans un Char cette illustre⁎ Captive !
+Ces dépoüilles Amy, qu'on traïnoit sur ses pas,
+Armes, Esttendars, tout relevoit ses appas.
+Quelquefois à la voir ferme, fiere et constante
+On eût dit qu'à Mycene elle entroit triomphante.
+Quelquefois sur son front une noble douleur
+Faisoit aux plus cruels⁎ déplorer son malheur.
+Helas ! bien plus que tous je plaignis sa misere⁎.
+Je fus presque indigné des exploits de mon Père.
+J'admiray sa vertu⁎, j'admiray ses appas.
+Dans ces lieux en tremblant je conduisis ses pas.
+Que te diray-je enfin ? Je pris toute la flâme
+Que l'Amour⁎ peut jamais allumer dans un Ame,
+Et je sens plus de maux par cette passion⁎
+Que les Grecs n'en ont fait dans les murs d'Ilion.
+
+-*who_pylade
+Quoy, Cassandre est pour vous, Seigneur, trop insensible ?
+
+-*who_oreste
+Justes Dieux ! qu'elle a vû mes feux⁎ d'un œil terrible !
+Dés l'enfance voüée au culte des Autels
+Elle abhorre l'amour⁎ des prophanes Mortels.
+Elle hait⁎, cher Pylade, un Amant⁎ dont le Père
+A détruit sa Famille, a causé sa misere⁎,
+Et toûjours trop fidele à ses vives douleurs,
+Sa plus douce réponse est de verser des pleurs⁎.
+
+-*who_pylade
+Vos vertus⁎, vôtre amour⁎, vos soins⁎, vôtre constance,
+Charmeront⁎ ses ennuis⁎, vaincront sa resistance.
+Mais la Reine sçait-elle ?...
+
+-*who_oreste
+Helas ! que me dis-tu ?
+Clytemnestre la plaint⁎ et cherit sa vertu⁎.
+Cependant Clytemnestre et dédaigne et déteste
+Le sang⁎ d'un Ennemy dont Cassandre est le reste
+Et perdant⁎ tout espoir d'obtenir rien sur moy,
+En prenant un Epoux elle veut faire un Roy.
+
+-*who_pylade
+Jusques-là le dépit fait emporter la Reine !
+
+-*who_oreste
+Déjà pour son Hymen⁎ tout s'aprête à Mycene,
+Et le superbe⁎ Egisthe est cet indigne Epoux…
+
+-*who_pylade
+Egisthe ! Ah que ce choix est à craindre pour vous !
+Chargé pendant dix ans par le Roy vôtre Père,
+Du soin⁎ de seconder la Reine vôtre Mère,
+Ce perfide aura sçû par de secrets complots
+S'assurer des plus grands de Mycene et d'Argos.
+
+-*who_oreste
+Oüy, Pylade : d'abord les uns ont fait connêtre
+Que lassez d'une Reine ils veulent voir un Maître :
+D'autres ont soûtenu que l'Estat veut un Roy,
+Plus sçavant à regner et moins jeune que moy.
+Ce sont les sentiments qu'Egisthe leur inspire,
+Et c'est par ces degrez qu'il s'éleve à l'Empire.
+
+-*who_pylade
+N'offrez donc point, Seigneur, en cette occasion
+Des pretextes nouveaux à son ambition.
+Etouffez ou cachez cét Amour⁎ que Cassandre…
+
+-*who_oreste
+Moy cacher un Amour⁎ si glorieux, si tendre !
+Un amour⁎ que le Ciel alluma dans mon sein !
+Ah plutôt…
+
+-*who_pylade
+Mais, Seigneur, quel est vôtre dessein ?
+
+-*who_oreste
+Connais, puisqu'il le faut, mon âme tout entière.
+Je veux… mais quelqu'un vient : C'est la Reine ma Mère ;
+Je dois tâcher encor de fléchir son courroux.
+Va, tu sauras après à quoi je me résous.
+Que son front marque une âme en secret agitée !
+
+**** *book_boyer_agamemnon *id_body-3-2 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Mon fils, vous le savez, vous m'avez irritée ;
+Mais n'importe, du sang⁎ j'écoute encor la voix
+Et je viens vous parler pour la dernière fois.
+Avec combien de soin⁎, avec quelle tendresse
+M'a-t-on vue élever vôtre illustre⁎ jeunesse !
+Quel plaisir si j'avais dans les bras d'un Epoux
+Pu remettre en son fils un Prince tel que vous !
+Il n'est plus : Il a fait un funeste naufrage.
+Son Trône par sa mort devient vôtre héritage :
+Cependant les mutins viennent à haute voix
+De demander qu'Egisthe ici donne des Lois⁎.
+Ne craignez rien, mon fils : Je suis et Mère et Reine ;
+Je mettrai dans vos mains la Grandeur souveraine ;
+Mais il faut qu'un Hymen⁎ auguste avantageux,
+En rende encor le jour plus saint et plus pompeux⁎.
+Ouvrez les yeux, voyez auprès de vôtre Mère
+Les filles de ces Rois qu'assembla vôtre Père.
+Pour chacune à l'envie l'on brigue en cette Cour.
+Choisissez, épousez dés demain, dés ce jour
+La Princesse ou de Crète, ou de Sparte, ou d'Athènes.
+De l'Etat à ce prix je vous remets les Rênes ;
+Mais n'en murmurez pas : je sçay ce que je doy,
+A vous, à vos sujets, à tous les Grecs, à moy.
+
+-*who_oreste
+Je conçoy vos bontez, je voy vôtre prudence.
+Je sens pour vous Respect, Amour⁎, Reconnoissance.
+Mais que j'en donnerois des gages peu certains,
+Si j'osois arracher le Sceptre de vos mains !
+Regnez encor, regnez. Ne croyez point, Madame,
+Qu'on se veüille soustraire aux ordres d'une feme.
+Les Reines comme vous valent les plus grans Rois,
+Et l'Etat ne doit point vous imposer des Lois⁎.
+S'il faut un Maître, enfin j'en accepte le titre ;
+Mais des droits souverains soyez toûjours l'arbitre.
+Voyez toûjours mon Peuple à vos pieds prosterné,
+Vous aurez en moy-mesme un sujet couronné,
+J'en atteste les Dieux. Quant à mon Hymenée⁎,
+Quel besoin pour l'Empire en presse⁎ la journée ?
+Il faut sans ce secours vaincre la trahison,
+Il faut enfin qu'Oreste imite Agamemnon.
+Son bras et non l'Hymen⁎ foûrnit à la Couronne
+Les Champs Arcadiens, Corinthe, Sicionne,
+Et s'il faut à mon tour étendre nos Etats,
+Je ne veux rien devoir qu'au secours de mon bras.
+
+-*who_clytemnestre
+Donnez d'autres raisons⁎ à qui sait vous entendre.
+Je voy que vous aimez toûjours vôtre Cassandre.
+
+-*who_oreste
+Est-ce un crime si grand de s'en laisser charmer⁎ ?
+Un invincible instinct me force de l'aimer.
+
+-*who_clytemnestre
+Cette necessité d'aimer n'est que foiblesse
+Et choisir dans un sang⁎ ennemy de la Grece,
+C'est une lâcheté trop honteuse à mon sang⁎.
+
+-*who_oreste
+Reine, meprisez-vous celles de vôtre rang ?
+Mere, condamnez-vous l'excusable foiblesse
+D'un fils charmé⁎ des yeux d'une auguste Princesse ?
+Vous pour moy si sensible et si juste pour tous !
+
+-*who_clytemnestre
+Je suis la mesme encor ; mais vous, ingrat, mais vous,
+Gardez-vous pour Cassandre une flame⁎ rebelle⁎,
+Quand vos seuls interests me font armer contre elle ?
+La verray-je pour dot n'apporter à mon fils
+Que des pleurs⁎, que des fers, que de tristes débris ?
+Sans Amis, sans Parens, Captive, miserable⁎…
+
+-*who_oreste
+Pour estre infortunée est-elle moins aimable ?
+La vertu⁎ dans les fers, la beauté dans les pleurs⁎,
+N'attire-t-elle pas la pitié des grands cœurs⁎ ?
+Plus elle est malheureuse et plus elle m'est chere.
+Quel plaisir de pouvoir reparer sa misere⁎ !
+Mais vous la haïssez, Madame.
+
+-*who_clytemnestre
+Je le doy,
+Et vous devez aussi la haïr comme moy.
+
+-*who_oreste
+Sur vôtre haine⁎ helas dois-je regler la mienne ?
+Quelles raisons⁎ ?...
+
+-*who_clytemnestre
+Songez que Cassandre est Troyenne.
+Que son frere Pâris, ce lâche ravisseur
+Sût dans Sparte enlever la Princesse ma sœur.
+Pour ouvrir à nos Grecs le chemin de l'Asie,
+Il falut immoler ma fille Iphigenie.
+Troye a fait succomber nos plus braves Heros.
+Ses vainqueurs, mon Epoux a pery sous les flots :
+Et vous épouseriez cette mesme Cassandre,
+Que d'un sang⁎ si fatal⁎ les Dieux ont fait descendre ?
+Ah laissez-là plûtost en proye à ses douleurs
+Prédire l'Avenir pleine de ses fureurs⁎
+Et pousser dans les airs ces tristes Propheties,
+Que ses propres malheurs n'ont que trop éclaircies,
+Et n'allez point en lâche à son sang⁎ odieux
+Mesler le plus beau sang⁎ de la terre et des Dieux.
+Je vois bien, fils ingrat, que ce discours te gesne⁎.
+Mais je le redis, regne et fais une autre Reine,
+Ou par mon propre Hymen⁎ je m'en vay faire un Roy.
+Clytemnestre en ces lieux peut encor plus que toy.
+L'Autel est preparé, la Victime est ornée,
+Le Prestre, tout est prest pour ce grand Hymenée⁎.
+Cruel⁎, ne veux-tu point te garantir d'un mal ?...
+
+-*who_oreste
+Oüy je l'empescheray cét Hymen⁎ fatal⁎,
+Madame, je sçauray…
+
+-*who_clytemnestre
+Quoy jusqu'à la menace !
+Insolent, osez-vous ?...
+
+-*who_oreste
+Excusez mon audace⁎.
+Contre Egisthe mon cœur⁎ tourne tout son courroux,
+Et ne confondra point ce perfide avec vous.
+Tant que vous serez seule au rang de Souveraine
+Vôtre fils à vos loix⁎ se soûmettra sans peine.
+Mais avant qu'avec vous on partage ce rang,
+Cét injuste dessein coûtera bien du sang.
+Je vous laisse y penser.
+
+**** *book_boyer_agamemnon *id_body-3-3 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Ô Ciel, quelle arrogance !
+De tous mes soins⁎ pour luy cruelle⁎ recompense !
+J'ay garenty ses jours des perils les plus grands
+Où l'absence d'un Père expose les Enfans.
+Fille, Veuve de Rois et seule dans Mycene
+Depuis dix ans entiers Maîtresse Souveraine,
+Je luy cede mon rang et cét indigne fils…
+Ah, mon Hymen⁎, Ingrat, punira tes mépris.
+Non que mon seul dépit contre un fils temeraire
+Me contraigne à l'éclat que je suis preste à faire
+Mais...
+
+-*who_doride
+Quel autre motif vous y force en ce jour ?
+
+-*who_clytemnestre
+Te le diray-je ? Helas, Doride, c'est l'amour⁎.
+
+-*who_doride
+Dieux, que m'aprenez-vous ? quoi se peut-il, Madame,
+Que pour Egisthe !...
+
+-*who_clytemnestre
+Egisthe a sçeû toucher mon âme.
+Tout me le fait aimer, un astre injurieux⁎,
+Le temps, l'occasion, le Roy, mon fils, les Dieux.
+
+-*who_doride
+Hé quoi, Madame ?...
+
+-*who_clytemnestre
+Aprens par quelle destinée
+Dans ce fatal⁎ amour⁎ je me trouve entraînée.
+Tu sçais qu'écoûtant trop un Oracle inhumain,
+Dans l'Aulide arresté par un calme soudain,
+Mon Epoux preferant sa Gloire⁎ à sa famille
+Pour obtenir les Vens sacrifia ma fille.
+Quelle douleur pour moy, quels transports⁎, quel courroux !
+Je le nommay cent fois lâche et perfide Epoux,
+Roy cruel⁎, Père indigne. Il partit, son absence
+De mes emportemens calma la violence,
+Des devoirs de son rang je compris les rigueurs
+Et je vins dans Mycene enfermer mes douleurs.
+Cependant par quels soins⁎, avec combien de zele⁎
+Egisthe combattoit ma tristesse mortelle !
+M'aidoit à soûtenir le fardeau de l'Etat !
+Travailloit, s'exposoit pour en croistre l'éclat !
+
+-*who_doride
+On l'admiroit, Madame.
+
+-*who_clytemnestre
+Helas ! qui l'eut pû croire ?
+Egisthe trahissant son devoir et sa Gloire⁎,
+Sous ce zele⁎ apparent, sous ce dehors trompeur
+Cachoit pour Clytemnestre une coupable ardeur⁎.
+
+-*who_doride
+Ciel, qu'entens-je !
+
+-*who_clytemnestre
+Il m'en fit un aveu temeraire.
+Ah que n'en crus-je alors ma trop juste colere.
+Je voulois sur le champ le perdre⁎ ou le bannir,
+J'y prévis des perils, je dus les prévenir⁎,
+Je me tûs : seulement j'employay mon adresse
+Pour pouvoir rappeller mon Epoux dans la Grece,
+J'écrivis, je pressay⁎. Vaine précaution !
+Son grand cœur⁎ ne songeoit qu'à détruire Ilion,
+Ne cherchoit qu'une gloire⁎ à tous les deux fatale⁎.
+Bien plus.
+
+-*who_doride
+Quoy ?
+
+-*who_clytemnestre
+Dans son Camp j'avois une Rivale :
+Il aimoit Briseis, il me manquoit de foy⁎.
+Quel surcroit de douleur et de dépit pour moy !
+Pleine de mes chagrins, sombre, inquiette, triste,
+J'en conçus plus d'horreur⁎ pour la flamme⁎ d'Egisthe,
+Je l'évitois par tout. Ce mépris genereux⁎
+Irritoit sa constance et redoubloit ses feux⁎.
+Pour le bien de l'Etat, ses soins⁎, sa vigilance
+Me forcerent enfin à quelque complaisance :
+Un funeste poison se glissa dans mon sein,
+Et pour comble de maux un recit trop certain
+M'aprit qu'Agamemnon sur les bords du Scamandre
+S'estoit laissé charmer⁎ aux beautez de Cassandre,
+Qu'il vouloit l'arracher au culte de ses Dieux,
+Que peut-estre il venoit l'épouser à mes yeux.
+Je ne le cele⁎ point, toutes ces perfidies
+Jetterrent dans mon cœur⁎ les plus noires furies⁎,
+Et troublant⁎ ma raison⁎ m'alloient presqu'engager
+Dans tout ce qu'a d'affreux⁎ l'ardeur⁎ de se vanger.
+Toutefois tu le sçais, quelle atteinte mortelle
+M'a porté de sa mort la funeste nouvelle !
+J'ay pleuré⁎, j'ay gémy : sans ton cruel⁎ secours,
+De mes jours malheureux j'aurois tranché le cours.
+De mille vains tombeaux j'honnorois⁎ sa mémoire,
+J'allois tout oublier pour soûtenir ma Gloire⁎.
+Mais quand je voy mon fils aimer ce que je hais⁎,
+Oublier son devoir, sa Gloire⁎, mes bien-faits,
+Me braver ; le courroux s'empare de mon âme.
+Je n'examine point si c'est fureur⁎ ou flamme⁎,
+Si c'est haine⁎, vangeance, orgueil, ambition ;
+Tout soûtient aujourd'huy ma resolution :
+La mort de mon Epoux, l'orgueïl d'un fils rebelle⁎.
+La pompe⁎ est toute preste et le peuple m'appelle.
+Aussi bien desormais je ne puis resister
+Au torrent que je sens malgré moy m'emporter.
+Allons au Temple, il faut que ma vangeance éclate,
+Il faut que mon Hymen⁎… Mais que veut Eurybate ?
+
+**** *book_boyer_agamemnon *id_body-3-4 *act_ *date_1680 *creator_boyer
+
+-*who_eurybate
+Ah, Madame ! Apprenez quel est nôtre bonheur.
+La mort d'Agamemnon n'est qu'un bruit imposteur
+Que mes sens abusez ont semé dans Mycene.
+Eace en a porté la nouvelle certaine :
+Il est avec Egisthe.
+
+-*who_clytemnestre
+Agamemnon : ô Dieux !
+Je verray mon Epoux, il revient en ces lieux !
+
+-*who_eurybate
+Emporté tout d'un coup par l'effort de l'orage
+Loin de l'endroit fatal⁎ ou nous fîmes naufrage,
+Lorsque la Mer alloit engloutir ce Heros
+Par un Vaisseau des siens il fut tiré des flots.
+Echapé, grace⁎ au Ciel de ces perils funestes,
+Il a sçeû de sa flotte assembler tous les restes ;
+Mais toûjours quelque obstacle empéchant son retour,
+Il n'a pû vers Mycene aborder qu'en ce jour.
+Déja de ses Vaisseaux la richesse et le nombre
+Portent jusqu'à nos bords⁎ leur éclat et leur ombre.
+Oreste avec les siens court, vole vers le Port.
+Après vous avoir fait ce fidelle rapport,
+Je dois le suivre.
+
+-*who_clytemnestre
+Allez, j'approuve vôtre zele⁎ :
+Je vous suivray de prés.
+
+**** *book_boyer_agamemnon *id_body-3-5 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Quelle grande nouvelle !
+Dieux ! qu'est-ce que je sens, quel trouble⁎ dans mon cœur⁎,
+Quel désordre⁎ confond ma joye et ma douleur ?
+Mais qu'est-ce qui retient ma premiere tendresse ?
+Le vainqueur d'Ilion, le vangeur de la Grece,
+Le Chef de tant de Rois, le grand Agamemnon
+Revient ! que tout s'efface à l'éclat de ce nom.
+Que tout s'évanoüisse au bruit de tant de gloire⁎.
+Qu'il occupe à luy seul mon cœur⁎ et ma mémoire.
+Je vous sens revenir mes premiers sentimens,
+Gloire⁎, vertu⁎, devoir, genereux⁎ mouvemens :
+Je brûle de revoir un Epoux que j'adore.
+Mais grands Dieux quel chagrin m'accable, me devore,
+Quand je voy que bien-tôt cét Epoux va sçavoir
+Les honteux sentimens que j'ay pû concevoir :
+Malheureuse !
+
+-*who_doride
+Ah ! Chassez des pensers trop timides⁎,
+Madame.
+
+-*who_clytemnestre
+Je connois la fierté des Atrides
+Et surtout mes remords dissipant mon erreur
+Des projets que j'ay faits je voy toute l'horreur⁎.
+Est-ce la foy⁎ constante et cette douleur tendre
+Qu'une Epouse fidele auroit duë à sa cendre !
+Sous couleur de vanger de trop justes mépris
+J'allois mettre à son Trône un autre que son fils !
+A quels lâches transports⁎ m'estois-je abandonnée !
+Il va voir l'appareil⁎ d'un indigne Hymenée⁎ !
+Fuyons, partons, quittons ce Palais, ces Estats,
+Et qu'un exil du moins purge mes attentats.
+
+-*who_doride
+Vous, fuïr ? De quelle crainte estes-vous prevenuë⁎ ?
+Juste Ciel ! Vôtre flamme⁎ à moy seule est connuë.
+Qui peut de ce secret instruire vôtre Epoux ?
+Ah ! la fuite feroit un témoin contre vous,
+
+-*who_clytemnestre
+Mon Hymen⁎ resolu va tout faire comprendre.
+
+-*who_doride
+Je voy mille raisons⁎ pour pouvoir vous deffendre,
+Et tous vos vains projets s'étouffant aujourd'huy,
+Le bruit n'en ira pas peut-estre jusqu'à luy.
+Mais quand il sçaurait tout, un projet d'Hymenée⁎⁎
+A d'eternels remords vous a-t-il condamnée ?
+
+-*who_clytemnestre
+D'un projet si honteux, de cette trahison,
+Des remords eternels me demandent raison⁎,
+Et mes troubles⁎ cruels⁎ vont mettre en evidence…
+
+-*who_doride
+De ces trouble⁎ enfin calmez la violence.
+Agamemnon revient : Il est prés de ces lieux.
+
+-*who_clytemnestre
+Allons le recevoir et laissons faire aux Dieux.
+
+**** *book_boyer_agamemnon *id_body-4-1 *act_ *date_1680 *creator_boyer
+
+-*who_cassandre
+Laisse-moy la fureur⁎ dont je suis animée.
+Dans un gouffre de maux les Dieux m'ont abîmée.
+Je ne reconnois plus ny raison⁎ ny devoir,
+Et ma seule esperance est dans mon desespoir :
+La mort est le seul bien que mon cœur⁎ peut attendre.
+
+-*who_ismene
+Quoy, Madame, faut-il que l'illustre⁎ Cassandre,
+Ce digne sang⁎ des Rois, des Heros et des Dieux ?...
+
+-*who_cassandre
+Ah, ne me vante plus un sang⁎ si glorieux.
+N'expose à mes regards que nos longues miseres⁎,
+Tous les miens massacrez, la mort de tous mes freres,
+Mon père dépoüillé des honneurs⁎ de son rang,
+Ses cheveux blancs, soüillez de poussiere et de sang,
+Et sa teste autrefois auguste et reverée
+Par de barbares mains de son corps separée.
+Peins-moy le corps d'Hector encore tout fumant
+Autour de nos Rempars traîné honteusement.
+Offre-moy de Pyrrhus l'impitoyable haine⁎,
+Sur le tombeau d'Achille égorgant Polixene,
+Astianax lancé du haut de nos Rempars
+De ses propres bourreaux effrayant les regars.
+Fais-moy voir des Autels où j'estois attachée
+Par une main impie⁎ enlevée, arrachée.
+Mais qu'est-ce que j'entens ? pour comble de malheur,
+J'entens de toutes parts le nom de mon vainqueur :
+Il revient triomphant. Que de cris d'allegresse !
+Je voy de tous côtés la foule qui le presse.
+Je voy pour l'honorer tous les Grecs assemblez,
+Tandis qu'Ilion n'offre à mes sens desolez,
+Que cendre, que tombeaux, que campagnes desertes,
+Eternels monumens de mes sanglantes pertes :
+Tandis que penetrant jusques aux sombres bords⁎
+Je voy Priam suivy d'une foule de morts,
+Dont les cris douloureux par tout se font entendre
+Et percent jusqu'au cœur⁎ de la triste Cassandre.
+
+-*who_ismene
+Hé, Madame, oubliez ces cruels⁎ entretiens.
+Oubliez le destin de Troye et des Troyens :
+Oreste vous adore.
+
+-*who_cassandre
+Ah ! que m'oses-tu dire ?
+
+-*who_ismene
+Dieux ! quel trouble⁎ nouveau ce nom seul vous inspire ?
+Le haïssez-vous tant luy qui par tant de soins⁎ ?...
+
+-*who_cassandre
+Si je le haïssois je me troublerois⁎ moins.
+
+-*who_ismene
+Ainsi, Madame ?...
+
+-*who_cassandre
+Helas, j'ay crû que dans Mycene,
+Je ne verrois qu'objets de terreur et de haine⁎,
+Que de fiers ennemis horribles⁎ à mes yeux,
+Des lâches Menelas, des Pyrrhus odieux,
+Et mes yeux n'ont rien vû de pareil dans Oreste.
+
+-*who_ismene
+J'en rends graces⁎, Madame, à la bonté celeste.
+Les Dieux pour relever vôtre sort abattu
+Ont permis que ce Prince…
+
+-*who_cassandre
+Helas que me dis-tu ?
+Des maux les plus cruels⁎ dont j'ay lieu de me plaindre⁎,
+L'Amour⁎ est le malheur que j'ay le plus à craindre.
+Je ne te diray point que ma race⁎, mon nom,
+Ma Gloire⁎ me refuse au fils d'Agamemnon :
+Qu'Agamemnon luy-même a pris soin⁎ de me plaire
+Et que je dois haïr et le fils et le père.
+Ces sacrez Ornemens, ces Voiles que tu vois
+Me font contre l'amour⁎ de trop severes lois⁎.
+Tu m'as vue aux Autels à jamais consacrée,
+De Victimes, d'Encens, de Prestres entourée,
+Par un Culte assidu meriter ce grand nom,
+Ce titre glorieux d'Amante d'Apollon,
+Et ce Dieu que je sers par ses vives lumieres,
+Du plus sombre Avenir m'ouvrir tous les mysteres.
+Mais dés que d'un Mortel j'osay souffrir⁎ les vœux,
+Le Dieu qui m'inspiroit retira tous ses feux⁎.
+On croit que l'Avenir m'est une nuit obscure,
+Et ce que je prédis passe pour imposture.
+Les Dieux jaloux d'un cœur⁎ qu'ils veulent tout pour eux
+Font à ce cœur⁎ trop tendre un sort⁎ si rigoureux,
+Que n'estant pas contens de me punir moy-même,
+Leur haine⁎ éclate encor contre tout ce qui m'aime.
+
+-*who_ismene
+Attachée à ces Dieux qui vous traitent si mal,
+Quel fruit recevez-vous d'un culte si fatal⁎ !
+De vos propres vainqueurs la haine⁎ est moins funeste.
+Vos Dieux vous servent moins que l'amoureux⁎ Oreste.
+
+-*who_cassandre
+Le voicy, mon courroux, ma haine⁎, ma douleur,
+Cachés au moins, cachés le secret de mon cœur⁎.
+
+**** *book_boyer_agamemnon *id_body-4-2 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Madame, enfin les Dieux m'ont renvoyé mon Pere.
+Il n'a pû qu'un moment entretenir ma Mère,
+Occupé des respects dont le peuple et la Cour
+D'un Roy victorieux honnorent⁎ le retour :
+Il vous verra bien-tôt. En attendant, Madame,
+Puis-je vous demander le destin de ma flamme⁎ ?
+Tant de pleurs⁎, tant d'ennuis⁎, tant de soins⁎, tant d'ardeur⁎,
+Rien enfin ne peut-il fléchir vôtre rigueur ?
+
+-*who_cassandre
+Quoy toûjours ce discours ? Dieux ! qu'est-ce que vous faites ?
+Songez-vous qui je suis, songez-vous qui vous êtes ?
+Nous sommes ennemis : Est-il rien entre nous
+Qui puisse autoriser un langage si doux ?
+Mais que dis-je ? des Grecs la barbare furie⁎
+M'a ravy liberté, parens, amis, patrie,
+Et vous-mesme à mes maux affectant d'insulter,
+Seigneur, vous vous plaisez à persecuter ?
+Abusant de mes fers vous voulez…
+
+-*who_oreste
+Ah Madame !
+Par quel cruel⁎ discours accablez-vous mon âme ?
+Ciel, verrez-vous toûjours comme un crime odieux
+L'amour⁎, l'ardent amour⁎ que j'expose à vos yeux ?
+Si c'est un crime, helas ! mon destin, mon envie
+Est d'estre criminel tout le temps de ma vie,
+De ne perdre⁎ jamais l'espoir d'un feu⁎ si beau
+Et de porter ma flamme⁎ au-delà du tombeau.
+
+-*who_cassandre
+Et mon destin, Seigneur, est d'avoir l'âme pleine
+De tragiques⁎ fureurs⁎, de desespoir, de haine⁎,
+De me nourrir toûjours d'amertume et de pleurs⁎,
+De craindre, d'anoncer, de souffrir⁎ des malheurs.
+
+-*who_oreste
+Un sort⁎ si malheureux, adorable⁎ Princesse,
+Un destin si cruel⁎ doit-il durer sans cesse ?
+Si les Grecs maintenant ont détruit vos Estats,
+Le Ciel un jour mettra tous leurs Thrônes à bas :
+Tout change tour à tour, tout succombe, tout passe.
+Je sçay quels attentats ont esteint vôtre race⁎ ;
+Mais, Madame, du moins par son heureux secours
+Mon Pere a conservé vôtre gloire⁎ et vos jours.
+Loin de vous retenir en esclave à Mycene,
+Peut-estre voudra-t-il pour vous en faire Reine,
+Pour voir avec nos cœurs⁎ nos Empires unis
+Vous assurer son Trône en vous donnant son fils.
+
+-*who_cassandre
+Ah ! Seigneur,
+
+-*who_oreste
+Si les Grecs vous ont trop outragée⁎
+Par leurs pertes, déja n'estes-vous pas vangée ?
+Bien plus, dans cette Cour cent maux que je prévoy,
+Vont peut-estre éclater par le retour du Roy :
+L'ambitieux Egisthe est puissant dans Mycene.
+Mais dûssent tous les Grecs meriter vôtre haine⁎,
+Devez-vous me punir des maux qu'ils vous ont faits
+Moy que dans vos Estats vous ne vîtes jamais,
+Moy qui m'applaudissois d'un âge où ma foiblesse
+M'épargna les fureurs⁎, les crimes de la Grece ?
+
+-*who_cassandre
+Helas !
+
+-*who_oreste
+Si mon respect, ma tendresse, ma foy⁎,
+N'excitent rien en vous qui vous parle pour moy,
+Frappez, percez ce cœur⁎ accablé de tristesse.
+Punissez-en Oreste, Agamemnon, la Grece,
+Esteignez dans mon sang mes temeraires feux⁎ :
+Que ma mort…
+
+-*who_cassandre
+Vôtre mort n'est pas ce que je veux.
+Etouffez seulement une flamme⁎ funeste,
+On me dédaigne ici, Seigneur, on me déteste.
+N'ayez aussi pour moy que mépris et qu'horreur⁎.
+
+-*who_oreste
+Qui moy, Madame ? ô Dieux !
+
+-*who_cassandre
+Craignez au moins, Seigneur,
+Que Cassandre en ces lieux, que cette infortunée
+Ne verse un noir poison sur vôtre destinée.
+De mon triste ascendant telle est la dure Loy⁎,
+Que je traîne par tout le malheur avec moy.
+Vous estes né, Seigneur, d'Atrée et de Tantale
+Et je sors comme vous d'une race⁎ fatale⁎,
+Funeste à mes amis, funeste à mes amans.
+Tremblez, Prince, voyez leurs affreux⁎ châtimens
+Corebe à mon Hymen⁎ destiné par mon pere
+A peine entré dans Troye y perdit⁎ la lumiere.
+D'un temeraire amour⁎ vôtre Ajax embrasé
+S'est veû presqu'à mes yeux par la foudre⁎ écrasé.
+Craignez, Prince, craignez leur exemple funeste.
+
+-*who_oreste
+Tombe, tombe sur moy la colere celeste.
+Vôtre Amant⁎ ose ici deffier tous vos Dieux,
+Si leur haine⁎ s'attache à ce nom glorieux.
+Mais peut-estre comme eux me haïssant vous-même…
+
+-*who_cassandre
+Vous parler des malheurs que je crains pour qui m'aime,
+Et les craindre pour vous est-ce là vous haïr ?
+
+-*who_oreste
+Ah Madame !
+
+-*who_cassandre
+Arrestez, craignez de vous trahir
+Par l'appas trop flatteur⁎ d'un espoir favorable.
+Rien n'est si malheureux, rien n'est si déplorable⁎
+Que le sort⁎ d'un mortel que mes yeux ont charmé⁎,
+Quels seraient vos malheurs si vous estiez aimé ?
+
+-*who_oreste
+Vous ne m'aimez donc pas et je n'oserois croire…
+
+-*who_cassandre
+Le Roy vient : Tout vous nuit, mon sort⁎, les Dieux, ma Gloire⁎,
+Et je trouve au Roy mesme un obstacle en ces lieux
+Aussi grand que mon sort⁎, que ma Gloire⁎ et les Dieux.
+
+-*who_oreste
+Ah si vous n'estes point à mes vœux trop contraire,
+J'ose tout esperer des tendresses d'un pere.
+Quels vœux ne seront point par le sang⁎ écoutez ?
+
+**** *book_boyer_agamemnon *id_body-4-3 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Que l'on me laisse ici. Vous Arbas arrestez.
+Et vous pour m'acquiter envers le Ciel propice
+Donnez l'ordre mon fils d'un pompeux⁎ sacrifice.
+Pour nos heureux succés rendre graces⁎ aux Dieux,
+C'est le premier devoir d'un Roy victorieux.
+
+**** *book_boyer_agamemnon *id_body-4-4 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+A voir tous les honneurs⁎ qu'on me rend dans Mycene,
+Mon bonheur est parfait et ma gloire⁎ est certaine.
+Cependant que d'ennuis⁎ viennent le traverser !
+
+-*who_arbas
+Et de quoi vôtre esprit va-t-il s'embarrasser ?
+Graces⁎ au Ciel Seigneur vous avez eu la joye
+D'étaler sur ces bords⁎ le triomphe de Troye
+Et vous pouvez, sauvé de la Guerre et des flots,
+Esperer dans Mycene un solide repos.
+
+-*who_agamemnon
+Qu'on en croit aisément une foible apparence !
+Un triomphe pareil n'est pas tout ce qu'on pense.
+Un mélange cruel⁎ en corromp les douceurs.
+
+-*who_arbas
+Dieux ! quel est ce discours ? d'où naissent vos douleurs ?
+
+-*who_agamemnon
+Qu'ay-je aprés tant d'exploits conduit sur ce rivage
+Que les restes affreux⁎ d'un funeste naufrage ?
+Rebut infortuné de la fureur⁎ des eaux,
+J'ay veû qu'on m'élevoit ici de vains tombeaux.
+A travers une joye apparente et contrainte
+J'entrevoy des éclats de douleur et de crainte,
+La Cour me semble triste et le Peuple étonné⁎
+Egisthe est interdit, Oreste est consterné ;
+Et surtout, s'il te faut expliquer ma pensée,
+La Reine m'a paru surprise, embarrassée.
+Son trouble⁎ que j'ai feint de ne pas remarquer,
+Des bruits tristes, confus, qu'on n'ose m'expliquer,
+Des secretes terreurs que je ne puis comprendre…
+
+-*who_arbas
+N'est-ce point que le bruit de vos feux⁎ pour Cassandre.
+
+-*who_agamemnon
+Oüy cher Arbas, sans doute et cette passion⁎
+Va causer des malheurs au vainqueur d'Ilion.
+Tu le sçais toutefois, par quelle resistance
+J'ay tenté d'étouffer ce feu⁎ dans sa naissance !
+Souvent près de Cassandre au lieu d'estre indigné
+Je me suis applaudy de me voir dédaigné.
+Malgré tous mes efforts voyant durer ma flamme⁎,
+J'ay cherché par l'absence à dégager mon âme :
+Mesme affectant l'orgueil d'un Roy victorieux,
+J'ay fait venir Cassandre en Esclave en ces lieux,
+Elle partit de Troye éplorée, éperduë,
+Et moy je respirois éloigné de sa vue.
+Mais Dieux ! dés que j'ay veû les murs de ce Palais
+J'ay senty tout mon cœur⁎ rappellant ses attraits,
+Plus pressé⁎ pour la voir de voler dans Mycene,
+Que par l'ardeur⁎ de voir et mon fils et la Reine.
+
+-*who_arbas
+Seigneur vous pouvez tout, mais de grace⁎ en ce jour
+Souffrez⁎ que je combatte un si funeste amour⁎.
+Pourriez-vous consentir ?...
+
+-*who_agamemnon
+Arreste, oses-tu croire
+Que j'écoute un amour⁎ si fatal⁎ à ma gloire⁎ ?
+Dans l'âge où tu me vois, au declin de mes jours
+J'aurois trop à rougir de ces foles amours⁎.
+Dans l'Asie et parmy la licence⁎ des Armes
+Mes yeux en Briseis ont pû trouver des charmes⁎ ;
+Mais parmy ma famille, au sein de mes Estats
+Je dois de mon amour⁎ vaincre l'indigne appas.
+Que dis-je ? Quand on est à ce comble de gloire⁎
+Ou par tant de travaux⁎ m'a conduit la victoire,
+De l'Univers entier on voit sur soy les yeux
+Détourner, arrester leurs regards curieux,
+Et la moindre foiblesse offre trop à l'envie
+De quoi flétrir l'éclat de la plus belle vie.
+
+-*who_arbas
+Ah ! j'avois bien préveû dans cette occasion
+Qu'un vainqueur si fameux vaincroit sa passion⁎.
+Quel triomphe pour vous ! Quelle gloire⁎ nouvelle !
+
+-*who_agamemnon
+Qu'il en coûte mon cœur⁎ une peine cruelle⁎ !
+Mais pour la mieux guerir, cessons de les revoir
+Ces appas qui sur moy prennent trop de pouvoir.
+Je veux que dans Argos Cassandre se retire.
+Je fais tout preparer, tu pourras l'y conduire :
+Trop heureux si je puis en cét illustre⁎ jour
+Triomphant pleinement de Troye et de l'amour⁎
+Assurer mon repos, consacrer ma memoire,
+Goûter tranquillement les fruits de ma victoire.
+
+**** *book_boyer_agamemnon *id_body-4-5 *act_ *date_1680 *creator_boyer
+
+-*who_eurybate
+Ah Seigneur ! excusez mon abord⁎ indiscret,
+Mais je viens vous apprendre un important secret.
+Icy, presqu'à vos yeux on cabale, on conspire,
+On veut vous arracher la vie avec l'Empire.
+
+-*who_agamemnon
+Juste Ciel !
+
+-*who_eurybate
+D'un projet si noir, si plein d'horreur⁎,
+Le croirez-vous ? Egisthe est le coupable autheur
+Et d'un des conjurez le remord favorable
+Vient de me découvrir ce forfait execrable.
+
+-*who_agamemnon
+Le perfide ! en partant on me vit dans ses bras
+Remettre, abandonner mes enfans, mes Estats,
+Et quand je viens l'ingrat laisse aller sa furie⁎
+Jusqu'à vouloir m'oter et l'Empire et la vie !
+O trahison ! avant qu'il puisse rien tenter,
+Prens mes gardes Arbas et va, cours l'arrester.
+
+**** *book_boyer_agamemnon *id_body-4-6 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Ah lâche, quelques coups⁎ que ta fureur⁎ m'apreste,
+Je les feray bien-tôt retomber sur ta teste.
+Mais depuis quand, comment ce traistre dans son sein
+A-t-il pû concevoir cét horrible⁎ dessein ?
+
+-*who_eurybate
+Il a toûjours pour vous cette haine⁎ funeste,
+Que pour le sang⁎ d'Atrée a le sang⁎ de Thieste
+Et brûlant en secret du desir de regner,
+Pour remplir son orgueil ne veut rien épargner.
+
+-*who_agamemnon
+Mais tandis que j'étois éloigné de Mycene
+N'a-t-il rien attenté contre Oreste ou la Reine ?
+Dis-moy tout ce qu'ici tes yeux en ont pu voir,
+Tout ce qu'on t'en a dit, je pretens⁎ tout sçavoir.
+
+-*who_eurybate
+Seigneur dispensez-moy.
+
+-*who_agamemnon
+Dieux ! quel est ce mystere
+Que je brûle d'apprendre et qu'on cherche à me taire.
+Parle, je te l'ordonne.
+
+-*who_eurybate
+Hé bien, il faut parler.
+Apprenez ce qu'en vain je voudrois vous celer⁎,
+Aussi bien il vaut mieux qu'une bouche fidele
+A vôtre empressement l'expose et le revele.
+Au bruit de vôtre mort qu'on a cruë avec moy,
+L'Etat las d'une Reine enfin vouloit un Roy;
+Mais en le demandant il faisoit bien connêtre,
+Que s'il ne l'obtenoit il se feroit un Maistre.
+Egisthe qui briguoit en secret pour ce choix
+Seigneur, estoit nommé d'une commune voix.
+On brûloit de le voir par l'Hymen⁎ de la Reine
+Elevé dés ce jour au Thrône de Mycene,
+Et quoi que Clytemnestre enfin pût opposer,
+Egisthe l'emportoit, elle alloit l'épouser.
+
+-*who_agamemnon
+L'épouser ? ô destins ! ô fortune jalouse !
+Quel accueil ay-je ici d'un Peuple, d'une Epouse !
+Quel retour ! quel triomphe ! ah voila ces horreurs⁎
+Que m'ont fait pressentir mes secrettes terreurs.
+Sur le bruit incertain d'une mort si cruelle⁎,
+La Reine à ma memoire aussi-tôt infidelle,
+Par son impatience alloit aux yeux de tous
+D'un indigne sujet se faire un autre Epoux !
+Quels soins⁎ a-t-elle pris pour recueillir ma cendre !
+Et quel temps pour les pleurs⁎ qu'elle devoit répandre !
+O Grecs que j'ay vangez et vous lâches sujets,
+Mon fils, Dieux, souffrez⁎-vous ces indignes projets !
+Ceder à des mutins avec tant de foiblesse !
+Quoy tandis que mon bras fait triompher la Grece,
+Tandis que devenu le Chef de tant de Rois
+Je fais aller si loin le bruit de mes Exploits,
+Tandis qu'un monde entier joüit de ma victoire,
+Et qu'au prix de mon sang je me couvre de gloire⁎,
+Elle allait dépoüiller l'heritier de mon rang !
+Elle alloit enlever la Couronne à mon sang⁎ ?
+O trop sensible afront pour un Roy, pour un Pere !
+O trop injuste Reine et trop barbare Mère !
+
+-*who_eurybate
+Seigneur mille raisons⁎ s'opposoient à ce choix.
+
+-*who_agamemnon
+Est-il quelque raison⁎ pour détruire ses droits ?
+L'ingrate ! cet amour⁎ que tes yeux m'ont veû prendre
+Dans les veux de l'aimable et divine Cassandre,
+Cedoit au pur respect du conjugal amour⁎.
+Pour goûter sans remord un glorieux retour,
+Pour faire à Clytemnestre une pleine allegresse,
+J'éloignois pour jamais une illustre⁎ Princesse,
+Et par ce digne effort, mais trop cruel⁎ pour moy,
+J'assurois à la Reine et mon cœur⁎ et ma foy⁎.
+
+**** *book_boyer_agamemnon *id_body-4-7 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Seigneur est-il bien vray ce qu'on vient de m'apprendre ?
+On dit que dans Argos vous envoyez Cassandre,
+Et que daignant ainsi l'éloigner de nos yeux,
+Vous pretendez⁎...
+
+-*who_agamemnon
+Cassandre est encor dans ces lieux ;
+Mais Egisthe qui mesme attentait sur ma vie
+Va bien-tôt expier sa noire perfidie.
+Vous, craignez ce qu'un Juge, un Monarque, un Epoux
+Dans sa juste fureur⁎ ordonnera de vous.
+Dans cet appartement Gardes qu'on la retienne.
+
+**** *book_boyer_agamemnon *id_body-4-8 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+O Ciel ! quelle surprise est égale⁎ à la mienne !
+Qu'ay-je entendu ? Cassandre est encor dans ces lieux.
+Egisthe ose former des complots furieux⁎ !
+Et pour combler encor ma honte et mon supplice
+On me fait arrester, on me croit sa complice !
+Et peut-estre est-il vray que sa temerité
+N'agit que par l'espoir dont je l'avois flatté⁎.
+
+-*who_doride
+Que vôtre sort⁎, Madame, est un sort⁎ deplorable⁎ !
+D'un si noir attentat le Roy vous croit coupable !
+Non, il aime Cassandre, et dans ce triste jour
+Vôtre crime envers luy c'est ce fatal⁎ amour⁎.
+
+-*who_clytemnestre
+Oüy oüy, Doride, il l'aime et son indigne flamme⁎
+Embrasse avidement tout ce qui perd⁎ sa femme.
+Mais contre cet amour⁎ quel secours, quel espoir !
+Opposons-luy son fils, sa vertu⁎, son devoir,
+Et si je ne puis vaincre une ardeur⁎ si fatale⁎
+Doride, il faut perir ou perdre⁎ ma Rivale.
+
+**** *book_boyer_agamemnon *id_body-5-1 *act_ *date_1680 *creator_boyer
+
+-*who_arbas
+Oüy j'ay suivy, Seigneur, vôtre ordre et mon devoir.
+L'ambitieux Egisthe est en vôtre pouvoir :
+Egisthe est arresté malgré sa resistance.
+
+-*who_agamemnon
+Il suffit, laisse-moy. Mais pour plus d'assurance,
+Veille, prens garde à tout, songe Arbas, que ton Roy
+Daigne plus que jamais se reposer sur toy.
+
+**** *book_boyer_agamemnon *id_body-5-2 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Viens Euribate, approche : as-tu dit à la Reine,
+Que mon juste courroux la bannit de Mycene ?
+Ira-t-elle dans Sparte ?
+
+-*who_eurybate
+Oüy Seigneur.
+
+-*who_agamemnon
+De quel front,
+De quel air reçoit-elle un châtiment si promt ?
+
+-*who_eurybate
+En Epouse soûmise, en Reine malheureuse,
+Avec une douleur sage et respectueuse.
+Et si j'osois vous dire un mot en sa faveur.
+
+-*who_agamemnon
+Rien ne peut affaiblir son crime et ma fureur⁎.
+Absent depuis dix ans, je volois vers Mycene,
+Impatient d'y voir une Epouse, une Reine,
+Me garder toute entière une tendre amitié⁎ :
+Ravy de partager avec cette moitié,
+Ce grand amas de gloire⁎ et ce comble de joye,
+Que vient de m'assurer la Conqueste de Troye.
+J'allois mesme, éloignant Cassandre de ces lieux.
+Affliger pour jamais et mon cœur⁎ et mes yeux.
+Que j'avois de foiblesse ! ah mon cher Eurybate,
+Je sacrifiois tout à cette Epouse ingrate.
+Grace⁎ à sa trahison qui souffre⁎ qu'un vainqueur,
+Au gré de ses desirs dispose de son cœur⁎.
+
+-*who_eurybate
+Mais pour Cassandre enfin, n'est-elle pas esteinte
+Cette amour⁎ que j'ay veû vous causer tant de crainte ?
+Vous avez resolu qu'elle parte demain :
+Vous voulez...
+
+-*who_agamemnon
+Il est vray, j'avois fait ce dessein.
+Mais je viens de la voir, et j'ay repris pour elle
+Des desirs si pressans⁎, une flamme⁎ si belle ;
+Que bien loin de vouloir l'éloigner de mes yeux,
+Je pretens⁎ avec moy qu'elle regne en ces lieux.
+
+-*who_eurybate
+Quoy, Seigneur, luy donner la place de la Reine ?
+
+-*who_agamemnon
+La Reine en est indigne, elle sort de Mycene.
+Le divorce Eurybate est commun parmy nous :
+Je sens mesme en secret murmurer mon courous,
+Quant à ce châtiment je veus borner sa peine.
+Mais ne me parle plus de l'objet de ma haine⁎.
+Parle-moy seulement du choix qui m'a charmé⁎,
+De ce divin objet⁎ que les Dieux ont aimé,
+Beauté sans art, fierté sans orgueil, sans foiblesse,
+Dans la honte des fers tout l'air d'une Princesse.
+Dis-moy qu'elle est des Dieux l'interprete et la voix,
+Qui nous eut épargné la mort de tant de Rois
+Et de tant de fureurs⁎ les barbares spectacles,
+Si l'aveugle Troyen avoit cru ses Oracles.
+Je te diray bien plus ; ce n'est pas sans dessein
+Que le Ciel a versé cet amour⁎ dans mon sein.
+Penses-tu qu'au retour d'une effroyable Guerre
+Où des torrens de sang ont inondé la terre,
+Où ma fureur⁎ m'a fait tant de noms odieux,
+Où je me suis chargé de la haine⁎ des Dieux ;
+Crois-tu, qu'on les appaise avec quelques victimes ?
+Il faut bien autrement expier tous mes crimes.
+Pour recouvrer Helene exigeoit-t-on de moy
+De remplir tant d'Estats de carnage et d'effroy ?
+Des enfans égorgez, des filles immolées,
+Des vieillards massacrez, des meres desolées,
+Tous demandent justice et c'est moy leur vainqueur
+Qui dois vanger leur sang et servir leur douleur.
+De tant d'illustres⁎ morts qui ne sont que poussiere,
+La gloire⁎ dans Cassandre est encor toute entière :
+C'est en elle qu'il faut relever ses ayeux,
+Reparer leur disgrace⁎ et satisfaire aux Dieux.
+
+**** *book_boyer_agamemnon *id_body-5-3 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Ah, Seigneur ! qu'ay-je appris, quand je recouvre un pere,
+Faudra-t-il que l'exil me ravisse ma mere ?
+
+-*who_agamemnon
+Je devrois la traitter avec plus de rigueur.
+L'infidelle ! est-ce là cet amour⁎ ?...
+
+-*who_oreste
+Ah Seigneur !
+Doutez-vous que son cœur⁎ vous aime, vous adore ?
+Tout jeune que j'estois il me souvient encore,
+Que mourante et sans voix en vous disant adieu,
+Quand pour vaincre Ilion vous quittâtes ce lieu,
+Clytemnestre à la vie à peine fut renduë.
+Dans ce triste Palais languissante, abatuë,
+Sans cesse on l'entendoit gémir de ses ennuis⁎.
+Que de jours douloureux ! que de cruelles⁎ nuits !
+Combien en m'embrassant, l'esprit remply d'allarmes,
+Ses yeux sur mon visage ont répandu de larmes !
+Avec quel zele⁎ ardent et quels soin⁎ curieux
+Elle faisoit sans cesse observer tous les lieux,
+Où vous aviez voulu que nous eussions la joye
+De voir l'heureux signal du triomphe de Troye !
+Sans moy, sans mon secours, l'erreur de vottre mort,
+Son desespoir, Seigneur, alloit finir son sort⁎.
+Ces regrets, ces tombeaux, ces pleurs⁎, ces sacrifices...
+
+-*who_agamemnon
+Ce sont fausses douleurs et trompeurs artifices.
+En arrivant ici, parmy ces monumens
+On ne voit que Festons, Autels, Vases fumans,
+Trop indigne appareil⁎ d'un fatal⁎ hymenée⁎.
+Mon retour différé d'une seule journée,
+J'allois voir sur le Trône un autre Roy que vous !
+J'allois entre ses bras trouver un autre Epoux !
+O trop dignes sujets d'une implacable haine⁎ !
+
+-*who_oreste
+Ah, Seigneur ! tous les Grecs assemblez dans Mycene
+Sont témoins qu'à grands cris on demandoit un Roy,
+Qui dans l'art de regner fut plus sçavant que moy.
+On nommoit mesme Egisthe. Helas, que pouvoit faire,
+Pour un fils malheureux une impuissante mere ?
+Elle alloit à l'Autel en Victime d'Etat,
+Et cet Hymen⁎ contre elle estoit un attentat.
+Mais j'aurois bien rompu ce funeste Hymenée⁎.
+J'en eusse ensanglanté la fatale⁎ journée.
+J'aurois tout soulevé, j'aurois de coups⁎ mortels,
+Percé le traitre Egisthe aux pieds de nos Autels.
+
+-*who_agamemnon
+Et la Reine vouloit dans ce peril extréme⁎
+Par son indigne Hymen⁎ vous plonger elle-même ?
+Ah ! si contre son fils quelques lâches sujets,
+Osoient d'un temeraire appuyer les projets :
+Si ses yeux devoient voir exposer cette Ville
+Aux tragiques⁎ horreurs⁎ d'une Guerre civile,
+Devoit-elle embrasser que le party d'un fils ?
+Non, Prince, vous et moy, nous estions tous trahis,
+Mais ne m'en parlez plus, que demain elle parte,
+Et qu'elle aille à jamais se renfermer dans Sparte.
+
+-*who_oreste
+Suspendez vôtre arrest : que sur moy seulement,
+Sur le seul criminel tombe le châtiment ;
+La Reine est innocente, et puisque son silence
+L'accuse, je luy dois rendre son innocence.
+Malgré tous nos mutins il ne tenoit qu'à moy
+D'accepter la Couronne et de me faire Roy,
+Ma mere me l'offroit, je regnois dans Mycene,
+Si j'avois de sa main voulu prendre une Reine.
+Mais je n'écoutois rien qu'un temeraire amour⁎,
+Resolu de tout perdre⁎ et le Trône et le jour,
+S'il faloit les sauver en perdant⁎ ce que j'aime.
+C'est ce fatal⁎ amour⁎ donc la fureur⁎ extrême⁎
+Forçoit seule la Reine à faire un autre Roy.
+J'aime Cassandre enfin : Elle a mon cœur⁎, ma foy⁎.
+Jamais l'Amour⁎, les Dieux n'ont jetté dans une âme
+Des transports⁎ plus pressans⁎, une plus vive flamme⁎ :
+Je dois, je veux l'aimer jusques dans le tombeau,
+Trop heureux d'expirer pour un crime si beau
+Et plus heureux encor d'en meriter la peine,
+Si mon sang peut laver le crime de la Reine.
+
+-*who_agamemnon
+Où suis-je ? qu'ay-je oüy ? justes Dieux quel poison
+Répandez-vous toujours sur moy, sur ma maison !
+Allez trop digne fils d'une coupable mere,
+Vanter loin de ma vue un crime temeraire ;
+Ou ne vous offrez plus, fils ingrat, à mes yeux,
+Qu'affranchy d'un amour⁎ qui m'est trop odieux.
+
+**** *book_boyer_agamemnon *id_body-5-4 *act_ *date_1680 *creator_boyer
+
+-*who_eurybate
+Qu'ay-je entendu Seigneur !
+
+-*who_agamemnon
+O disgrace⁎ nouvelle,
+Qui viens fraper mon cœur⁎ d'une atteinte mortelle !
+La Reine, mon devoir, les Dieux, tout en ce jour,
+Semble ouvrir un Champ libre à mon ardent amour⁎,
+Et cependant Oreste adore ce j'aime !
+Je rencontre un Rival dans un autre moy-même !
+Ma Captive triomphe, et par mon propre fils,
+Je voy tous mes desseins et tous mes vœux trahis !
+
+-*who_eurybate
+La Reine vient, Seigneur, accablée, éperduë.
+
+-*who_agamemnon
+La Reine ! ah qu'à jamais elle évite ma vue.
+
+**** *book_boyer_agamemnon *id_body-5-5 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Non, c'est trop de rigueur, quoi que vous ordonniez,
+Pour la derniere fois je me jette à vos piez.
+Je ne viens pas ici rappeller dans vôtre âme,
+Par de tendres adieux vôtre premiere flamme⁎ :
+Vous m'en jugez indigne, et c'est assez, Seigneur,
+Pour ne pretendre⁎ plus de place en vôtre cœur⁎.
+Mais ne pourray-je au moins dans un sort⁎ si funeste,
+Vous parler en faveur du malheureux Oreste ?
+Il adore Cassandre, et jusques à ce jour
+Il m'a vue obstinée à troubler son amour⁎.
+Je le devois, croyant vôtre perte certaine ;
+Mais les temps ont changé : vous estes dans Mycene.
+Permettez que prenant un plus juste dessein,
+Je presente à mon fils Cassandre de ma main.
+Permettez qu'en partant, sa déplorable⁎ mere
+Repare ainsi les maux qu'elle a voulu luy faire.
+Que je voye à mon fils une Epouse en ces lieux,
+Et puisse-t-il dans Sparte un jour fermer mes yeux.
+
+-*who_agamemnon
+Ce langage, Madame, a droit de me surprendre.
+D'où vous vient pour Oreste une amitié⁎ si tendre ?
+Un zele⁎ si nouveau ? sans vous, sans vos avis,
+Je sçauray bien regler le destin de mon fils.
+Laissez de son Hymen⁎ tout le soin⁎ à son pere.
+
+-*who_clytemnestre
+Pourquoy, Seigneur, pourquoy vouloir priver sa mere,
+D'un devoir si sacré, d'un spectacle si dous ?
+Et du dernier bien-fait qu'elle espere de vous ?
+Pourquoy ne point unir Oreste avec Cassandre ?
+
+-*who_agamemnon
+J'ay mes raisons⁎, Madame, et ne dois point en rendre :
+C'est assez et c'est trop que je daigne en ce jour
+Pardonner à mon fils son temeraire amour⁎.
+
+-*who_clytemnestre
+Achevez, achevez, cessez de vous contraindre.
+Je sçay tout, je voy tout : il n'est plus temps de feindre.
+Seigneur, la Renomméc en contant vos Exploits,
+N'a pas pour vous loüer donné toutes ses voix.
+A vôtre honte ici sa bouche a fait entendre
+Le bruit injurieux⁎ de vos feux⁎ pour Cassandre.
+Pour vous, pour mon repos, je voulois en douter ;
+Mais, vos cruels⁎ refus les font trop éclatter.
+Poursuivez élevez vôtre Esclave à ma place.
+
+-*who_agamemnon
+Quel reproche au moment qu'il faut demander grace⁎ !
+Quand un nouvel Hymen⁎ occupoit tous vos soins⁎,
+Aviez-vous de ma mort de fidelles témoins ?
+Il faloit en courant de rivage en rivage
+Par des signes certains confirmer mon naufrage.
+Mère d'Oreste, enfin Veuve d'Agamemnon,
+Il faloit soûtenir l'éclat de ce grand nom.
+II faloit à mon ombre être toujours fidelle,
+Oser tout pour un fils, contre un Peuple rebelle⁎.
+Mais enfin c'en est fait, plus d'Hymen⁎ entre nous,
+Plus de rang en ces lieux, plus de Trône pour vous.
+
+-*who_clytemnestre
+Je quitte avec plaisir le Trône des Atrides,
+Ce Palais teint du sang de tant de Parricides⁎,
+Cét Empire odieux, deshonnoré cent fois.
+Par la haine⁎ des Dieux et les crimes des Rois.
+Le divorce, l'exil ont pour moy plus de charmes⁎
+Qu'un sejour où mes yeux ont versé tant de larmes,
+Qu'un Epoux dont la vie a cent fois démenty
+Le sang⁎ de Jupiter dont il se croit sorty.
+Mais avant que je parte il faut que je te laisse
+L'image des forfaits qui te suivront sans cesse
+Souviens-toy qu'autrefois un vain orgueil du rang
+De ma fille à mes yeux te fit verser le sang :
+La triste Iphigenie... Ah funeste spectacle !
+Calchas mesme eut horreur⁎ de son barbare Oracle.
+Les flammes du bucher cherchant à s'éloigner
+Respectoient la Victime et vouloient l'épargner.
+Souviens-toy quelle ardeur⁎ malheureuse, inutile,
+Enleva Briseis d'entre les bras d'Achille.
+Mais c'est trop peu : tu viens assujettir ton fils
+Aux enfans qui naîtront de la sœur de Pâris !
+Digne Epoux ! grand Monarque ! ô pere et juste et tendre !
+O Heros ! Aime, Epouse et fais regner Cassandre.
+Mais pour le châtiment de ce crime odieux,
+Crains tes remords, ton fils, moy, les Grecs, tous les Dieux.
+
+**** *book_boyer_agamemnon *id_body-5-6 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Ah que l'emportement que sa fureur⁎ déploye,
+Dans mon cœur⁎ étonné⁎ jette une prompte joye !
+Et d'un funeste Hymen⁎ déchirant tous les neus,
+Dégage heureusement un Epoux malheureus !
+Allons chercher Cassandre, et laissons de mon âme
+Echaper à ses yeux tout l'espoir de ma flame⁎.
+
+-*who_eurybate
+Ah laissez-la partir : quel est vôtre dessein !
+
+-*who_agamemnon
+D'aller luy presentcr et mon Sceptre et ma main,
+Mais elle vient.
+
+**** *book_boyer_agamemnon *id_body-5-7 *act_ *date_1680 *creator_boyer
+
+-*who_cassandre
+Seigneur, jusqu'où va vôtre haine⁎ !
+Aprés m'avoir captive envoyée à Mycene :
+On dit que vous voulez m'envoyer dans Argos !
+Faudra-t-il traversant et les Monts et les Flots,
+Que j'aille encor traîner ma misere⁎ et mes chaînes.
+Dans Itaque, en Epire, en Crète, dans Athènes
+Et ferez-vous par tout aux Grecs victorieux,
+De la triste Cassandre un trophée odieux ?
+Ah ! s'il faut de ces lieux éloigner ma présence,
+Daignez me renvoyer au lieu de ma naissance.
+Que je puisse revoir ses débris, ses tombeaux.
+Objets à ma douleur plus charmants⁎ et plus beaux,
+Que la pompe⁎ et l'orgueïl des villes de la Grece.
+Que le triste Ilion voye encore sa Princesse
+Honnorer⁎ la misere⁎, adoucir les malheurs
+Des vivans par ses soins⁎ et des morts par ses pleurs⁎.
+
+-*who_agamemnon
+Quoy, Madame, avez-vous tant d'horreur⁎ pour Mycene ?
+Vous estes dans ma Cour et libre et souveraine.
+Mais ces soins⁎, ces respects qu'on vous rend en ces lieux,
+Ont-ils trop peu d'appas pour arrester vos yeux ?
+Aimez-vous mieux aller sur les bords du Scamandre
+Y voir Troye embrasée et pleurer⁎ sur sa cendre,
+Que me voir dans ma Cour environné de Rois,
+Plus que jamais Madame asservy sous vos lois⁎ ;
+Aprés tous vos mépris dont j'ay souffert⁎ l'outrage⁎,
+De mon fidelle amour⁎ renouveller l'hommage ?
+
+-*who_cassandre
+Qu'entens-je ?
+
+-*who_agamemnon
+Avez-vous crû que l'absence ou le temps
+Esteindroit dans mon cœur⁎ des feux⁎ si violens ?
+Ah ! si ce cœur⁎ pour vous a brûlé devant Troye,
+De quels tourmens depuis me suis-je veû la proye !
+Dans les premiers transports⁎ de mes ardens desirs
+Je n'osois qu'en tremblant expliquer mes soûpirs⁎.
+Mais enfin dégagé d'une Epouse perfide,
+Ma passion⁎ muette, étonnée⁎ et timide⁎,
+Ne peut-elle parler quand pour vous couronner,
+J'ay tout mon cœur⁎, ma main, mon Sceptre à vous donner ?
+Permettez donc, Madame...
+
+-*who_cassandre
+Ah ! cessez ce langage,
+Et ne m'accablez point par ce dernier outrage⁎.
+Juste Ciel ! quoi j'ay veû nos Estats saccagez,
+Mon pere massacré, tous les miens égorgez !
+Les Troyens sont détruits ! Ilion est en cendre !
+Quel temps, quel appareil⁎ pour l'Hymen⁎ de Cassandre !
+La fille de Priam, l'Amante d'Apollon,
+Uniroit son destin au sort⁎ d'Agamemnon !
+On me verroit porter cette main innocente,
+Dans une main encor de sang toute fumante !
+J'irois vous épouser sur des Autels parez
+Des drapeaux des Troyens sanglans et déchirez !
+Ah, Seigneur ! que sur moy vôtre vangeance assemble
+Tous les maux qu'ont soufferts⁎ tous les Troyens ensemble :
+On me verra sans crainte expirer à vos yeux,
+Fidelle à ma douleur, à ma gloire⁎, à mes Dieux.
+
+-*who_agamemnon
+Quoy je seray toûjours en bute à vôtre haine⁎ !
+Dans vos Temples Achille épousa Polixene,
+Et Pyrrhus doit s'unir à la veuve d'Hector !
+Le seul Agamemnon ?...
+
+-*who_cassandre
+Je vous le dis encor,
+Dussay-je m'attirer vôtre fureur⁎ extrême⁎.
+Je hais⁎ Agamemnon beaucoup plus qu'il ne m'aime.
+De nôtre inimitié c'est la fatale⁎ loy⁎,
+Et ma haine⁎, Seigneur, ne mourra qu'avec moy.
+
+-*who_agamemnon
+Mais cette haine⁎ enfin et si pleine et si fiere,
+Cette invincible horreur⁎, vient-elle toute entière
+De la fatale⁎ loy⁎ qui nous fait ennemis ?
+Haïssez-vous ainsi tous les Grecs et mon fils ?
+
+-*who_cassandre
+Vôtre fils ! quoi, Seigneur ? vous croyez...
+
+-*who_agamemnon
+Ah, Madame !
+Ce trouble⁎ fait trop voir le secret de vôtre âme.
+Voilà cette douleur, cette gloire⁎, ces Dieux,
+Dont vôtre amour⁎ vouloit se couvrir à mes yeux
+
+-*who_cassandre
+Non Seigneur, je n'ay point l'âme assez inhumaine,
+Pour confondre avec vous vôtre fils dans ma haine⁎.
+Loin de causer mes maux il leur donne des pleurs⁎,
+Et si l'accablement, l'excès de mes malheurs
+Permettoit à mon cœur⁎ de prendre quelque flame⁎…
+
+-*who_agamemnon
+Il n'en a pris que trop, avouez-le, Madame.
+Mon malheur est enfin pleinement éclaircy.
+Femme, sujets, enfans, amis et vous aussi :
+Tout me hait⁎, tout me pert et tout me desespere.
+Mais je ne prétens plus contraindre ma colere,
+Et c'est sur ce Rival qui vous devient si cher,
+Que mon ressentiment se va tout attacher.
+J'ay trop d'amour⁎ encor pour l'ingrate Cassandre.
+Mais, je ne dis qu'un mot, c'est à vous de l'entendre,
+Vôtre vainqueur est maître et d'Oreste et de vous.
+Vôtre vainqueur enfin veut estre vôtre Epous.
+Songez-y bien, adieu.
+
+**** *book_boyer_agamemnon *id_body-5-8 *act_ *date_1680 *creator_boyer
+
+-*who_cassandre
+Ciel ! que viens-je d'entendre !
+Oreste infortuné ! malheureuse Cassandre !
+Helas ! je sens mon cœur⁎ si sensible à tes feux⁎
+Cher Prince, et cependant loin de te rendre heureux,
+Ton amante⁎ t'expose aux fureurs⁎ de ton pere !
+
+-*who_ismene
+Ah, Madame esperez…
+
+-*who_cassandre
+Que veus-tu que j'espere,
+D'un vainqueur endurcy, d'un Roy dont les Ayeux
+Par leurs crimes cent fois ont effrayé les Dieux ?
+Ah ! si malgré les pleurs⁎ de toute sa famille,
+Ce barbare en partant sacrifia sa fille,
+Dieux ! que n'osera point son horrible⁎ courroux
+Ismene, contre un fils dont il est trop jaloux ?
+
+-*who_ismene
+Hé bien, puisqu'il le faut, par cét Hymen⁎ funeste,
+D'un peril trop certain garantissez Oreste.
+
+-*who_cassandre
+Juste Ciel ! quel conseil ! quel indigne secours !
+Allons plustôt finir ma misere⁎ et mes jours.
+Allons, d'Agamemnon flattant⁎ l'injuste flamme⁎,
+Irriter contre luy les fureurs⁎ de sa femme,
+Mettre en trouble Mycene et voir ses Citoyens
+S'immoler de leur main aux manes des Troyens.
+Allons enfin.
+
+-*who_ismene
+Hé bien dans ce desordre⁎ extrême⁎,
+Que fairez-vous ?
+
+-*who_cassandre
+Helas! le sçay-je encor moy-même ?
+Ombres de mes parens et vous Dieux que je sers,
+Dieux qui voyez la honte et l'horreur⁎ de mes fers,
+Quel secours dois-je offrir à l'ardeur⁎ qui m'emporte ?
+Donnez-moy vos conseils : quels qu'ils soient il n'importe
+Pourveu que ces conseils secondent le courrous
+De ce cœur⁎ tout remply de sa gloire⁎ et de vous.
+
+**** *book_boyer_agamemnon *id_body-6-1 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Ouy c'en est fait, Cassandre oublie enfin la haine⁎.
+Cassandre veut monter au Thrône de Mycene.
+Elle veut m'épouser, elle veut dés ce jour,
+Payer par son Hymen⁎ mes soins⁎ et mon amour⁎.
+
+-*who_eurybate
+Seigneur m'est-il permis d'expliquer ma surprise ?
+Je connois mal Cassandre, ou Cassandre déguise.
+Quel charme⁎, quel miracle a si subitement
+Dans un cœur⁎ ennemy fait ce grand changement ?
+Ne vous flattez⁎-vous point et voulez-vous qu'on croye,
+Qu'il n'est rien qui resiste au fier vainqueur de Troye ?
+Mais comment pourront voir cét Hymen⁎ odieux,
+Ces Grecs que vôtre gloire⁎ assemble dans ces lieux ?
+N'auront-ils veù Cassandre envoyée à Mycene,
+Que pour remplir le rang dont vous chassez la Reine ?
+
+-*who_agamemnon
+Ils verront qu'ennemy de l'infidelité,
+Je rens à la vertu⁎ ce qu'elle a mérité ;
+Que juste possesseur de la grandeur suprême,
+Je dispose à mon gré, du Thrône et de moy-même.
+Les Grecs prétendroient-ils tyranniser⁎ mes veux ?
+Et dans quel temps encor ! quand j'ay tout fait pour eux !
+Quand au prix de mon sang j'ai vangé les ravages
+Qu'autrefois les Troyens ont fait sur leurs rivages !
+Que dis-je quand je viens d'assurer pour toûjours,
+Leurs biens, leur liberté, leur hôneur et leurs jours !
+Du butin partagé sur les bords du Scamandre,
+Je me suis reservé la divine Cassandre :
+Nos Chefs me l'ont cedée, et je puis à mon tour
+Donner, comme ils ont fait, quelque chose à l'amour⁎.
+
+-*who_eurybate
+Je ne vous presse⁎ point par ces raisons⁎ de gloire⁎
+Qui rendent un grand cœur⁎ jaloux de sa memoire,
+Par des raisons⁎ d'Estat qui parlent contre vous.
+Mais par ces noms sacrez et de pere et d'épous ;
+Mais par tout ce qu'ils ont et de tendre et d'auguste.
+Aimez-vous mieux les noms de cruel⁎ et d'injuste ?
+Voulez-vous accabler une illustre⁎ moitié ?
+Desesperer d'un fils si digne de pitié ?
+Seigneur…
+
+-*who_agamemnon
+N'augmente point la cruelle⁎ tendresse,
+Qui me parle en secret et murmure sans cesse.
+Ah ! je n'aime que trop ceux que je dois haïr.
+Mais enfin pour tous deux faudra-t-il me trahir ?
+Qu'esclave malheureux d'un fils et d'une femme,
+Un vainqueur se refuse aux douceurs de sa flame⁎ ?
+Des Rois mes Compagnons, mes Voisins, mes Amis,
+Qui brûlent tous de faire un gendre de mon fils,
+Me verront-ils pour luy choisir une ennemie ?
+
+-*who_eurybate
+Mais, Seigneur, avec vous la verront-ils unie ?
+
+-*who_agamemnon
+Ces raisons⁎ contre un fils ne sont pas contre moy.
+Cassandre est dans mes fers, j'ay vaincu, je suis Roy :
+A mon Hymen⁎ enfin Cassandre est resoluë.
+Mais je veux à mon fils en épargner la veuë.
+Je viens de le mander. Il paroist, laisse nous.
+
+**** *book_boyer_agamemnon *id_body-6-2 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Quelle bonté Seigneur, m'appelle auprés de vous ?
+
+-*who_agamemnon
+Vous sçavez à quel point la Reine vôtre mere,
+Par son ingratitude excite ma colere.
+Cependant je veux bien que le bannissement
+Et le divorce seul bornent son châtiment :
+Voulant lui faire grace⁎, il faut que son absence,
+A sa confusion épargne ma présence.
+Je fais plus, sçachant bien qu'une tendre amitié⁎
+Vous fait de ses malheurs ressentir la moitié,
+Vous irez avec elle à Sparte où je l'envoye :
+La présence d'un fils luy rendra quelque joye.
+C'est-là que vous pourrez commencer de gagner
+Ces Peuples, ces Estats où vous devez regner ;
+Car enfin vous sçavez que l'Hymen⁎ d'Hermione,
+Sur vôtre teste un jour doit mettre une Couronne :
+Un accord arresté par son pere et par moy,
+A cét Hymen⁎ pour vous engage nôtre foy⁎.
+C'est trop peu, voulant mieux consoler vôtre absence,
+Je partage avec vous la suprême puissance
+Et content de Mycene où je regne en repos,
+Sans attendre ma mort, je vous fais Roy d'Argos.
+Vous recevez cette offre avec si peu de joye,
+Que je ne sçay mon fils ce qu'il faut que j'en croye.
+
+-*who_oreste
+Dés l'enfance privé du plaisir de vous voir,
+Vôtre retour faisoit mon plus charmant⁎ espoir,
+Et vous ne voulez pas, Seigneur, que j'en jouïsse !
+Qu'ay-je fait à vos yeux digne de ce supplice ?
+Je ne m'attendois pas qu'à vôtre heureux retour,
+Mon départ, ma disgrace⁎ en dût marquer le jour
+Vous me flattez⁎ en vain par l'offre d'un Empire.
+Ce n'est point pour ce rang que mon ame soûpire⁎ :
+Quelle honte pour moy d'oster à vôtre main
+La plus belle moitié du pouvoir souverain !
+Au retour d'une illustre⁎ et fameuse victoire,
+Laissez-moy prés de vous joüir de vôtre gloire⁎.
+Je suis jeune et c'est vous qui devez m'enseigner
+Par vos propres leçons le grand art de regner.
+
+-*who_agamemnon
+Si l'Hymen⁎ d'Hermione et juste et necessaire,
+Si le Thrône d'Argos, si l'exil d'une mere,
+N'ont rien qui vous oblige à quitter ce sejour,
+Je voy trop jusqu'où va l'erreur de vôtre amour⁎.
+Quoy, je verray mon fils au moment que j'arrive
+Prisonnier et chargé des fers de ma Captive !
+Est-ce ainsi que fuyant un indigne repos,
+Vous marchez comme moy sur les pas des Heros ?
+Pelops, Thesée, Hercule, ont-ils dans leur jeunesse
+Languy honteusement aux pieds d'une Maîtresse⁎ ?
+Ils ont finy par où vous voulez commencer.
+Dans les bras de l'Amour⁎ on peut se délasser,
+Quand par un nom fameux et tout brillant de gloire⁎,
+On a sçeû pour jamais assurer sa memoire.
+
+-*who_oreste
+L'Amour⁎ qui dans mon cœur⁎ allume tous ses feux⁎
+N'y mettra rien, Seigneur, de bas et de honteux.
+Tout foible que j'étois par le défaut de l'âge
+Troye auroit veû briller ce fer sur son rivage,
+Si l'excés importun de l'amour⁎ maternel
+Ne m'avoit retenu par un soin⁎ trop cruel⁎,
+Et n'eut crû, jugeant mal des grandes destinées
+Qu'il faut que la valeur dépende des années.
+Sans cesse je m'offrois vos Exploits, vos Combats
+Et mes desirs faisoient ce qu'a fait vôtre bras.
+Et si jamais le sort⁎ pour me combler de joye,
+Présente à mon courage une seconde Troye,
+Vous verrez si l'amour⁎ a jetté dans mon cœur⁎,
+Une indigne foiblesse, une honteuse ardeur⁎.
+
+-*who_agamemnon
+Pouvoit-il y jetter un sentiment plus lâche ?
+Vous voyez à quel joug vôtre amour⁎ vous attache.
+Cassandre a-t-elle enfin de quoy vous couronner ?
+Quels Estats, quels Amis vous peut-elle donner ?
+
+-*who_oreste
+Je puis, Seigneur, je puis au seul nom de Cassandre
+Relever et tirer Ilion de sa cendre,
+De son Thrône abattu ramasser le débris,
+Où le pere a vaincu faire regner le fils,
+Par ma main, par mes soins⁎ rétablir un Empire
+Que vous eûtes sans moy la gloire⁎ de détruire.
+Je puis, aimant Cassandre, amener à ses piez
+Des Peuples asservis, des Rois humiliez⁎,
+Vous faire voir enfin par plus d'une victoire
+Qu'un feu⁎ tel que le mien sait conduire à la gloire⁎,
+Qu'aimer pour les grands cœurs⁎ est un illustre⁎ employ,
+Et que l'amour⁎ peut tout quand il agit pour soy.
+
+-*who_agamemnon
+Mais quand toute la Grece est soigneuse et jalouse,
+De l'honneur⁎ de pouvoir vous donner unc Epouse,
+Voulez-vous qu'au mépris des filles de vingt Rois,
+Pour Cassandre à leurs yeux j'approuve vôtre chois ?
+
+-*who_oreste
+Je dois tout à la Grece, au lieu de ma naissance ;
+Mais le choix de ma flamme⁎ est hors de leur puissance.
+Je dois encore plus à mon Père, à mon Roy ;
+Mais, Seigneur, mon amour⁎ ne dépend plus de moy.
+
+-*who_agamemnon
+J'ay pitié de vôtre âge et plains⁎ vôtre tendresse,
+Où je voy tant d'erreur avec tant de foiblesse.
+Mais enfin, apprenez pour guérir vôtre amour⁎,
+Que je donne à Cassandre un Epoux dès ce jour.
+
+-*who_oreste
+Un autre epouseroit la Princesse que j'aime !
+Et quel est cét Epous ? qui Seigneur ?
+
+-*who_agamemnon
+C'est moy-même.
+Elle-même y consent. Puisque vous m'y forcez,
+Je vous le dis : suivez la Reine, obéissez.
+
+**** *book_boyer_agamemnon *id_body-6-3 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Ciel ! qu'ay-je entendu ! je frissone, je tremble.
+Je vois en ce malheur tous mes malheurs ensemble
+Par ce fatal⁎ amour⁎ les Dieux ont commencé
+Ce long amas d'horreurs⁎ dont je suis menacé.
+
+-*who_pylade
+Détournez, prévenez⁎ ces fatales⁎ menaces.
+Puisque l'amour⁎ icy commence vos disgraces⁎,
+Arrestez-en le cours, Prince, dérobez-vous
+Au cruel⁎ ascendant que ce Dieu prend sur nous.
+Que l'exemple du fils fasse rougir le pere.
+Cette illustre⁎ Cassandre et qui vous est si chere
+Elle dont vous croyiez avoir touché le cœur⁎,
+Vous voyez qu'elle veut épouser son vainqueur.
+
+-*who_oreste
+Que dis-tu cher Pylade ! ah respecte sa gloire⁎.
+Quoy Cassandre pourroit ?... Non je ne le puis croire
+Et je meriterois tout son ressentiment,
+Si je la soupçonnois d'un pareil changement.
+Je veux m'en éclaircir.
+
+**** *book_boyer_agamemnon *id_body-6-4 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Ah ! qu'ay-je appris, Madame !
+De quel espoir mon pere ose flatter⁎ sa flamme⁎ !
+O Dieux ! à son Hymen⁎ vous auriez consenty !
+Vôtre sang⁎, vôtre cœur⁎ se seroit démenty ?
+Cassandre sans pitié du fils et de la mere,
+Cassandre court au Thrône, à l'Hymen⁎ de mon pere
+Le croiray-je, Madame !
+
+-*who_cassandre
+Oüy, malgré mes souhaits,
+Il faut qu'un meme sort⁎ nous unisse à jamais.
+
+-*who_oreste
+Vous unisse à jamais ? ô ciel ! cette Princesse,
+Elle qui faisoit voir tant d'horreur⁎ pour la Grece,
+Qui voyoit en mon pere un vainqueur odieux,
+Elle que je voyois si pleine de ses Dieux.
+Se faire de l'Hymen⁎ un effroyable crime,
+Elle qui m'honnorant⁎ de toute son estime,
+Sans confondre en son cœur⁎ le pere avec le fils
+Sembloit me distinguer de tous ses ennemis,
+Elle-même m'anonce un Hymen⁎ si funeste !
+Elle aime Agamemnon et desespere Oreste !
+
+-*who_cassandre
+O discours plein pour moy de honte et de rigueur !
+Je déteste toûjours la Grece et mon vainqueur.
+A ces Dieux que je sers attachée et fidelle
+Je conserve toûjours même ardeur⁎, même zele⁎ ;
+J'estime vos vertus⁎, je plains⁎ vôtre malheur
+Et je voudrois enfin… mais que puis-je, Seigneur ?
+Victime déplorable⁎, Esclave infortunée,
+A l'autel malgré moy je me vois entraînée.
+C'est un arrest du sort⁎ aussi bien que du Roy.
+Des Dieux même, des Dieux l'imperieuse loy⁎,
+Leur redoutable voix dont je me sens pressée⁎,
+Ont fait résoudre enfin mon âme balancée⁎
+Et quel que soit, Seigneur, mon dessein à vos yeux,
+La gloire⁎ me l'inspire aussi bien que les Dieux.
+Mais que dis-je : au milieu du malheur qui m'accable,
+J'entens encor un Dieu qui vous est favorable
+J'entens encor un Dieu que je n'ose nommer,
+Un Dieu qui pour vos jours vient encor m'allarmer.
+Quels horribles⁎ périls, quelle affreuse tempeste,
+Auroient fait mes refus tomber sur vôtre teste !
+Et que n'eut point enfin attenté contre vous,
+Un vainqueur, un rival, un pere, un Roy jaloux !
+Allez, Seigneur, fuyez sa haine⁎ et sa colere.
+Sparte vous tend les bras, suivez-y vostre mere.
+Partez sans balancer⁎ et sans estre jalous,
+D'un Roy plus malheureux plus à plaindre⁎ que vous.
+
+-*who_oreste
+Ah ! je voy trop d'où part un conseil si funeste.
+Plus que tous vos vainqueurs vous détestez Oreste
+Et vous ne me flattez⁎ d'une fausse douceur,
+Que pour mieux trouver l'art de tourmenter mon cœur⁎.
+Vous allez à l'autel par un ordre suprême ?
+Ah plûtôt à l'Hymen⁎ vous consentez vous-même.
+D'Agamemnon pour moy vous craignez le courrous !
+Il est bien moins cruel⁎, moins barbare que vous.
+Achevez cét Hymen⁎, la honte de mon pere,
+Mon dernier desespoir et l'horreur⁎ de ma mere :
+Faites-vous dans Mycene un destin glorieux.
+Hay⁎, persecuté des hommes et des Dieux,
+Je quitte pour jamais parens, Thrônes, Maîtresse⁎.
+Je quitte pour jamais Mycene, Argos, la Grece.
+Je me livre en aveugle aux horreurs⁎ de mon sort⁎.
+Je déteste la vie et vay chercher la mort :
+Adieu, Madame.
+
+**** *book_boyer_agamemnon *id_body-6-5 *act_ *date_1680 *creator_boyer
+
+-*who_ismene
+Helas ! par quel discours funeste,
+Venez-vous d'accabler le malheureux Oreste !
+
+-*who_cassandre
+Laisse-le fuir Ismene, il n'est point de sejour,
+Plus à craindre pour luy que cette affreuse Cour.
+Au dessein que j'ay fait sa fuite est necessaire.
+
+-*who_ismene
+Et quel est ce dessein, vous épousez son pere !
+
+-*who_cassandre
+Oreste, Agamemnon, tous l'ont pû croire ainsi ;
+Mais toy qui me connois le peus-tu croire aussi ?
+
+-*who_ismene
+Quel est donc ce secret ?
+
+-*who_cassandre
+Hé bien, il faut t'apprendre,
+Un projet étonnant⁎, mais digne de Cassandre.
+
+-*who_ismene
+Quoy ?
+
+-*who_cassandre
+Je veux sous l'espoir d'un Hymen⁎ solemnel,
+Tromper Agamemnon, l'attirer à l'Autel :
+Là, brûlant d'appaiser par un grand sacrifice,
+Tous les Dieux, tout mon sang⁎ qui demande justice,
+Je veux Ismene au lieu de luy donner la main,
+Que cette main lui porte un poignard dans le sein,
+Et de ce meme fer me perçant avec joye,
+Consommer⁎ dignement tout le destin de Troye.
+
+-*who_ismene
+Quel dessein !
+
+-*who_cassandre
+Quel plaisir d'immoler le vainqueur,
+Le destructeur de Troye et mon persecuteur !
+D'envoyer par un coup⁎ qui finit ma misere⁎,
+L'ombre d'Agamemnon à l'ombre de mon pere !
+Et d'aller aux Enfers m'offrir à tous les miens,
+Aprés avoir vangé tout le sang⁎ des Troyens !
+Mais faut-il de ces soins⁎ remplie, embarrassée,
+Essuyer le courrous d'une Reine offensée.
+
+**** *book_boyer_agamemnon *id_body-6-6 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Non, non, ne craignez point cét injuste courroux.
+Je viens plûtôt gémir et me plaindre⁎ avec vous :
+Je suis seule coupable, et quoy qu'on puisse croire,
+Madame, je vous croy trop sensible à la gloire⁎,
+A l'excés de mes maux, aux larmes de mon fils,
+Pour fonder vôtre espoir sur nos tristes débris
+Et si d'Agamemnon vous flattez⁎ l'esperance,
+C'est pour ne pas aigrir toute sa violence.
+Ce torrent arresté peut reprendre son cours.
+Pour Oreste, pour vous je ne voy qu'un secours
+Dans l'estat déplorable⁎ où vous estes réduite,
+Et ce secours enfin, Madame, c'est la fuite.
+Venez, vous vous ferez en fuyant avec nous,
+D'une Reine une mere et d'un Prince un Epous ;
+Vous fuirez un tyran⁎. L'entreprise est aisée.
+J'ay des amis : la suite est déja disposée.
+Quittons secrettement ces détestables bords⁎.
+Sparte dans peu de jours nous verra dans ses ports,
+Et pour nous proteger tous ses Princes, mon Pere,
+Armeront, s'il le faut, toute la Grece entiere.
+
+-*who_cassandre
+Madame vous voyez quel confus embarras,
+M'ont causé vos bontez que je n'attendois pas.
+Mais pourquoy vous flatter⁎ d'une vaine esperance ?
+Comment tromper du Roy les soins⁎, la vigilance ?
+Pour sortir de ces lieux nos efforts seroient vains,
+Où retombant bien-tôt dans ses cruelles⁎ mains,
+Ciel ! que n'oseroit point sa vangeance funeste,
+Sur vos jours, sur Cassandre et sur tout sur Oreste !
+Mais quand nous pourrions fuir sans peur d'estre arrestez,
+Quand nous serions dans Sparte où sont nos seuretez ?
+Sur quelque grand secours que vôtre espoir se fonde,
+Le vainqueur des Troyens peut vaincre tout le monde.
+Pour vanger ses affrons que ne feroit-il pas,
+Luy qui par tant de sang a vangé Menelas !
+Suivons puisqu'il le faut nos tristes destinées.
+Par un noir ascendant nous sommes entraînées.
+Vous allez endurer un divorce cruel⁎,
+Un exil rigoureux : moy, je vais à l'Autel
+Suivre un vainqueur, un Roy que mon ame déteste ;
+Je vais enfin je vais par cét Hymen⁎ funeste,
+Porter sur luy… que dis-je ? oüy je vay sur le Roy,
+Porter tous les malheurs que je traîne aprés moy.
+
+-*who_clytemnestre
+Artifice trompeur ! vains détours ! ah, Madame !
+Mes yeux enfin, mes yeux lisent trop dans vôtre ame.
+Il vaut mieux vous unir au sort⁎ d'Agamemnon,
+Confondre vôtre Race⁎ avec un si grand nom,
+De vos malheurs ainsi reparer tout l'outrage⁎,
+Triompher et Regner.
+
+-*who_cassandre
+Je feray davantage
+Et pousseray si loin ce dessein glorieux…
+Mais c'est assez, le temps vous éclaircira mieux.
+
+-*who_clytemnestre
+Arrestez et sçachez que perdre⁎ un Diadême,
+Que perdre⁎ Agamemnon est un malheur extrême⁎ ;
+Mais moindre que de voir une Ennemie aux fers,
+Ma Rivale usurper la place que je pers.
+Pour prévenir⁎ l'affront de vous voir couronnée,
+Mille morts marqueront cette affreuse journée.
+Vous qui pour l'avenir avez tant de clartez
+Ignorez-vous les maux qui vous sont apprestez ?
+Sans consulter vos Dieux j'ose vous les prédire.
+Croyez-en ma fureur⁎, c'est le Dieu qui m'inspire.
+
+-*who_cassandre
+Vous ne m'affligez point en m'annonçant la mort.
+Je suis bien mieux que vous instruite de mon sort⁎,
+Je lis trop dans le vôtre et commence de plaindre⁎
+Mille horribles⁎ malheurs que vous avez à craindre
+Tonnez, accablez-moy de noms injurieux⁎.
+Le temps et la raison⁎ vous ouvriront les yeux.
+
+**** *book_boyer_agamemnon *id_body-6-7 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Ah ! ce n'est pas ainsi qu'on trompe ma vangeance.
+Tu crois que mon départ te met en assûrance.
+Tout ce jour reste encor à mon ressentiment,
+Et pour servir ma haine⁎ il ne faut qu'un moment.
+
+-*who_doride
+Quel est vôtre courrous ! quoy pour perdre⁎ Cassandre ? …
+
+-*who_clytemnestre
+Des traits⁎ de ma fureur⁎ rien ne la peut deffendre.
+
+-*who_doride
+A vos ressentimens quels chemins sont ouvers ?
+Egiste est prisonnier.
+
+-*who_clytemnestre
+Allons briser ses fers.
+J'ay des amis encor : mes bien faits, ma prudence,
+Ont sçû pendant dix ans établir ma puissance.
+Meure Cassandre aux yeux et dans les bras du Roy,
+Et tombe son courroux sur Egiste et sur moy.
+
+**** *book_boyer_agamemnon *id_body-7-1 *act_ *date_1680 *creator_boyer
+
+-*who_cassandre
+Ne t'abuses-tu point ? dis-tu vray chere Ismene ?
+
+-*who_ismene
+Oüy, c'en est fait, Oreste est party de Mycene
+Madame ; mais le Roy vient d'en estre averty.
+Et pour le suivre, Arbas par son ordre est sorty.
+
+-*who_cassandre
+Ah ! puisse-t-il d'Arbas tromper la diligence.
+Puisse loin de sa veuë éclater ma vangeance.
+Sa présence en ces lieux, je le niêrois en vain,
+Estonnoit⁎ mon courage et retenoit ma main.
+Quel que soit mon courroux contre un vainqueur funeste,
+Ce vainqueur chere Ismene est le père d'Oreste,
+Et par quelque fureur⁎ qu'on se prive du jour
+On le quitte a regret quand on tient à l'amour⁎.
+N'importe, Oreste fuit : il faut me satisfaire.
+J'épargne aux yeux du fils le meurtre de son pere
+Et reduite à perir dans le même moment,
+J'épargne mon trépas aux yeux de mon Amant⁎.
+
+-*who_ismene
+Ensanglanter vos mains par un meurtre effroyable !
+Vous avez pû verser en Prestresse adorable⁎
+Le sang des animaux sur les sacrez Autels.
+Mais tremper vôtre main dans le sang des mortels !
+Dans vôtre propre sang, dans le seul qui nous reste
+De tant d'illustres⁎ Rois, d'une Race⁎ celeste !
+Pourriez-vous conserver ce dessein furieux⁎ !
+Helas !
+
+-*who_cassandre
+Retiens tes pleurs⁎, ou les cache à mes yeux.
+Laisse-moy m'affranchir, de ma disgrace⁎ extréme⁎.
+Dois-je survivre à Troye, à ma gloire⁎, à moi-même ?
+Sur tout dois-je survivre aux foiblesses d'un cœur⁎
+Qui malgré moy se rend au fils de mon vainqueur ?
+Tout ce que de tes soins⁎ Ismene j'ose attendre :
+De ces bords⁎ ennemis daigne enlever ma cendre
+Et va la renfermer en fuyant de ces lieux
+Dans les tristes tombeaux de mes sacrez Ayeux.
+Et vous qui garantis des fureurs⁎ de la Guerre,
+Errez de toutes parts sur l'Onde⁎ et sur la Terre,
+Dispersez, fugitifs, déplorables⁎ Troyens,
+Les Dieux rendent vos jours plus heureux que les miens.
+Mais c'est trop differer, il est temps d'entreprendre.
+Il est temps d'immoler Agamemnon, Cassandre.
+Quel plus digne spectacle aux yeux des immortels !
+Quel plus grand sacrifice honora leurs Autels !
+Mais quel trouble⁎ soudain, quelque effort que je fasse,
+Me retient en ce lieu, m'épouvante, me glace ?
+De quels fremissemens mon corps est agité ?
+
+-*who_ismene
+Ah ! croyez que du Ciel la suprême bonté
+Veut étouffer en vous un dessein trop coupable.
+
+-*who_cassandre
+Non non, j'entens d'où vient ce trouble⁎ redoutable.
+C'est Apollon, c'est luy qu'on a veû tant de fois,
+A mon pere, aux Troyens s'expliquer par ma voix.
+Ce Dieu dont la fureur⁎ dans tout mon sang s'allume,
+M'inspire des transports⁎ plus grands que de coutume.
+Ne me presse⁎ pas tant Dieu, que veus-tu de moy ?
+Esclave d'un mortel je ne suis plus à toy.
+Aprés avoir perdu⁎ mes parens, mon Empire,
+Je n'ay rien à prévoir, je n'ay rien à prédire.
+Mais je pers mes efforts : un trop cruel⁎ devoir
+Asservit mon destin à son divin pouvoir,
+Son esprit me domine et je sens que je cede
+Aux pressantes⁎ ardeurs⁎ du Dieu qui me possede.
+Quelle horreur⁎ ! mes cheveux herissez, separez,
+Rompent tous les liens de mes voiles sacrez.
+Quelle invisible main malgré moy les arrache ?
+Mais quels sont ces objets où mon regard s'attache ?
+O dieux ! Dans ma fureur⁎ je revoy les forfaits
+Jadis executez dans cét affreux⁎ Palais :
+Noirs desseins, trahisons, évenemens funestes,
+Meurtres, impietez⁎, parricides⁎, incestes.
+Sur tout je te revoy trop barbare appareil⁎
+Du destin dont l'horreur⁎ fit pâlir le Soleil.
+Je vois encor, je vois la terre divisée,
+L'Asie est toute en feu, l'Europe est embrasée.
+Mais où m'emportez-vous impetueux transports⁎ !
+Ilion s'offre à moy, je me voy sur ses bords⁎.
+Ses Temples, ses Palais, ses Rempars si superbes⁎
+Sont reduits en poussiere ou cachez sous les herbes.
+Est-ce pour irriter ma haine⁎ et mes douleurs
+Que vous me faites voir tant de sang, tant de pleurs⁎ ?
+Manes de mes parens, Ombres trop inquiettes,
+Agamemnon mourra, vous serez satisfaites.
+Les Dieux veulent punir l'ennemy des Troyens,
+Le digne fils d'Atrée et le bourreau des miens.
+Déja dans l'avenir je prévoy son supplice.
+
+**** *book_boyer_agamemnon *id_body-7-2 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Madame tout est prest : l'Autel, le Sacrifice,
+La pompe⁎ de l'Hymen⁎. Le Thrône vous attend
+Et l'Amour⁎ vient hâter cét Hymen⁎ éclatant.
+Allons.
+
+-*who_cassandre
+Ne parle plus d'amour⁎ et d'Hymenée⁎.
+Je croyois disposer de nôtre destinée.
+Mais le Ciel me fait voir ses secrets souverains
+Et ton sort⁎ et le mien ne sont plus dans nos mains.
+
+-*who_agamemnon
+Dieux ! quel est ce desordre⁎ et que n'osez-vous dire ?
+
+-*who_cassandre
+Ce qu'icy ma fureur⁎, ce qu'Apollon m'inspire.
+Agamemnon, les Dieux veulent finir mon sort⁎
+Et l'aveugle destin précipite ta mort.
+
+-*who_agamemnon
+Hé n'est-ce point, Madame, une menace vaine
+Que me font beaucoup moins vos Dieux que vôtre haine⁎
+Que peut craindre un Monarque au sein de ses Estats
+Que peut craindre un vainqueur ?
+
+-*who_cassandre
+Tout ce qu'il ne craint pas.
+Oüy, c'est dans ces momens de pleine confiance,
+Que tu vas voir, trop fier d'une vaine puissance,
+Ta grandeur renversée et tes projets trahis.
+Je prévoy ton trépas, je le voy, j'en joüis :
+Je goûte dans ton sang la vangeance de Troye,
+Et ce jour fortuné qui me comble de joye,
+Est un jour plus cruel⁎ pour toy, pour tous les tiens,
+Que dix ans de malheurs ne furent aux Troyens,
+Mais c'est peu que ta mort m'ait pleinement vangée.
+Par un crime étonnant⁎ Clytemnestre égorgée,
+A tes manes sanglans ira se réunir.
+Mais pourquoy jusques-là percer dans l'avenir ?
+Helas ! je voy ton fils… ah déplorable⁎ Oreste !
+J'ay commencé tes maux, quelle suite funeste !
+Oüy je le voy ton fils tremblant, épouvanté,
+Errant de toutes parts, de fureur⁎ agité.
+Ciel, quelle est sa disgrace⁎ ! elle est si peu commune,
+Que des yeux ennemis pleurent⁎ son infortune.
+
+-*who_agamemnon
+Remettez-vous, Madame, et calmez des fureurs⁎
+Qui vous font vainement prédire ces malheurs.
+
+-*who_cassandre
+Respecte en ma fureur⁎ le Dieu qui me la donne.
+Mais elle se dissipe et le Dieu m'abandonne.
+Laisse-moy respirer : mon esprit et mon corps
+Succombent fatiguez de ces derniers transports⁎.
+Je t'ay déja prédit et ma mort et la tienne.
+Adieu, songe à ta gloire⁎ et laisse-moi la mienne.
+L'instant fatal⁎ approche : accepte ton trépas.
+Les arrests du destin ne se revoquent pas.
+Si pourtant sans remords, sans crainte, sans scrupule,
+A mes prédictions tu te rends incredule :
+Si tu braves les Dieux de ma gloire⁎ jaloux,
+Si ton impiété⁎ méprise leur courroux,
+Si tu t'oses livrer à l'Hymen⁎ de Cassandre,
+Viens m'épouser au Temple où je m'en vais t'attendre.
+
+**** *book_boyer_agamemnon *id_body-7-3 *act_ *date_1680 *creator_boyer
+
+-*who_agamemnon
+Ouy j'iray t'épouser. Mais qu'est-ce que je sens ?
+Quelle secrette horreur⁎ ! que de troubles⁎ pressans⁎ !
+Croirois-je les malheurs qu'on vient de me prédire ?
+La crainte sur mon cœur⁎ prend-elle quelque empire ?
+Non, c'est la main des Dieux dont je sens le pouvoir
+Qui frappe mon esprit et presse⁎ mon devoir.
+Que faisois-je ? ayant sçû, par des chemins contraires
+Eviter de si loin la route de mes peres,
+Faut-il que l'Univers qui distinguoit mon nom
+Avec tous mes Ayeux confonde Agamemnon !
+Voy ton fils desolé te fuir, quitter Mycene.
+Voy l'affreux⁎ desespoir où tu plonges la Reine,
+Quand d'un Hymen⁎ forcé le projet seulement
+Est puny du divorce et du bannissement.
+Au culte des Autels Cassandre est attachée.
+Elle a pour toy toûjours une haine⁎ cachée.
+Oreste a sçû lui plaire. Et tes feux⁎ criminels
+La voudroient arracher à ton fils, aux Autels !
+Ah lâche ! ouvre les yeux et cesse de te rendre
+Trop digne des malheurs que t'a prédits Cassandre.
+Fais revoquer au sort⁎ l'arrest qu'il a donné,
+Ou fais rougir les Dieux de t'avoir condamné.
+
+**** *book_boyer_agamemnon *id_body-7-4 *act_ *date_1680 *creator_boyer
+
+-*who_arbas
+Oreste qui fuyoit est enfin dans Mycene,
+Seigneur, auprés de vous Pylade le ramene.
+
+**** *book_boyer_agamemnon *id_body-7-5 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Ouy, Seigneur, je reviens : mais Dieux ! ne pouvez-vous
+De l'illustre⁎ Cassandre estre l'heureux Epous,
+Sans que de cét Hymen⁎ dont la rigueur m'accable,
+Spectateur desolé, Victime déplorable⁎,
+Dans le temple, à vos yeux, entre vos bras, Seigneur
+Oreste aille expirer d'amour⁎ et de douleur ?
+
+-*who_agamemnon
+Non mon fils c'en est fait ; vos larmes, vôtre fuite,
+Le déplorable⁎ état où ma gloire⁎ est réduite
+Cassandre, Clytemnestre et ces puissantes voix
+Que les Dieux font parler dans les cœurs⁎ des grands Rois,
+Tout me presse⁎ pour vous, tout m'invite à me rendre.
+Je vous donne, ou plûtôt je vous cede Cassandre.
+Obtenez son aveu⁎ ; je suis prest dés ce jour
+A voir par son Hymen⁎ couronner vôtre amour⁎.
+
+-*who_oreste
+Qu'ay-je oüy ! quel bonheur ! faut-il que je le croye !
+Quelle gloire⁎ pour vous et pour moy quelle joye !
+Quel effort ! quel triomphe ! ah de grace⁎ Seigneur,
+Poursuivez, achevez de vaincre vôtre cœur⁎.
+Aprés m'avoir rendu ma Maîtresse⁎ et mon Pere,
+Daignez, Seigneur, daignez me rendre encor ma Mere :
+Qu'un fils qui vous doit tout aussi bien que le jour
+Rétablisse entre vous la concorde et l'amour⁎.
+
+-*who_agamemnon
+Ah je n'ay plus besoin du secours de vos larmes.
+Pour triompher de moy j'ay d'assez fortes armes :
+Je pardonne à la Reine, et de tous ses projets,
+Je ne veus accuser qu'Egiste et mes sujets.
+Je vous rens vôtre mere et Cassandre et moy-même.
+
+-*who_oreste
+Ainsi vous me rendez, Seigneur, tout ce que j'aime ?
+
+-*who_agamemnon
+Ce n'est que d'aujourd'hui, mon fils, que j'ay vaincu.
+D'aujourd'huy seulement j'ay regné, j'ay vécu.
+La gloire⁎ de ce jour passe toute la joye
+Que versa dans mon cœur⁎ la Conqueste de Troye :
+J'en rends graces⁎ aux Dieux et puisse désormais
+Regner dans ma famille une eternelle paix.
+Allez trouver la Reine, allez luy tout apprendre.
+Moy, je vay de ce pas en avertir Cassandre,
+Luy demander pour vous et cette même foy⁎
+Et cette même main que je voulois pour moy.
+
+**** *book_boyer_agamemnon *id_body-7-6 *act_ *date_1680 *creator_boyer
+
+-*who_pylade
+Quelle felicité surprenante et soudaine !
+Quel changement cher Prince !
+
+-*who_oreste
+Allons trouver la Reine.
+Elle paroît.
+
+**** *book_boyer_agamemnon *id_body-7-7 *act_ *date_1680 *creator_boyer
+
+-*who_clytemnestre
+Que voy-je ? Oreste dans ces lieux !
+Fuyons mon fils, fuyons, dérobons à nos yeux
+Le spectacle cruel⁎ de tout ce qui se passe.
+
+-*who_oreste
+Ah plûtôt demeurons : tout a changé de face,
+Tout rit à nos souhaits, Madame, un sort⁎ plus doux
+Et m'a rendu mon Père et vous rend vôtre Epoux.
+
+-*who_clytemnestre
+Cassandre court au temple et le peuple autour d'elle
+Celebre en murmurant cét Hymen⁎ infidelle.
+Agamemnon la suit plein d'amour⁎, plein d'ardeur⁎.
+Et d'un frivole espoir vous flattez⁎ vôtre cœur⁎ !
+
+-*who_oreste
+Non non, Agamemnon triomphe de sa flamme⁎.
+Il se rend à luy-même, à son fils, à sa femme.
+Il me cede Cassandre et va presser⁎ pour moy
+Le succés de mes voeux et le don de sa foy⁎.
+
+-*who_clytemnestre
+Ciel qu'entens-je ?
+
+-*who_oreste
+Oüy, luy-même il vient de me le dire
+Et par son ordre exprés j'allois vous en instruire.
+
+-*who_clytemnestre
+Ah Cassandre ! Ah mon fils ! daignez le détourner
+Dieux, cét ordre cruel⁎ que je viens de donner.
+
+**** *book_boyer_agamemnon *id_body-7-8 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Quel est ce prompt départ, quel trouble⁎, quel langage,
+Cher amy ? Mais que vois-je ? ah funeste présage !
+Que m'apprenent ces pleurs⁎, ce desordre⁎ confus?
+
+-*who_ismene
+C'est vous, Seigneur ! helas ! Cassandre ne vit plus.
+
+-*who_oreste
+Cassandre ne vit plus! le voila ce mistere,
+Du desordre⁎, des pleurs⁎, du départ de ma mere.
+
+-*who_ismene
+Pour dérober Cassandre aux vœux d'Agamemnon
+Clytemnestre, d'Egisthe a rompu la prison.
+Ce barbare pressé⁎ d'executer son crime
+Cherche Cassandre au Temple, où voyant sa Victime,
+Il s'avance, il l'approche environné des siens.
+Meurs fatale⁎ beauté, meurs reste des Troyens.
+Dit-il en la frappant, ta mort vange la Reine.
+Elle tombe en mourant. Je meurs, dit-elle, Ismene :
+Mes malheurs sont finis : mais quand je pers le jour,
+Oreste que de maux vont suivre ton amour⁎ !
+Que le mien craint pour toy la colere celeste !
+Puisse ma mort te faire un destin moins funeste.
+Là, par de long regards qui percent jusqu'aux Cieux,
+Elle semble implorer la clemence des Dieux,
+Elle expire et j'allois, pleine d'impatience,
+D'Agamemnon pour elle implorer la vangeance.
+
+**** *book_boyer_agamemnon *id_body-7-9 *act_ *date_1680 *creator_boyer
+
+-*who_oreste
+Elle est morte ! en quel temps ! ah moment trop fatal⁎ !
+Quand le Roy me la cede et n'est plus mon Rival !
+Et lorsque je la pers, pour combler ma misere⁎
+Pylade, je la pers par l'ordre de ma mere !
+Mais que fais-je ? suy-moi, seconde ma douleur.
+
+**** *book_boyer_agamemnon *id_body-7-10 *act_ *date_1680 *creator_boyer
+
+-*who_eurybate
+Ou courez-vous ? sçachez un plus cruel⁎ malheur.
+Agamemnon.
+
+-*who_oreste
+Hé bien ?
+
+-*who_eurybate
+Ce vainqueur de l'Asie,
+Ce Roy dont les flots même ont respecté la vie,
+Aprés dix ans d'absence en ces lieux de retour,
+Par un lâche attentat vient de perdre⁎ le jour.
+
+-*who_oreste
+O comble de disgrace⁎ ! ô destin trop contraire !
+Perdre⁎ eu un meme jour ma Maîtresse⁎ et mon Pere !
+Ah ! par quel sort⁎ fatal⁎, par quelle trahison.
+A-t-on pu triompher du grand Agamemnon !
+
+-*who_eurybate
+Le Roy pressé⁎ pour vous d'un soin⁎ ardent et tendre,
+Dans le Temple, Seigneur, alloit chercher Cassandre.
+A peine il est entré qu'Egiste furieux⁎,
+Suivy de conjurez se presente à nos yeux,
+Nous attaque : du Roy l'addresse et le courage,
+Font de ces assassins un horrible⁎ carnage.
+Mais Dieux de toutes parts, surpris enveloppé,
+De mille coups⁎ mortels en même instant frappé,
+Il voit à gros boüillons tout son sang se répandre,
+Chancelle, tombe, meurt presqu'aux pieds de Cassandre.
+
+-*who_oreste
+Ciel !
+
+-*who_eurybate
+Egiste effrayé de ce crime odieux,
+Craignant également⁎ Vous, le Peuple et les Dieux,
+Echape à nos regards par sa fuite soudaine.
+Cependant dans le Temple on voit entrer la Reine,
+Qui voyant, mais trop tard, que ses transports⁎ jaloux
+Croyant perdre⁎ Cassandre ont perdu⁎ son Epoux,
+De remord, de douleur et rage saisie,
+Dans la foule des morts tombe presque sans vie.
+Ainsi, tandis qu'au Temple accablez de douleur,
+Les uns forment des vœux, d'autres versent des pleurs⁎
+Je viens vous annoncer cét affreux⁎ parricide⁎,
+Heureux si garanty des fureurs⁎ d'un perfide,
+J'expirois à vos yeux en vous le racontant.
+
+-*who_oreste
+C'est trop gémir, je voy ce que mon Pere attend.
+Je voy ce que demande et ma gloire⁎ et Cassandre
+Poursuivons l'assassin, allons tout entreprendre.
+Et que tout l'Avenir aprenant mon malheur,
+Admire ma vangeance et plaigne ma douleur.
+
+**** *book_boyer_agamemnon *id_body-8 *date_1680 *creator_boyer
+
+PRIVILEGE du Roy.
+
+Louis par la Grace de Dieu, Roy de France et de Navarre : A nos amez et feaux Conseillers, les gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, Prevost de Paris, son Lieutenant General de Police, Baillifs, Seneschaux, Prevosts, leurs Lieutenants et autres nos Officiers qu'il appartiendra ; SALUT. Nostre bien aimé le Sieur PADER D'ASSEZAN Nous a fait remontrer qu'il avoit composé une Piece de Theâtre intitulée Agamemnon, laquelle avoit esté representée plusieurs fois, et qu'il desireroit faire imprimer et donner au Public, s'il en avoit nos Lettres de Permission sur ce necessaires.
+A CES CAUSES, voulant donner à l'Exposant des marques de l'estime que nous faisons de la personne et l'exciter à travailler, Nous luy avons permis et accordé, et par ces Presentes permettons et accordons de faire imprimer ladite Tragedie d'Agamemnon par tel Imprimeur qu'il voudra choisir, en telle marge, volume, caractere et autant de fois que bon luy semblera la vendre et debiter par tout nostre Royaume pendant le temps de dix ans à commencer du jour qu'elle sera achevée d'imprimer, en vertu des Presentes, pendant lequel temps faisons tres-expresses deffences à toutes personnes de quelque qualité qu'elles soient d'imprimer ou faire imprimer, vendre n'y debiter ladite Tragedie, sous quelque pretexte que ce soit sans le consentement de l'Exposant ou de ceux qui auront droit de luy, à peine aux contrevenans de trois mil livres d'amande, confiscation des Exemplaires contre-faits, et de tous dépens, dommages et interests, à condition d'imprimer en beau et bon caractere, et de mettre deux Exemplaires en nostre Bibliotheque publique, un en celle de nostre Chasteau du Louvre, et un en celle de nostre tres-cher et feal Chevalier Chancelier de France le Sieur le Tellier avant les exposer en vente, à peine de nullité des presentes : du contenu desquelles voulons que vous fassiez joüir l'Exposant pleinement et paisiblement.
+Voulons qu'en mettant au commencement ou à la fin dudit Livre un Extrait des Presentes elles soient tenuës pour signifiées.
+Mandons au premier notre Huissier faire pour execution d'icelles tous Actes requis et necessaires, sans demander autre permission : Car tel est nostre plaisir.
+DONNÉ à Paris le treizième jour de May, l'an de Grace mil six cens quatre-vingts ; Et de nostre Regne le trente-huitième.
+Signé Par, le Roy en son Conseil, D'ALENCE.
+
+Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 7.
+May 1680. suivant l'Arrest du Parlement du 8.
+Avril 1653. et celuy du Conseil Privé du Roy du 27.
+Février 1665.
+Signé C. Angot, Syndic.

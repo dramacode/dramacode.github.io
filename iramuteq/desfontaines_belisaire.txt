@@ -1,0 +1,2650 @@
+
+
+**** *book_ *id_dedicace *date_1641 *creator_desfontaines
+
+A HAULT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE ROSTAING CHEVALIER COMTE DE BURY
+
+MONSEIGNEUR,
+
+Voici le plus jeune, mais le moins defectueux de mes enfants qui vient se jetter entre vos bras, par le dessein qu'il a de se donner tout à vous, & témoigner à votre grandeur la sincérité de son zele, & la pureté de mon affection.
+Son aisné a receu de votre bonté un traitement si favorable, que son Cadet ne pouvait sans ingratitude embrasser en sa naissance un autre autel que celuy de vostre merite.
+Souffrez donc que l'un & l'autre joignent ensemble leurs reconnoissances, & que cette égale inclination qui les porte à vous honnorer soit également heureuse auprez de vous.
+Si le premier dans la vie du Cid vous a fait voir un tableau de vostre valeur ; le second par celle de Belisaire vous mettra devant les yeux l'image de vôtre vertu, & vous verrez dans tous les deux un illustre portraict de vous-mesmes.
+Il reste pour prix de vostre courage que vous receviez un jour des mains de nos Roys ce que tous deux ont reçeu de celles de leurs Monarques.
+Ce sont les voeux, Monseigneur, & du pere & des enfants, qui appuyez de l'honneur de vostre protection se tiendront trop heureux d'estre au nombre de vos creatures, & moytres-glorieux de porter toute ma vie la qualité,
+
+MONSEIGNEUR,
+
+de
+
+    Vostres tres-humble, tres-obeïssant & tres-affectionné serviteur,
+
+        DES-FONTAINES.
+
+**** *book_ *id_sonnet *date_1641 *creator_desfontaines
+
+AU MESME Sonnet
+
+Illustre & cher object qu'adore ma pensée,
+Mes vers pour vous loüer ont trop peu d'ornemens.
+Et je crains qu'en faisant de foibles complimens,
+Vostre rare vertu ne soit interessée.
+
+Vostre gloire ne peut estre plus rabaissée,
+Qu'alors que le commun en a des sentimens,
+Il y faut employer les plus beaux mouvemens,
+D'une ame que le Ciel ait tousjours caressée.
+
+C'est poutant un devoir dont je veux m'acquiter,
+Et faire quelque jour hautement éclater
+Les nobles qualitez que le Ciel vous partage.
+
+Mais les siecles passez me rendent envieux,
+Car pour nous enseigner comme il faut faire hommage
+Des hommes comme vous ils en faisoient des Dieux.
+
+**** *book_ *id_privilege *date_1641 *creator_desfontaines
+
+Extraict du Privilège du Roy.
+
+PAR grace & Privilege du Roy, il est permis à AUGUSTIN COURBE', Libraire, de faire imprimer un Livre intitulé, Bélisaire, Tragi-Comedie, Par le Sieur DES-FONTAINES. Et deffences sont faites à toutes personnes, de quelque qualité ou condition qu'elles soient, de l'imprimer, ou de le faire imprimer, vendre, ni distribuer, sans le consentement dudit COURBE', & ce durant le temps de sept ans, sur les peines portées par ledit Privilege.
+DONNE' à Paris, le vingtiesme jour de Juin mil six cens quarante-un.
+
+Signé LEMOINE.
+
+**** *book_ *id_body-5-1 *act_ *date_1641 *creator_desfontaines
+
+-*who_justinian
+Levez-vous.
+
+-*who_amalazonthe
+        Ah ! Seigneur vous estes trop Auguste⁎,
+Devant mon Empereur ce respect est bien juste,
+J'ay perdu mes Estats, mon rang l'est avec eux,                 
+Et cét abaissement sied bien aux malheureux.
+
+-*who_justinian
+Non, je n'écoute rien en l'estat où vous estes,
+Levez-vous.
+
+-*who_amalazonthe
+        J'obeïs aux loix que vous me faites,
+Et le commandement de vostre Majesté
+Sert de juste pretexte à ma temerité.
+Seigneur, quoy que le sort, nos malheurs & Bellonne,
+Pour nous mettre à vos pieds nous arrachent d'un trône
+L'espoir d'y remonter encore qu'il soit doux,
+N'est pas ce qui me fait embrasser vos genoux,
+Je voy sans desplaisir le cours de vos conquestes,
+Vous pouvez tout prétendre estant ce que vous estes,
+Et malgré leur orgueil les plus superbes⁎ Roys,
+Pourront sans deshonneur se sous-mettre à vos loix :
+Je ne demande pas que vos mains liberales⁎
+Me rendent mes grandeurs, ny ces pompes⁎ Royales,
+Qui plaisoient cy-devant à mon ambition,
+Mon coeur n'est plus atteint de cette passion,
+Un plus noble desir aujourd'huy le possede,
+Il sera satisfait pourveu qu'il me succede⁎,
+Et son heureux effet est le bien le plus doux,
+Et toute la faveur que j'espere de vous.                    
+Donc par cette bonté qui vous rend adorable,
+Si mon sexe ou mon sang vous est considerable⁎,
+Je conjure à present le plus grand des humains,
+Que ces fers que je vois en de si nobles mains
+Passent d'un Innocent en une Criminelle,
+Ce prince a combattu, mais je suis la rebelle,
+Qui seule par l'effort de mes traistres appas⁎,
+Ay fait impudemment revolter ses Estats,
+Ouy Seigneur, il m'aimoit, & ce brave courage
+Eust creü me faire tort s'il vous eust fait hommage,
+J'avois sur son esprit un absolu pouvoir,
+Et son amour enfin a trahy son devoir.
+Ne me refusez point, puis qu'icy ma priere
+Donne à vostre clemence une illustre matiere,
+Et que pour l'asseurer de sa fidelité,
+Je m'offre pour ostage à vostre Majesté.
+Mais si vostre courroux demande une victime,
+J'y consens ; punissez son amour, & mon crime,
+Au lieu de mon Amant me faisant arrester,
+Vous ostez le sujet qui l'a fait revolter ;
+Il sera trop puny si je luy suis ravie,
+Ostez luy sa Maistresse, & laissez luy la vie,
+Conservez par ma mort un homme de son rang,
+Et s'il faut sa rançon, payez vous de mon sang.
+
+-*who_justinian
+Ne vous affligez pas belle & charmante Reine,
+Cette rigueur pour vous seroit trop inhumaine,
+je croirois faillir, si j'avois accepté
+Une offre si contraire aux Loix de ma bonté,
+Quel que soit mon bon-heur, j'y veux joindre la gloire,
+D'avoir sçeu noblement user de ma victoire,
+Je ne veux point passer pour insolent vainqueur,
+Je redonne les biens pour acquerir le coeur,
+Et le Ciel m'est témoin que je ne fais la guerre,
+Que pour mieux establir le repos sur la terre :
+Quand j'abaisse quelqu'un je le fais justement ;
+Et quand je puis punir, je pardonne aysément.
+
+-*who_amalazonthe
+Gloire de l'Orient, & l'honneur des Monarques,
+En qui l'on voit des Dieux tant d'immortelles marques,
+Quelque ressentiment que je vous fasse voir,
+Je ne m'afflige point d'estre en vostre pouvoir,
+Et ce malheur en moy si doucement s'efface,
+Que je crains de pecher en l'appellant disgrace,
+Puisque tant de vertus qui reluisent en vous,
+Font mesme qu'à present mon sort me semble doux.
+Mais Seigneur, si jamais vos bontez adorables⁎,
+Vous ont rendu facile⁎ envers des miserables,
+Si jamais les regrets, les sanglots, & les pleurs,                
+Vous ont fait compatir à leurs vives douleurs ;
+Delivrez Vitigez, accordez luy sa grace
+Par ces mains que j'adore, & ces pieds que j'embrasse,
+Je sçay que vous pouvez user de la rigueur,
+Que peut impunément exercer un vainqueur,
+Mais monstrez nous plutôt qu'en ce siecle où nous sommes,
+Les Dieux daignent encor se déguiser en hommes ;
+Et qu'ayant quelques fois la foudre dans les mains
+Ils ont compassion des larmes des humains.
+
+-*who_vitigez
+Ce propos genereux⁎ divine Amalazonthe,
+Veut faire voir icy vôtre gloire & ma honte,
+Mais je ne suis pas lâche au point que de souffrir⁎,
+Que vous donniez le prix que vous venez d'offrir :
+Plutôt que m'ordonner que je vous abandonne,
+Qu'on m'ôte mes Estats, mon Spectre et ma Couronne,
+Je beniray mon sort, mes fers me seront doux,
+S'ils me laissent l'honneur de vivre auprés de vous.
+Madame, les prisons sont des champs Elizées,
+Quand vos divins regards les ont favorisées,
+Au lieu que les palais où vos yeux ne sont pas,
+Ne sont que des enfers où regne le trépas.
+Que le Ciel vous soit donc cruel ou favorable,
+Mon sort de vos destins doit estre inseparable,
+Mes jours avecque vous me seront precieux,
+Et sans vous je renonce à la clarté des Cieux,                
+Mais helas ! mes desirs ne sont pas legitimes,
+Vos celestes beautez n'ont point part à mes crimes ;
+Et la mesme équité me devroit enseigner
+Comme je dois souffrir⁎ que vous devez regner,
+Regnez, separez-vous du mal-heur de mes armes,
+Mon amour quoy que grand est fatal à vos charmes,
+Et c'est pour reparer un si sensible tort,
+Que j'implore à genoux vostre grace & ma mort.
+
+-*who_amalazonthe
+Seigneur.
+
+-*who_vitigez
+Amalazonthe.
+
+-*who_theodore
+            Amour incomparable.
+
+-*who_sophie
+Amant infortuné⁎.
+
+-*who_narses
+            Mais amant adorable,
+Car c'est heureusement perdre sa liberté,
+Que d'estre compagnon de ta captivité,
+
+-*who_belisaire
+Je plaindrois vostre sort illustre Amalazonthe,
+Si vous ne voyez pas celuy qui vous surmonte,
+Et mes yeux ne verroient mon bras qu'avec horreur,
+S'il vous avoit soubs mise à quelque autre Empereur ;
+Mais vous ne devez point envier ma victoire,
+Puis qu'elle n'oste rien au prix de vostre gloire,
+Vous donnant pour vainqueur un Prince genereux⁎,
+Qui détruit les malheurs, & qui fait les heureux.
+
+-*who_justinian
+Ouy Princesse esperez, donnez tréve à vos plaintes,
+Ma clemence aujourd'huy dissipera vos craintes,
+Et vous témoignera par ma facilité⁎,
+Combien je suis modeste en ma prosperité,
+Vivez Amalazonthe ; & vous Prince rebelle,
+Aussi fidelle Amant que Vassal infidelle,
+Apprenez par l'effet que je vay faire voir,
+Qu'il est advantageux d'estre sous mon pouvoir.
+Qu'on détache ses fers.
+
+-*who_vitigez
+            Ah ! Seigneur mon offence
+Les a trop meritez ; mais par cette clemence,
+Vous voulez témoigner que vostre Majesté                
+Sçait comme par le fer vaincre par sa bonté,
+Ainsi vous triomphez doublement d'un rebelle,
+Cette chaine qu'on m'oste en fait une nouvelle,
+Qui s'offrant à mes sens avec moins de rigueur,
+Semble passer icy de mes mains à mon coeur ;
+Ouy Seigneur desormais je sçauray reconnoistre,
+Estant mon Empereur, que vous estes mon maistre,
+Que je dois relever d'un si juste pouvoir,
+Et par vostre vertu j'apprendray mon devoir.
+
+-*who_justinian
+Rare honneur de ma Cour, appuy de mon Empire
+Que j'honnore, qu'on craint ; mais que chacun admire,
+Belisaire en un mot, tes belles actions,
+Qui me rendent vainqueur de tant de nations,
+Me semblent demander l'illustre recompence,
+Que mon affection prepare à ta vaillance,
+Il est juste, & je veux ayant bien combatu,
+Que ma reconnoissance égale ta vertu⁎,
+Approche, et de ma main prends ces augustes⁎ marques,
+Dont l'êclat te releve au dessus des Monarques,
+Avecque ce pouvoir tes ordres Souverains
+Regiront dessous moy l'Empire des humains ;
+Je veux que mes sujets respectent ta puissance,
+Qu'à tes commandemens on preste obeyssance,
+Et que tous les Guerriers qui combattent pour moy            
+Dans leurs plus beaux desseins n'agissent que par toy.
+
+-*who_theodore
+Icare audacieux, cette orgueïlleuse pompe
+Dont le funeste esclat me déplaist & te trompe,
+Seront de faux ardens dont les traistres appas⁎
+Attireront ta vie au chemin du trespas.
+
+-*who_belisaire
+Quelques nobles effects qu'ait produit ma victoire,
+Seigneur, je treuve assez de salaire⁎ en ma gloire,
+Sans que vous adjoutiez à ce rare bon-heur
+Ces tiltres absolus ny ce supreme honneur
+Qui loing de m'obliger exposeront ma vie
+Aux atteintes des traits⁎ que décochent l'envie :
+Pour ces hautes faveurs prenez d'autres objets,
+Permettez que je vive au rang de vos sujets,
+Et par le seul honneur, de franc, & de fidelle
+Souffrez⁎ que je vous montre & mon coeur⁎ & mon zele,
+Les effets⁎ en ce point vous feront accorder
+Que je sçais obeïr bien mieux que commander.
+
+-*who_justinian
+Icy ma volonté s'accorde à ta demande,
+Fay donc & l'un & l'autre, obeys & commande
+Dans le premier effect sur les loix du devoir,                
+Et dedans le second celles de ton pouvoir.
+
+-*who_sophie
+Heureux commandement, puissant démon des armes,
+Acheve, ayde à l'amour, & seconde ses charmes,
+Conserve Belissaire au point où je le voy,
+Et fay que quelque jour il soit digne de moy.
+
+**** *book_ *id_body-5-2 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Hé bien chers confidens des secrets de mon ame,
+Dans mes ressentimens merite-je du blasme ?
+Et n'ay-je pas raison de hayr un ingrat,
+Qui par son arrogance attente sur l'Estat ?
+Vous voyez toutesfois que l'Empereur adore
+Ce que si justement je deteste & j'abhorre,
+Qu'il me rend le mespris de mes propres subjects
+Qu'un insolent me brave & rit de mes projects,
+Et quoy que je m'oppose au dessein qu'il conspire            
+Qu'il ne luy faut qu'un pas pour monter à l'Empire.
+O honte, ô desespoir ! quoy son ambition
+Sera donc triomphante à ma confusion ?
+Non, il faut qu'au besoin ma vertu se reveille,
+Que j'arme contre luy ma fureur qui sommeille,
+Et que du trosne auguste⁎ où l'ingrat veut monter,
+Je luy fasse un ecueil pour le precipiter
+Qu'il meure.
+
+-*who_sophie
+        Justes Dieux
+
+-*who_theodore
+                Narsés veux-tu me plaire ?
+Depeche de ce pas, va tuer Belissaire,
+A ce coeur⁎ insolent que ton bras soit fatal,
+M'ostant un ennemy, deffaits-toy d'un rival,
+Dont la haute faveur à tous deux importune,
+Estouffe ma grandeur & nuit à ta fortune,
+Employe à cet effet le fer ou le poison ;
+N'importe & ne crains rien pour cette trahison,
+Si tu rends par sa mort ma vangeance assouvie,
+Je sçauray bien sauver ton honneur, & ta vie :
+Va,
+
+-*who_narses
+    Madame,
+
+-*who_theodore
+            Va, dis-je, & sans plus discourir,
+Ou si tu ne le fais resous-toy de mourir.
+Non, arreste, ma hayne a trop de violence
+Pour ce coup important, il faut plus de prudence,
+Ne precipitons rien, escoute : tu connois
+Ce Guerrier redoutable entre tous les Danois.
+Ce brave Isquirion qui jadis dans son ame
+Conceut en ma faveur une si vive flame,
+Je l'attens, & je croy qu'il arrive aujourd'huy,
+Il est entreprenant, je peux beaucoup sur luy,
+Et si quelque raison rend son ame incertaine,
+Son amour le rendra partizan de ma hayne ;
+C'est de luy que je veux un coup si glorieux,
+Il prestera sa main, guide la de tes yeux,
+Belissaire est l'object, vostre appuy, ma puissance ;
+L'un aura ma faveur, l'autre mon alliance,
+Et vous sçaurez tous deux aprés ce noble effet
+Comme je sçais en fin m'acquiter d'un bien-fait.
+
+-*who_narses
+Il est vray, ce dessein le fait assez paroistre :
+Mais je seray plutost ton ennemy que traistre.
+
+-*who_theodore
+Ma niepce, c'est icy que vous me ferez voir
+Si le sang m'a sur vous donné quelque pouvoir.
+Comme à moy desormais cette affaire vous touche,
+Il est temps de m'ouvrir & le coeur & la bouche,
+Afin de tesmoigner qu'ainsi qu'à mes secrets
+Vous prenez quelque part en tous mes interests,
+Vous devez occuper le rang de vos ancestres :
+Mais si vous n'estouffez l'insolence des traistres,
+La couronne est un droit qu'on viendra vous ravir,
+Et bien loing de regner on vous verra servir.
+Voulez-vous empescher ce coup qui vous menace,
+Employez vos beautez, employez vostre grace,
+Et par tous ces attraits acquerez vous de loing
+Un bras dont la valeur vous defende au besoing⁎ ;
+Le Prince que j'attens est vaillant & fidelle,
+Jeune, noble, charmant, la conqueste en est belle,
+Et puis l'occasion vous montre ses cheveux :
+Mais si vous desirez de respondre à ses voeux,
+Il faut qu'Isquirion pour illustre doüaire⁎,
+Vous donne auparavant le sang de Belissaire ;
+C'est par ce beau present qu'il vous doit meriter,
+Et vostre ambition se doit bien contenter ;
+Car par ce riche don que vous devez eslire,
+Un Hymen⁎ si charmant vous asseure l'Empire.
+
+-*who_sophie
+Quand le sang, & le soing que vous avez de moy
+Ne m'obligeroient pas à ce que je vous doy,
+Mon inclination seroit assez puissante
+Pour rendre à vos desirs mon ame obeïssante :
+Mais quoy qu'un bel espoir flatte vostre projet,
+Voyez bien quelle teste en doit estre l'objet,
+Quel que soit nostre mal le remede est bien pire,
+Et son funeste effet nous coustera l'Empire.
+Madame excusez moy si j'ay ce sentiment,
+Je croyrois vous trahir de parler autrement,
+Et quoy que mes advis soient peu considerables⁎,
+Peut-estre pourrez vous les treuver raisonnables,
+Si vous considerez qu'en cette occasion
+Mon coeur est depouïllé de toute passion.
+Vous craignez, dites vous, que ce grand Belissaire
+Dont la haute valeur se rend si necessaire,
+N'envahisse à la fin cet Estat florissant,
+Où mon Oncle à vos yeux l'a rendu trop puissant ;
+Et c'est pour cet effet que vous avez envie
+De terminer le cours d'une si belle vie :
+Bien, suivez vos desseins ; mais à mon jugement
+Vous prenez pour le perdre un mauvais fondement :
+Car qui croira jamais qu'un si noble courage
+N'agissant que pour vous, puisse vous faire outrage ;
+Puisqu'au lieu de ravir ce qui vous appartient
+C'est luy qui vous defend, c'est luy qui vous maintient.             
+
+-*who_theodore
+Donc, à ce que je voy, vous prenez la defence
+D'un suject orgueilleux dont l'audace m'offence ?
+Et de ses faux appas⁎ l'esclat fallacieux
+Comme à Justinian vous a sillé les yeux ?
+Bien, bien, que vos vertus laschement estouffées
+A cét audacieux soient d'illustres trophées,
+Comme de l'Orient qu'il soit vostre vainqueur
+Il ne regnera pas tant que j'auray ce coeur,
+Quoy que le Prince & vous contre moy puissiez faire,
+Je le rendray bien-tost peu capable me plaire,
+Et le seul partizan de mon juste couroux
+Sera dans peu de temps son maistre et vostre espoux.
+
+-*who_sophie
+Si cet Isquirion dont vous vantez les charmes
+Est comme je le crois si redoutable aux armes
+Qu'il vienne en cette Cour ouverte à la vertu,
+Montrer les qualitez dont il est revestu :
+Qu'il vienne signaler sa force, & son adresse,
+Repousser les efforts du Persan qui nous presse,
+Abattre son orgueil, nous remettre en nos droits,
+Et marcher noblement sur la teste des Roys,
+Si ce Prince en un mot a dessein de me plaire,
+Qu'il vienne faire icy ce qu'a fait Belissaire,
+Et non pas demander par une lascheté                    
+Un party de mon rang & de ma qualité.
+
+-*who_theodore
+Vous y pourrez songer, Narsés approche, escoute,
+Sophie est un esprit qu'il faut que je redoute,
+Ne l'abandonne pas, observe ses desseins,
+Tasche de luy donner des mouvemens⁎ plus sains :
+Mais prends garde sur tout qu'une indiscrete⁎ flame
+Ne luy fasse éventer le complot que je trame,
+Je t'en laisse le soing.
+
+-*who_narses
+            Reposez-vous sur moy.
+
+**** *book_ *id_body-5-3 *act_ *date_1641 *creator_desfontaines
+
+-*who_sophie
+Hé bien, Narsés, enfin puis-je m'ouvrir à toy ?
+je te croirois faire un trop sensible outrage
+Si je me deffiois de ton noble courage,
+Veu que de quelque espoir dont tu sois combatu,            
+Je sçais qu'on ne sçauroit corrompre ta vertu.
+Apprends donc aujourd'huy quelle est mon adventure⁎,
+Le sang combat l'amour, & l'amour la nature :
+Mais comme tu peux voir en ce triste duel,
+L'amour est innocent, & le sang criminel :
+Ouy, Narsés, ce Danois qu'attend l'Imperatrice,
+Et dont elle pretend te rendre le complice,
+Soubs pretexte d'offrir un azile à mon sort,
+Vient signer avec elle & ma perte, & ma mort :
+Mais avant que je sois l'injuste recompence
+De leur assassinat, & de leur violence,
+J'arracheray mon coeur, & mon sang respandu
+Coulera sur celuy qu'un Prince aura perdu.
+
+-*who_narses
+Il n'est pas necessaire, adorable Sophie,
+Qu'icy mon innocence en vain se justifie,
+Puisque vous avez leu clairement dans mes yeux,
+Combien ces procedez me semblent odieux :
+Aussi certes je tiens vos refus legitimes,
+La vertu ne doit point s'acquerir par des crimes,
+Et vous avez raison de fuyr un amant,
+Que par un homicide on veut rendre charmant :
+Peut-estre que l'amour qu'on croit en Belissaire
+Le fait en cette Cour passer pour temeraire,
+Mais tant de qualitez qui le font admirer
+Luy doivent pour le moins permettre d'esperer.                 
+
+-*who_sophie
+Je suis ce sentiment que la vertu te donne,
+J'aime ses qualitez bien plus que sa personne,
+Et voyant que tu tiens de ses perfections
+Tu partages des-ja mes inclinations :
+C'est par ces beaux degrez que l'on monte à la gloire,
+Qu'on gaigne sur les coeurs une illustre victoire,
+Et qu'on peut parvenir à ce superbe⁎ rang,
+Qui supplée aux deffaux & du corps & du sang :
+Theodore pretend que je sois le salaire⁎,
+De qui luy portera le coeur de Belisaire,
+Et moy pour m'opposer à ce lasche courroux,
+De son liberateur je feray mon espoux.
+
+-*who_narses
+L'espoir de posseder un si grand advantage
+Doit aux moins genereux⁎ inspirer du courage,
+Et si par ce moyen l'on vous peut acquerir,
+Il n'est point de mortel qui ne se vienne offrir,
+Mais je n'ay pas dessein, Princesse genereuse⁎,
+D'imposer à vos voeux cette loy rigoureuse,
+Quelque succez que j'aye en cette occasion
+Vous suivrez librement vostre inclination,
+Je seray glorieux si j'ay l'heur⁎ de vous plaire,
+Sinon vous donnerez vos voeux à Belisaire,                
+M'estimant trop heureux si par un prompt secours
+Je puis contribuer au bien de vos amours.
+
+-*who_sophie
+Va, suy ce mouvement⁎ que la gloire t'inspire
+Sauve, brave Narsés Belisaire & l'Empire,
+Fay par un noble coup qu'il te doive le jour,
+L'Empire, son salut, & mon coeur son amour,
+Je me promets de toy cét agreable office⁎.
+
+-*who_narses
+Madame asseurez-vous de mon humble service,
+Et dans quelque danger qu'il me faille courir,
+Vous m'y verrez bien-tost satisfaire, ou perir.
+
+-*who_sophie
+Va Narsés, mais sur tout en ce pressant orage,
+Que ta discretion assiste ton courage,
+Et souffre⁎ si tu veux m'obliger tout à fait,
+Que mesme Belisaire ignore ce bien fait.
+
+**** *book_ *id_body-5-4 *act_ *date_1641 *creator_desfontaines
+
+-*who_narses
+Confus, triste, pensif, je ne sçay que resoudre⁎
+Ayant ouy gronder l'espouvantable foudre,
+Qui menace aujourd'huy l'objet le plus parfait,
+Et le plus innocent que la nature ait fait :
+Empeschez immortels le cours de ce desastre,
+Armez vôtre courroux en faveur de cét astre,
+Et toy Dieu des beautez, & des graces, Amour,
+Confonds⁎ un assassin qui vient en cette Cour,
+S'opposer à tes loix, te combatre & destruire,
+Les plus beaux ornemens qui soient en ton Empire :
+Mais ! ô Roy du desordre & du déreglement,
+Ma voix en ce besoin t'invocque vainement,
+Tu ris dans les malheurs, tu te plais dans les larmes,
+A ces tristes effets tu reserves tes armes.
+Et tu ne porte plus de traits⁎ dans ton carquoy,
+Que pour favoriser des tyrans comme toy,
+Prepares les cruels, & les mets en usage,
+Theodore t'appelle au secours de sa rage,
+Seconde ses desseins, allume ton flambeau,
+Elle s'en veut servir pour un effet nouveau,                
+Car ne pouvant souffrir⁎ une ardeur legitime,
+Ta flame esclairera le triomphe d'un crime,
+s'il se peut empeschons ce malheur,
+Le Ciel semble à ce coup destiner ma valeur,
+Et malgré les efforts d'une crainte importune,
+Dire que cét honneur vaut plus que la fortune,
+Suivons donc cét advis⁎, ne deliberons plus,
+C'est trop perdre de temps en propos superflus,
+Allons tout de ce pas destourner cet orage,
+Empescher les effets⁎ d'un visible naufrage,
+Et sauver s'il se peut, mais genereusement,
+En Amy Belisaire, & Sophie en Amant.
+
+**** *book_ *id_body-6-1 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Je ne sçaurois souffrir⁎ plus long-temps son absence,
+Diophante mets fin à mon impatience,
+Va, trouve moy Narsés, dy luy que je l'attends,
+Despeche, & par tes soins rends mes esprits contens⁎,
+On m'a dit qu'il prenoit le plaisir de la chasse,
+Visite tout le bois, tandis qu'en cette place
+Ces beaux arbres feront malgré l'astre du jour
+Que plus commodément j'attendray ton retour,
+
+**** *book_ *id_body-6-2 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+
+Lieux charmans, solitude sombre,
+Sejour du silence & de l'ombre,
+Beaux arbres que je rends tesmoins de mon tourment,
+Ne vous estonnez⁎ pas d'entendre mon martire,
+Puis que c'est à vous seulement,
+Que ma discretion m'a permis de le dire.
+
+Amour ce petit Dieu des coeurs,
+Qui des plus superbes⁎ vainqueurs,
+Abaisse quand il veut & l'audace & la gloire,
+Ce tyran contre qui tous mes efforts sont vains,
+Ne pouvant souffrir⁎ ma victoire,
+A fait choir⁎ aujourd'huy mes lauriers de mes mains.
+
+Mon triomphe a produit ma peine,
+Et je suis captif d'une Reine,
+Dont naguere mon bras estoit victorieux,
+Si j'ay tiré du sang, elle a versé des larmes,
+Et cet objet imperieux
+A plus fait par ses pleurs que mon bras par ses armes.
+
+Ouy c'en est fait, quitte mon coeur,                    
+Quitte le tiltre de vainqueur,
+Et cede à ses beaux yeux cette orgueilleuse marque,
+Tu resiste en vain rebelle, resous toy,
+Puis qu'ils triomphent d'un Monarque,
+De souffrir⁎ desormais qu'ils te donnent la loy.
+
+Mais helas ! aveugle que dis-je,
+C'est cette raison qui m'afflige,
+Et qui m'oste l'espoir necessaire à mes voeux,
+Ma princesse me plaist, mais ce Roy m'importune,
+Et quand je les ay pris tous deux,
+J'ay détruit mon amour, & nuit à ma fortune.
+
+N'importe, esperons toutesfois,
+Mars qui favorise mes droits
+Ne veut pas aujourd'huy que je les abandonne,
+Mon rival par ce prix peut rentrer dans ses biens,
+Et s'il veut r'avoir sa Couronne,
+Il faut qu'à mon amour il laisse ses liens.
+Ennemy de mon bien ainsi que de ma gloire,
+Qui mesme dans les fers partages ma victoire,
+Monarque malheureux resous toy de ceder,
+Ce prix qu'injustement on t'a veu posseder ;
+Escoute la raison, & cesse de pretendre,                
+Ce tresor amoureux que tu n'as peu deffendre,
+Obeïs desormais à la loy de ton sort,
+Sois moins ambitieux, ou montre toy plus fort,
+Au milieu du combat je t'ay sauvé la vie,
+Ingrat souffriras⁎-tu qu'elle me soit ravie ?
+Un procedé si lasche est indigne d'un Roy,
+Rends moy donc aujourd'huy ce que tu tiens de moy,
+Si non pour oster tout obstacle à ma flame,
+J'arracheray le coeur qui veut avoir mon ame.
+Mais quel estrange bruit retentit dans ce bois ?
+Qu'entens-je, justes Dieux ? mais qu'est-ce que je vois ?
+La valeur d'un guerrier par le nombre opprimée,
+Cede aux coups d'une bande à sa perte animée,
+Il le faut secourir.
+
+**** *book_ *id_body-6-3 *act_ *date_1641 *creator_desfontaines
+
+-*who_iskirion
+            Vous voulez mon trépas,
+Bien, mais auparavant vous connoistrez mon bras,
+Et cet illustre sang que vous voulez répendre,
+Coulera lasches coeurs, mais je le sçauray vendre,
+
+-*who_narses
+Il n'importe.
+
+-*who_belisaire
+        Donnons, à moy traistres, à moy,
+Ici vostre fureur trouvera de l'employ,
+Tournez contre mon sein vos armes criminelles,
+Quoy déja la terreur vous a donné des aisles ?
+Vous fuyez assassins. Cavalier advancez,
+Les voleurs sont deffaits, mais ce n'est pas assez,
+Il faut que par mes mains l'artisan de ce crime,
+Pour tous ses compagnons vous serve de victime.
+
+-*who_iskirion
+Ah ! Seigneur arrestez, cette punition,
+Appartient à mon bras comme à ma passion,
+L'outrage qu'il m'a fait m'oblige⁎ à cét office⁎.
+
+-*who_belisaire
+Trop d'honneur seroit joint à son juste supplice,
+Il ne merite pas un si noble courroux,                    
+Vous frapperiez un homme indigne de vos coups,
+Et cette illustre mort qui flatte son envie,
+Seroit plutost le prix que la fin de sa vie,
+Ouy, ouy ce châtiment appartient à mon bras,
+Rien ne peut malheureux te sauver du trépas,
+Oste ce Tapabort⁎, voy la main qui s'appreste,
+A separer du corps une si vile teste,
+Que tu caches perfide avec juste raison,
+Pour ne point voir l'horreur joint à ta trahison.
+Mais que voy-je ? ô destins ! je doute si je veille,
+Quelle confusion⁎ à la mienne est pareille ?
+Narsés est -ce bien vous que je vois en ces lieux ?
+Ne suis-je point charmé⁎ ? Dois-je croire à mes yeux ?
+C'est bien vous si j'en crois les traits de ce visage,
+Mais qu'il est mal d'accord avec vostre courage,
+Un desordre si grand rend mes esprits confus,
+Et dans ce lasche estat je ne vous cognois plus,
+Quel qu'il soit toutesfois je demande sa grace,
+Seigneur en ma faveur pardonnez son audace,
+Il merite la mort pour ce qu'il a commis,
+Mais il fut autresfois au rang de mes amis,
+Et de ces actions c'est icy la premiere
+Qui trompe une amitié si parfaite & si chere ;
+Excusez-la, Seigneur, les Dieux n'ont point de mains
+Pour la premiere faute où tombent les humains,
+C'est assez que la foudre ait menacé sa teste,
+J'ay souslevé les flots, appaisez la tempeste,                
+Et si je tiens de l'homme en voulant vous vanger,
+Faites comme les Dieux le sauvant du danger.
+
+-*who_iskirion
+Quand je ne voudrois pas la raison m'y convie,
+Puis-je rien refuser à qui je dois la vie ?
+Mon Seigneur vos desirs seront tousjours les miens,
+Je tiens de vous le jour, qu'il vous doive les siens,
+J'y consens, & de peur qu'une action si noire
+N'efface tout à fait le reste de sa gloire,
+Et ne le rende infame aux siecles à venir,
+J'en veux perdre, Seigneur, jusques au souvenir.
+
+-*who_belisaire
+C'est aussi dans l'oubly des plus sanglants outrages
+Que se voit la grandeur des illustres courages,
+Et par ce noble effect une adroitte pitié
+Punit mieux quelquesfois que leur inimitié,
+En ces occasions quelle que soit l'offense,
+Le pardon est souvent une haute vengeance,
+Et c'est un chastiment qui tousjours fait sentir
+Les peines qu'aux grands coeurs donne du repentir.
+
+-*who_narses
+Il est vray que je souffre un remors bien sensible,
+Et bien tost mon trépas vous le rendra visible :                
+Mais ce vif repentir que j'emporte en mourant
+N'est pas d'avoir commis un attentat si grand ;
+Au contraire je tiens cét acte legitime,
+J'appelle icy vertu ce que vous nommez crime,
+S'il estoit achevé je serois satisfait,
+Et je meurs de regret de le voir imparfait.
+
+-*who_iskirion
+Il a perdu le sens.
+
+-*who_belisaire
+        Narsés, quelle manie⁎
+D'un esprit si solide a la raison bannie ?
+D'où te vient cette erreur ? Et pourquoy penses-tu
+Qu'un lasche assassinat soit un trait de vertu ?
+Quel transport⁎ a causé cette fureur extreme ?
+
+-*who_narses
+La raison, la pitié, mon amour, & vous mesme.
+
+-*who_belisaire
+Moy, Narsés ? que dis-tu ?
+
+-*who_narses
+            Je dis ce que je dois.
+
+-*who_belisaire
+Ah ! sans doute ton coeur dement icy ta voix,
+Je n'eus jamais de part aux lâchetez d'un traistre.
+
+-*who_narses
+Non, mais si je le suis vous m'obligez à l'estre,
+Et la seule pitié que j'ay de vostre sort
+Est le coup qui me perd & qui cause ma mort.
+Ce foible bras a fait un crime en apparence ;
+Mais un crime si beau meritoit recompense,
+Puis que sans vostre abord un facile combat
+Eust sauvé vostre sang, ma Princesse, & l'Estat.
+
+-*who_iskirion
+Ce discours cache un sens que je ne puis comprendre.
+
+-*who_narses
+Dedans peu les effects⁎ vous le pourrons apprendre,
+Et mon malheur me rend bien-heureux en ce point,
+Que me privant du jour je ne le verray point.
+Adieu, cruel amy, le Ciel te soit prospere,
+Et rende ton destin plus doux que je n'espere.
+
+**** *book_ *id_body-6-4 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Il expire, Narsés, helas ! il ne vit plus,
+O Dieux ! que cette mort rend mes esprits confus,
+Narsés ouvre les yeux, ah ! mon attente est vaine,
+Il est mort, & mourant il fait naistre ma peine.
+Destins injurieux où m'avez-vous reduit ?
+Quoy donc de ma valeur est-ce là tout le fruict ?
+Sont-ce là vos faveurs ? Est-ce la recompense
+Que vos injustes loix donnent à l'innocence ?
+Quand un bras genereux⁎ a le vice abatu,
+Est-ce là le laurier qu'il a pour sa vertu ?
+Ah ! cruels, je vois bien que vous portez envie
+A l'extreme bon-heur où je coulois ma vie,
+Enuyez de me voir en un estat si doux,
+Vous voulez que j'espreuve aussi vostre courroux.
+Hé bien, lancez vos traits⁎, apprestez mes supplices,
+Je suis prest de souffrir⁎ toutes vos injustices,
+Et pour ne point souler vostre haine à demy,
+Meslez icy mon sang au sang de mon amy.                
+
+-*who_iskirion
+Ce sang ne fut jamais digne de ce meslange,
+Ne le regretez point, vous gaignerez au change,
+Et sa mort est un coup que le Ciel a permis
+Pour vous donner ici de plus nobles amis.
+Si je ne sçavois bien qu'un coeur comme le vostre
+Ne pris jamais de part aux foiblesses d'un autre,
+Je craindrois justement de ne pas obtenir
+L'amitié que j'espere & qui nous doit unir ;
+Mais vous connoissez trop que ce qu'il vient de dire
+De conspiration contre vous & l'Empire,
+Sont des pretextes faux dont il pensoit couvrir
+L'horreur d'une action qui le force à mourir.
+Je suis noble Seigneur, & le Ciel m'a fait Prince,
+Mais je suis, grace aux Dieux, content de ma Province,
+Et desormais l'honneur de vostre affection
+Sera le seul objet de mon ambition,
+Secondez maintenant une si juste envie,
+Adjoutez cette grace à celle de ma vie,
+Favorisez les voeux d'un Prince infortuné,
+Ou reprenez le jour que vous m'avez donné.
+
+-*who_belisaire
+Seigneur je viens de voir un trop clair témoignage
+Et de vostre naissance, & de vostre courage,                 
+Pour croire que jamais aucun mauvais dessein
+Puisse trouver entrée en un si noble sein :
+Cette vertu qu'en vous j'admire & je respecte
+Est trop haute pour estre ou nuisible ou suspecte,
+Et vostre bien-veillance a des charmes si doux
+Qu'on ne vous sçauroit voir & n'estre pas à vous :
+Prenez donc sur mon coeur une entière puissance,
+Il vous offre son zele & son obeïssance,
+Et bien que peu puissant, au moins il fera voir,
+Qu'il sçait & bien aimer & faire son devoir.
+
+-*who_iskirion
+Ah ! cét abbaissement offense vos merites ;
+Comme ils sont hors de prix ils n'ont point de limites,
+Et l'admiration dont je me sens charmer
+Est le langage seul qui les puisse exprimer :
+Cependant permettez que ce premier hommage
+Soit de nostre amitié le symbole & le gage,
+Et que ce diamant aussi net que mon coeur
+Vous fasse souvenir de vostre serviteur.
+
+-*who_belisaire
+Pour vous rendre tousjours ma memoire fidele,
+Les dons sont superflus, il suffit de mon zele ;
+Mais puis que vos desirs m'imposent cette loy,
+Plein d'aise & de respect, Seigneur, je le reçoy,                
+Et je proteste⁎ icy que les mains de la Parque
+Seules pourront m'oster cette adorable marque.
+
+-*who_iskirion
+Adieu, je me retire avecque cet espoir.
+
+-*who_belisaire
+J'auray dans peu de temps l'honneur de vous revoir,
+Si vous faites en Cour tant soit peu de demeure.
+
+-*who_iskirion
+C'est où je vous attens.
+
+-*who_belisaire
+            J'y seray dans une heure,
+Cependant trouvez bon qu'un reste d'amitié
+Exerce envers ce corps encor quelque pitié,
+Et puisque son trépas a vangé son injure,
+Que mon dernier present soit une sepulture.
+
+**** *book_ *id_body-6-5 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+
+Dans ces sombres deserts où rien ne peut parler,
+Je pensois soulager mon amoureux martyre,
+Mais au lieu de trouver de quoy me consoler,
+J'y treuve des objets qui le rendent bien pire,
+Il faut qu'icy le deüil couvre un triste vainqueur,
+Qui sent une horrible tempeste.
+Helas ! Destins que sert un laurier sur la teste,
+Une palme en la main, quand le crime est au coeur ?
+
+Allons, hé quoy mes yeux vous n'obeissez pas,
+N'osez-vous regarder un objet si funeste ?
+Moy-mesme mal-gré moy j'en esloigne mes pas,
+Et je me sens rebelle en tout ce qui me reste,
+Advance main cruelle, & fais un juste effort,
+Puis que le devoir t'y convie,
+Lasche main que crains-tu ? Narsés n'a plus de vie,
+Il n'aura plus de voix pour reprocher sa mort.
+
+Que dis-je, mal-heureux ? cét object que je vois
+Tient aujourd'huy mon coeur en de justes allarmes,
+Car bien qu'il ait perdu l'usage de la voix,                
+Son sang me dit assez que je luy dois des larmes,
+Ce cadavre est mon juge, il definit mon sort,
+Je vois escrit sur cette face,
+Apres tant de bon-heur, l'arrest de ma disgrace,
+Et je trouve la foudre en la bouche d'un mort.
+
+Narsés je vais mourir, pardonne à mon erreur,
+Si ton sang peut parler il faut qu'il me console,
+Parmy tant de soupirs & de traits de fureur,
+Tâche de prononcer quelque douce parole,
+Cadavre rigoureux, de quoy m'accusez-vous ?
+Je suis prest de vous satisfaire,
+Mais comment, justes Dieux, la mort peut-elle faire
+Un juge si cruel d'un coupable si doux ?
+
+Quitte, quitte le jour, infortuné⁎ vainqueur,
+Ton deüil par des regrets trop laschement s'exprime,
+Puny ta cruauté par une autre rigueur,
+C'est ton sang, non tes pleurs, qui doit laver ton crime,
+Prens au lieu d'un laurier un funeste bandeau,
+Et que cette fatale espée,
+Contre toy-mesme icy par toy-mesme occupée,
+Soit ton juste supplice, & ta main ton bourreau.
+
+**** *book_ *id_body-6-6 *act_ *date_1641 *creator_desfontaines
+
+-*who_diophante
+Dieux, qu'est-ce que je vois ? ah, Seigneur !
+
+-*who_belisaire
+                    Diophante
+Que fais-tu ? Laisse moy, souffre⁎ que je contente
+Par un coup genereux⁎ la rigueur de mon sort,
+Voy cét object sanglant, c'est Narsés.
+
+-*who_diophante
+                Il est mort.
+
+-*who_belisaire
+Ouy, Diophante, il l'est.
+
+-*who_diophante
+            Dieux ! le malheur extreme,
+Qui l'a tué ?
+
+-*who_belisaire
+        Moy.
+
+-*who_diophante
+            Vous
+
+-*who_belisaire
+                Moy, mais plustost luy-mesme.
+Car lors que j'ai commis cét innocent peché,
+Un tapabort⁎ tenoit son visage caché.
+
+-*who_diophante
+A quelle occasion ?
+
+-*who_belisaire
+        Espargne ta memoire,
+Tu ne sçauras que trop cette tragique histoire ;
+Et mesme si tu veux appaiser mes transports⁎,
+Oste à mes tristes yeux ce deplorable corps.
+Fin du secon Acte
+
+**** *book_ *id_body-7-1 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Allez ne craignez rien, achevez cette affaire,
+Et songez seulement quel est vostre salaire⁎,
+Avant que vous mander pour ce coup important,
+J'avois déja preveu ce que vous craignez tant,
+Et toutes les raisons qu'icy vous avez dites,
+Ma prudence déja me les avoit deduites :
+Mais ce que maintenant je vous ay declaré
+Contre ces vaines peurs vous doit rendre asseuré.
+Vous sçavez mon pouvoir & celuy de Sophie,
+Que ce n'est qu'à nous deux que l'Empereur se fie,
+Et que nos sentiments, nos desirs, & nos voix,
+Passent dans son esprit pour legitimes loix.
+Allez sous nostre adveu⁎, travaillez pour vous mesme,
+On doit tout hazarder pour avoir ce qu'on aime,
+Il faut tout entreprendre, & tenter jusqu'au bout,
+Un esprit amoureux est capable de tout.
+
+-*who_iskirion
+Hé bien, Madame, il faut complaire à vostre envie,
+Un sujet vous deplaist, vous demandez sa vie,
+Vous avez sur mon coeur un pouvoir absolu,
+Il veut que j'obeisse, & j'y suis resolu.
+Pour l'amour de Sophie & pour vostre service,
+Il n'est rien que je n'ose & que je n'accomplisse,
+J'affronteray pour vous & l'enfer & les cieux,
+Le fer, le feu, la mort, les hommes & les Dieux,
+Pour vous je trouveray tout acte legitime,
+Je hazarderay tout, ma gloire, mon estime,
+Ma fortune, mon sang, mon pays, mon honneur,
+Et le tout pour Sophie, & pour vostre faveur.
+J'ay regret toutesfois que quelque autre asseurance,
+Ne preuve mon amour, & mon obeissance,
+Et qu'il ne m'est permis d'aspirer autrement
+A la possession d'un tresor si charmant,
+Si Belisaire est craint, c'est dans cette province,
+J'ay le bras d'un soldat, le courage d'un Prince.
+Et si vous le vouliez, vous verriez ma valeur
+Imprimer sur son corps ma gloire & son malheur.
+
+-*who_theodore
+La vaillance n'est pas un poinct qu'on vous dispute,
+Ce que veut vostre coeur vostre bras l'execute,
+Et je ne doute pas qu'un duel entre vous
+Ne le fist succomber soubs l'effort de vos coups :
+Mais en cette occurrence⁎ un bras si magnanime
+Advanceroit sa gloire en punissant son crime ;
+Et vous donneriez moins en cette occasion
+A mes justes desirs qu'à son ambition.
+Non, non, il ne faut pas qu'un coup si favorable
+Donne à mes ennemis un sepulcre honnorable ;
+Belisaire est un traistre, & par cette raison
+Il doit perir aussi par une trahison,
+Si l'on peut justement appeler de la sorte
+Une action hardie où mesme un Dieu nous porte.
+Ne differez donc plus ce dessein proposé,
+Et pour rendre à vos mains son effect⁎ plus aisé,
+Taschez en l'abordant avecque courtoisie,
+Que sa droite par vous adroitement saisie,
+Soubs pretexte d'honneur & de civilité,
+Donne à vostre poignard plus de facilité,
+Ce beau coup achevé, la recompense est preste,
+Commencez seulement, & je feray le reste.
+
+-*who_iskirion
+Madame s'en est fait, il va perdre le jour,
+Victime infortunée⁎ ! & de haine & d'amour.
+
+**** *book_ *id_body-7-2 *act_ *date_1641 *creator_desfontaines
+
+-*who_iskirion
+Importune raison, hé bien que dois-je faire ?
+Te faut-il obeir, ou bien t'estre contraire ?
+Sur une perfidie establir mon bon-heur ?
+Ou perdre mon amour, pour sauver mon honneur ?
+Mon honneur ! ah ! c'est trop, je ne m'y puis resoudre,
+Lancez, lancez sur moy les quarreaux de la foudre
+Dieux justes, Dieux vangeurs, plustost que de souffrir⁎
+Qu'ingrat à vos faveurs je les laisse perir:
+Vous avez attaché mon honneur à ma vie,
+Que la perte de l'un soit de l'autre suivie,
+Ou si chacun des deux doit perir à son tour,
+Laissez vivre l'honneur, & privez moy du jour :
+L'honneur est un tresor à tout bien preferable,
+Il est cher, mais, helas ! Sophie est adorable,
+Et se rendre rebelle à des attraits si doux,
+Grands Dieux, vous le sçavez, c'est s'attaquer à vous,
+Comme elle est des vertus le plus parfait modele,
+Un crime est innocent, quand il se fait pour elle ;
+Et la mesme vertu change de qualité,
+Quand elle a le malheur de chocquer sa beauté.
+Suivons donc les conseils que mon amour me donne,            
+Obeis ma raison puis qu'un Dieu te l'ordonne,
+Aussi bien c'est en vain que je veux reveler,
+Le traict desja lancé ne se peut r'appeller,
+Il faut, il faut franchir constamment la carriere,
+Et m'acquerir Sophie ou perdre la lumiere.
+
+**** *book_ *id_body-7-3 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Quoy donc, Amalazonthe, apres un traittement,
+Que des Princes captifs espreuvent rarement,
+Vous voulez aujourd'huy paroistre inexorable,
+A celuy dont l'amour vous est si favorable ;
+Et parce qu'il vous aime, un insolent orgueil,
+Pour un trône qu'il rend luy destine un cercueil.
+Bien, bien continuez cette barbare envie,
+Ingratte, ostez le jour à qui vous rend la vie,
+Perdez par vos mespris un vainqueur qui vous sert,
+Donnez luy vos faveurs, ce grand coeur les merite,
+Et les luy disputer c'est ce qui vous irrite.                
+
+-*who_amalazonthe
+N'en doutez nullement, bien qu'un sort rigoureux
+Dans ses nobles projets l'ait rendu malheureux,
+Le droict qu'il a sur moy n'est pas moins legitime,
+Et chez moy son malheur augmente son estime.
+Je sçay que le Demon qui preside aux combats,
+L'a mis dedans les fers, & ravi ses Estats,
+Ses biens, sa liberté, son spectre, sa couronne,
+Que son peuple le quitte, & que tout l'abandonne :
+Mais bien que vostre bras l'ait reduit à ce poinct,
+Croyez moy, Belisaire, il ne le perdra point,
+Quoy que vous puissiez faire, ou que vous puissiez dire,
+Moy seule je seray ses Estats, son Empire,
+Son espoir; sa grandeur, ses sujets, & sa Cour,
+Son conseil mes desirs, & ses loix mon amour.
+
+-*who_belisaire
+Voila dedans les fers parler en souveraine.
+
+-*who_amalazonthe
+Vous m'avez fait captive, & le Ciel m'a fait Reine,
+Le sort qui me destruit ne m'a pas tout osté,
+J'en conserve le coeur comme la qualité :                
+Et bien que l'ont m'ait mise en estat de me plaindre,
+Vous ne devez point voir mon malheur sans le craindre.
+L'aveugle Deité qui flatte les humains
+Tourne aussi tost le dos qu'elle nous tend les mains,
+Un moment nous la rend rigoureuse & propice,
+Tel qui fut au sommet se voit au precipice,
+Et pour un mouvement⁎ qui n'est jamais égal,
+Le mal succede au bien, & le bon-heur au mal.
+
+-*who_belisaire
+Helas ! que je fais bien la triste experience,
+Et des rigueurs du Sort, & de son inconstance,
+Puis que la méme main qui bastit ma grandeur,
+Détruit mon esperance & me refuse un coeur.
+Ah ! Madame, quittez cette humeur obstinée,
+Escoutez les soupirs d'une ame infortunée⁎,
+Qu'Amour fait à vos pieds expirer soubs les coups,
+Et par les traits⁎ ardents qu'elle a receu de vous,
+Ne luy refusez pas la pitié qu'elle implore,
+Et recevez, cruelle, un coeur qui vous adore.
+
+-*who_amalazonthe
+Ne m'importunez plus, & quittons ce discours,
+J'ay l'esprit à mes maux plustost qu'à mes amours,
+Ce Dieu qui ne se plaist que parmy les delices
+Rougiroit qu'on le vist en ce lieu de supplice.                
+
+-*who_belisaire
+Vous ne rougissez pas qu'une extreme rigueur
+Parmy tant de tourmens le tiennent dans mon coeur,
+Vous estimez ces lieux indignes de la flame,
+Et vous faites cruelle un enfer de mon ame,
+Accordez mes desirs avecque la raison,
+Amour n'est jamais mieux que dans une prison,
+Il hayt la liberté, fait mesme qu'on la craigne,
+Et la chasse d'un coeur aussi tost qu'elle y regne.
+
+-*who_amalazonthe
+Ses plumes nous font voir qu'il sçait bien en partir.
+
+-*who_belisaire
+Mais c'est pour y voler, & non pour en sortir,
+Conservons luy pourtant l'usage de ses aisles,
+Sortant d'une prison qu'il entre en de plus belles,
+Vostre coeur est tenu soubs un lâche pouvoir,
+Quittez le pour le mien qui vous veut recevoir,
+Amour vous nuit icy, qu'Amour vous en retire.
+
+-*who_amalazonthe
+Je perdrois mon espoir, & non pas mon martyre.
+
+-*who_belisaire
+Cét espoir, ma Princesse, entretient vos malheurs,
+Cette espine jamais ne produira de fleurs :
+Vitigés qui nourrit cette vaine esperance,
+Vous promet un effect plus grand que sa puissance,
+L'Empereur qui m'a fait arbitre de son sort,
+Veut qu'il vous abandonne & qu'il cede au plus fort,
+En sa rebellion il a trouvé sa perte,
+Vous reparez la vostre en mon amour offerte,
+Ma premiere victoire est de vous acquerir.
+
+-*who_amalazonthe
+Perdant tout, il me reste une belle à mourir.
+
+**** *book_ *id_body-7-4 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Ah, mourir ! ah plustost si mon feu vous offense,
+Mais l'ingrate à mes yeux a ravy sa presence.
+Où m'avez vous reduit, espoir, ambition ?
+Que le sort répond mal à mon intention !
+Puis que le seul object qui me tue, & que j'aime,
+Dans sa captivité triomphe de moy-mesme,                
+Et traitte mon amour avec tant de mépris,
+Que je treuve un supplice où j'esperois un prix.
+Mais allons recevoir ce guerrier qui s'advance.
+
+**** *book_ *id_body-7-5 *act_ *date_1641 *creator_desfontaines
+
+-*who_doristel
+Le voila.
+
+-*who_iskirion
+C'est assez, observez le silence,
+Grand Prince, justes Dieux, que je suis interdit,
+Malheureux, ah ! Seigneur, il ne sera pas dit,
+Que ce bras animé d'une indiscrete⁎ envie,
+Ait arraché le coeur à qui je dois la vie,
+Va, va lâche instrument d'une aveugle fureur,
+Abandonne ma main, ton fer me fait horreur,
+Toutesfois, desloyal, tu peux encor me plaire,
+Vien, passe dans mon sein, & vange Belisaire,
+Tu feras par ce traict de generosité⁎
+Une juste action pour une lâcheté.                    
+
+-*who_belisaire
+Qu'est-ce donc ? arrestez.
+
+-*who_iskirion
+            Ah : souffrez⁎ que mon crime
+Reçoive un châtiment & juste & legitime,
+J'ay cherché vostre sang, j'ay voulu vostre mort,
+Ce desir criminel demande un mesme sort,
+Et bien qu'il ne soit rien que ministre⁎ d'un autre,
+Mon sang à cet effect⁎ doit payer pour le vostre,
+Permettez moy Seigneur.
+
+-*who_belisaire
+            Non quittez ce dessein,
+Ce fer est seulement destiné pour mon sein,
+Et si vostre bon-heur dépend de mon naufrage,
+Ce poignard peut encor achever mon ouvrage,
+Bien loin d'en murmurer j'en beniray les coups,
+Si mon coeur les reçoit & par vous & pour vous.
+
+-*who_iskirion
+Ah ! pour cette bonté qui paroist incroyable,
+Que vous m'estes cruel estant si pitoyable,
+Ce discours à mon coeur est un bourreau secret,            
+Vous m'arrachez ce fer, mais je meurs de regret,
+Ou si le Ciel encor permet que je respire,
+C'est pour faire durer ma honte et mon martyre,
+Et donner un exemple à la posterité,
+Et de mon imprudence et de leur équité,
+Ouy, Seigneur, permettez, advouant mon offense,
+Que d'un terme plus doux je la nomme imprudence,
+Puis que mon jugement en cét acte odieux
+A suivy le conseil de deux guides sans yeux.
+Ce monstre si fatal aux plus nobles courages,
+Et qui s'offre à nos sens sous mille faux visages,
+L'ambition d'abord avecque son poison,
+A troublé mon esprit, & seduit ma raison.
+La faveur & l'espoir ont esté ses complices,
+L'amour à mes efforts a joint ses artifices,
+Et mon aveuglement qui m'en cache l'objet,
+M'a fait prester la main à ce lâche projet.
+Mais, Seigneur, maintenant que vos vives lumieres
+Ont dissipé la nuict qui couvroit mes paupieres,
+Qu'à vostre heureux abord le bandeau m'est tombé,
+Et me redonne un bien qu'il m'avoit dérobé,
+Que mon ambition meure en vostre presence,
+Que ma faveur perisse avec mon esperance,
+Mon repos, mes plaisirs, & mesme mon amour,
+Plûtost que de souffrir⁎ qu'il vous coustent le jour.
+
+-*who_belisaire
+Ah ! c'est trop, je connois ces redoutables Astres
+Dont le fatal éclat a causé mes desastres :
+Ouy, je connois ces yeux, ces tyrans inhumains,
+Qui vous ont mis, Seigneur, la foudre dans les mains.
+Déja par les éclairs j'avois preveu l'orage,
+Mes yeux en avoient veu le funeste presage,
+Et par cette raison je ne m'estonne⁎ pas,
+Si vostre bras avoit resolu mon trépas,
+Un crime paroist beau quand la cause en est belle,
+En vain contre l'amour mon esprit se rebelle,
+Tout cede à son pouvoir, & ce superbe⁎ enfant
+Malgré tous ces efforts est tousjours triomphant.
+Vous l'avez veu, Seigneur, mais souffrez⁎ que je die,
+Qu'il m'eust payé vos soins par une perfidie,
+Et que ce bel objet qui vous tient sous la loy,
+N'a jamais eu dessein ny sur vous ny sur moy.
+
+-*who_iskirion
+Cét amour desormais m'est bien indifferente,
+Souffrez⁎ que je vous aime, & mon ame est contente :
+C'est là tout mon desir, c'est là tout mon espoir,
+Et l'unique bon-heur que je veux recevoir.
+Adieu, je me retire avec cette esperance.
+
+-*who_belisaire
+Ouy, mon Prince, vivez avec cette asseurance,
+Et si cette amitié que je vous jure icy
+Perit, faites grands Dieux que je perisse aussy.
+
+**** *book_ *id_body-7-6 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Songez y bien, Sophie, Iskirion est Prince,
+Songez que c'est pour vous qu'il quitte sa province,
+Et qu'on ne doit jamais par d'injustes mépris
+Irriter le courroux des genereux⁎ esprits ;
+Acceptez son amour & redoutez sa haine,
+Favorisez ses voeux, il en vaut bien la peine,
+Et croyez que l'honneur qu'il vous fait aujourd'huy
+Vous oblige à paroistre accorte⁎ comme luy.
+
+-*who_sophie
+En vain pour me toucher vous parlez de ses charmes,
+Je méprise ses voeux, ses soûpirs & ses larmes,
+Et j'estime si peu ses pas & son amour,                    
+Que si mon sujet seul l'arreste en cette Cour,
+Il peut s'en retourner & s'épargner la peine
+Que donne aux importuns une recherche vaine.
+
+-*who_theodore
+Si sa recherche est vaine auprés de vos appas⁎,
+Sa vengeance a des traits qui ne le seront pas,
+Evitez ce malheur.
+
+-*who_sophie
+            Je crains peu cét orage.
+
+-*who_theodore
+Ma niepce il a du coeur.
+
+-*who_sophie
+            Et j'en ay d'avantage.
+
+-*who_theodore
+J'en doute.
+
+-*who_sophie
+        Je me ris de son ressentiment.
+
+-*who_theodore
+Il est pourtant à craindre en l'esprit d'un amant,
+Et si ce coeur altier épargne un peu le vostre,
+Craignez que son courroux n'éclate sur un autre.
+
+-*who_sophie
+Bien, bien, que ce cruel acheve mon destin,
+De Prince genereux⁎ qu'il se rende assassin,
+Pour se vanger de moy qu'il fasse une injustice.
+Belisaire me plaist, il merite un supplice,
+Il faut verser son sang pour esteindre nos feux,
+Mais que vous estes loin du succez de vos voeux,
+Si vous croyez encor qu'apres ce traict perfide,
+Mes yeux puissent jamais souffrir⁎ cet homicide ;
+Non, non, n'esperez pas que je touche en la main,
+Qui, peut-estre, a signé cet Arrest inhumain,
+Le sang de mon amant me la rend odieuse,
+Qu'il m'oste quant & quant⁎ une vie ennuyeuse,
+Asseuré que le coup qui me le ravira,
+Est la seule action de luy qui me plaira.
+
+-*who_theodore
+Ouy, ouy, puisqu'à nos voeux vous este si contraire,
+Vous le verrez perir, ce beau, ce temeraire,
+Et devant que la nuict vous dérobe le jour,                
+Vous serez sans amant comme luy sans amour.
+
+-*who_sophie
+Allez, lâche, allez complaire à vostre envie,
+Allez trancher le cours d'une si belle vie ;
+Si mes justes douleurs ne previennent vos soins,
+Mes yeux mesmes cruels en seront les témoins.
+Mais apres mes devoirs rendus à l'innocence,
+Vous verrez quant & quant⁎ ma mort & ma constance,
+Et je vous feray voir, quoy qu'il faille endurer,
+Que ce qu'Amour a fait ne se peut separer.
+Fin du troisième Acte
+
+**** *book_ *id_body-8-1 *act_ *date_1641 *creator_desfontaines
+
+-*who_vitigez
+Ma Princesse, d'où vient cette melancolie
+Où vostre ame paroist si fort ensevelie ?
+Est-ce pour étoufer mon amoureuse ardeur
+Que vous me recevez avec tant de froideur ?
+Ah ! si j'ay le malheur d'avoir pu vous déplaire,
+Ordonnez de mon sort, je vay vous satisfaire
+Pourveu qu'en me privant & d'espoir & d'amour,
+Vous permettiez aussi que je perde le jour.
+
+-*who_amalazonthe
+Mon Prince, pardonnez à l'ennuy qui me presse,
+Et comme mon Amour partagez ma tristresse,
+Loin de me consoler en mes justes douleurs,
+Donnez vos sentimens à nos communs malheurs,
+Nous sommes menacez d'un violent orage,
+Mais pour y resister j'ay beaucoup de courage,                
+Et le sort vainement deployroit son courroux,
+Si m'estant rigoureux il vous estoit plus doux.
+
+-*who_vitigez
+Ah ! Madame, en ce point sa rigueur m'est propice,
+Et sa triste faveur feroit une injustice,
+Si lors que son respect manque pour vos attraits,
+Le barbare pour moy manquoit aussi de traits,
+Non, non, je beniray mon tourment & mes peines,
+Si vous prestez la main à soutenir mes chaines,
+Et si mon sang rendoit vos destins plus heureux,
+Je verrois le trépas d'un visage amoureux.
+Mais, de grace, Madame, afin de m'y resoudre,
+Dites moy de quel bras doit partir cette foudre,
+Quel est cét ennemy qui veut m'oster le jour ?
+
+-*who_amalazonthe
+Vous le voyez, Seigneur.
+
+-*who_vitigez
+            Qui, bons Dieux ?
+
+-*who_amalazonthe
+                    Mon Amour.
+
+-*who_vitigez
+Madame, c'est assés, je voy mon infortune,
+Et je sçay maintenant ce qui vous importune,
+Cét amour que vos yeux ont fait naistre en mon coeur,
+Cet aimable tyran dont je fais mon vainqueur,
+Est cause des ennuis peints sur vostre visage,
+Et du prochain malheur dont j'attens mon naufrage :
+Mais, Madame, esteignez ce feu qui vous déplaist,
+Employez y mon sang tout fidele qu'il est,
+Et pour rendre à jamais mon amour étoufée,
+Donnez à vos attraits un plus noble trophée :
+Je croy que ce n'est pas sans un sensible effort,
+Que vous avez conclu cet arrest de ma mort,
+Et que vostre rigueur voyant mon innocence,
+Se fait en me tuant beaucoup de violence.
+Mais, Madame, étoufez cette ingrate pitié,
+Perdez le souvenir de ma tendre amitié,
+Et pour mettre en repos un object adorable,
+N'espargnez point le sang d'un Prince miserable.
+
+-*who_amalazonthe
+Ah ! que vous prenez mal le sens de mes discours,
+Destruirois-je le bras d'où j'attens le secours ?
+Et croyez-vous qu'on puisse esteindre vostre vie,
+Sans que d'un mesme coup elle me fust ravie ?
+Non, non, la passion dont vous estes épris,                
+N'aura jamais chez moy ny froideur ny mépris,
+J'appreuve vos devoirs, vostre grace me charme,
+Et je crains, mais pour vous.
+
+-*who_vitigez
+            Qui vous met en allarme ?
+Doutez vous de ma foy ? doutez vous de mon coeur ?
+
+-*who_amalazonthe
+Non.
+
+-*who_vitigez
+Que craignez-vous donc ?
+
+-*who_amalazonthe
+                Un insolent vainqueur,
+Belisair'.
+
+-*who_vitigez
+Ah ! Madame un rayon d'esperance
+Flate encor mon amour d'une belle apparence :
+Ce n'est pas que l'orgueil de ce victorieux
+Me fasse icy douter du pouvoir de vos yeux,
+Je sçay que leurs regards triomphent des plus braves,
+Et que des plus grands Roys ils se font des esclaves ;
+Mais quoy que Belisaire ait pû vous témoigner,
+Ce n'est pas sur son coeur que vous devez regner,            
+Je sçay bien de quel trait sa belle ame est atteinte,
+Et vous avez, Madame, une inutile crainte :
+"Mais ainsi que le bruit accompagne le jour,
+"Tousjours la Jalousie accompagne l'Amour,
+"Par tout où va ce Dieu, va ce fantosme sombre,
+"Qui le suit de si prés qu'on le prend pour son ombre.
+
+-*who_amalazonthe
+Il est bien vray qu'alors qu'on possede un grand bien,
+C'est l'estimer bien peu que de ne craindre rien,
+Et par cette raison j'ay sujet de me plaindre,
+Car si vous m'estimez vous trouveriez à craindre.
+
+-*who_vitigez
+Si vostre coeur estoit moins illustre qu'il n'est,
+Je craindrois que mon sort ou bien vostre interest,
+Voyant en quel estat mon ennemy me range,
+Ne portast quelque jour une Princesse au change,
+Mais d'en avoir peur je croirois l'offenser,
+Si j'en avois conçeu seulement le penser.
+Non je ne puis commettre une si lâche faute,
+Mon amour est trop grand, & vostre ame est trop haute,
+Pour craindre que jamais on me puisse ravir
+Ny l'honneur d'estre aimé, ny l'heur⁎ de vous servir.
+Mais encor quel sujet a fait naistre ces craintes ?
+Et quelle occasion authorise vos plaintes ,                
+
+-*who_amalazonthe
+Ne vous figurez pas que ma presomption
+Soit le seul fondement de cette passion,
+Mon esprit qui connoit ce Prince opiniâtre,
+Ne forge pas un monstre afin de le combatre,
+J'ay veu dans ses transports⁎ des presages certains,
+Et de ce que je dis & de ce que je crains :
+Avoir incessamment de ses gens à ma suite,
+Veiller mes actions, épier ma conduite,
+Entendre tout le jour ce fâcheux compliment,
+Que j'ay de mon vainqueur pû faire mon amant.
+Dy moy ne sont-ce pas ces chants de Syreines
+Tousjours avant-coureurs des tempestes prochaines,
+Où je cours le danger d'un naufrage évident,
+Si le Ciel ne destourne un si triste accident ?
+Mais le voicy qui vient, evitons sa presence.
+
+-*who_vitigez
+Il est avec Sophie. Amour si ta puissance
+A gravé dans son coeur ma Reyne & ses attraits,
+Permets que cét object en efface les traits⁎.
+
+**** *book_ *id_body-8-2 *act_ *date_1641 *creator_desfontaines
+
+-*who_sophie
+Voila ce que vous couste une amitié fidele,
+Vous n'avez rien de sainct ni d'aimable⁎ auprés d'elle,
+C'est ainsi qu'un perfide a payé vos travaux.
+
+-*who_belisaire
+Ah ! Madame espargnez sa candeur & mes maux.
+
+-*who_sophie
+Jusques où l'amitié dans vostre ame s'imprime,
+Pour un ingrat, un traistre, & l'autheur de ce crime.
+
+-*who_belisaire
+Tous ces propos me sont plus mortels que les coups,
+Qui m'estoient destinez puisque c'estoit pour vous.
+Je croyois que son crime eust une autre origine,                
+Mais puis qu'il adoroit vostre beauté divine,
+Je ne puis condamner le dessein qu'il avoit,
+De s'oster un Rival qui se desesperoit,
+"Voyez vostre miroir pour juger de son crime,
+"Il fournira pour luy d'excuse legitime,
+"Et vous découvrira par mille appas divers,
+"Qu'il pourroit pour complice avoir tout l'univers.
+"Une beauté parfaite est une tyranie,
+"Dont ne peut s'affranchir le plus ferme Genie.
+Elle embraze les Dieux, tout cede à son pouvoir,
+Et pour ne pas aimer il ne faut pas vous voir.
+
+-*who_sophie
+Pourquoy donc, si vos yeux sont si remplis de charmes
+Estes vous insensible au pouvoir de mes armes ?
+Je souffre vostre abord, j'escoute vos discours,
+Vous pouvez me parler & me voir tous les jours,
+Vous resistez pourtant, & cette resistance
+Fait voir ou vostre orgueil, ou mon peu de puissance.
+
+-*who_belisaire
+Dieux, qu'est-ce que j'entens ? interdict & confus,
+En l'estat où je suis je ne me connois plus,
+Avecque ce discours, adorable Princesse,
+Vous voulez esprouver⁎ jusqu'où va ma foiblesse,
+Mais que mon coeur icy ne vous soit plus suspect,            
+Pour avoir de l'orgueil il a trop de respect,
+Et je vous feray voir qu'il sçait trop se connoistre,
+Pour esperer jamais la niepce de son maistre.
+
+-*who_sophie
+Ah ! que ce feint respect est fatal à mon coeur,
+Mais quoy, ta modestie importe à ta rigueur,
+Et par ce faux pretexte aussi faux que visible,
+Tu crois perdre les noms d'ingrat & d'insensible,
+Mais bien loin d'effacer ces viles qualitez,
+Le tiltre de perfide accroist tes lâchetez,
+Ouy, ce tiltre t'est deu, desloyal, & sans blâme,
+Tu ne peux que pour moy disposer de ton ame,
+Puis qu'un jour les effects te seront des témoins.
+Que si tu l'as encor, tu la dois à mes soins,
+Ouy, tu me dois ton coeur, ton honneur, & ta vie,
+Car loin de consentir qu'elle te fust ravie,
+Narsés en expirant sans doute a témoigné,
+Comme pour ton salut je n'ay rien espargné.
+La mort est toutesfois le prix de ses services,
+Le mépris aujourd'huy paye mes bons offices⁎,
+Et de deux ennemis conjurez contre toy,
+L'un a ton amitié, l'autre espere ta foi,
+Et pour dernier effect de ton ingratitude,
+Ce qui m'est desormais plus sensible & plus rude,
+C'est que tu crois encor mon dessein assez beau,             
+Si j'ay pour mon espoux un traistre & ton bourreau.
+
+-*who_belisaire
+Hé, de grace, Madame, épargnez l'innocence,
+Ses regrets ont assez expié son offense,
+Et quelque sentiment que votre Altesse ait eu,
+Son crime mesme a fait éclater sa vertu.
+
+-*who_sophie
+Apres ce qu'il a fait l'excusez vous encore ?
+
+-*who_belisaire
+Il vous aime.
+
+-*who_sophie
+        L'innocent.
+
+-*who_belisaire
+                De plus il vous adore,
+Et je croirois avoir trop de temerité,
+De pretendre un honneur qu'il a mieux mérité,
+Puis que je ne sçaurois sans paroistre volage,
+A vos rares beautez rendre un fidele hommage.
+Ne me blâmez donc pas, mais blâmez seulement
+La malice du Sort ou son aveuglement,                 
+Qui nous trompe tous trois, ne contente personne,
+Il luy refuse un bien, vostre amour me le donne,
+Moy, je n'en puis jouïr.
+
+-*who_sophie
+            Et luy l'espere en vain,
+Helas de qui vous tuë adorez-vous la main ?
+
+-*who_belisaire
+Cét injuste reproche offense sa franchise,
+Outre qu'ayant sur moy toute chose permise,
+J'aimerois l'attentat quand il auroit commis,
+Puis que la mort seroit un don de mes amis.
+
+-*who_sophie
+Aveugle affection ! bien, aime le perfide,
+Aime un lâche, un ingrat, un traistre, un homicide,
+Cette belle amitié te coustera le jour,
+Et ta mort, desloyal, vangera mon amour.
+
+-*who_belisaire
+Revocquez cét arrest, cruelle, inexorable,
+Helas ! vous me tuez m'estant trop favorable,
+Faveur injurieuse acheve icy tes coups,
+Voila le plus sensible & plus rude de tous,                
+Me falloit-il, Destins, vivre apres mon naufrage,
+Pour m'exposer encore à ce dernier orage ?
+Quoy, mon coeur vous offense & ne peut languissant,
+Ou vivre en vostre grace, ou mourir innocent ?
+O Dieux !
+
+-*who_sophie
+Demande leur un enfer & des peines,
+Ingrat.
+
+-*who_belisaire
+Escoutez moy.
+
+-*who_sophie
+            Les attentes sont vaines,
+Un perfide jamais.
+
+-*who_belisaire
+            ne fut pareil à moy,
+Madame.
+
+-*who_sophie
+adieu.
+
+-*who_belisaire
+        cruelle.
+
+-*who_sophie
+            Importun laisse moy.
+
+-*who_belisaire
+Un mot, & puis mon coeur s'offre à vous satisfaire.
+
+-*who_sophie
+Hé bien, que diras-tu ? Mais, Dieu, que veux tu faire ?
+
+-*who_belisaire
+Pour la derniere fois contre moy vous servir,
+Et vous donner un coeur qu'un autre veut ravir,
+Ma vertu vous déplaist, mon respect vous outrage,
+Je veux pour vous vanger employer mon courage,
+Si je vous dois le jour, je vous le rends icy,
+Vous demandez ma mort, j'obeïs, la voicy,
+Tenez, prenez ce fer, contentez vostre envie.
+Frappez.
+
+-*who_sophie
+Non je ferois trop d'honneur à ta vie,
+Ce coup mal commencé demande un autre bras,
+Qui mieux que ma rigueur punira des ingrats.
+
+-*who_belisaire
+Hé bien, puis que je suis indigne de la vostre,
+Cruelle, j'attendray cette office d'un autre,
+Et quelque châtiment qui me soit ordonné,                
+Je subiray l'arrest que vous aurez donné,
+Mais quoy que contre nous sa rigueur puisse faire,
+Jusqu'au dernier moment paroissons Belisaire,
+Et puis que l'Empereur m'en donne le pouvoir,
+Allons ranger ses gens sous les loix du devoir,
+Donner l'ordre à chacun, distribuer les armes,
+Mettre dans les emplois les plus braves gens d'armes,
+Et monstrer que mon coeur aime mieux en ce jour
+Perir des traits de Mars que de ceux de l'Amour.
+
+**** *book_ *id_body-8-3 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Hé bien, perfide, ingrat,
+
+-*who_iskirion
+            Ah ! Madame.
+
+-*who_theodore
+                    Hé bien, traistre,
+Apres m'avoir trahie oses-tu bien paraistre ?                
+Belisaire est vivant, il rit de mes fureurs,
+Malgré tous ses desseins il triomphe & je meurs ;
+Perfide est-ce donc là l'effect⁎ de ta promesse ?
+Est-ce ainsi que ton bras t'acquiert une Princesse ?
+Sont-ce là les dangers que tu devois courir,
+Et comme ta valeur me devoit secourir ?
+Ouy, voila les effects que j'en devois attendre,
+Voila tous les devoirs que tu me devois rendre,
+Voila comme tu vis, voila comme tu sers,
+Voila comme un Rival est dedans les enfers,
+Voila ce que tu fais pour meriter Sophie,
+Voila ce grand courage à qui mon coeur se fie,
+Voila ce noble coup que j'attendois de toy,
+Bref voila ton amour, ton ardeur, & ta foy.
+Tu medites en vain des excuses frivoles,
+On ne m'appaise pas avecque des paroles,
+Il faut pour satisfaire à celles de mon rang,
+Un Prince pour un Prince, & le sang pour le sang.
+
+-*who_iskirion
+Hé bien, assouvissez cette barbare envie,
+J'ay trahy vos desseins, arrachez moy la vie,
+Tenez, me voila prest, suivez vostre courroux
+C'est pour ce sujet seul que je suis devant vous,
+Ne le differez point, vostre injuste colere,
+Frappant Iskirion, frappera Belisaire,
+Son ame vit en moy, mon ame vit en luy,                
+Mesme coeur, mesme esprit nous anime aujourd'huy,
+De qui que le sang coule on le peut dire nostre,
+La fortune de l'un se communique à l'autre,
+Et le Ciel fait en nous de si charmants accords,
+Que vous frappez mon coeur si vous frappez mon corps.
+
+-*who_theodore
+Vous faites vanité de m'avoir outragée,
+Mais vous serez punis, & je seray vangée,
+Allez, retirez-vous.
+
+-*who_iskirion
+        Je beniray mon sort,
+Si mon affection se preuve par ma mort.
+
+**** *book_ *id_body-8-4 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Enfin de quel moyen faut-il que je me serve ?
+Doristel, c'est à toy que ce coup se reserve,
+Si ton coeur est hardy tu me le feras voir,
+Que ton bras aujourd'huy me rende ce devoir,                 
+Est-ce de mon esprit ce soin qui m'importune,
+Et par ce noble effect establis ta fortune.
+
+-*who_doristel
+Ouy, Madame, esperez de mon affection,
+L'effect de vos desirs en cette occasion :
+Je vous dois obeïr, & mon ame hardie
+Par la peur des dangers n'est jamais refroidie,
+Belisaire est vaillant, mais sans faire le vain,
+Son bras ne fut jamais plus fort que cette main,
+Qui preste à vous servir, vous vanger, & vous plaire,
+Va tenter ce qu'un Prince a refusé de faire.
+
+-*who_theodore
+Va donc, ne laisse pas allentir cette ardeur.
+
+-*who_doristel
+En vain cét insolent se fie à sa grandeur,
+Qu'il soit tousjours armé, qu'il soit invulnerable,
+Qu'il fasse voir en tout une force admirable,
+Qu'il ait à son service & le Ciel & l'Enfer,
+Qu'il ait pour sa defense & la flame & le fer,
+Qu'il soit apprehendé comme un foudre de guerre,
+Que le bruit de son nom fasse trembler la terre,
+Qu'il soit tousjours sans crainte au milieu des hazars,             
+Qu'il ait pour compagnon & la Fortune et Mars,
+Rien ne se peut sauver de l'effect de mes armes,
+Et son sang aujourd'huy vous payera de vos larmes.
+
+-*who_theodore
+Va ne perds point de temps en discours superflus.
+
+-*who_doristel
+Croyez dés à present que l'ingrat ne vit plus.
+
+**** *book_ *id_body-8-5 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Pour vaincre les Persans & dompter leur audace,
+Il leur faut exposer les escadrons de Trace,
+Et nostre corps d'armée estant assez puissant,
+Pour enfermer le leur le former en croissant.
+Mon cher Iskirion conduira l'avant-garde,
+Cet honneur plus que tous aujourd'huy le regarde,
+Veu que rien ne l'oblige à cette occasion,
+Que la haute valeur & son affection.
+Hydaspe & Doristel conduiront les deux aisles,
+Ils sont deux hardis, vaillants, braves, fideles,                
+Leur émulation fera beaucoup d'effect,
+Et dedans le milieu de ce cercle imparfaict,
+Diophante tiendra quelques bandes moins fortes,
+Pour attirer à nous leurs premieres cohortes.
+Mais insensiblement mon oeil trompe ma main,
+Et je cede au sommeil, je luy resiste en vain.
+
+**** *book_ *id_body-8-6 *act_ *date_1641 *creator_desfontaines
+
+-*who_doristel
+Dieux ! quel bonheur jamais fut au mien comparable,
+Tout rit à mes desirs, et tout m'est favorable,
+Le sort qui ne veut pas m'obliger à demy,
+M'a livré Belisaire, & de plus, endormy,
+Advançons & faisons un coup si necessaire,
+Laissons ici la soeur à la place du frere ;
+Mais quel est ce papier, contentons nostre esprit,
+Et voyons les secrets que contient cét escrit,
+Lisons, Ordre des chefs pour conduire l'Armée,
+Voyons quelle valeur est la plus estimée,
+Et si depuis vingt ans que j'expose mon sang,
+Parmy les plus hardis je n'ay point quelque rang.        
+Hydaspe & Doristel soustiendront les deux aisles,
+Que vois-je ? justes Dieux, ils sont tous deux fideles,
+Fideles, tu le vois, pauvre Prince, & jadis,
+En mille occasions je fus ce que tu dis :
+Mais l'aveugle Demon maintenant qui le guide
+Me rend en ton endroict, lâche, ingrat, & perfide.
+Perfide ! ah, ce nom me donne de l'horreur,
+Reconnois toy, mon coeur, desarmes ta fureur.
+Ayde moy, ma raison, & fay mieux ton office,
+Retire mon honneur des bords du precipice,
+Et malgré ma foiblesse en un pas si glissant,
+Fay moy vivre fidele & mourir innocent.
+Ouy, quittons un dessein qui n'est pas legitime,
+Ne recognoissons pas des bien-faicts par un crime,
+Et de la mesme main qui desseignoit sa mort,
+Redonnons luy le jour & mesme quand il dort.
+
+**** *book_ *id_body-8-7 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Ennemis de nos soins, amoureux du silence,
+Qui des soins plus puissans calmez la violence,
+Doux-charmeur, n'es-tu pas, ô sommeil gracieux,
+L'image du repos qu'on gouste dans les Cieux ?
+Si les soins & les maux sont l'enfer où nous sommes,             
+On te doit bien nommer le paradis des hommes,
+Que ce relâche est doux apres tant de soucy.
+Mais quel est ce poignard, & qui l'a mis ainsi ?
+Cet object me predict quelque triste adventure⁎,
+Pour nous en éclaircir lisons cette escriture,
+Dont les traits inconnus ne sont pas de ma main :
+Si tu veux éviter un projet inhumain,
+Prens garde à ta personne on en veut à ta vie.
+Ah ! je sçay d'où provient cette barbare envie,
+Cruelle, & bien j'iray contenter ta rigueur,
+Pour ce rare present tu demandes mon coeur,
+Il faut que par un trait d'obeissance extreme
+Ma main te l'aille offrir & porter elle mesme.
+Il te plaist, je le veux, allons par cét effort
+Eviter mille morts par une seule mort.
+Fin du quatriéme Acte
+
+**** *book_ *id_body-9-1 *act_ *date_1641 *creator_desfontaines
+
+-*who_belisaire
+Va, que differes-tu ? va mon cher Diophante,
+Va trouver de ma part cette superbe⁎ Infante,
+Cette altiere Sophie en qui la cruauté,
+Paroist incomparable ainsi que la beauté,
+Dy luy que le trépas a pour moy tant de charmes,
+Que tu as veu baiser ces favorables armes,
+Qui doivent immoler un Prince infortuné⁎.
+Aussitost que ses yeux me l'auront ordonné,
+Dy luy qu'il n'est plus rien dont l'appas⁎ me retienne,
+Que j'aime ce poignard ravi d'aise qu'il vienne,
+D'un object si charmant ; & qui me rendra vain,
+S'il passe dans mon coeur d'une si belle main.
+Apres rends luy ce fer avecque cette lettre,
+Puis observe ses yeux, & tâche à reconnoistre,
+Si quelque mouvement⁎ ou visible ou secret,
+Ne témoignera point tant soit peu de regret.
+Amy, si tu peu voir que la pitié la touche                    
+S'il couste seulement un helas à sa bouche,
+Un soûpir à son coeur, une larme à ses yeux,
+Je tiendray mon trespas & juste & glorieux,
+Et mon ombre là bas heureusement ravie,
+N'aura point de regret d'avoir quitté la vie.
+
+-*who_diophante
+Quel desespoir, Seigneur, vous reduit en ce poinct ?
+
+-*who_belisaire
+Sers moy, cher Diophante, & ne t'affliges point,
+Imite mon respect, j'obeis, fais de mesme,
+On sert aveuglément les personnes qu'on aime,
+Ne differes donc point d'obeïr à mes voeux.
+
+-*who_diophante
+Quel office d'amour ?
+
+-*who_belisaire
+            C'est le seul que je veux.
+
+-*who_diophante
+Et bien, j'obeïray.
+
+-*who_belisaire
+            Va. Belle Amalazonthe,
+Dont la haute vertu me captive & me dompte,                 
+Apprens par tous ces maux que je souffres pour toy,
+Ton pouvoir, mon amour, ta rigueur, & ma foy,
+Puis que ny les tourments, ny le fer, ny la flame
+Ne sçauroient arracher ton portraict de mon ame.
+
+**** *book_ *id_body-9-2 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Il vit, tout le malheur est tombé dessus nous,
+J'ay fait un attentat, mais j'en reçois les coups,
+Ma honte & mon honneur ont ma haine suivie,
+Sa mort me faisoit vivre & je meurs en sa vie,
+Je suis dedans l'orage, il est hors du danger,
+Et mesme par le bras qui me devoit vanger.
+O Dieux, tout est rebelle & traistre à mon courage,
+Je n'ay plus de moyens qui secondent ma rage,
+Elle n'oseroit plus se fier qu'à ma main,
+Hors de moy rien ne m'aide & tout secours est vain,
+Belisaire me brave, & pourtant on le souffre⁎,
+Je croy qu'il trouveroit du bon-heur dans un gouffre,
+Et que les trahisons qu'on trame contre luy,
+Succedent à ses voeux & luy servent d'appuy.
+Il ne faut pas pourtant que l'affront m'en demeure,
+J'y suis trop engagée, il faut, il faut qu'il meure,
+Et qu'il apprenne enfin par un dernier effort,                
+Que ma haine ici bas est autant que la mort.
+Mais que veut Diophante, & que tient là Sophie ?
+
+**** *book_ *id_body-9-3 *act_ *date_1641 *creator_desfontaines
+
+-*who_sophie
+Ah, quelle ingratitude & quelle perfidie !
+
+-*who_theodore
+Ma niepce qu'avez-vous qui vous trouble si fort ?
+
+-*who_sophie
+L'horreur d'une action que l'on m'impute à tort,
+Oyez, voyez, lisez, & juger tout ensemble.
+
+-*who_theodore
+Dieux ! mon coeur est en feux, & pourtant ma main tremble,
+Dissimulez mes yeux, ne me trahissez pas,
+Mais lisez en riant l'arrest de mon trespas.                
+Lettre de Belisaire à Sophie
+Rigoureuse Princesse à qui j'ay pû déplaire,
+Je renvoye à vos yeux un present de vos mains,
+Leurs traits sont assez inhumains,
+Et pour m'oster la vie, & pour vous satisfaire,
+Toutesfois si votre rigueur,
+A deliberé que mon coeur,
+Vous serve par ce fer de sanglante victime,
+Je suis prest d'obeir, le coup me semble beau :
+Mais comme l'amour est mon crime,
+Qu'une fiere beauté soit aussi mon bourreau.
+BELISAIRE
+Ah, vraymant pour un Prince modeste,
+Son insolence icy se rend bien manifeste,
+Puis qu'alors que ses voeux ne sont pas satisfaits,
+Le dépit aussi tost le porte à ces effects⁎.
+Approchez, mon amy, dites à vostre maistre,
+Que Sophie est Princesse, & qu'il doit reconnoistre,
+Que celles de son sang & de sa qualité,
+Ont beaucoup de clemence & peu de cruauté,
+Puis que sans s'arrester à son extravagance,
+Elles peuvent souffrir⁎ ce traict⁎ qui les offense,
+Allez, retirez-vous.
+
+-*who_diophante
+        Ah, Madame, en ce poinct.
+
+-*who_theodore
+Fay ce que je commande, & ne replique point.
+
+-*who_diophante
+J'obeis.
+
+**** *book_ *id_body-9-4 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Vous, Sophie, apres un tel outrage,
+Serez-vous sans raison ainsi que sans courage ?
+Voila, voila le fruict & le prix de vos voeux,
+O le parfaict amant !
+
+-*who_sophie
+            Mais qu'il est malheureux !
+O Dieux, que dois-je faire apres ce coup de foudre ?
+
+-*who_theodore
+Le quitter.
+
+-*who_sophie
+O Destins !
+
+-*who_theodore
+            Il vous y faut resoudre,
+Et pour y mieux songer retirez-vous d'icy.
+
+-*who_sophie
+Finissez, Dieux cruels, ma vie & mon soucy.
+
+**** *book_ *id_body-9-5 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Enfin c'est maintenant, superbe⁎ Belisaire,
+Que tu ne sçaurois plus eviter ma colere,
+Il faut, il faut mourir, l'arrest en est dressé,
+Cette lettre le porte, & je l'ay prononcé,
+Ta maistresse elle-mesme, est icy ma complice,
+Et me laissant ce fer approuve ton supplice,                
+Acheve donc ma main un coup mal commencé,
+Qu'un crime vange un coeur par un crime offensé,
+Une lâche action en veut une pareille,
+Son desespoir l'attent, ma fureur le conseille,
+Et son mépris me porte à cette passion :
+Mais que veut l'Empeureur, & quelle occasion
+Le fait venir icy, confus, triste, & sans suitte ?
+
+**** *book_ *id_body-9-6 *act_ *date_1641 *creator_desfontaines
+
+-*who_justinian
+Qu'autre personne ici ne nous soit introduite.
+
+-*who_theodore
+Je lis dedans ses yeux quelque dessein caché,
+Je tremble & sens au coeur un poison attaché,
+Ma veuë est égarée & ma voix est pesante,
+Rassurons-nous pourtant ; Quel soucy vous tourmente,
+Seigneur ? & quel sujet vous altere si fort ?
+
+-*who_justinian
+Un malheur que je crains à l'égal de la mort.
+
+-*who_theodore
+O Dieux ! & quel malheur ? je suis toute interdite.
+
+-*who_justinian
+Helas !
+
+-*who_theodore
+Quoy donc, Seigneur ?
+
+-*who_justinian
+                Belisaire nous quitte,
+Et toute la grandeur dont j'éclate aujourd'huy,
+Par ce triste accident⁎ me quitte avecque luy.
+
+-*who_theodore
+Ah, vous vous faites tort, cette grandeur supréme,
+Qui maintient vos Estats subsiste par vous méme,
+Le Ciel pour ses faveurs n'a que vous pour objet,
+Et vous ne tenez point vostre éclat d'un sujet.
+
+-*who_justinian
+Non, mais en le perdant...
+
+-*who_theodore
+            Vous perdez peu de chose,
+Et l'effect vous plaira quand vous sçaurez la cause,
+Sçavez vous le sujet qui l'a fait retirer ?
+
+-*who_justinian
+C'est ce que je n'ay pû luy faire declarer,
+Mais pour une raison importante et secrette,
+Ce Prince m'a prié d'agreer sa retraite.
+
+-*who_theodore
+Consentez y, Seigneur, & vous ferez beaucoup.
+
+-*who_justinian
+Pourquoy ?
+
+-*who_theodore
+C'est trop se taire, enfin c'est à ce coup,
+Qu'il vous faut détromper, & vous faire connoistre,
+Que Belisaire,
+
+-*who_justinian
+        O Dieux !
+
+-*who_theodore
+            Ouy, Seigneur, vous est traistre,
+Et c'est pour ce sujet qu'il veut quitter la Cour,                 
+Tenez, voyez son crime en voyant son amour.
+
+-*who_justinian
+Je n'en sçaurois douter, voila son escriture.
+
+-*who_theodore
+Et voicy qui sçaura témoigner son injure,
+Ouy, pour vous témoigner combien j'y prens de part,
+Je le vay saluer de vingt coups de poignard,
+Ma main de cet affront justement animée
+Sçaura trouver son coeur au coeur de vostre armée ;
+Ma mort suivra de prés cette temerité,
+Mais le perfide aura ce qu'il a merité.
+
+-*who_justinian
+Moderez ce transport, si l'ingrat est coupable,
+Vous le feriez perir d'un coup trop honnorable,
+Les traistres n'ont jamais des supplices si doux,
+Un bourreau fera mieux cet office que vous.
+Hola, Gardes, à moy, que vostre capitaine,
+Vienne tost me trouver dans la chambre prochaine,
+Pour recevoir mon ordre & mes commandemens.
+Vous verrez ma justice & mes ressentimens,
+Mais avant que la foudre éclate sur sa teste,
+Il faut premierement que Pyrandre l'arreste.
+
+**** *book_ *id_body-9-7 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Courage, tout va bien, il n'en peut échaper,
+Et le traict de la mort est prest à le fraper :
+Mais avant que la Parque ait achevé sa peine,
+Examinons un peu la cause de ma haine,
+Je l'aimois autresfois, je le hais aujourd'huy,
+D'où vient l'aversion que mon coeur a pour luy ?
+Il est tousjours charmant, il est tousjours luy-méme,
+Et malgré ma fureur je sens bien que je l'aime,
+Ses belles qualitez regnent sur mes esprits
+Mais, helas ! je ne puis endurer ses mépris
+Cette seule raison me rend son adversaire,
+Il est mon ennemy, mais il est Belisaire.
+Ah, desordre confus de mes pensers errans,
+Où se termineront ces dessein differents ?
+Je deteste son nom, je le hay, je l'abhorre,
+Je le fuis, je le crains, & je l'aime encore,
+Je sens mon feu s'éteindre, & puis se rallumer,
+Je ne le puis hayr, je ne le puis aimer,
+La fureur me saisit, puis elle m'abandonne,
+Tantost je le condamne, apres je luy pardonne,
+Je cherche tout ensemble, & je crains son trépas,
+Et quand ma main le peut mon coeur ne le veut pas.             
+Achevons toutesfois & cessons cét orage,
+Mettons le dans le port, ou faisons son naufrage,
+Puis qu'il est innocent espargnons sa vertu,
+Aimons les qualitez dont il est revestu,
+Mais que par ce discours mon ame est abusée,
+C'est par cette vertu que je suis mesprisée,
+Ce sont ces qualitez qui troublent mon repos,
+Qu'il meure donc, qu'il meure, il est plus à propos,
+Puis que pour estoufer le regret qui me tuë,
+Qu'il meure, & pour ne point me vanger a demy,
+Perdons d'un méme coup & l'amant & l'amy.
+Ouy, perdons les tous deux, je dois estre obeïe,
+L'amant m'a méprisé, & l'amy m'a trahie,
+Tous deux également ont osé m'outrager,
+Faisons voir à tous deux que je me sçais vanger,
+Et que me negliger ou que me contredire,
+Est pis que de choquer ny l'Estat ny l'Empire.
+
+**** *book_ *id_body-9-8 *act_ *date_1641 *creator_desfontaines
+
+-*who_iskirion
+Ouy, Madame, il importe au bien de vos amours,
+De prester à ce Prince un utile secours,
+Jusqu'icy le respect a regné dans son ame,
+Faites y succeder une immortelle flame,
+Et tirez de son coeur par obligation,
+Ce qu'un autre a ravy par son affection,
+J'en ay dit les moyens, forcez vostre courage,
+Et son succez, Madame, appaisera l'orage,
+Qu'une injuste vengeance excite en cette Cour,
+Et par eux vous verrez triompher vostre amour,
+Ouy, Madame, ce coup fait le salut d'un Prince,
+D' un malheur evident sauve vostre province,
+Et retire des fers un miserable amant,
+Qui n'est point criminel que d'estre trop charmant.
+C'est ainsi que sans crime on peut estre infidele,
+Et la discretion est icy criminelle,
+Allons donc le trouver, allons le secourir,
+Et mesme s'il se peut le sauver, ou mourir.
+
+-*who_sophie
+Allons, puis que ce mal veut un remede extreme,
+En cette occasion je me vaincray moy-méme,
+Je suivray vos conseils, & par cette action,
+J'exciteray l'amour, ou la compassion.
+
+**** *book_ *id_body-9-9 *act_ *date_1641 *creator_desfontaines
+
+-*who_sophie
+Entrons
+
+-*who_pyrandre
+Arrestez-la, que voulez-vous ?
+
+-*who_sophie
+                    Pirandre,
+Est-ce là le respect que vous me devez rendre ?
+Ne vous informez point, je sçay vostre devoir,
+Et vous ne devez pas ignorer mon pouvoir.
+
+-*who_pyrandre
+Mais l'Empereur me fait une expresse defense...
+
+-*who_sophie
+Va, mon authorité de ce soin te dispense,
+Tu retardes icy par un fâcheux debat,
+La salut de mon oncle & celuy de l'Estat.
+Ne sois pas en soucy de ce que je vay faire,
+Je te suis caution de toute cette affaire,
+Et ma foy t'en promet d'agreables effects.
+
+-*who_pyrandre
+Ah, Madame, en ce cas j'obeis & me tais.
+
+**** *book_ *id_body-9-10 *act_ *date_1641 *creator_desfontaines
+
+-*who_iskirion
+Amy, leve les yeux, contemple ce visage,
+Et croy que son abord t'est un heureux presage,
+Puis que le seul dessein qui nous amene icy,
+Est de te retirer de crainte & de soucy.
+Voy cét Astre Divin qui doit finir ta peine,
+Sophie est tousjours belle & jamais inhumaine,
+C'est elle qui te doit retirer de ces fers,
+Si tu te rens à ceux que ses yeux t'ont offerts.
+
+-*who_belisaire
+Il est vray, cher amy, que parmi mes desastres,
+Je n'eusse jamais creu qu'on veit icy des Astres,
+Aussi quand leur éclat a paru dans ces lieux,
+Saisi d'étonnement ay-je bayssé les yeux,
+Mais je respire à peine apres tant de merveilles,
+Qu'une autre illusion enchante mes oreilles,
+Et qu'un charme puissant que forment vos discours
+Flatte mon desespoir d'un frivole secours.                 
+
+-*who_sophie
+Non, non, sa voix n'a point vostre oreille abusée,
+Ce que fit Ariadne autresfois pour Thesée,
+Je le feray pour vous s'il se peut aujourd'huy,
+Sans pretendre de vous ce qu'on vouloit de luy.
+Ouy, mon Prince, je veux vous tirer des tenebres,
+Et donner à vos yeux des objects moins funebres,
+Je veux rompre vos fers, vous redonner le jour,
+Et me sacrifier au bien de vostre amour.
+
+-*who_belisaire
+Est-ce pour esprouver beaux yeux trop pitoyables,
+Si quelque vanité trouble les miserables,
+Ou bien si dans l'estat où m'a reduit le sort,
+Je puis encore avoir l'esperance du Port,
+Non, non, d'un front égal & d'un courage ferme
+J'attens de mon trespas le deplorable terme,
+Je ne crains pas la mort, car je meurs chaque jour,
+Et j'espere en mourant d'y vanger vostre amour.
+
+-*who_sophie
+Non, non, vivez plustost, je veux pour vostre gloire,
+Changer vostre échafaut en un champ de victoire,
+Mais nous perdons du temps, mon Prince il faut partir.             
+
+-*who_belisaire
+Ah, ne me joüez pas, le moyen de sortir,
+Ce chasteau n'a-t-il plus de gardes ny de portes ?
+
+-*who_sophie
+Un charme tout nouveau t'ouvrira les plus fortes,
+Et j'en prendray le soin de conduire tes pas,
+Hors de ce labyrinthe où regne le trépas,
+Escoute seulement ce qu'il faut que tu fasses,
+Si tu veux que le Ciel finisse tes disgraces.
+
+-*who_belisaire
+Je suis prest d'obeir à vos commandemens.
+
+-*who_sophie
+Il faut vous travestir soubs mes habillemens,
+Et de peur de donner aux Gardes de l'ombrage,
+D'un voile adroitement vous couvrir le visage,
+Pour moy soubs un habit au vostre tout pareil
+Je veux rester icy.
+
+-*who_belisaire
+        C'est donc là le conseil,
+Qui me doit aujourd'huy retirer du naufrage,                 
+Ah, laissez Belisaire il a trop de courage,
+Pour vouloir mandier par une lâcheté,
+Une honteuse vie, ou bien sa liberté,
+Ce coupable dessein perdroit mon innocence,
+Et ma fuite seroit un adveu⁎ de l'offense.
+
+-*who_sophie
+Je vous donneray lieu de vous justifier,
+Mais pour un peu de temps forcez ce coeur altier,
+A vos justes desirs monstrez-vous moins rebelle,
+Puis que l'occasion s'en presente si belle,
+Pour eviter l'affront d'un trépas rigoureux,
+Il sied bien quelquesfois d'estre moins genereux.
+Cessez donc. Justes Dieux !
+
+**** *book_ *id_body-9-11 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+            Quelle est cette entreprise ?
+Que faites-vous, Sophie ?
+
+-*who_iskirion
+            O fatale surprise !
+
+-*who_sophie
+Malheureuse.
+
+-*who_theodore
+        Je sçay ce qui vous mene icy,
+Tirez-vous à l'écart je prendray ce soucy.
+Pour vous demeurez-là vous m'estes necessaire,
+Je vous veux enseigner ce que vous devez faire,
+Et puis lors que j'auray contenté mon courroux,
+Vous verrez ce qu'il a deliberé pour vous.                 
+Orgueilleux, voy ton sort, regarde cette lame,
+Et par ce coup apprens.
+
+-*who_iskirion
+            Que faites-vous, Madame ?
+
+-*who_theodore
+Insolent, oses-tu traverser mon dessein ?
+
+-*who_iskirion
+Ah ! quittez ce poignard, ou m'en percez le sein.
+
+-*who_belisaire
+Mon coeur est son object, qu'il épargne le vostre.
+
+-*who_theodore
+Il doit à mon courroux immoler l'un & l'autre.
+
+-*who_sophie
+Helas !
+
+-*who_belisaire
+    Prenez mon sang & épargnez le sien.
+
+-*who_iskirion
+Il est malaisé qu'il coule sans le mien,
+Tenez, frappez, Madame.
+
+-*who_sophie
+            Honnorable dispute.
+
+-*who_belisaire
+Laisse agir sa fureur, c'est pour moy qu'elle bute,
+Souffre, cruel amy, qu'elle acheve mon sort,
+L'estat où tu me vois est bien pis que la mort,
+Et je seray content qu'elle m'oste la vie,
+Pour me recompenser de l'avoir bien servie.
+
+-*who_theodore
+De m'avoir bien servie ? insolent, que dis-tu ?
+Ouy, si l'ambition estoit une vertu,
+Si l'orgueil, le mépris, & tous les autres vices,
+Partout, comme chez toy, passoient pour bons offices.
+Supplice de mes yeux crois-tu bien me servir,
+Quand tu defens un bien que tu me veux ravir ?
+Crois-tu bien me servir quand par ton arrogance
+Tu méprises mes voeux, mes faveurs, ma puissance ?
+Et veux-tu que je sois redevable à tes soins,
+Parce que je suis celle où tu penses le moins ?                
+Ouy, lors que tu te ris de mon ame asservie,
+Tu crois encor, ingrat, m'avoir trop bien servie.
+
+-*who_belisaire
+A quoy bon ce reproche & tout ce vain discours,
+Puis que vostre dessein est de finir mes jours ?
+Achevez, Theodore, achevez vostre ouvrage,
+Ce coeur ne tremble point pour un si foible orage,
+Vous ne l'avez pû voir amoureux ny brûlant,
+Il faut que desormais vous l'ayez tout sanglant.
+
+-*who_theodore
+Ouy, mais auparavant que je t'oste la vie,
+Je veux sçavoir, ingrat, en quoy tu m'as servie.
+
+-*who_belisaire
+Ah ! ne m'obligez pas de vous entretenir    
+D'un si triste, si lâche, & honteux souvenir,
+D'un si fâcheux effect dispensez ma memoire,
+Si vous ne m'épargnez, épargnez vostre gloire,
+Et ne permettez pas que je publie icy
+Ce qui fait vostre honte & mon malheur aussi
+Puis qu'il vous plaist pourtant contentons nostre envie,
+Ne vous ay-je donc pas fidelement servie ?
+Quand voyant vostre coeur lâchement abattu,
+J'ay fait sur vos desirs regner vostre vertu ?                
+N'ay-je rien fait pour vous, quand malgré tous vos charmes,
+La raison contre moy m'a fait rendre les armes,
+Et sans se prevaloir de vostre aveuglement,
+A fait contre vos voeux agir mon jugement ?
+Ah, reconnoissez-vous, & songez, Theodore,
+Loin de vous mépriser, combien je vous honnore,
+Puis que sans écouter mon amour suborneur,
+J'ay perdu mes plaisirs pour sauver vostre honneur :
+Que vous ay-je donc fait qui cause vostre haine,
+Je fus respectueux, vous estes inhumaine,
+J'ay souffert tout l'orage & vous ay mise au port,
+Et c'est pour ce sujet que vous veulez ma mort.
+
+-*who_theodore
+Ta mort ? ah ! la raison veut icy le contraire,
+Vis heureux, j'y consens, triomphe Belisaire,
+Triomphe, ta vertu qui te rend mon vainqueur,
+M'oste le fer des mains & la haine du coeur.
+Ostons luy les liens.
+
+-*who_sophie
+            Ah ! mon Prince.
+
+-*who_belisaire
+                    Ah ! Madame,
+En delivrant mon corps, vous captivez⁎ mon ame,             
+Et la méme pitié dont je voy les effects,
+S'offense des liens que vous avez défaicts,
+Madame vangez-vous de mon ingratitude,
+Sur ce coeur insensible à vostre inquietude,
+Qu'il meure, cet ingrat, de honte & de regret,
+Tirez-le, je le sens qui se flate en secret ;
+R'appellant de vos feux l'agreable memoire,
+Il veut mourir d'amour, qu'il n'en ait pas la gloire,
+Son supplice seroit trop doux & trop charmant,
+Il doit mourir en traistre & non pas en amant,
+Puis que la main des Dieux vous ayant fait si belle,
+L'ingrat a pû vous voir & vous estre rebelle,
+Pardonnez luy beaux yeux si charmans & si doux,
+Je demande sa grace & l'attens à genoux.
+
+-*who_sophie
+Quelle grace ?
+
+-*who_belisaire
+        L'Amour
+
+-*who_sophie
+            A ce mot je soupire,
+Ses voeux sont mes souhaits ; on me porte où j'aspire :
+Mon Prince, levez vous parmy tant d'actions,                 
+N'adjoutez pas ma honte à vos perfections,
+Puis-je voir à mes pieds celuy qui me surmonte ?
+Faut-il que je rougisse & d'amour & de honte ?
+Qu'un autre estat demande & reçoive mon coeur.
+
+-*who_belisaire
+C'est ainsi que je dois recevoir mon vainqueur.
+
+-*who_iskirion
+Que cét effect, Amour, éternise ta gloire.
+
+-*who_theodore
+C'est trop se disputer l'honneur de la victoire,
+Il nous faut de ce pas aller vers l'Empereur,
+Appaiser son courroux & le tirer d'erreur,
+J'ay souslevé les flots, calmons en la tempeste,
+Suivez moy seulement, & je feray le reste.
+
+**** *book_ *id_body-9-12 *act_ *date_1641 *creator_desfontaines
+
+-*who_vitigez
+Avant que d'en venir à l'extreme rigueur,
+Grand Prince ayez égard aux traits de sa valeur.
+
+-*who_justinian
+Ah ! je ne puis souffrir⁎ l'impunité d'un crime,
+Qui destruit mon honneur & tache mon estime,
+Je l'avois fait trop grand, il s'est trop oublié.
+
+-*who_vitigez
+La prison & ses fers l'auront humilié,
+Pardonnez luy, Seigneur.
+
+-*who_justinian
+            Ah ! l'ingrat, ah ! le traistre,
+Oser insolemment se joüer à son maistre ?
+Ah ! je ne puis souffrir⁎ cette temerité.                     
+
+-*who_amalazonthe
+Hé, Seigneur, consultez un peu vostre bonté,
+Elle parle pour luy.
+
+-*who_justinian
+            Je ne m'y puis resoudre.
+
+-*who_vitigez
+Que vostre Majesté retienne un peu le foudre,
+Qui menace son chef d'un malheur infiny,
+Perdant vostre faveur il est assez puny.
+
+-*who_justinian
+Ah ! je l'ay trop aimé ce jeune temeraire,
+En cette occasion mon coeur que dois-je faire,
+L'un émeut mon courroux, l'autre me fait pitié,
+Ses services passez m'inspirent la clemence,
+Et son crime present aigrit ma violence,
+Et je crains justement en cette extremité,
+De manquer de prudence ayant trop de bonté,
+Perdre aussi ce que j'aime & dont le grand courage
+A sauvé mes Estat d'un visible naufrage,
+Un Prince genereux, un serviteur ardent,
+Un sujet nompareil, noble, mais imprudent,                
+Belisaire, en un mot, ah ! c'est une personne,
+Que je puis balancer avec une couronne,
+Que resoudray-je donc ? mais qu'est-ce que je voy ?
+Theodore, bons Dieux ! l'ameine devant moy.
+Ce procedé nouveau rend mon ame confuse.
+
+**** *book_ *id_body-9-13 *act_ *date_1641 *creator_desfontaines
+
+-*who_theodore
+Il est temps de quitter l'erreur qui vous abuse,
+Seigneur, j'ay découvert par un heureux effect⁎,
+L'innocence & la foy de ce Prince parfait.
+Ouy, croyez moy, Seigneur, il fut tousjours fidele,
+Il ne brûla jamais d'une amour criminelle,
+Et cet object à qui s'adressoit son écrit,
+Peut ainsi que le mien éclaircir vostre esprit :
+C'est pour luy seulement qu'il soupire & qu'il brûle,
+Sa main trompe mes yeux & je fus trop credule,                
+De me persuader que sa temerité
+M'adressât cét écrit qui me fut presenté.
+Mais ce qui l'accusoit icy le justifie,
+Et je connois assez qu'il estoit pour Sophie,
+Puis qu'elle méme enfin m'a fait un noble adveu⁎,
+Qu'elle avoit excité l'ardeur d'un si beau feu,
+Et que les qualitez d'un si brave courage,
+Meritoient...
+
+-*who_justinian
+        C'est assez, n'en dy pas d'avantage,
+La vertu que je vois sur ce front genereux⁎,
+Monstre son innocence en l'objet de ses voeux,
+Et mon coeur est ravi qu'une si belle flame
+En faveur de Sophie ait embrasé son ame,
+Mais j'ay bien du regret qu'en cette occasion
+Je ne puisse respondre à son affection,
+Pour ne pas rendre vain le voyage d'un Prince,
+Que cét espoir retient dedans cette province,
+Et qui m'a témoigné que pour le meriter
+Il donneroit son sang.
+
+-*who_iskirion
+            Il n'en faut pas douter,
+Ouy, Seigneur, je l'attens, & je vous la demande,
+
+-*who_justinian
+Vous l'aurez.
+
+-*who_theodore
+        Que dit-il ?
+
+-*who_sophie
+                O Dieux que j'apprehende !
+
+-*who_iskirion
+Grand Prince souffrez donc que cet object charmant,
+Reçoive devant vous le coeur de son amant.
+
+-*who_justinian
+J'y consens.
+
+-*who_iskirion
+        Ma Princesse en ce bon-heur extreme,
+Vous donnant ce Guerrier je me donne moy-méme,
+Il possede mon coeur, ce qui luy plaist m'est doux,
+Donnez-vous toute à luy je serais toute à vous,
+Mes services auront un illustre salaire,
+Si vous reconnoissez les voeux de Belisaire,
+Ce qui fait son bon-heur fera le mien aussy,
+Et c'est le seul espoir qui me retient icy ;
+Consentez, grand Monarque, à cette illustre envie.
+
+-*who_justinian
+S'il vous plaist, je le veux.
+
+-*who_sophie
+            Cet espoir est ma vie.
+
+-*who_iskirion
+Et vous ?
+
+-*who_belisaire
+En ce bon-heur où je reste confus,
+J'obeïray, Seigneur, ne pouvant faire plus,
+Mais j'advoüeray tousjours tenir cét advantage
+Des bontez de Sophie & de vostre courage.
+
+-*who_iskirion
+Vostre merite seul fait vos felicitez,
+Seigneur.
+
+-*who_belisaire
+Tréve de grace à ces civilitez,
+Je suis assez vacu par vostre bien-veillance,
+Sans que vous m'attaquiez avec vostre eloquence,
+Vous voulez m'attaquer à force de bien-faicts :
+Mais pour recompenser tant de nobles effects⁎,
+Mon cher Iskirion, enfin que dois-je faire ?
+
+-*who_iskirion
+Permettre que mon coeur soit tout à Belisaire,
+Et par un zele ardent que je monstre en ce jour,
+Qu'il est des amitiez plus fortes que l'amour.
+
+-*who_vitigez
+Illustres sentimens d'une ame genereuse⁎ !
+
+-*who_amalazonthe
+Par ce charmant accord qu'ils me rendent heureuse.
+
+-*who_justinian
+Venez, approchez-vous ; Que les deux Souverains
+Puissent joindre vos coeurs comme je joins vos mains.
+
+-*who_belisaire
+Puissent les immortels par cette grace insigne,
+Et cét extreme honneur dont je me sens indigne,
+Répandre tous les jours sur vostre Majesté
+Mille torrents de gloire, & de prosperité.
+
+-*who_sophie
+Puissent les Dieux puissans ainsi que je desire,
+Aux deux bouts de la terre estendre vostre Empire,
+Et puisse estre aux humains vostre regne aussi doux,            
+Que le servage⁎ heureux que je reçois de vous.
+
+-*who_belisaire
+Voyez, Amalazonthe, où le sort me destine.
+
+-*who_amalazonthe
+A la possession d'une beauté divine,
+Qui prenant sur vostre ame un plus juste pouvoir,
+Vous oste un vain amour, & me rend mon espoir.
+
+-*who_justinian
+Suivez donc cet espoir que vostre amour vous donne,
+Vitigés a pour vous hazardé sa couronne,
+Il a tout fait pour vous, vous faites tout pour luy,
+Et souffrez⁎ que son coeur vous possede aujourd'huy,
+Vous l'avez mis aux fers, qu'il y mette vostre ame,
+Que vostre peine soit une commune flame,
+Et qu'Amour & l'Hymen ces aimables Tyrans,
+Soient les executeurs de l'Arrest que je rens.
+
+-*who_vitigez
+Douce punition ! agreable sentence !
+
+-*who_amalazonthe
+Que j'adore les loix d'une telle ordonnance !
+
+-*who_justinian
+Enfin cét heureux jour si long temps differé,
+Est venu quand mon coeur l'avoit moins esperé,
+Et lors que je prenois le bandeau de Justice,
+Je pense que l'Amour par un plaisant caprice,
+A dévoilé mes yeux de ce funeste atour,
+Et remis en sa place un bandeau de l'Amour.
+Enfin ce petit Dieu qui causoit nos tempestes,
+A luy méme éloigné l'orage de nos testes,
+Et le mesme pouvoir que je craignois si fort,
+Loin de nous abismer nous a mis dans le port.
+FIN.

@@ -1,0 +1,1559 @@
+
+
+**** *book_ *id_dedicace *date_1678 *creator_corneille
+
+L'ACADEMIE ROYALE DE MUSIQUE AU ROY.
+Grand ROY, quand l'Univers apprend avec surprise
+Qu'à tes ordres par tout la Victoire est soûmise,
+Que sur les bords tremblants du Rhin & de l'Escaut
+Les Forts les mieux munis ne coustent qu'un assaut,
+On a lieu de penser que la France occupée
+A s'étendre plus loin par le droit de l'espée,
+Pour cueillir les Lauriers deûs à tes grands exploits
+Neglige des beaux Arts les paisibles employs.
+Mais quand on voit d'ailleurs⁎ que les Plaisirs tranquilles
+Regnent avec éclat au milieu de nos Villes,
+Pendant ces doux loisirs, qui n'asseureroit pas
+Que la France ne peut accroistre ses Estats ?
+Il est vray cependant que malgré ses Conquestes
+Elle suffit encor à preparer des Festes ;
+Il est vray que malgré mille plaisirs offerts
+Elle suffit encor à dompter l'Univers.
+Il semble que de Mars les rudes exercices
+Ne sont qu'un Jeu pour nous sous tes heureux auspices,
+Et que vaincre, où tu fais voler tes Etendards,
+C'est la suite des soins que tu prends des beaux Arts.
+Gand, ce superbe Gand qui donna la naissance
+Au plus fier Ennemy qu'ait jamais eû la France,
+Ce redoutable Gand qui pour estre assiegé
+Demande un Peuple entier sur ses Fossez rangé,
+T'a soûmis son orgueil au moment que l'Espagne,
+Seure de ce costé, trembloit pour l'Allemagne.
+Ypres te voit paroistre, il reconnoist tes Loix,
+Et rien ne se refuse à l'Empire François.
+Quel trouble pour l'Europe, & combien d'épouvante
+Jette dans tous les cœurs ta valeur triomphante !
+Ces Peuples contre nous ardents à se liguer
+Attendent le moment qui les va subjuguer.
+Nous seuls goûtons la paix que tes exploits nous donnent,
+Et tandis qu'en tous lieux les Trompettes résonnent,
+Que leur bruit menaçant fait retentir les airs,
+Paris ne les entend que dans nos seuls Concerts.
+
+**** *book_ *id_body-3-1 *act_ *date_1678 *creator_corneille
+
+-*who_flore
+Ce n'est plus le temps de la Guerre ;
+Le plus puissant des Rois
+Interrompt ses Exploits
+Pour donner la Paix à la Terre.
+Descendez, Mere des Amours,
+Venez nous donner de beaux jours.
+
+-*who_choeur
+Nous goûtons une paix profonde ;
+Les plus doux Jeux sont icy bas ;
+On doit ce repos plein d'appas
+Au plus grand Roy du Monde.
+Descendez, Mere des Amours,
+Venez nous donner de beaux jours.
+
+**** *book_ *id_body-3-2 *act_ *date_1678 *creator_corneille
+
+-*who_vertumne
+Rendez-vous, Beautez cruelles,
+Soûpirez à vostre tour.
+
+-*who_palemon
+Voici la Reine des Belles
+Qui vient inspirer l'amour.
+
+-*who_vertumne
+Un bel Objet⁎ toûjours severe
+Ne se fait jamais bien aimer.
+
+-*who_palemon
+C'est la beauté qui commence de plaire,
+Mais la douceur achéve de charmer.
+C'est la beauté qui commence de plaire,
+Mais la douceur acheve de charmer.
+
+-*who_vertumne
+Souffrons tous qu'Amour nous blesse ;
+Languissons, puis qu'il le faut.
+
+-*who_palemon
+Que sert un cœur sans tendresse ?
+Est-il un plus grand défaut ?
+
+-*who_vertumne
+Un bel Objet toûjours severe
+Ne se fait jamais bien aimer.
+
+-*who_palemon
+C'est la beauté qui commence de plaire,
+Mais la douceur acheve de charmer.
+
+**** *book_ *id_body-3-3 *act_ *date_1678 *creator_corneille
+
+-*who_flore
+
+Est-on sage
+Dans le bel âge,
+Est-on sage
+De n'aimer pas ?
+Que sans cesse
+L'on se presse
+De goûter les plaisirs icy bas ;
+La sagesse
+De la Jeunesse,
+C'est de sçavoir joüir de ses appas.
+
+L'Amour charme
+Ceux qu'il desarme,
+L'Amour charme,
+Cedons luy tous.
+Nostre peine
+Seroit vaine
+De vouloir resister à ses coups ;
+Quelque chaîne
+Qu'un Amant prenne,
+La liberté n'a rien qui soit si doux.
+
+-*who_choeur
+Nous goûtons une Paix Profonde ;
+Les plus doux Jeux sont icy bas ;
+On doit ce repos plein d'appas
+Au plus grand Roy du Monde.
+Descendez, Mere des Amours,
+Venez nous donner de beaux jours.
+
+-*who_venus_prologue
+Pourquoy du Ciel m'obliger à descendre ?
+Mon merite en ces lieux n'a plus rien à pretendre,
+En vain vous m'y rendez ces honneurs solemnels.
+Le mespris est mon seul partage⁎,
+Et depuis qu'à Psyché les aveugles Mortels
+De leurs vœux adressent l'hommage,
+Venus demeure sans Autels.
+Dans une si honteuse offense
+Laissez-moy sans témoins resoudre ma vangeance.
+
+-*who_venus_prologue
+Mon Fils, si tu plains mes mal-heurs
+Fais moy voir que tu m'és fidelle.
+Tu sçais combien Psyché me dérobe d'honneurs,
+Elle est mon ennemie, il faut me vanger d'elle.
+Pour servir mon juste couroux
+Prens de tes traits le plus à craindre,
+Un trait qui la puisse contraindre
+De se donner au plus indigne Espoux
+Dont jamais une Belle ait eû lieu de se plaindre.
+Cours, vole, & par de prompts effets
+Monstre que tu prens part aux affronts qu'on m'a faits.
+
+**** *book_ *id_body-5-1 *act_ *date_1678 *creator_corneille
+
+-*who_aglaure
+Enfin, ma Sœur, le Ciel est appaisé,
+Et le Serpent qui nous rendoit à plaindre
+Va n'estre plus à craindre.
+Tout pour le Sacrifice est icy disposé,
+Psyché pour l'offrir va s'y rendre.
+
+-*who_cidippe
+Les Peuples d'erreur prevenus
+La nommoient une autre Venus,
+Sur la Divinité c'estoit trop entreprendre.
+
+-*who_aglaure
+Ils s'en sont veus assez punis
+Par les maux infinis
+Que du Serpent nous a causez la rage.
+
+-*who_cidippe
+Ne songeons plus à nos mal-heurs passez,
+Le Serpent en ces lieux ne fait plus de ravage,
+Ce sont des mal-heurs effacez.
+
+-*who_aglaure
+Apres un temps plein d'orages
+Quand le calme est de retour,
+Qu'avec plaisir d'un beau jour
+On goûte les avantages !
+
+-*who_cidippe
+Tout succede à nos desirs ;
+Si des rigueurs inhumaines
+Nous ont cousté des soûpirs,
+On ne connoist les plaisirs
+Qu'apres l'épreuve des peines.
+
+-*who_aglaure
+Mais d'où vient qu'avec tant d'attraits
+Psyché n'aima jamais ?
+Qui brave trop l'Amour doit craindre sa colere.
+
+-*who_cidippe
+Il est un fatal moment,
+Où l'Objet le plus severe
+Se rend aux vœux d'un Amant,
+Et plus la Belle differe⁎,
+Plus elle aime tendrement.
+
+-*who_aglaure
+Lychas vient à nous.
+
+-*who_cidippe
+Son visage
+Nous marque une vive douleur.
+
+**** *book_ *id_body-5-2 *act_ *date_1678 *creator_corneille
+
+-*who_lychas
+Ah ! Princesses !
+
+-*who_aglaure
+De quel mal-heur
+Ce soûpir est-il le presage ?
+
+-*who_lychas
+Ignorez-vous encor le destin de Psyché ?
+
+-*who_cidippe
+Qu'avons-nous à craindre pour elle ?
+
+-*who_lychas
+La disgrace⁎ la plus cruelle
+Dont vous puissiez jamais avoir le cœur touché.
+Tandis que chacun en soûpire
+Elle seule ignore son sort,
+Et c'est icy qu'on luy va dire,
+Que le Ciel irrité la condamne à la mort.
+
+-*who_aglaure
+A la mort ! & le Roy n'y mettroit point d'obstacle ?
+
+-*who_lychas
+Le Roy d'abord nous a caché l'oracle,
+Mais malgré-luy le Grand Prestre a parlé.
+Ah ! Pourquoy n'a-t'il pû se taire ?
+Voicy ce qu'il a revelé,
+Et l'Arrest qui nous desespere.
+Vous allez voir augmenter les mal-heurs
+Qui vous ont cousté tant de pleurs,
+Si Psyché sur le Mont pour expier son crime,
+N'attend que le Serpent la prenne pour Victime.
+
+-*who_cidippe
+Et Psyché ne sçait rien de ce funeste Arrest ?
+
+-*who_lychas
+Pour se rendre Venus propice
+Elle croit n'avoir interest
+Qu'à venir en ces lieux offrir un Sacrifice.
+
+-*who_aglaure
+Voila l'effet de ce nom de Venus,
+On traitoit Psyché d'immortelle.
+
+-*who_cidippe
+C'est de là que nos maux & les siens sont venus :
+Qui croiroit que ce fût un crime d'estre belle ?
+
+-*who_aglaure
+Ah ! qu'il est dangereux
+De trouver un sort heureux
+Dans une injuste loüange !
+En vain on veut se flater,
+Tost ou tard le Ciel se vange
+Quand on ose l'irriter.
+
+-*who_lychas
+Voyez comme chacun regrettant la Princesse
+Abandonne son cœur à l'ennuy⁎ qui le presse.
+
+-*who_tous
+Pleurons, pleurons ; en de si grands mal-heurs
+On ne peut trop verser de pleurs.
+
+-*who_femme_affligee
+Deh, piangete al pianto mio,
+Saffi duri, antiche selve,
+Lagrimate, fonti, e belve,
+D'un bel volto il fato rio.
+
+-*who_homme_afflige1
+Ahi dolore !
+
+-*who_homme_afflige2
+Ahi martire !
+
+-*who_homme_afflige1
+Cruda morte !
+
+-*who_homme_afflige2
+Empia sorte.
+
+-*who_tous
+Che condanni à morir tanta beltà,
+Cieli, stelle, ahi crudeltà.
+
+-*who_femme_affligee
+Rispondete a miei lamenti,
+Antri cavi, ascose rupi ;
+Deh, ridite, fondi cupi,
+Del mio duolo i mesti accenti.
+
+-*who_homme_afflige2
+Com' esser può fra voi, o numi eterni,
+Chi voglia estinta una beltà innocente ?
+Ahi che tanto rigor, Cielo inclemente,
+Vince di crudeltà gli stessi inferni.
+
+-*who_homme_afflige1
+Nume fiero.
+
+-*who_homme_afflige2
+Dio severo.
+
+-*who_tous
+Per che tanto rigor
+Contro innocente cor ?
+Ahi sentenza inudita
+Dar morte à la beltà, ch'altrui da vita.
+
+-*who_femme_affligee
+Ahi ch'indarno si tarda,
+Non resiste a li Dei mortale affetto
+Alto impero ne sforza
+Ove commanda il Ciel, l'Uom cede à forza.
+
+-*who_homme_afflige1
+Ahi dolore !
+
+-*who_homme_afflige2
+Ahi Martire !
+
+-*who_homme_afflige1
+Cruda morte !
+
+-*who_homme_afflige2
+Empia sorte.
+
+-*who_tous
+Che condanni à morir tanta beltà
+Cieli, stelle, ahi crudeltà.
+
+**** *book_ *id_body-5-3 *act_ *date_1678 *creator_corneille
+
+-*who_aglaure
+Psyché vient. A la voir je tremble.
+
+-*who_cidippe
+Quel supplice !
+Le moyen de luy dire adieu ?
+
+-*who_psyche
+Ainsi pour vous rendre en ce lieu
+Vous avez prévenu⁎ l'heure du Sacrifice ?
+
+-*who_aglaure
+Ah ! ma Sœur !
+
+-*who_cidippe
+Ah ! ma Sœur !
+
+-*who_psyche
+Quels sont vos déplaisirs ?
+Quoy ? dans un jour si remply d'allegresse,
+Où du Ciel la colere cesse,
+Vous pouvez pousser des soûpirs ?
+
+-*who_aglaure
+Nous plaignons vostre erreur.
+
+-*who_cidippe
+Ah ! trop funestes charmes !
+
+-*who_psyche
+Dites-moy donc le sujet de vos larmes.
+
+-*who_aglaure
+Quand vous sçaurez ce qui les fait couler...
+Adieu, nous n'avons pas la force de parler.
+
+**** *book_ *id_body-5-4 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Seigneur, vous soupirez vous-mesme ?
+Quels que soient nos malheurs, dois-je les ignorer ?
+
+-*who_roy
+Apprens de mes soûpirs mon infortune extréme,
+Apprens ce que mon cœur tremble à te declarer.
+Quand on se voit reduit à perdre ce qu'on aime,
+Il est permis de soûpirer.
+
+-*who_psyche
+Et qui donc perdez-vous ?
+
+-*who_roy
+Tout ce qu'en ma Famille
+J'avois de cher, de precieux,
+Le barbare decret des Dieux
+Nous demande ton sang, il faut mourir, ma Fille,
+Il faut sur ce Rocher t'exposer au Serpent,
+Et lors que ma douleur par mes larmes s'exprime,
+C'est pour toy, de ces Dieux déplorable Victime,
+Que ma tendresse les répand.
+
+-*who_psyche
+Si par mon sang leur colere s'appaise,
+Plaignez-vous une mort qui finit vos malheurs ?
+
+-*who_roy
+Il se peut que ta mort leur plaise,
+Et tu condamnes mes douleurs ?
+Ne dy point que le Ciel desormais sans colere
+Semble adoucir le coup qui me prive de toy.
+Quand on voit des malheurs qui ne sont que pour soy,
+Le bien public ne touche guére,
+Et si l'Oracle doit me plaire
+A me regarder comme Roy,
+J'en fremis, j'en tremble d'effroy
+A me regarder comme Pere.
+
+-*who_psyche
+Il faut suivre l'ordre des Dieux.
+
+-*who_roy
+A des ordres si redoutables
+Je ne les connois point, ces Dieux impitoyables,
+Qui veulent m'arracher ce que j'aime le mieux.
+
+-*who_psyche
+Par cét emportement n'attirez point leur haine.
+
+-*who_roy
+Que peuvent-ils pour augmenter ma peine ?
+Je souffre en te perdant tout ce qu'on peut souffrir.
+
+-*who_psyche
+Adieu, Seigneur, je vay mourir.
+
+-*who_roy
+Tu me quittes.
+
+-*who_psyche
+Je veux vous épargner un crime.
+
+-*who_roy
+Quoy ? du Serpent tu seras la Victime ?
+
+-*who_psyche
+Vivez heureux.
+
+-*who_roy
+Et le puis-je sans toy ?
+
+-*who_psyche
+Ne pleurez point ma mort, la cause en est trop belle.
+
+-*who_roy
+Tu vas sur le Rocher, cruelle,
+Arreste, que fais tu ?
+
+-*who_psyche
+Je fais ce que je doy.
+
+-*who_roy
+Au Monstre sans trembler tu te livres toy-mesme ?
+
+-*who_psyche
+Ma fermeté quand vous vous alarmez
+Doit vous plaire si vous m'aimez.
+
+-*who_roy
+Et tu peux douter que je t'aime ?
+Ciel, que vois-je ? on l'enleve, & les Vents ennemis,
+Pour la conduire au Monstre, ont déployé leurs aisles.
+Dieux cruels, qui l'avez permis,
+Accablez vous ainsi ceux qui vous sont fidelles ?
+
+**** *book_ *id_body-6-1 *act_ *date_1678 *creator_corneille
+
+-*who_vulcain
+Cyclopes, achevez ce superbe Palais,
+Que tout vostre Art s'épuise en cét Ouvrage.
+Faites-y voir un pompeux⁎ Assemblage
+Des plus rares Beautez qui parurent jamais.
+
+**** *book_ *id_body-6-2 *act_ *date_1678 *creator_corneille
+
+-*who_zephire
+Pressez-vous ce Travail que l'Amour vous demande ?
+Vous hastez-vous d'accomplir ses desirs ?
+
+-*who_vulcain
+Vous le voyez, Zephire ; aussi tost qu'il commande,
+Obeïr est pour moy le plus grand des plaisirs.
+
+-*who_zephire
+Psyché merite bien une ardeur si fidelle,
+En ces lieux pour l'Amour j'ay conduit cette Belle ;
+Et maintenant sur des Gâzons voisins
+Un doux sommeil de ses sens est le maistre.
+J'ay fait naistre autour d'elle & Roses et Jasmins,
+Qu'elle eût pû sans moy faire naistre.
+
+-*who_vulcain
+C'est donc Psyché pour qui je prepare ces lieux ?
+L'agreable nouvelle !
+C'est Psyché que malgré le Titre d'Immortelle
+Venus ne sçauroit voir que d'un œil envieux ?
+Allez, je feray de mon mieux,
+Et suis ravy de m'employer pour elle.
+Venus m'a fait d'étranges tours
+Sur la Foy conjugale.
+Mais je veux l'en punir en prestant mon secours
+Au triomphe de sa Rivale.
+
+-*who_zephire
+Faites tout pour l'Amour, & rien contre Venus.
+Penser à la vangeance, abus, Vulcain, abus.
+Quelques tours que nous fasse une Moitié⁎ coquette,
+Le meilleur est de n'y jamais songer.
+Il est toûjours trop tard de s'en vanger,
+L'affaire est faite.
+Je retourne à Psyché que je vais éveiller,
+Cyclopes, excitez vos bras à travailler.
+
+-*who_vulcain
+
+Depeschez, preparez ces lieux
+Pour le plus aimable des Dieux.
+Que chacun pour luy s'interesse⁎,
+N'oubliez rien des soins qu'il faut.
+Quand l'Amour presse
+On n'a jamais fait assez tost.
+
+L'Amour ne veut point qu'on differe,
+Travaillez, hastez-vous.
+Frapez, redoublez vos coups.
+Que l'ardeur de luy plaire
+Fasse vos soins les plus doux.
+
+Servez bien un Dieu si charmant,
+Il se plaist dans l'empressement.
+Que chacun pour luy s'interesse⁎,
+N'oubliez rien des soins qu'il faut.
+Quand l'Amour presse,
+On n'a jamais fait assez tost.
+
+L'Amour ne veut point qu'on differe,
+Travaillez, hastez-vous.
+Frapez, redoublez vos coups.
+Que l'ardeur de luy plaire
+Fasse vos soins les plus doux.
+
+**** *book_ *id_body-6-3 *act_ *date_1678 *creator_corneille
+
+-*who_venus
+Quoy, vous vous employez pour la fiére Psyché ;
+Pour une insolente Mortelle ?
+Cét indigne travail vous tient donc attaché,
+Et l'Espoux de Venus se declare contre elle ?
+
+-*who_vulcain
+Et depuis quand, s'il vous plaist, vivons-nous
+Dans une amitié si parfaite,
+Qu'il faille que je m'inquiete
+De tous vos caprices jaloux ?
+Il vous sied bien de vous mettre en colere.
+Lors que j'estois jaloux avec plus de raison,
+Vous en faisiez vous une affaire ?
+Vous l'estes maintenant, & vous trouverez-bon
+Qu'on ne s'en embarasse guére.
+
+-*who_venus
+Ah, que l'amour est promptement guery
+Quand l'Hymen a reduit⁎ deux Cœurs sous sa puissance !
+Que les duretez de Mary
+Aux tendresses d'Amant ont peu de ressemblance !
+
+-*who_vulcain
+Vous connoissez toute la difference
+Et de l'Amant & de l'Espoux,
+Et nous sçavons lequel des deux chez vous
+A merité la preference.
+Je ne fais pour Psyché que bâtir un Palais,
+Vous estes encor trop heureuse.
+Si j'estois de nature un peu plus amoureuse
+Vous me verriez adorer⁎ ses attraits.
+La vangeance seroit plus belle,
+Mais je suis à ma Forge occupé nuit & jour.
+Je n'ay pas le loisir de luy parler d'amour,
+Et je me borne à travailler pour elle.
+
+-*who_venus
+Je sçay que par ces grands apprests
+C'est à mon fils que vous cherchez à plaire ;
+C'est luy qui le premier trahit mes interests,
+Il sçaura que je suis sa Mere.
+
+-*who_vulcain
+L'Amour icy nous a mandez exprés,
+Achevons, achevons ce qui nous reste à faire.
+
+**** *book_ *id_body-6-4 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Où suis-je ? quel spectacle est offert à mes yeux ?
+D'un effroyable Monstre est-ce icy la demeure ?
+Est-ce dans ces aimables lieux
+Que l'Oracle veut que je meure ?
+Je reconnois la rigueur de mon sort,
+Lors qu'avec tant d'excés je m'en voy poursuivie,
+Il veut que cette pompe accompagne ma mort,
+Pour me faire à regret abandonner la vie.
+Cruelle mort, pourquoy tardez-vous tant ?
+Que par vostre lenteur je vous trouve inhumaine !
+Venez, affreux Serpent, venez finir ma peine,
+Vostre victime vous attend.
+
+**** *book_ *id_body-6-5 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Quels agreables sons ont frappé mes oreilles ?
+
+-*who_nymphe_cachee
+Attens encor, Psyché, de plus grandes merveilles.
+Tout est dans ces beaux lieux soûmis à tes appas.
+Pour rendre ton bon-heur durable
+Souviens-toy seulement que lors qu'on est aimable,
+C'est un crime de n'aimer pas.
+
+-*who_psyche
+Est-ce qu'aimer est necessaire ?
+
+-*who_zephir_cache
+D'un jeune cœur c'est la plus douce affaire.
+
+-*who_zephir_cache
+Aimez, il n'est de beaux ans
+Que dans l'amoureux Empire.
+Qui laisse échaper le temps
+Quelque-fois trop tard soûpire.
+Aimez, il n'est de beaux ans
+Que dans l'amoureux Empire.
+
+-*who_psyche
+Et qui veut-on me faire aimer ?
+
+-*who_zephir_cache
+Un Dieu qui se prepare à t'assurer luy-mesme
+De son amour extrême.
+
+-*who_psyche
+Qui seroit donc ce Dieu que j'aurois sçeu charmer ?
+
+-*who_amour_cache
+C'est moy, Psyché, c'est moy qui me rends à vos charmes.
+
+-*who_psyche
+S'il est ainsi, paroissez en ce lieu.
+
+-*who_amour_cache
+Le Destin vous deffend de me voir comme Dieu,
+Où ma perte aussi-tost vous coûtera des larmes.
+
+-*who_psyche
+Et le moyen d'aimer ce qu'on ne voit jamais ?
+
+-*who_amour_cache
+Pour me monstrer à vous, je vay dans ce Palais
+Prendre d'un Mortel la figure.
+
+-*who_psyche
+Ah ! venez-donc, n'importe sous quels traits,
+Pourveu qu'en vous voyant mon esprit se rasseure.
+
+**** *book_ *id_body-6-6 *act_ *date_1678 *creator_corneille
+
+-*who_amour
+Et bien, Psyché, des cruautez du Sort
+Avez-vous beaucoup à vous plaindre ?
+Voicy ce Monstre affreux armé pour vostre mort,
+Vous sentez-vous disposée à le craindre ?
+
+-*who_psyche
+Quoy, vous estes le Monstre ? & comment à mes yeux
+Pourriez vous estre redoutable ?
+Je sens en vous voyant un desordre agreable
+Qui de mon cœur se rend victorieux.
+Il se trouble ce cœur autrefois si paisible,
+Il ne se souvient plus qu'il estoit insensible.
+On dit qu'ainsi l'on commence d'aimer.
+En parlant de mon cœur mon esprit s'embarasse,
+Et je ne connois pas assés ce qui s'y passe
+Pour vous le pouvoir exprimer.
+
+-*who_amour
+J'éprouve comme vous un embarras extrême.
+De quelle vive ardeur ne suis-je pas touché ?
+Que de choses à dire ! & cependant, Psyché,
+Cependant je ne puis que dire, je vous aime.
+
+-*who_psyche
+Il est donc vray que vous m'aimez ?
+
+-*who_amour
+C'est peu qu'aimer, je vous adore⁎.
+
+-*who_psyche
+Que par ces mots vous me charmez !
+
+-*who_amour
+Je vous l'ay dit, & vous le dis encore,
+Je vous aime, & jamais ne veux aimer que vous.
+
+-*who_psyche
+Je ne peux rien entendre de plus doux.
+Quoy, je n'auray point de Rivale ?
+
+-*who_tous
+Ah, qu'en amour le plaisir est charmant,
+Quand la tendresse est égale
+Entre l'Amante & l'Amant !
+
+-*who_psyche
+Mais me laisserez-vous ignorer qui vous estes,
+Vous qui me promettez de m'aimer à jamais ?
+
+-*who_amour
+C'est à regret que je me tais
+Sur la demande que vous faites.
+Mon nom, si vous pouviez une fois le sçavoir,
+Vous feroit chercher à me voir,
+Et c'est à quoy le Destin met obstacle.
+Me voir dans mon éclat c'est me perdre à jamais.
+Afin que de nos feux rien ne trouble la paix,
+J'ay fait donner le surprenant Oracle
+Qui nous laisse tous deux cachez dans ce Palais.
+Vous m'y verrez vous adorer sans cesse,
+Sans cesse de mon cœur vous faire un nouveau don.
+Pourveu que vous sçachiez l'excés de ma tendresse
+Qu'importe de sçavoir mon nom ?
+Ce n'est point comme un Dieu que je prétens paroistre,
+Ce titre ne fait pas aimer plus tendrement,
+Je ne veux me faire connoistre
+Que sous le nom de vostre Amant.
+Venez voir ce Palais, où pour charmer vostre ame
+Les plaisirs naistront tour à tour.
+Et vous, Divinités qui connoissez ma flâme,
+Marquez par vos Chansons le pouvoir de l'Amour.
+
+-*who_nymphe1
+Aimable Jeunesse,
+Suivez la tendresse,
+Joignez aux beaux jours
+La douceur des Amours.
+C'est pour vous surprendre
+Qu'on vous fait entendre
+Qu'il faut éviter leurs soûpirs
+Et craindre leurs desirs.
+Laissés-vous aprendre
+Quels sont leurs plaisirs.
+
+-*who_nymphe3
+Chacun est obligé d'aimer
+A son tour,
+Et plus on a dequoy charmer,
+Plus on doit à l'Amour.
+
+-*who_nymphe2
+Un cœur jeune & tendre
+Est fait pour se rendre,
+Il n'a point à prendre
+De fâcheux détour.
+
+-*who_nymphe3
+Chacun est obligé d'aimer
+A son tour,
+Et plus on a dequoy charmer,
+Plus on doit à l'Amour.
+
+-*who_nymphe3
+Pourquoy se défendre ?
+Que sert-il d'attendre ?
+Quand on perd un jour,    
+On le perd sans retour.
+
+-*who_nymphe2
+Chacun est obligé d'aimer
+A son tour,
+Et plus on a dequoy charmer,
+Plus on doit à l'Amour.
+
+-*who_nymphe1
+L'Amour a des charmes,
+Rendons luy les armes,
+Ses soins & ses pleurs
+Ne sont pas sans douceurs ;
+Un cœur pour le suivre
+A cent maux se livre.
+Il faut pour goûter ses appas
+Languir jusqu'au trespas,
+Mais ce n'est pas vivre
+Que de n'aimer pas.
+
+-*who_nymphe3
+S'il faut des soins⁎ & des travaux⁎
+En aimant,
+On est payé de mille maux
+Par un heureux moment.
+
+-*who_nymphe2
+On craint, on espere,
+Il faut du Mistere,
+Mais on n'obtient guére
+De biens sans tourment.
+
+-*who_nymphe3
+S'il faut des soins & des travaux
+En aimant,
+On est payé de mille maux
+Par un heureux moment.
+
+-*who_nymphe3
+Que peut-on mieux faire,
+Qu'aimer & que plaire ?
+C'est un soin charmant
+Que l'employ d'un Amant.
+
+-*who_nymphe2
+S'il faut des soins & des travaux
+En aimant,
+On est payé de mille maux
+Par un heureux moment.
+
+**** *book_ *id_body-7-1 *act_ *date_1678 *creator_corneille
+
+-*who_venus
+
+Pompe que ce Palais de tous costez étale,
+Brillant séjour, que vous blessez mes yeux !
+Je ne voy rien qui ne parle en ces lieux
+De la gloire de ma Rivale.
+Tant de Divinitez dont elle a tous les soins
+Et la plus forte complaisance⁎,
+Sont autant de honteux témoins,
+De son pouvoir & de mon impuissance.
+
+Que le mespris est rigoureux
+A qui se croit digne de plaire !
+Un seul Objet qu'on nous prefere
+Nous fait un destin malheureux.
+Que le mespris est rigoureux
+A qui se croit digne de plaire !
+
+Désja la nuit chasse le jour.
+Qu'il ne revienne point avant que je me vange.
+Je sçay l'ordre du Sort, si Psyché voit l'Amour
+Aussi-tost sa fortune change.
+Cessons de perdre des soûpirs,
+Perdons Psyché sans que Psyché le sçache,
+Elle brûle de voir cét Amant qui se cache,
+Il faut contenter ses desirs.
+
+**** *book_ *id_body-7-2 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Que fais-tu ! montre toy, cher Objet de ma flâme,
+Viens consoler mon ame.
+La beauté de ces lieux est un enchantement,
+Tout m'y paroist charmant,
+Mais je n'y voy point ce que j'aime.
+Ah ! Qu'une absence d'un moment,
+Quand la tendresse est extrême,
+Est un rigoureux tourment !
+
+-*who_psyche
+Par quel art dans ce lieu vous rendez-vous visible ?
+On m'y parle souvent sans qu'on se laisse voir.
+
+-*who_venus
+Le Dieu que vos Beautez ont rendu si sensible,
+Pour vous entretenir m'a laissé ce pouvoir.
+C'est à moy, Psyché, qu'il ordonne
+De garder ce Palais où tout fuit vostre Loy.
+
+-*who_psyche
+Nymphe, le croiriez-vous, que luy-mesme empoisonne
+Tous les honneurs que j'en reçoy ?
+Il refuse toûjours de se monstrer à moy
+Dans tout l'éclat qui l'environne,
+Et ce refus blesse ma foy.
+Je l'aime, & je voudrois pouvoir tout sur son ame,
+Je voudrois avoir lieu du moins de m'en flatter,
+Quand je forme des vœux qu'il ose rebuter
+Je suis reduite à douter de sa flâme,
+Et rien n'est plus cruel pour moy que d'en douter.
+
+-*who_venus
+Mais chaque instant vous marque sa tendresse.
+
+-*who_psyche
+Ah ! malgré les soûpirs qu'un Amant nous adresse,
+Malgré tous les soins qu'il nous rend,
+Il ne faut pour troubler le bon-heur le plus grand
+Qu'un peu trop de délicatesse.
+Vous n'estes pas les plus heureux
+Vous dont l'amour est si pur & si tendre.
+Si tout vostre repos est reduit à dependre
+Du moindre scrupule amoureux,
+Vous dont l'amour est si pur & si tendre,
+Vous n'estes pas les plus heureux.
+
+-*who_venus
+Que ne m'est-il permis de vous tirer de peine !
+
+-*who_psyche
+Ah ! ne me tenez point plus long-temps incertaine,
+Satisfaites mes yeux, vous avez ce pouvoir.
+
+-*who_venus
+Vous me découvrirez⁎.
+
+-*who_psyche
+Ne craignez rien.
+
+-*who_venus
+Je n'ose.
+
+-*who_psyche
+Quoy, rien en ma faveur ne vous peut émouvoir ?
+
+-*who_venus
+Et bien, je vay pour vous oublier mon dévoir.
+Entrez, c'est dans ce lieu que vostre Amant repose,
+Goûtez le plaisir de le voir.
+Cette Lampe que je vous laisse
+Peut servir à vous éclairer.
+
+-*who_psyche
+Que ne vous doy-je point ?
+
+-*who_venus
+Il faut me retirer,
+Ma presence nuiroit au desir qui vous presse.
+
+**** *book_ *id_body-7-3 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+A la fin je vay voir mon destin éclaircy,
+Je vay voir cét Amant dont mon ame est éprise.
+Approchons. Dieux ! que voy-je icy ?
+C'est l'Amour. Quelle douce & charmante surprise !
+C'est l'Amour qui pour moy s'est blessé de ses traits.
+Maistre de l'Univers il vit sous mon Empire,
+Ce que l'Amour à tous les cœurs inspire
+Il l'a senty pour mes foibles attraits,
+Si le plaisir d'aimer est un plaisir extrême,
+Quels charmes n'a-t'il pas quand c'est l'Amour qu'on aime ?
+Quoy c'est l'Amour que j'aime ? quel bon-heur !
+Ah ! pour le reconnoistre,
+Sans le voir dans l'éclat où je le voy paroistre,
+Ne suffisoit-il pas de cette prompte ardeur
+Qu'il a si vivement fait naistre dans mon cœur ?    
+Si le plaisir d'aimer est un plaisir extrème,
+Quels charmes n'a-t-il pas quand c'est l'Amour qu'on aime ?
+Jamais Amant ne fut si beau,
+Si digne de toucher un cœur fidele & tendre.
+Et le moyen de se défendre
+De l'adorer jusqu'au tombeau ?
+Si le plaisir d'aimer est un plaisir extréme,
+Quels charmes n'a-t'il pas quand c'est l'Amour qu'on aime ?
+Mais quel brillant éclat se répand en ce lieu ?
+
+-*who_amour
+Tu m'as veu, c'en est fait, tu vas me perdre, Adieu.
+
+**** *book_ *id_body-7-4 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Arrestez, cher Amant, où Fuïez-vous si viste ?
+Arrestez, Amour, arrestez.
+Pouvez-vous me laisser triste, seule, interdite ?
+Je meurs puis que vous me quittez.
+J'ay voulu vous voir, c'est mon crime,
+Ma tendresse a causé mon trop d'empressement.
+Et ne dévoit-il pas paroistre legitime
+Du moins aux yeux de mon Amant ?
+Ciel ! le funeste excez de mon inquietude⁎
+Occupoit à tel point mon esprit affligé
+Que je ne voyois point ce beau Palais changé
+En une affreuse Solitude.
+
+**** *book_ *id_body-7-5 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Ah ! Nymphe, venez vous soulager mes ennuis ?
+
+-*who_venus
+Crains-tout, ouvre les yeux, & connois qui je suis.
+C'est Venus que tu vois.
+
+-*who_psyche
+Dieux ! se pourroit-il faire !
+Que Venus pour me perdre eût pû se déguiser ?
+
+-*who_venus
+Dans l'ardeur de punir ton orgueil temeraire,
+Exprés j'ay voulu t'abuser.
+Apres que pour flater ta beauté criminelle
+Mes honneurs m'ont esté ravis,
+Je souffriray qu'une simple Mortelle
+Porte ses vœux jusqu'à mon Fils ?
+
+-*who_psyche
+Déesse, suivez moins une aveugle colere.
+Voyez pour qui j'ay consenty d'aimer.
+L'Amour peut-il chercher à plaire
+Qu'il ne soit seur aussi-tost de charmer ?
+
+-*who_venus
+Non, je te puniray de luy paroistre aimable,
+Tes charmes l'ont reduit à t'aimer malgré moy,
+Et je te tiens seule coupable
+Des soûpirs qu'il pousse pour toy.
+
+-*who_psyche
+Vous ne m'écoutez point, & cependant, Déesse,
+Tout ce que je vous dis, vous l'avez trop senty.
+Quoy ? vous condamnez ma tendresse !
+Et vostre cœur s'en est-il garanty ?
+Il a payé ce tribut necessaire.
+Le mien est-il si fort qu'il s'en doive exempter ?
+Si l'Amour sous ses Loix a pû ranger sa Mere,
+Est-ce à Psyché de resister ?
+
+-*who_venus
+En vain de ton orgueil tu prétens fuïr la peine.
+Le Sort te soûmet à ma haine,
+Escoute ; & ne replique pas.
+Pour fléchir la rigueur où mon couroux s'obstine,
+Vers les rives du Stix il faut tourner ses pas,
+Et m'aporter la Boëte⁎ où Proserpine
+Enferme ce qui peut augmenter ses appas ;
+C'est l'employ qu'à tes soins ma vangeance destine.
+
+**** *book_ *id_body-7-6 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+Vous m'abandonnez-donc, cruel & cher Amant ?
+Venez, venez me traiter de coupable.
+Malgré tous les mal-heurs dont le Destin m'accable,
+Vostre absence est mon seul tourment.
+Douces, mais trompeuses delices !
+Deviés-vous commencer & finir en un jour ?
+A peine ay-je goûté les douceurs de l'Amour
+Que j'en ressens les plus affreux supplices.
+Pourquoy chercher le chemin des Enfers ?
+C'est la mort, c'est la mort qui me le doit aprendre,
+Les flots qu'aux mal-heureux ce Fleuve tient ouverts,
+M'offrent celuy que je dois prendre.
+
+**** *book_ *id_body-7-7 *act_ *date_1678 *creator_corneille
+
+-*who_fleuve
+Arreste, c'est trop tost renoncer à l'espoir,
+Il faut vivre, l'Amour l'ordonne.
+
+-*who_psyche
+Dites plûtot que l'Amour m'abandonne
+Quand Venus contre moy fait agir son pouvoir.
+A descendre aux Enfers sa haine m'a reduite.
+
+-*who_fleuve
+Ne crains rien ; je t'en veux aprendre le chemin.
+Viens icy prendre place, & tu seras instruite
+Des ordres du Destin.
+
+**** *book_ *id_body-8-1 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+
+Par quels noirs & fâcheux passages
+M'a t'on fait descendre aux Enfers ?
+Ce ne sont qu'abysmes ouverts
+A saisir de frayeur les plus fermes courages.
+
+Ces lieux qui de la Mort sont le triste sejour
+Ne reçoivent jamais le jour,
+L'horreur en est extrême.
+Mais tout affreux que je les voy,
+Qu'ils auroient de charmes pour moy
+Si j'y rencontrois ce que j'aime !
+N'y pensons plus, mon bon-heur a changé,
+J'ay voulu voir l'Amour, & l'Amour s'est vangé.
+
+Vous, que ces Demeures affreuses
+Couvrent d'une eternelle nuit,
+Aprenez, Ombres mal-heureuses,
+Le déplorable estat où le Ciel me reduit.
+Du plus heureux destin la gloire m'est certaine,
+Et quand j'en puis jouir sans craindre les Jaloux,
+Un desir curieux dont la force m'entraîne,
+Me fait perdre l'Objet de mes vœux les plus doux.
+Parmy tous vos tourments, Ombres, connoissez-vous
+Un suplice égal à ma peine ?
+
+**** *book_ *id_body-8-2 *act_ *date_1678 *creator_corneille
+
+-*who_trois_furies
+Où penses-tu porter tes pas,
+Temeraire Mortelle ?
+Quel destin parmy-nous t'appelle ?
+Viens-tu nous braver icy bas ?
+
+-*who_psyche
+Si j'ay passé le Stix avant l'heure fatale,
+Pour venir aux Enfers demander du secours,
+Quand je vous auray dit ma peine sans égale,
+Vous plaindrez avec moy le mal-heur de mes jours.
+
+-*who_trois_furies
+Non, n'attens rien de favorable,
+Jamais dans les Enfers on ne fut pitoyable.
+
+-*who_psyche
+Ah, laissez-vous toucher à mes tristes douleurs.
+Je ne viens point dans vos Demeures sombres
+Troubler le silence des Ombres,
+J'y viens parler de mes malheurs.
+
+-*who_trois_furies
+Non, n'attens rien de favorable,
+Jamais dans les Enfers on ne fut pitoyable.
+
+-*who_psyche
+Un ordre souverain qu'il faut executer
+M'oblige à chercher vostre Reyne.
+En me la faisant voir vous finirez ma peine,
+Elle voudra bien m'écouter.
+
+-*who_trois_furies
+Non, n'attens rien de favorable,
+Jamais dans les Enfers on ne fut pitoyable.
+
+-*who_psyche
+Deux mots, & de ces lieux je suis preste à sortir.
+Conduisez-moy vers Proserpine.
+
+-*who_furie
+Puis qu'à la voir elle s'obstine
+Promptement, qu'on l'aille avertir.
+
+-*who_trois_furies
+Cependant monstrons-luy ce que ces lieux terribles,
+Ont d'Objets plus horribles.
+
+**** *book_ *id_body-8-3 *act_ *date_1678 *creator_corneille
+
+-*who_trois_furies
+Venez, Nymphes de l'Acheron,
+Aidez-nous à punir l'audace criminelle
+D'une fiere Mortelle
+Qui vient troubler l'Empire de Pluton.
+
+-*who_nymphes_acheron
+En vain ce soin⁎ vous embarasse.
+Nous avons l'ordre, allez, & nous quittez la place.
+
+-*who_psyche
+Que m'est-il permis d'esperer ?
+Me fera-t'on enfin conduire à vostre Reyne ?
+
+-*who_nymphe1
+Psyché, cessez de soûpirer,
+Si Venus vous poursuit, on flêchira sa haine.
+
+-*who_psyche
+Quoy, l'on sçait dans ce noir séjour
+A quels maux Venus me destine ?
+
+-*who_nymphe2
+Mercure envoyé par l'Amour
+Vient d'en instruire Proserpine.
+Elle sçait quel present Venus attend de vous,
+Et pour vous l'aporter elle se sert de nous.
+
+-*who_psyche
+Ah, que mes peines sont charmantes
+Puis que l'Amour cherche à les soulager !
+Dés qu'il veut rendre un mal leger
+Il n'a plus de chaînes pesantes.
+Ah, que mes peines sont charmantes
+Puis que l'Amour cherche à les soulager !
+
+-*who_nymphes_acheron
+Il doit estre bien doux d'aimer comme vous faites.
+
+-*who_psyche
+Et n'aime-t'on pas où vous estes ?
+
+-*who_nymphes_acheron
+L'amour anime l'Univers,
+Tout cede aux ardeurs qu'il inspire,
+Et jusques dans les Enfers,
+On reconnoist son Empire.
+
+-*who_psyche
+Et, qui s'en voudroit garantir⁎ !
+Mais de ces lieux par où sortir ?
+Tout ce que j'y voy m'intimide.
+
+-*who_nymphes_acheron
+Perdez l'effroy dont vos sens sont glacez,
+Nous allons vous servir de guide.
+Vous, Noirs Esprits, disparoissez.
+
+**** *book_ *id_body-9-1 *act_ *date_1678 *creator_corneille
+
+-*who_psyche
+
+Si je fais vanité de ma tendresse extrême,
+En puis je trop avoir quand c'est de l'Amour mesme
+Que mon cœur s'est laissé charmer ?
+Je sens que rien ne peut ébranler ma constance.
+Ah pourquoy m'obliger d'aimer
+S'il faut aimer sans esperance ?
+
+Sans esperance ? non, c'est offencer l'Amour,
+Ce Dieu qui plaint les maux dont je suis poursuivie
+Jusques dans les Enfers a pris soin de ma vie,
+Et c'est par luy que je reviens au jour.
+Ce sont icy les Jardins de sa Mere,
+Peut-estre en ce moment il luy parle de moy.
+Je puis l'y rencontrer. Pour meriter sa foy
+Cherchons jusqu'au bout à luy plaire.
+Si mes ennuis⁎ ont pû ternir
+Ces attraits dont l'éclat m'a sçeu rendre coupable,
+Cette Boëte⁎ me va fournir
+Dequoy paroistre encor aimable.
+Ouvrons. Quelles promptes vapeurs
+Me font des sens perdre l'usage !
+Si la mort finit mes mal-heurs,
+O toy qui de mes vœux reçois le tendre hommage,
+Songe qu'en expirant c'est pour toy que je meurs.
+
+**** *book_ *id_body-9-2 *act_ *date_1678 *creator_corneille
+
+-*who_venus
+Enfin, insolente Rivale,
+Tu reçois ce qu'a merité
+L'orgueilleuse temerité
+De te croire à Venus égale.
+Par l'état déplorable où j'ay reduit ton sort,
+Voy ce que mon couroux te laisse encor à craindre.
+Si tes mal-heurs si tost finissoient par la mort,
+Ton sort ne seroit pas à plaindre.
+
+-*who_psyche
+Pourquoy me rappeller au jour,
+S'il ne m'est pas permis de vivre pour l'Amour ?
+
+-*who_venus
+Quoy, ton orgueil encor jusqu'à mon Fils aspire ?
+Mon fils est l'objet de tes vœux,
+Et l'obstacle fatal que j'ay mis à tes feux
+Ne t'a point affranchie encor de son Empire ?
+Cét amour de ton cœur ne peut estre arraché ?
+
+-*who_psyche
+Viens, cher Amant, viens revoir ta Psyché.
+
+-*who_venus
+Les maux dont tes soûpirs marquent la violence
+A la pitié pour toy devroient m'interesser,
+Mais le plaisir de la vangeance
+Est trop doux pour y renoncer.
+
+**** *book_ *id_body-9-3 *act_ *date_1678 *creator_corneille
+
+-*who_mercure
+Vous croyez trop la jalouze colere
+Qui vous anime contre un Fils.
+
+-*who_venus
+Quoy, Mercure, on n'aura pour moy que du mépris ?
+Je pourray me vanger, & n'oseray le faire ?
+
+-*who_mercure
+L'Amour est venu dans les Cieux,
+Jupiter a receu sa plainte,
+Et n'envisage qu'avec crainte
+Le desordre eternel qui menace les Dieux.
+Par l'ordre du Destin Psyché vous est soûmise,
+Quand vous la poursuivez son sort dépend de vous,
+Mais voyez dans cette entreprise
+Quels mal-heurs ont désja suivy vostre couroux.
+L'Amour dont les ennuis⁎ n'ont pû toucher vostre ame
+Empoisonne les traits dont il perce les cœurs.
+Il les ouvre à la haine, aux dédains, aux rigueurs,
+Tout languit & rien ne s'enflame.
+La discorde est parmy les Dieux,
+La paix s'éloigne de la terre,
+On se haït, on se fait la guerre.
+Ces maux que vous causez vous sont-ils glorieux ?
+
+-*who_venus
+Ah, qu'on me laisse ma colere,
+Elle vange un trop juste ennuy⁎.
+L'Amour à l'Univers est-il si necessaire
+Qu'on ne puisse estre heureux sans luy ?
+
+-*who_mercure
+S'il est quelque bon-heur c'est l'Amour qui l'asseure,
+Tout flate en aimant, tout nous rit.
+Ostez l'Amour de la Nature,
+Toute la Nature perit.
+
+-*who_venus
+On veut donc m'obliger à consentir qu'il aime ?
+
+-*who_mercure
+Jupiter qui paroist vous le dira luy-mesme.
+
+**** *book_ *id_body-9-4 *act_ *date_1678 *creator_corneille
+
+-*who_jupiter
+Venus veut-elle resister ?
+N'a-t'elle point assés écouté sa colere,
+Et l'Amour qui languit ne peut-il se flater
+Que ses maux toucheront sa Mere ?
+
+-*who_venus
+Quoy, vous souffriray qu'à mon Fils
+Une simple mortelle aspire ?
+
+-*who_jupiter
+Si tu ne m'en veux point dédire,
+Il n'est rien pour Psyché qui ne me soit permis.
+Seule aux yeux de l'Amour elle est aimable & belle,
+Pour l'égaler à luy je la fais immortelle.
+
+-*who_venus
+Puis que d'une Immortelle il doit estre l'Espoux,
+Jupiter a parlé, je n'ay plus de couroux.
+
+-*who_jupiter
+Viens, Amour, tes soûpirs emportent la victoire.
+
+-*who_venus
+Psyché, revois le jour,
+On te permet enfin de vivre pour l'Amour.
+
+-*who_psyche
+Vous y consentez ? quelle gloire !
+
+-*who_jupiter
+Viens prendre place auprés de ton Amant.
+
+-*who_psyche
+On me rend donc à vous ? ô destin plein de charmes !
+
+-*who_amour
+O favorable changement !
+
+-*who_jupiter
+Aimez sans trouble & sans alarmes.
+Vous, Dieux, accourez tous, & dans cet heureux jour
+Celebrez à l'envy la gloire de l'Amour.
+
+-*who_apollon
+Unissons-nous, Troupe immortelle ;
+Le Dieu d'Amour devient heureux Amant.
+Et Venus a repris sa douceur naturelle
+En faveur d'un Fils si charmant.
+Il va goûter en paix aprés un long tourment,
+Une felicité qui doit estre eternelle.
+
+-*who_choeur
+Celebrons ce grand Jour ;
+Celebrons tous une Feste si belle.
+Que nos Chants en tous lieux en portent la nouvelle ;
+Qu'ils fassent retentir le celeste séjour.
+Chantons, repetons tour à tour,
+Qu'il n'est point d'Ame si cruelle
+Qui tost ou tard ne se rende à l'Amour.
+
+-*who_bacchus
+Si quelque fois,
+Suivant nos douces Loix,
+La raison se perd & s'oublie,
+Ce que le vin nous cause de folie
+Commence & finit en un jour ;
+Mais quand un Cœur est enivré d'amour,
+Souvent c'est pour toute la vie.
+
+-*who_mome
+Je cherche à médire
+Sur la Terre & dans les Cieux ;
+Je Soûmets à ma Satire
+Les plus grands des Dieux.
+Il n'est dans l'Univers que l'Amour qui m'étonne⁎,
+Il est le seul que j'épargne aujourd'huy ;
+Il n'apartient qu'à luy
+De n'épargner personne.
+
+-*who_mars
+Mes plus fiers Ennemis vaincus ou pleins d'éfroy
+Ont veu toûjours ma Valeur triomphante,
+L'Amour est le seul qui se vante
+D'avoir pû triompher de moy.
+
+-*who_choeur
+Chantons les plaisirs charmants
+Des heureux Amants.
+Respondez-nous Trompettes,
+Tymbales & Tambours :
+Accordez-vous toûjours
+Avec le doux son des Musettes,
+Accordez-vous toûjours
+Avec le doux chant des Amours.
+
+-*who_apollon
+Le Dieu qui nous engage
+A luy faire la Cour,
+Deffend qu'on soit trop sage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage
+Que de finir les soins du Jour ;
+La Nuit est le partage
+Des Jeux & de l'Amour.
+Ce seroit grand dommage
+Qu'en ce charmant Séjour
+On eût un Cœur sauvage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage
+Que de finir les soins du jour ;
+La Nuit est le partage
+Des Jeux & de l'Amour.
+
+-*who_muses
+
+Gardez-vous, Beautez severes,
+Les Amours font trop d'affaires,
+Craignez toûjours de vous laisser charmer.
+Quand il faut que l'on soûpire,
+Tout le mal n'est pas de s'enflamer ;
+Le martire
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+On ne peut aimer sans peines,
+Il est peu de douces chaînes,
+A tout moment on se sent allarmer.
+Quand il faut que l'on soûpire,
+Tout le mal n'est pas de s'enflamer ;
+Le martire
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+-*who_bacchus
+Admirons le Jus de la Treille :
+Qu'il est puissant ! qu'il a d'attraits !
+Il sert aux douceurs de la Paix,
+Et dans la Guerre il fait merveille :
+Mais sur tout pour les Amours,
+Le Vin est d'un grand secours.
+
+-*who_silene
+
+Bacchus veut qu'on boive à longs traits ;
+On ne se plaint jamais
+Sous son heureux Empire :
+Tout le jour on n'y fait que rire,
+Et la nuit on y dort en paix.
+
+Ce Dieu rend nos vœux satisfaits ;
+Que sa Cour a d'attraits !
+Chantons y bien sa gloire :
+Tout le jour on n'y fait que boire,
+Et la nuit on y dort en paix.
+
+-*who_trio
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fonds des Pots.
+
+-*who_satire1
+Les Grandeurs sont sujetes
+A cent peines secretes.
+
+-*who_satire2
+L'Amour fait perdre le repos.
+
+-*who_tous
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fonds des Pots.
+
+-*who_satire1
+C'est là que sont les Ris, les Jeux, les Chansonnetes.
+
+-*who_satire2
+C'est dans le Vin qu'on trouve les bons mots.
+
+-*who_tous
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fonds des Pots.
+
+-*who_mome
+
+Folâtrons, divertissons-nous,
+Raillons, nous ne sçaurions mieux faire,
+La Raillerie est necessaire
+Dans les Jeux les plus doux.
+Sans la douceur que l'on goûte à médire
+On trouve peu de plaisirs sans ennuy ;
+Rien n'est si plaisant que de rire,
+Quand on rit au despens d'autruy.
+
+Plaisantons, ne pardonnons rien,
+Rions, rien n'est plus à la mode,
+On court peril d'estre incommode
+En disant trop de bien.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennuy ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux despens d'autruy.
+
+-*who_mars
+Laissons en paix toute la Terre,
+Cherchons de doux amusements ;
+Parmy les Jeux les plus charmants,
+Meslons l'image de la Guerre.
+
+-*who_choeur
+Chantons les Plaisirs Charmants
+Des heureux Amants :
+Respondez-nous Trompettes,
+Tymbales & Tambours ;
+Accordez-vous toûjours
+Avec le doux son des Muzettes ;
+Accordez-vous toujours
+Avec le doux chant des Amours.
+
+**** *book_ *id_privilege *date_1678 *creator_corneille
+
+PRIVILEGE DU ROY.
+
+LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Conseillers, les Gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, & du Palais, Baillifs, Seneschaux, leurs Prevosts, & leurs Lieutenans, & tous autres nos Justiciers & Officiers qu'il appartiendra, SALUT. Nostre bien amé Jean Baptiste Lully Sur-Intendant de la Musique de nostre Chambre, Nous a fait remonstrer que les Airs de Musique qu'il a cy-devant composez, ceux qu'il compose journellement par nos ordres, & ceux qu'il sera obligé de composer à l'avenir pour les Pieces qui seront representées par l'Academie Royale de Musique, laquelle Nous luy avons permis d'établir en nostre bonne Ville de Paris, & autres lieux de nostre Royaume où bon luy semblera, estant purement de son invention, & de telle qualité que le moindre changement ou obmission leur fait perdre leur grace naturelle ; de sorte que comme son esprit seul les produit pour les appliquer aux sujets qu'il y trouve proportionnez, nul autre ne peut si bien que luy rendre lesdits Ouvrages publics dans leur perfection, & avec l'exactitude qui leur est deue.
+Et d'ailleurs, il est juste que si leur impression doit aporter quelque avantage, il revienne plûtost à l'Autheur pour le recompenser de son travail, & de partie des frais qu'il avance pour l'execution des Desseins qu'il doit faire representer par ladite Academie, qu'à de simples Copistes qui les imprimeroient, sous pretextes de Permissions generales ou particulieres qu'ils peuvent avoir obtenuës par surprises ou autrement ; ce qui l'oblige d'avoir recours à nos Lettres sur ce necessaires.
+A CES CAUSES ; Voulans favorablement traitter l'Exposant, Nous luy avons permis et accordé, permettons & accordons par ces Presentes, de faire imprimer par tel Libraire ou Imprimeur, en tel volume, marge, caractere, & autant de fois qu'il voudra, avec Planches et Figures, tous & chacuns les Airs de Musique qui seront par luy faits ; comm'aussi les Vers, Paroles, Sujets, Desseins & Ouvrages sur lesquels lesdits Airs de Musique auront esté composez, sans en rien ex- cepter, & cependant le temps de trente années, consecutives, à commencer du jour que chacun desdits Ouvrages seront achevez d'imprimer, iceux vendre & debiter dans tout nostre Royaume, par luy ou par autre ainsi que bon luy semblera, sans qu'aucun trouble ny empéchement quelconque luy puisse estre aporté, mesme par ceux qui pretendent avoir de Nous Privilege pour l'impression des Airs de Musique & Ballets, lesquels pour ce regard en tant que besoin est ou seroit, Nous avons revoqué & revoquons par cesdites presentes ; Faisant tres-expresses inhibitions & défenses à tous Libraires, Imprimeurs, Colporteurs, & autres personnes de quelque qualité qu'elles soient, d'imprimer, faire imprimer, vendre & distribuer lesdites Pieces de Musique, Vers, Paroles, Desseins, Sujets, & generalement tout ce qui a esté & sera composé par ledit Lully, sous quelque pretexte que ce soit, mesme d'impression étrangere & autrement, sans son consentement, ou de ses ayans cause, sur peine de confiscation des Exemplaires contrefaits, dix mil livres d'amende, tant contre ceux qui les auront imprimez & vendus, que contre ceux qui s'en trouveront saisis & de tous dépens, dommages & interests ; à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, un en nostre Cabinet des livres de nostre Château du Louvre, & un en celle de nostre tres cher & féal Chevalier, Garde des Sceaux de France, le Sr d'Aligre, à peine de nullité des presentes.
+Du contenu desquelles, vous mandons & enjoignons faire joüir l'Exposant & ses ayans cause plainement & paisiblement, cessant & faisant cesser tous troubles & empeschemens au contraire ; Voulons qu'en mettant au commencement ou à la fin desdits Livres l'Extrait des Presentes, elles soient tenuës deuëment signifiées, & qu'aux copies collationnées par l'un de nos amez & feaux Conseillers & Secretaires, foy soit ajôutée comme à l'Original.
+Mandons au premier nostre Huissier ou Sergent, faire pour l'execution des presentes, toutes signifiations, défenses, saisies, & autres actes requis & necessaires, sans pour ce demander autre permission, nonobstant oppositions ou appellations quelconques, dont si aucunes interviennent, Nous nous en reservons & à notre Conseil la connoissance, & icelle interdisons & défendons à tous autres Juges : CAR tel est notre plaisir.
+DONNE' à Versailles le vingtiéme jour de Septembre, l'an de grace mil six cens soixante-douze, & de nostre Regne le trentiéme.
+Signé, LOUIS. Et plus bas : Par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.
