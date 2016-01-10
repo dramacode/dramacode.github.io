@@ -8,7 +8,7 @@
   <body>
       <article id="article">
         <h1><a href="http://dramacode.github.io/">Dramacode</a>, textes de théâtre en libre accès</h1>
-        <p>Ce site sur Github expose les textes de la communauté Dramacode. Cette page est générée automatiquement pour fournir une liste de liens sur les sources XML/TEI, ainsi que des formats d’export pour la lecture (epub, mobi) et pour la recherche (markdown, iramuteq).</p>
+        <p>Ce site sur Github expose les textes de l’“organisation” Dramacode. Cette page est générée automatiquement pour fournir une liste de liens vers des formats d’export pour la lecture (epub, mobi), mais aussi la recherche (markdown, iramuteq), et surtout les sources XML/TEI.</p>
         <?php 
 include('Dramacode.php');
 $base = new Dramacode('dramacode.sqlite');
