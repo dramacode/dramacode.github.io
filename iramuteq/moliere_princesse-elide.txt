@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_princesse-elide *id_i01 *act_i *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_a01 *act_a *date_1665 *creator_moliere
 
 -*who_l_aurore
 
@@ -18,7 +18,7 @@ N'est pas un nom à se faire estimer :
 Dans le temps où l'on est belle,
 Rien n'est si beau que d'aimer.
 
-**** *book_moliere_princesse-elide *id_i02 *act_i *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_a02 *act_a *date_1665 *creator_moliere
 
 Pendant que l'Aurore chantait ce Récit, quatre Valets de Chiens étaient couchés sur l'Herbe, dont l'un (sous la figure de Lyciscas représenté par le Sieur de Molière, excellent Acteur, de l'invention duquel étaient les Vers et toute la Pièce) se trouvait au milieu de deux, et un autre à ses pieds : Qui étaient les Sieurs Estival, Don, et Blondel de la Musique du Roi, dont les voix étaient admirables.
 Ceux-ci en se réveillant à l'arrivée de l'Aurore, sitôt qu'elle eut chanté, s'écrièrent en Concert :
@@ -616,7 +616,7 @@ Peut-on savoir, Seigneur, par où votre espérance… ?
 -*who_euryale
 Tu le vas voir, allons, et garde le silence.
 
-**** *book_moliere_princesse-elide *id_ii01 *act_ii *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_Ib01 *act_Ib *date_1665 *creator_moliere
 
 -*who_moron
 Jusqu'au revoir ; pour moi je reste ici, et j'ai une petite conversation à faire avec ces arbres et ces rochers.
@@ -636,7 +636,7 @@ Voilà un Écho qui est bouffon ! Hom hom hom,
 ha ha ha ha ha.
 Uh uh uh. Voilà un Écho qui est Bouffon !
 
-**** *book_moliere_princesse-elide *id_ii02 *act_ii *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_Ib02 *act_Ib *date_1665 *creator_moliere
 
 -*who_moron
 Ah ! monsieur l'Ours, je suis votre serviteur de tout mon cœur : de grâce épargnez-moi ! je vous assure que je ne vaux rien du tout à manger, je n'ai que la peau et les os, et je vois de certaines gens là-bas qui seraient bien mieux votre affaire.
@@ -820,7 +820,7 @@ Prenez garde, Madame, l'entreprise est périlleuse, et lorsqu'on veut donner de 
 -*who_princesse_elide
 Ah ! n'appréhendez rien, je vous prie, allons, je vous réponds de moi.
 
-**** *book_moliere_princesse-elide *id_iii01 *act_iii *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_IIb01 *act_IIb *date_1665 *creator_moliere
 
 -*who_moron
 Philis demeure ici ?
@@ -892,7 +892,7 @@ Voilà ce que c'est, si je savais chanter j'en ferais bien mieux mes affaires.
 La plupart des Femmes aujourd'hui se laissent prendre par les oreilles : Elles sont cause que tout le monde se mêle de Musique, et l'on ne réussit auprès d'elles, que par les petites chansons, et les petits vers qu'on leur fait entendre.
 Il faut que j'apprenne à chanter pour faire comme les autres, bon, voici justement mon homme.
 
-**** *book_moliere_princesse-elide *id_iii02 *act_iii *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_IIb02 *act_IIb *date_1665 *creator_moliere
 
 -*who_satyre
 La, la, la.
@@ -1182,7 +1182,7 @@ Non, il n'en fera rien, je le connais, ma peine serait inutile.
 Si faut-il pourtant tenter toute chose, et éprouver si son âme est entièrement insensible.
 Allons, je veux lui parler, et suivre une pensée qui vient de me venir.
 
-**** *book_moliere_princesse-elide *id_iv01 *act_iv *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_IIIb01 *act_IIIb *date_1665 *creator_moliere
 
 -*who_philis
 Viens, Tircis, laissons-les aller, et me dis un peu ton martyre de la façon que tu sais faire ?
@@ -1198,7 +1198,7 @@ Sans que je touche ton cœur.
 Va, va, c'est déjà quelque chose que de toucher l'oreille, et le temps amène tout.
 Chante-moi cependant quelque plainte nouvelle que tu aies composée pour moi.
 
-**** *book_moliere_princesse-elide *id_iv02 *act_iv *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_IIIb02 *act_IIIb *date_1665 *creator_moliere
 
 -*who_moron
 Ah ! ah ! je vous y prends, cruelle, vous vous écartez des autres pour ouïr mon rival ?
@@ -1463,7 +1463,7 @@ Il n'y a pas de raison à cela : Mais si ce n'est pas de l'amour que ce que je 
 Sors de mon cœur, qui que tu sois, ennemi qui te caches, attaque-moi visiblement, et deviens à mes yeux la plus affreuse bête de tous nos bois, afin que mon dard et mes flèches me puissent défaire de toi.
 Ô vous, admirables personnes, qui par la douceur de vos chants avez l'art d'adoucir les plus fâcheuses inquiétudes, approchez-vous d'ici de grâce, et tâchez de charmer avec votre Musique le chagrin où je suis.
 
-**** *book_moliere_princesse-elide *id_v *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_IVb *date_1665 *creator_moliere
 
 Cinquieme Intermède
 
@@ -1662,7 +1662,7 @@ Seigneur, nous savons prendre notre parti, et si ces aimables Princesses n'ont p
 -*who_philis
 Seigneur, la Déesse Vénus vient d'annoncer partout le changement du cœur de la Princesse : Tous les Pasteurs et toutes les Bergères en témoignent leur joie par des danses et des chansons, et si ce n'est point un spectacle que vous méprisiez, vous allez voir l'allégresse publique se répandre jusques ici.
 
-**** *book_moliere_princesse-elide *id_vi *date_1665 *creator_moliere
+**** *book_moliere_princesse-elide *id_Vb *date_1665 *creator_moliere
 
 Sixième Intermède
 Usez mieux, ô ! beautés fières !

@@ -22,7 +22,7 @@ ACTEURS
 
 La Fidelle Tromperie                        
 
-**** *book_ *id_body-3-1 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-3-1 *act_I *date_1633 *creator_gougenot
 
 -*who_armidore
 Image precieux de ma vivante aurore,    
@@ -230,7 +230,7 @@ De vous voir esprouver⁎ ceste belle science :
 Allons pourvoir à tout et resoudre comment
 Vous vous pourrez servir de cet habillement.
 
-**** *book_ *id_body-3-2 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-3-2 *act_I *date_1633 *creator_gougenot
 
 -*who_clorisee
 Mortel ressouvenir⁎ d'une ame desloyale⁎
@@ -323,7 +323,7 @@ Se rapportent si bien aux traicts de ce trompeur,
 Que l'âge seulement en esloigne ma peur.
 J'y perds le jugement.
 
-**** *book_ *id_body-3-3 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-3-3 *act_I *date_1633 *creator_gougenot
 
 -*who_lucide
 C'est la Reyne sans doute,
@@ -462,7 +462,7 @@ Cest estreme travail⁎ demande du repos,
 Nous pourrons à loisir achever ce propos.
 Fin du premier Acte.
 
-**** *book_ *id_body-4-1 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-4-1 *act_II *date_1633 *creator_gougenot
 
 -*who_clidame
 Je voy bien, cher cousin, que la vive⁎ figure
@@ -590,7 +590,7 @@ Je vay trouver la Reyne,
 -*who_lucide
 Et moy revoir mon cœur.
 
-**** *book_ *id_body-4-2 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-4-2 *act_II *date_1633 *creator_gougenot
 
 -*who_alderine
 Mais vous ne dites rien de ma chere Lucide,Elles sont dans le
@@ -776,7 +776,7 @@ Un air qu'en vostre absence, Amour m'a faict apprendre :
 Allons nous rafraichir dans les ombres du bois,
 Je veux joindre à mon luth une divine voix.
 
-**** *book_ *id_body-4-3 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-4-3 *act_II *date_1633 *creator_gougenot
 
 -*who_clorisee
 Me faut-il donc souffrir⁎ une peine⁎ infinie,
@@ -954,7 +954,7 @@ On ne peut empescher les Dieux de se vanger.
 Mais allons au devant de ce Prince estranger.
 Fin du second Acte.
 
-**** *book_ *id_body-5-1 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-5-1 *act_III *date_1633 *creator_gougenot
 
 -*who_bruserbe
 L'injurieux mespris que ce Prince respire,
@@ -1547,7 +1547,7 @@ Allons y donner ordre, et trouver de ce pas,
 L'Amazone qui doit avancer son trépas.
 Fin du troisième Acte.
 
-**** *book_ *id_body-6-1 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-6-1 *act_IV *date_1633 *creator_gougenot
 
 -*who_filamon
 Les desirs des mortels trouvent plus de ruïnes,
@@ -1573,7 +1573,7 @@ Un regret éternel me contraigne à rougir.
 Si me faut-il trouver relasche à mes tortures,
 Ou qu'une prompte mort borne⁎ mes adventures.
 
-**** *book_ *id_body-6-2 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-6-2 *act_IV *date_1633 *creator_gougenot
 
 -*who_clorisee
 Lucide les vertus ont des charmes⁎ si forts,
@@ -1860,7 +1860,7 @@ Un secret que je tiens aussi cher que ma vie.
 -*who_florinde
 Vos secrets sont bien froids pour donner de l'envie.
 
-**** *book_ *id_body-6-3 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-6-3 *act_IV *date_1633 *creator_gougenot
 
 -*who_clidame
 Que ceste passion estourdit les esprits !
@@ -1982,7 +1982,7 @@ J'accepte pour l'effet ceste belle apparence,
 Et conserve en mon cœur vostre fidelité,
 Dont je tire un rayon de ma felicité.
 
-**** *book_ *id_body-6-4 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-6-4 *act_IV *date_1633 *creator_gougenot
 
 -*who_alderine
 Que vos sages pensers promettent des miracles,
@@ -2353,7 +2353,7 @@ Allons nous reposer le sommeil me devore,
 Allons estouffer nos regrets.
 Fin du quatrième Acte.
 
-**** *book_ *id_body-7-1 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-1 *act_V *date_1633 *creator_gougenot
 
 -*who_bruserbe
 Comme les passions surmontent toute chose,
@@ -2397,7 +2397,7 @@ Le temps forme l'Amour, l'Amour la jouyssance,
 Mon frere allons pourvoir à nos Ambassadeurs,
 Et mettons soubs le pied la crainte et les froideurs.
 
-**** *book_ *id_body-7-2 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-2 *act_V *date_1633 *creator_gougenot
 
 -*who_clorisee
 Ces traistres croyent donc que je sois abbatuë.
@@ -2521,7 +2521,7 @@ Que pour bien soustenir chacun vaut un Alcide.
 -*who_clorisee
 Ha ! que je te regrette invincible Lucide.
 
-**** *book_ *id_body-7-3 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-3 *act_V *date_1633 *creator_gougenot
 
 -*who_alderine
 Que les secrettes destinées,
@@ -2711,7 +2711,7 @@ En prolongeant ma vie ait avancésa mort :
 Justes Dieux, s'il est vray, faites que ceste atteinte,
 Borne⁎ ma passion au but de vostre crainte.
 
-**** *book_ *id_body-7-4 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-4 *act_V *date_1633 *creator_gougenot
 
 -*who_bruserbe
 Portons nostre vengeance à toute extremité,
@@ -2896,7 +2896,7 @@ Mais un secret espoir fait que je m'esvertuë⁎,
 Allons dans le sommeil noyer nostre soucy⁎,
 Peut estre que les Dieux changeront tout cecy.
 
-**** *book_ *id_body-7-5 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-5 *act_V *date_1633 *creator_gougenot
 
 -*who_clorisee
 Nos tyrans sont donc pris, bon Dieu je te rends grace.
@@ -3160,7 +3160,7 @@ Mais sur tout à celuy de pourvoir vostre fille.
 -*who_filamire
 C'est ce que je souhaitte avecque plus d'ardeur⁎.
 
-**** *book_ *id_body-7-6 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-6 *act_V *date_1633 *creator_gougenot
 
 -*who_tersandre
 Noz mutins maintenant abbatus de froideur,
@@ -3222,7 +3222,7 @@ Allons à la rencontre.
 -*who_clidame
 Ah ! monsieur, le voicy.
 
-**** *book_ *id_body-7-7 *act_ *date_1633 *creator_gougenot
+**** *book_ *id_body-7-7 *act_V *date_1633 *creator_gougenot
 
 -*who_clidame
 Dieux ! qu'est-ce que je voy, tout a changé de face,

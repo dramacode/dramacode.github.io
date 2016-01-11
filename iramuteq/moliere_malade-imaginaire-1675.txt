@@ -961,7 +961,7 @@ As-tu quelqu'un propre à faire ce message ?
 -*who_toinette
 Il est assez difficile, et je ne trouve personne plus propre à s'en acquitter que le vieux Usurier Polichinelle mon Amant, il m'en coûtera pour cela quelques faveurs, et quelques baisers que je veux bien dépenser pour vous ; Allez, reposez-vous sur moi, dormez seulement en repos, il est tard, je crains qu'on ait affaire de moi ; j'entends qu'on m'appelle, retirez-vous, adieu bonsoir, je vais songer à vous.
 
-**** *book_ *id_i *date_1675 *creator_moliere
+**** *book_ *id_Ib *date_1675 *creator_moliere
 
 Premier Intermède
 
@@ -2477,7 +2477,7 @@ Je vous amène ici un divertissement que j'ai rencontré, qui dissipera votre ch
 Ce sont des Égyptiens vêtus en Maures, qui font des danses mêlées de chansons, où je suis sûr que vous prendrez plaisir, et cela vaudra bien une Ordonnance de Monsieur Purgon.
 Allons.
 
-**** *book_ *id_ii *date_1675 *creator_moliere
+**** *book_ *id_IIb *date_1675 *creator_moliere
 
 Second Intermède
 
@@ -3426,7 +3426,7 @@ Y consentez-vous ?
 -*who_angelique
 Il le faut bien.
 
-**** *book_ *id_iii *date_1675 *creator_moliere
+**** *book_ *id_IIIb *date_1675 *creator_moliere
 
 Troisième Intermède
 

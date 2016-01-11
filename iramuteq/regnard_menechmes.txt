@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_i *date_1700
+**** *book_ *id_a01 *act_a *date_1700
 
 -*who_mercure
 Honneur au seigneur Apollon.
@@ -164,7 +164,7 @@ Il ne faut pas de longs discours.
 Laissons les compliments aux hommes ;
 Ils en sont les dupes toujours.
 
-**** *book_ *id_I02 *act_i *date_1700
+**** *book_ *id_a02 *act_a *date_1700
 
 -*who_apollon
 Pendant que tu vivais, je t'ai comblé de gloire,
@@ -309,7 +309,7 @@ Pour mettre la pièce en état.
 Et moi, je vais commencer ma carrière,
 Et rendre au monde son éclat.
 
-**** *book_ *id_I03 *act_i *date_1700
+**** *book_ *id_a03 *act_a *date_1700
 
 -*who_mercure
 Messieurs, ne soyez point en peine
@@ -336,7 +336,7 @@ C'est payer trop, en vérité,
 Quelques moments de complaisance ;
 Mais un dieu doit user de générosité.
 
-**** *book_ *id_II01 *act_I *date_1700
+**** *book_ *id_I01 *act_I *date_1700
 
 -*who_le_chevalier
 Je suis tout hors de moi. Maudit soit le valet !
@@ -345,7 +345,7 @@ Je ne puis plus longtemps souffrir sa négligence ;
 Tous les jours le coquin lasse ma patience.
 Il sait que je l'attends.
 
-**** *book_ *id_II02 *act_I *date_1700
+**** *book_ *id_I02 *act_I *date_1700
 
 -*who_le_chevalier
       Mais enfin je le vois.
@@ -678,7 +678,7 @@ Incertain du succès, je la veux ménager.
 Retourne à la douane, au coche, au messager.
 Mais Araminte sort. Va vite où je t'envoie.
 
-**** *book_ *id_II03 *act_I *date_1700
+**** *book_ *id_I03 *act_I *date_1700
 
 -*who_araminte
 Nous reverrons Ménechme aujourd'hui : quelle joie !
@@ -817,7 +817,7 @@ Allez. Je vous attends avec impatience.
 -*who_le_chevalier
 Ici, dans un moment, je reviens sur mes pas.
 
-**** *book_ *id_II04 *act_I *date_1700
+**** *book_ *id_I04 *act_I *date_1700
 
 -*who_araminte
 L'amour qu'il a pour moi ne s'imagine pas :
@@ -829,7 +829,7 @@ Comment le trouves-tu ?
 Son valet Valentin n'est pas mal fait aussi :
 Nous nous aimons un peu.
 
-**** *book_ *id_II05 *act_I *date_1700
+**** *book_ *id_I05 *act_I *date_1700
 
 -*who_finette
       Mais quelqu'un vient ici.
@@ -907,7 +907,7 @@ Les enfants que j'aurai, vous et ma nièce. Adieu.
 C'est moi qui vous le dis ; m'entendez-vous, mon frère ?
 Allons, Finette, allons.
 
-**** *book_ *id_II06 *act_I *date_1700
+**** *book_ *id_I06 *act_I *date_1700
 
 -*who_demophon
       Le joli caractère !
@@ -918,7 +918,7 @@ Ou prenez, s'il vous plaît, de meilleurs almanachs.
 Ma maîtresse est encor, malgré vous, jeune et belle ;
 Et tous les connaisseurs vous la soutiendront telle.
 
-**** *book_ *id_II07 *act_I *date_1700
+**** *book_ *id_I07 *act_I *date_1700
 
 -*who_demophon
 Je jugeais à peu près quels seraient ses discours ;
@@ -928,7 +928,7 @@ Pour rendre, s'il se peut, les affaires bien sûres.
 Si l'homme en question est tel qu'on me l'a dit,
 Terminons au plus tôt l'hymen dont il s'agit.
 
-**** *book_ *id_III01 *act_II *date_1700
+**** *book_ *id_II01 *act_II *date_1700
 
 -*who_valentin
 Votre frère est trouvé, mais ce n'est pas sans peine ;
@@ -1069,7 +1069,7 @@ Mais, dis-moi cependant...
       Je n'ai rien à vous dire ;
 De tout, dans un moment, je saurai vous instruire.
 
-**** *book_ *id_III02 *act_II *date_1700
+**** *book_ *id_II02 *act_II *date_1700
 
 -*who_valentin
 À la fin vous voilà, monsieur. Depuis longtemps,
@@ -1173,7 +1173,7 @@ Qu'on nomme Robertin ?
 Vous ne pouvez pas mieux vous adresser qu'à moi :
 Il est de mes amis, et nous irons ensemble.
 
-**** *book_ *id_III03 *act_II *date_1700
+**** *book_ *id_II03 *act_II *date_1700
 
 -*who_valentin
 Mais j'aperçois Finette. Ah ! Juste ciel ! Je tremble
@@ -1340,7 +1340,7 @@ Adieu, digne valet d'un trop indigne maître :
 J'espère que dans peu nous nous ferons connaître.
 Je ne le connais plus, et ne sais où j'en suis.
 
-**** *book_ *id_III04 *act_II *date_1700
+**** *book_ *id_II04 *act_II *date_1700
 
 -*who_meneschme
 Quelle ville, bon Dieu ! Quel étrange pays !
@@ -1367,7 +1367,7 @@ Où les cœurs les plus fiers enfin se laissent prendre.
 -*who_meneschme
 Votre conseil est bon ; entrons sans plus attendre.
 
-**** *book_ *id_III05 *act_II *date_1700
+**** *book_ *id_II05 *act_II *date_1700
 
 -*who_araminte
 Non, je ne croirai point ce que tu me dis là.
@@ -1516,7 +1516,7 @@ Va, n'attends plus de moi que haine et que rigueurs.
 -*who_meneschme
 Bon ! Je me passerai fort bien de vos faveurs.
 
-**** *book_ *id_III06 *act_II *date_1700
+**** *book_ *id_II06 *act_II *date_1700
 
 -*who_finette
 Ah ! Maudit renégat, le plus méchant du monde !
@@ -1529,7 +1529,7 @@ Et ce n'est plus lui-même.
       Adieu donc, mes princesses :
 Choisissez mieux vos gens pour placer vos tendresses.
 
-**** *book_ *id_III07 *act_II *date_1700
+**** *book_ *id_II07 *act_II *date_1700
 
 -*who_meneschme
 Mais voyez quelle rage et quel déchaînement ?
@@ -1556,7 +1556,7 @@ Je vous y conduirai, si vous le trouvez bon.
 -*who_meneschme
 Adieu, jusqu'au revoir.
 
-**** *book_ *id_III08 *act_II *date_1700
+**** *book_ *id_II08 *act_II *date_1700
 
 -*who_valentin
       Je vais trouver mon maître,
@@ -1564,7 +1564,7 @@ Savoir en quel état les choses peuvent être ;
 S'il agit de sa part ; s'il a bon air en deuil.
 Courage, Valentin ; ferme ; bon pied, bon œil.
 
-**** *book_ *id_IV01 *act_III *date_1700
+**** *book_ *id_III01 *act_III *date_1700
 
 -*who_valentin
 Rien n'est plus surprenant ; et votre ressemblance
@@ -1627,7 +1627,7 @@ L'aventure est plaisante, et j'en ris à mon tour.
 Mais voyons le beau-père, et servons notre amour.
 Heurte vite.
 
-**** *book_ *id_IV02 *act_III *date_1700
+**** *book_ *id_III02 *act_III *date_1700
 
 -*who_valentin
       Êtes-vous, monsieur, un honnête homme
@@ -1715,7 +1715,7 @@ Et pour voir à mes lois combien elle défère,
 Mettez-vous à l'écart, je m'en vais l'appeler ;
 Et, sans être aperçu, vous l'entendrez parler.
 
-**** *book_ *id_IV03 *act_III *date_1700
+**** *book_ *id_III03 *act_III *date_1700
 
 -*who_le_chevalier
 Laissez-moi seul ici ; va-t'en trouver mon frère :
@@ -1732,7 +1732,7 @@ Que vous soyez succinct en discours amoureux.
 -*who_le_chevalier
 Va vite ; je ne suis qu'un moment en ces lieux.
 
-**** *book_ *id_IV04 *act_III *date_1700
+**** *book_ *id_III04 *act_III *date_1700
 
 -*who_demophon
 Isabelle, approchez.
@@ -1829,7 +1829,7 @@ Et votre œil sans dédain s'accoutume à me voir ?
 -*who_isabelle
 Mon père me l'ordonne, et je suis mon devoir.
 
-**** *book_ *id_IV05 *act_III *date_1700
+**** *book_ *id_III05 *act_III *date_1700
 
 -*who_araminte
 Ah ! Te voilà donc, traître ! Avec quelle impudence
@@ -1902,7 +1902,7 @@ Je reviens sur mes pas achever ma visite.
 -*who_araminte
 Ne crois pas m'échapper.
 
-**** *book_ *id_IV06 *act_III *date_1700
+**** *book_ *id_III06 *act_III *date_1700
 
 -*who_araminte
       Je connais vos desseins,
@@ -1911,7 +1911,7 @@ Mais je veux l'épouser en dépit de la fille,
 Du père, des parents, de toute la famille,
 En dépit de lui-même, et de moi-même aussi.
 
-**** *book_ *id_IV07 *act_III *date_1700
+**** *book_ *id_III07 *act_III *date_1700
 
 -*who_demophon
 Quel vertigo l'agite et la conduit ici ?
@@ -1924,7 +1924,7 @@ Il est vrai que souvent pour elle j'en ai honte.
 Je crains que cette femme, avec sa brusque humeur,
 Ne soit venue ici causer quelque malheur.
 
-**** *book_ *id_IV08 *act_III *date_1700
+**** *book_ *id_III08 *act_III *date_1700
 
 -*who_valentin
 Oui, monsieur, les voilà, la fille avec le père :
@@ -2061,7 +2061,7 @@ Mon père, permettez que je quitte la place :
 Monsieur me flatte trop ; ses tendres compliments
 Me font connaître assez quels sont ses sentiments.
 
-**** *book_ *id_IV09 *act_III *date_1700
+**** *book_ *id_III09 *act_III *date_1700
 
 -*who_demophon
 Mon gendre avait d'abord de plus belles manières.
@@ -2098,7 +2098,7 @@ Soit. Je vais travailler à l'hymen projeté.
 Mon gendre prétendu me paraît bien sauvage ;
 Mais le bien qu'il apporte est un grand avantage.
 
-**** *book_ *id_IV10 *act_III *date_1700
+**** *book_ *id_III10 *act_III *date_1700
 
 -*who_meneschme
 J'ai donc vu là l'objet dont je serai l'époux ?
@@ -2116,7 +2116,7 @@ De ses perfections je n'ai pas l'âme atteinte :
 -*who_meneschme
 Ma foi, ni moi non plus.
 
-**** *book_ *id_IV11 *act_III *date_1700
+**** *book_ *id_III11 *act_III *date_1700
 
 -*who_valentin
       Quel surcroît d'embarras !
@@ -2292,7 +2292,7 @@ Oui, je pars : mais peut-être, avant qu'il soit une heure,
 Je lui ferai changer de ton et de demeure.
 Serviteur.
 
-**** *book_ *id_IV12 *act_III *date_1700
+**** *book_ *id_III12 *act_III *date_1700
 
 -*who_valentin
       Contre un fou fallait-il vous fâcher ?
@@ -2316,7 +2316,7 @@ Tout est devenu fou, je crois, dans cette ville.
 Ma foi, de tous les gens que j'ai vus aujourd'hui,
 Je n'ai trouvé que moi de raisonnable, et lui.
 
-**** *book_ *id_IV13 *act_III *date_1700
+**** *book_ *id_III13 *act_III *date_1700
 
 -*who_valentin
 Je prétends l'observer autour de cette place.
@@ -2324,7 +2324,7 @@ Le poisson, de lui-même, entre dans notre nasse :
 Tout succède à mes vœux, et j'espère, en ce jour,
 Servir utilement la Fortune et l'Amour.
 
-**** *book_ *id_V01 *act_IV *date_1700
+**** *book_ *id_IV01 *act_IV *date_1700
 
 -*who_valentin
 J'ai toujours observé cette porte de vue ;
@@ -2338,7 +2338,7 @@ Je ris, lorsque je pense à ce qui s'est passé :
 Je les ai mis aux mains d'une ardeur assez vive.
 Parbleu, vive les gens pleins d'imaginative !
 
-**** *book_ *id_V02 *act_IV *date_1700
+**** *book_ *id_IV02 *act_IV *date_1700
 
 -*who_valentin
 Mais j'aperçois Finette ; et mon cœur amoureux
@@ -2448,7 +2448,7 @@ J'en suis d'avis.
       Pour toi ma tendresse est extrême.
 Mais quelqu'un vient ici.
 
-**** *book_ *id_V03 *act_IV *date_1700
+**** *book_ *id_IV03 *act_IV *date_1700
 
 -*who_valentin
       C'est Ménechme lui-même.
@@ -2604,7 +2604,7 @@ Eh bien ! Jusqu'à ce temps je veux encore attendre ;
 Mais si l'on manque après à me faire raison,
 Je reviens, et je mets le feu dans la maison.
 
-**** *book_ *id_V04 *act_IV *date_1700
+**** *book_ *id_IV04 *act_IV *date_1700
 
 -*who_meneschme
 Mais peut-on sur les gens être tant acharnée ?
@@ -2616,7 +2616,7 @@ Quand on est, comme vous, jeune, aimable et bien fait,
 Entre amants, tel dépit n'est qu'une bagatelle ;
 Je veux, dès aujourd'hui, vous remettre avec elle.
 
-**** *book_ *id_V05 *act_IV *date_1700
+**** *book_ *id_IV05 *act_IV *date_1700
 
 -*who_valentin
 Mais je vois le Marquis ; il tourne ici ses pas.
@@ -2785,7 +2785,7 @@ Né m'approchez jamais qué dé loin... Plus d'affaire.
 Jé serais dégradé dé noblesse chez nous,
 Si j'étais accosté d'un lâche tel qué vous.
 
-**** *book_ *id_V06 *act_IV *date_1700
+**** *book_ *id_IV06 *act_IV *date_1700
 
 -*who_meneschme
 Je lui conseille encor de me chanter injure.
@@ -2807,7 +2807,7 @@ Je vous suis obligé des services rendus :
 Et j'appréhende encor, dans mon soupçon extrême,
 D'être d'intelligence à me tromper moi-même.
 
-**** *book_ *id_V07 *act_IV *date_1700
+**** *book_ *id_IV07 *act_IV *date_1700
 
 -*who_valentin
 Le pauvre diable en a, par ma foi, tout son soûl ;
@@ -2815,7 +2815,7 @@ Il faudra qu'il décampe, ou qu'il devienne fou ;
 Pour peu de temps encor qu'en ces lieux il habite,
 De tous ses créanciers mon maître sera quitte.
 
-**** *book_ *id_V08 *act_IV *date_1700
+**** *book_ *id_IV08 *act_IV *date_1700
 
 -*who_le_chevalier
 Ah ! Mon cher Valentin, tu me vois hors de moi ;
@@ -2876,7 +2876,7 @@ Isabelle est sortie à tel point courroucée...
 -*who_le_chevalier
 Il faut de cette erreur détromper sa pensée.
 
-**** *book_ *id_V09 *act_IV *date_1700
+**** *book_ *id_IV09 *act_IV *date_1700
 
 -*who_le_chevalier
 Mais je la vois paraître. Où tournez-vous vos pas,
@@ -3012,7 +3012,7 @@ Que madame à présent en paix rentre chez elle.
 Nous, courons au contrat ; et qu'un heureux destin,
 Comme il a commencé, mette l'affaire à fin.
 
-**** *book_ *id_VI01 *act_V *date_1700
+**** *book_ *id_V01 *act_V *date_1700
 
 -*who_finette
 Je vous dis vrai, madame, et je ne saurais croire
@@ -3076,7 +3076,7 @@ Je voudrais l'appliquer à ma propre personne ;
 Et rester vieille fille est un mal plus affreux
 Que tout ce que l'hymen a de plus dangereux.
 
-**** *book_ *id_VI02 *act_V *date_1700
+**** *book_ *id_V02 *act_V *date_1700
 
 -*who_demophon
 Le hasard justement en ce lieu vous amène ;
@@ -3132,7 +3132,7 @@ On verra qui de nous y réussira mieux.
 -*who_demophon
 Oh ! Je suis à la fin bien las de vous entendre.
 
-**** *book_ *id_VI03 *act_V *date_1700
+**** *book_ *id_V03 *act_V *date_1700
 
 -*who_demophon
 Heureusement ici je vois venir mon gendre.
@@ -3214,7 +3214,7 @@ Cette femme a fait vœu de me désespérer.
 Esprit, démon, lutin, ombre, femme ou furie,
 Qui que tu sois enfin, laisse-moi, je te prie.
 
-**** *book_ *id_VI04 *act_V *date_1700
+**** *book_ *id_V04 *act_V *date_1700
 
 -*who_demophon
 Ah ! Monsieur Robertin, vous venez justement ;
@@ -3374,7 +3374,7 @@ Oui, c'est un scélérat, qui du crime fait gloire.
 Faites-lui son procès ; et, s'il en est besoin,
 Je servirai toujours contre lui de témoin.
 
-**** *book_ *id_VI05 *act_V *date_1700
+**** *book_ *id_V05 *act_V *date_1700
 
 -*who_valentin
 Hé ! Qu'est-ce donc, messieurs ? Voilà bien du grabuge !
@@ -3426,7 +3426,7 @@ De vomir sur la terre, en sa rage exécrable,
 Des hommes, des démons si méchants que vous tous ;
 Et... je ne puis parler, tant je suis en courroux.
 
-**** *book_ *id_VI06 *act_V *date_1700
+**** *book_ *id_V06 *act_V *date_1700
 
 -*who_le_chevalier
 Ma présence, je crois, est ici nécessaire,

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1671 *creator_moliere
+**** *book_ *id_a *date_1671 *creator_moliere
 
 Prologue
 
@@ -181,8 +181,6 @@ Et ne me revois point que je ne sois vengée.
 
 **** *book_ *id_I01 *act_I *date_1671 *creator_moliere
 
-
-
 -*who_aglaure
 Il est des maux, ma Sœur, que le silence aigrit,
 Laissons, laissons parler mon chagrin et le vôtre,
@@ -288,7 +286,7 @@ Qu'il faut que là-dessous soit caché du mystère :
 Ce secret de tout enflammer
 N'est point de la Nature un effet ordinaire ;
 L'Art de la Thessalie entre dans cette affaire,
-270 Et quelque main a su sans doute lui former
+270Et quelque main a su sans doute lui former
 Un charme pour se faire aimer.
 
 -*who_aglaure
@@ -345,8 +343,6 @@ Leur pourrait donner son cœur.
 
 **** *book_ *id_I02 *act_I *date_1671 *creator_moliere
 
-
-
 -*who_aglaure
 Les voici tous deux, et j'admire
 Leur air et leur ajustement.
@@ -373,7 +369,7 @@ Mais nous cherchons Psyché dans notre impatience.
 
 -*who_cidippe
 Quelque chose de bien pressant
-325 Vous doit à la chercher pousser tous deux sans doute.
+325Vous doit à la chercher pousser tous deux sans doute.
 
 -*who_cleomene
 Le motif est assez puissant,
@@ -463,8 +459,6 @@ De ne pouvoir en profiter.
 Il faut que le pouvoir de Psyché… La voici.
 
 **** *book_ *id_I03 *act_I *date_1671 *creator_moliere
-
-
 
 -*who_cidippe
 Venez jouir, ma Sœur, de ce qu'on vous apprête.
@@ -615,8 +609,6 @@ Si la possession d'un mérite si haut...
 
 **** *book_ *id_I04 *act_I *date_1671 *creator_moliere
 
-
-
 -*who_lycas
 Ah, Madame !
 
@@ -659,8 +651,6 @@ Allons savoir sur quoi l'on craint tant ma faiblesse.
 
 **** *book_ *id_I05 *act_I *date_1671 *creator_moliere
 
-
-
 -*who_aglaure
 Si ton ordre n'est pas jusqu'à nous étendu,
 Dis-nous quel grand malheur nous couvre ta tristesse.
@@ -687,8 +677,6 @@ Tous les Dieux nous pouvaient expliquer leur colère.
 
 **** *book_ *id_I06 *act_I *date_1671 *creator_moliere
 
-
-
 -*who_cidippe
 Ma Sœur, que sentez-vous à ce soudain malheur
 Où nous voyons Psyché par les Destins plongée ?
@@ -706,7 +694,7 @@ Qui ressemble assez à la joie.
 Allons, le Destin nous envoie
 Un mal que nous pouvons regarder comme un bien.
 
-**** *book_ *id_i *date_1671 *creator_moliere
+**** *book_ *id_Ib *date_1671 *creator_moliere
 
 Premier Intermède
 
@@ -744,9 +732,7 @@ Alto impero ne sforza,
 Ove commanda il Ciel, l'Huom cede a forza.
 Ahi dolore ! etc. Come sopra.
 
-**** *book_ *id_II-01 *act_II *date_1671 *creator_moliere
-
-
+**** *book_ *id_II01 *act_II *date_1671 *creator_moliere
 
 -*who_psyche
 De vos larmes, Seigneur, la source m'est bien chère ;
@@ -829,7 +815,7 @@ Où placer toutes ses douceurs.
 
 -*who_le_roi
 Ah, de mes maux soulagement frivole !
-640 Rien, rien ne s'offre à moi qui de toi me console ;
+640Rien, rien ne s'offre à moi qui de toi me console ;
 C'est sur mes déplaisirs que j'ai les yeux ouverts,
 Et dans un destin si funeste
 Je regarde ce que je perds,
@@ -935,12 +921,10 @@ Voici l'instant fatal de m'arracher de toi :
 Mais comment prononcer ce mot épouvantable ?
 Il le faut toutefois, le Ciel m'en fait la loi,
 Une rigueur inévitable
-730 M'oblige à te laisser en ce funeste lieu.
+730M'oblige à te laisser en ce funeste lieu.
 Adieu : je vais… Adieu.
 
-**** *book_ *id_II-02 *act_II *date_1671 *creator_moliere
-
-
+**** *book_ *id_II02 *act_II *date_1671 *creator_moliere
 
 -*who_psyche
 Suivez le Roi, mes sœurs, vous essuierez ses larmes,
@@ -983,7 +967,7 @@ Vous lui devez chacune un Gendre, et des Neveux,
 Mille Rois à l'envi vous gardent leur tendresse,
 Mille Rois à l'envi vous offriront leurs vœux :
 L'Oracle me veut seule, et seule aussi je veux
-770 Mourir, si je puis, sans faiblesse,
+770Mourir, si je puis, sans faiblesse,
 Ou ne vous avoir pas pour témoins toutes deux
 De ce que malgré moi la Nature m'en laisse.
 
@@ -1008,7 +992,7 @@ En dépit de l'Oracle et malgré vous espère.
 Adieu. C'est un espoir, ma sœur, et des souhaits,
 Qu'aucun des Dieux ne remplira jamais.
 
-**** *book_ *id_II-03 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1671 *creator_moliere
 
 -*who_psyche
 Enfin, seule, et toute à moi-même,
@@ -1032,13 +1016,11 @@ Pour n'avoir à leurs vœux rendu que de l'estime ?
 Si vous m'imposiez cette loi,
 Qu'il fallût faire un choix pour ne pas vous déplaire,
 Puisque je ne pouvais le faire,
-805 Que ne le faisiez-vous pour moi ?
+805Que ne le faisiez-vous pour moi ?
 Que ne m'inspiriez-vous ce qu'inspire à tant d'autres
 Le mérite, l'amour, et… Mais que vois-je ici ?
 
-**** *book_ *id_II-04 *act_II *date_1671 *creator_moliere
-
-
+**** *book_ *id_II04 *act_II *date_1671 *creator_moliere
 
 -*who_cleomene
 Deux Amis, deux Rivaux, dont l'unique souci
@@ -1157,7 +1139,7 @@ Prince, les moyens de la suivre.
 -*who_cleomene
 Allons-y chercher ceux de ne lui point survivre.
 
-**** *book_ *id_II-05 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1671 *creator_moliere
 
 -*who_amour
 Allez mourir, Rivaux d'un dieu jaloux,
@@ -1168,7 +1150,7 @@ Pour orner un Palais,
 Où l'Amour de Psyché veut essuyer les larmes,
 Et lui rendre les armes.
 
-**** *book_ *id_ii *date_1671 *creator_moliere
+**** *book_ *id_IIb *date_1671 *creator_moliere
 
 Second Intermède
 Dépêchez, préparez ces lieux
@@ -1191,9 +1173,7 @@ On n'a jamais fait assez tôt.
 L'Amour ne veut point qu'on diffère,
 Travaillez, etc.
 
-**** *book_ *id_III-01 *act_III *date_1671 *creator_moliere
-
-
+**** *book_ *id_III01 *act_III *date_1671 *creator_moliere
 
 -*who_zephire
 Oui, je me suis galamment acquitté
@@ -1241,7 +1221,7 @@ De beauté sans seconde ?
 Mais je la vois, mon cher Zéphire,
 Qui demeure surprise à l'éclat de ces lieux.
 
-**** *book_ *id_III-02 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1671 *creator_moliere
 
 -*who_psyche
 Où suis-je ? et dans un lieu que je croyais barbare,
@@ -1282,9 +1262,7 @@ Contre un châtiment légitime,
 Je suis lasse de soupirer :
 Viens, que j'achève d'expirer.
 
-**** *book_ *id_III-03 *act_III *date_1671 *creator_moliere
-
-
+**** *book_ *id_III03 *act_III *date_1671 *creator_moliere
 
 -*who_amour
 Le voilà ce Serpent, ce Monstre impitoyable,
@@ -1501,11 +1479,9 @@ Qui pour âmes n'avez que de tendres soupirs,
 Montrez tous à l'envi ce qu'à voir ma Princesse
 Vous avez senti d'allégresse.
 
-**** *book_ *id_iii *date_1671 *creator_moliere
+**** *book_ *id_IIIb *date_1671 *creator_moliere
 
 Troisième Intermède
-
-
 
 -*who_zephyr
 Aimable jeunesse,
@@ -1591,9 +1567,7 @@ En aimant,
 On est payé de mille maux
 Par un heureux moment.
 
-**** *book_ *id_IV-01 *act_IV *date_1671 *creator_moliere
-
-
+**** *book_ *id_IV01 *act_IV *date_1671 *creator_moliere
 
 -*who_aglaure
 Je n'en puis plus, ma Sœur, j'ai vu trop de merveilles,
@@ -1683,9 +1657,7 @@ Cette adorable intelligence.
 La voici. J'ai des coups tous prêts à lui porter,
 Qu'elle aura peine d'éviter.
 
-**** *book_ *id_IV-02 *act_IV *date_1671 *creator_moliere
-
-
+**** *book_ *id_IV02 *act_IV *date_1671 *creator_moliere
 
 -*who_psyche
 Je viens vous dire Adieu, mon Amant vous renvoie,
@@ -1796,9 +1768,7 @@ Et quand vous lui peindrez un si charmant Empire...
 Nous savons toutes deux ce qu'il faut taire, ou dire,
 Et n'avons pas besoin sur ce point de leçons.
 
-**** *book_ *id_IV-03 *act_IV *date_1671 *creator_moliere
-
-
+**** *book_ *id_IV03 *act_IV *date_1671 *creator_moliere
 
 -*who_amour
 Enfin vous êtes seule, et je puis vous redire,
@@ -1965,11 +1935,9 @@ Le Destin sous qui le Ciel tremble,
 Plus fort que mon amour, que tous les Dieux ensemble,
 Vous va montrer sa haine, et me chasse d'ici.
 
-**** *book_ *id_IV-04 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1671 *creator_moliere
 
 PSYCHÉ, LE DIEU DU FLEUVE.
-
-
 
 -*who_psyche
 Cruel Destin ! funeste inquiétude !
@@ -2022,9 +1990,7 @@ Qu'auront-elles pour moi qui ne me soit trop doux ?
 Qui cherche le trépas, ne craint Dieux, ni Déesses,
 Et peut braver tout leur courroux.
 
-**** *book_ *id_IV-05 *act_IV *date_1671 *creator_moliere
-
-
+**** *book_ *id_IV05 *act_IV *date_1671 *creator_moliere
 
 -*who_venus
 Orgueilleuse Psyché, vous m'osez donc attendre,
@@ -2115,7 +2081,7 @@ Vous portait cette ambition ;
 Venez, et préparez autant de patience,
 Qu'on vous voit de présomption.
 
-**** *book_ *id_V-01 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1671 *creator_moliere
 
 -*who_psyche
 Effroyables replis des ondes infernales,
@@ -2164,9 +2130,7 @@ Mais que me veulent ces deux Ombres
 Qu'à travers le faux jour de ces Demeures sombres
 J'entrevois s'avancer vers moi ?
 
-**** *book_ *id_V-02 *act_V *date_1671 *creator_moliere
-
-
+**** *book_ *id_V02 *act_V *date_1671 *creator_moliere
 
 -*who_psyche
 Cléomène, Agénor, est-ce vous que je vois ?
@@ -2255,7 +2219,7 @@ Sur nos fantômes qu'il inspire,
 Et dont aux Enfers même il se fait une Cour.
 
 -*who_agenor
-Vos envieuses Sœurs après nous descendues 1775
+Vos envieuses Sœurs après nous descendues1775
 Pour vous perdre se sont perdues,
 Et l'une et l'autre tour à tour,
 Pour le prix d'un conseil qui leur coûte la vie,
@@ -2285,7 +2249,7 @@ Et rallumant un feu qui ne se puisse éteindre,
 Affranchir à jamais l'éclat de vos beaux yeux
 D'augmenter le jour en ces lieux.
 
-**** *book_ *id_V-03 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1671 *creator_moliere
 
 -*who_psyche
 Pauvres Amants ! leur amour dure encore,
@@ -2321,9 +2285,7 @@ Et que vois-je sortir de cette Boîte ouverte ?
 Amour, si ta pitié ne s'oppose à ma perte,
 Pour ne revivre plus, je descends au tombeau.
 
-**** *book_ *id_V-04 *act_V *date_1671 *creator_moliere
-
-
+**** *book_ *id_V04 *act_V *date_1671 *creator_moliere
 
 -*who_amour
 Votre péril, Psyché, dissipe ma colère,
@@ -2369,9 +2331,7 @@ Et choisirai partout à vos vœux les plus doux
 Des Adonis et des Anchises,
 Qui n'auront que haine pour vous.
 
-**** *book_ *id_V-05 *act_V *date_1671 *creator_moliere
-
-
+**** *book_ *id_V05 *act_V *date_1671 *creator_moliere
 
 -*who_venus
 La menace est respectueuse,
@@ -2497,9 +2457,7 @@ En faveur d'une autre se passe.
 Jupiter qui paraît va juger entre nous
 De mes emportements, et de votre courroux.
 
-Scène Dernière
-
-
+**** *book_ *id_V06 *act_V *date_1671 *creator_moliere
 
 -*who_amour
 Vous à qui seul tout est possible,
@@ -2659,9 +2617,7 @@ Il est le seul que j'épargne aujourd'hui ;
 Il n'appartient qu'à lui
 De n'épargner personne.
 
-Composée de quatre Polichinelles et de deux Matassins qui suivent Mome, et viennent jouer leur plaisanterie et leur badinage aux divertissement de cette grande Fête
-
-
+**** *book_ *id_V07 *act_V *date_1671 *creator_moliere
 
 -*who_bacchus
 Admirons le jus de la Treille :
@@ -2695,9 +2651,7 @@ Cherchons de doux amusements ;
 Parmi les Jeux les plus charmants,
 Mêlons l'image de la Guerre.
 
-DERNIÈRE ENTRÉE DE BALLET
-
-
+**** *book_ *id_V08 *act_V *date_1671 *creator_moliere
 
 -*who_choeur
 Chantons les plaisirs charmants

@@ -64,11 +64,12 @@ class Dramacode
     ),
   );
   static $formats = array(
-    'html' => '.html',
-    'md' => '.md',
-    'iramuteq' => '.txt',
-    // 'docx' => '.docx',
     'epub' => '.epub',
+    'kindle' => '.mobi',
+    'markdown' => '.md',
+    'iramuteq' => '.txt',
+    'html' => '.html',
+    // 'docx' => '.docx',
   );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
   static $create = "
@@ -133,7 +134,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     foreach (self::$formats as $format => $extension) {
       $destfile = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.$extension;
       if (!$force && file_exists($destfile) && $teinte->filemtime < filemtime($destfile)) continue;
-      $echo .= " ".basename($destfile);
+      $echo .= " ".$format;
       // TODO git $destfile
       if ($format == 'html') $teinte->html($destfile, 'http://oeuvres.github.io/Teinte/');
       else if ($format == 'md') $teinte->md($destfile);
@@ -141,6 +142,14 @@ CREATE INDEX play_year_author ON play(year, author, title);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, STDERR);
         $livre->epub($destfile);
+        // transformation auto en kindle
+        $cmd = dirname(__FILE__)."/kindlegen ".$destfile;
+        exec ($cmd, $output);
+        rename(
+          dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi", 
+          dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi"
+        );
+        $echo .= " kindle";
       }
       else if ($format == 'docx') {
         Toff_Tei2docx::docx($srcfile, $destfile);

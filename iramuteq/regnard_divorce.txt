@@ -1,19 +1,19 @@
 
 
-**** *book_ *id_i01 *act_i *date_1688
+**** *book_ *id_a01 *act_a *date_1688
 
 -*who_arlequin
 Hé !Que diable, messieurs, ne sauriez-vous mieux prendre votre temps pour être malades ?Cela est de la dernière impertinence, de se trouver mal quand il faut gagner de l'argent.Que voulez-vous que je fasse de tout ce monde-là ?
 Messieurs, ce que je vais vous dire vous déplaira peut-être ; mais, en vérité, j'en suis plus fâché que vous, et personne n'y perd tant que moi.Nous ne pouvons pas jouer la comédie aujourd'hui ; voilà notre portier qui vient de se trouver mal, et Pantalon, qui devait faire un rôle de Patrocle, est indisposé.On va vous rendre votre argent à la porte.Vous voyez, messieurs, que nous ne suivons pas les mauvais exemples, et que nous rendons l'argent, quoique la comédie soit commencée.
 
-**** *book_ *id_i02 *act_i *date_1688
+**** *book_ *id_a02 *act_a *date_1688
 
 -*who_mercure
 Terminez vos regrets, que votre douleur cesse ;
 Dans votre sort Jupiter s'intéresse,
 Et vient pour empêcher que tu rendes l'argent.
 
-**** *book_ *id_i03 *act_i *date_1688
+**** *book_ *id_a03 *act_a *date_1688
 
 -*who_mercure
 Je le vois qui descend.

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_i01 *act_i *date_1689
+**** *book_ *id_a01 *act_a *date_1689
 
 -*who_piete
 Du séjour bienheureux de la Divinité,

@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_amants-magnifiques *id_i *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_a *date_1670 *creator_moliere
 
 Premier intermède
 
@@ -717,7 +717,7 @@ Je pense, Madame, qu'on m'a demandée par compliment, et on ne s'inquiète pas t
 On enchaîne pour nous ici tant de divertissements les uns aux autres, que toutes nos heures sont retenues, et nous n'avons aucun moment à perdre, si nous voulons les goûter tous.
 Entrons vite dans le Bois, et voyons ce qui nous y attend ; ce lieu est le plus beau du monde, prenons vite nos places.
 
-**** *book_moliere_amants-magnifiques *id_iii01 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb01 *act_IIb *date_1670 *creator_moliere
 
 -*who_nymphe
 Venez, grande Princesse, avec tous vos appas,
@@ -727,7 +727,7 @@ N'y cherchez point l'éclat des Fêtes de la Cour,
 On ne sent ici que l'amour,
 Ce n'est que d'amour qu'on y chante.
 
-**** *book_moliere_amants-magnifiques *id_iii02 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb02 *act_IIb *date_1670 *creator_moliere
 
 -*who_tircis
 Vous chantez sous ces feuillages,
@@ -738,7 +738,7 @@ Les échos de ces bocages :
 Hélas ! petits oiseaux, hélas !
 Si vous aviez mes maux vous ne chanteriez pas.
 
-**** *book_moliere_amants-magnifiques *id_iii03 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb03 *act_IIb *date_1670 *creator_moliere
 
 -*who_lycaste
 Hé quoi toujours languissant, sombre et triste ?
@@ -819,7 +819,7 @@ Gardons d'être vu d'elle,
 L'Ingrate, hélas !
 N'y viendrait pas.
 
-**** *book_moliere_amants-magnifiques *id_iii04 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb04 *act_IIb *date_1670 *creator_moliere
 
 -*who_caliste
 
@@ -854,7 +854,7 @@ Donnons-nous à lui toute entière,
 Nous n'avons point de Loi sévère
 Qui défende à nos sens d'en goûter la douceur.
 
-**** *book_moliere_amants-magnifiques *id_iii05 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb05 *act_IIb *date_1670 *creator_moliere
 
 -*who_tircis
 Vers ma belle ennemie
@@ -927,7 +927,7 @@ Digne prix de ta foi.
 -*who_menandre
 Ô sort digne d'envie !
 
-**** *book_moliere_amants-magnifiques *id_iii06 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb06 *act_IIb *date_1670 *creator_moliere
 
 -*who_satyre1
 Quoi tu me fuis, ingrate, et je te vois ici
@@ -963,7 +963,7 @@ Mêlez vos pas à nos sons,
 Et tracez sur les herbettes
 L'image de nos chansons.
 
-**** *book_moliere_amants-magnifiques *id_iii07 *act_iii *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_IIb07 *act_IIb *date_1670 *creator_moliere
 
 -*who_philinte
 Quand je plaisais à tes yeux
@@ -1512,7 +1512,7 @@ Peut-être, Madame, qu'on ne goûtera pas longtemps la joie du mépris que l'on 
 Je pardonne toutes ces menaces, aux chagrins d'un amour qui se croit offensé, et nous n'en verrons pas avec moins de tranquillité la Fête des jeux Pythiens.
 Allons-y de ce pas, et couronnons par ce pompeux spectacle cette merveilleuse journée.
 
-**** *book_moliere_amants-magnifiques *id_vi *date_1670 *creator_moliere
+**** *book_moliere_amants-magnifiques *id_Vb *date_1670 *creator_moliere
 
 Sixième intermède qui est la solennité des jeux Pythiens.
 
