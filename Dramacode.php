@@ -110,10 +110,15 @@ CREATE INDEX play_year_author ON play(year, author, title);
   private $_xslt;
   /** Vrai si dépendances vérifiées et chargées */
   private static $_deps;
+  /** A logger, maybe a stream or a callable, used by self::log() */
+  private static $_logger;
+  /** Log level */
+  public static $debug = true;
   /**
    * Constructeur de la base
    */
-  public function __construct($sqlitefile) {
+  public function __construct($sqlitefile, $logger) {
+    self::$_logger = $logger;
     $this->connect($sqlitefile);
     // create needed folders 
     foreach (self::$formats as $format => $extension) {
@@ -134,29 +139,35 @@ CREATE INDEX play_year_author ON play(year, author, title);
     foreach (self::$formats as $format => $extension) {
       $destfile = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.$extension;
       if (!$force && file_exists($destfile) && $teinte->filemtime < filemtime($destfile)) continue;
+      // delete destfile if exists ?
+      if (file_exists($destfile)) unlink($destfile);
       $echo .= " ".$format;
       // TODO git $destfile
       if ($format == 'html') $teinte->html($destfile, 'http://oeuvres.github.io/Teinte/');
       else if ($format == 'md') $teinte->md($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
-        $livre = new Livrable_Tei2epub($srcfile, STDERR);
+        $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
         $livre->epub($destfile);
         // transformation auto en kindle
         $cmd = dirname(__FILE__)."/kindlegen ".$destfile;
-        exec ($cmd, $output);
-        rename(
-          dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi", 
-          dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi"
-        );
-        $echo .= " kindle";
+        $last = exec ($cmd, $output, $status);
+        $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
+        // error ?
+        if (!file_exists($mobi)) {
+          self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
+        }
+        else {
+          rename( $mobi, dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi");
+          $echo .= " kindle";
+        }
       }
       else if ($format == 'docx') {
+        $echo .= " docx";
         Toff_Tei2docx::docx($srcfile, $destfile);
       }
     }
-    // TODO, mieux loguer
-    if ($echo) echo $srcfile.$echo."\n";
+    if ($echo) self::log(E_USER_NOTICE, $srcfile.$echo);
   }
   /**
    * Insertion de la pièce
@@ -328,6 +339,25 @@ CREATE INDEX play_year_author ON play(year, author, title);
     self::$_deps=true;
   }
   /**
+   * Custom error handler
+   * May be used for xsl:message coming from transform()
+   * To avoid Apache time limit, php could output some bytes during long transformations
+   */
+  static function log( $errno, $errstr=null, $errfile=null, $errline=null, $errcontext=null) {
+    $errstr=preg_replace("/XSLTProcessor::transform[^:]*:/", "", $errstr, -1, $count);
+    if ($count) { // is an XSLT error or an XSLT message, reformat here
+      if(strpos($errstr, 'error')!== false) return false;
+      else if ($errno == E_WARNING) $errno = E_USER_WARNING;
+    } 
+    // not a user message, let work default handler
+    else if ($errno != E_USER_ERROR && $errno != E_USER_WARNING && $errno != E_USER_NOTICE ) return false;
+    // a debug message in normal mode, do nothing
+    if ($errno == E_USER_NOTICE && !self::$debug) return true;
+    if (!self::$_logger);
+    else if (is_resource(self::$_logger)) fwrite(self::$_logger, $errstr."\n");
+    else if ( is_string(self::$_logger) && function_exists(self::$_logger)) call_user_func(self::$_logger, $errstr);
+  }
+  /**
    * Command line API 
    */
   static function cli() {
@@ -337,7 +367,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     
     // pas d’argument, on démarre sur les valeurs par défaut
     if (!count($_SERVER['argv'])) {
-      $base = new Dramacode('dramacode.sqlite');
+      $base = new Dramacode('dramacode.sqlite', STDERR);
       foreach(self::$sets as $setcode=>$setrow) {
         $glob = $setrow['glob'];
         foreach(glob($glob) as $file) {
@@ -348,8 +378,8 @@ CREATE INDEX play_year_author ON play(year, author, title);
     }
     // des arguments, on joue plus fin
     $sqlite = array_shift($_SERVER['argv']);
-    $base = new Dramacode($sqlite);
-    if (!count($_SERVER['argv'])) exit("\n    Quelles pièces XML/TEI éer ?\n");
+    $base = new Dramacode($sqlite,  STDERR);
+    if (!count($_SERVER['argv'])) exit("\n    Quel set insérer ?\n");
     $setcode = array_shift($_SERVER['argv']);
     foreach(glob(self::$sets[$setcode]['glob']) as $file) {
       $base->add($file, $setcode);

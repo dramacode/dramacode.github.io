@@ -375,7 +375,7 @@ Des chaleurs l'empêchaient de pouvoir sommeiller,
 Et jusqu'au jour, près d'elle, il nous fallut veiller.
 
 -*who_orgon
-      Et Tartuffe ?
+Et Tartuffe ?
 
 -*who_dorine
       Pressé d'un sommeil agréable,
