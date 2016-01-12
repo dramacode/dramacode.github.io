@@ -102,6 +102,8 @@ CREATE INDEX play_year_author ON play(year, author, title);
   public $pdo;
   /** Requête d’insertion d’une pièce */
   private $_insert;
+  /** Test de date d’une pièce */
+  private $_sqlmtime;
   /** Pièce XML/TEI en cours de traitement */
   private $_dom;
   /** Processeur xpath */
@@ -132,13 +134,20 @@ CREATE INDEX play_year_author ON play(year, author, title);
    * Produire les exports depuis le fichier XML
    */
   public function add($srcfile, $setcode=null, $force=false) {
-    $teinte = new Teinte_Doc($srcfile);
-    // ici on pourrait s’épargner les frais de renseigner la base en testant la date filemtime
-    $this->insert($teinte, $setcode);
+    $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
+    $srcmtime = filemtime($srcfile);
+    $this->_sqlmtime->execute(array($srcname));
+    list($basemtime) = $this->_sqlmtime->fetch();
+    $teinte = null;
+    if ($basemtime < $srcmtime) {
+      $teinte = new Teinte_Doc($srcfile);
+      $this->insert($teinte, $setcode);
+    }
     $echo = "";
     foreach (self::$formats as $format => $extension) {
-      $destfile = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.$extension;
-      if (!$force && file_exists($destfile) && $teinte->filemtime < filemtime($destfile)) continue;
+      $destfile = dirname(__FILE__).'/'.$format.'/'.$srcname.$extension;
+      if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
+      if (!$teinte) $teinte = new Teinte_Doc($srcfile);
       // delete destfile if exists ?
       if (file_exists($destfile)) unlink($destfile);
       $echo .= " ".$format;
@@ -304,7 +313,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     INSERT INTO play (code, filemtime, publisher, identifier, source, author, title, year, acts, verse, genrecode, genre)
               VALUES (?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
     ");
-
+    $this->_sqlmtime = $this->pdo->prepare("SELECT filemtime FROM play WHERE code = ?");
   }
   static function deps() {
     if(self::$_deps) return;
