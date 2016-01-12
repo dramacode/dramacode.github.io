@@ -144,7 +144,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
       $echo .= " ".$format;
       // TODO git $destfile
       if ($format == 'html') $teinte->html($destfile, 'http://oeuvres.github.io/Teinte/');
-      else if ($format == 'md') $teinte->md($destfile);
+      else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, self::$_logger);

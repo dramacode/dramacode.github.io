@@ -170,7 +170,7 @@ Quand il est question de se mettre en campagne,
 Et, pour ne vous en point mentir
 C'est le pur sang de Charlemagne.
 
-Dialogue entre les Siècles et Apollon
+**** *book_moliere_plaisirs-ile-enchantee *id_body-1-3 *act_I *date_1665 *creator_moliere
 
 Vingt Pasteurs, chargés des diverses pièces de la Barrière, qui devait être dressée pour la Course de Bague, formaient la dernière Troupe qui entra dans la Lice : Ils portaient des vestes couleur de feu enrichie d'argent, et des coiffures de même.
 
@@ -355,6 +355,8 @@ Les herbages de nos prairies,
 Nous devons ce bonheur à vos divins attraits.
 
 **** *book_moliere_plaisirs-ile-enchantee *id_II *date_1665 *creator_moliere
+
+SECONDE JOURNÉE DES PLAISIRS DE L'ÎLE ENCHANTÉE.
 
 Lorsque la nuit du second jour fut venue, Leurs Majestés se rendirent dans un autre rond environné de palissades comme le premier, et sur la même ligne, s'avançant toujours vers le Lac, où l'on feignait que le Palais d'Alcine était bâti.
 
