@@ -2570,7 +2570,7 @@ Vous n'êtes point Gentilhomme, vous n'aurez pas ma Fille.
 
 -*who_madame_jourdain
 Que voulez-vous donc dire avec votre Gentilhomme ?
-Est-ce que nous sommes, nous autres, de la Côte de saintLouis ?
+Est-ce que nous sommes, nous autres, de la Côte de saint Louis ?
 
 -*who_monsieur_jourdain
 Taisez-vous, ma Femme, je vous vois venir.

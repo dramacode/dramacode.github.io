@@ -83,7 +83,7 @@ Est-il perte à ce prix qui ne semble légère ?
 Et quand son assassin tombe sous notre effort,  
 Doit-on considérer ce que coûte sa mort ?  
 Cessez, vaines frayeurs, cessez, lâches tendresses,  
-De jeter dans mon cœœur vos indignes faiblesses ;  
+De jeter dans mon cœur vos indignes faiblesses ;  
 Et toi qui les produis par tes soins superflus,  
 Amour, sers mon devoir, et ne le combats plus :  
 Lui céder, c'est ta gloire, et le vaincre, ta honte :  
@@ -98,7 +98,7 @@ Et ne triomphera que pour te couronner.
 
     ÉMILIE
 Je l'ai juré, Fulvie, et je le jure encore,  
-Quoique j'aime Cinna, quoique mon cœœur l'adore,  
+Quoique j'aime Cinna, quoique mon cœur l'adore,  
 S'il me veut posséder, Auguste doit périr :  
 Sa tête est le seul prix dont il peut m'acquérir.  
 Je lui prescris la loi que mon devoir m'impose.  
@@ -146,13 +146,13 @@ Pour venger votre perte en vengeant leurs malheurs.
 Beaucoup l'ont entrepris, mille autres vont les suivre :  
 Qui vit haï de tous ne saurait longtemps vivre :  
 Remettez à leurs bras les communs intérêts,  
-Et n'aidez leurs desseins que par des vœœux secrets.  
+Et n'aidez leurs desseins que par des vœux secrets.  
 
     ÉMILIE
 Quoi ? je le haïrai sans tâcher de lui nuire ?  
 J'attendrai du hasard qu'il ose le détruire ?  
 Et je satisferai des devoirs si pressants  
-Par une haine obscure et des vœœux impuissants ?  
+Par une haine obscure et des vœux impuissants ?  
 Sa perte, que je veux, me deviendrait amère,  
 Si quelqu'un l'immolait à d'autres qu'à mon père ;  
 Et tu verrais mes pleurs couler pour son trépas,  
@@ -162,9 +162,9 @@ Les intérêts publics qui s'attachent aux nôtres.
 Joignons à la douceur de venger nos parents  
 La gloire qu'on remporte à punir les tyrans,  
 Et faisons publier par toute l'Italie :  
-"La liberté de Rome est l'œœuvre d'Emilie ;  
-On a touché son âme, et son cœœur s'est épris ;  
-Mais elle n'a donné son amour qu'à ce prix."  
+« La liberté de Rome est l'œuvre d'Emilie ;  
+On a touché son âme, et son cœur s'est épris ;  
+Mais elle n'a donné son amour qu'à ce prix. »  
 
     FULVIE
 Votre amour à ce prix n'est qu'un présent funeste  
@@ -232,7 +232,7 @@ Au seul nom de César, d'Auguste, et d'empereur,
 Vous eussiez vu leurs yeux s'enflammer de fureur,  
 Et dans un même instant, par un effet contraire,  
 Leur front pâlir d'horreur et rougir de colère.  
-"Amis, leur ai-je dit, voici le jour heureux  
+« Amis, leur ai-je dit, voici le jour heureux  
 Qui doit conclure enfin nos desseins généreux ;  
 Le ciel entre nos mains a mis le sort de Rome,  
 Et son salut dépend de la perte d'un homme,  
@@ -241,7 +241,7 @@ A ce tigre altéré de tout le sang romain.
 Combien pour le répandre a-t-il formé de brigues !  
 Combien de fois changé de partis et de ligues,  
 Tantôt ami d'Antoine, et tantôt ennemi,  
-Et jamais insolent ni cruel à demi !"  
+Et jamais insolent ni cruel à demi ! »  
 Là, par un long récit de toutes les misères  
 Que durant notre enfance ont enduré nos pères,  
 Renouvelant leur haine avec leur souvenir,  
@@ -284,7 +284,7 @@ Ces indignes trépas, quoique mal figurés,
 Ont porté les esprits de tous nos conjurés ?  
 Je n'ai point perdu temps, et voyant leur colère  
 Au point de ne rien craindre, en état de tout faire,  
-J'ajoute en peu de mots : "Toutes ces cruautés,  
+J'ajoute en peu de mots : « Toutes ces cruautés,  
 La perte de nos biens et de nos libertés,  
 Le ravage des champs, le pillage des villes,  
 Et les proscriptions, et les guerres civiles,  
@@ -309,7 +309,7 @@ Lui donne, au lieu d'encens, d'un poignard dans le sein.
 Ainsi d'un coup mortel la victime frappée  
 Fera voir si je suis du sang du grand Pompée ;  
 Faites voir, après moi, si vous vous souvenez  
-Des illustres aïeux de qui vous êtes nés."  
+Des illustres aïeux de qui vous êtes nés. »  
 A peine ai-je achevé, que chacun renouvelle,  
 Par un noble serment, le vœu d'être fidèle :  
 L'occasion leur plaît ; mais chacun veut pour soi  
@@ -346,7 +346,7 @@ Va marcher sur leurs pas où l'honneur te convie :
 Mais ne perds pas le soin de conserver ta vie ;  
 Souviens-toi du beau feu dont nous sommes épris,  
 Qu'aussi bien que la gloire Emilie est ton prix ;  
-Que tu me dois ton cœœur, que mes faveurs t'attendent,  
+Que tu me dois ton cœur, que mes faveurs t'attendent,  
 Que tes jours me sont chers, que les miens en dépendent.  
 Mais quelle occasion mène Évandre vers nous ?  
 
@@ -435,7 +435,7 @@ Meurs, s'il y faut mourir, en citoyen romain,
 Et par un beau trépas couronne un beau dessein.  
 Ne crains pas qu'après toi rien ici me retienne :  
 Ta mort emportera mon âme vers la tienne ;  
-Et mon cœœur aussitôt, percé des mêmes coups...  
+Et mon cœur aussitôt, percé des mêmes coups...  
 
     CINNA
 Ah ! souffrez que tout mort je vive encore en vous ;  
@@ -611,7 +611,7 @@ On hait la monarchie ; et le nom d'empereur,
 Cachant celui de roi, ne fait pas moins d'horreur.  
 Ils passent pour tyran quiconque s'y fait maître,  
 Qui le sert, pour esclave, et qui l'aime, pour traître ;  
-Qui le souffre a le cœœur lâche, mol, abattu,  
+Qui le souffre a le cœur lâche, mol, abattu,  
 Et pour s'en affranchir tout s'appelle vertu.  
 Vous en avez, seigneur, des preuves trop certaines :  
 On a fait contre vous dix entreprises vaines ;  
@@ -767,10 +767,10 @@ N'en délibérons plus, cette pitié l'emporte.
 Mon repos m'est bien cher, mais Rome est la plus forte ;  
 Et, quelque grand malheur qui m'en puisse arriver,  
 Je consens à me perdre afin de la sauver.  
-Pour ma tranquillité mon cœœur en vain soupire :  
+Pour ma tranquillité mon cœur en vain soupire :  
 Cinna, par vos conseils je retiendrai l'empire ;  
 Mais je le retiendrai pour vous en faire part.  
-Je vois trop que vos cœœurs n'ont point pour moi de fard,  
+Je vois trop que vos cœurs n'ont point pour moi de fard,  
 Et que chacun de vous, dans l'avis qu'il me donne,  
 Regarde seulement l'État et ma personne :  
 Votre amour en tous deux fait ce combat d'esprits,  
@@ -787,7 +787,7 @@ Mon épargne depuis en sa faveur ouverte
 Doit avoir adouci l'aigreur de cette perte.  
 Voyez-la de ma part, tâchez de la gagner :  
 Vous n'êtes point pour elle un homme à dédaigner ;  
-De l'offre de vos vœœux elle sera ravie.  
+De l'offre de vos vœux elle sera ravie.  
 Adieu : j'en veux porter la nouvelle à Livie.  
 
 
@@ -869,7 +869,7 @@ Et c'est toujours pour Rome un bien inestimable.
     CINNA
 Ce ne peut être un bien qu'elle daigne estimer,  
 Quand il vient d'une main lasse de l'opprimer :  
-Elle a le cœœur trop bon pour se voir avec joie  
+Elle a le cœur trop bon pour se voir avec joie  
 Le rebut du tyran dont elle fut la proie ;  
 Et tout ce que la gloire a de vrais partisans  
 Le hait trop puissamment pour aimer ses présents.  
@@ -1002,7 +1002,7 @@ De vouloir par sa perte acquérir Émilie :
 Ce n'est pas le moyen de plaire à ses beaux yeux  
 Que de priver du jour ce qu'elle aime le mieux.  
 Pour moi j'estime peu qu'Auguste me la donne ;  
-Je veux gagner son cœœur plutôt que sa personne,  
+Je veux gagner son cœur plutôt que sa personne,  
 Et ne fais point d'état de sa possession,  
 Si je n'ai point de part à son affection.  
 Puis-je la mériter par une triple offense ?  
@@ -1053,15 +1053,15 @@ Plût aux dieux que César employât mieux ses soins,
 Et s'en fît plus aimer, ou m'aimât un peu moins ;  
 Que sa bonté touchât la beauté qui me charme,  
 Et la pût adoucir comme elle me désarme !  
-Je sens au fond du cœœur mille remords cuisants  
+Je sens au fond du cœur mille remords cuisants  
 Qui rendent à mes yeux tous ses bienfaits présents ;  
 Cette faveur si pleine, et si mal reconnue,  
 Par un mortel reproche à tous moments me tue.  
 Il me semble surtout incessamment le voir  
 Déposer en nos mains son absolu pouvoir,  
 Écouter nos avis, m'applaudir et me dire :  
-"Cinna, par vos conseils, je retiendrai l'empire,  
-Mais je le retiendrai pour vous en faire part."  
+« Cinna, par vos conseils, je retiendrai l'empire,  
+Mais je le retiendrai pour vous en faire part. »  
 Et je puis dans son sein enfoncer un poignard !  
 Ah ! Plutôt... Mais, hélas ! J'idolâtre Émilie ;  
 Un serment exécrable à sa haine me lie ;  
@@ -1073,7 +1073,7 @@ Et vers l'un ou vers l'autre il faut être perfide.
     MAXIME
 Vous n'aviez point tantôt ces agitations ;  
 Vous paraissiez plus ferme en vos intentions ;  
-Vous ne sentiez au cœœur ni remords, ni reproche.  
+Vous ne sentiez au cœur ni remords, ni reproche.  
 
     CINNA
 On ne les sent aussi que quand le coup approche,  
@@ -1104,9 +1104,9 @@ De vengeance ou d'amour l'eût remise en danger.
 N'écoutez plus la voix d'un tyran qui vous aime,  
 Et vous veut faire part de son pouvoir suprême ;  
 Mais entendez crier Rome à votre côté :  
-"Rends-moi, rends-moi, Cinna, ce que tu m'as ôté ;  
+« Rends-moi, rends-moi, Cinna, ce que tu m'as ôté ;  
 Et, si tu m'as tantôt préféré ta maîtresse,  
-Ne me préfère pas le tyran qui m'oppresse".  
+Ne me préfère pas le tyran qui m'oppresse. »  
 
     CINNA
 Ami, n'accable plus un esprit malheureux  
@@ -1160,7 +1160,7 @@ Pour jouir de ses dons faut-il l'assassiner ?
 Et faut-il lui ravir ce qu'il me veut donner ?  
 Mais je dépends de vous, ô serment téméraire !  
 Ô haine d'Émilie ! Ô souvenir d'un père !  
-Ma foi, mon cœœur, mon bras, tout vous est engagé,  
+Ma foi, mon cœur, mon bras, tout vous est engagé,  
 Et je ne puis plus rien que par votre congé :  
 C'est à vous à régler ce qu'il faut que je fasse ;  
 C'est à vous, Émilie, à lui donner sa grâce ;  
@@ -1195,7 +1195,7 @@ L'effet est en ta main.
         Mais plutôt en la vôtre.  
 
     ÉMILIE
-Je suis toujours moi-même, et mon cœœur n'est point autre :  
+Je suis toujours moi-même, et mon cœur n'est point autre :  
 Me donner à Cinna, c'est ne lui donner rien,  
 C'est seulement lui faire un présent de son bien.  
 
@@ -1207,7 +1207,7 @@ Que puis-je ? et que crains-tu ?
 
     CINNA
         Je tremble, je soupire,  
-Et vois que si nos cœœurs avaient mêmes désirs,  
+Et vois que si nos cœurs avaient mêmes désirs,  
 Je n'aurais pas besoin d'expliquer mes soupirs.  
 Ainsi je suis trop sûr que je vais vous déplaire ;  
 Mais je n'ose parler, et je ne puis me taire.  
@@ -1239,7 +1239,7 @@ Il peut faire trembler la terre sous ses pas,
 Mettre un roi hors du trône, et donner ses États,  
 De ses proscriptions rougir la terre et l'onde,  
 Et changer à son gré l'ordre de tout le monde ;  
-Mais le cœœur d'Émilie est hors de son pouvoir.  
+Mais le cœur d'Émilie est hors de son pouvoir.  
 
     CINNA
 Aussi n'est-ce qu'à vous que je veux le devoir.  
@@ -1267,7 +1267,7 @@ Ne me condamnez point quand je vous ai servie ;
 Sans moi, vous n'auriez plus de pouvoir sur sa vie ;  
 Et, malgré ses bienfaits, je rends tout à l'amour,  
 Quand je veux qu'il périsse ou vous doive le jour.  
-Avec les premiers vœœux de mon obéissance  
+Avec les premiers vœux de mon obéissance  
 Souffrez ce faible effort de ma reconnaissance,  
 Que je tâche de vaincre un indigne courroux,  
 Et vous donner pour lui l'amour qu'il a pour vous.  
@@ -1280,7 +1280,7 @@ Et n'accepte aucun bien aux dépens de l'honneur.
 Je fais gloire, pour moi, de cette ignominie :  
 La perfidie est noble envers la tyrannie ;  
 Et quand on rompt le cours d'un sort si malheureux,  
-Les cœœurs les plus ingrats sont les plus généreux.  
+Les cœurs les plus ingrats sont les plus généreux.  
 
     CINNA
 Vous faites des vertus au gré de votre haine.  
@@ -1289,7 +1289,7 @@ Vous faites des vertus au gré de votre haine.
 Je me fais des vertus dignes d'une Romaine.  
 
     CINNA
-Un cœœur vraiment romain...  
+Un cœur vraiment romain...  
 
     ÉMILIE
         Ose tout pour ravir  
@@ -1306,7 +1306,7 @@ Il prend d'eux les tributs dont il nous enrichit,
 Et leur impose un joug dont il nous affranchit.  
 
     ÉMILIE
-L'indigne ambition que ton cœœur se propose !  
+L'indigne ambition que ton cœur se propose !  
 Pour être plus qu'un roi, tu te crois quelque chose !  
 Aux deux bouts de la terre en est-il un si vain  
 Qu'il prétende égaler un citoyen romain ?  
@@ -1365,11 +1365,11 @@ Puisque ta lâcheté n'ose me mériter,
 Viens me voir, dans son sang et dans le mien baignée,  
 De ma seule vertu mourir accompagnée  
 Et te dire en mourant d'un esprit satisfait :  
-"N'accuse point mon sort, c'est toi seul qui l'as fait.  
+« N'accuse point mon sort, c'est toi seul qui l'as fait.  
 Je descends dans la tombe où tu m'as condamnée,  
 Où la gloire me suit qui t'était destinée :  
 Je meurs en détruisant un pouvoir absolu ;  
-Mais je vivrais à toi si tu l'avais voulu."  
+Mais je vivrais à toi si tu l'avais voulu. »  
 
     CINNA
 Eh bien ! vous le voulez, il faut vous satisfaire,  
@@ -1445,12 +1445,12 @@ Et la seule pensée en fait frémir d'horreur.
     AUGUSTE
 Quoi ! Mes plus chers amis ! Quoi ! Cinna ! Quoi ! Maxime !  
 Les deux que j'honorais d'une si haute estime,  
-À qui j'ouvrais mon cœœur, et dont j'avais fait choix  
+À qui j'ouvrais mon cœur, et dont j'avais fait choix  
 Pour les plus importants et plus nobles emplois !  
 Après qu'entre leurs mains j'ai remis mon empire,  
 Pour m'arracher le jour l'un et l'autre conspire !  
 Maxime a vu sa faute, il m'en fait avertir,  
-Et montre un cœœur touché d'un juste repentir ;  
+Et montre un cœur touché d'un juste repentir ;  
 Mais Cinna !  
 
     EUPHORBE
@@ -1483,12 +1483,12 @@ Polyclète rentre.
 Il l'a trop jugé grand pour ne pas s'en punir.  
 A peine du palais il a pu revenir,  
 Que, les yeux égarés, et le regard farouche,  
-Le cœœur gros de soupirs, les sanglots à la bouche,  
+Le cœur gros de soupirs, les sanglots à la bouche,  
 Il déteste sa vie et ce complot maudit,  
 M'en apprend l'ordre entier tel que je vous l'ai dit ;  
 Et m'ayant commandé que je vous avertisse,  
-Il ajoute : "Dis-lui que je me fais justice,  
-Que je n'ignore point ce que j'ai mérité."  
+Il ajoute : « Dis-lui que je me fais justice,  
+Que je n'ignore point ce que j'ai mérité. »  
 Puis soudain dans le Tibre il s'est précipité ;  
 Et l'eau grosse et rapide, et la nuit assez noire,  
 M'ont dérobé la fin de sa tragique histoire.  
@@ -1556,7 +1556,7 @@ Rend mes jours plus maudits, et non plus assurés.
 Octave, n'attends plus le coup d'un nouveau Brute ;  
 Meurs, et dérobe-lui la gloire de ta chute ;  
 Meurs ; tu ferais pour vivre un lâche et vain effort,  
-Si tant de gens de cœœur font des vœœux pour ta mort,  
+Si tant de gens de cœur font des vœux pour ta mort,  
 Et si tout ce que Rome a d'illustre jeunesse  
 Pour te faire périr tour à tour s'intéresse ;  
 Meurs, puisque c'est un mal que tu ne peux guérir ;  
@@ -1572,7 +1572,7 @@ En faisant qu'il le voie et n'en jouisse pas :
 Mais jouissons plutôt nous-mêmes de sa peine ;  
 Et si Rome nous hait triomphons de sa haine.  
 Ô Romains ! Ô vengeance ! Ô pouvoir absolu !  
-Ô rigoureux combat d'un cœœur irrésolu  
+Ô rigoureux combat d'un cœur irrésolu  
 Qui fuit en même temps tout ce qu'il se propose !  
 D'un prince malheureux ordonnez quelque chose.  
 Qui des deux dois-je suivre, et duquel m'éloigner ?  
@@ -1708,7 +1708,7 @@ Qui fasse à l'univers connaître un vrai monarque.
 D'où me vient cette joie, et que mal à propos  
 Mon esprit malgré moi goûte un entier repos !  
 César mande Cinna sans me donner d'alarmes !  
-Mon cœœur est sans soupirs, mes yeux n'ont point de larmes :  
+Mon cœur est sans soupirs, mes yeux n'ont point de larmes :  
 Comme si j'apprenais d'un secret mouvement  
 Que tout doit succéder à mon contentement !  
 Ai-je bien entendu ? me l'as-tu dit, Fulvie ?  
@@ -1734,7 +1734,7 @@ On parle d'eaux, de Tibre, et l'on se tait du reste.
 
     ÉMILIE
 Que de sujets de craindre et de désespérer,  
-Sans que mon triste cœœur en daigne murmurer !  
+Sans que mon triste cœur en daigne murmurer !  
 À chaque occasion le ciel y fait descendre  
 Un sentiment contraire à celui qu'il doit prendre :  
 Une vaine frayeur tantôt m'a pu troubler,  
@@ -1833,11 +1833,11 @@ Que...
 Tu prétends un peu trop ; mais quoi que tu prétendes,  
 Rends-toi digne du moins de ce que tu demandes ;  
 Cesse de fuir en lâche un glorieux trépas,  
-Ou de m'offrir un cœœur que tu fais voir si bas ;  
+Ou de m'offrir un cœur que tu fais voir si bas ;  
 Fais que je porte envie à ta vertu parfaite ;  
 Ne te pouvant aimer, fais que je te regrette ;  
 Montre d'un vrai Romain la dernière vigueur,  
-Et mérite mes pleurs au défaut de mon cœœur.  
+Et mérite mes pleurs au défaut de mon cœur.  
 Quoi ! si ton amitié pour Cinna s'intéresse,  
 Crois-tu qu'elle consiste à flatter sa maîtresse ?  
 Apprends, apprends de moi quel en est le devoir,  
@@ -1919,7 +1919,7 @@ La tienne, encor servile, avec la liberté
 N'a pu prendre un rayon de générosité :  
 Tu m'as fait relever une injuste puissance ;  
 Tu m'as fait démentir l'honneur de ma naissance ;  
-Mon cœœur te résistait, et tu l'as combattu  
+Mon cœur te résistait, et tu l'as combattu  
 Jusqu'à ce que ta fourbe ait souillé sa vertu.  
 Il m'en coûte la vie, il m'en coûte la gloire,  
 Et j'ai tout mérité pour t'avoir voulu croire ;  
@@ -1989,7 +1989,7 @@ Me pressant de quitter ma puissance absolue,
 De Maxime et de toi j'ai pris les seuls avis,  
 Et ce sont, malgré lui, les tiens que j'ai suivis ;  
 Bien plus, ce même jour je te donne Émilie,  
-Le digne objet des vœœux de toute l'Italie,  
+Le digne objet des vœux de toute l'Italie,  
 Et qu'ont mise si haut mon amour et mes soins,  
 Qu'en te couronnant roi je t'aurais donné moins.  
 Tu t'en souviens, Cinna, tant d'heur et tant de gloire  
@@ -2043,7 +2043,7 @@ Et que ce grand fardeau de l'empire romain
 Ne puisse après ma mort tomber mieux qu'en ta main.  
 Apprends à te connaître, et descends en toi-même :  
 On t'honore dans Rome, on te courtise, on t'aime,  
-Chacun tremble sous toi, chacun t'offre des vœœux,  
+Chacun tremble sous toi, chacun t'offre des vœux,  
 Ta fortune est bien haut, tu peux ce que tu veux ;  
 Mais tu ferais pitié même à ceux qu'elle irrite,  
 Si je t'abandonnais à ton peu de mérite.  
@@ -2120,7 +2120,7 @@ Et c'est trop tôt aimer l'amant que je te donne.
     ÉMILIE
 Cet amour qui m'expose à vos ressentiments  
 N'est point le prompt effet de vos commandements ;  
-Ces flammes dans nos cœœurs sans votre ordre étaient nées,  
+Ces flammes dans nos cœurs sans votre ordre étaient nées,  
 Et ce sont des secrets de plus de quatre années ;  
 Mais, quoique je l'aimasse et qu'il brûlât pour moi,  
 Une haine plus forte à tous deux fit la loi ;  
@@ -2193,7 +2193,7 @@ J'avais fait ce dessein avant que de l'aimer ;
 A mes plus saints désirs la trouvant inflexible,  
 Je crus qu'à d'autres soins elle serait sensible ;  
 Je parlai de son père et de votre rigueur,  
-Et l'offre de mon bras suivit celle du cœœur.  
+Et l'offre de mon bras suivit celle du cœur.  
 Que la vengeance est douce à l'esprit d'une femme !  
 Je l'attaquai par là, par là je pris son âme ;  
 Dans mon peu de mérite elle me négligeait,  
@@ -2224,7 +2224,7 @@ Nos deux âmes, seigneur, sont deux âmes romaines ;
 Unissant nos désirs, nous unîmes nos haines ;  
 De nos parents perdus le vif ressentiment  
 Nous apprit nos devoirs en un même moment ;  
-En ce noble dessein nos cœœurs se rencontrèrent ;  
+En ce noble dessein nos cœurs se rencontrèrent ;  
 Nos esprits généreux ensemble le formèrent ;  
 Ensemble nous cherchons l'honneur d'un beau trépas :  
 Vous vouliez nous unir, ne nous séparez pas.  
@@ -2267,7 +2267,7 @@ Et pensais la résoudre à cet enlèvement
 Sous l'espoir du retour pour venger son amant ;  
 Mais au lieu de goûter ces grossières amorces,  
 Sa vertu combattue a redoublé ses forces,  
-Elle a lu dans mon cœœur ; vous savez le surplus,  
+Elle a lu dans mon cœur ; vous savez le surplus,  
 Et je vous en ferais des récits superflus.  
 Vous voyez le succès de mon lâche artifice.  
 Si pourtant quelque grâce est due à mon indice,  
@@ -2308,13 +2308,13 @@ Je recouvre la vue auprès de leurs clartés :
 Je connais mon forfait qui me semblait justice ;  
 Et (ce que n'avait pu la terreur du supplice)  
 Je sens naître en mon âme un repentir puissant,  
-Et mon cœœur en secret me dit qu'il y consent.  
+Et mon cœur en secret me dit qu'il y consent.  
 Le ciel a résolu votre grandeur suprême ;  
 Et pour preuve, seigneur, je n'en veux que moi-même :  
 J'ose avec vanité me donner cet éclat,  
-Puisqu'il change mon cœœur, qu'il veut changer l'État.  
+Puisqu'il change mon cœur, qu'il veut changer l'État.  
 Ma haine va mourir, que j'ai crue immortelle ;  
-Elle est morte, et ce cœœur devient sujet fidèle ;  
+Elle est morte, et ce cœur devient sujet fidèle ;  
 Et prenant désormais cette haine en horreur,  
 L'ardeur de vous servir succède à sa fureur.  
 
@@ -2343,7 +2343,7 @@ Et je suis plus confus, seigneur, de vos bontés
 Que je ne suis jaloux du bien que vous m'ôtez.  
 
     CINNA
-Souffrez que ma vertu dans mon cœœur rappelée  
+Souffrez que ma vertu dans mon cœur rappelée  
 Vous consacre une foi lâchement violée,  
 Mais si ferme à présent, si loin de chanceler,  
 Que la chute du ciel ne pourrait l'ébranler.  
@@ -2364,13 +2364,13 @@ Mettront toute leur gloire à mourir vos sujets ;
 Aucun lâche dessein, aucune ingrate envie  
 N'attaquera le cours d'une si belle vie ;  
 Jamais plus d'assassins, ni de conspirateurs :  
-Vous avez trouvé l'art d'être maître des cœœurs.  
+Vous avez trouvé l'art d'être maître des cœurs.  
 Rome, avec une joie et sensible et profonde,  
 Se démet en vos mains de l'empire du monde ;  
 Vos royales vertus lui vont trop enseigner  
 Que son bonheur consiste à vous faire régner :  
 D'une si longue erreur pleinement affranchie,  
-Elle n'a plus de vœœux que pour la monarchie,  
+Elle n'a plus de vœux que pour la monarchie,  
 Vous prépare déjà des temples, des autels,  
 Et le ciel une place entre les immortels ;  
 Et la postérité, dans toutes les provinces,  

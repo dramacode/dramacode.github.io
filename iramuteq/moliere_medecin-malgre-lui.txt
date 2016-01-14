@@ -985,7 +985,7 @@ C'est la nourrice d'un petit Enfant que j'ai.
 
 -*who_sganarelle
 Peste ! le joli Meuble que voilà.
-AhNourrice, charmante Nourrice, ma Médecine est la très humble Esclave de votre Nourricerie ; et je voudrais bien être le petit Poupon fortuné, qui tétât le Lait de vos bonnes grâces.
+Ah Nourrice, charmante Nourrice, ma Médecine est la très humble Esclave de votre Nourricerie ; et je voudrais bien être le petit Poupon fortuné, qui tétât le Lait de vos bonnes grâces.
 Tous mes Remèdes ; toute ma Science, toute ma Capacité est à votre service, et...
 
 -*who_lucas
@@ -1563,7 +1563,7 @@ Allez.Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourr
 
 
 -*who_sganarelle
-Voici la belle Nourrice.AhNourrice de mon cœur, je suis ravi de cette rencontre : et votre vue est la Rhubarbe, la Casse et le Séné qui purgent toute la Mélancolie de mon Âme.
+Voici la belle Nourrice.Ah Nourrice de mon cœur, je suis ravi de cette rencontre : et votre vue est la Rhubarbe, la Casse et le Séné qui purgent toute la Mélancolie de mon Âme.
 
 -*who_jacqueline
 Par ma figué, Monsieu le Médecin, ça est trop bian dit pour moi : et je n'entends rien à tout votte latin.

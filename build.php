@@ -69,6 +69,7 @@ class Dramacode
     'markdown' => '.md',
     'iramuteq' => '.txt',
     'html' => '.html',
+    'article' => '.html',
     // 'docx' => '.docx',
   );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
@@ -153,6 +154,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
       $echo .= " ".$format;
       // TODO git $destfile
       if ($format == 'html') $teinte->html($destfile, 'http://oeuvres.github.io/Teinte/');
+      if ($format == 'article') $teinte->article($destfile);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {

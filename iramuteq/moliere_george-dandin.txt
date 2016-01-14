@@ -602,7 +602,7 @@ Allons.
 Laissez-vous gouverner par moi.
 
 -*who_george_dandin
-AhGeorge Dandin !
+Ah George Dandin !
 
 -*who_monsieur_de_sotenville
 Votre bonnet à la main le premier, Monsieur est Gentilhomme, et vous ne l'êtes pas.
@@ -957,7 +957,7 @@ Voyons.
 À ce que je puis remarquer, ce qu'on lui dit ne lui déplaît pas trop.
 
 -*who_angelique
-AhClaudine que ce billet s'explique d'une façon galante ! que dans tous leurs discours, et dans toutes leurs actions les gens de Cour ont un air agréable, et qu'est-ce que c'est auprès d'eux que nos gens de Province ?
+Ah Claudine que ce billet s'explique d'une façon galante ! que dans tous leurs discours, et dans toutes leurs actions les gens de Cour ont un air agréable, et qu'est-ce que c'est auprès d'eux que nos gens de Province ?
 
 -*who_claudine
 Je crois qu'après les avoir vus, les Dandins ne vous plaisent guères.
@@ -1966,7 +1966,7 @@ Corbleu si vous me répliquez.
 Je vous apprendrai ce que c'est que de vous jouer à nous.
 
 -*who_george_dandin
-AhGeorge Dandin !
+Ah George Dandin !
 
 -*who_monsieur_de_sotenville
 Allons, venez, ma fille, que votre mari vous demande pardon.

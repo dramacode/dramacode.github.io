@@ -255,6 +255,9 @@ Et où est donc la cire que je fis acheter ces jours passés ?
 Je n'en ai point vu depuis que je suis céans.
 
 -*who_la_comtesse
+Ôtez-vous de là, insolente, je vous renvoyerai chez vos parents.
+Apportez-moi un verre d'eau.
+Madame,
 
 -*who_julie
 Madame.
