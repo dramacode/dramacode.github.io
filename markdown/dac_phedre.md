@@ -2,7 +2,7 @@
 identifier: dac_phedre  
 creator: Dac, Pierre  
 date: 1935  
-title: PHÈDRE  
+title: Phèdre  
 ---
 
 

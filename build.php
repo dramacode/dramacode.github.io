@@ -120,7 +120,8 @@ CREATE INDEX play_year_author ON play(year, author, title);
   /**
    * Constructeur de la base
    */
-  public function __construct($sqlitefile, $logger) {
+  public function __construct($sqlitefile, $logger="php://output") {
+    if (is_string($logger)) $logger = fopen($logger, 'w');
     self::$_logger = $logger;
     $this->connect($sqlitefile);
     // create needed folders 
@@ -257,34 +258,45 @@ CREATE INDEX play_year_author ON play(year, author, title);
     echo '<table class="sortable">
   <thead>
     <tr>
-     <th>Éditeur</th>
-     <th>Auteur</th>
-     <th>Date</th>
-     <th>Titre</th>
-     <th>Téléchargements</th>
+      <th>N°</th>
+      <th>Éditeur</th>
+      <th>Auteur</th>
+      <th>Date</th>
+      <th>Titre</th>
+      <th>Genre</th>
+      <th>Actes</th>
+      <th>Vers</th>
+      <th>Téléchargements</th>
     </tr>
   </thead>
     ';
+    $i = 1;
     foreach ($this->pdo->query("SELECT * FROM play ORDER BY author, year") as $play) {
       echo "\n    <tr>\n";
+      echo "      <td>$i</td>\n";
       if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['publisher']."</a></td>\n";
       else echo '      <td>'.$play['publisher']."</td>\n";
       echo '      <td>'.$play['author']."</td>\n";
       echo '      <td>'.$play['year']."</td>\n";
-      echo '      <td>'.$play['title'];
-      echo ' (';
-      if ($play['genre'] == 'tragedy') echo ', tragédie';
-      else if ($play['genre'] == 'comedy') echo ', comédie';
-      if ($play['acts']) echo ', '.$play['acts'].(($play['acts']>2)?" actes":" acte");
-      echo ', '.(($play['verse'])?"vers":"prose");
-      echo ")</td>\n";
+      echo '      <td>'.$play['title']."</td>\n";
+      echo '      <td>';
+      if ($play['genrecode'] == 'tragedy') echo 'Tragédie';
+      else if ($play['genrecode'] == 'comedy') echo 'Comédie';
+      else echo $play['genre'];
+      echo "      </td>\n";
+      echo "      <td>".$play['acts']."</td>\n";
+      echo "      <td>".(($play['verse'])?"vers":"prose")."</td>\n";
+      // downloads
       echo '      <td>';
       echo '<a href="'.$play['identifier'].'">TEI</a>';
       $sep = ", ";
       foreach ( self::$formats as $label=>$extension) {
+        if ($label == 'article') continue;
         echo $sep.'<a href="'.$label.'/'.$play['code'].$extension.'">'.$label.'</a>';
       }
-      echo "</td>\n    </tr>\n";
+      echo "      </td>\n";
+      echo "    </tr>\n";
+      $i++;
     }
     echo "\n</table>\n";
   }

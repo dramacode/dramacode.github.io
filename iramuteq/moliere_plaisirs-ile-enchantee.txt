@@ -543,7 +543,7 @@ Le bruit du défi qui se devait courir le Lundi douzième fit faire une infinit�
 
 Le Duc de Saint-Aignan, avait aussi fait voir à quelques-uns de ses amis, comme un heureux présage de sa victoire, ces quatre Vers :
 
--*who_duc_de_saint_aignan
+-*who_guidon
 Belles, vous direz en ce jour
 Si vos sentiments sont les nôtres,
 Qu'être vainqueur du grand Soyecourt

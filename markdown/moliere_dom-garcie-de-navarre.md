@@ -11,19 +11,18 @@ title: Dom Garcie de Navarre. Comédie
 # ACTEURS
  – Dom Garcie, prince de Navarre, amant d'Elvire.
  – Elvire, princesse de Léon.
- – Élise.
+ – Élise, confidente d'Elvire.
  – Dom Alphonse, prince de Léon, cru prince de Castille, sous le nom de Dom Sylve.
  – Ignès, comtesse, amante de Dom Sylve, aimée de Mauregat, usurpateur de l'Etat de Léon.
  – Dom Alvar, confident de Dom Garcie, amante d'Elise.
  – Dom Lope, autre confident de Dom Garcie, amant rebuté d'Elise.
- – Dom Pedre, écuyer d'Ignès.
- – Dom SylveLa scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.
+ – Dom Pedre, écuyer d'Ignès.La scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.
 
 
-# ACTE PREMIER.
+# Acte Premier
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 
     D. ELVIRE
 Non, ce n'est point un choix, qui pour ces deux Amants,  
@@ -211,7 +210,7 @@ Et ce qui pour mon âme est souvent un peu rude,
 C'est de voir Dom Alvar ne prendre aucun souci.  
 
 
-## SCÈNE II.
+## Scène II
 
     D. ELVIRE
 Votre retour surprend, qu'avez-vous à m'apprendre ?  
@@ -268,7 +267,7 @@ Pour…
 Le Prince entre ici.  
 
 
-## SCÈNE III.
+## Scène III
 D. Garcie, D. Elvire, D. Alvar, Élise.
 
 
@@ -510,7 +509,7 @@ Il est de Done Ignès, à ce que je connais.
     D. ELVIRE
 Oui, je m'en réjouis, et pour vous, et pour moi.  
 
-    D. GARCIE LIT.
+    D. GARCIE* lit.*
 Malgré l'effort d'un long mépris,  
 Le *T*yran toujours m'aime, et depuis votre absence,  
 Vers moi pour me porter au dessein qu'il a pris,  
@@ -553,10 +552,10 @@ Croyez que désormais, c'est toute mon envie,
 Et qu'avant qu'y manquer, je veux perdre la vie.  
 
 
-# ACTE II.
+# Acte II
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 Élise, D. Lope.
 
 
@@ -653,7 +652,7 @@ Et je veux, si je puis, m'épargner ce souci.
 Tout Amant de bon sens en doit user ainsi.  
 
 
-## SCÈNE II.
+## Scène II
 D. Alvar, Élise.
 
 
@@ -666,7 +665,7 @@ Je suis surpris pour moi, qu'avec tant de vitesse,
 On ait fait avancer... Mais...  
 
 
-## SCÈNE III.
+## Scène III
 D. Garcie, Élise, d. alvar.
 
 
@@ -678,9 +677,9 @@ Quelques lettres, Seigneur, je le présume ainsi;
 Mais elle va savoir que vous êtes ici.  
 
 
-## SCÈNE IV.
+## Scène IV
 
-    DOM GARCIE, SEUL.
+    DOM GARCIE*, seul.*
 J'attendrai qu'elle ait fait ; près de souffrir sa vue,  
 D'un trouble tout nouveau je me sens l'âme émue ;  
 Et la crainte mêlée à mon ressentiment,  
@@ -709,7 +708,7 @@ Son amour, ses devoirs*…*
 Mais il m'est odieux, avec*…*  
 
 
-## SCÈNE V
+## Scène V
 D. Elvire, d. Garcie.
 
 
@@ -861,7 +860,7 @@ Bientôt à vos dépens vous me pourrez entendre.
 Élise, holà.  
 
 
-## SCÈNE VI.
+## Scène VI
 Élise, D. Elvire, D. Garcie.
 
 
@@ -1073,7 +1072,7 @@ Laissez, je me veux mal d'une telle faiblesse.
 Enfin je suis...  
 
 
-## SCÈNE VII.
+## Scène VII
 D. Lope, D. Garcie.
 
 
@@ -1134,10 +1133,10 @@ Vous-même vous verrez ce qu'on en doit penser.
 <Fin du second Acte.>
 
 
-# ACTE III.
+# Acte III
 
 
-## SCÈNE PREMIÈRE .
+## Scène Première
 D. Elvire, Élise.
 
 
@@ -1216,7 +1215,7 @@ Mais ô Ciel! en ces lieux, Dom Sylve de Castille;
 Ah ! Seigneur, par quel sort vous vois-je maintenant ?  
 
 
-## SCÈNE II.
+## Scène II
 D. Sylve, D. Elvire
 
 
@@ -1376,7 +1375,7 @@ Il peut bien quelquefois montrer quelque faiblesse,
 Mais enfin, sur nos sens, la raison, la maîtresse…  
 
 
-## SCÈNE III.
+## Scène III
 D. Garcie, D. Elvire, D. Sylve.
 
 
@@ -1488,7 +1487,7 @@ Fermez l'oreille, enfin, à toute sa furie,
 Et pour vous y porter, c'est moi qui vous en prie.  
 
 
-## SCÈNE IV.
+## Scène IV
 Dom Garcie, Dom Sylve.
 
 
@@ -1529,10 +1528,10 @@ De tous nos intérêts videra les débats.
 <Fin du troisième Acte.>
 
 
-# ACTE IV.
+# Acte IV
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 D. Elvire, D. Alvar.
 
 
@@ -1596,7 +1595,7 @@ De quelque grand ennui qu'il puisse être agité,
 Il en aura toujours moins qu'il n'a mérité.  
 
 
-## SCÈNE II.
+## Scène II
 Élise, Dona Elvire.
 
 
@@ -1623,7 +1622,7 @@ Que mon impatience en ce moment est forte !
 Ô! destins, est-ce joie, ou douleur qu'on m'apporte ?  
 
 
-## SCÈNE III.
+## Scène III
 Élise, Dom Pèdre.
 
 
@@ -1649,7 +1648,7 @@ Tant de précautions qu'il affecte de prendre...
 Mais le voici déjà.  
 
 
-## SCÈNE IV.
+## Scène IV
 Élise, Donna Ignès.
 
 
@@ -1680,7 +1679,7 @@ Que votre abord fût libre, et n'eût aucun témoin;
 Vois-je pas Dom Alvar ?  
 
 
-## SCÈNE V.
+## Scène V
 
     D. ALVAR.
 Le Prince me renvoie,  
@@ -1690,7 +1689,7 @@ S'il n'obtient par vos soins un moment d'entretien,
 Son âme a des transports… Mais le voici lui-même.  
 
 
-## SCÈNE VI.
+## Scène VI
 D. Garcie, Élise.
 
 
@@ -1759,7 +1758,7 @@ Celui dont les avis ont causé mon offense,
 Que Dom Lope jamais…  
 
 
-## SCÈNE VII.
+## Scène VII
 D. Garcie, D. Alvar.
 
 
@@ -1831,7 +1830,7 @@ Mais il faut voir qui c'est, et de ma main punir...
 La voici, ma fureur, te peux-tu retenir ?  
 
 
-## SCÈNE VIII.
+## Scène VIII
 D. Elvire, D. Garcie, Élise.
 
 
@@ -2075,7 +2074,7 @@ Voyez bien ce visage, et si de Done Ignès,
 Vos yeux au même instant n'y connaissent les traits.  
 
 
-## SCÈNE IX.
+## Scène IX
 Dom Garcie, Dona Elvire, Dona Ignès, Dom Alvar.
 
 
@@ -2173,10 +2172,10 @@ Faire à ce noble effort servir mon désespoir.
 <Fin du quatrième Acte.>
 
 
-# ACTE V.
+# Acte V
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 D. Alvar, Élise.
 
 
@@ -2226,7 +2225,7 @@ De ce frère qui vient, et de la lettre aussi,
 Mais…  
 
 
-## SCÈNE II.
+## Scène II
 D. Elvire, D. Ignès.
 
 
@@ -2260,7 +2259,7 @@ Ce qu'il a fait pour vous... Il vient, et sa pâleur,
 De ce coup surprenant marque assez la douleur.  
 
 
-## SCÈNE III.
+## Scène III
 D. Garcie, D. Elvire.
 
 
@@ -2347,7 +2346,7 @@ Ouvrir les murs d'Astorgue à cet heureux vainqueur,
 Et subir de mon sort la dernière rigueur.  
 
 
-## SCÈNE IV.
+## Scène IV
 D. Elvire, D. ignès.
 
 
@@ -2405,7 +2404,7 @@ Son succès, si le Ciel seconde ma pensée,
 Madame, n'aura rien, dont vous soyez blessée.  
 
 
-## SCÈNE V.
+## Scène V
 D. Elvire, D. Sylve, D. Ignès.
 
 
@@ -2536,7 +2535,7 @@ Qui vous fait couronner une amitié si pure,
 Et de deux nobles cœurs que j'aime tendrement…  
 
 
-## SCÈNE VI.
+## Scène VI
 D. Garcie, D. Sylve, D. Ignès.
 
 
@@ -2623,7 +2622,7 @@ Mon roi sans me gêner peut me donner à vous.
 Ciel! dans l'excès des biens que cet aveu m'octroie,  
 Rends capable mon cœur de supporter sa joie.  
 
-    D. SYLVE* ou *D ALPHONSE
+    D. SYLVE* ou *D. ALPHONSE
 Je veux que cet Hymen après nos vains débats,  
 Seigneur, joigne à jamais nos cœurs, et nos États;  
 Mais ici le temps presse, et Léon nous appelle,  

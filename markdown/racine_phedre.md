@@ -37,7 +37,7 @@ C'est dans cet historien que j'ai trouvé que ce qui avait donné occasion de cr
 Au reste, je n'ose encore assurer que cette pièce soit en effet la meilleure de mes tragédies. Je laisse aux lecteurs et au temps à décider de son véritable prix. Ce que je puis assurer, c'est que je n'en ai point fait où la vertu soit plus mise en jour que dans celle-ci. Les moindres fautes y sont sévèrement punies ; la seule pensée du crime y est regardée avec autant d'horreur que le crime même ; les faiblesses de l'amour y passent pour de vraies faiblesses ; les passions n'y sont présentées aux yeux que pour montrer tout le désordre dont elles sont cause ; et le vice y est peint partout avec des couleurs qui en font connaître et haïr la difformité. C'est là proprement le dut que tout homme qui travaille pour le public doit se proposer, et c'est ce que les premiers poètes tragiques avaient en vue sur toute chose. Leur théâtre était une école où la vertu n'était pas moins bien enseignée que dans les écoles des philosophes. Aussi Aristote a bien voulu donner des règles du poème dramatique, et Socrate, le plus sage des philosophes, ne dédaignait pas de mettre la main aux tragédies d'Euripide. Il serait à souhaiter que nos ouvrages fussent aussi solides et aussi pleins d'utiles instructions que ceux de ces poètes. Ce serait peut-être un moyen de réconcilier la tragédie avec quantité de personnes célèbres par leur piété et par leur doctrine, qui l'ont condamnée dans ces derniers temps et qui en jugeraient sans doute plus favorablement, si les auteurs songeaient autant à instruire leurs spectateurs qu'à les divertir, et s'ils suivaient en cela la véritable intention de la tragédie.
 
 
-# ACTEURS
+# Acteurs
  – Thésée, fils d'Égée, roi d'Athènes.
  – Phèdre, femme de Thésée, fille de Minos et de Pasiphaé.
  – Hippolyte, fils de Thésée, et d'Antiope reine des Amazones.
@@ -46,13 +46,15 @@ Au reste, je n'ose encore assurer que cette pièce soit en effet la meilleure de
  – Théramène, gouverneur d'Hippolyte.
  – Ismène,confidente d'Aricie.
  – Panope, femme de la suite de Phèdre.
- – Gardes.La scène est à Trézène, ville du Péloponnèse. [1]
+ – Gardes.
+La scène est à Trézène, ville du Péloponnèse.
+ [1]
 
 
-# ACTE I
+# Acte I
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Hippolyte, Théramène.
 
 
@@ -231,7 +233,7 @@ Voyons-la, puisque ainsi mon devoir me l'ordonne.
 Mais quel nouveau malheur trouble sa chère Oenone ?  
 
 
-## SCÈNE II
+## Scène II
 Hippolyte, Oenone, Théramène.
 
 
@@ -251,7 +253,7 @@ Elle vient.
 Et ne lui montre point un visage odieux.  
 
 
-## SCÈNE III
+## Scène III
 Phèdre, Oenone.
 
 
@@ -518,7 +520,7 @@ Et que tes vains secours cessent de rappeler
 Un reste de chaleur, tout prêt à s'exhaler.  
 
 
-## SCÈNE IV
+## Scène IV
 Phèdre, Oenone, Panope.
 
 
@@ -557,7 +559,7 @@ Panope, c'est assez. La reine qui t'entend,
 Ne négligera point cet avis important.  
 
 
-## SCÈNE V
+## Scène V
 Phèdre, Oenone.
 
 
@@ -596,10 +598,10 @@ Et si l'amour d'un fils en ce moment funeste,
 De mes faibles esprits peut ranimer le reste.  
 
 
-# ACTE II
+# Acte II
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Aricie, Ismène.
 
 
@@ -731,7 +733,7 @@ Aurais-je pu fléchir...
 Il vient à vous.  
 
 
-## SCÈNE II
+## Scène II
 Hippolyte, Aricie, Ismène.
 
 
@@ -855,7 +857,7 @@ Et ne rejetez pas des vœux mal exprimés,
 Qu'Hippolyte sans vous n'aurait jamais formés.  
 
 
-## SCÈNE III
+## Scène III
 Hippolyte, Aricie, Théramène, Ismène.
 
 
@@ -892,7 +894,7 @@ Mais cet empire enfin si grand, si glorieux,
 N'est pas de vos présents le plus cher à mes yeux.  
 
 
-## SCÈNE IV
+## Scène IV
 Hippolyte, Théramène.
 
 
@@ -903,7 +905,7 @@ Fais donner le signal, cours, ordonne, et reviens
 Me délivrer bientôt d'un fâcheux entretien.  
 
 
-## SCÈNE V
+## Scène V
 Phèdre, Hippolyte, Oenone.
 
 
@@ -1075,7 +1077,7 @@ Mais on vient. Évitez des témoins odieux,
 Venez, rentrez, fuyez une honte certaine.  
 
 
-## SCÈNE VI
+## Scène VI
 Hippolyte, Théramène.
 
 
@@ -1121,10 +1123,10 @@ Partons, et quelque prix qu'il en puisse coûter,
 Mettons le sceptre aux mains dignes de le porter.  
 
 
-# ACTE III
+# Acte III
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Phèdre, Oenone.
 
 
@@ -1233,7 +1235,7 @@ Je t'avouerai de tout, je n'espère qu'en toi.
 Va, j'attends ton retour pour disposer de moi.  
 
 
-## SCÈNE II
+## Scène II
 
     PHÈDRE, SEULE.
 Ô toi ! qui vois la honte où je suis descendue,  
@@ -1250,7 +1252,7 @@ Qu'il aime ! Mais déjà tu reviens sur tes pas,
 Oenone ? On me déteste, on ne t'écoute pas.  
 
 
-## SCÈNE III
+## Scène III
 Phèdre, Oenone.
 
 
@@ -1370,7 +1372,7 @@ Fais ce que tu voudras, je m'abandonne à toi.
 Dans le trouble où je suis, je ne peux rien pour moi.  
 
 
-## SCÈNE IV
+## Scène IV
 Thésée, Hippolyte, Phèdre, Oenone, Théramène.
 
 
@@ -1388,7 +1390,7 @@ Indigne de vous plaire, et de vous approcher,
 Je ne dois désormais songer qu'à me cacher.  
 
 
-## SCÈNE V
+## Scène V
 Thésée, Hippolyte, Théramène.
 
 
@@ -1472,7 +1474,7 @@ Connaissons à la fois le crime et le coupable.
 Que Phèdre explique enfin le trouble où je la vois.  
 
 
-## SCÈNE VI
+## Scène VI
 Hippolyte, Théramène.
 
 
@@ -1492,10 +1494,10 @@ Et lui dire un amour qu'il peut vouloir troubler,
 Mais que tout son pouvoir ne saurait ébranler.  
 
 
-# ACTE IV
+# Acte IV
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Thésée, Oenone.
 
 
@@ -1546,7 +1548,7 @@ C'est trop laisser la reine à sa douleur mortelle.
 Souffrez que je vous quitte et me range auprès d'elle.  
 
 
-## SCÈNE II
+## Scène II
 Thésée, Hippolyte.
 
 
@@ -1711,7 +1713,7 @@ Sors, traître. N'attends pas qu'un père furieux
 Te fasse avec opprobre arracher de ces lieux.  
 
 
-## SCÈNE III
+## Scène III
 
     THÉSÉE, SEUL.
 Misérable, tu cours à ta perte infaillible.  
@@ -1726,7 +1728,7 @@ Justes dieux, qui voyez la douleur qui m'accable,
 Ai-je pu mettre au jour un enfant si coupable ?  
 
 
-## SCÈNE IV
+## Scène IV
 Phèdre, Thésée.
 
 
@@ -1771,7 +1773,7 @@ Je vais moi-même encore au pied de ses autels,
 Le presser d'accomplir ses serments immortels.  
 
 
-## SCÈNE V
+## Scène V
 
     PHÈDRE, SEULE.
 Il sort. Quelle nouvelle a frappé mon oreille ?  
@@ -1797,7 +1799,7 @@ Je suis le seul objet qu'il ne saurait souffrir.
 Et je me chargerais du soin de le défendre !  
 
 
-## SCÈNE VI
+## Scène VI
 Phèdre, Oenone.
 
 
@@ -1944,10 +1946,10 @@ Ah, dieux ! Pour la servir, j'ai tout fait, tout quitté.
 Et j'en reçois ce prix ? Je l'ai bien mérité.  
 
 
-# ACTE V
+# Acte V
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Hippolyte, Aricie.
 
 
@@ -2045,7 +2047,7 @@ Allez, et laissez-moi quelque fidèle guide,
 Qui conduise vers vous ma démarche timide.  
 
 
-## SCÈNE II
+## Scène II
 Thèsée, Aracie, Ismène.
 
 
@@ -2057,7 +2059,7 @@ Montrer la vérité, que je cherche en ces lieux.
 Songe à tout, chère Ismène, et sois prête à la fuite.  
 
 
-## SCÈNE III
+## Scène III
 Thésée, Aricie.
 
 
@@ -2120,7 +2122,7 @@ J'imite sa pudeur, et fuis votre présence
 Pour n'être pas forcée à rompre le silence.  
 
 
-## SCÈNE IV
+## Scène IV
 
     THÉSÉE, SEUL.
 Quelle est donc sa pensée ? Et que cache un discours  
@@ -2135,7 +2137,7 @@ Je veux de tout le crime être mieux éclairci.
 Gardes. Qu'Oenone sorte et vienne seule ici.  
 
 
-## SCÈNE V
+## Scène V
 Thésée, Panope.
 
 
@@ -2176,7 +2178,7 @@ Et j'ai trop tôt vers toi levé mes mains cruelles.
 Ah ! de quel désespoir mes vœux seraient suivis !  
 
 
-## SCÈNE VI
+## Scène VI
 Thésée, Théramène.
 
 
@@ -2305,7 +2307,7 @@ Dont son cœur expirant s'est reposé sur moi.
 Mais j'aperçois venir sa mortelle ennemie.  
 
 
-## SCÈNE DERNIÈRE. Thésée, Phèdre, Théramène, Panope, Gardes.
+## Scène Dernière. Thésée, Phèdre, Théramène, Panope, Gardes.
 
     THÉSÉE
 Hé bien vous triomphez, et mon fils est sans vie.  

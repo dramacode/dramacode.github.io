@@ -20,7 +20,7 @@ Pierre Corneille
 Représenté pour la première fois en 1639 à l'Hôtel de Bourgogne.
 
 
-# ACTEURS
+# Acteurs
  – Auguste (Octave-César), empereur de Rome.
  – Livie, impératrice.
  – Cinna, fils d'une fille de Pompée, chef de la conjuration contre Auguste.
@@ -29,13 +29,15 @@ Représenté pour la première fois en 1639 à l'Hôtel de Bourgogne.
  – Fulvie, confidente d'Emilie.
  – Polyclète, affranchi d'Auguste.
  – Évandre, affranchi de Cinna.
- – Euphorbe, affranchi de Maxime.La scène est à Rome.
+ – Euphorbe, affranchi de Maxime.
+La scène est à Rome
 
 
-# ACTE I
+
+# Acte I
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 
     ÉMILIE
 Impatients désirs d'une illustre vengeance  
@@ -92,8 +94,8 @@ Plus tu lui donneras, plus il te va donner,
 Et ne triomphera que pour te couronner.  
 
 
-## SCÈNE II
-Émilie, Fulvie.
+## Scène II
+Émilie, Fulvie
 
 
     ÉMILIE
@@ -199,8 +201,8 @@ L'heure, le lieu, le bras se choisit aujourd'hui ;
 Et c'est à faire enfin à mourir après lui.  
 
 
-## SCÈNE III
-Cinna, Émilie, Fulvie.
+## Scène III
+Cinna, Émilie, Fulvie
 
 
     ÉMILIE
@@ -351,8 +353,8 @@ Que tes jours me sont chers, que les miens en dépendent.
 Mais quelle occasion mène Évandre vers nous ?  
 
 
-## SCÈNE IV
-Cinna, Émilie, Évandre, Fulvie.
+## Scène IV
+Cinna, Émilie, Évandre, Fulvie
 
 
     ÉVANDRE
@@ -465,17 +467,17 @@ Soyez en ma faveur moins cruelle à vous-même.
 Va-t'en, et souviens-toi seulement que je t'aime.  
 
 
-# ACTE II
+# Acte II
 
 
-## SCÈNE PREMIÈRE
-Auguste, Cinna, Maxime, troupe de courtisans.
+## Scène Première
+Auguste, Cinna, Maxime, troupe de courtisans
 
 
     AUGUSTE
 Que chacun se retire, et qu'aucun n'entre ici.  
 Vous, Cinna, demeurez, et vous, Maxime, aussi.  
-Tous se retirent, à la réserve de Cinna et de Maxime.
+Tous se retirent, à la réserve de Cinna et de Maxime
 
 Cet empire absolu sur la terre et sur l'onde,  
 Ce pouvoir souverain que j'ai sur tout le monde,  
@@ -791,8 +793,8 @@ De l'offre de vos vœux elle sera ravie.
 Adieu : j'en veux porter la nouvelle à Livie.  
 
 
-## SCÈNE II
-Cinna, Maxime.
+## Scène II
+Cinna, Maxime
 
 
     MAXIME
@@ -899,11 +901,11 @@ Sortons ; qu'en sûreté j'examine avec vous,
 Pour en venir à bout, les moyens les plus doux.  
 
 
-# ACTE III
+# Acte III
 
 
-## SCÈNE PREMIÈRE
-Maxime, Euphorbe.
+## Scène Première
+Maxime, Euphorbe
 
 
     MAXIME
@@ -1033,8 +1035,8 @@ Cinna vient, et je veux en tirer quelque chose,
 Pour mieux résoudre après ce que je me propose.  
 
 
-## SCÈNE II
-Cinna, Maxime.
+## Scène II
+Cinna, Maxime
 
 
     MAXIME
@@ -1127,7 +1129,7 @@ L'entretien des amants veut un entier secret.
 Adieu. Je me retire en confident discret.  
 
 
-## SCÈNE III
+## Scène III
 
     CINNA
 Donne un plus digne nom au glorieux empire  
@@ -1173,8 +1175,8 @@ Faites qu'à mes désirs je la puisse fléchir.
 Mais voici de retour cette aimable inhumaine.  
 
 
-## SCÈNE IV
-Emilie, Cinna, Fulvie.
+## Scène IV
+Emilie, Cinna, Fulvie
 
 
     ÉMILIE
@@ -1393,8 +1395,8 @@ Recouvrera ma gloire aussitôt que perdue.
 Adieu.  
 
 
-## SCÈNE V
-Émilie, Fulvie.
+## Scène V
+Émilie, Fulvie
 
 
     FULVIE
@@ -1427,11 +1429,11 @@ Et quoi donc ?
 Et qu'il choisisse après de la mort ou de moi.  
 
 
-# ACTE IV
+# Acte IV
 
 
-## SCÈNE PREMIÈRE
-Auguste, Euphorbe, Polyclète, gardes.
+## Scène Première
+Auguste, Euphorbe, Polyclète, gardes
 
 
     AUGUSTE
@@ -1467,7 +1469,7 @@ Lui seul les encourage, et lui seul les séduit !
 Ô trahison conçue au sein d'une furie !  
 Ô trop sensible coup d'une main si chérie !  
 Cinna, tu me trahis ! Polyclète, écoutez.  
-Il lui parle à l'oreille.
+Il lui parle à l'oreille
 
 
     POLYCLETE
@@ -1476,7 +1478,7 @@ Tous vos ordres, seigneur, seront exécutés.
     AUGUSTE
 Qu'Eraste en même temps aille dire à Maxime  
 Qu'il vienne recevoir le pardon de son crime.  
-Polyclète rentre.
+Polyclète rentre
 
 
     EUPHORBE
@@ -1502,7 +1504,7 @@ Allez pourvoir au reste, et faites qu'on ait soin
 De tenir en lieu sûr ce fidèle témoin.  
 
 
-## SCÈNE II
+## Scène II
 
     AUGUSTE
 Ciel, à qui voulez-vous désormais que je fie  
@@ -1579,8 +1581,8 @@ Qui des deux dois-je suivre, et duquel m'éloigner ?
 Ou laissez-moi périr, ou laissez-moi régner.  
 
 
-## SCÈNE III
-Auguste, Livie.
+## Scène III
+Auguste, Livie
 
 
     AUGUSTE
@@ -1694,7 +1696,7 @@ C'est l'amour des grandeurs qui vous rend importune.
 
     LIVIE
 J'aime votre personne, et non votre fortune.  
-Elle est seule.
+Elle est seule
 
 Il m'échappe : suivons, et forçons-le de voir  
 Qu'il peut, en faisant grâce, affermir son pouvoir,  
@@ -1702,7 +1704,9 @@ Et qu'enfin la clémence est la plus belle marque
 Qui fasse à l'univers connaître un vrai monarque.  
 
 
-## SCÈNE IV, Emilie, Fulvie.
+## Scène IV
+Émilie, Fulvie
+
 
     ÉMILIE
 D'où me vient cette joie, et que mal à propos  
@@ -1759,8 +1763,8 @@ Qu'il vous fera sur l'heure aisément reconnaître
 Le sang des grands héros dont vous m'avez fait naître.  
 
 
-## SCÈNE V
-Maxime, Emilie, Fulvie.
+## Scène V
+Maxime, Emilie, Fulvie
 
 
     ÉMILIE
@@ -1892,7 +1896,7 @@ Je ne t'écoute plus qu'en présence d'Octave.
 Allons, Fulvie, allons.  
 
 
-## SCÈNE VI
+## Scène VI
 
     MAXIME
         Désespéré, confus,  
@@ -1931,11 +1935,11 @@ Si dans le tien mon bras, justement irrité
 Peut laver le forfait de t'avoir écouté.  
 
 
-# ACTE V
+# Acte V
 
 
-## SCÈNE PREMIÈRE
-Auguste, Cinna.
+## Scène Première
+Auguste, Cinna
 
 
     AUGUSTE
@@ -2093,8 +2097,8 @@ Tu sais ce qui t'est dû, tu vois que je sais tout,
 Fais ton arrêt toi-même, et choisis tes supplices.  
 
 
-## SCÈNE II
-Auguste, Livie, Cinna, Emilie, Fulvie.
+## Scène II
+Auguste, Livie, Cinna, Emilie, Fulvie
 
 
     LIVIE
@@ -2238,7 +2242,9 @@ Et que tout l'univers, sachant ce qui m'anime,
 S'étonne du supplice aussi bien que du crime.  
 
 
-## SCÈNE III, Auguste, Livie, Cinna, Maxime, Emilie, Fulvie.
+## Scène III
+Auguste, Livie, Cinna, Maxime, Émilie, Fulvie
+
 
     AUGUSTE
 Mais enfin le ciel m'aime, et ses bienfaits nouveaux  
@@ -2329,7 +2335,7 @@ Cesse d'en retarder un oubli magnanime ;
 Et tous deux avec moi faites grâce à Maxime :  
 Il nous a trahis tous ; mais ce qu'il a commis  
 Vous conserve innocents, et me rend mes amis.  
-À Maxime.
+À Maxime
 
 Reprends auprès de moi ta place accoutumée ;  
 Rentre dans ton crédit et dans ta renommée ;  

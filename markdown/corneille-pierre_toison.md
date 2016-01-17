@@ -48,12 +48,12 @@ Représenté pour la première fois le 19 février 1661 au Théâtre du Marais.
  – Quatre vents.La scène est à Colchos.
 
 
-# PROLOGUE
+# Prologue
 DÉCORATION DU PROLOGUE. L'heureux mariage de Sa Majesté, et la paix qu'il lui a pu donner à ses peuples, ayant été les motifs de la réjouissance publique pour laquelle cette tragédie a été préparée, non seulement il était juste qu'ils servissent de sujet au prologue qui la précède, mais il était même absolument impossible d'en choisir une plus illustre matière. L'ouverture du théâtre fait voir un pays ruiné par les guerres, et terminé dans son enfoncement par une ville qui n'en est pas mieux traitée, ce qui marque le pitoyable état ou la France était réduite avant cette faveur du ciel, qu'elle a si longtemps souhaitée, et dont la bonté de son généreux monarque la fait jouir à présent.
 
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 La France, La Victoire.
 
 DÉCORATION DU THÉÂTRE. L'heureux mariage de Sa Majesté, et la paix qu'il lui a plu donner à ses peuples, ayant été les motifs de la réjouissance publique pour laquelle cette tragédie a été préparée, non seulement il était juste qu'ils servissent de sujet au prologue qui la précède, mais il était même absolument impossible d'en choisir une plus illustre matière. L'ouverture du théâtre fait voir un pays ruiné par les guerres, et terminé dans son enfoncement par une ville qui n'en est pas mieux traitée, ce qui marque le pitoyable état où la France était réduite avant cette faveur du ciel, qu'elle a si longtemps souhaitée, et dont la bonté de son généreux monarque la fait jouir à présent.
@@ -140,7 +140,7 @@ Le ciel s'ouvre et fait voir Mars en posture menaçante, un pied en l'air, et l'
 
 
 
-## SCÈNE II
+## Scène II
 Mars, la France, la Victoire.
 
 
@@ -169,7 +169,7 @@ Avant que de disparaître, ce dieu, en colère contre la France, lui fait voir l
 
 
 
-## SCÈNE III
+## Scène III
 La Paix, La Discorde, L'Envie, La France, La Vicroire.
 
 
@@ -229,7 +229,7 @@ L'Hyménée paraît, couronné de leurs, portant en sa main droite un dard semé
 
 
 
-## SCÈNE IV
+## Scène IV
 L'Hyménée, La Paix, la Discorde, l'Envie, La France, La Victoire, Chœur de musique.
 
 
@@ -285,11 +285,11 @@ Après que l'Hyménée et la Paix sont descendus, les quatre Amours remontent du
 
 
 
-## SCÈNE V
+## Scène V
 L'Hyménée, La Paix, La France, La Victoire.
 
 
-    LA FRANCE, À LA PAIX.
+    LA FRANCE*, à La Paix.*
 Adorable souhait des peuples gémissants,  
 Féconde sûreté des travaux innocents,  
 Infatigable appui du pouvoir légitime,  
@@ -391,14 +391,14 @@ Tout le théâtre se change en un jardin magnifique à la vue du portrait de la 
 
 
 
-# ACTE I
+# Acte I
 DÉCORATION DU PREMIER ACTE.
 
 Ce grand jardin, qui en fait la scène, est composé de trois rangs de cyprès, à côté desquels on voit alternativement en chque châssis des statues de marbre blanc à l'antique, qui versent de gros jets d'eau dans de grands bassins, soutenues par des tritons, qui leur servent de piédestal, ou trois vases qui portent, l'un des orangers et les deux autres diverses fleurs en confusion, chantournées et découpées à jour. Les ornements de ces vases et de ces bassins sont rehaussés d'or, et ces statues portent sur leurs têtes des corbeilles d'or treillissées et remplies de pareilles leurs. Le théâtre est fermé par une grand arcade de verdure, orné de festons de leurs avec une grande corbeille d'or sur le milieu, qui en est remplie par les autres. Quatre autres arcades qui le suivent composent avec elle un berceau qui laisse voir plus loin un autre jardin de cyprès, entremêlées avec quantité d'autres statues à l'antique, et la perspective du fond borne la vue par un parterre encore plus éloigné, au milieu duquel s'élève une ontaine avec divers autres jets d'eau, qui ne font pas le moindre agrément de ce spectacle.
 
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Chalciope, Médée.
 
 
@@ -509,7 +509,7 @@ Vous obéirez mal s'il vous défend d'aimer.
 Je sais... Mais le voici, que le prince accompagne.  
 
 
-## SCÈNE II
+## Scène II
 Aaete, Absyrte, Chalciope, Médée.
 
 
@@ -651,7 +651,7 @@ Les voici : parlons-leur ; et pour les arrêter,
 Ne leur refusons rien qu'ils daignent souhaiter.  
 
 
-## SCÈNE III
+## Scène III
 Aaete, Absyrte, Médée, Jason, Pélée, Iphite, Orphée, Argonautes.
 
 
@@ -786,7 +786,7 @@ Adieu : pensez-y bien. Toi, ma fille, dis-lui
 À quels affreux périls il se livre aujourd'hui.  
 
 
-## SCÈNE IV
+## Scène IV
 Médée, Jason, Argonautes.
 
 
@@ -831,7 +831,7 @@ Juge par là, Jason, de la gloire où tu cours,
 Et cherche où tu pourras des bras et du secours.  
 
 
-## SCÈNE V
+## Scène V
 Jason, Pélée, Iphite, Orphée, Argonautes.
 
 
@@ -870,9 +870,9 @@ Prends ton luth, cher Orphée, et montre à la déesse
 Combien ce doux espoir charme notre tristesse.  
 
 
-## SCÈNE VI
+## Scène VI
 
-    ORPHÉE CHANTE.
+    ORPHÉE* chante*
 Femme et sœur du maître des dieux,  
 De qui le seul regard fait nos destins propices,  
 Nous as-tu jusqu'ici guidés sous tes auspices  
@@ -931,14 +931,14 @@ N'y perdons point de temps, et sans plus de séjour
 Allons sacrifier au tout-puissant Amour.  
 
 
-# ACTE II
+# Acte II
 DÉCORATION DU SECOND ACTE.
 
 La rivière du Phase et le paysage qu'elle traverse succèdent
 
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Junon, Jason sous le visage de Chalciope.
 
 
@@ -1042,7 +1042,7 @@ Votre amante paroît : agissez en amant
 Qui veut en effet vaincre, et vaincre promptement.  
 
 
-## SCÈNE II
+## Scène II
 Jason, Junon, Médée.
 
 
@@ -1244,7 +1244,7 @@ Etouffer de ta Grèce et l'amour et l'idée ?
 Je le pourrai, madame, et de plus...  
 
 
-## SCÈNE III
+## Scène III
 Adsyrte, Junon, Jason, Médée.
 
 
@@ -1280,7 +1280,7 @@ Ici l'on voit sortir du milieu du Phase le dieu Glauque avec deux tritons et deu
 
 
 
-## SCÈNE IV
+## Scène IV
 Absyrte, Junon, Médée, Jason, Glauque, sirènes, tritons, Hypsipyle.
 
 
@@ -1381,7 +1381,7 @@ Je vous laisse en résoudre, et prends quelques moments
 Pour rétablir le calme entre ces deux amants.  
 
 
-## SCÈNE V
+## Scène V
 Absyrte, Hypsipyle.
 
 
@@ -1460,14 +1460,14 @@ Tandis souvenez-vous que jusqu'à se trahir
 Ce prince malheureux cherche à vous obéir.  
 
 
-# ACTE III
+# Acte III
 DÉCORATION DU TROISIÈME ACTE.
 
 Nos théâtres n'ont encore rien fait paraître de si brillant que le palais du roi Aaete qui sert de décoration à cet acte. On y voit de chaque côté deux rang de colonnes de japse torses, et environnées de pampre d'or à grands feuillages, chantournées, et découpées à jour, au milieu desquelles sont des statues d'or à l'antique, de grandeur naturelle. Les frises, les festons, les corniches et les chapiteaux sont pareillement d'or, et portent pour finissement des vases de porcelaine d'où sortent de gros bouquets de fleurs aussi au naturel. Les bases et les piédestaux sont enrichis des basses-tailles, où sont peintes diverses fables de l'antiquité. Un grand portique doré, soutenu par quatre autres colonnes dans le même ordre, fait la face du théâtre, et est suivi de cinq ou six autres de même manière ; qui forment, par le moyen de ses colonnes, comme cinq galeries, où la vue s'enfonçant découvre ce même jardin de cyprès qui a paru au premier acte.
 
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Aaete, Jason.
 
 
@@ -1566,7 +1566,7 @@ Mais je ne dois pas craindre en ces périls nouveaux
 Que votre vie échappe aux feux de nos taureaux.  
 
 
-## SCÈNE II
+## Scène II
 Aaete, Hypsipyle, Jason.
 
 
@@ -1583,7 +1583,7 @@ Devant ce que je dois au secours de ses armes,
 Rompre son mauvais sort, c'est épargner nos larmes.  
 
 
-## SCÈNE III
+## Scène III
 Hypsipyle, Jason.
 
 
@@ -1771,7 +1771,7 @@ Sinon... Mais dieux ! Que vois-je ? ô ciel ! Je suis perdu,
 Si j'ai tant de malheur qu'elle m'aye entendu.  
 
 
-## SCÈNE IV
+## Scène IV
 Médée, Hypsipile.
 
 
@@ -1798,7 +1798,7 @@ Que s'il faut qu'il me quitte, il a besoin de vous.
     MÉDÉE
 Ce que vous en pensez me donne peu d'alarmes.  
 
-    HYPSIPYLE [1]
+    HYPSIPYLE
 Je n'ai que des attraits, et vous avez des charmes.  
 
     MÉDÉE
@@ -1919,7 +1919,7 @@ Ce palais doré en un palais d'horreur sitôt que Médée a dit le premier de ce
 
 
 
-## SCÈNE V
+## Scène V
 
     HYPSIPYLE
 Que vois-je ? Où suis-je ? Ô dieux ! Quels abîmes ouverts  
@@ -1969,7 +1969,7 @@ Un nuage descend jusqu'à terre, et, s'y séparant en deux moitiés, qui se perd
 
 
 
-## SCÈNE VI
+## Scène VI
 Absyrte, Hypsipyle.
 
 
@@ -2008,14 +2008,14 @@ Et ne pourrai-je...
         Allons, et laissez faire au temps.  
 
 
-# ACTE IV
+# Acte IV
 DÉCORATION DU QUATRIÈME ACTE.
 
 Ce théâtre horrible fait place à un plus agréable : c'est le désert où Médée à coutume de se retirer pour faire ses enchantements. Il est tout de rochers qui laissent sortir de leurs fentes quelques filaments d'herbes rampantes et quelques arbres moitié verts et moitié secs ; ces rochers sont d'une pierre blanche et luisante, de sorte que que comme l'autre théâtre était fort chargé d'ombres, le changement subit de l'un de l'autre fait qu'il semble qu'on passe de la nuit au jour.
 
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Absyrte, Médée.
 
 
@@ -2127,7 +2127,7 @@ Allez sans perdre temps, et laissez-moi rêver
 Aux beaux commencements que je veux achever.  
 
 
-## SCÈNE II
+## Scène II
 
     MÉDÉE
 Tranquille et vaste solitude,  
@@ -2172,7 +2172,7 @@ Sauve tout le dehors du honteux esclavage
 Qui t'enlève tout le dedans.  
 
 
-## SCÈNE III
+## Scène III
 Junon, Médée.
 
 
@@ -2279,7 +2279,7 @@ Le voilà qui paroît, je vous laisse avec lui.
 Vous me rappellerez, s'il a besoin d'appui.  
 
 
-## SCÈNE IV
+## Scène IV
 Jason, Médée.
 
 
@@ -2449,7 +2449,7 @@ Je n'ai pour t'acheter sceptres ni diadèmes ;
 Mais telle que je suis, crains-moi, si tu ne m'aimes.  
 
 
-## SCÈNE V
+## Scène V
 Junon, jason, L'Amour.
 
 L'amour est dans le ciel de Vénus.
@@ -2500,10 +2500,10 @@ Allons, je veux encor seconder vos projets,
 Sans remonter au ciel qu'après leurs pleins effets.  
 
 
-# ACTE V
+# Acte V
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Absyrte, Hypsipyle.
 
 DÉCORATION DU CINQUIÈME ACTE.
@@ -2639,7 +2639,7 @@ Prenez soin de sa vie, ou perdez cette reine ;
 Et si je crains sa mort, craignez aussi ma haine.  
 
 
-## SCÈNE II
+## Scène II
 Aaete, Absyrte, Hypsipyle.
 
 
@@ -2777,7 +2777,7 @@ La vérité, seigneur, se va faire connoître :
 À travers ces rameaux je vois venir mon traître.  
 
 
-## SCÈNE III
+## Scène III
 Aaete, Absyrte, Hypsipyle, Jason, Orphée, Zéthès, Calaïs.
 
 
@@ -2807,7 +2807,7 @@ Il en est parmi nous qui peuvent davantage.
 Souffrez donc que l'ardeur dont je me sens brûler...  
 
 
-## SCÈNE IV
+## Scène IV
 Aaete, Absyrte, Hypsipyle, Médée, Jason, Orphée, Zéthès, Calïs.
 
 
@@ -2879,7 +2879,7 @@ Montrez plus d'espérance, et souvenez-vous mieux
 Que nous avons dompté des monstres à vos yeux.  
 
 
-## SCÈNE V
+## Scène V
 Aaete, Absyrte, Hypsipyle, Médée, Zéthès, Calaïs, Orphée.
 
 
@@ -2970,7 +2970,7 @@ Elle s'envole avec la Toison.
 
 
 
-## SCÈNE VI
+## Scène VI
 Aaete, Absyrte, Hypsipyle, Junon.
 
 
@@ -3020,7 +3020,7 @@ Le ciel s'ouvre, et fait paraître le palais du soleil, où l'on le voit dans so
 
 
 
-## SCÈNE VII
+## Scène VII
 La Soleil, Jupiter, Junon, Aaete, Hypsipyle, Absyrte.
 
 
@@ -3134,8 +3134,3 @@ Allons ensemble, allons sous de si doux auspices
 Préparer à demain de pompeux sacrifices,  
 Et par nos vœux unis répondre au doux espoir  
 Que daigne un dieu si grand nous faire concevoir.  
-
--------
-
-
-[1] Ce vers est célèbre comme étant un "concetto", un jeu de mots sur le terme charme synonyme de d'attraits et synonyme de sort jété par une sorcier ou une sorcière.

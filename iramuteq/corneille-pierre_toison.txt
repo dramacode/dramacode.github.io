@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1660
+**** *book_ *id_a01 *act_a *date_1660
 
 -*who_france
 Doux charme des héros, immortelle Victoire,
@@ -80,7 +80,7 @@ Qui vous lance du ciel de farouches regards ;
 Il menace, il descend : apaisez sa colère
 Par le prompt désaveu d'un souhait téméraire.
 
-**** *book_ *id_I02 *act_I *date_1660
+**** *book_ *id_a02 *act_a *date_1660
 
 -*who_mars
 France ingrate, tu veux la paix !
@@ -104,7 +104,7 @@ J'en veux bien faire encor ta compagne éternelle ;
 Mais sache que je la rappelle,
 Si tu manques d'en bien user.
 
-**** *book_ *id_I03 *act_I *date_1660
+**** *book_ *id_a03 *act_a *date_1660
 
 -*who_paix
 En vain à tes soupirs il est inexorable :
@@ -159,7 +159,7 @@ Mais enfin je le vois, leur accord me l'envoie.
 France, ouvre ton cœur à la joie ;
 Et vous, monstres, fuyez ; ce grand jour est venu.
 
-**** *book_ *id_I04 *act_I *date_1660
+**** *book_ *id_a04 *act_a *date_1660
 
 -*who_discorde
 En vain tu le veux croire, orgueilleuse captive :
@@ -204,7 +204,7 @@ Les délices avec la paix ;
 Descends, objet divin de nos plus doux souhaits,
 Et par tes feux éteins ceux de la guerre.
 
-**** *book_ *id_I05 *act_I *date_1660
+**** *book_ *id_a05 *act_a *date_1660
 
 -*who_france
 Adorable souhait des peuples gémissants,
@@ -305,7 +305,7 @@ Chassez de ces débris les funestes images,
 Et formez des jardins tels qu'avec quatre mots
 Le grand art de Médée en fit naître à Colchos.
 
-**** *book_ *id_II01 *act_II *date_1660
+**** *book_ *id_I01 *act_I *date_1660
 
 -*who_medee
 Parmi ces grands sujets d'allégresse publique,
@@ -413,7 +413,7 @@ Et quoi que votre erreur vous fasse présumer,
 Vous obéirez mal s'il vous défend d'aimer.
 Je sais... Mais le voici, que le prince accompagne.
 
-**** *book_ *id_II02 *act_II *date_1660
+**** *book_ *id_I02 *act_I *date_1660
 
 -*who_aaete
 Enfin nos ennemis nous cèdent la campagne,
@@ -552,7 +552,7 @@ Mais s'il y faut venir, rien ne m'en peut distraire.
 Les voici : parlons-leur ; et pour les arrêter,
 Ne leur refusons rien qu'ils daignent souhaiter.
 
-**** *book_ *id_II03 *act_II *date_1660
+**** *book_ *id_I03 *act_I *date_1660
 
 -*who_aaete
 Guerriers par qui mon sort devient digne d'envie,
@@ -684,7 +684,7 @@ Mais votre perte est sûre à moins que de la mienne.
 Adieu : pensez-y bien. Toi, ma fille, dis-lui
 À quels affreux périls il se livre aujourd'hui.
 
-**** *book_ *id_II04 *act_II *date_1660
+**** *book_ *id_I04 *act_I *date_1660
 
 -*who_medee
 Ces périls sont légers.
@@ -726,7 +726,7 @@ Je vais moi-même à tous redoubler leur furie.
 Juge par là, Jason, de la gloire où tu cours,
 Et cherche où tu pourras des bras et du secours.
 
-**** *book_ *id_II05 *act_II *date_1660
+**** *book_ *id_I05 *act_I *date_1660
 
 -*who_jason
 Amis, voilà l'effet de votre impatience.
@@ -762,7 +762,7 @@ En attendant son ordre, adorons ses bontés.
 Prends ton luth, cher Orphée, et montre à la déesse
 Combien ce doux espoir charme notre tristesse.
 
-**** *book_ *id_II06 *act_II *date_1660
+**** *book_ *id_I06 *act_I *date_1660
 
 -*who_orphee
 Femme et sœur du maître des dieux,
@@ -822,7 +822,7 @@ Qu'après tant de travaux il ouvre à notre joie.
 N'y perdons point de temps, et sans plus de séjour
 Allons sacrifier au tout-puissant Amour.
 
-**** *book_ *id_III01 *act_III *date_1660
+**** *book_ *id_II01 *act_II *date_1660
 
 -*who_junon
 Nous pouvons à l'écart, sur ces rives du Phase,
@@ -923,7 +923,7 @@ Emporter la toison avant son arrivée.
 Votre amante paroît : agissez en amant
 Qui veut en effet vaincre, et vaincre promptement.
 
-**** *book_ *id_III02 *act_III *date_1660
+**** *book_ *id_II02 *act_II *date_1660
 
 -*who_medee
 Que faites-vous, ma sœur, avec ce téméraire ?
@@ -1122,7 +1122,7 @@ Etouffer de ta Grèce et l'amour et l'idée ?
 -*who_jason
 Je le pourrai, madame, et de plus...
 
-**** *book_ *id_III03 *act_III *date_1660
+**** *book_ *id_II03 *act_II *date_1660
 
 -*who_absyrte
       Ah ! Mes sœurs,
@@ -1153,7 +1153,7 @@ Ah ! Madame.
 -*who_junon
       Voyez sans vous embarrasser.
 
-**** *book_ *id_III04 *act_III *date_1660
+**** *book_ *id_II04 *act_II *date_1660
 
 -*who_sirenes
 Telle Vénus sortit du sein de l'onde,
@@ -1251,7 +1251,7 @@ Et si vous m'en croyez, vous gagnerez au change.
 Je vous laisse en résoudre, et prends quelques moments
 Pour rétablir le calme entre ces deux amants.
 
-**** *book_ *id_III05 *act_III *date_1660
+**** *book_ *id_II05 *act_II *date_1660
 
 -*who_absyrte
 Madame, si j'osois, dans le trouble où vous êtes,
@@ -1327,7 +1327,7 @@ Pourront à mon amour vous rendre plus propice.
 Tandis souvenez-vous que jusqu'à se trahir
 Ce prince malheureux cherche à vous obéir.
 
-**** *book_ *id_IV01 *act_IV *date_1660
+**** *book_ *id_III01 *act_III *date_1660
 
 -*who_aaete
 Je vous devois assez pour vous donner Médée,
@@ -1423,7 +1423,7 @@ Ma perte dépend bien de la toison conquise ;
 Mais je ne dois pas craindre en ces périls nouveaux
 Que votre vie échappe aux feux de nos taureaux.
 
-**** *book_ *id_IV02 *act_IV *date_1660
+**** *book_ *id_III02 *act_III *date_1660
 
 -*who_aaete
 Madame, j'ai parlé ; mais toutes mes paroles
@@ -1437,7 +1437,7 @@ Jusques à le sauver de sa propre fureur :
 Devant ce que je dois au secours de ses armes,
 Rompre son mauvais sort, c'est épargner nos larmes.
 
-**** *book_ *id_IV03 *act_IV *date_1660
+**** *book_ *id_III03 *act_III *date_1660
 
 -*who_hypsipyle
 Eh bien ! Jason, la mort a-t-elle de tels biens
@@ -1622,7 +1622,7 @@ Ce véritable amour qui vous donne mon âme ;
 Sinon... Mais dieux ! Que vois-je ? ô ciel ! Je suis perdu,
 Si j'ai tant de malheur qu'elle m'aye entendu.
 
-**** *book_ *id_IV04 *act_IV *date_1660
+**** *book_ *id_III04 *act_III *date_1660
 
 -*who_medee
 Vous l'avez vu, madame, êtes-vous satisfaite ?
@@ -1765,7 +1765,7 @@ Il peut chercher des bras à vous en retirer.
 Adieu : souvenez-vous, au lieu de vous en plaindre,
 Qu'à faute d'être aimée, on peut se faire craindre.
 
-**** *book_ *id_IV05 *act_IV *date_1660
+**** *book_ *id_III05 *act_III *date_1660
 
 -*who_hypsipyle
 Que vois-je ? Où suis-je ? Ô dieux ! Quels abîmes ouverts
@@ -1810,7 +1810,7 @@ Le nuage descend, il s'arrête, il s'entr'ouvre ;
 Et je vois... Mais, ô dieux, qu'est-ce que j'y découvre ?
 Seroit-ce bien le prince ?
 
-**** *book_ *id_IV06 *act_IV *date_1660
+**** *book_ *id_III06 *act_III *date_1660
 
 -*who_absyrte
       Oui, madame, c'est lui
@@ -1844,7 +1844,7 @@ Et ne pourrai-je...
 -*who_hypsipyle
       Allons, et laissez faire au temps.
 
-**** *book_ *id_V01 *act_V *date_1660
+**** *book_ *id_IV01 *act_IV *date_1660
 
 -*who_medee
 Qui donne cette audace à votre inquiétude,
@@ -1953,7 +1953,7 @@ Que soit qu'il vive ou meure, il ne pourra vous nuire.
 Allez sans perdre temps, et laissez-moi rêver
 Aux beaux commencements que je veux achever.
 
-**** *book_ *id_V02 *act_V *date_1660
+**** *book_ *id_IV02 *act_IV *date_1660
 
 -*who_medee
 Tranquille et vaste solitude,
@@ -1997,7 +1997,7 @@ Et si mon âme cède à mes feux trop ardents,
 Sauve tout le dehors du honteux esclavage
 Qui t'enlève tout le dedans.
 
-**** *book_ *id_V03 *act_V *date_1660
+**** *book_ *id_IV03 *act_IV *date_1660
 
 -*who_medee
 L'avez-vous vu, ma sœur, cet amant infidèle ?
@@ -2101,7 +2101,7 @@ Et pour mieux vous ôter tout sujet de me craindre,
 Le voilà qui paroît, je vous laisse avec lui.
 Vous me rappellerez, s'il a besoin d'appui.
 
-**** *book_ *id_V04 *act_V *date_1660
+**** *book_ *id_IV04 *act_IV *date_1660
 
 -*who_medee
 êtes-vous prêt, Jason, d'entrer dans la carrière ?
@@ -2268,7 +2268,7 @@ Choisis en d'autres lieux qui te fasse régner.
 Je n'ai pour t'acheter sceptres ni diadèmes ;
 Mais telle que je suis, crains-moi, si tu ne m'aimes.
 
-**** *book_ *id_V05 *act_V *date_1660
+**** *book_ *id_IV05 *act_IV *date_1660
 
 -*who_junon
 À bien examiner l'éclat de ce grand bruit,
@@ -2312,7 +2312,7 @@ Reportons à Médée une âme plus soumise.
 Allons, je veux encor seconder vos projets,
 Sans remonter au ciel qu'après leurs pleins effets.
 
-**** *book_ *id_VI01 *act_VI *date_1660
+**** *book_ *id_V01 *act_V *date_1660
 
 -*who_absyrte
 Voilà ce prix fameux où votre ingrat aspire,
@@ -2441,7 +2441,7 @@ Vous me faites trembler, tremblez à votre tour :
 Prenez soin de sa vie, ou perdez cette reine ;
 Et si je crains sa mort, craignez aussi ma haine.
 
-**** *book_ *id_VI02 *act_VI *date_1660
+**** *book_ *id_V02 *act_V *date_1660
 
 -*who_aaete
 Ah ! Madame, est-ce là cette fidélité
@@ -2576,7 +2576,7 @@ Et ne discernant rien, j'ai tout à redouter.
 La vérité, seigneur, se va faire connoître :
 À travers ces rameaux je vois venir mon traître.
 
-**** *book_ *id_VI03 *act_VI *date_1660
+**** *book_ *id_V03 *act_V *date_1660
 
 -*who_hypsipyle
 Parlez, parlez, Jason ; dites sans feinte au roi
@@ -2603,7 +2603,7 @@ Et si la force enfin répond mal au courage,
 Il en est parmi nous qui peuvent davantage.
 Souffrez donc que l'ardeur dont je me sens brûler...
 
-**** *book_ *id_VI04 *act_VI *date_1660
+**** *book_ *id_V04 *act_V *date_1660
 
 -*who_medee
 Arrête, déloyal, et laisse-moi parler :
@@ -2670,7 +2670,7 @@ Qui vous fera bientôt imiter ma retraite.
 Montrez plus d'espérance, et souvenez-vous mieux
 Que nous avons dompté des monstres à vos yeux.
 
-**** *book_ *id_VI05 *act_VI *date_1660
+**** *book_ *id_V05 *act_V *date_1660
 
 -*who_calais
 Élevons-nous, mon frère, au-dessus des nuages :
@@ -2748,7 +2748,7 @@ Je la suis, et ne fais que ce qu'elle m'inspire ;
 De toutes deux madame ici vous tiendra lieu.
 Consolez-vous, seigneur, et pour jamais adieu.
 
-**** *book_ *id_VI06 *act_VI *date_1660
+**** *book_ *id_V06 *act_V *date_1660
 
 -*who_aaete
 Ah ! Madame ; ah ! Mon fils ; ah ! Sort inexorable.
@@ -2791,7 +2791,7 @@ Nous aurons dieux pour dieux à nous faire justice ;
 Et déjà le soleil, pour nous prêter secours,
 Fait ouvrir son palais, et détourne son cours.
 
-**** *book_ *id_VI07 *act_VI *date_1660
+**** *book_ *id_V07 *act_V *date_1660
 
 -*who_aaete
 Âme de l'univers, auteur de ma naissance,

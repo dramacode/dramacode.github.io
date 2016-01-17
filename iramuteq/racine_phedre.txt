@@ -656,7 +656,7 @@ Aurais-je pu fléchir...
       Vous l'entendrez lui-même,
 Il vient à vous.
 
-SCÈNE II
+Scène II
 
 -*who_hippolyte
       Madame, avant que de partir,
@@ -1366,7 +1366,7 @@ Entrons. C'est trop garder un doute qui m'accable.
 Connaissons à la fois le crime et le coupable.
 Que Phèdre explique enfin le trouble où je la vois.
 
-SCÈNE VI
+Scène VI
 
 -*who_hippolyte
 Où tendait ce discours qui m'a glacé d'effroi ?

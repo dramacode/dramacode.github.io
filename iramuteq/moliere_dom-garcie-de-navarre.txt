@@ -1156,7 +1156,7 @@ Ah ! Seigneur, par quel sort vous vois-je maintenant ?
 
 **** *book_ *id_III02 *act_III *date_1661 *creator_moliere
 
--*who_dom_sylve
+-*who_dom_alphonse
 Je sais que mon abord, Madame, est surprenant,
 Et qu'être sans éclat entré dans cette Ville,
 Dont l'ordre d'un Rival rend l'accès difficile;
@@ -1209,7 +1209,7 @@ Qu'aux soins d'un autre aussi, je doive quelque chose ;
 Et ne vous plaignez point de voir un autre bras,
 Acquérir de la gloire, où le vôtre n'est pas.
 
--*who_dom_sylve
+-*who_dom_alphonse
 Oui, Madame, mon cœur doit cesser de s'en plaindre,
 Avec trop de raison vous voulez m'y contraindre,
 Et c'est injustement qu'on se plaint d'un malheur,
@@ -1269,7 +1269,7 @@ Elle a fait de l'éclat, que donne un Diadème ;
 Voyez combien d'efforts pour vous elle a bravés,
 Et rendez à son cœur, ce que vous lui devez.
 
--*who_dom_sylve
+-*who_dom_alphonse
 Ah ! Madame, à mes yeux n'offrez point son mérite,
 Il n'est que trop présent à l'ingrat qui la quitte ;
 Et si mon cœur vous dit, ce que pour elle il sent,
@@ -1331,7 +1331,7 @@ De nous donner avis de ce rare bonheur;
 Et nous mettre en état, sans nous vouloir surprendre,
 De vous rendre en ces lieux, ce qu'on voudrait vous rendre.
 
--*who_dom_sylve
+-*who_dom_alphonse
 Les héroïques soins vous occupent si fort,
 Que de vous en tirer, Seigneur, j'aurais eu tort ;
 Et des grands Conquérants les sublimes pensées
@@ -1349,7 +1349,7 @@ En passant dans ces lieux par des sourdes pratiques;
 Et ne craignez-vous point, qu'on puisse aux yeux de tous
 Trouver cette action trop indigne de vous ?
 
--*who_dom_sylve
+-*who_dom_alphonse
 Je ne sais si quelqu'un blâmera ma conduite,
 Au secret que j'ai fait d'une telle visite ;
 Mais je sais qu'aux projets qui veulent la clarté,
@@ -1452,7 +1452,7 @@ Glorieux des douceurs que vous en remportez ;
 Mais encore une fois, apprenez que ma tête
 Peut seule dans vos mains mettre votre conquête.
 
--*who_dom_sylve
+-*who_dom_alphonse
 Quand nous en serons là, le sort en notre bras,
 De tous nos intérêts videra les débats.
 
@@ -2324,7 +2324,7 @@ Non, Seigneur, j'en réponds, et vous donne ma foi
 Que personne jamais n'aura pouvoir sur moi;
 Qu'une sainte retraite à toute autre poursuite...
 
--*who_dom_sylve
+-*who_dom_alphonse
 J'ai de votre discours assez souffert la suite,
 Madame, et par deux mots je vous l'eusse épargné,
 Si votre fausse alarme eût sur vous moins gagné.
@@ -2385,7 +2385,7 @@ Si Done Ignès est morte, ou respire le jour ;
 Mais par Ce Cavalier, l'un de ses plus fidèles,
 Vous en pourrez sans doute apprendre des nouvelles?
 
--*who_dom_sylve
+-*who_dom_alphonse
 Ah ! Madame, il m'est doux en ces perplexités
 De voir ici briller vos célestes beautés,
 Mais vous avec quels yeux verrez-vous un volage,
@@ -2460,7 +2460,7 @@ Et dans votre Rival elle trouve son Frère;
 C'est Dom Alphonse, enfin, dont on a tant parlé,
 Et ce fameux secret vient d'être dévoilé.
 
--*who_dom_sylve_dom_alphonse
+-*who_dom_alphonse
 Mon cœur, grâces au Ciel, après un long martyre,
 Seigneur, sans vous rien prendre a tout ce qu'il désire,
 Et goûte d'autant mieux son bonheur en ce jour,
@@ -2498,7 +2498,7 @@ Mon roi sans me gêner peut me donner à vous.
 Ciel! dans l'excès des biens que cet aveu m'octroie,
 Rends capable mon cœur de supporter sa joie.
 
--*who_dom_sylve_dom_alphonse
+-*who_dom_alphonse
 Je veux que cet Hymen après nos vains débats,
 Seigneur, joigne à jamais nos cœurs, et nos États;
 Mais ici le temps presse, et Léon nous appelle,

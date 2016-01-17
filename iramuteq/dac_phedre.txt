@@ -138,7 +138,7 @@ Dis, t'es pas un peu dingu' ? Ça s'fait pas d'un seul coup !
 Oui je sais distiller les plus rares ivresses…
 C'est y vrai, Sinusite et Pet-d'Nonne ?
 
--*who_les_servantes
+-*who_sinusite_pet_de_none
       Oui c'est vrai, cher' maîtresse…
 
 -*who_hippolyte
