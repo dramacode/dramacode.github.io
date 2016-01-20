@@ -909,7 +909,7 @@ P. 46 : « Lully » : « Lulli » pour davantage d'homogénéité.
 Nous n'avons pas restitué les deux dernières pages, correspondant aux « Livres nouveaux » choisis par l'éditeur, et variant selon les exemplaires que nous avons consultés, contrairement au texte.
 
 
-# LE SOUPER DE MOLIERE, OU LA SOIRÉE D'AUTEUIL, FAIT HISTORIQUE EN UN ACTE, MÊLÉ DE VAUDEVILLES
+# LE SOUPER DE MOLIERE, OU LA SOIRÉE D'AUTEUIL, FAIT HISTORIQUE EN UN ACTE, MÊLÉ DE VAUDEVILLES 
 
 
 ## PERSONNAGES. ACTEURS.

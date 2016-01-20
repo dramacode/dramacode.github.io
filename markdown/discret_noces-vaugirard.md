@@ -572,7 +572,7 @@ Vous entendrez mes sentimens.
  – LE GREFFIER DE VAUGIRARD.
  – LES DEPUTEZ DE VAUGIRARD.Un en trouppe.
  – L'OMBRE DU GRAND CASTRAPPEMagicien.
- –  < LES               NOPCES DE VAUGIRARD. PASTORALLE. >
+ – < LES               NOPCES DE VAUGIRARD. PASTORALLE. >
 
 
 ## ACTE PREMIER.
@@ -4262,7 +4262,7 @@ Trésor de la langue françaisehttp://atilf.atilf.fr/
 
 [45] *L'Astrée*, III*e* partie, livre 6
 
-[46]  Notice biographique *CESAR* : http://www.cesar.org.uk/cesar2/titles/titles.php ? fct=edit&script_UOID=173010 consulté le 4/06/2013
+[46]  Notice biographique *CESAR* : http://www.cesar.org.uk/cesar2/titles/titles.php?fct=edit&script_UOID=173010 consulté le 4/06/2013
 
 [47] *La Madonte du sieur Auvray tragicomédie dédiée à la reine*, A Paris chez Antoine de Sommaville, 1632
 

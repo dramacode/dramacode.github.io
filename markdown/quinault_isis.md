@@ -17,10 +17,15 @@ M .DC. LXXXVII.
 Philippe Quinault
 
 Suivant la copie imprimée, à Paris.
+
+
 Représenté pour la première fois le 5 janvier 1677 devant sa majesté à Saint-Germain-en-Laye.
 
 
-# ACTEURS du PROLOGUE
+# Acteurs
+
+
+## Prologue
  – La RENOMMÉE.
  – CHOEUR de la Suite de la RENOMMÉE, les Rumeurs, les Bruits, etc..
  – Cinq TROMPETTES.
@@ -46,7 +51,7 @@ Représenté pour la première fois le 5 janvier 1677 devant sa majesté à Sain
  – SEPT ARTS LIBERAUX.
 
 
-# ACTEURS de la TRAGÉDIE
+## Tragédie
  – HIÉRAX, amant de la nymphe Io, et frère d'Argus.
  – PIRANTE, ami d'Hiérax.
  – IO, nymphe, fille du fleuve Inachus, aimée de Jupiter, persécutée par Junon, et reçue enfin au rang des divinités célestes sous le nom d'Isis.

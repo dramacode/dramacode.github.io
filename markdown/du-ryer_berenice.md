@@ -1041,7 +1041,7 @@ P73 : necessaire ; Oüy / oüy
 
 P75 : feux ; J'aime / j'aime
 
-P82 : temps ; C'est / c'est aime ; La / la
+P82 : temps ; C'est / c'estaime ; La / la
 
 P83 : perdre ; Car / car
 
@@ -1071,7 +1071,7 @@ J'ay fait bien plus que je ne pensois, puisque j'ay fait en Prose une piece de T
  – LE ROY.
  – LEONIDE.
 La scene est en Crete.
- 
+
 
 BERENICE                    
 
@@ -1346,6 +1346,7 @@ On veut recommencer mes maux, on veut m'enlever de ce pays.
 On veut vous enlever [214], Madame ! Quel est le temeraire qui se peut vanter de cette entreprise ? Ha ! Berenice, avez-vous tant de defiance de mon pouvoir et de mon amour, que ce dessein temeraire vous doive donner de la tristesse ? Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye.
 
     BERENICE.     
+            
 Helas ! c'est un homme qui m'enleve ; et c'est un homme que mon devoir m'oblige de suivre. Enfin pour vous dire tout, c'est mon Pere.
 
     TARSIS.
@@ -2356,7 +2357,7 @@ Il m'est encore impossible de vous appeller ma sœur.
 Il m'est encore impossible de vous regarder en frere. Mais n'avez vous point appris par quelle avanture⁎ nous venons d'estre tous deux changez, vous en mon frere, moy en vostre sœur.
 
     TARSIS.
-Je n'ay rien encore apris d'un changement si estran-/ /ge⁎, et je venois l'apprendre de vous.
+Je n'ay rien encore apris d'un changement si estrange⁎, et je venois l'apprendre de vous.
 
     BERENICE.
 Je n'en sçay rien, Tarsis, et tout ce que je puis dire, c'est qu'il faut ceder à la nature, et vaincre l'amour par l'amitié.

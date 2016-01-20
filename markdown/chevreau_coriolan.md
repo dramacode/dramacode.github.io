@@ -446,7 +446,7 @@ Le choix de Chevreau est tout autre, et constitue une véritable rupture avec le
 
 J'ay changé dans ce sujet une chose assez connüe pour la mort de Coriolan, qui ariva chez les Volsques ; mais il faut considerer qu'il estoit impossible de mettre la Tragedie dans la severité des regles, & dans celle qu'on tient aujourd'huy si necessaire, qui est l'unité du lieu, si je ne l'eusse fait mourir prés de Rome.
 
-Si Chevreau a modifié un élément de la légende de Coriolan, c'est bien pour respecter la « sévérité des règles » qu'il cherche à respecter. Comme on l'a vu, il est très probable que le *Coriolan* ait été représenté à l'aide d'un décor à compartiment : certaines liaisons de scènes impliquent un changement de lieu. On serait donc en présence d'une contrainte de lieu « allégée ». Certains auteurs, pour justifier la pratique de la tragi-comédie vis-à-vis des règles renaissantes, ont pu considérer que, pour respecter l'unité de lieu, la pièce devait se dérouler dans un espace où, pour aller d'un point à un autre, moins de vingt-quatre heures étaient nécessaires []. C'est bien ce que nous avons chez Chevreau : les actions se déroulent dans deux grands espaces, qui devaient sans doute constituer les deux côtés de la scène, Rome et le camp des assiégeants volsques.
+Si Chevreau a modifié un élément de la légende de Coriolan, c'est bien pour respecter la « sévérité des règles » qu'il cherche à respecter. Comme on l'a vu, il est très probable que le *Coriolan* ait été représenté à l'aide d'un décor à compartiment : certaines liaisons de scènes impliquent un changement de lieu. On serait donc en présence d'une contrainte de lieu « allégée ». Certains auteurs, pour justifier la pratique de la tragi-comédie vis-à-vis des règles renaissantes, ont pu considérer que, pour respecter l'unité de lieu, la pièce devait se dérouler dans un espace où, pour aller d'un point à un autre, moins de vingt-quatre heures étaient nécessaires [83]. C'est bien ce que nous avons chez Chevreau : les actions se déroulent dans deux grands espaces, qui devaient sans doute constituer les deux côtés de la scène, Rome et le camp des assiégeants volsques.
 
 Mais pour respecter les règles, Chevreau n'a pas fait que modifier les lieux. Il a délibérément opéré une modification dramatique sur ses sources, afin de pouvoir respecter l'unité de temps. Lorsque débute *Coriolan*, la situation est déjà critique et Rome est assiégée par un général bien décidé à faire payer le prix au peuple, ce que Sicinie semble comprendre à l'issue de son entretien au premier acte :
 
@@ -4261,7 +4261,7 @@ Das Böse im französischen Theater der Jahre 1635-1649, Studien zu ausgewählte
 
 [82]  Chapoton, *Le Véritable Coriolan*, « Advertissement au Lecteur ».
 
-[]  C'est par exemple le cas du *Prince Déguisé* de Georges de Scudéry, qui se vante que « la face du théâtre change cinq ou six fois entièrement à la représentation de ce poème ».
+[83]  C'est par exemple le cas du *Prince Déguisé* de Georges de Scudéry, qui se vante que « la face du théâtre change cinq ou six fois entièrement à la représentation de ce poème ».
 
 [84] Lise Michel, art. cit.
 

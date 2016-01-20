@@ -594,7 +594,7 @@ Constantin desormais ne peut qu'estre heureux pere ;
 Il ne peut au dehors craindre aucun Ennemy.  
 Se voyant au dedans puissamment affermy [161].  
 Emile entre.
- 
+
 
 
 ### Scene II
@@ -624,7 +624,7 @@ Et sa vaine [165] grandeur sera son vray cercueil.
 Vostre fils doit gagner cette belle Couronne.  
 
     CONSTANTIN
-Assemblez le Conseil [166] avant que j'en ordonne.   
+Assemblez le Conseil [166] avant que j'en ordonne.  
 
 
 ### Scene III
@@ -677,7 +677,7 @@ Que la mesme vertu forme ses passions.
 L'Empereur agira puissamment envers elle,  
 Son pouvoir neantmoins a besoin de ton zele ;  
 Puis donc que [170] nous avons mesme dessein⁎ que luy,  
-Pour l'achever bien tost, commençons aujourd'huy.   
+Pour l'achever bien tost, commençons aujourd'huy.  
 
 
 ### Scene IV
@@ -795,7 +795,7 @@ Spurine adorant Crispe implore mon secours,
 Va la donc avertir, sans parler d'autre chose ;  
 Que j'agis puissamment, et qu'elle se repose.  
 Flavie se retire.
- 
+
 
 
 ### Scene V
@@ -862,7 +862,7 @@ Si je n'en puis parler, et ne puis pas m'en taire ?
 Il m'empesche d'estre sincere,  
 Et me doit étouffer s'il n'est produit au jour ;  
 Que Crispe l'apprenne luy mesme,                  
-Et se voyant aimé qu'il me tuë, ou qu'il m'aime [188].   
+Et se voyant aimé qu'il me tuë, ou qu'il m'aime [188].  
 
 
 ### Scene VI
@@ -905,7 +905,7 @@ De grace conformez [195] son ordre à nos plaisirs.
 
     FAUSTE
 Je m'y veux employer, l'affaire est importante,  
-Et mon ressentiment⁎ la fait juger pressante.   
+Et mon ressentiment⁎ la fait juger pressante.  
 
 
 ### Scene VII
@@ -1078,7 +1078,7 @@ Et je crains seulement qu'on ne me choque⁎ pas;
 Il m'ennuie à present de tenir cette épée,  
 Car je la vois briller, l'aimant mieux voir trempée.  
 Crispe se retire, et Fauste entre d'un autre costé
- 
+
 
 
 ### Scene II
@@ -1224,7 +1224,7 @@ Mais je crains d'autre part qu'il ait trop de froideur.
 O Mars ! si ta Venus a pû t'estre agreable,               
 Et si pour la cherir tu t'és rendu traitrable [215] ;  
 Change en flammes d'amour le feu de sa fureur,  
-Et qu'il aime l'amorce⁎ et haïsse l'horreur [216].   
+Et qu'il aime l'amorce⁎ et haïsse l'horreur [216].  
 
 
 ### Scene III.
@@ -1247,7 +1247,7 @@ Que celle que j'obtiens au peril de ma teste.
 Adieu [219] Madame,  
 
     HELENE
-            Adieu.   
+            Adieu.  
 
 
 ### Scene IV                        
@@ -1332,7 +1332,7 @@ On nous éprouve [229] encor quand il est differé.
 Mon fils, tu dois priser⁎ l'amour d'une marastre⁎.  
 
     CRISPE
-Cet amour est trompeur puis qu'il est idolâtre [230].   
+Cet amour est trompeur puis qu'il est idolâtre [230].  
 
 
 ### Scene V                        
@@ -1386,7 +1386,7 @@ Et m'en fera cherir, puis qu'elle le tient cher.
 Qui pourroit-elle aider mieux que sa Confidente ?  
 En me desobligeant seroit-elle obligeante⁎ ?  
 J'estime que son cœur ne fait rien que pour moy,  
-Et qu'elle veut donner son beau Fils à ma Foy⁎.   
+Et qu'elle veut donner son beau Fils à ma Foy⁎.  
 
 
 ### Scene VI.           
@@ -1441,7 +1441,7 @@ Madame, ayant receu cette faveur extreme.
 Je m'en vay publier⁎ l'effect d'une bonté  
 Qui n'a rien de pareil sinon vôtre beauté.  
 Procle se retire.
- 
+
 
 
 ### Scene VII                        
@@ -1535,7 +1535,7 @@ Comme si ton supplice estoit mon vray tourment.
 Peut-on assez priser⁎ une telle Princesse ?  
 
     FAUSTE
-L'effet [253] t'étonnera [254] bien plus que la promesse.       
+L'effet [253] t'étonnera [254] bien plus que la promesse.      
 
 
 ### Scene VIII
@@ -1617,7 +1617,7 @@ Procle rendant raison de la retraite de Crispe, l'Empereur entre en soupçon qua
 
 ### Scene VII
 
-Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils. 
+Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils.
 
 
 ## ACTE III                        
@@ -1645,7 +1645,7 @@ Pour ne me porter pas à tenter l'impossible ;
 Crispe voyant l'excés de ma calamité [263]                  
 Ne s'étonnera pas de cette extremité.  
 Crispe entre Icy.
- 
+
 
 
 ### Scene II
@@ -1944,7 +1944,7 @@ Mon plaisir pretendu [284] fait ma vraye douleur ;
 Ce crime apparemment passe pour execrable,  
 Mais trop d'affection le peut rendre excusable ;  
 Le forfait⁎ est fort beau quand on semble pecher  
-Pour tenir un sujet trop aimable⁎ trop cher.   
+Pour tenir un sujet trop aimable⁎ trop cher.  
 
 
 ### Scene III
@@ -1998,7 +1998,7 @@ Et tu le devois faire ;
 Et moy pour me vanger d'un si mortel affront [294],  
 Je pretends que celuy qui t'a donné la vie  
 Te l'oste par envie [295],  
-Et tout mon deshonneur s'en ira sur ton front.   
+Et tout mon deshonneur s'en ira sur ton front.  
 
 
 ### Scene IV          
@@ -2061,7 +2061,7 @@ Ce m'est plus que mourir que de ne vous pas suivre.        
 
     CRISPE
 Pour rendre neantmoins ce voyage asseuré,  
-Tu dois suivre la Cour quand je la quitteray.   
+Tu dois suivre la Cour quand je la quitteray.  
 
 
 ### Scene V
@@ -2096,7 +2096,7 @@ En se faisant bien craindre, il vous faira regner.
 Cette charge [301] est pour Crispe, il doit tenir ma place  
 Tous en doivent attendre, ou la mort, ou la grace  
 Procle entre.
- 
+
 
 
 ### Scene VI
@@ -2186,7 +2186,7 @@ C'est qu'aimant son époux elle aime son image ;
 Mais qu'ay-je à craindre enfin ? suis-je pas Empereur ?  
 Un fils me feroit-il redouter sa fureur ?  
 L'Imperatrice entre.
- 
+
 
 
 ### Scene VII          
@@ -2420,7 +2420,7 @@ Procle ayant veu mourir son amy, se resout de ne plus vivre, que pour en porter 
 
 ### Scene X.
 
-Il annonce cette funeste⁎ avanture [311] par un silence affecté. 
+Il annonce cette funeste⁎ avanture [311] par un silence affecté.
 
 
 ## ACTE IV.            
@@ -2589,7 +2589,7 @@ Ce mot encore, Sire, on se peut repentir.            
     CONSTANTIN
 Non pas de m'avoir plû, mais de me repartir.  
 Je t'ay dit mon secret, sois moy doncques fidelle,  
-Et montre toy plustost trop zelé que rebelle.   
+Et montre toy plustost trop zelé que rebelle.  
 
 
 ### Scene II
@@ -2621,7 +2621,7 @@ Oüy, je desirerois recevoir ton supplice ;
 Mais si ton pere ne veut pas  
 Que d'autre que son fils de ton mal se ressente ;  
 Et s'il ordonne ton trépas,  
-Ma main obéïssant mon ame est innocente.   
+Ma main obéïssant mon ame est innocente.  
 
 
 ### Scene III
@@ -2671,7 +2671,7 @@ Je ne puis t'en parler que dans un mesme effet ;
 Tu l'apprendras pourtant plustost que tu ne penses,  
 Et perdras tous tes vœux perdant tes esperances.  
 Helene entre.
- 
+
 
 
 ### Scene IV
@@ -2730,7 +2730,7 @@ De pouvoir l'obligeant⁎ vous servir en effet.
 
     HELENE
 Ainsi vôtre clemence à nulle autre seconde,  
-Gagnant un seul sujet gagnera tout le monde.   
+Gagnant un seul sujet gagnera tout le monde.  
 
 
 ### Scene V
@@ -2757,7 +2757,7 @@ Tournera contre nous les pieges qu'on luy tend ?
 Un Grand⁎ ne doit rien craindre ; Artaban m'est fidelle,  
 Et Dieu hait comme moy cette ame criminelle.  
 Helene entre.
- 
+
 
 
 ### Scene VI
@@ -2831,7 +2831,7 @@ Et Crispe desormais ne me sçauroit déplaire.
 
     HELENE
 Je m'en vay publier⁎ ma joye et son bonheur,  
-En dépit de l'enuie il vivra dans l'honneur.   
+En dépit de l'enuie il vivra dans l'honneur.  
 
 
 ### Scene VII
@@ -2868,7 +2868,7 @@ Je sens que ton destin me doit estre fatal.
 Pour conserver pourtant les droits de la justice,  
 Il faut que tout perisse.  
 Fauste et Helene entrent.
- 
+
 
 
 ### Scene VIII                 
@@ -2900,7 +2900,7 @@ Il n'aura plus de mal.
 
     FAUSTE
             O clemence infinie,  
-Qui doit punir l'offence, et la laisse impunie !   
+Qui doit punir l'offence, et la laisse impunie !  
 
 
 ### Scene IX
@@ -2941,7 +2941,7 @@ Que de l'aller blesser⁎ [327] par un discours⁎ frivole ?
 Il faut dissimuler un si cruel⁎ trespas ;  
 Pour insensiblement le dire,  
 Et que Procle n'agissant pas,  
-Elle se cause son martyre.   
+Elle se cause son martyre.  
 
 
 ### Scene X                
@@ -3235,7 +3235,7 @@ Ces yeux qui sans pleurer t'ont regardé perir !
 Mais son sang neantmoins vous fera voir, Madame,  
 Que du forfait⁎ qu'on dit, quelque autre en a le blâme.  
 Helene se retire.
- 
+
 
 
 ### Scene II                        
@@ -3287,7 +3287,7 @@ Et par mesme moyen me rendre inexcusable !
 Mon époux, j'ay pû t'abuser,  
 Tu ne peux doncques pas m'estre qu'impitoyable ?  
 Adelaïde entre.
- 
+
 
 
 ### Scene III                  
@@ -3323,7 +3323,7 @@ Mon decés fera voir qu'encore mort je l'aime.
 Il faut vivre et vanger cét enorme forfait⁎.  
 
     FAUSTE
-Je m'en vay découvrir l'unique autheur du fait.   
+Je m'en vay découvrir l'unique autheur du fait.  
 
 
 ### Scene V
@@ -3457,7 +3457,7 @@ Et mesme criminel, Crispe me semble auguste ;
 Resistons neantmoins à ces lasches douleurs,  
 La justice est sans yeux, qu'elle soit donc sans pleurs.  
 Helene entre.
- 
+
 
 
 ### Scene V            
@@ -3553,7 +3553,7 @@ Il ne faut pas blamer ma femme en ma presence.
     HELENE
 Fauste aussi n'y doit pas accuser l'innocence.  
 Fauste entre.
- 
+
 
 
 ### Scene VI
@@ -3669,7 +3669,7 @@ Pour ne vous engendrer que des sujets d'horreur.
 Dedans [348] vôtre equité vous vous rendez coupable,  
 D'aviser [349] seulement si je suis excusable :  
 Vous redoublez encor le crime que j'ay fait,  
-Quand vous me laissez vivre ayant veu mon forfait⁎.   
+Quand vous me laissez vivre ayant veu mon forfait⁎.  
 
 
 ### Scene VII
@@ -3745,7 +3745,7 @@ Sa peine tarde trop.
 
     FAUSTE
             Il est vray qu'il est lent,  
-Tout supplice m'est doux, bien qu'il soit violent.   
+Tout supplice m'est doux, bien qu'il soit violent.  
 
 
 ### Scene VIII
@@ -3862,7 +3862,7 @@ Et sans qu'il faut mourir nous vivrions doucement.
 
     ADELAÏDE
 Allons nous informer si Fauste est étouffée,  
-Mon amour de sa mort doit dresser son trophée.   
+Mon amour de sa mort doit dresser son trophée.  
 
 
 ### Scene IX, et derniere.             

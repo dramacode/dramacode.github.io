@@ -14,8 +14,18 @@ M. DC. LXXV. AVEC PRIVILEGE DU ROI.
 
 par Mr Racine
 
-Par grâce et privilège du roi, donné à Saint-Germain-en-Laye le vingt-huitème jour de janvier 1675, signé par le Roi en son conseil DALENCE, il est permis au sieur Racine, trésorier de France, de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de théâtre par lui composée, intitulé Iphigénie ; Tragédie : et ce pendant le temps et espace de dix années, avec défense à toute personne de quelque qualité ou condition qu'elle soient, d'en vendre ou d'en débiter aucun exemplaire, que de ceux qui auront été imprimés de son consentement, à peine de trois mille livres d'amende, confiscation des exemplaires, et autres peines, portées par le dit privilège. Le dit Sieur Racine a cédé le droit du dit privilège à Claude Barbin, pour en jouïr suivant le contenur en icelui. Registré sur le livre de la communautéÀ Paris chez Claude Barbin, au Palais, sur le second perron de la Sainte Chapelle.
-Représentée pour la première fois le 18 août 1674 à VersaillesReprésentée pour la premiuère fois en public à l'Hôtel de Bourgogne le 31 décenre 1674.
+
+Par grâce et privilège du roi, donné à Saint-Germain-en-Laye le vingt-huitème jour de janvier 1675, signé par le Roi en son conseil DALENCE, il est permis au sieur Racine, trésorier de France, de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de théâtre par lui composée, intitulé Iphigénie ; Tragédie : et ce pendant le temps et espace de dix années, avec défense à toute personne de quelque qualité ou condition qu'elle soient, d'en vendre ou d'en débiter aucun exemplaire, que de ceux qui auront été imprimés de son consentement, à peine de trois mille livres d'amende, confiscation des exemplaires, et autres peines, portées par le dit privilège.
+
+Le dit Sieur Racine a cédé le droit du dit privilège à Claude Barbin, pour en jouïr suivant le contenur en icelui.
+
+Registré sur le livre de la communauté
+
+À Paris chez Claude Barbin, au Palais, sur le second perron de la Sainte Chapelle.
+
+Représentée pour la première fois le 18 août 1674 à Versailles
+
+Représentée pour la premiuère fois en public à l'Hôtel de Bourgogne le 31 décenre 1674.
 
 
 # Préface

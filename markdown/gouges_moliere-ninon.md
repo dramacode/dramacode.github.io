@@ -998,7 +998,7 @@ L'on doit croire que M. Fleuri se justifiera honnêtement de ne s'être pas trou
  – 
  – 
 La Scène se passe chez Ninon, au Marais.
- 
+
 
 MOLIERE CHEZ NINON, PIECE EPISODIQUE.
 
@@ -5647,20 +5647,34 @@ Théâtre classique : http://www.theatre-classique.fr
 [113] *L'esclavage des Noirs* ou *L'Heureux Naufrage*, aussi intitulé *Zamor et Mirza*, est la première pièce qu'Olympe de Gouges dit avoir écrite. Ce drame a été reçu à la Comédie-Française en 1783, imprimé en 1786, représenté pour la première fois en décembre 1789, puis réimprimé en 1792.
 
 [114]  Mademoiselle Louise Contat, Madame de Parny de son vrai nom, était une actrice de la Comédie-Française de 1776 à 1809. Elle qui jouait notamment les emplois de coquettes. Elle a par exemple interprété le personnage de Suzanne dans *Le Mariage de Figaro*.
+          
 
-[115]  Madame Bellecour était une actrice de la Comédie-Française de 1749 à 1791.
+[115] 
+            Madame Bellecour était une actrice de la Comédie-Française de 1749 à 1791.
+          
 
-[116]  Au XVIII*e* siècle, la ponctuation était surtout liée à l'intonation, à la prononciation orale de l'énoncé. Dans cette phrase l'intonation est exclamative. Il est possible que le typographe se soit trompé de signe, comme cela arrivait parfois à cette époque.
+[116] 
+              Au XVIII*e* siècle, la ponctuation était surtout liée à l'intonation, à la prononciation orale de l'énoncé. Dans cette phrase l'intonation est exclamative. Il est possible que le typographe se soit trompé de signe, comme cela arrivait parfois à cette époque.
+          
 
 [117] *La Maison de Molière* est une comédie de Louis-Sébastien Mercier, publiée en 1788, reçue à la Comédie-Française en 1787 et représentée pour la première fois le 20 octobre 1787. Olympe de Gouges souligne dans la postface (p. (193)) que Mercier, qui était son ami, avait jugé qu'elle pouvait présenter sa pièce à la Comédie-Française. Dans *Les Comédiens démasqués*, elle précise d'ailleurs à propos de *La Maison de Molière*, dans une retranscription de sa réponse à Madame Bellecour, qu'elle « aime cet ouvrage et qu'elle en estime l'auteur ».
+          
 
-[118]  Dans cette phrase, la rupture de construction est telle qu'une ou plusieurs lignes semblent avoir été oubliées.
+[118]  
+            Dans cette phrase, la rupture de construction est telle qu'une ou plusieurs lignes semblent avoir été oubliées.
+          
 
-[119]  Cf Postface p. (193).
+[119]  
+            Cf Postface p. (193).
+          
 
-[120]  Il semble que, pour écrire sa pièce, Olympe de Gouges se soit inspirée des *Mémoires sur la vie de Mademoiselle de Lenclos*, d'Antoine Bret, publié en 1751 et réédité en 1763. En effet, les différents épisodes de la pièce sont racontés dans cet ouvrage et Olympe de Gouges a encadré par des guillemets certaines répliques, qui semblent en être tirées.
+[120]  
+            Il semble que, pour écrire sa pièce, Olympe de Gouges se soit inspirée des *Mémoires sur la vie de Mademoiselle de Lenclos*, d'Antoine Bret, publié en 1751 et réédité en 1763. En effet, les différents épisodes de la pièce sont racontés dans cet ouvrage et Olympe de Gouges a encadré par des guillemets certaines répliques, qui semblent en être tirées.
+          
 
-[121]  Le sujet du verbe « faites » est « qui » et est anaphorique de « vous » d'après l'accord, ce qui serait permis par la comparaison.
+[121]  
+            Le sujet du verbe « faites » est « qui » et est anaphorique de « vous » d'après l'accord, ce qui serait permis par la comparaison.
+          
 
 [122]  Comprendre : « au sujet du grand Molière ».
 

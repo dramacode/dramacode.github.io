@@ -1317,7 +1317,7 @@ Et le dit Courbé a associé audit Priviliege Antoine de Sommaville, aussi March
  – LES ARCHERS.
  – UN VALET muet.
 La Scene est à Tolede, ville d'Espagne.
- 
+
 
 LA BELLE EGIPTIENNE, TRAGI-COMEDIE
 

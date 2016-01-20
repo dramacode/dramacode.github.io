@@ -760,7 +760,7 @@ Signé LOUIS SEVESTRE, Syndic.
  – LYSESuivante de la Comtesse d'Orgueil.
  – CARLINValet du Marquis.
 La Scene est à Paris.
- < LA CONTESSE D’ORGUEIL, >< COMEDIE. >
+< LA CONTESSE D’ORGUEIL, >< COMEDIE. >
 
 
 ## ACTE I.

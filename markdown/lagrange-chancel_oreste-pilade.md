@@ -344,8 +344,8 @@ Enfin, les principaux personnages sont présentés dès l'acte I. Hidaspe rappel
 
 Il est difficile de rendre une exposition intéressante et surtout vraisemblable lorsqu'un personnage fait le récit d'éléments à un second personnage qui en est déjà forcément informé. C'est ce qui se passe dès la première réplique quand Hidaspe rappelle à Thoas sa qualité de roi et les circonstances de sa montée sur le trône, ce que l'intéressé ne peut que connaitre. Toutefois, il faut bien en informer le spectateur. Ainsi, pour ne pas choquer la vraisemblance, La Grange-Chancel use d'un artifice qui consiste à faire répondre Thoas par une réplique qui montre que le roi n'a pas écouté son ministre et qu'il pensait à autre chose. En effet, après qu'Hidaspe a évoqué l'accord des Scythes pour que Thoas soit leur roi, l'arrivée d'Iphigénie et la présence des ambassadeurs Sarmates en Tauride, Thoas demande, sans lien aucun :
 
-  
-  
+A-t-on tout préparé ? verray-je la Princesse,  
+
 
 C'est ce même artifice dont s'était servi Racine pour l'exposition de son *Iphigénie* en 1674. Afin de présenter le personnage d'Agamemnon, l'auteur avait fait parler Arcas sur les origines, le statut de « roi, père, époux heureux » (vers 17) et les différentes qualités de celui-ci ; ce à quoi Agamemnon avait répliqué, trop perturbé par la pensée de sa fille qu'il devait mener au sacrifice :
 

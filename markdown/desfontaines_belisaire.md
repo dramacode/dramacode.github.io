@@ -396,7 +396,7 @@ Signé LEMOINE.< Achevé d’imprimer pour la premiere fois, le 6 Juillet mil si
  – SOPHIENiepce de Justinian.
  – AMALAZONTHEPrincesse de Saxe.
 La scene est à Constantinople.
- < BELISAIRE TRAGI-COMEDIE                                    >
+< BELISAIRE TRAGI-COMEDIE >
 
 
 ## ACTE PREMIER

@@ -14,13 +14,16 @@ Réprésentée par l'Académie Royale de Musique.
 
 M. DC. LXXII. avec privilège de Sa Majesté.
 
-
-
 À PARIS, À l'entrée de la Porte de l'Académie Royale de Musique, près Luxembourg, vis à vis Bel-air
+
+
 Représenté par l'Académie royale de musique, le 17 avril 1782 au Théâtre du Palais-Royal.
 
 
-# ACTEURS DU PROLOGUE
+# Acteurs
+
+
+## Prologue
  – DEUX HOMMES DU BEL-AIR.
  – DEUX FEMMES DU BEL-AIR.
  – UN GENTILHOMME GASCON.
@@ -35,7 +38,7 @@ Représenté par l'Académie royale de musique, le 17 avril 1782 au Théâtre du
  – EUTERPE.
 
 
-# ACTEURS DE LA TRAGÉDIE
+## Tragédie
  – TIRCIS, berger amoureux de Caliste.
  – LICASTE, berger, ami de Tircis.
  – MÉNANDRE, berger, ami de Tircis.

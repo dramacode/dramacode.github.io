@@ -794,7 +794,7 @@ Apres quelques accidens, qui seront peut-estre plus agreables dans la lecture de
  – LE VALET de Caliste
  – UN PAGE
  – UN COURRIER
- –  
+ – 
 
 LISANDRE ET CALISTE
 

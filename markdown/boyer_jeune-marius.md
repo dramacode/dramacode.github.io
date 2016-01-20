@@ -757,17 +757,12 @@ VERS 49 *la* / 80 *fier* / 263 *Preneste* : / 350 *un* / 441 *denoit* / 509 *jo
 
 Quelque impatience que j'eusse de vous donner des marques publiques de ma reconnoissance au nom de toutes les Muses en general, et de la mienne en particulier, quoy que j'en fusse sollicité par la bonne *⁎*fortune de quelqu'une de mes Pieces qui ont precedé celle-cy, j'ay senty mon devoir arresté par une juste defiance et par une crainte respectueuse. Mais enfin ne pouvant plus diferer de satisfaire à ma gratitude, j'ay ramassé toutes mes forces avant que d'entreprendre l'ouvrage que je vous destinois, j'ay pris la Scene la plus magnifique, j'ay choisi un des Heros de l'ancienne Rome, et pour vous le rendre plus agreable, j'ay tâché de le representer avec quelques-uns de ces traits, que nous admirons dans vostre incomparable Heros, Je parle de nostre grand Roy [24], qui rassemble en luy seul tout ce que l'Histoire a de plus incroyable et de plus merveilleux. Plein d'une si haute idée, et soustenu par la dignité de mon sujet, je vous ay consacré mon travail avant que de le commencer ; J'ay envisagé toute la gloire que je pouvois attendre de vostre approbation ; J'ay invoqué avec plus de ferveur que jamais le Dieu qui nous inspire, et je me suis dit sans cesse, qu'ayant esté choisi pour estre un des sujets des gratifications du Roy [25], je devois soustenir , ou plûtost justifier un choix si honorable. C'est avec ce grand secours, MONSEIGNEUR, que j'ay travaillé assez heureusement : quoy que la *⁎*fortune et la cabale se meslent aujourd'huy de faire le bon et le mauvais destin des ouvrages du Theatre [26], celuy que je vous ay consacré n'a pas succombé sous leur injustice. Ce n'est que vous, MONSEIGNEUR, que j'ay lieu d'apprehender, quand je l'expose à vos yeux : je sçay que rien n'échape à la penetration de vostre esprit, et que vous possedez le precieux talent de juger finement de toutes choses : Je sçay que c'est de cette idée generale, que vous avez du beau et du parfait que se répandent sans cesse de nouvelles beautez et de nouvelles lumieres sur tous les Arts et sur toutes les Sciences [27] : C'est de là que vient ce grand amour que vous avez pour elles, ces soins continuels et cette magnifique protection, dont vous honorez l'empire des belles Lettres, au milieu de ces grandes occupations que vous donnez avec une application étonnante et sans exemple à la premiere Monarchie de la terre. Que j'aurois de choses à dire, MONSEIGNEUR, sur un si vaste sujet, et qu'il seroit doux à une ame reconnoissante comme la mienne de s'abandonner à la loüange de son bienfaicteur ! Mais je sçay trop quelle est la delicatesse de vostre modestie, et avec quelle discretion il faut manier toutes les matieres qui regardent vostre gloire. Agréez au moins, MONSEIGNEUR, que je laisse échaper devant vous une louange qui est dans la bouche de tout le monde.
 
-Permettez que j'apprenne à la posterité,
-
-Que vous avez executé
-
-Des choses qu'avant vous on avoit regardées
-
-Comme les vains projets d'un zele mal fondé,
-
-et dont tous ceux qui vous ont precedé,
-
-Eurent à peine les idées.
+    Permettez que j'apprenne à la posterité,  
+Que vous avez executé  
+    Des choses qu'avant vous on avoit regardées  
+    Comme les vains projets d'un zele mal fondé,  
+    et dont tous ceux qui vous ont precedé,  
+Eurent à peine les idées.  
 
 Je n'entreray point dans le détail et dans la preuve de toutes ces merveilles, le témoignage que le Roy en rend tous les jours par sa propre bouche, vaut mieux que tous nos eloges ; ces glorieuses veritez sont assez confirmées par les solides marques que sa Majesté vous donne continuellement de son estime, et par les nouvelles dignitez dont il recompense vos travaux. Je suis avec un profond respect,
 

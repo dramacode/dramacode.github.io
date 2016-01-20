@@ -50,7 +50,9 @@ L'amour, qui a d'ordinaire tant de part dans les tragédies, n'en a presque poin
  – Olympe, confidente de Jocaste.
  – Attale, confident de Créon.
  – Un soldat de l'armée de Polynice.
- – Gardes. [1]La scène est à Thèbes, dans une salle du palais royal. [2]
+ – Gardes. [1]
+La scène est à Thèbes, dans une salle du palais royal.
+ [2]
 
 
 # ACTE I
@@ -651,10 +653,11 @@ Quel est donc ce grand mal que leur courroux annonce ?
 
     OLYMPE
 Prince pour en juger écoutez leur réponse.  
-*Thébains pour n'avoir plus de guerres,*  
-*Il faut par un ordre fatal,*  
-*Que le dernier du sang royal,*  
-*Par son trépas ensanglante vos terres. *  
+
+Thébains pour n'avoir plus de guerres,  
+Il faut par un ordre fatal,  
+Que le dernier du sang royal,  
+Par son trépas ensanglante vos terres.  
 
     ANTIGONE
 Ô dieux ! que vous a fait ce sang infortuné,  
@@ -2257,7 +2260,7 @@ Il tombe entre les mains des gardes.
 
 [1] Dans l'édition de 1664, on lit : "UN SOLDAT Grec, un page, et des gardes". "Gardes" seul n'apparait qu'à partir de 1676.
 
-[2] Le texte est celui de l'édition 1697. Les variantes en partie sont indiquées .
+[2] Le texte est celui de l'édition 1697. Les variantes en partie sont indiquées.
 
 [3] Variante ed. 1664-1687 : v.5 "Il devrait bien plutôt les fermer à jamais," ; v.6 "Que de favoriser le plus noirs des forfaits.".
 

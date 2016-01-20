@@ -754,7 +754,9 @@ On vous a demandée, ma Fille, et il y a des gens que votre absence chagrine for
 Je pense, Madame, qu'on m'a demandée par compliment, et on ne s'inquiète pas tant qu'on vous dit.
 
     ARISTIONE
-On enchaîne pour nous ici tant de divertissements les uns aux autres, que toutes nos heures sont retenues, et nous n'avons aucun moment à perdre, si nous voulons les goûter tous. Entrons vite dans le Bois, et voyons ce qui nous y attend ; ce lieu est le plus beau du monde, prenons vite nos places.< Fin du second Acte. >
+On enchaîne pour nous ici tant de divertissements les uns aux autres, que toutes nos heures sont retenues, et nous n'avons aucun moment à perdre, si nous voulons les goûter tous. Entrons vite dans le Bois, et voyons ce qui nous y attend ; ce lieu est le plus beau du monde, prenons vite nos places.
+
+<Fin du second Acte.>
 
 
 ## Troisième intermède
@@ -774,7 +776,7 @@ Le Théâtre est une Forêt, où la Princesse est invitée d'aller, une Nymphe l
  – 
 
 
-### PROLOGUE
+### Prologue
 
     LA NYMPHE DE TEMPÉ
 Venez, grande Princesse, avec tous vos appas,  
@@ -797,7 +799,7 @@ Hélas ! petits oiseaux, hélas !
 Si vous aviez mes maux vous ne chanteriez pas.  
 
 
-### Scène DEUXIÈME
+### Scène Deuxième
 Lycaste, Ménandre, Tircis
 
 
@@ -881,7 +883,7 @@ L'Ingrate, hélas !
 N'y viendrait pas.  
 
 
-### Scène TROISIÈME
+### Scène Troisième
 
     CALISTE
 
@@ -917,7 +919,7 @@ Nous n'avons point de Loi sévère
 Qui défende à nos sens d'en goûter la douceur.  
 
 
-### Scène QUATRIÈME
+### Scène Quatrième
 Caliste, Tircis, Lycaste, Ménandre.
 
 
@@ -993,7 +995,7 @@ Digne prix de ta foi.
 Ô sort digne d'envie !  
 
 
-### Scène CINQUIÈME
+### Scène Cinquième
 Deux Satyres, Tircis, Lycaste, Caliste.
 
 
@@ -1034,7 +1036,7 @@ En même temps six Dryades et six Faunes sortent de leurs demeures, et font ense
 
 
 
-### DÉPIT AMOUREUX
+### Dépit amoureux
 Climène, Philinte.
 
 
@@ -1436,7 +1438,7 @@ De quatre Pantomimes.
 ## Acte V
 
 
-### Scène première
+### Scène Première
 Clitidas, Ériphile.
 
 

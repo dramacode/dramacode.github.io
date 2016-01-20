@@ -973,7 +973,7 @@ Lecteur je croirois offencer ton jugement si je ne le croyois capable de discern
  – ALERINESuivante de Pasithee.
  – AGRAMORPage de Tygrane.
 La Scene est en l'Isle de Lesbos.
- < EURIMEDONTRAGI-COMEDIE >
+< EURIMEDONTRAGI-COMEDIE >
 
 
 ## ACTE I

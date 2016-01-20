@@ -338,7 +338,7 @@ Qui dans tout l'Univers vous fait tant de jaloux.
 
 -*who_bellerophon
 Seigneur, quand on combat pour vous
-N'est-on pas seur de la victoire ?
+N'est-on pas seur de la victoire ? 
 
 -*who_iobate
 Apres avoir rangé deux Peuples sous mes Loix,

@@ -649,7 +649,8 @@ Ah Dieux ! que faites-vous ?
     LIZANDRE
 Allons icy devant penser vostre blessure.  
 
-    FLORESTAN *(bas)* 
+    FLORESTAN *(bas)*
+              
 En entrant dans Paris, Dieux ! quel mauvais augure,  
 Qu'il me couste du sang.  
 
@@ -1852,7 +1853,8 @@ Plus je me romps l'esprit sur un sujet si rare,
 Plus mes sens sont confus, et ma raison s'esgare.  
 Achevons.  
 
-    CARRILLE,* (à par soy en ramassant les hardes.)* 
+    CARRILLE,* (à par soy en ramassant les hardes.)*
+            
 Ce demon,cét esprit enragé  
 S'est sauvé de l'enfer sans demander congé,  
 Avec son esprit fort mon maistre est heretique,  

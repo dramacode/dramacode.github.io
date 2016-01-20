@@ -5,6 +5,8 @@ Génère les formats détachés et le site statique basique sur Dramacode
 // cli usage
 Dramacode::deps();
 set_time_limit(-1);
+
+
 if (realpath($_SERVER['SCRIPT_FILENAME']) != realpath(__FILE__)) {
   // file is include do nothing
 }
@@ -160,7 +162,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
-        $livre->epub($destfile);
+        $livre->epub($destfile);        
         // transformation auto en kindle
         $cmd = dirname(__FILE__)."/kindlegen ".$destfile;
         $last = exec ($cmd, $output, $status);
@@ -350,6 +352,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     else {
       include_once($inc);
     }
+    /*
     $inc = dirname(__FILE__).'/../Toff/Tei2docx.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Toff/
@@ -359,6 +362,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     else {
       include_once($inc);
     }
+    */
     self::$_deps=true;
   }
   /**
@@ -380,6 +384,17 @@ CREATE INDEX play_year_author ON play(year, author, title);
     else if (is_resource(self::$_logger)) fwrite(self::$_logger, $errstr."\n");
     else if ( is_string(self::$_logger) && function_exists(self::$_logger)) call_user_func(self::$_logger, $errstr);
   }
+  static function epubcheck($glob) {
+    echo "epubcheck epub/*.epub\n";
+    foreach(glob($glob) as $file) {
+      echo $file;
+      // validation
+      $cmd = "java -jar ".dirname(__FILE__)."/epubcheck/epubcheck.jar ".$file;
+      $last = exec ($cmd, $output, $status);
+      echo ' '.$status."\n";
+      if ($status) rename($file, dirname($file).'/_'.basename($file));
+    }
+  }
   /**
    * Command line API 
    */
@@ -397,6 +412,10 @@ CREATE INDEX play_year_author ON play(year, author, title);
           $base->add($file, $setcode);
         }
       }
+      exit();
+    }
+    if ($_SERVER['argv'][0] == 'epubcheck') {
+      Dramacode::epubcheck('epub/*.epub');
       exit();
     }
     // des arguments, on joue plus fin

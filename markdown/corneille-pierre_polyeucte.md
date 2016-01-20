@@ -70,13 +70,15 @@ Si j'ai ajouté ces incidents, et ces particularités selon l'art ou non, les sa
  – Albin, confident de Félix.
  – Fabian, domestique de Sévère.
  – Cléon, domestique de Félix.
- – Trois gardes.La scène est à Mélitène, capitale d'Arménie, dans le palais de Félix.
+ – Trois gardes.
+La scène est à Mélitène, capitale d'Arménie, dans le palais de Félix.
 
 
-# ACTE I
+
+# Acte I
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Polyeucte, Néarque.
 
 
@@ -222,7 +224,7 @@ Qui le trouve aisément, qui blesse par la vue,
 Et dont le coup mortel vous plaît quand il vous tue.  
 
 
-## SCÈNE II
+## Scène II
 Polyeucte, Néarque, Pauline, Stratonice.
 
 
@@ -272,7 +274,7 @@ Je sens déjà mon cœur prêt à se révolter,
 Et ce n'est qu'en fuyant que j'y puis résister.  
 
 
-## SCÈNE III
+## Scène III
 Pauline, Stratonice.
 
 
@@ -449,7 +451,7 @@ On ne peut les charger d'aucun assassinat.
 Tais-toi, mon père vient.  
 
 
-## SCÈNE IV
+## Scène IV
 Félix, Albin, Pauline, Stratonice.
 
 
@@ -617,10 +619,10 @@ Oui, je vais de nouveau dompter mes sentiments,
 Pour servir de victime à vos commandements.  
 
 
-# ACTE II
+# Acte II
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Sévère, Fabian.
 
 
@@ -787,7 +789,7 @@ Fabian, je la vois.
 Hélas ! Elle aime un autre, un autre est son époux.  
 
 
-## SCÈNE II
+## Scène II
 Sévère, Pauline, Stratonice, Fabian.
 
 
@@ -943,7 +945,7 @@ Adieu, trop vertueux objet, et trop charmant.
 Adieu, trop malheureux et trop parfait amant.  
 
 
-## SCÈNE III
+## Scène III
 Pauline, Stratonice.
 
 
@@ -986,7 +988,7 @@ Son séjour en ce lieu m'est toujours redoutable ;
 Il est puissant, il m'aime, et vient pour m'épouser.  
 
 
-## SCÈNE IV
+## Scène IV
 Polyeucte, Néarque, Pauline, Stratonice.
 
 
@@ -1039,7 +1041,7 @@ Plus je vois mes défauts et plus je vous contemple,
 Plus j'admire...  
 
 
-## SCÈNE V
+## Scène V
 Polyeucte, Pauline, Néarque, Stratonice, Cléon.
 
 
@@ -1063,7 +1065,7 @@ Et comme je connais sa générosité,
 Nous ne nous combattrons que de civilité.  
 
 
-## SCÈNE VI
+## Scène VI
 Polyeucte, Néarque.
 
 
@@ -1234,10 +1236,10 @@ Allons faire éclater sa gloire aux yeux de tous,
 Et répondre avec zèle à ce qu'il veut de nous.  
 
 
-# ACTE III
+# Acte III
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 
     PAULINE, SEULE.
 Que de soucis flottants, que de confus nuages  
@@ -1286,7 +1288,7 @@ Ce qui doit l'affermir sert à le dissiper.
 Dieux ! Faites que ma peur puisse enfin se tromper !  
 
 
-## SCÈNE II
+## Scène II
 Pauline, Stratonice.
 
 
@@ -1452,7 +1454,7 @@ Que son visage est sombre et plein d'émotion !
 Qu'il montre de tristesse et d'indignation !  
 
 
-## SCÈNE III
+## Scène III
 Félix, Pauline, Stratonice.
 
 
@@ -1635,7 +1637,7 @@ N'en parlons plus.
         Mon père...  
 
 
-## SCÈNE IV
+## Scène IV
 Félix, Albin, Pauline, Stratonice.
 
 
@@ -1699,7 +1701,7 @@ Votre douleur m'offense autant qu'elle m'afflige.
 Vous avancerez plus en m'importunant moins.  
 
 
-## SCÈNE V
+## Scène V
 Félix, Albin.
 
 
@@ -1834,10 +1836,10 @@ Allons, et s'il persiste à demeurer chrétien,
 Nous en disposerons sans qu'elle en sache rien.  
 
 
-# ACTE IV
+# Acte IV
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Polyeucte, Cléon, trois autres gardes.
 
 
@@ -1879,7 +1881,7 @@ Va, ne perds point de temps, et reviens promptement.
 Je serai de retour, seigneur, dans un moment.  
 
 
-## SCÈNE II
+## Scène II
 Polyeucte.
 
 
@@ -1949,7 +1951,7 @@ Et mes yeux, éclairés des célestes lumières,
 Ne trouvent plus aux siens leurs grâces coutumières.  
 
 
-## SCÈNE III
+## Scène III
 Polyeucte, Pauline, Gardes.
 
 
@@ -2160,7 +2162,7 @@ Oui, je t'y vais laisser ; ne t'en mets plus en peine ;
 Je vais...  
 
 
-## SCÈNE IV
+## Scène IV
 Polyeucte, Pauline, Sévère, Fabian, Gardes.
 
 
@@ -2191,7 +2193,7 @@ Qu'on me mène à la mort, je n'ai plus rien à dire.
 Allons, gardes, c'est fait.  
 
 
-## SCÈNE V
+## Scène V
 Sévère, Pauline, Fabian.
 
 
@@ -2255,7 +2257,7 @@ Si vous n'êtes pas tel que je l'ose espérer,
 Pour vous priser encore je le veux ignorer.  
 
 
-## SCÈNE VI
+## Scène VI
 Sévère, Fabian.
 
 
@@ -2350,10 +2352,10 @@ Et contentons ainsi, d'une seule action,
 Et Pauline, et ma gloire, et ma compassion.  
 
 
-# ACTE V
+# Acte V
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Félix, Albin, Cléon.
 
 
@@ -2451,7 +2453,7 @@ Mais Polyeucte vient, tâchons à le sauver.
 Soldats, retirez-vous, et gardez bien la porte.  
 
 
-## SCÈNE II
+## Scène II
 Félix, Polyeucte, Albin.
 
 
@@ -2571,7 +2573,7 @@ Mon choix n'est point douteux. Mais j'aperçois Pauline.
 Ô ciel !  
 
 
-## SCÈNE III
+## Scène III
 Félix, Polyeucte, Pauline, Albin.
 
 
@@ -2729,7 +2731,7 @@ Qu'on l'ôte de mes yeux, et que l'on m'obéisse :
 Puisqu'il aime à périr, je consens qu'il périsse.  
 
 
-## SCÈNE IV
+## Scène IV
 Félix, Albin.
 
 
@@ -2780,7 +2782,7 @@ Tâche à la consoler. Va donc : qui te retient ?
 Il n'en est pas besoin, seigneur, elle revient.  
 
 
-## SCÈNE V
+## Scène V
 Félix, Pauline, Albin.
 
 
@@ -2815,7 +2817,7 @@ Le coup à l'un et l'autre en sera précieux,
 Puisqu'il t'assure en terre en m'élevant aux cieux.  
 
 
-## SCÈNE VI
+## Scène VI
 
     SÉVÈRE
 Père dénaturé, malheureux politique,  

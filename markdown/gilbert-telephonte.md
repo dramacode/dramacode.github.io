@@ -924,7 +924,7 @@ Vers 1404 : l'inhumain, -> l'inhumain.
 Vers 1442 : mere. -> mere ?
 
 
-# TELEPHONTE. TRAGI-COMEDIE. 
+# TELEPHONTE. TRAGI-COMEDIE.
 
 
 ## Extraict du Privilege du Roy.
@@ -935,7 +935,7 @@ Par le Roy en son Conseil,
 
 *LE BRUN.*< Achevé d’imprimer pour la premiere fois le 28. Septembre 1642. >
 
-Les Exemplaires ont esté fournis. 
+Les Exemplaires ont esté fournis.
 
 
 ## Personnages
@@ -951,7 +951,7 @@ Les Exemplaires ont esté fournis.
  – 
  – 
 La Scene est à Micene [153] dans le Peloponese.
- 
+
 
 
 ## ACTE I.
@@ -1419,7 +1419,7 @@ Que [224] cet Edit sanglant n'ait produit son effet.
 
     DEMOCHARE.
 Esperez [225] seulement, la mort de Telephonte  
-Dissipera bien-tost l'ennuy⁎ qui vous surmonte.  < Fin du premier Acte. > 
+Dissipera bien-tost l'ennuy⁎ qui vous surmonte.  < Fin du premier Acte. >
 
 
 ## ACTE II.
@@ -1844,7 +1844,7 @@ Tu me nommes Tyran, mais je deviendray pire.
 Je n'auray plus pour toy nul rayon de bonté,  
 Ma fureur passera jusqu'à l'extremité.  
 Je feray sans respect, sans crainte de personne,  
-Ce qu'Hermocrate veut et que le Ciel ordonne.  < Fin du second Acte. > 
+Ce qu'Hermocrate veut et que le Ciel ordonne.  < Fin du second Acte. >
 
 
 ## ACTE III.

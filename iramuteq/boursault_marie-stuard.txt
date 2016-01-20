@@ -1,6 +1,6 @@
 
 
-**** *book_boursault_marie-stuard *id_dedicace *date_1691 *creator_boursault
+**** *book_ *id_dedicace *date_1691 *creator_boursault
 
 A MONSEIGNEUR LE DUC DE ST AIGNAN, PAIR DE FRANCE, Chevalier des Ordres du Roy, Premier Gentilhomme de la Chambre, Gouverneur et Lieutenant General pour sa Majesté de la Ville, Citadelle et Province du Havre.
 
@@ -30,7 +30,7 @@ MONSEIGNEUR,
 
 Vostre tres-humble, tres-obeïssant, & tres-obligé Serviteur, BOURSAULT.
 
-**** *book_boursault_marie-stuard *id_privilege *date_1691 *creator_boursault
+**** *book_ *id_privilege *date_1691 *creator_boursault
 
 Extrait du Privilege du Roy
 
@@ -47,7 +47,7 @@ Et ledit sieur Boursault a cedé au sieur J. Guignard le droit qu'il a au presen
 Achevé d'imprimer le 20.
 Novembre 1691.
 
-**** *book_boursault_marie-stuard *id_acteurs *date_1691 *creator_boursault
+**** *book_ *id_acteurs *date_1691 *creator_boursault
 
 ACTEURS.
 
@@ -57,7 +57,7 @@ REINE D'ECOSSE,
 
 TRAGéDIE.
 
-**** *book_boursault_marie-stuard *id_body-4-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-4-1 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Euric, dans ce Palais ne m'accompagnez pas.
@@ -105,7 +105,7 @@ Que les autres forfaits ne coutent presque rien ?
 Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire
 Allez prester l'oreille à ce qu'il va me dire.
 
-**** *book_boursault_marie-stuard *id_body-4-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-4-2 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Comte.
@@ -323,7 +323,7 @@ Seigneur, je croy le voir paroistre :
 Laissez-moy de son coeur penetrer les secrets.
 Pour remplir vos desirs je vous suivray de prés.
 
-**** *book_boursault_marie-stuard *id_body-4-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-4-3 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 He bien, Seigneur...
@@ -486,7 +486,7 @@ Enfin, pour la contraindre à la reconnoissance
 Du zele le plus pur empruntez l'apparence.
 Accoûtumez son cœur…
 
-**** *book_boursault_marie-stuard *id_body-4-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-4-4 *act_ *date_1691 *creator_boursault
 
 -*who_lancastre
 Ah, Seigneur, hâtez-vous,
@@ -523,7 +523,7 @@ Qu'il faut executer l'Arrest qu'elle a fait rendre.
 La nature outragée a beau s'en émouvoir,
 Sa voix est impuissante où parle mon devoir.
 
-**** *book_boursault_marie-stuard *id_body-5-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-1 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Auriez-vous jamais crû qu'insensible à mes graces,
@@ -668,7 +668,7 @@ Laissez-moy le surprendre en commettant son crime :
 Vous n'hesiterez plus à vouloir son trépas
 Quand de sa trahison vous ne douterez pas.
 
-**** *book_boursault_marie-stuard *id_body-5-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-2 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 He bien, Lancastre, hé bien, tu vois ce qui se passe :
@@ -759,7 +759,7 @@ Madame, pardonnez si j'ay crû que sa foy...
 Voicy le Duc. Euric, demeurez avec moy.
 Ma vie aux mains d'un Traistre est trop mal asseurée.
 
-**** *book_boursault_marie-stuard *id_body-5-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-3 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Quoy, Madame, si tard n'estre pas retirée ?
@@ -814,7 +814,7 @@ Je vous fais aprés moy le premier en tout lieu.
 Meritez mes bienfaits par vostre zele. Adieu.
 Le Perfide est contraint, ma presence le gesne⁎.
 
-**** *book_boursault_marie-stuard *id_body-5-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-4 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Me trompez-vous mes sens ! Ay-je entendu la Reine !
@@ -830,7 +830,7 @@ Je vous tiendray parole, ou mon sang répandu
 Aura fait pour le moins tout ce qu'il aura dû.
 Heureux si par ma mort la vostre differée...
 
-**** *book_boursault_marie-stuard *id_body-5-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-5 *act_ *date_1691 *creator_boursault
 
 -*who_euric
 Dans son Appartement la Reine est retirée,
@@ -844,7 +844,7 @@ Ces momens fortunez ne se retrouvent pas.
 De la Reine captive allez haster les pas.
 Je vous attends.
 
-**** *book_boursault_marie-stuard *id_body-5-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-6 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 O Ciel ! voy pour qui je t'implore.
@@ -854,7 +854,7 @@ Ait mis ce que j'adore à couvert de ses coups.
 Sauve de sa fureur une Reine si belle.
 Je suis trahy, sans doute, Euric revient sans elle.
 
-**** *book_boursault_marie-stuard *id_body-5-7 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-7 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 A la Reine d'Ecosse a-t-on manqué de foy ?
@@ -867,7 +867,7 @@ Je devance ses pas pour dissiper sa crainte.
 Un peu d'émotion meslée à ses attraits
 Vous la va faire voir plus belle que jamais.
 
-**** *book_boursault_marie-stuard *id_body-5-8 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-8 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Venez, venez, Madame...
@@ -887,7 +887,7 @@ Sortons, Madame...O Ciel ! d'où vient un si grand bruit ?
 -*who_marie_stuard
 Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.
 
-**** *book_boursault_marie-stuard *id_body-5-9 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-9 *act_ *date_1691 *creator_boursault
 
 -*who_killegre
 Hola, Gardes ? A moy : l'on veut trahir la Reine.
@@ -901,7 +901,7 @@ C'est le Duc de Norfolc, qui cent fois...
 Il n'importe.
 Je suis Sujet, Seigneur, & ce devoir l'emporte.
 
-**** *book_boursault_marie-stuard *id_body-5-10 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-5-10 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Quel desordre, si tard, ose-t-on faire icy ?
@@ -940,7 +940,7 @@ Qui pour m'estre fidele avez trahy ce Traistre,
 Ayez soin d'assembler demain à mon réveil
 Les Pairs accoûtumez à tenir mon Conseil.
 
-**** *book_boursault_marie-stuard *id_body-6-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-6-1 *act_ *date_1691 *creator_boursault
 
 -*who_lancastre
 Non, Madame, les Pairs ne viennent point encore.
@@ -964,7 +964,7 @@ Madame, ils vont entrer tous deux.
 Pour immoler le Duc je veux m'asseurer d'eux.
 Ils ont pour ce Perfide une haine mortelle .
 
-**** *book_boursault_marie-stuard *id_body-6-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-6-2 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Comtes, depuis long-temps je connois vostre zele.
@@ -978,7 +978,7 @@ Et que Traistre, une fois, il est de la justice
 D'empêcher desormais que l'Ingrat me trahisse.
 Allez.
 
-**** *book_boursault_marie-stuard *id_body-6-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-6-3 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Approchez, Duc. Si le Ciel l'eût permis
@@ -1226,7 +1226,7 @@ Gardes, laissez-les seuls ; & maistres de la porte,
 Empêchez seulement qu'aucun n'entre ou ne sorte.
 Il y va de vos jours à répondre des leurs .
 
-**** *book_boursault_marie-stuard *id_body-6-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-6-4 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 He bien, Duc, vos bontez augmentent mes malheurs.
@@ -1372,7 +1372,7 @@ Et j'ignorois, Madame, en prenant ce party,
 L'amour le plus puissant qu'on ait jamais senty.
 Tout pur qu'est cet amour mes desirs ne prétendent...
 
-**** *book_boursault_marie-stuard *id_body-6-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-6-5 *act_ *date_1691 *creator_boursault
 
 -*who_killegre
 Les Pairs sont assemblez, Seigneur, & vous attendent.
@@ -1404,7 +1404,7 @@ Qui vous oste avant moy des miseres du monde ,
 Pour remplir mon attente, & mes voeux les plus doux,
 M'appeller à la mort un moment aprés vous.
 
-**** *book_boursault_marie-stuard *id_body-7-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-1 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Oüy, Seigneur, je vous plains, une cheute si prompte...
@@ -1450,7 +1450,7 @@ Sa presence est pour moy pire que le trépas.
 -*who_le_comte_de_neucastel
 O Ciel ! à quelle honte aujourd'huy je m'expose !
 
-**** *book_boursault_marie-stuard *id_body-7-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-2 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
 A prevenir⁎ nos voeux la Reine se dispose.
@@ -1505,7 +1505,7 @@ J'ay déja fait...
 -*who_le_comte_de_neucastel
 Seigneur, je voy venir la Reine.
 
-**** *book_boursault_marie-stuard *id_body-7-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-3 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Ne vous opposez pas au penchant qui m'entraîne,
@@ -1551,7 +1551,7 @@ Je veux de ce Perfide humilier l'audace :
 Et pour peu qu'il s'échape à braver mon courroux,
 Pour me vanger de luy j'auray besoin de vous.
 
-**** *book_boursault_marie-stuard *id_body-7-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-4 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Un reste de bonté dont s'indigne mon ame,
@@ -1757,7 +1757,7 @@ Reponds, sans balancer.
 Gardes, qu'on me rameine.
 C'est ma réponse.
 
-**** *book_boursault_marie-stuard *id_body-7-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-5 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Ah Ciel ! l'Ingrat n'hesite pas !
@@ -1771,7 +1771,7 @@ Pour venir à grands pas fondre sur l'Angleterre,
 Comte de Neucastel, ne me revoyez pas
 Que vous n'ayez esté témoin de son trépas.
 
-**** *book_boursault_marie-stuard *id_body-7-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-7-6 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
 Ses ordres sont précis pour perdre sa Rivale,
@@ -1807,7 +1807,7 @@ Il faut que de ma haine il devienne la proye ;
 Et dût-elle sur moy le vanger aujourd'huy,
 Je mourray sans regret si je meurs aprés luy.
 
-**** *book_boursault_marie-stuard *id_body-8-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-1 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 Quand il faudra partir je n'ay rien qui m'arreste.
@@ -1849,7 +1849,7 @@ Et qu'un jour…
 -*who_marie_stuard
 Quelqu'un vient. Contraignez vos douleurs.
 
-**** *book_boursault_marie-stuard *id_body-8-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-2 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 Approche, ingrat Sujet, dont la haine m'accable,
@@ -1898,7 +1898,7 @@ Si par le juste Ciel mes vœux sont écoutez
 J'en vais faire pour vous qui me persecutez.
 Adieu.
 
-**** *book_boursault_marie-stuard *id_body-8-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-3 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
 Je sens mon cœur qui s'émeut, qui chancelle :
@@ -1910,7 +1910,7 @@ Doit faire une vertu d'un crime necessaire ;
 Et preferer toûjours, sans en estre confus,
 Les utiles forfaits aux ingrates vertus.
 
-**** *book_boursault_marie-stuard *id_body-8-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-4 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Comte, j'allois vous voir. Malgré toute ma haine
@@ -2047,7 +2047,7 @@ Lancastre. Ce Perfide, ennemy de sa Sœur,
 M'a peut-estre engagée à servir sa fureur.
 Qu'on la ramene. Et toy je veux que tu perisses.
 
-**** *book_boursault_marie-stuard *id_body-8-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-5 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Madame, à mes forfaits preparez des supplices.
@@ -2197,7 +2197,7 @@ Je l'attends.
 -*who_elisabeth
 Qu'on le suive, & que l'on m'en réponde.
 
-**** *book_boursault_marie-stuard *id_body-8-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-6 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 He bien, sens-tu, méchant, que ton cœur te confonde ?
@@ -2243,7 +2243,7 @@ Et j'ay la gloire, au moins dans un sort si fatal,
 De mourir autrement que n'est mort mon Rival.
 J'expire.
 
-**** *book_boursault_marie-stuard *id_body-8-7 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-8-7 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Juste Ciel ! quelle suite de crimes !

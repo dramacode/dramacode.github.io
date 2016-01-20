@@ -1199,7 +1199,6 @@ Qui maintiendra l'honneur de la fille & du pere.
 Dictez.
 
 -*who_cleanthe
-Lettre.
 Monsieur, sçachez que ma fille veut bien
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,
 Qu'il vienne promptement, & n'apprehende rien,
@@ -1233,7 +1232,6 @@ J'en sçay le contenu, mais pour les détester
 Je veux bien estant seul tout haut le réciter.
 Pour le vieux Parmenon, cette fille insensee
 A suivy son caprice, & non pas ma pensee.
-Lettre.
 Monsieur ce mot d'escrit est pour vous avertir
 Que vostre fils n'est pas un party pour ma fille,
 Tout mon sang se revolte, & ne peut consentir
@@ -1244,7 +1242,6 @@ La perfide ! ô Ciel qu'auroit-ce esté
 Si j'eusse eu tant soit peu plus de credulité ?
 Cette autre est de sa part addressee à Thelame
 Voyons les beaux projets que forme cette infame.
-Lettre.
 Seul & doux espoir de mes yeux
 Puis que le desespoir vous bannit de ces lieux,
 Apprenez que je vous veux suivre ;    54
@@ -1717,7 +1714,6 @@ Donne-le-moy, Sylvestre, il faut voir ce qu'il porte,
 La plume de Thelame escrit de cette sorte,
 L'addresse⁎ est à Melice, ó Ciel ce suborneur
 Tend infailliblement un piege à son honneur.
-Lettre.
 Madame j'ay leu vostre lettre
 Qui veut m'obliger à promettre
 De marquer mon depart par vostre enlevement,

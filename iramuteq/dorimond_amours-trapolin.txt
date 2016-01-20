@@ -395,7 +395,7 @@ Ils s'en vont revenir peut-estre avec main forte.
 On s'en va commencer, rentrons, fermons la porte.
 FIN.
 
-ACTEURS. 
+ACTEURS.
 
 LES                                     AMOURS DE TRAPOLIN. COMEDIE;
 

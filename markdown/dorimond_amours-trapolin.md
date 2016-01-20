@@ -1699,7 +1699,7 @@ FIN.
  – LE DOCTEUR.
  – PHILOSOPHIE,fille du Docteur.
  – POESIE.
- – GALANTERIE,Cousine. 
+ – GALANTERIE,Cousine.
 
 LES                                     AMOURS DE TRAPOLIN. *COMEDIE;*
 

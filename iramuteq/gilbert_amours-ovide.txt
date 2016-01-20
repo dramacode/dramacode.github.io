@@ -1,6 +1,6 @@
 
 
-**** *book_gilbert_amours-ovide *id_dedicace *date_1663 *creator_gilbert
+**** *book_ *id_dedicace *date_1663 *creator_gilbert
 
 A MONSEIGNEUR                         COLBERT CONSEILLER DU ROY En tous ses Conseils, & Intendant De ses Finances.
 
@@ -19,7 +19,7 @@ De vostre tres-humble & tres-obeïssant serviteur,
 
 GILBERT.
 
-**** *book_gilbert_amours-ovide *id_privilege *date_1663 *creator_gilbert 
+**** *book_ *id_privilege *date_1663 *creator_gilbert
 
 EXTRAICT DU PRIVILEGE du Roy.
 
@@ -29,7 +29,7 @@ Et ledit Barbin a fait part de son Privilege à Guillaume de Luyne, & Estienne L
 
 Achevé d'imprimé pour la premiere fois le 20 Aoust 1663.
 
-**** *book_gilbert_amours-ovide *id_body-3 *date_1663 *creator_gilbert
+**** *book_ *id_body-3 *date_1663 *creator_gilbert
 
 -*who_talie
 Nous sommes de Venus les compagnes fidelles,
@@ -73,7 +73,7 @@ Pour combler les Amans d'une gloire⁎ infinie,
 De l'élite⁎ des fleurs qui naissent dans ces lieux,
 Allons pour couronner leurs fronts victorieux.
 
-**** *book_gilbert_amours-ovide *id_body-5 *date_1663 *creator_gilbert 
+**** *book_ *id_body-5 *date_1663 *creator_gilbert
 Venez, Amans, dans ces beaux lieux,
 Où par l'ordre de Citherée
 Les Graces descendent des Cieux,
@@ -81,7 +81,7 @@ Pour venir presider à la Feste sacrée ;
 Venez voir Triompher sur les flots applanis
 Venus & les Amours en faveur d'Adonis.
 
-**** *book_gilbert_amours-ovide *id_body-6-1 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-1 *act_ *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Et bien, que dites-vous de cette Isle sacrée,
@@ -245,7 +245,7 @@ Il faut dissimuler nostre illustre⁎ querelle⁎ ;
 Vous ayant en amy descouvert mon secret,
 Vous sçaurez en user⁎ en confident⁎ discret.
 
-**** *book_gilbert_amours-ovide *id_body-6-2 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-2 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Nous venons admirer vostre rare merite⁎,
@@ -410,7 +410,7 @@ Où voulez-vous aller ?
 -*who_ovide
 Je vais vous y conduire, agreable inhumaine.
 
-**** *book_gilbert_amours-ovide *id_body-6-3 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-3 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Ovide ne sçauroit la quitter un moment,
@@ -513,7 +513,7 @@ Nous paraistrons tous deux au Tribunal des Graces ;
 Et si leur juste Arrest ne me vient secourir,
 J'auray du cœur assez pour vaincre, ou pour mourir.
 
-**** *book_gilbert_amours-ovide *id_body-6-4 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-4 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Il s'en va sans m'oüir, & me laisse confuse⁎,
@@ -526,7 +526,7 @@ Vas t'en plutost chercher Ovide promptement,
 Qu'il me vienne trouver sans tarder un moment
 Il se promene au parc ; vas, cours en diligence⁎.                    
 
-**** *book_gilbert_amours-ovide *id_body-6-5 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-5 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 De ce perfide Amant⁎ je veux prendre vengeance,
@@ -553,7 +553,7 @@ A qui m'oste un Amant⁎, oster une Maistresse⁎.               
 Mais je le voy paroistre, il faut l'entretenir⁎,
 Et cacher le dessein que j'ay de le punir.
 
-**** *book_gilbert_amours-ovide *id_body-6-6 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-6-6 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 De vostre procedé je suis fort en colere.
@@ -690,7 +690,7 @@ Vous seule l'emportez sur toutes mes Maistresses⁎
 Et mon esprit touché d'un charme si puissant.
 Si c'estoit trop peu d'une en immoleroit cent.
 
-**** *book_gilbert_amours-ovide *id_body-7-1 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-1 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Tu dis qu'on a rendu le billet à Corinne,
@@ -749,7 +749,7 @@ Finissons ce discours, car Corinne paraist,
 Et vient confidemment me dire une nouvelle,
 Dont je suis l'origine, & que je sçais mieux qu'elle.
 
-**** *book_gilbert_amours-ovide *id_body-7-2 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-2 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Qu'avez-vous fait d'Ovide ? où l'avez-vous laissé ?
@@ -868,7 +868,7 @@ De peur qu'il n'imagine une ruse nouvelle,
 Ne perdons point de temps, & le poussons à bout⁎,
 Raillons cet inconstant qui se raille de tout.
 
-**** *book_gilbert_amours-ovide *id_body-7-3 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-3 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Il n'est pas à propos que je les voye ensemble,
@@ -1091,7 +1091,7 @@ Il sort adroitement d'un amoureux dédalle.
 Nous sçaurons malgré luy, lors qu'⁎'il fera le choix,
 De laquelle des deux il veut prendre des loix.
 
-**** *book_gilbert_amours-ovide *id_body-7-4 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-4 *act_ *date_1663 *creator_gilbert
 
 -*who_corinne
 Ovide ayme Cephise, & l'ingrat la respecte.
@@ -1176,7 +1176,7 @@ Je ne luy tens des retz que pour reprendre Ovide,
 Et ne hazarde⁎ rien. Mais il vient à propos ;
 Voy si j'entens bien l'art d'enchaisner le Heros.
 
-**** *book_gilbert_amours-ovide *id_body-7-5 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-5 *act_ *date_1663 *creator_gilbert
 
 -*who_corinne
 Je viens vous annoncer une heureuse nouvelle.
@@ -1234,7 +1234,7 @@ Ah ! de grace⁎ achevez, pour finir mon martire.
 -*who_corinne
 A Dieu, je me raillois, & n'ay rien à vous dire.
 
-**** *book_gilbert_amours-ovide *id_body-7-6 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-7-6 *act_ *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je ne puis rien connaistre à cet obscur discours,
@@ -1264,7 +1264,7 @@ Malgré l'orgueil du Tybre & la grandeur Romaine,
 Je luy feray santir dans mon ressentiment,
 Que rien n'est à couvert des fureurs d'un Amant⁎.
 
-**** *book_gilbert_amours-ovide *id_body-8-1 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-1 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Dieux, j'aperçois Corinne ! esvitons sa presence ;
@@ -1417,7 +1417,7 @@ Un Dieu sçaura pour moy flechir vostre rigueur,
 Vous allez remporter & la pomme & mon cœur,
 Avec juste raison⁎ vous y pouvez pretendre⁎.
 
-**** *book_gilbert_amours-ovide *id_body-8-2 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-2 *act_ *date_1663 *creator_gilbert
 
 -*who_celie
 Dans la place des jeux les Graces se vont rendre,
@@ -1431,7 +1431,7 @@ Je fais des vœux pour vous, l'Amour m'en est tesmoin.
 Je vais voir quel succez aura mon entreprise⁎ ;
 Adieu, fidel Amant⁎ de la belle Cephise.
 
-**** *book_gilbert_amours-ovide *id_body-8-3 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-3 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Je fais des vœux pour elle, afin qu'elle ait le prix,
@@ -1457,7 +1457,7 @@ De celle qu'aujourd'huy vont couronner les Graces.
 Mais mon Rival paroist, escoutons ce jaloux,
 Sans avoir contre luy ny haine, ny courroux.
 
-**** *book_gilbert_amours-ovide *id_body-8-4 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-4 *act_ *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je vous rends l'amitié que vous m'aviez jurée.
@@ -1611,7 +1611,7 @@ Et l'on n'eust pas donné le prix en mon absence.
 Moy j'estois fort tanté, malgré cette defence,
 D'aller ouïr l'Arrest qu'on devoit prononcer.
 
-**** *book_gilbert_amours-ovide *id_body-8-5 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-5 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Mais Maxime paroist, qui vient nous l'annoncer ;
@@ -1750,7 +1750,7 @@ Et ne s'accordât⁎ pas avec leur jugement.
 Les Intendants des jeus agissent prudemment.
 Mais Daphnis vient icy, qui paroist hors d'haleine.
 
-**** *book_gilbert_amours-ovide *id_body-8-6 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-8-6 *act_ *date_1663 *creator_gilbert
 
 -*who_daphnis
 Hyacinthe, je viens pour vous tirer de peine,
@@ -1806,7 +1806,7 @@ D'aymer la plus parfaite & la plus glorieuse :
 Et tout homme galand malgré vos feux constans,
 Veut ce que veut l'amour & s'accomode au temps.
 
-**** *book_gilbert_amours-ovide *id_body-9-1 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-9-1 *act_ *date_1663 *creator_gilbert
 
 -*who_corinne
 Je ne viens pas vous voir ainsi qu'une Rivale,
@@ -1894,7 +1894,7 @@ Qui perdent devant moy la qualité de belles,
 Pour venger mon injure⁎, & braver leur pouvoir,
 Corinne seulement n'a qu'à se faire voir.
 
-**** *book_gilbert_amours-ovide *id_body-9-2 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-9-2 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Quelle presomption ! qu'elle a l'humeur⁎ hautaine⁎ !
@@ -1908,7 +1908,7 @@ J'aperçois un Romain qui vient encor icy.
 -*who_aminte
 Il a l'esprit plus doux, & n'agit pas ainsi.
 
-**** *book_gilbert_amours-ovide *id_body-9-3 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-9-3 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Je viens vous temoigner que j'aime vostre gloire⁎,
@@ -1998,7 +1998,7 @@ Hyacinthe paraist, ce Rival haissable
 M'oste l'occasion qui m'estoit favorable ;
 N'en témoignons pourtant ny chagrin⁎ ny soucy⁎.
 
-**** *book_gilbert_amours-ovide *id_body-9-4 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-9-4 *act_ *date_1663 *creator_gilbert
 
 -*who_ovide
 Hyacinthe, à propos vous arrivez icy,
@@ -2064,7 +2064,7 @@ Corinne aussi les suit, & vous la pouvez voir.
 -*who_ovide
 Vostre exemple aujourd'huy m'enseigne mon devoir.
 
-**** *book_gilbert_amours-ovide *id_body-9-5 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-9-5 *act_ *date_1663 *creator_gilbert
 
 -*who_talie
 De tant d'Amans divers dont cette Isle est remplie,
@@ -2328,7 +2328,7 @@ Qui doivent mettre fin à toutes nos tristesses.
 J'attendray leur retour sans craindre & soupirer ;
 Quand on aime par tout, on doit tout esperer.
 
-**** *book_gilbert_amours-ovide *id_body-10-1 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-1 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 STANCES.
@@ -2390,7 +2390,7 @@ Et les plaisirs avec la gloire⁎.
 Mais Aminte paraist, pour finir mes tourmens⁎,
 Elle vient m'annoncer le sort de deux Amans.
 
-**** *book_gilbert_amours-ovide *id_body-10-2 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-2 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
 Dy les Graces du Ciel sont-elles revenuës ?
@@ -2422,7 +2422,7 @@ Ovide seroit-il cét Amant⁎ fortuné⁎ ?
 -*who_aminte
 Non, vous voyez celuy que l'on a couronné.
 
-**** *book_gilbert_amours-ovide *id_body-10-3 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-3 *act_ *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je viens pour vous offrir cette Illustre⁎ couronne,
@@ -2493,7 +2493,7 @@ Mais Daphnis vient icy troubler nostre alaigresse,
 Il fait voir sur son front une sombre tristesse,
 Et l'on voit dans ses yeux éclater la douleur.
 
-**** *book_gilbert_amours-ovide *id_body-10-4 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-4 *act_ *date_1663 *creator_gilbert
 
 -*who_daphnis
 Je viens vous annoncer un sensible⁎ malheur,
@@ -2612,7 +2612,7 @@ Mais il le faut dompter, encor qu'il soit extréme,
 Et qui veut vaincre autruy, se doit vaincre soy mesme,
 Je m'en vais luy parler.
 
-**** *book_gilbert_amours-ovide *id_body-10-5 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-5 *act_ *date_1663 *creator_gilbert
 
 -*who_cephise
             Venez-vous dans ces lieux,
@@ -2751,7 +2751,7 @@ Que son visage est beau !
 -*who_corinne
             Qu'il a d'attraits pour plaire !                 
 
-**** *book_gilbert_amours-ovide *id_body-10-6 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_body-10-6 *act_ *date_1663 *creator_gilbert
 
 -*who_l_amour
 Je viens mettre la paix dans cet heureux sejour⁎,

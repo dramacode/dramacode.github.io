@@ -923,6 +923,7 @@ Enfin, tu dois, mon fils, le cherir si tu m'aimes.
 
     VANLIE. *Vanlie entend cecy des complices de   
 Sanga, et Armetzar le prenant pour soy, entre dans un grand trouble.* 
+            
 Estant aimé de vous, Sire, je l'aime aussi :  
 Mais j'entre en méme temps dans un juste soucy⁎.  
 Sanga par tous moyens tasche de vous détruire,  
@@ -1428,7 +1429,8 @@ Qu'elle exige encor plus de mon obeïssance,
 Et me donne moyen de pouvoir assouvir  
 La forte passion que j'ay de la servir.  
 
-    ZARIMENE. *D'un ton qui témoigne qu'elle le prend d'un autre biais.* 
+    ZARIMENE. *D'un ton qui témoigne qu'elle le prend d'un autre biais.*
+            
 Ouy, cette passion nous est assez connue,  
 Vous la cachez en vain soûs trop de retenue,  
 Et j'en ay toûjours fait un digne jugement.  
@@ -2573,7 +2575,8 @@ Aime donc ce grand Prince, et reçoy son service⁎.
 Et le combat fini, que ton cœur l'applaudisse,  
 Ou vainqueur pour mon pere, ou vaincu par le sien.      
 
-    LADICE. *La princesse continue, apres que la confidente a leu.* 
+    LADICE. *La princesse continue, apres que la confidente a leu.*
+            
 Helas ! que cet avis sensiblement me touche !  
 Mennon en te quittant ne t'a rien dit de bouche [95] ?  
 
@@ -2594,7 +2597,8 @@ Mais, Madame, Armetzar vient chasser vôtre peur.
 LADICE, ARMTEZAR, ILIANE.
 
 
-    LADICE. *Armetzar qui ne croyoit pas que Ladice le connust encore, parest fort surpris.* 
+    LADICE. *Armetzar qui ne croyoit pas que Ladice le connust encore, parest fort surpris.*
+            
 Armetzar, approchez, je vous permets ma vûe ;  
 C'est à Phocate seul que je l'ay defendue,  
 Et je le dois punir d'un reproche eternel  
@@ -3076,7 +3080,8 @@ Qu'on le face venir avecques tous les siens.
     UN GARDE.
 Seigneur, on vous l'ameine.  
 
-    VANLIE. *Bas.* 
+    VANLIE. *Bas.*
+              
 O mandement severe !  
 Pourray-je supporter la presence d'un pere !  
 
@@ -3785,7 +3790,8 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 [81] Sens d'injustice.
 
-[82] *Cependant* « conserve une valeur temporelle tout au long du XVII*e* siècle. Le dictionnaire de l'Académie donne comme sens : « pendant cela, pendant ce temps-là » », *Sancier-Chateau* Anne, *Introduction à la langue française du XVII**e* *siècle*, Paris, Nathan, 1993, vol. 2, p. 92.
+[82] *Cependant* « conserve une valeur temporelle tout au long du XVII*e* siècle. Le dictionnaire de l'Académie donne comme sens : « pendant cela, pendant ce temps-là » », *Sancier-Chateau* Anne, *Introduction à la langue française du XVII**e*
+                *siècle*, Paris, Nathan, 1993, vol. 2, p. 92.
 
 [83] Diérèse.
 

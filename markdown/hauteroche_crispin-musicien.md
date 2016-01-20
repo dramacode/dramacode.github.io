@@ -4721,7 +4721,8 @@ Prendre une liberté que Monsieur autorise :
 Comme il a commencé, c'est à luy jusqu'au bout,  
 A vous…  
 
-    CRISPIN [254] 
+    CRISPIN [254]
+              
 Les Gens d'honneur sont bien venus par tout,  
 Et Monsieur, qui sçait vivre, est Homme raisonnable,  
 Il excuse aisément…  
@@ -4773,7 +4774,8 @@ Nous aurons fait dans un moment.
     CRISPIN
 Hardiment ; A quoy bon entonner à demy ?  
 
-    PHELONTE* chante, & Crispin bat la mesure.* 
+    PHELONTE* chante, & Crispin bat la mesure.*
+              
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager ;  
 Un Amant souffre la gesne⁎,  
@@ -4781,7 +4783,8 @@ Quand l'Objet⁎ vient à changer.
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager.  
 
-    CRISPIN, *apres que Phêlonte a chanté, se retourne* 
+    CRISPIN, *apres que Phêlonte a chanté, se retourne*
+            
 devers Dorame, battant la mesure.
 
 *Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.* bis.
@@ -5427,7 +5430,8 @@ Ce n'est pas ton affaire, adieu.
 Tu te courouces,  
 Bon-soir.  
 
-    CRISPIN *seul apres avoir resvé.* 
+    CRISPIN *seul apres avoir resvé.*
+            
 Amour, amour, quelles rudes secousses !  
 Laisse quelque moment mon cœur en repos. Non,  
 Tu veux qu'il aille & vienne. Ah Toinon ! ah Toinon !  

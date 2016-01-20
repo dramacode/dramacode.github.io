@@ -4242,7 +4242,8 @@ Dictionnaire analytique des œuvres théâtrales françaises du XVII*e* siècle
 
 [17]  Lorsque nous ferons référence à ces éditions dorénavant, nous emploierons les abréviations suivantes : **ss N**, pour sans nom, **B** pour Besoigne et **T** pour Trabouillet. Concernant les trois éditions de 1692 sans nom d'éditeur, il existe deux éditions différentes, la première est conservée à l'Arsenal et la seconde (dont il existe deux exemplaires) à la BNF. Toutefois, elles comportent les mêmes différences. Pour cette raison, l'abréviation **ss N** se rapportera donc à ces trois exemplaires.
 
-[18]  : est mis pour M, c'est-à-dire « mille », et : est mis pour D, c'est-à-dire « cinq cents ».
+[18]  : est mis pour M, c'est-à-dire « mille », et 
+    : est mis pour D, c'est-à-dire « cinq cents ».
 
 [19] Les mêmes corrections ont été effectuées pour les textes présents en annexe.
 

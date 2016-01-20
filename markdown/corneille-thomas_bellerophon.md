@@ -982,7 +982,7 @@ Qui dans tout l'Univers vous fait tant de jaloux.
 
     BELLEROPHON
 Seigneur, quand on combat pour vous  
-N'est-on pas seur de la victoire ?  
+N'est-on pas seur de la victoire ?   
 
     LE ROY
 Apres avoir rangé deux Peuples sous mes Loix,  

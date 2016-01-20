@@ -32,9 +32,9 @@ Achevé d'imprimer pour la premiere fois le 28 May 1648.
 
 Les exemplaires ont esté fournis.
 
-**** *book_ *id_acteurs *date_1647 *creator_gillet_de_la_tessonerie 
+**** *book_ *id_acteurs *date_1647 *creator_gillet_de_la_tessonerie
 
-PERSONNAGES 
+PERSONNAGES
 
 COMEDIE                                
 

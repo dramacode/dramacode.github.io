@@ -938,7 +938,7 @@ Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pour
  – 
  – 
 La Scène est à Paris.                                
- 
+
 
 LES VERITABLES PRETIEUSES COMEDIE.
 
@@ -2147,7 +2147,8 @@ Les Exemplaires ont esté fournis.
 
 [219]  Var. 2*nde* éd. : la scène ne comporte qu'une unique réplique d'Iscarie, quasi-identique à celle-ci : « Que l'attente d'Artemise, (…) je suis dans le dernier emportement de ne la point voir ; mais la voicy. » 
 
-[220]  Var. 2*nde* éd. : « *Iscarie* *continuë.* »
+[220]  Var. 2*nde* éd. : « *Iscarie*
+                *continuë.* »
 
 [221]  On relève sept occurrences de cette apostrophe perçue comme typiquement « précieuse » et affectée par les contemporains. 
 
@@ -2419,7 +2420,10 @@ Les Exemplaires ont esté fournis.
 
 [355]  Var. 2*nde* éd. : réplique supprimée.
 
-[356]  Var. 2*nde* éd. : A partir d'ici, la fin de la scène est modifiée et considérablement écourtée, avant de poursuivre de même avec la scène VIII. Le poète ne s'y livre à la lecture que d'une seule pièce : « *Le poete.* : Je vous diray donc pour entrer d'abord en matiere que j'ay fait une piece intitulée, *les Nopces de pantagruel.*/ *le Baron*. : Ah ! mes Dames qu'il a bien rencontré, qu'elle est bien imaginée, qu'il s'est bien devulgarisé./ *Iscarie*. : Cela stupeficie mon ame./ *Artemise*. : Pour moy cela m'enleve jusques au  troisiéme Ciel./ *Le Poete.* : Je commence sans façonner. // LES / NOPCES / DE / PANTAGRUEL. / COMEDIE. / ACTE I. / SCENE PREMIERE. / *Pantagruel* *entre avec un Confident, & dit. : Où sont les violons. As-tu veu Dulcinée, / Pour qui mon ame est, fust & sera calcinée./* *Le Baron*. : *Calcinée*, que ce mot est emphatique./ *Le Confident*. : *Les violons sont prests, & vous allez dans peu/ Oeillader comme il faut l'objet de vostre feu.*/ *Pantagruel*. : *Ah ! que de tourbillons, excitent dans mon ame/ La boüillonnante ardeur de ma flotante flame./ Ah ! je sens que l'amour, ce fretillant nabot, drille dedans mon cœur, comme les pois en pot, / Il virvolte, il se tourne, il y fait la patroüille, / Sautille comme en l'eau feroit une grenoüille, / Il regimbe, il s'estend comme un cheval fougueux, / Qui prend le mors aux dents, & bondit furieux, / Il va, monte, & descend dans la chambre & le bouge, / Il furte tous les coins, & si jamais ne bouge.*/ *Iscarie.* : Ah ! laissez-moy admirer ses similitudes./ *Artemise*. : Il faut avoüer que ces vers tonnent delicatement bien./ *Flanquin* *à part*. : Elles donnent dans le paneau./ *le Poete*. : He ! de grace ne m'interrompez point ; ces sortes de choses veulent de larges poulmons, & pour les faire paroistre il ne faut pas s'arrester au milieu ». 
+[356]  Var. 2*nde* éd. : A partir d'ici, la fin de la scène est modifiée et considérablement écourtée, avant de poursuivre de même avec la scène VIII. Le poète ne s'y livre à la lecture que d'une seule pièce : « *Le poete.* : Je vous diray donc pour entrer d'abord en matiere que j'ay fait une piece intitulée, *les Nopces de pantagruel.*/ *le Baron*. : Ah ! mes Dames qu'il a bien rencontré, qu'elle est bien imaginée, qu'il s'est bien devulgarisé./ *Iscarie*. : Cela stupeficie mon ame./ *Artemise*. : Pour moy cela m'enleve jusques au  troisiéme Ciel./ *Le Poete.* : Je commence sans façonner. // LES / NOPCES / DE / PANTAGRUEL. / COMEDIE. / ACTE I. / SCENE PREMIERE. / *Pantagruel*
+                *entre avec un Confident, & dit. : Où sont les violons. As-tu veu Dulcinée, / Pour qui mon ame est, fust & sera calcinée./*
+                *Le Baron*. : *Calcinée*, que ce mot est emphatique./ *Le Confident*. : *Les violons sont prests, & vous allez dans peu/ Oeillader comme il faut l'objet de vostre feu.*/ *Pantagruel*. : *Ah ! que de tourbillons, excitent dans mon ame/ La boüillonnante ardeur de ma flotante flame./ Ah ! je sens que l'amour, ce fretillant nabot, drille dedans mon cœur, comme les pois en pot, / Il virvolte, il se tourne, il y fait la patroüille, / Sautille comme en l'eau feroit une grenoüille, / Il regimbe, il s'estend comme un cheval fougueux, / Qui prend le mors aux dents, & bondit furieux, / Il va, monte, & descend dans la chambre & le bouge, / Il furte tous les coins, & si jamais ne bouge.*/ *Iscarie.* : Ah ! laissez-moy admirer ses similitudes./ *Artemise*. : Il faut avoüer que ces vers tonnent delicatement bien./ *Flanquin*
+                *à part*. : Elles donnent dans le paneau./ *le Poete*. : He ! de grace ne m'interrompez point ; ces sortes de choses veulent de larges poulmons, & pour les faire paroistre il ne faut pas s'arrester au milieu ». 
 
 [357] *Pierre d'achoppement* : expression proverbiale pour désigner une  « occasion de faute et de scandale » (Furetière). 
 

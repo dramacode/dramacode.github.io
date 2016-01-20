@@ -1076,7 +1076,7 @@ Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis q
  – LE VICOMTE DE JODELET,Valet de du Croisy.
  – DEUX PORTEURS de chaise.
  – VOISINES.
- – VIOLONS                                 
+ – VIOLONS                                
 
 LES PRETIEUSES RIDICULES COMEDIE. REPRESENTEE au petit Bourbon MISES EN VERS.
 

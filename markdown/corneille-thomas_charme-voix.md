@@ -672,7 +672,7 @@ T. CORNEILLE
  – FABRICE,Boufon du Duc.
  – CAMILLE,Suivant de Carlos.
 La Scene est à Milan.
- < LE CHARME DE LA VOIX, COMEDIE. >
+< LE CHARME DE LA VOIX, COMEDIE. >
 
 
 ## ACTE I.

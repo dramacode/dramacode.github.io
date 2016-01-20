@@ -151,7 +151,7 @@ Que mon Lecteur lise mon aimable Ninon, et prononce sur son sort, pour trouver l
 
 **** *book_ *id_personnages *date_1788 *creator_gouges
 
-PERSONNAGES. 
+PERSONNAGES.
 
 MOLIERE CHEZ NINON, PIECE EPISODIQUE.
 

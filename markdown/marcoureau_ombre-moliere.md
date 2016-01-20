@@ -616,7 +616,7 @@ Quoy ! tu ne me laisseras pas en repos ? Veux-tu te retirer ?
 Helas, Caron ! helas !
 
     CARON *le raillant sur le mesme ton.*
-                
+              
 Helas, Caron ! helas ! A qui diable en as-tu avec tes piteux helas ?
 
     LE POETE.

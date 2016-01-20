@@ -5447,7 +5447,7 @@ www.theatre-classique.fr
 
 [4] Catherine Cessac, *Marc-Antoine Charpentier*, p. 58.
 
-[5] http://books.google.fr/books ? id=lvc5AAAAcAAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false (pp.262-277)
+[5] http://books.google.fr/books?id=lvc5AAAAcAAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false (pp.262-277)
 
 [6] *Un Homme de lettres au temps du grand roi, Donneau de Visé fondateur du Mercure Galant*, p.128.
 

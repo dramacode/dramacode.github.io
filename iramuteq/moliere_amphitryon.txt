@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_amphitryon *id_i *date_1668 *creator_moliere
+**** *book_moliere_amphitryon *id_a *date_1668 *creator_moliere
 
 -*who_mercure
 Tout beau, charmante Nuit ; daignez vous arrêter.

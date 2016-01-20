@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_privilege *date_1642 *creator_gilbert 
+**** *book_ *id_privilege *date_1642 *creator_gilbert
 
 Extraict du Privilege du Roy.
 

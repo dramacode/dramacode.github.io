@@ -6,30 +6,19 @@ title: Armide. Tragédie
 ---
 
 
-ARMIDE
-
-TRAGÉDIE
-
-Représentée par l'ACADÉMIE ROYALE DE MUSIQUE ÉTABLIE À LYON.
-
-Et jouée ci-devant en présence de sa majesté.
-
-M. DCC. IX. Avec Privilège de Sa Majesté.
 
 
-
-À LYON, THOMAS AMAULRY, au Mercure Galant.
-Représenté par l'Académie royale de musique, le 17 avril 1782 à Versailles.
+# Acteurs
 
 
-# ACTEURS DU PROLOGUE
+## Prologue
  – La gloire.
  – Troupe de heros, qui suivent le Gloire.
  – La sagesse
  – Troupe de nymphes, qui fuient la Sagesse.
 
 
-# ACTEURS DE LA TRAGÉDIE
+## Tragédie
  – Armide, Magicienne, nièce d'Hidraot.
  – Phénice, confidente d'Armide.
  – Sidonie, autre confidente d'Armide.

@@ -794,8 +794,8 @@ Fay mentir aujourd'huy l'Oracle qui te guide ;
 C'est luy qui t'a promis de rencontrer icy  
 L'object⁎ de ton amour & de ta honte aussi,  
 Luy qui t'a fait quitter & Parents & la Perse ;  
-Songe au bien⁎ qu'il te garde après tant de traverse⁎ :  
-< Oracle. >
+Songe au bien⁎ qu'il te garde après tant de traverse⁎ :  < Oracle. >
+
 Dans la forest d'Elvye [62]*, après estre guery*  
 Ton cœur obligera⁎ Pere, Frere, & Mary.  
 Quel Oracle plus doux ? Quel bon-heur plus extréme ?  
@@ -3705,7 +3705,8 @@ Voyez vostre mal-heur, & sa forcenerie [237] :
 Mon épée en ses mains, si quelqu'un ne la prend,  
 Sa rage aprés ce coup⁎ en medite un plus grand.  
 
-    ORONTE *se levant à moitié sur son* * lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
+    ORONTE *se levant à moitié sur son*
+              * lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
 Allez, retirez-vous ; ou vienne le plus traître ;  
 Ce bras luy montrera qu'il se prend à son Maître ;  
 Auriez-vous oublié ce qu'encore je puis ?  
@@ -3823,7 +3824,8 @@ Pour me plaire en effect⁎, venez, sans m'épargner.
 Dure loy⁎, qui m'oblige⁎ à perdre pour gagner !  
 Ma victoire consiste à me l'ôter moy-mesme.  
 
-    LUCIDOR [242] *les voyant au combat.*
+    LUCIDOR [242]
+              *les voyant au combat.*
 Ils combattent pour moy dans ce peril extréme ;  
 C'est ma Sœur, & Dorame ; ils me vangent sur eux,  
 Et ma haine s'acquiert ce qu'ils perdront tous les deux.  
@@ -3895,7 +3897,8 @@ Qui malgré ma fureur luy sont obéissants ;
 J'ay pris un autre cœur, autres yeux, autre bouche [244] ;  
 Oronte, est-ce bien⁎ vous ?  
 
-    LUCIDOR [245] *les surprenant.*
+    LUCIDOR [245]
+              *les surprenant.*
 Mais, perfide, est-ce toy,  
 Que le Ciel a puni par un autre que moy ?  
 Depuis ta trahison tu trainois ton supplice ;  
@@ -4343,8 +4346,8 @@ Le Ciel accomplira nos lyens qu'il a faits.
 
 ### SCENE IV.
 
-    MELINDE *delivrée de prison par Gelandre.*
-< Stances.Passage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ». >
+    MELINDE *delivrée de prison par Gelandre.*< StancesPassage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ».. >
+
 A quoy mes soûpirs et mes plaintes ?  
 Ce mal desesperé n'a plus de guerison ;  
 J'ay perdu Lucidor, & sortant de prison  

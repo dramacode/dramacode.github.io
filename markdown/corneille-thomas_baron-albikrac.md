@@ -614,7 +614,7 @@ T. CORNEILLE.
  – LA MONTAGNE,Valet d'Oronte.
  – CASCARET,Laquais de la Tante.
 La scene est à Paris.
- < LE BARON D’ALBIKRAC, >< COMÉDIE. >
+< LE BARON D’ALBIKRAC, >< COMÉDIE. >
 
 
 ## ACTE I.

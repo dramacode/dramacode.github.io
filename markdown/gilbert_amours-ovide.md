@@ -1,5 +1,5 @@
 ---
-identifier: gilbert_amours-ovide  
+identifier: gilbert_amours  
 creator: Gilbert, Gabriel  
 date: 1663  
 title: Les Amours d'Ovide. Pastorale héroïque  
@@ -703,7 +703,7 @@ Néanmoins, il faut être conscient que des différences majeures subsistent ent
 Comme le dit J.-M. Pelous, « le libertinage amoureux exerce dans la deuxième moitié du XVII*e* siècle une tentation évidente mais se heurte néanmoins à quelque refus inconscient … L'existence d'une littérature du libertinage supposerait une adhésion à cette faillite totale de l'amour traditionnel que postule l'attitude libertine ; la mentalité galante se refuse à cette extrémité et semble hésiter entre la réprobation et l'admiration » [43]. La révolte galante ne va jamais jusqu'à la rupture complète avec la morale. Les galants parlent beaucoup d'inconstance mais montrent les libertins du doigt. J.-M. Pelous synthétise très bien les rapports entre la galanterie et le donjuanisme en disant :
 
 
-Entre le libertin et le galant homme, il n'y a sans doute que peu de différences ; railleurs, inconstants, impies à l'occasion, tous les deux le sont. Les mêmes traits se retrouvent chez l'un comme chez l'autre, mais ici poussés jusqu'à l'extravagance, là sagement tempérés par l'esprit et la raison. A la fois semblables et antithétiques, ils sont comme l'avers et le revers d'un même idéal. Mais le galant homme sait qu'il y a dans la galanterie une large part de jeu … [44]. 
+Entre le libertin et le galant homme, il n'y a sans doute que peu de différences ; railleurs, inconstants, impies à l'occasion, tous les deux le sont. Les mêmes traits se retrouvent chez l'un comme chez l'autre, mais ici poussés jusqu'à l'extravagance, là sagement tempérés par l'esprit et la raison. A la fois semblables et antithétiques, ils sont comme l'avers et le revers d'un même idéal. Mais le galant homme sait qu'il y a dans la galanterie une large part de jeu … [44].
 
 
 # Note sur la présente édition
@@ -761,7 +761,7 @@ Il y a long-temps que j'aurois pris la liberté de vous dedier quelques-uns de m
 
 De vostre tres-humble & tres-obeïssant serviteur,
 
-GILBERT. 
+GILBERT.
 
 
 ## EXTRAICT DU PRIVILEGE du Roy.
@@ -815,7 +815,7 @@ Allons donc, donner ordre⁎ à la Ceremonie [58].
     3.GRACE.
 Pour combler les Amans d'une gloire⁎ infinie,  
 De l'élite⁎ des fleurs qui naissent dans ces lieux [59],  
-Allons pour couronner leurs fronts victorieux [60].   
+Allons pour couronner leurs fronts victorieux [60].  
 
 
 ## ACTEURS.
@@ -830,7 +830,7 @@ Allons pour couronner leurs fronts victorieux [60].
  – CELIE,Confidente⁎ de Corinne
  – L'AMOUR,Finit la Piece.
 La Scene est en l'Isle de Cypre, dans les Jardins d'Adonis.
- 
+
 
 
 ## RECIT.

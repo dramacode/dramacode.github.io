@@ -1042,7 +1042,8 @@ Redites donc cent fois que mon amour vous touche ;
 Redoublez, Léonor, ces soupirs amoureux  
 Qui viennent de me mettre au comble de mes voeux.  
 
-    LÉONOR, *bas, à Marin.* 
+    LÉONOR, *bas, à Marin.*
+          
 Que lui disoit ma tante ?  
 
     MARIN.
@@ -1167,7 +1168,8 @@ Tu me trompes ; j'entends marcher quelqu'un ici.
     LEMPESÉ.
 Je tremble.  
 
-    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.* 
+    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.*
+          
 Je me veux éclaircir de ceci.  
 
     MARIN, *bas, à Lempesé.*

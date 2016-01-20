@@ -1,5 +1,5 @@
 ---
-identifier: boursault_marie-stuard  
+identifier: boursault_marie  
 creator: Boursault, Edme  
 date: 1691  
 title: Marie Stuard, Reine d'Écosse. Tragédie  
