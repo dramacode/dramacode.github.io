@@ -47,10 +47,10 @@ La Scène est à Paris dans une Salle de la maison de Sganarelle.
 
 
 
-# L'AMOUR MÉDECIN
+# L'Amour Médecin
 
 
-## PROLOGUE
+## Prologue
 La Comédie, la Musique **et le Ballet
 
 
@@ -76,10 +76,10 @@ Unissons-nous tous trois…
 Unissons-nous…  
 
 
-## ACTE I
+## Acte I
 
 
-### SCÈNE I
+### Scène I
 Sganarelle, Aminte, Lucrèce, Monsieur Guillaume, Monsieur Josse.
 
 
@@ -108,7 +108,7 @@ Et moi, je tiens que votre fille n'est point du tout propre pour le Mariage. Ell
 Tous ces conseils sont admirables assurément : mais je les tiens un peu intéressés, et trouve que vous me conseillez fort bien pour vous. Vous êtes Orfèvre, Monsieur Josse, et votre conseil sent son homme qui a envie de se défaire de sa marchandise. Vous vendez des tapisseries, Monsieur Guillaume, et vous avez la mine d'avoir quelque tenture qui vous incommode. Celui que vous aimez, ma voisine, a, dit-on, quelque inclination pour ma fille, et vous ne seriez pas fâchée de la voir la femme d'un autre. Et quant à vous, ma chère nièce, ce n'est pas mon dessein, comme on sait, de marier ma fille avec qui que ce soit, et j'ai mes raisons pour cela. Mais le conseil que vous me donnez de la faire Religieuse, est d'une femme qui pourrait bien souhaiter charitablement d'être mon héritière universelle. Ainsi, Messieurs et Mesdames, quoique tous vos conseils soient les meilleurs du monde, vous trouverez bon, s'il vous plaît, que je n'en suive aucun. Voilà de mes donneurs de conseils à la mode.
 
 
-### SCÈNE II
+### Scène II
 Lucinde, Sganarelle.
 
 
@@ -118,7 +118,7 @@ Lucinde lui fait signe que c'est cela.
 
 
 
-### SCÈNE III
+### Scène III
 Lisette, Sganarelle, Lucinde.
 
 
@@ -228,7 +228,7 @@ Ne m'en parlez point.
 Un mari, un mari, un mari.
 
 
-### SCÈNE IV
+### Scène IV
 Lisette, Lucinde.
 
 
@@ -260,13 +260,13 @@ Mais que veux-tu que je fasse contre l'autorité d'un père ? Et s'il est inexo
 Allez, allez, il ne faut pas se laisser mener comme un Oison, et pourvu que l'honneur n'y soit pas offensé, on peut se libérer un peu de la tyrannie d'un père. Que prétend-il que vous fassiez ? N'êtes-vous pas en âge d'être mariée ? et croit-il que vous soyez de marbre ? Allez, encore un coup, je veux servir votre passion, je prends dès à présent sur moi tout le soin de ses intérêts, et vous verrez que je sais des détours… Mais je vois votre père, rentrons, et me laissez agir.
 
 
-### SCÈNE V
+### Scène V
 
     SGANARELLE
 Il est bon quelquefois de ne point faire semblant d'entendre les choses qu'on n'entend que trop bien : et j'ai fait sagement de parer la déclaration d'un désir que je ne suis pas résolu de contenter. A-t-on jamais rien vu de plus tyrannique que cette coutume où l'on veut assujettir les pères ? Rien de plus impertinent, et de plus ridicule, que d'amasser du bien avec de grands travaux, et élever une fille avec beaucoup de soin et de tendresse, pour se dépouiller de l'un et de l'autre entre les mains d'un homme qui ne nous touche de rien. Non, non, je me moque de cet usage, et je veux garder mon bien et ma fille pour moi.
 
 
-### SCÈNE VI
+### Scène VI
 Lisette, Sganarelle.
 
 
@@ -360,13 +360,13 @@ Ah, ma fille !
     SGANARELLE
 Champagne, Champagne, Champagne vite, qu'on m'aille quérir des Médecins, et en quantité, on n'en peut trop avoir dans une pareille aventure. Ah, ma fille ! ma pauvre fille !< Fin du premier Acte >< PREMIER ENTRACTE >
 Champagne en dansant frappe aux portes de quatre Médecins, qui dansent, et entrent avec cérémonie chez le père de la malade.
- 
 
 
-## ACTE II,
+
+## Acte II,
 
 
-### SCÈNE I
+### Scène I
 Sganarelle, Lisette.
 
 
@@ -398,7 +398,7 @@ Voulez-vous vous taire, vous dis-je ; mais voyez quelle impertinence. Les voici
 Prenez garde, vous allez être bien édifié, ils vous diront en Latin que votre fille est malade.
 
 
-### SCÈNE II
+### Scène II
 Messieurs Tomès, Des Fonandrès, Macroton, *et* Bahys, *Médecins*. Sganarelle, Lisette.
 
 
@@ -474,7 +474,7 @@ Il les paie, et chacun en recevant l'argent, fait un geste différent.
 
 
 
-### SCÈNE III
+### Scène III
 Messieurs Des Fonandrès, Tomès, Macroton, *et* Bahys.
 
 Ils s'asseyent et toussent.
@@ -517,7 +517,7 @@ C'est fort bien fait d'apprendre aux gens à vivre, et de leur montrer leur bec 
 Un homme mort, n'est qu'un homme mort, et ne fait point de conséquence ; Mais une formalité négligée, porte un notable préjudice à tout le Corps des Médecins.
 
 
-### SCÈNE IV
+### Scène IV
 Sganarelle, Messieurs Tomès, Des Fonandrès, Macroton, *et* Bahys.
 
 
@@ -599,7 +599,7 @@ Si vous ne faites saigner tout à l'heure votre fille, c'est une personne morte.
 Si vous la faites saigner, elle ne sera pas en vie dans un quart d'heure.
 
 
-### SCÈNE V
+### Scène V
 Sganarelle, Messieurs Macroton *et* Bahys, *médecins*.
 
 
@@ -650,13 +650,13 @@ Je. vous. rends. très. hum-bles. grâ-ces.
 et vous suis infiniment obligé de la peine que vous avez prise.
 
 
-### SCÈNE VI
+### Scène VI
 
     SGANARELLE
 Me voilà justement un peu plus incertain que je n'étais auparavant. Morbleu, il me vient une fantaisie. Il faut que j'aille acheter de l'Orviétan, et que je lui en fasse prendre. L'Orviétan est un remède dont beaucoup de gens se sont bien trouvés.
 
 
-### SCÈNE VII
+### Scène VII
 L'opérateur, Sganarelle.
 
 
@@ -700,13 +700,13 @@ Descente,
 Rougeole,  
 Ô ! grande puissance de l'Orviétan !  < Fin du deuxième Acte. >< DEUXIÈME ENTRACTE >
 Plusieurs Trivelins et plusieurs Scaramouches, valets de l'opérateur, se réjouissent en dansant.
- 
 
 
-## ACTE III,
+
+## Acte III,
 
 
-### SCÈNE I
+### Scène I
 Messieurs Filerin, Tomès *et* Des Fonandrès.
 
 
@@ -732,7 +732,7 @@ Cela est fait.
 Touchez donc là. Adieu. Une autre fois, montrez plus de prudence.
 
 
-### SCÈNE II
+### Scène II
 Messieurs Tomès, Des Fonandrès, Lisette.
 
 
@@ -752,7 +752,7 @@ Un insolent, qui a eu l'effronterie d'entreprendre sur votre métier : et qui s
 Je vous permets de me tuer, lorsque j'aurai recours à vous.
 
 
-### SCÈNE III
+### Scène III
 Lisette, Clitandre.
 
 
@@ -763,7 +763,7 @@ Hé bien, Lisette, me trouves-tu bien ainsi ?
 Le mieux du monde, et je vous attendais avec impatience. Enfin, le Ciel m'a faite d'un naturel le plus humain du monde, et je ne puis voir deux Amants soupirer l'un pour l'autre, qu'il ne me prenne une tendresse charitable, et un désir ardent de soulager les maux qu'ils souffrent. Je veux à quelque prix que ce soit, tirer Lucinde de la tyrannie où elle est, et la mettre en votre pouvoir. Vous m'avez plu d'abord, je me connais en gens, et elle ne peut pas mieux choisir. L'amour risque des choses extraordinaires, et nous avons concerté ensemble une manière de stratagème, qui pourra peut-être nous réussir. Toutes nos mesures sont déjà prises. L'homme à qui nous avons affaire n'est pas des plus fins de ce monde : et si cette aventure nous manque, nous trouverons mille autres voies, pour arriver à notre but. Attendez-moi là seulement, je reviens vous quérir.
 
 
-### SCÈNE IV
+### Scène IV
 Sganarelle, Lisette.
 
 
@@ -816,7 +816,7 @@ Je vais le faire entrer.
 Il faut voir si celui-ci fera plus que les autres.
 
 
-### SCÈNE V
+### Scène V
 Clitandre, *en habit de Médecin*, Sganarelle, Lisette.
 
 
@@ -857,7 +857,7 @@ Vous connaissez cela ici ?
 Oui, par la sympathie qu'il y a entre le père et la fille.
 
 
-### SCÈNE VI
+### Scène VI
 Lucinde, Lisette, Sganarelle, Clitandre.
 
 
@@ -1003,7 +1003,7 @@ J'en suis ravie.
 Oh la folle ! Oh la folle !
 
 
-### SCÈNE VII
+### Scène VII
 
 Le Notaire, Clitandre, Sganarelle, Lucinde, Lisette .
 Clitandre parle au Notaire à l'oreille.
@@ -1046,7 +1046,7 @@ Voilà qui est bien, voilà qui est bien.
 Au reste, je n'ai pas eu seulement la précaution d'amener un Notaire, j'ai eu celle encore de faire venir des voix et des instruments pour célébrer la Fête, et pour nous réjouir. Qu'on les fasse venir. Ce sont des gens que je mène avec moi, et dont je me sers tous les jours pour pacifier avec leur harmonie les troubles de l'esprit.
 
 
-### SCÈNE DERNIÈRE
+### Scène Dernière
 La Comédie, le Ballet *et* la Musique.
 
 

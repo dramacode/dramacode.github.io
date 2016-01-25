@@ -31,10 +31,10 @@ PAR J. B. P. DE MOLIÈRE
  – Deux laquais.
 
 
-# LE SICILIEN OU L'AMOUR PEINTRE COMÉDIE
+# Le Sicilien ou l'Amour Peintre Comédie
 
 
-## SCÈNE I
+## Scène I
 Hali, Musiciens
 
 
@@ -42,7 +42,7 @@ Hali, Musiciens
 Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos. Mais voici des Flambeaux, et, sans doute, c'est lui.
 
 
-## SCÈNE II
+## Scène II
 Adraste *et deux laquais, *Hali
 
 
@@ -110,7 +110,7 @@ Voici, tout juste, un Lieu propre à servir de Scène ; et voilà deux Flambeau
 Place-toi contre ce Logis, afin qu'au moindre bruit que l'on fera dedans, je fasse cacher les lumières.
 
 
-## SCÈNE III
+## Scène III
 Chantée par trois Musiciens
 
 
@@ -178,7 +178,7 @@ Monsieur, je viens d'ouïr quelque bruit au-dedans.
 Qu'on se retire vite, et qu'on éteigne les Flambeaux.
 
 
-## SCÈNE IV
+## Scène IV
 Don Pèdre, Adraste, Hali
 
 
@@ -226,7 +226,7 @@ Ami.
 Holà, Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélemy ; allons, promptement, mon Épée, ma Rondache, ma Hallebarde, mes Pistolets, mes Mousquetons, mes Fusils ; vite, dépêchez ; allons, tue, point de quartier.
 
 
-## SCÈNE V
+## Scène V
 Adraste, Hali
 
 
@@ -261,7 +261,7 @@ Je voudrais, seulement, que par quelque moyen, par un Billet, par quelque Bouche
 Laissez-moi faire seulement ; j'en essayerai tant de toutes les manières, que quelque chose, enfin, nous pourra réussir. Allons, le jour paraît ; je vais chercher mes Gens, et venir attendre, en ce Lieu, que notre Jaloux sorte.
 
 
-## SCÈNE VI
+## Scène VI
 Don Pèdre, Isidore
 
 
@@ -356,7 +356,7 @@ Si c'est votre façon d'aimer, je vous prie de me haïr.
 Vous êtes, aujourd'hui, dans une humeur désobligeante ; et je pardonne ces paroles au chagrin où vous pouvez être, de vous être levée matin.
 
 
-## SCÈNE VII
+## Scène VII
 Don Pèdre, Hali, Isidore
 
 Hali, faisant plusieurs révérences à Don Pèdre.
@@ -389,7 +389,7 @@ C'est une chose à voir, et cela nous divertira. Faites-les-nous venir.
 *Chala bala*... Voici une Chanson nouvelle, qui est du temps. Écoutez bien. *Chala bala.*
 
 
-## SCÈNE VIII
+## Scène VIII
 Hali chante dans cette Scène : et les Esclaves dansent dans les intervalles de son chant.
 
 Hali *et* quatre Esclaves, Isidore, Don Pèdre
@@ -482,7 +482,7 @@ Laisse-moi faire, je t'attraperai sans courir.
 C'est nous qui vous attraperons ; elle sera notre Femme, la chose est résolue ; il faut que j'y périsse, ou que j'en vienne à bout.
 
 
-## SCÈNE IX
+## Scène IX
 Adraste, Hali
 
 
@@ -505,7 +505,7 @@ Je vais, de mon côté, me préparer aussi.
 Je ne veux point perdre de temps. Holà. Il me tarde que je ne goûte le plaisir de la voir.
 
 
-## SCÈNE X
+## Scène X
 Don Pèdre, Adraste
 
 
@@ -534,7 +534,7 @@ Toute mon ambition est de rendre service aux Gens de nom, et de mérite.
 Je vais faire venir la Personne dont il s'agit.
 
 
-## SCÈNE XI
+## Scène XI
 Isidore, Don Pèdre, Adraste, *et* deux Laquais.
 
 
@@ -640,7 +640,7 @@ Seigneur Français, vous ne devriez pas, ce me semble, parler ; cela vous déto
 Ah ! point du tout, j'ai, toujours, de coutume de parler quand je peins ; et il est besoin, dans ces choses, d'un peu de conversation, pour réveiller l'Esprit, et tenir les Visages dans la gaieté nécessaire aux Personnes que l'on veut peindre.
 
 
-## SCÈNE XII
+## Scène XII
 Hali, *vêtu en Espagnol,* Don Pèdre, Adraste, Isidore
 
 
@@ -738,7 +738,7 @@ Et vous, je vous conjure de ne vous relâcher point : et de garder un Esprit ga
 Je conserverai, pour cela, toute la gaieté qu'il faut.
 
 
-## SCÈNE XIII
+## Scène XIII
 Don Pèdre, Isidore
 
 
@@ -758,7 +758,7 @@ Oui, mais, s'ils plaisent aux Dames, ils déplaisent fort aux Messieurs ; et l'
 Ce qu'ils en font, n'est que par jeu.
 
 
-## SCÈNE XIV.
+## Scène XIV.
 Climène, Don Pèdre, Isidore
 
 
@@ -769,7 +769,7 @@ Ah ! Seigneur Cavalier, sauvez-moi, s'il vous plaît, des mains d'un Mari furie
 Entrez là-dedans, avec elle, et n'appréhendez rien.
 
 
-## SCÈNE XV
+## Scène XV
 Adraste, Don Pèdre
 
 
@@ -798,7 +798,7 @@ Oui, je prends son parti ; et si vous voulez m'obliger, vous oublierez votre co
 Il ne m'est pas permis, à ces conditions, de vous rien refuser ; je ferai ce que vous voudrez.
 
 
-## SCÈNE XVI
+## Scène XVI
 Climène, Adraste, Don Pèdre
 
 
@@ -812,7 +812,7 @@ Je vous suis obligée plus qu'on ne saurait croire : mais je m'en vais prendre 
 La voici qui s'en va venir ; et son âme, je vous assure, a paru toute réjouie, lorsque je lui ai dit que j'avais raccommodé tout.
 
 
-## SCÈNE XVII
+## Scène XVII
 Isidore, *sous le voile de Climène,* Adraste, Don Pèdre
 
 
@@ -832,7 +832,7 @@ Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en
 C'est trop de grâce que vous me faites : Il est bon de pacifier et d'adoucir, toujours, les choses. Holà, Isidore, venez.
 
 
-## SCÈNE XVIII
+## Scène XVIII
 Climène, Don Pèdre
 
 
@@ -846,7 +846,7 @@ Ce que cela veut dire ? Qu'un Jaloux est un Monstre haï de tout le Monde ; et
 Don Pèdre souffrira cette injure mortelle ! Non, non, j'ai trop de cœur, et je vais demander l'appui de la justice, pour pousser le Perfide à bout. C'est ici le Logis d'un Sénateur. Holà ?
 
 
-## SCÈNE XIX
+## Scène XIX
 Le Sénateur, Don Pèdre
 
 
@@ -902,6 +902,6 @@ La peste soit du Fou, avec sa Mascarade.
 Diantre soit le Fâcheux, avec son Affaire.
 
 
-## SCÈNE DERNIÈRE
+## Scène Dernière
 Plusieurs Maures font une Danse entre eux, par où finit la Comédie.
 < FIN >

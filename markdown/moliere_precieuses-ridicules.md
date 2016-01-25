@@ -44,10 +44,10 @@ Mon Dieu, l'étrange embarras, qu'un Livre à mettre au jour ! et qu'un Auteur 
  – Violons.
 
 
-# LES PRÉCIEUSES RIDICULES
+# Les Précieuses Ridicules
 
 
-## SCÈNE I.
+## Scène I
 La Grange, Du Croisy.
 
 
@@ -94,7 +94,7 @@ Et bien qu'en prétendez-vous faire ?
 Ce que j'en prétends faire ! il faut… mais sortons d'ici auparavant.
 
 
-## SCÈNE II.
+## Scène II
 Gorgibus, Du Croisy, La Grange.
 
 
@@ -108,7 +108,7 @@ C'est une chose que vous pourrez mieux apprendre d'elles, que de nous. Tout ce q
 Ouais il semble qu'ils sortent mal satisfaits d'ici, d'où pourrait venir leur mécontentement ? Il faut savoir un peu ce que c'est. Holà.
 
 
-## SCÈNE III.
+## Scène III
 Marotte, Gorgibus.
 
 
@@ -131,7 +131,7 @@ De la pommade pour les lèvres.
 C'est trop pommadé. Dites-leur qu'elles descendent. Ces pendardes-là avec leur pommade ont je pense envie de me ruiner. Je ne vois partout que blancs d'œufs, lait virginal, et mille autres brimborions que je ne connais point. Elles ont usé, depuis que nous sommes ici, le lard d'une douzaine de cochons, pour le moins ; et quatre valets vivraient tous les jours des pieds de mouton qu'elles emploient.
 
 
-## SCÈNE IV.
+## Scène IV
 Magdelon, Cathos, Gorgibus.
 
 
@@ -202,7 +202,7 @@ Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous
 Il n'en faut point douter elles sont achevées. Encore un coup, je n'entends rien à toutes ces balivernes, je veux être maître absolu, et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux, avant qu'il soit peu, ou, ma foi, vous serez religieuses, j'en fais un bon serment.
 
 
-## SCÈNE V.
+## Scène V
 Cathos, Magdelon.
 
 
@@ -216,7 +216,7 @@ Que veux-tu, ma chère, j'en suis en confusion pour lui. J'ai peine à me persua
 Je le croirais bien oui, il y a toutes les apparences du monde, et pour moi, quand je me regarde aussi…
 
 
-## SCÈNE VI.
+## Scène VI
 Marotte, Cathos, Magdelon.
 
 
@@ -251,7 +251,7 @@ Par ma foi, je ne sais point quelle bête c'est là, il faut parler Chrétien, s
 Apportez-nous le miroir, ignorante que vous êtes. Et gardez-vous bien d'en salir la glace, par la communication de votre image.
 
 
-## SCÈNE VII.
+## Scène VII
 Mascarille, deux Porteurs
 
 
@@ -270,13 +270,13 @@ Payez-nous donc, s'il vous plaît, monsieur.
     MASCARILLE 
 Hem ?
 
-    LE SECOND PORTEUR 
+    LE SECOND PORTEUR
 Je dis, monsieur, que vous nous donniez de l'argent, s'il vous plaît.
 
     MASCARILLE, *lui donnant un soufflet*
 Comment, coquin, demander de l'argent à une personne de ma qualité ?
 
-    LE SECOND PORTEUR 
+    LE SECOND PORTEUR
 Est-ce ainsi, qu'on paie les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?
 
     MASCARILLE 
@@ -307,7 +307,7 @@ Non, je ne suis pas content, vous avez donné un soufflet à mon camarade, et...
 Doucement, tiens, voilà pour le soufflet. On obtient tout de moi, quand on s'y prend de la bonne façon. Allez, venez me reprendre tantôt, pour aller au Louvre au petit coucher.
 
 
-## SCÈNE VIII.
+## Scène VIII
 Marotte, Mascarille.
 
 
@@ -321,7 +321,7 @@ Qu'elles ne se pressent point, je suis ici posté commodément, pour attendre.
 Les voici.
 
 
-## SCÈNE IX.
+## Scène IX
 Magdelon, Cathos, Mascarille, Almanzor.
 
 
@@ -666,7 +666,7 @@ Vous avez plus de peur que de mal, et votre cœur crie avant qu'on l'écorche.
 Comment diable ! il est écorché depuis la tête jusqu'aux pieds.
 
 
-## SCÈNE X.
+## Scène X
 Marotte, Mascarille, Cathos, Magdelon.
 
 
@@ -701,7 +701,7 @@ Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette avent
 Le voici.
 
 
-## SCÈNE XI.
+## Scène XI
 Jodelet, Mascarille, Cathos, Magdelon, Marotte.
 
 
@@ -890,7 +890,7 @@ Sais-tu bien que le Duc m'est venu voir ce matin, et m'a voulu mener à la campa
 Voici nos amies, qui viennent.
 
 
-## SCÈNE XII.
+## Scène XII
 Jodelet, Mascarille, Cathos, Magdelon, Marotte, Lucile.
 
 
@@ -925,7 +925,7 @@ Ma franchise va danser la courante aussi bien que mes pieds. En cadence, Violons
 Holà, ne pressez pas si fort la cadence, je ne fais que sortir de maladie.
 
 
-## SCÈNE XIII.
+## Scène XIII
 Du Croisy, La Grange, Mascarille.
 
 
@@ -947,7 +947,7 @@ Ils sortent.
 
 
 
-## SCÈNE XIV.
+## Scène XIV
 Mascarille, Jodelet, Cathos, Magdelon.
 
 
@@ -970,7 +970,7 @@ Endurer un affront comme celui-là, en notre présence ?
 Ce n'est rien, ne laissons pas d'achever. Nous nous connaissons il y a longtemps, et entre amis on ne va pas se piquer, pour si peu de chose.
 
 
-## SCÈNE XV.
+## Scène XV
 Du Croisy, La Grange, Mascarille, Jodelet, Magdelon, Cathos.
 
 
@@ -1035,7 +1035,7 @@ Qui est-ce qui nous donnera de l'argent ?
 Demandez à Monsieur le Marquis.
 
 
-## SCÈNE XVI.
+## Scène XVI
 Gorgibus, Mascarille, Jodelet, Magdelon.
 
 
@@ -1057,7 +1057,7 @@ Ils sortent tous deux.
 
 
 
-## SCÈNE XVII.
+## Scène XVII
 Gorgibus, Magdelon, Cathos, Violons.
 
 

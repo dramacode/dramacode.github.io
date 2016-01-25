@@ -415,25 +415,25 @@ Enfin nous voilà deux contre vous, et l'opiniâtreté sied si mal aux personnes
 -*who_galopin
 Arrêtez, s'il vous plaît, Monsieur.
 
--*who_le_marquis
+-*who_marquis
 Tu ne me connais pas, sans doute.
 
 -*who_galopin
 Si fait, je vous connais ; mais vous n'entrerez pas.
 
--*who_le_marquis
+-*who_marquis
 Ah que de bruit, petit laquais !
 
 -*who_galopin
 Cela n'est pas bien de vouloir entrer malgré les gens.
 
--*who_le_marquis
+-*who_marquis
 Je veux voir ta Maîtresse.
 
 -*who_galopin
 Elle n'y est pas, vous dis-je.
 
--*who_le_marquis
+-*who_marquis
 La voilà dans la chambre.
 
 -*who_galopin
@@ -442,7 +442,7 @@ Il est vrai, la voilà ; mais elle n'y est pas.
 -*who_uranie
 Qu'est-ce donc qu'il y a là ?
 
--*who_le_marquis
+-*who_marquis
 C'est votre laquais, Madame, qui fait le sot.
 
 -*who_galopin
@@ -458,7 +458,7 @@ Vous me grondâtes l'autre jour, de lui avoir dit que vous y étiez.
 Voyez cet insolent !
 Je vous prie, Monsieur, de ne pas croire ce qu'il dit : c'est un petit écervelé, qui vous a pris pour un autre.
 
--*who_le_marquis
+-*who_marquis
 Je l'ai bien vu, Madame ; et sans votre respect, je lui aurais appris à connaître les gens de qualité.
 
 -*who_elise
@@ -473,37 +473,37 @@ N'en voilà-t-il pas un ?
 -*who_uranie
 Approchez-le.
 
--*who_le_marquis
+-*who_marquis
 Votre petit laquais, Madame, a du mépris pour ma personne.
 
 -*who_elise
 Il aurait tort, sans doute.
 
--*who_le_marquis
+-*who_marquis
 C'est peut-être que je paie l'intérêt de ma mauvaise mine : hay, hay, hay, hay.
 
 -*who_elise
 L'âge le rendra plus éclairé en honnêtes gens.
 
--*who_le_marquis
+-*who_marquis
 Sur quoi en étiez-vous, Mesdames, lorsque je vous ai interrompues ?
 
 -*who_uranie
 Sur la Comédie de L'École des Femmes.
 
--*who_le_marquis
+-*who_marquis
 Je ne fais que d'en sortir.
 
 -*who_climene
 Eh bien, Monsieur, comment la trouvez-vous, s'il vous plaît ?
 
--*who_le_marquis
+-*who_marquis
 Tout à fait impertinente.
 
 -*who_climene
 Ah que j'en suis ravie !
 
--*who_le_marquis
+-*who_marquis
 C'est la plus méchante chose du monde.
 Comment, diable ! à peine ai-je pu trouver place.
 J'ai pensé être étouffé à la porte ; et jamais on ne m'a tant marché sur les pieds.
@@ -512,7 +512,7 @@ Voyez comme mes canons, et mes rubans en sont ajustés, de grâce.
 -*who_elise
 Il est vrai que cela crie vengeance contre L'École des Femmes, et que vous la condamnez avec justice.
 
--*who_le_marquis
+-*who_marquis
 Il ne s'est jamais fait, je pense, une si méchante comédie.
 
 -*who_uranie
@@ -528,46 +528,46 @@ Car enfin, j'ai ouï condamner cette Comédie à certaines gens, par les mêmes 
 -*who_uranie
 Voilà Monsieur le Marquis, qui en dit force mal.
 
--*who_le_marquis
+-*who_marquis
 Il est vrai, je la trouve détestable ; morbleu détestable du dernier détestable ; ce qu'on appelle détestable.
 
 -*who_dorante
 Et moi, mon cher Marquis, je trouve le jugement détestable.
 
--*who_le_marquis
+-*who_marquis
 Quoi Chevalier, est-ce que tu prétends soutenir cette Pièce ?
 
 -*who_dorante
 Oui je prétends la soutenir.
 
--*who_le_marquis
+-*who_marquis
 Parbleu, je la garantis détestable.
 
 -*who_dorante
 La caution n'est pas Bourgeoise.
 Mais, Marquis, par quelle raison, de grâce, cette Comédie est-elle ce que tu dis ?
 
--*who_le_marquis
+-*who_marquis
 Pourquoi elle est détestable ?
 
 -*who_dorante
 Oui.
 
--*who_le_marquis
+-*who_marquis
 Elle est détestable, parce qu'elle est détestable.
 
 -*who_dorante
 Après cela, il n'y a plus rien à dire : voilà son procès fait.
 Mais encore instruis-nous, et nous dis les défauts qui y sont.
 
--*who_le_marquis
+-*who_marquis
 Que sais-je moi ? je ne me suis pas seulement donné la peine de l'écouter.
 Mais enfin je sais bien que je n'ai jamais rien vu de si méchant, Dieu me damne ; et Dorilas, contre qui j'étais a été de mon avis.
 
 -*who_dorante
 L'autorité est belle, et te voilà bien appuyé.
 
--*who_le_marquis
+-*who_marquis
 Il ne faut que voir les continuels éclats de rire que le Parterre y fait : je ne veux point d'autre chose, pour témoigner qu'elle ne vaut rien.
 
 -*who_dorante
@@ -578,7 +578,7 @@ Il écouta toute la Pièce avec un sérieux le plus sombre du monde : et tout c
 Ce fut une seconde Comédie, que le chagrin de notre ami ; il la donna en galant homme à toute l'assemblée ; et chacun demeura d'accord qu'on ne pouvait pas mieux jouer, qu'il fit.
 Apprends, Marquis, je te prie, et les autres aussi, que le bon sens n'a point de place déterminée à la Comédie ; que la différence du demi-Louis d'or, et de la pièce de quinze sols, ne fait rien du tout au bon goût ; que debout et assis on peut donner un mauvais jugement ; et qu'enfin, à le prendre en général, je me fierais assez à l'approbation du Parterre, par la raison qu'entre ceux qui le composent, il y en a plusieurs qui sont capables de juger d'une pièce selon les règles, et que les autres en jugent par la bonne façon d'en juger, qui est de se laisser prendre aux choses, et de n'avoir ni prévention aveugle, ni complaisance affectée, ni délicatesse ridicule.
 
--*who_le_marquis
+-*who_marquis
 Te voilà donc, Chevalier, le défenseur du Parterre ?
 Parbleu, je m'en réjouis, et je ne manquerai pas de l'avertir, que tu es de ses amis.
 Hay, hay, hay, hay, hay, hay.
@@ -589,7 +589,7 @@ J'enrage de voir de ces gens qui se traduisent en ridicules, malgré leur qualit
 Eh !
 Morbleu, Messieurs, taisez-vous, quand Dieu ne vous a pas donné la connaissance d'une chose ; n'apprêtez point à rire à ceux qui vous entendent parler ; et songez qu'en ne disant mot, on croira, peut-être, que vous êtes d'habiles gens.
 
--*who_le_marquis
+-*who_marquis
 Parbleu, Chevalier, tu le prends là…
 
 -*who_dorante
@@ -597,7 +597,7 @@ Mon Dieu Marquis ce n'est pas à toi que je parle.
 C'est à une douzaine de messieurs qui déshonorent les gens de Cour par leurs manières extravagantes, et font croire parmi le peuple que nous nous ressemblons tous.
 Pour moi je m'en veux justifier, le plus qu'il me sera possible ; et je les dauberai tant, en toutes rencontres, qu'à la fin ils se rendront sages.
 
--*who_le_marquis
+-*who_marquis
 Dis-moi, un peu, Chevalier, crois-tu que Lysandre ait de l'esprit ?
 
 -*who_dorante
@@ -606,7 +606,7 @@ Oui, sans doute, et beaucoup.
 -*who_uranie
 C'est une chose qu'on ne peut pas nier.
 
--*who_le_marquis
+-*who_marquis
 Demandez-lui ce qui lui semble de L'École des Femmes : vous verrez qu'il vous dira, qu'elle ne lui plaît pas.
 
 -*who_dorante
@@ -618,7 +618,7 @@ Il veut être le premier de son opinion, et qu'on attende par respect son jugeme
 Toute approbation qui marche avant la sienne est un attentat sur ses lumières, dont il se venge hautement en prenant le contraire parti.
 Il veut qu'on le consulte sur toutes les affaires d'esprit ; et je suis sûre que si l'Auteur lui eût montré sa Comédie, avant que de la faire voir au public, il l'eût trouvée la plus belle du monde.
 
--*who_le_marquis
+-*who_marquis
 Et que direz-vous de la Marquise Araminte, qui la publie partout pour épouvantable, et dit qu'elle n'a pu jamais souffrir les ordures dont elle est pleine ?
 
 -*who_dorante
@@ -630,7 +630,7 @@ On tient qu'il va, ce scrupule, jusques à défigurer notre langue, et qu'il n'y
 -*who_uranie
 Vous êtes bien fou, Chevalier.
 
--*who_le_marquis
+-*who_marquis
 Enfin, Chevalier, tu crois défendre ta Comédie, en faisant la satire de ceux qui la condamnent.
 
 -*who_dorante
@@ -757,13 +757,13 @@ Avouez, ma foi, que c'est une méchante chose que cette Comédie.
 -*who_lysidas
 Il est vrai qu'elle n'est pas approuvée par les Connaisseurs.
 
--*who_le_marquis
+-*who_marquis
 Ma foi, Chevalier, tu en tiens, et te voilà payé de ta raillerie, ah, ah, ah, ah, ah.
 
 -*who_dorante
 Pousse, mon cher Marquis, pousse.
 
--*who_le_marquis
+-*who_marquis
 Tu vois que nous avons les Savants de notre côté.
 
 -*who_dorante
@@ -777,13 +777,13 @@ Fi que cela est de mauvaise grâce.
 -*who_climene
 Voilà qui me confond, pour moi, que des personnes raisonnables se puissent mettre en tête de donner protection aux sottises de cette Pièce !
 
--*who_le_marquis
+-*who_marquis
 Dieu me damne, Madame, elle est misérable depuis le commencement jusqu'à la fin.
 
 -*who_dorante
 Cela est bientôt dit, Marquis ; il n'est rien plus aisé que de trancher ainsi, et je ne vois aucune chose, qui puisse être à couvert de la souveraineté de tes décisions.
 
--*who_le_marquis
+-*who_marquis
 Parbleu, tous les autres Comédiens qui étaient là pour la voir, en ont dit tous les maux du monde.
 
 -*who_dorante
@@ -823,7 +823,7 @@ Et puis, Madame, ne savez-vous pas que les injures des Amants n'offensent jamais
 -*who_elise
 Dites tout ce que vous voudrez, je ne saurais digérer cela, non plus que le potage, et la tarte à la crème, dont Madame a parlé tantôt.
 
--*who_le_marquis
+-*who_marquis
 Ah ! ma foi oui, tarte à la crème.
 Voilà ce que j'avais remarqué tantôt ; tarte à la crème.
 Que je vous suis obligé, Madame, de m'avoir fait souvenir de tarte à la crème.
@@ -833,31 +833,31 @@ Tarte à la crème, morbleu, Tarte à la crème !
 -*who_dorante
 Eh bien que veux-tu dire, tarte à la crème ?
 
--*who_le_marquis
+-*who_marquis
 Parbleu, tarte à la crème, Chevalier.
 
 -*who_dorante
 Mais encore ?
 
--*who_le_marquis
+-*who_marquis
 Tarte à la crème.
 
 -*who_dorante
 Dis-nous un peu tes raisons.
 
--*who_le_marquis
+-*who_marquis
 Tarte à la crème.
 
 -*who_uranie
 Mais il faut expliquer sa pensée, ce me semble.
 
--*who_le_marquis
+-*who_marquis
 Tarte à la crème, Madame.
 
 -*who_uranie
 Que trouvez-vous là à redire ?
 
--*who_le_marquis
+-*who_marquis
 Moi, rien ; tarte à la crème.
 
 -*who_uranie
@@ -903,7 +903,7 @@ En un mot, dans les pièces sérieuses, il suffit, pour n'être point blâmé, d
 -*who_climene
 Je crois être du nombre des honnêtes gens, et cependant je n'ai pas trouvé le mot pour rire dans tout ce que j'ai vu.
 
--*who_le_marquis
+-*who_marquis
 Ma foi, ni moi non plus.
 
 -*who_dorante
@@ -1007,7 +1007,7 @@ Mais puisque ces mots blessent vos oreilles, je m'expliquerai d'une autre façon
 Peut-on souffrir une pièce qui pèche contre le nom propre des pièces de Théâtre ?
 Car enfin le nom de poème Dramatique vient d'un mot grec, qui signifie agir, pour montrer que la nature de ce poème consiste dans l'action ; et dans cette comédie-ci il ne se passe point d'actions, et tout consiste en des récits que vient faire ou Agnès ou Horace.
 
--*who_le_marquis
+-*who_marquis
 Ah, ah, Chevalier.
 
 -*who_climene
@@ -1025,7 +1025,7 @@ Ah !
 -*who_lysidas
 La Scène du valet et de la servante au dedans de la maison, n'est-elle pas d'une longueur ennuyeuse, et tout à fait impertinente ?
 
--*who_le_marquis
+-*who_marquis
 Cela est vrai.
 
 -*who_climene
@@ -1037,7 +1037,7 @@ Il a raison.
 -*who_lysidas
 Arnolphe ne donne-t-il pas trop librement son argent à Horace ; et puisque c'est le personnage ridicule de la pièce, fallait-il lui faire faire l'action d'un honnête homme ?
 
--*who_le_marquis
+-*who_marquis
 Bon, la remarque est encore bonne.
 
 -*who_climene
@@ -1049,7 +1049,7 @@ Merveilleuse.
 -*who_lysidas
 Le sermon, et les Maximes ne sont-elles pas des choses ridicules, et qui choquent, même, le respect que l'on doit à nos mystères ?
 
--*who_le_marquis
+-*who_marquis
 C'est bien dit.
 
 -*who_climene
@@ -1061,7 +1061,7 @@ Il ne se peut rien de mieux.
 -*who_lysidas
 Et ce Monsieur de la Souche, enfin, qu'on nous fait un homme d'esprit, et qui paraît si sérieux en tant d'endroits, ne descend-il point dans quelque chose de trop Comique, et de trop outré au cinquième Acte, lorsqu'il explique à Agnès la violence de son amour avec ces roulements d'yeux extravagants, ces soupirs ridicules, et ces larmes niaises qui font rire tout le monde ?
 
--*who_le_marquis
+-*who_marquis
 Morbleu, merveille !
 
 -*who_climene
@@ -1073,33 +1073,33 @@ Vivat, Monsieur Lysidas.
 -*who_lysidas
 Je laisse cent mille autres choses de peur d'être ennuyeux.
 
--*who_le_marquis
+-*who_marquis
 Parbleu, Chevalier, te voilà mal ajusté.
 
 -*who_dorante
 Il faut voir.
 
--*who_le_marquis
+-*who_marquis
 Tu as trouvé ton homme, ma foi.
 
 -*who_dorante
 Peut-être.
 
--*who_le_marquis
+-*who_marquis
 Réponds, réponds, réponds, réponds.
 
 -*who_dorante
 Volontiers.
 Il…
 
--*who_le_marquis
+-*who_marquis
 Réponds donc, je te prie.
 
 -*who_dorante
 Laisse-moi donc faire.
 Si…
 
--*who_le_marquis
+-*who_marquis
 Parbleu, je te défie de répondre.
 
 -*who_dorante
@@ -1115,7 +1115,7 @@ On y voit beaucoup d'actions qui se passent sur la Scène ; et les récits eux-
 -*who_uranie
 Pour moi, je trouve que la beauté du sujet de L'École des Femmes consiste dans cette confidence perpétuelle ; et ce qui me paraît assez plaisant, c'est qu'un homme qui a de l'Esprit et qui est averti de tout par une innocente qui est sa maîtresse et par un étourdi qui est son rival, ne puisse avec cela éviter ce qui lui arrive.
 
--*who_le_marquis
+-*who_marquis
 Bagatelle, bagatelle.
 
 -*who_climene
@@ -1127,7 +1127,7 @@ Mauvaises raisons.
 -*who_dorante
 Pour ce qui est des enfants par l'oreille, ils ne sont plaisants que par réflexion à Arnolphe ; et l'Auteur n'a pas mis cela pour être de soi un bon mot : mais seulement pour une chose qui caractérise l'homme, et peint d'autant mieux son extravagance, puisqu'il rapporte une sottise triviale qu'a dite Agnès, comme la chose la plus belle du monde et qui lui donne une joie inconcevable.
 
--*who_le_marquis
+-*who_marquis
 C'est mal répondre.
 
 -*who_climene
@@ -1140,7 +1140,7 @@ C'est ne rien dire.
 Quant à l'argent qu'il donne librement, outre que la lettre de son meilleur ami lui est une caution suffisante, il n'est pas incompatible qu'une personne soit ridicule en de certaines choses, et honnête homme en d'autres.
 Et pour la Scène d'Alain et de Georgette dans le logis, que quelques-uns ont trouvée longue et froide, il est certain qu'elle n'est pas sans raison ; et de même qu'Arnolphe se trouve attrapé pendant son voyage, par la pure innocence de sa maîtresse, il demeure au retour longtemps à sa porte par l'innocence de ses valets, afin qu'il soit partout puni par les choses qu'il a cru faire la sûreté de ses précautions.
 
--*who_le_marquis
+-*who_marquis
 Voilà des raisons qui ne valent rien.
 
 -*who_climene
@@ -1153,39 +1153,39 @@ Cela fait pitié.
 Pour le discours moral que vous appelez un sermon, il est certain que de vrais dévots qui l'ont ouï n'ont pas trouvé qu'il choquât ce que vous dites ; et sans doute que ces paroles d'enfer et de chaudières bouillantes sont assez justifiées par l'extravagance d'Arnolphe et par l'innocence de celle à qui il parle.
 Et quant au transport amoureux du cinquième acte qu'on accuse d'être trop outré et trop comique, je voudrais bien savoir si ce n'est pas faire la satire des amants, et si les honnêtes gens même, et les plus sérieux, en de pareilles occasions, ne font pas des choses ?…
 
--*who_le_marquis
+-*who_marquis
 Ma foi, Chevalier, tu ferais mieux de te taire.
 
 -*who_dorante
 Fort bien.
 Mais enfin si nous nous regardions nous-mêmes, quand nous sommes bien amoureux ?…
 
--*who_le_marquis
+-*who_marquis
 Je ne veux pas seulement t'écouter.
 
 -*who_dorante
 Écoute-moi si tu veux.
 Est-ce que dans la violence de la passion ?…
 
--*who_le_marquis
+-*who_marquis
 La, la, la, la, lare, la, la, la, la, la, la.
 
 -*who_dorante
 Quoi ?…
 
--*who_le_marquis
+-*who_marquis
 La, la, la, la, lare, la, la, la, la, la, la.
 
 -*who_dorante
 Je ne sais pas si ?…
 
--*who_le_marquis
+-*who_marquis
 La, la, la, la, lare, la, la, la, la, la, la, la.
 
 -*who_uranie
 Il me semble que…
 
--*who_le_marquis
+-*who_marquis
 La, la, la, lare, la, la, la, la, la, la, la, la, la, la.
 
 -*who_uranie
@@ -1195,7 +1195,7 @@ Je trouve qu'on en pourrait bien faire une petite Comédie, et que cela ne serai
 -*who_dorante
 Vous avez raison.
 
--*who_le_marquis
+-*who_marquis
 Parbleu, Chevalier, tu jouerais là-dedans un rôle qui ne te serait pas avantageux.
 
 -*who_dorante

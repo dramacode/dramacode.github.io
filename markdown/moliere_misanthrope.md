@@ -121,10 +121,10 @@ La Scène est à Paris.
 # LE MISANTHROPE COMÉDIE
 
 
-## ACTE PREMIER
+## Acte Premier
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Philinte, Alceste
 
 
@@ -533,7 +533,7 @@ Je crains fort pour vos Feux ; et l'espoir où vous êtes,
 Pourrait…  
 
 
-### SCÈNE II
+### Scène II
 Oronte, Alceste, Philinte
 
 
@@ -887,7 +887,7 @@ Je suis votre Valet, Monsieur, de tout mon coeur.
 Et moi, je suis, Monsieur, votre humble Serviteur.  
 
 
-### SCÈNE III
+### Scène III
 Philinte, Alceste
 
 
@@ -941,10 +941,10 @@ Vous vous moquez de moi, je ne vous quitte pas.
 <Fin du Premier Acte>
 
 
-## ACTE II
+## Acte II
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Alceste, Célimène
 
 
@@ -1077,7 +1077,7 @@ Mais il ne tient qu'à vous, que son chagrin ne passe ;
 Parlons à Coeur ouvert, et voyons d'arrêter…  
 
 
-### SCÈNE II
+### Scène II
 Célimène, Alceste, Basque
 
 
@@ -1124,7 +1124,7 @@ Vous trouvez des Raisons pour souffrir tout le Monde ;
 Et les précautions de votre jugement…  
 
 
-### SCÈNE III
+### Scène III
 Basque, Alceste, Célimène
 
 
@@ -1172,7 +1172,7 @@ Je le veux, je le veux.
 Hé bien ! allez, sortez, il vous est tout loisible.  
 
 
-### SCÈNE IV
+### Scène IV
 Éliante, Philinte, Acaste, Clitandre, Alceste, Célimène, Basque
 
 
@@ -1490,7 +1490,7 @@ C'est pour rire, je crois.
 Nous verrons, si c'est moi, que vous voudrez qui sorte.  
 
 
-### SCÈNE V
+### Scène V
 Basque, Alceste, Célimène, Éliante, Acaste, Philinte, Clitandre
 
 
@@ -1514,7 +1514,7 @@ Ou bien, faites-le entrer.
 Venez, Monsieur.  
 
 
-### SCÈNE VI
+### Scène VI
 Garde, Alceste, Célimène, Éliante, Acaste, Philinte, Clitandre
 
 
@@ -1600,10 +1600,10 @@ Je reviens en ce Lieu, pour vider nos Débats.
 <Fin du Second Acte.>
 
 
-## ACTE III
+## Acte III
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Clitandre, Acaste
 
 
@@ -1728,7 +1728,7 @@ Et du bon de mon coeur, à cela je m'engage.
 Mais chut.  
 
 
-### SCÈNE II
+### Scène II
 Célimène, Acaste, Clitandre
 
 
@@ -1746,7 +1746,7 @@ Savez-vous qui c'est ?
     Non.  
 
 
-### SCÈNE III
+### Scène III
 Basque, Célimène, Acaste, Clitandre
 
 
@@ -1790,7 +1790,7 @@ Elle est impertinente au suprême Degré ;
 Et…  
 
 
-### SCÈNE IV
+### Scène IV
 Arsinoé, Célimène
 
 
@@ -1999,7 +1999,7 @@ Soyez avec Madame, elle aura la bonté
 D'excuser, aisément, mon incivilité.  
 
 
-### SCÈNE V
+### Scène V
 Alceste, Arsinoé
 
 
@@ -2133,10 +2133,10 @@ On pourra vous offrir de quoi vous consoler.
 <Fin du Troisième Acte.>
 
 
-## ACTE IV
+## Acte IV
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Éliante, Philinte
 
 
@@ -2248,7 +2248,7 @@ J'attends l'occasion de m'offrir hautement,
 Et de tous mes souhaits, j'en presse le moment.  
 
 
-### SCÈNE II
+### Scène II
 Alceste, Éliante, Philinte
 
 
@@ -2351,7 +2351,7 @@ Pleinement, la confondre, et vous porter, après,
 Un Coeur tout dégagé de ses trompeurs Attraits.  
 
 
-### SCÈNE III
+### Scène III
 Célimène, Alceste
 
 
@@ -2580,7 +2580,7 @@ Me préserve le Ciel que vous ayez matière…
 Voici Monsieur Du Bois, plaisamment figuré.  
 
 
-### SCÈNE IV
+### Scène IV
 Du Bois, Célimène, Alceste
 
 
@@ -2715,10 +2715,10 @@ De vous revoir, Madame, avant la fin du Jour.
 <Fin du Quatrième Acte.>
 
 
-## ACTE V
+## Acte V
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Alceste, Philinte
 
 
@@ -2859,7 +2859,7 @@ C'est une Compagnie étrange, pour attendre,
 Et je vais obliger Eliante à descendre.  
 
 
-### SCÈNE II
+### Scène II
 Oronte, Célimène, Alceste
 
 
@@ -2973,7 +2973,7 @@ Et ne vous dis-je pas quel Motif me retient ?
 J'en vais prendre pour Juge, Éliante qui vient.  
 
 
-### SCÈNE III
+### Scène III
 Éliante, Philinte, Célimène, Oronte, Alceste
 
 
@@ -3010,7 +3010,7 @@ Je ne veux qu'un seul Mot, pour finir nos débats.
 Et moi, je vous entends, si vous ne parlez pas.  
 
 
-### SCÈNE DERNIÈRE
+### Scène Dernière
 Acaste, Clitandre, Arsinoé, Philinte, Éliante, Oronte, Célimène, Alceste
 
 

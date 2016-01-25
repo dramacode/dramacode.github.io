@@ -1768,11 +1768,11 @@ Qu'importe comme ils parlent, pourvu qu'ils me disent ce que je veux savoir.
 
 **** *book_moliere_monsieur-pourceaugnac *id_II11 *act_II *date_1669 *creator_moliere
 
--*who_lavocat,_trainant_ses_paroles
+-*who_avocat1
 La polygamie est un cas,
 Est un cas pendable.
 
--*who_lavocat_bredouilleur
+-*who_avocat2
 Votre fait
 Est clair et net ;
 Et tout le droit

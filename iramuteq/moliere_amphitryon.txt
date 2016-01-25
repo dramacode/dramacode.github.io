@@ -210,9 +210,7 @@ Bon jour, la Nuit.
 -*who_nuit
 Adieu, Mercure.
 
-**** *book_moliere_amphitryon *id_I *date_1668 *creator_moliere
-
-SCÈNE PREMIÈRE.
+**** *book_moliere_amphitryon *id_I01 *act_I *date_1668 *creator_moliere
 
 -*who_sosie
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.
@@ -322,7 +320,7 @@ Et voici le Corps d'Armée,
 Qui d'abord… Attendez, le Corps d'Armée a peur.
 J'entends quelque bruit, ce me semble.
 
-SCÈNE II.
+Scène II
 
 -*who_mercure
 Sous ce minois, qui lui ressemble,
@@ -851,7 +849,7 @@ De beaucoup d'actions, il a reçu la peine.
 Mais je vois Jupiter, que fort civilement
 Reconduit l'amoureuse Alcmène.
 
-SCÈNE III.
+Scène III
 
 -*who_jupiter
 Défendez, chère Alcmène, aux Flambeaux d'approcher ;
@@ -973,7 +971,7 @@ N'a plus qu'à plier tous ses voiles ;
 Et pour effacer les Étoiles,
 Le Soleil, de son Lit, peut maintenant sortir.
 
-SCÈNE IV.
+Scène IV
 
 -*who_cleanthis
 Quoi ! c'est ainsi que l'on me quitte ?
@@ -1074,7 +1072,7 @@ J'enrage d'être honnête Femme !
 
 **** *book_moliere_amphitryon *id_II *date_1668 *creator_moliere
 
-SCÈNE PREMIÈRE.
+Scène Première
 
 -*who_amphitryon
 Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,
@@ -1361,7 +1359,7 @@ Mais Alcmène paraît avec tous ses appas :
 En ce moment, sans doute, elle ne m'attend pas,
 Et mon abord la va surprendre.
 
-SCÈNE II.
+Scène II
 
 -*who_alcmene
 Allons pour mon Époux, Cléanthis, vers les Dieux,
@@ -1764,7 +1762,7 @@ Faut-il…
 Je ne puis rien entendre :
 Laisse-moi seule, et ne suis point mes pas.
 
-SCÈNE III.
+Scène III
 
 -*who_cleanthis
 Il faut que quelque chose ait brouillé sa cervelle :
@@ -2007,7 +2005,7 @@ Sur mon Esprit gagner la chose…
 Fais à ce discours quelque pause :
 Amphitryon revient, qui me paraît content.
 
-SCÈNE IV.
+Scène IV
 
 -*who_jupiter
 Je viens prendre le temps de rapaiser Alcmène ;
@@ -2029,7 +2027,7 @@ Elle ne sera pas pour moi.
 Son chagrin, à ce que je vois,
 A fait une prompte retraite.
 
-SCÈNE V.
+Scène V
 
 -*who_sosie
 Que dis-tu, Cléanthis, de ce joyeux maintien,
@@ -2052,7 +2050,7 @@ Vraiment…
 -*who_sosie
 Les voici. Taisons-nous.
 
-SCÈNE VI.
+Scène VI
 
 -*who_jupiter
 Voulez-vous me désespérer ?
@@ -2355,7 +2353,7 @@ Et les invite à dîner avec moi.
 Tandis que d'ici je le chasse,
 Mercure y remplira sa place.
 
-SCÈNE VII.
+Scène VII
 
 -*who_sosie
 Hé bien ! tu vois, Cléanthis, ce ménage.
@@ -2389,7 +2387,7 @@ On se lasse, parfois, d'être Femme de bien.
 
 **** *book_moliere_amphitryon *id_III *date_1668 *creator_moliere
 
-SCÈNE PREMIÈRE.
+Scène Première
 
 -*who_amphitryon
 Oui, sans doute, le Sort tout exprès me le cache ;
@@ -2444,7 +2442,7 @@ Ah ! fasse le Ciel équitable,
 Que ce penser soit véritable ;
 Et que, pour mon bonheur, elle ait perdu l'Esprit !
 
-SCÈNE II.
+Scène II
 
 -*who_mercure
 Comme l'Amour ici ne m'offre aucun plaisir,
@@ -2605,7 +2603,7 @@ Garde-toi de troubler leurs douces privautés,
 Si tu ne veux qu'il ne punisse
 L'excès de tes témérités.
 
-SCÈNE III.
+Scène III
 
 -*who_amphitryon
 Ah ! quel étrange coup m'a-t-il porté dans l'Âme ?
@@ -2621,7 +2619,7 @@ Je n'ai rien à prétendre, et rien à ménager ;
 Et toute mon inquiétude
 Ne doit aller qu'à me venger.
 
-SCÈNE IV.
+Scène IV
 
 -*who_sosie
 Monsieur, avec mes soins, tout ce que j'ai pu faire,
@@ -2740,7 +2738,7 @@ Débrouillons ce mystère, et sachons notre Sort.
 Hélas ! je brûle de l'apprendre ;
 Et je le crains plus que la Mort !
 
-SCÈNE V.
+Scène V
 
 -*who_jupiter
 Quel bruit à descendre m'oblige ?
@@ -2944,7 +2942,7 @@ De raconter nos vaillantises !
 Je brûle d'en venir aux prises ;
 Et jamais je n'eus tant de faim.
 
-SCÈNE VI.
+Scène VI
 
 -*who_mercure
 Arrête. Quoi ! tu viens ici mettre ton nez,
@@ -3067,7 +3065,7 @@ Joignons le malheureux Sosie,
 Au malheureux Amphitryon.
 Je l'aperçois venir en bonne compagnie.
 
-SCÈNE VII.
+Scène VII
 
 -*who_amphitryon
 Arrêtez là, Messieurs. Suivez-nous d'un peu loin ;
@@ -3148,7 +3146,7 @@ Suis-moi.
 -*who_sosie
 N'est-il pas mieux, de voir s'il vient Personne.
 
-SCÈNE VIII.
+Scène VIII
 
 -*who_cleanthis
 Ô Ciel !
@@ -3166,7 +3164,7 @@ Pour donner devant tous, les clartés, qu'on désire ;
 Et qui, si l'on peut croire à ce qu'il vient de dire,
 Sauront vous affranchir de trouble, et de souci.
 
-SCÈNE IX.
+Scène IX
 
 -*who_mercure
 Oui, vous l'allez voir tous : et sachez, par avance,
@@ -3196,7 +3194,7 @@ Ta fureur s'est par trop acharnée après moi :
 Et je ne vis de ma vie,
 Un Dieu plus Diable, que toi.
 
-SCÈNE X.
+Scène X
 
 -*who_jupiter
 Regarde, Amphitryon, quel est ton Imposteur ;

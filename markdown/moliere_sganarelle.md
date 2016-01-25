@@ -57,10 +57,10 @@ La Scène est à Paris.
 # SGANARELLE OU LE COCU IMAGINAIRE, *COMÉDIE*
 
 
-## ACTE PREMIER
+## Acte premier
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Gorgibus, Célie, sa Suivante.
 
 
@@ -142,7 +142,7 @@ Si je ne vous lui vois faire fort bon visage
 Je vous… je ne veux pas en dire davantage.  
 
 
-### SCÈNE II.
+### Scène II.
 Célie, sa Suivante.
 
 
@@ -211,7 +211,7 @@ D'où vous pourrait venir… ah ! bons Dieux elle pâme.
 Hé ! vite, holà, quelqu'un.  
 
 
-### SCÈNE III.
+### Scène III.
 Célie, la Suivante, Sganarelle.
 
 
@@ -234,7 +234,7 @@ Je vais faire venir
 Quelqu'un pour l'emporter, veuillez la soutenir.  
 
 
-### SCÈNE IV.
+### Scène IV.
 Célie, Sganarelle, sa Femme.
 
 
@@ -260,13 +260,13 @@ Il l'emporte avec un homme que la suivante amène.
 
 
 
-### SCÈNE V.
+### Scène V.
 La Femme de sganarelle *seule.*
 
 
 L'Auteur, qui comme nous avons dit ci-dessus, sait tout à fait bien ménager l'esprit de son Auditeur, après l'avoir diverti dans les deux précédentes Scènes, dont la beauté consiste presque toute dans l'action, l'attache dans celle-ci par un raisonnement si juste, que l'on ne pourra qu'à peine se l'imaginer, si l'on en considère la matière ; mais il n'appartient qu'à des plumes, comme la sienne, à faire beaucoup de peu, et voici pour satisfaire votre curiosité le sujet de cette Scène. La femme de Sganarelle étant descendue, et n'ayant point trouvé son mari, fait éclater sa jalousie, mais d'une manière si surprenante et si extraordinaire, que quoique cette matière ait été fort souvent rebattue, jamais personne ne l'a traitée avec tant de succès, d'une manière si contraire à celle de toutes les autres femmes, qui n'ont recours qu'aux emportements en de semblables rencontres, et comme il m'a été presque impossible de vous l'exprimer aussi bien que lui ; Ces vers vous en feront connaître la beauté.
 
-     LA FEMME DE SGANARELLE *seule.*
+    LA FEMME DE SGANARELLE *seule.*
 Il s'est subitement éloigné de ces lieux,  
 Et sa fuite a trompé mon désir curieux.  
 Mais de sa trahison je ne fais plus de doute,  
@@ -292,7 +292,7 @@ L'émail en est fort beau, la gravure charmante,
 Ouvrons.  
 
 
-### SCÈNE VI.
+### Scène VI.
 Sganarelle, et sa Femme.
 
 
@@ -432,7 +432,7 @@ Elle lui arrache le portrait et s'enfuit.
 Oui, tu crois m'échapper, je l'aurai malgré toi.  
 
 
-### SCÈNE VII.
+### Scène VII.
 Lélie, Gros-René.
 
 
@@ -505,7 +505,7 @@ Et sans m'importuner, va manger si tu veux.
 Je ne réplique point à ce qu'un Maître ordonne.  
 
 
-### SCÈNE VIII.
+### Scène VIII.
 
 Je ne vous dirai rien de cette scène, puisqu'elle ne contient que ces trois vers.
 
@@ -515,7 +515,7 @@ Le père m'a promis et la fille a fait voir
 Des preuves d'un amour qui soutient mon espoir.  
 
 
-### SCÈNE IX.
+### Scène IX.
 Sganarelle, Lélie
 
 
@@ -617,7 +617,7 @@ Vous en savez la cause et je m'en vais l'apprendre
 Sur l'heure à ses parents.  
 
 
-### SCÈNE X.
+### Scène X.
 Lélie seul.
 
 
@@ -637,7 +637,7 @@ Me donne tout à coup un choc si violent,
 Que mon cœur devient faible, et mon corps chancelant.  
 
 
-### SCÈNE XI.
+### Scène XI.
 Lélie, la Femme de sganarelle.
 
 
@@ -658,7 +658,7 @@ Entrez dans cette salle en attendant qu'il passe.
 Pour un moment ou deux, j'accepte cette grâce.  
 
 
-### SCÈNE XII.
+### Scène XII.
 Sganarelle et le Parent de sa Femme.
 
 
@@ -683,7 +683,7 @@ Informez-vous-en donc, et si c'est ce qu'on pense,
 Nous serons les premiers à punir son offense.  
 
 
-### SCÈNE XIII
+### Scène XIII
 Sganarelle seul.
 
 
@@ -699,7 +699,7 @@ Mon déshonneur n'est pas tout à fait confirmé,
 Tâchons donc par nos soins…  
 
 
-### SCÈNE XIV.
+### Scène XIV.
 Sganarelle, sa Femme, Lélie, *sur la porte de Sganarelle, en parlant à sa Femme*.
 
 
@@ -722,7 +722,7 @@ De l'obligeant secours que vous m'avez prêté.
 La masque encore après lui fait civilité.  
 
 
-### SCÈNE XV.
+### Scène XV.
 Sganarelle, Lélie.
 
 
@@ -741,7 +741,7 @@ Passant auprès de lui et le regardant.
 
 
 
-### SCÈNE XVI.
+### Scène XVI.
 Sganarelle, Célie, regardant aller Lélie.
 
 
@@ -882,7 +882,7 @@ Mon cœur pour se venger sait ce qu'il te faut faire,
 Et j'y cours de ce pas, rien ne m'en peut distraire.  
 
 
-### SCÈNE XVII.
+### Scène XVII.
 Sganarelle seul.
 
 
@@ -965,7 +965,7 @@ Je vais dire partout qu'il couche avec ma femme.
 Avouez-moi maintenant la vérité, est-il pas vrai, Monsieur, que vous avez trouvé ces Vers tout à fait beaux, que vous ne vous êtes pu vous empêcher de les relire encore une fois, et que vous demeurez d'accord que Paris a eu raison de nommer cette scène, la belle Scène ?
 
 
-### SCÈNE XVIII.
+### Scène XVIII.
 Gorgibus, Célie, La Suivante.
 
 
@@ -992,7 +992,7 @@ Va, le contentement de te voir si bien née
 Me fera rajeunir de dix fois une année.  
 
 
-### SCÈNE XIX.
+### Scène XIX.
 Célie, la Suivante.
 
 
@@ -1017,7 +1017,7 @@ Qu'il était en ces lieux sans…
 Mais il vient à nous.  
 
 
-### SCÈNE XX.
+### Scène XX.
 Lélie, Célie, la Suivante.
 
 
@@ -1047,7 +1047,7 @@ Qui rend donc contre moi ce courroux légitime ?
 Quoi tu fais le surpris, et demandes ton crime ?  
 
 
-### SCÈNE XXI.
+### Scène XXI.
 Célie, Lélie, Sganarelle, la Suivante.
 
 
@@ -1174,7 +1174,7 @@ Vous me défendez mieux que je ne saurais faire,
 Et du biais qu'il faut vous prenez cette affaire.  
 
 
-### SCÈNE XXII.
+### Scène XXII.
 Célie, Lélie, Sganarelle, sa Femme, la Suivante.
 
 
@@ -1316,7 +1316,7 @@ Mais je le vois venir.
 Il me tiendra parole.  
 
 
-### SCÈNE XXIII.
+### Scène XXIII.
 Célie, Lélie, Gorgibus, Sganarelle, sa Femme, la Suivante
 
 
@@ -1353,7 +1353,7 @@ Pour Valère tantôt… mais j'aperçois son père,
 Il vient assurément pour conclure l'affaire.  
 
 
-### SCÈNE DERNIÈRE
+### Scène Dernière
 Célie, Lélie, Gorgibus, Sganarelle, sa Femme, Villebrequin, la Suivante.
 
 

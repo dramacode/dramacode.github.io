@@ -35,13 +35,13 @@ La Scène est à Paris.
 
 
 
-# L'AVARE, *COMÉDIE.*
+# L'Avare, *Comédie.*
 
 
-## ACTE PREMIER
+## Acte Premier
 
 
-### SCÈNE PREMIÈRE.
+### Scène Première
 Valère, Élise
 
 
@@ -94,7 +94,7 @@ On ne peut pas ménager l'un et l'autre ; et l'esprit du Père, et celui du Fils
 Je ne sais si j'aurai la force de lui faire cette confidence.
 
 
-### SCÈNE II.
+### Scène II
 Cléante, Élise
 
 
@@ -156,7 +156,7 @@ Il est bien vrai que tous les jours il nous donne, de plus en plus, sujet de reg
 J'entends sa voix. Éloignons-nous un peu, pour nous achever notre confidence ; et nous joindrons après nos forces pour venir attaquer la dureté de son humeur.
 
 
-### SCÈNE III.
+### Scène III
 Harpagon, La Flèche
 
 
@@ -375,7 +375,7 @@ Me voilà fort bien congédié.
 Je te le mets sur ta conscience au moins.Voilà un pendard de valet qui m'incommode fort ; et je ne me plais point à voir ce chien de boiteux-là.
 
 
-### SCÈNE IV.
+### Scène IV
 Élise, Cléante, Harpagon
 
 
@@ -702,7 +702,7 @@ Oui, j'en passerai par ce qu'il dira.
 Voilà qui est fait.
 
 
-### SCÈNE V.
+### Scène V
 Valère, Harpagon, Élise
 
 
@@ -852,10 +852,10 @@ Ah le brave Garçon !Voilà parlé comme un Oracle. Heureux qui peut avoir un Do
 Fin du Premier Acte.
 
 
-## ACTE II
+## Acte II
 
 
-### SCÈNE PREMIÈRE.
+### Scène Première
 Cléante, La Flèche
 
 
@@ -983,7 +983,7 @@ Il faut avouer que le vôtre animerait contre sa vilanie, le plus posé Homme du
 Donne-moi un peu ce Mémoire, que je le voie encore.
 
 
-### SCÈNE II.
+### Scène II
 Maître Simon, Harpagon, Cléante, La Flèche
 
 
@@ -1051,7 +1051,7 @@ Qui est plus criminel, à votre avis, ou celui qui achète un argent dont il a b
 Retire-toi, te dis-je, et ne m'échauffe pas les oreilles. Je ne suis pas fâché de cette aventure ; et ce m'est un avis de tenir l'œil, plus que jamais, sur toutes ses actions.
 
 
-### SCÈNE III.
+### Scène III
 Frosine, Harpagon
 
 
@@ -1062,7 +1062,7 @@ Monsieur…
 Attendez un moment. Je vais revenir vous parler, Il est à propos que je fasse un petit tour à mon argent.
 
 
-### SCÈNE IV.
+### Scène IV
 La Flèche, Frosine
 
 
@@ -1100,7 +1100,7 @@ Mon Dieu, je sais l'art de traire les Hommes.J'ai le secret de m'ouvrir leur ten
 Bagatelles ici. Je te défie d'attendrir, du côté de l'argent, l'Homme dont il est question. Il est Turc là-dessus, mais d'une Turquerie à désespérer tout le monde ; et l'on pourrait crever, qu'il n'en branlerait pas. En un mot, il aime l'argent, plus que réputation, qu'honneur, et que vertu ; et la vue d'un demandeur lui donne des convulsions. C'est le frapper par son endroit mortel, c'est lui percer le cœur, c'est lui arracher les entrailles ; et si…Mais il revient ; je me retire.
 
 
-### SCÈNE V.
+### Scène V
 Harpagon, Frosine
 
 
@@ -1330,10 +1330,10 @@ Que la fièvre te serre, chien de vilain à tous les Diables.Le ladre a été fe
 Fin du Second Acte.
 
 
-## ACTE III
+## Acte III
 
 
-### SCÈNE PREMIÈRE.
+### Scène Première
 Harpagon, Cléante, Élise, Valère, Dame Claude, Maître Jacques, Brindavoine, La Merluche
 
 
@@ -1592,7 +1592,7 @@ Hé bien, ne l'avais-je pas deviné ? Vous ne m'avez pas voulu croire.Je vous l'
 Apprenez à parler.
 
 
-### SCÈNE II.
+### Scène II
 Maître Jacques, Valère
 
 
@@ -1670,7 +1670,7 @@ Apprenez que vous êtes un mauvais railleur.
 Peste soit la sincérité, c'est un mauvais métier.Désormais j'y renonce, et je ne veux plus dire vrai. Passe encore pour mon Maître, il a quelque droit de me battre : mais pour ce Monsieur l'Intendant, je m'en vengerai si je puis.
 
 
-### SCÈNE III.
+### Scène III
 Frosine, Mariane, Maître Jacques
 
 
@@ -1684,7 +1684,7 @@ Oui vraiment il y est, je ne le sais que trop.
 Dites-lui, je vous prie, que nous sommes ici.
 
 
-### SCÈNE IV.
+### Scène IV
 Mariane, Frosine
 
 
@@ -1722,7 +1722,7 @@ Vous moquez-vous ? Vous ne l'épousez qu'aux conditions de vous laisser veuve bi
 Ah Frosine, quelle figure !
 
 
-### SCÈNE V.
+### Scène V
 Harpagon, Frosine, Mariane
 
 
@@ -1736,7 +1736,7 @@ C'est qu'elle est encore toute surprise ; et puis les Filles ont toujours honte
 Tu as raison. Voilà, belle mignonne, ma Fille, qui vient vous saluer.
 
 
-### SCÈNE VI.
+### Scène VI
 Élise, Harpagon, Mariane, Frosine
 
 
@@ -1783,7 +1783,7 @@ L'aventure est merveilleuse.
 Je vois que vous vous étonnez de me voir de si grands Enfants ; mais je serai bientôt défait et de l'un, et de l'autre.
 
 
-### SCÈNE VII.
+### Scène VII
 Cléante, Harpagon, Élise, Mariane, Frosine
 
 
@@ -1945,7 +1945,7 @@ Mon Dieu, que de façons ! Gardez la Bague, puisque Monsieur le veut.
 Pour ne vous point mettre en colère, je la garde maintenant ; et je prendrai un autre temps pour vous la rendre.
 
 
-### SCÈNE VIII.
+### Scène VIII
 Harpagon, Mariane, Frosine, Cléante, Brindavoine, Élise
 
 
@@ -1962,7 +1962,7 @@ Il dit qu'il vous apporte de l'argent.
 Je vous demande pardon. Je reviens tout à l'heure.
 
 
-### SCÈNE IX.
+### Scène IX
 Harpagon, Mariane, Cléante, Élise, Frosine, La Merluche
 
 
@@ -2008,10 +2008,10 @@ C'est assez.
 Ô fils impertinent, as-tu envie de me ruiner !< Fin du Troisième Acte. >
 
 
-## ACTE IV
+## Acte IV
 
 
-### SCÈNE PREMIÈRE.
+### Scène Première
 Cléante, Mariane, Élise, Frosine
 
 
@@ -2088,7 +2088,7 @@ Sois assurée, Frosine, de ma reconnaissance, si tu viens à bout de la chose : 
 J'y ferai tout ce que je puis, et n'oublierai aucune chose.
 
 
-### SCÈNE II.
+### Scène II
 Harpagon, Cléante, Mariane, Élise, Frosine
 
 
@@ -2108,7 +2108,7 @@ Puisque vous n'y allez pas, mon Père, je m'en vais les conduire.
 Non, demeurez. Elles iront bien toutes seules ; et j'ai besoin de vous.
 
 
-### SCÈNE III.
+### Scène III
 Harpagon, Cléante
 
 
@@ -2248,7 +2248,7 @@ Point du tout.
 Donnez-moi un bâton tout à l'heure.
 
 
-### SCÈNE IV.
+### Scène IV
 Maître Jacques, Harpagon, Cléante
 
 
@@ -2361,7 +2361,7 @@ Il tire son mouchoir de sa poche ; ce qui fait croire à maître Jacques qu'il 
 Je vous baise les mains.
 
 
-### SCÈNE V.
+### Scène V
 Cléante, Harpagon
 
 
@@ -2477,7 +2477,7 @@ Et je te donne ma malédiction.
 Je n'ai que faire de vos dons.
 
 
-### SCÈNE VI.
+### Scène VI
 La Flèche, Cléante
 
 
@@ -2515,7 +2515,7 @@ Comment as-tu fait ?
 Vous saurez tout. Sauvons-nous, je l'entends crier.
 
 
-### SCÈNE VII.
+### Scène VII
 
     HARPAGON
 Il crie au Voleur dès le jardin, et vient sans chapeau.
@@ -2528,10 +2528,10 @@ Ah, c'est moi.Mon esprit est troublé, et j'ignore où je suis, qui je suis, et 
 Fin du Quatrième Acte.
 
 
-## ACTE V
+## Acte V
 
 
-### SCÈNE PREMIÈRE.
+### Scène Première
 Harpagon, Le Commissaire, son Clerc
 
 
@@ -2575,7 +2575,7 @@ Tout le Monde ; et je veux que vous arrêtiez prisonniers la Ville et les Faubo
 Il faut, si vous m'en croyez, n'effaroucher personne, et tâcher doucement d'attraper quelques preuves, afin de procéder après par la rigueur, au recouvrement des deniers qui vous ont été pris.
 
 
-### SCÈNE II.
+### Scène II
 Maître Jacques, Harpagon, Le Commissaire, son Clerc
 
 
@@ -2733,7 +2733,7 @@ Il n'y a point de doute.C'est elle assurément. Écrivez, Monsieur, écrivez sa 
 Monsieur, le voici qui revient. Ne lui allez pas dire, au moins, que c'est moi qui vous ai découvert cela.
 
 
-### SCÈNE III.
+### Scène III
 Valère, Harpagon, le Commissaire, son Clerc, Maître Jacques
 
 
@@ -2924,7 +2924,7 @@ Rengrègement de mal ! Surcroît de désespoir ! Allons, Monsieur, faites le dû
 Ce sont des noms qui ne me sont point dus ; et quand on saura qui je suis…
 
 
-### SCÈNE IV.
+### Scène IV
 Élise, Mariane, Frosine, Harpagon, Valère, Maître Jacques, le Commissaire, son Clerc
 
 
@@ -2956,7 +2956,7 @@ Tu me payeras mes coups de bâton.
 Voici un étrange embarras.
 
 
-### SCÈNE V.
+### Scène V
 Anselme, Harpagon, Élise, Mariane, Frosine, Valère, Maître Jacques, le Commissaire, son Clerc
 
 
@@ -3093,7 +3093,7 @@ Pouvez-vous me croire capable d'une action si lâche ?
 Capable, ou non capable, je veux ravoir mon argent.
 
 
-### SCÈNE VI.
+### Scène VI
 Cléante, Valère, Mariane, Élise, Frosine, Harpagon, Anselme, Maître Jacques, La Flèche, le Commissaire, son Clerc
 
 

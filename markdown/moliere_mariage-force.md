@@ -16,7 +16,7 @@ Par J. B. P. DE MOLIÈRE
 
 
 
-# PERSONNAGES
+# Personnages
  – Sganarelle
  – Géronimo
  – Dorimène, jeune Coquette, promise à Sganarelle.

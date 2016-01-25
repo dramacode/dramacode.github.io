@@ -961,9 +961,7 @@ As-tu quelqu'un propre à faire ce message ?
 -*who_toinette
 Il est assez difficile, et je ne trouve personne plus propre à s'en acquitter que le vieux Usurier Polichinelle mon Amant, il m'en coûtera pour cela quelques faveurs, et quelques baisers que je veux bien dépenser pour vous ; Allez, reposez-vous sur moi, dormez seulement en repos, il est tard, je crains qu'on ait affaire de moi ; j'entends qu'on m'appelle, retirez-vous, adieu bonsoir, je vais songer à vous.
 
-**** *book_ *id_Ib *date_1675 *creator_moliere
-
-Premier Intermède
+**** *book_ *id_Ib01 *act_Ib *date_1675 *creator_moliere
 
 -*who_polichinelle
 Ô Amour, amour, amour, amour ! pauvre Polichinelle, quelle Diable de fantaisie t'es-tu allé mettre dans la cervelle ?
@@ -1013,6 +1011,8 @@ Cerco un sì per mio ristoro,
 Ma se voi dite di nò
 Bell' ingrata io morirò.
 
+-*who_vieille
+
 Zerbinetti ch'ogn'or con finti sguardi,
 Mentiti desiri,
 Fallaci sospiri,
@@ -1039,127 +1039,29 @@ Ch' in voi non si trova
 Constanza ne fede;
 Oh quanto è pazza colei che vi crede.
 
--*who_violons
-
-
 -*who_polichinelle
 Quelle impertinente harmonie vient interrompre ici ma voix ?
-
--*who_violons
-
-
--*who_polichinelle
 Paix là, taisez-vous, Violons.
 Laissez-moi me plaindre à mon aise des cruautés de mon Inexorable.
-
--*who_violons
-
-
--*who_polichinelle
 Taisez-vous, vous dis-je.
 C'est moi qui veux chanter.
-
--*who_violons
-
-
--*who_polichinelle
 Paix donc.
-
--*who_violons
-
-
--*who_polichinelle
 Ouais !
-
--*who_violons
-
-
--*who_polichinelle
 Ahy.
-
--*who_violons
-
-
--*who_polichinelle
 Est-ce pour rire ?
-
--*who_violons
-
-
--*who_polichinelle
 Ah que de bruit.
-
--*who_violons
-
-
--*who_polichinelle
 Le Diable vous emporte.
-
--*who_violons
-
-
--*who_polichinelle
 J'enrage.
-
--*who_violons
-
-
--*who_polichinelle
 Vous ne vous tairez pas ?
 Ah Dieu soit loué.
-
--*who_violons
-
-
--*who_polichinelle
 Encore ?
-
--*who_violons
-
-
--*who_polichinelle
 Peste des Violons.
-
--*who_violons
-
-
--*who_polichinelle
 La sotte Musique que voilà !
-
--*who_violons
-
-
--*who_polichinelle
 La, la, la, la, la, la.
-
--*who_violons
-
-
--*who_polichinelle
 La, la, la, la, la, la.
-
--*who_violons
-
-
--*who_polichinelle
 La, la, la, la, la, la.
-
--*who_violons
-
-
--*who_polichinelle
 La, la, la, la, la, la.
-
--*who_violons
-
-
--*who_polichinelle
 La, la, la, la, la, la.
-
--*who_violons
-
-
--*who_polichinelle
 Par ma foi cela me divertit.
 Poursuivez, Messieurs les Violons, vous me ferez plaisir.
 Allons donc, continuez.
@@ -1213,61 +1115,19 @@ Mon nom est, va te faire pendre.
 Ici camarade, ici.
 Saisissons l'insolent qui nous répond ainsi.
 
--*who_violons
-
+**** *book_ *id_Ib02 *act_Ib *date_1675 *creator_moliere
 
 -*who_polichinelle
+Qui va là ?
 Qui sont les coquins que j'entends ?
-
--*who_violons
-
-
--*who_polichinelle
 Euh !
-
--*who_violons
-
-
--*who_polichinelle
 Holà mes laquais, mes gens.
-
--*who_violons
-
-
--*who_polichinelle
 Par la mort.
-
--*who_violons
-
-
--*who_polichinelle
 Par la sang.
-
--*who_violons
-
-
--*who_polichinelle
 J'en jetterai par terre.
-
--*who_violons
-
-
--*who_polichinelle
 Champagne, Poitevin, Picard, Basque, Breton.
-
--*who_violons
-
-
--*who_polichinelle
 Donnez-moi mon Mousqueton.
-
--*who_violons
-
-
--*who_polichinelle
 Poue.
-
--*who_polichinelle
 Ah, ah, ah, ah, comme je leur ai donné l'épouvante.
 Voilà de sottes gens d'avoir peur de moi qui ai peur des autres.
 Ma foi il n'est que de jouer d'adresse en ce monde.
@@ -1276,6 +1136,8 @@ Ah, ah, ah.
 
 -*who_archers
 Nous le tenons, à nous, Camarades, à nous, Dépêchez, de la lumière.
+
+**** *book_ *id_Ib03 *act_Ib *date_1675 *creator_moliere
 
 -*who_archers
 Ah traître, ah fripon, c'est donc vous,

@@ -41,10 +41,10 @@ J. B. P. *molière*.
  – Lysidas, Poète.
 
 
-# LA CRITIQUE DE L'ÉCOLE DES FEMMES, COMÉDIE
+# La Critique de l'École des Femmes, Comédie
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 Uranie, Élise.
 
 
@@ -109,7 +109,7 @@ Laissons cette matière, qui t'échauffe un peu trop, et disons que Dorante vien
 Peut-être l'a-t-il oublié, et que…
 
 
-## SCÈNE II.
+## Scène II
 Galopin, Uranie, Élise.
 
 
@@ -180,7 +180,7 @@ Encore un mot. Je voudrais bien la voir mariée avec le Marquis, dont nous avons
 Veux-tu te taire ; la voici.
 
 
-## SCÈNE III.
+## Scène III
 Climène, Uranie, Élise, Galopin.
 
 
@@ -419,7 +419,7 @@ Ah mon Dieu ! brisons là, de grâce : vous me jetteriez dans une confusion é
 Enfin nous voilà deux contre vous, et l'opiniâtreté sied si mal aux personnes spirituelles…
 
 
-## SCÈNE IV
+## Scène IV
 Le marquis, Climène, Galopin, Uranie, Élise.
 
 
@@ -528,7 +528,7 @@ Il ne s'est jamais fait, je pense, une si méchante comédie.
 Ah ! voici Dorante que nous attendions.
 
 
-## SCÈNE V.
+## Scène V
 Dorante, Le marquis, Climène, Élise, Uranie.
 
 
@@ -644,7 +644,7 @@ Je ne veux pas que ce soit pour l'amour de moi ; mais pour l'amour de la raison
 Ah ! voici l'auteur, Monsieur Lysidas : il vient tout à propos, pour cette matière. Monsieur Lysidas ; prenez un siège vous-même, et vous mettez là.
 
 
-## SCÈNE VI.
+## Scène VI
 Lysidas, Dorante, Le Marquis, Élise, Uranie, Climène.
 
 
@@ -1161,7 +1161,7 @@ Oui ; mais quel dénouement pourrait-il trouver à ceci ? Car il ne saurait y 
 Il faudrait rêver quelque incident pour cela.
 
 
-## SCÈNE VII ET DERNIÈRE.
+## Scène VII et Dernière
 Galopin, Lysidas, Dorante, Le marquis, Climène, Élise, Uranie.
 
 

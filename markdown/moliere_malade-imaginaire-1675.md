@@ -1163,6 +1163,9 @@ Le Théâtre change et représente une Ville.
 
 
 # Premier Intermède
+
+
+## ⁎ ⁎ ⁎
 Polichinelle dans la nuit vient pour donner une Sérénade à sa Maîtresse. Il est interrompu d'abord par des Violons, contre lesquels il se met en colère, et ensuite par le Guet composé de Musiciens et de Danseurs.
 
 
@@ -1206,8 +1209,8 @@ Notte e di v' amo' e v' adoro
 Cerco un sì per mio ristoro,  
 Ma se voi dite di nò  
 Bell' ingrata io morirò.  
-Une vieille se présente à la fenêtre, et répond au Seignor Polichinelle en se moquant de lui.
 
+    UNE VIEILLE* se présente à la fenêtre, et répond au Seignor Polichinelle en se moquant de lui.*
 
 Zerbinetti ch'ogn'or con finti sguardi,  
 Mentiti desiri,  
@@ -1234,131 +1237,73 @@ Che già sò per prova,
 Ch' in voi non si trova  
 Constanza ne fede;  
 Oh quanto è pazza colei che vi crede.  
+Violons
 
-    VIOLONS
-  
 
-    POLICHINELLE
+
 Quelle impertinente harmonie vient interrompre ici ma voix ?
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Paix là, taisez-vous, Violons. Laissez-moi me plaindre à mon aise des cruautés de mon Inexorable.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Taisez-vous, vous dis-je. C'est moi qui veux chanter.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Paix donc.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Ouais !
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Ahy.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Est-ce pour rire ?
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Ah que de bruit.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Le Diable vous emporte.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 J'enrage.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Vous ne vous tairez pas ? Ah Dieu soit loué.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Encore ?
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Peste des Violons.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La sotte Musique que voilà !
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La, la, la, la, la, la.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La, la, la, la, la, la.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La, la, la, la, la, la.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La, la, la, la, la, la.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 La, la, la, la, la, la.
+Violons
 
-    VIOLONS
-  
-
-    POLICHINELLE
 Par ma foi cela me divertit. Poursuivez, Messieurs les Violons, vous me ferez plaisir. Allons donc, continuez. Je vous en prie. Voilà le moyen de les faire taire. La Musique est accoutumée à ne point faire ce qu'on veut. Ho sus à nous. Avant que de chanter il faut que je prélude un peu, et joue quelque pièce, afin de mieux prendre mon ton. Plan, plan, plan. Plin, plin, plin. Voilà un temps fâcheux pour mettre un Luth d'accord. Plin, plin, plin. Plin, tan, plan. Plin, plin. Les cordes ne tiennent point par ce temps-là. Plin, plan. J'entends du bruit. Mettons mon Luth contre la porte.
 
-    ARCHERS, PASSANT DANS LA RUE ACCOURENT AU BRUIT QU’ILS ENTENDENT, ET DEMANDENT :
+    ARCHERS*, passant dans la rue accourent au bruit qu'ils entendent, et demandent :*
 Qui va là, qui va là ?
 
-    POLICHINELLE, TOUT BAS
+    POLICHINELLE*, tout bas*
 Qui diable est-ce là ? est-ce que c'est la mode de parler en Musique ?
 
     ARCHERS
@@ -1387,73 +1332,57 @@ Mon nom est, va te faire pendre.
 
     ARCHERS
 Ici camarade, ici.
-Saisissons l'insolent qui nous répond ainsi.< ENTRÉE DE BALLET. >
+Saisissons l'insolent qui nous répond ainsi.
+
+
+## Entrée de ballet
 Tout le Guet vient qui cherche Polichinelle dans la nuit.
 
 
-    VIOLONS *et* DANSEURS
-  
-
     POLICHINELLE
+Qui va là ?
+Violons *et* danseurs
+
 Qui sont les coquins que j'entends ?
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 Euh !
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 Holà mes laquais, mes gens.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 Par la mort.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 Par la sang.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 J'en jetterai par terre.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE
 Champagne, Poitevin, Picard, Basque, Breton.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
+Polichinelle tire un coup de pistolet.
 
-    POLICHINELLE
 Donnez-moi mon Mousqueton.
+Violons *et* danseurs
 
-    VIOLONS *et* DANSEURS
-  
-
-    POLICHINELLE TIRE UN COUP DE PISTOLET
 Poue.
 Ils tombent tous et s'enfuient.
 
+Polichinelle, en se moquant
 
-    POLICHINELLE, EN SE MOQUANT
 Ah, ah, ah, ah, comme je leur ai donné l'épouvante. Voilà de sottes gens d'avoir peur de moi qui ai peur des autres. Ma foi il n'est que de jouer d'adresse en ce monde. Si je n'avais tranché du grand Seigneur, et n'avais fait le brave, ils n'auraient pas manqué de me happer. Ah, ah, ah.
 Les Archers se rapprochent, et ayant entendu ce qu'il disait, ils le saisissent au collet.
 
 
     ARCHERS
-Nous le tenons, à nous, Camarades, à nous, Dépêchez, de la lumière.< BALLET. >
+Nous le tenons, à nous, Camarades, à nous, Dépêchez, de la lumière.
+
+
+## Ballet
 Tout le Guet vient avec des lanternes.
 
 

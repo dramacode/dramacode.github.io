@@ -16,7 +16,7 @@ PAR J. B. P. DE MOLIÈRE
 
 
 
-# À SON ALTESSE SÉRÉNISSIME MONSEIGNEUR LE PRINCE.
+# À SON ALTESSE SÉRÉNISSIME MONSEIGNEUR LE PRINCE
 
 Monseigneur,
 
@@ -47,7 +47,7 @@ La Scène est à Thèbes, devant la Maison d'Amphitryon.
 
 
 
-# PROLOGUE.
+# Prologue
 Mercure, *sur un nuage,* la Nuit, *dans un char traîné par deux Chevaux*.
 
 
@@ -262,10 +262,10 @@ Mercure descend de son Nuage en terre, et la Nuit passe dans son Char.
 
 
 
-# ACTE I
+# Acte I
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 
     SOSIE
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.  
@@ -382,7 +382,7 @@ On fait un peu de bruit.
 
 
 
-## SCÈNE II.
+## Scène II
 Mercure, Sosie.
 
 
@@ -922,7 +922,7 @@ Mais je vois Jupiter, que fort civilement
 Reconduit l'amoureuse Alcmène.  
 
 
-## SCÈNE III.
+## Scène III
 Jupiter, Alcmène, Cléanthis, Mercure.
 
 
@@ -1047,7 +1047,7 @@ Et pour effacer les Étoiles,
 Le Soleil, de son Lit, peut maintenant sortir.  
 
 
-## SCÈNE IV.
+## Scène IV
 Cléanthis, Mercure. *Mercure veut s'en aller.*
 
 
@@ -1151,10 +1151,10 @@ Ah ! que dans cette occasion,
 J'enrage d'être honnête Femme !  < Fin du Premier Acte >
 
 
-# ACTE II
+# Acte II
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 Amphitryon, Sosie.
 
 
@@ -1444,7 +1444,7 @@ En ce moment, sans doute, elle ne m'attend pas,
 Et mon abord la va surprendre.  
 
 
-## SCÈNE II.
+## Scène II
 Alcmène, Cléanthis, Amphitryon, Sosie.
 
 
@@ -1850,7 +1850,7 @@ Je ne puis rien entendre :
 Laisse-moi seule, et ne suis point mes pas.  
 
 
-## SCÈNE III.
+## Scène III
 Cléanthis, Sosie.
 
 
@@ -2096,7 +2096,7 @@ Fais à ce discours quelque pause :
 Amphitryon revient, qui me paraît content.  
 
 
-## SCÈNE IV.
+## Scène IV
 Jupiter, Cléanthis, Sosie.
 
 
@@ -2121,7 +2121,7 @@ Son chagrin, à ce que je vois,
 A fait une prompte retraite.  
 
 
-## SCÈNE V.
+## Scène V
 Cléanthis, Sosie.
 
 
@@ -2147,7 +2147,7 @@ Vraiment…
 Les voici. Taisons-nous.  
 
 
-## SCÈNE VI.
+## Scène VI
 Jupiter, Alcmène, Cléanthis, Sosie.
 
 
@@ -2453,7 +2453,7 @@ Tandis que d'ici je le chasse,
 Mercure y remplira sa place.  
 
 
-## SCÈNE VII.
+## Scène VII
 Cléanthis, Sosie.
 
 
@@ -2488,10 +2488,10 @@ Va, va, Traître, laisse-moi faire ;
 On se lasse, parfois, d'être Femme de bien.  < Fin du Second Acte. >
 
 
-# ACTE III
+# Acte III
 
 
-## SCÈNE PREMIÈRE.
+## Scène Première
 
     AMPHITRYON
 Oui, sans doute, le Sort tout exprès me le cache ;  
@@ -2547,7 +2547,7 @@ Que ce penser soit véritable ;
 Et que, pour mon bonheur, elle ait perdu l'Esprit !  
 
 
-## SCÈNE II.
+## Scène II
 Mercure, Amphitryon.
 
 
@@ -2711,7 +2711,7 @@ Si tu ne veux qu'il ne punisse
 L'excès de tes témérités.  
 
 
-## SCÈNE III.
+## Scène III
 
     AMPHITRYON
 Ah ! quel étrange coup m'a-t-il porté dans l'Âme ?  
@@ -2728,7 +2728,7 @@ Et toute mon inquiétude
 Ne doit aller qu'à me venger.  
 
 
-## SCÈNE IV.
+## Scène IV
 Sosie, Naucratès, Polidas, Amphitryon.
 
 
@@ -2850,7 +2850,7 @@ Hélas ! je brûle de l'apprendre ;
 Et je le crains plus que la Mort !  
 
 
-## SCÈNE V.
+## Scène V
 Jupiter, Amphitryon, Naucratès, Polidas, Sosie.
 
 
@@ -3057,7 +3057,7 @@ Je brûle d'en venir aux prises ;
 Et jamais je n'eus tant de faim.  
 
 
-## SCÈNE VI.
+## Scène VI
 Mercure, Sosie.
 
 
@@ -3183,7 +3183,7 @@ Au malheureux Amphitryon.
 Je l'aperçois venir en bonne compagnie.  
 
 
-## SCÈNE VII.
+## Scène VII
 Amphitryon, Argatiphontidas, Posiclès, Sosie.
 
 
@@ -3267,7 +3267,7 @@ Suis-moi.
 N'est-il pas mieux, de voir s'il vient Personne.  
 
 
-## SCÈNE VIII.
+## Scène VIII
 Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 
@@ -3288,7 +3288,7 @@ Et qui, si l'on peut croire à ce qu'il vient de dire,
 Sauront vous affranchir de trouble, et de souci.  
 
 
-## SCÈNE IX.
+## Scène IX
 Mercure, Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 
@@ -3323,7 +3323,7 @@ Et je ne vis de ma vie,
 Un Dieu plus Diable, que toi.  
 
 
-## SCÈNE X.
+## Scène X
 Jupiter, Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 

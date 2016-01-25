@@ -18,7 +18,9 @@ title: Mélicerte
  – Mélicerte, nymphe ou bergère, amante de Myrtil.
  – Corinne, confidente de Mélicerte.
  – Nicandre, berger.
- – Mopse, berger, cru oncle de Mélicerte.La scène est en Thessalie, dans la vallée de Tempé.
+ – Mopse, berger, cru oncle de Mélicerte.
+La scène est en Thessalie, dans la vallée de Tempé.
+
 
 
 # Acte Premier

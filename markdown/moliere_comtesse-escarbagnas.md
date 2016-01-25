@@ -6,9 +6,9 @@ title: La Comtesse d'Escarbagnas
 ---
 
 
-LA COMTESSE D'ESCARBAGNAS
+La Comtesse d'Escarbagnas
 
-COMÉDIE
+Comédie
 
 M. DC. LXXI.
 

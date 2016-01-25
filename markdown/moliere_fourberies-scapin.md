@@ -31,13 +31,15 @@ AVEC PRIVILÈGE DU ROI.
  – Silvestre, Valet de Léandre.
  – Nérine, Nourrice de Hyacinte.
  – Carle, Fourbe.
- – Deux porteurs.La Scène est à Naples.
+ – Deux porteurs.
+La Scène est à Naples.
 
 
-# ACTE PREMIERE
+
+# Acte Premier
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Octave, Silvestre
 
 
@@ -129,7 +131,7 @@ Vous me faites bien plus mourir, par vos actions étourdies.
 Que dois-je faire ?Quelle résolution prendre ?À quel remède recourir ?
 
 
-## SCÈNE II
+## Scène II
 Scapin, Octave, Silvestre
 
 
@@ -275,7 +277,7 @@ J'avoue que le Ciel ne m'a pas donné tes talents, et que je n'ai pas l'esprit c
 Voici mon aimable Hyacinte.
 
 
-## SCÈNE III
+## Scène III
 Hyacinte, Octave, Scapin, Silvestre
 
 
@@ -400,7 +402,7 @@ Que lui dirai-je ?
 Laisse-moi dire, moi, et ne fais que me suivre.
 
 
-## SCÈNE IV
+## Scène IV
 Argante, Scapin, Silvestre
 
 
@@ -726,7 +728,7 @@ Monsieur, si je vous puis être utile en quelque chose, vous n'avez qu'à me com
 Je vous remercie.Ah pourquoi faut-il qu'il soit Fils unique !Et que n'ai-je à cette heure la Fille que le Ciel m'a ôtée, pour la faire mon Héritière !
 
 
-## SCÈNE V
+## Scène V
 Scapin, Silvestre
 
 
@@ -745,10 +747,10 @@ Va, va ; nous partagerons les périls en Frères ; et trois ans de Galère de 
 <Fin du Premier Acte.>
 
 
-# ACTE II
+# Acte II
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Géronte, Argante
 
 
@@ -819,7 +821,7 @@ Et quoi encore ?
 Votre Scapin, dans mon dépit, ne m'a dit la chose qu'en gros ; et vous pourrez de lui, ou de quelque autre, être instruit du détail.Pour moi, je vais vite consulter un Avocat, et aviser des biais que j'ai à prendre.Jusqu'au revoir.
 
 
-## SCÈNE II
+## Scène II
 Léandre, Géronte
 
 
@@ -905,7 +907,7 @@ Il vous a dit quelque chose de moi ?
 Ce lieu n'est pas tout à fait propre à vider cette affaire, et nous allons l'examiner ailleurs.Qu'on se rende au Logis. j'y vais revenir tout à l'heure.Ah !Traître, s'il faut que tu me déshonores, je te renonce pour mon Fils, et tu peux bien pour jamais te résoudre à fuir de ma présence.
 
 
-## SCÈNE III
+## Scène III
 Octave, Scapin, Léandre
 
 
@@ -1087,7 +1089,7 @@ C'est de sa bouche que je le tiens pourtant.
 Avec votre permission, il n'a pas dit la vérité.
 
 
-## SCÈNE IV
+## Scène IV
 Carle, Scapin, Léandre, Octave
 
 
@@ -1212,7 +1214,7 @@ Tout beau, Scapin.
 Bon, bon ; on fait bien scrupule de cela, vous moquez-vous ?Mais j'aperçois venir le Père d'Octave.Commençons par lui, puisqu'il se présente.Allez-vous-en tous deux.Et vous, avertissez votre Silvestre de venir vite jouer son rôle.
 
 
-## SCÈNE V
+## Scène V
 Argante, Scapin
 
 
@@ -1400,7 +1402,7 @@ Je ne donnerai point deux cents Pistoles.
 Voici l'Homme dont il s'agit.
 
 
-## SCÈNE VI
+## Scène VI
 Silvestre, Argante, Scapin
 
 
@@ -1530,7 +1532,7 @@ Je vais t'attendre chez moi.
 Je ne manquerai pas d'y aller.Et un.Je n'ai qu'à chercher l'autre.Ah, ma foi, le voici.Il semble que le Ciel, l'un après l'autre, les amène dans mes filets.
 
 
-## SCÈNE VII
+## Scène VII
 Géronte, Scapin
 
 
@@ -1817,7 +1819,7 @@ Que diable allait-il faire dans cette Galère ?Ah maudite Galère !Traître d
 Il ne peut digérer les cinq cents Écus que je lui arrache ; mais il n'est pas quitte envers moi, et je veux qu'il me paye en une autre monnaie, l'imposture qu'il m'a faite auprès de son Fils.
 
 
-## SCÈNE VIII
+## Scène VIII
 Octave, Léandre, Scapin
 
 
@@ -1872,10 +1874,10 @@ Allons en promptement acheter celle que j'adore.
 <Fin du Second Acte.>
 
 
-# ACTE III
+# Acte III
 
 
-## SCÈNE PREMIÈRE
+## Scène Première
 Zerbinette, Hyacinte, Scapin, Silvestre
 
 
@@ -1970,7 +1972,7 @@ Nous aurons besoin de tes soins.
 Allez, je vous irai bientôt rejoindre.Il ne sera pas dit qu'impunément on m'ait mis en état de me trahir moi-même, et de découvrir des secrets qu'il était bon qu'on ne sût pas.
 
 
-## SCÈNE II
+## Scène II
 Géronte, Scapin
 
 
@@ -2128,7 +2130,7 @@ Comme il est prêt de frapper, Géronte sort du sac, et Scapin s'enfuit
 Ah infâme ! ah traître ! ah scélérat !C'est ainsi que tu m'assassines.
 
 
-## SCÈNE III
+## Scène III
 Zerbinette, Géronte
 
 
@@ -2193,7 +2195,7 @@ Voici le stratagème dont il s'est servi pour attraper sa dupe.Ah, ah, ah, ah.Je
 Je dis que le jeune Homme est un pendard, un insolent, qui sera puni par son Père, du tour qu'il lui a fait ; que l'Égyptienne est une malavisée, une impertinente, de dire des injures à un Fomme d'honneur, qui saura lui apprendre à venir ici débaucher les enfants de Famille ; Et que le Valet est un scélérat, qui sera par Géronte envoyé au gibet avant qu'il soit demain.
 
 
-## SCÈNE IV
+## Scène IV
 Silvestre, Zerbinette
 
 
@@ -2216,7 +2218,7 @@ Vous aviez grande envie de babiller ; et c'est avoir bien de la langue, que de 
 N'aurait-il pas appris cela de quelque autre ?
 
 
-## SCÈNE V
+## Scène V
 Argante, Silvestre
 
 
@@ -2236,7 +2238,7 @@ Ma foi, Monsieur, si Scapin vous fourbe, je m'en lave les mains, et vous assure 
 Nous verrons cette affaire, Pendard, nous verrons cette affaire, et je ne prétends pas qu'on me fasse passer la plume par le bec.
 
 
-## SCÈNE VI
+## Scène VI
 Géronte, Argante, Silvestre
 
 
@@ -2274,7 +2276,7 @@ Mais pourquoi, s'il vous plaît, la tenir à Tarente, et ne vous être pas donn�
 J'ai eu mes raisons pour cela, et des intérêts de Famille m'ont obligé jusques ici à tenir fort secret ce second Mariage.Mais que vois-je ?
 
 
-## SCÈNE VII
+## Scène VII
 Nérine, Argante, Géronte, Silvestre
 
 
@@ -2327,7 +2329,7 @@ Passe devant.Suivez-moi, suivez-moi, Seigneur Argante.
 Voilà une aventure qui est tout à fait surprenante !
 
 
-## SCÈNE VIII
+## Scène VIII
 Scapin, Silvestre
 
 
@@ -2350,7 +2352,7 @@ Laisse-moi faire, je trouverai moyen d'apaiser leur courroux, et…
 Retire-toi, les voilà qui sortent.
 
 
-## SCÈNE IX
+## Scène IX
 Géronte, Argante, Silvestre, Nérine, Hyacinte
 
 
@@ -2361,7 +2363,7 @@ Allons, ma Fille, venez chez moi.Ma joie aurait été parfaite, si j'y avais pu 
 Voici Octave tout à propos.
 
 
-## SCÈNE X
+## Scène X
 Octave, Argante, Géronte, Hyacinte, Nérine, Zerbinette, Silvestre
 
 
@@ -2432,7 +2434,7 @@ Mon Père, la passion que mon Frère a pour elle, n'a rien de criminel, et je r�
 Voilà qui est fort bien.Ne voudrait-on point que je mariasse mon Fils avec elle ?Une Fille inconnue, qui fait le métier de Coureuse.
 
 
-## SCÈNE XI
+## Scène XI
 Léandre, Octave, Hyacinte, Zerbinette, Argante, Géronte, Silvestre, Nérine
 
 
@@ -2452,7 +2454,7 @@ Oui, ce l'est, et j'y vois tous les traits qui m'en peuvent rendre assuré.
 Ô Ciel ! que d'aventures extraordinaires !
 
 
-## SCÈNE XII
+## Scène XII
 Carle, Léandre, Octave, Géronte, Argante, Hyacinte, Zerbinette, Silvestre, Nérine
 
 
@@ -2478,7 +2480,7 @@ Où est-il ?
 Le voilà.
 
 
-## SCÈNE DERNIÈRE
+## Scène Dernière
 Scapin, Carle, Géronte, Argante, etc.
 
 

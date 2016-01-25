@@ -31,7 +31,7 @@ Représentée pour le première fois à Paris le 1 octobre 1660 au Théâtre du 
 # 
 
 
-## SCÈNE I
+## Scène I
 Valère, Sabine.
 
 
@@ -51,7 +51,7 @@ Je songe une chose : si vous faisiez habiller votre valet en médecin ?Il n'y 
 C'est un lourdaud qui gâtera tout ; mais il faut s'en servir faute d'autre.Adieu, je le vais chercher.Où diable trouver ce maroufle à présent ?Mais le voici tout à propos.
 
 
-## SCÈNE II
+## Scène II
 Valère, Sganarelle.
 
 
@@ -86,7 +86,7 @@ Il n'y a rien de si facile en cette rencontre : Gorgibus est un homme simple, g
 C'est-à-dire qu'il lui faudra parler philosophie, mathématique.Laissez-moi faire ; s'il est un homme facile, comme vous le dites, je vous réponds de tout ; venez seulement me faire avoir un habit de médecin, et m'instruire de ce qu'il faut faire, et me donner mes licences, qui sont les dix pistoles promises.
 
 
-## SCÈNE III
+## Scène III
 Gorgibus, Gros-René.
 
 
@@ -105,7 +105,7 @@ Va-t'en vite : je vois bien que cette maladie-là reculera bien les noces.
 Et c'est ce qui me fait enrager : je croyais refaire mon ventre d'une bonne carrelure, et m'en voilà sevré.Je m'en vais chercher un médecin pour moi aussi bien que pour votre fille ; je suis désespéré.
 
 
-## SCÈNE IV
+## Scène IV
 Sabine, Gorgibus, Sganarelle.
 
 
@@ -164,7 +164,7 @@ Quoi ?Monsieur Gorgibus, votre fille ne pisse que des gouttes !Voilà une pauv
 Elle est levée ; si vous voulez, je la ferai venir.
 
 
-## SCÈNE V
+## Scène V
 Lucile, Sabine, Gorgibus, Sganarelle.
 
 
@@ -202,13 +202,13 @@ Nous avons un fort beau jardin, et quelques chambres qui y répondent ; si vous
 Allons, allons visiter les lieux.
 
 
-## SCÈNE VI
+## Scène VI
 
     L’AVOCAT
 J'ai ouï dire que la fille de M. Gorgibus était malade : il faut que je m'informe de sa santé, et que je lui offre mes services comme ami de toute sa famille.Holà !Holà !M. Gorgibus y est-il ?
 
 
-## SCÈNE VII
+## Scène VII
 Gorgibus, L'Avocat.
 
 
@@ -225,7 +225,7 @@ J'étais là dedans avec le plus savant homme.
 N'y aurait-il pas moyen de l'entretenir un moment ?
 
 
-## SCÈNE VIII
+## Scène VIII
 Gorgibus, L'Avocat, Sganarelle.
 
 
@@ -267,7 +267,7 @@ Sganarelle sort et Gorgibus rentre dans sa maison.
 
 
 
-## SCÈNE IX
+## Scène IX
 
     VALÈRE
 Je ne sais ce qu'aura fait Sganarelle : je n'ai point eu de ses nouvelles, et je suis fort en peine où je le pourrois rencontrer.
@@ -276,7 +276,7 @@ Sganarelle revient en habit de valet.
 Mais bon, le voici.Hé bien !Sganarelle, qu'as-tu fait depuis que je ne t'ai point vu ?
 
 
-## SCÈNE X
+## Scène X
 Sganarelle, Valère.
 
 
@@ -293,7 +293,7 @@ Apercevant Gorgibus.
 Ah ! ma foi, tout est perdu : c'est à ce coup que voilà la médecine renversée, mais il faut que je le trompe.
 
 
-## SCÈNE XI
+## Scène XI
 Sganarelle, Gorgibus.
 
 
@@ -324,7 +324,7 @@ Sganarelle sort et rentre aussitôt avec sa robe de médecin.
 
 
 
-## SCÈNE XII
+## Scène XII
 Sganarelle, Gorgibus.
 
 
@@ -365,7 +365,7 @@ Vous m'en priez avec tant d'insistance que, quoique j'eusse fait serment de ne l
 Monsieur, votre très humble serviteur ; je m'en vais chercher ce pauvre garçon pour lui apprendre cette bonne nouvelle.
 
 
-## SCÈNE XIII
+## Scène XIII
 Valère, Sganarelle.
 
 
@@ -379,7 +379,7 @@ Ah !Mon pauvre garçon, que je t'ai d'obligation !Que j'ai de joie !Et que...
 Ma foi, vous parlez fort à votre aise.Gorgibus m'a rencontré ; et sans une invention que j'ai trouvée, toute la mèche était découverte.Mais fuyez-vous-en, le voici.
 
 
-## SCÈNE XIV
+## Scène XIV
 Gorgibus, Sganarelle.
 
 
@@ -400,7 +400,7 @@ Il saute de la fenêtre et s'en va.
 
 
 
-## SCÈNE XV
+## Scène XV
 Gros-René, Gorgibus, Sganarelle.
 
 
@@ -520,7 +520,9 @@ Ah !Que je suis malheureux !Mais tu seras pendu, fourbe, coquin.
 Monsieur, qu'allez-vous faire de me pendre ?Écoutez un mot, s'il vous plaît : il est vrai que c'est par mon invention que mon maître est avec votre fille ; mais en le servant, je ne vous ai point désobligé : c'est un parti sortable pour elle, tant pour la naissance que pour les biens.Croyez-moi, ne faites point un vacarme qui tournerait à votre confusion, et envoyez à tous les diables ce coquin-là, avec Villebrequin.Mais voici nos amants.
 
 
-## SCÈNE DERNIÈRE. Valère, Lucile, Gorgibus, Sganarelle.
+## Scène Dernière
+Valère, Lucile, Gorgibus, Sganarelle
+
 
     SGANARELLE
 Nous nous jetons à vos pieds.

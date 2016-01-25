@@ -93,9 +93,9 @@ La Naïade emmène avec elle, pour la Comédie, une partie des gens qu'elle a fa
 
 
 
-# PERSONNAGES
+# Personnages
  – Éraste.
- – La montagne.
+ – La Montagne.
  – Alcidor.
  – Orphise.
  – Lisandre.
@@ -109,7 +109,7 @@ La Naïade emmène avec elle, pour la Comédie, une partie des gens qu'elle a fa
  – Filinte.
  – Damis.
  – L'épine.
- – La rivière, et deux Camarades.
+ – La Rivière, et deux Camarades.
 La Scène est à Paris.
 
 

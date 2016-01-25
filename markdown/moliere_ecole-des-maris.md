@@ -32,15 +32,15 @@ De Votre Altesse Royale, *Le très humble, très obéissant, et très fidèle se
 
 
 # Les Personnages
- – SGANARELLE }
- – ARISTE } Frères.
- – ISABELLE }
- – LÉONOR } Sœurs.
- – LISETTE, suivante de Léonor.
- – VALÈRE, Amant d'Isabelle.
- – ERGASTE, Valet de Valère.
- – LE COMMISSAIRE.
- – LE NOTAIRE.
+ – Sganarelle, frère d'Ariste.
+ – Ariste, frère de Sganarelle.
+ – Isabelle, sœur de Léonor.
+ – Léonor, sœur d'Isabelle.
+ – Lisette, suivante de Léonor.
+ – Valère, Amant d'Isabelle.
+ – Ergaste, Valet de Valère.
+ – Le commissaire.
+ – Le notaire.
 La Scène est à Paris.
 
 
@@ -48,10 +48,10 @@ La Scène est à Paris.
 # L'ÉCOLE DES MARIS, COMÉDIE
 
 
-## ACTE PREMIER
+## Acte premier
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Sganarelle, Ariste.
 
 
@@ -154,7 +154,7 @@ Ainsi qu'en ont usé sagement nos aïeux,
 Et qui me trouve mal, n'a qu'à fermer les yeux.  
 
 
-### SCÈNE II
+### Scène II
 Léonor, Isabelle, Lisette, Ariste, Sganarelle.
 
 
@@ -502,7 +502,7 @@ Et pour l'en empêcher dans peu nous prétendons,
 Lui faire aller revoir nos choux et nos dindons.  
 
 
-### SCÈNE III
+### Scène III
 Ergaste, Valère, Sgnanarelle.
 
 
@@ -631,7 +631,7 @@ J'irais parfois chez vous passer l'après-soupée.
 Serviteur.  
 
 
-### SCÈNE IV
+### Scène IV
 Valère, Ergaste.
 
 
@@ -718,10 +718,10 @@ C'est ce qu'il faut trouver,
 Entrons un peu chez vous afin d'y mieux rêver.  < Fin du premier Acte. >
 
 
-## ACTE II
+## Acte II
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 Isabelle, Sganarelle.
 
 
@@ -749,7 +749,7 @@ Mais l'injuste rigueur, dont envers moi l'on use,
 Dans tout esprit bien fait, me servira d'excuse.  
 
 
-### SCÈNE II
+### Scène II
 Sganarelle, Ergaste, Valère.
 
 
@@ -954,7 +954,7 @@ La vertu fait ses soins, et son cœur s'y consomme,
 Jusques à s'offenser des seuls regards d'un homme.  
 
 
-### SCÈNE III
+### Scène III
 Isabelle, Sganarelle.
 
 
@@ -1054,7 +1054,7 @@ Et je vais m'acquitter du soin que tu me donnes,
 Et revenir ici te remettre en repos.  
 
 
-### SCÈNE IV
+### Scène IV
 Sganarelle, Ergaste.
 
 
@@ -1083,7 +1083,7 @@ Il connaîtra l'état que l'on fait de ses feux,
 Et quel heureux succès il doit espérer d'eux.  
 
 
-### SCÈNE V
+### Scène V
 Valère, Ergaste.
 
 
@@ -1115,7 +1115,7 @@ Et joint aux sentiments que sa beauté m'inspire…
 La dupe vient, songez à ce qu'il vous faut dire.  
 
 
-### SCÈNE VI
+### Scène VI
 Sganarelle, Valère, Ergaste.
 
 
@@ -1222,7 +1222,7 @@ Mais c'est un mal pour lui de s'être mis en tête
 De vouloir prendre un fort qui se voit ma conquête.  
 
 
-### SCÈNE VII
+### Scène VII
 Sganarelle, Isabelle.
 
 
@@ -1371,7 +1371,7 @@ Montrer au bout du doigt leurs honnêtes maris,
 Holà notre galant aux belles entreprises.  
 
 
-### SCÈNE VIII
+### Scène VIII
 Valère, Sganarelle, Ergaste.
 
 
@@ -1423,7 +1423,7 @@ Suivez-moi, vous verrez s'il est rien que j'avance,
 Et si son jeune cœur entre nous deux balance.  
 
 
-### SCÈNE IX
+### Scène IX
 Isabelle, Sganarelle, Valère.
 
 
@@ -1571,7 +1571,7 @@ Pauvre garçon, sa douleur est extrême ;
 Tenez embrassez-moi, c'est un autre elle-même.  
 
 
-### SCÈNE X
+### Scène X
 Isabelle, Sganarelle.
 
 
@@ -1605,10 +1605,10 @@ Pour ce mariage allons tout préparer.
 Ô ciel, inspire-moi ce qui peut le parer !  < Fin du second Acte. >
 
 
-## ACTE III
+## Acte III
 
 
-### SCÈNE PREMIÈRE
+### Scène Première
 
     ISABELLE
 Oui le trépas cent fois, me semble moins à craindre,  
@@ -1619,7 +1619,7 @@ Le temps presse, il fait nuit, allons sans crainte aucune,
 À la foi d'un amant, commettre ma fortune.  
 
 
-### SCÈNE II
+### Scène II
 Sganarelle, Isabelle.
 
 
@@ -1784,7 +1784,7 @@ Dans mon trouble du moins, la nuit me favorise :
 Au logis du galant, quelle est son entreprise.  
 
 
-### SCÈNE III
+### Scène III
 Valère, Sganarelle, Isabelle.
 
 
@@ -1830,7 +1830,7 @@ Veut que du moins on tâche à lui rendre l'honneur ;
 Holà.  
 
 
-### SCÈNE IV
+### Scène IV
 Sganarelle, Le Commissaire, Notaire, *et Suite*.
 
 
@@ -1889,7 +1889,7 @@ Je vais le réjouir cet homme sans colère,
 Holà.  
 
 
-### SCÈNE V
+### Scène V
 Ariste, Sganarelle.
 
 
@@ -2013,7 +2013,7 @@ Que de discours,
 Allons : ce procès-là continuerait toujours.  
 
 
-### SCÈNE VI
+### Scène VI
 Le Commissaire, Le Notaire, Sganarelle, Ariste.
 
 
@@ -2033,7 +2033,7 @@ Est renfermée et ne veut point sortir,
 Que vos désirs aux leurs ne veuillent consentir.  
 
 
-### SCÈNE VII
+### Scène VII
 Le Commissaire, Valère, Le Notaire, Sganarelle, Ariste.
 
 
@@ -2132,7 +2132,7 @@ Or ça, je vais vous dire
 La fin de cette intrigue.  
 
 
-### SCÈNE VIII
+### Scène VIII
 Léonor, Lisette, Sganarelle, Ariste.
 
 
@@ -2193,7 +2193,7 @@ Qui vous a fait de moi de si belles peintures,
 Et prend soin de forger de telles impostures.  
 
 
-### SCÈNE IX
+### Scène IX
 Isabelle, Valère, Le Commissaire, Le Notaire, Ergaste, Lisette, Léonor, Sganarelle, Ariste.
 
 

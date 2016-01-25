@@ -16,7 +16,9 @@ title: Dom Garcie de Navarre. Comédie
  – Ignès, comtesse, amante de Dom Sylve, aimée de Mauregat, usurpateur de l'Etat de Léon.
  – Dom Alvar, confident de Dom Garcie, amante d'Elise.
  – Dom Lope, autre confident de Dom Garcie, amant rebuté d'Elise.
- – Dom Pedre, écuyer d'Ignès.La scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.
+ – Dom Pedre, écuyer d'Ignès.
+La scène est dans Astorgue, ville d'Espagne, dans le royaume de Léon.
+
 
 
 # Acte Premier

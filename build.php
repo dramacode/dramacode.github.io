@@ -280,7 +280,8 @@ CREATE INDEX play_year_author ON play(year, author, title);
       else echo '      <td>'.$play['publisher']."</td>\n";
       echo '      <td>'.$play['author']."</td>\n";
       echo '      <td>'.$play['year']."</td>\n";
-      echo '      <td>'.$play['title']."</td>\n";
+      if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['title']."</a></td>\n";
+      else echo '      <td>'.$play['title']."</td>\n";
       echo '      <td>';
       if ($play['genrecode'] == 'tragedy') echo 'Tragédie';
       else if ($play['genrecode'] == 'comedy') echo 'Comédie';
@@ -290,7 +291,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
       echo "      <td>".(($play['verse'])?"vers":"prose")."</td>\n";
       // downloads
       echo '      <td>';
-      echo '<a href="'.$play['identifier'].'">TEI</a>';
+      if ($play['source']) echo '<a href="'.$play['source'].'">TEI</a>';
       $sep = ", ";
       foreach ( self::$formats as $label=>$extension) {
         if ($label == 'article') continue;
@@ -402,10 +403,10 @@ CREATE INDEX play_year_author ON play(year, author, title);
     $timeStart = microtime(true);
     $usage = "\n usage    : php -f ".basename(__FILE__)." base.sqlite set\n";
     array_shift($_SERVER['argv']); // shift first arg, the script filepath
-    
+    $sqlite = 'dramacode.sqlite';
     // pas d’argument, on démarre sur les valeurs par défaut
     if (!count($_SERVER['argv'])) {
-      $base = new Dramacode('dramacode.sqlite', STDERR);
+      $base = new Dramacode($sqlite, STDERR);
       foreach(self::$sets as $setcode=>$setrow) {
         $glob = $setrow['glob'];
         foreach(glob($glob) as $file) {
@@ -419,7 +420,6 @@ CREATE INDEX play_year_author ON play(year, author, title);
       exit();
     }
     // des arguments, on joue plus fin
-    $sqlite = array_shift($_SERVER['argv']);
     $base = new Dramacode($sqlite,  STDERR);
     if (!count($_SERVER['argv'])) exit("\n    Quel set insérer ?\n");
     $setcode = array_shift($_SERVER['argv']);

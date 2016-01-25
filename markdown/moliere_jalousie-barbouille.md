@@ -21,7 +21,7 @@ D'après un manuscrit du XVIIIe siècle
  – Valère, Amant d'Angélique.
  – Cathau, Suivante d'Angélique.
  – Gorgibus, Père d'Angélique.
- – Villebrequin.La localisation de la scène n'est pas indiquée.
+ – Villebrequin.
 
 
 # La Jalousie du Barbouillé
