@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_sicilien *id_I *act_ *date_1668 *creator_moliere
+**** *book_ *id_I *act_ *date_1668 *creator_moliere
 
 -*who_hali
 Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle.
@@ -9,7 +9,7 @@ Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'êtr
 Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos.
 Mais voici des Flambeaux, et, sans doute, c'est lui.
 
-**** *book_moliere_sicilien *id_I02 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I02 *act_ *date_1668 *creator_moliere
 
 -*who_adraste
 Est-ce toi, Hali ?
@@ -86,9 +86,9 @@ Voici, tout juste, un Lieu propre à servir de Scène ; et voilà deux Flambeau
 -*who_adraste
 Place-toi contre ce Logis, afin qu'au moindre bruit que l'on fera dedans, je fasse cacher les lumières.
 
-**** *book_moliere_sicilien *id_I03 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I03 *act_ *date_1668 *creator_moliere
 
--*who_musicien1
+-*who_musiciens
 
 Si du triste récit de mon inquiétude,
 Je trouble le repos de votre Solitude,
@@ -97,7 +97,7 @@ Quand vous saurez l'excès de mes peines secrètes,
 Tout rochers que vous êtes,
 Vous en serez touchés.
 
--*who_musicien2
+-*who_musiciens
 
 Les Oiseaux réjouis, dès que le jour s'avance,
 Recommencent leurs chants dans ces vastes Forêts ;
@@ -105,28 +105,28 @@ Et moi j'y recommence
 Mes soupirs languissants, et mes tristes regrets.
 Ah ! mon cher Philène.
 
--*who_musicien1
+-*who_musiciens
 Ah ! mon cher Tirsis.
 
--*who_musicien2
+-*who_musiciens
 Que je sens de peine !
 
--*who_musicien1
+-*who_musiciens
 Que j'ai de soucis !
 
--*who_musicien2
+-*who_musiciens
 Toujours sourde à mes vœux est l'ingrate Climène.
 
--*who_musicien1
+-*who_musiciens
 Cloris n'a point, pour moi, de regards adoucis.
 
--*who_musicien1_musicien2
+-*who_musiciens
 
 Ô Loi trop inhumaine !
 Amour, si tu ne peux les contraindre d'aimer,
 Pourquoi leur laisses-tu le pouvoir de charmer ?
 
--*who_musicien3
+-*who_musiciens
 
 Pauvres amants, quelle erreur
 D'adorer des inhumaines ?
@@ -142,7 +142,7 @@ Je mets mon plus doux souci ;
 Mais, lorsque l'on est Tigresse,
 Ma foi, je suis Tigre aussi.
 
--*who_musicien1_musicien2
+-*who_musiciens
 Heureux, hélas ! qui peut aimer ainsi.
 
 -*who_hali
@@ -151,7 +151,7 @@ Monsieur, je viens d'ouïr quelque bruit au-dedans.
 -*who_adraste
 Qu'on se retire vite, et qu'on éteigne les Flambeaux.
 
-**** *book_moliere_sicilien *id_I04 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I04 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien.
@@ -197,7 +197,7 @@ Ami.
 -*who_dom_pedre
 Holà, Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélemy ; allons, promptement, mon Épée, ma Rondache, ma Hallebarde, mes Pistolets, mes Mousquetons, mes Fusils ; vite, dépêchez ; allons, tue, point de quartier.
 
-**** *book_moliere_sicilien *id_I05 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I05 *act_ *date_1668 *creator_moliere
 
 -*who_adraste
 Je n'entends remuer Personne.
@@ -233,7 +233,7 @@ Après on peut trouver facilement, les moyens...
 Laissez-moi faire seulement ; j'en essayerai tant de toutes les manières, que quelque chose, enfin, nous pourra réussir.
 Allons, le jour paraît ; je vais chercher mes Gens, et venir attendre, en ce Lieu, que notre Jaloux sorte.
 
-**** *book_moliere_sicilien *id_I06 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I06 *act_ *date_1668 *creator_moliere
 
 -*who_isidore
 Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
@@ -337,7 +337,7 @@ Si c'est votre façon d'aimer, je vous prie de me haïr.
 -*who_dom_pedre
 Vous êtes, aujourd'hui, dans une humeur désobligeante ; et je pardonne ces paroles au chagrin où vous pouvez être, de vous être levée matin.
 
-**** *book_moliere_sicilien *id_I07 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I07 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Trêve aux cérémonies, que voulez-vous ?
@@ -368,7 +368,7 @@ Voici une Chanson nouvelle, qui est du temps.
 Écoutez bien.
 Chala bala.
 
-**** *book_moliere_sicilien *id_I08 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I08 *act_ *date_1668 *creator_moliere
 
 -*who_hali
 
@@ -456,7 +456,7 @@ Laisse-moi faire, je t'attraperai sans courir.
 -*who_hali
 C'est nous qui vous attraperons ; elle sera notre Femme, la chose est résolue ; il faut que j'y périsse, ou que j'en vienne à bout.
 
-**** *book_moliere_sicilien *id_I09 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I09 *act_ *date_1668 *creator_moliere
 
 -*who_hali
 Monsieur, j'ai, déjà, fait quelque petite tentative, mais je...
@@ -483,7 +483,7 @@ Je ne veux point perdre de temps.
 Holà.
 Il me tarde que je ne goûte le plaisir de la voir.
 
-**** *book_moliere_sicilien *id_I10 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I10 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Que cherchez-vous, Cavalier, dans cette maison ?
@@ -511,7 +511,7 @@ Toute mon ambition est de rendre service aux Gens de nom, et de mérite.
 -*who_dom_pedre
 Je vais faire venir la Personne dont il s'agit.
 
-**** *book_moliere_sicilien *id_I11 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I11 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Voici un Gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre.
@@ -614,7 +614,7 @@ Seigneur Français, vous ne devriez pas, ce me semble, parler ; cela vous déto
 -*who_adraste
 Ah ! point du tout, j'ai, toujours, de coutume de parler quand je peins ; et il est besoin, dans ces choses, d'un peu de conversation, pour réveiller l'Esprit, et tenir les Visages dans la gaieté nécessaire aux Personnes que l'on veut peindre.
 
-**** *book_moliere_sicilien *id_I12 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I12 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Que veut cet Homme-là ?
@@ -708,7 +708,7 @@ Et vous, je vous conjure de ne vous relâcher point : et de garder un Esprit ga
 -*who_isidore
 Je conserverai, pour cela, toute la gaieté qu'il faut.
 
-**** *book_moliere_sicilien *id_I13 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I13 *act_ *date_1668 *creator_moliere
 
 -*who_isidore
 Qu'en dites-vous ?
@@ -726,7 +726,7 @@ Oui, mais, s'ils plaisent aux Dames, ils déplaisent fort aux Messieurs ; et l'
 -*who_isidore
 Ce qu'ils en font, n'est que par jeu.
 
-**** *book_moliere_sicilien *id_I14 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I14 *act_ *date_1668 *creator_moliere
 
 -*who_climene
 Ah !
@@ -739,7 +739,7 @@ De grâce, Seigneur Cavalier, sauvez-moi de sa fureur.
 -*who_dom_pedre
 Entrez là-dedans, avec elle, et n'appréhendez rien.
 
-**** *book_moliere_sicilien *id_I15 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I15 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Hé quoi !
@@ -772,7 +772,7 @@ C'est une grâce que je vous demande : et je la recevrai comme un essai de l'am
 -*who_adraste
 Il ne m'est pas permis, à ces conditions, de vous rien refuser ; je ferai ce que vous voudrez.
 
-**** *book_moliere_sicilien *id_I16 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I16 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Holà, venez ; Vous n'avez qu'à me suivre, et j'ai fait votre paix.
@@ -784,7 +784,7 @@ Je vous suis obligée plus qu'on ne saurait croire : mais je m'en vais prendre 
 -*who_dom_pedre
 La voici qui s'en va venir ; et son âme, je vous assure, a paru toute réjouie, lorsque je lui ai dit que j'avais raccommodé tout.
 
-**** *book_moliere_sicilien *id_I17 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I17 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Puisque vous m'avez bien voulu donner votre ressentiment, trouvez bon qu'en ce lieu je vous fasse toucher dans la main l'un de l'autre, et que tous deux je vous conjure de vivre, pour l'amour de moi, dans une parfaite union.
@@ -802,7 +802,7 @@ Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en
 C'est trop de grâce que vous me faites : Il est bon de pacifier et d'adoucir, toujours, les choses.
 Holà, Isidore, venez.
 
-**** *book_moliere_sicilien *id_I18 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I18 *act_ *date_1668 *creator_moliere
 
 -*who_dom_pedre
 Comment ! que veut dire cela ?
@@ -817,7 +817,7 @@ Non, non, j'ai trop de cœur, et je vais demander l'appui de la justice, pour po
 C'est ici le Logis d'un Sénateur.
 Holà ?
 
-**** *book_moliere_sicilien *id_I19 *act_ *date_1668 *creator_moliere
+**** *book_ *id_I19 *act_ *date_1668 *creator_moliere
 
 -*who_le_senateur
 Serviteur, Seigneur Don Pèdre.

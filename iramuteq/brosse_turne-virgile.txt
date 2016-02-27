@@ -2,19 +2,7 @@
 
 **** *book_ *id_epitre *date_1647 *creator_brosse
 
-EPISTRE
-
-A
-
-TRES-HAUT
-
-ET
-
-TRES-PUISSANT
-
-SEIGNEUR
-
-MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.
+EPISTRE A TRES-HAUT ET TRES-PUISSANT SEIGNEUR MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.
 
 MONSEIGNEUR,
 
@@ -43,7 +31,7 @@ Remarque s'il te plaist qu'au poinct⁎ que les Latins excitez par la harangue d
 Cette observation devoit estre mise en marge, sur la fin du troisiesme Acte ; mais l'imprimeur l'ayant obmise, j'ai bien voulu la placer icy, afin de prevenir ta censure qui m'auroit pû reprendre d'ensanglanter la Scéne, et d'imiter hors de temps les rudes spectacles des Colleges.
 Je n'ay plus rien à te faire remarquer, si ce n'est quelques fautes survenuës à l'impression, dont voicy les plus importantes.
 
-**** *book_ *id_body-4-1 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-401 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Nous esperons en vain de surmonter⁎ Ænée,
@@ -169,7 +157,7 @@ De prendre avecques vous, le party des Latins,
 Je m'en vay cependant⁎ publier la nouvelle
 Du glorieux danger où l'amour vous appelle.
 
-**** *book_ *id_body-4-2 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-402 *act_ *date_1647 *creator_brosse
 
 -*who_turne
 HEroiques transports⁎, genereux⁎ mouvemens⁎,
@@ -207,7 +195,7 @@ Mais j'apperçoy ma sœur qui vient avec la Reine,
 Leurs visages ternis, et leurs yeux esplorez
 Sont de leurs déplaisirs les tesmoins assurez.
 
-**** *book_ *id_body-4-3 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-403 *act_ *date_1647 *creator_brosse
 
 -*who_amata
 Saisie esgalement de crainte et de colere
@@ -281,17 +269,17 @@ Quels efforts, quels conseils me seront salutaires,
 Ha Turne dans l'estat où ton malheur t'a mis,
 Fuy sans deliberer devant tes ennemis.
 
-**** *book_ *id_body-4-4 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-404 *act_ *date_1647 *creator_brosse
 
 -*who_lavinie
 Arrestez.
 
 -*who_turne
-Si j'arreste, il faut que je me rende.
+      Si j'arreste, il faut que je me rende.
 Poursuivons.
 
 -*who_lavinie
-Arrestez, c'est moy qui le commande.
+      Arrestez, c'est moy qui le commande.
 
 -*who_turne
 Je demeure immobile à ce commandement,
@@ -301,7 +289,7 @@ Qu'un homme a peu de force alors qu'il est Amant.
 Escoutez moy parler.
 
 -*who_turne
-Parlez, je vous écoute,
+      Parlez, je vous écoute,
 Vostre bouche et vos yeux n'ont rien que je redoute,
 De quelque sentiment que je sois combatu,
 Vous pouvez vaincre Turne, et non pas sa vertu⁎.
@@ -342,7 +330,7 @@ Je ne le verray plus que d'un œil rigoureux⁎.
 Quoy vous me hayerez !
 
 -*who_lavinie
-Je feray pis encore,
+      Je feray pis encore,
 Je cederay⁎ mon cœur⁎ au Troyen qui m'adore.
 
 -*who_turne
@@ -353,7 +341,7 @@ Que la mer irritee a vomy sur la terre,
 Ha changez de discours.
 
 -*who_lavinie
-Vous, changez de dessein.
+      Vous, changez de dessein.
 
 -*who_turne
 Mais le Roy veut qu'Ænée expire de ma main,
@@ -412,7 +400,7 @@ Je ne la veux plus voir, aux combats occupée,
 On peut estre vaillant, sans tenter les hazars⁎,
 Amour a des guerriers, aussi bien comme Mars.
 
-**** *book_ *id_body-4-5 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-405 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Turne que faites-vous ? quelle indigne foiblesse
@@ -422,7 +410,7 @@ Vous fait icy commettre un acte qui me blesse ?
 Que je suis interdit⁎.
 
 -*who_latinus
-Au point qu'on nous doit voir
+      Au point qu'on nous doit voir
 Détruire d'un rival, l'orgueil et le pouvoir,
 Lors que pour reprimer son insolente envie⁎
 Le temps presse de faire un appel de sa vie,
@@ -447,14 +435,14 @@ Et je vay de ce pas, en dresser le Cartel⁎.
 Songez bien…
 
 -*who_turne
-Si je doy perir dedans l'orage,
+      Si je doy perir dedans l'orage,
 Je heurteray du moins, l'ecueil de mon naufrage.
 
 -*who_juturne
 O l'insensible frere,
 
 -*who_lavinie
-O l'infidelle Amant,
+      O l'infidelle Amant,
 
 -*who_amata
 Ne l'abandonnons pas dans son aveuglement,
@@ -463,7 +451,7 @@ Deux esprits differents, que la fureur assemble,
 Faisons agir nos yeux, pour la derniere fois,
 Et s'ils n'obtiennent rien, armons nous toutes trois.
 
-**** *book_ *id_body-5-1 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-501 *act_ *date_1647 *creator_brosse
 
 -*who_lavinie
 DEREGLES mouvemens⁎, d'un cœur⁎ qui desespere,
@@ -528,16 +516,16 @@ Que le destin⁎ me perde, ou me sauve aujourd'huy
 Que je meure avec Turne, ou triomphe avec luy.
 Mais qu'apporte Sidon ?
 
-**** *book_ *id_body-5-2 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-502 *act_ *date_1647 *creator_brosse
 
 -*who_sidon
-Une belle nouvelle.
+      Une belle nouvelle.
 
 -*who_lavinie
 Comment donc ?
 
 -*who_sidon
-Les Troyens, soit par crainte ou par zele
+      Les Troyens, soit par crainte ou par zele
 S'opposent au dessein, de leur chef genereux⁎
 Qui veut combatre seul, pour la gloire et pour eux,
 Il leur oppose en vain le pouvoir que luy donne
@@ -615,7 +603,7 @@ La Reine que voicy vous en dira de mesme,
 Ses yeux où l'on peut voir les plaisirs de son cœur⁎
 Semblent tacitement condamner vostre peur.
 
-**** *book_ *id_body-5-3 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-503 *act_ *date_1647 *creator_brosse
 
 -*who_amata
 Mes filles, je vous viens confirmer dans la joye
@@ -669,7 +657,7 @@ Gouttez mieux le repos que le Ciel nous procure
 Et tenez pour certain que dedans peu de jours
 Turne possedera l'Objet de ses Amours.
 
-**** *book_ *id_body-5-4 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-504 *act_ *date_1647 *creator_brosse
 
 -*who_turne
 Il faut auparavant que ce bon-heur insigne,
@@ -723,7 +711,7 @@ Car je vay triompher puisque je vay combattre.
 Helas.
 
 -*who_turne
-Ha ! ce soûpir est indigne de vous,
+      Ha ! ce soûpir est indigne de vous,
 Je m'en tiens offencé, je le dis entre nous,
 Prest de vous conquerir par une belle voye,
 Une injuste douleur estouffe vostre joye.
@@ -732,14 +720,14 @@ Une injuste douleur estouffe vostre joye.
 Je crains.
 
 -*who_turne
-Que craignez vous ?
+      Que craignez vous ?
 
 -*who_lavinie
-Ce qui peut arriver
+      Ce qui peut arriver
 Un mal-heur.
 
 -*who_turne
-Ma vertu⁎ m'en sçaura préserver.
+      Ma vertu⁎ m'en sçaura préserver.
 
 -*who_lavinie
 Prince si vous m'aymez autant que vous le dites.
@@ -753,7 +741,7 @@ Que vous pourriez enfin esbranler mon courage⁎.
 Adieu Madame, adieu, je vous laisse mon cœur⁎,
 C'est assez de mon bras, pour revenir vainqueur.
 
-**** *book_ *id_body-5-5 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-505 *act_ *date_1647 *creator_brosse
 
 -*who_lavinie
 Allez cruel, allez, mocquez vous de mes craintes,
@@ -785,7 +773,7 @@ Madame allons apres, courons sans plus attendre,
 Et vous, venez oster à ce frere inhumain
 Et la rage du cœur⁎ et le fer de la main.
 
-**** *book_ *id_body-5-6 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-506 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Ne vous hastez pas tant, il n'est pas necessaire
@@ -823,7 +811,7 @@ Combien peu l'interest⁎ de l'Empire vous touche.
 Arbitres immortels, du destin⁎ des humains,
 Je ne fay plus de vœux, je mets tout en vos mains,
 
-**** *book_ *id_body-5-7 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-507 *act_ *date_1647 *creator_brosse
 
 -*who_juturne
 Sidon, approche, écoute, auras tu le courage⁎
@@ -839,7 +827,7 @@ Qu'on ne pourra jamais me l'arracher de l'Ame⁎.
 Je m'en ressouviendray, Sidon viens avec moy,
 Je t'instruiray de tout dans le jardin du Roy.
 
-**** *book_ *id_body-6-1 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-601 *act_ *date_1647 *creator_brosse
 
 -*who_acate
 QUOY Seigneur, hazarder⁎ une si belle vie !
@@ -865,13 +853,13 @@ Et calmer tant de bruits par un coup de Tonnerre,
 Allez donc.
 
 -*who_acate
-Mais Seigneur…
+      Mais Seigneur…
 
 -*who_enee
-Allez sans repartir
+      Allez sans repartir
 Et si Turne paraist, venez m'en avertir.
 
-**** *book_ *id_body-6-2 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-602 *act_ *date_1647 *creator_brosse
 
 -*who_enee
 APres mille travaux⁎, dont la seule memoire
@@ -923,7 +911,7 @@ Auquel on me verra chastier l'insolence,
 Acate de retour, avec de mes Soldats
 Me vient dire que Turne arrive sur ses pas.
 
-**** *book_ *id_body-6-3 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-603 *act_ *date_1647 *creator_brosse
 
 -*who_acate
 Seigneur, les assiegez sont sortis de la Ville,
@@ -1021,7 +1009,7 @@ Que je sois tout de feu, que luy soit tout de glace,
 Il vient d'un pas superbe⁎ accompagné des siens,
 Il intimideroit d'autres que des Troyens.
 
-**** *book_ *id_body-6-4 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-604 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Doncques voicy l'endroit, où le sort⁎ de deux hommes
@@ -1121,15 +1109,15 @@ Je vous feray vomir vostre sang et vostre Ame⁎.
 Assistez moy grands Dieux.
 
 -*who_turne
-Mon bras assiste moy.
+      Mon bras assiste moy.
 
 -*who_enee
 Je n'implore que vous.
 
 -*who_turne
-Je n'implore que toy.
+      Je n'implore que toy.
 
-**** *book_ *id_body-6-5 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-605 *act_ *date_1647 *creator_brosse
 
 -*who_juturne
 Barbares genereux⁎, courages⁎ sanguinaires,
@@ -1143,10 +1131,10 @@ Mars ne parust jamais avecque plus de pompe,
 Il faut que ce soit luy,
 
 -*who_latinus
-Je le pense.
+      Je le pense.
 
 -*who_juturne
-Escoutez.
+      Escoutez.
 L'organe du Destin⁎ et des Dieux irritez.
 
 -*who_enee
@@ -1209,7 +1197,7 @@ Et vous ne balancez qu'afin que je commence.
 Je vay donc sur leur chef porter le premier coup,
 Donnons, nous les vaincrons sans nous péner beaucoup.
 
-**** *book_ *id_body-7-1 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-701 *act_ *date_1647 *creator_brosse
 
 -*who_turne
 OUY, Madame, nos mains noblement occupées,
@@ -1353,7 +1341,7 @@ D'un mal-heur que la peur me fait desja sentir,
 Mais que dy-je peut estre, hé Dieux la chose est vraye !
 Tyréne que voicy vient agrandir ma playe.
 
-**** *book_ *id_body-7-2 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-702 *act_ *date_1647 *creator_brosse
 
 -*who_tyrene
 PRéparez vous Madame à recevoir un coup,
@@ -1399,7 +1387,7 @@ N'a plus cette douceur qui le rendoit aymable,
 J'y voy du changement, et de l'émotion
 Ou pour mieux dire encor de l'indignation.
 
-**** *book_ *id_body-7-3 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-703 *act_ *date_1647 *creator_brosse
 
 -*who_lavinie
 Amour, c'est trop long temps parler en sa deffense,
@@ -1527,13 +1515,13 @@ Gaigne et blesse le cœur tandis qu'on delibere.
 Adieu donc, je m'en vay combattre vaillamment
 Vous aurez vostre Pere ou n'aurez plus d'Amant.
 
-**** *book_ *id_body-7-4 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-704 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Ænée est genereux⁎.
 
 -*who_amata
-O Ciel peut il bien estre !
+      O Ciel peut il bien estre !
 
 -*who_lavinie
 Mes yeux est ce le Roy que vous voyez paraistre.
@@ -1612,7 +1600,7 @@ Lisez ce mot d'écrit que Sidon vous aporte,
 Il pourra rassurer vos esprits estonnez⁎,
 Voyez ce qu'il contient, adieu, Sidon venez.
 
-**** *book_ *id_body-7-5 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-705 *act_ *date_1647 *creator_brosse
 
 -*who_lavinie
 Madame, qui luy peut envoyer cette lettre ?
@@ -1633,7 +1621,7 @@ C'en est fait, elle m'est ravie :
 Mon frere en me vangeant triomphez de la mort,
 Ou du moins en mourant, triomphez de la vie.
 Juturne vostre sœur.
-En cet évenement,
+      En cet évenement,
 Ma tristesse est esgale à mon estonnement⁎,
 Mon ame⁎ en ce rencontre en cent parts divisee,
 Voit comme ma raison ma constance espuisee,
@@ -1664,7 +1652,7 @@ Chocquer⁎ la liberté d'un frere et d'un Amant.
 Turne souvenez vous…
 
 -*who_turne
-Que ma sœur me demande
+      Que ma sœur me demande
 Que pour vanger son sang, tout le mien je repande.
 Sus donc n'en parlons plus, cedons⁎ à mon transport⁎
 Puisqu'elle m'y convie,
@@ -1677,7 +1665,7 @@ Dieux glacez son courage⁎ et retenez son bras.
 -*who_lavinie
 Dieux faites qu'il combate et qu'il ne meure pas.
 
-**** *book_ *id_body-8-1 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-801 *act_ *date_1647 *creator_brosse
 
 -*who_amata
 SIDON raconte nous cette triste avanture,
@@ -1689,7 +1677,7 @@ Termine ou pour le moins precipite nos jours ;
 Ha ! Que plustost cent fois….
 
 -*who_amata
-Obeis sans replicque,
+      Obeis sans replicque,
 On tait malaysement l'infortune publicque.
 
 -*who_sidon
@@ -1717,7 +1705,7 @@ Que sert ce long discours, enfin Turne succombe,
 Dy viste,
 
 -*who_sidon
-En reculant, le Ciel permet qu'il tombe
+      En reculant, le Ciel permet qu'il tombe
 Et dans le mesme instant que le pied luy defaut,
 Son Rival dessus luy se jette d'un plein saut.
 
@@ -1725,7 +1713,7 @@ Son Rival dessus luy se jette d'un plein saut.
 N'acheve pas.
 
 -*who_amata
-Non, non, par ce raport funeste⁎,
+      Non, non, par ce raport funeste⁎,
 Esteins si tu le peux la clarté qui me reste.
 
 -*who_sidon
@@ -1787,7 +1775,7 @@ Je croy qu'ils se rendront dans peu de temps icy.
 Est-il possible ?
 
 -*who_sidon
-Au moins chacun le pense ainsi.
+      Au moins chacun le pense ainsi.
 
 -*who_amata
 Apres tant de mal-heurs, laisse nous sans contrainte
@@ -1795,7 +1783,7 @@ Ouvrir les yeux aux pleurs, et la bouche à la plainte,
 Retire toy Sidon, de genereux⁎ esprits
 Ne sçauroient qu'en secret soûpirer sans mépris.
 
-**** *book_ *id_body-8-2 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-802 *act_ *date_1647 *creator_brosse
 
 -*who_amata
 EStourdis du tonnerre, et frappez de la foudre,
@@ -1831,7 +1819,7 @@ Qu'un genereux⁎ esprit n'entend que son devoir.
 Devoir qui m'inquiete, et qui me desespere,
 Irriteray-je un Roy, mépriseray je un Pere ?
 
-**** *book_ *id_body-8-3 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-803 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 LE Démon des Troyens, reste victorieux,
@@ -1909,13 +1897,13 @@ Quel Empire aujourd'huy prenez vous dessus moy ?
 Tel qu'ordonne le Ciel,
 
 -*who_amata
-Tel qu'inspire la crainte.
+      Tel qu'inspire la crainte.
 
 -*who_latinus
 Tel que veut mon honneur.
 
 -*who_amata
-Tel que deffend ma plainte,
+      Tel que deffend ma plainte,
 Tel que ne peut souffrir⁎ ma vertu⁎ ny mon rang,
 Et que ne souffrira⁎ personne de mon sang⁎.
 Lavinie eslevez et vos yeux et vostre Ame⁎,
@@ -1977,7 +1965,7 @@ Comment esperez vous, tous deux d'estre obeys,
 Dieux, tesmoins des douleurs, dont mon Ame⁎ est atteinte,
 Esclairez ma raison dedans ce labyrinte.
 
-**** *book_ *id_body-8-4 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-804 *act_ *date_1647 *creator_brosse
 
 -*who_enee
 Il falloit pour venir adorer vos beautez,
@@ -2031,7 +2019,7 @@ Je ne verray jamais ce tygre d'un bon œil.
 Vivant dans les douleurs depuis que je vous ayme
 Je suis tygre en effet, mais c'est envers moy-mesm.
 
-**** *book_ *id_body-8-5 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-805 *act_ *date_1647 *creator_brosse
 
 -*who_sidon
 SIre, Turne demande une faveur de vous.
@@ -2040,7 +2028,7 @@ SIre, Turne demande une faveur de vous.
 Quelle est-elle Sidon ?
 
 -*who_sidon
-D'embrasser vos genoux
+      D'embrasser vos genoux
 Et de rendre en ce lieu, dans les bras de Madame
 Ses devoirs et son sang, ses soûpirs et son Ame⁎.
 
@@ -2064,7 +2052,7 @@ Si la chose est ainsi, je consens qu'on l'ameine.
 -*who_sidon
 Il est dessus un lict dans la sale prochaine⁎.
 
-**** *book_ *id_body-8-6 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-806 *act_ *date_1647 *creator_brosse
 
 -*who_latinus
 Lavinie il est temps d'écouter la raison,
@@ -2082,7 +2070,7 @@ Attendez pour tomber que je sois abattuë,
 Soyez ferme tousjours.
 
 -*who_enee
-Helas ! si sa pitié
+      Helas ! si sa pitié
 Doit attendre la fin de vostre inimitié,
 Je puis bien me resoudre à vivre dans le monde
 Sans espoir que sa flame⁎ à la mienne responde.
@@ -2091,7 +2079,7 @@ Sans espoir que sa flame⁎ à la mienne responde.
 Le spectacle sanglant qu'on nous vient faire voir,
 Vous deffend de nourrir ce temeraire espoir.
 
-**** *book_ *id_body-8-7 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-807 *act_ *date_1647 *creator_brosse
 
 -*who_turne
 QUe la parque à son gré tranche ma destinée⁎,
@@ -2137,14 +2125,14 @@ Ne me refusez pas cette faveur derniere.
 Quoy je pourrois aymer….
 
 -*who_turne
-Vous n'avez qu'à vouloir,
+      Vous n'avez qu'à vouloir,
 Et vostre volonté fera vostre pouvoir.
 
 -*who_amata
 Pensez-vous qu'elle vueille…
 
 -*who_turne
-Un genereux⁎ courage⁎
+      Un genereux⁎ courage⁎
 Se determine à tout où son devoir l'engage.
 
 -*who_lavinie
@@ -2161,10 +2149,10 @@ Il faut garder les loix et l'ordre du combat.
 Mais….
 
 -*who_turne
-O mais importun,
+      O mais importun,
 
 -*who_lavinie
-Voulez vous que j'oublie,
+      Voulez vous que j'oublie,
 La mort qui nous separe et l'amour qui nous lie ?
 
 -*who_turne
@@ -2201,7 +2189,7 @@ C'est un commandement qui tend à l'impossible.
 Pourquoy ?
 
 -*who_lavinie
-Turne qui vit, encore dans mon cœur⁎
+      Turne qui vit, encore dans mon cœur⁎
 Le rend inaccessible à ce cruel vainqueur.
 
 -*who_enee

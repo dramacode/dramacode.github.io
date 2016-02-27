@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_amour-medecin *id_a *date_1665 *creator_moliere
+**** *book_ *id_a *date_1665 *creator_moliere
 
 Prologue
 
@@ -25,7 +25,7 @@ Unissons-nous tous trois…
 -*who_tous
 Unissons-nous…
 
-**** *book_moliere_amour-medecin *id_I01 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1665 *creator_moliere
 
 -*who_sganarelle
 Ah, l'étrange chose que la vie ! et que je puis bien dire avec ce grand Philosophe de l'Antiquité, que qui terre a guerre a, et qu'un malheur ne vient jamais sans l'autre.
@@ -68,7 +68,7 @@ Mais le conseil que vous me donnez de la faire Religieuse, est d'une femme qui p
 Ainsi, Messieurs et Mesdames, quoique tous vos conseils soient les meilleurs du monde, vous trouverez bon, s'il vous plaît, que je n'en suive aucun.
 Voilà de mes donneurs de conseils à la mode.
 
-**** *book_moliere_amour-medecin *id_I02 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1665 *creator_moliere
 
 -*who_sganarelle
 Ah, voilà ma fille qui prend l'air.
@@ -96,7 +96,7 @@ Et veux-tu que je te donne un Maître pour te montrer à jouer du Clavecin ?
 Nenni.
 Aimerais-tu quelqu'un, et souhaiterais-tu d'être mariée ?
 
-**** *book_moliere_amour-medecin *id_I03 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1665 *creator_moliere
 
 -*who_lisette
 Hé bien, Monsieur, vous venez d'entretenir votre fille.
@@ -218,7 +218,7 @@ Ne m'en parlez point.
 -*who_lisette
 Un mari, un mari, un mari.
 
-**** *book_moliere_amour-medecin *id_I04 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1665 *creator_moliere
 
 -*who_lisette
 On dit bien vrai : qu'il n'y a point de pires sourds, que ceux qui ne veulent point entendre.
@@ -254,7 +254,7 @@ Que prétend-il que vous fassiez ?
 N'êtes-vous pas en âge d'être mariée ? et croit-il que vous soyez de marbre ?
 Allez, encore un coup, je veux servir votre passion, je prends dès à présent sur moi tout le soin de ses intérêts, et vous verrez que je sais des détours… Mais je vois votre père, rentrons, et me laissez agir.
 
-**** *book_moliere_amour-medecin *id_I05 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1665 *creator_moliere
 
 -*who_sganarelle
 Il est bon quelquefois de ne point faire semblant d'entendre les choses qu'on n'entend que trop bien : et j'ai fait sagement de parer la déclaration d'un désir que je ne suis pas résolu de contenter.
@@ -262,7 +262,7 @@ A-t-on jamais rien vu de plus tyrannique que cette coutume où l'on veut assujet
 Rien de plus impertinent, et de plus ridicule, que d'amasser du bien avec de grands travaux, et élever une fille avec beaucoup de soin et de tendresse, pour se dépouiller de l'un et de l'autre entre les mains d'un homme qui ne nous touche de rien.
 Non, non, je me moque de cet usage, et je veux garder mon bien et ma fille pour moi.
 
-**** *book_moliere_amour-medecin *id_I06 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1665 *creator_moliere
 
 -*who_lisette
 Ah, malheur ! ah, disgrâce ! ah, pauvre Seigneur Sganarelle ! où pourrai-je te rencontrer ?
@@ -357,7 +357,7 @@ Ah, ma fille !
 Champagne, Champagne, Champagne vite, qu'on m'aille quérir des Médecins, et en quantité, on n'en peut trop avoir dans une pareille aventure.
 Ah, ma fille ! ma pauvre fille !
 
-**** *book_moliere_amour-medecin *id_II01 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1665 *creator_moliere
 
 -*who_lisette
 Que voulez-vous donc faire, Monsieur, de quatre Médecins ?
@@ -389,7 +389,7 @@ Les voici.
 -*who_lisette
 Prenez garde, vous allez être bien édifié, ils vous diront en Latin que votre fille est malade.
 
-**** *book_moliere_amour-medecin *id_II02 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 Hé bien, Messieurs.
@@ -463,7 +463,7 @@ Paix, discoureuse, allons, sortons d'ici.
 Messieurs, je vous supplie de consulter de la bonne manière.
 Quoique ce ne soit pas la coutume de payer auparavant ; toutefois, de peur que je l'oublie, et afin que ce soit une affaire faite, voici…
 
-**** *book_moliere_amour-medecin *id_II03 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1665 *creator_moliere
 
 -*who_m_des_fonandres
 Paris est étrangement grand, et il faut faire de longs trajets, quand la pratique donne un peu.
@@ -505,7 +505,7 @@ C'est fort bien fait d'apprendre aux gens à vivre, et de leur montrer leur bec 
 -*who_m_tomes
 Un homme mort, n'est qu'un homme mort, et ne fait point de conséquence ; Mais une formalité négligée, porte un notable préjudice à tout le Corps des Médecins.
 
-**** *book_moliere_amour-medecin *id_II04 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 Messieurs, l'oppression de ma fille augmente, je vous prie de me dire vite ce que vous avez résolu.
@@ -582,7 +582,7 @@ Si vous ne faites saigner tout à l'heure votre fille, c'est une personne morte.
 -*who_m_des_fonandres
 Si vous la faites saigner, elle ne sera pas en vie dans un quart d'heure.
 
-**** *book_moliere_amour-medecin *id_II05 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 À qui croire des deux ? et quelle résolution prendre sur des avis si opposés ?
@@ -639,7 +639,7 @@ Et nous vous avons parlé, comme nous parlerions à notre propre frère.
 Je. vous. rends. très. hum-bles. grâ-ces.
 et vous suis infiniment obligé de la peine que vous avez prise.
 
-**** *book_moliere_amour-medecin *id_II06 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 Me voilà justement un peu plus incertain que je n'étais auparavant.
@@ -647,7 +647,7 @@ Morbleu, il me vient une fantaisie.
 Il faut que j'aille acheter de l'Orviétan, et que je lui en fasse prendre.
 L'Orviétan est un remède dont beaucoup de gens se sont bien trouvés.
 
-**** *book_moliere_amour-medecin *id_II07 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II07 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 Holà.
@@ -690,7 +690,7 @@ Descente,
 Rougeole,
 Ô ! grande puissance de l'Orviétan !
 
-**** *book_moliere_amour-medecin *id_III01 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1665 *creator_moliere
 
 -*who_m_filerin
 N'avez-vous point de honte, Messieurs, de montrer si peu de prudence pour des gens de votre âge, et de vous être querellés comme de jeunes étourdis ?
@@ -732,7 +732,7 @@ Touchez donc là.
 Adieu.
 Une autre fois, montrez plus de prudence.
 
-**** *book_moliere_amour-medecin *id_III02 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1665 *creator_moliere
 
 -*who_lisette
 Quoi, Messieurs, vous voilà, et vous ne songez pas à réparer le tort qu'on vient de faire à la Médecine.
@@ -749,7 +749,7 @@ Un insolent, qui a eu l'effronterie d'entreprendre sur votre métier : et qui s
 -*who_lisette
 Je vous permets de me tuer, lorsque j'aurai recours à vous.
 
-**** *book_moliere_amour-medecin *id_III03 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1665 *creator_moliere
 
 -*who_clitandre
 Hé bien, Lisette, me trouves-tu bien ainsi ?
@@ -764,7 +764,7 @@ Toutes nos mesures sont déjà prises.
 L'homme à qui nous avons affaire n'est pas des plus fins de ce monde : et si cette aventure nous manque, nous trouverons mille autres voies, pour arriver à notre but.
 Attendez-moi là seulement, je reviens vous quérir.
 
-**** *book_moliere_amour-medecin *id_III04 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1665 *creator_moliere
 
 -*who_lisette
 Monsieur, allégresse ! allégresse !
@@ -815,7 +815,7 @@ Je vais le faire entrer.
 -*who_sganarelle
 Il faut voir si celui-ci fera plus que les autres.
 
-**** *book_moliere_amour-medecin *id_III05 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1665 *creator_moliere
 
 -*who_lisette
 Le voici.
@@ -853,7 +853,7 @@ Vous connaissez cela ici ?
 -*who_clitandre
 Oui, par la sympathie qu'il y a entre le père et la fille.
 
-**** *book_moliere_amour-medecin *id_III06 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1665 *creator_moliere
 
 -*who_lisette
 Tenez, Monsieur, voilà une chaise auprès d'elle.
@@ -1015,7 +1015,7 @@ J'en suis ravie.
 Oh la folle !
 Oh la folle !
 
-**** *book_moliere_amour-medecin *id_III07 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1665 *creator_moliere
 
 Le Notaire, Clitandre, Sganarelle, Lucinde, Lisette .
 
@@ -1061,7 +1061,7 @@ Au reste, je n'ai pas eu seulement la précaution d'amener un Notaire, j'ai eu c
 Qu'on les fasse venir.
 Ce sont des gens que je mène avec moi, et dont je me sers tous les jours pour pacifier avec leur harmonie les troubles de l'esprit.
 
-**** *book_moliere_amour-medecin *id_III08 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1665 *creator_moliere
 
 -*who_comedie_ballet_musique
 

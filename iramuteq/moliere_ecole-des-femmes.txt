@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_ecole-des-femmes *id_I01 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1662 *creator_moliere
 
 -*who_chrysalde
 Vous venez, dites-vous, pour lui donner la main ?
@@ -60,7 +60,7 @@ Et comme Spectateur, ne puis-je pas en rire ?
 Puis-je pas de nos Sots…
 
 -*who_chrysalde
-Oui : mais qui rit d'autrui,
+      Oui : mais qui rit d'autrui,
 Doit craindre, qu'en revanche, on rie aussi de lui.
 J'entends parler le monde, et des gens se délassent
 À venir débiter les choses qui se passent :
@@ -91,7 +91,7 @@ Gare qu'aux Carrefours on ne vous tympanise,
 Et…
 
 -*who_arnolphe
-Mon Dieu, notre Ami, ne vous tourmentez point ;
+      Mon Dieu, notre Ami, ne vous tourmentez point ;
 Bien huppé qui pourra m'attraper sur ce point.
 Je sais les tours rusés, et les subtiles trames,
 Dont, pour nous en planter, savent user les Femmes,
@@ -137,7 +137,7 @@ Qu'une Femme fort belle, avec beaucoup d'esprit.
 L'esprit, et la beauté…
 
 -*who_arnolphe
-L'honnêteté suffit.
+      L'honnêteté suffit.
 
 -*who_chrysalde
 Mais comment voulez-vous, après tout, qu'une bête
@@ -163,7 +163,7 @@ Que vous ne m'aurez rien persuadé du tout.
 Je ne vous dis plus mot.
 
 -*who_arnolphe
-Chacun a sa méthode.
+      Chacun a sa méthode.
 En Femme, comme en tout, je veux suivre ma mode ;
 Je me vois riche assez, pour pouvoir, que je crois,
 Choisir une moitié, qui tienne tout de moi,
@@ -200,7 +200,7 @@ Et voir, si de mon choix on me doit condamner.
 J'y consens.
 
 -*who_arnolphe
-Vous pourrez, dans cette conférence,
+      Vous pourrez, dans cette conférence,
 Juger de sa personne, et de son innocence.
 
 -*who_chrysalde
@@ -208,7 +208,7 @@ Pour cet article-là, ce que vous m'avez dit,
 Ne peut…
 
 -*who_arnolphe
-La vérité passe encor mon récit.
+      La vérité passe encor mon récit.
 Dans ses simplicités à tous coups je l'admire,
 Et parfois elle en dit, dont je pâme de rire.
 L'autre jour (pourrait-on se le persuader ?)
@@ -220,7 +220,7 @@ Si les enfants qu'on fait, se faisaient par l'oreille.
 Je me réjouis fort, Seigneur Arnolphe…
 
 -*who_arnolphe
-Bon ;
+      Bon ;
 Me voulez-vous toujours appeler de ce nom ?
 
 -*who_chrysalde
@@ -260,7 +260,7 @@ Je le souffre aisément de qui n'est pas instruit ;
 Mais vous…
 
 -*who_chrysalde
-Soit. Là-dessus nous n'aurons point de bruit,
+      Soit. Là-dessus nous n'aurons point de bruit,
 Et je prendrai le soin d'accoutumer ma bouche
 À ne plus vous nommer que Monsieur de la Souche.
 
@@ -277,67 +277,67 @@ Chose étrange de voir, comme avec passion,
 Un chacun est chaussé de son opinion !
 Holà…
 
-**** *book_moliere_ecole-des-femmes *id_I02 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1662 *creator_moliere
 
 -*who_alain
-Qui heurte ?
+      Qui heurte ?
 
 -*who_arnolphe
-Ouvrez. On aura, que je pense,
+      Ouvrez. On aura, que je pense,
 Grande joie à me voir, après dix jours d'absence.
 
 -*who_alain
 Qui va là ?
 
 -*who_arnolphe
-Moi.
+      Moi.
 
 -*who_alain
-Georgette ?
+      Georgette ?
 
 -*who_georgette
-Hé bien ?
+      Hé bien ?
 
 -*who_alain
-Ouvre là-bas.
+      Ouvre là-bas.
 
 -*who_georgette
 Vas-y toi.
 
 -*who_alain
-Vas-y toi.
+      Vas-y toi.
 
 -*who_georgette
-Ma foi je n'irai pas.
+      Ma foi je n'irai pas.
 
 -*who_alain
 Je n'irai pas aussi.
 
 -*who_arnolphe
-Belle cérémonie
+      Belle cérémonie
 Pour me laisser dehors. Holà ho, je vous prie.
 
 -*who_georgette
 Qui frappe ?
 
 -*who_arnolphe
-Votre Maître.
+      Votre Maître.
 
 -*who_georgette
-Alain ?
+      Alain ?
 
 -*who_alain
-Quoi ?
+      Quoi ?
 
 -*who_georgette
-C'est Monsieur,
+      C'est Monsieur,
 Ouvre vite.
 
 -*who_alain
-Ouvre, toi.
+      Ouvre, toi.
 
 -*who_georgette
-Je souffle notre feu.
+      Je souffle notre feu.
 
 -*who_alain
 J'empêche, peur du Chat, que mon Moineau ne sorte.
@@ -348,7 +348,7 @@ N'aura point à manger de plus de quatre jours.
 Ha.
 
 -*who_georgette
-Par quelle raison y venir quand j'y cours ?
+      Par quelle raison y venir quand j'y cours ?
 
 -*who_alain
 Pourquoi plutôt que moi ? le plaisant strodagéme !
@@ -357,22 +357,22 @@ Pourquoi plutôt que moi ? le plaisant strodagéme !
 Ôte-toi donc de là.
 
 -*who_alain
-Non, ôte-toi, toi-même.
+      Non, ôte-toi, toi-même.
 
 -*who_georgette
 Je veux ouvrir la porte.
 
 -*who_alain
-Et je veux l'ouvrir, moi.
+      Et je veux l'ouvrir, moi.
 
 -*who_georgette
 Tu ne l'ouvriras pas.
 
 -*who_alain
-Ni toi non plus.
+      Ni toi non plus.
 
 -*who_georgette
-Ni toi.
+      Ni toi.
 
 -*who_arnolphe
 Il faut que j'aie ici l'âme bien patiente.
@@ -381,27 +381,27 @@ Il faut que j'aie ici l'âme bien patiente.
 Au moins c'est moi, Monsieur.
 
 -*who_georgette
-Je suis votre Servante,
+      Je suis votre Servante,
 C'est moi.
 
 -*who_alain
-Sans le respect de Monsieur que voilà,
+      Sans le respect de Monsieur que voilà,
 Je te…
 
 -*who_arnolphe
-Peste.
+      Peste.
 
 -*who_alain
-Pardon.
+      Pardon.
 
 -*who_arnolphe
-Voyez ce lourdaud-là.
+      Voyez ce lourdaud-là.
 
 -*who_alain
 C'est elle aussi, Monsieur…
 
 -*who_arnolphe
-Que tous deux on se taise.
+      Que tous deux on se taise.
 Songez à me répondre, et laissons la fadaise.
 Hé bien, Alain, comment se porte-t-on ici ?
 
@@ -410,35 +410,35 @@ Monsieur, nous nous… Monsieur, nous nous por… Dieu merci ;
 Nous nous…
 
 -*who_arnolphe
-Qui vous apprend, impertinente bête,
+      Qui vous apprend, impertinente bête,
 À parler devant moi, le chapeau sur le tête ?
 
 -*who_alain
 Vous faites bien, j'ai tort.
 
 -*who_arnolphe
-Faites descendre Agnès.
+      Faites descendre Agnès.
 Lorsque je m'en allai, fut-elle triste après ?
 
 -*who_georgette
 Triste ? Non.
 
 -*who_arnolphe
-Non !
+      Non !
 
 -*who_georgette
-Si fait.
+      Si fait.
 
 -*who_arnolphe
-Pourquoi donc…
+      Pourquoi donc…
 
 -*who_georgette
-Oui, je meure,
+      Oui, je meure,
 Elle vous croyait voir de retour à toute heure ;
 Et nous n'oyions jamais passer devant chez nous,
 Cheval, Âne, ou Mulet, qu'elle ne prît pour vous
 
-**** *book_moliere_ecole-des-femmes *id_I03 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1662 *creator_moliere
 
 -*who_arnolphe
 La besogne à la main, c'est un bon témoignage.
@@ -446,7 +446,7 @@ Hé bien, Agnès, je suis de retour du voyage,
 En êtes-vous bien aise ?
 
 -*who_agnes
-Oui, Monsieur, Dieu merci.
+      Oui, Monsieur, Dieu merci.
 
 -*who_arnolphe
 Et moi de vous revoir, je suis bien aise aussi :
@@ -462,11 +462,11 @@ Ah ! vous aurez dans peu quelqu'un pour les chasser.
 Vous me ferez plaisir.
 
 -*who_arnolphe
-Je le puis bien penser.
+      Je le puis bien penser.
 Que faites-vous donc là ?
 
 -*who_agnes
-Je me fais des Cornettes :
+      Je me fais des Cornettes :
 Vos Chemises de nuit, et vos Coiffes sont faites.
 
 -*who_arnolphe
@@ -479,7 +479,7 @@ Je défie à la fois tous vos Vers, vos Romans,
 Vos Lettres, Billets doux, toute votre Science,
 De valoir cette honnête et pudique ignorance.
 
-**** *book_moliere_ecole-des-femmes *id_I04 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1662 *creator_moliere
 
 -*who_arnolphe
 Ce n'est point par le bien qu'il faut être ébloui ;
@@ -488,23 +488,23 @@ Je me trompe. Nenni. Si fait. Non, c'est lui-même.
 Hor…
 
 -*who_horace
-Seigneur Ar…
+      Seigneur Ar…
 
 -*who_arnolphe
-Horace.
+      Horace.
 
 -*who_horace
-Arnolphe.
+      Arnolphe.
 
 -*who_arnolphe
-Ah ! joie extrême !
+      Ah ! joie extrême !
 Et depuis quand ici ?
 
 -*who_horace
-Depuis neuf jours.
+      Depuis neuf jours.
 
 -*who_arnolphe
-Vraiment…
+      Vraiment…
 
 -*who_horace
 Je fus d'abord chez vous, mais inutilement.
@@ -513,7 +513,7 @@ Je fus d'abord chez vous, mais inutilement.
 J'étais à la campagne.
 
 -*who_horace
-Oui, depuis deux journées.
+      Oui, depuis deux journées.
 
 -*who_arnolphe
 Ô comme les enfants croissent en peu d'années !
@@ -524,7 +524,7 @@ Après que je l'ai vu pas plus grand que cela.
 Vous voyez.
 
 -*who_arnolphe
-Mais, de grâce, Oronte votre Père,
+      Mais, de grâce, Oronte votre Père,
 Mon bon et cher Ami, que j'estime et révère,
 Que fait-il ? que dit-il ? est-il toujours gaillard ?
 À tout ce qui le touche, il sait que je prends part.
@@ -544,13 +544,13 @@ Qu'il s'est en quatorze ans acquis dans l'Amérique ?
 Non : vous a-t-on point dit comme on le nomme ?
 
 -*who_horace
-Enrique.
+      Enrique.
 
 -*who_arnolphe
 Non.
 
 -*who_horace
-Mon Père m'en parle, et qu'il est revenu,
+      Mon Père m'en parle, et qu'il est revenu,
 Comme s'il devait m'être entièrement connu,
 Et m'écrit qu'en chemin ensemble ils se vont mettre,
 Pour un fait important que ne dit point sa Lettre.
@@ -573,10 +573,10 @@ Et je me réjouis de les avoir ici.
 Gardez aussi la bourse.
 
 -*who_horace
-Il faut…
+      Il faut…
 
 -*who_arnolphe
-Laissons ce style.
+      Laissons ce style.
 Hé bien, comment encor trouvez-vous cette Ville ?
 
 -*who_horace
@@ -613,7 +613,7 @@ Mais, de grâce, qu'au moins ces choses soient secrètes.
 Oh.
 
 -*who_horace
-Vous n'ignorez pas qu'en ces occasions.
+      Vous n'ignorez pas qu'en ces occasions.
 Un secret éventé rompt nos prétentions.
 Je vous avouerai donc avec pleine franchise,
 Qu'ici d'une Beauté mon âme s'est éprise.
@@ -626,7 +626,7 @@ Mes affaires y sont en fort bonne posture.
 Et c'est ?
 
 -*who_horace
-Un jeune objet qui loge en ce logis,
+      Un jeune objet qui loge en ce logis,
 Dont vous voyez d'ici que les murs sont rougis ;
 Simple à la vérité, par l'erreur sans seconde
 D'un Homme qui la cache au commerce du monde,
@@ -639,10 +639,10 @@ Ce jeune Astre d'amour de tant d'attraits pourvu :
 C'est Agnès qu'on l'appelle.
 
 -*who_arnolphe
-Ah ! je crève.
+      Ah ! je crève.
 
 -*who_horace
-Pour l'Homme,
+      Pour l'Homme,
 C'est, je crois, de la Zousse, ou Source, qu'on le nomme,
 Je ne me suis pas fort arrêté sur le nom ;
 Riche, à ce qu'on m'a dit, mais des plus sensés, non,
@@ -650,22 +650,22 @@ Et l'on m'en a parlé comme d'un Ridicule.
 Le connaissez-vous point ?
 
 -*who_arnolphe
-La fâcheuse pilule !
+      La fâcheuse pilule !
 
 -*who_horace
 Eh ! vous ne dites mot ?
 
 -*who_arnolphe
-Eh oui, je le connais.
+      Eh oui, je le connais.
 
 -*who_horace
 C'est un fou, n'est-ce pas ?
 
 -*who_arnolphe
-Eh…
+      Eh…
 
 -*who_horace
-Qu'en dites-vous ? quoi ?
+      Qu'en dites-vous ? quoi ?
 Eh ? c'est-à-dire oui. Jaloux à faire rire.
 Sot ? je vois qu'il en est ce que l'on m'a pu dire.
 Enfin l'aimable Agnès a su m'assujettir.
@@ -687,21 +687,21 @@ Vous désapprouveriez le dessein que j'ai fait ?
 Non, c'est que je songeais…
 
 -*who_horace
-Cet entretien vous lasse ;
+      Cet entretien vous lasse ;
 Adieu, j'irai chez vous tantôt vous rendre grâce.
 
 -*who_arnolphe
 Ah ! faut-il…
 
 -*who_horace
-Derechef, veuillez être discret,
+      Derechef, veuillez être discret,
 Et n'allez pas, de grâce, éventer mon secret.
 
 -*who_arnolphe
 Que je sens dans mon âme…
 
 -*who_horace
-Et surtout à mon Père,
+      Et surtout à mon Père,
 Qui s'en ferait peut-être un sujet de colère.
 
 -*who_arnolphe
@@ -720,7 +720,7 @@ Tirons-en de ce fait l'entière confidence ;
 Je tremble du malheur qui m'en peut arriver,
 Et l'on cherche souvent plus qu'on ne veut trouver.
 
-**** *book_moliere_ecole-des-femmes *id_II01 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1662 *creator_moliere
 
 -*who_arnolphe
 Il m'est, lorsque j'y pense, avantageux sans doute,
@@ -739,13 +739,13 @@ Elle n'a pu faillir, sans me couvrir de honte,
 Et tout ce qu'elle a fait, enfin est sur mon compte.
 Éloignement fatal ! Voyage malheureux !
 
-**** *book_moliere_ecole-des-femmes *id_II02 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1662 *creator_moliere
 
 -*who_alain
 Ah ! Monsieur, cette fois…
 
 -*who_arnolphe
-Paix. Venez-çà tous deux :
+      Paix. Venez-çà tous deux :
 Passez-là, passez-là. Venez-là, venez dis-je.
 
 -*who_georgette
@@ -774,16 +774,16 @@ Eh ? parlez, dépêchez, vite, promptement, tôt,
 Sans rêver, veut-on dire ?
 
 -*who_alain_georgette
-Ah, ah.
+      Ah, ah.
 
 -*who_georgette
-Le cœur me faut.
+      Le cœur me faut.
 
 -*who_alain
 Je meurs.
 
 -*who_arnolphe
-Je suis en eau, prenons un peu d'haleine,
+      Je suis en eau, prenons un peu d'haleine,
 Il faut que je m'évente, et que je me promène.
 Aurais-je deviné, quand je l'ai vu petit,
 Qu'il croîtrait pour cela ! Ciel ! que mon cœur pâtit !
@@ -797,10 +797,10 @@ Du chagrin qui me trouble, ils iraient l'avertir ;
 Et moi-même je veux l'aller faire sortir.
 Que l'on m'attende ici.
 
-**** *book_moliere_ecole-des-femmes *id_II03 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1662 *creator_moliere
 
 -*who_georgette
-Mon Dieu, qu'il est terrible !
+      Mon Dieu, qu'il est terrible !
 Ses regards m'ont fait peur, mais une peur horrible,
 Et jamais je ne vis un plus hideux Chrétien.
 
@@ -839,7 +839,7 @@ Tu serais en colère, et voudrais le charger ?
 Oui, je comprends cela.
 
 -*who_alain
-C'est justement tout comme.
+      C'est justement tout comme.
 La Femme est en effet le potage de l'Homme ;
 Et quand un Homme voit d'autres Hommes parfois,
 Qui veulent dans sa soupe aller tremper leurs doigts,
@@ -855,19 +855,19 @@ C'est que chacun n'a pas cette amitié goulue,
 Qui n'en veut que pour soi.
 
 -*who_georgette
-Si je n'ai la berlue,
+      Si je n'ai la berlue,
 Je le vois qui revient.
 
 -*who_alain
-Tes yeux sont bons, c'est lui.
+      Tes yeux sont bons, c'est lui.
 
 -*who_georgette
 Vois comme il est chagrin.
 
 -*who_alain
-C'est qu'il a de l'ennui.
+      C'est qu'il a de l'ennui.
 
-**** *book_moliere_ecole-des-femmes *id_II04 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1662 *creator_moliere
 
 -*who_arnolphe
 Un certain Grec, disait à l'Empereur Auguste,
@@ -884,28 +884,28 @@ Puissent sur le discours la mettre adroitement :
 Et lui sondant le cœur s'éclaircir doucement.
 Venez, Agnès. Rentrez.
 
-**** *book_moliere_ecole-des-femmes *id_II05 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1662 *creator_moliere
 
 -*who_arnolphe
-La promenade est belle.
+      La promenade est belle.
 
 -*who_agnes
 Fort belle.
 
 -*who_arnolphe
-Le beau jour !
+      Le beau jour !
 
 -*who_agnes
-Fort beau !
+      Fort beau !
 
 -*who_arnolphe
-Quelle nouvelle ?
+      Quelle nouvelle ?
 
 -*who_agnes
 Le petit chat est mort.
 
 -*who_arnolphe
-C'est dommage : mais quoi
+      C'est dommage : mais quoi
 Nous sommes tous mortels, et chacun est pour soi.
 Lorsque j'étais aux champs n'a-t-il point fait de pluie ?
 
@@ -913,10 +913,10 @@ Lorsque j'étais aux champs n'a-t-il point fait de pluie ?
 Non.
 
 -*who_arnolphe
-Vous ennuyait-il ?
+      Vous ennuyait-il ?
 
 -*who_agnes
-Jamais je ne m'ennuie.
+      Jamais je ne m'ennuie.
 
 -*who_arnolphe
 Qu'avez-vous fait encor ces neuf ou dix jours-ci ?
@@ -940,7 +940,7 @@ Mon Dieu, ne gagez pas, vous perdriez vraiment.
 Quoi ! c'est la vérité qu'un homme…
 
 -*who_agnes
-Chose sûre.
+      Chose sûre.
 Il n'a presque bougé de chez nous, je vous jure.
 
 -*who_arnolphe
@@ -981,7 +981,7 @@ Qu'il me pût estimer moins civile que lui.
 Fort bien.
 
 -*who_agnes
-Le lendemain étant sur notre porte,
+      Le lendemain étant sur notre porte,
 Une vieille m'aborde en parlant de la sorte.
 Mon enfant, le bon Dieu puisse-t-il vous bénir,
 Et dans tous vos attraits longtemps vous maintenir.
@@ -1080,60 +1080,60 @@ Ne vous a-t-il point pris, Agnès, quelque autre chose…
 Ouf.
 
 -*who_agnes
-Hé, il m'a…
+      Hé, il m'a…
 
 -*who_arnolphe
-Quoi ?
+      Quoi ?
 
 -*who_agnes
-Pris…
+      Pris…
 
 -*who_arnolphe
-Euh !
+      Euh !
 
 -*who_agnes
-Le…
+      Le…
 
 -*who_arnolphe
-Plaît-il ?
+      Plaît-il ?
 
 -*who_agnes
-Je n'ose,
+      Je n'ose,
 Et vous vous fâcherez peut-être contre moi.
 
 -*who_arnolphe
 Non.
 
 -*who_agnes
-Si fait.
+      Si fait.
 
 -*who_arnolphe
-Mon dieu ! non.
+      Mon dieu ! non.
 
 -*who_agnes
-Jurez donc votre foi.
+      Jurez donc votre foi.
 
 -*who_arnolphe
 Ma foi, soit.
 
 -*who_agnes
-Il m'a pris… vous serez en colère.
+      Il m'a pris… vous serez en colère.
 
 -*who_arnolphe
 Non.
 
 -*who_agnes
-Si.
+      Si.
 
 -*who_arnolphe
-Non, non, non, non ! Diantre ! que de mystère !
+      Non, non, non, non ! Diantre ! que de mystère !
 Qu'est-ce qu'il vous a pris ?
 
 -*who_agnes
-Il…
+      Il…
 
 -*who_arnolphe
-Je souffre en damné.
+      Je souffre en damné.
 
 -*who_agnes
 Il m'a pris le ruban que vous m'aviez donné.
@@ -1200,7 +1200,7 @@ N'est-ce pas un péché lorsque l'on se marie ?
 Non.
 
 -*who_agnes
-Mariez-moi donc promptement, je vous prie.
+      Mariez-moi donc promptement, je vous prie.
 
 -*who_arnolphe
 Si vous le souhaitez, je le souhaite aussi,
@@ -1210,10 +1210,10 @@ Et pour vous marier on me revoit ici.
 Est-il possible ?
 
 -*who_arnolphe
-Oui.
+      Oui.
 
 -*who_agnes
-Que vous me ferez aise !
+      Que vous me ferez aise !
 
 -*who_arnolphe
 Oui ; je ne doute point que l'hymen ne vous plaise.
@@ -1222,7 +1222,7 @@ Oui ; je ne doute point que l'hymen ne vous plaise.
 Vous nous voulez nous deux…
 
 -*who_arnolphe
-Rien de plus assuré.
+      Rien de plus assuré.
 
 -*who_agnes
 Que si cela se fait, je vous caresserai !
@@ -1235,31 +1235,31 @@ Je ne reconnais point, pour moi, quand on se moque.
 Parlez-vous tout de bon ?
 
 -*who_arnolphe
-Oui, vous le pourrez voir.
+      Oui, vous le pourrez voir.
 
 -*who_agnes
 Nous serons mariés ?
 
 -*who_arnolphe
-Oui.
+      Oui.
 
 -*who_agnes
-Mais quand ?
+      Mais quand ?
 
 -*who_arnolphe
-Dès ce soir ?
+      Dès ce soir ?
 
 -*who_agnes
 Dès ce soir.
 
 -*who_arnolphe
-Dès ce soir. Cela vous fait donc rire ?
+      Dès ce soir. Cela vous fait donc rire ?
 
 -*who_agnes
 Oui.
 
 -*who_arnolphe
-Vous voir bien contente, est ce que je désire.
+      Vous voir bien contente, est ce que je désire.
 
 -*who_agnes
 Hélas ! que je vous ai grande obligation !
@@ -1269,10 +1269,10 @@ Et qu'avec lui j'aurai de satisfaction !
 Avec qui ?
 
 -*who_agnes
-Avec… là.
+      Avec… là.
 
 -*who_arnolphe
-Là… là n'est pas mon compte.
+      Là… là n'est pas mon compte.
 À choisir un mari, vous êtes un peu prompte.
 C'est un autre en un mot que je vous tiens tout prêt,
 Et quant au Monsieur, là… Je prétends, s'il vous plaît,
@@ -1289,23 +1289,23 @@ De votre procédé je serai le témoin.
 Las ! il est si bien fait. c'est…
 
 -*who_arnolphe
-Ah que de langage !
+      Ah que de langage !
 
 -*who_agnes
 Je n'aurai pas le cœur…
 
 -*who_arnolphe
-Point de bruit davantage.
+      Point de bruit davantage.
 Montez là-haut.
 
 -*who_agnes
-Mais quoi, voulez-vous…
+      Mais quoi, voulez-vous…
 
 -*who_arnolphe
-C'est assez.
+      C'est assez.
 Je suis Maître, je parle, allez, obéissez.
 
-**** *book_moliere_ecole-des-femmes *id_III01 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1662 *creator_moliere
 
 -*who_arnolphe
 Oui : tout a bien été, ma joie est sans pareille.
@@ -1338,7 +1338,7 @@ Cet autre Monsieur-là nous en faisait accroire.
 Mais…
 
 -*who_alain
-S'il entre jamais, je veux jamais ne boire.
+      S'il entre jamais, je veux jamais ne boire.
 Aussi bien est-ce un sot, il nous a l'autre fois
 Donné deux écus d'or qui n'étaient pas de poids.
 
@@ -1348,7 +1348,7 @@ Et pour notre contrat, comme je viens de dire,
 Faites venir ici l'un ou l'autre au retour,
 Le Notaire qui loge au coin de ce carfour.
 
-**** *book_moliere_ecole-des-femmes *id_III02 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1662 *creator_moliere
 
 -*who_arnolphe
 Agnès, pour m'écouter, laissez-là votre ouvrage.
@@ -1516,7 +1516,7 @@ Je n'ai qu'un mot à dire, et ne tarderai guère.
 Rentrez : et conservez ce Livre chèrement.
 Si le Notaire vient, qu'il m'attende un moment.
 
-**** *book_moliere_ecole-des-femmes *id_III03 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1662 *creator_moliere
 
 -*who_arnolphe
 Je ne puis faire mieux que d'en faire ma femme.
@@ -1556,7 +1556,7 @@ Lorsqu'elles vont choisir ces têtes éventées !
 Et que… Mais le voici : cachons-nous toujours bien,
 Et découvrons un peu quel chagrin est le sien.
 
-**** *book_moliere_ecole-des-femmes *id_III04 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1662 *creator_moliere
 
 -*who_horace
 Je reviens de chez vous, et le destin me montre
@@ -1584,14 +1584,14 @@ Il est à mon amour arrivé du malheur.
 Oh, oh ! comment cela ?
 
 -*who_horace
-La fortune cruelle
+      La fortune cruelle
 A ramené des champs le patron de la belle.
 
 -*who_arnolphe
 Quel malheur !
 
 -*who_horace
-Et de plus, à mon très grand regret,
+      Et de plus, à mon très grand regret,
 Il a su de nous deux le commerce secret.
 
 -*who_arnolphe
@@ -1610,10 +1610,10 @@ M'ont assez rudement fermé la porte au nez.
 La porte au nez !
 
 -*who_horace
-Au nez.
+      Au nez.
 
 -*who_arnolphe
-La chose est un peu forte.
+      La chose est un peu forte.
 
 -*who_horace
 J'ai voulu leur parler au travers de la porte :
@@ -1624,7 +1624,7 @@ C'est, vous n'entrerez point, Monsieur l'a défendu.
 Ils n'ont donc point ouvert ?
 
 -*who_horace
-Non. Et de la fenêtre
+      Non. Et de la fenêtre
 Agnès m'a confirmé le retour de ce Maître ;
 En me chassant de là d'un ton plein de fierté,
 Accompagné d'un grès que sa main a jeté.
@@ -1633,7 +1633,7 @@ Accompagné d'un grès que sa main a jeté.
 Comment d'un grès ?
 
 -*who_horace
-D'un grès de taille non petite,
+      D'un grès de taille non petite,
 Dont on a par ses mains régalé ma visite.
 
 -*who_arnolphe
@@ -1650,7 +1650,7 @@ Certes j'en suis fâché pour vous, je vous proteste.
 Cet homme me rompt tout.
 
 -*who_arnolphe
-Oui, mais cela n'est rien,
+      Oui, mais cela n'est rien,
 Et de vous raccrocher vous trouverez moyen.
 
 -*who_horace
@@ -1662,20 +1662,20 @@ Cela vous est facile, et la fille, après tout,
 Vous aime.
 
 -*who_horace
-Assurément.
+      Assurément.
 
 -*who_arnolphe
-Vous en viendrez à bout.
+      Vous en viendrez à bout.
 
 -*who_horace
 Je l'espère.
 
 -*who_arnolphe
-Le grès vous a mis en déroute,
+      Le grès vous a mis en déroute,
 Mais cela ne doit pas vous étonner.
 
 -*who_horace
-Sans doute,
+      Sans doute,
 Et j'ai compris d'abord que mon homme était là,
 Qui sans se faire voir conduisait tout cela :
 Mais ce qui m'a surpris et qui va vous surprendre,
@@ -1711,10 +1711,10 @@ A joué mon jaloux dans tout ce badinage.
 Dites,
 
 -*who_arnolphe
-Oui fort plaisant.
+      Oui fort plaisant.
 
 -*who_horace
-Riez-en donc un peu,
+      Riez-en donc un peu,
 Cet homme gendarmé d'abord contre mon feu,
 Qui chez lui se retranche, et de grès fait parade,
 Comme si j'y voulais entrer par escalade,
@@ -1757,10 +1757,10 @@ Et je pense que j'en mourrais de déplaisir.
 Hom chienne.
 
 -*who_horace
-Qu'avez-vous ?
+      Qu'avez-vous ?
 
 -*who_arnolphe
-Moi ? rien ; c'est que je tousse,
+      Moi ? rien ; c'est que je tousse,
 
 -*who_horace
 Avez-vous jamais vu, d'expression plus douce,
@@ -1779,10 +1779,10 @@ Ce traître, ce bourreau, ce faquin, ce brutal…
 Adieu.
 
 -*who_horace
-Comment si vite ?
+      Comment si vite ?
 
 -*who_arnolphe
-Il m'est dans la pensée
+      Il m'est dans la pensée
 Venu tout maintenant une affaire pressée.
 
 -*who_horace
@@ -1806,7 +1806,7 @@ Non vraiment, et sans moi vous en trouverez bien.
 -*who_horace
 Adieu donc. Vous voyez ce que je vous confie.
 
-**** *book_moliere_ecole-des-femmes *id_III05 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1662 *creator_moliere
 
 -*who_arnolphe
 Comme il faut devant lui que je me mortifie,
@@ -1841,7 +1841,7 @@ Ou bien s'il est écrit, qu'il faille que j'y passe,
 Donnez-moi tout au moins pour de tels accidents
 La constance qu'on voit à de certaines gens.
 
-**** *book_moliere_ecole-des-femmes *id_IV01 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1662 *creator_moliere
 
 -*who_arnolphe
 J'ai peine, je l'avoue, à demeurer en place,
@@ -1876,7 +1876,7 @@ Vous aurez beau tourner ou j'y perdrai mes peines,
 Ou je rendrai ma foi, vos espérances vaines,
 Et de moi tout à fait vous ne vous rirez point.
 
-**** *book_moliere_ecole-des-femmes *id_IV02 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1662 *creator_moliere
 
 -*who_notaire
 Ah le voilà ! Bonjour, me voici tout à point
@@ -1886,7 +1886,7 @@ Pour dresser le contrat que vous souhaitez faire.
 Comment faire !
 
 -*who_notaire
-Il le faut dans la forme ordinaire.
+      Il le faut dans la forme ordinaire.
 
 -*who_arnolphe
 À mes précautions je veux songer de près.
@@ -1934,7 +1934,7 @@ Et l'on va plus avant lorsque l'on le veut bien.
 Si…
 
 -*who_notaire
-Pour le préciput il les regarde ensemble.
+      Pour le préciput il les regarde ensemble.
 Je dis que le futur peut comme bon lui semble
 Douer la future.
 
@@ -1960,7 +1960,7 @@ Sais-je pas que le tiers du bien de la future
 Entre en communauté ? pour…
 
 -*who_arnolphe
-Oui, c'est chose sûre,
+      Oui, c'est chose sûre,
 Vous savez tout cela mais qui vous en dit mot ?
 
 -*who_notaire
@@ -1982,7 +1982,7 @@ Voyez quel Diable d'homme avec son entretien ?
 -*who_notaire
 Je pense qu'il en tient, et je crois penser bien.
 
-**** *book_moliere_ecole-des-femmes *id_IV03 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1662 *creator_moliere
 
 -*who_notaire
 M'êtes-vous pas venu quérir pour votre Maître ?
@@ -1991,27 +1991,27 @@ M'êtes-vous pas venu quérir pour votre Maître ?
 Oui.
 
 -*who_notaire
-J'ignore pour qui vous le pouvez connaître :
+      J'ignore pour qui vous le pouvez connaître :
 Mais allez de ma part lui dire de ce pas
 Que c'est un fou fieffé.
 
 -*who_georgette
-Nous n'y manquerons pas.
+      Nous n'y manquerons pas.
 
-**** *book_moliere_ecole-des-femmes *id_IV04 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1662 *creator_moliere
 
 -*who_alain
 Monsieur…
 
 -*who_arnolphe
-Approchez-vous, vous êtes mes fidèles,
+      Approchez-vous, vous êtes mes fidèles,
 Mes bons, mes vrais amis, et j'en sais des nouvelles.
 
 -*who_alain
 Le Notaire…
 
 -*who_arnolphe
-Laissons, c'est pour quelque autre jour.
+      Laissons, c'est pour quelque autre jour.
 On veut à mon honneur jouer d'un mauvais tour :
 Et quel affront pour vous mes enfants pourrait-ce être,
 Si l'on avait ôté l'honneur à votre Maître ?
@@ -2031,7 +2031,7 @@ Mais à ses beaux discours gardez bien de vous rendre.
 Oh vraiment…
 
 -*who_georgette
-Nous savons comme il faut s'en défendre.
+      Nous savons comme il faut s'en défendre.
 
 -*who_arnolphe
 S'il venait doucement. Alain, mon pauvre cœur,
@@ -2041,28 +2041,28 @@ Par un peu de secours soulage ma langueur.
 Vous êtes un sot.
 
 -*who_arnolphe
-Bon. Georgette ma mignonne
+      Bon. Georgette ma mignonne
 Tu me parais si douce, et si bonne personne.
 
 -*who_georgette
 Vous êtes un nigaud.
 
 -*who_arnolphe
-Bon. Quel mal trouves-tu
+      Bon. Quel mal trouves-tu
 Dans un dessein honnête, et tout plein de vertu ?
 
 -*who_alain
 Vous êtes un fripon.
 
 -*who_arnolphe
-Fort bien. Ma mort est sûre
+      Fort bien. Ma mort est sûre
 Si tu ne prends pitié des peines que j'endure.
 
 -*who_georgette
 Vous êtes un benêt, un impudent.
 
 -*who_arnolphe
-Fort bien.
+      Fort bien.
 Je ne suis pas un homme à vouloir rien pour rien,
 Je sais quand on me sert en garder la mémoire :
 Cependant par avance, Alain voilà pour boire,
@@ -2075,22 +2075,22 @@ C'est que je puisse voir votre belle Maîtresse.
 À d'autres.
 
 -*who_arnolphe
-Bon cela.
+      Bon cela.
 
 -*who_alain
-Hors d'ici.
+      Hors d'ici.
 
 -*who_arnolphe
-Bon.
+      Bon.
 
 -*who_georgette
-Mais tôt.
+      Mais tôt.
 
 -*who_arnolphe
 Bon. Holà, c'est assez.
 
 -*who_georgette
-Fais-je pas comme il faut ?
+      Fais-je pas comme il faut ?
 
 -*who_alain
 Est-ce de la façon que vous voulez l'entendre ?
@@ -2105,18 +2105,18 @@ Nous ne nous sommes pas souvenus de ce point.
 Voulez-vous qu'à l'instant nous recommencions ?
 
 -*who_arnolphe
-Point.
+      Point.
 Suffit, rentrez tous deux.
 
 -*who_alain
-Vous n'avez rien qu'à dire.
+      Vous n'avez rien qu'à dire.
 
 -*who_arnolphe
 Non, non, dis-je, rentrez, puisque je le désire.
 Je vous laisse l'argent, allez, je vous rejoins,
 Ayez bien l'œil à tout, et secondez mes soins.
 
-**** *book_moliere_ecole-des-femmes *id_IV05 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1662 *creator_moliere
 
 -*who_arnolphe
 Je veux pour espion qui soit d'exacte vue,
@@ -2131,7 +2131,7 @@ Enfin j'ai vu le monde, et j'en sais les finesses.
 Il faudra que mon homme ait de grandes adresses,
 Si Message ou Poulet de sa part peut entrer.
 
-**** *book_moliere_ecole-des-femmes *id_IV06 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1662 *creator_moliere
 
 -*who_horace
 La place m'est heureuse à vous y rencontrer.
@@ -2174,7 +2174,7 @@ On n'en est pas content si quelqu'un ne le sait.
 Vous prendrez part, je pense, à l'heur de mes affaires.
 Adieu je vais songer aux choses nécessaires.
 
-**** *book_moliere_ecole-des-femmes *id_IV07 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV07 *act_IV *date_1662 *creator_moliere
 
 -*who_arnolphe
 Quoi ? l'astre qui s'obstine à me désespérer,
@@ -2212,7 +2212,7 @@ Que l'on me donne avis du piège qu'on me dresse,
 Et que cet étourdi qui veut m'être fatal,
 Fasse son confident de son propre Rival.
 
-**** *book_moliere_ecole-des-femmes *id_IV08 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV08 *act_IV *date_1662 *creator_moliere
 
 -*who_chrysalde
 Et bien souperons-nous avant la promenade ?
@@ -2221,7 +2221,7 @@ Et bien souperons-nous avant la promenade ?
 Non, je jeûne ce soir.
 
 -*who_chrysalde
-D'où vient cette boutade ?
+      D'où vient cette boutade ?
 
 -*who_arnolphe
 De grâce excusez-moi, j'ai quelque autre embarras.
@@ -2345,7 +2345,7 @@ Et l'on ne prendra pas votre avis là-dessus.
 Moi ! je serais cocu ?
 
 -*who_chrysalde
-Vous voilà bien malade,
+      Vous voilà bien malade,
 Mille gens le sont bien sans vous faire bravade ;
 Qui de mine, de cœur, de biens et de maison,
 Ne feraient avec vous nulle comparaison.
@@ -2356,7 +2356,7 @@ Mais cette raillerie en un mot m'importune :
 Brisons-là, s'il vous plaît.
 
 -*who_chrysalde
-Vous êtes en courroux,
+      Vous êtes en courroux,
 Nous en saurons la cause : Adieu souvenez-vous ;
 Quoique sur ce sujet votre honneur vous inspire,
 Que c'est être à demi ce que l'on vient de dire :
@@ -2366,7 +2366,7 @@ Que de vouloir jurer qu'on ne le sera pas.
 Moi ! je le jure encore, et je vais de ce pas,
 Contre cet accident trouver un bon remède.
 
-**** *book_moliere_ecole-des-femmes *id_IV09 *act_IV *date_1662 *creator_moliere
+**** *book_ *id_IV09 *act_IV *date_1662 *creator_moliere
 
 -*who_arnolphe
 Mes amis, c'est ici que j'implore votre aide,
@@ -2403,7 +2403,7 @@ Et si tous les Maris qui sont en cette Ville,
 De leurs Femmes ainsi recevaient le Galland,
 Le nombre des Cocus ne serait pas si grand.
 
-**** *book_moliere_ecole-des-femmes *id_V01 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1662 *creator_moliere
 
 -*who_arnolphe
 Traîtres, qu'avez-vous fait par cette violence ?
@@ -2425,7 +2425,7 @@ Comment dans ce malheur je me dois comporter.
 Hélas ! que deviendrai-je ? et que dira le père,
 Lors qu'inopinément il saura cette affaire ?
 
-**** *book_moliere_ecole-des-femmes *id_V02 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1662 *creator_moliere
 
 -*who_horace
 Il faut que j'aille un peu reconnaître qui c'est.
@@ -2437,15 +2437,15 @@ Eût-on jamais prévu… Qui va là ? s'il vous plaît.
 C'est vous, Seigneur Arnolphe.
 
 -*who_arnolphe
-Oui ; mais vous…
+      Oui ; mais vous…
 
 -*who_horace
-C'est Horace.
+      C'est Horace.
 Je m'en allais chez vous, vous prier d'une grâce.
 Vous sortez bien matin.
 
 -*who_arnolphe
-Quelle confusion !
+      Quelle confusion !
 Est-ce un enchantement ? est-ce une illusion ?
 
 -*who_horace
@@ -2550,7 +2550,7 @@ Et chez moi sans éclat je retourne soudain.
 Ah fortune ! ce trait d'aventure propice,
 Répare tous les maux que m'a faits ton caprice.
 
-**** *book_moliere_ecole-des-femmes *id_V03 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1662 *creator_moliere
 
 -*who_horace
 Ne soyez point en peine, où je vais vous mener,
@@ -2562,7 +2562,7 @@ Entrez dans cette porte, et laissez-vous conduire.
 Pourquoi me quittez-vous ?
 
 -*who_horace
-Chère Agnès, il le faut.
+      Chère Agnès, il le faut.
 
 -*who_agnes
 Songez donc, je vous prie, à revenir bientôt.
@@ -2596,22 +2596,22 @@ Suit le zèle prudent qui pour nous l'intéresse.
 Mais suivre un inconnu que…
 
 -*who_horace
-N'appréhendez rien,
+      N'appréhendez rien,
 Entre de telles mains vous ne serez que bien.
 
 -*who_agnes
 Je me trouverais mieux entre celles d'Horace.
 Et j'aurais…
-Attendez.
+      Attendez.
 
 -*who_horace
-Adieu, le jour me chasse.
+      Adieu, le jour me chasse.
 
 -*who_agnes
 Quand vous verrai-je donc ?
 
 -*who_horace
-Bientôt assurément.
+      Bientôt assurément.
 
 -*who_agnes
 Que je vais m'ennuyer jusques à ce moment !
@@ -2620,7 +2620,7 @@ Que je vais m'ennuyer jusques à ce moment !
 Grâce au Ciel, mon bonheur n'est plus en concurrence,
 Et je puis maintenant dormir en assurance.
 
-**** *book_moliere_ecole-des-femmes *id_V04 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1662 *creator_moliere
 
 -*who_arnolphe
 Venez, ce n'est pas là que je vous logerai,
@@ -2629,10 +2629,10 @@ Je prétends en lieu sûr mettre votre personne.
 Me connaissez-vous ?
 
 -*who_agnes
-Hay.
+      Hay.
 
 -*who_arnolphe
-Mon visage, Friponne,
+      Mon visage, Friponne,
 Dans cette occasion rend vos sens effrayés,
 Et c'est à contrecœur qu'ici vous me voyez ;
 Je trouble en ses projets l'amour qui vous possède,
@@ -2658,7 +2658,7 @@ Cherche à faire du mal à celui qui le flatte.
 Pourquoi me criez-vous ?
 
 -*who_arnolphe
-J'ai grand tort en effet.
+      J'ai grand tort en effet.
 
 -*who_agnes
 Je n'entend point de mal dans tout ce que j'ai fait.
@@ -2687,7 +2687,7 @@ Que de se marier il donne des désirs.
 Ah, c'est que vous l'aimez, traîtresse.
 
 -*who_agnes
-Oui je l'aime.
+      Oui je l'aime.
 
 -*who_arnolphe
 Et vous avez le front de le dire à moi-même ?
@@ -2699,7 +2699,7 @@ Et pourquoi s'il est vrai, ne le dirais-je pas ?
 Le deviez-vous aimer ? Impertinente.
 
 -*who_agnes
-Hélas !
+      Hélas !
 Est-ce que j'en puis mais ? lui seul en est la cause,
 Et je n'y songeais pas lorsque se fit la chose.
 
@@ -2720,19 +2720,19 @@ Il est vrai, j'ai sujet d'en être réjoui.
 Vous ne m'aimez donc pas à ce compte ?
 
 -*who_agnes
-Vous ?
+      Vous ?
 
 -*who_arnolphe
-Oui.
+      Oui.
 
 -*who_agnes
 Hélas, non.
 
 -*who_arnolphe
-Comment, non ?
+      Comment, non ?
 
 -*who_agnes
-Voulez-vous que je mente ?
+      Voulez-vous que je mente ?
 
 -*who_arnolphe
 Pourquoi ne m'aimer pas, Madame l'impudente ?
@@ -2786,7 +2786,7 @@ Vous fuyez l'ignorance, et voulez, quoi qu'il coûte,
 Apprendre du blondin quelque chose.
 
 -*who_agnes
-Sans doute,
+      Sans doute,
 C'est de lui que je sais ce que je puis savoir,
 Et beaucoup plus qu'à vous je pense lui devoir.
 
@@ -2852,7 +2852,7 @@ Et vous dénicherez à l'instant de la Ville ;
 Vous rebutez mes vœux, et me mettez à bout ;
 Mais un cul de Couvent me vengera de tout.
 
-**** *book_moliere_ecole-des-femmes *id_V05 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1662 *creator_moliere
 
 -*who_alain
 Je ne sais ce que c'est, Monsieur, mais il me semble
@@ -2868,7 +2868,7 @@ Et surtout gardez-vous de la quitter des yeux :
 Peut-être que son âme étant dépaysée
 Pourra de cet amour être désabusée.
 
-**** *book_moliere_ecole-des-femmes *id_V06 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1662 *creator_moliere
 
 -*who_horace
 Ah ! je viens vous trouver accablé de douleur,
@@ -2900,24 +2900,24 @@ De le dissuader de cette autre alliance.
 Ouida.
 
 -*who_horace
-Conseillez-lui de différer un peu,
+      Conseillez-lui de différer un peu,
 Et rendez en ami ce service à mon feu.
 
 -*who_arnolphe
 Je n'y manquerai pas.
 
 -*who_horace
-C'est en vous que j'espère.
+      C'est en vous que j'espère.
 
 -*who_arnolphe
 Fort bien.
 
 -*who_horace
-Et je vous tiens mon véritable père ;
+      Et je vous tiens mon véritable père ;
 Dites-lui que mon âge… ah ! je le vois venir,
 Écoutez les raisons que je vous puis fournir.
 
-**** *book_moliere_ecole-des-femmes *id_V07 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V07 *act_V *date_1662 *creator_moliere
 
 -*who_enrique
 Aussitôt qu'à mes yeux je vous ai vu paraître,
@@ -2948,7 +2948,7 @@ Oui, je vais vous servir de la bonne façon.
 Gardez encor un coup…
 
 -*who_arnolphe
-N'ayez aucun soupçon.
+      N'ayez aucun soupçon.
 
 -*who_oronte
 Ah ! que cette embrassade est pleine de tendresse.
@@ -2960,20 +2960,20 @@ Que je sens à vous voir une grande allégresse.
 Je suis ici venu…
 
 -*who_arnolphe
-Sans m'en faire récit,
+      Sans m'en faire récit,
 Je sais ce qui vous mène.
 
 -*who_oronte
-On vous l'a déjà dit.
+      On vous l'a déjà dit.
 
 -*who_arnolphe
 Oui.
 
 -*who_oronte
-Tant mieux.
+      Tant mieux.
 
 -*who_arnolphe
-Votre fils à cet hymen résiste,
+      Votre fils à cet hymen résiste,
 Et son cœur prévenu n'y voit rien que de triste,
 Il m'a même prié de vous en détourner ;
 Et moi tout le conseil que je vous puis donner,
@@ -3017,26 +3017,26 @@ Je sais ce que je fais, et dis ce qu'il faut dire.
 Oui, oui, Seigneur Arnolphe, il est…
 
 -*who_chrysalde
-Ce nom l'aigrit,
+      Ce nom l'aigrit,
 C'est Monsieur de la Souche, on vous l'a déjà dit.
 
 -*who_arnolphe
 Il n'importe.
 
 -*who_horace
-Qu'entends-je ?
+      Qu'entends-je ?
 
 -*who_arnolphe
-Oui c'est là le mystère,
+      Oui c'est là le mystère,
 Et vous pouvez juger ce que je devais faire.
 
 -*who_horace
 En quel trouble…
 
-**** *book_moliere_ecole-des-femmes *id_V08 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V08 *act_V *date_1662 *creator_moliere
 
 -*who_georgette
-Monsieur, si vous n'êtes auprès,
+      Monsieur, si vous n'êtes auprès,
 Nous aurons de la peine à retenir Agnès,
 Elle veut à tous coups s'échapper, et peut-être
 Qu'elle se pourrait bien jeter par la fenêtre.
@@ -3058,10 +3058,10 @@ J'y prends part, et déjà moi-même je m'en prie.
 -*who_oronte
 C'est bien notre dessein.
 
-**** *book_moliere_ecole-des-femmes *id_V09 *act_V *date_1662 *creator_moliere
+**** *book_ *id_V09 *act_V *date_1662 *creator_moliere
 
 -*who_arnolphe
-Venez, Belle, venez,
+      Venez, Belle, venez,
 Qu'on ne saurait tenir, et qui vous mutinez.
 Voici votre Galant, à qui pour récompense
 Vous pouvez faire une humble et douce révérence,
@@ -3078,7 +3078,7 @@ Je ne sais où j'en suis, tant ma douleur est forte.
 Allons, causeuse, allons.
 
 -*who_agnes
-Je veux rester ici.
+      Je veux rester ici.
 
 -*who_oronte
 Dites-nous ce que c'est que ce mystère-ci,
@@ -3089,7 +3089,7 @@ Avec plus de loisir je pourrai vous l'apprendre,
 Jusqu'au revoir.
 
 -*who_oronte
-Où donc prétendez-vous aller ?
+      Où donc prétendez-vous aller ?
 Vous ne nous parlez point, comme il nous faut parler.
 
 -*who_arnolphe
@@ -3097,7 +3097,7 @@ Je vous ai conseillé malgré tout son murmure,
 D'achever l'hyménée.
 
 -*who_oronte
-Oui, mais pour le conclure
+      Oui, mais pour le conclure
 Si l'on vous a dit tout, ne vous a-t-on pas dit
 Que vous avez chez vous celle dont il s'agit ?
 La fille qu'autrefois de l'aimable Angélique,
@@ -3111,7 +3111,7 @@ Je m'étonnais aussi de voir son procédé.
 Quoi…
 
 -*who_chrysalde
-D'un hymen secret ma sœur eut une fille,
+      D'un hymen secret ma sœur eut une fille,
 Dont on cacha le sort à toute la famille.
 
 -*who_oronte
@@ -3160,10 +3160,10 @@ Ne vous point marier en est le vrai moyen.
 Oh !
 
 -*who_oronte
-D'où vient qu'il s'enfuit sans rien dire ?
+      D'où vient qu'il s'enfuit sans rien dire ?
 
 -*who_horace
-Ah mon père
+      Ah mon père
 Vous saurez pleinement ce surprenant mystère.
 Le hasard en ces lieux avait exécuté
 Ce que votre sagesse avait prémédité.

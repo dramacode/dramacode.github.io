@@ -1,5 +1,5 @@
 ---
-identifier: boyer_mort  
+identifier: boyer_mort-demetrius  
 creator: Boyer, Claude  
 date: 1661  
 title: La Mort de Démétrius. Tragédie.  
@@ -981,7 +981,7 @@ Pourray-je voir enfin mon ingrate Princesse ?
 Vous la verrez bien-tost.  
 
     DEMETRIUS.
-Qu'on sorte,  ; qu'on me laisse ;  
+        Qu'on sorte,  ; qu'on me laisse ;  
 Et que nul n'entre icy que par un ordre exprés.  
 
 
@@ -993,14 +993,14 @@ DEMETRIUS, MILON, ARSINOÉ.
 La Reyne...  
 
     DEMETRIUS.
-Que veut-elle ?  
+    Que veut-elle ?  
 
     MILON.
-Elle me suit de prés,  
+        Elle me suit de prés,  
 La voicy.  
 
     DEMETRIUS *à Arsinoé.*
-Quoy, faut-il nous voir toûjours ensemble ?  
+        Quoy, faut-il nous voir toûjours ensemble ?  
 Je hay la jalousie,  ; cela luy [30] ressemble.  
 Quoy, toûjours sur mes pas, à toute heure, en tous lieux,  
 Les soûpirs à la bouche,  ; les larmes aux yeux,  
@@ -1089,12 +1089,12 @@ Si j'avois son pouvoir ainsi que sa colere...
 Mais enfin il est mort.  
 
     ARSINOÉ.
-Tant de sanglants⁎ mespris  
+        Tant de sanglants⁎ mespris  
 Me l'ont depuis trois mois cruellement apris :  
 S'il vivoit...  
 
     DEMETRIUS.
-S'il vivoit, cét orgueil qui menace,  
+        S'il vivoit, cét orgueil qui menace,  
 Quoy que tousjours injuste, auroit meilleure grace ;  
 Mais enfin il est mort,  ; vostre unique appuy  
 Et vostre unique espoir sont tombez avec luy.  
@@ -1173,31 +1173,31 @@ DEMETRIUS, MILON, GARDES.
 
 
     MILON.
-Seigneur...  
+    Seigneur...  
 
     DEMETRIUS.
-Helas !  
+    Helas !  
 
     MILON.
-Quoy ! ce grand coeur soupire ?  
+        Quoy ! ce grand coeur soupire ?  
 
     DEMETRIUS.
 Qu'on nous laisse icy seuls.  
 
     MILON.
-Gardes, qu'on se retire.  
+        Gardes, qu'on se retire.  
 Vous puis-je demander quel trouble, quel soucy...  
 
     DEMETRIUS.
 Alexandre revient.  
 
     MILON.
-Il est fort prés d'icy.  
+        Il est fort prés d'icy.  
 
     DEMETRIUS.
 Sçais-tu qu'il vient m'oster mon Sceptre  ; ma Princesse ?  
 
-    MILON. 
+    MILON.
 Craignez vous un Rival avec tant de foiblesse ?  
 Il revient par vostre ordre,  ; ce retour fatal⁎  
 Va mettre entre vos mains ce dangereux Rival.  
@@ -1314,7 +1314,7 @@ Tâchons donc de fléchir cet objet adorable.
 Mais la Reine...  
 
     DEMETRIUS.
-Tu sçais quel genereux dessein  
+        Tu sçais quel genereux dessein  
 Me força malgré moy de [46] luy donner la main :  
 Pour sauver mon Rival  ; ma chere Ismenie  
 J'épousay malgré moy la honte  ; l'infamie,  
@@ -1352,7 +1352,7 @@ Apres ce grand effort les pardonnerez-vous ?
 Vous ne répondez rien ?  
 
     ISMENIE.
-Que pourray-je vous dire ?  
+        Que pourray-je vous dire ?  
 Le Prince d'un malheur va tomber dans un pire ;  
 Je pleurois son exil,  ; ce triste retour  
 Plus que son exil mesme afflige mon amour,  
@@ -1417,7 +1417,7 @@ Faites à mon Rival un glorieux retour ;
 Mettez-le promptement au dessus de l'envie ;  
 Asseurez sur le Thrône  ; sa gloire  ; sa vie.  
 
-    ISMENIE. 
+    ISMENIE.
 Ah ! si vostre amitié pouvoit en sa faveur  
 Jusqu'à ce grand effort élever vostre coeur,  
 Qu'elle auroit à mes yeux de merite  ; de gloire !  
@@ -1551,7 +1551,7 @@ Mais mon amour ne peut luy quiter Ismenie [57].
 L'aimez-vous ?  
 
     MILON.
-Ouy, je l'aime,  ; je sens que mon coeur  
+        Ouy, je l'aime,  ; je sens que mon coeur  
 Par trop de retenüe a conceu plus d'ardeur.  
 Comme un brazier caché, ma passion secrete  
 Est d'autant plus pressante, importune, inquiete,  
@@ -1570,14 +1570,14 @@ Que tant de maux soufferts luy font naistre pour vous ?
 Quel est donc vostre espoir ?  
 
     MILON.
-Dans ma fureur extrême  
+        Dans ma fureur extrême  
 Je feray tout perir,  ; la Princesse mesme.  
 
     SELEUCUS.
 O Dieux !  
 
     MILON.
-Ton coeur s'étonne⁎,  ; tremble à ce discours.  
+        Ton coeur s'étonne⁎,  ; tremble à ce discours.  
 Mais sçais-tu l'ascendant des jalouses amours ?  
 J'adore un autre Dieu, que ce Dieu de tendresse  
 Qui remplit tous les coeurs de crainte  ; de foiblesse,  
@@ -1594,7 +1594,7 @@ Il faut aneantir ce qu'on ne peut avoir ;
 Mais je suis encor loin de ce malheur extrême,  
 J'ay du pouvoir assez pour avoir ce que j'aime.  
 
-    SELEUCUS. 
+    SELEUCUS.
 Milon, n'en croyez pas un desespoir jaloux ;  
 Servez le vray Monarque,  ; travaillez pour vous.  
 Pour faire nostre paix relevons sa puissance,  
@@ -1637,7 +1637,7 @@ Toy, va-t'en voir la Reyne,  ; pressant sa furie...
 Ah ! craignez...  
 
     MILON.
-Qu'ay-je à craindre en perdant Ismenie ?  
+        Qu'ay-je à craindre en perdant Ismenie ?  
 De grace, laisse moy mon conseil⁎ [58] : aujourd'huy  
 Mon trouble est trop puissant pour en prendre d'autruy.  
 Mais voicy nos Rivaux. Triste  ; jalouse flâme,  
@@ -1740,7 +1740,7 @@ D'une invincible horreur frape toûjours mes yeux.
 Doncques si vous m'aimez...  
 
     DEMETRIUS.
-Helas ! si je vous aime ?  
+        Helas ! si je vous aime ?  
 Dois-je enfin m'expliquer,  ; me trahir moy-mesme ?  
 Je tremble, je fremis,  ; mon coeur interdit...  
 
@@ -1748,7 +1748,7 @@ Je tremble, je fremis,  ; mon coeur interdit...
 Que me dit cette peur, ce desordre ?  
 
     DEMETRIUS.
-Il vous dit,  
+        Il vous dit,  
 Que cet amy si cher dont vous vantez le zele,  
 Est un amy sans coeur, un lâche, un infidelle,  
 Qui sous un faux éclat couvrant ses lâchetez...  
@@ -1768,7 +1768,7 @@ Dont vous avez tantost menacé ma tendresse.
 Ah ! Destins ennemis !  
 
     DEMETRIUS.
-Je ne vous diray pas  
+        Je ne vous diray pas  
 Combien pour n'aimer plus j'ay rendu de combats.  
 J'aurois par mes efforts brisé la tyrannie  
 De toute autre beauté que celle d'Ismenie,  
@@ -1805,13 +1805,13 @@ Avec elle donnez quelques pleurs à ma mort.
 Adieu.  
 
     MILON *bas.*
-Peut-on regner avec tant de foiblesse ?  
+        Peut-on regner avec tant de foiblesse ?  
 à Alexandre.
 
 Seigneur, souffrirez-vous...  
 
     ALEXANDRE.
-Suy ton Maistre,  ; me laisse [68].  
+        Suy ton Maistre,  ; me laisse [68].  
 
 
 ### SCENE III.
@@ -1977,7 +1977,7 @@ Des jours, que par vostre ordre il gardera pour vous.
 Quoy, me quitter si tost ?  
 
     ALEXANDRE.
-Peu sçachant ma venuë,  
+        Peu sçachant ma venuë,  
 Ma fuite cette nuit en sera moins connuë :  
 Un prompt depart faisant douter de mon retour,  
 Peut épargner un peu de honte à mon amour.  
@@ -1986,7 +1986,7 @@ Peut épargner un peu de honte à mon amour.
 Ah ! devoir trop cruel !  
 
     ALEXANDRE.
-Quoy, vous pleurez, Princesse ?  
+        Quoy, vous pleurez, Princesse ?  
 Adieu, je fuis des pleurs qui tentent ma tendresse,  
 Et vay dans mon exil attendre un sort plus doux,  
 Et du temps,  ; des Dieux,  ; plus encor de vous.  
@@ -2032,7 +2032,7 @@ Attendre un meilleur sort  ; du temps  ; des Dieux.
 Vous le suivre ? vous fuir ?  
 
     ISMENIE.
-Excuse ma foiblesse,  
+        Excuse ma foiblesse,  
 Voy les biens que je suis,  ; les maux que je laisse.  
 Un Roy m'aime en ces lieux, un Roy peut tout oser,  
 Et cette seule crainte a de quoy m'excuser ;  
@@ -2046,7 +2046,7 @@ Madame, oubliez-vous ce que vous vous devez ?
 Ou la fuite, ou la mort.  
 
     LAODICE.
-Fuyez donc,  ; vivez.  < Fin du second Acte. >
+        Fuyez donc,  ; vivez.  < Fin du second Acte. >
 
 
 ## ACTE III.
@@ -2129,7 +2129,7 @@ DEMETRIUS, TELAMON, MILON.
 
 
     DEMETRIUS.
-Que Seleucus le garde,  ; m'en réponde.  
+        Que Seleucus le garde,  ; m'en réponde.  
 
     MILON.
 Cette fuite, Seigneur, étonne tout le monde.  
@@ -2243,7 +2243,7 @@ Ce soupçon est injuste,  ; ta rage ennemie...
 Prenez-vous son party ?  
 
     DEMETRIUS.
-Je hay la calomnie.  
+        Je hay la calomnie.  
 
     MILON.
 Seigneur, la défiance est la vertu des Rois.  
@@ -2252,7 +2252,7 @@ Seigneur, la défiance est la vertu des Rois.
 Dy plûtost des Tyrans.  
 
     MILON.
-Vous en avez le choix ;  
+        Vous en avez le choix ;  
 Roy, Tyran, quelque nom que prenne un nouveau Maistre,  
 Il doit craindre toûjours quiconque a droit de l'estre ;  
 Pour bien regner, il faut craindre plus d'une fois ;  
@@ -2326,15 +2326,15 @@ ARSINOÉ, DEMETRIUS.
 Qu'entens-je !  
 
     DEMETRIUS, *sans voir Arsinoé.*
-C'en est fait ; je suivray ton envie ;  
+        C'en est fait ; je suivray ton envie ;  
 Perisse Arsinoé ; vive  ; regne Ismenie ;  
 Meure Alexandre.  
 
     ARSINOÉ.
-O Dieux !  
+    O Dieux !  
 
     DEMETRIUS.
-J'y consens sans regret :  
+        J'y consens sans regret :  
 à Arsinoé.
 
 Reviens [87]. Dieux ! osez-vous entrer dans mon secret ?  
@@ -2364,7 +2364,7 @@ Adieu, suivez mon ordre.
 ### SCENE V.
 
     ARSINOÉ, *seule.*
-Est-ce un charme, est-ce un songe,  
+        Est-ce un charme, est-ce un songe,  
 Qui dans une erreur folle,  ; m'entraîne,  ; me plonge ?  
 Le traistre a déjà fait un choix à son amour :  
 Celle que sa beauté fait regner dans ma Cour,  
@@ -2418,7 +2418,7 @@ D'en advertir le traistre, ou de te joindre à moy.
 O Dieux !  
 
     ARSINOÉ.
-Pour t'engager à suivre ma querelle⁎,  
+        Pour t'engager à suivre ma querelle⁎,  
 Ne t'imagine pas qu'en ce lieu je rapelle  
 Tant de bien-faits receus d'Artaban  ; de moy ;  
 Aux vrais hommes de Cour, aux hommes comme toy,  
@@ -2453,7 +2453,7 @@ Me faire des leçons d'honneur  ; de vertu ?
 Toy, l'amy d'Artaban...  
 
     MILON.
-Agreable colere !  
+        Agreable colere !  
 A ces marques en vous je connois [91] vostre pere [92].  
 Digne sang d'Artaban, pardonnez une horreur  
 Que j'ay feinte à dessein de sonder vostre coeur.  
@@ -2552,7 +2552,7 @@ MILON, SELEUCUS.
 
 
     MILON.
-Enfin nous tenons Alexandre.  
+        Enfin nous tenons Alexandre.  
 
     SELEUCUS.
 Confus,  ; dans son sort ne pouvant rien comprendre,  
@@ -2563,7 +2563,7 @@ Il n'est pas en estat de l'obtenir de moy.
 Et la Princesse ?  
 
     SELEUCUS.
-Helas ! triste  ; desesperée,  
+        Helas ! triste  ; desesperée,  
 Du Prince pour jamais se voyant separée,  
 Elle donne des pleurs au sort de son Amant.  
 
@@ -2668,10 +2668,10 @@ Hâte ce doux moment qui me rend ma Princesse ;
 Je crains...  
 
     SELEUCUS.
-Vous l'allez voir.  
+    Vous l'allez voir.  
 
     ALEXANDRE.
-Seleucus, je la voy.  
+        Seleucus, je la voy.  
 
 
 ### SCENE II.
@@ -2712,7 +2712,7 @@ Que nous tombions tous deux d'une chûte commune,
 DEMETRIUS [97].  
 
     ISMENIE.
-Voilà cet amy magnanime  
+        Voilà cet amy magnanime  
 Qu'on ne pouvoit quiter ny refuser sans crime,  
 Et pour qui vostre amour m'ose presque trahir.  
 
@@ -2761,7 +2761,7 @@ Resister est sur vous attirer sa disgrace,
 C'est perdre ce que j'aime.  
 
     ALEXANDRE.
-Et ne resister pas,  
+        Et ne resister pas,  
 C'est me donner cent morts pires que le trépas.  
 Me reserveriez-vous à ce malheur extrême  
 De voir à mon Rival posseder ce que j'aime,  
@@ -2779,7 +2779,7 @@ Parce qu'il vous est cher,  ; que je crains pour vous,
 Ne dois-je pas...  
 
     ALEXANDRE.
-Percez ce coeur de mille coups ;  
+        Percez ce coeur de mille coups ;  
 Adjoûtez ce reproche au mal qui me devore :  
 Ouy, je l'aimois, Princesse,  ; ce coeur l'aime encore ;  
 Quand j'ay veu les effets de sa triste amitié,  
@@ -2825,7 +2825,7 @@ Et je mourray pour vous en Victime d'amour.
 Ah ! vous ne mourrez point.  
 
     ALEXANDRE.
-Quel dessein est le vostre ?  
+        Quel dessein est le vostre ?  
 Puis-je vivre,  ; vous voir entre les bras d'un autre ?  
 Est-ce là le secours qu'on offre à mes douleurs ?  
 
@@ -2864,7 +2864,7 @@ Tu sçauras ce que peut un veritable amour [100].
 Quoy ? Madame...  
 
     ISMENIE.
-Obeïs, laisse-moy, vis,  ; m'aime.  
+        Obeïs, laisse-moy, vis,  ; m'aime.  
 
 
 ### SCENE IV.
@@ -2895,13 +2895,13 @@ Que voy-je ? Arsinoé ? Dieux, fuyons sa presence.
 Me fuyez-vous, Seigneur ?  
 
     ALEXANDRE.
-S'adresse-t'elle à moy,  
+        S'adresse-t'elle à moy,  
 La fille d'Artaban ?  
 
     ARSINOÉ.
-La femme de ton Roy.  
+        La femme de ton Roy.  
 
-    ALEXANDRE. 
+    ALEXANDRE.
 Ennemy des Tyrans, du Trône,  ; de ma flame,  
 J'abhorre également  ; sa fille  ; sa femme.  
 
@@ -2957,7 +2957,7 @@ Tout me semble permis, tout crime est sans horreur.
 O Dieux !  
 
     ARSINOÉ.
-Refusez-vous l'offre d'une ennemie ?  
+        Refusez-vous l'offre d'une ennemie ?  
 
     ALEXANDRE.
 Va porter loin de moy ta lâche perfidie [102] ;  
@@ -2984,13 +2984,13 @@ D'un si sensible affront je vangeray ma gloire ;
 Le Roy vient.  
 
     ARSINOÉ.
-Est-ce agir en homme genereux ?  
+        Est-ce agir en homme genereux ?  
 
     ALEXANDRE.
 Je sçay ce que je dois.  
 
     ARSINOÉ.
-O succez malheureux !  
+        O succez malheureux !  
 
 
 ### SCENE VI.
@@ -3005,17 +3005,17 @@ SELEUCUS.
 C'est le Prince  ; la Reyne.  
 
     DEMETRIUS.
-Evitons leur presence.  
+        Evitons leur presence.  
 
     ALEXANDRE.
 Demetrius, écoute un advis d'importance :  
 Arreste.  
 
     DEMETRIUS.
-Quel advis ?  
+    Quel advis ?  
 
     ARSINOÉ, *à Milon bas.*
-Il va tout dire au Roy.  
+        Il va tout dire au Roy.  
 
     ALEXANDRE.
 Malgré les traitemens que j'ay receus de toy,  
@@ -3032,7 +3032,7 @@ Va partir de la main dont tu l'attens le moins.
 Quoy ! vous me menacez ?  
 
     ALEXANDRE.
-Aprés ta violence,  
+        Aprés ta violence,  
 Ce n'est plus ton respect qui m'impose silence,  
 Et si d'autres motifs ne retenoient mon bras,  
 Alexandre trahy ne menaceroit pas.  
@@ -3068,7 +3068,7 @@ MILON.
 Ah ! Prince genereux !  
 
     MILON, *au Roy.*
-Orgueil insuportable !  
+        Orgueil insuportable !  
 
     DEMETRIUS.
 Mais plûtost, ô bonté qui sans cesse m'accable !  
@@ -3088,17 +3088,17 @@ Voy l'advis que m'en donne un Rival genereux.
     MILON.
 Vous laissez-vous corrompre à l'advis qu'il vous donne ?  
 
-    ARSINOÉ. 
+    ARSINOÉ.
 Quoy ! Seigneur ?  
 
     DEMETRIUS.
-Est-ce vous qu'il faut que je soupçonne ?  
+        Est-ce vous qu'il faut que je soupçonne ?  
 
     ARSINOÉ.
 Moy, grands Dieux ?  
 
     DEMETRIUS.
-L'innocente ! osez-vous démentir  
+        L'innocente ! osez-vous démentir  
 Le crime dont le Prince a voulu m'advertir ?  
 Dans ce soupçon mon ame est toute confirmée :  
 La frayeur dont tantost vous estiez alarmée,  
@@ -3146,7 +3146,7 @@ TELAMON, MILON.
 Seigneur.  
 
     DEMETRIUS.
-Viens achever mon dernier desespoir.  
+        Viens achever mon dernier desespoir.  
 
     TELAMON.
 La Princesse, Seigneur, se dispose à vous voir.  
@@ -3155,7 +3155,7 @@ La Princesse, Seigneur, se dispose à vous voir.
 Que dis-tu, Telamon ?  
 
     TELAMON.
-Je dis que la Princesse...  
+        Je dis que la Princesse...  
 
     DEMETRIUS.
 A ce nom, quel espoir, quelle prompte allegresse  
@@ -3207,10 +3207,10 @@ Sa vie à l'un ; l'autre est funeste ; fatale⁎ ;
 Allons, allons sur elle essayer nos fureurs.  
 
     MILON.
-Sur Ismenie ! ô Dieux !           
+Sur Ismenie ! ô Dieux !  
 
     ARSINOÉ.
-D'où viennent ces frayeurs ?  
+        D'où viennent ces frayeurs ?  
 
     MILON.
 Il faut auparavant se deffaire d'un traistre,  
@@ -3226,7 +3226,7 @@ Quoy ! faut-il d'un tel sang faire nostre victime ?
 Quel soudain repentir...  
 
     ARSINOÉ.
-Pardonne ce remors,  
+        Pardonne ce remors,  
 L'amour en expirant fait ses derniers efforts⁎ ;  
 Mais malgré cet amour je te livre une vie  
 Qui doit estre le prix de celle d'Ismenie :  
@@ -3240,7 +3240,7 @@ Allons tout préparer contre un couple infidelle.
 Je te répons de luy.  
 
     MILON.
-Moy, je vous répons d'elle.  < Fin du quatrième Acte. >
+        Moy, je vous répons d'elle.  < Fin du quatrième Acte. >
 
 
 ## ACTE V.
@@ -3258,7 +3258,7 @@ divers costez du Theatre [105].
 Ah ! Seigneur !  
 
     MILON.
-C'en est fait, Demetrius est mort.  
+        C'en est fait, Demetrius est mort.  
 Mais sçais-tu bien l'autheur de ce sanglant effort⁎ ?  
 Une fille à nos soins a dérobé sa vie.  
 
@@ -3266,7 +3266,7 @@ Une fille à nos soins a dérobé sa vie.
 O Dieux !  
 
     MILON.
-Le croiras-tu ? l'adorable Ismenie  
+        Le croiras-tu ? l'adorable Ismenie  
 Est l'instrument fatal d'un crime plein d'horreur,  
 D'un coup pour qui l'Enfer eust manqué de fureur.  
 On la tient ; mais c'est peu de se vanger sur elle :  
@@ -3278,7 +3278,7 @@ C'est luy seul, Seleucus, c'est luy qu'il faut punir.
 Mais, Seigneur...  
 
     MILON.
-Immolons cette grande victime.  
+        Immolons cette grande victime.  
 
     SELEUCUS.
 Sa fuite le dérobe aux peines de son crime.  
@@ -3287,7 +3287,7 @@ Sa fuite le dérobe aux peines de son crime.
 Que me dis-tu ? grands Dieux !  
 
     SELEUCUS.
-L'assassinat du Roy,  
+        L'assassinat du Roy,  
 La revolte du Peuple, un Palais plein d'effroy,  
 Ont fait à cette fuite un succez favorable.  
 
@@ -3329,7 +3329,7 @@ Sçache que c'est l'amour du Trône,  ; d'Ismenie.
 O Dieux !  
 
     MILON.
-A Seleucus je cache ma fureur  
+        A Seleucus je cache ma fureur  
 Pour faire agir son zéle avec plus de chaleur,  
 En croyant qu'Alexandre a part à ce grand crime.  
 Ne crains rien : mon dessein rend ce coup legitime.  
@@ -3398,7 +3398,7 @@ Vous devez craindre tout des fureurs de sa haine.
 Elle vient.  
 
     MILON.
-Ne crains rien d'un si foible transport.  
+        Ne crains rien d'un si foible transport.  
 
 
 ### SCENE III.
@@ -3432,7 +3432,7 @@ Mesle mon sang au sang que tu viens de répandre.
 Acheve enfin.  
 
     MILON.
-C'est trop par d'ingrates douleurs  
+        C'est trop par d'ingrates douleurs  
 Me reprocher un coup qui finit vos malheurs.  
 J'ay bien d'autres soucis au milieu des alarmes,  
 Sans ceux de condamner, ou combatre vos larmes ;  
@@ -3477,7 +3477,7 @@ ISMENIE, MILON.
 
 
     ISMENIE.
-Quel injuste pouvoir,  
+        Quel injuste pouvoir,  
 Quelle estrange licence aujourd'hui t'authorise  
 A te rendre en ces lieux maistre de ma franchise⁎ ?  
 
@@ -3488,7 +3488,7 @@ Demetrius est mort,  ; mort par vostre main.
 Par ma main, imposteur !  
 
     MILON.
-Vous le niez en vain ;  
+        Vous le niez en vain ;  
 Pour vos seuls interests jaloux de vostre gloire,  
 J'ay sauvé vostre main d'une action si noire,  
 Et pour vostre innocence obstiné contre tous,  
@@ -3550,7 +3550,7 @@ Prés des tourmens trembler,  ; me demander grace :
 Il ne sera plus temps.  
 
     ISMENIE.
-Menace,  ; fay le Roy ;  
+        Menace,  ; fay le Roy ;  
 Voilà le traitement que j'attendois de toy ;  
 Ce sont là tes douceurs ; l'injure  ; la menace  
 Dans la bouche d'un traistre ont bien meilleure grace :  
@@ -3588,7 +3588,7 @@ ISMENIE.
 
 
     TELAMON *tirant Milon à l'écart.*
-Ah ! Seigneur, Alexandre  
+        Ah ! Seigneur, Alexandre  
 A pour luy tout le monde, il est temps de se rendre.  
 Seleucus poursuivy d'un Peuple furieux,  
 S'est à peine en fuyant retiré dans ces lieux.  
@@ -3597,7 +3597,7 @@ S'est à peine en fuyant retiré dans ces lieux.
 O Dieux !  
 
     TELAMON.
-Fuyez, fuyez ; le Peuple  ; la Noblesse...  
+        Fuyez, fuyez ; le Peuple  ; la Noblesse...  
 
     MILON.
 Moy, fuïr, moy Fuïr du Trône,  ; quitter ma Princesse ?  
@@ -3636,7 +3636,7 @@ Le passage du Trône,  ; celuy de vos yeux.
 Qu'il vienne...  
 
     ISMENIE.
-Desarmé sur la foy d'un perfide,  
+        Desarmé sur la foy d'un perfide,  
 Qu'il vienne dans ces lieux sanglants d'un parricide ?  
 Songe, songe, Milon, à te déguiser mieux ;  
 Ma haine est éclairée, elle a de trop bons yeux.  
@@ -3648,17 +3648,17 @@ Quand je veux couronner mon vainqueur de ma main,
 Quand pour vous...  
 
     ISMENIE.
-C'est assez, je connois ton dessein,  
+        C'est assez, je connois ton dessein,  
 Ne te déguise plus.  
 
     MILON.
-Et bien, cessons de feindre,  
+        Et bien, cessons de feindre,  
 Puisque tu me connois, commence de me craindre,  
 Crains, orgueilleuse, crains mon desespoir jaloux,  
 J'aime, je hay, je regne.  
 
     TELAMON.
-Ah ! Seigneur, sauvez-vous,  
+        Ah ! Seigneur, sauvez-vous,  
 Fuyez, vostre fortune à ce point est reduite.  
 
     MILON.
@@ -3693,7 +3693,7 @@ MILON.
 Ah ! Seigneur.  
 
     MILON.
-Qu'est-ce enfin ? que me dit ce transport ?  
+        Qu'est-ce enfin ? que me dit ce transport ?  
 
     SELEUCUS.
 Vous triomphez malgré la malice du Sort.  
@@ -3759,7 +3759,7 @@ LAODICE, ISMENIE.
 
 
     LAODICE.
-Le Prince a la victoire,  
+        Le Prince a la victoire,  
 Et Milon en sortant a trouvé sur ses pas  
 Nos gens victorieux qui pressent ses soldats :  
 Il combat ; mais en vain, sa défaite est certaine.  
@@ -3768,7 +3768,7 @@ Il combat ; mais en vain, sa défaite est certaine.
 Quel favorable Dieu...  
 
     LAODICE.
-Le croiriez-vous ? la Reyne,  
+        Le croiriez-vous ? la Reyne,  
 Ouy, Madame, elle-mesme, ou plutost sa fureur  
 Vient d'ouvrir une porte aux armes du vainqueur.  
 
@@ -3776,7 +3776,7 @@ Vient d'ouvrir une porte aux armes du vainqueur.
 Comment ?  
 
     LAODICE.
-Contre Milon le coeur plein de vangeance,  
+        Contre Milon le coeur plein de vangeance,  
 Sçachant que son amour endormoit sa prudence,  
 Elle a gagné la Garde à force de bienfaits,  
 Et son ressentiment a livré le Palais.  
@@ -3804,7 +3804,7 @@ LAODICE.
 
 
     ALEXANDRE.
-Je vous revois aprés tant de malheurs.  
+        Je vous revois aprés tant de malheurs.  
 Qu'un court éloignement m'a coûté de douleurs !  
 Mon ame à vos perils fortement attachée,  
 De la mort d'un amy n'est qu'à demy touchée,  
@@ -3836,10 +3836,10 @@ LAODICE.
 Ah ! Madame.  
 
     ISMENIE.
-Qu'as-tu ?  
+    Qu'as-tu ?  
 
     DIOCLES.
-Milon percé de coups,  
+        Milon percé de coups,  
 Furieux vous demande,  ; ne cherche que vous.  
 Avec tant de succez sa fureur le seconde,  
 Qu'échapant comme aux mains, aux yeux de tout le monde,  
@@ -3847,10 +3847,10 @@ Par un secret détour il vient se rendre icy.
 Ah ! Seigneur, prévenez...  
 
     ALEXANDRE.
-Ne crains rien.  
+    Ne crains rien.  
 
     DIOCLES.
-Le voicy.  
+        Le voicy.  
 
 
 ### SCENE XI.

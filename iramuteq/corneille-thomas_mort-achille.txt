@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-2-1 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-201 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 PRINCE, n'en doutez point, je l'obtiendray d'Achille.
@@ -152,7 +152,7 @@ Madame, en ma faveur⁎ daignez luy protester...
 -*who_briseis
 Voyez qu'elle s'avance, il la faut écouter.
 
-**** *book_ *id_body-2-2 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-202 *act_ *date_1673 *creator_corneille
 
 -*who_polixene
 NE vous étonnez point si dans nostre infortune
@@ -194,7 +194,7 @@ La fille de Priam tomber à vos genoux,
 Voyez-là pour un Pere...
 
 -*who_briseis
-Ah, c'en est trop, Princesse,
+      Ah, c'en est trop, Princesse,
 Une tendre pitié dans vos maux m'intéresse⁎,
 Et je les envisage avecque tant d'effroy,
 Qu'en travaillant pour vous, je crois agir pour moy.
@@ -218,10 +218,10 @@ Cet obstacle levé, reglez la paix vous mesme,
 Elle dépend de vous.
 
 -*who_polixene
-De moy ?
+      De moy ?
 
 -*who_briseis
-Pyrrhus vous aime,
+      Pyrrhus vous aime,
 Agréez son hymen⁎, la guerre est sans retour.
 
 -*who_pyrrhus
@@ -281,10 +281,10 @@ De mon timide⁎ espoir peignez-luy le suplice.
 Par tout ce que vos feux⁎ ont pour luy de plus doux,
 Priez, pressez.
 
-**** *book_ *id_body-2-3 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-203 *act_ *date_1673 *creator_corneille
 
 -*who_polixene
-HÉLAS ! que luy demandez-vous ?
+      HÉLAS ! que luy demandez-vous ?
 Tremblez, Prince, tremblez au nom de Polixene,
 Laissez la ceder seule au destin qui l'entraîne,
 Et ne vous livrez point, sans l'avoir merité,
@@ -410,7 +410,7 @@ N'attendez rien pour moy qu'un sort affreux, terrible,
 Et pour vous consoler, en de si rudes coups⁎,
 Songez que si je meurs, je mourray toute à vous.
 
-**** *book_ *id_body-3-1 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-301 *act_ *date_1673 *creator_corneille
 
 -*who_alcime
 CE triomphe à tout autre eust esté difficile.
@@ -448,7 +448,7 @@ Les liens d'une paix qui doit toûjours durer.
 Vous aimez Polixene ?
 
 -*who_achille
-Ouy, je l'adore, Alcime,
+      Ouy, je l'adore, Alcime,
 L'amour que j'ay pour elle égale mon estime,
 Et de ma liberté l'entier engagement,
 A ses premiers regards n'a coûté qu'un moment.
@@ -481,7 +481,7 @@ A l'unique plaisir qui me puisse toucher.
 L'amour peut tout, Seigneur, mais...
 
 -*who_achille
-Je t'entens Alcime,
+      Je t'entens Alcime,
 Je quitte Briseis, tu vas m'en faire un crime.
 Il est vrai, Briseis m'aime avec tant d'ardeur
 Que ce coup⁎ impréveu luy percera⁎ le coeur,
@@ -523,7 +523,7 @@ Mais pour vous Polixene à vaincre est-elle aisée ?
 Soüillé du sang d'Hector...
 
 -*who_achille
-Son Ombre est appaisée,
+      Son Ombre est appaisée,
 Et le coup malheureux qui causa son trépas
 Fut un crime du Sort, & non pas de mon bras.
 Polixene oubliant cette triste⁎ victoire,
@@ -548,7 +548,7 @@ Le triomphe secret de m'avoir adoucy
 Luy fait naistre...
 
 -*who_alcime
-Seigneur, Briseis vient icy.
+      Seigneur, Briseis vient icy.
 
 -*who_achille
 Cache-luy mon secret, elle pourra l'apprendre
@@ -556,7 +556,7 @@ Du bruit qui dans le Camp doit bien-tost s'en répandre,
 Quand j'auray vû Priam, il faudra m'exposer
 A ce que sa douleur lui pourra faire oser.
 
-**** *book_ *id_body-3-2 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-302 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 SEIGNEUR, de mon amour ne blâmez point l'audace
@@ -594,7 +594,7 @@ Ce que pour ce dessein j'ay jugé necessaire.
 De la Grece offencée...
 
 -*who_briseis
-Il doit tout réparer,
+      Il doit tout réparer,
 Seigneur, & sçait de luy ce qu'on peut desirer,
 Ainsi de son côté ne craignez point d'obstacle.
 Mais d'un triomphe entier donnez-nous le spectacle,
@@ -630,12 +630,12 @@ Tout l'amour dont jamais une ame fut capable...
 Quoy, mon fils l'aime ?
 
 -*who_briseis
-Autant qu'il la connoit⁎ aimable,
+      Autant qu'il la connoit⁎ aimable,
 Les traits⁎ que dans son coeur son merite a tracez
 L'ont si bien penetré...
 
 -*who_achille
-Madame, c'est assez,
+      Madame, c'est assez,
 Quand de Pyrrhus Amant⁎ l'intérest vous amene,
 Il suffit que je sçay ce que vaut Polixene.
 Pour asseurer sa gloire & remplir⁎ vos souhaits
@@ -648,13 +648,13 @@ Cet Hymen⁎ aux Troyens asseure un sort si doux,
 Que Priam recevra...
 
 -*who_achille
-Je le croy comme vous,
+      Je le croy comme vous,
 Il voit pour luy la guerre en trop de maux fertile
 Pour oser dédaigner l'alliance d'Achille ;
 Voyez Pyrrhus, Madame, & me laissez resver
 A l'ouvrage important qu'il me faut achever.
 
-**** *book_ *id_body-3-3 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-303 *act_ *date_1673 *creator_corneille
 
 -*who_achille
 L'AS-TU bien entenduë, & conçois tu ma peine⁎,
@@ -699,7 +699,7 @@ Et si-tost qu'il sçaura que cet amour vous gesne⁎,
 Son respect...
 
 -*who_achille
-Non, Alcime, il a veu Polixene,
+      Non, Alcime, il a veu Polixene,
 Et ce charme⁎ attirant qui gagne tous les coeurs,
 Ne sçauroit inspirer de legeres ardeurs,
 J'en suis trop convaincu par mon experience,
@@ -731,7 +731,7 @@ Quoy que j'aye à souffrir, au moins pour ma vangeance...
 -*who_alcime
 Moderez ce transport⁎, le voicy qui s'advance.
 
-**** *book_ *id_body-3-4 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-304 *act_ *date_1673 *creator_corneille
 
 -*who_pyrrhus
 SEIGNEUR, Briseis vient de me faire sçavoir
@@ -772,17 +772,17 @@ Une Majesté douce, un air incomparable
 Soustient si noblement...
 
 -*who_achille
-Elle est sans doute aimable,
+      Elle est sans doute aimable,
 Mais...
 
 -*who_pyrrhus
-Seigneur, quelle joye à mon coeur enflâmé⁎
+      Seigneur, quelle joye à mon coeur enflâmé⁎
 Que vous rendiez justice au feu⁎ qui m'a charmé⁎ !
 Jugez dans quel excez il doit aller pour elle
 Quand son adveu⁎...
 
 -*who_achille
-La Grece attend tout de mon zéle,
+      La Grece attend tout de mon zéle,
 Il faudra dans l'Accord garder ses intérests.
 
 -*who_pyrrhus
@@ -790,7 +790,7 @@ A vous accorder tout les Troyens sont tous prests,
 Polixene me montre...
 
 -*who_achille
-Encor qu'intéressée,
+      Encor qu'intéressée,
 Elle peut de Priam ignorer la pensée.
 
 -*who_pyrrhus
@@ -802,7 +802,7 @@ Son coeur qui de mon feu⁎ partage la tendresse...
 Vous estes donc aimé ?
 
 -*who_pyrrhus
-Cette belle Princesse
+      Cette belle Princesse
 A qui par vostre adveu⁎ je me puis attacher,
 N'a pû voir mon amour sans s'en laisser toucher,
 C'est-là ce qui sur tout rend mon bon-heur extréme.
@@ -812,7 +812,7 @@ Allez, Prince, il suffit que je sçay qu'on vous aime,
 Je vay trouver Priam, & vous feray sçavoir
 Ce que Troye & les Dieux vous souffriront d'espoir.
 
-**** *book_ *id_body-3-5 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-305 *act_ *date_1673 *creator_corneille
 
 -*who_achille
 AH, de tous les malheurs le dernier & le pire !
@@ -888,7 +888,7 @@ Luy fera de l'amour un devoir necessaire.
 Allons trouver Priam, & sans plus balancer,
 Demandons un accord où je puis le forcer.
 
-**** *book_ *id_body-4-1 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-401 *act_ *date_1673 *creator_corneille
 
 -*who_antilochus
 OUY, Seigneur, le succez⁎ a suivy vostre attente,
@@ -903,14 +903,14 @@ Sa crainte combatoit l'espoir que j'avois pris,
 J'en croyois trop l'amour.
 
 -*who_antilochus
-Je n'en ay rien apris.
+      Je n'en ay rien apris.
 Seulement la nouvelle est au Camp répanduë
 Qu'Helene à Menelas par l'accord est renduë,
 Et qu'au sang de Priam celuy d'Achille uny
 Etouffe pour toûjours...
 
 -*who_pyrrhus
-O bon-heur infiny !
+      O bon-heur infiny !
 Enfin, Antilochus, contre toute apparence,
 Aprés de longs transports⁎ de haine & de vangeance,
 Aprés le corps d'Hector indignement traisné,
@@ -933,7 +933,7 @@ Rien ne pouvoit sans doute estre plus genereux⁎,
 Je dois à Briseis ce qui me rend heureux,
 Elle seule appuyant les intérests de Troye...
 
-**** *book_ *id_body-4-2 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1673 *creator_corneille
 
 -*who_pyrrhus
 AH, Seigneur, puis-je assez vous témoigner ma joye ?
@@ -943,7 +943,7 @@ Cette paix que ma flâme⁎ avoit tant souhaitée,
 M'asseure un bien si cher...
 
 -*who_achille
-Nous l'avons arrétée,
+      Nous l'avons arrétée,
 Et ce soir Polixene, en presence du Roy,
 Doit confirmer l'Accord par le don de sa foy.
 Au Temple d'Apollon déjà tout se prépare ;
@@ -990,7 +990,7 @@ Par ces tendres liens que le sang rend si doux,
 Par tout...
 
 -*who_achille
-Ma pitié, Prince, a combatu pour vous.
+      Ma pitié, Prince, a combatu pour vous.
 Mais en vain mes chagrins⁎ m'ont fait juger des vostres,
 Malgré vos intérests j'en ay dû prendre d'autres,
 Et doute qu'aisément on eust conclu la paix,
@@ -1037,7 +1037,7 @@ Le mien pour Polixene à tel point s'intéresse⁎,
 Que si...
 
 -*who_achille
-Vous souffrirez, Prince, je le confesse,
+      Vous souffrirez, Prince, je le confesse,
 Le revers⁎ est fâcheux⁎, mais j'ay beau le sçavoir,
 Ce que vous demandez n'est pas en mon pouvoir,
 Ce seroit vous flatte⁎ qu'en garder l'espérance.
@@ -1061,7 +1061,7 @@ J'appuyeray hautement le Rival qu'on menace,
 Et que si vostre main s'appreste à le percer⁎,
 C'est par moy, par mon sang qu'il faudra commencer.
 
-**** *book_ *id_body-4-3 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1673 *creator_corneille
 
 -*who_pyrrhus
 NON, de tous les malheurs le plus épouventable,
@@ -1097,7 +1097,7 @@ En vain contre le Fils il prend l'appuy du Pere,
 Rien n'échape aux fureurs⁎ d'un Amant⁎ qui perd tout,
 Et qui veut se vanger en vient toûjours à bout.
 
-**** *book_ *id_body-4-4 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 ET bien, nostre retraite est enfin résoluë,
@@ -1125,7 +1125,7 @@ Il luy cede l'Objet⁎ dont vostre ame est éprise ?
 Et quel est ce Rival ?
 
 -*who_pyrrhus
-On m'en a teu le nom,
+      On m'en a teu le nom,
 Mais en vain on me croit cacher Agamemnon,
 Il vous aimoit, Madame, & forcé de vous rendre
 Des traits⁎ de Polixene il n'a pû se défendre.
@@ -1144,7 +1144,7 @@ Il m'aime, soyez seur que je rompray la paix.
 Je sçay ce que je puis.
 
 -*who_pyrrhus
-Ah, c'en est trop, Madame,
+      Ah, c'en est trop, Madame,
 Tant de sang à verser fait horreur à ma flame⁎.
 Quoy qu'Achille pour vous fasse moins qu'il ne peut,
 Ne troublons point la paix, Polixene la veut,
@@ -1157,7 +1157,7 @@ J'auray soin de vanger la triste⁎ Polixene,
 Et mon lasche Rival à ses pieds immolé,
 Peut-estre me rendra le bien qu'il m'a volé.
 
-**** *book_ *id_body-4-5 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 QUE me dit-on, Princesse ? on trahit vostre flame⁎,
@@ -1225,7 +1225,7 @@ Que je vous voy souffrir l'inconstance d'Achille.
 Achille est inconstant ?
 
 -*who_pyrrhus
-Madame, Achille... Ah, Dieux ?
+      Madame, Achille... Ah, Dieux ?
 
 -*who_briseis
 Sur cet affreux revers⁎ je n'ose ouvrir les yeux.
@@ -1324,7 +1324,7 @@ J'en vay faire l'épreuve, & si mes foibles charmes⁎
 Font toûjours qu'à sa gloire il m'ose préferer,
 J'auray pour vous du sang prest à tout réparer.
 
-**** *book_ *id_body-4-6 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-406 *act_ *date_1673 *creator_corneille
 
 -*who_pyrrhus
 DE quelle dureté doit-il estre capable
@@ -1358,7 +1358,7 @@ Voyez Agamemnon, j'iray trouver Ulisse,
 Quelque paix qu'à Priam Achille ait pû jurer,
 S'ils sont tous deux pour nous, nous pouvons esperer.
 
-**** *book_ *id_body-5-1 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1673 *creator_corneille
 
 -*who_alcime
 SEIGNEUR, jamais Traité ne causa tant de joye,
@@ -1374,7 +1374,7 @@ Quand il perd malgré luy ce qu'il a de plus cher.
 Et nos Grecs ?
 
 -*who_alcime
-Diomede, Ulysse, Idomenée
+      Diomede, Ulysse, Idomenée
 En faveur⁎ de Pyrrhus blâment vôtre Hymenée⁎,
 Mais sans y mettre obstacle ; Agamemnon charmé⁎
 De nouveau s'abandonne à l'espoir d'estre aimé,
@@ -1383,7 +1383,7 @@ Il aime en ce projet ce qui le favorise.
 Tout est calme par tout.
 
 -*who_achille
-Alcime, quel bonheur
+      Alcime, quel bonheur
 Si ce calme empeschoit le trouble de mon coeur !
 Il a beau se livrer aux charmes⁎ qui l'attirent,
 Briseis & Pyrrhus tour à tour le déchirent,
@@ -1411,7 +1411,7 @@ Si de ses voeux contraints vous vous faites un crime,
 Il est, il est, Seigneur, encor temps...
 
 -*who_achille
-Non, Alcime ;
+      Non, Alcime ;
 J'ay beau voir quels malheurs en peuvent arriver,
 J'adore Polixene, & ne puis m'en priver.
 C'est mon destin. J'en suis le decret immuable.
@@ -1426,9 +1426,9 @@ Elle peut s'apprester à de nouveaux combats,
 Polixene paroist, Seigneur.
 
 -*who_achille
-Qu'elle a d'appas⁎ !
+      Qu'elle a d'appas⁎ !
 
-**** *book_ *id_body-5-2 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1673 *creator_corneille
 
 -*who_achille
 Madame, dans vos yeux je lis ce qui se passe,
@@ -1532,7 +1532,7 @@ Et que l'amour exprés l'un pour l'autre a formez.
 Vous vous reprocherez de vouloir...
 
 -*who_achille
-Non, Madame,
+      Non, Madame,
 Si j'avois de Pyrrhus authorisé la flame⁎
 Je me reprocherois la barbare rigueur
 De m'estre fait pour luy l'ennemy de mon coeur.
@@ -1611,7 +1611,7 @@ Madame, je m'éloigne, & n'ay rien à vous dire.
 Nous n'aurons pas si-tost la fin de nos malheurs,
 Tout s'arme contre nous, voyez-le par mes pleurs.
 
-**** *book_ *id_body-5-3 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 Enfin, il se peut donc qu'Achille me trahisse,
@@ -1749,7 +1749,7 @@ Il suffit que les Dieux soient ennemis du crime.
 Madame...
 
 -*who_briseis
-Envain sur toy l'on voudroit attenter,
+      Envain sur toy l'on voudroit attenter,
 Tu le crois, mais enfin, crains de te trop flater⁎.
 Ces Dieux dont le pouvoir t'a fait invulnérable
 Ne te protégent pas pour te rendre coupable,
@@ -1759,7 +1759,7 @@ Confus, desespéré, tu verras Polyxene,
 Quand ton sang coulera, triompher de ta peine⁎,
 L'image⁎ de Pyrrhus heureux par ton trépas...
 
-**** *book_ *id_body-5-4 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 TU me quittes cruel, & ne m'écoutes pas,
@@ -1782,7 +1782,7 @@ Un Trône dont le sort vous avoit fait descendre,
 De vos Estats perdus...
 
 -*who_briseis
-Tu me parles d'Estats.
+      Tu me parles d'Estats.
 Des plus vastes grandeurs joins les plus doux appas⁎,
 Rends-moy du monde entier la conqueste facile,
 En être Reyne, est moins que régner sur Achille.
@@ -1817,7 +1817,7 @@ Tâchons à reculer ce funeste Hymenée⁎.
 Ma douleur chez les Grecs trouvera du secours
 Si je puis de Priam obtenir quelques jours.
 
-**** *book_ *id_body-6-1 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1673 *creator_corneille
 
 -*who_polixene
 LAISSE, laisse ces soins, je m'en trouve gênée⁎,
@@ -1827,7 +1827,7 @@ On peut en cet estat la conduire à l'autel.
 Si Briseis pouvoit...
 
 -*who_ilione
-J'y voy peu d'espérance.
+      J'y voy peu d'espérance.
 Priam plaint de ces maux la dure violence,
 Il plaint le triste⁎ sort de Pyrrhus & de vous,
 Il soûpire, & voudroit vous faire grace à tous,
@@ -1851,7 +1851,7 @@ Falloit-il que le sang que tu dois conserver
 Me coûtast le repos dont tu me vas priver !
 Heureux ceux dont le fer mettant fin à leur peine⁎...
 
-**** *book_ *id_body-6-2 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1673 *creator_corneille
 
 -*who_polixene
 AH, Prince, quel sujet en ce lieu vous amene ?
@@ -1942,7 +1942,7 @@ Quand je vous parle enfin pour la derniere fois.
 Pour la derniére fois ?
 
 -*who_polixene
-Ouy, Prince, vostre veuë
+      Ouy, Prince, vostre veuë
 Par l'ennuy⁎ de vous perdre & m'accable & me tuë,
 Et pour joüir au moins de quelque ombre de paix
 Il faut que je consente à ne vous voir jamais.
@@ -1989,7 +1989,7 @@ Au de là du tombeau peuvent souffrir que j'aime,
 Ce coeur encor à vous, quoy qu'il m'en ait coûté,
 Ne cherchera jamais d'autre felicité.
 
-**** *book_ *id_body-6-3 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 JE n'ay rien gagné, Prince, & Troye est la plus forte,
@@ -2004,7 +2004,7 @@ Et je vois approcher l'épouvantable instant...
 Madame.
 
 -*who_polixene
-Cachez-moy le destin qui m'attend,
+      Cachez-moy le destin qui m'attend,
 Je m'y pers. Quelques maux où vous soyez plongée,
 Si je les ay causez, vous êtes bien vangée.
 Madame, je ne sçay si vous le concevez.
@@ -2014,7 +2014,7 @@ Pyrrhus... J'en dis trop, Prince, & vous en estes cause.
 Vous pour qui malgré moy je m'arreste en ce lieu,
 Oubliez-le, de grace, & pour jamais, adieu.
 
-**** *book_ *id_body-6-4 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1673 *creator_corneille
 
 -*who_pyrrhus
 ENFIN, Madame, il faut renoncer à la vie,
@@ -2051,7 +2051,7 @@ Ah, c'est peu que sa mort pour vanger cette injure,
 Inventons, s'il se peut, quelque peine⁎ plus dure,
 Qui lente à le punir ait toûjours le pouvoir...
 
-**** *book_ *id_body-6-5 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1673 *creator_corneille
 
 -*who_antilochus
 SEIGNEUR, la paix a mis Paris au desespoir.
@@ -2068,19 +2068,19 @@ Achille est en danger luy mesme de périr.
 De périr !
 
 -*who_pyrrhus
-Dieux ! Achille...
+      Dieux ! Achille...
 
 -*who_briseis
-Il y va de sa vie.
+      Il y va de sa vie.
 
 -*who_pyrrhus
 Adieu, Madame.
 
 -*who_briseis
-Allez où l'honneur vous convie,
+      Allez où l'honneur vous convie,
 Achille est en péril, courez l'en garantir.
 
-**** *book_ *id_body-6-6 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1673 *creator_corneille
 
 -*who_phenice
 VOILA comme l'amour ne se peut démentir.
@@ -2117,7 +2117,7 @@ Je ne m'asseure point sur ce qu'ont fait les Dieux,
 Paris suit contre Achille une fureur⁎ extréme,
 Et pour craindre sa perte il suffit que je l'aime.
 
-**** *book_ *id_body-6-7 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-607 *act_ *date_1673 *creator_corneille
 
 -*who_briseis
 PYRRHUS est-il au Temple, & le Ciel adoucy...
@@ -2134,13 +2134,13 @@ Achille qu'on croyoit estre au dessus du Sort,
 Achille...
 
 -*who_briseis
-Et bien Achille ?
+      Et bien Achille ?
 
 -*who_alcime
-Il est mort.
+      Il est mort.
 
 -*who_briseis
-Il est mort ?
+      Il est mort ?
 
 -*who_alcime
 Polixene déja vers le Temple conduite,
@@ -2186,13 +2186,13 @@ Aurois-tu crû le Ciel capable d'injustice ?
 Souffrir qu'Achille...
 
 -*who_phenice
-Il meurt, & sa mort vous abat,
+      Il meurt, & sa mort vous abat,
 Mais songez-vous qu'Achille estoit parjure, ingrat ?
 Que tout à Polixene, il n'aspiroit qu'à suivre
 Ce que l'amour pour elle...
 
 -*who_briseis
-Ah, que ne peut-il vivre,
+      Ah, que ne peut-il vivre,
 Quoy qu'une autre à mes yeux triomphast de sa foy,
 Je le verrois du moins, ce seroit tout pour moy,
 Le remords de ma perte & de son injustice
@@ -2221,7 +2221,7 @@ Dy luy qu'en la quittant, plein pour elle d'estime,
 Mon coeur de ses ennuis⁎...
 
 -*who_briseis
-N'acheve point, Alcime,
+      N'acheve point, Alcime,
 Et pour m'accabler moins, cache moy qu'en mourant
 Achille ait plaint l'amour que son malheur me rend,
 C'est enfoncer le trait où je sens la blessûre.

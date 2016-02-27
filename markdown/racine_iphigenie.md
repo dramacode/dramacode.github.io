@@ -1,8 +1,8 @@
 ---
-identifier: racine_iphigenie  
-creator: Racine  
+identifier: RACINE_IPHIGENIE  
+creator: RACINE, Jean  
 date: 1674  
-title: Iphigénie  
+title: IPHIGÉNIE, TRAGÉDIE.  
 ---
 
 
@@ -10,29 +10,19 @@ IPHIGÉNIE
 
 TRAGÉDIE
 
-M. DC. LXXV. AVEC PRIVILEGE DU ROI.
+M. DC. LXXV. AVEC PRIVILÈGE DU ROI.
 
 par Mr Racine
 
-
-Par grâce et privilège du roi, donné à Saint-Germain-en-Laye le vingt-huitème jour de janvier 1675, signé par le Roi en son conseil DALENCE, il est permis au sieur Racine, trésorier de France, de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de théâtre par lui composée, intitulé Iphigénie ; Tragédie : et ce pendant le temps et espace de dix années, avec défense à toute personne de quelque qualité ou condition qu'elle soient, d'en vendre ou d'en débiter aucun exemplaire, que de ceux qui auront été imprimés de son consentement, à peine de trois mille livres d'amende, confiscation des exemplaires, et autres peines, portées par le dit privilège.
-
-Le dit Sieur Racine a cédé le droit du dit privilège à Claude Barbin, pour en jouïr suivant le contenur en icelui.
-
-Registré sur le livre de la communauté
-
-À Paris chez Claude Barbin, au Palais, sur le second perron de la Sainte Chapelle.
-
-Représentée pour la première fois le 18 août 1674 à Versailles
-
-Représentée pour la premiuère fois en public à l'Hôtel de Bourgogne le 31 décenre 1674.
+Par grâce et privilège du roi, donné à Saint-Germain-en-Laye le vingt-huitième jour de janvier 1675, signé par le Roi en son conseil DALENCE, il est permis au sieur Racine, trésorier de France, de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de théâtre par lui composée, intitulé Iphigénie; Tragédie : et ce pendant le temps et espace de dix années, avec défense à toute personne de quelque qualité ou condition qu'elle soient, d'en vendre ou d'en débiter aucun exemplaire, que de ceux qui auront été imprimés de son consentement, à peine de trois mille livres d'amende, confiscation des exemplaires, et autres peines, portées par le dit privilège. Le dit Sieur Racine a cédé le droit du dit privilège à Claude Barbin, pour en jouir suivant le contenu en icelui. Registré sur le livre de la communautéÀ Paris chez Claude Barbin, au Palais, sur le second perron de la Sainte Chapelle.
+Représentée pour la première fois le 18 août 1674 à VersaillesReprésentée pour la premiuère fois en public à l'Hôtel de Bourgogne le 31 décembre 1674.
 
 
 # Préface
 
 Il n'y a rien de plus célèbre dans les poètes que le sacrifice d'Iphigénie. Mais ils ne s'accordent pas tous ensemble sur les plus importantes particularités de ce sacrifice. Les uns, comme Eschyle dans "Agamemnon", Sophocle dans "Electra", et après eux Lucrece, Horace, et beaucoup d'autres, veulent qu'on ait en effet répandu le sang d'Iphigénie fille d'Agamemnon, et qu'elle soit morte en Aulide. Il ne faut que lire Lucrece au commencement de son premier livre,
 Aulide quo pacto Triviaï Virginis aram  
-Iphianassaï turparunt sanguine fœdè  
+Iphianassaï turparunt sanguine foedè  
 Ductores ûm etc.  
 
 Et Clytemnestre dit dans Eschyle, qu'Agamemnon son mari qui vient d'expirer, rencontrera dans les Enfers Iphigénie sa fille qu'il a autrefois immolée.
@@ -43,9 +33,9 @@ Il y a une troisième opinion, qui n'est pas moins ancienne que les deux autres,
 
 Homère enfin le père des poètes a si peu prétendu qu'Iphigénie fille d'Agamemnon eut été ou sacrifiée en Aulide, ou transportée dans la Scythie, que dans le neuvième livre de l'Iliade, c'est à dire prés de dix ans depuis l'arrivée des Grecs devant Troie, Agamemnon fait offrir en mariage à Achille, sa fille Iphigénie, qu'il a, dit-il, laissée à Mycène dans sa maison.
 
-J'ai rapporté tous ces avis si différents, et surtout le passage de Pausanias, parce que c'est à cet Auteur que je dois l'heureux personnage d'Eriphile, sans lequel je n'aurais jamais osé entreprendre cette tragédie. Quelle apparence que j'eusse souillé la scène par le meurtre horrible d'une personne aussi vertueuse et aussi aimable qu'il fallait représenter Iphigénie ? Et quelle apparence encore de dénouer ma Tragédie par le secours d'une déesse et d'une machine, et par une métamorphose qui pouvait bien trouver quelque créance du temps d'Euripide, mais qui serait trop absurde et trop incroyable parmi nous ?
+J'ai rapporté tous ces avis si différents, et surtout le passage de Pausanias, parce que c'est à cet Auteur que je dois l'heureux personnage d'Eriphile, sans lequel je n'aurais jamais osé entreprendre cette tragédie. Quelle apparence que j'eusse souillé la scène par le meurtre horrible d'une personne aussi vertueuse et aussi aimable qu'il fallait représenter Iphigénie ? Et quelle apparence encore de dénouer ma Tragédie par le secours d'une déesse et d'une machine, et par une métamorphose qui pouvait bien trouver quelque créance du temps d'Euripide, mais qui serait trop absurde et trop incroyable parmi nous ?
 
-Je puis dire donc que j'ai été très heureux de trouver dans les Anciens cette autre Iphigénie, que j'ai pu représenter telle qu'il m'a plu, et qui tombant dans le malheur où cette amante jalouse voulait précipiter sa rivale, mérite en quelque façon d'être punie, sans être pourtant tout-à-fait indigne de compassion. Ainsi le dénouement de la pièce est tiré du fond même de la pièce. Et il ne faut que l'avoir vu représenter, pour comprendre quel plaisir j'ai fait au spectateur, et en sauvant à la fin une princesse vertueuse pour qui il s'est si fort interessé dans le cours de la tragédie, et en la sauvant par une autre voie que par un miracle, qu'il n'auroit pû souffrir, parce qu'il ne le saurait jamais croire.
+Je puis dire donc que j'ai été très heureux de trouver dans les Anciens cette autre Iphigénie, que j'ai pu représenter telle qu'il m'a plu, et qui tombant dans le malheur où cette amante jalouse voulait précipiter sa rivale, mérite en quelque façon d'être punie, sans être pourtant tout-à-fait indigne de compassion. Ainsi le dénouement de la pièce est tiré du fond même de la pièce. Et il ne faut que l'avoir vu représenter, pour comprendre quel plaisir j'ai fait au spectateur, et en sauvant à la fin une princesse vertueuse pour qui il s'est si fort intéressé dans le cours de la tragédie, et en la sauvant par une autre voie que par un miracle, qu'il n'aurait pu souffrir, parce qu'il ne le saurait jamais croire.
 
 Le voyage d'Achille à Lesbos, dont ce héros ce rend maître et d'où il enlève Eriphile avant que de venir en Aulide, n'est pas non plus sans fondement. Euphorion de Chalcide, poète très connu parmi les Anciens, et dont Virgile et Quintilien font une mention honorable, parlait de ce voyage de Lesbos. Il disait dans un de ses poèmes, au rapport de Parthenius, qu'Achille avait fait la conquête de cette île avant que de joindre l'armée des Grecs, et qu'il y avait même trouvé une princesse qui s'était éprise d'amour pour lui.
 
@@ -56,62 +46,60 @@ Je m'étonne après cela que des Modernes aient témoigné depuis peu tant de d�
 Il y a dans l'Alceste d'Euripide une scène merveilleuse, où Alceste qui se meurt et qui ne peut plus se soutenir, dit à son mari les derniers Adieux. Admete tout en larmes la prie de reprendre ses forces et de ne se point abandonner elle-même. Alceste qui a l'image de la mort devant les yeux, lui parle ainsi,
 Je vois déjà la rame, et la barque fatale.  
 J'entends le vieux Nocher sur la rive infernale.  
-Impatient il crie ; On t'attend ici bas,  
+Impatient il crie ; On t'attend ici bas,  
 Tout est prêt, descends, viens, ne me retarde pas.  
 
-J'aurais souhaité de pouvoir exprimer dans ces vers les grâces qu'ils ont dans l'original. Mais au moins en voilà le sens. Voici comme ces messieurs les ont entendus. Il leur est tombé entre les mains une malheureuse édition d'Euripide, où l'imprimeur a oublié de mettre dans le latin, à côté de ces vers un Al. qui signifie que c'est Alceste qui parle, et à côté des vers suivants un Ad. qui signifie que c'est Admete qui répond. Là dessus il leur est venu dans l'esprit la plus étrange pensée du monde. Ils ont mis dans la bouche d'Admete les paroles qu'Alceste dit à Admete, et celles qu'elle se fait dire par Charon. Ainsi ils supposent qu'Admete (quoiqu'il soit en parfaite santé) pense voir Charon qui le vient prendre. Et au lieu que dans ce passage d'Euripide, Charon impatient presse Alceste de le venir trouver ; selon ces Messieurs c'est Admete effrayé qui est l'impatient, et qui presse Alceste d'expirer de peur que Charon ne le prenne. Il l'exhorte,ce sont leurs termes, à avoir courage, à ne pas faire une lâcheté, et à mourir de bonne grâce, il interrompt les adieux d'Alceste pour lui dire de se dépêcher de mourir. Peu s'en faut à les entendre, qu'il ne la fasse mourir lui-même. Ce sentiment leur a paru fort vilain. Et ils ont raison. Il n'y a personne qui n'en fût très scandalisé. Mais comment l'ont-ils pu attribuer à Euripide ? En vérité, quand toutes les autres éditions où cet Al. n'a point été oublié, ne donneraient pas un démenti au malheureux Imprimeur qui les a trompés ; la suite de ces quatre vers et tous les discours qu'Admete tient dans le même scène, étaient plus que suffisants pour les empêcher de tomber dans une erreur si déraisonnable. Car Admete bien éloigné de presser Alceste de mourir, s'écrie "que toutes les morts ensemble lui seraient moins cruelles, que de la voir dans l'état où il la voit. Il la conjure de l'entraîner avec elle. Il ne peut plus vivre si elle meurt. Il vit en elle. Il ne respire que pour elle."
+J'aurais souhaité de pouvoir exprimer dans ces vers les grâces qu'ils ont dans l'original. Mais au moins en voilà le sens. Voici comme ces messieurs les ont entendus. Il leur est tombé entre les mains une malheureuse édition d'Euripide, où l'imprimeur a oublié de mettre dans le latin, à côté de ces vers un Al. qui signifie que c'est Alceste qui parle, et à côté des vers suivants un Ad. qui signifie que c'est Admete qui répond. Là dessus il leur est venu dans l'esprit la plus étrange pensée du monde. Ils ont mis dans la bouche d'Admete les paroles qu'Alceste dit à Admete, et celles qu'elle se fait dire par Charon. Ainsi ils supposent qu'Admete (quoiqu'il soit en parfaite santé) pense voir Charon qui le vient prendre. Et au lieu que dans ce passage d'Euripide, Charon impatient presse Alceste de le venir trouver ; selon ces Messieurs c'est Admete effrayé qui est l'impatient, et qui presse Alceste d'expirer de peur que Charon ne le prenne. Il l'exhorte,ce sont leurs termes, à avoir courage, à ne pas faire une lâcheté, et à mourir de bonne grâce, il interrompt les adieux d'Alceste pour lui dire de se dépêcher de mourir. Peu s'en faut à les entendre, qu'il ne la fasse mourir lui-même. Ce sentiment leur a paru fort vilain. Et ils ont raison. Il n'y a personne qui n'en fût très scandalisé. Mais comment l'ont-ils pu attribuer à Euripide ? En vérité, quand toutes les autres éditions où cet Al. n'a point été oublié, ne donneraient pas un démenti au malheureux Imprimeur qui les a trompés ; la suite de ces quatre vers et tous les discours qu'Admete tient dans le même scène, étaient plus que suffisants pour les empêcher de tomber dans une erreur si déraisonnable. Car Admete bien éloigné de presser Alceste de mourir, s'écrie "que toutes les morts ensemble lui seraient moins cruelles, que de la voir dans l'état où il la voit. Il la conjure de l'entraîner avec elle. Il ne peut plus vivre si elle meurt. Il vit en elle. Il ne respire que pour elle."
 
-Il ne sont pas plus heureux dans les autres objections. Ils disent, par exemple, qu'Euripide a fait deux époux surannés d'Admete et d'Alceste, que l'un est un vieux mari, et l'autre une princesse déjà sur l'âge. "Euripide a pris soin de leur répondre en un seul vers, où il fait dire par le Chœur, qu'Alceste toute jeune et dans la première fleur de son âge expire pour son jeune époux."
+Il ne sont pas plus heureux dans les autres objections. Ils disent, par exemple, qu'Euripide a fait deux époux surannés d'Admete et d'Alceste, que l'un est un vieux mari, et l'autre une princesse déjà sur l'âge. "Euripide a pris soin de leur répondre en un seul vers, où il fait dire par le Choeur, qu'Alceste toute jeune et dans la première fleur de son âge expire pour son jeune époux."
 
 Ils reprochent encore à Alceste qu'elle a deux grands enfants à marier. Comment n'ont-ils point lu le contraire en cent endroits, et surtout dans ce beau récit, "où l'on dépeint Alceste mourante au milieu de ses deux petits enfants qui la tirent en pleurant par la robe, et qu'elle prend sur ses bras l'un après l'autre pour les baiser."
 
-Tout le reste de leurs critiques est à peu près de la force de celles-ci. Mais je crois qu'en voilà assez pour la défense de mon auteur. Je conseille à ces messieurs de ne plus décider si légèrement sur les ouvrages des Anciens. Un homme tel qu'Euripide méritait au moins qu'ils l'examinassent puisqu'ils avaient envie de le condamner. Ils devaient se souvenir de ces sages paroles de Quitilien ; "Il faut être extrêmement circonspect et très retenu à prononcer sur les ouvrages de ces grands hommes, de peur qu'il ne nous arrive, comme à plusieurs, de condamner ce que nous n'entendons pas. Et s'il faut tomber dans quelque excès, encore vaut-il mieux pécher en admirant tout dans leurs écrits, qu'en y blâmant beaucoup de choses." Modestè tamen et circumspectio judicio de tantis viris pornuntiandum est, ne ( quod plerisque accedit ) damnent quae non intelligunt. Ac si necesse est in alteram errare partem, omnia eorum legentibus placere, quàm multa displicere paluerim.
+Tout le reste de leurs critiques est à peu près de la force de celles-ci. Mais je crois qu'en voilà assez pour la défense de mon auteur. Je conseille à ces messieurs de ne plus décider si légèrement sur les ouvrages des Anciens. Un homme tel qu'Euripide méritait au moins qu'ils l'examinassent puisqu'ils avaient envie de le condamner. Ils devaient se souvenir de ces sages paroles de Quitilien ; "Il faut être extrêmement circonspect et très retenu à prononcer sur les ouvrages de ces grands hommes, de peur qu'il ne nous arrive, comme à plusieurs, de condamner ce que nous n'entendons pas. Et s'il faut tomber dans quelque excès, encore vaut-il mieux pécher en admirant tout dans leurs écrits, qu'en y blâmant beaucoup de choses." Modestè tamen et circumspectio judicio de tantis viris pornuntiandum est, ne ( quod plerisque accedit ) damnent quae non intelligunt. Ac si necesse est in alteram errare partem, omnia eorum legentibus placere, quàm multa displicere paluerim.
 
 
 # ACTEURS
- – Agamemnon.
- – Achille.
- – Ulysse.
- – Clytemnestre, femme d'Agamemnon.
- – Iphigenie, fille d'Agamemnon.
- – Eriphile, fille d'Hélène et de Thésée.
- – Arcas, domestique d'Agamemnon.
- – Eurybate, domestique d'Agamemnon.
- – Aegine, femme de la suite de Clystemnestre.
- – Doris, confidente d'Ériphile.
- – Troupe de gardes.La scène est en Aulide, dans la tente d'Agamemnon. [1]
+ – AGAMEMNON.
+ – ACHILLE.
+ – ULYSSE.
+ – CLYTEMNESTRE, femme d'Agamemnon.
+ – IPHIGÉNIE, fille d'Agamemnon.
+ – ERIPHILE, fille d'Hélène et de Thésée.
+ – ARCAS, domestique d'Agamemnon.
+ – EURYBATE, domestique d'Agamemnon.
+ – AEGINE, femme de la suite de Clystemnestre.
+ – DORIS, confidente d'Ériphile.
+ – TROUPE DE GARDES.La scène est en Aulide, dans la tente d'Agamemnon. [1]
 
 
 # ACTE I
 
 
-## SCÈNE PREMIÈRE
-Agamemnon, Arcas.
+## SCÈNE PREMIÈRE. Agamemnon, Arcas.
 
-
-    AGAMEMNON
+    AGAMEMNON.
 Oui, c'est Agamemnon, c'est ton roi qui t'éveille.  
 Viens, reconnais la voix qui frappe ton oreille.  
 
-    ARCAS
-C'est vous-même, Seigneur ! quel important besoin  
-Vous a fait devancer l'aurore de si loin ?  
+    ARCAS.
+C'est vous-même, Seigneur ! quel important besoin  
+Vous a fait devancer l'aurore de si loin ?  
 À peine un faible jour vous éclaire et me guide.  
 Vos yeux seuls et les miens sont ouverts dans l'Aulide.  
-Avez-vous dans les airs entendu quelque bruit ?  
-Les vents nous auraient-ils exaucés cette nuit ?  
+Avez-vous dans les airs entendu quelque bruit ?  
+Les vents nous auraient-ils exaucés cette nuit ?  
 Mais tout dort, et l'armée, et les vents, et Neptune.  
 
-    AGAMEMNON
-Heureux ! Qui satisfait de son humble fortune,  
-Libre du joug superbe où je suis attaché,   [2]
-Vit dans l'état obscur où les dieux l'ont caché.  
+    AGAMEMNON.
+Heureux ! Qui satisfait de son humble fortune,  
+Libre du joug superbe où je suis attaché,  
+Vit dans l'état obscur où les dieux l'ont caché. [2]  
 
-    ARCAS
-Et depuis quand, Seigneur, tenez-vous ce langage ?  
+    ARCAS.
+Et depuis quand, Seigneur, tenez-vous ce langage ?  
 Comblé de tant d'honneurs, par quel secret outrage  
 Les dieux à vos désirs toujours si complaisants,  
-Vous font-ils méconnaître, et haïr leurs présents ?  
+Vous font-ils méconnaître, et haïr leurs présents ?  
 Roi, père, époux heureux, fils du puissant Atrée,  
 Vous possédez des Grecs la plus riche contrée.  
 Du sang de Jupiter issu de tous côtés,  
@@ -123,7 +111,7 @@ Veut dans Troie embrasée allumer le flambeau.
 Quelle gloire, Seigneur, quels triomphes égalent  
 Le spectacle pompeux que ces bords vous étalent,  
 Tous ces mille vaisseaux, qui chargés de vingt rois  
-N'attendent que les vents pour partir sous vos lois ?  
+N'attendent que les vents pour partir sous vos lois ?  
 Ce long calme, il est vrai, retarde vos conquêtes.  
 Ces vents depuis trois mois enchaînés sur nos têtes  
 D'Ilion trop longtemps vous ferment le chemin.  
@@ -131,18 +119,18 @@ Mais parmi tant d'honneurs vous êtes homme enfin.
 Tandis que vous vivrez, le sort qui toujours change,  
 Ne vous a point promis un bonheur sans mélange.  
 Bientôt... Mais quels malheurs dans ce billet tracés  
-Vous arrachent, Seigneur, les pleurs que vous versez ?  
-Votre Oreste au berceau va-t-il finir sa vie ?  
-Pleurez-vous Clystemnestre, ou bien Iphigénie ?  
-Qu'est ce qu'on vous écrit ? Daignez m'en avertir.  
+Vous arrachent, Seigneur, les pleurs que vous versez ?  
+Votre Oreste au berceau va-t-il finir sa vie ?  
+Pleurez-vous Clystemnestre, ou bien Iphigénie ?  
+Qu'est ce qu'on vous écrit ? Daignez m'en avertir.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Non, tu ne mourras point, je n'y puis consentir.  
 
-    ARCAS
+    ARCAS.
 Seigneur...  
 
-    AGAMEMNON
+    AGAMEMNON.
         Tu vois mon trouble. Apprends ce qui le cause,  
 Et juge s'il est temps, ami, que je repose.  
 Tu te souviens du jour qu'en Aulide assemblés  
@@ -157,8 +145,8 @@ Ce miracle inouï me fit tourner les yeux
 Vers la divinité qu'on adore en ces lieux.  
 Suivi de Ménélas, de Nestor, et d'Ulysse,  
 J'offris sur ses autels un secret sacrifice.  
-Quelle fut sa réponse ! et quel devins-je, Arcas,  
-Quand j'entendis ces mots prononcés par Calchas !  
+Quelle fut sa réponse ! et quel devins-je, Arcas,  
+Quand j'entendis ces mots prononcés par Calchas !  
 "Vous armez contre Troie une puissance vaine,  
 Si dans un sacrifice auguste et solennel  
 Une fille du sang d'Hélène  
@@ -166,30 +154,30 @@ De Diane en ces lieux n'ensanglante l'autel.
 Pour obtenir les vents que le ciel vous dénie,  
 Sacrifiez Iphigénie."  
 
-    ARCAS
-Votre fille !  
+    ARCAS.
+Votre fille !  
 
-    AGAMEMNON
+    AGAMEMNON.
         Surpris, comme tu peux penser,  
 Je sentis dans mon corps tout mon sang se glacer,  
 Je demeurai sans voix, et n'en repris l'usage,  
 Que par mille sanglots qui se firent passage.  
 Je condamnai les dieux, et sans plus rien ouïr,  
-Fis vœu sur leurs autels de leur désobéir.  
-Que n'en croyais-je alors ma tendresse alarmée ?  
+Fis voeu sur leurs autels de leur désobéir.  
+Que n'en croyais-je alors ma tendresse alarmée ?  
 Je voulais sur-le-champ congédier l'armée.  
 Ulysse en apparence approuvant mes discours,  
 De ce premier torrent laissa passer le cours.  
-Mais bientôt rappelant sa cruelle industrie,  
+Mais bientôt rappelant sa cruelle industrie, [3]  
 Il me représenta l'honneur et la patrie,  
 Tout ce peuple, ces rois à mes ordres soumis,  
 Et l'empire d'Asie à la Grèce promis.  
 De quel front immolant tout l'État à ma fille,  
-Roi sans gloire, j'irais vieillir dans ma famille !  
+Roi sans gloire, j'irais vieillir dans ma famille !  
 Moi-même ( je l'avoue avec quelque pudeur )  
 Charmé de mon pouvoir, et plein de ma grandeur,  
 Ces noms de roi des rois, et de chef de la Grèce  
-Chatouillaient de mon cœur l'orgueilleuse faiblesse.  
+Chatouillaient de mon coeur l'orgueilleuse faiblesse.  
 Pour comble de malheur, les dieux toutes les nuits,  
 Dès qu'un léger sommeil suspendait mes ennuis,  
 Vengeant de leurs autels le sanglant privilège,  
@@ -199,30 +187,30 @@ Le bras déjà levé, menaçaient mes refus.
 Je me rendis, Arcas, et vaincu par Ulysse,  
 De ma fille en pleurant j'ordonnai le supplice.  
 Mais des bras d'une mère il fallait l'arracher.  
-Quel funeste artifice il me fallut chercher !  
+Quel funeste artifice il me fallut chercher !  
 D'Achille, qui l'aimait, j'empruntai le langage,  
 J'écrivis en Argos, pour hâter ce voyage,  
 Que ce guerrier, pressé de partir avec nous,  
 Voulait revoir ma fille, et partir son époux.  
 
-    ARCAS
-Et ne craignez-vous point l'impatient Achille ?  
+    ARCAS.
+Et ne craignez-vous point l'impatient Achille ?  
 Avez-vous prétendu que muet, et tranquille  
 Ce héros, qu'armera l'amour et la raison,  
-Vous laisse pour ce meurtre abuser de son nom ?  
-Verra-t-il à ses yeux son amante immolée ?  
+Vous laisse pour ce meurtre abuser de son nom ?  
+Verra-t-il à ses yeux son amante immolée ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Achille était absent. Et son père Pélée,  
 D'un voisin ennemi redoutant les efforts,  
 L'avait, tu t'en souviens, rappelé de ces bords.  
 Et cette guerre, Arcas, selon toute apparence,  
 Aurait dû plus longtemps prolonger son absence.  
-Mais qui peut dans sa course arrêter ce torrent ?  
+Mais qui peut dans sa course arrêter ce torrent ?  
 Achille va combattre, et triomphe en courant.  
 Et ce vainqueur suivant de près sa renommée,  
 Hier avec la nuit arriva dans l'armée.  
-Mais des nœuds plus puissants me retiennent le bras.  
+Mais des noeuds plus puissants me retiennent le bras.  
 Ma fille qui s'approche, et court à son trépas,  
 Qui loin de soupçonner un arrêt si sévère,  
 Peut-être s'applaudit des bontés de son père,  
@@ -230,9 +218,9 @@ Ma fille... Ce nom seul dont les droits sont si saints,
 Sa jeunesse, mon sang, n'est pas ce que je plains.  
 Je plains mille vertus, une amour mutuelle,  
 Sa piété pour moi, ma tendresse pour elle,  
-Un respect, qu'en son cœur rien ne peut balancer,  
+Un respect, qu'en son coeur rien ne peut balancer,  
 Et que j'avais promis de mieux récompenser.  
-Non, je ne croirai point, ô ciel ! que ta justice  
+Non, je ne croirai point, ô ciel ! que ta justice  
 Approuve la fureur de ce noir sacrifice.  
 Tes oracles sans doute ont voulu m'éprouver,  
 Et tu me punirais si j'osais l'achever.  
@@ -242,12 +230,12 @@ La reine qui dans Sparte avait connu ta foi,
 T'a placé dans le rang que tu tiens près de moi.  
 Prends cette lettre. Cours au devant de la reine.  
 Et suis sans t'arrêter, le chemin de Mycènes.  
-Dès que tu la verras défends-lui d'avancer ;  
+Dès que tu la verras défends-lui d'avancer ;  
 Et rends-lui ce billet que je viens de tracer.  
 Mais ne t'écarte point. Prends un fidèle guide.  
 Si ma fille une fois met le pied dans l'Aulide,  
 Elle est morte. Calchas qui l'attend en ces lieux,  
-Fera taire nos pleurs, fera parler les dieux ;  
+Fera taire nos pleurs, fera parler les dieux ;  
 Et la religion contre nous irritée,  
 Par les timides Grecs sera seule écoutée.  
 Ceux même dont ma gloire aigrit l'ambition,  
@@ -271,64 +259,62 @@ Et qu'auprès de ma fille on garde dans Argos.
 C'est leur en dire assez. Le reste, il le faut taire.  
 Déjà le jour plus grand nous frappe et nous éclaire.  
 Déjà même l'on entre, et j'entends quelque bruit.  
-C'est Achille. Va, pars. Dieux ! Ulysse le suit.  
+C'est Achille. Va, pars. Dieux ! Ulysse le suit.  
 
 
-## SCÈNE II
-Agamemnon, Achille, Ulysse.
+## SCÈNE II. Agamemnon, Achille, Ulysse.
 
-
-    AGAMEMNON
-Quoi ! Seigneur, se peut-il que d'un cours si rapide  
-La victoire vous ait ramené dans l'Aulide ?  
-D'un courage naissant sont-ce là les essais ?  
-Quels triomphes suivront de si nobles succès !  
+    AGAMEMNON.
+Quoi ! Seigneur, se peut-il que d'un cours si rapide  
+La victoire vous ait ramené dans l'Aulide ?  
+D'un courage naissant sont-ce là les essais ?  
+Quels triomphes suivront de si nobles succès !  
 La Thessalie entière, ou vaincue, ou calmée,  
 Lesbos même conquise en attendant l'armée,  
 De toute autre valeur éternels monuments,  
 Ne sont d'Achille oisif que les amusements.  
 
-    ACHILLE
+    ACHILLE.
 Seigneur, honorez moins une faible conquête.  
 Et que puisse bientôt le ciel, qui nous arrête,  
-Ouvrir un champ plus noble à ce cœur excité  
+Ouvrir un champ plus noble à ce coeur excité  
 Par le prix glorieux dont vous l'avez flatté.  
 Mais cependant, Seigneur, que faut-il que je croie  
-D'un bruit qui me surprend, et me comble de joie ?  
-Daignez-vous avancer le succès de mes vœux ?  
-Et bientôt des mortels suis-je le plus heureux ?  
+D'un bruit qui me surprend, et me comble de joie ?  
+Daignez-vous avancer le succès de mes voeux ?  
+Et bientôt des mortels suis-je le plus heureux ?  
 On dit qu'Iphigénie en ces lieux amenée  
 Doit bientôt à son sort unir ma destinée.  
 
-    AGAMEMNON
-Ma fille ! qui vous dit qu'on la doit amener ?  
+    AGAMEMNON.
+Ma fille ! qui vous dit qu'on la doit amener ?  
 
-    ACHILLE
-Seigneur, qu'a donc ce bruit qui vous doive étonner ?  
+    ACHILLE.
+Seigneur, qu'a donc ce bruit qui vous doive étonner ?  
 
     AGAMEMNON, À ULYSSE.
-Juste ciel ! Saurait-il mon funeste artifice ?  
+Juste ciel ! Saurait-il mon funeste artifice ?  
 
-    ULYSSE
+    ULYSSE.
 Seigneur, Agamemnon s'étonne avec justice.  
-Songez-vous aux malheurs qui nous menacent tous ?  
-Ô ciel ! Pour un hymen quel temps choisissez-vous ?  
+Songez-vous aux malheurs qui nous menacent tous ?  
+Ô ciel ! Pour un hymen quel temps choisissez-vous ?  
 Tandis qu'à nos vaisseaux la mer toujours fermée  
 Trouble toute la Grèce, et consume l'armée,  
 Tandis que pour fléchir l'inclémence des dieux  
 Il faut du sang peut-être, et du plus précieux,  
-Achille seul, Achille à son amour s'applique ?  
+Achille seul, Achille à son amour s'applique ?  
 Voudrait-il insulter à la crainte publique,  
 Et que le chef des Grecs, irritant les destins,  
-Préparât d'un hymen la pompe et les festins ?  
-Ah Seigneur ! est-ce ainsi que votre âme attendrie  
-Plaint le malheur des Grecs, et chérit la patrie ?  
+Préparât d'un hymen la pompe et les festins ?  
+Ah Seigneur ! est-ce ainsi que votre âme attendrie  
+Plaint le malheur des Grecs, et chérit la patrie ?  
 
-    ACHILLE
+    ACHILLE.
 Dans les champs phrygiens les effets feront foi,  
 Qui la chérit le plus ou d'Ulysse ou de moi.  
 Jusque-là je vous laisse étaler votre zèle.  
-Vous pouvez à loisir faire des vœux pour elle.  
+Vous pouvez à loisir faire des voeux pour elle.  
 Remplissez les autels d'offrandes et de sang.  
 Des victimes vous-même interrogez le flanc.  
 Du silence des vents demandez-leur la cause.  
@@ -340,62 +326,62 @@ Je rejoindrai bientôt les Grecs sur cette rive.
 J'aurais trop de regret si quelque autre guerrier  
 Au rivage troyen descendait le premier.  
 
-    AGAMEMNON
-Ô ciel ! pourquoi faut-il que ta secrète envie  
-Ferme à de tels héros le chemin de l'Asie ?  
+    AGAMEMNON.
+Ô ciel ! pourquoi faut-il que ta secrète envie  
+Ferme à de tels héros le chemin de l'Asie ?  
 N'aurai-je vu briller cette noble chaleur,  
-Que pour m'en retourner avec plus de douleur !  
+Que pour m'en retourner avec plus de douleur !  
 
-    ULYSSE
-Dieux ! qu'est-ce que j'entends ?  
+    ULYSSE.
+Dieux ! qu'est-ce que j'entends ?  
 
-    ACHILLE
-        Seigneur, qu'osez-vous dire ?  
+    ACHILLE.
+        Seigneur, qu'osez-vous dire ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Qu'il faut, Princes, qu'il faut que chacun se retire,  
 Que d'un crédule espoir trop longtemps abusés,  
 Nous attendons les vents, qui nous sont refusés.  
 Le ciel protège Troie. Et par trop de présages  
 Son courroux nous défend d'en chercher les passages.  
 
-    ACHILLE
-Quels présages affreux nous marquent son courroux ?  
+    ACHILLE.
+Quels présages affreux nous marquent son courroux ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Vous-même consultez ce qu'il prédit de vous.  
-Que sert de se flatter ? On sait qu'à votre tête  
+Que sert de se flatter ? On sait qu'à votre tête  
 Les dieux ont d'Ilion attaché la conquête.  
 Mais on sait que pour prix d'un triomphe si beau  
 Ils ont aux champs troyens marqué votre tombeau,  
 Que votre vie ailleurs et longue, et fortunée,  
 Devant Troie en sa fleur doit être moissonnée.  
 
-    ACHILLE
+    ACHILLE.
 Ainsi pour vous venger tant de rois assemblés  
 D'un opprobre éternel retourneront comblés.  
 Et Pâris couronnant son insolente flamme  
-Retiendra sans péril la sœur de votre femme.  
+Retiendra sans péril la soeur de votre femme.  
 
-    AGAMEMNON
-Hé quoi ! votre valeur, qui nous a devancés,  
-N'a-t-elle pas pris soin de nous venger assez ?  
+    AGAMEMNON.
+Hé quoi ! votre valeur, qui nous a devancés,  
+N'a-t-elle pas pris soin de nous venger assez ?  
 Les malheurs de Lesbos par vos mains ravagée  
-Épouvantent encor toute la mer Égée.  
+Épouvantent encor toute la mer Égée. [4]  
 Troie en a vu la flamme. Et jusque dans ses ports  
 Les flots en ont poussé le débris et les morts.  
-Que dis-je ? Les Troyens pleurent une autre Hélène,  
+Que dis-je ? Les Troyens pleurent une autre Hélène,  
 Que vous avez captive envoyée à Mycènes.  
 Car je n'en doute point, cette jeune beauté  
 Garde en vain un secret que trahit sa fierté,  
 Et son silence même accusant sa noblesse,  
 Nous dit qu'elle nous cache une illustre princesse.  
 
-    ACHILLE
+    ACHILLE.
 Non, non, tous ces détours sont trop ingénieux.  
 Vous lisez de trop loin dans le secret des dieux.  
-Moi, je m'arrêterais à de vaines menaces ?  
-Et je fuirais l'honneur qui m'attend sur vos traces ?  
+Moi, je m'arrêterais à de vaines menaces ?  
+Et je fuirais l'honneur qui m'attend sur vos traces ?  
 Les Parques à ma mère, il est vrai, l'ont prédit,  
 Lorsqu'un époux mortel fut reçu dans son lit.  
 Je puis choisir, dit-on, ou beaucoup d'ans, sans gloire,  
@@ -405,47 +391,45 @@ Voudrais-je, de la terre inutile fardeau,
 Trop avare d'un sang reçu d'une déesse,  
 Attendre chez mon père une obscure vieillesse,  
 Et toujours de la gloire évitant le sentier,  
-Ne laisser aucun nom, et mourir tout entier ?  
-Ah ! Ne nous formons point ces indignes obstacles.  
+Ne laisser aucun nom, et mourir tout entier ?  
+Ah ! Ne nous formons point ces indignes obstacles.  
 L'honneur parle, il suffit, ce sont là nos oracles.  
 Les dieux sont de nos jours les maîtres souverains.  
 Mais, Seigneur, notre gloire est dans nos propres mains.  
-Pourquoi nous tourmenter de leurs ordres suprêmes ?  
+Pourquoi nous tourmenter de leurs ordres suprêmes ?  
 Ne songeons qu'à nous rendre immortels comme eux-mêmes,  
 Et laissant faire au sort, courons où la valeur  
 Nous promet un destin aussi grand que le leur.  
 C'est à Troie, et j'y cours. Et quoi qu'on me prédise,  
 Je ne demande aux dieux, qu'un vent qui m'y conduise.  
 Et quand moi seul enfin il faudrait l'assiéger,  
-Patrocle et moi, Seigneur, nous irons vous venger.  
+Patrocle et moi, Seigneur, nous irons vous venger. [5]  
 Mais non, c'est en vos mains que le destin la livre.  
 Je n'aspire en effet qu'à l'honneur de vous suivre.  
 Je ne vous presse plus d'approuver les transports  
-D'un amour, qui m'allait éloigner de ces bords :  
+D'un amour, qui m'allait éloigner de ces bords :  
 Ce même amour soigneux de votre renommée,  
 Veut qu'ici mon exemple encourage l'armée,  
 Et me défend surtout de vous abandonner  
 Aux timides conseils qu'on ose vous donner.  
 
 
-## SCÈNE III
-Agamemnon, Ulysse.
+## SCÈNE III. Agamemnon, Ulysse.
 
-
-    ULYSSE
+    ULYSSE.
 Seigneur, vous entendez. Quelque prix qu'il en coûte,  
 Il veut voler à Troie et poursuivre sa route.  
 Nous craignions son amour. Et lui-même aujourd'hui  
 Par une heureuse erreur nous arme contre lui.  
 
-    AGAMEMNON
-Hélas !  
+    AGAMEMNON.
+Hélas !  
 
-    ULYSSE
-        De ce soupir que faut-il que j'augure ?  
-Du sang qui se révolte est-ce quelque murmure ?  
-Croirai-je qu'une nuit a pu vous ébranler ?  
-Est-ce donc votre cœur qui vient de nous parler ?  
+    ULYSSE.
+        De ce soupir que faut-il que j'augure ?  
+Du sang qui se révolte est-ce quelque murmure ?  
+Croirai-je qu'une nuit a pu vous ébranler ?  
+Est-ce donc votre coeur qui vient de nous parler ?  
 Songez-y. Vous devez votre fille à la Grèce,  
 Vous nous l'avez promise. Et sur cette promesse  
 Calchas par tous les Grecs consulté chaque jour  
@@ -453,23 +437,23 @@ Leur a prédit des vents l'infaillible retour.
 À ses prédictions si l'effet est contraire,  
 Pensez-vous que Calchas continue à se taire,  
 Que ses plaintes, qu'en vain vous voudrez apaiser,  
-Laissent mentir les dieux, sans vous en accuser ?  
+Laissent mentir les dieux, sans vous en accuser ?  
 Et qui sait ce qu'aux Grecs frustrés de leur victime  
-Peut permettre un courroux, qu'ils croiront légitime ?  
+Peut permettre un courroux, qu'ils croiront légitime ?  
 Gardez-vous de réduire un peuple furieux,  
 Seigneur, à prononcer entre vous, et les dieux.  
 N'est-ce pas vous enfin, de qui la voix pressante  
-Nous a tous appelés aux campagnes du Xante ?  
+Nous a tous appelés aux campagnes du Xanthe ? [6]  
 Et qui de ville en ville attestiez les serments  
 Que d'Hélène autrefois firent tous les amants,  
 Quand presque tous les Grecs, rivaux de votre frère  
-La demandaient en foule à Tyndare son père ?  
+La demandaient en foule à Tyndare son père ?  
 De quelque heureux époux que l'on dût faire choix,  
-Nous jurâmes dès lors de défendre ses droits ;  
+Nous jurâmes dès lors de défendre ses droits ;  
 Et si quelque insolent lui volait sa conquête,  
 Nos mains du ravisseur lui promirent la tête.  
 Mais sans vous, ce serment que l'amour a dicté,  
-Libres de cet amour, l'aurions-nous respecté ?  
+Libres de cet amour, l'aurions-nous respecté ?  
 Vous seul nous arrachant à de nouvelles flammes  
 Nous avez fait laisser nos enfants et nos femmes.  
 Et quand de toutes parts assemblés en ces lieux,  
@@ -479,42 +463,40 @@ Vous reconnaît l'auteur de ce fameux ouvrage,
 Que ses rois qui pouvaient vous disputer ce rang,  
 Sont prêts pour vous servir de verser tout leur sang,  
 Le seul Agamemnon refusant la victoire,  
-N'ose d'un peu de sang acheter tant de gloire ?  
+N'ose d'un peu de sang acheter tant de gloire ?  
 Et dès le premier pas se laissant effrayer,  
-Ne commande les Grecs, que pour les renvoyer ?  
+Ne commande les Grecs, que pour les renvoyer ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Ah, Seigneur, qu'éloigné du malheur qui m'opprime  
-Votre cœur aisément se montre magnanime !  
+Votre coeur aisément se montre magnanime !  
 Mais que si vous voyiez ceint du bandeau mortel  
-Votre fils Télémaque va pprocher de l'autel,  
+Votre fils Télémaque approcher de l'autel,  
 Nous vous verrions troublé de cette affreuse image  
 Changer bientôt en pleurs ce superbe langage,  
 Éprouver la douleur que j'éprouve aujourd'hui,  
-Et courir vous jeter entre Calchas et lui !  
+Et courir vous jeter entre Calchas et lui !  
 Seigneur, vous le savez, j'ai donné ma parole,  
-Et si ma fille vient, je consens qu'on l'immole ;  
+Et si ma fille vient, je consens qu'on l'immole ;  
 Mais malgré tous mes soins si son heureux destin  
 La retient dans Argos, ou l'arrête en chemin,  
 Souffrez que sans presser ce barbare spectacle,  
 En faveur de mon sang j'explique cet obstacle,  
 Que j'ose pour ma fille accepter le secours  
 De quelque dieu plus doux qui veille sur ses jours.  
-Vos conseils sur mon cœur n'ont eu que trop d'empire ;  
+Vos conseils sur mon coeur n'ont eu que trop d'empire ;  
 Et je rougis...  
 
 
-## SCÈNE IV
-Agamemnon, Ulysse, Eurybate.
+## SCÈNE IV. Agamemnon, Ulysse, Eurybate.
 
+    EURYBATE.
+    Seigneur...  
 
-    EURYBATE
-        Seigneur...  
+    AGAMEMNON.
+        Ah ! Que vient-on me dire ?  
 
-    AGAMEMNON
-        Ah ! Que vient-on me dire ?  
-
-    EURYBATE
+    EURYBATE.
 La reine, dont ma course a devancé les pas,  
 Va remettre bientôt sa fille entre vos bras.  
 Elle approche. Elle s'est quelque temps égarée  
@@ -522,10 +504,10 @@ Dans ces bois, qui du camp semblent cacher l'entrée.
 À peine nous avons dans leur obscurité  
 Retrouvé le chemin que nous avions quitté.  
 
-    AGAMEMNON
-Ciel !  
+    AGAMEMNON.
+Ciel !  
 
-    EURYBATE
+    EURYBATE.
         Elle amène aussi cette jeune Ériphile,  
 Que Lesbos a livrée entre les mains d'Achille,  
 Et qui de son destin, qu'elle ne connaît pas,  
@@ -533,7 +515,7 @@ Vient, dit-elle, en Aulide interroger Calchas.
 Déjà de leur abord la nouvelle est semée,  
 Et déjà de soldats une foule charmée,  
 Surtout d'Iphigénie admirant la beauté,  
-Pousse au ciel mille vœux pour sa félicité.  
+Pousse au ciel mille voeux pour sa félicité.  
 Les uns avec respect environnaient la reine,  
 D'autres me demandaient le sujet qui l'amène.  
 Mais tous ils confessaient, que si jamais les dieux  
@@ -541,33 +523,31 @@ Ne mirent sur le trône un roi plus glorieux,
 Également comblé de leurs faveurs secrètes,  
 Jamais père ne fut plus heureux que vous l'êtes.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Eurybate, il suffit. Vous pouvez nous laisser.  
 Le reste me regarde et je vais y penser.  
 
 
-## SCÈNE V
-Agamemnon, Ulysse.
+## SCÈNE V. Agamemnon, Ulysse.
 
-
-    AGAMEMNON
+    AGAMEMNON.
 Juste ciel, c'est ainsi qu'assurant ta vengeance  
-Tu romps tous les ressorts de ma vaine prudence !  
+Tu romps tous les ressorts de ma vaine prudence !  
 Encor si je pouvais, libre dans mon malheur,  
-Par des larmes au moins soulager ma douleur !  
-Triste destin des rois ! esclaves que nous sommes  
+Par des larmes au moins soulager ma douleur !  
+Triste destin des rois ! esclaves que nous sommes  
 Et des rigueurs du sort, et des discours des hommes.  
 Nous nous voyons sans cesse assiégés de témoins,  
 Et les plus malheureux osent pleurer le moins.  
 
-    ULYSSE
+    ULYSSE.
 Je suis père, Seigneur. Et faible comme un autre,  
-Mon cœur se met sans peine en la place du vôtre,  
+Mon coeur se met sans peine en la place du vôtre,  
 Et frémissant du coup qui vous fait soupirer,  
 Loin de blâmer vos pleurs, je suis prêt de pleurer.  
 Mais votre amour n'a plus d'excuse légitime.  
 Les dieux ont à Calchas amené leur victime.  
-Il le sait, il l'attend : et s'il la voit tarder,  
+Il le sait, il l'attend : et s'il la voit tarder,  
 Lui-même à haute voix viendra la demander.  
 Nous sommes seuls encor. Hâtez-vous de répandre  
 Des pleurs que vous arrache un intérêt si tendre.  
@@ -582,7 +562,7 @@ Dans cette même Aulide avec vous retournées,
 Et ce triomphe heureux, qui s'en va devenir  
 L'éternel entretien des siècles à venir.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Seigneur, de mes efforts je connais l'impuissance.  
 Je cède, et laisse aux dieux opprimer l'innocence,  
 La victime bientôt marchera sur vos pas,  
@@ -594,41 +574,39 @@ Laissez-moi de l'autel écarter une mère.
 # ACTE II
 
 
-## SCÈNE PREMIÈRE
-Eriphile, Doris.
+## SCÈNE PREMIÈRE. Eriphile, Doris.
 
-
-    ERIPHILE
+    ERIPHILE.
 Ne les contraignons point, Doris, retirons-nous,  
 Laissons-les dans les bras d'un père et d'un époux,  
 Et tandis qu'à l'envi leur amour se déploie,  
 Mettons en liberté ma tristesse et leur joie.  
 
-    DORIS
-Quoi, Madame ! toujours irritant vos douleurs,  
-Croirez-vous ne plus voir que des sujets de pleurs ?  
+    DORIS.
+Quoi, Madame ! toujours irritant vos douleurs,  
+Croirez-vous ne plus voir que des sujets de pleurs ?  
 Je sais que tout déplaît aux yeux d'une captive,  
 Qu'il n'est point dans les fers de plaisir qui la suive.  
 Mais dans le temps fatal que repassant les flots  
-Nous suivions malgré nous le vainqueur de Lesbos,  
+Nous suivions malgré nous le vainqueur de Lesbos, [7]  
 Lorsque dans son vaisseau prisonnière timide  
 Vous voyiez devant vous ce vainqueur homicide,  
-Le dirai-je ? Vos yeux de larmes moins trempés  
+Le dirai-je ? Vos yeux de larmes moins trempés  
 À pleurer vos malheurs étaient moins occupés.  
 Maintenant tous vous rit. L'aimable Iphigénie  
 D'une amitié sincère avec vous est unie.  
-Elle vous plaint, vous voit avec des yeux de sœur,  
+Elle vous plaint, vous voit avec des yeux de soeur,  
 Et vous seriez dans Troie avec moins de douceur.  
 Vous vouliez voir l'Aulide, où son père l'appelle,  
 Et l'Aulide vous voit arriver avec elle.  
 Cependant par un sort que je ne conçois pas,  
 Votre douleur redouble, et croît à chaque pas.  
 
-    ERIPHILE
-Hé quoi ! te semble-t-il que la triste Ériphile  
-Doive être de leur joie un témoin si tranquille ?  
+    ERIPHILE.
+Hé quoi ! te semble-t-il que la triste Ériphile  
+Doive être de leur joie un témoin si tranquille ?  
 Crois-tu que mes chagrins doivent s'évanouir  
-À l'aspect d'un bonheur, dont je ne puis jouir ?  
+À l'aspect d'un bonheur, dont je ne puis jouir ?  
 Je vois Iphigénie entre les bras d'un père.  
 Elle fait tout l'orgueil d'une superbe mère.  
 Et moi, toujours en bute à de nouveaux dangers,  
@@ -640,7 +618,7 @@ Un oracle effrayant m'attache à mon erreur,
 Et quand je veux chercher le sang qui m'a fait naître,  
 Me dit, que sans périr, je ne me puis connaître.  
 
-    DORIS
+    DORIS.
 Non non, jusques au bout vous devez le chercher.  
 Un oracle toujours se plaît à se cacher.  
 Toujours avec un sens il en présente un autre.  
@@ -649,12 +627,12 @@ C'est là tout le danger que vous pouvez courir,
 Et c'est peut-être ainsi que vous devez périr.  
 Songez que votre nom fut changé dès l'enfance.  
 
-    ERIPHILE
-Je n'ai de tout mon sort que cette connaissance ;  
+    ERIPHILE.
+Je n'ai de tout mon sort que cette connaissance ;  
 Et ton père, du reste infortuné témoin,  
 Ne me permit jamais de pénétrer plus loin.  
-Hélas ! dans cette Troie où j'étais attendue,  
-Ma gloire, disait-il, m'allait être rendue :  
+Hélas ! dans cette Troie où j'étais attendue,  
+Ma gloire, disait-il, m'allait être rendue :  
 J'allais en reprenant et mon nom et mon rang,  
 Des plus grands rois en moi reconnaître le sang.  
 Déjà je découvrais cette fameuse ville,  
@@ -666,31 +644,31 @@ Et de tant de grandeurs, dont j'étais prévenue,
 Vile esclave des Grecs, je n'ai pu conserver  
 Que la fierté d'un sang, que je ne puis prouver.  
 
-    DORIS
-Ah ! que perdant, Madame, un témoin si fidèle,  
-La main qui vous l'ôta vous doit sembler cruelle !  
+    DORIS.
+Ah ! que perdant, Madame, un témoin si fidèle,  
+La main qui vous l'ôta vous doit sembler cruelle !  
 Mais Calchas est ici. Calchas si renommé,  
 Qui des secrets des dieux fut toujours informé.  
 Le ciel souvent lui parle. Instruit par un tel maître,  
 Il sait tout ce qui fut, et tout ce qui doit être.  
-Pourrait-il de vos jours ignorer les auteurs ?  
+Pourrait-il de vos jours ignorer les auteurs ?  
 Ce camp même est pour vous tout plein de protecteurs.  
 Bientôt Iphigénie en épousant Achille  
 Vous va sous son appui présenter un asile.  
 Elle vous l'a promis, et juré devant moi,  
 Ce gage est le premier qu'elle attend de sa foi.  
 
-    ERIPHILE
+    ERIPHILE.
 Que dirais-tu, Doris, si passant tout le reste  
-Cet hymen de mes maux était le plus funeste ?  
+Cet hymen de mes maux était le plus funeste ?  
 
-    DORIS
-Quoi ! Madame ?  
+    DORIS.
+Quoi ! Madame ?  
 
-    ERIPHILE
+    ERIPHILE.
         Tu vois avec étonnement  
 Que ma douleur ne souffre aucun soulagement.  
-Ecoute. Et tu te vas étonner que je vive.  
+Écoute. Et tu te vas étonner que je vive.  
 C'est peu d'être étrangère, inconnue, et captive.  
 Ce destructeur fatal des tristes Lesbiens,  
 Cet Achille l'auteur de tes maux et des miens,  
@@ -699,13 +677,13 @@ Qui m'arracha d'un coup ma naissance et ton père,
 De qui jusques au nom tout doit m'être odieux,  
 Est de tous les mortels le plus cher à mes yeux.  
 
-    DORIS
-Ah ! que me dites-vous !  
+    DORIS.
+Ah ! que me dites-vous !  
 
-    ERIPHILE
+    ERIPHILE.
         Je me flattais sans cesse  
 Qu'un silence éternel cacherait ma faiblesse.  
-Mais mon cœur trop pressé m'arrache ce discours,  
+Mais mon coeur trop pressé m'arrache ce discours,  
 Et te parle une fois, pour se taire toujours.  
 Ne me demande point sur quel espoir fondée  
 De ce fatal amour je me vis possédée.  
@@ -714,35 +692,35 @@ Dont je crus voir Achille honorer mes malheurs.
 Le ciel s'est fait sans doute une joie inhumaine  
 À rassembler sur moi tous les traits de sa haine.  
 Rappellerai-je encor le souvenir affreux  
-Du jour qui dans les fers nous jeta toutes deux ?  
+Du jour qui dans les fers nous jeta toutes deux ?  
 Dans les cruelles mains, par qui je fus ravie,  
 Je demeurai longtemps sans lumière et sans vie.  
-Enfin mes tristes yeux cherchèrent la clarté ;   [3]
-Et me voyant presser d'un bras ensanglanté,  
+Enfin mes tristes yeux cherchèrent la clarté ;  
+Et me voyant presser d'un bras ensanglanté, [8]  
 Je frémissais, Doris, et d'un vainqueur sauvage  
 Craignais de rencontrer l'effroyable visage.  
 J'entrai dans son vaisseau, détestant sa fureur,  
 Et toujours détournant ma vue avec horreur.  
 Je le vis. Son aspect n'avait rien de farouche.  
 Je sentis le reproche expirer dans ma bouche.  
-Je sentis contre moi mon cœur se déclarer,  
+Je sentis contre moi mon coeur se déclarer,  
 J'oubliai ma colère, et ne sus que pleurer.  
 Je me laissai conduire à cet aimable guide.  
 Je l'aimais à Lesbos, et je l'aime en Aulide.  
 Iphigénie en vain s'offre à me protéger,  
-Et me tend une main prompte à me soulager :  
-Triste effet des fureurs dont je suis tourmentée !  
+Et me tend une main prompte à me soulager :  
+Triste effet des fureurs dont je suis tourmentée !  
 Je n'accepte la main qu'elle m'a présentée,  
 Que pour m'armer contre elle, et sans me découvrir,  
 Traverser son bonheur, que je ne puis souffrir.  
 
-    DORIS
-Et que pourrait contre elle une impuissante haine ?  
+    DORIS.
+Et que pourrait contre elle une impuissante haine ?  
 Ne valait-il pas mieux, renfermée à Mycènes,  
 Éviter les tourments que vous venez chercher,  
-Et combattre des feux contraints de se cacher ?  
+Et combattre des feux contraints de se cacher ?  
 
-    ERIPHILE
+    ERIPHILE.
 Je le voulais, Doris. Mais quelque triste image  
 Que sa gloire à mes yeux montrât sur ce rivage,  
 Au sort qui me traînait il fallut consentir.  
@@ -760,169 +738,165 @@ Dans la nuit du tombeau j'enfermerai ma honte,
 Sans chercher des parents si longtemps ignorés,  
 Et que ma folle amour a trop déshonorés.  
 
-    DORIS
-Que je vous plains, Madame ! Et que la tyrannie...   [4]
+    DORIS.
+Que je vous plains, Madame ! Et que la tyrannie...  
 
-    ERIPHILE
+    ERIPHILE.
 Tu vois Agamemnon avec Iphigénie.  
 
 
-## SCÈNE II
-Agamemnon, Iphigénie, Eriphile, Doris.
+## SCÈNE II. Agamemnon, Iphigénie, Eriphile, Doris.
 
-
-    IPHIGENIE
-Seigneur, où courez-vous ? Et quels empressements  
-Vous dérobent sitôt à nos embrassements ?  
-À qui dois-je imputer cette fuite soudaine ?  
+    IPHIGÉNIE.
+Seigneur, où courez-vous ? Et quels empressements  
+Vous dérobent sitôt à nos embrassements ?  
+À qui dois-je imputer cette fuite soudaine ?  
 Mon respect a fait place aux transports de la reine.  
-Un moment à mon tour ne vous puis-je arrêter ?  
-Et ma joie à vos yeux n'ose-t-elle éclater ?  
+Un moment à mon tour ne vous puis-je arrêter ?  
+Et ma joie à vos yeux n'ose-t-elle éclater ?  
 Ne puis-je...  
 
-    AGAMEMNON
+    AGAMEMNON.
         Hé bien, ma fille, embrassez votre père.  
 Il vous aime toujours.  
 
-    IPHIGENIE
-        Que cette amour m'est chère !  
+    IPHIGÉNIE.
+        Que cette amour m'est chère !  
 Quel plaisir de vous voir, et de vous contempler,  
-Dans ce nouvel éclat dont je vous vois briller !  
-Quels honneurs ! quel pouvoir ! déjà la renommée  
+Dans ce nouvel éclat dont je vous vois briller !  
+Quels honneurs ! quel pouvoir ! déjà la renommée  
 Par d'étonnants récits m'en avait informée.  
 Mais que voyant de près ce spectacle charmant,  
-Je sens croître ma joie et mon étonnement !  
-Dieux ! avec quel amour la Grèce vous révère !  
-Quel bonheur de me voir la fille d'un tel père !  
+Je sens croître ma joie et mon étonnement !  
+Dieux ! avec quel amour la Grèce vous révère !  
+Quel bonheur de me voir la fille d'un tel père !  
 
-    AGAMEMNON
+    AGAMEMNON.
 Vous méritiez, ma fille, un père plus heureux.  
 
-    IPHIGENIE
-Quelle félicité peut manquer à vos vœux ?  
-À de plus grands honneurs un roi peut-il prétendre ?  
+    IPHIGÉNIE.
+Quelle félicité peut manquer à vos voeux ?  
+À de plus grands honneurs un roi peut-il prétendre ?  
 J'ai cru n'avoir au ciel que des grâces à rendre.  
 
-    AGAMEMNON
-Grands dieux ! à son malheur dois-je la préparer ?  
+    AGAMEMNON.
+Grands dieux ! à son malheur dois-je la préparer ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Vous vous cachez, Seigneur, et semblez soupirer.  
 Tous vos regards sur moi ne tombent qu'avec peine.  
-Avons-nous sans votre ordre abandonné Mycènes ?  
+Avons-nous sans votre ordre abandonné Mycènes ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Ma fille, je vous vois toujours des mêmes yeux.  
 Mais les temps sont changés aussi bien que les lieux.  
 D'un soin cruel ma joie est ici combattue.  
 
-    IPHIGENIE
-Hé ! mon père, oubliez votre rang à ma vue.  
+    IPHIGÉNIE.
+Hé ! mon père, oubliez votre rang à ma vue.  
 Je prévois la rigueur d'un long éloignement.  
-N'osez-vous sans rougir être père un moment ?  
+N'osez-vous sans rougir être père un moment ?  
 Vous n'avez devant vous qu'une jeune princesse,  
 À qui j'avais pour moi vanté votre tendresse.  
 Cent fois lui promettant mes soins, votre bonté,  
 J'ai fait gloire à ses yeux de ma félicité.  
-Que va-t-elle penser de votre indifférence ?  
-Ai-je flatté ses vœux d'une fausse espérance ?  
-N'éclaircirez-vous point ce front chargé d'ennuis ?  
+Que va-t-elle penser de votre indifférence ?  
+Ai-je flatté ses voeux d'une fausse espérance ?  
+N'éclaircirez-vous point ce front chargé d'ennuis ?  
 
-    AGAMEMNON
-Ah, ma fille !  
+    AGAMEMNON.
+Ah, ma fille !  
 
-    IPHIGENIE
-        Seigneur, poursuivez.  
+    IPHIGÉNIE.
+    Seigneur, poursuivez.  
 
-    AGAMEMNON
+    AGAMEMNON.
         Je ne puis.  
 
-    IPHIGENIE
-Périsse le Troyen auteur de nos alarmes !  
+    IPHIGÉNIE.
+Périsse le Troyen auteur de nos alarmes !  
 
-    AGAMEMNON
+    AGAMEMNON.
 Sa perte à ses vainqueurs coûtera bien des larmes.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Les dieux daignent surtout prendre soin de vos jours.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Les dieux depuis un temps me sont cruels et sourds.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Calchas, dit-on, prépare un pompeux sacrifice.  
 
-    AGAMEMNON
-Puissé-je auparavant fléchir leur injustice !  
+    AGAMEMNON.
+Puissé-je auparavant fléchir leur injustice !  
 
-    IPHIGENIE
-L'offrira-t-on bientôt ?  
+    IPHIGÉNIE.
+L'offrira-t-on bientôt ?  
 
-    AGAMEMNON
+    AGAMEMNON.
         Plus tôt que je ne veux.  
 
-    IPHIGENIE
-Me sera-t-il permis de me joindre à vos vœux ?  
-Verra-t-on à l'autel votre heureuse famille ?  
+    IPHIGÉNIE.
+Me sera-t-il permis de me joindre à vos voeux ?  
+Verra-t-on à l'autel votre heureuse famille ?  
 
-    AGAMEMNON
-Hélas !  
+    AGAMEMNON.
+Hélas !  
 
-    IPHIGENIE
-        Vous vous taisez ?  
+    IPHIGÉNIE.
+    Vous vous taisez ?  
 
-    AGAMEMNON
+    AGAMEMNON.
         Vous y serez, ma fille.  
 Adieu.  
 
 
-## SCÈNE III
-Iphigénie, Eriphile, Doris.
+## SCÈNE III. Iphigénie, Eriphile, Doris.
 
-
-    IPHIGENIE
-        De cet accueil que dois-je soupçonner ?  
+    IPHIGÉNIE.
+        De cet accueil que dois-je soupçonner ?  
 D'une secrète horreur je me sens frissonner.  
 Je crains malgré moi-même un malheur que j'ignore.  
 Justes dieux, vous savez pour qui je vous implore.  
 
-    ERIPHILE
-Quoi ! parmi tous les soins qui doivent l'accabler,  
-Quelque froideur suffit pour vous faire trembler ?  
-Hélas ! à quels soupirs suis-je donc condamnée,  
+    ERIPHILE.
+Quoi ! parmi tous les soins qui doivent l'accabler,  
+Quelque froideur suffit pour vous faire trembler ?  
+Hélas ! à quels soupirs suis-je donc condamnée,  
 Moi, qui de mes parents toujours abandonnée,  
 Étrangère partout, n'ai pas même en naissant  
-Peut-être reçu d'eux un regard caressant ?  
+Peut-être reçu d'eux un regard caressant ?  
 Du moins si vos respects sont rejetés d'un père,  
 Vous en pouvez gémir dans le sein d'une mère.  
 Et de quelque disgrâce enfin que vous pleuriez,  
-Quels pleurs par un amant ne sont point essuyés ?  
+Quels pleurs par un amant ne sont point essuyés ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Je ne m'en défends point. Mes pleurs, belle Ériphile,  
 Ne tiendraient pas longtemps contre les soins d'Achille.  
 Sa gloire, son amour, mon père, mon devoir  
 Lui donnent sur mon âme un trop juste pouvoir.  
-Mais de lui-même ici que faut-il que je pense ?  
+Mais de lui-même ici que faut-il que je pense ?  
 Cet amant, pour me voir brûlant d'impatience,  
 Que les Grecs de ces bords ne pouvaient arracher,  
 Qu'un père de si loin m'ordonne de chercher,  
 S'empresse-t-il assez pour jouir d'une vue  
-Qu'avec tant de transports je croyais attendue ?  
+Qu'avec tant de transports je croyais attendue ?  
 Pour moi, depuis deux jours, qu'approchant de ces lieux  
 Leur aspect souhaité se découvre à nos yeux,  
 Je l'attendais partout, et d'un regard timide  
 Sans cesse parcourant les chemins de l'Aulide,  
-Mon cœur pour le chercher volait loin devant moi,  
-Et je demande Achille à tout ce que je voi.  
+Mon coeur pour le chercher volait loin devant moi,  
+Et je demande Achille à tout ce que je vois.  
 Je viens, j'arrive enfin sans qu'il m'ait prévenue.  
 Je n'ai percé qu'à peine une foule inconnue.  
 Lui seul ne paraît point. Le triste Agamemnon  
 Semble craindre à mes yeux de prononcer son nom.  
-Que fait-il ? Qui pourra m'expliquer ce mystère ?  
-Trouverai-je l'amant glacé comme le père ?  
+Que fait-il ? Qui pourra m'expliquer ce mystère ?  
+Trouverai-je l'amant glacé comme le père ?  
 Et les soins de la guerre auraient-ils en un jour  
-Éteint dans tous les cœurs la tendresse et l'amour ?  
+Éteint dans tous les coeurs la tendresse et l'amour ?  
 Mais non. C'est l'offenser par d'injustes alarmes.  
 C'est à moi que l'on doit le secours de ses armes.  
 Il n'était point à Sparte entre tous ces amants,  
@@ -933,11 +907,9 @@ Et satisfait d'un prix qui lui semble si doux,
 Il veut même y porter le nom de mon époux.  
 
 
-## SCÈNE IV
-Clytemnestre, Eriphile, Doris.
+## SCÈNE IV. Clytemnestre, Eriphile, Doris.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Ma fille, il faut partir sans que rien nous retienne,  
 Et sauver, en fuyant, votre gloire et la mienne.  
 Je ne m'étonne plus qu'interdit et distrait  
@@ -951,14 +923,14 @@ Pour votre hymen Achille a changé de pensée,
 Et refusant l'honneur qu'on lui veut accorder,  
 Jusques à son retour il veut le retarder.  
 
-    ERIPHILE
-Qu'entends-je ?  
+    ERIPHILE.
+Qu'entends-je ?  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         Je vous vois rougir de cet outrage,  
 Il faut d'un noble orgueil armer votre courage.  
 Moi-même de l'ingrat approuvant le dessein,  
-Je vous l'ai dans Argos présenté de ma main ;  
+Je vous l'ai dans Argos présenté de ma main ;  
 Et mon choix que flattait le bruit de sa noblesse  
 Vous donnait avec joie au fils d'une déesse.  
 Mais puisque désormais son lâche repentir  
@@ -966,7 +938,7 @@ Dément le sang des dieux, dont on le fait sortir,
 Ma fille, c'est à nous de montrer qui nous sommes,  
 Et de ne voir en lui que le dernier des hommes.  
 Lui ferons-nous penser par un plus long séjour,  
-Que vos vœux de son cœur attendent le retour ?  
+Que vos voeux de son coeur attendent le retour ?  
 Rompons avec plaisir un hymen qu'il diffère.  
 J'ai fait de mon dessein avertir votre père.  
 Je ne l'attends ici que pour m'en séparer,  
@@ -979,49 +951,47 @@ De vos desseins secrets on est trop éclairci,
 Et ce n'est pas Calchas que vous cherchez ici.  
 
 
-## SCÈNE V
-Iphigénie, Eriphile, Doris.
+## SCÈNE V. Iphigénie, Eriphile, Doris.
 
-
-    IPHIGENIE
-En quel funeste état ces mots m'ont-ils laissée !  
+    IPHIGÉNIE.
+En quel funeste état ces mots m'ont-ils laissée !  
 Pour mon hymen Achille a changé de pensée.  
-Il me faut sans honneur retourner sur mes pas ;  
-Et vous cherchez ici quelque autre que Calchas ?  
+Il me faut sans honneur retourner sur mes pas ;  
+Et vous cherchez ici quelque autre que Calchas ?  
 
-    ERIPHILE
+    ERIPHILE.
 Madame, à ce discours je ne puis rien comprendre.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Vous m'entendez assez, si vous voulez m'entendre.  
 Le sort injurieux me ravit un époux.  
-Madame, à mon malheur m'abandonnerez-vous ?  
+Madame, à mon malheur m'abandonnerez-vous ?  
 Vous ne pouviez sans moi demeurer à Mycènes.  
-Me verra-t-on sans vous partir avec la reine ?  
+Me verra-t-on sans vous partir avec la reine ?  
 
-    ERIPHILE
+    ERIPHILE.
 Je voulais voir Calchas avant que de partir.  
 
-    IPHIGENIE
-Que tardez-vous, Madame, à le faire avertir ?  
+    IPHIGÉNIE.
+Que tardez-vous, Madame, à le faire avertir ?  
 
-    ERIPHILE
+    ERIPHILE.
 D'Argos, dans un moment, vous reprenez la route.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Un moment quelquefois éclaircit plus d'un doute.  
 Mais, Madame, je vois que c'est trop vous presser.  
 Je vois ce que jamais je n'ai voulu penser.  
 Achille... Vous brûlez que je ne sois partie.  
 
-    ERIPHILE
-Moi ? Vous me soupçonnez de cette perfidie ?  
+    ERIPHILE.
+Moi ? Vous me soupçonnez de cette perfidie ?  
 Moi j'aimerais, Madame, un vainqueur furieux,  
 Qui toujours tout sanglant se présente à mes yeux,  
 Qui la flamme à la main, et de meurtres avide  
 Mit en cendres Lesbos...  
 
-    IPHIGENIE
+    IPHIGÉNIE.
         Oui vous l'aimez, perfide.  
 Et ces mêmes fureurs que vous me dépeignez,  
 Ses bras que dans le sang vous avez vus baignés,  
@@ -1033,68 +1003,64 @@ Déjà plus d'une fois dans vos plaintes forcées
 J'ai dû voir, et j'ai vu le fond de vos pensées.  
 Mais toujours sur mes yeux ma facile bonté  
 A remis le bandeau que j'avais écarté.  
-Vous l'aimez. Que faisais-je ? Et quelle erreur fatale  
-M'a fait entre mes bras recevoir ma rivale ?  
-Crédule je l'aimais. Mon cœur même aujourd'hui  
+Vous l'aimez. Que faisais-je ? Et quelle erreur fatale  
+M'a fait entre mes bras recevoir ma rivale ?  
+Crédule je l'aimais. Mon coeur même aujourd'hui  
 De son parjure amant lui promettait l'appui.  
 Voilà donc le triomphe où j'étais amenée.  
 Moi-même à votre char je me suis enchaînée.  
-Je vous pardonne, hélas ! des vœux intéressés,  
-Et la perte d'un cœur, que vous me ravissez.  
+Je vous pardonne, hélas ! Des voeux intéressés,  
+Et la perte d'un coeur, que vous me ravissez.  
 Mais que sans m'avertir du piège qu'on me dresse  
 Vous me laissiez chercher jusqu'au fond de la Grèce  
 L'ingrat, qui ne m'attend que pour m'abandonner,  
-Perfide, cet affront se peut-il pardonner ?  
+Perfide, cet affront se peut-il pardonner ?  
 
-    ERIPHILE
+    ERIPHILE.
 Vous me donnez des noms qui doivent me surprendre,  
 Madame. On ne m'a pas instruite à les entendre.  
 Et les dieux contre moi dès longtemps indignés  
 À mon oreille encor les avaient épargnés.  
 Mais il faut des amants excuser l'injustice.  
-Et de quoi vouliez-vous que je vous avertisse ?  
+Et de quoi vouliez-vous que je vous avertisse ?  
 Avez-vous pu penser qu'au sang d'Agamemnon  
 Achille préférât une fille sans nom,  
 Qui de tout son destin ce qu'elle a pu comprendre,  
-C'est qu'elle sort d'un sang qu'il brûle de répandre ?  
+C'est qu'elle sort d'un sang qu'il brûle de répandre ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Vous triomphez, cruelle, et bravez ma douleur.  
 Je n'avais pas encor senti tout mon malheur.  
 Et vous ne comparez votre exil et ma gloire,  
 Que pour mieux relever votre injuste victoire.  
 Toutefois vos transports sont trop précipités.  
 Ce même Agamemnon à qui vous insultez,  
-Il commande à la Grèce, il est mon père, il m'aime ;  
+Il commande à la Grèce, il est mon père, il m'aime ;  
 Il ressent mes douleurs beaucoup plus que moi-même.  
 Mes larmes par avance avaient su le toucher.  
 J'ai surpris ses soupirs qu'il me voulait cacher.  
-Hélas ! de son accueil condamnant la tristesse,  
+Hélas ! De son accueil condamnant la tristesse,  
 J'osais me plaindre à lui de son peu de tendresse.  
 
 
-## SCÈNE VI
-Achille, Eriphile, Doris.
+## SCÈNE VI. Achille, Eriphile, Doris.
 
-
-    ACHILLE
+    ACHILLE.
 Il est donc vrai, Madame, et c'est vous que je vois.  
 Je soupçonnais d'erreur tout le camp à la fois.  
-Vous en Aulide ? Vous ? Hé ! qu'y venez-vous faire ?  
-D'où vient qu'Agamemnon m'assurait le contraire ?  
+Vous en Aulide ? Vous ? Hé ! Qu'y venez-vous faire ?  
+D'où vient qu'Agamemnon m'assurait le contraire ?  
 
-    IPHIGENIE
-Seigneur, rassurez-vous. Vos vœux seront contents.  
+    IPHIGÉNIE.
+Seigneur, rassurez-vous. Vos voeux seront contents.  
 Iphigénie encor n'y sera pas longtemps.  
 
 
-## SCÈNE VII
-Achille, Eriphile, Doris.
+## SCÈNE VII. Achille, Eriphile, Doris.
 
-
-    ACHILLE
-Elle me fuit ! veillé-je ? Ou n'est-ce point un songe ?  
-Dans quel trouble nouveau cette fuite me plonge !  
+    ACHILLE.
+Elle me fuit ! veillé-je ? Ou n'est-ce point un songe ?  
+Dans quel trouble nouveau cette fuite me plonge !  
 Madame, je ne sais si sans vous irriter  
 Achille devant vous pourra se présenter.  
 Mais si d'un ennemi vous souffrez la prière,  
@@ -1102,48 +1068,46 @@ Si lui-même souvent a plaint sa prisonnière,
 Vous savez quel sujet conduit ici leurs pas.  
 Vous savez...  
 
-    ERIPHILE
-        Quoi, Seigneur ! ne le savez-vous pas ?  
+    ERIPHILE.
+        Quoi, Seigneur ! ne le savez-vous pas ?  
 Vous, qui depuis un mois brûlant sur ce rivage,  
-Avez conclu vous-même, et hâté leur voyage ?  
+Avez conclu vous-même, et hâté leur voyage ?  
 
-    ACHILLE
+    ACHILLE.
 De ce même rivage absent depuis un mois,  
 Je le revis hier pour la première fois.  
 
-    ERIPHILE
-Quoi ! Lorsque Agamemnon écrivait à Mycènes,  
-Votre amour, votre main n'a pas conduit la sienne ?  
-Quoi ! vous qui de sa fille adoriez les attraits...  
+    ERIPHILE.
+Quoi ! Lorsque Agamemnon écrivait à Mycènes,  
+Votre amour, votre main n'a pas conduit la sienne ?  
+Quoi ! vous qui de sa fille adoriez les attraits...  
 
-    ACHILLE
+    ACHILLE.
 Vous m'en voyez encore épris plus que jamais,  
 Madame. Et si l'effet eût suivi ma pensée,  
 Moi-même dans Argos je l'aurais devancée.  
-Cependant on me fuit. Quel crime ai-je commis ?  
+Cependant on me fuit. Quel crime ai-je commis ?  
 Mais je ne vois partout que des yeux ennemis.  
-Que dis-je ? En ce moment Calchas, Nestor, Ulysse,  
+Que dis-je ? En ce moment Calchas, Nestor, Ulysse,  
 De leur vaine éloquence employant l'artifice,  
 Combattaient mon amour, et semblaient m'annoncer  
 Que si j'en crois ma gloire il y faut renoncer.  
-Quelle entreprise ici pourrait être formée ?  
-Suis-je sans le savoir la fable de l'armée ?  
+Quelle entreprise ici pourrait être formée ?  
+Suis-je sans le savoir la fable de l'armée ?  
 Entrons. C'est un secret qu'il leur faut arracher.  
 
 
-## SCÈNE VIII
-Eriphile, Doris.
+## SCÈNE VIII. Eriphile, Doris.
 
-
-    ERIPHILE
-Dieux, qui voyez ma honte, où me dois-je cacher ?  
-Orgueilleuse rivale, on t'aime, et tu murmures ?  
-Souffrirai-je à la fois ta gloire et tes injures ?  
-Ah ! plutôt... Mais, Doris, ou j'aime à me flatter,  
+    ERIPHILE.
+Dieux, qui voyez ma honte, où me dois-je cacher ?  
+Orgueilleuse rivale, on t'aime, et tu murmures ?  
+Souffrirai-je à la fois ta gloire et tes injures ?  
+Ah ! plutôt... Mais, Doris, ou j'aime à me flatter,  
 Ou sur eux quelque orage est tout prêt d'éclater.  
 J'ai des yeux. Leur bonheur n'est pas encor tranquille.  
 On trompe Iphigénie. On se cache d'Achille.  
-Agamemnon gémit. Ne désespérons point ;  
+Agamemnon gémit. Ne désespérons point ;  
 Et si le sort contre elle à ma haine se joint,  
 Je saurai profiter de cette intelligence  
 Pour ne pas pleurer seule, et mourir sans vengeance.  
@@ -1152,24 +1116,22 @@ Pour ne pas pleurer seule, et mourir sans vengeance.
 # ACTE III
 
 
-## SCÈNE PREMIÈRE
-Agamemnon, Clytemnestre.
+## SCÈNE PREMIÈRE. Agamemnon, Clytemnestre.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Oui, Seigneur, nous partions. Et mon juste courroux  
 Laissait bientôt Achille et le camp loin de nous.  
 Ma fille dans Argos courait pleurer sa honte.  
 Mais lui-même étonné d'une fuite si prompte,  
 Par combien de serments, dont je n'ai pu douter,  
-Vient-il de me convaincre, et de nous arrêter ?  
+Vient-il de me convaincre, et de nous arrêter ?  
 Il presse cet hymen, qu'on prétend qu'il diffère,  
 Et vous cherche brûlant d'amour et de colère.  
 Prêt d'imposer silence à ce bruit imposteur,  
 Achille en veut connaître et confondre l'auteur.  
 Bannissez ces soupçons qui troublaient notre joie.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Madame, c'est assez. Je consens qu'on le croie.  
 Je reconnais l'erreur qui nous avait séduits,  
 Et ressens votre joie autant que je le puis.  
@@ -1185,41 +1147,41 @@ Tout ce spectacle enfin, pompe digne d'Achille,
 Pour attirer vos yeux n'est point assez tranquille,  
 Et les Grecs y verraient l'épouse de leur roi  
 Dans un état indigne et de vous et de moi.  
-M'en croirez-vous ? Laissez de vos femmes suivie  
+M'en croirez-vous ? Laissez de vos femmes suivie  
 À cet hymen sans vous marcher Iphigénie.  
 
-    CLYTEMNESTRE
-Qui ? moi ? Que remettant ma fille en d'autres bras,  
-Ce que j'ai commencé je ne l'achève pas ?  
+    CLYTEMNESTRE.
+Qui ? moi ? Que remettant ma fille en d'autres bras,  
+Ce que j'ai commencé je ne l'achève pas ?  
 Qu'après l'avoir d'Argos amenée en Aulide,  
-Je refuse à l'autel de lui servir de guide ?  
-Dois-je donc de Calchas être moins près que vous ?  
-Et qui présentera ma fille à son époux ?  
-Quelle autre ordonnera cette pompe sacrée ?  
+Je refuse à l'autel de lui servir de guide ?  
+Dois-je donc de Calchas être moins près que vous ?  
+Et qui présentera ma fille à son époux ?  
+Quelle autre ordonnera cette pompe sacrée ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Vous n'êtes point ici dans le palais d'Atrée.  
 Vous êtes dans un camp...  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         Où tout vous est soumis,  
 Où le sort de l'Asie en vos mains est remis,  
 Où je vois sous vos lois marcher la Grèce entière,  
-Où le fils de Thétis va m'appeler sa mère.  
+Où le fils de Thétis va m'appeler sa mère. [9]  
 Dans quel palais superbe et plein de ma grandeur,  
-Puis-je jamais paraître avec plus de splendeur ?  
+Puis-je jamais paraître avec plus de splendeur ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Madame, au nom des dieux auteurs de notre race,  
 Daignez à mon amour accorder cette grâce.  
 J'ai mes raisons.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         Seigneur, au nom des mêmes dieux,  
 D'un spectacle si doux ne privez point mes yeux.  
 Daignez ne point ici rougir de ma présence.  
 
-    AGAMEMNON
+    AGAMEMNON.
 J'avais plus espéré de votre complaisance.  
 Mais puisque la raison ne vous peut émouvoir,  
 Puisque enfin ma prière a si peu de pouvoir,  
@@ -1228,34 +1190,32 @@ Madame. Je le veux, et je vous le commande.
 Obéissez.  
 
 
-## SCÈNE II
+## SCÈNE II.
 
     CLYTEMNESTRE, SEULE.
         D'où vient que d'un soin si cruel  
-L'injuste Agamemnon m'écarte de l'autel ?  
-Fier de son nouveau rang m'ose-t-il méconnaître ?  
-Me croit-il à sa suite indigne de paraître ?  
+L'injuste Agamemnon m'écarte de l'autel ?  
+Fier de son nouveau rang m'ose-t-il méconnaître ?  
+Me croit-il à sa suite indigne de paraître ?  
 Ou de l'empire encor timide possesseur,  
-N'oserait-il d'Hélène ici montrer la sœur ?  
-Et pourquoi me cacher ? Et par quelle injustice  
-Faut-il que sur mon front sa honte rejaillisse ?  
-Mais n'importe, il le veut, et mon cœur s'y résout.  
-Ma fille, ton bonheur me console de tout :  
+N'oserait-il d'Hélène ici montrer la soeur ?  
+Et pourquoi me cacher ? Et par quelle injustice  
+Faut-il que sur mon front sa honte rejaillisse ?  
+Mais n'importe, il le veut, et mon coeur s'y résout.  
+Ma fille, ton bonheur me console de tout :  
 Le ciel te donne Achille, et ma joie est extrême  
 De t'entendre nommer... Mais le voici lui-même.  
 
 
-## SCÈNE III
-Achille, Clytemnestre.
+## SCÈNE III. Achille, Clytemnestre.
 
-
-    ACHILLE
+    ACHILLE.
 Tout succède, Madame, à mon empressement.  
 Le roi n'a point voulu d'autre éclaircissement.  
-Il en croit mes transports ; et sans presque m'entendre,  
+Il en croit mes transports; et sans presque m'entendre,  
 Il vient en m'embrassant de m'accepter pour gendre.  
 Il ne m'a dit qu'un mot. Mais vous a-t-il conté  
-Quel bonheur dans le camp vous avez apporté ?  
+Quel bonheur dans le camp vous avez apporté ?  
 Les dieux vont s'apaiser. Du moins Calchas publie  
 Qu'avec eux dans une heure il nous réconcilie,  
 Que Neptune et les vents, prêts à nous exaucer,  
@@ -1265,23 +1225,21 @@ Déjà sur sa parole ils se tournent vers Troie.
 Pour moi, quoique le ciel au gré de mon amour,  
 Dût encore des vents retarder le retour,  
 Que je quitte à regret la rive fortunée  
-Où je vais allumer les flambeaux d'hyménée !  
+Où je vais allumer les flambeaux d'hyménée !  
 Puis-je ne point chérir l'heureuse occasion  
 D'aller du sang troyen sceller notre union,  
 Et de laisser bientôt sous Troie ensevelie  
-Le déshonneur d'un nom, à qui le mien s'allie ?  
+Le déshonneur d'un nom, à qui le mien s'allie ?  
 
 
-## SCÈNE IV
-Achille, Clytemnestre, Iphigénie, Eriphile, Doris, AEgine.
+## SCÈNE IV. Achille, Clytemnestre, Iphigénie, Eriphile, Doris, AEgine.
 
-
-    ACHILLE
+    ACHILLE.
 Princesse, mon bonheur ne dépend que de vous.  
 Votre père à l'autel vous destine un époux.  
-Venez-y recevoir un cœur qui vous adore.  
+Venez-y recevoir un coeur qui vous adore.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Seigneur, il n'est pas temps que nous partions encore.  
 La reine permettra que j'ose demander  
 Un gage à votre amour, qu'il me doit accorder.  
@@ -1289,10 +1247,10 @@ Je viens vous présenter une jeune princesse.
 Le ciel a sur son front imprimé sa noblesse.  
 De larmes tous les jours ses yeux sont arrosés.  
 Vous savez ses malheurs, vous les avez causés.  
-Moi-même ( où m'emportait une aveugle colère ! )  
+Moi-même ( où m'emportait une aveugle colère ! )  
 J'ai tantôt sans respect affligé sa misère.  
 Que ne puis-je aussi bien par d'utiles secours  
-Réparer promptement mes injustes discours !  
+Réparer promptement mes injustes discours !  
 Je lui prête ma voix, je ne puis davantage.  
 Vous seul pouvez, Seigneur, détruire votre ouvrage.  
 Elle est votre captive, et ses fers que je plains,  
@@ -1306,20 +1264,20 @@ Laisse aux pleurs d'une épouse attendrir sa victoire,
 Et par les malheureux quelquefois désarmé,  
 Sait imiter en tout les dieux qui l'ont formé.  
 
-    ERIPHILE
+    ERIPHILE.
 Oui, Seigneur, des douleurs soulagez la plus vive.  
 La guerre dans Lesbos me fit votre captive.  
 Mais c'est pousser trop loin ses droits injurieux,  
 Qu'y joindre le tourment que je souffre en ces lieux.  
 
-    ACHILLE
-Vous, Madame ?  
+    ACHILLE.
+Vous, Madame ?  
 
-    ERIPHILE
+    ERIPHILE.
         Oui, Seigneur, et sans compter le reste,  
 Pouvez-vous m'imposer une loi plus funeste,  
 Que de rendre mes yeux les tristes spectateurs  
-De la félicité de mes persécuteurs ?  
+De la félicité de mes persécuteurs ?  
 J'entends de toutes parts menacer ma patrie.  
 Je vois marcher contre elle une armée en furie.  
 Je vois déjà l'hymen, pour mieux me déchirer,  
@@ -1329,118 +1287,116 @@ Toujours infortunée, et toujours inconnue,
 J'aille cacher un sort si digne de pitié,  
 Et dont mes pleurs encor vous taisent la moitié.  
 
-    ACHILLE
+    ACHILLE.
 C'est trop, belle princesse. Il ne faut que nous suivre.  
-Venez, qu'aux yeux des Grecs Achille vous délivre ;  
+Venez, qu'aux yeux des Grecs Achille vous délivre ;  
 Et que le doux moment de ma félicité  
 Soit le moment heureux de votre liberté.  
 
 
-## SCÈNE V
-Clytemnestre, Achille, Iphigénie, Eriphile, Arcas, AEgine, Doris.
+## SCÈNE V. Clytemnestre, Achille, Iphigénie, Eriphile, Arcas, AEgine, Doris.
 
-
-    ARCAS
+    ARCAS.
 Madame, tout est prêt pour la cérémonie,  
 Le roi près de l'autel attend Iphigénie.  
 Je viens la demander. Ou plutôt contre lui,  
 Seigneur, je viens pour elle implorer votre appui.  
 
-    ACHILLE
-Arcas, que dites-vous ?  
+    ACHILLE.
+Arcas, que dites-vous ?  
 
-    CLYTEMNESTRE
-        Dieux ! Que vient-il m'apprendre ?  
+    CLYTEMNESTRE.
+        Dieux ! Que vient-il m'apprendre ?  
 
     ARCAS, À ACHILLE.
 Je ne vois plus que vous qui la puisse défendre.  
 
-    ACHILLE
-Contre qui ?  
+    ACHILLE.
+Contre qui ?  
 
-    ARCAS
+    ARCAS.
         Je le nomme et l'accuse à regret.  
 Autant que je l'ai pu, j'ai gardé son secret.  
-Mais le fer, le bandeau, la flamme est toute prête :  
+Mais le fer, le bandeau, la flamme est toute prête :  
 Dût tout cet appareil retomber sur ma tête,  
 Il faut parler.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         Je tremble. Expliquez-vous, Arcas.  
 
-    ACHILLE
+    ACHILLE.
 Qui que ce soit, parlez, et ne le craignez pas.  
 
-    ARCAS
+    ARCAS.
 Vous êtes son amant, et vous êtes sa mère,  
 Gardez-vous d'envoyer la princesse à son père.  
 
-    CLYTEMNESTRE
-Pourquoi le craindrons-nous ?  
+    CLYTEMNESTRE.
+Pourquoi le craindrons-nous ?  
 
-    ACHILLE
-        Pourquoi m'en défier ?  
+    ACHILLE.
+        Pourquoi m'en défier ?  
 
-    ARCAS
+    ARCAS.
 Il l'attend à l'autel pour la sacrifier.  
 
-    ACHILLE
-Lui !  
+    ACHILLE.
+Lui !  
 
-    CLYTEMNESTRE
-        Sa fille !  
+    CLYTEMNESTRE.
+    Sa fille !  
 
-    IPHIGENIE
-        Mon père !  
+    IPHIGÉNIE.
+    Mon père !  
 
-    ERIPHILE
-        Ô ciel ! quelle nouvelle !  
+    ERIPHILE.
+        Ô ciel ! quelle nouvelle !  
 
-    ACHILLE
-Quelle aveugle fureur pourrait l'armer contre elle ?  
-Ce discours sans horreur se peut-il écouter ?  
+    ACHILLE.
+Quelle aveugle fureur pourrait l'armer contre elle ?  
+Ce discours sans horreur se peut-il écouter ?  
 
-    ARCAS
-Ah, Seigneur ! plût au ciel que je pusse en douter.  
+    ARCAS.
+Ah, Seigneur ! plût au ciel que je pusse en douter.  
 Par la voix de Calchas l'oracle la demande.  
-De toute autre victime il refuse l'offrande ;  
+De toute autre victime il refuse l'offrande ;  
 Et les dieux, jusque-là protecteurs de Pâris,  
 Ne nous promettent Troie et les vents qu'à ce prix.  
 
-    CLYTEMNESTRE
-Les dieux ordonneraient un meurtre abominable ?  
+    CLYTEMNESTRE.
+Les dieux ordonneraient un meurtre abominable ?  
 
-    IPHIGENIE
-Ciel ! pour tant de rigueur de quoi suis-je coupable ?  
+    IPHIGÉNIE.
+Ciel ! pour tant de rigueur de quoi suis-je coupable ?  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Je ne m'étonne plus de cet ordre cruel  
 Qui m'avait interdit l'approche de l'autel.  
 
-    IPHIGENIE, À ACHILLE.
-Et voilà donc l'hymen où j'étais destinée !  
+    IPHIGÉNIE, À ACHILLE.
+Et voilà donc l'hymen où j'étais destinée !  
 
-    ARCAS
+    ARCAS.
 Le roi pour vous tromper feignait cet hyménée.  
 Tout le camp même encore est trompé comme vous.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Seigneur, c'est donc à moi d'embrasser vos genoux.  
 
     ACHILLE, LA RELEVANT.
-Ah, Madame !  
+Ah, Madame !  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         Oubliez une gloire importune.  
 Ce triste abaissement convient à ma fortune.  
 Heureuse si mes pleurs vous peuvent attendrir,  
 Une mère à vos pieds peut tomber sans rougir.  
-C'est votre épouse, hélas ! qui vous est enlevée.  
+C'est votre épouse, hélas ! qui vous est enlevée.  
 Dans cet heureux espoir je l'avais élevée.  
 C'est vous que nous cherchions sur ce funeste bord.  
-Et votre nom, Seigneur, l'a conduite à la mort.   [5]
-Ira-t-elle des dieux implorant la justice  
-Embrasser leurs autels parés pour son supplice ?  
+Et votre nom, Seigneur, l'a conduite à la mort.  
+Ira-t-elle des dieux implorant la justice [10]  
+Embrasser leurs autels parés pour son supplice ?  
 Elle n'a que vous seul. Vous êtes en ces lieux  
 Son père, son époux, son asile, ses dieux.  
 Je lis dans vos regards la douleur qui vous presse.  
@@ -1453,19 +1409,17 @@ Ou si je ne vous puis dérober à leurs coups,
 Ma fille, ils pourront bien m'immoler avant vous.  
 
 
-## SCÈNE VI
-Achille, Iphigénie.
+## SCÈNE VI. Achille, Iphigénie.
 
-
-    ACHILLE
+    ACHILLE.
 Madame, je me tais, et demeure immobile.  
-Est-ce à moi que l'on parle, et connaît-on Achille ?  
-Une mère pour vous croit devoir me prier ;  
+Est-ce à moi que l'on parle, et connaît-on Achille ?  
+Une mère pour vous croit devoir me prier ;  
 Une reine à mes pieds se vient humilier.  
 Et me déshonorant par d'injustes alarmes,  
-Pour attendrir mon cœur on a recours aux larmes.  
-Qui doit prendre à vos jours plus d'intérêt que moi ?  
-Ah ! sans doute on s'en peut reposer sur ma foi.  
+Pour attendrir mon coeur on a recours aux larmes.  
+Qui doit prendre à vos jours plus d'intérêt que moi ?  
+Ah ! sans doute on s'en peut reposer sur ma foi.  
 L'outrage me regarde. Et quoi qu'on entreprenne,  
 Je réponds d'une vie, où j'attache la mienne.  
 Mais ma juste douleur va plus loin m'engager,  
@@ -1473,33 +1427,33 @@ C'est peu de vous défendre, et je cours vous venger,
 Et punir à la fois le cruel stratagème  
 Qui s'ose de mon nom armer contre vous-même.  
 
-    IPHIGENIE
-Ah ! demeurez, Seigneur, et daignez m'écouter.  
+    IPHIGÉNIE.
+Ah ! demeurez, Seigneur, et daignez m'écouter.  
 
-    ACHILLE
-Quoi, Madame ! un barbare osera m'insulter ?  
-Il voit que de sa sœur je cours venger l'outrage.  
+    ACHILLE.
+Quoi, Madame ! un barbare osera m'insulter ?  
+Il voit que de sa soeur je cours venger l'outrage.  
 Il sait que le premier lui donnant mon suffrage,  
-Je le fis nommer chef de vingt rois ses rivaux ;  
+Je le fis nommer chef de vingt rois ses rivaux ;  
 Et pour fruit de mes soins, pour fruit de mes travaux,  
 Pour tout le prix enfin d'une illustre victoire,  
 Qui le doit enrichir, venger, combler de gloire,  
 Content et glorieux du nom de votre époux,  
 Je ne lui demandais que l'honneur d'être à vous.  
 Cependant aujourd'hui sanguinaire, parjure,  
-C'est peu de violer l'amitié, la nature ;  
+C'est peu de violer l'amitié, la nature ;  
 C'est peu que de vouloir sous un couteau mortel  
-Me montrer votre cœur fumant sur un autel.  
+Me montrer votre coeur fumant sur un autel.  
 D'un appareil d'hymen couvrant ce sacrifice,  
-Il veut que ce soit moi qui vous mène au supplice ?  
-Que ma crédule main conduise le couteau ?  
-Qu'au lieu de votre époux je sois votre bourreau ?  
+Il veut que ce soit moi qui vous mène au supplice ?  
+Que ma crédule main conduise le couteau ?  
+Qu'au lieu de votre époux je sois votre bourreau ?  
 Et quel était pour vous ce sanglant hyménée,  
-Si je fusse arrivé plus tard d'une journée ?  
-Quoi donc ! à leur fureur livrée en ce moment  
+Si je fusse arrivé plus tard d'une journée ?  
+Quoi donc ! à leur fureur livrée en ce moment  
 Vous iriez à l'autel me chercher vainement,  
 Et d'un fer imprévu vous tomberiez frappée,  
-En accusant mon nom qui vous aurait trompée ?  
+En accusant mon nom qui vous aurait trompée ?  
 Il faut de ce péril, de cette trahison,  
 Aux yeux de tous les Grecs lui demander raison.  
 À l'honneur d'un époux vous-même intéressée,  
@@ -1507,25 +1461,25 @@ Madame, vous devez approuver ma pensée.
 Il faut que le cruel qui m'a pu mépriser  
 Apprenne de quel nom il osait abuser.  
 
-    IPHIGENIE
-Hélas ! si vous m'aimez, si pour grâce dernière  
+    IPHIGÉNIE.
+Hélas ! si vous m'aimez, si pour grâce dernière  
 Vous daignez d'une amante écouter la prière,  
 C'est maintenant, Seigneur, qu'il faut me le prouver.  
 Car enfin ce cruel, que vous allez braver,  
 Cet ennemi barbare, injuste, sanguinaire,  
 Songez, quoi qu'il ait fait, songez qu'il est mon père.  
 
-    ACHILLE
-Lui, votre père ? Après son horrible dessein  
+    ACHILLE.
+Lui, votre père ? Après son horrible dessein  
 Je ne le connais plus que pour votre assassin.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 C'est mon père, Seigneur, je vous le dis encore,  
 Mais un père que j'aime, un père que j'adore,  
 Qui me chérit lui-même, et dont jusqu'à ce jour  
 Je n'ai jamais reçu que des marques d'amour.  
-Mon cœur dans ce respect élevé dès l'enfance,  
-Ne peut que s'affliger de tout ce qui l'offense ;  
+Mon coeur dans ce respect élevé dès l'enfance,  
+Ne peut que s'affliger de tout ce qui l'offense ;  
 Et loin d'oser ici par un prompt changement  
 Approuver la fureur de votre emportement,  
 Loin que par mes discours je l'attise moi-même,  
@@ -1533,49 +1487,47 @@ Croyez qu'il faut aimer autant que je vous aime,
 Pour avoir pu souffrir tous les noms odieux,  
 Dont votre amour le vient d'outrager à mes yeux.  
 Et pourquoi voulez-vous qu'inhumain, et barbare,  
-Il ne gémisse pas du coup qu'on me prépare ?  
-Quel père de son sang se plaît à se priver ?  
-Pourquoi me perdrait-il, s'il pouvait me sauver ?  
+Il ne gémisse pas du coup qu'on me prépare ?  
+Quel père de son sang se plaît à se priver ?  
+Pourquoi me perdrait-il, s'il pouvait me sauver ?  
 J'ai vu, n'en doutez point, ses larmes se répandre.  
-Faut-il le condamner avant que de l'entendre ?  
-Hélas ! de tant d'horreurs son cœur déjà troublé  
-Doit-il de votre haine être encore accablé ?  
+Faut-il le condamner avant que de l'entendre ?  
+Hélas ! de tant d'horreurs son coeur déjà troublé  
+Doit-il de votre haine être encore accablé ?  
 
-    ACHILLE
-Quoi, Madame ! parmi tant de sujets de crainte,  
-Ce sont là les frayeurs dont vous êtes atteinte ?  
-Un cruel ( comment puis-je autrement l'appeler ? )  
-Par la main de Calchas s'en va vous immoler ;  
+    ACHILLE.
+Quoi, Madame ! parmi tant de sujets de crainte,  
+Ce sont là les frayeurs dont vous êtes atteinte ?  
+Un cruel ( comment puis-je autrement l'appeler ? )  
+Par la main de Calchas s'en va vous immoler ;  
 Et lorsque à sa fureur j'oppose ma tendresse,  
-Le soin de son repos est le seul qui vous presse ?  
-On me ferme la bouche ? On l'excuse ? On le plaint ?  
-C'est pour lui que l'on tremble, et c'est moi que l'on craint ?  
-Triste effet de mes soins ! Est-ce donc là, Madame,  
-Tout le progrès qu'Achille avait fait dans votre âme ?  
+Le soin de son repos est le seul qui vous presse ?  
+On me ferme la bouche ? On l'excuse ? On le plaint ?  
+C'est pour lui que l'on tremble, et c'est moi que l'on craint ?  
+Triste effet de mes soins ! Est-ce donc là, Madame,  
+Tout le progrès qu'Achille avait fait dans votre âme ?  
 
-    IPHIGENIE
-Ah, cruel ! cet amour dont vous voulez douter,  
-Ai-je attendu si tard pour le faire éclater ?  
-Vous voyez de quel œil, et comme indifférente,  
+    IPHIGÉNIE.
+Ah, cruel ! cet amour dont vous voulez douter,  
+Ai-je attendu si tard pour le faire éclater ?  
+Vous voyez de quel oeil, et comme indifférente,  
 J'ai reçu de ma mort la nouvelle sanglante.  
-Je n'en ai point pâli. Que n'avez-vous pu voir   [6]
-À quel excès tantôt allait mon désespoir,  
+Je n'en ai point pâli. Que n'avez-vous pu voir  
+À quel excès tantôt allait mon désespoir, [11]  
 Quand presque en arrivant un récit peu fidèle  
-M'a de votre inconstance annoncé la nouvelle !  
+M'a de votre inconstance annoncé la nouvelle !  
 Qui sait même, qui sait si le ciel irrité  
-A pu souffrir l'excès de ma félicité ?  
-Hélas ! il me semblait qu'une flamme si belle  
+A pu souffrir l'excès de ma félicité ?  
+Hélas ! il me semblait qu'une flamme si belle  
 M'élevait au-dessus du sort d'une mortelle.  
 
-    ACHILLE
-Ah ! si je vous suis cher, ma Princesse, vivez.  
+    ACHILLE.
+Ah ! si je vous suis cher, ma Princesse, vivez.  
 
 
-## SCÈNE VII
-Clytemnestre, Iphigénie, Achille, AEgine.
+## SCÈNE VII. Clytemnestre, Iphigénie, Achille, AEgine.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Tout est perdu, Seigneur, si vous ne nous sauvez.  
 Agamemnon m'évite, et craignant mon visage,  
 Il me fait de l'autel refuser le passage,  
@@ -1583,149 +1535,145 @@ Des gardes, que lui-même a pris soin de placer,
 Nous ont de toutes parts défendu de passer.  
 Il me fuit. Ma douleur étonne son audace.  
 
-    ACHILLE
-Hé bien ! c'est donc à moi de prendre votre place.  
+    ACHILLE.
+Hé bien ! c'est donc à moi de prendre votre place.  
 Il me verra, Madame, et je vais lui parler.  
 
-    IPHIGENIE
-Ah ! Madame... Ah, Seigneur ! Où voulez-vous aller ?  
+    IPHIGÉNIE.
+Ah ! Madame... Ah, Seigneur ! Où voulez-vous aller ?  
 
-    ACHILLE
-Et que prétend de moi votre injuste prière ?  
-Vous faudra-t-il toujours combattre la première ?  
+    ACHILLE.
+Et que prétend de moi votre injuste prière ?  
+Vous faudra-t-il toujours combattre la première ?  
 
-    CLYTEMNESTRE
-Quel est votre dessein, ma fille ?  
+    CLYTEMNESTRE.
+Quel est votre dessein, ma fille ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
         Au nom des dieux,  
 Madame, retenez un amant furieux.  
 De ce triste entretien détournons les approches.  
 Seigneur, trop d'amertume aigrirait vos reproches.  
 Je sais jusqu'où s'emporte un amant irrité,  
 Et mon père est jaloux de son autorité.  
-On ne connaît que trop la fierté des Atrides.  
+On ne connaît que trop la fierté des Atrides. [12]  
 Laissez parler, Seigneur, des bouches plus timides.  
 Surpris, n'en doutez point, de mon retardement,  
 Lui-même il me viendra chercher dans un moment.  
 Il entendra gémir une mère oppressée.  
 Et que ne pourra point m'inspirer la pensée  
 De prévenir les pleurs que vous verseriez tous,  
-D'arrêter vos transports, et de vivre pour vous ?  
+D'arrêter vos transports, et de vivre pour vous ?  
 
-    ACHILLE
+    ACHILLE.
 Enfin vous le voulez. Il faut donc vous complaire.  
 Donnez-lui l'un et l'autre un conseil salutaire.  
 Rappelez sa raison, persuadez-le bien,  
 Pour vous, pour mon repos, et surtout pour le sien.  
 Je perds trop de moments en des discours frivoles.  
 Il faut des actions, et non pas des paroles.  
-(À Clystemnestre.)
+À Clystemnestre.
 
 Madame, à vous servir je vais tout disposer.  
 Dans votre appartement allez vous reposer.  
 Votre fille vivra, je puis vous le prédire.  
 Croyez du moins, croyez que tant que je respire,  
-Les dieux auront en vain ordonné son trépas ;  
+Les dieux auront en vain ordonné son trépas ;  
 Cet oracle est plus sûr que celui de Calchas.  
 
 
 # ACTE IV
 
 
-## SCÈNE PREMIÈRE
-Eriphile, Doris.
+## SCÈNE PREMIÈRE. Eriphile, Doris.
 
-
-    DORIS
-Ah ! que me dites-vous ? Quelle étrange manie  
-Vous peut faire envier le sort d'Iphigénie ?  
-Dans une heure elle expire ; et jamais, dites-vous,  
+    DORIS.
+Ah ! que me dites-vous ? Quelle étrange manie  
+Vous peut faire envier le sort d'Iphigénie ?  
+Dans une heure elle expire ; et jamais, dites-vous,  
 Vos yeux de son bonheur ne furent plus jaloux.  
-Qui le croira, Madame ? Et quel cœur si farouche...  
+Qui le croira, Madame ? Et quel coeur si farouche...  
 
-    ERIPHILE
+    ERIPHILE.
 Jamais rien de plus vrai n'est sorti de ma bouche.  
 Jamais de tant de soins mon esprit agité  
 Ne porta plus d'envie à sa félicité.  
-Favorables périls ! espérance inutile !  
-N'as-tu pas vu sa gloire, et le trouble d'Achille ?  
+Favorables périls ! espérance inutile !  
+N'as-tu pas vu sa gloire, et le trouble d'Achille ?  
 J'en ai vu, j'en ai fui les signes trop certains.  
 Ce héros si terrible au reste des humains,  
 Qui ne connaît de pleurs que ceux qu'il fait répandre,  
 Qui s'endurcit contre eux dès l'âge le plus tendre,  
 Et qui, si l'on nous fait un fidèle discours,  
 Suça même le sang des lions et des ours,  
-Pour elle de la crainte a fait l'apprentissage :  
+Pour elle de la crainte a fait l'apprentissage :  
 Elle l'a vu pleurer et changer de visage.  
-Et tu la plains, Doris ? Par combien de malheurs  
-Ne lui voudrais-je point disputer de tels pleurs ?  
+Et tu la plains, Doris ? Par combien de malheurs  
+Ne lui voudrais-je point disputer de tels pleurs ?  
 Quand je devrais comme elle expirer dans une heure...  
-Mais que dis-je, expirer ? Ne crois pas qu'elle meure.  
+Mais que dis-je, expirer ? Ne crois pas qu'elle meure.  
 Dans un lâche sommeil crois-tu qu'enseveli  
-Achille aura pour elle impunément pâli ?  
+Achille aura pour elle impunément pâli ?  
 Achille à son malheur saura bien mettre obstacle.  
 Tu verras que les dieux n'ont dicté cet oracle  
 Que pour croître à la fois sa gloire et mon tourment,  
 Et la rendre plus belle aux yeux de son amant.  
-Hé quoi ! ne vois-tu pas tout ce qu'on fait pour elle ?  
-On supprime des dieux la sentence mortelle ;  
+Hé quoi ! ne vois-tu pas tout ce qu'on fait pour elle ?  
+On supprime des dieux la sentence mortelle ;  
 Et quoique le bûcher soit déjà préparé,  
 Le nom de la victime est encore ignoré.  
 Tout le camp n'en sait rien. Doris, à ce silence  
-Ne reconnais-tu pas un père qui balance ?  
-Et que fera-t-il donc ? Quel courage endurci  
-Soutiendrait les assauts qu'on lui prépare ici ?  
+Ne reconnais-tu pas un père qui balance ?  
+Et que fera-t-il donc ? Quel courage endurci  
+Soutiendrait les assauts qu'on lui prépare ici ?  
 Une mère en fureur, les larmes d'une fille,  
 Les cris, le désespoir de toute une famille,  
 Le sang à ces objets facile à s'ébranler,  
 Achille menaçant tout prêt à l'accabler.  
 Non, te dis-je, les dieux l'ont en vain condamnée.  
 Je suis, et je serai la seule infortunée.  
-Ah ! si je m'en croyais !  
+Ah ! si je m'en croyais !  
 
-    DORIS
-        Quoi ! que méditez-vous ?  
+    DORIS.
+        Quoi ! que méditez-vous ?  
 
-    ERIPHILE
+    ERIPHILE.
 Je ne sais qui m'arrête et retient mon courroux,  
 Que par un prompt avis de tout ce qui se passe  
 Je ne coure des dieux divulguer la menace,  
 Et publier partout les complots criminels,  
 Qu'on fait ici contre eux et contre leurs autels.  
 
-    DORIS
-Ah ! quel dessein, Madame !  
+    DORIS.
+Ah ! quel dessein, Madame !  
 
-    ERIPHILE
-        Ah ! Doris, quelle joie !  
-Que d'encens brûlerait dans les temples de Troie !  
+    ERIPHILE.
+        Ah ! Doris, quelle joie !  
+Que d'encens brûlerait dans les temples de Troie !  
 Si troublant tous les Grecs, et vengeant ma prison,  
-Je pouvais contre Achille armer Agamemnon ;  
+Je pouvais contre Achille armer Agamemnon ;  
 Si leur haine, de Troie oubliant la querelle,  
 Tournait contre eux le fer qu'ils aiguisent contre elle,  
 Et si de tout le camp mes avis dangereux,  
 Faisaient à ma patrie un sacrifice heureux.  
 
-    DORIS
+    DORIS.
 J'entends du bruit, on vient, Clystemnestre s'avance.  
 Remettez-vous, Madame, ou fuyez sa présence.  
 
-    ERIPHILE
+    ERIPHILE.
 Rentrons. Et pour troubler un hymen odieux,  
 Consultons des fureurs qu'autorisent les dieux.  
 
 
-## SCÈNE II
-Clytemnestre, AEgine.
+## SCÈNE II. Clytemnestre, AEgine.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Ægine, tu le vois, il faut que je la fuie.  
 Loin que ma fille pleure, et tremble pour sa vie,  
 Elle excuse son père, et veut que ma douleur  
-Respecte encor la main qui lui perce le cœur.  
-Ô constance ! ô respect ! Pour prix de sa tendresse  
+Respecte encor la main qui lui perce le coeur.  
+Ô constance ! ô respect ! Pour prix de sa tendresse  
 Le barbare à l'autel se plaint de sa paresse.  
 Je l'attends. Il viendra m'en demander raison,  
 Et croit pouvoir encor cacher sa trahison.  
@@ -1733,62 +1681,58 @@ Il vient. Sans éclater contre son injustice,
 Voyons s'il soutiendra son indigne artifice.  
 
 
-## SCÈNE III
-Agamemnon, Clytemnestre, AEgine.
+## SCÈNE III. Agamemnon, Clytemnestre, AEgine.
 
-
-    AGAMEMNON
-Que faites-vous, Madame ? Et d'où vient que ces lieux  
-N'offrent point avec vous votre fille à mes yeux ?  
+    AGAMEMNON.
+Que faites-vous, Madame ? Et d'où vient que ces lieux  
+N'offrent point avec vous votre fille à mes yeux ?  
 Mes ordres par Arcas vous l'avaient demandée.  
-Qu'attend-elle ? Est-ce vous qui l'avez retardée ?  
-À mes justes désirs ne vous rendez-vous pas ?  
-Ne peut-elle à l'autel marcher que sur vos pas ?  
+Qu'attend-elle ? Est-ce vous qui l'avez retardée ?  
+À mes justes désirs ne vous rendez-vous pas ?  
+Ne peut-elle à l'autel marcher que sur vos pas ?  
 Parlez.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
         S'il faut partir, ma fille est toute prête.  
-Mais vous, n'avez-vous rien, Seigneur, qui vous arrête ?  
+Mais vous, n'avez-vous rien, Seigneur, qui vous arrête ?  
 
-    AGAMEMNON
-Moi, Madame ?  
+    AGAMEMNON.
+Moi, Madame ?  
 
-    CLYTEMNESTRE
-        Vos soins ont-ils tout préparé ?  
+    CLYTEMNESTRE.
+        Vos soins ont-ils tout préparé ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Calchas est prêt, Madame, et l'autel est paré.  
 J'ai fait ce que m'ordonne un devoir légitime.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Vous ne me parlez point, Seigneur, de la victime.  
 
-    AGAMEMNON
-Que me voulez-vous dire ? Et de quel soin jaloux...  
+    AGAMEMNON.
+Que me voulez-vous dire ? Et de quel soin jaloux...  
 
 
-## SCÈNE IV
-Iphigénie, Agamemnon, Clytemnestre, AEgine.
+## SCÈNE IV. Iphigénie, Agamemnon, Clytemnestre, AEgine.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Venez, venez, ma fille, on n'attend plus que vous,  
 Venez remercier un père qui vous aime,  
 Et qui veut à l'autel vous conduire lui-même.  
 
-    AGAMEMNON
-Que vois-je ? Quel discours ? Ma fille, vous pleurez,  
+    AGAMEMNON.
+Que vois-je ? Quel discours ? Ma fille, vous pleurez,  
 Et baissez devant moi vos yeux mal assurés.  
-Quel trouble ! mais tout pleure, et la fille, et la mère.  
-Ah ! malheureux Arcas, tu m'as trahi.  
+Quel trouble ! mais tout pleure, et la fille, et la mère.  
+Ah ! malheureux Arcas, tu m'as trahi.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
         Mon père,  
 Cessez de vous troubler, vous n'êtes point trahi.  
 Quand vous commanderez, vous serez obéi.  
 Ma vie est votre bien. Vous voulez le reprendre,  
 Vos ordres sans détour pouvaient se faire entendre.  
-D'un œil aussi content, d'un cœur aussi soumis  
+D'un oeil aussi content, d'un coeur aussi soumis  
 Que j'acceptais l'époux que vous m'aviez promis,  
 Je saurai, s'il le faut, victime obéissante,  
 Tendre au fer de Calchas une tête innocente,  
@@ -1808,15 +1752,15 @@ C'est moi qui si longtemps le plaisir de vos yeux,
 Vous ai fait de ce nom remercier les dieux,  
 Et pour qui tant de fois prodiguant vos caresses,  
 Vous n'avez point du sang dédaigné les faiblesses.  
-Hélas ! avec plaisir je me faisais conter  
-Tous les noms des pays que vous allez dompter ;  
+Hélas ! avec plaisir je me faisais conter  
+Tous les noms des pays que vous allez dompter ;  
 Et déjà d'Ilion présageant la conquête,  
 D'un triomphe si beau je préparais la fête.  
 Je ne m'attendais pas que pour le commencer,  
 Mon sang fût le premier que vous dussiez verser.  
 Non que la peur du coup, dont je suis menacée,  
 Me fasse rappeler votre bonté passée.  
-Ne craignez rien. Mon cœur de votre honneur jaloux,  
+Ne craignez rien. Mon coeur de votre honneur jaloux,  
 Ne fera point rougir un père tel que vous.  
 Et si je n'avais eu que ma vie à défendre,  
 J'aurais su renfermer un souvenir si tendre.  
@@ -1824,14 +1768,14 @@ Mais à mon triste sort, vous le savez, Seigneur,
 Une mère, un amant attachaient leur bonheur.  
 Un roi digne de vous a cru voir la journée  
 Qui devait éclairer notre illustre hyménée.  
-Déjà sûr de mon cœur à sa flamme promis,  
+Déjà sûr de mon coeur à sa flamme promis,  
 Il s'estimait heureux, vous me l'aviez permis.  
 Il sait votre dessein, jugez de ses alarmes.  
 Ma mère est devant vous, et vous voyez ses larmes.  
 Pardonnez aux efforts que je viens de tenter,  
 Pour prévenir les pleurs que je leur vais coûter.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Ma fille, il est trop vrai. J'ignore pour quel crime  
 La colère des dieux demande une victime.  
 Mais ils vous ont nommée. Un oracle cruel  
@@ -1851,50 +1795,50 @@ Qui protégeait en vain ce qu'ils ont condamné.
 Ne vous assurez point sur ma faible puissance.  
 Quel frein pourrait d'un peuple arrêter la licence,  
 Quand les dieux nous livrant à son zèle indiscret,  
-L'affranchissent d'un joug qu'il portait à regret ?  
+L'affranchissent d'un joug qu'il portait à regret ?  
 Ma fille, il faut céder. Votre heure est arrivée.  
 Songez bien dans quel rang vous êtes élevée.  
 Je vous donne un conseil, qu'à peine je reçois,  
 Du coup qui vous attend vous mourrez moins que moi.  
 Montrez en expirant de qui vous êtes née.  
 Faites rougir ces dieux qui vous ont condamnée.  
-Allez ; et que les Grecs, qui vont vous immoler,  
+Allez ; et que les Grecs, qui vont vous immoler,  
 Reconnaissent mon sang en le voyant couler.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Vous ne démentez point une race funeste.  
 Oui, vous êtes le sang d'Atrée et de Thyeste.  
 Bourreau de votre fille, il ne vous reste enfin  
 Que d'en faire à sa mère un horrible festin.  
-Barbare ! c'est donc là cet heureux sacrifice  
+Barbare ! c'est donc là cet heureux sacrifice  
 Que vos soins préparaient avec tant d'artifice.  
-Quoi ! l'horreur de souscrire à cet ordre inhumain  
-N'a pas en le traçant arrêté votre main ?  
-Pourquoi feindre à nos yeux une fausse tristesse ?  
-Pensez-vous par des pleurs prouver votre tendresse ?  
-Où sont-ils ces combats que vous avez rendus ?  
-Quels flots de sang pour elle avez-vous répandus ?  
-Quel débris parle ici de votre résistance ?  
-Quel champ couvert de morts me condamne au silence ?  
+Quoi ! l'horreur de souscrire à cet ordre inhumain  
+N'a pas en le traçant arrêté votre main ?  
+Pourquoi feindre à nos yeux une fausse tristesse ?  
+Pensez-vous par des pleurs prouver votre tendresse ?  
+Où sont-ils ces combats que vous avez rendus ?  
+Quels flots de sang pour elle avez-vous répandus ?  
+Quel débris parle ici de votre résistance ?  
+Quel champ couvert de morts me condamne au silence ?  
 Voilà par quels témoins il fallait me prouver,  
 Cruel, que votre amour a voulu la sauver.  
 Un oracle fatal ordonne qu'elle expire.  
-Un oracle dit-il tout ce qu'il semble dire ?  
+Un oracle dit-il tout ce qu'il semble dire ?  
 Le ciel, le juste ciel par le meurtre honoré  
-Du sang de l'innocence est-il donc altéré ?  
+Du sang de l'innocence est-il donc altéré ?  
 Si du crime d'Hélène on punit sa famille,  
 Faites chercher à Sparte Hermione sa fille.  
 Laissez à Ménélas racheter d'un tel prix  
 Sa coupable moitié, dont il est trop épris.  
-Mais vous, quelles fureurs vous rendent sa victime ?  
-Pourquoi vous imposer la peine de son crime ?  
+Mais vous, quelles fureurs vous rendent sa victime ?  
+Pourquoi vous imposer la peine de son crime ?  
 Pourquoi moi-même enfin me déchirant le flanc,  
-Payer sa folle amour du plus pur de mon sang ?  
-Que dis-je ? Cet objet de tant de jalousie,  
+Payer sa folle amour du plus pur de mon sang ?  
+Que dis-je ? Cet objet de tant de jalousie,  
 Cette Hélène, qui trouble et l'Europe, et l'Asie,  
-Vous semble-t-elle un prix digne de vos exploits ?  
-Combien nos fronts pour elle ont-ils rougi de fois ?  
-Avant qu'un nœud fatal l'unît à votre frère,  
+Vous semble-t-elle un prix digne de vos exploits ?  
+Combien nos fronts pour elle ont-ils rougi de fois ?  
+Avant qu'un noeud fatal l'unît à votre frère,  
 Thésée avait osé l'enlever à son père.  
 Vous savez, et Calchas mille fois vous l'a dit,  
 Qu'un hymen clandestin mit ce prince en son lit,  
@@ -1905,23 +1849,23 @@ Sont les moindres des soins, dont vous êtes pressé.
 Cette soif de régner, que rien ne peut éteindre,  
 L'orgueil de voir vingt rois vous servir et vous craindre,  
 Tous les droits de l'empire en vos mains confiés,  
-Cruel, c'est à ces dieux que vous sacrifiez ;  
+Cruel, c'est à ces dieux que vous sacrifiez ;  
 Et loin de repousser le coup qu'on vous prépare,  
 Vous voulez vous en faire un mérite barbare.  
 Trop jaloux d'un pouvoir qu'on peut vous envier  
 De votre propre sang vous courez le payer,  
 Et voulez par ce prix épouvanter l'audace  
 De quiconque vous peut disputer votre place.  
-Est-ce donc être père ? Ah ! toute ma raison  
+Est-ce donc être père ? Ah ! toute ma raison  
 Cède à la cruauté de cette trahison.  
 Un prêtre environné d'une foule cruelle,  
-Portera sur ma fille une main criminelle ?  
-Déchirera son sein ? Et d'un œil curieux  
-Dans son cœur palpitant consultera les dieux ?  
+Portera sur ma fille une main criminelle ?  
+Déchirera son sein ? Et d'un oeil curieux  
+Dans son coeur palpitant consultera les dieux ?  
 Et moi, qui l'amenai triomphante, adorée,  
-Je m'en retournerai, seule, et désespérée ?  
+Je m'en retournerai, seule, et désespérée ?  
 Je verrai les chemins encor tout parfumés  
-Des fleurs, dont sous ses pas on les avait semés ?  
+Des fleurs, dont sous ses pas on les avait semés ?  
 Non, je ne l'aurai point amenée au supplice,  
 Ou vous ferez aux Grecs un double sacrifice.  
 Ni crainte, ni respect ne m'en peut détacher.  
@@ -1932,22 +1876,20 @@ Et vous, rentrez, ma fille, et du moins à mes lois
 Obéissez encor pour la dernière fois.  
 
 
-## SCÈNE V
+## SCÈNE V.
 
     AGAMEMNON, SEUL.
 À de moindres fureurs je n'ai pas dû m'attendre,  
 Voilà, voilà les cris que je craignais d'entendre.  
 Heureux, si dans le trouble, où flottent mes esprits,  
-Je n'avais toutefois à craindre que ses cris !  
-Hélas ! en m'imposant une loi si sévère,  
-Grands dieux ! me deviez-vous laisser un cœur de père ?  
+Je n'avais toutefois à craindre que ses cris !  
+Hélas ! en m'imposant une loi si sévère,  
+Grands dieux ! me deviez-vous laisser un coeur de père ?  
 
 
-## SCÈNE VI
-Achille, Agamemnon.
+## SCÈNE VI. Achille, Agamemnon.
 
-
-    ACHILLE
+    ACHILLE.
 Un bruit assez étrange est venu jusqu'à moi,  
 Seigneur, je l'ai jugé trop peu digne de foi.  
 On dit, et sans horreur je ne puis le redire,  
@@ -1958,92 +1900,92 @@ On dit que sous mon nom à l'autel appelée,
 Je ne l'y conduisais que pour être immolée,  
 Et que d'un faux hymen nous abusant tous deux,  
 Vous voulez me charger d'un emploi si honteux.  
-Qu'en dites-vous Seigneur ? Que faut-il que j'en pense ?  
-Ne ferez-vous pas taire un bruit qui vous offense ?  
+Qu'en dites-vous Seigneur ? Que faut-il que j'en pense ?  
+Ne ferez-vous pas taire un bruit qui vous offense ?  
 
-    AGAMEMNON
-Seigneur, je ne rends point compte de mes desseins :  
-Ma fille ignore encor mes ordres souverains ;  
+    AGAMEMNON.
+Seigneur, je ne rends point compte de mes desseins :  
+Ma fille ignore encor mes ordres souverains ;  
 Et quand il sera temps qu'elle en soit informée,  
 Vous apprendrez son sort, j'en instruirai l'armée.  
 
-    ACHILLE
-Ah ! je sais trop le sort que vous lui réservez.  
+    ACHILLE.
+Ah ! je sais trop le sort que vous lui réservez.  
 
-    AGAMEMNON
-Pourquoi le demander, puisque vous le savez ?  
+    AGAMEMNON.
+Pourquoi le demander, puisque vous le savez ?  
 
-    ACHILLE
-Pourquoi je le demande ? Ô ciel ! le puis-je croire ?  
-Qu'on ose des fureurs avouer la plus noire ?  
-Vous pensez qu'approuvant vos desseins odieux,   [7]
-Je vous laisse immoler votre fille à mes yeux ?  
-Que ma foi, mon amour, mon honneur y consente ?  
+    ACHILLE.
+Pourquoi je le demande ? Ô ciel ! le puis-je croire ?  
+Qu'on ose des fureurs avouer la plus noire ?  
+Vous pensez qu'approuvant vos desseins odieux,  
+Je vous laisse immoler votre fille à mes yeux ? [13]  
+Que ma foi, mon amour, mon honneur y consente ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Mais vous, qui me parlez d'une voix menaçante,  
-Oubliez-vous ici qui vous interrogez ?  
+Oubliez-vous ici qui vous interrogez ?  
 
-    ACHILLE
-Oubliez-vous qui j'aime, et qui vous outragez ?  
+    ACHILLE.
+Oubliez-vous qui j'aime, et qui vous outragez ?  
 
-    AGAMEMNON
-Et qui vous a chargé du soin de ma famille ?  
-Ne pourrai-je sans vous disposer de ma fille ?  
-Ne suis-je plus son père ? Êtes-vous son époux ?  
+    AGAMEMNON.
+Et qui vous a chargé du soin de ma famille ?  
+Ne pourrai-je sans vous disposer de ma fille ?  
+Ne suis-je plus son père ? Êtes-vous son époux ?  
 Et ne peut-elle...  
 
-    ACHILLE
+    ACHILLE.
         Non, elle n'est plus à vous.  
 On ne m'abuse point par des promesses vaines.  
 Tant qu'un reste de sang coulera dans mes veines,  
-Vous deviez à mon sort unir tous ses moments :  
+Vous deviez à mon sort unir tous ses moments :  
 Je défendrai mes droits fondés sur vos serments.  
-Et n'est-ce pas pour moi que vous l'avez mandée ?  
+Et n'est-ce pas pour moi que vous l'avez mandée ?  
 
-    AGAMEMNON
+    AGAMEMNON.
 Plaignez-vous donc aux dieux qui me l'ont demandée,  
 Accusez et Calchas, et le camp tout entier,  
 Ulysse, Ménélas, et vous tout le premier.  
 
-    ACHILLE
-Moi !  
+    ACHILLE.
+Moi !  
 
-    AGAMEMNON
+    AGAMEMNON.
         Vous, qui de l'Asie embrassant la conquête,  
 Querellez tous les jours le ciel qui vous arrête,  
 Vous, qui vous offensant de mes justes terreurs,  
 Avez dans tout le camp répandu vos fureurs.  
-Mon cœur pour la sauver vous ouvrait une voie.  
+Mon coeur pour la sauver vous ouvrait une voie.  
 Mais vous ne demandez, vous ne cherchez que Troie.  
 Je vous fermais le champ, où vous voulez courir.  
 Vous le voulez, partez, sa mort va vous l'ouvrir.  
 
-    ACHILLE
-Juste ciel ! puis-je entendre, et souffrir ce langage ?  
-Est-ce ainsi qu'au parjure on ajoute l'outrage ?  
-Moi, je voulais partir aux dépens de ses jours ?  
-Et que m'a fait à moi cette Troie où je cours ?  
-Au pied de ses remparts quel intérêt m'appelle ?  
+    ACHILLE.
+Juste ciel ! puis-je entendre, et souffrir ce langage ?  
+Est-ce ainsi qu'au parjure on ajoute l'outrage ?  
+Moi, je voulais partir aux dépens de ses jours ?  
+Et que m'a fait à moi cette Troie où je cours ?  
+Au pied de ses remparts quel intérêt m'appelle ?  
 Pour qui, sourd à la voix d'une mère immortelle,  
 Et d'un père éperdu négligeant les avis,  
-Vais-je y chercher la mort, tant prédite à leur fils ?  
+Vais-je y chercher la mort, tant prédite à leur fils ?  
 Jamais vaisseaux partis des rives du Scamandre  
-Aux champs thessaliens osèrent-ils descendre ?  
+Aux champs thessaliens osèrent-ils descendre ?  
 Et jamais dans Larisse un lâche ravisseur  
-Me vint-il enlever ou ma femme, ou ma sœur ?  
-Qu'ai-je à me plaindre ? Où sont les pertes que j'ai faites ?  
+Me vint-il enlever ou ma femme, ou ma soeur ?  
+Qu'ai-je à me plaindre ? Où sont les pertes que j'ai faites ?  
 Je n'y vais que pour vous, barbare que vous êtes,  
 Pour vous, à qui des Grecs moi seul je ne dois rien,  
 Vous, que j'ai fait nommer et leur chef, et le mien,  
 Vous que mon bras vengeait dans Lesbos enflammée,  
 Avant que vous eussiez assemblé votre armée.  
-Et quel fut le dessein qui nous assembla tous ?  
-Ne courons-nous pas rendre Hélène à son époux ?  
+Et quel fut le dessein qui nous assembla tous ?  
+Ne courons-nous pas rendre Hélène à son époux ?  
 Depuis quand pense-t-on qu'inutile à moi-même  
-Je me laisse ravir une épouse que j'aime ?  
+Je me laisse ravir une épouse que j'aime ?  
 Seul d'un honteux affront votre frère blessé  
-A-t-il droit de venger son amour offensé ?  
+A-t-il droit de venger son amour offensé ?  
 Votre fille me plut, je prétendis lui plaire.  
 Elle est de mes serments seule dépositaire.  
 Content de son hymen, vaisseaux, armes, soldats,  
@@ -2053,7 +1995,7 @@ Qu'il cherche une victoire à mon sang réservée.
 Je ne connais Priam, Hélène, ni Pâris.  
 Je voulais votre fille, et ne pars qu'à ce prix.  
 
-    AGAMEMNON
+    AGAMEMNON.
 Fuyez donc. Retournez dans votre Thessalie.  
 Moi-même je vous rends le serment qui vous lie.  
 Assez d'autres viendront, à mes ordres soumis,  
@@ -2069,20 +2011,20 @@ Doit marcher, doit fléchir, doit trembler sous vos lois.
 Un bienfait reproché tint toujours lieu d'offense.  
 Je veux moins de valeur, et plus d'obéissance.  
 Fuyez. Je ne crains point votre impuissant courroux.  
-Et je romps tous les nœuds, qui m'attachent à vous.  
+Et je romps tous les noeuds, qui m'attachent à vous.  
 
-    ACHILLE
-Rendez grâce au seul nœud qui retient ma colère.  
+    ACHILLE.
+Rendez grâce au seul noeud qui retient ma colère.  
 D'Iphigénie encor je respecte le père.  
 Peut-être sans ce nom, le chef de tant de rois  
 M'aurait osé braver pour la dernière fois.  
-Je ne dis plus qu'un mot, c'est à vous de m'entendre :  
+Je ne dis plus qu'un mot, c'est à vous de m'entendre :  
 J'ai votre fille ensemble, et ma gloire à défendre.  
-Pour aller jusqu'au cœur, que vous voulez percer,  
+Pour aller jusqu'au coeur, que vous voulez percer,  
 Voilà par quel chemin vos coups doivent passer.  
 
 
-## SCÈNE VII
+## SCÈNE VII.
 
     AGAMEMNON, SEUL.
 Et voilà ce qui rend sa perte inévitable.  
@@ -2091,70 +2033,64 @@ Ton insolent amour, qui croit m'épouvanter,
 Vient de hâter le coup que tu veux arrêter.  
 Ne délibérons plus. Bravons sa violence.  
 Ma gloire intéressée emporte la balance.  
-Achille menaçant détermine mon cœur.  
+Achille menaçant détermine mon coeur.  
 Ma pitié semblerait un effet de ma peur.  
-Holà, gardes, à moi !  
+Holà, gardes, à moi !  
 
 
-## SCÈNE VIII
-Agamemnon, Eurybate, Gardes.
+## SCÈNE VIII. Agamemnon, Eurybate, Gardes.
 
+    EURYBATE.
+    Seigneur.  
 
-    EURYBATE
-        Seigneur.  
-
-    AGAMEMNON
-        Que vais-je faire ?  
-Puis-je leur prononcer cet ordre sanguinaire ?  
-Cruel ! à quel combat faut-il te préparer ?  
-Quel est cet ennemi que tu leur vas livrer ?  
+    AGAMEMNON.
+        Que vais-je faire ?  
+Puis-je leur prononcer cet ordre sanguinaire ?  
+Cruel ! à quel combat faut-il te préparer ?  
+Quel est cet ennemi que tu leur vas livrer ?  
 Une mère m'attend, une mère intrépide,  
 Qui défendra son sang contre un père homicide.  
 Je verrai mes soldats, moins barbares que moi,  
 Respecter dans ses bras la fille de leur roi.  
 Achille nous menace, Achille nous méprise.  
-Mais ma fille en est-elle à mes lois moins soumise ?  
+Mais ma fille en est-elle à mes lois moins soumise ?  
 Ma fille, de l'autel cherchant à s'échapper,  
-Gémit-elle du coup dont je la veux frapper ?  
-Que dis-je ? Que prétend mon sacrilège zèle ?  
-Quels vœux en l'immolant formerai-je sur elle ?  
+Gémit-elle du coup dont je la veux frapper ?  
+Que dis-je ? Que prétend mon sacrilège zèle ?  
+Quels voeux en l'immolant formerai-je sur elle ?  
 Quelques prix glorieux qui me soient proposés,  
-Quels lauriers me plairont de son sang arrosés ?  
+Quels lauriers me plairont de son sang arrosés ?  
 Je veux fléchir des dieux la puissance suprême.  
-Ah ! quels dieux me seraient plus cruels que moi-même ?  
+Ah ! quels dieux me seraient plus cruels que moi-même ?  
 Non, je ne puis. Cédons au sang, à l'amitié,  
 Et ne rougissons plus d'une juste pitié.  
-Qu'elle vive. Mais quoi ! peu jaloux de ma gloire  
-Dois-je au superbe Achille accorder la victoire ?  
+Qu'elle vive. Mais quoi ! peu jaloux de ma gloire  
+Dois-je au superbe Achille accorder la victoire ?  
 Son téméraire orgueil que je vais redoubler,  
 Croira que je lui cède, et qu'il m'a fait trembler.  
-De quel frivole soin mon esprit s'embarrasse !  
-Ne puis-je pas d'Achille humilier l'audace ?  
+De quel frivole soin mon esprit s'embarrasse !  
+Ne puis-je pas d'Achille humilier l'audace ?  
 Que ma fille à ses yeux soit un sujet d'ennui.  
 Il l'aime. Elle vivra pour un autre que lui.  
 Eurybate, appelez la princesse, la reine.  
 Qu'elles ne craignent point.  
 
 
-## SCÈNE IX
-Agamemnon, Gardes.
+## SCÈNE IX. Agamemnon, Gardes.
 
-
-    AGAMEMNON
+    AGAMEMNON.
         Grands dieux, si votre haine  
 Persévère à vouloir l'arracher de mes mains,  
-Que peuvent devant vous tous les faibles humains ?  
+Que peuvent devant vous tous les faibles humains ?  
 Loin de la secourir, mon amitié l'opprime,  
 Je le sais. Mais, grands dieux, une telle victime  
 Vaut bien que confirmant vos rigoureuses lois,  
 Vous me la demandiez une seconde fois.  
 
 
-## SCÈNE X
-Agamemnon, Clytemnestre, Iphigénie, Eriphile, Eurybate, Doris, Gardes.
+## SCÈNE X. Agamemnon, Clytemnestre, Iphigénie, Eriphile, Eurybate, Doris, Gardes.
 
-
-    AGAMEMNON
+    AGAMEMNON.
 Allez, Madame, allez, prenez soin de sa vie.  
 Je vous rends votre fille, et je vous la confie.  
 Loin de ces lieux cruels précipitez ses pas.  
@@ -2166,35 +2102,33 @@ Gardez que ce départ ne leur soit révélé.
 Cachez bien votre fille, et que tout le camp croie  
 Que je la retiens seule, et que je vous renvoie.  
 Fuyez. Puissent les dieux, de mes larmes contents,  
-À mes tristes regards ne l'offrir de longtemps !  
+À mes tristes regards ne l'offrir de longtemps !  
 Gardes, suivez la reine.  
 
-    CLYTEMNESTRE
-        Ah, Seigneur !  
+    CLYTEMNESTRE.
+    Ah, Seigneur !  
 
-    IPHIGENIE
-        Ah ! Mon père !  
+    IPHIGÉNIE.
+        Ah ! Mon père !  
 
-    AGAMEMNON
+    AGAMEMNON.
 Prévenez de Calchas l'empressement sévère.  
 Fuyez, vous dis-je. Et moi, pour vous favoriser,  
-Par de feintes raisons je m'en vais l'abuser ;  
+Par de feintes raisons je m'en vais l'abuser ;  
 Je vais faire suspendre une pompe funeste,  
 Et de ce jour au moins lui demander le reste.  
 
 
-## SCÈNE XI
-Eriphile, Doris.
+## SCÈNE XI. Eriphile, Doris.
 
-
-    ERIPHILE
+    ERIPHILE.
 Suis-moi. Ce n'est pas là, Doris, notre chemin.  
 
-    DORIS
-Vous ne les suivez pas ?  
+    DORIS.
+Vous ne les suivez pas ?  
 
-    ERIPHILE
-        Ah ! je succombe enfin.  
+    ERIPHILE.
+        Ah ! je succombe enfin.  
 Je reconnais l'effet des tendresses d'Achille.  
 Je n'emporterai point une rage inutile.  
 Plus de raisons. Il faut, ou la perdre, ou périr.  
@@ -2204,11 +2138,9 @@ Viens, te dis-je. À Calchas je vais tout découvrir.
 # ACTE V
 
 
-## SCÈNE PREMIÈRE
-Iphignéie, AEgine.
+## SCÈNE PREMIÈRE. Iphignéie, AEgine.
 
-
-    IPHIGENIE
+    IPHIGÉNIE.
 Cesse de m'arrêter. Va, retourne à ma mère,  
 Ægine, il faut des dieux apaiser la colère.  
 Pour ce sang malheureux qu'on veut leur dérober,  
@@ -2218,37 +2150,35 @@ Vois comme tout le camp s'oppose à notre fuite,
 Avec quelle insolence ils ont de toutes parts  
 Fait briller à nos yeux la pointe de leurs dards.  
 Nos gardes repoussés, la reine évanouie...  
-Ah ! c'est trop l'exposer, souffre que je la fuie.  
+Ah ! c'est trop l'exposer, souffre que je la fuie.  
 Et sans attendre ici ses secours impuissants,  
 Laisse-moi profiter du trouble de ses sens.  
-Mon père même, hélas ! puisqu'il faut te le dire,  
+Mon père même, hélas ! puisqu'il faut te le dire,  
 Mon père en me sauvant, ordonne que j'expire.  
 
-    AEGINE
-Lui, Madame ? Quoi donc ? Qu'est ce qui s'est passé ?  
+    AEGINE.
+Lui, Madame ? Quoi donc ? Qu'est ce qui s'est passé ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Achille trop ardent l'a peut-être offensé.  
 Mais le roi, qui le hait, veut que je le haïsse.  
-Il ordonne à mon cœur cet affreux sacrifice.  
+Il ordonne à mon coeur cet affreux sacrifice.  
 Il m'a fait par Arcas expliquer ses souhaits,  
 Ægine, il me défend de lui parler jamais.  
 
-    AEGINE
-Ah, Madame !  
+    AEGINE.
+Ah, Madame !  
 
-    IPHIGENIE
-        Ah, sentence ! ah, rigueur inouïe !  
-Dieux plus doux ! vous n'avez demandé que ma vie.  
-Mourons, obéissons. Mais qu'est ce que je voi ?  
-Dieux ! Achille ?  
-
-
-## SCÈNE II
-Achille, Iphigénie.
+    IPHIGÉNIE.
+        Ah, sentence ! ah, rigueur inouïe !  
+Dieux plus doux ! vous n'avez demandé que ma vie.  
+Mourons, obéissons. Mais qu'est ce que je voi ?  
+Dieux ! Achille ?  
 
 
-    ACHILLE
+## SCÈNE II. Achille, Iphigénie.
+
+    ACHILLE.
         Venez, Madame, suivez-moi.  
 Ne craignez ni les cris ni la foule impuissante  
 D'un peuple qui se presse autour de cette tente.  
@@ -2260,22 +2190,22 @@ Tout le reste, assemblé près de mon étendard,
 Vous offre de ses rangs l'invincible rempart.  
 À vos persécuteurs opposons cet asile.  
 Qu'ils viennent vous chercher sous les tentes d'Achille.  
-Quoi, Madame ! est-ce ainsi que vous me secondez ?  
+Quoi, Madame ! est-ce ainsi que vous me secondez ?  
 Ce n'est que par des pleurs que vous me répondez.  
-Vous fiez-vous encore à de si faibles armes ?  
+Vous fiez-vous encore à de si faibles armes ?  
 Hâtons-nous. Votre père a déjà vu vos larmes.  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Je le sais bien, Seigneur. Aussi tout mon espoir  
 N'est plus qu'au coup mortel que je vais recevoir.  
 
-    ACHILLE
-Vous, mourir ? Ah ! cessez de tenir ce langage.  
-Songez-vous quel serment vous et moi nous engage ?  
+    ACHILLE.
+Vous, mourir ? Ah ! cessez de tenir ce langage.  
+Songez-vous quel serment vous et moi nous engage ?  
 Songez-vous ( pour trancher d'inutiles discours )  
-Que le bonheur d'Achille est fondé sur vos jours ?  
+Que le bonheur d'Achille est fondé sur vos jours ?  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Le ciel n'a point aux jours de cette infortunée,  
 Attaché le bonheur de votre destinée.  
 Notre amour nous trompait. Et les arrêts du sort  
@@ -2299,12 +2229,12 @@ Faites pleurer ma mort aux veuves des Troyens.
 Je meurs dans cet espoir satisfaite, et tranquille.  
 Si je n'ai pas vécu la compagne d'Achille,  
 J'espère que du moins un heureux avenir,  
-À vos faits immortels joindra mon souvenir ;  
+À vos faits immortels joindra mon souvenir ;  
 Et qu'un jour mon trépas, source de votre gloire,  
 Ouvrira le récit d'une si belle histoire.  
 Adieu, Prince, vivez, digne race des dieux.  
 
-    ACHILLE
+    ACHILLE.
 Non, je ne reçois point vos funestes adieux.  
 En vain par ce discours votre cruelle adresse  
 Veut servir votre père, et tromper ma tendresse.  
@@ -2313,31 +2243,31 @@ Intéresser ma gloire à vous laisser périr.
 Ces moissons de lauriers, ces honneurs, ces conquêtes,  
 Ma main, en vous servant, les trouve toutes prêtes.  
 Et qui de ma faveur se voudrait honorer,  
-Si mon hymen prochain ne peut vous assurer ?  
+Si mon hymen prochain ne peut vous assurer ?  
 Ma gloire, mon amour, vous ordonnent de vivre.  
 Venez, Madame, il faut les en croire, et me suivre.  
 
-    IPHIGENIE
-Qui ? moi ? Que contre un père osant me révolter,  
-Je mérite la mort, que j'irais éviter ?  
-Où serait le respect ? Et ce devoir suprême...  
+    IPHIGÉNIE.
+Qui ? moi ? Que contre un père osant me révolter,  
+Je mérite la mort, que j'irais éviter ?  
+Où serait le respect ? Et ce devoir suprême...  
 
-    ACHILLE
+    ACHILLE.
 Vous suivrez un époux avoué par lui-même.  
 C'est un titre qu'en vain il prétend me voler.  
-Ne fait-il des serments que pour les violer ?  
+Ne fait-il des serments que pour les violer ?  
 Vous-même, que retient un devoir si sévère,  
-Quand il vous donne à moi, n'est-il point votre père ?  
+Quand il vous donne à moi, n'est-il point votre père ?  
 Suivez-vous seulement ses ordres absolus,  
-Quand il cesse de l'être, et ne vous connaît plus ?  
+Quand il cesse de l'être, et ne vous connaît plus ?  
 Enfin c'est trop tarder, ma Princesse, et ma crainte...  
 
-    IPHIGENIE
-Quoi, Seigneur ! vous iriez jusques à la contrainte ?  
+    IPHIGÉNIE.
+Quoi, Seigneur ! vous iriez jusques à la contrainte ?  
 D'un coupable transport écoutant la chaleur,  
-Vous pourriez ajouter ce comble à mon malheur ?  
+Vous pourriez ajouter ce comble à mon malheur ?  
 Ma gloire vous serait moins chère que ma vie.  
-Ah, Seigneur ! épargnez la triste Iphigénie.  
+Ah, Seigneur ! épargnez la triste Iphigénie.  
 Asservie à des lois que j'ai dû respecter,  
 C'est déjà trop pour moi, que de vous écouter.  
 Ne portez pas plus loin votre injuste victoire.  
@@ -2345,10 +2275,10 @@ Ou par mes propres mains immolée à ma gloire,
 Je saurai m'affranchir dans ces extrémités,  
 Du secours dangereux que vous me présentez.  
 
-    ACHILLE
-Hé bien ! n'en parlons plus. Obéissez, cruelle,  
+    ACHILLE.
+Hé bien ! n'en parlons plus. Obéissez, cruelle,  
 Et cherchez une mort qui vous semble si belle.  
-Portez à votre père un cœur, où j'entrevois  
+Portez à votre père un coeur, où j'entrevois  
 Moins de respect pour lui, que de haine pour moi.  
 Une juste fureur s'empare de mon âme.  
 Vous allez à l'autel, et moi j'y cours, Madame,  
@@ -2363,27 +2293,25 @@ Votre père frappé tombe, et périt lui-même,
 Alors de vos respects voyant les tristes fruits,  
 Reconnaissez les coups, que vous aurez conduits.  
 
-    IPHIGENIE
-Ah, Seigneur ! Ah ! cruel... Mais il fuit, il m'échappe.  
+    IPHIGÉNIE.
+Ah, Seigneur ! Ah ! cruel... Mais il fuit, il m'échappe.  
 Ô toi, qui veux ma mort, me voilà seule, frappe,  
 Termine, juste ciel, ma vie, et mon effroi,  
 Et lance ici des traits, qui n'accablent que moi.  
 
 
-## SCÈNE III
-Clytemnestre, AEgine, Eurybate, Gardes.
+## SCÈNE III. Clytemnestre, AEgine, Eurybate, Gardes.
 
-
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Oui, je la défendrai contre toute l'armée,  
-Lâches, vous trahissez votre reine opprimée !  
+Lâches, vous trahissez votre reine opprimée !  
 
-    EURYBATE
-Non, Madame, il suffit que vous me commandiez.   [8]
-Vous nous verrez combattre, et mourir à vos pieds.  
-Mais de nos faibles mains, que pouvez-vous attendre ?  
-Contre tant d'ennemis, qui vous pourra défendre ?   [9]
-Ce n'est plus un vain peuple en désordre assemblé.  
+    EURYBATE.
+Non, Madame, il suffit que vous me commandiez.  
+Vous nous verrez combattre, et mourir à vos pieds. [14]  
+Mais de nos faibles mains, que pouvez-vous attendre ?  
+Contre tant d'ennemis, qui vous pourra défendre ?  
+Ce n'est plus un vain peuple en désordre assemblé. [15]  
 C'est d'un zèle fatal tout le camp aveuglé.  
 Plus de pitié. Calchas seul règne, seul commande.  
 La piété sévère exige son offrande.  
@@ -2391,24 +2319,24 @@ Le roi, de son pouvoir se voit déposséder.
 Et lui-même au torrent nous contraint de céder.  
 Achille à qui tout cède, Achille à cet orage  
 Voudrait lui-même en vain opposer son courage.  
-Que fera-t-il, Madame ? Et qui peut dissiper  
-Tous les flots d'ennemis prêts à l'envelopper ?  
+Que fera-t-il, Madame ? Et qui peut dissiper  
+Tous les flots d'ennemis prêts à l'envelopper ?  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Qu'ils viennent donc sur moi prouver leur zèle impie,  
 Et m'arrachent ce peu qui me reste de vie.  
-La mort seule, la mort pourra rompre les nœuds  
+La mort seule, la mort pourra rompre les noeuds  
 Dont mes bras nous vont joindre, et lier toutes deux.  
 Mon corps sera plutôt séparé de mon âme,  
-Que je souffre jamais... Ah ma fille !  
+Que je souffre jamais... Ah ma fille !  
 
-    IPHIGENIE
-        Ah Madame !  
+    IPHIGÉNIE.
+        Ah Madame !  
 Sous quel astre cruel avez-vous mis au jour  
-Le malheureux objet d'une si tendre amour ?  
-Mais que pouvez-vous faire en l'état où nous sommes ?  
+Le malheureux objet d'une si tendre amour ?  
+Mais que pouvez-vous faire en l'état où nous sommes ?  
 Vous avez à combattre et les dieux et les hommes.  
-Contre un peuple en fureur vous exposerez-vous ?  
+Contre un peuple en fureur vous exposerez-vous ?  
 N'allez point, dans un camp rebelle à votre époux,  
 Seule à me retenir vainement obstinée,  
 Par des soldats peut-être indignement traînée,  
@@ -2421,67 +2349,65 @@ La flamme de trop près viendrait frapper vos yeux.
 Surtout, si vous m'aimez, par cet amour de mère,  
 Ne reprochez jamais mon trépas à mon père.  
 
-    CLYTEMNESTRE
-Lui ! par qui votre cœur à Calchas présenté...  
+    CLYTEMNESTRE.
+Lui ! par qui votre coeur à Calchas présenté...  
 
-    IPHIGENIE
-Pour me rendre à vos pleurs que n'a-t-il point tenté ?  
+    IPHIGÉNIE.
+Pour me rendre à vos pleurs que n'a-t-il point tenté ?  
 
-    CLYTEMNESTRE
-Par quelle trahison le cruel m'a déçue !  
+    CLYTEMNESTRE.
+Par quelle trahison le cruel m'a déçue !  
 
-    IPHIGENIE
+    IPHIGÉNIE.
 Il me cédait aux dieux, dont il m'avait reçue.  
 Ma mort n'emporte pas tout le fruit de vos feux.  
-De l'amour qui vous joint vous avez d'autres nœuds.  
+De l'amour qui vous joint vous avez d'autres noeuds.  
 Vos yeux me reverront dans Oreste mon frère.  
-Puisse-t-il être, hélas ! moins funeste à sa mère !  
+Puisse-t-il être, hélas ! moins funeste à sa mère !  
 D'un peuple impatient vous entendez la voix.  
 Daignez m'ouvrir vos bras pour la dernière fois,  
 Madame, et rappelant votre vertu sublime...  
 Eurybate, à l'autel conduisez la victime.  
 
 
-## SCÈNE IV
-Clytemnestre, AEgine, Gardes.
+## SCÈNE IV. Clytemnestre, AEgine, Gardes.
 
-
-    CLYTEMNESTRE
-Ah ! vous n'irez pas seule, et je ne prétends pas...  
+    CLYTEMNESTRE.
+Ah ! vous n'irez pas seule, et je ne prétends pas...  
 Mais on se jette en foule au devant de mes pas.  
 Perfides, contentez votre soif sanguinaire.  
 
-    AEGINE
-Où courez-vous, Madame, et que voulez-vous faire ?  
+    AEGINE.
+Où courez-vous, Madame, et que voulez-vous faire ?  
 
-    CLYTEMNESTRE
-Hélas ! je me consume en impuissants efforts,  
+    CLYTEMNESTRE.
+Hélas ! je me consume en impuissants efforts,  
 Et rentre au trouble affreux, dont à peine je sors.  
-Mourrai-je tant de fois sans sortir de la vie ?  
+Mourrai-je tant de fois sans sortir de la vie ?  
 
-    AEGINE
-Ah ! savez-vous le crime, et qui vous a trahie,  
-Madame ? Savez-vous quel serpent inhumain  
-Iphigénie avait retiré dans son sein ?  
+    AEGINE.
+Ah ! savez-vous le crime, et qui vous a trahie,  
+Madame ? Savez-vous quel serpent inhumain  
+Iphigénie avait retiré dans son sein ?  
 Ériphile en ces lieux par vous-même conduite,  
 A seule à tous les Grecs révélé votre fuite.  
 
-    CLYTEMNESTRE
-Ô monstre, que Mégère en ses flancs a porté !  
-Monstre ! que dans nos bras les Enfers ont jeté.  
-Quoi ! tu ne mourras point ? Quoi ! pour punir son crime...  
-Mais où va ma douleur chercher une victime ?  
+    CLYTEMNESTRE.
+Ô monstre, que Mégère en ses flancs a porté !  
+Monstre ! que dans nos bras les Enfers ont jeté.  
+Quoi ! tu ne mourras point ? Quoi ! pour punir son crime...  
+Mais où va ma douleur chercher une victime ?  
 Quoi pour noyer les Grecs, et leurs mille vaisseaux,  
-Mer, tu n'ouvriras pas des abîmes nouveaux ?  
-Quoi ! lorsque les chassant du port qui les recèle,  
+Mer, tu n'ouvriras pas des abîmes nouveaux ?  
+Quoi ! lorsque les chassant du port qui les recèle,  
 L'Aulide aura vomi leur flotte criminelle,  
 Les vents, les mêmes vents si longtemps accusés,  
-Ne te couvriront pas de ses vaisseaux brisés ?   [10]
-Et toi, Soleil, et toi, qui dans cette contrée  
+Ne te couvriront pas de ses vaisseaux brisés ?  
+Et toi, Soleil, et toi, qui dans cette contrée [16]  
 Reconnais l'héritier, et le vrai fils d'Atrée,  
 Toi, qui n'osas du père éclairer le festin,  
 Recule, ils t'ont appris ce funeste chemin.  
-Mais cependant, ô ciel ! ô mère infortunée !  
+Mais cependant, ô ciel ! ô mère infortunée !  
 De festons odieux ma fille couronnée  
 Tend la gorge aux couteaux, par son père apprêtés,  
 Calchas va dans son sang... Barbares, arrêtez.  
@@ -2490,11 +2416,9 @@ J'entends gronder la foudre, et sens trembler la terre.
 Un dieu vengeur, un dieu fait retentir ces coups.  
 
 
-## SCÈNE V
-Clytemnestre, AEgine, Arcas, Gardes.
+## SCÈNE V. Clytemnestre, AEgine, Arcas, Gardes.
 
-
-    ARCAS
+    ARCAS.
 N'en doutez point, Madame. Un dieu combat pour vous.  
 Achille en ce moment exauce vos prières.  
 Il a brisé des Grecs les trop faibles barrières.  
@@ -2507,29 +2431,29 @@ Le triste Agamemnon, qui n'ose l'avouer,
 Pour détourner ses yeux des meurtres qu'il présage,  
 Ou pour cacher ses pleurs, s'est voilé le visage.  
 Venez, puisqu'il se tait, venez par vos discours  
-De votre défenseur appuyer le secours :  
+De votre défenseur appuyer le secours :  
 Lui-même de sa main de sang toute fumante  
 Il veut entre vos bras remettre son amante.  
 Lui-même il m'a chargé de conduire vos pas.  
 Ne craignez rien.  
 
-    CLYTEMNESTRE
-        Moi, craindre ! ah ! courons, cher Arcas.  
+    CLYTEMNESTRE.
+        Moi, craindre ! ah ! courons, cher Arcas.  
 Le plus affreux péril n'a rien dont je pâlisse.  
-J'irai partout. Mais dieux ! ne vois-je pas Ulysse ?  
+J'irai partout. Mais dieux ! ne vois-je pas Ulysse ?  
 C'est lui. Ma fille est morte, Arcas, il n'est plus temps.  
 
 
 ## SCÈNE DERNIÈRE. Ulysse, Arcas, AEgine, Gardes.
 
-    ULYSSE
-Non, votre fille vit, et les dieux sont contents.   [11]
-Rassurez-vous. Le ciel a voulu vous la rendre.  
+    ULYSSE.
+Non, votre fille vit, et les dieux sont contents.  
+Rassurez-vous. Le ciel a voulu vous la rendre. [17]  
 
-    CLYTEMNESTRE
-Elle vit ! Et c'est vous qui venez me l'apprendre !  
+    CLYTEMNESTRE.
+Elle vit ! Et c'est vous qui venez me l'apprendre !  
 
-    ULYSSE
+    ULYSSE.
 Oui, c'est moi, qui longtemps contre elle et contre vous  
 Ai cru devoir, Madame, affermir votre époux,  
 Moi, qui jaloux tantôt de l'honneur de nos armes  
@@ -2537,11 +2461,11 @@ Par d'austères conseils ai fait couler vos larmes,
 Et qui viens, puisqu'enfin le ciel est apaisé,  
 Réparer tout l'ennui que je vous ai causé.  
 
-    CLYTEMNESTRE
-Ma fille ! Ah, Prince ! Ô ciel ! je demeure éperdue.  
-Quel miracle, Seigneur, quel dieu me l'a rendue ?  
+    CLYTEMNESTRE.
+Ma fille ! Ah, Prince ! Ô ciel ! je demeure éperdue.  
+Quel miracle, Seigneur, quel dieu me l'a rendue ?  
 
-    ULYSSE
+    ULYSSE.
 Vous m'en voyez moi-même en cet heureux moment,  
 Saisi d'horreur, de joie, et de ravissement.  
 Jamais jour n'a paru si mortel à la Grèce.  
@@ -2555,7 +2479,7 @@ Mais quoique seul pour elle, Achille furieux
 Déjà de traits en l'air s'élevait un nuage.  
 Déjà coulait le sang prémices du carnage.  
 Entre les deux partis Calchas s'est avancé,  
-L'œil farouche, l'air sombre, et le poil hérissé,  
+L'oeil farouche, l'air sombre, et le poil hérissé,  
 Terrible, et plein du dieu, qui l'agitait sans doute.  
 « Vous, Achille, a-t-il dit, et vous Grecs, qu'on m'écoute.  
 Le dieu, qui maintenant vous parle par ma voix,  
@@ -2571,10 +2495,10 @@ D'un sinistre avenir je menaçai ses jours.
 Sous un nom emprunté sa noire destinée,  
 Et ses propres fureurs ici l'ont amenée.  
 Elle me voit, m'entend, elle est devant vos yeux,  
-Et c'est elle en un mot que demandent les dieux. »  
+Et c'est elle en un mot que demandent les dieux.»  
 Ainsi parle Calchas. Tout le camp immobile  
 L'écoute avec frayeur, et regarde Ériphile.  
-Elle était à l'autel, et peut-être en son cœur  
+Elle était à l'autel, et peut-être en son coeur  
 Du fatal sacrifice accusait la lenteur.  
 Elle-même tantôt d'une course subite  
 Était venue aux Grecs annoncer votre fuite.  
@@ -2585,7 +2509,7 @@ Et prononce à Calchas sa sentence mortelle.
 Déjà pour la saisir Calchas lève le bras.  
 « Arrête, a-t-elle dit, et ne m'approche pas.  
 Le sang de ces héros, dont tu me fais descendre,  
-Sans tes profanes mains saura bien se répandre. »  
+Sans tes profanes mains saura bien se répandre.»  
 Furieuse elle vole, et sur l'autel prochain  
 Prend le sacré couteau, le plonge dans son sein.  
 À peine son sang coule et fait rougir la terre,  
@@ -2599,7 +2523,7 @@ Jette une sainte horreur, qui nous rassure tous.
 Le soldat étonné dit que dans une nue  
 Jusque sur le bûcher Diane est descendue,  
 Et croit que s'élevant au travers de ses feux,  
-Elle portait au ciel notre encens et nos vœux.  
+Elle portait au ciel notre encens et nos voeux.  
 Tout s'empresse, tout part. La seule Iphigénie  
 Dans ce commun bonheur pleure son ennemie.  
 Des mains d'Agamemnon venez la recevoir.  
@@ -2607,31 +2531,159 @@ Venez, Achille et lui brûlants de vous revoir,
 Madame, et désormais tous deux d'intelligence  
 Sont prêts à confirmer leur auguste alliance.  
 
-    CLYTEMNESTRE
+    CLYTEMNESTRE.
 Par quel prix, quel encens, ô ciel, puis-je jamais  
-Récompenser Achille, et payer tes bienfaits !  
+Récompenser Achille, et payer tes bienfaits !  
+
+
+# ANNEXES
+
+
+## Liste des oeuvres théâtrales de Jean Racine
+
+Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.
+
+La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal
+
+Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.
+
+Andromaque (1667), représentée pour le première fois le 17 novembre 1667 à l'Hôtel de Bourgogne.
+
+Les Plaideurs (1668), représentée pour le première fois le 28 mai à l'Hôtel Guénégaud.
+
+Britannicus (1669), représentée pour le première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
+
+Bérénice (1670), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Mithridate (1673), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Bajazet (1672), représentée pour le première fois le 1er janvier 1672 à l'Hôtel de Bourgogne.
+
+Iphigénie, représentée pour le première fois le 18 août 1674 à l'Hôtel de Bourgogne.
+
+Phèdre (1677), représentée pour le première fois le 1er janvier 1677 à l'Hôtel de Bourgogne.
+
+Esther, représentée pour le première fois le 26 janvier 1689 au Collège de Saint-Cyr.
+
+Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de Saint-Cyr.
+
+
+# PLAN DU PREMIER ACTE D'IPHIGÉNIE EN TAURIDE.
+
+
+## SCÈNE I.
+
+IPHIGÉNIE, une captive grecque.
+
+Iphigénie vient avec une captive grecque, qui s'étonne de sa tristesse. Elle demande si c'est qu'elle est affligée de ce que la fête de Diane se passera sans qu'on lui immole aucun étranger.
+
+Tu peux croire, dit Iphigénie, si c'est là un sentiment digne de la fille d'Agamemnon. Tu sais avec quelle répugnance j'ai préparé les misérables que l'on a sacrifiés depuis que je préside à ces cruelles cérémonies. Je me faisais une joie de ce que la fortune n'avait amené aucun Grec pour cette journée, et je triomphais seule de la douleur commune qui est répandue dans cette île, où l'on compte pour un présage funeste de ce que nous manquons de victimes pour cette fête. Mais je ne puis résister à la secrète tristesse dont je suis occupée depuis le songe que j'ai fait cette nuit, J'ai cru que j'étais à Mycène, dans la maison de mon père : il m'a semblé que mon père et ma mère nageaient dans le sang, et que moi-même je tenais un poignard à la main pour en égorger mon frère Oreste. Hélas ! Mon cher Oreste !
+
+LA CAPTIVE.
+
+Mais, Madame, vous êtes trop éloignés l'un de l'autre pour craindre l'accomplissement de votre songe.
+
+IPHIGÉNIE.
+
+Et ce n'est pas aussi ce que je crains ; mais je crains avec raison qu'il n'y ait de grands malheurs dans ma famille : les rois sont sujets à de grands changements. Ah ! Si je t'avais perdu, mon cher Oreste, sur qui seul j'ai fondé mes espérances! car enfin j'ai plus sujet de t'aimer que tout le reste de ma famille : tu ne fus point coupable de ce sacrifice où mon père m'avait condamnée dans l'Aulide ; tu étais un enfant de dix ans. Tu as été élevé avec moi, et tu es le seul de toute la Grèce que je regrette tous les jours.
+
+LA CAPTIVE.
+
+Mais, madame, quelle apparence qu'il sache l'état où vous êtes ? Vous êtes dans une île détestée de tout le monde : si le hasard y amène quelque Grec, on le sacrifie. Que ne renoncez-vous à la Grèce ? Que ne répondez-vous à l'amour du prince ?
+
+IPHIGÉNIE.
+
+Eh ! Que me servirait de m'y attacher ? Son père Thoas lui défend de m'aimer ; il ne me parle qu'en tremblant; car ils ignorent tous deux ma naissance, et je n'ai garde de leur découvrir une chose qu'ils ne croiraient pas ; car quelle apparence qu'une fille que des pirates ont enlevée dans le moment qu'on l'allait sacrifier pour le salut de la Grèce fût la fille du général de la Grèce ? Mais voici ce prince.
+
+
+## SCÈNE II. Le fils de Thoas, Iphigénie, la captive grecque.
+
+IPHIGÉNIE.
+
+Qu'avez-vous prince ? D'où vient ce désordre et cette émotion qui vous reste ?
+
+LE FILS DE THOAS.
+
+Madame, je suis cause du plus grand malheur du monde. Vous savez combien j'ai détesté avec vous les sacrifices de cette île : je me réjouissais de ce que vous seriez aujourd'hui dispensée de cette funeste occupation ; et cependant je suis cause que vous avez deux Grecs à sacrifier.
+
+IPHIGÉNIE.
+
+Comment, Seigneur ?
+
+LE FILS DE THOAS.
+
+On m'est venu avertir que deux jeunes hommes étaient environnés d'une grande foule de peuple contre lequel ils se défendaient. J'ai couru sur le bord de la mer; je les ai trouvés à la porte du temple, qui vendaient chèrement leur vie, et qui ne songeaient chacun qu'à la défense l'un de l'autre. Leur courage m'a piqué de générosité. Je les ai défendus moi-même ; j'ai désarmé le peuple : et ils se sont rendus à moi. Leurs habits les ont fait passer pour Grecs : ils l'ont avoué. J'ai frémi à cette parole; on les a menés malgré moi à mon père : et vous pouvez juger quelle sera leur destinée. La joie est universelle, et on remercie les Dieux d'une prise qui me met au désespoir. Mais enfin, Madame, ou je ne pourrai, ou je vous affranchirai bientôt de la malheureuse dignité qui vous engage à ces sacrifices. Mais voici le roi mon père.
+
+
+## SCÈNE III. Thoas, le fils de Thoas, Iphigénie, la captive grecque.
+
+THOAS.
+
+Quoi ! Madame, vous êtes encore ici ! Ne devriez-vous pas être dans le temple pour remercier la déesse de ces deux victimes qu'elle nous a envoyées? Allez préparer tout pour le sacrifice, et vous reviendrez ensuite, afin qu'on vous remette entre les mains ces deux étrangers.
+
+Iphigénie sort.
+
+
+## SCÈNE IV. Thoas, le fils de Thoas.
+
+Le prince fait quelque effort pour obtenir de son père la vie de ces deux Grecs, afin qu'il ne les ait pas sauvés inutilement. Le roi le maltraite, et lui dit que ce sont là les sentiments qui lui ont été inspirés par la jeune Grecque; il lui reproche la passion qu'il a pour une esclave.
+
+LE FILS DE THOAS.
+
+Et qui vous dit, seigneur, que c'est une esclave ?
+
+THOAS.
+
+Et quelle autre qu'une esclave aurait été choisie par les Grecs pour être sacrifiée ?
+
+LE FILS DE THOAS.
+
+Quoi ! Ne vous souvient-il plus des habillements qu'elle avait lorsqu'on l'amena ici ? Avez vous oublié que les pirates l'enlevèrent dans le moment qu'elle allait recevoir le coup mortel ? Nos peuples eurent plus de compassion pour elle que les Grecs n'en avaient eu : et au lieu de la sacrifier à Diane, ils la choisirent pour présider elle-même à ses sacrifices.
+
+Le prince sort déplorant sa malheureuse générosité, qui a sauvé la vie à deux Grecs, pour la leur faire perdre plus cruellement.
+
+
+## SCÈNE V. Thoas, Le Confident.
+
+THOAS.
+
+Le roi témoigne à son confident qu'il se fait violence en maltraitant son fils.
+
+Mais quelle apparence de donner les mains à une passion qui le déshonore ? Allons, et demandons tantôt à la déesse, parmi nos prières, qu'elle donne à mon fils des sentiments plus dignes de lui.
 
 -------
 
 
 [1] Le texte est celui de l'édition 1697. Les variantes sont indiquées.
 
-[2] État : Position sociale. Il ne faut pas avoir des goûts au-dessus de son état. L
+[2] État : Position sociale. Il ne faut pas avoir des goûts au-dessus de son état. L
 
-[3] Variante éd. 1675 et 1676 : v.491, "mes faibles yeux" au lieu de "mes tristes yeux".
+[3] Industrie : Habileté à faire quelque chose, à exécuter un travail manuel. Fig. Invention, savoir-faire. L
 
-[4] Variante éd. 1677 à 1687 : v.529, "Et que pour votre vie" au lieu de "Et que la tyrannie".
+[4] Mer Égée : Mer situé entre le Grèce et la Turquie du nom du roi d'Athènes père de Thésée.
 
-[5] Variante éd. 1675 : v.936, "la conduit à la mort" au lieu de "l'a conduite à la mort".
+[5] Patrocle : Héros légendaire de l'Iliade. Cousin et ami d'Achille, il est tué par Hector.
 
-[6] Variante éd. antérieures à 1697 : suivant le v.1035, "Quel trouble ! Quel torrent de mots injurieux//Accusait à la fois les hommes et les dieux !// Ah ! Que vous auriez-vu, sans que je vous le die,// De combien votre amour m'est plus cher que la vie".
+[6] Xanthe : Fleuve proche de Troie. Son autre nom est Scamandre.
 
-[7] Variante éd. 1675 à 1687 : v.1339, "Vous croyez" au lieu de "Vous pensez".
+[7] Lesbos : île de la mer Égée, au nord-est de l'Aulide où se déroule l'action d'Iphégénie.
 
-[8] Variante éd. 1675 à 1687 : v.1615, "vous nous commandiez" au lieu de "vous me commandiez".
+[8] Variante éd. 1675 et 1676 : v.491, "mes faibles yeux" au lieu de "mes tristes yeux".
 
-[9] Variante éd. 1675 à 1687 : v.1618, "qui pourra vous" au lieu de "qui vous pourra".
+[9] Thétis : Néréïdes (fille de Nérée) et mère d'Achille.
 
-[10] Variante éd. 1675 à 1687 : v.1685, "de ces vaisseaux" au lieu de "de ses vaisseaux".
+[10] Variante éd. 1675 : v.936, "la conduit à la mort" au lieu de "l'a conduite à la mort".
 
-[11] Variante éd. 1675 à 1687 : v.1716, "Madame, elle vit," au lieu de "votre fille vit,".
+[11] Variante éd. antérieures à 1697 : suivant le v.1035, "Quel trouble ! Quel torrent de mots injurieux//Accusait à la fois les hommes et les dieux !// Ah ! Que vous auriez-vu, sans que je vous le die,// De combien votre amour m'est plus cher que la vie".
+
+[12] Atrides : nom donné aux descendants d'Atrée, spécialement à ses deux petits-fils, Agamemnon et Ménélas. B 
+
+[13] Variante éd. 1675 à 1687 : v.1339, "Vous croyez" au lieu de "Vous pensez".
+
+[14] Variante éd. 1675 à 1687 : v.1615, "vous nous commandiez" au lieu de "vous me commandiez".
+
+[15] Variante éd. 1675 à 1687 : v.1618, "qui pourra vous" au lieu de "qui vous pourra".
+
+[16] Variante éd. 1675 à 1687 : v.1685, "de ces vaisseaux" au lieu de "de ses vaisseaux".
+
+[17] Variante éd. 1675 à 1687 : v.1716, "Madame, elle vit," au lieu de "votre fille vit,".

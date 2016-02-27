@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_tartuffe *id_I01 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1669 *creator_moliere
 
 -*who_madame_pernelle
 Allons, Flipote, allons ; que d'eux je me délivre.
@@ -247,7 +247,7 @@ Allons, vous ; vous rêvez, et bayez aux Corneilles ;
 Jour de Dieu, je saurai vous frotter les oreilles ;
 Marchons, gaupe, marchons.
 
-**** *book_moliere_tartuffe *id_I02 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1669 *creator_moliere
 
 -*who_cleante
       Je n'y veux point aller,
@@ -298,7 +298,7 @@ Un Mouchoir qu'il trouva dans une Fleur des Saints ;
 Disant que nous mêlions, par un crime effroyable,
 Avec la Sainteté, les parures du Diable.
 
-**** *book_moliere_tartuffe *id_I03 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1669 *creator_moliere
 
 -*who_elmire
 Vous êtes bien heureux, de n'être point venu
@@ -322,7 +322,7 @@ Et s'il fallait…
 -*who_dorine
       Il entre.
 
-**** *book_moliere_tartuffe *id_I04 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1669 *creator_moliere
 
 -*who_orgon
       Ah, mon Frère, bonjour.
@@ -408,7 +408,7 @@ Le pauvre Homme !
 Et je vais à Madame annoncer par avance,
 La part que vous prenez à sa convalescence.
 
-**** *book_moliere_tartuffe *id_I05 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1669 *creator_moliere
 
 -*who_cleante
 À votre nez, mon Frère, elle se rit de vous ;
@@ -662,7 +662,7 @@ Adieu.
       Pour son amour, je crains une disgrâce,
 Et je dois l'avertir de tout ce qui se passe.
 
-**** *book_moliere_tartuffe *id_II01 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1669 *creator_moliere
 
 -*who_orgon
 Mariane.
@@ -757,7 +757,7 @@ Unir, par votre hymen, Tartuffe à ma Famille.
 Il sera votre Époux, j'ai résolu cela ;
 Et comme sur vos vœux je…
 
-**** *book_moliere_tartuffe *id_II02 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1669 *creator_moliere
 
 -*who_orgon
       Que faites-vous là ?
@@ -1026,7 +1026,7 @@ Je me sens hors d'état maintenant de poursuivre,
 Ses discours insolents m'ont mis l'esprit en feu,
 Et je vais prendre l'air, pour me rasseoir un peu.
 
-**** *book_moliere_tartuffe *id_II03 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1669 *creator_moliere
 
 -*who_dorine
 Avez-vous donc perdu, dites-moi, la parole ?
@@ -1228,7 +1228,7 @@ Je te le dis, Dorine, il faudra que j'expire.
 Ne vous tourmentez point, on peut adroitement
 Empêcher… Mais voici Valère votre Amant.
 
-**** *book_moliere_tartuffe *id_II04 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1669 *creator_moliere
 
 -*who_valere
 On vient de débiter, Madame, une nouvelle,
@@ -1604,7 +1604,7 @@ Sortez, vous dis-je.
       Quel caquet est le vôtre !
 Tirez de cette part ; et vous, tirez de l'autre.
 
-**** *book_moliere_tartuffe *id_III01 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1669 *creator_moliere
 
 -*who_damis
 Que la Foudre, sur l'heure, achève mes destins ;
@@ -1658,7 +1658,7 @@ Sortez.
 -*who_dorine
 Que vous êtes fâcheux ! Il vient, retirez-vous.
 
-**** *book_moliere_tartuffe *id_III02 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1669 *creator_moliere
 
 -*who_tartuffe
 Laurent, serrez ma Haire, avec ma Discipline,
@@ -1719,7 +1719,7 @@ Viendra-t-elle bientôt ?
       Je l'entends, ce me semble.
 Oui, c'est elle en personne, et je vous laisse ensemble.
 
-**** *book_moliere_tartuffe *id_III03 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1669 *creator_moliere
 
 -*who_tartuffe
 Que le Ciel à jamais, par sa toute bonté,
@@ -1931,7 +1931,7 @@ De renoncer vous-même à l'injuste pouvoir
 Qui veut du bien d'un autre enrichir votre espoir ;
 Et...
 
-**** *book_moliere_tartuffe *id_III04 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1669 *creator_moliere
 
 -*who_damis
       Non, Madame, non, ceci doit se répandre.
@@ -1978,7 +1978,7 @@ Et vos discours en vain prétendent m'obliger
 Sans aller plus avant, je vais vider d'affaire ;
 Et voici justement de quoi me satisfaire.
 
-**** *book_moliere_tartuffe *id_III05 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1669 *creator_moliere
 
 -*who_damis
 Nous allons régaler, mon Père, votre abord,
@@ -2002,7 +2002,7 @@ Et qu'il suffit, pour nous, de savoir nous défendre.
 Ce sont mes sentiments ; et vous n'auriez rien dit,
 Damis, si j'avais eu sur vous quelque crédit.
 
-**** *book_moliere_tartuffe *id_III06 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1669 *creator_moliere
 
 -*who_orgon
 Ce que je viens d'entendre, ô Ciel ! est-il croyable ?
@@ -2141,7 +2141,7 @@ Oui, je sortirai, mais…
 Je te prive, pendard, de ma succession,
 Et te donne, de plus, ma malédiction.
 
-**** *book_moliere_tartuffe *id_III07 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1669 *creator_moliere
 
 -*who_orgon
 Offenser de la sorte une sainte Personne !
@@ -2235,7 +2235,7 @@ La volonté du Ciel soit faite en toute chose.
 Le pauvre Homme ! Allons vite en dresser un Écrit,
 Et que puisse l'Envie en crever de dépit.
 
-**** *book_moliere_tartuffe *id_IV01 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1669 *creator_moliere
 
 -*who_cleante
 Oui, tout le monde en parle, et vous m'en pouvez croire.
@@ -2341,7 +2341,7 @@ Et vous m'excuserez, de vous quitter sitôt.
 -*who_cleante
 Ah !
 
-**** *book_moliere_tartuffe *id_IV02 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1669 *creator_moliere
 
 -*who_dorine
       De grâce, avec nous, employez-vous pour elle,
@@ -2352,7 +2352,7 @@ Il va venir ; joignons nos efforts, je vous prie,
 Et tâchons d'ébranler de force, ou d'industrie,
 Ce malheureux dessein qui nous a tous troublés.
 
-**** *book_moliere_tartuffe *id_IV03 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1669 *creator_moliere
 
 -*who_orgon
 Ha, je me réjouis de vous voir assemblés.
@@ -2497,7 +2497,7 @@ Non, on est aisément dupé par ce qu'on aime,
 Et l'amour-propre, engage à se tromper soi-même.
 Faites-le-moi descendre ; et vous, retirez-vous.
 
-**** *book_moliere_tartuffe *id_IV04 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1669 *creator_moliere
 
 -*who_elmire
 Approchons cette Table, et vous mettez dessous.
@@ -2542,7 +2542,7 @@ Qu'à ce qu'il vous faudra pour vous désabuser.
 Ce sont vos intérêts, vous en serez le maître,
 Et… L'on vient, tenez-vous, et gardez de paraître.
 
-**** *book_moliere_tartuffe *id_IV05 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1669 *creator_moliere
 
 -*who_tartuffe
 On m'a dit qu'en ce lieu vous me vouliez parler.
@@ -2736,7 +2736,7 @@ Et je l'ai mis au point de voir tout, sans rien croire.
 Il n'importe, sortez, je vous prie, un moment,
 Et partout, là dehors, voyez exactement.
 
-**** *book_moliere_tartuffe *id_IV06 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1669 *creator_moliere
 
 -*who_orgon
 Voilà, je vous l'avoue, un abominable Homme !
@@ -2756,7 +2756,7 @@ Mon Dieu, l'on ne doit point croire trop de léger ;
 Laissez-vous bien convaincre, avant que de vous rendre,
 Et ne vous hâtez point, de peur de vous méprendre.
 
-**** *book_moliere_tartuffe *id_IV07 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV07 *act_IV *date_1669 *creator_moliere
 
 -*who_tartuffe
 Tout conspire, Madame, à mon contentement :
@@ -2802,7 +2802,7 @@ Que j'ai de quoi confondre, et punir l'imposture,
 Venger le Ciel qu'on blesse, et faire repentir
 Ceux qui parlent ici de me faire sortir.
 
-**** *book_moliere_tartuffe *id_IV08 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV08 *act_IV *date_1669 *creator_moliere
 
 -*who_elmire
 Quel est donc ce langage, et qu'est-ce qu'il veut dire ?
@@ -2831,7 +2831,7 @@ Et quoi ?
       Vous saurez tout : mais voyons au plus tôt,
 Si certaine Cassette est encore là-haut.
 
-**** *book_moliere_tartuffe *id_V01 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1669 *creator_moliere
 
 -*who_cleante
 Où voulez-vous courir ?
@@ -2913,7 +2913,7 @@ Mais au vrai zèle aussi n'allez pas faire injure ;
 Et s'il vous faut tomber dans une extrémité,
 Péchez plutôt encor de cet autre côté.
 
-**** *book_moliere_tartuffe *id_V02 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1669 *creator_moliere
 
 -*who_damis
 Quoi ! mon Père, est-il vrai qu'un Coquin vous menace ?
@@ -2936,7 +2936,7 @@ Modérez, s'il vous plaît, ces transports éclatants ;
 Nous vivons sous un règne, et sommes dans un temps,
 Où, par la violence, on fait mal ses affaires.
 
-**** *book_moliere_tartuffe *id_V03 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1669 *creator_moliere
 
 -*who_madame_pernelle
 Qu'est-ce ? J'apprends ici de terribles mystères.
@@ -3087,7 +3087,7 @@ Et mes…
       Que veut cet Homme ? Allez tôt le savoir ;
 Je suis bien en état que l'on me vienne voir.
 
-**** *book_moliere_tartuffe *id_V04 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1669 *creator_moliere
 
 -*who_loyal
 Bonjour, ma chère Sœur. Faites, je vous supplie,
@@ -3263,7 +3263,7 @@ Jusqu'au revoir. Le Ciel vous tienne tous en joie.
 -*who_orgon
 Puisse-t-il te confondre, et celui qui t'envoie !
 
-**** *book_moliere_tartuffe *id_V05 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1669 *creator_moliere
 
 -*who_orgon
 Hé bien, vous le voyez, ma Mère, si j'ai droit ;
@@ -3293,7 +3293,7 @@ Ce procédé détruit la vertu du Contrat ;
 Et sa déloyauté va paraître trop noire,
 Pour souffrir qu'il en ait le succès qu'on veut croire.
 
-**** *book_moliere_tartuffe *id_V06 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1669 *creator_moliere
 
 -*who_valere
 Avec regret, Monsieur, je viens vous affliger ;
@@ -3342,7 +3342,7 @@ Adieu, prenez le soin vous autres…
       Allez tôt ;
 Nous songerons, mon Frère, à faire ce qu'il faut.
 
-**** *book_moliere_tartuffe *id_V07 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V07 *act_V *date_1669 *creator_moliere
 
 -*who_tartuffe
 Tout beau, Monsieur, tout beau, ne courez point si vite,

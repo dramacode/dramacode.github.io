@@ -736,7 +736,7 @@ Par grace et Privilege du Roy, Il est permis à Pierre David marchand Libraire �
 OLIER.< Achevé d’imprimer le cinquiesme jour d’Aoust mil six cens trente deux. >
 
 
-## A   SON AMY DU RYER SUR SON LIVRE.
+## A SON AMY DU RYER SUR SON LIVRE.
 Que tu vas recueillir de gloire  
 Des belles bouches de la cour,  
 Maintenant que tu mets au jour  
@@ -796,10 +796,6 @@ Apres quelques accidens, qui seront peut-estre plus agreables dans la lecture de
  – UN COURRIER
  – 
 
-LISANDRE ET CALISTE
-
-TRAGI-COMEDIE
-
 
 ## ACTE PREMIER
 
@@ -811,7 +807,7 @@ LISANDRE , CRISANTE
     LISANDRE [59]
 Indiscrets mouvemens⁎ d'une Amour insensee  
 Ne sortirez vous point de ma triste pensee ?  
-Le funeste⁎ entretien de mes feux criminels                          
+Le funeste⁎ entretien de mes feux criminels  
 Ne me doit-il donner que des maux eternels ?  
 Estoit-il arresté [60] qu'une beauté fatale⁎  
 M'eschaufferoit le sang d'une flame brutale ?  
@@ -833,7 +829,7 @@ Mais helas c'est en vain que je conçoy l'envie
 De finir dans mes feux ma miserable vie,  
 Ils tiennent en ce point de celuy de l'enfer  
 Qu'ils me bruslent tousjours sans pouvoir m'estouffer.  
-Caliste est dans mon cœur, Cleandre est avec elle                      
+Caliste est dans mon cœur, Cleandre est avec elle  
 En danger de perir dans ma flame immortelle,  
 Tantost l'amour l'emporte, et tantost l'amitié,  
 Quelques fois leur accord le [63] divise à moitié :  
@@ -853,7 +849,7 @@ C'est toutes fois en vain que sa voix me console,
 Mon mal n'est pas de ceux que guerit la parole.  
 Qu'ay-je fait insensé de songer à guerir  
 Où l'honneur outragé me condamne à mourir ?  
-Où la raison [65] employe un remords legitime                      
+Où la raison [65] employe un remords legitime  
 A me peindre par tout la grandeur de mon crime ?  
 Mais bien qu'elle m'accuse au fort de mes ennuis⁎  
 Et condamne l'exceds des transports où je suis,  
@@ -874,7 +870,7 @@ Et sa pudicité ne veut pas que j'espere,
 Sa beauté me contente et me rend malheureux ;  
 Mais quelqu'un interromp mes pensers amoureux.  
 
-    CRISANTE    
+    CRISANTE
 Cloridan outragé de la seule memoire,  
 Qui met devant ses yeux sa honte et votre gloire⁎,  
 Vous donne ce cartel⁎ où sa main a tracé  
@@ -899,7 +895,7 @@ Que l'autre mal content aussitost ne s'offence.
     CRISANTE
 Ce n'est pas la raison qu'estant avecques vous  
 Je ne sois employé qu'à juger de vos coups [70] ;  
-J'ayme mieux que mon sang colore un paysage                          
+J'ayme mieux que mon sang colore un paysage  
 Que la honte s'en serve à rougir mon visage.  
 
     LISANDRE
@@ -922,7 +918,7 @@ LEON, CLARINDE, PAGE, BERONTE
     LEON
 Clarinde je sçay bien que mon ame asservie  
 Doit à ton amitié⁎ le bonheur⁎ de ma vie,  
-Je sçay bien que tes yeux sans feinte et sans rigueur                      
+Je sçay bien que tes yeux sans feinte et sans rigueur  
 N'ont jamais approuvé de me voir en langueur ;  
 Mais tu sçais bien aussi, beau subjet de mes flames  
 Que le consentement a marié nos ames,  
@@ -945,7 +941,7 @@ Je puis rendre bien tost nos deux ames contentes.
 Que dis tu mon soucy, quand viendra ce moment  
 Que reserve l'amour à mon contentement ?  
 
-    CLARINDE    
+    CLARINDE
 Caliste doibt passer la nuit avec Cleandre,  
 Et me laissera seule où je te veux attendre,  
 
@@ -962,7 +958,7 @@ Reconaistre en effet que Clarinde est à toy.
 Y pourras tu venir ?  
 
     LEON
-            J'y viendrois ma chere Ame [74]  
+        J'y viendrois ma chere Ame [74]  
 Me fallut-il passer les ondes et la flame,  
 Mon amour est extreme, et tu merites bien  
 Que pour te posseder on n'apprehende rien.  
@@ -971,22 +967,22 @@ Que pour te posseder on n'apprehende rien.
 Ainsi je t'attendray.  
 
     LEON
-            Tu ne m'attendras guere ;  
-Mais j'attendray beaucoup une faveur si chere.                      
+        Tu ne m'attendras guere ;  
+Mais j'attendray beaucoup une faveur si chere.  
 
     PAGE
 Clarinde.  
 
     CLARINDE
-L'on m'appelle, adieu.  
+    L'on m'appelle, adieu.  
 
     LEON
-                N'est-il pas nuit,  
+        N'est-il pas nuit,  
 Puis que je voy desja mon soleil qui s'enfuit ? [75]  
 Mais que voudroit [76] Beronte ?  
 
     BERONTE
-                Amy je viens d'apprendre  
+        Amy je viens d'apprendre  
 Que quelques malcontents ont appellé Lisandre,  
 Mais allons tesmoigner que l'honneur glorieux⁎  
 Ne fait pas moins d'amis qu'il fait voir d'envieux.  
@@ -995,7 +991,7 @@ Ne fait pas moins d'amis qu'il fait voir d'envieux.
 Où se fait le combat ?  
 
     BERONTE
-            Derriere la montaigne  
+        Derriere la montaigne  
 Qui separe le bois d'avecques la campagne.  
 
     LEON
@@ -1003,7 +999,7 @@ Allons donq sans remise⁎, en pareils mouvemens⁎
 Un moment differé fait de grands changemens.  
 
 
-### SCENE TROISIESME [77]                    
+### SCENE TROISIESME [77]
 CRISANTE, LISANDRE, LEON, BERONTE
 
 
@@ -1020,7 +1016,7 @@ Mais de quelque peril qui me puisse assieger
 Celle de Cloridan me pourra desgager. [79]  
 Crisante ne croy pas dedans cette entreprise  
 Pour [80] venir d'un amy quelle te favorise,  
-Mais as tu bien pour luy tant de ressentiment                          
+Mais as tu bien pour luy tant de ressentiment  
 Que tu vueilles en fin le suivre au monument⁎ ?  
 
     CRISANTE
@@ -1049,7 +1045,7 @@ Me fait apprehender quelque insigne⁎ malheur.
 Cherchons de tous costez ne laissons point de place  
 Où nos pieds diligens n'impriment quelque trace.  
 
-    LEON        
+    LEON
 Mais n'entendez vous pas quelques tristes soupirs  
 Qui me semblent venir d'ailleurs que des Zephirs ?  
 
@@ -1075,7 +1071,7 @@ N'a voulu prolonger les restes de ma vie,
 Que pour vous asseurer par mon sang respandu  
 Que Lisandre attaqué s'est fort bien deffendu.  
 
-    LEON         
+    LEON
 L'attainte de ce coup ne peut estre mortelle,  
 Mais faites nous sçavoir d'où vient vostre querelle.  
 
@@ -1095,12 +1091,12 @@ Que jamais le bon droit ne manque de pouvoir.
 Quel chemin a-t-il pris ?  
 
     CRISANTE
-            Je ne vous le puis dire.  
+        Je ne vous le puis dire.  
 
     LEON
 Dites nous pour le moins où Cloridan expire.  
 
-    CRISANTE    
+    CRISANTE
 Cloridan icy pres hors d'espoir de guerir  
 Se noyant dans son sang acheve de mourir.  
 
@@ -1108,7 +1104,7 @@ Se noyant dans son sang acheve de mourir.
 Je m'en vay le chercher.  
 
     CRISANTE
-            Et moy qui sors du monde,  
+        Et moy qui sors du monde,  
 Je m'en vay le treuver dedans la nuit profonde.  
 
     LEON
@@ -1126,7 +1122,7 @@ Ce qu'elle vient de prdre en cét evenement.
     BERONTE *revient*
 Amy je l'ay treuvé moins sensible qu'un arbre,  
 Et mille fois plus froid que ne seroit un marbre.  
-Il semble que son sang sur qui [85] nage son corps                          
+Il semble que son sang sur qui [85] nage son corps  
 Luy serve de ruisseau pour passer chez les morts [86].  
 
     LEON
@@ -1145,7 +1141,7 @@ Et puis que la rigueur trop aveugle au merite
 Ne vous peut asseurer⁎ si ce n'est par la fuite,  
 Cognoissant le danger qui vous suit maintenant  
 Je serois criminel en vous y retenant.  
-Mais ressouvenez vous en ce malheur extreme                      
+Mais ressouvenez vous en ce malheur extreme  
 Que vous laissez icy la moitié de vous mesme,  
 Si bien qu'en obtenant vostre grace du Roy  
 Je faits esgallement et pour vous et pour moy.  
@@ -1173,8 +1169,8 @@ Vous voulez de la sorte augmenter son soucy.
     CLEANDRE
 Je reviendray bien tost.  
 
-    LISANDRE    
-            Faut-il que je vous quitte ?  
+    LISANDRE
+        Faut-il que je vous quitte ?  
 Helas ! je fuy le mal, et je m'y precipite,  
 J'abandonne ces lieux affin de m'assurer⁎,  
 Mais vous abandonnant quel bien doy-je esperer ?  
@@ -1197,7 +1193,7 @@ Et vous rendre suspect à l'esprit de Cleandre.
 
     LISANDRE
 J'ay tant de bons desirs pour Cleandre et pour vous,  
-Qu'il le peut bien sçavoir sans en estre jaloux.                      
+Qu'il le peut bien sçavoir sans en estre jaloux.  
 
     CALISTE
 J'en doubte neantmoins : Mais il vaut mieux me croire  
@@ -1220,7 +1216,7 @@ Tant que l'honneur rendra vos passions discrettes
 Unissant le respect à vos flames secrettes,  
 L'aymable souvenir de vos perfections⁎  
 Partagera le soing de mes affections,  
-Et puis que mon Amour est le prix de Cleandre,                      
+Et puis que mon Amour est le prix de Cleandre,  
 Mon amitié sera le loyer de Lisandre.  
 
     LISANDRE
@@ -1244,7 +1240,7 @@ Que d'estre criminelle en vous desesperant. [88]
     LISANDRE
 Si la saincte amitié que vous m'avez juree  
 Reçoit de mon respect son terme et sa duree,  
-Et si vous ne blasmez mon dessein vertueux                      
+Et si vous ne blasmez mon dessein vertueux  
 Que quand je cesseray d'estre respectueux,  
 Je suis desja certain que mon ame asservie  
 Jouïra d'un bon-heur aussi long que ma vie. [89]  
@@ -1268,7 +1264,7 @@ Helas ! si j'ay commis un crime en combattant,
 J'en souffre dans l'esprit la peine en vous quittant. [91]  
 
 
-### SCENE CINQUIESME                
+### SCENE CINQUIESME
 BERONTE, ALCIDON
 
 
@@ -1276,7 +1272,7 @@ BERONTE, ALCIDON
 Ou courrez vous si tard ?  
 
     ALCIDON
-            Je m'en vay chez Cleandre  
+        Je m'en vay chez Cleandre  
 M'instruire du combat de nostre amy Lisandre,  
 Desja le bruit commun fatal⁎ à son renom  
 Obscurcit làchement la gloire⁎ de son nom,  
@@ -1292,7 +1288,7 @@ Mais allons chez Cleandre, et je vous feray voir
 Ce que la verité fera par tout sçavoir.  
 
 
-### SCENE SIXIESME                    
+### SCENE SIXIESME
 LEON, CLARINDE, CALISTE, CLEANDRE, / BERONTE, ALCIDON
 
 
@@ -1310,8 +1306,8 @@ Et la plus sombre nuict luy plaist mieux que le jour.
 Leon.  
 
     LEON
-    Hà je te tiens, tu ne t'en peux dédire  
-Icy ma volonté finira mon martyre. [92]                              
+        Hà je te tiens, tu ne t'en peux dédire  
+Icy ma volonté finira mon martyre. [92]  
 
     CLARINDE
 La Fortune contraire à nos feux mutuels  
@@ -1323,7 +1319,7 @@ Et sauvez promptement nostre Amour par la fuite.
 Que dites vous Clarinde ?  
 
     CLARINDE
-            Adieu j'entends du bruit,  
+        Adieu j'entends du bruit,  
 Caliste vient icy pour y passer la nuit.  
 
     LEON
@@ -1334,14 +1330,14 @@ Choisiray-je la porte, ou plustost la fenestre ?
 Qui vous a fait entrer ? au secours.  
 
     CLEANDRE
-                furieux⁎ [93],  
+        furieux⁎ [93],  
 Nous sçaurons le subjet qui t'ameine en ces lieux,  
 Ou de ta propre espee : hà le traistre me tuë,  
 Et son mauvais dessein dessus moy s'effectue.  
 Il laisse son espee dans le corps de Cleandre
 
 
-    CALISTE    
+    CALISTE
 Arrestez ce cruel, helas ! je parle en vain,  
 L'on diroit que la nuict approuve son dessein,  
 Et que pour en monstrer la poursuite impossible  
@@ -1359,14 +1355,14 @@ Ne fut pas sans subjet à sa mort occupee ;
 C'est celle de Lisandre.  
 
     ALCIDON
-            Hé Dieux que dites vous ?  
+        Hé Dieux que dites vous ?  
 
     BERONTE
 Que l'on seme à dessein tant de maux parmy nous.  
 Clarinde vous direz cette tragique histoire  
 Où le vice rencontre une lâche victoire :  
 Ou la geyne⁎ obtiendra par une autre façon  
-Ce que vostre silence apprend à mon soupçon.                          
+Ce que vostre silence apprend à mon soupçon.  
 
     CALISTE
 Joindrez vous aux douleurs d'une perte incroyable  
@@ -1390,10 +1386,10 @@ En me montrant l'auteur d'un acte si brutal,
 Dites, ou la rigueur .  
 
     CLARINDE
-            Il est vray c'est Lisandre.  
+        Il est vray c'est Lisandre.  
 Elle monstre l'espee de Lisandre avec laquelle Leon venoit de tuer Cleandre.
 
-Aupres de ce tesmoing je ne le puis deffendre. [99]                          
+Aupres de ce tesmoing je ne le puis deffendre. [99]  
 
     BERONTE
 O perfide Lisandre, ô cœur formé de fer  
@@ -1416,7 +1412,7 @@ Et nous faisant de feu, soubs ombre*⁎* d'allegeance⁎,
 Elle nous rend legers à suivre la vengeance.  
 Ne craignez rien, Madame, et croyez que les Dieux  
 Prendront vostre party contre ce furieux⁎,  
-Lisandre par moy mesme adverty de vos peines                          
+Lisandre par moy mesme adverty de vos peines  
 Coupera le chemin à ses poursuites vaines.  
 Et bien que son duel l'engage en un danger  
 Je sçay que sa vertu vous viendra soulager⁎,  
@@ -1432,7 +1428,7 @@ Je tireray ce bien de mes maux apparans⁎
 Que je ne sçaurois pas en craindre de plus grands. [101]  
 
 
-## ACTE SECOND                        
+## ACTE SECOND
 
 
 ### SCENE PREMIERE
@@ -1448,7 +1444,7 @@ J'ay tant fait par mes soings et par ma vigilance
 Que nous viendrons à bout de cette violence.  
 Autrefois un mortel instruit à triompher  
 Retira son ami d'un fabuleux enfer, [104]  
-Mais mon effort plus juste et moins espouvantable                  
+Mais mon effort plus juste et moins espouvantable  
 Tirera mon amour d'un enfer veritable ;  
 Et malgré les dangers je recognois encor  
 Que l'on passe par tout par le moyen de l'or.  
@@ -1473,7 +1469,7 @@ Rarement par la fuite on en est excusé.
 
     LISANDRE
 Lors qu'il s'agit d'un crime où la haine et l'envie  
-Par cent moyens divers poursuivent nostre vie,                      
+Par cent moyens divers poursuivent nostre vie,  
 Soit que l'on soit coupable, ou qu'on soit innocent  
 Il est toujours moins seur d'estre present qu'absent.  
 Approuve mon dessein, Amy, je t'en conjure,  
@@ -1501,7 +1497,7 @@ Elle donne secours à vostre passion.
 
     LISANDRE
 Sa fenestre est si pres de celle de Caliste  
-Que je luy puis parler sans que l'on me resiste. [108]                  
+Que je luy puis parler sans que l'on me resiste. [108]  
 
     ALCIDON
 En fin je vous entends⁎ : mais quelle extremité  
@@ -1531,7 +1527,7 @@ Allons donq.
 La place destinee⁎ où je vous doy revoir.  
 
 
-### SCENE DEUXIESME                        
+### SCENE DEUXIESME
 LE BOUCHER, LA BOUCHERE, LISANDRE.
 
 
@@ -1547,7 +1543,7 @@ Si ce jeune muguet [111] n'y viendroit point pour toy ?
 
     LA BOUCHERE
 Alors qu' [112] il vous donna de si belles pistolles,  
-Que ne [113] luy teniez vous de semblables paroles.                          
+Que ne [113] luy teniez vous de semblables paroles.  
 
     LE BOUCHER
 Si j'ay pris son argent, je l'ay fort bien servy,  
@@ -1575,11 +1571,11 @@ Evitons les moyens de nous en repentir.
 Alison [114], il vaut mieux à ce point se reduire  
 Que de se conserver un amy qui peut nuire.  
 
-    LA BOUCHERE    
+    LA BOUCHERE
 Qui peut nuire, coment ?  
 
     LE BOUCHER
-            Si quelqu'un s'apperçoit  
+        Si quelqu'un s'apperçoit  
 Que nous favorisions le dessein qu'il conçoit,  
 Je crains d'en recevoir du reproche et du blasme,  
 Et qu'on mette au cachot gros guillaume [115] et sa femme :  
@@ -1598,14 +1594,14 @@ L'on parle à mon habit, soyez moins inhumaine,
 Cognoissez⁎ vos amis.  
 
     LA BOUCHERE
-            Nous les cognoissons bien,  
+        Nous les cognoissons bien,  
 Retirez vous d'icy vous n'y gaignerez rien.  
 
-    LISANDRE    
+    LISANDRE
 Cette chayne de prix.  
 
     LA BOUCHERE
-            Nous en avons veu d'autres  
+        Nous en avons veu d'autres  
 Qui nous ont bien appris ce que valent les vostres.  
 Allez vendre aujourd'huy vos coquilles⁎ ailleurs.  
 
@@ -1620,7 +1616,7 @@ Ce mignon d'hospital [119] fixement la regarde.
 Recognoissez Lisandre.  
 
     LE BOUCHER
-            Hé monsieur excusez,  
+        Hé monsieur excusez,  
 On ne cognoist pas bien ceux qui sont desguisez.  
 Nous souffririons pour vous toute sorte de geyne⁎.  
 
@@ -1630,7 +1626,7 @@ Je vay voir si Caliste est tousjours en soucy.
 
     LE BOUCHER
 Disposez du logis et de son maistre aussy. [120]  
-Cet homme a dans l'humeur je ne say quoy d'aimable⁎                      
+Cet homme a dans l'humeur je ne say quoy d'aimable⁎  
 Qui me charme l'esprit et me rend plus traitable.  
 
     LA BOUCHERE
@@ -1646,13 +1642,13 @@ LISANDRE, CALISTE, LE GEOLIER, LE BOUCHER
 Caliste.  
 
     CALISTE *en prison.*
-Estes vous là ?  
+    Estes vous là ?  
 
     LISANDRE
-            Prest à vous faire entendre  
+        Prest à vous faire entendre  
 Le dessein du bonheur⁎, que vous devez attendre.  
 
-    CALISTE    
+    CALISTE
 Le Geolier me l'a dit, mais helas ! son effet  
 Nous chargera du mal que nous n'avons pas fait.  
 
@@ -1679,8 +1675,8 @@ Vous pouvez esperer des douceurs d'une mere.
     CALISTE
 Mais que deviendrez vous ?  
 
-    LISANDRE    
-            J'iray chez mes parens  
+    LISANDRE
+        J'iray chez mes parens  
 Nourrir aveq mon feu mille soings⁎ differens.  
 La mille traits d'amour me peindront ma Caliste.  
 
@@ -1708,7 +1704,7 @@ Que j'ouvre le guichet, et que Madame sorte.
     LISANDRE
 Que je suis glorieux⁎ de t'obeyr ainsy.  
 
-    LE BOUCHER    
+    LE BOUCHER
 Le voicy qui descend, il faut l'attendre icy.  
 Que l'amour ce me semble [124] est une chose amere !  
 Et que c'est un mestier où l'on ne gaigne guere !  
@@ -1717,7 +1713,7 @@ Et que c'est un mestier où l'on ne gaigne guere !
 Fermez vostre boutique, adieu.  
 
     LE BOUCHER
-                Tout est à vous  
+        Tout est à vous  
 Soit de jour soit de nuit soyez libre chez nous. [125]  
 
     LISANDRE
@@ -1736,7 +1732,7 @@ Ha Madame !
 Cherchons la seureté qui nous est necessaire.  
 Nous sommes tous perdus si quelqu'un nous entend.  
 
-    LISANDRE    
+    LISANDRE
 Allons donc, le carosse icy prés nous attend. [127]  
 
 
@@ -1755,7 +1751,7 @@ Je poursuy seulement la grace du duel
 Où Lisandre parust plus juste que cruel. [128]  
 J'espere apres cela qu'en despit de l'envie  
 Nous serons asseurez du repos de sa vie,  
-Et que dans peu de temps il viendra s'excuser                          
+Et que dans peu de temps il viendra s'excuser  
 De l'autre assacinat qu'on luy veut imposer.  
 En mille occasions ayant veu ta prudence  
 Je te dis mon dessein en toute confidence ;  
@@ -1772,7 +1768,7 @@ O Deplorable fille ! et moy plus deplorable
 D'avoir produit le mal qui me rend miserable !  
 Helas ! que n'es-tu morte au moment que tes yeux  
 Pour la premiere fois regarderent les Cieux.  
-Grands Dieux, que je voy bien au travers de mes geynes⁎                  
+Grands Dieux, que je voy bien au travers de mes geynes⁎  
 Qu'en donnant des enfans vous nous donner des peynes,  
 Et que le plus souvent pour espargner vos mains  
 Vous punissez ainsi les fautes des humains :  
@@ -1795,7 +1791,7 @@ Vous changeriez bien tost d'humeur et de courage.
 Au charme⁎ presenté de ses perfections⁎  
 Vôtre cœur s'ouvriroit à d'autres passions⁎.  
 
-    PAGE    
+    PAGE
 Monsieur un messager qui semble estre assez triste  
 Desire vous donner des lettres de Caliste.  
 
@@ -1817,7 +1813,7 @@ Ne permet pas d'avoir des transports de colere,
 Recevez cette lettre, et voyez si le Ciel  
 Peut traiter un esprit avecques plus de fiel.  
 
-    DORILAS    
+    DORILAS
 Qu'elle n'espere rien de ma douceur extreme  
 Tant qu'elle excusera l'homicide⁎ qu'elle ayme.  
 
@@ -1844,7 +1840,7 @@ Par les yeux du penser descouvre quelque ruse.
     DORILAS
 Mon amy poursuivez, achevez ce propos  
 D'où nos cœurs affligez esperent du repos.  
-Et puisque les discours en sont assez capables                      
+Et puisque les discours en sont assez capables  
 Faites deux innocens de deux esprits coupables.  
 
     LISANDRE
@@ -1868,7 +1864,7 @@ Que cét evenement a troublé ma raison !
 Quoy Lisandre a tiré Caliste de prison !  
 Elle est donq de ses pas la compagne fidelle ?  
 
-    LISANDRE    
+    LISANDRE
 S'il n'est pas dans son cœur, il n'est plus avec elle.  
 Mais quand elle suivroit ses pas et ses desseins,  
 Pourroit-elle montrer des sentimens plus sains ?  
@@ -1890,7 +1886,7 @@ Montrez en luy donnant un asile chez vous
 Que vous estes sa mere, et son espoir plus doux :  
 Ce sont là ses desirs, et l'effort de Lisandre  
 La tira d'un enfer affin de vous la rendre,  
-Voudriez vous laisser perdre un bien si pretieux                          
+Voudriez vous laisser perdre un bien si pretieux  
 Qu'il peut rendre des Rois jaloux et glorieux⁎,  
 Et que la pieté laissast à vostre exemple  
 Outrager les vertus⁎ et destruire leur temple ?  
@@ -1903,7 +1899,7 @@ A fait naistre icy bas Lisandre à sa deffence.
 Je croy que c'est Lisandre. [136]  
 
     LISANDRE
-            Ouy, Madame, c'est luy.  
+        Ouy, Madame, c'est luy.  
 C'est de vostre bon-heur le veritable appuy.  
 
     ORANTE
@@ -1915,7 +1911,7 @@ Ne vous estonnez⁎ pas de voir un changement
 Qui ne peut reussir qu'à vostre allegement,  
 Caliste et ses vertus⁎ divinement escloses  
 Font bien dedans les cœurs d'autres metamorphoses,  
-Et comme ses beautez sont sans comparaison                          
+Et comme ses beautez sont sans comparaison  
 Il faut l'aymer de mesme ou perdre la raison.  
 
     ORANTE
@@ -1942,7 +1938,7 @@ Est encore vertu dessoubs l'habit du vice ;
 
     ORANTE
 On vomit tant de maux contre sa pureté  
-Que l'on peut aysément alterer sa beauté.                          
+Que l'on peut aysément alterer sa beauté.  
 
     LISANDRE
 En vain pour obscurcir les estoiles plus claires  
@@ -1964,7 +1960,7 @@ Que des torrens entiers cedent à son effort.
 La langue variable aussi bien que nostre ame  
 Apres beaucoup de maux esteints ce qu'elle enflamme,  
 Et lors qu'elle a destruit le temple des vertus⁎ [139]  
-Elle peut restablir ses honneurs abatus,                              
+Elle peut restablir ses honneurs abatus,  
 Faisant voir aux esprits qu'elle auroit pû seduire  
 Que le mesme pouvoir sçait bastir et destruire.  
 
@@ -1989,7 +1985,7 @@ Vostre demande est juste, et pour moy je consens
 A terminer icy des malheurs si puissans.  
 Gardez que Dorilas descouvre vostre ruse  
 Que son ressentiment trouveroit sans excuse ;  
-Le voicy qui revient, gouvernez vous si bien                          
+Le voicy qui revient, gouvernez vous si bien  
 Que par vostre discours il n'en cognoisse rien.  
 
     DORILAS
@@ -2000,7 +1996,7 @@ A la fin de mes jours reservoit de tourmens !
 Qu'avez vous resolu ?  
 
     ORANTE
-            Qu'apres tant de contraintes  
+        Qu'apres tant de contraintes  
 Elle arreste chez nous et ses pas et ses plaintes.  
 
     DORILAS
@@ -2015,7 +2011,7 @@ Si quelque médisant vous blasme et vous accuse.
 Le devoir paternel, qui doibt suivre les loix,  
 Ne nous excuse pas du mespris de leurs droits.  
 
-    LISANDRE    
+    LISANDRE
 Mais les plus saintes loix n'apprenent pas au monde  
 Qu'un pere doibt laisser sa fille vagabonde.  
 
@@ -2042,7 +2038,7 @@ Les fers d'une prison et la crainte des flames
 A d'estranges effets⁎ font resoudre nos ames,  
 Le desir de la vie est si doux et si fort  
 Qu'il resiste tousjours à celuy de la mort,  
-Et quelque vanité qui nous en fasse à croire                          
+Et quelque vanité qui nous en fasse à croire  
 Il est plus naturel que l'honneur et la gloire⁎.  
 
     DORILAS
@@ -2066,7 +2062,7 @@ Quand l'on void le plaisir que le beau temps appreste
 Pourroit on se resoudre à suivre la tempeste ?  
 Et lors qu'on void la vie aveq tous ses attraits.  
 Et le trespas armé de ses plus rudes traits,  
-Quelque dessein d'honneur, que l'ame veuille faire,                      
+Quelque dessein d'honneur, que l'ame veuille faire,  
 Il est bien malaisé que la mort puisse plaire :  
 Ceux qui l'ont preferée aux celestes clairtez  
 Ne pouvoient plus sortir de leurs aversitez.  
@@ -2092,7 +2088,7 @@ La voicy, suivez moy ; qu'elle vienne aveq vous,
 Que l'amour des enfans a de pouvoir sur nous !  
 
 
-## ACTE TROIS                            
+## ACTE TROIS
 
 
 ### SCENE PREMIERE
@@ -2108,7 +2104,7 @@ Il est temps de finir mes peynes sans pareilles,
 Pour avoir du repos j'ay fait assez de veilles ;  
 Vous avez trop bruslé dans des feux dissolus,  
 Ils ont esté sur vous trop long temps absolus,  
-Il faut enfin souffrir⁎ que la raison vous range                          
+Il faut enfin souffrir⁎ que la raison vous range  
 Aux termes desirez d'un favorable change,  
 Et que ce doux soleil qui luit sur les esprits  
 Vous descouvre les fers où l'amour vous a pris :  
@@ -2129,7 +2125,7 @@ C'est nostre lâcheté qui le rend invincible.
 Quittez donq ces transports, et ce honteux dessein  
 Que les yeux de Caliste ont mis dans vostre sein⁎,  
 Et puisque nous devons de l'amour au merite,  
-Rendez vous sans contrainte aux vertus⁎ d'Hyppolite,                      
+Rendez vous sans contrainte aux vertus⁎ d'Hyppolite,  
 Son cœur que la nature avait fait d'un Rocher [148]  
 A vostre seul aspect est devenu de chair,  
 De tant de cavaliers qui l'avoient entreprise [149]  
@@ -2150,7 +2146,7 @@ Vous monstrez vous si froid au bien qu'on vous souhaite ?
     LISANDRE
 Mon honneur offencé des discours qui se font  
 Vous fait voir malgré moy ces froideurs sur mon front,  
-Et mon renom blessé deffend à mon courage                          
+Et mon renom blessé deffend à mon courage  
 De sentir d'autre mal que celuy qui l'outrage ;  
 Souffrez⁎ donq que je voye une autre fois la Cour  
 Et que je monstre ainsi mon innocence au jour.  
@@ -2177,7 +2173,7 @@ En peut produire encor les merveilleux effets⁎.
 Pour les revoir encor dans le siecle où nous sommes,  
 Il faudroit que son dos portast les mesmes hommes [151].  
 
-    ADRASTE    
+    ADRASTE
 Ne me contestez plus, et suivez mes conseils  
 Qui sont de vostre mal les meilleurs appareils,  
 Tous les amis que j'ay, le temps les a fait naistre  
@@ -2203,7 +2199,7 @@ Dont l'ardeur fera voir celle de mes Amours.
 Tenez vous donq ainsi dans le soing⁎ de me plaire,  
 Et mon affection en sera le salaire.  
 
-    LISANDRE, *seul* .    
+    LISANDRE, *seul* .
 O pere sans pitié [153], tu n'as jamais appris  
 Ce que peut un bel œil sur les jeunes esprits,  
 Quelques vives raisons, qui nous donnent des armes, [154]  
@@ -2223,7 +2219,7 @@ Je ne veux qu'opposer les attraits de Caliste,
 Ou si tu veux enfin en paroistre vainqueur,  
 Pour m'arracher l'amour, arrache moy le cœur.  
 En vain pour m'affoiblir le feu que j'ay dans l'ame  
-Tu me viens commander d'aymer une autre Dame,                      
+Tu me viens commander d'aymer une autre Dame,  
 Tous les commandemens que l'on nous fait d'aymer  
 En esteignent l'envie au lieu de l'enflammer. [156]  
 Há frivoles desseins des cruautez d'un pere,  
@@ -2242,7 +2238,7 @@ Dieux ! quelle seureté finira mes allarmes ?
 Un pere a des conseils, et Caliste a des charmes.  
 Le Ciel asseure⁎ ici le repos de mes jours,  
 Et le cruel y met en danger mes amours,  
-Mais pour monstrer l'exceds de mon ardeur extreme                      
+Mais pour monstrer l'exceds de mon ardeur extreme  
 J'ayme mieux asseurer⁎ mes amours, que moy mesme.  
 J'iray chez Hyppolite afin de tesmoigner  
 Que je n'en approchay que pour m'en esloigner. [157]  
@@ -2259,7 +2255,7 @@ Ne dis plus que les traits, dont il blesse les Dieux,
 Ont vainement touché ton esprit glorieux [158] :  
 Je cede à ses efforts, et j'ayme le servage  
 Où depuis peu de jours sa puissance m'engage;  
-Ce Dieu s'estant instruit que sa forme d'enfant                      
+Ce Dieu s'estant instruit que sa forme d'enfant  
 N'obtiendroit pas sur moy le nom de triomphant,  
 Apres avoir usé ses liens pour me prendre  
 Prit pour me surmonter la forme de Lisandre.  
@@ -2279,7 +2275,7 @@ Je chassay quelque temps avecques ce vainqueur
 Mais je cognus bien tost, qu'on ne prit que mon cœur :  
 Je voulus millefois éviter cette prise      
 Ma raison s'efforçoit de garder ma franchise⁎, [159]  
-Et mesme tous les jours un reste de ses droits                      
+Et mesme tous les jours un reste de ses droits  
 S'oppose dans mon ame aux amoureuses loix,  
 Elle me dit encor alors que je l'irrite  
 Que je porte le nom du premier Hyppolite [160] ;  
@@ -2302,7 +2298,7 @@ Que vous estes sçavant à cacher un dessein.
 Vous me voulez montrer que si je me sçay plaindre  
 Vous sçavez en Amour encores mieux vous feindre.  
 
-    LISANDRE    
+    LISANDRE
 C'est assez que vos yeux me blessent tous les jours  
 Sans me blesser encor aveques vos discours. [162]  
 
@@ -2322,9 +2318,9 @@ Ou vous eussiez vescu soubs de plus belles loix,
 Mais.  
 
     LISANDRE
-Vous m'expliquez mal, ma honte ne procede  
+        Vous m'expliquez mal, ma honte ne procede  
 Que d'un injuste outrage à qui ma gloire⁎ cede.  
-L'on m'accuse à la cour de tant de làchetez                          
+L'on m'accuse à la cour de tant de làchetez  
 Que les moins genereux⁎ en seroient irritez :  
 Les envieux discours d'une rage ennemie  
 Pour tacher mon renom, me chargent d'infamie,  
@@ -2350,7 +2346,7 @@ Vous pouvez en donner cette preuve à mes veuz.
     HYPPOLITE
 Il n'est rien que pour vous je ne voulusse faire.  
 
-    LISANDRE    
+    LISANDRE
 Feignez donq d'avoir à la Cour quelque affaire,  
 Et mandez à celuy qui me donna le jour  
 Que vostre occasion⁎ y presse mon retour.  
@@ -2376,7 +2372,7 @@ Mais quoy ! pourray-je vivre où mon ame me quitte ?
 
     LISANDRE
 Je vous laisse la mienne, adorable Hyppolite,  
-Et pour la retrouver dedans un si beau lieu                          
+Et pour la retrouver dedans un si beau lieu  
 Je veux que mon retour soit plus prompt que l'adieu.  
 
     HYPPOLITE
@@ -2390,7 +2386,7 @@ La crainte d'augmenter la douleur qui me touche
 M'empesche de tirer un adieu de ma bouche. [166]  
 
 
-### SCENE TROISIESME                
+### SCENE TROISIESME
 LIDIAN, ADRASTE, PAGE
 
 
@@ -2412,11 +2408,11 @@ Et que vostre discours fait naistre de plaisirs !
 A la charge pourtant qu'apres sa longue absence  
 Il viendra dans un mois prouver son innocence.  
 
-    ADRASTE    
+    ADRASTE
 Coment ?  
 
     LIDIAN
-Par un combat, qu'un nommé Lucidan  
+        Par un combat, qu'un nommé Lucidan  
 Vint demander au Roy pour vanger Cloridan.  
 
     ADRASTE
@@ -2433,12 +2429,12 @@ Ont esté les tesmoings qui m'en ont satisfait
 Ne le verray je point ?  
 
     ADRASTE
-            Il est chez Hyppolite,  
+        Il est chez Hyppolite,  
 
     LIDIAN
 Desja passionné d'avoir veu son merite.  
 
-    ADRASTE    
+    ADRASTE
 Ce n'est pas tant l'amour, que la civilité,  
 Qui le fait visiter cette jeune beauté,  
 Vous sçavez mieux que moy le subjet qui l'engage.  
@@ -2458,16 +2454,16 @@ Que faict Lisandre ?
 Pour aller ?  
 
     PAGE
-        Je ne sçay.  
+    Je ne sçay.  
 
     ADRASTE
-                Veut il donq que je meure ?  
+        Veut il donq que je meure ?  
 Permettez moy de voir cet escrit seulement.  
 
     LIDIAN
 Lidian est à vous, usez en librement.  
 
-    ADRASTE, *ayant leu la lettre*.    
+    ADRASTE, *ayant leu la lettre*.
 Cette lettre m'apprend qu'une petite affaire  
 A rendu de mon fils le départ necessaire,  
 Il s'en retourne en cour, on me le mande ainsi.  
@@ -2494,7 +2490,7 @@ Si vous n'aviez pas pris ce genereux⁎ dessein
 Moy mesme je voudrois le mettre en vostre sein,  
 Allez et que le ciel seconde vostre envie. [169]  
 
-    LIDIAN    
+    LIDIAN
 Et qu'il prene tousjours le soing de vostre vie.  
 
     ADRASTE
@@ -2518,7 +2514,7 @@ La mienne fera voir au combat qu'on propose
 Que le Pere et le Fils sont une mesme chose.  
 
 
-### SCENE QUATRIESME                
+### SCENE QUATRIESME
 CALISTE, LE VALET de Lisandre.
 
 
@@ -2533,7 +2529,7 @@ Tant de temps escoulé sans flater⁎ mon martire
 Du moindre des discours que l'amour nous inspire,  
 Et la triste longueur de ses retardemens  
 Me descouvrent assez ses parjures sermens.  
-Perfide, qui n'as rien de l'amour que ses ayles,                          
+Perfide, qui n'as rien de l'amour que ses ayles,  
 Que ne differois tu tes desseins infidelles,  
 Jusqu'à ce que le Ciel justement irrité  
 M'eust rendu le renom que tu m'avois osté ?  
@@ -2549,7 +2545,7 @@ Toutesfois ne viens pas, tu dirois que ma bouche
 Ne donne que du vent à l'amour, qui me touche, [173]  
 Tu dirois que mes yeux en te [174] donnant de l'eau  
 Te font voir l'inconstance ou du moins son tableau,  
-Ou bien qu'ayant donné ma raison à tes charmes                      
+Ou bien qu'ayant donné ma raison à tes charmes  
 C'est te donner trop peu que de donner des larmes ;  
 Mais si des pleurs sont peu je verseray du sang,  
 Je t'ouvriray mon sein, je t'ouvriray mon flang,  
@@ -2568,7 +2564,7 @@ Signera de mon sang ma sentence de mort ;
 Ces mains si láchement par les tiennes pressées  
 Deschireront ce cœur qui reçeut tes pensées,  
 Ce corps qui fut jadis l'idole de tes veuz  
-Esteindra dans son sang les restes de ses feuz :                      
+Esteindra dans son sang les restes de ses feuz :  
 Et ma mort fera voir par ce sanglant spectacle  
 Que tes nouveaux desseins ne trouvent plus d'obstacle.  
 Non, non, je veux changer au mespris des hazards  
@@ -2586,7 +2582,7 @@ Deffendit constamment le traistre qui me tuë,
 Non pas pour l'obliger à me rendre son cœur  
 Mais pour y mettre ver [175] , qui s'en rendra vainqueur,  
 Pour y mettre un remords, dont les forceneries⁎  
-Augmenteront chez luy le nombre des furies⁎,                      
+Augmenteront chez luy le nombre des furies⁎,  
 Et qui convertiront en faveur de mes maux  
 Les feuz de son amour en des feuz infernaux. [176]  
 Mais n'appercoy-je pas le valet de Lisandre ?  
@@ -2594,18 +2590,18 @@ Il faut sçavoir de luy ce que j'en doibs attendre.
 Que viens tu faire icy ?  
 
     LE VALET
-            Mon maistre m'a chargé  
+        Mon maistre m'a chargé  
 De vous donner ce mot.                         1120  
 
     CALISTE
-            Ce traistre a donq changé ?  
+        Ce traistre a donq changé ?  
 Et par ce mot d'escrit [177] le perfide m'invite  
 D'assister à sa noce et de voir Hyppolite.  
 
     LE VALET, *à l'escart*.
 Que je lis de transports sur son front irrité !  
 
-    CALISTE, *en lisant la lettre.*    
+    CALISTE, *en lisant la lettre.*
 Que tu desguises bien ton infidelité !  
 
     LE VALET, *à l'escart* .
@@ -2628,10 +2624,10 @@ N'est il pas assuré⁎ qu'il brusle en d'autres feuz ?
 Il est vray.  
 
     CALISTE
-        Pourquoy donq ? [178]  
+    Pourquoy donq ? [178]  
 
     LE VALET
-                Non pas ce que vous dites [179],  
+        Non pas ce que vous dites [179],  
 L'amour qu'il a pour vous est un feu sans limites ;  
 Il est vray que par tout ses parens rigoureux  
 Le pressoient de changer ses desseins amoureux,  
@@ -2640,7 +2636,7 @@ Au point qu' [180]ils pensoient voir leurs volontez contentes.
 Jugez de son amour par de si grands effets⁎.  
 
     CALISTE
-Que ne vient il guerir tant de maux qu'il a faits ?                      
+Que ne vient il guerir tant de maux qu'il a faits ?  
 N'avez vous pas appris devant vostre venuë  
 Coment tous ses amis ont sa grace obtenuë ?  
 
@@ -2648,7 +2644,7 @@ Coment tous ses amis ont sa grace obtenuë ?
 Nous ne l'avons point sceu.  
 
     CALISTE
-            C'est ainsi que les Dieux  
+        C'est ainsi que les Dieux  
 Ferment à mes travaux⁎ et l'oreille et les yeux,  
 Qu'ils ne m'espargnent pas me voyla toute preste  
 A servir de visée aux coups de la tempeste ;  
@@ -2657,10 +2653,10 @@ Je dépends moins des Dieux que des traits de l'amour.
 Qu'est devenu Lisandre ?  
 
     LE VALET
-            Il a changé de terre,  
+        Il a changé de terre,  
 Le grand bruit d'un tournoy l'appelle en Angleterre,  
 Et je veux m'exposer à mille cruautez      
-Si ma bouche est ouverte à quelques faussetez.                          
+Si ma bouche est ouverte à quelques faussetez.  
 
     CALISTE
 Tes raisons, paraitroient plus fortes que ma flame [181]  
@@ -2682,10 +2678,10 @@ La gloire⁎ de mes jours, et l'amour de Lisandre.
 Madame quel dessein prenez vous ?  
 
     CALISTE
-                Il est pris ,  
+        Il est pris ,  
 Mes transports poursuivront ce qu'ils ont entrepris,  
 Et le seul desespoir de mon ame confuse  
-Me donnera la paix que l'amour me refuse.                          
+Me donnera la paix que l'amour me refuse.  
 Ce bras sans habitude au travail des guerriers  
 Obtiendra des cyprés [182] s'il n'obtient des lauriers.  
 
@@ -2698,7 +2694,7 @@ Approuve mon dessein, j'en viendray bien à bout,
 Et sçache que l'amour nous rend propres à tout.  
 
 
-## ACTE QUATRE                        
+## ACTE QUATRE
 
 
 ### SCENE PREMIERE
@@ -2710,7 +2706,7 @@ En fin voicy le jour où le Ciel equitable
 Nous fera voir Lisandre innocent ou coupable,  
 Les combats sont douteux soubs l'enseigne de Mars,  
 Mais souvent la justice en chasse les hazards.  
-Et quelque vaine peur qui nous en fasse accroire⁎                      
+Et quelque vaine peur qui nous en fasse accroire⁎  
 Les dangers sont tousjours les chemins de la gloire⁎.  
 Une ame genereuse⁎ establit son bon heur  
 Dans la possession d'un veritable honneur,  
@@ -2730,7 +2726,7 @@ La justice, et l'honneur vrays soleils des humains, [186]
 Ont armé tout ensemble et mon cœur et mes mains :  
 Me voila disposé de tirer l'allegeance⁎  
 Que l'on peut esperer d'une juste vengeance,  
-Ou je suis resolu de suivre au monument⁎ [187]                           
+Ou je suis resolu de suivre au monument⁎ [187]  
 Crisante et Cloridan outragez láchement.  
 
     LE ROY
@@ -2752,7 +2748,7 @@ Crisante et Cloridan qui vivent dans mon cœur
 M'ayderont aysement à me rendre vainqueur,  
 Ou si de ces seconds les offres genereuses⁎  
 Ne peuvent contenter vos ames valeureuses,  
-Sans chercher autrepart de plus braves guerriers                      
+Sans chercher autrepart de plus braves guerriers  
 Ce bras est mon second, et ce fer est mon tiers.  
 
     LE ROY
@@ -2779,7 +2775,7 @@ Nous aurons de son crime une preuve assez claire.
 Qu'on amene un enfant, qui borne ce debat,  
 Et tire sans soupçon la marque⁎ du combat,  
 Ainsi pour l'innocence on verra l'innocence  
-Disposer du combat plustost que ma puissance.                          
+Disposer du combat plustost que ma puissance.  
 
     CALISTE *armée, et couverte d'un casque à l'escart.*
 Le Ciel est si subjet à rejetter mes veuz  
@@ -2791,7 +2787,7 @@ Est le mal plus cruel qui traverse ma vie.
 Tirez.  
 
     CALISTE *voyant que l'on n'a pas tiré sa marque.*
-Hà je voy bien que l'injure du sort  
+        Hà je voy bien que l'injure du sort  
 Pour allonger mes maux a differé ma mort.  
 On a tiré la marque d'Hippolite.
 
@@ -2806,7 +2802,7 @@ Accorde le hazard avecque l'equité.
 Suivez donq le destin dont la force immortelle  
 Voulut que vostre bras finît cette querelle.  
 
-    LUCIDAN    
+    LUCIDAN
 Cheres ombres jadis l'ornement des mortels  
 Si l'on ne vous fait pas des veuz et des autels,  
 Vous aurez pour le moins une juste victime  
@@ -2833,7 +2829,7 @@ Ne te repose point, la force de ce bras
 Te fera reposer plus que tu ne voudras.  
 
     LE ROY
-Mais qui sont ces guerriers plains d'ardeur et d'audace,                      
+Mais qui sont ces guerriers plains d'ardeur et d'audace,  
 Qui d'un pas orgueilleux mesurent cette place⁎ [195].  
 
     LE JUGE *de camp.*
@@ -2856,7 +2852,7 @@ Je puis seul retirer la verité d'un gouffre.
 On ne l'en peut tirer si ce n'est par le fer.  
 
     BERONTE [197]
-Elle peut aysement sans armes triompher.                          
+Elle peut aysement sans armes triompher.  
 Alors que⁎ Cloridan eust appellé Lisandre,  
 Mille murmures sourds me le vindrent apprendre :  
 Aussi tost l'amitié me pressa de courir  
@@ -2894,7 +2890,7 @@ Qui vient de disputer aveq vous le laurier.
 Hé Dieux c'est Hyppolite [202] !  
 
     CALISTE
-            Há je suis sans remede  
+        Há je suis sans remede  
 Et j'ay plus de fureurs que l'enfer n'en possede.  
 Il me faut retirer.  
 
@@ -2902,7 +2898,7 @@ Il me faut retirer.
         Un tel evenement  
 Ne met en mon esprit que de l'estonnement⁎.  
 
-    LUCIDAN    
+    LUCIDAN
 Est ce mars ou venus ? la force de ses armes  
 Me descouvre le Dieu qui preside aux allarmes,  
 Et tant d'attraits divins m'apprenent à leur tour  
@@ -2923,7 +2919,7 @@ Les vertus⁎ de Lisandre accusé sans offence
 M'obligent maintenant à sa juste deffence.  
 Les cieux, de qui les yeux ne sont jamais fermez,  
 Font voir à sa faveur les deux sexes armez,  
-Et sa seule innocence est si forte et si belle                          
+Et sa seule innocence est si forte et si belle  
 Qu'ils n'ont mis qu'une fille à combattre pour elle.  
 
     LE ROY
@@ -2945,7 +2941,7 @@ Mais qui peut empescher qu'on ne voye Lisandre ?
 
     LUCIDAN
 Lors que vous eustes dit qu'il se viendroit deffendre,  
-Le dessein de le voir me fit aller aux lieux                          
+Le dessein de le voir me fit aller aux lieux  
 Ou je croyois jouïr de l'aspect de ses yeux ;  
 Mais j'appris que le soing de combattre l'outrage  
 Ramenoit à la Cour ce genereux⁎ courage,  
@@ -2966,7 +2962,7 @@ Et pousser son esquif⁎ à la mercy de l'eau,
 Il se jette dedans, Lisandre fait de mesme  
 Non pas pour nous laisser en ce danger extreme,  
 Mais affin de forcer ce pilotte insensé  
-De reprendre le soing du vaisseau tout cassé.                          
+De reprendre le soing du vaisseau tout cassé.  
 Cependant la tempeste augmente ses attaintes,  
 Sa violence croist et fait croistre nos craintes,  
 Et les flots complaisans aux vents imperieux  
@@ -2982,21 +2978,21 @@ Nous luy donnions encor nos soupirs et nos larmes. [209]
 Où fustes vous portez ?  
 
     BERONTE
-            L'aveuglement du sort  
+        L'aveuglement du sort  
 Nous pensant abysmer nous jetta dans le port.  
 
     ADRASTE
 Helas ! mon fils n'est plus !  
 
     LE ROY
-            Le Ciel nostre vray pere  
-Conserve ses enfans lors qu'on en desespere.                          
+        Le Ciel nostre vray pere  
+Conserve ses enfans lors qu'on en desespere.  
 Mais un des combattans s'est retiré de nous,  
 C'est celuy qui parust en mesme temps que vous.  
 Que l'on suive ses pas.  
 
     LUCIDAN
-            C'est Lisandre peut estre,  
+        C'est Lisandre peut estre,  
 Que la mort de Cleandre empeche de paraistre.  
 
     LIDIAN
@@ -3015,7 +3011,7 @@ Que je suis criminel de l'avoir crû coupable.
 J'ay sceu qu'au mesme instant qu'un rigoureux effort  
 Fit trouver à mon frère une subite mort,  
 Lisandre aveq Tirsis estoit hors de la ville  
-Et contre vos fureurs, il cherchoit un asile.                          
+Et contre vos fureurs, il cherchoit un asile.  
 
     LE ROY
 Nous sçaurons à loisir tant d'accidens⁎ divers  
@@ -3039,14 +3035,14 @@ Mais sa fuitte a produit de nouveaux desplaisirs ;
 Au point qu'on veut l'ayder, helas ! elle se tuë.  
 Dieux que reservez vous à mon ame abatuë ?  
 
-    LE VALET *de Lisandre.*    
+    LE VALET *de Lisandre.*
 Sa douleur me contraint de l'ayder au besoing.  
 
     LIDIAN
 Amy que dites vous ?  
 
     LE VALET
-            Caliste n'est pas loing.  
+        Caliste n'est pas loing.  
 
     DORILAS
 Ne me viens point flatter, puisque la flatterie  
@@ -3068,7 +3064,7 @@ Luy fournit de⁎ retraite en son desguisement.
 Mon fils sans differer cherchez cette insensée  
 Qu'un furieux⁎ amour a vivement blessée.  
 
-    LE VALET    
+    LE VALET
 Pour moy sans retarder selon sa volonté  
 Je chercheray Lisandre où les eaux l'ont jetté.  
 
@@ -3086,7 +3082,7 @@ J'ay veu cette rivale, et mes mains trop humaines
 N'ont pas mis au tombeau ce subjet de mes peines !  
 Je n'ay pas arraché de son sein entrouvert  
 Et l'amour et le cœur du traistre qui me perd  
-Mais comme si ses yeux en me venant surprendre                      
+Mais comme si ses yeux en me venant surprendre  
 Avoient vaincu Caliste aussi bien que Lisandre,  
 A son premier aspect mon courage s'abat  
 Et je quitte ma force et le lieu du combat :  
@@ -3104,7 +3100,7 @@ Que j'ay sur ce subjet des sentimens peu sains !
 Ha si le moindre obstacle arrestoit nos desseins,  
 L'honneur et la raison opposez à ma flame,  
 Eussent vaincu l'amour qui regne dans nos ames.  
-Je tirerois ce bien du malheur où je suis                              
+Je tirerois ce bien du malheur où je suis  
 Qu'une infidelité finiroit mes ennuis⁎ ;  
 Mais Lisandre me quitte, et pourtant je fais gloire⁎ [211]  
 De conserver encor sa funeste⁎ memoire !  
@@ -3125,11 +3121,11 @@ Ne choisis point d'endroits, il est partout coupable.
 C'est sans doute en ce lieu, qu'elle vient se cacher,  
 Voyla le logement, où je la doy chercher.  
 
-    CALISTE     
+    CALISTE
 Qu'ay-je veu [214] ! c'est mon frere.  
 
     LIDIAN
-                Arrestez vostre fuite,  
+        Arrestez vostre fuite,  
 Recompensez ainsi les soings⁎ de ma poursuite.  
 
     CALISTE
@@ -3152,10 +3148,10 @@ Il vous suffit qu'un Roy soit à vostre deffence.
 Helas ! qu'avez vous dit ?  
 
     LIDIAN
-            Suivez moy seulement,  
+        Suivez moy seulement,  
 Et j'en diray bien plus pour vostre allegement.  
 
-    CALISTE     
+    CALISTE
 Mais pourray-je paraistre, où la raison m'accuse ?  
 
     LIDIAN
@@ -3176,7 +3172,7 @@ LISANDRE, LEON
 Helas ! au mesme instant qu'une belle esperance  
 Me presentoit le bien qui m'attendoit en France,  
 Au point mesme qu'un Roy finissoit mes travaux⁎  
-Les fureurs de la mer recommencent mes maux,                          
+Les fureurs de la mer recommencent mes maux,  
 Et Neptune envieux de ma bonne fortune  
 La contraint de changer et de m'estre importune,  
 Ainsi quand j'ay trouvé la grace des humains  
@@ -3196,7 +3192,7 @@ L'horreur sort aveq eux des prisons de leur Roy [217],
 Et les rochers esmeus⁎ au bruit de ces tempestes  
 En baisserent de peur leurs orgueilleuses testes ;  
 Les flots nous eslevoient où nous portions nos veuz,  
-Et les Dieux s'estonnoient⁎ de nous voir si prés d'eux ;                      
+Et les Dieux s'estonnoient⁎ de nous voir si prés d'eux ;  
 Transportez dedans l'air par les vents et les ondes  
 Nous ne trouvions par tout que flames vagabondes,  
 Si bien qu'il nous sembloit que la fureur de l'eau  
@@ -3217,7 +3213,7 @@ N'entends-je pas la voix de quelqu'un qui se plaint ?
     LEON
 Miserable Leon crois tu que ton courage [219]  
 Resiste plus longtemps aux efforts d'une rage ?  
-Et qu'il puisse eviter ces renaissantes morts                           
+Et qu'il puisse eviter ces renaissantes morts  
 Que te donne sans cesse un trop juste remords ?  
 Helas ! depuis le jour que ma main criminelle  
 Precipita Cleandre en la nuit eternelle.  
@@ -3226,7 +3222,7 @@ Precipita Cleandre en la nuit eternelle.
 Bons Dieux qu'ay-je entendu ? [220]  
 
     LEON
-                Mille et mille vautours  
+        Mille et mille vautours  
 Me devorent le cœur qui renaist tous les jours,  
 Et parmy les douleurs où mon ame est portée  
 Je suis sur ces rochers un autre Promethée [221] ;  
@@ -3242,7 +3238,7 @@ Et porte son enfer en quelque lieu qu'il aille.
     LISANDRE
 Puis-je croire aysement au milieu de mes fers  
 Qu'on trouve tant de bien en des lieux si desers ?  
-Conduits par la faveur des bonnes destinées                          
+Conduits par la faveur des bonnes destinées  
 N'aurons nous point pris terre aux isles fortunées ?  
 Vents, Neptune, tempeste, effroyables tourmens  
 Combien doy-je de veuz à tous vos mouvements ?  
@@ -3259,7 +3255,7 @@ Estoient faits seulement pour les esprits coupables.
 Responds moy.  
 
     LEON
-            Si le Ciel ne m'avoit destiné  
+        Si le Ciel ne m'avoit destiné  
 A finir le tourment que je vous ay donné,  
 Hà Lisandre mon bras armé contre ma vie  
 Eust desja mille fois prevenu⁎ vostre envie,  
@@ -3267,7 +3263,7 @@ J'iray j'iray par tout, où vos pas tourneront [224]
 Et si vous le voulez les enfers me verront.  
 
     LISANDRE
-Paris te reverra, ta voix et ta presence                               
+Paris te reverra, ta voix et ta presence  
 Briseront tous les fers, qui chargent l'innocence.  
 Rentrons dedans l'esquif⁎, les ondes et les Cieux  
 N'ont plus qu'un front riant qui rasseure nos yeux.  
@@ -3282,7 +3278,7 @@ Jamais tant de beautez ne forcerent mon ame
 A fléchir soubs les loix d'une amoureuse flame,  
 Hyppolite sçait vaincre avecques tant d'attraits  
 Que le vaincu se plaist à mourir de ses traits ;  
-Mon esprit attiré par ses douces amorces                          
+Mon esprit attiré par ses douces amorces  
 A plustost ressenty que recognu ses forces,  
 Mais je voy cette belle, et je sens que mon cœur  
 Veut aller au devant d'un si noble vainqueur. [225]  
@@ -3304,7 +3300,7 @@ La mesme flatterie a du poison bien doux.
     LUCIDAN
 La loüange est bien juste alors que l'on la porte,  
 Où la force est si belle, et la beauté si forte ;  
-Mais apres tant d'effets⁎, qui rendent en ces lieux                      
+Mais apres tant d'effets⁎, qui rendent en ces lieux  
 La terre glorieuse⁎, et le ciel envieux,  
 L'amour est estonné⁎ de vous voir sous ces armes  
 Sçachant que pour tout vaincre il ne faut que vos charmes⁎,  
@@ -3327,7 +3323,7 @@ Vous voulez faire icy triompher vos discours.
 
     LUCIDAN
 Que j'aurois triomphé si mes premieres plaintes  
-Portoient jusques à vous de legeres attaintes,                          
+Portoient jusques à vous de legeres attaintes,  
 Et si vos yeux vainqueurs [228] pouvoient voir dans les miens  
 Que mon ame captive adore vos liens :  
 Mais que sçay-je indiscret en vous donnant de larmes  
@@ -3348,7 +3344,7 @@ Puis-je estre sans transports ou ma triste pensée
 Entretient les douleurs de mon ame insensée ?  
 Puis-je estre sans fureur, où l'amour me fait voir  
 L'astre de mon malheur et de mon desespoir ?  
-J'ay veu j'ay veu Caliste, et mon sort redoutable [230]                      
+J'ay veu j'ay veu Caliste, et mon sort redoutable [230]  
 M'a monstré dans ses yeux ma perte inévitable.  
 Pourquoy veux-je accuser ses attraits glorieux⁎ ?  
 Lisandre a fait le mal dont j'accuse ses yeux,  
@@ -3368,7 +3364,7 @@ Mon ame millefois de sa grace ravie
 Luy consacroit desja le reste de ma vie,  
 Et croyant cet habit que mon sexe dement  
 J'allois sans y songer devenir son amant⁎. [232]  
-Je cherche les attraits que j'ay pardessus elle                          
+Je cherche les attraits que j'ay pardessus elle  
 Pour rendre à ma faveur Lisandre plus fidelle,  
 Et je ne trouve rien dans mes soins superflus  
 Sinon que je suis fille, et qu'elle ne l'est plus :  
@@ -3384,7 +3380,7 @@ Qu'on blasme mon dessein, que chacun s'en offence,
 Je n'ay que mon caprice aujourd'huy pour deffence.  
 Ainsi je chercheray par un chemin de pleurs  
 L'infidelle subjet de mes longues douleurs,  
-Conduite par l'espoir de le revoir encore                          
+Conduite par l'espoir de le revoir encore  
 J'irois où le soleil fait renaistre l'Aurore,  
 J'irois ou la vigueur de ses quatre chevaux  
 Precipite le jour au bout de ses travaux⁎,  
@@ -3392,7 +3388,7 @@ Et l'effet⁎ sans pareil d'une amour sans pareille
 S'il ne l'emplit de feu, l'emplira de merveille⁎.  
 
 
-## ACTE CINQ                            
+## ACTE CINQ
 
 
 ### SCENE PREMIERE
@@ -3408,7 +3404,7 @@ Jamais le jour naissant n'obligea⁎ d'avantage
 Les desirs de celuy, que la douleur outrage,  
 Et jamais un pilotte apres de longs souspirs  
 Ne rencontra le port avec plus de plaisirs :  
-Toutesfois le discours que tu me viens de faire                          
+Toutesfois le discours que tu me viens de faire  
 M'estonne⁎ tout autant qu'il m'a pû satisfaire,  
 Hyppolite et Caliste au mespris de la mort  
 Ont fait pour mon Amour ce genereux⁎ effort !  
@@ -3428,7 +3424,7 @@ Qu'ay-je veu ! qu'ay-je leu ! que ce triste discours
 Est contre mon espoir, et loing de mon secours ! [234]  
 Où je pensois trouver des plaisirs tous celestes  
 J'y trouve les enfers, et des maux plus funestes⁎ ;  
-Où mon espoir trompeur me promettoit des fleurs                      
+Où mon espoir trompeur me promettoit des fleurs  
 Un veritable mal y fait naistre des pleurs ;  
 Au lieu de rencontrer cette douce justice  
 Qui fait la recompense, et la joint au service,  
@@ -3452,7 +3448,7 @@ Je voy mon desloyal, il s'avance le traistre,
 C'est sans doute en ce lieu que je le doy cognaistre⁎,  
 Ses esprits esgarez dans le ravissement⁎  
 Se laissent abuser par mon desguisement,  
-Et ses yeux où la feinte est sans cesse occupee                          
+Et ses yeux où la feinte est sans cesse occupee  
 Le tromperont luy mesme apres m'avoir trompée.  
 
     LISANDRE
@@ -3474,7 +3470,7 @@ D'avoir feint que mon cœur estoit son prisonnier.
     HIPPOLITE
 Há traistre.  
 
-    LISANDRE     
+    LISANDRE
         Mais jugez pour ma flame eternelle  
 Que ce fut un effet de la voix paternelle,  
 Et sans rendre mon cœur ou volage ou suspect  
@@ -3497,11 +3493,11 @@ Que l'on croid aysément tout ce que l'on desire ! [237]
 Cruel ne pense plus que Caliste respire,  
 Tu vois son homicide⁎.  
 
-    LISANDRE    
-            Helas !  
+    LISANDRE
+    Helas !  
 
     HYPPOLITE
-                et Lucidan  
+        et Lucidan  
 Prest à sacrifier ton sang à Cloridan.  
 Si ce bras a vaincu celle qui te surmonte,  
 Juge combien ce fer te prepare de honte.  
@@ -3527,7 +3523,7 @@ Ce dernier coup t'immole à ma juste douleur.
     HYPPOLITE *se descouvre.* [238]
 Traistre voy l'ennemy, que le sort t'abandonne,  
 Suy tous les mouvemens⁎ que la rage te donne ,  
-Et si tu veux plustost accomplir ton dessein                          
+Et si tu veux plustost accomplir ton dessein  
 Je quitteray ce fer qui me couvre le sein,  
 Desloyal ne feins plus, acheve ton envie,  
 M'ayant osté le cœur tu peux m'oster la vie,  
@@ -3549,7 +3545,7 @@ Ha traistre c'est en vain que ton bras rigoureux
 Me refuse la fin de mes jours malheureux,  
 Apres avoir acquis le tiltre de perfide  
 Tu ne peux eviter celuy là d'homicide⁎,  
-Je m'ayderay moymesme, et j'obtiendray de moy                      
+Je m'ayderay moymesme, et j'obtiendray de moy  
 La douceur du repos que j'attendois de toy.  
 
     LISANDRE
@@ -3573,7 +3569,7 @@ Ha ! Lisandre vivez tant que voudra le sort,
 J'ayme bien mieux vous voir infidelle que mort,  
 Sans rendre contre vous vostre main criminelle  
 Contentez vous en fin du crime d'infidelle. [240]  
-Si mon Amour se plaint, croyez que ce n'est pas                          
+Si mon Amour se plaint, croyez que ce n'est pas  
 De vous voir engagé dessous d'autres appas ;  
 Caliste est trop aymable⁎, et son visage d'Ange  
 Semble avoir esté fait pour excuser un change,  
@@ -3595,7 +3591,7 @@ Que ceux qui sont liez ont bien peu de pouvoir,
 Tous vos ressentimens excuseront mon crime,  
 Qu'une amour violente a rendu legitime. [241]  
 
-    HYPPOLITE    
+    HYPPOLITE
 J'accuseray tousjours vos discours criminels  
 Dont la feinte me plonge en des maux eternels,  
 Et qui ne peuvent rendre à mon ame asservie  
@@ -3618,7 +3614,7 @@ A feindre que l'amour accompagnoit vos pas. [242]
     LISANDRE
 Il est vray que j'ay tort, et mon ame confuse  
 Feroit un autre crime en cherchant une excuse,  
-Mais croyez que vos pleurs diviseroient mes feux,                      
+Mais croyez que vos pleurs diviseroient mes feux,  
 Si le cœur sans mourir se divisoit en deux :  
 Mon Amour tient si fort de l'ame raisonnable  
 Qu'il ne peut diviser sa flame incomparable.  
@@ -3639,7 +3635,7 @@ He Dieux peut-on aymer la cause de son mal !
     HYPPOLITE
 C'est en quoy mon malheur ne treuve point d'esgal,  
 C'est en quoy je cognois⁎, esclave malheureuse,  
-Qu'il n'est point d'autre enfer que la peine amoureuse.                      
+Qu'il n'est point d'autre enfer que la peine amoureuse.  
 Ne pensez pas pourtant que mon ressentiment  
 Invite vostre esprit à quelque changement,  
 J'ayme trop la constance, et ma franchise⁎ advouë  
@@ -3661,11 +3657,11 @@ Tout autant d'amitié que vous avez de flame.
 Mais un homme incognu s'avance devers nous,  
 Il s'en faut informer, Amy d'où venez vous ?  
 
-    LE COURRIER     
+    LE COURRIER
 Je reviens de la Cour,  
 
     LISANDRE
-            Hé bien quelles nouvelles ?  
+        Hé bien quelles nouvelles ?  
 Qui tient le premier rang au nombre des plus belles ?  
 
     COURRIER
@@ -3678,17 +3674,17 @@ Et le donne par force aux attraits d'Hyppolite.
 Que dit-on de Caliste ?  
 
     COURRIER
-            On dit communement  
+        On dit communement  
 Que Lucidan la voit en qualité d'amant. [243]  
 
     LISANDRE
 En qualité d'amant !  
 
     HYPPOLITE *à l'escart .*
-            Puis au siecle où nous sommes  
+        Puis au siecle où nous sommes  
 La verité se trouve aux paroles des hommes. [244]  
 
-    COURRIER     
+    COURRIER
 Et je croy que l'Hymen uniroit leurs amours  
 Si Varasque [245] n'eut pas interrompu leurs cours. [246]  
 
@@ -3705,7 +3701,7 @@ Moderent par la peur le feu qui les tourmente.
 Voila ce que l'on dit.  
 
     LISANDRE
-            Adieu. Que les malheurs  
+        Adieu. Que les malheurs  
 M'ont en fin réservé de cruelles douleurs !  
 Que je voy desormais dans le cours de mes peines  
 Un remede incertain et des pointes certaines !  
@@ -3713,7 +3709,7 @@ Caliste changeroit ! elle sur qui le ciel
 Avoit en vain versé tout ce qu'il a de fiel ;  
 Elle dont les sermens fonderent mon attante,  
 Et qu'Amour et le mal trouverent si constante.  
-Si je n'avois un cœur appris à resister,                              
+Si je n'avois un cœur appris à resister,  
 Pourrois-je sans mourir tant d'ennuis⁎ supporter ?  
 
     HYPPOLITE À L’ESCART .
@@ -3741,7 +3737,7 @@ Allons, Lisandre, allons, et souffrez⁎ de ce pas
 Que ma voix vous deffende, aussi bien que mon bras. [247]  
 
 
-### SCENE DERNIERE                        
+### SCENE DERNIERE
 LE ROY, VARASQUE, ADRASTE / HYPPOLITE, LEON, CALISTE / LISANDRE, DORILAS, LUCIDAN.
 
 
@@ -3756,7 +3752,7 @@ Et s'il n'est soustenu des mains de l'equité [248]
 Il tombe en un instant de sa prosperité :  
 Sa cheute nous fait voir des miseres certaines⁎,  
 Et le prince et le peuple en partagent les peines.  
-Jadis nos premiers Rois tousjours victorieux                          
+Jadis nos premiers Rois tousjours victorieux  
 Ne portoient sur leur front qu'un bandeau glorieux⁎,  
 Et c'estoit pour monstrer que leurs braves courages  
 Estoient de l'equité les vivantes images ; [249]  
@@ -3779,7 +3775,7 @@ Pour vanger l'innocent me preste son espée ;
 Le tiltre d'innocent, non pas celuy de fils  
 M'oblige à soustenir tes orgueilleux deffis.  
 
-    HYPPOLITE *accompagnée de*     LISANDRE *et de* LEON.
+    HYPPOLITE *accompagnée de* LISANDRE *et de* LEON.
 Cessez de prodiguer vos jours et vos courages  
 Au point que [252] le repos triomphe des orages.  
 
@@ -3803,7 +3799,7 @@ A rempli le tombeau des cendres de Cleandre,
 Et si quelque coupable a le feu mérité  
 L'on doit ce chastiment à ma meschanceté.  
 
-    CALISTE     
+    CALISTE
 Que cét evenement me trouble et me console !  
 
     DORILAS
@@ -3828,7 +3824,7 @@ J'esprouve apres les maux, qui m'ont fait une loy,
 Que le souverain bien consiste à voir son Roy :  
 Mais puisque le malheur n'a plus rien qui m'outrage  
 Et que mon innocence a surmonté l'orage,  
-Souffrez⁎ que je m'oppose à ces láches esprits                          
+Souffrez⁎ que je m'oppose à ces láches esprits  
 Qui foulent mon renom d'un orgueilleux mespris,  
 Et dont la violence à mon aspect captive [256]  
 Alloit mettre au tombeau Caliste toute vive.  
@@ -3853,7 +3849,7 @@ Ne parlons plus de crime [258] où paroist l'innocence.
     DORILAS
 Et qu'un parfait accord prenne icy sa naissance.  
 
-    ADRASTE    
+    ADRASTE
 Mon fils que je t'embrasse⁎ apres tant de soupirs  
 Que ton heureux retour convertit en plaisirs.  
 
@@ -3881,7 +3877,7 @@ Sans sçavoir endurer des flames et des fers. [261]
 Lisandre assurez⁎ vous, qu'une jalouse flame  
 Laisse aujourd'huy l'amour paisible dans mon ame.  
 
-    LE ROY    
+    LE ROY
 Donq apres tant de maux Hymen doit à son tour  
 Allumer son flambeau de celuy de l'amour,  
 Et je veux que ses loix donnent sans plus attendre  
@@ -3909,7 +3905,7 @@ Aspirent librement à de si doux liens.
 Que ces liens plairont à mon ame asservie.  
 Si la belle Hyppolite y veut joindre sa vie.  
 
-    HYPPOLITE     
+    HYPPOLITE
 Le respect que je doibs à vostre Majesté  
 M'a fait tousjours flechir sous vostre volonté.  
 Et le bien qui finit les ennuis⁎ de Caliste  

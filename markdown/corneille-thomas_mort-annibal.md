@@ -1,5 +1,5 @@
 ---
-identifier: corneille_mort  
+identifier: corneille-thomas_mort-annibal  
 creator: Corneille, Thomas  
 date: 1669  
 title: La Mort d'Annibal. Tragédie.  
@@ -634,9 +634,6 @@ T. CORNEILLE
  – ARAXE,Capitaine des Gardes de Prusias.
 
 
-## LA MORT D'ANNIBAL TRAGEDIE
-
-
 ## ACTE I.
 
 
@@ -660,7 +657,7 @@ Que chercher [121] les moyens de m'acquiter vers vous [122].
 Quoy qu'Eumene…  
 
     PRUSIAS
-Seigneur, ne parlons plus d'Eumene. [123]  
+        Seigneur, ne parlons plus d'Eumene. [123]  
 Il eust nourry pour nous une eternelle haine [124],  
 Et malgré vous, l'honneur vous eust fait une loy  
 De suivre le destin et d'un frere, et d'un Roy [125].  
@@ -697,7 +694,7 @@ J'avois, j'avois trop veu l'incomparable Elise.
 La Fille d'Annibal ? [135]  
 
     ATTALE
-Oüy, je l'aime, Seigneur,  
+        Oüy, je l'aime, Seigneur,  
 L'absence ny le temps [136] n'ont pû changer mon cœur,  
 Et si de vostre appuy j'ose flater mon ame  
 Je puis me tenir seur du succez de ma flame.  
@@ -741,12 +738,12 @@ Vous sçavez prés de luy quel rang ce Fils possede,
 Que tout jeune qu'il est…  
 
     ATTALE
-Ah, Seigneur, je luy cede [147],  
+        Ah, Seigneur, je luy cede [147],  
 Quoy qu'Elise à mes yeux fasse briller d'appas,  
 Si le Prince y prétend…  
 
     PRUSIAS
-Non, il n'y pense pas,  
+        Non, il n'y pense pas,  
 Mais il faut éviter, en cherchant mon suffrage  
 Ce qui pourroit vous nuire, ou donner de l'ombrage⁎.  
 Mes souhaits sont pour vous, n'attendez rien de plus,  
@@ -775,16 +772,16 @@ Mais enfin soit amour, Araxe, ou Politique [149],
 Cet hymen… Dieux !  
 
     ARAXE
-D'où vient…  
+    D'où vient…  
 
     PRUSIAS
-Qu'il doit m'estre fatal ! [150]  
+        Qu'il doit m'estre fatal ! [150]  
 
     ARAXE
 A vous, Seigneur ?  
 
     PRUSIAS
-Tu vois qu'il nous oste Annibal.  
+        Tu vois qu'il nous oste Annibal.  
 
     ARAXE
 Pouvez-vous regreter qu'il chasse ailleurs un homme  
@@ -794,23 +791,23 @@ Dont la retraite⁎ icy vous rend suspect à Rome ?
 Mais il faudra qu'Elise…  
 
     ARAXE
-Eh bien, quel interest…  
+        Eh bien, quel interest…  
 
     PRUSIAS
 Quoy, d'Elise…  
 
     ARAXE
-Seigneur, je crois qu'elle vous plaist ?  
+        Seigneur, je crois qu'elle vous plaist ?  
 
     PRUSIAS
 A moy ? qui te l'a dit ?  
 
     ARAXE
-Je l'apprens de vous-mesme,  
+        Je l'apprens de vous-mesme,  
 Ce trouble…  
 
     PRUSIAS
-Il me trahit, je l'avouë, oüy, je l'aime,  
+        Il me trahit, je l'avouë, oüy, je l'aime,  
 Et par mille combats rendus jusqu'à ce jour  
 J'ay tâché vainement d'étouffer cet amour.  
 Les interests d'un Fils joints à ceux de mon âge  
@@ -823,7 +820,7 @@ Mais en vous declarant doutez-vous qu'avec joye
 Annibal…  
 
     PRUSIAS
-Non, je sçay ce qu'il faut que j'en croye.  
+        Non, je sçay ce qu'il faut que j'en croye.  
 Mon hymen d'Annibal rempliroit tous les vœux⁎,  
 Je n'ay qu'à dire un mot, et je me rends heureux.  
 Mais puis-je consentir à ce que veut ma flame  
@@ -889,7 +886,7 @@ L'adroit [173] Flaminius a beau dissimuler,
 Il ne vient…  
 
     PRUSIAS
-C'est surquoy [174] je voulais vous parler.  
+        C'est surquoy [174] je voulais vous parler.  
 Depuis que dans ces lieux Flaminius m'observe,  
 J'ay dû pour Annibal montrer quelque reserve⁎,  
 Et tâcher de guerir par cet amusement⁎  
@@ -902,11 +899,11 @@ Que le Romain [175] party, je dois trop à ma gloire
 Pour…  
 
     NICOMEDE
-Il est un moyen de luy faire tout croire.  
+        Il est un moyen de luy faire tout croire.  
 Si vous l'autorisez…  
 
     PRUSIAS
-Quel que soit ce moyen,  
+        Quel que soit ce moyen,  
 Offrez, promettez tout, je ne reserve⁎ rien.  
 
     NICOMEDE
@@ -916,7 +913,7 @@ Et que par un pouvoir à mon repos fatal,
 Elise…  
 
     PRUSIAS
-Vous aimez la Fille d'Annibal ?  
+        Vous aimez la Fille d'Annibal ?  
 
     NICOMEDE
 Oüy, Seigneur, je l'adore, et ne puis plus vous taire  
@@ -935,7 +932,7 @@ Il est connu d'Elise, à qui j'ay crû devoir…
 Vous en estes aimé [177]  ?  
 
     NICOMEDE
-Je n'ay pû le sçavoir,  
+        Je n'ay pû le sçavoir,  
 Mais sans doute son choix suivra celuy d'un Pere [178].  
 
     PRUSIAS
@@ -1021,7 +1018,7 @@ Ma justice n'immole au repos de l'Estat.    
 Pensez-y meurement, allez.  
 
     NICOMEDE
-Je me retire,  
+        Je me retire,  
 Mais trouvez bon, Seigneur, que j'ose encor vous dire  
 Que si pour plaire à Rome il faut trahir son rang  
 Elle peut de bonne heure [189] ordonner de mon sang [190].  
@@ -1062,7 +1059,7 @@ Attaquons ce Rival, et cherchons du repos
 A détruire…  
 
     ARAXE
-Seigneur, elle vient à propos.  
+        Seigneur, elle vient à propos.  
 
 
 ### SCENE V.
@@ -1122,7 +1119,7 @@ Mais l'adoucissement qu'y meslent vos disgraces
 Fait briller…  
 
     ELISE
-Ces douceurs [201] sont pour les ames basses,  
+        Ces douceurs [201] sont pour les ames basses,  
 Seigneur, et mon orgueil s'en accommode mal,  
 De grace, traitez mieux la Fille d'Annibal.  
 Mes yeux ont démenty la fierté de mon ame  
@@ -1163,7 +1160,7 @@ Pourveu que de mon Fils vous approuviez la flame,
 Que ses vœux⁎…  
 
     ELISE
-Connoissez, Seigneur, toute mon ame,  
+        Connoissez, Seigneur, toute mon ame,  
 Le Prince a des vertus⁎ qu'on ne peut égaler,  
 Mais quelque feu pour luy dont je pusse brûler,  
 Je le dédaignerois si d'une ardeur ouverte  
@@ -1182,7 +1179,7 @@ PRUSIAS, ARAXE.
 
 
     PRUSIAS
-Et bien, quelle preuve plus claire  
+        Et bien, quelle preuve plus claire  
 Que mon Fils est aimé, que c'est luy qu'on prefere ?  
 La haine que pour Rome ils montrent tour à tour  
 Fait voir dans ce rapport celuy de leur amour,  
@@ -1213,7 +1210,7 @@ Elise veut, Seigneur, qu'on épouse sa haine,
 Et que…  
 
     PRUSIAS
-Lors qu'il s'agit de voir nos vœux⁎ contents,  
+        Lors qu'il s'agit de voir nos vœux⁎ contents,  
 Promettons tout, Araxe, et laissons faire au temps.  < Fin du premier Acte. >
 
 
@@ -1239,7 +1236,7 @@ Flaminius l'emmene, ils partent dés demain.
 Et le Prince y consent ?  
 
     ALCINE
-Son refus seroit vain.  
+        Son refus seroit vain.  
 Où l'ordre est absolu, que peut sa resistance ?  
 
     ELISE
@@ -1250,7 +1247,7 @@ J'ay peu l'art de connoistre un cœur comme le sien.
 Mais pourquoy…  
 
     ELISE
-C'est assez, je ne demande rien,  
+        C'est assez, je ne demande rien,  
 Ma curiosité sans doute est indiscrette.  
 
     ALCINE
@@ -1267,7 +1264,7 @@ Ne dissimulez point. Le Prince a sçeu vous plaire.
 Moy l'aimer ?  
 
     ALCINE
-Sa vertu⁎ vous doit estre assez chere.  
+        Sa vertu⁎ vous doit estre assez chere.  
 
     ELISE
 Il est vray qu'il sçait joindre à l'éclat de son rang  
@@ -1311,7 +1308,7 @@ Et s'il aime en secret laisse-moy l'ignorer.
 Voicy le Prince, ah Dieux !  
 
     ALCINE
-Redoutez-vous sa veuë ?  
+        Redoutez-vous sa veuë ?  
 
     ELISE
 Je sents que tout à coup mon ame s'est émeuë⁎,  
@@ -1327,7 +1324,7 @@ NICOMEDE, ELISE, ALCINE.
 Vous vous éloignez, Prince ?  
 
     NICOMEDE
-On m'y force, Madame,  
+        On m'y force, Madame,  
 Mais dans ce déplaisir ce qui flate mon ame,  
 C'est que Flaminius s'éloignant avec moy  
 N'aura plus contre vous d'empire sur le Roy.  
@@ -1354,7 +1351,7 @@ De sa ruine entiere auront de seurs garands.
 Quoy, le Roy soufriroit…  
 
     ELISE
-J'oseray plus vous dire,  
+        J'oseray plus vous dire,  
 A vous voir éloigné le Roy luy mesme aspire,  
 Et cét ordre soudain qui nous prive de vous  
 N'est que l'indigne effet d'un mouvement jaloux.  
@@ -1369,7 +1366,7 @@ Quoy, Madame, il se peut que Prusias vous aime,
 Que l'ordre de partir…  
 
     ELISE
-Si vous obeïssez,  
+        Si vous obeïssez,  
 Prince, voyez de grace à qui vous me laissez.  
 
     NICOMEDE
@@ -1377,19 +1374,19 @@ Si j'osois le bien voir je craindrois de trop dire.
 Adieu, Madame.  
 
     ELISE
-Helas !  
+    Helas !  
 
     NICOMEDE
-Quoy, vostre cœur soûpire ?  
+        Quoy, vostre cœur soûpire ?  
 A quoy dois-je imputer ce tendre mouvement ?  
 Quand je trouve un Rival l'obtiens-je comme Amant ? [225]  
 Parlez.  
 
     ELISE
-Que vous diray-je ?  
+    Que vous diray-je ?  
 
     NICOMEDE
-Expliquez⁎ vous de grace.  
+        Expliquez⁎ vous de grace.  
 
     ELISE
 Un soûpir dit beaucoup quand le cœur s'embarasse,  
@@ -1435,7 +1432,7 @@ Le Ciel adoucira cette rigueur extréme.
 Que faire cependant⁎ ?  
 
     NICOMEDE
-Songer que je vous aime,  
+        Songer que je vous aime,  
 Et si le Roy vous presse, accepter de sa foy⁎  
 Ce que je ne veux pas que vous perdiez pour moy [229].  
 
@@ -1475,11 +1472,11 @@ ANNIBAL, NICOMEDE, ELISE.
 
 
     ANNIBAL
-J'apprens que vous allez à Rome,  
+        J'apprens que vous allez à Rome,  
 Prince.  
 
     ELISE
-Rompez, Seigneur, cet injuste projet.  
+        Rompez, Seigneur, cet injuste projet.  
 De sa hayne par vous les Romains sont l'objet [236].  
 Laisseriez-vous ainsi détruire vostre ouvrage [237] ?  
 
@@ -1488,11 +1485,11 @@ J'ay d'asseurez moyens de rompre ce voyage,
 Ne vous alarmez point.  
 
     ELISE
-Ah, je le jugeois bien,  
+        Ah, je le jugeois bien,  
 Que si…  
 
     ANNIBAL
-Laissez-nous seuls, et n'apprehendez rien.  
+        Laissez-nous seuls, et n'apprehendez rien.  
 
 
 ### SCENE IV.
@@ -1517,7 +1514,7 @@ Me dérobent l'effet que je m'en suis promis.
 Vous n'irez point à Rome.  
 
     NICOMEDE
-Ah, Seigneur, prenez garde…  
+        Ah, Seigneur, prenez garde…  
 
     ANNIBAL
 Ne vous alarmez point de ce qui me regarde,  
@@ -1525,10 +1522,10 @@ Je sçay par où [239] je puis tourner l'esprit du Roy,
 J'en répons.  
 
     NICOMEDE
-Mais, Seigneur…  
+    Mais, Seigneur…  
 
     ANNIBAL
-De grace, écoutez-moy.  
+        De grace, écoutez-moy.  
 J'eus toujours pour vous, Prince, une tendresse extrême,  
 Et vous considerant comme un autre moy-mesme,  
 Je croirois démentir un zele si parfait  
@@ -1803,14 +1800,14 @@ Ma haine en liberté, Rome sans défiance⁎.
 Ainsi souffrez⁎, Seigneur…  
 
     PRUSIAS
-Vouloir quitter un Roy  
+        Vouloir quitter un Roy  
 Qui ne reserve⁎ rien pour vous prouver sa foy⁎,  
 Qui vous fait partager la puissance suprême,  
 Respecter⁎ dans sa Cour à l'égal de luy-mesme,  
 Et pour vostre repos…  
 
     ANNIBAL
-C'est me connoistre mal.  
+        C'est me connoistre mal.  
 Quoy, parler de repos pour moy, pour Annibal ? [268]  
 Instruit de ses travaux [269], avez-vous lieu de croire  
 Qu'à s'exiler soy-mesme il auroit mis sa gloire,  
@@ -1909,7 +1906,7 @@ Croira-t'il qu'une ardeur et si tendre et si forte,
 Touche assez vos desirs…  
 
     ELISE
-Seigneur, que vous importe ?  
+        Seigneur, que vous importe ?  
 Si jamais vous avez le nom de mon Epoux,  
 Je connois mon devoir, et c'est assez pour vous.  
 Sans égard à l'amour, de pareils hymenées  
@@ -2037,7 +2034,7 @@ Que ma presence n'ait, Seigneur, rien qui vous gesne⁎,
 Vous sçavez que…  
 
     ATTALE, *à Annibal.*
-Seigneur, donnez-moy vostre aveu⁎,  
+        Seigneur, donnez-moy vostre aveu⁎,  
 Et l'hymen dés demain couronnera mon feu.  
 
     ANNIBAL, *à Flaminius.*
@@ -2092,7 +2089,7 @@ Mon Fils d'un tel honneur a lieu d'estre jaloux.
 Il me suffit ;  
 A Attale.
 
-Demain je parts avecque vous,  
+        Demain je parts avecque vous,  
 Seigneur, deliberez, vous avez ma réponse.  
 
 
@@ -2142,7 +2139,7 @@ Et que dans vostre foy⁎ le vif éclat qui brille
 Ne sçauroit…  
 
     PRUSIAS
-Mais enfin vous épousez sa Fille ?  
+        Mais enfin vous épousez sa Fille ?  
 
     ATTALE
 Je n'avois pas préveu que contre le Senat  
@@ -2234,7 +2231,7 @@ Ainsi voyez, Seigneur, ce que Rome hazarde
 A souffrir⁎ qu'Annibal…  
 
     FLAMINIUS
-C'est à quoy je prens garde,  
+        C'est à quoy je prens garde,  
 Mais aussi je ne puis voir tout à coup perdus  
 Les services qu'Attale au Senat a rendus.  
 Eumene comme luy toûjours ardent, fidelle,  
@@ -2268,14 +2265,14 @@ Que je parle, et qu'un autre ait la gloire d'agir.
 Que dites-vous, Seigneur ?  
 
     PRUSIAS
-Que pour vous estre utile  
+        Que pour vous estre utile  
 Je voulus qu'Annibal chez moy trouvast azile,  
 Et qu'avec mesme ardeur, du mesme esprit poussé,  
 J'acheveray pour vous ce que j'ay commencé.  
 J'épouseray sa Fille.  
 
     FLAMINIUS
-O digne effort d'un zele  
+        O digne effort d'un zele  
 Qui ne cherchant que Rome immole tout pour elle !  
 Vous forcer à l'Hymen ! vous m'en voyez surpris.  
 
@@ -2299,7 +2296,7 @@ Jamais je n'en auray le moindre repentir,
 Et pourveu…  
 
     FLAMINIUS
-Non, Seigneur, je n'y puis consentir,  
+        Non, Seigneur, je n'y puis consentir,  
 Aux interests de Rome Attale peut suffire.  
 
     PRUSIAS
@@ -2356,7 +2353,7 @@ Souffre-t'il⁎ [317] que mon cœur ébloüy⁎ de ses feux
 Ose…  
 
     FLAMINIUS
-Et quoy, Prusias, vous estes scrupuleux ?  
+        Et quoy, Prusias, vous estes scrupuleux ?  
 Apprenez, apprenez pour solides maximes,  
 Que qui sert le Senat ne peut faire de crimes,  
 Et que de mille horreurs un forfait revestu  
@@ -2436,7 +2433,7 @@ A trente pas d'icy je viens de le quitter.
 Il presse fort.  
 
     FLAMINIUS
-Allons, il le faut écouter.  < Fin du troisiéme Acte. >
+        Allons, il le faut écouter.  < Fin du troisiéme Acte. >
 
 
 ## ACTE IV.
@@ -2464,7 +2461,7 @@ J'ay sçeu du Phrygien la fausse mort d'Eumene.
 Eumene vit encor ?  
 
     FLAMINIUS
-Cette lettre est de luy,  
+        Cette lettre est de luy,  
 Par elle contre Attale il cherche mon appuy,  
 Et doutant que ce Frere aisément abandonne  
 Les flateuses douceurs qui suivent la Couronne,  
@@ -2495,7 +2492,7 @@ Sans le faire connoistre on prit soin de ses jours.
 C'est ce qu'Attale ignore ?  
 
     FLAMINIUS
-Et ce qu'il faut luy taire  
+        Et ce qu'il faut luy taire  
 Jusqu'au flateur hymen que son amour espere.  
 Permettre qu'Annibal remplisse cet espoir  
 Ce sera luy donner un Gendre sans pouvoir,  
@@ -2509,7 +2506,7 @@ Attale à ce défaut d'Elise estant l'Epoux
 Nous ostera…  
 
     PROCULE
-Voyez qu'il s'avance vers vous.  
+        Voyez qu'il s'avance vers vous.  
 
 
 ### SCENE II.
@@ -2522,11 +2519,11 @@ Examiné quel choix vous est le plus utile,
 Rome vaut bien…  
 
     ATTALE
-Seigneur, je connois mon devoir,  
+        Seigneur, je connois mon devoir,  
 Et ce que j'ay pensé…  
 
     FLAMINIUS
-Je n'en veux rien sçavoir.  
+        Je n'en veux rien sçavoir.  
 La fierté qui tantost soustenoit vostre flame,  
 M'a paru d'un cœur franc, digne d'une grande ame,  
 Et fait voir d'autant mieux combien vous meritiez  
@@ -2605,12 +2602,12 @@ Que par l'hymen d'Elise il comble mes souhaits.
 Flaminius consent…  
 
     ATTALE
-Oüy, que j'épouse Elise,  
+        Oüy, que j'épouse Elise,  
 Vous en voyez ma joye, envain je la déguise,  
 Mes yeux la font paroistre.  
 
     PRUSIAS
-Et pour un si grand bien  
+        Et pour un si grand bien  
 Vous avez crû devoir ne luy refuser rien [328] ?  
 
     ATTALE
@@ -2624,7 +2621,7 @@ Quoy, ceder à l'amour, et s'en laisser surprendre,
 Jusqu'à…  
 
     ATTALE
-Que voulez-vous, Seigneur, j'ay le cœur tendre,  
+        Que voulez-vous, Seigneur, j'ay le cœur tendre,  
 Et n'ay pas tant vescu qu'on doive présumer  
 Que déja je me fasse une honte d'aimer.  
 
@@ -2701,14 +2698,14 @@ Affermit vostre Trône, et vous acquiert Elise,
 Par là vous gagnez tout.  
 
     PRUSIAS
-Perdre Annibal ! helas !  
+        Perdre Annibal ! helas !  
 
     ARAXE
 Estes-vous en estat de ne le perdre pas ?  
 Decidant de ses jours Attale…  
 
     PRUSIAS
-Ah le perfide !  
+        Ah le perfide !  
 Mais le feray-je moins si ma flame en decide ?  
 
     ARAXE
@@ -2724,7 +2721,7 @@ Mais c'est flater mon feu d'un espoir inutile
 Si l'on voit que par moy…  
 
     ARAXE
-Le remede est facile.  
+        Le remede est facile.  
 Employez des Romains, et par eux seulement  
 Faites prendre Annibal dans son appartement.  
 Le coup fait, plaignez-vous de cette violence,  
@@ -2749,7 +2746,7 @@ PRUSIAS, NICOMEDE, ARAXE.
 
 
     PRUSIAS
-Viens sçavoir, et venger tout ensemble  
+        Viens sçavoir, et venger tout ensemble  
 Un crime dont encor l'horreur fait que je tremble.  
 A l'amour d'un Perfide on s'est enfin rendu,  
 Flaminius triomphe, Annibal est vendu.  
@@ -2781,7 +2778,7 @@ Aux vœux⁎ de mon Rival Flaminius consent, [335]
 Attale vous obtient.  
 
     ELISE
-C'est ce qui vous estonne⁎ ?  
+        C'est ce qui vous estonne⁎ ?  
 Pour tirer mon adveu⁎ la voye est assez bonne,  
 Et Rome à qui je porte un courage⁎ soûmis  
 Peut répondre de moy quand elle aura promis.  
@@ -2793,13 +2790,13 @@ Mais on livre Annibal, et c'est ce qu'on vous cache.
 Mon Pere ?  
 
     NICOMEDE
-Il est le prix de l'adveu⁎ qu'on arrache ;  
+        Il est le prix de l'adveu⁎ qu'on arrache ;  
 Ne craignez rien pourtant de cette trahison,  
 Je vay trouver Attale, il m'en fera raison,  
 Et s'il ose…  
 
     ELISE
-Arrestez⁎, que pretendez-vous faire ?  
+        Arrestez⁎, que pretendez-vous faire ?  
 Cet advis m'est suspect, il part de vostre Pere,  
 Qui craignant deux Rivaux, pour en venir à bout,  
 Veut perdre l'un par l'autre, et desaduoüer tout [336].  
@@ -2895,11 +2892,11 @@ Sçavez-vous à quel prix Attale la reçoit ?
 Il vous livre aux Romains.  
 
     ATTALE
-Ah, Madame, je jure  
+        Ah, Madame, je jure  
 Qu'on me fera…  
 
     ELISE, *à Attale.*
-Seigneur, ce peut estre imposture,  
+        Seigneur, ce peut estre imposture,  
 Mais quand on vous accuse, à vous parler sans fard,  
 L'apparence au soupçon vous donne grande part [340].  
 
@@ -2907,7 +2904,7 @@ L'apparence au soupçon vous donne grande part [340].
 Quoy, me tenir suspect, moy qui…  
 
     ELISE
-Sçachons, de grace,  
+        Sçachons, de grace,  
 D'où vient que du Romain la colere se passe,  
 Et que de vostre amour dans l'abord irrité,  
 Il montre tout à coup tant de facilité :  
@@ -3013,7 +3010,7 @@ Et bien, Attale, et bien, mon soupçon vous outrage ?
 Les Romains nous surprendre !  
 
     ELISE
-Et pour ce coup fatal,  
+        Et pour ce coup fatal,  
 Tandis qu'on s'y prepare, on amuse⁎ Annibal.  
 
     ATTALE
@@ -3085,7 +3082,7 @@ Quels feux depuis long-temps dans mon cœur renfermez
 Vous ont faite…  
 
     ELISE
-Oüy, Seigneur, je sçay que vous m'aimez,  
+        Oüy, Seigneur, je sçay que vous m'aimez,  
 Mais enfin il falloit, si vous me vouliez plaire,  
 Ne m'en venir rien dire, et mourir pour mon Pere.  
 J'aurois suivy ses pas, et c'est dequoy rougir  
@@ -3123,7 +3120,7 @@ Pour prix de son forfait luy donne vostre main,
 Cet Attale…  
 
     ELISE
-Du moins il fait ce qu'il doit faire,  
+        Du moins il fait ce qu'il doit faire,  
 Il anime les siens à défendre mon Pere,  
 Se donne pour exemple, et les enhardissant…  
 
@@ -3308,7 +3305,7 @@ Retournez à Pergame, Eumene vous attend.
 Eumene !  
 
     FLAMINIUS
-Ouy, c'est par luy que le Ciel y rappelle [361]  
+        Ouy, c'est par luy que le Ciel y rappelle [361]  
 Que vous avez trouvé vostre Garde infidelle,  
 Quand nous le croyions mort, la mer nous l'a rendu,  
 Et vous sçaurez de luy le respect⁎ qui m'est dû.  
@@ -3348,7 +3345,7 @@ Prenez mon Trône offert, je vous y donne place.
 Vostre Trône ?  
 
     FLAMINIUS
-Ouy, Madame, et si vous balancez  
+        Ouy, Madame, et si vous balancez  
 J'oseray contre vous plus que vous ne pensez,  
 J'arresteray⁎ le cours de cette humeur altiere.  
 
@@ -3383,10 +3380,10 @@ Au point que les Romains enlevoient vostre Pere,
 Le Prince…  
 
     ELISE
-Et bien ?  
+    Et bien ?  
 
     ALCINE
-A fait tout ce que l'on peut faire.  
+        A fait tout ce que l'on peut faire.  
 Fort d'un nombre d'Amis à la haste amassez  
 Jusque dans le Palais il les a repoussez,  
 Et tous, tremblant d'effroy dés qu'ils l'ont veu paroistre,  
@@ -3396,7 +3393,7 @@ Negligeant Annibal, l'en ont laissé le maistre.
 Mon Fils a l'insolence…  
 
     FLAMINIUS
-Eclatez, Prusias,  
+        Eclatez, Prusias,  
 L'entreprise est manquée, et je n'en doute pas.  
 Vous voyant l'ame foible, et jamais arrestée⁎,  
 Ma défiance⁎ exprés l'avoit precipitée,  
@@ -3407,7 +3404,7 @@ Vous donnez d'une main, et retenez de l'autre,
 Mais Rome… [366]  
 
     PRUSIAS
-Et bien, Seigneur, aux dépens de mon Fils  
+        Et bien, Seigneur, aux dépens de mon Fils  
 Vous me verrez tenir tout ce que j'ay promis.  
 Bien loin d'en appuyer la criminelle audace,  
 Sur luy, sur tous les Siens je vay faire main basse [367],  
@@ -3465,7 +3462,7 @@ ANNIBAL, ELISE, NICOMEDE, ALCINE.
 Ah, Seigneur, c'est donc vous ?  
 
     ANNIBAL
-Ouy, que le Ciel ramene,  
+        Ouy, que le Ciel ramene,  
 Pour vous faire encor mieux heriter de ma haine.  
 De nos mauvais destins si vous venez à bout,  
 Voicy le bras, ma Fille, à qui vous devrez tout.  
@@ -3481,7 +3478,7 @@ Vous allez trembler, Prince, au nom de Prusias.
 Quoy, mon Pere…  
 
     ELISE
-Ouy, de luy viennent ces attentats.  
+        Ouy, de luy viennent ces attentats.  
 L'innocence d'Attale est assez averée.  
 
     NICOMEDE
@@ -3511,14 +3508,14 @@ Seigneur, de Prusias plaignez la destinée.
 Araxe.  
 
     ARAXE
-Il ne vit plus.  
+    Il ne vit plus.  
 
     NICOMEDE
-O funeste journée !  
+        O funeste journée !  
 Mon Pere ne vit plus.  
 
     ARAXE
-A peine a-t-il appris  
+        A peine a-t-il appris  
 Ce que pour Annibal vous avez entrepris,  
 Que saisi tout à coup d'une fureur extrême,  
 Pour vous couper passage, il est sorty luy-mesme.  
@@ -3561,7 +3558,7 @@ Eux-mesmes s'immoler aux Manes d'Annibal [376].
 Aux Manes d'Annibal ?  
 
     ANNIBAL
-Quoy, vous auriez pû croire  
+        Quoy, vous auriez pû croire  
 Que j'eusse pris si peu l'interest de ma gloire,  
 Qu'aux mains de mes Tyrans m'estant veu sans secours,  
 Je leur eusse laissé quelque droit sur mes jours ?  
@@ -3569,10 +3566,10 @@ Cet anneau [377] m'a fourny dequoy ne les pas craindre,
 Je meurs empoisonné.  
 
     NICOMEDE
-Dieux !  
+    Dieux !  
 
     ANNIBAL
-Gardez de me plaindre [378],  
+        Gardez de me plaindre [378],  
 Avecque trop d'éclat j'ay sçeu remplir mon sort  
 Pour vous donner sujet de regreter ma mort [379].  
 Vivez pour haïr Rome, et maistres de vos vies,  
@@ -3584,7 +3581,7 @@ Bravez la Tyrannie, et mourez comme moy.
 C'en est fait, il expire, ah, Seigneur !  
 
     NICOMEDE
-Ah, Madame !  
+        Ah, Madame !  
 Que d'ennuis⁎ à la fois s'emparent de mon ame !  
 Allons en Bithynie, et pour nous soulager  
 Faisons-y tout servir au soin de nous vanger [380].  < FIN. >

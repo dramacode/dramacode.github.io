@@ -1,5 +1,5 @@
 ---
-identifier: boyer_jeune  
+identifier: boyer_jeune-marius  
 creator: Boyer, Claude  
 date: 1670  
 title: Le Jeune Marius. Tragédie.  
@@ -855,7 +855,7 @@ Quoy, Seigneur, quel amour dans un sort si funeste...,
 Cecilie est icy.  
 
     MAXIME.
-Quoy, Seigneur, dans Preneste ?  
+        Quoy, Seigneur, dans Preneste ?  
 
     MARIUS.
 Oüy Maxime, et l'amour aprés tant de *⁎*hazards,  
@@ -865,7 +865,7 @@ Acheve icy sur moy le triomphe de Mars.
 La fille de Sylla ?  
 
     MARIUS.
-Cecilie, et ses charmes  
+        Cecilie, et ses charmes  
 Sont plus forts que son pere avec toutes ses armes.  
 Mais aprens quel destin l'a menée en ces lieux.  
 Je ne veux point icy retracer à tes yeux  
@@ -1023,7 +1023,7 @@ Malgré ce grand espoir vous presse par ma vois.
 Ecoutez-la, Seigneur.  
 
     MARIUS.
-Je l'écoute, Madame ;  
+        Je l'écoute, Madame ;  
 Mais m'écouterez-vous en faveur de ma *⁎*flâme ?  
 Si je livre à Sylla Preneste et nos Soldats,  
 Si mon cœur se trahit, ne le trahissez pas.  
@@ -1115,7 +1115,7 @@ Où courrez-vous, Seigneur ? Helas qu'allez-vous faire ?
 Vaincre ou perir.  
 
     CECILIE.
-Songez qu'il faut vaincre mon pere.  
+        Songez qu'il faut vaincre mon pere.  
 
     MARIUS.
 Vous voulez donc ainsi, *⁎*cruelle, m'arrester ;  
@@ -1215,7 +1215,7 @@ C'est là de Marius l'image veritable ;
 Mais en trouverez-vous qui luy soit comparable ?  
 Est-il quelque Romain qui luy put estre égal ?  
 
-    CECILIE. 
+    CECILIE.
 Avant que d'en juger connois mieux son Rival.  
 Pour t'en faire un portrait juste et qui luy ressemble,  
 Mets la gloire elle-mesme et la grandeur ensemble,  
@@ -1391,7 +1391,7 @@ MARIUS. CECILIE. SABINE.
 
 
     MARIUS.
-Pardonnez si je montre à vos yeux  
+        Pardonnez si je montre à vos yeux  
 Pour un foible succez un front victorieux.  
 Quand je doy soupirer du *⁎*bon-heur de mes armes,  
 D'avoir à ces beaux yeux fait répandre des larmes,  
@@ -1428,7 +1428,7 @@ Et croit n'avoir plus rien à combatre que vous.
 Voila toute ma joye.  
 
     CECILIE.
-Ainsi vous osez croire,  
+        Ainsi vous osez croire,  
 Que j'ay pû faire un choix, qui fait tort à ma gloire :  
 Vous pouviez m'épargner un si cruel affront,  
 Et voyant un succés trop facile et trop prompt,  
@@ -1535,7 +1535,7 @@ Quoy jusques-là mon pere abbaisse sa fierté,
 Sabine ?  
 
     MARIUS.
-N'est-ce point une temerité  
+        N'est-ce point une temerité  
 Madame d'accepter des mains de vostre pere  
 Un present que vous seule avez droit de me faire ?  
 Ne voy je pas déja cét air triste et confus  
@@ -1685,10 +1685,10 @@ MAXIME sort.
 Quoy vous obeyrez  
 
     CECILIE.
-Oüy , Seigneur.  
+    Oüy , Seigneur.  
 
     MARIUS.
-Ah  ! Madame.  
+        Ah  ! Madame.  
 Sçavez-vous quels tourmens se prepare vostre ame ?  
 Madame sçavez-vous qu'on a veu plus d'un cœur  
 Pour de pareils efforts expirer de douleur ?  
@@ -1761,7 +1761,7 @@ Que rien de cét hymen ne rompra l'alliance ;
 Que malgré nos malheurs, la paix et nos sermens  
 Etouffent pour jamais tous nos ressentimens [85].  
 Permettez seulement, que cette grande Feste  
-Cede aux glorieux soins du combat qui s'apreste :       
+Cede aux glorieux soins du combat qui s'apreste :  
 Il faut secourir Rome ; il faut qu'un prompt retour  
 Y puisse avec éclat couronner vostre amour,  
 Et qu'un hymen pompeux remplisse vostre attente  
@@ -1772,7 +1772,7 @@ Rome est-elle Seigneur en un si grand danger,
 Qu'il faille...  
 
     SYLLA.
-Ce secours ne se peut negliger.  
+        Ce secours ne se peut negliger.  
 Entre Preneste et Rome il est si peu d'espace [86],  
 Qu'on peut à tout moment sçavoir ce qui s'y passe.  
 J'ay donc sçeu que Pompée instruit de nostre accord,  
@@ -1831,7 +1831,7 @@ Mais pour voir tout le prix de ton obeyssance,
 Sçache que Marius t'obtiendra malgré moy,  
 Quand Pompée, à qui seul j'avois voüé ta foy...  
 
-    CECILIE. 
+    CECILIE.
 C'est donc Pompée à qui vous m'aviez destinée.  
 
     SYLLA.
@@ -1839,7 +1839,7 @@ Oüy, je te le destinois à ce grand hymenée [90].
 Tu soûpires, ma fille.  
 
     CECILIE.
-Oüy, je soûpire, helas !  
+        Oüy, je soûpire, helas !  
 Puis-je l'aimer, le perdre, et n'en soûpirer pas ?  
 Pardonnez cét adveu, ma faute est excusable,  
 Si j'aimay sans vostre ordre un Heros trop aimable :  
@@ -1949,7 +1949,7 @@ Qu'autant qu'à ma grandeur il sera necessaire.
 Quoy, Seigneur...  
 
     SYLLA.
-Laisse-nous ; fais ce que je t'ay dit.  
+        Laisse-nous ; fais ce que je t'ay dit.  
 Des soins plus importans occupent mon esprit.  
 
 
@@ -2072,7 +2072,7 @@ SYLLA. POMPEE. PISON. SUITE.
 
 
     SYLLA *continuë.*
-Peut on jamais, Seigneur, d'assez de gloire,  
+        Peut on jamais, Seigneur, d'assez de gloire,  
 D'un triomphe assez beau payer vostre victoire ?  
 Digne Heros issu du plus beau sang Romain ?  
 
@@ -2141,7 +2141,7 @@ Je m'en vay prendre au Camp le nom de Dictateur.
 Le nom de Dictateur ?  
 
     SILLA.
-Quoy ce nom vous étonne ?  
+        Quoy ce nom vous étonne ?  
 
     POMPEE.
 Non, puisque vous avez tout le pouvoir qu'il donne [101],  
@@ -2184,7 +2184,7 @@ Vous pouvez-vous, Seigneur, dispenser de la voir ?
 Voyons là, comme elle est aussi fiere que belle,  
 Son orgueil et le mien se deffendront contr'elle.  
 
-    MARCELLE. 
+    MARCELLE.
 Vous la verrez bien-tost, elle va revenir,  
 Son pere l'a mandée, et veut l'entretenir.  
 
@@ -2243,14 +2243,14 @@ CECILIE. POMPEE. SUITE.
 
 
     CECILIE.
-Vous me fuyez, Seigneur :  
+        Vous me fuyez, Seigneur :  
 Non, non, ne craignez plus cette injuste rigueur,  
 Qui contre mon dessein trompoit vostre esperance ;  
 Ce pouvoir qui forçoit ma tendresse au silence,  
 Veut que par un adveu, qui n'est plus de saison,  
 De toutes mes rigueurs je vous fasse raison.  
 
-    POMPEE. 
+    POMPEE.
 Aprés avoir cent fois rejetté mon homage,  
 Attendiez-vous ce jour pour changer de langage ?  
 Pourquoy m'embarasser par ces feintes douceurs,  
@@ -2282,7 +2282,7 @@ De ne vous plus cacher ce que je sens pour vous.
 Quoy, vous m'aimez ? ô ! Dieux m'est-il permis de croire,  
 Quand je n'espere rien, tant d'heur et tant de gloire ?  
 
-    CECILIE. 
+    CECILIE.
 Que ces transports plairoient au beau *⁎*feu que je sens,  
 Qu'ils seroient doux, Seigneur, s'ils estoient innocens !  
 Mais loin de s'applaudir d'un adveu legitime,  
@@ -2319,7 +2319,7 @@ Mais quand la trahison s'appreste à l'accabler,
 Voulez-vous...  
 
     POMPEE.
-Ah ! cessez de me faire trembler.  
+        Ah ! cessez de me faire trembler.  
 
     CECILIE.
 Tout l'univers verroit son attente trompée,  
@@ -2345,11 +2345,11 @@ Pour avoir refusé l'illustre Cecilie.
 Devoir trop rigoureux !  
 
     CECILIE.
-Mais Sylla vient à nous,  
+        Mais Sylla vient à nous,  
 Qu'avez-vous resolu ?  
 
     POMPEE.
-Que me demandez-vous ?  
+        Que me demandez-vous ?  
 
     CECILIE.
 Ah ! Seigneur, vous devez faire cesser ce trouble.  
@@ -2359,10 +2359,10 @@ Ah, plus je le combats, plus je sens qu'il redouble,
 Fuyons.  
 
     CECILIE.
-Il vous a veu, demeurez.  
+    Il vous a veu, demeurez.  
 
     POMPEE.
-Je ne puis,  
+        Je ne puis,  
 Et ne veux rien resoudre en l'estat où je suis.  
 
 
@@ -2377,7 +2377,7 @@ Quoy, ma fille, Pompée évite ma presence ?
 Seigneur...  
 
     SYLLA.
-Ah ! non j'entens sa fuite et ton silence,  
+        Ah ! non j'entens sa fuite et ton silence,  
 Alors que par mon ordre il voit en sa faveur  
 Le secret de ta *⁎*flâme arraché de ton cœur :  
 L'ingrat ose braver, sans peur de nous déplaire,  
@@ -2456,7 +2456,7 @@ Mon pouvoir est mal seur contre tant de vertu.
     CECILIE.
 Quoy donc tant de vertu merite qu'on l'opprime ?  
 
-    SYLLA. 
+    SYLLA.
 J'apprehende en autruy la vertu que j'estime,  
 Et voulant m'asseurer mon repos et mon rang,  
 Je puis avec honneur répandre un peu de sang.  
@@ -2471,7 +2471,7 @@ Ou ne m'imposez pas un choix abominable,
 Pere cruel.  
 
     SILLA.
-Gardez de trahir mon secret  
+        Gardez de trahir mon secret  
 Par les emportemens d'un scrupule indiscret.  
 Songez que de leur sort vous faisant la maistresse,  
 C'est en vostre faveur un fruit de ma tendresse,  
@@ -2515,7 +2515,7 @@ SYLLA. MARIUS. PISON. MAXIME.
 Quoy, Seigneur...  
 
     SILLA.
-Je connois vostre malheur extréme ;  
+        Je connois vostre malheur extréme ;  
 Je le voy, je le sens, et vous pouvez penser  
 Quels soins dans cet estat viennent m'embarrasser.  
 Je sçay que Cecilie à vous seul destinée,  
@@ -2623,7 +2623,7 @@ Ou crains pour mes Rivaux [113] ce que tu crains pour moy.
 Je m'emporte et peut-estre avec trop d'imprudence,  
 Mais qu'ay-je à ménager quand je perds l'esperance ?  
 La contrainte est honteuse et n'est plus de saison,  
-Quand il faut s'expliquer contre la trahison.       
+Quand il faut s'expliquer contre la trahison.  
 
     SYLLA.
 Croyez-moy, remettez le calme dans vostre ame,  
@@ -2650,7 +2650,7 @@ Adieu.
 ### SCENE VI.
 
     SYLLA *seul à PISON.*
-Voy maintenant le secret de ma haine.  
+        Voy maintenant le secret de ma haine.  
 Pour perdre Marius et sans honte et sans peine,  
 Le choix de Cecilie est un moyen certain :  
 Ma fille en fait le crime et l'épargne à ma main [114] :  
@@ -2755,7 +2755,7 @@ Le font doux et cruel , arrogant et flateur,
 Font qu'il ose et craint tout, et que sa violence  
 Agit ou se retient selon sa défiance.  
 
-    CECILIE. 
+    CECILIE.
 Ainsi quand sur ce choix je cherche mon devoir,  
 Je ne trouve pour moy que honte et desespoir,  
 Ainsi lorsque ce choix me rend trop incertaine,  
@@ -2839,7 +2839,7 @@ Que s'il faut à ce Dieu joindre d'autres secours,
 Souffrez...  
 
     CECILIE.
-Daignez, Seigneur, prendre soin de vos jours.  
+        Daignez, Seigneur, prendre soin de vos jours.  
 Echapez promptement aux fureurs de mon pere,  
 Ce choix qu'il me demande, et que je crains de faire,  
 Quel qu'il puisse estre enfin, ou pour ou contre vous,  
@@ -2863,7 +2863,7 @@ Ou de vivre pour vous ou de cesser de vivre.
 Vous ne répondez rien.  
 
     CECILIE.
-Qu'esperez-vous, Seigneur ?  
+        Qu'esperez-vous, Seigneur ?  
 Quels efforts, quels secours, vaincront vostre malheur ?  
 Je ne le puis nier, la perfidie est noire ;  
 Il s'agit de vanger et l'amour et sa gloire.  
@@ -2878,7 +2878,7 @@ Puis-je prendre avec luy quelqu'autre seureté ?
 S'il le faut toutefois...  
 
     CECILIE.
-Non, non, craignez sa haine ;  
+        Non, non, craignez sa haine ;  
 Je voy de tous costez vostre perte certaine,  
 Et daignez seulement pour vous faire raison  
 Employer la vertu contre la trahison.  
@@ -2907,7 +2907,7 @@ Je mourray satisfait, ou je vivray content.
 Adieu, Madame.  
 
     CECILIE.
-Adieu.  
+    Adieu.  
 
 
 ### SCENE III.
@@ -2915,7 +2915,7 @@ CECILIE. MARCELLE.
 
 
     CECILIE *continuë*.
-Que son sort est à plaindre !  
+        Que son sort est à plaindre !  
 
     MARCELLE.
 Ah ! que sa vengeance est beaucoup plus à craindre [116].  
@@ -2973,7 +2973,7 @@ Mon devoir prés de vous, doute, tremble, chancele.
 Le mal presse, il est temps, Madame.  
 
     CECILIE.
-Allons, Seigneur.  
+        Allons, Seigneur.  
 Excusez, si j'y cours avecque moins d'ardeur [117] :  
 Mon cœur, quoy que Romain est fait tout comme un autre,  
 Et ma vertu n'est pas si forte que la vostre.  
@@ -3011,7 +3011,7 @@ SYLLA. POMPEE. CECILIE. SABINE.
 
 
     SILLA.
-Peut-on sçavoir qui sera vostre Epoux ?  
+        Peut-on sçavoir qui sera vostre Epoux ?  
 Mais j'entens vostre choix, Pompée est avec vous.  
 
     CECILIE.
@@ -3022,7 +3022,7 @@ J'ay choisi Marius Seigneur, et j'en fais gloire.
 Dieux !  
 
     CECILIE.
-Et j'ay dû répondre en cette occasion,  
+        Et j'ay dû répondre en cette occasion,  
 Plus à vostre devoir qu'à vostre intention.  
 
     SILLA.
@@ -3100,10 +3100,10 @@ SYLLA. POMPEE. CECILIE. PISON. MARCELLE.
 Seigneur....  
 
      SYLLA.
-Qu'est-ce Pison ?  
+    Qu'est-ce Pison ?  
 
     PISON.
-Marius dans la place  
+        Marius dans la place  
 Suivy d'un gros d'amis et de la populace,  
 Marche vers le Palais avec ses revoltez,  
 Et vient vous demander l'effet de nos traitez,  
@@ -3163,11 +3163,11 @@ Quand tu vois Marius prest à se satisfaire.
 Veux-tu...  
 
     SABINE.
-Mais voulez-vous exposer vostre pere !  
+        Mais voulez-vous exposer vostre pere !  
 Vous voyez quels perils...  
 
     CECILIE.
-Pourquoy m'allarmes-tu ?  
+        Pourquoy m'allarmes-tu ?  
 Pourquoy d'un nom si cher *⁎*étonner ma vertu ?  
 Faut-il avec un pere estre d'intelligence,  
 Alors qu'il faut trahir l'honneur et l'innocence ?  
@@ -3183,14 +3183,14 @@ CECILIE. SABINE. MARCELLE.
 Qu'est-ce ?  
 
     MARCELLE.
-Helas ! pour comble de misere,  
+        Helas ! pour comble de misere,  
 Marius va tomber aux mains de vostre pere.  
 
     CECILIE.
 Comment !  
 
     MARCELLE.
-Le *⁎*fier Sylla se presente aux mutins,  
+        Le *⁎*fier Sylla se presente aux mutins,  
 Comme s'il estoit seul maistre de leurs destins :  
 Son intrepidité desarme leur audace,  
 Et toute leur ardeur se convertit en glace,  
@@ -3210,7 +3210,7 @@ CECILIE. POMPEE. MARCELLE. SABINE.
 Ah ! Seigneur, Marius...  
 
     POMPEE.
-Vous voyez ma douleur.  
+        Vous voyez ma douleur.  
 Abandonné des siens, mais malgré son malheur,  
 Plus honteux que troublé de les voir sans courage.  
 La trahison, dit-il, acheve son ouvrage,  
@@ -3231,7 +3231,7 @@ Mon trépas, cher Rival, vange tes déplaisirs ;
 Adieu, joüis en paix du bon-heur de ta *⁎*flâme [122].  
 Attendri par ces mots jusques aux *⁎*feux de l'ame,  
 Je change tout d'un coup ma tendresse en horreur,  
-Voyant le *⁎*fier Sylla d'un œil plein de fureur      
+Voyant le *⁎*fier Sylla d'un œil plein de fureur  
 Jouyr de ce spectacle, et charmé de son crime  
 D'un avide regard devorer sa victime.  
 Apres avoir soulé toute sa cruauté,  

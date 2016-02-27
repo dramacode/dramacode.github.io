@@ -1,5 +1,5 @@
 ---
-identifier: brecourt_l'ombre  
+identifier: marcoureau_ombre-moliere  
 creator: Brécourt  
 date: 1674  
 title: L'Ombre de Molière. Comédie  
@@ -415,13 +415,7 @@ Page 34 : entrer ? corrigé en entrer..
 Page 60 : Ombre leur Partie corrigé en Ombre, leur Partie.
 
 
-# L'OMBRE DE MOLIERE.
-
-
-# COMEDIE.
-
-
-## À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN [43].
+# À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN [43].
 
 *Monseigneur*,
 
@@ -436,7 +430,7 @@ Le tres-humble et tres-obeïssant Serviteur,
 BRECOURT.
 
 
-## ACTEURS.
+# ACTEURS.
  – DEUX OMBRES.
  – CARON.
  – LE POETE.
@@ -616,7 +610,7 @@ Quoy ! tu ne me laisseras pas en repos ? Veux-tu te retirer ?
 Helas, Caron ! helas !
 
     CARON *le raillant sur le mesme ton.*
-              
+
 Helas, Caron ! helas ! A qui diable en as-tu avec tes piteux helas ?
 
     LE POETE.
@@ -1232,7 +1226,7 @@ Mais quoy, les Imposteurs abusant de l'occasion, usurpent effrontément une aut
 Messieurs, hé ?
 
     MOLIERE.
-Il me souvient icy, avec quelque douleur, de la foiblesse d'un de mes Amis qui s'estoit sottement confié par leurs noires séductions à l'expérience d'un Remede. Deux heures apres l'avoir pris, le Medecin qui l'avoit ordonné, luy en vint demander l'effet, et comment il s'en estoit trouvé. J'ay fort sué, luy répondit le Malade. Cela est bon, dit le Medecin. Trois heures en suite, il luy vint demander comment il s'estoit porté depuis. J'ay senti, dit le Patient, un froid extréme, et j'ay fort tremblé. Cela est bon, suivit le Charlatan. Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit . Je me sens, dit le Malade, enfler par tout, comme d'hydropisie [74]. Tout cela est bien, répondit le Bourreau. Le lendemain j'allay voir ce pauvre Malade ; et luy ayant demandé en quel état il estoit : Helas ! mon cher Amy, dit-il, en rendant le dernier soûpir, à force d'estre bien, je sens que je me meurs. Ah ! m'écriay-je alors tout percé de douleur, qu'heureux sont les animaux que la simple Nature sçait guérir sans le secours de leur Consultations ! Que l'Estre brutal [75] seroit à souhaiter, quand on devient malade ! Mais aussy qu'il se- roit à craindre, s'il se trouvoit autant de Medecins parmy les Bestes, que de Bestes parmy les Medecins !
+Il me souvient icy, avec quelque douleur, de la foiblesse d'un de mes Amis qui s'estoit sottement confié par leurs noires séductions à l'expérience d'un Remede. Deux heures apres l'avoir pris, le Medecin qui l'avoit ordonné, luy en vint demander l'effet, et comment il s'en estoit trouvé. J'ay fort sué, luy répondit le Malade. Cela est bon, dit le Medecin. Trois heures en suite, il luy vint demander comment il s'estoit porté depuis. J'ay senti, dit le Patient, un froid extréme, et j'ay fort tremblé. Cela est bon, suivit le Charlatan. Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit. Je me sens, dit le Malade, enfler par tout, comme d'hydropisie [74]. Tout cela est bien, répondit le Bourreau. Le lendemain j'allay voir ce pauvre Malade ; et luy ayant demandé en quel état il estoit : Helas ! mon cher Amy, dit-il, en rendant le dernier soûpir, à force d'estre bien, je sens que je me meurs. Ah ! m'écriay-je alors tout percé de douleur, qu'heureux sont les animaux que la simple Nature sçait guérir sans le secours de leur Consultations ! Que l'Estre brutal [75] seroit à souhaiter, quand on devient malade ! Mais aussy qu'il se- roit à craindre, s'il se trouvoit autant de Medecins parmy les Bestes, que de Bestes parmy les Medecins !
 
     PLUTON
 Messieurs ?
@@ -1260,7 +1254,7 @@ Puis que nous avons tant de Morts icy-bas, il faut qu'il y ait encore bien des M
     MINOS.
 Moy ? Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux.
 
-    RADAMANTE. 
+    RADAMANTE.
 Il n'y a qu'honneur à juger en sa faveur.
 
     PLUTON
@@ -1269,7 +1263,7 @@ J'en demeure d'accord ; mais aussi les obligations que nous avons à ces Messie
     MINOS.
 Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté.
 
-    RADAMANTE. 
+    RADAMANTE.
 Je suis de cet avis.
 
     PLUTON

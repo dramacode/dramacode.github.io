@@ -1,5 +1,5 @@
 ---
-identifier: antoine_dame  
+identifier: ouville_dame-suivante  
 creator: Antoine Le Métel, sieur d'Ourville  
 date: 1643  
 title: La Dame suivante. Comédie  
@@ -820,7 +820,7 @@ Que vous vous allez batre, Adraste à quel dessein
 Vous cachez-vous de moy ?  
 
     ADRASTE.
-L'estrange resverie !  
+        L'estrange resverie !  
 
     CLIMANTE.
 Servez-vous de mon bras, cher Amy, je vous prie,  
@@ -831,7 +831,7 @@ Et quoy méprisez-vous vos Amys à ce poinct ?
 Ah vous me contraignez⁎.  
 
     CLIMANTE.
-Mon devoir me l'ordonne,  
+        Mon devoir me l'ordonne,  
 Enfin de tout le jour je ne vous abandonne.  
 
     ADRASTE.
@@ -841,7 +841,7 @@ En pensant me servir, vous nous perdez [33] tous deux.
 Dites-m'en la raison.  
 
     ADRASTE.
-Climante je le veux.  
+        Climante je le veux.  
 Je ne m'en puis desdire, il faut pour me deffaire  
 De vos civilitez enfin vous satisfaire :  
 Oüy, vous avez raison, je ne le puis nier,  
@@ -876,7 +876,7 @@ Pour ce parfait amy me donne des alarmes.
 Qui t'ameine Carlin ?  
 
     CARLIN.
-Je vous viens advertir  
+        Je vous viens advertir  
 Que ce soir Leonor s'en va se divertir⁎ :  
 Mais quoy ? recevez-vous avec si peu de joye  
 Ce bien inesperé que le Ciel vous envoye ?  
@@ -886,7 +886,7 @@ Je vous le fais sçavoir par son commandement.
 Mais que veut cette femme ?  
 
     CARLIN.
-Elle vient brusquement.  
+        Elle vient brusquement.  
 
 
 ### SCENE III.
@@ -955,7 +955,7 @@ CLIMANTE, CARLIN.
 
 
     CLIMANTE, *seul.*
-O Dieux qu'elle a d'appas,  
+        O Dieux qu'elle a d'appas,  
 Ou le masque me trompe, ou cet objet⁎ aimable  
 Ne void rien dans Paris qui luy soit comparable ;  
 Ah Dieux ! qu'elle a de grace à plaindre son malheur [36] ?  
@@ -1003,7 +1003,7 @@ ISABELLE, DORISE dans la chambre de Climante.
 Sont-ils partis, Dorise [39].  
 
     DORISE.
-Ouy : Mais Dieux qu'est-cecy !  
+        Ouy : Mais Dieux qu'est-cecy !  
 Veillay-je⁎, ou si je dors ? quelle est cette advanture ?  
 A-t'on jamais parlé de pareille imposture ?  
 Vous estes fille encor, et d'un mary jaloux  
@@ -1059,7 +1059,7 @@ Je n'ay plus qu'une chose à desirer pour lui.
 Quelle est-elle, Madame ?  
 
     ISABELLE.
-Ah Dorise ! qu'il m'aime.  
+        Ah Dorise ! qu'il m'aime.  
 
     DORISE.
 Moderez les transports⁎ de cette ardeur extréme,  
@@ -1075,7 +1075,7 @@ Ses transports⁎ amoureux excitent ma cholere,
 Je ne [42] le puis souffrir ;  
 
     DORISE.
-Que pretendez-vous faire,  
+        Que pretendez-vous faire,  
 Attendant que Climante ici soit de retour ?  
 
     ISABELLE.
@@ -1092,7 +1092,7 @@ Avec la liberté, je n'ay point, ce me semble,
 Perdu le jugement.  
 
     DORISE.
-Je le croy, mais j'en tremble.  
+        Je le croy, mais j'en tremble.  
 
 
 ### SCENE VI.
@@ -1108,15 +1108,15 @@ Car il n'est pas ici, ne croyant pas, peut-estre,
 Que vous vinsiez si-tost.  
 
     LEONOR.
-Voyez un peu le traistre,  
+        Voyez un peu le traistre,  
 Me laisser à la ruë à telle heure qu'il est ?  
 Rentrons,  
 
     CARLIN.
-Tout est fermé.  
+    Tout est fermé.  
 
     CLIMANTE.
-Madame, s'il vous plaist  
+        Madame, s'il vous plaist  
 Venir en mon logis attendant sa venuë.  
 
     LEONOR.
@@ -1127,14 +1127,14 @@ A telle heure qu'il est ! allons je le veux bien.
 C'est à vingt pas d'ici.  
 
     CARLIN *bas*.
-Dieux ! il ne songe à rien ;  
+        Dieux ! il ne songe à rien ;  
 Il ne se souvient plus de la Dame enfermée,  
 Leonor seroit bien de cholere animée  
 Venant à la trouver : Dieux tout seroit perdu ;  
 Il l'en faut advertir ; Monsieur.  
 
     CLIMANTE.
-Que me veux-tu ?  
+        Que me veux-tu ?  
 
     CARLIN *bas à Climante.*
 Vous ne songez à rien : craignez-vous point le blâme  
@@ -1142,7 +1142,7 @@ Qu'elle vous donneroit, en voyant cette femme
 Que vous tenez chez vous ?  
 
     CLIMANTE *bas à Carlin.*
-J'ay les sens tous confus,  
+        J'ay les sens tous confus,  
 Je proteste⁎, Carlin, que je n'y songeois plus.  
 Quel remede à present ? comment pourray-je faire ?  
 
@@ -1151,28 +1151,28 @@ Vous ne pourriez jamais appaiser sa cholere,
 Gardez-la d'y venir.  
 
     CLIMANTE *bas à Carlin.*
-C'est ce que je pretends.  
+        C'est ce que je pretends.  
 
     LEONOR.
 Ce discours entre vous durera-t'il long-temps ?  
 Dépeschons-nous, Climante, allons.  
 
     CLIMANTE.
-Non, non, Madame,  
+        Non, non, Madame,  
 On en pourroit causer, et vous donner du blâme,  
 Le cocher va venir, attendons s'il vous plaist,  
 Il seroit indecent à telle heure qu'il est  
 Que l'on vous vist chez moy.  
 
     LEONOR *bas*.
-Grands Dieux, je desespere,  
+        Grands Dieux, je desespere,  
 Sans doute ce discours cache quelque mistere.  
 
     CARLIN.
 Le cocher est venu.  
 
     LEONOR *bas*.
-Je creve de courroux.  
+        Je creve de courroux.  
 
     CLIMANTE.
 Il vaut donc mieux, Madame, aller tout droit chez vous.  
@@ -1196,7 +1196,7 @@ Tu ments, et tu sçais mal couvrir ta trahison,
 Dissimulons pourtant.  
 Haut.
 
-Oüy vous avez raison :  
+        Oüy vous avez raison :  
 Allez à vostre Adraste offrir vostre service,  
 Si je vous arrestois je ferois injustice,  
 Vostre logis est prez, je m'en iray sans vous.  
@@ -1205,11 +1205,11 @@ Vostre logis est prez, je m'en iray sans vous.
 Madame s'il vous plaist.  
 
     LEONOR *bas*.
-Je brusle de courroux.  
+        Je brusle de courroux.  
 Non demeurez ici :  
 Bas.
 
-Que ce discours me picque⁎.  
+        Que ce discours me picque⁎.  
 
     CLIMANTE.
 Vous me le commandez, j'obey sans replique.  
@@ -1243,7 +1243,7 @@ Parlez luy franchement, ouvrez luy vostre cœur.
 Ce seroit encor pis.  
 
     DORISE.
-Que voulez-vous donc faire ?  
+        Que voulez-vous donc faire ?  
 
     ISABELLE.
 Il faut bien me resoudre à souffrir, et me taire,  
@@ -1256,14 +1256,14 @@ Sortons, fay r'aprocher mon carosse, Dorise.
 Demeurerez-vous seule ?  
 
     ISABELLE.
-Oüy, que redoutes-tu ?  
+        Oüy, que redoutes-tu ?  
 
     DORISE.
 Je croy bien que Climante est la mesme Vertu ;  
 Mais pourtant.  
 
     ISABELLE.
-A quoy bon d'avoir ces meffiances,  
+        A quoy bon d'avoir ces meffiances,  
 Va va, je ne suis pas si seule que tu penses,  
 J'ay bonne compagnie estant seule avec moy.  
 Dorise en sortant rencontre Climante.
@@ -1278,13 +1278,13 @@ CLIMANTE, DORISE, ISABELLE.
 Que fait vostre Maistresse ?  
 
     DORISE.
-Elle n'a plus je croy  
+        Elle n'a plus je croy  
 Tant de troubles dans l'ame, elle est bien consolée  
 Depuis qu'elle a receu la faveur signalée⁎  
 Qu'il vous a pleu [46].  
 
     CLIMANTE.
-Sçachez si je la pourrois voir.  
+        Sçachez si je la pourrois voir.  
 
     DORISE.
 Je croy qu'oüy [47], Monsieur, je m'en vay le sçavoir.  
@@ -1297,12 +1297,12 @@ Tai-toy, je sçais assez ce que tu me veux dire,
 Je me masque, et je sors.  
 Elle sort masquée.
 
-**Je commençois Monsieur,  
+        **Je commençois Monsieur,  
 D'estre en peine⁎ de vous, et je mourois de peur  
 Que mon jaloux Mary [49].  
 
     CLIMANTE.
-Je n'ay rien veu, Madame,  
+        Je n'ay rien veu, Madame,  
 Mais mon retardement⁎ merite un peu de blâme,  
 Le devoir m'a forcé de vous quitter ainsi.  
 
@@ -1321,7 +1321,7 @@ Dorise sort.
 
 
     CLIMANTE.
-Il n'est pas si tard comme vous dites.  
+        Il n'est pas si tard comme vous dites.  
 
     ISABELLE.
 Des lieux d'où vous venez de faire vos visites,  
@@ -1334,11 +1334,11 @@ Certes pour cette nuict vous serez mon Hostesse,
 Disposez du logis.  
 
     ISABELLE.
-Il est bien plus seant  
+        Il est bien plus seant  
 D'aller où l'on m'attend.  
 
     CLIMANTE.
-Obligez⁎-moy devant⁎  
+        Obligez⁎-moy devant⁎  
 De me permettre au moins d'avoir cet avantage  
 De contempler les traits de ce parfait visage.  
 
@@ -1355,7 +1355,7 @@ Qu'un autre homme que vous me vist dedans ces lieux.
 C'est Adraste, Monsieur.  
 
     ISABELLE.
-Adraste, justes Dieux !  
+        Adraste, justes Dieux !  
 
     CLIMANTE.
 Quel estrange accident⁎ vous cause cette veuë.  
@@ -1387,7 +1387,7 @@ Climante sort du cabinet.
 
 
     CLIMANTE.
-Adraste, vous voici ?  
+        Adraste, vous voici ?  
 J'en suis ravi, comment s'est terminé l'affaire ?  
 
     ADRASTE.
@@ -1395,10 +1395,10 @@ Nous avons eu tous deux la Fortune prospere :
 Entrons au cabinet.  
 
     CLIMANTE *le repoussant.*
-**N'entrez pas là.  
+    **N'entrez pas là.  
 
     ADRASTE.
-Pourquoy ?  
+        Pourquoy ?  
 
     CLIMANTE.
 Ainsi que vous n'avez rien de caché pour moy,  
@@ -1408,13 +1408,13 @@ Est là, qui ne veut point que vous sçachiez son nom,
 Ny que vous la voyez [51].  
 
     ADRASTE.
-Mais pour quelle raison ?  
+        Mais pour quelle raison ?  
 
     CLIMANTE.
 Je vous diray que [52] c'est [53].  
 
     ADRASTE.
-Dites tost je vous prie  
+        Dites tost je vous prie  
 
     CLIMANTE *bas.*
 Il faut en ce besoin user de menterie⁎.  
@@ -1426,11 +1426,11 @@ Qui d'autre que de moy ne veut point estre veuë :
 Elle est preste à sortir.  
 
     ADRASTE. 
-Je vay donc dans la ruë  
+        Je vay donc dans la ruë  
 Attendant qu'elle sorte.  
 
     CLIMANTE.
-Allez-y faire un tour.  
+        Allez-y faire un tour.  
 
     ADRASTE *bas.*
 Courage, tout va bien, je te rends grace, Amour,  
@@ -1452,17 +1452,17 @@ Comme Adraste veut sortir de la chambre, il rencontre à la porte Leonor qui vie
 C'est Adraste qui sort de chez luy.  
 
     ADRASTE.
-Qui va là ?  
+        Qui va là ?  
 
     LEONOR.
 C'est moy, c'est Leonor.  
 
     ADRASTE.
-Que veut dire cela ?  
+        Que veut dire cela ?  
 Leonor, est-ce vous ?  
 
     LEONOR.
-Vous m'avez mise en peine,  
+        Vous m'avez mise en peine,  
 C'est vostre seul sujet⁎, Adraste, qui m'emmeine⁎,  
 Je me réjoüy fort de vous voir en santé⁎.  
 
@@ -1475,7 +1475,7 @@ Et dans un cabinet encor, avec Climante ?
 Adraste, révez-vous ?  
 
     ADRASTE.
-Luy-mesme me l'a dit.  
+        Luy-mesme me l'a dit.  
 
     LEONOR.
 Ah ! je m'en doutois bien, Adraste, on me trahit.  
@@ -1493,19 +1493,19 @@ Adraste sort.
 Que fait ton Maistre ?  
 
     CARLIN.
-Il est, que je croy, retiré⁎.  
+        Il est, que je croy, retiré⁎.  
 
     LEONOR.
 Ouvre, je le veux voir.  
 
     CARLIN *bas.*
-La chose est sans remede.  
+        La chose est sans remede.  
 Climante sort du cabinet.
 
 Tout est perdu, Monsieur :  
 
     CLIMANTE *bas.*
-**Dieux soyez à mon aide :  
+        **Dieux soyez à mon aide :  
 Haut.
 
 Quel excez de faveur à ces heures ici ?  
@@ -1518,7 +1518,7 @@ Comme vous m'avez dit, je veux sçavoir comment
 S'est passé son affaire.  
 
     CLIMANTE.
-A son contentement.  
+        A son contentement.  
 
     LEONOR.
 Sans mentir, cette chambre est curieuse et belle,  
@@ -1526,7 +1526,7 @@ Cette tapisserie est de façon nouvelle ;
 Où sont vos beaux Tableaux ?  
 
     CLIMANTE.
-Dedans mon cabinet [55].  
+        Dedans mon cabinet [55].  
 
     LEONOR.
 Entrons, je les veux voir.  
@@ -1534,16 +1534,16 @@ Elle va pour entrer, et Climante l'arreste.
 
 
     CLIMANTE.
-Madame, il n'est pas net :  
+        Madame, il n'est pas net :  
 Demain asseurément je prendray plus de peine  
 Pour le mieux ajuster⁎.  
 
     LEONOR.
-Cette raison est vaine,  
+        Cette raison est vaine,  
 Qu'importe [56] :  
 
     CLIMANTE *bas*.
-Ah je meurs ! Non vous n'entrerez point.  
+        Ah je meurs ! Non vous n'entrerez point.  
 
     LEONOR.
 Climante, je vous trouve interdit de tout point ;  
@@ -1554,25 +1554,25 @@ Je verray ce que c'est, ou je perdray la vie.
 Pour cause, n'entrez point.  
 
     LEONOR.
-Je veux sçavoir que [57] c'est :  
+        Je veux sçavoir que [57] c'est :  
 Bas.
 
 Sans doute on me trahit.  
 
     DORISE *entre qui la prend pour sa Maistresse.*
-**Le carosse est tout prest,  
+        **Le carosse est tout prest,  
 Madame on vous attend.  
 
     LEONOR.
-Ce message s'adresse  
+        Ce message s'adresse  
 A d'autre [58].  
 
     DORISE *surprise.*
-**Je pensois parler à ma Maistresse ;  
+        **Je pensois parler à ma Maistresse ;  
 Qu'est-elle devenuë ?  
 
     CLIMANTE *bas.*
-**Ah que je suis confus !  
+        **Ah que je suis confus !  
 
     LEONOR.
 Ce Cavalier pourra respondre là dessus.  
@@ -1582,7 +1582,7 @@ Dy perfide, à present que tu n'es pas un traistre [59] ?
 N'es-tu pas convaincu⁎ ?  
 
     CLIMANTE.
-Je vous feray paroistre  
+        Je vous feray paroistre  
 Que je suis innocent, Madame, croyez-moy.  
 
     LEONOR.
@@ -1597,22 +1597,22 @@ Pour pouvoir librement parler à sa Maistresse :
 Ils sont seuls là dedans.  
 
     LEONOR *bas.*
-**Il ment avec adresse ;  
+        **Il ment avec adresse ;  
 Haut.
 
 S'il est vray j'ay grand tort.  
 
     CLIMANTE.
-Madame, asseurément  
+        Madame, asseurément  
 Il n'est rien de plus vray.  
 
     ISABELLE *sort du cabinet masquée, et dit.*
-**Je proteste⁎ qu'il ment,  
+        **Je proteste⁎ qu'il ment,  
 Climante, à quel dessein une telle imposture ?  
 Et m'y faire servir de pretexte ?  
 
     LEONOR.
-Ah ! parjure,  
+        Ah ! parjure,  
 Auras-tu bien le front⁎ encor de repartir⁎ !  
 
     CLIMANTE.
@@ -1623,7 +1623,7 @@ Ne nous déguisez rien, au nom des Dieux, Madame,
 Dites pour quel sujet⁎.  
 
     LEONOR.
-Ah le traistre ! ah l'infame !  
+        Ah le traistre ! ah l'infame !  
 A-t'il encor le front⁎ de vouloir contester ?  
 
     ISABELLE.
@@ -1631,11 +1631,11 @@ Suffit-il point, Climante, ici de m'affronter,
 Sans me faire mentir ?  
 
     CLIMANTE.
-Dieux quelle effronterie.  
+        Dieux quelle effronterie.  
 Pouvez-vous soustenir ?  
 
     ISABELLE.
-Climante, je vous prie  
+        Climante, je vous prie  
 De ne m'obliger point maintenant à parler,  
 Car quand on me dément⁎ je ne puis rien celer.  
 
@@ -1643,7 +1643,7 @@ Car quand on me dément⁎ je ne puis rien celer.
 Parlez, je ne crains rien.  
 
     LEONOR.
-Voyez un peu l'audace.  
+        Voyez un peu l'audace.  
 
     ISABELLE *à Leonor.*
 Je m'en vay donc parler, escoutez-moy de grace,  
@@ -1678,15 +1678,15 @@ Elle s'en veut aller, et Climante la retient.
 Allons mamie, allons ;  
 
     DORISE *bas à Isabelle.*
-J'ay la clef de la porte,  
+        J'ay la clef de la porte,  
 La rendray-je ?  
 
     ISABELLE *bas à Dorise.*
-**Non pas, ainsi que toy j'emporte  
+        **Non pas, ainsi que toy j'emporte  
 Celle du cabinet.  
 
     LEONOR *à Climante.*
-**Va, tu n'es qu'un trompeur.  
+        **Va, tu n'es qu'un trompeur.  
 
     ISABELLE *bas à Dorise.*
 Ce sont gages des lieux où je laisse mon cœur.  
@@ -1704,11 +1704,11 @@ Leonor et Lucille sortent.
 
 
     CLIMANTE.
-Carlin, courons apres,  
+        Carlin, courons apres,  
 Car ma vie en dépend.  
 
     CARLIN.
-Voyez quelle malice,  
+        Voyez quelle malice,  
 Si je m'en deffiois c'estoit avec justice.  
 
     CLIMANTE.
@@ -1839,14 +1839,14 @@ Fay ce que je t'ordonne, et ne replique point.
 Tout beau⁎, j'entends quelqu'un.  
 
     LUCILLE.
-Qui frappe à cette porte ?  
+        Qui frappe à cette porte ?  
 
     PAMPHILE.
 C'est moy qui voudrois bien que vous fissiez en sorte  
 Que je visse Madame.  
 
     LUCILLE.
-Attendez un moment.  
+        Attendez un moment.  
 
     PAMPHILE.
 Je suis ici venu par son commandement.  
@@ -1859,11 +1859,11 @@ Madame va descendre ; ah Dieux quel beau visage !
 Vous nous obligez⁎ trop.  
 
     LUCILLE.
-Mon bon-homme, est-ce ici  
+        Mon bon-homme, est-ce ici  
 Cette fille qui vient pour servir ?  
 
     PAMPHILE.
-La voici :  
+        La voici :  
 C'est ma fille, Madame, et fort vostre servante [72]  
 
     LUCILLE.
@@ -1888,7 +1888,7 @@ Pourquoy vous desirez entrer en cet habit
 Pour servir Leonor ?  
 
     ISABELLE.
-Je ne t'ay pas tout dit.  
+        Je ne t'ay pas tout dit.  
 Sçache donc que j'adore un homme incomparable  
 Qui n'a rien que de grand, qui n'a rien que d'aimable,  
 Que Leonor aussi cherit extremement :  
@@ -1933,7 +1933,7 @@ Toubeau⁎ [80], j'entens qu'on ouvre, observe bien Pamphile
 L'ordre que je te donne.  
 
     PAMPHILE.
-Il n'est pas difficile,  
+        Il n'est pas difficile,  
 Vous estes sans mentir estrange en vos desseins.  
 
 
@@ -1945,7 +1945,7 @@ LEONOR, LUCILLE, PAMPHILE, ISABELLE, dans la ruë à la porte de Leonor.
 Si belle, me dis-tu ?  
 
     LUCILLE.
-Plus que je ne la peins,  
+        Plus que je ne la peins,  
 Madame la voilà, suis-je pas veritable ?  
 
     LEONOR.
@@ -1960,7 +1960,7 @@ Dont possible [81] quelqu'un en vain l'aura flatée.
 Comment l'appelle-t'on ?  
 
     PAMPHILE.
-Son nom est Dorotée :  
+        Son nom est Dorotée :  
 Ma fille, approchez-vous, parlez, ne craignez rien,  
 Quelle peur avez-vous ? Vous l'excuserez bien,  
 Madame, devant vous elle est toute honteuse.  
@@ -1974,7 +1974,7 @@ Elle fait une grande reverence.
 N'as-tu jamais servi ?  
 
     ISABELLE.
-Personne que mon pere,  
+        Personne que mon pere,  
 Madame, mais voyant tout rempli de misere,  
 A cause de la guerre, et des malheurs du temps,  
 Mon pere desja vieil, pauvre, et chargé d'enfans,  
@@ -1986,7 +1986,7 @@ Que mes maux sont finis, si j'ay cet avantage
 Que de vous pouvoir plaire.  
 
     LEONOR.
-Elle paroist bien sage.  
+        Elle paroist bien sage.  
 
     PAMPHILE.
 Madame, pardonnez [83] si j'ose la loüer,  
@@ -2001,7 +2001,7 @@ Plus que vous ne voudrez j'agiray de [85] courage
 Et d'adresse.  
 
     LEONOR.
-Dy moy, fais-tu point quelque ouvrage⁎ ?  
+        Dy moy, fais-tu point quelque ouvrage⁎ ?  
 
     ISABELLE.
 Oüy, Madame, j'en fais, et de toutes façons :  
@@ -2026,7 +2026,7 @@ Aux yeux d'un Cavalier qui se dit mon Amant ?
 (Pour te faire paroistre un monstre)  
 Haut.
 
-**Asseurément,  
+        **Asseurément,  
 Quoy que j'y sache peu, j'y tâcheray, Madame :  
 Toutesfois vostre Amant m'en donneroit du blâme,  
 Pensez-vous que je puisse adjouster au parfait,  
@@ -2101,7 +2101,7 @@ Le sort en est jetté, je ne m'en puis dédire ;
 Allons jusques au bout.  
 Climante paroist.
 
-**Helas ! je voy venir  
+        **Helas ! je voy venir  
 Climante ; justes Dieux que doy-je devenir ?  
 Il faut dissimuler.  
 
@@ -2113,14 +2113,14 @@ dans la ruë, à la mesme porte de Leonor.
 
 
     CLIMANTE *à Carlin.*
-Je ne tarderay guere,  
+        Je ne tarderay guere,  
 Atten moy.  
 
     CARLIN.
-Bien, Monsieur ;  
+    Bien, Monsieur ;  
 
     ISABELLE *retenant Climante qui veut entrer.*
-Que pretendez-vous faire ?  
+        Que pretendez-vous faire ?  
 Bas.
 
 (J'ay les sens si confus que j'ay peine à parler)  
@@ -2137,7 +2137,7 @@ Je doy sçavoir qui vient visiter ma Maistresse ;
 Je sers ici, Monsieur.  
 
     CLIMANTE.
-J'ay tort, je le confesse,  
+        J'ay tort, je le confesse,  
 O Dieux qu'elle a d'appas ! quel beau teint ! quels beaux yeux !  
 
 
@@ -2154,7 +2154,7 @@ Je suis à vostre voix aussi-tost descenduë.
 Madame, pardonnez [90].  
 
     LEONOR.
-Tu fais ce que tu dois,  
+        Tu fais ce que tu dois,  
 Ne le cognoissant point : mais pour une autrefois⁎  
 Pour ne t'y point tromper, appren à le cognoistre ;  
 De ce logis ici, sçache qu'il est le Maistre,  
@@ -2164,7 +2164,7 @@ Et que ceans il peut encore plus que moy.
 Madame, c'est assez.  
 
     LEONOR.
-Va , ma fille, je croy  
+        Va , ma fille, je croy  
 Que tu ne manques point du tout d'intelligence,  
 Et que tu ne sçaurois pecher par ignorance [91].  
 
@@ -2172,11 +2172,11 @@ Et que tu ne sçaurois pecher par ignorance [91].
 Depuis quand l'avez-vous ?  
 
     LEONOR.
-D'aujourd'huy seulement,  
+        D'aujourd'huy seulement,  
 N'est-elle pas jolie ?  
 
     CLIMANTE.
-Oüy bien asseurément,  
+        Oüy bien asseurément,  
 On auroit peine à voir un plus parfait visage.  
 
     ISABELLE.
@@ -2184,21 +2184,21 @@ Ce discours est, Monsieur, trop à mon avantage,
 Vous me faites rougir.  
 
     CLIMANTE.
-Je n'en dy pas assez.  
+        Je n'en dy pas assez.  
 Mais Madame, il est tard, plus que vous ne pensez,  
 Vous plaist-il pas venir [92] ?  
 
     LEONOR.
-Ne soyez point en peine⁎,  
+        Ne soyez point en peine⁎,  
 Nous avons trop de temps : que bien-tost on m'emmeine⁎  
 Mon carosse, r'entrons, il n'est pas que je croy,  
 Si tard que vous pensez.  
 
     CLIMANTE.
-J'en suis content.  
+    J'en suis content.  
 
     LEONOR *à Isabelle.*
-Suy moy.  
+        Suy moy.  
 
     ISABELLE.
 Je m'en vay seulement dire un mot à mon pere.  
@@ -2220,13 +2220,13 @@ Il me faut l'accoster. La belle, Dieu te gard.
 N'entres-tu pas aussi ?  
 
     CARLIN.
-Je me tiens à l'écart,  
+        Je me tiens à l'écart,  
 Il faut attendre ici, mon Maistre me l'ordonne,  
 On ne desire point estre oüy de personne  
 Alors qu'on fait l'Amour⁎.  
 
     ISABELLE.
-Ils sont donc Amoureux ?  
+        Ils sont donc Amoureux ?  
 
     CARLIN.
 Ils sont d'accord⁎, et vont se marier tous deux.  
@@ -2238,13 +2238,13 @@ Mais ce que tu me dis est-il bien veritable ?
 Il n'est rien de plus vray.  
 
     ISABELLE *bas.*
-Que je suis miserable !  
+        Que je suis miserable !  
 Mais ce ne sera pas durant que je vivray :  
 Climante, asseurément je t'en empécheray.  
 Comment t'appelles-tu ?  
 
     CARLIN.
-Moy, comment je m'appelle ?  
+        Moy, comment je m'appelle ?  
 Je ne m'appelle point : mais si tu veux, ma belle,  
 Sçavoir comme on me nomme, on me nomme Carlin.  
 
@@ -2255,7 +2255,7 @@ Pour divertir l'effet de ma melancolie,
 En quel endroit ils vont ?  
 
     CARLIN.
-Je te le diray bien,  
+        Je te le diray bien,  
 Ce n'est point un secret, non, non, je ne crains rien.  
 Leonor va disner au logis de mon Maistre,  
 Qui luy fait dans sa chambre orner une fenestre,  
@@ -2270,19 +2270,19 @@ Je suis assez bien fait : mais dy moy que t'en semble ?
 Me refuseras-tu ?  
 
     ISABELLE *bas.*
-La Fortune me rit ;  
+        La Fortune me rit ;  
 Dieux ! quelle invention me naist dedans l'esprit.  
 
     CARLIN.
 Respond donc ?  
 
     ISABELLE.
-Permets-moy que je parle à mon pere,  
+        Permets-moy que je parle à mon pere,  
 Je ne puis differer : car c'est pour une affaire  
 Qui m'importe beaucoup.  
 
     CARLIN.
-Tout ce que tu voudras.  
+        Tout ce que tu voudras.  
 
     ISABELLE *bas à Pamphile.*
 Pamphile, parle à moy [94], va-t'en droit de ce pas :  
@@ -2296,7 +2296,7 @@ Ces deux clefs, sont les clefs du logis de Climante
 Que nous prismes hier ;  
 Elle luy parle à l'oreille.
 
-**cours, et te diligente⁎,  
+        **cours, et te diligente⁎,  
 Car l'affaire me touche, et crois asseurément  
 Que ma vie ou ma mort dépendent d'un moment.  
 
@@ -2312,7 +2312,7 @@ Et Leonor verra bien pis qu'hier au soir.
 Mais, Madame, s'il faut.  
 
     ISABELLE.
-Ah ! tu veux qu'on s'explique !  
+        Ah ! tu veux qu'on s'explique !  
 Je veux estre obeye ; or sus⁎, va sans replique.  
 
     PAMPHILE.
@@ -2321,14 +2321,14 @@ Pamphile sort.
 
 
     CARLIN.
-As-tu fait ?  
+    As-tu fait ?  
 
     ISABELLE.
-Oüy, dy moy  
+        Oüy, dy moy  
 Tout ce que tu voudras.  
 
     CARLIN.
-Je veux sçavoir de toy  
+        Je veux sçavoir de toy  
 T'aymant, si je pourrois t'avoir en mariage ?  
 
     ISABELLE.
@@ -2336,13 +2336,13 @@ Oüy, si tu m'aimois bien : mais tu n'es qu'un volage
 Qui t'offres en cent lieux.  
 
     CARLIN.
-Moy ?  
+    Moy ?  
 
     ISABELLE.
-Toy ;  
+    Toy ;  
 
     CARLIN.
-Qui te l'a dit ?  
+        Qui te l'a dit ?  
 
     ISABELLE.
 Mais voyez l'inconstant comme il est interdit.  
@@ -2350,12 +2350,12 @@ N'es-tu pas amoureux d'une jeune servante
 Qu'on appelle Dorise ?  
 
     CARLIN *bas.*
-Ah ! cela m'épouvente !  
+        Ah ! cela m'épouvente !  
 Sans doute elle est sorciere, elle ne pourroit pas  
 Le sçavoir autrement.  
 Haut.
 
-Comment donc ? tu fais cas  
+        Comment donc ? tu fais cas  
 De si peu de sujet, d'un si chetif visage ?  
 Croy que si je m'en sers, ce n'est pour autre usage  
 Que pour blanchir mon linge ; est-elle égale à toy ?  
@@ -2370,7 +2370,7 @@ Le voudra-t'elle bien ? dy moy ce qui t'en semble,
 Je ne l'ay jamais veu.  
 
     CARLIN.
-Mot [95], ils sortent ensemble.  
+        Mot [95], ils sortent ensemble.  
 
 
 ### SCENE VIII.
@@ -2381,11 +2381,11 @@ CLIMANTE, LEONOR, LUCILLE, CARLIN, ISABELLE dans la ruë à la mesme porte.
 Qu'on fasse donc venir le carosse [96] ?  
 
     LUCILLE.
-Il est prest,  
+        Il est prest,  
 On l'emmeine⁎, Madame.  
 
     LEONOR.
-Allons puis qu'il vous plaist.  
+        Allons puis qu'il vous plaist.  
 
     ISABELLE *bas.*
 Ils sont prests à partir, Dieux que je suis surprise,  
@@ -2406,7 +2406,7 @@ Souffrez que je vous coiffe un peu plus proprement.
 Quoy tu sçais bien coiffer ?  
 
     ISABELLE.
-Madame, aucunement⁎ :  
+        Madame, aucunement⁎ :  
 Quoy que j'aye [97] vêcu long-temps à la Campagne,  
 Une tante que j'ay cousine de Champagne,  
 Là dessus autrefois m'a fait quelques leçons,  
@@ -2428,7 +2428,7 @@ Auray-je bien le temps de faire deux visites ?
 Je n'ay qu'un mot à dire.  
 
     LEONOR.
-Allez où vous voudrez.  
+        Allez où vous voudrez.  
 
     CLIMANTE.
 Le disné sera prest si tost que vous viendrez.  
@@ -2471,7 +2471,7 @@ Je ne le pense point, car elle n'en a pas
 Ny le port, ny la taille.  
 
     ARISTE.
-Où s'adressent ses pas ?  
+        Où s'adressent ses pas ?  
 Elle entre chez Climante, et ouvre la porte avec la clef.
 
 Elle est bien familiere entrant de cette sorte :  
@@ -2479,7 +2479,7 @@ Elle entre avec la clef, sans frapper à la porte,
 Que veut dire cela ?  
 
     ADRASTE.
-Climante a sans mentir  
+        Climante a sans mentir  
 Pour tout le jour chez luy dequoy se divertir  
 Allons, ne troublons point cette bonne fortune,  
 Ma visite aujourd'huy luy seroit importune :  
@@ -2498,7 +2498,7 @@ Je t'ouvre franchement les secrets de mon cœur,
 Car tu parois discrette.  
 
     ISABELLE.
-Ah ! ce m'est trop d'honneur !  
+        Ah ! ce m'est trop d'honneur !  
 Mais vous me commenciez maintenant⁎ [105] une histoire  
 Qui m'est, à dire vray, bien difficile à croire ;  
 Vous vistes cette femme, et vous prisez⁎ sa foy ?  
@@ -2527,7 +2527,7 @@ Sans doute tu dis vray, mais je l'ayme, tay-toy,
 Le voici, je l'entens.  
 
     ISABELLE *bas.*
-Il est vray, je le voy,  
+        Il est vray, je le voy,  
 L'agreable sujet du trouble de mon ame.  
 
 
@@ -2539,7 +2539,7 @@ CLIMANTE, LEONOR, ISABELLE, CARLIN, LUCILLE.
 Vous avez bien tardé ?  
 
     CLIMANTE.
-Pardonnez-moy, Madame,  
+        Pardonnez-moy, Madame,  
 J'use de vos bontez un peu trop librement,  
 Vous excuserez bien ce long retardement⁎,  
 Un importun Amy rencontré dans la ruë,  
@@ -2565,7 +2565,7 @@ Pour vous faire plaisir, et m'obliger⁎ aussi.
 Mais entrons, il est tard.  
 Ils entrent tous dans la chambre de Climante, qui paroistra bien ornée.
 
-**Que cette chambre est belle,  
+        **Que cette chambre est belle,  
 Elle paroist⁎ au jour bien plus qu'à la chandelle,  
 
     CLIMANTE.
@@ -2591,7 +2591,7 @@ Car j'apprens que le Roy doit passer dans une heure.
 Dînons quand vous voudrez.  
 
     CLIMANTE.
-Servez-nous sans demeure⁎.  
+        Servez-nous sans demeure⁎.  
 
     LEONOR.
 En attendant qu'on serve, allons voir vos tableaux  
@@ -2600,7 +2600,7 @@ Y tenez-vous encor quelque vive peinture ?
 Non, car vous m'attendiez.  
 
     CLIMANTE.
-Ah ! c'est me faire injure !  
+        Ah ! c'est me faire injure !  
 Vous aviez tant promis de ne m'en parler plus ?  
 Quoy donc ! tous mes sermens ont esté superflus !  
 Si vous sçaviez combien ce discours là m'offence [109] ?  
@@ -2612,11 +2612,11 @@ Entrons, je voulois rire, on sçait vostre innocence.
 Ouvre.  
 
     CARLIN.
-Sçavez-vous pas que cette Dame là  
+        Sçavez-vous pas que cette Dame là  
 Emporta hier [110] la clef ?  
 
     CLIMANTE.
-Tu dis vray, mais voilà  
+        Tu dis vray, mais voilà  
 L'autre que j'ay sur sur moy.  
 Comme Climante veut ouvrir le cabinet, Dorise ouvre elle-mesme, sort avec sa coiffe et son masque.
 
@@ -2627,7 +2627,7 @@ DORISE, CARLIN, CLIMANTE, LEONOR, LUCILLE.
 
 
     DORISE.
-Je ne sçaurois comprendre  
+        Je ne sçaurois comprendre  
 Pour quel sujet⁎, Climante, on me fait tant attendre ?  
 
     CARLIN *troublé.*
@@ -2643,7 +2643,7 @@ Dieux ! parla-t'on jamais de telle effronterie [111] ?
 Ah ! je m'en doutois bien.  
 
     CLIMANTE *à Dorise.*
-Madame, je vous prie,  
+        Madame, je vous prie,  
 Dites-moy le sujet⁎ qui vous emmeine⁎ ici ?  
 Que faites-vous ceans ? et me dites aussi  
 Qui vous a peu chez moy tenir la porte ouverte ?  
@@ -2652,7 +2652,7 @@ Qui vous a peu chez moy tenir la porte ouverte ?
 Comme il fait l'estonné [112] ?  
 
     CLIMANTE *bas.*
-Tout conspire à ma perte.  
+        Tout conspire à ma perte.  
 
     LEONOR.
 Il m'attend, il me traitte⁎, et ne peut un seul jour  
@@ -2666,7 +2666,7 @@ Climante ? et feignez-vous de ne me pas cognoistre ?
 Qui moy ? je vous cognoy ?  
 
     ISABELLE *à Leonor.*
-Que voy-je ! justes Dieux !  
+        Que voy-je ! justes Dieux !  
 Madame, souffrez-vous cette injure à vos yeux ?  
 
     LEONOR.
@@ -2677,7 +2677,7 @@ C'est de moy seulement qu'enfin je me doy plaindre.
 L'impudence est notable.  
 
     CLIMANTE *à Dorise.*
-Ah ! qu'est-ce que je vois ?  
+        Ah ! qu'est-ce que je vois ?  
 Ombre, Fantôme, Esprit, femme, ou qui que tu sois,  
 Par quel moyen as-tu cette porte charmée⁎ ?  
 Et que faisois-tu là toute seule enfermée ?  
@@ -2694,11 +2694,11 @@ Je le voy de mes yeux, et j'ay peine à le croire.
 J'atteste tous les Dieux.  
 
     LEONOR *voulant sortir.*
-Si jamais je te voy,  
+        Si jamais je te voy,  
 Perfide, desloyal.  
 
     CLIMANTE *la retenant.*
-Madame, escoutez-moy.  
+        Madame, escoutez-moy.  
 
     LEONOR.
 Va te cacher, infame, oses-tu bien paroistre ?  
@@ -2725,11 +2725,11 @@ Vous n'échaperez pas, la belle, c'est en vain,
 Non, je vous veux cognoistre.  
 
     DORISE *bas.*
-Ah ! s'il a ce dessein  
+        Ah ! s'il a ce dessein  
 Il ruinera [114] tout.  
 
     LEONOR *à Isabelle dans la ruë.*
-Vien, suy-moy, Dorotée.  
+        Vien, suy-moy, Dorotée.  
 
     CLIMANTE *la retenant.*
 Madame, sans sujet⁎ vous estes irritée.  
@@ -2738,37 +2738,37 @@ Madame, sans sujet⁎ vous estes irritée.
 Qu'importe, monstrons-nous.  
 
     CLIMANTE* à Leonor.*
-Ecoutez mes raisons  
+        Ecoutez mes raisons  
 
     CARLIN *à Dorise.*
 Non, non, je vous veux voir.  
 
     LEONOR *à Climante.*
-Va, va, tes trahisons  
+        Va, va, tes trahisons  
 Ne paroissent que trop.  
 
     DORISE *à Carlin levant son masque.*
-C'est moy, c'est ta Dorise.  
+        C'est moy, c'est ta Dorise.  
 Qui te vien voir, Carlin.  
 
     CARLIN *estonné.*
-Ah Dieux ! quelle surprise.  
+        Ah Dieux ! quelle surprise.  
 
     CLIMANTE *à Leonor la retenant.*
 Madame, au nom des Dieux.  
 
     LEONOR.
-Tu n'es rien qu'un ingrat,  
+        Tu n'es rien qu'un ingrat,  
 Va ne m'oblige pas à faire plus d'éclat⁎.  
 Laisse-moy je te prie.  
 
     CARLIN *à Dorise en la ruë.*
-**Encor, de quelle sorte  
+        **Encor, de quelle sorte  
 Je te prie, as-tu peu sans clef ouvrir la porte ?  
 D'où te vient cet habit ?  
 
     DORISE *à Carlin.*
-**J'ay haste⁎, en autre lieu  
+        **J'ay haste⁎, en autre lieu  
 Je te conteray tout ; Ne me suy pas. Adieu.  
 Dorise sort.
 
@@ -2777,11 +2777,11 @@ Dorise sort.
 Ecoutez-moy.  
 
     CARLIN *bas en r'entrant dans la chambre.*
-**S'il faut que mon Maistre le sçache ;  
+        **S'il faut que mon Maistre le sçache ;  
 Ah Dieu ! c'est fait de moy !  
 
     LEONOR *à Climante.*
-**Serois-je pas bien lâche  
+        **Serois-je pas bien lâche  
 D'arrester⁎ un moment apres ta trahison ?  
 
     CLIMANTE.
@@ -2815,7 +2815,7 @@ O l'esprit inventif ! ô la fourbe subtile !
 J'y veux aller moy-mesme.  
 
     ISABELLE *l'arrestant.*
-Où courez-vous si fort ?  
+        Où courez-vous si fort ?  
 Vous imaginez-vous qu'on creust vostre raport ?  
 Desirez-vous, Madame, en estre bien certaine ?  
 Je prendray de bon cœur, s'il vous plaist, cette peine,  
@@ -2825,12 +2825,12 @@ Et vous rapporteray fidellement qui c'est.
 J'y consens.  
 
     LEONOR.
-En ce fait je n'ay nul interest,  
+        En ce fait je n'ay nul interest,  
 A quoy bon m'éclaircir ? non, il faut que je sorte.  
 Qui que ce soit, allons.  
 
     ISABELLE.
-Puis qu'il ne vous importe,  
+        Puis qu'il ne vous importe,  
 Permettez-moy du moins par curiosité,  
 De sçavoir qui vous brave avec impunité,  
 Faites-moy ce plaisir, car j'en brusle d'envie.  
@@ -2847,7 +2847,7 @@ Elle prend grande part dedans vos interests.
 Elle fait son devoir.  
 
     CARLIN *bas.*
-Dieux ! elle court apres.  
+        Dieux ! elle court apres.  
 
     CLIMANTE *retenant Leonor.*
 Attendez pour le moins qu'elle soit revenuë,  
@@ -2858,7 +2858,7 @@ Non, non, je ne puis faire ici plus grand sejour,
 Adieu.  
 
     CLIMANTE.
-Vous offencez une innocente Amour [116],  
+        Vous offencez une innocente Amour [116],  
 Le Ciel vous punira d'une rigueur si grande.  
 
     LEONOR *en partant.*
@@ -2879,11 +2879,11 @@ CLIMANTE, CARLIN.
 
 
     CLIMANTE *dans sa chambre.*
-O Dieux ! quelle surprise !  
+        O Dieux ! quelle surprise !  
 Que t'en semble, Carlin ?  
 
     CARLIN *bas.*
-Que c'estoit là Dorise ?  
+        Que c'estoit là Dorise ?  
 Il faut bien sur ce point m'empécher de parler.  
 
     CLIMANTE.
@@ -2898,13 +2898,13 @@ Sçavez-vous bien, Monsieur, qui je soubçonnerois ?
 Qui ?  
 
     CARLIN.
-Je croy la cognoistre⁎ à l'habit, à la voix.  
+        Je croy la cognoistre⁎ à l'habit, à la voix.  
 
     CLIMANTE.
 Qui ?  
 
     CARLIN.
-La mesme qui vint hier [118] au soir si troublée  
+        La mesme qui vint hier [118] au soir si troublée  
 Vous demander secours, et masquée, et voilée.  
 Elle emporta les clefs ; et n'auroit autrement  
 Jamais peû se couler⁎ en cet apartement.  
@@ -2938,7 +2938,7 @@ En cette occasion juges-tu mal de moy ?
 Dy moy qui c'est ?  
 
     ISABELLE.
-J'aurois bien de la hardiesse [120],  
+        J'aurois bien de la hardiesse [120],  
 D'oser ainsi joüer ce tour à ma Maistresse,  
 Je croy qu'elle le doit sçavoir premierement.  
 
@@ -2956,21 +2956,21 @@ Et pour l'amour de moy, tien, reçoy ce present.
 (Tout m'arrive à souhait.)  
 Haut.
 
-**Que feray-je à present ?  
+        **Que feray-je à present ?  
 Bien, je suis resoluë à trahir ma Maistresse,  
 Pourveu [121] qu'en ce faisant vous me teniez promesse,  
 Comme vous m'avez dit, de n'en parler jamais,  
 Je ne celeray rien.  
 
     CLIMANTE.
-Oüy, je te le promets,  
+        Oüy, je te le promets,  
 Parle.  
 
     CARLIN *bas.*
-Ah ! je suis perdu.  
+    Ah ! je suis perdu.  
 
     CLIMANTE.
-Dy donc, depéche viste.  
+        Dy donc, depéche viste.  
 
     CARLIN *bas.*
 Pour dix coups de baston j'en voudrois estre quitte.  
@@ -3001,11 +3001,11 @@ Que plus que de l'humain elle tient du Celeste.
 Mais dy moy, l'as-tu veuë ?  
 
     ISABELLE.
-Oüy, de mes propres yeux,  
+        Oüy, de mes propres yeux,  
 Dequoy te mesles-tu ?  
 
     CARLIN *bas.*
-Je rends graces aux Dieux  
+        Je rends graces aux Dieux  
 Qui me donnent ici la force de me taire,  
 Où [123] la parole encor seroit si necessaire ;  
 Oüy, je brusle d'envie ici de repartir ;  
@@ -3059,7 +3059,7 @@ Quels contes fabuleux sont-ce ici que j'entends ?
 Je pren congé de vous.  
 
     CLIMANTE.
-Atten, je te supplie,  
+        Atten, je te supplie,  
 Si tu veux que par tout ta bonté je publie,  
 Fay moy cette faveur ; je sçay que tu le peux,  
 Puis qu'aussi bien je voy qu'on méprise mes vœux,  
@@ -3086,7 +3086,7 @@ Vous en aurez, Monsieur, nouvelle dans une heure,
 Je vais y travailler.  
 Bas.
 
-**Tout va bien jusqu'ici :  
+        **Tout va bien jusqu'ici :  
 Dieux ! faites-moy le bien que tout s'acheve ainsi.  
 
 
@@ -3114,11 +3114,11 @@ Et je vous conteray le tout, de point en point.
 Si vous me pardonnez.  
 
     CLIMANTE.
-Oüy va, je te pardonne,  
+        Oüy va, je te pardonne,  
 Parle donc promptement.  
 
     CARLIN.
-Cette insigne⁎ friponne,  
+        Cette insigne⁎ friponne,  
 Avec son beau langage, en ce quel a conté  
 N'a pas dit, je vous jure, un mot de verité.  
 Celle qu'elle vous peint, si belle, si charmante,  
@@ -3127,24 +3127,24 @@ Aussi gueuse que moy, qui depuis ce matin
 Sert un certain Marchand.  
 
     CLIMANTE.
-Te mocques-tu Carlin ?  
+        Te mocques-tu Carlin ?  
 Si c'est pour te railler, et pour me faire rire,  
 Tu prens fort mal ton temps.  
 
     CARLIN.
-Quoy que vous puissiez dire,  
+        Quoy que vous puissiez dire,  
 Je dy la verité : car comme je vous voy,  
 Mille fois je l'ay veuë.  
 
     CLIMANTE.
-Encor dy moy pourquoy,  
+        Encor dy moy pourquoy,  
 Et comment elle a peu sans clef ouvrir la porte ?  
 
     CARLIN.
 Je le sçauray tantost.  
 
     CLIMANTE.
-Mais encor, qui la porte⁎  
+        Mais encor, qui la porte⁎  
 A s'enfermer chez moy ? j'en suis tout estonné ?  
 
     CARLIN.
@@ -3157,7 +3157,7 @@ Sans penser toutefois vous devoir mettre en peine
 Comme elle vous a mis.  
 
     CLIMANTE.
-Que ta raison est vaine,  
+        Que ta raison est vaine,  
 Une Suivante a-t'elle un si superbe habit ?  
 
     CARLIN.
@@ -3178,7 +3178,7 @@ N'ayez je vous supplie aucune deffiance,
 Ce que je dis est vray.  
 
     CLIMANTE.
-Grands Dieux ! quelle apparence⁎ !  
+        Grands Dieux ! quelle apparence⁎ !  
 Non, cela ne peut estre, et je sçay que tu ments.  
 
     CARLIN.
@@ -3190,7 +3190,7 @@ Je vous veux emmener⁎ cette Servante ici,
 D'elle vous sçaurez tout.  
 
     CLIMANTE.
-Fay donc que je la voye,  
+        Fay donc que je la voye,  
 Depéche, si tu veux qu'à la fin je te croye.  
 
     CARLIN.
@@ -3218,7 +3218,7 @@ Dy luy de point en point comme la chose passe [135].
 Mais pourquoy l'as-tu dit ?  
 
     CARLIN.
-Afin de garentir  
+        Afin de garentir  
 Mon Maistre d'une fourbe, il falloit dementir⁎  
 Et faire cet affront à certaine rusée  
 Qui vouloit nous dupper ; la chose est tres-aisée ;  
@@ -3258,7 +3258,7 @@ Quel estoit ton dessein en t'enfermant chez moy ?
 Va, ne redoute rien.  
 
     DORISE.
-Monsieur, puis que je voy  
+        Monsieur, puis que je voy  
 Qu'il vous plaist me parler avec tant de franchise  
 Je ne doy point ici craindre aucune surprise ;  
 Et puis, pourquoy craindroy-je ? il n'y va rien du mien.  
@@ -3314,7 +3314,7 @@ Qu'en moy l'on n'obligea⁎ jamais un cœur ingrat.
 Monsieur, je vous rends grace.  
 
     CLIMANTE *bas en r'entrant.*
-**Ah ! je bruslois en l'ame  
+        **Ah ! je bruslois en l'ame  
 Du desir de sçavoir quelle estoit cette Dame.  
 Il r'entre dans son cabinet.
 
@@ -3370,7 +3370,7 @@ M'en doutoy-je pas bien, desloyal, imposteur,
 Que tu me trahissois ?  
 
     CARLIN *bas.*
-**Ah Dieux ! je meurs de peur :  
+        **Ah Dieux ! je meurs de peur :  
 Si je me plains ici, c'est de trop de fortune,  
 Les voulant toutes deux je n'en auray pas une.  
 
@@ -3379,7 +3379,7 @@ Quoy ! l'empécherés-vous de suivre son desir
 S'il me prefere à vous ?  
 
     ISABELLE *à Dorise.*
-**Il sçait bien mieux choisir,  
+        **Il sçait bien mieux choisir,  
 C'est bien effrontément parler en ma presence,  
 Vous l'emportez sur moy, mais c'est en impudence.  
 
@@ -3392,14 +3392,14 @@ On me l'avoit bien dit, que j'avois bonne mine⁎ [146],
 Tout le monde m'en veut.  
 A Dorise bas.
 
-**Vien-ça [147], tai-toy badine⁎,  
+        **Vien-ça [147], tai-toy badine⁎,  
 Va, je n'en veux qu'à toy, ne le vois-tu pas bien ?  
 
     ISABELLE *à Carlin.*
 Vien-ça, que luy dis-tu ?  
 
     CARLIN.
-Moy, je ne luy dis rien.  
+        Moy, je ne luy dis rien.  
 
     DORISE *à Carlin.*
 Or sus⁎ declare-toy, dis à qui tu veux estre,  
@@ -3409,7 +3409,7 @@ Je veux sçavoir ici si tu n'es pas un traistre.
 Parle donc promptement.  
 
     CARLIN *bas.*
-**J'ay les sens tout confus,  
+        **J'ay les sens tout confus,  
 L'une est belle, il est vray, mais l'autre a des escus,  
 Je voudrois bien avoir toutes les deux ensemble.  
 
@@ -3423,7 +3423,7 @@ Dorise, vois-tu pas [148] que je n'en veux qu'à toy ?
 Ecoutez ce qu'il dit [149] ?  
 
     ISABELLE.
-Que dis-tu ? parle à [150] moy.  
+        Que dis-tu ? parle à [150] moy.  
 
     CARLIN *bas à Isabelle.*
 Je dy que c'est à toy seule à qui [151] je veux plaire.  
@@ -3447,7 +3447,7 @@ Climante paroist.
 Adieu, ton Maistre vient.  
 
     CARLIN *bas à Dorise.*
-**Va, je n'aime que toy.  
+        **Va, je n'aime que toy.  
 
     DORISE *en s'en allant.*
 Je ne souffriray pas qu'on se mocque de moy.  
@@ -3497,7 +3497,7 @@ Si cet Hymen n'est pas accomply de tout poinct,
 La chose est resoluë.  
 
     CLIMANTE.
-Elle s'est bien hastée :  
+        Elle s'est bien hastée :  
 Mais comment nommes-tu ce rival, Dorotée ?  
 
     ISABELLE.
@@ -3525,7 +3525,7 @@ Cognoissant son humeur : Elle m'a mis en main
 Ces Lettres que voici,  
 Elle luy donne toutes les lettres.
 
-**me commandant soudain  
+        **me commandant soudain  
 De vous les apporter, et de plus, de vous dire,  
 (Mais avec un mépris qui ne se peut décrire :)  
 Que vous les brulassiez, et qu'elle veut bannir  
@@ -3571,13 +3571,13 @@ Non, non, je ne ments point, la chose est tres certaine.
 Puis-je sçavoir son nom ?  
 
     CLIMANTE.
-Ce visage si beau,  
+        Ce visage si beau,  
 Qui met, comme tu dis, tant d'Amans au tombeau,  
 Celle que tu m'as peinte, et si riche, et si belle,  
 Et qui m'aime si fort.  
 
     ISABELLE *bas.*
-Ah ! l'heureuse nouvelle [161] ?  
+        Ah ! l'heureuse nouvelle [161] ?  
 Quelle aprehension, grands Dieux ! viens-je d'avoir ?  
 
     CLIMANTE.
@@ -3587,7 +3587,7 @@ Car je veux, le sçachant, l'aller voir tout à l'heure ;
 Ma fille, oblige⁎-moy.  
 
     ISABELLE *bas.*
-Tout m'arrive à souhait,  
+        Tout m'arrive à souhait,  
 Haut.
 
 Vous serez dedans peu [162] sur ce point satisfait,  
@@ -3610,17 +3610,17 @@ Qui s'en reputera⁎ parfaitement heureuse,
 Et vous fera venir.  
 
     CLIMANTE.
-Que n'est-elle à mes yeux  
+        Que n'est-elle à mes yeux  
 Aussi belle ?  
 
     ISABELLE.
-Que qui ?  
+    Que qui ?  
 
     CLIMANTE.
-Que toy.  
+    Que toy.  
 
     ISABELLE.
-Que moy ! grands Dieux [163] ?  
+        Que moy ! grands Dieux [163] ?  
 C'est comparer, Monsieur, le diamant au verre,  
 Le Soleil à l'estoille, et le Ciel à la terre,  
 Quoy qu'elle semble avoir quelque peu de mon air.  
@@ -3653,7 +3653,7 @@ Ne trouvez point, amy, cette surprise estrange,
 Mon admiration⁎ est tres-juste.  
 
     CLIMANTE.
-Pourquoy ?  
+        Pourquoy ?  
 
     ADRASTE *bas à Climante.*
 Quel est ce beau visage ? amy, dites-le moy.  
@@ -3663,7 +3663,7 @@ Faut-il tant s'étonner pour voir une Suivante
 Qui sert chez ma Maistresse ?  
 
     ADRASTE *bas à Climante.*
-Est-il bien vray, Climante ?  
+        Est-il bien vray, Climante ?  
 Certes, je suis surpris d'une estrange façon.  
 
     ISABELLE *bas.*
@@ -3680,7 +3680,7 @@ Que je te donneray bien plus que tu ne penses.
 N'en doute nullement.  
 
     ISABELLE.
-Donc sur ces esperances,  
+        Donc sur ces esperances,  
 Parce qu'il se fait tard, je pren congé de vous.  
 
     CARLIN *à Isabelle.*
@@ -3688,7 +3688,7 @@ Veux-tu point, Dorotée, appaiser ton courroux ?
 Me dis-tu point adieu ?  
 
     ISABELLE.
-N'en dy pas davantage,  
+        N'en dy pas davantage,  
 Va, va, je te cognoy, tu n'es rien qu'un volage.  
 
 
@@ -3703,21 +3703,21 @@ Quoy ? cette fille ici [165] sert donc chez Leonor ?
 Seroit-il bien possible ?  
 
     CLIMANTE.
-En doutez-vous encor ?  
+        En doutez-vous encor ?  
 Je jure qu'il est vray.  
 
     ADRASTE.
-Pardonnez je vous prie  
+        Pardonnez je vous prie  
 Si je tiens ce discours pour une réverie⁎,  
 Cela ne peut pas estre.  
 
     CLIMANTE.
-Encor dites pourquoy  
+        Encor dites pourquoy  
 Vous voulez sur ce point vous deffier⁎ de moy ?  
 Que m'importeroit-il ?  
 
     ADRASTE.
-Parce que ce visage  
+        Parce que ce visage  
 Est, ou je suis charmé⁎, la veritable image  
 D'une Dame que j'ayme, et hors l'habillement  
 Qui peut tromper mes yeux, mais non mon jugement.  
@@ -3756,7 +3756,7 @@ Vous pensiez que ce fust celle de vostre Amante ?
 Et vous juriez quasi l'avoir veuë.  
 
     ADRASTE.
-En effet,  
+        En effet,  
 J'ay creu que c'estoit elle, et j'en avois sujet⁎,  
 Et d'autre que de vous j'aurois bien peine à croire  
 Que ce fust une fable⁎, et non pas une histoire⁎ [168].  
@@ -3773,7 +3773,7 @@ De me la faire voir, et luy parler aussi.
 En quel lieu se tient-elle ?  
 
     CLIMANTE.
-A la place Royale.  
+        A la place Royale.  
 
     ADRASTE.
 S'il est vray, ma beveuë est ici sans égale,  
@@ -3809,14 +3809,14 @@ Dans la ruë à la porte de Leonor, revenans de la Ville.
 Pensez-y mieux, Madame.  
 
     LEONOR.
-Ah Lucille, es-tu folle ?  
+        Ah Lucille, es-tu folle ?  
 Qu'on ne m'en parle plus, j'ay donné ma parole,  
 Deussé-je mille fois moy-mesme me trahir,  
 Mon oncle me l'ordonne, il luy faut obeyr,  
 Je le veux espouser.  
 
     LUCILLE.
-L'aveuglement extréme,  
+        L'aveuglement extréme,  
 Voulez-vous vous vanger vous mesme de vous mesme ?  
 
     LEONOR.
@@ -3879,7 +3879,7 @@ Afin d'y recevoir, comme estant la Maistresse,
 Qui bon vous semblera.  
 
     ISABELLE.
-J'estime ton adresse,  
+        J'estime ton adresse,  
 Dorise, portes-y promptement mon habit,  
 Pour me vestir chez elle, ainsi que je t'ay dit.  
 
@@ -3904,7 +3904,7 @@ Dans la ruë à la porte du logis de Leonor.
 
 
     LEONOR.
-Dorotée, est-ce toy ?  
+        Dorotée, est-ce toy ?  
 As-tu veu cet ingrat ? que dit-il ? respond-moy.  
 
     ISABELLE.
@@ -3915,7 +3915,7 @@ Qu'un homme si bien fait eust une ame si noire.
 Acheve, je te prie.  
 
     ISABELLE.
-Il est homme, et l'estant,  
+        Il est homme, et l'estant,  
 Se doit-on estonner de le voir inconstant ?  
 Comme il vous avoit pleu me commander [171], Madame,  
 J'ay remis vos écrits aux mains de cet infame ;  
@@ -3936,7 +3936,7 @@ Qu'elle eust esté jamais capable de me plaire.
 Avec cette impudence ?  
 
     ISABELLE.
-Il m'a dit cent fois pis ;  
+        Il m'a dit cent fois pis ;  
 De peur de vous fâcher, croyez que j'adoucis  
 Autant que je le puis son indigne response.  
 
@@ -3945,7 +3945,7 @@ Le perfide qu'il est [172] ! va, va, je le renonce [173] :
 Mais qu'as-tu reparti ?  
 
     ISABELLE.
-Je crains de vous fâcher :  
+        Je crains de vous fâcher :  
 Comme par mes discours je voulois le toucher,  
 Cette Dame qu'il ayme, est aussi-tost entrée  
 Ce que [174] voyant, soudain je me suis retirée,  
@@ -4005,11 +4005,11 @@ J'ay lieu de me loüer⁎ plus que jamais de luy
 De vous trouver ici.  
 
     CLIMANTE.
-Dites-moy quelle affaire  
+        Dites-moy quelle affaire  
 Vous porte à me chercher ?  
 
     ADRASTE.
-Une tres-necessaire,  
+        Une tres-necessaire,  
 Vous seul avez pouvoir de terminer [176] mon sort,  
 J'attens de vostre bouche, ou la vie, ou la mort.  
 
@@ -4116,13 +4116,13 @@ Dans la ruë à la porte du logis de Leonor.
 Qu'en dites-vous, Madame ?  
 
     LEONOR.
-Il est vray, Dorotée,  
+        Il est vray, Dorotée,  
 Que la fourbe est subtile, et tres-bien inventée :  
 Mais j'ay peine pourtant, à me persuader  
 Que tu viennes [185] à bout [186].  
 
     ISABELLE.
-Cessez d'apprehender,  
+        Cessez d'apprehender,  
 Reposez-vous sur moy, la chose est tres-aisée.  
 
     LEONOR.
@@ -4143,7 +4143,7 @@ Tu ne le cognois pas comme je le cognois ;
 Climante est fort rusé.  
 
     ISABELLE.
-Le fust-il plus cent fois  
+        Le fust-il plus cent fois  
 Il n'échapera pas des mains de Dorotée.  
 
     LEONOR.
@@ -4186,7 +4186,7 @@ Sans s'informer de toy, penses-tu qu'il souhaite
 T'espouser sur le champ ?  
 
     ISABELLE.
-Je tiens la chose faite.  
+        Je tiens la chose faite.  
 Vous en aurez sans doute aujourd'huy le plaisir.  
 
     LEONOR.
@@ -4195,7 +4195,7 @@ Ayant, comme il a fait, refuse la Maistresse,
 S'il prenoit la Suivante.  
 
     ISABELLE.
-Adieu donc, je vous laisse,  
+        Adieu donc, je vous laisse,  
 Vous ferez ma fortune en vous vengeant de luy,  
 Et sçaurez ce que vaut Dorotée aujourd'huy.  
 
@@ -4222,7 +4222,7 @@ Quand tu ne seras plus de personne aperceuë,
 Retourne à la maison.  
 
     DORISE.
-Je m'en vay m'échaper ;  
+        Je m'en vay m'échaper ;  
 Grands Dieux ! que cette fille est facile à tromper [191] ?  
 
     ISABELLE.
@@ -4256,7 +4256,7 @@ Ne voyez-vous pas bien que c'est une effrontée
 Qui ne fait que mentir ?  
 
     CLIMANTE.
-Non, tant que je vivray  
+        Non, tant que je vivray  
 Je croiray Dorotée, elle a toûjours dit vray.  
 
     CARLIN.
@@ -4265,7 +4265,7 @@ De cette fourbe ici [193] : Monsieur, elle est rusée
 Plus que vous ne pensez.  
 
     CLIMANTE.
-Que m'importe ? apres tout,  
+        Que m'importe ? apres tout,  
 Car si de mes desseins je ne viens pas à bout,  
 Toûjours⁎ la promenade est belle en cette place ?  
 
@@ -4281,7 +4281,7 @@ Quoy maraut ? suis-je un homme à hanter⁎ en tels lieux ?
 Qui m'y viendroit chercher ?  
 
     CARLIN.
-Il falloit pour le mieux,  
+        Il falloit pour le mieux,  
 Luy donner rendez-vous dedans l'Echarpe blanche [195] ;  
 Je jeusne ici, mais là j'aurois eu ma revanche,  
 Je ne me plaindrois point de mon mauvais destin,  
@@ -4300,7 +4300,7 @@ Souffrez la liberté, Monsieur, que j'ose prendre ;
 Estes-vous pas Climante [196] ? …  
 
     CLIMANTE.
-Oüy, l'on m'appelle ainsi.  
+        Oüy, l'on m'appelle ainsi.  
 
     LE PAGE.
 Venez donc, ma Maistresse assez proche d'ici.  
@@ -4331,7 +4331,7 @@ De quelle illusion est mon ame enchanté⁎ ?
 Cognois-tu ce visage ?  
 
     CARLIN *bas à Climante.*
-Ah Dieux ! c'est Dorotée ?  
+        Ah Dieux ! c'est Dorotée ?  
 C'est elle, mais, Monsieur, en different habit.  
 
     ISABELLE.
@@ -4350,7 +4350,7 @@ Vous m'avez peu parler seulement une fois
 Qui fut hier au soir.  
 
     CLIMANTE *à Carlin.*
-Carlin, j'en jurerois.  
+        Carlin, j'en jurerois.  
 
     ISABELLE.
 Expliquez-vous, Monsieur, car ce discours m'estonne.  
@@ -4364,14 +4364,14 @@ Sa taille et sa façon : Oüy Carlin, je proteste⁎
 Que ce l'est elle-mesme.  
 
     CARLIN.
-Il n'en faut point douter,  
+        Il n'en faut point douter,  
 C'est elle, et je me ry de vous voir consulter⁎.  
 
     ISABELLE.
 Et vous nommez, Monsieur, celle-là ?  
 
     CLIMANTE.
-Dorotée,  
+        Dorotée,  
 Qui sert chez Leonor, Dame que j'ay hantée⁎,  
 Et pour qui j'ay mesme eu de l'inclination.  
 
@@ -4387,7 +4387,7 @@ Si je ne l'estois pas, je serois bien duppé [197].
 Cet habit me surprend.  
 
     CARLIN.
-C'est luy qui m'a trompé.  
+        C'est luy qui m'a trompé.  
 
     ISABELLE.
 Brisons⁎-là, pour vous dire ici que je vous aime,  
@@ -4403,7 +4403,7 @@ Elle mentit hier, et mentira demain,
 Vous l'écoutez encor ?  
 
     CLIMANTE.
-Maraut te veux-tu taire ?  
+        Maraut te veux-tu taire ?  
 
     ISABELLE.
 Pour mettre Leonor justement en colere,  
@@ -4440,7 +4440,7 @@ La surpasser en grace aussi bien qu'en amour
 Pour vous estre agreable.  
 
     CLIMANTE.
-Ah ! beauté que j'admire [202] ?  
+        Ah ! beauté que j'admire [202] ?  
 Dans ma confusion je ne sçay que vous dire.  
 C'est moy qui doy, Madame, implorer à genoux  
 L'heur⁎ de vous posseder en qualité d'espoux :  
@@ -4474,20 +4474,20 @@ Sans qu'on charme⁎ mes yeux ? sans qu'on trompe mes sens ?
 Je vous la feray voir.  
 
     CLIMANTE.
-Dieux ! qu'est-ce que j'entends ?  
+        Dieux ! qu'est-ce que j'entends ?  
 Et mesme devant vous je la verray paroistre ?  
 
     ISABELLE.
 Oüy, tres-asseurément.  
 
     CLIMANTE.
-Cela ne peut pas estre.  
+        Cela ne peut pas estre.  
 
     ISABELLE.
 Vous l'y verrez.  
 
     CLIMANTE.
-Allons, j'en veux estre éclairci :  
+        Allons, j'en veux estre éclairci :  
 Soyez juges, mes yeux, de ce prodige ici [207].  
 
 
@@ -4509,7 +4509,7 @@ Allons sur ce sujet consulter Leonor.
 Mais la voicy qui sort.  
 
     ADRASTE* à Leonor.*
-Beauté plus que mortelle,  
+        Beauté plus que mortelle,  
 Je suis trop glorieux⁎ si ma fortune est telle  
 Que vostre oncle me dit, et beny l'heureux⁎ jour  
 Qu'en vostre cœur la haine a fait place à l'Amour [208].  
@@ -4580,7 +4580,7 @@ Vous allez, sans mentir, bien passer vostre temps.
 Oyez sans dire mot.  
 
     ADRASTE *bas.*
-Dieux ! qu'est-ce que j'entends ?  
+        Dieux ! qu'est-ce que j'entends ?  
 De quel trouble d'esprit est mon ame agitée ?  
 
     CLIMANTE *à Leonor.*
@@ -4590,7 +4590,7 @@ Faites-moy, s'il vous plaist, appeler Dorotée.
 Que luy voulez-vous donc ?  
 
     CLIMANTE.
-La voir tant seulement.  
+        La voir tant seulement.  
 
     LEONOR *à Adraste bas.*
 Et bien, qu'en dites-vous ? c'est elle asseurément,  
@@ -4607,7 +4607,7 @@ Où sont tous mes escrits : (elle fait la muette)
 Madame, approchez-vous.  
 
     ISABELLE *gravement.*
-Parlez-vous donc à moy ?  
+        Parlez-vous donc à moy ?  
 
     ADRASTE *bas.*
 C'est elle asseurément, ah ! qu'est-ce que je voy ?  
@@ -4625,7 +4625,7 @@ Tu quittes la Maistresse pour prendre la Suivante [213].
 Dieux [214] ! quelle trahison ?  
 
     ISABELLE.
-N'en croyez rien, Climante,  
+        N'en croyez rien, Climante,  
 Je ne veux plus tenir tant de monde en suspens.  
 Je me veux declarer, oüy Madame il est temps :  
 Pensant tromper autruy vous vous trompez vous mesme.  
@@ -4680,7 +4680,7 @@ Apres un tel adveu, je suis ingrat, Madame,
 Si je me plains du Ciel.  
 
     ISABELLE.
-Pour moy, si j'ay du blâme,  
+        Pour moy, si j'ay du blâme,  
 De vous avoir fourbez, de vous avoir trahis,  
 Il en faut accuser l'Astre à qui j'obeys :  
 Mais [217] pour rendre à mes vœux ce Cavalier sensible,  

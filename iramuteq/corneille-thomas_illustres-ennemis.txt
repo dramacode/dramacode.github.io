@@ -48,7 +48,7 @@ Registré sur le Livre de la Communauté le 15 Avril 1656,
 
 Suivant l'Arrest du Parlement du 9 Avril 1653.
 
-**** *book_ *id_body-4-1 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-401 *act_ *date_1657 *creator_corneille
 
 -*who_alonse
 Quoy, sans aucun respect, pour un leger outrage
@@ -92,7 +92,7 @@ Au moins D. Lope eust dû partager la vengeance,
 Mais au deceu d'un frere…
 
 -*who_enrique
-Ah ! ne me blâmez point,
+      Ah ! ne me blâmez point,
 Je sçais que son honneur à mon honneur est joint,
 Mais quel que soit l'affront qu'en reçoit sa famille,
 Pour se vanger du pere, il aime trop la fille,
@@ -131,7 +131,7 @@ Il détruise un espoir trop long-temps écouté.
 Mais il aime sa fille ?
 
 -*who_enrique
-Ouy, je sçay qu'il l'adore,
+      Ouy, je sçay qu'il l'adore,
 Mais je l'ay déja dit, et vous le dis encore,
 A quoy que cet amour pûst enfin l'obliger⁎
 Ce sera le servir que de l'en dégager.
@@ -188,25 +188,25 @@ Sur tes propres conseils j'appuyeray son amour.
 Feignant de t'applaudir, j'empescheray peut-estre...
 Mais je voy Blanche.
 
-**** *book_ *id_body-4-2 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1657 *creator_corneille
 
 -*who_alonse
-Et bien, Blanche, que fait ton maistre ?
+      Et bien, Blanche, que fait ton maistre ?
 
 -*who_blanche
 Vous l'eussiez rencontré quelques momens plustost,
 Tout à l'heure...
 
 -*who_alonse
-Il suffit, je le verray tantost.
+      Il suffit, je le verray tantost.
 
-**** *book_ *id_body-4-3 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Qui parloit avec vous, Blanche ?
 
 -*who_blanche
-Pour quelque affaire
+      Pour quelque affaire
 Alonse de Roxas demandoit vostre pere.
 
 -*who_jacinte
@@ -220,7 +220,7 @@ Et contre un ennemy dont le coeur est si bas...
 Madame, vous pleurez ?
 
 -*who_jacinte
-Qui ne pleureroit pas ?
+      Qui ne pleureroit pas ?
 Souffre⁎ à mon déplaisir⁎ dans d'inutiles larmes
 La funeste douceur de chercher quelques charmes⁎,
 Et qu'au defaut du sang qu'exigent nos malheurs,
@@ -288,7 +288,7 @@ Mon coeur, ce triste coeur n'est plus digne de luy,
 Pour m'aimer dans la honte il aime trop la gloire⁎,
 Et l'affront...mais que vois-je ! ô Dieux ! le puis-je croire ?
 
-**** *book_ *id_body-4-4 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Quoy D. Lope, est-ce vous dont l'abord indiscret,
@@ -344,7 +344,7 @@ Purge l'indignité qu'il avoit contractée.
 Mais quand l'âge s'oppose...
 
 -*who_jacinte
-Ah, cessez d'y songer,
+      Ah, cessez d'y songer,
 Pour vanger une injure il faut la partager,
 Et l'on voit rarement qu'un vieillard qu'on affronte
 Sur un autre qu'un fils puisse épandre sa honte.
@@ -357,7 +357,7 @@ Sans doute qu'il le peut, mais que sert s'y penser,
 D. Alvar n'estant plus...
 
 -*who_d._lope
-Ah ! permettez de grace⁎
+      Ah ! permettez de grace⁎
 Que de ce frere mort j'aille tenir la place,
 Et que m'offrant pour fils à D. Sanche outragé,
 Je tâche à rendre ainsi son malheur partagé.
@@ -399,7 +399,7 @@ Quoy, vous refuseriez un coeur qui vous adore ?
 Quoy, je pourrois souffrir⁎ ce qui me deshonore ?
 
 -*who_d._lope
-J'asseure vostre honneur, et c'est là vous aimer.
+      J'asseure vostre honneur, et c'est là vous aimer.
 
 -*who_jacinte
 Je conserve le vostre, et c'est vous estimer.
@@ -421,7 +421,7 @@ Mais ma raison s'égare, et ce coeur trop sincere...
 Madame.
 
 -*who_jacinte
-Qu'est-ce Blanche ?
+      Qu'est-ce Blanche ?
 
 -*who_blanche
 Alonse et vostre pere...
@@ -430,7 +430,7 @@ Alonse et vostre pere...
 Entrons icy de grace⁎, et sur tout gardez bien
 Que de cette entreveuë on ne soupçonne rien.
 
-**** *book_ *id_body-4-5 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1657 *creator_corneille
 
 -*who_d._sanche
 Quel funeste conseil vous voulez que j'embrasse⁎ !
@@ -454,7 +454,7 @@ Il dûst moins s'emporter, mais l'offence est receuë.
 Et de grace⁎, son nom ?
 
 -*who_alonse
-Quand vous m'aurez promis
+      Quand vous m'aurez promis
 D'accepter un accord qui vous doit rendre amis.
 
 -*who_d._sanche
@@ -522,7 +522,7 @@ Je veux ⁎que leur adveu⁎ réponde à vostre attente ;
 Mais qui m'asseurera que ma fille y consente,
 Que son esprit soûmis cede sans resister ?
 
-**** *book_ *id_body-4-6 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-406 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Moy-mesme, puisqu'enfin vous en pouvez douter.
@@ -575,17 +575,17 @@ Croyez-vous que par là nostre honte s'efface ?
 Ne perdez point de temps.
 
 -*who_d._sanche
-Allons voir nos amis,
+      Allons voir nos amis,
 Et sçachons quel accord me peut estre permis.
 
-**** *book_ *id_body-4-7 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-407 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Prenez ce temps, D. Lope, et de peur qu'on me blâme,
 Si son retour trop prompt...
 
 -*who_d._lope
-Je le prendray, Madame,
+      Je le prendray, Madame,
 Adieu, mais prenez garde au serment que je fais,
 Je vous quitte aujourd'huy pour ne vous voir jamais.
 Vous engagez ailleurs la foy⁎ qui m'est promise,
@@ -633,7 +633,7 @@ N'avez vous pas promis de luy donner la main ?
 Je le feray sans doute.
 
 -*who_d._lope
-Et vous serez sa femme ?
+      Et vous serez sa femme ?
 
 -*who_jacinte
 Moy ! cette lâcheté pourroit m'entrer dans l'ame ?
@@ -656,7 +656,7 @@ Vange avec mon honneur le repos de ma vie.
 Estes-vous satisfait ?
 
 -*who_d._lope
-Helas ! si je le suis,
+      Helas ! si je le suis,
 Vous mesme jugez-en, jugez si je le puis.
 Par luy seul vostre honneur à l'outrage est en bute,
 Et quoy que contre luy vostre haine execute,
@@ -677,19 +677,19 @@ Que je me souviendray de ce que je vous doy.
 Ah, Madame, adjoûtez...
 
 -*who_jacinte
-Je n'ay plus rien à dire.
+      Je n'ay plus rien à dire.
 
 -*who_d._lope
 Que mon Rival...
 
 -*who_jacinte
-Sortez, ou bien je me retire.
+      Sortez, ou bien je me retire.
 
 -*who_d._lope
 Rigoureuse vertu que l'on doit admirer !
 Helas ! à quels tourmens me viens-tu preparer !
 
-**** *book_ *id_body-5-1 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 C'estoit peu que toûjours son devoir trop fidelle
@@ -809,7 +809,7 @@ Mais Dieux, vois-je Jacinte, ou si⁎ mon oeil s'abuse ?
 -*who_cassandre
 Les differens sont doux qui font naistre une excuse.
 
-**** *book_ *id_body-5-2 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Madame, quel dessein⁎ en ce lieu vous conduit ?
@@ -852,10 +852,10 @@ Mais puis-je demander quel estoit cet époux ?
 Le voulez-vous sçavoir ? vous, D. Lope.
 
 -*who_d._lope
-Moy ?
+      Moy ?
 
 -*who_jacinte
-Vous.
+      Vous.
 
 -*who_d._lope
 Helas ! à ce discours que faut-il que je pense ?
@@ -872,7 +872,7 @@ Sur vous d'un coup si lâche il fait tomber le blâme,
 Et par vostre ordre seul...
 
 -*who_d._lope
-Le croyez-vous, Madame ?
+      Le croyez-vous, Madame ?
 
 -*who_jacinte
 Vous voir et vous parler sans faire agir mon bras,
@@ -979,10 +979,10 @@ Et qu'à quoy que pour vous le respect me convie,
 Son bonheur est mal seur s'il me laisse la vie.
 Adieu.
 
-**** *book_ *id_body-5-3 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1657 *creator_corneille
 
 -*who_cassandre
-C'est vous servir avec trop de rigueur
+      C'est vous servir avec trop de rigueur
 Du pouvoir que l'amour vous donne sur son coeur.
 
 -*who_jacinte
@@ -1077,10 +1077,10 @@ Fit suivre son depart du retour de mes freres,
 Ah !
 
 -*who_jacinte
-Si par ce recit...
+      Si par ce recit...
 
 -*who_cassandre
-Achevons, ce n'est rien.
+      Achevons, ce n'est rien.
 Jugez par ce retour quel malheur fut le mien.
 A me tyranniser leur amitié consiste,
 Un party se presente, ils pressent, je resiste,
@@ -1097,7 +1097,7 @@ Et la mer de tous deux fut l'injuste tombeau.
 Ah Dieux !
 
 -*who_jacinte
-Vostre douleur semble toûjours s'accroistre.
+      Vostre douleur semble toûjours s'accroistre.
 
 -*who_cassandre
 Helas ! à tous momens je croy le voir paroistre,
@@ -1109,57 +1109,57 @@ Approchez-moy d'un siege, et souffrez⁎ qu'aux abois
 Ma flame...
 
 -*who_jacinte
-La douleur luy suffoque la voix,
+      La douleur luy suffoque la voix,
 Flore vient de sortir, quel conseil⁎ dois-je prendre ?
 
-**** *book_ *id_body-5-4 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Flore, et viste.
 
 -*who_cassandre
-Ah ! pardon, chere Ombre.
+      Ah ! pardon, chere Ombre.
 
 -*who_jacinte
-Voy, Cassandre...
+      Voy, Cassandre...
 
 -*who_flore
 Ah ! Madame.
 
 -*who_jacinte
-Qu'as-tu ?
+      Qu'as-tu ?
 
 -*who_flore
-Son amant...
+      Son amant...
 
 -*who_jacinte
-Qui ? Fernand ?
+      Qui ? Fernand ?
 
 -*who_flore
 Non, mais par un destin tout à fait surprenant,
 Celuy qu'elle croit mort...
 
 -*who_jacinte
-Et bien ?
+      Et bien ?
 
 -*who_flore
-Est là, qui presse...
+      Est là, qui presse...
 
 -*who_jacinte
 Que dis-tu ?
 
 -*who_flore
-Qu'il demande à revoir sa maistresse,
+      Qu'il demande à revoir sa maistresse,
 Mais le voicy luy-mesme, il entre.
 
 -*who_jacinte
-Ah, justes Dieux !
+      Ah, justes Dieux !
 C'est mon frere.
 
-**** *book_ *id_body-5-5 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-505 *act_ *date_1657 *creator_corneille
 
 -*who_d._alvar
-Ah, ma soeur, qui vous met en ces lieux ?
+      Ah, ma soeur, qui vous met en ces lieux ?
 Vous trouver à Madrid, et vous croire à Tolede !
 
 -*who_jacinte
@@ -1193,7 +1193,7 @@ Et que veuve de toy je me suis mariée ?
 Que dit-elle, ma soeur ?
 
 -*who_jacinte
-Elle revient à soy.
+      Elle revient à soy.
 
 -*who_cassandre
 Jacinte, helas ! où suis-je, et qu'est-ce que je voy ?
@@ -1202,12 +1202,12 @@ Jacinte, helas ! où suis-je, et qu'est-ce que je voy ?
 Reprenez vos esprits.
 
 -*who_cassandre
-Et les puis-je reprendre
+      Et les puis-je reprendre
 Si je voy ce qu'enfin je ne sçaurois comprendre ?
 D. Alvar vivroit-il ?
 
 -*who_d._alvar
-Apprenez-moy son sort,
+      Apprenez-moy son sort,
 Vous le sçavez vous seule, est-il vivant ou mort ?
 Je sçay que sur un banc échapé du naufrage,
 Eschapé des rigueurs d'un étroit esclavage,
@@ -1216,20 +1216,20 @@ Mais vivroit il encor s'il n'a plus vostre amour ?
 Parlez, Madame.
 
 -*who_cassandre
-Helas !
+      Helas !
 
 -*who_d._alvar
-Soûpirer et se taire ?
+      Soûpirer et se taire ?
 Ah ! ma sœur.
 
 -*who_cassandre
-Que dit-il ? D. Alvar vostre frere ?
+      Que dit-il ? D. Alvar vostre frere ?
 
 -*who_jacinte
 Ouy, vous voyez ce frere...
 
 -*who_d._alvar
-Ah ! c'est trop me géner,
+      Ah ! c'est trop me géner,
 Dites-moy ce qu'enfin je n'ose deviner.
 J'eus tort de vous quitter, vous seriez-vous vangée,
 Un autre est-il heureux, estes vous engagée ?
@@ -1242,7 +1242,7 @@ Mais le puis-je nier s'il n'est rien de plus vray ?
 Quoy, plus d'espoir pour moy ?
 
 -*who_cassandre
-La parole est donnée,
+      La parole est donnée,
 Et ma main dans deux jours acheve l'hymenée.
 
 -*who_d._alvar
@@ -1255,14 +1255,14 @@ Ce terme est peu de chose à qui cherit l'honneur.
 Et vous m'avez aimé ?
 
 -*who_cassandre
-Mon heur⁎ seroit extrême
+      Mon heur⁎ seroit extrême
 D'oser dire, j'aimay, sans pouvoir dire, j'aime.
 
 -*who_d._alvar
 Ah, s'il vous reste encor...
 
 -*who_cassandre
-Ne me demandez rien,
+      Ne me demandez rien,
 Je sçay ce que se doit un coeur comme le mien.
 Tant que vostre retour flatta⁎ mon esperance,
 En vain l'on essaya d'ébransler ma constance.
@@ -1289,14 +1289,14 @@ Ne pouvant rien pour vous, je ne dois rien entendre⁎,
 Je ne vous verray plus.
 
 -*who_d._alvar
-Comment donc vous quitter ?
+      Comment donc vous quitter ?
 
 -*who_cassandre
 Le peril croist toûjours, c'est trop vous écouter,
 Je me retire.
 
 -*who_d._alvar
-Helas ! ma soeur, quelle injustice !
+      Helas ! ma soeur, quelle injustice !
 C'est donc ainsi qu'au port il faut que je perisse.
 Ah, que ne suis-je mort, ou pourquoy l'a-t'on crû ?
 
@@ -1307,14 +1307,14 @@ Mon pere sur ce bruit⁎ voulut quitter Tolede,
 Esperant qu'à Madrid...
 
 -*who_d._alvar
-Ah, puisqu'il me croit mort,
+      Ah, puisqu'il me croit mort,
 Promettez-moy, ma soeur, de luy cacher mon sort ;
 Car enfin si le Ciel s'obstine à me poursuivre,
 Mon espoir estant mort je ne veux point revivre.
 Adieu, vous seule icy me pouvez secourir,
 Touchez pour moy Cassandre, ou me laissez mourir.
 
-**** *book_ *id_body-6-1 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1657 *creator_corneille
 
 -*who_d._ramire
 Enfin instruit d'un nom que vous brûliez d'apprendre,
@@ -1360,11 +1360,11 @@ Le Ciel plus à propos n'eust pû vous rendre un fils,
 D. Alvar est vivant.
 
 -*who_d._sanche
-Quoy, mon fils, D. Ramire,
+      Quoy, mon fils, D. Ramire,
 Mon fils seroit vivant ?
 
 -*who_d._ramire
-Ouy, D. Alvar respire,
+      Ouy, D. Alvar respire,
 A deux cens pas d'icy je viens de le quitter.
 
 -*who_d._sanche
@@ -1400,7 +1400,7 @@ Ce malheur dont le bruit⁎ a pû si-tost s'épandre.
 Mais ignorant l'autheur...
 
 -*who_d._sanche
-Il l'apprendra de moy
+      Il l'apprendra de moy
 Quand sur un tel secret j'auray receu sa foy⁎.
 Car enfin pour punir une action si noire,
 Si j'employois un fils, je trahirois sa gloire⁎,
@@ -1417,10 +1417,10 @@ Sur un affront receu, pressez-le de venir.
 Et bien, sans perdre temps, allons chez moy l'écrire,
 Ce billet...
 
-**** *book_ *id_body-6-2 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1657 *creator_corneille
 
 -*who_d._sanche
-Ah ! ma fille, à la fin je respire,
+      Ah ! ma fille, à la fin je respire,
 Et dans l'heureux succez qui flate⁎ mes desirs,
 Tu peux donner relâche⁎ à tes tristes soûpirs.
 Ta vertu s'est montrée entiere, pure, pleine,
@@ -1434,7 +1434,7 @@ Le Ciel m'offre un moyen d'asseurer mon honneur,
 Il m'est plus glorieux, et pour toy moins funeste,
 Adieu, le temps sçaura te découvrir le reste.
 
-**** *book_ *id_body-6-3 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Que veut-il dire, Blanche, et que m'imaginer
@@ -1471,7 +1471,7 @@ Par ce qu'il vous a dit, il vous l'a fait cognoistre⁎.
 Que n'est-ce un faux soupçon que l'amour fasse naistre ?
 Mais Cassandre paroit, et s'advance vers nous.
 
-**** *book_ *id_body-6-4 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Et bien, qu'a sçeu D. Lope, et que m'apprendrez-vous ?
@@ -1514,7 +1514,7 @@ Je n'auray pas de peine à faire qu'il s'explique.
 Allez donc, les effets nous ont souvent fait voir
 Qu'un secret sçeu trop tard ruïne un bel espoir.
 
-**** *book_ *id_body-6-5 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1657 *creator_corneille
 
 -*who_cassandre
 Ainsi tout se prepare au bonheur de mon frere.
@@ -1524,7 +1524,7 @@ Ainsi, si vous cessiez de vous estre contraire,
 Vous n'auriez pas à craindre...
 
 -*who_cassandre
-Ah Flore, que dis-tu ?
+      Ah Flore, que dis-tu ?
 
 -*who_flore
 Que tout vostre heur⁎ dépend d'un peu moins de vertu.
@@ -1543,12 +1543,12 @@ Qu'aux dépens de ma foy⁎ mon lâche coeur se donne,
 Que je romps...
 
 -*who_flore
-Le voicy, souffrez⁎-luy quelque espoir.
+      Le voicy, souffrez⁎-luy quelque espoir.
 
 -*who_cassandre
 Non, Flore, éloignons-nous, je ne veux point le voir.
 
-**** *book_ *id_body-6-6 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1657 *creator_corneille
 
 -*who_d._alvar
 Me fuyez-vous, Madame, et portez-vous envie
@@ -1654,7 +1654,7 @@ Je combats avec peine et ne vaincs qu'à regret.
 Vous me quittez, Madame ?
 
 -*who_cassandre
-Il y va de ma gloire⁎.
+      Il y va de ma gloire⁎.
 
 -*who_d._alvar
 Et d'un amour si pur vous perdrez la memoire ?
@@ -1663,14 +1663,14 @@ Et d'un amour si pur vous perdrez la memoire ?
 J'y feray mon pouvoir.
 
 -*who_d._alvar
-Oyez donc jusqu'au bout,
+      Oyez donc jusqu'au bout,
 A quel point ...
 
 -*who_cassandre
-Non, c'est trop.
+      Non, c'est trop.
 
 -*who_d._alvar
-Je vous suivray par tout,
+      Je vous suivray par tout,
 Et si vous me quittez, il n'est respect ny crainte
 Qui m'empesche chez vous d'aller porter ma plainte.
 
@@ -1735,54 +1735,54 @@ En vain pour l'oublier il se fait violence.
 Donc je puis...
 
 -*who_cassandre
-N'en tirez aucune consequence.
+      N'en tirez aucune consequence.
 
 -*who_d._alvar
 Esperer que peut-estre...
 
 -*who_cassandre
-Injuste et vain espoir !
+      Injuste et vain espoir !
 
 -*who_d._alvar
 Mon amour...
 
 -*who_cassandre
-Ne pourra corrompre mon devoir,
+      Ne pourra corrompre mon devoir,
 Et plustost que...
 
 -*who_flore
-Madame.
+      Madame.
 
 -*who_cassandre
-O disgrace impréveuë !
+      O disgrace impréveuë !
 Empeschez qu'on me suive, ou bien je suis perduë.
 
-**** *book_ *id_body-6-7 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-607 *act_ *date_1657 *creator_corneille
 
 -*who_enrique
 Ne vois-je pas ma soeur ? elle me fuit en vain
 Si...
 
 -*who_d._alvar
-Vous m'obligerez⁎ de changer de dessein⁎,
+      Vous m'obligerez⁎ de changer de dessein⁎,
 Cette Dame me touche.
 
 -*who_enrique
-Et plus que vous peut-estre
+      Et plus que vous peut-estre
 Moy-mesme elle me touche, et je la veux cognoistre⁎.
 
 -*who_d._alvar
 J'y pourray mettre obstacle.
 
 -*who_enrique
-Ah Dieu, me menacer !
+      Ah Dieu, me menacer !
 Voicy, voicy par où je le sçauray forcer.
 
 -*who_d._alvar
 Vous reculez pourtant.
 
 -*who_cassandre
-Helas ! que dois-je faire ?
+      Helas ! que dois-je faire ?
 Quel funeste combat d'un amant et d'un frere !
 
 -*who_flore
@@ -1793,7 +1793,7 @@ Ce quartier est desert, D. Alvar malheureux,
 Et la nuit qui survient...
 
 -*who_flore
-Retirons nous, Madame.
+      Retirons nous, Madame.
 
 -*who_cassandre
 Que de troubles⁎ divers s'élevent dans mon ame !
@@ -1803,16 +1803,16 @@ Encor si nous pouvions trouver quelque secours⁎.
 Nous ne les voyons plus, ils s'éloignent toûjours,
 Mais D. Lope…
 
-**** *book_ *id_body-6-8 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-608 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
-Ah, ma soeur, la funeste nouvelle !
+      Ah, ma soeur, la funeste nouvelle !
 
 -*who_cassandre
 Qu'est-ce, mon frere ?
 
 -*who_d._lope
-Alonse est un amy fidelle,
+      Alonse est un amy fidelle,
 Et cette trahison dont j'osois murmurer,
 M'asseuroit le seul bien que je puis esperer ;
 Mais jugez quel espoir me doit rester encore
@@ -1829,33 +1829,33 @@ D'un effroy si subit vient de saisir mon coeur...
 Je l'entens⁎ en effet, éloignez-vous, ma soeur.
 Je verray ce que c'est.
 
-**** *book_ *id_body-6-9 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-609 *act_ *date_1657 *creator_corneille
 
 -*who_brave
-Ta mort suivra la sienne.
+      Ta mort suivra la sienne.
 
 -*who_d._alvar
 Que ne l'empeschiez-vous, comme je fais la mienne,
 Lâches ?
 
 -*who_d._lope
-Quoy, trois contre un ! donnons, je suis à vous,
+      Quoy, trois contre un ! donnons, je suis à vous,
 Mon cavalier, courage.
 
 -*who_brave
-O Dieu, les rudes coups !
+      O Dieu, les rudes coups !
 
 -*who_brave
 Ah ! D. Lope...
 
 -*who_d._lope
-Mon nom dans la bouche d'un lâche ?
+      Mon nom dans la bouche d'un lâche ?
 
 -*who_brave
 Sçachez...
 
 -*who_d._lope
-J'ay déja sçeu ce qu'il faut que je sçache.
+      J'ay déja sçeu ce qu'il faut que je sçache.
 
 -*who_brave
 Craignant quelque disgrace, évitons sa fureur.
@@ -1873,7 +1873,7 @@ Sans vous ma resistance estoit vaine contre eux,
 Vous seul par un secours⁎...
 
 -*who_d._lope
-Espargnez-moy, de grace⁎,
+      Espargnez-moy, de grace⁎,
 J'ay fait ce que vous mesme eussiez fait en ma place.
 
 -*who_d._alvar
@@ -1892,25 +1892,25 @@ Je sçauray vous défendre, ou perir avec vous.
 Mais sans doute on vous cherche.
 
 -*who_d._alvar
-O malheur redoutable !
+      O malheur redoutable !
 
-**** *book_ *id_body-6-10 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-610 *act_ *date_1657 *creator_corneille
 
 -*who_d._louis
 Voyez nos soins⁎, D. Lope, à trouver un coupable,
 Enrique, helas !
 
 -*who_d._lope
-Et bien ?
+      Et bien ?
 
 -*who_d._louis
-Vient d'estre assassiné.
+      Vient d'estre assassiné.
 
 -*who_d._lope
 Enrique !
 
 -*who_d._louis
-Et l'assassin par icy détourné,
+      Et l'assassin par icy détourné,
 Tâchant de garantir sa teste par sa fuitte,
 Attire sur ses pas nostre juste poursuitte,
 On l'a veu reculer les armes à la main.
@@ -1919,18 +1919,18 @@ On l'a veu reculer les armes à la main.
 Par vostre diligence empeschez son dessein⁎,
 Je vay pourvoir au reste.
 
-**** *book_ *id_body-6-11 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-611 *act_ *date_1657 *creator_corneille
 
 -*who_d._alvar
-Et vous devant la vie,
+      Et vous devant la vie,
 Ce n'estoit pas assez...
 
 -*who_d._lope
-Brisons-là, je vous prie.
+      Brisons-là, je vous prie.
 Sçavez-vous qui je suis ?
 
 -*who_d._alvar
-C'estoit pour le sçavoir
+      C'estoit pour le sçavoir
 Que je vous demandois à vous parler ce soir.
 
 -*who_d._lope
@@ -1940,7 +1940,7 @@ Sçavez-vous contre qui je viens de vous defendre ?
 Non.
 
 -*who_d._lope
-Sçavez-vous quel sang vous avez sçeu répandre ?
+      Sçavez-vous quel sang vous avez sçeu répandre ?
 
 -*who_d._alvar
 Aussi peu, seulement vous répondray-je bien
@@ -1961,27 +1961,27 @@ Gardez bien-tost de prendre un sentiment contraire.
 Pourquoy ?
 
 -*who_d._lope
-Si je vous dis que le mort est mon frere ?
+      Si je vous dis que le mort est mon frere ?
 
 -*who_d._alvar
 Vostre frere !
 
 -*who_d._lope
-Ouy, mon frere, et vous pouvez juger
+      Ouy, mon frere, et vous pouvez juger
 Si je puis vous deffendre ayant à le vanger.
 
 -*who_d._alvar
 Mais vous m'avez promis...
 
 -*who_d._lope
-La promesse est frivole,
+      La promesse est frivole,
 Jamais contre soy-mesme on ne donne parole.
 
 -*who_d._alvar
 Que pretendez-vous donc ?
 
 -*who_d._lope
-Monstrer par vostre mort
+      Monstrer par vostre mort
 Que le devoir du sang est toûjours le plus fort.
 
 -*who_d._alvar
@@ -2036,7 +2036,7 @@ Aussi l'éloignement est pour moy necessaire.
 Quoy, vous pourriez me fuir ?
 
 -*who_d._alvar
-Je fuis avec éclat,
+      Je fuis avec éclat,
 Quand j'évite en fuyant le peril d'estre ingrat.
 
 -*who_d._lope
@@ -2044,13 +2044,13 @@ Vous me verrez pousser ma vangeance à l'extrême,
 Je vous suivray par tout.
 
 -*who_d._alvar
-Je vous fuiray de mesme.
+      Je vous fuiray de mesme.
 
 -*who_d._lope
 Je sçauray vous chercher.
 
 -*who_d._alvar
-Et moy vous éviter.
+      Et moy vous éviter.
 
 -*who_d._lope
 Quoy, je ne tâche icy que de vous irriter,
@@ -2077,10 +2077,10 @@ Vous m'avez obligé⁎, je dois m'en souvenir.
 Nous nous verrons pourtant.
 
 -*who_d._alvar
-Jamais.
+      Jamais.
 
 -*who_d._lope
-Et ma poursuitte ?
+      Et ma poursuitte ?
 
 -*who_d._alvar
 Ne m'en mettray-je pas à couvert par la fuitte ?
@@ -2090,9 +2090,9 @@ Peut-estre, mais enfin si nous nous rencontrons
 Il faudra lors combattre.
 
 -*who_d._alvar
-Et bien nous combattrons.
+      Et bien nous combattrons.
 
-**** *book_ *id_body-7-1 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-701 *act_ *date_1657 *creator_corneille
 
 -*who_alonse
 Je l'avois bien préveu, que tant de violence
@@ -2225,13 +2225,13 @@ Mais si dans sa clarté la Lune m'est fidelle,
 Je voy cet incognû contre qui j'ay querelle,
 C'est luy-mesme, parlons, puisqu'il s'ose approcher.
 
-**** *book_ *id_body-7-2 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Me recognoissez-vous ?
 
 -*who_d._alvar
-Je vous allois chercher,
+      Je vous allois chercher,
 Et quelque rigoureux que mon destin se montre,
 Je luy suis obligé⁎ d'une telle rencontre.
 
@@ -2265,7 +2265,7 @@ La honte d'éclater contre un indigne objet ?
 Ce discours est obscur.
 
 -*who_d._alvar
-Pour vous le faire entendre⁎
+      Pour vous le faire entendre⁎
 Oyez par un billet ce que je viens d'apprendre.
 Un injuste ennemy par un noir attentat⁎,
 Envieux de ma gloire⁎, en a terny l'éclat,
@@ -2276,7 +2276,7 @@ On m'en donne l'advis, voila ce qui m'améne.
 Et que pensez-vous faire ?
 
 -*who_d._alvar
-En pouvez-vous douter,
+      En pouvez-vous douter,
 Et dans de tels malheurs a-t'on à consulter ?
 Je ne balance⁎ point, quelle que soit l'offence,
 Tout mon sang indigné m'en demande vangeance,
@@ -2335,47 +2335,47 @@ Tient pour moy dans ce coeur la haine suspenduë,
 Souffrez⁎ qu'impatient de m'acquitter vers vous,
 D'un amy si parfait j'embrasse⁎ les genoux.
 Rendrois-je un moindre hommage à qui je dois la vie ?
-Mais on veut vous parler, ou bien l'on nous épie.
+      Mais on veut vous parler, ou bien l'on nous épie.
 
-**** *book_ *id_body-7-3 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Ah ! Blanche.
 
 -*who_blanche
-Qu'à propos je vous ay recognû !
+      Qu'à propos je vous ay recognû !
 L'on m'envoyoit chez vous.
 
 -*who_d._lope
-Quoy, qu'est-il survenu ?
+      Quoy, qu'est-il survenu ?
 
 -*who_blanche
 Venez, on vous attend.
 
 -*who_d._lope
-Moy, Blanche ?
+      Moy, Blanche ?
 
 -*who_blanche
-Ouy, ma maitresse
+      Ouy, ma maitresse
 Veut resoudre avec vous une affaire qui presse.
 
 -*who_d._lope
 Que je crains...
 
 -*who_blanche
-Craignez tout d'un couroux⁎ déguisé.
+      Craignez tout d'un couroux⁎ déguisé.
 
 -*who_d._lope
 Sans doute le vieillard n'est point desabusé,
 C'est ce qu'on veut m'apprendre ?
 
 -*who_blanche
-Il est vray qu'il s'emporte.
+      Il est vray qu'il s'emporte.
 
 -*who_d._lope
 C'est assez, je te suy, va m'attendre à la porte.
 
-**** *book_ *id_body-7-4 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Voyez que l'amitié se croit beaucoup permis.
@@ -2387,7 +2387,7 @@ D'autre que d'une fille il m'auroit fait ombrage,
 Vous estes tout resveur.
 
 -*who_d._lope
-Peut-estre en ay-je lieu,
+      Peut-estre en ay-je lieu,
 Mais enfin il est temps que je vous dise adieu.
 
 -*who_d._alvar
@@ -2404,7 +2404,7 @@ J'ay receu rendez-vous, et c'est ce qui me gesne.
 La faveur vous déplaist ?
 
 -*who_d._lope
-J'aime et je suis aimé,
+      J'aime et je suis aimé,
 Mais un pere fâcheux⁎ tient mon coeur alarmé,
 Et contre mon espoir cette faveur offerte
 Est moins faveur pour moy que l'arrest de ma perte :
@@ -2424,10 +2424,10 @@ Mais je vous quitte enfin, c'est trop la faire attendre.
 Je vous escorteray.
 
 -*who_d._lope
-Vous ?
+      Vous ?
 
 -*who_d._alvar
-Quoy, vous en deffendre !
+      Quoy, vous en deffendre !
 Craignez-vous que ce bras ne vous manque au besoin⁎ ?
 
 -*who_d._lope
@@ -2436,13 +2436,13 @@ Et je dois ce respect à l'objet de ma flame,
 De...
 
 -*who_d._alvar
-Vous abandonner c'est me couvrir de blâme,
+      Vous abandonner c'est me couvrir de blâme,
 Et mon coeur est pour vous injuste au dernier point
 S'il vous souffre⁎ un peril qu'il ne partage point.
 Non, non, je vous suivray.
 
 -*who_d._lope
-Vous ne prenez pas garde
+      Vous ne prenez pas garde
 A ce qu'en ce projet vostre amitié hazarde,
 Et que dans ma disgrace oser vous engager,
 C'est vous mettre en estat de ne vous point vanger,
@@ -2453,15 +2453,15 @@ Sur l'occasion seule un grand coeur se mesure.
 Allons, nous perdons temps.
 
 -*who_d._lope
-Mais...
+      Mais...
 
 -*who_d._alvar
-C'est trop contester,
+      C'est trop contester,
 Sçachant ce que je sçay je ne puis vous quitter.
 Sur tout, je suis discret.
 
 -*who_d._lope
-Je n'ay plus rien à dire,
+      Je n'ay plus rien à dire,
 Mais je vous devray trop, et mon coeur en soûpire,
 Puisqu'apres cet accord que l'honneur rend permis,
 Ce mesme honneur nous force à cesser d'estre amis.
@@ -2473,17 +2473,17 @@ Ne songeons maintenant qu'à ce qui vous importe.
 Nous n'irons pas bien loin, voyez d'icy la porte,
 J'y dois estre attendu.
 
-**** *book_ *id_body-7-5 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
-Blanche.
+      Blanche.
 
 -*who_blanche
-Entrez et sans bruit⁎,
+      Entrez et sans bruit⁎,
 De peur que...mais que vois-je ?
 
 -*who_d._lope
-Un amy qui me suit,
+      Un amy qui me suit,
 Ne crains rien, sa vertu dans mon sort l'interesse.
 
 -*who_blanche
@@ -2495,7 +2495,7 @@ Amy, j'en use mal de vous laisser icy,
 Seul, de nuit, sans clarté, mais...
 
 -*who_d._alvar
-Cette excuse est vaine,
+      Cette excuse est vaine,
 Un desir curieux n'est pas ce qui m'améne,
 Je vous attens, allez, et ne m'oubliez pas
 Si vous avez besoin du secours⁎ de mon bras.
@@ -2524,21 +2524,21 @@ Mais Dieux ! n'entens⁎-je pas une porte qui s'ouvre ?
 La lumiere paroist, enfin tout est perdu,
 Que feray-je ?
 
-**** *book_ *id_body-7-6 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1657 *creator_corneille
 
 -*who_d._sanche
-Un bruit⁎ sourd vers la porte entendu⁎,
+      Un bruit⁎ sourd vers la porte entendu⁎,
 Dans l'attente d'un fils à mes souhaits si chere...
 Mais ne le vois-je pas ? Ah, mon fils !
 
 -*who_d._alvar
-Ah, mon pere.
+      Ah, mon pere.
 
 -*who_d._sanche
 Je puis donc te revoir ?
 
 -*who_d._alvar
-C'est donc vous que je voy ?
+      C'est donc vous que je voy ?
 
 -*who_d._sanche
 Ah, qu'avecque raison tu doutes si c'est moy !
@@ -2565,7 +2565,7 @@ S'il luy faut une vie, on m'en a répondu,
 Il perira, le traistre.
 
 -*who_d._alvar
-Ah, que voulez-vous faire ?
+      Ah, que voulez-vous faire ?
 
 -*who_d._sanche
 Te remettre en estat de m'advouër pour pere.
@@ -2575,7 +2575,7 @@ Me reserveriez-vous à cette lâcheté,
 De souffrir⁎...
 
 -*who_d._sanche
-Il aura ce qu'il a merité.
+      Il aura ce qu'il a merité.
 Où l'offence est indigne et basse et lâche et noire
 Tout ce qui la repare est toûjours plein de gloire⁎,
 Fer, poison, tout est beau, quand il n'est point douteux,
@@ -2593,19 +2593,19 @@ Si tu le veux sçavoir, apprens-le de ta soeur.
 Où courez vous, mon pere ?
 
 -*who_d._sanche
-Il faut que je l'appelle.
+      Il faut que je l'appelle.
 
 -*who_d._alvar
 Pensez vous...
 
 -*who_d._sanche
-Ouy, mon fils, tu sçauras mieux tout d'elle.
+      Ouy, mon fils, tu sçauras mieux tout d'elle.
 
 -*who_d._alvar
 Peut-estre...
 
 -*who_d._sanche
-Je l'améne icy dans un moment.
+      Je l'améne icy dans un moment.
 
 -*who_d._alvar
 Puis-je encor me cognoistre⁎ en cet évenement ?
@@ -2623,21 +2623,21 @@ Si j'ay bien entendu⁎ d'un et d'autre costé
 Une porte au besoin⁎ le met en seureté.
 Puisqu'il peut s'échapper, quel obstacle l'arreste ?
 
-**** *book_ *id_body-7-7 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-707 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Amy, nostre vieillard m'oblige⁎ à la retraite,
 Sortons, et vous sçaurez...
 
 -*who_d._alvar
-Amy, je le cognoy ;
+      Amy, je le cognoy ;
 Je viens de luy parler, ne craignez rien pour moy.
 
 -*who_d._lope
 Vous ?
 
 -*who_d._alvar
-M'en voyant surpris j'ay feint sur quelque affaire
+      M'en voyant surpris j'ay feint sur quelque affaire
 Qu'une lettre de luy m'étoit fort necessaire,
 Il est allé l'écrire, et dans cet embarras
 Je me rendrois suspect à ne l'attendre pas.
@@ -2646,13 +2646,13 @@ Je me rendrois suspect à ne l'attendre pas.
 Mais...
 
 -*who_blanche
-Je l'entens⁎ déjà, le rendez vous funeste !
+      Je l'entens⁎ déjà, le rendez vous funeste !
 Sortez viste.
 
 -*who_d._alvar
-Demain je vous diray le reste.
+      Demain je vous diray le reste.
 
-**** *book_ *id_body-7-8 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-708 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Quoy, sans sçavoir pourquoy je dois tant me haster ?
@@ -2666,12 +2666,12 @@ Juste Ciel, se peut-il qu'enfin je le revoye ?
 Ah, mon frere, est-ce vous ?
 
 -*who_d._alvar
-Mon déplaisir⁎, ma soeur,
+      Mon déplaisir⁎, ma soeur,
 Me laisse de ce nom mal goûter la douceur.
 Quand un pere offensé...
 
 -*who_d._sanche
-Dy-luy, dy-luy, ma fille,
+      Dy-luy, dy-luy, ma fille,
 Cet affront si honteux à toute ma famille,
 Et si dans mes ennuis⁎ tu veux me soulager,
 Nomme-luy l'ennemy dont je dois me vanger.
@@ -2694,10 +2694,10 @@ Mon fils, souffre⁎ un moment que mon coeur s'y prépare.
 Son fils, Madame ?
 
 -*who_jacinte
-Ouy, Blanche.
+      Ouy, Blanche.
 
 -*who_blanche
-O Dieu que ferons-nous !
+      O Dieu que ferons-nous !
 Il escortoit D. Lope, il sçait le rendez-vous.
 
 -*who_jacinte
@@ -2707,16 +2707,16 @@ Que dis-tu ? c'estoit luy qui luy servoit d'escorte ?
 Luy mesme.
 
 -*who_d._alvar
-Enfin je cede au soupçon qui m'emporte,
+      Enfin je cede au soupçon qui m'emporte,
 Parlez, ou je croiray...
 
 -*who_d._sanche
-Croy tout ce que tu peux,
+      Croy tout ce que tu peux,
 L'affront dont je rougis est encor plus honteux.
 Cognois⁎-tu les Guzmans ?
 
 -*who_d._alvar
-Ouy, ce nom est illustre.
+      Ouy, ce nom est illustre.
 
 -*who_d._sanche
 L'un d'eux par mon offence en a terny le lustre,
@@ -2726,7 +2726,7 @@ D. Lope...enfin c'est fait, j'ay nommé l'offenseur.
 Quoy, D. Lope...
 
 -*who_d._sanche
-Ah ! mon fils, daigne⁎ épargner ta soeur.
+      Ah ! mon fils, daigne⁎ épargner ta soeur.
 Voy comme trop sensible à l'outrage d'un pere,
 Le nom d'un ennemy l'enflame de colere.
 Voy de quels mouvemens son coeur est combatu,
@@ -2737,7 +2737,7 @@ J'en suis surpris⁎ sans doute encor plus que vous n'étes.
 D. Lope...
 
 -*who_d._sanche
-Voy son trouble⁎ au nom que tu repetes,
+      Voy son trouble⁎ au nom que tu repetes,
 Et juge à ces effets de haine et de couroux⁎
 Si j'ay dû consentir d'en faire son époux,
 On me l'a fait promettre, et j'ay feint...
@@ -2758,7 +2758,7 @@ Donne-toy toute entiere à l'ardeur qui l'enflame,
 Et s'il faut...
 
 -*who_d._alvar
-Cet advis ne nous rend pas l'honneur,
+      Cet advis ne nous rend pas l'honneur,
 Mon pere, et vous gênez⁎ la vertu de ma soeur.
 
 -*who_d._sanche
@@ -2783,7 +2783,7 @@ Encor un peu, ma fille, et ton pere est vangé.
 Vous, mon pere, et de qui ?
 
 -*who_d._sanche
-De cet ennemy mesme
+      De cet ennemy mesme
 Dont pour toy le seul nom est un supplice extrême.
 Croy-le déja sans vie, et par un doux transport⁎
 Tâche de t'advancer le plaisir de sa mort.
@@ -2792,7 +2792,7 @@ Par son dernier soûpir expier nostre injure,
 Repais de cette image...
 
 -*who_d._alvar
-Elle a beaucoup d'appas⁎,
+      Elle a beaucoup d'appas⁎,
 Mais il perit en vain s'il ne vous vange pas.
 
 -*who_d._sanche
@@ -2806,11 +2806,11 @@ J'ai préparé le piege, et c'est dans cette nuit
 Que des Braves⁎…
 
 -*who_d._alvar
-O Ciel, où me vois-je réduit ?
+      O Ciel, où me vois-je réduit ?
 Et je m'arreste encor, c'est trop.
 
 -*who_d._sanche
-Que vas-tu faire ?
+      Que vas-tu faire ?
 
 -*who_d._alvar
 Défendre un ennemy pour mieux vanger un pere.
@@ -2819,7 +2819,7 @@ Défendre un ennemy pour mieux vanger un pere.
 Quoy ? tu peux condamner…
 
 -*who_d._alvar
-Vous m'arrestez en vain,
+      Vous m'arrestez en vain,
 Son sang est mal versé si ce n'est par ma main.
 
 -*who_d._sanche
@@ -2829,7 +2829,7 @@ O l'indigne scrupule où son cœur s'abandonne !
 Helas !
 
 -*who_d._sanche
-Ainsi que moy sa foiblesse t'étonne⁎,
+      Ainsi que moy sa foiblesse t'étonne⁎,
 Mais quoy qu'il ose enfin, cesse d'en soûpirer,
 Ma partie est bien faite, et tu peus esperer.
 
@@ -2841,7 +2841,7 @@ Que peut-estre déjà l'on a vangé ton pere.
 Vien, suy-moy, quelques maux que je puisse prévoir,
 Mon plus grand déplaisir⁎ se console à te voir.
 
-**** *book_ *id_body-8-1 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-801 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 C'estoit pour m'en donner la funeste nouvelle
@@ -2899,7 +2899,7 @@ Qu'apres l'avoir jurée il m'accepte pour gendre.
 Mais il vous croit coupable.
 
 -*who_d._lope
-Il le croira toûjours.
+      Il le croira toûjours.
 
 -*who_cassandre
 La verité cognuë est un puissant secours⁎,
@@ -2933,9 +2933,9 @@ S'exposer à rougir du plus honteux reproche
 Que...
 
 -*who_cassandre
-Vous ne voyez pas Jacinte qui s'approche.
+      Vous ne voyez pas Jacinte qui s'approche.
 
-**** *book_ *id_body-8-2 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-802 *act_ *date_1657 *creator_corneille
 
 -*who_d._lope
 Apres le dur revers qui détruit mon espoir,
@@ -2969,7 +2969,7 @@ Pouvez-vous l'ignorer si vous le pustes voir ?
 La nuict n'estoit pas sombre.
 
 -*who_d._lope
-Elle estoit assez claire
+      Elle estoit assez claire
 Pour voir ce mesme amy qui trompa vostre pere,
 Qui m'escortant chez vous, n'en sortit qu'apres moy,
 Mais son visage seul est ce que j'en cognoy.
@@ -2981,7 +2981,7 @@ Et bien, quel qu'il puisse estre, obtiendray-je une grace⁎ ?
 Madame...
 
 -*who_jacinte
-A l'expliquer mon esprit s'embarrasse,
+      A l'expliquer mon esprit s'embarrasse,
 Mais c'est ce qui m'améne, et ce fut hier au soir
 Ce qui me fit encor souhaitter de vous voir.
 
@@ -2991,7 +2991,7 @@ Fallut-il me soûmettre à la fureur d'un pere,
 Et perdre...
 
 -*who_jacinte
-Ah, jugez mieux d'un coeur qui tout à vous
+      Ah, jugez mieux d'un coeur qui tout à vous
 Deteste les effets d'un injuste couroux⁎.
 Vous voir recognoissant est toute mon envie,
 Un incognu pour vous a prodigué sa vie,
@@ -3000,7 +3000,7 @@ C'est que jamais ce bras ne s'arme contre luy.
 Me le promettez-vous ?
 
 -*who_d._lope
-Je puis vous le promettre,
+      Je puis vous le promettre,
 Puisque l'honneur enfin semble me le permettre,
 Et que sans lâcheté je ne puis à mon tour
 Combattre un ennemy par qui je vois le jour.
@@ -3028,11 +3028,11 @@ Me tiendrez-vous parole et puis-je le prétendre ?
 Doutez-vous de mon coeur ?
 
 -*who_jacinte
-Laissons-les seuls, Cassandre,
+      Laissons-les seuls, Cassandre,
 Et quoy qu'icy pour nous tout soit à redouter,
 Sçachons leurs sentimens avant que d'éclatter.
 
-**** *book_ *id_body-8-3 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-803 *act_ *date_1657 *creator_corneille
 
 -*who_d._alvar
 Je me rendray suspect sans doute de foiblesse
@@ -3050,7 +3050,7 @@ Enfin sommes-nous seuls, puis-je me découvrir ?
 Je crains d'estre écouté.
 
 -*who_d._lope
-Parlez sans vous contraindre,
+      Parlez sans vous contraindre,
 Quel que soit ce secret, vous n'avez rien à craindre.
 
 -*who_d._alvar
@@ -3074,7 +3074,7 @@ Et de son sang versé je voy qu'il vous absout.
 Suis-je quitte envers vous ?
 
 -*who_d._lope
-C'est moy qui vous dois tout.
+      C'est moy qui vous dois tout.
 Mais de ce procedé mon amitié s'offence,
 Est-ce que vous doutez de ma recognoissance ?
 
@@ -3122,7 +3122,7 @@ Je dois vous advoüer que son pere est le mien.
 Quoy, Jacinte...
 
 -*who_d._alvar
-Est ma soeur, et c'est assez vous dire
+      Est ma soeur, et c'est assez vous dire
 Quel devoir veut par moy que nostre tresve expire...
 
 -*who_d._lope
@@ -3133,7 +3133,7 @@ Que je brusle d'un feu dont l'ardeur est si pure,
 Que si...
 
 -*who_d._alvar
-Vous jugez mal de mon ressentiment
+      Vous jugez mal de mon ressentiment
 D'en croire cet amour l'unique fondement.
 Je ne condamne point une ardeur legitime,
 Et comme je cognoy qu'on peut aimer sans crime,
@@ -3181,7 +3181,7 @@ Puisque vostre suffrage⁎ en ma faveur s'explique,
 Quel crime est donc le mien ?
 
 -*who_d._alvar
-L'opinion publique.
+      L'opinion publique.
 C'est peu pour negliger un devoir si pressant
 Que mon coeur en secret vous declare innocent,
 A l'erreur du public c'est peu qu'il se refuse,
@@ -3193,7 +3193,7 @@ Pour ne vous pas punir de ce que l'on en croit.
 Quoy, sur un bruit⁎ si faux...
 
 -*who_d._alvar
-Vous m'en devez répondre,
+      Vous m'en devez répondre,
 Avant que vous revoir j'ay voulu le confondre ;
 Mais en vain en tous lieux je me suis informé,
 On ne nomme personne, ou vous estes nommé.
@@ -3201,7 +3201,7 @@ J'affoiblis ma vangeance à la voir differée,
 Sortons.
 
 -*who_d._lope
-Et l'amitié que vous m'aviez jurée ?
+      Et l'amitié que vous m'aviez jurée ?
 
 -*who_d._alvar
 Telle est de mon honneur l'impitoyable loy,
@@ -3223,7 +3223,7 @@ Avec mesme secret brûlent des mesmes flames.
 Mesme objet asservit et l'un et l'autre coeur,
 Si vous aimez ma soeur, j'adore vostre soeur...
 
-**** *book_ *id_body-8-4 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-804 *act_ *date_1657 *creator_corneille
 
 -*who_cassandre
 Et bien, cruel amant, decouvre mes foiblesses,
@@ -3302,36 +3302,36 @@ Que je le sçache ou non, je cognoy mon devoir,
 Et si par moy quelqu'un avoit dû le sçavoir...
 Mais, ô Dieu, c'est icy que l'espoir et la crainte...
 
-**** *book_ *id_body-8-5 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-805 *act_ *date_1657 *creator_corneille
 
 -*who_d._sanche
 Ah ! mon fils.
 
 -*who_d._alvar
-Suspendez de grace⁎ vostre plainte,
+      Suspendez de grace⁎ vostre plainte,
 Vous venez condamner ce coeur trop partagé,
 Mais je mourray, mon pere, ou vous serez vangé.
 Nous pourrons nous revoir, adieu D. Lope.
 
 -*who_d._sanche
-Arreste,
+      Arreste,
 Et voy le precipice où ton erreur te jette,
 D. Lope est innocent.
 
 -*who_d._alvar
-Pour en avoir douté
+      Pour en avoir douté
 Le procedé d'un traistre a trop de lâcheté.
 Mais enfin avec vous ayant part à l'outrage,
 Si je n'en sçay l'autheur...
 
 -*who_d._sanche
-Tu sçauras davantage,
+      Tu sçauras davantage,
 Puisque le Ciel propice à mon ressentiment,
 Au crime qui le cause a joint le châtiment,
 On m'a déja vangé.
 
 -*who_d._alvar
-Quel bras l'auroit pû faire ?
+      Quel bras l'auroit pû faire ?
 Jamais autre qu'un fils ne vange bien un pere.
 
 -*who_d._lope
@@ -3348,7 +3348,7 @@ Eust pû jusqu'au pardon abaisser sa priere,
 Que l'orgueilleux Enrique...
 
 -*who_d._lope
-Apres l'avoir nommé,
+      Apres l'avoir nommé,
 Quelque juste sujet qui vous tienne animé,
 Songez qu'il est mon frere et m'épargnez la honte.
 
@@ -3359,7 +3359,7 @@ Quoy, vostre frere ! ô Ciel, que ta justice est prompte !
 Il nous la montre en luy.
 
 -*who_d._alvar
-Mais vous ne sçavez pas
+      Mais vous ne sçavez pas
 Que le voulant punir il l'a fait par mon bras.
 Sans sçavoir vostre affront j'en ay tiré vangeance.
 
@@ -3412,7 +3412,7 @@ Je sçay ce qu'elle a fait contre D. Lope mesme,
 Et pour ce grand effort le moins que je luy dois,
 C'est d'oublier sa faute et d'approuver son choix.
 
-**** *book_ *id_body-8-6 *act_ *date_1657 *creator_corneille
+**** *book_ *id_body-806 *act_ *date_1657 *creator_corneille
 
 -*who_jacinte
 Puisque par le succez cette faute s'efface,
@@ -3422,7 +3422,7 @@ J'en viens benir le Ciel, et recevoir ma grace⁎.
 Quoy, voir icy ma fille !
 
 -*who_jacinte
-Avant que m'accuser,
+      Avant que m'accuser,
 Songez à quoy pour vous j'ay pû me disposer,
 Ne soupçonnez point ny crime ny foiblesse,
 Dans une passion dont je suis la maistresse.
@@ -3459,14 +3459,14 @@ Je ne m'engage à rien que Fernand n'authorise.
 O Dieux, se pourroit-il ?
 
 -*who_d._sanche
-Tu l'aimes donc, mon fils ?
+      Tu l'aimes donc, mon fils ?
 
 -*who_d._alvar
 Dans mon ravissement je doute si je vis.
 Mon pere...
 
 -*who_d._sanche
-Je t'entens⁎, obtiens-là d'elle-mesme.
+      Je t'entens⁎, obtiens-là d'elle-mesme.
 
 -*who_d._alvar
 Consentez-vous, Madame, à mon bonheur extrême ?
@@ -3479,7 +3479,7 @@ Et n'y resister point, c'est m'expliquer assez.
 O favorable arrest !
 
 -*who_d._sanche
-C'est le Ciel qui le donne,
+      C'est le Ciel qui le donne,
 L'ordre de ses decrets n'est cognu de personne,
 Et souvent de ses soins⁎ l'infaillible ressort
 Se plaist par le naufrage à nous conduire au port.

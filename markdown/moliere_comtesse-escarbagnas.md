@@ -6,30 +6,28 @@ title: La Comtesse d'Escarbagnas
 ---
 
 
-La Comtesse d'Escarbagnas
+LA COMTESSE D'ESCARBAGNAS
 
-Comédie
+COMÉDIE
 
-M. DC. LXXI.
+PAR J. B. DE MOLIERE
 
-Molière
-
-Représentée pour la première fois le 2 décembre 1671 au Château de Saint-Germain-en-Laye.
+Représentée pour le Roi à Saint-Germain- en-Laye, au mois de Février 1672 *Et donnée au Public, sur le Théâtre de la Salle du Palais-Royal, pour la première fois le huitième Juillet 1672 * Par la Troupe du Roi
 
 
 
-# PERSONNAGES
- – La comtesse d'Escarbagnas.
- – Le Comte, son fils.
- – Le vicomte, amant de Julie.
- – Julie, amante du Vicomte.
- – Monsieur Thibaudier, conseiller, amant de la Comtesse.
- – Monsieur Harpin, receveur des tailles, autre amant de la Comtesse.
- – Monsieur Bobinet, précepteur de Monsieur le Comte.
- – Andrée, suivante de la Comtesse.
- – Jeannot, laquais de Monsieur Tibaudier.
- – Criquet, laquais de la Comtesse.
-La scène est à Angoulême.
+# ACTEURS
+ – La Comtesse d'Escarbagnas.
+ – Le Comte, Son fils.
+ – Le Vicomte, Amant de Julie.
+ – Julie, Amante du Vicomte.
+ – Monsieur Tibaudier, Conseiller, Amant de la Comtesse.
+ – Monsieur Harpin, Receveur des Tailles, autre Amant de la Comtesse.
+ – Monsieur Bobinet, Précepteur de Monsieur le Comte.
+ – Andrée, Suivante de la Comtesse.
+ – Jeannot, Laquais de Monsieur Tibaudier.
+ – Criquet, Laquais de la Comtesse.
+La Scène est à Angoulême.
 
 
 
@@ -37,7 +35,7 @@ La scène est à Angoulême.
 
 
 ## Scène Première
-JULIE, LE VICOMTE.
+JULIE, LE VICOMTE
 
 
     LE VICOMTE
@@ -47,7 +45,7 @@ Hé, quoi Madame, vous êtes déjà ici ?
 Oui, vous en devriez rougir, Cléante, et il n'est guère honnête à un Amant de venir le dernier au rendez-vous.
 
     LE VICOMTE
-Je serais ici il y a une heure, s'il n'y avait point de fâcheux au monde, et j'ai été arrêté en chemin par un vieux importun de qualité, qui m'a demandé tout exprès des nouvelles de la Cour, pour trouver moyen de m'en dire des plus extravagantes qu'on puisse débiter, et c'est là, comme vous savez, le fléau des petites Villes, que ces grands Nouvellistes qui cherchent partout où répandre les contes qu'ils ramassent. Celui-ci m'a montré d'abord deux feuilles de papier, pleines jusques aux bords d'un grand fatras de balivernes, qui viennent, m'a-t-il dit, de l'endroit le plus sûr du monde. Ensuite, comme d'une chose fort curieuse, il m'a fait, avec grand mystère, une fatigante lecture de toutes les méchantes plaisanteries de la Gazette de Hollande, dont il épouse les intérêts. Il tient que la France est battue en ruine par la plume de cet Écrivain, et qu'il ne faut que ce bel esprit pour défaire toutes nos Troupes; et de là s'est jeté à corps perdu dans la raisonnement du Ministère, dont il remarque tous les défauts, et d'où j'ai cru qu'il ne sortirait point. À l'entendre parler, il sait les secrets du Cabinet mieux que ceux qui les font. La politique de l'État lui laisse voir tous ses desseins, et elle ne fait pas un pas, dont il ne pénètre les intentions. Il nous apprend les ressorts cachés de tout ce qui se fait, nous découvre les vues de la prudence de nos voisins, et remue à sa fantaisie toutes les affaires de l'Europe. Ses intelligences même s'étendent jusques en Afrique, et en Asie; et il est informé de tout ce qui s'agite dans le Conseil d'en haut, du Prête-Jean, et du Grand Mogol.
+Je serais ici il y a une heure, s'il n'y avait point de fâcheux au monde, et j'ai été arrêté en chemin par un vieux importun de qualité, qui m'a demandé tout exprès des nouvelles de la Cour, pour trouver moyen de m'en dire des plus extravagantes qu'on puisse débiter, et c'est là, comme vous savez, le fléau des petites Villes, que ces grands Nouvellistes qui cherchent partout où répandre les contes qu'ils ramassent. Celui-ci m'a montré d'abord deux feuilles de papier, pleines jusques aux bords d'un grand fatras de balivernes, qui viennent, m'a-t-il dit, de l'endroit le plus sûr du monde. Ensuite, comme d'une chose fort curieuse, il m'a fait, avec grand mystère, une fatigante lecture de toutes les méchantes plaisanteries de la *Gazette de Hollande*, dont il épouse les intérêts. Il tient que la France est battue en ruine par la plume de cet Écrivain, et qu'il ne faut que ce bel esprit pour défaire toutes nos Troupes; et de là s'est jeté à corps perdu dans la raisonnement du Ministère, dont il remarque tous les défauts, et d'où j'ai cru qu'il ne sortirait point. À l'entendre parler, il sait les secrets du Cabinet mieux que ceux qui les font. La politique de l'État lui laisse voir tous ses desseins, et elle ne fait pas un pas, dont il ne pénètre les intentions. Il nous apprend les ressorts cachés de tout ce qui se fait, nous découvre les vues de la prudence de nos voisins, et remue à sa fantaisie toutes les affaires de l'Europe. Ses intelligences même s'étendent jusques en Afrique, et en Asie; et il est informé de tout ce qui s'agite dans le Conseil d'en haut, du Prêtre-Jean, et du grand Mogol.
 
     JULIE
 Vous parez votre excuse du mieux que vous pouvez, afin de la rendre agréable, et faire qu'elle soit plus aisément reçue.
@@ -74,17 +72,21 @@ Pour mieux cacher notre amour ; et puis, à vous dire la vérité, cette feinte
 Oui, mais vous ne considérez pas que le jeu qui vous divertit tient mon cœur au supplice, et qu'on n'est point capable de se jouer longtemps, lorsqu'on a dans l'esprit une passion aussi sérieuse, que celle que je sens pour vous. Il est cruel, belle Julie, que cet amusement dérobe à mon amour un temps qu'il voudrait employer à vous expliquer son ardeur ; et cette nuit j'ai fait là-dessus quelques Vers, que je ne puis m'empêcher de vous réciter, sans que vous me le demandiez, tant la démangeaison de dire ses ouvrages, est un vice attaché à la qualité de Poète.
 C'est trop longtemps, Iris, me mettre à la torture.  
 Iris, comme vous le voyez, est mis là pour Julie.
+
 C'est trop longtemps, Iris, me mettre à la torture,  
 Et si je suis vos lois, je les blâme tout bas,  
 De me forcer à taire un tourment que j'endure  
 Pour déclarer un mal que je ne ressens pas.  
+
 Faut-il que vos beaux yeux à qui je rends les armes,  
 Veuillent se divertir de mes tristes soupirs,  
 Et n'est-ce pas assez de souffrir pour vos charmes,  
 Sans me faire souffrir encor pour vos plaisirs ?  
+
 C'en est trop à la fois, que ce double martyre,  
 Et ce qu'il me faut taire, et ce qu'il me faut dire,  
 Exerce sur mon cœur pareille cruauté.  
+
 L'amour le met en feu, la contrainte le tue,  
 Et si par la pitié vous n'êtes combattue,  
 Je meurs, et de la feinte, et de la vérité.  
@@ -93,27 +95,27 @@ Je meurs, et de la feinte, et de la vérité.
 Je vois que vous vous faites là bien plus maltraité que vous n'êtes ; mais c'est une licence que prennent Messieurs les Poètes, de mentir de gaieté de cœur, et de donner à leurs Maîtresses des cruautés qu'elles n'ont pas, pour s'accommoder aux pensées qui leur peuvent venir. Cependant je serai bien aise que vous me donniez ces Vers par écrit.
 
     LE VICOMTE
-C'est assez de vous les avoir dits, et je dois en demeurer là; il est permis d'être parfois assez fou pour faire des Vers, mais non pour vouloir qu'ils soient vus.
+C'est assez de vous les avoir dits, et je dois en demeurer là ; il est permis d'être parfois assez fou pour faire des Vers, mais non pour vouloir qu'ils soient vus.
 
     JULIE
 C'est en vain que vous vous retranchez sur une fausse modestie, on sait dans le monde que vous avez de l'esprit, et je ne vois pas la raison qui vous oblige à cacher les vôtres.
 
     LE VICOMTE
-Mon Dieu, Madame, marchons là-dessus, s'il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d'avoir de l'esprit. Il y a làdedans un certain ridicule qu'il est facile d'attraper, et nous avons de nos amis qui me font craindre leur exemple.
+Mon Dieu, Madame, marchons là-dessus, s'il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d'avoir de l'esprit. Il y a là-dedans un certain ridicule qu'il est facile d'attraper, et nous avons de nos amis qui me font craindre leur exemple.
 
     JULIE
 Mon Dieu, Cléante, vous avez beau dire, je vois avec tout cela que vous mourez d'envie de me les donner, et je vous embarrasserais si je faisais semblant de ne m'en pas soucier.
 
     LE VICOMTE
-Moi, Madame, vous vous moquez, et je ne suis pas si Poète que vous pourriez bien croire, pour... Mais voici votre Madame la Comtesse d'Escarbagnas, je sors par l'autre porte pour ne la point trouver, et vais disposer tout mon monde au divertissement que je vous ai promis.
+Moi, Madame, vous vous moquez, et je ne suis pas si Poète que vous pourriez bien croire, pour… Mais voici votre Madame la Comtesse d'Escarbagnas, je sors par l'autre porte pour ne la point trouver, et vais disposer tout mon monde au divertissement que je vous ai promis.
 
 
 ## Scène II
-LA COMTESSE, JULIE.
+LA COMTESSE, JULIE
 
 
     LA COMTESSE
-Ah ! mon Dieu, Madame, vous voilà toute seule ? Quelle pitié est-ce là, Toute seule; il me semble que mes gens m'avaient dit, que le Vicomte était ici.
+Ah ! mon Dieu, Madame, vous voilà toute seule ? quelle pitié est-ce là, toute seule ; il me semble que mes gens m'avaient dit, que le Vicomte était ici ?
 
     JULIE
 Il est vrai qu'il y est venu, mais c'est assez pour lui de savoir que vous n'y étiez pas pour l'obliger à sortir.
@@ -137,7 +139,7 @@ Vraiment je le veux quereller de cette action, quelque amour que l'on ait pour m
 Il ne faut point, Madame, que vous soyez surprise de son procédé. L'amour que vous lui donnez, éclate dans toutes ses actions, et l'empêche d'avoir des yeux que pour vous.
 
     LA COMTESSE
-Je crois être en état de pouvoir faire naître une passion assez forte, et je me trouve pour cela assez de beauté, de jeunesse, et de qualité, Dieu merci ; mais cela n'empêche pas, qu'avec ce que j'inspire, on ne puisse garder de l'honnêteté, et de la complaisance pour les autres. Que faites-vous donc là, Laquais ? Est-ce qu'il n'y a pas une antichambre, où se tenir, pour venir quand on vous appelle ; Cela est étrange, qu'on ne puisse avoir en Province un Laquais qui sache son monde. À qui est-ce donc que je parle, voulez-vous vous en aller là dehors, petit fripon ? Filles approchez.
+Je crois être en état de pouvoir faire naître une passion assez forte, et je me trouve pour cela assez de beauté, de jeunesse, et de qualité, Dieu merci ; mais cela n'empêche pas, qu'avec ce que j'inspire, on ne puisse garder de l'honnêteté, et de la complaisance pour les autres. Que faites-vous donc là, Laquais ? est-ce qu'il n'y a pas une antichambre, où se tenir, pour venir quand on vous appelle ; cela est étrange qu'on ne puisse avoir en Province un Laquais qui sache son monde. À qui est-ce donc que je parle, voulez-vous vous en aller là dehors, petit fripon ? Filles approchez.
 
     ANDRÉE
 Que vous plaît-il, Madame ?
@@ -188,7 +190,7 @@ Que voulez-vous, Madame ?
 Il se faut bien égosiller avec vous autres.
 
     ANDRÉE 
-J'enfermais votre manchon et vos coiffes dans votre armoi..., dis-je, dans votre garde-robe.
+J'enfermais votre manchon et vos coiffes dans votre armoi…, dis-je, dans votre garde-robe.
 
     LA COMTESSE
 Appelez-moi ce petit fripon de Laquais.
@@ -200,7 +202,7 @@ Holà, Criquet.
 Laissez là votre Criquet, bouvière, et appelez Laquais.
 
     ANDRÉE
-Laquais donc, et non pas Criquet, venez parler à Madame. Je pense qu'il est sourd, Criq... Laquais, Laquais.
+Laquais donc, et non pas Criquet, venez parler à Madame. Je pense qu'il est sourd, Criq… Laquais, Laquais.
 
     CRIQUET
 Plaît-il ?
@@ -218,22 +220,22 @@ Et pourquoi dans la rue ?
 Vous m'avez dit d'aller là-dehors.
 
     LA COMTESSE
-Vous êtes un petit impertinent, mon ami, et vous devez savoir que là-dehors, en termes de personnes de qualité, veut dire l'antichambre. Andrée, ayez soin tantôt de faire donner le fouet à ce petit fripon-là, par mon Écuyer; c'est un petit incorrigible.
+Vous êtes un petit impertinent, mon ami, et vous devez savoir que là-dehors, en termes de personnes de qualité, veut dire l'antichambre. Andrée, ayez soin tantôt de faire donner le fouet à ce petit fripon-là, par mon Écuyer ; c'est un petit incorrigible.
 
     ANDRÉE
-Qu'est-ce que c'est, Madame, que votre Écuyer ? Est-ce maître Charles que vous appelez comme cela ?
+Qu'est-ce que c'est, Madame, que votre Écuyer ? est-ce maître Charles que vous appelez comme cela ?
 
     LA COMTESSE
-Taisez-vous, sotte que vous êtes, vous ne sauriez ouvrir la bouche que vous ne disiez une impertinence. Des sièges; et vous, allumez deux bougies dans mes flambeaux d'argent, il se fait déjà tard. Qu'est-ce que c'est donc que vous me regardez toute effarée ?
+Taisez-vous, sotte que vous êtes, vous ne sauriez ouvrir la bouche que vous ne disiez une impertinence. Des sièges ; et vous, allumez deux bougies dans mes flambeaux d'argent, il se fait déjà tard. Qu'est-ce que c'est donc que vous me regardez toute effarée ?
 
     ANDRÉE
-Madame...
+Madame…
 
     LA COMTESSE
-Hé bien, Madame. Qu'y a-t-il ?
+Hé bien, *Madame*. Qu'y a-t-il ?
 
     ANDRÉE
-C'est que...
+C'est que…
 
     LA COMTESSE
 Quoi ?
@@ -254,7 +256,7 @@ La bouvière. Et où est donc la cire que je fis acheter ces jours passés ?
 Je n'en ai point vu depuis que je suis céans.
 
     LA COMTESSE
-Ôtez-vous de là, insolente, je vous renvoyerai chez vos parents. Apportez-moi un verre d'eau. Madame,
+Ôtez-vous de là, insolente, je vous renvoyerai chez vos parents. Apportez-moi un verre d'eau. Madame
 faisant des cérémonies pour s'asseoir.
 
 
@@ -324,16 +326,18 @@ Apprenez que c'est une assiette, sur laquelle on met le verre. Vive Paris pour �
     ANDRÉE
 Cela est bien aisé.
 
-    LA COMTESSE *Andrée casse le verre.*
+    LA COMTESSE
+Andrée casse le verre.
+
 Hé bien ne voilà pas l'étourdie ? En vérité vous me paierez mon verre.
 
     ANDRÉE
 Hé bien oui, Madame, je le paierai.
 
     LA COMTESSE
-Mais voyez cette maladroite, cette bouvière, cette butorde, cette...
+Mais voyez cette maladroite, cette bouvière, cette butorde, cette…
 
-    ANDRÉE, S*'*EN ALLANT
+    ANDRÉE, *s'en allant*
 Dame, Madame, si je le paye, je ne veux point être querellée.
 
     LA COMTESSE
@@ -355,7 +359,7 @@ Ils sont insupportables, avec les impertinentes égalités dont ils traitent les
 On sait bien mieux vivre à Paris dans ces Hôtels, dont la mémoire doit être si chère. Cet Hôtel de Mouhy, Madame, cet Hôtel de Lyon, cet Hôtel de Hollande. Les agréables demeures que voilà !
 
     LA COMTESSE
-Il est vrai qu'il y a bien de la différence de ces lieux-là, à tout ceci. On y voit venir du beau monde, qui ne marchande point à vous rendre tous les respects qu'on saurait souhaiter. On ne s'en lève pas, si l'on veut, de dessus son siège ; et lorsque l'on veut voir la revue, ou le grand Ballet de Psyché, on est servie à point nommé.
+Il est vrai qu'il y a bien de la différence de ces lieux-là, à tout ceci. On y voit venir du beau monde, qui ne marchande point à vous rendre tous les respects qu'on saurait souhaiter. On ne s'en lève pas, si l'on veut, de dessus son siège ; et lorsque l'on veut voir la revue, ou le grand Ballet de *Psyché*, on est servie à point nommé.
 
     JULIE
 Je pense, Madame, que durant votre séjour à Paris, vous avez fait bien des conquêtes de qualité.
@@ -374,14 +378,14 @@ Je vous avoue, Madame, qu'il y a merveilleusement à profiter de tout ce que vou
 
 
 ## Scène III
-CRIQUET, LA COMTESSE, JULIE, ANDRÉE, JEANNOT.
+CRIQUET, LA COMTESSE, JULIE, ANDRÉE, JEANNOT
 
 
     CRIQUET
 Voilà Jeannot de Monsieur le Conseiller qui vous demande, Madame.
 
     LA COMTESSE
-Hé bien petit coquin, voilà encore de vos âneries; un Laquais qui saurait vivre, aurait été parler tout bas à la Demoiselle suivante, qui serait venue dire doucement à l'oreille de sa Maîtresse : Madame, voilà le laquais de Monsieur un tel, qui demande à vous dire un mot, à quoi la Maîtresse aurait répondu, *f*aites-le entrer.
+Hé bien petit coquin, voilà encore de vos âneries, un Laquais qui saurait vivre, aurait été parler tout bas à la Demoiselle suivante, qui serait venue dire doucement à l'oreille de sa Maîtresse : *Madame, voilà le Laquais de Monsieur un tel, qui demande à vous dire un mot*, à quoi la Maîtresse aurait répondu, *faites-le entrer*.
 
     CRIQUET
 Entrez, Jeannot.
@@ -390,10 +394,10 @@ Entrez, Jeannot.
 Autre lourderie. Qu'y a-t-il, Laquais ? Que portes-tu là ?
 
     JEANNOT
-C'est Monsieur le Conseiller, Madame, qui vous souhaite le bon jour; et auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d'écrit.
+C'est Monsieur le Conseiller, Madame, qui vous souhaite le bon jour ; et auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d'écrit.
 
     LA COMTESSE
-C'est du bonchrétien, qui est fort beau. Andrée, faites porter cela à l'office. Tiens mon enfant, voilà pour boire.
+C'est du bon-chrétien, qui est fort beau. Andrée, faites porter cela à l'office. Tiens mon enfant, voilà pour boire.
 
     JEANNOT
 Oh non, Madame.
@@ -433,7 +437,7 @@ Ce qui me plaît de ce Monsieur Tibaudier, c'est qu'il sait vivre avec les perso
 
 
 ## Scène IV
-LE VICOMTE, LA COMTESSE, JULIE, CRIQUET, ANDRÉE.
+LE VICOMTE, LA COMTESSE, JULIE, CRIQUET, ANDRÉE
 
 
     LE VICOMTE
@@ -452,14 +456,14 @@ Laquais, un siège. Vous voilà venu à propos pour recevoir un petit sacrifice 
 Voici un billet du beau style, Madame, et qui mérite d'être bien écouté.
 Il lit.
 
-Madame, je n*'*aurais pas pu vous faire le présent que je vous envoie, si je ne recueillais pas plus de fruit de mon *J*ardin, que j*'*en recueille de mon amour.
+Madame, je n'aurais pas pu vous faire le présent que je vous envoie, si je ne recueillais pas plus de fruit de mon Jardin, que j'en recueille de mon amour.
 
     LA COMTESSE
 Cela vous marque clairement qu'il ne se passe rien entre nous.
 
-    LE VICOMTE CONTINUE
-Les poires ne sont pas encore bien mûres, mais elles en cadrent mieux, avec la dureté de votre âme, qui par ses continuels dédains, ne me promet pas poires molles. Trouvez bon, Madame, que sans m*'*engager dans une énumération de vos perfections, et charmes, qui me jetterait dans un progrès à l*'*infini, je conclue ce mot, en vous faisant considérer que je suis d*'*un aussi franc *C*hrétien, que les poires que je vous envoie, puisque je rends le bien pour le mal, c*'*est-à-dire, Madame, pour m*'*expliquer plus intelligiblement, puisque je vous présente des poires de bon-chrétien, pour des poires d*'*angoisse, que vos cruautés me font avaler tous les jours.
-*TIBAUDIER*, votre *E*sclave indigne.
+    LE VICOMTE *continue*
+Les poires ne sont pas encore bien mûres, mais elles en cadrent mieux, avec la dureté de votre âme, qui par ses continuels dédains, ne me promet pas poires molles. Trouvez bon, Madame, que sans m'engager dans une énumération de vos perfections, et charmes, qui me jetterait dans un progrès à l'infini, je conclue ce mot, en vous faisant considérer que je suis d'un aussi franc Chrétien, que les poires que je vous envoie, puisque je rends le bien pour le mal, c'est-à-dire, Madame, pour m'expliquer plus intelligiblement, puisque je vous présente des poires de bon chrétien, pour des poires d'angoisse, que vos cruautés me font avaler tous les jours.
+TIBAUDIER, votre Esclave indigne.
 Voilà, Madame, un billet à garder.
 
     LA COMTESSE
@@ -470,11 +474,11 @@ Vous avez raison, Madame, et Monsieur le Vicomte dût-il s'en offenser, j'aimera
 
 
 ## Scène V
-MONSIEUR TIBAUDIER, LE VICOMTE, LA COMTESSE, JULIE, ANDRÉE, CRIQUET.
+MONSIEUR TIBAUDIER, LE VICOMTE, LA COMTESSE, JULIE, ANDRÉE, CRIQUET
 
 
     LA COMTESSE
-Approchez, Monsieur Tibaudier, ne craignez point d'entrer. Votre billet a été bien reçu, aussi bien que vos poires, et voilà Madame qui parle pour vous, contre votre rival.
+Approchez, Monsieur Tibaudier, ne craignez point d'entrer. Votre billet a été bien reçu, aussi bien que vos poires, et voilà Madame qui parle pour vous, contre votre Rival.
 
     MONSIEUR TIBAUDIER
 Je lui suis bien obligé, Madame, et si elle a jamais quelque procès en notre Siège, elle verra que je n'oublierai pas l'honneur qu'elle me fait, de se rendre auprès de vos beautés l'Avocat de ma flamme.
@@ -492,24 +496,25 @@ J'espérais quelque chose, Monsieur Tibaudier, avant votre billet, mais il me fa
 Voici encore, Madame, deux petits Versets, ou couplets, que j'ai composés à votre honneur et gloire.
 
     LE VICOMTE
-Ah ! je ne pensais pas que Monsieur Tibaudier fût Poète, et voilà pour m'achever, que ces deux petits versets-là.
+Ah ! je ne pensais pas que Monsieur Tibaudier fût Poète, et voilà pour m'achever, que ces deux petits Versets-là.
 
     LA COMTESSE
 Il veut dire deux Strophes. Laquais, donnez un siège à Monsieur Tibaudier. Un pliant, petit animal. Monsieur Tibaudier, mettez-vous là, et nous lisez vos strophes.
 
     MONSIEUR TIBAUDIER
+
 Une personne de qualité  
 Ravit mon âme,  
 Elle a de la beauté,  
-J*'*ai de la flamme ;  
+J'ai de la flamme ;  
 Mais je la blâme  
-D*'*avoir de la fierté.  
+D'avoir de la fierté.  
 
     LE VICOMTE
 Je suis perdu après cela.
 
     LA COMTESSE
-Le premier Vers est beau, Une personne de qualité.
+Le premier Vers est beau, *Une personne de qualité*.
 
     JULIE
 Je crois qu'il est un peu trop long, mais on peut prendre une licence pour dire une belle pensée.
@@ -518,15 +523,16 @@ Je crois qu'il est un peu trop long, mais on peut prendre une licence pour dire 
 Voyons l'autre strophe.
 
     MONSIEUR TIBAUDIER
+
 Je ne sais pas si vous doutez de mon parfait amour ;  
 Mais je sais bien que mon cœur à toute heure  
 Veut quitter sa chagrine demeure,  
-Pour aller par respect faire au vôtre sa *C*our :  
+Pour aller par respect faire au vôtre sa Cour :  
 Après cela pourtant, sûre de ma tendresse,  
-Et de ma foi, dont unique est l*'*espèce,  
+Et de ma foi, dont unique est l'espèce,  
 Vous devriez à votre tour  
-Vous contentant *d'être Comtesse*,  
-Vous dépouiller en ma faveur, d*'*une peau de tigresse,  
+Vous contentant d'être Comtesse,  
+Vous dépouiller en ma faveur, d'une peau de tigresse,  
 Qui couvre vos appas, la nuit comme le jour.  
 
     LE VICOMTE
@@ -542,7 +548,7 @@ Comment, Madame, me moquer ? Quoique son Rival, je trouve ces Vers admirables, 
 Quoi, Martial fait-il des Vers, je pensais qu'il ne fît que des gants ?
 
     MONSIEUR TIBAUDIER
-Ce n'est pas ce Martial-là, Madame, c'est un Auteur qui vivait il y a trente ou quarante ans.
+Ce n'est pas ce Martial-là, Madame, c'est un Auteur qui vivait il y a trente, ou quarante ans.
 
     LE VICOMTE
 Monsieur Tibaudier a lu les Auteurs, comme vous le voyez. Mais allons voir, Madame, si ma Musique et ma Comédie, avec mes entrées de Ballet, pourront combattre dans votre esprit les progrès des deux Strophes, et du billet que nous venons de voir.
@@ -552,14 +558,14 @@ Il faut que mon Fils le Comte soit de la partie, car il est arrivé ce matin de 
 
 
 ## Scène VI
-MONSIEUR BOBINET, MONSIEUR TIBAUDIER, LA COMTESSE, LE VICOMTE, JULIE, ANDRÉE, CRIQUET.
+MONSIEUR BOBINET, MONSIEUR TIBAUDIER, LA COMTESSE, LE VICOMTE, JULIE, ANDRÉE, CRIQUET
 
 
     LA COMTESSE
 Holà, Monsieur Bobinet, Monsieur Bobinet, approchez-vous du monde.
 
     MONSIEUR BOBINET
-Je donne le bon Vêpres, à toute l'honorable compagnie. Que désire Madame la comtesse d'Escarbagnas, de son très humble Serviteur Bobinet ?
+Je donne le bon Vêpres à toute l'honorable compagnie. Que désire Madame la Comtesse d'Escarbagnas, de son très humble Serviteur Bobinet ?
 
     LA COMTESSE
 À quelle heure, Monsieur Bobinet, êtes-vous parti d'Escarbagnas, avec mon Fils le Comte ?
@@ -596,14 +602,14 @@ Ce Monsieur Bobinet, Madame, a la mine fort sage, et je crois qu'il a de l'espri
 
 
 ## Scène VII
-LA COMTESSE, LE VICOMTE, JULIE, LE COMTE, MONSIEUR BOBINET, MONSIEUR TIBAUDIER, ANDRÉE, CRIQUET.
+LA COMTESSE, LE VICOMTE, JULIE, LE COMTE, MONSIEUR BOBINET, MONSIEUR TIBAUDIER, ANDRÉE, CRIQUET
 
 
     MONSIEUR BOBINET
 Allons, Monsieur le Comte, faites voir que vous profitez des bons documents qu'on vous donne. La révérence à toute l'honnête assemblée.
 
     LA COMTESSE
-Comte, saluez Madame. Faites la révérence à Monsieur le Vicomte. Saluez Monsieur le Conseiller.
+Comte, saluez Madame. Faites la révérence à Monsieur le Vicomte, saluez Monsieur le Conseiller.
 
     MONSIEUR TIBAUDIER
 Je suis ravi, Madame, que vous me concédiez la grâce d'embrasser Monsieur le Comte votre Fils. On ne peut pas aimer le tronc, qu'on n'aime aussi les branches.
@@ -639,8 +645,7 @@ Monsieur Bobinet, faites-lui un peu dire quelque petite galanterie de ce que vou
 Allons, Monsieur le Comte, récitez votre leçon d'hier au matin.
 
     LE COMTE
-Omne viro soli quod convenit esto virile.  
-Omne viri...  
+Omne viro soli quod convenit esto virile. Omne viri…
 
     LA COMTESSE
 Fi, Monsieur Bobinet, quelles sottises est-ce que vous lui apprenez là ?
@@ -664,19 +669,19 @@ Les Comédiens envoient dire qu'ils sont tout prêts.
 Allons nous placer. Monsieur Tibaudier, prenez Madame.
 
     LE VICOMTE
-Il est nécessaire de dire, que cette Comédie n'a été faite que pour lier ensemble les différents morceaux de Musique, et de danse, dont on a voulu composer ce divertissement, et que...
+Il est nécessaire de dire, que cette Comédie n'a été faite que pour lier ensemble les différents morceaux de Musique, et de danse, dont on a voulu composer ce divertissement, et que…
 
     LA COMTESSE
 Mon Dieu voyons l'affaire, on a assez d'esprit pour comprendre les choses.
 
     LE VICOMTE
 Qu'on commence le plus tôt qu'on pourra, et qu'on empêche, s'il se peut, qu'aucun fâcheux ne vienne troubler notre divertissement.
-Après que les Violons ont quelque peu joue, et que toute la Compagnie est assise.
+Après que les Violons ont quelque peu joué, et que toute la Compagnie est assise.
 
 
 
 ## Scène VIII
-LA COMTESSE, LE COMTE, LE VICOMTE, JULIE, MONSIEUR HARPIN, MONSIEUR TIBAUDIER, aux pieds de la Comtesse, MONSIEUR BOBINET, ANDRÉE.
+LA COMTESSE, LE COMTE, LE VICOMTE, JULIE, MONSIEUR HARPIN, MONSIEUR TIBAUDIER, *aux pieds de la Comtesse*, MONSIEUR BOBINET, ANDRÉE
 
 
     MONSIEUR HARPIN
@@ -698,7 +703,7 @@ Eh têtebleu la véritable Comédie qui se fait ici, c'est celle que vous jouez,
 En vérité vous ne savez ce que vous dites.
 
     MONSIEUR HARPIN
-Si fait morbleu je le sais bien, je le sais bien, morbleu, et...
+Si fait morbleu je le sais bien, je le sais bien, morbleu, et…
 
     LA COMTESSE
 Eh fi, Monsieur, que cela est vilain de jurer de la sorte.
@@ -707,7 +712,7 @@ Eh fi, Monsieur, que cela est vilain de jurer de la sorte.
 Eh ventrebleu, s'il y a ici quelque chose de vilain, ce ne sont point mes jurements, ce sont vos actions, et il vaudrait bien mieux que vous jurassiez, vous, la tête, la mort et la sang, que de faire ce que vous faites avec Monsieur le Vicomte.
 
     LE VICOMTE
-Je ne sais pas, Monsieur le Receveur, de quoi vous vous plaignez, et si...
+Je ne sais pas, Monsieur le Receveur, de quoi vous vous plaignez, et si…
 
     MONSIEUR HARPIN
 Pour vous, Monsieur, je n'ai rien à vous dire, vous faites bien de pousser votre pointe, cela est naturel, je ne le trouve point étrange, et je vous demande pardon si j'interromps votre Comédie ; mais vous ne devez point trouver étrange aussi que je me plaigne de son procédé, et nous avons raison tous deux de faire ce que nous faisons.
@@ -728,7 +733,7 @@ Oui. L'on ne vient point crier de dessus un Théâtre, ce qui se doit dire en pa
 J'y viens moi morbleu tout exprès, c'est le lieu qu'il me faut, et je souhaiterais que ce fût un Théâtre public, pour vous dire avec plus d'éclat toutes vos vérités.
 
     LA COMTESSE
-Faut-il faire un si grand vacarme pour une Comédie, que Monsieur le Vicomte me donne ? Vous voyez que Monsieur Tibaudier qui m'aime en use plus respectueusement que vous.
+Faut-il faire un si grand vacarme pour une Comédie, que Monsieur le Vicomte me donne ? vous voyez que Monsieur Tibaudier qui m'aime en use plus respectueusement que vous.
 
     MONSIEUR HARPIN
 Monsieur Tibaudier en use comme il lui plaît, je ne sais pas de quelle façon Monsieur Tibaudier a été avec vous, mais Monsieur Tibaudier n'est pas un exemple pour moi, et je ne suis point d'humeur à payer les Violons pour faire danser les autres.
@@ -740,13 +745,13 @@ Mais vraiment, Monsieur le Receveur, vous ne songez pas à ce que vous dites, on
 Hé ventrebleu, Madame, quittons la faribole.
 
     LA COMTESSE
-Que voulez-vous donc dire, avec votre quittons la faribole ?
+Que voulez-vous donc dire, avec votre *quittons la faribole* ?
 
     MONSIEUR HARPIN
-Je veux dire, que je ne trouve point étrange que vous vous rendiez au mérite de Monsieur le Vicomte, vous n'êtes pas la première Femme qui joue dans le monde de ces sortes de caractères, et qui ait auprès d'elle un Monsieur le Receveur, dont on lui voit trahir, et la passion, et la bourse pour le premier venu qui lui donnera dans la vue ; mais ne trouvez point étrange aussi que je ne sois point la dupe d'une infidélité si ordinaire aux coquettes du temps, et que je vienne vous assurer devant bonne compagnie, que je romps commerce avec vous, et que Monsieur le Receveur ne sera plus pour vous Monsieur le Donneur.
+Je veux dire, que je ne trouve point étrange que vous vous rendiez au mérite de Monsieur le Vicomte, vous n'êtes pas la première Femme qui joue dans le monde de ces sortes de caractères, et qui ait auprès d'elle un Monsieur le Receveur, dont on lui voit trahir, et la passion, et la bourse pour le premier venu qui lui donnera dans la vue ; mais ne trouvez point étrange aussi que je ne sois point la dupe d'une infidélité si ordinaire aux coquettes du temps, et que je vienne vous assurer devant bonne compagnie, que je romps commerce avec vous, et que Monsieur le Receveur ne sera plus pour vous Monsieur le donneur.
 
     LA COMTESSE
-Cela est merveilleux, comme les Amants emportés deviennent à la mode; on ne voit autre chose de tous côtés. Là, là, Monsieur le Receveur, quittez votre colère, et venez prendre place pour voir la comédie.
+Cela est merveilleux, comme les Amants emportés deviennent à la mode ; on ne voit autre chose de tous côtés. Là, là, Monsieur le Receveur, quittez votre colère, et venez prendre place pour voir la Comédie.
 
     MONSIEUR HARPIN
 Moi, morbleu, prendre place, cherchez vos benêts à vos pieds. Je vous laisse, Madame la Comtesse, à Monsieur le Vicomte, et ce sera à lui que j'enverrai tantôt vos lettres. Voilà ma Scène faite, voilà mon rôle joué. Serviteur à la compagnie.
@@ -765,19 +770,18 @@ Les jaloux, Madame, sont comme ceux qui perdent leur procès, ils ont permission
 
 
 ## Scène Dernière
-LA COMTESSE, LE VICOMTE, JULIE, MONSIEUR TIBAUDIER, MONSIEUR BOBINET, ANDRÉE, JEANNOT, CRIQUET.
-
-JEANNOT.
+LA COMTESSE, LE VICOMTE, JULIE, MONSIEUR TIBAUDIER, MONSIEUR BOBINET, ANDRÉE, JEANNOT, CRIQUET
 
 
+    JEANNOT
 Voilà un billet, Monsieur, qu'on nous a dit de vous donner vite.
 
-    LE VICOMTE LIT 
-En cas que vous ayez quelque mesure à prendre, je vous envoie promptement un avis. La querelle de vos *P*arents et de ceux de Julie, vient d*'*être accommodée, et les conditions de cet accord, c*'*est le mariage de vous, et d*'*elle. Bonsoir.
+    LE VICOMTE *lit*
+En cas que vous ayez quelque mesure à prendre, je vous envoie promptement un avis. La querelle de vos Parents et de ceux de Julie, vient d'être accommodée, et les conditions de cet accord, c'est le Mariage de vous, et d'elle. Bonsoir.
 Ma foi, Madame, voilà notre Comédie achevée aussi.
 
     JULIE
-Ah ! Cléante quel bonheur ! Notre amour eût-il osé espérer un si heureux succès ?
+Ah ! Cléante quel bonheur ! notre amour eût-il osé espérer un si heureux succès ?
 
     LA COMTESSE
 Comment donc, qu'est-ce que cela veut dire ?
@@ -799,22 +803,3 @@ Ce m'est bien de l'honneur, Madame.
 
     LE VICOMTE
 Souffrez, Madame, qu'en enrageant, nous puissions voir ici le reste du spectacle.
-    < BOUTS-RIMÉS COMMANDÉSsur le bel Air. >
-
-Que vous m'embarrassez avec votre ----- ----grenouille,  
-Qui traîne `a ses talons le doux mot d' ---------hypocras,  
-Je hais des bouts-rimés le puéril ----------------fatras,  
-Et tiens qu'il vaudrait mieux filer une --------- quenouille.  
-
-La gloire du bel air n'a rien qui me ------ -- ----chatouille  
-Vous m'assommez l'esprit avec un gros ------ platras,  
-Et je tiens heureux ceux qui sont morts à ----- Coutras,  
-Voyant tout le papier qu'en sonnets on -------- barbouille,  
-
-M'accable derechef la haine du ----------------- cagot,  
-Plus méchant mille fois, que n'est un vieux -- magot,  
-Plutôt qu'un bout-rimé me fasse entrer en ---- danse.  
-
-Je vous en chante, clair, comme un ----------- chardonneret,  
-Au bout de l'Univers je suis dans une -------- manse,  
-Adieu, grand Prince, adieu, tenez-vous ------- guilleret.  < FIN >

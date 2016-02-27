@@ -1419,8 +1419,6 @@ La Scene est à Messine dans le Palais Royal [76].
 
 ## ACTE I
 
-FEDERIC. TRAGICOMEDIE
-
 
 ### SCENE PREMIERE
 MARCELLIN, LE ROY
@@ -1467,7 +1465,7 @@ Un lâche usurpateur, un imposteur, un traistre [82] ?
 Ah! Seigneur.  
 
     LE ROY
-Je suis tel, si je me fais connaistre.  
+        Je suis tel, si je me fais connaistre.  
 
     MARCELLIN
 Expliquez vous, Seigneur, parlez plus clairement.  
@@ -1503,7 +1501,7 @@ Tousjours Femme malgré tous ces déguisemens.
 Ciel! que me dites-vous ?  
 
     LE ROY
-L'horreur d'une injustice  
+        L'horreur d'une injustice  
 Força le Roy mon Pere à ce grand artifice,  
 Craignant qu'apres sa mort le Prince d'Arragon,  
 L'eternel ennemy de toute sa Maison,  
@@ -1580,7 +1578,7 @@ LE ROY, CAMILLE, MARCELLIN, FLORISE
 
 
     LE  ROY  *continuë.*
-Pardonnez, grande Reyne,  
+        Pardonnez, grande Reyne,  
 Si je m'acquite mal de ce que je vous doy ;  
 Imputez ces delais aux soins⁎ d'un nouveau Roy.  
 
@@ -1787,14 +1785,14 @@ De Camille, et de vous, nous reglerons le sort.
 Haste donc ce beau jour, et sçache …  
 
     FEDERIC
-Quoy, Madame.  
+        Quoy, Madame.  
 Quel trouble …  
 
     LE  ROY.
-Ignore encor le secret de mon ame.  
+    Ignore encor le secret de mon ame.  
 
     FEDERIC
-Quel secret!  
+        Quel secret!  
 
     LE  ROY *bas*.
 Ah!Valere.Adieu ; mais souviens-toy,  
@@ -1838,7 +1836,7 @@ FEDERIC, VALERE, FABRICE
 Approchez, mes enfans.  
 
     VALERE
-Ah! Seigneur, que de gloire  
+        Ah! Seigneur, que de gloire  
 Vous appreste l'espoir d'une grande victoire,  
 Quand vous vous disposez d'un effort glorieux  
 D'aller rendre Camille au rang de ses Ayeux.  
@@ -1917,7 +1915,7 @@ Je voy que de ce choix vostre ame est alarmée⁎,
 Valere.  
 
     VALERE
-Quoy, Seigneur, par quel sort aujourd'huy  
+        Quoy, Seigneur, par quel sort aujourd'huy  
 L'honneur de cet employ tombera-t'il sur luy ?  
 Luy seul merite-t'il toute vostre tendresse ?  
 Ou bien ce foible amour dont on flate⁎ l'aisnesse  
@@ -2013,7 +2011,7 @@ Et pour tout dire enfin, fait un Roy de sa Fille.
 Ciel! que m'apprenez-vous ?  
 
     FEDERIC
-Un secret étonnant⁎;  
+        Un secret étonnant⁎;  
 Mais voy combien mon sort est rare et surprenant.  
 La Princesse voulant changer son avanture,  
 Comme j'avois aidé moy-mesme à l'imposture,  
@@ -2024,13 +2022,13 @@ Pour un Trône sans Roy, du seul sang de nos Roys.
 Ce dessein est hardy.  
 
     FEDERIC
-C'est l'Amour qui m'en presse.  
+        C'est l'Amour qui m'en presse.  
 
     OCTAVE
 L'Amour!  
 
     FEDERIC
-Ce sentiment sied mal à ma vieillesse :  
+        Ce sentiment sied mal à ma vieillesse :  
 Mais aussi que sçait-on si cette passion,  
 Qui me semble l'Amour, n'est point l'ambition.  
 Le Trône jusqu'icy n'a point touché mon ame ;  
@@ -2064,7 +2062,7 @@ CAMILLE, FEDERIC, FLORISE
 
 
     CAMILLE
-Hé bien, enfin le Roy  
+        Hé bien, enfin le Roy  
 Va-t'il presser pour moy cette grande victoire ?  
 
     FEDERIC
@@ -2147,10 +2145,10 @@ Pour Fabrice, il m'adore, et j'attens tout de luy.
 Quoy, Fabrice vous aime ?  
 
     CAMILLE
-Oüy, sa flame est extréme.  
+    Oüy, sa flame est extréme.  
 
     FLORISE
-Qui vous l'a dit ?  
+        Qui vous l'a dit ?  
 
     CAMILLE
 Ses yeux m'ont dit cent fois qu'il m'aime.  
@@ -2292,7 +2290,7 @@ VALERE, FABRICE
 
 
     VALERE
-A ce beau mouvement  
+        A ce beau mouvement  
 Je reconnois l'espoir d'un bienheureux Amant⁎.  
 D'où vient ce beau transport qui dans vos yeux éclate ?  
 
@@ -2313,7 +2311,7 @@ Vous pretendez sans doute un plus grand avantage [114].
 Moy, je ne prétens rien.  
 
     VALERE.
-Vous faites le discret ;  
+        Vous faites le discret ;  
 Et sous cet air modeste on triomphe en secret.  
 
     FABRICE
@@ -2417,7 +2415,7 @@ LE ROY, VALERE, FABRICE, MARCELLIN
 
 
     LE  ROY
-Quels differens s'agitent entre vous ?  
+        Quels differens s'agitent entre vous ?  
 
     VALERE
 Fabrice transporté d'un aveugle courroux,  
@@ -2432,7 +2430,7 @@ Vous permet de manquer de respect à Valere,
 Considerez son rang, sa gloire, et son appuy.  
 Mais quel ressentiment vous aigrit contre luy ?  
 
-    FABRICE 
+    FABRICE
 Seigneur, je reconnois le bonheur de Valere.  
 Mais quand j'ay vostre aveu⁎, quand j'ay celuy d'un Pere,  
 Est-ce avec ce secours manquer à mon devoir,  
@@ -2472,7 +2470,7 @@ Laisser à mon esprit échaper tant d'honneur ?
 Seigneur, est-ce m'aimer ?  
 
     LE  ROY
-Ah! Valere , je t'aime,  
+        Ah! Valere , je t'aime,  
 J'en atteste le Ciel beaucoup plus que moy-méme.  
 Veux-tu quitter un Roy qui t'a mis dans son cœur ?  
 Luy qui t'a revestu de toute sa faveur,  
@@ -2520,7 +2518,7 @@ Fabrice, c'est à vous que je rens cet espoir.
 Ah! Seigneur.  
 
     LE  ROY
-C'est assez. Vous cessez de me voir,  
+        C'est assez. Vous cessez de me voir,  
 Je ne veux plus rougir de vostre ingratitude.  
 
 
@@ -2541,7 +2539,7 @@ Que ne se resout-il à faire son devoir ?
 Madame, est-ce y manquer, quand son grand cœur l'entraine  
 Au glorieux espoir d'acquerir une Reyne ?  
 
-    LE  ROY. 
+    LE  ROY.
 Je souffre à ce grand cœur le desir de regner ;  
 Mais ce cœur à l'Amour se peut laisser gagner ;  
 Il peut aimer Camille, et souffrir dans son ame,  
@@ -2556,7 +2554,7 @@ Moy, que j'aille à ses yeux trahir vostre secret ?
 Hazardez⁎ vostre rang.  
 
     LE  ROY 
-Non, Valere est discret.  
+        Non, Valere est discret.  
 
     MARCELLIN
 Mais enfin ce secret peut sortir de son ame.  
@@ -2602,7 +2600,7 @@ FEDERIC, MARCELLIN
 Que me dis-tu ?  
 
     MARCELLIN
-Seigneur, c'est Valere qu'elle aime.  
+        Seigneur, c'est Valere qu'elle aime.  
 
     FEDERIC
 Son extréme couroux marque une amour [122] extréme.  
@@ -2643,7 +2641,7 @@ Mais d'un air qui pourra l'obliger à se taire.
 Mais Seigneur …  
 
     FEDERIC
-C'est assez ; dis luy que cet amour  
+        C'est assez ; dis luy que cet amour  
 Bien-tost aux yeux de tous pourra paroistre au jour ;  
 Et qu'elle oppose enfin à tant d'impatience  
 Le péril où sa flame expose sa puissance.  
@@ -2686,14 +2684,14 @@ FEDERIC, OCTAVE
 Octave, sçais tu bien …  
 
     OCTAVE
-Quoy, Seigneur  
+    Quoy, Seigneur  
 
     FEDERIC
-Qu'un moment  
+        Qu'un moment  
 Renverse mon espoir.  
 
     OCTAVE
-D'où vient ce changement ?  
+        D'où vient ce changement ?  
 
     FEDERIC
 La Princesse a conceu de l'amour pour Valere.  
@@ -2869,7 +2867,7 @@ Federic m'a promis d'en éclaircir Valere.
 Ah! Seigneur, se peut-il …  
 
     LE  ROY
-Excuse ma colere,  
+        Excuse ma colere,  
 J'ay crû que satisfait de toute ma faveur,  
 Tu devois renoncer à tout autre bonheur :  
 Mais je connoissois mal le destin de Valere,  
@@ -2919,7 +2917,7 @@ Parlez enfin, parlez ; expliquez-vous, Valere.
 Mais, Seigneur …  
 
     LE  ROY
-Ah! c'est trop se contraindre tous deux,  
+        Ah! c'est trop se contraindre tous deux,  
 Vous sçavez qui je suis, et je connois vos vœux.  
 
     VALERE
@@ -2934,11 +2932,11 @@ Dois-je croire mon Pere, et ma temerité ?
 N'est-ce point me flater⁎ d'un espoir inutile,  
 De pretendre au bonheur d'estre aimé de Camille ?  
 
-    LE  ROY. 
+    LE  ROY.
 Quoy, vous aimez Camille ?  
 
     VALERE
-Oüy, je l'aime, Seigneur.  
+        Oüy, je l'aime, Seigneur.  
 
     LE  ROY
 O d'un espoir trompé trop sensible douleur!  
@@ -2947,7 +2945,7 @@ O d'un espoir trompé trop sensible douleur!
 Seigneur.  
 
     LE  ROY
-Allez, ingrat, indigne de ma grace.  
+        Allez, ingrat, indigne de ma grace.  
 Ambitieux, Amant⁎, vous avez mesme audace.  
 
     VALERE
@@ -2978,7 +2976,7 @@ Pour vous plaire, Seigneur, que faut-il que je fasse ?
     LE  ROY
 Renoncer à Camille, et meriter ma grace.  
 
-    VALERE. 
+    VALERE.
 Aimez-vous la Beauté dont mes yeux sont charmez⁎?  
 
     LE  ROY
@@ -2994,7 +2992,7 @@ Il faut t'ouvrir moy-méme et mon sort et mon cœur.
 Sçache donc que je suis …  
 
     MARCELLIN
-Helas! qu'allez-vous faire ?  
+        Helas! qu'allez-vous faire ?  
 
     LE  ROY *à Valere.*
 Tu ne le sçais que trop ; sors, et fuis ma colere.  
@@ -3003,11 +3001,11 @@ Tu ne le sçais que trop ; sors, et fuis ma colere.
 Seigneur, écoutez moy.  
 
     LE  ROY
-Non, je n'écoute rien.  
+        Non, je n'écoute rien.  
 Laissez-moy.  
 
     VALERE
-Ciel! quel sort est comparable au mien ?  
+        Ciel! quel sort est comparable au mien ?  
 
 
 ### SCENE VII
@@ -3019,7 +3017,7 @@ Voy quel est de mon sort l'injurieux caprice ;
 Ce billet que j'ay crû me rendre un bon office,  
 Authorise Valere à trahir mon espoir.  
 
-    MARCELLIN. 
+    MARCELLIN.
 Pour l'entendre sçait-il tout ce qu'il faut sçavoir ?  
 Peut-estre Federic cache encor ce mystere.  
 
@@ -3095,7 +3093,7 @@ De ne se flater⁎pas d'une indigne victoire :
 Je rougirois pour vous, si Valere aujourd'huy  
 Vous faisoit foiblement descendre jusqu'à luy.  
 
-    CAMILLE. 
+    CAMILLE.
 Vous prenez trop de soins⁎, et leur excés m'étonne⁎;  
 J'ay crû [133] qu'ils se bornoient au bien de ma Couronne  
 Mais à ce que je voy cette nouvelle ardeur  
@@ -3136,7 +3134,7 @@ Mais il est temps enfin qu'elle se fasse voir.
     LE  ROY
 Elle se [134] fera voir trop tost pour vostre gloire.  
 
-    CAMILLE. 
+    CAMILLE.
 Si vous la secondez à m'oster ma victoire,  
 J'ay du moins la douceur de rendre un Roy jaloux.  
 
@@ -3229,7 +3227,7 @@ Mais regnant, au feu Roy vous estes infidelle,
 Il faut que la Princesse …  
 
     FEDERIC
-Et c'est aussi pour elle  
+        Et c'est aussi pour elle  
 Que je songe à regner, et conserver la foy  
 Du serment solemnel qu'il exigea de moy.  
 Loin de vouloir regner par une perfidie,  
@@ -3287,7 +3285,7 @@ FABRICE, CAMILLE, FLORISE
 
 
     FABRICE
-Vous voyez, grande Reyne,  
+        Vous voyez, grande Reyne,  
 Un malheureux Amant⁎ tout d'un coup renversé  
 De ce Trône de gloire où vous l'aviez placé.  
 Heureux par vostre aveu⁎, malgré l'espoir d'un Frere,  
@@ -3361,7 +3359,7 @@ Donneront une larme au recit de ma mort.
 Adieu, Madame.  
 
     CAMILLE
-Adieu. Si le Ciel, cher Fabrice,  
+        Adieu. Si le Ciel, cher Fabrice,  
 Exauce tous mes vœux, il vous fera justice.  
 
 
@@ -3438,7 +3436,7 @@ Vous seriez moins aimée, et je serois sans peur.
 Vous ne me dites rien ?  
 
     CAMILLE
-Que pourray-je vous dire ?  
+        Que pourray-je vous dire ?  
 Quand je vois un grand Roy qui brûle et qui soûpire,  
 Il n'est pas malaisé d'expliquer mes desirs,  
 Si j'ose en ma faveur expliquer vos soûpirs.  
@@ -3555,7 +3553,7 @@ Mais si je l'ay flaté⁎ d'un bien imaginaire,
 Je vay le détromper.  
 
     LE  ROY
-Arreste, Marcellin,  
+        Arreste, Marcellin,  
 Je voy bien qu'il faudra se rendre à mon destin [145],  
 Et que j'oppose en vain mon orgueil à ma flame.  
 Je te diray bien plus, je sens déja mon ame  
@@ -3603,7 +3601,7 @@ J'en prens … mais mon respect⁎ me condamne au silence.
 Parlez, parlez, Valere, et me faites sçavoir  
 Si Camille tousjours est vostre unique espoir.  
 
-    VALERE. 
+    VALERE.
 A la faveur d'un Roy je préferois Camille ;  
 Mais quand je vous connois, ce choix est bien facile :  
 Me pardonnerez vous l'ingrate ambition  
@@ -3655,16 +3653,16 @@ LE ROY, OCTAVE, VALERE, MARCELLIN
 Quel est ce trouble, Octave ?  
 
     OCTAVE
-On vient de vous connoistre.  
+        On vient de vous connoistre.  
 
     VALERE
 Ce mal est-il si grand ?  
 
     OCTAVE
-Ah! Seigneur.  
+    Ah! Seigneur.  
 
     LE  ROY
-Qu'est-ce enfin ?  
+        Qu'est-ce enfin ?  
 
     OCTAVE
 Vous cessez de regner en changeant de destin.  
@@ -3673,10 +3671,10 @@ Vous cessez de regner en changeant de destin.
 O Ciel!  
 
     VALERE
-Qu'entens-je ?  
+    Qu'entens-je ?  
 
     OCTAVE
-En vain par faveur, par adresse,  
+        En vain par faveur, par adresse,  
 Federic veut gagner le Peuple, et la Noblesse ;  
 En vain il a vanté le seul sang de nos Rois ;  
 Tout le monde s'attache à la rigueur des Loix.  
@@ -3956,7 +3954,7 @@ C'est de leur politique un grossier artifice,
 Qui pour mettre à couvert de lâches revoltez,  
 Contre vostre pouvoir cherchent ces seuretez.  
 
-    CAMILLE. 
+    CAMILLE.
 Vostre haute vertu⁎ se fait par tout connaistre ;  
 Mais souffrez ( car enfin vous en estes le Maistre)  
 Que puis qu'à vos Estats il faut donner un Roy,  
@@ -3983,7 +3981,7 @@ Quoy, je vous voy tous trois également surpris ?
 Ah! Seigneur, permettez …  
 
     VALERE
-Ne craignez rien, Madame.  
+        Ne craignez rien, Madame.  
 Vous sçavez quel estoit le motif de ma flame ;  
 Apres vos traittemens, dont je suis trop confus,  
 Je sçauray prévenir⁎ la honte d'un refus.  
@@ -3996,11 +3994,11 @@ Dequoy me consoler de toutes ses fiertez.
 Que j'aime son couroux!  
 
     FEDERIC
-Ah! mon Fils. Ah! Madame.  
+        Ah! mon Fils. Ah! Madame.  
 Quel est donc mon espoir ?  
 
     CAMILLE
-Quel soin⁎ trouble vostre ame ?  
+        Quel soin⁎ trouble vostre ame ?  
 Fabrice comme luy n'est-il pas vostre sang ?  
 Seigneur, en sa faveur disposez de mon rang ;  
 Je vois avec plaisir l'ambitieux Valere  
@@ -4038,15 +4036,15 @@ YOLAND, CAMILLE, FEDERIC, VALERE, FABRICE, MARCELLIN, FLORISE
 Me pardonnerez-vous …  
 
     CAMILLE
-Oublions tout, Madame.  
+        Oublions tout, Madame.  
 
-    YOLAND. 
+    YOLAND.
 Vous me voyez encor sous ce déguisement ;  
 Honteuse de souffrir un triste changement,  
 Je me cache à moy-méme …  
 
     FEDERIC
-Excusez, grande Reyne …  
+        Excusez, grande Reyne …  
 
     YOLAND
 Me rendez-vous déja le nom de Souveraine ?  
@@ -4067,7 +4065,7 @@ Je vous connois enfin, Federic, c'est assez.
 Que ne vous dois-je point ?  
 
     VALERE
-Tu triomphes, ma flame.  
+        Tu triomphes, ma flame.  
 
     FEDERIC
 Vous ne me devez rien, connoissez mieux mon ame.  
@@ -4082,10 +4080,10 @@ Ne le rend qu'à l'espoir de regner avec vous.
 O Ciel!  
 
     YOLAND
-Quoy ? Federic.  
+    Quoy ? Federic.  
 
-    FEDERIC. 
-Ne croyez pas, Madame,  
+    FEDERIC.
+        Ne croyez pas, Madame,  
 Que trop ambitieux, j'aspire à vostre flame.  
 Si je l'avois esté, mon rang et mon employ,  
 Depuis que vous regnez, m'auroient pû faire Roy.  
@@ -4186,7 +4184,7 @@ Ah! Roy trop genereux. Ah! trop heureux Valere.
 Ah! Seigneur.  
 
     CAMILLE
-Vous comblez nos souhaits les plus doux.  
+        Vous comblez nos souhaits les plus doux.  
 
     YOLAND
 N'estoit-ce pas assez de regner apres vous ?  
@@ -4216,9 +4214,7 @@ Registré sur le Livre de la Communauté le 16 Mars 1660.
 
 Signé, IOSSE, Syndic.
 
-Achevé d'imprimer pour la première fois
-
-Le 17 Mars 1660.
+*Achevé d'imprimer pour la première fois Le 17 Mars 1660.*
 
 Le dit Charles de Sercy a associé audit Privilege Angustin Courbé aussi Marchand Libraire, pour en iouir ensemblement suivant l'accord fait entr'eux.
 

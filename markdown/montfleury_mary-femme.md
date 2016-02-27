@@ -1,5 +1,5 @@
 ---
-identifier: montfleury_mary  
+identifier: montfleury_mary-femme  
 creator: Montfleury, Antoine Jacob  
 date: 1705  
 title: Le Mary sans femme. Comédie  
@@ -541,37 +541,37 @@ JULIE, CARLOS, MARINE, TOMIRE.
 Ah Carlos !  
 
     CARLOS.
-Ah Julie !  
+    Ah Julie !  
 
     TOMIRE.
-Ah Marine!  
+    Ah Marine!  
 
     MARINE.
-Ah Tomire!  
+        Ah Tomire!  
 
     JULIE.
 Quels ennuis⁎ [202]!  
 
     CARLOS.
-Quels chagrins⁎ !  
+    Quels chagrins⁎ !  
 
     TOMIRE.
-J'en créve⁎ [203].  
+    J'en créve⁎ [203].  
 
     MARINE.
-J'en soûpire !  
+        J'en soûpire !  
 
     CARLOS.
 Helas ! que nôtre sort.  
 
     JULIE.
-Helas ! que nos malheurs !  
+        Helas ! que nos malheurs !  
 
     CARLOS.
 Me va causer d'ennuis⁎ !  
 
     JULIE.
-Me vont coûter de pleurs !  
+        Me vont coûter de pleurs !  
 
     CARLOS.
 Si vous pouviez sçavoir, Julie, à quoy m'expose⁎  
@@ -607,7 +607,7 @@ Que fuïr ses Ennemis est le premier devoir,
 Et ses conseils…  
 
     MARINE.
-Allons, mettons tout sur Marine,  
+        Allons, mettons tout sur Marine,  
 Voyons, qu'ay-je tant fait ? ça⁎ que je m'examine⁎,  
 Je vous voyois tous deux desesperez, mourans,  
 L'un enrageoit⁎ dehors⁎, l'autre pestoit⁎ dedans⁎,  
@@ -673,11 +673,11 @@ Pour moy je ne sçaurois perdre encor l'esperance⁎
 De revoir mon Païs.  
 
     JULIE.
-Et sur quelle assurance⁎ ?  
+        Et sur quelle assurance⁎ ?  
 Sur quoy ?  
 
     MARINE.
-Je ne sçaurois croire que vôtre Epoux,  
+        Je ne sçaurois croire que vôtre Epoux,  
 Ou vôtre Mere n'ait quelque pitié de vous,  
 Vôtre Mere vous aime, & je me persuade  
 Que vôtre digne Epoux D. Brusquin d'Alvarade,  
@@ -699,7 +699,7 @@ Il trouveroit moyen⁎ de le faire tenir⁎.
 L'as-tu fait !  
 
     MARINE.
-La réponce en [232] est prête à venir.  
+        La réponce en [232] est prête à venir.  
 
     CARLOS.
 Quel Demon⁎ ennemy du bonheur de ma vie,  
@@ -715,7 +715,7 @@ Ne voulût [234] à la fin quelque jour… que sçait-on
 Ce qu'il auroit voulu [235] ?  
 
     TOMIRE.
-Elle a raison, je pense  
+        Elle a raison, je pense  
 Tenez, ces chiens⁎ de Turcs n'ont point de conscience⁎.  
 
     CARLOS.
@@ -726,14 +726,14 @@ J'esperois par mes soins⁎ [236] finir nôtre Esclavage,
 Mon Oncle…  
 
     MARINE.
-Tout cela n'auroit rien fait pour nous,  
+        Tout cela n'auroit rien fait pour nous,  
 Vôtre Oncle tout au plus n'eût racheté que vous.  
 
     CARLOS.
 Ah !  
 
     TOMIRE.
-Zaïre paroît, cachez-luy vôtre peine.  
+        Zaïre paroît, cachez-luy vôtre peine.  
 
 
 ### SCENE III.
@@ -751,7 +751,7 @@ Son chagrin⁎ se pourroit répandre sur vous deux.
 Je vous en avertis.  
 
     JULIE.
-Nous vous en rendons grace⁎.  
+        Nous vous en rendons grace⁎.  
 
     ZAIRE.
 Elle est depuis huit jours d'un bourru⁎ qui me passe,  
@@ -808,18 +808,18 @@ Mais puis que vous voilà, je vais les avertir.
 Non, demeure.  
 
     ZAIRE.
-Eh ! souffrez que je les avertisse,  
+        Eh ! souffrez que je les avertisse,  
 De grace⁎, & trouvez bon que l'on vous divertisse⁎,  
 Vous avez du chagrin⁎, il ne sert qu'à laidir⁎,  
 Tenez, un petit Air vous va ragaillardir,  
 Laissez-moy faire.  
 
     CELIME.
-Non, avant qu'on les appelle,  
+        Non, avant qu'on les appelle,  
 Je veux t'entretenir⁎, Zaire.  
 
     ZAIRE *à part.*
-Que veut-elle ?  
+        Que veut-elle ?  
 
     CELIME.
 Tu vois icy Julie, & Carlos tous les jours,  
@@ -844,7 +844,7 @@ Sans doute, ils s'aiment ; mais quand leurs douleurs s'appaisent,
 A quoy s'occuppent-ils ? que font-ils ?  
 
     ZAIRE.
-Ils se taisent,  
+        Ils se taisent,  
 Jusqu'à vôtre réveil ils sont en cet état⁎,  
 Non jamais entretien⁎ [247] de gens ne fut si plat,  
 Et je ne croirois point, sans le [248] voir d'ordinaire,  
@@ -879,7 +879,7 @@ De ce qu'en ces climats l'Amour met en usage,
 Madame [251].  
 
     CELIME.
-Commencez, je vais vous écoutez.  
+        Commencez, je vais vous écoutez.  
 à part.
 
 De ce qu'ils vont chanter, tâchons de profiter.  
@@ -958,7 +958,7 @@ Il faut ou qu'elle attende ou fasse les avances⁎,
 Madame.  
 
     CELIME.
-C'est à dire, en ces transports⁎ [259] si doux,  
+        C'est à dire, en ces transports⁎ [259] si doux,  
 Que si celuy qu'elle aime est d'un rang au dessous,  
 C'est elle qui se doit expliquer⁎ la premiere ?  
 
@@ -966,7 +966,7 @@ C'est elle qui se doit expliquer⁎ la premiere ?
 Oüy.  
 
     CELIME.
-Mais de s'énoncer⁎, comment [260] est la maniere ?  
+        Mais de s'énoncer⁎, comment [260] est la maniere ?  
 
     CARLOS.
 D'abord⁎ [261] par ses regards, truchemens⁎ de son cœur⁎,  
@@ -1038,7 +1038,7 @@ Monsieur aprés cecy vous n'avez qu'à vous pendre.
 Qu'est-ce encore, que viens-tu m'annoncer ?  
 
     TOMIRE.
-Un malheur  
+        Un malheur  
 A se desespérer, à mourir de douleur,  
 Et, comme je vous l'ay déja dit, à se pendre,  
 Et si vous m'en croyez, vous irez sans m'entendre…  
@@ -1050,17 +1050,17 @@ Julie est-elle morte, & le destin⁎ jaloux…
 Non.  
 
     CARLOS.
-Que me dis-tu donc ?  
+    Que me dis-tu donc ?  
 
     TOMIRE.
-Qu'elle est morte pour vous.  
+        Qu'elle est morte pour vous.  
 Qu'elle vit pour un autre, & que jamais œillade⁎...  
 
     CARLOS.
 Comment !  
 
     TOMIRE.
-Vous connoissez Dom Brusquin d'Alvarade,  
+        Vous connoissez Dom Brusquin d'Alvarade,  
 Ce brave⁎ Dom Brusquin, cet obstacle à vos feux⁎,  
 Fantasque⁎ comme un diable, & jaloux comme deux,  
 Maussade comme trois, avare comme quatre.  
@@ -1069,29 +1069,29 @@ Maussade comme trois, avare comme quatre.
 Et bien ?  
 
     TOMIRE.
-Il est icy.  
+    Il est icy.  
 
     CARLOS.
-Que d'ennuis⁎ à combattre ?  
+        Que d'ennuis⁎ à combattre ?  
 Ah Ciel ! il est icy, qui te l'a dit ?  
 
     TOMIRE.
-Mes yeux.  
+        Mes yeux.  
 
     CARLOS.
 Ne t'ont-ils point trompé ?  
 
     TOMIRE.
-Non, je vous répons d'eux.  
+        Non, je vous répons d'eux.  
 
     CARLOS.
 Il est icy ?  
 
     TOMIRE.
-Luy-même.  
+    Luy-même.  
 
     CARLOS.
-Où le Ciel me destine⁎ !  
+        Où le Ciel me destine⁎ !  
 Voilà ce qu'ont produit les Lettres de Marine :  
 Mais où l'as-tu trouvé ; comment sur son rapport⁎ ?  
 
@@ -1112,12 +1112,12 @@ Etoit chez Fatiman sous le nom de Julie.
 Juste Ciel !  
 
     TOMIRE.
-Vous sçavez qu'il ne vous connoît point ;  
+        Vous sçavez qu'il ne vous connoît point ;  
 Venez vous éclaircir⁎ vous-même sur ce point.  
 Venez.  
 
     CARLOS.
-Et bien ! allons nous montrer à sa vûë,  
+        Et bien ! allons nous montrer à sa vûë,  
 Il mourra de ma main si la chose est concluë⁎ ;  
 Ou si Julie enfin doit partir de ces lieux,  
 Je ne le verray point sans mourir à ses yeux.  
@@ -1133,7 +1133,7 @@ Je vous en avertis, examinez⁎-vous bien.
 Autrement…  
 
     CARLOS.
-Vien, suis moy, Tomire, & ne crains rien.  
+        Vien, suis moy, Tomire, & ne crains rien.  
 Fin du premier Acte.
 
 
@@ -1167,7 +1167,7 @@ Vous êtes tout chagrin, & malgré tous mes soins⁎ [267],
 Je vous vois…  
 
     D. BRUSQUIN.
-Malepeste⁎ ! on le seroit à moins,  
+        Malepeste⁎ ! on le seroit à moins,  
 Tant qu'avec toy sur Mer a duré le voyage,  
 Je n'avois dans l'esprit que la peur du nauffrage.  
 La crainte du peril me donnoit des frissons,  
@@ -1223,20 +1223,20 @@ J'avois un sauf-conduit⁎ signé du Dieu Neptune [275].
 Vous en repentez-vous ?  
 
     D. BRUSQUIN.
-Je ne sçay ; mais je crois  
+        Je ne sçay ; mais je crois  
 Que si j'étois chez moy, j'y songerois deux fois,  
 Ce noir pressentiment où ma raison s'obstine,  
 Me fait…  
 
     GUSMAN.
-Mais il faut bien que cecy se termine.  
+        Mais il faut bien que cecy se termine.  
 Vous en avez trop fait, pour ne pas achever,  
 On sçait à [276] quel dessein vous venez d'arriver,  
 Et vôtre Femme, enfin, ou coquette, ou fidelle,  
 En payant sa Rançon vous sera…  
 
     D. BRUSQUIN.
-Bagatelle,  
+        Bagatelle,  
 Si je puis découvrir que ce Turc pour [277] début  
 Se soit fait de son chef icy mon Substitut,  
 Qu'il se soit par ses mains, enfin, de quelque sorte  
@@ -1254,7 +1254,7 @@ Pour n'être pas crû sot, un Homme l'est-il moins,
 Dis, Maraut⁎ ?  
 
     GUSMAN.
-Mais pourquoy jusques en sa demeure?  
+        Mais pourquoy jusques en sa demeure?  
 
     D. BRUSQUIN.
 On me doit faire voir Marine tout à l'heure,  
@@ -1262,10 +1262,10 @@ Un Esclave en entrant me l'a promis ainsi,
 Moyennant…  
 
     GUSMAN.
-J'entens bien.  
+    J'entens bien.  
 
     D. BRUSQUIN.
-Et je l'attens icy.  
+        Et je l'attens icy.  
 Vois-tu, je veux sçavoir⁎ avant que de conclure⁎,  
 Sur quoy, par qui, comment, & par quelle avanture  
 Julie est en [280] Alger ? Car à te parler net,  
@@ -1284,16 +1284,16 @@ DOM BRUSQUIN, TOMIRE, GUSMAN, MARINE.
 Prens bien garde…  
 
     MARINE.
-Suffit.  
+    Suffit.  
 
     TOMIRE *à D. Brusquin*.
-Vous voyez, je m'acquitte,  
+        Vous voyez, je m'acquitte,  
 
     D. BRUSQUIN.
 Je vous suis obligé, Serviteur [282].  
 
     TOMIRE.
-Je vous quitte.  
+        Je vous quitte.  
 
 
 ### SCENE III.
@@ -1305,20 +1305,20 @@ C'est luy-même, & d'abord⁎ je l'ay bien reconnu.
 Ah ! Monsieur.  
 
     D. BRUSQUIN.
-Dieu te gard.  
+    Dieu te gard.  
 
     MARINE.
-Soyez le bien venu.  
+        Soyez le bien venu.  
 
     D.BRUSQUIN.
 Bien ou mal, me voilà. Concluons⁎.  
 
     MARINE.
-Quoy ! vous-même  
+        Quoy ! vous-même  
 Venir jusques icy !  
 
     D. BRUSQUIN.
-Que veux-tu, quand on aime  
+        Que veux-tu, quand on aime  
 On est sot, on est fou de mettre tous ses soins⁎…  
 
     MARINE.
@@ -1328,16 +1328,16 @@ On seroit bien fâché que vous le fussiez moins.
 Passons.  
 
     MARINE.
-Julie aura…  
+    Julie aura…  
 
     D. BRUSQUIN.
-Comment se porte-t'elle ?  
+        Comment se porte-t'elle ?  
 
     MARINE.
 Bien.  
 
     D. BRUSQUIN.
-Comme de tous temps j'ay reconnu ton zele,  
+        Comme de tous temps j'ay reconnu ton zele,  
 Et que jamais pour moy tu n'eus rien de caché,  
 Avant que [283] de conclure⁎ icy nôtre marché,  
 J'ay voulu te parler un peu sur cette affaire ;  
@@ -1346,11 +1346,11 @@ Par amitié pour moy mettant la feinte au croc [284],
 Tu vas à cœur⁎ ouvert…  
 
     MARINE.
-Oh ! cela vous est hoc [285].  
+        Oh ! cela vous est hoc [285].  
 Parlez, je suis pour vous tout cœur⁎.  
 
     D. BRUSQUIN.
-Ta récompence  
+        Ta récompence  
 Au reste passera de loin ton espérance,  
 Et je t'ay préparé de quoy te voir un jour,  
 Au dessus…. tu sçauras le reste à mon retour.  
@@ -1359,7 +1359,7 @@ Au dessus…. tu sçauras le reste à mon retour.
 Ah ! Monsieur, parlez donc.  
 
     D. BRUSQUIN.
-Dis-moy, je te conjure,  
+        Dis-moy, je te conjure,  
 Comment, à quel dessein, & par quelle avanture  
 Vous êtes toutes deux icy depuis ce soir [286].  
 
@@ -1383,11 +1383,11 @@ Sur la Mer en Carosse ! Eh qui vous dit cela ?
 Ecoutez jusqu'au bout.  
 
     D. BRUSQUIN.
-Lors qu'on vous enleva,  
+        Lors qu'on vous enleva,  
 Vous criâtes bien fort ?  
 
     MARINE.
-Bien fort ? A pleine tête [289],  
+        Bien fort ? A pleine tête [289],  
 Au voleur, au secours, au meurtre, arrête, arrête.  
 Non, pour du bruit, jamais Femme n'en a tant fait.  
 
@@ -1401,11 +1401,11 @@ Car dedans⁎ ny dehors⁎ pas un n'entendit rien [290].
 Enfin, il est pourtant très assuré…  
 
     D. BRUSQUIN.
-Fort bien.  
+        Fort bien.  
 Passons.  
 
     MARINE.
-Nous arrivons au Port, où cette Trouppe  
+        Nous arrivons au Port, où cette Trouppe  
 Du Carrosse nous mit dedans⁎ [291] une Chalouppe,  
 De là dans un Vaisseau qui n'attendant plus rien…  
 
@@ -1424,13 +1424,13 @@ Nous prit dans son Vaisseau, pour nous conduire icy,
 Où depuis…  
 
     D. BRUSQUIN.
-Franchement je trouve cette histoire  
+        Franchement je trouve cette histoire  
 Peu possible ; mais [292] bien tres difficile à croire,  
 Que devinrent ces Gens masquez dont les efforts  
 Avoient…  
 
     MARINE.
-Apparemment ils sont captifs, ou morts,  
+        Apparemment ils sont captifs, ou morts,  
 Mais comme pas-un d'eux ne montra son visage,  
 Je ne vous en puis pas apprendre davantage.  
 
@@ -1442,13 +1442,13 @@ Il en est Gouverneur⁎, & ne va guere en Mer.
 Ce fut un autre Turc.  
 
     D. BRUSQUIN.
-Comment, en sa puissance.  
+        Comment, en sa puissance.  
 
     MARINE.
 C'est qu'il est Gouverneur⁎.  
 
     D. BRUSQUIN.
-Et quelle consequence ?  
+        Et quelle consequence ?  
 
     MARINE.
 En cette qualité par un droit peu commun,  
@@ -1463,7 +1463,7 @@ Avoit quelque Serail⁎ à meubler, sur ma foy…
 Toûjours prêt d'expliquer⁎ [294]…  
 
     D. BRUSQUIN.
-Tout doucement dis moy ;  
+        Tout doucement dis moy ;  
 Tu sçay bien qu'il manquoit, lors que l'on prit Julie,  
 A nôtre Mariage une Cerémonie.  
 
@@ -1471,7 +1471,7 @@ A nôtre Mariage une Cerémonie.
 Quelle Cerémonie ?  
 
     D. BRUSQUIN.
-Eh ! celle que l'Amour  
+        Eh ! celle que l'Amour  
 Ordonne à frais communs [295] la nuit de ce grand jour.  
 Celle chez qui des gens que l'on marie ensemble  
 Fait un nœud gordien⁎ du nœud qui les assemble.  
@@ -1482,26 +1482,26 @@ Devoit le soir… Enfin, celle qu'on ne fit point.
 Eh bien ?  
 
     D. BRUSQUIN.
-Je voudrois bien avant que de conclure⁎,  
+        Je voudrois bien avant que de conclure⁎,  
 Sçavoir⁎ si quelque Turc épris de sa figure  
 Ne s'est point….  
 
     MARINE.
-Quoy ?  
+    Quoy ?  
 
     D. BRUSQUIN.
-Chargé de la commission  
+        Chargé de la commission  
 De mettre nôtre Hymen⁎ dans sa perfection.  
 
     MARINE.
 Quels contes ! Par ma foy, c'est grand dommage.  
 
     D. BRUSQUIN.
-Ecoute,  
+        Ecoute,  
 Tu crois donc qu'il ne s'est rien passé ?  
 
     MARINE.
-Le beau doute !  
+        Le beau doute !  
 
     D. BRUSQUIN.
 Qu'auprés d'elle ce Turc n'a jamais entrepris  
@@ -1512,7 +1512,7 @@ Que de force ou de gré pas un n'a rien eu d'elle ?
 Pas un.  
 
     D. BRUSQUIN.
-Et qu'elle soit aussi sage que belle.  
+        Et qu'elle soit aussi sage que belle.  
 
     MARINE.
 Vous n'en sçauriez douter sans luy faire un affront.  
@@ -1547,7 +1547,7 @@ DOM BRUSQUIN, FATIMAN, STAMORAT. Suite.
 
 
     D. BRUSQUIN *à part*.
-Peste⁎ ! quel égrillard⁎ !  
+        Peste⁎ ! quel égrillard⁎ !  
 A son air⁎ je crains bien d'être venu trop tard ;  
 Et que sur mon honneur, enfin, étant à même,  
 Comme sur la capture il n'ait pris le huitiéme.  
@@ -1587,11 +1587,11 @@ Elle est pourtant ma Femme, ou peu s'en faut, je n'ose…
 C'est un malheur pour elle.  
 
     D. BRUSQUIN.
-Ah ! parlons d'autre chose,  
+        Ah ! parlons d'autre chose,  
 S'il vous plaît.  
 
     FATIMAN.
-J'y consens, je voy bien que tes vœux⁎  
+        J'y consens, je voy bien que tes vœux⁎  
 Vont à vous voir chez vous bien réünis tous deux.  
 Tu meurs de la revoir, car je lis dans ton ame⁎,  
 Elle a de la beauté, tu l'aimes, c'est ta Femme ;  
@@ -1599,14 +1599,14 @@ C'est pourquoy je ne veux que six mille Ducats,
 Pour la mettre en tes mains.  
 
     D. BRUSQUIN.
-Quoy ! vous n'y songez pas.  
+        Quoy ! vous n'y songez pas.  
 Comment, pour une Femme ?  
 
     FATIMAN.
-Ouy.  
+    Ouy.  
 
     D. BRUSQUIN.
-Peste⁎, quelle Somme  
+        Peste⁎, quelle Somme  
 Combien faudroit-il donc vous donner pour un Homme ?  
 
     FATIMAN.
@@ -1621,10 +1621,10 @@ Je vous conseille fort, pourtant, de n'en plus prendre.
 De Femmes ?  
 
     D. BRUSQUIN.
-Ouy, sur tout des environs.  
+    Ouy, sur tout des environs.  
 
     FATIMAN.
-Pourquoy ?  
+        Pourquoy ?  
 
     D. BRUSQUIN.
 C'est que pour vous parler franc, & de bonne foy,  
@@ -1639,7 +1639,7 @@ C'est beaucoup. Il ne faut point tant faire la mine [304].
 Tu les veux toutes deux.  
 
     D. BRUSQUIN.
-Ouy, je l'avouë aussi,  
+        Ouy, je l'avouë aussi,  
 Si l'on vendoit chez nous les Femmes, comme icy,  
 Pour moitié de l'Argent que j'offre pour la mienne,  
 J'en aurois, à choisir, du moins une douzaine.  
@@ -1654,20 +1654,20 @@ Que l'Argent à la main, & me laisser en paix.
 Allez…  
 
     D. BRUSQUIN.
-Quelle Somme ! Ah ! j'en ay la mort dans l'ame⁎,  
+        Quelle Somme ! Ah ! j'en ay la mort dans l'ame⁎,  
 J'aimerois presqu'autant qu'ils gardassent ma Femme.  
 Ils pourroient s'en dédire, il faut se dépêcher.  
 Ah, Chien⁎ de Turc !  
 
     FATIMAN.
-Plaît-il ?  
+    Plaît-il ?  
 
     D. BRUSQUIN.
-Je m'en vais vous chercher  
+        Je m'en vais vous chercher  
 Les cinq mille Ducats.  
 
     FATIMAN.
-Cette affaire est concluë⁎.  
+        Cette affaire est concluë⁎.  
 Allons voir si Celime est enfin résoluë  
 A terminer l'Hymen⁎ qui me doit rendre heureux.  
 La voicy.  
@@ -1678,18 +1678,18 @@ FATIMAN, CELIME, ZAIRE.
 
 
     FATIMAN.
-Quel bonheur vous présente à mes yeux ?  
+        Quel bonheur vous présente à mes yeux ?  
 Qui vous ameine icy ?  
 
     CELIME.
-Vous-même.  
+    Vous-même.  
 
     FATIMAN.
-Moy, Madame.  
+        Moy, Madame.  
 O Ciel! à quel dessein?  
 
     CELIME.
-De vous ouvrir mon ame⁎.  
+        De vous ouvrir mon ame⁎.  
 
     FATIMAN.
 Qui vous cause ce soin⁎, Madame, est-ce l'Amour ?  
@@ -1717,7 +1717,7 @@ Me viennent d'avoir vû cet Esclave Chrétien.
 Quoy, Madame…  
 
     CELIME.
-Jamais ; croyez, s'il est possible,  
+        Jamais ; croyez, s'il est possible,  
 Vous ne me pouvez faire un plaisir plus sensible,  
 Que d'en avoir fait choix pour me dés-ennuyer⁎,  
 Dans ses Chants que jamais je ne veux oublier,  
@@ -1731,7 +1731,7 @@ Que ne luy dois-je point ? que ma surprise est grande.
 O Ciel !  
 
     CELIME.
-Puis-je pour luy vous faire une demande,  
+        Puis-je pour luy vous faire une demande,  
 C'est de sa liberté ; me l'accorderez-vous ?  
 
     FATIMAN.
@@ -1739,7 +1739,7 @@ Moy, Madame, je vais luy rendre un bien si doux.
 J'y cours.  
 
     CELIME.
-Non, laissez-moi ce petit soin⁎. Zaïre,  
+        Non, laissez-moi ce petit soin⁎. Zaïre,  
 Vous l'entendez, Carlos est libre ; allez luy dire,  
 Et par vôtre discours⁎ faites-luy concevoir,  
 Qu'aprés ce grand bien-fait, il songe à son devoir.  
@@ -1748,12 +1748,12 @@ Qu'aprés ce grand bien-fait, il songe à son devoir.
 J'y vais, Madame.  
 
     FATIMAN.
-Aprés ce que je viens de faire,  
+        Aprés ce que je viens de faire,  
 Je puis donc me flater de l'Hymen⁎ que j'espere ?  
 Je puis…  
 
     CELIME.
-Si le destin⁎ favorise mes pas,  
+        Si le destin⁎ favorise mes pas,  
 Vous verrez des transports⁎ que vous n'attendez pas,  
 Adieu.  
 
@@ -1763,20 +1763,20 @@ FATIMAN, ZAIRE.
 
 
     FATIMAN.
-De mon amour la confiance fidelle,  
+        De mon amour la confiance fidelle,  
 Enfin va remporter…  
 
     ZAIRE.
-O la fine Femelle !  
+        O la fine Femelle !  
 
     FATIMAN.
 Qui, Celime ?  
 
     ZAIRE.
-Oüy.  
+    Oüy.  
 
     FATIMAN.
-Comment, au lieu de la loüer…  
+        Comment, au lieu de la loüer…  
 
     ZAIRE.
 Quoy, vous ne voyez pas qu'elle veut vous joüer ?  
@@ -1785,21 +1785,21 @@ Quoy, vous ne voyez pas qu'elle veut vous joüer ?
 Elle ?  
 
     ZAIRE.
-Elle aime Carlos.  
+    Elle aime Carlos.  
 
     FATIMAN.
-Ah ! quelle perfidie !  
+        Ah ! quelle perfidie !  
 Ciel ! elle aime, dis-tu, Carlos ?  
 
     ZAIRE.
-A la folie.  
+        A la folie.  
 
     FATIMAN.
 D'où sçais-tu cet amour dont elle brûle en vain,  
 Dis-moy ?  
 
     ZAIRE.
-Tantôt cachée au Cabinet⁎ prochain⁎,  
+        Tantôt cachée au Cabinet⁎ prochain⁎,  
 J'ay de ses feux⁎ naissans, entendu le mistere,  
 Dans l'aveu⁎ qu'à Carlos, sa bouche en a sçu faire,  
 Elle luy promettoit des biens en quantité,  
@@ -1846,7 +1846,7 @@ Ah ! quel empressement⁎ de la voir, vous anime ?
 Madame.  
 
     JULIE.
-Dom Brusquin est icy dés ce jour,  
+        Dom Brusquin est icy dés ce jour,  
 Avecque Fatiman il traite mon retour.  
 Par ce rachat cruel livrée à ce barbare⁎,  
 Demain nôtre malheur pour jamais nous separe,  
@@ -1860,7 +1860,7 @@ Et plus que Dom Brusquin, elle est nôtre Ennemie.
 Comment ?  
 
     CARLOS.
-Vous le diray-je, helas ! belle Julie,  
+        Vous le diray-je, helas ! belle Julie,  
 Pour cet infortuné, par un instinc jaloux,  
 Elle a le même cœur⁎, les mêmes yeux que vous.  
 
@@ -1868,13 +1868,13 @@ Elle a le même cœur⁎, les mêmes yeux que vous.
 Elle vous aime ? helas !  
 
     CARLOS.
-Elle a sçû me le dire.  
+        Elle a sçû me le dire.  
 
     JULIE.
 L'aimez-vous ?  
 
     CARLOS.
-Moy ! Madame, ah ! plûtôt que j'expire  
+        Moy ! Madame, ah ! plûtôt que j'expire  
 A vos genoux…  
 
 
@@ -1883,14 +1883,14 @@ D. BRUSQUIN, JULIE, CARLOS.
 
 
     D. BRUSQUIN.
-Allons pour consommer cela…  
+        Allons pour consommer cela…  
 Que voy-je icy ? ma Femme !  
 
     JULIE.
-Ah !  
+    Ah !  
 
     D. BRUSQUIN.
-Que faites-vous là ?  
+        Que faites-vous là ?  
 Parlez, travaillez-vous tous deux pour nôtre honte.  
 
     CARLOS.
@@ -1946,7 +1946,7 @@ Non, lors que je voudray le voir, il entrera.
 Luy diray-je le temps, quand…  
 
     FATIMAN.
-Quand il me plaira,  
+        Quand il me plaira,  
 En faveur de Carlos, je prétens⁎, quoy qu'il die,  
 D'avec ce Dom Bouru⁎ démarier Julie.  
 La remettre, Zaire, à cet heureux Amant⁎,  
@@ -1990,7 +1990,7 @@ Et qu'il [308] viendroit bien-tôt redevable à mes soins⁎
 Embrasser mes genoux.  
 
     ZAIRE.
-Luy ! Madame, rien moins.  
+        Luy ! Madame, rien moins.  
 A le voir interdit⁎, rêveur, muet, stupide⁎,  
 Le regard égaré, le visage insipide⁎,  
 D'une froide sueür il a paru trempé,  
@@ -2001,7 +2001,7 @@ Un bien⁎ qu'on n'attend pas surprend & saisit l'ame,
 Enfin il a parlé ?  
 
     ZAIRE.
-Rien moins encor, Madame :  
+        Rien moins encor, Madame :  
 De rompre le silence en vain je l'ay pressé⁎,  
 Plus je montrois d'ardeur⁎, plus il étoit glacé,  
 Et sur son teint, du Rouge ayant perdu les charmes⁎,  
@@ -2019,11 +2019,11 @@ Quoy, Julie… Au récit que tu luy viens de faire
 Elle était donc présente ?  
 
     ZAIRE.
-Ils ne se quittent pas,  
+        Ils ne se quittent pas,  
 Madame.  
 
     CELIME.
-Le crois-tu charmé⁎ de ses appas ?  
+        Le crois-tu charmé⁎ de ses appas ?  
 Seroit-il aimé d'elle, est-ce un plaisir qu'il goûte ?  
 
     ZAIRE.
@@ -2037,11 +2037,11 @@ Et je veux… Mais quel Homme icy viens-je de voir ?
 C'est Tomire, autrefois son Valet.  
 
     CELIME.
-Va luy dire,  
+        Va luy dire,  
 Que je veux luy parler, & qu'il vienne.  
 
     ZAIRE.
-Tomire  
+        Tomire  
 Viens, on veut te parler.  
 
 
@@ -2050,30 +2050,30 @@ CELIME, TOMIRE, ZAIRE.
 
 
     TOMIRE.
-J'allois chez Fatiman,  
+        J'allois chez Fatiman,  
 Courir executer l'ordre & l'empressement⁎  
 Du brave⁎ D. Brusquin, qui demande audience,  
 Vous voyant, par respect, je retournois.  
 
     CELIME.
-Avance  
+        Avance  
 Vien. Autrefois Carlos étoit servy par toy ?  
 Parle.  
 
     TOMIRE.
-Il n'a jamais eû d'autre Valet que moy.  
+        Il n'a jamais eû d'autre Valet que moy.  
 
     CELIME.
 Et tu l'aimes ?  
 
     TOMIRE.
-Autant qu'un Valet aime un Maître.  
+        Autant qu'un Valet aime un Maître.  
 
     CELIME.
 Il est noble en Espagne ?  
 
     TOMIRE.
-Oüy, tout ce qu'on peut l'être.  
+        Oüy, tout ce qu'on peut l'être.  
 
     CELIME.
 Quelle honte ! j'admire étant de qualité,  
@@ -2087,16 +2087,16 @@ D'un Oncle riche & vieux dont il est heritier,
 Dieu mercy.  
 
     CELIME.
-Mais ayant cet Oncle, est-il croyable  
+        Mais ayant cet Oncle, est-il croyable  
 Qu'il l'abandonne ?  
 
     TOMIRE.
-Il est avare comme un Diable ;  
+        Il est avare comme un Diable ;  
 Madame, & nous verroit plûtôt crever⁎ tous deux,  
 Que de donner un soû.  
 
     CELIME.
-Sa mort proche, étant vieux,  
+        Sa mort proche, étant vieux,  
 Enrichira Carlos d'une assez grande Somme.  
 
     TOMIRE.
@@ -2107,7 +2107,7 @@ Et qu'il ne veut point voir de Medecins, je doute
 Qu'il meure encor.  
 
     CELIME.
-Parlons d'autres choses, écoute  
+        Parlons d'autres choses, écoute  
 Carlos t'ouvroit son cœur⁎, te connoissant prudent ?  
 
     TOMIRE.
@@ -2117,7 +2117,7 @@ J'ay toûjours, quoyqu'indigne, été son Confident.
 Conte-moy ses Amours ?  
 
     TOMIRE.
-Oh ! Ces Historiettes  
+        Oh ! Ces Historiettes  
 De mysteres⁎ galants, d'intrigues, d'amourettes,  
 Comme vous jugez bien sont de petits secrets,  
 Qu'un Valet bien discret, ne révéle jamais.  
@@ -2142,10 +2142,10 @@ Elle luy donne une Bague.
 
 
     TOMIRE.
-Oh ! C'est…  
+    Oh ! C'est…  
 
     CELIME.
-Prens, j'aime à voir  
+        Prens, j'aime à voir  
 Que rien contre Carlos n'ébranle ton devoir.  
 Son interêt m'est cher : qu'à l'avenir ton zéle,  
 Ne démente jamais une ardeur⁎ si fidelle,  
@@ -2156,23 +2156,23 @@ Et meurs plûtôt cent fois que de les reveler.
 Oh !  
 
     CELIME.
-Quant à ses Amours qu'on auroit peine à croire,  
+        Quant à ses Amours qu'on auroit peine à croire,  
 Carlos m'en a conté tantôt toute l'Histoire.  
 Ce n'est plus à present un mystere⁎ pour moy,  
 Il m'a dit qu'il aimoit Julie.  
 
     TOMIRE.
-Ah ! je le croy,  
+        Ah ! je le croy,  
 Cela n'est pas nouveau.  
 
     CELIME.
-Qu'une ardeur⁎ mutuelle  
+        Qu'une ardeur⁎ mutuelle  
 Rendoit malgré leurs Fers leur Amour éternelle ;  
 Par quel hazard ils ont perdu la liberté,  
 Leurs traverses⁎, leurs pleurs…  
 
     TOMIRE.
-Il vous a donc conté  
+        Il vous a donc conté  
 Comment il l'enleva du logis de sa Mere ;  
 La rencontre qu'il fit de ce Vaisseau Corsaire ?  
 
@@ -2181,7 +2181,7 @@ Ouy, vôtre Embarquement, & comment on vous prit.
 Le desespoir qu'il eut.  
 
     TOMIRE.
-Il vous aura donc dit,  
+        Il vous aura donc dit,  
 Là… que la chose fut justement accomplie,  
 Dans le tems qu'on venoit de marier Julie,  
 Qui haïssoit à mort l'Epoux qu'on luy donnoit,  
@@ -2198,7 +2198,7 @@ Pour s'être ouvert à vous ainsi, j'en suis surpris,
 J'estime fort Carlos.  
 
     TOMIRE
-Et vous a-t'il appris  
+        Et vous a-t'il appris  
 Que ce vieux Singe, à qui l'on maria Julie,  
 Est pour la rachetter dés hier en Barbarie⁎,  
 Et qu'avec Fatiman il a fait son marché ?  
@@ -2214,7 +2214,7 @@ Si j'en avois ouvert la bouche le premier.
 Le monde est ainsi fait.  
 
     CELIME.
-Cette triste nouvelle,  
+        Cette triste nouvelle,  
 Me donne pour Carlos, une douleur mortelle,  
 Car il perd sa Maîtresse [312], & l'ennuy⁎ qu'il en a…  
 
@@ -2263,10 +2263,10 @@ M'estes-vous infidelle, & me tromperiez-vous,
 Zaïre ?  
 
     ZAIRE.
-Moy, Madame, ah !  
+    Moy, Madame, ah !  
 
     CELIME.
-Craignez mon courroux⁎.  
+        Craignez mon courroux⁎.  
 Vous sçavez qui je suis ; malheur à qui m'offence.  
 
     ZAIRE.
@@ -2283,7 +2283,7 @@ CELIME, STAMORAT, ZAIRE.
 
 
     STAMORAT.
-Madame,  
+        Madame,  
 Fatiman pénétré du bonheur de sa flâme⁎ ;  
 Pour devancer l'Hymen⁎ qui doit le rendre heureux,  
 Et répondre aux transports⁎ de son cœur⁎ Amoureux,  
@@ -2294,7 +2294,7 @@ Je suis bien obligée à ses galanteries.
 Tenez, Zaïre, adieu.  
 
     STAMORAT.
-Dans ce même moment  
+        Dans ce même moment  
 Il vous fait préparer pour divertissement,  
 Un Opera [313] chanté par Carlos, & Julie ;  
 Mais il craint toutefois que ce chant vous ennuye⁎.  
@@ -2313,11 +2313,11 @@ Elle n'est pas sensible⁎ à l'Amour legitime.
 J'ay peur que Fatiman… il vient.  
 
     FATIMAN.
-Comment Celime  
+        Comment Celime  
 A-t'elle envisagé mon present ?  
 
     STAMORAT.
-Froidement.  
+        Froidement.  
 
     FATIMAN.
 Et que t'a-t'elle dit du divertissement ?  
@@ -2382,7 +2382,7 @@ Il faut qu'absolument vous y soyez tous deux.
 Vous raillez.  
 
     FATIMAN.
-Il le faut, vous dis-je, & je le veux.  
+        Il le faut, vous dis-je, & je le veux.  
 
     D. BRUSQUIN.
 Dites-moy donc quelle est cette Cérémonie,  
@@ -2393,19 +2393,19 @@ Sans indiscretion peut-on vous en prier ?
 C'est que je veux ce soir…  
 
     D. BRUSQUIN.
-Hé bien !  
+    Hé bien !  
 
     FATIMAN.
-La marier.  
+        La marier.  
 
     D. BRUSQUIN.
 Julie ?  
 
     FATIMAN.
-Elle.  
+    Elle.  
 
     D. BRUSQUIN.
-Expliquons⁎ s'il vous plaît ce langage,  
+        Expliquons⁎ s'il vous plaît ce langage,  
 Est-ce qu'on doute icy de nôtre mariage.  
 Et que craignant en Mer pour son honnêteté  
 On veut nous marier pour plus de sûreté ?  
@@ -2414,10 +2414,10 @@ On veut nous marier pour plus de sûreté ?
 Non.  
 
     D. BRUSQUIN.
-Non ?  
+    Non ?  
 
     FATIMAN.
-Non, je sçay bien que tu l'as épousée,  
+        Non, je sçay bien que tu l'as épousée,  
 Que toûjours à ta flâme⁎ elle s'est refusée,  
 Que rien ne vous unit, enfin, que quelques mots  
 Qui n'ont point eu d'effet ; Ainsi pour son repos⁎  
@@ -2430,10 +2430,10 @@ Et je luy vais ce soir donner un autre Epoux.
 A ma Femme ?  
 
     FATIMAN.
-A ta Femme : Et de plus….  
+    A ta Femme : Et de plus….  
 
     D. BRUSQUIN.
-Quel Negoce⁎.  
+        Quel Negoce⁎.  
 
     FATIMAN.
 Ton Argent servira pour les frais de la Nôce.  
@@ -2444,10 +2444,10 @@ Vous prétendez⁎ ce soir marier à mes yeux,
 Qui, dites-vous, Julie ?  
 
     FATIMAN.
-Ouy.  
+    Ouy.  
 
     D. BRUSQUIN.
-Ma Femme : ah ! j'enrage⁎,  
+        Ma Femme : ah ! j'enrage⁎,  
 De quel droit, s'il vous plaît, rompre mon mariage ?  
 
     FATIMAN.
@@ -2475,26 +2475,26 @@ Est-ce un Arrêt pour moy sans appel ; & ma bourse
 Ne peut-elle adoucir ?…  
 
     FATIMAN.
-L'affaire est sans ressource.  
+        L'affaire est sans ressource.  
 Je luy donne un Epoux malgré tous tes discours⁎.  
 
     D. BRUSQUIN.
 Sera-ce pour long-temps ?  
 
     FATIMAN.
-Ce sera pour toûjours.  
+        Ce sera pour toûjours.  
 
     D. BRUSQUIN.
 L'a-t'on dit à Julie ?  
 
     FATIMAN.
-Ouy, je luy [321] viens d'apprendre.  
+        Ouy, je luy [321] viens d'apprendre.  
 
     D. BRUSQUIN.
 Que dit-elle à cela ?  
 
     FATIMAN.
-Qu'elle est prête à se rendre,  
+        Qu'elle est prête à se rendre,  
 Et qu'elle aimeroit mieux en te manquant de foy⁎ [322],  
 Estre aux Fers avec luy, que Reine avecque toy.  
 
@@ -2532,7 +2532,7 @@ Je ne croyois jamais être assez tôt icy,
 Et je ne vois encor Personne.  
 
     FATIMAN.
-Les voicy,  
+        Les voicy,  
 Madame.  
 
 
@@ -2541,7 +2541,7 @@ FATIMAN, CELIME, CARLOS, JULIE.
 
 
     FATIMAN.
-Qu'allez-vous, Carlos, nous faire entendre ?  
+        Qu'allez-vous, Carlos, nous faire entendre ?  
 
     CARLOS.
 De deux Amans⁎ heureux, une Scéne assez tendre⁎.  
@@ -2587,7 +2587,7 @@ Et qui peut vous avoir causé ce déplaisir ?
 Madame, expliquez⁎-vous.  
 
     CELIME.
-J'aurois peur d'en trop dire,  
+        J'aurois peur d'en trop dire,  
 Je ne suis pas assez à moy ; je me retire.  
 
     FATIMAN.
@@ -2603,7 +2603,7 @@ A l'affront qui m'est fait vous avez trop de part.
 Je jure…  
 
     CELIME.
-A ces sermens prononcez au hazard,  
+        A ces sermens prononcez au hazard,  
 Pour peu que vous vouliez que je donne croyance,  
 Il faut pour satisfaire à ma juste vengeance,  
 Que vous chargiez de Fers, sans aucune pitié,  
@@ -2615,7 +2615,7 @@ Ils sentent le malheur de m'avoir sçû déplaire.
 Madame…  
 
     CELIME.
-Obéïssez, remplissez mes souhaits  
+        Obéïssez, remplissez mes souhaits  
 Ou bien résolvez-vous à ne me voir jamais.  
 
 
@@ -2679,13 +2679,13 @@ Mains, & piés enchaînez, éloigné de Julie,
 Il faut voir ses clameurs.  
 
     CELIME.
-Que mon ame⁎ est ravie⁎.  
+        Que mon ame⁎ est ravie⁎.  
 
     ZAIRE.
 Je ne vous comprens pas.  
 
     CELIME.
-Dans ses cruels ennuis⁎  
+        Dans ses cruels ennuis⁎  
 Il reconnoît sa faute, il voit ce que je puis,  
 Plus de son noir Cachot la rigueur est extrême,  
 Plus il sent qu'il n'en peut sortir que par moy-même,  
@@ -2715,7 +2715,7 @@ FATIMAN, CELIME, ZAIRE, suite.
 
 
     FATIMAN.
-He bien, Madame, est-ce aujourd'huy le jour  
+        He bien, Madame, est-ce aujourd'huy le jour  
 Où je verray l'Hymen⁎ couronner mon amour :  
 Mon cœur⁎ impatient d'en celebrer la Fête,  
 Remplit tous les devoirs dûs à vôtre conquête.  
@@ -2739,29 +2739,29 @@ Et Julie ? Avez-vous pas [330] la même rigueur ?
 Non.  
 
     CELIME.
-Non !  
+    Non !  
 
     FATIMAN.
-Je l'avouëray, touché de son malheur,  
+        Je l'avouëray, touché de son malheur,  
 Des graces, des beautez, comme vous le modele,  
 J'ay respecté les droits, de vôtre Sexe [331] en elle,  
 Elle est libre.  
 
     CELIME.
-Ah ! voilà mes soupçons confirmez,  
+        Ah ! voilà mes soupçons confirmez,  
 Vôtre cœur⁎ m'est connu, perfide, vous l'aimez.  
 
     FATIMAN.
 Je l'aime !  
 
     CELIME.
-Vous.  
+    Vous.  
 
     FATIMAN.
-Moy !  
+    Moy !  
 
     CELIME.
-Vous. Enfin ma jalousie  
+        Vous. Enfin ma jalousie  
 Pour être moderée est trop bien éclaircie.  
 De ces Chants concertez je vois la verité.  
 
@@ -2800,7 +2800,7 @@ Ce soir, avec la nuit, il quitte ce rivage.
 Vous serez obeïe.  
 
     CELIME.
-Avant que de partir  
+        Avant que de partir  
 Que je luy parle, il faut, & c'est tout mon desir,  
 Qu'il connoisse pour luy le fond de ma pensée,  
 Pour ne pas voir ma haine, il m'a trop offensée.  
@@ -2837,7 +2837,7 @@ Toutes deux avec luy nous partirons, Zaïre.
 Nous !  
 
     CELIME.
-J'ay tout préparé, pour ce prochain⁎ départ,  
+        J'ay tout préparé, pour ce prochain⁎ départ,  
 Un Bâtiment Anglois est gagné de ma part,  
 Mon bien⁎ est en Argent comptant ; dans ma retraite  
 Je ne laisseray rien icy que je regrette.  
@@ -2848,7 +2848,7 @@ Demain de sa tendresse⁎ il verra la sottise.
 Tu peux t'en assurer…  
 
     ZAIRE.
-Et malgré ces apprêts,  
+        Et malgré ces apprêts,  
 Si Carlos est toûjours rebelle à vos souhaits ?  
 
     CELIME.
@@ -2868,7 +2868,7 @@ ZAIRE, CELIME, CARLOS, FATIMAN caché.
 
 
     CELIME.
-Je le plains des maux qu'il a soufferts,  
+        Je le plains des maux qu'il a soufferts,  
 Zaïre approchez-vous, que l'on ôte ses Fers.  
 Qu'on me laisse. Restez, vous. Hé bien ! téméraire,  
 Tu vois quel est le fruit de m'avoir sçû déplaire ;  
@@ -2877,10 +2877,10 @@ La plus aimable vie, ou la plus dure mort
 Sont à ton choix.  
 
     CARLOS.
-Madame.  
+    Madame.  
 
     CELIME.
-En l'état⁎ déplorable,  
+        En l'état⁎ déplorable,  
 Où Julie a réduit ton destin⁎ miserable,  
 S'arracher d'un Objet⁎ qu'on aime tendrement,  
 N'est pas, je le sçay trop, l'ouvrage d'un moment ;  
@@ -2900,15 +2900,15 @@ CARLOS, ZAIRE, FATIMAN.
 
 
     CARLOS.
-Ciel ! Je… Mais vous à ce qu'elle souhaite,  
+        Ciel ! Je… Mais vous à ce qu'elle souhaite,  
 Prêteriez-vous les mains ?  
 
     ZAIRE.
-M'en garde le Prophete.  
+        M'en garde le Prophete.  
 Allons chez Fatiman luy…  
 
     FATIMAN.
-J'ay tout entendu  
+        J'ay tout entendu  
 Au Cabinet⁎ prochain⁎ ; étonné⁎, confondu,  
 De voir à quel excés elle poussoit l'outrage,  
 Indigné de l'affront, inspiré par la rage,  
@@ -2932,7 +2932,7 @@ Voyons quel est l'essay de ses galanteries.
 Le voilà.  
 
     FATIMAN.
-Ce Coffret. Comment, mes Pierreries !  
+        Ce Coffret. Comment, mes Pierreries !  
 L'usage qu'elle en fait m'inspire le dessein,  
 D'inventer des tourmens⁎ qui perceront son sein.  
 Va la trouver, Zaïre, & pour flater⁎ son ame⁎,  
@@ -2947,15 +2947,15 @@ TOMIRE, FATIMAN, ZAIRE, CARLOS.
 
 
     TOMIRE.
-Je venois, Seigneur, l'ame contente  
+        Je venois, Seigneur, l'ame contente  
 Raconter à mon Maître une Histoire plaisante :  
 Mais…  
 
     FATIMAN.
-Dis-moy ce que c'est.  
+    Dis-moy ce que c'est.  
 
     TOMIRE.
-L'illustre D. Brusquin,  
+        L'illustre D. Brusquin,  
 S'en alloit vers le Port fort outré de chagrin⁎ :  
 Donnant les Turcs au Diable, & résolu sur l'heure  
 De se remettre en Mer, pour changer de demeure,  
@@ -3000,12 +3000,12 @@ Et si ce Fatiman veut l'épouser aussi ?
 On l'ameine.  
 
     FATIMAN *à Carlos*.
-A ses yeux tu ne dois point paroître,  
+        A ses yeux tu ne dois point paroître,  
 Que quand il sera tems de te faire connoître,  
 Laisse-moy.  
 
     TOMIRE.
-Le voilà plaisamment consterné.  
+        Le voilà plaisamment consterné.  
 
 
 ### SCENE VI.
@@ -3024,7 +3024,7 @@ Vous voyez Fatiman, vîte, la revérence,
 A son aspect : Bas, bas, plus bas.  
 
     D. BRUSQUIN.
-Quelle arrogance !  
+        Quelle arrogance !  
 Le Traître de mes coups, rit, entre cuir & chair [337],  
 Et pour comble de maux je n'ose m'en fâcher.  
 
@@ -3066,7 +3066,7 @@ Je te feray partir, tu ne le verras point,
 Mais à condition…  
 
     D. BRUSQUIN.
-Quel est ce nouveau Pacte ?  
+        Quel est ce nouveau Pacte ?  
 
     FATIMAN.
 Qu'avant que de partir, on mettra dans un Acte,  
@@ -3082,7 +3082,7 @@ Qu'à cet effet pour toy sa bonté se résout,
 Que même à tes dépens.  
 
     D. BRUSQUIN.
-Le Papier souffre tout,  
+        Le Papier souffre tout,  
 Que l'on y mette tout ce que l'on voudra mettre,  
 Pourrois-je l'empêcher ? Je veux bien m'en remettre  
 Sur les soins⁎ que je crois que vous-même en aurez.  
@@ -3094,11 +3094,11 @@ Il faudra le signer, & puis vous partirez.
 Moy le signer.  
 
     FATIMAN.
-Ouy toy, la chose étant écrite,  
+        Ouy toy, la chose étant écrite,  
 Il faudra bien signer.  
 
     D. BRUSQUIN.
-Ah le chien⁎ d'hypocrite !  
+        Ah le chien⁎ d'hypocrite !  
 Quoy, vouloir qu'en signant un pareil Concordat⁎,  
 Je passe pour un Sot sur mon Certificat⁎ ;  
 Et que pour ma Moitié par écrit je convienne⁎,  
@@ -3122,7 +3122,7 @@ Ait pris l'un de vous d'eux pour laisser l'autre en paix,
 Quiconque restera…  
 
     D. BRUSQUIN.
-Moy Captif ! & le vôtre !  
+        Moy Captif ! & le vôtre !  
 
     FATIMAN.
 Ira porter chez luy les nouvelles de l'autre.  
@@ -3133,10 +3133,10 @@ Par divertissement, pour t'apprendre à ramer.
 Qui, moy, ramer !  
 
     FATIMAN.
-Toy-même.  
+    Toy-même.  
 
     D. BRUSQUIN.
-Ah Ciel ! quel coup de foudre !  
+        Ah Ciel ! quel coup de foudre !  
 
     FATIMAN.
 Souviens-toy que tu n'as qu'une heure à te résoudre.  
@@ -3194,7 +3194,7 @@ Le Frere de Carlos vient d'arriver icy,
 M'as-tu dit, & son Oncle est mort ?  
 
     TOMIRE.
-Ouy, Dieu mercy.  
+        Ouy, Dieu mercy.  
 Le bon Homme [341] est défunt, & pour longues années,  
 Nous allons voir bien-tôt changer nos destinées⁎ [342].  
 Que diable ! pour mourir, qu'est-ce qu'il attendoit ?  
@@ -3202,11 +3202,11 @@ Que la peste le créve⁎ en quelqu'endroit qu'il soit.
 Le vieux Renard qu'il est.  
 
     MARINE.
-Ton dépit me fait rire,  
+        Ton dépit me fait rire,  
 Pourquoy le maudis-tu ?  
 
     TOMIRE.
-Je le puis bien maudire.  
+        Je le puis bien maudire.  
 Si quelques mois plûtôt ce Singe eût trépassé,  
 Mon gros Diable de Turc ne m'eût point tant rossé⁎ [343].  
 Il avoit force Argent, & le Frere en apporte  
@@ -3231,7 +3231,7 @@ Toy ? quelle vision ! vraîment l'audace est belle,
 M'en conter !  
 
     TOMIRE.
-Ouy, comment est-ce chose nouvelle ?  
+        Ouy, comment est-ce chose nouvelle ?  
 Avant que ta Maîtresse eût eu son Sot Epoux,  
 Est-ce que je manquois jamais au rendez-vous ?  
 Et tandis que mon Maître entretenoit⁎ Julie,  
@@ -3247,7 +3247,7 @@ Quelques mots en passant par maniere d'acquit [346].
 Quand on aime, on en parle.  
 
     TOMIRE.
-En étois-je capable ?  
+        En étois-je capable ?  
 J'avois pour Directeur un cœur⁎ impitoyable,  
 Qui depuis le matin jusqu'à minuit sonnant,  
 Querelle à lettre vûë [347], & rosse⁎ argent comptant.  
@@ -3263,7 +3263,7 @@ Et folâtrer un peu sur nouveaux frais ; je meure [348]
 Si mon cœur⁎…  
 
     MARINE.
-Et demain, peut-être, ou dans une heure,  
+        Et demain, peut-être, ou dans une heure,  
 Si les coups de bâton surviennent là-dessus,  
 Tu ne me diras rien, ou ne m'aimeras plus.  
 Je prétens qu'un Amant⁎, en pareille avanture,  
@@ -3273,7 +3273,7 @@ A qui la peur des coups fait faire le plongeon [349].
 Entens-tu ?  
 
     TOMIRE.
-Cependant, à regret je m'en vante ;  
+        Cependant, à regret je m'en vante ;  
 Mon amour n'est point ladre [350], & la peur l'épouvante :  
 J'en conviens⁎, c'est pour moy, si tu veux, un malheur ;  
 Mais j'ay la peau fort tendre, aussi-bien que le cœur⁎ ;  
@@ -3282,10 +3282,10 @@ Et te faire ma cour, sçais-tu bien que Julie
 M'a tantôt promis...  
 
     MARINE.
-Quoy ?  
+    Quoy ?  
 
     TOMIRE.
-Que nous serions unis.  
+        Que nous serions unis.  
 
     MARINE.
 Il vaudroit mieux pour toy que je te l'eus promis.  
@@ -3294,7 +3294,7 @@ Il vaudroit mieux pour toy que je te l'eus promis.
 Chut, Celime paroît  
 
     MARINE.
-Elle parle à Zaïre.  
+        Elle parle à Zaïre.  
 Ecoutons, & songeons à ce qu'il nous faut dire.  
 
 
@@ -3318,7 +3318,7 @@ Ils sont en bonne main⁎, n'en soyez point en peine.
 Et Carlos ?  
 
     ZAIRE.
-Avec vous il s'apprête à partir.  
+        Avec vous il s'apprête à partir.  
 
     CELIME.
 Dis-moy, son cœur⁎ est-il touché de repentir ?  
@@ -3340,13 +3340,13 @@ Que voy-je ? quelle Fille icy s'offre à ma vuë ?
 Elle est à Julie.  
 
     CELIME.
-Ah ! m'auroit-elle entenduë ?  
+        Ah ! m'auroit-elle entenduë ?  
 
     ZAIRE.
 Je ne crois pas, Madame, elle est trop loin.  
 
     CELIME.
-Voilà  
+        Voilà  
 Le Valet de Carlos aussi ! Que fais-tu là ?  
 
     TOMIRE.
@@ -3357,17 +3357,17 @@ Je ris dans mon petit particulier [351], Madame.
 Quoy ?  
 
     TOMIRE.
-Marine est en place à [352] se désesperer.  
+        Marine est en place à [352] se désesperer.  
 Et mon petit Esprit rit de la voir pleurer.  
 
     CELIME.
 Elle pleure ?  
 
     MARINE.
-Ouy, Madame.  
+    Ouy, Madame.  
 
     CELIME.
-Eh pourquoy ? qu'est-ce à dire ?  
+        Eh pourquoy ? qu'est-ce à dire ?  
 
     MARINE.
 Je pleure de dépit que j'ay de le voir rire.  
@@ -3431,13 +3431,13 @@ CELIME, FATIMAN, ZAIRE, TOMIRE, MARINE.
 
 
     FATIMAN, *montrant Tomire aux Turcs*.
-Le voilà, que l'on le mette aux Fers.  
+        Le voilà, que l'on le mette aux Fers.  
 
     CELIME.
 Dans mon Appartement ? devant moy ?  
 
     ZAIRE. 
-Quels revers ?  
+        Quels revers ?  
 
 
 ### SCENE IV.
@@ -3448,7 +3448,7 @@ FATIMAN, CELIME, ZAIRE.
 Helas !  
 
     FATIMAN.
-Par des ingrats je suis trahy, Madame.  
+        Par des ingrats je suis trahy, Madame.  
 Malgré tous mes bienfaits, pleins d'une noirceur d'ame,  
 N'écoutant qu'un esprit au crime abandonné,  
 Pas un endroit sensible⁎ ils m'ont assassiné.  
@@ -3463,14 +3463,14 @@ Venez le voir, Madame, à vos yeux expirer.
 Suivez moy.  
 
     CELIME.
-Juste Ciel !  
+    Juste Ciel !  
 
     FATIMAN.
-Vous semblez chancelante,  
+        Vous semblez chancelante,  
 Venez le voir mourir.  
 
     CELIME.
-De son crime ignorante  
+        De son crime ignorante  
 Je cherche en mon esprit, confus, embarrassé,  
 Par quel endroit il peut vous avoir offensé.  
 
@@ -3482,14 +3482,14 @@ On l'a trouvé saisi de ce Coffret, Madame.
 Hé bien !  
 
     FATIMAN.
-Ces Diamans entre ses mains tombez,  
+        Ces Diamans entre ses mains tombez,  
 Prouvent qu'il vous les a sûrement dérobez.  
 
     CELIME.
 Luy, dérobez !  
 
     FATIMAN.
-Comment puis-je ne le pas croire ?  
+        Comment puis-je ne le pas croire ?  
 Prendrois-je des soupçons honteux à vôtre gloire ?  
 Les auroit-il reçûs de vôtre main ? Parlez ?  
 
@@ -3510,14 +3510,14 @@ On le croit criminel, même dans l'innocence.
 Qu'entendez-vous par là ?  
 
     CELIME.
-Dom Carlos en fait foy [354].  
+        Dom Carlos en fait foy [354].  
 Tu sçais que ces bijoux luy sont donnez par moy.  
 
     ZAIRE.
 Ouy, Madame.  
 
     FATIMAN.
-Il les tient de vous? Qu'osez vous dire ?  
+        Il les tient de vous? Qu'osez vous dire ?  
 
     CELIME.
 Et tu n'ignores pas à quel dessein Zaïre ?  
@@ -3526,7 +3526,7 @@ Et tu n'ignores pas à quel dessein Zaïre ?
 Non, Madame.  
 
     CELIME.
-Et tu vois comment il est traité ?  
+        Et tu vois comment il est traité ?  
 
     FATIMAN.
 Madame, où poussez-vous ma curiosité ?  
@@ -3580,7 +3580,7 @@ Messieurs, que faites-vous, je suis prêt à signer,
 L'heure n'est pas sonnée ?  
 
     STAMORAT.
-Elle vient de sonner.  
+        Elle vient de sonner.  
 Et c'est ta faute, au lieu d'aller au necessaire,  
 Tu veux moraliser, ou tu ne fais que braire,  
 Tu crois qu'on soit payé pour t'entendre crier.  
@@ -3617,7 +3617,7 @@ N'importe, donnez-moy cette derniere joye.
 Il va me renvoyer.  
 
     D. BRUSQUIN.
-Eh bien, s'il vous renvoye,  
+        Eh bien, s'il vous renvoye,  
 Vous ferez lors [358] de moy tout ce qu'il vous plaira :  
 Voyons de quel secours mon Argent me sera.  
 Tenez, prenez cecy, pour vous donner courage.  
@@ -3688,7 +3688,7 @@ Et qu'à table auprés d'eux tes discours⁎ ordinaires ;
 Pour cela décomptez.  
 
     FATIMAN.
-Décomptez ! aux Galeres.  
+        Décomptez ! aux Galeres.  
 
     D. BRUSQUIN.
 Quartier, Messieurs, s'il faut cela pour m'en sauver,  
@@ -3711,10 +3711,10 @@ De quel air⁎ voulez vous que pour le satisfaire...
 Quoy, cela te fait peine [362] ?  
 
     D. BRUSQUIN.
-Ouy, sans doute.  
+    Ouy, sans doute.  
 
     FATIMAN.
-En Galere,  
+        En Galere,  
 Allez, c'est trop vouloir marchander avec moy.  
 
     D. BRUSQUIN.
@@ -3760,7 +3760,7 @@ Te faire voir l'Epoux que je donne à ta Femme.
 Comment, ce n'est pas vous ?  
 
     FATIMAN.
-Non, sans doute, & sa flâme⁎  
+        Non, sans doute, & sa flâme⁎  
 N'ayant pû se cacher, son cœur⁎ s'est declaré  
 En faveur⁎ de celuy qu'elle t'a préferé :  
 Et touché d'une ardeur⁎ si tendre⁎ & si fidelle,  
@@ -3791,14 +3791,14 @@ Recevez de ma main Carlos pour vôtre Epoux.
 Quoy, Carlos ! est-ce ainsi que mes ordres…  
 
     FATIMAN.
-Perfide,  
+        Perfide,  
 De l'odieux amour qui vous charme⁎ & vous guide,  
 Grace à mes bons destins⁎ le projet m'est connu,  
 Mais de vous en punir le moment est venu,  
 Ingrate, rougissez.  
 
     CELIME.
-O Ciel ! je suis trahie.  
+        O Ciel ! je suis trahie.  
 
     FATIMAN.
 Qui vous portoit Cruelle, à cette perfidie ?  
@@ -3827,14 +3827,14 @@ FATIMAN, JULIE, CARLOS, STAMORAT, MARINE, TOMIRE, D. BRUSQUIN, suite.
 Seigneur en faveur…  
 
     FATIMAN.
-Non, n'ayez nul soucy⁎ [364].  
+        Non, n'ayez nul soucy⁎ [364].  
 Aprés tous les travaux⁎ d'une longue constance,  
 Venez de vôtre amour cüeillir la récompense,  
 Vous êtes à Carlos, & Julie est à vous.  
 D. Brusquin y consent.  
 
     D. BRUSQUIN.
-Quoy ! c'est là cet Epoux ?  
+        Quoy ! c'est là cet Epoux ?  
 
     FATIMAN.
 Ouy, c'est luy, qui charmé des beaux yeux de Julie  

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-2-1 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-201 *act_ *date_1682 *creator_champmesle
 
 -*who_lignon
 O Amour, que tu agites mon esprit de diverses inquiétudes !
@@ -199,7 +199,7 @@ Allons chercher ce rare Objet, pour le prier de choisir de nous deux ; et celuy
 Je consens à cela.
 Mais la voicy.
 
-**** *book_ *id_body-2-2 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-202 *act_ *date_1682 *creator_champmesle
 
 -*who_jourdain
 Belle Nymphe, vous voyez icy deux Fleuves tous deux amoureux de vous.
@@ -267,7 +267,7 @@ Ah ! voicy nostre Rival ; retirons-nous, Pasteur, de peur de quelques demeslez
 -*who_lignon
 Cela est vray, Pasteur.
 
-**** *book_ *id_body-2-3 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-203 *act_ *date_1682 *creator_champmesle
 
 -*who_charlote
 Pargué⁎ Pierrot, tu t'es donc trouvé là bien à point ?
@@ -431,7 +431,7 @@ Helas, c'eust esté dommage qu'il eust esté noyé.
 -*who_pierrot
 Je revian toute à l'heure, je m'en vay boire chopine, pour me rebou- ter tant soit peu de la fatigue que j'ay euë.
 
-**** *book_ *id_body-2-4 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-204 *act_ *date_1682 *creator_champmesle
 
 -*who_gusman
 Par ma foy il semble que nous n'ayons jamais bû que du vin, et nous voila aussi bien remis que si de rien n'avoit esté ; mais, Monsieur, dites-moy un peu, s'il vous plaist, tous ces vœux que nous avons faits avec tant d'ardeur dans le péril sur la Mer, seront-ils executez avec la mesme ?
@@ -531,7 +531,7 @@ O Monsieur, ma mere m'a dit qu'il ne falloit pas baiser les hommes, je ne baise 
 -*who_juan
 Tant mieux, ma belle, tant mieux, abandonnez-moy seulement vostre main ; je ne me sens pas de joye et rien n'égale le ravissement où je suis.
 
-**** *book_ *id_body-2-5 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-205 *act_ *date_1682 *creator_champmesle
 
 -*who_pierrot
 Tout doucement, Monsieur, tenez-vous, s'il vous plaist, vous vous échaufez trop, et vous pourriais gagner la puresie.
@@ -639,7 +639,7 @@ J'imagine une piece assez plaisante pour l'intimider et l'empescher de quereller
 Reposez-vous sur moy ; je luy vay mettre mon camarade en teste, et de la façon dont je conduiray la chose, je vous promets de servir vostre amour.
 Allons seulement faire un doigt de collation.
 
-**** *book_ *id_body-3-1 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-301 *act_ *date_1682 *creator_champmesle
 
 -*who_charlote
 Mon pere, pourquoy me tourmentez-vous ?
@@ -652,7 +652,7 @@ Adieu, qu'on ne m'en souffle pas seulement un petit mot.
 Voyez-vous, il leur faut des godeluriaux, de ces petits muguets bastis comme des poupées, avec leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le Monsieur ne sera pas pour vous, ma fille.
 Ah, voicy son Valet de Chambre, c'est le plus honneste d'eux tous, celuy-là, car dés le matin nous avons bû ensemble.
 
-**** *book_ *id_body-3-2 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-302 *act_ *date_1682 *creator_champmesle
 
 -*who_juge
 Monsieur Gusman, je suis le vostre ; comment vous va ?
@@ -694,7 +694,7 @@ Oüy ; mais cela ne sera rien : c'est un drosle qui prend avec un peu trop de 
 -*who_juge
 Et oüy da ; mais s'il m'alloit tuer sans vous avertir, je ne laisserois pas que d'estre mort.
 
-**** *book_ *id_body-3-3 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-303 *act_ *date_1682 *creator_champmesle
 
 -*who_gusman
 Chut, ne faites point semblant de rien, et vous tenez un peu à l'écart, le voicy ; vous allez entendre comme je luy vay parler.
@@ -799,7 +799,7 @@ Je m'en vais un peu consulter ce que j'ay à faire, et si on ne me conseille rie
 -*who_gusman
 La peste soit le vieux fou, il nous va attirer icy quelque défluxion sur les épaules.
 
-**** *book_ *id_body-3-4 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-304 *act_ *date_1682 *creator_champmesle
 
 -*who_juan
 Et bien, Gusman, qu'as-tu fait ?
@@ -846,7 +846,7 @@ Nous partons joyeux d'un païs où nous sommes endebtez, pour aller employer nos
 -*who_juan
 Paix, paix ; ne dis mot, écoute seulement, je vay payer d'une monnoye toute nouvelle.
 
-**** *book_ *id_body-3-5 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-305 *act_ *date_1682 *creator_champmesle
 
 -*who_juan
 Ah, que vois-je ?
@@ -1000,13 +1000,13 @@ Belle maniere de payer ses Creanciers.
 On ne nous rapporte ny argent faux, ny Pistoles légeres.
 Mais voicy mon vieux Juge avec son Gendre prétendu ; tâchons de détourner l'orage qu'ils nous apprestent.
 
-**** *book_ *id_body-3-6 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-306 *act_ *date_1682 *creator_champmesle
 
 -*who_pierrot
 Pour moy je ne trouve rien de meilleur pour nos affaires que de crier haro sur ce diable de Monsieur qui veut tuer les Hommes, et prendre les Femmes.
 Palsangué⁎, faites comme moy, je criërons l'allarme.
 
-**** *book_ *id_body-3-7 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-307 *act_ *date_1682 *creator_champmesle
 
 -*who_gusman
 Et qu'y a-t-il, Messieurs ? à quoy bon tout ce vacarme ?

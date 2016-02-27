@@ -1,5 +1,5 @@
 ---
-identifier: chevreau_lucresse  
+identifier: chevreau_lucrece  
 creator: Chevreau, Urbain  
 date: 1637  
 title: La Lucresse romaine. Tragédie  
@@ -1302,7 +1302,7 @@ Qu'ils sçavent offenser ; mais qu'on sçait bien punir ;
 Souffrir⁎ nos ennemis !  
 
     TARQUIN.
-Sexte, il faut avoüer  
+        Sexte, il faut avoüer  
 Que vous avez un cœur⁎ qu'un chacun [198] doit loüer.  
 On sçait que vos exploits forcent⁎ la Renommée  
 De porter vostre nom plus loing que cette armée ;  
@@ -1519,7 +1519,7 @@ Qu'elle a trop de sujet de banir sa tristesse⁎.
 Est-elle à Colatie ?  
 
     MISENE.
-Elle y fait son séjour.  
+        Elle y fait son séjour.  
 
     COLATIN.
 Elle en pourroit partir si j'estois de retour ?  
@@ -1863,7 +1863,7 @@ Fait naistre en mesme temps et l'enuie⁎, et l'amour,
 Et qu'apres ce combat…  
 
     LUCRESSE.
-Ma chere Cecilie,  
+        Ma chere Cecilie,  
 « On ne se peut aymer dans sa melancolie [250].  
 Helas une beauté dans l'état où je suis  
 Conserve rarement sa force⁎ et ses ennuis⁎ ;  
@@ -1933,7 +1933,7 @@ La honte et le dépit avec le chastiment ?
 Toutefois Colatin…  
 
     LUCRESSE.
-Quoi vous estes au port ? [256]  
+        Quoi vous estes au port ? [256]  
 Et je vous entretiens⁎ cependant qu'il est mort.  
 
     MAXIME.
@@ -1955,7 +1955,7 @@ Sexte le veut servir, bref ce triste⁎ rapport
 Qui vous doit affliger…  
 
     LUCRESSE.
-Je voy bien qu'il est mort.  
+        Je voy bien qu'il est mort.  
 Ah ! pauvre Colatin, ta femme ne peut croire [259],  
 Qu'un dessein⁎ de regner ait obscurcy ta gloire⁎.  
 
@@ -2226,7 +2226,7 @@ Qu'on connoisse l'objet⁎ d'une flâme si forte :
 Et nous verrons apres !  
 
     MELIXENE.
-À parler sainement, [288]  
+        À parler sainement, [288]  
 Je croy qu'on n'en peut faire un ferme jugement.  
 Toutefois nous pouvons remarquer la plus belle,  
 Et dire qu'il a droit de soûpirer⁎ pour elle,  
@@ -2436,7 +2436,7 @@ Toute-fois ce moyen ne sçauroit m'attirer.
 N'importe !  
 
     SEXTE.
-J'en ay cent pour vous desesperer.  
+        J'en ay cent pour vous desesperer.  
 Mais vous resistez trop ; et j'ay trop d'inocence,  
 Il se faut au besoin servir de violence.  
 
@@ -2444,14 +2444,14 @@ Il se faut au besoin servir de violence.
 Hé sauvez mon honneur⁎.  
 
     SEXTE.
-Nous en viendrons à bout !  
+        Nous en viendrons à bout !  
 
     LUCRESSE.
 Que voulez vous de moy, puis que vous m'ôtez tout ?  
 Au secours Cecilie…  
 
     SEXTE.
-Ah ! J'ay trop eu de crainte  
+        Ah ! J'ay trop eu de crainte  
 J'estime tout en vous, mais je hay vostre plainte.  
 
     LUCRESSE.
@@ -2578,13 +2578,13 @@ Madame qu'il demeure, et qu'il n'en sçache rien,
 Il apprendroit sa honte.  
 
     LUCRESSE.
-O Dieux quel entretien⁎ !  
+        O Dieux quel entretien⁎ !  
 Une telle action seroit-elle impunie ?  
 Colatin doit vanger ma douleur infinie.  
 Ne m'en parle jamais !  
 
     CECILIE.
-Je prevoy des mal-heur,  
+        Je prevoy des mal-heur,  
 Qui vous feront verser et du sang et des pleurs ;  
 Sexte ne peut jamais eviter sa colere,  
 Il ira le tuër dans les bras de son père  
@@ -2666,7 +2666,7 @@ C'est d'avoir eu de l'heur, et ne n'en avoir plus.
 Toutefois confessez.  
 
     SEXTE.
-Que j'ay failli sans doute ;  
+        Que j'ay failli sans doute ;  
 Mais confessez aussi que l'amour ne voit goute [321],  
 Et que bien rarement on s'entretient⁎ des Dieux  
 Quand un objet⁎ si beau se presente à nos yeux.  
@@ -2722,7 +2722,7 @@ Je crains quelque accident.
     COLATIN.
 Il dit cecy en prenant le papier.
 
-Que viens-tu de me dire ?  
+        Que viens-tu de me dire ?  
 Dois-je le déchirer ou si [325] je le doy lire ?  
 S'il cache mon mal-heur, à quoy bon de le voir,  
 Le puis-je déchirer s'il me fait le sçavoir ?  
@@ -2860,8 +2860,8 @@ Dieux qui sçavez l'autheur de cèt injuste éfort !
 Le pouvez vous bien voir sans luy donner la mort ?  
 Sexte a fait nos mal-heurs.  
 
-    LUCRETIE. 
-Il faut tout entreprendre⁎,  
+    LUCRETIE.
+        Il faut tout entreprendre⁎,  
 Viste ne craignons rien, tachons de nous defendre.  
 Tel que [335] soit le tyran qui nous ôte l'honneur⁎,  
 Il se ressouvient trop de son premier honneur⁎.  
@@ -2948,7 +2948,7 @@ Seigneur pardonnez moy je viens me reconnetre [341].
 J'ay violé Lucresse.  
 
     BRUTE.
-O Lâche suborneur !  
+        O Lâche suborneur !  
 Nous avons cent moiens pour finir ton bon-heur.  
 Qu'une telle action demeurât impunie,  
 Brute que tardes tu dans cette tyrannie ?  
@@ -3306,7 +3306,7 @@ Allons chercher le fils, vangeons nous sur la mere,
 Par leur banissement ou leur commune mort,  
 Rome sera sauvee, et nous serons au port [358].  
 
-    COLATIN. 
+    COLATIN.
 La vengeance est trop douce, ah ne retardons pas,  
 S'il a plus d'une vie, il a plus d'un trépas.  
 Quand il sera puni, je suivray ta belle ombre,  

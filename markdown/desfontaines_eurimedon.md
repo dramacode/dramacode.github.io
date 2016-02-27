@@ -973,7 +973,7 @@ Lecteur je croirois offencer ton jugement si je ne le croyois capable de discern
  – ALERINESuivante de Pasithee.
  – AGRAMORPage de Tygrane.
 La Scene est en l'Isle de Lesbos.
-< EURIMEDONTRAGI-COMEDIE >
+
 
 
 ## ACTE I
@@ -1056,7 +1056,7 @@ Vous pourront esclaircir de cét heureux presage.
 Où sont-ils ?  
 
     FALANTE.
-        Les voilà qui viennent droit à vous,  
+                Les voilà qui viennent droit à vous,  
 Pour avoir le bon-heur d'embrasser vos genoux.  
 
     ARCHELAS.
@@ -1285,10 +1285,10 @@ Et benit le retour de sa chere Princesse.
 De qui ?  
 
     FALANTE.
-De Pasithee.  
+    De Pasithee.  
 
     TYGRANE.
-            O rare invention !  
+                    O rare invention !  
 Croy-tu par ce moyen calmer ma passion ?  
 Non (Falante) sa perte est par trop veritable  
 Pour cesser mes transports⁎ au recit d'une fable.  
@@ -1403,7 +1403,7 @@ Luy conseille de vivre en cette deffiance
 Mais il craint vainement.  
 
     EURIMEDON.
-            Je ne sçay si le sort  
+                    Je ne sçay si le sort  
 Ou sa timidité⁎ l'ont esloigné du port  
 Mes gens pour le trouver ont tourné⁎ toute l'Isle [172]  
 Mais sa fuitte a rendu leur recherche inutile.  
@@ -1427,7 +1427,7 @@ Mais lors⁎ qu'il attendoit le prix de sa rançon
 Ma pitié le sauva.  
 
     PASITHEE.
-        Dieux ! de quelle façon ?  
+                Dieux ! de quelle façon ?  
 
     EURIMEDON.
 Je cognus par l'excez de la melancolie  
@@ -1501,29 +1501,29 @@ Pour vous donner icy de plus nobles amis.
 Madame,  
 
     PASITHEE.
-Poursuivez.  
+    Poursuivez.  
 
     EURIMEDON.
-            Je ne puis.  
+                Je ne puis.  
 
     PASITHEE.
-                Quelle crainte [184]  
+                        Quelle crainte [184]  
 Vous faict aupres de moy vivre en cette contrainte ?  
 
     EURIMEDON.
 Permettez moy Madame.  
 
     PASITHEE.
-            Achevez.  
+                Achevez.  
 
     EURIMEDON.
-            D'esperer.  
+                    D'esperer.  
 
     PASITHEE.
 Esperez.  
 
     EURIMEDON.
-Ah Madame ! Il vous faut adorer.  
+        Ah Madame ! Il vous faut adorer.  
 Car pourveu que le cœur à la bouche responde  
 Je me tiens desormais le plus heureux du monde ;  
 Mais à ce grand bon-heur Tygrane espere aussi.  
@@ -1626,7 +1626,7 @@ Que vous pourra donner cette belle victoire
 Quelle ?  
 
     TYGRANE.
-D'Eurimedon, qui vous donne son cœur.  
+        D'Eurimedon, qui vous donne son cœur.  
 
     PASITHEE.
 Veid-on jamais vaincu triompher du vainqueur ?  
@@ -1726,7 +1726,7 @@ Voyla comme je croy celuy que je demande.
 Page que cherches-tu ?  
 
     ARGAMOR.
-            Je cherche Eurimedon.  
+                    Je cherche Eurimedon.  
 
     CELIANE. 
 Feignons pour sçavoir tout que je porte ce nom. [203]  
@@ -1839,7 +1839,7 @@ C'est où je tremperay maintenant mon espee.
 Tu mentiras perfide⁎.  
 
     TYGRANE.
-            Ah c'est trop discourir.  
+                    Ah c'est trop discourir.  
 Quand Mars [209] et tous les Dieux te viendroient secourir,  
 Ce propos insolent te coustera la vie.  
 
@@ -1848,7 +1848,7 @@ Ah Dieux ! ce coup mortel seconde son envie,
 Je meurs contente⁎ (ingrat.)  
 
     TYGRANE.
-                C' [210]en est faict il est mort.  
+                        C' [210]en est faict il est mort.  
 Et ce fameux Guerrier en espreuve un plus fort.  
 Mais que me sert d'avoir vaincu ce grand courage  
 S'il a mesme en sa mort dessus moy l'avantage :  
@@ -2044,7 +2044,7 @@ Te va faire servir à mon bras de victime.
 Ah Sire !  
 
     ARCHELAS.
-Laisse moy punir ce suborneur,  
+        Laisse moy punir ce suborneur,  
 Qui faict de mon Palais le tombeau de l'honneur⁎.  
 
     PASITHEE *à Eurimedon.*
@@ -2193,7 +2193,7 @@ Et joignons nostre droict à ses ressentimens.
 Le Ciel  
 
     CELIANE *l'abordant.*
-    Eurimedon, vous sera plus propice [229]  
+            Eurimedon, vous sera plus propice [229]  
 S'il ouvre quelque jour l'oreille à la Justice  
 
     EURIMEDON.
@@ -2211,7 +2211,7 @@ Et que le Roy touché de ce traict de valeur⁎
 Vouloit faire de vous. [231]  
 
     EURIMEDON.
-            L'exemple du malheur,  
+                    L'exemple du malheur,  
 Ouy Seigneur, apprenez que son ingratitude  
 M'a rendu vagabond en cette solitude,  
 Où pour mieux obeyr aux rigueurs de mon sort  
@@ -2310,7 +2310,7 @@ Cette pauvre Princesse avoit receu sa foy.
 Ah le traistre !  
 
     CELIANE.
-        D'où vient cet homme que je voy ?  
+                D'où vient cet homme que je voy ?  
 
 
 ### SCENE CINQUIESME.
@@ -2578,7 +2578,7 @@ Mais quel estrange bruit vient frapper mon oreille ?
 Sire c'est l'Amazone.  
 
     ARCHELAS.
-            Ah Dieux quelle merveille !  
+                    Ah Dieux quelle merveille !  
 Cette grave douceur et cette Majesté,  
 Sont les visibles traits d'une Divinité.  
 
@@ -2864,7 +2864,7 @@ Voulut perdre d'un coup et l'amant⁎, et l'aymee,
 Mais  
 
     EURIMEDON.
-Vous avez puny trop rigoureusement  
+        Vous avez puny trop rigoureusement  
 L'Amour d'une Princesse, et les vœux d'un Amant⁎  
 Qui n'estoit pas peut-estre indigne de sa flame⁎.  
 
@@ -3023,7 +3023,7 @@ Au poinct où je vous vois aupres du Roy mon pere,
 Vous pouvez tout Madame.  
 
     EURIMEDON.
-            Hé bien ! laissez-moy faire.  
+                    Hé bien ! laissez-moy faire.  
 Quand vous m'aurez donné vostre consentement  
 Il ne manquera rien à son contentement :  
 Mais c'est assez parlé de l'interest d'un autre,  
@@ -3044,11 +3044,11 @@ Pour supplier le Roy qu'il m'accorde une chose.
 Quelle ?  
 
     EURIMEDON.
-Qu'aupres de vous cette nuict je repose,  
+        Qu'aupres de vous cette nuict je repose,  
 Si je ne vous suis pas importune⁎ ;  
 
     PASITHEE.
-                Vrayment  
+                        Vrayment  
 Vous pouviez employer un autre compliment.  
 Importune⁎ bons Dieux ! Me croyez-vous si vaine,  
 Que vous considerant pour ma mere et ma Reyne  
@@ -3074,7 +3074,7 @@ Mais avecque l'adveu⁎ de son consentement.
 J'y vay Madame.  
 
     PASITHEE.
-        Allez : Et venez promptement  
+                Allez : Et venez promptement  
 Pour me deshabiller ; Il est tard ce me semble,  
 Nous aurons tout loisir de deviser ensemble,  
 Si la bonté⁎ du Roy s'accorde à nos desirs.  
@@ -3105,7 +3105,7 @@ Mais bons Dieux ! qu'Alerine est longue en son retour !
 Madame : la voicy.  
 
     EURIMEDON.
-        J'en rends grace⁎ à l'amour.  
+                J'en rends grace⁎ à l'amour.  
 
 
 ### SCENE CINQUIESME.
@@ -3116,7 +3116,7 @@ EURIMEDON, PASITHEE, ALERINE.
 He bien qu'a dit le Roy ?  
 
     ALERINE.
-            Que la belle Hermionne  
+                    Que la belle Hermionne  
 Pour suivre ses desirs n'a besoin de personne,  
 Et que ses volontez sont d'assez fortes loix  
 Pour ne pas relever de la faveur des Roys,  
@@ -3128,7 +3128,7 @@ Elle se retire.
 Il me faict trop d'honneur.  
 
     PASITHEE.
-            Et moy j'en suis ravie.  
+                    Et moy j'en suis ravie.  
 
     EURIMEDON.
 Certes voilà des traicts d'une extréme bonté⁎.  
@@ -3162,7 +3162,7 @@ Mais l'admiration sera mon esloquence.
 Brisons là ce discours, Madame.  
 
     PASITHEE.
-                Je le veux.  
+                        Je le veux.  
 
     EURIMEDON.
 Que le Ciel (ma Princesse) est propice à mes vœux !  
@@ -3185,7 +3185,7 @@ D'où vous vient si soudain cette palleur estrange ?
 Dieux ! vous trouvez-vous mal ?  
 
     EURIMEDON.
-                Madame il faut mourir.  
+                        Madame il faut mourir.  
 Ou que vostre pitié s'offre à me secourir.  
 
     PASITHEE.
@@ -3194,14 +3194,14 @@ Mais ce nouveau discours me rend toute confuse,
 Parlez moy clairement.  
 
     EURIMEDON.
-            Ah Madame ! pardon.  
+                    Ah Madame ! pardon.  
 C'est trop vous abuser, Je suis Eurimedon.  
 
     PASITHEE.
 Eurimedon bons Dieux ! [253]  
 
     EURIMEDON.
-            Luy-mesme ma Deesse.  
+                    Luy-mesme ma Deesse.  
 
     PASITHEE.
 O miserable fille ! ô chetive Princesse.  
@@ -3221,7 +3221,7 @@ Non, non, traistre, je veux que ma douleur esclatte.
 Madame.  
 
     PASITHEE.
-C'est en vain que ton amour me flatte,  
+        C'est en vain que ton amour me flatte,  
 Ne m'importunes plus de tes vœux indiscrets⁎,  
 Mais permets à la mort destouffer mes regrets.  
 O sensible malheur !  
@@ -3232,7 +3232,7 @@ EURIMEDON, PASITHEE, ALERINE.
 
 
     ALERINE.
-        He qu'avez-vous Madame ?  
+                He qu'avez-vous Madame ?  
 
     PASITHEE.
 Un mal qui m'a surprise, et qui m'arrache l'ame.  
@@ -3302,10 +3302,10 @@ CELIANE, TYGRANE.
 
 
     CELIANE. [255]
-Où va Tygrane ?  
+    Où va Tygrane ?  
 
     TYGRANE.
-            Où son devoir l'appelle.      
+                    Où son devoir l'appelle.      
 
     CELIANE.
 Perfide⁎ dy plustost où t'attend une belle.  
@@ -3344,13 +3344,13 @@ Combien ta Pasithee a de grace⁎ et d'apas.
 Ah belle Celiane !  
 
     CELIANE.
-        Hé bien Prince volage ?      
+                Hé bien Prince volage ?      
 
     TYGRANE.
 Serez-vous sans pitié ?  
 
     CELIANE.
-            Seras-tu sans courage ?  
+                    Seras-tu sans courage ?  
 
     TYGRANE.
 Il en faut bien avoir pour souffrir⁎ vos discours.  
@@ -3432,19 +3432,19 @@ Ce fut plustost l'effect de ma juste colere.
 Quoy, vous l'avez chassé ?  
 
     ARCHELAS.
-            Sans doute⁎.  
+                Sans doute⁎.  
 
     MELINTE.
-                    Ah c'est mon frere !  
+                            Ah c'est mon frere !  
 
     ARCHELAS.
 Vostre frere bons Dieux !  
 
     MELINTE.
-            Oüy, mon frere. [258]  
+                Oüy, mon frere. [258]  
 
     ARCHELAS.
-                    Grand Roy.  
+                            Grand Roy.  
 J'ay regret de l'avoir si mal traicté chez moy  
 S'il m'avoit declaré son illustre naissance,  
 Je n'aurois pas commis envers luy cette offence,  
@@ -3586,7 +3586,7 @@ ARCHELAS, MELINTE, TYGRANE, PASITHEE, CELIANE, et leur suite.
 
 
     ARCHELAS.
-        La voyla qui s'advance.  
+                La voyla qui s'advance.  
 
     MELINTE.
 Je vay la saluër. Miracle des beautez,  
@@ -3598,7 +3598,7 @@ Ah Dieux ! que vous m'auriez obligé⁎ de vous taire,
 Vous me perdez Melinte. [264]  
 
     MELINTE.
-            Ah mon frere ! pardon,  
+                    Ah mon frere ! pardon,  
 Je ne me sçaurois taire aupres d'Eurimedon ;  
 Mon bon-heur est trop grand, et ma joye est trop forte,  
 Pour demeurer muet, et feindre de la sorte :  

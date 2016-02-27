@@ -2,10 +2,6 @@
 
 Scène I
 
-Sganarelle, Martine,
-
-
-
 -*who_sganarelle
 Non je te dis que je n'en veux rien faire : et que c'est à moi de parler, et d'être le Maître.
 
@@ -160,9 +156,7 @@ Ah, ah, ah, ah.
 -*who_sganarelle
 Voilà le vrai moyen de vous apaiser.
 
-**** *book_moliere_medecin-malgre-lui *id_I02 *act_I *date_1666
-
-
+**** *book_ *id_I02 *act_I *date_1666
 
 -*who_monsieur_robert
 Holà, holà, holà, fi qu'est ceci ?
@@ -316,15 +310,17 @@ Eh bien va, je te demande pardon, mets là, ta main.
 
 -*who_sganarelle
 Tu es une Folle, de prendre garde à cela.
-Ce sont petites choses qui sont, de temps en temps, nécessaires dans l'Amitié : et cinq ou six coups de bâton, entre Gens qui s'aiment, ne font que ragaillardir l'Affection.Va je m'en vais au Bois : et je te promets, aujourd'hui, plus d'un cent de Fagots.
+Ce sont petites choses qui sont, de temps en temps, nécessaires dans l'Amitié : et cinq ou six coups de bâton, entre Gens qui s'aiment, ne font que ragaillardir l'Affection.
+Va je m'en vais au Bois : et je te promets, aujourd'hui, plus d'un cent de Fagots.
 
-**** *book_moliere_medecin-malgre-lui *id_I03 *act_I *date_1666
+**** *book_ *id_I03 *act_I *date_1666
 
 -*who_martine
-Va, quelque mine que je fasse, je n'oublie pas mon ressentiment : et je brûle en moi-même, de trouver les moyens de te punir des coups que tu me donnes.Je sais bien qu'une femme a toujours dans les mains, de quoi se venger d'un Mari : mais c'est une punition trop délicate pour mon Pendard.
+Va, quelque mine que je fasse, je n'oublie pas mon ressentiment : et je brûle en moi-même, de trouver les moyens de te punir des coups que tu me donnes.
+Je sais bien qu'une femme a toujours dans les mains, de quoi se venger d'un Mari : mais c'est une punition trop délicate pour mon Pendard.
 Je veux une vengeance qui se fasse un peu mieux sentir : et ce n'est pas contentement, pour l'injure que j'ai reçue.
 
-**** *book_moliere_medecin-malgre-lui *id_I04 *act_I *date_1666
+**** *book_ *id_I04 *act_I *date_1666
 
 
 
@@ -332,7 +328,8 @@ Je veux une vengeance qui se fasse un peu mieux sentir : et ce n'est pas conten
 Parguenne, j'avons pris là, tous deux, une guèble de commission : et je ne sais pas moi, ce que je pensons attraper.
 
 -*who_valere
-Que veux-tu mon pauvre Nourricier ? il faut bien obéir à notre Maître : et puis, nous avons intérêt, l'un et l'autre, à la santé de sa Fille, notre maîtresse, et, sans doute, son Mariage différé par sa Maladie, nous vaudrait quelque récompense.Horace qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa Personne : et quoiqu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais, voulu consentir à le recevoir pour son Gendre.
+Que veux-tu mon pauvre Nourricier ? il faut bien obéir à notre Maître : et puis, nous avons intérêt, l'un et l'autre, à la santé de sa Fille, notre maîtresse, et, sans doute, son Mariage différé par sa Maladie, nous vaudrait quelque récompense.
+Horace qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa Personne : et quoiqu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais, voulu consentir à le recevoir pour son Gendre.
 
 -*who_martine
 Ne puis-je point trouver quelque invention pour me venger ?
@@ -354,7 +351,8 @@ Chacun a ses soins dans le Monde : et nous cherchons aussi, ce que nous voudrio
 Serait-ce quelque chose, où je vous puisse aider ?
 
 -*who_valere
-Cela se pourrait faire, et nous tâchons de rencontrer quelque habile Homme, quelque Médecin particulier, qui pût donner quelque soulagement à la Fille de notre Maître, attaquée d'une Maladie qui lui a ôté, tout d'un coup, l'usage de la langue.Plusieurs Médecins ont déjà épuisé toute leur Science après elle : mais on trouve, parfois, des gens avec des Secrets admirables, de certains Remèdes particuliers, qui font le plus souvent, ce que les autres n'ont su faire, et c'est là, ce que nous cherchons.
+Cela se pourrait faire, et nous tâchons de rencontrer quelque habile Homme, quelque Médecin particulier, qui pût donner quelque soulagement à la Fille de notre Maître, attaquée d'une Maladie qui lui a ôté, tout d'un coup, l'usage de la langue.
+Plusieurs Médecins ont déjà épuisé toute leur Science après elle : mais on trouve, parfois, des gens avec des Secrets admirables, de certains Remèdes particuliers, qui font le plus souvent, ce que les autres n'ont su faire, et c'est là, ce que nous cherchons.
 
 -*who_martine
 Ah ! que le Ciel m'inspire une admirable invention pour me venger de mon Pendard. (Haut.) Vous ne pouviez jamais, vous mieux adresser, pour rencontrer ce que vous cherchez ; et nous avons ici, un Homme, le plus merveilleux Homme du monde, pour les Maladies désespérées.
@@ -372,13 +370,15 @@ Un Médecin qui coupe du Bois !
 Qui s'amuse à cueillir des Simples, voulez-vous dire ?
 
 -*who_martine
-Non, c'est un Homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais, pour ce qu'il est.Il va vêtu d'une façon extravagante, affecte, quelquefois, de paraître ignorant, tient sa Science renfermée, et ne fuit rien tant tous les jours, que d'exercer les merveilleux Talents qu'il a eus du Ciel, pour la Médecine.
+Non, c'est un Homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais, pour ce qu'il est.
+Il va vêtu d'une façon extravagante, affecte, quelquefois, de paraître ignorant, tient sa Science renfermée, et ne fuit rien tant tous les jours, que d'exercer les merveilleux Talents qu'il a eus du Ciel, pour la Médecine.
 
 -*who_valere
 C'est une chose admirable, que tous les grands Hommes ont toujours du Caprice, quelque petit Grain de Folie, mêlé à leur Science.
 
 -*who_martine
-La Folie de celui-ci, est plus grande qu'on ne peut croire : car elle va, parfois, jusqu'à vouloir être battu, pour demeurer d'accord de sa capacité ; Et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais, qu'il est Médecin, s'il se le met en fantaisie, que vous ne preniez, chacun, un Bâton, et ne le réduisiez à force de coups, à vous confesser à la fin, ce qu'il vous cachera d'abord.C'est ainsi que nous en usons, quand nous avons besoin de lui.
+La Folie de celui-ci, est plus grande qu'on ne peut croire : car elle va, parfois, jusqu'à vouloir être battu, pour demeurer d'accord de sa capacité ; Et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais, qu'il est Médecin, s'il se le met en fantaisie, que vous ne preniez, chacun, un Bâton, et ne le réduisiez à force de coups, à vous confesser à la fin, ce qu'il vous cachera d'abord.
+C'est ainsi que nous en usons, quand nous avons besoin de lui.
 
 -*who_valere
 Voilà une étrange folie !
@@ -401,8 +401,10 @@ Mais est-il bien vrai, qu'il soit si habile, que vous le dites ?
 
 -*who_martine
 Comment !
-C'est un Homme qui fait des Miracles.Il y a six mois, qu'une Femme fut abandonnée de tous les autres Médecins.
-On la tenait morte, il y avait déjà six heures : et l'on se disposait à l'ensevelir, lorsqu'on y fit venir de force, l'Homme dont nous parlons.Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la Bouche : et dans le même instant, Elle se leva de son Lit, et se mit, aussitôt, à se promener dans sa Chambre, comme si de rien n'eût été.
+C'est un Homme qui fait des Miracles.
+Il y a six mois, qu'une Femme fut abandonnée de tous les autres Médecins.
+On la tenait morte, il y avait déjà six heures : et l'on se disposait à l'ensevelir, lorsqu'on y fit venir de force, l'Homme dont nous parlons.
+Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la Bouche : et dans le même instant, Elle se leva de son Lit, et se mit, aussitôt, à se promener dans sa Chambre, comme si de rien n'eût été.
 
 -*who_lucas
 Ah !
@@ -411,7 +413,9 @@ Ah !
 Il fallait que ce fût quelque goutte d'Or potable.
 
 -*who_martine
-Cela pourrait bien être.Il n'y a pas trois semaines, encore, qu'un jeune Enfant de douze ans, tomba du haut du Clocher, en bas, et se brisa, sur le pavé, la Tête, les Bras et les Jambes.On n'y eut pas plus tôt, amené notre Homme, qu'il le frotta par tout le Corps, d'un certain Onguent qu'il sait faire ; et l'Enfant, aussitôt, se leva sur ses pieds, et courut jouer à la fossette.
+Cela pourrait bien être.
+Il n'y a pas trois semaines, encore, qu'un jeune Enfant de douze ans, tomba du haut du Clocher, en bas, et se brisa, sur le pavé, la Tête, les Bras et les Jambes.
+On n'y eut pas plus tôt, amené notre Homme, qu'il le frotta par tout le Corps, d'un certain Onguent qu'il sait faire ; et l'Enfant, aussitôt, se leva sur ses pieds, et courut jouer à la fossette.
 
 -*who_lucas
 Ah !
@@ -437,7 +441,7 @@ Eh ! morguenne, laissez-nous faire, s'il ne tient qu'à battre, la Vache est à
 -*who_valere
 Nous sommes bien heureux d'avoir fait cette rencontre : et j'en conçois, pour moi, la meilleure espérance du Monde.
 
-**** *book_moliere_medecin-malgre-lui *id_I05 *act_I *date_1666
+**** *book_ *id_I05 *act_I *date_1666
 
 
 
@@ -448,7 +452,8 @@ La, la, la.
 J'entends quelqu'un qui chante, et qui coupe du Bois.
 
 -*who_sganarelle
-La, la, la...Ma foi, c'est assez travaillé pour un coup : prenons un peu d'haleine.
+La, la, la...
+Ma foi, c'est assez travaillé pour un coup : prenons un peu d'haleine.
 Il boit, et dit après avoir bu.
 Voilà du bois qui est salé, comme tous les Diables.
 Qu'ils sont doux
@@ -483,7 +488,8 @@ C'est lui assurément.
 Le velà tout craché, comme on nous l'a défiguré.
 
 -*who_sganarelle
-Ils consultent en me regardant.Quel dessein auraient-ils ?
+Ils consultent en me regardant.
+Quel dessein auraient-ils ?
 
 -*who_valere
 Monsieur, n'est-ce pas vous qui vous appelez Sganarelle ?
@@ -504,7 +510,8 @@ Nous ne voulons que lui faire toutes les civilités que nous pourrons.
 En ce cas, c'est moi, qui se nomme Sganarelle.
 
 -*who_valere
-Monsieur, nous sommes ravis de vous voir.On nous a adressés à vous, pour ce que nous cherchons : et nous venons implorer votre aide, dont nous avons besoin.
+Monsieur, nous sommes ravis de vous voir.
+On nous a adressés à vous, pour ce que nous cherchons : et nous venons implorer votre aide, dont nous avons besoin.
 
 -*who_sganarelle
 Si c'est quelque chose, Messieurs, qui dépende de mon petit Négoce, je suis tout prêt à vous rendre service.
@@ -573,7 +580,8 @@ Je vous jure que vous ne les auriez pas, s'il s'en fallait un double.
 Eh fi.
 
 -*who_sganarelle
-Non, en conscience, vous en payerez cela.Je vous parle sincèrement, et ne suis pas Homme à surfaire.
+Non, en conscience, vous en payerez cela.
+Je vous parle sincèrement, et ne suis pas Homme à surfaire.
 
 -*who_valere
 Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes ? s'abaisse à parler de la sorte ? qu'un Homme si savant, un fameux Médecin, comme vous êtes, veuille se déguiser aux yeux du Monde, et tenir enterrés les beaux Talents qu'il a ?
@@ -677,7 +685,8 @@ Il n'est pas vrai qu'ous sayez Médecin ?
 -*who_sganarelle
 Non, la peste m'étouffe !
 (Là ils recommencent de le battre.) Ah, ah.
-Eh bien, Messieurs, oui, puisque vous le voulez, je suis Médecin, je suis Médecin, Apothicaire encore, si vous le trouvez bon.J'aime mieux consentir à tout, que de me faire assommer.
+Eh bien, Messieurs, oui, puisque vous le voulez, je suis Médecin, je suis Médecin, Apothicaire encore, si vous le trouvez bon.
+J'aime mieux consentir à tout, que de me faire assommer.
 
 -*who_valere
 Ah ! voilà qui va bien, Monsieur, je suis ravi de vous voir raisonnable.
@@ -748,16 +757,19 @@ Je gagnerai ce que je voudrai ?
 Oui.
 
 -*who_sganarelle
-Ah ! je suis Médecin, sans contredit : Je l'avais oublié, mais je m'en ressouviens.De quoi est-il question ? où faut-il se transporter ?
+Ah ! je suis Médecin, sans contredit : Je l'avais oublié, mais je m'en ressouviens.
+De quoi est-il question ? où faut-il se transporter ?
 
 -*who_valere
-Nous vous conduirons.Il est question d'aller voir une Fille, qui a perdu la parole.
+Nous vous conduirons.
+Il est question d'aller voir une Fille, qui a perdu la parole.
 
 -*who_sganarelle
 Ma foi, je ne l'ai pas trouvée.
 
 -*who_valere
-Il aime à rire.Allons, Monsieur.
+Il aime à rire.
+Allons, Monsieur.
 
 -*who_sganarelle
 Sans une Robe de Médecin ?
@@ -772,9 +784,7 @@ Tenez cela vous : voilà où je mets mes juleps.
 -*who_lucas
 Palsanguenne, velà un Médecin qui me plaît ; je pense qu'il réussira ; car il est Bouffon.
 
-**** *book_moliere_medecin-malgre-lui *id_II01 *act_II *date_1666
-
-
+**** *book_ *id_II01 *act_II *date_1666
 
 -*who_valere
 Oui, Monsieur, je crois que vous serez satisfait : et nous vous avons amené le plus grand Médecin du Monde.
@@ -810,7 +820,8 @@ Je meurs d'envie de le voir, faites-le-moi vite venir.
 Je le vais quérir.
 
 -*who_jacqueline
-Par ma fi, Monsieu, ceti-ci fera justement ce qu'ant fait les autres.Je pense que ce sera queussi queumi : et la meilleure Médeçaine, que l'an pourrait bailler à votre fille, ce serait, selon moi, un biau et bon mari, pour qui elle eût de l'amiqué.
+Par ma fi, Monsieu, ceti-ci fera justement ce qu'ant fait les autres.
+Je pense que ce sera queussi queumi : et la meilleure Médeçaine, que l'an pourrait bailler à votre fille, ce serait, selon moi, un biau et bon mari, pour qui elle eût de l'amiqué.
 
 -*who_geronte
 Ouais, Nourrice, Ma mie, vous vous mêlez de bien des choses.
@@ -826,7 +837,8 @@ Est-elle en état, maintenant, qu'on s'en voulût charger, avec l'infirmité qu'
 Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés ?
 
 -*who_jacqueline
-Je le crois bian, vous li vouilliez bailler cun homme qu'alle n'aime point.Que ne preniais-vous ce Monsieu Liandre, qui li touchait au cœur ?Alle aurait été fort obéissante : et je m'en vas gager qu'il la prendrait li, comme alle est, si vous la li vouillais donner.
+Je le crois bian, vous li vouilliez bailler cun homme qu'alle n'aime point.
+Que ne preniais-vous ce Monsieu Liandre, qui li touchait au cœur ?Alle aurait été fort obéissante : et je m'en vas gager qu'il la prendrait li, comme alle est, si vous la li vouillais donner.
 
 -*who_geronte
 Ce Léandre n'est pas ce qu'il lui faut : il n'a pas du Bien comme l'autre.
@@ -835,10 +847,14 @@ Ce Léandre n'est pas ce qu'il lui faut : il n'a pas du Bien comme l'autre.
 Il a un oncle qui est si riche, dont il est hériquié.
 
 -*who_geronte
-Tous ces Biens à venir, me semblent autant de Chansons.Il n'est rien tel que ce qu'on tient : et l'on court grand risque de s'abuser, lorsque l'on compte sur le bien qu'un autre vous garde.La mort n'a pas toujours les oreilles ouvertes aux vœux et aux prières de Messieurs les héritiers : et l'on a le temps d'avoir les dents longues, lorsqu'on attend, pour vivre, le trépas de quelqu'un.
+Tous ces Biens à venir, me semblent autant de Chansons.
+Il n'est rien tel que ce qu'on tient : et l'on court grand risque de s'abuser, lorsque l'on compte sur le bien qu'un autre vous garde.
+La mort n'a pas toujours les oreilles ouvertes aux vœux et aux prières de Messieurs les héritiers : et l'on a le temps d'avoir les dents longues, lorsqu'on attend, pour vivre, le trépas de quelqu'un.
 
 -*who_jacqueline
-Enfin, j'ai, toujours, ouï dire, qu'en Mariage, comme ailleurs, Contentement passe Richesse.Les Bères et les Mères ant cette maudite couteume, de demander toujours, Qu'a-t-il ? et : Qu'a-t-elle ? et le compère Biarre, a marié sa fille Simonette, au gros Thomas, pour un quarquié de Vaigne qu'il avait davantage que le jeune Robin, où alle avait bouté son amiquié : et velà que la pauvre Creiature en est devenue jaune comme un Coing, et n'a point profité tout depuis ce temps-là.C'est un bel exemple pour vous, Monsieu ; on n'a que son plaisir en ce Monde : et j'aimerais mieux, bailler à ma Fille, un bon Mari qui li fût agriable, que toutes les Rentes de la Biausse.
+Enfin, j'ai, toujours, ouï dire, qu'en Mariage, comme ailleurs, Contentement passe Richesse.
+Les Bères et les Mères ant cette maudite couteume, de demander toujours, Qu'a-t-il ? et : Qu'a-t-elle ? et le compère Biarre, a marié sa fille Simonette, au gros Thomas, pour un quarquié de Vaigne qu'il avait davantage que le jeune Robin, où alle avait bouté son amiquié : et velà que la pauvre Creiature en est devenue jaune comme un Coing, et n'a point profité tout depuis ce temps-là.
+C'est un bel exemple pour vous, Monsieu ; on n'a que son plaisir en ce Monde : et j'aimerais mieux, bailler à ma Fille, un bon Mari qui li fût agriable, que toutes les Rentes de la Biausse.
 
 -*who_geronte
 Peste !
@@ -846,7 +862,10 @@ Madame la Nourrice, comme vous dégoisez !
 Taisez-vous, je vous prie, vous prenez trop de soin, et vous échauffez votre Lait.
 
 -*who_lucas
-Morgué, tais-toi, T'es cune impartinante.Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire.Mêle-toi de donner à téter à ton Enfant, sans tant faire la raisonneuse.Monsieu est le Père de sa Fille ; et il est bon et sage, pour voir ce qu'il li faut.
+Morgué, tais-toi, T'es cune impartinante.
+Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire.
+Mêle-toi de donner à téter à ton Enfant, sans tant faire la raisonneuse.
+Monsieu est le Père de sa Fille ; et il est bon et sage, pour voir ce qu'il li faut.
 
 -*who_geronte
 Tout doux, Oh, tout doux.
@@ -857,9 +876,7 @@ Monsieu, je veux un peu la mortifier : et ly apprendre le respect qu'alle vous 
 -*who_geronte
 Oui, mais ces gestes ne sont pas nécessaires.
 
-**** *book_moliere_medecin-malgre-lui *id_II02 *act_II *date_1666
-
-
+**** *book_ *id_II02 *act_II *date_1666
 
 -*who_valere
 Monsieur préparez-vous, voici notre Médecin qui entre.
@@ -907,7 +924,8 @@ Non vraiment.
 Tout de bon ?
 
 -*who_geronte
-Tout de bon.Ah ! ah ! ah !
+Tout de bon.
+Ah ! ah ! ah !
 
 -*who_sganarelle
 Vous êtes Médecin, maintenant, je n'ai jamais eu d'autres Licences.
@@ -949,7 +967,8 @@ Il n'y a pas de mal.
 Que j'ai eu l'honneur de vous donner.
 
 -*who_geronte
-Ne parlons plus de cela.Monsieur, j'ai une Fille qui est tombée dans une étrange Maladie.
+Ne parlons plus de cela.
+Monsieur, j'ai une Fille qui est tombée dans une étrange Maladie.
 
 -*who_sganarelle
 Je suis ravi, Monsieur, que votre Fille ait besoin de moi : et je souhaiterais de tout mon cœur, que vous en eussiez besoin, aussi, vous et toute votre Famille, pour vous témoigner l'envie que j'ai de vous servir.
@@ -1022,9 +1041,7 @@ Je prends part, également, au bonheur de tous deux (Il continue le même jeu) 
 -*who_lucas
 Ah vartigué, Monsieu le Médecin, que de l'antiponages.
 
-**** *book_moliere_medecin-malgre-lui *id_II03 *act_II *date_1666
-
-
+**** *book_ *id_II03 *act_II *date_1666
 
 -*who_geronte
 Monsieur, voici tout à l'heure, ma Fille qu'on va vous amener.
@@ -1074,9 +1091,7 @@ Fi, le vilain, qui est jaloux de sa Femme.
 -*who_geronte
 Voici ma fille.
 
-**** *book_moliere_medecin-malgre-lui *id_II04 *act_II *date_1666
-
-
+**** *book_ *id_II04 *act_II *date_1666
 
 -*who_sganarelle
 Est-ce là, la Malade ?
@@ -1097,7 +1112,8 @@ Voilà une Malade qui n'est pas tant dégoûtante : et je tiens qu'un Homme bie
 Vous l'avez fait rire, Monsieur.
 
 -*who_sganarelle
-Tant mieux, lorsque le Médecin fait rire le Malade, c'est le meilleur signe du Monde.Eh bien, de quoi est-il question ? qu'avez-vous ? quel est le mal que vous sentez ?
+Tant mieux, lorsque le Médecin fait rire le Malade, c'est le meilleur signe du Monde.
+Eh bien, de quoi est-il question ? qu'avez-vous ? quel est le mal que vous sentez ?
 
 -*who_lucinde
 Han, hi, hom, han.
@@ -1119,7 +1135,8 @@ Han, hi, hon, han ha.
 Je ne vous entends point : quel diable de langage est-ce là ?
 
 -*who_geronte
-Monsieur, c'est là, sa Maladie.Elle est devenue muette, sans que jusques ici, on en ait pu savoir la cause : et c'est un Accident qui a fait reculer son Mariage.
+Monsieur, c'est là, sa Maladie.
+Elle est devenue muette, sans que jusques ici, on en ait pu savoir la cause : et c'est un Accident qui a fait reculer son Mariage.
 
 -*who_sganarelle
 Et pourquoi ?
@@ -1136,19 +1153,22 @@ Enfin, Monsieur, nous vous prions d'employer tous vos soins, pour la soulager de
 
 -*who_sganarelle
 Ah !
-Ne vous mettez pas en peine.Dites-moi un peu, ce mal l'oppresse-t-il beaucoup ?
+Ne vous mettez pas en peine.
+Dites-moi un peu, ce mal l'oppresse-t-il beaucoup ?
 
 -*who_geronte
 Oui, Monsieur.
 
 -*who_sganarelle
-Tant mieux.Sent-elle de grandes douleurs ?
+Tant mieux.
+Sent-elle de grandes douleurs ?
 
 -*who_geronte
 Fort grandes.
 
 -*who_sganarelle
-C'est fort bien fait.Va-t-elle où vous savez ?
+C'est fort bien fait.
+Va-t-elle où vous savez ?
 
 -*who_geronte
 Oui.
@@ -1166,7 +1186,8 @@ La Matière est-elle louable ?
 Je ne me connais pas à ces choses.
 
 -*who_sganarelle
-Donnez-moi votre Bras.Voilà un Pouls qui marque que votre fille est muette.
+Donnez-moi votre Bras.
+Voilà un Pouls qui marque que votre fille est muette.
 
 -*who_geronte
 Eh ! oui, Monsieur, c'est là son mal: vous l'avez trouvé tout du premier coup.
@@ -1178,7 +1199,8 @@ Ah, ah.
 Voyez, comme il a deviné sa Maladie.
 
 -*who_sganarelle
-Nous autres grands Médecins, nous connaissons d'abord, les choses.Un Ignorant aurait été embarrassé, et vous eût été dire : C'est ceci, c'est cela : mais moi, je touche au but du premier coup, et je vous apprends que votre Fille est Muette.
+Nous autres grands Médecins, nous connaissons d'abord, les choses.
+Un Ignorant aurait été embarrassé, et vous eût été dire : C'est ceci, c'est cela : mais moi, je touche au but du premier coup, et je vous apprends que votre Fille est Muette.
 
 -*who_geronte
 Oui, mais je voudrais bien que vous me pussiez dire d'où cela vient.
@@ -1209,7 +1231,9 @@ Ah ! c'était un grand Homme !
 Sans doute.
 
 -*who_sganarelle
-Grand Homme tout à fait : un Homme qui était plus grand que moi, de tout cela.Pour revenir, donc, à notre raisonnement, je tiens que cet empêchement de l'action de sa langue, est causé par de certaines Humeurs qu'entre nous autres, Savants, nous appelons humeurs peccantes, peccantes, c'est-à-dire... humeurs peccantes : d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la Région des Maladies, venant... pour ainsi dire... à...Entendez-vous le Latin ?
+Grand Homme tout à fait : un Homme qui était plus grand que moi, de tout cela.
+Pour revenir, donc, à notre raisonnement, je tiens que cet empêchement de l'action de sa langue, est causé par de certaines Humeurs qu'entre nous autres, Savants, nous appelons humeurs peccantes, peccantes, c'est-à-dire... humeurs peccantes : d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la Région des Maladies, venant... pour ainsi dire... à...
+Entendez-vous le Latin ?
 
 -*who_geronte
 En aucune façon.
@@ -1249,7 +1273,8 @@ Je le suis.
 
 -*who_sganarelle
 Qui est causée par l'âcreté des humeurs, engendrées dans la concavité du Diaphragme, il arrive que ces vapeurs ....
-Ossabandus, nequeys, nequer, potarinum, quipsa milus.Voilà justement, ce qui fait que votre Fille est muette.
+Ossabandus, nequeys, nequer, potarinum, quipsa milus.
+Voilà justement, ce qui fait que votre Fille est muette.
 
 -*who_jacqueline
 Ah que ça est bian dit, notte Homme !
@@ -1258,8 +1283,10 @@ Ah que ça est bian dit, notte Homme !
 Que n'ai-je la langue aussi bian pendue !
 
 -*who_geronte
-On ne peut pas mieux raisonner sans doute.Il n'y a qu'une seule chose qui m'a choqué.
-C'est l'endroit du Foie et du Cœur.Il me semble que vous les placez autrement qu'ils ne sont.
+On ne peut pas mieux raisonner sans doute.
+Il n'y a qu'une seule chose qui m'a choqué.
+C'est l'endroit du Foie et du Cœur.
+Il me semble que vous les placez autrement qu'ils ne sont.
 Que le Cœur est du côté gauche, et le Foie du côté droit.
 
 -*who_sganarelle
@@ -1287,24 +1314,28 @@ Mon avis est qu'on la remette sur son Lit : et qu'on lui fasse prendre pour Rem
 Pourquoi cela, Monsieur ?
 
 -*who_sganarelle
-Parce qu'il y a dans le Vin et le Pain, mêlés ensemble, une Vertu sympathique, qui fait parler.Ne voyez-vous pas bien qu'on ne donne autre chose aux Perroquets : et qu'ils apprennent à parler en mangeant de cela ?
+Parce qu'il y a dans le Vin et le Pain, mêlés ensemble, une Vertu sympathique, qui fait parler.
+Ne voyez-vous pas bien qu'on ne donne autre chose aux Perroquets : et qu'ils apprennent à parler en mangeant de cela ?
 
 -*who_geronte
 Cela est vrai, ah ! le grand Homme ! vite, quantité de Pain et de Vin.
 
 -*who_sganarelle
 Je reviendrai voir sur le soir, en quel état elle sera.
-(À la nourrice.) Doucement vous.Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits Remèdes.
+(À la nourrice.) Doucement vous.
+Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits Remèdes.
 
 -*who_jacqueline
 Qui, moi ?
 Je me porte le mieux du Monde.
 
 -*who_sganarelle
-Tant pis Nourrice, tant pis.Cette grande santé est à craindre : et il ne sera mauvais de vous faire quelque petite Saignée amiable, de vous donner quelque petit Clystère dulcifiant.
+Tant pis Nourrice, tant pis.
+Cette grande santé est à craindre : et il ne sera mauvais de vous faire quelque petite Saignée amiable, de vous donner quelque petit Clystère dulcifiant.
 
 -*who_geronte
-Mais, Monsieur, voilà une mode que je ne comprends point.Pourquoi s'aller faire saigner, quand on n'a point de maladie ?
+Mais, Monsieur, voilà une mode que je ne comprends point.
+Pourquoi s'aller faire saigner, quand on n'a point de maladie ?
 
 -*who_sganarelle
 Il n'importe, la Mode en est salutaire : et comme on boit pour la Soif à venir, il faut se faire, aussi, saigner pour la maladie à venir.
@@ -1379,9 +1410,7 @@ L'intérêt ne me gouverne point.
 -*who_geronte
 Je n'ai pas cette pensée.
 
-**** *book_moliere_medecin-malgre-lui *id_II05 *act_II *date_1666
-
-
+**** *book_ *id_II05 *act_II *date_1666
 
 -*who_sganarelle
 Ma foi, cela ne va pas mal, et pourvu que...
@@ -1438,15 +1467,15 @@ Je vous demande pardon, Monsieur, de la liberté que...
 Vous vous moquez : de quoi est-il question ?
 
 -*who_leandre
-Vous saurez, donc, Monsieur, que cette Maladie que vous voulez guérir, est une feinte Maladie.Les Médecins ont raisonné là-dessus, comme il faut ; et ils n'ont pas manqué de dire, que cela procédait, qui, du Cerveau, qui, des Entrailles, qui, de la Rate, qui, du Foie.
-Mais il est certain que l'Amour en est la véritable Cause : et que Lucinde n'a trouvé cette Maladie, que pour se délivrer d'un Mariage, dont elle était importunée.Mais, de crainte qu'on ne nous voie ensemble, retirons-nous d'ici : et je vous dirai en marchant, ce que je souhaite de vous.
+Vous saurez, donc, Monsieur, que cette Maladie que vous voulez guérir, est une feinte Maladie.
+Les Médecins ont raisonné là-dessus, comme il faut ; et ils n'ont pas manqué de dire, que cela procédait, qui, du Cerveau, qui, des Entrailles, qui, de la Rate, qui, du Foie.
+Mais il est certain que l'Amour en est la véritable Cause : et que Lucinde n'a trouvé cette Maladie, que pour se délivrer d'un Mariage, dont elle était importunée.
+Mais, de crainte qu'on ne nous voie ensemble, retirons-nous d'ici : et je vous dirai en marchant, ce que je souhaite de vous.
 
 -*who_sganarelle
 Allons, Monsieur, vous m'avez donné pour votre amour, une Tendresse qui n'est pas concevable : et j'y perdrai toute ma Médecine, ou la Malade crèvera, ou bien elle sera à vous.
 
 Scène I
-
-
 
 -*who_leandre
 Il me semble que je ne suis pas mal ainsi, pour un Apothicaire : et comme le Père ne m'a guère vu, ce changement d'Habit, et de Perruque, est assez capable, je crois, de me déguiser à ses yeux.
@@ -1472,18 +1501,25 @@ Vous êtes honnête Homme : et je veux bien me confier à vous, comme vous vous
 Quoi, vous n'êtes pas effectivement...
 
 -*who_sganarelle
-Non, vous dis-je, ils m'ont fait Médecin malgré mes Dents.Je ne m'étais jamais mêlé d'être si savant que cela : et toutes mes Études n'ont été que jusqu'en sixième.Je ne sais point sur quoi cette imagination leur est venue : mais quand j'ai vu qu'à toute force, ils voulaient que je fusse Médecin, je me suis résolu de l'être, aux Dépens de qui il appartiendra.Cependant, vous ne sauriez croire comment l'erreur s'est répandue : et de quelle façon, chacun est endiablé à me croire habile Homme.On me vient chercher de tous les côtés : et si les choses vont toujours de même, je suis d'avis de m'en tenir, toute ma vie, à la Médecine.Je trouve que c'est le Métier le meilleur de tous : car soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte.
-La méchante Besogne ne retombe jamais sur notre Dos : et nous taillons, comme il nous plaît, sur l'Étoffe où nous travaillons.Un Cordonnier en faisant des Souliers, ne saurait gâter un morceau de Cuir, qu'il n'en paye les Pots cassés : mais ici, l'on peut gâter un Homme sans, qu'il en coûte rien.Les Bévues ne sont point pour nous : et c'est toujours, la faute de celui qui meurt.Enfin le bon de cette Profession, est qu'il y a parmi les Morts, une honnêteté, une discrétion la plus grande du Monde : jamais on n'en voit se plaindre du Médecin qui l'a tué.
+Non, vous dis-je, ils m'ont fait Médecin malgré mes Dents.
+Je ne m'étais jamais mêlé d'être si savant que cela : et toutes mes Études n'ont été que jusqu'en sixième.
+Je ne sais point sur quoi cette imagination leur est venue : mais quand j'ai vu qu'à toute force, ils voulaient que je fusse Médecin, je me suis résolu de l'être, aux Dépens de qui il appartiendra.
+Cependant, vous ne sauriez croire comment l'erreur s'est répandue : et de quelle façon, chacun est endiablé à me croire habile Homme.
+On me vient chercher de tous les côtés : et si les choses vont toujours de même, je suis d'avis de m'en tenir, toute ma vie, à la Médecine.
+Je trouve que c'est le Métier le meilleur de tous : car soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte.
+La méchante Besogne ne retombe jamais sur notre Dos : et nous taillons, comme il nous plaît, sur l'Étoffe où nous travaillons.
+Un Cordonnier en faisant des Souliers, ne saurait gâter un morceau de Cuir, qu'il n'en paye les Pots cassés : mais ici, l'on peut gâter un Homme sans, qu'il en coûte rien.
+Les Bévues ne sont point pour nous : et c'est toujours, la faute de celui qui meurt.
+Enfin le bon de cette Profession, est qu'il y a parmi les Morts, une honnêteté, une discrétion la plus grande du Monde : jamais on n'en voit se plaindre du Médecin qui l'a tué.
 
 -*who_leandre
 Il est vrai que les morts sont fort honnêtes Gens, sur cette matière.
 
 -*who_sganarelle
-Voilà des gens qui ont la mine de me venir consulter.Allez toujours m'attendre auprès du Logis de votre maîtresse.
+Voilà des gens qui ont la mine de me venir consulter.
+Allez toujours m'attendre auprès du Logis de votre maîtresse.
 
-**** *book_moliere_medecin-malgre-lui *id_III02 *act_III *date_1666
-
-
+**** *book_ *id_III02 *act_III *date_1666
 
 -*who_thibaut
 Monsieu, je venons vous charcher, mon Fils Perrin et moi.
@@ -1510,8 +1546,12 @@ Alle est malade d'Hypocrisie, Monsieu.
 D'Hypocrisie ?
 
 -*who_thibaut
-Oui, c'est-à-dire qu'alle est enflée par tout, et l'an dit que c'est quantité de sériosités qu'alle a dans le Corps, et que son Foie, son Ventre, ou sa Rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de L'iau.Alle a de deux jours l'un, la fièvre quotiguenne, avec des lassitules et des douleurs dans les Mufles des jambes.On entend dans sa Gorge, des Fleumes qui sont tout prêts à l'étouffer : parfois, il lui prend des Syncoles, et des Conversions, que je crayons qu'alle est passée.J'avons dans notte Village, un Apothicaire, révérence parler, qui li a donné je ne sai combien d'Histoires : et il m'en coûte plus d'eune douzaine de bons écus, en Lavements, ne v's en déplaise, en Apostumes, qu'on li a fait prendre, en Infections de Jacinthe, et en Portions Cordales.
-Mais tout ça, comme dit l'autre, n'a été que de l'Onguent miton mitaine.Il velait li bailler d'eune certaine Drogue que l'on appelle du vin Amétile : mais j'ai-s-eu peur, franchement, que ça l'envoyît à patres, et l'an dit que ces gros médecins tuont je ne sai combien de Monde, avec cette Invention-là.
+Oui, c'est-à-dire qu'alle est enflée par tout, et l'an dit que c'est quantité de sériosités qu'alle a dans le Corps, et que son Foie, son Ventre, ou sa Rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de L'iau.
+Alle a de deux jours l'un, la fièvre quotiguenne, avec des lassitules et des douleurs dans les Mufles des jambes.
+On entend dans sa Gorge, des Fleumes qui sont tout prêts à l'étouffer : parfois, il lui prend des Syncoles, et des Conversions, que je crayons qu'alle est passée.
+J'avons dans notte Village, un Apothicaire, révérence parler, qui li a donné je ne sai combien d'Histoires : et il m'en coûte plus d'eune douzaine de bons écus, en Lavements, ne v's en déplaise, en Apostumes, qu'on li a fait prendre, en Infections de Jacinthe, et en Portions Cordales.
+Mais tout ça, comme dit l'autre, n'a été que de l'Onguent miton mitaine.
+Il velait li bailler d'eune certaine Drogue que l'on appelle du vin Amétile : mais j'ai-s-eu peur, franchement, que ça l'envoyît à patres, et l'an dit que ces gros médecins tuont je ne sai combien de Monde, avec cette Invention-là.
 
 -*who_sganarelle
 Venons au fait, mon ami, venons au fait.
@@ -1526,13 +1566,17 @@ Je ne vous entends point du tout.
 Monsieu, ma Mère est Malade, et velà deux Écus que je vous apportons, pour nous bailler queuque Remède.
 
 -*who_sganarelle
-Ah ! je vous entends, vous.Voilà un Garçon qui parle clairement, qui s'explique comme il faut.Vous dites que votre Mère est malade d'Hydropisie, qu'elle est enflée par tout le corps, qu'elle a la Fièvre, avec des Douleurs dans les jambes : et qu'il lui prend, parfois, des Syncopes, et des Convulsions, c'est-à-dire des Évanouissements.
+Ah ! je vous entends, vous.
+Voilà un Garçon qui parle clairement, qui s'explique comme il faut.
+Vous dites que votre Mère est malade d'Hydropisie, qu'elle est enflée par tout le corps, qu'elle a la Fièvre, avec des Douleurs dans les jambes : et qu'il lui prend, parfois, des Syncopes, et des Convulsions, c'est-à-dire des Évanouissements.
 
 -*who_perrin
 Eh oui, Monsieu, c'est justement ça.
 
 -*who_sganarelle
-J'ai compris d'abord, vos paroles.Vous avez un père qui ne sait ce qu'il dit.Maintenant, vous me demandez un remède ?
+J'ai compris d'abord, vos paroles.
+Vous avez un père qui ne sait ce qu'il dit.
+Maintenant, vous me demandez un remède ?
 
 -*who_perrin
 Oui, Monsieu.
@@ -1556,14 +1600,14 @@ Oui, c'est un Formage préparé, où il entre de l'Or, du Coral, et des Perles, 
 Monsieu, je vous sommes bien obligés : et j'allons li faire prendre ça tout à l'heure.
 
 -*who_sganarelle
-Allez.Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.
+Allez.
+Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.
 
-**** *book_moliere_medecin-malgre-lui *id_III03 *act_III *date_1666
-
-
+**** *book_ *id_III03 *act_III *date_1666
 
 -*who_sganarelle
-Voici la belle Nourrice.Ah Nourrice de mon cœur, je suis ravi de cette rencontre : et votre vue est la Rhubarbe, la Casse et le Séné qui purgent toute la Mélancolie de mon Âme.
+Voici la belle Nourrice.
+Ah Nourrice de mon cœur, je suis ravi de cette rencontre : et votre vue est la Rhubarbe, la Casse et le Séné qui purgent toute la Mélancolie de mon Âme.
 
 -*who_jacqueline
 Par ma figué, Monsieu le Médecin, ça est trop bian dit pour moi : et je n'entends rien à tout votte latin.
@@ -1604,11 +1648,10 @@ Oui, sans doute, Nourrice, il les mérite : et il mériterait encore, que vous 
 Il est bien vrai, que si je n'avais, devant les yeux, que son intérêt, il pourrait m'obliger à queuque étrange chose.
 
 -*who_sganarelle
-Ma Foi, vous ne feriez pas mal, de vous venger de lui, avec quelqu'un.C'est un Homme, je vous le dis, qui mérite bien cela : et si j'étais assez heureux, belle Nourrice, pour être choisi pour...
+Ma Foi, vous ne feriez pas mal, de vous venger de lui, avec quelqu'un.
+C'est un Homme, je vous le dis, qui mérite bien cela : et si j'étais assez heureux, belle Nourrice, pour être choisi pour...
 
-**** *book_moliere_medecin-malgre-lui *id_III04 *act_III *date_1666
-
-
+**** *book_ *id_III04 *act_III *date_1666
 
 -*who_geronte
 Holà !
@@ -1626,16 +1669,15 @@ Je ne sais : mais je voudrais qu'il fût à tous les Guebles.
 -*who_geronte
 Va-t'en voir un peu, ce que fait ma Fille.
 
-**** *book_moliere_medecin-malgre-lui *id_III05 *act_III *date_1666
-
-
+**** *book_ *id_III05 *act_III *date_1666
 
 -*who_geronte
 Ah !
 Monsieur, je demandais où vous étiez.
 
 -*who_sganarelle
-Je m'étais amusé dans votre Cour, à expulser le superflu de la Boisson.Comment se porte la Malade ?
+Je m'étais amusé dans votre Cour, à expulser le superflu de la Boisson.
+Comment se porte la Malade ?
 
 -*who_geronte
 Un peu plus mal, depuis votre Remède.
@@ -1674,17 +1716,17 @@ Je vous entends.
 -*who_sganarelle
 Votre fille en aura besoin.
 
-**** *book_moliere_medecin-malgre-lui *id_III06 *act_III *date_1666
-
-
+**** *book_ *id_III06 *act_III *date_1666
 
 -*who_jacqueline
 Monsieu, velà votre Fille qui veut un peu marcher.
 
 -*who_sganarelle
-Cela lui fera du bien.Allez-vous-en, Monsieur l'Apothicaire, tâter un peu son Pouls, afin que je raisonne tantôt, avec vous, de sa maladie.
+Cela lui fera du bien.
+Allez-vous-en, Monsieur l'Apothicaire, tâter un peu son Pouls, afin que je raisonne tantôt, avec vous, de sa maladie.
 Monsieur, c'est une grande et subtile Question entre les Doctes, de savoir si les Femmes sont plus faciles à guérir que les Hommes ?
-Je vous prie d'écouter ceci, s'il vous plaît.Les uns disent que non, les autres disent que oui : et moi je dis que oui, et non.
+Je vous prie d'écouter ceci, s'il vous plaît.
+Les uns disent que non, les autres disent que oui : et moi je dis que oui, et non.
 D'autant que l'incongruité des Humeurs opaques, qui se rencontrent au Tempérament naturel des Femmes, étant cause que la Partie Brutale veut toujours prendre empire sur la Sensitive, on voit que l'inégalité de leurs opinions, dépend du Mouvement oblique, du Cercle de la Lune : et comme le Soleil qui darde ses Rayons sur la Concavité de la Terre, trouve...
 
 -*who_lucinde
@@ -1752,17 +1794,24 @@ Et je me jetterai plutôt dans un Convent que d'épouser un Homme que je n'aime 
 Mais...
 
 -*who_lucinde
-Non.En aucune façon.Point d'affaire.
-Vous perdez le temps.Je n'en ferai rien.Cela est résolu.
+Non.
+En aucune façon.
+Point d'affaire.
+Vous perdez le temps.
+Je n'en ferai rien.
+Cela est résolu.
 
 -*who_geronte
-Ah ! quelle impétuosité de paroles, il n'y a pas moyen d'y résister.Monsieur, je vous prie de la faire redevenir muette.
+Ah ! quelle impétuosité de paroles, il n'y a pas moyen d'y résister.
+Monsieur, je vous prie de la faire redevenir muette.
 
 -*who_sganarelle
-C'est une chose qui m'est impossible.Tout ce que je puis faire pour votre service, est de vous rendre sourd, si vous voulez.
+C'est une chose qui m'est impossible.
+Tout ce que je puis faire pour votre service, est de vous rendre sourd, si vous voulez.
 
 -*who_geronte
-Je vous remercie.Penses-tu donc...
+Je vous remercie.
+Penses-tu donc...
 
 -*who_lucinde
 Non, toutes vos raisons ne gagneront rien sur mon Âme.
@@ -1774,19 +1823,22 @@ Tu épouseras Horace, dès ce soir.
 J'épouserai plutôt la mort.
 
 -*who_sganarelle
-Mon Dieu, arrêtez-vous, laissez-moi médicamenter cette Affaire.C'est une Maladie qui la tient : et je sais le Remède qu'il y faut apporter.
+Mon Dieu, arrêtez-vous, laissez-moi médicamenter cette Affaire.
+C'est une Maladie qui la tient : et je sais le Remède qu'il y faut apporter.
 
 -*who_geronte
 Serait-il possible, Monsieur, que vous pussiez, aussi, guérir cette Maladie d'Esprit ?
 
 -*who_sganarelle
 Oui, laissez-moi faire, j'ai des Remèdes pour tout : et notre Apothicaire nous servira pour cette Cure.
-(Il appelle l'apothicaire et lui parle.) Un mot.Vous voyez que l'ardeur qu'elle a pour ce Léandre, est tout à fait contraire aux volontés du Père, qu'il n'y a point de temps à perdre, que les Humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un Remède à ce Mal qui pourrait empirer par le retardement.Pour moi, je n'y en vois qu'un seul, qui est une prise de Fuite purgative, que vous mêlerez comme il faut, avec deux Drachmes de Matrimonium en Pilules.Peut-être fera-t-elle quelque difficulté à prendre ce Remède : mais comme vous êtes habile Homme dans votre métier, c'est à vous de l'y résoudre, et de lui faire avaler la chose du mieux que vous pourrez.Allez-vous-en lui faire faire un petit tour de Jardin, afin de préparer les Humeurs, tandis que j'entretiendrai ici son Père : mais surtout, ne perdez point de temps.
+(Il appelle l'apothicaire et lui parle.) Un mot.
+Vous voyez que l'ardeur qu'elle a pour ce Léandre, est tout à fait contraire aux volontés du Père, qu'il n'y a point de temps à perdre, que les Humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un Remède à ce Mal qui pourrait empirer par le retardement.
+Pour moi, je n'y en vois qu'un seul, qui est une prise de Fuite purgative, que vous mêlerez comme il faut, avec deux Drachmes de Matrimonium en Pilules.
+Peut-être fera-t-elle quelque difficulté à prendre ce Remède : mais comme vous êtes habile Homme dans votre métier, c'est à vous de l'y résoudre, et de lui faire avaler la chose du mieux que vous pourrez.
+Allez-vous-en lui faire faire un petit tour de Jardin, afin de préparer les Humeurs, tandis que j'entretiendrai ici son Père : mais surtout, ne perdez point de temps.
 Au Remède, vite, au Remède spécifique.
 
-**** *book_moliere_medecin-malgre-lui *id_III07 *act_III *date_1666
-
-
+**** *book_ *id_III07 *act_III *date_1666
 
 -*who_geronte
 Quelles Drogues, Monsieur, sont celles que vous venez de dire ?
@@ -1847,25 +1899,23 @@ Ah, ah.
 Et j'empêcherai bien qu'il ne la voie.
 
 -*who_sganarelle
-Il n'a pas affaire à un Sot, et vous savez des Rubriques, qu'il ne sait pas.Plus fin que vous n'est pas bête.
+Il n'a pas affaire à un Sot, et vous savez des Rubriques, qu'il ne sait pas.
+Plus fin que vous n'est pas bête.
 
-**** *book_moliere_medecin-malgre-lui *id_III08 *act_III *date_1666
-
-
+**** *book_ *id_III08 *act_III *date_1666
 
 -*who_lucas
 Ah palsanguenne, Monsieu, vaici bian du tintamarre, votte Fille s'en est enfuie avec son Liandre, c'était lui qui était l'Apothicaire, et velà Monsieu le Médecin, qui a fait cette belle Opération-là.
 
 -*who_geronte
 Comment, m'assassiner de la façon.
-Allons, un Commissaire, et qu'on empêche qu'il ne sorte.Ah Traître, je vous ferai punir par la justice.
+Allons, un Commissaire, et qu'on empêche qu'il ne sorte.
+Ah Traître, je vous ferai punir par la justice.
 
 -*who_lucas
 Ah par ma fi, Monsieu le Médecin, vous serez pendu, ne bougez de là seulement.
 
-**** *book_moliere_medecin-malgre-lui *id_III09 *act_III *date_1666
-
-
+**** *book_ *id_III09 *act_III *date_1666
 
 -*who_martine
 Ah ! mon Dieu, que j'ai eu de peine à trouver ce Logis : dites-moi un peu des Nouvelles du Médecin que je vous ai donné.
@@ -1903,9 +1953,7 @@ Non, je veux demeurer pour t'encourager à la Mort : et je ne te quitterai poin
 -*who_sganarelle
 Ah.
 
-**** *book_moliere_medecin-malgre-lui *id_III10 *act_III *date_1666
-
-
+**** *book_ *id_III10 *act_III *date_1666
 
 -*who_geronte
 Le Commissaire viendra bientôt, et l'on s'en va vous mettre en lieu, où l'on me répondra de vous.
@@ -1917,7 +1965,7 @@ Hélas, cela ne se peut-il point changer en quelques coups de bâton ?
 Non, non, la Justice en ordonnera ....
 Mais que vois-je ?
 
-**** *book_moliere_medecin-malgre-lui *id_III11 *act_III *date_1666
+**** *book_ *id_III11 *act_III *date_1666
 
 -*who_leandre
 Monsieur, je viens faire paraître Léandre à vos yeux, et remettre Lucinde en votre pouvoir, nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble : mais cette entreprise a fait place à un procédé plus honnête : je ne prétends point vous voler votre Fille, et ce n'est que de votre main que je veux la recevoir : ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres, par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.

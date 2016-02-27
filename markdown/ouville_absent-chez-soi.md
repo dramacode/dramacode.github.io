@@ -1,5 +1,5 @@
 ---
-identifier: ouville_l'absent  
+identifier: ouville_absent-chez-soi  
 creator: Ouville, Antoine d'  
 date: 1643  
 title: L'Absent chez soy. Comédie  
@@ -1059,14 +1059,14 @@ Je me repens bien donc d'estre si tost sortie.
 Rentrons.  
 
     ELIZE
-Je le veux bien.  
+    Je le veux bien.  
 
     DIANE
-Et toy demeure icy.  
+        Et toy demeure icy.  
 Attens-y mon carrosse.  
 
     ELIZE
-Et toy Pauline aussi.  
+        Et toy Pauline aussi.  
 
 
 ### SCENE II
@@ -1119,28 +1119,28 @@ Ils ne puissent sitost accomplir leurs plaisirs.
 Pourquoy ?  
 
     PAULINE
-Parce qu'encor on n'en dit rien au pere.  
+        Parce qu'encor on n'en dit rien au pere.  
 
     JULIE
 Elle a son pere encor ?  
 
     PAULINE
-Ouy, son pere & son frere,  
+        Ouy, son pere & son frere,  
 Un jeune Cavalier⁎.  
 
     JULIE
-Mais dy moy, son Amant,  
+        Mais dy moy, son Amant,  
 Comment le nomme t'on ?  
 
     PAULINE
-Son nom est Clorimant.  
+        Son nom est Clorimant.  
 
     JULIE
 Aurois tu point conceu quelque amoureuse flame,  
 Pour quelqu'un de ses gens ?  
 
     PAULINE
-Tu lis dedans mon ame,  
+        Tu lis dedans mon ame,  
 Les voyants [58] tous les jours si fort se mignarder,  
 Serions nous entre nous oysifs à regarder ?  
 Ce que j'ayme est plaisant, & de si bonne grace,  
@@ -1163,7 +1163,7 @@ Qu'elle ayme, & et dont elle est sans mentir adorée.
 Ton galand⁎ est à luy ?  
 
     JULIE
-Si tu t'es déclarée,  
+        Si tu t'es déclarée,  
 N'aurois-je pas grand tort si je te celois rien ?  
 Il est vray que je l'ayme, & qu'il me veut du bien,  
 Le carosse est venu, j'advertis ma maitresse.  
@@ -1177,17 +1177,17 @@ DIANE, JULIE, ELIZE, PAULINE
 
 
     DIANE
-Et bien quelle paresse !  
+        Et bien quelle paresse !  
 
     JULIE
 Il est venu Madame.  
 
     DIANE *à ELIZE*
-Adieu je vous promets  
+        Adieu je vous promets  
 De l'envoyer chez vous.  
 
     ELIZE
-Croyez moy qu'à jamais,  
+        Croyez moy qu'à jamais,  
 Ce poinct m'obligera⁎ ; car je brusle d'envie  
 De voir ce qui vous a la liberté ravie,  
 Ce brave⁎ Cavalier⁎ que vous vantez si fort.  
@@ -1202,7 +1202,7 @@ Faites-moy s'il vous plaist la faveur de m'aymer,
 Vous me l'avez promis.  
 
     DIANE
-Je doy trop estimer  
+        Je doy trop estimer  
 L'honneur que je reçoy de vostre connoissance,  
 Pour ne vous pas servir de toute ma puissance.  
 
@@ -1210,11 +1210,11 @@ Pour ne vous pas servir de toute ma puissance.
 Pauline, allons.  
 
     PAULINE
-Julie au moins souvienne [59] toy  
+        Julie au moins souvienne [59] toy  
 De ce que tu m'as dit.  
 
     JULIE
-Repose-toy sur moy.  
+        Repose-toy sur moy.  
 
 
 ### SCENE IV
@@ -1242,7 +1242,7 @@ Un œil si gratieux, un entretien si doux.
 Quels estoient vos discours ?  
 
     DIANE
-Nous discourions de vous.  
+        Nous discourions de vous.  
 J'ay dit que vous estiez un Cavalier⁎ qui m'ayme,  
 Et que j'estime autant aussi comme [60] moy-mesme.  
 J'ay peint vostre merite, & je vous ay vanté  
@@ -1271,7 +1271,7 @@ CLORIMANT, GERASTE
 Bien que t'a-t-elle dit ?  
 
     GERASTE
-Le Ciel vous est prospere,  
+        Le Ciel vous est prospere,  
 N'apprehendez plus rien, car son pere & son frere  
 S'en vont tous deux aux champs, & sont prests à partir.  
 Elle m'a commandé de vous en advertir.  
@@ -1288,11 +1288,11 @@ Est-il dessous le Ciel un plus heureux Amant ?
 Tu dis qu'elle m'attend ?  
 
     GERASTE
-Ouy, seule, & qui desire  
+        Ouy, seule, & qui desire  
 Vous parler à loisir.  
 
     CLORIMANT
-C'est le but où j'aspire.  
+        C'est le but où j'aspire.  
 Et qui rend à ce coup tous mes désirs contens :  
 Mais allons de ce pas, ne perdons point de temps.  
 
@@ -1301,12 +1301,12 @@ Ils sortent, je les voy sur le pas de la porte,
 Ils vous verront, Monsieur, cachez vous.  
 
     CLORIMANT
-Il n'importe.  
+        Il n'importe.  
 N'estant point cognu d'eux, puis-je pas sans soupçons  
 Estre en la rue ?  
 
     GERASTE
-Octave est un mauvais garçon,  
+        Octave est un mauvais garçon,  
 Que sçavons nous Monsieur, peut-estre qu'il nous guette.  
 
 
@@ -1318,17 +1318,17 @@ POLEMAS, OCTAVE, CLORIMANT, GERASTE
 Elize ne vient point !  
 
     OCTAVE
-Elle est toute deffaitte [62],  
+        Elle est toute deffaitte [62],  
 Avec certain chagrin⁎.  
 
     POLEMAS
-Qui [63] cause ce soucy⁎ ?  
+        Qui [63] cause ce soucy⁎ ?  
 
     OCTAVE
 C'est d'avoir trop veillé.  
 
     CLORIMANT *à GERASTE* 
-Retirons-nous d'icy.  
+        Retirons-nous d'icy.  
 Nous pourrions en ce lieu causer des jalousies.  
 (Clorimant & Geraste s'en vont).
 
@@ -1337,11 +1337,11 @@ Nous pourrions en ce lieu causer des jalousies.
 Mais qui [64] vous meine aux champs ?  
 
     POLEMAS
-Certaines fantaisies⁎  
+        Certaines fantaisies⁎  
 Qui troublent mon repos.  
 
     OCTAVE
-D'où vient cela Monsieur ?  
+        D'où vient cela Monsieur ?  
 
     POLEMAS
 J'ay l'esprit agité pour [65] l'amour de ta sœur.  
@@ -1379,7 +1379,7 @@ Qui [67] vous oblige donc à tenir ce langage ?
 Il fait bien en effet.  
 
     POLEMAS
-Non, non, Elize est sage.  
+        Non, non, Elize est sage.  
 Mais je souhaitterois qu'il fust en mon pouvoir  
 Pour beaucoup de raisons de bien-tost la pourvoir⁎.  
 Je ne crains pas pourtant, quoy qu'elle soit sans mere,  
@@ -1413,11 +1413,11 @@ Quand j'avois resolu de vous parler du mien.
 Te veux-tu marier ?  
 
     OCTAVE
-Avec vostre licence.  
+        Avec vostre licence.  
 Pourquoy ? n'est-il pas temps.  
 
     POLEMAS
-Et quelle est l'alliance  
+        Et quelle est l'alliance  
 Que tu nous veux donner ? je n'y [70] contredy pas  
 Si plutost que l'Amour, l'honneur guide tes pas.  
 
@@ -1429,13 +1429,13 @@ C'est ce qui m'en plaist fort : mais quelle est ta Maistresse ?
 La cognois-je ?  
 
     OCTAVE
-Fort bien.  
+    Fort bien.  
 
     POLEMAS
-Dy donc.  
+    Dy donc.  
 
     OCTAVE
-Il est besoing  
+        Il est besoing  
 De prendre auparavant la chose de plus loing,  
 Vous vous souvenez bien, au moins il me le semble,  
 Que nous fusmes tous deux un jour souper ensemble  
@@ -1446,7 +1446,7 @@ Vis à vis d'un objet⁎ qu'alors vous peustes voir.
 Seroit-ce bien Diane ?  
 
     OCTAVE
-Ouy Monsieur, c'est la mesme,  
+        Ouy Monsieur, c'est la mesme,  
 C'est ce divin object⁎, cette beauté que j'ayme,  
 Mais plutost que j'adore, & je jure, & promets  
 Si vous le trouvez bon de l'aymer à jamais.  
@@ -1629,14 +1629,14 @@ Va reposer une heure, & moy durant ce temps
 J'iray faire une affaire.  
 
     ELIZE
-Il est vray, je me sens  
+        Il est vray, je me sens  
 L'esprit tout assoupi. Va, mais ne tarde guere.  
 
     GERASTE *à Pauline* 
 Sommes-nous pas d'accord ?  
 
     PAULINE
-Parle donc à mon pere.  
+        Parle donc à mon pere.  
 Je n'oserois jamais sans son consentement,  
 Quand je devrois mourir, recevoir un Amant.  
 
@@ -1662,7 +1662,7 @@ Je me trompe, ou je voy Pauline dans la ruë ?
 Dy moy, que fais-tu là ?  
 
     PAULINE
-Je suis icy venuë  
+        Je suis icy venuë  
 Expres pour vous attendre, elle est en grand soucy⁎  
 Pourquoy [91] vous tardez tant. Madame le voicy.  
 
@@ -1688,7 +1688,7 @@ Madame, un Cavalier⁎ vous demande à la porte
 De la part de Diane.  
 
     ELIZE
-Ah je sçay bien que c'est [94].  
+        Ah je sçay bien que c'est [94].  
 Elle veut que je voye un Amant qui luy plaist,  
 Qu'elle m'a fort loué, cache toy la derriere,  
 De peur qu'il ne te voye, il ne tardera guere,  
@@ -1698,7 +1698,7 @@ Il n'est pas à propos qu'il te rencontre icy.
 Je fais ce que tu veux.  
 
     ELIZE
-Et toy Geraste aussi.  
+        Et toy Geraste aussi.  
 
 
 ### SCENE II
@@ -1782,7 +1782,7 @@ Puis que pour ce sujet je vous ay desjà dit
 L'estime que j'en fais [101].  
 
     CLITANDRE
-Je suis tout interdit⁎.  
+        Je suis tout interdit⁎.  
 J'ay les sens tout confus, permettez moy, Madame,  
 Puis que vous possedez, & mon cœur, & mon Ame,  
 Que je baise la main qui me donne la mort.  
@@ -1819,7 +1819,7 @@ Laissez moy seule icy, retirez vous de grace.
 On appelle Madame.  
 
     ELIZE
-Ah grands Dieux qui sera-ce ?  
+        Ah grands Dieux qui sera-ce ?  
 
 
 ### SCENE III
@@ -1832,18 +1832,18 @@ Qu'on ouvre promptement.
     POLEMAS
 il entre
 
-Vous mocquez-vous de moy ?  
+        Vous mocquez-vous de moy ?  
 De me faire tarder [102]. Mais qu'est-ce que je voy ?  
 L'avois-je pas bien dit ?  
 
     OCTAVE
-Souffrez⁎-vous cette injure ?  
+        Souffrez⁎-vous cette injure ?  
 
     CLITANDRE *bas* 
 Je suis perdu, grands Dieux !  
 
     OCTAVE
-Un homme icy ! je jure. [103]  
+        Un homme icy ! je jure. [103]  
 
     POLEMAS
 Octave arrestez-vous, laissez-moy ce soucy,  
@@ -1852,7 +1852,7 @@ Parlez à moy, Monsieur, dites-moy quelle affaire
 Vous emmeine [104] en ce lieu ?  
 
     ELIZE *bas* 
-Grands Dieux je desespere.  
+        Grands Dieux je desespere.  
 
     CLITANDRE *se trouble*
 J'estois venu Monsieur, de la part, arrivant ;  
@@ -1862,7 +1862,7 @@ Mais moy, quand elle fut, je suis auparavant.
 Qu'attendez-vous Monsieur ?  
 
     ELIZE *bas* 
-O fille mal-heureuse.  
+        O fille mal-heureuse.  
 
     POLEMAS
 En pareils accidents⁎ la force est dangereuse,  
@@ -1870,7 +1870,7 @@ Que faites vous icy ? Non n'ayez point de peur,
 Parlez sans vous troubler.  
 
     CLITANDRE
-Je vous jure Monsieur,  
+        Je vous jure Monsieur,  
 Croyez-moy s'il vous plaist, que jamais en ma vie,  
 Je ne vous offençai, ny n'en ay point d'envie.  
 
@@ -1879,11 +1879,11 @@ Laissons-là ce discours, c'est assez je vous crois,
 Que faites-vous icy ?  
 
     CLITANDRE
-C'est la premiere fois,  
+        C'est la premiere fois,  
 Ou je puisse perir [105].  
 
     POLEMAS
-Je sçay bien le contraire.  
+        Je sçay bien le contraire.  
 Ce n'est pas le moyen d'accommoder⁎ l'affaire,  
 Si vous me déguisez ainsi la verité.  
 
@@ -1891,27 +1891,27 @@ Si vous me déguisez ainsi la verité.
 Je vous la dy Monsieur.  
 
     OCTAVE
-Ah quelle fausseté !  
+        Ah quelle fausseté !  
 
     POLEMAS
 Croyez qu'on ne peut pas aysément me surprendre⁎ :  
 Mais quel est vostre nom ?  
 
     CLITANDRE
-On m'appelle Clitandre.  
+        On m'appelle Clitandre.  
 
     POLEMAS
 Le nom de vostre pere ?  
 
     CLITANDRE
-Il est mort.  
+    Il est mort.  
 
     POLEMAS
-Mais comment  
+        Mais comment  
 Le nommoit-on ?  
 
     CLITANDRE
-Son nom estoit Theodomant.  
+        Son nom estoit Theodomant.  
 
     POLEMAS
 Je l'ay cognu, c'estoit un homme de merite  
@@ -1920,33 +1920,33 @@ A venir voir ma fille ? estes-vous engagé
 Sous les lois de l'Hymen ?  
 
     CLITANDRE
-Non.  
+    Non.  
 
     POLEMAS
-Je l'ay bien jugé.  
+        Je l'ay bien jugé.  
 
     OCTAVE
 Pourquoy ces questions où la preuve est si claire ?  
 A quoy bon ce discours ?  
 
     POLEMAS
-Tout beau⁎, laisse moy faire.  
+        Tout beau⁎, laisse moy faire.  
 Venez çà [106], sçavez-vous que ce logis est mien ?  
 Et que je suis son pere ?  
 
     CLITANDRE
-Ouy je le sçay fort bien.  
+        Ouy je le sçay fort bien.  
 
     POLEMAS
 Passez un peu deçà [107].  
 
     CLITANDRE *bas* 
-Dieux soyez à mon ayde,  
+        Dieux soyez à mon ayde,  
 Il faut perir icy, la chose est sans remede,  
 Ou souffrir⁎ un affront.  
 
     ELIZE *bas* 
-J'ay le cœur tout transi⁎.  
+        J'ay le cœur tout transi⁎.  
 
     POLEMAS *à ELIZE*
 Elize respons moy, quel est cét homme icy ?  
@@ -1955,15 +1955,15 @@ Elize respons moy, quel est cét homme icy ?
 Celuy qu'il vous a dit.  
 
     POLEMAS
-Mais dy moy qui l'engage  
+        Mais dy moy qui l'engage  
 A te venir chercher ?  
 
     ELIZE
-Il m'apporte un message  
+        Il m'apporte un message  
 De Diane qu'il sert.  
 
     OCTAVE *à Polemas* 
-Ah Monsieur en effet  
+        Ah Monsieur en effet  
 C'est mon rival qui sert cét adorable objet⁎  
 Dont je vous ay parlé faictes que tout à l'heure⁎  
 Il espouse ma sœur ou souffrez⁎ que je meure ;  
@@ -2117,7 +2117,7 @@ Je te seray tousjours telle que je te suis.
 Elize te le jure.  
 
     CLORIMANT
-Ah non ce n'est point elle,  
+        Ah non ce n'est point elle,  
 Elize ne sçauroit jamais estre infidelle,  
 Ou celle maintenant qui se presente à moy  
 Est ingrate, parjure, inconstante⁎, & sans foy⁎.  
@@ -2178,7 +2178,7 @@ Veux-tu m'accompagner, veux-tu suivre mes pas ?
 Dieux ! es-tu raisonnable ?  
 
     CLORIMANT
-Et pourquoy donc ingrate  
+        Et pourquoy donc ingrate  
 Veux-tu qu'en te croyant encore je me flate ?  
 
     ELIZE
@@ -2186,7 +2186,7 @@ Quel scandale grands Dieux ! que diroit-on de moy ?
 Pense à ce que tu dis.  
 
     CLORIMANT
-Ame lasche⁎ & sans foy⁎.  
+        Ame lasche⁎ & sans foy⁎.  
 Tu me dis que je pense & que je considere !  
 En matiere d'Amour, celle qui delibere  
 N'en a point, ou du moins s'il faut qu'elle en ait eu  
@@ -2204,7 +2204,7 @@ Non je n'escoute plus.
 
 
     PAULINE
-Geraste que t'en semble ?  
+        Geraste que t'en semble ?  
 
     GERASTE
 Que je m'enfuy de toy, que nous partons ensemble,  
@@ -2248,7 +2248,7 @@ Qu'elle a, si l'on dit vray, mesme engagé sa foy⁎.
 J'oy du bruit, voy qui c'est.  
 
     JULIE
-C'est Clitandre, Madame.  
+        C'est Clitandre, Madame.  
 
 
 ### SCENE VI
@@ -2267,7 +2267,7 @@ De divers sentiments, je sens mon ame atteinte.
 Qui [133] vous rend interdit⁎ & muët ?  
 
     CLITANDRE
-Une crainte.  
+        Une crainte.  
 
     DIANE
 Une crainte avec moy ? Dieux ! pour quel suject ?  
@@ -2280,7 +2280,7 @@ Ouy, c'est pour cét object que je suis tout de flame.
 Comment vous souspirez.  
 
     CLITANDRE
-Je souspire, Madame.  
+        Je souspire, Madame.  
 
     DIANE
 Ouy mon cœur, est-ce moy qui vous fait souspirer ?  
@@ -2298,19 +2298,19 @@ En cette occasion⁎, helas peussay-je l'estre !
 Encor d'où venez-vous, qu'avez-vous ?  
 
     CLITANDRE
-Je ne sçay,  
+        Je ne sçay,  
 Madame, je ne puis vous dire ce que j'ay,  
 Je viens de veoir Elize.  
 
     DIANE
-He bien quelle nouvelle ?  
+        He bien quelle nouvelle ?  
 Parlez-moy franchement, comment se porte t'elle ?  
 
     CLITANDRE
 Elle se porte bien.  
 
     DIANE
-Dites-moy donc mon Cœur,  
+        Dites-moy donc mon Cœur,  
 D'où vous naist ce chagrin⁎, cette mauvaise humeur ?  
 Vous a-t-elle pas dit combien je vous estime ?  
 
@@ -2337,13 +2337,13 @@ Il m'a falu, grands Dieux, ce mot me desespere.
 Quoy donc ?  
 
     CLITANDRE
-Il m'a falu sur l'heure l'espouser.  
+        Il m'a falu sur l'heure l'espouser.  
 
     DIANE
 Que dites-vous grands Dieux ?  
 
     CLITANDRE
-Pouvois-je m'opposer  
+        Pouvois-je m'opposer  
 Avec si peu de force à tant de violence ?  
 On n'a jamais parlé d'une telle insolence,  
 Si j'eusse d'un seul mot resisté [135] seulement,  
@@ -2364,7 +2364,7 @@ M'estimez vous si simple, & l'esprit si mal sain
 Que je ne puisse pas penetrer ?  
 
     CLITANDRE
-C'est en vain.  
+        C'est en vain.  
 Vous me blasmez à tort, ouy je jure Madame  
 Que vous n'avez point droict de soubçonner ma flame.  
 Ce que j'ay fait n'est point par infidelité,  
@@ -2387,7 +2387,7 @@ Je voy bien ce que c'est Elize m'a trahie,
 Adieu, perfide ingrat.  
 
     CLITANDRE
-Escoutez je vous prie.  
+        Escoutez je vous prie.  
 
     DIANE
 Que veux-tu que j'escoute, ame lasche⁎ & sans foy⁎ ?  
@@ -2400,7 +2400,7 @@ Sors, & n'espere pas de [137] me voir de ta vie.
 Elle part en cholere.  
 
     CLITANDRE
-Arreste-la Julie.  
+        Arreste-la Julie.  
 
     JULIE
 Je ne le puis. Ormin tu t'en repentiras.  
@@ -2413,7 +2413,7 @@ Imite cét ingrat, comme luy cours au change⁎.
 Que ferons-nous Monsieur ?  
 
     CLITANDRE
-Mon Elize est un Ange :  
+        Mon Elize est un Ange :  
 Sortons, n'arrestons [138] pas d'avantage en ce lieu.  
 Allons revoir Élize. Adieu Diane, Adieu.  
 Fin du second Acte
@@ -2430,16 +2430,16 @@ CLORIMANT vestu en Soldat, botté & esperonné, avec un grand colet de Buffle [1
 Tout mon fait [141] est-il prest ?  
 
     GERASTE
-Monsieur vostre valize,  
+        Monsieur vostre valize,  
 Est en fort bon estat.  
 
     CLORIMANT
-Adieu perfide Elize,  
+        Adieu perfide Elize,  
 Je m'en vay de ce pas, je veux t'abandonner,  
 Mes chevaux ?  
 
     GERASTE
-Tout à l'heure⁎ on les doit emmener [142],  
+        Tout à l'heure⁎ on les doit emmener [142],  
 Mais pourrez-vous quitter cét objet⁎ plain de charmes  
 Pour qui je vous ay veu respandre tant de larmes ?  
 
@@ -2447,13 +2447,13 @@ Pour qui je vous ay veu respandre tant de larmes ?
 En doutes-tu Geraste ?  
 
     GERASTE
-Oüy j'ay lieu d'en douter,  
+        Oüy j'ay lieu d'en douter,  
 Vous feignez de parler, & de vous absenter,  
 Afin de luy donner un peu de jalousie,  
 Vous n'irez pas bien loing.  
 
     CLORIMANT
-Dieux quelle frenaisie [143],  
+        Dieux quelle frenaisie [143],  
 Escoute, & si je ments, me punissent les Dieux.  
 Un trait poussé de l'arc, un oyseau dans les Cieux,  
 Ny l'esclair qui d'abord nous esbloüit la veuë  
@@ -2481,7 +2481,7 @@ T'opposer au dessein d'un si juste voyage.
 Ne m'en parle donc plus.  
 
     GERASTE
-J'ateste⁎ tous les Dieux  
+        J'ateste⁎ tous les Dieux  
 Que le moindre soûpir, deux larmes de ses yeux,  
 Quatre mots de sa main escrits avec tendresse,  
 Car je cognois assez quelle est vostre foiblesse,  
@@ -2498,7 +2498,7 @@ Et vous pensez encor qu'elles songent à vous ?
 Dieux quelle extravagance !  
 
     CLORIMANT
-Ouvre, c'est elle-mesme.  
+        Ouvre, c'est elle-mesme.  
 
     GERASTE
 Me doutois-je pas bien qu'en cette ardeur⁎ extresme,  
@@ -2510,7 +2510,7 @@ Est-ce pour ce subjet que vous faisiez le brave ?
 Ouvre, te dis-je.  
 
     GERASTE
-Hé quoy ! vous faisiez tant du grave [144],  
+        Hé quoy ! vous faisiez tant du grave [144],  
 Des larmes de ses yeux, des lettres de ses mains,  
 Des souspirs de sa bouche ! à quoy bon ces dédains ?  
 
@@ -2527,7 +2527,7 @@ PAULINE, CLORIMANT, GERASTE
 
 
     PAULINE
-O le brave⁎ soldat !  
+        O le brave⁎ soldat !  
 
     GERASTE
 Quoy ? n'en vois-tu pas deux prests d'aller au combat ?  
@@ -2543,7 +2543,7 @@ O Dieux qu'il est gentil [146], & qu'il a bonne mine,
 Où de grace allez-vous ?  
 
     CLORIMANT
-A la guerre, Pauline.  
+        A la guerre, Pauline.  
 
     PAULINE
 Que je ry de vous voir, que j'y prens de plaisir,  
@@ -2558,7 +2558,7 @@ Mais Pauline que fais cette femme dy moy ?
 La nommez-vous ainsi ?  
 
     CLORIMANT
-Je fay ce que je doy.  
+        Je fay ce que je doy.  
 Dy moy comment veux-tu qu'à present je la nomme,  
 Si l'on donne ce nom à qui possede un homme  
 En qualité⁎ d'Espoux, elle est en ayant deux  
@@ -2581,7 +2581,7 @@ Tu t'en dois asseurer. Mais dy moy qui t'emmeine [148] ?
 Un papier que voicy.  
 
     CLORIMANT
-Quoy de cette inhumaine ?  
+        Quoy de cette inhumaine ?  
 Elle me contera sa nopce en cét escrit.  
 
     PAULINE
@@ -2594,11 +2594,11 @@ Une lettre d'Elize est un venin pour moy.
 Reporte-là de grace.  
 
     PAULINE
-Ah justes Dieux pourquoy ?  
+        Ah justes Dieux pourquoy ?  
 Voyez ce qu'elle escrit.  
 
     CLORIMANT
-Que me peut-elle dire ?  
+        Que me peut-elle dire ?  
 Bien pour l'amour de toy, Pauline, il la faut lire.  
 LETTRE
 Pour avoir desiré garder l'obeyssance  
@@ -2627,7 +2627,7 @@ Veut-elle derechef exciter mon courroux
 Par ce style outrageux ?  
 
     PAULINE
-De quoy vous plaignez-vous ?  
+        De quoy vous plaignez-vous ?  
 
     CLORIMANT
 Allegue-t'elle icy raison en sa deffence  
@@ -2635,7 +2635,7 @@ Qui puisse d'un moment retarder mon absence ?
 Que je parle dit-elle ?  
 
     PAULINE
-Ah vous avez grand tort.  
+        Ah vous avez grand tort.  
 D'où vous naist dites-moy ce furieux⁎ transport⁎ ?  
 Voyez-vous pas assez qu'Elize vous adore ?  
 
@@ -2644,7 +2644,7 @@ Que sous d'autre pouvoir elle n'est pas encore
 Me dit-elle l'ingrate.  
 
     PAULINE
-Où [149] songez vous grands Dieux ?  
+        Où [149] songez vous grands Dieux ?  
 Relisez cét escrit, considerez-le mieux,  
 Voyez qu'il est remply d'Amour & de tendresse.  
 
@@ -2669,7 +2669,7 @@ Que ne tiens-je aussi bien la main qui l'a tracée.
 Ne respondrez-vous point ?  
 
     CLORIMANT
-Tay toy, sors de ce lieu,  
+        Tay toy, sors de ce lieu,  
 Ne me parle jamais de cette ingratte, Adieu.  
 
     PAULINE
@@ -2693,7 +2693,7 @@ Quoy traistre en ma presence, oses-tu bien nommer
 Encor cette perfide ?  
 
     GERASTE
-En cette ardeur⁎ extresme,  
+        En cette ardeur⁎ extresme,  
 Si vous n'estes, Monsieur, du tout hors de vous-mesme  
 Vous parroissez avoir perdu le jugement⁎.  
 Moderez-vous un peu, soyez moins vehement,  
@@ -2709,23 +2709,23 @@ Que vous ne devez pas la condamner ainsi.
 Appelle-la, Geraste.  
 
     GERASTE
-Elle est bien loin d'icy.  
+        Elle est bien loin d'icy.  
 
     CLORIMANT
 Va promptement apres.  
 
     GERASTE
-J'y cours Monsieur.  
+    J'y cours Monsieur.  
 
     CLORIMANT
-Arreste,  
+        Arreste,  
 N'y va pas.  
 
     GERASTE
-Bien Monsieur.  
+    Bien Monsieur.  
 
     CLORIMANT
-L'action que j'ay faite  
+        L'action que j'ay faite  
 Monstre que j'ay du cœur [154] en ayant resisté  
 Au desir d'aller voir cette ingrate beauté.  
 Mais pourray-je souffrir⁎ d'estre un moment sans elle.  
@@ -2735,7 +2735,7 @@ Pauline n'est pas loing, cours apres & l'apelle.
 J'y vay Monsieur.  
 
     CLORIMANT
-Que dis-je, escoute n'en fais rien.  
+        Que dis-je, escoute n'en fais rien.  
 Vit-on jamais mal-heur qui fust esgal au mien ?  
 La chose est resoluë, oüy sans plus de remise⁎,  
 Il faut absolument que j'aille voir Elize.  
@@ -2745,13 +2745,13 @@ La Cholere ne peut l'emporter sur l'Amour.
 Allons-y cette nuit.  
 
     CLORIMANT
-Non, non, j'yray de jour.  
+        Non, non, j'yray de jour.  
 
     GERASTE
 De jour, comment cela ?  
 
     CLORIMANT
-Ne t'en mets pas en peine [155].  
+        Ne t'en mets pas en peine [155].  
 Grands Dieux changez Elize, ou mon Amour en haine.  
 
 
@@ -2763,7 +2763,7 @@ ORMIN, CLITANDRE
 Vous estes tout pensif, qu'avez vous ?  
 
     CLITANDRE
-Je ne sçay.  
+        Je ne sçay.  
 L'alliance d'Elize où je me voy forcé  
 Me met, lors que j'y pense, en grande inquietude.  
 
@@ -2771,7 +2771,7 @@ Me met, lors que j'y pense, en grande inquietude.
 Vous la trouviez si belle.  
 
     CLITANDRE
-Ouy, mais n'est-il pas rude  
+        Ouy, mais n'est-il pas rude  
 Qu'en fait de mariage & d'inclination⁎  
 On force un Cavalier⁎ de ma condition⁎ ?  
 Vit-on jamais au monde une telle surprise ?  
@@ -2818,7 +2818,7 @@ Pourray-je me sauver, & m'exempter de blasme ?
 Que dira-t'on de moy ?  
 
     ORMIN
-Que vous avez pris femme  
+        Que vous avez pris femme  
 Parfaite, belle, & sage, & qui pourroit je croy,  
 Je dy sans la flatter l'estre mesme d'un Roy.  
 Si l'on vous a surpris [159], cette surprise est belle,  
@@ -2845,7 +2845,7 @@ POLEMAS, CLITANDRE, ORMIN, ELIZE, PAULINE, OCTAVE
 
 
     [POLEMAS]
-Toute la Cour, Monsieur,  
+        Toute la Cour, Monsieur,  
 Ayant sçeu que de vous je reçois tant d'honneur,  
 De desirer entrer dedans nostre famille,  
 M'a fait des compliments⁎ : mais j'ay peur que ma fille  
@@ -2876,19 +2876,19 @@ Je tiens quoy qu'il en soit, Clitandre pour mon gendre.
 J'y gagne seul, Monsieur.  
 
     ELIZE *bas* 
-Et moy seule j'y perds.  
+        Et moy seule j'y perds.  
 
     CLITANDRE
 Vous me mettrez aux Cieux.  
 
     ELIZE *bas* 
-Et moy dans les Enfers.  
+        Et moy dans les Enfers.  
 
     POLEMAS
 Des sieges promptement.  
 
     OCTAVE *bas* 
-Que j'ay l'ame ravie.  
+        Que j'ay l'ame ravie.  
 
     ELIZE *bas* 
 Grands Dieux, c'est à ce coup qu'on attente⁎ à ma vie.  
@@ -2910,7 +2910,7 @@ Que toute la Cour sçait que le Ciel nous envoye.
 Il n'en faut point douter.  
 
     CLORIMANT *entre* 
-Me trouvant fort pressé  
+        Me trouvant fort pressé  
 De faire un grand voyage où je me voy forcé.  
 Ayant appris aussi qu'une importante affaire  
 Vous tient tous assemblez, il n'est point necessaire  
@@ -2933,21 +2933,21 @@ Que ce soit s'il luy plaist pour un siecle d'années.
 Dieux quelle effronterie !  
 
     PAULINE *bas à Elize* 
-Elle est au dernier point ;  
+        Elle est au dernier point ;  
 Madame est-il troublé ?  
 
     ELIZE *bas à Pauline* 
-Non non il ne l'est point.  
+        Non non il ne l'est point.  
 
     POLEMAS
 Mes enfants respondez.  
 
     CLITANDRE
-Pour cét honneur extresme  
+        Pour cét honneur extresme  
 Je vous baise les mains⁎.  
 
     ELIZE
-Et moy j'en fais de mesme [165].  
+        Et moy j'en fais de mesme [165].  
 
     CLORIMANT *à Polemas* 
 Pour ne vous tenir pas davantage en soucy,  
@@ -2959,14 +2959,14 @@ Avant que de [167] partir de recevoir le mien
 Qui me peze par trop [168].  
 
     ELIZE *bas à Pauline*
-Ah ! cét homme Pauline  
+        Ah ! cét homme Pauline  
 Est venu pour me perdre ; hé Dieux il m'assassine.  
 
     PAULINE *bas à Elize* 
 Dissimulez un peu.  
 
     ELIZE *bas à Pauline* 
-Pauline je ne puis.  
+        Pauline je ne puis.  
 
     CLORIMANT
 C'est de quoy j'ay besoing en l'estat où je suis.  
@@ -2976,7 +2976,7 @@ Et vous ne voudrez pas, tant vous estes courtois⁎,
 Me refuser ce bien.  
 
     POLEMAS
-Il est vray qu'autre fois  
+        Il est vray qu'autre fois  
 Aysement j'eusse peû vous rendre ce service,  
 Mais j'ay depuis dix ans quitté cét exercice,  
 Et je suis fort marry [169] de n'avoir point cét heur⁎.  
@@ -2985,7 +2985,7 @@ Et je suis fort marry [169] de n'avoir point cét heur⁎.
 Je suis trop mal-heureux.  
 
     ELIZE
-Si vous voulez, Monsieur,  
+        Si vous voulez, Monsieur,  
 Pour quelque peu de temps differer ce voyage  
 Vous en pourrez trouver mesme avec advantage.  
 
@@ -3007,7 +3007,7 @@ Est-ce ce Cavalier⁎ qui recherchoit Elize ?
 Ouy qui part de cholere.  
 
     CLITANDRE* bas à Ormin*
-Ah ! qu'il l'ait j'y consens  
+        Ah ! qu'il l'ait j'y consens  
 Luy cédant de bon cœur le droit que j'y prétens.  
 
     ELIZE *à Clorimant* 
@@ -3074,14 +3074,14 @@ La passion, Monsieur, en ce poinct vous emporte,
 Vous vous delorez [176] trop.  
 
     CLITANDRE* bas à Ormin* 
-Nous nous entendons bien.  
+        Nous nous entendons bien.  
 
     CLORIMANT
 Je ne veux pas, Messieurs, troubler vostre entretien,  
 Je pren [177] congé de vous.  
 
     ELIZE *bas à Pauline* 
-Ah Pauline je pasme [178] !  
+        Ah Pauline je pasme [178] !  
 
     PAULINE *bas à Elize* 
 Vous vous delorez trop, moderez vous Madame.  
@@ -3090,7 +3090,7 @@ Vous vous delorez trop, moderez vous Madame.
 Pauline je ne puis.  
 
     [POLEMAS] *à Clorimant*
-Je suis au desespoir !  
+        Je suis au desespoir !  
 En cette occasion⁎ que je n'ay le pouvoir  
 De vous servir, Monsieur, comme je le souhaite.  
 
@@ -3119,7 +3119,7 @@ Ce Cavalier⁎ icy sans doute me prenoit
 Pour homme de trafic [179].  
 
     CLITANDRE
-C'est ce qui l'emmenoit [180].  
+        C'est ce qui l'emmenoit [180].  
 
     POLEMAS
 Clorimant, dites-vous ? Est-ce ainsi qu'on le nomme ?  
@@ -3128,7 +3128,7 @@ Clorimant, dites-vous ? Est-ce ainsi qu'on le nomme ?
 Ouy, Monsieur.  
 
     POLEMAS
-Il paroist fort brave⁎ Gentil-homme⁎.  
+        Il paroist fort brave⁎ Gentil-homme⁎.  
 Pour quelque peu de temps pourrois-je vous quitter ?  
 
     OCTAVE
@@ -3137,7 +3137,7 @@ Pour pouvoir discourir avecque sa maistresse.
 Donnons-luy le loisir.  
 
     POLEMAS
-Bien Monsieur je vous laisse,  
+        Bien Monsieur je vous laisse,  
 Il est juste, & mon fils a fort bonne raison.  
 Disposez comme estant enfant de la maison.  
 
@@ -3170,10 +3170,10 @@ Et sans trembler de peur peut-il me regarder ?
 S'il l'osoit je ferois.  
 
     PAULINE
-Quoy ?  
+    Quoy ?  
 
     ORMIN
-Dieux je desespere,  
+        Dieux je desespere,  
 N'excite point de grace à ce point ma cholere,  
 S'il s'oppose jamais au bien que je pretends [182] !  
 
@@ -3192,7 +3192,7 @@ Sont muets, si j'osois prendre la hardiesse
 Je les resveillerois.  
 
     PAULINE
-Pourquoy ? tu le peux bien.  
+        Pourquoy ? tu le peux bien.  
 
     ORMIN
 Oserois-je Monsieur troubler vostre entretien ?  
@@ -3225,7 +3225,7 @@ ELIZE, PAULINE
 
 
     ELIZE
-Ah, Pauline, je pasme [184] !  
+        Ah, Pauline, je pasme [184] !  
 En cette occasion⁎, qui me peut consoler ?  
 
     PAULINE
@@ -3234,7 +3234,7 @@ Et luy faire à l'abord un peu meilleure mine,
 Vous contraindre un moment.  
 
     ELIZE
-Je ne sçaurois Pauline.  
+        Je ne sçaurois Pauline.  
 Que ferois-je grands Dieux ? puis-je agir autrement ?  
 Il faut bien que je meure en perdant Clorimant,  
 Il s'absente ; à ce mot Dieux je perds la parole,  
@@ -3320,7 +3320,7 @@ Si pour l'Amour de moy tu veux quitter Pauline,
 Je quitte cét ingrat.  
 
     GERASTE
-Mais ne faits pas la fine,  
+        Mais ne faits pas la fine,  
 Pour me quitter apres & te mocquer de moy ?  
 
     JULIE
@@ -3337,22 +3337,22 @@ Va voir qui c'est, Julie, & reviens promptement.
 Madame, c'est Elize.  
 
     CLORIMANT
-Elize ?  
+    Elize ?  
 
     DIANE
-Ah ! Clorimant  
+        Ah ! Clorimant  
 Cachez-vous là dedans, il n'est pas raisonnable  
 Qu'elle vous trouve icy.  
 
     CLORIMANT
-Se connoissant coulpable,  
+        Se connoissant coulpable,  
 Elle vient pour vous voir afin de s'excuser.  
 
     DIANE
 Cachez-vous donc de grace.  
 
     CLORIMANT
-Il se faut exposer  
+        Il se faut exposer  
 Encor à cét affront ; car l'honneur m'y convie,  
 Quoy que pour me cacher j'ay hazardé ma vie.  
 Madame j'obeys, & je me cache icy.  
@@ -3361,7 +3361,7 @@ Madame j'obeys, & je me cache icy.
 Que deviendray-je moy ?  
 
     JULIE
-Va te cacher aussi.  
+        Va te cacher aussi.  
 (Ils se cachent)
 
 
@@ -3460,21 +3460,21 @@ As-tu dessein icy d'exciter mon courroux ?
 Considerez un peu.  
 
     ELIZE
-Moy que je considere ?  
+        Moy que je considere ?  
 Quoy ?  
 
     PAULINE
-Madame escoutez sans vous mettre en cholere,  
+        Madame escoutez sans vous mettre en cholere,  
 Vostre honneur.  
 
     ELIZE
-Tes discours sont icy superflus.  
+        Tes discours sont icy superflus.  
 
     PAULINE
 Le respect.  
 
     ELIZE
-Je le perds, & je n'escoute plus.  
+        Je le perds, & je n'escoute plus.  
 Non, non, je veux mourir, si je ne le puis suivre,  
 Car Clorimant absent Elize ne peut vivre.  
 
@@ -3489,7 +3489,7 @@ Vois-tu mon heur⁎ present, & qu'Elize m'adore,
 Va laisse moy sortir.  
 
     GERASTE
-Il n'est pas temps encore.  
+        Il n'est pas temps encore.  
 
     ELIZE
 Je rentre maintenant en un gouffre d'ennuis,  
@@ -3520,7 +3520,7 @@ OCTAVE, CLITANDRE, JULIE, DIANE, & CLORIMANT, GERASTE, ELIZE, & PAULINE, cachez 
 
 
     OCTAVE* bas à Clitandre en entrant*
-En cette occasion⁎  
+        En cette occasion⁎  
 Il vous faut puissamment marquer ma passion,  
 Dire que je l'adore, & que comme beau frere,  
 Vous venez terminer cette importante affaire.  
@@ -3569,13 +3569,13 @@ Avec un Cavalier⁎ qui n'est pas loing d'icy.
 Qu'on nomme ?  
 
     DIANE
-Clorimant.  
+    Clorimant.  
 
     CLITANDRE
-Quel Clorimant ?  
+    Quel Clorimant ?  
 
     OCTAVE *bas* 
-J'expire.  
+        J'expire.  
 
     DIANE
 Vous cognoissez fort bien celuy que je veux dire.  
@@ -3593,7 +3593,7 @@ Si vous avez dessein de me rendre jaloux
 Vous travaillez en vain.  
 
     DIANE
-Qu'ai je affaire de vous ?  
+        Qu'ai je affaire de vous ?  
 N'esperez pas perfide, ame ingratte & volage,  
 Que je vous puisse voir & souffrir⁎ davantage.  
 J'abhore tout de vous, jusques à vostre nom,  
@@ -3606,7 +3606,7 @@ Clorimant est party, Madame, je le jure.
 Il n'est rien de plus vray.  
 
     DIANE
-Dieux l'estrange imposture !  
+        Dieux l'estrange imposture !  
 Sçachez que Clorimant n'est pas bien loing d'icy.  
 
     OCTAVE
@@ -3646,14 +3646,14 @@ Justes Dieux quels dédains vous me faites paroistre,
 Qui vous oblige à fuyr ?  
 
     ELIZE
-Veux-tu me laisser traistre.  
+        Veux-tu me laisser traistre.  
 
     CLORIMANT
 Considerez, mon Cœur, que de tous les Amans  
 Je suis le plus fidelle.  
 
     ELIZE
-Ah perfide ! tu ments.  
+        Ah perfide ! tu ments.  
 Oses-tu bien, ingrat, me tenir ce langage ?  
 
     CLORIMANT
@@ -3684,7 +3684,7 @@ Avant qu'il soit une heure, il recevra ma foy⁎.
 Adieu perfide ingrat.  
 
     CLORIMANT
-Madame escoutez moy.  
+        Madame escoutez moy.  
 
     ELIZE
 Que veux tu que j'escoute esprit lasche⁎ & volage ?  
@@ -3724,7 +3724,7 @@ Madame permettez que je suive ses pas.
 Escoutez Clorimant.  
 
     CLORIMANT
-Non je ne le puis pas.  
+        Non je ne le puis pas.  
 Madame il faut mourir, ou fleschir ma cruelle.  
 
     JULIE* à Geraste*
@@ -3732,7 +3732,7 @@ Geraste que dis-tu ? veux-tu m'estre infidelle ?
 Veux-tu comme ton maistre estre ingrat.  
 
     GERASTE
-Laisse moy.  
+        Laisse moy.  
 Je veux suivre Pauline & luy garder la foy⁎.  
 (Ils s'en vont)
 
@@ -3775,11 +3775,11 @@ Et je veux si je puis tascher à le dissoudre.
 Comment le pourrez vous ?  
 
     CLITANDRE
-Je leur veux demander  
+        Je leur veux demander  
 Plus qu'ils ne m'ont promis.  
 
     ORMIN
-C'est mal y [192] proceder.  
+        C'est mal y [192] proceder.  
 Cette action Monsieur n'est point d'un honneste homme,  
 Vous ne leur avez point demandé d'autre somme  
 Avant que de [193] conclure, & maintenant pourquoy  
@@ -3787,7 +3787,7 @@ Sans raison voulez-vous desgager⁎ vostre foy⁎ ?
 Que dira-t'on de vous ?  
 
     CLITANDRE
-Tout ce qu'on voudra dire,  
+        Tout ce qu'on voudra dire,  
 J'ay fait presentement dessein de leur escrire  
 Que je suis resolu de ne l'espouser pas,  
 Si l'on n'adjouste encor quatre mille ducats  
@@ -3835,11 +3835,11 @@ Geraste escoute un mot, dis-tu pas que Pauline
 Te veut entretenir cette nuit ?  
 
     GERASTE
-Ouy Monsieur,  
+        Ouy Monsieur,  
 Mais j'y dois aller seul.  
 
     CLORIMANT
-Que t'importe, as-tu peur ?  
+        Que t'importe, as-tu peur ?  
 
     GERASTE
 Ouy, car facilement on vous pourroit cognoistre,  
@@ -3873,12 +3873,12 @@ Retire toy ; je veux luy parler en ta place [196].
 Luy diray-je pas bien ?  
 
     ELIZE
-Tu n'auras pas la grace  
+        Tu n'auras pas la grace  
 D'exprimer ce que j'ay dans l'ame, cache toy.  
 Est-ce pas toy Geraste ?  
 
     CLORIMANT
-Ouy Pauline, c'est moy :  
+        Ouy Pauline, c'est moy :  
 (Bas)
 
 C'est Elize à la voix je l'ay bien recognuë.  
@@ -3932,12 +3932,12 @@ S'il la quittoit l'aymant ainsi comme tu dis.
 Il ne s'en ira point :  
 
     CLORIMANT
-Quoy Pauline es-tu folle  
+        Quoy Pauline es-tu folle  
 Il ne s'en ira point ? non, car croy moy qu'il volle.  
 Il est bien loing d'icy.  
 
     ELIZE
-Te mocques-tu de moy ?  
+        Te mocques-tu de moy ?  
 
     CLORIMANT
 Mais te suis-je suspect, doutes-tu de ma foy⁎ ?  
@@ -3950,7 +3950,7 @@ Il me laisse en ce lieu pour un certain affaire [200]
 Qu'il m'a recommandé.  
 
     ELIZE *bas* 
-Ah Dieux ! comme aysément  
+        Ah Dieux ! comme aysément  
 En cette occasion⁎ j'abuse⁎ Clorimant.  
 Et luy tout au rebours croit de [201] m'avoir trompée.  
 
@@ -3966,31 +3966,31 @@ Si ta maistresse veut luy mander quelque chose
 Au moins sçache-le d'elle ? [202]  
 
     ELIZE
-Ah Geraste je n'ose,  
+        Ah Geraste je n'ose,  
 Elle s'en veut deffaire & le laisser aller,  
 Elle ne veut jamais le voir n'y luy parler.  
 Quoy demain sans faillir elle espouse Clitandre.  
 La chose est resoluë.  
 
     CLORIMANT
-Ah que viens-je d'entendre ?  
+        Ah que viens-je d'entendre ?  
 Elle espouse Clitandre ? est-il dessous les Cieux  
 Homme plus miserable ; oze-t'elle à mes yeux,  
 Commettre cette lasche⁎ & noire perfidie ?  
 Dy luy.  
 
     ELIZE
-Que veux-tu donc encor que je luy die [203] ?  
+        Que veux-tu donc encor que je luy die [203] ?  
 
     CLORIMANT
 Qu'elle trahit, Pauline, un tres-fidelle Amant  
 Qu'elle est …  
 
     ELIZE
-Tout beau⁎ Geraste.  
+    Tout beau⁎ Geraste.  
 
     CLORIMANT
-Ah je suis Clorimant,  
+        Ah je suis Clorimant,  
 Que la perfide Elize à sa fureur immole.  
 
     ELIZE
@@ -4008,7 +4008,7 @@ Qu'il n'est rien plus volage & plus inconstant⁎ qu'elle,
 Qu'elle est une perfide une …  
 
     ELIZE
-Tout beau⁎ c'est moy.  
+        Tout beau⁎ c'est moy.  
 
     CLORIMANT
 Je te cognoissois bien, ame ingratte & sans foy⁎,  
@@ -4021,25 +4021,25 @@ Tien [204] voilà tes escrits que j'immole à ma rage
 Tes cheveux, ton pourtraict.  
 
     GERASTE
-Monsieur que faites vous ?  
+        Monsieur que faites vous ?  
 
     CLORIMANT
 Pourquoy me retiens tu ?  
 
     GERASTE
-Moderez ce courroux,  
+        Moderez ce courroux,  
 Et ne les rompez pas, apres cette cholere  
 Vous mourriez de regret.  
 
     CLORIMANT
-Quand je le considere  
+        Quand je le considere  
 Tu dis vray, mais as-tu quelques papiers sur toy.  
 
     GERASTE
 J'ay des cartes, Monsieur.  
 
     CLORIMANT
-Bon, bon, donne les moy.  
+        Bon, bon, donne les moy.  
 (Il luy donne des cartes. Il les rompt)
 
 Tien [205] je romps le pourtraict de cette ingratte Dame,  
@@ -4086,7 +4086,7 @@ Il est le seul coupable & me fait criminelle.
 Ils sont partis Madame.  
 
     ELIZE
-Ah si je ne sçavois  
+        Ah si je ne sçavois  
 Que ce n'est pas, Pauline, icy la seule fois  
 Qu'il fait le furieux, qu'il part & qu'il demeure,  
 Je croy qu'assurément je mourrois tout à l'heure⁎.  
@@ -4104,7 +4104,7 @@ Dont pourtant on ne voit jamais tomber la pluye.
 Ah ! Pauline, je crains.  
 
     PAULINE
-Ne craignez pas qu'il fuye.  
+        Ne craignez pas qu'il fuye.  
 
     ELIZE
 Mais il vient à mes yeux de rompre mes escrits,  
@@ -4126,7 +4126,7 @@ Bien Madame, j'y vay.
 
 
     ELIZE
-En l'estat où je suis,  
+        En l'estat où je suis,  
 Grands Dieux retirez moy de ce gouffre d'ennuis.  
 (Pauline à la ruë avec une chandelle, & Elize à la fenestre)
 
@@ -4136,56 +4136,56 @@ Est-il possible, ô Dieux ! qu'il m'ait fait cette injure,
 Ramasse ces papiers.  
 
     PAULINE
-Des papiers je vous jure  
+        Des papiers je vous jure  
 Que je n'en voy pas un.  
 
     ELIZE
-Qu'est-ce que je voy là ?  
+        Qu'est-ce que je voy là ?  
 
     PAULINE
 Une carte rompuë.  
 
     ELIZE
-Aporte.  
+    Aporte.  
 
     PAULINE
-Là voilà.  
+        Là voilà.  
 
     ELIZE
 Que porte-t'elle ?  
 
     PAULINE
-Rien.  
+    Rien.  
 
     ELIZE
-Ah Pauline regarde.  
+        Ah Pauline regarde.  
 
     PAULINE
 Je voy bien ce que c'est.  
 
     ELIZE
-Quoy ?  
+    Quoy ?  
 
     PAULINE
-C'est la hallebarde [211]  
+        C'est la hallebarde [211]  
 Du Valet de carreau.  
 
     ELIZE
-Que dis-tu ?  
+    Que dis-tu ?  
 
     PAULINE
-Que voicy  
+        Que voicy  
 Le bas du Roy de trefle.  
 
     ELIZE
-Et l'autre ?  
+    Et l'autre ?  
 
     PAULINE
-C'est icy  
+        C'est icy  
 L'as de cœur.  
 
     ELIZE
-Vois-tu point quelque pourtrait, Pauline ?  
+        Vois-tu point quelque pourtrait, Pauline ?  
 
     PAULINE
 Ouy, je tiens une teste elle s'appelle Argine.  
@@ -4202,7 +4202,7 @@ L'invention, Madame, est certes excellente.
 Monte, viens te coucher.  
 
     PAULINE
-Me coucher ! il est jour.  
+        Me coucher ! il est jour.  
 
     [ELIZE]
 Clorimant tu ne peux desmentir ton amour.  
@@ -4231,7 +4231,7 @@ Ce qu'il m'escrit que moy, lors que tu l'auras leu.
 Encore que mande-t'il ?  
 
     POLEMAS
-Je n'eusse jamais creu  
+        Je n'eusse jamais creu  
 Qu'un Cavalier⁎ d'honneur fust parjure ny lasche⁎,  
 Et procedast si mal, mais ce qui plus m'en fasche⁎,  
 Est que tout Paris sçait maintenant nostre accord.  
@@ -4240,7 +4240,7 @@ Est que tout Paris sçait maintenant nostre accord.
 Sçauray-je point que c'est [212] ?  
 
     POLEMAS
-Ah Clitandre a grand tort.  
+        Ah Clitandre a grand tort.  
 Allons trouver ta sœur, tu sçauras devant elle  
 Le sujet qui me trouble, & me met en cervelle [213],  
 Elle sera surprise aussi bien comme moy.  
@@ -4262,7 +4262,7 @@ Ma fille quel sujet vous fait veiller ainsi ?
 Je ne sçaurois dormir.  
 
     POLEMAS
-Si c'est pour le soucy⁎  
+        Si c'est pour le soucy⁎  
 Que vous cause l'amour de vostre Espoux Clitandre,  
 Ma fille je vous veux en trois mots faire entendre  
 Que vous n'y pensiez plus. Voyez ce qu'il m'escrit.  
@@ -4272,7 +4272,7 @@ N'importe cét amour trouble peu mon esprit.
 Mais encor que dit-il ?  
 
     POLEMAS
-Sçachez que cét infame⁎  
+        Sçachez que cét infame⁎  
 Plus amoureux cent fois des biens que d'une femme  
 Vous veut bien espouser, mais à condition  
 (Voyez jusqu'à quel poinct monte sa passion,  
@@ -4281,7 +4281,7 @@ Qu'il veut avoir de plus, que la somme promise,
 Quatre mille ducats.  
 
     ELIZE
-Grands Dieux que dites-vous ?  
+        Grands Dieux que dites-vous ?  
 
     POLEMAS
 C'est ce que par ce mot me mande vostre Espoux.  
@@ -4294,7 +4294,7 @@ De mesme perfidie & d'aussi lasches⁎ tours.
 On me l'avoit bien dit.  
 
     POLEMAS
-Voilà comme il vous ayme.  
+        Voilà comme il vous ayme.  
 
     ELIZE
 Je ne le celle point, la surprise [214] est extresme,  
@@ -4336,16 +4336,16 @@ Vous ne pouvez, Monsieur, de ce point vous deffendre :
 Vostre honneur vous y force.  
 
     POLEMAS
-Il me faudroit donc vendre  
+        Il me faudroit donc vendre  
 Jusques à ma maison pour y pouvoir fournir.  
 Où me tiendrois-je [217] apres ?  
 
     ELIZE
-Vous vous pouvez tenir.  
+        Vous vous pouvez tenir.  
 Aysément avec moy.  
 
     POLEMAS
-Mais que dira ton frere ?  
+        Mais que dira ton frere ?  
 
     OCTAVE
 Ne laissez pas, Monsieur, de terminer l'affaire,  
@@ -4361,7 +4361,7 @@ Si vous vous obligez⁎, qui nous rendra contens ;
 Cét homme a de l'argent.  
 
     POLEMAS
-Va, ne perds point de temps.  
+        Va, ne perds point de temps.  
 Puis va-t'en aussi-tost au logis de Clitandre,  
 Dy luy que pour avoir l'heur⁎ de le voir mon gendre,  
 J'ay fait tous mes efforts pour le rendre content,  
@@ -4372,7 +4372,7 @@ Je m'en vay convier mes amis de ce pas,
 Fay qu'il vienne avec toy.  
 
     OCTAVE
-Je n'y manqueray pas.  
+        Je n'y manqueray pas.  
 
     ELIZE *bas en s'en allant* 
 Puis que ta lascheté⁎ se fait ainsi paroistre,  
@@ -4407,7 +4407,7 @@ La conduisent les Dieux [220] ainsi que je souhaite.
 Entrons donc chez Diane.  
 
     ORMIN
-Elle sort je la voy.  
+        Elle sort je la voy.  
 
 
 ### SCENE IV
@@ -4466,23 +4466,23 @@ Madame, au nom des Dieux calmez vostre colere,
 Accordez-moy ce poinct.  
 
     DIANE
-Non, je ne le puis faire.  
+        Non, je ne le puis faire.  
 Je suis trop irritée.  
 
     CLITANDRE
-Et bien posons le cas  
+        Et bien posons le cas  
 Que j'aye [222] justement merité le trespas,  
 Demandant à genoux pardon de mon offence  
 Ne l'obtiendray-je point ?  
 
     DIANE
-Clitandre quand j'y pense  
+        Clitandre quand j'y pense  
 Je ne sçaurois pour tout endurer ces mespris.  
 Mais si tu veux un peu remettre mes esprits,  
 Dy moy du mal d'Elize.  
 
     CLITANDRE
-Ah justes Dieux ! Madame,  
+        Ah justes Dieux ! Madame,  
 Pourquoy desirez vous que j'endure le blasme  
 Que l'on me donnera de la traitter ainsi.  
 
@@ -4505,7 +4505,7 @@ Je te pardonne tout.
 
 
     ORMIN *à JULIE* 
-Pour rentrer en ta grace,  
+        Pour rentrer en ta grace,  
 Dy moy ? qu'est-il besoin à present que je face ?  
 
     JULIE
@@ -4588,7 +4588,7 @@ Car ma sœur vous souhaitte avec impatience.
 Qu'en dites vous Madame ?  
 
     DIANE
-Ah Dieux quelle impudence !  
+        Ah Dieux quelle impudence !  
 Osez vous sans rougir me tenir ce discours ?  
 
     CLITANDRE
@@ -4603,7 +4603,7 @@ Quoy que vous en pensiez, qui m'oblige à ce faire [227].
 Impudent imposteur.  
 
     CLITANDRE
-Vous estes en colere ;  
+        Vous estes en colere ;  
 Je souffre⁎ tout de vous, mais Madame escoutez,  
 Car je ne diray mot si vous vous emportez.  
 Dites moy, voulez vous qu'à present je viole  
@@ -4617,7 +4617,7 @@ Vous estiez contre moy tous trois d'intelligence :
 Je vous entends fort bien : [229]  
 
     OCTAVE
-Madame au nom des Dieux  
+        Madame au nom des Dieux  
 Moderez ces transports⁎, & tournez ces beaux yeux  
 Vers moy qui vous adore, & qui brusle d'envie  
 De hazarder pour vous, & l'honneur & la vie.  
@@ -4675,7 +4675,7 @@ Mais puis qu'il est absent, il n'y faut plus songer.
 Madame le voilà.  
 
     DIANE
-Te mocques⁎ tu Julie ?  
+        Te mocques⁎ tu Julie ?  
 Ma joye est à present de tout point accomplie.  
 
 
@@ -4715,7 +4715,7 @@ En dépit qu'il en eut a terminé l'affaire,
 Et dans une heure au plus Clitandre …  
 
     CLORIMANT
-Ah taisez vous.  
+        Ah taisez vous.  
 
     DIANE
 Sera n'en doutez point son legitime espoux.  
@@ -4759,7 +4759,7 @@ Madame allons au temple [237] ; & faisons devant eux
 Accomplir nostre hymen.  
 
     DIANE
-Clorimant je le veux.  
+        Clorimant je le veux.  
 C'est ainsi que je veux me vanger de ce traistre.  
 
     GERASTE
@@ -4774,7 +4774,7 @@ De m'aymer à jamais, & de m'estre fidelle.
 Ouy je te le promets.  
 
     CLORIMANT *bas à Geraste* 
-Dis à cette cruelle  
+        Dis à cette cruelle  
 Que je suis à Paris & ne l'ay point quitté.  
 Qu'icy j'ay recognu son infidelité.  
 Qu'elle espouze Clitandre, & dy qu'à son exemple,  
@@ -4813,7 +4813,7 @@ Quoy Geraste à Paris, hé que pense tu [240] faire,
 Qui t'emmene [241] en ces lieux ?  
 
     GERASTE
-Pauline escoute icy  
+        Pauline escoute icy  
 Je te veux dire un mot.  
 (Il luy parle à l'oreille)
 
@@ -4821,7 +4821,7 @@ Je te veux dire un mot.
     POLEMAS
 (La compagnie [242] entre)
 
-Courage les voicy.  
+        Courage les voicy.  
 Messieurs nous n'attendions pas vostre compagnie,  
 Afin d'authoriser cette ceremonie.  
 
@@ -4831,7 +4831,7 @@ Je vay trouver Elize, attend [243].
     POLEMAS
 (Pauline parle à l'oreille d'Elize, & vient dire à Geraste)
 
-Assayons [244] nous,  
+        Assayons [244] nous,  
 Il ne manque plus rien nous sommes icy tous.  
 
     PAULINE *bas à Geraste* 
@@ -4844,14 +4844,14 @@ Allons donc promptement, vous plaist-il pas Clitandre.
 J'en suis content.  
 
     ELIZE *à Polemas* 
-Monsieur avant que de [245] jouir  
+        Monsieur avant que de [245] jouir  
 De ce bien, faites moy la faveur de m'ouir.  
 
     POLEMAS
 Parlez je vous entends.  
 
     ELIZE
-Monsieur j'ay lieu de craindre  
+        Monsieur j'ay lieu de craindre  
 Que Clitandre à la fin n'ait subject de se plaindre :  
 Car pour dire le vray vous n'aviez pas raison,  
 Pour l'avoir rencontré dedans une maison,  
@@ -4894,7 +4894,7 @@ De faire plus de cas des biens que d'une femme.
 Ah, Madame, est-ce ainsi ?  
 
     ELIZE
-Lasche⁎ retirez-vous.  
+        Lasche⁎ retirez-vous.  
 
     POLEMAS
 Ma fille moderez ce violent courroux,  
@@ -4907,15 +4907,15 @@ En la vertu que j'ay qu'en dix mille ducats.
 En fin c'est Clorimant.  
 
     POLEMAS
-Il est absent.  
+    Il est absent.  
 
     ELIZE
-Mon pere,  
+        Mon pere,  
 Il n'est pas loing d'icy. Cours & ne tarde guere.  
 Geraste appelle-le.  
 
     GERASTE
-Bien Madame j'y cours.  
+        Bien Madame j'y cours.  
 
     CLITANDRE
 Consentez-vous, Monsieur à de si lasches⁎ tours ?  
@@ -4958,7 +4958,7 @@ Si Monsieur m'eust parlé plustost, j'eusse sur l'heure
 Terminé cette affaire.  
 
     CLITANDRE
-Ah Clorimant ! je meure  
+        Ah Clorimant ! je meure  
 Si je suis de vostre heur⁎ aucunement [249] jaloux.  
 Diane je veux estre aujourd'huy vostre Espoux,  
 Je rentre dans vos fers, & j'abandonne Elize.  
@@ -4970,7 +4970,7 @@ Je ne veux point de vous, Monsieur, je suis promise.
 À qui ?  
 
     DIANE
-Ce Cavalier⁎ n'est pas bien loing d'icy.  
+        Ce Cavalier⁎ n'est pas bien loing d'icy.  
 
     CLITANDRE
 Madame resvez-vous ? me raillez vous ainsi ?  
@@ -4980,7 +4980,7 @@ Je ne vous raille point, Monsieur. Parlez Octave
 M'estimez vous encor ?  
 
     OCTAVE
-Dieux je suis vostre esclave.  
+        Dieux je suis vostre esclave.  
 
     DIANE
 Monsieur je suis à vous, & vous donne la main.  
@@ -5010,7 +5010,7 @@ Monsieur voulez vous pas nous marier ensemble,
 Pauline & moy j'entends.  
 
     CLORIMANT
-Ouy Geraste je veux  
+        Ouy Geraste je veux  
 Aussi bien que les miens esteindre tous tes feux⁎ [251].  
 
     ELIZE

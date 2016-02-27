@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_plaisirs-ile-enchantee *id_body-1-1 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1665 *creator_moliere
 
 Le Roi voulant donner aux Reines, et à toute sa Cour le plaisir de quelques Fêtes peu communes, dans un lieu orné de tous les agréments qui peuvent faire admirer une Maison de Campagne, choisit Versailles, à quatre lieues de Paris.
 C'est un Château qu'on peut nommer un Palais Enchanté, tant les ajustements de l'art ont bien secondé les soins que la Nature a pris pour le rendre parfait : Il charme en toutes manières, tout y rit dehors et dedans, l'or et le marbre y disputent de beauté et d'éclat : Et quoiqu'il n'ait pas cette grande étendue qui se remarque en quelques autres Palais de Sa Majesté : Toutes choses y sont si polies, si bien entendues et si achevées, que rien ne le peut égaler.
@@ -170,7 +170,7 @@ Quand il est question de se mettre en campagne,
 Et, pour ne vous en point mentir
 C'est le pur sang de Charlemagne.
 
-**** *book_moliere_plaisirs-ile-enchantee *id_body-1-3 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1665 *creator_moliere
 
 Vingt Pasteurs, chargés des diverses pièces de la Barrière, qui devait être dressée pour la Course de Bague, formaient la dernière Troupe qui entra dans la Lice : Ils portaient des vestes couleur de feu enrichie d'argent, et des coiffures de même.
 
@@ -354,7 +354,7 @@ Si nos troupeaux goûtent en paix
 Les herbages de nos prairies,
 Nous devons ce bonheur à vos divins attraits.
 
-**** *book_moliere_plaisirs-ile-enchantee *id_II *date_1665 *creator_moliere
+**** *book_ *id_II *date_1665 *creator_moliere
 
 SECONDE JOURNÉE DES PLAISIRS DE L'ÎLE ENCHANTÉE.
 
@@ -370,7 +370,7 @@ LA PRINCESSE D'ÉLIDE
 
 La Princesse d'Élide fut représentée lors de la deuxième journée
 
-**** *book_moliere_plaisirs-ile-enchantee *id_body-3-1 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1665 *creator_moliere
 
 Plus on s'avançait vers le grand Rond d'eau qui représentait le Lac, sur lequel était autrefois bâti le Palais d'Alcine : plus on s'approchait de la fin des divertissements de l'Île Enchantée, comme s'il n'eût pas été juste que tant de braves Chevaliers demeurassent plus longtemps dans une oisiveté qui eût fait tort à leur gloire.
 

@@ -1,5 +1,5 @@
 ---
-identifier: corneille_camma  
+identifier: corneille-thomas_camma  
 creator: Corneille, Thomas  
 date: 1661  
 title: Camma, reine de Galatie. Tragédie  
@@ -1596,7 +1596,7 @@ CAMMA, PHENICE.
 
 
     CAMMA.
-Ah, le perfide !  
+        Ah, le perfide !  
 Il veut donc achever son lâche parricide⁎,  
 Joindre la Fille au Pere ! ô mon unique espoir [162] ?  
 O vangeance, est-ce ainsi que tu sers mon devoir ?  
@@ -1633,7 +1633,7 @@ Vous fait souffrir assez pour la tirer d'erreur,
 Vous sçavez sa fierté⁎ [169].  
 
     CAMMA.
-Dequoy qu'elle m'accuse,  
+        Dequoy qu'elle m'accuse,  
 Il n'est pas temps encor que je la desabuse⁎,  
 Si la gloire en secret me pousse à me vanger,  
 Ce seroit l'affoiblir que de la partager.  
@@ -1647,7 +1647,7 @@ Il vous faut l'acquerir, et l'amour qui le flate⁎
 Le peut seul obliger…  
 
     CAMMA.
-Tu connois mal Sostrate,  
+        Tu connois mal Sostrate,  
 Il aime, il cherche à plaire, et toutefois, helas !  
 Son cœur contre un Tyran craint d'advoüer son bras. [172]  
 
@@ -1655,7 +1655,7 @@ Son cœur contre un Tyran craint d'advoüer son bras. [172]
 Vous le sçavez, Madame ?  
 
     CAMMA.
-Apprens par quelle adresse,  
+        Apprens par quelle adresse,  
 Brûlant⁎ pour une Reine, il feint pour la Princesse [173],  
 Et que mon ordre exprés y contraignant sa foy⁎,      
 Luy fait cacher ainsi l'amour qu'il a pour moy.  
@@ -1709,7 +1709,7 @@ N'a rien pour Sinorix qui contraigne vos vœux⁎.
 Il tâche à les seduire, et le Trône…  
 
     CAMMA.
-Ouy, Princesse,  
+        Ouy, Princesse,  
 Mais qu'ils cedent ou non, que ce scrupule cesse,  
 L'injure⁎ qu'on vous fait et qu'il faut reparer,  
 A leur ambition n'a rien à déferer⁎.  
@@ -1758,7 +1758,7 @@ Il en a l'ordre au moins s'il veut l'executer.
 Qui l'en empescheroit ?  
 
     CAMMA.
-Ma volonté peut-estre,  
+        Ma volonté peut-estre,  
 Ou quelque autre raison que l'on ne peut connoître.  
 
     HESIONE.
@@ -1820,7 +1820,7 @@ Vers toute autre ce soin⁎ pourroit vous mettre en peine,
 Mais tant de fiers⁎ mépris…  
 
     HESIONE.
-Ne les vante point tant,  
+        Ne les vante point tant,  
 J'en connoy l'artifice⁎, et voy ce qu'elle attend.  
 Tu verrois le Tyran toucher bien-tost son ame  
 Si j'avois de ma main recompensé ta flame⁎,  
@@ -1863,14 +1863,14 @@ Ou ne m'offre ton cœur qu'en suite de ton bras.
 Quoy…  
 
     HESIONE.
-Ne réplique point ; quand ce grand coup t'étonne⁎,  
+        Ne réplique point ; quand ce grand coup t'étonne⁎,  
 Voy que je suis ta Reine, et que je te l'ordonne,  
 Et si ta lâcheté me prepare un refus,  
 Ne me le fais sçavoir qu'en ne me voyant plus.  
 C'en sera l'asseurance⁎, adieu.  
 
     SOSTRATE *seul.*
-Que fuir ta veuë  
+        Que fuir ta veuë  
 N'est-ce tout le peril d'un ordre qui me tuë ! [189]  
 Mais las ! forcé d'aimer, quels seront mes souhaits  
 S'il faut trahir par tout, ou n'esperer jamais ?  < Fin du premier Acte. >
@@ -1995,7 +1995,7 @@ A trouver les moyens de nuire à mon amour,
 L'Arrest en est donné.  
 
     HESIONE.
-Fay donc qu'on l'execute.  
+        Fay donc qu'on l'execute.  
 C'est par là que les Dieux ont resolu ta cheute,  
 Sans cette indignité mon Sort seroit trahy,  
 Plus tu seras Tyran, plus tu seras haï,  
@@ -2073,14 +2073,14 @@ Quoy, contre la Princesse armer vostre colere ?
 Ah, Seigneur, songez-vous…  
 
     SINORIX.
-L'arrest t'en doit déplaire,  
+        L'arrest t'en doit déplaire,  
 Tu l'aimes, je le sçais, et ton amour soûmis  
 Pour punir son orgueil ne se croit rien permis.  
 Garde ces sentiments, tandis que ma vangeance  
 Pressant…  
 
     PHAEDIME.
-Voyez, Seigneur, que la Reine s'advance.  
+        Voyez, Seigneur, que la Reine s'advance.  
 
     SINORIX.
 La Reine vient icy ! qu'en dois-je présumer ?  
@@ -2281,10 +2281,10 @@ Et que je plains en toy, si ton feu⁎ l'entreprend,
 L'inutile vertu⁎ que cet espoir te rend.  
 
     SOSTRATE.
-Ah ! que me dites-vous ?                   
+Ah ! que me dites-vous ?  
 
     CAMMA.
-Ce que je te dois dire,  
+        Ce que je te dois dire,  
 Que jamais sur ton cœur la gloire n'eut d'empire,  
 Et qu'un lâche interest qu'il vient de mettre au jour  
 Le rend traître ou fidelle au gré de ton amour.  
@@ -2367,14 +2367,14 @@ Vous luy rendrez justice à le croire sans crime,
 Mais…  
 
     CAMMA.
-Mais tes vœux ardents à luy sauver le jour  
+        Mais tes vœux ardents à luy sauver le jour  
 Languiront si je songe à payer son amour ?  
 
     SOSTRATE.
 Madame…  
 
     CAMMA.
-Il me suffit ; puisque c'est te déplaire  
+        Il me suffit ; puisque c'est te déplaire  
 Porte luy ma réponce, et dy luy qu'il espere,  
 Que mon cœur n'aime rien, et que dans peu sa foy⁎  
 Peut selon ses souhaits attendre tout de moy.  < Fin du second Acte. >
@@ -2531,16 +2531,16 @@ L'occasion est belle, il est seul, advançons.
 O Sinatus !  
 
     SOSTRATE *paroissant à l'autre costé du theatre, et voyant Camma qui s'advance vers Sinorix un poignard à la main.* [259]
-Que vois-je ! Ah !  
+    Que vois-je ! Ah !  
 
     CAMMA.
-Perdons cét infame.  
+        Perdons cét infame.  
 Dans l'instant que la Reine leve le bras pour fraper Sinorix, Sostrate luy saisit la main, Sinorix se détourne, et le poignard tombe sans qu'il puisse connoistre de quelle main.
 
 Que fais-tu, mal-heureux ?  
 
     SOSTRATE.
-Que faites-vous, Madame ?  
+        Que faites-vous, Madame ?  
 
     SINORIX *se détournant et se saisissant du poignard.*
 Justes Dieux, un Poignard ! On en veut à mes jours,  
@@ -2550,7 +2550,7 @@ A moy, Gardes, à moy, qu'on vienne à mon secours.
 Seigneur.  
 
     SINORIX.
-La trahison d'un faux succez suivie  
+        La trahison d'un faux succez suivie  
 Vient d'employer ce fer pour m'arracher la vie ;  
 Mais j'ay tort d'accuser mon ingrat ennemy,  
 Il n'est dans son forfait coupable qu'à demy,  
@@ -2645,7 +2645,7 @@ Que songer à punir plustost qu'à m'acquiter.
 Souffrez⁎ donc qu'à vos pieds…      
 
     CAMMA.
-Ah, c'est trop me confondre⁎.  
+        Ah, c'est trop me confondre⁎.  
 Je voy, j'entens, j'écoute, et ne sçay que répondre,  
 Et mon esprit confus, surpris, inquiété,  
 Tombe enfin malgré moy dans la stupidité⁎.  
@@ -2858,7 +2858,7 @@ J'entreprens, il est vray, mais ce n'est pas pour vous,
 Par mon seul interest j'ay dû…  
 
     HESIONE.
-Qu'oses-tu dire ?  
+        Qu'oses-tu dire ?  
 Je t'ay sollicité, c'est ton bras qui conspire,  
 Et tu cherches en vain à rejetter sur toy  
 Les motifs d'un beau coup qui ne sont deus qu'à moy [280].  
@@ -2867,7 +2867,7 @@ Les motifs d'un beau coup qui ne sont deus qu'à moy [280].
 Mais, Madame…  
 
     HESIONE.
-Non, non, c'est m'offencer, Sostrate,  
+        Non, non, c'est m'offencer, Sostrate,  
 Souffre d'un grand projet que la gloire me flate⁎.  
 Où le peril est beau m'empescher d'y courir,  
 C'est m'arracher la part que j'en puis acquerir.  
@@ -2944,7 +2944,7 @@ La foudre⁎ l'est déjà pour lancer sur sa teste,
 Songez-y.  
 
     HESIONE.
-Tu pers temps [285] ; puisque sa mort te plaist,  
+        Tu pers temps [285] ; puisque sa mort te plaist,  
 Tonne contre tous deux, j'attendray ton arrest.  < Fin du troisiéme Acte >
 
 
@@ -3067,7 +3067,7 @@ Quoy, la pitié pour luy ne touche point vostre ame,
 Luy qui vous fut si cher, luy qu'enfin…  
 
     SINORIX.
-Ah, Madame,  
+        Ah, Madame,  
 Que vous concevez mal, en pressant ma pitié,  
 Quelle horreur à l'outrage adjouste l'amitié !  
 Le coup que de tout autre on verroit sans colere  
@@ -3188,7 +3188,7 @@ Quoy, j'aurois fait pour luy des efforts⁎ superflus ?
 Ah, songez…  
 
     SINORIX.
-Non, Madame, il y va de ma gloire,  
+        Non, Madame, il y va de ma gloire,  
 Souffrez à⁎ mon amour cette juste victoire ;  
 Je sçay que resister lors que vous commandez  
 C'est trahir le respect que vous en attendez,  
@@ -3236,7 +3236,7 @@ Ah, puisqu'il est ainsi, que je meurs satisfait !
 Madame… [301]  
 
     CAMMA.
-Quoy, mourir ? tu me crois assez lâche  
+        Quoy, mourir ? tu me crois assez lâche  
 Pour te livrer au sort dont ta vertu m'arrache ?  
 Si je cache l'abus qui t'expose à perir,  
 C'est par la seule peur de te mal secourir.  
@@ -3259,7 +3259,7 @@ Celuy que d'un Tyran m'offre la violence.
 Quoy, Madame…  
 
     CAMMA.
-Je tremble à me le proposer,  
+        Je tremble à me le proposer,  
 J'en fremis, mais enfin il le faut épouser.  
 
     SOSTRATE.
@@ -3365,7 +3365,7 @@ Au plus honteux projet vostre cœur se resout,
 Il le sçait, il le voit.  
 
     CAMMA.
-Je vois tout, je sçais tout,  
+        Je vois tout, je sçais tout,  
 Mais en vain de mon sort l'épouventable image  
 Te laisse quelque espoir d'ébranler mon courage.  
 Pour te sauver le jour l'effort⁎ est resolu,  
@@ -3435,7 +3435,7 @@ Puisqu'il empesche seul un injuste supplice,
 Puisqu'il sauve Sostrate…  
 
     SOSTRATE.
-Ah, souffrez⁎ qu'il perisse,  
+        Ah, souffrez⁎ qu'il perisse,  
 Qu'il remplisse en mourant la gloire de son sort.  
 à Hesione.
 
@@ -3472,7 +3472,7 @@ Pouvois-je craindre, helas ! un sort plus effroyable ?
 Princesse…  
 
     HESIONE.
-Va, c'est trop, quitte ce desespoir,  
+        Va, c'est trop, quitte ce desespoir,  
 Sostrate, ton amour a bien fait son devoir.  
 Pour vaincre les malheurs dont je suis poursuivie  
 Tu m'as aveuglement sacrifié ta vie ;  
@@ -3536,7 +3536,7 @@ Je sçay quel coup affreux la Fortune me garde,
 La Reine…  
 
     SOSIME.
-Ce malheur n'a rien qui la regarde,  
+        Ce malheur n'a rien qui la regarde,  
 C'est à vostre amour seul qui s'offre à redouter.  
 La Princesse tantost a voulu s'emporter ;  
 Contre l'ambition d'une Reine infidelle,  
@@ -3706,7 +3706,7 @@ S'indignoit d'un hymen qui me rendoit heureux,
 Et ma mort…  
 
     CAMMA.
-Je le sçay, mais, Sinorix, écoute,  
+        Je le sçay, mais, Sinorix, écoute,  
 Il est d'autres secrets dont tu peux estre en doute,  
 Et j'ay quelques clartez acquises par hazard  
 Dont il est juste enfin que je te fasse part.  
@@ -3763,7 +3763,7 @@ Je n'ai pû m'affranchir⁎ d'en faire mon Espoux [343].
 Quoy, Madame…  
 
     CAMMA.
-Tu vois, t'expliquant l'entreprise,  
+        Tu vois, t'expliquant l'entreprise,  
 Si j'avois lieu d'abord d'arrester ta surprise,  
 Et de dire, en parlant d'un poison odieux,  
 Que ce qui le suivoit la meriteroit mieux ?  
@@ -3772,7 +3772,7 @@ Que ce qui le suivoit la meriteroit mieux ?
 Ah, Madame…  
 
     CAMMA.
-Non, non, Sinorix, tu t'abuses  
+        Non, non, Sinorix, tu t'abuses  
 Si tu crois que je veüille entendre des excuses,  
 A des vœux criminels tu t'es abandonné,  
 Sinatus leur nuisoit, tu l'as empoisonné.  
@@ -3785,7 +3785,7 @@ C'est-là ce qu'un perfide ose vous faire croire ?
 Moy, Seigneur ?  
 
     SINORIX.
-Vous aimant, il a crû reüssir  
+        Vous aimant, il a crû reüssir  
 Si de quelque grand crime il pouvoit me noircir ?  
 
     CAMMA.
@@ -3845,7 +3845,7 @@ Il est prest, et par luy tout mon sang répandu
 Sçaura…  
 
     CAMMA.
-Non, mieux que toy je sçay ce qui t'est dû.  
+        Non, mieux que toy je sçay ce qui t'est dû.  
 Ma vangeance par là flateroit⁎ peu ma peine,  
 Tu l'offres à l'amour, je la dois à la haine.  
 Souffrir⁎ que ton remords me la fasse obtenir,  
@@ -3877,7 +3877,7 @@ Crains tout de leur revolte, et de l'ardeur soudaine
 Qu'a mise…  
 
     SINORIX.
-Ah, je ne crains que vostre seule haine.  
+        Ah, je ne crains que vostre seule haine.  
 Madame, au nom des Dieux daignez regler mon sort,  
 Donnez moy vostre amour, ou m'accordez la mort,  
 L'arrest à son defaut m'en sera favorable.  
@@ -3986,10 +3986,10 @@ CAMMA, SOSTRATE, SOSIME, PHENICE, Suite.
 Ah, Madame, le Roy…  
 
     CAMMA.
-Parle, et bien ?  
+    Parle, et bien ?  
 
     SOSIME.
-Ne vit plus.  
+        Ne vit plus.  
 
     SOSTRATE.
 Quoy, de nos Factieux la troupe mutinée… [354]  
@@ -4036,7 +4036,7 @@ Ma vangeance est remplie, et je meurs sans regret.
 Quoy…  
 
     CAMMA.
-Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,  
+        Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,  
 Dy qu'il m'a fait tahir une amour⁎ sans égale ;  
 J'avois empoisonné la coupe nuptiale,  
 Et n'ay donné ma foy⁎ que sur le doux espoir  
@@ -4046,14 +4046,14 @@ D'en obtenir la mort que j'ay fait recevoir.
 La Reine empoisonnée [357] !  
 
     PHENICE.
-Ah, Madame !  
+    Ah, Madame !  
 
     SOSTRATE.
-Ah, Phenice,  
+        Ah, Phenice,  
 Viste, à la secourir…  
 
     CAMMA.
-Tu me fais injustice,  
+        Tu me fais injustice,  
 Si la douceur de vivre eust flaté⁎ ma raison  
 J'aurois sçeu prévenir la force du poison,  
 Laisse agir son pouvoir, le Sort ainsi l'ordonne.  
@@ -4083,7 +4083,7 @@ O peu sensible amant ! elle meurt, et tu vis.
 Préviens, lâche, préviens…  
 
     SOSIME *luy retenant la main qu'il porte sur son épée.*
-Seigneur, qu'allez-vous faire ?  
+        Seigneur, qu'allez-vous faire ?  
 
     SOSTRATE.
 Que vous sert d'empescher un coup si necessaire ?  

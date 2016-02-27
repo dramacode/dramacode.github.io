@@ -1,5 +1,5 @@
 ---
-identifier: mareschal_dictateur  
+identifier: mareschal_dictateur-romain  
 creator: Mareschal, André  
 date: 1646  
 title: Le Dictateur romain. Tragédie.  
@@ -912,8 +912,6 @@ Par grace & privilège du Roy donné à Paris le 19. Fevrier 1646. signé, Par l
 LA SCENE est au Palais du Consul Camille, dans une gallerie [67] qui donne sur le jardin.
 
 
-LE DICTATEUR ROMAIN TRAGEDIE.
-
 
 ## ACTE I
 
@@ -1072,7 +1070,7 @@ Veulent faire tomber sur les Victorieux :
 Ces deux grands Ennemis…..  
 
     LUCILLE.
-Ils ne le peuvent estre ;  
+        Ils ne le peuvent estre ;  
 Un secret revelé vous le fera connaître :  
 Pour finir vos soupçons, vous tirer de soucy⁎,  
 Papyre ayme Fabie, & luy ma Fille aussi.  
@@ -1135,7 +1133,7 @@ GARDE, CAMILLE, LUCILLE, PAPYRIE.
 Comine attend, Seigneur.  
 
     CAMILLE.
-Comine ? est-il croyable ?  
+        Comine ? est-il croyable ?  
 Un Tribun de l'Armée. Et tu dis qu'il attend.  
 
     GARDE.
@@ -1180,7 +1178,7 @@ Envoyé par Fabie arrivé de l'Armée….
 Fabie ! est-il à Rome ?  
 
     COMINE.
-Ouy, depuis un moment ;  
+        Ouy, depuis un moment ;  
 Et je viens de sa part vous faire compliment⁎,  
 Ce pendant qu'un devoir plus fort & necessaire  
 Prest de [95] venir icy l'arréte chez son Pere.  
@@ -1274,7 +1272,7 @@ Pouvez-vous luy donner ce lâche mouvement⁎ ?
 Sçavez-vous ?  
 
     COMINE.
-Je sçay tout ; mais escoutez comment.  
+        Je sçay tout ; mais escoutez comment.  
 Peu devant [104] ce combat, qui passa pour furie⁎,  
 Valere seul en teste à la Cavallerie  
 Avecque [105] tout ce Corps faisant ferme [106] à ma voix  
@@ -1319,7 +1317,7 @@ Appelez [108] stratagéme encor sa perfidie.
 Qu'entends-je ? Et le combat ? achevez.  
 
     COMINE.
-Le voicy.  
+        Le voicy.  
 
     PAPYRIE.
 Il ne combattra point ; voila le stratagéme.  
@@ -1390,7 +1388,7 @@ Presque tout le Senat, Seigneur, vient de se rendre…
 Le Senat ? où, Flavie ?  
 
     FLAVIE.
-En ce mesme Palais.  
+        En ce mesme Palais.  
 
     PAPYRIE. *bas.*
 Ma crainte eust [113] tout appris : Dieux que tu me déplais⁎ !  
@@ -1400,7 +1398,7 @@ Fabie au milieu d'eux, ensemble avec son Pere
 Est entré dans la sale.  
 
     PAPYRIE. *bas.*
-Ah ! ne crains plus, espere.  
+        Ah ! ne crains plus, espere.  
 
     LUCILLE.
 Avanceons nous ; je meurs du desir de les voir.  
@@ -1439,21 +1437,21 @@ Un qui te surprendra ; Fabie est mon Epoux.
 Vostre Epoux ? ce Heros ?  
 
     PAPYRIE.
-Ce Dieu, non pas cet homme,  
+        Ce Dieu, non pas cet homme,  
 Qui va faire mon sort, & le destin de Rome.  
 
     FLAVIE.
 Je sçay qu'il vous aymoit.  
 
     PAPYRIE.
-Et tu sçauras icy  
+        Et tu sçauras icy  
 Ce que j'ay tant caché.  
 
     FLAVIE.
-Quoy ?  
+    Quoy ?  
 
     PAPYRIE.
-Que je l'ayme aussi.  
+        Que je l'ayme aussi.  
 Que nos Peres d'accord attendent la journée  
 Qu'un promt retour assigne à ce grand hymenee ;  
 Que le Senat peut-estre en ce pompeux accueil  
@@ -1660,7 +1658,7 @@ Lavera ma victoire, & ma honte, & mon crime ;
 Il est pur, il est noble.  
 
     CAMILLE.
-Il faut le conserver⁎;  
+        Il faut le conserver⁎;  
 Il fait triompher Rome ; elle doit le sauver ;  
 Elle est trop obligee⁎ à de si grands services :  
 Et si pour la victoire il faut des sacrifices,  
@@ -1713,7 +1711,7 @@ Vous le verrez trop tost, peut-estre à [132] vostre perte ;
 Helas !  
 
     FABIE.
-A ce soûpir, ma mort sur l'heure offerte  
+        A ce soûpir, ma mort sur l'heure offerte  
 Deviendroit agreable à mon cœur amoureux ;  
 Quoy qu'on fasse à present je ne puis qu'estre heureux.  
 
@@ -1726,7 +1724,7 @@ Secondez nous, Camille ; & déja dans ce soin
 Je vais treuver Papyre.  
 
     FLAVIE.
-Il n'en est pas besoin :  
+        Il n'en est pas besoin :  
 Madame, il vient icy : je viens d'oüir moy-mesme  
 Un serment qu'il a fait dans sa colere extréme,  
 Qu'il ne reverra point les Dieux de sa Maison  
@@ -1841,7 +1839,7 @@ Un si noble Vainqueur merite au moins de vivre ;
 Vivez, vivez, Fabie.  
 
     FABIE.
-Ah ! sans vous je ne puis ;  
+        Ah ! sans vous je ne puis ;  
 Et ce penser me plonge en un goufre d'ennuis⁎ :  
 Ce Pere veut ma vie ; & je la puis deffendre :  
 Mais durant son courroux je ne vous puis pretendre⁎.  
@@ -1850,7 +1848,7 @@ Mais durant son courroux je ne vous puis pretendre⁎.
 Que pretendez-vous donc ?  
 
     FABIE.
-Helas ! je n'en sçay rien ;  
+        Helas ! je n'en sçay rien ;  
 De me perdre plustôt que de quitter⁎ mon bien.  
 
     PAPYRIE.
@@ -1884,7 +1882,7 @@ La mort nous rejoindra, si la mort nous separe.
 Ah ! soyez moins cruelle.  
 
     PAPYRIE.
-Ah ! qu'il soit moins barbare⁎ !  
+        Ah ! qu'il soit moins barbare⁎ !  
 
     FLAVIE.
 Ce desespoir l'emporte : O cœurs trop genereux⁎ !  
@@ -1984,7 +1982,7 @@ Que Rome nomme encor son second fondateur.
 Cincinnate [144] autre fois….  
 
     PAPYRE.
-Suffit qu'il m'en souvienne :  
+        Suffit qu'il m'en souvienne :  
 Mais chacun suit sa voye ; & ce n'est pas la mienne :  
 Fabie est glorieux au dessus du pardon ;  
 Il ne peut demander, ni moy, faire ce don.  
@@ -2000,13 +1998,13 @@ Non, vous ne sçavez pas ce que vous demandez.
 Un Heros, qu'on poursuit.  
 
     PAPYRE.
-Qu'en vain vous deffendez.  
+        Qu'en vain vous deffendez.  
 
     LUCILLE.
 Je deffens un Vainqueur.  
 
     PAPYRE.
-Ah ? c'est trop entreprendre⁎ ;  
+        Ah ? c'est trop entreprendre⁎ ;  
 Ce Vainqueur doit perir.  
 
 
@@ -2015,7 +2013,7 @@ PAPYRIE, PAPYRE, FLAVIE, LUCILLE, CAMILLE.
 
 
     PAPYRIE.
-Mais non pas vostre Gendre.  
+        Mais non pas vostre Gendre.  
 
     PAPYRE.
 Que ce nom me surprend ! Lucille, qu'est-ce cy ?  
@@ -2024,7 +2022,7 @@ Que ce nom me surprend ! Lucille, qu'est-ce cy ?
 Ah ! donnez moy sa vie.  
 
     PAPYRE.
-Et toy, ma Fille, aussi [146] !  
+        Et toy, ma Fille, aussi [146] !  
 Quoy ? toute ma Maison me combat, & conspire  
 Contre l'autorité que je garde à l'Empire ?  
 Conspirez pour Fabie, & combattez tous trois ;  
@@ -2056,10 +2054,10 @@ Je me puis dégager bien tôt par son trépas ;
 Je puniray son crime.  
 
     PAPYRIE.
-Ah ! mon Pere !  
+    Ah ! mon Pere !  
 
     PAPYRE.
-Et le vostre [151].  
+        Et le vostre [151].  
 
     PAPYRIE.
 Sçachez que son trépas sera suivi d'un autre :  
@@ -2073,7 +2071,7 @@ Mais il est criminel, & vous, bien plus que luy.
 Mais…  
 
     LUCILLE.
-Ferez-vous perir vostre race⁎ aujourd'huy ?  
+        Ferez-vous perir vostre race⁎ aujourd'huy ?  
 Croyez que je suivray le destin de ma Fille :  
 Quoy ? pour un poinct d'honneur perdre vostre Famille ?  
 
@@ -2088,7 +2086,7 @@ Ma Dictature attend un exemple si rare ;
 Elle [153], ou luy, doit perir.  
 
     PAPYRIE.
-Quel exemple barbare !  
+        Quel exemple barbare !  
 Répondons luy de cœur ; s'il faut mourir, mourons.  
 
     LUCILLE. *S'en allant avec sa fille.*
@@ -2107,7 +2105,7 @@ FLAVIE, CAMILLE, FABIE, PAPYRE, COMINE.
 
 
     FLAVIE
-Seigneur, n'avancez pas [154]:  
+        Seigneur, n'avancez pas [154]:  
 C'est courir à la mort ; elle est dessus vos pas ;  
 Ayez plus de respect, ou de soin pour la vie.  
 
@@ -2118,7 +2116,7 @@ Elles [155] sont déja loin : va, cours aprés, Flavie.
 Avançons.  
 
     PAPYRE.
-Ah ! c'est trop balancer⁎ mon couroux ;  
+        Ah ! c'est trop balancer⁎ mon couroux ;  
 Il tombera… Que voy-je ? il tombera sur vous :  
 Quoy ? tous deux à mes yeux, dedans ce trouble extréme,  
 Vous venez me braver jusqu'en ce Palais mesme ?  
@@ -2230,7 +2228,7 @@ PAPYRE, FABIE PERE, CAMILLE, FABIE FILS, COMINE.
 Dieux ! que sents-je ? est-ce moy [168] ?  
 
     FABIE. PERE, *Voyant son fils à genoux.*
-Dieux ! que voy-je ? est-ce luy ?  
+        Dieux ! que voy-je ? est-ce luy ?  
 Quel spectacle ? ô mes yeux ! ô mon cœur ! quel ennuy⁎ ?  
 
     COMINE.
@@ -2240,7 +2238,7 @@ Quel furieux transport ! & que vouliez-vous faire ?
 Trop peu pour mon amour.  
 
     FABIE PÈRE.
-Mais bien trop pour ton Pere :  
+        Mais bien trop pour ton Pere :  
 Qu'ay-je dit ? je me trompe ; & tu n'es pas mon Fils ;  
 Lâche, ce que tu fais détruit ce que tu fis :  
 Quoy ? pour une victoire & si grande & si pleine  
@@ -2251,7 +2249,7 @@ Luy demander la vie ? ô honte ! ô lacheté [169] !
 Moy ? mon Pere. [170]  
 
     FABIE, PERE.
-Tay toy : puis-je l'avoir esté ?  
+        Tay toy : puis-je l'avoir esté ?  
 Ce cœur remporta-t'il une double victoire ?  
 Ce cœur pouroit-il bien ternir ainsi sa gloire ?  
 A-t'il tant de foiblesse ? eut-il tant de vigueur⁎ ?  
@@ -2295,7 +2293,7 @@ Vous mon Pere, voicy comme je vous répons.
 Arrestez sa fureur.  
 
     FABIE. PERE.
-Ou plustôt son courage ;  
+        Ou plustôt son courage ;  
 Par luy je voy mon Fils, & combien je l'outrage ;  
 C'est comme mon sang parle, & repare un affront ;  
 Je parlois en Fabie, en Fabie il répond.  
@@ -2304,7 +2302,7 @@ Je parlois en Fabie, en Fabie il répond.
 Je ne vous quitte point.  
 
     FABIE. FILS.
-Faut-il qu'on me confonde⁎ ?  
+        Faut-il qu'on me confonde⁎ ?  
 Soufre que de mon cœur mon propre bras réponde.  
 
     COMINE.
@@ -2371,12 +2369,12 @@ Que tu la [179] pouvois perdre, & qu'il te la gagna :
 Voy…  
 
     PAPYRE.
-Quoy voir ? j'ay trop veu sa desobeissance,  
+        Quoy voir ? j'ay trop veu sa desobeissance,  
 Et je voy mesme icy trop braver ma puissance :  
 Quel insolent orgueil ? craignez…  
 
     FABIE. PERE.
-Je ne crains rien :  
+        Je ne crains rien :  
 La crainte est aux méchants ; nous en differons bien :  
 Connoy mieux ton pouvoir, & les Ames Romaines ;  
 Nous avons eu l'éclat des marques souveraines :  
@@ -2390,7 +2388,7 @@ Nous verrons au Senat quel pouvoir nous avons,
 Je vous attendray là.  
 
     FABIE. PERE.
-Fort peu ; nous vous suivons.  
+        Fort peu ; nous vous suivons.  
 Allons, mon Fils, allons disputer de ta vie.  
 
     CAMILLE.
@@ -2437,7 +2435,7 @@ Comme vous je la blâme, & suis pour vostre Amant :
 Mais….  
 
     PAPYRIE.
-Veut-on que j'étoufe un juste mouvement⁎ ?  
+        Veut-on que j'étoufe un juste mouvement⁎ ?  
 Donc aprés sa parole & donnée & receuë  
 Son Gendre par sa mort verra sa foy⁎ deceuë⁎ ?  
 Est-ce comme il la donne ? est-ce comme il la tient ?  
@@ -2472,7 +2470,7 @@ LUCILLE, FLAVIE, PAPYRIE.
 
 
     LUCILLE.
-Mais enfin que sçaurons-nous, Flavie ?  
+        Mais enfin que sçaurons-nous, Flavie ?  
 
     FLAVIE.
 Qu'il reste quelque espoir encore pour sa vie :  
@@ -2504,7 +2502,7 @@ Digne Amant, noble Epoux, Vainqueur plus glorieux,
 Rien ne te peut sauver.  
 
     LUCILLE.
-Il reste encor les Dieux ;  
+        Il reste encor les Dieux ;  
 Implorons donc le Ciel, & recourons aux Temples ;  
 On a de leur faveur d'aussi rares exemples [184].  
 
@@ -2637,7 +2635,7 @@ Vous serez satisfait ; & je triompheray ;
 Souffrez…  
 
     PAPYRE.
-Quoy ? ce triomphe ? il n'est pas legitime ;  
+        Quoy ? ce triomphe ? il n'est pas legitime ;  
 Ce seroit couronner non pas punir le crime ;  
 Voila, pour vous flatter, un grand & vain effort ;  
 C'est choisir son naufrage, & chercher un beau port,  
@@ -2710,7 +2708,7 @@ Je viens, pour vous y suivre, & vous accompagner.
 Moy, pour vous dire encor….  
 
     PAPYRE.
-Et pour ne rien gagner :  
+        Et pour ne rien gagner :  
 Epargnez des discours, que je ne puis entendre.  
 
     FABIE PERE.
@@ -2758,7 +2756,7 @@ Je connoy⁎ que mon sort est en vostre puissance
 Que le Peuple ne peut….  
 
     MARTIAN.
-Le Peuple en fin peut tout.  
+        Le Peuple en fin peut tout.  
 
     FABIE. PERE.
 Ouy, puis qu'il faut combattre, allons jusques au bout ;  
@@ -2819,7 +2817,7 @@ Mais je sçauray tantôt rabbattre cette audace.
 Voyez…..  
 
     PAPYRE.
-Rien, Martian, que mes droits absolus :  
+        Rien, Martian, que mes droits absolus :  
 Je ne vous entends point, & ne les [211] connoy plus.  
 Allons au Peuple, allons ; c'est trop le faire attendre.  
 
@@ -2887,7 +2885,7 @@ Il ne l'a point absous, c'est trop pour le confondre⁎.
 Il le garde pourtant.  
 
     PAPYRE.
-Et c'est pour m'en répondre⁎:  
+        Et c'est pour m'en répondre⁎:  
 Pour ne l'irriter pas, je le laisse en ses mains.  
 
     CAMILLE.
@@ -2971,7 +2969,7 @@ Fay le donc, insolent ; va, je feray le mien.
 Quel orgueil !  
 
     CAMILLE.
-Il est noble : il part, & ne craint rien.  
+        Il est noble : il part, & ne craint rien.  
 
 
 ### SCENE III.
@@ -2985,15 +2983,15 @@ IL faut plustôt tout craindre : à peine je respire.
 Qu'est-ce encor ? quel mal-heur ?  
 
     LUCILLE.
-Figurez vous le pire :  
+        Figurez vous le pire :  
 Pour tout dire en deux mots ; Craignez tout.  
 
     PAPYRIE.
-Craignez tout :  
+        Craignez tout :  
 Le Peuple est soûlevé.  
 
     PAPYRE.
-Nous en viendrons à bout ;  
+        Nous en viendrons à bout ;  
 Est-ce là ce malheur, ce grand sujet de crainte ?  
 
     PAPYRIE.
@@ -3005,7 +3003,7 @@ Qu'à cause qu'il vous presse⁎ & vous peut acabler⁎.
 Déja le Peuple émû [226] s'emporte….  
 
     PAPYRE.
-Ah ! le Rebele⁎ !  
+        Ah ! le Rebele⁎ !  
 
     LUCILLE.
 Contre vous, pour Fabie ; il soûtient sa querelle.  
@@ -3015,7 +3013,7 @@ Soûtenir un coûpable ? & contre un Dictateur ?
 Quel desordre⁎ !  
 
     PAPYRIE.
-Il en est l'objet, non pas l'auteur :  
+        Il en est l'objet, non pas l'auteur :  
 Le Peuple en le sauvant, de peur qu'il se hazarde⁎,  
 Contre luy, contre vous le deffend & le garde,  
 Et craignant de sa main l'attentat genereux  
@@ -3074,7 +3072,7 @@ FABIE PERE, FABIE FILS, PAPYRE, COMINE, MARTIAN, CAMILLE, LUCILLE, PAPYRIE, FLAV
 
 
     FABIE. PERE.
-En [229] voicy deux ; le nombre en est moins grand ;  
+        En [229] voicy deux ; le nombre en est moins grand ;  
 Rome en deffendoit un, & ma main vous le rend :  
 Plustôt que de la voir tomber dedans ce crime,  
 Je l'allois égorger ; je vous l'offre en Victime ;  
@@ -3191,7 +3189,7 @@ Verrez-vous, sans pitié, perir vôtre Famille ?
 Pere & Mary cruel !  
 
     PAPYRE.
-Dictateur mal-heureux,  
+        Dictateur mal-heureux,  
 Qu'empèche la Vertu d'oüir ces genereux !  
 Helas ! avant le coup ce mesme coup me blesse [238].  
 Mais quel helas ? arriere amour, pitié, foiblesse :  
@@ -3267,7 +3265,7 @@ Quand [243] la mort me l'ôtoit, vous daignez me le rendre ;
 Vous me l'avez donné.  
 
     PAPYRE.
-Mais c'est pour le reprendre :  
+        Mais c'est pour le reprendre :  
 Soufrez qu'avecque vous je puisse partager  
 Un Fils si glorieux après un tel danger ;  
 Et pour joindre d'amour l'une & l'autre Famille ;  
@@ -3304,7 +3302,7 @@ Comine, allez devant, annoncer mon retour [246].
 Moy plustôt….  
 
     PAPYRE.
-Demeurez ; je veux avoir mon tour ;  
+        Demeurez ; je veux avoir mon tour ;  
 Vous ne combattrez point ; tout ce qui reste à faire  
 Est peu pour mon triomphe, & m'est trop necessaire [247] :  
 Dans Rome joüissez du fruict de vos combats ;  

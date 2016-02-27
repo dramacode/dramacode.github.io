@@ -564,7 +564,7 @@ Evitez les perils où l'amour vous engage ;
 Voyez la foudre prête à tomber dessus vous,  
 Et d'un pere irrité redoutez le courroux.  
 Tamerlan à grans pas vers ce camp s'achemine,  
-Et comme un gros torrent vient inonder la Chine ;           
+Et comme un gros torrent vient inonder la Chine ;  
 Tout cede à sa valeur⁎, et ce grand Conquerant  
 N'y peut donner de borne où l'Univers en prend.  
 Jusques chez le Germain il a porté la guerre,  
@@ -761,7 +761,7 @@ Que jamais on n'a sçû ce que j'en imagine.
 Quoy donc ?  
 
     ORGANTE.
-Qu'il est grand Prince, et du sang⁎ de la Chine.  
+        Qu'il est grand Prince, et du sang⁎ de la Chine.  
 
     ARMETZAR.
 Quoy, ce cher Indien ? D'où le peus tu sçavoir ?  
@@ -848,7 +848,7 @@ UN GARDE, et les precedens.
 Sire, le Prince arrive.  
 
     ZINTON.
-Enfin tu le verras.  
+        Enfin tu le verras.  
 
     ARMETZAR.
 Ouy, de ce fils Illustre et rempli de vaillance  
@@ -977,7 +977,7 @@ Il faut que j'y donne ordre, et je vous laisse ensemble.
 Vous, Prince, suivez moy.  
 
     ARMETZAR. *Bas, tandis que le Roy s'en va.*
-Rasseure toy, mon cœur,  
+        Rasseure toy, mon cœur,  
 Et de tes faux soupçons condamne la rigueur.  
 
 
@@ -1262,10 +1262,10 @@ Cet objet⁎ importun qui toûjours s'offre à moy.
 Non, Madame.  
 
     LADICE.
-Qui donc ?  
+    Qui donc ?  
 
     ILIANE.
-Phocate, à qui le Roy…  
+        Phocate, à qui le Roy…  
 
     LADICE.
 Garde toy de poursuivre, et cache dans ton ame  
@@ -1567,7 +1567,7 @@ De vous donner un maître en l'elevant si haut.
 Vous, ma fille ; parlez.  
 
     LADICE.
-Si je le puis sans crainte,  
+        Si je le puis sans crainte,  
 Je diray que ce choix est plûtost une feinte,  
 Et que vous voulez, Sire, en cette ocasion  
 Eprouver mon respect et ma soûmission.  
@@ -1590,20 +1590,20 @@ Et blament d'un sujet l'esperance trop vaine.
 Prince, c'est vôtre tour.  
 
     VANLIE.
-Et moy, Madame, et moy  
+        Et moy, Madame, et moy  
 Contre vous et ma sœur je suis avec le Roy.  
 
     LADICE.
 Mon frere !  
 
     VANLIE.
-Ouy, ma sœur.  
+    Ouy, ma sœur.  
 
     ZARIMENE.
-Quoy, Prince ?  
+    Quoy, Prince ?  
 
     VANLIE.
-Ouy, Madame ;      
+        Ouy, Madame ;      
 Le Roy fait un choix juste, eloigné de tout blame,  
 Et son repos demande en un si beau dessein  
 Que vous le secondiez par un conseil plus sain.  
@@ -1620,7 +1620,7 @@ Je ne puis concevoir où vôtre esprit s'emporte,
 Vous oubliez…  
 
     VANLIE.
-Ma sœur, il me souvient de tout,  
+        Ma sœur, il me souvient de tout,  
 Vous devez obeïr quand le Roy s'y resout,  
 Et peut être qu'un jour par un avis contraire  
 Vous pourrez approuver ceux que vous donne un frere.  
@@ -1661,7 +1661,7 @@ Et du fils du grand Cham⁎ m'ayant entretenu
 Ozes mettre en son rang un chetif inconnu ?  
 Si pour un Armetzar ce choix me semble étrange⁎  
 En acceptant Phocate on ne perd rien au change !  
-Elle reprend ces deux vers de son frere d'un ton different.  
+        Elle reprend ces deux vers de son frere d'un ton different.  
 Chasse, chasse, Vanlie, un penser criminel  
 Qui veut aupres d'un Dieu faire asseoir un mortel.  
 Mais helas qu'à mes vœux ce Dieu parest contraire,  
@@ -1679,7 +1679,7 @@ A me faire aujourd'huy ce traittement severe.
 La Reine cependant,  
 
     LADICE.
-M'estoit un feble appuy,  
+        M'estoit un feble appuy,  
 Et parloit pour son fils en parlant contre luy.  
 Phocate luy deplaist craignant que je ne l'aime,  
 Et c'est de son esprit un digne stratagème.  
@@ -1706,7 +1706,7 @@ Je tiens icy sa place, et pourray vous entendre ;
 Qu'avez vous à luy dire ?  
 
     ARMETZAR. *Bas.*
-A quoy me dois-je attendre ?  
+        A quoy me dois-je attendre ?  
 Rien qu'on ne pust, Madame, un moment differer :  
 
     LADICE.
@@ -1856,14 +1856,14 @@ ARMETZAR, ORGANTE.
 Seigneur.  
 
     ARMETZAR.
-Que me veux-tu ?  
+    Que me veux-tu ?  
 
     ORGANTE.
-Le Prince plein de joye…  
+        Le Prince plein de joye…  
 Mais le voicy déjà.  
 
     ARMETZAR.
-Que faut il que je croye !  
+        Que faut il que je croye !  
 
 
 ### SCENE III.
@@ -1874,7 +1874,7 @@ VANLIE, ARMETZAR, ORGANTE, MENNON.
 Hé bien, mon cher Phocate !  
 
     ARMETZAR.
-Ha ! Prince, dittes mieux ;  
+        Ha ! Prince, dittes mieux ;  
 Armetzar est mon nom, l'autre m'est odieux.  
 
     VANLIE.
@@ -2001,13 +2001,13 @@ Nous dire l'un à l'autre : amy, sers bien mon pere.
 O rencontre facheux [90] !  
 
     VANLIE. 
-O durs evenemens !  
+        O durs evenemens !  
 
     ARMETZAR.
 Quoy, cesser d'etre amis !  
 
     VANLIE.
-Quoy, cesser d'etre amans !  
+        Quoy, cesser d'etre amans !  
 Mais c'est trop écouter une amitié si tendre,  
 Tamerlan et Zinton ne veulent plus attendre ;      
 Afin que l'un et l'autre ayt [91] en nous un soûtien,  
@@ -2046,7 +2046,7 @@ Et qu'aujourd'huy Quinsay se rende son azile.
 Seigneur…  
 
     ARMETZAR.
-Je l'ay bien dit, ce dessein te surprend :  
+        Je l'ay bien dit, ce dessein te surprend :  
 Mais je le treuve aîsé plus il me semble grand.  
 Organte, à mon amour il n'est rien d'impossible,  
 Et cette place enfin n'est pas inaccessible.  
@@ -2069,11 +2069,11 @@ Seigneur, fuyez vous méme, et fuyez prontement.
 La Princesse survient.  
 
     ARMETZAR.
-Evitons sa presence.  
+        Evitons sa presence.  
 Suy, si tu veux, Organte.  
 
     ORGANTE.
-Ouy, faisons diligence ;  
+        Ouy, faisons diligence ;  
 Allons, Seigneur, allons, je vous suis en tous lieux.  
 
 
@@ -2131,7 +2131,7 @@ Avant qu'à cet hymen je soûmette mon ame,
 Avant que d'Artaban…  
 
     ILIANE.
-Mais je le voy, Madame,  
+        Mais je le voy, Madame,  
 Voicy déja l'effet de ce que j'ay predit.  
 
     LADICE.
@@ -2182,7 +2182,7 @@ Toûjours sur vôtre esprit il aura du pouvoir.
 Si pourtant…  
 
     LADICE.
-Achevez, je veux bien tout entendre.  
+        Achevez, je veux bien tout entendre.  
 
     ARTABAN.
 Madame, sans m'ouïr vous le pouvez comprendre :  
@@ -2191,7 +2191,7 @@ Dois-je encor vous le dire et vous le protester ?
 Mon cœur…  
 
     LADICE.
-Finissez donc, j'attendois autre chose.  
+        Finissez donc, j'attendois autre chose.  
 Phocate de mes maux n'est pas la seule cause,  
 Et sans me soucier de vos soupçons jaloux,  
 Sçachez que je le hais : mais beaucoup moins que vous.  
@@ -2221,7 +2221,7 @@ Et ton bon-heur depend de l'hymen glorieux⁎
 Où nous devons porter ce cœur⁎ ambitieux.  
 Que t'a donc reparti cette fiere⁎ Princesse ?  
 
-    ARTABAN. 
+    ARTABAN.
 Qu'elle ne m'aime point, Madame, et je confesse  
 Que si j'en suis haï, je l'aime aussy fort peu,  
 Et que ses longs dedains ont amorti mon feu⁎.  
@@ -2305,7 +2305,7 @@ Quoy tous deux à la fois, et mon fils et Phocate
 Abandonner mon camp ?  
 
     ARTABAN.
-Sire, d'une ame ingrate⁎  
+        Sire, d'une ame ingrate⁎  
 Vous ne pouviez attendre un autre traittement,  
 Et Phocate tout seul merite châtiment.  
 Sans doute que du Prince encor plein de jeunesse  
@@ -2326,7 +2326,7 @@ Mais le Prince en ce cas ne peut l'avoir suivi,
 Et quelque autre malheur, Sire, vous l'a ravi.  
 Voilà ce que je puis juger de leur absence.  
 
-    ZINTON. 
+    ZINTON.
 A ses gardes.
 
 Qu'on les cherche par tout, qu'on aille en diligence⁎.  
@@ -2443,13 +2443,13 @@ Sire, voilà le fruit de ces exploits hardis.
 Le Prince est mort sans doute.  
 
     ARMETZAR.
-Il vit, il vit encore.  
+        Il vit, il vit encore.  
 
     ZINTON.
 Où peut-il être donc ?  
 
     ARMETZAR.
-C'est un point que j'ignore :  
+        C'est un point que j'ignore :  
 Mais je puis assurer qu'il n'a jamais rien sçû  
 De ce hardi dessein que seul j'avois conçû.  
 Sire, il est dans le camp, n'en soyez point en peine,  
@@ -2620,7 +2620,7 @@ Que de Ladice apres il pourroit tout pretendre.
 Prince, j'en ay trop dit.  
 
     ARMETZAR.
-Ha ! Princesse, achevez,  
+        Ha ! Princesse, achevez,  
 Et deployez les biens que vous me reservez,  
 Puisqu'enfin d'Armetzar la fatale avanture  
 Emeut vôtre pitié pour les maux qu'il endure,  
@@ -2750,7 +2750,7 @@ Le succez du combat doit bien tost vous l'apprendre.
 Un garde vient à nous.  
 
     ZARIMENE.
-Dieux ! Qu'en faut il attendre ?  
+        Dieux ! Qu'en faut il attendre ?  
 
 
 ### SCENE II.
@@ -2767,7 +2767,7 @@ O coup trop surprenant qui me perce le cœur !
 O mon Pere !  
 
     ZARIMENE.
-O Zinton ! quelle est ton infortune !  
+        O Zinton ! quelle est ton infortune !  
 Quoy, tout est donc perdu sans esperance aucune !  
 
     LE GARDE.
@@ -2789,7 +2789,7 @@ C'est là ce digne amant⁎, ou plûtost ce perfide⁎.
 Iliane !  
 
     LE GARDE.
-Bientost le combat se decide,  
+        Bientost le combat se decide,  
 Et comme si nos Dieux demeuroient endormis,  
 Tout se rend favorable aux vœux des ennemis.  
 Un horrible mélange et de fer⁎ et de flame⁎  
@@ -2801,7 +2801,7 @@ Le Tartare surmonte [103], et nous perdons le Roy.    
 Ha Dieux ! il est donc mort !  
 
     LADICE.
-Ha ! que viens-je d'entendre !  
+        Ha ! que viens-je d'entendre !  
 
     LE GARDE.
 Non, non, il vit encore, et daignez tout apprendre,  
@@ -2816,7 +2816,7 @@ Je voulois vous cacher cet accident funeste.
 Non, ce Prince n'est plus.  
 
     ZARIMENE.
-Ne me dis donc plus rien,  
+        Ne me dis donc plus rien,  
 En perdant Artaban je perds tout mon soûtien.  
 Ha malheureuse femme ! ha deplorable mere !  
 Les Dieux sont irritez, cedons à leur colere.  
@@ -2824,8 +2824,8 @@ Les Dieux sont irritez, cedons à leur colere.
     ULANIE. *La Reîne s'evanouit, et on l'emporte.*
 Madame…  
 
-    ZARIMENE. 
-C'en est fait, qu'on m'emporte d'icy,  
+    ZARIMENE.
+        C'en est fait, qu'on m'emporte d'icy,  
 Puisque mon fils est mort, il faut mourir aussy.  
 
 
@@ -2862,7 +2862,7 @@ ARMETZAR, LADICE, ILIANE, LE GARDE.
 
 
     ARMETZAR. *Il entre l'epée nue à la main, comme hors d'haleine, et sortant de la meslée.*
-Ouy, fuyons, ma Princesse,  
+        Ouy, fuyons, ma Princesse,  
 Tamerlan suit mes pas, et le danger nous presse ;  
 Le Roy parmy les siens ne s'êtant pû treuver,  
 J'ay quitté le desordre, et viens pour vous sauver.  
@@ -2912,7 +2912,7 @@ S'il est ainsi, cher Prince, evitez sa colere.
 Sauvez moy, sauvez vous.  
 
     ARMETZAR.
-Dieux ! appaisez mon pere…  
+        Dieux ! appaisez mon pere…  
 
 
 ### SCENE V.
@@ -3039,9 +3039,9 @@ Et que j'aye à mes piés le plus altier des Roys.
 De quel œil le verray-je ? ha Dieux !  
 
     TAMERLAN.
-Que dis Phocate ?  
+        Que dis Phocate ?  
 
-    VANLIE. 
+    VANLIE.
 Qu'il sied bien aux Vainqueurs que leur clemence eclate,  
 Et que vous pourriez bien par un trait⁎ genereux⁎  
 Epargner cette honte à ce Roy malheureux.  
@@ -3074,15 +3074,15 @@ Et qui m'auroit détruit s'il avoit pû le faire ?
 Seigneur…  
 
     TAMERLAN.
-Non, non, Phocate, en vain tu m'entretiens ;  
+        Non, non, Phocate, en vain tu m'entretiens ;  
 Qu'on le face venir avecques tous les siens.  
 
     UN GARDE.
 Seigneur, on vous l'ameine.  
 
     VANLIE. *Bas.*
-              
-O mandement severe !  
+
+        O mandement severe !  
 Pourray-je supporter la presence d'un pere !  
 
 
@@ -3097,7 +3097,7 @@ Ma vûe, à cet objet⁎ sans doute tu t'egares ;
 Mon fils chez les Chinois !  
 
     ZINTON.
-Mon fils chez les Tartares !  
+        Mon fils chez les Tartares !  
 
     TAMERLAN.
 Armetzar, me trompé-je, est-ce vous que je voy ?  
@@ -3119,10 +3119,10 @@ Que je rencontre icy parmy mes ennemis !
 O mon pere !  
 
     VANLIE.
-O mon pere !  
+    O mon pere !  
 
     ZINTON.
-Ha ! fils abominable,  
+        Ha ! fils abominable,  
 Ta bouche enfin t'accuse, et te montre coupable.  
 Donc tu viens à mes yeux vanter ta trahison,  
 Dans un camp ennemy tu traçois ma prison,  
@@ -3294,7 +3294,7 @@ Plûtost que d'opposer une injuste defence
 Au party trop heureux qu'appuyoit sa presence,  
 Plûtost que d'attaquer dans ce combat fâcheux  
 Celle pour qui mon cœur devoit faire des vœux,  
-Plûtost que de montrer à cette audace extrême,           
+Plûtost que de montrer à cette audace extrême,  
 Je me serois cent fois armé contre moy méme.  
 Mais enfin si Vanlie est hors de tout espoir,  
 Phocate dans ces lieux n'a-t'il plus de pouvoir ?  
@@ -3431,7 +3431,7 @@ C'est assez qu'un moment Zinton me fut soûmis,
 Et je veux aujourd'huy pour comble de ma gloire⁎,  
 Que ma clemence eclate autant que ma victoire.  
 
-    ZINTON. 
+    ZINTON.
 En pouvant me donner ces genereuses⁎ loix [116],  
 Tamerlan, c'est me vaincre une seconde fois.  
 
@@ -3463,7 +3463,7 @@ Et je te donne ensemble et ma fille et la paix.
 De vos rares bontez c'est une illustre marque ;  
 Que ne vous dois-je point, invincible Monarque !  
 
-    TAMERLAN. 
+    TAMERLAN.
 Ouy, par de tels bienfaits je veux vous enchaîner,  
 Et Tamerlan enfin sçait vaincre et pardonner.  
 

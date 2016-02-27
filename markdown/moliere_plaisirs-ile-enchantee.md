@@ -15,6 +15,8 @@ COURSE DE BAGUE, Collation ornée de Machines, Comédie de Molière de la Prince
 M. DC. LXV.
 
 AVEC PRIVILÈGE DE SA MAJESTÉ.
+
+
 Représentée pour la première fois à Versailles, le 8e mai 1664, et donnée depuis au public sur le théâtre du Palais-Royal le 9e novembre de la même année 1664.
 
 

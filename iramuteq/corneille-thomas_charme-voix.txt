@@ -18,7 +18,7 @@ Vostre très-humble serviteur,
 
 T. CORNEILLE
 
-**** *book_ *id_body-3-1 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-301 *act_ *date_1658 *creator_corneille
 
 -*who_laure
 Quoy , lors que dans ces lieux tout le monde s'appreste
@@ -124,7 +124,7 @@ Je romps son hyménée, ou le fais differer.
 Vous ?
 
 -*who_fenise
-Si de cét adveu ton ame est estonnée⁎
+      Si de cét adveu ton ame est estonnée⁎
 Songe depuis huit jours quelle est ma destinée,
 Et qu'affranchie enfin d'un long banissement,
 Dans le Palais du Duc j'ay cét appartement,
@@ -147,7 +147,7 @@ S'il m'ébloüit les yeux, je touche⁎ ses oreilles.
 Sçeut-il qui vous estiez ?
 
 -*who_fenise
-Il l'apprit aisément,
+      Il l'apprit aisément,
 Et son inquietude⁎ égalant mon tourment⁎
 Dans la pressante ardeur⁎ qu'il a de me cognoistre
 Chaque jour en ce lieu je le voy seul paroistre,
@@ -231,7 +231,7 @@ Où je hazarde⁎ trop, mon ambition cesse.
 -*who_laure
 Et que hazardez⁎-vous à souffrir⁎ son amour ?
 
-**** *book_ *id_body-3-2 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-302 *act_ *date_1658 *creator_corneille
 
 -*who_federic
 Il faut vous retirer⁎, le Duc est de retour,
@@ -258,21 +258,21 @@ Hastez-vous de rentrer, le Duc s'en va paroistre.
 C'est ma voix qui l'attire.
 
 -*who_laure
-Et sans vous laisser voir
+      Et sans vous laisser voir
 Vous chercherez toûjours à flater⁎ son espoir ?
 
 -*who_fenise
 Sans doute.
 
 -*who_laure
-Mais par là que pouvez-vous prétendre⁎ ?
+      Mais par là que pouvez-vous prétendre⁎ ?
 
 -*who_fenise
 Perdre quelques soûpirs sans qu'il les puisse entendre,
 Et de ce faux appas⁎ soulager mon ennuy⁎
 Qu'il souffrira pour moi si je souffre pour luy.
 
-**** *book_ *id_body-3-3 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-303 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Si tu peux à mon mal trouver quelque remede⁎…
@@ -297,7 +297,7 @@ Quoy, comme aux autres lieux l'arrester à Pavie !
 Seigneur…
 
 -*who_le_duc
-Mais, Federic, il y va de ma vie,
+      Mais, Federic, il y va de ma vie,
 Qu'on ait soin seulement de bien l'y divertir
 Tant qu'un ordre nouveau l'oblige d'en partir.
 
@@ -321,7 +321,7 @@ Ce n'est qu'en luy cedant qu'on en peut triompher.
 Puisqu'aujourd'huy sur vous la vostre a tant d'empire,
 De peur de l'irriter⁎, Seigneur, je me retire.
 
-**** *book_ *id_body-3-4 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-304 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Enfin il est party, Fabrice, c'est à toy
@@ -389,7 +389,7 @@ J'entre par privilege en tous lieux sans rien dire.
 Mais quel son musical…
 
 -*who_le_duc
-Fenise va chanter,
+      Fenise va chanter,
 C'est le signal, approche, il la faut escouter.
 
 -*who_fenise
@@ -405,7 +405,7 @@ Il est permis de soûpirer.
 Peste, quels roulements !
 
 -*who_le_duc
-Ils enlevent mon ame,
+      Ils enlevent mon ame,
 Et bien, Fabrice, et bien, condamnes-tu ma flâme,
 Et d'un plus rare⁎ objet⁎ puis-je suivre la loy ?
 
@@ -419,7 +419,7 @@ Quoy, tu pourrois penser qu'elle manquast d'appas⁎,
 Et que chantant si bien…
 
 -*who_fabrice
-Ne vous y trompez pas.
+      Ne vous y trompez pas.
 J'en ay veu telle, moy témoin irreprochable,
 Qui chantant comme un Ange auroit fait peur au diable
 Et qui, quoy que sa voix semblast venir des Cieux,
@@ -436,7 +436,7 @@ Peut-estre…mais je crois ouyr encor sa voix,
 Escoute.
 
 -*who_fabrice
-Un peu plus haut que la premiere fois.
+      Un peu plus haut que la premiere fois.
 
 -*who_fenise
 
@@ -457,7 +457,7 @@ A Parme dés demain renvoyer la Duchesse.
 Dûst se perdre Milan, on verra mon amour…
 Mais que vois-je ? Carlos est desja de retour.
 
-**** *book_ *id_body-3-5 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-305 *act_ *date_1658 *creator_corneille
 
 -*who_carlos
 Seigneur, vous me verrez sans doute avecque joye,
@@ -482,15 +482,15 @@ Son teint dont la blancheur eust les lys effacez,
 Souffrant un doux mélange a paru…
 
 -*who_le_duc
-C'est assez.
+      C'est assez.
 
-**** *book_ *id_body-3-6 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-306 *act_ *date_1658 *creator_corneille
 
 -*who_camille
 La réponce est bien courte.
 
 -*who_carlos
-O l'estrange caprice⁎ !
+      O l'estrange caprice⁎ !
 D'où luy vient cette humeur ? Arreste, un mot, Fabrice.
 Toy qui souvent du Duc partage le soucy⁎,
 Apprens moi qui l'oblige à me traiter ainsi.
@@ -504,15 +504,15 @@ J'en ay peint tout exprés⁎ ses desirs traversez,
 J'ay parlé de ses yeux, de son teint…
 
 -*who_fabrice
-C'est assez.
+      C'est assez.
 
-**** *book_ *id_body-3-7 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-307 *act_ *date_1658 *creator_corneille
 
 -*who_camille
 Entendez-vous l'Echo ?
 
 -*who_carlos
-Tout sert à me confondre⁎.
+      Tout sert à me confondre⁎.
 Quoy, le Duc tout à coup s'en va sans me répondre,
 Et quand je croy venir soûlager son amour
 Un silence affecté condamne mon retour ?
@@ -526,7 +526,7 @@ Mille pensers divers me tiennent divisé⁎.
 Qui le devineroit ?
 
 -*who_camille
-Il n'est rien plus aisé.
+      Il n'est rien plus aisé.
 Nous arrivons tous deux, et sans qu'on vous en presse
 Vostre langue s'exerce à loüer la Duchesse.
 Le Duc à la harangue ayant les yeux baissez
@@ -538,7 +538,7 @@ Sans plus longue replique il tourne où bon luy semble.
 Mais enfin le sujet, quel est-il ?
 
 -*who_camille
-Pour ce point,
+      Pour ce point,
 Il est bien evident que je ne le sçay point,
 Mais du reste, si c'est ce qui vous embarrasse,
 Sans y rien alterer⁎, voilà ce qui se passe.
@@ -557,7 +557,7 @@ D'un amour que je cache ont trahy le secret.
 Ah, Dieux, s'il est ainsi…
 
 -*who_camille
-Non, cela ne peut estre.
+      Non, cela ne peut estre.
 C'est plustost que le Duc cherchant à se cognoistre,
 De peur de trop donner à son temperament⁎…
 
@@ -565,7 +565,7 @@ De peur de trop donner à son temperament⁎…
 Et bien ?
 
 -*who_camille
-Ma foy, brisons sur le raisonnement,
+      Ma foy, brisons sur le raisonnement,
 Il vaudra mieux peut-estre à divers reprises.
 
 -*who_carlos
@@ -573,7 +573,7 @@ Je pers temps en effet d'écouter tes sottises,
 Allons trouver mon Pere, et tâchons de sçavoir
 Si j'ay plus de sujet de crainte que d'espoir.
 
-**** *book_ *id_body-4-1 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-401 *act_ *date_1658 *creator_corneille
 
 -*who_fabrice
 C'est n'avoir pas peu fait avec mon badinage
@@ -596,7 +596,7 @@ Mais un fâcheux soucy⁎ vient traverser ma joye.
 Quel, Seigneur ?
 
 -*who_le_duc
-De Carlos qu'il faut que l'on renvoye.
+      De Carlos qu'il faut que l'on renvoye.
 
 -*who_fabrice
 On l'est allé chercher, il partira soudain
@@ -610,7 +610,7 @@ De ramener à Parme au plûtost la Duchesse.
 Que dira Federic ?
 
 -*who_le_duc
-C'est ce que je crains peu
+      C'est ce que je crains peu
 Si j'obtiens de sa fille un favorable adveu⁎.
 Enfin je la verray, cette aimable⁎ incognuë.
 
@@ -633,7 +633,7 @@ Vous trouverez matière à ne finir jamais.
 L'amour est ombrageux⁎.
 
 -*who_le_duc
-Et Fenise trop belle
+      Et Fenise trop belle
 Pour ne pas craindre tout alors qu'il s'agit d'elle.
 
 -*who_fabrice
@@ -687,23 +687,23 @@ Sans nous montrer si tost, laissons-la s'avancer.
 Je crains…
 
 -*who_fabrice
-Quoy ? les regards qu'elle va vous lancer ?
+      Quoy ? les regards qu'elle va vous lancer ?
 Pour les tendres de cœur la blessure est mal saine.
 
-**** *book_ *id_body-4-2 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1658 *creator_corneille
 
 -*who_fenise
 As-tu remis ce Lut ?
 
 -*who_laure
-N'en soyez point en peine.
+      N'en soyez point en peine.
 
 -*who_le_duc
 Regarde, admire, voy, Fabrice, quel éclat !
 Qui n'en seroit charmé ?
 
 -*who_fabrice
-Tastez⁎, le cœur vous bat ?
+      Tastez⁎, le cœur vous bat ?
 
 -*who_le_duc
 Mais as-tu veu jamais beauté plus surprenante ?
@@ -717,26 +717,26 @@ Dieux, comment jusqu'icy le Duc est-il entré ?
 Feignons grande surprise.
 
 -*who_le_duc
-Enfin, je puis, Madame…
+      Enfin, je puis, Madame…
 
 -*who_fenise
 Ah Laure, où sommes-nous ?
 
 -*who_fabrice
-Couchez viste de flame.
+      Couchez viste de flame.
 
 -*who_le_duc
 Ne vous offensez pas…
 
 -*who_fenise
-Allons, Laure.
+      Allons, Laure.
 
 -*who_fabrice
-Ah ! tout doux.
+      Ah ! tout doux.
 La belle, c'est le Duc.
 
 -*who_fenise
-Que voudroit-il de nous ?
+      Que voudroit-il de nous ?
 
 -*who_le_duc
 En pouvez-vous douter si vous estes Fenise ?
@@ -752,10 +752,10 @@ Puis qu'au moins à vos yeux j'ay pû passer pour elle.
 Quoy, vous ne l'estes point ?
 
 -*who_fenise
-Non, Seigneur.
+      Non, Seigneur.
 
 -*who_le_duc
-Qu'est-ce-cy ?
+      Qu'est-ce-cy ?
 Que tousjours le malheur me persecute ainsi !
 
 -*who_fabrice
@@ -783,7 +783,7 @@ Comme Dame d'honneur, il faut que je lui cede⁎.
 Vous estes donc la Dame ?
 
 -*who_laure
-Et moy, je suis son ayde.
+      Et moy, je suis son ayde.
 
 -*who_fabrice
 Si l'on trouvait moyen de s'en accomoder,
@@ -793,7 +793,7 @@ L'ayde à l'air assez drôle, on pourrait s'en ayder.
 Et Fenise ?
 
 -*who_fenise
-Pour moy, je ne la quitte guere
+      Pour moy, je ne la quitte guere
 Que lors qu'elle reçoit visite de son pere.
 Ils ont quelque secret tousjours à consulter.
 
@@ -828,7 +828,7 @@ Puissent jamais briller d'un éclat assez vif ?
 A peine il me regarde.
 
 -*who_laure
-Et c'est là ma surprise.
+      Et c'est là ma surprise.
 
 -*who_le_duc
 Voudriez-vous pour moy dire un mot à Fenise ?
@@ -849,7 +849,7 @@ Vous ne sçauriez choisir un esprit plus discret.
 Et vous luy direz tout ?
 
 -*who_laure
-Celie est ponctuelle⁎,
+      Celie est ponctuelle⁎,
 Quoy que vous luy disiez, je vous respons pour elle,
 Qu'avecque tant de soin elle vous servira
 Que dans le mesme instant Fenise le sçaura.
@@ -866,7 +866,7 @@ Milan verra ma mort ou la verra Duchesse.
 Quoy, vous aymez Fenise ?
 
 -*who_le_duc
-Ah, c'est dire trop peu,
+      Ah, c'est dire trop peu,
 La plus pressante ardeur⁎ n'égale point mon feu,
 Et sa rare⁎ beauté, pour qui ce cœur souspire,
 Est la seule conqueste où mon espoir aspire.
@@ -875,7 +875,7 @@ Est la seule conqueste où mon espoir aspire.
 Vous la croyez donc belle ?
 
 -*who_le_duc
-A former son beau corps
+      A former son beau corps
 Le Ciel a desployé ses plus riches tresors,
 Jamais de tant d'appas⁎ beauté ne fut pourveuë.    
 
@@ -961,7 +961,7 @@ Je viens de me remettre⁎, et sçay qui ce peut estre.
 Vous la cognoissez donc ?
 
 -*who_le_duc
-Ouy, je croy la cognoistre.
+      Ouy, je croy la cognoistre.
 
 -*who_fenise
 Et bien ? la trouvez-vous indigne qu'un grand cœur
@@ -990,7 +990,7 @@ Ah, Laure ! à sa froideur voy quel mépris est joint !
 Que mon malheur est grand !
 
 -*who_fabrice
-Ne vous affligez point.
+      Ne vous affligez point.
 Si par hazard vostre ame estoit embarrassée
 De quelque trait d'amour dont elle fust pressée,
 Advisez et comment, et pour combien, et quand,
@@ -999,7 +999,7 @@ Vostre fait est trouvé, je suis tousjours vacant.
 -*who_laure
 Maraut, si de railler tu prens jamais l'audace…
 
-**** *book_ *id_body-4-3 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1658 *creator_corneille
 
 -*who_fenise
 Soufrons, je n'ay que trop merité ma disgrace⁎.
@@ -1032,31 +1032,31 @@ Pour arrester le sien, doit esblouyr ses yeux,
 Et sans un fort amour, ce n'est qu'une faiblesse
 De croire qu'il rompra l'hymen de la Duchesse.
 
-**** *book_ *id_body-4-4 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1658 *creator_corneille
 
 -*who_camille
 Adieu, Laure.
 
 -*who_laure
-Ah ! c'est-toy, qui t'amène en ce lieu ?
+      Ah ! c'est-toy, qui t'amène en ce lieu ?
 
 -*who_camille
 Tu n'escoutes donc pas ? je viens te dire adieu.
 Touche.
 
 -*who_laure
-Tu me le dis avec beaucoup de joye.
+      Tu me le dis avec beaucoup de joye.
 Où vas-tu donc ?
 
 -*who_camille
-A Parme, où le Duc nous renvoye,
+      A Parme, où le Duc nous renvoye,
 Nous avons ordre exprés⁎ de le démarier.
 
 -*who_fenise
 Et Carlos ?
 
 -*who_camille
-Il y va sans se faire prier.
+      Il y va sans se faire prier.
 
 -*who_fenise
 Quoy, d'un pareil employ ne craint-il point la honte ?
@@ -1082,10 +1082,10 @@ Il va pour vous fléchir employer vostre frere,
 C'est par là que Carlos sans contrainte obeït.
 Mais il entre.
 
-**** *book_ *id_body-4-5 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1658 *creator_corneille
 
 -*who_carlos
-Ma sœur, la fortune nous rit,
+      Ma sœur, la fortune nous rit,
 Et sur nous desormais sa faveur se déploye,
 Voyez dans ce billet la cause de ma joye.
 
@@ -1098,7 +1098,7 @@ Je ne suis point encor en estat de la voir.
 LE DUC.
 
 -*who_carlos
-Que dites-vous, de l'ordre qu'il me donne ?
+      Que dites-vous, de l'ordre qu'il me donne ?
 
 -*who_fenise
 Sçachant ce qui se passe il n'a rien qui m'estonne,
@@ -1106,7 +1106,7 @@ Mais aprés les bontez que vous avez pour moy,
 Je me dois accuser…
 
 -*who_carlos
-Vous, ma sœur, et dequoy ?
+      Vous, ma sœur, et dequoy ?
 
 -*who_fenise
 De vous avoir caché ce qu'avaient sçeu m'apprendre
@@ -1233,7 +1233,7 @@ Celuy d'estre Duchesse en auroit plus pour moy.
 -*who_carlos
 Certes, je suis confus de voir qu'à tant de zele…
 
-**** *book_ *id_body-4-6 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-406 *act_ *date_1658 *creator_corneille
 
 -*who_federic
 Je viens vous apporter une estrange⁎ nouvelle.
@@ -1244,7 +1244,7 @@ La Duchesse en secret vient d'arriver icy.
 Que dites-vous, Seigneur ?
 
 -*who_federic
-Moy-mesme je l'ay veuë,
+      Moy-mesme je l'ay veuë,
 Elle veut à Milan demeurer inconnuë,
 Et tenant de son rang le secret déguisé,
 Entretenir le Duc sous un nom supposé.
@@ -1260,9 +1260,9 @@ Et dans son entreprise offrez-luy tous vos soins.
 Je sçay ce que je dois.
 
 -*who_federic
-Allez, je vous rejoins.
+      Allez, je vous rejoins.
 
-**** *book_ *id_body-4-7 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-407 *act_ *date_1658 *creator_corneille
 
 -*who_federic
 Carlos, sans penetrer son dessein⁎ davantage,
@@ -1278,7 +1278,7 @@ Mais sans se découvrir elle veut luy parler ?
 Quel en est vostre espoir ?
 
 -*who_federic
-Qu'esbloüy de ses charmes
+      Qu'esbloüy de ses charmes
 Le Duc à sa beauté rendra soudain les armes,
 Et que de son chagrin l'effort capricieux
 Cedera⁎ sans contrainte à l'esclat de ses yeux.
@@ -1294,11 +1294,11 @@ Mais enfin sous quel nom le pretend-elle voir ?
 En quelle qualité ?
 
 -*who_federic
-C'est ce qu'il faut sçavoir.
+      C'est ce qu'il faut sçavoir.
 Comme à l'entretenir le devoir nous appelle,
 Allons sans differer en resoudre avec elle.
 
-**** *book_ *id_body-5-1 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Celles qui comme nous naissent dans ce haut rang
@@ -1394,14 +1394,14 @@ Il est pour attendrir des soûpirs et des larmes,
 S'il s'en servoit, Madame ?
 
 -*who_la_duchesse
-Il n'en feroit pas mieux.
+      Il n'en feroit pas mieux.
 
 -*who_fenise
 Mais l'amour quelquefois se glisse par les yeux,
 S'il vous plaisoit enfin ?
 
 -*who_la_duchesse
-Le Duc pourroit me plaire ?
+      Le Duc pourroit me plaire ?
 
 -*who_fenise
 Madame, excusez-moy, je parle pour un frere
@@ -1445,24 +1445,24 @@ Les accords en sont doux quand la voix les anime,
 Ce talent est aimable⁎.
 
 -*who_fenise
-Il vaut ce qu'on l'estime,
+      Il vaut ce qu'on l'estime,
 Pendant ma solitude il flattoit⁎ mon soucy⁎.
 Donne.
 
 -*who_laure
-Le Duc, Madame…
+      Le Duc, Madame…
 
 -*who_la_duchesse
-Et bien ?
+      Et bien ?
 
 -*who_laure
-Il vient icy.
+      Il vient icy.
 
 -*who_fenise
 Le Duc ?
 
 -*who_la_duchesse
-Pour me cacher usons de stratagème.
+      Pour me cacher usons de stratagème.
 
 -*who_fenise
 Appelez-moy Celie, et passez pour moy-mesme,
@@ -1477,13 +1477,13 @@ Ce jeu de vostre esprit ne se peut trop priser.
 -*who_fenise
 Servez-vous de ce Lut pour le mieux abuser⁎.
 
-**** *book_ *id_body-5-2 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Voyons sans estre veus.
 
 -*who_fabrice
-Ah, Seigneur, qu'elle est belle !
+      Ah, Seigneur, qu'elle est belle !
 
 -*who_le_duc
 Celie avec raison s'estimoit autant qu'elle,
@@ -1493,7 +1493,7 @@ Mais elle est belle enfin, et ce charme l'emporte.
 Elle accorde son lut, demeurons-là.
 
 -*who_fabrice
-Qu'importe ?
+      Qu'importe ?
 
 -*who_le_duc
 Si tu sçais que ma joye est à l'oüir chanter…
@@ -1503,7 +1503,7 @@ Oyez-donc, mais gardez de vous en dégouster,
 Si vous fermiez les yeux ?
 
 -*who_le_duc
-Le conseil ridicule !
+      Le conseil ridicule !
 
 -*who_fabrice
 J'apprehende pour vous qu'elle ne gesticule.
@@ -1517,13 +1517,13 @@ Ton sens de la folie a toûjours le support,
 Tay-toy.
 
 -*who_fabrice
-Son instrument est d'un fâcheux accord.
+      Son instrument est d'un fâcheux accord.
 
 -*who_fenise
 Il ne s'avance point.
 
 -*who_la_duchesse
-La rencontre est plaisante,
+      La rencontre est plaisante,
 Comme il me prend pour vous, il attend que je chante.
 J'y vais remedier. Julie est-elle icy ?
 Cherchez, Laure, mais Dieux ! qui nous observe ainsi ?
@@ -1532,7 +1532,7 @@ Cherchez, Laure, mais Dieux ! qui nous observe ainsi ?
 Madame, c'est le Duc.
 
 -*who_le_duc
-Enfin, belle Fenise,
+      Enfin, belle Fenise,
 Le Ciel par son adveu⁎ soustient mon entreprise,
 Puisque malgré vos soins à vous cacher de moy
 Il daigne consentir au bien⁎ que je reçoy.
@@ -1569,7 +1569,7 @@ Vous luy laissez penser que c'est elle qui chante,
 C'est par là qu'il se prend.
 
 -*who_fenise
-Qu'il est capricieux⁎ !
+      Qu'il est capricieux⁎ !
 
 -*who_laure
 Vos reserves pour luy ne valent guere mieux.
@@ -1609,7 +1609,7 @@ Est-ce que vous croyez m'acquerir pour Maistresse ?
 Moy marié, Madame ?
 
 -*who_la_duchesse
-Avecque la Duchesse.
+      Avecque la Duchesse.
 
 -*who_le_duc
 Et ne sçavez-vous pas qu'afin de l'irriter,
@@ -1629,7 +1629,7 @@ Peut-estre la Duchesse est plus belle que moy,
 Et je m'exposerois…
 
 -*who_le_duc
-Pensez-en mieux de grace,
+      Pensez-en mieux de grace,
 Est-il quelque beauté que la vostre n'efface ?
 
 -*who_la_duchesse
@@ -1662,17 +1662,17 @@ Peut-estre a-t'elle icy quelque peu d'interest,
 Je le dois conserver.
 
 -*who_le_duc
-Voy Fabrice.
+      Voy Fabrice.
 
 -*who_fabrice
-Ah j'enrage,
+      Ah j'enrage,
 Elles sont toutes d'eux d'accord du filoutage.
 
 -*who_le_duc
 Mais que resolvez-vous ?
 
 -*who_la_duchesse
-De prendre vostre amour
+      De prendre vostre amour
 Pour un feu qui peut naistre et mourir en un jour,
 Pour un aveugle effort d'une premiere idée
 Dont sans reflexion vostre ame est possedée,
@@ -1689,7 +1689,7 @@ N'ayant point vostre voix, je ne la puis aymer.
 Cela va bien pour vous.
 
 -*who_le_duc
-D'ailleurs les miens l'ont veuë,
+      D'ailleurs les miens l'ont veuë,
 Et sa beauté par eux ne m'est que trop cognuë ;
 Ce sont charmes communs, ce sont mornes appas⁎
 Qui des plus foibles cœurs ne triompheroient pas.
@@ -1698,10 +1698,10 @@ Qui des plus foibles cœurs ne triompheroient pas.
 Et mesme…
 
 -*who_le_duc
-Que dis-tu ?
+      Que dis-tu ?
 
 -*who_fabrice
-Que vous estes modeste.
+      Que vous estes modeste.
 Elle a, vous a-t'on dit, quelque os icy de reste,
 Qui n'a jamais voulu se mettre à la raison,
 Qu'on ne l'ait mis aux fers et son corps en prison.
@@ -1726,12 +1726,12 @@ Vous pouvez adresser ailleurs vostre inconstance.
 Adieu.
 
 -*who_le_duc
-Quoy ? me quitter ! Madame, encor deux mots.
+      Quoy ? me quitter ! Madame, encor deux mots.
 
 -*who_la_duchesse
 Allons, il faut donner mes ordres à Carlos.
 
-**** *book_ *id_body-5-3 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Et de grace, un moment ; arrestez-là, Celie.
@@ -1740,10 +1740,10 @@ Et de grace, un moment ; arrestez-là, Celie.
 Moy, Seigneur ?
 
 -*who_le_duc
-Quel mépris !
+      Quel mépris !
 
 -*who_fabrice
-Dîtes quelle folie.
+      Dîtes quelle folie.
 Mais pour luy donner lieu de s'en mordre les doigts,
 Espousons la Duchesse, et nargue⁎ de sa voix.
 
@@ -1776,21 +1776,21 @@ Mais j'ay trouvé toûjours obstacle à vostre flame.
 Et c'est ?
 
 -*who_fenise
-Vous le sçavez, l'amour de cette Dame,
+      Vous le sçavez, l'amour de cette Dame,
 Qui dans sa confidence⁎ eut tousjours tant de part.
 
 -*who_le_duc
 Mais me dites-vous vray ?
 
 -*who_fenise
-Je vous parle sans fard⁎.
+      Je vous parle sans fard⁎.
 Est-ce avec vous, Seigneur, qu'il est permis de feindre ?
 
 -*who_le_duc
 Qu'elle est folle ! entens-tu ?
 
 -*who_fabrice
-J'ay peine à me contraindre⁎.
+      J'ay peine à me contraindre⁎.
 Quoy, ce petit extrait d'original humain,
 Pour aspirer à vous a le cœur assez vain ?
 
@@ -1798,7 +1798,7 @@ Pour aspirer à vous a le cœur assez vain ?
 Tu vois.
 
 -*who_fabrice
-Pour la payer de tous ses badinages,
+      Pour la payer de tous ses badinages,
 Mariez-là, Seigneur, à quelqu'un de vos pages.
 
 -*who_fenise
@@ -1815,7 +1815,7 @@ Ignorez-vous le prix d'une amour légitime ?
 Mais me cognoissez-vous ?
 
 -*who_fenise
-En vous vantant son feu,
+      En vous vantant son feu,
 Au seul Duc de Milan j'en croy faire l'adveu.
 Si vous ne l'estes pas, permettez que j'espere
 Qu'il apprendra de vous ce que je n'ay pû taire.
@@ -1834,23 +1834,23 @@ Elle eut l'ame toûjours aussi fiere que belle,
 Et qu'il peut arriver, quand le Duc l'aimera,
 Qu'elle verra sa peine, et la méprisera.
 
-**** *book_ *id_body-5-4 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Fabrice, qu'en dis-tu ?
 
 -*who_fabrice
-J'admire la harangue,
+      J'admire la harangue,
 Elle a le Diable au corps, ou du moins à la langue,
 Comme elle tranche net !
 
 -*who_le_duc
-J'aime cette fierté
+      J'aime cette fierté
 Qui releve à mes yeux l'éclat de sa beauté,
 Elle est belle après tout.
 
 -*who_fabrice
-Mais Fenise plus qu'elle ?
+      Mais Fenise plus qu'elle ?
 
 -*who_le_duc
 Elle chante, il suffit pour estre la plus belle.
@@ -1868,14 +1868,14 @@ Il ne faut qu'une toux, un rheume, adieu la voix,
 C'est-à-dire, à l'amour adieu pour quelques mois.
 Mais voicy Federic.
 
-**** *book_ *id_body-5-5 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-505 *act_ *date_1658 *creator_corneille
 
 -*who_federic
-Seigneur, quelle surprise !
+      Seigneur, quelle surprise !
 Vous rencontrer icy ?
 
 -*who_le_duc
-Vous me cachiez Fenise,
+      Vous me cachiez Fenise,
 Mais enfin malgré vous j'ay veu ce rare⁎ objet⁎.
 
 -*who_federic
@@ -1896,7 +1896,7 @@ Mais aujourd'huy le Ciel autrement en ordonne.
 Que dites-vous, Seigneur ?
 
 -*who_le_duc
-Ce discours vous estonne⁎.
+      Ce discours vous estonne⁎.
 La surprise pourtant n'aura rien que de doux
 Si je partage enfin ma couronne avec vous,
 J'en veux mettre le droit dedans vostre famille.
@@ -1905,7 +1905,7 @@ J'en veux mettre le droit dedans vostre famille.
 Quoy, Seigneur, vous voulez ?
 
 -*who_le_duc
-Espouser vostre fille.
+      Espouser vostre fille.
 Sa beauté sur mon cœur usant de tous ses droits
 Vient d'achever en moy le charme de sa voix.
 
@@ -1914,7 +1914,7 @@ Ah, dissipez ce charme, et rentrez en vous - mesme.
 Vous, l'amant⁎ de ma fille ?
 
 -*who_le_duc
-Ouy, Federic, je l'ayme,
+      Ouy, Federic, je l'ayme,
 Et rien ne peut changer ce que j'ay resolu.
 
 -*who_federic
@@ -1924,7 +1924,7 @@ Servez-vous mieux, Seigneur, du pouvoir absolu.
 Non, mon dessein⁎ est juste.
 
 -*who_federic
-Il ne le faut pas croire,
+      Il ne le faut pas croire,
 Puisqu'il blesse l'Estat, il blesse vostre gloire.
 
 -*who_le_duc
@@ -1946,7 +1946,7 @@ Je n'ay que trop suivi cette injuste maxime,
 Il faut m'en affranchir.
 
 -*who_federic
-Le pouvez-vous sans crime,
+      Le pouvez-vous sans crime,
 Et songez-vous assez de quel sanglant affront
 La Duchesse par là verroit rougir son front ?
 Après qu'en vos Estats on l'a desja reçeuë…
@@ -1984,13 +1984,13 @@ Je ne puis toutefois m'empescher de vous dire,
 Que peut-estre pour voir vos desseins⁎ traversez,
 La Duchesse n'est pas si loin que vous pensez.
 
-**** *book_ *id_body-5-6 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-506 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Quelle est cette menace ?
 
 -*who_fabrice
-Ah, je rentre en mémoire.
+      Ah, je rentre en mémoire.
 Apprenez un secret que je n'avois pû croire,
 Mais par cette menace il est trop esclaircy,
 Le bruit court que Carlos n'a point party d'icy.
@@ -2002,12 +2002,12 @@ Ainsi donc la Duchesse est encore à Pavie ?
 Il n'en faut point douter.
 
 -*who_le_duc
-Dieux, quelle perfidie !
+      Dieux, quelle perfidie !
 Helas ! fut-il jamais amant⁎ plus interdit⁎ ?
 Je me fie à Carlos, et l'ingrat me trahit.
 Mais ne le vois-je pas ? ah, Dieu, quelle est ma peine ?
 
-**** *book_ *id_body-5-7 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-507 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Quoy, de retour encor, Carlos ? qui vous ramene ?
@@ -2034,7 +2034,7 @@ C'est ce que la Duchesse a souhaité de moy,
 Et j'ay crû vous servir…
 
 -*who_le_duc
-J'estime vostre zele,
+      J'estime vostre zele,
 Je n'aspirois, Carlos, qu'à me dégager d'elle,
 Et ce seul embarras⁎ causoit tout mon chagrin.
 
@@ -2065,20 +2065,20 @@ L'entier et plein adveu de vostre intelligence⁎.
 Seigneur…
 
 -*who_le_duc
-Non, non, j'en croy ce que vous m'avez dit,
+      Non, non, j'en croy ce que vous m'avez dit,
 Vous voulez estre Duc, Carlos, il me suffit.
 Allez remplir à Parme une si noble envie,
 Vous y pourrez aller de mesme qu'à Pavie.
 Suivez-moy.
 
 -*who_carlos
-Mon mal-heur me reduit⁎-il au point
+      Mon mal-heur me reduit⁎-il au point
 De…
 
 -*who_le_duc
-Suivez-moy, vous dis-je, et ne repliquez point.
+      Suivez-moy, vous dis-je, et ne repliquez point.
 
-**** *book_ *id_body-6-1 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1658 *creator_corneille
 
 -*who_federic
 Je vous blâmois à tort, si par cette surprise
@@ -2160,7 +2160,7 @@ Je sçay de son erreur quel conte je luy doy.
 Tâchez à la nourrir⁎, tandis qu'avec adresse
 Je sçauray mesnager l'esprit de la Duchesse.
 
-**** *book_ *id_body-6-2 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1658 *creator_corneille
 
 -*who_fenise
 Un père eut-il jamais de pareils sentiments ?
@@ -2176,7 +2176,7 @@ Vous n'en seriez pas là si j'avais été cruë ,
 Car vous aymez enfin ?
 
 -*who_fenise
-Que te diray-je, helas ?
+      Que te diray-je, helas ?
 Je sens des mouvements que je ne comprens pas.
 Dans mon cœur indigné l'interest de ma gloire
 A mes ressentiments dispute la victoire ,
@@ -2229,28 +2229,28 @@ Pour vous en éclaircir il faut sonder Fabrice,
 Il vient.
 
 -*who_fenise
-Que voudrois-tu que ce fou nous apprist ?
+      Que voudrois-tu que ce fou nous apprist ?
 
 -*who_laure
 Dans son extravagance⁎ il sçait bien ce qu'il dit ,
 Comme le duc l'écoute, il en sçait des nouvelles.
 
-**** *book_ *id_body-6-3 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1658 *creator_corneille
 
 -*who_laure
 Ne vois-je pas Fabrice ?
 
 -*who_fabrice
-Ah, Dieu vous gard, les belles.
+      Ah, Dieu vous gard, les belles.
 
 -*who_laure
 Qui t'a permis d'entrer ?
 
 -*who_fabrice
-Moy- mesme.
+      Moy- mesme.
 
 -*who_laure
-Et sans refus ?
+      Et sans refus ?
 
 -*who_fabrice
 Les ordres sont changez, on ne vous cache plus.
@@ -2259,14 +2259,14 @@ Les ordres sont changez, on ne vous cache plus.
 D'où vient donc que le Duc…
 
 -*who_fabrice
-Le Duc n'est pas trop sage.
+      Le Duc n'est pas trop sage.
 Ne m'en demande rien.
 
 -*who_fenise
-Que fait-il ?
+      Que fait-il ?
 
 -*who_fabrice
-Il enrage.
+      Il enrage.
 L'amour luy bouleverse et l'esprit et les sens.
 
 -*who_fenise
@@ -2280,25 +2280,25 @@ Fenise pourroit bien enrager à son tour.
 J'en sçay bien le secret.
 
 -*who_fenise
-Tu vas un peu bien viste,
+      Tu vas un peu bien viste,
 Peut-estre que Fenise…
 
 -*who_fabrice
-O la bonne hypocrite⁎ !
+      O la bonne hypocrite⁎ !
 Je parle librement, mais aussi sçait-on bien,
 Que vostre langue…
 
 -*who_laure
-Et bien ? sa langue ?
+      Et bien ? sa langue ?
 
 -*who_fabrice
-Ne vaut rien.
+      Ne vaut rien.
 
 -*who_fenise
 Je souffre tout de toy.
 
 -*who_fabrice
-Croyez que je boufonne,
+      Croyez que je boufonne,
 Mais le Duc vous cognoit, et vous la garde bonne⁎.
 C'est vous qui destournez Fenise de l'aimer.
 
@@ -2309,7 +2309,7 @@ Me faisoit luy parler de l'amour d'une Dame ;
 J'agissois par son ordre.
 
 -*who_fabrice
-Il n'en estoit donc rien ?
+      Il n'en estoit donc rien ?
 
 -*who_fenise
 Son feu tâchois par là de s'asseurer du sien.
@@ -2321,11 +2321,11 @@ Donc après cette espreuve il en peut tout attendre ?
 Ouy, s'il l'aime en effet.
 
 -*who_fabrice
-Il ne faut que l'entendre,
+      Il ne faut que l'entendre,
 Il perd l'esprit pour elle.
 
 -*who_fenise
-Elle craint toutefois
+      Elle craint toutefois
 Que feignant de l'aimer il n'aime que sa voix,
 Et ne croit son amour qu'une amour imparfaite,
 Si sa seule beauté n'est pas ce qui l'arreste.
@@ -2342,16 +2342,16 @@ Dont chacune à son tour promene ses pensées,
 Il trouve dans ses yeux, dans sa taille, en son port
 Tous les charmes…Bon soir.
 
-**** *book_ *id_body-6-4 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1658 *creator_corneille
 
 -*who_fabrice
-D'où vient donc qu'elle sort ?
+      D'où vient donc qu'elle sort ?
 
 -*who_laure
 C'est que tu jases trop.
 
 -*who_fabrice
-Chacun sçait son affaire.
+      Chacun sçait son affaire.
 Qu'elle s'en fâche ou non, il ne m'importe guere,
 Elle me fait plaisir me laissant avec toy.
 
@@ -2359,27 +2359,27 @@ Elle me fait plaisir me laissant avec toy.
 D'où vient ta belle humeur ?
 
 -*who_fabrice
-De ce que je te voy,
+      De ce que je te voy,
 Friponne, sçais-tu bien lors que tu me regardes…
 
 -*who_laure
 Quoy, je te tiens au cœur ?
 
 -*who_fabrice
-Ma foy, tu le petardes,
+      Ma foy, tu le petardes,
 Jusqu'au moindre recoin tes yeux vont ravager.
 
 -*who_laure
 Je te plais donc ?
 
 -*who_fabrice
-Assez pour me faire enrager.
+      Assez pour me faire enrager.
 
 -*who_laure
 Déja jusqu'à la rage ?
 
 -*who_fabrice
-Et plus qu'il ne te semble ,
+      Et plus qu'il ne te semble ,
 Mais le plaisir d'amour c'est d'enrager ensemble,
 Ainsi si tu voulois enrager tant soit peu…
 
@@ -2387,14 +2387,14 @@ Ainsi si tu voulois enrager tant soit peu…
 Il y faudra songer.
 
 -*who_fabrice
-Tu te ris de mon feu.
+      Tu te ris de mon feu.
 
 -*who_laure
 M'en rire ? je t'en voy la face toute blême.
 Mais enfin tout de bon, m'aimes-tu ?
 
 -*who_fabrice
-Si je t'aime ?
+      Si je t'aime ?
 J'ai déja depuis hier, pour preuve de ma foy,
 Tâché plus de six fois à soûpirer pour toy.
 
@@ -2408,12 +2408,12 @@ Va, j'en cognois le fin, le délicat, le tendre.
 Tu n'as fait que tâcher cependant ?
 
 -*who_fabrice
-N'est-ce rien ?
+      N'est-ce rien ?
 Pactisons seulement, et le reste ira bien.
 Es-tu traitable ?
 
 -*who_laure
-Moy ? Cela s'en va sans dire.
+      Moy ? Cela s'en va sans dire.
 
 -*who_fabrice
 Combien de temps faut-il que pour toy l'on soûpire ?
@@ -2422,7 +2422,7 @@ Combien de temps faut-il que pour toy l'on soûpire ?
 Que t'importe combien ?
 
 -*who_fabrice
-C'est là la question.
+      C'est là la question.
 Je crains en soûpirant quelque indigestion,
 Il faut s'enfler le cœur, et l'excez est à craindre !
 
@@ -2431,7 +2431,7 @@ Ton feu n'iroit pas loin avant que de s'éteindre,
 Tu me plains de soûpirs ?
 
 -*who_fabrice
-Je sçay bien qu'il t'en faut,
+      Je sçay bien qu'il t'en faut,
 Mais j'en voudrois avoir ma quittance au plûtost,
 Et pour n'en recevoir ny reproche ny honte,
 N'estre obligé qu'à tant et les fournir par conte.
@@ -2444,22 +2444,22 @@ Va, si je promets peu, c'est afin de tenir,
 Vois-tu bien, je suis franc.
 
 -*who_laure
-Donc en toute franchise
+      Donc en toute franchise
 Dy moy quels sentimens le Duc a pour Fenise.
 N'est-ce plus pour sa voix…
 
 -*who_fabrice
-Que tu le bailles doux !
+      Que tu le bailles doux !
 Mais les voici tous deux qui s'en viennent à nous,
 Dispose ta Maistresse à mieux traiter sa flame.
 
-**** *book_ *id_body-6-5 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Quoy, Seigneur, jusqu'icy ?
 
 -*who_le_duc
-Me fuyez-vous, Madame,
+      Me fuyez-vous, Madame,
 Et gardez-vous un cœur assez indifferent
 Pour refuser mes soins quand l'amour vous les rend ?
 
@@ -2479,12 +2479,12 @@ Une injuste rigueur est le prix de ma flame.
 Helas !
 
 -*who_fabrice
-Si vous voulez reüssir cette fois,
+      Si vous voulez reüssir cette fois,
 Parlez de la beauté plustost que de la voix,
 J'ay bien menty pour vous.
 
 -*who_le_duc
-Enfin que dois-je attendre ?
+      Enfin que dois-je attendre ?
 Mes plus profonds respects n'ont-ils rien à prétendre⁎ ,
 Et mon sceptre et mon coeur à vostre empire offerts
 Me laissent-ils toûjours indigne de vos fers ?
@@ -2503,7 +2503,7 @@ M'oblige à partager l'outrage qu'on luy fait.
 Madame, c'est assez que sa prison vous gêne⁎,
 Je n'examine rien, Fabrice, qu'on l'amene.
 
-**** *book_ *id_body-6-6 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 A quoy qu'ait pû son crime aujourd'huy me forcer,
@@ -2562,10 +2562,10 @@ Doutez-vous qu'à sa foy⁎ vostre ordre confié…
 N'en parlons plus, Madame, il est justifié ;
 Le voicy qui paroist.
 
-**** *book_ *id_body-6-7 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-607 *act_ *date_1658 *creator_corneille
 
 -*who_carlos
-Que voy-je ? la Duchesse ?
+      Que voy-je ? la Duchesse ?
 Ah, le Duc la cognoit, et tout espoir me laisse.
 
 -*who_le_duc
@@ -2670,25 +2670,25 @@ Que tout ce que de grand mon esprit se figure,
 N'a point d'appas⁎ pour moy ny si fort, ny si doux,
 Qui ne cede à l'espoir de me voir son espoux.
 
-**** *book_ *id_body-6-8 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-608 *act_ *date_1658 *creator_corneille
 
 -*who_carlos
 Ah, Dieux !
 
 -*who_camille
-Voilà que c'est de conter sans son hoste.
+      Voilà que c'est de conter sans son hoste.
 
 -*who_carlos
 Il la veut épouser, Camille !
 
 -*who_camille
-Est-ce ma faute ?
+      Est-ce ma faute ?
 
 -*who_carlos
 O malheur !
 
 -*who_la_duchesse
-Quoy, Carlos, je t'entens souspirer,
+      Quoy, Carlos, je t'entens souspirer,
 Quand par l'adveu du Duc tu peux tout esperer ?
 
 -*who_carlos
@@ -2711,7 +2711,7 @@ De l'avoir mis au point de me perdre à regret.
 Ah, que m'apprenez-vous ?
 
 -*who_la_duchesse
-Cette froideur m'estonne⁎,
+      Cette froideur m'estonne⁎,
 Parle enfin, que faut-il, Carlos que j'en soupçonne ?
 
 -*who_carlos
@@ -2723,7 +2723,7 @@ C'est donc ce que de toy, pour t'avoir osé croire,
 Mon amour…
 
 -*who_carlos
-Ah, Madame, il fait toute ma gloire,
+      Ah, Madame, il fait toute ma gloire,
 Mais aussi, s'il fut trop pour le peu que je vaux,
 Je puis dire qu'il fait le plus grand de mes maux.
 Car lors que par le temps l'amour ne peut s'éteindre,
@@ -2735,7 +2735,7 @@ A ceder cét espoir quand il se voit aimé.
 Quoy, tu cedes le tien ?
 
 -*who_carlos
-Ma peine en est extréme,
+      Ma peine en est extréme,
 Mais je dois tout au Duc, et je voy qu'il vous aime.
 
 -*who_la_duchesse
@@ -2772,7 +2772,7 @@ Cet amour m'est bien cher mais mon devoir l'emporte,
 Et le respect du Duc…
 
 -*who_la_duchesse
-Le glorieux projet,
+      Le glorieux projet,
 D'estre mauvais amant⁎ pour estre bon sujet !
 Va, rends à me trahir ta foy⁎ brillante et pure,
 Acheptes-en l'éclat aux dépens d'un parjure,
@@ -2786,21 +2786,21 @@ Et que pour égaler le supplice à l'offence
 Le Ciel sur tout Milan estendra ma vangeance,
 Je vais y donner ordre, adieu.
 
-**** *book_ *id_body-6-9 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-609 *act_ *date_1658 *creator_corneille
 
 -*who_camille
-Nous voilà bien.
+      Nous voilà bien.
 
 -*who_carlos
 O rigueur de mon sort ! que dois-je faire ?
 
 -*who_camille
-Rien.
+      Rien.
 Il n'est fidelle preux que vostre foy⁎ redoute,
 Vous avez assez fait .
 
 -*who_carlos
-Que cet effort me coûte !
+      Que cet effort me coûte !
 
 -*who_camille
 Ne vous en plaignez point ; ceder une Duché,
@@ -2808,7 +2808,7 @@ Pour se montrer loyal, c'est avoir bon marché.
 Vous serez dans l'histoire.
 
 -*who_carlos
-Ah, crains de me déplaire.
+      Ah, crains de me déplaire.
 
 -*who_camille
 Quoy, lors que l'on enrage, il faut encor se taire,
@@ -2828,19 +2828,19 @@ Une belle Duchesse, et tout ce qui la suit,
 Sceptre, Couronne…
 
 -*who_carlos
-Helas ! où me vois-je réduit ?
+      Helas ! où me vois-je réduit ?
 Perdre un objet⁎ si cher !
 
 -*who_camille
-Le remede⁎ est facile,
+      Le remede⁎ est facile,
 Revoyez-la.
 
 -*who_carlos
-Non non, n'en parlons point, Camile ;
+      Non non, n'en parlons point, Camile ;
 Dans le pressant malheur où me plonge le sort,
 Si quelque espoir me reste il n'est plus qu'en la mort.
 
-**** *book_ *id_body-7-1 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-701 *act_ *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Quoy que vous me disiez de l'ennuy⁎ qui l'accable,
@@ -2908,7 +2908,7 @@ Ont obtenu sur luy l'effet de mes souhaits.
 Helas !
 
 -*who_la_duchesse
-Ainsi je crains que son cœur trop sensible
+      Ainsi je crains que son cœur trop sensible
 N'apporte à nos projets un obstacle invincible,
 Et que me cognoissant, il n'ose avec esclat
 Faire agir pour sa flame un interest d'Estat.
@@ -2939,16 +2939,16 @@ Quels nobles sentimens me le font desdaigner.
 Je l'apperçois qui vient.
 
 -*who_fenise
-Qu'une épreuve si rude
+      Qu'une épreuve si rude
 A mon cœur alarmé cause d'inquietude⁎ !
 Ah, Laure.
 
 -*who_laure
-Voila bien dequoy vous tourmenter.
+      Voila bien dequoy vous tourmenter.
 Quand vous n'en pourrez plus vous n'aurez qu'à chanter.
 Forcez vous un moment à garder le silence.
 
-**** *book_ *id_body-7-2 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Madame, le succez passe mon esperance,
@@ -2962,7 +2962,7 @@ Recevez-en pour gage et mon cœur et ma main.
 Dieux, quelle offre !
 
 -*who_laure
-Attendez l'effet de ce dessein.
+      Attendez l'effet de ce dessein.
 
 -*who_la_duchesse
 Seigneur, si Federic de surprise incapable
@@ -2992,7 +2992,7 @@ Pour ne vous point broüiller laissez la voix à part,
 Oubliez-vous ainsi ?
 
 -*who_la_duchesse
-J'ay donc sujet de croire
+      J'ay donc sujet de croire
 Qu'à ma voix de vos feux je dois toute la gloire ?
 
 -*who_le_duc
@@ -3011,7 +3011,7 @@ Qu'a-t'elle plus que moy qui merite son choix ?
 Ah, je perds patience.
 
 -*who_laure
-Il n'est pas temps encore.
+      Il n'est pas temps encore.
 C'est vostre seule voix, vous dis-je, qu'il adore,
 Quoy qu'il proteste⁎ icy, l'espreuve en fera foy.
 
@@ -3058,7 +3058,7 @@ Ne soüillera jamais la gloire de mes feux.
 Je n'en puis plus souffrir⁎, le dépit⁎ me surmonte,
 Tu vas voir ma vangeance, ou ma dernière honte.
 
-**** *book_ *id_body-7-3 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Ce fort attachement, quoy que peu merité,
@@ -3080,13 +3080,13 @@ Une femme est à craindre alors qu'elle peut tout.
 Ce pouvoir…mais, ô Dieux ?
 
 -*who_la_duchesse
-Quelle est cette surprise ?
+      Quelle est cette surprise ?
 
 -*who_le_duc
 J'entens toucher⁎ un Lut.
 
 -*who_la_duchesse
-Je ne voy plus Fenise.
+      Je ne voy plus Fenise.
 Mes filles quelquefois voulant me divertir…
 
 -*who_le_duc
@@ -3094,7 +3094,7 @@ Leur dessein⁎ est trop juste, et j'y dois consentir,
 Il faut les escouter. Dieux !
 
 -*who_fabrice
-Vostre amour s'alarme ?
+      Vostre amour s'alarme ?
 
 -*who_le_duc
 C'est le mesme signal de la voix qui me charme.
@@ -3141,7 +3141,7 @@ Dans Fenise desja ne trouvast plus Fenise ?
 M'auroit-on pû tromper ?
 
 -*who_la_duchesse
-Il faut que sur nos sens
+      Il faut que sur nos sens
 L'empire du devoir ait des droits bien puissants,
 Car enfin, quelque esclat qui brille dans vostre ame,
 Avant que Federic approuvast vostre flame,
@@ -3158,7 +3158,7 @@ S'il faut qu'elle s'obstine à me favoriser ?
 Vous ne répondez point ?
 
 -*who_le_duc
-Que puis-je vous répondre,
+      Que puis-je vous répondre,
 Sinon que vos bontez servent à me confondre⁎,
 Et que…mais malgré moy je me sens emporter.
 
@@ -3189,13 +3189,13 @@ Que vous n'en meritiez l'effet, ny l'apparence,
 C'est ainsi qu'il se rit d'un feu capricieux,
 Adieu, vous répondrez quand vous m'entendrez⁎ mieux.
 
-**** *book_ *id_body-7-4 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1658 *creator_corneille
 
 -*who_fabrice
 Vous voilà bien payé.
 
 -*who_le_duc
-N'importe, elle m'oblige,
+      N'importe, elle m'oblige,
 Son mépris me fait grace et n'a rien qui m'afflige,
 Puisqu'enfin sa beauté, quelques charmes qu'elle eust,
 Sans celuy de sa voix n'avoit rien qui me plûst.
@@ -3208,7 +3208,7 @@ Car la chanteuse enfin n'est autre que Celie.
 Que Celie ?
 
 -*who_fabrice
-Ouy, mes yeux en sont de bons garands,
+      Ouy, mes yeux en sont de bons garands,
 Eux qui viennent de voir ce que je vous apprens.
 
 -*who_le_duc
@@ -3221,22 +3221,22 @@ Si ce que je me dois tyrannise mon ame,
 Et si par ce qu'elle est tout mon esprit détruit
 Ne découvre…
 
-**** *book_ *id_body-7-5 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
-Ah, Celie, où m'avez-vous réduit ?
+      Ah, Celie, où m'avez-vous réduit ?
 
 -*who_fenise
 De quoy vous plaignez-vous ?
 
 -*who_le_duc
-D'un amour qui m'accable.
+      D'un amour qui m'accable.
 
 -*who_fenise
 Vostre malheur est grand.
 
 -*who_le_duc
-Vous en estes coupable.
+      Vous en estes coupable.
 
 -*who_fenise
 Quoy, s'il vous traite mal, m'en faut-il accuser ?
@@ -3298,13 +3298,13 @@ Celle que de vos feux vous fiste confidente,
 Quand vous la méprisiez, se vantoit qu'à son tour
 Peut-estre elle auroit lieu de braver vostre amour.
 
-**** *book_ *id_body-7-6 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1658 *creator_corneille
 
 -*who_fabrice
 Elle a l'esprit perdu !
 
 -*who_le_duc
-Qu'en toute son audace
+      Qu'en toute son audace
 Elle sçait conserver et d'attraits et de grace !
 Bien loin de m'irriter, sa fierté me ravit⁎.
 
@@ -3321,10 +3321,10 @@ Mais enfin que resoudre en cette extremité ?
 De n'aimer que vous seul, et narguer les cruelles,
 Aussi bien…
 
-**** *book_ *id_body-7-7 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-707 *act_ *date_1658 *creator_corneille
 
 -*who_camille
-Ah, Seigneur, voicy bien des nouvelles.
+      Ah, Seigneur, voicy bien des nouvelles.
 
 -*who_le_duc
 Quoy, qu'est-il survenu ? tire-moy de soucy⁎.
@@ -3333,16 +3333,16 @@ Quoy, qu'est-il survenu ? tire-moy de soucy⁎.
 La Duchesse…
 
 -*who_le_duc
-Et bien parle.
+      Et bien parle.
 
 -*who_camille
-Est arrivée icy.
+      Est arrivée icy.
 
 -*who_le_duc
 Que dis-tu ? la Duchesse ?
 
 -*who_camille
-Elle- mesme en personne.
+      Elle- mesme en personne.
 
 -*who_fabrice
 Tout le sexe aujourd'huy d'assez prés vous talonne.
@@ -3355,7 +3355,7 @@ Fay venir Federic, le conseil en est pris.
 Qu'avez-vous resolu ?
 
 -*who_le_duc
-Rien ne m'en peut distraire,
+      Rien ne m'en peut distraire,
 L'effort est violent, mais il est nécessaire.
 Puisque Fenise enfin m'a sceu rendre ma foy⁎,
 Que par son rang Celie est indigne de moy,
@@ -3370,7 +3370,7 @@ Voicy l'une desja que Carlos vous amene.
 -*who_le_duc
 Si c'est pour l'excuser, leur esperance est vaine.
 
-**** *book_ *id_body-7-8 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-708 *act_ *date_1658 *creator_corneille
 
 -*who_le_duc
 Madame, enfin cessez de craindre desormais
@@ -3407,7 +3407,7 @@ Je l'empescheray bien, ce temeraire amour.
 Faites-vous promptement chanter un air de Cour,
 Contre tous accidents c'est un puissant remede⁎.
 
-**** *book_ *id_body-7-9 *act_ *date_1658 *creator_corneille
+**** *book_ *id_body-709 *act_ *date_1658 *creator_corneille
 
 -*who_federic
 Quel chagrin importun de nouveau vous possede⁎ ?
@@ -3458,13 +3458,13 @@ Où vous croyez ma sœur, vous croyez la Duchesse.
 La Duchesse !
 
 -*who_la_duchesse
-Ouy, c'est moy, vous en doutez en vain.
+      Ouy, c'est moy, vous en doutez en vain.
 
 -*who_le_duc
 O Dieux !
 
 -*who_fabrice
-Il va crier, ô Dieux ! jusqu'à demain.
+      Il va crier, ô Dieux ! jusqu'à demain.
 
 -*who_le_duc
 Pardonnez mon silence à ma juste surprise,
@@ -3484,7 +3484,7 @@ A l'amour de Carlos voudrez-vous mettre obstacle ?
 Puis-je assez m'excuser, Madame…
 
 -*who_fabrice
-Arrestez-là,
+      Arrestez-là,
 Laissez ce monde en paix puisque vous y voila,
 L'éclaircir plus avant seroit pure sottise.
 Voit-il pas que le Duc espousera Fenise,

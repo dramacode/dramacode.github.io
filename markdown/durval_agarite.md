@@ -798,10 +798,6 @@ Une consideration m'empesche de nommer le Royaume & la Province où j'ay feint c
  – LE COCHER de Medon.
  – LES PESCHEURS (I et II).
 
-AGARITE                
-
-Tragi-comedie
-
 
 ## ACTE PREMIER
 
@@ -815,7 +811,7 @@ Que les Roys de mon aage ont de trouble en aymant !
 Et qu'un Sceptre déplaist en la main d'un Amant !  
 L'éclat de ma Couronne est contraire à la flame⁎  
 Qu'un Soleil de beautés allume dans mon ame.  
-Et bien que ma fortune⁎ esleve mon amour [110]                      
+Et bien que ma fortune⁎ esleve mon amour [110]  
 Elle me fait haïr les pompes [111] de ma Cour,  
 J'ayme d'entretenir [112] à des heures secrettes⁎  
 Celuy d'entre les Dieux [113] qu'on adore à cachettes [114] :  
@@ -838,18 +834,18 @@ Elle me gaigneroit par l'effect⁎ de ses charmes⁎.
 Mais voicy de retour celuy qui tous les jours  
 A l'honneur⁎ de la voir.  
 
-    CELIDOR.    
-            Sire point⁎ de discours⁎  
+    CELIDOR.
+                    Sire point⁎ de discours⁎  
 On ne la peut gaigner [117] par des belles parolles,  
 Une chaine de prix et du poids des pistolles [118]  
 Pourroit à mon advis. [119]  
 
     LE ROY.
-            Ha ! ce traffic aussi  
+                    Ha ! ce traffic aussi  
 Me desplaist.  
 
     CELIDOR.
-        Si [120] fait on toutes choses ainsi.  
+                Si [120] fait on toutes choses ainsi.  
 
     LE ROY.
 L'or ne peut enrichir que les Nymphes du Tage [121],  
@@ -867,7 +863,7 @@ Jusques [123] où tes souhaits ne sçauroient arriver.
 
     CELIDOR.
 J'y fay tout mon pouvoir [124] mais plus je continuë  
-Et plus dans le discours⁎ je la voy retenuë.                   
+Et plus dans le discours⁎ je la voy retenuë.  
 
     LE ROY.
 Il n'en faut donc jamais esperer d'amitié⁎ ?  
@@ -894,10 +890,10 @@ Enfin vostre pourtrait dont je dy des merveilles⁎
 Charme⁎ autant ses beaux yeux que je fay ses oreilles, [132]  
 
     LE ROY.
-Tu luy parles d'amour. [133]                                
+Tu luy parles d'amour. [133]  
 
     CELIDOR.
-            Je vous laisse à penser. [134]  
+                    Je vous laisse à penser. [134]  
 
     LE ROY.
 O service qu'un Roy ne peut recompenser !  
@@ -915,7 +911,7 @@ Si le mignon [135] du Roy n'est point⁎ un suborneur⁎
 Qui tâche d'abuser une fille d'honneur⁎,  
 Ce nom de Masjesté m'esblouyt et me tente  
 Et celuy de l'amour me peut rendre contente,  
-Mais quoy ! c'est me flatter⁎ d'esperances en l'air               
+Mais quoy ! c'est me flatter⁎ d'esperances en l'air  
 Qui passent devant moy plus viste qu'un esclair,  
 Encore que les Rois cherissent les plus belles  
 Ils n'espousent jamais de simples Damoiselles. [136]  
@@ -940,7 +936,7 @@ Excusez [141] j'ay là haut quelques comptes à faire.
 
     CELIDOR. 
 Page⁎ [142] tiens mon espée et m'attends là devant, [143]  
-Vrayment j'eusse mal fait de passer plus avant                      
+Vrayment j'eusse mal fait de passer plus avant  
 Voyant des raretés où l'art de la Peinture  
 Compare tous ses traits⁎ à ceux de la Nature⁎.  
 
@@ -971,7 +967,7 @@ Bien que ce soient icy des peintures prophanes [148]
 Monsieur, que dites vous de ces deux courtisanes ?  
 
     CELIDOR.
-Si leurs rares⁎ tableaux se perdoient une fois [149]                      
+Si leurs rares⁎ tableaux se perdoient une fois [149]  
 On treuveroit en vous les beautés que j'y vois.  
 
     AGARITE.
@@ -998,7 +994,7 @@ Vous ne serés jamais par leurs bouches repris.
     CELIDOR. 
 Pourquoy ? de leurs beaux yeux je me sens bien espris,  
 Ils font dedans [153] mon cœur ce qu'au vostre peut faire  
-Ceste image⁎ du Roy capable de vous plaire.                       
+Ceste image⁎ du Roy capable de vous plaire.  
 
     AGARITE.
 Pour me parler du Roy vous me dites cela.  
@@ -1022,7 +1018,7 @@ Leurs feüilles tremblent d'aise et leurs branches s'en plient,
 L'esprit⁎ qui les produit d'un soin⁎ perpetuel,  
 Nourit entre leurs troncs un amour mutuel :  
 Ainsi le Grenadier [157] et le Myrthe [158] se baisent,  
-Et parmy les Citrons les Oranges [159] se plaisent,                       
+Et parmy les Citrons les Oranges [159] se plaisent,  
 Cette Palme [160] profite et se charge de fruits,  
 Passant près de son masle et les jours et les nuits, [161]  
 Ces arbres où l'on prend des poires [162] et des pommes [163]  
@@ -1043,7 +1039,7 @@ Ceux-cy qui sont plongés au fonds [172] de ce tableau
 N'esteignent point⁎ le feu⁎ qui les brusle dans l'eau.  
 On diroit à les voir qu'ils se meurent de joye  
 Et que dedans du laict l'un et l'autre [173] se noye,  
-Ou que bien à propos en la saison des fleurs                      
+Ou que bien à propos en la saison des fleurs  
 Le peintre les a faits de diverses couleurs,  
 Car c'est la verité qu'aprochans [174] du rivage  
 Ils prennent la couleur de tout un paysage,  
@@ -1063,7 +1059,7 @@ Regardés ces Lapins, ces Lievres, ces Chevreux
 Ce sont des animaux qui sont tous amoureux. [177]  
 Sur tout considerez que ce boccage sombre  
 Où l'ouvrier [178] a caché deux personnes à l'ombre,  
-N'empesche point⁎ de voir ces deux jeunes amans                  
+N'empesche point⁎ de voir ces deux jeunes amans  
 Qui sont venus au but de leurs contentemens⁎,  
 Il n'en faut point⁎ mentir cette piece [179] merite [180]  
 Il n'y manque rien plus [181] que l'amour d'Agarite.  
@@ -1087,17 +1083,17 @@ Monsieur retirez-vous, hé Dieu ! j'entens⁎ parler
 Mon Pere à la fenestre.  
 
     CELIDOR.
-            Il faut donc s'en aller.  
+                    Il faut donc s'en aller.  
 
     MEDON.
 Agarite ma fille.  
 
     AGARITE. 
-        Escoutez il m'appelle !  
+                Escoutez il m'appelle !  
 Adieu c'est trop causer.  
 
     CELIDOR. 
-            Adieu doncque [185] cruelle⁎  
+                    Adieu doncque [185] cruelle⁎  
 Ha ! qu'il est mal aisé de la solliciter [186]  
 En passant par icy je ne puis m'arrester   
 Qu' [187] aussitost d'elle et moy son pere ne soupçonne [188] ;  
@@ -1112,7 +1108,7 @@ ACTE I.
 
 
 ### Scene III.
-Medon, Agarite.                                  
+Medon, Agarite.
 
 
     MEDON.
@@ -1124,7 +1120,7 @@ Que te monstroit là bas le favory⁎ du Roy ?
 Un tableau du Printemps.  
 
     MEDON.
-            Ma fille je te croy.  
+                    Ma fille je te croy.  
 Mais dans mon cabinet j'en ay bien un plus rare⁎,  
 Celuy de qui je l'ay l'acheta d' [193] un Barbare⁎.  
 
@@ -1134,7 +1130,7 @@ Hé ! mon pere voyons ce tableau pretieux [194].
     MEDON.
 Il faut bien contenter⁎ ton esprit⁎ curieux,  
 Voy comme là dedans toutes choses finissent,  
-Comme les unes font que les autres perissent,                       
+Comme les unes font que les autres perissent,  
 Et de quelle façon la nature⁎ reduit  
 Aux termes du neant tout ce qu'elle produit.  
 D'abord tu cognois⁎ bien qu'à l'entour de la vigne [195],  
@@ -1154,7 +1150,7 @@ Sous la main de l'Autour, enfin se trouve prise,
 L'Aigle dessus les bois va prendre des Ramiers  
 Et les Cerfs sont dedans deschirez des limiers.  
 O Dieux ! que voy-je là ? non loin de ce fueillage  
-Une Bergere meurt à la fleur de son aage,                       
+Une Bergere meurt à la fleur de son aage,  
 C'est un jeune Seigneur qui feignant de chasser  
 Luy vient oster la vie en la voulant forcer.  
 Agarite prens garde où sa rage le porte  
@@ -1179,7 +1175,7 @@ Qu'en dis-tu mon enfant il n'est pas mal aisé,
 De sauver ton honneur⁎ par un rapt supposé,  
 Je te feray mener en un lieu de plaisance  
 Esloigné de la Cour et de la medisance,  
-Et je pourray sous-main te trouver un espoux,                   
+Et je pourray sous-main te trouver un espoux,  
 Dont le Roy quelque jour ne sera point⁎ jaloux.  
 
     AGARITE.
@@ -1201,12 +1197,12 @@ Soit que je vous regarde ou que je considere,
 Le grand bien⁎ pour l'estat⁎ que de vous on espère,  
 Il n'est point⁎ de Princesse, en qui sans vanité,  
 On puisse remarquer tant de prosperité.  
-Outre que tout le monde à bon droit⁎ vous honore,                   
+Outre que tout le monde à bon droit⁎ vous honore,  
 Tant de nobles partis vous regardent encore,  
 Qu'il ne vous reste plus. [203]  
 
     AMELISE.
-                Phenice taisez vous,  
+                        Phenice taisez vous,  
 Je sçay que vous allez me parler d'un espoux,  
 Mais ne me flattés⁎ point⁎ d'une esperance vaine,  
 Et ne me parlés plus de ce tiltre de Reine.  
@@ -1221,11 +1217,11 @@ Tandis [209] je me retire en mon apartement.
 Je reviendray bien tost.  
 
     LE ROY.
-            Les affaires civiles,  
+                    Les affaires civiles,  
 Nous tiennent prisonniers dans les plus belles villes,  
 Les Sceptres dont les Rois gouvernent les humains,  
 Sont d'un Cedre pesant qui suë entre leurs mains,  
-Ceux qui sont eslevés au faiste [211] d'un Empire,                       
+Ceux qui sont eslevés au faiste [211] d'un Empire,  
 Tiennent à mon advis le timon [212] d'un Navire,  
 Dont le fonds est d'Ebene et le reste d'un bois,  
 Que l'orage et la foudre enflament comme poix,  
@@ -1247,7 +1243,7 @@ Puisque vos Conseillers⁎ vous trompent quasi tous.
     LE ROY.
 Les Roys sur leurs sujets ne sont pas tousjours maistres,  
 On voit en tous estats⁎ des meschans et des traistres ;  
-Si mon Conseil⁎ n'est bon, pour le moins je n'eslis                  
+Si mon Conseil⁎ n'est bon, pour le moins je n'eslis  
 Que des hommes de bien⁎ lors que je l'establis.  
 
     PHENICE.
@@ -1270,7 +1266,7 @@ Que me veut cet Exempt qui nous vient interrompre ?
 
     EXEMPT.
 **Sire**, un pauvre Vieillard, et fort inquieté,  
-Desire de parler à vostre Majesté.                           
+Desire de parler à vostre Majesté.  
 
     LE ROY.
 Et bien faites le entrer, ma clemence m'oblige⁎  
@@ -1280,7 +1276,7 @@ D'avoir pitié de ceux que la Fortune⁎ afflige.
 C'est le Pere, escoutez à l'oreille. [218]  
 
     LE ROY.
-                Tant mieux.  
+                        Tant mieux.  
 
     MEDON.
 **Sire**, si ce discours⁎ ne vous est ennuyeux,  
@@ -1295,14 +1291,14 @@ Il se faut informer des personnes coupables.
 Sçachons [219] les Ravisseurs, afin de les punir   
 Et voyons quel chemin ils auront pu tenir. [220]  
 Celidor, c'est de toy que j'attens la vengeance,  
-Te chargeant tout exprés de ceste diligence [221].                      
+Te chargeant tout exprés de ceste diligence [221].  
 
     CELIDOR.
 Quiconque soit l'Autheur de ceste lascheté  
 Je respons de sa teste à vostre Majesté [222].  
 
 
-## ACTE II                        
+## ACTE II
 
 
 ### Scene premiere.
@@ -1317,7 +1313,7 @@ Faisoit icy des vers à la gloire d'un Dieu.
 Pour le moins j'ay trouvé sur de vieilles Armoires,  
 Ce Recueil où l'Amour a rangé ces memoires.  
 Il semble que l'Autheur ne les fit imprimer  
-Que pour me faire voir comme je dois aimer.                       
+Que pour me faire voir comme je dois aimer.  
 Dans ce livre tout plein d'agreables meslanges,  
 La Flatterie enseigne à donner des loüanges.  
 On apprend à parler avec des complimens  
@@ -1336,8 +1332,8 @@ En un mesme fueillet j'ay trouvé ce qu'il est,
 Et combien en son lieu [230] Policaste me plaist :  
 Mais les voicy tous deux à propos.  
 
-    LYZENE.    
-                C'est merveilles⁎  
+    LYZENE.
+                        C'est merveilles⁎  
 De voir une Beauté qui n'a point⁎ de pareille.  
 
     AGARITE.
@@ -1360,7 +1356,7 @@ Lisez où j'en estois, et vous sçaurez comment.
 Sonnet, d'un Gentilhomme aymé de sa Maistresse⁎.  
 
     LYZENE.
-Celuy-là meritoit d'estre mis sur la Presse⁎,                      
+Celuy-là meritoit d'estre mis sur la Presse⁎,  
 Acheve Policaste, il semble que l'Autheur  
 Eut dessein⁎ là dedans de parler du Lecteur.  
 
@@ -1375,7 +1371,7 @@ Et quand c'est tout de bon [233] que l'Amour nous surmonte [234],
 Ceste flame⁎ s'accroist au lieu de s'appaiser.  
 Alors pour adoucir mes amoureuses peines⁎  
 Et rafraischir le sang qui me boult dans les veines,  
-Elle me fait presser la neige de son sein.                           
+Elle me fait presser la neige de son sein.  
 Mais en cette action elle a beau me complaire⁎,  
 La Nature⁎ a formé ses Tetons à dessein⁎  
 Qu'il en sorte du laict, [235] et non pas de l'eau claire.  
@@ -1395,7 +1391,7 @@ Tournez donc le fueillet, sans chercher à la Table.
     LYZENE.
 Je suis d'un beau sujet espris si follement,  
 Que je prens à faveur⁎ le desdain et la haine,  
-Celle que je poursuis me hait mortellement                      
+Celle que je poursuis me hait mortellement  
 Et si [238] je n'oseroy l'appeller inhumaine.  
 Je fay ce que je puis pour son contentement⁎,  
 Elle ce qu'elle peut pour rengreiger [239] ma peine⁎,  
@@ -1414,13 +1410,13 @@ De me donner ainsi mon congé par escrit.
 
     AGARITE.
 Policaste va voir, je ne croy pas qu'il sorte,  
-Il nous peut escouter sur le sueil de la porte.                       
+Il nous peut escouter sur le sueil de la porte.  
 
     POLICASTE.
 Il est desja bien loing,  
 
     AGARITE.
-            laisse le donc courir,  
+                    laisse le donc courir,  
 Ce n'est pas avec luy que je veux discourir.  
 
     POLICASTE.
@@ -1428,7 +1424,7 @@ Je crains que de colere il descouvre la vie [243]
 Que nous faisons tous deux,  
 
     AGARITE.
-                Il crevera d'envie [244]  
+                        Il crevera d'envie [244]  
 Plustost que d'en parler : car un sot amoureux  
 Espere tost ou tard de se voir bien heureux   
 Et ne s'offense point⁎ quelque mal qu'on luy fasse.  
@@ -1445,14 +1441,14 @@ Ce seroit le moyen de me bien affliger.
     AGARITE.
 Que jamais ce penser n'interrompe nostre aise, [247]  
 
-    POLICASTE.    
+    POLICASTE.
 Pour n'y penser jamais, permets que je te baise.  
 
     AGARITE.
 Pourveu qu'en tout honneur⁎.  
 
     POLICASTE.
-                Je ne demande rien.  
+                        Je ne demande rien.  
 Autre chose, d'honneur⁎, je ne veux que le tien. [248]  
 
     AGARITE.
@@ -1475,7 +1471,7 @@ C'est trop recommencer : ha ! je me fascheray.
     POLICASTE.
 Je n'en veux plus qu'un autre, et puis je m'en iray.  
 
-    AGARITE.    
+    AGARITE.
 Despeschez-vous : je crains que Lyzene revienne.  
 
     POLICASTE.
@@ -1496,7 +1492,7 @@ ACTE II.
 
 
 ### Scene II.
-Lyzene, Corintie, Celidor.                 
+Lyzene, Corintie, Celidor.
 
 
     LYZENE. 
@@ -1505,7 +1501,7 @@ Ma sœur [257] ne parle point⁎ de son pere, ny d'elle,
 Peut-estre qu'à la fin.  
 
     CORINTIE.
-            Elle se resoudra  
+                    Elle se resoudra  
 De prendre le party que son Pere voudra,  
 Medon depuis long temps cognoist⁎ nostre famille.  
 
@@ -1516,7 +1512,7 @@ Adieu, si je l'espouse on te viendra querir.
     CORINTIE.
 Je ne sçay quoy, me dit qu'on le fera mourir,  
 Mais je n'oserois pas luy conter ce presage :  
-Et d'ailleurs pour le croire, il n'est pas assez sage :               
+Et d'ailleurs pour le croire, il n'est pas assez sage :  
 Dieu vueille qu'aucun mal ne luy puisse arriver.  
 Cependant [258] Celidor me doit venir trouver,  
 Et pourveu qu'à chasser il ne s'arreste guere, [259]  
@@ -1535,7 +1531,7 @@ Il est venu depuis me revoir plusieurs fois.
     CELIDOR.
 Beaux yeux qui m'arrestez le matin quand je passe,  
 Et me faites quitter le plaisir de la Chasse,  
-C'est icy que de vous je reçois le bon jour,                       
+C'est icy que de vous je reçois le bon jour,  
 Et non pas du Soleil qui luit sur ceste Tour.  
 
     CORINTIE.
@@ -1554,16 +1550,16 @@ Pourra rendre vostre ame et la mienne contente.
 Hé Dieu ! seroit-ce bien vostre Frere ?  
 
     CORINTIE.
-                    C'est luy.  
+                            C'est luy.  
 
-    CELIDOR.    
+    CELIDOR.
 Mais quoy ! ne doit-il pas retourner [265] d'aujourd'huy ?  
 
     CORINTIE.
 Possible de [266] huict jours.  
 
     CELIDOR.
-            O favorable absence !  
+                    O favorable absence !  
 Donne nous desormais un peu plus de licence⁎.  
 
     CORINTIE.
@@ -1579,7 +1575,7 @@ M'empesche de gouster nostre felicité.
     CELIDOR.
 Quelle difficulté vous empesche de rire ?  
 
-    CORINTIE.    
+    CORINTIE.
 Je n'ose descouvrir ce que mon cœur desire.  
 
     CELIDOR.
@@ -1601,7 +1597,7 @@ Il faut avec les yeux m'oster la cognoissance,
 Ou croire que de vous mon amour prend naissance.  
 Au reste, qui ne voit que vos yeux ravissans  
 Pour attirer les cœurs ont des charmes⁎ puissans ?  
-Ils jettent dans les miens de petites bluettes⁎,                      
+Ils jettent dans les miens de petites bluettes⁎,  
 Et des langues de feu⁎ qui ne parlent muettes : [274]  
 Les astres prennent tous leur clairté de la leur : [275]  
 C'est d'eux que le Ciel emprunte sa couleur.  
@@ -1612,7 +1608,7 @@ Qu'ils soient de bleu celeste au visage d'un Ange.
 Que vous estes flatteur⁎ !  
 
     CELIDOR.
-            Voila trop m'offenser [276]  
+                    Voila trop m'offenser [276]  
 
     CORINTIE.
 De parler autrement que vous n'osez penser.  
@@ -1621,15 +1617,15 @@ De parler autrement que vous n'osez penser.
 Ha ! vous le payerez,  
 
     CORINTIE.
-            Tout beau [277] je vous supplie.  
+                    Tout beau [277] je vous supplie.  
 
     CELIDOR.
 Il faut, [278]  
 
     CORINTIE.
-    Arrestez-vous : Hé Dieu ! quelle folie.  
+            Arrestez-vous : Hé Dieu ! quelle folie.  
 
-    CELIDOR.    
+    CELIDOR.
 Quand l'ame par les yeux exprime ses desirs  
 Pourquoy priver le corps de ses menus plaisirs ?  
 
@@ -1637,14 +1633,14 @@ Pourquoy priver le corps de ses menus plaisirs ?
 Ha ! que vous estes fin.  
 
     CELIDOR.
-            Quelle grande finesse  
+                    Quelle grande finesse  
 Trouvez -vous [279] en l'humeur⁎ d'une simple jeunesse ?  
 
     CORINTIE.
 Vous taschez de venir, [280]  
 
     CELIDOR.
-            Achevez sur un poinct⁎.  
+                    Achevez sur un poinct⁎.  
 
     CORINTIE.
 Où sans doute (Beau-fils) vous n'arriverez point⁎.  
@@ -1653,7 +1649,7 @@ Où sans doute (Beau-fils) vous n'arriverez point⁎.
 Possible [281] qu'au jardin dessous un beau fueillage,  
 Vous laisserez la fleur de vostre Pucelage.  
 
-    CORINTIE.    
+    CORINTIE.
 Ha ! vous ferez beaucoup d'obtenir un baiser. [282]  
 
     CELIDOR.
@@ -1662,7 +1658,7 @@ ACTE II.
 
 
 ### Scene III.
-Policaste, Agarite, le cocher.                 
+Policaste, Agarite, le cocher.
 
 
     POLICASTE.
@@ -1673,14 +1669,14 @@ J'ay marqué ce beau traict⁎ fueilletant vostre Livre.
 Où l'avez-vous laissé ?  
 
     POLICASTE.
-            Dedans mon Cabinet [283].  
+                    Dedans mon Cabinet [283].  
 
     AGARITE.
 Vous ne lirez donc point⁎ maintenant de Sonnet.  
 
     POLICASTE.
 Non, mais je pourray lire en plus beaux caracteres  
-Les merveilles⁎ d'Amour [284] et ses divins mysteres.                   
+Les merveilles⁎ d'Amour [284] et ses divins mysteres.  
 Où sçaurois-je mieux voir sa puissance qu'en vous ?  
 Elle y paroist escrite en un stile si doux,  
 Qu'il n'est Esprit⁎ humain qui me la puisse apprendre  
@@ -1698,12 +1694,12 @@ Ce n'est que pour aymer que nous sommes tous nez,
 Et je croy que les Dieux seroient ce que nous sommes,  
 Si l'on aymoit au Ciel à la façon des hommes.  
 
-    AGARITE.    
+    AGARITE.
 Vous voulez donc conclure, afin de me charmer⁎,  
 Qu'il n'est point⁎ de plaisir  
 
     POLICASTE.
-                Plus grand que de s'aymer.  
+                        Plus grand que de s'aymer.  
 C'est le souverain [286] bien⁎ des personnes bien nées.  
 
     AGARITE.
@@ -1718,15 +1714,15 @@ Ha ! c'est nostre Cocher : et bien quelle nouvelle
 A la ville ?  
 
     POLICASTE. 
-Il me faut retirer d'aupres d'Elle.  
+        Il me faut retirer d'aupres d'Elle.  
 
     LE COCHER.
 Monsieur m'a commandé de vous venir querir,  
-Et depuis mes chevaux n'ont cessé de courir :                       
+Et depuis mes chevaux n'ont cessé de courir :  
 Il vous escrit [289] ce mot.  
 
     AGARITE.
-            monstre que je le voye.  
+                    monstre que je le voye.  
 O le mauvais conseil⁎ que mon Pere m'envoye !  
 Cocher, fay tout le moins [290] repaistre tes chevaux.  
 Dieux, tousjours les Amans auront-ils des Rivaux ?  
@@ -1735,7 +1731,7 @@ Dieux, tousjours les Amans auront-ils des Rivaux ?
 Entendez⁎-vous parler de Lyzene ?  
 
     AGARITE.
-                mon Pere  
+                        mon Pere  
 Me le fait espouser, cela me desespere.  
 
     POLICASTE.
@@ -1745,7 +1741,7 @@ Un Pere ne le peut, mais il y faut songer.
     AGARITE.
 Si je n'ay qu'un lourdaut [292], le moyen que je l'ayme [293].  
 Lyzene, couvert d'or sera tousjours luy-mesme :  
-Il sera tousjours tel que je l'ay recogneu [294],                      
+Il sera tousjours tel que je l'ay recogneu [294],  
 Ha ! j'ayme mieux avoir Policaste tout nu.  
 
     POLICASTE.
@@ -1766,7 +1762,7 @@ Vous sçavez comme on danse aux nopces d'une fille [300].
 Le soir estant venu qu'espere mon Rival,  
 Il vous faut esquiver de la Presse⁎ du Bal.  
 Quand vous serez venuë à la rive du fleuve,  
-Où dans le mesme temps il faut que je me treuve,                   
+Où dans le mesme temps il faut que je me treuve,  
 Vous lairrez [301] vos habits, où [302] durant les chaleurs  
 Ceux qui se vont baigner se despoüillent des leurs.  
 Le monde qui verra cet indice funeste⁎,  
@@ -1782,14 +1778,14 @@ Ou du moins nous aymer durant longues années [307].
 
     AGARITE.
 Je trouve aucunement [308] ce dessein⁎ hazardeux [309]  
-Toutesfois l'entreprise est heureuse à tous deux.                   
+Toutesfois l'entreprise est heureuse à tous deux.  
 Mon cœur asseurez-vous [310] que l'affaire est concluë,  
 Adieu, c'est assez dit, m'y voilà resoluë.  
 ACTE II.
 
 
 ### Scene IV.
-Le Roy, Celidor.                         
+Le Roy, Celidor.
 
 
     LE ROY.
@@ -1808,7 +1804,7 @@ Pour couvrir [313] ce forfaict d'un amour volontaire [314].
 
     CELIDOR.
 En ce rapt vous avez le plus grand interest⁎  
-C'est un crime public, *Sire*, je suis tout prest                      
+C'est un crime public, *Sire*, je suis tout prest  
 D [315]'exterminer l'Autheur d'une faute si grande.  
 
     LE ROY.
@@ -1818,10 +1814,10 @@ Une heure auparavant [316] qu'on s'en aille coucher,
 Il le faut. [317]  
 
     CELIDOR.  
-        C'est tout dire. [318]  
+            C'est tout dire. [318]  
 
     LE ROY.
-                Et ravir l'Espousée.  
+                        Et ravir l'Espousée.  
 
     CELIDOR.
 *Sire* je voy desja l'affaire bien aisée.  
@@ -1833,7 +1829,7 @@ Juge⁎ que [319] peut un Roy qui t'ayme uniquement [320].
     CELIDOR. 
 Pourveu que ses faveurs⁎ soient un peu de durée,  
 Je verray pour long temps ma fortune⁎ asseurée.  
-Tandis qu' [321]un Gentil-homme a l'oreille d'un Roy [322],              
+Tandis qu' [321]un Gentil-homme a l'oreille d'un Roy [322],  
 A tous ses [323] courtisans il impose la Loy⁎,  
 Mais au premier revers de la moindre disgrace  
 Chacun la luy veut faire [324] et se mettre en sa place,  
@@ -1841,7 +1837,7 @@ De sorte qu'à la Cour, dés la premiere fois,
 Il se faut bien servir de la bonté des Rois.  
 
 
-## ACTE III.                         
+## ACTE III.
 
 
 ### Scene premiere.
@@ -1854,7 +1850,7 @@ D'un nœud comme celuy qui joint le corps et l'ame,
 Et l'anneau conjugal qui les serre est si fort  
 Que leur chaste amitié⁎ dure jusqu'à la mort.  
 Ainsi de temps en temps le monde multiplie [325]  
-Et la loy⁎ de nature⁎ [326] est tousjours accomplie,                   
+Et la loy⁎ de nature⁎ [326] est tousjours accomplie,  
 Par elle on voit tousjours les peres rajeunir,  
 Et l'on ne voit jamais les familles finir,  
 Mais il vaut mieux entrer dans quelque Monastere,  
@@ -1874,7 +1870,7 @@ Et bien-tost pour danser je vay prendre la botte,
 Afin de tesmoigner aux hommes de mon temps  
 Que je retourne encore à l'aage de vingt ans.  
 
-    LYZENE.    
+    LYZENE.
 Est ce que vous craignez quelque trait⁎ de malice,  
 Quand nous serons tous deux en l'amoureuse lice ?  
 Il n'en faut pas rougir, et cet œil rigoureux  
@@ -1887,7 +1883,7 @@ Excusez mon humeur⁎, je suis ainsi nourrie [332].
 Je vous adouciray.  
 
     AGARITE.
-        Laissez moy je vous prie.  
+                Laissez moy je vous prie.  
 
     MEDON.
 Volontiers [333] qu'elle songe aux prises [334] qu'à [335] ce soir  
@@ -1897,12 +1893,12 @@ Vous aurez avec elle et vous le pouvez voir.
 Est-il vray.  
 
     AGARITE.
-Je ne sçay.  
+    Je ne sçay.  
 
     MEDON.
-            Tu ne l'oses pas dire.  
+                    Tu ne l'oses pas dire.  
 
-    LIZENE.    
+    LIZENE.
 Elle a bien de la peine⁎ à s'empescher de rire.  
 
     AGARITE.
@@ -1926,7 +1922,7 @@ ACTE II.
 
 
 ### Scene II.
-Policaste, vestu en battelier, Agarite.                 
+Policaste, vestu en battelier, Agarite.
 
 
     POLICASTE. 
@@ -1943,7 +1939,7 @@ Couvertes de roseaux et de saules coiffées,
 Nymphes je m'en dédis je ne vous puis flatter⁎,  
 Agarite croiroit que je la veux quitter,  
 Elle en seroit jalouse, et diroit à part elle, [340]  
-Que je serois espris d'une flame⁎ nouvelle,                       
+Que je serois espris d'une flame⁎ nouvelle,  
 Ou du moins que le feu⁎ qui me brûle en aimant  
 Se pourroit amortir dedans vostre élement,  
 J'aime mieux vous laisser que de la mettre en peine⁎,  
@@ -1962,7 +1958,7 @@ Tombeaux, où les Defuncts sont pourris de vermine, [347]
 Sepulchres démolis que la Riviere mine,  
 Reliques du vieux Temps où les flots courroucez  
 Deterrent quelquesfois les pauvres Trespassez.  
-Piliers d'Antiquitez, vieilles Poutres, Masures [348] :                   
+Piliers d'Antiquitez, vieilles Poutres, Masures [348] :  
 Je vous remarqueray [349] dedans mes advantures⁎,  
 Et sur vos fondemens j'esleveray des Tours,  
 Que l'on verra durer autant que mes Amours,  
@@ -1982,7 +1978,7 @@ Quelqu'un la pourroit voir en passant dans les rues.
 Donc ô flambeaux des Cieux ne dissipez les nuës,  
 Ne chassez de la nuict que les spectres hideux,  
 Qui peuvent à present nous effrayer tous deux.  
-Sorciers, allez bien loing allumer vos bougies,                       
+Sorciers, allez bien loing allumer vos bougies,  
 Et courez autre part faire voir vos magies.  
 Vous Fantosmes errans qui n'avez point⁎ de corps,  
 N'en prenez point⁎ icy dans les bieres des morts.  
@@ -2022,7 +2018,7 @@ Amour, vas-tu la nuit sans prendre ton flambeau ?
 Voy-tu pas [364] que la peur me va mettre au Tombeau ?  
 Je te prie ayde moy d'un rayon de lumiere.  
 A ce coup⁎ je cognois⁎ qu'il entend⁎ ma priere :  
-Ces petits Feux⁎ Ardens qui font un peu de jour,                   
+Ces petits Feux⁎ Ardens qui font un peu de jour,  
 Ne peuvent estre nez que du flambeau d'Amour :  
 On dit que ces Feux⁎-là menent vers les Rivieres,  
 Quand pour se faire suivre ils charment⁎ nos paupieres.  
@@ -2042,7 +2038,7 @@ Sans doute [368] si je veux me rendre sur le port,
 Je trouveray ma vie où [369] je crains tant la mort.  
 Ha ! c'est trop consulter⁎ une affaire pressée [370],  
 La crainte que j'avois est à demy passée.  
-Mais j'entens⁎ sous mes pieds des os s'entrechoquer.              
+Mais j'entens⁎ sous mes pieds des os s'entrechoquer.  
 La mort en cet endroit me veut-elle attaquer ?  
 Je ne m'estonne⁎ point⁎ de son images⁎ blesme,  
 Par les fléches d'Amour elle meurt elle-même.  
@@ -2060,7 +2056,7 @@ Le Ciel en ma faveur⁎ est couvert d'un grand voile,
 Il ne voit que d'un œil, je ne voy qu'une estoile.  
 Les flots disent entr'eux qu'ils me veulent servir,  
 Et la terre consent qu'ils me viennent ravir.  
-Paresseux es-tu sourd es-tu mort sur la rive                      
+Paresseux es-tu sourd es-tu mort sur la rive  
 Si tu l'es, c'en est fait, il faut que je te suive.  
 Neantmoins un baiser te peut resusciter.  
 
@@ -2088,13 +2084,13 @@ Je reduiray bien-tost cette crainte en vapeur.
     POLICASTE.
 Tu visites les morts pour en croistre le nombre.  
 
-    AGARITE.    
+    AGARITE.
 Resveur, asseurément, tu me prens pour une Ombre :  
 Mais je vay te heurter au rencontre⁎ si fort,  
 Que tu diras. [374]  
 
     POLICASTE.
-        Hé Dieu ! je croyois estre mort.  
+                Hé Dieu ! je croyois estre mort.  
 
     AGARITE.
 Au moins jusques icy tu ne m'as pas cognuë⁎.  
@@ -2117,7 +2113,7 @@ Et ne me veux laisser ny perles ny rubis.
     POLICASTE.
 Que le jour sera beau si l'Aurore se pare  
 Des habis somptueux d'une beauté si rare⁎.  
-Mais laisse là ta coiffe et ton masque [378] ennuyeux, [379]                   
+Mais laisse là ta coiffe et ton masque [378] ennuyeux, [379]  
 Ceste nuit le serain [380] ne fait point⁎ mal aux yeux.  
 
     AGARITE.
@@ -2130,26 +2126,26 @@ La main en ce devoir est si prés des tetons,
 Qu'on ne peut. [383]  
 
     AGARITE.
-        Laisse moy. [384]  
+            Laisse moy. [384]  
 
     POLICASTE.
-                Pourquoy te laisseray-je ?  
+                        Pourquoy te laisseray-je ?  
 Miracle ! j'ay trouvé sur deux pommes de neige  
 Deux petits glands de feu⁎. [385]  
 
     AGARITE.
-                Sois sage.  
+                    Sois sage.  
 
     POLICASTE.
-                    En cet endroit.  
+                            En cet endroit.  
 Comme [386] peux-tu sentir plus de chaud que de froid ?  
 
-    AGARITE.    
+    AGARITE.
 Mon Dieu ! que faisons nous si long temps sur la rive,  
 J'apprehende le jour.  
 
     POLICASTE.
-        Ne crain [387] point⁎ qu'il arrive.  
+                Ne crain [387] point⁎ qu'il arrive.  
 
     AGARITE.
 Les eaux ne coulent pas si viste que le temps. [388]  
@@ -2161,10 +2157,10 @@ Tu verras à la fin [389] que nous serons contens.
 Despeschons.  
 
     POLICASTE.
-        As-tu fait. [390]  
+            As-tu fait. [390]  
 
     AGARITE.
-                Allons me voila preste.  
+                        Allons me voila preste.  
 
     POLICASTE.
 Afin que le serein [391] ne te nuise à la teste,  
@@ -2173,7 +2169,7 @@ Entre dans la cabane [392] et laisse-moy ramer.
     AGARITE.
 Au moins que ce basteau n'aille point⁎ dans la mer.  
 
-    POLICASTE.    
+    POLICASTE.
 Peureuse nous n'irons que dans la place forte,  
 Où le vent est d'accord que [393] ce fleuve nous porte.  
 
@@ -2181,7 +2177,7 @@ Où le vent est d'accord que [393] ce fleuve nous porte.
 J'ay peur que cet accord ne tienne.  
 
     POLICASTE.
-                Pour le moins  
+                        Pour le moins  
 En le voulant passer ils ont pris deux tesmoins.  
 
     AGARITE.
@@ -2191,7 +2187,7 @@ Je meure [394]… la riviere est bonne larronnesse [395].
 Comment. [396]  
 
     AGARITE.
-        Pour me ravir elle use de finesse,  
+                Pour me ravir elle use de finesse,  
 Je n'entends⁎ plus le bruit⁎ de son flus et reflus.  
 
     POLICASTE.
@@ -2200,7 +2196,7 @@ ACTE II.
 
 
 ### Scene III.
-Medon, Lizene, Corintie.                
+Medon, Lizene, Corintie.
 
 En ceste Scene est representé le Balet des Quatre-vents, lequel est dansé pour faire tuer Lyzene le soir de ses nopces par un stratageme inventé par Celidor.
 
@@ -2209,11 +2205,11 @@ En ceste Scene est representé le Balet des Quatre-vents, lequel est dansé pour
 Il faut voir ce Balet.  
 
     LIZENE.
-            Je commence d' [397]entendre⁎  
+                    Je commence d' [397]entendre⁎  
 Le son des instrumens.  
 
     MEDON.
-            Prenons place mon Gendre.  
+                    Prenons place mon Gendre.  
 
     CORINTIE.
 Les voicy j'entrevoy la clairté d'un flambeau.  
@@ -2221,7 +2217,7 @@ Les voicy j'entrevoy la clairté d'un flambeau.
     LIZENE.
 Chacun dit que la Cour n'a rien veu de si beau.  
 
-    MEDON.    
+    MEDON.
 A propos il faudroit appeller l'espousée.  
 
     LIZENE.
@@ -2240,21 +2236,21 @@ Prenez garde Monsieur ils sont tous à la porte.
 N'ont-ils point⁎ de cartel [400].  
 
     LIZENE.
-                Le voicy qu'on l'apporte. [401]  
+                        Le voicy qu'on l'apporte. [401]  
 
     CORINTIE.
 Mon frere je les voy.  
 
     MEDON.
-            Lyzene je ne puis  
+                    Lyzene je ne puis  
 En faire la lecture à la place où je suis.  
 
     LIZENE.
 Donnez-moy. [402]  
 
     MEDON.
-        Quel plaisir en auroient les Poëtes  
-Si pour lire des Vers je prenois mes lunettes.                       
+                Quel plaisir en auroient les Poëtes  
+Si pour lire des Vers je prenois mes lunettes.  
 
     LIZENE.
 
@@ -2275,7 +2271,7 @@ Nous pouvons tout dessus leurs Ames.
 
 Pour nous garantir du trespas  
 Que nous pourroient causer leurs œillades mortelles,  
-Nous n'allons que la nuict et pour ne les voir pas                  
+Nous n'allons que la nuict et pour ne les voir pas  
 Nous tuons toutes les chandelles.  
 
 Les pistollets que nous avons  
@@ -2295,7 +2291,7 @@ C'est assez taisons-nous, car ils vont commencer.
 Icy se danse le Ballet
 
 
-    CELIDOR *masqué representant l'un des Quatre-vents, le Balet finy dit les vers suyvants.*    
+    CELIDOR *masqué representant l'un des Quatre-vents, le Balet finy dit les vers suyvants.*
 Amis le coup⁎ est fait, avant qu'il resuscite [407]  
 Un autre jouyra des amours d'Agarite.  
 Cependant [408] sauvons-nous puisqu'on ne peut trouver  
@@ -2307,32 +2303,32 @@ Quelqu'un rallumez nous les chandelles esteintes, [409]
 O Dieux ! ce n'est pas feinte⁎.  
 
     CORINTIE.
-                O Ciel ! tout est perdu,  
+                        O Ciel ! tout est perdu,  
 Mon frere aupres de nous est tout roide estendu [410].  
 
     MEDON.
 O scandaleuse [411] danse !  
 
     CORINTIE.
-            O nopce infortunée⁎ !  
+                    O nopce infortunée⁎ !  
 
     MEDON.
 O malheureuse nuict !  
 
-    CORINTIE.    
-            O funeste⁎ journée !  
+    CORINTIE.
+                    O funeste⁎ journée !  
 
     MEDON.
 Helas ! je vay sçavoir. [412]  
 
     CORINTIE.
-            Ha ! je meurs de douleur.  
+                    Ha ! je meurs de douleur.  
 
     MEDON.
 Ce que l'on aura fait de ma fille. [413]  
 
     CORINTIE.
-                O malheur !  
+                        O malheur !  
 Ou plustost perfidie horrible à la memoire !  
 Execrable homicide et dificile à croire,  
 Mon frere ay-je perdu ce nom plein de douceur ?  
@@ -2342,7 +2338,7 @@ Hé Dieu ! peut-on mourir que [414] l'on ne soit malade,
 O Cieux ! l'horible coup⁎ ! c'en est fait il est mort,  
 O coup⁎ de trahison ! que tu me fais de tort.  
 
-    MEDON.    
+    MEDON.
 Bons Dieux ! que ferons nous ma fille est enlevée,  
 Las ! j'ay cherché par tout et ne l'ay point⁎ trouvée.  
 
@@ -2351,10 +2347,10 @@ Amis emportés nous dans un mesme cercueil,
 Venez m'ayder.  
 
     MEDON. 
-        Allons nous revestir de dueil.  
+                Allons nous revestir de dueil.  
 
 
-## Acte IIII.                        
+## Acte IIII.
 
 
 ### Scene premiere.
@@ -2367,7 +2363,7 @@ Les poissons clairvoyants n'entrent point⁎ dans ma Nasse,
 Mais apres que les vents ont troublé nos marets [418],  
 Et que l'egout du Ciel inondant nos guerets [419],  
 A coulé dans ce fleuve une espaisse lécive [420]  
-C'est alors qu'il est bon de pescher à la rive.                       
+C'est alors qu'il est bon de pescher à la rive.  
 Hier soir il fit un temps qui coucha nos moissons.  
 Il aura dans l'eau trouble estourdy les poissons.  
 Prenons chacun un Croc qui nous serve de sonde,  
@@ -2381,7 +2377,7 @@ L'adresse fait autant que la force du corps.
 Sens-tu dans le profond [422] nostre nasse ?  
 
     [PESCHEUR] II.
-                    Courage⁎ !  
+                            Courage⁎ !  
 Nous allons voir bien-tost des Anguilles en cage.  
 O la belle ! Compere [423] apprestez nostre seau.  
 
@@ -2392,7 +2388,7 @@ Il est froid comme glace, et luisant comme verre.
     [PESCHEUR] II.
 Prenez garde, il eschappe à celuy qui le serre.  
 
-    [PESCHEUR] I.    
+    [PESCHEUR] I.
 Meschante, je m'en vay te percer le gosier  
 Et passer à travers une branche d'Osier.  
 
@@ -2412,15 +2408,15 @@ Je le veux, allons voir l'Hostesse du Village.
 Tu mangeras ta part de la pesche  
 
     [PESCHEUR] II.
-                Vrayment  
+                        Vrayment  
 Je l'entens⁎ bien ainsi mon Parrain, autrement,  
 
     [PESCHEUR] I.
 Garson, voicy de quoy s'estonner⁎  
 
     [PESCHEUR] II.
-                Au contraire  
-Il se faut resjouyr [424] d'une si bonne affaire.                       
+                        Au contraire  
+Il se faut resjouyr [424] d'une si bonne affaire.  
 
     [PESCHEUR] I.
 Ces habits que tu vois si riches⁎ et si beaux,  
@@ -2434,7 +2430,7 @@ Ils nous vaudront l'argent de vingt paires de bœufs,
 Prenons les.  
 
     [PESCHEUR] I.
-        Si tu veux que l'on te mene pendre.  
+                Si tu veux que l'on te mene pendre.  
 
     [PESCHEUR] II.
 Ho ! Ho ! que dites vous je ne veux pas les prendre.  
@@ -2442,14 +2438,14 @@ Ho ! Ho ! que dites vous je ne veux pas les prendre.
     [PESCHEUR] I.
 Sçay-tu que [428] nous ferons, retourne à la maison.  
 
-    [PESCHEUR] II.    
+    [PESCHEUR] II.
 Il vaut mieux s'y tenir que d'aller en prison.  
 
     [PESCHEUR] I.
 Cependant. [429]  
 
     [PESCHEUR] II.
-        N'ayez peur que l'on m'en divertisse.  
+                N'ayez peur que l'on m'en divertisse.  
 
     [PESCHEUR] I.
 Je m'en vay de ce cas advertir la justice.  
@@ -2457,7 +2453,7 @@ ACTE IIII.
 
 
 ### Scene II.
-Le Roy, Celidor, Medon, Phenice, le Pescheur.                 
+Le Roy, Celidor, Medon, Phenice, le Pescheur.
 
 
     LE ROY. 
@@ -2465,7 +2461,7 @@ Un desir violent me presse de la voir,
 Où croy-tu qu'elle soit [430] ?  
 
     CELIDOR.
-            On ne le peut sçavoir.  
+                    On ne le peut sçavoir.  
 
     LE ROY.
 Je l'auray morte ou vive, ou ma juste colere  
@@ -2479,7 +2475,7 @@ Sire, si je sçavois ce qu'elle est devenuë.
     LE ROY.
 Ta bonne volonté ne m'est que trop cognuë⁎,  
 Il faut que ce viellard qui la fit esquiver  
-En quel lieu qu'elle soit me la fasse trouver.                       
+En quel lieu qu'elle soit me la fasse trouver.  
 Escoutons ces raisons, [431] le voicy. Miserable.  
 Est-il vray que tu sois de deux meurtres coupable ?  
 Pour celuy de ton gendre il n'en faut plus douter  
@@ -2487,7 +2483,7 @@ Sur un autre plus grand je te veux escouter,
 Qu'as-tu fait de ta fille ?  
 
     MEDON.
-            O noire calomnie !  
+                    O noire calomnie !  
 
     LE ROY.
 On n'est pas deschargé des crimes que l'on nie :  
@@ -2505,7 +2501,7 @@ Tu nous veux abuser de propos superflus.
     MEDON.
 Sire, pour me purger d'une telle imposture [432]  
 Il ne faudroit qu'ouyr [433] la voix de la nature⁎. [434]  
-On a ravy ma fille et fait un assassin [435]                          
+On a ravy ma fille et fait un assassin [435]  
 Mais je n'ay point⁎ trempé dans ce mauvais dessein⁎.  
 
     LE ROY.
@@ -2526,12 +2522,12 @@ Sire, que j'ay trouvé dessus le bord de l'eau
 Des vestemens. [439]  
 
     LE ROY.
-        Voicy de mauvaises nouvelles.  
+                Voicy de mauvaises nouvelles.  
 
     LE PESCHEUR.
 Tels qu'on en voit porter aux jeunes Damoiselles.  
 
-    MEDON.     
+    MEDON. 
 Las, peut-estre ma fille, haissant son espoux [440]  
 Au soir pour se noyer se dérobba de nous.  
 
@@ -2541,13 +2537,13 @@ Examine à son tour de plus prés cet indice,
 Pescheur viens nous mener au rivage.  
 
     MEDON.
-                    Les Cieux  
+                            Les Cieux  
 N'influent dessus moy que la haine des Dieux. [441]  
 ACTE IIII.
 
 
 ### Scene III.
-Policaste, Agarite.                    
+Policaste, Agarite.
 
 
     POLICASTE.
@@ -2564,7 +2560,7 @@ Que je suis trop discret [444] ou jaloux de moy-mesme.
 
     AGARITE.
 Si tes deportemens [445] ressemblent [446] tes discours⁎  
-Vrayment j'auray sujet de le dire tousjours,                       
+Vrayment j'auray sujet de le dire tousjours,  
 Et jamais avec toy je n'auray de divorce⁎.  
 
     POLICASTE.
@@ -2579,7 +2575,7 @@ Agarite, j'entens⁎ demeurer un quart d'heure
 Sur ceste belle gorge.  
 
     AGARITE.
-            Ha ! tu veux que je meure,  
+                    Ha ! tu veux que je meure,  
 C'est trop en voilà plus que je ne t'ay promis.  
 
     POLICASTE.
@@ -2593,7 +2589,7 @@ Amour ne seroit plus à l'aage d'innocence.
 Estant comme je suis à l'aage de raison,  
 Il ne te pourroit faire aucune trahison.  
 
-    AGARITE.    
+    AGARITE.
 Les Amans font tousjours tant de belles promesses.  
 
     POLICASTE.
@@ -2615,7 +2611,7 @@ Comme si dans ce fleuve elle s'estoit fonduë,
 Appelle-moy volage, et sur le bord de l'eau  
 Accuse d'inconstance un debile cerveau.  
 
-    POLICASTE.    
+    POLICASTE.
 Bien que nous ayons tous le cerveau fort humide,  
 Amour n'a point⁎ en moy de siege plus solide :  
 Et pourtant je n'obtiens que le simple baiser  
@@ -2640,14 +2636,14 @@ ACTE IIII.
 
 
 ### Scene IIII.
-Le Roy, Medon, Phenice, le Pescheur.                 
+Le Roy, Medon, Phenice, le Pescheur.
 
 
     LE ROY.
 Nous voicy sur le lieu.  
 
     MEDON.
-            Ha ! je cognoy⁎ ma perte.  
+                    Ha ! je cognoy⁎ ma perte.  
 De ces mesmes habits ma fille estoit couverte [457] :  
 Amis soustenez-moy, je tombe en pasmoison.  
 
@@ -2660,8 +2656,8 @@ Tes mains en un besoin [458] te serviront d'Aiguiere [459].
 Tenez voila de l'eau tant qu'il en peut tenir  
 Dans le creux de ma main.  
 
-    PHENICE.    
-                Faisons-le revenir.  
+    PHENICE.
+                        Faisons-le revenir.  
 
     LE ROY.
 Oyseaux qui vous cachez dans les vieilles masures,  
@@ -2679,7 +2675,7 @@ Celle que je demande à ce traistre Element ?
 O Mer ! devois-tu [463] pas engloutir tout ce fleuve  
 Qui d'un si beau sujet fait la nature⁎ veufve.  
 Et vous tristes Rochers d'où naissent les ruisseaux,  
-Qui vont perdre leur nom dans l'abysme des eaux,                   
+Qui vont perdre leur nom dans l'abysme des eaux,  
 Pourquoy d'un frein glacé n'arrestiez-vous leurs courses,  
 Ou ne les faisiez-vous remonter à leurs sources ?  
 Ha ! c'est qu'en ceste nuict si pleine de malheurs  
@@ -2696,7 +2692,7 @@ Si jadis il sortit d'une conque marine [465]
 Il est allé trouver sa premiere origine.  
 Et dans ce desespoir se jettant sous les joncs  
 Il a voulu donner ses aisles aux plongeons [466].  
-Pescheur en cet endroit ne jette plus ta ligne :                       
+Pescheur en cet endroit ne jette plus ta ligne :  
 Purge plustost les eaux de toute herbe maligne,  
 Et croy que les poissons qui vivent dans leurs cours  
 Desormais en ce lieu seront autant d'amours,  
@@ -2715,7 +2711,7 @@ Et vous feray baiser à travers un christal.
 Qu'on prenne ces habits qu'on les parfume d'Ambre [470],  
 Et que tout de ce pas [471] on les porte en ma chambre,  
 J'y veux voir Agarite, et là de tous costez,  
-En sa belle Effigie adorer ses beautez.                           
+En sa belle Effigie adorer ses beautez.  
 Je veux que l'on luy dresse un beau lict de parade [472],  
 Où de dueil et d'ennuy je devienne malade :  
 Mais le pauvre Medon est enfin revenu.  
@@ -2730,7 +2726,7 @@ ACTE IIII.
 
 
 ### Scene V.
-Corintie vestuë en dueil, Celidor en pelerin [474].            
+Corintie vestuë en dueil, Celidor en pelerin [474].
 
 
     CORINTIE. 
@@ -2742,7 +2738,7 @@ Le moyen [478] qu'en ce lieu s'exhalent mes souspirs
 Sans troubler à l'entour le rire des zephirs [479],  
 Les champs qui sont ailleurs tapissez de verdure,  
 Souffrent⁎ icy leur part des peines⁎ que j'endure,  
-Et les fleurs que mes yeux regardent par mespris,                   
+Et les fleurs que mes yeux regardent par mespris,  
 Contractent la couleur des atours que j'ay pris.  
 Ce Boccage attristé du crespe que je porte,  
 D'un vestement de dueil couvre sa fueille morte.  
@@ -2761,7 +2757,7 @@ Celidor là dessus ne m'eut interrogée. [483]
 Et je n'eusse pas sceu le crime qu'il a fait.  
 Crime, helas ! dont ses yeux m'ont plus que satisfait [484].  
 Il faudroit qu'il eust eu la poitrine de Roche  
-Pour tuer celuy-là qui m'estoit le plus proche.                       
+Pour tuer celuy-là qui m'estoit le plus proche.  
 Mais jamais par malheur il ne l'avoit cognu⁎,  
 Encore que chez nous il fut souvent venu.  
 Pour ce que [485] ma beauté luy fut tousjours si chere,  
@@ -2782,8 +2778,8 @@ Qui par son amertume efface les pechez.
 Ha ! je vous retiendray.  
 
     CELIDOR.
-                Helas ! ne me touchez  
-Que [490] je ne sois purgé d'un meurtre detestable.                   
+                        Helas ! ne me touchez  
+Que [490] je ne sois purgé d'un meurtre detestable.  
 
     CORINTIE.
 L'ignorance et l'amour l'ont rendu pardonnable.  
@@ -2807,7 +2803,7 @@ Cet Archer [491] qui n'aguere y faisoit quelques bresches,
 Par dessous mon habit ne tire plus de flèches,  
 
     CORINTIE
-Ce Chasseur qui souvent m'est venu visiter,                       
+Ce Chasseur qui souvent m'est venu visiter,  
 Encore par les champs se fait-il redouter.  
 
     CELIDOR.
@@ -2829,7 +2825,7 @@ Cruel⁎ ! pourrois-tu faire une plus grande offense
 Que me priver ainsi de ta chere presence ?  
 Ne croy pas que je vueille attendre ton retour,  
 Je me sçauray servir des conseils⁎ de l'Amour.  
-Si je me déguisois ? Dieux comme les pensées,                       
+Si je me déguisois ? Dieux comme les pensées,  
 Nous viennent promptement aux affaires pressees.  
 Je recevray dans l'ame un plaisir singulier  
 De le suivre par tout en jeune Cavalier,  
@@ -2846,7 +2842,7 @@ ACTE IIII.
 
 ### Scene VI.
 
-    LE ROY *furieux⁎.*    
+    LE ROY *furieux⁎.*
 Traistres [498] sortez d'icy, mes fureurs⁎, et mes rages  
 Me servent-elles pas d'Officiers et de pages⁎ ?  
 Voulez-vous par despit irriter vostre Roy ?  
@@ -2859,7 +2855,7 @@ Engeance de Sorciers ! Fantosmes effroyables,
 Qui nous faites haïr les objects⁎ plus aimables,  
 Venez m'empoisonner de fiel et de rancœur,  
 Et chassez le Tyran⁎ qui regne dans mon cœur.  
-Faites moy confesser en l'ardeur qui m'enflame,                   
+Faites moy confesser en l'ardeur qui m'enflame,  
 Que je n'ay plus d'amour qui ne soit tout de flame⁎ !  
 Demons, ouvrez le sein d'un Monarque amoureux,  
 Et faites y l'Enfer d'un Prince malheureux.  
@@ -2872,7 +2868,7 @@ Et mes cris insolens irritent les Dieux mesmes ?
 Faux Dieux que les Mortels ont formé de leurs doigts  
 Là haut comme icy bas ils vous ont fait de bois. [502]  
 Puisque pas un de vous n'est sensible à l'outrage  
-Que vomit [503] contre luy ma furie et ma rage…                      
+Que vomit [503] contre luy ma furie et ma rage…  
 Ha ! c'est icy le trosne où la Divinité  
 Ne souffre⁎ que je vive avec impunité.  
 Mais, ô saincte Beauté, que seule je reclame,  
@@ -2894,7 +2890,7 @@ Et benira la main de l'ouvrier [509] qui l'a fait :
 Mes yeux contempleront cette belle effigie,  
 Où l'art semble avoir fait quelques traicts⁎ de magie,  
 Figurant [510] ma Deesse avec tant de rapport [511]  
-Qu'on croit mesme de prés que c'est elle qui dort.               
+Qu'on croit mesme de prés que c'est elle qui dort.  
 O divine Beauté ! depuis que tu reposes  
 On n'a point⁎ veu mourir les œillets ny les roses,  
 Ton front majestueux, ton visage vermeil  
@@ -2913,7 +2909,7 @@ Beaux cheveux qui sçauroit que vous fustes jadis
 Les cheveux du Soleil croiroit ce que je dis,  
 Qui verroit en ce lieu comme je vous adore,  
 Verroit idolatrer les atours de l'Aurore,  
-Il seroit amoureux de tout ce que je voy,                   
+Il seroit amoureux de tout ce que je voy,  
 Mais ce mol [517] entretien est indigne d'un Roy,  
 O paroles de femme, un homme de courage⁎  
 Se deut-il eschaper a [518] tenir ce langage⁎ ?  
@@ -2929,7 +2925,7 @@ C'est de perdre le soin⁎ de venir tous les jours
 T'entretenir icy de tes folles amours [521].  
 
 
-## Acte V.                         
+## Acte V.
 
 
 ### Scene premiere.
@@ -2941,7 +2937,7 @@ Tant de braves [522] Seigneurs que le Roy tient à gages,
 Et que l'on voit suivis d'une troupe de Pages⁎,  
 Ne s'imaginent pas, me voyant [523] à la Cour,  
 Que je mene avec toy la prudence [524] et l'amour,  
-Si mon dessein⁎estoit seulement de paroistre [525],              
+Si mon dessein⁎estoit seulement de paroistre [525],  
 La sottise et l'orgueil me feroient mieux connoistre⁎,  
 Le vice a plus de train que non pas la vertu⁎,  
 Chacun de ses couleurs desire estre vestu [526],  
@@ -2960,7 +2956,7 @@ Me monstre les moyens de passer en tous lieux,
 N'agueres qu' [534] avec toy j'estois à la Campagne,  
 Dedans ce beau Chasteau, que la Riviere bagne [535],  
 Le Dieu que nous servons [536] me montroit les détours,  
-Et les chemins secrets⁎ pour sortir de nos tours.                   
+Et les chemins secrets⁎ pour sortir de nos tours.  
 Il m'a dit le premier cette nouvelle heureuse,  
 Que le Roy languissoit d'une fiévre amoureuse,  
 Et m'a fait esperer, qu'en luy donnant secours,  
@@ -2981,12 +2977,12 @@ La plus grande faveur⁎ que le Roy me peut faire,
 Dépend de t'espouser.  
 
     AGARITE.
-            C'est le juste salaire  
+                    C'est le juste salaire  
 Que j'attends d'un Seigneur de vostre qualité.  
 
     POLICASTE.
 Page⁎, vous m'alleguez vostre fidelité⁎.  
-Quoy que le vermeillon vous monte sur la face,                   
+Quoy que le vermeillon vous monte sur la face,  
 Encore en ce discours⁎ vous avez bonne grace⁎ [542].  
 
     AGARITE.
@@ -3001,7 +2997,7 @@ Et l'on doit trouver bon qu'ainsi je te déguise.
 Mais direz-vous au Roy qui je suis ?  
 
     POLICASTE.
-                Je diray,  
+                        Je diray,  
 Si je m'y voy contraint, ce que j'adviseray.  
 Ce pendant je voudrois avoir trouvé Phenice,  
 Je suis bien asseuré que sçachant l'artifice  
@@ -3015,11 +3011,11 @@ Dieux ! faites réussir cette haute entreprise.
 C'est luy-mesme, il conduit la Princesse Amelise :  
 Allons le salüer.  
 
-    AGARITE.    
-        Je vous suis.  
+    AGARITE.
+            Je vous suis.  
 
     POLICASTE. 
-                Monseigneur.  
+                        Monseigneur.  
 J'interprete déja ce rencontre⁎ à bon-heur,  
 En ce Palais Royal, le dessein⁎ qui m'ameine,  
 Est de guerir le Roy, vous donnant une Reine  
@@ -3041,7 +3037,7 @@ Qui par aucun secret⁎ ne peut estre guerie.
     POLICASTE.
 Cet amour déreglé, qui luy passe en fureur⁎,  
 D'ordinaire provient d'une divine erreur,  
-Et ne se guerit point⁎ comme une maladie,                   
+Et ne se guerit point⁎ comme une maladie,  
 Dont l'assoupissement rend nostre ame étourdie.  
 Les fièvres, dans nos corps, s'engendrent des humeurs⁎,  
 Mais telles passions⁎ s'engendrent de nos mœurs [546]:  
@@ -3065,10 +3061,10 @@ Il nous le pourra dire en un lieu moins suspect,
 Où nous le traitterons avec plus de respect.  
 On ne sçauroit icy recevoir la Noblesse,  
 Selon qu'elle merite [550], à cause de la presse⁎.  
-Entrons dans le Palais.                               
+Entrons dans le Palais.  
 
     AMELISE.
-            Venez m'entretenir,  
+                    Venez m'entretenir,  
 Du loüable dessein⁎ qui vous a fait venir.  
 ACTE V.
 
@@ -3086,7 +3082,7 @@ Me peut mettre à l'abry de [552] son fueillage vert.
     CELIDOR.
 En fin, m'accoustumant à baiser les fontaines,  
 J'étancheray ma soif de leurs eaux souveraines [553].  
-Et me desalterant de leur fraische liqueur,                   
+Et me desalterant de leur fraische liqueur,  
 J'amortiray le feu⁎ que je sens dans le cœur.  
 Je me trompe, les eaux n'augmentent que ma braise,  
 Et mon amour renaist des Nymphes que je baise.  
@@ -3107,11 +3103,11 @@ Ta flame⁎ dans cette eau ne s'est point⁎ amortie,
 Tu ne t'en peux dédire.  
 
     CELIDOR.
-            Il est vray, je l'ay dit  
+                    Il est vray, je l'ay dit  
 A l'Echo.  
 
-    CORINTIE.    
-    Tu voulois qu'elle [556] te respondit,  
+    CORINTIE.
+            Tu voulois qu'elle [556] te respondit,  
 Mais en cet entretien ma voix l'a prevenuë.  
 
     CELIDOR.
@@ -3121,7 +3117,7 @@ Helas ! pourquoy dés lors ne vous ay-je cogneuë⁎ ?
 Pourveu que je t'emmeine, il n'importe.  
 
     CELIDOR.
-                    Vrayment.  
+                            Vrayment.  
 Je vous suivray par tout en qualité d'Amant,  
 
     CORINTIE.
@@ -3138,7 +3134,7 @@ Voyant un Cavalier qui vient l'épée au poing.
 
     CORINTIE.
 Ta volonté suffit, les Dieux pour une offense,  
-Sont déja satisfaits aussi tost qu'on y pense.                   
+Sont déja satisfaits aussi tost qu'on y pense.  
 
     CELIDOR.
 Helas ! vous dites vray, les Dieux ont eu pitié,  
@@ -3163,8 +3159,8 @@ Vous avez beu trop chaut, vous avez trop marché,
 Mais vous ne serez pas demie heure [561] couché,  
 Que vous serez guery.  
 
-    CELIDOR.    
-            Soustenez-moy, je pasme.  
+    CELIDOR.
+                    Soustenez-moy, je pasme.  
 
     CORINTIE.
 Hé, Dieux ! entre mes bras voulez-vous rendre l'ame.  
@@ -3175,11 +3171,11 @@ Pourquoy, sans me tuer, vous laissez-vous mourir ?
 Ne vous effrayez point⁎.      
 
     CORINTIE.
-            D'où vient cette foiblesse,  
+                    D'où vient cette foiblesse,  
 Qui vous rend si defait ?  
 
     CELIDOR.
-            Peu de chose [562] me blesse⁎,  
+                    Peu de chose [562] me blesse⁎,  
 Et toutefois mes sens me vont abandonner,  
 Si je n'ay le plaisir de vous deboutonner. [563]  
 
@@ -3189,7 +3185,7 @@ Je vous entends⁎, vos yeux meurent de jalousie.
     CELIDOR.
 Pour ne vous point⁎ mentir, j'ay dans la fantaisie [564]  
 De vous prendre au collet, et d'ouvrir ce pourpoint [565]  
-Pour voir à découvert ce que je ne voy point⁎.                  
+Pour voir à découvert ce que je ne voy point⁎.  
 
     CORINTIE.
 Est-ce que vous doutez que je sois Corintie ?  
@@ -3211,14 +3207,14 @@ Je t'abandonneray ce que j'ay de plus cher,
 Ce pendant [567] aimons-nous.  
 
     CELIDOR.
-                Ha ! que ce temps me dure [568] ?  
+                        Ha ! que ce temps me dure [568] ?  
 Et qu'il fait bon icy nous coucher sur la dure [569].  
 
     CORINTIE.
 Nous n'avons point⁎ de droit⁎ sur les terres d'autruy.  
 Debout, il nous faut rendre à la Cour aujourd'huy.  
 
-    CELIDOR.    
+    CELIDOR.
 Las ! sans vous obeïr, le moyen [570] que je vive ?  
 Allons, puis qu'il vous plaist, il faut que je vous suive.  
 
@@ -3228,7 +3224,7 @@ Avec toy le chemin ne me sçauroit durer.
 ACTE V.
 
 
-### Scene derniere                
+### Scene derniere
 Le Roy, Policaste, Amelise, Phenice, Agarite, Medon, l'exempt, Celidor, Corintie.
 
 
@@ -3237,7 +3233,7 @@ En fin cette Beauté, dont je suis idolatre,
 A changé ma fureur⁎ en une humeur⁎ folastre,  
 Je ne sens plus en moy ce transport [571] furieux⁎,  
 Qui me venoit de voir [572] son pourtrait glorieux⁎ [573],  
-Ma passion⁎ n'est plus dans la melancolie,                   
+Ma passion⁎ n'est plus dans la melancolie,  
 Et mon amour n'est plus qu'une douce folie,  
 Qui porte mon esprit⁎ à parler seulement,  
 A des choses qui n'ont, ny sens [574], ny mouvement.  
@@ -3257,7 +3253,7 @@ Icy puisse le Ciel respandre tant de Baume,
 Qu'il soit en Orient pl us cher qu'en mon Royaume :  
 Icy brusle tousjours tant de Myrrhe [578] et d'Encens,  
 Que l'on flaire du Ciel les odeurs que je sens,  
-Comme si l'on avoit parfumé toutes choses                  
+Comme si l'on avoit parfumé toutes choses  
 De l'essence des lys, et de celle des roses.  
 O beau visage aimé d'un Prince malheureux,  
 Ha ! vraiment ton bel œil ne m'est plus rigoureux.  
@@ -3280,10 +3276,10 @@ Ta Majesté veut estre adorée en silence.
 Il est temps de parestre.  
 
     PHENICE.
-            Allons l'entretenir.  
+                    Allons l'entretenir.  
 
     LE ROY.
-O Dieux ! elle se leve , elle me veut punir,                   
+O Dieux ! elle se leve , elle me veut punir,  
 Méchant ! j'ay prophané ce beau lict de parade.  
 
     POLICASTE.
@@ -3312,7 +3308,7 @@ A repris la parole, et vous offre à present
 Ce que le cœur disoit, la langue se taisant.  
 
     PHENICE.
-Sire, qu'en dites-vous, de pareilles Princesses                  
+Sire, qu'en dites-vous, de pareilles Princesses  
 Feroient-elles pas honte aux plus belles Deesses ?  
 
     LE ROY.
@@ -3336,7 +3332,7 @@ Mesmes [585] pour ne frustrer cette amour excessive
 Qui vous est demeurée en l'imaginative [586],  
 Nous avons trouvé bon de surprendre vos yeux  
 Par un autre sujet qui vous plaist déja mieux.  
-Sire, pensez à vous, et quand bien Agarite                  
+Sire, pensez à vous, et quand bien Agarite  
 Retourneroit au monde avec plus de merite,  
 Songez que sur vous-mesme il faut estre absolu [587]  
 Pour éteindre le feu⁎ d'un amour dissolu.  
@@ -3363,7 +3359,7 @@ Pour moy je n'en sçay point⁎ qui me soit plus sortable.
 
     AMELISE.
 Sire, le bon plaisir de vostre Majesté  
-Agit absolument dessus ma volonté.                       
+Agit absolument dessus ma volonté.  
 
     LE ROY.
 Ha ! que cette parole a de grace⁎ en la bouche  
@@ -3392,7 +3388,7 @@ En qualité d'époux, la pourroit-il avoir.
 Il faudroit que les Dieux nous la fissent revoir.  
 
     POLICASTE.
-Cette affaire pourtant, n'est pas fort malaisee :                   
+Cette affaire pourtant, n'est pas fort malaisee :  
 Car la belle Agarite est ainsi deguisee.  
 
     LE ROY.
@@ -3417,7 +3413,7 @@ Qui ne voulut avoir un tel Page⁎ d'honneur⁎.
 
     POLICASTE.
 Sire, je vous promets qu'elle fut tousjours sage,  
-Et qu'elle l'est encore en cet habit de Page⁎ :                   
+Et qu'elle l'est encore en cet habit de Page⁎ :  
 Cent fois entre ses bras j'ay demeuré vaincu !  
 Mais le frere et la sœur n'auroient pas mieux vécu.  
 
@@ -3437,14 +3433,14 @@ Que pour donner des fleurs, et des fruicts tout ensemble.
 Ha ! Sire, montrez-moy ma fille.  
 
     LE ROY.
-                La voicy.  
+                        La voicy.  
 
     AGARITE.
 Hé ! mon Pere, prenez vostre fille à mercy. [604]  
 
     MEDON.
 Mon Enfant, leve-toy, j'excuse ta jeunesse,  
-Qu'a voulu gouverner mon avare viellesse.                   
+Qu'a voulu gouverner mon avare viellesse.  
 
     LE ROY.
 Ce n'est pas tout, il faut la pourvoir promptement,  
@@ -3454,7 +3450,7 @@ Ce brave Gentil-homme est son fidel⁎ Amant.
 Les Dieux en soient loüez.  
 
     POLICASTE.
-                Je meurs d'impatience,  
+                        Je meurs d'impatience,  
 De passer avec vous cette heureuse alliance.  
 
     LE ROY.
@@ -3472,7 +3468,7 @@ Sont de ceux qui croyoient qu'Agarite fut morte.
     CORINTIE.
 Estrangers⁎, nous venons pour voir sa Majesté.  
 
-    L’EXEMPT.    
+    L’EXEMPT.
 Entrez, et vous tenez seulement à costé.  
 
     CELIDOR.
@@ -3499,7 +3495,7 @@ Vante toy d'avoir veu le plus grand Roy du monde.
 
     CELIDOR.
 Sire, pardonnez-moy, je seray prés de vous,  
-Celidor se plaist trop en un regne si doux.                   
+Celidor se plaist trop en un regne si doux.  
 
     LE ROY.
 Ravy d'étonnement⁎, croiray-je ce miracle,  
@@ -3527,7 +3523,7 @@ D'espouser aujourd'huy celuy que je souhaite.
 
     LE ROY.
 Approche, Cavalier. Pelerin, le sainct noeu  
-Que je fais entre vous, t'excuse de ton vœu. [612]                   
+Que je fais entre vous, t'excuse de ton vœu. [612]  
 Or sus [613], que tout mon peuple, et toute ma Noblesse  
 Prepare [614] un Carrousel [615] à ma Belle Princesse,  
 Que l'on nous mene tous dans un Char triomphant,  

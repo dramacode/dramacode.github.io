@@ -1,5 +1,5 @@
 ---
-identifier: vion_soliman  
+identifier: dalibray_soliman  
 creator: Vion, Charles de  
 date: 1637  
 title: Le Soliman  
@@ -957,7 +957,7 @@ Le propre d'un guerrier c'est d'agir et se taire.
 Qu' inferes-tu de là ?  
 
     SOLIMAN.
-Silence, taisez-vous.  
+        Silence, taisez-vous.  
 Je connois le merite et la valeur de tous.  
 Mais allons, que du camp la place soit choisie,  
 Attendant que mon fils arrive d'Amasie [262].  
@@ -976,7 +976,7 @@ SOLIMAN. OSMAN. ACMAT.
 
 
     SOLIMAN.
-Je vois Osman qui devers⁎ moy s'avance,  
+        Je vois Osman qui devers⁎ moy s'avance,  
 Il revient d'Amasie, et rapporte joyeux,  
 Des nouvelles qu'on lit desjà dedans ses yeux.  
 
@@ -990,7 +990,7 @@ Le brave Mustapha, de cent Princes suivy,
 Arrive dans Alep.  
 
     ACMAT.
-O nouvelle agréable !  
+        O nouvelle agréable !  
 
     SOLIMAN.
 Et qui remplit mon cœur d'une joye incroyable.  
@@ -1052,7 +1052,7 @@ PERSINE, ALVANTE.
 D'où l'as-tu donc appris ?  
 
     ALVANTE.
-C'est le bruit de la Cour,  
+        C'est le bruit de la Cour,  
 Et puisque Soliman n'attend que son retour,  
 Pour venir fondre⁎ en Perse et nous faire la guerre,  
 Madame, treuvez⁎ bon de quitter cette terre.  
@@ -1085,7 +1085,7 @@ Ait le temps d'aviser à [275] ce qu'il faudra faire.
 Alvante, attends encor.  
 
     ALVANTE.
-Ce seroit vous trahir :  
+        Ce seroit vous trahir :  
 En toute autre sujet je suis prest d'obeïr :  
 Quelle necessité vous oblige à cette heure  
 A vouloir faire icy de plus longue demeure [276] ?  
@@ -1120,13 +1120,13 @@ Un mouvement⁎ d'amour, est celuy qui vous meine
 Et pour qui ?  
 
     PERSINE.
-Pour celuy qu'on attend aujourd'huy.  
+        Pour celuy qu'on attend aujourd'huy.  
 
     ALVANTE.
 Vous avez de l'amour pour Mustapha ?  
 
     PERSINE.
-Pour luy.  
+        Pour luy.  
 
     ALVANTE.
 Helas ! qu'ay-je entendu⁎, quelle est vostre pensee ?  
@@ -1349,7 +1349,7 @@ Avant que je le souffre⁎ il faudra que je meure,
 Mon Maistre qu'avez-vous ?  
 
     RUSTAN.
-Ah ! c'est trop r'animer  
+        Ah ! c'est trop r'animer  
 Le feu dont contre luy je me sens enflamer.  
 Qu'en dis-tu, cher Osman ? un nouveau venu prendre  
 Le premier rang d'honneur où je devois pretendre ?  
@@ -1439,14 +1439,14 @@ Quoy vous n'en estes pas encor mieux informée ?
 Je n'en ay rien apris.  
 
     RUSTAN.
-Vous ne sçavez donc pas  
+        Vous ne sçavez donc pas  
 Qu'il a sous son pouvoir presque tous nos Soldats ?  
 
     LA REINE.
 Est-il donc vray !  
 
     RUSTAN.
-Que trop : jugez donc à cette heure  
+        Que trop : jugez donc à cette heure  
 S'il est bon qu'imparfaict nostre dessein demeure ;  
 Un Sceptre rarement s'arrache aux mains d'autruy,  
 Quand la force et le fer luy sert de ferme appuy.  
@@ -1482,7 +1482,7 @@ LA REINE, SOLDATS, SELINE, SOLIMAN, RUSTAN.
 Soldats, où va le Prince ?  
 
     SOLDATS.
-Au Palais, grande Reyne.  
+        Au Palais, grande Reyne.  
 
     LA REINE.
 Arrestez-vous icy. Dieu quel soucy le gesne⁎ !  
@@ -1519,13 +1519,13 @@ Ny quel trouble importun s'est emparé de moy.
 Prenez le temps, Madame.  
 
     LA REINE.
-Hé que dites-vous, Sire !  
+        Hé que dites-vous, Sire !  
 
     SOLIMAN.
 Ce qui n'est que trop vray.  
 
     RUSTAN.
-Quand le Ciel veut prédire  
+        Quand le Ciel veut prédire  
 Quelque estrange mal-heur, il se sert quelquefois  
 Du langage secret de ces muettes voix.  
 
@@ -1561,7 +1561,7 @@ Une autre occasion de ce peril extresme.
 Helas ! seroit-il vrai !  
 
     SOLIMAN.
-Poursuivez hardiment.  
+        Poursuivez hardiment.  
 
     LA REINE.
 Peut-estre crains-je à tort, quoy qu'avec fondement.  
@@ -1574,7 +1574,7 @@ On craint avec raison dessus la moindre marque.
 Madame, parlez donc :  
 
     LA REINE.
-Je crains qu'un scelerat  
+        Je crains qu'un scelerat  
 N'ait tramé dessus vous quelque noir attentat,  
 Et par vostre trespas n'occupe cét Empire,  
 Où son ambition depuis long-temps aspire.  
@@ -1583,15 +1583,15 @@ Où son ambition depuis long-temps aspire.
 Qui seroit si hardy ?  
 
     LA REINE.
-Qui se sent le plus fort :  
+        Qui se sent le plus fort :  
 Celuy dont vous devriez attendre moins ce tort ;  
 L'injuste Mustapha.  
 
     SOLIMAN.
-Mustapha ?  
+    Mustapha ?  
 
     LA REINE.
-C'est luy-mesme.  
+        C'est luy-mesme.  
 Pourquoy vous troubler tant, et devenir plus blesme ?  
 Je n'en asseure pas, j'en doute seulement :  
 Mais certes cette peur me trouble extremement.  
@@ -1675,7 +1675,7 @@ Qu'on ne sçauroit trop tost prevoir à [315] son dommage.
 C'est assez dit, Allons.  
 
     RUSTAN *tout bas à la Reyne.*
-Prenons, prenons courage.  
+        Prenons, prenons courage.  
 
 
 ### SCENE CINQUIESME.
@@ -1871,16 +1871,16 @@ S'il espousoie Persine, mais Osman le prend à la lettre
 
 
     OSMAN.
-C'est quelqu'un [325] de ses gens,  
+        C'est quelqu'un [325] de ses gens,  
 Et sans doute quelqu'un de ses nouveaux agens.  
 Escoutons-le.  
 
     ALVANTE.
-Et pour luy trahir ainsi son pere !  
+        Et pour luy trahir ainsi son pere !  
 Son pere ! et son Royaume !  
 
     OSMAN.
-O fortune⁎ prospere !  
+        O fortune⁎ prospere !  
 
     ALVANTE.
 Me croire l'instrument de sa lâche fureur !  
@@ -1918,7 +1918,7 @@ Le traistre a donc commis cette infidelité !
 Alvante que dis-tu ?  
 
     ALVANTE.
-Je dis la verité.  
+        Je dis la verité.  
 
     PERSINE.
 O trois et quatre fois Persine infortunée !  
@@ -1960,7 +1960,7 @@ Ce discours, sage Alvante, estoit digne de toy :
 Mais que dit-il ?  
 
     ALVANTE.
-D'un cris de mespris, et de rage,  
+        D'un cris de mespris, et de rage,  
 (Car ces mots vivement piquerent [328] son courage)  
 M'oses-tu bien, dit-il, faire ressouvenir  
 D'une foy⁎ que jamais je n'ay voulu tenir ?  
@@ -1969,7 +1969,7 @@ D'une foy⁎ que jamais je n'ay voulu tenir ?
 O Ciel !  
 
     ALVANTE.
-Et puis, dit-il, par un pouvoir magique,  
+        Et puis, dit-il, par un pouvoir magique,  
 Et par cette science [329] en Perse si publique,  
 Elle m'avoit alors empoisonné le cœur,  
 Qui depuis grace au Ciel a repris sa vigueur.  
@@ -1997,7 +1997,7 @@ Madame, il n'est plus temps desormais de se plaindre,
 Craignons pour nostre vie :  
 
     PERSINE.
-Hé ! que puis-je plus craindre,  
+        Hé ! que puis-je plus craindre,  
 Si sans chercher ailleurs ce dernier reconfort,  
 Je suis preste moy-mesme à me donner la mort ?  
 
@@ -2136,7 +2136,7 @@ Et luy dis qu'il attende un autre ordre de moy.
 Grand Prince j'obeys.  
 
     SOLIMAN.
-Quelle est la citadelle  
+        Quelle est la citadelle  
 Qui nous mette [335] en repos comme un amy fidelle !  
 Voilà que son discours enfin m'a desgagé  
 Des soubçons dont mon cœur se sentoit assiegé.  
@@ -2199,7 +2199,7 @@ Qui dedans mon esprit se rend presque evident.
 Que crains-tu ?  
 
     ORMENE.
-J'apprehende, et non sans juste cause,  
+        J'apprehende, et non sans juste cause,  
 Que l'on n'ait contre vous machiné quelque chose :  
 Pourquoy si promptement vous r'appeller en Cour,  
 Vous mandant de tenir secret vostre retour ?  
@@ -2343,7 +2343,7 @@ Evitez promptement son injuste colere.
 Fuyons, mon fils, fuyons.  
 
     MUSTAPHA.
-L'innocent est trop fort,  
+        L'innocent est trop fort,  
 Il est invulnerable à tous les traicts du sort.  
 
     ORMENE.
@@ -2371,7 +2371,7 @@ Non, ne differons plus, qui differe est coupable.
 Hé mon Fils !  
 
     ADRASTE.
-Entendez⁎ un mot irrevocable ;  
+        Entendez⁎ un mot irrevocable ;  
 Que le Dieu Tout-puissant qui punit les pervers,  
 Tienne dessous mes pieds les abymes ouverts,  
 Si ma promesse n'est de son effect⁎ suivie :  
@@ -2384,11 +2384,11 @@ Nous te declarons Roy : Compagnons criez tous,
 Vive le jeune Prince.  
 
     MUSTAPHA.
-Amis, que faictes-vous ?  
+        Amis, que faictes-vous ?  
 Plutost, plutost qu'il meure.  
 
     ADRASTE.
-Ah, Seigneur, quelle rage !  
+        Ah, Seigneur, quelle rage !  
 
     MUSTAPHA.
 Mais dis que c'est l'effect⁎ d'une affection sage,  
@@ -2431,7 +2431,7 @@ Si jamais ta bonté me daigna secourir,
 Et leur dis que je vis.  
 
     ADRASTE.
-Mais que tu vas mourir.  
+        Mais que tu vas mourir.  
 Pensez-vous que des gens remplis de défiance [347],  
 Aux paroles d'autruy prestent si tost creance ?  
 A peine voudront-ils s'en fier à leurs yeux,  
@@ -2530,7 +2530,7 @@ Et renverser sur nous l'embusche qu'on leur dresse.
 L'interprete subtil !  
 
     ACMAT.
-Veritable pourtant :  
+        Veritable pourtant :  
 Mais, Sire, ces soldats que l'on redoute tant,  
 Et par qui Mustapha vous doit faire la guerre,  
 Où furent-ils levez ? et quel lieu les resserre ?  
@@ -2613,7 +2613,7 @@ Et mon zele⁎, et ma foy⁎ se font assez parestre.
 O Fils !  
 
     ACMAT.
-Seigneur, voicy venir la verité.  
+        Seigneur, voicy venir la verité.  
 
     RUSTAN.
 Et de tous mes dangers, le moins premedité.  
@@ -2635,7 +2635,7 @@ La trahison est vraye, et faite sans raison.
 Sire, que faut-il plus ?  
 
     DEVIN.
-Mais le traistre se cache,  
+        Mais le traistre se cache,  
 Et couvre avec son nom, une action si lasche,  
 Qui non plus que son nom ne se cognoistra pas,  
 Qu'apres l'evenement⁎ de son juste trépas.  
@@ -2644,7 +2644,7 @@ Qu'apres l'evenement⁎ de son juste trépas.
 Dieu ! qu'est-ce qu'il veut dire !  
 
     SOLIMAN.
-Et pourtant cette létre  
+        Et pourtant cette létre  
 M'apprend la trahison, avec le nom du trétre ?  
 
     DEVIN.
@@ -2655,10 +2655,10 @@ Mais ne declare pas le nom de qui l'a fait ;
 Comment ?  
 
     RUSTAN. [351]
-Je suis perdu.  
+    Je suis perdu.  
 
     SOLIMAN.
-De quelle part vient elle ?  
+        De quelle part vient elle ?  
 Et n'apprend elle pas une embusche mortelle ?  
 
     DEVIN.
@@ -2682,7 +2682,7 @@ Bien plus que tu ne crois, et sans estre coupable.
 Comment se fait cela ?  
 
     DEVIN.
-Mon dire est veritable :  
+        Mon dire est veritable :  
 Mais je ne sçaurois pas t'expliquer clairement,  
 Ce que je n'apperçoy qu'en ombre seulement ;  
 Le reste surpassant mon humaine foiblesse,  
@@ -2693,7 +2693,7 @@ Puis qu'on ne t'entend⁎ point, ne dis mot, et vas-t'en ;
 Tu rends le Roy resveur.  
 
     DEVIN.
-Oüy j'obeys, Rustan :  
+        Oüy j'obeys, Rustan :  
 Mais si je pars, tousjours le Ciel sur toy demeure,  
 Et parlera pour moy, devant⁎ qu'il soit une heure.  
 
@@ -2710,7 +2710,7 @@ PERSINE. SOLDATS. SOLIMAN. ACMAT. RUSTAN.
 
 
     PERSINE. [352]
-Heureux subject de joye,  
+        Heureux subject de joye,  
 Puis que je puis aussi mourir par cette voye.  
 
     SOLDATS.
@@ -2727,7 +2727,7 @@ Il faut qu'il le confesse au milieu des supplices.
 Dieu qu'est-ce cy !  
 
     SOLIMAN.
-Comment l'avez-vous arresté ?  
+        Comment l'avez-vous arresté ?  
 
     SOLDATS.
 Faisant garde, et rodant autour de la Cité,  
@@ -2765,7 +2765,7 @@ Voyez comme il respond, et qu'il est plein d'audace !
 Et de plus Espion ?  
 
     PERSINE.
-Vous l'avez entendu⁎ ;  
+        Vous l'avez entendu⁎ ;  
 
     ALVANTE.
 Ah fille mal-heureuse ! hé Dieu ! tout est perdu.  
@@ -2774,10 +2774,10 @@ Ah fille mal-heureuse ! hé Dieu ! tout est perdu.
 Tu mourras.  
 
     ALVANTE.
-Ah Seigneur !  
+    Ah Seigneur !  
 
     PERSINE.
-Que veux-tu faire Alvante ?  
+        Que veux-tu faire Alvante ?  
 
     RUSTAN.
 Quelle est de ce vieillard l'entreprise⁎ insolente !  
@@ -2811,7 +2811,7 @@ Mais j'ay dit toutesfois la pure verité.
 Toy Persine !  
 
     PERSINE.
-A ce mot, si ton cœur irrité  
+        A ce mot, si ton cœur irrité  
 De ma perte, conçoit une plus forte enuie,  
 Il est vray, je la [354] suis, arrache moy la vie.  
 
@@ -2819,10 +2819,10 @@ Il est vray, je la [354] suis, arrache moy la vie.
 Seigneur considerez  
 
     PERSINE.
-Que fais-tu ?  
+    Que fais-tu ?  
 
     ALVANTE.
-Ces cheveux  
+        Ces cheveux  
 Qu'elle serre au dedans entortillez par nœuds :  
 
     SOLIMAN.
@@ -2832,7 +2832,7 @@ Mais quelle occasion en ce pays t'ameine ?
 Seigneur, je le diray.  
 
     PERSINE.
-La naturelle hayne  
+        La naturelle hayne  
 Que contre ta personne, et contre tous les tiens,  
 Dans ce cœur genereux⁎ de tout temps j'entretiens,  
 Est l'unique sujet qui m'ameine en Syrie,  
@@ -2850,7 +2850,7 @@ Soubs [355] la foy⁎ de l'hymen entr'eux deux destiné.
 Que tu me fais de tort !  
 
     SOLIMAN.
-Dieu que viens-je d'entendre⁎ !  
+        Dieu que viens-je d'entendre⁎ !  
 
     RUSTAN.
 Voilà cet innocent qu'Acmat vouloit deffendre !  
@@ -2859,7 +2859,7 @@ Voilà comme ce fils avec le Perse est joint,
 Voilà sa trahison.  
 
     ACMAT.
-Dieu la triste avanture [356] !  
+        Dieu la triste avanture [356] !  
 
     SOLIMAN.
 Je le reconnois trop, ah fils contre nature,  
@@ -2870,7 +2870,7 @@ De quels maux je punis de pareils attentats.
 O deplorable Sort !  
 
     SOLIMAN.
-Soldats, qu'on me l'emmeine,  
+        Soldats, qu'on me l'emmeine,  
 Dans un obscur cachot en attendant sa peine ;  
 Et toy, vieillard, suy moy, tu seras mis aux fers.  
 
@@ -2878,7 +2878,7 @@ Et toy, vieillard, suy moy, tu seras mis aux fers.
 O Persine.  
 
     PERSINE.
-O tourmens d'une main douce offers !  
+        O tourmens d'une main douce offers !  
 
 
 ### SCENE CINQUIESME
@@ -2979,7 +2979,7 @@ Le Roy, brave Seigneur, l'a mise entre nos mains,
 Jugez par là du reste.  
 
     MUSTAPHA.
-O Destins inhumains !  
+        O Destins inhumains !  
 En quel estat apres une si longue perte,  
 Maintenant à mes yeux, par vous est-elle offerte !  
 Persine prisonniere ! et pour tout reconfort,  
@@ -3139,7 +3139,7 @@ Vouloient que vous eussiez de vous-mesme pitié.
 Mais il meurt innocent.  
 
     SELINE.
-Il deviendroit coupable,  
+        Il deviendroit coupable,  
 Empescher de faillir [366] c'est estre charitable.  
 
     LA REINE.
@@ -3149,7 +3149,7 @@ Non, je ne puis souffrir⁎ ce reproche en mon ame,
 Je veux tout declarer.  
 
     SELINE.
-Gardez-vous-en, Madame,  
+        Gardez-vous-en, Madame,  
 Si vous vous accusez, vous attirez sur vous,  
 Du juste Soliman, la haine et le courroux.  
 
@@ -3157,7 +3157,7 @@ Du juste Soliman, la haine et le courroux.
 N'importe.  
 
     SELINE
-Parlez bas, car nous serions perdues,  
+        Parlez bas, car nous serions perdues,  
 Si celuy-cy qui vient nous avoit entenduës⁎.  
 
 
@@ -3251,10 +3251,10 @@ Fussent creus fils du Roy, mesme malgré leur sort.
 O prodige !  
 
     SELINE.
-O merveille !  
+    O merveille !  
 
     LA REINE.
-Allons donc tout à l'heure  
+        Allons donc tout à l'heure  
 Empescher si je puis que mon cher fils ne meure,  
 Et si l'ayant trouvé je le pers aujourd'huy,  
 Moy-mesme je mourray de regret et d'ennuy⁎.  
@@ -3291,19 +3291,19 @@ RUSTAN. LA REINE. SOLIMAN. ACMAT. ORMENE.
 Mais Madame, escoutez ;  
 
     LA REINE.
-Je t'ay trop escouté :  
+        Je t'ay trop escouté :  
 Ta trahison aura ce qu'elle a merité.  
 Non, toutes ces raisons ne m'en peuvent distraire.  
 J'apperçoy Soliman.  
 
     RUSTAN.
-Hé ! que pensez-vous faire ?  
+        Hé ! que pensez-vous faire ?  
 
     LA REINE.
 Seigneur, c'est à moy seule  
 
     RUSTAN *s'enfuit.*
-O Ciel, je suis perdu !  
+        O Ciel, je suis perdu !  
 
     LA REINE.
 A qui de Mustapha le chastiment est deu ;  
@@ -3322,7 +3322,7 @@ J'ay de mon propre fils creusé la sepulture.
 Mustapha vostre fils !  
 
     LA REINE.
-Ouy, Sire, asseurément :  
+        Ouy, Sire, asseurément :  
 Ce vieillard me l'enseigne, et vous sçaurez comment :  
 Cependant de Rustan l'ambition couverte⁎  
 M'a fait injustement travailler à sa perte,  
@@ -3339,7 +3339,7 @@ Que son funeste arrest⁎ ne s'exécute pas.
 O doux commandement !  
 
     ORMENE.
-O bien-heureux Ormene !  
+        O bien-heureux Ormene !  
 
     SOLIMAN.
 Mais j'apprehende fort que leur course soit vaine.  
@@ -3425,7 +3425,7 @@ O triste desespoir ! ô divine vangeance !
 Seigneur, Rustan est mort !  
 
     SOLIMAN.
-Comment ! de quelle mort !  
+        Comment ! de quelle mort !  
 
     OSMAN.
 Il a fait sur soy-mesme un violent effort.  
@@ -3434,7 +3434,7 @@ Il a fait sur soy-mesme un violent effort.
 Et pour quelle raison ?  
 
     OSMAN.
-Ayant veu que Madame  
+        Ayant veu que Madame  
 Accusoit sa malice, et son injuste trame,  
 Il est dans son logis accouru furieux,  
 Et d'un coup de sa main tombé mort à mes yeux.  

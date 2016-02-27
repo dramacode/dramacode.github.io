@@ -1,0 +1,4058 @@
+---
+identifier: quinault_pausanias  
+creator: Quinault, Philippe  
+date: 1669  
+title: Pausanias. Tragédie  
+---
+
+
+Pausanias
+
+Tragédie
+
+A PARIS, Chez GUILLAUME DE LUYNE, Libraire Juré, au Palais, dans Salle des Merciers, à la Justice. M. DC. LXIX. *AVEC PRIVILÈGE DU ROY.*
+Édition critique établie par Marie-Émilie Papet dans le cadre d'un mémoire de
+     master 1 sous la direction de Georges Forestier (2003-2004)
+
+
+# Introduction
+
+
+La gloire elle-même ne saurait être pour la femme qu'un deuil éclatant du bonheur. (Mme de Staël,* De l'Allemagne*).
+
+« A aimer sans péril, on triomphe sans gloire. » Cette reprise d'un vers célèbre du *Cid* de Pierre Corneille pourrait être la maxime du théâtre de Quinault tant l'évocation du sentiment amoureux tient une grande part dans la constitution de ses personnages.
+
+Cependant limiter son théâtre à l'expression de l'amour serait nourrir les critiques de ses détracteurs qui ne voient dans ses œuvres qu'une tendresse mièvre, bien loin des hauteurs où ont su se porter Corneille ou Racine. De Quinault, ce *minores* du XVII*e* siècle, on ne veut plus se rappeler que ses opéras, genre qu'il a contribué à établir avec Lully. On dédaigne ses pièces de théâtre qui ne sont plus guère lues de nos jours. Néanmoins, on ne peut réduire son théâtre et plus particulièrement ses tragédies à une peinture galante de l'amour, ce sentiment auquel il a su rendre son humanité en peignant toutes les nuances de la passion. Souscrire à cette vision conventionnelle et relativement partagée par ses critiques à travers les âges revient à nier le talent de cet auteur qui a connu un succès constant tout au long de sa carrière et qui a été, un temps, présenté comme le rival de Racine. Nous allons nous efforcer, de mettre en lumière les qualités de *Pausanias* et de rendre plus attrayante cette œuvre méconnue.
+
+
+# La vie de Quinault, histoire d'une réussite sociale
+
+La vie de Philippe Quinault, né à Paris le 4 juin 1635, est avant tout l'histoire d'une impressionnante ascension sociale. En effet, rien ne destine ce modeste fils de boulanger de la rue de Grenelle à devenir celui que l'on nomme « le rival de Racine ». Il a la chance de devenir le « domestique » de Tristan l'Hermite : il peut alors s'initier aux choses de l'esprit et dès l'âge de douze ans, à son penchant pour le théâtre. Quinault est associé à l'éducation que donne personnellement Tristan à son fils unique.
+
+On peut distinguer dans la vie de Quinault, en reprenant la proposition d'E. Gros [1], trois périodes d'inégale longueur et d'inégale fécondité. La première va de ses débuts théâtraux (1653) à son mariage avec une riche veuve, Louise Goujon en 1660. Cette période est également marquée par une reconnaissance sociale importante puisqu'il fait l'acquisition d'une charge de valet de chambre du roi.
+
+De 1660 à 1671 s'ouvre une nouvelle phase dans la vie de notre auteur, un peu moins riche en pièces de théâtre, plus tournée vers le renforcement de sa position sociale. En effet, la consécration arrive en 1670, lorsque Quinault est élu à l'Académie Française. De plus en 1671, il obtient une place à la Chambre des Comptes. La troisième période est également très féconde, il y compose quatre tragédies, des tragédies lyriques et collabore avec Lully pour édifier en France un nouveau genre poétique, l'opéra et en réalisant des livrets d'inspiration plutôt mythologique.
+
+
+## Un début brillant, consacré à un vieux genre voué à la disparition, la tragi-comédie
+
+Dès 1653, cet esprit précoce donne une première comédie à l'Hôtel de Bourgogne. Avec *Les Rivales*, à 18 ans, il connaît le succès, quoique cette œuvre ne soit pas originale puisqu'il s'agit d'une refonte des *Deux Pucelles* de Rotrou. Quinault se caractérise par son ambition, il paraît dans les salons où il est introduit par Mme d'Oradour [2] et s'attache à conquérir les suffrages du public féminin. Pour plaire à cette compagnie, il se met à écrire des pièces où la galanterie se fait jour avec éclat. Il écrit coup sur coup plusieurs pièces, s'essaie à différents genres. Notons que toutes les pièces non lyriques de Quinault furent créées à l'Hôtel de Bourgogne, à l'exception de *La comédie sans comédie*, qui fut jouée au Théâtre du Marais.
+
+En 1654 il écrit deux comédies pastorales : d'abord *La Généreuse Ingratitude*, puis en fin d'année *L'Amant indiscret* dont l'on pense que Voltaire, qui admirait beaucoup Quinault, s'est inspiré pour sa comédie de l*'Indiscret*. Soulignons le savoir-faire du jeune poète qui choisit avec soin les dédicataires de ses œuvres et s'adresse dès ses débuts très haut, à de très puissants protecteurs. Ainsi *La Généreuse Ingratitude* est dédiée à Armand de Bourbon, prince de Conti et *L'Amant indiscret* au duc de Candale, Gaston de Nogaret.
+
+À vingt ans, Quinault est poète et célèbre. L'année suivante, il fait jouer une tragi-comédie, *Les Coups de l'Amour et de la Fortune*. On accuse Quinault de plagiat, non parce qu'il emprunte le sujet de cette pièce à Caldéron (*Les lances de Amor y Fortuna*) mais bien plutôt parce qu'au même moment Boisrobert fait paraître une pièce au Théâtre du Marais sous le même titre. On va même jusqu'à prétendre qu'il n'en est pas l'auteur, que les quatre premiers actes seraient de Tristan et le cinquième de Scarron. Ces rumeurs valent à Quinault l'inimitié de Somaize qui dans *L'Histoire des Précieuses* dit de lui qu'« il est sans talent, qu'il a réussi grâce à ses protecteurs ».
+
+Après la mort de Tristan, le 11 septembre 1655, Quinault essaie de le remplacer dans la maison du Duc de Guise. Il offre à celui-ci la dédicace *Des coups de l'Amour et de la Fortune.* Le jeune auteur se présente comme l'héritier intellectuel du maître. Sa production théâtrale est régulière. *Le Fantôme Amoureux, La Mort de Cyrus* dédiée à Mme Fouquet puis *Le Mariage de Cambyse* dédié au Duc d'Anjou se succèdent en quelques mois.
+
+En 1657 Quinault utilise la procédé du « théâtre dans le théâtre » dans la *Comédie sans comédie*. L'acte I est une pastorale, le deuxième une « pièce burlesque », le troisième une tragédie et le dernier une tragi-comédie à machine. Il connaît un très grand succès avec *Amalasonte*, une tragi-comédie héroïque dédiée à Mazarin. Sa pièce suivante, *Le Feint Alcibiade* (1658) est également un des grands succès théâtraux du temps.
+
+Son mariage le 29 avril 1660 avec une certaine Louise Goujon, lui apporte quarante mille écus de biens. L'aisance financière que lui apporte cette union ouvre à Quinault de nouvelles perspectives ; elle va lui permettre de « se pousser dans la Vie ». *Stratonice* (1660) est un immense succès. Sa réussite théâtrale se double de succès mondains. Il est accueilli dans les salons, il séduit les précieux et jouit de la protection du Duc de Guise. Le 23 mars 1661, il achète la charge « de valet de chambre du Roy », ce qui lui donne le titre d'écuyer, titre dont il signe désormais toutes ses pièces à venir.
+
+
+## 1660-1671, le temps de la reconnaissance
+
+Durant cette période, Quinault donne quatre tragédies. Deux connaissent un succès considérable, il s'agit d'*Agrippa* et d'*Astrate*. En 1663, il dédie au jeune Roi, alors âgé de 24 ans,* Agrippa, roy d'Albe ou faux Tiberinus*. Rappelons que Racine ne dédie une pièce au souverain que trois ans plus tard avec son *Alexandre. Agrippa* est jouée deux mois de suite et reprise plusieurs fois. L'année suivante *Astrate*, une autre tragédie, est jouée à l'Hôtel de Bourgogne et recueille bien des suffrages. C'est l'un des plus grands triomphe du siècle. L'affluence est telle que les acteurs doublent le prix des places. Cette réussite déchaîne la Cabale menée par Boileau qui relève les négligences de l'expression, des facilités dans l'intrigue. Les critiques soulignent aussi certaines ignorances du poète son sens de l'imitation poussée jusqu'au plagiat. Rotrou, Scarron, Donneau de Visé, entre autres, ont été les victimes de ses larcins. D'autres, comme Boursault, et son ami Charles Perrault défendent le jeune auteur. En 1665 Quinault écrit une comédie, *La Mère Coquette* qui est dédiée à Mme de Mautausier. Elle est alors en rivalité avec une autre *Mère Coquette*, celle de Donneau de Visé qui se joue chez Molière. On accuse Quinault de plagiat, mais selon Pierre Mélèse, il a pu se croire « délié du scrupule de s'approprier le sujet d'un confère » par le fait que celui-ci, pendant les lectures de sa pièces dans le monde, a eu la négligente indélicatesse de ne pas avouer sa source espagnole, Moreto.
+
+L'année 1668 représente une date importante dans la carrière de Quinault. En effet avec *La Grotte de Versailles*, églogue en musique il entre officiellement dans le chœur des poètes et des artistes chargés de célébrer la gloire de Louis XIV. Il est pensionné par le Roi. La création triomphale d'*Andromaque* de Racine (devant la Cour le 17 novembre 1667 puis quelques jours plus tard à l'Hôtel de Bourgogne), donne à Quinault l'idée d'une nouvelle tragédie, *Pausanias*. Cette pièce, sorte de réplique de la tragédie de Racine, ne rencontre que peu de succès [3]. Elle est représentée à l'Hôtel de Bourgogne le 16 novembre 1668 ; une soixantaine de jours plus tard elle est imprimée comme en témoigne le privilège du Roi qui date du 22 janvier 1669 et l'achevé d'imprimer du 14 février. *Pausanias* est dédié au Duc de Montausier qui venait d'être nommé gouverneur du Dauphin.
+
+Le Duc de Montausier est un ami de Mme Deshoulières que fréquentait Quinault dans les salons. Il y a rencontré outre le Duc, Saint Aignan, Bussy, le Duc de Nevers. C'est dans ces salons que Quinault prépare sa candidature à l'Académie française. Ainsi quand meurt Salomon de Virelade, il sollicite les suffrages de l'illustre compagnie. En octobre 1668, Quinault est académicien, Racine le sera cinq ans plus tard.
+
+En 1670, il obtient un petit succès avec *Béllérophon*, une tragédie galante jouée à l'Hôtel de Bourgogne et dédiée au Duc de Chevreuse, proche de Racine auquel ce dernier avait dédié *Britannicus* l'année précédente.
+
+
+## Une gloire permise par l'essor d'un genre nouveau
+
+Si Quinault rivalise réellement avec Racine durant ces années, ce ne fut pas en composant des tragédies, mais en imposant un genre nouveau, l'opéra.
+
+En effet lorsqu'il est appelé à collaborer avec Lully, Molière, Corneille à ce que l'on nomme « le divertissement de Psyché », Quinault trouve dans ce genre un cadre idéal pour son talent. L'adresse du Libraire au Lecteur nous apprend que « M. Quinault a fait les paroles qui s'y chantent en musique, à la réserve de la plainte italienne ». Cette triple collaboration exceptionnelle dans l'histoire du théâtre du XVII*e* siècle s'explique par les exigences royales. Le roi disposait aux Tuileries d'un théâtre magnifique, la salle des machines. Elle a été inaugurée le 7 février 1662. Pour le carnaval de l'année 1671, le roi souhaite un divertissement hors pair : une nouvelle comédie mythologique. Il confie à Molière le soin de la réaliser. Tout doit être prêt pour le 17 janvier 1671. Molière se rend bien vite compte qu'il ne peut achever seul l'ouvrage, il appelle Corneille et Quinault pour le seconder. Cette représentation d'une durée de cinq heures est un immense succès. La musique de ce livret est réalisée par Lully.
+
+Ce succès pousse les deux hommes à continuer de travailler ensemble. Quinault va trouver là un genre propre à mettre en lumière la délicatesse de son style. Dès 1672, il devient le fidèle collaborateur de Lully et écrit de nombreux livrets d'opéras. Citons entre autres *Alceste* en 1674, *Atys* en 1676 et *Armide* en 1688. L'alliance de ces deux talents élève bientôt la scène lyrique française au-dessus de toutes les autres. Cependant Lully n'est pas un homme facile à satisfaire, il accable le poète de remontrances et l'oblige à réécrire plusieurs fois la même scène. Mais cette tyrannie, Quinault, d'un caractère doux, semble l'avoir bien acceptée. Ces exigences portent leurs fruits, presque tous ses livrets rencontrent un succès triomphal. Déjà gratifié par le Roi d'une pension de deux milles livres, Quinault est décoré du cordon de Saint Michel. Ce succès, certains ennemis de Quinault, comme Boileau l'attribuent à la faiblesse de ses vers, qui « n'étaient ni d'un grande force ni d'une grande élévation. ». Il déclare même dans la troisième de ses Réflexions critiques sur Longin, que le talent de Quinault « était de faire des vers bons à mettre en chant » et il s'empresse d'ajouter « que c'était leur faiblesse même qui les rendait d'autant plus propres pour le musicien auquel il doivent leur principale gloire [4]. » Ce jugement est trop réducteur. Les reproches le plus couramment fait au théâtre de Quinault sont ceux de la pauvreté de son vocabulaire, de la fadeur de son style, de sa mièvrerie, de sa tendresse, de « n'avoir songé qu'à plaire [5]. » Il subit les critiques de Boileau, La Fontaine, Racine, entre autres. Ce serait oublier tout ce qui fait la richesse et la spécificité de l'oeuvre de Quinault, ses maximes politiques comme dans *Astrate* ou *Amalasonte*. De même, sa conception de l'homme qui serait mené par une Fortune aveugle et par des humeurs irrépressibles est proche de la vision de La Rochefoucauld. L'accueil favorable fait aux œuvres de Quinault ne se dément pas ; les courtisans à Versailles, les ouvriers dans les ateliers fredonnent ses couplets. Le roi et Mme de Maintenon elle-même, marquent leur préférence pour tel ou tel morceau.
+
+Vers la fin de sa vie, Quinault cède aux sentiments religieux que sa femme lui a inspirés, il cesse alors de travailler pour le théâtre et ne veut plus composer que des vers pieux. Il meurt peu de temps après le triomphe d'*Armide* le 26 novembre 1688, à l'âge de 53 ans.
+
+
+# La réception de Pausanias
+
+Cette tragédie galante, représentée pour la première fois le 16 novembre 1668 à l'Hôtel de Bourgogne, ne connaît que peu de succès, c'est du moins ce que nous rapporte Sophie Wilma Diererkauf-Holsboer dans *Le Théâtre de l'Hôtel de Bourgogne 1548-1680* [6]. La trop grande proximité avec le triomphe de Racine *Andromaque* lui nuit. Quinault ne peut surpasser ce chef d'oeuvre, lui qui ne possède ni la culture de Racine ni sa fidélité à l'histoire grecque ni son « goût de l'Antiquité ».
+
+*Andromaque* est représentée pour la première fois le 17 novembre 1667 à la Cour devant Leurs Majestés « par la troupe royale, en l'appartement de la Reine, où était quantité de seigneurs et de dames de la Cour [7] ». La pièce est jouée le lendemain au théâtre de l'Hôtel de Bourgogne et reçoit un accueil triomphal durant de longs mois.
+
+Évoquons la manière dont fut accueilli *Pausanias*. Voici comment l'annonce Charles Robinet dans sa* Lettre en vers à Madame du 17 novembre 1668* [8] :
+
+A propos, le PAUSANIAS,  
+Qui de charmes ne manquent pas,  
+Comme vous pourrez le comprendre,  
+Etant de QUINAULT, l'autheur tendre,  
+D'Hier se joue au meme Hotel.  
+Je suis peu conessant Mortel,  
+Pourtant, quand j'auray vû la Piéce,  
+J'en entretiendray ma PRINCESSE  
+Et vous, par conséquent, lecteur,  
+En véridique Relateur.  
+
+Charles Robinet nous apprend également que l'Hôtel de Bourgogne représente, outre la pièce de Quinault, le *Nicomède* de Pierre Corneille qui est reprise depuis le jeudi précédent, ce qui aurait pu concurrencer *Pausanias*, d'autant plus que le Grand Corneille est reconnu par tous comme le maître incontesté de la tragédie.
+
+D'ailleurs *Nicomède* de Pierre Corneille reçoit d'amples louanges du chroniqueur :
+
+Nicomède étoit ce Poëme  
+Digne d'une louange extrême :  
+Il est de Corneille l'Âiné,  
+Qui fut, je croi, prédestiné  
+Pour emporter, dans le tragique,  
+Tout seul l'Honneur du Dramatique.  
+
+Ce 16 novembre 1668 est joué également *George Dandin* de Molière, dont la première représentation a eu lieu le 18 juillet à Versailles. La concurrence importante avec d'autres œuvres de qualité, ajoutée à la proximité de *Pausanias* avec l'*Andromaque* de Racine peut ainsi expliquer le succès mitigé de cette tragédie.
+
+La postérité se souvient surtout de cet auteur pour ses livrets d'opéras, pour sa collaboration avec Lully ; ils firent connaître ce genre en France. Néanmoins Quinault trouve un ardent défenseur de son œuvre en la personne de Voltaire qui s'emploie à le venger des malveillants sarcasmes de Boileau. Voltaire dit même de Quinault que
+
+
+dans un genre tout nouveau, et d'autant plus difficile qu'il parait plus aisé, il fut digne d'être placé avec tous ces illustres contemporains (Corneille, Racine, La Fontaine, etc.) ... Le véritable éloge d'un poète, c'est que l'on retienne ses vers. On sait par coeur des scènes entières de Quinault ; c'est un avantage qu'aucun opéra d'Italie ne pourrait obtenir. ... Si l'on trouvait dans l'antiquité un poème comme Armide ou comme Atys, avec quelle idolâtrie il serait reçu ! Mais Quinault était moderne [9].
+
+En effet, même si dans sa Lettre en vers à Madame du premier décembre 1668, Ch. Robinet se fait l'écho du succès que connaît Pausanias devant les Altesses Royales, il semble bien que cela ne suffisse pas pour en faire un succès égal à ceux obtenues par Astrate ou Stratonice. Cette distinction suprême le jeune auteur de grands succès comme Amalasonte pouvait l'espérer, lui, l'auteur du célèbre Astrate qui inspira même le grand Racine.
+
+Et le lendemain, chez eux mesmes,  
+Ce COUPLE D'ALTESSES SUPREMES  
+Alla voir le PAUSANIAS,  
+Dont Elles firent fort grand cas,  
+Car mille biens elles en dirent,  
+Et très-pleinement l'applaudirent ;  
+Dont son Autheur, Monsieur QUINAULT,  
+Fit, je croi, d'aise plus d'un saut,  
+Car ce sont plaisirs inéfables  
+D'avoir des Eloges semblables.  
+
+Néanmoins, malgré les propos flatteurs de Robinet, il semble bien que *Pausanias* ne remporta qu'un succès « d'estime », mondain, bien loin du triomphe d*'Andromaque*.
+
+William Brooks [10], quant à lui, relève le peu de succès de cette pièce. Il évoque le fait qu'il n'a pas pu trouver à Amsterdam d'édition de cette tragédie vers 1669/1670
+
+
+ce qui renforce son opinion qui est que Pausanias, démarquage de l'Andromaque de Racine, fut l'une des pièces les moins bien reçues de l'auteur. Toutes les autres pièces de Quinault connurent au moins une édition d'Amsterdam qui suivit de près la première édition de Paris.
+
+En outre, il ajoute que lors de l'édition de 1697 chez Antoine Schelte à Amsterdam dans *Tragédies de Mr Quinault*, il ressort de la Notice en tête de l'édition « que l'éditeur s'est trouvé contraint d'imprimer cette pièce pour compléter son recueil. »
+
+Cette conclusion est également permise par le relevé qu'effectue P. Mélèse [11] : il ne recense dans la presse que deux mentions de *Pausanias*, toutes deux de Robinet (déjà évoquées) : une du 17 novembre 1668 qui signale la première et celle du 1*er* décembre1668, où il rapporte que cette pièce a été jouée devant le Roi le 28. De plus, E. Gros [12] commente aussi cette tragédie : « Il donne Pausanias une sorte de réplique de la tragédie de Racine, réplique assez malencontreuse, si l'on en juge par le peu de succès de la pièce. »
+
+Le site internet « Cesar » rapporte quant à lui que, outre la représentation du 16 novembre 1668, *Pausanias* a été jouée dix fois dans l'année 1795 (du 28 mars au 28 juillet) au théâtre Feydeau à Paris. Comment expliquer ce brusque retour en grâce ? Faut-il y avoir un témoignage de l'influence posthume de Voltaire qui appréciait les œuvres de Quinault ? Notons néanmoins que c'est, à notre connaissance, la seule tragédie de Quinault qui ait fait l'objet de tardives et nombreuses représentations.
+
+
+# Les divers constituants de la pièce
+
+Nous nous proposons dans ces pages de considérer la structure interne de Pausanias : le déroulement de l'intrigue dans sa linéarité et les fonctions assignées à chacun des personnages.
+
+Dans un premier temps nous allons résumer acte par acte les événements qui structurent la pièce. Puis nous analyserons dans un second moment la présence des personnages c'est à dire leur importance dans le déroulement de l'intrigue qui est fonction de leur prise de paroles.
+
+
+## La pièce acte par acte
+Éléments Cléonice : Acte I : Pausanias, général spartiate victorieux des armées perses et à la tête des troupes grecques, est promis à Démarate, princesse lacédémonienne. Cette union est souhaitée par Sparte. Cependant il aime Cléonice, une princesse perse prisonnière dont il a tué le père. Cet amour hors la loi paraît impossible et dangereux : les Grecs ne peuvent accepter à leur tête un homme qui sacrifie les règles les plus sacrées de dévouement et d'oubli de soi que l'on doit à sa patrie pour aimer une non grecque et, qui plus est, une ennemie. Pausanias laisse transparaître cet amour et se met doublement en danger : d'une part politiquement car il offre un angle d'attaque à Aristide (homme politique athénien qui ne supporte pas de voir Athènes subordonnée à Sparte) et d'autre part sur le plan personnel. En effet sa promise a des soupçons sur l'inclination de Pausanias envers Cléonice car celui-ci ne cesse d'ajourner leur union. Elle veut découvrir la vérité. Elle apparaît d'emblée comme un femme soucieuse de sa gloire et qui ne veut risquer un affront qui la déshonorerait. Cléonice, étant prisonnière, fait partie d'un « butin » que doivent se partager les guerriers grecs. Cimon, un jeune Athénien, semble épris de Cléonice et la réclame. Pausanias, devant cette demande qui heurte à la fois son amour (il veut libérer la princesse captive) et sa gloire (voir un autre remettre ses choix en question nuit à son prestige de chef incontesté des Grecs) s'emporte devant Démarate puis devant le perfide Aristide. Ces deux personnages prennent alors toute la mesure du sentiment que porte Pausanias à Cléonice et chacun d'entre eux, va tenter à sa manière de manoeuvrer les sentiments contradictoires qui habitent le général spartiate. Pour Démarate, il va s'agir de réveiller l'honneur, le sens du devoir du général. De son côté, Aristide va tenter de favoriser les amours de Pausanias avec la captive car cette passion porte ombrage à la gloire du Lacédémonien, et de plus elle est synonyme d'un retrait de Pausanias de ses fonctions et représente donc une chance de mettre Athènes au premier plan. C'est dans cette optique qu'il se déclare en faveur de Pausanias dans le conflit qui l'oppose à Cimon pour la possession de Cléonice (bien que ce dernier soit présenté comme son ami). | Éléments extra Cléonice : ⁎ Sparte exprime le désir de voir Pausanias s'unir à Démarate, une princesse spartiate. ⁎ Cimon, ami d'Aristide demande à obtenir Cléonice, la princesse perse retenue prisonnière par les Grecs.
+ | 
+Acte II : Cléonice avoue son amour pour Pausanias à sa suivante Stratone et ce malgré la haine légitime qu'elle devrait lui vouer. Néanmoins elle n'a rien laissé paraître de ce sentiment. L'arrivée de Pausanias qui lui annonce sa libération et lui fait offre de son coeur la trouble. Pausanias l'aime et ne veut aucunement la contraindre : la princesse perse, redevenue libre à la possibilité de choisir. Démarate les rejoint, Pausanias laisse les deux jeunes femmes. La princesse lacédémonienne, pour gagner la confiance de Cléonice, feint d'être sensible à son infortune. Elle déclare ne pas aimer Pausanias mais un autre Grec et dit refuser d'épouser celui que lui impose Sparte. Elle évoque habilement l'inclination qu'elle croit avoir décelée chez Pausanias afin de connaitre les sentiments de la jeune fille.Cléonice, avec la candeur qui la caractérise, ne voit pas venir le piège et avoue tout : la proposition que lui a fait Pausanias et à demi-mot son amour pour lui. Forte de cette vérité qu'elle détient avant tout le monde, Démarate peut commencer son double jeu et préparer sa vengeance. En apparence, elle est soumise aux décisions de Pausanias, semble souscrire à tous ses projets et va même jusqu'à proposer de dire à Sparte que c'est elle qui repousse leur hymen. A cette acceptation se superpose l'intérêt amical qu'elle porte à Cléonice. Elle devient ainsi le personnage central, celui qui mène le jeu. Tout en faisant l'aveu de sa passion pour Pausanias elle déclare à sa suivante qu'elle va mettre tout en oeuvre pour tenter de le reconquérir ou tout du moins pour conserver son honneur mis à mal par le peu d'intérêt que lui porte le général spartiate. | ⁎ Délibération entre les chefs grecs, Pausanias, grâce à l'appui d'Aristide a obtenu Cléonice.
+ | 
+Acte III : Un complot s'organise contre Pausanias. Son allure hautaine et l'habileté d'Aristide en sont les principaux facteurs. Cependant ce dernier ne veut verser le sang grec dans des affrontements et a une autre idée pour faire quitter le pouvoir au Lacédémonien : faire pression sur lui par le biais des sentiments qu'il porte à Cléonice, issue d'un sang ennemi à la Grèce, pour qu'il renonce à ses fonctions afin de vivre pleinement son amour. De son côté Démarate par un stratagème, en prêchant le faux pour savoir le vrai, a appris de la bouche même de Pausanias qu'il ne l'aime pas. Elle souligne alors le pouvoir dont elle dispose : elle pourrait ébruiter cette rumeur et l'affront qu'elle vient de subir pour armer les Grecs contre lui. Mais une fois encore, elle joue la carte du sublime et s'offre comme alibi à l'abandon de ce projet d'union. Tous ses témoignages de dévouement édifiants ont pour fonction de montrer sa grandeur d'âme afin que le général des Grecs, saisi d'une sorte d'émulation sublime, renonce à Cléonice, à cet amour fautif qui nuit à sa gloire et convienne d'épouser celle que Sparte a choisie. | ⁎ Délibération entre les Grecs : complot contre Pausanias, jugé hautain et plein de morgue. De plus il est affaibli politiquement par l'interêt qu'il manifeste envers Cléonice et en méprisant le choix de Sparte.
+ | 
+Acte IV : Aristide rencontre Pausanias et évoque le sort de Cléonice. Les Grecs souhaitent le départ de la jeune fille car elle pourrait fomenter une révolte et ils craignent son influence sur le comportement du général lacédémonien. Pausanias refuse de continuer ce débat dès que ses sentiments pour la princesse perse sont évoqués et congédie Aristide. Sur ce, Cléonice se présente et laisse deviner à Pausanias son amour mais elle lui annonce cependant son départ. Sa gloire l'exige, elle ne peut rester auprès du meurtrier de son père. Malgré les supplications de Pausanias, la jeune fille refuse de céder à moins que lui-même ne donne la preuve de son amour en partant avec elle en Perse. Elle réclame cette trahison comme gage amoureux. Le général spartiate tente de résister mais la passion est trop forte et il promet de la suivre si les Grecs refusent d'accepter leur union. Pausanias s'avoue prêt à sacrifier sa gloire à son amour. Cléonice sort. Surgit alors Démarate qui apprend à Pausanias l'existence d'une conjuration fomentée par son rival à la fois politique et amoureux, Cimon. Elle ajoute qu'elle a feint d'adhérer au complot et qu'elle doit se concerter avec les Athéniens dès les prochaines heures. Le général lacédémonien la croit sans peine, lui renouvelle sa confiance et évoque cette ingratitude envers elle qu'il ne peut corriger tant est grand l'amour qu'il éprouve pour Cléonice. C'en est trop pour Démarate qui, excédée, fait le serment devant sa suivante de faire éclater « la vengeance avant l'affront » et annonce l'issue fatale qui va avoir lieu entre l'Acte IV et l'Acte V. | ⁎ Réunion entre Aristide et les mécontents de la politique de Pausanias. Leur décision est prise, Cléonice doit quitter Byzance. ⁎ Pendant la nuit : mort de Cléonice tuée accidentellement par Pausanias, trompé par la jalouse Démarate. Il croyait immoler Cimon.
+ | 
+Acte V : Le confident de Pausanias, Eurianax, lui apprend l'arrivée de mutins qui viennent de se rendre maîtres de la ville et marchent sur le Palais. Leur chef, Aristide, arrive pour parlementer. Le général spartiate annonce clairement sa volonté de ne pas survivre à sa gloire. Aristide évoque alors le sort de Cléonice. A ce nom toutes les résistances et le reste de gloire du guerrier lacédémonien s'effacent, il accepte de quitter le pouvoir contre l'assurance de la sécurité de la jeune fille. Cependant Pausanias reste troublé. Il annonce à son confident, Eurianax qu'il a tué cette nuit Cimon. Il relate cette scène étrange, encore sous le coup d'une forte émotion : dans la pénombre de sa tente, il s'était assoupi et attendait Démarate qu'il devait retrouver afin qu'elle l'informe sur le complot à venir. Lorsqu'elle arrive, elle se dit suivie par Cimon, qui vient l'arme à la main pour le défier. Le général spartiate, se fiant à celle qui avait toujours ouvertement soutenu ses intérêts la croit et tue sans même le voir ce rival qu'elle lui présente. Le retour d'Aristide marque le début des funestes révélations. Il déclare avoir vu « son rival » donc Cimon et souligne que celui-ci promet de ne jamais lui nuire. L'émoi de Pausanias est perceptible. Comment Cimon peut-il être en vie ? Qui est donc la personne qu'il a tuée cette nuit dans l'obscurité ? On apprend ensuite que Cléonice est introuvable. L'insoutenable vérité commence à percer dans l'esprit du général spartiate et ce d'autant plus qu'il apprend que, pour se protéger, elle s'était déguisée en homme et était partie se réfugier chez Démarate. Cette dernière arrive et révèle tout : son amour passionné pour Pausanias, ses vaines tentatives pour reconquérir le général, sa jalousie dévorante et enfin son inhumain stratagème : faire tuer Cléonice des mains mêmes de son amant, les abusant tous les deux. Après cet aveu, elle s'enfuit, emportant avec elle l'épée de Pausanias qui avait servie à tuer par mégarde la princesse perse et se donne la mort avec cette même lame. Le général spartiate à l'annonce de la mort de Cléonice et de la part fatale qu'il y a pris, sent la vie le quitter et meurt. | ⁎Arrivée des mutins, menés par Cimon et manoeuvrés par Aristide. ⁎ Rencontre entre Aristide, Cimon et les révoltés. ⁎ Mort de Démarate.
+
+
+
+
+## Tableau de la présence des personnages [13]
+
+Ce tableau comporte deux entrées (le nom des personnages, les actes et les scènes) dans lequel figurent les rôles parlants (nous avons relevé le nombre de vers prononcés) et les rôles muets (le signe « o »). Ce tableau rassemble tous les personnages amenés à paraître sur scène. Ce relevé permet de quantifier les temps de parole respectifs de chacun des personnages et de prendre la mesure de leur importance dans le déroulement de l'action.
+
+On peut noter que le héros, Pausanias, est pratiquement toujours sur scène et prend la parole à chaque apparition même si son influence effective sur l'action reste médiocre. Soulignons en outre qu'il prononce 566 vers. Les personnages manipulateurs (Aristide et Démarate) qui font avancer l'action sont assez présents. Rappelons pour conclure que Cléonice, malgré son importance au sein des conflits qui structurent la pièce, est rarement présente et qu'elle prononce peu de vers au total (160 environ) alors que Démarate en dit 472.
+
+Le décompte apparaît dans un tableau à deux entrées (actes et scènes). Remarquons que le dernier acte comporte un nombre plus élevé de scènes, elles sont de plus très brèves, mimant ainsi la rapidité de la funeste révélation. Cette tragédie de 1588 alexandrins à rimes plates présente un nombre fluctuant de scènes par acte, et la longueur de ces scènes est pour le moins irrégulière. Rien d'étonnant à cela, rappelons que l'*Andromaque* [14] de Racine, l'illustre devancier de Quinault fait pareillement varier scènes et actes.
+
+
+# Les sources de Pausanias ou De l'histoire à la tragédie
+
+*Pausanias*, créée le 16 novembre 1668, est une tragédie historique c'est-à-dire que l'action est située dans l'Antiquité. Les noms des personnages sont pour la plupart historiquement attestés et empruntés à l'Histoire grecque. Néanmoins, à ces données historiques s'ajoutent des éléments inspirés de l'*Andromaque* de Racine. Nous allons étudier en deux temps distincts ces différentes sources d'inspirations.
+
+
+## Les sources antiques
+
+La tragédie de Quinault a pour toile de fond les incessants conflits qui opposèrent les Grecs aux Perses durant le V*e* siècle av. J.-C. Ainsi dès la scène d'exposition (Acte I, sc.1), Démarate évoque : « la liberté » enfin reconquise, les actions d'éclat d'un « général qui vient d'immoler en un jour trois cent mille Persans ... ». L'auteur place délibérément l'action de sa tragédie dans le temps des guerres médiques et rappelle la constante rivalité entre deux villes rivales qui se disputent l'hégémonie de la Grèce : Sparte et Athènes. Ces tensions pour affirmer son influence sur le destin du peuple grec constituent d'ailleurs une dimension non négligeable de l'unité de sa tragédie.
+
+Pour la compréhension de cette tragédie et des intérêts en lutte qu'évoquent les différents personnages nous relaterons brièvement les événements auxquels Quinault fait directement référence dans *Pausanias.*
+
+Notre auteur choisit de mettre en scène les peuples de la Grèce en lutte contre le danger barbare. Ce terme de « barbare » s'appliquait à tous les peuples qui ne parlaient pas le grec. Vers la fin du VI*e* siècle, ces « barbares » menacent les colonies grecques : les Carthaginois en Sicile, les Etrusques en Campanie et surtout les Perses en Orient. Le roi des Perses, Cyrus [15], qui a conquis toute l'Asie mineure, impose aux villes grecques d'Ionie un lourd tribut et ruine le commerce de Milet, la plus riche cité de l'Asie. Aussi, en 499 av. J.-C., les villes grecques de l'Ionie se soulèvent et demandent du secours à l'ensemble de la Grèce. Athènes est presque seule à envoyer une expédition. Mais ce faible secours n'empêche pas Darius d'écraser la révolte. Milet est détruite, et le roi de Perse se prépare à envahir la Grèce.
+
+Ceux que l'on nomme les Perses sont en réalité un conglomérat de différents peuples (les Scythes, les Achéménides, les Aryens, les Mèdes...). L'empire perse englobait le royaume des Mèdes depuis que Cyrus avait vaincu leur roi, son propre grand-père. Les Mèdes possèdent un immense empire et une armée innombrable. Contre l'armée et la flotte de Darius, la bataille, pour les Grecs, semble perdue d'avance. Pourtant Athènes dispose, avec ses hoplites, d'une armée d'élite, mais peu nombreuse. Grâce à un de ses hommes politiques, Thémistocle, elle prend conscience du danger et se prépare à la lutte. Une première fois à Marathon, en 490 av. J.-C., les dix mille hoplites athéniens parviennent rapidement à rejeter les armées perses à la mer. Athènes a triomphé seule des « barbares », cela lui vaut une immense gloire auprès de tous les Grecs, mais Darius, qui n'a envoyé contre les Grecs qu'une partie de son armée, prépare sa revanche.
+
+Le temps dans lequel Quinault place sa tragédie se situe dans ce second mouvement, peu de temps après que la Perse a envahi la Grèce en pénétrant par le Nord en 480 av. J.-C. Pendant ce temps la flotte perse suit la progression de ses troupes en longeant le rivage (il sera question de cette flotte encore à craindre au cours de l'Acte I, sc.1). Cette invasion se heurte aux Spartiates de Léonidas aux Thermopyles, qui ne peuvent cependant empêcher la prise d'Athènes. La Grèce est alors à moitié envahie. La situation est cependant sauvée grâce à la victoire navale de Salamine, où l'habileté de Thémistocle amène la flotte perse à combattre dans une situation défavorable. Les pertes sont lourdes pour les Perses. Xerxès (successeur de Darius à la tête des Perses) ordonne la retraite. Les Grecs écrasent définitivement les restes de l'armée perse à Mycale et à Platées.
+
+Soulignons que Quinault évoque à maintes reprises la rivalité qui existe entre Sparte et Athènes. De nombreuses scènes sont fidèles à l'Histoire. En effet, cette tragédie se déroule peu avant la bataille de Platées qui a eu lieu en 479 av. J.-C. et par la suite c'est d'ailleurs Athènes qui prit le commandement de la ligue de Délos, cette association de peuples grecs qui s'organisèrent pour écarter à jamais le péril perse. Soulignons que c'est effectivement Aristide, avec Cimon, qui fut l'organisateur de cette ligue. Athènes fournit l'armée et la flotte, les autres villes l'argent nécessaire. Mais Athènes se servit de cette manne financière pour se créer un empire maritime, au grand dam des autres cités grecques, qui sous l'égide de Sparte, se révoltèrent. Après quelques années de guerre, un traité en 446 av. J.-C. reconnaît à Sparte la domination du Péloponnèse et à Athènes celle de la Mer Egée.
+
+La plupart des personnages de cette tragédie ont réellement existé et certains, comme Pausanias, Aristide ou Cimon, se sont illustrés lors de ces conflits. Retraçons brièvement les biographies connues de ces différents protagonistes.
+
+Pausanias est né à Sparte, c'est le fils de Cléombrotos. Le « général spartiate » est membre de la famille royale des Agides. Il remporte à la tête de l'armée des Grecs la victoire de Platées (479), délivre les villes grecques d'Asie, prend Chypre et Byzance en 477 av. J.-C. Il devient le commandant en chef des forces grecques contre les Perses. Enivré de ses succès, il perd toute mesure et se rend odieux aux Grecs, qui le suspectent de vouloir se tailler un royaume personnel avec l'aide des Perses. Rappelé à Sparte, il est jugé, mais ses services passés lui valent l'acquittement. Il s'établit en Troade, où il reprit ses intelligences avec l'ennemi. Rappelé de nouveau à Sparte, il voit ses plans dévoilés aux Ephores par un de ses serviteurs et tente d'échapper au châtiment en se réfugiant dans le temple d'Athéna, où on l'emmure et où il meurt de faim.
+
+Notons que notre pièce débute avant la victoire finale des Grecs puisque Démarate fait mention de la menace que représente la flotte perse.
+
+Et les Persans sur terre entierement deffaits,  
+Sont encore sur la mer aussi forts que jamais [16].  
+
+Quinault, comme l'autorise l'époque, a quelque peu modifié l'Histoire puisque c'est à la bataille de Platées que s'illustre le général spartiate, en remportant une victoire importante et en délivrant les villes grecques d'Asie, en prenant Chypre et Byzance, événements qui n'ont pas encore eu lieu, alors que Pausanias est déjà considéré un héros, un roi qui contrôle l'ensemble des troupes grecques, statut acquis grâce à une éclatante victoire contre l'ennemi perse. L'anachronisme dont fait preuve notre auteur permet de nourrir la ressemblance entre *Pausanias* et certaines tragédies de Racine comme *Andromaque* : le général spartiate est couvert de gloire comme l'est Pyrrhus et c'est au faîte de sa gloire que l'amour le touche.
+
+Quinault trouve également la matière de son oeuvre dans *La Vie des Hommes Illustres* de Plutarque. Le caractère d'Aristide y est amplement développé. Aristide dit « le Juste » est un général et un homme politique athénien. D'une vieille famille noble, il est l'un des stratèges de la bataille de Marathon en 490 av. J.-C. Archonte en 489, chef du parti conservateur, il s'oppose par traditionalisme à la politique d'impérialisme maritime de Thémistocle, qui réussit à le faire frapper d'ostracisme en 483 av. J.-C. Rappelé lors des invasions de Xerxès, à la veille de la bataille de Salamine en 480, il seconde généreusement Thémistocle puis contribue de façon décisive à la victoire de Platées en 479 av. J.-C. C'est lui qui, avec Cimon, est l'instigateur de la ligue de Délos (478-477). Au même moment, il introduit un profond changement dans la Constitution athénienne en ouvrant à tous les citoyens l'accès à l'archontat. Il meurt si pauvre que l'Etat dut pourvoir à ses funérailles et doter ses filles.
+
+Ce texte fait mention qu'Aristide
+
+
+acquit le plus divin et le plus royal surnom que jamais homme saurait acquérir, c'est qu'il fut nommé par une publique voix du peuple : le Juste. [17] .... Or ... ce surnom de Juste du commencement lui apporta l'amour et la bienveillance du peuple, mais depuis il lui en suscita et engendra l'envie.
+
+Cette même source rapporte le caractère farouche et ombrageux de Pausanias et de tous les généraux spartiates.
+
+
+Voyant que Pausanias et les autres capitaines lacédémoniens, qui avaient la surintendance sur toute l'armée, étaient rudes et vigoureux aux peuples confédérés, Aristide parlait doucement à eux, et se montrait le plus familier et le plus gracieux qu'il pouvait envers eux .... Ce faisant, on ne se donna garde qu'il otât peu à peu aux Lacédémoniens la principauté de la Grèce, non point par les armes, par navires ou par chevaux, mais seulement par bon sens et par sage conduite ; car si la justice et la bonté d'Aristide et la douceur et la débonnarité de Cimon rendaient le gouvernement des Athéniens agréable et désirable aux autres peuples grecs, l'avidité et la dureté de Pausanias les leur firent aimer davantage. ... Là dessus, les amiraux et les généraux des Grecs ... allèrent trouver Aristide pour l'engager à prendre le commandement en chef et à réunir sous ses ordres les alliés qui souhaitaient depuis longtemps se débarrasser des Spartiates et passer aux Athéniens.
+
+Il convient de dire quelques mots sur Cimon quoiqu'il ne figure pas à proprement parler dans la pièce puisqu'il est seulement évoqué mais jamais réellement présent. Il est né vers 505 av. J.-C. C'est un homme politique et un général athénien. Il se distingue à Salamine en 480, est nommé stratège de la ligue de Délos, contribue à l'ostracisme de Thémistocle et devient la personnalité la plus en vue de la politique athénienne. Il enlève aux Perses la plus grande partie du littoral de l'Asie Mineure et leur inflige la grave défaite de l'Eurymédon en 469. Il trouve la mort en les combattant à Chypre en 450 av. J.-C. Nous sommes loin de l'ami pleutre, sans honneur et totalement réifié par l'intrigant Aristide que dépeint Pausanias, à l'acte I, sc.4 :
+
+Je sçai que cet ami vous doit tout ce qu'il est,  
+Qu'il n'agit que par vous, & que comme il vous plaist,  
+Que vous ne l'élevez qu'afin qu'il vous soûtienne,  
+Qu'il sauve vostre gloire aux perils de la sienne,  
+Et que quand au besoin l'injustice vous sert,  
+Son nom seul s'en chargeant vous en mette a couvert [18].  
+
+Notons que Cimon est un peu le « Pausanias athénien ». Général grillant vainqueur encore en 469 av. J.-C. de la flotte achéménide, il se rend odieux aux alliés qui supportent mal son autorité. Il était par ailleurs très admiratif du système lacédémonien, venant même au secours de Sparte en 462 av. J.-C. lorsque celle-ci fut menacée par une révolte des hilotes. C'est cependant bien lui qui chassa Pausanias de Byzance en 475 av. J.-C. entraînant la chute de notre héros.
+
+Nous reviendrons sur ses « modifications » qu'a effectuées Quinault dans la partie consacrée aux caractères des différents protagonistes de cette pièce. Plutarque fournit également à Quinault le personnage de Cléonice qu'il trouve dans *La Vie de Cimon*. Il y est rapporté que Pausanias un jour 
+
+
+envoya quérir une jeune fille nommée Cléonice, de bonne maison et de noble parenté, pour en faire son plaisir. Les parents ne la lui osèrent refuser, pour la fierté qui était en lui, et la laissèrent enlever. La jeune fille pria ses valets de chambre d'ôter toute lumière, mais en se cuidant approcher du lit de Pausanias, qui était déjà endormi, comme elle allait en ténèbres sans faire de bruit quelconque, elle rencontra d'aventure la lampe, qu'elle renversa. Le bruit que fit la lampe en tombant l'éveilla en sursaut, et il pensa soudainement que ce fût quelqu'un de ses malveillants qui le vint surprendre en trahison. Si mit incontinent la main à son poignard, qui était sous le chevet de son lit, et en frappa et blessa la jeune fille de telle sorte, que bientôt après elle en mourut ; mais onques puis elle ne laissa reposer en paix Pausanias, parce que son esprit revenait toutes les nuits, et lui apparaissait ainsi comme il cuidait dormir, lui disait en courroux un carme [19] héroïque, dont la substance est telle :
+Chemine droit et révère justice :  
+Mal et méchef à qui fait injustice [20] !  
+
+Cet outrage irrita tellement et enflamma de courroux tous les alliés à l'encontre de lui, qu'ils l'assiégèrent sous la conduite de Cimon dans la ville de Byzance, dont toutefois il échappa, et se sauva secrètement. Et pour autant que l'esprit de la fille ne le laissait point en paix, mais le travaillait continuellement, il s'enfuit de la ville d'Héraclée, là où il y avait un temple où l'on conjurait les âmes des trépassés, y conjura celle de Cléonice pour la prier d'apaiser son courroux. Elle s'apparut incontinent à lui, et lui dit que, sitôt qu'il serait rentré à Sparte, il serait délivré de ses maux ; signifiant ouvertement, à mon avis, la mort qu'il y devait souffrir ; plusieurs historiens la racontent ainsi [21].
+
+Il semble que Cimon ait joué un rôle décisif après que l'épisode de la mort accidentelle de la jeune Cléonice a fini par rendre le général lacédémonien odieux aux Grecs. Cette mort qui attend Pausanias à Sparte n'est autre que la mort par inanition : le général déchu est emmuré vivant et, comble de l'ironie tragique, dans le temple d'Athéna, déesse qui a donné son nom à la cité rivale de Sparte. On voit comment à partir de ces données mettant Pausanias en rivalité politique avec Cimon, Quinault a eu l'idée de doubler cette rivalité avérée d'une histoire d'amour afin illustrer les rapports toujours néfastes qu'entretiennent ces deux sphères et de mettre en scène une tragédie galante propre à satisfaire son public traditionnel, les Précieux.
+
+D'autre part, l'historien grec évoque également la différence de caractère entre Cimon l'athénien et Pausanias le spartiate. Autant Cimon est doux, affable – Plutarque rapporte même « qu'il ne cédait ni à Miltiade en hardiesse, ni à Thémistocle en bon sens et sagesse, et il ne fait pas de doute qu'il était plus juste et plus homme de bien que tous les deux » – autant Pausanias apparaît hautain, imbu de lui-même et de sa propre importance :
+
+
+... et depuis, comme Pausanias eut intelligence avec les Barbares pour trahir le Grèce, et en eut écrit au roi de Perse, traitant cependant rudement et fièrement les alliés et confédérés de son pays, et faisant beaucoup d'insolences pour l'autorité grande qu'il avait, et pour la folle arrogance dont il était plein, Cimon au contraire, accueillait doucement ceux à qui Pausanias faisait outrage, en les écoutant humainement, et parlant gracieusement à eux, on ne se donna garde qu'il ôta la principauté de la Grèce d'entre les mains des Lacédémoniens, et la mis entre celles des Athéniens, mais par un doux parler et par sa courtoise façon de faire et sa gracieuseté ; car la plupart des alliés, ne pouvant plus supporter l'orgueil et le mauvais traitement de Pausanias, se rangèrent volontairement sous la charge de Cimon et d'Aristide, qui non seulement les reçurent, mais davantage écrivirent aux seigneurs du conseil des Lacédémoniens, qu'ils rappelassent Pausanias, à cause qu'il faisait déshonneur à Sparte, et mettait toute la Grèce en trouble et en combustion.
+
+L'élément qu'il faut noter concernant Cimon est son absence effective dans la pièce. Son nom ne paraît pas dans la distribution des acteurs. Il est présent « pour l'intrigue ». Il apporte un élément de rivalité sous-jacent qui donne une impression d'urgence au Lacédémonien qui semble devoir se défier de cet homme à l'affût de tout ce qu'il possède : son rang et la femme qu'il aime. Ce procédé du personnage absent de la scène mais non de l'intrigue n'est pas chose exceptionnelle. Corneille le reprendra pour le personnage de Mandane dans Suréna en 1674.
+
+Quinault modifie très peu le récit de cette nuit par Plutarque, il se contente d'en modifier les conditions expliquant sa présence ici. Il dramatise également la situation en faisant de Cléonice une princesse perse pour laquelle le héros a perdu son honneur de guerrier spartiate et il fait de cet accident le fruit de quelque manoeuvre d'une femme jalouse.
+
+De même pour étayer le caractère de Pausanias, Quinault se réfère aux historiens antiques. Il trouve la hauteur dédaigneuse de son héros titre Pausanias dans *La Guerre du Péloponnèse* de Thucydide. Il y trouve également un penchant pour la traîtrise et pour un exercice solitaire et brutal du pouvoir. Ainsi Thucydide rapporte le caractère corrompu de Pausanias, qui après avoir été « relevé de son commandement ... est absout une première fois des charges pesant contre lui ... retourna dans l'Hellespont ... pour y reprendre ses intelligences avec l'ennemi [22] ». Cet ennemi qu'évoque l'historien ce sont les Perses que Pausanias a précédemment combattus et vaincus. Mais son caractère ombrageux ne supporte pas le système politique grec. Pour acquérir plus de pouvoir, pour être le chef suprême et incontesté de la Grèce, il n'hésite pas à pactiser avec l'ennemi. Il écrit même une lettre à Xerxès, le chef des Perses pour le convaincre de s'allier avec lui. Il va jusqu'à lui proposer « d'épouser sa fille et de soumettre Sparte et le reste de la Grèce à son autorité .... » Quinault amalgame ces deux éléments historiques (la mort d'une jeune fille destinée aux plaisirs de Pausanias et tuée par mégarde par ce dernier et cette offre d'alliance contraire aux lois de la Grèce avec une princesse perse) pour créer le personnage de Cléonice, fille du roi des Perses, que le général des Grecs tue par accident.
+
+On voit que Quinault a, pour *Pausanias*, assez bien respecté les faits historiques. La bataille de Platées est évoquée à l'Acte I, sc.1, les démêlés entre alliés, les intrigues d'Athènes contre Sparte sont rappelées (Acte I, sc.2, 3, 4, et Acte III sc.1, 2). Ce respect, inhabituel chez Quinault, des données de l'Histoire, illustre bien sa volonté d'imiter Racine, de faire une seconde *Andromaque*. En effet, généralement les éléments historiques ne sont « qu'un cadre commode » comme le souligne E. Gros [23], Quinault ne possédant pas le « goût de l'Antiquité » de Racine, ni son érudition.
+
+
+## L'écriture de la tragédie
+
+À l'origine de *Pausanias*, il y a donc cette volonté d'imiter le grand Racine. Le *Pausanias* de Quinault est postérieur d'un an moins un jour à l'*Andromaque* de Racine. Rappelons qu' *Andromaque* était constamment reprise et ce encore en 1668.
+
+Ainsi notre auteur invente le personnage de Démarat (que l'histoire ne lui fournissait pas) sans doute pour équilibrer son intrigue et également parce qu'il se souvient du personnage d'Hermione dans *Andromaque.* Cette princesse jalouse mène le jeu dans cette tragédie, elle permet à Quinault de rendre plus complexe l'intrigue avec ce schéma d'un roi aimant sa captive et délaissant celle qui lui est promise. Cela n'est pas sans rappeler une pièce de Claude Boyer de 1647, *La soeur généreuse*. De plus, cette invention lui permet d'avoir le même moteur dramatique que celui de Racine : la vengeance d'une femme jalouse dont la « gloire » a été offensée par l'indifférence du héros qui la dédaigne pour aller « aimer ailleurs », et comble de l'infamie, aimer une ennemie. Cependant, là s'arrête la comparaison. Tandis que Hermione attaque « de front » sa rivale [24] et tente ouvertement, devant témoins de lui nuire :
+
+J'ai déjà sur le fils attiré leur colère.  
+Je veux qu'on vienne encor lui demander la Mère.  
+
+Démarate, personnage hypocrite, feint de prendre sa rivale sous son aile pour gagner sa confiance afin de s'assurer de la trahison de Pausanias à son égard, lui qui, contrairement à Pyrrhus, est aimé de celle qu'il aime. Ainsi Démarate déclare à sa suivante Charile :
+
+Depuis que Cleonice est ici prisonniere,  
+Voi quels soins il lui rend…  
+
+Et Charile de lui répondre :
+
+C'est à vostre priere.  
+N'avez vous pas pour elle imploré son secours ? [25]  
+
+Elle a la confirmation de l'amour de Pausanias pour Cléonice à l'Acte II, sc.3 lorsqu'elle apprend que Pausanias vient de rendre à cette dernière sa liberté :
+
+On vient de m'avertir que suivant nostre espoir  
+Le sort de Cleonice est en vostre pouvoir ;  
+Mais Seigneur j'ose attendre une grace nouvelle,  
+Et viens vous demander la liberté pour elle [26].  
+
+La dissimulation dont fait preuve Démarate est bien loin de l'hostilité ouverte de Hermione pour la veuve d'Hector, Andromaque. Mais l'une comme l'autre ne peuvent se résoudre à accepter la perte de leur gloire. Tandis qu'Hermione fait immoler l'infidèle Pyrrhus par l'amoureux Oreste à la sortie de l'autel, Démarate, plus cruelle, fait tuer Cléonice par les mains mêmes de son amant.
+
+La liberté que prend Quinault, l'invention de créer un personnage de rivale lui est permise par les règles du théâtre classique. En effet, une tragédie est écrite à rebours, c'est-à-dire que l'auteur doit d'abord imaginer le dénouement avant de commencer à rédiger sa pièce, donc à « l'envers » du sens de la lecture. Or Quinault a entre ses mains plusieurs éléments issus de sources historiques : la hauteur dédaigneuse de Pausanias qui lui vaut la colère des Grecs, l'attitude double du personnage d'Aristide, et cet épisode trouvé chez Plutarque : une jeune fille nommée Cléonice que Pausanias tue par mégarde dans sa chambre obscure. Il n'a plus qu'à modifier leur agencement afin de construire une intrigue cohérente et qui plaise au goût du public. À la lumière des travaux de G. Forestier nous allons tenter de dévoiler la genèse de cette tragédie en prenant son terme comme point de départ, en remontant la chaîne des effets bâtie par l'auteur afin de parvenir à cet élément final et pourtant originel et en mettant en lumière les éléments que Quinault ajoute afin de se plier au goût galant de son époque. En guise de préambule, rappelons la définition du travail créateur de Corneille que donne G. Forestier afin de se rendre compte dans quelle proportion Quinault utilise la même technique.
+
+
+Son travail créateur consiste à dégager de l'histoire non pas un ensemble, mais un seul élément fondamental – le dénouement, qui est en même temps tout le sujet de l'oeuvre – à partir duquel est reconstruit à rebours un enchaînement de causes et d'effets qui donne l'illusion de conduire l'histoire à sa fin selon les modalités de la logique et du probable (qui peuvent être trangressées pour produire un effet de surprise) [27].
+
+Ainsi pour construire Pausanias, Quinault prend appui sur le récit de la mort de la jeune fille noble nommée Cléonice que fait Plutarque dans La Vie de Cimon, et également sur la mention de sa tentative d'intelligence avec l'ennemi perse et l'offre qu'il fait de sa main à la fille de Xerxès. À partir de ces éléments – que l'auteur amalgame – il remonte le fil de l'intrigue qui soutend sa tragédie pour donner un sens plus riche à cette mort accidentelle. D'ou l'idée de développer une thématique amoureuse (chère au public précieux) conduisant à cette mort. L'introduction, empruntée au romanesque, de l'amour comme cause du déclenchement de l'action permet un renouveau de la tragédie. « Les passions deviennent un principe motivant [28]. » Ainsi Quinault a tôt fait de transformer l'athénien Cimon (rival politique) de Pausanias en un aspirant au coeur de Cléonice et fait de cette dernière une princesse perse afin de rendre cet amour impossible. Pausanias possède donc à l'origine la matière pour devenir le lieu d'un affrontement entre la gloire et l'amour, entre le devoir et le sentiment. En outre notre auteur modifie l'histoire. Pausanias ne meurt plus emmuré vivant pour avoir comploté contre sa patrie mais par amour en apprenant la mort de Cléonice Le général lacédémonien a failli à la fois dans le domaine politique (il accepte d'abandonner son rang) et amoureux (il a tué la femme qu'il aime). L'amour a ruiné les qualités de ce caractère et c'est paradoxalement ce double échec qui fait de Pausanias un héros au sens classique du terme.
+
+
+Le héros est un personnage qui présente des qualités héroïques, mais tempérés par une qualité humaine, la faillibilité, et c'est cette faillibilité qui lui fait commettre une faute dans certaines circonstances – ce qui permet au spectateur de reconnaître en lui un semblable et d'avoir pitié de lui – même lorsque cette faute aboutit à la mort d'un proche [29].
+
+Cependant Pausanias et Cléonice, éperdus d'amour, sacrifient bien vite tout à la passion qui les habite tandis qu'un autre personnage, totalement inventé cette fois, prend le relais de la charge dramatique de la tragédie. Il s'agit de Démarate dont la fonction est de « dynamiser » l'intrigue et, malgré les apparences, de ne rien sacrifier à sa gloire. Ainsi toutes ses offres de couvrir les manquements de Pausanias, en étant présentées d'emblée comme des manoeuvres opportunes, perdent toute signification morale, toute grandeur sublime. C'est à dire que le spectateur ne peut compatir aux malheurs de la jeune femme qui semble plus soucieuse de sauver sa gloire, son amour-propre que son amour pour le général spartiate. En effet, contrairement à Hermione, qui dans Andromaque, affronte directement Pyrrhus et s'humilie devant lui sans calcul, uniquement pour soulager sa conscience ; Démarate, elle, calcule tout. Elle ne fait que jouer sur toute la gamme des émotions, des sentiments dans l'espoir de toucher le Lacédémonien. Elle apparaît monstrueuse et la vengeance qu'elle orchestre – faire tuer Cléonice par son amant – est annoncée dès les prémisses de l'action dramatique. C'est par cette vengeance que Quinault structure sa pièce. On assiste donc à un effacement du héros, tel que l'a préconisé l'abbé d'Aubignac dès 1657 [30]. Il conseille qui celui qui conduise l'intrigue soit « un esclave, une suivante ou quelque fourbe. » Quinault emploie donc un système intermédiaire. Le personnage vedette (Pausanias) parle beaucoup, il est souvent présent [31] dans les échanges mais c'est le fourbe (Démarate) qui mène le jeu. Il est comme privé d'action à cause de sa passion.
+
+Cette esthétique du « pathétique tendre » dans laquelle l'amour est la passion qui assujettit toutes les autres est dénoncée par le P. de Villiers :
+
+
+Toutes les pièces de tendresse ont les mêmes caractères, et presque la même intrigue : c'est un amour violent auquel on s'oppose, c'est une jalousie qui trouble la félicité de deux Amants [32].
+
+Il s'agit dans Pausanias d'un dénouement « étendu » c'est à dire que la fin des personnages est annoncée dès le début. C'est rappeler pour reprendre l'expression employée par G. Forestier dans Passions tragiques et règles classiques que
+
+
+l'issue mortelle n'est qu'une sorte de couronnement terrible de ce dénouement – ce qui explique qu'elle prenne souvent place entre le IVe et le Ve acte, le « couronnement » étant ainsi dévolu au récit hautement pathétique des conditions de la mort, à l'expression de la plainte et au commentaire moral [33].
+
+La liberté d'invention dont fait preuve Quinault reste dans les limites des bornes prescrites. Il est libre d'agencer les éléments historiques dont il dispose du moment qu'il constitue une intrigue cohérente, où toutes les actions se subordonnent à une action centrale, qui fédère toutes les autres, à savoir pour notre pièce, l'impossible amour entre Pausanias et Cléonice. Ce souci de cohérence est souligné par G. Forestier qui résume le principe de l'unité d'action tel que le conçoit Racine dans la notice d'*Andromaque* [34]. En effet « pourvu que  l'effet (le résultat) de l'action principale demeure intangible, le poète est libre de transformer les événements qui conduisent à ce résultat. » Ces principes, notre auteur les respecte : Cléonice meurt par accident des mains de Pausanias, l'homme qu'elle aime. De plus, tragédie galante oblige, Quinault fait mourir d'amour son héros. C'est dans le cadre du respect de « l'idée d'un sujet » que les auteurs de tragédie peuvent exercer leur liberté d'invention.
+
+Soulignons que Quinault reprend à peu près le schéma complexe d'*Andromaque* mais en modifiant les passions qui habitent les différents protagonistes. Ainsi à Oreste, amoureux malheureux d'Hermione répond Aristide, chef des Athéniens qui envie Pausanias à cause de son rang. Dans les deux pièces on retrouve l'épisode du dialogue « au nom de tous les Grecs » entre celui qui possède (que ce soit l'amour d'Hermione ou le pouvoir suprême) ce que son interlocuteur convoite. La ressemblance est alors bien visible. Aristide déclare à l'acte IV, sc.1 [35] :
+
+Je détourne vos pas, je sçai où je m'expose ;  
+Mais l'interest public va devant toute chose,  
+Et c'est enfin Seigneur, à ne vous rien celer,  
+Au nom de tous les Grecs que je viens vous parler.  
+
+tandis qu'Oreste commence son argumentation à l'acte I, sc. 2 en ces mots : « Avant que tous les Grecs vous parlent par ma voix. [36] »
+
+Néanmoins, l'inévitable comparaison entre *Pausanias* et *Andromaque* ne tient plus lorsqu'il s'agit de mettre en parallèle les personnages de Cléonice et d'Andromaque. En effet comme le souligne E. Gros
+
+
+s'il est vrai que Cléonice est la fille d'un homme que Pausanias a fait périr, s'il est vrai qu'elle devrait haïr en Pausanias le meurtrier de son père et l'ennemi de sa race, comme Andromaque abhorre en Pyrrhus le fils d'Achille, vainqueur d'Hector et de Troie, le seul fait qu'elle ne le hait pas et qu'elle l'aime au contraire et qu'elle cède à son amour nous avertit qu'il ne faut pas pousser trop loin la comparaison [37].
+
+
+## Le motif de la pastorale dans Pausanias et divers fragments du discours amoureux issus de différents genres littéraires
+
+L'influence de l'Astrée d'Honoré d'Urfé, grand succès de ce siècle, n'est pas étrangère à l'évolution du traitement de l'amour dans les tragédies. C'est cette veine à la fois courtoise et pastorale qu'exploite Quinault dans les tragédies galantes et qui font sa renommée et son succès, notamment parmi le public précieux.
+
+En effet, Quinault n'est pas seulement tributaire de la galanterie romanesque, il emprunte également des éléments appartenant à la pastorale. L'imbrication de différents discours explique la multiplicité des peintures de l'Amour qu'offre Pausanias. Ainsi ce thème de l'impossible amour pour une ennemie est doublé d'un schéma amoureux complexe qui permet la variation de tous les types du discours amoureux, selon le schéma des pastorales dramatiques et de sa chaîne amoureuse, à l'époque largement reprise dans les tragédies : Je fuis qui m'aime et j'aime qui me fuis. C'est par le biais de la pastorale que le sentiment amoureux est entré dans la dramaturgie française. De simple annexe, il peut parfois entrer en conflit avec les sentiments de devoir, d'honneur, ou avec d'autres passions telles que l'ambition ou la haine.
+
+Cette chaîne amoureuse complexe présente dans l'oeuvre, que l'on pourrait résumer ainsi : Démarate aime Pausanias qui aime Cléonice qui aime Pausanias mais qui ne devrait pas l'aimer car c'est d'une part le meurtrier de son père et d'autre part il est promis à Démarate, princesse spartiate qui essaie d'adoucir son sort. Tous ces interdits moraux, ces obstacles pourtant majeurs sont semblables à ceux qui ont fait refuser avec horreur à Andromaque une union déshonorante avec le fils du meurtrier de son mari ; cette dernière ne cède que devant les menaces directes portant sur son fils et veut se suicider après cet hymen. Les personnages de *Pausanias* se caractérisent par rapport à l'influence plus ou moins grande qu'exerce le sentiment amoureux sur leur comportement. Comme le souligne Michel Pelous [38] « pour Quinault, le jeu consiste à confronter l'amoureux à des problèmes insolubles pour le seul plaisir de le voir obéir en aveugle à l'amour et lui sacrifier jusqu'aux valeurs les plus sacrées ». Ce sacrifice consenti de la gloire, de la reconnaissance sociale, voire de la morale à l'amour est l'un des traits caractéristiques du traitement de l'amour dans les oeuvres de l'élève de Tristan.
+
+On peut alors distinguer parmi les personnages deux types de caractères appartenants à deux sphères littéraires différentes que Quinault mêle dans Pausanias afin de peindre la diversité de l'Amour. D'une part les personnages se rattachant au monde du roman galant, où l'amour est loi, où tout lui est subordonné, que ce soit la gloire, l'honneur, ou même une haine légitime. D'autre part, il y a les caractères typiquement théâtraux, comme le personnage de Démarate, amoureuse désespérée mais cependant attachée à sa gloire ou encore Aristide, exemple du personnage manipulateur.
+
+
+### Les personnages hérités du Roman galant
+
+Les amants du théâtre de Quinault sont prêts à tout sacrifier par amour. Ils ont toujours présentes à l'esprit, comme le souligne J.B.A. Buijendorp, « les tables de la Loi d'amour promulguées par Céladon ».
+
+
+I – Il faut aimer à l'excès ;
+
+II – N'aimer qu'une seule personne ;
+
+III – N'avoir d'autre passion que son amour ;
+
+IV – N'être ambitieux que de plaire à l'aimée ;
+
+V – Aimer d'un amour désintéressé ;
+
+VI – Défendre sa bergère ;
+
+VII – Trouver tout parfait en elle ;
+
+VIII – N'avoir d'autre volonté que la sienne ;
+
+IX – Ne faire qu'une âme en elle ;
+
+X – Ne vivre qu'en elle ;
+
+XI – N'attendre que l'honneur de l'aimer ;
+
+XII – S'engager à l'aimer toujours.
+
+On peut évoquer ici les personnages de Pausanias et de Cléonice, qui se rattachent tous deux par leur comportement au roman précieux. En effet, pour eux, l'amour justifie tout, la trahison de son peuple, de la confiance de Sparte pour Pausanias et pour la princesse perse, l'oubli que l'homme qu'elle aime est le meurtrier de son père.
+
+Ainsi pour Pausanias le général des Grecs, il semble bien que les impératifs de son rang ne soient qu'une tentation supplémentaire pour transgresser les règles de sa Cité. Un homme de sa valeur ne se plie pas aux lois, il les refuse, les provoque même peut-être en aimant Cléonice, ennemie de son peuple. Chez lui, les obligations morales sont presque immédiatement évacuées, seul compte le défi à relever. Il s'agit dans le même temps d'affirmer sa liberté individuelle, celle d'exister pour soi-même, et de séduire la femme qui devrait lui être la plus hostile. En effet dès l'Acte I, sc.3, Pausanias dévoile à son confident Eurianax, son amour pour sa prisonnière la belle Cléonice (v.185 et suivants) et souligne toujours à l'Acte I, sc.3 que cet amour est le fruit de sa volonté :
+
+J'ay jusques dans l'amour voulu chercher la gloire.  
+J'aspire en Amant mesme, à vaincre avec honneur  
+Une conqueste aisée eust fait honte à mon cœur,  
+Puis qu'aimer est pour tous un tribut necessaire,  
+J'ose au moins dédaigner une amour ordinaire,  
+Et n'ay pas crû qu'aimer avec un plein repos,  
+Sans peine, sans peril fut aimer en Heros [39].  
+
+Soulignons en outre que le double obstacle que s'apprête à affronter Pausanias : d'une part, offenser Sparte en refusant un hymen qu'elle a décidé (épouser Démarate), et d'autre part la tâche presque impossible de devoir séduire une jeune fille qui devrait l'avoir en horreur, semble constituer un moteur de plus de sa passion. Pausanias n'est pas homme à s'accommoder « d'une conquête aisée », il veut vaincre même en amour, mais hors des lois de Sparte. On peut alors douter de la spontanéité de cet amour qui se présente plus comme un défi à relever que comme un destin dont le héros va devoir triompher.
+
+Et cependant Pausanias lorsqu'il avoue son amour (Acte II, sc.2) à Cléonice parle un tout autre langage, celui du héros frappé malgré lui, par un objet dont il ne croyait ne pas avoir à redouter les traits :
+
+Cependant quelqu'effort qu'ait pû faire mon ame,  
+Tout haï que je suis je vous aime Madame [40].  
+
+Comment expliquer ces deux attitudes pour le moins contradictoires ? Il s'agit sans doute pour Pausanias d'exhiber à son confident sa résolution amoureuse comme une marque de plus de sa grandeur, signe de sa recherche constante de gloire, afin de maintenir l'illusion qu'il est maître de son sort. Mais bien vite, cette attitude de façade ne résiste pas aux attaques que l'on porte à son amour. Ainsi l'agressivité dont il fait preuve lors de la confrontation avec Aristide témoigne de son émoi. Il feint de craindre un complot politique : 
+
+Puisque vous le voulez je vais donc m'expliquer.  
+L'art de dissimuler ce qu'on reçoit d'outrages  
+N'est pas à mon avis fait pour les grands courages [41].  
+
+Alors que sa seule inquiétude est qu'on lui ôte sa belle prisonnière ; il réalise alors le programme énoncé par Céladon « N'avoir d'autre passion que l'amour » :
+
+Du moins si vous vouliez cacher vostre artifice  
+Vous ne me deviez pas disputer Cleonice :  
+Choquer d'un General le choix jusqu'à ce point [42].  
+
+Et Aristide ne s'y trompe pas et lorsqu'il assure Pausanias de son soutien concernant ces droits sur Cléonice, ce dernier exprime une grande gratitude, qui prend les accents d'un aveu. « Que ne vous dois-je pas Seigneur, & quel moïen… [43] »
+
+De même, devant Cléonice, à l'Acte IV, sc.2, il accepte de quitter la Grèce et de se couvrir de déshonneur pour la suivre, plutôt que de la laisser partir, alors que Titus trop conscient de son rôle d'homme d'Etat et du regard que porterait Bérénice sur cet acte refuse :
+
+Oui, Madame, il est vrai, je pleure, je soupire,  
+Je frémis. Mais enfin quand j'acceptai l'Empire,  
+Rome me fit jurer de maintenir ses droits ;  
+Il les faut maintenir [44] ...  
+
+Et quand Titus envisage d'abandonner son trône pour suivre Bérénice, il dépeint avec lucidité la perte de sa gloire, qui le rendrait odieux à lui-même comme à Bérénice.
+
+Vous-même rougiriez de ma lâche conduite.  
+Vous verriez à regret marcher à votre suite  
+Un indigne Empereur, sans Empire, sans Cour,  
+Vil spectacle aux humains des faiblesses d'amour [45].  
+
+Or c'est à ce prix que Cléonice accepte d'appartenir à Pausanias. Pour elle, la perte de la gloire du général spartiate est une preuve de son amour même si ce témoignage d'attachement se fait aux dépens de sa dignité de guerrier et de dépositaire des lois grecques. Elle s'attend à ce que le général amoureux « n'ait d'autre volonté que la sienne »
+
+Montrez moi ce que doit un grand coeur quand il aime :  
+Montrez moi le premier pour m'en faire une loi  
+Mesme foiblesse en vous que vous voulez en moi, ...  
+J'oserai tout pour vous si vous osez me suivre [46].  
+
+On voit donc bien que le portrait que brosse Quinault de Pausanias est fort éloigné de la réalité historique. Il suffit pour s'en convaincre de se rapporter aux éléments qu'évoquent Thucydide ou bien encore Plutarque. Du général spartiate orgueilleux, hautain, fier, soucieux de sa gloire et âpre aux calculs politiques, notre auteur fait un homme faillible, amoureux et prêt à tout pour rendre viable cet amour qui devrait être impossible. La passion que nourrit Pausanias pour sa prisonnière fait de lui une proie facile pour tous ceux qu'il a blessés alors qu'il était encore au faîte de sa gloire : d'une part, la princesse Démarate, venue à Byzance pour l'épouser et qu'il ne cesse de fuir, et d'autre part, l'ambitieux athénien, Aristide. Ce dernier va tenter de profiter de la faiblesse amoureuse qui fragilise les défenses de son rival politique. Cette faiblesse est, pour ainsi dire, constitutive de l'idée que l'on se fait de l'amoureux parfait dans les tragédies galantes, genre auquel on peut rattacher Pausanias. Ainsi, pour le public auquel aspire Quinault, il est normal qu'un chef militaire auparavant auréolé de gloire se transforme en amoureux transi, aisément manoeuvrable au seul nom de son amour. C'est par l'évocation du nom même de « Cléonice » que Démarate et Aristide, les deux personnages manipulateurs, arrivent à leurs fins. Ainsi à l'Acte IV, sc. 3 c'est en évoquant Cléonice que Démarate achève d'enlever la confiance du général lacédémonien :
+
+Il vous cousteroit trop au prix d'un grand service,  
+De me devoir vos jours & mesme Cleonice ?  
+
+Et Pausanias de lui répondre :
+
+Cleonice ? on voudroit l'oster à mon espoir ;  
+Puisqu'il vous plaist, Madame, il faut vous tout devoir.  
+Parlez, par vos bontez, comblez mon injustice [47].  
+
+Le même procédé est repris par Aristide lors du marchandage de l'ActeV, sc. 2 pour convaincre le lacédémonien de quitter le pouvoir. C'est au nom de son amour que le général spartiate voit sa résistance faiblir et ses dernières prétentions à la gloire s'évanouir. Ainsi lorsqu'Aristide déclare qu'il doit « tout craindre pour ce qu'il aime », Pausanias cède et souligne l'habileté du stratagème :
+
+Ah que vous sçavez bien chercher avec adresse  
+Par où mon coeur peut craindre, & trouver sa foiblesse !  
+Que vostre ambition a de rafinement !  
+Et qu'elle se prevaut de mon égarement [48] !  
+
+Ce renoncement à la gloire par amour a été théorisé par Michel Pelous qui souligne :
+
+
+Ces amants sans reproche ... n'oublient jamais qu'ils sont des héros d'amour et que leurs devoirs amoureux doivent passer avant le souci de leur propre gloire. Il est courant qu'un chef d'armée jusque-là invincible consente pour les beaux yeux de celle qu'il aime à renoncer pour la première fois à la victoire [49].
+
+L'exemple qu'évoque alors Michel Pelous est issu de La Mort de Cyrus (1658), une autre tragédie de Quinault. Il reprend le moment où Cyrus, à l'Acte II, sc. 2, se laisse vaincre en plein milieu d'une bataille qui l'oppose à Thomyris, la reine des Scythes pour complaire à cette « adorable ennemie. » C'est dire que l'abandon de toute volonté devant ou à cause de l'objet aimé est chose courante dans son théâtre et ce même lorsque, comme dans Pausanias, la tragédie est à la fois une tragédie politique et amoureuse. Notons que Pausanias n'est pas un amoureux violent comme l'est Pyrrhus, il ne menace pas sa prisonnière et, plein d'égards, lui rend la liberté avant de lui faire l'aveu de son amour. Il n'utilise pas le chantage contre la prisonnière et le schéma éminemment précieux – l'homme prisonnier (par amour) de sa prisonnière – ne dure guère. Cette particularité du personnage de Pausanias éloigne encore cette tragédie de l'influence de l'Andromaque de Racine. Cette conception « altruiste et noble [50] » que se fait Pausanias de l'amour est soulignée par E. Campion. En effet il adresse ses paroles rassurantes et respectueuses à Cléonice :
+
+J'en veux à vostre cœur, mais je veux qu'il se donne,  
+Et la moindre contrainte osteroit à mes yeux  
+Tout ce qu'un bien si cher a de plus precieux.  
+Au peril de vous perdre en faveur de quelqu'autre,  
+J'aime mieux hazarder mon bonheur que le vôtre [51].  
+
+L'élément le plus marquant de la personnalité de Pausanias est le fait qu'il connaisse l'échec et la trahison non pas sur le plan politique comme nous le rapporte l'histoire, mais sur le plan personnel, amoureux. En accordant la primauté aux sentiments amoureux Pausanias s'est lui-même condamné à une fin tragique. En effet, tout se passe comme si le général lacédémonien et Cléonice appartenaient à autre monde, celui de la pastorale, distinct du monde tragique et passionné dans lequel évolue la jalouse et orgueilleuse Démarate. Alors qu'il ne cesse de se défier d'Aristide (son rival politique), il tombe dans le piège de l'émulation sublime, du parfait amour que semble représenter Démarate car il ne peut envisager la bassesse dans le domaine amoureux. C'est dire que Pausanias figure le prototype du héros galant. L'attitude de privilégier les choses de l'amour à la gloire est héritière de l'idéologie romanesque ambiante, née d'abord dans les romans et gagnant peu à peu les autres formes littéraires. C'est ce que souligne Michel Pelous :
+
+
+De plus, aux alentours de 1650, l'idéologie romanesque a tendance à envahir d'autres formes littéraires. Le théâtre en est un exemple flagrant : il suffit que les lecteurs de romans se transforment en spectateurs pour retrouver la vision de l'amour qui leur est familière. Ils reverront sur la scène les mêmes péripéties que dans les romans et ils y entendront parler de l'amour à peu près dans les mêmes termes. La tragi-comédie ou la tragédie ne sont le plus souvent que le prolongement des fictions romanesques. Thomas Corneille et Quinault, pour ne citer que deux grands auteurs à succès excellent à adapter pour le théâtre des fragments de romans ou à réécrire l'histoire en inventant des circonstances que ne désavoueraient pas La Calprenède ou Melle de Scudéry. … Bref entre 1650 et 1665, toute la littérature de fiction contribue peu ou prou à la défense et à l'illustration de l'image tendre de l'amour [52].
+
+Ainsi au début de la pièce le ton est donné d'emblée dans la scène d'introduction qui présente Pausanias par le biais des dires de Démarate et de Charile : le général lacédémonien serait « parfait » s'il ne lui manquait d'être touché par l'amour. C'est ce que souligne Démarate à l'Acte I, sc. 1:
+
+La valeur ne rend pas une ame moins sensible,  
+Et la Guerre & l'Amour n'ont rien d'incompatible.  
+Quelqu'heure dérobée aux soins⁎ de sa grandeur,  
+Un doux amusement d'une agreable ardeur,  
+Un peu d'amour enfin aprés une victoire  
+Peut bien s'accommoder avec toute sa gloire⁎,  
+Et loin qu'il fust pour lui honteux de s'enflammer,  
+Pour comble de merite il lui manque d'aimer [53].  
+
+On a reproché au Pausanias que dépeint Quinault de ne pas savoir émouvoir. C'est du moins ce que soutient J. B. A. Buijendorp qui trouve l'origine de cette incapacité dans l'absence « d'un caractère individuel ». Le critique relate alors la donnée qui constitue la tragédie « Un général qui est l'appui de sa patrie et en qui on a grande confiance, tombe amoureux d'une jeune fille, ennemie de son pays. » Après ce rappel, il juge que Pausanias « s'oublie à tel point qu'il se laisse déposséder de son rang de général en chef de l'armée des Grecs, sans donner aucune preuve de courage. » Il souligne ensuite « la dégradation morale de ce personnage » en évoquant l'Acte V, sc.4 dont il fait une lecture erronée pour justifier son propos. Nous reproduisons ici ce dialogue :
+
+
+PAUSANIAS
+He bien qu'avez vous fait ?  
+
+ARISTIDE
+Tout ce que j'ai promis.  
+Le tumulte est calmé, les mutins sont soûmis,  
+J'ai vû vostre Rival lui-mesme les conduire.  
+
+PAUSANIAS
+Mon Rival ?  
+
+ARISTIDE
+Il promet de ne jamais vous nuire.  
+
+PAUSANIAS
+Hé mon Rival lui-mesme aussi vous a parlé ?  
+
+ARISTIDE
+Oüy Seigneur, vostre Amour ne sera plus troublé.  
+J'en ai pris sa parole, & s'il osoit déduire,  
+Je vous en suis garant, cela vous doit suffire :  
+Du trouble où je vous voi vous devez revenir.  
+
+PAUSANIAS
+Je ne le puis cacher j'ai peine à le bannir [54].  
+
+L'émoi que ressent Pausanias se manifeste notamment par des interjections « hé », la reprise du terme « mon rival ». La vivacité de cet échange pourvu de stichomythies s'explique par le fait que nous assistons au début de la révélation du drame : la fatale confusion orchestrée par la perfide Démarate a conduit à la mort de Cléonice par les mains mêmes de son amant qui croyait immoler Cimon. C'est donc sur le compte de l'étonnement, de la stupéfaction qu'il faut mettre ces réactions. Ainsi il semble que J.B.A. Buijendorp se soit fourvoyé en méconnaissant le ressort dramatique préparé par Quinault : tout a déjà eu lieu hors scène. Le spectateur voit la vérité paraître à ses yeux en même temps que Pausanias. Il n'est donc pas question ici d'une « joie enfantine » et moins encore d'un « air piteux ». Le trouble qui saisit le général spartiate est ici l'amorce des révélations à venir.
+
+La méprise qui a conduit Pausanias à tuer Cléonice est d'autant plus cruelle que le général spartiate avait renoncé à sa gloire pour vivre son amour. Le spectateur ne peut plus guère en douter : faisant fi des obstacles, Pausanias avait fini par convaincre Cléonice de son amour et tous deux s'apprêtaient à assumer cette passion à laquelle ils avaient tout sacrifié. En effet dès l'Acte III, sc.2, Pausanias sait qu'il est aimé, et à l'Acte IV, sc. 2, il accepte la proposition de Cléonice de partir avec elle en Perse si les Grecs refusent d'accepter leur union et de se couvrir de déshonneur pour la suivre, plutôt que de la laisser partir :
+
+L'Amour m'attache à vous, le noeud dont il me lie  
+Est plus fort mille fois que Grandeur et Patrie :  
+Je trouverois sans vous la Grandeur sans appas,  
+Et n'ai point de Patrie où vous ne serez pas.  
+Mais ne puis-je obtenir que pour quitter la Grece  
+Vous attendiez au moins encor qu'on vous en presse.  
+Je m'exile avec vous, s'il le faut, sans effroi ;  
+Demeurez s'il se peut pour regner avec moi ;  
+Laissez moi voir encor si la Grece propice,  
+Peut vouloir qu'avec vous son General s'unisse.  
+Resisteriez vous seule à nos communs souhaits [55] ?  
+
+Le changement de nature de Pausanias, victime de « passions émollientes [56] » (il passe de général hautain et soucieux de sa gloire à l'amoureux éperdu) est souligné par l'évolution du comportement d'Aristide envers ce dernier. Dès que Pausanias s'avoue hors du jeu politique, l'Athénien semble pris de pitié pour cet homme qui a tout perdu : son amour tué de ses mains et sa gloire :
+
+Je plains l'estat funeste⁎ où ses malheurs l'ont mis,  
+Et les infortunez sont toûjours mes Amis :  
+Un affreux desepoir dans ses regards éclatte,  
+Mais Sophane revient & quitte Demarate [57].  
+
+Il ne s'agit donc pas d'une « dégradation morale » mais bien au contraire d'une élévation amoureuse, d'un don total de soi, d'un lâcher tout de la volonté face à la toute puissance de l'amour. Pausanias, en quittant la Grèce, en abandonnant son trône devient paradoxalement une figure héroïque de l'amour courtois et ce d'autant plus que cet amour ne peut se réaliser que dans la mort. En effet, Pausanias aurait pu sauver sa gloire en acceptant le départ de Cléonice et en épousant Démarate. Cette thématique : accepter la perte de son amour pour sauver sa gloire, sera d'ailleurs traitée également par Racine dans sa Bérénice en novembre 1670. Pausanias n'est pas prêt pour le « sacrifice héroïque [58] » auquel consent Titus. La confrontation entre « héroïsme et galanterie » n'a pas vraiment lieu dans Pausanias car ce dernier ne possède pas le pouvoir que détient Titus. En effet dans Bérénice, le fils de Vespasien est confronté à un obstacle intérieur : c'est la nouvelle dignité d'empereur qui lui dicte la seule conduite vraiment digne de son rang. « Mais il ne s'agit plus de vivre, il faut régner [59]. »
+
+Alors que le pouvoir qui a échu à Pausanias n'est pas héréditaire, il a été choisi et ce choix peut se porter sur un autre. Finalement pour le général lacédémonien, il ne s'agit plus de régner, il faut vivre et tout sacrifier à cet amour inespéré. Pausanias considère lui-même que le temps de l'action politique, public est révolu. Il est prêt à saisir « la félicité, ... la douceur de vivre aimé de ce qu'il aime », il se déclare même :
+
+Content, débarassé des soins⁎ du Rang supréme,  
+Et de passer enfin au gré de mes desirs,  
+Du faiste des Grandeurs au comble des plaisirs [60].  
+
+De même Cléonice apparaît comme un personnage dénué d'ampleur tragique, qui bien loin des tortures morales d'une Chimène, avoue dès sa première apparition sur scène, à l'Acte II, sc.1, son amour pour le meurtrier de son père. L'aveu de son amour pour Pausanias, s'il lui fait horreur un temps, n'est guère suivi de remords lesquels ne semblent être proférés que pour la forme.
+
+Tout mon ressentiment, dans sa chaleur extréme,  
+Tout l'effort, tout l'excez de la mortelle horreur⁎,  
+Qui pour Pausanias avoit saisi mon cœur, ...  
+Tout cela s'est éteint depuis que je l'ai vû,  
+Et d'un trouble secret mon ame toute émeuë  
+Ne sçait ce que pour lui ma haine est devenuë ;  
+Je n'ose en cet estat trop bien m'éxaminer :  
+Ose achever toi mesme, ose tout deviner,  
+Et m'épargne du moins dans cet aveu funeste⁎  
+La honte, & l'embarras d'en expliquer le reste [61].  
+
+En effet, il y a du sang entre Cléonice et Pausanias, comme entre Andromaque et Pyrrhus. Mais là s'arrête l'analogie entre les deux pièces. Cléonice accueille sans horreur l'amour de Pausanias et ne tergiverse pas longtemps avant de lui en faire l'aveu à demi-mot :
+
+On dit peu que l'on hait, Seigneur, en soûpirant. ...  
+Ne me demandez rien j'aurois peur d'en trop dire. ...  
+Ma honte & mon silence en disent-ils trop peu [62] ?  
+
+Dès leur deuxième rencontre, elle laisse transparaître ses sentiments et ne fait par la suite que monnayer le prix de cet amour. On pourrait d'ailleurs s'interroger sur l'intérêt que pourrait représenter pour la princesse perse l'amour de son ennemi si elle n'en faisait l'aveu dès le commencement de la tragédie. Il semble que Quinault aurait pu jouer sur ce que ce sentiment a d'ambigu et de politiquement intéressant pour la jeune fille : elle arrache à la Grèce son commandant en chef, se l'attache ; il deviendrait alors un soutien pour le royaume de Perse. Mais Quinault n'a pas jugé bon d'aller dans ce sens ou de développer les possibilités de mettre au jour un tel dilemme tragique. Il exclut d'emblée les éléments qui auraient pu porter une intrigue réellement tragique, ou un conflit entre pouvoir et devoir (qui n'existe pas plus chez Pausanias que chez Cléonice hormis quelques mentions de pure forme) pour ne conserver qu'une seule ligne de conduite au titre d'élément tragique, fort simple, que l'on retrouve dans la majorité de ses tragédies : deux amants s'aiment et au moment où ils sont tous près de la réalisation de leur bonheur, un obstacle survient qui anéantit leurs belles espérances. En effet, Quinault aurait pu creuser la charge dramatique que constitue cet amour de Cléonice pour Pausanias, semblable à celui qui unit, selon les légendes grecques, Briséis à Achille. On retrouve les mêmes obstacles, la même problématique autrement plus gênante que celle que met en scène Corneille avec Le Cid, car l'amour de Cléonice comme celui de Briséis est postérieur à la mort de son père tué par le lacédémonien. Il aurait pu faire plus nettement lutter la jeune fille contre ce sentiment. On ne trouve guère chez ces deux héritiers de Roman galant de sentiment de culpabilité clairement manifesté ou de réelle volonté de sacrifier son amour au devoir.
+
+Certes elle évoque sa honte, son « embarras » mais nous sommes loin de la supplique désespérée de Phèdre qui, lorsqu'elle sent quel aveu funeste elle va proférer, s'exclame :
+
+Quand tu sauras mon crime, et le sort qui m'accable,  
+Je n'en mourrai pas moins, j'en mourrai plus coupable [63].  
+
+Signe révélateur, chez Quinault, on ne trouve pas la réaction horrifiée d'Oenone :
+
+Juste Ciel ! Tout mon sang dans mes veines se glace.  
+Ô Désespoir ! Ô crime ! Ô déplorable Race !  
+
+Mais au contraire les encouragements d'une suivante qui ne semble pas choquée de l'aveu d'un amour contre nature, et s'empresse même de mettre en valeur les conséquences de cet amour en évoquant l'attitude du général des Grecs face à sa belle captive.
+
+Pour vous en consoler on voit dans ce qu'il ose  
+Qu'il n'est pas insensible au trouble qu'il vous cause,  
+Que son cœur [64]…  
+
+Pour ces deux héros, l'amour est une élévation, une chance de s'accomplir qui justifie toutes les trahisons, tous les compromis. La faiblesse des personnages sympathiques face aux sentiments amoureux trouve son contrepoint dans la lutte énergique et désespérée de Démarate qui veut sauver Pausanias à la fois du déshonneur d'aimer une ennemie et de perdre son autorité sur les armées grecques. C'est en ce sens que les personnages de Pausanias et Cléonice portent moins la tragédie que ne le fait Démarate car ils sont en quelque sorte réifiés par les projets de vengeance et les manipulations de la princesse spartiate. Il semble bien que cette dernière ait toujours un coup d'avance sur eux, elle pressent la trahison comme elle annonce la vengeance ; c'est en somme son programme et son rythme qu'elle impose à la pièce.
+
+
+### Les personnages hérités du théâtre tragique
+
+Avec Démarate, Quinault nous offre l'exemple d'un amour passionné, total mais cependant soucieux de sa gloire, de son honneur. Ce que la princesse grecque redoute plus que tout, au delà de la perte de Pausanias, c'est que ce dédain soit connu. C'est sur ce personnage que repose en grande partie la dimension tragique de la pièce. Le théâtre de Quinault est essentiellement féminin, la femme régit et commande, elle est le personnage agissant du drame qui se noue, cet élément est la conséquence nécessaire de la conception précieuse de l'amour. On peut suivre sur ce point les analyses que fait E. Gros [65] lorsqu'il déclare : « les femmes dans le théâtre de Quinault sont plus intéressantes que les hommes car lorsqu'il décrit des héros, il peint un type mais lorsqu'il décrit des héroïnes, il peint des caractères ». Cette primauté donnée aux personnages féminins permet à l'élève de Tristan d'étudier l'amour dans ses manifestations les plus diverses, de la jalousie la plus forcenée à l'extrême tendresse.
+
+Ainsi le personnage de Démarate (le seul personnage important qui n'ait pas de source historique) apparaît comme un personnage complexe : torturé à la fois par le rejet de son amour et par la blessure d'amour-propre que lui inflige le général spartiate en la dédaignant. La jalousie est présentée comme une conséquence naturelle de l'amour. Et E. Gros d'ajouter : « La peinture de la jalousie était de tradition dans la plupart des pièces où l'action se fonde sur une intrigue sentimentale [66]. » C'est de loin la femme la plus dynamique de cette tragédie ; c'est elle qui est à l'origine de la méprise sanglante qui clôture la tragédie. Certains critiques n'ont vu dans ce personnage qu'un écho d'Hermione mais cela serait oublier les personnages féminins au moins aussi odieux, aussi coupables que « le tendre Quinault » avait mis précédemment en scène. Souvenons nous du personnage d'Elise dans Astrate qui a exterminé toute la famille royale de Tyr pour usurper le trône de ce pays ou bien encore de la furie à venir de Sténobée dans Bellérophon. Ce qui définit le personnage de princesse délaissée que représente Démarate c'est la constance de son projet. Elle partage cette caractéristique avec Aristide sur lequel nous reviendrons ultérieurement.
+
+En effet, toute son action durant le temps de la représentation se résume à s'assurer de son infortune, à éviter qu'elle soit dévoilée aux yeux de tous et à se venger de l'infidèle et de la princesse perse. Cette entreprise est vouée à l'échec. En effet, cet amour est avoué par Pausanias à son confident dès l'Acte I, sc. 3, et deviné par Aristide à l'Acte I, sc.4. De fait tous les protagonistes sont dès les premières heures informés de l'inclination du général pour sa belle captive. Néanmoins, pour en revenir à la comparaison inévitable entre *Pausanias* de Quinault et *Andromaque* de Racine, il faut souligner comme le fait E. Gros [67] que le temps de l'action n'est pas le même dans ces deux pièces. En effet, dès le début d'*Andromaque*, Andromaque sait que Pyrrhus l'aime et Hermione sait que Pyrrhus ne l'aime pas, alors que dans *Pausanias*, Démarate n'a que des soupçons concernant l'amour que pourrait porter Pausanias à Cléonice. De plus, Cléonice n'apprend l'amour de Pausanias qu'à l'Acte II, sc.2, et Pausanias celui de Cléonice qu'à l'Acte IV, sc.2. Le lecteur assiste donc à toutes les révélations que l'intrigue porte en elle.
+
+Cependant Démarate ne se résout pas à une vaine lamentation sur la trahison de Pausanias. Devant sa suivante, elle expose son stratagème : jouer, devant Pausanias, la carte du sublime. Elle espère ainsi gagner son amour par l'admiration que ce dernier aura pour sa grandeur d'âme. C'est ce calcul et ultime stratagème qu'elle expose dès l'Acte II, sc.5 à Charile. Elle espère par une émulation sublime, reconquérir le bel inhumain et le faire renoncer à Cléonice.
+
+Combattons ce grand cœur par generosité,  
+Engageons sa vertu, ménageons sa fierté,  
+Et contre son Amour joignons pour ma deffence.  
+La Gloire, le Devoir, & la Reconnoissance.  
+Si tout nous manque enfin, je sçais où l'attaquer,  
+Et le vengeance au moins ne me sçauroit manquer [68].  
+
+C'est donc d'emblée qu'elle évoque ses doutes et sa volonté de découvrir la vérité et au besoin de se venger. C'est donc sans réelle surprise que le spectateur la voit évoluer, alternant les visages et les attitudes selon les protagonistes qui lui font face. Sublime et héroïque dans un renoncement total devant Pausanias, femme amoureuse qui feint d'éprouver des sentiments pour un autre devant Cléonice et qui réitère le même stratagème avec moins de bonheur devant Aristide, jalouse et manipulatrice enfin lorsqu'elle expose ses plans à sa suivante. Ce monstre aux multiples visages est sans conteste le personnage le plus intéressant de cette pièce. Volontairement ou non, Quinault nous dépeint le prototype du personnage égoïste et furieux, plus amoureux de sa gloire et de sa renommée que de la personne dont elle dit être éprise.
+
+Démarate n'est pas de celles qui se rendent sans combattre, même si ces tentatives sont vaines, l'amour n'étant pas lié au mérite. Comment ne pas évoquer d'ailleurs l'affront qu'elle subit à l'Acte IV, sc.2 lorsqu'elle feint devant Aristide d'aimer un autre homme que Pausanias et tente de lui faire croire que c'est à sa demande que leur mariage est sans cesse repoussé ? Celui-ci refuse de la croire et souligne perfidement sur le mode de la compassion l'affront qu'elle reçoit à l'Acte III, sc.2, v. 807 et suivants :
+
+Je n'examine point si cette ardeur extrême,  
+Ou cherche à m'éblouïr, ou vous seduit vous-mesme ;  
+
+C'est autour de la vengeance de son honneur bafoué que se bâtit la pièce, la princesse lacédémonienne va constituer un obstacle extérieur secret à l'union entre Pausanias et Cléonice. Et c'est bien cette jalousie fatale qui structure la pièce. Les héros sympathiques (Pausanias et Cléonice) ne sont chez Quinault finalement pas maîtres de leurs destins. Dès le début de la tragédie c'est Démarate qui orchestre le jeu des révélations. Ainsi, c'est son annonce à l'Acte II, sc.5 qui scelle l'issue de l'amour de Pausanias et de Cléonice avant même que ce dernier soit au courant de la réciprocité de ce sentiment.
+
+D'autre part les multiples tentatives de Démarate pour conquérir Pausanias ne sont pas sans ressemblance avec celles d'Hermione. Chez ces deux héroïnes tragiques, on note le même balancement entre passion, espoir et rancoeur fatale. Ainsi on retrouve les mêmes emportements chez l'une comme chez l'autre lorsqu'elles sont confrontées à l'infidèle, qui les blesse dans leur orgueil comme dans leur amour.
+
+Soulignons par exemple la réaction d'Hermione devant Pyrrhus, quand ce dernier lui annonce son union prochaine avec Andromaque, et lorsqu'il évoque « l'indifférence » d'Hermione à son égard. Cette parole est de trop et la fait sortir hors d'elle même, et de la ligne de conduite à laquelle elle s'était astreinte. On passe d'une noble attitude de type cornélienne, où l'on sauve son honneur et où l'on souffre en silence à un aveu de colère, de désespoir :
+
+Je ne t'ai point aimé, Cruel ? Qu'ai-je donc fait ?  
+J'ai dédaigné pour toi les voeux de tous nos Princes ...  
+Je t'aimais inconstant, qu'aurais-je fait fidèle ?  
+Et même en ce moment, où ta bouche cruelle  
+Vient si tranquillement m'annoncer le trépas,  
+Ingrat, je doute encor, si je ne t'aime pas [69].  
+
+Néanmoins il faut noter que Démarate va plus loin dans l'abnégation qu'Hermione et que son aveu d'amour malheureux a pour fonction de faire valoir d'une part la constance de ses sentiments pour Pausanias et d'autre part, sa grandeur sublime, celle de ne point chercher de vengeance et d'aller même jusqu'à servir ses amours en se proposant comme alibi pour expliquer à Sparte l'ajournement constant de leur mariage à l'Acte III, sc.4.
+
+S'il en peut estre helas ! il n'est que trop possible,  
+Et pour estre en effet le plus grand des ingrats,  
+C'est peu d'estre insensible & de ne m'aimer pas :  
+Cet ingrat aime ailleurs sans songer que je l'aime.  
+Et pour tout dire enfin cet ingrat c'est vous même [70].  
+
+Cependant, chez Démarate comme chez Hermione, la vengeance est présente, il faut immoler l'infidèle ou tout du moins l'objet de cet amour, qui les expose au mépris. C'est Hermione qui pousse Oreste au crime par amour, c'est Démarate qui arme l'amour contre l'amour, afin que le crime éclate avant l'affront. L'honneur est à ce prix, et cela Démarate en est consciente dès les prémices de cette tragédie, à l'Acte II, sc. 5. Cette annonce d'une vengeance à venir plane sur toute la pièce. Le spectateur sent l'inéluctabilité d'une issue fatale, si l'amour de la princesse spartiate ne trouve pas d'écho chez Pausanias malgré ses stratagèmes.
+
+Laissons meurir l'aigreur de nos ressentimens,  
+Forçons nostre dépit à quelqu'excez qu'il monte,  
+D'attendre à se montrer qu'il le puisse sans honte,  
+Et sans nous exposer par un éclat trop prompt,  
+Tâchons que la vangeance éclatte avant l'affront [71].  
+
+Elle condamne alors le sort de cet amour qui l'offense et immole l'amour par l'amour, comme elle l'explique à l'Acte V, sc. 6 à Pausanias.
+
+J'ai forcé vostre Amour d'immoler ma Rivale :  
+Par l'excez de vos feux j'ai sceu vous éblouïr,  
+Je me suis fait venger par qui m'a sceu trahir.  
+C'estoit peu pour me faire une vengeance pleine,  
+D'armer contre vos jours la fureur ny la haine :  
+J'ai pris soit d'oser plus loin que vous oster le jour,  
+Et d'armer l'Amour mesme enfin contre l'Amour [72].  
+
+C'est dire que Démarate tient par de nombreux aspects aux grandes héroïnes tragiques, aux grandes amoureuses désespérées qui préfèrent tout détruire plutôt que d'abdiquer ou d'avouer leur impuissance. Cependant rappelons que si le personnage de Démarate manque de conviction dans toutes ses scènes de débats et d'échanges cela n'est pas du à une insuffisance du poète mais plutôt à sa volonté de peindre un caractère d'égoïste qui même dans la déploration et dans l'offrande ne peut oublier qui elle est et ce qu'elle doit. Si Démarate feint de s'humilier ce n'est pas par amour mais par amour-propre, elle ne voit que le déshonneur qu'elle encourt si le refus de son hymen vient à être ébruité. Elle garde le souci constant de sa gloire.
+
+Ce qui est frappant chez Démarate c'est son incapacité à communiquer, à avoir un discours performatif et convainquant. Même lorsqu'elle joue la femme sublime qui sacrifie tout à l'aimé elle ne parvient pas à faire croire aux paroles qu'elle profère. C'est en ce sens que nous pouvons souscrire aux propos d'Etienne Gros qui voit dans Démarate un personnage peu émouvant. Il développe :
+
+
+Mais lorsque Démarate s'humilie devant l'homme qui la délaisse, le geste n'est pas émouvant car il manque cet accent de sincérité, cet abandon, cette souffrance ultime qui donneraient l'illusion de la vie et qui ferait plaindre la femme. ... Quinault a voulu peindre une jalouse tendre, et sa jalouse manque essentiellement de tendresse, il a voulu peindre l'envahissement progressif de la haine dans le coeur d'une femme, mais il n'a pas su composer son personnage, parce qu'il n'a pas su marquer avec assez de vigueur les diverses phases de l'évolution, mettre en valeur les sentiments essentiels, donner à ces sentiments la sincérité et la vérité indispensables, son personnage qui aurait pu être attachant et original, reste en définitive terne et flou [73].
+
+Les difficultés que Démarate éprouve à émouvoir, à convaincre, à faire passer par la parole des émotions, sont mises en lumière notamment lors de ses confrontations avec les autres personnages. Il faut être comme Pausanias, complètement aveuglé par un autre amour pour ne pas sentir le danger de faire confiance à cette femme, et, qui plus est, une princesse que l'on bafoue. « Mon sort est entre vos mains & je vous l'abandonne [74]. »
+
+Ou bien, il faut être comme Cléonice, toute de candeur et d'innocence ingénue pour croire la « confidence » que lui fait sa rivale. Celle-ci toute à ses sentiments contradictoires pour Pausanias ne cherche pas à en savoir plus sur cet hypothétique amour qu'évoque la princesse spartiate et s'empresse naïvement de confirmer les craintes de Démarate qui n'en espérait pas tant. « On change quelquefois beaucoup en peu de tems [75]. »
+
+Démarate semble bien être un personnage qui ne trouve sa profondeur que dans les échanges avec sa confidente qui prennent l'allure de monologues, tant les interventions de cette dernière sont minimes. Cette difficulté à communiquer avec les autres protagonistes trouve sans doute son explication dans son égoïsme forcené. La conjugaison de ses deux facteurs explique le jugement de certains critiques [76] qui la qualifient de « monstrueuse ». Ainsi J. B. A. Buijendorp de souligner :
+
+
+Quinault aime peindre le monstrueux à côté de l'idéal. Ses personnages sont ou trop bons ou trop méchants. ... On s'explique qu'une femme délaissée se venge sur son amant infidèle ou sur sa rivale. Elle excitera notre pitié, quand même sa vengeance serait terrible, mais nous n'aurons que de l'horreur pour elle, dès qu'elle se laissera entraîner à commettre des actions monstrueuses. C'est le cas de Démarate dans *Pausanias*. Elle veut non seulement que sa rivale meure, mais qu'elle périsse par la main de son amant Pausanias. ... Mais alors il faut que l'auteur ait soin que la vengeance de son héroïne soit proportionnée à l'offense qu'elle a subie, pour qu'elle ne perde pas tout à fait notre sympathie.
+
+Certes, le comportement dissimulé de Démarate et surtout le machiavélisme de sa vengeance peuvent corroborer ce sentiment de violence et de sauvagerie qui émane de la princesse spartiate mais il faut néanmoins évoquer plusieurs facteurs qui peuvent atténuer ce jugement. Ainsi l'exemplarité de cette vengeance est en quelque sorte le contrepoint sanglant de toutes les compromissions que Pausanias est prêt à faire pour Cléonice. On peut souligner que la vengeance de Démarate est inversement proportionnelle à l'abandon que fait Pausanias de sa gloire pour son amour envers Cléonice.
+
+Autre personnage héritier du théâtre tragique : Aristide qui est, quant à lui, fidèle au portrait qu'en font les historiens antiques. Il apparaît tout entier tendu vers la souci de la gloire d'Athènes. S'il manoeuvre contre Pausanias c'est que ce dernier lui offre un angle d'attaque et s'oublie dans cet amour coupable. Aristide est le seul personnage de cette tragédie qui possède un seul projet. En effet, tandis que Pausanias, Cléonice et Démarate tentent de concilier l'inconciliable (l'amour et le devoir), Aristide ne se soucie que de politique. Dès le début de la pièce, il dévoile son projet : rendre à Athènes l'hégémonie qui lui est due et mettre son ami Cimon à la tête de l'alliance hellène. Cette amitié, ce lien que souligne Quinault entre les deux hommes a réellement existé, Plutarque l'évoque dans *La Vie des hommes illustres* [77] :
+
+
+... Cimon commença de s'entremettre du gouvernement des affaires, le peuple le reçut et acceuillit à grande joie, étant déjà las et ennuyé de Thémistocle, à l'occasion de quoi Cimon fut incontinent élevé et avancé aux plus grandes charges et aux plus grands honneurs de la ville, étant agréable à la commune à cause de sa douceur et de sa simplicité, joint aussi qu'Aristide lui servit de beaucoup à son avancement, tant parce qu'il voyait en lui une adroite et gentille nature, que parce qu'il voulait faire contrepoids à la hardiesse de Thémistocle.
+
+Dans la tragédie, Aristide apparaît comme un homme froid, calculateur, se servant des autres et de leurs sentiments pour arriver à ses fins. Il est le seul à voir clair dès les prémisses de l'action dramatique. Il est conscient des sentiments que nourrit le général spartiate pour sa captive et sait que d'une façon ou d'une autre, il pourra compter sur la jalousie et le désir de vengeance de Démarate. Ainsi à Sophane, qui propose de fomenter une révolte armée pour agir avec violence, Aristide rétorque, en fin connaisseur des âmes :
+
+Essayons s'il se peut, qu'en nous cèdant l'Empire,  
+Contre son propre Roi Sparte mesme conspire,  
+Et que sans qu'à la Grece il en couste du sang,  
+Nostre chere Patrie arrive au premier rang [78]. ...  
+Demarate offencée & justement aigrie  
+Tournera son Amour en mortelle furie,  
+Et c'est un grand secours, & qu'on doit ménager,  
+Qu'une Amante outragée & qui peut se vanger [79].  
+
+De plus sa réputation de « juste » lui est utile pour énoncer la vérité, fusse au prix de la galanterie. Ainsi il n'hésite pas à rétorquer à Démarate :
+
+Ou si vostre dépit⁎ par un éclat si prompt,  
+D'un refus asseuré veut prevenir l'affront [80].  
+
+afin de lui montrer qu'il n'est pas dupe de ses manoeuvres ; il lui conseille la patience, le prudent retrait, l'attente de la révolte des Grecs qui ne peuvent supporter l'amour de leur général avec une ennemie.
+
+C'est grâce à la finesse de ses connaissances politiques et humaines que l'on peut placer le personnage d'Aristide dans la famille des grands manipulateurs. Son projet va finalement aboutir, mais pas comme il l'aurait souhaité : la vengeance de Démarate intervient avant que Pausanias ait pu quitter pacifiquement ses fonctions. On peut alors s'inspirer des travaux de J. Truchet [81] pour nourrir notre réflexion sur le personnage trouble d'Aristide, qui agit dans l'intérêt amoureux de Pausanias en favorisant son idylle mais en nuisant à son pouvoir politique en soulignant le manquement aux devoirs sacrés de la Grèce. Il est à la fois avec l'amoureux et contre le général. Il soutient la faiblesse de Pausanias, après avoir tenté un temps de mettre en lumière ce que cet amour a de choquant pour les peuples grecs. Certes Aristide n'est pas le conseiller de Pausanias, il est son égal en dignité et lui est ouvertement opposé mais il possède néanmoins l'habilité et la froideur des sentiments que dépeint J. Truchet dans son étude :
+
+
+Tandis que les héros brûlés par leur passion, font entendre la mélodie de l'amour, ou ses inflexions et ses nuances, sa douceur ou son amertume, les conseillers, exempts pour la plupart de ce mal merveilleux, disent en contrepoint les moyens de résister à un tel tourment ; car l'amour apparaît le plus souvent dans la tragédie « comme une occasion de problèmes et presque de scandales.
+
+Aristide est le seul à observer froidement, avec pertinence, la situation. Il calcule la prise de risque. Faut-il ouvertement se dresser contre le général lacédémonien ou au contraire attendre que l'amour qu'il éprouve pour Cléonice ravage tout, nuise à son prestige de guerrier et à son droit à prétendre au trône où sa valeur militaire l'a conduit ? Il opte avec sagesse pour le deuxième terme de l'alternative, illustrant ce trait de caractère que développe J. Truchet :
+
+
+Dès lors, régner, c'est connaître l'âme. Maîtriser les événements c'est d'abord se rendre maître de l'autre, le posséder, par la connaissance. De là, toute une politique qui n'est autre chose qu'une technique, qu'une psychologie appliquée. De là, surtout, et c'est ce qui est important pour nous, cette conception de l'histoire qui ramène tout à la mesure de l'homme [82].
+
+« Ramener tout à la mesure de l'homme » c'est ce que fait Aristide en évoquant les rivalités amoureuses qui gravitent autour du cercle des personnages passionnés : Démarate, Pausanias, Cléonice et dans une moindre mesure Cimon. Il est la voix de la raison politique. Ainsi le conseil qu'il donne à Démarate à l'Acte III, sc. 2 illustre bien sa sagesse. Il s'agit d'attendre que Pausanias se précipite de lui même dans le piège que son amour pour Cléonice a édifié. Cet amour est condamné dès l'origine et ne peut que mal finir du fait de la position sociale de Pausanias.
+
+Quel que soit vostre Amour ménagez vostre gloire⁎.  
+Après tant de delais peut-estre encor un jour  
+Sauvera vostre gloire⁎ ensemble & vostre Amour :  
+Evitez, s'il se peut, les reproches de Sparte,  
+Et du moins attendez que Cleonice parte.  
+Pausanias pour elle un peu trop genereux,  
+Pourroit bien entreprendre au delà de vos vœux [83].  
+
+Évoquons en outre la grande réussite que constitue la peinture des personnages de cette tragédie. Les individualités, les caractères se dessinent avec force et réalisme. Dans Pausanias, Quinault a su rendre crédible la moindre des réactions, qui, si elles ne sont pas typiquement tragiques, sont éminemment humaines, mettant en lumière l'élément baroque qui consiste en la tension entre la douceur et la violence, dont l'antithèse constitue l'élément d'unité d'action le plus important de la pièce. C'est du moins ce que souligne W. Brooks [84] lorsqu'il résume l'oeuvre de Joyce A. Scott [85] :
+
+
+... Joyce Scott est d'avis que les critiques antérieurs n'ont pas appréciés le théâtre de Quinault à sa juste valeur, faute d'avoir reconnu le rôle essentiel de la violence dans ses pièces. ... Les pièces de Quinault sont construites pour que des antithèses et des paradoxes produisent des tensions qui retiennent l'intérêt du spectateur, et ce en fin de compte pour que la douceur de certains personnages et la violence de certains autres illustrent la suprématie de cette force irrésistible qu'est l'amour.
+
+La partition en deux groupes entre des personnages marqués par la douceur et ceux touchés par la violence recoupe la présente distinction relevée entre les personnages issus des romans précieux et ceux qui proviennent des souvenirs des grandes amoureuses tragiques antiques bafouées. Cette diversité des origines et des prédicats (être aimée ou rejetée) permet une variation complexe sur le discours amoureux. Pausanias met surtout en lumière la figure des héroïnes, dans lesquelles nous voyons tout le génie de Quinault. Cette pièce discute finalement pour reprendre les termes de W. Brooks « la caractérisation des « doucereux » (les précieux) et des violents (les scélérats, motivés par l'amour de soi). ... Il a su différencier ses héroïnes en leur donnant des motivations et surtout des caractères originaux, probants et naturels. »
+
+Quinault, avide de succès théâtral, remplit ses pièces d'éléments qui plaisent aux spectateurs, il crée des personnages qui deviennent les victimes, non seulement des « violents », mais aussi de leurs propres passions et surtout de la force irrationnelle et toute puissante de l'amour.
+
+
+### Les personnages secondaires, le rôle du confident
+
+Évoquons brièvement les personnages de Charile et Stratone, confidentes de Démarate et de Cléonice. Elles apparaissent comme les reflets, les échos de leurs maîtresses, elles leur sont tellement identifiées qu'elles sont présentes dans des scènes décisives (notamment lors de duos amoureux) sans prononcer une parole et dans le seul souci de respecter les bienséances : une princesse est toujours accompagnée. Ainsi, à l'Acte II, sc. 2, Stratone est là lors de l'aveu que Pausanias fait à Cléonice mais elle reste muette. De même Charile et Stratone sont tous deux présentes lors que Démarate s'entretient du général spartiate avec la princesse perse. Là encore, elles ne prennent pas part à la conversation. Leurs fonctions semblent réduites à un rôle minime, celui de support de l'exposition des sentiments de leur maîtresse. Leurs présences permettent à l'auteur d'exposer avec plus de finesse les interrogations et tergiversations de Démarate et Cléonice.
+
+En outre, il semble qu'elles annoncent les réactions à venir de leurs princesses. Ainsi à l'Acte II, sc.5 Charile s'étonne de la réaction de Démarate et plaide pour la vengeance. Les confidentes émettent l'opinion de leur maîtresse avant même que cette dernière l'ait exposée. La confidente est au courant de toutes les manigances, elle soutient et encourage. Elle permet de ce fait un échange naturel sur les actions à venir et ce dialogue rend possible une peinture complexe du développement de la jalousie chez Démarate.
+
+C'est dequoi s'estonner⁎ : mais ma surprise extrême  
+Est de vous voir tourner vos soins⁎ contre vous-même.  
+Aider à vous trahir, & renoncer d'abord  
+A vos droits les plus chers avec si peu d'effort [86].  
+Contre Pausanias vous pourrez tout sans peine,  
+Il a de tous les Grecs ou l'envie ou la haine,  
+Et si pour vous vanger sa perte a des appas [87]…  
+
+On retrouve le même phénomène chez Stratone, confidente de Cléonice. Elle ne semble pas outre mesure choquée de l'aveu que lui fait la princesse perse. Cet amour, quoique condamnable, est représenté comme possible. Elle souligne de plus l'intérêt que manifeste le général spartiate pour la jeune captive au lieu de peindre l'horreur d'un tel sentiment. Et l'attitude qui consiste à oublier tout ce qui s'oppose à cette inclination, sera celle de Cléonice par la suite. Cependant en cet instant le devoir et l'amour luttent encore dans le cœur de la jeune fille. Ce comportement adopté par la suivante (celui d'encourager cet amour interdit) permet à Quinault de réhabiliter son héroïne. En effet, Cléonice pourrait encourir le même reproche que Chimène c'est-à-dire être jugé comme « une fille dénaturée », si elle ne tentait, ne serait-ce qu'un temps, de résister à la passion qu'elle éprouve pour le meurtrier de son père.
+
+D'autre part, l'introduction de personnages secondaires permet de résoudre le problème de la vraisemblance en exposant tous les faits par le biais de la confidence. Démarate semble exposer à sa suivante les motifs de ses doutes en reprenant les événements dans leur genèse. Elle renseigne en réalité le spectateur. Cet usage du dialogue entre un héros et un confident est le plus courant. Il possède également l'avantage de susciter l'intérêt du spectateur pour le personnage de Pausanias, héros éponyme de cette pièce qui apparaît dans la deuxième scène, après que comme dit J. Scherer [88] « les spectateurs ont pu mettre en ordre par devers eux les données de l'exposition ..., ce personnage bénéficiera alors de l'attention particulière aux débuts d'actes et pourra, en cas de besoin, compléter les données de l'intrigue. » Notons ainsi que Cléonice apparaît seulement à l'Acte II, sc.1 (lors d'un dialogue avec Stratone) où elle avoue son amour pour Pausanias. La boucle est bouclée : tous les éléments de l'intrigue, pressentis dès l'Acte I, sc.1 par Démarate sont réunis. Outre ce procédé d'arrivée retardée, Quinault dès l'Acte I, sc.5 permet à son auditoire de « compléter les données de l'intrigue » en faisant dire par Pausanias son amour pour Cléonice. Ce procédé est repris une troisième fois par Aristide à l'Acte I, sc.5 lorsqu'il expose la raison de son apparente trahison à la cause de son ami Cimon :
+
+Ce n'est pas qu'en effet à vous parler sans fard  
+La Politique ici ne prenne un peu de part :  
+Vous sçavez mon dessein, Sophane, & quelles peines  
+Je souffre à voir toûjours Sparte au dessus d'Athenes,  
+Et combien ardamment je cherche quelque jour  
+A mettre au premier rang ma Patrie à son tour [89].  
+
+Et une quatrième fois par Cléonice lorsqu'elle avoue son amour pour le meurtrier de son père à l'Acte II, sc. 1.
+
+Non, Stratone, avec toi c'est trop dissimuler,  
+C'est trop te déguiser la honte qui me presse,  
+Jusqu'au fond de mon cœur voi toute ma foiblesse [90]  
+
+Le rôle du confident sert à remplacer le monologue, moins naturel. Ce que le héros dit à son confident, il pourrait aussi bien se le dire seul. Cependant cette solution de facilité (introduire un confident) est contrecarrée par le fait que la confidence n'a nullement tué le monologue. Il y a des monologues devant le confident.
+
+Le confident serait, selon J. Scherer, le reflet du héros. Il est à la fois présent et absent. Il sert essentiellement à écouter les données de l'exposition qui lui sont communiquées en même temps qu'aux spectateurs, et à faire le récit final quand le dénouement en comporte.
+
+Le meilleur exemple se trouve dans Phèdre et Hippolyte de Racine quand Théramène, le gouverneur du jeune héros rapporte sa mort cruelle. Le confident retrouve alors les fonctions du messager de la tragédie antique.
+
+On ne retrouve pas ce rôle conclusif dans les confidents de Quinault. C'est Aristide qui prononce les dernières paroles de la pièce. De même, il semble bien que les confidents n'aient pas de vie propre. Ainsi Sophane, confident d'Aristide ne paraît pas sans lui, pas plus que Stratone ne parait sans Cléonice [91]. C'est en ce sens que l'on peut dire d'elle qu'elle est un personnage « protatique ». En effet, elle ne prend la parole qu'une fois, à l'Acte II, sc.1 pour souligner à sa maîtresse que Pausanias ne lui est pas indifférent. Il en est de même pour Charile, Eurianax et Sophane qui se contentent de donner la réplique aux principaux protagonistes.
+
+
+# Une pièce classique ?
+
+
+## La tragédie et l'amour
+
+Dans cette tragédie, comme dans l'*Andromaque* de Racine, l'amour est le principal moteur de l'intrigue et les événements politiques, à savoir d'un côté le récent conflit qui a opposé Troie à Athènes et de l'autre la guerre des Grecs contre les Perses, leur sont subordonnés.
+
+On reproche d'ailleurs à Racine cet excès de galanterie. Il s'en défend âprement dans la préface d*'Andromaque* en l'ouvrant par une longue citation en latin de l'*Enéide* de Virgile.
+
+Soulignons que Quinault, connu grâce à ses tragédies galantes, n'a cure de s'attirer les reproches ou les désormais habituelles critiques de Boileau ou de Somaize, et que contrairement à Racine, il ne réplique guère à ses détracteurs.
+
+Ainsi Boileau dans son *Art Poétique* se moque du théâtre de Quinault, fortement marqué par les romans et les nouveautés précieuses. Ce mépris s'explique par son désir d'un retour aux modèles antiques, par le désir de vérité et de sérieux dans le théâtre.
+
+*L'Art Poétique*, cette affirmation de l'esthétique classique condamne « les enflures du style » et prend d'ailleurs fréquemment Quinault comme contre-exemple. On peut relever par exemple ce passage de la *Satire II*, dédiée à Molière mais où Quinault est également visé :
+
+Si je pense exprimer un Auteur sans défaut,  
+La raison dit Virgile, et la rime Quinault  
+
+Les critiques de Boileau au nom de l'esthétique classique se retrouvent de nouveau dans *L'Art Poétique*, III dans lequel il condamne le recours aux caractères des personnages de romans dans une tragédie.
+
+Bien-tost l'Amour fertile en tendres sentimens  
+S'empara du Théâtre, ainsi que des Romans.  
+De cette fusion la sensible peinture  
+Est pour aller au coeur la route la plus seure  
+Peignez donc, j'y consens, les Héros amoureux.  
+Mais ne m'en formez pas des Bergers doucereux.  
+Qu'Achille aime autrement que Tyrsis et Philene [92].  
+N'allez pas d'un Cyrus nous faire un Artamene :  
+Et que l'amour souvent de remors combatu  
+Paroisse une foiblesse et non une vertu.  
+Des héros de Roman fuyez les petitesses :  
+Conservez à chacun son propre caractère.  
+Des siècles, des Païs, étudiez les moeurs.  
+Les climats font souvent les diverses humeurs [93].  
+
+On pense évidemment ici à Quinault qui dépeint Pausanias le général spartiate éperdu d'amour pour sa prisonnière Cléonice et qui déclare à l'Acte V, sc.3 :
+
+Un grand coeur quand il aime, aime encor plus qu'un autre ;  
+Et les mesmes ardeurs, les mesmes sentimens  
+Qui font les grands Heros font les tendres Amans.  
+N'attends pas de mon coeur de communes tendresses,  
+Ny rien que d'éclatant jusques dans mes foiblesses.  
+Mon courage trop grand ne se peut dementir,  
+Mes fautes, mes erreurs, tout s'en doit ressentir,  
+Et j'oserai porter, quoi qu'on en puisse croire,  
+Mon Amour aussi loin que j'ai porté ma Gloire [94].  
+
+Le héros a ici complètement renoncé à sa gloire, aux honneurs militaires puisqu'il accepte à l'Acte IV, sc.2 [95] de fuir avec Cléonice en Perse pour y vivre leur amour.
+
+Quinault ne s'est jamais efforcé de conserver à ses personnages « les caractères de leur nation et de leur humeur. »
+
+Le sacrifice de l'honneur à l'amour est totalement étranger et contraire aux règles classiques du théâtre classique du XVII*e* siècle français, il s'agit plutôt d'un alignement sur des personnages de théâtre des attitudes et des comportements de héros de romans, où les enlèvements et les fuites avec la personne aimée sont choses courantes.
+
+En effet, Boileau, et même Corneille souligne notamment dans *Le Discours du poème dramatique* que « la tragédie demande quelque passion plus noble ou plus mâle que l'amour ... et que sa dignité exige qu'elle donne à craindre des malheurs plus grands que la perte d'une maîtresse ». Corneille ne rejette pas l'amour dans la tragédie, mais cet élément ne peut en constituer la matière principale, il n'en est que l'accessoire, l'annexe. Cette passion, le grand Corneille la juge « trop chargée de faiblesse », elle ne peut être la dominante du poème héroïque. Elle n'y est admise qu'à condition de la subordonner à une passion plus noble et plus belle, comme la gloire.
+
+Quinault va à l'encontre de ce précepte et fait la part belle à ce sentiment qui constitue (avec les maximes politiques) la matière presque essentielle de ses oeuvres. Cela se retrouve surtout dans ses personnages principaux que sont Pausanias et Cléonice qui n'hésitent guère à sacrifier leur honneur pour vivre leur amour.
+
+Cette tendance est très nette dans *Pausanias*. En effet s'il emprunte son sujet à l'Antiquité, il ne tient aucun compte « des siècles, des païs ou des moeurs » et bâtit une intrigue amoureuse de type galant. Il ne met en valeur qu'un seul élément, l'Amour, un amour délicat, raffiné, un amour empreint de préciosité. Il y a un manque absolu chez Quinault de couleur antique, rien ne rappelle les tableaux historiques ou politiques de Corneille ou de Racine. Il ne se soucie nullement de la vérité, il ne demande qu'à l'histoire des faits et des noms. L'histoire n'est pour lui qu'un cadre commode. S'il donne à ses personnages des noms antiques, s'il situe son action dans l'Antiquité, c'est uniquement pour se conformer à la tradition ; et même lorsqu'il ambitionne de faire une seconde Andromaque il ne peut aller contre sa pente précieuse.
+
+La difficulté qu'éprouve Quinault à sortir de la préciosité s'explique par le fait qu'il est le poète de ce milieu, que ce sont les Précieuses qui l'ont fait connaître et l'ont sacré poète de l'amour courtois. Ce qui caractérise le théâtre de Quinault c'est que chez lui, l'amour emporte tout, justifie tout. C'est en cela que son oeuvre diffère profondément de celle de Corneille et encore plus de celle de Racine.
+
+En effet, comme le souligne Jacques Scherer [96], la distance entre le théâtre de Quinault et celui de ces contemporains les plus célèbres est grande. Ainsi chez Corneille, l'amour ne saurait se passer de grandeur et chez Racine, l'amour est toujours frappé d'un interdit. Pour l'auteur de *Pausanias*, au contraire, l'amour **est**, il n'a pas à être jugé.
+
+Comme le note A. Adam [97] « il faut avoir lu Quinault pour apprécier à son juste prix la hautaine rigueur où Corneille et Racine se trouvent enfermés. »
+
+Le théâtre de Quinault appartient à un autre univers, où les préceptes de *L'Art Poétique* d'un Boileau tel que :
+
+Et que l'amour souvent de remords combattu  
+Paraisse une faiblesse et non une vertu.  
+
+ne s'appliquent pas, n'ont pas de prise. C'est cette liberté de l'amour dans le théâtre de Quinault qui en fait le prix ; la spontanéité de ce sentiment, rebelle à toute obligation, à tout serment, à toute raison d'Etat, constitue l'originalité de ses tragédies. Bien aimer, et tout sacrifier à son amour est, dans son théâtre, la plus haute des vertus.
+
+C'est en ce sens que Quinault a parfaitement compris les tendances de son époque. Il n'hésite pas à « efféminer ses héros par une docte et sublime complaisance au goût des délicats qui veulent de l'amour partout ..., à détruire l'histoire au lieu de la corriger [98]. » Cette attitude Corneille la refuse, il ne voit dans ces techniques qu'une corruption de la tragédie et la cause de la chute de sa *Pertharite* en 1652. Son respect de l'Antique n'était plus au goût du jour, sa trop grande fidélité à l'histoire, à l'exactitude dans la peinture des moeurs déplaisait à une bonne partie du public.
+
+
+En effet, le temps était passé où l'on admirait ce qu'il y avait de grand, de sublime, et d'héroïque dans le théâtre de Corneille. La nouvelle génération voulait voir sur la scène la même tendresse et la même galanterie qu'elle goûtait si fort dans les romans de La Calprenède et de Scudéry [99].
+
+L'élève de Tristan est l'un des principaux initiateurs de la nouvelle tragédie. Il a constaté le plaisir que ses contemporains prennent à la lecture de ces sortes de romans qui, tous en portant des noms historiques tels que *Cléopâtre, Cassandre* n'ont pourtant de commun avec l'histoire que leurs titres seuls. Faits, événements, dates, moeurs, sentiments, tout y est singulièrement modifié, défiguré même. C'est dans l'optique de plaire au public que Quinault embellit les caractères et les moeurs des personnages jusqu'à les rendre méconnaissables ; il leur prête des rôles qu'ils n'ont jamais joués dans l'Histoire ; bref, il sacrifie la vérité historique sur l'autel du succès mondain afin de donner à ses spectateurs ce qu'ils attendent : la vision d'une réalité embellie, sublimée, ou l'amour a force de loi suprême.
+
+Ainsi, s'il fallait formuler sa théorie dramatique (qu'il n'a jamais lui-même exposée), on pourrait la calquer, comme le suggère J. B. A. Buijendorp, sur les idées que l'abbé de Pure développe au sujet du roman :
+
+
+Dans le Roman les beautez d'une belle vie y sont déduites et rapportées avec tous le soin d'un autheur, les défauts ordinaires sont réparez, les bassesses des désirs sont relevées, les impuretez en sont bannies et tout ce que la belle âme peut désirer ou penser de beau devient l'objet de celuy qui escrit ou qui le lit. Comme l'esprit n'est point borné ny captif que sous les loix du probable et de l'apparent, il s'estend et peut se dilater par toutes les régions du mérite, et ne laisser rien de grand et de beau à désirer à la curiosité de son lecteur [100].
+
+En outre, le principe qui dirige le théâtre de Quinault est le même que celui de tous ces paires : plaire au public et connaître le succès restent bien un impératif catégorique.
+
+
+## Le traitement des règles classiques, de la question des trois unités, de la vraisemblance et de la bienséance
+
+
+### Une exposition selon les règles
+
+Les théoriciens se sont tous penchés sur les éléments qui pourraient permettre de créer une bonne exposition, c'est-à-dire, à la fois claire, ni trop longue, ni trop courte et qui ne donne pas l'impression d'une contrainte formelle à visée informative. C'est en vue cette entrée en matière parfaite que s'orientent les recherches les hommes de théâtre du siècle que l'on nomme classique, tant est grand leur souci de perfection. On peut citer entre autres les prescriptions de divers théoriciens.
+
+Ainsi celle de l'auteur du Manuscrit 599 [101], pour lequel une exposition complète doit « instruire le spectateur du sujet et de ses principales circonstances, du lieu de la scène, et même de l'heure où commence l'action, du nom, de l'état, du caractère et des intérêts de tous les personnages. »
+
+De même Boileau, dans son *Art Poétique* souligne que « le sujet n'est jamais assez tôt expliqué [102] ».
+
+Corneille lui-même, dans son troisième Discours, indique que l'exposition doit se limiter au premier acte. Le premier acte est, à ses yeux, essentiel. Il affirme qu'il
+
+
+doit contenir les semences de tout ce qui doit arriver, tant pour l'action principale que pour les épisodiques, en sorte qu'il n'entre aucun acteur dans les suivants qui ne soit connu par ce premier, ou du moins appelé par quelqu'un qui y aura été introduit.
+
+Il souligne également dans ces lignes un précepte important concernant l'unité d'action sur lequel nous reviendrons ultérieurement.
+
+*Pausanias* semble bien remplir les exigences d'une exposition classique. En effet, les confidences que fait Démarate à sa suivante permettent d'emblée de saisir les enjeux de l'intrigue. En effet, le spectateur apprend dès l'Acte I, sc.1, que l'action se situe à Byzance, que les troupes grecques menées par le valeureux général spartiate, Pausanias (auquel Démarate doit s'unir) viennent de sortir victorieuses d'un conflit avec les armées perses. Il connaît également les doutes de Démarate concernant les sentiments de Pausanias à son égard et sa crainte de le voir séduit par la jeune Cléonice, princesse perse retenue prisonnière et dont Pausanias a tué le père.
+
+De même durant la scène 2 de cet Acte, il a la confirmation que Démarate a vue juste. Le général spartiate est épris de sa captive, n'éprouve nul sentiment envers sa promise et paraît imbu de lui-même et de sa grandeur. Les informations essentielles sont toutes données dans le premier acte. Le spectateur apprend également la rivalité qui oppose Sparte à Athènes, laquelle se retrouve entre Aristide et Pausanias. Cette lutte pour l'hégémonie est cependant supplantée par l'intrigue amoureuse évoquée dès le commencement. Cimon va-t-il obtenir Cléonice ? Pausanias va-t-il épouser Démarate ? Cléonice va-t-elle céder à Pausanias ? Comment Aristide peut-il manoeuvrer l'opinion jusqu'à la faire pencher en faveur de son ami Cimon ? Les enjeux sont multiples mais néanmoins liés, l'unité d'action est respectée car tous ces éléments touchent de près ou de loin les intérêts de Pausanias, le héros éponyme de cette tragédie.
+
+Une bonne exposition doit exciter la curiosité du spectateur, ne pas l'ennuyer. L'exposition parfaite doit être selon l'auteur du manuscrit 599 « entière, courte, claire, intéressante et vraisemblable. » L'exposition ne peut-être « intéressante et vraisemblable » quand un personnage raconte à un autre des événements que ce dernier ne peut manquer de connaître déjà. Le paradoxe d'une exposition est qu'elle doit être à la fois antérieure à l'action et pourtant déjà action elle-même.
+
+
+### La règle des trois unités
+
+Nous allons commencer notre étude par l'unité d'action. Pour certains c'est la plus importante. C'est du moins ce que souligne l'auteur du manuscrit 599.
+
+« La troisième unité, qui est celle d'action, est aussi essentielle que les autres ne le sont pas [103]. » Néanmoins cette opinion n'est pas partagée par tous des théoriciens du siècle classique. Ainsi si Boileau rappelle maintes fois dans son Art Poétique la nécessité d'une action qui fédère toutes les autres, il ne souligne cependant pas une quelconque primauté de cette dernière par rapport aux deux autres.
+
+Qu'en un lieu, en un jour, un seul fait accompli  
+Tienne jusqu'à la fin le théâtre rempli [104]  
+
+Ce souci tout particulier donné à l'unité d'action dans la seconde moitié du XVII*e* siècle est en filiation étroite avec les préceptes d'Aristote qui conçoit la simplicité comme une variété de l'unité. Il énonce : « la tragédie est l'imitation d'une action complète et entière, ayant une certaine étendue. ... Est entier ce qui a commencement, milieu et fin [105]. »
+
+De même, Corneille dans son *Discours des trois unités* souligne que « l'unité d'action consiste dans la Comédie en l'unité d'intrigue, ou d'obstacle aux desseins des principaux Acteurs, et en l'unité de péril dans la Tragédie, soit que son héros y succombe, soit qu'il est sorte [106]. » Il rappelle également que
+
+
+l'action que le Poète choisit pour son Sujet doit avoir un commencement, un milieu, et une fin, et ces trois parties non seulement sont autant d'actions qui aboutissent à la principale, mais en outre chacune d'elles en peut contenir plusieurs avec la même subordination.
+
+C'est dire, comme le souligne J. Scherer que l'action d'une pièce de théâtre bien faite doit être caractérisée par son unité. « L'action ne doit pas être une mais unifiée [107]. » Une intrigue principale doit se dégager à laquelle on subordonne une ou plusieurs actions secondaires.
+
+Cette subordination de toutes les actions à une seule nécessite une action principale qui rassemble toutes les autres problématiques que le texte aborde.
+
+Il semble bien que dans Pausanias Quinault s'astreint à respecter ce principe. En effet, l'action principale se résume finalement aux tentatives du héros pour conquérir, malgré des obstacles de diverses natures, la jeune femme dont il est épris. Les actions secondaires se rallient bien à cette problématique que ce soit la jalousie de Démarate, les manoeuvres d'Aristide ou la désapprobation du peuple grec. Tous les éléments de l'intrigue qui s'ajoutent à cette action principale viennent la nourrir, et sont nécessaires : aucune ne peut être enlevée. En outre l'unité d'action est également maintenue grâce à l'antithèse qui consiste en la tension entre la douceur et la violence.
+
+Notons cependant que cette tentative « d'unification d'actions » est en péril puisque au terme de la tragédie c'est une action secondaire, un des épisodes (la dévorante jalousie de Démarate) qui fait échouer l'action principale. Peut-on pour autant soutenir que Quinault ait voulu faire une tragédie galante sur la jalousie et que ce serait cet élément qui constituerait l'action principale de la pièce ? Nous ne pouvons guère souscrire à cette hypothèse car ce sentiment est subordonné à l'amour de Pausanias pour sa captive.
+
+D'autre part, Marmontel dans *Éléments de littérature* rappelle la complexité d'unification des différentes actions que met en jeu une pièce de théâtre :
+
+
+Sur l'unité d'action, la difficulté consistait à savoir comment la même action peut être une sans être simple, ou composée sans être double ou multiple ... l'action principale d'un poème doit être une dépendance, un résultat de toutes les actions particulières qu'on y emploie comme incidents ou épisodes [108].
+
+Corneille, quant à lui, parlait dans *L'Examen d'Horace* d'unité des périls. « L'unité de péril d'un héros dans la tragédie fait l'unité d'action. ... la pluralité des périls est légitime pourvu que de l'un on tombe nécessairement dans l'autre. »
+
+Ainsi on peut dire que dans *Pausanias* l'unité de périls est respectée puisque c'est l'amour qu'éprouve le héros pour sa captive qui déclenche la jalousie de la princesse spartiate bafouée et les complots politiques d'Aristide.
+
+La question de l'unité de temps possède, quant à elle, des liens étroits avec la notion de vraisemblance. Qu'une représentation théâtrale de deux, trois heures, prétende reproduire de si longs laps de temps paraît ridicule à l'époque classique. Cette nouvelle exigence se subordonne aux textes de La Poétique d'Aristote qui dit de la tragédie qu'elle « doit s'efforcer de s'enfermer, autant que possible, dans le temps d'une seule révolution du soleil, ou de ne le dépasser que de peu [109]. »
+
+L'idéal classique étant que la durée de la représentation concorde exactement avec la durée de l'action représentée. C'est du moins ce que prône Schlegel dans *Cours de littérature dramatique* lorsqu'il conseille « l'égalité de durée entre le temps fictif et le temps réel [110]. »
+
+À partir de cette exigence, l'auteur d'une tragédie est confronté à une alternative. Soit il ne précise pas la durée assignée à l'action, soit il la simplifie à tel point qu'elle entre sans effort dans un cadre compris entre 12 et 24 h. Dans *Pausanias* on peut supposer que l'action représentée ait lieu « dans le temps d'une seule révolution du soleil. ». En effet il semble bien que l'action tienne dans les 24 h requises : c'est au petit matin que Pausanias tue Cléonice après s'être assoupi :
+
+J'attendois Demarate, & devois cette nuit  
+Des plus secrets complots estre par elle instruit.  
+Confus de tant d'efforts que l'Amour lui fait faire,  
+Je me suis retiré plûtost qu'à l'ordinaire ;  
+Ordonnant que chez moi sans rien considerer,  
+Demarate en tout temps eust liberté d'entrer.  
+Déja las de veiller & fatigué d'attendre,  
+Un sommeil inquiet m'estoit venu surprendre [111]  
+
+D'autre part, le fait que la tragédie soit conçue comme une crise peut expliquer cet apparent débordement d'actions. C'est du moins ainsi que l'abbé Nadal justifie dans ses *Observations sur la tragédie ancienne et moderne* l'unité de temps.
+
+
+Une raison bien naturelle a obligé les maîtres de l'art à resserrer la tragédie dans un court espace de temps ; c'est qu'en effet c'est un poème où les passions doivent régner, et que les mouvements violents ne peuvent être de longue durée [112].
+
+*Pausanias* semble donc bien respecter, pour l'essentiel, l'unité de temps.
+
+La question de l'unité de lieu met en jeu le rapport qu'entretient la mise en scène et la dramaturgie. C'est pourquoi il paraît essentiel pour Chapelain [113] d'établir certains préceptes afin d'atteindre le point ultime où les spectateurs ne puissent douter d'être « présent à un véritable événement ». Cette recherche découle les préceptes des Anciens « concernant les habitudes des âges et des conditions, l'unité de la Fable, sa juste longueur, bref, cette vraisemblance si recommandée et si nécessaire en tout poème ». Elle se dégage peu à peu de l'unité de temps grâce aux exigences de la vraisemblance. « La scène ne devra représenter que des lieux où les personnages peuvent vraisemblablement se rendre pendant le temps que dure l'action [114]. » Cela sous-entend que les spectateurs doivent oublier qu'ils sont au théâtre pour que l'illusion de la vérité se mette en place. C'est donc le regard que les spectateurs portent sur l'action représentée qui conditionne la validité de l'unité de lieu.
+
+C'est pour cette raison que l'on associe la notion de vraisemblance à la question de l'unité de lieu. Rappelons toutefois comme le fait J. Scherer que « jamais l'unité de lieu n'est apparu comme un impératif catégorique auquel il fallait tout sacrifier. Il y a des accommodements avec elle [115]. »
+
+Nous savons que *Pausanias* a été joué à l'Hôtel de Bourgogne en 1668, la scène se passe à Byzance comme nous l'indique la distribution. Il est probable que le lieu que choisi pour représenter l'action soit un lieu « neutre » (un couloir, une antichambre...) où la vraisemblance permet de penser que les différents protagonistes peuvent s'y rendre, s'y croiser et y évoluer sans heurter la vraisemblance. Le choix de facilité d'user de ce lieu composite (le fameux « Palais à volonté ») est largement répandu car, comme le rappelle J. Scherer, il permet également
+
+
+un compromis entre la rigoureuse unité de lieu et la vraisemblance rigoureuse : au prix d'une certaine invraisemblance consentie par convention, il permet de fixer l'action dans un lieu qui a l'apparence de l'unité, mais qui ne correspond pas véritablement à un lieu concret [116].
+
+
+### La vraisemblance et la bienséance
+
+L'apparition de l'exigence d'une certaine vraisemblance sous-entend qu'entre chaque acte se déroulent des événements de l'intrigue, voire les plus décisifs, les plus sanglants, ceux que les bienséances ou les moyens techniques encore rudimentaires interdisent de représenter sur la scène même. C'est ce que souligne l'abbé Morvan de Bellegarde dans *Lettres curieuses de littérature et de morale* (1702) :
+
+
+Un entr'acte est une partie de l'action, qui paraît interrompue sur le théâtre, mais laquelle ne laisse pas de se continuer derrière le théâtre, où les personnages agissent toujours, et quelque fois même plus vivement [117].
+
+Il est ainsi dans *Pausanias*. En effet, la mort de Cléonice a lieu hors scène, entre la dernière scène de l'acte IV et la première de l'acte V. Quinault en organisant ainsi son intrigue respecte les règles classiques et ménage l'effet de surprise que va produire la révélation de l'identité de la personne tuée par le lacédémonien à l'acte V. Notons par ailleurs la finesse du procédé employé : cette révélation est faite deux fois, la première par un Pausanias éperdu, comme déjà conscient du drame et la seconde par Démarate lors de l'ultime explication qu'elle aura avec le général spartiate. Ce procédé du double regard permet au spectateur de pressentir le malheur qui va accabler le héros. Il est au courant dès le début de la tragédie de la funeste résolution de Démarate : que la vengeance éclate avant l'affront et se doute de l'affreuse méprise orchestrée par la femme jalouse.
+
+L'entr'acte entre l'acte IV et l'acte V respecte donc bien les exigences de l'époque, à la fois en terme de bienséance et de vraisemblance. Pour s'en convaincre rappelons les préceptes qu'évoque l'abbé d'Aubignac :
+
+
+On rejette dans les intervalles des Actes tout ce qui donnerait trop de peine inutilement au poète, et tout ce qui pourrait choquer les spectateurs [118].
+
+Soulignons également que ce procédé est primordial pour la vraisemblance de la pièce. Comment imaginer que l'action ne progresse pas entre deux actes alors même que l'illusion mimétique se veut totale ? Il est impensable que les personnages restent cois et inactifs une fois hors de scène. C'est cette nécessité de l'action durant les intervalles que rappelle Diderot dans *De la poésie dramatique* :
+
+
+Il faut que, lorsque le mouvement cesse sur scène, il continue derrière et voici pourquoi : si les personnages réapparaissaient et l'action ne fût pas plus avancée que quand ils ont disparu, ils se seraient tous reposés, ou ils auraient été distraits par des préoccupations étrangères ; deux suppositions contraires, sinon à la vérité, du moins à l'intérêt [119].
+
+Quinault, en plaçant des événements extrêment importants hors scène respecte d'une part les règles de la bienséance et de la vraisemblance, et d'autre part cette régularité manifeste une fois de plus sa volonté de faire une seconde *Andromaque*.
+
+Notons d'ailleurs que ce procédé de placer hors de la scène la mort des personnages principaux sera repris par Racine dans *Phèdre et Hippolyte* en 1677. En effet, le héros meurt au cours de l'acte V entre la sc. 5 et la sc. 6, moment où Théramène fait à Thésée la triste description de la mort de son fils.
+
+Cependant le parti que prend Quinault de placer hors scène les éléments décisifs lui a été reproché, notamment par E. Gros [120] qui souligne que l'accumulation extra scénique, habituelle chez Quinault, est à l'origine d'un « défaut de continuité. » Il poursuit son analyse :
+
+
+*Pausanias* est une pièce sans reconnaissance, la plus proche du type racinien. ... Le malheur est que, s'il a entrevu le mécanisme de l'action racinienne, Quinault n'a pas su en tirer parti. Le drame psychologique tient peu de place dans sa tragédie. L'action, dégagée des éléments qui l'encombrent, peut paraître « simple et chargée de matière » en réalité, elle est remplie d'événements qui, erreur singulière, se passent tous dans la coulisse. ... Résultat surprenant : les péripéties essentielles de l'action se produisent, rideau baissé, pendant les entr'actes : la délibération des Grecs a lieu entre l'acte II et l'acte III et le meurtre de Cléonice entre l'acte IV et l'acte V.
+
+Et le critique d'ajouter :
+
+
+*Pausanias* n'est pas seulement une oeuvre mal faite, c'est aussi une oeuvre mal conçue. ... au point de vue de l'action, la pièce contient une erreur plus grave : l'introduction dans l'intrigue du personnage d'Aristide. Aristide est extérieur à l'action proprement dite. Il agit en spectateur plutôt qu'en acteur du drame : ce n'était pas Aristide mais *Cimon* qu'il fallait opposer à *Pausanias* pour donner au sujet toute sa valeur dramatique.
+
+Nuançons toutefois la dureté de cette remarque, comme il faut prendre avec circonspection son jugement célèbre sur l'oeuvre de Quinault : « Le chef-d'oeuvre de Quinault c'est sa vie [121]. »
+
+
+# Annexes
+
+
+## Jugements des contemporains sur l'oeuvre de Quinault
+
+Quinault est considéré comme un très grand poète par ses contemporains et ses pièces eurent beaucoup de succès. « Lorsqu'il fit ses premières pièces » écrit Ménage « elles étoient si goûtées et si forts applaudies que l'on entendoit les brouhaha à deux rues de l'Hostel de Bourgogne [122]. » Loret, comme nous l'avons vu, ne parle pas moins élogieusement de lui et quant à sa valeur de poète tragique, l'abbé de Pure le place, avec quelques autres auteurs, au même rang que Molière et Racine :
+
+
+Nous voyons tous les jours éclore de nouvelles et admirables Productions et Tragiques et Comiques et un nombre considérables d'excellens Poëtes et de grands ouvrages. Mess. Corneille, le jeune Desmarets, Molière, Quinault, Gilbert, Boyer, Racine et Mlle Desjardins ont droit aux plus justes louanges que l'on ait jamais données [123].
+
+Perrault pousse même l'admiration jusqu'à déclarer que Quinault est « le plus grand poète que la France ait jamais eu pour le lyrique et le dramatique. » Cette affirmation démesurée doit sans doute être prise, comme le suggère P. Mélèse [124], comme le fruit de sa volonté de soutenir sa thèse de la suprématie des Modernes sur les Anciens et d'octroyer à son époque un génie éclatant de l'art lyrique. Il développe cet éloge dithyrambique dans son *Parallèle des Anciens et des Modernes* [125] :
+
+
+... quand il entra dans le monde et qu'il fit jouer ses premières Comédies, ce fut une affluence de spectateurs incroyable, et des applaudissements que l'on entendait des rues voisines. Les prétendus connaisseurs ayant conclu par leurs profonds raisonnements qu'un jeune homme ne pouvait entendre le théâtre, dirent qu'il y avait à la vérité quelques lueurs d'esprit dans ses Comédies, mais qu'il n'y avait point d'art ni de conduite, comme s'il y avait un plus grand art que celui de charmer ses auditeurs, et de leur faire venir trente fois de suite à la même Comédie ; la vérité est que ses tragédies et ses Comédies ne sont pas toutes dans la dernière régularité, mais qui ne sait qu'en fait de Comédies, quelques légers défauts ne les empêchent pas d'être belles ?
+
+Citons les vers élogieux que lui adresse Boursault dans sa lettre du 19 juillet 1665. Certes on peut s'interroger sur sa sincérité, mais notons néanmoins que tous les commentateurs de l'oeuvre de Quinault reproduisent ces vers sans en douter. L'ironie vient plutôt de Boileau qui reprend la structure de cet éloge pour le déformer. Ainsi quand Boursault déclare :
+
+Un autre esprit fort qui souhaite  
+Que je fasse aussi le Gazette,  
+C'est Quinault : vous le connaissez.  
+Dire son nom, c'est assez.  
+C'est un autheur doux, agréable  
+A qui la scène est redevable.  
+Il écrit toujours tendrement,  
+Il conjuge Amo galamment.  
+Jamais Autheur, hors luy-même,  
+N'a tant de fois dit : Je vous ayme  
+Et de plus, selon le goust mien,  
+On ne l'a jamais dit si bien [126].  
+
+Boileau rétorque en mettant dans la bouche du campagnard de son *Repas ridicule* une refonte des derniers vers :
+
+Les héros de Quinault parlent si bien autrement  
+Et jusqu'à : Je vous hais, tout s'y dit tendrement [127].  
+
+On peut dire que les attaques de Boileau contre notre auteur n'étaient pas dénuées de fondement. Ce qui l'aigrit ce ne sont tant pas ses opéras que ses tragédies, genre dont il se fait une haute idée, bien loin des libertés que prend Quinault. « Dans le temps que parut *Astrate* ils étaient jeunes tous deux et rivaux, quoiqu'ils allassent à la gloire par des voies différentes. Boileau ne put souffrir qu'on mît dans la même balance *Astrate, Stratonice, Amalasonte, Pausanias* et les tragédies de Racine [128]. » L'amitié de Racine et de Boileau va ajouter aux critiques du théoricien qui ne peut souffrir ce manque de sens tragique et de goût de l'Antiquité chez notre auteur.
+
+À cette critique visant la valeur des oeuvres de Quinault s'ajoute une considération esthétique : c'est également sa haine pour la préciosité, qu'il considère comme une altération contre la Nature, qui motivent ces ardentes critiques. Il blâme en lui le créateur de tragédies galantes et non pas l'homme. Ainsi il dira même dans *Réflexion III* :
+
+
+Je ne veux point ici offenser la mémoire de M. Quinault, qui malgré tout nos démêlez Poétiques, est mort mon ami. Il avoit, je l'avoue, beaucoup d'esprit, et un talent tout particulier pour faire des vers bons à mettre en chant. Mais ces vers n'estoient pas d'une grande force ni d'une grande élévation [129] ...
+
+Le succès que rencontre un auteur se mesure également à l'aune des modes qu'il initie et des calomnies dont il est victime. Ainsi Quinault est l'un des « inventeurs » des tragédies galantes qui mêlent personnages historiques, réels et histoires d'amour complexes et malheureuses à l'imitation des romans précieux, et son ennemi littéraire, Somaize va jusqu'à la calomnie en nous rapportant que c'est Quinault qui lança la mode d'aller lire, avant la première représentation, sa pièce dans les salons :
+
+
+O tems malheureux ! Ô modes étranges ! Les applaudissements s'achètent à force de lecture, il les faut briguer, et Quirinus Quinault a amené cette coutume ridicule de mendier les approbations, et l'a si bien établie qu'il faut que les autres la suivent [130].
+
+Somaize le dénigre avec acharnement. Il a eu, selon lui, « plus de bonheur que de talent ..., il a pillé son maître Tristan » et enfin « le nombre de personnes d'esprit qui sont du parti opposé à Quirinus, et qui n'estiment pas ses ouvrages, est plus grand et plus considérable que celui de ceux qui le soutiennent. »
+
+Outre cela, Furetière, qui a été exclu de l'Académie en 1685 pour voir préparé un dictionnaire concurrent de celui de l'Académie, n'hésite pas à se venger de ses anciens confères par une série de *Fatums* agressifs et mordants. Dans le second *Fatum* il s'en prend à Quinault et à la pauvreté de son vocabulaire, notamment à la récurrence de certains termes :
+
+
+Le sieur Quinault ... a eu quatre ou cinq cents mots de la Langue pour son partage ... et il ajoute les pièces de Quinault sont celles d'un ignare qui aurait composé dès le commencement sans voir lu, ... il ne connaît même pas le latin [131].
+
+Relevons également le jeu de mots sur le nom de Quinault que se permet La Fontaine à la suite d'un accès de mauvaise humeur contre Lully qui l'avait sollicité à plusieurs reprises d'écrire un opéra. Ainsi dans la petite pièce du Florentin il écrit :
+
+A tort, à droit ma demanda  
+Du doux, du tendre, et semblables sornettes  
+Petits mots, jargons d'amourettes  
+Confits au moral, bref il m'enquinauda.  
+
+Cette perception personnelle du théâtre de Quinault comme étant le lieu du tendre est partagé par certains des contemporains qui jettent un regard plus distancié, moins passionné sur son oeuvre. Relevons entre autres ce qu'en pense le bibliothécaire de Lamoignon, Baillet qui publia en 1685 *Les Jugements des Sçavans*, ouvrage de compilation où apparaît parfois un jugement intéressant et personnel.
+
+
+Comme il paroit que Mr Quinault a travaillé plutôt pour le plaisir des personnes de joie que pour l'instruction de ceux qui souhaiteroient faire un bon usage de toutes choses, nous n'avons pas sujet de nous étendre longuement sur ses éloges, d'autant plus qu'il doit savoir que ce n'est point tant de ses lecteurs que de ses spectateurs que lui viennent les applaudissements qu'il reçoit et qu'ainsi il pourra bien emporter toute la gloire de son théâtre avec lui [132].
+
+Bien que les critiques s'accordent à dire que le théâtre de Quinault est dominé par l'amour, ils ont rarement compris la richesse et la signification de l'amour dans ses pièces. Or l'élève de Tristan n'est pas seulement le peintre des amours tendres, pour ne pas dire « mièvres ». Ainsi cette définition que donne Chapelain dans* Mémoires sur quelques gens de lettres* en 1662 :
+
+
+Quinault - Est un poète sans fond et sans art, mais d'un beau naturel, qui touche bien les tendresses amoureuses [133].
+
+semble bien caduque pour qui relève les rapports complexes qu'entretiennent pratiquement toutes ses héroïnes avec la violence, l'amour et la mort. C'est le cas pour Elise, pour Sténobée et enfin pour Démarate. Leur amour est mortifère, destructeur, passionné, irrationnel bien loin d'« un amusement, d'un concours d'élégance où les rivaux se disputent le prix sans haine ni jalousie [134]. »
+
+Pour conclure sur ce court relevé, terminons par ce que dit de lui La Bruyère dans *Les Caractères*. Quinault vient de mourir, c'est en somme un éloge funèbre :
+
+
+Le phoenix de la poésie chantante renaît de ses cendres, il a vu mourir et revivre sa réputation en un même jour ; ce juge même si infaillible et si ferme dans ses jugements, le public, a varié sur son sujet, ou il se trompe ou il s'est trompé ; celui qui prononcerait aujourd'hui que Q⁎⁎ en un certain genre est mauvais poète, parlerait presque aussi mal que s'il eût dit il y a quelque temps il est bon poète [135].
+
+Quinault n'a jamais fait l'unanimité, il a été d'emblée pris dans les polémiques de ruelles qui l'encensent ou l'abhorrent. Notons cependant qu'il a très peu ou pas du tout répliqué à ses détracteurs. Ses succès constants et réguliers dans tous les genres auxquels il s'est adonné – que ce soit les tragi-comédies qui l'ont fait connaître, les tragédies galantes ou les opéras – suffissent à prouver le goût de la majorité de ses contemporains pour son théâtre. Quinault fut avant tout le poète d'une époque, d'une sensibilité qu'il a contribué à exacerber et à chanter.
+
+
+## Quinault et les maximes
+
+Il ne faut pas oublier que l'auteur de *Pausanias* a été également apprécié par ses contemporains pour ses maximes sur l'amour ou sur la politique. Nous reproduisons quelques maximes sur l'amour à titres d'exemples.
+
+J'aime, malgré l'horreur de perdre ce que j'aime ;  
+Et, pour dire encore plus, j'aime, malgré moi-même. …  
+Mais l'amour, et surtout l'amour au désespoir,  
+Connaît-il ni respect, ni raison, ni devoir ?  
+
+(extraits d'*Astrate*).
+Plus on connaît l'amour, plus on le déteste. …  
+Au temps heureux où l'on sait plaire,  
+Qu'il est doux d'aimer tendrement ! …  
+La sagesse a son temps ; il ne vient que trop tôt :  
+Ce n'est pas être sage  
+Qu'être sage plus qu'il ne faut. …  
+Ah quelle erreur ! quelle folie !  
+De ne pas jouir de la vie !  
+C'est aux jeux, c'est aux amours  
+Qu'il faut donner les beaux jours. …  
+Ne méprisez pas tant les songes ;  
+L'amour peut emprunter leur voix ;  
+S'ils font souvent des mensonges,  
+Ils disent vrai quelquefois.  
+
+(extraits d'*Armide*).
+
+
+# Note sur la présente édition
+
+Notre texte de référence est en alexandrins à rimes plates, il s'agit de la première édition de *Pausanias* de Philippe Quinault, imprimé en 1669 à Paris chez Guillaume de Luyne, Libraire juré, au Palais, dans la salle des Merciers, à la Justice.
+
+Ce texte se trouve à la Bibliothéque Nationale de France sous la cote YF-6615/ in-12°/ IV-76, mais l'édition papier est malheureusement inconsultable du fait de sa trop grande fragilité. On peut néanmoins y avoir accès par le biais de la microfiche P90/3171. Il existe cependant un autre exemplaire de cette édition à la Bibliothéque de l'Arsenal sous la cote GD 8-156-74. En voici la description :
+
+1vol., 2ff.non ch.VIII-76p. ; in-12°.
+
+I : PAUSANIAS / TRAGEDIE / (Vignette, motif corbeille fleurie) / A PARIS / Chez GUILLAUME DE LUYNE / Libraire Juré, au Palais, dans la / Salle des Merciers, / à la Justice. / M. DC. LXIX. / *AVEC PRILVILEGE DU ROY.*
+
+II : verso blanc.
+
+III-IV-V-VI : épître dédicatoire.
+
+VII : extrait du privilège du Roy.
+
+VIII : liste des personnages (« LES ACTEURS »)
+
+- 76 pages : le texte de la pièce, précédé d'un rappel du titre en haut de la première page. Bandeau au dessus de l'acte I : deux personnages nus dans un verger ; puis au dessus de chaque acte suivant : bandeau de six motifs géométriques.
+
+L'édition consultable à l'Arsenal comporte quelques notes en rapport avec la mise en scène. Ainsi aux vers 954, 1074, 1275 et 1394 il est précisé que le personnage qui vient de prendre la parole sort.
+
+Cette pièce n'a pas été réimprimée du vivant de l'auteur. Cependant elle sera réimprimée à Amsterdam en 1697 par A. Schelte, in-12°/ IV-61p. /frontisp. gr. sous la cote YF-3126, puis en 1715 à Paris par P. Ribou en 5 vol. in-12° dans un corpus global sous le titre *Le Théâtre de M. Quinault, contenant ses tragédies, comédies et opéras, augmentée par sa vie*. Cet ouvrage sera réédité en 1778 toujours à Paris chez les libraires associés.
+
+L'exemplaire que nous avons consulté présente quelques coquilles. Nous signalons ici toutes les modifications effectuées sur le texte originel.
+
+Nous avons remplacé tous les tildes « ∼ » qui figuraient sur les groupes nasalisés *–an* et –*en*. Dans ce seul cas, les corrections ont été systématiques et n'ont pas fait l'objet d'un relevé exhaustif. Dans un souci de conservation graphique nous avons gardé la ligature « & » lorsque notre édition l'employait, et maintenu la conjonction de coordination « et » lorsque notre texte y avait recours.
+
+Pour plus de clarté nous avons distingué les lettres *–i* et *–j* qui étaient dans le texte d'origine identiques et les lettres *–u* et* –v* qui présentaient la même indistinction.
+
+Dans notre texte d'origine, il arrive qu'un même mot soit orthographié de deux manières différentes, nous avons conservé ces deux graphies. Ainsi le mot vengeance peut être graphié « vangeance » ou bien « vengeance » comme en français moderne.
+
+On trouve également deux graphies pour des mots tels que « *avec* » qui peuvent être orthographié « *avecque* » ou bien encore de « *donc* » et de « *doncque* ». Il s'agit ici d'une tournure poétique, qui comporte l'avantage d'ajouter une syllabe. Ainsi « *avecque* » et « *doncque* » comptent pour deux syllabes. Ajoutons également que le mot « *même* » connaît deux orthographes différentes et ce sans lien avec son emploi. À côté du « *même* » en usage dans le français moderne on trouve la graphie du XVII*e* siècle « *mesme* ». Ces emplois sont indifférenciés et l'usage réflexif ne constitue pas non plus un critère d'explication. En effet on trouve aussi fréquemment « lui mesme » que « lui-même ».
+
+Nous distinguerons dans un premier temps les coquilles, erreurs de ponctuation, puis la présence ou l'absence de l'accent diacritique par rapport à l'usage moderne.
+
+
+## Les coquilles et erreurs de ponctuation
+
+« ... tandis que la plupart de ceux qui se m'êlent d'écrire ... ». M'êlent > mêlent.
+
+v.84 : « quelle » > qu'elle
+
+v.114 : « vous ». pas de point
+
+v.170 : « Sparte attendre, encore » Sparte, attendre encore
+
+v.174 : « Signeur > Seigneur
+
+« ... & vous laisse y penser, ».virgule > point
+
+v.230 : « qu'à vous » pas de point
+
+v.250 : « ambition » pas de point d'interrogation
+
+v.281 : « point » pas de point
+
+v.283 : « cet »> cette
+
+v.288 : « le fameux non de Juste ... » non > nom
+
+v.316 : « pretendre » pas de point d'interrogation
+
+v.347 : « Et pretend dautant plus faire voir que je l'aime ». dautant > d'autant
+
+v.385 : « Tout l'effort, tout l'excez de la mortelle horreur ». pas de point
+
+v.742 : « A tenter hautement ce qu'ils nous ont promis, ». virgule > point
+
+v.783 : « trop gardez ». manque la virgule
+
+v.863 : « plaindre ». manque la virgule
+
+v.912 : « Perir pour vous sauver dûst-ce estre pour une autre : » deux points >le point
+
+v.1024 : « craindre » pas de point d'interrogation
+
+v.1059 : « loin ils ». omission de la virgule entre loin et ils
+
+v.1295 : «I s'en va donc enfin.»  –l  > il 
+
+v.1324 : « mourra ce ». omission de la virgule entre  mourra  et ce
+
+v.1385 : « ... paix, Maistre, vostre espoir ». suppression des virgules
+
+v.1437 : «Et tombant sans parler n'y faire aucun effort, ». n'y > ni
+
+v.1566 : « Enfin dautant plus cher qu'il m'avoit plus cousté ». dautant > d'autant
+
+v.1582 : « Tout desarmé qu'il est l'Amour n'est que tropfort ». manque l'espace entre trop et fort
+
+v.1583 : « Deffens moi donc Amour de leur pitié cr ». manque la fin du mot > cruelle, rétablie dans l'édition de A. Schelte, 1697
+
+
+## Présence ou absence de l'accent diacritique
+
+Nous rétablissons systématiquement les distinctions diacritiques en vigueur en français moderne. Ainsi les accents sur les emplois non verbaux de *–a* sont rétablis. a > à 
+
+V. 15, 21, 221, 294, 499, 535, 983, 1073 et 1427.
+
+Tandis que les accents injustifiés sur le verbe sont ôtés. à > a
+
+V. 166, 283, 901, 1013.
+
+De même, l'accent diacritique sur où a été rétabli : ou >où : v. 858.
+
+
+# Pausanias Tragédie
+
+
+## A MONSEIGNEUR MONSEIGNEUR LE DUC DE MONTAUSIER [136],PAIR DE FRANCE, CHEVA lier des Ordres du Roi, Gouver neur & Lieutenant General d'Angommois, Xaintonge, hau te et basse Alsace, Commandant pour sa Majesté en Normandie, Gouverneur de MONSEIGNEUR LE DAUPHIN, &c.
+
+MONSEIGNEUR,
+
+Vous ne doutez pas qu'une Elevation aussi glorieuse que la vostre ne soit d'ordinaire exposée à des importunitez inévitables. C'est une necessité que vous enduriez les applaudissemens du Parnasse en suitte des complimens de la Cour, & tandis que la plupart de ceux qui se mêlent d'écrire s'empresse à vous fatiguer par de grands Ouvrages, je m'asseure que je vous ferai plaisir de vous en quitter pour une simple Epistre. J'essayerai (MONSEIGNEUR) en vous offrant cette Tragedie de vous épargner la mauvaise odeur d'encens trop commune dont on a coutume d'accompagner ces especes de dedicaces ; j'oserai toutefois vous dire que ce ne sera pas à dessein de m'accommoder à la répugnance naturelle que je sçais que vous avez pour les loüanges : ce n'est plus une délicatesse qui vous soit permise  ; & dans le Rang où vous estes, l'exacte Modestie si recommandable pour les autres hommes est une Vertu qui cesse d'estre à vostre usage. En effet (MONSEIGNEUR) aprés que le plus éclairé des Monarques vous a jugé digne d'être Depositaire de ce qu'il a de plus precieux, & que sa Sagesse n'a voulu confier qu'à vous ses plus cheres Esperances, il est de la reconnoissance que vous devez à l'honneur d'un si juste choix de ne pas empêcher que l'on publie les avantages qui vous l'ont fait meriter. Il faut que vous consideriez que ce n'est pas sur vous seul que reflechissent les Eloges que l'on vous adresse, & vous estes obligé de vous souvenir que vostre Gloire ne doit pas faire une des moindres parties de Celle du plus grand Roi du Monde. Mais à dire vrai (MONSEIGNEUR) une matière si noble perdroit trop de son excellence entre mes mains, & je me croirois en peril de la profaner si je me hazardois d'y toucher davantage ; je sens que ma foiblesse m'arreste, et je crains déja d'avoir abusé d'un temps qui n'est reservé qu'à des occupations de la derniere consequence, & dont le Gouvernement de trois ou quatre Provinces n'est que le soin le moins considerable. C'est ce qui me fait precipiter l'offre que je vous fais de Pausanias, en vous protestant que je suis avec autant de passion que de respect.
+
+MONSEIGNEUR,
+
+Votre tres-humble et tres- obeïssant serviteur,
+
+QUINAULT.
+
+
+## EXTRAIT DU PRIVILEGE du Roy.
+
+Par Grace & Privilege du Roy , donné à Paris le vingt-deuxiéme jour de Janvier 1669. Si- gné, par le Roy en son Conseil AUI DE. Il est per- mis au Sieur QUINAULT , de faire imprimer une piece de Theatre, par luy composée, intitulée *Pausanias*, & deffenses sont faites à tous les Librai- res, Imprimeurs & autres , de l'imprimer , ven- dre ny debiter pendant sept ans sur peine de con- fiscation des Exemplaires, de tous dépens, dom- mages & interests , & de quinze cent livres d'a- mende , comme il est plus au long porté par les- dites Lettres de Privilege, Et ledit Sieur Quinault à cédé le Privilège cy- dessus à Guillaume de Luyne, Marchand Li- braïre à Paris, suivant l'accord fait entr'eux.
+
+Achevé d'imprimer le 14 FEVRIER 1669.
+
+Registré sur le livre de la Communauté , le 24 Janvier 1669.
+
+A. SOUBRON Syndic.
+
+
+## ACTEURS
+ – PAUSANIAS,General des Grecs.
+ – ARISTIDE,Chef des Atheniens.
+ – CLEONICE,Prisonniére des Grecs.
+ – DEMARATE,Princesse de Sparte.
+ – SOPHANE, Confident d'Aristide.
+ – EURIANAX,Confident de Pausanias.
+ – STRATONE,Confidente de Cléonice.
+ – CHARILE,Confidente de Demarate
+La Scene est à Bizance.
+
+
+
+## ACTE I.
+
+
+### SCENE PREMIERE.
+DEMARATE, CHARILE.
+
+
+    DEMARATE.
+Il le faut avoüer, rien n'est plus éclattant  
+Que le supréme honneur du destin⁎ qui m'attend.  
+L'hymen⁎ m'offre un Epoux que l'Univers admire,  
+C'est par luy que des Grecs la liberté respire [137].  
+Nostre illustre Pays qui depuis si long-temps  
+A presque autant produit de Heros que d'enfans,  
+Sparte, jusques ici [138] pour sa gloire⁎ immortelle  
+N'a point fait naître encor de Roi si digne d'elle.  
+C'est sous ce General que l'on vient dans nos champs  
+D'immoler en un jour trois cens mille Persans [139],  
+Et que par un effort de valeur sans seconde  
+La Grece échappe au joug qui soûmet tout le Monde  
+De plus Pausanias [140] n'est point de ces Guerriers  
+Dont la teste ait blanchi sous le faix des Lauriers,  
+Qui soit monté par l'âge à des grandeurs solides,  
+Et dont la Renommée ait attendu les rides.  
+Sur le front d'un Héros si fameux, si vaillant,  
+L'éclat⁎ de la jeunesse est encor tout brillant.  
+Vainqueur qu'il est d'un Roi le plus grand de la Terre,  
+Il peut pretendre à vaincre ailleurs que dans la Guerre,  
+Et la Paix qu'à la Grece il asseure aujourd'hui  
+Peut reserver encor des conquestes pour lui.  
+Cependant sur le point du pompeux hymenée⁎  
+Qui doit à ce grand homme unir ma destinée⁎,  
+Puis-je oser découvrir à ton zele discret  
+L'invincible chagrin qui m'accable en secret.  
+
+    CHARILE.
+Vous du chagrin, Madame ? en est-il qui vous presse  
+Si prés du plus haut rang que puisse offrir la Grece,  
+Le vainqueur des Persans, le grand Pausanias,  
+Tout aimable qu'il est, ne vous plairoit-il pas ?  
+Quel charme y peut manquer⁎ pour l'ame la plus vaine⁎ ?  
+
+    DEMARATE.
+Il ne me plaist que trop, Charile, & c'est ma peine,  
+Si mon cœur simplement n'estoit qu'ambitieux  
+L'éclat⁎ de son hymen⁎ éblouïroit⁎ mes yeux.  
+Mon orgueil trouveroit au seul nom de sa femme  
+Dequoi pouvoir remplir tous les vœux de mon ame.  
+J'examinerois peu s'il m'aimoit plus ou moins ;  
+Je ne prendrois pas garde aux tiedeurs de ses soins⁎ ;  
+Et l'heur⁎ d'atteindre au rang le plus beau de la Grece  
+Pourroit me consoler de perdre sa tendresse⁎.  
+Mais j'aime, & c'est mon mal ; le Ciel pour ce Héros  
+M'a fait un cœur sensible, & trop, pour mon repos,  
+Et depuis qu'à l'Amour⁎ on se laisse surprendre⁎  
+Il en couste bien cher d'avoir un cœur trop tendre.  
+
+    CHARILE.
+Pausanias, Madame, encor jusqu'aujourd'hui  
+Vous a peu donné lieu de vous plaindre de lui,  
+Et vostre ame inquiete en doutant qu'il vous aime  
+Est trop ingenieuse [141] à se troubler⁎ soi-mesme.  
+Je ne sçaurois penser que vous en jugiez bien.  
+
+    DEMARATE.
+Tu peux croire qu'il m'aime, & je n'en croirois rien,  
+Non, non, s'il estoit vrai j'en serois trop certaine,  
+Je le souhaite assez pour le croire sans peine,  
+Et pour peu que son cœur pour moy pût s'émouvoir  
+Je serois la premiere à m'en apercevoir.  
+Depuis un mois entier que je suis à Bizance  
+J'observe en me voyant qu'il se fait violence,  
+Et que sous la couleur [142] de ses soins⁎ importans  
+Toûjours sur nostre hymen⁎ il cherche à gagner temps [143].  
+
+    CHARILE.
+Son embarras⁎ l'excuse, il est Chef d'une armée  
+Jalouse de son rang & de sa renommée ;  
+Et les Persans sur terre entierement deffaits,  
+Sont encor sur la mer aussi forts que jamais [144].  
+Le cœur d'un grand Guerrier peut aimer comme un autre ;  
+Mais sa façon d'aimer differe de la nostre ;  
+Ces Heros que la guerre occupe nuit & jour  
+Ont peu de temps de reste à donner à l'Amour⁎.  
+
+    DEMARATE.
+La valeur ne rend pas une ame moins sensible,  
+Et la Guerre & l'Amour⁎ n'ont rien d'incompatible.  
+Quelqu'heure dérobée aux soins⁎ de sa grandeur,  
+Un doux amusement d'une agreable ardeur,  
+Un peu d'amour⁎ enfin aprés une victoire  
+Peut bien s'accommoder avec toute sa gloire⁎,  
+Et loin qu'il fust pour lui honteux de s'enflammer,  
+Pour comble de merite il lui manque⁎ d'aimer.  
+
+    CHARILE.
+Croïez vous que son cœur soit toûjours insensible ?  
+
+    DEMARATE.
+Non, je croi qu'à l'Amour⁎ il n'est rien d'impossible ;  
+Mais s'il te faut tout dire il pourroit s'enflamer,  
+Charile, & n'aimer pas ce qu'il devroit aimer.  
+Depuis que Cleonice est ici prisonniere,  
+Voi quels soins⁎ il lui rend…  
+
+    CHARILE.
+        C'est à vostre priere.  
+N'avez vous pas pour elle imploré son secours ?  
+
+    DEMARATE.
+Je ne l'ai pas prié de la voir tous les jours.  
+
+    CHARILE.
+Mais pouvez vous penser qu'il s'attache à lui plaire,  
+Lui qu'elle sçait autheur de la mort de son Père,  
+Lui contre qui la haine a sceu tant s'expliquer…  
+
+    DEMARATE.
+C'est peut-estre en effet ce qui le peut piquer ;  
+Et cette haine à vaincre avec toute sa force  
+N'est pour un cœur si fier qu'une trop douce amorce  
+Mais avant que je montre aucun ressentiment  
+Je veux sur ce soupçon m'éclaircir plainement.  
+J'en conçoi des moïens qui devront te surprendre⁎  
+Et dont malaisement on pourra se deffendre.  
+D'un art⁎ si peu commun…  
+
+    CHARILE.
+        Voicy Pausanias,  
+
+    DEMARATE.
+Ce n'est pas moi qu'il cherche, il ne m'apperçoit pas.  
+
+
+### SCENE II.
+PAUSANIAS, EURIANAX, DEMARATE, CHARILE.
+
+
+    PAUSANIAS.
+Voir un autre à ma honte obtenir Cleonice,  
+Non, non, auparavant il faut que je périsse,  
+Puisqu'on veut tout tenter employons tout aussi,  
+Allons sçavoir…  
+
+    EURIANAX.
+        Seigneur, Demarate est icy.  
+
+    PAUSANIAS.
+Madame, pardonnez au transport⁎ qui m'anime⁎,  
+On n'en conceut jamais qui fut plus legitime.  
+Un jeune Athénien au mépris de mes droits  
+Veut de nos prisonniers me disputer le choix.  
+J'ay choisi Cleonice, & vous mesme, Madame,  
+A ce dessein⁎ si juste avez porté mon ame,  
+Ce sont en sa faveur vos soins⁎ officieux [145]  
+Qui m'ont sur son merite ouvert d'abort les yeux,  
+Et qui pour adoucir sa fortune⁎ cruelle,  
+M'ont en faisant un choix fait déclarer⁎ pour elle ;  
+Cependant aujourd'huy pour me la disputer,  
+L'audacieux Cimon n'a pas craint d'éclatter.  
+Déja pour l'obtenir sa caballe est si forte,  
+Que peut estre à ma honte, il faudra qu'il l'emporte,  
+Et qu'il oste à mes vœux tout ce qu'auroit de doux  
+La gloire⁎ d'un dessein⁎ que j'avois fait pour vous.  
+
+    DEMARATE.
+N'écoutez point, Seigneur, d'interest que le vôtre,  
+C'est celui qui me touche au dessus de tout autre,  
+Et si j'ay sur ce choix pû vous solliciter  
+Je ne prevoyois pas qu'il vous dût tant couster :  
+Pour peu que votre gloire⁎ en ce dessein⁎ hazarde  
+Cleonice & son sort⁎ n'ont rien que je regarde [146],  
+Je n'y prens plus de part, & vous devez penser  
+Qu'entre elle & vous mes vœux n'ont guere à balancer.  
+
+    PAUSANIAS.
+Je ne puis plus quitter ce dessein⁎ qu'avec honte,  
+Ce seroit de mon rang faire trop peu de conte [147],  
+Ce seroit exposer ma dignité, mes droits,  
+Et ma gloire⁎ m'engage à soustenir mon choix.  
+Je sçais que le pouvoir que la Grece me donne  
+Attache obstinement l'envie à ma personne [148] ;  
+Et qu'un si grand depost entre mes mains commis  
+De tous les mécontens me fait des ennemis.  
+Aristide, & Cimon Chefs des troupes d'Athene,  
+Aux Loix⁎ d'un Roi de Sparte obeïssent à peine [149] ;  
+Mon rang leur fait envie, & pour me l'arracher  
+A me nuire sans cesse on les voit s'attacher.  
+Déja l'un de ces Chefs par cette concurrence,  
+Veut en choquant⁎ mon choix [150] ébranler ma puissance ;  
+Il éprouve sa force, & ce qu'il entreprend,  
+N'est qu'un premier essai d'un attentat plus grand.  
+Ainsi, Madame, il faut mettre tout en usage,  
+Pour ne leur pas ceder ce premier avantage,  
+Et pour deffendre un rang qui me seroit osté  
+Au moindre abaissement de mon authorité.  
+Je dois mesme avoir soin⁎ avant nostre hymenée⁎  
+D'affermir la grandeur qui vous est destinée⁎,  
+D'assurer pour vous mesme un solide pouvoir…  
+
+    DEMARATE.
+Je vous entens Seigneur, & je sçai mon devoir.  
+Je voi ce qui vous plaist, & je cherche à vous plaire.  
+Vous voulez que l'hymen⁎ entre nous se differe ;  
+Sans chercher de raisons, sans m'expliquer pourquoi,  
+Vous le voulez, Seigneur, & c'est assez pour moi.  
+Si mesme vous craignez que Sparte ne s'offence  
+Du delay d'un hymen⁎ qui fait son esperance,  
+Publiez que c'est moi qui seule ai differé,  
+Si mon aveu vous sert il vous est assuré.  
+Ne regardez que vous.  
+
+    PAUSANIAS.
+        Ah ! c'en est trop, Madame,  
+Pour peu que ce delay puisse gesner⁎ vostre ame,  
+A moins que sans regret vous n'en tombiez d'accord,  
+Si vous n'y consentez⁎ sans peine & sans effort…  
+
+    DEMARATE.
+Ah ! Seigneur, j'y consens, cela vous doit suffire  
+Vostre hymen⁎ seul n'est pas tout le bien où j'aspire [151],  
+Ce n'est pas malgré vous que j'y veux parvenir,  
+C'est peu que Sparte seule ait soin⁎ de nous unir ;  
+Si l'amour⁎ ne prend part à nostre destinée⁎,  
+Et ne se mesle un peu d'un si grand hymenée⁎.  
+Pour estre au point qui peut rendre mes vœux contens,  
+Vostre cœur a besoin encor de quelque temps :  
+Bien que l'ordre de Sparte ait à mon avantage  
+Enjoint expressément qu'un si grand cœur s'engage.  
+Je veux bien, sans jamais abuser de mes droits,  
+Aprés l'ordre de Sparte, attendre encor son choix,  
+Et pour mettre le comble à mon bon-heur extréme,  
+Luy donner le loisir de se donner luy mesme,  
+Aprés cela de peur de vous embarasser,  
+Seigneur je me retire, & vous laisse y penser.  
+
+
+### SCENE III.
+PAUSANIAS, EURIANAX.
+
+
+    EURIANAX.
+De si beaux sentimens où tant d'amour⁎ s'exprime,  
+Meritent bien, Seigneur, tout au moins vostre estime,  
+Et ce soûpir paroist me dire en sa faveur,  
+Qu'un procédé si noble a touché vostre cœur.  
+
+    PAUSANIAS.
+J'estime Demarate ; & tout m'en sollicite,  
+Je connois son amour⁎, je vois tout son merite,  
+J'en sçai trop bien le prix, j'en admire l'éclat⁎ ;  
+Mais j'ai beau l'admirer j'y suis toûjours ingrat,  
+Et mon cœur qui ne peut souffrir qu'on nous unisse,  
+Soûpire du regret de lui faire injustice.  
+Le choix de son hymen⁎ que pour moi Sparte a fait  
+Loin d'attirer mes vœux les revolte en effet.  
+Aprés tant de travaux, tant d'efforts de courage⁎,  
+Aprés avoir sauvé tous les Grecs d'esclavage,  
+C'est trop que mon Païs malgré le nom de Roi,  
+M'oste la liberté de disposer de moi.  
+De plus…te le dirai-je ? ouï c'est trop m'en deffendre,  
+Nostre amitié m'en presse, il te faut tout aprendre,  
+Et comme ce secret doit éclatter dans peu,  
+Je ne t'en dois pas moins que le premier aveu.  
+Aprens Eurianax toute mon injustice,  
+J'aime ailleurs.  
+
+    EURIANAX.
+    Vous Seigneur ?  
+
+    PAUSANIAS.
+        Et j'aime Cleonice.  
+
+    EURIANAX.
+Cleonice, Seigneur, est aimable à vos yeux ?  
+Elle qui sort d'un sang à la Grece odieux ?  
+Qui sçait que vous avez par un devoir severe  
+Hai, poursuivi, pris, & condamné son Pere ?  
+Qui pour vanger sa mort avec des soins⁎ pressans  
+A suivi le débris du party des Persans,  
+Et s'est si hautement promise pour Conqueste  
+A quiconque en ses mains remettroit vostre teste.  
+Enfin vous flattez vous qu'au mépris de son choix,  
+Sparte approuve des feux qui choqueront⁎ ses Loix⁎,  
+Et que la Grece entiere encor mal affermie,  
+Souffre en son General l'amour⁎ d'une ennemie.  
+
+    PAUSANIAS.
+Tout ce que tu peux voir je l'ay vû comme toy,  
+Je sçai qu'en ce dessein⁎ tout s'arme contre moy,  
+Je sçai que mon amour⁎ n'a d'espoir qu'aux miracles,  
+J'en connois les perils, j'en voi tous les obstacles ;  
+Mais les difficultez aux Amans [152] ne sont rien,  
+Et c'est un nouveau charme aux cœurs comme le mien.  
+Aimer une ennemie & pretendre à lui plaire  
+Malgré toute la Grece, & le sang de son Pere,  
+C'est braver des dangers terribles & puissans ;  
+Mais l'audace en sied bien au vainqueur des Persans.  
+Tout couvert de l'éclat⁎ d'une illustre victoire,  
+J'ay jusques dans l'amour⁎ voulu chercher la gloire⁎.  
+J'aspire en Amant mesme, à vaincre avec honneur  
+Une conqueste aisée eust fait honte à mon cœur,  
+Puis qu'aimer est pour tous un tribut necessaire,  
+J'ose au moins dédaigner une amour⁎ ordinaire,  
+Et n'ay pas crû qu'aimer avec un plein repos,  
+Sans peine, sans peril fut aimer en Heros.  
+
+    EURIANAX.
+Dans ce dessein⁎ sur tout gardez vous d'Aristide,  
+S'il est des mécontens c'est luy seul qui les guide  
+Sous le grand nom de Juste il cache un cœur jaloux  
+Du pouvoir que les Grecs n'ont confié qu'à vous.  
+
+    PAUSANIAS.
+Je le sçay, mais passons, je le voy qui s'avance.  
+
+
+### SCENE IV.
+ARISTIDE, SOPHANE, PAUSANIAS EURIANAX.
+
+
+
+
+    ARISTIDE.
+De vos amis, Seigneur, fuyez vous la presence,  
+Vostre entretien pour eux est-il si peu permis…  
+
+    PAUSANIAS.
+Je ne fuys qu'Aristide, & connois mes amis,  
+J'évite un entretien qui pourroit le contraindre,  
+Et Juste comme il est il ne doit pas s'en plaindre.  
+
+    ARISTIDE.
+Quoy ne puis-je esperer [153], Seigneur d'estre éclairci  
+De ce qui vous oblige à me traitter ainsi ?  
+Ne m'apprendrez vous point par un aveu sincere  
+Quel crime ou quel malheur me force à vous déplaire ?  
+Expliquez moy du moins en quoi j'ai pû manquer⁎.  
+
+    PAUSANIAS.
+Puisque vous le voulez je vais donc m'expliquer.  
+L'art⁎ de dissimuler ce qu'on reçoit d'outrages  
+N'est pas à mon avis fait pour les grands courages⁎ [154],  
+Et je ne puis conter qu'entre mes ennemis,  
+Quiconque aspire au rang où la Grece m'a mis.  
+
+    ARISTIDE.
+Moy, Seigneur, que j'aspire à ce rang plein de gloire⁎,  
+M'avez vous pû connoistre, & l'avez vous pû croire ;  
+Et m'est-il échappé dans la moindre action  
+Rien qui m'ait convaincu d'aucune ambition ?  
+
+    PAUSANIAS.
+Vous vous déguisez bien sans doute, & je confesse  
+Qu'en vous l'ambition se cache avec adresse,  
+J'y fus trompé d'abord, mais j'ouvre enfin les yeux  
+Et la crains d'autant plus qu'elle se cache mieux,  
+J'aurois apprehendé⁎ bien moins la force ouverte,  
+Que vos pieges secrets preparez pour ma perte :  
+Vos soins⁎ à menager des Peuples inconstans,  
+Voste adresse à flatter l'aigreur des mécontens,  
+Vostre douceur maligne autant qu'ingénieuse  
+Pour rendre de mon rang la hauteur odieuse,  
+Vostre art⁎ à colorer l'orgueil de vos desseins,  
+Si rien n'allarme en vous, c'est tout ce que j'y crains.  
+
+    ARISTIDE.
+Je serai bien coupable en effet, si c'est crime  
+Seigneur, que d'adoucir ceux que l'aigreur anime⁎,  
+D'appaiser des mutins qui pourroient s'emporter,  
+D'empécher contre vous leur fureur d'éclatter.  
+
+    PAUSANIAS.
+Je connois vostre adresse à sçavoir vous deffendre,  
+Et je la connois trop pour m'y laisser surprendre⁎ ;  
+Vous estes éloquent, Seigneur, je le sçai bien [155] :  
+Et pour l'estre il suffit qu'on soit Athenien ;  
+L'art⁎ des belles couleurs est l'estude d'Athenes ;  
+Mais pour nous nez [156] à Sparte, & nourris dans les peines,  
+A qui l'on ne permet d'apprendre & d'acquérir  
+Que ce qu'il faut sçavoir pour vaincre ou pour mourrir,  
+Sans mélange aucun d'art⁎ [157], instruits par la nature,  
+Nous suivons seulement la raison toute pure,  
+Et les belles couleurs dont vous vous déguisez,  
+Nous trouvent trop grossiers pour en estre abusez.  
+Du moins si vous vouliez cacher vostre artifice⁎  
+Vous ne me deviez pas disputer Cleonice :  
+Choquer⁎ d'un General le choix jusqu'à ce point.  
+
+    ARISTIDE.
+De grace avec Cymon ne me confondez point,  
+Seigneur, c'est de lui seul que part cette injustice :  
+Lui seul…  
+
+    PAUSANIAS.
+        Eh vous croïez que ce nom m'éblouïsse⁎,  
+Qu'il m'empéche de voir que c'est un voile adroit  
+Dont vous cachez la main qui m'attaque en secret,  
+De peur de démentir tout ce qu'à vostre gloire⁎  
+Le fameux nom de Juste a voulu faire croire :  
+Je sçai que cet ami vous doit tout ce qu'il est,  
+Qu'il n'agit que par vous, & que comme il vous plaist [158],  
+Que vous ne l'élevez qu'afin qu'il vous soûtienne,  
+Qu'il sauve vostre gloire⁎ aux perils de la sienne,  
+Et que quand au besoin [159] l'injustice vous sert,  
+Son nom seul s'en chargeant vous en mette à couvert.  
+
+    ARISTIDE.
+C'est un mal-heur pour moi de perdre vostre estime,  
+Seigneur, mais vos mépris n'auront rien qui m'anime⁎ ;  
+Et quoi que le vangeance en fut en mon pouvoir,  
+Je ne m'en vangerai qu'en faisant mon devoir⁎ ;  
+J'accuse mon Ami d'une injustice extrême,  
+Et me déclare⁎ enfin pour vous contre lui-même.  
+
+    PAUSANIAS.
+Vous, Seigneur, vous pour moi, contre un Ami si cher ?  
+
+    ARISTIDE.
+Toûjours à son parti l'on m'a vû m'attacher,  
+Toûjours mon amitié fut pour lui tendre & pure,  
+Et si vous le voulez il est ma creature :  
+Mais quelque cher enfin qu'il me soit aujourd'hui  
+La justice est pour vous je ne suis plus pour lui.  
+
+    PAUSANIAS.
+Un sentiment si noble, une vertu⁎ si pleine…  
+
+    ARISTIDE.
+Epargnez moi de grace une loüange vaine⁎,  
+La gloire⁎ où je pretens touche peu d'autres cœurs,  
+Je la cherche en moi-mesme & n'en veux point d'ailleurs.  
+Assemblez le Conseil, demandez Cleonice,  
+J'irai donner l'exemple à vous rendre justice.  
+
+    PAUSANIAS. 
+Que ne vous dois-je pas Seigneur, & quel moïen…  
+
+    ARISTIDE.
+Je fais ce que je dois, vous ne me devez rien.  
+
+
+### SCENE V.
+ARISTIDE, SOPHANE.
+
+
+    SOPHANE.
+Quoi Seigneur au mépris d'une amitié si tendre  
+Pausanias obtient tout ce qu'il peut pretendre ?  
+D'un ami tout à vous, l'interest sera vain ?  
+
+    ARISTIDE.
+J'en ai donné parole & rien n'est plus certain.  
+
+    SOPHANE.
+S'il est ainsi toûjours, si l'équité severe  
+Etouffe en vous ainsi l'amitié la plus chere,  
+Si vous n'osez jamais rien qui ne soit permis,  
+Que sert-il donc, Seigneur, d'estre de vos Amis ?  
+
+    ARISTIDE.
+Hé puis-je à mes Amis rendre un plus grand service,  
+Que de les empêcher de faire une injustice ;  
+Ce n'est pas qu'en effet à vous parler sans fard⁎  
+La Politique ici ne prenne un peu de part :  
+Vous sçavez [160] mon dessein⁎, Sophane, & quelles peines  
+Je souffre à voir toûjours Sparte au dessus d'Athenes,  
+Et combien ardamment je cherche quelque jour  
+A mettre au premier rang ma Patrie à son tour.  
+Si j'obtiens par mes soins⁎ que Sparte enfin nous laisse  
+Le droit de commander aux troupes de la Grece,  
+J'ai déclaré⁎ déjà que sans songer à moi  
+J'en cedde à mon Ami le glorieux [161] emploi :  
+Voila ce que pour lui mon amitié veut faire,  
+C'est pour mieux le servir que je lui suis contraire.  
+Son soin⁎ pour Cleonice est un peu trop pressant,  
+Elle est belle, il est jeune, & l'Amour⁎ est puissant,  
+Tout est perdu pour lui si cet amour⁎ ne cesse ;  
+Cleonice est d'un sang odieux à la Grece,  
+Plein de rage de voir ses voisins florissans  
+Son Pere pour nous perdre appella les Persans,  
+Elle a trop herité des fureurs de son Pere,  
+Tout doit estre suspect de qui cherche à lui plaire.  
+J'etouffe en mon Ami de dangereux soûpirs,  
+Je consulte sa gloire⁎ & non pas ses desirs,  
+Et pretens d'autant plus faire voir que je l'aime,  
+Que j'ose le servir en dépit⁎ de lui même ;  
+Mais pour l'y preparer prenons soin⁎ de le voir,  
+Et qu'il s'en plaigne ou non faisons nostre devoir.  
+Fin du premier Acte.
+
+
+## ACTE II.
+
+
+### SCENE I.
+CLEONICE, STRATONE.
+
+
+    CLEONICE.
+Cesse de me flatter d'une attente importune,  
+Je connois mieux que toi toute mon infortune,  
+Le soin⁎ de Demarate & son empressement⁎,  
+La part que l'on me donne en son appartement,  
+L'honneur qu'en ce Palais chacun cherche à me rendre,  
+Ne me font que trop voir de qui je dois dépendre ;  
+L'ennemi de mon Pere & l'autheur de sa mort,  
+Pausanias, sans doute, est maistre de mon sort⁎.  
+
+    STRATONE.
+Pausanias, Madame, a fait assez connoistre,  
+Que c'est pour l'adoucir qu'il veut s'en rendre maistre.  
+Parmi les prisonniers le choix qu'il fait de vous,  
+Ne vous doit de sa part rien marquer que de doux,  
+Et s'il vous a donné quelque lieu de vous plaindre.  
+Je croi que desormais vous devez n'en rien craindre.  
+
+    CLEONICE.
+N'en rien craindre Stratone ?  
+
+    STRATONE.
+    En doutez vous ?  
+
+    CLEONICE.
+        Helas !  
+
+    STRATONE.
+Quoi soûpirer, rougir, & ne répondre pas.  
+
+    CLEONICE.
+N'impute ce soûpir qu'à la perte d'un Pere.  
+
+    STRATONE.
+On peut en soûpirer, mais on n'en rougit guere,  
+Et plus je vous observe en ce trouble⁎ pressant…  
+
+    CLEONICE.
+Ha de peur d'en trop voir ne m'observe pas tant.  
+
+    STRATONE.
+Je n'ai garde de prendre un soin⁎ qui vous offence,  
+N'y d'entrer malgré vous dans vostre confidence.  
+Je n'examine plus ce qui peut vous troubler⁎.  
+
+    CLEONICE.
+Non, Stratone, avec toi c'est trop dissimuler,  
+C'est trop te déguiser la honte qui me presse,  
+Jusqu'au fond de mon cœur voi toute ma foiblesse,  
+Pour chercher du secours mon mal n'est que trop grand,  
+Et je n'en puis trouver qu'en te le découvrant.  
+Malgré tous mes efforts j'en sens la violence,  
+Au lieu de s'étouffer grossir par mon silence,  
+Et le trouble⁎ où me jette un funeste⁎ penchant,  
+Se prevaut de ma honte & croist en se cachant.  
+Aprens ce que j'ai peine à comprendre moi-même,  
+Tout mon ressentiment, dans sa chaleur extréme,  
+Tout l'effort, tout l'excez de la mortelle horreur⁎,  
+Qui pour Pausanias avoit saisi mon cœur,  
+L'ardeur de l'immoler au sang qui me fit naistre,  
+Tout mon soin⁎ pour le perdre avant que le connoistre,  
+Par je ne sçai quel charme [162] en mon cœur répandu,  
+Tout cela s'est éteint depuis que je l'ai vû,  
+Et d'un trouble⁎ secret mon ame toute émeuë  
+Ne sçait ce que pour lui ma haine est devenuë ;  
+Je n'ose en cet estat trop bien m'éxaminer :  
+Ose achever toi mesme, ose tout deviner,  
+Et m'épargne du moins dans cet aveu funeste⁎  
+La honte, & l'embarras⁎ d'en expliquer le reste.  
+
+    STRATONE.
+Qui croiroit qu'un grand cœur dans la haine affermi,  
+Eust à craindre d'aimer un mortel ennemi.  
+J'avouërai ma surprise & d'autant plus Madame,  
+Que rien n'est échappé du secret de vostre ame,  
+Et que vostre courroux en secret amorti,  
+Devant Pausanias ne s'est point dementi.  
+
+    CLEONICE.
+Ouï mon ressentiment au moins en apparence,  
+Garde avec soin⁎ toûjours la mesme violence :  
+Mes yeux ne disent rien d'un changement si bas,  
+Si mon cœur est seduit ma raison ne l'est pas,  
+Et ma haine au dedans connoissant sa foiblesse,  
+Se retranche au dehors & s'y rend la maistresse.  
+Je crains Pausanias, j'essaïe à l'éviter,  
+Mais j'aime en le fuïant qu'il tâche à m'arrester ;  
+J'ai beau dés qu'il me parle avec soin⁎ l'interrompre,  
+Ma colere s'oublie, & se laisse corrompre ;  
+J'ai beau vouloir fermer l'oreille à ses discours,  
+J'ai beau n'en rien entendre⁎ il m'en souvient toûjours.  
+
+    STRATONE.
+Pour vous en consoler on voit dans ce qu'il ose  
+Qu'il n'est pas insensible au trouble⁎ qu'il vous cause,  
+Que son cœur…  
+
+    CLEONICE.
+        Que dis-tu ? dy plûtost dy moi bien  
+Qu'endurci dans la Guerre il n'est sensible à rien,  
+Dy que sa seule ardeur est toute pour la gloire⁎,  
+Dy qu'il ne peut m'aimer j'ai besoin de le croire,  
+Et mon mal n'est déja que trop à redouter,  
+Sans y rien joindre encor qui le puisse augmenter,  
+Dy qu'il donne les soins⁎ qu'il s'attache à me rendre  
+A la part qu'en mon sort⁎ Demarate veut prendre,  
+Et qu'au point comme il est de recevoir sa foi⁎,  
+Ce n'est qu'en sa faveur qu'il s'empresse pour moi.  
+Pein moi bien cet hymen⁎ que leur Païs souhaite,  
+Cet hymen⁎ dont je sens que mon coeur s'inquiete,  
+Cet hymen⁎ qui peut seul raffermir mon devoir,  
+Et m'oster ma foiblesse en m'ostant tout espoir.  
+
+    STRATONE.
+L'ardeur que Demarate à vous servir emploïe,  
+Vaut bien que vous voïez son bon-heur avec joïe,  
+Elle est digne en effet d'un rang si glorieux,  
+Et Sparte pour son Roi ne pouvoit choisir mieux :  
+Il doit l'aimer sans peine & son merite extréme…  
+
+    CLEONICE.
+C'est assez qu'il l'épouse, il n'importe qu'il l'aime [163]  
+C'en seroit trop, peut-estre, & pour me rendre à moi,  
+Sans que son cœur s'engage il suffit de sa foi⁎.  
+Je sens que jusques là j'aurai peine à détruire  
+Je ne sçai quel espoir qui cherche à me seduire,  
+Je le chasse, il revient, je l'étouffe, il renaist…  
+Mais Dieux !  
+
+    STRATONE.
+    Vous vous troublez⁎,  
+
+    CLEONICE.
+        Pausanias paroist.  
+
+
+### SCENE II.
+PAUSANIAS, CLEONICE, STATONE.
+
+
+    PAUSANIAS.
+Quoi malgré tous mes soins⁎ vostre invincible haine  
+Ne vous permet jamais de me voir qu'avec peine :  
+Quoi, Madame, à la fuite avoir toûjours recours ?  
+
+    CLEONICE.
+Je ne fuy pas trop bien, vous m'arrestez toûjours.  
+
+    PAUSANIAS.
+Ce que je vois dois dire est assez d'importance  
+Pour vous faire un moment endurer ma presence.  
+De tous nos prisonniers je n'ai choisi que vous,  
+Ce choix m'a vainement⁎ suscité des jaloux ;  
+Malgré tout leur effort, malgré leur artifice⁎,  
+Mon choix est approuvé les Grecs me font justice.  
+Je suis maistre absolu de tout vostre destin⁎,  
+C'est à dire qu'ici [164] vous estes libre enfin.  
+
+    CLEONICE.
+Libre ! & par vous Seigneur !  
+
+    PAUSANIAS.
+        Vostre ame s'en estonne⁎,  
+La liberté vous gesne⁎ à voir qui vous la donne,  
+Et perdant par mes mains tous ses charmes pour vous,  
+Le seul droit de me fuir est ce qu'elle a de doux.  
+Mais malgré vostre haine & le soin⁎ qui vous presse,  
+N'est-il rien qui vous puisse attacher à la Grece ?  
+Me fuirez vous si tost ?  
+
+    CLEONICE.
+        Voïez ce que je doi :  
+Et vous mesme Seigneur, répondez vous pour moi.  
+
+    PAUSANIAS.
+D'avec ses ennemis sans peine on se separe ;  
+Mais connoissez mon cœur, il faut qu'il se declare,  
+Il est temps de l'ouvrir sans reserve, sans fard⁎ :  
+Enfin en Roi de Sparte, & tout mistere à part.  
+Je vous aime Madame & ne puis m'en deffendre,  
+Un tel adveu sans doute a lieu de vous surprendre⁎,  
+Je ne fus pas d'abord moins que vous estonné⁎  
+Du desordre⁎ où mon cœur se trouve abandonné.  
+J'eus peine ainsi que vous à le croire moi mesme,  
+Mais il n'est que trop vrai Madame je vous aime.  
+Né pour aimer la Guerre avant que de vous voir,  
+Rien que les seuls combats n'avoit pû m'émouvoir.  
+La gloire⁎ m'animoit⁎ & m'occupoit sans cesse,  
+Je ne traitois l'Amour⁎ que d'un Dieu de foiblesse.  
+Des plus rares beautez j'avois bravé les coups,  
+Vostre haine pour moi m'asseuroit contre vous.  
+Ma liberté toûjours fortement affermie  
+Ne se deffioit pas des yeux d'une ennemie,  
+Et n'avoit pas prevû qu'il se pust faire un jour  
+Que jusques dans la haine on pûst trouver l'Amour⁎ :  
+Cependant quelqu'effort qu'ait pû faire mon ame,  
+Tout haï que je suis je vous aime Madame.  
+Je ne vous dirai rien pour toucher vostre cœur [165]  
+Du comble où ma fortune⁎ a porté ma grandeur :  
+Je ne vous dirai rien du prix de ma victoire,  
+Je ne vous dirai rien de l'éclat⁎ de ma gloire⁎,  
+Du rang de General, du nom pompeux de Roi,  
+Rien du pur sang des Dieux descendu jusqu'à moi,  
+Pour toucher un grand cœur l'amour⁎ seul doit suffire,  
+Et je vous aime est tout ce que je veux vous dire.  
+Malgré le choix que Sparte a fait en ma faveur  
+Je sens ma main pour vous preste à suivre mon cœur.  
+Quoi qu'entre nous l'hymen⁎ me coûte d'injustice,  
+Mon amour⁎ vous en ose offrir le sacrifice ;  
+Et c'est après cet offre à vous à décider  
+Si toute vostre haine à ce prix peut ceder.  
+Prononcez librement vous n'avez rien à craindre,  
+J'ai voulu vous oster tout lieu de vous contraindre,  
+Et j'ai pris soin⁎ exprés pour découvrir mon feu,  
+Que vostre liberté precedast mon aveu.  
+Commencez d'en user sans que rien vous estonne⁎,  
+J'en veux à vostre cœur [166], mais je veux qu'il se donne,  
+Et la moindre contrainte osteroit à mes yeux  
+Tout ce qu'un bien si cher a de plus precieux.  
+Au peril de vous perdre en faveur de quelqu'autre,  
+J'aime mieux hazarder mon bonheur que le vôtre  
+Et risquer d'un refus les mortels déplaisirs⁎ :  
+Que ne vous devoir pas à vos propres desirs.  
+Parlez, declarez vous, mais au lieu de répondre  
+D'où vient que vous semblez vous troubler⁎, vous confondre,  
+Comment de vostre cœur expliquer l'embarras⁎ ?  
+
+    CLEONICE.
+Excusez-le de grace & ne l'expliquez pas.  
+
+    PAUSANIAS.
+J'obeïrai, Madame, & de peur que ce trouble⁎  
+Par l'objet⁎ qui l'excite⁎ encor ne se redouble,  
+Pour ne vous pas surprendre⁎ un choix precipité [167]  
+Je veux bien vous laisser en pleine liberté,  
+Et vous donner le droit malgré le rang suprême,  
+De pouvoir tout ici jusques contre moi même.  
+
+
+### SCENE III.
+DEMARATE, PAUSANIAS, CLEONICE, CHARILE, STRATONE.
+
+
+    DEMARATE.
+On vient de m'avertir que suivant nostre espoir  
+Le sort⁎ de Cleonice est en vostre pouvoir ;  
+Mais Seigneur j'ose attendre une grace nouvelle,  
+Et viens vous demander la liberté pour elle.  
+
+    PAUSANIAS.
+Son sort⁎ merite bien que vous y preniez part.  
+Mais pour sa liberté vous venez un peu tard.  
+Ouï c'en est déja fait elle est libre Madame,  
+Mes soins⁎ ont prevenu les vœux que fait vostre ame,  
+Et je tiens à bon-heur que le don que je faits  
+Aille mesme devant [168] de vos plus doux souhaits.  
+Je vous prie à mon tour de prendre soin⁎ du reste,  
+D'essayer d'adoucir une haine funeste⁎,  
+Et s'il se peut enfin d'obliger son courroux  
+A ne connoistre plus d'ennemis parmi nous.  
+
+
+### SCENE IV.
+DEMARATE, CLEONICE, CHARILE STRATONE.
+
+
+    DEMARATE.
+Vostre ressentiment à quelque point qu'il monte,  
+Contre un tel ennemi peut bien ceder sans honte.  
+Tant de soins⁎ genereux⁎ seroient-ils impuissans ?  
+Le plus fameux des Grecs, le vainqueur des Persans :  
+Lui qui par tout triomphe avec si peu de peine,  
+Manqueroit⁎-t-il, Madame, à vaincre vostre haine ?  
+N'auriez-vous point pour lui des sentimens plus doux ?  
+
+    CLEONICE.
+Ha ! Madame, dequoi me sollicitez-vous ?  
+Sollicitez plûtost & pressez ma retraite,  
+Ici ma liberté n'est encor qu'imparfaite,  
+Et je ne puis jamais sans trouble⁎ & sans effroi  
+En jouïr en des lieux si funestes⁎ pour moi.  
+
+    DEMARATE.
+Quoi pour Pausanias tant de haine vous reste,  
+Qu'un azile en ces lieux vous semble si funeste⁎ ?  
+Vostre ressentiment craint tant de se trahir ?  
+
+    CLEONICE.
+Si vous sçaviez combien j'ai droit de le haïr.  
+
+    DEMARATE.
+Je sçai qu'un Pere mort contre lui vous anime⁎,  
+Qu'il fait de vostre haine un devoir legitime,  
+Et que rien n'est si fort que des ressentimens  
+Fondez sur tant de droits & sur tant de sermens [169] ;  
+Mais ayant fait pour vous tout ce que j'ai pû faire,  
+Enfin si dans ces lieux vous m'estiez necessaire…  
+
+    CLEONICE.
+Moi, Madame, en ces lieux necessaire pour vous,  
+Je faits de vous servir mes souhaits les plus doux :  
+Mais je suis mal-heureuse & le sort⁎ d'ordinaire  
+A mes plus doux souhaits donne un succés⁎ contraire.  
+
+    DEMARATE.
+Il faut vous dire tout, madame, & je veux bien  
+Commencer la premiere à ne déguiser rien.  
+Je m'y sens disposer par une forte estime,  
+Et sans qu'il soit besoin qu'un vain discours l'exprime,  
+Vous en avez assez dans les soins⁎ que je prens,  
+De fidelles témoins & d'asseurez garans.  
+Sparte a plus fait pour moi que je n'eusse osé croire.  
+Trop heureuse en effet par son choix plein de gloire⁎.  
+Si j'avois accordé pour comble de bon-heur  
+Le choix de ma Patrie & celui de mon cœur ;  
+Mais engagée ailleurs je ne puis qu'avec peine  
+Rompre les nœuds charmans d'une premiere chaîne,  
+Et je paye à regret cet honneur mal-heureux  
+Du repos de ma vie & de mes plus doux vœux.  
+Pressée en cet estat de mortelles allarmes,  
+Si j'attens du secours ce n'est que de vos charmes,  
+Et je ne puis fonder que sur leur seul pouvoir  
+Mon unique ressource, & mon dernier espoir.  
+Le succés⁎ y répond, j'observe à vostre veuë  
+Que de Pausanias la fierté⁎ diminuë,  
+Et que si l'on peut vaincre un cœur si glorieux,  
+C'est un droit que le Ciel reserve pour vos yeux.  
+Je sçai qu'il faut du temps pour un si grand ouvrage,  
+Que ce n'est pas si tost qu'un cœur si fier s'engage,  
+Un cœur qui n'eut jamais que des soins⁎ importans.  
+
+    CLEONICE.
+On change quelquefois beaucoup en peu de tems.  
+
+    DEMARATE.
+Que ne vous dois-je point, s'il est vrai qu'il vous aime ?  
+Je m'asseure déja qu'il vous l'a dit lui-même.  
+C'est beaucoup; mais peut estre est-ce un premier aveu  
+Dont vous croyez devoir vous deffier un peu.  
+On peut douter d'abord des douceurs qu'on écoute,  
+
+    CLEONICE.
+Il parle de maniere à laisser peu de doute.  
+
+    DEMARATE.
+O Dieux ! que vous flatez mon espoir le plus doux,  
+Il ne me reste plus qu'un scrupule pour vous :  
+Quoi que l'heur⁎ d'estre aimée ait toûjours dequoi plaire,  
+Je sçai trop à quel point la gloire⁎ vous est chere,  
+Et je crains de vous voir hautement dédaigner  
+Un amour⁎ que l'hymen⁎ ne peut accompagner.  
+Pausanias connoist à quoi Sparte l'engage.  
+Son cœur peut sans sa foi⁎ vous tenir lieu d'outrage.  
+Ces deux dons separez n'ont rien que de honteux,  
+Et vous meritez bien de les avoir tous deux.  
+
+    CLEONICE.
+Je me plaindrois à tort de l'offre qu'il m'a faite,  
+Je n'ai que trop de lieu d'en estre satisfaite,  
+Et vous devez juger au trouble⁎où je me voi,  
+Qu'il ne m'a rien offert qui soit honteux pour moi.  
+
+    DEMARATE.
+Il ne manque⁎ donc plus au bon-heur que j'espere,  
+Que vous faire oublier le sang de vostre Pere.  
+Ce sang de qui la voix doit sans cesse crier,  
+Ce sang qui vous anime⁎…  
+
+    CLEONICE.
+        Et comment l'oublier ?  
+
+    DEMARATE.
+Il est vrai que l'offence est presque irreparable,  
+Pausanias, sans doute, envers vous est coupable,  
+J'aurai peine en effet à le bien excuser ;  
+Mais ne seroit-il rien qui pûst vous appaiser ?  
+On peut excuser tout pour peu qu'on le desire.  
+
+    CLEONICE.
+Ne dites rien pour lui : Mais que pourriez vous dire ?  
+
+    DEMARATE.
+Qu'il tâche autant qu'il peut d'éteindre en vostre cœur  
+Ce qu'un devoir trop juste y doit former d'horreur⁎.  
+Que s'il prit tant de soins⁎ pour perdre vostre Pere,  
+Il creut de son trepas l'exemple necessaire,  
+Qu'il ne peut rien de plus que ce qu'il fait pour vous,  
+Que s'il vous oste un Pere il vous offre un Epoux,  
+
+    CLEONICE.
+J'ai peur d'écouter trop, souffrez que je vous quitte.  
+
+    DEMARATE.
+Le soin⁎ de l'excuser à ce point vous irrite ?  
+
+    CLEONICE.
+En me parlant pour lui si c'estoit m'irriter,  
+Je ne craindrois pas tant de vous trop écouter.  
+
+
+### SCENE V.
+DEMARATE, CHARILE.
+
+
+    DEMARATE.
+Ai-je bien entendu, Charile, est-il possible ?  
+Pausanias enfin n'est donc plus insensible ?  
+Cette ame impenetrable aux ardeurs des Amans,  
+Laisse donc attendrir ses plus fiers sentimens ?  
+Le vainqueur des Persans ne peut plus se deffendre  
+Du tribut que l'Amour⁎ tost ou tard se fait rendre ?  
+Ce grand cœur aime enfin comme les autres cœurs,  
+Et pour mon desespoir, Charile, il aime ailleurs.  
+
+    CHARILE.
+C'est dequoi s'estonner⁎ : mais ma surprise extrême  
+Est de vous voir tourner vos soins⁎ contre vous-même.  
+Aider à vous trahir, & renoncer d'abord  
+A vos droits les plus chers avec si peu d'effort.  
+
+    DEMARATE.
+Quoi tu peux t'estonner⁎ qu'au mépris exposée  
+Je cache au moins ma honte aux yeux qui l'ont causée ?  
+Que j'oste à ma Rivale en cette occasion,  
+La douceur de jouïr de ma confusion ?  
+Et tâche d'empécher qu'un vain depit⁎ n'acheve  
+De lui montrer le prix du bien qu'elle m'enleve.  
+N'attens pas d'un courage⁎ aussi fier que le mien  
+De ces éclats⁎ honteux qui ne produisent rien.  
+Laissons aux foibles cœurs, aux ames imbeciles⁎  
+Consommer leur colere en plaintes inutiles,  
+N'épuisons point la nostre en vains emportemens,  
+Laissons meurir l'aigreur de nos ressentimens [170],  
+Forçons nostre dépit⁎ à quelqu'excez qu'il monte,  
+D'attendre à se montrer qu'il le puisse sans honte,  
+Et sans nous exposer par un éclat⁎ trop prompt,  
+Tâchons que la vangeance éclatte avant l'affront.  
+
+    CHARILE.
+Contre Pausanias vous pourrez tout sans peine,  
+Il a de tous les Grecs ou l'envie ou la haine,  
+Et si pour vous vanger sa perte a des appas⁎…  
+
+    DEMARATE.
+Vangeons nous, s'il se peut, & ne le perdons pas.  
+A quelqu'affront cruel que son mépris m'expose,  
+Je voudrois bien pouvoir n'en punir que la cause [171],  
+J'aime trop le coupable encor pour m'en vanger,  
+Je n'en veux qu'à l'objet⁎ qui m'en fait outrager.  
+Voi de quel prix fatal⁎ cette esclave trop vaine⁎ [172]  
+Recompense les soins⁎ dont [173]j'ai brisé sa chaine,  
+Comme il semble à travers tous mes déguisemens,  
+Qu'elle ait developpé mes secrets sentimens,  
+Comme elle a par degrez fait croistre mes surprises [174],  
+Sceut me percer le cœur à diverses reprises,  
+Et me faire avec soin⁎ ressentir à longs traits  
+Toute l'indignité des maux qu'elle m'a faits.  
+Je n'imagine point une vangeance [175] egale  
+A celle d'abaisser l'orgueil d'une Rivale,  
+De la rendre à son tour un objet de mépris,  
+Et de reprendre un cœur des mains qui nous l'ont pris.  
+Mais pour y réüssir mettons bien en usage  
+Ce qui peut le mieux vaincre un glorieux courage⁎.  
+Combattons ce grand cœur par generosité,  
+Engageons sa vertu⁎, ménageons sa fierté⁎,  
+Et contre son Amour⁎ joignons pour ma deffence.  
+La Gloire⁎, le Devoir, & la Reconnoissance.  
+Si tout nous manque⁎ enfin, je sçais où l'attaquer,  
+Et la vengeance au moins ne me sçauroit manquer⁎.  
+Fin du Second Acte.
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE
+ARISTIDE, SOPHANE.
+
+
+    ARISTIDE.
+D'un Ami mécontent évitons la presence,  
+N'allons point de sa peine aigrir la violence,  
+Ne nous exposons pas à souffrir aujourd'hui  
+Quelque reproche indigne & de nous & de lui.  
+Un Amant qui pert tout a peine à se deffendre,  
+De dire quelquefois plus qu'on ne doit entendre⁎,  
+Laissons-le librement en murmures secrets  
+Evaporer l'effort de ses premiers regrets.  
+Redoublons cependant les soins⁎ sur qui [176] je fonde  
+L'espoir de l'élever au premier rang du Monde,  
+Pour prix d'une Maitresse arrachée à ses vœux,  
+Faisons le commander à cent Peuples fameux.  
+Reparons dignement la perte qu'il regrette,  
+Et par de vrais effets d'une amitié parfaite,  
+Rendons avec usure à sa gloire⁎ en ce jour  
+Tout ce que nous venons d'oster à son Amour⁎.  
+
+    SOPHANE. 
+On n'attend que vostre ordre & pour cette entreprise,  
+Seigneur, selon vos vœux tout est prest sans remise  
+Au camp, dans nos vaisseaux, partout, sans hesiter,  
+Contre Pausanias on brûle d'éclatter.  
+Il n'est que trop en butte à la commune haine,  
+Nos alliez sont las de son humeur hautaine,  
+En flattant les Esprits aigris par ses hauteurs,  
+Vostre douceur adroite a gagné tous les cœurs.  
+Chacun souffre à regret qu'un Peuple s'attribuë,  
+Sur tous les Peuples Grecs la puissance absoluë,  
+Et que Sparte jamais ne voulant rien ceder,  
+Perpetuë en ses Rois le droit de commander.  
+
+    ARISTIDE.
+Essayons s'il se peut, qu'en nous cedant l'Empire,  
+Contre son propre Roi Sparte mesme conspire,  
+Et que sans qu'à la Grece il en couste du sang,  
+Nostre chere Patrie arrive au premier rang.  
+Pausanias en offre une voye infaillible,  
+Son cœur pour Cleonice a paru trop sensible :  
+Il l'aime, & dans l'ardeur de son temperament  
+Sa flame ira bien-tost jusqu'à l'aveuglement.  
+Pour triompher d'une ame à la haine obstinée,  
+Il pourra tout tenter jusques à l'hymenée⁎,  
+Et Sparte qui pretend disposer de ses Rois,  
+Ne pourra rien souffrir au mépris de son choix.  
+Demarate offencée & justement aigrie  
+Tournera son Amour⁎ en mortelle furie,  
+Et c'est un grand secours, & qu'on doit ménager,  
+Qu'une Amante outragée & qui peut se vanger.  
+
+    SOPHANE.
+Il n'est donc pas encore à propos qu'on éclatte,  
+Il est bon que d'abord Pausanias se flatte,  
+De crainte que trop tost effarouchant son cœur,  
+Le peril de ses feux n'en étouffe l'ardeur.  
+
+    ARISTIDE.
+C'est le connoistre mal d'en juger de la sorte,  
+Sa flame combatuë en deviendra plus forte ;  
+Plus nous exposerons d'obstacles à ses feux,  
+Et plus nous en rendrons l'effort impetueux.  
+Son Amour⁎ languiroit⁎ s'il estoit trop tranquile,  
+Son courage⁎ trop fier n'aime rien de facile,  
+Et dans quelque dessein⁎ qu'il puisse s'engager,  
+S'irrite par l'obstacle & croist par le danger.  
+Demarate sur tout prenant nostre querelle,  
+J'espere…  
+
+    SOPHANE.
+        La voici, je vous laisse avec elle,  
+Et vais de mon costé diposer nos Amis  
+A tenter hautement ce qu'ils nous ont promis.  
+
+
+### SCENE II.
+DEMARATE, ARISTIDE.
+
+
+    DEMARATE.
+Seigneur pour éviter le peril qui me presse,  
+C'est entre tous les Grecs à vous que je m'adresse,  
+Quoi que nez de Pays l'un de l'autre jaloux,  
+Quoi que nulle amitié n'ait pû naistre entre nous,  
+C'est sur vous toutefois qu'en un destin⁎ funeste⁎,  
+J'ose encore fonder tout l'espoir qui me reste.  
+Vostre haute vertu⁎ laisse peu soupçonner,  
+Qu'à vostre seul Pays vous puissiez la borner,  
+Et la justice en vous parfaite et sans seconde,  
+Est un bien que les Dieux vous font pour tout le Monde.  
+
+    ARISTIDE.
+Ordonnez, j'obeïs, proposez, j'y consens,  
+Le sexe & le merite ont des droits tous puissans.  
+J'ai déja ressenti ce qu'on vous fait d'injure,  
+J'en sçai l'indignité comme vous j'en murmure,  
+Je m'estonnois⁎ d'abord de voir Pausanias  
+Differer entre vous un hymen⁎ plein d'appas⁎ ;  
+Mais ses empressemens, ses soins⁎ pour Cleonice,  
+N'ont que trop découvert toute son injustice :  
+Chacun voit à regret à quel rebut honteux [177]  
+Vous expose l'ardeur de ses indignes feux.  
+Sparte de cette injure avec vous offencée,  
+Seule à vous en vanger n'est pas interressée.  
+Les Grecs ne doivent plus connoistre un General,  
+Qui s'allie en un sang à leur repos fatal⁎,  
+Et dans cette odieuse & funeste⁎ alliance,  
+Ce qu'il vous fait outrage est la commune offence  
+Contre lui hautement nous nous unirons tous…  
+
+    DEMARATE.
+Ah ! Seigneur, ce n'est point ce que je veux de vous.  
+Pausanias n'est point Amant de Cleonice,  
+C'est un bruit mal fondé qui lui fait injustice.  
+J'aurois tort de m'en plaindre & je dois avouër  
+Qu'on ne peut pas avoir plus lieu de s'en louër.  
+Si l'hymen⁎ entre nous trop long-temps se differe,  
+C'est moi qui l'en conjure, il le veut pour me plaire,  
+Et si pour Cleonice il fait voir quelque ardeur,  
+Tous ses empressemens ne sont qu'en ma faveur.  
+J'ai souhaitté de lui ce qu'il ose pour elle,  
+Il s'empresseroit moins s'il m'estoit moins fidelle.  
+Sparte, ni tous les Grecs n'ont rien à redouter…  
+
+    ARISTIDE.
+Vous aimez, & l'amour⁎ se plaist à se flatter,  
+Craignez d'en croire trop, gardez de vous méprendre.  
+
+    DEMARATE.
+Des yeux interessez⁎ se laissent peu surprendre⁎.  
+Je répons de son cœur & sans trop me flatter  
+Quand j'en ose répondre on n'en doit pas douter.  
+Plust aux Dieux qu'à ma honte une heureuse Rivale,  
+M'ostast pour mon repos cette gloire⁎ fatale⁎.  
+Et qu'un refus injuste & pour moi plein d'appas⁎,  
+Pûst d'un aveu honteux m'épargner l'embarras⁎.  
+L'époux qui m'est offert brille d'un grand merite,  
+Rien n'en tenit l'éclat⁎, pour lui tout sollicite  
+En sa propre personne autant que sa grandeur  
+N'a que trop dequoi plaire au plus superbe cœur,  
+Mais l'aveugle destin⁎ qui dispose des ames,  
+M'avoit avant ce choix soûmise à d'autres flames,  
+Et du plus grand merite un cœur est peu frappé,  
+Quand une fois d'ailleurs il est preoccupé [178].  
+Quelqu'éclat⁎ qu'ait pour moi l'hymen⁎ où l'on m'engage,  
+Je n'en voi qu'en tremblant le funeste⁎ avantage,  
+Et si Pausanias sçait qu'un autre a mes vœux,  
+Pour les tiranniser il est trop genereux⁎.  
+J'espere qu'à moi-mesme il voudra bien me rendre,  
+D'un Heros tel que lui, c'est ce que j'ose attendre ;  
+Et c'est enfin, Seigneur, pour l'y bien disposer,  
+Ce qu'aucun mieux que vous ne lui peut proposer.  
+
+    ARISTIDE.
+Je n'examine point si cette ardeur extrême,  
+Ou cherche à m'éblouïr⁎, ou vous seduit vous-mesme ;  
+Ou si vostre dépit⁎ par un éclat⁎ si prompt,  
+D'un refus asseuré veut prevenir l'affront.  
+Sans rien approfondir je ne veux voir, Madame,  
+Que ce que vous m'ouvrez du secret de vôtre ame,  
+Je croi ce qui vous plaist & veux de bonne foi⁎  
+Répondre aux sentimens que vous avez de moi :  
+Ne precipitez rien si vous m'en voulez croire,  
+Quel que soit vostre Amour⁎ ménagez vostre gloire⁎.  
+Après tant de delais peut-estre encor un jour  
+Sauvera vostre gloire⁎ ensemble & vostre Amour⁎ :  
+Evitez, s'il se peut, les reproches de Sparte,  
+Et du moins attendez que Cleonice parte.  
+Pausanias pour elle un peu trop genereux⁎,  
+Pourroit bien entreprendre au delà de vos vœux.  
+
+    DEMARATE.
+Dites tout, ma priere en effet vous fait peine,  
+J'exige trop de vous, c'est un soin⁎ qui vous gêne,  
+Vous cherchez doucement à vous en dispenser,  
+Et je veux bien Seigneur, vous en débarasser.  
+Je ferai cet aveu sans secours de personne,  
+L'ayant fait une fois il n'a rien qui m'estonne⁎.  
+Je veux tout déclarer⁎ & j'irai de ce pas.  
+
+    ARISTIDE.
+Vous n'irez pas bien loin voici Pausanias.  
+
+
+### SCENE III.
+PAUSANIAS, ARISTIDE, DEMARATE, EURIANAX.
+
+
+    PAUSANIAS.
+A vostre tour, Seigneur, fuyez vous ma presence,  
+J'allois vous asseurer de ma reconnoissance.  
+
+    ARISTIDE.
+Vous me devez trop peu pour vous en souvenir ;  
+Mais Demarate cherche à vous entretenir,  
+Seigneur, & le secret qu'elle pretend vous dire  
+Doit fuir la multitude & veut qu'on se retire.  
+
+
+### SCENE IV.
+PAUSANIAS, DEMARATE, EURIANAX.
+
+
+    PAUSANIAS.
+Quel est donc ce secret dont vous l'avez instruit,  
+Qui cherche tant l'éclat⁎, les témoins, & le bruit ?  
+M'en jugerez vous digne, & pourrai-je pretendre  
+Ensuitte d'Aristide à l'honneur de l'apprendre [179] ?  
+
+    DEMARATE. 
+Aristide, Seigneur, ne l'a sçeu que pour vous ;  
+J'ai crû que de moi-mesme il vous seroit moins doux ;  
+Mais il répond si mal à ce que je desire,  
+Que j'ose me resoudre enfin à vous tout dire.  
+J'estime vostre hymen⁎ autant que je le doi  
+L'honneur du choix de Sparte est précieux pour moi ;  
+C'est la plus haute gloire⁎ où je pouvois atteindre.  
+
+    PAUSANIAS.
+Je vous entens Madame, & vous allez vous plaindre,  
+C'est un mauvais moyen que de fâcheux éclats⁎ [180],  
+Que des plaintes…  
+
+    DEMARATE.
+        Seigneur vous ne m'entendez pas,  
+A quelque excez d'honneur que vostre hymen⁎ m'éleve,  
+Je ne viens pas ici pour presser qu'il s'acheve :  
+Loin d'avoir là-dessus rien à craindre de moi,  
+Je viens vous conjurer de degager ma foi⁎,  
+Et c'est là cet aveu que mon ame timide,  
+Est contrainte à vous faire au refus d'Aristide [181].  
+
+    PAUSANIAS.
+Vous m'en voyez surpris, c'est sans doute un aveu  
+Madame, où [182] j'avouërai que je m'attendois peu ;  
+Mais pour me disposer à ce qui peut vous plaire,  
+Le secours d'Aristide estoit peu necessaire ;  
+Vous douteriez à tort de ma facilité,  
+C'est sans peine…  
+
+    DEMARATE.
+        Ah ! Seigneur, je n'en ai pas douté.  
+
+    PAUSANIAS.
+Quoi que je perde en vous je n'ose pas m'en plaindre,  
+Je ne dois rien vouloir qui puisse vous contraindre,  
+Et j'aime mieux ceder mon bon-heur le plus doux,  
+Que d'oser en Tyran estre heureux malgré vous.  
+Il est aisé de voir au desordre⁎ où vous estes  
+Que l'Amour⁎ s'est mêlé du refus que vous faites,  
+Et si rien en secret n'occupoit vostre cœur,  
+Peut-estre mon hymen⁎ vous feroit moins d'horreur⁎.  
+Quel que soit cet Amant il peut tout se permettre,  
+J'offre & je promets tout…  
+
+    DEMARATE.
+        Gardez de trop promettre,  
+Seigneur, & de m'offrir en faveur de mes feux  
+Plus que vous ne croyez & plus que je ne veux.  
+Il n'est que trop vrai, j'aime, & d'une amour⁎ [183] trop tendre,  
+J'aime un ingrat enfin, s'il faut vous tout apprendre,  
+Un ingrat dont je prens contre moi l'interest  
+Tout insensible encore & tout ingrat qu'il est.  
+
+    PAUSANIAS.
+Peut-il estre un ingrat à ce point insensible ?  
+
+    DEMARATE.
+S'il en peut estre helas ! il n'est que trop possible,  
+Et pour estre en effet le plus grand des ingrats,  
+C'est peu d'estre insensible & de ne m'aimer pas :  
+Cet ingrat aime ailleurs sans songer que je l'aime.  
+Et pour tout dire enfin cet ingrat c'est vous même.  
+
+    PAUSANIAS.
+Moi, Madame ?  
+
+    DEMARATE.
+        Ouï, Seigneur, cessons de déguiser,  
+Vous aimez Cleonice & voulez l'épouser.  
+Ce feu qui me trahit menace vostre teste  
+De l'éclat⁎ d'une affreuse & mortelle tempeste,  
+Nos voisins envieux, nos alliez jaloux,  
+Ne cherchent qu'un pretexte à s'unir contre vous :  
+Sparte mesme engagée au refus qui m'offence,  
+Croira de mon affront se devoir la vangeance,  
+Et si j'ose me plaindre & soustenir mes droits  
+J'armerai contre vous tous les Grecs à la fois :  
+Voilà pourquoi Seigneur lors que je vous refuse,  
+Mesme pour me trahir je vous preste une excuse,  
+Et pourquoi ce refus qui vous sert & me nuit,  
+Affecte tant l'eclat les témoins & le bruit.  
+Je ne puis me vanger quoi que trop offencée,  
+Vous estes en peril ma colere est passée,  
+Dés qu'un ingrat si cher a besoin de secours,  
+Le dépit⁎ presse en vain l'amour⁎ revient toûjours.  
+Que Sparte contre moi tonne, éclatte, foudroye,  
+A sa fureur pour vous je m'expose avec joye ;  
+N'ayant plus nul espoir qui flatte mon Amour⁎,  
+Il m'en coustrera peu m'en coustast-il le jour :  
+Vous me l'avez rendu trop peu digne d'envie,  
+Mes vœux en vous perdant content pour rien la vie :  
+Je ne regarde plus que vostre seul danger,  
+Je m'y livre aisément pour vous en dégager,  
+Et veux bien immolant tout mon bon-heur au vostre,  
+Perir pour vous sauver dûst-ce estre pour une autre.  
+
+    PAUSANIAS.
+Ah ! Madame, faut-il que vous trouviez si bien  
+Le secret d'estonner⁎ un cœur comme le mien ?  
+Que ne vous armez vous d'un dépit⁎ legitime,  
+Contre un ingrat seduit & charmé de son crime,  
+Et que ne cherchez vous à pouvoir m'en punir,  
+Plûtost qu'à me forcer d'en vouloir revenir ?  
+Je sens mes vœux confus & mon ame interdite⁎ ;  
+Que vous m'embarassez avec tant de merite.  
+Que n'en avez vous moins en effet & pourquoi  
+Me montrez vous si bien mon devoir malgré moi ?  
+Vous faites un effort qui m'en prescrit un autre.  
+Ma generosité doit répondre à la vostre,  
+Et n'oseroit souffrir que par des soins⁎ si doux,  
+Vous fassiez tant pour moi sans rien faire pour vous,  
+Il est juste à mon tour que mesme soin⁎ m'anime⁎.  
+Et peut estre en effet l'Amour⁎ qui fait mon crime  
+N'a pas de ma vertu⁎ si bien sceu triompher  
+Qu'il ne m'en reste encor assez pour l'étouffer.  
+Je sens que vostre exemple à cet effort m'engage…  
+
+    DEMARATE.
+C'est sans doute un effort digne d'un grand courage⁎.  
+Rien n'est plus heroïque il le faut avoüer…  
+
+    PAUSANIAS.
+Ne vous pressez pas tant encor de m'en loüer,  
+L'effort est beau je sçai que la gloire⁎ en est grande  
+Que ma vertu⁎ le veut, que Sparte le demande,  
+Je sçai que je le dois, mais au trouble⁎ [184] où je suis,  
+Je ne sçai pas trop bien encor si je le puis.  
+
+    DEMARATE.
+Si d'un espoir trop doux j'ai flatté ma tendresse⁎,  
+Pardonnez moi Seigneur ce reste de foiblesse :  
+L'espoir renaist sans peine, il seduit aisément,  
+Et tout trompeur qu'il est il est toûjours charmant.  
+Je ne veux point vous faire aucune violence,  
+Et si vous en trouvez la moindre en ma presence,  
+Si l'effort de mes vœux aux vostres immolez  
+Vous touche en ma faveur plus que vous ne voulez,  
+Je vous laisse & renonce en ma tendresse⁎ extrême,  
+A toucher vostre cœur en depit⁎ de lui-même.  
+Allez Seigneur, sans voir ce que vous me coustez  
+Offrir ailleurs en paix ce cœur que vous m'ostez :  
+Oubliez, s'il se peut qu'à tort il m'abandonne,  
+Et qu'il m'estoit mieux deub [185] peut-estre qu'à personne.  
+Si du plus tendre Amour⁎ la plus fidelle ardeur  
+Pouvoit jamais suffire à mériter un cœur.  
+
+
+### SCENE V.
+EURIANAX, PAUSANIAS.
+
+
+    EURIANAX.
+N'en est-ce point assez ? & seroit-il possible  
+Qu'à cet illustre effort vous fussiez insensible ?  
+Se pourroit-il Seigneur qu'il vous fust reproché  
+D'avoir vû tant d'Amours⁎ [186] sans en estre touché ?  
+Vous laisseriez vous vaincre en grandeur de courage⁎ ?  
+Le trouble⁎ où je vous voi paroist d'heureux presage :  
+L'Amour⁎ & la Vertu⁎, la Gloire⁎, & le Devoir  
+Pour Demarate enfin semblent vous émouvoir.  
+
+    PAUSANIAS.
+Sans doute, Eurianax, un si grand sacrifice,  
+Engage trop mon cœur à lui rendre justice.  
+Il le faut, tout le veut : Cleonice aussi bien  
+A trop d'horreur⁎ pour moi pour en esperer rien :  
+Qu'elle parte à son gré, renonçons à sa veuë,  
+Et tandis que je sens ma vertu⁎ revenuë,  
+Hastons nous d'éloigner ses dangereux attrais,  
+Allons lui dire adieu pour ne la voir jamais [187].  
+Fin du Troisième Acte.
+
+
+## ACTE IV.
+
+
+### SCENE PREMIERE.
+ARISTIDE, PAUSANIAS.
+
+
+    ARISTIDE.
+Je détourne vos pas, je sçai où [188] je m'expose ;  
+Mais l'interest public va devant toute chose,  
+Et c'est enfin Seigneur, à ne vous rien celer,  
+Au nom de tous les Grecs que je viens vous parler [189].  
+
+    PAUSANIAS.
+Avec beaucoup d'ardeur le bien public vous touche,  
+Et tous les Grecs souvent parlent par vostre bouche ?  
+Mais je veux bien Seigneur me taire là-dessus,  
+Pour prix des derniers soins⁎ que vous m'avez rendus.  
+
+    ARISTIDE.
+Croyez qu'avec regret Seigneur…  
+
+    PAUSANIAS.
+        Pour vostre gloire⁎  
+Sans rien examiner je consens à tout croire.  
+Je croirai s'il le faut que le superbe emploi,  
+De voir un General prendre de vous la loi⁎,  
+D'avoir au nom des Grecs des ordres à prescrire,  
+Au Chef dont vous devez reconnoistre⁎ l'Empire,  
+Est un soin⁎ qui n'a rien qui vous flatte en secret,  
+Et dont vous vous chargez toûjours avec regret ;  
+Quoi qu'il en soit enfin sçachons ce qu'on desire,  
+Et ce qu'au nom des Grecs vous avez à me dire [190].  
+
+    ARISTIDE.
+C'est un soin⁎ important qu'ils soûhaitent de vous,  
+Pour vostre propre gloire⁎ & pour le bien de tous.  
+Cleonice est toûjours à craindre avec justice.  
+
+    PAUSANIAS.
+Les Grecs se meslent-ils encor de Cleonice ?  
+Elle a la liberté j'en ai pû disposer.  
+
+    ARISTIDE.
+Oüy, mais les Grecs ont peur qu'elle en puisse abuser.  
+Ce que leur a cousté la haine de son Pere  
+En fait craindre en la fille un reste hereditaire ;  
+Suspecte parmi nous on veut qu'elle aille en paix,  
+Parmi nos ennemis jouïr de vos bien-faits,  
+Et que vous preniez soin⁎, Seigneur, qu'en diligence⁎  
+Elle quitte la Grece, & dés demain Bisance.  
+
+    PAUSANIAS.
+L'ordre est pressant sans doute & surprenant pour moi.  
+Il se peut que les Grecs, ces Peuples sans effroi ;  
+Eux qui sous ma conduite avec tant d'asseurance,  
+Ont bravé des Persans l'effroyable puissance ;  
+Eux de tant d'ennemis par tout victorieux,  
+Soyent capables de craindre une fille en ces lieux,  
+Mais une fille enfin qui n'a pour toutes armes,  
+Que ce que sa beauté lui peut donner de charmes.  
+Que d'innocens appas⁎ qu'elle fait éclatter…  
+
+    ARISTIDE.
+Eh c'est par là Seigneur qu'elle est à redouter.  
+La Beauté quelquefois forme de grands orages,  
+Et est souvent l'écueil des plus fermes courages⁎,  
+Des plus fiers ennemis tel a bravé l'effort,  
+Qui contre de beaux yeux n'est pas toûjours si fort.  
+Quelque Heros qu'on soit on n'est pas insensible,  
+Et fust on mille fois à la Guerre invincible,  
+Mille fois intrepide & mille fois vainqueur,  
+L'Amour⁎ trouve aisément le foible d'un grand cœur.  
+
+    PAUSANIAS.
+Si c'est en Cleonice un crime d'estre aimable,  
+Pour qui trouvez vous tant sa beauté redoutable ?  
+Pour Cymon vostre Ami craignez-vous ses appas⁎ ?  
+
+    ARISTIDE.
+Tout mon Ami qu'il est je n'en répondrois pas ;  
+Mais si je puis Seigneur oser ne vous rien feindre,  
+Vous mesme pourriez vous n'y trouver rien à craindre ?  
+
+    PAUSANIAS.
+Un soin⁎ si curieux doit me surprendre⁎ fort.  
+
+    ARISTIDE.
+Je parle au nom des Grecs je vous l'ai dit d'abord.  
+
+    PAUSANIAS.
+Au nom des Grecs ou non, d'eux ou de vous n'importe,  
+La curiosité me paroist toûjours forte.  
+Que les Grecs sans pretendre à plus qu'il n'est permis,  
+Me demandent raison de ce qu'ils m'ont commis,  
+Du soin⁎ de soustenir leur Gloire⁎ chancelante,  
+Du soin⁎ de r'animer⁎ leur Liberté mourante,  
+Du soin⁎ de les tirer de cent perils pressans,  
+Du soin⁎ de vaincre enfin trois cens mille Persans :  
+C'est dequoi s'il le faut & sans peine & sans honte  
+Le General des Grecs est prest à rendre conte ;  
+Mais pour ce qui se passe en secret dans son cœur,  
+Quels que soient ses desirs, quelle qu'en soit l'ardeur,  
+Qu'il s'engage à son gré, qu'il haïsse, ou qu'il aime,  
+Il n'en pretend devoir de conte qu'à lui mesme.  
+
+    ARISTIDE.
+Aucun des Grecs Seigneur n'a la temerité,  
+De vouloir de leur Chef choquer⁎ la liberté ;  
+Mais si vous estes libre ils pretendent tous l'estre,  
+Et pour souffrir un Chef ne souffrent point de Maistre.  
+Ils laissent vostre cœur à son gré soûpirer,  
+Contre un Objet suspect laissez-les s'asseurer :  
+S'ils craignent vous devez d'autant moins vous en plaindre,  
+Que ce n'est que pour vous qu'ils ont le plus à craindre :  
+Leur soin⁎ part de leur zele, & vous doit estre doux,  
+Ils ont peur d'avoir lieu d'oser rien contre vous,  
+De vous voir engager plus qu'ils ne voudroient croire,  
+De vous voir oublier peut-estre vostre gloire⁎,  
+Et pour leur General eux-mesme de se voir  
+Dans la necessité d'oublier leur devoir.  
+
+    PAUSANIAS.
+Sçachez vous et les Grecs…  
+
+    ARISTIDE.
+        Cessez de nous confondre,  
+Ce n'est qu'aux Grecs Seigneur que vous devez répondre.  
+Je vous parle pour eux.  
+
+    PAUSANIAS.
+        Puisque vous le voulez  
+Je répons donc aux Grecs pour qui pour me parlez.  
+Leur zele va trop loin, ils ont sujet de croire  
+Que je sçaurai sans eux avoir soin⁎ de ma gloire⁎ :  
+Qu'ils ne se mêlent pas d'en prendre aucun souci,  
+Et quant à leur devoir j'en aurai soin⁎ aussi.  
+L'interest que j'y prens vaut bien que l'on s'y fie,  
+Je réponds d'empécher que personne l'oublie,  
+Ou de sçavoir au moins par un prompt repentir  
+Y ramener quiconque oseroit en sortir.  
+Voila ce que de moi les Grecs doivent attendre,  
+Et ce que de ma part vous leur pouvez aprendre.  
+
+    ARISTIDE.
+Si mon avis Seigneur peut ici se mêler...  
+
+    PAUSANIAS.
+Ce n'est qu'au nom des Grecs que vous devez parler,  
+Et n'ayant de leur part rien de plus à me dire,  
+Vous avez ma réponse & cela doit suffire.  
+Je n'écoute plus rien vos soins⁎ sont superflus.  
+
+    ARISTIDE.
+Je voi pourquoi Seigneur vous ne m'écoutez plus [191]  
+
+
+### SCENE II.
+CLEONICE, PAUSANIAS.
+
+
+    CLEONICE.
+Aprés tant de bien-faits & pour faveur derniere,  
+Pourrai-je encor, Seigneur, vous faire une priere ?  
+Pourrai-je à mon devoir vous faire consentir⁎ ?  
+
+    PAUSANIAS.
+Que ne pourrez vous point ?  
+
+    CLEONICE.
+        Pourrai-je enfin partir ?  
+
+    PAUSANIAS.
+Vous mesme avec les Grecs aussi d'intelligence ?  
+Et vous me condamnez comme eux à vostre absence !  
+Avec eux contre moi vous vous joignez si bien ?  
+
+    CLEONICE.
+Les Grecs font leur devoir je fais aussi le mien.  
+
+    PAUSANIAS.
+Quoi Madame, à partir vous estes déja preste ?  
+Et mon coeur ny ma main n'ont rien qui vous arreste ?  
+A me fuir pour jamais vous trouvez tant d'appas⁎ ?  
+
+    CLEONICE.
+Seigneur si vous m'aimez ne m'en détournez pas.  
+
+    PAUSANIAS.
+Si je vous aime ingrate ainsi pour me confondre,  
+Aux soins⁎ de mon amour⁎ vous voulez donc répondre ?  
+Vous voulez que toûjours nous soyons ennemis ?  
+Hé bien vous estes libre & tout vous est permis.  
+Partez, mais pour le prix d'un amour⁎ qui vous gêne⁎,  
+Laissez moi donc au moins un peu de vostre haine.  
+
+    CLEONICE.
+Hélas !  
+
+    PAUSANIAS.
+        Vous soûpirez, me haïssez vous tant ?  
+
+    CLEONICE.
+On dit peu que l'on hait, Seigneur, en soûpirant.  
+
+    PAUSANIAS.
+Puis-je demander pourquoi ce coeur soûpire ?  
+
+    CLEONICE.
+Ne me demandez rien j'aurois peur d'en trop dire.  
+
+    PAUSANIAS.
+Ah ! dites tout de grace, achevez cet aveu.  
+
+    CLEONICE.
+Ma honte & mon silence en disent-ils trop peu ?  
+
+    PAUSANIAS.
+Si vous ne partiez point j'oserois les entendre,  
+Et si j'en croi vos yeux vostre coeur devient tendre,  
+Je ne rencontre plus de haine en vos regards :  
+Cependant vous partez.  
+
+    CLEONICE.
+        Et c'est pourquoi je pars !  
+J'oublie en vous voyant avec trop peu de peine  
+Tout ce que je vous dois de colere & de haine.  
+Prés de vous sur mon coeur j'ai trop peu de pouvoir  
+Et je tâche en fuyant de sauver mon devoir.  
+Laissez moi ménager quelque reste de gloire⁎,  
+Ma fuitte vous asseure assez de la victoire.  
+Le peril est trop grand & n'a que trop d'appas⁎,  
+Epargnez ma foiblesse & n'en triomphez pas.  
+
+    PAUSANIAS.
+Laissez la triompher cette heureuse foiblesse.  
+De la severité du devoir qui vous presse.  
+
+    CLEONICE.
+Puis-je trahir le sang à qui je dois le jour ?  
+Qui pourroit m'excuser !  
+
+    PAUSANIAS.
+        Que ne peut point l'Amour⁎ ?  
+
+    CLEONICE.
+Hé bien Seigneur, hé bien, contre un devoir severe,  
+Si l'Amour⁎ sert d'excuse aux fautes qu'il fait faire  
+Il ne tiendra qu'à vous de m'en convaincre bien ;  
+Et sur vostre devoir je reglerai le mien.  
+
+    PAUSANIAS.
+Il ne tiendroit qu'à moi ?  
+
+    CLEONICE.
+        Non, Seigneur, qu'à vous mesme  
+Montrez moi ce que doit un grand coeur quand il aime :  
+Montrez moi le premier pour m'en faire une loi⁎  
+Mesme foiblesse en vous que vous voulez en moi,  
+Montrez moi quelque gloire⁎ ici qui vous retienne  
+Par l'oubli de la vostre à negliger la mienne.  
+J'en croirai vostre exemple & je trouverai doux  
+Que vous m'authorisiez à faillir aprés vous ;  
+Puisque la Grece en moi d'un fardeau se délivre,  
+J'oserai tout pour vous si vous osez me suivre.  
+
+    PAUSANIAS.
+Oublier mon devoir ?  
+
+    CLEONICE.
+        Hé vous souhaittez bien  
+Seigneur qu'en vous aimant j'oublie aussi le mien ?  
+
+    PAUSANIAS.
+Ma foi⁎ s'est par serment engagée à la Grece.  
+
+    CLEONICE.
+J'ai fait serment aussi de vous haïr sans cesse.  
+
+    PAUSANIAS.
+Quoi trahir mon Païs pour vous trop obeïr ?  
+
+    CLEONICE.
+Le sang d'un Pere est-il plus facile à trahir ?  
+
+    PAUSANIAS.
+D'un si coupable effort voyez pour moi la honte :  
+
+    CLEONICE.
+Et c'est dequoi, Seigneur, l'Amour⁎ vous tiendra conte.  
+Un effort de vertu⁎ n'est pas effort pour vous,  
+Vostre coeur y suivroit son penchant le plus doux.  
+L'ardeur est pour la Gloire⁎ aux grands coeurs naturelle,  
+Et l'Amour⁎ ne doit rien de ce qu'on fait pour elle.  
+
+    PAUSANIAS.
+Considerez mon rang.  
+
+    CLEONICE.
+        Regardez en ces lieux  
+Combien pour vous l'oster vous avez d'envieux ;  
+Vous estes en peril toûjours qu'on vous l'arrache [192],  
+Et de plus c'est un rang où ma haine s'attache :  
+Il m'a cousté mon Pere & sur lui mon courrous,  
+Tombe exprés pour pouvoir se détourner de vous.  
+N'attendez pas ici que la Grece vous l'oste,  
+La Perse peut vous rendre une grandeur plus haute ;  
+Vous pouvez vous y faire un rang à vostre choix,  
+Elle a mille Sujets plus grands que tous vos Rois ;  
+Cessez pour des ingrats de vaincre & de combatre,  
+Relevez le party que vous venez d'abatre :  
+Portez y la Victoire, & par vos seuls exploits,  
+Changez du Monde entier le sort⁎ jusqu'à deux fois.  
+Ce crime, au moins, s'il faut ainsi que l'on le nomme,  
+Est un illustre crime & digne d'un grand homme,  
+Est digne d'un Heros intrepide, fameux,  
+Et pour tout dire enfin, d'un Heros amoureux.  
+
+    PAUSANIAS.
+Vous me pouvez aimer, & vous voulez Cruelle  
+Voir flétrir ma vertu⁎ d'une tache eternelle ;  
+Vous m'aimez, & voulez pour prix de vostre coeur,  
+Que de tout l'Univers je merite l'horreur⁎.  
+Vous m'aimez, & l'Amour⁎ dans vostre ame inhumaine,  
+Ne se peut empecher d'agir comme la haine ;  
+Et dans les plus doux voeux⁎ que pour moi vous formez,  
+C'est mesme en ennemie encor que vous m'aimez.  
+Allez Madame, en vain vous pressez ma foiblesse,  
+La Gloire⁎ est de mon coeur la premiere maitresse,  
+L'Amour⁎ a dû [193] toûjours s'attendre à lui ceder,  
+On devoit avec elle au moins s'accommoder.  
+Malgré de vos appas⁎ la puissance infinie,  
+Je veux me revolter contre leur tirannie,  
+M'affranchir de leur charme, & pour m'en garentir  
+Allez Ingratte allez haster vous de partir.  
+Sauvez moi de ces yeux dont la beauté funeste⁎,  
+Peut encore enchanter la vertu⁎ qui me reste ;  
+De ces regards cruels que j'ai trouvez trop doux ;  
+Emportez s'il se peut ma foiblesse avec vous ;  
+Déracinez l'ardeur de ma fatale⁎ flame ;  
+Rompez, brisez mes fers, jusqu'au fond de mon ame.  
+Arrachez m'en les noeuds, deussiez vous en ce jour  
+M'arracher mille fois le coeur avec l'amour⁎.  
+
+    CLEONICE.
+Ce grand effort m'apprend celui que je dois faire ;  
+Vostre vertu⁎ m'estoit un secours necessaire :  
+Il faut la contenter & mon devoir aussi,  
+Il faut partir enfin.  
+
+    PAUSANIAS.
+        Et vous partez ainsi ?  
+
+    CLEONICE.
+Il le faut bien, Seigneur, vous me chassez vous-mesme.  
+
+    PAUSANIAS.
+Moi, Madame ? Ah plûtost c'est vostre haine extréme !  
+C'est elle qui vous chasse avec un si grand soin⁎.  
+
+    CLEONICE.
+Que n'est-il vrai Seigneur, je serois déja loin.  
+
+    PAUSANIAS.
+Mais qu'ai-je dit qui puisse à partir vous contraindre ?  
+
+    CLEONICE.
+Ce que vous m'avez dit me sert trop pour m'en plaindre.  
+
+    PAUSANIAS.
+Mais encor qu'ai-je dit qui vous presse à tel point ?  
+
+    CLEONICE.
+L'oubliez vous si-tost ?  
+
+    PAUSANIAS.
+        Ne l'oubliez vous point ?  
+Quand vous ne pourriez mesme en perdre la memoire,  
+Quoi que j'aye pû dire avez vous pû m'en croire ?  
+Et ne pas pardonner dans mon coeur qui se rend,  
+A ce dernier éclat⁎ d'un Devoir expirant.  
+C'en est fait, & je sens que l'ardeur qui m'emporte,  
+Se relâchoit exprés pour revenir plus forte ;  
+Et que ce fier torrent qui devoit m'accabler,  
+N'interrompoit son cours que pour le redoubler.  
+Disposez de mon coeur, vous avez la puissance  
+D'y mettre à vostre gré le crime ou l'innocence.  
+La colere des Grecs ny la foudre des Dieux,  
+Ne l'ébranlent pas tant qu'un regard de vos yeux ;  
+L'Amour⁎ m'attache à vous, le noeud dont il me lie  
+Est plus fort mille fois que Grandeur ni Patrie :  
+Je trouverois sans vous la Grandeur sans appas⁎,  
+Et n'ai point de Patrie où vous ne serez pas.  
+Mais ne puis-je obtenir que pour quitter la Grece  
+Vous attendiez au moins encor qu'on vous en presse.  
+Je m'exile avec vous, s'il le faut, sans effroi ;  
+Demeurez s'il se peut pour regner avec moi ;  
+Laissez moi voir encor si la Grece propice,  
+Peut vouloir qu'avec vous son General s'unisse.  
+Resisteriez vous seule à nos communs souhaits ?  
+
+    CLEONICE.
+Ah la Grece Seigneur ne le voudra jamais !  
+
+    PAUSANIAS.
+Oserois-je esperer qu'il ne tient qu'à la Grece ?  
+
+    CLEONICE. 
+Vostre exemple authorise & me rend ma foiblesse ;  
+Allez esperez tout vous m'aprenez trop bien,  
+Seigneur que quand on aime on ne refuse rien.  
+
+
+### SCENE III.
+PAUSANIAS, DEMARATE CHARILE.
+
+
+    DEMARATE.
+Pardonnez moi le trouble⁎ où vous met ma presence,  
+Seigneur, & m'accordez un moment d'audiance.  
+
+    PAUSANIAS.
+Parlez je vous dois tant qu'il me seroit bien doux  
+De pouvoir à mon tour quelque chose pour vous.  
+
+    DEMARATE.
+Vostre interest Seigneur est le seul que j'embrasse,  
+Ne craignez de ma part rien qui vous embarasse :  
+Vous avez pour garans ma tendresse⁎ & ma foi⁎,  
+Qu'ayant à vous parlez ce n'est jamais pour moi ;  
+C'est pour vous, pour vos jours que mes soins⁎ s'interessent⁎...  
+
+    PAUSANIAS.
+Mais sçavez vous, Madame, à qui vos soins⁎ s'addressent ?  
+J'ai honte de surprendre⁎ encore à vos bontez  
+Des sentiments si doux & si peu meritez :  
+Et pour leur prix au moins je veux bien vous aprendre  
+Combien j'en suis indigne avant que rien entendre.  
+Apprenez que je suis en effet malgré moi,  
+Plus ingrat que jamais à ce que je vous doi ;  
+Qu'avec un seul regard presque sans resistance,  
+L'Amour⁎ a triomphé de ma reconnoïssance ;  
+Qu'enflamé, qu'enchaisné, que tout percé de coups,  
+Mon coeur n'a qu'un moment pû combatre pour vous ;  
+Que toute ma vertu⁎ par la vostre excitée⁎,  
+S'est en vostre faveur vainement⁎ revoltée ;  
+Que mes efforts n'ont fait que resserrer mes noeuds ;  
+Qu'aprofondir ma playe & qu'irriter mes feux ;  
+Abandonnez des jours digne de vostre haine.  
+
+    DEMARATE.
+Je le voi bien Seigneur, tous mes soins⁎ vous font peine,  
+Vostre propre salut pour qui j'ai tant d'effroi,  
+Vous deviendroit à charge [194] à le tenir de moi :  
+Il vous cousteroit trop au prix d'un grand service,  
+De me devoir vos jours & mesme Cleonice ?  
+
+    PAUSANIAS.
+Cleonice ? on voudroit l'oster à mon espoir ;  
+Puisqu'il vous plaist, Madame, il faut vous tout devoir.  
+Parlez, par vos bontez, comblez mon injustice.  
+
+    DEMARATE.
+Hé vous ne m'écoutez qu'au nom de Cleonice!  
+Vous pouviez à ma honte insulter un peu moins,  
+Vous craignez de devoir vostre vie à mes soins⁎ ?  
+Et rendant ma tendresse⁎ à moi mesme fatale⁎,  
+Vous n'aprehendez pas d'y devoir ma Rivale ?  
+N'importe, il faut Seigneur en sacrifiant tout,  
+Pour confondre un ingrat le servir jusqu'au bout.  
+Vostre Rival piqué de perdre ce qu'il aime,  
+A crû qu'en mesme estat je la seroi de mesme ;  
+Que mon dépit⁎ caché n'avoit pas moins d'ardeur,  
+Et s'est ouvert à moi pour découvrir mon coeur.  
+J'ai d'abord contre vous feint pour mieux vous deffendre,  
+D'embrasser le parti qu'il me pressoit de prendre.  
+J'ai juré vostre perte & promis d'éclater,  
+Avec moi cette nuit il doit tout concerter :  
+Et dés que j'aurai sceu ce qu'il veut entreprendre,  
+Soyez seur qu'aussi-tost j'irai tout vous aprendre.  
+
+    PAUSANIAS.
+Dieux ! faut-il qu'un ingrat toûjours vous doive tant ?  
+Je vais faire garder Cleonice à l'instant.  
+
+    DEMARATE.
+Quoi pour l'unique prix de ce dernier service,  
+Seigneur vous me quittez déja pour Cleonice ?  
+
+    PAUSANIAS.
+Vous qui sçavez aimer excusez un Amant,  
+Sa seureté m'engage à cet empressement⁎.  
+
+    DEMARATE.
+Il n'est rien qui vous presse encor pour sa deffence  
+On ne doit pas d'abord tenter la violence :  
+Mais vostre empressement⁎ doit estre à redouter,  
+Peut me rendre suspecte & tout precipiter :  
+Je ne répons de rien pour peu qu'on me soupçonne.  
+
+    PAUSANIAS.
+Mon sort⁎ est entre vos mains & je vous l'abandonne.  
+Cependant, puisqu'il faut qu'on ne soupçonne rien,  
+On peut se deffier d'un trop long entretien.  
+
+    DEMARATE.
+Cette precaution ne sçauroit estre vaine⁎,  
+Mais Seigneur, c'est un soin⁎ que j'oubliois sans peine,  
+Vous n'y songez que trop.  
+
+    PAUSANIAS.
+        Ah pour tant de bien-faits.  
+Que ne puis-je...  
+
+    DEMARATE.
+        Epargnez d'inutiles souhaits.  
+Ils redoublent ma honte & la gloire⁎ d'une Autre,  
+Seigneur je suis mon sort⁎, allez, suivez le vostre :  
+Le vostre est d'estre ingrat, & le mien de sçavoir,  
+Et souffrir sans murmure & servir sans espoir.  
+Il s'en va donc enfin [195].  
+
+
+### SCENE IV.
+DEMARATE, CHARILE.
+
+
+    CHARILE.
+        Il sort l'ame interdite⁎.  
+Il vous quitte confus.  
+
+    DEMARATE.
+        Mais enfin il me quite.  
+Il ne me peut souffrir, & j'ai beau tout tenter,  
+Amour⁎, services, soins⁎, rien ne peut l'arrester.  
+
+    CHARILE.
+J'admire que vostre ame ait tant pû se contraindre.  
+
+    DEMARATE. 
+Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.  
+J'ai pris d'extrémes soins⁎, fait les derniers efforts  
+Pour retenir l'ardeur de mes jaloux transports⁎ :  
+Mais crois-tu dans mon ame à force de contrainte,  
+Mes transports⁎ étouffez, ma jalousie éteinte,  
+Penses-tu qu'en effet sous ce calme apparent,  
+Dans le fonds de mon coeur l'orage soit moins grand.  
+J'ai crû par de grands soins⁎ toucher un grand courage⁎,  
+Regagner, ramener doucement un volage,  
+Et donner à son coeur, & laisser à sa foi⁎  
+Des moyens & du temps pour revenir à moi ;  
+Mais perdant tout espoir l'Amour⁎ mesme déchaîne  
+Un dépit⁎ trop contraint, qui m'échappe & m'entraine,  
+Un dépit⁎ à son comble à la fin parvenu,  
+Furieux d'autant plus qu'il s'est plus retenu,  
+Et pour mieux en un mot te le faire comprendre,  
+Un dépit⁎ aussi fort que mon Amour⁎ fut tendre.  
+De tant de soins⁎ perdus j'ai du moins profité,  
+D'avoir mis ma vengeance en pleine seureté,  
+Sans crainte & sans soupçon de mon dépit⁎ extréme,  
+Ma victime à mes coups s'offrira d'elle-mesme,  
+Et fera de concert avecque ma fureur,  
+Pour m'aider à trouver le chemin de son coeur.  
+
+    CHARILE.
+Il mourra donc enfin l'ingrat qui vous offence ?  
+
+    DEMARATE.
+Il mourra, ce seroit trop peu pour ma vengance.  
+Il faut pour le punir au gré de mon transport⁎  
+Quelque genre de peine au dessus de la mort.  
+Dans un coeur trop charmé, tu viens de voir sans cesse,  
+Ce que peut de l'Amour⁎ la derniere tendresse⁎ ;  
+Dans un coeur outragé, vien Charile, vien voir  
+Ce que peut à son tour l'Amour⁎ au desespoir [196].  
+Fin du Quatriéme Acte.
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE
+EURIANAX, PAUSANIAS.
+
+
+    EURIANAX.
+Dans quel trouble⁎ Seigneur vous voi-je ici paroistre ?  
+Ce grand courage⁎ ainsi peut-il se reconnoistre⁎ ?  
+Quoi le danger estonne⁎ un coeur si glorieux ?  
+
+    PAUSANIAS.
+Quel danger ? que dis-tu ? parle, & t'explique mieux.  
+
+    EURIANAX.
+Aprenez donc Seigneur qu'une Trouppe mutine,  
+Maistresse de la ville au Palais s'achemine,  
+Que dans la nuit tout cedde, & que vostre Rival  
+Mesme sans qu'il paroisse est nommé General :  
+Qu'il n'a qu'à se montrer pour recevoir l'Empire,  
+Et qu'en ces lieux enfin contre vous tout conspire.  
+
+    PAUSANIAS.
+Les mutins font un Chef [197] dont je prens peu d'effroi.  
+Aristide est ici le seul... Mais je le voi.  
+
+
+### SCENE II.
+ARISTIDE, PAUSANIAS, SOPHANE, EURIANAX.
+
+
+    ARISTIDE.
+Je me dérobe aux Grecs & viens ici moi-même  
+Deffendre en vous Seigneur l'honneur du Rang suprême,  
+C'est en vain qu'à le perdre on peut se voir forcé,  
+Le caractere au moins n'en peut estre effacé.  
+Mon zele encor pour vous des factieux m'écarte.  
+
+    PAUSANIAS. 
+D'un zele Athénien je juge en Roi de Sparte.  
+Je veux bien y répondre avec un libre aveu,  
+Je l'estime beaucoup, & m'en deffie un peu.  
+Voyons où des mutins l'audace peut s'estendre.  
+
+    ARISTIDE.
+Souffrez qu'auparavant j'ose vous tout apprendre :  
+J'ai des Amis en foule à la porte arrestez,  
+Qui m'ont suivi sans bruit de differens costez :  
+A vous garder ici mon ordre les engage.  
+
+    PAUSANIAS.
+Et tout cela par zele et pour mon avantage ?  
+
+    ARISTIDE.
+Si vous en jugez bien, vous n'en sçauriez douter.  
+Pour vous au moindre effort tout est à redouter.  
+Craignez tout des mutins...  
+
+    PAUSANIAS.
+        Quoi donc vous pouvez croire  
+Que si je perds mon Rang je survive à ma Gloire⁎ ?  
+Que je puisse ramper dans un destin⁎ plus bas !  
+Qu'ai-je à craindre en tombant que de ne perir pas ?  
+Qu'un Peuple ingrat acheve & ma perte & son crime,  
+D'un Chef qui l'a sauvé qu'il fasse sa victime,  
+Et m'oste enfin la vie avec ma Dignité,  
+Pour prix de mes travaux & de sa Liberté.  
+
+    ARISTIDE.
+Encore un coup, craignez une fureur extrême,  
+Et si vostre grand coeur ne craint rien pour vous mesme,  
+Songez contre quel sang les Grecs sont animez⁎,  
+Et du moins craignez tout pour ce que vous aimez.  
+
+    PAUSANIAS.
+Ah que vous sçavez bien chercher avec adresse  
+Par où mon coeur peut craindre, & trouver sa foiblesse !  
+Que vostre ambition a de rafinement !  
+Et qu'elle se prevaut de mon égarement !  
+
+    ARISTIDE.
+Je n'ai rien épargné, Seigneur, je le confesse,  
+Pour mettre en mon Païs l'Empire de la Grece.  
+J'en obtiens l'avantage, & sans en rien garder,  
+Je ne veux que l'honneur de le pouvoir ceder.  
+En faveur d'un Ami mon estime en dispose ;  
+Voila l'ambition que mon coeur se propose,  
+C'est le but de mes voeux⁎, & des soins⁎ que j'ai pris.  
+
+    PAUSANIAS.
+Sauvez moi ce que j'aime, il n'importe à quel prix.  
+
+    ARISTIDE.
+Fiez vous en à moi, vos feux n'ont rien à craindre,  
+La fureur des mutins par mes soins⁎ peut s'esteindre ;  
+Et pour vous rendre en paix Maistre de vostre espoir,  
+Je veux les renvoyer au camp dans leur devoir ;  
+Je vais y donner ordre avecque diligence.  
+
+    PAUSANIAS.
+Cependant Cleonice est elle en assurance ?  
+
+    ARISTIDE.
+Sophane ayez en soin⁎, pour la garder, prenez  
+Tous les Amis qu'ici nous avons amenez.  
+
+    PAUSANIAS.
+De grace en ma faveur que vostre soin⁎ redouble  
+Respectez son repos, empéchez qu'on le trouble⁎ ;  
+De son appartement qu'on s'approche sans bruit,  
+Et qu'il n'arrive rien sans que j'en sois instruit.  
+
+
+### SCENE III.
+PAUSANIAS, EURIANAX.
+
+
+    PAUSANIAS.
+Je doute Eurianax, si mon amour⁎ extrême  
+Doit pour la bien garder se fier qu'à moi même.  
+Tout me paroist suspect, mon coeur inquieté,  
+Ne la peut croire encor assez en seureté.  
+Cherchons nos vrais Amis.  
+
+    EURIANAX.
+        Le peu qui vous en reste  
+Garderoit mal un bien qui vous est si funeste⁎.  
+Un bien pour qui l'Amour⁎ vous fait tout oublier,  
+C'est à vos ennemis qu'il faut vous en fier.  
+Vous l'avez aux dépens d'une grandeur trop haute  
+Pour craindre qu'Aristide endure qu'on vous l'oste :  
+Et son zele avec joye à ce prix employé,  
+Pour servir mal vos feux en est trop bien payé.  
+Il vous en doit couster la grandeur souveraine,  
+Mesme à vostre Rival vous la cedez sans peine,  
+A l'ennemi mortel qui s'est crû tout permis...  
+
+    PAUSANIAS.
+Laisse mourir ma haine avec mes ennemis.  
+Je cedde un bien sans peine à qui n'y peut pretendre.  
+
+    EURIANAX.
+Quoi donc vostre Rival...  
+
+    PAUSANIAS.
+        Je te vais tout apprendre.  
+J'attendois Demarate, & devois cette nuit  
+Des plus secrets complots estre par elle instruit.  
+Confus de tant d'efforts que l'Amour⁎ lui fait faire,  
+Je me suis retiré plûtost qu'à l'ordinaire ;  
+Ordonnant que chez moi sans rien considerer,  
+Demarate en tout temps eust liberté d'entrer.  
+Déja las de veiller & fatigué d'attendre,  
+Un sommeil inquiet m'estoit venu surprendre⁎ :  
+Et des songes confus m'agittoient tour à tour,  
+Suivant tantost ma haine & tantost mon amour⁎.  
+Je me croyois au bord d'un affreux precipice,  
+Où mon Rival sembloit entrainer Cleonice ;  
+Lors que saisi de crainte & d'horreur⁎ travaillé,  
+La voix de Demarate enfin m'a réveillé.  
+Seigneur a t'elle dit, tremblante, hors d'haleine,  
+Et pour trop se presser s'exprimant avec peine,  
+Vengez vous d'un Rival, d'un perfide Ennemi,  
+Le voici qui pretend vous surprendre⁎ endormi ;  
+Sans suitte, & déguisé sur mes pas il s'avance,  
+Hastez vous. J'ai voulu le joindre en diligence⁎ :  
+Mais je ne sçai comment me trouvant sans clarté,  
+Et marchant au hazard parmi l'obscurité,  
+Mon Rival aveuglé de sa fureur extrême,  
+Au fer qui le cherchoit s'est presenté lui-même ;  
+Et tombant sans parler ny faire aucun effort,  
+Un premier coup fatal⁎ a suffi pour sa mort :  
+Tant son ame estonnée⁎ à la haste est partie,  
+Au premier jour ouvert à sortir de la vie.  
+Demarate a couru chercher de la clarté,  
+Mais honteux d'un trepas qui m'a si peu cousté,  
+Et sentant dans mon coeur je ne sçai quel murmure,  
+Reprocher à mon bras cette vengeance obscure⁎ :  
+J'en ai fuy le spectacle & me suis retiré,  
+Jusqu'ici dans le trouble⁎ où tu m'as rencontré.  
+Mais enfin, il est temps que mon coeur se dégage,  
+Des restes importuns d'une funeste⁎ image.  
+Je ne veux plus songer qu'à la felicité  
+Dont mes feux vont jouïr avec tranquilité,  
+Qu'à la douceur de vivre aimé de ce que j'aime,  
+Content, débarassé des soins⁎ du Rang supréme,  
+Et de passer enfin au gré de mes desirs,  
+Du faiste des Grandeurs au comble des plaisirs.  
+
+    EURIANAX.
+Quel changement Seigneur d'un coeur tel que le vostre,  
+
+    PAUSANIAS.
+Un grand coeur quand il aime, aime encor plus qu'un autre ;  
+Et les mesmes ardeurs, les mesmes sentimens  
+Qui font les grands Heros font les tendres Amans.  
+N'attends pas de mon coeur de communes tendresses⁎,  
+Ny rien que d'éclatant jusques dans mes foiblesses.  
+Mon courage⁎ trop grand ne se peut dementir,  
+Mes fautes, mes erreurs, tout s'en doit ressentir,  
+Et j'oserai porter, quoi qu'on en puisse croire,  
+Mon Amour⁎ aussi loin que j'ai porté ma Gloire⁎.  
+
+
+### SCENE IV.
+PAUSANIAS, ARISTIDE EURIANAX.
+
+
+    PAUSANIAS.
+He bien qu'avez vous fait ?  
+
+    ARISTIDE.
+        Tout ce que j'ai promis.  
+Le tumulte est calmé, les mutins sont soûmis,  
+J'ai vû vostre Rival lui-mesme les conduire.  
+
+    PAUSANIAS.
+Mon Rival ?  
+
+    ARISTIDE.
+        Il promet de ne jamais vous nuire.  
+
+    PAUSANIAS.
+Hé mon Rival lui-mesme aussi vous a parlé ?  
+
+    ARISTIDE.
+Oüy Seigneur, vostre Amour⁎ ne sera plus troublé.  
+J'en ai pris sa parole, & s'il s'osoit dédire,  
+Je vous en suis garant, cela vous doit suffire :  
+Du trouble⁎ où je vous voi vous devez revenir.  
+
+    PAUSANIAS.
+Je ne le puis cacher j'ai peine à le bannir.  
+
+
+### SCENE V.
+PAUSANIAS, ARISTIDE SOPHANE, EURIANAX.
+
+
+    PAUSANIAS.
+Mais Sophane en ces lieux, quel ordre vous rappelle ?  
+Vous quittez Cleonice.  
+
+    SOPHANE.
+        Elle n'est pas chez elle,  
+Seigneur, & j'ai voulu la chercher vainement⁎.  
+
+    PAUSANIAS.
+Cleonice n'est pas dans son appartement ?  
+Et vous n'avez point sceu ce qu'elle est devenuë ?  
+
+    SOPHANE.
+En habit déguisé pour passer inconnuë,  
+Quelques uns de vos Gens craignant les Factieux  
+L'ont mise en seureté chez Demarate...  
+
+    PAUSANIAS.
+        O Dieux !  
+
+    SOPHANE.
+J'ai cherché Demarate & je l'ai rencontrée,  
+Mais elle ne s'est point avec moi déclarée⁎.  
+Elle mesme vous cherche avec empressement⁎,  
+Et ne veut s'expliquer qu'avec vous seulement.  
+Vous la voyez.  
+
+
+### SCENE IV.
+PAUSANIAS, DEMARATE ARISTIDE, SOPHANE, EURIANAX.
+
+
+    PAUSANIAS.
+        Madame où donc est Cleonice ?  
+
+    DEMARATE.
+Il est juste, il est temps que je vous éclaircisse,  
+Je vous aimois Seigneur, & pour vous regagner,  
+Je n'ai, vous le savez, voulu rien épargner...  
+
+    PAUSANIAS.
+Cleonice, il est vrai, m'a fait tout méconnoistre,  
+Je le sçai, mais enfin Madame, où peut-elle estre ?  
+
+    DEMARATE.
+Laissez moi m'expliquer pour vous bien faire voir...  
+
+    PAUSANIAS.
+De grace expliquez moi ce que je veux sçavoir,  
+Tirez moi des horreurs⁎ d'un embarras⁎ funeste⁎,  
+Parlez de Cleonice & laissez tout le reste.  
+
+    DEMARATE.
+Que vous pressez le coup qui vous doit accabler,  
+J'en tremble encor pour vous, commencez d'en trembler.  
+J'ai trompé Cleonice en lui faisant entendre⁎,  
+Que contre elle les Grecs vouloient tout entreprendre,  
+Et qu'après tant de soins⁎ qui vous prouvoient ma foi⁎,  
+Vostre amour⁎ n'avoit pû la confier qu'à moi.  
+
+    PAUSANIAS.
+Et qu'en avez vous fait ?  
+
+    DEMARATE.
+        Déguisée & sans suitte  
+Je l'ai secretement jusques chez vous conduite.  
+
+    PAUSANIAS.
+Chez moi ?  
+
+    DEMARATE.
+        Dans vostre Chambre enfin mesme en effet  
+Jusqu'en vos mains, voyez ce qu'elles en ont fait.  
+
+    PAUSANIAS.
+Qu'entens-je ?  
+
+    DEMARATE.
+        Entendez tout il n'est plus temps de feindre,  
+Mon dépit⁎ n'a pour vous que trop sceu se contraindre,  
+Il n'a laissé que trop éclatter mon amour⁎,  
+Et c'est à ma vengeance à paroistre à son tour.  
+Durant vostre sommeil m'avançant la premiere,  
+J'ai pris l'occasion d'esteindre la lumiere.  
+Cleonice a sans peur suivi mes pas chez vous,  
+J'ai ménagé ce temps pour l'offrir à vos coups,  
+Sous le nom de Rival par une erreur fatale⁎,  
+J'ai forcé vostre Amour⁎ d'immoler ma Rivale :  
+Par l'excez de vos feux j'ai sceu vous éblouïr⁎,  
+Je me suis fait venger par qui m'a sceu trahir.  
+C'estoit peu pour me faire une vengeance pleine,  
+D'armer contre vos jours la fureur ny la haine :  
+J'ai pris soit d'oser plus loin que vous oster le jour,  
+Et d'armer l'Amour⁎ mesme enfin contre l'Amour⁎.  
+
+    PAUSANIAS.
+Ah Barbare !  
+
+    DEMARATE.
+        Eclattez, suivez vostre colere,  
+Je me suis satisfaite & veux vous satisfaire ;  
+J'ai mis vostre rigueur en droit de tout oser,  
+Ce dernier sacrifice a dû l'authoriser,  
+Il a rendu pour moi vostre horreur⁎ legitime,  
+Vous nous deviez enfin cette grande victime,  
+Vous nous l'avez offerte, & je viens sans effroi,  
+Vous offrir à mon tour celle que je vous doi.  
+Achevez, vangez vous, & vangez ma Rivale,  
+Que la mort rende au moins nostre fortune⁎ égale,  
+Et que le mesme bras du mesme fer armé  
+Joigne un sang odieux à ce sang trop aimé.  
+Vous dédaignez Seigneur de vous rendre justice,  
+Vous me refusez tout jusques à mon supplice ;  
+Mais au refus du bras qui me veut negliger,  
+Le fer qui m'a vangé au moins vous doit venger.  
+Elle fuit avec l'épée de Pausanias.
+
+
+    ARISTIDE.
+O Dieux ! Courons...  
+
+    EURIANAX *arrestant Aristide.*
+        Seigneur, Sophane l'a suivie,  
+Prés d'elle il suffira pour asseurer sa vie.  
+De grace demeurons prés de Pausanias,  
+De ces premiers transports⁎ ne l'abandonnons pas.  
+Fut-il vostre ennemi, fut-il cent fois coupable,  
+Voyez où l'a reduit son amour⁎ déplorable.  
+
+    ARISTIDE.
+Je plains l'estat funeste⁎ où ses malheurs l'ont mis,  
+Et les infortunez sont toûjours mes Amis :  
+Un affreux desepoir dans ses regards éclatte,  
+Mais Sophane revient & quitte Demarate.  
+
+
+### SCENE VII ET DERNIERE.
+SOPHANE, PAUSANIAS, ARISTIDE EURIANAX.
+
+
+    SOPHANE.
+Avant qu'on l'ait pû joindre elle a fini son sort,  
+Et prevenu nos soins⁎ par une prompte mort.  
+D'un coup precipité mortellement frappée.  
+
+    PAUSANIAS.
+Donnez, rendez la moi cette fatale⁎ épée,  
+Je ne suis donc plus libre ; & pour me voir souffrir,  
+On pretend m'oster tout jusqu'au droit de mourir.  
+
+    ARISTIDE.
+Vivez Seigneur...  
+
+    PAUSANIAS.
+        Cruel quoi toûjours me poursuivre ?  
+Que vous ai-je donc fait pour me forcer de vivre ?  
+Malgré nos differens & vostre inimitié,  
+Suis-je trop peu puni pour vous faire pitié ?  
+Considerez l'excez du mal-heur qui m'accable,  
+Sur le point d'obtenir un Objet⁎ adorable :  
+Un Objet par l'Amour⁎ à la haine arraché,  
+Malgré le sang d'un Pere en ma faveur touché ;  
+Pour qui de mon devoir j'ai perdu la memoire,  
+Abandonné mon Rang, sacrifié ma Gloire⁎ :  
+Pour qui j'ai tout trahi, pour qui j'ai tout quitté ;  
+Enfin d'autant plus cher qu'il m'avoit plus cousté ;  
+Aprés tant de perils, tant de soins⁎, tant d'allarmes,  
+Prest à voir dans mes bras cet Objet⁎ plein de charmes,  
+Par une aveugle erreur, par un coup inhumain,  
+Je le perds, je l'immole, & de ma propre main.  
+Laissez mêler mon sang au sang de Cleonice,  
+Puisqu'il ne se peut plus que l'Amour⁎ nous unisse ;  
+Ne nous separez pas par un dernier effort,  
+Et nous laissez au moins rejoindre par la mort.  
+
+    EURIANAX.
+Vivez pour tous les Grecs.  
+
+    PAUSANIAS.
+        Par un zele barbare,  
+Eurianax aussi contre moi se declare,  
+A l'horreur⁎ de la vie il veut me condamner,  
+Lors que c'est mille fois pis que m'assassiner.  
+Croyez vous malgré moi me sauver de moi-même,  
+Non en dépit⁎ de vous je suivrai ce que j'aime,  
+Et pour nous reünir malgré tout vostre effort,  
+Tout desarmé qu'il est l'Amour⁎ n'est que trop fort.  
+Deffens moi donc Amour⁎ de leur pitié cruelle,  
+Aigri mon desespoir, rens ma douleur mortelle,  
+Deffai moi d'une vie unie à tant d'horreurs⁎,  
+C'en est fait il m'exauce, & je sens que je meurs.  
+
+    ARISTIDE.
+Ses jours semblent finis, je n'ose en rien attendre ;  
+Mais ne negligeons rien des soins⁎ qu'on lui peut rendre.  
+FIN.
+
+
+# Glossaire
+
+Nous avons relevé les termes ayant subi une évolution de sens depuis le XVII*e* siècle. Seuls sont donnés les sens apparaissant dans notre texte. Les diverses occurences de ces termes sont indiquées en italique.
+
+La lettre (F) renvoie au dictionnaire de Furetiere datant du XVII*e* siècle (1684).
+
+La lettre (A) renvoie aux définitions données par l'Académie dans l'édition de 1692.AmourSubs. masc. et f. : passion de l'âme qui nous fait aimer quelque personne ou quelque chose. (F).V. 43, 66, 68, 71, 76, 163, 175, 180, 208, 211, 220, 338, 339, 476, 482, 491, 496, 598, 679, 698, 724, 816, 818, 868, 875, 902, 905, 928, 953, 928, 953, 961, 1088, 1091, 1114, 1116, 1136, 1163, 1169, 1182, 1207, 1240, 1298, 1311, 1316, 1330, 1395, 1401, 1422, 1464, 1470, 1502, 1509, 1516, 1522, 1544, 1565, 1572, 1582, 1583. Animer (verbe)Signifie exciter la colère, à la vengeance, au combat.V. 99, 264, 296, 475, 551, 610, 927, 1369. Cela se dit aussi d'un orateur qu'il anime son discours, quand par la force de son action et de ses paroles il a touché et ému ses auditeurs. (F)V. 1032AppasSubs. masc. : au pluriel, se dit particulièrement en Poésie, et signifie charmes, attraits, ce qui plaît.V. 657, 758, 789, 1009, 1021, 1085, 1109, 1171, 1209. (F)ApprehenderVbe actif : craindre. (F)V. 255.ArtSubs. masc. : tout ce qui se fait par l'adresse et l'industrie de l'homme ; et en ce sens il est opposé à la nature.V. 261, 271, 275.Se dit aussi de toutes les manières et inventions dont on se sert pour déguiser les choses ou pour les embellir ou pour réussir dans ses desseins. (F)V. 93, 243.ArtificeSubs. masc. : adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution.V. 451.Fraude, déguisement, mauvaise finesse. (F).V. 279.ChoquerVerbe qui signifie figurement « quereller », « offenser ». Il peut signifier également « blesser légèrement » (F)V. 136, 206, 281, 1042.ConsentirVbe qui signifie reconnaître, approuver. (F)V. 158, 1077.CourageSubs. masc. : ardeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls.V. 187, 244, 645, 676, 1012, 1307.Vertu qui élève l'âme et qui la porte à mépriser les périls, quand il y a des occassions d'exercer sa vaillance, ou à souffrir des douleurs, quand il y a lieu de montrer sa constance et sa fermeté. (F).V. 736, 932, 959, 1332, 1461.DéclarerVbe actif. : se dit des particuliers qui font connaître leurs secrets et leurs volontés. (F).V. 108, 300, 333, 829, 1484.DépitSubs. masc. : colère qui donne du dégout d'une chose contre laquelle on se fâche. (F)V. 348, 643 ,651, 809, 902, 915, 948, 1265, 1312, 1313, 1316, 1319, 1508, 1580.DéplaisirSubs. masc. : chagrin, tristesse que l'on conçoit d'une chose qui choque, qui déplait. (F)V. 509DesseinSubs. masc. : projet, entreprise, intention.V. 104, 114, 119, 123, 210, 227, 327, 737.*À dessein* : exprès, à certaine intention. (F).DesordreSubs. masc. : signifie la confusion, le manque d'ordre, d'arrangement. (F) V. 470, 867.Destin : subs. masc., destinée : subs. f.Disposition ou enchaînement des causes secondes ordonné par la Providence, qui emporte une nécessité de l'événement. (F)V. 2, 24, 144, 163, 453, 747, 795, 1361.DiligenceSubs. f. : activité qui nous fait porter avec promptitude à executer notre devoir, ou nos desseins. (F)V. 999, 1432.ÉblouïrVbe actif.Se dit figurement des choses morales, et signifie tromper, surprendre l'esprit et les sens par de fausses raisons, de fausses lumières. (F)V. 34, 284, 808, 1517.ÉclatSubs. masc. : se dit du bruit qui s'étend, de tout grand bruit subit et surprenant.V. 34, 219, 488, 646, 654, 809, 838, 849, 888, 1198.Se dit aussi des choses vives et hautes en couleur.V. 18, 181, 792.Se dit figurément en choses morales. (F)V. 799.EmbarrasSubs. masc. : difficulté, obstacle que l'on trouve à faire quelque chose se dit aussi figurément des chagrins, des inquiétudes de l'âme. (F)V. 59, 396, 513, 790, 1495.EmpressementSubs. masc. : témoignage d'ardeur, d'affection, de diligence qu'on a pour quelque chose, pour achever quelque besogne. (F)V. 353, 1278, 1281, 1485.EntendreSignifie aussi, outre son sens auditif qui n'a pas fait l'objet de relevé, avoir l'intention, prétendre. (F)V. 414, 688, 1499.EstonnerVbe actif : causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. (F)V. 455, 469, 503, 635, 639, 757, 828, 914, 1333, 1439. ExciterVbe actif : provoquer, causer quelque effet.V. 516.Se dit figurément en morale et signifie animer. (F)V. 1243.FatalAdj. : ce qui doit arriver nécessairement, arrêt de la destinée.V. 1179.Signifie aussi malheureux.V. 663, 788, 1515, 1552.Signifie encore la fin, la mort. (F)V. 766, 1259, 1438. FardSubs. masc. : signifie figurément toute sorte d'artifice dont on se sert pour déguiser une chose et la faire paraître autre et plus belle qu'elle n'est en effet. (F)V. 325, 465.FiertéSubs. f. : qualité de celui qui est fier. En mauvaise part, on dit « Répondre avec fierté » c'est à dire avec insolence, avec témérité. (F)V. 580, 678.FoiSubs. f. : signifie serment, parole qu'on donne de faire quelque chose et qu'on promet d'executer.V. 425, 438, 600, 854, 1131, 1229, 1309, 1501.On trouve la locution adverbiale « de bonne foi » au V.  813. (F)FortuneSubs. f. : ce qui arrive par hasard, qui est fortuit et imprévu.V. 107, 486.Signifie aussi l'établissement, le crédit, les biens qu'on a acquis par son mérite ou par hasard signifie quelques fois avantage. (F)V. 1532.FunesteAdj. masc et féminin : qui cause la mort, ou qui en mence, ou quelque autre accident fâcheux, quelque perte considérable. (F)V. 381, 395, 532, 546, 548, 747, 767, 800, 1175, 1400, 1448, 1495, 1545. GénéreuxAdj. : qui a l'âme grande et noble et qui préfére l'honneur à toute autre interêt.V. 537, 802, 821.Signifie aussi brave, vaillant, courageux. (F)GesnerVbe actif : se contraindre, s'incommoder. (F)V. 156, 456, 1091.GloireSubs. f. : se dit par emprunt et par participation, de l'honneur mondain, de la louange que l'on donne au mérite, au savoir et à la vertu des hommes.V. 8, 72, 114, 119, 126, 220, 247, 287, 292, 346, 419, 475, 487, 568, 596, 680, 697, 788, 816, 818, 847, 935, 961, 967, 980, 990, 935, 979, 990, 1031, 1052, 1060, 1107, 1123, 1139, 1168, 1291, 1360, 1464, 1564.Signifie quelques fois orgueil, présomption, bonne opinion de l'on a de soi-même. (F)V. 309.HeurSubs. masc. : Rencontre avantageuse. (F)V. 39, 595.HorreurSubs. f. : passion violente de l'âme qui la fait frémir, qui lui fait avoir peur de quelque objet nuisible et terrible.V. 1425. Se dit aussi d'une forte haine ou d'une aversion que l'on a pour certaines choses.V. 385, 618, 870, 966, 1162, 1527, 1577, 1585.Se dit parfois d'un simple mouvement de crainte ou de respect. (F)V. 1495.HymenSubs. masc. : signifie poétiquement le mariage. (F)V. 3, 52, 148, 152, 185, 427, 428, 429, 598, 758, 775, 799, 845, 851, 870.ImbecileAdj. masc et f. : se dit de ce qui est faible et sans vigueur. Les enfants au-dessous de sept ans et les vieillards à quatre-vingt sont dans un âge imbécile. (F)V. 647.InterditeParticipe passé et adj. : se dit aussi de ceux qui se troublent, qui s'étonnent et qui ne sauraient parler raisonnablement. (F)V. 919, 1295.InteresserVbe actif : engager quelqu'un par son intérêt à soutenir un parti, attirer quelqu'un à son parti. (F)V. 784, 1231.LanguirVbe qui signifie vivre en langueur, voir altérer de jour sa santé, attendre la mort. (F)V. 735.LoiSubs. f. : règle qui était établie par l'autorité divine ou humaine et oblige les hommes à certaines choses, et leur en défend d'autres. On appelle « loi naturelle » les sentiments donnés aux hommes par l'auteur de la Nature pour les conduire.V. 132, 206, 1121.Puissance, autorité. (A)V. 982.ManquerVbe qui signifie : faire défaut.V. 31, 74, 540, 607, 681, 682.Faire quelque faute. (F)V. 241.ObjetSubs. masc. : se dit poétiquement des belles personnes qui donnent de l'amour. (F)V. 516, 662, 1560, 1568. ReconnaîtreVbe actif : avoir de la gratitude, recompenser un service rendu.V. 984.Découvrir, éclaicir la vérité de quelque chose. (F)V. 1332.SoinSubs. masc. : diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner.V. 105, 143, 167, 201, 257, 331, 337, 349, 353, 371, 388, 404, 411, 423, 531, 537, 565, 619, 624, 636, 664, 669, 691, 825, 978, 985, 989, 999,1031, 1032, 1033, 1034, 1060, 1062, 1073, 1089, 1229, 1231, 1301, 1317, 1381, 1384, 1389, 1391, 1550, 1588. C'est aussi l'attache particulière que l'on a auprès d'un maître, ou d'une maîtresse, pour les servir ou pour leur plaire.V. 38, 80, 337, 443, 528, 759, 925, 927, 1248, 1258, 1298, 1307, 1501.Inquiétude. (F)V. 57, 69, 459, 585, 1025, 1049, 1288, 1452, 1567. SortSubs. masc. : hasard, ce qui arrive fortuitement, par une cause inconnue, et qui n'est pas réglée ni certaine. V. 559, 1154.Se dit aussi des conditions malheureuses de ce monde.V. 1292.Se dit poétiquement de la vie et de la fortune des hommes. (F)V. 120, 358, 424, 522, 525, 1284.SuccèsSubs. masc. : réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. (F)V. 560, 579. SurprendreVbe actif : faire quelque chose à l'improviste, lorsque l'on ne s'y attend pas.V. 91, 468, 1025, 1430. Tromper quelqu'un, lui faire faire une chose trop à la hâte.V. 268, 517, 784.Saisir, intercepter. (F)V. 43, 1233, 1420. TendresseSubs. f. : sensibilité du coeur et de l'âme. La délicatesse du siècle a renfermé ce mot dans l'amour et dans l'amitié. (F)V. 40, 939, 947, 1229, 1259, 1328, 1459.TransportSubs. masc. : se dit figurement en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. (F)V. 99, 1302, 1304, 1325, 1542. Trouble : subs. m., troubler : vbeSe dit figurement en Morale des desordres de l'âme causée par les passions.V. 48, 369, 373, 381, 391, 416, 442, 512, 515, 545, 605, 937, 960, 1223, 1331, 1392, 1446, 1473. (F)VaineAdj. : qui n'a point de solidité, de principes certains et assurés.V. 450, 1244, 1287, 1477.Ce dit de ce qui est chimérique, qui n'est qu'apparence.V. 308.En morale, ce terme signifie : glorieux, superbe, qui a bonne opinion de lui-même. (F)V. 31, 663.VertuSubs. f. : se dit des choses morales de la disposition de l'âme, ou de l'habitude à faire le bien, à suivre ce qu'enseignent la loi et la raison. (F)V. 307, 678, 749, 929, 936, 961, 968, 1137, 1160, 1176, 1184, 1243. VœuSubs. masc. : signifie aussi souhait, prière, serment, suffrage. (F)V. 1165, 1381.
+
+
+# Bibliographie
+
+
+## Publications annuellesBibliographie der französischen Literaturwissenschast
+
+
+
+## Textes sourcesPoétique
+La Pratique du Théâtre
+Dictionnaire portatif des théâtres
+Les Continuateurs de Loret, Lettres en vers de la Gravette de Mayolas, Robinet, Boursault, recueillies par J. de Rothschild
+La Poétique
+Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie Française au XVII*e* siècle
+Dictionnaire des théâtres de Paris
+Histoire du Théâtre françois depuis son origine jusqu'à présent
+Les Vies des hommes illustres
+Idées des spectacles anciens et nouveaux
+Les Historiens grecs
+
+
+
+## Ouvrages générauxDictionnaire de l'Académie française
+Bibliographie de la littérature française du dix-septième siècle
+Dictionnaire encyclopédique du théâtre
+Dictionnaire universel
+Syntaxe française du XVII*e* siècle
+Introduction à la langue du XVII*e* siècle
+
+
+
+## Ouvrages sur  le XVII*e* siècleHistoire de la littérature française au XVII*e* siècle
+Oeuvres complétes
+Les Caractères
+Le Masque et le Visage. Du baroque espagnol au classicisme français
+L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
+Le Théâtre de l'Hôtel de Bourgogne
+Introduction à l'analyse des textes classiques. Éléments de rhétorique et de poétique du XVII*e* siècle
+Passions tragiques et règles classiques, essai sur la tragédie française
+Furetiriana, ou les bons mots et les remarques d'histoire, de morale, de critique, de plaisanterie, et d'érudition de M. Furetière
+Lycée, ou Cours de littérature ancienne et moderne
+Querelles littéraires
+Esquisse d'une histoire de la tragédie française
+A History of French Dramatic Literature in the Seventeeth Century
+Le Théâtre et le Public à Paris sous Louis XIV (1659-1715)
+Méniagiana ou bons mots, rencontres agréables, pensées judicieuses et observations curieuses
+Précis de littérature française du XVII*e* siècle
+Agréables mensonges
+Lettres curieuses de littérature et de morale
+Amour précieux, amour galant (1654-1675). Essai sur la représentation de l'amour dans la littérature et la société mondaine
+Parallèles des Anciens et des Modernes
+La Dramaturgie classique en France
+Dictionnaire des Précieuses
+Historiettes
+Recherches de thématique théâtrale. L'exemple des conseillers des rois dans la tragédie classique
+Le Théâtre en France des origines à nos jours
+Le Siècle de Louis XIV
+Dictionnaire analytique des œuvres théâtrales françaises du XVII*e* siècle
+Le Classicisme
+
+
+
+## Ouvrages, articles, éditions, biographies concernant Philippe QuinaultŒuvres choisies de Quinault
+La Vie de Monsieur Quinault de l'Académie Françoise avec l'origine des opera en France, en tête de l'édition de la Petite Bibliothèque des Théâtres
+Bibliographie critique du théâtre de Quinault
+Philippe Quinault : sa vie, ses tragédies et ses tragi-comédies
+Les Visages de l'amour au XVII*e* siècle
+Bibliographie de la littérature française du dix-septième siècle
+Philippe Quinault, sa vie et son œuvre
+ Théâtre du XVII*e* siècle
+Douceur et violence in the tragédies and tragi-comédies of Quinault
+
+
+
+## Oeuvres de QuinaultThéâtre
+
+
+
+## Oeuvres de RacineThéâtre – Poésie
+
+
+-------
+
+
+[1] *Philippe Quinault, sa vie, son oeuvre*, Paris, 1926, chap. 1.
+
+[2] Mme d'Oradour était née Françoise Garnier. Elle était la soeur de Mme d'Orgères et de Mme de Brancas. Elle a épousé le 15 avril 1640 Georges de Bermondet, baron d'Oradour. La note de la Pléaide des *Historiettes* de Tallément des Réaux, établie et annotée par Antoine Adam, tome II, p. 1313, rapporte sur elle une chanson qui la décrit : « Sept jours de la semaine / On voit la d'Oradour / Dans le Cours de la Reine / Faisant dix mille tours, / Poudrée, / Frisée, / Ajustée, / Donnant échec et mat / A trois de l'assemblée, / A Pons, à Montignac / Et au beau Condillac. » Elle tenait un rang considérable dans la société galante. Elle eut son portrait dans la *Galerie* de Mademoiselle sous le nom d'Amarillis. Elle sauva Quinault à une époque où la cabale allait réussir à le faire tomber, trois ans avant le *Dictionnaire* de Somaize qui nous donne ce curieux renseignement.
+
+[3] Cf. la réception de *Pausanias.*
+
+[4] *Oeuvres complètes*, Paris, Gallimard, Pléiade, éd. F. Escal, *Réflexion III*, p. 503.
+
+[5] E. Gros, *op. cit*., p. 502.
+
+[6] Paris, Nizet, 1968-1670, disponible à la BSG, fonds Monte-charge, cote 8VA SUP/ 495 (2).
+
+[7] Extrait de la *Gazette de France* du 19 novembre 1667 de Ch. Robinet. Cf. la notice d'*Andromaque* p. 1323 éd. G. Forestier.
+
+[8] *Les Continuateurs de Loret*, éd. Rothschild, Paris, 1881-1899, BUP IV, cote : HFb27b (1-3) 8°.
+
+[9] *Le Siècle de Louis XIV.*
+
+[10] *Bibliographie critique du théâtre de Quinault*, coll. Biblio. 17, Papers on French Seventeenth Century Literature.
+
+[11] *Répertoire analytique des documents contemporains d'informations et de critiques concernant le théâtre à Paris sous Louis XIV, 1659-1715.*
+
+[12] *Op. cit.*
+
+[13] Le présent tableau et le système d'entrée qui y préside sont largement inspirés des travaux de Marc Vuillermoz dans *Le Dictionnaire analytique des oeuvres théâtrales françaises au XVII*e* siècle*, Paris, H. Champion. 
+
+[14] Ainsi l'Acte I comporte 4 scènes ; l'Acte II 5sc. ; l'Acte III 8sc. ; l'Acte IV 6sc. ; et l'Acte V 5sc. 
+
+[15] Cyrus II le Grand (557-530 av. J.-C.) est le fondateur de l'Empire perse. Petit fils de Cambyse Ier, il ne régne, à son avènement, que sur une petite principauté de l'Iran méridional, vassal du roi des Mèdes, Astyage. Celui-ci est sans doute le grand-père maternel de Cyrus. Avec l'aide de Nabonide, roi de Babylone, il se révolte vers 555 contre Astyage. En 550, il triomphe de lui et s'empare d'Ecbatane. Après avoir passé encore deux années à faire sous son autorité l'union des Mèdes et des Perses, il commence, en 548, la conquète de l'Orient, qui est achevée en moins de vingt ans par une série de campagnes foudroyantes. Attaqué par Crésus, roi de Lydie, Cyrus lance ses chameliers contre la cavalerie lydienne, qui est écrasée dans la plaine de l'Hermos ; il entre dans Sardes (546), détrône Crésus et annexe la Lydie. Pendant ce temps, ses généraux pacifient l'Asie Mineure, où la Cilicie, la Lydie, la Carie, la Phrygie font leur soumission aux Perses, de même que les villages grecs d'Ionie. En 539, les Perses entrent enfin dans Babylone, mettant fin à l'Empire néo-babylonien. C'est un bouleversement politique sans précédent dans tout l'Orient, réuni pour la première fois sous un maître unique. Grand conquérant, Cyrus a su se montrer habile et humain dans le victoire : il rend la liberté aux Juifs déportés, qui rentrent en Palestine et montre le plus grand respect pour les traditions religieuses babyloniennes. Cyrus est tué au cours d'une campagne contre les Massagètes ; on lui a édifié une tombe à Parsagades.
+
+[16] Vers 61 et 62.
+
+[17] Tome II de l'éd. de la Pléiade, p. 709, XV, XX, LX.
+
+[18] Vers 288 et suivants.
+
+[19] Signifie un « chant ».
+
+[20] « Va tout droit au chatiment que tes méfaits méritent » note 10 de l'éd. de la Pléiade. 
+
+[21] *Op. cit. Vie de Cimon*, XI.
+
+[22] *Historiens grecs*, éd. Pléaide, Thucydide, *La guerre du Péloponèse* (I, 95, 96 et 128).
+
+[23] *Philippe Quinault, sa vie, son oeuvre*, Paris, Champion, 1926.
+
+[24] Éd. Pléiade*, Andromaque*, Acte II, sc. 2, p. 213 v. 445 et 446
+
+[25] V. 78 et suivants.
+
+[26] V. 521-524.
+
+[27] *Essai de génétique théâtrale : Corneille à l'oeuvre*, avant-propos.
+
+[28] G. Forestier, *Passions tragiques et règles classiques.*
+
+[29] *Ibid.*, III*e* partie, ch. IV.
+
+[30] *La Pratique du théâtre*, L. II, ch. IV, p. 92.
+
+[31] À l'Acte I, sc. 2, 3, 4 ; Acte II, sc. 2, 3 ; Acte III, sc. 3, 4, 5 ; Acte IV, sc. 1, 2, 3, et à l'Acte V, il est présent à toutes les scènes, cf. le tableau de la présence des personnages.
+
+[32] Pléide de Racine, éd. G. Forestier, *Autour d'« Iphigénie », P. de Villiers. Entretien sur les tragédies de ce temps*, p. 792.
+
+[33] P. 207.
+
+[34] éd. Pléiade, *Notice d'Andromaque* p. 1332.
+
+[35] V. 971 et suivants.
+
+[36] *Racine*, éd. G. Forestier, Paris, Gallimard, Pléiade, p. 203. 
+
+[37] *Philippe Quinault, sa vie, son oeuvre*, p. 327.
+
+[38] *Amour précieux, amour galant. Essai sur la représentation de l'amour dans la littérature et la société moderne*, Paris, Klincksieck, 1980.
+
+[39] V. 220 et suivants.
+
+[40] V. 483 et suivants.
+
+[41] V. 243 et suivants.
+
+[42] V. 279 et suivants.
+
+[43] V. 313
+
+[44] *Racine, oeuvres complètes*, éd. Pléiade, *Bérénice*, Acte IV, sc. 5, v. 1155 et suivants.
+
+[45] *Op. cit., Bérénice*, Acte V, sc. 6, v. 1413 et suivants.
+
+[46] V. 1020 et suivants
+
+[47] Acte IV, sc. 3, v. 1250 et suivants.
+
+[48] Acte V, sc. 2, v. 1370 et suivants.
+
+[49] *Amour précieux, amour galant. Essai sur la représentation de l'amour dans la littérature et la société mondaines 1654-1675, op. cit.*, p. 49.
+
+[50] *Les Visages de l'amour au XVII*e* siècle, la signification de l'amour dans les tragédies parlées de Philippe Quinault* par Edmund Campion, dans *Travaux universitaires de l'Université de Toulouse-le-Mirail*, série A, tome XXVI, p. 158.
+
+[51] Acte II, sc.2, v. 504 et suivants.
+
+[52] *Op. cit.*
+
+[53] V. 66 et suivants.
+
+[54] V. 1465 et suivants.
+
+[55] V. 1207 et suivants.
+
+[56] Expression empruntée à G. Forestier, *Passions tragiques et règles classiques, essai sur la tragédie française*, p. 228. 
+
+[57] Acte V, sc. 4, v. 1545 et suivants.
+
+[58] Notice de *Bérénice, op. cit.*, p. 1443.
+
+[59] V. 1102.
+
+[60] Acte V, sc. 3, v. 1452 et suivants.
+
+[61] Acte II, sc.1, v. 384 et suivants.
+
+[62] Acte IV, sc.2, v. 1094, 1906 et 1908.
+
+[63] *Racine, oeuvres complètes*, éd. G. Forestier, Pléiade, Acte I, sc.3.
+
+[64] V. 415 et suivants.
+
+[65] *Philippe Quinault, sa vie, son oeuvre, op. cit.*, ch. III.
+
+[66] *Ibid.*, p. 326.
+
+[67] *Ibid.*
+
+[68] V. 675 et suivants.
+
+[69] *Racine, oeuvres complètes, Andromaque*, éd. Pléiade, Acte IV, sc. 5.
+
+[70] V. 880 et suivants.
+
+[71] V. 649 et suivants.
+
+[72] V. 1516 et suivants.
+
+[73] *Op. cit.*, p. 458.
+
+[74] Acte IV, sc.3, v. 1284.
+
+[75] Acte II, sc. 4, v. 586
+
+[76] Nous pensons notamment aux travaux de J. B. A. Buijendorp, *Philippe Quinault sa vie, ses tragédies, et ses tragi-comédies*, Paris-Amsterdam, 1928, p. 98 et suivantes.
+
+[77] in *Vie de Cimon* X, éd. de la Pléiade, établie et annotée par G. Walter, trad. J. Amyot, p. 1080.
+
+[78] Acte III, sc .1, v. 711 et suivants
+
+[79] Acte III, sc. 1, v. 720 et suivants.
+
+[80] Acte III, sc. 2 , v. 809 et suivants.
+
+[81] *Recherches de thématique théâtrale, l'exemple des mauvais conseillers des rois dans la tragédie classique*, collection Texte Littéraire Français, p. 84.
+
+[82] *Ibid.*, p. 142.
+
+[83] V. 816 et suivants.
+
+[84] *Bibliographie critique du théâtre de Quinault*, collection Biblio. 17. *Papers on French Seventeenth Century Literature.*
+
+[85] *Douceur et Violence in the Tragedies and Tragi-comédies of Quinault*, Thèse de Doctorat, non publiée, Duke University, 1972-1973.
+
+[86] V. 635 et suivants.
+
+[87] V. 655 et suivants.
+
+[88] *La Dramaturgie classique, op. cit.*, p. 25.
+
+[89] V. 325 et suivants.
+
+[90] V. 374 et suivants.
+
+[91] Cf. le tableau de présence des personnages.
+
+[92] Tyrsis est un nom traditionnel de héros de pastorales, quant à Philène c'est un berger de la *Sylvie* de Mairet.
+
+[93] *Oeuvres complètes* de Boileau, intro. A. Adam, éd. Pléaide, v. 93 et suivants.
+
+[94] V. 1426 et suivants.
+
+[95] V. 1199 à 1210.
+
+[96] *Théâtre au XVII*e* siècle*, t. 3, éd. Pléiade.
+
+[97] *Histoire de la littérature française au XVII*e* siècle.*
+
+[98] Corneille, *Au Lecteur*, en tête de *Sophonisbe*.
+
+[99] *Philippe Quinault, sa vie, ses tragédies, ses tragi-comédies, op. cit.*, p. 115.
+
+[100] L'abbé de Pure, *La Prétieuse ou les Mystères des Ruelles.* Paris, Guillaume de Luyne et P. Lamy, 1656, I, p. 68.
+
+[101] Ce manuscrit porte deux titres : *Les Caractères de la tragédie* ou *Essais sur la tragédie*, BNF, section IV, ch.1, 2§.
+
+[102] Ch. II, v. 27-28.
+
+[103] Section IV, ch. IV, 3*e* paragraphe.
+
+[104] Ch. III, v. 45 et 46.
+
+[105] Ch. 7, 1450b.
+
+[106] Paris, Garnier Flammarion 1025, éd. B. Louvat et M. Escola, p. 133.
+
+[107] *La Dramaturgie classique en France*, Paris, Nizet, ch. IV.
+
+[108] Section 5.
+
+[109] Ch. 5, 1449b.
+
+[110] T. I, p. 370.
+
+[111] Acte V, sc. 3.
+
+[112] *Oeuvres mêlées*, t. II, p. 167.
+
+[113] Cité par G. Forestier, *Passions tragiques et règles classiques*, p. 82 et suivantes.
+
+[114] *La Doctrine classique*, p. 257.
+
+[115] *La Dramaturgie classique en France*, p. 182 et suivantes.
+
+[116] *Ibid.*
+
+[117] P. 324
+
+[118] *La Pratique du théâtre*, livre III, ch. V, p. 231.
+
+[119] Ch. XV.
+
+[120] *Ibid.*, p. 245.
+
+[121] *Ibid.*, p. 96.
+
+[122] Ménage, *Ménagiana ou bons mots, rencontres agréables, pensées judicieuses et observations curieuses*, II, p. 165.
+
+[123] Michel de Pure, *Idées des spectacles anciens et nouveaux*, Paris, Michel Brunet, 1668, Livre II, p. 160.
+
+[124] *Le Théâtre et le Public*, p. 142.
+
+[125] P. 236 et suivantes.
+
+[126] Les continuateurs de Loret, *Lettres en vers de la Gravette de Mayolas, Robinet, Boursault*, Recueillies par J. de Rothschild, Paris, 1881-1883. Boursault, *Lettre du 19 juillet*, 1665, *A la Reyne.* I, p. 120.
+
+[127] *Satire III*, v. 187, 188.
+
+[128] Irailh, *Querelles littéraires*, Paris, Durand, 1756, vol. 2, p. 326.
+
+[129] Boileau, *Oeuvres complètes*, éd. Pléaide, p. 503.
+
+[130] *Dictionnaire des Précieuses* (1661), article « Bavius ».
+
+[131] *Furetiriana, ou les bons mots et les remarques d'histoire, de morale, de critique, de plaisanterie, et d'érudition de M. Furetière*, 1696. 
+
+[132] T. IV, p. 360.
+
+[133] Reproduit dans *Les Mélanges de Littérature.*
+
+[134] *Philippe Quinault, sa vie, ses tragédies et ses tragi-comédies, op. cit.*, p. 82.
+
+[135] Section XII, *Des Jugements.*
+
+[136] Charles de Sainte-Maure, duc de Montausier, né le 6 ocobre 1610, mort à Paris le 17 mai 1690. Brillant soldat, il se distingue en Italie, en Lorraine et obtient à 28 ans le grade de Maréchal de Camp. Il fut nommé ensuite gouverneur de la partie de l'Alsace soumise à la France. Il devient lieutenant-général en 1646 et reçut peu de temps après le gouvernement de la Saintonge et de l'Angoumois. Resté fidèle au roi pendant la Fronde, il fut grièvement blessé dans des actions militaires et fut contraint de quitter le service. Il remplaça en 1662 le duc de Longueville, gouverneur de Normandie et fut fait duc et pair en 1664 et nommé gouverneur du Dauphin, fils de Louis XIVen 1668. Montausier rassembla alors autour de son auguste élève tout ce que la France comptait de plus illustre dans les sciences et les lettres. Il s'adjoignit entre autres Bossuet et Huet comme précepteurs et fit faire pour l'usage du Prince les éditions d'auteurs classiques *« ad usum Delphini »*. Il montrait dans son âge mûr un caractère sevère et austère qui le fit regarder comme l'original du *Misanthrope* de Molière, mais il avait été dans sa jeunesse un familier de l'hôtel de Rambouillet ; après l'avoir courtisé pendant quatorze ans, il épousa enfin la fille de la Marquise, la belle Julie d'Argennes, pour laquelle il abjura le protestantisme en 1645. Celle-ci était l'une des principales protectrices de Quinault à la Cour, à laquelle il a dédié d'ailleurs *La Mère Coquette* en 1665.
+
+[137] Cette scène d'exposition remplit bien sa fonction informative et permet aux spectateurs de connaître le cadre dans lequel la tragédie va se dérouler. Notre pièce débute donc avant la victoire finale des troupes grecques puisque l'on fait mention de la menace que représente la flotte perse. cf. les sources de Pausanias.
+
+[138] *Ici* est employé en tant qu'adverbe de temps, il marque le temps présent, il peut être glosé par « maintenant ». (F). 
+
+[139] Il s'agit ici d'un bel exemple d'emphase lyrique, procédé consistant à grossir le trait afin d'impressionner son interlocuteur et de mettre en relief ce triomphe grec contre l'envahisseur.
+
+[140] Notons la dièrese de Pausanias. Ce phénomène prosodique consiste à prononcer en deux syllabes une suite de voyelles dont la première est *i, u* ou *ou.*
+
+[141] Furetière : *« qui a de l'esprit, ou ce qui est fait avec esprit.* On parle d'une *pensée ingénieuse »*. Charile souligne que Démarate s'inquiète sans fondement et que ses doutes sur l'indifférence de Pausanias sont les fruits de son imagination. 
+
+[142] Comprendre ici « sous le couvert, sous l'apparence ». Démarate n'est pas dupe ; ce n'est pas le soin de sa gloire qui empêche Pausanias de la visiter plus souvent mais plutôt son indifférence à son égard.
+
+[143] L'emploi de l'article, facultatif en ancien et en moyen français, ne devient obligatoire qu'à la fin du XVI*e* siècle. Cependant on l'omet encore assez fréquemment, notamment devant les termes abstraits, comme c'est le cas ici. Comprendre « .. gagner du temps ».
+
+[144] Cf. la note du vers 4 sur l'anachronisme de cette déclaration qui contredit la gloire de Pausanias, et sa renommée en tant que sauveur de la Grèce.
+
+[145] Notons la diérèse sur « officieux » comme sur « yeux » au vers suivant.
+
+[146] Démarate retire à Pausanias le prétexte d'obéir à ses ordres en ce qui concerne le devenir de Cléonice. Elle affirme ici qu'entre la gloire du général des Grecs et le sort de la princesse perse, son coeur ne balance pas : elle se désinteresse du sort de Cléonice. Pausanias ne pouvant plus se dissimuler derrière un service galant est alors obligé de revendiquer si ce n'est son amour pour la prisonnière du moins un intérêt particulier pour la jeune fille. Après avoir argué le dévouement amoureux, il va prétexter le souci de sa gloire qui ne peut souffrir l'échec publique de sa volonté. 
+
+[147] Il s'agit ici du verbe compter, mais les distinctions graphiques qui facilitent aujourd'hui (du moins à l'écrit) la reconnaissance entre « un conte pour enfants », « M. le comte », et un « compte » arithmétique, n'étaient pas encore fixées au XVII*e* siècle. (voir aussi les v. 124, 245, 1036, 1040, 1136...) 
+
+[148] Pausanias évoque ici la rivalité très forte qui existe entre Sparte et Athènes. Ces luttes pour le pouvoir se recoupent de différences d'éducation fondamentales que nous explicitons ultérieurement, voir note du vers 269.
+
+[149] *« À peine »* signifie difficilement. (F).
+
+[150] Comprendre ici « en s'opposant à mon choix ». 
+
+[151] Ce n'est que recemment qu'on a restreint l'emploi de *où* se rapportant aux choses. Au XVII*e* siècle, il n'équivaut pas seulement à un relatif construit avec *dans*, mais aussi à un relatif construit avec *à* dans le sens d'un datif . On peut ici le gloser par *« auquel ».*
+
+[152] Au XVII*e* siècle, le mot *« amant »* signifait *« celui qui aime et qui est aimé »*à la différence d'*« amoureux » « qui aime sans être aimé en retour ».* (Richelet).
+
+[153] Comprendre ici « Quoy ? Ne puis-je espérer, Seigneur d'être éclairci ». 
+
+[154] Comprendre le terme de courage au sens de « coeur ».
+
+[155] Quinault retranscrit dans ce passage des différences historiquement établies entre les Spartiates et les Athéniens. L'éducation spartiate se définit par sa dureté. L'Etat spartiate organise toute la vie du citoyen qui n'existe que pour servir et défendre la communauté. À sa naissance, le bébé n'est conservé que s'il est beau et robuste, sinon il est jeté dans un ravin. L'enfant est élevé par sa mère jusqu'à sept ans. À cet âge il entre dans un groupe commandé par un enfant plus fort et apprend à écrire, à chanter des chants guerriers et à lire les exploits des héros. À douze ans, il commence l'apprentissage de la vie militaire qui doit faire acquérir endurance et obéissance. Il s'entraîne aux exercices militaires et se soumet à une discipline sévère. De 18 à 20 ans, il se prépare à la vie de soldat. À vingt ans son éducation terminée, il accomplit dix ans de service militaire. Pausanias fait ici allusion au « laconisme » des Spartiates, peu habitués contrairement aux Athéniens, à l'éloquence. 
+
+[156] Il s'agit ici du verbe « naître ».
+
+[157] Comprendre ici le terme *« art »* au sens de technique, fruit de l'ingéniosité et du travail de l'homme par opposition à tout ce qui est naturel, inné. cf. glossaire.
+
+[158] Noter les répétitions de que/qu' qui structurent la phrase, lui donnent un rythme soutenu, haletant qui traduit l'émotion que ressent Pausanias devant la possible perte de Cléonice. Ce débordement de la parole apprend sans nul doute à Aristide la véritable nature des sentiments du général spartiate pour la princesse perse : l'amour.
+
+[159] Comprendre ici « Et que quand dans le besoin l'injustice vous sert ... » 
+
+[160] Au sens de connaître.
+
+[161] Diérèse sur *glorieux*, ce mot compte pour trois syllabes, idem pour *odieux* au v. 340.
+
+[162] Dans cette occurence, le mot *« charme »* a le sens d'enchantement. (Richelet).
+
+[163] Comprendre ici « et peu importe qu'il l'aime ».
+
+[164] Notons le sens temporel d'*ici*, même remarque qu'au vers 7.
+
+[165] L' anaphore en début de vers de « *Je ne vous dirai rien* » se double d'une figure de prétérition, du latin <*praetereo>*, « *passer sous silence* ». En semblant ne pas insister sur quelque chose, on le met encore plus en évidence, car tout en ayant l'air de ne pas adhérer à l'énoncé que l'on produit, on en insinue le contenu dans l'esprit de l'auditeur, sur le mode de l'évidence, cet emploi est ici canonique et a pour fonction de rappeler à Cléonice toute la gloire, toute la valeur de Pausanias qui met ici son coeur à sa merci. 
+
+[166] Comprendre ici « c'est votre amour, votre affection que je désire». Procédé métonymique qui consiste à désigner la partie pour le tout, très en vogue dans le langage amoureux et surtout chez les Précieuses.
+
+[167] Comprendre ici « pour ne pas vous contraindre à un choix précipité. » Pausanias veut que Cléonice le choisisse librement, sans pression d'aucune sorte, de la même manière que Démarate voulait être choisie pour elle-même et non pour obéir aux lois de Sparte. cf. v. 174 : *« Luy donner le loisir de se donner luy mesme. »*
+
+[168] Le terme *« devant »* a ici un sens temporel. On peut gloser ce vers par *« Prévienne / anticipe certains de vos plus doux souhaits ».*
+
+[169] Comprendre ici « fondés ».
+
+[170] La graphie –eu note notre –u. Comprendre ici « laissons murir l'aigreur de nos ressentiments ».
+
+[171] Il s'agit évidemment de Cléonice, « cause » de la froideur de Pausanias envers Démarate. Le même procédé est repris au vers 664 où le terme *« objet »* designe également Cléonice. Cet emploi est plus traditionnel. On parle dans le langage précieux qui a fortement influencé Quinault du « bel objet » qui suscite l'amour, désignant de façon détournée la femme aimée. cf. glossaire.
+
+[172] « Vaine » a ici le sens de vaniteuse. 
+
+[173] L'emploi de *« dont »* peut être glosé par : « Recompense les efforts que j'ai entrepris pour briser sa chaine ». 
+
+[174] Démarate suppose ici que Cléonice est au courant de ses manoeuvres : elle n'aurait pas été dupe de ses « *déguisements* » c'est à dire de sa feinte d'aimer un autre homme et qu'elle aurait percé à jour le désir de vengeance de sa rivale malheureuse.
+
+[175] L'orthographe de vengeance varie dans notre texte d'origine et ce de manière arbitraire. Ainsi au v. 682 on trouve *« vengeance ».* 
+
+[176] Comprendre ici « Redoublons cependant les soins sur lesquels je fonde / / l'espoir de l'élever au premier rang du monde ». Le *« qui »* a ici valeur d'une anaphore lexicale et désigne les soins qu'évoque la principale. Notons l'économie de l'ancienne langue : le morphème *« qui »* joue le rôle de destinataire de l'action du procès évoqué alors que le français moderne préfère distinguer celui-ci en fonction des catégories de l'animé et de l'inaminé.
+
+[177] Le terme de *« rebut honteux »* s'applique à Demarate, qui se voit outragée par la conduite de Pausanias. Aristide le lui rappelle durement comme pour exacerber sa haine et son désir de vengeance.
+
+[178] Comprendre ici « Quand une fois ailleurs / par un autre objet il est préoccupé. »
+
+[179] Comprendre ici « ... et pourrai-je prétendre, après Aristide, à l'honneur de l'apprendre ? »
+
+[180] Notons la hauteur de Pausanias. Peu à peu son caractère se dévoile. Il apparaît comme un homme hautain, orgueilleux, tel que le décrivent Aristide et Sophane.
+
+[181] Comprendre « ... mon âme timide, / Est contrainte à vous faire cet aveu à cause du refus d'Aristide de le faire à ma place / en mon nom. »
+
+[182] Ce n'est que recemment qu'on a restreint l'emploi de *où* se rapportant aux choses. On peut ici le gloser par « auquel ». cf. note du vers 160.
+
+[183] Au XVII*e* siècle, *« amour »* pouvait être masculin ou féminin au singulier. cf. glossaire.
+
+[184] Locution *« au trouble »* est à comprendre dans le sens de « dans le trouble ». 
+
+[185] Reconnaître ici *« dû »* forme verbale du verbe devoir. Cette graphie est étymologisante, le *-b* provient de la forme latine *debere.*
+
+[186] Cet emploi de *« amours »* au pluriel est attesté dans la langue classique du XVII*e* siècle. Il peut s'agir d'une omission d'un substantif : « d'avoir vu tant de preuves d'amours », ou bien encore de la grandeur sublime dont fait preuve Demarate, qui justifie cet emploi.
+
+[187] On peut gloser cette locution par « afin de ne plus jamais la voir».
+
+[188] Comprendre « Je ne sais à quoi je m'expose »
+
+[189] Quinault se souvient ici de l'attitude d'Oreste dans *Andromaque*, qui lui aussi parle « au nom de tous les Grecs » et lui aussi pour le mettre en péril en l'obligeant à dévoiler au grand jour cet amour contraire aux Lois de Sparte. cf. Acte I, sc. 2, v. 143 d'*Andromaque* : « Avant que tous les Grecs vous parlent par ma voix »
+
+[190] Notons l'ironie des propos de Pausanias qui, quoique peu habitué aux arts oratoirs, décèle la manoeuvre politique qu'Aristide entend effectuer en se servant des sentiments du général spartiate pour sa belle prisonnière afin de le discréditer auprès des Grecs. Voir surtout les vers 975 lorsqu'il évoque « l'ardeur » d'Aristide à servir « le bien public » et le terme vers 976 « souvent » qui montrent bien que Pausanias n'est pas dupe de son rival politique athénien.
+
+[191] Aristide souligne ici l'arrivée de Cléonice à la scène suivante.
+
+[192] Cléonice fait ici allusion aux manoeuvres athéniennes, orchestrées par Aristide pour « arracher » à Pausanias son rang, sa gloire, souligne ainsi l'instabilité de sa position de simple général, soumise aux fluctuations d'humeur des Grecs et ajoute qu'elle deteste de rang odieux qui lui a coûté son père. Elle opposera ensuite à ce statut précaire la sûreté du rang de roi auquel il pourrait prétendre s'il accepte de partir avec elle en Perse.
+
+[193] Les auxiliaires devoir et pouvoir, au passé de l'indicatif, ont presque toujours une valeur modale. Comprendre « L'Amour aurait dû toujours s'attendre à lui céder. »
+
+[194] Comprendre : « Vous deviendroit un fardeau à le tenir de moi. »
+
+[195] Soulignons que ce vers est prononcé tandis que Pausanias sort.
+
+[196] Notons que ce vers prend tout son sens lors du dénouement de la tragédie, lorque l'on apprend la mort de Cléonice, qui a lieu entre l'Acte IV, sc. 5 et l'Acte V, sc.1. Démarate va réaliser son programme : « Tâchons que la vangance éclatte avant l'affront » (acte II, sc.5, v. 654).
+
+[197] Le chef dont parle Pausanias n'est autre que Cimon qu'il croit avoir tué.

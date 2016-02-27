@@ -43,7 +43,7 @@ Trouver Germanicus digne d'un aussi grand Nom que celuy de Mr.
 Racine, c'est en peu de mots en dire beaucoup de bien : Et que ce témoignage ait esté rendu par un Homme aussi fameux que Mr. de Corneille, c'est le plus grand honneur que je pûsse recevoir.
 Le Lecteur jugera, s'il luy plaist, qui des deux eut le plus de raison ; l'un de dire ce qu'il dit, ou l'autre de s'en offenser.
 
-**** *book_ *id_body-2-1 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-201 *act_ *date_1694 *creator_boursault
 
 -*who_livie
 Ma soeur... Mais je m'oublie⁎, & je perds le respect⁎,
@@ -127,30 +127,30 @@ Il me rend les mépris qu'il reçeut autrefois.
 Mais pour Drusus...
 
 -*who_agripine
-Madame, il va bien-tost paroistre :
+      Madame, il va bien-tost paroistre :
 En voyant tant d'appas⁎ son amour peut renaistre :
 Pour l'oster de mes fers⁎ essayer leur pouvoir.
 Je viens de le mander⁎, & vous le pourrez voir.
 Un seul remors...
 
 -*who_livie
-Adieu. Quoique l'ingrat m'oublie,
+      Adieu. Quoique l'ingrat m'oublie,
 Ma haine est foible encor & mon coeur s'en deffie⁎ :
 Et je le veux, si je puis, le haïr assez bien
 Pour le voir, le braver, & n'en redouter rien.
 
-**** *book_ *id_body-2-2 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-202 *act_ *date_1694 *creator_boursault
 
 -*who_flavie
 Le prince vient.
 
 -*who_agripine
-Seigneur, ma main vous est promise,
+      Seigneur, ma main vous est promise,
 Et je puis avec vous parler avec franchise.
 M'aimez-vous?
 
 -*who_drusus
-Ah Madame ! en ce fatal instant
+      Ah Madame ! en ce fatal instant
 Que mon sort seroit beau si vous m'aimiez autant !
 De quelqu'espoir flateur⁎ que mon coeur s'entretienne⁎,
 Vous ne vous donnez pas quoy que je vous obtienne,
@@ -165,7 +165,7 @@ Que d'avoir de l'amour qui n'est pas mutuel.
 Ah Seigneur !
 
 -*who_drusus
-Poursuivez, sans que rien vous contraigne.
+      Poursuivez, sans que rien vous contraigne.
 Je lis dans vostre coeur, Germanicus y regne :
 En vain à vostre sort le mien doit estre joint ;
 Tant que vous l'aimerez vous ne m'aimerez point.
@@ -216,7 +216,7 @@ De reprendre le coeur qu'il faut que je vous donne.
 Un mois est peu de chose, il me suffit.
 
 -*who_drusus
-Helas !
+      Helas !
 Un mois est peu de chose à vous qui n'aimez pas !
 Mais, Madame, aux Amans dont les flâmes⁎ paroissent,
 Plus un hymen⁎ est proche, & plus les desirs croissent.
@@ -235,7 +235,7 @@ En pensant le haïr vous feriez le contraire.
 C'est moy qui vous en prie : & peut-estre entre nous,
 Devez-vous quelque chose à qui fait tout pour vous.
 
-**** *book_ *id_body-2-3 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-203 *act_ *date_1694 *creator_boursault
 
 -*who_flavie
 A vos souhaits, Madame, il a daigné se rendre.
@@ -278,7 +278,7 @@ Ne vous exposez point à des peines mortelles.
 Germanicus...
 
 -*who_agripine
-Demain j'en auray des nouvelles.
+      Demain j'en auray des nouvelles.
 Pison, qui sert ma flâme⁎ en attend aujourd'huy.
 J'ay beaucoup de sujet⁎ de me loüer de luy.
 Pison est sage, ardent⁎, civil, soûmis, fidele :
@@ -290,20 +290,20 @@ Et montre en ma faveur une bonté si grande,
 Un respect si profond...
 
 -*who_flavie
-Madame, le voicy.
+      Madame, le voicy.
 
 -*who_agripine
 De peur de le contraindre éloigne toy d'icy.
 Quand je l'auray quitté je t'iray tout apprendre.
 
-**** *book_ *id_body-2-4 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-204 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
 Cher Pison.
 
 -*who_pison
-Cette lettre, où sont peints⁎ vos secrets,
+      Cette lettre, où sont peints⁎ vos secrets,
 Dés hier me fut renduë, & je l'apporte exprés⁎.
 Je serois criminel, sçachant qui vous l'envoye,
 Si j'avois plus long-temps differé vostre joye.
@@ -312,7 +312,7 @@ Et mon plus grand plaisir est de vous en causer,
 Madame.
 
 -*who_agripine
-Vostre zele a déja sceu paroistre.
+      Vostre zele a déja sceu paroistre.
 
 -*who_pison
 Il n'a pû jusqu'icy se bien faire connoistre⁎.
@@ -344,20 +344,20 @@ Mais je laisse en ma place un plus grand Capitaine.
 Il doit approuver mon retour ;
 Et puisque j'ay servy sa haine,
 Je puis bien servir mon Amour.
-GERMANICUS.
+      GERMANICUS.
 
 -*who_agripine
 Il vient, Pison !
 
 -*who_pison
-Vostre ame en paroit toute émeuë ;
+      Vostre ame en paroit toute émeuë ;
 Souhaitez-vous, Madame, ou craignez-vous sa veuë ?
 
 -*who_agripine
 Je le veux voir.
 
 -*who_pison
-De grace, examinez-vous bien.
+      De grace, examinez-vous bien.
 
 -*who_agripine
 Je le veux voir, vous dis-je, & par vostre moyen.
@@ -371,7 +371,7 @@ De semblables secrets souffrent⁎ peu de témoins.
 Vous les sçavez.
 
 -*who_pison
-Helas ! Que n'en sçay-je un peu moins.
+      Helas ! Que n'en sçay-je un peu moins.
 A servir vostre Amour le plaisir que je goûte,
 M'est un plaisir fatal par le prix qu'il me coûte.
 Ce n'est pas que mon zele ait jamais chancelé ;
@@ -452,7 +452,7 @@ Ne vous obstinez point à vouloir vous trahir.
 Parlez.
 
 -*who_pison
-Vous le voulez, & je vais obeïr.
+      Vous le voulez, & je vais obeïr.
 L'adorable Beauté qui captive⁎ mon ame,
 Peut estre comparée avecque vous, Madame :
 Quand je vous apperçois, j'apperçois tous ses traits ;
@@ -466,7 +466,7 @@ Et pour estre aimé d'elle, il faut l'estre de vous.
 De moy, Pison ?
 
 -*who_pison
-De grace ; achevez de m'entendre ;
+      De grace ; achevez de m'entendre ;
 Mais calmez ce courroux⁎, ou daignez le suspendre ;
 Et d'une ame tranquille, en ce malheureux jour,
 Punissez mon audace, ou plaignez mon amour.
@@ -549,7 +549,7 @@ Qu'aucun autre que moy n'aimera jamais tant.
 Adieu, Madame.
 
 -*who_agripine
-Ah ciel ! est-ce ainsi qu'on me laisse ?
+      Ah ciel ! est-ce ainsi qu'on me laisse ?
 
 -*who_pison
 Pour vostre interest propre épargnez ma foiblesse,
@@ -591,12 +591,12 @@ Disposez du pouvoir que j'auray dans ce lieu.
 Je vous l'ordonne.
 
 -*who_pison
-Helas ! Adieu, Madame.
+      Helas ! Adieu, Madame.
 
 -*who_agripine
-Adieu.
+      Adieu.
 
-**** *book_ *id_body-3-1 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-301 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Mon amour te retient, & mon devoir te chasse.
@@ -607,11 +607,11 @@ Quoy ! me chasser, Madame, avec un si grand soin.
 O Ciel !
 
 -*who_agripine
-Germanicus ne doit pas estre loin,
+      Germanicus ne doit pas estre loin,
 Je crains sa veuë.
 
 -*who_albin
-Helas ! il suffit de le plaindre.
+      Helas ! il suffit de le plaindre.
 D'un Amant si soumis vous n'avez rien à craindre.
 Quoique vous l'arrachiez à l'espoir d'estre à vous,
 D'une main qu'il adore il respecte les coups.
@@ -680,7 +680,7 @@ On a qu'un pas à faire, & l'on est à l'amour.
 Qu'il me fuye.
 
 -*who_albin
-A sa flâme⁎ épargnez ce supplice :
+      A sa flâme⁎ épargnez ce supplice :
 Exiler⁎ sa douleur, c'est en estre complice.
 Il ne s'oubliera⁎ point à vostre auguste aspect :
 Cet Amant qui perd tout ne perd pas le respect⁎.
@@ -694,7 +694,7 @@ A le voir autrefois vos beaux yeux se sont plûs,
 Vous l'aimiez.
 
 -*who_agripine
-Et crois-tu que je ne l'aime plus ?
+      Et crois-tu que je ne l'aime plus ?
 
 -*who_albin
 Voyez-le donc : ce bien⁎ est le seul qu'il implore,
@@ -706,7 +706,7 @@ Au nom de la pitié, si vous ne l'aimez plus.
 Le verray-je ?
 
 -*who_flavie
-Du moins c'est trop estre interdite⁎ :
+      Du moins c'est trop estre interdite⁎ :
 De l'absence du Prince, il est bon qu'on profite.
 Ou souffrez⁎ qu'il vous voye, ou donnez d'autres loix⁎.
 
@@ -717,7 +717,7 @@ Au moins ce sera donc pour la derniere fois.
 Ouy, Madame.
 
 -*who_agripine
-Qu'il vienne. Et si je luy fut chere,
+      Qu'il vienne. Et si je luy fut chere,
 Que pour prix de l'effort qu'il me contraint de faire,
 Il ait soin de ma gloire, & ne l'expose pas.
 Toy, qui m'est si fidele, accompagne ses pas :
@@ -726,7 +726,7 @@ Prens la plus sombre route, & la plus seure voye.
 Un Guerrier si fameux, dans un lieu si suspect,
 Allarmeroit⁎ Tibere, à qui je dois respect.
 
-**** *book_ *id_body-3-2 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-302 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 D'où me vient ce desordre, & pourquoy suis-je émeuë ?
@@ -740,14 +740,14 @@ La vertu la plus forte a de foibles momens.
 Je revoque⁎ mon ordre, & ne veux point qu'il vienne.
 Hola !
 
-**** *book_ *id_body-3-3 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-303 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
-Quelle surprise est égale à la mienne ?
+      Quelle surprise est égale à la mienne ?
 C'est Pison !
 
 -*who_pison
-Oüy, Madame : & malgré mon adieu,
+      Oüy, Madame : & malgré mon adieu,
 J'interromps mon voyage, & reviens en ce lieu.
 Si tantost⁎ à vos yeux j'ay montré ma foiblesse,
 Jusqu'à faire l'aveu d'un amour qui vous blesse,
@@ -769,7 +769,7 @@ Cet amour de mon coeur est banny pour jamais.
 Me le promettez-vous ?
 
 -*who_pison
-Oüy, je vous le promets.
+      Oüy, je vous le promets.
 Je suis guery, Madame ; & vous allez connoistre⁎,
 Qu'il seroit mal-aisé de le pouvoir mieux estre.
 J'ay repris sur moy-même un empire⁎ absolu.
@@ -804,13 +804,13 @@ Le retour de ce Prince alloit trop éclater⁎ ;
 Vous l'allez voir paroistre.
 
 -*who_agripine
-Et je veux l'éviter.
+      Et je veux l'éviter.
 
 -*who_pison
 Vous, Madame ?
 
 -*who_agripine
-Oüy, Pison, c'est en vain que j'hesite :
+      Oüy, Pison, c'est en vain que j'hesite :
 Pour le voir sans allarme⁎ il a trop de merite⁎.
 Quand de quelque vertu mon coeur seroit armé,
 Vous sçavez qu'à le vaincre il est accoûtumé.
@@ -832,7 +832,7 @@ Albin, son Confident vient de sortir d'icy.
 Je vous l'apprens.
 
 -*who_pison
-Madame, il me l'a dit aussi.
+      Madame, il me l'a dit aussi.
 C'est un homme discret, mais à quoy qu'il s'engage⁎,
 Vostre gloire est d'un prix qu'il est bon qu'on ménage.
 Je n'ay pû sans douleur, malgré tous vos dédains,
@@ -856,7 +856,7 @@ Et si vous le perdez sans verser quelques larmes ?
 Qu'avez-vous dit ?
 
 -*who_pison
-J'ay dit qu'il vous eût esté doux
+      J'ay dit qu'il vous eût esté doux
 De n'aimer que luy seul, comme il n'aime que vous :
 Que son rare⁎ merite⁎ est gravé dans vostre Ame ;
 Et qu'un Prince absolu vous arrache à sa flâme⁎.
@@ -865,7 +865,7 @@ Et qu'un Prince absolu vous arrache à sa flâme⁎.
 Et qu'a-t-il répondu ?
 
 -*who_pison
-Ses soûpirs à l'instant...
+      Ses soûpirs à l'instant...
 Mais, Madame, il viendra si vous m'arrétez tant.
 Ne vous exposez point à ce peril extréme :
 Les momens durent peu quand on voit ce qu'on aime.
@@ -876,7 +876,7 @@ Ah ! Pison, je m'égare⁎, & l'on s'égare⁎ à moins.
 Allez luy dire... O Ciel ! le voicy.
 
 -*who_pison
-Je vous laisse.
+      Je vous laisse.
 
 -*who_agripine
 Demeurez. Vous present j'auray moins de foiblesse.
@@ -887,7 +887,7 @@ De traiter son Amour comme j'ay fait le vostre :
 Et m'aimant, sans espoir, il vous doit estre doux
 Qu'un Heros, comme luy, soit traité comme vous.         610
 
-**** *book_ *id_body-3-4 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-304 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Enfin, Prince, vostre ame a lieu d'estre contente :
@@ -918,23 +918,23 @@ Je vous aime, & vous vois, mon bonheur est extréme...
 Adieu, Prince.
 
 -*who_germanicus
-Me fuir !
+      Me fuir !
 
 -*who_agripine
-Vous m'aimez ?
+      Vous m'aimez ?
 
 -*who_germanicus
-Je vous aime.
+      Je vous aime.
 Aucun autre sujet⁎ ne m'ameine en ce lieu :
 Vous aimer fait ma joye : Et vous, Madame ?
 
 -*who_agripine
-Adieu.
+      Adieu.
 Je crains trop un combat dont l'issuë est douteuse,
 Seigneur.
 
 -*who_germanicus
-Et vostre fuite, est-elle point honteuse ?
+      Et vostre fuite, est-elle point honteuse ?
 Aprés trois ans d'absence il m'eût esté bien doux
 De pouvoir plus long-temps demeurer prés de vous.
 Je m'estois assuré d'une ardeur⁎ mutuelle :
@@ -944,7 +944,7 @@ Charmeroit tout le monde, & ne seroit qu'à moy.
 Cependant...
 
 -*who_agripine
-Ah ! Seigneur, laissez-moy l'innocence :
+      Ah ! Seigneur, laissez-moy l'innocence :
 Epargnez à ma gloire un soupçon qui l'offence :
 A mon coeur tout à vous n'imputez rien de bas ;
 Et si l'on vous trahit, ne m'en accusez pas.
@@ -1008,17 +1008,17 @@ Je vois avec douleur celle d'un si grand homme ;
 Mais que puis-je ?
 
 -*who_pison
-Drusus va revenir de Rome.
+      Drusus va revenir de Rome.
 De peur de vous trahir, je vous le dit tout haut.
 
 -*who_agripine
 Croyez-vous qu'il revienne ?
 
 -*who_pison
-On l'attend.
+      On l'attend.
 
 -*who_agripine
-Quoy ! si tost !
+      Quoy ! si tost !
 
 -*who_germanicus
 Pour calmer un transport⁎, qui me seroit funeste,
@@ -1029,7 +1029,7 @@ Sauvez-moy de moy-même, & sans plus m'allarmer⁎...
 Je vous l'ay déja dit, que puis-je, enfin ?
 
 -*who_germanicus
-M'aimer.
+      M'aimer.
 
 -*who_agripine
 Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?
@@ -1055,7 +1055,7 @@ Des maux⁎ que je vous fais, c'est me punir assez.
 Remenez-moy, Pison. Adieu, Prince.
 
 -*who_germanicus
-Ah ! Madame !
+      Ah ! Madame !
 A travers vos discours je penetre en vostre ame :
 Au Fils de l'Empereur vostre coeur fait la cour ;
 Et vostre ambition va trahir mon amour.
@@ -1103,13 +1103,13 @@ Pour mettre en seureté vos sublimes vertus,
 Desormais, par respect, je ne vous verray plus.
 Remenez-moy.
 
-**** *book_ *id_body-3-5 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-305 *act_ *date_1694 *creator_boursault
 
 -*who_flavie
-Madame...
+      Madame...
 
 -*who_agripine
-Ah ! que viens-tu m'apprendre ?
+      Ah ! que viens-tu m'apprendre ?
 
 -*who_flavie
 Que le Fils de Cesar dans ce lieu se va rendre.
@@ -1126,7 +1126,7 @@ C'est sur vous seul, enfin, que je jette les yeux.
 Sur moy ! Madame ?
 
 -*who_agripine
-Et vous, dans ce moment funeste,
+      Et vous, dans ce moment funeste,
 Seigneur, si du passé le souvenir vous reste,
 Par bonté, par justice, ou du moins par pitié,
 De son Appartement acceptez la moitié.
@@ -1139,7 +1139,7 @@ C'est mon honneur, Pison, qu'icy je vous confie :
 Et si j'ose avec vous m'expliquer à mon tour,
 Vous n'étes pas le seul que maltraite l'Amour.
 
-**** *book_ *id_body-4-1 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-401 *act_ *date_1694 *creator_boursault
 
 -*who_flavie
 Dans vostre Appartement le Prince va se rendre ;
@@ -1171,7 +1171,7 @@ Le Prince qui paroît, fait que je me retire.
 Adieu. Souvenez-vous que l'on voit aujourd'huy
 Une fille d'Auguste implorer vostre appuy.
 
-**** *book_ *id_body-4-2 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-402 *act_ *date_1694 *creator_boursault
 
 -*who_drusus
 Si j'en crois un grand bruit⁎ qui se vient de répandre,
@@ -1183,7 +1183,7 @@ L'Empereur par luy-même en vient d'estre assuré.
 Vostre Rival, Seigneur ! Germanicus ?
 
 -*who_drusus
-Luy-même.
+      Luy-même.
 Rome de son retour montre une joye extrême :
 Et déja le Senat qui se veut assembler,
 Des suprêmes Honneurs croit le devoir combler.
@@ -1226,7 +1226,7 @@ Mais vous m'avez trop bien tenu vostre promesse.
 Moy, Seigneur ?
 
 -*who_drusus
-Oüy, Pison, je dois trop à vos soins :
+      Oüy, Pison, je dois trop à vos soins :
 Je vivrois plus heureux si je vous devois moins.
 Car enfin, c'est en vain que l'Empereur s'obstine
 A vouloir que mon coeur soit le prix⁎ d'Agripine :
@@ -1267,14 +1267,14 @@ Vous préte un digne exemple à demeurer fidele :
 Tout parle en sa faveur ; mais enfin...
 
 -*who_drusus
-Ah ! Pison,
+      Ah ! Pison,
 Elle vient ; vos conseils ne sont plus de saison.
 Laissez-nous seuls.
 
-**** *book_ *id_body-4-3 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-403 *act_ *date_1694 *creator_boursault
 
 -*who_livie
-Seigneur, vous auriez quelque peine
+      Seigneur, vous auriez quelque peine
 A vous imaginer le sujet⁎ qui m'ameine.
 Je ne viens point icy par d'indignes soupirs
 Mandier le retour de vos ardens desirs :
@@ -1317,14 +1317,14 @@ Il suffira de vous pour m'en faire raison.
 Tenez, Prince.
 
 -*who_drusus
-Madame, au nom de ce que j'aime...
+      Madame, au nom de ce que j'aime...
 En croirez-vous mon coeur, s'il dit que c'est vous-même ?
 
 -*who_livie
 Moy ! Seigneur ?
 
 -*who_drusus
-Vous pouvez, pour hâter mon trépas⁎,
+      Vous pouvez, pour hâter mon trépas⁎,
 Avoir la cruauté de ne me croire pas.
 Vous aimer, vous le dire, aprés mon inconstance⁎,
 C'est vous faire, sans doute, une nouvelle offence ;
@@ -1358,7 +1358,7 @@ J'en atteste des Dieux la majesté suprême ;
 J'en atteste...
 
 -*who_livie
-Autrefois vous en usiez de même.
+      Autrefois vous en usiez de même.
 Vos perfides sermens, tant de fois redoublez,
 Par vostre ingratitude ont esté violez.
 Non, non, le repentir où vostre ame est forcée,
@@ -1405,7 +1405,7 @@ Et mon dernier soûpir, offert à vos appas⁎,
 Justifiera...
 
 -*who_livie
-Seigneur, ne m'attendrissez pas.
+      Seigneur, ne m'attendrissez pas.
 Si je m'estois renduë⁎ à vos fausses tendresses
 Vous me seriez garend de toutes mes foiblesses.
 Contentez-vous du trouble où vous me reduisez :
@@ -1425,7 +1425,7 @@ Souffrez⁎ que de nouveau mon coeur vous les adresse ;
 Et que tant de sermens une fois violez,
 Pour ne l'estre jamais vous soient renouvellez.
 Laissez-moy vous redire
-Adorable Livie,
+      Adorable Livie,
 Quand je songe aux honneurs qui me sont destinez,
 Je crois avoir perdu les momens de ma vie
 Que je ne vous ay pas donnez.
@@ -1436,7 +1436,7 @@ Que toujours à mes voeux⁎ vostre bonté réponde,
 Et je renoncerois à l'Empire⁎ du Monde,
 Pour l'Empire⁎ de vostre coeur.
 Laissez-moy vous redire
-Il est vray, ma Princesse,
+      Il est vray, ma Princesse,
 Cesar me sollicite⁎ à reprendre ma foy⁎ ;
 Il veut que j'aime ailleurs ; mais en vain il m'en presse⁎ ;
 L'Amour, plus absolu, m'impose une autre loy.
@@ -1517,14 +1517,14 @@ Une belle action n'attend point de salaire :
 Et s'il vous en faut un...
 
 -*who_drusus
-Hé bien, Madame ?
+      Hé bien, Madame ?
 
 -*who_livie
-Adieu.
+      Adieu.
 La Princesse Agripine arrive dans ce lieu.
 Servez Germanicus, l'occasion est belle.
 
-**** *book_ *id_body-4-4 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-404 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Seigneur, je vous apporte une grande nouvelle.
@@ -1539,7 +1539,7 @@ En presence des Dieux de vous donner la main.
 O Ciel !
 
 -*who_agripine
-D'aucun soupçon n'ayez l'ame blessée
+      D'aucun soupçon n'ayez l'ame blessée
 Si je n'ay pas d'abord cette ardeur⁎ empressée⁎,
 Ces desirs violens, & ces transports⁎ si doux,
 Qui deviennent permis en faveur d'un Epoux.
@@ -1559,7 +1559,7 @@ Je l'ay veu par vostre ordre, & sans estre en couroux⁎
 Il m'a promis...
 
 -*who_agripine
-Seigneur, je l'ay veu depuis vous.
+      Seigneur, je l'ay veu depuis vous.
 Je viens de le quitter. Et pour ne vous rien taire,
 L'effort qu'en ma faveur vous avez daigné faire,
 Ce que sur vos desirs vous avez de pouvoir,
@@ -1587,7 +1587,7 @@ Me surprend d'autant plus que je n'osois l'attendre.
 Vostre bonté m'accable, & je jure à vos yeux...
 Quand j'auray veu Cesar je m'expliqueray mieux.
 
-**** *book_ *id_body-4-5 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-405 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Hé bien, Flavie, hé bien, seras-tu satisfaite ?
@@ -1635,7 +1635,7 @@ Je fais ce que je puis, je m'immole⁎ moy-même :
 Je me perds. Mais, Flavie, un coeur comme le mien,
 Quand la gloire a parlé, ne consulte⁎ plus rien.
 
-**** *book_ *id_body-5-1 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-501 *act_ *date_1694 *creator_boursault
 
 -*who_pison
 Madame, pardonnez à mon impatience ;
@@ -1695,7 +1695,7 @@ Si je veux cette nuit l'aller assassiner.
 L'assassiner, Pison !
 
 -*who_pison
-Je l'ay promis, Madame.
+      Je l'ay promis, Madame.
 
 -*who_agripine
 Tu l'as promis ! Sçais-tu que c'est m'arracher l'ame ?
@@ -1706,7 +1706,7 @@ Madame, au nom des Dieux ne vous emportez point.
 C'est me perdre.
 
 -*who_agripine
-Est-ce à tort, cruel, que je m'emporte ?
+      Est-ce à tort, cruel, que je m'emporte ?
 Que je te perde, ou non, malheureux, que m'importe ?
 Si tu perds un Heros qu'adore l'Univers,
 Ce qui peut y rester vaut-il ce que tu perds ?
@@ -1766,7 +1766,7 @@ Drusus d'un si grand crime est sans doute complice,
 Pison ?
 
 -*who_pison
-L'en soupçonner, c'est luy faire injustice.
+      L'en soupçonner, c'est luy faire injustice.
 Pour son propre interest le sensible Drusus
 Voudroit vous voir unie avec Germanicus.
 De l'état de son ame il m'a fait confidence ;
@@ -1774,7 +1774,7 @@ Et je sçay... Mais adieu, Germanicus s'avance :
 Parlez-luy, le temps presse ; & sans faire aucun bruit⁎,
 Empêchez que dans Rome il ne passe la nuit.
 
-**** *book_ *id_body-5-2 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-502 *act_ *date_1694 *creator_boursault
 
 -*who_germanicus
 Je ne sçay de quel oeil vous verrez un coupable,
@@ -1801,7 +1801,7 @@ Que vois-je ? me trompay-je ? ou, pleurez-vous encore,
 Ma Princesse ?
 
 -*who_agripine
-Seigneur, si je ne vous adore,
+      Seigneur, si je ne vous adore,
 Si vous n'estes vous seul l'objet de tout mon soin⁎,
 Me punissent les Dieux que j'en prends à témoin.
 Vous avez crû tantost⁎ ma confiance affoiblie :
@@ -1829,7 +1829,7 @@ Quand je vous auray dit qu'il faut m'abandonner,
 Moy, Madame ?
 
 -*who_agripine
-Seigneur, je souffre⁎ par avance,
+      Seigneur, je souffre⁎ par avance,
 Tout ce qu'a de cruel cette fatale absence :
 Je prévoy tous les maux⁎ qui me vont accabler ;
 Et je ne puis enfin les prevoir sans trembler.
@@ -1854,7 +1854,7 @@ Et je viens de sa part vous en entretenir.
 Demain Cesar, & moy...
 
 -*who_agripine
-Point de demain, de grace.
+      Point de demain, de grace.
 D'un peril trop certain cette nuit vous menace.
 Seigneur, il faut sur l'heure abandonner ce lieu :
 Dût m'en coûter la vie en vous disant adieu.
@@ -1877,7 +1877,7 @@ S'estre acquis tant de gloire est un crime d'Etat.
 Partez, vous dis-je.
 
 -*who_germanicus
-Hé quoy, voulez-vous que je croye
+      Hé quoy, voulez-vous que je croye
 Que l'espoir de me perdre est ce qui fait sa joye ?
 Et que de mon retour il feint⁎ d'estre charmé,
 Pour m'ôter tout sujet⁎ de paroistre allarmé ?
@@ -1942,7 +1942,7 @@ Que perdez-vous en moy pour balancer ainsi ?
 Seigneur.
 
 -*who_germanicus
-Ce que je perds ! l'ignorez-vous, Madame ?
+      Ce que je perds ! l'ignorez-vous, Madame ?
 Si le fils de Cesar vous arrache à ma flâme⁎ ;
 S'il faut qu'à cet affront le Ciel m'ait reservé ;
 Je perds ce que le Monde a de plus achevé⁎.
@@ -1990,7 +1990,7 @@ Me faire assassiner ! Luy, Madame ? On vous trompe.
 Cesar...
 
 -*who_agripine
-Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :
+      Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :
 Où la mort vous attend precipitez vos pas :
 Croyez qui vous veut perdre, & ne me croyez pas.
 Je me flattois⁎ pourtant de cette triste gloire,
@@ -2037,7 +2037,7 @@ Je ne partiray point si vous en soupirez ;
 Promettez-moy...
 
 -*who_agripine
-Seigneur, vous me desesperez.
+      Seigneur, vous me desesperez.
 Dans l'état déplorable où mon ame est réduite,
 Je crains vostre presence, & je crains vostre fuite.
 Cher Prince, que je perds, & que j'aime toûjours,
@@ -2051,7 +2051,7 @@ Venez, qu'en vous quittant, Prince, je vous embrasse ;
 Et que dans ce moment tous mes sens interdits⁎...
 Partez, je ne sçay plus, Seigneur, ce que je dis.
 
-**** *book_ *id_body-6-1 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-601 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Vient-elle ? l'as-tu vûë ? & puis-je me promettre
@@ -2086,7 +2086,7 @@ M'a-t-il dit ; j'en ay fait confiance à Flavie ;
 Et si Germanicus voyoit encor le jour,
 Elle seroit... Flavie est enfin de retour.
 
-**** *book_ *id_body-6-2 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-602 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Helas ! Flavie, helas ! que tu m'as mise en peine !
@@ -2097,7 +2097,7 @@ Desespere mon coeur, ou le rends plus tranquille.
 Parle.
 
 -*who_flavie
-J'ay fait à Rome un voyage inutile,
+      J'ay fait à Rome un voyage inutile,
 Madame, & tous mes soins⁎ ont esté superflus.
 On ne m'a rien appris du grand Germanicus.
 Pour remplir mon devoir, & pour vous satisfaire,
@@ -2116,7 +2116,7 @@ Que vous diray-je ? on tremble, & loin qu'on se hazarde
 A vouloir...
 
 -*who_agripine
-Parle-moy de ce qui me regarde.
+      Parle-moy de ce qui me regarde.
 Parle-moy du Heros pour qui j'eus tant d'amour,
 Flavie ; & laisse-là l'Empereur & la Cour.
 Du secours⁎ de Pison que dois-je me promettre ?
@@ -2137,7 +2137,7 @@ En quelque lieu qu'il soit aucun n'en peut rien dire.
 On ignore...
 
 -*who_agripine
-Il suffit, souffre⁎ que je respire.
+      Il suffit, souffre⁎ que je respire.
 Ce que je desirois, Flavie, est arrivé :
 Mes souhaits sont remplis : mon Amant est sauvé.
 Ciel, qui m'as écoûtée, & qui loin de l'orage
@@ -2172,7 +2172,7 @@ S'il vous eût obéïe, il eût trahi sa flâme⁎.
 Ne me déguise rien. L'as-tu vû ?
 
 -*who_flavie
-Non, Madame.
+      Non, Madame.
 Mais Albin est à Rome, & je l'ay rencontré.
 Aussi-tost qu'à mes yeux le hazard l'a montré,
 De l'ordre que j'avois je me suis souvenuë.
@@ -2191,7 +2191,7 @@ Finis l'incertitude où flottent mes esprits.
 Germanicus est mort ?
 
 -*who_flavie
-Je n'en ay rien appris,
+      Je n'en ay rien appris,
 Madame. Mais enfin s'il faut parler sans feindre⁎,
 Pour un Prince si cher vous avez lieu de craindre.
 On a fait en tumulte assembler le Senat :
@@ -2201,7 +2201,7 @@ On parle sourdement de quelque assassinat.
 Ah, Dieux !
 
 -*who_flavie
-On ne dit point, tant on craint sa colere,
+      On ne dit point, tant on craint sa colere,
 A quelle illustre vie en a voulu Tibere ;
 Car à chaque forfait⁎ dont il s'ose flétrir⁎,
 Ce que Rome a de grand est ce qu'il fait perir.
@@ -2249,18 +2249,18 @@ Flavie, as-tu compris la grandeur de ma peine ?
 Albin de vostre sort va vous rendre certaine,
 Il vient.
 
-**** *book_ *id_body-6-3 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-603 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
-Hé bien, Albin, ce que j'aimois est mort ?
+      Hé bien, Albin, ce que j'aimois est mort ?
 Germanicus...
 
 -*who_albin
-Pison a terminé son sort,
+      Pison a terminé son sort,
 Madame.
 
 -*who_agripine
-Le perfide ! Et tu ne peux me dire
+      Le perfide ! Et tu ne peux me dire
 En quel endroit fatal l'assassin se retire ?
 J'irois, malgré Cesar qui se fait son appuy⁎,
 Exprimer dans son sang l'horreur que j'ay pour luy.
@@ -2283,10 +2283,10 @@ Germanicus respire, & Pison ne vit plus.
 Et Pison ne vit plus !
 
 -*who_albin
-Non, Madame.
+      Non, Madame.
 
 -*who_agripine
-Qu'entens-je ?
+      Qu'entens-je ?
 
 -*who_albin
 Germanicus le pleure, & peut-estre le vange.
@@ -2395,7 +2395,7 @@ Pardonne à mon orgueil ce qu'il t'a fait d'injure ;
 Et pour prix⁎ de tes soins⁎ dignes d'un autre sort
 Daigne accepter les pleurs que je donne à ta mort.
 
-**** *book_ *id_body-6-4 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-604 *act_ *date_1694 *creator_boursault
 
 -*who_agripine
 Ou venez-vous, Seigneur, & quelle est vostre envie ?
@@ -2404,7 +2404,7 @@ Des desseins⁎ de Cesar sa mort vous éclaircit⁎.
 Fuyez, Seigneur.
 
 -*who_germanicus
-Albin m'en a fait le recit,
+      Albin m'en a fait le recit,
 Madame, & le Senat par un ordre équitable,
 Pour vanger ce trépas⁎ fait chercher le coupable.
 Cesar qui de ce crime a lieu d'estre surpris...
@@ -2451,13 +2451,13 @@ Vous seule à mon bonheur pouvez estre contraire⁎ ;
 Vous seule...
 
 -*who_agripine
-Non, Seigneur, j'ay le coeur trop sincere :
+      Non, Seigneur, j'ay le coeur trop sincere :
 Je vous aime : ce mot vous répond de ma foy⁎ ;
 Et je me dois à vous si l'on me rend à moy.
 Mais l'Empereur...
 
 -*who_germanicus
-Madame, il est au Capitole ;
+      Madame, il est au Capitole ;
 C'est dans ce lieu si saint qu'il veut tenir parole :
 Le Senat l'accompagne ; & voicy le grand jour
 Qu'avec impatience attendoit nostre amour.

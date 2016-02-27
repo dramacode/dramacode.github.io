@@ -1,5 +1,5 @@
 ---
-identifier: gilbert_amours  
+identifier: gilbert_amours-ovide  
 creator: Gilbert, Gabriel  
 date: 1663  
 title: Les Amours d'Ovide. Pastorale héroïque  
@@ -755,7 +755,7 @@ Dédicace IP. /Prologue à l'envie / v.43 Rival ! ?/ v.83 oubli de la virgule 
 # LES AMOURS D'OVIDE. PASTORALE HEROIQUE.
 
 
-## A MONSEIGNEUR                         COLBERT CONSEILLER DU ROY En tous ses Conseils, & Intendant De ses Finances.< MONSEIGNEUR, >
+## A MONSEIGNEUR COLBERT CONSEILLER DU ROY En tous ses Conseils, & Intendant De ses Finances.< MONSEIGNEUR, >
 
 Il y a long-temps que j'aurois pris la liberté de vous dedier quelques-uns de mes ouvrages, sans les grandes affaires qui vous occupent continuellement ; cela me faisait apprehender de vous dérober quelques-uns de ces momens precieux que vous employez à executer les ordres du Roy. Mais comme feu S.E [45] a bien voulu quelquefois se delasser l'esprit dans la lecture de mes écrits ; j'ai crû que vous n'auriez pas desagreable que j'eusse l'honneur de vous presenter celuy-cy, & que j'entreprisse quelque jour de faire vostre Eloge. Vous ne pouviez jamais avoir une marque plus infaillible de vostre merite⁎, que l'estime⁎ que ce grand Ministre a faite de vous, & le choix que S.M [46] en a fait en suite pour l'administration de ses finances, la chose la plus delicate & la plus importante d'un Estat. Les Romains qui estoient de sages Politiques, éprouvoient par ces charges la fidelité & la suffisance⁎ de leurs Citoyens ; Il vous est fort glorieux, MONSEIGNEUR, que ce soit dans le temps que vous avez le maniement des finances que la France ait commencé à faire des largesses, & que le Roy ait répandu ses libéralitez sur la fleur⁎ des gens de Lettres de ce Royaume, & les actions illustres⁎ des plus grands Monarques ne suffisent pas pour les rendre immortels, si quelqu'un ne prend soin d'en conserver la memoire. Mais ces excellents Genies sur qui S.M a fait éclater⁎ ses bienfaits, n'en seront pas ingrats, & feront retentir son Nom de siecle en siecle, & d'un bout du monde jusques à l'autre. Le regne de Louys XIV se rendra plus fameux à la posterité que celuy du II. des Cesars [47] : sous la domination d'un Prince plus parfait qu'Auguste, les Armes & les Sciences fleuriront dans cét Empire avec plus d'éclat⁎ qu'elles n'ont fait autrefois dans Rome. Ovide, cét illustre⁎ malheureux, après en avoir esté injustement exilé, vient chercher un azile dans cette Cour ; il espere estre mieux receu en France que dans sa propre patrie & se promet⁎ que vous aurez la bonté d'estre son Protecteur : son crime n'est que d'avoir esté trop galant⁎, & d'avoir enseigné un Art, sans qui la moitié du monde seroit ennemie de l'autre. Ce Chevalier Romain ayant faire *l'Art de plaire*, qui a esté admiré de toute la terre ; j'ai crû que je pourrois faire une Comedie de luy, qui ne déplairoit pas. Depuis plusieurs années j'ay mis en lumiere divers Escrits en vers & en prose, sans en avoir tiré autre avantage que de les avoir presentez à ce que la France avoit de plus Auguste & de plus Eminent. Bien que nous soyons dans un temps où les Muses sont mieux traitées par les Graces ; de quelques maniere que l'on considere mes ouvrages, je m'estimeray assez heureux, si vous ne me refusez pas l'honneur de vostre protection⁎, & si vous me permettez de prendre la qualité,< MONSEIGNEUR, >
 
@@ -842,7 +842,7 @@ Venez voir Triompher sur les flots applanis
 Venus & les Amours en faveur d'Adonis.  
 
 
-## ACTE I                        
+## ACTE I
 
 
 ### SCENE PREMIERE.
@@ -861,8 +861,8 @@ Elle mesme est le prix du plus parfait amant⁎ ?
 La ville des Cesars est-elle plus galante⁎  [63] ?  
 Qu'en croit Ovide enfin ?  
 
-    OVIDE.    
-            Cette Isle est plus charmante⁎ ;  
+    OVIDE.
+        Cette Isle est plus charmante⁎ ;  
 Ses heureux habitans pour la gloire⁎ sont nez,  
 Et de tous les mortels sont les plus fortunez⁎.  
 Rome ne voit les Dieux qu'en statuë, en peinture,  
@@ -884,7 +884,7 @@ Nos Nymphes à vos yeux sont-elles agreables ?
     OVIDE.
 Vos Nymphes à mes yeux sont toutes admirables⁎,  
 La blancheur de la neige éclate sur leur tein  
-Et leur levre est d'un feu qui jamais ne s'esteint ;                       
+Et leur levre est d'un feu qui jamais ne s'esteint ;  
 De leur esprit charmant⁎ l'entretien⁎ est si rare,  
 Que c'est un labyrinthe où la raison⁎ s'égare ;  
 On ne peut sans peril voir souvant tant d'appas⁎.  
@@ -893,7 +893,7 @@ On ne peut sans peril voir souvant tant d'appas⁎.
 Ovide s'en plaint-il ?  
 
     OVIDE.
-            Non, je ne m'en plains pas.  
+        Non, je ne m'en plains pas.  
 
     HYACINTHE.
 Vous sçavez adoucir la beauté la plus fiere⁎,  
@@ -911,8 +911,8 @@ La plus belle, Hiacinthe a ravy ma franchise⁎.
     HIACINTHE.
 Mais quelle est-elle enfin ?  
 
-    OVIDE.    
-                C'est l'aymable⁎ Cephise.  
+    OVIDE.
+        C'est l'aymable⁎ Cephise.  
 
     HIACINTHE.
 Vous aymeriez Cephise ! ah ! je ne le croy pas.  
@@ -934,7 +934,7 @@ L'Amour & l'amitié ne s'accordent⁎ pas mal ;
 Car comme l'amitié naist de la ressemblance,  
 Celle à qui vous pensez, est celle à qui je pense [67].  
 
-    HIACINTHE.    
+    HIACINTHE.
 Afin de destourner ce fatal⁎ accident⁎,  
 D'abord⁎ de mon Amour je vous fis confident⁎,  
 Et vous dis que mon cœur souspiroit pour Cephise.  
@@ -947,7 +947,7 @@ Et vous dis que Corinne avoit sceu m'enflammer⁎.
 Mais je ne l'ayme pas.  
 
     OVIDE.
-            Vous la pouvez aymer,  
+        Vous la pouvez aymer,  
 Sans que pour ce sujet Ovide vous querelle⁎.  
 
     HIACINTHE.
@@ -957,7 +957,7 @@ Mais mon Amour est grand, il est né dés longtemps [68].
     OVIDE.
 J'ayme autant en un jour, qu'un autre ayme en dix ans.  
 
-    HYACINTHE.    
+    HYACINTHE.
 Pour demeurer amis que devons-nous donc faire ?  
 
     OVIDE.
@@ -971,7 +971,7 @@ Prenons donc ce party⁎ que je croy raisonnable⁎.
 J'y consens volontiers.  
 
     OVIDE.
-            Et moy pareillement.  
+        Et moy pareillement.  
 Depuis cinq ans entiers qu'Hyacinthe est amant⁎ [70],  
 Parlons en vrais amis sans user de finesse⁎,  
 A-t'il quelques faveurs⁎ de la belle Maistresse⁎ ?  
@@ -980,10 +980,10 @@ A-t'il quelques faveurs⁎ de la belle Maistresse⁎ ?
 Nulle.  
 
     OVIDE.
-Je ne la sers⁎ pour moy que depuis peu,  
+        Je ne la sers⁎ pour moy que depuis peu,  
 Et devant ses beaux yeux j'ay fait briller⁎ mon feu⁎ :  
 Mais malgré sa pudeur⁎ & sa vertu⁎ severe⁎,  
-A mon ardente⁎ Amour elle n'est point contraire [71],                  
+A mon ardente⁎ Amour elle n'est point contraire [71],  
 Et pour me tesmoigner qu'elle m'ayme en effet,  
 C'est qu'elle a bien voulu recevoir mon portrait.  
 
@@ -1004,7 +1004,7 @@ L'habit que nous portons donne quelque licence⁎ [73].
 Des mœurs du premier siecle il fait voir l'innocence [74] ;  
 Encor qu'il soit modeste⁎, il est fort glorieux⁎ [75],  
 L'Amour change en Bergers les Heros & les Dieux [76].  
-Mais j'apperçoy Cephise & Corinne avec elle.                           
+Mais j'apperçoy Cephise & Corinne avec elle.  
 
     OVIDE.
 Il faut dissimuler nostre illustre⁎ querelle⁎ ;  
@@ -1028,7 +1028,7 @@ L'un pleure de despit⁎, & l'autre meurt d'amour [78].
 
     HYACINTHE.
 Ovide, à qui vos yeux ont causé tant de peine,  
-Prise⁎ la beauté Grecque & la beauté Romaine,                       
+Prise⁎ la beauté Grecque & la beauté Romaine,  
 Et croit que toutes deux on vous doit couronner ;  
 Les Graces toutesfois n'ont qu'un prix à donner.  
 
@@ -1054,7 +1054,7 @@ Est pour la plus aymable⁎ & la plus accomplie⁎.
 Mais il en faudrait deux pour ces rares beautés [81],  
 Qui brillent à l'envy d'aymables⁎ qualitez ;  
 Pour rendre la justice, & plaire à tout le monde,  
-Il faudrait couronner & la brune, & la blonde.                       
+Il faudrait couronner & la brune, & la blonde.  
 
     CEPHISE.
 S'il n'est qu'une beauté, qu'une Venus aux Cieux,  
@@ -1080,7 +1080,7 @@ J'aurais voulu ceder cét honneur à Corinne,
 Voyant en ma Rivale esclatter tant d'appas⁎ ;  
 Quoy qu'il puisse arriver, je n'en rougiray pas,  
 Soit que je sois vaincuë, ou que je la surmonte⁎,  
-J'auray beaucoup de gloire⁎, ou j'auray peu de honte⁎.                  
+J'auray beaucoup de gloire⁎, ou j'auray peu de honte⁎.  
 
     CORINNE.
 A vos rares beautez on doit tout accorder⁎  [87];  
@@ -1106,7 +1106,7 @@ Sont pour vostre amitié des escueils dangereux,
 
     CEPHISE.
 Nostre amitié n'est pas comme l'amour d'Ovide  
-Sujet au changement, elle est pure & solide.                           
+Sujet au changement, elle est pure & solide.  
 
     CORINNE.
 Ouy, nous servons d'exemple aux plus parfaits amans,  
@@ -1132,7 +1132,7 @@ Le desir d'emporter en tous lieux la victoire,
 Et sa grande fierté⁎ qui ne veut rien ceder [93],  
 Avec l'amitié ne peut s'accorder⁎.  
 Pour m'expliquer encor avec plus de franchise⁎,  
-Corinne asseurément ne plaist point à Cephise,                          
+Corinne asseurément ne plaist point à Cephise,  
 Ny Cephise à Corinne, & son cœur en secret  
 Hait ce qu'elle a d'aymable⁎, & le voit à regret.  
 Plus leur merite⁎ est grand, plus leur charme est visible,  
@@ -1141,10 +1141,10 @@ Mais je sçay un secret admirable⁎ pour vous,
 D'aymer parfaitement [94].  
 
     CEPHISE.
-            Quel est-il ?  
+    Quel est-il ?  
 
     OVIDE.
-                    Aymez nous,  
+        Aymez nous,  
 Aymez, aymez Ovide, & l'aymable⁎ Hyacinthe [95],  
 Car pour vostre amitié ce n'est rien qu'une feinte⁎,  
 L'on la verra finir avant la fin du jour,  
@@ -1158,13 +1158,13 @@ Ne dissimulez plus, l'une & l'autre aymez nous.
 Il y faudra penser.  
 
     OVIDE.
-            Et vous belle Corinne  
+        Et vous belle Corinne  
 
-    CORINNE.    
+    CORINNE.
 J'y veux penser aussi.  
 
     OVIDE.
-            Ne faites point la fine⁎,  
+        Ne faites point la fine⁎,  
 Mais pensez tout de bon, sans croire⁎ les flatteurs⁎,  
 Que la beauté n'est rien sans les adorateurs ;  
 Les Dames ont raison d'apprehender leur perte,  
@@ -1174,13 +1174,13 @@ Sont aussi mal-heureux que des peuples sans jour.
 Où voulez-vous aller ?  
 
     CORINNE.
-            Au bord de la fontaine.  
+        Au bord de la fontaine.  
 
     OVIDE.
 Je vais vous y conduire, agreable inhumaine.  
 
 
-### SCENE III.                
+### SCENE III.
 CEPHISE, HYACINTHE.
 
 
@@ -1197,13 +1197,13 @@ Bien qu'il ayme à changer, Corinne a des appas⁎
 Qui peuvent l'arrester.  
 
     HYACINTHE.
-            Elle n'en manque pas.  
+        Elle n'en manque pas.  
 
     CEPHISE.
 Pour elle il a laissé la Princesse Julie,  
 Et pour la suivre en Cypre il quitte l'Italie.  
 
-    HYACINTHE.    
+    HYACINTHE.
 Il ne vient en ces lieux que pour voir les beautez,  
 Que cette feste attire icy de tous costez.  
 
@@ -1216,7 +1216,7 @@ Lors que⁎ de quelque appas⁎ une Nymphe est pourveuë,
 Dés qu'il la voit, il l'aime.  
 
     HYACINTHE.
-            Ovide vous a veuë.  
+        Ovide vous a veuë.  
 
     CEPHISE.
 Il me vient visiter, sans qu'il me soit suspect,  
@@ -1226,7 +1226,7 @@ Je sçais à qui m'approche inspirer le respect.
 Si vos grandes vertus font que l'on vous admire,  
 Vostre merite⁎ aussi fait que chacun souspire.  
 Vos appas⁎ sont si doux, vos regards si charmans,  
-Qu'ils donnent de l'esclat⁎ aux moindres ornemens [97],                      
+Qu'ils donnent de l'esclat⁎ aux moindres ornemens [97],  
 De ce miroir sur vous la glace paraist belle.  
 
     CEPHISE.
@@ -1237,7 +1237,7 @@ Et le Preteur m'en fit present hier au soir [98].
 Le peut-on voir de pres ?  
 
     CEPHISE.
-            Oüy, vous le pouvez-voir.  
+        Oüy, vous le pouvez-voir.  
 
     HYACINTHE.
 Un present si galand ne vous doit⁎ pas desplaire.  
@@ -1250,32 +1250,32 @@ Il eut peû s'offenser, & je n'ay pas osé.
     HYACINTHE, *voyant le portraict d'Ovide.*
 Dieux, qu'est-ce que je voy ! ma surprise est extréme !  
 
-    CEPHISE.    
+    CEPHISE.
 Que regardez-vous tant ?  
 
     HYACINTHE.
-            Regardez-le vous mesme ?  
+        Regardez-le vous mesme ?  
 
     CEPHISE.
 C'est le portrait d'Ovide.  
 
     HYACINTHE.
-            Ah ! n'en rougissez pas ;  
+        Ah ! n'en rougissez pas ;  
 Et si l'original a pour vous des appas⁎ [99],  
 Contentez vos desirs, gardez-en la peinture :  
 Il faut bien me resoudre à souffrir⁎ cette injure⁎ ;  
 Puisque vous le voulez.  
 
     CEPHISE.
-            N'en soiez point jaloux.  
+        N'en soiez point jaloux.  
 Je suis plus estonnée & surprise que vous ;  
 J'ignorois qu'un portrait…  
 
     HYACINTHE.
-            N'en soiez point confuse⁎,  
+        N'en soiez point confuse⁎,  
 Et vers un mal-heureux ne cherchez point d'excuse.  
 Faut-il qu'un Estranger arrivé sur ces bords,  
-Qui n'a point ressenty mes amoureux transports⁎.                   
+Qui n'a point ressenty mes amoureux transports⁎.  
 Rende par son bonheur mes esperances vaines,  
 Me ravisse en un jour le fruit de tant de peines,  
 Et m'oste pour jamais l'objet⁎ de mes desirs,  
@@ -1299,7 +1299,7 @@ Mais ce seroit en vain ; que luy puis je respondre ?
 Sa presence ne peut servir qu'à me confondre.  
 Vas t'en plutost chercher Ovide promptement,  
 Qu'il me vienne trouver sans tarder un moment  
-Il se promene au parc ; vas, cours en diligence⁎.                      
+Il se promene au parc ; vas, cours en diligence⁎.  
 
 
 ### SCENE V.
@@ -1325,7 +1325,7 @@ Ovide est un trompeur, un perfide, un volage.
 D'une fausse faveur⁎ s'il s'est desja vanté,  
 Que ne diroit-il point, s'il estoit mieux traité ?  
 Je veux pour m'en vanger, & montrer mon addresse,  
-A qui m'oste un Amant⁎, oster une Maistresse⁎.                      
+A qui m'oste un Amant⁎, oster une Maistresse⁎.  
 Mais je le voy paroistre, il faut l'entretenir⁎,  
 Et cacher le dessein que j'ay de le punir.  
 
@@ -1349,7 +1349,7 @@ Ce pourtrait vient de moy, n'en soyez pas surprise ;
 M'estant donné moy-mesme à la belle Cephise,  
 Je pouvois bien encor luy donner mon pourtrait.  
 
-    CEPHISE.    
+    CEPHISE.
 Pouviez-vous m'offenser par un plus lasche trait ?  
 Par cette invention, par ce beau stratageme,  
 Vous voulez faire croire⁎ à chacun qu'on vous ayme.  
@@ -1373,7 +1373,7 @@ Pour nuire à mon rival, si mon pourtrait le chasse
 Cephise n'y pert rien, car je remplis la place ;  
 Sans faire trop le vain⁎ je pourrois me vanter,  
 D'en estre moins indigne & la mieux meriter :  
-Vous n'emportez sur luy qu'une obscure victoire [105] ;                  
+Vous n'emportez sur luy qu'une obscure victoire [105] ;  
 Je puis plus noblement servir à vostre gloire⁎.  
 Et mon ardent⁎ amour connu de toutes pars,  
 Qui m'a rendu fameux à la Cour⁎ des Cesars,  
@@ -1403,7 +1403,7 @@ Ces Nymphes apres vous sont dans Cypre vantées.
 Vostre esprit inconstant les a desja quittées.  
 
     OVIDE.
-Que dois-je faire donc ? commandez librement.                          
+Que dois-je faire donc ? commandez librement.  
 
     CEPHISE.
 Il faut abandonner Corinne seulement.  
@@ -1418,7 +1418,7 @@ Parce qu'en vostre cœur je croy qu'elle domine.
 C'est vostre illustre⁎ amie.  
 
     CEPHISE.
-            Et vostre amante aussi.  
+        Et vostre amante aussi.  
 
     OVIDE.
 Apres avoir fait voir mes respects jusqu'icy,  
@@ -1428,7 +1428,7 @@ Je ne puis me resoudre à luy faire un outrage.
 Et moy je ne veux point d'un cœur qui se partage  
 
     OVIDE.
-De cet ordre cruel je suis un peu surpris.                           
+De cet ordre cruel je suis un peu surpris.  
 
     CEPHISE.
 On ne peut toutesfois m'aspaiser qu'à ce prix.  
@@ -1453,13 +1453,13 @@ C'est trop se deffier⁎ d'un Amant⁎ qui vous ayme.
 Je le veux.  
 
     OVIDE.
-    Je rendray vos desirs satisfaits.                               
+        Je rendray vos desirs satisfaits.  
 
     CEPHISE.
 Vous me l'envoyrez donc.  
 
     OVIDE.
-            Ouy, je vous le promets.  
+        Ouy, je vous le promets.  
 
     CEPHISE.
 Mais puis-je m'assurer sur de telles promesses,  
@@ -1470,7 +1470,7 @@ Et mon esprit touché d'un charme si puissant.
 Si c'estoit trop peu d'une en immoleroit cent.  
 
 
-## ACTE II.                     
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -1491,7 +1491,7 @@ As-tu desabusé le constant Hyacinthe ?
 Du trait qu'on m'a joüé, sçait-il la verité ?  
 
     AMINTE.
-Daphnis m'est venu voir, à qui j'ay tout conté,                           
+Daphnis m'est venu voir, à qui j'ay tout conté,  
 C'est le meilleur amy qu'il ait dans toute l'Isle.  
 
     CEPHISE.
@@ -1518,7 +1518,7 @@ S'il estoit moins changeant, il seroit plus aymable⁎.
 Duquel des deux Rivaux recevez-vous les vœux ?  
 
     CEPHISE.
-Je ne t'en diray rien, devine si tu peux ;                               
+Je ne t'en diray rien, devine si tu peux ;  
 Je ne ressemble point à ces faibles Amantes,  
 Qui dans leurs passions⁎ veulent des confidantes⁎ ;  
 Et si jamais d'aymer je prenois quelque soin,  
@@ -1535,7 +1535,7 @@ Et vient confidemment me dire une nouvelle,
 Dont je suis l'origine, & que je sçais mieux qu'elle.  
 
 
-### SCENE II.                                 
+### SCENE II.
 CEPHISE, CORINNE, AMINTE.
 
 
@@ -1556,15 +1556,15 @@ Je viens de recevoir un billet de sa part.
     CEPHISE.
 Où sans doute⁎ il vous peint son ardeur amoureuse.  
 
-    CORINNE.    
+    CORINNE.
 Je veux vous le montrer.  
 
     CEPHISE.
-            Je suis peu curieuse [110]  
+        Je suis peu curieuse [110]  
 De sçavoir vos secrets.  
 
     CORINNE.
-            Je n'en ay point pour vous,  
+        Je n'en ay point pour vous,  
 Vous aurez du plaisir à voir ce billet doux.  
 
     CEPHISE.
@@ -1577,7 +1577,7 @@ Corinne, si vostre merite⁎
 Est dans Rome admiré de tous,  
 La Nymphe pour qui je vous quitte,  
 Brille dans ces lieux plus que vous ;  
-*Sans m'accuser d'estre infidelle*,                                  
+*Sans m'accuser d'estre infidelle*,  
 Pour aymer ce que Cypre a de plus glorieux⁎,  
 Accusez seulement la nature & les Dieux,  
 Qui vous firent naistre moins belle.  
@@ -1603,7 +1603,7 @@ De ce second billet vous serez plus surprise,
 Que luy mesme m'avoit escrit auparavant.  
 
     CEPHISE.
-S'il est du mesme stile, il escrit trop souvant.                       
+S'il est du mesme stile, il escrit trop souvant.  
 
     CORINNE.
 Vous verrez.  
@@ -1622,12 +1622,12 @@ Ovide.
 
     CEPHISE, *ayant leu le second billet.*
         Il nous joüe⁎, & la galanterie⁎,  
-A ne rien desguiser, passe⁎ la raillerie ;                           
+A ne rien desguiser, passe⁎ la raillerie ;  
 Il faut pour le punir, nous vanger toutes deux,  
 Si Corinne y consent.  
 
     CORINNE.
-            De bon cœur je le veux ;  
+        De bon cœur je le veux ;  
 Mais pour bien reüssir comment faudra-t'il faire ?  
 
     CEPHISE.
@@ -1641,12 +1641,12 @@ Pour l'une de nous deux il faut qu'il se declare.
 S'il s'explique⁎ pour vous ?  
 
     CEPHISE.
-            S'il s'explique⁎ pour moy,  
+        S'il s'explique⁎ pour moy,  
 Vous pourrez l'accuser de vous manquer de foy⁎,  
 S'il s'explique⁎ pour vous, je pourray tout de mesme⁎  
 Le blasmer justement d'une inconstance extreme ;  
 Ainsi lors qu'⁎il pretend⁎ nous joüer aujourd'huy,  
-Toutes deux de concert nous nous joüerons de luy.                   
+Toutes deux de concert nous nous joüerons de luy.  
 
     CORINNE.
 Il vient tout à propos, l'occasion est belle.  
@@ -1672,7 +1672,7 @@ Ovide, revenez, où vouliez-vous aller ?
 Et quoy ? nous fuyez-vous.  
 
     OVIDE.
-                Vous sçavez le contraire [112],                  
+        Vous sçavez le contraire [112],  
 Et que mon plus grand soin est celuy de vous plaire ;  
 J'ay creû que vous vouliez vous parler en secret,  
 Et je me retirois.  
@@ -1690,13 +1690,13 @@ Non, il faut demeurer, vous n'en estes pas quitte [113].
 Ah ! tout est découvert.  
 
     CORINNE.
-            Il change de couleur.  
+        Il change de couleur.  
 
     CEPHISE.
 Il a quelque soupçon, & prevoit son mal-heur.  
 
     CORINNE.
-Nous voulons vous parler de chose d'importance.                       
+Nous voulons vous parler de chose d'importance.  
 
     OVIDE.
 Ne retenez donc point mon esprit en balance.  
@@ -1708,18 +1708,18 @@ Ces billets obligeans, dites, sont-ils de vous ?
 Que leur diray-je, ô Dieux !  
 
     CEPHISE.
-            Parlez, respondez nous ?  
+        Parlez, respondez nous ?  
 
     OVIDE.
 C'est par galanterie⁎…  
 
     CEPHISE.
-                Elle est un peu trop forte ;  
+        Elle est un peu trop forte ;  
 Vostre inconstante humeur⁎ en use⁎ de la sorte,  
 Mais vos billets nous font un trop sensible⁎ affront⁎.  
 
     OVIDE.
-Que l'une ait le premier, & l'autre le second ;                          
+Que l'une ait le premier, & l'autre le second ;  
 Vous les lirez tous deux sans en avoir de honte⁎,  
 L'une & l'autre loüée y trouvera son conte [114],  
 Car chacune y verra preferer sa beauté.  
@@ -1744,7 +1744,7 @@ Elle ne risque rien, fort seure d'estre aymée.
 
     CEPHISE.
 Vous contez donc pour rien, l'honneur, la renommée ?  
-Pour un esprit galand c'est mal faire la Cour⁎,                      
+Pour un esprit galand c'est mal faire la Cour⁎,  
 Que de nous obliger à vous parler d'amour ;      
 Mon sexe en doit donner⁎, & le vostre en doit prendre [115],  
 Rendez-nous le respect que vous nous devez rendre,  
@@ -1770,7 +1770,7 @@ Et quoy ? Corinne aussi parle donc contre moy ?
 
     CORINNE.
 Ovide à toutes deux ayant manqué de foy⁎,  
-Nous voulons aujourd'huy malgré son inconstance,                       
+Nous voulons aujourd'huy malgré son inconstance,  
 Sçavoir a qui son cœur donne la preferance.  
 
     OVIDE.
@@ -1798,7 +1798,7 @@ Je sçay m'accommoder à divers sentimens,
 Et deux Amours parfaits valent bien deux Amans [118].  
 
     CEPHISE.
-Puis que nous condamnons vostre humeur⁎ inconstante,                   
+Puis que nous condamnons vostre humeur⁎ inconstante,  
 Il ne faut qu'un Amour, & qu'une seule Amante.  
 
     CORINNE.
@@ -1809,7 +1809,7 @@ Qui sera celle ô Dieux ! que je n'aymeray pas ?
 Helas !  
 
     CEPHISE.
-Par cet helas ! il va monstrer sa flamme.  
+        Par cet helas ! il va monstrer sa flamme.  
 
     CORINNE.
 Il s'en va descouvrir les secrets de son ame.  
@@ -1818,13 +1818,13 @@ Il s'en va descouvrir les secrets de son ame.
 Il me fait les yeux doux.  
 
     CORINNE.
-            Il me serre la main.  
+        Il me serre la main.  
 
     CEPHISE.
 Il faut vous expliquer, vous l'evitez en vain [119].  
 
     OVIDE.
-Je ne puis dire rien, ayant trop à vous dire [120],                          
+Je ne puis dire rien, ayant trop à vous dire [120],  
 Et je m'explique assez, alors que je souspire.  
 
     CORINNE.
@@ -1832,7 +1832,7 @@ A laquelle de nous addressez-vous vos vœux ?
 Pour qui sont ces souspirs, dites [121] ?  
 
     OVIDE.
-                    Pour toutes deux.  
+        Pour toutes deux.  
 
     CEPHISE.
 Sans nous entretenir⁎ d'une flame importune,  
@@ -1845,9 +1845,9 @@ Ainsi l'une de vous m'oblige à la trahir.
 Et bien, nous le voulons.  
 
     OVIDE.
-                    Il faut vous obeïr,  
+        Il faut vous obeïr,  
 Puis qu'à me conserver vous prenez quelque peine,  
-Si vos rares beautez n'ont point pour moy de haine,                   
+Si vos rares beautez n'ont point pour moy de haine,  
 Pour vous mieux meriter, & pour se rendre heureux,  
 Ovide doit agir en Amant⁎ genereux⁎ ;  
 Mais si ma passion⁎ suivoit icy la vostre [122],  
@@ -1875,7 +1875,7 @@ Celle que j'aymeray le plus parfaitement.
 Que son addresse est grande !  
 
     CORINNE.
-                Elle n'a point d'esgalle.                   
+        Elle n'a point d'esgalle.  
 Il sort adroitement d'un amoureux dédalle.  
 
     CEPHISE.
@@ -1922,7 +1922,7 @@ Voudrais-tu, comme luy, m'accuser d'inconstance [126] ?
     CELIE.
 De l'air⁎ dont bien souvant on vous en voit user⁎,  
 On a grande raison⁎ de vous en accuser ;  
-Un amant⁎ vous suffit dans Rome, ou dans cette Isle ?                       
+Un amant⁎ vous suffit dans Rome, ou dans cette Isle ?  
 
     CORINNE.
 L'Amour n'en voudroit, qu'un, mais la gloire⁎ en veut mille ;  
@@ -1930,7 +1930,7 @@ Une ame ambitieuse en a tousjour trop peu,
 Pour orner son Triomphe [127].  
 
     CELIE.
-                Ah Dieux ! l'estrange aveu !  
+        Ah Dieux ! l'estrange aveu !  
 Quand vous parlez ainsi, j'ay bien peine à vous croire⁎.  
 
     CORINNE.
@@ -1947,7 +1947,7 @@ Mais cette foulle aussi perd nostre renommée.
 
     CORINNE.
 La honte⁎ vient d'aymer, & l'honneur d'estre aymée,  
-L'on conte nos attraits en contant nos Amans [128],                  
+L'on conte nos attraits en contant nos Amans [128],  
 Leur perte ou leur mesprit fait nos secrets tourmens⁎ ;  
 C'est la raison⁎ qui fait que je souffre avec peine    585  
 Qu'Ovide qui m'aimoit ose rompre la chaisne [129].  
@@ -1971,7 +1971,7 @@ Et ne hazarde⁎ rien. Mais il vient à propos ;
 Voy si j'entens bien l'art d'enchaisner le Heros.  
 
 
-### SCENE V.                     
+### SCENE V.
 CORINNE, HYACINTHE, CELIE.
 
 
@@ -1993,7 +1993,7 @@ Mon amour est si grand qu'il vaincroit mon mal-heur ;
 Mais le cruel destin m'oste toute esperance.  
 
     CORINNE.
-Hyacinthe est cent fois plus heureux qu'il ne pense ;                       
+Hyacinthe est cent fois plus heureux qu'il ne pense ;  
 Une jeune beauté, l'ornement de ces lieux,  
 Qui parmi ces Captifs conte des Demy-Dieux.  
 Connoissant vos vertus n'a point pour vous de hayne [131].  
@@ -2017,7 +2017,7 @@ J'en avois dit assez pour la faire connaistre,
 Lors que⁎ j'ay dit qu'elle est l'ornement de ces lieux ;  
 Mais je m'en vais encore vous la depeindre mieux.  
 C'est celle qui pretend⁎ de remporter la pomme      
-Sur toutes les beautez de la Grece & de Rome ;                           
+Sur toutes les beautez de la Grece & de Rome ;  
 Qui connoist vos vertus, mais qui jusqu'à ce jour  
 N'a point encore voulu vous montrer son amour,  
 Et s'est tousjour fait voir aussi fiere⁎ que belle.  
@@ -2043,7 +2043,7 @@ Cette fiere⁎ beauté m'a descouvert ses feux,
 Ovide est son Amant⁎, en voudroit-elle deux,  
 Que puis-je imaginer, non Corinne m'abuse [133],  
 De ce stille trompeur je reconnois la ruse,  
-Elle agit de concert avecque mon Rival,                       
+Elle agit de concert avecque mon Rival,  
 Et veut que son amour me devienne fatal⁎ :  
 Elle feint de m'aymer, & de parler pour elle,  
 Pour faire soubçonner que je suis infidelle :  
@@ -2063,7 +2063,7 @@ Je luy feray santir dans mon ressentiment,
 Que rien n'est à couvert des fureurs d'un Amant⁎.  
 
 
-## ACTE III.                     
+## ACTE III.
 
 
 ### SCENE PREMIERE.
@@ -2083,12 +2083,12 @@ Corinne, escoutez moy, sans faire la cruelle ;
 Où voulez vous aller ?  
 
     CORINNE.
-            Où la gloire⁎ m'appelle,                   
+        Où la gloire⁎ m'appelle,  
 Je vais chercher le prix que vous me refusez,  
 Ingrat.  
 
     OVIDE.
-Je ne sçay pas dequoy vous m'accusez.  
+        Je ne sçay pas dequoy vous m'accusez.  
 
     CORINNE.
 Que m'aviez vous promis au rivage du Tybre,  
@@ -2109,7 +2109,7 @@ Et n'en ay violé pas une asseurement.    
 Pour estre convaincu lisez-les seulement.  
 
     OVIDE.
-Puis que vous l'ordonnez, je vais vous satisfaire,                           
+Puis que vous l'ordonnez, je vais vous satisfaire,  
 Et vous n'aurez aprez nul reproche à me faire,  
 ARTICLES SECRETS
 *Accordez entre Ovide & Corinne, en partant de Rome pour aller en l'Isle de Cypre.*
@@ -2154,7 +2154,7 @@ Et Corinne par tout la gloire⁎.
 De violer ces lois puis-je estre convaincu ?  
 
     CORINNE.
-Non, mais vous le ferez, quand vous aurez tout leû.                      
+Non, mais vous le ferez, quand vous aurez tout leû.  
 Tournez donc le feüillet, pour voir la principale,  
 Qui parle en ma faveur & contre ma Rivale ;  
 Cet article important sert à mes interests⁎.  
@@ -2179,17 +2179,17 @@ Et bien n'avez-vous pas violé cette loy ?
 Non, & Corinne a tort de se plaindre de moy.  
 
     CORINNE.
-Ne me deviez-vous pas preferer à Cephise ?                       
+Ne me deviez-vous pas preferer à Cephise ?  
 
     OVIDE.
 N'est-il pas temps encore ?  
 
     CORINNE.
-            Parlons avec franchise⁎,  
+        Parlons avec franchise⁎,  
 Vous l'aymez fort.  
 
     OVIDE.
-            Nos loix ne me defendent pas  
+        Nos loix ne me defendent pas  
 De porter en tous lieux mes desirs & mes pas :  
 Je cherche le plaisir & vous cherchez la gloire⁎.  
 
@@ -2204,7 +2204,7 @@ Attendez que le prix soit donné par Thalie,
 Et si son jugement dans des lieux si charmans  
 Ne s'accorde⁎ pas bien avec vos sentimens,  
 Si Thalie aujourd'huy vous fait une injustice,      
-Quand Cephise avec vous paroistra dans la lice [139],                      
+Quand Cephise avec vous paroistra dans la lice [139],  
 Je jure par vos yeux dont les traits sont si doux,  
 Que mon cœur aussi-tost s'expliquera⁎ pour vous,  
 Et se declarera devant toute la Grece.  
@@ -2231,7 +2231,7 @@ Dans la place des jeux les Graces se vont rendre,
 Et vostre Char est prest.  
 
     OVIDE.
-            La place n'est pas loing ;                   
+        La place n'est pas loing ;  
 Je fais des vœux pour vous, l'Amour m'en est tesmoin [141].  
 
     CORINNE.
@@ -2254,7 +2254,7 @@ Celle qui dans son sein estouffe ses soupirs,
 Accroist par ses refus l'ardeur de ses desirs  [143];  
 Moins on parle d'amour, plus on le sent dans l'ame ;  
 La plus chaste en son cœur a des sources de flamme,  
-Que l'on void desborder apres comme torens,                           
+Que l'on void desborder apres comme torens,  
 Quand les desirs vainqueurs deviennent ses tyrans.  
 C'est ce qui rend Cephise à mes yeux plus charmante⁎.  
 D'autre costé Corinne a l'humeur⁎ plus galante⁎,  
@@ -2280,14 +2280,14 @@ Il est juste du moins qu'on me dise pourquoy.
 
     HYACINTHE.
 De ce que l'on a fait, on garde la memoire,  
-L'intrigue du portrait n'est pas à vostre gloire⁎,                          
+L'intrigue du portrait n'est pas à vostre gloire⁎,  
 Daphnis m'en a donné tout l'esclaircissement⁎.  
 
     OVIDE.
 Et vous le croiez donc ?  
 
     HYACINTHE.
-                N'en doutez⁎ nullement.  
+        N'en doutez⁎ nullement.  
 
     OVIDE.
 Si je perds un amy pour avoir trop d'adresse⁎,  
@@ -2311,7 +2311,7 @@ Me disputer⁎ un cœur, c'est estre temeraire⁎.
 
     HIACINTHE.
 Je sçay que l'art d'aymer fait bruit de toutes parts [144],  
-Et qu'il vous rend fameux à la Cour⁎ des Cezars ;                       
+Et qu'il vous rend fameux à la Cour⁎ des Cezars ;  
 Mais l'on doit avoüer, à moins que d'estre injuste,  
 Que la Cour⁎ de Venus vaut bien celle d'Auguste.  
 L'air qu'on respire en Cypre, est si pur, si charmant⁎,  
@@ -2339,7 +2339,7 @@ Craignent cette raison⁎ qui n'est jamais pour elles ;
 Et pour en triompher par leurs attraits puissants,  
 Elles sçavent user de l'adresse⁎ des sens,  
 Elles mettent leurs soins & toute leur estude  
-A causer des soucis⁎ & de l'inquietude [147],                      
+A causer des soucis⁎ & de l'inquietude [147],  
 Leurs souris affectez⁎, leurs regards seducteurs,      
 Sont pour nous engager⁎ d'aymables⁎ imposteurs,  
 Leur accueil, leurs dedains, leurs amoureuses plaintes,  
@@ -2368,7 +2368,7 @@ Rendre une Amante ingrate, est la vouloir trahir,
 Ce n'est pas l'art d'aymer, mais c'est l'art de hayr.  
 
     HYACINTE.
-Les faveurs⁎ bien souvent ne font qu'un infidelle,                      
+Les faveurs⁎ bien souvent ne font qu'un infidelle,  
 Mais la vertu⁎ retient ceux qu'un bel œil appelle ;  
 Et ce sexe sçavant à troubler le repos,      
 En fuyant seulement sçait vaincre les Heros [150].  
@@ -2397,7 +2397,7 @@ Ceux de ma race sont favoris des Deesses [151].
 
     OVIDE.
 Les Amours d'Adonis me sont assez connus ;  
-Mais il ne s'agit pas des Amans de Venus,                           
+Mais il ne s'agit pas des Amans de Venus,  
 Il s'agit seulement de la belle Cephise,  
 Et vous faites pour elle une vaine⁎ entreprise⁎ !      
 
@@ -2423,7 +2423,7 @@ Moy j'estois fort tanté, malgré cette defence,
 D'aller ouïr l'Arrest qu'on devoit prononcer.  
 
 
-### SCENE V.                        
+### SCENE V.
 OVIDE, HYACINTHE, MAXIME.
 
 
@@ -2442,11 +2442,11 @@ Est-ce Cypre & Cephise, ou bien Corinne & Rome ?
 Parle ?  
 
     MAXIME.
-L'arrest n'est pas encore prononcé,  
+        L'arrest n'est pas encore prononcé,  
 Mais je vais vous conter tout ce qui s'est passé,  
 Car je viens d'assister à la ceremonie,  
 Où de gens curieux une foule infinie,  
-Dans la place des jeux se rend de tous costez,                       
+Dans la place des jeux se rend de tous costez,  
 Pour y voir disputer⁎ le prix à ces beautez.      
 Jamais Rome, jamais dans ses plus grandes festes,  
 Lors qu'⁎elle a triomphé pour d'illustres⁎ conquestes  
@@ -2473,7 +2473,7 @@ Ne peut voir tant d'appas⁎ sans quelque jalousie ;
 Et la vive couleur qui paroist sur leur tein,  
 Descouvre ce dépit⁎ qu'elles cachent en vain.  
 Pour ses deux sœurs Thalie ayant pris la parolle  
-D'un air⁎ civil⁎ pourtant leur parle & les cajolle⁎ :                       
+D'un air⁎ civil⁎ pourtant leur parle & les cajolle⁎ :  
 Mais pour diminuer un peu de leur orgueil,  
 Apres leur avoir fait un favorable accueil,  
 Elle dit hautement à ces belles Rivales ;  
@@ -2506,7 +2506,7 @@ La Nimphe qui fait voir une grace⁎ infinie,
 Pour accorder⁎ ses pas avec cette harmonie,  
 D'un mouvement leger du Tapis fait le tour,  
 Et trace de son pied mille chiffres d'amour [153],  
-Tout le monde loüant sa merveilleuse adresse⁎,                      
+Tout le monde loüant sa merveilleuse adresse⁎,  
 D'une victoire seure elle flatte⁎ la Grece,      
 Qui pense voir bien-tost couronner ses desseins,      
 Mais un reste d'espoir flate encore les Romains.  
@@ -2541,7 +2541,7 @@ Ainsi Corinne, ainsi charme au son de sa Lire.
     MAXIME.
 C'est un enchantement⁎ que j'ay peine à descrire,  
 Et si de l'assemblée eut dependu le choix,  
-Sa voix melodieuse eût eû toutes les voix.                           
+Sa voix melodieuse eût eû toutes les voix.  
 
     OVIDE.
 Que pense à ce recit le constant Hyacinthe ?  
@@ -2573,11 +2573,11 @@ DAPHNIS, HIACINTHE, OVIDE MAXIME.
 Hyacinthe, je viens pour vous tirer de peine,  
 La divine Cephise a remporté le prix.  
 
-    HIACINTHE    
+    HIACINTHE
 Ah ! que j'en ay de joye !  
 
     OVIDE.
-            Ah ! que j'en suis surpris !  
+        Ah ! que j'en suis surpris !  
 Cephise a triomphé de Corinne & de Rome !  
 
     DAPHNIS.
@@ -2610,7 +2610,7 @@ Et l'on fait retentir son beau nom jusqu'aux Cieux.
 
     OVIDE.
 Puis que Cephise emporte un prix si glorieux⁎,  
-Allons donc rendre hommage à sa beauté divine.                       
+Allons donc rendre hommage à sa beauté divine.  
 
     HIACINTE.
 Non non, allez plus-tost pour consoler Corinne,  
@@ -2624,7 +2624,7 @@ Et tout homme galand malgré vos feux constans,
 Veut ce que veut l'amour & s'accomode au temps [158].  
 
 
-## ACTE IV.                     
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -2645,7 +2645,7 @@ Vous m'espargnez le soin de vous en consoler.
 
     CORINNE.
 Je venois dans ces lieux vous consoler vous-mesme,  
-Vous donner un advis⁎ d'une importance extresme.                       
+Vous donner un advis⁎ d'une importance extresme.  
 
     CEPHISE.
 Les gens conseillent mal qui sont interessez⁎.  
@@ -2684,7 +2684,7 @@ Ainsi quand vous pensiez me ravir la victoire,
 Vous en aviez la honte⁎, & moy seule la gloire⁎.  
 
     CEPHISE.
-Vous estes satisfaite, & je la suis aussi [159] ;                      
+Vous estes satisfaite, & je la suis aussi [159] ;  
 Mais rendez sur un point mon esprit esclaircy.      
 Puis que vous pretendez⁎ estre victorieuse,  
 De quoy vous plaignez-vous, si vous estes heureuse ?  
@@ -2712,7 +2712,7 @@ Les Graces vont encor pour causer quelque plainte,
 Juger les differens d'Ovide & d'Hyacinthe,  
 Pour l'interest⁎ d'Amour l'un & l'autre Rival,  
 Vont disputer⁎ le prix devant leur Tribunal.  
-J'iray faire rougir encor ces Immortelles.                       
+J'iray faire rougir encor ces Immortelles.  
 Qui perdent devant moy la qualité de belles,  
 Pour venger mon injure⁎, & braver leur pouvoir,  
 Corinne seulement n'a qu'à se faire voir.  
@@ -2735,7 +2735,7 @@ J'aperçois un Romain qui vient encor icy.
 Il a l'esprit plus doux, & n'agit pas ainsi.  
 
 
-### SCENE III.                     
+### SCENE III.
 OVIDE, CEPHISE, AMINTE.
 
 
@@ -2763,7 +2763,7 @@ Mais à Corinne ainsi vous estes infidelle.
     OVIDE.
 Qu'elle se pleigne aux Dieux qui vous firent plus belle.  
 Peut-elle me blasmer de la vouloir quitter,  
-Sans blasmer ses appas⁎ qui n'ont peû m'arrester ?                       
+Sans blasmer ses appas⁎ qui n'ont peû m'arrester ?  
 Mais pour se consoler, elle a quelque compagne      
 A Rome, dans la Gaule, en Affrique, en Espagne.  
 Comme je suis touché des rares qualitez,  
@@ -2775,7 +2775,7 @@ Nous y verrons les noms d'Olimpe, de Caliste,
 D'Albine, d'Emilie.  
 
     OVIDE.
-            Et cent autres encore,  
+        Et cent autres encore,  
 Dans l'Almanach d'Amour je marque en Lettres d'or [163]  
 Les noms de mes vainqueurs au jour de leur conqueste,  
 Et de ces jours heureux je fais des jours de feste.  
@@ -2785,7 +2785,7 @@ Le beau nom de Corinne est le premier de tous,
 Quoy que vous me disiez.  
 
     OVIDE.
-            Elle n'est qu'apres vous,  
+        Elle n'est qu'apres vous,  
 Et lors que⁎ je vous rends la premiere visite,  
 Je m'explique en faveur d'un si rare merite⁎.  
 
@@ -2801,7 +2801,7 @@ Je vous puis en ce lieu donner la preference.
 Mais vous vous contraignez en me traictant ainsi.  
 
     OVIDE.
-Je ne me contrains point, ny ce que j'ayme aussi,                   
+Je ne me contrains point, ny ce que j'ayme aussi,  
 Je vis en liberté [164].  
 
     CEPHISE.
@@ -2828,7 +2828,7 @@ M'oste l'occasion qui m'estoit favorable ;
 N'en témoignons pourtant ny chagrin⁎ ny soucy⁎.  
 
 
-### SCENE IV.                     
+### SCENE IV.
 OVIDE, HYACINTHE, CEPHISE, AMINTE.
 
 
@@ -2845,7 +2845,7 @@ Puis que vous les causez, ils doivent estre grands [168]
 J'ignore quels ils sont.  
 
     HYACINTHE.
-            Cela pourroit-il estre ?  
+        Cela pourroit-il estre ?  
 Et peut-on ignorer des feux qu'on a fait naistre ?  
 
     OVIDE.
@@ -2855,7 +2855,7 @@ Mais vous en rougissez ? Amour, je te rends grace⁎,
 D'avoir mis aujourd'huy cette Nymphe en ma place ;  
 Elle est dans l'embarras où tantost on m'a veu,  
 De choisir l'un des deux vostre tour est venu ;  
-Mais vous en sortirez avecque moins de peine,                           
+Mais vous en sortirez avecque moins de peine,  
 Car nous avons pour vous plus d'amour que de haine ;  
 Et de quelque costé que penchent vos esprits,  
 Vous n'apprehendez point ny froideur⁎ ny mépris [169].  
@@ -2887,7 +2887,7 @@ Sur ce haut Tribunal les Graces vont monter,
 Pour donner la Couronne à qui doit l'emporter.  
 Mais desja dans ces lieux ces Deitez paraissent,  
 Sous leurs pas glorieux⁎ je voy des fleurs qui naissent [172].  
-Pour meriter le prix que pretendent⁎ vos feux,                           
+Pour meriter le prix que pretendent⁎ vos feux,  
 Allez leur adresser vos respects & vos vœux ;  
 Pour faire rendre hommage à ces trois Immortelles,  
 Les intendans des jeux font place devant elles,  
@@ -2911,7 +2911,7 @@ Et puis que l'un & l'autre aspire à la victoire,    
 Apprenons de quels traits leurs deux cœurs sont blessez.  
 Pour faire honneur à Rome, Ovide, commencez.  
 
-    OVIDE POUR LES      INCONSTANS. [174]
+    OVIDE POUR LES INCONSTANS. [174]
 Pour d'un Myrrhe amoureux voir couronner ma teste,  
 Assiste moy, Venus, dans cette belle feste [175] ;  
 Mesle dans mes discours ces entretiens⁎ charmans,  
@@ -2933,7 +2933,7 @@ L'une a la majesté, l'autre a la bonne grace⁎,
 L'une a tous les traits beaux, l'autre un teint delicat,  
 L'une a de l'agrément⁎, l'autre beaucoup d'éclat,  
 Enfin le Ciel a fait, pour charmer tout le Monde      
-La belle, l'agreable, & la brune, & la blonde ;                       
+La belle, l'agreable, & la brune, & la blonde ;  
 Mais jusques à present nul n'a peu decider⁎,  
 Entre tant de beautez laquelle doit ceder.  
 Quand on n'est pas aveugle, & qu'on est raisonnable⁎,  
@@ -2968,7 +2968,7 @@ Mon esprit esclairé de ces belles lumieres,
 S'en va vous en donner de nouvelles matieres [180].      
 Chacun connaist assez que ce sexe charmant⁎,  
 Tire de sa beauté son plus grand ornement,  
-Un amant⁎ qui ne veut aymer qu'une maistresse⁎,                      
+Un amant⁎ qui ne veut aymer qu'une maistresse⁎,  
 Quand la beauté s'enfuit avecque la jeunesse,  
 Que ses regards esteints inspirent la froideur⁎,  
 Doit-il estre constant pour aymer la laideur ?  
@@ -3001,7 +3001,7 @@ Condamnez mon Rival dont l'amour vous offense ;
 Une seule ne peut recevoir tous ses vœux⁎,  
 Puis que vous estes trois, qu'il n'en offense deux  [182];  
 Et puis que toutes trois je vous crois adorables,  
-Pour moy donc toutes trois monstrez vous favorables.                       
+Pour moy donc toutes trois monstrez vous favorables.  
 
     THALIE *à Hyacinthe.*
 Vous dont le cœur constant brusle d'un autre Amour,  
@@ -3029,9 +3029,9 @@ Car la moindre beauté croit meriter un cœur.
 Il n'est rien de mieux dit.  
 
     CORINNE.
-            La responce est jolie  
+        La responce est jolie  
 
-    HYACINTHE.    
+    HYACINTHE.
 Je passe à ces raisons⁎, belle & sage Thalie.  
 Le Genie amoureux qui bastit l'Univers,  
 L'orna, dit-il, expres de cent charmes divers,  
@@ -3066,7 +3066,7 @@ Les aymer par quartier⁎, comme on sert⁎ à la Cour⁎.
 Ce sera pis encor, car celle que l'on quitte,  
 Se plaindra que l'on fait injure⁎ à son merite⁎,  
 Et celle qu'il choisit, doit s'attendre qu'un jour  
-Un esprit si leger luy joüra mesme tour.                           
+Un esprit si leger luy joüra mesme tour.  
 Sur la fidelité l'amante se repose ;  
 Aymer, estre fidelle, est une mesme chose.      
 Les desirs inconstans, & qui changent toujours,      
@@ -3090,7 +3090,7 @@ Auroient-ils soupiré pour la vieille Sybille ?
 Elle avoit l'esprit beau.  
 
     CORINNE.
-                C'est railler galamment.  
+        C'est railler galamment.  
 
     HYACINTHE.
 Ovide ne sçait pas ce que c'est qu'estre Amant⁎.  
@@ -3099,7 +3099,7 @@ Qu'elles n'ont toutes deux que les mémes pensées,
 Elles ont des plaisirs qu'on ne peut exprimer,  
 Et qu'on sent seulement lors qu'⁎on sçait bien aymer ;  
 Leurs soucis⁎ amoureux, qu'il appelle humeur noire [189],  
-Ne sont pas des remords, mais des desirs de gloire⁎ ;                       
+Ne sont pas des remords, mais des desirs de gloire⁎ ;  
 Les grandes passions⁎ ravissent le repos,  
 Et de mesme que Mars, l'Amour a ses Heros.  
 La plus illustre⁎ vie est de soins toujours pleine [190],  
@@ -3135,7 +3135,7 @@ Les Graces sur ce point tiennent desja conseil.
 On va vous condamner, tremblez donc Hyacinthe.  
 
     HYACINTHE.
-Mais vous mesme écoutez avec respect & crainte.                       
+Mais vous mesme écoutez avec respect & crainte.  
 
     THALIE.
 Nous voudrions pouvoir tous deux vous couronner,  
@@ -3164,7 +3164,7 @@ J'attendray leur retour sans craindre & soupirer ;
 Quand on aime par tout, on doit tout esperer.  
 
 
-## ACTE V.                    
+## ACTE V.
 
 
 ### SCENE PREMIERE.
@@ -3187,7 +3187,7 @@ L'autre d'Amour suivant les pas,
 Met tout son bonheur à nous plaire ;  
 Pour nous vaincre il fait ses efforts,  
 Nostre fierté⁎ paraist visible ;  
-On sauve toujours le dehors ;                               
+On sauve toujours le dehors ;  
 Mais souvent au-dedans on n'est pas insensible.  
 
 La Vertu⁎ par fois elle-mesme,  
@@ -3219,7 +3219,7 @@ Puis que c'est un grand mal que d'aymer sans le dire.
 
 Pour finir ma dure contrainte  
 Sans ternir mon nom glorieux⁎,  
-En ma faveur, ô justes Dieux !                               
+En ma faveur, ô justes Dieux !  
 Venez couronner Hyacinte,      
 Afin que mon cœur combatu,  
 Puisse accorder⁎ par sa victoire,  
@@ -3250,12 +3250,12 @@ Dis qui l'a remporté, d'Hyacinte, ou d'Ovide.
 Je crains de vous fascher.  
 
     CEPHISE.
-            C'est estre trop timide⁎ :  
+        C'est estre trop timide⁎ :  
 Si tu ne connois pas le secret de mon cœur,  
 Pourquoy redoutes-tu de nommer le vainqueur ?  
 
     AMINTE.
-Je crains fort que Venus n'ait esté favorable,                       
+Je crains fort que Venus n'ait esté favorable,  
 A celuy qui pour vous n'est pas le plus aymable⁎.  
 
     CEPHISE.
@@ -3282,7 +3282,7 @@ Pour monstrer mon amour par un respect extrême,
 Cephise peut encor disposer d'elle mesme :  
 Je me croy son Captif, & non son Souverain,  
 Et ne puis la contraindre à me donner la main,  
-Quoy-que Venus l'ordonne, & le Ciel l'authorise,                  
+Quoy-que Venus l'ordonne, & le Ciel l'authorise,  
 Car je ne veux devoir Cephise qu'à Cephise.  
 
     CEPHISE.
@@ -3315,7 +3315,7 @@ Et ma reconnoissance enfin doit éclater.
 
     HYACINTHE.
 Je suis tout transporté⁎ d'oüir cette nouvelle ;  
-C'est un plaisir d'aymer une amante si belle ;                           
+C'est un plaisir d'aymer une amante si belle ;  
 Mais de s'en voir aymé, c'est un si grand honneur,  
 Que rien dans l'Univers n'egale ce bonheur.  
 Vous superbes⁎ Cezars, qui triomphez en guerre,  
@@ -3339,7 +3339,7 @@ Il fait voir sur son front une sombre tristesse,
 Et l'on voit dans ses yeux éclater la douleur.  
 
 
-### SCENE IV.                     
+### SCENE IV.
 DAPHNIS, HYACINTHE, CEPHISE, AMINTE.
 
 
@@ -3358,10 +3358,10 @@ Quelqu'un à son Arrest ose-t'il s'opposer ?
 Ovide.  
 
     HIACINTHE.
-Et bien, Ovide…  
+    Et bien, Ovide…  
 
     CEPHISE.
-            O dieux ! que j'ay de crainte !  
+        O dieux ! que j'ay de crainte !  
 
     HIACINTE.
 Acheve donc.  
@@ -3372,7 +3372,7 @@ Pour braver la Déesse au milieu de la Cour⁎,
 Veut mespriser les loix de la mere d'Amour ;  
 Et ce subtil⁎ Romain dit que cette Immortelle,  
 Peut juger seulement des charmes d'une belle :  
-Mais que ce droit divin n'appartient qu'à son fils,                       
+Mais que ce droit divin n'appartient qu'à son fils,  
 De juger des Amans, & de donner le prix ;  
 Il imite Corinne, & veut à son exemple,  
 Estre jugé dans Rome où l'Amour a son Temple.  
@@ -3404,7 +3404,7 @@ J'estois égal aux Dieux, lors qu'⁎un coup de tempeste
 Du haut du Capitole a menacé ma teste :  
 Et l'aveugle destin par ce coup rigoureux [198],  
 Du plus heureux Amant⁎ fait le plus malheureux⁎.  
-Mais malgré l'Empereur, malgré l'Aigle Romaine [199],                  
+Mais malgré l'Empereur, malgré l'Aigle Romaine [199],  
 Ovide sentira les effets de ma haine :  
 Entre les bras des siens je luy veut faire voir,  
 Ce que peut un Amant⁎ qu'arme le desespoir.  
@@ -3437,7 +3437,7 @@ Que cette occasion se soit offerte à moy.    
 Qu'Auguste redouté sur la terre & sur l'onde,  
 Par l'ordre des destins, soit le Maistre du monde,  
 Que trente legions l'en rendent le vainqueur,  
-Ce Tyran qui peut tout, ne peut rien sur mon cœur :                   
+Ce Tyran qui peut tout, ne peut rien sur mon cœur :  
 Si sa grandeur s'oppose à mon ardeur fidelle,  
 Ma constance est plus grande, & triomphera d'elle,  
 Plus il est redouté, plus il a de pouvoir,  
@@ -3463,12 +3463,12 @@ Et qui veut vaincre autruy, se doit vaincre soy mesme,
 Je m'en vais luy parler.  
 
 
-### SCENE V.                     
+### SCENE V.
 CEPHISE, OVIDE, HYACINTHE, CORINNE, AMINTE, MAXIME, DAPHNIS, CELIE.
 
 
     CEPHISE.
-            Venez-vous dans ces lieux,  
+        Venez-vous dans ces lieux,  
 Afin de nous braver encor apres nos Dieux [205] ?  
 
     OVIDE.
@@ -3479,7 +3479,7 @@ N'avez-vous pas trahy dans un jour deux Maistresses⁎,
 Et ce parfait amy ?  
 
     OVIDE.
-            L'Amour rend tout permis,  
+        L'Amour rend tout permis,  
 Et quiconque est Amant⁎ ne connaist plus d'amis :  
 Je suis pour accorder⁎ la raison⁎ & mes flammes,  
 Fort fier⁎ à mes Rivaux, & fort civil⁎ aux Dames,  
@@ -3490,7 +3490,7 @@ Quoy ? vous pardonnez donc à cet amant⁎ sans foy⁎ ?
 
     CORINNE.
 Vostre pere vouloit par le nœud d'Himenée  
-Et d'Ovide & de vous unir la destinée :                           
+Et d'Ovide & de vous unir la destinée :  
 Mais luy qui craint sur tout de si facheux⁎ liens,      
 Neglige vos attraits pour rendre hommages aux miens.  
 
@@ -3504,7 +3504,7 @@ Vous en avez pourtant de la confusion⁎,
 Et vous en rougissez.  
 
     HIACINTHE.
-            Elle en est peu surprise.  
+        Elle en est peu surprise.  
 
     OVIDE.
 J'ay beaucoup de respect pour l'aymable⁎ Cephise,  
@@ -3527,7 +3527,7 @@ Je verray ce bonheur sans vous porter envie.
 Et pour n'estre jamais ny facheux⁎ ny jaloux,  
 Chagrin⁎, ny pire encor, je fuis le nom d'espoux.  
 
-    HYACINTE.    
+    HYACINTE.
 Mais l'Hymen des Amans assure⁎ la conqueste [206].  
 
     OVIDE.
@@ -3563,7 +3563,7 @@ Le prix que dans cette Isle on me vouloit oster.
 Les prix estoient donnez justement ce me semble,  
 Mais je voy que tous deux vous cabalez⁎ ensemble.  
 En despit de Venus & de l'ordre des Cieux,  
-Vous voulez contenter vos cœurs ambitieux,                       
+Vous voulez contenter vos cœurs ambitieux,  
 Mais je jure l'Amour & les Dieux de la Grece [208],  
 De servir⁎ contre tous mon illustre⁎ Maistresse⁎.      
 
@@ -3602,7 +3602,7 @@ Et les Amans, & les Amantes.
 Que son visage est beau !  
 
     CORINNE.
-            Qu'il a d'attraits pour plaire !                   
+        Qu'il a d'attraits pour plaire !  
 
 
 ### SCENE VI. *& derniere.*
@@ -3622,7 +3622,7 @@ Joüissez donc en paix de la felicité,
 Dans des liens plus doux que n'est la liberté.  
 Je vais changer l'Arrest prononcé par les Graces,  
 Et veux que dans mon Temple & dans toutes les places,  
-Le peuple d'Amathonte entende publier                              
+Le peuple d'Amathonte entende publier  
 Celuy-cy que l'Amour lui deffend d'oublier [210].  
 Je veux que desormais on puisse dans le monde,  
 Aymer esgallement⁎ & la brune & la blonde,  

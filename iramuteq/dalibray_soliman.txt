@@ -134,7 +134,7 @@ Juin 1637
 
 Et ledit sieur Dalibray a cedé et transporté le present Privilège à Toussainct Quinet Marchand Libraire, pour jouyr du contenu porté par iceluy, ainsi qu'il a esté accordé entre-eux
 
-**** *book_ *id_body-4-1 *act_acte1 *date_1637 *creator_vion
+**** *book_ *id_acte101 *act_acte1 *date_1637 *creator_vion
 
 -*who_soliman
 Moi qui me figurois que jusques dans Bizance,
@@ -178,7 +178,7 @@ Le propre d'un guerrier c'est d'agir et se taire.
 Qu' inferes-tu de là ?
 
 -*who_soliman
-Silence, taisez-vous.
+      Silence, taisez-vous.
 Je connois le merite et la valeur de tous.
 Mais allons, que du camp la place soit choisie,
 Attendant que mon fils arrive d'Amasie.
@@ -191,10 +191,10 @@ Je la vay retreuver⁎ si j'en obtiens licence.
 -*who_soliman
 Allez
 
-**** *book_ *id_body-4-2 *act_acte1 *date_1637 *creator_vion
+**** *book_ *id_acte102 *act_acte1 *date_1637 *creator_vion
 
 -*who_soliman
-Je vois Osman qui devers⁎ moy s'avance,
+      Je vois Osman qui devers⁎ moy s'avance,
 Il revient d'Amasie, et rapporte joyeux,
 Des nouvelles qu'on lit desjà dedans ses yeux.
 
@@ -206,7 +206,7 @@ Le brave Mustapha, de cent Princes suivy,
 Arrive dans Alep.
 
 -*who_acmat
-O nouvelle agréable !
+      O nouvelle agréable !
 
 -*who_soliman
 Et qui remplit mon cœur d'une joye incroyable.
@@ -259,13 +259,13 @@ Les preceptes et l'art⁎, peut-estre avec effet⁎ ;
 Car quoy que le Roy feigne, on tient cette maxime,
 Qu'un vieux Roy, de son fils, hait la trop grande estime.
 
-**** *book_ *id_body-4-3 *act_acte1 *date_1637 *creator_vion
+**** *book_ *id_acte103 *act_acte1 *date_1637 *creator_vion
 
 -*who_persine
 D'où l'as-tu donc appris ?
 
 -*who_alvante
-C'est le bruit de la Cour,
+      C'est le bruit de la Cour,
 Et puisque Soliman n'attend que son retour,
 Pour venir fondre⁎ en Perse et nous faire la guerre,
 Madame, treuvez⁎ bon de quitter cette terre.
@@ -298,7 +298,7 @@ Ait le temps d'aviser à ce qu'il faudra faire.
 Alvante, attends encor.
 
 -*who_alvante
-Ce seroit vous trahir :
+      Ce seroit vous trahir :
 En toute autre sujet je suis prest d'obeïr :
 Quelle necessité vous oblige à cette heure
 A vouloir faire icy de plus longue demeure ?
@@ -333,13 +333,13 @@ Un mouvement⁎ d'amour, est celuy qui vous meine
 Et pour qui ?
 
 -*who_persine
-Pour celuy qu'on attend aujourd'huy.
+      Pour celuy qu'on attend aujourd'huy.
 
 -*who_alvante
 Vous avez de l'amour pour Mustapha ?
 
 -*who_persine
-Pour luy.
+      Pour luy.
 
 -*who_alvante
 Helas ! qu'ay-je entendu⁎, quelle est vostre pensee ?
@@ -417,7 +417,7 @@ On vient. Fuyons ; le Ciel releve ta vertu !
 -*who_persine
 Helas de trop d'ennuys⁎ mon cœur est abbatu.
 
-**** *book_ *id_body-4-4 *act_acte1 *date_1637 *creator_vion
+**** *book_ *id_acte104 *act_acte1 *date_1637 *creator_vion
 
 -*who_la_reine
 J'ignore en quel endroit⁎ mon pié douteux me guide,
@@ -486,7 +486,7 @@ Je te croiray, Seline, et veux dés aujourd'huy,
 Commencer à le perdre, et me tirer d'ennuy⁎.
 Fin du premier Acte.
 
-**** *book_ *id_body-5-1 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-501 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Je vay prier les Cieux de nous estre propices :
@@ -541,7 +541,7 @@ Je vais exprés au Temple en conjurer les Cieux.
 -*who_rustan
 Aille apres⁎ qui voudra : demeure, Osman, demeure.
 
-**** *book_ *id_body-5-2 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-502 *act_ *date_1637 *creator_vion
 
 -*who_rustan
 Avant que je le souffre⁎ il faudra que je meure,
@@ -550,7 +550,7 @@ Avant que je le souffre⁎ il faudra que je meure,
 Mon Maistre qu'avez-vous ?
 
 -*who_rustan
-Ah ! c'est trop r'animer
+      Ah ! c'est trop r'animer
 Le feu dont contre luy je me sens enflamer.
 Qu'en dis-tu, cher Osman ? un nouveau venu prendre
 Le premier rang d'honneur où je devois pretendre ?
@@ -582,7 +582,7 @@ Ce qu'on fait, ce qu'on dit, enfin rapporte moy
 Quelque apparent subjet de soubçonner sa foy⁎.
 Vas, reviens bien instruit ; Mais j'apperçoy la Reyne.
 
-**** *book_ *id_body-5-3 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-503 *act_ *date_1637 *creator_vion
 
 -*who_seline
 Mais, Madame, c'est estre à soy-mesme, inhumaine :
@@ -637,14 +637,14 @@ Quoy vous n'en estes pas encor mieux informée ?
 Je n'en ay rien apris.
 
 -*who_rustan
-Vous ne sçavez donc pas
+      Vous ne sçavez donc pas
 Qu'il a sous son pouvoir presque tous nos Soldats ?
 
 -*who_la_reine
 Est-il donc vray !
 
 -*who_rustan
-Que trop : jugez donc à cette heure
+      Que trop : jugez donc à cette heure
 S'il est bon qu'imparfaict nostre dessein demeure ;
 Un Sceptre rarement s'arrache aux mains d'autruy,
 Quand la force et le fer luy sert de ferme appuy.
@@ -671,13 +671,13 @@ C'est le meilleur moyen que nous puissions tenir.
 -*who_la_reine
 Allons donc le treuver⁎ : mais le voicy venir.
 
-**** *book_ *id_body-5-4 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-504 *act_ *date_1637 *creator_vion
 
 -*who_la_reine
 Soldats, où va le Prince ?
 
 -*who_soldat
-Au Palais, grande Reyne.
+      Au Palais, grande Reyne.
 
 -*who_la_reine
 Arrestez-vous icy. Dieu quel soucy le gesne⁎ !
@@ -714,13 +714,13 @@ Ny quel trouble importun s'est emparé de moy.
 Prenez le temps, Madame.
 
 -*who_la_reine
-Hé que dites-vous, Sire !
+      Hé que dites-vous, Sire !
 
 -*who_soliman
 Ce qui n'est que trop vray.
 
 -*who_rustan
-Quand le Ciel veut prédire
+      Quand le Ciel veut prédire
 Quelque estrange mal-heur, il se sert quelquefois
 Du langage secret de ces muettes voix.
 
@@ -756,7 +756,7 @@ Une autre occasion de ce peril extresme.
 Helas ! seroit-il vrai !
 
 -*who_soliman
-Poursuivez hardiment.
+      Poursuivez hardiment.
 
 -*who_la_reine
 Peut-estre crains-je à tort, quoy qu'avec fondement.
@@ -769,7 +769,7 @@ On craint avec raison dessus la moindre marque.
 Madame, parlez donc :
 
 -*who_la_reine
-Je crains qu'un scelerat
+      Je crains qu'un scelerat
 N'ait tramé dessus vous quelque noir attentat,
 Et par vostre trespas n'occupe cét Empire,
 Où son ambition depuis long-temps aspire.
@@ -778,15 +778,15 @@ Où son ambition depuis long-temps aspire.
 Qui seroit si hardy ?
 
 -*who_la_reine
-Qui se sent le plus fort :
+      Qui se sent le plus fort :
 Celuy dont vous devriez attendre moins ce tort ;
 L'injuste Mustapha.
 
 -*who_soliman
-Mustapha ?
+      Mustapha ?
 
 -*who_la_reine
-C'est luy-mesme.
+      C'est luy-mesme.
 Pourquoy vous troubler tant, et devenir plus blesme ?
 Je n'en asseure pas, j'en doute seulement :
 Mais certes cette peur me trouble extremement.
@@ -870,9 +870,9 @@ Qu'on ne sçauroit trop tost prevoir à son dommage.
 C'est assez dit, Allons.
 
 -*who_rustan
-Prenons, prenons courage.
+      Prenons, prenons courage.
 
-**** *book_ *id_body-5-5 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-505 *act_ *date_1637 *creator_vion
 
 -*who_persine
 Alvante est donc enfin émeu par mes discours
@@ -1044,7 +1044,7 @@ Allez, et je feray tout ce qu'il faudra faire.
 -*who_persine
 Je m'en vay, daigne Amour conduire cette affaire.
 
-**** *book_ *id_body-5-6 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-506 *act_ *date_1637 *creator_vion
 
 -*who_alvante
 Doncques est-il possible ! ô Dieu quelle fureur !
@@ -1058,16 +1058,16 @@ Mais quel nouveau visage à mes yeux se presente !
 Mustapha, nostre Roy !
 
 -*who_osman
-C'est quelqu'un de ses gens,
+      C'est quelqu'un de ses gens,
 Et sans doute quelqu'un de ses nouveaux agens.
 Escoutons-le.
 
 -*who_alvante
-Et pour luy trahir ainsi son pere !
+      Et pour luy trahir ainsi son pere !
 Son pere ! et son Royaume !
 
 -*who_osman
-O fortune⁎ prospere !
+      O fortune⁎ prospere !
 
 -*who_alvante
 Me croire l'instrument de sa lâche fureur !
@@ -1090,14 +1090,14 @@ Il est bien si rusé qu'en ce peu de matiere,
 Il treuvera⁎ subject d'une ruine entiere.
 Fin du second Acte.
 
-**** *book_ *id_body-6-1 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-601 *act_ *date_1637 *creator_vion
 
 -*who_persine
 Le traistre a donc commis cette infidelité !
 Alvante que dis-tu ?
 
 -*who_alvante
-Je dis la verité.
+      Je dis la verité.
 
 -*who_persine
 O trois et quatre fois Persine infortunée !
@@ -1139,7 +1139,7 @@ Ce discours, sage Alvante, estoit digne de toy :
 Mais que dit-il ?
 
 -*who_alvante
-D'un cris de mespris, et de rage,
+      D'un cris de mespris, et de rage,
 (Car ces mots vivement piquerent son courage)
 M'oses-tu bien, dit-il, faire ressouvenir
 D'une foy⁎ que jamais je n'ay voulu tenir ?
@@ -1148,7 +1148,7 @@ D'une foy⁎ que jamais je n'ay voulu tenir ?
 O Ciel !
 
 -*who_alvante
-Et puis, dit-il, par un pouvoir magique,
+      Et puis, dit-il, par un pouvoir magique,
 Et par cette science en Perse si publique,
 Elle m'avoit alors empoisonné le cœur,
 Qui depuis grace au Ciel a repris sa vigueur.
@@ -1176,7 +1176,7 @@ Madame, il n'est plus temps desormais de se plaindre,
 Craignons pour nostre vie :
 
 -*who_persine
-Hé ! que puis-je plus craindre,
+      Hé ! que puis-je plus craindre,
 Si sans chercher ailleurs ce dernier reconfort,
 Je suis preste moy-mesme à me donner la mort ?
 
@@ -1222,7 +1222,7 @@ Que je voye en mourant l'objet⁎ qui m'est fatal,
 Afin qu'au triste aspect d'une fin si cruelle,
 De son crime, il conçoive une horreur eternelle.
 
-**** *book_ *id_body-6-2 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-602 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Voylà ce que je crains, et pour me soulager,
@@ -1312,14 +1312,14 @@ Et luy dis qu'il attende un autre ordre de moy.
 Grand Prince j'obeys.
 
 -*who_soliman
-Quelle est la citadelle
+      Quelle est la citadelle
 Qui nous mette en repos comme un amy fidelle !
 Voilà que son discours enfin m'a desgagé
 Des soubçons dont mon cœur se sentoit assiegé.
 Dans une douce paix maintenant je respire,
 Et dessus moy la peur n'a plus aucun empire.
 
-**** *book_ *id_body-6-3 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-603 *act_ *date_1637 *creator_vion
 
 -*who_rustan
 Que vostre Majesté n'espere desormais
@@ -1349,7 +1349,7 @@ Qu'ay-je leu ! mais allons adviser au remede :
 -*who_rustan
 O bien-heureux Rustan, que la fortune⁎ t'aide.
 
-**** *book_ *id_body-6-4 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-604 *act_ *date_1637 *creator_vion
 
 -*who_mustapha
 Que si le Messager n'est indigne de foy⁎,
@@ -1369,7 +1369,7 @@ Qui dedans mon esprit se rend presque evident.
 Que crains-tu ?
 
 -*who_ormene
-J'apprehende, et non sans juste cause,
+      J'apprehende, et non sans juste cause,
 Que l'on n'ait contre vous machiné quelque chose :
 Pourquoy si promptement vous r'appeller en Cour,
 Vous mandant de tenir secret vostre retour ?
@@ -1472,7 +1472,7 @@ J'y vais, et que le Ciel m'aide si j'en suis digne.
 -*who_ormene
 Seigneur, ne bouge, et voy qu'Adraste t'en fait signe.
 
-**** *book_ *id_body-6-5 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-605 *act_ *date_1637 *creator_vion
 
 -*who_adraste
 Ah grand Prince ! fuyez cette maudite Cour,
@@ -1510,7 +1510,7 @@ Evitez promptement son injuste colere.
 Fuyons, mon fils, fuyons.
 
 -*who_mustapha
-L'innocent est trop fort,
+      L'innocent est trop fort,
 Il est invulnerable à tous les traicts du sort.
 
 -*who_ormene
@@ -1538,7 +1538,7 @@ Non, ne differons plus, qui differe est coupable.
 Hé mon Fils !
 
 -*who_adraste
-Entendez⁎ un mot irrevocable ;
+      Entendez⁎ un mot irrevocable ;
 Que le Dieu Tout-puissant qui punit les pervers,
 Tienne dessous mes pieds les abymes ouverts,
 Si ma promesse n'est de son effect⁎ suivie :
@@ -1551,11 +1551,11 @@ Nous te declarons Roy : Compagnons criez tous,
 Vive le jeune Prince.
 
 -*who_mustapha
-Amis, que faictes-vous ?
+      Amis, que faictes-vous ?
 Plutost, plutost qu'il meure.
 
 -*who_adraste
-Ah, Seigneur, quelle rage !
+      Ah, Seigneur, quelle rage !
 
 -*who_mustapha
 Mais dis que c'est l'effect⁎ d'une affection sage,
@@ -1580,7 +1580,7 @@ Le Temps descouvrira la verité du faict.
 -*who_ormene
 Vivez donc, pour joüyr de cét heureux effect⁎.
 
-**** *book_ *id_body-6-6 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-606 *act_ *date_1637 *creator_vion
 
 -*who_messager
 O Seigneur, retournez, retournez à l'armée,
@@ -1595,7 +1595,7 @@ Si jamais ta bonté me daigna secourir,
 Et leur dis que je vis.
 
 -*who_adraste
-Mais que tu vas mourir.
+      Mais que tu vas mourir.
 Pensez-vous que des gens remplis de défiance,
 Aux paroles d'autruy prestent si tost creance ?
 A peine voudront-ils s'en fier à leurs yeux,
@@ -1614,7 +1614,7 @@ Seigneur, trouvez-vous pas cét advis raisonnable ?
 Que trop ; allons-y donc, ô Sort impitoyable !
 Fin du troisiesme Acte.
 
-**** *book_ *id_body-7-1 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-701 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Pourquoy s'en retourner au camp si promptement,
@@ -1688,7 +1688,7 @@ Et renverser sur nous l'embusche qu'on leur dresse.
 L'interprete subtil !
 
 -*who_acmat
-Veritable pourtant :
+      Veritable pourtant :
 Mais, Sire, ces soldats que l'on redoute tant,
 Et par qui Mustapha vous doit faire la guerre,
 Où furent-ils levez ? et quel lieu les resserre ?
@@ -1771,12 +1771,12 @@ Et mon zele⁎, et ma foy⁎ se font assez parestre.
 O Fils !
 
 -*who_acmat
-Seigneur, voicy venir la verité.
+      Seigneur, voicy venir la verité.
 
 -*who_rustan
 Et de tous mes dangers, le moins premedité.
 
-**** *book_ *id_body-7-2 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-702 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Toy, qui dedans les Cieux, de l'esprit te promenes,
@@ -1790,7 +1790,7 @@ La trahison est vraye, et faite sans raison.
 Sire, que faut-il plus ?
 
 -*who_devin
-Mais le traistre se cache,
+      Mais le traistre se cache,
 Et couvre avec son nom, une action si lasche,
 Qui non plus que son nom ne se cognoistra pas,
 Qu'apres l'evenement⁎ de son juste trépas.
@@ -1799,7 +1799,7 @@ Qu'apres l'evenement⁎ de son juste trépas.
 Dieu ! qu'est-ce qu'il veut dire !
 
 -*who_soliman
-Et pourtant cette létre
+      Et pourtant cette létre
 M'apprend la trahison, avec le nom du trétre ?
 
 -*who_devin
@@ -1810,10 +1810,10 @@ Mais ne declare pas le nom de qui l'a fait ;
 Comment ?
 
 -*who_rustan
-Je suis perdu.
+      Je suis perdu.
 
 -*who_soliman
-De quelle part vient elle ?
+      De quelle part vient elle ?
 Et n'apprend elle pas une embusche mortelle ?
 
 -*who_devin
@@ -1837,7 +1837,7 @@ Bien plus que tu ne crois, et sans estre coupable.
 Comment se fait cela ?
 
 -*who_devin
-Mon dire est veritable :
+      Mon dire est veritable :
 Mais je ne sçaurois pas t'expliquer clairement,
 Ce que je n'apperçoy qu'en ombre seulement ;
 Le reste surpassant mon humaine foiblesse,
@@ -1848,7 +1848,7 @@ Puis qu'on ne t'entend⁎ point, ne dis mot, et vas-t'en ;
 Tu rends le Roy resveur.
 
 -*who_devin
-Oüy j'obeys, Rustan :
+      Oüy j'obeys, Rustan :
 Mais si je pars, tousjours le Ciel sur toy demeure,
 Et parlera pour moy, devant⁎ qu'il soit une heure.
 
@@ -1859,10 +1859,10 @@ Mais que veulent ces gens avecques ce captif ?
 -*who_rustan
 Fascheux retardement.
 
-**** *book_ *id_body-7-3 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-703 *act_ *date_1637 *creator_vion
 
 -*who_persine
-Heureux subject de joye,
+      Heureux subject de joye,
 Puis que je puis aussi mourir par cette voye.
 
 -*who_soldat
@@ -1879,7 +1879,7 @@ Il faut qu'il le confesse au milieu des supplices.
 Dieu qu'est-ce cy !
 
 -*who_soliman
-Comment l'avez-vous arresté ?
+      Comment l'avez-vous arresté ?
 
 -*who_soldat
 Faisant garde, et rodant autour de la Cité,
@@ -1894,7 +1894,7 @@ Et sans nous resister il fut conduit icy.
 -*who_soliman
 Jeune homme, avoüez-vous ce que dit celuy-cy ?
 
-**** *book_ *id_body-7-4 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-704 *act_ *date_1637 *creator_vion
 
 -*who_alvante
 Elle est entre leurs mains, ô Ciel quelle disgrace !
@@ -1914,7 +1914,7 @@ Voyez comme il respond, et qu'il est plein d'audace !
 Et de plus Espion ?
 
 -*who_persine
-Vous l'avez entendu⁎ ;
+      Vous l'avez entendu⁎ ;
 
 -*who_alvante
 Ah fille mal-heureuse ! hé Dieu ! tout est perdu.
@@ -1923,10 +1923,10 @@ Ah fille mal-heureuse ! hé Dieu ! tout est perdu.
 Tu mourras.
 
 -*who_alvante
-Ah Seigneur !
+      Ah Seigneur !
 
 -*who_persine
-Que veux-tu faire Alvante ?
+      Que veux-tu faire Alvante ?
 
 -*who_rustan
 Quelle est de ce vieillard l'entreprise⁎ insolente !
@@ -1960,7 +1960,7 @@ Mais j'ay dit toutesfois la pure verité.
 Toy Persine !
 
 -*who_persine
-A ce mot, si ton cœur irrité
+      A ce mot, si ton cœur irrité
 De ma perte, conçoit une plus forte enuie,
 Il est vray, je la suis, arrache moy la vie.
 
@@ -1968,10 +1968,10 @@ Il est vray, je la suis, arrache moy la vie.
 Seigneur considerez
 
 -*who_persine
-Que fais-tu ?
+      Que fais-tu ?
 
 -*who_alvante
-Ces cheveux
+      Ces cheveux
 Qu'elle serre au dedans entortillez par nœuds :
 
 -*who_soliman
@@ -1981,7 +1981,7 @@ Mais quelle occasion en ce pays t'ameine ?
 Seigneur, je le diray.
 
 -*who_persine
-La naturelle hayne
+      La naturelle hayne
 Que contre ta personne, et contre tous les tiens,
 Dans ce cœur genereux⁎ de tout temps j'entretiens,
 Est l'unique sujet qui m'ameine en Syrie,
@@ -1999,7 +1999,7 @@ Soubs la foy⁎ de l'hymen entr'eux deux destiné.
 Que tu me fais de tort !
 
 -*who_soliman
-Dieu que viens-je d'entendre⁎ !
+      Dieu que viens-je d'entendre⁎ !
 
 -*who_rustan
 Voilà cet innocent qu'Acmat vouloit deffendre !
@@ -2008,7 +2008,7 @@ Voilà comme ce fils avec le Perse est joint,
 Voilà sa trahison.
 
 -*who_acmat
-Dieu la triste avanture !
+      Dieu la triste avanture !
 
 -*who_soliman
 Je le reconnois trop, ah fils contre nature,
@@ -2019,7 +2019,7 @@ De quels maux je punis de pareils attentats.
 O deplorable Sort !
 
 -*who_soliman
-Soldats, qu'on me l'emmeine,
+      Soldats, qu'on me l'emmeine,
 Dans un obscur cachot en attendant sa peine ;
 Et toy, vieillard, suy moy, tu seras mis aux fers.
 
@@ -2027,9 +2027,9 @@ Et toy, vieillard, suy moy, tu seras mis aux fers.
 O Persine.
 
 -*who_persine
-O tourmens d'une main douce offers !
+      O tourmens d'une main douce offers !
 
-**** *book_ *id_body-7-5 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-705 *act_ *date_1637 *creator_vion
 
 -*who_soldat
 Madame, de vos maux j'ay si fort l'ame attainte,
@@ -2073,7 +2073,7 @@ Tout froid, jusqu'en mon cœur, par mes yeux a passé,
 Me saisissant la langue et le pied tout ensemble,
 Oste la voix à l'une et fait que l'autre tremble.
 
-**** *book_ *id_body-7-6 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-706 *act_ *date_1637 *creator_vion
 
 -*who_mustapha
 Vas t'en, et si quelqu'un venoit dessus mes pas,
@@ -2122,7 +2122,7 @@ Le Roy, brave Seigneur, l'a mise entre nos mains,
 Jugez par là du reste.
 
 -*who_mustapha
-O Destins inhumains !
+      O Destins inhumains !
 En quel estat apres une si longue perte,
 Maintenant à mes yeux, par vous est-elle offerte !
 Persine prisonniere ! et pour tout reconfort,
@@ -2211,7 +2211,7 @@ Et quand tant de beauté ne te pourroit deffendre,
 Si quelqu'un doit mourir, J'ay du sang à respandre.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-8-1 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-801 *act_ *date_1637 *creator_vion
 
 -*who_mustapha
 Faut-il donc que ce fer, trop aimable Persine,
@@ -2257,7 +2257,7 @@ Qu'en allant l'un et l'autre ensemble au monument⁎ ;
 Allons mourir ensemble, et qu'au moins en ce monde
 Nostre sang dans la mort se mesle et se confonde.
 
-**** *book_ *id_body-8-2 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-802 *act_ *date_1637 *creator_vion
 
 -*who_la_reine
 Seline, c'en est faict, son arrest⁎ est donné,
@@ -2273,7 +2273,7 @@ Vouloient que vous eussiez de vous-mesme pitié.
 Mais il meurt innocent.
 
 -*who_seline
-Il deviendroit coupable,
+      Il deviendroit coupable,
 Empescher de faillir c'est estre charitable.
 
 -*who_la_reine
@@ -2283,7 +2283,7 @@ Non, je ne puis souffrir⁎ ce reproche en mon ame,
 Je veux tout declarer.
 
 -*who_seline
-Gardez-vous-en, Madame,
+      Gardez-vous-en, Madame,
 Si vous vous accusez, vous attirez sur vous,
 Du juste Soliman, la haine et le courroux.
 
@@ -2291,10 +2291,10 @@ Du juste Soliman, la haine et le courroux.
 N'importe.
 
 -*who_seline
-Parlez bas, car nous serions perdues,
+      Parlez bas, car nous serions perdues,
 Si celuy-cy qui vient nous avoit entenduës⁎.
 
-**** *book_ *id_body-8-3 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-803 *act_ *date_1637 *creator_vion
 
 -*who_ormene
 Possediez-vous, Madame, un eternel bon-heur,
@@ -2382,15 +2382,15 @@ Fussent creus fils du Roy, mesme malgré leur sort.
 O prodige !
 
 -*who_seline
-O merveille !
+      O merveille !
 
 -*who_la_reine
-Allons donc tout à l'heure
+      Allons donc tout à l'heure
 Empescher si je puis que mon cher fils ne meure,
 Et si l'ayant trouvé je le pers aujourd'huy,
 Moy-mesme je mourray de regret et d'ennuy⁎.
 
-**** *book_ *id_body-8-4 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-804 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Je sens, fidelle Acmat, une pareille crainte
@@ -2410,25 +2410,25 @@ Un Pere sçauroit-il jamais trop differer ?
 Mais Dieu ! voicy la Reyne et Rustan qui l'arreste,
 A quelque autre dessein leur malice s'appreste ?
 
-**** *book_ *id_body-8-5 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-805 *act_ *date_1637 *creator_vion
 
 -*who_rustan
 Mais Madame, escoutez ;
 
 -*who_la_reine
-Je t'ay trop escouté :
+      Je t'ay trop escouté :
 Ta trahison aura ce qu'elle a merité.
 Non, toutes ces raisons ne m'en peuvent distraire.
 J'apperçoy Soliman.
 
 -*who_rustan
-Hé ! que pensez-vous faire ?
+      Hé ! que pensez-vous faire ?
 
 -*who_la_reine
 Seigneur, c'est à moy seule
 
 -*who_rustan
-O Ciel, je suis perdu !
+      O Ciel, je suis perdu !
 
 -*who_la_reine
 A qui de Mustapha le chastiment est deu ;
@@ -2447,7 +2447,7 @@ J'ay de mon propre fils creusé la sepulture.
 Mustapha vostre fils !
 
 -*who_la_reine
-Ouy, Sire, asseurément :
+      Ouy, Sire, asseurément :
 Ce vieillard me l'enseigne, et vous sçaurez comment :
 Cependant de Rustan l'ambition couverte⁎
 M'a fait injustement travailler à sa perte,
@@ -2464,7 +2464,7 @@ Que son funeste arrest⁎ ne s'exécute pas.
 O doux commandement !
 
 -*who_ormene
-O bien-heureux Ormene !
+      O bien-heureux Ormene !
 
 -*who_soliman
 Mais j'apprehende fort que leur course soit vaine.
@@ -2482,7 +2482,7 @@ Et que j'aille embrasser⁎ celuy que j'ay fait naistre.
 -*who_soliman
 Allez, Madame, allez, et l'amenez icy.
 
-**** *book_ *id_body-8-6 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-806 *act_ *date_1637 *creator_vion
 
 -*who_soliman
 Je ne puis rien comprendre à tout ce discours cy !
@@ -2526,7 +2526,7 @@ Puis-je mourir apres d'une assez rude mort.
 -*who_acmat
 Seigneur, voicy la Reyne, et son Fils qu'elle embrasse⁎.
 
-**** *book_ *id_body-8-7 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-807 *act_ *date_1637 *creator_vion
 
 -*who_la_reine
 C'est le subject, mon Fils, d'où provient ta disgrace,
@@ -2534,14 +2534,14 @@ Et sur tout de la lettre ; Il ne te reste plus
 Qu'à te justifier au Prince, là dessus.
 Le voilà qui t'attend pour ouyr ta deffence.
 
-**** *book_ *id_body-8-8 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-808 *act_ *date_1637 *creator_vion
 
 -*who_osman
 O triste desespoir ! ô divine vangeance !
 Seigneur, Rustan est mort !
 
 -*who_soliman
-Comment ! de quelle mort !
+      Comment ! de quelle mort !
 
 -*who_osman
 Il a fait sur soy-mesme un violent effort.
@@ -2550,7 +2550,7 @@ Il a fait sur soy-mesme un violent effort.
 Et pour quelle raison ?
 
 -*who_osman
-Ayant veu que Madame
+      Ayant veu que Madame
 Accusoit sa malice, et son injuste trame,
 Il est dans son logis accouru furieux,
 Et d'un coup de sa main tombé mort à mes yeux.
@@ -2654,7 +2654,7 @@ Aussi pardonnez-moy si sans vostre congé⁎
 Dans cét amour suspect mon cœur s'est engagé,
 Le plus juste sujet de toutes mes traverses.
 
-**** *book_ *id_body-8-9 *act_ *date_1637 *creator_vion
+**** *book_ *id_body-809 *act_ *date_1637 *creator_vion
 
 -*who_gentilhomme
 Seigneur, voicy venir l'Ambassadeur des Perses.

@@ -52,7 +52,7 @@ Les Exemplaires ont esté fournis ainsi qu'il est plus amplement
 
 porté par lesdites Lettres de Privilege.
 
-**** *book_ *id_body-5-1 *act_acte1 *date_1638 *creator_chevreau
+**** *book_ *id_acte101 *act_acte1 *date_1638 *creator_chevreau
 
 -*who_senateur
 Nous nous sommes punis en le voulant punir,
@@ -130,7 +130,7 @@ Sans doute sa fureur perdra sa violance :
 A quelques accidens que m'engage le sort⁎,
 Je ne puis en tout cas endurer qu'une mort.
 
-**** *book_ *id_body-5-2 *act_acte1 *date_1638 *creator_chevreau
+**** *book_ *id_acte102 *act_acte1 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Vous voyez aujourd'huy que son inquietude
@@ -210,14 +210,14 @@ Vous pouvez librement luy donner audience.
 Il ne trouvera pas dequoy se consoler ;
 Voyons-le toute-fois, & l'entendons parler.
 
-**** *book_ *id_body-5-3 *act_acte1 *date_1638 *creator_chevreau
+**** *book_ *id_acte103 *act_acte1 *date_1638 *creator_chevreau
 
 -*who_sicinie
 Dans les ressentimens⁎ d'une peine infinie,
 Et parmy les remords…    
 
 -*who_coriolan
-C'est donc toy, Sicinie ?
+      C'est donc toy, Sicinie ?
 Dans mes premiers regrets tu m'as abandonné,
 Et dedans le dernier m'as tu pas condamné ?
 Crois-tu bien me surprendre ? as-tu l'effronterie
@@ -335,13 +335,13 @@ Si j'en puis voir un fleuve aussi grand que le Tybre.
 Ruiner son païs, & tuer ses parens⁎,
 N'a rien de genereux⁎ ; c'est le fait des Tyrans.
 
-**** *book_ *id_body-5-4 *act_acte1 *date_1638 *creator_chevreau
+**** *book_ *id_acte104 *act_acte1 *date_1638 *creator_chevreau
 
 -*who_aufidie
 Que vouloit ce Romain ?
 
 -*who_sicinie
-Qu'au fort de nos tempestes
+      Qu'au fort de nos tempestes
 Il vous plût d'écouter nos tres-humbles requestes.
 
 -*who_aufidie
@@ -398,7 +398,7 @@ Et pour elle & pour vous serve de cimetiere.
 Dieux nous sommes perdus ! n'esperons plus de bien⁎,
 Nostre meilleure attente est de n'attendre rien.
 
-**** *book_ *id_body-6-1 *act_acte2 *date_1638 *creator_chevreau
+**** *book_ *id_acte201 *act_acte2 *date_1638 *creator_chevreau
 
 -*who_senateur
 Sicinie est-il vray ? seroit-il bien croyable
@@ -542,7 +542,7 @@ Rendons nous s'il se peut les Astres plus propices⁎.
 Sur tout asseurez vous que dedans nos mal-heurs
 Vous verserez du sang si nous versons des pleurs.
 
-**** *book_ *id_body-6-2 *act_acte2 *date_1638 *creator_chevreau
+**** *book_ *id_acte202 *act_acte2 *date_1638 *creator_chevreau
 
 -*who_verginie
 Allons, Madame, allons, & que ce nom de mere
@@ -646,7 +646,7 @@ Nos pleurs, & nos sanglots y mettront un obstacle ;
 Ou si nos propres maux ne le peuvent ranger
 Nous vangerons sur nous l'afront qu'il veut vanger.
 
-**** *book_ *id_body-6-3 *act_acte2 *date_1638 *creator_chevreau
+**** *book_ *id_acte203 *act_acte2 *date_1638 *creator_chevreau
 
 -*who_sancine
 Vostre gloire⁎ sur tout trouble⁎ sa fantaisie⁎,
@@ -688,7 +688,7 @@ Mon sort⁎ est glorieux d'une telle conqueste,
 Et je meurs trop content en ce que j'ay soubmis
 Soubmettant les Romains, mes plus grands ennemis.
 
-**** *book_ *id_body-6-4 *act_acte2 *date_1638 *creator_chevreau
+**** *book_ *id_acte204 *act_acte2 *date_1638 *creator_chevreau
 
 -*who_aufidie
 A quoy reservons nous la force de nos armes,
@@ -706,7 +706,7 @@ Il semble que leur mort cause vostre douleur
 Vous ont-ils pas bany ?
 
 -*who_coriolan
-Genereux⁎ Aufidie,
+      Genereux⁎ Aufidie,
 Ne me soupçonnez point d'aucune perfidie ;
 Je garderay ma foy⁎, rien ne me peut changer,
 Je vous dois satisfaire, & je me doy vanger :
@@ -733,7 +733,7 @@ Que je la fis l'objet de toute ma fureur,
 Et que le Ciel devoit me fournir une foudre
 Qui dans une heure ou deux la va reduire en poudre.
 
-**** *book_ *id_body-7-1 *act_acte3 *date_1638 *creator_chevreau
+**** *book_ *id_acte301 *act_acte3 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Madame en cét estat je ne puis vous parler.
@@ -889,7 +889,7 @@ Les plus rudes chemins qui meinent au trépas.
 Ma mort est un exemple.
 
 -*who_coriolan
-Ah, Madame, je tremble !
+      Ah, Madame, je tremble !
 
 -*who_velumnie
 Mon fils, que de mal-heurs vous causerez ensemble !
@@ -930,7 +930,7 @@ Et contre l'aparence, & contre vostre atente.
 Durant ce peu de temps je vais prier les Dieux
 Qu'ils veuillent vous ouvrir, & l'esprit & les yeux.
 
-**** *book_ *id_body-7-2 *act_acte3 *date_1638 *creator_chevreau
+**** *book_ *id_acte302 *act_acte3 *date_1638 *creator_chevreau
 
 -*who_aufidie
 Sancine j'ay bien peur qu'en fin tant de paroles
@@ -986,7 +986,7 @@ Et que tout nostre bien⁎ dépend de son courage ;
 Que je ne puis attendre, & que dans cette nuit
 Il faut que son païs soit tout à fait détruit.
 
-**** *book_ *id_body-7-3 *act_acte3 *date_1638 *creator_chevreau
+**** *book_ *id_acte303 *act_acte3 *date_1638 *creator_chevreau
 
 -*who_coriolan
 
@@ -1069,7 +1069,7 @@ Je te rendray l'horreur des siecles à venir.
 
 Sancine vient icy, que luy pourray-je dire !
 
-**** *book_ *id_body-7-4 *act_acte3 *date_1638 *creator_chevreau
+**** *book_ *id_acte304 *act_acte3 *date_1638 *creator_chevreau
 
 -*who_coriolan
 S'il se peut cher amy, soulage mon martire
@@ -1094,14 +1094,14 @@ Qui fera quelque jour l'ornement de l'histoire ;
 Que pouvez vous réver ?
 
 -*who_coriolan
-Non, je ne réve plus ;
+      Non, je ne réve plus ;
 Car ces empeschemens seront tous superflus,
 Je suivrois de bon cœur leur legitime envie :
 Mais je doy conserver mon honneur & ma vie.
 Allons, je veux user d'un pouvoir absolu,
 Les Romains periront j'y suis trop resolu.
 
-**** *book_ *id_body-8-1 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte401 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_aufidie
 C'est ainsi qu'il faut prendre un si bel avantage,
@@ -1151,7 +1151,7 @@ Ne nous laissons pas vaincre à leurs douces amorces⁎ ;
 Artifice, courage, honneur, vangeance, foy⁎,
 Ne m'abandonnez pas, & combatez pour moy.
 
-**** *book_ *id_body-8-2 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte402 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_aufidie
 Sancine tout va bien, je voy l'afaire preste.
@@ -1205,7 +1205,7 @@ Qu'ils sentiront les feux ; qu'ils seront dans les fers ;
 Et que de tous les maux dont on punit une ame,
 Le moindre qu'ils auront est le fer & la flame.
 
-**** *book_ *id_body-8-3 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte403 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_coriolan
 J'y résve bien encore, & je ne puis treuver
@@ -1375,7 +1375,7 @@ Et qu'elles m'ont forcé de mettre bas les armes.
 Ouy, j'y vais de bon cœur, & demain du matin
 Je vous suivray par tout où voudra mon destin.
 
-**** *book_ *id_body-8-4 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte404 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_aufidie
 J'ay bien peur qu'à la fin la pitié⁎ ne le tente,
@@ -1389,7 +1389,7 @@ Il me semble à tous coups qu'il craint de revenir ;
 Sancine, qu'en crois-tu ?
 
 -*who_sancine
-Qu'il vous fera parestre
+      Qu'il vous fera parestre
 Qu'il hait ce peuple ingrat, & qu'il n'est pas un traistre
 Qu'il sçait executer tout ce qu'il a promis,
 Et qu'il voit les Romains comme ses ennemis.
@@ -1406,7 +1406,7 @@ Je connois dés long temps ce vaillant Capitaine,
 Dans ce qu'il entreprend rien ne le peut changer,
 Outre que son humeur⁎ le porte à se vanger.
 
-**** *book_ *id_body-8-5 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte405 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Elles rentrent dans Rome, & sans aucune envie
@@ -1428,7 +1428,7 @@ Je voy bien que ma crainte est moins qu'une chimere⁎,
 Et dedans cét espoir dont je me sens flater,
 Je m'en vais donner ordre à ce qu'il faut tenter.
 
-**** *book_ *id_body-8-6 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte406 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Il n'a pas bien compris ce que je viens de dire,
@@ -1438,7 +1438,7 @@ Ma parole est donnée, il n'y faut plus songer :
 Je pardonne aux Romains.
 
 -*who_sancine
-Ce pardon m'épouvante,
+      Ce pardon m'épouvante,
 Gardez bien que le sort⁎ ne trompe vostre attente ;
 Ne nous abusez pas de semblables propos,
 S'ils sont en liberté, vous serez sans repos
@@ -1455,7 +1455,7 @@ Non, non, son interest⁎ vous doit estre plus cher.
 Ayant mal commencé, je doy finir de mesme :
 Mais suy moy seulement si tu veux que je t'aime.
 
-**** *book_ *id_body-8-7 *act_acte4 *date_1638 *creator_chevreau
+**** *book_ *id_acte407 *act_acte4 *date_1638 *creator_chevreau
 
 -*who_verginie
 Ouy, je vous en asseure, il pardonne aux Romains,
@@ -1479,7 +1479,7 @@ Que le triomphe au moins suivra cette victoire,
 Et que tous les Romains vous restent obligez⁎
 Apres tant de tourmens dont vous les soulagez.
 
-**** *book_ *id_body-9-1 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte501 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_aufidie
 Quoy ! le siege est levé ? voulez vous qu'Aufidie
@@ -1565,14 +1565,14 @@ Il ne vous reste plus qu'à tenter mon courage :
 N'allez pas plus avant.
 
 -*who_aufidie
-Peut-estre que les Dieux
+      Peut-estre que les Dieux
 Reconnétront bien tost vos soins⁎ officieux.
 
 -*who_coriolan
 Je poursuy mes desseins, & mal-gré tous les vostres
 Je me puis bien sauver si je sauve les autres.
 
-**** *book_ *id_body-9-2 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte502 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_verginie
 Apres tous ces honneurs il faut le visiter,
@@ -1600,7 +1600,7 @@ Capables de forcer & les cœurs & les armes ;
 Mais vous remarquerez…
 
 -*who_verginie
-Camille tout va bien,
+      Camille tout va bien,
 Avec Coriolan je n'aprehende rien.
 Ce point seul me soulage, & je suis assurée
 De gouster des plaisirs d'une longue durée.
@@ -1635,7 +1635,7 @@ Nous devons partager une semblable mort.
 Madame, je le veux, je vous suy sans contrainte :
 Mais pourtant ce dessein me fait trembler de crainte.
 
-**** *book_ *id_body-9-3 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte503 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_aufidie
 Observez mes amis le tout de point en point,
@@ -1711,7 +1711,7 @@ Il ne peut desormais eviter le trépas ;
 Et je m'en vais le voir avec fort peu de conte
 Aussi couvert de sang qu'il nous couvre de honte.
 
-**** *book_ *id_body-9-4 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte504 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Fais ce que je te dis si tu veux m'obliger⁎,
@@ -1769,7 +1769,7 @@ Et tu n'as qu'à tarder pour me faire mourir.
 J'ay suivy vos desseins sans regret & sans crainte,
 Et je vous obeïs encore sans contrainte.
 
-**** *book_ *id_body-9-5 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte505 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_coriolan
 Il est vray que j'ay tort, & je dois l'advouër,
@@ -1787,7 +1787,7 @@ Cette faveur sans doute est digne de loüange,
 Et je seray trop cher à la posterité
 D'avoir servy des gens qui m'avoient irrité⁎.
 
-**** *book_ *id_body-9-6 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte506 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_lieutenant_volsque
 Il est tout à propos, nostre entreprise⁎ est belle
@@ -1813,7 +1813,7 @@ De peur de voir tousjours cét objet odieux ;
 Aufidie en doit estre adverty de bonne heure,
 Et la fuitte pour nous est icy la meilleure.
 
-**** *book_ *id_body-9-7 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte507 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_verginie
 Camille attens moy là, je reviens prontement,
@@ -1825,7 +1825,7 @@ Et jusqu'où peut aller toute nostre entreprise⁎.
 Je vous attens, Madame, il faut vous obeïr :
 Mais songez apres tout à ne vous pas trahir.
 
-**** *book_ *id_body-9-8 *act_acte5 *date_1638 *creator_chevreau
+**** *book_ *id_acte508 *act_acte5 *date_1638 *creator_chevreau
 
 -*who_verginie
 L'amour, Coriolan, me force de te suivre,

@@ -659,7 +659,7 @@ Les Exemplaires ont esté fournis.
  – Deux Pages.
  – Deux Janissaires.
 La Scene est au Serrail [63].
-< ROXELANE. >< TRAGI-COMEDIE. >
+
 
 
 ## ACTE PREMIER.
@@ -677,7 +677,7 @@ Puis qu'elle suit Circasse impuissante qu'elle est.
 Trouvez bon que ma voix décharge ma pensée  
 Du triste souvenir de ma gloire passée,  
 Et si vous ne pouvés combattre mes mal-heurs  
-Aidés moy pour le moins à plaindre mes douleurs.                   
+Aidés moy pour le moins à plaindre mes douleurs.  
 Puis que par l'entretien d'un amy veritable  
 Le bien devient plus grand le mal plus supportable  
 Vous sçavez, cher Acmat, vous sçavez qu'en ce jour  
@@ -705,7 +705,7 @@ Que quiconque peut choir ne se peut dire heureux.
 J'appris par le succés de ma fortune⁎ éteinte  
 Qu'on peut aimer les Roys, mais toûjours avec crainte ;  
 Que comme le Soleil de mesme leur amour  
-En quelque lieu qu'il aille y fait suivre le jour.                      
+En quelque lieu qu'il aille y fait suivre le jour.  
 Si tost que Soliman m'éloigna de sa grace  
 Pour mettre dans son cœur Roxelane en ma place  
 Que sans considerer ni moy ni Mustafa  
@@ -732,7 +732,7 @@ Que l'espérance quitte et que la crainte tuë.
     ACMAT.
 Vostre crainte il est vray n'est pas sans fondement  
 Comme vous je redoute un triste evenement⁎ :  
-Mais dans l'estat present je crois de la prudence                      
+Mais dans l'estat present je crois de la prudence  
 De ne rien tesmoigner de cette deffiance,  
 Autrement nous donnons sujet [69] d'executer  
 Ce qu'en dissimulant nous pouvons éviter.  
@@ -758,7 +758,7 @@ D'un combat inégal l'issuë est perilleuse.
 Certaine de ma mort en craindre une douteuse ?  
 
     ACMAT.
-Perdre ses ennemis pour perir avec eux                          
+Perdre ses ennemis pour perir avec eux  
 Tient du desesperé plus que du genereux.  
 
     CIRCASSE.
@@ -782,7 +782,7 @@ Mais depuis que l'amour eut rangé sous ses loix
 Celui qui peut ranger sous les siennes des Roys,  
 Incontinent⁎ on vit en ceste adroite femme  
 Joindre aux beautés du cors [71] les puissances de l'âme,  
-Cet esprit agissant [72] remplit toute la cour,                       
+Cet esprit agissant [72] remplit toute la cour,  
 En ostant et donnant, de terreur, et d'amour,  
 Et rendit tellement sa puissance affermie  
 Qu'elle ne doit plus craindre une attainte ennemie :  
@@ -802,11 +802,11 @@ Et si le fer⁎ nous manque employons le poison.
 Mais qui le donnera ?  
 
     CIRCASSE.
-            Quelqu'un de sa maison.  
+                    Quelqu'un de sa maison.  
 
     ACMAT.
 Saches qu'en sa maison personne ne se trouve  
-Dont la fidelité ne soit mise à l'épreuve.                           
+Dont la fidelité ne soit mise à l'épreuve.  
 
     CIRCASSE.
 Treuve t'on dans la cour de la fidelité ?  
@@ -822,7 +822,7 @@ Pour qui peut plus donner bien-tost nous abandonne.
 Suppozé que l'argent ait assés de pouvoir  
 Pour en faire sortir quelqu'un de son devoir,  
 Croyés vous rencontrer de la foy dans un traistre  
-Et qu'il en ait pour vous en manquant pour son Maistre ?               
+Et qu'il en ait pour vous en manquant pour son Maistre ?  
 Comme pour de l'argent il la [74] vous donnera  
 Ainsi pour de l'argent il vous en manquera,  
 Et si vostre entreprise est enfin découverte  
@@ -846,7 +846,7 @@ Nous met dans le naufrage⁎ et du naufrage au port
 Pour ma seule vertu je prends la patience  
 Et desormais la feinte est ma seule science.  
 
-    ACMAT.    
+    ACMAT.
 Pour moy que la fortune⁎ a toujours destiné,  
 A perdre les cadets pour asseurer l'aîné,  
 Je suis bien resolu de hazarder ma vie,  
@@ -867,7 +867,7 @@ Sur tout preparés-vous contre ses artifices.
 Que je vous doy de biens pour tant de bons offices [77].  
 
 
-### SCENE II                    
+### SCENE II
 ROXELANE, LE MUFTI
 
 
@@ -891,7 +891,7 @@ Voulust par vanité faire naufrage⁎ au port [78].
 Le pouvoir absolu que l'Empereur vous donne  
 Est indigne de vous sans avoir sa couronne ?  
 Vous voulés partager avecques Soliman,  
-La puissance, le Sceptre, et le Trosne Othoman,                   
+La puissance, le Sceptre, et le Trosne Othoman,  
 Et divisant l'Estat il faut qu'on affoiblisse,  
 Pour vous communiquer le rang d'Imperatrice ?  
 Croyez-vous que ce peuple ardant et genereux,  
@@ -915,7 +915,7 @@ Du sang paléologue [83] une illustre beauté,
 Compagne de son lit comme de son empire,  
 Ressentit de ses maux le dernier et le pire [84]:  
 Et pour ressouvenir de son ressentiment,       
-Aux Roys ses successeurs laissa par testament,                       
+Aux Roys ses successeurs laissa par testament,  
 D'oster de leur Estat la qualité de Reyne  
 Pour ne jamais soufrir une pareille peine.  
 
@@ -940,7 +940,7 @@ J'epouze Soliman ou bien la sepulture.
 De ce dessein je crains quelque étrange avanture,  
 Et qu'à ce grand empire il ne couste du sang⁎.  
 
-    ROXELANE.     
+    ROXELANE.
 S'il en est répandu ce sera de ce flanc.  
 
     LE MUFTI.
@@ -965,13 +965,13 @@ Et ne me blasmés plus de ma presomption.
     LE MUFTI.
 Mais je voy du peril en l'execution.  
 
-    ROXELANE.     
+    ROXELANE.
 Le chemin que je tiens [86] n'est pas la violence,  
 Je ne veux seulement que vostre confidence,  
 Me la puis-je promettre ?  
 
     LE MUFTI.
-            Attendés tout de moy,  
+                    Attendés tout de moy,  
 Et bien que vos desseins me donnent de l'effroy⁎,  
 Et que de grands hazards precedent la victoire,  
 J'iray mesme à la mort si c'est pour vostre gloire.  
@@ -988,7 +988,7 @@ Que mesme l'Empereur m'en vienne suplier.
 Immortels [87] je vous fais une injuste priere,  
 Soyez les protecteurs d'un dessein temeraire.  
 
-    ROXELANE.     
+    ROXELANE.
 Vous verrez qu'il est juste et que les immortels,  
 Veullent pour m'y servir employer leurs Autels,  
 Et lors que vous sçaurés mes moyens infaillibles,  
@@ -1006,7 +1006,7 @@ La Sultane Circasse est ici prés, Madame,
 Qui demande à vous voir.  
 
     ROXELANE. 
-            C'est à ce coup [88], mon ame,  
+        C'est à ce coup [88], mon ame,  
 Le Mufti rentre.
 
 Qu'il faut faire merveille en l'art de decevoir⁎,  
@@ -1014,7 +1014,7 @@ Adieu, cher confident, je vay la recevoir.
 A sa simplicité je vay tendre les charmes⁎,  
 Circasse paroist.
 
-De la langue, des yeux, s'il est besoin des larmes.                   
+De la langue, des yeux, s'il est besoin des larmes.  
 Mais la voicy. Comment vous souvenir de moy,  
 Me venir rendre icy l'honneur⁎ que je vous doy ?  
 Vostre bonté sans cesse en ma faveur éclate,  
@@ -1040,7 +1040,7 @@ Cet amour bien que grand n'efface pas ma crainte.
 Vous craindre ? qui pouvez possedant Soliman  
 D'un mot faire trembler tout l'Empire Othoman.  
 
-    ROXELANE.     
+    ROXELANE.
 La crainte a ce mal-heur pour celuy qui la donne,  
 Qu'en la donnant, jamais elle ne l'abandonne.  
 
@@ -1054,7 +1054,7 @@ Qui se veut faire craindre en est toujours hay.
 Qui vous pourroit hayr ?  
 
     ROXELANE.
-            Ceux qui me peuvent craindre,  
+                    Ceux qui me peuvent craindre,  
 Où se peuvent former des sujets de se plaindre.  
 
     CIRCASSE.
@@ -1075,7 +1075,7 @@ Dans mon esprit confus porte l'étonnement,
 De grace expliqués-vous.  
 
     ROXELANE.
-            Sçachés qu'en la journée  
+                    Sçachés qu'en la journée  
 Que toute autre que moy nommeroit fortunée,  
 Quand l'Empereur m'aymant pour si peu de beauté,  
 Fist d'un dessein d'amour un acte de bonté,  
@@ -1087,7 +1087,7 @@ Depuis ce jour fatal les soupçons, et la crainte
 Tiennent également mon esprit en contrainte ;  
 Aussi-tôt que je vy que le Roy vous quittant,  
 Prenoit en ma faveur le titre d'inconstant,  
-Et qu'il m'agrandissoit à vostre prejudice [89];                      
+Et qu'il m'agrandissoit à vostre prejudice [89];  
 Je cru qu'il vous rendoit une extreme injustice.  
 A vous de qui la cause [90] avoit pour son support  
 Vostre fils que l'Empire attend apres sa mort ;  
@@ -1114,7 +1114,7 @@ Que par une vertu qui passe l'ordinaire :
 Aymer ces ennemis c'est la vertu des Dieux  
 Que jamais les mortels n'ont pu tirer des Cieux.  
 
-    ROXELANE. 
+    ROXELANE.
 Croyant avec raison meriter vostre hayne,  
 Je la doy recevoir comme une juste peine,  
 Et recevant de vous ce juste chastiment  
@@ -1141,7 +1141,7 @@ Du moins souvenez-vous que mon esprit mal sein [94],
 Vous dépleût par foiblesse et non pas par dessein ;  
 Et reglés desormais la suite de ma vie.  
 
-    CIRCASSE.     
+    CIRCASSE.
 De si hautes faveurs surpassent mon envie :  
 J'attends beaucoup de vous mais je dois recevoir  
 Tout de vostre bonté, rien de vostre devoir.  
@@ -1159,14 +1159,14 @@ Que dans cet entretien j'ay trouvé de douceur
 Ma soeur jusqu'au revoir.  
 
     ROXELANE. 
-            Adieu ma chere soeur.  
+        Adieu ma chere soeur.  
 
     CIRCASSE *s'estant séparée.*
 De quelque faux appas⁎ que ton discours se farde  
 Je suis bien resoluë à me donner de garde. [96]  
 
 
-### SCENE IV                    
+### SCENE IV
 
     ROXELANE.
 Je vous croiray, Circasse, et vous et vostre fils  
@@ -1187,7 +1187,7 @@ Le feu s'il est besoin, et que ta rage assemble
 En un mesme cercueil, et mere, et fils ensemble.  
 L'ennemy qu'on previent est demy combatu [97] :  
 Mais d'un assassinat je fais une vertu,  
-Fuyons la cruauté qu'abhorre la nature :                      
+Fuyons la cruauté qu'abhorre la nature :  
 Mais c'est une vertu quand elle nous asseure.  
 Tremperois-je mes mains dans le sang Othoman [98] ?  
 Mes fils ne sont-ils pas du sang de Soliman ?  
@@ -1217,7 +1217,7 @@ Faisons ce coup d'esprit qui nous mette en état
 De pouvoir éviter et faire un attentat [103].  
 
 
-## ACTE II                        
+## ACTE II
 
 
 ### SCENE PREMIERE
@@ -1240,7 +1240,7 @@ Que par luy je possede un tresor si charmant.
 Loin d'en rougir, Acmat, je veux que les histoires  
 Parlent de mon amour comme de mes victoires,  
 Que la posterité me nomme également  
-Prince victorieux et bien heureux amant.                       
+Prince victorieux et bien heureux amant.  
 
     ACMAT.
 Seigneur je sçay qu'en vain on offre le remède  
@@ -1250,7 +1250,7 @@ Lors que la verité combat la passion.
 Toutefois mon devoir,  
 
     LE MUFTI.
-            Aprenez pour maxime  
+                    Aprenez pour maxime  
 Que quiconque censure [105] un Roy commet un crime,  
 Et que vous ne pouvés sans une impiété  
 Ni des Roys ni des Dieux choquer⁎ la volonté.  
@@ -1267,7 +1267,7 @@ Un Prince peut et doit revoquer ses Arrests.
 On ne contredit pas, on suplie on remonstre,  
 Apres un sage Roy decide, ou pour, ou contre.  
 
-    SOLIMAN.     
+    SOLIMAN.
 Parlez parlez, Acmat, j'écoute librement  
 Mon amour se soûmet à vostre sentiment.  
 Comme d'un Potentat [107] c'est le bon-heur supréme,  
@@ -1292,7 +1292,7 @@ Si bien que vostre peuple à bon droit delibere
 S'il vous doit appeller, son Seigneur, ou son pere:  
 Et des felicitez dont nous jouyssons tous,  
 La plus considerable est d'estre aymez de vous.  
-Quoy qu'indigne d'un bien si grand si desirable,                   
+Quoy qu'indigne d'un bien si grand si desirable,  
 Nous l'estimions pourtant autrefois plus durable :  
 Lors que lassé des soins⁎ et sorty des dangers  
 Vous vous divertissiez aux plaisirs passagers,  
@@ -1320,7 +1320,7 @@ Duquel la tiranie [108] insolemment vous brave
 Vous faisant d'Empereur l'esclave d'un' [109] esclave,  
 Ouy Seigneur cet amour qui vous tient enchanté [110]  
 Donne ces sentimens à ma fidelité.  
-A tel point de mépris ce tiran vous engage                      
+A tel point de mépris ce tiran vous engage  
 Que vos ennemis mesme en tirent avantage,  
 Et ceux qui ne pensoient qu'à parer à vos cous  
 Se trouvent en état de triomfer de vous.  
@@ -1347,7 +1347,7 @@ Au Soleil qui la donne elle demeure entiere ;
 Et bien que Roxelane ait part en ma grandeur  
 Croyez-vous que ma gloire en perde sa splendeur.  
 Au contraire par là forçant les destinées,  
-Je veux que mon renom triomphe des années,                   
+Je veux que mon renom triomphe des années,  
 Que ces Roys ennemis sçachent, qu'au dessus d'eux  
 Je puis en un moment élever qui je veux,  
 Et que de la grandeur les veritables marques  
@@ -1371,7 +1371,7 @@ Je puis bien accorder deux foibles passions.
 Il est vray que l'amour est foible en sa naissance,  
 Mais aussi tost qu'un cœur deffere à sa puissance,  
 Il y regne en tyran, et jamais il n'en sort  
-Que par un grand bon-heur ou par un grand effort.                   
+Que par un grand bon-heur ou par un grand effort.  
 
     SOLIMAN.
 Quoy qu'il en soit, Acmat, pardonne moy si j'aime,  
@@ -1389,14 +1389,14 @@ Bien mieux que mon discours parle pour la deffence.
 Je me soûmets, Seigneur.  
 
     SOLIMAN.
-            Allez, Ormin, allez  
+                    Allez, Ormin, allez  
 Et ne lui dites pas pourquoy vous l'appellez.  
 
     ORMIN.
-Incontinent⁎ Seigneur.                               
+Incontinent⁎ Seigneur.  
 
     ACMAT.
-            Ma raison condamnée  
+                    Ma raison condamnée  
 Abandonne à ce mot le titre d'obstinée.  
 Je me soûmets, Seigneur, et suis prest devant vous  
 D'adorer, s'il vous plaist, Roxelane à genoux :  
@@ -1419,7 +1419,7 @@ Qu'elle sera modeste en son ambition. 
 Combien que vostre rang ne luy deust rien permettre :  
 L'amour de vos enfans semble tout luy promettre.  
 
-    SOLIMAN.    
+    SOLIMAN.
 Je les ayme il est vray, mais j'ayme plus les lois  
 Qui sont les vrais enfans des legitimes Roys.  
 Je veux par mes respects pour les lois anciennes  
@@ -1443,7 +1443,7 @@ Ainsi qu'à leurs sujets d'acquerir des amis.
 Donc, Acmat, l'amitié⁎ ceste vertu loüable  
 Est pour eux seulement, un crime condamnable.  
 Sortez, sortez, Acmat, de cette absurdité  
-Qui vous convainc d'erreur ou d'infidelité.                       
+Qui vous convainc d'erreur ou d'infidelité.  
 
     ACMAT.
 Pere ne croyés pas que jamais je consteste  
@@ -1468,7 +1468,7 @@ N'ayme pas pour cela, mais il rend la justice.
     SOLIMAN.
 Mais, Acmat, Roxelane adresse icy ses pas.  
 
-    ACMAT.    
+    ACMAT.
 Seigneur je me soûmets, et mets les armes bas.  
 
     SOLIMAN.
@@ -1490,7 +1490,7 @@ Seigneur, se vient soumettre à vos commandements.
 Vostre ame conservant cet ennuy⁎ qui l'oppresse,  
 Ne se peut dire à moy mais bien à la tristesse.  
 
-    ROXELANE.    
+    ROXELANE.
 La nature, Seigneur, a de puissantes lois  
 Que ne peuvent forcer ny le sort ny les Rois [115],  
 Elle a voulu regler mes humeurs, mais en sorte  
@@ -1515,7 +1515,7 @@ Qui laschement demande enseigne à refuzer.
     ROXELANE.
 Seigneur, si la raison n'estoit pas affoiblie  
 Quand le sang⁎ est vaincu par la melancholie [116],  
-Le rang dont vostre amour a voulu m'honorer                      
+Le rang dont vostre amour a voulu m'honorer  
 Me tiendroit en état de ne rien desirer ;       
 Mais, Seigneur, c'est en quoy je me plains de moy-mesme,  
 Les pompes de la Cour ny ce degré supréme,  
@@ -1540,10 +1540,10 @@ Les soins⁎ de plaire encore à la divinité,
 Et si vostre bonté m'en donne la licence [117],  
 Je feray pour le Ciel quelqu'utile dépence :  
 Mais qui demande trop est digne de refus  
-Je n'oze m'expliquer.                                   
+Je n'oze m'expliquer.  
 
     SOLIMAN.
-            Vous me rendés confus,  
+                    Vous me rendés confus,  
 Et ce discours accuze ou vous d'outrecuidance,  
 Ou moy de peu d'amour, ou de peu de puissance.  
 Que Roxelane enfin peut-elle demander ?  
@@ -1553,7 +1553,7 @@ Mon amour peut et veut contenter vostre envie.
 Que demandez-vous donc ? un Royaume.  
 
     ROXELANE.
-                        Ha ! bien moins,  
+                                Ha ! bien moins,  
 Je limite Seigneur, et mes vœux et mes soins⁎,  
 Et c'est à mes souhaits un effect assez ample  
 Que la permission d'edifier un temple,  
@@ -1562,11 +1562,11 @@ Ou l'on puisse en mon nom servir les immortels.
 C'est tout ce que je veux.  
 
     SOLIMAN. 
-            Ha la foiblesse extréme,  
+                    Ha la foiblesse extréme,  
 Femme simple ou plustost la simplicité méme  
 C'est trop peu demander d'un Prince genereux,  
 Et principalement lors qu'il est amoureux.  
-Mais puisque vostre humeur à ce dézir vous porte,                   
+Mais puisque vostre humeur à ce dézir vous porte,  
 Quoy qu'indigne de moy vous l'obtiendrez, n'importe.  
 Pere, tout à propos vous vous trouvez icy  
 C'est un œuvre [119] pieux, prenés-en le soucy,  
@@ -1579,7 +1579,7 @@ Ce que peut Soliman, ce que vaut Roxelane
 Mais qu'on depesche⁎ tost.  
 
     LE MUFTI. 
-                Seigneur, c'est un dessein  
+                        Seigneur, c'est un dessein  
 Qui ne peut étre entré dans un esprit bien sain  
 En faveur d'un esclave edifier un temple ?  
 C'est chose sans raison ainsi que sans exemple. [120]  
@@ -1588,10 +1588,10 @@ C'est chose sans raison ainsi que sans exemple. [120]
 Pourquoy ?  
 
     LE MUFTI.
-         C'est qu'un esclave est dépendant d'autruy  
+                 C'est qu'un esclave est dépendant d'autruy  
 Et quoy qu'il puisse faire il ne fait rien pour luy,  
 Le service divin en rien ne lui profite,  
-Son Maistre seul en a la grace et le merite.                       
+Son Maistre seul en a la grace et le merite.  
 Et bien que Roxelane ait la faveur d'un Roy  
 Elle est toujiours esclave, et ne peut rien de soy.  
 
@@ -1608,12 +1608,12 @@ Pouvons-nous point lever ceste difficulté ? [122]
 Je n'en sçay qu'un moyen.  
 
     SOLIMAN.
-                Quel ?  
+                    Quel ?  
 
     LE MUFTI.
-                    C'est sa liberté.  
+                            C'est sa liberté.  
 Vous pouvez s'il vous plaist finir son esclavage  
-Et la faire jouyr des fruits de son ouvrage.                       
+Et la faire jouyr des fruits de son ouvrage.  
 
     SOLIMAN.
 Soit fait, en sa faveur, et pour sa liberté  
@@ -1635,7 +1635,7 @@ Non, non vous étes libre, et n'estes plus à moy.
 Puis que de mon Seigneur la volonté l'ordonne,  
 Qu'il me donne à moy-mesme : à luy je me redonne,  
 Et je ne veux de luy que cette liberté  
-C'est de finir ma vie en ma captivité.                       
+C'est de finir ma vie en ma captivité.  
 
     SOLIMAN.
 Moi je ne veux de vous que ceste obeissance,  
@@ -1652,7 +1652,7 @@ Qu'elle choisisse un lieu, vous, Acmat, suivez moi,
 Un grand dessein que j'ay demande vostre employ.  
 
 
-### SCENE III                            
+### SCENE III
 ROXELANE, LE MUFTI
 
 
@@ -1670,7 +1670,7 @@ Pour ne pas garantir ma barque du naufrage⁎.
 
     LE MUFTI.
 Craignez son inconstance et jusques dans le port  
-S'il n'estoit inconstant, il ne seroit pas fort.                       
+S'il n'estoit inconstant, il ne seroit pas fort.  
 
     ROXELANE.
 Je croy qu'il est pour moy, sa premiere assistance  
@@ -1695,7 +1695,7 @@ Qu'il attende, en quittant l'espoir de la retraite
 Ou le succez entier ou l'entiere deffaite.  
 Pourtant quelque grand mal qui vous puisse avenir  
 Ayant bien commencé taschés à mieux finir.  
-L'occasion s'offrant ne manqués à la prendre.                   
+L'occasion s'offrant ne manqués à la prendre.  
 
     ROXELANE.
 Elle n'est pas bien loin, il ne faut que l'attendre :  
@@ -1717,14 +1717,14 @@ Non je ne vous croy pas, Roxelane est trop sage
 Page, pensez à vous ce discours vous engage.  
 
     LE PAGE.
-Je ne m'en dedis point, Seigneur, elle l'a dit.                      
+Je ne m'en dedis point, Seigneur, elle l'a dit.  
 
     SOLIMAN.
 Presque d'étonnement je demeure interdit,  
 En quels termes ?  
 
     LE PAGE.
-        Seigneur, j'ai dit à ceste belle  
+                Seigneur, j'ai dit à ceste belle  
 Que vous veniez passez ceste nuit avec elle,  
 Qu'elle se preparast à vous bien recevoir,  
 Et selon sa coutume, et selon son devoir.  
@@ -1744,7 +1744,7 @@ Qu'en bannissant l'amour se loge dans mon cœur
 La detestation et la hayne et l'horreur,  
 Et de quelques appas⁎ que ce trompeur se pare  
 Qu'il ne rencontre en moy que l'ame d'un barbare,  
-Qu'il n'y revienne plus, c'est un point resolu,                     
+Qu'il n'y revienne plus, c'est un point resolu,  
 Je reprens sur moy mesme un pouvoir absolu.  
 Mais que dis-je ? un esclave, un object de misere,  
 Un ver de terre, un rien me peut mettre en colère,  
@@ -1761,17 +1761,17 @@ Qu'il vous plaize Seigneur vous servir de quelque autre,
 Où differés un peu.  
 
     SOLIMAN.
-            Comment vous contestés.  
+                    Comment vous contestés.  
 
     ORMIN.
 Non, Seigneur, j'obey.  
 
     SOLIMAN.
-             Toutefois arrestés,  
-Je la puniray mieux.                                   
+                     Toutefois arrestés,  
+Je la puniray mieux.  
 
     RUSTAN.
-            Seigneur, qu'il vous souvienne  
+                    Seigneur, qu'il vous souvienne  
 Que vous m'avez donné vostre fille et la sienne,  
 Que par vostre bonté je possede le bien  
 De me pouvoir nommer vostre gendre et le sien.  
@@ -1794,7 +1794,7 @@ Il ne faut point attendre un second attentat :
 Mais la fragilité de son sexe l'excuse,  
 De la rebellion de laquelle on l'accuse.  
 Du moins auparavant que de vous émouvoir  
-Seigneur, permettez-moy que je la puisse voir.                      
+Seigneur, permettez-moy que je la puisse voir.  
 Je reviens aussi-tost [131] et je la vous ameine  
 Pour recevoir la grace ou recevoir la peine.  
 
@@ -1818,8 +1818,8 @@ Et d'un visage peint d'une grave froideur
 Mépriser pour le Ciel la mortelle grandeur,  
 Je n'entens point cela.  
 
-    CIRCASSE.      
-            C'est qu'elle desespere  
+    CIRCASSE.
+        C'est qu'elle desespere  
 De voir monter ses fils au trosne de leur pere,  
 Connoissant que le mien par sa rare valeur  
 Asseure sa fortune⁎ et ruinera la leur,  
@@ -1842,7 +1842,7 @@ Il faut quitter le Louvre [134] et s'éloigner du Roy
 Et cet éloignement peut causer sa disgrace  
 Et mettre ma fortune⁎ en sa premiere place.  
 Qui s'éloigne des grands entend mal la faveur  
-S'éloignant de l'oreille on s'éloigne du cœur [135].                       
+S'éloignant de l'oreille on s'éloigne du cœur [135].  
 
     ACMAT.
 La faveur et l'amour ont ceste difference,  
@@ -1865,11 +1865,11 @@ He bien mon cher Osman, que nous apportés-vous ?
 Tout succede à vos veux, la fortune⁎ se change  
 Et de vostre parti favorable se range [136].  
 
-    CIRCASSE.    
+    CIRCASSE.
 Comment ?  
 
     OSMAN.
-        Vostre rivalle est mal avec le Roy.  
+                Vostre rivalle est mal avec le Roy.  
 
     CIRCASSE.
 Agreable nouvelle, o dieux ! assistez⁎-moy :  
@@ -1878,26 +1878,26 @@ Mais, Osman est-il vray, faut-il que je le croye.
 Qui te l'a dit ?  
 
     OSMAN.
-        Personne.  
+            Personne.  
 
     CIRCASSE.
-                Et comment l'as-tu sceu ?  
+                        Et comment l'as-tu sceu ?  
 
     OSMAN.
 Je l'ay sceu de mes yeux moy-mesme je l'ay veu ;  
 Et pour vous dire plus, j'ay presque veu sa teste  
 Succomber sous les coups d'une horrible tempeste :  
 L'Empereur luy faisoit un fort mauvais party,  
-Si son gendre Rustan ne l'en eust diverty,                        
+Si son gendre Rustan ne l'en eust diverty,  
 Diverty pour un temps, car la colere dure  
 Où plustost elle augmente !  
 
     CIRCASSE.
-                Agreable avanture !  
+                        Agreable avanture !  
 Que ferons-nous Acmat ?  
 
     ACMAT.
-            Allons voir l'Empereur  
+                    Allons voir l'Empereur  
 Allons l'entretenir de hayne et de fureur⁎  
 Et quelque trahison que Roxelane brasse [137]  
 Empeschons s'il se peut qu'elle ne rentre en grace [138].  
@@ -1915,7 +1915,7 @@ Allons mon cher Acmat, que ce bien-heureux jour,
 Me fasse posseder mon Prince et son amour.  
 
 
-### SCENE IV                        
+### SCENE IV
 
     ROXELANE.
 STANCES [139].
@@ -1936,7 +1936,7 @@ Au cours de mon ambition ;
 Et l'esperance qui me flatte  
 Des grandeurs dont un trosne éclate  
 Releve ma presomption :  
-Mais le peril est grand : mais ne suis-je pas mere ?                  
+Mais le peril est grand : mais ne suis-je pas mere ?  
 Mourant pour mes enfans je fay ce que je doy,  
 C'est pour moy que je crains, c'est pour eux que j'espère,  
 Mais ceste crainte est lasche, espoir je suis à toy.   
@@ -1966,18 +1966,18 @@ Mais l'alarme est au cap [143], Rustan est hors d'haleine
 Et ma fille est en pleurs.  
 
 
-### SCENE V                    
+### SCENE V
 ROXELANE, RUSTAN, CHAMERIE
 
 
     ROXELANE.
-            Rustan qui vous amene ?  
+                    Rustan qui vous amene ?  
 
     RUSTAN.
 Madame vostre mort.  
 
     ROXELANE.
-            Hé bien il faut mourir !  
+                    Hé bien il faut mourir !  
 Qui me la vient donner je suis preste à souffrir⁎  
 Je veux tout ce que veut la puissance absoluë.  
 
@@ -1986,7 +1986,7 @@ Madame, elle n'est pas encore resoluë,
 Mais appaisez le Prince ou bien c'est faict de vous.  
 
     ROXELANE.
-Mais quel crime Rustan, le peut mettre en courroux⁎ ?                   
+Mais quel crime Rustan, le peut mettre en courroux⁎ ?  
 
     RUSTAN.
 Auriez-vous bien tenu le discours qui l'anime ?  
@@ -1995,7 +1995,7 @@ Auriez-vous bien tenu le discours qui l'anime ?
 Quel discours ?  
 
     RUSTAN.
-        Que pour vous son amour fust un crime ?  
+                Que pour vous son amour fust un crime ?  
 
     ROXELANE.
 Ouy je l'ay dit Rustan, et ne m'en repens pas.  
@@ -2035,7 +2035,7 @@ Au milieu des tourmens elle augmente sa gloire,
 Et contre un innocent le suplice ordonné  
 Noircit le condamnant, et non le condamné.  
 L'injustice est toujours à son auteur contraire,  
-Quoy qu'on die [145], il vaut mieux la soufrir que la faire.                  
+Quoy qu'on die [145], il vaut mieux la soufrir que la faire.  
 
     RUSTAN.
 Ne vous y trompez pas, les Roys n'ont jamais tort,  
@@ -2058,16 +2058,16 @@ Qui par leurs interests et par leurs passions,
 Ordonnent à leur gré dessus nos actions.  
 
     ROXELANE.
-Soliman est trop juste.                                   
+Soliman est trop juste.  
 
     RUSTAN.
-            Il est trop en colere.  
+                    Il est trop en colere.  
 
     ROXELANE.
 Mais si c'est sans sujet ?  
 
     RUSTAN.
-            Mais s'il croit le contraire ?  
+                    Mais s'il croit le contraire ?  
 
     ROXELANE.
 Mais cette opinion ne dépend pas de moy.  
@@ -2079,8 +2079,8 @@ Croyez-vous qu'un mespris n'offence pas un Roy ?
 Moy mépriser mon Roy ?  
 
     RUSTAN.
-            Vous persistés encore  
-En refusant d'aymer un Roy qui vous adore.                       
+                    Vous persistés encore  
+En refusant d'aymer un Roy qui vous adore.  
 
     ROXELANE.
 Ce n'est point par mépris, luy mesme l'a voulu  
@@ -2100,10 +2100,10 @@ Il me l'a commandé j'atteste sa mémoire.
 Voyez-le.  
 
     ROXELANE.
-        Je ne puis.  
+            Je ne puis.  
 
     RUSTAN.
-                Vous voulez donc mourir.               
+                        Vous voulez donc mourir.  
 
     ROXELANE.
 Si le destin le veut, Rustan, il faut perir.  
@@ -2127,7 +2127,7 @@ Possible que le tems calmera vos douleurs.
     CHAMERIE.
 O Ciel ! en quel estat je me treuve réduite,  
 D'un tel commencement qui ne craindroit la suite,  
-En moy tout est en trouble, et jusques dans mon flanc,                   
+En moy tout est en trouble, et jusques dans mon flanc,  
 Je sens en deux partis se diviser mon sang⁎ ;  
 Ces contraires partis se combattent l'un l'autre,  
 Le sang que j'ay du Roy semble choquer⁎ le vostre.  
@@ -2149,7 +2149,7 @@ Ormin ne va jamais avec cet equipage.
 Que pour executer les decrets de la rage.  
 
     ROXELANE.
-Consolez vous ce mal ne s'adresse qu'à moy.                       
+Consolez vous ce mal ne s'adresse qu'à moy.  
 
 
 ### SCENE VI
@@ -2170,11 +2170,11 @@ Il nous a commandé de vous saisir, pour moy 
 Je me soûmets à vous.  
 
     ROXELANE.
-             Non, non servez le Roy.  
+                     Non, non servez le Roy.  
 
     ORMIN.
 L'affection⁎ des Roys imprime un caractere⁎,  
-Qui ne s'efface point sur un coup de colere ;                        
+Qui ne s'efface point sur un coup de colere ;  
 Et ce n'est pas servir, que servir promptement  
 Un Prince qui s'emporte au premier mouvement :  
 Combien que vos mal-heurs vous trament des disgrâces,  
@@ -2186,13 +2186,13 @@ Que lors que je vous sers, je sers aussi le Roy
 Non, non, servez le Roy.  
 
     RUSTAN.
-            Que d'effroy⁎, que d'alarme.  
+                    Que d'effroy⁎, que d'alarme.  
 
     ROXELANE.
 Allons.  
 
     CHAMERIE.
-Que ce départ me va couster de larmes.  
+        Que ce départ me va couster de larmes.  
 
     ORMIN.
 La colere du Roy me fait craindre pour vous.  
@@ -2201,7 +2201,7 @@ La colere du Roy me fait craindre pour vous.
 Il luy faut obeyr, mesme dans son courrous.  
 
 
-## ACTE IV                        
+## ACTE IV
 
 
 ### SCENE PREMIERE.
@@ -2223,7 +2223,7 @@ Qu'il n'est point de Dieu hors les Cieux.
 
 En vain je n'ay plus d'ennemis,  
 En vain tout l'univers soûmis  
-Ayme et craint ensemble mes armes                      
+Ayme et craint ensemble mes armes  
 Puisque chez moy mes passions  
 Me causent plus de mal, me donnent plus d'alarmes  
 Que la rebellion de mille nations.  
@@ -2251,7 +2251,7 @@ La Justice et non la clémence,
 Soyons plus juste et moins doux,  
 Punissons pour l'exemple et non pour la vangeance,  
 Non pour nostre interest mais pour celuy de tous.  
-Mais punir Roxelane ? Helas ce nom me laisse                  
+Mais punir Roxelane ? Helas ce nom me laisse  
 Encore de la tendresse,  
 Pardonnons luy plustost mais c'est trop combattu,  
 La clemence est une faiblesse  
@@ -2268,12 +2268,12 @@ SOLIMAN, CIRCASSE, ORMIN, OSMAN.
 Seigneur que vous plaist-il.  
 
     SOLIMAN.
-                Ormin je parle à vous,  
+                        Ormin je parle à vous,  
 Amenez Roxelane.  
 
     CIRCASSE.
-            O Dieux que ferons nous !  
-La paix est bien prochaine alors qu'on parlemente.                   
+                    O Dieux que ferons nous !  
+La paix est bien prochaine alors qu'on parlemente.  
 
     ORMIN.
 Dans un moment Seigneur, je la vous rends presente.  
@@ -2300,7 +2300,7 @@ N'aymer que justement c'est n'aymer qu'à demy.
 Vous signalerez mieux sa grace par deux crimes,  
 De Mustafa, de moy, faites luy deux victimes.  
 Et que nos deux cors mors l'un sur l'autre égorgés,  
-Portent à leur effais [149] ces [150] desseins enragés.                        
+Portent à leur effais [149] ces [150] desseins enragés.  
 Montrez, Seigneur, montrez en dépoüillant la feinte  
 Pour elle plus d'amour pour nous moins de contrainte.  
 Condamnez à la mort deux objects odieux.  
@@ -2315,7 +2315,7 @@ Depuis que vous portez le party⁎ d'un rebelle.
     SOLIMAN.
 Et pour vous et pour moy jugez plus sainement,  
 Vous me verrez son juge, et non pas son amant.  
-Mais voicy nostre ingrate.                               
+Mais voicy nostre ingrate.  
 
 
 ### SCENE III
@@ -2323,12 +2323,12 @@ SOLIMAN, ROXELANE, CIRCASSE, ORMIN, OSMAN
 
 
     SOLIMAN.
-            He bien belle Princesse !  
+                    He bien belle Princesse !  
 Ma faveur vous offence et mon amour vous blesse  
 N'est-il pas vray.  
 
     ROXELANE.
-        Seigneur, je ne contredis pas,  
+                Seigneur, je ne contredis pas,  
 Je suis preste à signer l'Arrest de mon trespas.  
 Je n'examine point innocente ou coupable,  
 Je déplais à mon Roy je suis trop punissable,  
@@ -2337,11 +2337,11 @@ Mon ame avec plaisir verra souffrir mon cors
 Et bien que ma deffence eust un droit legitime  
 Si je le proposois je croirois faire un crime.  
 Je ne me deffens point contre vostre courrous  
-Je doy plus de respect à ce qui vient de vous,                        
+Je doy plus de respect à ce qui vient de vous,  
 Que tardez vous, Seigneur ?  
 
     SOLIMAN.
-            Quelle erreur vous transporte  
+                    Quelle erreur vous transporte  
 En me connoissant mieux jugez d'une autre sorte.  
 Je suis Roy, non tiran, juste, non violent,  
 Je suis prompt à remettre, à punir je suis lent.  
@@ -2364,7 +2364,7 @@ Si je n'en trouve point je n'ay point de courrous.
 Je poursuis vostre crime et j'en veux la vengeance  
 Mais je serois ravy de voir vostre innocence.  
 Et c'est le plus grand mal qui ne puisse avenir  
-Si le crime prouvé m'oblige à vous punir                       
+Si le crime prouvé m'oblige à vous punir  
 
     ROXELANE.
 Prince de vos sujects le Seigneur et le pere  
@@ -2388,7 +2388,7 @@ Par ceste liberté que vous m'avez donnée.
 Ce souvenir me met les larmes dans les yeux.  
 
     SOLIMAN.
-Je ne vous entens pas esclaircissez-vous mieux.                       
+Je ne vous entens pas esclaircissez-vous mieux.  
 
     ROXELANE.
 Lors que j'estois esclave et sous vostre puissance  
@@ -2416,7 +2416,7 @@ Au point de meriter vostre juste colere.
 
     SOLIMAN.
 Quoy donc pour estre libre et dépendre de soy  
-La loy ne permet pas d'aymer encor son Roy ?                        
+La loy ne permet pas d'aymer encor son Roy ?  
 Qui croiroit que des lois la divine ordonnance  
 Dispersast un sujet de son obeyssance ?  
 
@@ -2436,7 +2436,7 @@ Indigne desormais de la gloire Othomane.
 Qu'à ces conditions j'embrasse vos genoux,  
 
     SOLIMAN.
-Adieu, Circasse, adieu, Soldats retirez-vous.                        
+Adieu, Circasse, adieu, Soldats retirez-vous.  
 
 
 ### SCENE IV
@@ -2461,7 +2461,7 @@ Contre vostre rigueur n'oppose que vous mesme.
 Donc par ces premiers feux, par ces premiers desirs  
 Qui vous ont enseigné l'usage des plaisirs,  
 Par ces premiers liens dont nos ames unies  
-Ont autrefois gousté des douceurs infinies,                        
+Ont autrefois gousté des douceurs infinies,  
 Par ce divin esprit l'ornement de ma cour,  
 Par ces yeux ravissants, par le doux nom d'amour,  
 Par nos communs enfans, en un mot par vous mesme  
@@ -2471,7 +2471,7 @@ Des plaisirs qu'autresfois vous eussiez achetez.
 Mais d'où viennent ces pleurs ?  
 
     ROXELANE.
-                 Je sçay bien que les larmes  
+                         Je sçay bien que les larmes  
 Pour combatre un grand mal sont de bien foibles armes  
 Mais soufrez-en l'usage à mes yeux languissans  
 Pour les maux que je cause et pour ceux que je sens.  
@@ -2484,7 +2484,7 @@ Je le puis, je le veux, mais je ne le doy pas.
 Vous ne le devez pas, vous estes insensible.  
 
     ROXELANE.
-Ce que deffend la loy me tient lieu d'impossible.                   
+Ce que deffend la loy me tient lieu d'impossible.  
 
     SOLIMAN.
 Mais on dit que le prince est pardessus la loy.  
@@ -2497,7 +2497,7 @@ Je suis dessous la loy puis que je suis sujette.
 Mais j'en puis dispenser,  
 
     ROXELANE.
-            Oüy quand vous l'avez faite  
+                    Oüy quand vous l'avez faite  
 Mais ceste loy dépend de la Divinité,  
 
     SOLIMAN.
@@ -2505,7 +2505,7 @@ Pourquoy m'opposez-vous ceste difficulté ?
 Mon interest à part considerez le vostre,  
 Pour garder une loy n'en rompés pas une autre  
 Ne tuez pas un Roy qui vous ayme si fort,  
-Et donnez luy plustost vostre amour que la mort.                   
+Et donnez luy plustost vostre amour que la mort.  
 
     ROXELANE.
 En defferant aux lois que mon devoir m'impose  
@@ -2519,7 +2519,7 @@ Que cette passion est indigne d'un Roy.
 Cest amour vous fait tort.  
 
     SOLIMAN.
-            Helas, belle insensible,  
+                    Helas, belle insensible,  
 Que me conseillez-vous ? de faire l'impossible.  
 Que me conseillez-vous ? de quitter vos appas⁎,  
 C'est pour guerir un mal condamner au trespas.  
@@ -2532,7 +2532,7 @@ Respecte en vostre teint et les lis et les roses.
 Si bien que son pouvoir n'agit sur vos beautez  
 Que pour les mieux empreindre en mes sens enchantez.  
 Aussi pourquoy les yeux triomphans des années  
-N'asserviroient-ils pas des testes couronnées,               
+N'asserviroient-ils pas des testes couronnées,  
 S'ils triomphent du tems qui triomphe des Rois,  
 Quel Roy refuseroit d'obeir à leurs lois :  
 Mais si l'on doit payer l'amour de l'amour mesme  
@@ -2558,7 +2558,7 @@ Et contre vos beautés et contre mes Etats ?
 En vous faisant mourir sans cause legitime  
 Je commettrois moy-mesme un veritable crime.  
 Voulez-vous qu'à ma honte on publie en ma cour  
-Que je donne la mort en donnant mon amour                        
+Que je donne la mort en donnant mon amour  
 Et si l'ame vit plus en la personne aymée  
 Qu'en celle qu'en effet elle rend animée,  
 En m'armant contre vous je m'arme contre moy  
@@ -2581,7 +2581,7 @@ Je seray de ton crime, en quittant la douceur,
 Et tesmoin, et partie, et juge, et punisseur, [154]  
 Je te rends miserable au point que la mort mesme  
 Deniera son secours à ta misere extréme  
-Quelqu'un à moy.                                    
+Quelqu'un à moy.  
 
 
 ### SCENE V
@@ -2589,10 +2589,10 @@ SOLIMAN, ROXELANE, ORMIN, OSMAN, etc.
 
 
     ORMIN.
-            Seigneur.  
+                Seigneur.  
 
     SOLIMAN.
-                Qu'on la charge de fers  
+                        Qu'on la charge de fers  
 Qu'on la traisne vivante en l'horreur des enfers,  
 Qu'on luy creuse un abisme [155] au centre de la terre  
 Où son remors luy fasse une eternelle guerre,  
@@ -2606,7 +2606,7 @@ Qu'on l'oste, sa presence augmente mon courrous.
     ROXELANE.
 O Seigneur accordez la mort à ma priere.  
 
-    SOLIMAN.     
+    SOLIMAN.
 Je te l'accorderois si je voulois te plaire,  
 La mort est une grace et non pas un tourment  
 Pour ceux que je destine à mon ressentiment.  
@@ -2615,7 +2615,7 @@ Aux plus cruelles morts portera de l'envie.
 Qu'on l'oste, dis-je.  
 
     ROXELANE.
-        Allons, mais helas en quel lieu  
+                Allons, mais helas en quel lieu  
 Où l'on faict souffrir⁎ l'ame avec le cors, Adieu.  
 
     SOLIMAN.
@@ -2629,7 +2629,7 @@ Possible elle a raison, j'en veux estre éclaircy,
 Assemblez le Conseil pour une heure d'icy.  
 
 
-## ACTE V                             
+## ACTE V
 
 
 ### SCENE PREMIERE
@@ -2651,7 +2651,7 @@ J'ay quelque droit d'attendre un succez bien-heureux,
 Qui rende à mes desirs un Monarque amoureux ;  
 Mais lors que je remets en mon ame incertaine,  
 Qu'en sa faveur l'amour combat encor' la hayne,  
-Que cet esprit est plein de ruses et d'appas⁎,                        
+Que cet esprit est plein de ruses et d'appas⁎,  
 Je crains je ne sçay quoi que je ne prevoy pas.  
 
     ACMAT.
@@ -2662,32 +2662,32 @@ Un certain bruit qui court que l'on me vient d'apprendre.
 Pourquoy mon cher Acmat ?  
 
     ACMAT.
-                Je crains.  
+                    Je crains.  
 
     CIRCASSE.
-                    Fusse ma mort,  
+                            Fusse ma mort,  
 Je voy sans m'estonner et l'un et l'autre sort.  
 
     ACMAT.
 On dit parmy le peuple et dedans la cour mesme  
 Que Soliman pressé de son amour extreme,  
 Et voyant que la loy luy deffend d'en user  
-Trouve un autre moyen !                               
+Trouve un autre moyen !  
 
     CIRCASSE.
-            Quel ?  
+                Quel ?  
 
     ACMAT.
-                C'est de l'épouser,  
+                        C'est de l'épouser,  
 
     CIRCASSE.
 Qui ?  
 
     ACMAT.
-Roxelane.  
+    Roxelane.  
 
     CIRCASSE.
-            O Dieu vous m'annoncés ma perte  
+                    O Dieu vous m'annoncés ma perte  
 Il n'en faut plus douter la fourbe⁎ est découverte,  
 Je voy certainement, mais trop tard, mais en vain  
 Que tout ce qu'elle a fait tendoit à ce dessein.  
@@ -2701,7 +2701,7 @@ Mais quoy devant le tems vous rendre misérable,
 Peut estre c'est un bruit qui n'est pas veritable,  
 Le Conseil assemblé qu'on doit tenir icy,  
 Rendra dans peu de tems ce soupçon éclaircy.  
-Lors que plus puissamment le mal-heur nous outrage,                    
+Lors que plus puissamment le mal-heur nous outrage,  
 C'est lors [157] qu'il faut combatre avec plus de courage  
 Et qu'il faut faire voir au destin rigoureux  
 Que quiconque a du cœur n'est jamais mal-heureux.  
@@ -2718,7 +2718,7 @@ A quiconque ouvrira le discours d'épouser
 Et combien qu'à mon sexe on en ferme la porte  
 Si l'on m'en fait sortir ce ne sera que morte.  
 Ha Mustafa mon fils : mais voicy l'Empereur,  
-Que cette fuite Acmat redouble ma terreur.                       
+Que cette fuite Acmat redouble ma terreur.  
 
 
 ### SCENE II
@@ -2742,7 +2742,7 @@ L'Enfer dis-je voyant le bon-heur de ma vie
 Impenetrable aux coûs que lançoit son envie,  
 S'il ne me suscitoit de plus fors ennemis  
 Que l'univers entier qu'il me voyait soûmis,  
-A trouvé dans ce cœur plus grand que tout le monde                   
+A trouvé dans ce cœur plus grand que tout le monde  
 Ce qu'il n'a peu trouver sur la terre et sur l'onde.  
 En moy mes ennemis, mais ennemis puissants  
 Et d'autant plus que l'ame est au dessus des sens,  
@@ -2769,7 +2769,7 @@ Combattu par soy mesme est prest à succomber.
 
     LE MUFTI.
 Je viole les lois que le respect m'impose  
-Mais vous parlez d'effaits sans en dire la cause                   
+Mais vous parlez d'effaits sans en dire la cause  
 Quel moyen de connoistre un mal caché dedans  
 Et qui ne nous paroist que par les accidens ?  
 
@@ -2795,7 +2795,7 @@ Et pour sortir vainqueur c'est assez que de vous.
 Perdez ces passions dont la force maistrise  
 Seulement qui leur cede et craint qui les méprise,  
 Pour vaincre en ceste guerre un homme genereux  
-A besoin seulement de dire, je le veux.                    
+A besoin seulement de dire, je le veux.  
 
     SOLIMAN.
 Pompeux raisonnemens, magnifiques parolles,  
@@ -2821,7 +2821,7 @@ Je me trouve empesché dedans ceste avanture
 Ceste affaire impliquée [165] offre de tous costés  
 A mon esprit confus mille difficultés.  
 Roxelane estant libre et de sa dependance  
-L'alcoran vous deffend d'avoir sa jouyssance.                      
+L'alcoran vous deffend d'avoir sa jouyssance.  
 Sans déplaire aux Prophetes et violer les Lois  
 Vous ne pouvez l'aymer de mesme qu'autrefois. [166]  
 
@@ -2846,7 +2846,7 @@ Et sans interesser, ny le Ciel, ny ses drois    
 Consilier ensemble et l'amour et les Lois.  
 Mais comme le remede au goust desagreable  
 Souvent au patient est le plus profitable :  
-Ainsi par ce moyen un peu fascheux d'abord                       
+Ainsi par ce moyen un peu fascheux d'abord  
 Votre amour et les lois peuvent tomber d'accord.  
 Vous pouvez sans choquer⁎ les lois de conscience  
 De vostre Roxelane avoir la jouyssance.  
@@ -2858,7 +2858,7 @@ Pourquoy tardez vous tant à me le proposer.
 Que va-t'il dire, Acmat ?  
 
     LE MUFTI.
-            Vous pouvez l'épouser.  
+                    Vous pouvez l'épouser.  
 
     SOLIMAN.
 Epouser un esclave ha que dites vous, pere !  
@@ -2866,7 +2866,7 @@ Epouser un esclave ha que dites vous, pere !
     LE MUFTI.
 Le remede est fâcheux mais il est salutaire.  
 He Seigneur qui des deux est indigne de vous  
-D'estre nay d'un esclave ou d'en estre l'épous.                      
+D'estre nay d'un esclave ou d'en estre l'épous.  
 
     ACMAT.
 Se peut-il faire ô Ciel que Soliman endure  
@@ -2893,7 +2893,7 @@ Et principalement parlant devant un Roy
 Qui sçait qui le sert mieux ou d'Acmat ou de moy ?  
 Les Lois en cet état n'admettent point de Reynes  
 Il est vray, mais Acmat ces lois ne sont qu'humaines,  
-Pour l'interest public on les peut abroger                       
+Pour l'interest public on les peut abroger  
 Et comme un Roy les fist, un Roy les peut changer,  
 Mais les divines Lois sont Lois inviolables  
 Dont les decisions doivent estre immuables.  
@@ -2920,7 +2920,7 @@ Pour elle il fait parler l'authorité des Lois :
 Mais les Lois sont contre elle ; est-elle pas sujette,  
 Doit elle contester ce que son Roy projette.  
 Un sujet doit toujiours obeyr : mais un Roy  
-Ne luy doit commander que ce que veut la Loy.                       
+Ne luy doit commander que ce que veut la Loy.  
 Contraires sentiments dont mon ame est battue  
 La douceur m'est contraire et la rigueur me tuë,  
 Sans remede mon mal ne se peut supporter  
@@ -2946,8 +2946,8 @@ Le combat est finy l'amour à la victoire.
 Qu'on la fasse venir.  
 
     CIRCASSE.
-            O merveille des Rois  
-J'embrasse vos genoux pour la derniere fois.                      
+                    O merveille des Rois  
+J'embrasse vos genoux pour la derniere fois.  
 La derniere faveur dont je vous importune,  
 C'est la mort c'est la fin de ma triste fortune⁎,  
 Mort qui me sera douce apres ce que je voy  
@@ -2975,7 +2975,7 @@ Et possedant leur trosne au moins gardez leurs Lois.
 Mais si mal-gré l'honneur⁎ et la gloire Othomane  
 Vous estes resolu d'épouser Roxelane,  
 Afin de ne pas voir la honte de mon Roy  
-Je demande la mort pour mon fils et pour moi.                      
+Je demande la mort pour mon fils et pour moi.  
 
     RUSTAN.
 Quoy, Seigneur, endurer une telle insolence ?  
@@ -2999,7 +2999,7 @@ Vostre vie est à moy, j'en prens le soin⁎, Circasse,
 
     CIRCASSE.
 Et Seigneur pourriez-vous la deffendre des cous  
-De celle dont la fourbe⁎ a triomphé de vous !                       
+De celle dont la fourbe⁎ a triomphé de vous !  
 
     SOLIMAN.
 J'en prends le soin⁎, vous dis-je, et cela vous suffise.  
@@ -3022,7 +3022,7 @@ Venez de Soliman l'épouse legitime.
     CIRCASSE.
 Helas de cet Hymen⁎ je seray la victime  
 Le sang de Mustafa signera cet accord,  
-Que tardes-tu, Circasse, à la mort, à la mort.                       
+Que tardes-tu, Circasse, à la mort, à la mort.  
 Vous qui vostre amitié dans nos mal-heurs assemble,  
 Acmat ne pouvant vivre allons mourir ensemble.  
 
@@ -3040,15 +3040,15 @@ Cela n'est pas croyable et j'en doute moy-mesme,
 Où me conduisez vous ?  
 
     SOLIMAN.
-            En mon trône, en mon rang.  
+                    En mon trône, en mon rang.  
 
     ROXELANE.
 Où ne monta jamais personne de mon sang.  
 Seigneur ?  
 
     SOLIMAN.
-     Montez-vous dis-je, et prenez la couronne  
-Que par les mains d'amour vostre vertu vous donne,                   
+             Montez-vous dis-je, et prenez la couronne  
+Que par les mains d'amour vostre vertu vous donne,  
 Regnés dessus mon peuple et luy donnés des lois,  
 Je vous donne sur luy la moitié de mes drois,  
 Et combien que les lois semblent y contredire,  
@@ -3064,7 +3064,7 @@ De vivre et de mourir sous son obeyssance.
 Que voulez-vous encor.  
 
     ROXELANE.
-            En ce haut rang d'honneur⁎  
+                    En ce haut rang d'honneur⁎  
 Mon foible esprit ne peut comprendre son bon-heur,  
 Tant de biens que le Ciel par vos bontez m'envoye  
 Font que presque je meurs et de honte et de joye,  

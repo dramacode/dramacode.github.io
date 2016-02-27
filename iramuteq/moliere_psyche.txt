@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_a *date_1671 *creator_moliere
+**** *book_ *id_A *date_1671 *creator_moliere
 
 Prologue
 
@@ -9,6 +9,14 @@ Ce n'est plus le temps de la Guerre ;
 Le plus puissant des Rois
 Interrompt ses Exploits
 Pour donner la Paix à la Terre.
+Descendez, Mère des Amours,
+Venez nous donner de beaux jours.
+
+-*who_choeur_des_divinites
+Nous goûtons une Paix profonde ;
+Les plus doux Jeux sont ici-bas ;
+On doit ce repos plein d'appâts
+Au plus grand ROI du Monde.
 Descendez, Mère des Amours,
 Venez nous donner de beaux jours.
 
@@ -45,6 +53,38 @@ Ne se fait jamais bien aimer.
 -*who_palaemon
 C'est la beauté qui commence de plaire,
 Mais la douceur achève de charmer.
+
+-*who_choeur_des_divinites
+
+Est-on sage
+Dans le bel âge,
+Est-on sage
+De n'aimer pas ?
+Que sans cesse
+L'on se presse
+De goûter les plaisirs ici-bas :
+La sagesse
+De la Jeunesse,
+C'est de savoir jouir de ses appas.
+
+L'Amour charme
+Ceux qu'il désarme ;
+L'Amour charme,
+Cédons-lui tous.
+Notre peine
+Serait vaine
+De vouloir résister à ses coups :
+Quelque chaîne
+Qu'un Amant prenne,
+La liberté n'a rien qui soit si doux.
+
+-*who_choeur_des_divinites
+Nous goûtons une Paix profonde ;
+Les plus doux Jeux sont ici-bas ;
+On doit ce repos plein d'appâts
+Au plus grand ROI du Monde.
+Descendez, Mère des Amours,
+Venez nous donner de beaux jours.
 
 -*who_venus
 Cessez, cessez pour moi tous vos chants d'allégresse :
@@ -117,7 +157,7 @@ Sur ses traits et les miens j'essuierai constamment
 Un téméraire jugement !
 Et du haut des cieux où je brille,
 J'entendrai prononcer aux Mortels prévenus :
-Elle est plus belle que Vénus !
+Elle est plus belle que Vénus !
 
 -*who_aegiale
 Voilà comme l'on fait, c'est le style des Hommes,
@@ -169,7 +209,7 @@ Dans le monde on n'entend que plaintes de l'Amour,
 On m'impute partout mille fautes commises,
 Et vous ne croiriez point le mal et les sottises
 Que l'on dit de moi chaque jour.
-Si pour servir votre colère...
+Si pour servir votre colère…
 
 -*who_venus
 Va, ne résiste point aux souhaits de ta Mère,
@@ -605,7 +645,7 @@ La conquête de ses Amants.
 
 -*who_psyche
 J'ai cru pour vous, mes Sœurs, une gloire assez grande,
-Si la possession d'un mérite si haut...
+Si la possession d'un mérite si haut…
 
 **** *book_ *id_I04 *act_I *date_1671 *creator_moliere
 
@@ -616,7 +656,7 @@ Ah, Madame !
 Qu'as-tu ?
 
 -*who_lycas
-Le Roi...
+Le Roi…
 
 -*who_psyche
 Quoi ?
@@ -661,6 +701,7 @@ Voyez-le vous-même, Princesse,
 Dans l'Oracle qu'au Roi les Destins ont rendu.
 Voici ses propres mots, que la douleur, Madame,
 A gravés au fond de mon âme :
+
 Que l'on ne pense nullement
 À vouloir de Psyché conclure l'Hyménée ;
 Mais qu'au sommet d'un Mont elle soit promptement
@@ -698,34 +739,47 @@ Un mal que nous pouvons regarder comme un bien.
 
 Premier Intermède
 
--*who_femme_desolee
+-*who_desolee
 Deh, piangete al pianto mio,
 Sassi duri, antiche selve,
 Lagrimate, fonti e belve
 D'un bel voto il fato rio.
 
--*who_affliges
+-*who_afflige1
 Ahi dolore !
 
--*who_affliges
+-*who_afflige2
 Ahi martire !
 
--*who_affliges
+-*who_afflige1
+Cruda morte !
+
+-*who_afflige2
 Empia sorte !
 
--*who_affliges
+-*who_desolee_afflige1_afflige2
+che condanni a morir tanta beltà.
+Cieli, stelle, ahi crudeltà.
+
+-*who_afflige2
 Com'esser puô fra voi, o Numi eterni,
 Chi voglia estinta una beltà innocente ?
 Ahi ! che tanto rigor, Cielo inclemente,
 Vince di crudeltà gli stessi Inferni.
 
--*who_affliges
+-*who_afflige1
 Nume fiero !
 
--*who_affliges
+-*who_afflige2
 Dio severo !
 
--*who_femme_desolee
+-*who_desolee_afflige1_afflige2
+Perchè tanto rigor
+Contro innocente cor ?
+Ahi ! sentenza inaudita,
+Dar morte a la Beltà, ch'altrui dà vita.
+
+-*who_desolee
 Ahi ch'indarno si tarda,
 Non resiste a li Dei mortale affeto,
 Alto impero ne sforza,
@@ -891,7 +945,7 @@ Ils m'ont mis en état de ne rien redouter.
 
 -*who_psyche
 Ah, Seigneur, je tremble des crimes
-Que je vous fais commettre, et je dois me haïr...
+Que je vous fais commettre, et je dois me haïr…
 
 -*who_le_roi
 Ah, qu'ils souffrent du moins mes plaintes légitimes,
@@ -1116,7 +1170,7 @@ Et l'on a reçu de tout temps
 Pour souveraines lois les ordres des Mourants.
 
 -*who_cleomene
-Princesse...
+Princesse…
 
 -*who_psyche
 Encore un coup, Princes, vivez pour elles,
@@ -1448,7 +1502,7 @@ Me vole une part des douceurs
 Que je veux toutes pour ma flamme.
 N'ayez d'yeux que pour moi, qui n'en ai que pour vous,
 Ne songez qu'à m'aimer, ne songez qu'à me plaire,
-Et quand de tels soucis osent vous en distraire...
+Et quand de tels soucis osent vous en distraire…
 
 -*who_psyche
 Des tendresses du sang peut-on être jaloux ?
@@ -1466,6 +1520,15 @@ Je ne sais quoi qui m'effarouche
 Craint parmi vos soupirs des soupirs égarés.
 Mais vous voulez vos sœurs, allez, partez, Zéphire,
 Psyché le veut, je ne l'en puis dédire.
+Quand vous leur ferez voir ce bienheureux séjour,
+De ses trésors faites-leur cent largesses,
+Prodiguez-leur caresses sur caressses,
+Et du sang, s'il se peut, épuisez les tendresses,
+Pour vous rendre toute à l'Amour.
+Je n'y mêlerai point d'importune présence,
+Mais ne leur faites pas de si longs entretiens ;
+Vous ne sauriez pour eux avoir de complaisance,
+Que vous ne dérobiez aux miens.
 
 -*who_psyche
 Votre amour me fait une grâce
@@ -1717,10 +1780,10 @@ Ou de ce changement, ou de cette insolence ?
 
 -*who_psyche
 Ma sœur, vous me faites trembler.
-Juste Ciel ! pourrais-je être assez infortunée...
+Juste Ciel ! pourrais-je être assez infortunée…
 
 -*who_cidippe
-Que sait-on si déjà les nœuds de l'Hyménée...
+Que sait-on si déjà les nœuds de l'Hyménée…
 
 -*who_psyche
 N'achevez pas, ce serait m'accabler.
@@ -1762,7 +1825,7 @@ La surprenante et merveilleuse histoire.
 
 -*who_psyche
 Ne l'inquiétez point, ma sœur, de vos soupçons,
-Et quand vous lui peindrez un si charmant Empire...
+Et quand vous lui peindrez un si charmant Empire…
 
 -*who_aglaure
 Nous savons toutes deux ce qu'il faut taire, ou dire,
@@ -1899,7 +1962,7 @@ Souffrez que je vous en conjure.
 
 -*who_amour
 Si vous saviez, Psyché, la cruelle aventure
-Que par là vous vous attirez...
+Que par là vous vous attirez…
 
 -*who_psyche
 Seigneur, vous me désespérez.
@@ -1936,8 +1999,6 @@ Plus fort que mon amour, que tous les Dieux ensemble,
 Vous va montrer sa haine, et me chasse d'ici.
 
 **** *book_ *id_IV04 *act_IV *date_1671 *creator_moliere
-
-PSYCHÉ, LE DIEU DU FLEUVE.
 
 -*who_psyche
 Cruel Destin ! funeste inquiétude !
@@ -2056,7 +2117,7 @@ Lui qui de tout mon cœur d'abord s'est rendu maître ?
 
 -*who_venus
 Tout votre cœur s'en est laissé charmer,
-Et vous l'avez aimé dès qu'il vous a dit : J'aime.
+Et vous l'avez aimé dès qu'il vous a dit, J'aime.
 
 -*who_psyche
 Pouvais-je n'aimer pas le Dieu qui fait aimer,
@@ -2551,7 +2612,7 @@ En faveur d'un Fils si charmant :
 Il va goûter en paix, après un long tourment,
 Une félicité qui doit être éternelle.
 
--*who_choeur
+-*who_choeur_des_divinites
 Célébrons ce grand jour ;
 Célébrons tous une Fête si belle :
 Que nos Chants en tous lieux en portent la nouvelle,
@@ -2617,8 +2678,6 @@ Il est le seul que j'épargne aujourd'hui ;
 Il n'appartient qu'à lui
 De n'épargner personne.
 
-**** *book_ *id_V07 *act_V *date_1671 *creator_moliere
-
 -*who_bacchus
 Admirons le jus de la Treille :
 Qu'il est puissant ! qu'il a d'attraits !
@@ -2650,8 +2709,6 @@ Laissons en paix toute la Terre,
 Cherchons de doux amusements ;
 Parmi les Jeux les plus charmants,
 Mêlons l'image de la Guerre.
-
-**** *book_ *id_V08 *act_V *date_1671 *creator_moliere
 
 -*who_choeur
 Chantons les plaisirs charmants

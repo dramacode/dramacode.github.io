@@ -1,5 +1,5 @@
 ---
-identifier: mareschal_soeur-valeureuse  
+identifier: mareschaL_soeur-valeureuse  
 creator: Mareschal, André  
 date: 1634  
 title: La Soeur valeureuse ou l'Aveugle amante. Tragi-comédie  
@@ -748,8 +748,6 @@ FIN.
  – PAGE. D'Oronte.
  – AUTRE PAGE.
 
-LA SOEUR VALEUREUSE, OU L'AVEUGLE AMANTE.
-
 
 ## ACTE PREMIER.
 
@@ -902,14 +900,14 @@ Que j'agisse en son cœur par un Amy couvert⁎ ;
 Aprés……  
 
     LYCANTHE.
-Je crains pour vous quelque accident funeste.  
+        Je crains pour vous quelque accident funeste.  
 
     DORAME.
 Mon courage⁎ & ce bras acheveront le reste :  
 Que crains-tu ?  
 
     LYCANTHE.
-De vous voir sans crainte, & sans raison⁎  
+        De vous voir sans crainte, & sans raison⁎  
 Flatter vostre malheur & sucrer un poison⁎ [83] ;  
 Lucidor plus heureux est seul en sa pensée⁎.  
 
@@ -925,14 +923,14 @@ Tel qui s'est plaint d'un tort, se plaint d'estre vangé ;
 La perte d'un Amant….  
 
     DORAME.
-Plaist ; quand il a changé.  
+        Plaist ; quand il a changé.  
 
     LYCANTHE.
 Plustost rend odieux ceux qui nous l'ont causée :  
 Le Roy l'ayme.  
 
     DORAME.
-Et permét à ma force⁎ opposée  
+        Et permét à ma force⁎ opposée  
 De combattre un Tyran⁎ qui posseda son cœur,  
 Et qui le doit bien⁎ tost rendre à ce bras vainqueur.  
 
@@ -940,13 +938,13 @@ Et qui le doit bien⁎ tost rendre à ce bras vainqueur.
 Le hazard⁎ sera grand.  
 
     DORAME.
-Et plus grand mon courage⁎.  
+        Et plus grand mon courage⁎.  
 
     LYCANTHE.
 Il a de la valeur⁎.  
 
     DORAME.
-Et j'en ay davantage :  
+        Et j'en ay davantage :  
 Enfin je touche au but cerché⁎ depuis long-temps,  
 Qui peut rendre mes vœux⁎ glorieux⁎ & contents.  
 Te diray-je un secrét⁎ d'une importance extréme,  
@@ -1047,7 +1045,7 @@ Qui vous offre à la fuitte un azile, ou la porte.
 Cela vous engageoit.  
 
     DORAME.
-Et l'obligea⁎ de sorte,  
+        Et l'obligea⁎ de sorte,  
 (Ma feinte⁎ prit aussi cét empire absolu,)  
 Qu'il s'est porté depuis à ce que j'ay voulu.  
 Dans ce chemin subtil où les destins me mirent  
@@ -1204,7 +1202,7 @@ Que voy-je ? n'est-ce pas son Rival qui l'attend ?
 Sus, sus [126] ; debout, Dormeur.  
 Considerant Oronte au lieu de Dorame.
 
-O la merveille⁎ étrange⁎ !  
+        O la merveille⁎ étrange⁎ !  
 Au lieu d'un Ennemy de rencontrer un Ange ?  
 Que ce visage est beau ! que j'y voy de rapport  
 A celuy d'un Ingrat⁎ qui me cause la mort !  
@@ -1276,7 +1274,7 @@ Un Dieu voudroit ma peine, & reposer ainsy.
 Et toy, divin portrait…..  
 Oronte se leve en surprise, ne voiant point son casque ni son écu⁎, & le cherche par le bois.
 
-Ah ! mon sang est de glace ;  
+        Ah ! mon sang est de glace ;  
 Je le cherche des yeux, & ne voy que sa place :  
 Parlez, Arbres, Rochers, vistes-vous l'enlever ?  
 Transports, rages, fureurs, faites-le moy treuver.  
@@ -1348,7 +1346,7 @@ Aux marques de la voix, des cheveux, de la veuë :
 Dorame…  
 Dorame paroist.
 
-Ah ! le voicy ; mét la visiere en bas ;  
+        Ah ! le voicy ; mét la visiere en bas ;  
 Parle peu, rends plus grave & ton geste, & tes pas.  
 
 
@@ -1363,7 +1361,7 @@ Tu réves, Lucidor ; il n'est plus temps ; approche.
 Temeraire, insolent.  
 
     DORAME.
-Laissons là tout reproche :  
+        Laissons là tout reproche :  
 Je demande du sang, & non pas des discours.  
 
     OLYMPE.
@@ -1385,7 +1383,7 @@ Mais quel bruit ? Tout resonne ; un foudre [133] en ces allarmes
 Frappe….  
 Oronte voyant Olympe sous ses armes & qui tombe.
 
-O Dieux ! un voleur qui combat sous mes armes ;  
+        O Dieux ! un voleur qui combat sous mes armes ;  
 Qu'il sçait mal s'en servir ! il tombe, il est vaincu ;  
 Oronte arrache l'écu⁎ à Olympe sur le poinct⁎ qu'elle alloit estre tuée par Dorame.
 
@@ -1411,11 +1409,11 @@ Que tardez-vous mes yeux de vous rendre contents ?
 Voyons…..  
 Levant le casque à Olympe.
 
-Ma main s'arreste à cette longue tresse ;  
+        Ma main s'arreste à cette longue tresse ;  
 Et quoy ! c'est une Fille.  
 
     DORAME. *Reconnoissant Olympe.*
-O Dieux ! c'est ma Maistresse.  
+        O Dieux ! c'est ma Maistresse.  
 Je rougy plus de honte, Olympe, que de sang ;  
 Prenez, tirez⁎ ce cœur, je porte ouvert le flanc ;  
 Vos yeux par cette playe arracheront mon ame :  
@@ -1479,7 +1477,7 @@ C'est flatter mon offense ; ah ! traitez autrement
 Une main…..  
 
     OLYMPE.
-Que le sort⁎ me rend icy propice.  
+        Que le sort⁎ me rend icy propice.  
 
     DORAME.
 Et qui m'a par mon sang tiré⁎ d'un precipice,  
@@ -1490,7 +1488,7 @@ Que mon bras soit humain, et mon cœur innocent ?
 Qui sont les Criminels ?  
 
     OLYMPE.
-C'est l'amour ; c'est nous mesmes ;  
+        C'est l'amour ; c'est nous mesmes ;  
 Pardonne luy ce coup⁎, Dorame, si tu m'aymes.  
 
     DORAME.
@@ -1510,13 +1508,13 @@ Quel sujét vous ameine inconnu parmy nous,
 Si c'est là Lucidor…….  
 
     ORONTE. *Parlant bas.*
-Son cœur en est jaloux,  
+        Son cœur en est jaloux,  
 
     OLYMPE.
 Ce Tyran⁎ de mon ame.  
 
     ORONTE. *Parlant bas.*
-Helas ! & de la mienne :  
+        Helas ! & de la mienne :  
 Elle augmente ma playe en confessant la sienne.  
 
 
@@ -1578,10 +1576,10 @@ GELANDRE, MELINDE.
 
 
     GELANDRE. *La surprenant.*
-Vous soûpirez.  
+    Vous soûpirez.  
 
     MELINDE.
-Ajoûtez pour vous mesme.  
+        Ajoûtez pour vous mesme.  
 
     GELANDRE.
 Pour moy ? qu'entends-je ? Amour, croiray-je qu'elle m'ayme ?  
@@ -1597,7 +1595,7 @@ Par dessein⁎ nous fuir [139], et presque vous cacher
 C'est……  
 
     MELINDE.
-Bien⁎ moins de rigueur, qu'à vous de me cercher⁎ :  
+        Bien⁎ moins de rigueur, qu'à vous de me cercher⁎ :  
 Mais vous riez, Gelandre ; aprés m'avoir surprise…..  
 
     GELANDRE.
@@ -1614,7 +1612,7 @@ Il méprise la paix, & s'attache à l'injure [142],
 Il m'ayme :  
 Parlant bas & se tournant de côté.
 
-Ah ! que l'effect⁎ dément mon imposture !  
+        Ah ! que l'effect⁎ dément mon imposture !  
 Il brûle ; mais il veut, qu'un superbe laurier  
 Témoigne au Roy qu'il est digne Amant & Guerrier ;  
 Mon Frere à ce dessein⁎ fomente cette guerre.  
@@ -1644,13 +1642,13 @@ Que sa plus grande flame est moindre que mes feux⁎ ;
 Mais un poinct⁎,  
 Lucidor arrive.
 
-Qu'à cette heure il vient luy mesme entendre..…  
+        Qu'à cette heure il vient luy mesme entendre..…  
 
     GELANDRE.
 M'oblige⁎ à vous quitter.  
 
     MELINDE.
-Et moy donc à l'attendre.  
+        Et moy donc à l'attendre.  
 
 
 ### SCENE III.
@@ -1699,13 +1697,13 @@ Tu me presserois moins sur [147] ce que je te cache.
 Parle.  
 
     MELINDE.*Parlant bas.*
-Je n'oserois ; la honte me retient.  
+        Je n'oserois ; la honte me retient.  
 
     LUCIDOR.
 Ton silence t'accuse.  
 
     MELINDE.
-Et ma crainte revient :  
+        Et ma crainte revient :  
 Toutefois il la faut surmonter à cette heure.  
 Elle aborde Lucidor.
 
@@ -1735,25 +1733,25 @@ Ah ! ce cruel regard me l'a déjà ravie.
 Cartel⁎…..  
 
     MELINDE. *Parlant bas.*
-Ouy bien⁎ d'amour.  
+    Ouy bien⁎ d'amour.  
 
     LUCIDOR.
-De Dorame….  
+    De Dorame….  
 
     MELINDE.
-O malheur !  
+        O malheur !  
 
     LUCIDOR.
 A Lucidor.  
 
     MELINDE.
-Qu'entends-je ? ah ! fuyons de douleur⁎.  
+        Qu'entends-je ? ah ! fuyons de douleur⁎.  
 
     LUCIDOR. *La retenant par la main.*
 Arrestez.  
 
     MELINDE.
-Expirant il faut bien⁎ qu'on demeure ;  
+        Expirant il faut bien⁎ qu'on demeure ;  
 Sous les traits⁎ de la haine Amour veut que je meure.  < CARTEL*Ce cartel est un passage poétique important, il est composé de deux octosyllabes suivis de deux alexandrins, un octosyllabe et enfin un alexandrin. C’est le moment où Lucidor découvre le complot qui s’ourdit contre lui.De Dorame à Lucidor. >
 
     LUCIDOR.* Le lit tout haut.*
@@ -1824,7 +1822,7 @@ Cettuy-cy [153] les condamne ; & pour vous démentir,
 S'oblige⁎ à mon trépas.  
 
     MELINDE.
-L'autre, à vous garentir.  
+        L'autre, à vous garentir.  
 
     LUCIDOR.
 De garand ? je n'en eus jamais que mon courage⁎.  
@@ -1919,7 +1917,7 @@ Il faut que desormais ta crainte qui m'offence
 Obeisse…..  
 
     MELINDE.
-A l'amour, qui m'en fait la deffense.  
+        A l'amour, qui m'en fait la deffense.  
 
     LUCIDOR*. Feignant de tirer⁎ son épée.*
 Ah ! c'est trop m'arrester en discours superflus ;  
@@ -1933,7 +1931,7 @@ Amour veut une chose, & la deffend icy ;
 Que feray-je ?  
 
     LUCIDOR.
-Un Appel⁎, qui nous tire⁎ de peine.  
+        Un Appel⁎, qui nous tire⁎ de peine.  
 
     MELINDE.
 Et quoy ? pour vous aymer, vous doy-je estre inhumaine ?  
@@ -1941,7 +1939,7 @@ Cercher⁎ vostre malheur, pour vous monstrer mes vœux⁎ ?
 Quel office⁎ d'amour ?  
 
     LUCIDOR.
-C'est le seul que je veux.  
+        C'est le seul que je veux.  
 
     MELINDE.
 Et bien⁎ j'obeiray. Mais que dy-je Insensée ?  
@@ -1988,7 +1986,7 @@ D'un si mauvais accueil à sa perfection ?
 Cét homicide⁎ bras…..  
 
     DORAME.
-A qui je doy ma vie,  
+        A qui je doy ma vie,  
 Qui d'un plus grand bon-heur jamais ne fut suivie.  
 
     ORONTE.
@@ -2055,7 +2053,7 @@ Le secours est bien⁎ vain⁎ d'une main étrangere ;
 Toutefois mes efforts⁎…..  
 
     DORAME.
-Employez à demy  
+        Employez à demy  
 Me font heureux Amant, & vous parfait Amy.  
 
     ORONTE.
@@ -2127,7 +2125,7 @@ A force⁎ de t'aymer je te mets dans les miens,
 Si l'amour…  
 Oronte paroist.
 
-Ah ! ce nom l'amene sur la place :  
+        Ah ! ce nom l'amene sur la place :  
 Voy-je Oronte ? ou ce Dieu sous une mesme grâce⁎ ?  
 Que de feux⁎, que de trais⁎, que de charmes⁎ puissants !….  
 
@@ -2171,10 +2169,10 @@ Prest à vous adorer, si vous me l'accordez.
 Qu'elle grâce⁎ ?  
 
     ORONTE.
-L'amour.  
+    L'amour.  
 
     OLYMPE. *Parlant bas.*
-A ce mot je soûpire ;  
+        A ce mot je soûpire ;  
 Ses vœux⁎ sont mes souhaits, on me porte où j'aspire :  
 Mon Prince [171], levez-vous, parmy tant d'actions  
 N'ajoûtez pas ma honte à vos perfections ;  
@@ -2195,7 +2193,7 @@ Un autre le pretend ; je n'en suis que l'arbitre.
 Vostre cœur ?  
 
     ORONTE.
-C'en est un, qui vaut mieux mille fois.  
+        C'en est un, qui vaut mieux mille fois.  
 
     OLYMPE *baisant Oronte.*
 Mocqueur, un doux baiser me vange de ta voix ;  
@@ -2208,7 +2206,7 @@ O faveur⁎ ! qui pourroit animer une souche.
 Que vous prenez pourtant…..  
 
     ORONTE.
-Comme un larcin, commis  
+        Comme un larcin, commis  
 Contre le plus parfait de mes plus chers amis :  
 Que Dorame à bon droit⁎ occupperoit ma place !  
 
@@ -2219,17 +2217,17 @@ Vostre froideur m'offence autant que son audace.
 Excusables pourtant.  
 
     OLYMPE.
-Si vous les finissez.  
+        Si vous les finissez.  
 
     ORONTE.
 Je vous porte un present…..  
 
     OLYMPE.
-Dont vous me punissez :  
+        Dont vous me punissez :  
 Prenez plustost le mien.  
 
     ORONTE.
-Dorame le merite.  
+        Dorame le merite.  
 
     OLYMPE.
 Cœur de Tygre [172], masqué sous un front hypocrite,  
@@ -2280,7 +2278,7 @@ Qui vous offre son cœur, qui vous offre son ame ?
 Ma parole.  
 
     OLYMPE.
-Et la mienne aura moins de pouvoir ?  
+        Et la mienne aura moins de pouvoir ?  
 
     ORONTE.
 Ma foy⁎ semble un rocher ; on ne peut l'émouvoir⁎.  
@@ -2324,7 +2322,7 @@ ORONTE, MELINDE en Heraut.
 Arrestez, Cavallier.  
 
     MELINDE.
-Dessous la foy⁎ des armes,  
+        Dessous la foy⁎ des armes,  
 Qui laisse à mes pareils l'accez dans les allarmes,  
 Vers vostre General Ambassadeur commis  
 Je marche de la part des Princes Ennemis :  
@@ -2349,7 +2347,7 @@ Ce faict le touche seul, & non pas ceux qu'il ayme :
 Lucidor, qui m'envoye…  
 
     ORONTE.
-O favorable objét⁎ !  
+        O favorable objét⁎ !  
 Lucidor ? il t'envoye ? on m'en taist le sujét ?  
 Ouvre, découvre tout, sans peur, sans artifice⁎ ;  
 En Prince je demande, & payray cét office⁎ :  
@@ -2372,7 +2370,7 @@ Tu parlois à Dorame, & je te le cachois ;
 Le voicy, c'est luy mesme.  
 
     MELINDE.* Parlant bas.*
-O dieux ! qu'elle imposture !  
+        O dieux ! qu'elle imposture !  
 
     ORONTE *parlant bas.*
 Servons nous pour le voir, d'une telle avanture⁎.  
@@ -2469,10 +2467,10 @@ Puis courant pour embrasser Lucidor.
 Ah ! mon Frere.  
 
     LUCIDOR *reconnoissant sa Sœur*
-O prodige !  
+    O prodige !  
 
     ORONTE.
-Agréez ce miracle,  
+        Agréez ce miracle,  
 Que le Ciel autorise, & la voix de l'Oracle.  
 
     LUCIDOR.
@@ -2491,7 +2489,7 @@ Celle que vos mépris coucheront au cercueil ;
 Epargnez la vertu⁎…..  
 
     LUCIDOR.
-Suspecte, & mensongere,  
+        Suspecte, & mensongere,  
 D'une impudique Sœur qui court aprés son Frere.  
 
     ORONTE.
@@ -2523,7 +2521,7 @@ N'offencez pas si fort une chaste vertu⁎,
 Qui vous apporte un cœur…  
 
     LUCIDOR.
-De vices combattu.  
+        De vices combattu.  
 
     ORONTE.
 Aussi pur, aussi nét que la premiere flame ;  
@@ -2552,7 +2550,7 @@ ORONTE.
 Par là vous comprenez…..  
 
     GELANDRE.
-Un accident étrange⁎.  
+        Un accident étrange⁎.  
 
     MELINDE.
 Où leur haine les porte, où mon amour me range :  
@@ -2583,7 +2581,7 @@ Amour t'ouvre le mien tout blessé, sois vainqueur ;
 Tu peux encore….  
 
     LUCIDOR.
-Avoir la victoire, & ta vie.  
+        Avoir la victoire, & ta vie.  
 
     ORONTE.
 Ouy ; j'offre l'une & l'autre à ta haine assouvie.  
@@ -2596,7 +2594,7 @@ Ton sang vient de la haine ; & l'amour te le rend.
 Mais, quel bruit ?  
 
     LUCIDOR.
-Dépéchons, avant qu'on nous separe.  
+        Dépéchons, avant qu'on nous separe.  
 
 
 ### SCENE XI.
@@ -2695,7 +2693,7 @@ DORAME, LYCANTHE.
 Qu'apporte-tu ? ma mort ?  
 
     LYCANTHE.
-Une lettre, qui donne  
+        Une lettre, qui donne  
 A ma fidelité⁎ la palme, & la Couronne ;  
 Mais qui porte en effect⁎ par un contraire effort⁎  
 La vie à l'Etranger [190], à vous mesme la mort.  
@@ -2704,12 +2702,12 @@ La vie à l'Etranger [190], à vous mesme la mort.
 La mort ?  
 
     LYCANTHE. *Luy presentant une lettre que la Princesse envoyoit à Oronte.*
-Ouy : mais voyez en ce dessein⁎ perfide,  
+        Ouy : mais voyez en ce dessein⁎ perfide,  
 Avant que de mourir, la main de l'Homicide⁎.  
 
     DORAME. *Lit ainsi le dos de la lettre.*
 *Olympe à son Oronte.* [191]  
-**Ah ! cruelle⁎ ; ce trait⁎  
+        **Ah ! cruelle⁎ ; ce trait⁎  
 Mét son consentement & ma peine en portrait :  
 Foible bien⁎, vain⁎ plaisir qui dépend d'une plume !  
 Et plus vain⁎ desespoir que le papier allume !  
@@ -2801,43 +2799,43 @@ ORONTE, OLYMPE.
 Toûjours dans vos dédains ?  
 
     OLYMPE.
-Toûjours dans vos froideurs ?  
+        Toûjours dans vos froideurs ?  
 
     ORONTE.
 Mépriser son amour ?  
 
     OLYMPE.
-Vous, mes sainctes ardeurs ?  
+        Vous, mes sainctes ardeurs ?  
 
     ORONTE.
 Que la mort d'un Amy……  
 
     OLYMPE.
-Mais la mienne vous touche,  
+        Mais la mienne vous touche,  
 
     ORONTE.
 La perte m'est au cœur.  
 
     OLYMPE.
-La mienne en vostre bouche.  
+        La mienne en vostre bouche.  
 
     ORONTE.
 Je cerche⁎ son salut.  
 
     OLYMPE.
-Par où vous me perdez.  
+        Par où vous me perdez.  
 
     ORONTE.
 Ayez pitié…..  
 
     OLYMPE.
-De moy, vous qui m'en demandez.  
+        De moy, vous qui m'en demandez.  
 
     ORONTE.
 Qu'attendez-vous d'un cœur……  
 
     OLYMPE.
-Qu'il me soit moins rebelle.  
+        Qu'il me soit moins rebelle.  
 
     ORONTE.
 Qui ne peut estre amant sans qu'il soit infidelle⁎ ?  
@@ -2850,13 +2848,13 @@ Moy de mesme, à vos yeux, de n'aymer rien que vous.
 Quoy ? meurtrir⁎ un Amy ?  
 
     OLYMPE.
-Quoy ? meurtrir⁎ une Amante ?  
+        Quoy ? meurtrir⁎ une Amante ?  
 
     ORONTE.
 Le mettre au desespoir ?  
 
     OLYMPE.
-Qui déjà me tourmente :  
+        Qui déjà me tourmente :  
 Que vous estes d'un temps pitoyable, & cruel⁎ !  
 Ah ! rendez à l'amour un devoir mutuel ;  
 Si Dorame vous lie, Olympe vous oblige⁎ ;  
@@ -2868,7 +2866,7 @@ Quoy ? ma lettre sur vous n'a-t'elle rien gagné ?
 Quelle lettre ?  
 
      OLYMPE. *Parlant bas.*
-Sans doute il ne l'a pas receuë ;  
+        Sans doute il ne l'a pas receuë ;  
 Les effects⁎ en seroient d'une meilleure yssuë.  
 Mais que je flatte en vain⁎ mon mal & mon esprit⁎ !  
 Où la voix ne peut rien qu'auroit fait cét écrit ?  
@@ -2882,7 +2880,7 @@ Son desir le recerche, & le mien vous le porte ;
 Mon amour toucheroit…  
 
     ORONTE.
-Une amitié moins forte ;  
+        Une amitié moins forte ;  
 Je vous promettray tout, hors ce poinct⁎ seulement  
 D'estre ni faux Amy, ni veritable Amant :  
 Que si ma flame est juste, & la vostre innocente ;  
@@ -3111,10 +3109,10 @@ Perdre d'un mesme temps un Rival, & vous mesme.
 Ah ! perfide !  
 
     GELANDRE.
-Ah ! cruelle.  
+    Ah ! cruelle.  
 Puis se retournant, & parlant bas.
 
-O Dieux ! puis-je à ce jour  
+        O Dieux ! puis-je à ce jour  
 Montrer tant de colere, & cacher tant d'amour ?  
 
     MELINDE.
@@ -3155,7 +3153,7 @@ Puis s'addressant à Melinde, comme en colere.
 Perfide, à quel dessein⁎ ?…  
 
     MELINDE.
-Qu'on m'apporte des chaines ;  
+        Qu'on m'apporte des chaines ;  
 Qui retarde ma honte, il prolonge mes peines :  
 Est-ce en vain⁎ que ces bras appelleront les fers⁎ ?  
 
@@ -3166,14 +3164,14 @@ Puis parlant haut comme en colere.
 Tu les auras, Méchante.  
 Se retirant & parlant bas.
 
-O parole forcée⁎ !  
+        O parole forcée⁎ !  
 Que la bouche profere, & non pas la pensée⁎.  
 
     MELINDE.
 Allons donc.  
 
     GELANDRE *parlant haut.*
-En un lieu moins horrible que toy.  
+        En un lieu moins horrible que toy.  
 Puis parlant bas & s'addressant à soy-mesme en se frappant l'estomac.
 
 Que toy, dont la rigueur est un monstre à ta foy⁎.  
@@ -3214,7 +3212,7 @@ Laissez nous le peril, & joüyssez du fruict.
 Nous yrons……  
 
     LYCANTHE.
-Je l'avise ; arrestez-vous sans bruict.  
+        Je l'avise ; arrestez-vous sans bruict.  
 
 
 ### SCENE VIII.
@@ -3258,7 +3256,7 @@ Pour estre sans repos c'est là que je t'envoye.
 Ah ! ma vie en mon sang…..  
 
     ORONTE.
-Mais ton crime se noye.  
+        Mais ton crime se noye.  
 
     SOLDAT.1 *à ses compagnons.*
 Il est mort ; accourons, & vangeons son trépas.  
@@ -3292,10 +3290,10 @@ Rends, traître, dans ton sang ma vangeance assouvie :
 Pour te perdre…..  
 
      SOLDAT *tombant.*
-Ah ! je meurs.  
+    Ah ! je meurs.  
 
     ORONTE.
-Et punir ce malheur,  
+        Et punir ce malheur,  
 Mon courage⁎ a laissé l'office⁎ à ma douleur⁎ ;  
 Les Dieux à ton trépas, aprés un tel outrage,  
 Ont bien⁎ moins employé ma valeur⁎ que ma rage.  
@@ -3471,12 +3469,12 @@ Chere Olympe, épargnez sa candeur, & mes maux.
 Jusques où l'amitié dans vostre ame s'imprime  
 Pour un Ingrat⁎, un traître, & l'auteur de ce crime ?  
 
-    ORONTE. 
+    ORONTE.
 Tous ces propos me sont plus mortels que mes coups⁎  
 Mon amitié…  
 
     OLYMPE.
-L'a fait & perfide, & jaloux.  
+        L'a fait & perfide, & jaloux.  
 
     ORONTE.
 Jaloux ? ô Dieux ! comment ? & de qui ? l'apparence ?  
@@ -3528,7 +3526,7 @@ Il luy ravit un bien⁎, vostre amour me le donne,
 Moy, je n'en puis joüir…  
 
     OLYMPE.
-Et luy l'espere en vain⁎ ;  
+        Et luy l'espere en vain⁎ ;  
 Helas ! de qui vous tuë adorez-vous la main ?  
 
     ORONTE.
@@ -3574,7 +3572,7 @@ Vous devroit fendre l'ame, & saigner dans le cœur.
 Hé Dieux ! que dittes-vous ?  
 
     OLYMPE.
-Ce qu'il m'oblige⁎ à taire,  
+        Ce qu'il m'oblige⁎ à taire,  
 Ce que vous avez fait, ce que vous devriez faire :  
 Mais porter qui les cause à plaindre nos douleurs⁎ ?  
 Qui n'a que sang aux yeux donneroit-il des pleurs ?  
@@ -3583,7 +3581,7 @@ Qui n'a que sang aux yeux donneroit-il des pleurs ?
 Olympe, traitez moy…..  
 
     OLYMPE.
-Comme vous, l'innocence  
+        Comme vous, l'innocence  
 D'un qui pour vous aymer a cette recompense,  
 Et ce lict, pour le prix de sa ferme amitié.  
 
@@ -3658,26 +3656,26 @@ Reprens-le, c'est trop cher, il me coûte un Amy ;
 O Dieux !  
 
     DORAME.
-Demande leur un Enfer, & tes peines ;  
+        Demande leur un Enfer, & tes peines ;  
 Eux & moy, nous rions de ces parolles vaines⁎ :  
 Un perfide jamais…..  
 
     ORONTE.
-Ne fut pareil à moy :  
+        Ne fut pareil à moy :  
 Prince…  
 
     DORAME.
-A Dieu.  
+    A Dieu.  
 
     ORONTE.
-Rien qu'un mot, qui contente ma foy.  
+        Rien qu'un mot, qui contente ma foy.  
 
     DORAME* retournant.*
 Sois autant importun que traître, & temeraire ;  
 Et bien⁎, que diras-tu ?  
 Oronte tirant⁎ à Dorame son épée, pour s'en frapper.
 
-Mais Dieux ! que veux-tu faire ?  
+        Mais Dieux ! que veux-tu faire ?  
 
     ORONTE *tenant l'épée haute.*
 Pour la derniere fois contre moy vous servir,  
@@ -3706,7 +3704,7 @@ Mon épée en ses mains, si quelqu'un ne la prend,
 Sa rage aprés ce coup⁎ en medite un plus grand.  
 
     ORONTE *se levant à moitié sur son*
-              * lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
+* lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
 Allez, retirez-vous ; ou vienne le plus traître ;  
 Ce bras luy montrera qu'il se prend à son Maître ;  
 Auriez-vous oublié ce qu'encore je puis ?  
@@ -3721,10 +3719,10 @@ Là je me vangeray du tort que l'on me fit.
 Je vivray jusqu'alors,  
 
     DORAME *s'en allant.*
-A demain.  
+    A demain.  
 
     ORONTE.
-Il suffit :  
+        Il suffit :  
 Revenez, approchez, Troupe fidelle & chere ;  
 Voyez, fermez ma playe, elle n'est que legere.  
 
@@ -3848,7 +3846,7 @@ La mienne est d'avoir feint d'estre ce qu'il me nomme.
 Achevons.  
 
     ORONTE.
-Ecoutez un mouvement plus doux,  
+        Ecoutez un mouvement plus doux,  
 Et mon bras, qui se plaint d'estre employé sur vous.  
 
     DORAME.
@@ -3861,10 +3859,10 @@ Est-ce ainsi, furieux, qu'il faut qu'on vous contente ?
 Tu m'ôtes……  
 
     ORONTE.
-Qu'ay-je fait ?  
+    Qu'ay-je fait ?  
 
     DORAME.
-O trop heureux vainqueur,  
+        O trop heureux vainqueur,  
 Le mouvement du bras, & non celuy du cœur ;  
 Tu vois l'épée à toy, mais non pas mon courage⁎.  
 
@@ -3899,7 +3897,7 @@ Oronte, est-ce bien⁎ vous ?
 
     LUCIDOR [245]
               *les surprenant.*
-Mais, perfide, est-ce toy,  
+        Mais, perfide, est-ce toy,  
 Que le Ciel a puni par un autre que moy ?  
 Depuis ta trahison tu trainois ton supplice ;  
 Et mon bras, sans le sien, châtioit ta malice :  
@@ -3915,7 +3913,7 @@ Puisse-t'il à jamais vous unir de la sorte.
 Helas ! qu'ay-je entendu ?  
 
     ORONTE.
-La fureur me transporte !  
+        La fureur me transporte !  
 
     DORAME.
 Une fille d'Oronte ? ô Dieux quel changement ?  
@@ -3924,7 +3922,7 @@ Une fille d'Oronte ? ô Dieux quel changement ?
 Ces mots t'ôtent la vie.  
 
     DORAME.
-A moy le jugement [246].  
+        A moy le jugement [246].  
 
     LUCIDOR.
 Fuy, malheureuse, fuy, que le vice a conduitte ;  
@@ -3957,7 +3955,7 @@ Quoy ? ce Monstre opposé, comme une autre Meduse [247],
 Tient mon ame insensible.  
 
     ORONTE.
-Et la mienne confuse.  
+        Et la mienne confuse.  
 
 
 ### SCENE VIII.
@@ -3975,7 +3973,7 @@ Est-ce luy-mesme ? ô Dieux ! rendez faux mon augure.
     ORONTE *à Dorame.*
 Quoy ? je combats pour vous, et vous m'en empéchez ?  
 
-    DORAME. 
+    DORAME.
 C'est le Ciel qui s'oppose, & nos destins cachez :  
 Puis se tournant à Lucidor.
 
@@ -3986,7 +3984,7 @@ Un crime est effacé, quand le cœur en soûpire.
 Ouy, c'est luy.  
 Puis attaquant Oronte.
 
-Cavalier, à moy, tournez le front :  
+        Cavalier, à moy, tournez le front :  
 Je vous soûtiens, mon Fils ; & le secours est promt :  
 Et quoy ? de vostre main je voy tomber les armes ?  
 
@@ -3994,7 +3992,7 @@ Et quoy ? de vostre main je voy tomber les armes ?
 O Dieux !  
 
     ORONTE *la laissant tomber de mesme.*
-Je n'en ay plus contre luy que mes larmes,  
+        Je n'en ay plus contre luy que mes larmes,  
 Puis se jettant à genoux devant son pere.
 
 Sire ; il est… Ah ! ce mot déjà sort à demy ;  
@@ -4030,13 +4028,13 @@ De remettre en vos cœurs le devoir abbattu.
 Sa force⁎ à vostre veuë……  
 
     ORONTE.
-A l'égal nous enflame.  
+        A l'égal nous enflame.  
 
     LUCIDOR.
 Excusez mes froideurs, Oronte.  
 
     ORONTE.
-Et vous, ma flame.  
+        Et vous, ma flame.  
 
     LE ROY.
 Venez ; c'est à ce coup⁎ que je vous ay treuvez.  
@@ -4065,7 +4063,7 @@ Que doy-je à la parolle & d'un Pere & d'un Roy ?
 Mon amitié triomphe.  
 
     DORAME.
-Et rappelle ma foy⁎ :  
+        Et rappelle ma foy⁎ :  
 Oronte, c'est icy que j'admire vos charmes⁎,  
 Que je treuve plus forts encore que vos armes :  
 Mon cœur déjà se plaint qu'il souffre devant vous  
@@ -4216,7 +4214,7 @@ Vous appellent nos Dieux, nos Peres, et nos Roys.
 Tenant d'eux mon Soleil…  
 
     LUCIDOR.
-Tenant d'eux mon Aurore.  
+        Tenant d'eux mon Aurore.  
 
     OLYMPE.
 Je les nomme plus Dieux que ceux que l'on adore.  
@@ -4282,7 +4280,7 @@ Qu'en vain⁎ le bras guerit si l'on blesse le cœur.
 Et dequoy se plaint-il ?  
 
     DORAME.
-Qu'ayant souffert ma haine  
+        Qu'ayant souffert ma haine  
 Vous fuyez mon amour, & recerchez ma peine.  
 
     ORONTE.
@@ -4387,7 +4385,7 @@ GELANDRE, MELINDE, PAGE⁎.
 
 
     GELANDRE *la surprenant.*
-Au dernier accident,  
+        Au dernier accident,  
 Qui m'a jetté par vous dans un gouffre evident ?  
 Tout est perdu, Melinde, ô trahison étrange⁎ :  
 Lucidor m'abandonne, & contre nous se range.  
@@ -4396,7 +4394,7 @@ Lucidor m'abandonne, & contre nous se range.
 Dieux ! comment ?  
 
     GELANDRE.
-Les Persans sous mesmes étendars  
+        Les Persans sous mesmes étendars  
 Avecque ceux de Thrace ont gagné nos ramparts ;  
 Et ce Prince suivy de Soldats à la file,  
 Sous couleur de secours, est entré dans la Ville ;  
@@ -4406,7 +4404,7 @@ Cette Ville doit estre à leur peine soufferte
 Comme un lieu de triomphe….  
 
     MELINDE.
-Et celuy de ma perte :  
+        Et celuy de ma perte :  
 Gelandre, il faut mourir, à ce coup⁎ je le doy ;  
 Prevenez ma fureur, & vous vangez de moy,  
 Moy, dont les trahisons de vos maux sont la source ;  
@@ -4434,13 +4432,13 @@ Qu'elle me coûte peu quand je perdray la vie !
 Moy seule……  
 Icy l'on entend les Trompettes, & un page⁎ entre.
 
-O Dieux ! quel bruit ?  
+    O Dieux ! quel bruit ?  
 
     GELANDRE. *Parlant au Page⁎.*
-Avance.  
+    Avance.  
 Puis parlant à Melinde.
 
-Vous tremblez.  
+        Vous tremblez.  
 
     Page⁎.
 Prince, déjà les Rois dans le Temple assemblez,  
@@ -4571,7 +4569,7 @@ Gelandre & Melinde viennent.
 Mon erreur fit la sienne……  
 
     ROY DE PERSE.
-Et veut, comme je pense,  
+        Et veut, comme je pense,  
 Que la cause du mal en soit la recompense.  
 
     DORAME.
@@ -4630,7 +4628,7 @@ Rends luy graces⁎, Amour ; ou prestes moy ta voix.
 Ma Dame, en ce baiser…  
 
     ORONTE *le baisant.*
-Nos ames sont unies.  
+        Nos ames sont unies.  
 
 
 ### SCENE VIII.
@@ -4693,7 +4691,7 @@ Comme en cét accident la fortune⁎ se jouë !
 Melinde ? approchez vous.  
 
     DORAME. *Parlant à Gelandre, tandis que Melinde saluë les Roys.*
-Prince, à la fin j'avouë  
+        Prince, à la fin j'avouë  
 Que le destin plus fort que mon ambition  
 A faict ceder ma haine à vostre affection :  
 Il donne sa Sœur en mariage à Gelandre, en faveur⁎ dequoy il renonce à la Bythinie.

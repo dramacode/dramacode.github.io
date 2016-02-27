@@ -28,7 +28,9 @@ Monseigneur,
 
 Je fais voir ici à la France des choses bien peu proportionnées. Il n'est rien de si grand, et de si superbe, que le nom que je mets à la tête de ce Livre ; et rien de plus bas que ce qu'il contient. Tout le monde trouvera cet assemblage étrange ; et quelques-uns pourront bien dire, pour en exprimer l'inégalité, que c'est poser une couronne de perles et de diamants, sur une statue de terre, et faire entrer par des Portiques magnifiques, et des arcs triomphaux superbes dans une méchante Cabane. Mais, MONSEIGNEUR, ce qui doit me servir d'excuse , c'est qu'en cette aventure je n'ay eu aucun choix à faire, et que l'honneur que j'ay d'être à VOTRE ALTESSE ROYALE, m'a imposé une nécessité absolue, de lui dédier le premier Ouvrage que je mets de moi-même au jour. Ce n'est pas un présent que je lui fais ; c'est un devoir dont je m'acquitte ; et les hommages ne sont jamais regardés par les choses qu'ils portent. J'ai donc osé, MONSEIGNEUR, dédier une bagatelle à VOTRE ALTESSE ROYALE, parce que je n'ay pu m'en dispenser ; et si je me dispense ici de m'étendre sur les belles et glorieuses vérités qu'on pourrait dire d'Elle, c'est par la juste appréhension que ces grandes idées ne fissent éclater encore davantage la bassesse de mon offrande. Je me suis imposé silence, pour trouver un endroit plus propre à placer de si belles choses, et tout ce que j'ai prétendu dans cette Épître, c'est de justifier mon action à toute la France, et d'avoir cette gloire de vous dire à vous-même, MONSEIGNEUR, avec toute la soumission possible, que je suis,
 
-De Votre Altesse Royale, *Le très humble, très obéissant, et très fidèle serviteur, J.-B. P. MOLIÈRE.*
+De Votre Altesse Royale,
+
+Le très humble, très obéissant, et très fidèle serviteur, J.-B. P. MOLIÈRE.
 
 
 # Les Personnages
@@ -69,11 +71,11 @@ Et me trouve fort bien de ma façon de vivre.
 Mais chacun la condamne.  
 
     SGANARELLE
-Oui des fous comme vous,  
+        Oui des fous comme vous,  
 Mon frère.  
 
     ARISTE
-Grand merci, le compliment est doux.  
+        Grand merci, le compliment est doux.  
 
     SGANARELLE
 Je voudrais bien savoir, puisqu'il faut tout entendre,  
@@ -168,7 +170,7 @@ Toujours dans une chambre à ne point voir le monde ?
 Il est ainsi bâti.  
 
     LÉONOR
-Je vous en plains ma sœur.  
+        Je vous en plains ma sœur.  
 
     LISETTE
 Bien vous prend que son frère ait toute une autre humeur,  
@@ -184,7 +186,7 @@ Ma foi je l'enverrais au diable avec sa fraise,
 Et…  
 
     SGANARELLE
-Où donc allez-vous, qu'il ne vous en déplaise,  
+        Où donc allez-vous, qu'il ne vous en déplaise,  
 
     LÉONOR
 Nous ne savons encore, et je pressais ma sœur  
@@ -192,7 +194,7 @@ De venir du beau temps respirer la douceur :
 Mais…  
 
     SGANARELLE
-Pour vous, vous pouvez aller où bon vous semble  
+        Pour vous, vous pouvez aller où bon vous semble  
 Vous n'avez qu'à courir, vous voilà deux ensemble :  
 Mais vous, je vous défends s'il vous plaît de sortir.  
 
@@ -203,11 +205,11 @@ Eh ! laissez-les, mon frère, aller se divertir.
 Je suis votre valet, mon frère.  
 
     ARISTE
-La jeunesse,  
+        La jeunesse,  
 Veut…  
 
     SGANARELLE
-La jeunesse est sotte, et parfois la vieillesse.  
+        La jeunesse est sotte, et parfois la vieillesse.  
 
     ARISTE
 Croyez-vous qu'elle est mal d'être avec Léonor ?  
@@ -219,7 +221,7 @@ Non pas, mais avec moi, je la crois mieux encore.
 Mais…  
 
     SGANARELLE
-Mais ses actions de moi doivent dépendre,  
+        Mais ses actions de moi doivent dépendre,  
 Et je sais l'intérêt enfin, que j'y dois prendre.  
 
     ARISTE
@@ -242,7 +244,7 @@ Laissez-moi, je vous prie, à mon gré régir l'autre.
 Il me semble…  
 
     SGANARELLE
-Il me semble, et je le dis tout haut,  
+        Il me semble, et je le dis tout haut,  
 Que sur un tel sujet, c'est parler comme il faut.  
 Vous souffrez que la vôtre, aille leste et pimpante,  
 Je le veux bien : qu'elle ait, et laquais, et suivante,  
@@ -267,14 +269,14 @@ Je prétends corps pour corps, pouvoir répondre d'elle.
 Vous n'avez pas sujet que je crois…  
 
     SGANARELLE
-Taisez-vous ;  
+        Taisez-vous ;  
 Je vous apprendrai bien, s'il faut sortir sans nous.  
 
     LÉONOR
 Quoi donc, Monsieur… ?  
 
     SGANARELLE
-Mon Dieu, Madame, sans langage,  
+        Mon Dieu, Madame, sans langage,  
 Je ne vous parle pas, car vous êtes trop sage.  
 
     LÉONOR
@@ -339,7 +341,7 @@ Il ne manquerait rien qu'un moyen de faillir.
 Chansons que tout cela.  
 
     ARISTE
-Soit, mais je tiens sans cesse,  
+        Soit, mais je tiens sans cesse,  
 Qu'il nous faut en riant instruire la jeunesse,  
 Reprendre ses défauts avec grande douceur,  
 Et du nom de vertu ne lui point faire peur ;  
@@ -388,13 +390,13 @@ Quand il faudra changer sa manière de vie.
 Et pourquoi la changer ?  
 
     SGANARELLE
-Pourquoi ?  
+    Pourquoi ?  
 
     ARISTE
-Oui ?  
+    Oui ?  
 
     SGANARELLE
-Je ne sais :  
+        Je ne sais :  
 
     ARISTE
 Y voit-on quelque chose où l'honneur soit blessé.  
@@ -407,46 +409,46 @@ Les mêmes libertés que fille on lui voit prendre ?
 Pourquoi non ?  
 
     SGANARELLE
-Vos désirs lui seront complaisants.  
+        Vos désirs lui seront complaisants.  
 Jusqu'à lui laisser, et mouches, et rubans ?  
 
     ARISTE
 Sans doute.  
 
     SGANARELLE
-À lui souffrir en cervelle troublée,  
+        À lui souffrir en cervelle troublée,  
 De courir tous les Bals, et les lieux d'assemblée ?  
 
     ARISTE
 Oui vraiment.  
 
     SGANARELLE
-Et chez vous iront les damoiseaux ?  
+        Et chez vous iront les damoiseaux ?  
 
     ARISTE
 Et quoi donc ?  
 
     SGANARELLE
-Qui joueront, et donneront cadeaux ?  
+        Qui joueront, et donneront cadeaux ?  
 
     ARISTE
 D'accord ;  
 
     SGANARELLE
-Et votre femme entendra les fleurettes ?  
+        Et votre femme entendra les fleurettes ?  
 
     ARISTE
 Fort bien,  
 
     SGANARELLE
-Et vous verrez ces visites muguettes,  
+        Et vous verrez ces visites muguettes,  
 D'un œil à témoigner de n'en être point soûl ?  
 
     ARISTE
 Cela s'entend :  
 
     SGANARELLE
-Allez, vous êtes un vieux fou.  
+        Allez, vous êtes un vieux fou.  
 À Isabelle.
 
 Rentrez pour n'ouïr point cette pratique infâme.  
@@ -488,7 +490,7 @@ Que renfermer sa femme, est le mauvais parti,
 Je suis votre valet.  
 
     SGANARELLE
-Je ne suis pas le vôtre,  
+        Je ne suis pas le vôtre,  
 Ô que les voilà bien tous formés l'un pour l'autre !  
 Quelle belle famille ! un vieillard insensé,  
 Qui fait le dameret dans un corps tout cassé,  
@@ -525,38 +527,38 @@ La jeunesse en ces lieux, libertine, absolue,
 Ne prend…  
 
     VALÈRE
-Il ne voit pas que c'est lui qu'on salue.  
+        Il ne voit pas que c'est lui qu'on salue.  
 
     ERGASTE
 Son mauvais œil, peut-être, est de ce côté-ci :  
 Passons du côté droit.  
 
     SGANARELLE
-Il faut sortir d'ici.  
+        Il faut sortir d'ici.  
 Le séjour de la ville en moi ne peut produire  
 Que des…  
 
     VALÈRE
-Il faut chez lui tâcher de m'introduire.  
+        Il faut chez lui tâcher de m'introduire.  
 
     SGANARELLE
 Heu ? J'ai cru qu'on parlait.  
-Aux champs, grâces aux cieux ;  
+        Aux champs, grâces aux cieux ;  
 Les sottises du temps ne blessent point mes yeux.  
 
     ERGASTE
 Abordez-le !  
 
     SGANARELLE
-Plaît-il ? les oreilles me cornent  
+        Plaît-il ? les oreilles me cornent  
 Là, tous les passe-temps de nos filles se bornent…  
 Est-ce à nous ?  
 
     ERGASTE
-Approchez.  
+    Approchez.  
 
     SGANARELLE
-Là, nul godelureau  
+        Là, nul godelureau  
 Ne vient… que diable… encor ? Que de coups de chapeau.  
 
     VALÈRE
@@ -566,7 +568,7 @@ Monsieur, un tel abord vous interrompt peut-être ?
 Cela se peut ?  
 
     VALÈRE
-Mais quoi ? l'honneur de vous connaître  
+        Mais quoi ? l'honneur de vous connaître  
 Est un si grand bonheur, est un si doux plaisir,  
 Que de vous saluer, j'avais un grand désir,  
 
@@ -574,28 +576,28 @@ Que de vous saluer, j'avais un grand désir,
 Soit.  
 
     VALÈRE
-Et de vous venir ; mais sans nul artifice,  
+        Et de vous venir ; mais sans nul artifice,  
 Assurer que je suis tout à votre service.  
 
     SGANARELLE
 Je le crois.  
 
     VALÈRE
-J'ai le bien d'être de vos voisins,  
+        J'ai le bien d'être de vos voisins,  
 Et j'en dois rendre grâce à mes heureux destins.  
 
     SGANARELLE
 C'est bien fait.  
 
     VALÈRE
-Mais Monsieur savez-vous les nouvelles  
+        Mais Monsieur savez-vous les nouvelles  
 Que l'on dit à la Cour, et qu'on tient pour fidèles ?  
 
     SGANARELLE
 Que m'importe.  
 
     VALÈRE
-Il est vrai ; mais pour les nouveautés,  
+        Il est vrai ; mais pour les nouveautés,  
 On peut avoir par fois des curiosités :  
 Vous irez voir, Monsieur, cette magnificence,  
 Que de notre Dauphin prépare la naissance ?  
@@ -604,13 +606,13 @@ Que de notre Dauphin prépare la naissance ?
 Si je veux.  
 
     VALÈRE
-Avouons que Paris nous fait part  
+        Avouons que Paris nous fait part  
 De cent plaisirs charmants qu'on n'a point autre part ;  
 Les Provinces auprès sont des lieux solitaires,  
 À quoi donc passez-vous le temps ?  
 
     SGANARELLE
-À mes affaires.  
+        À mes affaires.  
 
     VALÈRE
 L'esprit veut du relâche, et succombe parfois,  
@@ -621,7 +623,7 @@ Que faites-vous les soirs avant qu'on se retire ?
 Ce qui me plaît.  
 
     VALÈRE
-Sans doute on ne peut pas mieux dire :  
+        Sans doute on ne peut pas mieux dire :  
 Cette réponse est juste, et le bon sens paraît,  
 À ne vouloir jamais faire que ce qui plaît.  
 Si je ne vous croyais l'âme trop occupée,  
@@ -636,7 +638,7 @@ Valère, Ergaste.
 
 
     VALÈRE
-Que dis-tu de ce bizarre fou ?  
+        Que dis-tu de ce bizarre fou ?  
 
     ERGASTE
 Il a le repart brusque, et l'accueil loup-garou.  
@@ -645,10 +647,10 @@ Il a le repart brusque, et l'accueil loup-garou.
 Ah ! j'enrage,  
 
     ERGASTE
-Et de quoi ?  
+    Et de quoi ?  
 
     VALÈRE
-De quoi ? C'est que j'enrage  
+        De quoi ? C'est que j'enrage  
 De voir celle que j'aime au pouvoir d'un sauvage,  
 D'un dragon surveillant, dont la sévérité,  
 Ne lui laisse jouir d'aucune liberté.  
@@ -686,7 +688,7 @@ L'amour rend inventif ; mais vous ne l'êtes guère,
 Et si j'avais été…  
 
     VALÈRE
-Mais qu'aurais-tu pu faire ?  
+        Mais qu'aurais-tu pu faire ?  
 Puisque sans ce brutal on ne la voit jamais,  
 Et qu'il n'est là-dedans servantes ni valets,  
 Dont par l'appât flatteur de quelque récompense,  
@@ -714,7 +716,7 @@ Et savoir si la belle a connu que je l'aime ?
 Dis m'en quelque moyen.  
 
     ERGASTE
-C'est ce qu'il faut trouver,  
+        C'est ce qu'il faut trouver,  
 Entrons un peu chez vous afin d'y mieux rêver.  < Fin du premier Acte. >
 
 
@@ -740,7 +742,7 @@ Dis-tu pas qu'on t'a dit, qu'il s'appelle Valère.
 Oui ?  
 
     SGANARELLE
-Va, sois en repos, rentre, et me laisse faire,  
+        Va, sois en repos, rentre, et me laisse faire,  
 Je vais parler sur l'heure, à ce jeune étourdi.  
 
     ISABELLE
@@ -766,19 +768,19 @@ Se vient devant mes pas planter comme une perche,
 Monsieur, j'ai du regret…  
 
     SGANARELLE
-Ah ! c'est vous que je cherche.  
+        Ah ! c'est vous que je cherche.  
 
     VALÈRE
 Moi, monsieur ?  
 
     SGANARELLE
-Vous Valère, est-il pas votre nom ?  
+        Vous Valère, est-il pas votre nom ?  
 
     VALÈRE
 Oui ?  
 
     SGANARELLE
-Je viens vous parler, si vous le trouvez bon.  
+        Je viens vous parler, si vous le trouvez bon.  
 
     VALÈRE
 Puis-je être assez heureux, pour vous rendre service.  
@@ -791,26 +793,26 @@ Et c'est ce qui chez vous, prend droit de m'amener ;
 Chez moi, Monsieur ?  
 
     SGANARELLE
-Chez vous, faut-il, tant s'étonner !  
+        Chez vous, faut-il, tant s'étonner !  
 
     VALÈRE
 J'en ai bien du sujet, et mon âme ravie  
 De l'honneur…  
 
     SGANARELLE
-Laissons-là cet honneur, je vous prie.  
+        Laissons-là cet honneur, je vous prie.  
 
     VALÈRE
 Voulez-vous pas entrer ?  
 
     SGANARELLE
-Il n'en est pas besoin.  
+        Il n'en est pas besoin.  
 
     VALÈRE
 Monsieur, de grâce.  
 
     SGANARELLE
-Non, je n'irai pas plus loin.  
+        Non, je n'irai pas plus loin.  
 
     VALÈRE
 Tant que vous serez-là, je ne puis vous entendre ;  
@@ -819,18 +821,18 @@ Tant que vous serez-là, je ne puis vous entendre ;
 Moi je n'en veux bouger.  
 
     VALÈRE
-Eh bien, il se faut rendre,  
+        Eh bien, il se faut rendre,  
 Vite, puisque Monsieur, à cela se résout ;  
 Donnez un siège ici ;  
 
     SGANARELLE
-Je veux parler debout.  
+        Je veux parler debout.  
 
     VALÈRE
 Vous souffrir de la sorte ?  
 
     SGANARELLE
-Ah, contrainte effroyable,  
+        Ah, contrainte effroyable,  
 
     VALÈRE
 Cette incivilité serait trop condamnable,  
@@ -843,12 +845,12 @@ De n'ouïr pas les gens qui veulent nous parler.
 Je vous obéis, donc ;  
 
     SGANARELLE
-Vous ne sauriez mieux faire ;  
+        Vous ne sauriez mieux faire ;  
 Tant de cérémonie est fort peu nécessaire :  
 Voulez-vous m'écouter.  
 
     VALÈRE
-Sans doute, et de grand cœur ;  
+        Sans doute, et de grand cœur ;  
 
     SGANARELLE
 Savez-vous, dites-moi, que je suis le tuteur,  
@@ -859,7 +861,7 @@ Qui loge en ce quartier, et qu'on nomme Isabelle ?
 Oui.  
 
     SGANARELLE
-Si vous le savez, je ne vous l'apprends pas.  
+        Si vous le savez, je ne vous l'apprends pas.  
 Mais savez-vous aussi, lui trouvant des appas ;  
 Qu'autrement qu'en tuteur sa personne me touche,  
 Et qu'elle est destinée à l'honneur de ma couche.  
@@ -868,14 +870,14 @@ Et qu'elle est destinée à l'honneur de ma couche.
 Non ;  
 
     SGANARELLE
-Je vous l'apprends donc, et qu'il est à propos,  
+        Je vous l'apprends donc, et qu'il est à propos,  
 Que vos feux, s'il vous plaît, la laissent en repos.  
 
     VALÈRE
 Qui moi, Monsieur ?  
 
     SGANARELLE
-Oui vous, mettons bas toute feinte.  
+        Oui vous, mettons bas toute feinte.  
 
     VALÈRE
 Qui vous a dit, que j'ai pour elle l'âme atteinte :  
@@ -887,13 +889,13 @@ Des gens à qui l'on peut donner quelque crédit :
 Mais encor ?  
 
     SGANARELLE
-Elle-même.  
+    Elle-même.  
 
     VALÈRE
-Elle ?  
+    Elle ?  
 
     SGANARELLE
-Elle, est-ce assez dit ;  
+        Elle, est-ce assez dit ;  
 Comme une fille honnête, et qui m'aime d'enfance,  
 Elle vient de m'en faire entière confidence ;  
 Et de plus m'a chargé de vous donner avis,  
@@ -930,7 +932,7 @@ Ergaste, que dis-tu, d'une telle aventure ?
 Le voilà bien surpris ;  
 
     ERGASTE
-Selon ma conjecture,  
+        Selon ma conjecture,  
 Je tiens qu'elle n'a rien de déplaisant pour vous,  
 Qu'un mystère assez fin, est caché là-dessous,  
 Et qu'enfin cet avis n'est pas d'une personne,  
@@ -940,7 +942,7 @@ Qui veuille voir cesser l'amour qu'elle vous donne.
 Il en tient comme il faut.  
 
     VALÈRE
-Tu crois mystérieux…  
+        Tu crois mystérieux…  
 
     ERGASTE
 Oui… mais il nous observe, ôtons-nous de ses yeux.  
@@ -968,10 +970,10 @@ Hasarder un qui parle avec plus de lumière.
 Me voilà de retour.  
 
     ISABELLE
-Eh bien ?  
+    Eh bien ?  
 
     SGANARELLE
-Un plein effet  
+        Un plein effet  
 A suivi tes discours, et ton homme a son fait ;  
 Il me voulait nier que son cœur fût malade ;  
 Mais lorsque de ta part j'ai marqué l'ambassade,  
@@ -1007,7 +1009,7 @@ Et j'aurais pour cela besoin d'une personne ;
 Car d'oser à vous-même…  
 
     SGANARELLE
-Au contraire mignonne,  
+        Au contraire mignonne,  
 C'est me faire mieux voir ton amour et ta foi,  
 Et mon cœur avec joie accepte cet emploi,  
 Tu m'obliges par là plus que je ne puis dire.  
@@ -1016,13 +1018,13 @@ Tu m'obliges par là plus que je ne puis dire.
 Tenez donc.  
 
     SGANARELLE
-Bon, voyons ce qu'il a pu t'écrire.  
+        Bon, voyons ce qu'il a pu t'écrire.  
 
     ISABELLE
 Ah ! Ciel, gardez-vous bien de l'ouvrir.  
 
     SGANARELLE
-Et pourquoi.  
+        Et pourquoi.  
 
     ISABELLE
 Lui voulez-vous donner à croire que c'est moi,  
@@ -1071,10 +1073,10 @@ Ma foi les filles sont ce que l'on les fait être.
 Ho là !  
 
     ERGASTE
-Qu'est-ce ?  
+    Qu'est-ce ?  
 
     SGANARELLE
-Tenez, dites à votre Maître  
+        Tenez, dites à votre Maître  
 Qu'il ne s'ingère pas d'oser écrire encor,  
 Des lettres qu'il envoie avec des boîtes d'or,  
 Et qu'Isabelle en est puissamment irritée,  
@@ -1095,9 +1097,9 @@ Cette lettre, Monsieur, qu'avecque cette boîte,
 On prétend qu'ait reçue Isabelle de vous,  
 Et dont elle est, dit-il, en un fort grand courroux ;  
 C'est sans vouloir l'ouvrir qu'elle vous la fait rendre,  
-Lisez vite, et voyons si je me puis méprendre.  
+Lisez vite, et voyons si je me puis méprendre.  < Lettre. >
 
-    VALÈRE< Lettre. >
+    VALÈRE
 Cette lettre vous surprendra, sans doute, et l'on peut trouver bien hardi pour moi, et le dessein de vous l'écrire, et la manière de vous la faire tenir ; mais je me vois dans un état à ne plus garder de mesures ; la juste horreur d'un mariage, dont je suis menacée dans six jours, me fait hasarder toutes choses, et dans la résolution de m'en affranchir par quelque voie que ce soit, j'ai cru que je devais plutôt vous choisir que le désespoir. Ne croyez pas pourtant que vous soyez redevable de tout à ma mauvaise destinée, ce n'est pas la contrainte où je me trouve qui a fait naître les sentiments que j'ai pour vous ; mais c'est elle qui en précipite le témoignage, et qui me fait passer sur des formalités où la bienséance du sexe oblige. Il ne tiendra qu'à vous que je sois à vous bien tôt, et j'attends seulement que vous m'ayez marqué les intentions de votre amour, pour vous faire savoir la résolution que j'ai prise ; mais surtout songez que le temps presse, et que deux cœurs qui s'aiment doivent s'entendre à demi-mot.
 
     ERGASTE
@@ -1151,7 +1153,7 @@ De prétendre avec vous à l'amour d'Isabelle.
 Il est vrai, c'est folie.  
 
     VALÈRE
-Aussi n'aurais-je pas  
+        Aussi n'aurais-je pas  
 Abandonné mon cœur à suivre ses appas,  
 Si j'avais pu savoir que ce cœur misérable,  
 Dût trouver un rival comme vous redoutable.  
@@ -1160,14 +1162,14 @@ Dût trouver un rival comme vous redoutable.
 Je le crois.  
 
     VALÈRE
-Je n'ai garde à présent d'espérer,  
+        Je n'ai garde à présent d'espérer,  
 Je vous cède, Monsieur, et c'est sans murmurer.  
 
     SGANARELLE
 Vous faites bien.  
 
     VALÈRE
-Le droit de la sorte l'ordonne,  
+        Le droit de la sorte l'ordonne,  
 Et de tant de vertus brille votre personne,  
 Que j'aurais tort de voir d'un regard de courroux,  
 Les tendres sentiments qu'Isabelle a pour vous.  
@@ -1176,7 +1178,7 @@ Les tendres sentiments qu'Isabelle a pour vous.
 Cela s'entend.  
 
     VALÈRE
-Oui, oui, je vous quitte la place ;  
+        Oui, oui, je vous quitte la place ;  
 Mais je vous prie au moins, et c'est la seule grâce,  
 Monsieur, que vous demande un misérable Amant,  
 Dont vous seul aujourd'hui causez tout le tourment.  
@@ -1189,7 +1191,7 @@ Cet amour est sans tâche, et n'a jamais pensé,
 Oui.  
 
     VALÈRE
-Que ne dépendant que du choix de mon âme,  
+        Que ne dépendant que du choix de mon âme,  
 Tous mes desseins étaient de l'obtenir pour femme,  
 Si les destins en vous qui captivez son cœur,  
 N'opposaient un obstacle à cette juste ardeur.  
@@ -1198,7 +1200,7 @@ N'opposaient un obstacle à cette juste ardeur.
 Fort bien.  
 
     VALÈRE
-Que quoi qu'on fasse il ne lui faut pas croire,  
+        Que quoi qu'on fasse il ne lui faut pas croire,  
 Que jamais ses appas sortent de ma mémoire,  
 Que quelque Arrêt des Cieux, qu'il me faille subir,  
 Mon sort est de l'aimer jusqu'au dernier soupir,  
@@ -1213,10 +1215,10 @@ Que de votre cerveau cette passion sorte.
 Adieu,  
 
     ERGASTE
-La dupe est bonne.  
+    La dupe est bonne.  
 
     SGANARELLE
-Il me fait grand' pitié,  
+        Il me fait grand' pitié,  
 Ce pauvre malheureux trop rempli d'amitié ;  
 Mais c'est un mal pour lui de s'être mis en tête  
 De vouloir prendre un fort qui se voit ma conquête.  
@@ -1254,7 +1256,7 @@ Et toujours ses regards m'en ont dit l'innocence.
 Que dis-tu ?  
 
     ISABELLE
-Qu'il m'est dur que vous plaigniez si fort  
+        Qu'il m'est dur que vous plaigniez si fort  
 Un homme que je hais à l'égal de la mort,  
 Et que si vous m'aimiez autant que vous le dites,  
 Vous sentiriez l'affront que me font les poursuites.  
@@ -1265,7 +1267,7 @@ Et par l'honnêteté de ses intentions
 Son amour ne mérite…  
 
     ISABELLE
-Est-ce les avoir bonnes,  
+        Est-ce les avoir bonnes,  
 Dites-moi de vouloir enlever les personnes,  
 Est-ce être homme d'honneur de former des desseins  
 Pour m'épouser de force en m'ôtant de vos mains,  
@@ -1276,7 +1278,7 @@ Après qu'on m'aurait fait une telle infamie.
 Comment.  
 
     ISABELLE
-Oui, oui, j'ai su que ce traître d'Amant,  
+        Oui, oui, j'ai su que ce traître d'Amant,  
 Parle de m'obtenir par un enlèvement,  
 Et j'ignore pour moi les pratiques secrètes,  
 Qui l'ont instruit sitôt du dessein que vous faites,  
@@ -1289,7 +1291,7 @@ Qui doit à votre sort unir ma destinée.
 Voilà qui ne vaut rien.  
 
     ISABELLE
-Ô que pardonnez-moi,  
+        Ô que pardonnez-moi,  
 C'est un fort honnête homme, et qui ne sent pour moi…  
 
     SGANARELLE
@@ -1310,7 +1312,7 @@ Et me verrais tirer de vos mains avec joie.
 Il est fou.  
 
     ISABELLE
-Devant vous il sait se déguiser,  
+        Devant vous il sait se déguiser,  
 Et son intention est de vous amuser,  
 Croyez par ces beaux mots que le traître vous joue,  
 Je suis bien malheureuse, il faut que je l'avoue.  
@@ -1323,7 +1325,7 @@ De voir faire sur moi d'infâmes entreprises.
 Va ne redoute rien.  
 
     ISABELLE
-Pour moi je vous le dis,  
+        Pour moi je vous le dis,  
 Si vous n'éclatez fort contre un trait si hardi,  
 Et ne trouvez bientôt moyen de me défaire,  
 Des persécutions d'un pareil téméraire,  
@@ -1348,7 +1350,7 @@ Il ne se fasse pas deux fois dire une chose.
 Je dirai ce qu'il faut.  
 
     ISABELLE
-Mais tout cela d'un ton  
+        Mais tout cela d'un ton  
 Qui marque que mon cœur lui parle tout de bon.  
 
     SGANARELLE
@@ -1379,13 +1381,13 @@ Valère, Sganarelle, Ergaste.
 Monsieur, qui vous ramène en ce lieu ?  
 
     SGANARELLE
-Vos sottises.  
+        Vos sottises.  
 
     VALÈRE
 Comment ?  
 
     SGANARELLE
-Vous savez bien de quoi je veux parler ;  
+        Vous savez bien de quoi je veux parler ;  
 Je vous croyais plus sage à ne vous rien celer,  
 Vous venez m'amuser de vos belles paroles,  
 Et conservez sous main des espérances folles,  
@@ -1489,14 +1491,14 @@ C'est l'unique moyen de me rendre contente.
 Tu la seras dans peu.  
 
     ISABELLE
-Je sais qu'il est honteux  
+        Je sais qu'il est honteux  
 Aux filles d'expliquer si librement leurs vœux.  
 
     SGANARELLE
 Point point.  
 
     ISABELLE
-Mais en l'état où sont mes destinées ;  
+        Mais en l'état où sont mes destinées ;  
 De telles libertés doivent m'être données ;  
 Et je puis sans rougir faire un aveu si doux,  
 À celui que déjà je regarde en Époux.  
@@ -1511,7 +1513,7 @@ Qu'il songe donc, de grâce, à me prouver sa flamme.
 Oui, tiens baise ma main.  
 
     ISABELLE
-Que sans plus de soupirs,  
+        Que sans plus de soupirs,  
 Il conclue un hymen qui fait tous mes désirs,  
 Et reçoive en ce lieu, la foi que je lui donne,  
 De n'écouter jamais les vœux d'autre personne.  
@@ -1520,7 +1522,7 @@ De n'écouter jamais les vœux d'autre personne.
 Hé, hé, mon petit nez, pauvre petit bouchon,  
 Tu ne languiras pas longtemps, je t'en réponds,  
 Va chut.  
-Vous le voyez je ne lui fais pas dire,  
+        Vous le voyez je ne lui fais pas dire,  
 Ce n'est qu'après moi seul que son âme respire.  
 
     VALÈRE
@@ -1538,11 +1540,11 @@ Elle m'est odieuse et l'horreur est si forte…
 Eh, eh !  
 
     ISABELLE
-Vous offensé-je, en parlant de la sorte ;  
+        Vous offensé-je, en parlant de la sorte ;  
 Fais-je…  
 
     SGANARELLE
-Mon Dieu, nenni, je ne dis pas cela ;  
+        Mon Dieu, nenni, je ne dis pas cela ;  
 Mais je plains sans mentir l'état où le voilà,  
 Et c'est trop hautement que ta haine se montre.  
 
@@ -1557,17 +1559,17 @@ Ne verront plus l'objet qui vous est odieux.
 À la bonne heure ; Adieu.  
 
     SGANARELLE
-Je plains votre infortune :  
+        Je plains votre infortune :  
 Mais…  
 
     VALÈRE
-Non vous n'entendrez de mon cœur plainte aucune,  
+        Non vous n'entendrez de mon cœur plainte aucune,  
 Madame, assurément rend justice à tous deux ;  
 Et je vais travailler à contenter ses vœux !  
 Adieu.  
 
     SGANARELLE
-Pauvre garçon, sa douleur est extrême ;  
+        Pauvre garçon, sa douleur est extrême ;  
 Tenez embrassez-moi, c'est un autre elle-même.  
 
 
@@ -1579,7 +1581,7 @@ Isabelle, Sganarelle.
 Je le tiens fort à plaindre ;  
 
     ISABELLE
-Allez il ne l'est point ;  
+        Allez il ne l'est point ;  
 
     SGANARELLE
 Au reste ton amour me touche au dernier point,  
@@ -1591,7 +1593,7 @@ Dès demain je t'épouse, et n'y veux appeler…
 Dès demain ?  
 
     SGANARELLE
-Par pudeur tu feins d'y reculer,  
+        Par pudeur tu feins d'y reculer,  
 Mais, je sais bien la joie où ce discours te jette,  
 Et tu voudrais déjà que la chose fût faite.  
 
@@ -1599,7 +1601,7 @@ Et tu voudrais déjà que la chose fût faite.
 Mais…  
 
     SGANARELLE
-Pour ce mariage allons tout préparer.  
+        Pour ce mariage allons tout préparer.  
 
     ISABELLE
 Ô ciel, inspire-moi ce qui peut le parer !  < Fin du second Acte. >
@@ -1630,7 +1632,7 @@ Je reviens, et l'on va pour demain de ma part…
 Ô ciel !  
 
     SGANARELLE
-C'est toi mignonne, où vas-tu donc si tard ?  
+        C'est toi mignonne, où vas-tu donc si tard ?  
 Tu disais qu'en ta chambre étant un peu lassée,  
 Tu t'allais renfermer lorsque je t'ai laissée ;  
 Et tu m'avais prié même que mon retour,  
@@ -1640,17 +1642,17 @@ T'y souffrît en repos jusques à demain jour.
 Il est vrai, mais…  
 
     SGANARELLE
-Et quoi ?  
+    Et quoi ?  
 
     ISABELLE
-Vous me voyez confuse,  
+        Vous me voyez confuse,  
 Et je ne sais comment vous en dire l'excuse ;  
 
     SGANARELLE
 Quoi donc, que pourrait-ce être ?  
 
     ISABELLE
-Un secret surprenant ;  
+        Un secret surprenant ;  
 C'est ma sœur qui m'oblige à sortir maintenant ;  
 Et qui pour un dessein dont je l'ai fort blâmée,  
 M'a demandé ma chambre où je l'ai renfermée.  
@@ -1659,14 +1661,14 @@ M'a demandé ma chambre où je l'ai renfermée.
 Comment ?  
 
     ISABELLE
-L'eût-on pu croire, elle aime cet amant  
+        L'eût-on pu croire, elle aime cet amant  
 Que nous avons banni.  
 
     SGANARELLE
-Valère !  
+    Valère !  
 
     ISABELLE
-Éperdument :  
+        Éperdument :  
 C'est un transport si grand, qu'il n'en est point de même,  
 Et vous pouvez juger de sa puissance extrême,  
 Puisque seule à cette heure, elle est venue ici,  
@@ -1682,7 +1684,7 @@ Donné de s'épouser une foi mutuelle…
 La vilaine.  
 
     ISABELLE
-Qu'ayant appris le désespoir,  
+        Qu'ayant appris le désespoir,  
 Où j'ai précipité celui qu'elle aime à voir ;  
 Elle vient me prier de souffrir que sa flamme,  
 Puisse rompre un départ qui lui percerait l'âme ;  
@@ -1697,7 +1699,7 @@ Ce que pour moi l'on sait qu'il a d'attachement.
 Et tu trouves cela…  
 
     ISABELLE
-Moi j'en suis courroucée ;  
+        Moi j'en suis courroucée ;  
 Quoi ma sœur, ai-je dit, êtes vous insensée,  
 Ne rougissez-vous point d'avoir pris tant d'amour,  
 Pour ces sortes de gens qui changent chaque jour,  
@@ -1742,7 +1744,7 @@ Attendez que du moins je le fasse sortir.
 Eh bien fais !  
 
     ISABELLE
-Mais surtout, cachez-vous je vous prie,  
+        Mais surtout, cachez-vous je vous prie,  
 Et sans lui dire rien daignez voir sa sortie.  
 
     SGANARELLE
@@ -1793,7 +1795,7 @@ Oui, oui, je veux tenter quelque effort cette nuit,
 Pour parler… Qui va-là ?  
 
     ISABELLE
-Ne faites point de bruit,  
+        Ne faites point de bruit,  
 Valère, on vous prévient, et je suis Isabelle.  
 
     SGANARELLE
@@ -1813,7 +1815,7 @@ Je vais, où vous voudrez recevoir votre main.
 Pauvre sot qui s'abuse !  
 
     VALÈRE
-Entrez en assurance !  
+        Entrez en assurance !  
 De votre argus dupé, je brave la puissance,  
 Et devant qu'il vous pût ôter à mon ardeur,  
 Mon bras de mille coups lui percerait le cœur.  
@@ -1835,10 +1837,10 @@ Sganarelle, Le Commissaire, Notaire, *et Suite*.
 
 
     LE COMMISSAIRE
-Qu'est-ce ?  
+    Qu'est-ce ?  
 
     SGANARELLE
-Salut : Monsieur le Commissaire,  
+        Salut : Monsieur le Commissaire,  
 Votre présence en robe est ici nécessaire ;  
 Suivez-moi, s'il vous plaît, avec votre clarté.  
 
@@ -1846,13 +1848,13 @@ Suivez-moi, s'il vous plaît, avec votre clarté.
 Nous sortions…  
 
     SGANARELLE
-Il s'agit d'un fait assez hâté.  
+        Il s'agit d'un fait assez hâté.  
 
     LE COMMISSAIRE
 Quoi !  
 
     SGANARELLE
-D'aller là-dedans, et d'y surprendre ensemble,  
+        D'aller là-dedans, et d'y surprendre ensemble,  
 Deux personnes qu'il faut qu'un bon hymen assemble,  
 C'est une fille à nous que sous un don de foi,  
 Un Valère a séduite, et fait entrer chez soi ;  
@@ -1860,17 +1862,17 @@ Elle sort de famille, et noble, et vertueuse,
 Mais…  
 
     LE COMMISSAIRE
-Si c'est pour cela la rencontre est heureuse,  
+        Si c'est pour cela la rencontre est heureuse,  
 Puisqu'ici nous avons un Notaire !  
 
     SGANARELLE
-Monsieur ?  
+        Monsieur ?  
 
     LE NOTAIRE
 Oui, Notaire Royal ;  
 
     LE COMMISSAIRE
-De plus homme d'honneur !  
+        De plus homme d'honneur !  
 
     SGANARELLE
 Cela s'en va sans dire, entrez dans cette porte,  
@@ -1894,7 +1896,7 @@ Ariste, Sganarelle.
 
 
     ARISTE
-Qui frappe ! ah, ah, que voulez-vous mon frère ;  
+        Qui frappe ! ah, ah, que voulez-vous mon frère ;  
 
     SGANARELLE
 Venez beau directeur, suranné damoiseau,  
@@ -1904,27 +1906,27 @@ On veut vous faire voir quelque chose de beau.
 Comment !  
 
     SGANARELLE
-Je vous apporte une bonne nouvelle,  
+        Je vous apporte une bonne nouvelle,  
 
     ARISTE
 Quoi !  
 
     SGANARELLE
-Votre Léonor où, je vous prie, est-elle.  
+        Votre Léonor où, je vous prie, est-elle.  
 
     ARISTE
 Pourquoi cette demande, elle est comme je crois,  
 Au Bal chez son amie.  
 
     SGANARELLE
-Eh, oui, oui, suivez-moi,  
+        Eh, oui, oui, suivez-moi,  
 Vous verrez à quel Bal, la donzelle est allée ;  
 
     ARISTE
 Que voulez-vous conter.  
 
     SGANARELLE
-Vous l'avez bien stylée ;  
+        Vous l'avez bien stylée ;  
 Il n'est pas bon de vivre en sévère censeur,  
 On gagne les esprits par beaucoup de douceur ;  
 Et les soins défiants, les verrous, et les grilles,  
@@ -1956,10 +1958,10 @@ Et qu'à l'heure présente elle est entre ses bras.
 Qui !  
 
     SGANARELLE
-Léonor.  
+    Léonor.  
 
     ARISTE
-Cessons de railler, je vous prie.  
+        Cessons de railler, je vous prie.  
 
     SGANARELLE
 Je raille, il est fort bon avec sa raillerie ;  
@@ -1977,7 +1979,7 @@ J'enrage, par ma foi, l'âge ne sert de guère
 Quand on n'a pas cela.  
 
     ARISTE
-Quoi vous voulez mon frère…  
+        Quoi vous voulez mon frère…  
 
     SGANARELLE
 Mon Dieu je ne veux rien, suivez-moi seulement,  
@@ -2009,7 +2011,7 @@ De vouloir posséder un cœur malgré lui-même ;
 Mais je ne saurais croire enfin…  
 
     SGANARELLE
-Que de discours,  
+        Que de discours,  
 Allons : ce procès-là continuerait toujours.  
 
 
@@ -2029,7 +2031,7 @@ A signé que pour femme il tient celle qu'il garde.
 La fille…  
 
     LE COMMISSAIRE
-Est renfermée et ne veut point sortir,  
+        Est renfermée et ne veut point sortir,  
 Que vos désirs aux leurs ne veuillent consentir.  
 
 
@@ -2053,26 +2055,26 @@ Il ne s'est point encore détrompé d'Isabelle,
 Profitons de l'erreur.  
 
     ARISTE
-Mais, est-ce Léonor…  
+        Mais, est-ce Léonor…  
 
     SGANARELLE
 Taisez-vous.  
 
     ARISTE
-Mais…  
+    Mais…  
 
     SGANARELLE
-Paix donc ?  
+    Paix donc ?  
 
     ARISTE
-Je veux savoir…  
+    Je veux savoir…  
 
     SGANARELLE
-Encor ?  
+        Encor ?  
 Vous tairez-vous vous dis-je.  
 
     VALÈRE
-Enfin quoi qu'il advienne,  
+        Enfin quoi qu'il advienne,  
 Isabelle à ma foi, j'ai de même la sienne,  
 Et ne suis point un choix à tout examiner,  
 Que vous soyez reçus à faire condamner.  
@@ -2081,7 +2083,7 @@ Que vous soyez reçus à faire condamner.
 Ce qu'il dit là n'est pas…  
 
     SGANARELLE
-Taisez-vous, et pour cause,  
+        Taisez-vous, et pour cause,  
 Vous saurez le secret, oui, sans dire autre chose,  
 Nous consentons tous deux que vous soyez l'époux  
 De celle qu'à présent on trouvera chez vous.  
@@ -2095,12 +2097,12 @@ Signez, la fille après vous mettra tous d'accord.
 J'y consens de la sorte.  
 
     SGANARELLE
-Et moi je le veux fort,  
+        Et moi je le veux fort,  
 Nous rirons bien tantôt, là, signez donc, mon frère,  
 L'honneur vous appartient.  
 
     ARISTE
-Mais quoi tout ce mystère…  
+        Mais quoi tout ce mystère…  
 
     SGANARELLE
 Diantre que de façons, signez, pauvre butor.  
@@ -2116,19 +2118,19 @@ De les laisser tous deux à leur foi mutuelle,
 Sans doute.  
 
     SGANARELLE
-Signez donc, j'en fais de même aussi.  
+        Signez donc, j'en fais de même aussi.  
 
     ARISTE
 Soit, je n'y comprends rien.  
 
     SGANARELLE
-Vous serez éclairci.  
+        Vous serez éclairci.  
 
     LE COMMISSAIRE
 Nous allons revenir.  
 
     SGANARELLE
-Or ça, je vais vous dire  
+        Or ça, je vais vous dire  
 La fin de cette intrigue.  
 
 
@@ -2137,7 +2139,7 @@ Léonor, Lisette, Sganarelle, Ariste.
 
 
     LÉONOR
-Ô l'étrange martyre,  
+        Ô l'étrange martyre,  
 Que tous ces jeunes fous me paraissent fâcheux,  
 Je me suis dérobée au Bal pour l'amour d'eux.  
 
@@ -2157,7 +2159,7 @@ Que tous les beaux transports d'une jeune cervelle :
 Mais n'aperçois-je pas…  
 
     SGANARELLE
-Oui l'affaire est ainsi :  
+        Oui l'affaire est ainsi :  
 Ah ! je la vois paraître, et la servante aussi.  
 
     ARISTE
@@ -2249,7 +2251,7 @@ Et je le donne tout au Diable de bon cœur.
 Bon.  
 
     ARISTE
-Allons tous chez moi. Venez Seigneur Valère.  
+        Allons tous chez moi. Venez Seigneur Valère.  
 Nous tâcherons demain d'apaiser sa colère.  
 
     LISETTE

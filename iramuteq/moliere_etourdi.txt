@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_etourdi *id_I01 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1655 *creator_moliere
 
 -*who_lelie
 Hé bien ! Léandre, hé bien ! il faudra contester ;
@@ -10,7 +10,7 @@ Aux vœux de son Rival portera plus d'obstacle.
 Préparez vos efforts, et vous défendez bien,
 Sûr que de mon côté je n'épargnerai rien.
 
-**** *book_moliere_etourdi *id_I02 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1655 *creator_moliere
 
 -*who_lelie
 Ah ! Mascarille.
@@ -203,7 +203,7 @@ Prends garde.
 Dans ce coin demeurons en repos.
 Oh ! bonheur ! la voilà qui paraît à propos.
 
-**** *book_moliere_etourdi *id_I03 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1655 *creator_moliere
 
 -*who_lelie
 Ah ! que le Ciel m'oblige, en offrant à ma vue
@@ -241,7 +241,7 @@ Ce malheureux vieillard devait-il nous troubler !
 -*who_mascarille
 Allez, retirez-vous ; je saurai lui parler.
 
-**** *book_moliere_etourdi *id_I04 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1655 *creator_moliere
 
 -*who_trufaldin
 Que faites-vous dehors ? et quel soin vous talonne,
@@ -385,7 +385,7 @@ Fort bien. À dire vrai, l'argent ;
 Serait dans notre affaire un sûr et fort agent ;
 Mais ce ressort manquant, il faut user d'un autre.
 
-**** *book_moliere_etourdi *id_I05 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1655 *creator_moliere
 
 -*who_anselme
 Par mon chef, c'est un siècle étrange que le nôtre !
@@ -533,7 +533,7 @@ Qu'après vous payerez si cela l'accommode.
 Soit, donne-la pour moi ; mais surtout fais si bien,
 Qu'elle garde toujours l'ardeur de me voir sien.
 
-**** *book_moliere_etourdi *id_I06 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1655 *creator_moliere
 
 -*who_lelie
 À qui la bourse ?
@@ -608,7 +608,7 @@ Menons bien ce projet, la fourbe sera fine,
 S'il faut qu'elle succède ainsi que j'imagine.
 Allons voir… bon, voici mon homme justement.
 
-**** *book_moliere_etourdi *id_I07 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1655 *creator_moliere
 
 -*who_pandolfe
 Mascarille,
@@ -731,7 +731,7 @@ Et la mettre en tes mains pour achever le reste.
 Bon, allons avertir mon Maître de ceci :
 Vive la fourberie, et les fourbes aussi.
 
-**** *book_moliere_etourdi *id_I08 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1655 *creator_moliere
 
 -*who_hippolyte
 Oui, traître, c'est ainsi que tu me rends service ;
@@ -837,7 +837,7 @@ L'espérance du gain n'est pas ce qui me flatte.
 Ton maître te fait signe, et veut parler à toi ;
 Je te quitte : mais songe à bien agir pour moi.
 
-**** *book_moliere_etourdi *id_I09 *act_I *date_1655 *creator_moliere
+**** *book_ *id_I09 *act_I *date_1655 *creator_moliere
 
 -*who_lelie
 Que diable fais-tu là ? Tu me promets merveille ;
@@ -868,7 +868,7 @@ Et que Monsieur Satan vous vînt tordre le cou.
 Il nous le faut mener en quelque Hôtellerie,
 Et faire sur les pots décharger sa furie.
 
-**** *book_moliere_etourdi *id_II01 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1655 *creator_moliere
 
 -*who_mascarille
 À vos désirs enfin il a fallu se rendre,
@@ -925,7 +925,7 @@ Par la douceur du bien qui m'en doit arriver :
 Juste Ciel ! qu'ils sont prompts ! je les vois en parole,
 Allons nous préparer à jouer notre rôle.
 
-**** *book_moliere_etourdi *id_II02 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1655 *creator_moliere
 
 -*who_mascarille
 La nouvelle a sujet de vous surprendre fort.
@@ -985,7 +985,7 @@ Tâchons à ce progrès que le reste réponde,
 Et de peur de trouver dans le port un écueil,
 Conduisons le vaisseau de la main et de l'œil.
 
-**** *book_moliere_etourdi *id_II03 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1655 *creator_moliere
 
 -*who_anselme
 Sortons, je ne saurais qu'avec douleur très forte,
@@ -1089,7 +1089,7 @@ Le monde est rempli de beaucoup de traverses.
 Chaque homme tous les jours en ressent de diverses,
 Et jamais ici-bas…
 
-**** *book_moliere_etourdi *id_II04 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1655 *creator_moliere
 
 -*who_anselme
 Ah ! bons Dieux, je frémis !
@@ -1186,7 +1186,7 @@ Et d'être encor si prompt à faire une sottise !
 D'examiner si peu sur un premier rapport…
 Mais je vois…
 
-**** *book_moliere_etourdi *id_II05 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1655 *creator_moliere
 
 -*who_lelie
 Maintenant avec ce passeport,
@@ -1235,7 +1235,7 @@ Allez, allez mourir de honte, et de regret.
 Il faut dire : J'en tiens ; quelle surprise extrême !
 D'où peut-il avoir su sitôt le stratagème !
 
-**** *book_moliere_etourdi *id_II06 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1655 *creator_moliere
 
 -*who_mascarille
 Quoi ? vous étiez sorti ? je vous cherchais partout :
@@ -1359,7 +1359,7 @@ Savais-je pas qu'enfin ce n'était que grimace ;
 Et, quoi que ces esprits jurent d'effectuer,
 Qu'on n'est point aujourd'hui si prompt à se tuer.
 
-**** *book_moliere_etourdi *id_II07 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II07 *act_II *date_1655 *creator_moliere
 
 -*who_lelie
 Que vois-je ! mon rival et Trufaldin ensemble !
@@ -1499,7 +1499,7 @@ Aussitôt en tes mains elle sera rendue,
 Et dans cette maison tu me la conduiras
 Quand… mais chut, Hippolyte est ici sur nos pas.
 
-**** *book_moliere_etourdi *id_II08 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II08 *act_II *date_1655 *creator_moliere
 
 -*who_hippolyte
 Je dois vous annoncer, Léandre, une nouvelle ;
@@ -1528,7 +1528,7 @@ Après ce rare exploit, je veux que l'on s'apprête
 Et qu'au bas du portrait on mette en lettres d'or,
 Vivat Mascarillus, fourbum Imperator.
 
-**** *book_moliere_etourdi *id_II09 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II09 *act_II *date_1655 *creator_moliere
 
 -*who_mascarille
 Holà.
@@ -1544,7 +1544,7 @@ Vous dira le sujet qui cause ma venue.
 Oui, je reconnais bien la bague que voilà :
 Je vais querir l'esclave, arrêtez un peu là.
 
-**** *book_moliere_etourdi *id_II10 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II10 *act_II *date_1655 *creator_moliere
 
 -*who_courrier
 Seigneur, obligez‑moi de m'enseigner un homme…
@@ -1608,7 +1608,7 @@ Ce Courrier que la foudre, ou la grêle accompagne ;
 Jamais, certes, jamais, plus beau commencement
 N'eut en si peu de temps plus triste événement.
 
-**** *book_moliere_etourdi *id_II11 *act_II *date_1655 *creator_moliere
+**** *book_ *id_II11 *act_II *date_1655 *creator_moliere
 
 -*who_mascarille
 Quel beau transport de joie à présent vous inspire ?
@@ -1714,7 +1714,7 @@ Il m'échappe ! oh ! malheur qui ne se peut forcer !
 Au discours qu'il m'a fait que saurais-je comprendre ?
 Et quel mauvais office aurais-je pu me rendre ?
 
-**** *book_moliere_etourdi *id_III01 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1655 *creator_moliere
 
 -*who_mascarille
 Taisez-vous, ma bonté, cessez votre entretien ;
@@ -1754,7 +1754,7 @@ Dont je promettrais bien un succès glorieux,
 Si je puis n'avoir plus cet obstacle à combattre :
 Bon, voyons si son feu se rend opiniâtre.
 
-**** *book_moliere_etourdi *id_III02 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1655 *creator_moliere
 
 -*who_mascarille
 Monsieur, j'ai perdu temps, votre homme se dédit.
@@ -1869,7 +1869,7 @@ Je ne sais quel paquet qui doit venir pour moi.
 Qui ne s'y fût trompé ? jamais l'air d'un visage,
 Si ce qu'il dit est vrai, n'imposa davantage.
 
-**** *book_moliere_etourdi *id_III03 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1655 *creator_moliere
 
 -*who_lelie
 Du chagrin qui vous tient, quel peut être l'objet ?
@@ -1974,7 +1974,7 @@ S'il m'avait soutenu des faussetés pareilles.
 Moi, je lui couperais sur-le-champ les oreilles,
 S'il n'était pas garant de tout ce qu'il m'a dit.
 
-**** *book_moliere_etourdi *id_III04 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1655 *creator_moliere
 
 -*who_lelie
 Ah ! bon, bon, le voilà, venez çà, chien maudit.
@@ -2214,7 +2214,7 @@ Et de nous tourmenter de même qu'un lutin :
 Léandre, pour nous nuire, est hors de garde enfin,
 Et Célie, arrêtée avecque l'artifice…
 
-**** *book_moliere_etourdi *id_III05 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1655 *creator_moliere
 
 -*who_ergaste
 Je te cherchais partout pour te rendre un service,
@@ -2269,7 +2269,7 @@ Si j'ai reçu du Ciel les fourbes en partage,
 Je ne suis point au rang de ces esprits mal nés
 Qui cachent les talents que Dieu leur a donnés.
 
-**** *book_moliere_etourdi *id_III06 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1655 *creator_moliere
 
 -*who_lelie
 Il prétend l'enlever avec sa mascarade ?
@@ -2296,7 +2296,7 @@ Mais, vienne qui voudra contre notre personne,
 J'ai deux bons pistolets, et mon épée est bonne.
 Holà, quelqu'un, un mot.
 
-**** *book_moliere_etourdi *id_III07 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1655 *creator_moliere
 
 -*who_trufaldin
 Qu'est-ce ? qui me vient voir ?
@@ -2322,7 +2322,7 @@ Hé bien ? qu'avais-je dit ? les voyez-vous paraître ?
 Chut, je veux à vos yeux leur en faire l'affront,
 Nous allons voir beau jeu, si la corde ne rompt.
 
-**** *book_moliere_etourdi *id_III08 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1655 *creator_moliere
 
 -*who_trufaldin
 Oh ! les plaisants robins qui pensent me surprendre !
@@ -2373,7 +2373,7 @@ Vois-moi…
 Tarare, allons camarades, allons.
 J'entends venir des gens qui sont sur nos talons.
 
-**** *book_moliere_etourdi *id_III09 *act_III *date_1655 *creator_moliere
+**** *book_ *id_III09 *act_III *date_1655 *creator_moliere
 
 -*who_leandre
 Sans bruit ; ne faisons rien que de la bonne sorte.
@@ -2393,7 +2393,7 @@ Elle vous fait présent de cette cassolette.
 Fi, cela sent mauvais ; et je suis tout gâté ;
 Nous sommes découverts, tirons de ce côté.
 
-**** *book_moliere_etourdi *id_IV01 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1655 *creator_moliere
 
 -*who_mascarille
 Vous voilà fagoté d'une plaisante sorte.
@@ -2584,7 +2584,7 @@ Je m'en vais sans obstacle, avec des traits de flamme,
 Peindre à cette beauté les tourments de mon âme ;
 Je saurai quel arrêt je dois… mais les voici.
 
-**** *book_moliere_etourdi *id_IV02 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1655 *creator_moliere
 
 -*who_trufaldin
 Sois béni, juste Ciel ! de mon sort adouci.
@@ -2740,7 +2740,7 @@ Et m'en vais débiter avecque hardiesse…
 -*who_mascarille
 Voici notre rival qui ne sait pas la pièce.
 
-**** *book_moliere_etourdi *id_IV03 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1655 *creator_moliere
 
 -*who_anselme
 Arrêtez-vous, Léandre, et souffrez un discours,
@@ -2794,7 +2794,7 @@ On ouvre cette porte,
 Retirons-nous plus loin, de crainte qu'il n'en sorte
 Quelque secret poison dont vous seriez surpris.
 
-**** *book_moliere_etourdi *id_IV04 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1655 *creator_moliere
 
 -*who_mascarille
 Bientôt de notre fourbe on verra le débris,
@@ -2864,7 +2864,7 @@ Je veux bien néanmoins, pour te plaire une fois,
 Faire force à l'amour qui m'impose des lois :
 Désormais…
 
-**** *book_moliere_etourdi *id_IV05 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1655 *creator_moliere
 
 -*who_mascarille
 Nous parlions des fortunes d'Horace.
@@ -2932,7 +2932,7 @@ Et par là vous verrez que je n'y trempe en rien.
 Ah ! vous serez rossé, Monsieur de l'Arménie,
 Qui toujours gâtez tout.
 
-**** *book_moliere_etourdi *id_IV06 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1655 *creator_moliere
 
 -*who_trufaldin
 Un mot, je vous supplie.
@@ -3078,7 +3078,7 @@ Oui, va, je m'y tiendrai.
 -*who_mascarille
 Il faut voir maintenant quel biais je prendrai.
 
-**** *book_moliere_etourdi *id_IV07 *act_IV *date_1655 *creator_moliere
+**** *book_ *id_IV07 *act_IV *date_1655 *creator_moliere
 
 -*who_ergaste
 Mascarille, je viens te dire une nouvelle,
@@ -3116,7 +3116,7 @@ Il n'est rien que leur art aveuglément ne tente,
 Et du plus innocent, toujours à leur profit
 La bourse est criminelle, et paie son délit.
 
-**** *book_moliere_etourdi *id_V01 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1655 *creator_moliere
 
 -*who_mascarille
 Ah chien ! ah double chien ! mâtine de cervelle,
@@ -3162,7 +3162,7 @@ Nul que moi ne s'y tient, et j'en garde la clé.
 Oh ! Dieu, qu'en peu de temps on a vu d'aventures !
 Et qu'un fourbe est contraint de prendre de figures !
 
-**** *book_moliere_etourdi *id_V02 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1655 *creator_moliere
 
 -*who_andres
 Vous le savez, Célie, il n'est rien que mon cœur
@@ -3212,7 +3212,7 @@ Toutes mes volontés ne butent qu'à vous plaire ;
 Cherchons une maison à vous mettre en repos,
 L'écriteau que voici s'offre tout à propos.
 
-**** *book_moliere_etourdi *id_V03 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1655 *creator_moliere
 
 -*who_andres
 Seigneur Suisse, êtes-vous de ce logis le maître ?
@@ -3276,7 +3276,7 @@ Elle a mal à la tête.
 Moi, chavoir de pon fin, et de fromage pon.
 Entre fous, entre fous, dans mon petit maisson.
 
-**** *book_moliere_etourdi *id_V04 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1655 *creator_moliere
 
 -*who_lelie
 Quel que soit le transport d'une âme impatiente,
@@ -3356,7 +3356,7 @@ Que pourrais‑je vous dire ? et quel remerciement ?…
 -*who_andres
 Non, ne m'en faites point, je n'en veux nullement.
 
-**** *book_moliere_etourdi *id_V05 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1655 *creator_moliere
 
 -*who_mascarille
 Hé bien ! ne voilà pas mon enragé de maître !
@@ -3425,7 +3425,7 @@ Et j'aurai cet honneur d'avoir fini l'ouvrage.
 -*who_mascarille
 Soit, vous aurez été bien plus heureux que sage.
 
-**** *book_moliere_etourdi *id_V06 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1655 *creator_moliere
 
 -*who_andres
 N'est-ce pas là l'objet dont vous m'avez parlé ?
@@ -3470,7 +3470,7 @@ Plus l'obstacle est puissant, plus on reçoit de gloire,
 Et les difficultés dont on est combattu,
 Sont les dames d'atour qui parent la vertu.
 
-**** *book_moliere_etourdi *id_V07 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V07 *act_V *date_1655 *creator_moliere
 
 -*who_celie
 Quoi que tu veuilles dire, et que l'on se propose,
@@ -3502,7 +3502,7 @@ Remuer terre et Ciel, m'y prendre de tout sens,
 Pour tâcher de trouver un biais salutaire ;
 Et vous dirai bientôt ce qui se pourra faire.
 
-**** *book_moliere_etourdi *id_V08 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V08 *act_V *date_1655 *creator_moliere
 
 -*who_hippolyte
 Depuis votre séjour, les Dames de ces lieux
@@ -3550,7 +3550,7 @@ Dont envers moi Léandre a parjuré ses vœux ;
 Et le vais voir tantôt, sans haine et sans colère,
 Ramené sous mes lois par le pouvoir d'un père.
 
-**** *book_moliere_etourdi *id_V09 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V09 *act_V *date_1655 *creator_moliere
 
 -*who_mascarille
 Grande ! grande nouvelle, et succès surprenant !
@@ -3670,7 +3670,7 @@ Un tel ravissement rend mes esprits confus,
 Que pour mon propre sort je n'en aurais pas plus.
 Mais les voici venir.
 
-**** *book_moliere_etourdi *id_V10 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V10 *act_V *date_1655 *creator_moliere
 
 -*who_trufaldin
 Ah ! ma fille.
@@ -3715,7 +3715,7 @@ Et t'engage à son fils sous les lois d'hyménée ?
 -*who_celie
 Que de vous maintenant dépend ma destinée.
 
-**** *book_moliere_etourdi *id_V11 *act_V *date_1655 *creator_moliere
+**** *book_ *id_V11 *act_V *date_1655 *creator_moliere
 
 -*who_mascarille
 Voyons si votre diable aura bien le pouvoir

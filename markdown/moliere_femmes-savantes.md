@@ -1,5 +1,5 @@
 ---
-identifier: moliere_femmes  
+identifier: moliere_femmes-savantes  
 creator: Molière  
 date: 1669  
 title: Les femmes savantes  

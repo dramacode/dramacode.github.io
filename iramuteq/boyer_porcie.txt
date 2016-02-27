@@ -25,11 +25,11 @@ Vostre trés-humble, et trés
 
 obéïssant serviteur.
 
-BOYER 
+BOYER
 
 LA PORCIE ROMAINE TRAGEDIE
 
-**** *book_ *id_body-3-1 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-301 *act_ *date_1646 *creator_boyer
 
 -*who_brute
 Pourquoy mal à propos, image triste, et noire,
@@ -54,13 +54,13 @@ S'efforce à retarder les desseins glorieux,
 Que pour la liberté m'inspirèrent les Dieux.
 Maxime, à moy.
 
-**** *book_ *id_body-3-2 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-302 *act_ *date_1646 *creator_boyer
 
 -*who_maxime
-Seigneur,
+      Seigneur,
 
 -*who_brute
-Voy cette ombre obstinée.
+      Voy cette ombre obstinée.
 Mais je ne la voy plus, et mon âme estonnée
 Sent un trouble secret, quand cette ombre s'enfuit.
 Sa présence m'anime, et sa fuite me nuit.
@@ -105,7 +105,7 @@ Cassie en rougiroit. Mais Dieux ! Quelle tristesse
 Couvre, et paslit ce front autrefois si serain ?
 Est-ce là le maintien, et le front d'un Romain ?
 
-**** *book_ *id_body-3-3 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-303 *act_ *date_1646 *creator_boyer
 
 -*who_cassie
 Brute je suis Romain, cognoissez mieux Cassie:
@@ -215,7 +215,7 @@ A qui j'oze exposer Rome, et tout l'Univers.
 Vous vous rendez enfin.
 
 -*who_brute
-Oüy, je me rends Cassie,
+      Oüy, je me rends Cassie,
 Je me rends sans rougir en faveur de Porcie ;
 Et je fus envers elle ingrat, et sans souci,
 D'avoir voulu combâtre en la voyant icy.
@@ -234,7 +234,7 @@ Qui doit haster ma gloire, et son esloignement.
 O ! Dieux que cet objet met du trouble en mon Ame
 Qu'un coeur est esbranlé par les yeux d'une femme !
 
-**** *book_ *id_body-3-4 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-304 *act_ *date_1646 *creator_boyer
 
 -*who_brute
 Enfin nous arrivons à ce funeste jour,
@@ -328,7 +328,7 @@ Par un char triomphant insolemment traisnée.
 O !Dieux.
 
 -*who_porcie
-Me faites-vous un si lasche destin ?
+      Me faites-vous un si lasche destin ?
 Voyez quel fut Caton, et quelle fut sa fin:
 Reconnoissez son sang ; et sçachez que sa fille
 Ne trahira jamais l'honneur de sa famille.
@@ -397,13 +397,13 @@ J'auray soin de pourvoir au salut de Porcie.
 Tu sçais combien ce soin importe à mon Amour.
 Adieu, nous nous verrons à la pointe du jour.
 
-**** *book_ *id_body-4-1 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-401 *act_ *date_1646 *creator_boyer
 
 -*who_brute
 Hé bien, tout est-il prest ?
 
 -*who_cassie
-Oüy, Brute, il faut combâtre :
+      Oüy, Brute, il faut combâtre :
 Les soldats, que les Dieux semblent vouloir abâtre,
 Et qu'ils avoient émeu par d'injustes frayeurs,
 Ont repris par ma voix leurs premières ardeurs.
@@ -430,13 +430,13 @@ Par des cris redoublez s'animent au combat.
 On n'attend plus que vous.
 
 -*who_brute
-Allons donc : mais Cassie,
+      Allons donc : mais Cassie,
 
 -*who_cassie
 Quoy ?
 
 -*who_brute
-Je revoy tousjours l'image de Porcie ;
+      Je revoy tousjours l'image de Porcie ;
 Tu vois que je l'expose, et que malgré mes voeux
 Rien ne peut ébransler un coeur si généreux.
 Que n'estes vous, Porcie, un peu moins généreuse,
@@ -448,7 +448,7 @@ N'aurroit pas des frayeurs, qu'il ne peut surmonter.
 Qu'avés vous résolu ?
 
 -*who_brute
-De courir à la gloire,
+      De courir à la gloire,
 De servir mon amour, sans souiller ma mémoire ;
 D'aymer tousjours Porcie, et de la conserver,
 De respandre mon sang, pour vaincre, et la sauver ;
@@ -461,7 +461,7 @@ Elle vient ; un Adieu me rend quite envers elle
 Accorde à mon Amour ce funeste loisir ;
 Va, ne sois pas tesmoin de nostre déplaisir.
 
-**** *book_ *id_body-4-2 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-402 *act_ *date_1646 *creator_boyer
 
 -*who_brute
 Il est temps de partir : souffrez que je vous quite :
@@ -549,7 +549,7 @@ Plus j'en sens les douceurs, plus je crains son absence
 Adieu donc, ma Porcie.
 
 -*who_porcie
-Adieu, souvenez-vous,
+      Adieu, souvenez-vous,
 Que Brute est tout mon bien, que Brute est mon époux :
 Et si le Ciel, hélas ! Par un coup trop funeste...
 Pardonnés des souspirs qui vous diront le reste.
@@ -558,7 +558,7 @@ Pardonnés des souspirs qui vous diront le reste.
 Madame esperés mieux, adieu ;demeure icy,
 Maxime, prens soin d'elle ; et toy Julie aussi.
 
-**** *book_ *id_body-4-3 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Il est party, Julie, et je n'ose m'en plaindre
@@ -656,10 +656,10 @@ Pour venir jusqu'à moy doivent passer par luy.
 Va.
 
 -*who_maxime
-Mais que dira-t-il ?
+      Mais que dira-t-il ?
 
 -*who_porcie
-Que Maxime est fidelle,
+      Que Maxime est fidelle,
 Et qu'il a pour Porcie un véritable zèle ;
 Que si sa tendre amour blasme ce procédé ;
 Dis que c'est mon amour, qui te l'a commandé ;
@@ -672,7 +672,7 @@ T'oblige d'arrester de peur de luy desplaire,
 Pour le moins va sçavoir, s'il est en bon estat,
 Et reviens m'advertir du succez du combat.
 
-**** *book_ *id_body-4-4 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-404 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Je puis donc maintenant avecque confidence⁎
@@ -776,7 +776,7 @@ L'oeil tournée vers le Ciel, quelquefois vers l'Armée,
 Je pousseray vers l'un des soûpirs généreux,
 Et l'autre m'aprendra le succez de mes voeux.
 
-**** *book_ *id_body-5-1 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-501 *act_ *date_1646 *creator_boyer
 
 -*who_cassie
 Désirs impétueux d'une ardeur violente,
@@ -786,7 +786,7 @@ Je m'abandonne après à tout mon désespoir :
 Pour le moins un moment souffrez que je respire.
 Que fait fileuses. O ! Dieux, que luy pourray-je dire !
 
-**** *book_ *id_body-5-2 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-502 *act_ *date_1646 *creator_boyer
 
 -*who_julie
 Hélas !Sans m'informer, quels sont les desplaisirs,
@@ -794,13 +794,13 @@ Qui d'un si grand courage arrachent ces soupirs ;
 J'en prevoy le sujet.
 
 -*who_cassie
-Oüy, Brute est mort, Julie.
+      Oüy, Brute est mort, Julie.
 
 -*who_julie
 Dieux !
 
 -*who_cassie
-Dans un profond deuil mon Ame ensevelie,
+      Dans un profond deuil mon Ame ensevelie,
 Et ces traits languissans, que peignent mes douleurs,
 Te descouvrent assez la perte, et nos malheurs.
 Il est vray, je sens bien que ma gloire indignée,
@@ -872,7 +872,7 @@ Par mon propre courage, et par la main d'autruy.
 Quoy ? Seigneur.
 
 -*who_cassie
-Ne crains point, contente mon envie;
+      Ne crains point, contente mon envie;
 Tranche, tranche le fil d'une fâcheuse vie :
 Obéis sans réplique, et sans examiner
 Ce que le Ciel apreuve, et ne peut condamner.
@@ -918,7 +918,7 @@ Mais fileuses est icy : que je crains son abord,
 Et qu'un fâcheux respect va retarder ma mort.
 Toy, va voir cependant, si l'ennemy s'avance.
 
-**** *book_ *id_body-5-3 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1646 *creator_boyer
 
 -*who_cassie
 Madame, il n'est plus temps qu'un trop lâche silence
@@ -952,7 +952,7 @@ Je vous laisse à vous-mème ;adieu, Brute m'apelle,
 Et Rome veut qu'enfin par un coup digne d'elle,
 J'aprene aux vrais Romains à faire leur devoir.
 
-**** *book_ *id_body-5-4 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-504 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Dieux que viens-je d'entendre !Et que viens-je de voir !
@@ -1012,14 +1012,14 @@ Si tu m'aimes encor, viens mourir avec moy.
 Je n'y recule point, mais qu'est-ce-que je voy ?
 C'est Maxime, et son front marque beaucoup de joye.
 
-**** *book_ *id_body-5-5 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Maxime se peut-il qu'encor je te revoye ?
 Hé ! Bien tout est perdu.
 
 -*who_maxime
-Dieux, que me dites-vous !
+      Dieux, que me dites-vous !
 Madame, quand le Ciel se déclare pour nous,
 De grace, cachez-luy cette ingrate tristesse
 
@@ -1103,10 +1103,10 @@ Son cheval par leur fuite est soudain renversé :
 Il tombe.
 
 -*who_porcie
-Justes Dieux !
+      Justes Dieux !
 
 -*who_maxime
-Mais sans s'estre blessé.
+      Mais sans s'estre blessé.
 Philippe voit sa chûte, et sans en voir la suite,
 Vers le camp de Cassie il se sauve à la fuite.
 Moy pour secourir Brute estant un peu trop loin,
@@ -1132,7 +1132,7 @@ Cassie espouvanté revient dans ma mémoire.
 Cassie espouvanté !
 
 -*who_porcie
-C'est luy, qui fait ma peur ;
+      C'est luy, qui fait ma peur ;
 Oüy, c'est luy qui touché d'une fausse terreur,
 Est venu dans ces lieux portant sur son visage
 D'un sanglant désespoir l'espouvantable image,
@@ -1167,7 +1167,7 @@ De tant de nobles flancs, frapez les moins utiles :
 Je mourray glorieuse, et béniray mon sort,
 Si vous me choisissez pour une telle mort
 
-**** *book_ *id_body-6-1 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-601 *act_ *date_1646 *creator_boyer
 
 -*who_philipe
 Non, je n'excuse point cette honteuse fuite,
@@ -1182,7 +1182,7 @@ A suspendu le coup d'un juste désespoir.
 Comment, aprens-moy tout.
 
 -*who_philipe
-Vous allez tout sçavoir.
+      Vous allez tout sçavoir.
 Voyant Brute abatu je courus vers mon Maistre,
 Mon zèle impétueux voulut soudain paroistre :
 Mais tous mes sens saisis de douleur et d'effroy
@@ -1258,7 +1258,7 @@ Le reste de sa vie avec son dernier sang.
 Il meurt, et si j'ay deu malgré moy le survivre,
 Il vous quitte, Madame, et je parts pour le suivre.
 
-**** *book_ *id_body-6-2 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-602 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Vous, qui par tant de maux, par tant de sang perdu
@@ -1292,14 +1292,14 @@ Par la comparaison d'un bon-heur si visible,
 Que je dois espérer de vos rares bontez
 Le comble souverain de nos félicitez.
 
-**** *book_ *id_body-6-3 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-603 *act_ *date_1646 *creator_boyer
 
 -*who_julie
 Madame, Brute arrive, on vient de me l'aprendre?
 Il est proche d'icy.
 
 -*who_porcie
-Dieux !Que viens-je d'entendre !
+      Dieux !Que viens-je d'entendre !
 Ciel ! Qui dans un moment m'accables de faveurs,
 Que nos maux sont petits au prix de nos bon-heurs !
 Mais quel facheux objet revient dans ma mémoire
@@ -1307,10 +1307,10 @@ Traverser mon repos, et déchirer ma gloire ?
 Julie hélas !
 
 -*who_julie
-Madame.
+      Madame.
 
 -*who_porcie
-O ! Dieux, ce prompt retour
+      O ! Dieux, ce prompt retour
 Me deffend tant de joye, et trouble mon Amour.
 
 -*who_julie
@@ -1336,9 +1336,9 @@ Allons, allons Julie, au devant du vainqueur.
 Je l'aperçoy, Madame.
 
 -*who_porcie
-O ! Transports⁎, ah Seigneur !
+      O ! Transports⁎, ah Seigneur !
 
-**** *book_ *id_body-6-4 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-604 *act_ *date_1646 *creator_boyer
 
 -*who_brute
 Madame, où courrez-vous, fuyez un misérable.
@@ -1350,7 +1350,7 @@ Et le Ciel par sa mort a remply ses menaces,
 Enfin César triomphe.
 
 -*who_porcie
-O sort trop rigoureux.
+      O sort trop rigoureux.
 
 -*who_brute
 Hélas vostre douleur me rend plus mal-heureux :
@@ -1503,7 +1503,7 @@ Que l'éclatant honneur de mourir avec vous.
 Consentez à ma mort.
 
 -*who_brute
-Hé ! Bien mourons, Madame.
+      Hé ! Bien mourons, Madame.
 Enfin vostre devoir triomphe de ma flamme :
 Vostre gloire le veut, il y faut consentir :
 Ma générosité⁎ ne se peut démentir.
@@ -1522,7 +1522,7 @@ Voir passer dans ce corps les horreurs de la mort?
 Ah ! Madame
 
 -*who_porcie
-Ah ! Seigneur, espargnez ma foiblesse ;
+      Ah ! Seigneur, espargnez ma foiblesse ;
 Consommons maintenant cette indigne tendresse.
 
 -*who_brute
@@ -1530,7 +1530,7 @@ Vous voulez donc mourir, mais quel fer, quelle main
 Osera traverser cet adorable sein ?
 O ! Dieux. Que veut Maxime, et qu'à-t-il à nous dire ?
 
-**** *book_ *id_body-6-5 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-605 *act_ *date_1646 *creator_boyer
 
 -*who_maxime
 Après tant de mal-heurs vous tombez dans un pire ;
@@ -1543,7 +1543,7 @@ Et semble à ce seul but borner tout son courroux.
 Enfin vous estes pris, Seigneur.
 
 -*who_brute
-Voicy Maxime,
+      Voicy Maxime,
 De quoy braver Octave, et sauver nostre estime.
 Mais avant que mourir prévenons son dessein,
 Et mourons, s'il se peut, les armes à la main.
@@ -1564,7 +1564,7 @@ Pour servir nostre Rome, et sauver ce que j'ayme ?
 Nos efforts seront vains, mais nostre désespoir
 Ne doit pas attenter⁎ dessus nostre devoir.
 
-**** *book_ *id_body-6-6 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-606 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
 Prépare toy mon ame à la dernière foudre :
@@ -1584,7 +1584,7 @@ Glorieuse à César, et honteuse à Porcie.
 Souviens-toy du devoir, qui m'oblige à périr,
 Et qu'à qui n'ose vivre, il est bon de mourir.
 
-**** *book_ *id_body-7-1 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-701 *act_ *date_1646 *creator_boyer
 
 -*who_octave
 Hé ! Bien qu'est devenu ce lasche parricide,
@@ -1619,10 +1619,10 @@ Je préviens son dessein, mais je voy qu'on l'emmeine
 Va t'en remplir mon ordre, et me tirer de peine ;
 Qu'on le cherche par tout.
 
-**** *book_ *id_body-7-2 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1646 *creator_boyer
 
 -*who_porcie
-Ah ! Laissez-moy mourir
+      Ah ! Laissez-moy mourir
 Bourreaux, qui me perdez, loin de me secourir.
 Cruels, mon Brute, est mort, et je le dois survivre !
 Vos malignes pitiez m'empeschent de le suivre.
@@ -1663,7 +1663,7 @@ Monte par mille horreurs au trône des Tirans.
 Luy.
 
 -*who_octave
-C'est trop, et c'est mal implorer ma clémence,
+      C'est trop, et c'est mal implorer ma clémence,
 Enfin tant de mespris lassent ma patience :
 Honorez ma fortune, et bénissez les dieux,
 De vous donner pour Maistre un vainqueur glorieux,
@@ -1772,7 +1772,7 @@ Allez vomir ailleurs le poison qui vous reste,
 Superbe ; allez ailleurs plaindre vostre mal heur.
 Et mourrez, s'il se peut, de rage et de douleur.
 
-**** *book_ *id_body-7-3 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-703 *act_ *date_1646 *creator_boyer
 
 -*who_octave
 Mais plustost qu'elle vive en faveur de ma gloire.
@@ -1781,10 +1781,10 @@ Qu'une illustre pitié la sauve du trespas.
 Toy, Pison, prend soin d'elle, et ne la quite pas.
 Mais d'où vient ce grand bruit.
 
-**** *book_ *id_body-7-4 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1646 *creator_boyer
 
 -*who_tite
-Seigneur, voicy Maxime,
+      Seigneur, voicy Maxime,
 Que nostre vigilance a surpris dans son crime,
 Et qui s'ose vanter du tragique dessein
 Qu'un execrable zèle avoit mis dans son sein.
@@ -1878,10 +1878,10 @@ Il faut, il faut enfin, qu'il tombe dans nos mains,
 Et pour s'en garantir tous ses efforts sont vains.
 Mais Valère revient.
 
-**** *book_ *id_body-7-5 *act_ *date_1646 *creator_boyer
+**** *book_ *id_body-705 *act_ *date_1646 *creator_boyer
 
 -*who_valere
-Seigneur Brute et sa femme
+      Seigneur Brute et sa femme
 Sont morts, l'un par le fer, et l'autre par la flamme.
 
 -*who_octave

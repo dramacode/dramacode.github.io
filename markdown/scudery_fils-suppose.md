@@ -1,5 +1,5 @@
 ---
-identifier: scudery_fils  
+identifier: scudery_fils-suppose  
 creator: Scudéry, Georges de  
 date: 1636  
 title: Le Fils supposé. Comédie  
@@ -805,7 +805,7 @@ Signé, CONRAR.< Achevé d’Imprimer le vingtiesme Avril mil >< six cens trente
  – CLORIAN,Gentil-homme Breton.
  – BELISE,Sœur de Clorian.
  – DORISTE,Domestique d'Almedor.
- – POLIDON,Page d'Almedor.< LE FILS                    SUPPOSÉ. COMEDIE. >
+ – POLIDON,Page d'Almedor.
 
 
 ## ACTE PREMIER.
@@ -823,7 +823,7 @@ Rosandre, Luciane.
 Ha ! ne contestez plus; laissez vous enflamer;  
 Et sçachez obeïr [79], si vous sçavez aimer.  
 
-    LUCIANE.    
+    LUCIANE.
 Et quoy, vous lassez vous de souffrir⁎ mes services ?  
 Craignez vous que mon cœur ne s'abandonne aux vices ?  
 Croyez vous qu'un esprit que vous avez formé,  
@@ -844,7 +844,7 @@ Il s'agit de me perdre⁎, ou de me conserver.
     ROSANDRE.
 Vostre bonté paroist dedans cette advanture⁎;  
 Et nous suivons tous deux La Loy de la Nature:  
-Vous m'aimez, je vous aime; et joints par ce lien [83],                       
+Vous m'aimez, je vous aime; et joints par ce lien [83],  
 Vous cherchez mon repos, je cherche vostre bien,  
 Mais ma fille, sçachez que je serois barbare,  
 Si j'osois abuser d'une amitié⁎ si rare;  
@@ -865,7 +865,7 @@ De demeurer icy, comme je l'ay voulu;
 Sa volonté sans fard s'est peinte en son langage;  
 Il mourra dans Paris, j'en ay sa foy⁎ pour gage.  
 
-    LUCIANE.    
+    LUCIANE.
 Mais apres tout, Monsieur, son fils m'est inconnu:  
 
     ROSANDRE.
@@ -888,7 +888,7 @@ Le croyez vous un Dieu, pour l'aimer sans le voir ?
     ROSANDRE.
 Finissez un propos qui vous rendroit blasmable;  
 Si Philante a du bien, il est assez aimable⁎ [85];  
-Toutes les qualitez de l'esprit et du corps;                           
+Toutes les qualitez de l'esprit et du corps;  
 Ce que les amoureux appellent des thresors;  
 Avoir le poil frisé, la taille advantageuse;  
 L'entretien⁎ agreable, et l'ame courageuse;  
@@ -912,7 +912,7 @@ Si comme vous, son pere, a contraint ses pensées,
 Que peut-on esperer de deux ames forcées ?  
 
     ROSANDRE.
-S'il a du jugement⁎, il vous adorera:                               
+S'il a du jugement⁎, il vous adorera:  
 
     LUCIANE.
 Prenez le soing⁎ d'apprendre, au moins s'il en aura.  
@@ -932,7 +932,7 @@ C'est que dans mon esprit la douleur est plus forte:
 
     ROSANDRE.
 Voyons-le cét esprit; pleignez⁎ vous, il n'importe;  
-Confessez librement qu'Oronte en est vainqueur:                       
+Confessez librement qu'Oronte en est vainqueur:  
 
     LUCIANE.
 Je ne puis plus parler, vous me blessez au cœur,  
@@ -954,7 +954,7 @@ Mais en vain l'artifice, a pensé me surprendre;
 J'ay bien veu qu'on aimoit Oronte, et non Rosandre;  
 Et que pour obliger mon cœur à la pitié,  
 Vous souspiriez⁎ d'amour, et non pas d'amitié⁎  
-Mais si vous n'esteignez cette illicite flame,                      
+Mais si vous n'esteignez cette illicite flame,  
 Qu'un injuste tiran⁎ allume dans vostre ame;  
 Si dans vostre repos vous ne cherchez le mien;  
 Si vous le traversez⁎ en fuyant vostre bien;  
@@ -977,7 +977,7 @@ D'user de cét advis avec discretion;
 Et de n'aspirer plus apres une conqueste,  
 Dont un autre a desja le laurier sur la teste.  
 
-ACTE I.                
+ACTE I.
 
 
 ### SCENE II.
@@ -997,7 +997,7 @@ J'en ay reçeu le coup, de la rigueur du sort;
 Et l'on m'a prononcé ma sentence de mort.  
 Que le mal qui surprend a bien plus d'amertume  
 Que ces lentes douleurs, qu'on souffre⁎ par coustume !  
-Quand aux cœurs genereux⁎ la fortune⁎ deffaut⁎,                  
+Quand aux cœurs genereux⁎ la fortune⁎ deffaut⁎,  
 Que leur cheute est mortelle, et qu'ils tombent de haut !  
 La volage [90] qu'elle est, cessant d'estre propice,  
 Il n'est point de milieu, du feste, au precipice;  
@@ -1019,7 +1019,7 @@ Je sens que la douleur va suivre mon envie;
 Reine de mon esprit, Maistresse de ma vie,  
 Luciane, mon cœur, estant abandonné,  
 Viens reprendre celuy que tu m'avois donné.  
-Mais non, souffre⁎ plustost, qu'au milieu du martire,                   
+Mais non, souffre⁎ plustost, qu'au milieu du martire,  
 Je meure avec un bien, qui vaut mieux qu'un Empire;  
 Ainsi dans ce trespas j'auray de la douceur:  
 Rival, contente toy d'estre mon successeur:  
@@ -1039,7 +1039,7 @@ Mais debvant [95] triompher [96] de mon ame trompée,
 Souviens toy pour le moins que je porte une espée:  
 Et me vollant un bien qui n'est point limité,  
 Viens t'en me tesmoigner que tu l'as merité.  
-Que la seule valeur emporte la balance;                   
+Que la seule valeur emporte la balance;  
 Et ne te cache plus sous un honteux silence.  
 Helas ! en ce discours, j'ay perdu la raison;  
 Le traistre qui m'attaque est ainsi qu'un poison,  
@@ -1061,7 +1061,7 @@ C'est icy, mon amour, qu'il est fort important,
 D'avoir un cœur sans crainte, aussi bien que constant;  
 Afin de l'opposer à cette tirannie⁎,  
 Et m'accorder un bien qu'un pere me desnie.  
-Lors que la volonté veut agir sans cesser [99],                      
+Lors que la volonté veut agir sans cesser [99],  
 Il n'est point de tiran⁎ qui la puisse forcer.  
 Non vous me trahirez, ou vous servirez d'elle;  
 Et je ne puis vous perdre⁎, à moins qu'estre infidelle:  
@@ -1082,7 +1082,7 @@ Cher Rosandre, aussi tost qu'on nous eut separez,
 Je tombay dans les maux qui m'estoyent preparez:  
 Vous restates à Rome; et je revins en France,  
 Où commença le cours de ma longue souffrance:  
-J'espousay Crisolite; et dans neuf mois prefix,                           
+J'espousay Crisolite; et dans neuf mois prefix,  
 Les faveurs de Junon me donnerent un fils:  
 Fils, obtenu par vœux, de la bonté celeste;  
 Seul plaisir que j'eus lors, et seul bien qui me reste:  
@@ -1106,7 +1106,7 @@ Car je me resolus au combat inegal,
 Trouvant que le trespas estoit un moindre mal.  
 Chacun dans ma Galere à l'instant prend sa place;  
 Je range mes soldats; je mets la chiorme⁎ basse;  
-Le Comite [106] sifflant, le coutelas au poing,                           
+Le Comite [106] sifflant, le coutelas au poing,  
 J'aborde l'ennemy, qui me tiroit de loing.  
 Aussitost de leurs gens, la foulle est esclaircie;  
 Car je les saluay [107], d'un canon de Courcie [108],  
@@ -1130,7 +1130,7 @@ Et ces braves Soldats percez de part en part,
 Mourans tous à mes pieds me firent un rampart.  
 Je disputois encor les restes de ma vie;  
 Mon ame alloit sortir, sans se voir asservie;  
-Lors qu'un Turc par derriere (à ce que l'on me dit)                       
+Lors qu'un Turc par derriere (à ce que l'on me dit)  
 D'un coup de cimeterre [111] à ses pieds m'estendit:  
 On me prend, on me lie, et respirant encore,  
 Un rayon de pitié toucha le cœur d'un More;  
@@ -1152,7 +1152,7 @@ Si bien que resté seul en ce climat sauvage,
 Souz l'aisle de la nuict, je gagnay le rivage;  
 Où trouvant par bon-heur, un Navire François,  
 Il me fit voir les lieux où je me souhaitois.  
-(A ce ressouvenir ma douleur se resveille)                       
+(A ce ressouvenir ma douleur se resveille)  
 Je trouvay que ma femme estoit morte à Marseille,  
 Et que mon fils absent bien loing de mon chemin,  
 Demeuroit en Bretagne avec son Oncle Osmin.  
@@ -1174,8 +1174,8 @@ Mais ce fils inconnu d'un si genereux⁎ pere,
 Doit-il bien tost venir ?  
 
     ALMEDOR.
-            Rosandre je l'espere;  
-Doriste l'un des miens me le doit amener:                           
+                    Rosandre je l'espere;  
+Doriste l'un des miens me le doit amener:  
 
     ROSANDRE.
 Adieu, puisse le Ciel, nos travaux⁎ couronner.  
@@ -1194,7 +1194,7 @@ Mais si vous respiriez le doux air de la Cour,
 Vous changeriez d'advis, ainsi que de sejour.  
 Aux grands et forts esprits toutes villes sont bonnes;  
 Nous n'aimons pas les lieux, nous aimons les personnes;  
-Le plus affreux desert⁎ nous doit paroitre doux,                           
+Le plus affreux desert⁎ nous doit paroitre doux,  
 Si ce que nous aimons, y vit avecques nous.  
 Pour moy (si j'y voyois le bel œil qui me pique)  
 Je me croirois en France, au milieu de l'Afrique:  
@@ -1216,7 +1216,7 @@ Et quelque preuve en fin, que vous veuilliez avoir,
 Si je vous la refuse, elle est hors de pouvoir.  
 Quand la fortune⁎ aveugle, en m'offrant un Royaume,  
 Me couvriroit d'un Dais [115], et vous d'un toict de chaume,  
-A quelque point d'honneur⁎ qu'elle pust m'eslever,                       
+A quelque point d'honneur⁎ qu'elle pust m'eslever,  
 Je descendrois du Throsne, et vous irois trouver.  
 Jugez apres cela, combien je vous estime;  
 Et si vostre soupçon n'est pas illegitime.  
@@ -1238,7 +1238,7 @@ Je crains avec raison la fureur de mon frere:
 
     PHILANTE.
 C'est n'oser s'embarquer, de peur d'un vent contraire;  
-Foible timidité⁎, qui fait tort à ma main:                           
+Foible timidité⁎, qui fait tort à ma main:  
 Vous le traitez en pere, et non pas en germain⁎;  
 Sous un frere cruel⁎ vous estes bien à plaindre⁎;  
 Il se doit faire aimer, et se veut faire craindre.  
@@ -1247,7 +1247,7 @@ Il se doit faire aimer, et se veut faire craindre.
 Vous mesme avez un pere;  
 
     PHILANTE.
-                ô Dieu ! N'achevez pas:  
+                        ô Dieu ! N'achevez pas:  
 Que vous connoissez mal de si charmans appas  
 Que les faveurs du Ciel ont mis en ce visage,  
 Si vous en ignorez, et la force, et l'usage.  
@@ -1258,7 +1258,7 @@ Manquez vous de vertu ? Manquez vous de noblesse ?
 Et quand la soif de l'or auroit pû le tenter,  
 Trouve-t'il pas en vous de quoy la contenter ?  
 
-ACTE I.                     
+ACTE I.
 
 
 ### SCENE V.
@@ -1280,7 +1280,7 @@ Fais mon unique espoir [118] tout ce qu'il te plaira;
 Celle qui te commande en fin t'obeïra.  
 
     PHILANTE.
-Un habillement d'homme assurera ma prise [119]:                           
+Un habillement d'homme assurera ma prise [119]:  
 
     BELISE.
 Je vaincray le peril comme je le mesprise:  
@@ -1298,7 +1298,7 @@ Sa lettre est fort pressante; et moy plein de desir;
 Viens sçavoir mes desseins⁎; viens sçavoir mon plaisir;  
 Je veux que ton esprit soit de ma confidence;  
 
-ACTE I.                     
+ACTE I.
 
 
 ### SCENE VI.
@@ -1310,7 +1310,7 @@ Gouvernez tous les deux avecques la prudence:
 Doriste ne sçauroit, ny flatter, ny trahir;  
 Mais si vous commandez, c'est à luy d'obeïr.  
 
-ACTE I.                     
+ACTE I.
 
 
 ### SCENE VII.
@@ -1330,7 +1330,7 @@ Ou je vous feray voir que vous estes ma sœur.
 Je vous reçois pour frere, et non pas pour censeur:  
 Et dans ma pureté, je despite⁎ l'envie,  
 Avec ses dents de fer, de mordre sur ma vie [121]:  
-Au reste je suis libre, on ne me peut forcer.                           
+Au reste je suis libre, on ne me peut forcer.  
 
     CLORIAN.
 Vostre honneur⁎ est le mien; c'est à moy d'y penser:  
@@ -1352,13 +1352,13 @@ En vain mauvais Demon, tu souffles ta manie;
 Je me verray bien tost hors de ta tyrannie⁎;  
 Tes menaces en l'air, ne m'espouventent point:  
 Partons, puis qu'à l'amour, le courage s'est joint;  
-Il en est temps mon cœur; il nous y faut resoudre;                       
+Il en est temps mon cœur; il nous y faut resoudre;  
 L'esclair assez souvent est suivy de la foudre:  
 Mais tousjours le bon-heur, sauve de ces hazards,  
 Les mirthes [122] de l'Amour, et les lauriers de Mars.  
 
 
-## ACTE SECOND.                     
+## ACTE SECOND.
 Luciane, Oronte, Belise, Doriste, Clorian, Philante.
 
 
@@ -1373,7 +1373,7 @@ Que [123] tout me nuit esgallement ?
 J'oy commander un pere, et prier un Amant;  
 De l'un je tiens l'esprit; et de l'autre la vie.  
 
-J'oy parler à mon cœur, l'Amour et la Nature,                           
+J'oy parler à mon cœur, l'Amour et la Nature,  
 Le devoir, et la volonté;  
 Et mon mal-heur en fin à tel point est monté,  
 Qu'il faut que je me rende, ou rebelle, ou parjure,  
@@ -1398,7 +1398,7 @@ Ha non, non, il vaut mieux mourir;
 Mon Oronte l'emporte; et j'ay beau discourir,  
 Le nom de fille cede à celuy de Maistresse.  
 
-Arriere ce propos, dont mon ame insensée:                           
+Arriere ce propos, dont mon ame insensée:  
 A pensé chocquer⁎ mon amour:  
 Avant que perdre⁎ Oronte, il faut perdre⁎ le jour;  
 Et mourir de douleur, pour vivre en sa pensée.  
@@ -1415,7 +1415,7 @@ Que puis que je les vis, je les devois aimer.
 O rencontre funeste ! Et jadis opportune;  
 Sa tristesse me dit qu'il sçait nostre infortune⁎.  
 
-ACTE II.                     
+ACTE II.
 
 
 ### SCENE II.
@@ -1435,7 +1435,7 @@ Soit; mourons; j'y consens; et ma temerité,
 Souffre⁎ en cét accident ce qu'elle a merité:  
 Mon vol fut temeraire; il est vray; je l'advouë;  
 Le blasme qui voudra, mais pour moy je le louë:  
-Lors qu'en un grand dessein⁎ l'on ose s'eslever,                           
+Lors qu'en un grand dessein⁎ l'on ose s'eslever,  
 La gloire⁎ est d'entreprendre, et non pas d'achever.  
 La fortune⁎ est volage, aussi bien qu'insolente;  
 Elle mesprise Oronte, et caresse Philante;  
@@ -1458,7 +1458,7 @@ Enfermant tous vos maux dedans ma sepulture:
 Et puisse mon Rival, pour vos felicitez,  
 Connoistre comme moy, ce que vous meritez.  
 
-    LUCIANE.    
+    LUCIANE.
 Amoureux assassin dont la seule parole,  
 Me fait vivre et mourir, m'afflige, et me console,  
 Et gouverne à son gré les mouvemens d'un cœur,  
@@ -1478,7 +1478,7 @@ N'est-ce pas vous promettre un amour eternel ?
 
     ORONTE.
 C'est me remplir d'honneur⁎; c'est me combler de joye;  
-Mon pauvre esprit y nâge, et mon ame s'y noye;                       
+Mon pauvre esprit y nâge, et mon ame s'y noye;  
 Et l'Univers entier ne peut avoir de Roy,  
 Qui dedans ce moment soit plus heureux que moy.  
 Toutes les vanitez, la grandeur, et la pompe;  
@@ -1501,7 +1501,7 @@ Celle qui d'un aspic [127], sçeut guarir sa douleur,
 M'enseigne que la mort empesche ce mal-heur.  
 
     ORONTE.
-Ce remede est certain; mais j'en connois un autre,                       
+Ce remede est certain; mais j'en connois un autre,  
 Qui peut sauver ma vie, en conservant la vostre.  
 
     LUCIANE.
@@ -1527,7 +1527,7 @@ L'Amour ne sçaurois vivre, estant sans esperance.
 Je voy que ce conseil a beaucoup d'apparence:  
 
     ORONTE.
-Mais si cela le pique, et ne l'arreste pas;                           
+Mais si cela le pique, et ne l'arreste pas;  
 (Comme on peut tout souffrir⁎ pour avoir vos appas)  
 Il faut que je luy die [130], en ce danger extréme,  
 Qu'il ne peut estre aimé d'une fille que j'aime;  
@@ -1550,7 +1550,7 @@ Un rayon d'esperance a r'animé ma joye;
 Et puis qu'il m'est permis de deffendre mon bien,  
 Je me mocque de tout, et je ne crains plus rien.  
 
-ACTE II.                     
+ACTE II.
 
 
 ### SCENE III.
@@ -1569,7 +1569,7 @@ Pour voller en allant, aussi bien qu'au retour.
 Qui me laissant icy dans cette solitude,  
 Devroit par sa douleur voir mon inquietude;  
 Sentir ce que je sents; partager mes ennuis⁎;  
-Et nous guerir tous deux, revenant où je suis.                           
+Et nous guerir tous deux, revenant où je suis.  
 S'il estoit allé loing, j'excuserois sa faute;  
 Mais si cette montagne estoit un peu plus haute,  
 Et ces champs d'alentour, moins couronnez de bois,  
@@ -1593,7 +1593,7 @@ Et je l'aimerois mieux, infidelle que mort.
 
     DORISTE.
 Par mon ressentiment je puis juger du vostre:  
-Mais j'espere pourtant qu'il n'est ny l'un ny l'autre.                       
+Mais j'espere pourtant qu'il n'est ny l'un ny l'autre.  
 
     BELISE.
 Confesse à tout le moins qu'il est bien negligent:  
@@ -1616,7 +1616,7 @@ L'argent nous va faillir [133]; le danger nous tallonne;
 Et pour nostre secours je ne trouve personne.  
 Mais puis qu'en ce peril ma main tient le timon [134],  
 Oyez ce que m'inspire un bien heureux Demon.  
-Ce seul moyen nous reste; il est plein de courage;                       
+Ce seul moyen nous reste; il est plein de courage;  
 Mais on doit tout oser au milieu de l'orage.  
 Le pere de mon Maistre, absent depuis vingt ans,  
 N'ayant point veu son fils depuis un si long temps,  
@@ -1642,14 +1642,14 @@ Et mon Maitre eschapé, sans doute d'un malheur,
 Viendra finir sa peine avec vostre douleur.  
 
     BELISE.
-Quelque difficulté que l'esprit me presente,                       
+Quelque difficulté que l'esprit me presente,  
 De retenir mes pas, elle est insuffisante [138];  
 Bien qu'il soit dangereux je suivray ton conseil;  
 Partons pour n'estre veus au coucher du Soleil;  
 Et fasse le destin, que ton Maistre revienne,  
 Pour terminer sa crainte, en terminant la mienne.  
 
-ACTE II.                     
+ACTE II.
 
 
 ### SCENE IV
@@ -1670,7 +1670,7 @@ C'est l'unique moyen de reparer ma gloire⁎:
 Ouy, ses vœux sont les miens; ma haine va cesser;  
 Allons rompre ses fers afin de l'embrasser.  
 
-ACTE II.                     
+ACTE II.
 
 
 ### SCENE V.
@@ -1686,7 +1686,7 @@ Que tout meurt, que tout passe; et qu'une mesme loy,
 Traitte avecques rigueur, le subjet, et le Roy.  
 Mais de quelque vertu que j'emprunte les armes,  
 Je fais voir ma douleur, en faisant voir mes larmes;  
-Et venant à songer que Belise m'attend,                               
+Et venant à songer que Belise m'attend,  
 Je cede, je me rends, et ne suis plus constant.  
 Abandonner Belise en un lieu solitaire !  
 Mais voicy le cruel⁎ qui me force à me taire.  
@@ -1705,7 +1705,7 @@ Puis qu'en vous rencontrant je rompts vostre entreprise,
 Ne me direz vous point où se trouve Belise ?  
 Pourquoy la cachez vous, estant dans la prison ?  
 Jugez que la rigueur m'en peut faire raison;  
-Et que me refusant cette juste allegeance,                       
+Et que me refusant cette juste allegeance,  
 J'ay droict de la chercher avecques la vangeance.  
 Que j'en suis en pouvoir; et qu'un frere irrité,  
 Doit porter la justice à la severité,  
@@ -1729,13 +1729,13 @@ Loing de m'en souvenir, vous verrez au contraire,
 Par mes humbles devoirs que je vous tiens pour frere.  
 
     PHILANTE.
-Mon oreille me trompe aussi bien que mes yeux !                       
+Mon oreille me trompe aussi bien que mes yeux !  
 
     CLORIAN.
 Ha ! tirons la vertu de ces infames lieux.  
 
 
-## ACTE TROISIESME                        
+## ACTE TROISIESME
 Philante, Clorian, Almedor, Belise, Doriste, Oronte, Rosandre, Luciane.
 
 
@@ -1750,7 +1750,7 @@ Je ne peux descouvrir, ce qu'elle est devenuë.
 
 En quelle extremité me trouvay-je reduit ?  
 La douleur m'accompagne, et le plaisir me fuit;  
-Le desespoir, l'horreur, la colere, et la rage,                           
+Le desespoir, l'horreur, la colere, et la rage,  
 Regnent en mon courage:  
 Je cherche vainement l'object⁎ de mon amour;  
 Ce Soleil, pour mes yeux, est couvert d'une nuë,  
@@ -1775,7 +1775,7 @@ Quelque nouveau Rival l'a-t'il entretenuë⁎ ?
 Non, non, je suis coupable, en vous parlant ainsi;  
 Dites moy seulement ce qu'elle est devenuë,  
 
-Helas ! en quel endroit me la faut-il chercher ?                       
+Helas ! en quel endroit me la faut-il chercher ?  
 Quel antre reculé me la peut bien cacher ?  
 Quoy que tu sois sans yeux, compagnon de sa fuite,  
 Amour, prends ma conduite [143]:  
@@ -1795,7 +1795,7 @@ Belise; ha ! ce beau nom qui me souloit [145] guerir,
 Ne sert plus maintenant qu'à me faire mourir:  
 Il augmente ma peine, et reste sans responce;  
 Et c'est dans ce mal-heur pourquoy je le prononce;  
-Afin que ma douleur, en s'accroissant tousjours,                       
+Afin que ma douleur, en s'accroissant tousjours,  
 Puisse trouver son terme en celuy de mes jours.  
 Belise; impitoyable; encor un coup; Belise;  
 He ! responds à ma voix; dis moy ton entreprise;  
@@ -1822,7 +1822,7 @@ Elle vivra constante, et je mourray fidele;
 Et je l'ose esperer; son extréme vertu  
 Releve avant ma mort, mon courage abatu.  
 
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE II.
@@ -1840,7 +1840,7 @@ Mais de quelles façon l'avez vous pû sçavoir ?
     CLORIAN.
 Sur les courages bas l'argent peut tout sans doute:  
 Et l'Hoste en recevant [148] a descouvert sa route;  
-Luy mesme l'a conduite au chemin de Paris ?                           
+Luy mesme l'a conduite au chemin de Paris ?  
 C'est à nous de la suivre ayant eu cét advis.  
 
     PHILANTE.
@@ -1857,7 +1857,7 @@ Doriste conseillant cette Reine des belles,
 Aura porté ses pas où nous devons aller;  
 Ce discours nous amuse [149], et j'y voudrois voler.  
 
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE III.
@@ -1875,7 +1875,7 @@ Ce bon commencement nous promet bonne issuë [150]:
 
     ALMEDOR.
 Et si d'un faux espoir mon ame n'est deceuë⁎,  
-Nous aurons en commun, et dedans, et dehors,                           
+Nous aurons en commun, et dedans, et dehors,  
 Les qualitez de l'ame avec celles du corps.  
 
     BELISE.
@@ -1897,7 +1897,7 @@ Dans le choix qu'il a fait d'une fille bien née,
 Que s'en va vous donner un heureux hymenée⁎.  
 
     BELISE.
-En mon aage, l'hymen⁎ ne fut jamais bon-heur:                           
+En mon aage, l'hymen⁎ ne fut jamais bon-heur:  
 Il se faut retirer estant chargé d'honneur⁎;  
 Mais sans avoir rien veu, se mettre au mariage,  
 C'est manquer de raison ainsi que de courage.  
@@ -1917,7 +1917,7 @@ Des coups d'un ennemy qui se fait adorer.
     BELISE.
 Fascheux déguisement; invention fatale;  
 Qui pensant m'en tirer m'engage en un dedale,  
-D'où je ne puis sortir qu'à ma confusion:                       
+D'où je ne puis sortir qu'à ma confusion:  
 Le mauvais conseiller qu'est nostre passion !  
 Que pour nous decevoir⁎ elle est tousjours subtile !  
 Par elle nous croyons l'impossible facile !  
@@ -1939,7 +1939,7 @@ Plus je tasche à sortir, et plus mon jugement⁎,
 S'embarasse confus dans cét empeschement.  
 Marier une fille avec une autre encore,  
 J'aurois plustost blanchy le visage d'un More,  
-Que je n'aurois trouvé dans mon invention,                           
+Que je n'aurois trouvé dans mon invention,  
 Le moyen de sortir de notre affliction.  
 
     BELISE.
@@ -1958,7 +1958,7 @@ Qu'importe à mon esprit si Rosandre s'offence,
 De me revoir chez luy nonobstant sa deffence !  
 Bannissons le respect, je n'en dois point avoir;  
 Philante est à Paris; il faut que j'aille voir.  
-Pour me pâmer de joye, avec combien d'adresse                          
+Pour me pâmer de joye, avec combien d'adresse  
 Sçauront le mal traitter les yeux de ma Maistresse.  
 Je verray ces beaux yeux aider à mon dessein⁎;  
 Et porter à Philante un glaçon dans le sein.  
@@ -1968,7 +1968,7 @@ Je verray le dépit lutter contre l'Amour;
 Certes de tous les miens voicy le plus beau jour;  
 Mais sans perdre⁎ le temps, allons voir nostre gloire⁎;  
 Et recueillir les fruicts d'une belle victoire.  
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE V.
@@ -1983,30 +1983,30 @@ A darder contre luy ce qu'il a de plus rare;
 Qu'il agisse en esclair; et qu'au premier moment,  
 D'un esprit libertin il se fasse un Amant.  
 
-    ROSANDRE.    
+    ROSANDRE.
 Philante est arrivé ?  
 
     ALMEDOR.
-            Doriste vous l'ameine;  
+                    Doriste vous l'ameine;  
 
     ROSANDRE.
 Je vay le recevoir;  
 
     ALMEDOR.
-            N'en prenez pas la peine:  
+                    N'en prenez pas la peine:  
 
     ROSANDRE.
 Est-ce luy que je voy ?  
 
     ALMEDOR.
-            Luy mesme:  
+                Luy mesme:  
 
     ROSANDRE.
-                    Bien venu,  
+                            Bien venu,  
 Soit dans les bras d'un pere, un enfant inconnu.  
 Ma fille... .  
 
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE VI.
@@ -2014,7 +2014,7 @@ Belise, Almedor, Rosandre, Luciane.
 
 
     BELISE.
-Sans user de puissance absoluë;  
+        Sans user de puissance absoluë;  
 Souffrez⁎ que je m'advance, et que je la saluë.  
 
     ALMEDOR.
@@ -2026,8 +2026,8 @@ Allons faire trois tours dans vostre gallerie:
 Allons,  
 
     BELISE.
-    connoissez vous l'amoureuse furie ?  
-Madame, vostre cœur n'a-t'il jamais souffert⁎,                          
+            connoissez vous l'amoureuse furie ?  
+Madame, vostre cœur n'a-t'il jamais souffert⁎,  
 L'excessive douleur du tourment qui me perd ?  
 N'a-t'il jamais aimé ? Ouy; ce morne silence,  
 Me dit qu'il en ressent l'extréme violence [155];  
@@ -2040,16 +2040,16 @@ Conservez-le donc bien, et m'allez escoutant.
 Je suis fille:  
 
     LUCIANE.
-        Bon Dieu !  
+            Bon Dieu !  
 
     BELISE.
-            que ceste main d'yvoire,  
+                    que ceste main d'yvoire,  
 Apprenne sur mon sein ce qu'on a peine à croire;  
 Mais ne pouvant icy vous faire un long discours,  
 Qui dépeigne ma vie, et toutes mes amours;  
 Ny vous dire pourquoy mon ardeur violante,  
 Me fait prendre le nom, et l'habit de Philante.  
-Il suffit de vous dire en l'estat où je suis.                               
+Il suffit de vous dire en l'estat où je suis.  
 Que ce mesme Philante a causé mes ennuis⁎:  
 Que c'est luy que j'adore; et que sa foy⁎ promise⁎,  
 Desja depuis long temps engage ma franchise⁎;  
@@ -2072,7 +2072,7 @@ Jugez par ses vertus si j'ay tort de l'aimer:
 Mais un plaisant dessein⁎ m'entre en la fantaisie;  
 Souffrez⁎ que je luy donne un peu de jalousie.  
 
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE VII.
@@ -2091,7 +2091,7 @@ Et devant tout le monde elles peuvent parler.
     BELISE.
 Le moyen de se taire, et se sentir brusler [157] ?  
 
-    ORONTE.    
+    ORONTE.
 Il me semble pourtant que par la modestie,  
 On tasche d'en cacher la meilleure partie.  
 
@@ -2114,7 +2114,7 @@ Je serois mauvais juge en un pareil sujet;
 N'ayant d'yeux à Paris que pour un seul object⁎.  
 
     ORONTE.
-Et quoy ! n'aller point voir, n'en prendre pas la peine,                       
+Et quoy ! n'aller point voir, n'en prendre pas la peine,  
 Et le cheval de bronze [159], et la Samaritaine [160] !  
 Ma foy⁎ vous m'estonnez⁎; c'est là qu'avec plaisir,  
 Le Noble de campagne assouvit son desir.  
@@ -2123,7 +2123,7 @@ Le Noble de campagne assouvit son desir.
 Quand nouveau Courtisan vous pristes ceste route,  
 Vous ne veistes le Roy, qu'en ce lieu-là sans doute:  
 
-ACTE III.                     
+ACTE III.
 
 
 ### SCENE VIII.
@@ -2134,15 +2134,15 @@ Rosandre, Luciane, Almedor, Oronte, Philante, Belise.
 Luciane,  
 
     LUCIANE.
-Monsieur;  
+    Monsieur;  
 
     ROSANDRE.
-            on vous demande icy:  
+                    on vous demande icy:  
 
     ALMEDOR.
 Philante, suivez-la, je vous demande aussi.  
 
-    ORONTE.    
+    ORONTE.
 N'est-ce point un Demon qui forme en ma pensee,  
 Le tragique pourtraict de l'histoire passee ?  
 Suy-je point endormy ? peut-estre ay-je songé,  
@@ -2161,7 +2161,7 @@ Vostre rapport est faux; elle ne peut faillir;
 Quel que soit l'ennemy qui la veuille assaillir.  
 Mais las ! Pensers [161] flatteurs, qui par de si doux charmes,  
 Taschez de retenir le torrent de mes larmes,  
-Vous me trompez comme elle; et je voy clairement,                       
+Vous me trompez comme elle; et je voy clairement,  
 Qu'elle manque d'amour, et moy de jugement⁎:  
 Ouy, ouy, je connois bien que mon ame est trompée;  
 Et que tout mon espoir dépend de mon espée.  
@@ -2177,7 +2177,7 @@ Qu'il meure; mais qu'il meure, en deffendant un bien,
 Que m'oste la fortune⁎, et que l'Amour fit mien.  
 
 
-## ACTE IV.                     
+## ACTE IV.
 Belise, Luciane, Oronte, Braside, Doriste, Philante, Clorian, Almedor, Rosandre.
 
 
@@ -2191,7 +2191,7 @@ Que vostre esprit adroit, sçait habillement feindre !
 Et que le pauvre Oronte, a sujet de s'en pleindre⁎ !  
 Mauvaise, vous deviez d'un clin d'œil au partir [162],  
 Redonner le courage à ce pauvre Martir:  
-Quoy qu'il dise de vous sa pleinte est legitime;                           
+Quoy qu'il dise de vous sa pleinte est legitime;  
 Son innocence a droict d'accuser vostre crime;  
 Et si l'excez du mal causoit sa guerison,  
 Vous seule auriez le tort et luy seul la raison.  
@@ -2217,7 +2217,7 @@ Mais si vostre secours tarde trop à venir,
 Est-il un chastiment qui vous puisse punir ?  
 
     LUCIANE.
-Quelque accident qu'esprouve un homme de courage                      
+Quelque accident qu'esprouve un homme de courage  
 La force de l'esprit le sauve de l'orage:  
 Et l'Amant que le Ciel regarde de travers,  
 Ne meurt point de douleur si ce n'est dans ses vers.  
@@ -2237,7 +2237,7 @@ Mais bien que vostre cœur se plaise en son tourment,
 Icy mon interest sauvera cét Amant;  
 Me croyant son Rival, peut-estre son espée,  
 Suivra les mouvemens de son ame trompée;  
-Je ne suis point vaillante, et me fascheroit fort                      
+Je ne suis point vaillante, et me fascheroit fort  
 Que nostre belle amour fut cause de ma mort;  
 J'estime vos faveurs; mais s'il m'en porte envie,  
 Je les y quitteray pour conserver ma vie;  
@@ -2259,7 +2259,7 @@ En le chassant des yeux, il s'en alloit au cœur;
 Place dont ce Monarque est dés long-temps vainqueur:  
 Mais il faut advoüer [167] que dedans ceste espreuve,  
 (Quoy que vous en disiez) quelque douceur se treuve [168];  
-Ne fust-ce que par elle, en cognoist aisément                      
+Ne fust-ce que par elle, en cognoist aisément  
 Le pouvoir d'une Amante, et l'humeur⁎ d'un Amant.  
 
     BELISE.
@@ -2279,7 +2279,7 @@ Et que nos cœurs auront un destin plus heureux;
 Mais il faut éviter cét escueil dangereux,  
 Et feindre à cét effect de me sentir attainte,  
 D'un mal qui sera grand, si l'on en croit ma plainte;  
-Et par là gagner temps en attendant secours,                           
+Et par là gagner temps en attendant secours,  
 
     BELISE.
 Un Ange tutelaire [169] inspire ce discours.  
@@ -2298,7 +2298,7 @@ L'ingrate que je sers adore un estranger;
 Son esprit inconstant fait gloire⁎ de changer:  
 Et du premier regard qu'un Adonis envoye,  
 Il destruit mon espoir, ma fortune⁎ et ma joye.  
-Ce Narcisse a des yeux qui charment ses esprits;                       
+Ce Narcisse a des yeux qui charment ses esprits;  
 Je ne suis pour les siens qu'un object⁎ de mespris;  
 Et j'ay veu la perfide⁎ (ô funeste memoire !)  
 Prendre ses interests; combattre pour sa gloire⁎;  
@@ -2324,7 +2324,7 @@ Allons sans s'amuser en discours superflus;
 A qui dois-je parler ? ne me le celez⁎ plus.  
 
     ORONTE.
-Philante est le Rival qu'aime la desloyale;                       
+Philante est le Rival qu'aime la desloyale;  
 Et son pere demeure à la place Royale [170].  
 
     BRASIDE.
@@ -2333,7 +2333,7 @@ Et sçachant son quartier je le trouve aisément:
 Où nous irons nous batre ?  
 
     ORONTE.
-                à cent pas de la porte;  
+                        à cent pas de la porte;  
 Pourveu que ce soit prés la place, ne m'importe.  
 
     BRASIDE.
@@ -2346,7 +2346,7 @@ L'inconstante verra si j'estois digne d'elle;
 Et je verray bien tost si cét ambitieux,  
 Sçait blesser de la main aussi bien que des yeux.  
 
-ACTE IV.                    
+ACTE IV.
 
 
 ### SCENE III.
@@ -2362,7 +2362,7 @@ Ha ! bon Dieu nullement, ton mal n'est point douteux,
 Tu ne peux éviter un supplice honteux;  
 Le Ciel impitoyable, est sourd à ta requeste;  
 Desja sa foudre gronde et menace ta teste;  
-Et si devant trois jours Philante ne revient,                       
+Et si devant trois jours Philante ne revient,  
 L'esperance t'eschappe et la parque [173] te tient.  
 Puissay-je voir ma fin avant ceste journée,  
 Où l'on doit achever ce fantasque [174] himenée⁎,  
@@ -2381,31 +2381,31 @@ N'auray-je point bien-tost le bon-heur que j'espere ?
 Quelle de ces maisons est celle de mon pere ?  
 
     CLORIAN.
-Philante, à ce portail, je crois que la voicy:                           
+Philante, à ce portail, je crois que la voicy:  
 
     BRASIDE.
 Philante ? ô quel bon-heur de le trouver icy !  
 N'estes vous pas Philante ?  
 
     PHILANTE.
-                ainsi chacun me nomme:  
+                        ainsi chacun me nomme:  
 
     BRASIDE.
 Fils d'Almedor ?  
 
     PHILANTE.
-        Luy-mesme:  
+            Luy-mesme:  
 
     BRASIDE.
-                un brave Gentil-homme,  
+                        un brave Gentil-homme,  
 De vous faire appeler, a creu de son devoir;  
 Si vous le desirez, je vous le feray voir.  
 
-    PHILANTE.    
+    PHILANTE.
 Son nom ?  
 
     BRASIDE.
-son nom fameux ne peut faire de honte;  
+        son nom fameux ne peut faire de honte;  
 Tous les honnestes gens connoissent trop Oronte.  
 
     PHILANTE.
@@ -2413,7 +2413,7 @@ Quel que soit cét Oronte, il faut le contenter;
 J'iray sur vostre foy⁎:  
 
     BRASIDE.
-            non, sans plus contester,  
+                    non, sans plus contester,  
 (Je sçay bien mon mestier) avant nostre sortie,  
 Choisissez un amy qui soit de la partie.  
 
@@ -2422,9 +2422,9 @@ Allons à cela pres, vos desirs sont contens;
 Nous en ferons nous deux;  
 
     BRASIDE.
-            J'ay ce que je prétens.  
+                    J'ay ce que je prétens.  
 
-ACTE IV.                     
+ACTE IV.
 
 
 ### SCENE V.
@@ -2442,7 +2442,7 @@ L'amour de nos enfans en prend son origine;
 Leur flame est eternelle aussi bien que divine;  
 Et le mesme destin qui leur fit voir le jour,  
 Escrivit en airain [175] qu'ils auroient de l'amour.  
-Jamais chose icy bas ne parut moins possible;                       
+Jamais chose icy bas ne parut moins possible;  
 Jamais cœur de rocher ne fut plus insensible  
 Que celuy de ma fille, et je dois confesser,  
 Qu'à moins que d'un miracle il falloit la forcer.  
@@ -2464,7 +2464,7 @@ Luciane vaut mieux que l'Empire du monde;
 Et ce riche present n'a rien qui le seconde:  
 Les beautez, les vertus, font l'aise et le bon-heur;  
 Et seules peuvent plaire aux personnes d'honneur⁎;  
-Mais ne differons plus nostre bonne fortune⁎;                      
+Mais ne differons plus nostre bonne fortune⁎;  
 Confondons nos maisons, et n'en faisons plus qu'une.  
 
     ROSANDRE.
@@ -2483,7 +2483,7 @@ Tyran⁎, cesse de me poursuivre;
 Fascheux Amour, retire toy;  
 Mais non ! peris avecques moy;  
 Pour te faire mourir je veux cesser de vivre:  
-Viens donc esteindre ton flambeau,                               
+Viens donc esteindre ton flambeau,  
 Dans les cendres de mon tombeau.  
 
 Luciane est une infidelle;  
@@ -2507,7 +2507,7 @@ Ne t'obligera point à des chants d'allegresse:
 Car sçache que s'il a du cœur,  
 Nous mourrons tous deux sans vainqueur;  
 
-Mire [176] toy dans ce beau visage,                               
+Mire [176] toy dans ce beau visage,  
 Qui met ta constance aux abois [177];  
 Ce sera la derniere fois  
 Que mon bras irrité, t'en permettra l'usage;  
@@ -2530,7 +2530,7 @@ Brusler de nouveaux feux et se mocquer du sien;
 Changer et rechanger, aimer tout, n'aimer rien;  
 Et dans ses passions veritable Prothee,  
 Estre une isle flottante en la mer agitee;  
-Roseau fresle, desbile⁎, et qui tourne à tout vent;                       
+Roseau fresle, desbile⁎, et qui tourne à tout vent;  
 Monstre plein d'inconstance, et vray sable mouvant:  
 Mais courage mon coeur, quittons cette perfide⁎,  
 Voicy nos ennemis, et j'apperçoy Braside.  
@@ -2551,7 +2551,7 @@ Tenez, visitez moy; voyez par ma franchise⁎,
 Si je crains le peril ou si je le mesprise.  
 
     CLORIAN.
-J'agis par la coustume en des soins⁎ superflus [178]:                           
+J'agis par la coustume en des soins⁎ superflus [178]:  
 
     PHILANTE.
 Allez rejoindre Oronte, et ne differons plus.  
@@ -2560,7 +2560,7 @@ Allez rejoindre Oronte, et ne differons plus.
 Courage ils sont à nous;  
 
     CLORIAN.
-            ô quel excez de gloire⁎  
+                    ô quel excez de gloire⁎  
 Avant que de combattre ils chantent la victoire.  
 
     ORONTE.
@@ -2571,10 +2571,10 @@ M'auroit-elle fait dire un autre pour Philante ?
 Respondez moy Braside;  
 
     BRASIDE.
-            Oronte, ouvrez les yeux:  
+                    Oronte, ouvrez les yeux:  
 
     PHILANTE.
-Philante parle à vous, et regardez le mieux;                       
+Philante parle à vous, et regardez le mieux;  
 Mais vous qui l'attaquez avant que le connoistre,  
 Dites luy d'où la haine entre nous a pû naistre ?  
 
@@ -2588,22 +2588,22 @@ Je ne vous connois point, et suis le mesme encor.
 Vous Philante !  
 
     PHILANTE.
-        luy mesme:  
+            luy mesme:  
 
     ORONTE.
-                arrivé de Bretagne ?  
+                        arrivé de Bretagne ?  
 
     PHILANTE.
 On le voit en voyant mon habit de campagne:  
 
-    ORONTE.    
+    ORONTE.
 Fils d'Almedor ?  
 
     PHILANTE.
-         son fils:  
+             son fils:  
 
     ORONTE.
-            d'Almedor de Renier ?  
+                    d'Almedor de Renier ?  
 
     PHILANTE.
 D'Almedor que les Turcs ont tenu prisonnier.  
@@ -2621,7 +2621,7 @@ Pourquoy prendre ce nom est-il assez fameux ?
 Mes peres l'ont porté, je le porte comme eux.  
 
     ORONTE.
-Je l'ay veu ce Philante aupres de sa Maistresse:                       
+Je l'ay veu ce Philante aupres de sa Maistresse:  
 
     PHILANTE.
 Ha ! qu'il est donc bien loing du mal-heur qui m'oppresse:  
@@ -2639,7 +2639,7 @@ Et je ne sçaurois plus demander ny respondre.
     CLORIAN.
 Je commence à voir clair dans cette obscurité;  
 Quelque imposteur aura vostre nom emprunté;  
-Et devenant Rival d'Oronte qui s'abuse;                           
+Et devenant Rival d'Oronte qui s'abuse;  
 Une fille infidelle a secondé sa ruse.  
 Apres ce Gentil-homme en vous oyant nommer,  
 Aura fait une erreur qu'on ne sçauroit blasmer;  
@@ -2661,7 +2661,7 @@ Loing d'estre son Rival je suis son serviteur;
 Mais sans perdre⁎ le temps voyons cét imposteur.  
 
 
-## ACTE V.                        
+## ACTE V.
 Belise, Luciane, Doriste, Rosandre, Almedor, Philante, Oronte, Braside, Clorian, Polidon, Page d'Almedor.
 
 
@@ -2675,7 +2675,7 @@ En fin malheureuse Belise,
 Tu perdras l'honneur⁎ et le jour;  
 On verra ton crime d'amour,  
 Quel que soit le chemin que ta prudence élise;  
-On verra ton trespas,                                       
+On verra ton trespas,  
 Philante ne vient pas.  
 
 Charmante et trompeuse esperance,  
@@ -2699,7 +2699,7 @@ Mais pour le pouvoir faire [180] il luy faudroit des aisles:
 On verra mon trespas,  
 Philante ne vient pas.  
 
-La force de la destinée,                                   
+La force de la destinée,  
 Regne si souverainement,  
 Que c'est perdre⁎ le jugement⁎,  
 Que de croire empescher une chose ordonnée:  
@@ -2722,7 +2722,7 @@ Vous que le mesme sort expose au mesme orage;
 N'avez vous point trouvé pour nostre affliction,  
 Ce que je cherche en vain dans mon invention ?  
 
-ACTE V.                     
+ACTE V.
 
 
 ### SCENE II.
@@ -2740,7 +2740,7 @@ Il vient de me jurer qu'il ne veut plus attendre:
 Le dessein⁎ d'Almedor est celuy de Rosandre;  
 Si bien que nostre perte est un point arresté:  
 
-    LUCIANE.    
+    LUCIANE.
 Il faut mourir ma sœur; l'espoir nous est osté.  
 
     BELISE.
@@ -2759,9 +2759,9 @@ Si l'on suit un advis que m'inspirent les Cieux.
 Propose-le Doriste;  
 
     DORISTE.
-            achevez l'himenée⁎;  
+                    achevez l'himenée⁎;  
 Laissons nous emporter à cette destinée;  
-Il faut vaincre en cedant le courroux de la mer:                           
+Il faut vaincre en cedant le courroux de la mer:  
 Aucun ne le sçachant qui nous pourra blasmer ?  
 De nous persecuter la fortune⁎ lassee,  
 Peut-estre fera voir la tempeste passee,  
@@ -2769,7 +2769,7 @@ Ramenant en ces lieux le juste possesseur:
 Voila ce que je sçay.  
 
     BELISE.
-            qu'en dites vous ma sœur ?  
+                    qu'en dites vous ma sœur ?  
 
     LUCIANE.
 Il nous faut bien resoudre à des maux necessaires:  
@@ -2779,7 +2779,7 @@ Retirons nous, fuyons, j'entends nos adversaires;
 Vueille apres tant de maux le destin par pitié,  
 Favoriser en nous l'amour et l'amitié⁎.  
 
-ACTE V.                     
+ACTE V.
 
 
 ### SCENE III.
@@ -2795,7 +2795,7 @@ Quelque mauvais dessain occupe leur pensee;
 De quelques traicts cachez ils ont l'ame blessee;  
 Et malgré l'artifice on voit paroistre au jour,  
 Au lieu d'un legitime un illicite amour.  
-O siecle mal-heureux ! où les enfans rebelles,                   
+O siecle mal-heureux ! où les enfans rebelles,  
 Rompent de justes loix pour des loix criminelles;  
 Adorent leur caprice et d'un cœur abbatu,  
 S'esloignent du sentier où guide la vertu.  
@@ -2818,7 +2818,7 @@ Sans doute que son cœur brusle d'une autre flame.
 Il la devoit esteindre et brusler aujourd'huy  
 D'un feu qui contentast vous et moy comme luy.  
 
-    ROSANDRE.    
+    ROSANDRE.
 Il aime un autre object⁎ qu'il trouve plus aimable⁎:  
 
     ALMEDOR.
@@ -2836,11 +2836,11 @@ En voyant vostre fille on la voit legitime.
 Elle n'est qu'une souche, et sa temerité,  
 Recevra de ma part ce qu'elle a merité.  
 
-    ALMEDOR.    
+    ALMEDOR.
 Philante est seul coupable;  
 
     ROSANDRE.
-            Elle est seule insolente;  
+                    Elle est seule insolente;  
 De me desobeyr et refuser Philante.  
 
     ALMEDOR.
@@ -2851,7 +2851,7 @@ Puis que je l'ay promis⁎ il faut qu'il obeysse;
 Ainsi que l'art d'aimer, je sçay l'art de punir.  
 Mais que veulent ces gens que j'apperçoy venir ?  
 
-ACTE V.                     
+ACTE V.
 
 
 ### SCENE IV.
@@ -2862,7 +2862,7 @@ Philante, Oronte, Braside, Clorian, Rosandre, Almedor, Polidon.
 Voyons ce beau Philante;  
 
     ORONTE.
-            Amour veut que j'espere:  
+                    Amour veut que j'espere:  
 
     BRASIDE.
 Le plus haut de ces deux est Monsieur vostre pere.  
@@ -2871,7 +2871,7 @@ Le plus haut de ces deux est Monsieur vostre pere.
 Ha ! que nous allons voir un trompeur bien trompé;  
 Il ne voit pas le traict [185] dont il sera frappé.  
 
-    ROSANDRE.    
+    ROSANDRE.
 Ce Cavalier n'est point de nostre connoissance:  
 
     PHILANTE.
@@ -2885,20 +2885,20 @@ Vous vous laissez tromper aux traicts de mon visage;
 Je ne vous connois point;  
 
     PHILANTE.
-            Et ce fils inconnu,  
+                    Et ce fils inconnu,  
 Par vos commandemens est icy revenu.  
 
-    ALMEDOR.    
+    ALMEDOR.
 On m'appelle Almedor;  
 
     PHILANTE.
-            On me nomme Philante;  
+                    On me nomme Philante;  
 
     ROSANDRE.
 Ha quelle effronterie !  
 
     ALMEDOR.
-            ô la fourbe excellente !  
+                    ô la fourbe excellente !  
 Certes, je manque d'yeux, et j'ay les sens troublez.  
 Bien loing d'estre mon fils, si vous luy ressemblez.  
 
@@ -2910,7 +2910,7 @@ A fait qu'à vostre abord j'ay tressailly de joye.
 La raison qui me guide en ce dangereux pas,  
 Fait en vous escoutant que je ne tressauts [186] pas.  
 
-    PHILANTE.    
+    PHILANTE.
 Si [187] devriez vous sentir dedans cette advanture⁎,  
 Ces puissans mouvemens que donne la nature.  
 
@@ -2931,7 +2931,7 @@ Puisse en ce mesme instant la terre m'engloutir.
     ALMEDOR.
 Si je crois aux sermens dont je sçay la malice,  
 Que ma simplicité cede à vostre artifice.  
-Cherchant à me tromper vostre esprit cherche un point.               
+Cherchant à me tromper vostre esprit cherche un point.  
 Qu'indubitablement il ne trouvera point.  
 
     PHILANTE.
@@ -2946,12 +2946,12 @@ Et s'il est fait pour elle, il luy ressemble mal.
 Que je suis mal-heureux !  
 
     ALMEDOR.
-            que vous estes coupable !  
+                    que vous estes coupable !  
 
     PHILANTE.
 D'un si lasche projet me croyez vous capable ?  
 
-    ALMEDOR.    
+    ALMEDOR.
 Ouy de le commencer; mais non de le finir:  
 
     PHILANTE.
@@ -2967,11 +2967,11 @@ Advertissez mon fils; et qu'il descende icy;
 Faites venir encor Luciane;  
 
     ORONTE.
-                ha ! Braside,  
+                        ha ! Braside,  
 Verray-je sans mourir cette belle homicide ?  
 Verray-je ce meschant ? verray-je ce volleur ?  
 Dont l'injuste plaisir a causé ma douleur ?  
-Qui prend le nom d'un autre, et l'innocence opprime                  
+Qui prend le nom d'un autre, et l'innocence opprime  
 Sans luy faire sentir la peine de son crime ?  
 Chacun excusera mon amoureuse erreur;  
 Respect, retire toy; laisse agir ma fureur.  
@@ -2991,7 +2991,7 @@ Oronte encor un coup, je vous responds de luy.
     ROSANDRE.
 Quel que soit le dessein⁎ que vous ayez en l'ame,  
 Vous n'en pouvez tirer que du mal et du blasme.  
-Celuy qui vous abuse et qui me fait ce tort,                       
+Celuy qui vous abuse et qui me fait ce tort,  
 N'a point assez de front pour souffrir⁎ mon abord:  
 Un coup d'œil seulement le remplira de glace,  
 
@@ -3000,7 +3000,7 @@ Philante; un inconnu veut occuper ta place;
 Il dit estre toy mesme; et le veut soustenir;  
 Viens deffendre ton droict, et le faire punir.  
 
-ACTE V.                     
+ACTE V.
 
 
 ### SCENE V.
@@ -3011,14 +3011,14 @@ Belise, Philante, Oronte, Rosandre, Almedor, Clorian, Doriste, Braside.
 O Dieu !  
 
     PHILANTE.
-C'est Elle !  
+    C'est Elle !  
 
     CLORIAN.
-        O Ciel ! quelle advanture⁎ estrange ?  
+                O Ciel ! quelle advanture⁎ estrange ?  
 
     ORONTE.
 Est-ce ainsi qu'on punit ? est-ce ainsi qu'on se vange ?  
-Ils se trouvent amis par un sort hasardeux;                   
+Ils se trouvent amis par un sort hasardeux;  
 Mais Braside, n'importe, ils sont trois et nous deux:  
 
     ROSANDRE.
@@ -3039,18 +3039,18 @@ Dessouz vostre congé; n'est-elle pas à moy.
 En puis-je disposer ?  
 
     ROSANDRE.
-            elle est à vous Philante;  
+                    elle est à vous Philante;  
 
     BELISE.
 Usant comme je doibs, d'une chose excellente;  
-Je vous la donne Oronte: ou plustost par mes mains,                   
+Je vous la donne Oronte: ou plustost par mes mains,  
 Vous la donne celuy qui commande aux humains [191].  
 
     ROSANDRE.
 Helas ! qu'ay-je entendu ?  
 
     ALMEDOR.
-            bon Dieu, quelle insolence,  
+                    bon Dieu, quelle insolence,  
 
     CLORIAN.
 Que vostre estonnement⁎ soit suivy du silence:  
@@ -3062,7 +3062,7 @@ Aimant le vray Philante, et quittant ma maison;
 Mais cette histoire est longue, et n'est pas de saison [194]:  
 Il suffit de sçavoir que celuy qu'elle estime,  
 Est du brave Almedor l'heritier legitime;  
-Ouy, celuy qui luy parle est vostre unique enfant;                   
+Ouy, celuy qui luy parle est vostre unique enfant;  
 Desormais d'en douter la raison vous deffend.  
 
     DORISTE.
@@ -3086,7 +3086,7 @@ Une seconde fois, je vous devray le jour.
     CLORIAN.
 Que si vous redoutez quelque desavantage;  
 Et la naissance illustre, et le riche partage,  
-D'agreer leurs desirs, pour ma sœur vous semond [195];                   
+D'agreer leurs desirs, pour ma sœur vous semond [195];  
 Puis qu'elle est comme moy de la Maison d'Armont:  
 Maison assez connuë, et qui dans la Province,  
 Ne voir rien dessus soy que le pouvoir du Prince.  
@@ -3108,7 +3108,7 @@ Que celuy de vous plaire, honorer et servir.
     ROSANDRE.
 Levez vous; j'y consens; en fin ma resistance,  
 Cessera de lutter contre vostre constance:  
-Si vous estes content, je le suis desormais.                       
+Si vous estes content, je le suis desormais.  
 
     ORONTE.
 Souvenir de mes maux ne revenez jamais.  
@@ -3131,7 +3131,7 @@ Pourray-je vous servir comme j'en ay l'envie ?
 Et fille, comme fils, oseray-je esperer,  
 Que vostre affection puisse encore durer ?  
 
-    ALMEDOR.    
+    ALMEDOR.
 Sçachez que fils, et fille, et Philante, et Belise,  
 Vous avez sur mon cœur toute puissance acquise:  
 
@@ -3145,12 +3145,12 @@ Satisfaisons le corps si l'esprit est content.
 Plus à loisir mon frere, il faut  
 
     CLORIAN.
-                fermes la bouche:  
+                        fermes la bouche:  
 Vostre choix estoit juste, et mon jugement⁎ louche;  
 Ne meslons rien d'amer avec cette douceur;  
 Oublions l'un et l'autre, et nous aimons, ma sœur [196].  
 
-    LUCIANE.    
+    LUCIANE.
 Et bien jaloux Oronte, estiez vous raisonnable ?  
 Vostre faute commise est elle pardonnable ?  
 Ce soupçon mal fondé n'est-il pas criminel ?  
@@ -3171,7 +3171,7 @@ Vous avez fait la faute, et vous m'en accusez;
 Elle m'a pensé perdre⁎, et vous l'authorisez;  
 Vous demandez raison, et je vous la demande:  
 Mais il faut obeïr puis qu'on me le commande;  
-Soit; donnez le pardon, que vous avez promis⁎,                      
+Soit; donnez le pardon, que vous avez promis⁎,  
 A ce crime d'amour que vous avez commis.  
 Mais non; refuser moy cette juste allegeance;  
 Afin que cent baisers m'en fassent la vengeance.  

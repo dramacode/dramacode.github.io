@@ -1,5 +1,5 @@
 ---
-identifier: chevreau_l'advocat  
+identifier: chevreau_avocat-duppe  
 creator: Chevreau, Urbain  
 date: 1637  
 title: L'Advocat duppé. Comédie  
@@ -714,7 +714,7 @@ Ne l'oüit, sans entrer dans un ravissement,
 Pour moy.  
 
     ISIDORE.
-N'en parlez plus, ma sœur, chere Atalante,  
+        N'en parlez plus, ma sœur, chere Atalante,  
 Je puis rendre aisément vôtre ame plus contente.      
 Si Polydas vous aime, et qu'on treuve [51] aujourd'huy  
 Un moyen qui soit prompt à flater vôtre ennuy⁎,  
@@ -727,7 +727,7 @@ Le plus juste Advocat prend [53] de tous les costez.
 Non, non, je n'en veux point.  
 
     ISIDORE.
-Je plains vôtre sottise,  
+        Je plains vôtre sottise,  
 Ils prennent quelquefois, mais on les authorise :  
 Ils demandent en droit ; leurs pechez infinis,  
 « Quoy qu'ils soient reconnus, ne sont jamés punis.  
@@ -768,7 +768,7 @@ Où le pourray-je voir ? Qui parlera pour moy ?
 Il faut auprés de luy quelqu'un qui l'entretienne⁎,  
 Et dont la bonne humeur⁎ seconde un peu la sienne.  
 
-    ISIDORE. 
+    ISIDORE.
 Il ne me connest point, je veux m'offrir à luy,  
 Ce moyen seulement finira vostre ennuy⁎,  
 J'auray d'autres habits, tout nous sera propice,  
@@ -780,7 +780,7 @@ Quand nous aurons tout fait de bannir vostre crainte :
 Mais il faut de l'argent.  
 
     ATALANTE
-Tout nous vient à propos,  
+        Tout nous vient à propos,  
 Voy nostre Curateur [60] d'où dépend mon repos⁎.  
 
     ISIDORE
@@ -828,7 +828,7 @@ Que vôtre esprit un jour devra me reconêtre,
 Et qu'à present bien loing de vous estre importun  
 Je ne possede rien qui ne vous soit commun.  
 
-    ISIDORE. 
+    ISIDORE.
 Vous sçavez justement l'art de charmer nos penes⁎,  
 « Un ami se connest aux choses incertenes.  
 Je voi dans cét âvis vôtre esprit ingenu,  
@@ -852,7 +852,7 @@ Et vous serez perduë aiant perdu la honte ;
 Ainsi n'esperez plus d'avoir aucun bon-heur,  
 « Tout mal⁎ doit arriver à qui n'a plus d'honneur.  
 
-    ATALANTE. 
+    ATALANTE.
 Ah ! Monsieur, la raison finiroit mon envie,  
 J'aime bien plus l'honneur que je n'aime la vie ;  
 Je suivray le sentier que vous m'avez batu,  
@@ -866,7 +866,7 @@ Que contre sa coutume aucun ne l'importune,
 Cent francs y suffiront.  
 
     PHILEMON.
-Je vous les veux donner  
+        Je vous les veux donner  
 S'il est vray que je seme afin de moissonner.  
 
     ISIDORE.
@@ -912,7 +912,7 @@ Ne m'auroient pas causé peut-estre tant de mal⁎ ;
 Et dans un tel état.  
 
     FLAMINIE.
-Cessez, cessez mon frere  
+        Cessez, cessez mon frere  
 Je vous la ferai voir si vous m'en voulez crere.  
 Mais par ce trait d'amour vous devés avoüer  
 Qu'en ceci nôtre sexe est beaucoup à loüer.  
@@ -921,7 +921,7 @@ Qu'aujourd'huy vos soupirs ne sont plus que de flâme⁎ ;
 L'homme est d'un naturel si sensible à nos coups  
 Qu'il ne sçaurait nous voir sans se plaindre de nous.  
 
-    POLYDAS. 
+    POLYDAS.
 Je la cheris ma sœur d'une amour [68] legitime,  
 Où l'excès est loüable et le change est un crime,  
 Le feu⁎ que j'ai pour elle est si dous et si beau  
@@ -945,7 +945,7 @@ Car des-ja vôtre amour tient de la jalousie :
 Vous l'aimez sans la voir, et pour vous mieux aider  
 Vous croiez qu'un chacun vous la doive ceder.  
 
-    POLYDAS. 
+    POLYDAS.
 S'il te falloit aimer, ah tu craindrois de même,  
 Il faut estre jalous de la chose qu'on aime,  
 N'aimer pas comme moi, c'est n'aimer rien qu'un peu.  
@@ -967,7 +967,7 @@ D'en avoir plus deux fois que leurs cœurs n'en desirent.
 Au moins je me resous à souffrir cét afront,  
 Les cornes rarement incommodent le front.  
 
-    FLAMINIE. 
+    FLAMINIE.
 Ha ! Si par une marque on les pouvoit connêtre,  
 Sans doute la plus-part auroient peur de parêtre.  
 
@@ -987,7 +987,7 @@ Et contenter mes yeux quand j'en devrois mourir.
 Vôtre mal⁎ est puissant, il faut que je l'apaise,  
 Sans doute mon esprit vous doit mettre à vôtre aise.  
 
-    POLYDAS. 
+    POLYDAS.
 Si tu me fais ce bien, je dépite le Ciel  
 De me verser jamés une goutte de fiel⁎ ;  
 Si ton invention me doit estre propice  
@@ -1072,14 +1072,14 @@ Ouï, j'ay beaucoup d'amis qui seront mes garans,
 Et vous pourrez tantôt voir une Damoiselle  
 Qui vous assurera comme je suis fidelle.  
 
-    POLYDAS. 
+    POLYDAS.
 Son nom.  
 
     SICANDRE.
-C'est Atalante.  
+    C'est Atalante.  
 
     POLYDAS.
-Il arrive à propos  
+        Il arrive à propos  
 Dans cette occasion je treuve mon repos.  
 D'où la connessez-vous ? Tout le monde la vante.  
 
@@ -1092,7 +1092,7 @@ Je la voi tous les jours, ma Sœur est sa servante.
 Tirons-nous à l'écart.  
 
     SICANDRE.
-Je connois son humeur,  
+        Je connois son humeur,  
 Et je m'en vais le rendre aussi fou qu'un rimeur.  
 
     POLYDAS.
@@ -1221,7 +1221,7 @@ Un procez et vos sœurs en ont treuvé le bout.
 Et les biens que j'avois ?  
 
     PHILEMON.
-Ne parlez plus des vôtres,  
+        Ne parlez plus des vôtres,  
 Vous en avez autant dépensé que les autres.  
 
     MAINALTE.
@@ -1238,10 +1238,10 @@ Tout ce que font vos sœurs pour avoir un Amant⁎.
 Son nom.  
 
     PHILEMON.
-C'est Polydas.  
+    C'est Polydas.  
 
     MAINALTE.
-Je ne le puis conêstre,  
+        Je ne le puis conêstre,  
 Mais dans cét entretient⁎ je ne voi rien parêtre.  
 Ne croi pas m'abuser d'une fausse douceur,  
 Je veux un compte d'or, et non pas de ma sœur [89].  
@@ -1299,10 +1299,10 @@ Adieu, n'arreste plus, tache à me soulager.
 Ma Sœur.  
 
     ATALANTE.
-Parle autrement.  
+    Parle autrement.  
 
     SICANDRE.
-Madame je vous jure  
+        Madame je vous jure  
 Que vous n'en recevrez jamés aucune injure,  
 Et que puis que Monsieur me fait un tel honneur,  
 S'il en a du plesir, j'en aurai du bon-heur.  
@@ -1313,10 +1313,10 @@ Tantôt [92] je t'irai voir.
     POLYDAS.
 (il dit cecy bas)
 
-Sa fortune⁎ est extrême,  
+        Sa fortune⁎ est extrême,  
 Je voudrois estre Clerc pour estre aimé de même.  
 
-    ATALANTE. 
+    ATALANTE.
 Monsieur je n'ûs jamés d'assez dous compliment,  
 Qui suffise assez bien à ce remerciment,  
 Mais dans l'occasion je me rendrai capable  
@@ -1338,7 +1338,7 @@ Un homme est trop heureux d'en avoir une œillade,
 Et si j'ozois attendre un tel contentement,  
 Je craindrois de mourir par un ravissement.  
 
-    SICANDRE. 
+    SICANDRE.
 Monsieur il est bien vrai ; quand je me considere  
 Je me dois consoler dans ma triste misere,  
 Et de quelque disgrace, ou de quelque douleur,  
@@ -1382,7 +1382,7 @@ Mais découvrez le mal⁎, que sert de l'endurer ?
 En tout cas un refus.  
 
     POLYDAS.
-Tu l'as treuvé Sicandre,  
+        Tu l'as treuvé Sicandre,  
 Et tu me serviras si j'oze l'entreprendre.  
 Allons cela suffit, ce jour m'est trop heureux,  
 Sois donc autant ami que je suis amoureux⁎.  
@@ -1400,7 +1400,7 @@ Fasse naître en nos cœurs une extréme froideur [99].
 Je sçai bien que tu veux…  
 
     CALLIANTE.
-Ce discours m'importune,  
+        Ce discours m'importune,  
 Un chacun doit soufrir⁎ qu'on cherche sa fortune⁎.  
 Je vais chez Atalante, et tu ne penses pas  
 Qu'il me faille adorer de si puissans apas⁎ ?  
@@ -1443,7 +1443,7 @@ Et si tu me dis vrai la vérité me tuë ;
 Je l'aime comme toi.  
 
     CALLIANTE.
-Je te dis mon secret,  
+        Je te dis mon secret,  
 Et si c'est t'ofenser, je t'ofense à regret.  
 
     THARZINTE. [101]
@@ -1462,7 +1462,7 @@ Sa mort doit faire apres ma fortune⁎ assez grande.
 Qu'as-tu donc à resver ?  
 
     THARZINTE.
-C'est qu'il faut aujourd'hui,  
+        C'est qu'il faut aujourd'hui,  
 Ou croître tout d'un coup, ou finir nôtre ennui⁎.  
 Et si par ton amour tu pretens cette belle,  
 Ce prix vaut-il pas bien qu'on fasse une querelle ?  
@@ -1598,19 +1598,19 @@ Ces divertissemens vous seront superflus,
 Vous en aime-t'on mieux.  
 (Elle lit ceci sur une fueille [107] de papier)
 
-Sonnet pour Atalante,  
+        Sonnet pour Atalante,  
 Je l'avois toûjours dit, que l'amour vous tourmente.  
 Mais voions le Sonnet.  
 
     POLYDAS.
-Premier que de le voir  
+        Premier que de le voir  
 En sçais-tu le sujet ?  
 
     FLAMINIE.
-Non.  
+    Non.  
 
     POLYDAS.
-Tu le vas savoir.  
+        Tu le vas savoir.  
 Sache qu'en l'abordant, j'aperceu devant elle  
 Un miroir qui montroit combien elle estoit belle,  
 Cieux que je fus ravi, lors que ses yeux ardans  
@@ -1634,7 +1634,7 @@ Car je voiois ma teste où j'avois veu mon cœur.
 Voici donc le Sonnet.  
 
     FLAMINIE.
-Monstrez je le veux lire.  
+        Monstrez je le veux lire.  
 
     POLYDAS.
 Ma Sœur ne le lis pas, car tu me ferois rire.  
@@ -1667,7 +1667,7 @@ Il est vrai, mais brisons ; je n'ai point veu Sicandre,
 Que fait-il maintenant.  
 
     POLYDAS.
-Je n'ose te l'aprendre.  
+        Je n'ose te l'aprendre.  
 Vrément il n'agit pas comme il promit d'agir,  
 S'il se reconnessait il en devroit rougir ;  
 C'est un Clerc glorieux⁎ qui ne sait pas écrire,  
@@ -1691,7 +1691,7 @@ On me vient en tout temps afliger de la sorte.
 Monsieur c'est Atalante.  
 
     POLYDAS.
-O l'agreable jour,  
+        O l'agreable jour,  
 Demeure, j'ouvrirai ; j'ai trop d'aise en amour !  
 
     FLAMINIE.
@@ -1720,14 +1720,14 @@ Quand il sçaura mes maux⁎, il n'en fera que rire.
 Quoy vous n'achevez point ?  
 
     FLAMINIE.
-Mille pensers divers  
+        Mille pensers divers  
 Ont surpris mon esprit, et l'ont mis de travers.  
 
     SICANDRE.
 Mais que disiez-vous donc ?  
 
     FLAMINIE.
-Qu'une fille est heureuse  
+        Qu'une fille est heureuse  
 Alors qu'on l'aime autant qu'on la treuve amoureuse⁎.  
 Qu'aimer sans estre aimé c'est rencontrer un sort⁎  
 Pire que les poisons, et pire que la mort.  
@@ -1752,7 +1752,7 @@ A ton occasion j'en prendrai la creance [111],
 Et je m'estimerai pourveu que mon amour  
 Oblige ton esprit à me faire la cour.  
 
-    SICANDRE 
+    SICANDRE
 (Sicandre dit ceci bas.)
 
 O Ciel je n'en puis plus ! Je me voi découverte !  
@@ -1790,7 +1790,7 @@ Quoi j'aime un insensé !
     SICANDRE.
 (Il dit cecy bas.)
 
-Quelle étrange avanture⁎ ?  
+        Quelle étrange avanture⁎ ?  
 Mon impuissance a droit d'acuser la nature.  
 En cette ocasion que n'ais-je ce qu'il faut  
 Pour courir sans danger à cét aimable assaut !  
@@ -1854,7 +1854,7 @@ MAINALTE, SICANDRE.
 
 
     MAINALTE.
-C'est trop fait, c'est trop estre à la gêne [113],  
+        C'est trop fait, c'est trop estre à la gêne [113],  
 Il est temps de finir leur amour et ma pêne⁎.  
 Ma sœur de la façon [114] ruine son bon-heur,  
 Et croit fère son bien faisant son deshonneur.  
@@ -1863,7 +1863,7 @@ Ou bien malaisement la puis-je reconêtre.
 Quoi ma sœur est-ce vous ?  
 
     SICANDRE.
-Quel reste de plesir  
+        Quel reste de plesir  
 Semble si doucement terminer mon desir !  
 Mon frere c'est donc vous ? Quel bon sort⁎ vous envoie  
 Pour ravir mes esprits d'une parfaite joie ?  
@@ -1876,10 +1876,10 @@ Est-ce le vrai chemin que la gloire doit suivre ?
 Ah ma sœur !  
 
     SICANDRE.
-Ecoutez.  
+    Ecoutez.  
 
     MAINALTE.
-Je sçais bien le dessein  
+        Je sçais bien le dessein  
 Dont un feu⁎ deshonneste embrase vôtre sein.  
 
     SICANDRE.
@@ -1892,13 +1892,13 @@ Et croi que la voiant vous lui serez fidelle.
 Mettez-vous dans ma place, et fiez-vous sur moi,  
 Qu'elle ne peut manquer de vous donner sa foi⁎.  
 
-    MAINALTE. 
+    MAINALTE.
 Ma sœur si tu dis vrai, maintenant je t'advoüe  
 Que malgré ma colere il faut que je te loüe.  
 Mais est-il assuré.  
 
     SICANDRE.
-Si tôt que le Soleil.  
+        Si tôt que le Soleil.  
 
     MAINALTE.
 Tu me l'as des-ja dit ; ô bon-heur nompareil !  
@@ -1913,7 +1913,7 @@ Icy le jugement vous sera necessère.
 J'y vais donner bon ordre.  
 
     MAINALTE.
-Et cependant ma sœur…  
+        Et cependant ma sœur…  
 
     SICANDRE.
 Promenez-vous toûjours attendant ce bon-heur.  
@@ -1943,7 +1943,7 @@ Ils se veulent battre.
 Que je suis à propos ! vous.  
 
     CALLIANTE.
-Il faut qu'un duel  
+        Il faut qu'un duel  
 Termine maintenant un mal⁎ continuel.  
 Non, non c'est trop soufrir, Isidore est trop belle.  
 
@@ -1954,7 +1954,7 @@ Seroit-ce pour ma sœur que vous auriez querelle ?
 Mainalte cher ami.  
 
     MAINALTE.
-Tharzinte, mon support,  
+        Tharzinte, mon support,  
 Est-ce donc pour ma sœur que tu cherches la mort ?  
 
     THARZINTE.
@@ -1969,7 +1969,7 @@ Qu'on estimoit jadis, cede à ta lacheté.
 Ah ! c'est trop m'ofenser, si j'etois insensible  
 Je pourois endurer un afront si visible.  
 
-    MAINALTE. 
+    MAINALTE.
 C'est trop dit ; j'y consens, aujourd'hui le vainqueur  
 Doit gaigner Isidore, et posseder son cœur.  
 
@@ -1977,7 +1977,7 @@ Doit gaigner Isidore, et posseder son cœur.
 Et bien c'est à ce coup.  
 
     CALLIANTE.
-Je veux mal à ta rage,  
+        Je veux mal à ta rage,  
 Ce seroit dans ton sang que tu ferois naufrage,  
 Ecoute, faisons mieux, dequoi m'acuses-tu ?  
 Je sçai que nous avons une égale vertu⁎.  
@@ -1988,7 +1988,7 @@ Nous treuverons ailleurs des matieres de gloire⁎.
 Cela ne suffit pas.  
 
     CALLIANTE.
-Croi que cela suffit,  
+        Croi que cela suffit,  
 Et que par ce moien je cherche ton profit.  
 J'aime plus un ami que toutes les richesses,  
 Et pour en avoir un je perdrois cent Maitresses.  
@@ -2034,7 +2034,7 @@ Ne me refusez pas, prenez vôtre loisir,
 Ce soir vous le pouvez.  
 
     ATALANTE.
-Mais que pouroit-on dire ?  
+        Mais que pouroit-on dire ?  
 Ceci donneroit bien des matieres de rire.  
 
     POLYDAS.
@@ -2047,12 +2047,12 @@ arrive à la porte.
 Y devons-nous entrer, parle.  
 
     SICANDRE.
-Non, ce me semble.  
+        Non, ce me semble.  
 
     FLAMINIE.
 Je me resoudrai donc à les laisser ensemble.  
 
-    ATALANTE. 
+    ATALANTE.
 Ouï je vous le promets ; si la discretion  
 Entretient vôtre crainte, et vôtre affection.  
 
@@ -2068,7 +2068,7 @@ Adieu ne sortez point.
     POLYDAS
 la conduisant.
 
-J'aurois l'ame brutale,  
+        J'aurois l'ame brutale,  
 Si vous m'estes Procris je vous serai Cephale [118].  
 Il s'en va.
 
@@ -2190,11 +2190,11 @@ Soient égaux pour le moins à vos plus grands desirs.
 Vous ne me parlez point ; quoi rien ne me console !  
 Lors que je pers le cœur, perdez-vous la parole ?  
 
-    MAINALTE. 
+    MAINALTE.
 Ma sœur m'en a donné.  
 
     POLYDAS.
-Quel refroidissement ?  
+        Quel refroidissement ?  
 Est-ce ainsi comme il faut soulager mon tourment ?  
 Du moins comme un écho répondez à ma plainte,  
 Vous troublez mon esprit, et d'amour, et de crainte,  
@@ -2281,12 +2281,12 @@ Quand même elle feroit la perte de ma vie.
 Ma sœur.  
 
     FLAMINIE.
-C'est Polydas : faut-il que mon amour  
+        C'est Polydas : faut-il que mon amour  
 Lui soit dans cette nuit plus claire que le jour ?  
 Dequoi puis-je couvrir ma flame⁎ illegitime,  
 Mon indiscretion passera pour un crime.  
 
-    POLYDAS. 
+    POLYDAS.
 Et bien que voulez-vous ? suis-je point vostre Amant⁎ ?  
 Esperez-vous de moi quelque contentement ?  
 Non, je ne le croi pas ; un autre que Sicandre  
@@ -2352,8 +2352,8 @@ As-tu perdu le soin de soulager Sicandre ?
     FLAMINIE.
 Ne parlez pas si haut, mon frere.  
 
-    MAINALTE. 
-Je sçai tout.  
+    MAINALTE.
+        Je sçai tout.  
 Mais avoir un dessein sans en venir à bout.  
 
     FLAMINIE.
@@ -2388,7 +2388,7 @@ ATALANTE, POLYDAS.
 Est-ce vous Polydas ?  
 
     POLYDAS.
-Il n'est plus temps de feindre,  
+        Il n'est plus temps de feindre,  
 Acordez-moi du moins le plêsir de me plaindre.  
 Que vous sert de venir ? vos tours sont superflus,  
 Et c'est trop m'épreuver, ne m'importunez plus.  
@@ -2401,7 +2401,7 @@ Troubler mon entretien⁎ c'est troubler ma fortune⁎ ;
 Adieu donc laissez-moi dans l'humeur⁎ où je suis,  
 Tant plus vous demeurés, et tant plus j'ai d'ennuis⁎.  
 
-    ATALANTE. 
+    ATALANTE.
 Quoi me traiter ainsi ! ta fourbe est découverte,  
 Mais si j'ai des amis tu dois craindre ta perte.  
 Ne m'opose plus rien afin de me changer [128],  
@@ -2448,7 +2448,7 @@ Vous n'avez maintenant qu'à vous aimer vous-même.
 Si les hommes avoient d'aussi puissans apas⁎,  
 Les filles desormais ne nous charmeroient pas.  
 
-    SICANDRE. 
+    SICANDRE.
 Mais parlons de Mainalte à qui ma Flaminie  
 Crêra devoir la fin de sa pêne⁎ infinie,  
 Ils sont à mediter des propos amoureux,      
@@ -2466,7 +2466,7 @@ Mais voici Polydas.
     THARZINTE
 en se tirant à l'écart.
 
-Inventez quelque ruse,  
+        Inventez quelque ruse,  
 Ou quelque compliment qui fasse mon excuse.  
 
 
@@ -2488,7 +2488,7 @@ Il est bien mal-aisé de me remettre en grace.
 Tout est-il découvert ?  
 
     POLYDAS.
-Mon esprit ingenu  
+        Mon esprit ingenu  
 M'a sans doute causé. Quel est cét inconnu ?  
 
     SICANDRE
@@ -2513,7 +2513,7 @@ Et si tu ne me sers il faut que je soûpire.
 J'entens ici du bruit.  
 (Polydas rencontre sans lumiere sa sœur, que Mainalte baisoit.)
 
-O Ciel qu'ai-je aperceu !  
+        O Ciel qu'ai-je aperceu !  
 C'est vrêment à propos que je me vois deceu [132].  
 Que songez-vous [133] ma sœur.  
 
@@ -2522,7 +2522,7 @@ regardant Mainalte se retire.
 
 (Elle dit ceci bas)
 
-Quoi ce n'est pas Sicandre.  
+        Quoi ce n'est pas Sicandre.  
 Où suis-je ! qu'ai-je fait ! quel sort⁎ m'a pû surprendre !  
 
     POLYDAS.
@@ -2556,11 +2556,11 @@ Entretiens⁎-le ma sœur ; mais sçais-tu qu'Atalante.
 Elle est dans le jardin.  
 
     POLYDAS.
-Non je n'ai plus d'attente,  
+        Non je n'ai plus d'attente,  
 Elle en vient de sortir.  
 
-    FLAMINIE. 
-Elle y retourne encor.  
+    FLAMINIE.
+        Elle y retourne encor.  
 
     POLYDAS
 en s'en allant.
@@ -2573,7 +2573,7 @@ Mais abusant autrui, moi-même je m'abuse.
 Qui vous mene en ce lieu ?  
 
     MAINALTE.
-Rien que vous et l'amour.  
+        Rien que vous et l'amour.  
 Mais Sicandre, Madame, est cause de ce tour,  
 (Elle leve la tapisserie, qui fait voir la chambre.)
 
@@ -2588,11 +2588,11 @@ Madame montrez-nous vôtre ame toute nue,
 Et malgré cette ruse avoüez franchement  
 Que nous ne differons qu'en habit seulement.  
 
-    MAINALTE. 
+    MAINALTE.
 Ma sœur j'en ai trop dit.  
 
     FLAMINIE.
-Dieu que vous estes rare,  
+        Dieu que vous estes rare,  
 Me prodiguer [134] ainsi, ce n'est pas estre avare.  
 
     SICANDRE.
@@ -2625,7 +2625,7 @@ Ma ruse va bien tôt assurer vos plesirs.
 Duppons-le en son amour [135].  
 
     MAINALTE.
-Mon ame en est contente,  
+        Mon ame en est contente,  
 Mais comment le dupper, puis qu'il veut Atalante.  
 
     SICANDRE.
@@ -2659,7 +2659,7 @@ Qu'ils peuvent seulement nous donner de l'ennui⁎,
 Que nous perdons le temps, et que tant de chimeres  
 En augmentant sa gloire⁎ augmente nos miseres.  
 
-    PHILEMON. 
+    PHILEMON.
 J'ay crû qu'il n'estoit pas d'un si facile accés,  
 Et que vôtre dessein n'auroit point de succés.  
 Qui pourroit-on dupper dans le siecle où nous sommes ?  
@@ -2689,14 +2689,14 @@ Ne les recherchez plus, n'entreprenez plus rien.
 Vous pouvez témoigner.  
 
     ATALANTE.
-L'entreprise en est faite,  
+        L'entreprise en est faite,  
 Ma franchise [137] est le bien que mon ame souhaite.  
 Je me rendois esclave, et je voi clairement  
 Qu'il vaut mieux estre libre, et n'avoir point d'Amant⁎.  
 J'en veux tirer ma sœur.  
 
     PHILEMON.
-Sans tarder d'avantage  
+        Sans tarder d'avantage  
 Allez-y prontement, et revenez plus sage.  
 Rabatés toutes deux de vôtre vanité,  
 Et vous m'aporterés moins d'incommodité.  
@@ -2820,7 +2820,7 @@ FLAMINIE, POLYDAS.
 Et bien que songez-vous ?  
 
     POLYDAS.
-Que l'amour m'est contrêre,  
+        Que l'amour m'est contrêre,  
 Mais qu'aussi la raison m'en va bien tôt distrêre :  
 S'en est fait ; Atalante a des attraits⁎ puissans,  
 Mais juge ma raison plus forte que mes sens.  
@@ -2845,7 +2845,7 @@ Pour elle deux amis recherchent le trépas,
 Vous les avez pû voir.  
 
     POLYDAS.
-O Ciel que tu m'estonnes !  
+        O Ciel que tu m'estonnes !  
 Fais- moy donc par le nom connêtre ces personnes.  
 
 
@@ -2869,11 +2869,11 @@ A toûjours esté ferme au milieu du maleur.
 Le bruit qu'on t'a donné n'est rien qu'une fumée,  
 Car je voi que l'effet cede à la renommée.  
 
-    FLAMINIE. 
+    FLAMINIE.
 Mon frere empeschons les.  
 
     POLYDAS.
-Vous ne vous battrez pas,  
+        Vous ne vous battrez pas,  
 Pourquoi de la façon vous causer le trépas ?  
 
     ATALANTE
@@ -2898,18 +2898,18 @@ Et s'il vous faut mourir, mourez pour cette belle.
 Je la voulois hair, mais lors que je la voi  
 Je pers ma liberté, je ne suis plus à moi.  
 
-    SICANDRE. 
+    SICANDRE.
 Donnez donc seulement.  
 
     POLYDAS.
-Mais si je leur resiste  
+        Mais si je leur resiste  
 Le succés pour moi seul en doit estre plus triste.  
 
     SICANDRE.
 Vous craignez le danger.  
 
     POLYDAS.
-Et ne le crains-tu pas ?  
+        Et ne le crains-tu pas ?  
 
     SICANDRE.
 Pour un si beau sujet j'aimerois le trépas.  
@@ -2920,7 +2920,7 @@ Pour un si beau sujet j'aimerois le trépas.
 Ton cœur a donc manqué [139] ?  
 
     MAINALTE.
-Son humeur est trop pronte,  
+        Son humeur est trop pronte,  
 Mais il faut qu'il rougisse, et de sang et de honte.  
 
     POLYDAS
@@ -2931,7 +2931,7 @@ Sicandre qu'ai-je fait ?
     ATALANTE
 feint d'estre blessée.
 
-O Ciel quelle rigueur !  
+        O Ciel quelle rigueur !  
 
     THARZINTE.
 Mourons, car Polydas a blessé nôtre cœur.  
@@ -2943,7 +2943,7 @@ Pour punir ce cruel.
     FLAMINIE
 dit ceci bas.
 
-Tout va bien Isidore.  
+        Tout va bien Isidore.  
 
     ATALANTE
 voiant Polydas poursuivi.
@@ -2955,13 +2955,13 @@ Je n'ai point eu de mal que celui de la crainte,
 Je demande sa vie.  
 
     MAINALTE.
-Il faut lui pardonner,  
+        Il faut lui pardonner,  
 Il nous plaist de servir s'il vous plaist d'ordonner.  
 
     ATALANTE.
 Je ne crerai jamés cette faveur petite.  
 
-    MAINALTE. 
+    MAINALTE.
 Madame esperez tout, aiant tant de merite.  
 
     POLYDAS.
@@ -2998,7 +2998,7 @@ Vous pouvez m'irriter, ou m'adoucir le sort⁎.
 Un seul mot suffira.  
 
     THARZINTE.
-C'est beaucoup entreprendre,  
+        C'est beaucoup entreprendre,  
 Ah ! si vous m'attaquez, je me sçaurai defendre  
 Atalante me reste, et pour la posseder  
 Il faut que le trépas me force à la ceder.  
@@ -3045,7 +3045,7 @@ Concluons qu'Atalante en doit faire le choix.
 Pour moi je m'y resous.  
 
     POLYDAS.
-Je m'y resous de même,  
+        Je m'y resous de même,  
 Puis qu'elle connoist bien que ma flame⁎ est extréme.  
 
     SICANDRE.
@@ -3060,7 +3060,7 @@ Car son choix seulement finira la querelle.
 Puis qu'on veut m'imposer cette necessité.  
 Sicandre me ravit pour sa fidelité.  
 
-    POLYDAS. 
+    POLYDAS.
 Sicandre vous ravit ! que mon ame est confuse !  
 Juste Ciel est-ce ainsi qu'il faut qu'on me refuse !  
 
@@ -3138,7 +3138,7 @@ Que rien ne peut troubler une semblable joie.
 N'aprehendons plus rien, nous serons trop contents,  
 Et nos plêsirs iront par delà tous les temps.  
 
-    SICANDRE. 
+    SICANDRE.
 Tout nous a reüssi, nôtre fortune⁎ est belle,  
 Flaminie à propos a fait cette querelle,  
 Polydas la cajolle, elle est selon son vœu,  

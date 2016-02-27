@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_bourgeois-gentilhomme *id_I01 *act_I *date_1671 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1671 *creator_moliere
 
 -*who_maitre_musique
 Venez, entrez dans cette Salle, et vous reposez là, en attendant qu'il vienne.
@@ -76,7 +76,7 @@ Mais en tout cas il nous donne moyen de nous faire connaître dans le Monde ; e
 -*who_maitre_a_danser
 Le voilà qui vient.
 
-**** *book_moliere_bourgeois-gentilhomme *id_I02 *act_I *date_1671 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Hé bien, Messieurs ?
@@ -336,7 +336,7 @@ Le Chant a été de tout temps affecté aux Bergers ; et il n'est guère nature
 Passe, passe.
 Voyons.
 
-**** *book_moliere_bourgeois-gentilhomme *id_I03 *act_I *date_1671 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1671 *creator_moliere
 
 Un cœur, dans l'amoureux Empire,
 De mille soins est toujours agité :
@@ -436,7 +436,7 @@ Sont-ce encore des bergers ?
 C'est ce qu'il vous plaira.
 Allons.
 
-**** *book_moliere_bourgeois-gentilhomme *id_II01 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Voilà qui n'est point sot, et ces Gens-là se trémoussent bien.
@@ -543,7 +543,7 @@ Monsieur, voilà votre Maître d'Armes qui est là.
 Dis-lui qu'il entre ici pour me donner Leçon.
 Je veux que vous me voyiez faire.
 
-**** *book_moliere_bourgeois-gentilhomme *id_II02 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1671 *creator_moliere
 
 -*who_maitre_armes
 Allons, Monsieur, la révérence.
@@ -674,7 +674,7 @@ Laissez-nous un peu lui apprendre à parler.
 -*who_monsieur_jourdain
 Mon Dieu. arrêtez-vous.
 
-**** *book_moliere_bourgeois-gentilhomme *id_II03 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Holà, Monsieur le Philosophe, vous arrivez tout à propos avec votre Philosophie.
@@ -777,7 +777,7 @@ Monsieur le Philosophe, Messieurs, Monsieur le Philosophe, Messieurs, Monsieur l
 Oh battez-vous tant qu'il vous plaira, je n'y saurais que faire, et je n'irai pas gâter ma robe pour vous séparer.
 Je serais bien fou, de m'aller fourrer parmi eux, pour recevoir quelque coup qui me ferait mal.
 
-**** *book_moliere_bourgeois-gentilhomme *id_II04 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1671 *creator_moliere
 
 -*who_maitre_philosophie
 Venons à notre leçon.
@@ -1073,7 +1073,7 @@ Au Diable le Tailleur.
 La peste étouffe le Tailleur.
 Si je le tenais maintenant ce Tailleur détestable, ce chien de Tailleur-là, ce traître de Tailleur, je…
 
-**** *book_moliere_bourgeois-gentilhomme *id_II05 *act_II *date_1671 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Ah vous voilà.
@@ -1225,7 +1225,7 @@ Monseigneur, nous la remercions très humblement de ses libéralités.
 -*who_monsieur_jourdain
 Il a bien fait, je lui allais tout donner.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III01 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Suivez-moi, que j'aille un peu montrer mon Habit par la Ville ; et surtout, ayez soin tous deux de marcher immédiatement sur mes pas, afin qu'on voie bien que vous êtes à moi.
@@ -1237,7 +1237,7 @@ Oui, Monsieur.
 Appelez-moi Nicole, que je lui donne quelques ordres.
 Ne bougez, la voilà.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III02 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Nicole !
@@ -1372,7 +1372,7 @@ Ne dois-je point pour toi fermer ma Porte à tout le Monde ?
 -*who_nicole
 Vous devriez au moins la fermer à certaines Gens.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III03 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1671 *creator_moliere
 
 -*who_madame_jourdain
 Ah, ah, voici une nouvelle histoire.
@@ -1648,7 +1648,7 @@ Il vient peut-être encore vous faire quelque emprunt ; et il me semble que j'a
 -*who_monsieur_jourdain
 Taisez-vous, vous dis-je.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III04 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1671 *creator_moliere
 
 Dorante, Monsieur Jourdain, Madame Jourdain, Nicole
 
@@ -1882,7 +1882,7 @@ Que faire ? voulez-vous que je refuse un Homme de cette condition-là, qui a pa
 -*who_madame_jourdain
 Allez, vous êtes une vraie dupe.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III05 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1671 *creator_moliere
 
 -*who_dorante
 Vous me semblez toute mélancolique : qu'avez-vous, Madame Jourdain ?
@@ -1919,7 +1919,7 @@ Ah, ma foi, Madame Jourdain, je vous demande pardon.
 Je ne songeais pas que vous êtes jeune, et je rêve le plus souvent.
 Je vous prie d'excuser mon impertinence.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III06 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Voilà deux cents Louis bien comptés.
@@ -2012,7 +2012,7 @@ Il est de mon invention ; et pourvu que l'exécution puisse répondre à l'idé
 Ouais, vous êtes bien impertinente.
 Sortons, s'il vous plaît.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III07 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1671 *creator_moliere
 
 -*who_nicole
 Ma foi, Madame, la curiosité m'a coûté quelque chose ; mais je crois qu'il y a quelque anguille sous roche, et ils parlent de quelque affaire, où ils ne veulent pas que vous soyez.
@@ -2034,7 +2034,7 @@ Va-t'en lui parler de ma part, et lui dire que tout à l'heure il me vienne trou
 J'y cours, Madame, avec joie, et je ne pouvais recevoir une commission plus agréable.
 Je vais, je pense, bien réjouir les Gens.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III08 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1671 *creator_moliere
 
 -*who_nicole
 Ah vous voilà tout à propos.
@@ -2068,7 +2068,7 @@ Ouais !
 Quelle mouche les a piqués tous deux ?
 Allons de cette belle histoire informer ma Maîtresse.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III09 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III09 *act_III *date_1671 *creator_moliere
 
 -*who_cleonte
 Quoi, traiter un Amant de la sorte, et un Amant le plus fidèle, et le plus passionné de tous les Amants ?
@@ -2221,7 +2221,7 @@ Le moyen, si vous la trouvez si parfaite.
 C'est en quoi ma vengeance sera plus éclatante ; en quoi je veux faire mieux voir la force de mon cœur, à la haïr, à la quitter, toute belle, toute pleine d'attraits, toute aimable que je la trouve.
 La voici.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III10 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III10 *act_III *date_1671 *creator_moliere
 
 -*who_nicole
 Pour moi, j'en ai été toute scandalisée.
@@ -2530,7 +2530,7 @@ Ah, Lucile, qu'avec un mot de votre bouche vous savez apaiser de choses dans mon
 -*who_covielle
 Qu'on est aisément amadoué par ces diantres d'animaux-là !
 
-**** *book_moliere_bourgeois-gentilhomme *id_III11 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III11 *act_III *date_1671 *creator_moliere
 
 -*who_madame_jourdain
 Je suis bien aise de vous voir, Cléonte, et vous voilà tout à propos.
@@ -2540,7 +2540,7 @@ Mon Mari vient, prenez vite votre temps pour lui demander Lucile en mariage.
 Ah, Madame, que cette parole m'est douce, et qu'elle flatte mes désirs !
 Pouvais-je recevoir un ordre plus charmant ? une faveur plus précieuse ?
 
-**** *book_moliere_bourgeois-gentilhomme *id_III12 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III12 *act_III *date_1671 *creator_moliere
 
 -*who_cleonte
 Monsieur, je n'ai voulu prendre personne pour vous faire une demande que je médite il y a longtemps.
@@ -2631,7 +2631,7 @@ Ne me répliquez pas davantage, ma Fille sera Marquise en dépit de tout le mond
 Cléonte, ne perdez point courage encore.
 Suivez-moi, ma Fille, et venez dire résolument à votre Père, que si vous ne l'avez, vous ne voulez épouser personne.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III13 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III13 *act_III *date_1671 *creator_moliere
 
 -*who_covielle
 Vous avez fait de belles affaires, avec vos beaux sentiments.
@@ -2676,7 +2676,7 @@ Mais apprends-moi…
 -*who_covielle
 Je vais vous instruire de tout ; retirons-nous, le voilà qui revient.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III14 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III14 *act_III *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Que Diable est-ce là !
@@ -2689,7 +2689,7 @@ Monsieur, voici Monsieur le Comte, et une Dame qu'il mène par la main.
 Hé mon Dieu, j'ai quelques ordres à donner.
 Dis-leur que je vais venir ici tout à l'heure.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III15 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III15 *act_III *date_1671 *creator_moliere
 
 -*who_laquais1
 Monsieur dit comme cela, qu'il va venir ici tout à l'heure.
@@ -2735,7 +2735,7 @@ Je sais ce que je dis ; et entre autres le diamant que vous m'avez forcée à p
 -*who_dorante
 Eh, Madame, de grâce, ne faites point tant valoir une chose que mon amour trouve indigne de vous ; et souffrez… Voici le Maître du Logis.
 
-**** *book_moliere_bourgeois-gentilhomme *id_III16 *act_III *date_1671 *creator_moliere
+**** *book_ *id_III16 *act_III *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Un peu plus loin, Madame.
@@ -2820,7 +2820,7 @@ Tout est prêt, Monsieur.
 -*who_dorante
 Allons donc nous mettre à table, et qu'on fasse venir les Musiciens.
 
-**** *book_moliere_bourgeois-gentilhomme *id_IV01 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1671 *creator_moliere
 
 -*who_dorimene
 Comment, Dorante, voilà un Repas tout à fait magnifique !
@@ -2939,7 +2939,7 @@ Monsieur Jourdain est un Homme qui me ravit.
 -*who_monsieur_jourdain
 Si je pouvais ravir votre cœur, je serais…
 
-**** *book_moliere_bourgeois-gentilhomme *id_IV02 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1671 *creator_moliere
 
 -*who_madame_jourdain
 Ah, ah, je trouve ici bonne compagnie, et je vois bien qu'on ne m'y attendait pas.
@@ -2994,7 +2994,7 @@ Elle est arrivée là bien malheureusement.
 J'étais en humeur de dire de jolies choses, et jamais je ne m'étais senti tant d'esprit.
 Qu'est-ce que c'est que cela ?
 
-**** *book_moliere_bourgeois-gentilhomme *id_IV03 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1671 *creator_moliere
 
 -*who_covielle
 Monsieur, je ne sais pas si j'ai l'honneur d'être connu de vous.
@@ -3198,7 +3198,7 @@ Tout ce qui m'embarrasse ici, c'est que ma Fille est une opiniâtre, qui s'est a
 Elle changera de sentiment, quand elle verra le Fils du Grand Turc ; et puis il se rencontre ici une aventure merveilleuse, c'est que le Fils du Grand Turc ressemble à ce Cléonte, à peu de chose près.
 Je viens de le voir, on me l'a montré ; et l'amour qu'elle a pour l'un, pourra passer aisément à l'autre, et… Je l'entends venir ; le voilà.
 
-**** *book_moliere_bourgeois-gentilhomme *id_IV04 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1671 *creator_moliere
 
 -*who_cleonte
 Ambousahim oqui boraf, Iordina salamalequi.
@@ -3238,7 +3238,7 @@ Tant de choses en deux mots ?
 Oui, la Langue Turque est comme cela, elle dit beaucoup en peu de paroles.
 Allez vite où il souhaite.
 
-**** *book_moliere_bourgeois-gentilhomme *id_IV05 *act_IV *date_1671 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1671 *creator_moliere
 
 -*who_covielle
 Ha, ha, ha.
@@ -3341,7 +3341,7 @@ Bastonara bastonara.
 Non tener honta
 Questa star l'ultima affronta.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V01 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1671 *creator_moliere
 
 -*who_madame_jourdain
 Ah mon Dieu, miséricorde !
@@ -3441,7 +3441,7 @@ Courons l'empêcher de sortir.
 Ah, ah, voici justement le reste de notre écu.
 Je ne vois que chagrin de tous les côtés.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V02 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1671 *creator_moliere
 
 -*who_dorante
 Oui, Madame, vous verrez la plus plaisante chose qu'on puisse voir ; et je ne crois pas que dans tout le Monde il soit possible de trouver encore un homme aussi fou que celui-là : Et puis, Madame, il faut tâcher de servir l'amour de Cléonte, et d'appuyer toute sa Mascarade.
@@ -3473,7 +3473,7 @@ Il est entièrement à vous, aussi bien que mon cœur, et vous en userez de la f
 J'userai bien de tous les deux.
 Mais voici votre Homme ; la figure en est admirable.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V03 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1671 *creator_moliere
 
 -*who_dorante
 Monsieur, nous venons rendre hommage, Madame, et moi, à votre nouvelle dignité, et nous réjouir avec vous du mariage que vous faites de votre Fille avec le Fils du Grand Turc.
@@ -3506,7 +3506,7 @@ Nous voudrions bien, comme vos Amis, lui rendre nos devoirs.
 -*who_monsieur_jourdain
 Le voilà qui vient, et j'ai envoyé quérir ma Fille pour lui donner la main.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V04 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1671 *creator_moliere
 
 -*who_dorante
 Monsieur, nous venons faire la révérence à Votre Altesse, comme Amis de Monsieur votre Beau-Père, et l'assurer avec respect de nos très humbles services.
@@ -3543,7 +3543,7 @@ Je vous l'avais bien dit, qu'il parle Turc.
 -*who_dorante
 Cela est admirable.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V05 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1671 *creator_moliere
 
 -*who_monsieur_jourdain
 Venez, ma Fille, approchez-vous, et venez donner votre main à Monsieur, qui vous fait l'honneur de vous demander en mariage.
@@ -3583,7 +3583,7 @@ Il est vrai que vous êtes mon Père, je vous dois entière obéissance ; et c'
 -*who_monsieur_jourdain
 Ah je suis ravi de vous voir si promptement revenue dans votre devoir ; et voilà qui me plaît, d'avoir une Fille obéissante.
 
-**** *book_moliere_bourgeois-gentilhomme *id_V06 *act_V *date_1671 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1671 *creator_moliere
 
 -*who_madame_jourdain
 Comment donc, qu'est-ce que c'est que ceci ?
@@ -3778,7 +3778,7 @@ Je la donne au Truchement ; et ma Femme, à qui la voudra.
 Monsieur, je vous remercie.
 Si l'on en peut voir un plus fou, je l'irai dire à Rome.
 
-**** *book_moliere_bourgeois-gentilhomme *id_z *date_1671 *creator_moliere
+**** *book_ *id_z *date_1671 *creator_moliere
 
 Ballet
 

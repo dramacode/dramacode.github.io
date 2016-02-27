@@ -184,7 +184,7 @@ Dompte, dompte, Berger, l'ennui qui te possède.
 Eh le moyen, hélas !  
 
     MÉNANDRE
-Fais, fais-toi quelque effort.  
+        Fais, fais-toi quelque effort.  
 
     TIRCIS
 Eh, le moyen, hélas ! quand le mal est trop fort ?  
@@ -199,10 +199,10 @@ Je ne guérirai qu'à ma mort.
 Ah Tircis !  
 
     TIRCIS
-Ah Berger !  
+    Ah Berger !  
 
     LICASTE, ET MÉNANDRE
-Prends sur toi plus d'empire.  
+        Prends sur toi plus d'empire.  
 
     TIRCIS
 Rien ne me peut plus secourir.  
@@ -211,7 +211,7 @@ Rien ne me peut plus secourir.
 C'est trop, c'est trop céder.  
 
     TIRCIS
-C'est trop, c'est trop souffrir.  
+        C'est trop, c'est trop souffrir.  
 
     LICASTE, ET MÉNANDRE
 Quelle faiblesse !  
@@ -223,7 +223,7 @@ Quel martyre !
 Il faut prendre courage.  
 
     TIRCIS
-Il faut plutôt mourir.  
+        Il faut plutôt mourir.  
 
     LICASTE
 Il n'est point de Bergère  

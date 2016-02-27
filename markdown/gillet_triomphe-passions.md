@@ -1,5 +1,5 @@
 ---
-identifier: gillet-de-la-tessonerie_triomphe  
+identifier: gillet_triomphe-passions  
 creator: Gillet de La Tessonerie  
 date: 1642  
 title: Le Triomphe des cinq passions. Tragi-comédie.  
@@ -1122,7 +1122,7 @@ Et si mes passions m'ont causé de la peine,
 Elles m'ont sceu flatter  
 
     L’ENCHANTEUR.
-d'une esperance vaine.  
+        d'une esperance vaine.  
 Ouy, tu verras dans peu par mes divins ressorts,  
 Que tu suivois une ombre [145] au lieu de suivre un corps :  
 Mais je voy bien qu'il faut t'instruire par l'exemple;  
@@ -1143,10 +1143,10 @@ Mais ne l'interromps point, et restant tout à toy,
 Vois, escoute, et te tais [147],  
 
     ARTHEMIDORE.
-j'obeïray,  
+    j'obeïray,  
 
     L’ENCHANTEUR.
-suy moy.  
+        suy moy.  
 
 
 ### SCENE II.
@@ -1164,7 +1164,7 @@ Quoy ? tes discours sont vrais; quoy? mon fils est vainqueur,
 Ouy, Seigneur,  
 
     MANLIE.
-je devois mieux connoistre son coeur,  
+        je devois mieux connoistre son coeur,  
 Et sçachant quelle estoit [148] son ardeur et son age,  
 Je ne me devois pas fier à son courage;  
 
@@ -1172,7 +1172,7 @@ Je ne me devois pas fier à son courage;
 Ne vous affligez pas,  
 
     MANLIE.
-Arphace, laisse-moy,  
+        Arphace, laisse-moy,  
 Tu sçais bien que mon fils vient d'enfraindre la loy,  
 Et qu'en luy remettant [149] des soldats soubs sa garde,  
 Qu [150]'il n'est jamais permis qu'un gouverneur hazarde⁎,  
@@ -1191,11 +1191,11 @@ Mais s'il ne l'avoit fait, on l'auroit tenu lasche.
 Comment,  
 
     ARPHACE.
-quand le Senat vous eust mandé vers luy  
+        quand le Senat vous eust mandé vers luy  
 Pour recevoir un prix,  
 
     MANLIE.
-qui me pert aujourd'hui;  
+        qui me pert aujourd'hui;  
 
     ARPHACE.
 L'ennemy le sçachant raprocha nos murailles,  
@@ -1243,7 +1243,7 @@ Alors que ceux du peuple estoient considerables;
 Mais il l'a bien servy,  
 
     MANLIE.
-n'importe, il a failly,  
+        n'importe, il a failly,  
 Mais Dieux, de quel combat mon cœur est assailly,  
 Je le voy qui s'approche avec toute sa suite.  
 
@@ -1256,10 +1256,10 @@ MANLIE, LE FILS, ARPHACE, et leur suitte.
 Ah! Nature [156],  
 
     LE FILS.
-ah, mon pere!  
+    ah, mon pere!  
 
     MANLIE.
-hé bien fils sans conduite  
+        hé bien fils sans conduite  
 Tu viens peut-estre icy pour estre couronné;  
 Mais tu te doibs resoudre à t'y veoir condamné :  
 Ouy, la rigueur des loix me demande ta teste,  
@@ -1405,10 +1405,10 @@ Pour punir sa foiblesse et le perdre sans deuil,
 Toutefois,  
 
     LE FILS.
-ah, Seigneur,  
+    ah, Seigneur,  
 
     MANLIE.
-retire-toy de grace,  
+        retire-toy de grace,  
 
     LE FILS.
 Souffrez que je vous parle, et que je vous embrasse,  
@@ -1428,13 +1428,13 @@ Va donc, je ne sçaurois te souffrir davantage [169],
 Donne ta teste  
 
     LE FILS.
-à Dieu,  
+    à Dieu,  
 
 
 ### SCENE IV.
 
     MANLIE, *seul.*
-Monstre toy mon courage,  
+        Monstre toy mon courage,  
 C'est dedans [170] cest assaut qu'il faut vaincre ou perir,  
 Et c'est toy seul qui peux me perdre ou me guerir,  
 Employe en ma faveur l'artifice et les charmes,  
@@ -1499,7 +1499,7 @@ MANLIE, HARMENIE.
 Seigneur,  
 
     MANLIE.
-que voulez vous, relevez-vous de grace,  
+        que voulez vous, relevez-vous de grace,  
 
     HARMENIE.
 Mon devoir ne veut pas que je vous satisfasse,  
@@ -1511,14 +1511,14 @@ Je viens faire parler le sang et la justice,
 Levez vous,  
 
     HARMENIE.
-puis qu'il faut que je vous obeisse,  
+        puis qu'il faut que je vous obeisse,  
 Je le feray, Seigneur,  
 
     MANLIE.
-parlez,  
+    parlez,  
 
     HARMENIE.
-ces tristes pleurs  
+        ces tristes pleurs  
 Parleront mieux que moy de mes justes douleurs,  
 Et diront librement ce que je n'ose dire,  
 
@@ -1526,7 +1526,7 @@ Et diront librement ce que je n'ose dire,
 Parlez, ne faignez point,  
 
     HARMENIE.
-souffrez que je souspire,  
+        souffrez que je souspire,  
 Et que par ces sanglots qui m'estouffent la voix,  
 Je blasme seulement la rigueur de nos loix.  
 Quoy, Seigneur, se peut-il qu'une vertu farouche,  
@@ -1614,7 +1614,7 @@ Desgagez⁎ vostre fils des prisons de la mort,
 Envoyez promptement,  
 
     MANLIE.
-je le veux, que l'on aille.  
+        je le veux, que l'on aille.  
 
 
 ### SCENE VI.
@@ -1628,7 +1628,7 @@ Ah! Sire, c'est en vain qu'un remord vous travaille,
 Hé! quoy mon fils est mort,  
 
     IPSICRATE.
-ouy, Sire, c'en est fait,  
+        ouy, Sire, c'en est fait,  
 Le Senat est contant, le peuple satisfait,  
 Car ayant par honneur fait couronner sa teste,  
 Que pour estre tranchée il tenoit toute preste,  
@@ -1639,14 +1639,14 @@ A fait cheoir⁎ ce beau corps dedans [187] le monument⁎.
 Ha! maudit poinct d'honneur,  
 
     HARMENIE.
-il n'en peut plus, il tombe,  
+        il n'en peut plus, il tombe,  
 Soubs de si grands ennuis⁎ ma constance succombe,  
 
     ARPHACE.
 O malheur sans pareil!  
 
     IPSICRATE.
-ô spectacle nouveau,  
+        ô spectacle nouveau,  
 
     HARMENIE.
 Porte moy sur mon lit, et du lit au tombeau.  < Fin du premier Acte. >
@@ -1718,7 +1718,7 @@ Miracle des esprits et du siecle où nous sommes,
 C'est par trop [193] m'obliger,  
 
     L’ENCHANTEUR.
-je voudrois faire plus,  
+        je voudrois faire plus,  
 Mais sans nous amuser en discours superflus,  
 Viens veoir comme le fils veut attaquer le pere,  
 Le nepveu perdre l'oncle, et le frere son frere,  
@@ -1743,7 +1743,7 @@ Ny pas un officier que quand je le diré :
 Va, tu m'obligeras,  
 
     PHILOCTATE.
-je vous obeyré :  
+        je vous obeyré :  
 
     PHARASMANE, *seul.*
 Infame ambition, seul tyran de ma vie,  
@@ -1755,7 +1755,7 @@ Et je veux qu'aujourd'huy la raison m'en delivre,
 Mais je voy Philoctate! Hé bien,  
 
     PHILOCTATE.
-l'ordre est donné!  
+        l'ordre est donné!  
 
     PHARASMANE.
 Escoute donc parler un Prince infortuné,  
@@ -1766,7 +1766,7 @@ Tu sçais que je l'assiege, et qu'il attend ma grace !
 Ouy,  
 
     PHARASMANE.
-mais tu ne sçais pas que c'est l'ambition  
+        mais tu ne sçais pas que c'est l'ambition  
 Qui fait que j'ay commis cette infame action.  
 Sçache donc que mon fils voulant une couronne  
 La vouloit acheter par ma propre personne,  
@@ -1777,7 +1777,7 @@ M'alloit priver du jour⁎ si je ne l'eusse sceu,
 Ce discours me surprend,  
 
     PHARASMANE.
-escoute un peu le reste,  
+        escoute un peu le reste,  
 Voulant donc étouffer un dessein si funeste  
 Je fais tant par douceur qu'il se declare à moy,  
 Me disant toutefois qu'il vouloit estre Roy,  
@@ -1812,7 +1812,7 @@ Et ne souffriroient pas qu'il perit [197] aujourd'huy.
 Juge de mon malheur,  
 
     PHILOCTATE.
-je plains vostre disgrace;  
+        je plains vostre disgrace;  
 
     PHARASMANE.
 Mais j'apperçois quelqu'un, approchons de la place;  
@@ -1854,7 +1854,7 @@ Et deux cens magazins de bleds et de machisnes,
 Et des amas d'argent et des cœurs preparez  
 Vous cousteront du sang [198] plus que vous n'esperez.  
 
-    PARTHENIE. 
+    PARTHENIE.
 Ha ! Seigneur, terminez cette fatalle guerre :  
 Sauvez, et nostre honneur, et cette propre terre,  
 Et songez que le sang veut que vous protegiez  
@@ -1884,16 +1884,16 @@ Par ces beaux yeux moüillez par leur peine soufferte,
 Par l'honneur,  
 
     MITRIDATE.
-par l'amour,  
+    par l'amour,  
 
     PARTHENIE.
-par ces pleurs et par vous :  
+        par ces pleurs et par vous :  
 
     MITRIDATE.
 Protegez ma moitié,  
 
     PARTHENIE.
-conservez mon espoux,  
+        conservez mon espoux,  
 
     PHARASMANE.
 Madame, je voudrois qu'il fust en mon possible,  
@@ -1926,19 +1926,19 @@ Et garentiroient⁎ des maux où je vous voy,
 Mais cela ne se peut,  
 
     MITRIDATE.
-hé ! justes Dieux, pourquoy  
+        hé ! justes Dieux, pourquoy  
 Authorisastes-vous un siege illegitime,  
 Pourquoy l'aidastes vous,  
 
     PHARASMANE.
-il deguisa son crime,  
+        il deguisa son crime,  
 Et se pleignant à moy d'un mauvais traictement,  
 M'obligea d'en monstrer quelque recentiment⁎,  
 Et me persuada de venir en personne  
 Pour venger un affront,  
 
     MITRIDATE, *il s'en va tout en colere.*
-pour m'oster la Couronne ;  
+        pour m'oster la Couronne ;  
 Mais je ne me plains point de cette trahison,  
 Puisque dans peu les Dieux m'en feront la raison⁎.  
 
@@ -1946,10 +1946,10 @@ Puisque dans peu les Dieux m'en feront la raison⁎.
 Sire, le Prince attend,  
 
     PHARASMANE.
-où ?  
+    où ?  
 
     PHILOCTATE.
-dedans vostre tente,  
+        dedans vostre tente,  
 
     PHARASMANE.
 Qu'il entre et plaise aux Dieux que l'ingrat me contente :  
@@ -1967,7 +1967,7 @@ Et sans verser du sang ou veoir des funerailles :
 Oüy, Sire, il est à nous,  
 
     PHARASMANE.
-il est à nous, comment ? [201]  
+        il est à nous, comment ? [201]  
 
     RADAMISTE.
 Considerez, cest homme et ces clefs seulement,  
@@ -1976,7 +1976,7 @@ Considerez, cest homme et ces clefs seulement,
 Cest homme, quel [202] est-il ?  
 
     RADAMISTE.
-il fust à vostre frere,  
+        il fust à vostre frere,  
 Mais lassé de servir sans avoir de salaire,  
 Il promet de livrer la place en un moment  
 Si je veux l'honnorer de son gouvernement⁎ :  
@@ -1985,7 +1985,7 @@ Si je veux l'honnorer de son gouvernement⁎ :
 Qu'avez-vous resolu⁎ ?  
 
     RADAMISTE.
-de le bien reconnoistre⁎.  
+        de le bien reconnoistre⁎.  
 
     PHARASMANE.
 Mon fils, c'est trop donner aux services d'un traistre :  
@@ -2002,7 +2002,7 @@ Qu'il abonde⁎ en son sens, et se cache de moy;
 Mais souffrez qu'aujourd'huy,  
 
     RADAMISTE.
-je souffriré tout, Sire,  
+        je souffriré tout, Sire,  
 Quand vous adhererez à ce que je desire,  
 Et lors que vous voudrez ce que j'auray voulu  
 Aussi bien ce dessein est un point resolu,  
@@ -2017,11 +2017,11 @@ Le Laurier sur sa teste, et le Sceptre à la main,
 Et n'importe, qu'apres,  
 
     PHILON.
-Seigneur, que vostre Altesse  
+        Seigneur, que vostre Altesse  
 Ne craigne rien de moy,  
 
     PHARASMANE.
-quoy donc ame traitresse,  
+        quoy donc ame traitresse,  
 Ozes-tu dementir les discours que je tiens,  
 Ozes-tu devant moy corrompre ainsi les miens,  
 Ozes-tu te vanter du coup que tu vas faire,  
@@ -2042,10 +2042,10 @@ Vous parlez en jeune homme, et l'ardeur vous transporte,
 Je parle comme il faut,  
 
     PHARASMANE.
-vous m'offencez,  
+    vous m'offencez,  
 
     RADAMISTE.
-n'importe,  
+        n'importe,  
 Je sçais que je vous dois le respect et l'honneur,  
 Mais vous ne devez pas empescher mon bon-heur,  
 
@@ -2053,12 +2053,12 @@ Mais vous ne devez pas empescher mon bon-heur,
 Vous vous mesconnoissez⁎,  
 
     RADAMISTE.
-si cela pouvoit estre,  
+        si cela pouvoit estre,  
 Je me mesconnoistrois⁎ pour vous trop bien cognoistre [206],  
 Je ne le celle⁎ point,  
 
     PHARASMANE.
-insolent, souviens-toy  
+        insolent, souviens-toy  
 Que tu n'es que mon fils et que je suis ton Roy :  
 
     RADAMISTE.
@@ -2097,7 +2097,7 @@ Et tu ne respons rien n'ayant rien à respondre :
 Dis qui t'a faict si grand,  
 
     RADAMISTE.
-c'est mon ambition :  
+        c'est mon ambition :  
 
     PHARASMANE.
 Va, lasche, dis plustost mon indiscretion⁎,  
@@ -2156,7 +2156,7 @@ RADAMISTE, ORCAS.
 He bien !  
 
     ORCAS.
-Sire, vos gens sont entrez dans la ville,  
+        Sire, vos gens sont entrez dans la ville,  
 Dont Philon a rendu la conqueste facile;  
 Mais le Roy s'est sauvé dans l'une de ses tours,  
 Qui peut tenir encor plus de cinq ou six jours,  
@@ -2168,7 +2168,7 @@ En les gardant⁎ tous deux de fer et de poison,
 Que pretendent-ils donc,  
 
     ORCAS.
-l'exil ou la prison,  
+        l'exil ou la prison,  
 
     RADAMISTE.
 Hé bien ! va leur promettre, et sur cette asseurance  
@@ -2192,7 +2192,7 @@ Que l'un de tes soldats les estouffe tous deux !
 Cruel commandement, Sire,  
 
     RADAMISTE. 
-point de replique.  
+        point de replique.  
 
 
 ### SCENE VII.
@@ -2238,7 +2238,7 @@ Sire, je venois dire à vostre Majesté,
 Qu'Orcas,  
 
     RADAMISTE.
-hé bien ! mon ordre est-il executé ?  
+        hé bien ! mon ordre est-il executé ?  
 
     LE PAGE.
 Sire, dans un moment je croy qu'il le doit estre,  
@@ -2438,7 +2438,7 @@ ANTIOQUE, PERICLES.
 He bien ! que me veux-tu,  
 
     PERICLES.
-Seigneur, c'est Stratonice,  
+        Seigneur, c'est Stratonice,  
 Qui par un Page exprés vient d'envoyer sçavoir  
 Si vous vous portez mieux, et si l'on peut vous voir,  
 
@@ -2449,14 +2449,14 @@ Ignore-t'elle un mal dont elle fut la cause [222],
 Que dira-t'on Seigneur,  
 
     ANTIOQUE, *apres avoir resvé quelque temps.*
-dis luy que je repose,  
+        dis luy que je repose,  
 Que mon mal est plus grand qu'il n'a jamais esté,  
 
      PERICLES, *en s'en allant.*
 Bien, Seigneur,  
 
     ANTIOQUE.
-non, reviens, dis-luy la verité,  
+        non, reviens, dis-luy la verité,  
 Ne dissimule rien, mais ô Dieux ! je m'abuse,  
 Non, je ne la puis voir, dis luy qu'elle m'excuse;  
 Cours, r'approche, va-t'en, demeure, n'en fais rien,  
@@ -2560,14 +2560,14 @@ Me fait tomber pasmé dessus ses belles mains :
 Monsieur,  
 
     ANTIOQUE.
-ne craignez rien,  
+    ne craignez rien,  
 
     STRATONICE.
-c'est pour vous que je crains,  
+        c'est pour vous que je crains,  
 J'ay peur que vostre mal,  
 
     ANTIOQUE.
-ne craignez rien, Madame,  
+        ne craignez rien, Madame,  
 Et souffrez que j'acheve à vous ouvrir mon ame;  
 J'estois donc assoupy quand ce jeune soleil  
 Resveilla mes esprits par un art sans pareil,  
@@ -2600,14 +2600,14 @@ Ou bien que vous soyez cette personne aimee,
 Qu'auriez vous fait ?  
 
     STRATONICE.
-et vous ?  
+    et vous ?  
 
     ANTIOQUE.
-recherché mon bon-heur,  
+        recherché mon bon-heur,  
 J'aurois suivy l'amour,  
 
     STRATONICE.
-j'aurois suivy l'honneur,  
+        j'aurois suivy l'honneur,  
 Et ne distinguant point l'effet⁎ de la pensee,  
 J'aurois esteint sans doute une flâme⁎ incensee⁎,  
 
@@ -2615,13 +2615,13 @@ J'aurois esteint sans doute une flâme⁎ incensee⁎,
 Encor par quel moyen ?  
 
     SRATONICE, *en s'en allant.*
-par mon esloignement,  
+        par mon esloignement,  
 
     ANTIOQUE.
 Quoy, vivre sans pitié ?  
 
     STRATONICE.
-quoy, souffrir un amant⁎ ?  
+        quoy, souffrir un amant⁎ ?  
 
     ANTIOQUE.
 L'on peut bien estre aimee alors que l'on est belle,  
@@ -2632,14 +2632,14 @@ Et si quelqu'un manioit aux despens de ma foy⁎,
 Je voudrois le punir,  
 
     ANTIOQUE.
-hé bien ! punissez-moy,  
+        hé bien ! punissez-moy,  
 Je suis ce malheureux ou plustost ce coupable.  
 
     STRATONICE, *en s'en allant.*
 Ah ! Monsieur,  
 
     ANTIOQUE.
-demeurez, il n'est pas veritable !  
+        demeurez, il n'est pas veritable !  
 Non, non, ce n'est qu'un songe, et je veux desormais,  
 Puisque vous le voulez, [228] songe, à ce que tu fais  
 Tu ne sçaurois trouver d'occasion meilleure,  
@@ -2647,7 +2647,7 @@ Sçache si je dois vivre ou s'il faut que je meure,
 Mon cœur, explique-toy,  
 
     STRATONICE.
-Monsieur, vous palissez,  
+        Monsieur, vous palissez,  
 
     ANTIOQUE.
 Il me faut bien paslir puisque vous rougissez,  
@@ -2659,11 +2659,11 @@ Car enfin je vous aime et vous connoissez bien.
 Adieu, n'achevez point,  
 
     ANTIOQUE.
-Madame, il n'en est rien :  
+        Madame, il n'en est rien :  
 Demeurez,  
 
     STRATONICE.
-demeurer apres un tel langage.  
+        demeurer apres un tel langage.  
 
     ANTIOQUE.
 Hé bien ! je ne veux plus vous tenir davantage [229],  
@@ -2672,7 +2672,7 @@ Je resve, et mon amour va jusqu'au dernier poinct,
 Demeurez,  
 
     STRATONICE.
-Esteignez ces ardeurs indiscrettes⁎,  
+        Esteignez ces ardeurs indiscrettes⁎,  
 Souffrez que la raison vous dise qui vous estes,  
 Et vous apprenne encor pour finir vos ennuis⁎,  
 Et le rang que je tiens, et ce que je vous suis;  
@@ -2763,7 +2763,7 @@ ANTIOQUE, EROSTRATE, PERICLES.
 Monsieur, je crois qu'il dort,  
 
     EROSTRATE.
-gardez qu'on ne l'esveille.  
+        gardez qu'on ne l'esveille.  
 
     ANTIOQUE.
 O tourment sans remede ! ô rigueur sans pareille !  
@@ -2772,29 +2772,29 @@ O tourment sans remede ! ô rigueur sans pareille !
 Il resve, approchons nous,  
 
     ANTIOQUE.
-ah ! desirs superflus,  
+        ah ! desirs superflus,  
 
     EROSTRATE.
 Nous apprendrons son mal,  
 
     ANTIOQUE.
-non, non, n'esperons plus,  
+        non, non, n'esperons plus,  
 Il faut mourir,  
 
     PERICLES.
-Monsieur, il ne dort pas sans doute,  
+        Monsieur, il ne dort pas sans doute,  
 Il se plaint seulement,  
 
     ANTIOQUE.
-approchez, qui m'escoute,  
+        approchez, qui m'escoute,  
 Erostrate, est-ce vous ?  
 
     EROSTRATE.
-Seigneur, sa Majesté  
+        Seigneur, sa Majesté  
 M'envoyait informer,  
 
     ANTIOQUE.
-de quoy, de ma santé ?  
+        de quoy, de ma santé ?  
 
     EROSTRATE.
 Oüy, Seigneur, mais ô Dieux j'observe dans sa veuë,  
@@ -2804,13 +2804,13 @@ Le trouble de ses sens. Vous avez l'ame esmeuë ?
 Il est vray,  
 
     EROSTRATE.
-quels objets avez vous veu ce jour ?  
+        quels objets avez vous veu ce jour ?  
 
     ANTIOQUE, *bas.*
 Sans doute il sçait mon mal,  
 
     EROSTRATE, *bas.*
-sans doute c'est l'amour,  
+        sans doute c'est l'amour,  
 Et je viens maintenant de veoir sortir la Reyne,  
 Feignons bien, mais Seigneur, tirez moy donc de peine,  
 Stratonice, [235] a ce mot le poux luy bat plus fort,  
@@ -2851,7 +2851,7 @@ Seigneur, j'ay remarqué que quand vous l'auriés veuë [239],
 Vostre poux,  
 
     ANTIOQUE.
-c'est assés, ta fourbe m'est connuë,  
+        c'est assés, ta fourbe m'est connuë,  
 Va-t'en, retire-toy, tu n'es pas assez fin,  
 Je te tiens⁎ Courtisant et mauvais Medecin,  
 Ne me parle jamais avec tant de licence⁎,  
@@ -2866,7 +2866,7 @@ Ne te monstre jamais,
 ### SCENE VII.
 
     ANTIOQUE, *seul.*
-Il voulait feindre en vain,  
+        Il voulait feindre en vain,  
 Et j'ay bien reconnu quel estoit son dessein,  
 Mais Dieux, mon pere sçait que j'aime Stratonice :  
 Ah ! destins, il est temps que ma flâme⁎ perisse,  
@@ -2959,7 +2959,7 @@ En recevant du Ciel un juste chastiment :
 Entrons,  
 
     ARTHEMIDORE.
-que de profit et de contentement⁎.  
+        que de profit et de contentement⁎.  
 
 
 ### SCENE II.
@@ -3066,17 +3066,17 @@ EMILIE, MEGISTE chasseur.
 
 
     MEGISTE, *en luy presentant son corps* [254].
-c'est ce qu'enfin j'en ai pû reconnoistre,  
+        c'est ce qu'enfin j'en ai pû reconnoistre,  
 
     EMILIE.
 Tout est gros et noüé, mais as-tu bien pû veoir,  
 Quelle ramure il porte,  
 
     MEGISTE.
-oüy,  
+    oüy,  
 
     EMILIE.
-fais le moy sçavoir,  
+        fais le moy sçavoir,  
 
     MEGISTE.
 Il est bien cerf dix corps, sa teste est bien paumee [255],  
@@ -3094,7 +3094,7 @@ Au travers ce feüillage, et je l'ay veu mouvoir :
 Tirez,  
 
     EMILIE.
-ne parle point, c'est quelque belle proye,  
+        ne parle point, c'est quelque belle proye,  
 Et je la tiens à moy, pourveu que je la voye,  
 Je ne sçaurois encor discerner ce que c'est,  
 Je vay tirer pourtant puis que mon arc est prest,  
@@ -3106,7 +3106,7 @@ EMILIE, MARTIANE, ALPHEE, PHALANTE, MEGISTE.
 
 
     MARTIANE, *sortant du bocage.*
-ah ! miserable,  
+        ah ! miserable,  
 
     EMILIE.
 De qui vient cette voix, et ce cry lamentable,  
@@ -3115,24 +3115,24 @@ De qui vient cette voix, et ce cry lamentable,
 Monsieur, qu'avez vous fait,  
 
     EMILIE.
-que voy-je justes Dieux :  
+        que voy-je justes Dieux :  
 Las⁎ ! je viens de blesser ce que j'aymois le mieux,  
 Madame,  
 
     MARTIANE.
-laisse-moy, ne parle point,  
+    laisse-moy, ne parle point,  
 
     EMILIE.
-Madame,  
+        Madame,  
 
     MARTIANE.
 Ma heine,  
 
     EMILIE.
-mon amour, divin objet⁎  
+    mon amour, divin objet⁎  
 
     MARTIANE.
-infame,  
+        infame,  
 Te ressouviens-tu bien que tu parles à moy,  
 Va, rappelle tes sens, connois-moy, connois-toy,  
 Mon visage n'a pas l'esclat que tu demandes  
@@ -3153,10 +3153,10 @@ Pour la porter dessus de peur de l'esbranler :
 Ingrat⁎,  
 
     EMILIE.
-ne parle point,  
+    ne parle point,  
 
     MARTIANE.
-non, non, je veux parler,  
+        non, non, je veux parler,  
 Permets en cet estat que rien ne me contraigne,  
 Et m'ayant fait des maux souffre que je m'en plaigne;  
 
@@ -3164,7 +3164,7 @@ Et m'ayant fait des maux souffre que je m'en plaigne;
 Vous aigrirez⁎ vos maux,  
 
     MARTIANE.
-je les veux bien aigrir⁎,  
+        je les veux bien aigrir⁎,  
 Puisque j'espere en eux les moyens de mourir.  
 Quoy, n'avois-tu permis nostre sainct himenee⁎,  
 Que pour m'oster la foy⁎ que tu m'avois donnee,  
@@ -3366,13 +3366,13 @@ Justes Dieux, ce discours⁎ augmente mon martire⁎ :
 Vivez,  
 
     MARTIANE.
-conservez-vous,  
+    conservez-vous,  
 
     EMILIE.
-ah ! je meurs,  
+    ah ! je meurs,  
 
     MARTIANE.
-ah ! j'expire.  
+        ah ! j'expire.  
 
     PHALANTE.
 Monsieur, vostre brancart est à trois pas d'icy,  
@@ -3477,7 +3477,7 @@ BISATHIE, FELISMENE.
 
 
     BISATHIE.
-Hé bien le verrons-nous,  
+        Hé bien le verrons-nous,  
 
     FELISMENE.
 Madame, je venois pour l'apprendre de vous,  
@@ -3536,7 +3536,7 @@ Madame, on dit là bas que Philidan arrive,
 Il arrive, quoy ! seul ?  
 
     LE PAGE.
-Madame, on n'en sçait rien :  
+        Madame, on n'en sçait rien :  
 
     BISATHIE.
 Va le sçavoir, j'attens ou mon mal, ou mon bien,  
@@ -3673,19 +3673,19 @@ Je n'eusse jamais cru ce que j'ay veu de toy :
 Ozas-tu me tromper ?  
 
     CALPURNIE.
-Dieux, le pouvez-vous croire,  
+        Dieux, le pouvez-vous croire,  
 J'aurois esté Madame, ennemy de ma gloire⁎,  
 Mais oyez mes raisons,  
 
     BISATHIE.
-as-tu quelque raison  
+        as-tu quelque raison  
 Qui te puisse excuser de cette trahison ?  
 
     CALPURNIE.
 Oüy, Madame,  
 
     BISATHIE.
-affronteur⁎, cela ne sçauroit estre,  
+        affronteur⁎, cela ne sçauroit estre,  
 Et tu ne peux nier que tu ne sois un traistre.  
 
     CALPURNIE.
@@ -3702,13 +3702,13 @@ Que vous vous abusez dedans ce sentiment,
 Vous aviez ma parole,  
 
     BISATHIE.
-avois-tu pas la mienne,  
+        avois-tu pas la mienne,  
 
     CALPURNIE.
 Gardez-la ma Princesse,  
 
     BISATHIE.
-as-tu gardé la tienne ?  
+        as-tu gardé la tienne ?  
 
     CALPURNIE.
 Si j'ay fuy ce n'estoit qu'afin de revenir,  
@@ -3726,7 +3726,7 @@ Elles parlent tousjours de ton ingratitude :
 Dieux ! que vois-je, qu'entens-je !  
 
     BISATHIE.
-un trait de mon pouvoir,  
+        un trait de mon pouvoir,  
 Quand tu te departis d'amour et du devoir,  
 Tu ne croyois jamais ny me veoir ny m'entendre,  
 Et c'estoit le seul fruict que je debvois attendre  
@@ -3741,14 +3741,14 @@ Et retably ma gloire⁎ à ta confusion⁎,
 Madame,  
 
     BISATHIE.
-Va, perfide, ailleurs qu'en ma presence  
+        Va, perfide, ailleurs qu'en ma presence  
 Protester de ma haine et de ton innocence :  
 
     CALPURNIE.
 Mais, Madame,  
 
     BISATHIE.
-perfide, oste-toy de mes yeux,  
+        perfide, oste-toy de mes yeux,  
 Ton crime est detesté des hommes et des Dieux.  
 
 
@@ -3760,7 +3760,7 @@ LE ROY, un CAPITAINE DES GARDES, BISATHIE, CALPURNIE, PHILIDAN, FELISMENE.
 Voicy le Roy, Madame,  
 
     CALPURNIE.
-ah ! Princesse inhumaine,  
+        ah ! Princesse inhumaine,  
 Voulez-vous tousjours croire à vostre injuste haine,  
 Prenez un fer, Madame, et vengez-vous de moy,  
 Plustost que de me mettre entre les mains du Roy,  
@@ -3772,7 +3772,7 @@ Infidelle, ta mort seroit trop glorieuse :
 Ah ! que j'ay du malheur !  
 
     BISATHIE.
-ah ! que je suis heureuse !  
+        ah ! que je suis heureuse !  
 Sire, un sujet rebelle eschappé de vos mains  
 Le plus lasche qui vive entre tous les humains,  
 Que le pouvoir d'un Dieu dont la force est extresme  
@@ -3790,7 +3790,7 @@ Le juste chastiment de sa temerité :
 Sire, voyla ce traistre,  
 
     LE ROY.
-ostez le de ma veuë,  
+        ostez le de ma veuë,  
 On a fait son procez, je veux qu'on l'effectuë⁎ :  
 Il n'est point de besoin de le mettre en prison;  
 
@@ -3832,10 +3832,10 @@ Madame, auray-je enfin le bon-heur que j'espere :
 Que veux-tu,  
 
     PHILIDAN.
-vostre amour,  
+    vostre amour,  
 
     BISATHIE.
-laisse agir ma colere,  
+        laisse agir ma colere,  
 Et dedans le mal-heur qui menace mes jours,  
 Ne m'importune plus, et change de discours⁎,  
 
@@ -3843,13 +3843,13 @@ Ne m'importune plus, et change de discours⁎,
 Mais vous m'avez promis,  
 
     BISATHIE.
-que pouvois-je promettre,  
+        que pouvois-je promettre,  
 
     PHILIDAN.
 Tout,  
 
     BISATHIE.
-je le tiendray donc, mais laisse-moy remettre,  
+        je le tiendray donc, mais laisse-moy remettre,  
 
     PHILIDAN.
 J'obeis,  
@@ -3860,14 +3860,14 @@ BISATHIE, FELISMENE.
 
 
     BISATHIE.
-Il s'en va ce miserable amant⁎  
+        Il s'en va ce miserable amant⁎  
 Dessuz un eschaffaut mourir honteusement,  
 
     FELISMENE.
 N'y songez plus, Madame,  
 
     BISATHIE.
-ah ! je suis enragée,  
+        ah ! je suis enragée,  
 En le deshonnorant je me suis outragée,  
 L'arrest⁎ dont la rigueur le condamne à mourir  
 M'oste l'espoir de vivre et de le secourir,  
@@ -3892,7 +3892,7 @@ BISATHIE, FELISMENE, LE PAGE.
 Madame, le rebelle,  
 
     BISATHIE.
-ô Dieux ! c'est fait de moy :  
+        ô Dieux ! c'est fait de moy :  
 
     LE PAGE.
 En sortant du Palais pour aller au suplice  
@@ -3902,12 +3902,12 @@ D'une derniere grace a prié la justice :
 De quoy,  
 
     LE PAGE.
-de vous escrire, et voyla son escrit,  
+        de vous escrire, et voyla son escrit,  
 
     BISATHIE.
 Donne,  
 LETTRE. [270]
-Par vos rigueurs, je vay rendre l'esprit⁎;  
+        Par vos rigueurs, je vay rendre l'esprit⁎;  
 Mais puis qu'elle vous plaist, ma mort est legitime,  
 Je jure qu'en amour je n'ay point fait de crime  
 Qui vaille un repentir,  
@@ -3929,7 +3929,7 @@ Madame, vous feriez un inutille effort,
 Tout le monde dira,  
 
     BISATHIE.
-tout ce qu'il voudra dire,  
+        tout ce qu'il voudra dire,  
 Mais il ne dira point l'excez de mon martire⁎,  
 L'ennuy⁎ dont sa disgrace afflige mes esprits  
 A moins d'estre senty ne peut estre compris;  

@@ -1,10 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1674 *creator_brecourt
-
-L'OMBRE DE MOLIERE.
-
-COMEDIE.
+**** *book_ *id_dedicace *date_1674 *creator_brecourt
 
 À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN.
 
@@ -23,7 +19,7 @@ Le tres-humble et tres-obeïssant Serviteur,
 
 BRECOURT.
 
-**** *book_ *id_body-2 *date_1674 *creator_brecourt
+**** *book_ *id_body-3 *date_1674 *creator_brecourt
 
 -*who_oronte
 Point, vous dis-je ; C'est une raillerie qu'on vous a faite de moy.
@@ -116,7 +112,7 @@ Allez, Oronte, quelque chose que ce soit, le seul sentiment qui vous l'a fait en
 Ne me faites pas rougir davantage, Cleante ; et venez seulement donner vostre avis sur nostre Repétition.
 Fin du prologue.
 
-**** *book_ *id_body-3-1 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-401 *act_ *date_1674 *creator_brecourt
 
 -*who_ombre
 Donne, donne-moy ce Balay.
@@ -184,7 +180,7 @@ A qui en a Caron aussy, de tourmenter incessamment ce pauvre Génie ?
 -*who_ombre
 Il faut bien qu'il luy ait fait quelque chose.
 
-**** *book_ *id_body-3-2 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-402 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Que font là ces Coquins ?
@@ -264,7 +260,7 @@ Ah, le Bourreau !
 Tu ne sortiras pas ?
 Allons, Balayeurs, faites vostre charge ; Voicy Pluton ; et cet animal n'a que faire icy.
 
-**** *book_ *id_body-3-3 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-403 *act_ *date_1674 *creator_brecourt
 
 -*who_pluton
 Ça, il est donc question de rendre justice aujourd'huy.
@@ -319,7 +315,7 @@ Où sont les Complaignans ?
 -*who_minos
 L'Envie les doit conduire icy.
 
-**** *book_ *id_body-3-4 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-404 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Je n'y puis plus tenir ; Jamais il ne s'est veu tant d'Ombres en un jour ; et la Porte va rompre si vous n'y donnez ordre.
@@ -359,7 +355,7 @@ Fais-les entrer selon le rang qu'ils auront à la Porte.
 Radamante, prens le Rôle pour écrire le nom des Complaignans.
 Çà, qui est celle-cy ?
 
-**** *book_ *id_body-3-5 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-405 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Vous l'allez reconnoître à son langage.
@@ -424,7 +420,7 @@ Hé bien, que quelqu'autre entre donc, on jugera tout ensemble.
 -*who_caron
 Allons, que le plus proche de la Porte vienne.
 
-**** *book_ *id_body-3-6 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-406 *act_ *date_1674 *creator_brecourt
 
 -*who_pluton
 Ça, qui est celuy-cy ?
@@ -487,7 +483,7 @@ L'Ombre d'un Cocu ?
 Il faut que ce soit un furieux Corps !
 Parle, que veux-tu ?
 
-**** *book_ *id_body-3-7 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-407 *act_ *date_1674 *creator_brecourt
 
 -*who_cocu
 Vous voyez en ma seule Ombre tout le Corps des Cocus ; Vous les voyez icy en moy, dis-je, affligez, outragez, et tout contrits des affronts publics que ce grand Corps a reçeus depuis que malicieusement cet Ennemy juré de nostre repos nous a rendus le joüet de tout le monde.
@@ -513,7 +509,7 @@ Allez, on va vous écrire.
 Qu'est-ce ?
 Qu'y a-t-il de nouveau ?
 
-**** *book_ *id_body-3-8 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-408 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Je ne sçay d'où nous est venuë encore une plaisante espece d'Ombre : Mais je croy, si l'on pouvoit trépasser deux fois, qu'elle feroit mourir de rire tous les Morts d'icy-bas.
@@ -537,7 +533,7 @@ N'importe, fais-la entrer, il faut entendre tout le monde.
 -*who_caron
 Allons, la Rieuse, entrez.
 
-**** *book_ *id_body-3-9 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-409 *act_ *date_1674 *creator_brecourt
 
 -*who_moliere
 Ah ! c'est Nicole.
@@ -617,7 +613,7 @@ Hé bien, qu'il entre.
 Ah quelle peine !
 Ne sera-ce jamais fait ?
 
-**** *book_ *id_body-3-10 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-410 *act_ *date_1674 *creator_brecourt
 
 -*who_pourceaugnac
 Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d'hon- neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu'ils recevront.
@@ -685,7 +681,7 @@ Adieu, Monsieur de Pourceaugnac.
 -*who_pluton
 Messieurs, il est tard, et je vay lever le Siege.
 
-**** *book_ *id_body-3-11 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-411 *act_ *date_1674 *creator_brecourt
 
 -*who_mme_jourdain
 Justice, justice, justice, justice, justice.
@@ -760,7 +756,7 @@ Seray-je toûjours troublé, persecuté, accablé d'affaires ?
 Hé, quelle misere est-ce-cy ?
 A-t-on jamais veu un Dieu plus fatigué que moy ?
 
-**** *book_ *id_body-3-12 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-412 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Grand Roy…
@@ -804,7 +800,7 @@ D'honnestes Gens, à qui je doy trop pour leur rien refuser.
 Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance.
 Mais les voicy.
 
-**** *book_ *id_body-3-13 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-413 *act_ *date_1674 *creator_brecourt
 
 -*who_moliere
 Ha, voicy de mes Gens.
@@ -916,7 +912,7 @@ Cela est bon, dit le Medecin.
 Trois heures en suite, il luy vint demander comment il s'estoit porté depuis.
 J'ay senti, dit le Patient, un froid extréme, et j'ay fort tremblé.
 Cela est bon, suivit le Charlatan.
-Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit .
+Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit.
 Je me sens, dit le Malade, enfler par tout, comme d'hydropisie.
 Tout cela est bien, répondit le Bourreau.
 Le lendemain j'allay voir ce pauvre Malade ; et luy ayant demandé en quel état il estoit : Helas ! mon cher Amy, dit-il, en rendant le dernier soûpir, à force d'estre bien, je sens que je me meurs.
@@ -930,7 +926,7 @@ Messieurs ?
 -*who_moliere
 Qu'ils se plaignent maintenant de moy, et que ton équité, Grand Monarque, paroisse dans tes Jugemens.
 
-**** *book_ *id_body-3-14 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_body-414 *act_ *date_1674 *creator_brecourt
 
 -*who_caron
 Oh ! je n'y puis plus tenir.
@@ -1005,7 +1001,7 @@ Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy
 Bon-soir.
 FIN.
 
-**** *book_ *id_body-4 *date_1674 *creator_brecourt
+**** *book_ *id_body-5 *date_1674 *creator_brecourt
 
 EXTRAIT DU PRIVILÈGE DU ROY
 

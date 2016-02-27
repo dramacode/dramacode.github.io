@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-2-1 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-201 *act_ *date_1738 *creator_biancolelli
 
 -*who_philonoe
 Air 85.
@@ -78,7 +78,7 @@ Avec ce gaillard la victoire
 N'a pas le tems de respirer.
 Voilà ce qui s'appelle une gasconade Lyrique.
 
-**** *book_ *id_body-2-2 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-202 *act_ *date_1738 *creator_biancolelli
 
 -*who_bellerophon
 Ah vous voilà, Princesse ? que je suis content !
@@ -135,7 +135,7 @@ Mon devoir m'appelle auprès de mon pere ; voici la Reine qui vient, je vous la
 -*who_bellerophon
 Que diable vient-elle faire ici ? je m'en vais lui dire que je n'y suis pas.
 
-**** *book_ *id_body-2-3 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-203 *act_ *date_1738 *creator_biancolelli
 
 -*who_stenobee
 Air 35.
@@ -189,7 +189,7 @@ Arrête, cruel.
 Air 269.
 Vous y perdez vos pas, Nicolas.
 
-**** *book_ *id_body-2-4 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-204 *act_ *date_1738 *creator_biancolelli
 
 -*who_stenobee
 Air 29.
@@ -202,7 +202,7 @@ L'amour trop heureux s'affoiblit,
 Et l'amour malheureux s'augmente.
 Mais voici Amisodar qui vient fort à propos.
 
-**** *book_ *id_body-2-5 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-205 *act_ *date_1738 *creator_biancolelli
 
 -*who_stenobee
 Air 310.
@@ -277,7 +277,7 @@ Le monstre sorte, le monstre sorte.
 Madame, éloignez-vous
 Je vais servir votre courroux.
 
-**** *book_ *id_body-2-6 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-206 *act_ *date_1738 *creator_biancolelli
 
 -*who_amisodar
 Que ce Jardin se change en un Sabat affreux.
@@ -290,7 +290,7 @@ Joignez à mon Art vos noirs misteres,
 Et surtout mettez de la partie
 Les Diables de basse Normandie.
 
-**** *book_ *id_body-2-7 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-207 *act_ *date_1738 *creator_biancolelli
 
 -*who_sorciers
 Parle, nous voilà prêts, tout nous sera possible.
@@ -371,7 +371,7 @@ Si de leur essence subtile,
 Je puis ne faire qu'un venin,
 Tout antidote est inutile.
 
-**** *book_ *id_body-2-8 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-208 *act_ *date_1738 *creator_biancolelli
 
 -*who_le_roi
 Air 96.
@@ -400,7 +400,7 @@ Son bras invincible
 L'aura bien-tôt abbatu,
 Lanturlu lanturlu lanturlu.
 
-**** *book_ *id_body-2-9 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-209 *act_ *date_1738 *creator_biancolelli
 
 -*who_bellerophon
 Ah !
@@ -446,7 +446,7 @@ Si j'en pouvois venir à bout,
 On écriroit mon avanture
 Dans la Gazette & le Mercure
 
-**** *book_ *id_body-2-10 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-210 *act_ *date_1738 *creator_biancolelli
 
 -*who_philonoe
 Air 14.
@@ -476,7 +476,7 @@ L'affaire seroit faite.
 -*who_le_roi
 Le Temple s'ouvre, entrons.
 
-**** *book_ *id_body-2-11 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-211 *act_ *date_1738 *creator_biancolelli
 
 -*who_peuple
 Air 97.
@@ -630,7 +630,7 @@ De séparer deux cœurs fidéles ?
 Ma foi malgré le destin
 Nous irons toûjours notre train. bis.
 
-**** *book_ *id_body-2-12 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-212 *act_ *date_1738 *creator_biancolelli
 
 -*who_voix_derriere_theatre
 Garre le Monstre, fuyons, fuyons.
@@ -645,7 +645,7 @@ Il vous mangera, ma Mere,
 Et moi itou,
 Et moi itou.
 
-**** *book_ *id_body-2-13 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-213 *act_ *date_1738 *creator_biancolelli
 
 -*who_bellerophon
 Ah ! nous sommes perdus ! le Monstre s'avance, quelle fumée, s'il me rencontre je suis gobé… mais cependant laisserai-je périr la Princesse ? cela ne seroit pas honnête… Allons Bellerophon animo, courage… courage ? c'est bien dit, mais tout franc, je n'en ai guere… il faut pourtant faire comme si j'en avois, car c'est ici le plus interessant de la piece : après tout, sans ma petite Fanchon que m'importe de vivre ?
@@ -659,7 +659,7 @@ Sûr de perir, bis.
 Quand on a perdu ce qu'on aime,
 Il ne reste plus qu'à mourir.
 
-**** *book_ *id_body-2-14 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-214 *act_ *date_1738 *creator_biancolelli
 
 -*who_poete
 Qu'est-ce, Seigneur Bellerophon, vous me paroissez bien embarassé ? vous attendez sans doute Pallas pour vous tirer d'affaire ? car il faut toûjours que le merveilleux s'en mêle point du tout, c'est moi qui vais faire ce miracle-là.
@@ -739,7 +739,7 @@ Ne craignons plus sa furie.
 Ma foi s'il ‘étoit pas mort,
 Il seroit encore en vie.
 
-**** *book_ *id_body-2-15 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-215 *act_ *date_1738 *creator_biancolelli
 
 -*who_le_roi
 Voilà bien des nouvelles, ma fille.
@@ -761,7 +761,7 @@ De cette manigance,
 Et Glaucus lui prêta son nom
 Comme on le fait en France.
 
-**** *book_ *id_body-2-16 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-216 *act_ *date_1738 *creator_biancolelli
 
 -*who_le_roi
 Mais voici Stenobée : vous venez apparemment, Madame, partager la joie publique ; sçavez-vous bien que Bellerophon est fils de Neptune, & qu'il a tué le Monstre ?
@@ -831,7 +831,7 @@ Que nous fait cela ?
 N'y a pas d'mal à ça. bis.
 Mais voici Bellerophon : ces Trompettes & ces Timballes nous l'annoncent.
 
-**** *book_ *id_body-2-17 *act_ *date_1738 *creator_biancolelli
+**** *book_ *id_body-217 *act_ *date_1738 *creator_biancolelli
 
 -*who_le_roi
 Ah !

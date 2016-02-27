@@ -1,5 +1,5 @@
 ---
-identifier: l'estoile_belle  
+identifier: estoile_belle-esclave  
 creator: L'Estoile, Claude de  
 date: 1643  
 title: La Belle Esclave. Tragi-comédie  
@@ -1152,7 +1152,7 @@ ALPHONSE, FERNAND.
 Ha ! Laisse moy mourir.  
 
     FERNAND.
-Que moy-mesmes je meure,  
+        Que moy-mesmes je meure,  
 Si je souffre⁎ qu'ainsy vous advanciez vostre heure :  
 Mais encore, Seigneur, qu'ay-je dit, pour vous voir  
 Tomber mort à mes pieds d'un coup de desepoir ?  
@@ -1202,7 +1202,7 @@ Ne précipitez point le cours de vostre sort⁎,
 Attendez ;  
 
     ALPHONSE.
-Je n'attens que le coup de la mort.  
+        Je n'attens que le coup de la mort.  
 Tant qu'un reste d'espoir a consolé mon ame⁎,  
 Je me suis conservé, pour conserver la flame⁎  
 Dont j'ay caché l'esclat assez adroitement,  
@@ -1308,7 +1308,7 @@ LE ROY, ALPHONSE, FERNAND.
 
 
     LE ROY.
-Alphonse, approchez-vous [188],  
+        Alphonse, approchez-vous [188],  
 Mais de quel nouveau mal⁎ le trop sensible⁎ outrage⁎  
 Vous a depuis tantost si changé de visage ?  
 
@@ -1350,7 +1350,7 @@ Mais n'est-il pas perdu ? l'aurois-je retreuvé ?
 Hé ! qui vous a sauvée ?  
 
     CLARICE.
-Hé ! qui vous a sauvé ?  
+        Hé ! qui vous a sauvé ?  
 
     ALPHONSE.
 De mille biens⁎, grand Roy, je vous suis redevable,  
@@ -1373,10 +1373,10 @@ Dieu ! que viens-je d'entendre ? ha ! funeste⁎ nouvelle ;
 Ha ! mon Frere.  
 
     ALPHONSE.
-Ha ! ma sœur.  
+    Ha ! ma sœur.  
 
     CLARICE.
-Ha ! surprise mortelle ;  
+        Ha ! surprise mortelle ;  
 Nouveau coup de Fortune⁎, et par qui ma vertu⁎  
 Voit malgré ses efforts⁎ mon courage⁎ abbatu.  
 A peine ma douleur, qui toute autre surpasse,  
@@ -1488,7 +1488,7 @@ Qui n'en ressentiroit quelque sorte d'atteinte⁎ ?
 J'ay pitié de ses pleurs.  
 
     CLARICE.
-Helas ! quelle raison  
+        Helas ! quelle raison  
 Vous fait donc à mon mal⁎ refuser⁎ guerison ?  
 Auriez-vous bien pour moy de ces pitiez cruelles,  
 Qui pleignent nos douleurs, et ne font rien pour elles ?  
@@ -1587,7 +1587,7 @@ Le Roy sort.
 Que feray-je Fernand ?  
 
     FERNAND.
-La seconde priere  
+        La seconde priere  
 Recouvre⁎ quelquefois l'honneur⁎ de la premiere ;  
 Ne vous desgoustez pas pour un premier rebut,  
 Et tirez tant de traits, que quelqu'un [200] frappe au but.  
@@ -1661,7 +1661,7 @@ ALPHONSE, CLARICE, HALY, FERNAND.
 
 
     CLARICE.
-Mais Alphonse souspire ;  
+        Mais Alphonse souspire ;  
 Qui vous a si long-temps loin de moy retenu ?  
 Que vous a dit le Roy ? Qu'avez vous obtenu ?  
 
@@ -1669,13 +1669,13 @@ Que vous a dit le Roy ? Qu'avez vous obtenu ?
 Ha ! cruelle demande.  
 
     CLARICE.
-Ha ! response trop claire.  
+        Ha ! response trop claire.  
 
     ALPHONSE.
 Il faut mourir, ma Sœur.  
 
     CLARICE.
-Hé bien, mourons, mon Frere.  
+        Hé bien, mourons, mon Frere.  
 
     ALPHONSE.
 Un roc est plus esmeu par les vents et les flots,  
@@ -1697,7 +1697,7 @@ Et qu'on m'oste un tresor dés qu'on me l'a donné.
 Il faut donc que je parte ?  
 
     ALPHONSE. 
-Ouy, sans nulle remise⁎ ;  
+        Ouy, sans nulle remise⁎ ;  
 Le vouloir destourner d'une telle entreprise⁎,  
 C'est vouloir en son cours arrester un torrent,  
 Esteindre en sa fureur⁎ un brasier devorant,  
@@ -1708,7 +1708,7 @@ Pour moy je ne sçay point faire tant de miracles,
 Mais je sçay bien mourir.  
 
     ALPHONSE.
-Que seroit vostre sort⁎,  
+        Que seroit vostre sort⁎,  
 Si de vostre vertu⁎ le prix estoit la mort ?  
 
     CLARICE.
@@ -1755,7 +1755,7 @@ Et devant que [209] la nuit ait sa course bornée,
 Je crains qu'elle ne parte.  
 
     CLARICE.
-O dure destinée⁎ !  
+        O dure destinée⁎ !  
 
     ALPHONSE.
 Helas ! me sauveray-je alors que je la pers ?  
@@ -1774,7 +1774,7 @@ Vous aviez quelque chose à surmonter⁎ encore
 De plus que sa rigueur.  
 
     LA REYNE.
-Qu'est-ce donc ? je l'ignore.  
+        Qu'est-ce donc ? je l'ignore.  
 
     CLARICE.
 C'est mon malheur, Madame, il est grand, il est tel ;  
@@ -1852,12 +1852,12 @@ ALPHONSE, CLARICE, FERNAND.****
 Ha ! malheureux depart.  
 
     CLARICE.
-S'il vous blesse, il me tuë,  
+        S'il vous blesse, il me tuë,  
 Au prix de mon destin⁎ le vostre est-il [216] pas doux ?  
 Vous ne perdez que moy.  
 
     ALPHONSE.
-Qu'ay-je à perdre que vous ?  
+        Qu'ay-je à perdre que vous ?  
 
     CLARICE.
 Je vous perds, et de plus, ô perte sans seconde !  
@@ -1865,7 +1865,7 @@ Je perds ce qui vaut mieux que moy, que tout le monde,
 Enfin je perds l'honneur⁎.  
 
     ALPHONSE.
-Moy l'esprit et les sens⁎ ;  
+        Moy l'esprit et les sens⁎ ;  
 Mais qui resisteroit aux douleurs que je sens ?  
 Quoy, perdre de la sorte une sœur adorable ?  
 
@@ -1886,7 +1886,7 @@ Cachons-luy ma naissance, évitons sa colère,
 Parlons bas.  
 
     ALPHONSE.
-A quoy plus déguiser nostre cœur,  
+        A quoy plus déguiser nostre cœur,  
 Sous ces noms empruntez et de frere et de sœur ?  
 Agissons franchement, il n'est plus temps de feindre,  
 Nous n'espérons plus rien, qu'avons-nous plus à craindre ?  
@@ -1953,7 +1953,7 @@ A ce torrent de feu⁎ quelle digue opposer ?
 La Mort.  
 
     ALPHONSE.
-Ha, d'un grand cœur grande et chaste pensée !  
+        Ha, d'un grand cœur grande et chaste pensée !  
 
     CLARICE.
 Celle qui sçait mourir ne peut estre forcée.  
@@ -1985,7 +1985,7 @@ ALPHONSE, CLARICE, HALY, FERNAND.
 
 
     ALPHONSE.
-Quoy, déja nous quitter ?  
+        Quoy, déja nous quitter ?  
 
     HALY.
 Diferer son malheur, ce n'est pas l'éviter :  
@@ -2002,19 +2002,19 @@ On retranche de moy la plus belle moitié.
 Il faut que je vous laisse.  
 
     ALPHONSE.
-Il faut donc que je meure.  
+        Il faut donc que je meure.  
 
     CLARICE.
 Voicy mon dernier jour.  
 
     ALPHONSE.
-Voicy ma derniere heure.  
+        Voicy ma derniere heure.  
 
     CLARICE.
 Au moins pensez à moy.  
 
     ALPHONSE.
-Peut-on vous oublier ?  
+        Peut-on vous oublier ?  
 Peut-on rompre les nœux qui nous ont sceu lier ?  
 C'est vouloir separer le feu⁎ d'avec la flame⁎,  
 L'ombre d'avec le corps, et l'esprit d'avec l'ame⁎,  
@@ -2104,7 +2104,7 @@ J'espere de sauver tout ce que j'aime au monde.
 Hé comment ?  
 
     ALPHONSE.
-Les Forçats⁎ de ce vaisseau fatal,  
+        Les Forçats⁎ de ce vaisseau fatal,  
 Où se doit embarquer tout mon bien et mon mal⁎,  
 Sont presque tous Chrestiens, sont de Sicile mesme,  
 Ils presteront l'oreille à nostre stratagéme⁎ ;  
@@ -2125,14 +2125,14 @@ Il ne reste à mes maux⁎ que ce sanglant remede.
 Mais…  
 
     ALPHONSE.
-Ha ! ne me dis rien.  
+    Ha ! ne me dis rien.  
 
     FERNAND.
-Nous y demeurerons,  
+        Nous y demeurerons,  
 Il y faudra mourir.  
 
     ALPHONSE.
-Hé bien, nous y mourrons.  
+        Hé bien, nous y mourrons.  
 FIN DU SECOND ACTE.
 
 
@@ -2157,7 +2157,7 @@ M'acquitter dignement de ce que je leur doy.
 Hé ! que leur devez-vous ?  
 
     LA REYNE.
-Leur dois-je pas mon frère ?  
+        Leur dois-je pas mon frère ?  
 Alphonse pouvait perdre une teste si chere ;  
 Et l'ayant en ses mains, il n'a tenu qu'à luy  
 De me donner sujet d'un eternel ennuy⁎.  
@@ -2335,7 +2335,7 @@ Ayant eu quelque peur de vous tromper au choix.
 Mais…  
 
     LA REYNE.
-Quoy, sur ce sujet vostre esprit delibere ?  
+        Quoy, sur ce sujet vostre esprit delibere ?  
 Luy donnerez-vous pas beaucoup plus qu'il n'espere ?  
 
     ALPHONSE.
@@ -2461,7 +2461,7 @@ Mais pouvais-je prevoir ce qui vient d'arriver ?
 Dieu ! je tremble d'effroy⁎.  
 
     HALY.
-Furieuse⁎, insensée,  
+        Furieuse⁎, insensée,  
 D'une haute fenestre elle s'est eslancée  
 Au milieu d'un abysme, où la rage des flots,  
 Abboyant⁎ aux rochers fait peur aux Matelots,  
@@ -2472,7 +2472,7 @@ La cause d'une mort si prompte et si funeste⁎.
 Helas !  
 
     LE ROY.
-Vostre malheur ne peut estre assez plaint ;  
+        Vostre malheur ne peut estre assez plaint ;  
 Mais lisons ce billet, où son sort⁎ est dépeint,  
 Mille troubles⁎ me font la guerre,  
 Et je me jette dans les flots,  
@@ -2514,7 +2514,7 @@ Ce corps qui porte un cœur à tous maux⁎ destiné.
 Armez-vous de constance⁎.  
 
     ALPHONSE.
-Ha ! conseil qui me tuë,  
+        Ha ! conseil qui me tuë,  
 A quoy sert de s'armer, quand la playe est receuë ?  
 
     FERNAND.
@@ -2634,7 +2634,7 @@ Et je cours luy conter quelle est mon avanture⁎ :
 Mais vois-je pas le Traistre ? il faut…  
 
     FERNAND.
-Tout beau, Seigneur,  
+        Tout beau, Seigneur,  
 Mesnagez prudemment un si rare bonheur :  
 Suivez vostre dessein⁎.  
 
@@ -2644,7 +2644,7 @@ HALY, SELIM.
 
 
     HALY [243].
-D'où vient donc sa furie⁎ ?  
+        D'où vient donc sa furie⁎ ?  
 Est-ce à moy qu'il en veut ? sçait-il ma tromperie⁎ ?  
 Pour en tirer raison [244] vouloit-il m'aborder ?  
 Je ne sçay là-dessus que [245] me persuader⁎.  
@@ -2655,7 +2655,7 @@ Tu sembles interdit, et presque à demy mort.
 Sommes-nous découverts ?  
 
     SELIM.
-Ha ! j'en ay quelque doute⁎ :  
+        Ha ! j'en ay quelque doute⁎ :  
 Mais gardons [247] qu'en ce lieu quelqu'un ne nous écoute.  
 
     HALY.
@@ -2672,7 +2672,7 @@ Mais Clarice en lieu seur n'est-elle pas conduitte ?
 Non.  
 
     HALY.
-Commandes-tu pas à ces petits vaisseaux,  
+        Commandes-tu pas à ces petits vaisseaux,  
 Qui sont prests à toute heure à voguer sur les eaux ?  
 Tu pouvois bien commettre [248] à la foy⁎ de Neptune,  
 La Beauté dont dépend ma vie, et ma fortune⁎.  
@@ -2691,7 +2691,7 @@ De passer plus avant m'a soudain retenu ;
 J'ay ramené Clarice.  
 
     HALY.
-Ainsi ce grand courage⁎,  
+        Ainsi ce grand courage⁎,  
 Qui n'aime que le sang, le meurtre, et le carnage,  
 Et n'a pour me servir jamais rien redouté,  
 A rebroussé chemin, et s'est épouvanté ;  
@@ -2730,7 +2730,7 @@ S'est levée à l'instant comme pour m'éclairer.
 Ne te trompes-tu point ?  
 
     SELIM.
-Non, c'estoit luy sans doute,  
+        Non, c'estoit luy sans doute,  
 Il couroit où jamais ne fut chemin ny route,  
 Il passoit où jamais personne n'a passé,  
 Et dans le bois enfin marchoit en insensé :  
@@ -2741,7 +2741,7 @@ J'ay fait avec prudence une prompte retraite.
 L'a-t'il veüe avec toy ?  
 
     SELIM.
-Je n'en puis rien sçavoir ;  
+        Je n'en puis rien sçavoir ;  
 Mais l'Amour, quoy qu'on die [249], a des yeux à tout voir.  
 
     HALY.
@@ -2788,7 +2788,7 @@ Changeons secretement en Histoire la Fable⁎ ;
 Jettons-la dans la mer.  
 
     HALY.
-Quoy, la faire mourir ?  
+        Quoy, la faire mourir ?  
 
     SELIM.
 Vous pouvez-vous sauver, sans la faire perir ?  
@@ -2843,7 +2843,7 @@ Puis-je bien me resoudre à cette barbarie ?
 Cher Selim…  
 
     SELIM.
-Taisons-nous, le Roy s'en vient icy,  
+        Taisons-nous, le Roy s'en vient icy,  
 Je vous quitte.  
 
 
@@ -2854,12 +2854,12 @@ Le Roy et Alphonse entrent sur le Theatre par deux costez differents.
 
 
     HALY.
-O malheur ! Alphonse arrive aussi,  
+        O malheur ! Alphonse arrive aussi,  
 Et je voy dans ses yeux mon crime, et mon supplice ;  
 Feignons bien toutesfois.  
 
     ALPHONSE. 
-Sire, Sire, justice ;  
+        Sire, Sire, justice ;  
 Clarice n'est point morte, et le traistre Haly  
 Tient ce jeune Soleil dans l'ombre ensevely.  
 
@@ -2867,10 +2867,10 @@ Tient ce jeune Soleil dans l'ombre ensevely.
 Moy !  
 
     ALPHONSE.
-Vous.  
+    Vous.  
 
     LE ROY.
-Seriez-vous homme à nous en faire accroire⁎ ?  
+        Seriez-vous homme à nous en faire accroire⁎ ?  
 On debite souvent la Fable⁎ pour l'Histoire ;  
 Et la langue a tüé force gens que je voy  
 Se porter aussi bien, et que vous, et que moy.  
@@ -2919,7 +2919,7 @@ Et le nauffrage enfin m'a jetté dans le port.
 Vous avez veu Clarice ?  
 
     ALPHONSE.
-Ouy, Sire, je l'ay veuë,  
+        Ouy, Sire, je l'ay veuë,  
 A la taille, à l'habit je l'ay bien recognuë,  
 Et j'ay pour la sauver couru l'espée au poing ;  
 Mais, helas ! mon mal-heur m'en avoit mis trop loin.  
@@ -2961,7 +2961,7 @@ LE ROY, HALY.
 
 
     HALY.
-Que cét affront me pique⁎ !  
+        Que cét affront me pique⁎ !  
 Mais sur les visions⁎ de ce Melancolique⁎,  
 Se desfier de moy ? visiter ma maison,  
 Et me charger [256] enfin de cette trahison ?  
@@ -3084,7 +3084,7 @@ Tenez-vous de vos sens⁎ le rapport bien fidele ?
 Estoit-ce elle, Seigneur ?  
 
     ALPHONSE.
-Comment, si c'estoit-elle ?  
+        Comment, si c'estoit-elle ?  
 Ne connoistrois-je pas ce que j'aime le mieux,  
 Ce qui seul est la joye et le jour de mes yeux ?  
 
@@ -3124,7 +3124,7 @@ Et ce que j'ay perdu ne se peut recouvrer⁎.
 Le Roy s'en vient icy.  
 
     ALPHONSE.
-Que luy pourray-je dire ?  
+        Que luy pourray-je dire ?  
 Je crains que devant luy de honte⁎ je n'expire.  
 
 
@@ -3234,7 +3234,7 @@ LE ROY, LA REYNE, ALPHONSE, HALY.
 
 
     LE ROY.
-Estrange⁎réverie⁎ !  
+        Estrange⁎réverie⁎ !  
 Le croiriez-vous, Madame, à moins que de le voir,  
 Qu'un Amant⁎ jusques-là se laissast decevoir⁎ ?  
 
@@ -3242,7 +3242,7 @@ Qu'un Amant⁎ jusques-là se laissast decevoir⁎ ?
 Alphonse est-il muët ?  
 
     ALPHONSE.
-Hé ! que puis-je respondre,  
+        Hé ! que puis-je respondre,  
 Quand tout ce que je dis ne sert qu'à me confondre⁎,  
 Et que mille sanglots sortant tous à la fois,  
 Ferment comme à l'envy le passage à ma voix.  
@@ -3303,7 +3303,7 @@ Mon innocence est claire, et si vous en doutez…
 Connoissez vous Selim ?  
 
     HALY.
-Je le dois bien connestre ;  
+        Je le dois bien connestre ;  
 Je l'ay fait ce qu'il est, et suis encor son Maistre.  
 
     LA REYNE.
@@ -3314,7 +3314,7 @@ Nous avoit revelé cét important secret ?
 Quel secret ?  
 
     LA REYNE.
-Que par vous l'innocente Captive,  
+        Que par vous l'innocente Captive,  
 Dans cét Antre s'est veüe enterrer toute vive :  
 Mais s'il vous accusoit d'un crime encor plus grand ?  
 
@@ -3330,7 +3330,7 @@ C'est parler dignement d'un homme qui vous perd.
 Luy, perdre un Innocent !  
 
     LA REYNE.
-Il a tout découvert,  
+        Il a tout découvert,  
 Et monstré de quel fil est la sanglante toile,  
 Que vos mains ourdissoient, pour nous servir de voile.  
 
@@ -3483,7 +3483,7 @@ LE ROY, LA REYNE, ALPHONSE, CLARICE, HALY, FERNAND.
 O Ciel⁎ ! c'est elle-mesme.  
 
     HALY.
-Est-ce un charme⁎ ? est-ce un songe ?  
+        Est-ce un charme⁎ ? est-ce un songe ?  
 
     LA REYNE.
 Estes-vous à ce coup convaincu⁎ de mensonge ?  
@@ -3498,7 +3498,7 @@ Ce Fourbe, à qui l'Enfer ses mensonges inspire.
 Hé Sire !  
 
     LE ROY.
-Qu'on le traisne au fonds d'une prison,  
+        Qu'on le traisne au fonds d'une prison,  
 Qui combatte d'horreur⁎ avec sa trahison,  
 Et que publiquement la main de la Justice,  
 A son crime nouveau donne un nouveau supplice :  
@@ -3523,7 +3523,7 @@ Et la nuict où j'estois a redoublé son ombre :
 Haly vous a sauvée !  
 
     CLARICE.
-Ouy Sire, il est ainsi,  
+        Ouy Sire, il est ainsi,  
 Et bien tost sur ce point vous serez esclaircy.  
 A moy-mesme le Ciel⁎ m'ayant abandonnée,  
 Pour avoir murmuré contre ma destinée⁎,  
@@ -3578,7 +3578,7 @@ Pouvoit de tant de biens⁎ me donner esperance ?
 O clemence [274] adorable !  
 
     ALPHONSE.
-O Prince genereux⁎ !  
+        O Prince genereux⁎ !  
 Qui de vostre vertu⁎ ne seroit amoureux ?  
 FIN DU DERNIER ACTE.
 

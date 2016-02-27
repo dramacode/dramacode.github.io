@@ -33,7 +33,7 @@ et tres obligé serviteur,
 
 BOYER.
 
-**** *book_ *id_body-3-1 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-301 *act_ *date_1670 *creator_boyer
 
 -*who_marius
 Quel zele, quel ⁎bon-heur t'a conduit en ces lieux,
@@ -94,7 +94,7 @@ Quoy, Seigneur, quel amour dans un sort si funeste...,
 Cecilie est icy.
 
 -*who_maxime
-Quoy, Seigneur, dans Preneste ?
+      Quoy, Seigneur, dans Preneste ?
 
 -*who_marius
 Oüy Maxime, et l'amour aprés tant de ⁎hazards,
@@ -104,7 +104,7 @@ Acheve icy sur moy le triomphe de Mars.
 La fille de Sylla ?
 
 -*who_marius
-Cecilie, et ses charmes
+      Cecilie, et ses charmes
 Sont plus forts que son pere avec toutes ses armes.
 Mais aprens quel destin l'a menée en ces lieux.
 Je ne veux point icy retracer à tes yeux
@@ -203,7 +203,7 @@ Mais je voy Cecilie, attend encor un peu ;
 Je ne puis sans son ordre, à moins de luy déplaire,
 Former quelque entreprise, et combatre son pere.
 
-**** *book_ *id_body-3-2 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-302 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
 Ce qu'annonce Maxime est une verité
@@ -259,7 +259,7 @@ Malgré ce grand espoir vous presse par ma vois.
 Ecoutez-la, Seigneur.
 
 -*who_marius
-Je l'écoute, Madame ;
+      Je l'écoute, Madame ;
 Mais m'écouterez-vous en faveur de ma ⁎flâme ?
 Si je livre à Sylla Preneste et nos Soldats,
 Si mon cœur se trahit, ne le trahissez pas.
@@ -351,7 +351,7 @@ Où courrez-vous, Seigneur ? Helas qu'allez-vous faire ?
 Vaincre ou perir.
 
 -*who_cecilie
-Songez qu'il faut vaincre mon pere.
+      Songez qu'il faut vaincre mon pere.
 
 -*who_marius
 Vous voulez donc ainsi, ⁎cruelle, m'arrester ;
@@ -395,7 +395,7 @@ Et qui vous sont si chers, le sont trop à nos Dieux,
 Et si vous vous plaignez du ⁎bon-heur de mes armes,
 Vous aurez tout mon sang pour le prix de vos larmes.
 
-**** *book_ *id_body-3-3 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-303 *act_ *date_1670 *creator_boyer
 
 -*who_marcelle
 Ce malheureux ⁎Amant, que vous traitez si mal,
@@ -527,7 +527,7 @@ Va voir, Marcelle, à qui le sort veut faire grace,
 Tandis que dans mon cœur mon pere et deux ⁎Amans
 Semblent se disputer mes tendres sentimens.
 
-**** *book_ *id_body-4-1 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-401 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
 maxime, je sçay tout ; cent messagers fideles
@@ -612,10 +612,10 @@ Et par cette prudente et modeste retraite
 D'un ennemy qu'il aime, honore la défaite.
 Mais il vient.
 
-**** *book_ *id_body-4-2 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-402 *act_ *date_1670 *creator_boyer
 
 -*who_marius
-Pardonnez si je montre à vos yeux
+      Pardonnez si je montre à vos yeux
 Pour un foible succez un front victorieux.
 Quand je doy soupirer du ⁎bon-heur de mes armes,
 D'avoir à ces beaux yeux fait répandre des larmes,
@@ -652,7 +652,7 @@ Et croit n'avoir plus rien à combatre que vous.
 Voila toute ma joye.
 
 -*who_cecilie
-Ainsi vous osez croire,
+      Ainsi vous osez croire,
 Que j'ay pû faire un choix, qui fait tort à ma gloire :
 Vous pouviez m'épargner un si cruel affront,
 Et voyant un succés trop facile et trop prompt,
@@ -723,7 +723,7 @@ Que le tourment d'un cœur, qui n'espere plus rien.
 Sylla verroit plustost Rome sans assistance...
 Mais quelqu'un vient icy, c'est Pison qui s'avance.
 
-**** *book_ *id_body-4-3 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1670 *creator_boyer
 
 -*who_marius
 He bien Pison. Sylla nous donne-t'il la paix ?
@@ -756,7 +756,7 @@ Quoy jusques-là mon pere abbaisse sa fierté,
 Sabine ?
 
 -*who_marius
-N'est-ce point une temerité
+      N'est-ce point une temerité
 Madame d'accepter des mains de vostre pere
 Un present que vous seule avez droit de me faire ?
 Ne voy je pas déja cét air triste et confus
@@ -904,10 +904,10 @@ Luy répond de ton Maistre aussi bien que de moy.
 Quoy vous obeyrez
 
 -*who_cecilie
-Oüy , Seigneur.
+      Oüy , Seigneur.
 
 -*who_marius
-Ah  ! Madame.
+      Ah  ! Madame.
 Sçavez-vous quels tourmens se prepare vostre ame ?
 Madame sçavez-vous qu'on a veu plus d'un cœur
 Pour de pareils efforts expirer de douleur ?
@@ -952,7 +952,7 @@ Ma ⁎flâme et mon devoir, Rome avec ma ⁎Maistresse :
 Mais sans plus differer allons le recevoir ;
 Et de sa propre bouche apprendre mon espoir.
 
-**** *book_ *id_body-5-1 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-501 *act_ *date_1670 *creator_boyer
 
 -*who_marius
 des mains du grand Sylla recevoir Cecilie ?
@@ -974,7 +974,7 @@ Que rien de cét hymen ne rompra l'alliance ;
 Que malgré nos malheurs, la paix et nos sermens
 Etouffent pour jamais tous nos ressentimens.
 Permettez seulement, que cette grande Feste
-Cede aux glorieux soins du combat qui s'apreste :     
+Cede aux glorieux soins du combat qui s'apreste :
 Il faut secourir Rome ; il faut qu'un prompt retour
 Y puisse avec éclat couronner vostre amour,
 Et qu'un hymen pompeux remplisse vostre attente
@@ -985,7 +985,7 @@ Rome est-elle Seigneur en un si grand danger,
 Qu'il faille...
 
 -*who_sylla
-Ce secours ne se peut negliger.
+      Ce secours ne se peut negliger.
 Entre Preneste et Rome il est si peu d'espace,
 Qu'on peut à tout moment sçavoir ce qui s'y passe.
 J'ay donc sçeu que Pompée instruit de nostre accord,
@@ -1017,7 +1017,7 @@ A reconnoistre en vous la supréme puissance
 Y soûmettre la mienne, et sans plus differer,
 Sous vos ordres, Seigneur, je vay tout preparer.
 
-**** *book_ *id_body-5-2 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-502 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
 Comprens-tu bien l'effort que je viens de me faire,
@@ -1049,7 +1049,7 @@ Oüy, je te le destinois à ce grand hymenée.
 Tu soûpires, ma fille.
 
 -*who_cecilie
-Oüy, je soûpire, helas !
+      Oüy, je soûpire, helas !
 Puis-je l'aimer, le perdre, et n'en soûpirer pas ?
 Pardonnez cét adveu, ma faute est excusable,
 Si j'aimay sans vostre ordre un Heros trop aimable :
@@ -1076,7 +1076,7 @@ S'il m'eut esté plus doux de vivre avec Pompée,
 Du moins en Marius je rencontre un épous,
 Digne de Cecilie, et de Rome et de vous.
 
-**** *book_ *id_body-5-3 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1670 *creator_boyer
 
 -*who_octave
 Seigneur. Pompée arrive, et le bruit de sa gloire
@@ -1156,10 +1156,10 @@ Qu'autant qu'à ma grandeur il sera necessaire.
 Quoy, Seigneur...
 
 -*who_sylla
-Laisse-nous ; fais ce que je t'ay dit.
+      Laisse-nous ; fais ce que je t'ay dit.
 Des soins plus importans occupent mon esprit.
 
-**** *book_ *id_body-5-4 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-504 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
 Fidelle compagnon des travaux d'une guerre,
@@ -1270,10 +1270,10 @@ Deux chefs associez tous deux cessent de l'estre,
 Et l'un et l'autre enfin n'est ny Sujet ny Maistre.
 Il vient.
 
-**** *book_ *id_body-5-5 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
-Peut on jamais, Seigneur, d'assez de gloire,
+      Peut on jamais, Seigneur, d'assez de gloire,
 D'un triomphe assez beau payer vostre victoire ?
 Digne Heros issu du plus beau sang Romain ?
 
@@ -1342,7 +1342,7 @@ Je m'en vay prendre au Camp le nom de Dictateur.
 Le nom de Dictateur ?
 
 -*who_sylla
-Quoy ce nom vous étonne ?
+      Quoy ce nom vous étonne ?
 
 -*who_pompee
 Non, puisque vous avez tout le pouvoir qu'il donne,
@@ -1359,7 +1359,7 @@ Qu'on réponde si mal à ce qu'on doit entendre :
 Cecilie et l'amour vous ouvriront les yeux,
 Allez la voir, Seigneur, et vous m'entendrez mieux.
 
-**** *book_ *id_body-6-1 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-601 *act_ *date_1670 *creator_boyer
 
 -*who_marcelle
 tous vos discours, Seigneur, me font assez comprendre,
@@ -1432,10 +1432,10 @@ Je sçay...mais elle passe, et vient de chez son pere.
 Voy quel thresor m'arrache un pouvoir trop severe.
 Dois-je arrester ? fuyons.
 
-**** *book_ *id_body-6-2 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-602 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
-Vous me fuyez, Seigneur :
+      Vous me fuyez, Seigneur :
 Non, non, ne craignez plus cette injuste rigueur,
 Qui contre mon dessein trompoit vostre esperance ;
 Ce pouvoir qui forçoit ma tendresse au silence,
@@ -1511,7 +1511,7 @@ Mais quand la trahison s'appreste à l'accabler,
 Voulez-vous...
 
 -*who_pompee
-Ah ! cessez de me faire trembler.
+      Ah ! cessez de me faire trembler.
 
 -*who_cecilie
 Tout l'univers verroit son attente trompée,
@@ -1537,11 +1537,11 @@ Pour avoir refusé l'illustre Cecilie.
 Devoir trop rigoureux !
 
 -*who_cecilie
-Mais Sylla vient à nous,
+      Mais Sylla vient à nous,
 Qu'avez-vous resolu ?
 
 -*who_pompee
-Que me demandez-vous ?
+      Que me demandez-vous ?
 
 -*who_cecilie
 Ah ! Seigneur, vous devez faire cesser ce trouble.
@@ -1551,13 +1551,13 @@ Ah, plus je le combats, plus je sens qu'il redouble,
 Fuyons.
 
 -*who_cecilie
-Il vous a veu, demeurez.
+      Il vous a veu, demeurez.
 
 -*who_pompee
-Je ne puis,
+      Je ne puis,
 Et ne veux rien resoudre en l'estat où je suis.
 
-**** *book_ *id_body-6-3 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-603 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
 Quoy, ma fille, Pompée évite ma presence ?
@@ -1566,7 +1566,7 @@ Quoy, ma fille, Pompée évite ma presence ?
 Seigneur...
 
 -*who_sylla
-Ah ! non j'entens sa fuite et ton silence,
+      Ah ! non j'entens sa fuite et ton silence,
 Alors que par mon ordre il voit en sa faveur
 Le secret de ta ⁎flâme arraché de ton cœur :
 L'ingrat ose braver, sans peur de nous déplaire,
@@ -1660,7 +1660,7 @@ Ou ne m'imposez pas un choix abominable,
 Pere cruel.
 
 -*who_sylla
-Gardez de trahir mon secret
+      Gardez de trahir mon secret
 Par les emportemens d'un scrupule indiscret.
 Songez que de leur sort vous faisant la maistresse,
 C'est en vostre faveur un fruit de ma tendresse,
@@ -1673,7 +1673,7 @@ Et songez qu'il y va de toute ma puissance.
 O ! Dieux qui d'un tel sang avez formé le mien,
 Que ne me donnez-vous un cœur comme le sien
 
-**** *book_ *id_body-6-4 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-604 *act_ *date_1670 *creator_boyer
 
 -*who_pison
 Vous puis-je demander quelle rigueur extréme
@@ -1694,13 +1694,13 @@ Ennemy de la feinte et du déguisement,
 Son grand cœur sans rien craindre éclate hautement,
 Et peut-estre qu'enfin...mais le voicy luy-mesme...
 
-**** *book_ *id_body-6-5 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-605 *act_ *date_1670 *creator_boyer
 
 -*who_marius
 Quoy, Seigneur...
 
 -*who_sylla
-Je connois vostre malheur extréme ;
+      Je connois vostre malheur extréme ;
 Je le voy, je le sens, et vous pouvez penser
 Quels soins dans cet estat viennent m'embarrasser.
 Je sçay que Cecilie à vous seul destinée,
@@ -1808,7 +1808,7 @@ Ou crains pour mes Rivaux ce que tu crains pour moy.
 Je m'emporte et peut-estre avec trop d'imprudence,
 Mais qu'ay-je à ménager quand je perds l'esperance ?
 La contrainte est honteuse et n'est plus de saison,
-Quand il faut s'expliquer contre la trahison.     
+Quand il faut s'expliquer contre la trahison.
 
 -*who_sylla
 Croyez-moy, remettez le calme dans vostre ame,
@@ -1831,10 +1831,10 @@ N'importe, regle tout selon ton interest,
 Pourveu que Cecilie en prononce l'Arrest.
 Adieu.
 
-**** *book_ *id_body-6-6 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-606 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
-Voy maintenant le secret de ma haine.
+      Voy maintenant le secret de ma haine.
 Pour perdre Marius et sans honte et sans peine,
 Le choix de Cecilie est un moyen certain :
 Ma fille en fait le crime et l'épargne à ma main :
@@ -1847,7 +1847,7 @@ M'épargner d'un grand crime et la haine et l'envie.
 Mais sans rien negliger sur un si doux espoir
 Voyons ce qu'il faut craindre, et tâchons d'y pourvoir.
 
-**** *book_ *id_body-7-1 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-701 *act_ *date_1670 *creator_boyer
 
 -*who_marcelle
 Je ne vous connois plus dans ce desordre extréme.
@@ -1955,7 +1955,7 @@ J'ayderay par mon choix à luy percer le cœur.
 Ce n'est point sur ce choix l'amour qu'il en faut croire.
 Marius vient Marcelle, au secours de ma gloire.
 
-**** *book_ *id_body-7-2 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1670 *creator_boyer
 
 -*who_marius
 Je sçay ce que Sylla vient de vous ordonner ;
@@ -2014,7 +2014,7 @@ Que s'il faut à ce Dieu joindre d'autres secours,
 Souffrez...
 
 -*who_cecilie
-Daignez, Seigneur, prendre soin de vos jours.
+      Daignez, Seigneur, prendre soin de vos jours.
 Echapez promptement aux fureurs de mon pere,
 Ce choix qu'il me demande, et que je crains de faire,
 Quel qu'il puisse estre enfin, ou pour ou contre vous,
@@ -2038,7 +2038,7 @@ Ou de vivre pour vous ou de cesser de vivre.
 Vous ne répondez rien.
 
 -*who_cecilie
-Qu'esperez-vous, Seigneur ?
+      Qu'esperez-vous, Seigneur ?
 Quels efforts, quels secours, vaincront vostre malheur ?
 Je ne le puis nier, la perfidie est noire ;
 Il s'agit de vanger et l'amour et sa gloire.
@@ -2053,7 +2053,7 @@ Puis-je prendre avec luy quelqu'autre seureté ?
 S'il le faut toutefois...
 
 -*who_cecilie
-Non, non, craignez sa haine ;
+      Non, non, craignez sa haine ;
 Je voy de tous costez vostre perte certaine,
 Et daignez seulement pour vous faire raison
 Employer la vertu contre la trahison.
@@ -2082,12 +2082,12 @@ Je mourray satisfait, ou je vivray content.
 Adieu, Madame.
 
 -*who_cecilie
-Adieu.
+      Adieu.
 
-**** *book_ *id_body-7-3 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-703 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
-Que son sort est à plaindre !
+      Que son sort est à plaindre !
 
 -*who_marcelle
 Ah ! que sa vengeance est beaucoup plus à craindre.
@@ -2099,7 +2099,7 @@ Je le vois en estat d'aller tout entreprendre.
 Pour son bien, pour le nostre, il faut sans plus attendre,
 Il faut choisir Marcelle, allons en sa faveur...
 
-**** *book_ *id_body-7-4 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
 Mais j'aperçoy Pompée, où courez-vous, Seigneur ?
@@ -2142,7 +2142,7 @@ Mon devoir prés de vous, doute, tremble, chancele.
 Le mal presse, il est temps, Madame.
 
 -*who_cecilie
-Allons, Seigneur.
+      Allons, Seigneur.
 Excusez, si j'y cours avecque moins d'ardeur :
 Mon cœur, quoy que Romain est fait tout comme un autre,
 Et ma vertu n'est pas si forte que la vostre.
@@ -2174,10 +2174,10 @@ O ! Dieux quelle fureur, ne craignez rien, ma vie
 Peut encor défier toute sa tyrannie,
 Il vient.
 
-**** *book_ *id_body-7-5 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-705 *act_ *date_1670 *creator_boyer
 
 -*who_sylla
-Peut-on sçavoir qui sera vostre Epoux ?
+      Peut-on sçavoir qui sera vostre Epoux ?
 Mais j'entens vostre choix, Pompée est avec vous.
 
 -*who_cecilie
@@ -2188,7 +2188,7 @@ J'ay choisi Marius Seigneur, et j'en fais gloire.
 Dieux !
 
 -*who_cecilie
-Et j'ay dû répondre en cette occasion,
+      Et j'ay dû répondre en cette occasion,
 Plus à vostre devoir qu'à vostre intention.
 
 -*who_sylla
@@ -2257,16 +2257,16 @@ Je voy par vos conseils quel ⁎party je doy prendre
 Il faut vous contenter. Qu'on l'aille donc chercher,
 Ce precieux Rival, cet ennemy si cher.
 
-**** *book_ *id_body-7-6 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-706 *act_ *date_1670 *creator_boyer
 
 -*who_pison
 Seigneur....
 
 -*who_sylla
-Qu'est-ce Pison ?
+      Qu'est-ce Pison ?
 
 -*who_pison
-Marius dans la place
+      Marius dans la place
 Suivy d'un gros d'amis et de la populace,
 Marche vers le Palais avec ses revoltez,
 Et vient vous demander l'effet de nos traitez,
@@ -2285,7 +2285,7 @@ Tremblez mes ennemis, tout Sylla va parestre.
 Vous pouvez demeurer, et vous aider tous deux
 A plaindre dignement un ⁎Amant malheureux.
 
-**** *book_ *id_body-7-7 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-707 *act_ *date_1670 *creator_boyer
 
 -*who_pompee
 Que me commandez-vous dans cette conjoncture ?
@@ -2301,7 +2301,7 @@ Je vay donc s'il se peut secourir l'un et l'autre.
 -*who_cecilie
 Allez, et reglez seul mon devoir et le vostre.
 
-**** *book_ *id_body-7-8 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-708 *act_ *date_1670 *creator_boyer
 
 -*who_sabine
 Quel est vostre dessein ? malgré son desespoir
@@ -2320,31 +2320,31 @@ Quand tu vois Marius prest à se satisfaire.
 Veux-tu...
 
 -*who_sabine
-Mais voulez-vous exposer vostre pere !
+      Mais voulez-vous exposer vostre pere !
 Vous voyez quels perils...
 
 -*who_cecilie
-Pourquoy m'allarmes-tu ?
+      Pourquoy m'allarmes-tu ?
 Pourquoy d'un nom si cher ⁎étonner ma vertu ?
 Faut-il avec un pere estre d'intelligence,
 Alors qu'il faut trahir l'honneur et l'innocence ?
 Pour un pere sans foy, le sang est sans pouvoir
 Et le soin de ma gloire est mon premier devoir.
 
-**** *book_ *id_body-7-9 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-709 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
 Qu'est-ce ?
 
 -*who_marcelle
-Helas ! pour comble de misere,
+      Helas ! pour comble de misere,
 Marius va tomber aux mains de vostre pere.
 
 -*who_cecilie
 Comment !
 
 -*who_marcelle
-Le ⁎fier Sylla se presente aux mutins,
+      Le ⁎fier Sylla se presente aux mutins,
 Comme s'il estoit seul maistre de leurs destins :
 Son intrepidité desarme leur audace,
 Et toute leur ardeur se convertit en glace,
@@ -2355,13 +2355,13 @@ Marius reste seul sans secours, sans defence,
 -*who_cecilie
 Allons sans plus tarder, allons par ma presence...
 
-**** *book_ *id_body-7-10 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-710 *act_ *date_1670 *creator_boyer
 
 -*who_cecilie
 Ah ! Seigneur, Marius...
 
 -*who_pompee
-Vous voyez ma douleur.
+      Vous voyez ma douleur.
 Abandonné des siens, mais malgré son malheur,
 Plus honteux que troublé de les voir sans courage.
 La trahison, dit-il, acheve son ouvrage,
@@ -2382,7 +2382,7 @@ Mon trépas, cher Rival, vange tes déplaisirs ;
 Adieu, joüis en paix du bon-heur de ta ⁎flâme.
 Attendri par ces mots jusques aux ⁎feux de l'ame,
 Je change tout d'un coup ma tendresse en horreur,
-Voyant le ⁎fier Sylla d'un œil plein de fureur    
+Voyant le ⁎fier Sylla d'un œil plein de fureur
 Jouyr de ce spectacle, et charmé de son crime
 D'un avide regard devorer sa victime.
 Apres avoir soulé toute sa cruauté,
@@ -2408,7 +2408,7 @@ Il cherche à s'immoler mille et mille victimes.
 Et si vous n'avez soin de calmer son ⁎courrous,
 Je crains tout pour luy-mesme, et pour Rome et pour nous.
 
-**** *book_ *id_body-7-11 *act_ *date_1670 *creator_boyer
+**** *book_ *id_body-711 *act_ *date_1670 *creator_boyer
 
 -*who_pison
 Sylla n'attend que vous, et sa cruelle rage

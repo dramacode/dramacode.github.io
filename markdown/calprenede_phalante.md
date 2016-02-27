@@ -1,5 +1,5 @@
 ---
-identifier: la-calprenede_phalante  
+identifier: calprenede_phalante  
 creator: La Calprenède, Gautier de Coste  
 date: 1642  
 title: Phalante. Tragédie.  
@@ -846,7 +846,7 @@ Si pour vous adorer j'ay pû commettre un crime,
 J'ay failly,  
 
     HELENE.
-Ce n'est pas que je ne vous estime  
+        Ce n'est pas que je ne vous estime  
 Philoxene je sçay ce que vous meritez  
 Et pour vostre naissance et pour vos qualitez,  
 Mais quelques sentimens que l'estime me donne  
@@ -912,7 +912,7 @@ CLEONE, HELENE, PHILOXENE, UN HUISSIER.
 Madame, quelqu'un vient.  
 
     HUISSIER.
-C'est le Prince Phalante.  
+        C'est le Prince Phalante.  
 
     HELENE.
 Qu'il entre ; le cruel revient pour m'affliger,  
@@ -1013,7 +1013,7 @@ Il se retirera de son aveuglement :
 Employez-y vos soins⁎.  
 
     PHALANTE.
-O ciel ! est-il possible  
+        O ciel ! est-il possible  
 Qu'à tant de passion⁎ vostre cœur insensible  
 A cét Amant⁎ fidele ordonne le trespas,  
 Puis que sans ce remede il ne guerira pas ?  
@@ -1062,8 +1062,8 @@ Tes yeux ont des attraits qui le pourront toucher,
 Force cette pudeur qui te fait violence.  
 Ah ! pardon, ma vertu,  
 
-    PHALANTE. 
-La princesse balance,  
+    PHALANTE.
+        La princesse balance,  
 Sans doute mes discours auront fait quelque fruit.  
 Ah ! cruauté du ciel où m'avez-vous reduit ?  
 Faut-il que je poursuive avecque tant d'envie,  
@@ -1133,7 +1133,7 @@ Et paroissent confus de l'office⁎ qu'ils font.
 O Dieux ! que deviendray-je ? ah ! Madame.  
 
     HELENE.
-De grace,  
+        De grace,  
 Dequoy que mon destin⁎ me flatte ou me menace,  
 Faites reflection encore un peu de temps,  
 Avant que [82] prononcer l'arrest que j'en attends.  
@@ -1204,7 +1204,7 @@ Si je devois brusler pourquoy dedans son ame
 N'allumiez-vous de mesme.  
 
     AMINTE.
-Esperez-le Madame,  
+        Esperez-le Madame,  
 Bannissez cette crainte, et recognoissez mieux,  
 Cet amour qui triomphe et brille dans vos yeux :  
 Si l'on n'en doit juger que selon l'apparance,  
@@ -1311,7 +1311,7 @@ Et si de vos malheurs mon ame combatuë,
 Ne ressentoit pour vous,  
 
     PHILOXENE.
-Ah ! ce discours me tuë :  
+        Ah ! ce discours me tuë :  
 Juste ciel falloit-il pour comble de douleur,  
 Qu'un innocent amy partageât mon malheur,  
 Et que n'ayans qu'un cœur et qu'une ame commune,  
@@ -1376,7 +1376,7 @@ Et que j'ay de bonheur parmy tant de disgrace,
 D'avoir fait un amy,  
 
     PHALANTE.
-Souffrez⁎ que je vous chasse :  
+        Souffrez⁎ que je vous chasse :  
 Adieu laissez moy seul y rever un moment,  
 Vous trouverez la Reyne en son appartement.  
 
@@ -1518,7 +1518,7 @@ HELENE, CLEONE, PHALANTE.
 Ne vois-je pas Phalante ?  
 
     CLEONE.
-Oüy Madame, c'est luy.  
+        Oüy Madame, c'est luy.  
 
     PHALANTE.
 Mais je suis découvert, ah ! deffend toy, mon ame,  
@@ -1595,7 +1595,7 @@ Un Dieu rechercheroit ceste bonne fortune⁎.
 Arate et Cleomede.  
 
     HELENE.
-O surprise importune⁎,  
+        O surprise importune⁎,  
 Ces gardes ont failly, je l'avois deffendu.  
 
     PHALANTE.
@@ -1617,13 +1617,13 @@ Et l'affaire qu'on traitte est assez importante
 Pour divertir un peu,  
 
     HELENE. 
-Vous en serez, Phalante.  
+        Vous en serez, Phalante.  
 
     PHALANTE.
 Vous me comblez d'honneur⁎.  
 
     HELENE.
-Venez donc avec nous.  
+        Venez donc avec nous.  
 Je ne veux rien oüir [100] ny resoudre sans vous.  < Fin du second Acte. >
 
 
@@ -1638,10 +1638,10 @@ PHILOXENE, CLEONE.
 La Reyne ayme Phalante.  
 
     CLEONE.
-Oüy Seigneur.  
+    Oüy Seigneur.  
 
     PHILOXENE.
-Ah ! Cleone,  
+        Ah ! Cleone,  
 Regarde la douleur que ce discours me donne,  
 Et si ton amitié⁎ ne me peut secourir,  
 Du moins n'invente rien qui me fasse mourir :  
@@ -1684,7 +1684,7 @@ Et contre la raison, et contre mes avis.
 Et Phalante,  
 
     CLEONE.
-Je croy qu'il n'est pas insensible,  
+        Je croy qu'il n'est pas insensible,  
 Et que s'il n'est formé de nature impassible,  
 S'il n'a les duretez d'un arbre ou d'un rocher,  
 La Reyne a des appas [101] qui le doivent toucher.  
@@ -1693,11 +1693,11 @@ La Reyne a des appas [101] qui le doivent toucher.
 C'est assez, juste ciel !  
 
     CLEONE.
-Gardez moy le silence,  
+        Gardez moy le silence,  
 Vous me perdriez [102], Seigneur.  
 
     PHILOXENE.
-Vy dans⁎ cette asseurance,  
+        Vy dans⁎ cette asseurance,  
 Et previens⁎ cet esprit de tes bonnes leçons,  
 Mais entrons, je veux mieux éclaircir mes soupçons.  
 
@@ -1836,7 +1836,7 @@ Luy refuser le prix qu'on doit à son service.
 Sa vertu, son amour,  
 
     HELENE.
-Ces discours superflus  
+        Ces discours superflus  
 M'aigrissent contre luy, bien, bien, n'en parlons plus,  
 Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,  
 Cet importun⁎ me nuit, je sçauray m'en deffaire,  
@@ -1847,37 +1847,37 @@ Peut-estre on le verra rentré dans⁎ son devoir.
 Ah ! Madame, songez.  
 
     HELENE.
-Songez plustost vous-mesme.  
+        Songez plustost vous-mesme.  
 
     PHALANTE.
 Que Philoxene meurt.  
 
     HELENE.
-Et qu'Helene vous ayme.  
+        Et qu'Helene vous ayme.  
 
     PHALANTE.
 Le lairrez [106]-vous perir ?  
 
     HELENE.
-Verrez-vous mon trespas ?  
+        Verrez-vous mon trespas ?  
 
     PHALANTE.
 Pouvez-vous l'oublier ?  
 
     HELENE.
-Ne m'oublierez-vous pas ?  
+        Ne m'oublierez-vous pas ?  
 
     PHALANTE.
 Prieray-je sans espoir ?  
 
     HELENE.
-Prierez-vous pour un autre ?  
+        Prierez-vous pour un autre ?  
 
     PHALANTE.
 L'interest⁎ que j'y prends.  
 
     HELENE.
-Esteindra-il le vostre ?  
+        Esteindra-il le vostre ?  
 
     PHALANTE.
 Celuy de mon amy sera tousjours le mien,  
@@ -1903,28 +1903,28 @@ De sa presomption je le sçauray punir,
 Et luy faire cognoistre  
 
     PHALANTE.
-Ah ! Madame.  
+    Ah ! Madame.  
 
     HELENE.
-Ah ! Phalante.  
+        Ah ! Phalante.  
 
     PHALANTE.
 Doit-on pas secourir  
 
     HELENE.
-Une Reyne mourante.  
+        Une Reyne mourante.  
 
     PHALANTE.
 Je fais ce que je dois.  
 
     HELENE.
-Je fais ce que je puis [108].  
+        Je fais ce que je puis [108].  
 
     PHALANTE. 
 Jugez de mon devoir.  
 
     HELENE.
-Et voyez qui je suis.  
+        Et voyez qui je suis.  
 
     PHALANTE.
 Vous estes en merite en beauté grande Reyne,  
@@ -1933,21 +1933,21 @@ Et par ma propre mort je le dois secourir,
 Sauvez-le par pitié.  
 
     HELENE.
-Je ne puis sans mourir,  
+        Je ne puis sans mourir,  
 Et sans m'assassiner vous ne pouvez encore  
 M'entretenir de luy.  
 
     PHALANTE.
-Madame il vous adore.  
+        Madame il vous adore.  
 
     HELENE.
 Et j'adore Phalante.  
 
     PHALANTE.
-Il meurt.  
+    Il meurt.  
 
     HELENE.
-Je meurs aussi.  
+        Je meurs aussi.  
 
     PHALANTE.
 Que fais-tu miserable ! esloigne toy d'icy,  
@@ -1958,7 +1958,7 @@ Et sauve ta vertu d'un naufrage evident.
 Elle rend les abois.  
 
     HELENE.
-Enfin l'ingrat balance,  
+        Enfin l'ingrat balance,  
 Amour en ma faveur témoigne ta puissance :  
 Fay grand Dieu quelque effort sur ce cœur endurcy.  
 
@@ -2045,10 +2045,10 @@ PHILOXENE, AMINTE, HELENE.
 Que fait la Reyne, Aminte ?  
 
     AMINTE.
-Elle est triste.  
+    Elle est triste.  
 
     PHILOXENE.
-Et de quoy.  
+        Et de quoy.  
 
     HELENE.
 Ah ! que mal à propos l'importun⁎ vient à moy,  
@@ -2094,7 +2094,7 @@ Accordez-le, Madame, à ma perseverance :
 Et donnez par pitié.  
 
     HELENE.
-Perdez-en l'esperance.  
+        Perdez-en l'esperance.  
 Et si par mes bontez vous en avez conçeu,  
 Croyez que jusqu'icy vous vous estes deçeu⁎,  
 Si c'est par des devoirs que vostre amour espere,  
@@ -2146,7 +2146,7 @@ En me parlant pour luy comme il parle pour vous.
 Phalante, ah ! le perfide.  
 
     HELENE.
-Evitez ma cholere,  
+        Evitez ma cholere,  
 Et si vostre fureur vous porte à luy déplaire,  
 Sçachez que je l'appuye, et que j'ay le pouvoir  
 De punir un subjet qui sort de son devoir.  < Fin du Troisiesme Acte. >
@@ -2239,10 +2239,10 @@ Je vous veux advertir de la haute insolence
 De vostre Philoxene.  
 
     TIMANDRE.
-O Dieux !  
+    O Dieux !  
 
     HELENE.
-Son imprudence  
+        Son imprudence  
 N'a pas craint aujourd'huy de me desobliger :  
 Mais sans vostre respect je m'en sçaurois vanger.  
 C'est vous seul que j'estime et que je considere,  
@@ -2342,37 +2342,37 @@ PHALANTE, ARBANTE, PHILOXENE.
 Laissez-moy seul, Arbante !  
 
     PHILOXENE.
-O grands Dieux je le voy.  
+        O grands Dieux je le voy.  
 
     ARBANTE.
 Je vous suivray, Seigneur.  
 
     PHALANTE.
-Arbante laisse moy.  
+        Arbante laisse moy.  
 
     PHILOXENE.
 Il faut mourir perfide.  
 
     PHALANTE.
-O Dieux !  
+    O Dieux !  
 
-    PHILOXENE. 
-Deffends toy traistre,  
+    PHILOXENE.
+        Deffends toy traistre,  
 Cette confusion que tu me fais paroistre,  
 Est un effet leger du remords que tu sens,  
 Mais il en faut mourir.  
 
     PHALANTE.
-Estes-vous hors du sens⁎  
+        Estes-vous hors du sens⁎  
 Amy ?  
 
     PHILOXENE.
-Quitte ce nom que ton crime viole,  
+        Quitte ce nom que ton crime viole,  
 Homme sans cœur, sans foy, sans honneur⁎, sans parole,  
 Ce nom ne t'est plus deu.  
 
     PHALANTE.
-Bons Dieux ! je suis confus,  
+        Bons Dieux ! je suis confus,  
 Philoxene, deux mots, ne me cognois-tu plus ?  
 
     PHILOXENE.
@@ -2380,7 +2380,7 @@ Ouy je te cognois trop, et cette cognoissance
 Arme ce bras vangeur.  
 
     PHALANTE.
-Contre mon innocence.  
+        Contre mon innocence.  
 
     PHILOXENE.
 Ton innocence traistre, ah ! c'est estre innocent,  
@@ -2429,7 +2429,7 @@ Tu t'acquitois, ingrat, en m'enlevant Helene,
 Et portant mille morts  
 
     PHALANTE.
-C'est assez Philoxene,  
+        C'est assez Philoxene,  
 Je t'entends, mais les Dieux, juges de tous mes soins⁎,  
 Sont de mon proceder [126] veritables tesmoins :  
 Que leur courroux éclate, et que d'un coup de foudre⁎  
@@ -2439,7 +2439,7 @@ Avec plus de franchise et plus d'affection⁎
 Que jamais un amy.  
 
     PHILOXENE.
-Je n'en suis plus en doute,  
+        Je n'en suis plus en doute,  
 Cherche pour t'excuser un autre qui t'écoute,  
 Deffends-toy seulement : quoy tu manques de cœur ?  
 Ah ! lasche deffends-toy, je te perdray d'honneur⁎,  
@@ -2447,7 +2447,7 @@ Et faisant à ta gloire⁎ une eternelle tache,
 Je publiray par tout  
 
     PHALANTE.
-Ah ! je ne suis point lâche,  
+        Ah ! je ne suis point lâche,  
 Tu le sçais Piloxene, et tu m'as veu souvent  
 Dans⁎ de plus grands perils engagé trop avant,  
 Pour conserver de moy cette indigne créance [127].  
@@ -2491,7 +2491,7 @@ Et suit de sa fureur l'aveugle mouvement :
 O jeune homme insensé !  
 
     CLEOMEDE.
-Courons-y promptement,  
+        Courons-y promptement,  
 Icy la diligence est assez importante,  
 Arbante en quel endroit as-tu laissé Phalante ?  
 
@@ -2505,18 +2505,18 @@ J'ay bien veu Philoxene approcher de mon maistre.
 N'as-tu rien entendu ?  
 
     ARBANTE.
-J'estois trop esloigné,  
+        J'estois trop esloigné,  
 Et mon maistre en partant ne m'a rien témoigné,  
 Qui me fist redouter de les laisser ensemble,  
 Estant si bons amis, je croyois  
 
     TIMANDRE.
-Dieux je tremble !  
+        Dieux je tremble !  
 Courons, ah ! que je crains que ce ne soit trop tard,  
 Grands Dieux ! guidez mes pas.  
 
     CLEOMEDE.
-Courez d'une autre part.  
+        Courez d'une autre part.  
 
 
 ### SCENE VI.
@@ -2531,7 +2531,7 @@ Et leur courroux enfin punit une ame ingrate,
 Philoxene.  
 
     PHILOXENE.
-Je meurs, et ma temerité  
+        Je meurs, et ma temerité  
 Reçoit enfin le prix qu'elle avoit merité,  
 Je meurs, mais d'une mort qui n'est pas assez rude  
 Pour punir cest ingrat de son ingratitude.  
@@ -2542,7 +2542,7 @@ Et toy seul transporté⁎ d'un trop boüillant courroux,
 Mesprisant une espée à son maistre infidelle,  
 Tu t'es precipité dans sa pointe mortelle.  
 
-    PHILOXENE. 
+    PHILOXENE.
 Phalante, les Dieux seuls m'ont mis en cet estat,  
 Mais si tu peux encore escouter un ingrat,  
 Et si le souvenir d'une amitié⁎ passée  
@@ -2612,7 +2612,7 @@ ARBANTE, CLEOMEDE, TIMANDRE, PHALANTE, PHILOXENE.
 Nous arrivons trop tard.  
 
     CLEOMEDE.
-Dieux, le triste spectacle !  
+        Dieux, le triste spectacle !  
 
     TIMANDRE.
 Acheve, acheve ingrat, apres ta trahison,  
@@ -2620,7 +2620,7 @@ Et te soüille du sang de toute ma maison,
 Meurs ou me fais mourir.  
 
     PHALANTE.
-Il est juste Timandre.  
+        Il est juste Timandre.  
 Voicy, voicy le sang que vous devez répandre,  
 Je suis ce desloyal, ce cruel, cet ingrat,  
 Qui survis laschement à cet assassinat,  
@@ -2633,28 +2633,28 @@ Pourquoy retenés-vous les mouvemens d'un pere.
 Retirés-vous Arbante.  
 
     PHILOXENE.
-Ah ! mon pere, deux mots,  
+        Ah ! mon pere, deux mots,  
 Et si vous desirés que je meure en repos,  
 Ayez plus de respect pour un autre moy-mesme,  
 Traictés mieux mon amy.  
 
     TIMANDRE.
-Quoy, tu veux que je l'ayme,  
+        Quoy, tu veux que je l'ayme,  
 Celuy qui de ton sang rougit indignement,  
 Ce meurtrier de mon fils [129].  
 
     PHILOXENE.
-Ah ! je meurs doublement.  
+        Ah ! je meurs doublement.  
 
     TIMANDRE.
 Ce monstre, ce cruel.  
 
     PHALANTE.
-Encore plus Timandre,  
+        Encore plus Timandre,  
 Ce traistre, ce bourreau.  
 
     PHILOXENE.
-Me voulez-vous entendre  
+        Me voulez-vous entendre  
 Mon Pere ? par ce nom et si cher et si doux,  
 Par la clarté du jour que je receus de vous,  
 Et qui dans un moment me doit estre ravie  
@@ -2663,11 +2663,11 @@ Aymés, aymés Phalante, autant ou plus que moy,
 C'est un amy sans tache.  
 
     PHALANTE.
-Il t'a manqué de foy,  
+        Il t'a manqué de foy,  
 T'a trahy, t'a tué.  
 
     PHILOXENE.
-Ce desespoir m'offence.  
+        Ce desespoir m'offence.  
 
     PHALANTE.
 Non, non, si ce discours retarde sa vangeance,  
@@ -2688,7 +2688,7 @@ Emportons-le chez vous, il peut encor guerir.
 Arbante assistez nous.  
 
     PHALANTE.
-O pitoyable office⁎,  
+        O pitoyable office⁎,  
 Helas avec quel cœur te rends-je ce service !  
 Cher et noble fardeau d'un mal-heureux amy  
 Dans⁎ ce reste d'espoir dois-je vivre à demy ?  
@@ -2815,7 +2815,7 @@ Il parle de la Reyne, ô Dieux changez ce cœur !
 Aminte quel dessein.  
 
     AMINTE.
-Vous me voyez Seigneur  
+        Vous me voyez Seigneur  
 Par le commandement d'une Reyne affligée.  
 
     PHALANTE.
@@ -2881,7 +2881,7 @@ Peut estre ce poison n'est pas si violent
 Qu'on n'y puisse apporter  
 
     HELENE.
-Helas ! il est trop lent,  
+        Helas ! il est trop lent,  
 Et le cruel servant mon ingrate fortune⁎,  
 Laisse par trop durer une vie importune⁎ :  
 Mais bien qu'il soit si lent à servir ma douleur,  
@@ -2935,15 +2935,15 @@ PHALANTE, HELENE, ARBANTE, CLEONE, ARATE, CLEOMEDE, AMINTE.
 Quel estrange⁎ spectacle ? [135]  
 
     CLEONE.
-Ah ! je meurs.  
+    Ah ! je meurs.  
 
     CLEOMEDE.
-Ah ! Madame,  
+        Ah ! Madame,  
 Vous pouvés-vous resoudre à nous quitter ainsi ?  
 Eh bien, nous vous suivrons.  
 
     HELENE.
-O grands Dieux le voicy.  
+        O grands Dieux le voicy.  
 Ah ! le cruel, mon cœur fremit à ceste veuë,  
 Et d'un object si cher mon ame retenuë,  
 Bien que cet inhumain la presse de partir,  
@@ -3073,11 +3073,11 @@ O reparation qui n'est plus legitime,
 Ah ! Phalante.  
 
     ARBANTE.
-Ah ! mon Maistre, ô malheur de mes jours !  
+        Ah ! mon Maistre, ô malheur de mes jours !  
 Helas ! assistés-moy.  
 
     PHALANTE.
-J'abhorre ton secours.  
+        J'abhorre ton secours.  
 
     HELENE.
 Ah ! cruel à moy seule, et non pas à toy-mesme,  
@@ -3095,7 +3095,7 @@ Cherche toy la, cruel, et previen⁎ [138] le poison,
 Il est lasche, il est lent, suppleons,  
 
     PHALANTE.
-Ah ! Madame,  
+        Ah ! Madame,  
 De grace en ce moment où je vous rends une ame  
 Toute pleine de zele et d'amour et de foy,  
 Ne me condamnez point, je fay ce que je doy,  
@@ -3106,13 +3106,13 @@ Je ne puis en mourant les payer qu'à demy.
 Je perds la voix, adieu recevez  
 
     HELENE.
-Ah ! Phalante.  
+        Ah ! Phalante.  
 
     ARBANTE.
 Ah ! Seigneur.  
 
     HELENE.
-Il est mort, et moy je suis vivante.  
+        Il est mort, et moy je suis vivante.  
 Et l'effort du poison est si foible et si lent,  
 Pour me faire mourir d'un coup plus violent,  
 Bien que par ton moyen ma mort soit asseurée,  

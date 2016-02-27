@@ -1,5 +1,5 @@
 ---
-identifier: discret_noces  
+identifier: discret_noces-vaugirard  
 creator: Discret, L. C.  
 date: 1638  
 title: Les Noces de Vaugirard, ou Les Naifvetez champestres. Pastorale  
@@ -296,10 +296,10 @@ Commis pour enlever ma femme nuictament :
 ...  
 Où est ce Polydas,  
 ...  
-             Il vous a emmenee,            1665  
+            Il vous a emmenee,            1665  
 Et Amarille aussi,  
 LIDIANE.  
-         Rien moins, croyez pasteur  
+        Rien moins, croyez pasteur  
 Que jamais Polydas ne fut d'un crime autheur.  
 
 La méconnaissance du suicide d'Amarille par les autres personnages, crée ainsi un *quiproquo* permettant de faire fonctionner les opposants du premier schéma dans le deuxième.
@@ -572,7 +572,7 @@ Vous entendrez mes sentimens.
  – LE GREFFIER DE VAUGIRARD.
  – LES DEPUTEZ DE VAUGIRARD.Un en trouppe.
  – L'OMBRE DU GRAND CASTRAPPEMagicien.
- – < LES               NOPCES DE VAUGIRARD. PASTORALLE. >
+ – 
 
 
 ## ACTE PREMIER.
@@ -585,7 +585,7 @@ PANCRACE, FLORIDON, POLYDAS, LIDIANE, AMARILLE, LUCIANE, PYSANDRE, CLEANIDE.
     PANCRACE.
 **E**n fin le juste Ciel par un sainct Hymenee,  
 De ma fille ce jour borne la destinee,  
-Luy donnant un Berger digne d'affection,                  
+Luy donnant un Berger digne d'affection,  
 Autant riche de biens que de perfection ;  
 Le plus sage & dispost⁎ de tout nostre vilage,  
 Et qu'on void [92] posseder le meilleur heritage :  
@@ -605,7 +605,7 @@ Ses brebis, son belier, ses chevres, & son chien,
 Il fait dancer un bransle⁎, une courante⁎, ou bien  
 Joüant de son pipeau de cent sortes d'aubades⁎  
 Il leur faict dans nos prez faire mille gambades :  
-Et puis quand il luy plaist, nos fillettes souvent                  
+Et puis quand il luy plaist, nos fillettes souvent  
 Feront voir en dançant le derriere & devant,  
 Par un charme⁎ qu'il fait, & bien d'autres merveilles,  
 Ma fille à son bon-heur n'aura point de pareilles :  
@@ -626,7 +626,7 @@ L'accord faict entre nous ne seroit point passé :
 Mais ma foy maintenant la beccace est bridee [94]  
 Encor que ce Berger vive dans son Idee,  
 Et que par un article escrit au compromis⁎,  
-Son Amoureux espoux ayt par sa foy promis,                  
+Son Amoureux espoux ayt par sa foy promis,  
 Que de six mois entiers du jour du mariage,  
 Il ne la pressera d'avoir son pucellage :  
 Ceste clause pourtant ne m'afflige qu'un peu,  
@@ -646,7 +646,7 @@ Son Berger est remply de si charmans⁎ appas
 Qu'il ne l'aura jamais deux seules fois baisee,  
 Que cet amoureux jeu ne la rende appaisee :  
 Quand on void de beaux fruicts on en voudroit gouster,  
-Je n'ay plus desormais dequoy me tourmenter                  
+Je n'ay plus desormais dequoy me tourmenter  
 Voicy le lieu public où Pysandre s'appreste  
 Pour se faire estimer le vallet de la feste,  
 La serviette en la main, le bouquet de muguet,  
@@ -670,7 +670,7 @@ Pendant que ces amans pensent à leur parer [97].
 ### SCENE DEUXIESME.
 
     FLORIDON.
-**R**Avy dans un bon-heur qui me suit à la piste,                  
+**R**Avy dans un bon-heur qui me suit à la piste,  
 Qui condamne ma peine & ma fortune assiste,  
 Qui me promet encor des plaisirs nompareils,  
 Que j'espere gouster entre les deux soleils  
@@ -686,7 +686,7 @@ Amarille est le bien que mon esprit desire,
 Amarille est le centre où ma fortune aspire.  
 Amarille en un mot, est tout ce que je veux [98]  
 Et son cœur & le mien n'en feront qu'un des deux  
-Que de contentement quand une flame⁎ egalle                  
+Que de contentement quand une flame⁎ egalle  
 Partage ses douceurs sur une amour loyalle,  
 Je pensois qu'à regret elle eust donné sa foy  
 Qu'un Berger incogneu qu'elle a veu depuis moy,  
@@ -711,7 +711,7 @@ Amour guide mes pas vers l'objet de mon bien.
 ### SCENE TROISIESME.
 
     POLYDAS.
-**B**Erger Infortuné Polydas miserable,                      
+**B**Erger Infortuné Polydas miserable,  
 Que la rage possede & le malheur accable,  
 Quel funeste demon glisse en ce lieu ses pas  
 Pour veoir devant tes yeux ravir d'entre tes bras  
@@ -728,7 +728,7 @@ Qu'avant le jour passé il n'auroit plus de vie,
 Mille coups de poignard par un pur assassin  
 Du traistre Floridon auroient percé le sein,  
 Pour tirer la raison d'un si fascheux outrage.  
-Mon courage assez grand peut faire davantage                  
+Mon courage assez grand peut faire davantage  
 Si ce n'estoit l'espoir que son affection  
 Tiendra ferme tousjours sa resolution,  
 Je rendrois tellement sa nopce malheureuse  
@@ -752,7 +752,7 @@ PANCRACE, POLYDAS, LIDIANE, FLORIDON, AMARILLE, LUCIANE, PYSANDRE, CLEANIDE.
 
 
     PANCRACE.
-**O**R sus⁎ mes bons amis que chacun prenne place,              
+**O**R sus⁎ mes bons amis que chacun prenne place,  
 Que l'on nous donne un bransle⁎ & que de bonne grace,  
 Les violons jouent un bransle pendant que Polydas parle & que les conviez dancent.
 
@@ -766,7 +766,7 @@ Pour les voir commencer, admirons donc leur pas,
 Je seray fort joyeux qu'ils ne me voient pas,  
 Dieux ! quelle est la beauté qui marche la seconde,  
 Il ne se peut rien voir de pareil en ce monde,  
-Confus en contemplant ses belles actions                  
+Confus en contemplant ses belles actions  
 Je demeure estonné de ses perfections,  
 Considerez un peu son port, sa bonne mine,  
 Vous jugerez qu'elle est quelque grace divine,  
@@ -794,7 +794,7 @@ Où cét amant transi vient il dresser ses pas,
 Il ne faudra que luy pour troubler nos esbas.  
 
     POLYDAS.
-Bergers permettez moy la faveur excellente,                  
+Bergers permettez moy la faveur excellente,  
 Qu'avec ceste beauté je dance une courante⁎.  
 
     PANCRACE.
@@ -822,7 +822,7 @@ Joint qu'il n'y en a point en ces nombres d'eslites
 Qui ne voulut ceder à vos rares merites.  
 
     LIDIANE.
-Beau Pasteur je n'ay pas assez de vanité                      
+Beau Pasteur je n'ay pas assez de vanité  
 Pour croire ce discours loin de la verité.  
 Ils dancent.
 
@@ -854,7 +854,7 @@ Ne veux-tu plus dancer dis-le moy librement,
 C'est le moindre soucy de mon contentement.  
 
     PYSANDRE *à CLEANIDE.*
-Quel heur⁎ ont ces Amans, est il pas vray ma Reine,              
+Quel heur⁎ ont ces Amans, est il pas vray ma Reine,  
 Nous voudrions [112] bien tous deux estre en la mesme peine.  
 
     CLEANIDE.
@@ -876,7 +876,7 @@ Il me souvient tousjours de ma deffuncte Alix,
 Dont le teint estoit peint de roses & de lys.  
 
     LUCIANE.
-Mocqueur en mon endroit vous n'avez bonne veuë              
+Mocqueur en mon endroit vous n'avez bonne veuë  
 
     PANCRACE.
 Ha quand j'y pense encor ce seul regret me tuë.  
@@ -896,7 +896,7 @@ O dieux que la vieillesse est d'une estrange humeur,
 Ma mere je vous suis,  
 
     POLYDAS.
-            Dieux que j'ay de mal'heur.  
+                    Dieux que j'ay de mal'heur.  
 
 
 ### SCENE CINQVIESME.
@@ -904,7 +904,7 @@ AMARILLE, POLYDAS,
 
 
     AMARILLE.
-**D**E la confusion maintenant delaissee,                      
+**D**E la confusion maintenant delaissee,  
 Je viens entretenir à loisir ma pensee,  
 Pendant que le festin rend nos amis contens,  
 Je me suis desrobee aux yeux des assistans,  
@@ -918,7 +918,7 @@ Que je puisse souffrir sans regret furieux [114]
 Qu'à un [115] autre qu'à moy tu faces les doux yeux :  
 Non perfide, non non, ne crois pas que mon ame  
 Pour aymer mon espoux puisse esteindre la flame⁎  
-Qui pour ton seul subject s'aluma dans mes os :                  
+Qui pour ton seul subject s'aluma dans mes os :  
 J'ay trop d'affection, j'ayme trop ton repos,  
 Jamais le changement ne blessa mon envie,  
 Et ne crains point encor ce reproche à ma vie,  
@@ -941,7 +941,7 @@ Parmy le bal, la dance, & les contentemens,
 Je pense avoir senty plus de mal en mon ame,  
 Que n'en ont enduré ny Paris, ny Pyrame [119],  
 J'ay tout seul suporté dedans ma passion,  
-Des tourmens plus cruels que n'endure Ixion,                  
+Des tourmens plus cruels que n'endure Ixion,  
 Me voyant engagé dans un respect de crainte,  
 Qu'aucun par un souspir ne cogneust ma contrainte.  
 Mais en fin desgagé de ce piege tendu,  
@@ -964,18 +964,18 @@ Tout beau, Berger, tout beau, vostre creance est vaine,
 Sachez que ce subjet nullement ne m'ameine.  
 
     POLYDAS.
-C'est donc quelque dessein qui est particulier,                  
+C'est donc quelque dessein qui est particulier,  
 
     AMARILLE.
 Rien moins.  
 
     POLYDAS.
-        N'as tu point peur que dedans un hallier⁎  
+                N'as tu point peur que dedans un hallier⁎  
 Quelqu'un se soit caché, qui cruel & prophane  
 T'enleve,  
 
     AMARILLE.
-Je n'ay pas les yeux de Lidiane.  
+        Je n'ay pas les yeux de Lidiane.  
 Pour rendre les Bergers amoureux de ma peau.  
 
     POLYDAS.
@@ -991,7 +991,7 @@ A la nopce a dancé la premiere courante⁎.
 
     POLYDAS.
 Quoy, ma Nymphe, est-ce moy que tu accuse ainsi ?  
-Ha ! Je sçay d'où peut naistre à present ton soucy ;              
+Ha ! Je sçay d'où peut naistre à present ton soucy ;  
 Confesse librement qu'un trait de jalousie  
 En me voyant dancer a ton ame saisie.  
 
@@ -1016,7 +1016,7 @@ N'embroüille ton esprit sur ce nom inutile,
 Car dessous celuy-là j'entendois Amarille :  
 Rasseure mon soucy, ton emulation⁎  
 C'est blesser le sainct nœud de nostre affection  
-Et si de mon costé telle faute est trop grande,                  
+Et si de mon costé telle faute est trop grande,  
 Ma Royne à deux genoux le pardon j'en demande.  
 
     AMARILLE.
@@ -1029,7 +1029,7 @@ Par moy la verité ce discours vous a faict.
 Je te pardonne donc.  
 
     POLYDAS.
-            Telle faute remise,  
+                    Telle faute remise,  
 La faveur d'un baiser me doibt estre permise,  
 
     AMARILLE.
@@ -1042,11 +1042,11 @@ J'aymerois mieux mourir que quelqu'un nous eust veu.
 A Dieu [123] je m'en retourne.  
 
     POLYDAS.
-                Adieu belle deesse.  
+                        Adieu belle deesse.  
 
     AMARILLE.
 Pensez de m'enlever suivant vostre promesse  
-Je vous garde six mois ma pure chasteté.                  
+Je vous garde six mois ma pure chasteté.  
 
     POLYDAS.
 Ce ne sera si tost que je l'ay souhaité,  
@@ -1069,14 +1069,14 @@ Que tu puisses empescher ton mary desormais
 De gouster les douceurs de l'amoureux martyre [124],  
 Tenant entre ses bras le subjet qu'il desire,  
 Joint que [125] sur ta beauté Lidiane a le pris,  
-Mais je veux retourner peur d'estre [126] encor surpris.              
+Mais je veux retourner peur d'estre [126] encor surpris.  
 Afin de remener [127] cette rare merveille,  
 Amour fais la moy veoir avant que je sommeille :  
 Favorise l'effet de mon contentement,  
 Et je te feray veoir que je suis vray amant.  
 
 
-## ACTE II.                            
+## ACTE II.
 LIDIANE, POLYDAS, PYSANDRE, CLEANIDE, AMARILLE, FLORIDON, PANCRACE, LUCIANE.
 
 
@@ -1089,7 +1089,7 @@ LIDIANE, POLYDAS.
 **Q**Ue celuy est heureux qui lors de sa naissance,  
 Perd aussy tost le jour qu'il en a cognoissance :  
 Il ne se void subjet aux rigueurs du destin ?  
-Et n'est point du malheur le renaissant butin,                  
+Et n'est point du malheur le renaissant butin,  
 Les disgraces d'amour à nous autres comunes,  
 Ne troublent son repos d'aucunes infortunes :  
 Jamais en son esprit il n'est inquiété  
@@ -1109,7 +1109,7 @@ Lors que je commençay de gouster le poison.
 Des douloureux regrets d'une fuite causee,  
 Par les guerriers exploits du Prince de Luzee [130] :  
 Et puis de temps en temps les plaintes, les douleurs,  
-Les disgraces, le mal, bref infinis malheurs,                  
+Les disgraces, le mal, bref infinis malheurs,  
 Compagnes en tous lieux m'ont suivis à la piste.  
 Mais laissons ce parler, il est un peu trop triste.  
 S'il falloit de mes maux reciter tout le cours,  
@@ -1129,7 +1129,7 @@ Et dans ses cheveux d'or s'enchaisnent tous mes sens.
 S'il est aussi constant comme il est agreable,  
 Certes en verité son corps est adorable :  
 Et je croiray plustost que ce soit quelque Dieu  
-En Berger deguisé, qu'un pasteur de ce lieu.                  
+En Berger deguisé, qu'un pasteur de ce lieu.  
 Toutes ses actions & sa docte eloquence,  
 Font veoir que d'un Pasteur il n'a point pris naissance :  
 Son port plus relevé que cette nation,  
@@ -1149,7 +1149,7 @@ Ce Phenix [134] des Amans qui s'achemine icy ?
     POLYDAS.
 Sans mentir tu dis vray ma Nimphe [135], le voicy  
 Tout prest de t'obeyr si tu le crois propice,  
-A te rendre aujourd'huy quelque courtois office⁎.              
+A te rendre aujourd'huy quelque courtois office⁎.  
 
     LIDIANE
 De si bonne façon vous sçavez obliger⁎,  
@@ -1175,7 +1175,7 @@ Que le moindre pasteur me voyant prend la fuitte.
 
     POLYDAS.
 Je ne m'estonne pas de sa fuitte, mon œil [136]  
-C'est qu'il craint de brusler aux rayons du Soleil,              
+C'est qu'il craint de brusler aux rayons du Soleil,  
 Mais moy comme celuy qui volle [137] avec prudence,  
 J'ose m'en approcher sans craindre leur puissance  
 
@@ -1202,7 +1202,7 @@ Si vous yeux absolus⁎ dessus mes volontez,
 Ne m'eussent commandè d'adorer vos beautez.  
 
     LIDIANE.
-Je me tiendray berger infiniment contente                  
+Je me tiendray berger infiniment contente  
 D'estre de vous vertus la tres-humble servante.  
 
     POLYDAS.
@@ -1226,13 +1226,13 @@ Amarille pourtant est bien aupres de vous,
 Je confesse en effect qu'avant qu'elle eust Espous,  
 Je l'aymois grandement, mais estant engagee  
 A l'aspect⁎ de vos yeux, mon amour s'est changee.  
-Toutesfois d'un seul poinct je vous veux [140] advertir,              
+Toutesfois d'un seul poinct je vous veux [140] advertir,  
 C'est que si quelquefois venant se divertir⁎,  
 Je tesmoignois encor quelqu'amitié pour elle,  
 Ce ne sera que feinte.  
 
     LIDIANE.
-            Ha c'est estre infidelle.  
+                    Ha c'est estre infidelle.  
 
     POLYDAS.
 Mais c'est pour prevenir la jalouse fureur,  
@@ -1250,11 +1250,11 @@ Envers vostre beauté que j'ayme plus que moy.
 Où en sont les tesmoins ?  
 
     POLYDAS.
-            Ces baisers plains de flame⁎,  
+                    Ces baisers plains de flame⁎,  
 Qui pour vostre subjet met en cendre mon ame.  
 
     LIDIANE.
-Gardez que quelque Argus voye la privauté                  
+Gardez que quelque Argus voye la privauté  
 Dont vous venez d'user envers ma chasteté,  
 Allons sous ces ormeaux nous asseoir un quart d'heure,  
 Pysandre ne sçauroit faire longue demeure.  
@@ -1273,7 +1273,7 @@ PYSANDRE, CLEANIDE, POLYDAS, AMARILLE, LIDIANE, FLORIDON
 Pendant que je diray mes belles amourettes :  
 Aux Echos qui souvent entendant mon tourment,  
 Me promettent tousjours quelque soulagement.  
-Ce qui faict que souvent leur antre je visite,                  
+Ce qui faict que souvent leur antre je visite,  
 L'amour à tout moment sans tresve m'y invite.  
                     *Echo*, viste
 Attend fille de l'air [142] je ne veux ton repos,  
@@ -1297,7 +1297,7 @@ Qu'en ce lieu desormais plus long temps je demeure
 Cette fascheuse Echo de l'un à l'autre bout,  
 Pour me desesperer me veut suivre par tout.  
                     par tout
-Si [143] n'en feras-tu rien car en changeant de place,              
+Si [143] n'en feras-tu rien car en changeant de place,  
 Je n'escouteray plus de ta voix la menace.  
                     menace.
 Je te conjure Echo par l'amoureux lien.  
@@ -1318,7 +1318,7 @@ Je me suis cette nuict advisé d'un bon tour,
 Pour baiser quelque fois cette petite bouche,  
 Qui ravit tous les cœur avant que l'on y touche  
 Qui paroist mille fois plus rouge que Corail,  
-Ceinte d'un marbre blanc plus luysant que l'esmail⁎,              
+Ceinte d'un marbre blanc plus luysant que l'esmail⁎,  
 O dieux que de plaisir ce dessein me prepare,  
 Voicy ce bel objet où nature s'esgare,  
 Dans l'admiration de ses charmans⁎ apas,  
@@ -1338,7 +1338,7 @@ Par le vent emportee à ses oreilles volle :
 Je n'ay sçeu plus matin delaisser le logis,  
 J'ay laissé mon mastin⁎ pour garder mes brebis,  
 Cependant que je viens pour faire une guirlande,  
-Que mon berger aura pourveu qu'il la demande.              
+Que mon berger aura pourveu qu'il la demande.  
 
     PYSANDRE.
 A l'aide, helas ! je meurs, ô secours ô secours !  
@@ -1347,13 +1347,13 @@ A l'aide, helas ! je meurs, ô secours ô secours !
 Pysandre qu'avez vous ?      
 
     PYSANDRE.
-            Je vais finir mes jours.  
+                    Je vais finir mes jours.  
 
     CLEANIDE.
 He Dieux dittes le moy [149].  
 
     PYSANDRE.
-             Sachez rare merveille,  
+                     Sachez rare merveille,  
 Qu'en passant dans ce pré une mauvaise abeille  
 M'a planté l'ayguillon sur la lévre [150], ha je meurs  
 Les violents efforts de ces aspres douleurs,  
@@ -1369,7 +1369,7 @@ Elle le baise à la bouche.
 
 
     PYSANDRE.
-            Pas encore mon ange,                  
+                    Pas encore mon ange,  
 Elle le baise encore.
 
 
@@ -1377,7 +1377,7 @@ Elle le baise encore.
 He bien es-tu guery ?  
 
     PYSANDRE.
-            Non encore un petit,  
+                    Non encore un petit,  
 Ce remede excellent me met en appetit⁎.  
 
     CLEANIDE.
@@ -1390,7 +1390,7 @@ Non je jure tes yeux [151] ma fidelle maistresse.
 J'en doubte fort pourtant.  
 
     PYSANDRE.
-            Ha que plustot la mort      
+                    Ha que plustot la mort      
 Sur ce corps innocent face un dernier effort.  
 
     CLEANIDE.
@@ -1402,10 +1402,10 @@ Pourquoy, si dans ta main tu tiens ma guerison,
 Me lairras [153] tu mourir contre toute raison ?  
 
     CLEANIDE.
-J'y adviseray⁎ lors,                              
+J'y adviseray⁎ lors,  
 
     PYSANDRE.
-            Tu serois inhumaine.  
+                    Tu serois inhumaine.  
 
     CLEANIDE.
 Ne parle plus Berger, car voicy dans la plaine  
@@ -1435,7 +1435,7 @@ Ravis de vostre veuë où loge le bon-heur,
 Pysandre et moy venons en rechercher l'honneur.  
 
     POLYDAS.
-C'est nous qui recevons cette faveur extreme,                  
+C'est nous qui recevons cette faveur extreme,  
 Et croirons vous servant jouïr d'un bien supreme.  
 
     PYSANDRE.
@@ -1465,13 +1465,13 @@ De passer gayement ce qui reste du jour.
 A quoy  
 
     CLEANIDE.
-    Dançons,                              
+        Dançons,  
 
     LIDIANE.
-            He bien.  
+                He bien.  
 
     POLYDAS.
-                Il fait bien chaud mamour⁎.  
+                        Il fait bien chaud mamour⁎.  
 
     LIDIANE,
 Joüons à quelque jeu remply de modestie⁎,  
@@ -1487,20 +1487,20 @@ Fait sans voir un jour⁎ que je ne sçaurois vivre.
 C'est trop nous obliger⁎,  
 
     CLEANIDE.
-            Pysandre invente un jeu.  
+                    Pysandre invente un jeu.  
 
     PYSANDRE.
 J'en sçay plus de deux cens, mais nous sommes trop peu.  
 J'ay dans ma pannetiere une chose opportune,  
 C'est un petit livret de la bonne fortune.  
-Si vous voulez sçavoir qui [159] vous arrivera,                  
+Si vous voulez sçavoir qui [159] vous arrivera,  
 Piquez & je suis seur qu'elle vous le dira.  
 
     AMARILLE.
 Vrayment nous le voulons,  
 
     PYSANDRE.
-                Prenez donc cette aiguille :  
+                        Prenez donc cette aiguille :  
 Pour veoir ce que dira cette inconstante fille,  
 Ce fut endimion [160] qui fit ce beau traitté,  
 Et tout ce qu'il predit ce trouve verité.  
@@ -1513,7 +1513,7 @@ Soit tout premierement d'avecque nous bannie.
 A quoy sert tout cela,  
 
     CLEANIDE.
-            C'est parler franchement,  
+                    C'est parler franchement,  
 
     PYSANDRE.
 Amarille tirez s'il vous plaist vistement.  
@@ -1533,7 +1533,7 @@ Dieux quel contentement, le bon trait que voilà.
 Sus Lidiane à vous,  
 
     AMARILLE.
-            Je ne croy point cela,  
+                    Je ne croy point cela,  
 
     LA FORTUNE *à Lidiane.*
 *Pour estre un petit trop* [164]*hardie*,  
@@ -1545,13 +1545,13 @@ Guerira vostre maladie.
 Ce parler [165] est obscur,  
 
     LIDIANE.
-            Je n'y adjouste foy :  
+                    Je n'y adjouste foy :  
 
     POLYDAS.
 Vous ne le devez pas,  
 
     CLEANIDE.
-            Pysandre c'est à moy.  
+                    Pysandre c'est à moy.  
 
     LA FORTUNE *à Cleanide.*
 Ne faites *point tant la farouche*,  
@@ -1563,13 +1563,13 @@ Que tous ceux de quelqu'autre bouche
 Cleanide est il vray ?  
 
     CLEANIDE.
-            Non, ne le croyez pas,  
+                    Non, ne le croyez pas,  
 
     PYSANDRE, 
 Je n'en veux point douter.  
 
     LIDIANE.
-            C'est à vous Polydas.  
+                    C'est à vous Polydas.  
 
     LA FORTUNE *à Polydas.*
 L'amour *qui captive vostre ame*,  
@@ -1581,7 +1581,7 @@ Irez jouër au trou Madame⁎.
 Ha voila le meilleur,  
 
     CLEANIDE.
-            Pysandre c'est à vous.  
+                    Pysandre c'est à vous.  
 
     AMARILLE.
 Quiconque ayt fait cela sans doubte il estoit fous.  
@@ -1603,22 +1603,22 @@ Defaisons nous de luy sans luy [166] faire paroistre
 Je prend ce soing tout seul,  
 
     FLORIDON.
-                Pasteurs n'en sçaurois-je estre ?  
+                        Pasteurs n'en sçaurois-je estre ?  
 
     PYSANDRE.
 Tres-volontiers Berger,  
 
     FLORIDON.
-             A quel jeu jouez vous ?  
+                     A quel jeu jouez vous ?  
 
     POLYDAS.
 A la cligne-mussette⁎,  
 
     FLORIDON.
-            Et qui l'est de vous tous,  
+                    Et qui l'est de vous tous,  
 
     AMARILLE.
-Nous allions commencer quand sortant [167] ce bocage⁎,              
+Nous allions commencer quand sortant [167] ce bocage⁎,  
 Je vous ay veu venir costoyant le village.  
 
     LIDIANE.
@@ -1627,16 +1627,16 @@ Pour ne point disputer sans refus clignera [168] :
 Prenez donc s'il vous plaist,  
 
     FLORIDON.
-                Est-ce toy Amarille,  
+                        Est-ce toy Amarille,  
 
     AMARILLE.
 Nenny⁎ vrayment,  
 
     FLORIDON.
-            Ny moy  
+                Ny moy  
 
     LIDIANE.
-                Qu'à prendre on soit habille,  
+                        Qu'à prendre on soit habille,  
 Or sus⁎ c'est Polydas allons viste cacher [169],  
 
     POLYDAS.
@@ -1646,21 +1646,21 @@ Ils se vont cacher.
 
 
     CLEANIDE.
-        Ouy.  
+            Ouy.  
 
     POLYDAS.
-            Ma foy si Floridon j'atrappe,  
-Croyez qu'il sera fort si des mains il m'eschappe                  
+                    Ma foy si Floridon j'atrappe,  
+Croyez qu'il sera fort si des mains il m'eschappe  
 
     AMARILLE.
 Viste sœurs sauvons nous,  
 
     POLYDAS.
-            Il vous est fort aysé :  
+                    Il vous est fort aysé :  
 Mais où est Floridon,  
 
     AMARILLE.
-            Dans un arbre creusé,  
+                    Dans un arbre creusé,  
 A douze pas d'icy vous le prendrez sans doute,  
 Il le va prendre.
 
@@ -1670,7 +1670,7 @@ Or sus⁎ vous voila pris clignez & sans veoir goutte
 Ainsi comme j'ay faict.  
 
     FLORIDON.
-             Berger c'est la raison,  
+                     Berger c'est la raison,  
 
     POLYDAS.
 Sus⁎ que chacun chez soy s'en aille en sa maison.  
@@ -1682,7 +1682,7 @@ Ils s'en vont & laissent Floridon seul.
 
 
     FLORIDON.
-Est-ce faict ? est-ce faict ? ô la plaisante histoire,                  
+Est-ce faict ? est-ce faict ? ô la plaisante histoire,  
 Laissons pour mieux courir ma houlette d'yvoire.  
                     Echo
 
@@ -1705,7 +1705,7 @@ Où je n'aye cherché, Adieu Bergers Adieu ?
 Leur voix de qui le son me frappe dans l'oreille  
 Me fait quasi doubter si je dors ou je veille.  
                     veille
-Se sauve qui voudra je luy donne pouvoir,                  
+Se sauve qui voudra je luy donne pouvoir,  
 Et tout presentement vous donne le bon-soir.  
                     bon-soir
 Que sert tant de discours telle feinte me lasse  
@@ -1727,7 +1727,7 @@ Ha que je suis fasché d'avoir tant arresté⁎
 Ils riront maintenant de ma simplicité⁎.  
 
 
-### SCENE TROISIESME.                 
+### SCENE TROISIESME.
 PANCRACE, LUCIANE.
 
 
@@ -1748,7 +1748,7 @@ Il accorde son tambour & sa fluste.
 
 Ha la douce harmonie ha je rendray Orphée [173],  
 D'Amphion [174] & de Pan la memoire estouffee.  
-Sus voila le Palais où mon beau Soleil dort                  
+Sus voila le Palais où mon beau Soleil dort  
 Allons le reveiller d'un musical accord :  
 Il me semble desja que je le voids paroistre,  
 Il ne faict jamais nuict où son bel œil peut estre.  
@@ -1771,7 +1771,7 @@ Il reconmance.
 He bien qu'en dittes vous,  
 
     LUCIANE.
-            Que vous me ravissez  
+                    Que vous me ravissez  
 Qu'on ne vous peut donner de loüanges assez  
 
     PANCRACE.
@@ -1782,7 +1782,7 @@ Que souvent desormais je face le semblable.
 J'aurois trop de regret de vous causer ce mal,  
 
     PANCRACE. 
-Au contraire ce bien n'en peut avoir d'esgal,                  
+Au contraire ce bien n'en peut avoir d'esgal,  
 Et pourveu qu'en effect ce passe-temps vous plaise,  
 Ce seul contentement rendra mon cœur trop aise :  
 Si vous ne l'obligez d'un heur⁎ particulier,  
@@ -1809,7 +1809,7 @@ Bonsoir ma Royne adieu ô celeste faveur,
 Allons plus à loisir admirer ta valleur.  
 
 
-## ACTE III.                    
+## ACTE III.
 POLYDAS, PYSANDRE, LUCIANE, PANCRACE, AMARILLE, FLORIDAN, LIDIANE.
 
 
@@ -1824,7 +1824,7 @@ Ne peut de son courroux donner aucune marque :
 Que par un coup mortel qui passe en un moment,  
 Mais celle de l'amour dure eternellement.  
 On souffre tous les jours mille mors inhumaines  
-Et si cét indiscret se mocque de nos peines,                  
+Et si cét indiscret se mocque de nos peines,  
 Depuis que de ce Dieu le mal contagieux,  
 Voyant une beauté penetra mes deux yeux :  
 Je crois avoir souffert des gesnes⁎ plus cruelles,  
@@ -1848,7 +1848,7 @@ De me faire recit de ton affection.
 
     POLYDAS.
 Ha c'est renouveller une sanglante playe  
-Dont l'horreur de penser tenseulement⁎ m'effraye              
+Dont l'horreur de penser tenseulement⁎ m'effraye  
 
     PYSANDRE.
 Celuy qui veut d'un mal tirer allegement,  
@@ -1881,7 +1881,7 @@ Ma langue ne peut pas dire ce que j'endure,
 Le respect quelquefois nous faict souffrir injure  
 
     POLYDAS, 
-Aux maux desesperez tous remedes sont vains                  
+Aux maux desesperez tous remedes sont vains  
 
     PYSANDRE.
 C'est effet de prudence aux esprits des humains,  
@@ -1909,7 +1909,7 @@ Retiroit sa clarté du sejour des humains,
 Les faisant de chez eux reprendre les chemins.  
 Et desja par nos champs une pasleur nocturne  
 Avoit fait desloger les oyseaux de saturne [178],  
-Dont le funeste chant ne s'entend que la nuict                  
+Dont le funeste chant ne s'entend que la nuict  
 Alors que le silence est esloigné du bruict :  
 Les petits passereaux de leur tendre gorgette,  
 De ma nimphe & de moy entonnoient la retraitte,  
@@ -1929,7 +1929,7 @@ Qui son proche voisin m'a recité ce faict,
 Donc je puis acuser la Lune du forfaict :  
 Car si elle eust permis sa lumiere eclypsee,  
 Comme au temps qu'un berger vivoit dans sa pensee.  
-Cette vieille Alecton [181] n'eust veu la privauté                  
+Cette vieille Alecton [181] n'eust veu la privauté  
 De laquelle j'eusé [182] envers cette beauté :  
 O astres inhumains pensant à ce dommage,  
 Je creve de dépit à peu que [183] je n'enrage :  
@@ -1953,7 +1953,7 @@ Ce m'est trop de faveur vous estes trop courtois,
 Ne faut importuner son amy tant de fois.  
 
     PYSANDRE
-Librement voulez vous luy mander⁎ quelque chose,              
+Librement voulez vous luy mander⁎ quelque chose,  
 
     POLYDAS.
 Ce petit mot d'escrit en tes mains je depose  
@@ -1971,7 +1971,7 @@ L'amour pour y aller me donnera des aisles,
 Amy fais qu'aujourd'huy j'en sache des nouvelles.  
 
 
-### SCENE DEUXIESME.                 
+### SCENE DEUXIESME.
 AMARILLE, FLORIDON.
 
 
@@ -1990,7 +1990,7 @@ He dieux seroit-il vray que leur ame traistresse,
 Se jouant de mon sort, se rit de ma simplesse⁎ :  
 Ha je ne le croy pas les sermens qu'il m'a fait,  
 Indubitablement seront mis en effet,  
-Ou bien le ciel rendroit le crime tollerable,                  
+Ou bien le ciel rendroit le crime tollerable,  
 Où va cét importun qui me rend miserable.  
 
     FLORIDON.
@@ -2023,7 +2023,7 @@ Plus vous le pressez & plus il durcira :
 Si ce n'est d'amitié vous y serez forcee,  
 
     AMARILLE. 
-La force & l'amitié n'ont rien sur ma pensee :                  
+La force & l'amitié n'ont rien sur ma pensee :  
 
     FLORIDON.
 As-tu quelque subjet de me traitter ainsi,  
@@ -2056,7 +2056,7 @@ C'est recognoistre mal les services rendus,
 Si tu meurs aujourd'huy je t'en rend deus fois plus :  
 
     FLORIDON.
-Seroit donc de regret de servir une ingratte,                  
+Seroit donc de regret de servir une ingratte,  
 
     AMARILLE.
 Je meure, j'ay regret qu'un sot espoir te flatte :  
@@ -2089,7 +2089,7 @@ Aimer sans estre aymé tesmoigne une folie.
 Par la mesme raison nous sommes foux tous deux,  
 
     AMARILLE.
-Si j'ayme Polydas il m'aime encore mieux.                  
+Si j'ayme Polydas il m'aime encore mieux.  
 
     FLORIDON.
 Comme quoy [188] penses-tu qu'il cherisse ta flame⁎ ?  
@@ -2122,7 +2122,7 @@ Muets tu ne craindras qu'ils troublent ton silence
 Tu devines vrayment aussi bien que je pense.  
 
     FLORIDON.
-Dits donc que les oyseaux te diront mes amours                  
+Dits donc que les oyseaux te diront mes amours  
 
     AMARILLE.
 Dit plutost qu'ils riront oyants⁎ tes sots discours.  
@@ -2155,7 +2155,7 @@ Tu le peux si tu veux je ne t'en ay prié [189].
 Nostre Hymen a rendu nos cœurs inseparables  
 
     AMARILLE.
-Je sçay bien que le mien fuit de loin tes semblables.              
+Je sçay bien que le mien fuit de loin tes semblables.  
 
     FLORIDON.
 Telle haine tousjours ne sçauroit pas durer,  
@@ -2188,7 +2188,7 @@ Je n'auray donc si tost le fruict de mon amour,
 Alors que nous verrons le soleil sans le jour :  
 
     FLORIDON.
-Vrayment je m'en plaindray tantost à vostre pere,              
+Vrayment je m'en plaindray tantost à vostre pere,  
 
     AMARILLE.
 Tant plus on m'importune & plus je suis severe.  
@@ -2209,7 +2209,7 @@ Peut estre que le Ciel adoucira mes maux.
 Lors qu'il contemplera avec quelle constance,  
 Suportant mes ennuis⁎ je luy fais resistance :  
 Je veux tous les malheurs rendre à la fin lassez,  
-D'avoir dessus mon chef tant de tourmens versez :              
+D'avoir dessus mon chef tant de tourmens versez :  
 Celuy qui patient souffre de l'injustice,  
 Force son ennemy à luy estre propice.  
 
@@ -2228,7 +2228,7 @@ Des points de quoy l'honneur peut du blasme encourir :
 A l'aage de vingt ans nulle, d'esprit parfaitte,  
 N'eust sceut dire comment elle avoit esté faitte.  
 L'amour ne les troubloit en leur contentement  
-Ne sachant que [193] c'estoit d'amante ny d'amant,                  
+Ne sachant que [193] c'estoit d'amante ny d'amant,  
 Mais helas maintenant on fait gloire du vice,  
 Une fille à douze ans sçait autant de malice  
 Que celle qui jamais n'a fait d'autre mestier,  
@@ -2251,7 +2251,7 @@ On est impatient d'avoir ce qu'on desire,
 
     LUCIANE.
 Vous estes un railleur, vraiment vous voulez rire,  
-C'est bien me consoler sur ce fait important,                  
+C'est bien me consoler sur ce fait important,  
 
     PANCRACE.
 Vous en avez bien fait autrefois tout autant.  
@@ -2273,7 +2273,7 @@ Ha ha malicieux, vous sçavez des nouvelles
 Autant que la Gazette [197] :  
 
     PANCRACE.
-            O la Royne des belles,  
+                    O la Royne des belles,  
 Quand je vois de vos yeux les ravissans attraits  
 Je vois de ma moitié vivre en vous les portraits  
 
@@ -2281,7 +2281,7 @@ Je vois de ma moitié vivre en vous les portraits
 A d'autre à d'autre, amy,  
 
     PANCRACE.
-            Faschez vous, soyez aise,              
+                    Faschez vous, soyez aise,  
 Si faut-il toutesfois que ma bouche vous baise.  
 
     LUCIANE.
@@ -2295,7 +2295,7 @@ Ha ne me faittes point revivre sa memoire
 Vous me ferez pleurer.  
 
     PANCRACE.
-            Si vous me voulez croire,  
+                    Si vous me voulez croire,  
 Pour achever contans le reste de nos jours,  
 Nous ferons un Hymen de nos vieilles amours  
 
@@ -2303,7 +2303,7 @@ Nous ferons un Hymen de nos vieilles amours
 Dieux de quoy parlez vous.  
 
     PANCRACE.
-            Que j'ay beaucoup de force,  
+                    Que j'ay beaucoup de force,  
 Et qu'encore au fusil se trouve de l'amorce.  
 
     LUCIANE.
@@ -2311,14 +2311,14 @@ Quand le pot est couvert c'est signe, ce dit-on,
 Que le feu en est loing & la chair se morfond.  
 
     PANCRACE.
-Ma callote⁎ vous fait parler de telle sorte [199],                  
+Ma callote⁎ vous fait parler de telle sorte [199],  
 Mais chacun [200] jeune foux par bienseance en porte :  
 
     LUCIANE.
 Vous vous riez tousjours,  
 
     PANCRACE.
-            Mignonne croyez moy,  
+                    Mignonne croyez moy,  
 Sur toutes les beautez je vous ayme, ma foy :  
 
     LUCIANE.
@@ -2338,21 +2338,21 @@ Se laissant suborner⁎ d'une jeune cervelle,
 De lignage incogneu.  
 
     PANCRACE.
-            Dittes comme il s'appelle :  
-J'ay un ardent desir de courir de ce pas                      
+                    Dittes comme il s'appelle :  
+J'ay un ardent desir de courir de ce pas  
 L'assommer tout d'un coup,  
 
     LUCIANE.
-                Le voicy  
+                    Le voicy  
 
     PANCRACE.
-                    Parlons bas.  
+                            Parlons bas.  
 
     LUCIANE.
 Vous estes trop hardy,  
 
     PANCRACE.
-            Quoy ? c'est ce jeune drolle,  
+                    Quoy ? c'est ce jeune drolle,  
 Qui nos filles cajolle & tout chacun controlle :  
 Je le veux envoyer là bas faire l'amour.  
 
@@ -2360,7 +2360,7 @@ Je le veux envoyer là bas faire l'amour.
 Tout beau [201] ce n'est pas luy,  
 
     PANCRACE.
-                C'est Pysandre, m'amour⁎,  
+                        C'est Pysandre, m'amour⁎,  
 Avant qu'il soit icy regaignons le village  
 Une collation de fruicts & de laitage⁎ :  
 Nous attend au logis, hastons nous d'y aller.  
@@ -2369,10 +2369,10 @@ Nous attend au logis, hastons nous d'y aller.
 Je reçois trop d'honneur,  
 
     PANCRACE.
-            Il n'en faut point parler  
+                    Il n'en faut point parler  
 
 
-### SCENE QUATRIESME.                 
+### SCENE QUATRIESME.
 PYSANDRE, LIDIANE.
 
 
@@ -2391,17 +2391,17 @@ Hazard⁎, j'ay prou⁎ d'esprit pour sçavoir deguiser,
 Et discourant de loin sa prunelle abuser :  
 Je veux tout doucement du pied frapper la porte  
 Je n'oserois quasi, toutefois, il n'importe :  
-Puisque de ce dessein nul ne se doute pas,                  
+Puisque de ce dessein nul ne se doute pas,  
 Holla ho.  
 
     LIDIANE *à la fenestre.*
-On y va, parlez qui est là bas ?  
+        On y va, parlez qui est là bas ?  
 
     PYSANDRE.
 Pysandre,  
 
     LIDIANE.
-Excusez-moy, car de peur que je sorte  
+        Excusez-moy, car de peur que je sorte  
 Ma mere a emporté la clef de nostre porte.  
 
     PYSANDRE.
@@ -2420,15 +2420,15 @@ Le ciel puisse punir telle inhumanité :
 Cousin le cœur me fend,  
 
     PYSANDRE.
-            N'y pense plus cousine,  
-Le berger Polydas :                              
+                    N'y pense plus cousine,  
+Le berger Polydas :  
 
     LIDIANE.
-        Gardez que la voisine :  
+                Gardez que la voisine :  
 N'entende vos discours,  
 
     PYSANDRE.
-            Réçois donc cet escript,  
+                    Réçois donc cet escript,  
 Il luy [202] jette.
 
 Pour veoir en quel estat j'ay laissé son esprit :  
@@ -2451,7 +2451,7 @@ Nous ne soyons ouis de quelques medisans :
 Jugez si je vous puis servir en quelque chose,  
 
     LIDIANE
-Pysandre entre vos mains mon honneur je depose :              
+Pysandre entre vos mains mon honneur je depose :  
 Que le Ciel puisse un jour faire naistre un subjet,  
 De vous pouvoir servir en quelque bon projet :  
 Pysandre sort.
@@ -2473,14 +2473,14 @@ Que vous prenez pour luy, car je jure ma foy [205] :
 Qu'un si riche festin meritoit mieux que moy.  
 
     PANCRACE.
-Ha ne vous mocquez point j'ay assez de courage,              
+Ha ne vous mocquez point j'ay assez de courage,  
 Pour à vostre subject faire encor d'avantage.  
 
     LUCIANE.
 Vrayment vous ne sçauriez,  
 
     PANCRACE.
-                Excusez seulement,  
+                        Excusez seulement,  
 Si je ne vous ay faict un meilleur traittement.  
 Mais quoy le bon accueil passe la bonne chere,  
 Cette collation estoit un peu legere :  
@@ -2493,14 +2493,14 @@ Tenez moy, s'il vous plaist en vostre bonne grace.
 Adieu jusqu'au revoir,  
 
     PANCRACE.
-            Je vous veux remener  
+                    Je vous veux remener  
 Polydas & Pysandre paressent à un bout du théâtre sans veoir Pancrace & Luciane.
 
 Mais qui sont ces bergers que je vois cheminer  
 Là bas dedans ce pré proche de ces logettes⁎.  
 
     LUCIANE.
-Attendez, s'il vous plaist que j'aye mes lunettes                  
+Attendez, s'il vous plaist que j'aye mes lunettes  
 C'est ce jeune galland qui sçait si bien baiser.  
 
     PANCRACE.
@@ -2526,16 +2526,16 @@ Joint que de vous servir c'est mon plus grand honneur.
 Fidelle confident de mes amours secrettes,  
 
     PANCRACE.
-Venez-ça venez-ça beau baiseur de fillettes.                  
+Venez-ça venez-ça beau baiseur de fillettes.  
 
     POLYDAS.
 Est-ce à moy que l'on parle ?  
 
     LUCIANE.
-                Ouy.  
+                    Ouy.  
 
     POLYDAS.
-                    Vous vous méprenez,  
+                            Vous vous méprenez,  
 Pancrace & Luciane à d'autres cheminez,  
 
     LUCIANE.
@@ -2546,11 +2546,11 @@ Ce fut vous qui baisa ma fille dans la ruë.
 Il est vray sur ma foy,  
 
     POLYDAS.
-            Ha vous m'importunez,  
+                    Ha vous m'importunez,  
 Passez vostre chemin,  
 
     PANCRACE.
-            Vous m'avez sur le nez [206],  
+                    Vous m'avez sur le nez [206],  
 S'il vous arrive plus de baiser Lidiane.  
 
     POLYDAS.
@@ -2558,7 +2558,7 @@ Je ne vous crains non plus que je faits Luciane.
 Vous estes un bel homme.  
 
     PANCRACE.
-                Ha, ne m'offences pas,              
+                        Ha, ne m'offences pas,  
 Que tout presentement tu n'ayes le trépas.  
 
     POLYDAS.
@@ -2581,22 +2581,22 @@ Car tu n'as pas vaillant seulement deux brebis.
 Pour tel que je puis estre,  
 
     PANCRACE.
-            Il a raison je jure,  
+                    Il a raison je jure,  
 Champignon d'une nuict il vint à l'advanture :  
 
     POLYDAS. 
-J'ay plus dans ce pais que vous n'aurez jamais,                  
+J'ay plus dans ce pais que vous n'aurez jamais,  
 
     PANCRACE.
 Telle rodomontade [207] est l'espoir d'un niais :  
 O le grand amballeur⁎ !  
 
     LUCIANE.
-            Dieu n'y prenez pas garde,  
+                    Dieu n'y prenez pas garde,  
 C'est un jeune éventé,  
 
     PANCRACE.
-             Où est ma hallebarde⁎ ?  
+                     Où est ma hallebarde⁎ ?  
 Je mettrois tout d'un coup sa teste par morceaux.  
 
     POLYDAS.
@@ -2606,16 +2606,16 @@ Ce seroit un beau coup pour assommer des veaux,
 Qui te ressembleroient,  
 
     POLYDAS.
-            Regardez ce vieil singe,  
+                    Regardez ce vieil singe,  
 Il fait tant le vaillant & plus foible qu'un linge  
 Ne se peut soustenir,  
 
     PANCRACE.
-            Tu te trompe bien fort,  
+                    Tu te trompe bien fort,  
 J'ay assez de vigueur pour te donner la mort.  
 
     POLYDAS.
-O le grand champion, dieux comme il s'esvertuë              
+O le grand champion, dieux comme il s'esvertuë  
 
     PANCRACE.
 Mon amour tenez moy de peur que je le tuë :  
@@ -2644,10 +2644,10 @@ Pour prouver sa valeur voila un bon tesmoing.
 Pysandre qu'en dis-tu,  
 
     PYSANDRE.
-            Certes je meurs de rire,  
+                    Certes je meurs de rire,  
 
     LUCIANE.
-Pancrace allons nous-en, à quoy sert de tant dire ?               
+Pancrace allons nous-en, à quoy sert de tant dire ?  
 
     POLYDAS.
 Cela fait voirement [208] eschauffer le cerveau.  
@@ -2661,7 +2661,7 @@ Je vous prie marchons, j'ay laissé Lidiane
 Toute seule au logis,  
 
     POLYDAS.
-            Adieu vieil escargot,  
+                    Adieu vieil escargot,  
 Compagnon de Silene [209], engence⁎ de Magot.  
 
     PANCRACE.
@@ -2680,7 +2680,7 @@ Je n'y failliray pas, & cependant adieu,
     PANCRACE *seul une halebarde à la main.*
 Il revient
 
-**Q**Ue sont-ils devenus ? certes ils n'avoient garde,              
+**Q**Ue sont-ils devenus ? certes ils n'avoient garde,  
 De m'attendre au retour, j'eusse donné nazarde⁎,  
 A ce fol indiscret, qui presume estre tel  
 Que pour le pouvoir vaincre il faut un immortel,  
@@ -2698,7 +2698,7 @@ Or sus⁎ le jour s'en va, moy je m'en vais aussi,
 Jupin⁎, l'Amour, & Pan, prennent de moy soucy.  
 
 
-## ACTE IV.                    
+## ACTE IV.
 POLYDAS, LUCIANE, PANCRACE, PYSANDRE, LIDIANE, AMARILLE, CLEANIDE, FLORIDON.
 
 
@@ -2710,7 +2710,7 @@ POLYDAS, LUCIANE, PANCRACE, PYSANDRE, LIDIANE, AMARILLE, CLEANIDE, FLORIDON.
 Qui bornez leurs desirs d'une gloire durable :  
 Et pour les asseurer dans leur contentement,  
 Faittes cacher du ciel le plus bel ornement.  
-Si jamais amoureux eust besoin de vostre ayde                  
+Si jamais amoureux eust besoin de vostre ayde  
 C'est moy qui dans vos bras va chercher son remede :  
 C'est moy dont le dessein ne peut estre caché,  
 Si du sommeil glissant chacun n'est attaché :  
@@ -2730,7 +2730,7 @@ Si je reçois faveur de ta bonne assistance,
 Ce Dieu t'en donnera la juste recompence :  
 Puisque de ses subjets portant tiltre d'amant,  
 Jamais nul comme moy n'aymast si constamment.  
-Puissantes deitez qui sçavez ma detresse,                  
+Puissantes deitez qui sçavez ma detresse,  
 Courtois permettez moy d'enlever ma maistresse,  
 Vous sçavez le dessein que j'ay fait depuis peu  
 De mettre cette nuict dans son logis le feu :  
@@ -2750,7 +2750,7 @@ Prenant l'occasion ferme [212] au poil inconstant,
 J'iray ma Lidiane enlever à l'instant.  
 
 
-### SCENE DEUXSIEME.                 
+### SCENE DEUXSIEME.
 LUCIANE. PANCRACE. PYSANDRE Trouppe de Pafteurs.
 
 
@@ -2762,13 +2762,13 @@ O bons Dieux ! c'est ceans⁎, à l'aide mes amis.
 O feu, ô feu, [213]  
 
     PANCRACE *nud en chemife avec une lanterne.*
-        Où est-ce ?  
+            Où est-ce ?  
 
     PYSANDRE.
-             Où est-ce ?  
+                 Où est-ce ?  
 
     PANCRACE.
-                    Patience,  
+                            Patience,  
 Ils viennent en chemise avec des lanternes & des sceaux.
 
 Que d'aporter de l'eau l'on face diligence⁎ :  
@@ -2776,7 +2776,7 @@ La grange & le fourny⁎ de Luciane en feu
 Veut que par charité vous l'assistiez un peu.  
 
     PYSANDRE. 
-Ouy da⁎, tres-volontiers sus Passeurs sans rien craindre,              
+Ouy da⁎, tres-volontiers sus Passeurs sans rien craindre,  
 Courrons querir de l'eau pour promptement l'esteindre.  
 
     LUCIANE.
@@ -2802,7 +2802,7 @@ Non non il faut entrer, car Lidiane est preste :
 Ils entre & l'emmeine.
 
 Allons chaste Cipris [215] mon soulas⁎ mon soucy,  
-Un basteau nous attend à quatre pas d'icy.                  
+Un basteau nous attend à quatre pas d'icy.  
 
     LIDIANE.
 Las⁎ fidelle pasteur hastons nostre voyage,  
@@ -2815,7 +2815,7 @@ Je m'en vais le lascher, & l'aurore venue,
 Nous serons esloignez,  
 
     LIDIANE.
-            Dieux ! la corde est rompue :  
+                    Dieux ! la corde est rompue :  
 La corde rompt & le basteau emmeine Lidiane & laisse Polydas seul.
 
 Polydas au secours, viste prestez la main  
@@ -2828,7 +2828,7 @@ Souvenez vous tousjours de nostre unique flame⁎,
 Et que mon souvenir touche souvent vostre ame.  
 
     POLYDAS.
-Attend chere moitié je vais courir apres,                      
+Attend chere moitié je vais courir apres,  
 Ha ciel pas un basteau ne se monstre icy pres,  
 Cette rive parest en estre despourvue,  
 Ou bien l'obscurité les cachent [217] à ma veue :  
@@ -2847,7 +2847,7 @@ Et veoir si quelque Dieu luy sera favorable :
 Non, sourds vous avez tous sur la face un bandeau,  
 Ha destins qu'ay-je veu elle est cheute dans l'eau  
 Son flambeau s'est esteint aussi tost que sa vie,  
-Venez rages des eaux qui me l'avez ravie,                  
+Venez rages des eaux qui me l'avez ravie,  
 M'engloutir avecq elle ô Dieux ! ô Dieux ! cruels,  
 Rendrez vous mes ennuis⁎ & mes maux eternels :  
 Ouy puisque l'inclemance accompagne vos ames  
@@ -2866,7 +2866,7 @@ Ou autre deité surprise de ses charmes⁎,
 Jupin⁎ assistez moy de vos divines armes :  
 Autrement je diray ce qui semble en effet,  
 Que vous participez au tort que l'on m'a fait :  
-Helas où sont des Dieux la clemence & l'estime                  
+Helas où sont des Dieux la clemence & l'estime  
 On les void aujourd'hui favoriser un crime,  
 Commis en mon éndroit, ô ciel quel creve cœur⁎  
 O rage, ô desespoir, ô malheur, ô fureur,  
@@ -2887,7 +2887,7 @@ D'avoir par dessus moy emporté la victoire :
 Le fer est trop sanglant, mon homicide main  
 Me feroit à jamais estimer inhumain.  
 De mourir par le feu je ne m'y puis resoudre,  
-Jupin⁎ se venteroit que ce seroit son foudre :                  
+Jupin⁎ se venteroit que ce seroit son foudre :  
 Qui auroit consommé mon cœur & mes poulmons,  
 Choisissons donc plustost la grotte des Démons :  
 Le jour qui peu à peu recommence à parestre,  
@@ -2910,7 +2910,7 @@ Il se precipite.
 
 
 
-### SCENE QUATRIESME.                 
+### SCENE QUATRIESME.
 
     LUCIANE.
 **A**Ccablee d'ennuys⁎, de maux, d'afflictions,  
@@ -2926,7 +2926,7 @@ De douceur & d'amour envers moy cette fois
 J'avois tousjours vescu d'une telle maniere,  
 Que je n'esperois pas sentir vostre cholere :  
 Las⁎ qu'ay-je faict (bon dieux) pour veoir contre raison,  
-Enlever mon enfant & brusler ma maison :                  
+Enlever mon enfant & brusler ma maison :  
 Par un traistre pasteur un mechant, un perfide,  
 Un brusleur de maisons un volleur homicide  
 Que ne le tiens-icy ha je jure ma foy,  
@@ -2946,7 +2946,7 @@ Je te verray au rang des Dames de la cour :
 O que ton sot espoir te causera de peine,  
 Simple, crois-tu cela ? une chimere vaine,  
 Avecque les sermens d'un jeune courtisant,  
-Pour une mesme chose on les tient à present,                  
+Pour une mesme chose on les tient à present,  
 Sans mentir j'ay regret que ton jugement louche,  
 N'ayt peu veoir les abbus de sa trompeuse bouche  
 Va va meschante fille où te conduit le sort,  
@@ -2966,7 +2966,7 @@ Pour veoir si quelque part elle en aura novelle.
 ### SCENE CINQVIESME.
 
     AMARILLE.
-**P**Leure Amarille helas ton malheur sans pareil,                  
+**P**Leure Amarille helas ton malheur sans pareil,  
 Que les larmes jamais ne seichent dans ton œil,  
 Souspire incessamment ton douloureux desastre  
 L'amante, sans repos l'injure de ton astre :  
@@ -2981,7 +2981,7 @@ Où estes vous Didon, vous crétoise Arianne [229] ?
 Venez veoir le Pasteur qui cause mon ennuy⁎  
 Comme le plus méschant qui respire aujourd'huy :  
 Ce n'est point un Aenee encor moins un Thesee,  
-Il est pire cent fois & d'humeur moins posee :                  
+Il est pire cent fois & d'humeur moins posee :  
 C'est un traistre parjure, un lasche, un imposteur,  
 Un Amant infidelle un signalè trompeur.  
 Bref je puis dire icy comme je conjecture,  
@@ -3001,7 +3001,7 @@ Me face devaller⁎ dans l'infernalle barque
 Je le veux, je le veux, aussi bien desormais,  
 Tout mon contentement seroit mort à jamais :  
 Je ne refuse pas de franchir la carriere⁎,  
-Immortels prononcez ma sentence derniere :                  
+Immortels prononcez ma sentence derniere :  
 Que sert de retarder le decret de ma mort,  
 Est-ce pour m'afliger de plus fort en plus fort ?  
 Ou pour vous accuser d'inclemence & de haine,  
@@ -3042,7 +3042,7 @@ Elle se precipite.
 
 
 
-### SCENE SIXIESME.                     
+### SCENE SIXIESME.
 PYSANDRE, CLEANIDE,
 
 
@@ -3059,11 +3059,11 @@ Mais ma Nymphe dys moy si jamais Lidiane
 Ne te l'a descouvert,  
 
     CLEANIDE.
-            Non, je jure Diane :  
+                    Non, je jure Diane :  
 Elle estoit trop finette⁎, & dans sa passion  
 Elle a tousjours monstré telle discretion :  
 Qu'on ne se fut douté de leur amour secrette :  
-Mais sans mentir Pasteur, sa perte je regrette                  
+Mais sans mentir Pasteur, sa perte je regrette  
 Car c'estoit ma compagne, & je croy qu'en ces lieux,  
 Tous objets desormais me seront ennuyeux⁎.  
 
@@ -3087,7 +3087,7 @@ Capable de servir à nostre logement.
 
     CLEANIDE.
 Il ne nous est resté qu'un petit toit à bestes,  
-Ou nous ne pouvons pas tenir droites, nos testes                  
+Ou nous ne pouvons pas tenir droites, nos testes  
 
     PYSANDRE.
 Venez vous-en chez moy vous n'aurez pis ny mieux,  
@@ -3099,7 +3099,7 @@ Vous estes sans mentir pasteur trop charitable.
 Je vous en remercie,  
 
     PYSANDRE.
-            Advisez⁎ seulement,  
+                    Advisez⁎ seulement,  
 Car je vous traitteray assez modestement :  
 Vous aurez chaque jour un petit ordinaire,  
 Que vostre cœur demande & que le mien espere.  
@@ -3116,7 +3116,7 @@ Qui vous donnant du laict vous peut rendre nourrice.
 Ha c'est estre indiscret jusques au dernier point,  
 
     PYSANDRE
-Ma belle pour cela ne te courrouces point.                  
+Ma belle pour cela ne te courrouces point.  
 
     CLEANIDE.
 Berger devenez sage & sans ceremonie,  
@@ -3130,7 +3130,7 @@ Vous estes insolent aussi bien que mocqueur :
 Flattez moy maintenant.  
 
     PYSANDRE.
-            Cela c'est infaillible⁎.  
+                    Cela c'est infaillible⁎.  
 Beauté qui peut charmer⁎ une chose insensible :  
 Et la faire mouvoir de mesme que le vent,  
 Pardonne moy ce crime où je tombe souvent.  
@@ -3139,14 +3139,14 @@ Pardonne moy ce crime où je tombe souvent.
 Il vous est pardonné adieu,  
 
     PYSANDRE.
-                Adieu mauvaise,  
+                        Adieu mauvaise,  
 Avant que de partir il faut que tu me baises.  
 
     CLEANIDE.
 Non, non vous avez tort, pasteur laissez cela.  
 
     PYSANDRE.
-O ciel je suis ravy, quel bon morceau voila.                  
+O ciel je suis ravy, quel bon morceau voila.  
 
     CLEANIDE.
 S'il vous arrive plus de me mettre en cholere,  
@@ -3169,7 +3169,7 @@ Balancer ton destin dans les mains de la mort
 Miserable berger mille fois miserable,  
 A qui le ciel refuse un effet secourable,  
 Et qui n'a plus d'espoir que celuy du trespas,  
-Pipé dans le desir d'un amoureux appas,                  
+Pipé dans le desir d'un amoureux appas,  
 Regarde de quel fil on devide ta trame,  
 Depossedé de biens, d'honneur, & de ta femme :  
 Où pourras tu trouver desormais du bonheur,  
@@ -3189,7 +3189,7 @@ O perfide Amarille ! ô credules Erreurs !
 Vous m'avez fait penser que les yeux de ma face,  
 Pourroient aveq le temps faire fondre sa glace :  
 Vrayment elle eut raison quand elle dit un jour.  
-Que la mort finiroit le cours de mon amour :                  
+Que la mort finiroit le cours de mon amour :  
 Je vois bien maintenant son dire veritable,  
 La mort qui suit mes pas d'un dart⁎ inevitable,  
 Dispute avecq nature à qui triomphera  
@@ -3209,7 +3209,7 @@ Dieux où est maintenant l'excez de vos bontez :
 Où repose ce feu qui reduit tout en poudre,  
 Sera-ce l'innocent qu'on punira d'un foudre :  
 Ha seroit tesmoigner trop de severité,  
-Astres, cieux, terre & mer, voyez l'extremité :                  
+Astres, cieux, terre & mer, voyez l'extremité :  
 O me reduit le sort des loix de mariage,  
 Vous en estes tesmoins bois, prez, roc, & boccage :  
 Admirez l'inclemence & le courroux des Dieux :      
@@ -3229,7 +3229,7 @@ Tout ceux qu'onc [233] inuentast cette noire puissance.
 Depuis que l'on m'a dit ce qui t'est arrivé,  
 Que tu estois (helas !) de ta moitié privé,  
 O Dieux ! qu'un tel depart m'a ja cousté des larmes,  
-Qu'il m'a livré ce jour de cruelles alarmes :                  
+Qu'il m'a livré ce jour de cruelles alarmes :  
 O ma fille où es-tu ! Las⁎ faut-il que l'amour  
 T'ait fait donc esprouver un si funeste jour :  
 O traistre Polydas, ce malheureux profane  
@@ -3253,7 +3253,7 @@ Qui ne pleure avec nous ce desastreux dommage
 Le ciel mesme aujourd'huy en a jetté des pleurs,  
 
     FLORIDON.
-Les fleurs en ont perdu leurs plus vives couleurs,                  
+Les fleurs en ont perdu leurs plus vives couleurs,  
 
     PANCRACE.
 D'aujourd'huy les oyseaux n'ont chanté leurs ramages,  
@@ -3283,7 +3283,7 @@ Les fontaines & puits n'ont produit que du sang.
 Nos mastins n'ont mangé depuis l'heure je jure,  
 
     FLORIDON.
-En fin tout participe au tourment que j'endure.                  
+En fin tout participe au tourment que j'endure.  
 
     PANCRACE.
 O cruel souvenir qui me donne la mort !  
@@ -3309,7 +3309,7 @@ Qui depuis un long temps me retient en servage.
 Je les en prie aussi de pure affection,  
 
     FLORIDON
-Dieux, mettez bien tost fin à nostre affliction.                  
+Dieux, mettez bien tost fin à nostre affliction.  
 
     PANCRACE.
 Retournons au hameau & voyons l'assemblee,  
@@ -3322,7 +3322,7 @@ Que ne leur a-t-on fait un esprit moins malin,
 Puisque c'est le secours du sexe masculin ?  
 
 
-## ACTE V                    
+## ACTE V
 LIDIANE, LES DEUX PESCHEURS, FLORIDON, TROUPPE DE PASTEURS, LE JUGE, LE PROCUREUR FISCAL, LE GREFFIER, PYSANDRE, CLEANIDE, LUCIANE, PANCRACE, L'OMBRE⁎ DE CASTRAPE, POLYDAS, AMARILLE.
 
 
@@ -3336,7 +3336,7 @@ Les deux pescheurs rameinent Lidiane dans le basteau.
 
 **A**Mis de qui je tiens le repos & la vie,  
 Que la fureur des eaux m'avoit presque ravie :  
-Que je suis obligee⁎ à vostre bon secours,                  
+Que je suis obligee⁎ à vostre bon secours,  
 Je m'en resouviendray le reste de mes jours :  
 Et si je ne fais pas d'esgalle recompense,  
 Sachez mes bons amis que je ne m'en dispense,  
@@ -3363,16 +3363,16 @@ Et si ne nous faudroit lignes ny hameçon.
 Faites vostre proffit,  
 
     SECOND PESCHEUR.
-            Que tout vous soit prospere.              
+                    Que tout vous soit prospere.  
 
     LIDIANE.
 A dieu donc chers amis.  
 
     SECOND PESCHEUR.
-            Adieu.  
+                Adieu.  
 
     PREMIER PESCHEUR.
-                Parle compere,  
+                        Parle compere,  
 Allons vendre à Paris ce riche diamant,  
 Puis nous partagerons l'argent ensemblement :  
 Afin d'en acquerir quelque bon heritage.  
@@ -3388,7 +3388,7 @@ Nous separa tous deux de façon non commune.
 Helas où peut il estre, ô soleil radieux !  
 Pour le veoir maintenant preste moy tes beaux yeux :  
 Et toy puissant amour qui nous cognoist fidelles,  
-Pour l'atteindre bien tost preste moy tes deux aisles.              
+Pour l'atteindre bien tost preste moy tes deux aisles.  
 Et pour ta recompense un autel je promets,  
 Où le musque & l'encens fumeront à jamais :  
 Je ne puis te promettre à present davantage,  
@@ -3406,7 +3406,7 @@ Que j'ay depuis ce jour supporté de douleur !
 Il faut qu'incessamment je pleure & je souspire,  
 Je ne verray jamais la fin de mon martyre :  
 Car mon destin le veut, & le ciel endurcy  
-Prend plaisir quand il void me tourmenter ainsi.                  
+Prend plaisir quand il void me tourmenter ainsi.  
 Elle s'assit [236].
 
 
@@ -3436,23 +3436,23 @@ Elle fuit.
 Suivez suivez enfans cette Biche legere.  
 
     LIDIANE.
-Amis que voulez vous d'une pauvre bergere ?                  
+Amis que voulez vous d'une pauvre bergere ?  
 
     FLORIDON.
 Que tout presentement vous nous faciés sçavoir  
 Où est ce Polydas,  
 
     LIDIANE.
-        Il n'est en mon pouvoir :  
+                Il n'est en mon pouvoir :  
 Car ne l'ayant pas veu depuis une journee,  
 Je ne vous puis respondre,  
 
     FLORIDON.
-                Il vous a emmenee,  
+                        Il vous a emmenee,  
 Et Amarille aussi,  
 
     LIDIANE.
-        Rien moins, croyez pasteur  
+                Rien moins, croyez pasteur  
 Que jamais Polydas ne fut d'un crime autheur.  
 
     FLORIDON.
@@ -3460,7 +3460,7 @@ Vous estes trop rusee & pleine de malice,
 Sus, allons la livrer és [237] mains de la Justice.  
 
 
-### SCENE DEUXIESME.                 
+### SCENE DEUXIESME.
 LE JUGE, LE PROCUREUR FISCAL, FLORIDON, ET SA TROUPPE, LIDIANE, LE GREFFIER.
 
 
@@ -3476,14 +3476,14 @@ Si est-ce toutesfois qu'on n'en fait pas d'estime
 Le mortel ne craint point le tourment preparé  
 Quand à faire du mal il s'est deliberé :  
 Nous en voyons l'exemple arriver à toute heure,  
-Et mesme en Polydas.                              
+Et mesme en Polydas.  
 
     LE PROCUREUR.
-            Tout chacun veut qu'il meure  
+                    Tout chacun veut qu'il meure  
 Si tost qu'il sera pris,  
 
     LE JUGE.
-             J'en suis d'avis aussi :  
+                     J'en suis d'avis aussi :  
 Mais encore faut-il examiner cecy,  
 Vous sçavez que l'amour a de si puissans charmes⁎,  
 Que pour luy resister on ne trouve point d'armes :  
@@ -3499,7 +3499,7 @@ Mais digne de la mort je ne le juge point,
 
     LE PROCUREUR.
 Monsieur pardonnez moy, considerant un poinct [238]  
-Grandement decisif, je veux vous faire dire                  
+Grandement decisif, je veux vous faire dire  
 Qu'il merite la mort, que le peuple desire :  
 Premierement ce faict regarde tout chacun,  
 S'il n'estoit chastié, il se rendroit commun :  
@@ -3522,7 +3522,7 @@ Sa condamnation ne se peut divertir⁎.
 
     LE JUGE.
 L'on doit punir celuy qui au mal persevere  
-Et non du premier coup quand la coulpe est legere.              
+Et non du premier coup quand la coulpe est legere.  
 
     LE PROCUREUR.
 Celuy que l'on commet⁎ pour punir le mesfait⁎,  
@@ -3553,7 +3553,7 @@ Celuy doit estre heureux qui rendra la justice,
 Je croy qu'en pardonnant on fait un bon office.  
 
     LE PROCUREUR.
-Ouy bien si vous estiez tout seul interessé,                  
+Ouy bien si vous estiez tout seul interessé,  
 
     LE JUGE.
 Le peuple ne peut rien où ma voix a passé.  
@@ -3585,7 +3585,7 @@ Voicy nos deputez de retour de leur queste,
 Entendons les parler Floridon s'y apreste.  
 
     FLORIDON & LES DEPUTEZ *amenant Lidiane.*
-Grands Juges deleguez par les dieux icy bas,                  
+Grands Juges deleguez par les dieux icy bas,  
 Pour reprimer le vice & calmer les debats :  
 Sachez qu'apres avoir couru cette contree,  
 Sans avoir de nos pas la cause rencontree :  
@@ -3605,7 +3605,7 @@ Si tu es innocente autant que veritable :
 Nostre ame à la pitié se rendra favorable :  
 Mon pouvoir maintenant tel que celuy des Dieux,  
 Te peut donner la vie ou te l'oster comme eux :  
-Advise donc icy que ton affetterie⁎,                      
+Advise donc icy que ton affetterie⁎,  
 Ne dise devant nous aucune manterie⁎ :  
 Dits nous presentement où est ce Polydas,  
 Qui nous a tant causé de plaintes & debas.  
@@ -3628,7 +3628,7 @@ Le berger Polydas de qui j'estois maistresse,
 M'a long temps fait l'amour sans que comme j'ay sçeu,  
 Aucun de mes parens l'ayt oncques⁎ aperceu.  
 Mais un jour ramenant nostre trouppeau de paistre,  
-Arrive que ma mere estant à la fenestre,                      
+Arrive que ma mere estant à la fenestre,  
 Vid ce jeune pasteur qui feignant de causer,  
 Par surprise emporta de ma bouche un baiser,  
 Ce qui la contraignit à me tenir captive,  
@@ -3649,7 +3649,7 @@ Nous cheminons tous deux jusques au bord de l'eau,
 Ou s'estant rencontré un seul petit basteau :  
 J'y saute habilement, luy demeure à la rive,  
 Afin de le lascher, mais un malheur arrive :  
-Le plus grand qu'un esprit se puisse imaginer,                  
+Le plus grand qu'un esprit se puisse imaginer,  
 La corde se rompit & l'eau vient entrainer :  
 Dans son fil le basteau où seule je demeure,  
 Appellant du secours, je soupire, je pleure :  
@@ -3671,7 +3671,7 @@ Mais je n'ay eu plustost mis le pied sur l'arene
 Que surprise à l'instant devant vous on m'ameine  
 Voyez donc maintenant si je puis avoir tort,  
 Et si vous me jugez coulpable de la mort,  
-Car tout ce que j'ay dit est aussi veritable                  
+Car tout ce que j'ay dit est aussi veritable  
 Que le soleil nous voit sur la terre habitable :  
 Et si j'ay parlé faux d'un seul poinct seulement,  
 Que Jupin⁎ de ses feux me brusle en un moment.  
@@ -3683,7 +3683,7 @@ Monsieur qu'en dittes vous, selon mon jugement :
 Il la faut condamner à mourir :  
 
     LE JUGE.
-                Nullement,  
+                        Nullement,  
 Sachons encore d'elle un moyen tres-utile,  
 Où avez vous laissé la bergere Amarille.  
 
@@ -3698,7 +3698,7 @@ Quoy n'estoit elle pas de la mesme entreprise ?
 Je ne le pense pas  
 
     FLORIDON.
-            Messieurs elle deguise                  
+                    Messieurs elle deguise  
 Il faut que promptement on la face mourir,  
 C'est le moindre tourment qu'elle puisse encourir.  
 
@@ -3725,7 +3725,7 @@ A mourir dans le feu de la grotte aux démons,
 Le berger Floridon avec ses compagnons,  
 Seuls executeront la presente sentence,  
 Où nostre authorité imposera silence :  
-Lors que la nuict viendra dessus nostre horison,                  
+Lors que la nuict viendra dessus nostre horison,  
 Ordonnons cependant qu'elle tiendra prison [243].  
 
     LIDIANE.
@@ -3735,7 +3735,7 @@ Ou juste ciel faut-il que je meure innocente,
 Emmenez la bergers,  
 
     LE PROCUREUR.
-            Gardez qu'elle s'absente.  
+                    Gardez qu'elle s'absente.  
 
 
 ### SCENE TROISIESME.
@@ -3751,11 +3751,11 @@ Sa sentence de mort vient d'estre prononcee.
 Helas qui vous l'a dit,  
 
     PYSANDRE.
-            C'est la vieille Macee [244].  
+                    C'est la vieille Macee [244].  
 
     CLEANIDE.
 O cieux que dites vous helas je n'en puis plus  
-Pysandre soutenez mes membres abattus :                  
+Pysandre soutenez mes membres abattus :  
 Ce sensible regret touche si fort mon ame,  
 Qu'elle va s'envoler vers la celeste flame⁎.  
 
@@ -3769,7 +3769,7 @@ Que sans doubte le ciel luy sera favorable.
 Ha laissez moy mourir,  
 
     PYSANDRE.
-             Le ciel ne le veut pas.  
+                     Le ciel ne le veut pas.  
 
     CLEANIDE.
 Mais encor que dit-on du berger Polydas.  
@@ -3778,14 +3778,14 @@ Mais encor que dit-on du berger Polydas.
 On ne sçait où il est,  
 
     CLEANIDE.
-            Comme a elle esté prise.  
+                    Comme a elle esté prise.  
 
     PYSANDRE.
 Dessus le bord de l'eau où elle estoit assise.  
 
     CLEANIDE.
 Pauvre bergere helas que je plains tes malheurs,  
-Pasteur voicy sa mere, escoutons ses douleurs ;                  
+Pasteur voicy sa mere, escoutons ses douleurs ;  
 
     LUCIANE.
 Bergers une faveur, dites si les nouvelles,  
@@ -3814,7 +3814,7 @@ Prestez moy vostre main pour marcher fermement,
 Pan face reussir le tout heureusement.  
 
 
-### SCENE DERNIERE.                     
+### SCENE DERNIERE.
 LE JUGE, LIDIANE, LUCIANE, PANCRACE, FLORIDON, PYSANDRE, CLEANIDE, L'ombre⁎ de Castrape, POLYDAS, AMARILLE.
 
 
@@ -3832,7 +3832,7 @@ Je te donne du temps autant que tu voudras.
 Pendant que le juge parle, Lidiane lict les vers du tombeau de Polydas.
 
 Las⁎ comment voulez vous grand Juge venerable,  
-Que je mette en vos mains un pauvre miserable :              
+Que je mette en vos mains un pauvre miserable :  
 Qui comme vous voyez gravé sur ce perron.  
 A desja traversé le fleuve d'Acheron [246].  
 Ce seroit m'obliger à plus que l'impossible,  
@@ -3853,7 +3853,7 @@ Bel ange je te suis, tu m'apelle, attend moy,
 Mon ame va partir pour courir apres toy.  
 
     LE JUGE.
-Pasteurs soustenez la l'exceds du mal l'emporte                  
+Pasteurs soustenez la l'exceds du mal l'emporte  
 
     LUCIANE.
 Hastons nous car j'ay peur qu'elle soit desja morte.  
@@ -3864,7 +3864,7 @@ Elle vient avec sa troupe.
 Non fera, non fera,  
 
     LUCIANE.
-            O bon dieux ! s'en est faict,  
+                    O bon dieux ! s'en est faict,  
 Sa vie a expié son enorme forfaict.  
 Quoy là on fait mourir sans ouyr sa deffence :  
 
@@ -3883,7 +3883,7 @@ Et me laissez souffrir la mort que je souhaite.
 Helas ! Pourquoy faut-il que tu meures aujourd'huy ?  
 
     PANCRACE.
-Si cela dure encor je pleureray d'ennuy⁎.                  
+Si cela dure encor je pleureray d'ennuy⁎.  
 
     PYSANDRE.
 L'amour va perdre en elle un de ses puissans charmes⁎,  
@@ -3908,7 +3908,7 @@ Avez vous assez dit, sus depeschez vous femme,
 Si jamais la pitié trouva place en vostre ame,  
 Grand arbitre des Dieux, qu'en jugeant vous servez,  
 Retractez vostre arrest puisque vous le pouvez.  
-Ou s'il ne se peut pas, permettez moy de grace                  
+Ou s'il ne se peut pas, permettez moy de grace  
 Pour sauver mon enfant que je meure en sa place :  
 Ou bien si vous jugez le mal trop odieux,  
 Pour me faire plaisir condannez nous tous deux.  
@@ -3934,7 +3934,7 @@ Non, non, n'en parlez plus, berger depéche toy.
     L’OMBRE* DE CAFTRAPE, *sortant de la grotte, tenant Polydas d'une main, 
   
 & Amarille de l'autre.*
-Demeurez malheureux cessez vostre vengeance,                  
+Demeurez malheureux cessez vostre vengeance,  
 Aprochez ceste grotte & me prestez silence :  
 Je sors des noirs palus⁎ de l'abysme infernal,  
 Pour venir empescher vostre dessein brutal :  
@@ -3948,7 +3948,7 @@ De la terre, & la mer, du Ciel, & des enfers,
 Mettre les Dieux captifs, & les Demons aux fers.  
 L'eau montoit dans le Ciel, le Ciel estoit sur terre,  
 Les Elemens trembloient, j'enfermois le tonnerre.  
-Bref, tout ce qu'impossible estoit au temps passé,              
+Bref, tout ce qu'impossible estoit au temps passé,  
 Estoit aussi tost fait que je l'avois pensé :  
 Mais parce qu'en ce lieu j'ay apris ma science,  
 Que j'y fis mon tombeau, que j'y pris ma naissance :  
@@ -3968,7 +3968,7 @@ S'y vint jetter aussi, mais moy les yeux au soin,
 Jugeant que de mon art ils avoient grand besoin,  
 J'ay curieusement⁎ conservé leur personne,  
 Mais entendez par moy ce que Jupin⁎ ordonne :  
-Pour nourrir entre vous l'amitié desormais,                  
+Pour nourrir entre vous l'amitié desormais,  
 Et dedans vos maisons faire reigner la paix :  
 Le Ciel veut que Pancrace espouse Luciane,  
 Que Polydas aussi ayt sa Lidiane.  
@@ -3989,7 +3989,7 @@ Je retourne au sejour des ames bienheureuses.
 Puisque des immortels telle est la volonté,  
 Je veux que mon Arrest ne soit executé :  
 Bergers viste, mettez Lidiane en franchise⁎,  
-Je vois bien que le Ciel ses Amours favorise :                  
+Je vois bien que le Ciel ses Amours favorise :  
 
     PANCRACE.
 Dieux ! quel contentement, ô l'agreable arrest !  
@@ -4019,7 +4019,7 @@ Que le ciel nous cherit & qu'il le faut loüer.
 
     CLEANIDE.
 Chere ame en verité les Dieux sont adorables,  
-Aux maux desesperez se rendans secourables.                  
+Aux maux desesperez se rendans secourables.  
 
     FLORIDON.
 O ma douce Amarille, ô ma chere moitié !  
@@ -4048,7 +4048,7 @@ Mais je veux qu'en ce lieu nostre Hymen s'acomplisse,
 Enfans vivez joyeux que tout vous soit propice.  
 
     PANCRACE.
-Le Ciel puisse benir nos amours triomphans,                  
+Le Ciel puisse benir nos amours triomphans,  
 Afin que dans neuf mois nous ayons quatre enfans :  
 Le suppliant (monsieur) pour vostre recompence  
 Qu'il vous puisse donner les cornes d'abondance [249].  

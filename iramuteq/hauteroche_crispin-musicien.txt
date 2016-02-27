@@ -22,7 +22,7 @@ Plaute et Terence n'ont point fait de difficultè de s'en servir ; et l'Illustr
 Ce n'est pas que je veuille dire par là que ces exemples soient toûjours bons à suivre ; au contraire, je tiens que l'Art⁎ est un chemin bien plus certain, et que ses preceptes conduisent plus seûrement à la perfection que ne font ces sortes de libertez, quoy qu'elles ayent esté fort heureuses.
 Il est constant qu'on ne peut jamais déplaire avec l'Art, et qu'il est dangereux de s'ècarter de ses regles ; mais je croy qu'on est pas tout-à-fait condamnable quand en le faisant on rèüssit, et qu'on trouve le moyen de plaire, qui est le but de ce grand Art⁎.
 
-**** *book_ *id_body-3-1 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte101 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_la_ronce
 Eh, Messieurs, un moment concertons⁎ entre nous ;
@@ -30,7 +30,7 @@ De nostre peu de soin, Monsieur est en courroux :
 Nous avons, sans mentir, beaucoup de nonchalance⁎.
 Allons. Cela va bien ; mais plus de negligence.
 
-**** *book_ *id_body-3-2 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte102 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Ah Crispin ! ah Crispin ! Quel destin rigoureux
@@ -47,25 +47,25 @@ Hé ! tout doux ; dans mon cœur ne descens pas si viste.
 Quoy ! tu ne peux ailleurs chercher un autre giste ?
 Peste des Importuns !
 
-**** *book_ *id_body-3-3 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte103 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_la_ronce
-Est-il jour là-dedans ?
+      Est-il jour là-dedans ?
 
 -*who_crispin
 Oüy.
 
 -*who_la_ronce
-Personne aujourd'huy ne mange-t-il ceans ?
+      Personne aujourd'huy ne mange-t-il ceans ?
 
 -*who_crispin
 Je ne sçay.
 
 -*who_la_ronce
-Joüerons-nous ?
+      Joüerons-nous ?
 
 -*who_crispin
-Hé qui vous en empesche ?
+      Hé qui vous en empesche ?
 
 -*who_la_ronce
 Voüay ! Crispin, du matin, a l'humeur bien revesche ?
@@ -74,95 +74,95 @@ Voüay ! Crispin, du matin, a l'humeur bien revesche ?
 Je l'ay comme il me plaist.
 
 -*who_la_ronce
-Monsieur est-il au Lit ?
+      Monsieur est-il au Lit ?
 
 -*who_crispin
 Non, il est habillé.
 
 -*who_la_ronce
-Bon : Que fait-il ?
+      Bon : Que fait-il ?
 
 -*who_crispin
-Il lit.
+      Il lit.
 
 -*who_la_ronce
 Nous pouvons donc joüer ?
 
 -*who_crispin
-Le Diable vous emporte ;
+      Le Diable vous emporte ;
 Joüez, ne joüez pas, tout cela ne m'importe.
 Mais tréve aux questions : Si tu m'en fais jamais…
 
 -*who_la_ronce
 Hé bien ?
 
-**** *book_ *id_body-3-4 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte104 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
-Quel bruit entens-je ?
+      Quel bruit entens-je ?
 
 -*who_crispin
-Hé ce sont vos Laquais.
+      Hé ce sont vos Laquais.
 
 -*who_phelonte
 Qu'on se taise.
 
 -*who_la_ronce
-Monsieur, c'est luy qui nous querelle.
+      Monsieur, c'est luy qui nous querelle.
 
 -*who_crispin
 Je…
 
 -*who_phelonte
-Paix.
+      Paix.
 
 -*who_la_ronce
-Nous sommes prests à cette Ritournelle
+      Nous sommes prests à cette Ritournelle
 Que vous…
 
 -*who_phelonte
-J'entens ; Allez, ce sera pour tantost⁎.
+      J'entens ; Allez, ce sera pour tantost⁎.
 
-**** *book_ *id_body-3-5 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte105 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_la_ronce
 Je suis fâché…
 
 -*who_crispin
-Faquin !
+      Faquin !
 
 -*who_la_ronce
-C'est votre honneur.
+      C'est votre honneur.
 
 -*who_crispin
-Maraut⁎,
+      Maraut⁎,
 Si…
 
 -*who_la_ronce
-Maraut⁎ ! Autrefois nous estions Camarades :
+      Maraut⁎ ! Autrefois nous estions Camarades :
 D'où vient donc cet orgüeil & ces foles boutades⁎ ?
 
 -*who_crispin
 Point de comparaison, vois-tu, car…
 
 -*who_la_ronce
-En effet,
+      En effet,
 Au nom d'Homme de Chambre on doit un grand respect.
 
 -*who_crispin
 Fat…
 
 -*who_la_ronce
-C'est vostre honneur.
+      C'est vostre honneur.
 
 -*who_crispin
-Sors, avec toute ta Clique.
+      Sors, avec toute ta Clique.
 On est dans ce Logis accablé de Musique :
 Je n'y puis en repos resver à mon amour ;
 Je n'entens qu'E mi la, qu'F ut fa, tout la jour,
 Que B mol, fugue, tierce… Ah, voicy la Parleuse.
 
-**** *book_ *id_body-3-6 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte106 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_fanchon
 Bon-jour, Crispin. Toûjours dans ton humeur grondeuse ?
@@ -175,10 +175,10 @@ Commencent de parler, pour ne déparler⁎ pas.
 Que dis-tu ?
 
 -*who_crispin
-Rien.
+      Rien.
 
 -*who_fanchon
-Sçais-tu si Monsieur me demande ?
+      Sçais-tu si Monsieur me demande ?
 S'il n'a point à traitter⁎ quelque Gaupe⁎ friande,
 Qui viendra, sans raison, censurer⁎ chaque Mets,
 Et faire icy crier Servantes & Valets ?
@@ -192,7 +192,7 @@ Le servant, tu ne dois aspirer qu'à luy plaire.
 Et ne le sers-tu pas, toy ?
 
 -*who_fanchon
-C'est une autre affaire ;
+      C'est une autre affaire ;
 Ce que je fais pour luy, c'est par affection.
 
 -*who_crispin
@@ -200,7 +200,7 @@ Je ne m'oppose point à la distinction ;
 Entre vous le debat.
 
 -*who_fanchon
-Laisse-là la sottise,
+      Laisse-là la sottise,
 Aupres de moy tu sçais qu'elle n'est pas de mise ;
 Toutes mes actions ont deû t'en informer :
 J'aime fort nostre Maistre, & j'ay lieu de l'aimer ;
@@ -220,13 +220,13 @@ Pour un Garçon d'esprit, c'est répondre fort mal.
 Et qu'ay-je affaire aussy…
 
 -*who_fanchon
-Que tu deviens brutal !
+      Que tu deviens brutal !
 
 -*who_crispin
 Je deviens… Laisse-moy.
 
 -*who_fanchon
-Brutaliser encore !
+      Brutaliser encore !
 Sçais-tu que depuis peu ton bon sens s'évapore ?
 
 -*who_crispin
@@ -235,31 +235,31 @@ Va-t'en étudier ton Ré mi fa sol la,
 Ou bien voir si la Tante…
 
 -*who_fanchon
-Hom… Ta mélancolie⁎
+      Hom… Ta mélancolie⁎
 A des égaremens⁎ qui vont à la folie ;
 Prens garde à toy, Crispin.
 
 -*who_crispin
-Oh parle tout ton soû :
+      Oh parle tout ton soû :
 Si je te dis plus rien, qu'on me rompe le coû.
 
 -*who_fanchon
 Hom…
 
 -*who_crispin
-Hom…
+      Hom…
 
-**** *book_ *id_body-3-7 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte107 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
-Bon-jour, Fanchon.
+      Bon-jour, Fanchon.
 
 -*who_fanchon
-Hier, Monsieur vostre Frere
+      Hier, Monsieur vostre Frere
 Vint avec son Pédant icy.
 
 -*who_phelonte
-Qu'y vint-il faire ?
+      Qu'y vint-il faire ?
 
 -*who_fanchon
 Hé, pour tâcher, Monsieur, à refaire sa paix.
@@ -272,55 +272,55 @@ Qu'il demeure au College avec son Précepteur,
 Et me laisse en repos ; autrement…
 
 -*who_fanchon
-Eh Monsieur,
+      Eh Monsieur,
 Songez…
 
 -*who_phelonte
-C'est un Esprit qu'il est bon de réduire,
+      C'est un Esprit qu'il est bon de réduire,
 Et sur ce qu'il me doit je veux un peu l'instruire,
 Il n'en sera que mieux : Mais viença, dy, Fanchon,
 Sçais-tu ce Menüet ?
 
 -*who_fanchon
-Oüy, Monsieur.
+      Oüy, Monsieur.
 
 -*who_phelonte
-Tout-de-bon ?
+      Tout-de-bon ?
 
 -*who_fanchon
 Oüy.
 
 -*who_phelonte
-Mais bien ?
+      Mais bien ?
 
 -*who_fanchon
-Je le croy. Vous plaist-il de l'entendre ?
+      Je le croy. Vous plaist-il de l'entendre ?
 
 -*who_phelonte
 Ah tu l'offres trop bien, pour vouloir m'en défendre.
 Çà, voyons.
 
 -*who_fanchon
-Seulement donnez-moy vostre ton ;
+      Seulement donnez-moy vostre ton ;
 Puis…
 
 -*who_phelonte
-Le voila.
+      Le voila.
 
 -*who_phelonte
-Fort-bien.
+      Fort-bien.
 
 -*who_fanchon
-Vous raillez ?
+      Vous raillez ?
 
 -*who_phelonte
-Point.
+      Point.
 
 -*who_fanchon
-Sy.
+      Sy.
 
 -*who_phelonte
-Non :
+      Non :
 Allons, chante.
 
 -*who_fanchon
@@ -332,7 +332,7 @@ On passe en douceur la vie,
 Quand on aime le bon Vin.
 
 -*who_phelonte
-Fort-bien.
+      Fort-bien.
 
 -*who_fanchon
 Un Beuveur, en Homme habile,
@@ -343,26 +343,26 @@ Un Beuveur, en Homme habile,
 Conserve sa liberté.
 
 -*who_phelonte
-Tu deviendras sçavante,
+      Tu deviendras sçavante,
 Si… Qu'est-ce ?
 
-**** *book_ *id_body-3-8 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte108 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_la_ronce
-C'est, Monsieur, Madame vostre Tante,
+      C'est, Monsieur, Madame vostre Tante,
 Qui demande Fanchon.
 
 -*who_phelonte
-Je n'ose t'arrester⁎.
+      Je n'ose t'arrester⁎.
 
 -*who_fanchon
 Estes-vous content ?
 
 -*who_phelonte
-Fort.
+      Fort.
 
 -*who_fanchon
-Vous voulez me flater.
+      Vous voulez me flater.
 
 -*who_phelonte
 Point du tout ; J'ay, croy-moy, grand plaisir à t'entendre.
@@ -371,29 +371,29 @@ Point du tout ; J'ay, croy-moy, grand plaisir à t'entendre.
 C'est beaucoup pour moy.
 
 -*who_phelonte
-Va, ne te fais point attendre.
+      Va, ne te fais point attendre.
 La Ronce, fay venir la Fluste, & Jolycœur.
 
 -*who_la_ronce
 Faut-il qu'il ait sa Basse ?
 
 -*who_phelonte
-Oüy : Reviens.
+      Oüy : Reviens.
 
 -*who_la_ronce
-Bien, Monsieur.
+      Bien, Monsieur.
 
-**** *book_ *id_body-3-9 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte109 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Allons, cette Chaconne en Ce sol ut.
-Qu'on range
+      Qu'on range
 Ce Clavessin : sortez.
 
 -*who_crispin
-Amour, quel sort étrange !
+      Amour, quel sort étrange !
 
-**** *book_ *id_body-3-10 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte110 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Là, prendras-tu le soin d'ajuster mon Chapeau ?
@@ -402,19 +402,19 @@ Là, prendras-tu le soin d'ajuster mon Chapeau ?
 Le voila.
 
 -*who_phelonte
-Pourquoy donc m'apporter mon Manteau ?
+      Pourquoy donc m'apporter mon Manteau ?
 
 -*who_crispin
 Vous me le demandez.
 
 -*who_phelonte
-Moy, je te le demande ?
+      Moy, je te le demande ?
 
 -*who_crispin
 Oüy.
 
 -*who_phelonte
-Peut-on soûtenir imposture⁎ plus grande ?
+      Peut-on soûtenir imposture⁎ plus grande ?
 Quoy ! Tu continuëras à me faire enrager ?
 Aujourd'huy, d'avec moy, songe à déménager⁎ ;
 Autrement, mille coups feront ta récompense.
@@ -423,10 +423,10 @@ Autrement, mille coups feront ta récompense.
 Eh Monsieur !
 
 -*who_phelonte
-Quoy, Monsieur ?
+      Quoy, Monsieur ?
 
 -*who_crispin
-Un peu de patience.
+      Un peu de patience.
 
 -*who_phelonte
 Un peu de patience ! Eh Monsieur le Coquin,
@@ -442,23 +442,23 @@ Que l'on sorte au plutost, & sans plus discourir ;
 Sinon…
 
 -*who_crispin
-Monsieur, de grace…
+      Monsieur, de grace…
 
 -*who_phelonte
-Hé bien, que veux-tu dire ?
+      Hé bien, que veux-tu dire ?
 
 -*who_crispin
 C'est que je sens un mal… qui tous les jours empire.
 Si vous sçaviez… Ah, ah.
 
 -*who_phelonte
-Si je prens un Baston,
+      Si je prens un Baston,
 Je pourray t'obliger à prendre un autre ton :
 Crains de pousser à bout ma patience extréme.
 Qu'as-tu donc ? Parle, ou bien…
 
 -*who_crispin
-Eh Monsieur, c'est que j'aime :
+      Eh Monsieur, c'est que j'aime :
 L'Amour, depuis un mois, me fait devenir fou,
 Nuit & jour je soûpire, & dors moins qu'un Hibou ;
 Enfin j'en sens, Monsieur, une peine cruelle.
@@ -483,15 +483,15 @@ A qui donc, traistre, à qui veux-tu que je m'en prenne,
 Dis ?
 
 -*who_crispin
-A ce chien d'Amour, qui sans cesse m'entraîne,
+      A ce chien d'Amour, qui sans cesse m'entraîne,
 Vers l'Objet⁎ dont mon cœur est embrasé…
 
 -*who_phelonte
-Maraut⁎,
+      Maraut⁎,
 Aimer, toy ?
 
 -*who_crispin
-Mon bon sens, Monsieur, a fait le saut.
+      Mon bon sens, Monsieur, a fait le saut.
 
 -*who_phelonte
 Et pourquoy donc d'aimer as-tu l'extravagance⁎ ?
@@ -541,10 +541,10 @@ A qui vous en contez les soirs aux Tuileries,
 Vous verriez…
 
 -*who_phelonte
-Que verrois-je ?
+      Que verrois-je ?
 
 -*who_crispin
-Eh vous verriez, Monsieur,
+      Eh vous verriez, Monsieur,
 Quel Lutin est l'Amour, quand il est dans un cœur.
 
 -*who_phelonte
@@ -559,7 +559,7 @@ Qui sur vos doux propos ne s'est point expliquée,
 Peut enfin…
 
 -*who_phelonte
-De mon cœur je viens toûjours à bout.
+      De mon cœur je viens toûjours à bout.
 
 -*who_crispin
 Mais il ne faut qu'un jour, Monsieur, pour payer tout.
@@ -568,7 +568,7 @@ Mais il ne faut qu'un jour, Monsieur, pour payer tout.
 Je crains peu…
 
 -*who_crispin
-Cependant vous la courrez⁎ : Peut-estre
+      Cependant vous la courrez⁎ : Peut-estre
 Vous y verray-je pris, car l'Amour est bien traistre ;
 La Dame a de l'esprit, & pourra vous toucher.
 
@@ -577,18 +577,18 @@ Mais toûjours sous un masque elle aime à se cacher ;
 Par là je la crois laide.
 
 -*who_crispin
-Et si, comme il peut estre,
+      Et si, comme il peut estre,
 Quand sans masque à vos yeux elle voudra parestre,
 Vous luy trouviez autant de beauté que d'esprit,
 Hem ? Vous ne dites mot. Sa Suivante m'a dit
 Qu'elle est belle, archibelle.
 
 -*who_phelonte
-Et tu vois la Suivante,
+      Et tu vois la Suivante,
 Quand tu luy parles ?
 
 -*who_crispin
-Oüy, tous les soirs c'est ma rente :
+      Oüy, tous les soirs c'est ma rente :
 Tandis que sa maistresse, & vous, parlez tout bas,
 Elle leve la coëffe, & ne se cache pas.
 
@@ -596,7 +596,7 @@ Elle leve la coëffe, & ne se cache pas.
 Ne la connois-tu point ?
 
 -*who_crispin
-Non. En vain je la presse
+      Non. En vain je la presse
 De m'apprendre son nom, & quelle est sa Maistresse ;
 Vous estes si connu pour un Coquet⁎ errant,
 Qu'offert de tous costez, personne ne vous prend :
@@ -609,30 +609,30 @@ Est-ce que tu prétens extravaguer⁎ sans cesse ?
 Monsieur, l'Amour peut-il…
 
 -*who_phelonte
-Ecoute, si jamais
+      Ecoute, si jamais
 Tu me viens étourdir de ton amour…
 
 -*who_crispin
-La paix,
+      La paix,
 Monsieur, quoy que l'Amour…
 
 -*who_phelonte
-Encor ?
+      Encor ?
 
 -*who_crispin
-Je vay me taire,
+      Je vay me taire,
 C'est fait.
 
-**** *book_ *id_body-3-11 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte111 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_melante
-Qu'a donc Phélonte à se mettre en colere ?
+      Qu'a donc Phélonte à se mettre en colere ?
 
 -*who_phelonte
 Ah Melante, c'est toy.
 
 -*who_melante
-Tu querelles Crispin.
+      Tu querelles Crispin.
 
 -*who_phelonte
 Et comment ne le pas quereller ? Le Faquin⁎
@@ -642,7 +642,7 @@ Toûjours grondant ; Enfin ce Fou, depuis un mois,
 Lasse ma patience, & la met aux abois.
 Si je ris, de chagrin⁎ ce Maraut⁎ fait le grave ;
 Qu'on l'envoye au Grenier, il descend à la Cave ;
-On diroit qu'il se plaist à me faire enrager. 
+On diroit qu'il se plaist à me faire enrager.
 Si je demande à boire, il m'apporte à manger ;
 Il resve incessamment ; & quoy que l'on luy die,
 Il semble estre toûjours dans une létargie,
@@ -665,7 +665,7 @@ D'un mal si chagrinant⁎, je sçay bien le remede ;
 Le Baston…
 
 -*who_crispin
-Le Baston, Monsieur ? Quelle pitié !
+      Le Baston, Monsieur ? Quelle pitié !
 Pour avoir le cœur tendre, & de bonne amitié⁎,
 On veut que sur mon dos la Bastonnade jouë.
 
@@ -677,22 +677,22 @@ Comme je suis Amant⁎, je prens ses intérests.
 Amant !
 
 -*who_melante
-Tu me vois fou, toy qui n'aimas jamais.
+      Tu me vois fou, toy qui n'aimas jamais.
 
 -*who_phelonte
 Moy, j'aime comme il faut.
 
 -*who_melante
-Quel amour !
+      Quel amour !
 
 -*who_phelonte
-Tres-commode.
+      Tres-commode.
 
 -*who_melante
 Aimer en mille endroits…
 
 -*who_phelonte
-C'est la bonne méthode ;
+      C'est la bonne méthode ;
 Par elle je me fais un plaisir assez doux.
 
 -*who_melante
@@ -702,7 +702,7 @@ Le véritable amour ne dépend point de nous.
 Belle excuse aux Amans !
 
 -*who_melante
-Laissons cette matiere,
+      Laissons cette matiere,
 Et me dis si je puis te faire une priere ;
 Ma flame en ton secours met son plus doux espoir.
 
@@ -726,25 +726,25 @@ Et c'est ce qui nous met tous deux dans l'embarras.
 Quelle est cette Beauté ?
 
 -*who_melante
-Tu ne la connois pas.
+      Tu ne la connois pas.
 
 -*who_phelonte
 Pour toy, que puis-je donc ?
 
 -*who_melante
-Elle vient de m'ecrire,
+      Elle vient de m'ecrire,
 Qu'elle a sur nostre amour quelque chose à me dire,
 Que je choisisse un Lieu propre à cet entretien :
 Mon Logis est suspect…
 
 -*who_phelonte
-Eh dispose du mien,
+      Eh dispose du mien,
 Il est à toy, pourveu qu'elle veüille s'y rendre ;
 A toute heure, en tout temps, tu peux venir l'attendre,
 Je t'en laisse le Maistre.
 
 -*who_melante
-Ah c'est trop m'obliger,
+      Ah c'est trop m'obliger,
 L'entreveuë au plutost m'importe à ménager ;
 Et puis que tu consens que mon amour se serve…
 
@@ -766,7 +766,7 @@ Si le mien peut jamais trouver lieu d'éclater…
 Je pense qu'avec moy tu veux complimenter⁎ ?
 L'amitié le défend, & s'en fait un outrage.
 
-**** *book_ *id_body-3-12 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte112 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Hé bien, peut-on sçavoir quel objet⁎ vous engage ?
@@ -776,10 +776,10 @@ Parlez, Monsieur l'Amant ? C'est, sans doute, Fanchon.
 Quoy, la Fanchon d'icy ?
 
 -*who_phelonte
-Quelle donc ? oüy.
+      Quelle donc ? oüy.
 
 -*who_crispin
-Non, non.
+      Non, non.
 
 -*who_phelonte
 Ne vaut-elle pas bien que pour elle on soûpire ?
@@ -791,14 +791,14 @@ Je suis son Serviteur, Monsieur, c'est tout vous dire.
 Elle ne te plaist pas ?
 
 -*who_crispin
-Eh…
+      Eh…
 
 -*who_phelonte
-Tu luy fais affront,
+      Tu luy fais affront,
 Elle est aimable⁎.
 
 -*who_crispin
-Oüy ; mais j'ay grand soin de mon front.
+      Oüy ; mais j'ay grand soin de mon front.
 
 -*who_phelonte
 Du costé de Fanchon, ton front n'a rien à craindre.
@@ -813,25 +813,25 @@ Quoy ! Tu refuserois de te voir son Epoux ?
 Oüy.
 
 -*who_phelonte
-D'où vient ?
+      D'où vient ?
 
 -*who_crispin
-Eh Monsieur, qui le sçait mieux que vous ?
+      Eh Monsieur, qui le sçait mieux que vous ?
 
 -*who_phelonte
 Moy, je le sçay ?
 
 -*who_crispin
-Vous.
+      Vous.
 
 -*who_phelonte
-Moy ?
+      Moy ?
 
 -*who_crispin
-Vous-mesme.
+      Vous-mesme.
 
 -*who_phelonte
-Mais que sçay-je ?
+      Mais que sçay-je ?
 
 -*who_crispin
 Vous avez sur Fanchon un certain privilege…
@@ -855,35 +855,35 @@ Car la Beauté… Monsieur, avant qu'il en soit temps,
 Ne me demandez rien.
 
 -*who_phelonte
-Ah ma foy, je prétens,
+      Ah ma foy, je prétens,
 Si je souffre de toy, qu'au moins…
 
 -*who_crispin
-Tournez la veuë.
+      Tournez la veuë.
 
 -*who_phelonte
 Qu'est-ce ?
 
 -*who_crispin
-On vient de la part de la dame inconnuë.
+      On vient de la part de la dame inconnuë.
 
 -*who_phelonte
 C'est donc là sa Suivante ?
 
 -*who_crispin
-Elle-mesme.
+      Elle-mesme.
 
 -*who_phelonte
-Crispin,
+      Crispin,
 Qu'en crois-tu ?
 
 -*who_crispin
-Je ne sçay.
+      Je ne sçay.
 
 -*who_phelonte
-Sçachons quelle est sa fin.
+      Sçachons quelle est sa fin.
 
-**** *book_ *id_body-3-13 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte113 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Qui t'améne ? & que veut ta charmante Maîtresse ?
@@ -892,37 +892,37 @@ Qui t'améne ? & que veut ta charmante Maîtresse ?
 Vous me reconnoissez !
 
 -*who_phelonte
-Vrayment…
+      Vrayment…
 
 -*who_toinon
-J'ay charge expresse,
+      J'ay charge expresse,
 De ne donner qu'à vous le Billet que voicy,
 Et là-dessus bon-soir.
 
 -*who_phelonte
-Quoy ! Me quitter ainsy,
+      Quoy ! Me quitter ainsy,
 Sans avoir la Réponce ?
 
 -*who_toinon
-On n'en demande aucune.
+      On n'en demande aucune.
 
 -*who_phelonte
 Point de Réponce ?
 
 -*who_toinon
-Non.
+      Non.
 
 -*who_crispin
-Ma Chere, sans rancune,
+      Ma Chere, sans rancune,
 Mon Maistre veut écrire, &…
 
 -*who_toinon
-Tout seroit perdu,
+      Tout seroit perdu,
 Si je portois Réponce, on me l'a défendu.
 Lisez.
 
 -*who_phelonte
-Auparavant, souffrez que je vous voye.
+      Auparavant, souffrez que je vous voye.
 
 -*who_toinon
 Non, Monsieur, ce n'est pas pour cela qu'on m'envoye.
@@ -931,26 +931,26 @@ Non, Monsieur, ce n'est pas pour cela qu'on m'envoye.
 Ne me refusez point.
 
 -*who_toinon
-Et qu'y gagnerez-vous ?
+      Et qu'y gagnerez-vous ?
 Je vous suis inconnuë.
 
 -*who_phelonte
-Il n'importe.
+      Il n'importe.
 
 -*who_toinon
-Ah tout-doux,
+      Ah tout-doux,
 Il ne faut point user de tant de violence.
 
 -*who_phelonte
 Te cacher ainsy faite !
 
 -*who_toinon
-Ah point de complaisance ;
+      Ah point de complaisance ;
 Je sçay bien qu'il en est de plus sotte que moy,
 Mais aussy…
 
 -*who_phelonte
-Ta Maistresse est-elle comme toy ?
+      Ta Maistresse est-elle comme toy ?
 
 -*who_toinon
 Comme moy ? C'est un Ange, & rien n'aproche d'elle ;
@@ -960,11 +960,11 @@ Des traits doux, achevez, l'œil beau, la bouche belle…
 Tout-de-bon ?
 
 -*who_toinon
-Tout-de-bon ; mais lisez promptement,
+      Tout-de-bon ; mais lisez promptement,
 Ou…
 
 -*who_phelonte
-Je vais satisfaire à ton empressement.
+      Je vais satisfaire à ton empressement.
 
 -*who_phelonte
 Ne vous donnez plus la peine de me venir chercher aux Tuileries, car je vous assure que vous ne m'y trouverez pas davantage.
@@ -976,21 +976,21 @@ La résolution est assez surprenante :
 Un Adieu pour toûjours !
 
 -*who_toinon
-Elle est vostre Servante.
+      Elle est vostre Servante.
 
 -*who_phelonte
 Ne me plus voir ! En quoy luy puis-je avoir déplû ?
 Qu'ay-je fait ? Qu'ay-je dit ?…
 
 -*who_toinon
-C'est autant de conclu.
+      C'est autant de conclu.
 Se fiëra-t-on à vous, quand on sçait que vous estes
 Le Protestant banal de toutes les Coquettes⁎?
 Et que si par hazard un cœur se rend à vous,
 Aussi-tost le mépris…
 
 -*who_phelonte
-D'accord ; mais, entre nous,
+      D'accord ; mais, entre nous,
 Je sens pour ta Maistresse une sincére flâme.
 
 -*who_toinon
@@ -1000,14 +1000,14 @@ Quoy ! Sans voir, à l'Amour vous livreriez vostre ame ?
 L'Esprit est un grand charme⁎ ; elle en a tant !
 
 -*who_toinon
-Assez
+      Assez
 Pour refuser des vœux un peu trop dispercez.
 
 -*who_phelonte
 M'estime⁎-t-elle un peu ?
 
 -*who_toinon
-Je n'en fais point de doute ;
+      Je n'en fais point de doute ;
 Je sçay que vous plaisez alors qu'on vous écoute.
 
 -*who_phelonte
@@ -1030,18 +1030,18 @@ Bon ! Est-ce de si pres qu'il y faut regarder ?
 Chacun sçait ce qu'il sçait.
 
 -*who_crispin
-Est-on perdu pour lire…
+      Est-on perdu pour lire…
 
 -*who_toinon
 Mais…
 
 -*who_crispin
-Je l'arresteray, Monsieur, allez écrire.
+      Je l'arresteray, Monsieur, allez écrire.
 
 -*who_phelonte
 Deux mots ; Dans un moment je te viens retrouver.
 
-**** *book_ *id_body-3-14 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte114 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Toinon, cela va bien, il ne faut qu'achever.
@@ -1050,7 +1050,7 @@ Toinon, cela va bien, il ne faut qu'achever.
 Va, laisse-m'en le soin.
 
 -*who_crispin
-Il ne s'attendoit guére
+      Il ne s'attendoit guére
 Au brusque compliment⁎ que tu luy viens de faire ;
 Car il est de luy-mesme à tel point entesté…
 
@@ -1077,7 +1077,7 @@ Quoy ! Tu dis nos secrets, & vas nous découvrir ?
 Moy, je le dis ?
 
 -*who_toinon
-Tu viens de t'accuser toy-mesme.
+      Tu viens de t'accuser toy-mesme.
 
 -*who_crispin
 Il me sçait amoureux, sans sçavoir que je t'aime :
@@ -1087,15 +1087,15 @@ Mais, Toinon, apprens-moy jusqu'où le cœur t'en dit.
 As-tu bien de l'amour ?
 
 -*who_crispin
-Ma foy, j'en pers l'esprit ;
+      Ma foy, j'en pers l'esprit ;
 Et je croy que bientost, si tu n'y remedies,
 J'auray le cerveau creux.
 
 -*who_toinon
-Ah !
+      Ah !
 
 -*who_crispin
-Quoy que tu m'en dies,
+      Quoy que tu m'en dies,
 L'Amour qui se délecte à grapiller souvent,
 Ne trouve point son compte à se nourrir de vent.
 
@@ -1103,15 +1103,15 @@ Ne trouve point son compte à se nourrir de vent.
 Ton amour est gourmand ?
 
 -*who_crispin
-Si gourmand qu'il puisse estre,
+      Si gourmand qu'il puisse estre,
 Tu n'as que trop dequoy fournir à le repaistre ;
 Mais quand il faut donner, l'avarice te tient,
 Friponne.
 
 -*who_toinon
-St. Voicy ton Maistre qui revient.
+      St. Voicy ton Maistre qui revient.
 
-**** *book_ *id_body-3-15 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte115 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 En donnant ce Billet, assure ta Maistresse…
@@ -1126,11 +1126,11 @@ Tu ne hazardes rien, agis, parles pour moy.
 J'y feray de mon mieux.
 
 -*who_phelonte
-Je n'espere qu'en toy.
+      Je n'espere qu'en toy.
 Et son nom ?
 
 -*who_toinon
-Là-dessus je n'ose vous rien dire ;
+      Là-dessus je n'ose vous rien dire ;
 Mais Crispin est adroit, & cela doit suffire :
 Ma Maistresse m'attend dans son Apartement⁎,
 Qu'il me suive, & qu'il entre apres moy brusquement ;
@@ -1141,43 +1141,43 @@ Il aura veu la Dame, & sçaura la Maison,
 Le reste vous regarde.
 
 -*who_crispin
-Et par bon privilege,
+      Et par bon privilege,
 J'auray vers moy les coups, peste ?
 
 -*who_phelonte
-Que te diray-je,
+      Que te diray-je,
 Pour te faire assez voir…
 
 -*who_toinon
-Ne me dites plus rien,
+      Ne me dites plus rien,
 On m'attend, & j'ay trop prolongé l'entretien ;
 J'en seray querellée. Adieu.
 
-**** *book_ *id_body-3-16 *act_acte1 *date_1674 *creator_hauteroche
+**** *book_ *id_acte116 *act_acte1 *date_1674 *creator_hauteroche
 
 -*who_phelonte
-Crispin, va viste,
+      Crispin, va viste,
 Suy-là.
 
 -*who_crispin
-Si vous vouliez, Monsieur, m'en tenir quitte…
+      Si vous vouliez, Monsieur, m'en tenir quitte…
 
 -*who_phelonte
 Pourquoy ?
 
 -*who_crispin
-Puis que l'amour est fadaise pour vous,
+      Puis que l'amour est fadaise pour vous,
 A quoy bon…
 
 -*who_phelonte
-Suy, te dis-je, ou…
+      Suy, te dis-je, ou…
 
 -*who_crispin
-Les Amans⁎ sont fous ;
+      Les Amans⁎ sont fous ;
 Vous ne voudriez pas…
 
 -*who_phelonte
-Redoute ma colere.
+      Redoute ma colere.
 J'ay de l'inquiétude⁎, & ne m'en puis défaire.
 D'où me vient tout-à-coup un si prompt changement ?
 Seroit-ce qu'en effet je deviendrois Amant⁎ ?
@@ -1186,7 +1186,7 @@ Redouble en moy l'ardeur de voir & de connoistre.
 Ne nous rebutons point, & laissant au Destin
 A régler l'avanture, attendons-en la fin.
 
-**** *book_ *id_body-4-1 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte201 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_dorame
 Vous allez au Convent, pour voir vostre Cousine ?
@@ -1195,14 +1195,14 @@ Vous allez au Convent, pour voir vostre Cousine ?
 Oüy, mon Pere.
 
 -*who_dorame
-Fort-bien.
+      Fort-bien.
 
 -*who_lise
-Si cela vous chagrine⁎,
+      Si cela vous chagrine⁎,
 Je n'iray pas.
 
 -*who_dorame
-Non, non, allez, c'est fort bien fait,
+      Non, non, allez, c'est fort bien fait,
 Et cette volonté répond à mon souhait.
 De combien d'embarras le Cloistre nous délivre !
 Lise, vostre Cousine, est un modele à suivre.
@@ -1213,7 +1213,7 @@ Ressentir dans le cœur de la vocation ;
 Je n'en sens point encor.
 
 -*who_dorame
-Que le Ciel te l'envoye !
+      Que le Ciel te l'envoye !
 Te voir dans un Convent feroit toute ma joye :
 Si ta Sœur & Toinon en vouloient faire autant,
 Je vivrois satisfait, & je mourrois content.
@@ -1234,7 +1234,7 @@ Et, tout-franc, du Convent je ne suis point friande.
 C'est parler sans façon.
 
 -*who_toinon
-Vous nous en contez bien !
+      Vous nous en contez bien !
 Parce que maintenant vous n'estes bon à rien,
 Et que tous les plaisirs n'ont pour vous aucun charme⁎ ;
 Contre nos jeunes sens vostre esprit se gendarme⁎.
@@ -1293,21 +1293,21 @@ Dont chacun dans le monde est suivy pas à pas.
 Retenez ce discours, profitez en, ma Fille,
 Allez.
 
-**** *book_ *id_body-4-2 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte202 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_toinon
-Vous souhaitez qu'elle épouse une Grille,
+      Vous souhaitez qu'elle épouse une Grille,
 Franchement ?
 
 -*who_dorame
-Fais-je mal ?
+      Fais-je mal ?
 
 -*who_toinon
-Mais faut-il, pour un Fils,
+      Mais faut-il, pour un Fils,
 Cloistrer ainsi…
 
 -*who_dorame
-Tay-toy ; C'est un Enfant soûmis,
+      Tay-toy ; C'est un Enfant soûmis,
 Que je sçauray tourner en sortant du College.
 
 -*who_toinon
@@ -1343,7 +1343,7 @@ Faites taire par là ceux qui parlent de vous.
 Mais encor, que dit-on ?
 
 -*who_toinon
-Que sert de vous redire,
+      Que sert de vous redire,
 Qu'on vous voit par ce Fils l'objet de la Satire,
 Qu'à vos Filles il faut des Epoux bien tournez,
 Jeunes, bien-faits… Enfin bien conditionnez :
@@ -1365,7 +1365,7 @@ Mais souvent elle y va visiter sa Cousine,
 Tu le vois.
 
 -*who_toinon
-D'accord ; mais je croirois à sa mine,
+      D'accord ; mais je croirois à sa mine,
 Qu'un Mary luy plairoit autant & plus qu'à moy.
 
 -*who_dorame
@@ -1377,7 +1377,7 @@ Et je ne vis jamais une ame plus cachée,
 Car… Elle tient de vous, c'est tout dire.
 
 -*who_dorame
-Fort-bien.
+      Fort-bien.
 
 -*who_toinon
 Daphnis est plus sincére, & ne déguise rien.
@@ -1387,11 +1387,11 @@ Lise a l'esprit adroit, & l'humeur défiante.
 Mais…
 
 -*who_toinon
-Mais sçauroit-on rien de l'amour de Melante,
+      Mais sçauroit-on rien de l'amour de Melante,
 Sans…
 
 -*who_dorame
-Tout cela n'estoit que pure vision.
+      Tout cela n'estoit que pure vision.
 
 -*who_toinon
 Mais elle avoit pour luy de l'inclination⁎.
@@ -1400,7 +1400,7 @@ Mais elle avoit pour luy de l'inclination⁎.
 Point.
 
 -*who_toinon
-Je le veux bien. Mais je reviens à ma these ;
+      Je le veux bien. Mais je reviens à ma these ;
 Il leur faut à chacune un Mary qui leur plaise ;
 En élevant leur Frere, & mariant ses Sœurs,
 Par là vous trouverez des jours pleins de douceurs ;
@@ -1409,13 +1409,13 @@ A luy parler raison, il faut que je renonce ;
 En vain vous luy parlez, sans parler de son Fils ;
 Hors cela, nos conseils sont rarement suivis…
 
-**** *book_ *id_body-4-3 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte203 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_daphnis
 Mon Pere est donc sorty ?
 
 -*who_toinon
-Tout-à-l'heure il me quitte :
+      Tout-à-l'heure il me quitte :
 Peut-estre qu'à son Fils il va rendre visite ;
 Ce Fils l'occupe seul, ce Fils a tout son cœur,
 Je luy voy pour vous deux une grande tiédeur :
@@ -1432,7 +1432,7 @@ Par son tendre Billet ardemment il s'exprime.
 Pour moy, je le croirois.
 
 -*who_daphnis
-Il ne me connoist pas.
+      Il ne me connoist pas.
 
 -*who_toinon
 Mais c'est de vostre esprit dont Phélonte fait cas.
@@ -1441,16 +1441,16 @@ Que Crispin me suivoit par l'ordre de son Maistre,
 Et que craignant Dorame, il attend pres d'icy
 Que j'aille l'avertir… Madame, le voicy.
 
-**** *book_ *id_body-4-4 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte204 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Dorame…
 
 -*who_toinon
-Entre.
+      Entre.
 
 -*who_daphnis
-Crispin, je n'ay rien à te dire ;
+      Crispin, je n'ay rien à te dire ;
 De tous mes sentimens Toinon a sçeu t'instruire :
 Mais si tu sers ma flâme avec fidelité,
 Tu sçauras pour tes soins ce que j'ay projetté.
@@ -1472,7 +1472,7 @@ Je prouve qu'en toy seule est mon ambition.
 T'aime-t-elle, dy-moy ?
 
 -*who_crispin
-Tantost oüy, tantost non ;
+      Tantost oüy, tantost non ;
 Tantost elle est affable, & tantost inhumaine.
 
 -*who_daphnis
@@ -1483,7 +1483,7 @@ Sonder adroitement si pour moy sa tendresse⁎
 Est vraye.
 
 -*who_crispin
-A le sçavoir, pour vous je m'intéresse⁎.
+      A le sçavoir, pour vous je m'intéresse⁎.
 
 -*who_daphnis
 Mais sçait-il que Toinon est l'objet de tes vœux ?
@@ -1503,11 +1503,11 @@ Vien le prendre, Toinon : on va te l'apporter,
 Patiente un moment.
 
 -*who_crispin
-Oh volontiers, Madame.
+      Oh volontiers, Madame.
 Si mon Maistre a pour elle une sincére flâme,
 La mienne à cette fois a tout lieu d'espérer.
 
-**** *book_ *id_body-4-5 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte205 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_dorame
 Un Homme en mon Logis ! Qui l'y peut attirer ?
@@ -1531,93 +1531,93 @@ J'ay tort d'avoir parlé… comme j'ay répondu ;
 J'en demande pardon.
 
 -*who_dorame
-Mais ceans que fais-tu ?
+      Mais ceans que fais-tu ?
 Répons.
 
 -*who_crispin
-Je n'y fais rien, Monsieur, je me retire.
+      Je n'y fais rien, Monsieur, je me retire.
 
 -*who_dorame
 On ne sort pas ainsy.
 
 -*who_crispin
-Mais…
+      Mais…
 
 -*who_dorame
-Non, il faut me dire
+      Non, il faut me dire
 Le sujet qui te porte à te rendre chez moy.
 
 -*who_crispin
 Monsieur… Monsieur.
 
 -*who_dorame
-Hé bien ?
+      Hé bien ?
 
 -*who_crispin
-Tout-franc, voyez-vous…
+      Tout-franc, voyez-vous…
 
 -*who_dorame
-Quoy ?
+      Quoy ?
 
 -*who_crispin
 Enfin je suis… suffit.
 
 -*who_dorame
-Ce n'est pas là répondre,
+      Ce n'est pas là répondre,
 Ton soin à m'échaper, ne sert qu'à te confondre ;
 Et tes yeux me font voir les regards d'un Voleur :
 Mais tu seras pendu.
 
 -*who_crispin
-Je suis Homme d'honneur.
+      Je suis Homme d'honneur.
 
 -*who_dorame
 Hola quelqu'un, hola.
 
-**** *book_ *id_body-4-6 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte206 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_toinon
-Que vois-je, nostre Maistre !
+      Que vois-je, nostre Maistre !
 Tout est perdu.
 
 -*who_dorame
-Toinon, que fait icy ce Traistre ?
+      Toinon, que fait icy ce Traistre ?
 
 -*who_toinon
 Ne vous l'a-t-il pas dit ?
 
 -*who_dorame
-Je n'en puis rien sçavoir.
+      Je n'en puis rien sçavoir.
 
 -*who_toinon
 Ah bon.
-Civilement il faut le recevoir.
+      Civilement il faut le recevoir.
 
 -*who_dorame
 La raison ?
 
 -*who_toinon
-C'est…
+      C'est…
 
 -*who_dorame
-Quoy, c'est ?
+      Quoy, c'est ?
 
 -*who_toinon
-Un Maistre de Musique,
+      Un Maistre de Musique,
 Envoyé de la part de Madame Angélique,
 Pour vos Filles.
 
 -*who_dorame
-Monsieur, excusez-moy, j'ay tort :
+      Monsieur, excusez-moy, j'ay tort :
 Mais pourquoy, s'il vous plaist, vous obstiner si fort
 A ne répondre pas ?
 
 -*who_crispin
-Est-ce ainsy qu'on en use ?
+      Est-ce ainsy qu'on en use ?
 Me traitter de Voleur…
 
 -*who_toinon
-Quelquefois on s'abuse.
+      Quelquefois on s'abuse.
 D'ailleurs, en pareil cas on peut bien s'abuser,
 Et vous n'avez pas lieu de vous scandaliser.
 Que ne répondiez-vous ? car il faut qu'on s'explique.
@@ -1627,19 +1627,19 @@ Je suis Homme d'honneur, & Maistre de Musique ;
 Voila mes qualitez.
 
 -*who_dorame
-Ah Monsieur, je le croy.
+      Ah Monsieur, je le croy.
 
 -*who_crispin
 Me faire un tel affront…
 
 -*who_toinon
-Bon, voila bien dequoy.
+      Bon, voila bien dequoy.
 
 -*who_crispin
 Voleur !
 
 -*who_dorame
-Je suis, Monsieur, tout à vostre service ;
+      Je suis, Monsieur, tout à vostre service ;
 La plûpart de ces Gens sont remplis de caprice.
 Estre un Musicien ! Qui diable l'auroit dit,
 A voir cette figure, & mesme son habit ?
@@ -1648,10 +1648,10 @@ A voir cette figure, & mesme son habit ?
 Il est vray.
 
 -*who_crispin
-Moy, Voleur !
+      Moy, Voleur !
 
 -*who_toinon
-Tout-franc, c'est vostre faute,
+      Tout-franc, c'est vostre faute,
 Et faire icy le fier, c'est compter sans son Hoste.
 Il faut le laisser dire, & ne pas vous fâcher.
 
@@ -1665,35 +1665,35 @@ Qui ne luy permet pas de descendre à present.
 Vous plaist-il de monter ?
 
 -*who_crispin
-Montons, j'en suis content.
+      Montons, j'en suis content.
 
 -*who_toinon
 Monsieur, vous…
 
 -*who_dorame
-Là-dessus à rien je ne m'oppose,
+      Là-dessus à rien je ne m'oppose,
 Allez.
-Il faut un peu leur souffrir quelque chose ;
+      Il faut un peu leur souffrir quelque chose ;
 La Musique est un Art qui contente l'esprit,
 Et qui dans le Convent donne quelque crédit.
 
-**** *book_ *id_body-4-7 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte207 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_le_musicien
 Monsieur.
 
 -*who_dorame
-Que vous plaist-il ?
+      Que vous plaist-il ?
 
 -*who_le_musicien
-De la part d'Angélique,
+      De la part d'Angélique,
 Je viens…
 
 -*who_dorame
-Hé bien ?
+      Hé bien ?
 
 -*who_le_musicien
-Je suis un Maistre de Musique ;
+      Je suis un Maistre de Musique ;
 On dit que vostre Fille en cherche un excellent,
 Et j'ay pour ce grand Art⁎ un merveilleux talent ;
 Sur tout j'y suis sçavant autant qu'on le peut estre ;
@@ -1703,7 +1703,7 @@ Et sans trop me vanter, j'y suis assez grand Maistre.
 Que veut dire cecy ?
 
 -*who_le_musicien
-Monsieur, c'est un grand bien ;
+      Monsieur, c'est un grand bien ;
 Quand un Maistre est habile, & qu'il n'ignore rien,
 C'est pour un Ecolier un fort grand avantage.
 
@@ -1711,11 +1711,11 @@ C'est pour un Ecolier un fort grand avantage.
 Ecoutons jusqu'au bout.
 
 -*who_le_musicien
-Que c'est un rare ouvrage,
+      Que c'est un rare ouvrage,
 Qu'un grand Musicien !
 
 -*who_dorame
-Je le croy comme vous.
+      Je le croy comme vous.
 
 -*who_le_musicien
 Mais on en voit si peu… Je creve de courroux,
@@ -1731,14 +1731,14 @@ Pour le moins aussi-bien qu'aucun qui soit en France.
 Ce n'est pas coucher gros.
 
 -*who_dorame
-Ah quelle suffisance !
+      Ah quelle suffisance !
 Que tous ces Gens sont vains !
 
 -*who_le_musicien
-Plaist-il ?
+      Plaist-il ?
 
 -*who_dorame
-Je ne dis mot.
+      Je ne dis mot.
 
 -*who_le_musicien
 Monsieur, dans mon Mestier, je ne suis pas un sot.
@@ -1757,7 +1757,7 @@ Où je verrois du Roy ma valeur estimée.
 Le grand fou !
 
 -*who_le_musicien
-Grace au Ciel, nous avons cela bon,
+      Grace au Ciel, nous avons cela bon,
 Et je sçay m'en servir de la bonne façon ;
 Car quand l'occasion se trouve un peu pressante,
 Je sangle⁎ un coup d'Epée aussi-bien que je chante.
@@ -1766,7 +1766,7 @@ Je sangle⁎ un coup d'Epée aussi-bien que je chante.
 Fort-bien.
 
 -*who_le_musicien
-Je sçay qu'il est force Musiciens,
+      Je sçay qu'il est force Musiciens,
 Qu'avec juste raison on estime des riens :
 Mais si j'en estois crû, dans l'état où nous sommes,
 Les bons, à leur mépris, seroient faits Gentilhommes.
@@ -1784,10 +1784,10 @@ Quant à moy, franchement, j'en suis peu curieux :
 Parlez-en à Monsieur, il vous répondra mieux.
 Moy, j'écoute.
 
-**** *book_ *id_body-4-8 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte208 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_le_musicien
-Monsieur sçait-il de la Musique ?
+      Monsieur sçait-il de la Musique ?
 
 -*who_dorame
 J'ignore s'il en sçait, mais je sçay qu'il s'en pique⁎.
@@ -1803,19 +1803,19 @@ Je gage que Monsieur touche⁎ quelque Instrument.
 Cela peut estre vray.
 
 -*who_le_musicien
-Mais délicatement.
+      Mais délicatement.
 Aparemment, Monsieur, vous joüez de la Vielle.
 
 -*who_crispin
 Que dire !
-Et nous joüons…
+      Et nous joüons…
 
 -*who_le_musicien
-Je vous tiens un modelle
+      Je vous tiens un modelle
 Qu'on doit suivre par tout.
 
 -*who_crispin
-Il n'en faut point douter.
+      Il n'en faut point douter.
 
 -*who_le_musicien
 Sur un Trio nouveau peut-on vous consulter ?
@@ -1824,7 +1824,7 @@ Sur un Trio nouveau peut-on vous consulter ?
 Payons d'effronterie.
 
 -*who_le_musicien
-Or faites-moy la grace
+      Or faites-moy la grace
 De m'éclaircir un peu sur ce qui m'embarasse :
 C'est un certain endroit que j'ay peine à sauver⁎.
 
@@ -1837,7 +1837,7 @@ La Basse va devant cet E mi la B quarre.
 Hem ?
 
 -*who_crispin
-Voila des accords dont je suis enchanté.
+      Voila des accords dont je suis enchanté.
 
 -*who_le_musicien
 Ces accords ne font pas cette difficulté :
@@ -1847,16 +1847,16 @@ Que peu de nos Sçavans possede comme moy.
 Là, voyez.
 
 -*who_crispin
-Je voudrois te voir au Diable.
+      Je voudrois te voir au Diable.
 
 -*who_le_musicien
-Quoy ?
+      Quoy ?
 
 -*who_crispin
 Rien.
 
 -*who_le_musicien
-C'est cet E mi la qui me fait de la peine,
+      C'est cet E mi la qui me fait de la peine,
 Et pour le bien sauver, il me met à la gesne.
 Que feriez-vous, Monsieur, dans un tel embarras ?
 
@@ -1867,7 +1867,7 @@ A vous dire le vray… Je ne l'y mettrois pas.
 Pourquoy non ?
 
 -*who_crispin
-C'est que… Non, je ne vous veux rien dire.
+      C'est que… Non, je ne vous veux rien dire.
 
 -*who_le_musicien
 Donnez-m'en la raison, & daignez m'en instruire.
@@ -1884,17 +1884,17 @@ Qui fait que dans les sons… on voit de la Musique…
 Comprenez-vous bien ?
 
 -*who_le_musicien
-Non, je ne vous entens⁎ pas,
+      Non, je ne vous entens⁎ pas,
 Ce discours n'est pour moy qu'un galimatias.
 
 -*who_crispin
 Tant-pis.
 
 -*who_le_musicien
-D'où vient ?
+      D'où vient ?
 
 -*who_crispin
-Il faut manquer de connoissance,
+      Il faut manquer de connoissance,
 Ou posseder au moins bien peu d'intelligence⁎,
 Pour me répondre ainsi ; car Monsieur m'entend⁎ bien.
 
@@ -1913,7 +1913,7 @@ Fait que vous rencontrez… l'intervale du son…
 Me comprenez-vous mieux ?
 
 -*who_dorame
-Ma foy, la mesme chose :
+      Ma foy, la mesme chose :
 J'entendois peu le texte, & j'entens moins la glose.
 Parlez tous deux François, sans chercher ces grands mots.
 
@@ -1922,17 +1922,17 @@ Ah les termes de l'Art⁎ sont là fort à propos,
 Demandez.
 
 -*who_le_musicien
-Vos discours confondent ma science :
+      Vos discours confondent ma science :
 Mais, Monsieur, solfiez, pour plus d'intelligence,
 Je vous comprendray mieux.
 
 -*who_crispin
-Qui, moy ! moy, solfier !
+      Qui, moy ! moy, solfier !
 C'est me traitter par là de petit Ecolier ;
 Vous estes plaisant !
 
 -*who_dorame
-C'est un Maistre de Musique,
+      C'est un Maistre de Musique,
 Envoyé de la part de Madame Angélique.
 
 -*who_le_musicien
@@ -1942,81 +1942,81 @@ Luy Maistre de Musique ! Ah c'est un imposteur.
 Vous en avez menty.
 
 -*who_le_musicien
-Quoy…
+      Quoy…
 
 -*who_dorame
-Tréve de fureur,
+      Tréve de fureur,
 Ou…
 
 -*who_le_musicien
-J'ay tort, oüy, Monsieur, car il n'a point d'Epée.
+      J'ay tort, oüy, Monsieur, car il n'a point d'Epée.
 
 -*who_dorame
 La vostre, en ce moment, seroit mal occupée ;
 On diroit…
 
 -*who_le_musicien
-Je le sçay ; Mais souffrir un affront
+      Je le sçay ; Mais souffrir un affront
 De ce Fat, non, non.
 
 -*who_crispin
-Hom… J'ay le bras un peu prompt,
+      Hom… J'ay le bras un peu prompt,
 Va-t-en.
 
 -*who_dorame
-Sortez d'icy, si vous voulez vous battre.
+      Sortez d'icy, si vous voulez vous battre.
 
 -*who_le_musicien
 Il faut…
 
 -*who_dorame
-Tout-doux.
+      Tout-doux.
 
 -*who_crispin
-Ce Fat se fait tenir à quatre.
+      Ce Fat se fait tenir à quatre.
 
 -*who_le_musicien
 Ah ç'en est trop souffrir.
 
 -*who_crispin
-Le Drôle en veut par là.
+      Le Drôle en veut par là.
 
 -*who_dorame
 Arrestez.
 
 -*who_le_musicien
-Laissez-nous…
+      Laissez-nous…
 
 -*who_dorame
-Hola quelqu'un, hola.
+      Hola quelqu'un, hola.
 
 -*who_le_musicien
 Faquin⁎ !
 
 -*who_crispin
-Maraut⁎ !
+      Maraut⁎ !
 
 -*who_dorame
-Ah, ah, ah, Messieurs, prenez garde ;
+      Ah, ah, ah, Messieurs, prenez garde ;
 Sinon…
 
 -*who_le_musicien
-Fourbe⁎ !
+      Fourbe⁎ !
 
 -*who_crispin
-Coquin⁎ !
+      Coquin⁎ !
 
 -*who_dorame
-C'est trop ; Ma Halebarde ;
+      C'est trop ; Ma Halebarde ;
 Qu'on arreste, ou bien…
 
 -*who_crispin
-Hom…
+      Hom…
 
 -*who_le_musicien
-Tu m'échapes en vain.
+      Tu m'échapes en vain.
 
-**** *book_ *id_body-4-9 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte209 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_toinon
 D'où vient cecy ? Monsieur les armes à la main !
@@ -2029,65 +2029,65 @@ Et moy, pour mettre fin à tous leurs démeslez,
 J'ay pris ma Halebarde.
 
 -*who_toinon
-Et d'où vient qu'Angélique
+      Et d'où vient qu'Angélique
 Envoyroit tout-à-coup deux Maistres de Musique ?
 
 -*who_dorame
 C'est pour en faire choix.
 
 -*who_le_musicien
-Ce Fourbe⁎ ne l'est pas.
+      Ce Fourbe⁎ ne l'est pas.
 
 -*who_crispin
 Vous en avez menty.
 
 -*who_le_musicien
-Sors.
+      Sors.
 
 -*who_crispin
-Va, je suis tes pas.
+      Va, je suis tes pas.
 
 -*who_le_musicien
 Je t'attens.
 
 -*who_dorame
-Vous pourrez vous battre dans la Rüe,
+      Vous pourrez vous battre dans la Rüe,
 Et…
-Serviteur.
+      Serviteur.
 
-**** *book_ *id_body-4-10 *act_acte2 *date_1674 *creator_hauteroche
+**** *book_ *id_acte210 *act_acte2 *date_1674 *creator_hauteroche
 
 -*who_toinon
-Crispin, ah je suis toute émûë.
+      Crispin, ah je suis toute émûë.
 
 -*who_crispin
 Qu'as-tu ?
 
 -*who_toinon
-Je crains…
+      Je crains…
 
 -*who_crispin
-Pour qui ?
+      Pour qui ?
 
 -*who_toinon
-Pour toy.
+      Pour toy.
 
 -*who_crispin
-Va, ne crains rien.
+      Va, ne crains rien.
 
 -*who_toinon
 Mais…
 
 -*who_dorame
-Toinon.
+      Toinon.
 
 -*who_toinon
-J'y vais.
+      J'y vais.
 
 -*who_crispin
-Va, je m'en tireray bien.
+      Va, je m'en tireray bien.
 
-**** *book_ *id_body-5-1 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte301 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_crispin
 En peu de mots, Monsieur, voila toute l'histoire.
@@ -2116,7 +2116,7 @@ Sur chaque circonstance estes-vous bien instruit ?
 Faut-il recommencer ?
 
 -*who_phelonte
-Non, Crispin, il suffit.
+      Non, Crispin, il suffit.
 Mais pour mieux étourdir ce Maistre de Musique,
 Et devant le Vieillard luy faire un peu la nique,
 Il falloit sçavoir là quelques termes de l'Art⁎.
@@ -2125,10 +2125,10 @@ Il falloit sçavoir là quelques termes de l'Art⁎.
 Bon, j'en sçay.
 
 -*who_phelonte
-D'où ?
+      D'où ?
 
 -*who_crispin
-J'en ay retenu par hazard,
+      J'en ay retenu par hazard,
 Alors qu'à composer vostre Maistre vous montre,
 Dont j'ay sçeu, sans raison, m'aider en ce rencontre⁎.
 D'ailleurs, vos Violons, souvent hors de propos,
@@ -2140,11 +2140,11 @@ Ils m'en ont mille fois étourdy les oreilles.
 Fort-bien.
 
 -*who_crispin
-Sur chaque point vous estes satisfait ;
+      Sur chaque point vous estes satisfait ;
 Mais la Dame, Monsieur…
 
 -*who_phelonte
-Ecoute son billet.
+      Ecoute son billet.
 
 -*who_phelonte
 Vostre Lettre, Phélonte, pourroit persuader une Personne qui vous connoistroit moins que moy : mais je veux bien vous dire que je suis parfaitement instruite de toutes vos manieres.
@@ -2159,7 +2159,7 @@ Adieu, pensez à ce que je vous écris, & croyez que je parle avec sinceritê, q
 Qu'en penses-tu, Crispin ?
 
 -*who_crispin
-Elle paroist sincere,
+      Elle paroist sincere,
 Et la Dame a, Monsieur, tout ce qu'il faut pour plaire.
 
 -*who_phelonte
@@ -2169,7 +2169,7 @@ A ne te rien celer, j'aime son procedé.
 Elle a beaucoup d'apas⁎.
 
 -*who_phelonte
-J'en suis persuadé ;
+      J'en suis persuadé ;
 Tu me l'as peinte aimable⁎ autant qu'on le peut estre.
 
 -*who_crispin
@@ -2177,11 +2177,11 @@ Je n'en juge qu'autant que je puis m'y connestre ;
 Mais elle me plaist fort.
 
 -*who_phelonte
-Je brûle de la voir,
+      Je brûle de la voir,
 Crispin.
 
 -*who_crispin
-Il faut tâcher à luy faire sçavoir.
+      Il faut tâcher à luy faire sçavoir.
 
 -*who_phelonte
 Allons, Crispin, allons, vien, conduis-moy chez elle.
@@ -2194,7 +2194,7 @@ De ce peu de respect elle pourroit gronder.
 Oh tu m'introduiras.
 
 -*who_crispin
-Dieu m'en veüille garder ;
+      Dieu m'en veüille garder ;
 Le Pere est d'une humeur⁎ qui n'est pas fort tranquille,
 Je crains sa Halebarde, & plus encor sa bile ;
 Au moindre différent les armes à la main,
@@ -2204,25 +2204,25 @@ Nous montre qu'il n'a pas un esprit fort humain.
 Ne crains rien.
 
 -*who_crispin
-Tout-de-bon, aimez-vous cette Dame ?
+      Tout-de-bon, aimez-vous cette Dame ?
 
 -*who_phelonte
 Oüy.
 
 -*who_crispin
-Vous sentez pour elle une sincére flâme ?
+      Vous sentez pour elle une sincére flâme ?
 
 -*who_phelonte
 Oüy.
 
 -*who_crispin
-Point.
+      Point.
 
 -*who_phelonte
-Pourquoy non ?
+      Pourquoy non ?
 
 -*who_crispin
-Bon ; Vostre amour libertin⁎
+      Bon ; Vostre amour libertin⁎
 S'attache-t-il jamais que pour faire butin ?
 Et quand une Beauté parle de Mariage,
 Le Scélerat veut-il entendre ce langage ?
@@ -2243,7 +2243,7 @@ Je la connois fort peu ; mais je juge à son air,
 Qu'elle est sage, Monsieur.
 
 -*who_phelonte
-Eh Crispin, la Sagesse
+      Eh Crispin, la Sagesse
 Ne s'épouvante pas pour un peu de tendresse⁎ :
 Cette vertu n'a plus cette austere rigueur,
 Qui ne pouvoit souffrir de l'amour dans un cœur ;
@@ -2262,19 +2262,19 @@ Vous retirer apres, & n'y retourner plus.
 Non, allons.
 
 -*who_crispin
-Je ne sçay ce qu'il faut que j'en croye.
+      Je ne sçay ce qu'il faut que j'en croye.
 
 -*who_phelonte
 D'où vient ?
 
 -*who_crispin
-Vous aimer ! vous !
+      Vous aimer ! vous !
 
 -*who_phelonte
-Oüy.
+      Oüy.
 
 -*who_crispin
-Que j'aurois de joye,
+      Que j'aurois de joye,
 De vous voir avec nous au nombre des Amans⁎ !
 Songez-y bien, la Dame a beaucoup d'agrémens.
 
@@ -2282,7 +2282,7 @@ Songez-y bien, la Dame a beaucoup d'agrémens.
 Allons ; si sa beauté répond à mon attente,
 Tu me verras pour elle une flâme constante.
 
-**** *book_ *id_body-5-2 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte302 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Ce changement en vous, est contre mon espoir.
@@ -2296,20 +2296,20 @@ Il vient au rendez-vous, mais contre mon attente,
 Je vois un Inconnu…
 
 -*who_crispin
-C'est ce Musicien,
+      C'est ce Musicien,
 Ne me découvrez pas.
 
 -*who_phelonte
-Je m'en garderay bien,
+      Je m'en garderay bien,
 Ce seroit tout gaster.
 
-**** *book_ *id_body-5-3 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte303 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_phelonte
-Que vous plaist-il ?
+      Que vous plaist-il ?
 
 -*who_le_musicien
-De grace,
+      De grace,
 Connoissez-moy, Monsieur, excusez mon audace ;
 J'enseigne la Musique, & cet Art⁎, Dieu mercy,
 Dans tous mes Ecoliers m'a si bien réüssy,
@@ -2323,7 +2323,7 @@ Ce bruit a fait en moy naistre un ardent desir
 De vous voir, & je viens…
 
 -*who_phelonte
-Vous me faites plaisir.
+      Vous me faites plaisir.
 
 -*who_le_musicien
 J'ay fait un Opera, Monsieur, qui doit surprendre⁎,
@@ -2333,45 +2333,45 @@ Et je viens tout exprés vous prier de l'entendre.
 Volontiers.
 
 -*who_le_musicien
-Je m'en tais ; mais sans faire le vain…
+      Je m'en tais ; mais sans faire le vain…
 Chez Madame Angélique il paroistra demain.
 
 -*who_phelonte
 Je ne la connoy point.
 
 -*who_le_musicien
-Ce Billet marque l'heure,
+      Ce Billet marque l'heure,
 Et par luy vous serez instruit de sa demeure.
 
 -*who_phelonte
 Je n'y manqueray pas.
 
 -*who_le_musicien
-Ah c'est une faveur
+      Ah c'est une faveur
 Dont se flatte aujourd'huy vostre humble Serviteur.
 
 -*who_phelonte
 Suffit ; Adieu.
 
 -*who_le_musicien
-Monsieur, je vous feray connoistre…
+      Monsieur, je vous feray connoistre…
 Mais je voy, ce me semble, un…
 
 -*who_phelonte
-Vous voyez mon Maistre.
+      Vous voyez mon Maistre.
 
 -*who_le_musicien
 Je m'étonne, Monsieur, que vous ayiez choisy
 L'Homme le plus ignare…
 
 -*who_crispin
-Hé morbleu ! venez-y,
+      Hé morbleu ! venez-y,
 Disputer avec moy sur la préeminence
 D'un Art⁎… Je vous le livre aussy plein d'ignorance,
 Que Chantre du Pont-neuf.
 
 -*who_phelonte
-Hé, Messieurs ! là, tout-doux.
+      Hé, Messieurs ! là, tout-doux.
 
 -*who_le_musicien
 Quoy ! pouvez-vous souffrir cet Ignorant chez vous ?
@@ -2379,7 +2379,7 @@ Je vay le décrier dans tous les Lieux du Monde ;
 Et ne souffriray point…
 
 -*who_phelonte
-Permettez qu'il réponde :
+      Permettez qu'il réponde :
 Comme vous l'accusez d'estre ignorant, il doit…
 
 -*who_crispin
@@ -2390,7 +2390,7 @@ Il fait le suffisant, à cause de sa Brette.
 J'ay droit de la porter. Mon Pere…
 
 -*who_crispin
-Estoit Vedette⁎,
+      Estoit Vedette⁎,
 Quand dans la plaine d'Oüille on vint camper. Voila
 Ses Titres de Noblesse entez sur E mi la.
 
@@ -2402,12 +2402,12 @@ Mais, Monsieur, il n'a point la méthode meschante⁎ :
 Je m'en suis bien trouvé jusqu'icy.
 
 -*who_le_musicien
-Bien trouvé !
+      Bien trouvé !
 De tous les Ignorans c'est le plus achevé,
 Je vous le dis encor.
 
 -*who_phelonte
-Sans chaleur, je vous prie.
+      Sans chaleur, je vous prie.
 
 -*who_le_musicien
 Il n'a que du jargon, & de l'effronterie.
@@ -2417,7 +2417,7 @@ Je viens pourtant encor de vous rendre Mutus
 Chez un certain Vieillard, là, tout-à-l'heure.
 
 -*who_le_musicien
-Abus ;
+      Abus ;
 C'est un extravagant ; par son seul équipage⁎
 J'ay d'abord aisément jugé du Personnage :
 N'est-ce pas affronter la Musique ? Il est fou.
@@ -2426,7 +2426,7 @@ N'est-ce pas affronter la Musique ? Il est fou.
 Prenez-vous par le nez.
 
 -*who_phelonte
-Mais de grace, par où
+      Mais de grace, par où
 Avez-vous découvert qu'il est si meschant⁎ Maistre ?
 
 -*who_le_musicien
@@ -2447,7 +2447,7 @@ Il vous la gastera, si vous ne le changez.
 Il faudra voir.
 
 -*who_crispin
-J'ay peur, si vous ne délogez…
+      J'ay peur, si vous ne délogez…
 
 -*who_le_musicien
 Pour rien, au lieu de luy, j'aime mieux vous aprendre.
@@ -2456,22 +2456,22 @@ Pour rien, au lieu de luy, j'aime mieux vous aprendre.
 Pour rien ?
 
 -*who_le_musicien
-Pour rien, vous dis-je.
+      Pour rien, vous dis-je.
 
 -*who_crispin
-Oüy, oüy, l'on va te prendre !
+      Oüy, oüy, l'on va te prendre !
 Tu n'es bon qu'à montrer à des Grenouilles.
 
 -*who_le_musicien
-Moy !
+      Moy !
 Pour l'honneur du Mestier, Monsieur…
 
 -*who_phelonte
-De bonne-foy,
+      De bonne-foy,
 Il est juste qu'apres plusieurs ans…
 
 -*who_le_musicien
-A l'épreuve,
+      A l'épreuve,
 De mon sçavoir gratis je vous offre la preuve :
 Mais pour vous faire voir que c'est un Ignorant,
 Et que je crains fort peu ce chétif Concurrent,
@@ -2499,7 +2499,7 @@ Je gage que Monsieur blâme cette méthode.
 Laissons cela, chantez.
 
 -*who_crispin
-Moy ? je n'en feray rien ;
+      Moy ? je n'en feray rien ;
 Vostre accent est Gascon, le mien Parisien :
 Apprenez mon accent, & j'apprendray le vostre,
 Puis on pourra juger & de l'un, & de l'autre.
@@ -2514,29 +2514,29 @@ Monsieur sçait que je parle avec grand jugement⁎.
 Enfin, c'est sans raison…
 
 -*who_le_musicien
-Je suis las de l'entendre ;
+      Je suis las de l'entendre ;
 Monsieur, encor un coup, oüy, je veux vous aprendre ;
 Et si je ne vous fais mieux chanter mille fois…
 Qu'il n'a pû…
 
 -*who_phelonte
-Trouvez bon qu'il acheve son Mois,
+      Trouvez bon qu'il acheve son Mois,
 Nous nous verrons en suite.
 
 -*who_le_musicien
-Il faut vous laisser faire ;
+      Il faut vous laisser faire ;
 Mais je veux…
 
 -*who_crispin
-Tu prétens qu'à moy l'on te préfere,
+      Tu prétens qu'à moy l'on te préfere,
 Musicien de bale ?
 
 -*who_le_musicien
-En autre lieu qu'icy,
+      En autre lieu qu'icy,
 Je t'apprendray…
 
 -*who_crispin
-Va, va, n'en sois point en soucy ;
+      Va, va, n'en sois point en soucy ;
 Si tu sçais ferrailler, je chamaille à merveilles.
 
 -*who_le_musicien
@@ -2547,10 +2547,10 @@ Seul-à-seul de pied ferme, on te peut divertir.
 Je ne veux contre toy, qu'une Broche à rostir.
 Adieu, ré mi fa sol.
 
-**** *book_ *id_body-5-4 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte304 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_crispin
-Ma Maistresse le pique⁎.
+      Ma Maistresse le pique⁎.
 
 -*who_phelonte
 Je te vois Gradué, peu s'en faut, en Musique.
@@ -2560,19 +2560,19 @@ Oüy, mais cette Musique attirera sur moy
 Quelque moment fâcheux.
 
 -*who_phelonte
-Le crains-tu ?
+      Le crains-tu ?
 
 -*who_crispin
-Non, ma foy :
+      Non, ma foy :
 Mais si le rencontrant, il faut que je chamaille,
 Et que d'un coup d'Epée il me gaste la taille,
 Hem ?
 
 -*who_phelonte
-J'en serois fâché.
+      J'en serois fâché.
 
 -*who_crispin
-Vous en riez ! Fort-bien.
+      Vous en riez ! Fort-bien.
 
 -*who_phelonte
 Je préviendray ce mal, n'en appréhendes rien ;
@@ -2582,14 +2582,14 @@ Je veux l'aimer, Crispin, d'une flâme immortelle.
 -*who_crispin
 Il faut que depuis peu vous soyez bien changé !
 
-**** *book_ *id_body-5-5 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte305 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Fanchon, tu sçais à quoy je me suis engagé
 A Mélante.
 
 -*who_fanchon
-Oüy, Monsieur, vous m'en avez instruite.
+      Oüy, Monsieur, vous m'en avez instruite.
 
 -*who_phelonte
 Dis-luy, quand il viendra, qu'une affaire subite
@@ -2599,32 +2599,32 @@ M'a forcé de sortir, mais qu'il peut tout icy.
 Fort-bien.
 
 -*who_phelonte
-J'entens quelqu'un ; Peut-estre le voicy.
+      J'entens quelqu'un ; Peut-estre le voicy.
 
 -*who_fanchon
 Ce n'est pas luy.
 
 -*who_phelonte
-Qui donc ?
+      Qui donc ?
 
 -*who_fanchon
-C'est Monsieur Boniface,
+      C'est Monsieur Boniface,
 Qui vient pour vostre Frere implorer vostre grace.
 
-**** *book_ *id_body-5-6 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte306 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_boniface
 Oüy, Monsieur.
 
 -*who_phelonte
-Là-dessus qu'on me laisse en repos.
+      Là-dessus qu'on me laisse en repos.
 
 -*who_boniface
 La Clemence est, Monsieur, la vertu des Héros :
 Vous sçavez que Plutarque… 
 
 -*who_phelonte
-Eh Monsieur Boniface,
+      Eh Monsieur Boniface,
 Plutarque, en cet endroit, n'est pas fort en sa place.
 
 -*who_fanchon
@@ -2646,21 +2646,21 @@ Obtenons de Monsieur, le pardon pour son Frere.
 Eh Monsieur !
 
 -*who_fanchon
-Eh Monsieur !
+      Eh Monsieur !
 
 -*who_phelonte
-Non, je n'en veux rien faire.
+      Non, je n'en veux rien faire.
 
 -*who_boniface
 Monsieur…
 
 -*who_phelonte
-Suis-moy, Crispin.
+      Suis-moy, Crispin.
 
-**** *book_ *id_body-5-7 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte307 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_boniface
-On ne peut le fléchir.
+      On ne peut le fléchir.
 
 -*who_fanchon
 Peut-estre, avec le temps, qu'on pourra l'adoucir.
@@ -2673,7 +2673,7 @@ C'est un jeune Eventé⁎, que j'ay peine à réduire.
 Souffrir qu'il s'enrolast !
 
 -*who_boniface
-C'estoit à mon insçeu ;
+      C'estoit à mon insçeu ;
 Il m'avoit, pour le faire, adroitement déceu⁎ ;
 Mais tout ce différent ne m'inquiéte guére,
 Qu'ils s'accordent entr'eux, Fanchon, c'est leur affaire.
@@ -2682,19 +2682,19 @@ Qu'ils s'accordent entr'eux, Fanchon, c'est leur affaire.
 En effet.
 
 -*who_boniface
-Quant à moy, j'en prens peu de soucy.
+      Quant à moy, j'en prens peu de soucy.
 
 -*who_fanchon
 C'est fort bien fait à vous.
 
 -*who_boniface
-Le Ciel m'a fait ainsy.
+      Le Ciel m'a fait ainsy.
 
 -*who_fanchon
 Vous fuyez le chagrin⁎.
 
 -*who_boniface
-Mon partage est la joye,
+      Mon partage est la joye,
 Par elle on a des jours filez d'or & de soye.
 Non, non, point de chagrin, vive la gayeté,
 Elle nourrit l'esprit, & soûtient la santé.
@@ -2718,7 +2718,7 @@ Du moins il vous profite autant & plus qu'à moy,
 Cela se voit.
 
 -*who_boniface
-Oüy ; mais parlons de bonne-foy ;
+      Oüy ; mais parlons de bonne-foy ;
 Fanchon, vostre embonpoint assez du mien approche,
 Je suis un peu Cochon, vous estes un peu Coche.
 
@@ -2733,7 +2733,7 @@ Et je vous aime autant que vous estes aimable⁎.
 -*who_fanchon
 Ne parlons point d'aimer, & changeons de propos.
 
-**** *book_ *id_body-5-8 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte308 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_la_ronce
 Fort-bien. Ne viens-je point icy mal à propos ?
@@ -2742,10 +2742,10 @@ Fort-bien. Ne viens-je point icy mal à propos ?
 Non.
 
 -*who_la_ronce
-Avez-vous tout dit ?
+      Avez-vous tout dit ?
 
 -*who_fanchon
-Nous n'avons rien à dire.
+      Nous n'avons rien à dire.
 
 -*who_la_ronce
 Si je suis importun, parlez, je me retire.
@@ -2754,60 +2754,60 @@ Si je suis importun, parlez, je me retire.
 Non, demeurez, je sors.
 
 -*who_la_ronce
-En suis-je cause ?
+      En suis-je cause ?
 
 -*who_boniface
-Non.
+      Non.
 
 -*who_la_ronce
 Si c'est moy…
 
 -*who_boniface
-Non, vous dis-je ; Adieu, belle Fanchon.
+      Non, vous dis-je ; Adieu, belle Fanchon.
 
 -*who_fanchon
 Adieu, beau Boniface.
 
 -*who_boniface
-Ah !
+      Ah !
 
-**** *book_ *id_body-5-9 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte309 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_fanchon
-Qu'est-ce ?
+      Qu'est-ce ?
 
 -*who_la_ronce
-On vous demande.
+      On vous demande.
 
 -*who_fanchon
 Et qui ?
 
 -*who_la_ronce
-C'est vostre Maistre à chanter.
+      C'est vostre Maistre à chanter.
 
 -*who_fanchon
-Qu'il attende.
+      Qu'il attende.
 
 -*who_la_ronce
 Il est pressé, dit-il.
 
 -*who_fanchon
-Qu'il revienne tantost⁎ :
+      Qu'il revienne tantost⁎ :
 Dy-luy que je ne puis…
 
 -*who_la_ronce
-Je diray ce qu'il faut.
+      Je diray ce qu'il faut.
 
 -*who_fanchon
 Et que luy diras-tu ?
 
 -*who_la_ronce
-Qu'une affaire pressée,
+      Qu'une affaire pressée,
 Pour quelque temps icy vous tient embarassée.
 L'excuse est-elle bonne ?
 
 -*who_fanchon
-Oüy, va, c'est fort bien dit.
+      Oüy, va, c'est fort bien dit.
 
 -*who_la_ronce
 Est-ce que vous croyez que je manque d'esprit ?
@@ -2820,13 +2820,13 @@ Et souvent tu répons, sans sçavoir ce qu'on pense.
 Moy ?
 
 -*who_fanchon
-Va rendre réponse à mon Maistre à chanter.
+      Va rendre réponse à mon Maistre à chanter.
 
 -*who_la_ronce
 Mais…
 
 -*who_fanchon
-Va, te dis-je ; apres je sçauray t'écouter.
+      Va, te dis-je ; apres je sçauray t'écouter.
 Ces Esprits turbulens me font devenir fole,
 Car jusques dans la bouche ils coupent la parole :
 Souvent, loin qu'avec eux on puisse s'expliquer,
@@ -2838,31 +2838,31 @@ Ils n'ont, pour l'appuyer, que l'obstination,
 De trop d'estime d'eux leur esprit les enyvre,
 Et croit que leur avis est le seul qu'il faut suivre.
 
-**** *book_ *id_body-5-10 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte310 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_fanchon
 Hé bien, reviendra-t-il ?
 
 -*who_la_ronce
-Il n'y manquera pas.
+      Il n'y manquera pas.
 
 -*who_fanchon
 Qu'a-t-il dit ?
 
 -*who_la_ronce
-Rien.
+      Rien.
 
 -*who_fanchon
-Tant-mieux.
+      Tant-mieux.
 
 -*who_la_ronce
-Le Bréton est là-bas.
+      Le Bréton est là-bas.
 
 -*who_fanchon
 Le Bréton !
 
 -*who_la_ronce
-Autrement le Valet de Mélante ;
+      Autrement le Valet de Mélante ;
 Il demande Monsieur pour affaire pressante.
 
 -*who_fanchon
@@ -2872,100 +2872,100 @@ Je sçay bien ce que c'est ; Dy-luy qu'il vienne icy.
 Il a beu plus d'un coup.
 
 -*who_fanchon
-Qu'importe.
+      Qu'importe.
 
 -*who_la_ronce
-Le voicy.
+      Le voicy.
 
-**** *book_ *id_body-5-11 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte311 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_fanchon
 Que veux-tu ?
 
 -*who_le_breton
-Je veux…
+      Je veux…
 
 -*who_fanchon
-Quoy ?
+      Quoy ?
 
 -*who_le_breton
-Je veux Monsieur ton Maistre.
+      Je veux Monsieur ton Maistre.
 
 -*who_fanchon
 Il est sorty.
 
 -*who_le_breton
-Tant-pis : Mais où donc peut-il estre ?
+      Tant-pis : Mais où donc peut-il estre ?
 
 -*who_fanchon
 Je ne sçay.
 
 -*who_le_breton
-Tu ne sçais ?
+      Tu ne sçais ?
 
 -*who_fanchon
-Non.
+      Non.
 
 -*who_le_breton
-Il faut le chercher,
+      Il faut le chercher,
 Car mon Maistre dans peu…
 
 -*who_fanchon
-Parle sans t'aprocher.
+      Parle sans t'aprocher.
 
 -*who_le_breton
 Pourquoy ?
 
 -*who_fanchon
-Pour rien.
+      Pour rien.
 
 -*who_le_breton
-Fanchon, mon ame… te convoite,
+      Fanchon, mon ame… te convoite,
 Je t'aime.
 
 -*who_fanchon
-Soûtiens-toy.
+      Soûtiens-toy.
 
 -*who_le_breton
-Crois-tu que je sois boite ?
+      Crois-tu que je sois boite ?
 
 -*who_fanchon
 Boite ?
 
 -*who_le_breton
-Oüy, c'est à dire yvre, en langage Breton.
+      Oüy, c'est à dire yvre, en langage Breton.
 
 -*who_fanchon
 Je m'en raporte à toy.
 
 -*who_le_breton
-Je n'ay pas beu.
+      Je n'ay pas beu.
 
 -*who_la_ronce
-Luy ? Bon.
+      Luy ? Bon.
 Il est à jeun, voyez.
 
 -*who_le_breton
-Oüy da, qu'en veux-tu dire ?
+      Oüy da, qu'en veux-tu dire ?
 
 -*who_fanchon
 Courage.
 
 -*who_la_ronce
-Il n'a pas beu, c'est d'amour qu'il soûpire.
+      Il n'a pas beu, c'est d'amour qu'il soûpire.
 
 -*who_fanchon
 Mais ton Maistre, dy-moy…
 
 -*who_le_breton
-Dans peu tu le verras :
+      Dans peu tu le verras :
 Chantons en l'attendant.
 
 -*who_fanchon
-Fort-bien.
+      Fort-bien.
 
 -*who_le_breton
-Tu ne veux pas,
+      Tu ne veux pas,
 Toy qui chantes si bien, qu'aucun n'y peut atteindre ?
 J'aime à t'oüir chanter, car tu chantes à peindre.
 Vois-tu, je paye Pot ; çà, chante un Passe-Pié.
@@ -2974,44 +2974,44 @@ Vois-tu, je paye Pot ; çà, chante un Passe-Pié.
 Je n'en sçay point.
 
 -*who_le_breton
-Ecoute.
+      Ecoute.
 
 -*who_fanchon
-Il s'est estropié,
+      Il s'est estropié,
 Releve-le.
 
 -*who_le_breton
-Dy-moy, sçais-je pas la cadance ?
+      Dy-moy, sçais-je pas la cadance ?
 
 -*who_la_ronce
 Oüy.
 
 -*who_le_breton
-Prens ton Violon, tu verras si je dance.
+      Prens ton Violon, tu verras si je dance.
 
 -*who_la_ronce
 On ne peut mieux dancer.
 
 -*who_le_breton
-Ah tu fais le rieur.
+      Ah tu fais le rieur.
 
 -*who_la_ronce
 Point.
 
 -*who_le_breton
-Le pied m'a glissé ; mais…
+      Le pied m'a glissé ; mais…
 
-**** *book_ *id_body-5-12 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte312 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_melante
-Plaist-il ?
+      Plaist-il ?
 
 -*who_le_breton
-Rien, Monsieur ;
+      Rien, Monsieur ;
 C'est La Ronce…
 
 -*who_melante
-Est-ce ainsy que l'on me rend réponce ?
+      Est-ce ainsy que l'on me rend réponce ?
 
 -*who_le_breton
 Monsieur, je m'en allois, demandez à La Ronce.
@@ -3026,23 +3026,23 @@ C'est… Nous allons tous deux boire à vostre santé.
 Qu'il a beu !
 
 -*who_fanchon
-Point du tout.
+      Point du tout.
 
 -*who_melante
-Quelquefois il s'en donne ;
+      Quelquefois il s'en donne ;
 Mais il est bon Valet.
 
 -*who_fanchon
-Il a l'humeur boufonne.
+      Il a l'humeur boufonne.
 
 -*who_melante
 Phélonte est-il icy ?
 
 -*who_fanchon
-Non.
+      Non.
 
 -*who_melante
-Le fâcheux moment !
+      Le fâcheux moment !
 
 -*who_fanchon
 Pour affaire pressée il sort presentement :
@@ -3055,12 +3055,12 @@ Icy vous pouvez tout sans que rien vous y gesne ;
 C'est l'ordre de Monsieur.
 
 -*who_melante
-Tu m'ostes de soucy⁎ :
+      Tu m'ostes de soucy⁎ :
 Cette Dame est en Chaise⁎ à trente pas d'icy,
 Je m'en vay l'amener.
 
 -*who_fanchon
-Moy, je vay vous attendre.
+      Moy, je vay vous attendre.
 Ma foy, contre l'Amour, tous les soins qu'on peut prendre,
 Empeschent rarement qu'il ne vienne à sa fin,
 Il sçeut, sçait, & sçaura décevoir⁎ le plus fin :
@@ -3071,7 +3071,7 @@ Et met toute sa joye à tromper un Epoux ;
 Nous trouvons tout possible alors qu'il nous enflâme.
 J'entens parler quelqu'un ; C'est Mélante & sa Dame.
 
-**** *book_ *id_body-5-13 *act_acte3 *date_1674 *creator_hauteroche
+**** *book_ *id_acte313 *act_acte3 *date_1674 *creator_hauteroche
 
 -*who_melante
 Madame, ostez le masque, & n'apréhendez rien ;
@@ -3097,7 +3097,7 @@ Madame a des appas⁎ à charmer⁎ tout le monde.
 Me railler ?
 
 -*who_fanchon
-Je sçay trop tout ce que je vous doy,
+      Je sçay trop tout ce que je vous doy,
 Et quand je parle ainsy, je dis ce que je voy ;
 A loüer vos appas je me sens engagée.
 
@@ -3114,19 +3114,19 @@ Oh point. Vous plairoit-il de descendre au Jardin ?
 Volontiers, allons.
 
 -*who_melante
-Passe.
+      Passe.
 
 -*who_fanchon
-Ah je sçay trop…
+      Ah je sçay trop…
 
 -*who_melante
-N'importe,
+      N'importe,
 Passe.
 
 -*who_fanchon
-Puis qu'il vous plaist, je vais ouvrir la Porte.
+      Puis qu'il vous plaist, je vais ouvrir la Porte.
 
-**** *book_ *id_body-6-1 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte401 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_toinon
 L'embarras est leger, & n'aura point de suite⁎ ;
@@ -3138,14 +3138,14 @@ Laissez faire, elle est Femme à bien tourner la chose,
 N'en appréhendez rien.
 
 -*who_daphnis
-S'il faut t'ouvrir mon cœur,
+      S'il faut t'ouvrir mon cœur,
 Ce n'est pas là, Toinon, le sujet de ma peur.
 
 -*who_toinon
 Qu'avez-vous donc ?
 
 -*who_daphnis
-Je crains de n'avoir, qu'à ma honte,
+      Je crains de n'avoir, qu'à ma honte,
 Entrepris de fixer⁎ le vagabond Phélonte ;
 Et que toûjours luy-mesme, il ne soit peu touché
 De l'avance où pour luy mon cœur s'est relâché.
@@ -3169,7 +3169,7 @@ Phélonte en tient déja, vostre esprit l'a charmé⁎,
 Pour vous, sans vous connoistre, il est tout enflâmé,
 Et par vostre Billet… Mais Crispin qui s'avance…
 
-**** *book_ *id_body-6-2 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte402 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Mon Maistre, de vous voir, brûle d'impatience,
@@ -3179,29 +3179,29 @@ Madame ; il attend l'ordre à quatre pas d'icy.
 Cours le faire entrer.
 
 -*who_daphnis
-Non.
+      Non.
 
 -*who_crispin
-Quel scrupule est-ce-cy ?
+      Quel scrupule est-ce-cy ?
 
 -*who_daphnis
 Je crains trop que mon Pere…
 
 -*who_toinon
-Eh mon Dieu, vostre Pere
+      Eh mon Dieu, vostre Pere
 Est sorty pour longtemps. Va, Crispin…
 
 -*who_daphnis
-Qu'il différe,
+      Qu'il différe,
 Le péril me fait peur ; Une autre fois, Toinon,
 Je m'offre…
 
 -*who_toinon
-Une autre fois vous diriez encor non ;
+      Une autre fois vous diriez encor non ;
 Point de remise.
 
 -*who_daphnis
-Quoy ! tu veux que je hazarde…
+      Quoy ! tu veux que je hazarde…
 
 -*who_crispin
 Vous allez tout gaster, si vous n'y prenez garde,
@@ -3219,16 +3219,16 @@ Devrois-tu pas déja l'avoir averty ? Cours,
 Sans plus jaser.
 
 -*who_crispin
-J'ay tort.
+      J'ay tort.
 
-**** *book_ *id_body-6-3 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte403 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_daphnis
-Où sera mon recours,
+      Où sera mon recours,
 Si mon Pere survient ? Tu me pers.
 
 -*who_toinon
-A ce compte,
+      A ce compte,
 Ce n'est donc rien pour vous, que d'acquérir Phélonte ?
 J'enrage de vous voir sottement barguigner⁎ !
 Qu'est-ce, qu'en reculant, vous auriez pû gagner ?
@@ -3239,13 +3239,13 @@ Non ; mais le voir ailleurs, n'estoit pas impossible,
 Et nous eussions cherché…
 
 -*who_toinon
-Le plutost vaut le mieux.
+      Le plutost vaut le mieux.
 Il vient, songez à vous.
 
-**** *book_ *id_body-6-4 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte404 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_phelonte
-Qu'elle est aimable⁎ ! Ah Dieux !
+      Qu'elle est aimable⁎ ! Ah Dieux !
 D'amour, en la voyant, j'ay déja l'ame pleine.
 
 -*who_crispin
@@ -3256,11 +3256,11 @@ Voyez comme ses yeux friponnement tournez…
 Qu'ils sont touchans, Crispin !
 
 -*who_crispin
-Le friand petit nez !
+      Le friand petit nez !
 Si j'estois vous, Monsieur, j'en tâterois.
 
 -*who_phelonte
-Madame,
+      Madame,
 Ne vous étonnez point du trouble de mon ame ;
 La surprise⁎ où je suis de voir tant de beauté,
 Ne laisse à ma raison aucune liberté ;
@@ -3271,14 +3271,14 @@ Que vous offrir des vœux, est le sort le plus doux.
 Souffrez donc que les miens…
 
 -*who_daphnis
-Ah ç'en est trop, Phélonte,
+      Ah ç'en est trop, Phélonte,
 Toute ardeur m'est suspecte alors qu'elle est si prompte,
 Et quoy que vous veüillez trouver en moy d'appas⁎,
 On aime foiblement ce qu'on ne connoist pas ;
 Le temps seul…
 
 -*who_phelonte
-Non, Madame, alors qu'il faut qu'on aime,
+      Non, Madame, alors qu'il faut qu'on aime,
 L'Amour, en un moment, prend un pouvoir extréme ;
 J'en fais l'expérience, on m'a veu mille fois
 Soûtenir fiérement qu'on aimoit qu'à son choix ;
@@ -3291,7 +3291,7 @@ Ils parlent, c'est à vous d'entendre leur langage,
 Ils vous seront garants…
 
 -*who_daphnis
-Que diriez-vous de moy,
+      Que diriez-vous de moy,
 Si j'avois pour les croire assez de bonne-foy ?
 On vous connoist Phélonte, aujourd'huy c'est mon regne,
 Il n'est cœur que pour moy le vostre ne dédaigne,
@@ -3305,7 +3305,7 @@ Si ce cœur n'est toûjours ferme à vous adorer,
 Que le Ciel…
 
 -*who_toinon
-Pensez-vous estre crû pour jurer ?
+      Pensez-vous estre crû pour jurer ?
 Ce n'est pas en amour un secours fort utile ;
 Les Amans, quels qu'ils soient, ont tous le mesme stile ;
 Et si chaque serment leur tenoit lieu d'effets,
@@ -3316,7 +3316,7 @@ Ce sont toûjours beaux mots, mais non pas sans reserve.
 C'est à tort…
 
 -*who_toinon
-Voyez-vous, il n'est qu'un mot qui serve ;
+      Voyez-vous, il n'est qu'un mot qui serve ;
 Quand on veut de deux cœurs assurer l'union,
 On y broüille trois grains de Matrimonium :
 Cela fait, on se peut aimer tout à son aise.
@@ -3365,7 +3365,7 @@ Peut-estre que chez vous j'iray dés aujourd'huy.
 Séparons-nous ; adieu.
 
 -*who_phelonte
-Vous quitter ! quel ennuy⁎ !
+      Vous quitter ! quel ennuy⁎ !
 
 -*who_daphnis
 Je ne puis vous parler icy, que je ne tremble ;
@@ -3377,56 +3377,56 @@ Mais me priver si-tost d'un si cher entretien,
 Madame…
 
 -*who_daphnis
-Je l'entens, c'est luy, que deviendray-je ?
+      Je l'entens, c'est luy, que deviendray-je ?
 
 -*who_phelonte
 Une honneste recherche⁎ a quelque privilege ;
 Et si je luy dis…
 
 -*who_daphnis
-Non. Toinon, & viste.
+      Non. Toinon, & viste.
 
 -*who_toinon
-Quoy,
+      Quoy,
 Peut-on… Comme il redouble !
 
 -*who_daphnis
-Et tost, c'est fait de moy.
+      Et tost, c'est fait de moy.
 Que dans ce Cabinet ils entrent l'un & l'autre.
 
 -*who_crispin
 Monsieur, nous voila pris.
 
 -*who_toinon
-Ma pensée est la vostre ;
+      Ma pensée est la vostre ;
 Coulez-vous là-dedans, & motus. L'on y va.
 
 -*who_crispin
 Peste ! il a belle haste.
 
 -*who_daphnis
-Et la Clef, tire-la.
+      Et la Clef, tire-la.
 
 -*who_toinon
 Mon Dieu, ne craignez rien. Il heurte avec emphase.
 
-**** *book_ *id_body-6-5 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte405 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_toinon
 Au Diable l'animal !
 
 -*who_daphnis
-Quoy ! Monsieur Anastase,
+      Quoy ! Monsieur Anastase,
 C'est donc vous…
 
 -*who_anastase
-Oüy, Madame, excusez si j'ay tort.
+      Oüy, Madame, excusez si j'ay tort.
 
 -*who_toinon
 Comme il frape !
 
 -*who_anastase
-J'ay crû ne fraper pas trop fort.
+      J'ay crû ne fraper pas trop fort.
 
 -*who_toinon
 Justement. Il croyoit heurter à son College.
@@ -3437,12 +3437,12 @@ Et qu'à grand bruit toûjours chaque chose s'y fait.
 Avec des Ecoliers du repos !
 
 -*who_daphnis
-En effet :
+      En effet :
 Mais, Monsieur Anastase, en deux mots, voyons, qu'est-ce ?
 Que voulez-vous ?
 
 -*who_anastase
-L'Etude orne bien la Jeunesse,
+      L'Etude orne bien la Jeunesse,
 Et j'ay mis, grace au Ciel, vostre Frere en état
 De soûtenir bientost sa These avec éclat.
 A present qu'il est Grec, ce sont ses Galleries,
@@ -3451,27 +3451,27 @@ Sans certains Argumens sur l'étre de raison,
 Par lesquels…
 
 -*who_daphnis
-Finissons, si vous le pouvez.
+      Finissons, si vous le pouvez.
 
 -*who_toinon
-Bon :
+      Bon :
 Pensez-vous qu'un Pédant d'un seul mot se contente ?
 C'est…
 
 -*who_anastase
-Madame, Toinon est toûjours mordicante⁎,
+      Madame, Toinon est toûjours mordicante⁎,
 Et son aversion, quoy que sans fondement,
 Ne m'a jamais traitté qu'antipatiquement :
 Quand elle auroit puisé dans le sein de la haine,
 Les dédains corrosifs…
 
 -*who_toinon
-Vostre fievre-quartaine:
+      Vostre fievre-quartaine:
 Voyez ce qu'il veut dire avec son corrosif ?
 Eh parlez-nous Chretien.
 
 -*who_anastase
-Ah cœur vindicatif !
+      Ah cœur vindicatif !
 Elle m'en a voulu, depuis qu'un jour contr'elle…
 
 -*who_daphnis
@@ -3482,16 +3482,16 @@ Je viens trouver Monsieur de la part de son Fils,
 Luy rendre cette Lettre.
 
 -*who_daphnis
-Il n'est pas au Logis ;
+      Il n'est pas au Logis ;
 Je la rendray pour vous, donnez.
 
 -*who_anastase
-Je vay l'attendre,
+      Je vay l'attendre,
 L'affaire le requiert. Pour vous la faire entendre,
 Vous sçaurez…
 
 -*who_toinon
-On ne veut y prendre aucune part,
+      On ne veut y prendre aucune part,
 Délogez ; car Monsieur ne reviendra que tard.
 
 -*who_anastase
@@ -3501,7 +3501,7 @@ Tard soit, il est besoin que j'en aye audiance.
 Revenez donc tantost⁎.
 
 -*who_anastase
-Non, j'auray patience,
+      Non, j'auray patience,
 Et n'incommodant pas, j'aime mieux en ce lieu…
 
 -*who_toinon
@@ -3509,7 +3509,7 @@ Le Mouchoir⁎ de Madame est de travers ; Adieu,
 Il faut le rajuster, point de Témoins.
 
 -*who_anastase
-Diane
+      Diane
 Fut jadis exposée aux regards d'un Profane ;
 Ses yeux gasterent-ils les celestes beautez…
 
@@ -3518,10 +3518,10 @@ Quoy ! Messieurs du College aiment les nuditez ?
 Je ne le sçavois pas.
 
 -*who_anastase
-La Nature…
+      La Nature…
 
 -*who_daphnis
-Eh, de grace,
+      Eh, de grace,
 Ne moralisez point, & nous quittez la place.
 
 -*who_anastase
@@ -3529,13 +3529,13 @@ Vous avez droit d'agir impérativement,
 Je sors, & suis fâché…
 
 -*who_toinon
-Trévé de compliment⁎,
+      Trévé de compliment⁎,
 On vous quitte.
 
 -*who_daphnis
-Enfin il s'en va, je respire.
+      Enfin il s'en va, je respire.
 
-**** *book_ *id_body-6-6 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte406 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_toinon
 Qu'un Pédant à souffrir est un cruel martyre !
@@ -3544,17 +3544,17 @@ Qu'un Pédant à souffrir est un cruel martyre !
 Ne perdons point de temps, de crainte d'avoir pis ;
 Congédions…
 
-**** *book_ *id_body-6-7 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte407 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_dorame
-J'estois en peine de mon Fils,
+      J'estois en peine de mon Fils,
 Comment est-il ?
 
 -*who_anastase
-Fort bien, Monsieur.
+      Fort bien, Monsieur.
 
 -*who_daphnis
-Toinon, que faire ?
+      Toinon, que faire ?
 
 -*who_toinon
 Ne rien dire, & laisser raisonner vostre Pere.
@@ -3568,17 +3568,17 @@ Il ne sort point, & c'est pour cela qu'il m'envoye
 Vous faire humble requeste.
 
 -*who_dorame
-Ah j'en ay de la joye.
+      Ah j'en ay de la joye.
 Dequoy donc s'agit-il ?
 
 -*who_anastase
-D'un accommodement.
+      D'un accommodement.
 
 -*who_dorame
 Est-ce qu'il auroit eu querelle ?
 
 -*who_anastase
-Nullement ;
+      Nullement ;
 Il a vers la douceur, propension entiere :
 Mais un sien Camarade agissant par priere,
 Luy fait sur certain cas prendre son intérest.
@@ -3589,7 +3589,7 @@ Je ne sçais où j'en suis, s'il falloit pour écrire
 Que dans ce Cabinet…
 
 -*who_toinon
-Vous mettez tout au pire.
+      Vous mettez tout au pire.
 Que sert de craindre ? Alors comme alors, on verra,
 Si l'embarras échoit, comme on s'en tirera.
 
@@ -3612,7 +3612,7 @@ Je suis content de vous, autant qu'on le peut estre.
 Monsieur, sans vanité…
 
 -*who_toinon
-Finira-t-il, le traistre ?
+      Finira-t-il, le traistre ?
 
 -*who_anastase
 Le Ciel m'a de tout temps concedé le talent,
@@ -3626,16 +3626,16 @@ Et l'on ne perd jamais ce que l'on fait pour moy.
 Demain, mon Fils sçaura ce que j'auray pû faire ;
 Adieu.
 
-**** *book_ *id_body-6-8 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte408 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_toinon
-Bon, nous voila quittes de vostre Pere.
+      Bon, nous voila quittes de vostre Pere.
 
 -*who_anastase
 Que m'ordonnerez-vous ?
 
 -*who_toinon
-De décamper ; Bon-soir.
+      De décamper ; Bon-soir.
 
 -*who_daphnis
 A mon Frere, qu'il est trop longtemps sans me voir.
@@ -3646,15 +3646,15 @@ Rigide observateur des Regles du College,
 Si c'est necessité necessitante…
 
 -*who_daphnis
-Non,
+      Non,
 Quand il pourra venir, qu'il vienne.
-Enfin, Toinon,
+      Enfin, Toinon,
 Nostre Importun…
 
 -*who_toinon
-Maudit soit tout Pédant qui jase.
+      Maudit soit tout Pédant qui jase.
 
-**** *book_ *id_body-6-9 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte409 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_dorame
 J'allois oublier. Ho, Monsieur Anastase.
@@ -3669,10 +3669,10 @@ Pas si loin ; je le voy qui revient sur ses pas.
 Monsieur.
 
 -*who_daphnis
-Le rappeller !
+      Le rappeller !
 
 -*who_toinon
-C'est bien une autre histoire.
+      C'est bien une autre histoire.
 
 -*who_dorame
 J'ay fait, depuis deux jours, achapt d'une Ecritoire,
@@ -3681,7 +3681,7 @@ Elle est toute gravée, & d'un travail exquis ;
 Je vous la vay donner.
 
 -*who_daphnis
-Ah me voila perduë !
+      Ah me voila perduë !
 
 -*who_dorame
 La Clef du Cabinet, qu'est-elle devenuë ?
@@ -3691,20 +3691,20 @@ Moy, le dois-je sçavoir ? Elle peut estre en bas,
 Il faut y voir.
 
 -*who_dorame
-Je cherche, & ne la trouve pas ;
+      Je cherche, & ne la trouve pas ;
 Je l'ay tantost⁎ laissée à la Porte.
 
 -*who_daphnis
-Peut-estre
+      Peut-estre
 Toinon en balayant…
 
 -*who_dorame
-Tout sur le dos du Maistre.
+      Tout sur le dos du Maistre.
 Les Valets sont bien nez pour nous faire enrager !
 Qu'ils perdent, brisent tout…
 
 -*who_toinon
-Le dégast est léger :
+      Le dégast est léger :
 Hé bien, c'est une Clef, voyez la grande perte !
 
 -*who_dorame
@@ -3712,28 +3712,28 @@ Mais si du Cabinet la Porte n'est ouverte ?
 L'Ecritoire est dedans.
 
 -*who_toinon
-Le beau sujet d'ennuy⁎ !
+      Le beau sujet d'ennuy⁎ !
 Vous l'envoyrez demain, si ce n'est aujourd'huy.
 
 -*who_dorame
 Oyez-la raisonner.
 
 -*who_anastase
-Comme je suis tout vostre,
+      Comme je suis tout vostre,
 Demain, puis que la Clef…
 
 -*who_dorame
-J'en ay là-haut une autre,
+      J'en ay là-haut une autre,
 Je m'en vay la chercher.
 
 -*who_daphnis
-Fay ce que tu pourras ;
+      Fay ce que tu pourras ;
 Quant à moy je me sauve, & ne l'attendray pas.
 
 -*who_toinon
 Eh que pourray-je faire ? Elle sort, & me laisse.
 
-**** *book_ *id_body-6-10 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte410 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_anastase
 Donc, Madame Toinon sera toûjours tygresse,
@@ -3743,11 +3743,11 @@ Et rien n'adoucira son naturel felon⁎ ?
 Montez viste, Monsieur vous appelle.
 
 -*who_anastase
-Moy ? Non,
+      Moy ? Non,
 Il ne m'appelle point.
 
 -*who_toinon
-Vous estes sourd, je pense.
+      Vous estes sourd, je pense.
 
 -*who_anastase
 Ma faculté d'oüir n'est point en défaillance ;
@@ -3760,7 +3760,7 @@ Tout-à-l'heure. Avez-vous entendu cette fois ?
 Rien moins.
 
 -*who_toinon
-Il vous attend ; montez là-haut, vous dis-je.
+      Il vous attend ; montez là-haut, vous dis-je.
 
 -*who_anastase
 O trop fier rejetton d'une sauvage tige !
@@ -3769,9 +3769,9 @@ De l'heureux teste-à-teste ? Helas ! qu'au poids de l'or
 Je voudrois mille fois…
 
 -*who_toinon
-Peste de la pécore⁎ !
+      Peste de la pécore⁎ !
 
-**** *book_ *id_body-6-11 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte411 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_dorame
 Voicy mon autre Clef, qu'on me la perde encore.
@@ -3780,51 +3780,51 @@ Voicy mon autre Clef, qu'on me la perde encore.
 Tout va se découvrir.
 
 -*who_dorame
-Si… Mais que vois-je là ?
+      Si… Mais que vois-je là ?
 
-**** *book_ *id_body-6-12 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte412 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Suivez bien vostre Mode, allons, par E mi la.
-Le mesme, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa. bis.
+      Le mesme, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa. bis.
 
 -*who_dorame
 Que veut dire cecy ? répons.
 
 -*who_toinon
-Quelle demande !
+      Quelle demande !
 
 -*who_dorame
 Deux Hommes !
 
 -*who_toinon
-La surprise en doit estre bien grande ;
+      La surprise en doit estre bien grande ;
 Est-ce une nouveauté que deux Hommes ?
 
 -*who_crispin
-La, la,
+      La, la,
 Monsieur, vous voulez bien nous pardonner cela.
 
 -*who_dorame
 Ne sçachant…
 
 -*who_phelonte
-Excusez, si j'ose avec franchise⁎,
+      Excusez, si j'ose avec franchise⁎,
 Prendre une liberté que Monsieur autorise :
 Comme il a commencé, c'est à luy jusqu'au bout,
 A vous…
 
 -*who_crispin
-Les Gens d'honneur sont bien venus par tout,
+      Les Gens d'honneur sont bien venus par tout,
 Et Monsieur, qui sçait vivre, est Homme raisonnable,
 Il excuse aisément…
 
 -*who_phelonte
-En rencontre⁎ semblable,
+      En rencontre⁎ semblable,
 Vous…
 
 -*who_crispin
-Monsieur est tout cœur pour les honnestes Gens :
+      Monsieur est tout cœur pour les honnestes Gens :
 L'heure me presse un peu, ne perdons point de temps.
 
 -*who_dorame
@@ -3832,34 +3832,34 @@ Deux Hommes enfermez ; point de clef ; Patience,
 Nous éclaircirons tout.
 
 -*who_crispin
-Chantez donc.
+      Chantez donc.
 
 -*who_phelonte
-Je commence.
+      Je commence.
 
 -*who_crispin
 Je l'ay fort bien noté : Là, marquez bien ce fa,
 Fa, fa.
 
 -*who_dorame
-Me raille-t-on ? quel Prélude est-ce là ?
+      Me raille-t-on ? quel Prélude est-ce là ?
 Il faut voir jusqu'au bout.
 
 -*who_anastase
-La Musique est touchante.
+      La Musique est touchante.
 
 -*who_dorame
 Toinon…
 
 -*who_toinon
-Hé bien, est-il défendu qu'on ne chante ?
+      Hé bien, est-il défendu qu'on ne chante ?
 
 -*who_crispin
 Sol, sol.
-Nous aurons fait dans un moment.
+      Nous aurons fait dans un moment.
 
 -*who_phelonte
-Fa, mi…
+      Fa, mi…
 
 -*who_crispin
 Hardiment ; A quoy bon entonner à demy ?
@@ -3877,7 +3877,7 @@ Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa. bis.
 La Basse continuë, oyez.
 
 -*who_dorame
-Je vous entens.
+      Je vous entens.
 
 -*who_crispin
 Allons, encore un coup, marquez moy bien vos temps.
@@ -3886,7 +3886,7 @@ Allons, encore un coup, marquez moy bien vos temps.
 C'est un petit Rondeau.
 
 -*who_dorame
-Rondeau soit ; mais de grace…
+      Rondeau soit ; mais de grace…
 
 -*who_crispin
 N'estes-vous pas, sur tout, charmé de cette Basse ?
@@ -3897,23 +3897,23 @@ Mais, Monsieur…
 
 -*who_crispin
 Fa re mi fa, &c.
-Sortons.
+      Sortons.
 
 -*who_dorame
-Mais…
+      Mais…
 
 -*who_crispin
 Fa re mi fa, &c.
 
 -*who_dorame
-Laissez ce re mi fa,
+      Laissez ce re mi fa,
 Et m'apprenez, Monsieur, ce que vous faisiez là ?
 
 -*who_crispin
 Eh, j'y notois ce… fa re mi fa, fa sol fa mi, &c.
 
 -*who_toinon
-Bon : Il se tire d'affaire.
+      Bon : Il se tire d'affaire.
 
 -*who_dorame
 Mais pourquoy…
@@ -3922,16 +3922,16 @@ Mais pourquoy…
 fa re mi fa, fa sol fa mi, &c.
 
 -*who_dorame
-Ce re fa commence à me déplaire :
+      Ce re fa commence à me déplaire :
 D'où vient que ce Monsieur…
 
 -*who_crispin
 Fa re mi fa, &c.
 
 -*who_dorame
-Que veut dire cecy ?
+      Que veut dire cecy ?
 
-**** *book_ *id_body-6-13 *act_acte4 *date_1674 *creator_hauteroche
+**** *book_ *id_acte413 *act_acte4 *date_1674 *creator_hauteroche
 
 -*who_toinon
 Ces Messieurs enfermez, vous mettent en soucy.
@@ -3943,28 +3943,28 @@ A te voir, tout cela ne t'inquiéte guére.
 Ma foy, non.
 
 -*who_dorame
-Non, ta foy.
+      Non, ta foy.
 
 -*who_toinon
-Voyez la grande affaire !
+      Voyez la grande affaire !
 C'est peut-estre un Galant qui m'en veut, que sçait-on ?
 
 -*who_dorame
 La Coquine !
 
 -*who_anastase
-Monsieur…
+      Monsieur…
 
 -*who_toinon
-La, prenez vostre ton,
+      La, prenez vostre ton,
 Grondez jusqu'à demain.
 
 -*who_anastase
-L'ire qui vous embraze,
+      L'ire qui vous embraze,
 Va sans doute trop loin, car…
 
 -*who_dorame
-Monsieur Anastase,
+      Monsieur Anastase,
 Avecque vos Pédans meslez-vous, s'il vous plaist,
 D'un Argument en forme, il sçavent ce que c'est.
 
@@ -3977,11 +3977,11 @@ C'est pourquoy vous devez penétrer⁎ à loisir.
 D'accord.
 
 -*who_anastase
-L'Homme prudent doit se faire un plaisir,
+      L'Homme prudent doit se faire un plaisir,
 De connoistre le vray.
 
 -*who_dorame
-Vous plaist-il de vous taire ?
+      Vous plaist-il de vous taire ?
 
 -*who_anastase
 Oh volontiers. D'ailleurs ce n'est pas mon affaire.
@@ -3990,17 +3990,17 @@ Oh volontiers. D'ailleurs ce n'est pas mon affaire.
 Quoy ?
 
 -*who_anastase
-Rien. Mais un conseil…
+      Rien. Mais un conseil…
 
 -*who_dorame
-Encor ? Eh taisez-vous.
+      Encor ? Eh taisez-vous.
 
 -*who_anastase
 Je me tairay.
 
 -*who_dorame
-Fort-bien.
-Cà, parlons entre nous.
+      Fort-bien.
+      Cà, parlons entre nous.
 
 -*who_anastase
 Le silence est pourtant le propre de la Beste.
@@ -4009,20 +4009,20 @@ Le silence est pourtant le propre de la Beste.
 Hem ?
 
 -*who_anastase
-A vous contenter, je sens que je m'apreste :
+      A vous contenter, je sens que je m'apreste :
 Parlez. Je me tais.
 
 -*who_dorame
-Hom…
+      Hom…
 
 -*who_toinon
-Il grille dans sa peau.
+      Il grille dans sa peau.
 
 -*who_dorame
 Que faisoient là ces Gens ?
 
 -*who_toinon
-Il notoient ce Rondeau,
+      Il notoient ce Rondeau,
 Et c'est un pur hazard qui vous doit peu surprendre.
 Vostre Fille, Monsieur, ayant dessein d'apprendre,
 Ce Maistre entroit icy pour luy faire leçon ;
@@ -4042,33 +4042,33 @@ Il pouvoit estre ailleurs tout aussy bien noté.
 Il est vray, mais…
 
 -*who_dorame
-Il entre en cecy du mystere.
+      Il entre en cecy du mystere.
 
 -*who_toinon
 Comment ?
 
 -*who_dorame
-Quand on ne fait que ce que l'on doit faire,
+      Quand on ne fait que ce que l'on doit faire,
 On n'oste point la Clef d'une Porte, Toinon ;
 Il y va là du vostre.
 
 -*who_toinon
-Et qui vous dit que non ?
+      Et qui vous dit que non ?
 Oüy, j'ay fermé la Porte, & pris la Clef.
 
 -*who_dorame
-La Gueuse !
+      La Gueuse !
 Pourquoy donc, s'il vous plaist ?
 
 -*who_toinon
-Pour vostre humeur⁎ grondeuse :
+      Pour vostre humeur⁎ grondeuse :
 Tout vous choque, & pour rien vous entrez en courroux ;
 Une Mouche à tout autre, est Eléphant pour vous
 Et quand vous vous mettez dessus la gronderie,
 C'en est pour quinze jours.
 
 -*who_dorame
-Voyez l'effronterie !
+      Voyez l'effronterie !
 Ce n'est rien d'enfermer deux Hommes sans façon ?
 
 -*who_toinon
@@ -4095,12 +4095,12 @@ Je dois, par mes avis, tâcher à vous guérir…
 Je veux me fâcher, moy.
 
 -*who_anastase
-Vous en pourriez mourir,
+      Vous en pourriez mourir,
 Et l'on m'accuseroit d'estre cause seconde
 De ce cruel malheur.
 
 -*who_dorame
-Que le Ciel te confonde !
+      Que le Ciel te confonde !
 
 -*who_anastase
 Je ne souffriray point que vous vous fâchiez, non.
@@ -4109,7 +4109,7 @@ Je ne souffriray point que vous vous fâchiez, non.
 Eh Monsieur Anastase…
 
 -*who_toinon
-Il a grande raison,
+      Il a grande raison,
 La colere aux Vieillards est chose trop funeste.
 
 -*who_anastase
@@ -4121,16 +4121,16 @@ Le corrompt & le gaste, & les mene au tombeau.
 Ecoutez ce qu'il dit, &…
 
 -*who_dorame
-Voudrois-tu te taire ?
+      Voudrois-tu te taire ?
 
 -*who_toinon
 Oüy, Monsieur.
 
 -*who_dorame
-Vous…
+      Vous…
 
 -*who_toinon
-La mort suit de pres la colere,
+      La mort suit de pres la colere,
 Car Monsieur Anastase en donne la raison.
 
 -*who_anastase
@@ -4140,24 +4140,24 @@ Elle produit en luy cette cacochimie⁎,
 Nuisible à la santé.
 
 -*who_dorame
-Je brûle de courroux.
+      Je brûle de courroux.
 
 -*who_anastase
 Oh j'empescheray bien, moy, restant pres de vous,
 Que vous ne vous fâchiez.
 
 -*who_toinon
-C'est bien fait.
+      C'est bien fait.
 
 -*who_dorame
-Que la Peste
+      Que la Peste
 Etoufe l'un & l'autre.
 
 -*who_anastase
-Eh Monsieur…
+      Eh Monsieur…
 
 -*who_dorame
-Je déteste :
+      Je déteste :
 Eh taisez-vous tous deux, & me laissez parler.
 
 -*who_anastase
@@ -4165,19 +4165,19 @@ Quand cette humeur⁎ en nous vient la rate opiler⁎,
 L'hypocondre⁎ est alors…
 
 -*who_dorame
-Quoy, sans cesse ? Ah j'enrage.
+      Quoy, sans cesse ? Ah j'enrage.
 
 -*who_anastase
 Eh Monsieur…
 
 -*who_toinon
-Eh Monsieur…
+      Eh Monsieur…
 
 -*who_dorame
-Coquine…
+      Coquine…
 
 -*who_anastase
-L'Homme sage…
+      L'Homme sage…
 
 -*who_dorame
 Homme fou, vous plaist-il me laisser en repos ?
@@ -4189,36 +4189,36 @@ En ce fâcheux état, il n'est pas à propos…
 Oh pour moy je te laisse.
 
 -*who_toinon
-Il a fermé la Porte,
+      Il a fermé la Porte,
 Allez-vous en, adieu.
 
 -*who_anastase
-Non, j'attendray qu'il sorte.
+      Non, j'attendray qu'il sorte.
 
 -*who_dorame
 Voila cette Ecritoire.
 
 -*who_anastase
-Eh Monsieur…
+      Eh Monsieur…
 
 -*who_dorame
-Eh Bourreau,
+      Eh Bourreau,
 Laisse-moy, sors.
 
 -*who_anastase
-Craignez un transport⁎ au cerveau.
+      Craignez un transport⁎ au cerveau.
 
-**** *book_ *id_body-7-1 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte501 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Fa re mi fa, fa sol fa mi, &c.
 Hem ?
 
 -*who_phelonte
-Que Crispin est fou !
+      Que Crispin est fou !
 
 -*who_crispin
-Mais peut-on ne pas rire,
+      Mais peut-on ne pas rire,
 fa re mi, &c.
 En songeant à… Je crois que vostre cœur soûpire.
 
@@ -4251,7 +4251,7 @@ Son absence me tüe, & loin de ses beaux yeux,
 Point de repos pour moy, tout me déplaist.
 
 -*who_crispin
-Tant-mieux.
+      Tant-mieux.
 Car à vous parler franc, quoy qu'aupres de la Belle
 Vous vous soyez dépeint l'Amant⁎ le plus fidelle,
 Comme je vous connois sujet à caution,
@@ -4289,14 +4289,14 @@ Et je sens dans mon cœur ce qui n'y fut jamais.
 M'aimes-tu ?
 
 -*who_crispin
-Moy, Monsieur ?
+      Moy, Monsieur ?
 
 -*who_phelonte
-Il s'agit de me rendre
+      Il s'agit de me rendre
 Un service qui passe…
 
 -*who_crispin
-Et par où m'en défendre ?
+      Et par où m'en défendre ?
 Je suis vostre Valet, et Valet tres-acquis ;
 Et Daphnis, dont enfin les yeux vous ont conquis,
 Se trouve d'abondant, par un bonheur extréme,
@@ -4309,7 +4309,7 @@ Toinon ! Agis, Crispin, tu travailles pour toy.
 Oüy, dites-vous, mais…
 
 -*who_phelonte
-Va, que Daphnis soit à moy,
+      Va, que Daphnis soit à moy,
 J'obtiendray de Toinon, puis qu'elle t'est si chere…
 
 -*who_crispin
@@ -4320,7 +4320,7 @@ Porter à ce que j'aime un Billet de ma part,
 Luy demander pour moy…
 
 -*who_crispin
-C'est bien dit ; au hazard,
+      C'est bien dit ; au hazard,
 Que le Vieillard mutin⁎ à m'étriller s'aplique.
 
 -*who_phelonte
@@ -4338,40 +4338,40 @@ Donne-t-on comme toy sur le raisonnement ?1510
 Pouvant revoir Toinon, tu crains…
 
 -*who_crispin
-Quel Docteur ! diantre !
+      Quel Docteur ! diantre !
 Aux Gens, en dépit d'eux, il met le cœur au ventre :
 Mais comme la crainte est malseante aux Amans⁎,
 Vous-mesme vous pourriez faire vos complimens⁎,
 Ils seroient mieux de vous.
 
 -*who_phelonte
-Si je suis veu de Pere,
+      Si je suis veu de Pere,
 J'embarasse Daphnis, je ruine l'affaire.
 
 -*who_crispin
 Ecrivez, je voy bien qu'au péril de mon dos
 Il faut marcher.
 
-**** *book_ *id_body-7-2 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte502 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_fanchon
-Quoy donc, icy dans le repos ?
+      Quoy donc, icy dans le repos ?
 Et ne sçavez-vous pas, que depuis plus d'une heure
 Mélante est au Jardin ?
 
 -*who_crispin
-Hé bien, qu'il y demeure,
+      Hé bien, qu'il y demeure,
 Nous sommes en affaire, & qui presse.
 
 -*who_phelonte
-Dy-moy,
+      Dy-moy,
 Est-il seul ?
 
 -*who_fanchon
-Une Dame est avec luy.
+      Une Dame est avec luy.
 
 -*who_crispin
-Je croy
+      Je croy
 Qu'un tiers ne leur est pas tout-à-fait nécessaire.
 
 -*who_fanchon
@@ -4379,19 +4379,19 @@ J'ay fait ce que pour eux vous m'aviez dit de faire,
 Et je les ay reçeus de mon mieux.
 
 -*who_phelonte
-A-t-on dit
+      A-t-on dit
 Que je suis rentré ?
 
 -*who_fanchon
-Non.
+      Non.
 
 -*who_phelonte
-Qu'on les laisse, il suffit :
+      Qu'on les laisse, il suffit :
 J'entre en mon Cabinet un moment pour écrire ;
 J'iray les voir apres.
 
 -*who_fanchon
-Il faut encor vous dire,
+      Il faut encor vous dire,
 Que là-haut vostre Maistre, accompagné du mien,
 Sur quelques Airs nouveaux ont un grand entretien,
 Et veulent sur ces Airs sçavoir vostre pensée.
@@ -4399,19 +4399,19 @@ Et veulent sur ces Airs sçavoir vostre pensée.
 -*who_phelonte
 Qu'ils attendent.
 
-**** *book_ *id_body-7-3 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte503 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_fanchon
-Crispin, quelle affaire pressée
+      Crispin, quelle affaire pressée
 Pourroit avoir Monsieur ? dis.
 
 -*who_crispin
-Vois-tu bien, il a
+      Vois-tu bien, il a
 Ce qui vient par icy d'ordinaire, & va là ;
 Un mal aussy malin…
 
 -*who_fanchon
-Et quel mal, je te prie ?
+      Et quel mal, je te prie ?
 
 -*who_crispin
 C'est un mal qui jamais n'entendist raillerie,
@@ -4421,11 +4421,11 @@ En un mot mon Maistre est, puis qu'il te faut tout dire,
 Mon Confrere en amour.
 
 -*who_fanchon
-Quoy, Phelonte soûpire,
+      Quoy, Phelonte soûpire,
 Il seroit amoureux !
 
 -*who_crispin
-Il en tient d'aujourd'huy.
+      Il en tient d'aujourd'huy.
 
 -*who_fanchon
 Je ne m'étonnois pas de te voir fou, mais luy !
@@ -4434,19 +4434,19 @@ Je ne m'étonnois pas de te voir fou, mais luy !
 Aimer est donc folie ?
 
 -*who_fanchon
-Et de la plus à craindre.
+      Et de la plus à craindre.
 Le beau ragoust⁎ d'avoir à gémir, à se plaindre !
 Vivons, rions, chantons, & point d'amour.
 
 -*who_crispin
-Fort-bien,
+      Fort-bien,
 Il faut t'entendre, avec ta Musique de Chien.
 
 -*who_fanchon
 Je suis…
 
 -*who_crispin
-Tout-franc, depuis que tu t'es mis en teste
+      Tout-franc, depuis que tu t'es mis en teste
 Ut re mi fa sol la, tu n'es plus qu'une Beste⁎.
 
 -*who_fanchon
@@ -4454,7 +4454,7 @@ Mais toy, qui fais le sot, je te trouve fort bon ;
 C'est bien à toy d'aimer ? un Pié-plat⁎ !
 
 -*who_crispin
-Pourquoy non ?
+      Pourquoy non ?
 Lors que de s'en mesler, le Diable a la malice,
 Puis-je empescher qu'en moy Nature ne pâtisse ?
 
@@ -4465,11 +4465,11 @@ Que ne suis-je ton Maistre, afin de t'empescher ?
 Toy ? bon.
 
 -*who_fanchon
-Sur le bon pied je te ferois marcher,
+      Sur le bon pied je te ferois marcher,
 Je t'aprendrois…
 
 -*who_crispin
-Va-t-en aupres de ta Malade,
+      Va-t-en aupres de ta Malade,
 Ta voix la peut guerir, elle a besoin d'aubade.
 
 -*who_fanchon
@@ -4480,83 +4480,83 @@ Et que tu veux, sans moy, resver à tes amours.
 Ce n'est pas ton affaire, adieu.
 
 -*who_fanchon
-Tu te courouces,
+      Tu te courouces,
 Bon-soir.
 
 -*who_crispin
-Amour, amour, quelles rudes secousses !
+      Amour, amour, quelles rudes secousses !
 Laisse quelque moment mon cœur en repos. Non,
 Tu veux qu'il aille & vienne. Ah Toinon ! ah Toinon !
 
-**** *book_ *id_body-7-4 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte504 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_toinon
 Hé bien, que luy veux-tu ? voicy Toinon.
 
 -*who_crispin
-Friponne !
+      Friponne !
 Tu vois comme sans cesse avec toy je raisonne⁎.
 
 -*who_toinon
 Tout-doux, tu ne vois pas ma Maistresse ?
 
 -*who_daphnis
-Crispin,
+      Crispin,
 Que fait ton Maistre ?
 
 -*who_crispin
-Il est possedé d'un Lutin,
+      Il est possedé d'un Lutin,
 Qui dans son Cabinet broüille fort sa cervelle.
 
 -*who_daphnis
 Est-il seul ?
 
 -*who_crispin
-S'il est seul ? Non, avec une Belle.
+      S'il est seul ? Non, avec une Belle.
 
 -*who_daphnis
 Une Belle !
 
 -*who_crispin
-Oüy, qu'il aime, & tendrement.
+      Oüy, qu'il aime, & tendrement.
 
 -*who_daphnis
-Ah Dieux !
+      Ah Dieux !
 Viens, Toinon.
 
 -*who_crispin
-Sans courroux, le plus-tard vaut le mieux.
+      Sans courroux, le plus-tard vaut le mieux.
 
 -*who_daphnis
 Tu m'arrestes en vain.
 
 -*who_crispin
-Eh mon Dieu, patience ;
+      Eh mon Dieu, patience ;
 Estre avec une Belle…
 
 -*who_daphnis
-Ah c'est une impudence
+      Ah c'est une impudence
 Qui doit le diffamer…
 
 -*who_crispin
-Pas tant que vous croyez ;
+      Pas tant que vous croyez ;
 C'est avec vous qu'il est, il vous écrit.
 
 -*who_toinon
-Voyez,
+      Voyez,
 Il estoit bien besoin de nous donner l'allarme ?
 
 -*who_daphnis
 Quoy, Crispin, tu me dis…
 
 -*who_crispin
-Que vous estes son charme⁎,
+      Que vous estes son charme⁎,
 Et que mettant sa joye à vous le protester⁎,
 Il écrit un Billet que j'allois vous porter ;
 Mais je cours l'avertir…
 
 -*who_daphnis
-Non, je le veux attendre,
+      Non, je le veux attendre,
 Nous verrons de quel air il aura sçeu s'y prendre,
 Si l'amour… Mais, Crispin, ne m'abuses-tu point ?
 
@@ -4577,7 +4577,7 @@ D'amour, de bonne sorte, une fois s'est coëffé,
 Cela tient comme glu.
 
 -*who_daphnis
-Si-bien donc, qu'à ton conte,
+      Si-bien donc, qu'à ton conte,
 Je ne dois plus douter d'avoir touché Phélonte ?
 
 -*who_crispin
@@ -4585,18 +4585,18 @@ Vous faites de son cœur l'unique passion ;
 J'en répons, s'il le faut.
 
 -*who_toinon
-La bonne Caution !
+      La bonne Caution !
 
 -*who_crispin
 Oüy, bonne, & je voudrois en avoir une telle,
 Qui m'asseurast de toy.
 
 -*who_toinon
-Je te suis si fidelle !
+      Je te suis si fidelle !
 Que crains-tu ?
 
 -*who_crispin
-Que venant à parler tout de bon,
+      Que venant à parler tout de bon,
 Au lieu de dire oüy, tu n'ailles dire non.
 
 -*who_daphnis
@@ -4605,14 +4605,14 @@ S'il m'épouse, Toinon sera ta récompense,
 Je t'en donne parole.
 
 -*who_crispin
-Et toy ?
+      Et toy ?
 
 -*who_toinon
-Ne sçais-tu pas
+      Ne sçais-tu pas
 Qu'une Servante suit sa Maistresse à grands pas ?
 Ainsi le tout dépend de bien servir sa flame.
 
-**** *book_ *id_body-7-5 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte505 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_phelonte
 Tien, Crispin, va porter promptement… Ah Madame,
@@ -4622,7 +4622,7 @@ Vous icy ! quel bonheur pouvoit m'estre plus cher ?
 Voyons donc ce Billet.
 
 -*who_phelonte
-Il vous alloit chercher :
+      Il vous alloit chercher :
 Mais, Madame, à quoy bon perdre du temps à lire,
 Ce qu'on ne peut jamais que foiblement écrire ?
 Je vous aime, & mon cœur qui paroist dans mes yeux,
@@ -4661,14 +4661,14 @@ Il n'a pas fait paroistre encor qu'il me soupçonne ;
 Mais pour Toinon…
 
 -*who_toinon
-Je sçay qu'il me la garde bonne ;
+      Je sçay qu'il me la garde bonne ;
 L'orage crevera, mais ma foy je l'attens :
 Voyez le vieux resveur ! il a passé son temps,
 Et ne s'informe pas, quand une Fille a l'âge,
 Si les jours qu'elle perd…
 
 -*who_daphnis
-Toinon n'est guere sage.
+      Toinon n'est guere sage.
 
 -*who_toinon
 Mon Dieu, Toinon vaut trop, n'en dites que du bien,
@@ -4677,7 +4677,7 @@ C'est là de son mérite une preuve autentique,
 Crispin.
 
 -*who_crispin
-Ne railles point, honneur à ma Musique ;
+      Ne railles point, honneur à ma Musique ;
 Sans le Rondeau noté, nous estions pris sans vert.
 
 -*who_phelonte
@@ -4687,23 +4687,23 @@ Toinon, ce trait d'esprit mérite assez qu'on l'aime,
 Qu'en dis-tu ?
 
 -*who_toinon
-Moy ? Je dis que le cœur m'en diroit ;
+      Moy ? Je dis que le cœur m'en diroit ;
 Mais j'ay martel en teste, & toute autre l'auroit :
 La Servante d'icy me semble un peu trop belle ;
 En entrant j'ay veu…
 
 -*who_crispin
-Quoy ? Fanchon ?
+      Quoy ? Fanchon ?
 
 -*who_phelonte
-Ne crains rien d'elle ;
+      Ne crains rien d'elle ;
 Comme elle a de la voix, elle en est folle au point,
 De renoncer à tout, pour ne la perdre point :
 Ainsy rien ne la peut résoudre au Mariage,
 Les Enfans luy romproient l'estomach⁎.
 
 -*who_toinon
-Quel dommage !
+      Quel dommage !
 Ne plus chanter ! Pour moy, j'aimerois mieux cent fois
 Avoir un bon Mary, que la plus belle voix ;
 Car, pour vivre en repos, chanter ne sert de guére,
@@ -4713,30 +4713,30 @@ Et je tiens qu'un Epoux est chose necessaire.
 Toinon a le goust bon.
 
 -*who_toinon
-Pas trop méchant⁎ : mais Dieux !
+      Pas trop méchant⁎ : mais Dieux !
 
 -*who_daphnis
 C'est mon Pere !
 
 -*who_crispin
-Vers luy ne tournez point les yeux.
+      Vers luy ne tournez point les yeux.
 
 -*who_phelonte
 Ah Crispin !
 
 -*who_daphnis
-Quel malheur !
+      Quel malheur !
 
 -*who_crispin
-Secondez mon adresse.
+      Secondez mon adresse.
 
-**** *book_ *id_body-7-6 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte506 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_dorame
 Que vois-je icy ? Ma Fille !
 
 -*who_crispin
-Un peu de hardiesse ;
+      Un peu de hardiesse ;
 Le ton n'est pas trop haut, croyez-moy, Sol mi fa.
 Je connois vostre voix, elle ira jusques là.
 
@@ -4744,7 +4744,7 @@ Je connois vostre voix, elle ira jusques là.
 Ma Fille en ce Logis !
 
 -*who_crispin
-Ah Monsieur, quelle peine…
+      Ah Monsieur, quelle peine…
 
 -*who_phelonte
 Monsieur, vous voir icy ! quel sujet vous amene ?
@@ -4753,10 +4753,10 @@ Monsieur, vous voir icy ! quel sujet vous amene ?
 C'est Phélonte : Est-ce vous ?
 
 -*who_phelonte
-Oüy.
+      Oüy.
 
 -*who_dorame
-Je veux vous parler :
+      Je veux vous parler :
 Mais je voudrois en vain vous le dissimuler ;
 Voir ma Fille chez vous, trouble si fort mon ame…
 
@@ -4764,19 +4764,19 @@ Voir ma Fille chez vous, trouble si fort mon ame…
 Le mal n'est pas bien grand.
 
 -*who_dorame
-Il n'est pas grand ? L'infame !
+      Il n'est pas grand ? L'infame !
 
 -*who_phelonte
 Eh Monsieur…
 
 -*who_crispin
-Vostre Fille est chez moy, s'il vous plaist.
+      Vostre Fille est chez moy, s'il vous plaist.
 
 -*who_dorame
 Comment, chez vous !
 
 -*who_crispin
-Sçachez la chose comme elle est.
+      Sçachez la chose comme elle est.
 Quoy qu'en son nom Monsieur ait la Maison entiere,
 Il n'a que le devant, j'occupe le derriere ;
 Nous vivons l'un pour l'autre assez commodement :
@@ -4792,15 +4792,15 @@ Attendant le Concert que je fais apprester,
 Je luy voulois apprendre un petit Air.
 
 -*who_dorame
-De grace,
+      De grace,
 Laissez vos petits Airs.
 
 -*who_crispin
-Il est Dessus & Basse,
+      Il est Dessus & Basse,
 Joly : Si vous voulez…
 
 -*who_dorame
-Je n'ay rien à vouloir.
+      Je n'ay rien à vouloir.
 
 -*who_crispin
 On court de toutes parts apres moy pour l'avoir.
@@ -4812,46 +4812,46 @@ Je le sçay : mais ma Fille apprendra, s'il vous plaist,
 A chanter toute seule, ou point.
 
 -*who_toinon
-Quel meurtre c'est !
+      Quel meurtre c'est !
 Mais peut-on bien chanter, sans sçavoir la mesure ?
 
 -*who_dorame
 Coquine.
 
 -*who_toinon
-Luy laisser perdre la voix ! J'en jure,
+      Luy laisser perdre la voix ! J'en jure,
 Si j'estois en sa place, il ne seroit pas dit
 Que j'aurois de la voix pour rien.
 
 -*who_dorame
-Il me suffit,
+      Il me suffit,
 C'est toy…
 
 -*who_toinon
-Pour bien chanter, il faut de la pratique.
+      Pour bien chanter, il faut de la pratique.
 
 -*who_dorame
 J'auray soin…
 
 -*who_toinon
-Malgré vous, j'apprendrois la Musique.
+      Malgré vous, j'apprendrois la Musique.
 
 -*who_dorame
 Tay-toi ; si…
 
 -*who_toinon
-Le grand mal, que d'oüir concerter⁎ !
+      Le grand mal, que d'oüir concerter⁎ !
 
 -*who_dorame
 Oüy, si grand, que…
 
 -*who_crispin
-Monsieur, c'est trop vous emporter ;
+      Monsieur, c'est trop vous emporter ;
 Nous sommes Gens publics, chez qui chacun, sans honte,
 Vient comme bon luy semble.
 
 -*who_dorame
-Et ce n'est pas mon compte ;
+      Et ce n'est pas mon compte ;
 C'est par là justement qu'une Fille se perd ;
 Il est tant de Concerts qui se font de concert.
 
@@ -4862,16 +4862,16 @@ Je suis tendre à l'honneur, & c'est me faire injure.
 Comment vous nomme-t-on ?
 
 -*who_crispin
-Mon nom est… La Verdure.
+      Mon nom est… La Verdure.
 
 -*who_dorame
 La Verdure !
 
 -*who_crispin
-Oüy, Monsieur.
+      Oüy, Monsieur.
 
 -*who_dorame
-Pour un Musicien,
+      Pour un Musicien,
 Ce nom, à mon avis, ne convient pas trop bien.
 
 -*who_crispin
@@ -4888,17 +4888,17 @@ Cà, puis que tous vos Airs sont si fleuris par tout,
 Entendons ce Concert.
 
 -*who_crispin
-Grand honneur.
+      Grand honneur.
 
 -*who_daphnis
-Ah je tremble !
+      Ah je tremble !
 
 -*who_crispin
 Mes Chanteurs sont là-haut, qui repétent ensemble,
 Je vay les amener.
 
 -*who_daphnis
-Se pourroit-il qu'il pût…
+      Se pourroit-il qu'il pût…
 
 -*who_toinon
 Quand on a de l'adresse, on sort de tout ; mais chut.
@@ -4922,12 +4922,12 @@ Vostre nom me l'estoit ; c'est tout ce qu'à mon âge
 Je sçay des jeunes Gens.
 
 -*who_phelonte
-Ce m'est un avantage,
+      Ce m'est un avantage,
 Que ma Famille au moins vous soit connüe assez,
 Pour ne…
 
 -*who_dorame
-Je la connois mieux que vous ne pensez :
+      Je la connois mieux que vous ne pensez :
 Vous avez un Cadet Philosophe en Navarre.
 
 -*who_phelonte
@@ -4951,7 +4951,7 @@ Cependant, à mon tour, oserois-je prétendre…
 -*who_dorame
 Ecoutons le Concert, j'ay promis de l'entendre.
 
-**** *book_ *id_body-7-7 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte507 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_crispin
 Monsieur a le goust fin, de vostre mieux allons,
@@ -4959,11 +4959,11 @@ Fa sol. Prenez le ton avec les Violons.
 Tout le monde est-il prest ?
 
 -*who_toinon
-Monsieur de la Verdure
+      Monsieur de la Verdure
 Fait merveilles.
 
 -*who_crispin
-Sur tout, suivez bien la mesure.
+      Sur tout, suivez bien la mesure.
 
 -*who_les_violons
 Tu viens peindre nos Prez des plus vives couleurs,
@@ -4977,7 +4977,7 @@ Ainsy tu ne fais rien pour moy.
 Qu'en dites-vous, Monsieur ?
 
 -*who_dorame
-Si je puis m'y connaistre,
+      Si je puis m'y connaistre,
 Les Ecoliers sont bons ; Je ne dis rien du Maistre.
 
 -*who_crispin
@@ -4992,13 +4992,13 @@ Il n'est point de plaisir pour moy.
 Estes-vous content ?
 
 -*who_dorame
-Oüy.
+      Oüy.
 
 -*who_crispin
-Cet Air ?…
+      Cet Air ?…
 
 -*who_dorame
-Il est fort beau.
+      Il est fort beau.
 
 -*who_crispin
 Vous plairoit-il encor, ce Menüet Rondeau ?
@@ -5008,10 +5008,10 @@ Avec les Violons il est incomparable.
 Volontiers.
 
 -*who_toinon
-Il prend goust…
+      Il prend goust…
 
 -*who_daphnis
-Crispin est admirable.
+      Crispin est admirable.
 
 -*who_crispin
 Fa, fa, sol, fa, &c.
@@ -5032,71 +5032,71 @@ Qui peut guerir de l'amour.
 Mes Airs ont le bon tour.
 
 -*who_dorame
-Je vous l'ay déja dit,
+      Je vous l'ay déja dit,
 Ils sont fort beaux.
 
 -*who_crispin
-Ce sont éternûmens d'esprit ;
+      Ce sont éternûmens d'esprit ;
 J'ay pour les composer, une certaine aisance…
 Messieurs, du mouvement marquons bien la cadance ;
 Allons, encore un coup ce Couplet de Bacchus,
 Et que tous à la fois on fasse un grand Chorus.
 
-**** *book_ *id_body-7-8 *act_acte5 *date_1674 *creator_hauteroche
+**** *book_ *id_acte508 *act_acte5 *date_1674 *creator_hauteroche
 
 -*who_melante
 Nous venons prendre part au Concert.
 
 -*who_crispin
-Le beau Monde
+      Le beau Monde
 Vient chez moy librement.
 
 -*who_lise
-Ma peine est sans seconde.
+      Ma peine est sans seconde.
 
 -*who_crispin
 Voyez, point de scrupule.
 
 -*who_daphnis
-Ah Toinon, qu'est-ce-cy ?
+      Ah Toinon, qu'est-ce-cy ?
 
 -*who_dorame
 C'est ma Fille.
 
 -*who_lise
-Mon Pere & ma Sœur sont icy.
+      Mon Pere & ma Sœur sont icy.
 
 -*who_dorame
 Le Concert est charmant, je l'avouë.
 
 -*who_lise
-Ah mon Pere !
+      Ah mon Pere !
 
 -*who_phelonte
 Son Pere !
 
 -*who_crispin
-C'est bien pis.
+      C'est bien pis.
 
 -*who_lise
-J'ay failly ; mais j'espere…
+      J'ay failly ; mais j'espere…
 
 -*who_dorame
 Quoy…
 
 -*who_toinon
-Voila ce que c'est que se faire prier :
+      Voila ce que c'est que se faire prier :
 Quand une Fille a l'âge, il faut la marier,
 Je vous l'ay dit cent fois.
 
 -*who_dorame
-Ecoutez l'insolente !
+      Ecoutez l'insolente !
 
 -*who_melante
 Monsieur, il ne faut point…
 
 -*who_dorame
-Hé bien, qu'est-ce, Melante ?
+      Hé bien, qu'est-ce, Melante ?
 Vous veniez au Concert, ç'en est icy le jour.
 
 -*who_melante
@@ -5117,25 +5117,25 @@ Pour obtenir pardon, j'embrasse vos genoux.
 Eh Monsieur, par pitié…
 
 -*who_lise
-Mon Pere…
+      Mon Pere…
 
 -*who_dorame
-Levez-vous.
+      Levez-vous.
 
 -*who_lise
 Je sçay que j'ay failly, j'ay tort, je le confesse ;
 Mais pardonnez…
 
 -*who_dorame
-Ses pleurs réveillent ma tendresse,
+      Ses pleurs réveillent ma tendresse,
 Et… C'est assez, Mélante, elle est à vous.
 
 -*who_melante
-Hé quoy,
+      Hé quoy,
 Se peut-il que vous…
 
 -*who_dorame
-Oüy, j'agis de bonne foy.
+      Oüy, j'agis de bonne foy.
 Phélonte, à cœur ouvert, Daphnis a sçeu vous plaire.
 
 -*who_phelonte
@@ -5160,7 +5160,7 @@ Et c'est, pour peu qu'il trouve à payer d'artifice,
 Un Fourbe aussy complet…
 
 -*who_crispin
-Fort à vostre service :
+      Fort à vostre service :
 Vous n'avez seulement qu'à me donner Toinon,
 Je fourbe⁎ apres pour vous de la bonne façon.
 
@@ -5168,7 +5168,7 @@ Je fourbe⁎ apres pour vous de la bonne façon.
 Mais Toinon…
 
 -*who_crispin
-Dans un mois, avec ma Tablature,
+      Dans un mois, avec ma Tablature,
 Elle pourra chanter, & battre la Mesure.
 
 -*who_toinon
@@ -5184,7 +5184,7 @@ La Musique pourroit se ravaler si bas ?
 A Toinon !
 
 -*who_crispin
-Chacun sçait ce qu'il sçait. En tout cas,
+      Chacun sçait ce qu'il sçait. En tout cas,
 S'il faut, pour l'épouser, me faire mieux connaistre,
 Crispin est mon vray nom, & vous voyez mon Maistre.
 
@@ -5194,7 +5194,7 @@ Mais en te l'accordant, on peut te demander
 Encore un petit Air.
 
 -*who_crispin
-Si cela vous contente,
+      Si cela vous contente,
 On va vous en chanter, non pas un, mais cinquante.
 
 -*who_phelonte
@@ -5208,10 +5208,10 @@ Répondons seulement à ce qu'il nous demande.
 Il a raison.
 
 -*who_phelonte
-D'accord.
+      D'accord.
 
 -*who_crispin
-Çà, quelque Air de commande ;
+      Çà, quelque Air de commande ;
 Allons, Messieurs, allons, faites de vostre mieux.
 
 -*who_fanchon
@@ -5219,7 +5219,7 @@ Quel Air chanterons-nous ?
 
 -*who_phelonte
 La, la, la.
-Est-il rien plus heureux ?
+      Est-il rien plus heureux ?
 
 -*who_crispin
 Fa, fa, fa.
@@ -5228,21 +5228,21 @@ Fa, fa, fa.
 Tay-toy.
 
 -*who_crispin
-Tout aujourd'huy je garde ma Maistrise,
+      Tout aujourd'huy je garde ma Maistrise,
 Monsieur.
 
 -*who_phelonte
-Mais à present elle n'est plus de mise,
+      Mais à present elle n'est plus de mise,
 Et…
 
 -*who_crispin
-Je suis obstiné ; tout-franc, j'en veux par là.
+      Je suis obstiné ; tout-franc, j'en veux par là.
 
 -*who_phelonte
 Fay donc.
 
 -*who_crispin
-Messieurs, allons. Fa sol fa, la, la, la.
+      Messieurs, allons. Fa sol fa, la, la, la.
 Est-il rien plus heureux,
 Qu'un cœur amoureux,
 Exempt de jalousie ?
@@ -5270,7 +5270,7 @@ Si vous n'estes content, vous pouvez commander :
 Vous plaist-il encor…
 
 -*who_dorame
-Non, mon ame est satisfaite.
+      Non, mon ame est satisfaite.
 
 -*who_phelonte
 S'il est ainsy, Monsieur, ah ma joye est parfaite.

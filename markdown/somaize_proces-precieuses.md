@@ -1,5 +1,5 @@
 ---
-identifier: somaize_proces  
+identifier: somaize_proces-precieuses  
 creator: Somaize, Antoine Baudeau  
 date: 1660  
 title: Le Procès des Prétieuses en vers burlesques. Comédie.  
@@ -66,7 +66,7 @@ Hem, ou courez-vous de ce pas ?
 Ma foy, je ne vous voyois pas,  
 Et j'allois chez vous pour vous dire,  
 De vous apprester à bien rire.  
-Nostre homme, enfin arriva hier,                       
+Nostre homme, enfin arriva hier,  
 Et m'est desja venu prier  
 De luy répondre sa Requeste,  
 Regardez si vous estes preste,  
@@ -92,7 +92,7 @@ Et je vous donne ma parolle
 Que chacun joüera bien son roolle,  
 Et que Professeurs, & Sergens  
 Ne paroistrons pas negligens ;  
-Mais marchons je le vois paroistre.                      
+Mais marchons je le vois paroistre.  
 
 
 ### SCENE II.
@@ -118,7 +118,7 @@ Qu'on dit avoir tant de renom,
 A retenir fait tant de peine,  
 Que je l'ay laissé dans le Maine ;  
 Mais sans doute qu'il nous viendra  
-Quand vos chappons, l'on envoyera ;                      
+Quand vos chappons, l'on envoyera ;  
 Car l'on doit dans cette occurence  
 Vous en envoyer pour la pence  
 De Monsieur, vostre Procureur ;  
@@ -146,7 +146,7 @@ Un Arrest celebre, authentique,
 Contre ces jazeuses enfin  
 Que je hay plus que le lutin,  
 Et que l'on nomme Pretieuses ;  
-Mais non pas pour estre amoureuses.                      
+Mais non pas pour estre amoureuses.  
 
     ROGUESPINE.
 Ah ! voila justement ce mot  
@@ -177,7 +177,7 @@ Ce mot en Province a grand cours,
 De luy les Dames, tous les jours  
 En disent toutes des plus belles,  
 Et dés-lors que quelqu'unes d'elles  
-S'en vont faire un tour à Paris,                      
+S'en vont faire un tour à Paris,  
 Aussi-tost, aux plus favoris,  
 De mesme qu'aux plus favorites  
 Dedans des lettres bien escrites  
@@ -207,7 +207,7 @@ Que l'on imprime aussi, lourdaut.
 
     ROGUESPINE.
 Hé bien, quoyque je sois rustaut,  
-Dites ? comment sont-elles faites ?                      
+Dites ? comment sont-elles faites ?  
 Sont-ce des femmes ? fort parfaites,  
 Qui n'ont rien des autres en tout ?  
 Sont-elles point à vostre goust ?  
@@ -235,7 +235,7 @@ Des galands, en endurent-elles ?
 Ne feroient-elles, point les belles ?  
 Sont-elles, riches à foison ?  
 Sont-elles, de pauvre maison ?  
-En un mot, dites-moy ? sans fraude,                      
+En un mot, dites-moy ? sans fraude,  
 Monsieur, sont-elles à la mode ?  
 
     RIBERCOUR.
@@ -265,7 +265,7 @@ Monsieur, je ne les verrois point ;
 C'est pourquoy, je crois sur ce point  
 Qu'il vaudroit bien mieux, ce me semble,  
 Leur donner à toutes ensemble  
-Un personnel adjournement.                      
+Un personnel adjournement.  
 
     RIBERCOUR.
 Tu raisonnes fort justement.  
@@ -300,7 +300,7 @@ Que me veux-tu dire de bon ?
 
     ROGUESPINE.
 Prenez-les au petit Bourbon,  
-L'on les dit au païs, plaisantes                      
+L'on les dit au païs, plaisantes  
 Et mesme assez divertissantes  
 
     RIBERCOUR.
@@ -334,7 +334,7 @@ J'en veux voir quelqu'une pourtant,
 Et j'ay des moyens tant & tant,  
 Qu'en quelque endroit que ce puisse estre  
 Je vous en feray voir, mon maistre ;  
-Par exemple, j'en tiens un bon.                       
+Par exemple, j'en tiens un bon.  
 J'ay oüy dire avecque raison  
 Que quand l'on a dans cette ville,  
 Perdu quelque chienne gentille,  
@@ -351,7 +351,7 @@ Ne pourra sa langue tenir.
     RIBERCOUR.
 Mais quoy ne vois-je pas venir  
 Mon vieil amy, Monsieur Pancrace,  
-Vrayement il faut que je l'embrasse.                      
+Vrayement il faut que je l'embrasse.  
 
 
 ### SCENE III.
@@ -381,7 +381,7 @@ Ils n'ont que procez à la bouche,
 L'on ne sçait point quand on s'y couche  
 Et quand on s'y leve encor moins,  
 Cent chicaneurs font tous leurs soins,  
-Un Clerc, aujourd'huy les visitte,                      
+Un Clerc, aujourd'huy les visitte,  
 Un Procureur arrive en suitte,  
 Le lendemain un Advocat,  
 Vient dire un nouvel altercat,  
@@ -411,7 +411,7 @@ J'ay desja par precaution
 Pour intenter mon action  
 Fait tantost un coup de ma teste  
 Et j'ay presenté ma Requeste  
-A l'Academie, & voicy                          
+A l'Academie, & voicy  
 La teneur que j'en tiens icy.  
 (il lit.)
 
@@ -467,7 +467,7 @@ Un si pernitieux langage,
 Et qui peut causer du carnage,  
 Et que deffences à l'instant,  
 Leur soient par vous faites s'entend  
-*De ne s'en plus servir à peine*                      
+*De ne s'en plus servir à peine*  
 *De ne jamais lire* Artamene,  
 Ny mesme aucun autre Romant ;  
 Ou pour un plus dur chastiment  
@@ -497,7 +497,7 @@ Que ces Messieurs, à forte teste
 En respondant vostre requeste,  
 Avecque tant d'agilité  
 Ont fait un coup en verité,  
-Qui par sa grande vigilance                      
+Qui par sa grande vigilance  
 Doit estre à tous en evidence ;  
 Puis qu'un mot souvent leur suffit  
 Pour embarasser leur esprit  
@@ -525,7 +525,7 @@ Que mes escoliers se dépitent,
 Qu'il s'en faut peu qu'ils ne me quittent.  
 Et que lors qu'à quelque estranger,  
 Qui me fait souvent enrager,  
-J'ay bien souvent donné mes peines                      
+J'ay bien souvent donné mes peines  
 L'espace de quelques semaines ;  
 Mais non pas sans bien me fascher,  
 Afin de luy faire escorcher,  
@@ -553,7 +553,7 @@ Car enfin s'il faut qu'une fois
 Voulant imiter les François,  
 Qu'en Espagne, & dans l'Italie,  
 Ce diable de nom, se publie  
-Et qu'il vienne à naistre en ces lieux                      
+Et qu'il vienne à naistre en ces lieux  
 Quelque langage pretieux,  
 Vous n'auriez bien-tost, que je pense,  
 Qu'à rengaigner vostre science.  
@@ -585,7 +585,7 @@ Pour que leurs action esclatte
 De la lenterne de Socrate,  
 Afin de chercher à leur tout  
 Une Pretieuse, en plein jour  
-Comme il faisoit jadis un homme ;                      
+Comme il faisoit jadis un homme ;  
 Pour moy je croy que l'on m'assomme,  
 Disant, que tout en est farcy ;  
 Puisque je n'ay pü jusqu'icy  
@@ -610,7 +610,7 @@ Malgré le couroux, qui nous presse
 Cacher, ce qui nous fait venir.  
 
     RIBERCOUR.
-Entrons donc pour l'entretenir.                          
+Entrons donc pour l'entretenir.  
 
 
 ### SCENE IV.
@@ -629,7 +629,7 @@ Et mesme les plus grandes Dames,
 Reçoivent jusques aux laquais  
 Quand ils sont bien vestus, bien fais,  
 Et qu'enfin ils ont l'avantage  
-De sçavoir un peu ce langage.                      
+De sçavoir un peu ce langage.  
 
 
 ### SCENE V.
@@ -660,7 +660,7 @@ Et qu'il fait dans vostre ame obscur.
     ROGUESPINE *(à part.)*
 Qu'est-ce que celle-là veut dire ?  
 Je ne sçay pas si j'en dois rire,  
-Car n'entendant point ce jargon                      
+Car n'entendant point ce jargon  
 Elle peut m'appeler fripon ;  
 (à Rodogine.)
 
@@ -694,7 +694,7 @@ Mais encore, est-ce tout de bon ?
 Peste de la commission,  
 J'en avois ma foy, bien affaire,  
 La scelle m'en tient au derriere,  
-Et les sauts que tous les chevaux,                      
+Et les sauts que tous les chevaux,  
 Qui n'estoient certes, bons ny beaux,  
 M'ont (sans qu'il fut fort necessaire),  
 En courant la poste, fait faire,  
@@ -721,7 +721,7 @@ De ne pouvoir mourir jamais.
     ROGUESPINE.
 Mais nos gens sortent satisfaits,  
 Et je donnerois ma parole  
-Qu'ils viennent d'atraper le drole.                      
+Qu'ils viennent d'atraper le drole.  
 
 
 ### SCENE VI.
@@ -754,7 +754,7 @@ Que n'ont pas esté vos demandes,
 Et dedans cette occasion  
 Il n'est point d'obligation,  
 Qui pour des gens d'un tel merite,  
-Ne soit de nature petite.                          
+Ne soit de nature petite.  
 
     THEOCRITE 
 (pendant que Rodogine parle bas à Roguespine.)
@@ -778,7 +778,7 @@ Mais quoy vous trompez-vous mes yeux ?
 Non certes, & c'est l'Escoliere  
 Qui me vient trouver d'ordinaire ;  
 Voyons donc de quelle façon  
-Elle a retenu sa leçon.                              
+Elle a retenu sa leçon.  
 
 
 ### SCENE VII.
@@ -808,7 +808,7 @@ Cette bizarre fantaisie.
     RODOGINE.
 Ce que je dis est asseuré,  
 Car enfin l'on me l'a juré,  
-Et sur ce qu'on m'a dit, je gage                          
+Et sur ce qu'on m'a dit, je gage  
 Qu'on cassera vostre langage.  
 
     THEOCRITE.
@@ -837,7 +837,7 @@ Et……
     RODOGINE.
 J'ay bien un autre soucy,  
 Et si vous me voyez icy,  
-Ce n'est que pour vous faire rendre                      
+Ce n'est que pour vous faire rendre  
 L'argent, que vous voulustes prendre  
 Alors que je vins en ces lieux  
 Pour apprendre le Pretieux :  
@@ -867,7 +867,7 @@ Et me joindre dans mon couroux
 A ces Messieurs, qui de chez vous  
 Viennent de sortir tout à l'heure :  
 Car de leur Valet, ou je meure,  
-J'ay sçeu qu'un d'eux n'estoit icy                      
+J'ay sçeu qu'un d'eux n'estoit icy  
 Qu'afin de prendre le soucy,  
 De faire par toute la Terre  
 Une longue, & mortelle guerre  
@@ -885,7 +885,7 @@ Et je jouë assez bien mon roolle.
 Ils sont pris pour duppes ma foy.  
 (Voyant entrer Ergaste.)
 
-Mais que desirez-vous de moy !                          
+Mais que desirez-vous de moy !  
 
 
 ### SCENE IX.
@@ -915,7 +915,7 @@ Il n'importe pour leur argent,
 Paroissans à tous obligeant ;  
 Mais dans une pareille affaire,  
 Il faut que le Dictionnaire  
-Que l'on a fait tout à propos,                      
+Que l'on a fait tout à propos,  
 Me fournisse beaucoup de mots,  
 (Il lit.)
 
@@ -946,7 +946,7 @@ Je les aurez mis,
 
     THEOCRITE.
 Non certes, je serois un sot  
-Si j'avois ozé le promettre,                      
+Si j'avois ozé le promettre,  
 Puisque je ne les y puis mettre :  
 A cinq ou six mots prés, pourtant  
 Ils seront faits dans un instant.  
@@ -977,7 +977,7 @@ Leur Cosmographie y sera,
 Et de plus l'on y trouvera  
 Un grand narré, de leurs histoires,  
 Leurs conquestes, & leurs victoires,  
-Leurs origines, leurs progrés,                      
+Leurs origines, leurs progrés,  
 Et par un discours fait exprés  
 L'on verra leur Cronologie,  
 Et tout ce que l'Astrologie,  
@@ -1005,7 +1005,7 @@ De celles qui par leur esprit
 Sont dans le Monde en grand credit ?  
 De plus, & c'est sans railleries,  
 L'on y verra leurs Armoiries,  
-Et ceux qui sçavent le Blazon,                       
+Et ceux qui sçavent le Blazon,  
 S'y divertiront tout de bon,  
 Et pourront voir de cette sorte  
 Ce que chacune d'elles porte.  
@@ -1037,7 +1037,7 @@ Viendra promptement l'achepter.
     THEOCRITE.
 Aux gens curieux il doit plaire  
 Mais retournons à nostre affaire  
-Et voyons nostre Madrigal.                      
+Et voyons nostre Madrigal.  
 
     ERGASTE.
 Ma foy nous ne ferons pas mal.  
@@ -1065,7 +1065,7 @@ L'autre jour un mary, causoit
 Avec sa femme, & luy disoit  
 Dedans l'empire des œillades.  
 Que ces parolles sont mignardes ?  
-Certes de semblables discours                      
+Certes de semblables discours  
 Expriment tout à fait le Cours.  
 Dans ce lieu soit belle ou camarde,  
 Chacun de son costé regarde.  
@@ -1092,7 +1092,7 @@ Je puis aisément le prouver,
 Puisqu'on ne peut jamais trouver  
 De façon de parler plus claire,  
 Pour dire se mettre en colere.  
-Mais c'est fait, lisez.                          
+Mais c'est fait, lisez.  
 
     ERGASTE.
         Je le veux.  
@@ -1122,7 +1122,7 @@ Ce que par là vous voulez dire,
 Et je m'en vais vous en instruire.  
 C'est qu'on y voit dessus la fin  
 Par un tour delicat & fin,  
-Sans qu'elle y paroisse forcée,                      
+Sans qu'elle y paroisse forcée,  
 Une maniere de pensée.  
 
     ERGASTE.
@@ -1151,7 +1151,7 @@ Bon Dieu ! sans le Dictionnaire
 Qu'on a fait & que l'on doit faire,  
 J'estois ma foy pris comme un sot ?  
 Car je ne sçeus jamais un mot  
-De cette langue que j'enseigne,                      
+De cette langue que j'enseigne,  
 Mais il ne faut plus que je craigne,  
 Puis qu'avecque quatre grand mots  
 L'on duppe souvent bien des sots ;  
@@ -1178,7 +1178,7 @@ C'est pourquoy j'ose me promettre
 Que sans doute on leur pourra mettre  
 Ma Requeste bien-tost en main,  
 Et que devant qu'il soit demain  
-A ces superbes Pretieuses,                      
+A ces superbes Pretieuses,  
 Nous verrons faire les pleureuses.  
 
     PANCRACE.
@@ -1208,7 +1208,7 @@ Mais je gagerois tout de bon
 Qu'il entrera dans la maison,  
 Qu'il aura mesme l'asseurance  
 D'y faire quelque connoissance,  
-Et que de tout ce qu'il verra                      
+Et que de tout ce qu'il verra  
 Auss-tost il s'enquerrera.  
 
     PANCRACE.
@@ -1239,7 +1239,7 @@ Si je me jette sur ta peau
 Je te feray bien rendre compte……  
 
     ROGUESPINE.
-Oh, oh ! vous avez l'ame prompte ?                  
+Oh, oh ! vous avez l'ame prompte ?  
 
     RIBERCOUR.
 Ah ! coquin je t'estropieray.  
@@ -1276,7 +1276,7 @@ Il n'est point de gens de mestier
 Qui la sçachent dans ce quartier,  
 D'autant que par un trait habille  
 Avant terme elles ont fait gile.  
-Mais je pense que l'on m'a dit,                       
+Mais je pense que l'on m'a dit,  
 Oüy c'estoit un homme d'esprit,  
 Et ses discours sont fort croyables  
 Que du Marais, aux Incurables  
@@ -1309,7 +1309,7 @@ Mais……
     ROGUESPINE.
 Mais escoutez à loisir,  
 Puisque selon vostre desir  
-J'ay reüssi dans vostre affaire.                      
+J'ay reüssi dans vostre affaire.  
 
     PANCRACE.
 Escoutons, sans plus le distraire.  
@@ -1339,7 +1339,7 @@ Elle est faite avecque raison,
 Car c'est une precaution  
 Dont bien souvent elles se servent  
 Et qu'entre-elles, elles observent,  
-Pour que, leur conversation                      
+Pour que, leur conversation  
 N'ait jamais d'interruption.  
 Il vint à la susdite porte,  
 Une calle, ou lacquais, n'importe  
@@ -1367,7 +1367,7 @@ Afin de la faire venir
 Pour pouvoir nous entretenir :  
 Lors que de cette Pretieuse,  
 L'impatience merveilleuse  
-Fut cause qu'on nous fist entrer.                   
+Fut cause qu'on nous fist entrer.  
 Nostre Sergent sans differer  
 Voyant cette femme sçavante  
 D'abord, vostre exploit lui presente.  
@@ -1397,7 +1397,7 @@ Pour l'empescher de trop paroistre
 Des rideaux, devant la fenestre  
 Sçachant, que la grande clarté  
 Efface un peu de la beauté.  
-J'y remarqué de plus, en suitte                      
+J'y remarqué de plus, en suitte  
 Quoy que la chambre, fut petite,  
 Que depuis la porte on voyoit  
 Un paravant qui s'estendoit  
@@ -1425,7 +1425,7 @@ Que je dis, sans dire sornettes,
 Que comme Mulets de sonnettes  
 Elles estoient, & croyez my,  
 Toutes chargées, par ma foy.  
-La pluspart encore d'entre-elles                      
+La pluspart encore d'entre-elles  
 Soit deslaides, ou soit des belles,  
 Tenoient avec un air badin,  
 Chacune une canne à la main,  
@@ -1453,7 +1453,7 @@ Celles qui restoient….ah ! sans rire,
 Je ne sçay si je le puis dire,  
 Avoient tout au tour du museau  
 De toille jaune, un grand morceau  
-Si gras, que sans estre Prophete,                      
+Si gras, que sans estre Prophete,  
 On l'eust pris pour une ommelette.  
 Si je ne me trompe voila  
 Comme ces Pretieuses-là,  
@@ -1481,7 +1481,7 @@ Et montroient un cœur plein de flambes,
 N'avoient point presque tous de jambes,  
 Du moins, ne les voyoit-on pas  
 Tant le rond, & grand embaras  
-De leurs canons à tous estages                      
+De leurs canons à tous estages  
 A leurs jambes faisoit d'ombrages.  
 Leur estomach asseurément,  
 Et leurs espaules mesmement  
@@ -1509,7 +1509,7 @@ Comme j'ay dit, tres à leur aise
 Estoient chacun dans une chaise,  
 Avoient tous les yeux fort battus,  
 De plus estoient de noir vestus,  
-Avoient la mine rechignée,                       
+Avoient la mine rechignée,  
 Avoient la teste mal peignée,  
 Avoient de si petits rabats,  
 Qu'on ne les voyoit presque pas,  
@@ -1534,7 +1534,7 @@ Qui bien souvent font les Prophetes,
 Et que sans droit vous dedaignez,  
 Paroissent souvent mal peignez.  
 Voila le recit tres-fidelle  
-De tout ce que m'aprit la belle.                      
+De tout ce que m'aprit la belle.  
 
     RIBERCOUR.
 Je trouve qu'en voila beaucoup.  
@@ -1567,7 +1567,7 @@ Pour rire, je l'entends ainsi,
 Et d'y bien reüssir aussi.  
 Un seul d'entre-eux ay-je oüy dire,  
 Se picque d'y bien faire rire,  
-Et je croy que c'est un Abbé,                      
+Et je croy que c'est un Abbé,  
 Dont le nom commence par B.  
 Les derniers font des Comedies,  
 Des Madrigaux, des Elegies  
@@ -1598,7 +1598,7 @@ Allons viste, l'heure nous presse.
 
     RIBERCOUR.
 Allons Monsieur, j'en suis d'accord,  
-Voir ce qu'ordonnera le sort.                      
+Voir ce qu'ordonnera le sort.  
 
 
 ### SCENE XIII.
@@ -1612,7 +1612,7 @@ Mais allons ouïr leurs harangues,
 Allons voir remuer leurs langues ;  
 Car j'en jurerois bien ma foy,  
 Ce doit estre un plaisir de Roy.  
-On leve une toille, les Juges paroissent avce un Greffier.        
+On leve une toille, les Juges paroissent avce un Greffier.
 
 
 
@@ -1645,7 +1645,7 @@ Elle en choisiroit trois ou quatre
 Qui viendroient l'entendre combattre  
 A force de raisonnement  
 Sa partie, & qu'asseurement  
-Il auroit l'honneur, & la gloire                      
+Il auroit l'honneur, & la gloire  
 D'emporter une ample victoire.  
 
     ARISTIME.
@@ -1676,7 +1676,7 @@ Messieurs, j'en veux aux Pretieuses,
 A ces femmes pernicieuses,  
 Qui troublent le repos public,  
 Qui causent dedans le trafic  
-Par des mots, inintelligibles,                       
+Par des mots, inintelligibles,  
 Des revolutions terribles,  
 Et je deman, de là-dessus  
 Que leur langage ne soit plus  
@@ -1705,7 +1705,7 @@ Vrayment pour une Pretieuse,
 Vous ne vous pressez pas trop fort.  
 
     EPICARIE.
-C'est signe que je n'ay pas tort.                          
+C'est signe que je n'ay pas tort.  
 
     RIBERCOUR.
 Ah ! Sans chercher tant de finesses  
@@ -1740,7 +1740,7 @@ Pour la rendre sans repartie
 Tout du moins je croy qu'il faudroit…  
 
     RIBERCOUR.
-Quoy ! vous monstrer que j'ay bon droit.                  
+Quoy ! vous monstrer que j'ay bon droit.  
 
     EPICARIE.
 Ne l'ayant pas peu voir encore,  
@@ -1773,7 +1773,7 @@ Puisque mes pieces qu'on a veües
 Ont parû tout à fait congrües,  
 Mon procez fort bien intenté,  
 Et que c'est une verité  
-Que le droict que quoy je me fonde                      
+Que le droict que quoy je me fonde  
 Passe pour le meilleur du monde.  
 C'est ce qui fait qu'enfin je croy  
 Que ma partie en desarroy  
@@ -1803,7 +1803,7 @@ Il faut l'entendre tout du long.
 
     EPICARIE.
 Mais au moins Messieurs, songez donc  
-Que bon droit vous me devez faire.                      
+Que bon droit vous me devez faire.  
 
     PATRICE.
 Nous examinerons l'affaire.  
@@ -1833,7 +1833,7 @@ Mais pour leur reputation
 Par un beau desir de renom,  
 Elles ont un Dictionnaire  
 Tout fraischement mis en lumiere,  
-Auquel chacun court comme au feu,                   
+Auquel chacun court comme au feu,  
 Et nous en promettent dans peu  
 De leur façon encore un autre :  
 Cependant helas ! que le vostre  
@@ -1861,7 +1861,7 @@ Estre dans sa perfection.
 Songez donc Messieus, tout de bon  
 A me faire bonne justice  
 Me donnant un Arrest propice ;  
-Mais j'ay tort de vous y pousser                      
+Mais j'ay tort de vous y pousser  
 Ne devez-vous pas ? embrasser  
 O Senat mille fois auguste,  
 Un interest si grand, si juste,  
@@ -1889,7 +1889,7 @@ Qui fist diviser les mortels,
 Qui fist piller jusqu'aux Autels,  
 Bref qui parmy toute la Terre,  
 Fist naistre pour jamais la guerre.  
-Je vous addresse donc mes vœux                      
+Je vous addresse donc mes vœux  
 Messieurs, pour que le Pretieux,  
 Afin qu'en cette conjoincture  
 J'empesche pareille adventure,  
@@ -1918,7 +1918,7 @@ Tout ce qu'un Advocat du Maine,
 Luy dit, avant que de partir.  
 
     PATRICE *(à Epicarie.)*
-Avez-vous de quoy repartir ?                      
+Avez-vous de quoy repartir ?  
 
     EPICARIE.
 Oüy je suis preste de respondre  
@@ -1951,7 +1951,7 @@ Que de vouloir oster aux femmes,
 La langue, puis qu'enfin sans ames  
 Elles vivroient asseurément  
 Plutost que sans langue un moment.  
-L'on sçait de science certaine                      
+L'on sçait de science certaine  
 Que c'est là leur vray patrimoine,  
 Que pour en amoindrir les droits  
 L'on n'a point encor fait de loix  
@@ -1980,7 +1980,7 @@ Italien, Grec, Latin, More,
 Espagnol, Polonois, Flamand,  
 Persan, Turc, Hebreux, Allemand,  
 Picart, Chaldeen ; pour le reste  
-J'en dis & cetera.                           
+J'en dis & cetera.  
 
     ROGUESPINE *(à part.)*
         La peste,  
@@ -2012,7 +2012,7 @@ Il nacquit l'an six cens cinquante,
 Et de chacun trompa l'attente ;  
 Car j'ay de notables tesmoins  
 Que l'on ne songeoit à rien moins.  
-Des femmes, enfin l'enfanterent                      
+Des femmes, enfin l'enfanterent  
 Et trente-neuf ans, le porterent ;  
 Mais voyez quelles elles sont,  
 Quel est le renom qu'elles ont.  
@@ -2042,7 +2042,7 @@ Apres avoir le suc tiré
 Et tout le jus bien pressuré  
 De maint illustre personnage  
 Ne pouvoient pas faire un langage  
-Et si loings de les condamner                      
+Et si loings de les condamner  
 Vous ne devez pas ordonner  
 Que Ribercour, quoy qu'il demande,  
 Quoy que contre nous il pretende,  
@@ -2075,7 +2075,7 @@ Un soufflet.
         Va c'est que je jouë,  
 Mais pourtant si nous nous plaidions  
 Si tous deux nous nous chamaillions  
-Il vaudroit ma foy mieux je pense                  
+Il vaudroit ma foy mieux je pense  
 Pour obvier à la despence  
 Grossoyer ensemble à loisir  
 Nos pieces, peste quel plaisir.  
@@ -2101,7 +2101,7 @@ Que le lit, desdites femelles
 Soit des deux costez sans ruelles,  
 Et qu'il soit mesmement placé  
 Sans estre du tout exaucé.  
-(Le Siege se leve.)                            
+(Le Siege se leve.)
 
 
     RIBERCOUR.
@@ -2128,7 +2128,7 @@ Qui sans trop bien sçavoir pourquoy
 Vient de prononcer contre moy.  
 
     RIBERCOUR. 
-(Prend la lettre & lit.)                        
+(Prend la lettre & lit.)
 
 *Cher amy*,
 Je te conseille de laisser là ton procez, & de revenir dans nostre Province, car j'ay appris depuis que tu en es party que c'est un tour que l'on t'a joüé, & que ceux de ce païs qui t'ont envoyé s'entendent avec trois ou quatre personnes de Paris, qui doivent contrefaire les Juges, & les Pretieuses, pour se divertir de toy, je te donne cét advis ; & suis,
@@ -2145,7 +2145,7 @@ Et moy, par ma foy, j'en riré.
 
     RIBERCOUR. 
 Mais celuy qui cecy m'avance  
-N'est-il point de l'intelligence.                      
+N'est-il point de l'intelligence.  
 
     PANCRACE.
 Peut-estre, mais je vois enfin  

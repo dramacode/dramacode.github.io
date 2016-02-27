@@ -1,8 +1,8 @@
 ---
-identifier: racine_athalie  
-creator: Racine  
+identifier: RACINE_ATHALIE  
+creator: RACINE, Jean  
 date: 1691  
-title: Athalie. TRAGÉDIE tirée de l’écriture sainte  
+title: ATHALIE, TRAGÉDIE tirée de l'écriture sainte.  
 ---
 
 
@@ -14,7 +14,7 @@ M. DC. XCI Avec Privilège de sa Majesté.
 
 Jean Racine
 
-# Extrait du privilège du Roi. Par lettres patentes du roi en date du 11 décembre 1690. Signées BOUCHER : il est permis au sieur Racine, Gentilhomme ordinaire de sa majesté, de faire imprimer la Tragédie qu'il a composée par ordre du Roi, intitulée "Athalie, tirée de l'Éciture Sainte", et ce pendant le temps de dix années, à commencer du jour qu'ellle aura été achevée d'imprimer pour la première fois. Avec défense à toute personne, autres ceux que le dit sieur aura choisi ; d'imprimer la dite tragédie, ni même d'en vendre ou débiter des exemplaires qui pouraient être contrefaits, peine de confiscation desdits exemplaires, de trois mille livres d'amende, et de tous dépens, dommages et intérêts, aux charges et conditions contenues plus au long desdites lettres. Registrées sur le livre de la Communauté des Libraires et Imprimeurs de Paris, le 8 février 1691. Signe P. AUBOÜYN, syndic. Ledit Sieur Racine a cédé le droit dudit privilège à Denys Thierry marchand libraire-imprimeur, et ancien juge consul de Paris, qui en a fait part à Claude Barbin aussi marchand-libraire à Paris.Achevé d'imprimer pour la première fois le 3 mars 1691.À PARIS, chez Denys Thierry, rue Saint-Jacque, à la ville de Paris.
+# Extrait du privilège du Roi. Par lettres patentes du roi en date du 11 décembre 1690. Signées BOUCHER : il est permis au sieur Racine, Gentilhomme ordinaire de sa majesté, de faire imprimer la Tragédie qu'il a composée par ordre du Roi, intitulée "Athalie, tirée de l'Éciture Sainte", et ce pendant le temps de dix années, à commencer du jour qu'ellle aura été achevée d'imprimer pour la première fois. Avec défense à toute personne, autres ceux que le dit sieur aura choisi ; d'imprimer la dite tragédie, ni même d'en vendre ou débiter des exemplaires qui pouraient être contrefaits, peine de confiscation desdits exemplaires, de trois mille livres d'amende, et de tous dépens, dommages et intérêts, aux charges et conditions contenues plus au long desdites lettres. Registrées sur le livre de la Communauté des Libraires et Imprimeurs de Paris, le 8 février 1691. Signe P. AUBOÜYN, syndic. Ledit Sieur Racine a cédé le droit dudit privilège à Denys Thierry marchand libraire-imprimeur, et ancien juge consul de Paris, qui en a fait part à Claude Barbin aussi marchand-libraire à Paris.Achevé d'imprimer pour la première fois le 3 mars 1691.À PARIS, chez Denys Thierry, rue Saint-Jacque, à la ville de Paris.
 Représenté pour la première fois le 5 janvier 1691 au Collège de Saint-Cyr.
 
 
@@ -22,57 +22,55 @@ Représenté pour la première fois le 5 janvier 1691 au Collège de Saint-Cyr.
 
 Tout le monde sait que le royaume de Juda était composé de deux tribus, de Juda et de Benjamin, et que les dix autres tribus qui se révoltèrent contre Roboam composaient le royaume d'Israël. Comme les rois de Juda étaient de la maison de David, et qu'ils avaient dans leur partage la ville et le temple de Jérusalem, tout ce qu'il y avait de prêtres et de lévites se retirèrent auprès d'eux, et leur demeurèrent toujours attachés. Car, depuis que le temple de Salomon fut bâti, il n'était plus permis de sacrifier ailleurs, et tous ces autres autels qu'on élevait à Dieu sur des montagnes, appelés par cette raison dans l'Ecriture les hauts lieux, ne lui étaient point agréables. Ainsi le culte légitime ne subsistait plus que dans Juda. Les dix tribus, excepté un très petit nombre de personnes, étaient ou idolâtres ou schismatiques.
 
-Au reste, ces prêtres et ces lévites faisaient eux-mêmes une tribu fort nombreuse. Ils furent partagés en diverses classes pour servir tour à tour dans le temple, d'un jour de sabbat à l'autre. Les prêtres étaient de la famille d'Aaron ; et il n'y avait que ceux de cette famille, lesquels pussent exercer la sacrificature. Les lévites leur étaient subordonnés, et avaient soin, entre autres choses, du chant, de la préparation des victimes, et de la garde du temple. Ce nom de lévite ne laisse pas d'être donné quelquefois indifféremment à tous ceux de la tribu. Ceux qui étaient en semaine avaient, ainsi que le grand-prêtre, leur logement dans les portiques ou galeries dont le temple était environné, et qui faisaient partie du temple même. Tout l'édifice s'appelait en général le lieu saint ; mais on appelait plus particulièrement de ce nom cette partie du temple intérieur où étaient le chandelier d'or, l'autel des parfums et les tables des pains de proposition ; et cette partie était encore distinguée du Saint des Saints, où était l'arche, et où le grand-prêtre seul avait droit d'entrer une fois l'année. C'était une tradition assez constante que la montagne sur laquelle le temple fut bâti était la même montagne où Abraham avait autrefois offert en sacrifice son fils Isaac.
+Au reste, ces prêtres et ces lévites faisaient eux-mêmes une tribu fort nombreuse. Ils furent partagés en diverses classes pour servir tour à tour dans le temple, d'un jour de sabbat à l'autre. Les prêtres étaient de la famille d'Aaron; et il n'y avait que ceux de cette famille, lesquels pussent exercer la sacrificature. Les lévites leur étaient subordonnés, et avaient soin, entre autres choses, du chant, de la préparation des victimes, et de la garde du temple. Ce nom de lévite ne laisse pas d'être donné quelquefois indifféremment à tous ceux de la tribu. Ceux qui étaient en semaine avaient, ainsi que le grand-prêtre, leur logement dans les portiques ou galeries dont le temple était environné, et qui faisaient partie du temple même. Tout l'édifice s'appelait en général le lieu saint; mais on appelait plus particulièrement de ce nom cette partie du temple intérieur où étaient le chandelier d'or, l'autel des parfums et les tables des pains de proposition; et cette partie était encore distinguée du Saint des Saints, où était l'arche, et où le grand-prêtre seul avait droit d'entrer une fois l'année. C'était une tradition assez constante que la montagne sur laquelle le temple fut bâti était la même montagne où Abraham avait autrefois offert en sacrifice son fils Isaac.
 
-J'ai cru devoir expliquer ici ces particularités, afin que ceux à qui l'histoire de l'Ancien Testament ne sera pas assez présente n'en soient point arrêtés en lisant cette tragédie. Elle a pour sujet Joas reconnu et mis sur le trône ; et j'aurais dû dans les règles l'intituler Joas ; mais la plupart du monde n'en ayant entendu parler que sous le nom d'Athalie, je n'ai pas jugé à propos de la leur présenter sous un autre titre puisque d'ailleurs Athalie y joue un personnage si considérable, et que c'est sa mort qui termine la pièce. Voici une partie des principaux événements qui devancèrent cette grande action.
+J'ai cru devoir expliquer ici ces particularités, afin que ceux à qui l'histoire de l'Ancien Testament ne sera pas assez présente n'en soient point arrêtés en lisant cette tragédie. Elle a pour sujet Joas reconnu et mis sur le trône; et j'aurais dû dans les règles l'intituler Joas; mais la plupart du monde n'en ayant entendu parler que sous le nom d'Athalie, je n'ai pas jugé à propos de la leur présenter sous un autre titre puisque d'ailleurs Athalie y joue un personnage si considérable, et que c'est sa mort qui termine la pièce. Voici une partie des principaux événements qui devancèrent cette grande action.
 
-Joram, roi de Juda, fils de Josaphat, et le septième roi de la race de David, épousa Athalie, fille d'Achab et de Jézabel qui régnaient en Israël, fameux l'un et l'autre, mais principalement Jézabel, par leurs sanglantes persécutions contre les prophètes. Athalie, non moins impie que sa mère, entraîna bientôt le roi son mari dans l'idolâtrie et fit même construire dans Jérusalem un temple à Baal, qui était le dieu du pays de Tyr et de Sidon, où Jézabel avait pris naissance. Joram, après avoir vu périr par les mains des Arabes et des Philistins tous les princes ses enfants, à la réserve d'Ochosias, mourut lui-même misérablement d'une longue maladie qui lui consuma les entrailles. Sa mort funeste n'empêcha pas Ochosias d'imiter son impiété et celle d'Athalie sa mère. Mais ce prince, après avoir régné seulement un an, étant allé rendre visite au roi d'Israël, frère d'Athalie, fut enveloppé dans la ruine de la maison d'Achab, et tué par l'ordre de Jéhu, que Dieu avait fait sacrer par ses prophètes pour régner sur Israël et pour être le ministre de ses vengeances. Jéhu extermina toute la postérité d'Achab, et fit jeter par les fenêtres Jézabel, qui, selon la prédiction d'Elie, fut mangée des chiens dans la vigne de ce même Naboth qu'elle avait fait mourir autrefois pour s'emparer de son héritage. Athalie, ayant appris à Jérusalem tous ces massacres, entreprit de son côté d'éteindre entièrement la race royale de David, en faisant mourir tous les enfants d'Ochosias, ses petits-fils. Mais heureusement Josabeth, sœur d'Ochosias et fille de Joram, mais d'une autre mère qu'Athalie, étant arrivée lorsqu'on égorgeait les princes ses neveux, elle trouva moyen de dérober du milieu des morts le petit Joas, encore à la mamelle, et le confia avec sa nourrice au grand-prêtre son mari, qui les cacha tous deux dans le temple, où l'enfant fut élevé secrètement jusqu'au jour qu'il fut proclamé roi de Juda. L'histoire des Rois dit que ce fut la septième année d'après. Mais le texte grec des Paralipomènes, que Sévère Sulpice a suivi, dit que ce fut la huitième. C'est ce qui m'a autorisé à donner à ce prince neuf à dix ans, pour le mettre déjà en état de répondre aux questions qu'on lui fait.
+Joram, roi de Juda, fils de Josaphat, et le septième roi de la race de David, épousa Athalie, fille d'Achab et de Jézabel qui régnaient en Israël, fameux l'un et l'autre, mais principalement Jézabel, par leurs sanglantes persécutions contre les prophètes. Athalie, non moins impie que sa mère, entraîna bientôt le roi son mari dans l'idolâtrie et fit même construire dans Jérusalem un temple à Baal, qui était le dieu du pays de Tyr et de Sidon, où Jézabel avait pris naissance. Joram, après avoir vu périr par les mains des Arabes et des Philistins tous les princes ses enfants, à la réserve d'Ochosias, mourut lui-même misérablement d'une longue maladie qui lui consuma les entrailles. Sa mort funeste n'empêcha pas Ochosias d'imiter son impiété et celle d'Athalie sa mère. Mais ce prince, après avoir régné seulement un an, étant allé rendre visite au roi d'Israël, frère d'Athalie, fut enveloppé dans la ruine de la maison d'Achab, et tué par l'ordre de Jéhu, que Dieu avait fait sacrer par ses prophètes pour régner sur Israël et pour être le ministre de ses vengeances. Jéhu extermina toute la postérité d'Achab, et fit jeter par les fenêtres Jézabel, qui, selon la prédiction d'Elie, fut mangée des chiens dans la vigne de ce même Naboth qu'elle avait fait mourir autrefois pour s'emparer de son héritage. Athalie, ayant appris à Jérusalem tous ces massacres, entreprit de son côté d'éteindre entièrement la race royale de David, en faisant mourir tous les enfants d'Ochosias, ses petits-fils. Mais heureusement Josabeth, soeur d'Ochosias et fille de Joram, mais d'une autre mère qu'Athalie, étant arrivée lorsqu'on égorgeait les princes ses neveux, elle trouva moyen de dérober du milieu des morts le petit Joas, encore à la mamelle, et le confia avec sa nourrice au grand-prêtre son mari, qui les cacha tous deux dans le temple, où l'enfant fut élevé secrètement jusqu'au jour qu'il fut proclamé roi de Juda. L'histoire des Rois dit que ce fut la septième année d'après. Mais le texte grec des Paralipomènes, que Sévère Sulpice a suivi, dit que ce fut la huitième. C'est ce qui m'a autorisé à donner à ce prince neuf à dix ans, pour le mettre déjà en état de répondre aux questions qu'on lui fait.
 
-Je crois ne lui avoir rien fait dire qui soit au-dessus de la portée d'un enfant de cet âge qui a de l'esprit et de la mémoire. Mais, quand j'aurais été un peu au-delà, il faut considérer que c'est ici un enfant tout extraordinaire, élevé dans le temple par un grand-prêtre qui, le regardant comme l'unique espérance de sa nation, l'avait instruit de bonne heure dans tous les devoirs de la religion et de la royauté. Il n'en était pas de même des enfants des Juifs que de la plupart des nôtres : on leur apprenait les saintes Lettres, non seulement dès qu'ils avaient atteint l'usage de la raison, mais, pour me servir de l'expression de saint Paul, dès la mamelle. Chaque Juif était obligé d'écrire une fois en sa vie, de sa propre main, le volume de la Loi tout entier. Les rois étaient même obligés de l'écrire deux fois et il leur était enjoint de l'avoir continuellement devant les yeux. Je puis dire ici que la France voit en la personne d'un prince de huit ans et demi, qui fait aujourd'hui ses plus chères délices, un exemple illustre de ce que peut dans un enfant un heureux naturel aidé d'une excellente éducation, et que si j'avais donné au petit Joas la même vivacité et le même discernement qui brillent dans les reparties de ce jeune prince, on m'aurait accusé avec raison d'avoir péché contre les règles de la vraisemblance.
+Je crois ne lui avoir rien fait dire qui soit au-dessus de la portée d'un enfant de cet âge qui a de l'esprit et de la mémoire. Mais, quand j'aurais été un peu au-delà, il faut considérer que c'est ici un enfant tout extraordinaire, élevé dans le temple par un grand-prêtre qui, le regardant comme l'unique espérance de sa nation, l'avait instruit de bonne heure dans tous les devoirs de la religion et de la royauté. Il n'en était pas de même des enfants des Juifs que de la plupart des nôtres: on leur apprenait les saintes Lettres, non seulement dès qu'ils avaient atteint l'usage de la raison, mais, pour me servir de l'expression de saint Paul, dès la mamelle. Chaque Juif était obligé d'écrire une fois en sa vie, de sa propre main, le volume de la Loi tout entier. Les rois étaient même obligés de l'écrire deux fois et il leur était enjoint de l'avoir continuellement devant les yeux. Je puis dire ici que la France voit en la personne d'un prince de huit ans et demi, qui fait aujourd'hui ses plus chères délices, un exemple illustre de ce que peut dans un enfant un heureux naturel aidé d'une excellente éducation, et que si j'avais donné au petit Joas la même vivacité et le même discernement qui brillent dans les reparties de ce jeune prince, on m'aurait accusé avec raison d'avoir péché contre les règles de la vraisemblance.
 
 L'âge de Zacharie, fils du grand-prêtre, n'étant point marqué, on peut lui supposer, si l'on veut, deux ou trois ans de plus qu'à Joas.
 
-J'ai suivi l'explication de plusieurs commentateurs fort habiles, qui prouvent, par le texte même de l'Ecriture, que tous ces soldats à qui Joïada, ou Joad, comme il est appelé dans Josèphe, fit prendre les armes consacrées à Dieu par David, étaient autant de prêtres et de lévites, aussi bien que les cinq centeniers qui les commandaient. En effet, disent ces interprètes, tout devait être saint dans une si sainte action, et aucun profane n'y devait être employé. Il s'y agissait non seulement de conserver le sceptre dans la maison de David, mais encore de conserver à ce grand roi cette suite de descendants dont devait naître le Messie : "Car ce Messie tant de fois promis comme fils d'Abraham, devait être aussi le fils de David et de tous les rois de Juda." De là vient que l'illustre et savant prélat de qui j'ai emprunté ces paroles appelle Joas le précieux reste de la maison de David. Josèphe en parle dans les mêmes termes, et l'Ecriture dit expressément que Dieu n'extermina pas toute la famille de Joram, voulant conserver à David la lampe qu'il lui avait promise. Or cette lampe, qu'était-ce autre chose que la lumière qui devait être un jour révélée aux nations ?
+J'ai suivi l'explication de plusieurs commentateurs fort habiles, qui prouvent, par le texte même de l'Ecriture, que tous ces soldats à qui Joïada, ou Joad, comme il est appelé dans Josèphe, fit prendre les armes consacrées à Dieu par David, étaient autant de prêtres et de lévites, aussi bien que les cinq centeniers qui les commandaient. En effet, disent ces interprètes, tout devait être saint dans une si sainte action, et aucun profane n'y devait être employé. Il s'y agissait non seulement de conserver le sceptre dans la maison de David, mais encore de conserver à ce grand roi cette suite de descendants dont devait naître le Messie: "Car ce Messie tant de fois promis comme fils d'Abraham, devait être aussi le fils de David et de tous les rois de Juda." De là vient que l'illustre et savant prélat de qui j'ai emprunté ces paroles appelle Joas le précieux reste de la maison de David. Josèphe en parle dans les mêmes termes, et l'Ecriture dit expressément que Dieu n'extermina pas toute la famille de Joram, voulant conserver à David la lampe qu'il lui avait promise. Or cette lampe, qu'était-ce autre chose que la lumière qui devait être un jour révélée aux nations ?
 
-L'histoire ne spécifie point le jour où Joas fut proclamé. Quelques interprètes veulent que ce fût un jour de fête. J'ai choisi celle de la Pentecôte, qui était l'une des trois grandes fêtes des Juifs. On y célébrait la mémoire de la publication de la loi sur le mont de Sinaï, et on y offrait aussi à Dieu les premiers pains de la nouvelle moisson : ce qui faisait qu'on la nommait encore la fête des prémices. J'ai songé que ces circonstances me fourniraient quelque variété pour les chants du chœur.
+L'histoire ne spécifie point le jour où Joas fut proclamé. Quelques interprètes veulent que ce fût un jour de fête. J'ai choisi celle de la Pentecôte, qui était l'une des trois grandes fêtes des Juifs. On y célébrait la mémoire de la publication de la loi sur le mont de Sinaï, et on y offrait aussi à Dieu les premiers pains de la nouvelle moisson: ce qui faisait qu'on la nommait encore la fête des prémices. J'ai songé que ces circonstances me fourniraient quelque variété pour les chants du choeur.
 
-Ce chœur est composé de jeunes filles de la tribu de Lévi, et je mets à leur tête une fille que je donne pour sœur à Zacharie. C'est elle qui introduit le chœur chez sa mère. Elle chante avec lui, porte la parole pour lui, et fait enfin les fonctions de ce personnage des anciens chœurs qu'on appelait le coryphée. J'ai aussi essayé d'imiter des anciens cette continuité d'action qui fait que leur théâtre ne demeure jamais vide, les intervalles des actes n'étant marqués que par des hymnes et par des moralités du chœur, qui ont rapport à ce qui se passe.
+Ce choeur est composé de jeunes filles de la tribu de Lévi, et je mets à leur tête une fille que je donne pour soeur à Zacharie. C'est elle qui introduit le choeur chez sa mère. Elle chante avec lui, porte la parole pour lui, et fait enfin les fonctions de ce personnage des anciens choeurs qu'on appelait le coryphée. J'ai aussi essayé d'imiter des anciens cette continuité d'action qui fait que leur théâtre ne demeure jamais vide, les intervalles des actes n'étant marqués que par des hymnes et par des moralités du choeur, qui ont rapport à ce qui se passe.
 
-On me trouvera peut-être un peu hardi d'avoir osé mettre sur la scène un prophète inspiré de Dieu, et qui prédit l'avenir. Mais j'ai eu la précaution de ne mettre dans sa bouche que des expressions tirées des prophètes mêmes. Quoique l'Ecriture ne dise pas en termes exprès que Joïada ait eu l'esprit de prophétie, comme elle le dit de son fils, elle le représente comme un homme tout plein de l'esprit de Dieu. Et d'ailleurs ne paraît-il pas, par l'Evangile, qu'il a pu prophétiser en qualité de souverain pontife ? Je suppose donc qu'il voit en esprit le funeste changement de Joas qui, après trente ans d'un règne fort pieux, s'abandonna aux mauvais conseils des flatteurs, et se souilla du meurtre de Zacharie, fils et successeur de ce grand-prêtre. Ce meurtre, commis dans le temple, fut une des principales causes de la colère de Dieu contre les Juifs, et de tous les malheurs qui leur arrivèrent dans la suite. On prétend même que depuis ce jour-là les réponses de Dieu cessèrent entièrement dans le sanctuaire. C'est ce qui m'a donné lieu de faire prédire de suite à Joad et la destruction du temple et la ruine de Jérusalem. Mais comme les prophètes joignent d'ordinaire les consolations aux menaces, et que d'ailleurs il s'agit de mettre sur le trône un des ancêtres du Messie, j'ai pris occasion de faire entrevoir la venue de ce consolateur, après lequel tous les anciens justes soupiraient. Cette scène, qui est une espèce d'épisode, amène très naturellement la musique, par la coutume qu'avaient plusieurs prophètes d'entrer dans leurs saints transports au son des instruments : témoin cette troupe de prophètes qui vinrent au-devant de Saül avec des harpes et des lyres qu'on portait devant eux ; et témoin Elisée lui-même, qui, étant consulté sur l'avenir par le roi de Juda et par le roi d'Israël, dit, comme fait ici Joad : Adducite mihi psaltem. Ajoutez à cela que cette prophétie sert beaucoup à augmenter le trouble dans la pièce, par la consternation et par les différents mouvements où elle jette le chœur et les principaux acteurs.
+On me trouvera peut-être un peu hardi d'avoir osé mettre sur la scène un prophète inspiré de Dieu, et qui prédit l'avenir. Mais j'ai eu la précaution de ne mettre dans sa bouche que des expressions tirées des prophètes mêmes. Quoique l'Ecriture ne dise pas en termes exprès que Joïada ait eu l'esprit de prophétie, comme elle le dit de son fils, elle le représente comme un homme tout plein de l'esprit de Dieu. Et d'ailleurs ne paraît-il pas, par l'Evangile, qu'il a pu prophétiser en qualité de souverain pontife? Je suppose donc qu'il voit en esprit le funeste changement de Joas qui, après trente ans d'un règne fort pieux, s'abandonna aux mauvais conseils des flatteurs, et se souilla du meurtre de Zacharie, fils et successeur de ce grand-prêtre. Ce meurtre, commis dans le temple, fut une des principales causes de la colère de Dieu contre les Juifs, et de tous les malheurs qui leur arrivèrent dans la suite. On prétend même que depuis ce jour-là les réponses de Dieu cessèrent entièrement dans le sanctuaire. C'est ce qui m'a donné lieu de faire prédire de suite à Joad et la destruction du temple et la ruine de Jérusalem. Mais comme les prophètes joignent d'ordinaire les consolations aux menaces, et que d'ailleurs il s'agit de mettre sur le trône un des ancêtres du Messie, j'ai pris occasion de faire entrevoir la venue de ce consolateur, après lequel tous les anciens justes soupiraient. Cette scène, qui est une espèce d'épisode, amène très naturellement la musique, par la coutume qu'avaient plusieurs prophètes d'entrer dans leurs saints transports au son des instruments: témoin cette troupe de prophètes qui vinrent au-devant de Saül avec des harpes et des lyres qu'on portait devant eux; et témoin Elisée lui-même, qui, étant consulté sur l'avenir par le roi de Juda et par le roi d'Israël, dit, comme fait ici Joad: Adducite mihi psaltem. Ajoutez à cela que cette prophétie sert beaucoup à augmenter le trouble dans la pièce, par la consternation et par les différents mouvements où elle jette le choeur et les principaux acteurs.
 
 
 # Les noms des personnages
- – Joas, roi de Judas, fils d'Ochosias.
- – Athalie, veuve de Joram, aïeule de Joas.
- – Joad, autrement dit Joïada, grand prêtre.
- – Josabet, tante de Joas, femme du grand prêtre.
- – Zacharie, fils de Joad et de Josabet.
- – Salomith, sœur de Zacharie.
- – Abner, l'un des principaux officiers des rois de Juda.
- – Azarias.
- – Ismaël, et les trois autres chefs des prêtres et des lévites.
- – Mathan, prêtre apostat, sacrificateur de Baal.
- – Nabal, confident de Mathan.
- – Agar, femme de la suite d'Athalie.
- – Troupe de prêtres et de lévites.
+ – JOAS, roi de Judas, fils d'Ochosias.
+ – ATHALIE, veuve de Joram, aïeule de Joas.
+ – JOAD, autrement dit Joïada, grand prêtre.
+ – JOSABET, tante de Joas, femme du grand prêtre.
+ – ZACHARIE, fils de Joad et de Josabet.
+ – SALOMITH, soeur de Zacharie.
+ – ABNER, l'un des principaux officiers des rois de Juda.
+ – AZARIAS.
+ – ISMAËL, et les trois autres chefs des prêtres et des lévites.
+ – MATHAN, prêtre apostat, sacrificateur de Baal.
+ – NABAL, confident de Mathan.
+ – AGAR, femme de la suite d'Athalie.
+ – TROUPE DE PRÊTRES ET DE LÉVITES.
  – Suite d'Athalie.
- – La nourrice de Joas.
- – Chœur de jeunes filles de la tribu de Lévi.La scène est dans le temple de Jérusalem, dans un vestibule de l'appartement du grand prêtre. [1]
+ – LA NOURRICE de Joas.
+ – CHOEUR de jeunes filles de la tribu de Lévi.La scène est dans le temple de Jérusalem, dans un vestibule de l'appartement du grand prêtre. [1]
 
 
 # ACTE I
 
 
-## SCÈNE PREMIÈRE
-Joad, Abner.
+## SCÈNE PREMIÈRE. Joad, Abner.
 
-
-    ABNER
+    ABNER.
 Oui, je viens dans son Temple adorer l'Éternel.  
 Je viens, selon l'usage antique et solennel,  
 Célébrer avec vous la fameuse journée,  
-Où sur le mont Sina la Loi nous fut donnée.   [2]
-Que les temps sont changés ! Sitôt que de ce jour  
+Où sur le mont Sina la Loi nous fut donnée.  
+Que les temps sont changés ! Sitôt que de ce jour [2]  
 La trompette sacrée annonçait le retour,  
 Du Temple orné partout de festons magnifiques,  
 Le peuple saint en foule inondait les portiques.  
@@ -93,11 +91,11 @@ Vous-même de l'autel vous faisant arracher,
 N'achève enfin sur vous ses vengeances funestes,  
 Et d'un respect forcé ne dépouille les restes.  
 
-    JOAD
-D'où vous vient aujourd'hui ce noir pressentiment ?  
+    JOAD.
+D'où vous vient aujourd'hui ce noir pressentiment ?  
 
-    ABNER
-Pensez-vous être saint et juste impunément ?  
+    ABNER.
+Pensez-vous être saint et juste impunément ?  
 Dès longtemps elle hait cette fermeté rare  
 Qui rehausse en Joad l'éclat de la tiare.  
 Dès longtemps votre amour pour la religion  
@@ -105,9 +103,9 @@ Est traité de révolte et de sédition.
 Du mérite éclatant cette reine jalouse,  
 Hait surtout Josabet votre fidèle épouse.  
 Si du grand prêtre Aaron Joad est successeur,  
-De notre dernier roi Josabet est la sœur.  
+De notre dernier roi Josabet est la soeur.  
 Mathan d'ailleurs, Mathan, ce prêtre sacrilège,  
-Plus méchant qu'Athalie, à toute heure l'assiège ;  
+Plus méchant qu'Athalie, à toute heure l'assiège ;  
 Mathan de nos autels infâme déserteur,  
 Et de toute vertu zélé persécuteur.  
 C'est peu que le front ceint d'une mitre étrangère,  
@@ -115,8 +113,8 @@ Ce lévite à Baal prête son ministère.
 Ce Temple l'importune, et son impiété  
 Voudrait anéantir le Dieu qu'il a quitté.  
 Pour vous perdre il n'est point de ressorts qu'il n'invente.  
-Quelquefois il vous plaint, souvent même il vous vante.   [3]
-Il affecte pour vous une fausse douceur.  
+Quelquefois il vous plaint, souvent même il vous vante.  
+Il affecte pour vous une fausse douceur. [3]  
 Et par là de son fiel colorant la noirceur,  
 Tantôt à cette reine il vous peint redoutable.  
 Tantôt voyant pour l'or sa soif insatiable,  
@@ -125,7 +123,7 @@ Vous cachez des trésors par David amassés.
 Enfin depuis deux jours la superbe Athalie,  
 Dans un sombre chagrin paraît ensevelie.  
 Je l'observais hier, et je voyais ses yeux  
-Lancer sur le lieu saint des regards furieux ;  
+Lancer sur le lieu saint des regards furieux ;  
 Comme si dans le fond de ce vaste édifice  
 Dieu cachait un vengeur armé pour son supplice.  
 Croyez-moi, plus j'y pense, et moins je puis douter,  
@@ -133,7 +131,7 @@ Que sur vous son courroux ne soit prêt d'éclater,
 Et que de Jézabel la fille sanguinaire  
 Ne vienne attaquer Dieu jusqu'en son sanctuaire.  
 
-    JOAD
+    JOAD.
 Celui qui met un frein à la fureur des flots,  
 Sait aussi des méchants arrêter les complots.  
 Soumis avec respect à sa volonté sainte,  
@@ -141,10 +139,10 @@ Je crains Dieu, cher Abner, et n'ai point d'autre crainte.
 Cependant je rends grâce au zèle officieux  
 Qui sur tous mes périls vous fait ouvrir les yeux.  
 Je vois que l'injustice en secret vous irrite,  
-Que vous avez encor le cœur israélite.  
+Que vous avez encor le coeur israélite.  
 Le ciel en soit béni. Mais ce secret courroux,  
-Cette oisive vertu, vous en contentez-vous ?  
-La foi qui n'agit point, est-ce une foi sincère ?  
+Cette oisive vertu, vous en contentez-vous ?  
+La foi qui n'agit point, est-ce une foi sincère ?  
 Huit ans déjà passés, une impie étrangère  
 Du sceptre de David usurpe tous les droits,  
 Se baigne impunément dans le sang de nos rois,  
@@ -155,20 +153,20 @@ Vous nourri dans les camps du saint roi Josaphat,
 Qui sous son fils Joram commandiez nos armées,  
 Qui rassurâtes seul nos villes alarmées,  
 Lorsque d'Ochosias le trépas imprévu  
-Dispersa tout son camp à l'aspect de Jéhu :  
+Dispersa tout son camp à l'aspect de Jéhu :  
 Je crains Dieu, dites-vous, sa vérité me touche.  
-Voici comme ce Dieu vous répond par ma bouche :  
-Du zèle de ma Loi que sert de vous parer ?  
-Par de stériles vœux pensez-vous m'honorer ?  
-Quel fruit me revient-il de tous vos sacrifices ?  
-Ai-je besoin du sang des boucs et des génisses ?  
+Voici comme ce Dieu vous répond par ma bouche :  
+Du zèle de ma Loi que sert de vous parer ?  
+Par de stériles voeux pensez-vous m'honorer ?  
+Quel fruit me revient-il de tous vos sacrifices ?  
+Ai-je besoin du sang des boucs et des génisses ?  
 Le sang de vos rois crie, et n'est point écouté.  
 Rompez, rompez tout pacte avec l'impiété.  
 Du milieu de mon peuple exterminez les crimes,  
-Et vous viendrez alors m'immoler des victimes.   [4]
+Et vous viendrez alors m'immoler des victimes.  
 
-    ABNER
-Hé que puis-je au milieu de ce peuple abattu ?  
+    ABNER.
+Hé que puis-je au milieu de ce peuple abattu ?  
 Benjamin est sans force, et Juda sans vertu.  
 Le jour qui de leur roi vit éteindre la race,  
 Éteignit tout le feu de leur antique audace.  
@@ -180,69 +178,69 @@ On ne voit plus pour nous ses redoutables mains,
 De merveilles sans nombre effrayer les humains.  
 L'Arche sainte est muette, et ne rend plus d'oracles.  
 
-    JOAD
-Et quel temps fut jamais si fertile en miracles ?  
-Quand Dieu par plus d'effets montra-t-il son pouvoir ?  
+    JOAD.
+Et quel temps fut jamais si fertile en miracles ?  
+Quand Dieu par plus d'effets montra-t-il son pouvoir ?  
 Auras-tu donc toujours des yeux pour ne point voir,  
-Peuple ingrat ? Quoi ? toujours les plus grandes merveilles  
-Sans ébranler ton cœur frapperont tes oreilles ?  
+Peuple ingrat ? Quoi ? toujours les plus grandes merveilles  
+Sans ébranler ton coeur frapperont tes oreilles ?  
 Faut-il, Abner, faut-il vous rappeler le cours  
-Des prodiges fameux accomplis en nos jours ?  
+Des prodiges fameux accomplis en nos jours ?  
 Des tyrans d'Israël les célèbres disgrâces,  
-Et Dieu trouvé fidèle en toutes ses menaces ;  
+Et Dieu trouvé fidèle en toutes ses menaces ;  
 L'impie Achab détruit, et de son sang trempé  
-Le champ que par le meurtre il avait usurpé ;  
+Le champ que par le meurtre il avait usurpé ;  
 Près de ce champ fatal Jézabel immolée,  
-Sous les pieds des chevaux cette reine foulée ;  
+Sous les pieds des chevaux cette reine foulée ;  
 Dans son sang inhumain les chiens désaltérés,  
-Et de son corps hideux les membres déchirés ;  
+Et de son corps hideux les membres déchirés ;  
 Des prophètes menteurs la troupe confondue,  
-Et la flamme du ciel sur l'autel descendue ;  
+Et la flamme du ciel sur l'autel descendue ;  
 Élie aux éléments parlant en souverain,  
 Les cieux par lui fermés et devenus d'airain,  
-Et la terre trois ans sans pluie et sans rosée ;  
-Les morts se ranimant à la voix d'Élisée ;  
+Et la terre trois ans sans pluie et sans rosée ;  
+Les morts se ranimant à la voix d'Élisée ;  
 Reconnaissez, Abner, à ces traits éclatants,  
 Un Dieu, tel aujourd'hui qu'il fut dans tous les temps.  
 Il sait quand il lui plaît faire éclater sa gloire,  
 Et son peuple est toujours présent à sa mémoire.  
 
-    ABNER
+    ABNER.
 Mais où sont ces honneurs à David tant promis,  
-Et prédits même encore à Salomon son fils ?  
-Hélas ! nous espérions que de leur race heureuse,  
+Et prédits même encore à Salomon son fils ?  
+Hélas ! nous espérions que de leur race heureuse,  
 Devait sortir de rois une suite nombreuse,  
 Que sur toute tribu, sur toute nation,  
 L'un d'eux établirait sa domination,  
 Ferait cesser partout la discorde et la guerre,  
 Et verrait à ses pieds tous les rois de la terre.  
 
-    JOAD
-Aux promesses du ciel pourquoi renoncez-vous ?  
+    JOAD.
+Aux promesses du ciel pourquoi renoncez-vous ?  
 
-    ABNER
-Ce roi fils de David, où le chercherons-nous ?  
+    ABNER.
+Ce roi fils de David, où le chercherons-nous ?  
 Le ciel même peut-il réparer les ruines  
-De cet arbre séché jusque dans ses racines ?  
+De cet arbre séché jusque dans ses racines ?  
 Athalie étouffa l'enfant même au berceau.  
-Les morts après huit ans, sortent-ils du tombeau ?  
-Ah ! si dans sa fureur elle s'était trompée,  
+Les morts après huit ans, sortent-ils du tombeau ?  
+Ah ! si dans sa fureur elle s'était trompée,  
 Si du sang de nos rois quelque goutte échappée...  
 
-    JOAD
-Hé bien ? Que feriez-vous ?  
+    JOAD.
+Hé bien ? Que feriez-vous ?  
 
-    ABNER
-        Ô jour heureux pour moi !  
-De quelle ardeur j'irais reconnaître mon roi !  
+    ABNER.
+        Ô jour heureux pour moi !  
+De quelle ardeur j'irais reconnaître mon roi !  
 Doutez-vous qu'à ses pieds nos tribus empressées...  
-Mais pourquoi me flatter de ces vaines pensées ?  
+Mais pourquoi me flatter de ces vaines pensées ?  
 Déplorable héritier de ces rois triomphants,  
 Ochosias restait seul avec ses enfants.  
 Par les traits de Jéhu je vis percer le père,  
 Vous avez vu les fils massacrés par la mère.  
 
-    JOAD
+    JOAD.
 Je ne m'explique point. Mais quand l'astre du jour  
 Aura sur l'horizon fait le tiers de son tour,  
 Lorsque la troisième heure aux prières rappelle,  
@@ -252,24 +250,22 @@ Que sa parole est stable, et ne trompe jamais.
 Allez, pour ce grand jour il faut que je m'apprête.  
 Et du Temple déjà l'aube blanchit le faîte.  
 
-    ABNER
-Quel sera ce bienfait que je ne comprends pas ?  
+    ABNER.
+Quel sera ce bienfait que je ne comprends pas ?  
 L'illustre Josabet porte vers vous ses pas.  
 Je sors, et vais me joindre à la troupe fidèle  
 Qu'attire de ce jour la pompe solennelle.  
 
 
-## SCÈNE II
-Joad, Josabet.
+## SCÈNE II. Joad, Josabet.
 
-
-    JOAD
+    JOAD.
 Les temps sont accomplis, Princesse, il faut parler,  
 Et votre heureux larcin ne se peut plus celer.  
 Des ennemis de Dieu la coupable insolence  
 Abusant contre lui de ce profond silence,  
 Accuse trop longtemps ses promesses d'erreur.  
-Que dis-je ? Le succès animant leur fureur,  
+Que dis-je ? Le succès animant leur fureur,  
 Jusque sur notre autel votre injuste marâtre  
 Veut offrir à Baal un encens idolâtre.  
 Montrons ce jeune roi que vos mains ont sauvé,  
@@ -281,22 +277,22 @@ Je vais l'offrir au Dieu, par qui règnent les rois.
 Aussitôt assemblant nos lévites, nos prêtres,  
 Je leur déclarerai l'héritier de leurs maîtres.  
 
-    JOSABET
-Sait-il déjà son nom, et son noble destin ?  
+    JOSABET.
+Sait-il déjà son nom, et son noble destin ?  
 
-    JOAD
+    JOAD.
 Il ne répond encor qu'au nom d'Éliacin,  
 Et se croit quelque enfant rejeté par sa mère,  
 À qui j'ai par pitié daigné servir de père.  
 
-    JOSABET
-Hélas ! de quel péril je l'avais su tirer !  
-Dans quel péril encore est-il prêt de rentrer !   [5]
+    JOSABET.
+Hélas ! de quel péril je l'avais su tirer !  
+Dans quel péril encore est-il prêt de rentrer !  
 
-    JOAD
-Quoi ? Déjà votre foi s'affaiblit et s'étonne ?  
+    JOAD.
+Quoi ? Déjà votre foi s'affaiblit et s'étonne ?  
 
-    JOSABET
+    JOSABET.
 À vos sages conseils, Seigneur, je m'abandonne.  
 Du jour que j'arrachai cet enfant à la mort,  
 Je remis en vos mains tout le soin de son sort.  
@@ -307,66 +303,66 @@ Ne fasse avec mes pleurs échapper mon secret.
 Surtout j'ai cru devoir aux larmes, aux prières,  
 Consacrer ces trois jours et ces trois nuits entières.  
 Cependant aujourd'hui puis-je vous demander  
-Quels amis vous avez prêts à vous seconder ?  
-Abner, le brave Abner viendra-t-il nous défendre ?  
-A-t-il près de son roi fait serment de se rendre ?  
+Quels amis vous avez prêts à vous seconder ?  
+Abner, le brave Abner viendra-t-il nous défendre ?  
+A-t-il près de son roi fait serment de se rendre ?  
 
-    JOAD
+    JOAD.
 Abner, quoiqu'on se pût assurer sur sa foi,  
 Ne sait pas même encor si nous avons un roi.  
 
-    JOSABET
-Mais à qui de Joas confiez-vous la garde ?  
-Est-ce Obed ? Est-ce Amnon que cet honneur regarde ?  
+    JOSABET.
+Mais à qui de Joas confiez-vous la garde ?  
+Est-ce Obed ? Est-ce Amnon que cet honneur regarde ?  
 De mon père sur eux les bienfaits répandus...  
 
-    JOAD
+    JOAD.
 À l'injuste Athalie ils se sont tous vendus.  
 
-    JOSABET
-Qui donc opposez-vous contre ses satellites ?  
+    JOSABET.
+Qui donc opposez-vous contre ses satellites ?  
 
-    JOAD
-Ne vous l'ai-je pas dit ? Nos prêtres, nos lévites.  
+    JOAD.
+Ne vous l'ai-je pas dit ? Nos prêtres, nos lévites.  
 
-    JOSABET
-Je sais que près de vous en secret assemblé   [6]
-Par vos soins prévoyants leur nombre est redoublé ;  
+    JOSABET.
+Je sais que près de vous en secret assemblé  
+Par vos soins prévoyants leur nombre est redoublé ; [4]  
 Que pleins d'amour pour vous, d'horreur pour Athalie,  
 Un serment solennel par avance les lie  
 À ce fils de David qu'on leur doit révéler.  
 Mais quelque noble ardeur dont ils puissent brûler,  
-Peuvent-ils de leur roi venger seuls la querelle ?  
-Pour un si grand ouvrage, est-ce assez de leur zèle ?  
+Peuvent-ils de leur roi venger seuls la querelle ?  
+Pour un si grand ouvrage, est-ce assez de leur zèle ?  
 Doutez-vous qu'Athalie, au premier bruit semé  
 Qu'un fils d'Ochosias est ici renfermé,  
 De ses fiers étrangers assemblant les cohortes,  
-N'environne le Temple et n'en brise les portes ?  
+N'environne le Temple et n'en brise les portes ?  
 Suffira-t-il contre eux de vos ministres saints,  
 Qui levant au Seigneur leurs innocentes mains,  
 Ne savent que gémir, et prier pour nos crimes,  
-Et n'ont jamais versé que le sang des victimes ?  
+Et n'ont jamais versé que le sang des victimes ?  
 Peut-être dans leurs bras Joas percé de coups...  
 
-    JOAD
-Et comptez-vous pour rien Dieu qui combat pour nous ?  
+    JOAD.
+Et comptez-vous pour rien Dieu qui combat pour nous ?  
 Dieu, qui de l'orphelin protège l'innocence,  
-Et fait dans la faiblesse éclater sa puissance ;  
+Et fait dans la faiblesse éclater sa puissance ;  
 Dieu, qui hait les tyrans, et qui dans Jezraël  
-Jura d'exterminer Achab et Jézabel ;  
+Jura d'exterminer Achab et Jézabel ;  
 Dieu, qui frappant Joram, le mari de leur fille,  
-A jusque sur son fils poursuivi leur famille ;  
+A jusque sur son fils poursuivi leur famille ;  
 Dieu, dont le bras vengeur, pour un temps suspendu,  
 Sur cette race impie est toujours étendu.  
 
-    JOSABET
+    JOSABET.
 Et c'est sur tous ces rois sa justice sévère,  
 Que je crains pour le fils de mon malheureux frère.  
 Qui sait si cet enfant par leur crime entraîné,  
-Avec eux en naissant ne fut pas condamné ?  
+Avec eux en naissant ne fut pas condamné ?  
 Si Dieu le séparant d'une odieuse race,  
-En faveur de David voudra lui faire grâce ?  
-Hélas ! l'état horrible où le ciel me l'offrit,  
+En faveur de David voudra lui faire grâce ?  
+Hélas ! l'état horrible où le ciel me l'offrit,  
 Revient à tout moment effrayer mon esprit.  
 De princes égorgés la chambre était remplie.  
 Un poignard à la main l'implacable Athalie  
@@ -380,7 +376,7 @@ Je le pris tout sanglant. En baignant son visage,
 Mes pleurs du sentiment lui rendirent l'usage.  
 Et soit frayeur encore, ou pour me caresser,  
 De ses bras innocents je me sentis presser.  
-Grand Dieu ! que mon amour ne lui soit point funeste.  
+Grand Dieu ! que mon amour ne lui soit point funeste.  
 Du fidèle David, c'est le précieux reste.  
 Nourri dans ta maison en l'amour de ta Loi,  
 Il ne connaît encor d'autre père que toi.  
@@ -391,26 +387,26 @@ Ont trop de part aux pleurs que je répands pour lui,
 Conserve l'héritier de tes saintes promesses,  
 Et ne punis que moi de toutes mes faiblesses.  
 
-    JOAD
+    JOAD.
 Vos larmes, Josabet, n'ont rien de criminel.  
 Mais Dieu veut qu'on espère en son soin paternel.  
 Il ne recherche point, aveugle en sa colère,  
 Sur le fils qui le craint, l'impiété du père.  
 Tout ce qui reste encor de fidèles Hébreux  
-Lui viendront aujourd'hui renouveler leurs vœux.  
+Lui viendront aujourd'hui renouveler leurs voeux.  
 Autant que de David la race est respectée,  
 Autant de Jézabel la fille est détestée.  
 Joas les touchera par sa noble pudeur,  
 Où semble de son sang reluire la splendeur.  
 Et Dieu par sa voix même appuyant notre exemple,  
-De plus près à leur cœur parlera dans son Temple.  
+De plus près à leur coeur parlera dans son Temple.  
 Deux infidèles rois tour à tour l'ont bravé.  
 Il faut que sur le trône un roi soit élevé,  
 Qui se souvienne un jour qu'au rang de ses ancêtres,  
 Dieu l'a fait remonter par la main de ses prêtres,  
 L'a tiré par leur main de l'oubli du tombeau,  
 Et de David éteint rallumé le flambeau.  
-Grand Dieu ! si tu prévois qu'indigne de sa race,  
+Grand Dieu ! si tu prévois qu'indigne de sa race,  
 Il doive de David abandonner la trace,  
 Qu'il soit comme le fruit en naissant arraché,  
 Ou qu'un souffle ennemi dans sa fleur a séché.  
@@ -423,14 +419,12 @@ Daigne, daigne, mon Dieu, sur Mathan et sur elle,
 Répandre cet esprit d'imprudence et d'erreur,  
 De la chute des rois funeste avant-coureur.  
 L'heure me presse. Adieu. Des plus saintes familles  
-Votre fils et sa sœur vous amènent les filles.  
+Votre fils et sa soeur vous amènent les filles.  
 
 
-## SCÈNE III
-Josabet, Zacharie, Salomith, Le Chœur.
+## SCÈNE III. Josabet, Zacharie, Salomith, Le Choeur.
 
-
-    JOSABET
+    JOSABET.
 Cher Zacharie, allez, ne vous arrêtez pas,  
 De votre auguste père accompagnez les pas.  
 Ô filles de Lévi, troupe jeune et fidèle,  
@@ -439,17 +433,15 @@ Qui venez si souvent partager mes soupirs,
 Enfants, ma seule joie en mes longs déplaisirs,  
 Ces festons dans vos mains, et ces fleurs sur vos têtes,  
 Autrefois convenaient à nos pompeuses fêtes.  
-Mais, hélas ! en ce temps d'opprobre et de douleurs,  
-Quelle offrande sied mieux que celle de nos pleurs ?  
+Mais, hélas ! en ce temps d'opprobre et de douleurs,  
+Quelle offrande sied mieux que celle de nos pleurs ?  
 J'entends déjà, j'entends la trompette sacrée,  
 Et du Temple bientôt on permettra l'entrée.  
 Tandis que je me vais préparer à marcher,  
 Chantez, louez le Dieu que vous venez chercher.  
 
 
-## SCÈNE IV
-Le Chœur.
-
+## SCÈNE IV. Le Choeur.
 
     TOUT LE CHOEUR CHANTE.
 Tout l'univers est plein de sa magnificence.  
@@ -473,16 +465,16 @@ Chantons, publions ses bienfaits.
 Il donne aux fleurs leur aimable peinture.  
 Il fait naître et mûrir les fruits.  
 Il leur dispense avec mesure  
-Et la chaleur des jours, et la fraîcheur des nuits ;  
+Et la chaleur des jours, et la fraîcheur des nuits ;  
 Le champ qui les reçut, les rend avec usure.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Il commande au soleil d'animer la nature,  
 Et la lumière est un don de ses mains.  
 Mais sa Loi sainte, sa Loi pure  
 Est le plus riche don qu'il ait fait aux humains.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Ô mont de Sinaï, conserve la mémoire  
 De ce jour à jamais auguste et renommé,  
 Quand sur ton sommet enflammé  
@@ -490,130 +482,126 @@ Dans un nuage épais le Seigneur enfermé
 Fit luire aux yeux mortels un rayon de sa gloire.  
 Dis-nous pourquoi ces feux et ces éclairs,  
 Ces torrents de fumée, et ce bruit dans les airs,  
-Ces trompettes et ce tonnerre ?  
-Venait-il renverser l'ordre des éléments ?  
+Ces trompettes et ce tonnerre ?  
+Venait-il renverser l'ordre des éléments ?  
 Sur ses antiques fondements  
-Venait-il ébranler la terre ?  
+Venait-il ébranler la terre ?  
 
-    UNE AUTRE
+    UNE AUTRE.
 Il venait révéler aux enfants des Hébreux,  
 De ses préceptes saints la lumière immortelle.  
 Il venait à ce peuple heureux  
 Ordonner de l'aimer d'une amour éternelle.  
 
-    TOUT LE CHOEUR
-Ô divine, ô charmante loi !  
-Ô justice, ô bonté suprême !  
+    TOUT LE CHOEUR.
+Ô divine, ô charmante loi !  
+Ô justice, ô bonté suprême !  
 Que de raisons, quelle douceur extrême  
-D'engager à ce Dieu son amour et sa foi !  
+D'engager à ce Dieu son amour et sa foi !  
 
     UNE VOIX, SEULE.
 D'un joug cruel il sauva nos aïeux,  
 Les nourrit au désert d'un pain délicieux.  
-Il nous donne ses lois, il se donne lui-même :  
+Il nous donne ses lois, il se donne lui-même :  
 Pour tant de biens il commande qu'on l'aime.  
 
-    LE CHOEUR
-Ô justice ! ô bonté suprême !  
+    LE CHOEUR.
+Ô justice ! ô bonté suprême !  
 
-    LA MÊME VOIX
+    LA MÊME VOIX.
 Des mers pour eux il entr'ouvrit les eaux,  
 D'un aride rocher fit sortir des ruisseaux.  
 Il nous donne ses lois, il se donne lui-même.  
 Pour tant de biens il commande qu'on l'aime.  
 
-    LE CHOEUR
-Ô divine, ô charmante loi !  
+    LE CHOEUR.
+Ô divine, ô charmante loi !  
 Que de raisons, quelle douceur extrême,  
-D'engager à ce Dieu son amour et sa foi !  
+D'engager à ce Dieu son amour et sa foi !  
 
     UNE AUTRE VOIX, SEULE.
 Vous, qui ne connaissez qu'une crainte servile,  
-Ingrats, un Dieu si bon ne peut-il vous charmer ?  
-Est-il donc à vos cœurs, est-il si difficile  
-Et si pénible de l'aimer ?  
+Ingrats, un Dieu si bon ne peut-il vous charmer ?  
+Est-il donc à vos coeurs, est-il si difficile  
+Et si pénible de l'aimer ?  
 L'esclave craint le tyran qui l'outrage.  
 Mais des enfants l'amour est le partage.  
 Vous voulez que ce Dieu vous comble de bienfaits,  
-Et ne l'aimer jamais ?   [7]
+Et ne l'aimer jamais ?  
 
-    TOUT LE CHOEUR
-Ô divine, ô charmante loi !  
-Ô justice, ô bonté suprême !  
+    TOUT LE CHOEUR.
+Ô divine, ô charmante loi !  
+Ô justice, ô bonté suprême !  
 Que de raisons, quelle douceur extrême  
-D'engager à ce Dieu son amour et sa foi !  
+D'engager à ce Dieu son amour et sa foi !  
 
 
 # ACTE II
 
 
-## SCÈNE PREMIÈRE
-Josabet, Salomith, Le Chœur.
+## SCÈNE PREMIÈRE. Josabet, Salomith, Le Choeur.
 
-
-    JOSABET
+    JOSABET.
 Mes filles, c'est assez, suspendez vos cantiques.  
 Il est temps de nous joindre aux prières publiques.  
 Voici notre heure. Allons célébrer ce grand jour,  
 Et devant le Seigneur paraître à notre tour.  
 
 
-## SCÈNE II
-Zacharie, Josabet, Salomith, Le Chœur.
+## SCÈNE II. Zacharie, Josabet, Salomith, Le Choeur.
 
+    JOSABET.
+Mais que vois-je ? mon fils, quel sujet vous ramène ?  
+Où courez-vous ainsi tout pâle et hors d'haleine ?  
 
-    JOSABET
-Mais que vois-je ? mon fils, quel sujet vous ramène ?  
-Où courez-vous ainsi tout pâle et hors d'haleine ?  
+    ZACHARIE.
+Ô ma mère !  
 
-    ZACHARIE
-Ô ma mère !  
+    JOSABET.
+    Hé bien, quoi ?  
 
-    JOSABET
-        Hé bien, quoi ?  
-
-    ZACHARIE
+    ZACHARIE.
         Le Temple est profané.  
 
-    JOSABET
-Comment ?  
+    JOSABET.
+Comment ?  
 
-    ZACHARIE
+    ZACHARIE.
         Et du Seigneur l'autel abandonné.  
 
-    JOSABET
+    JOSABET.
 Je tremble. Hâtez-vous d'éclaircir votre mère.  
 
-    ZACHARIE
+    ZACHARIE.
 Déjà, selon la Loi, le grand prêtre mon père,  
 Après avoir au Dieu qui nourrit les humains,  
 De la moisson nouvelle offert les premiers pains,  
 Lui présentait encore entre ses mains sanglantes  
 Des victimes de paix les entrailles fumantes.  
 Debout à ses côtés le jeune Éliacin,  
-Comme moi, le servait en long habit de lin ;  
+Comme moi, le servait en long habit de lin ;  
 Et cependant, du sang de la chair immolée,  
 Les prêtres arrosaient l'autel et l'assemblée.  
 Un bruit confus s'élève, et du peuple surpris  
 Détourne tout à coup les yeux et les esprits.  
-Une femme... Peut-on la nommer sans blasphème ?  
+Une femme... Peut-on la nommer sans blasphème ?  
 Une femme... C'était Athalie elle-même.  
 
-    JOSABET
-Ciel !  
+    JOSABET.
+Ciel !  
 
-    ZACHARIE
+    ZACHARIE.
         Dans un des parvis aux hommes réservé,  
 Cette femme superbe entre le front levé,  
 Et se préparait même à passer les limites  
 De l'enceinte sacrée ouverte aux seuls lévites.  
 Le peuple s'épouvante et fuit de toutes parts.  
-Mon père... Ah, quel courroux animait ses regards !  
+Mon père... Ah, quel courroux animait ses regards !  
 Moïse à Pharaon parut moins formidable.  
 Reine, sors, a-t-il dit, de ce lieu redoutable,  
 D'où te bannit ton sexe et ton impiété.  
-Viens-tu du Dieu vivant braver la majesté ?  
-La reine alors sur lui jetant un ?il farouche,  
+Viens-tu du Dieu vivant braver la majesté ?  
+La reine alors sur lui jetant un ?il farouche,  
 Pour blasphémer sans doute ouvrait déjà la bouche.  
 J'ignore si de Dieu l'ange se dévoilant,  
 Est venu lui montrer un glaive étincelant.  
@@ -622,50 +610,48 @@ Et toute son audace a paru terrassée.
 Ses yeux comme effrayés n'osaient se détourner.  
 Surtout, Eliacin paraissait l'étonner.  
 
-    JOSABET
-Quoi donc ? Éliacin a paru devant elle ?  
+    JOSABET.
+Quoi donc ? Éliacin a paru devant elle ?  
 
-    ZACHARIE
+    ZACHARIE.
 Nous regardions tous deux cette reine cruelle,  
-Et d'une égale horreur nos cœurs étaient frappés.  
+Et d'une égale horreur nos coeurs étaient frappés.  
 Mais les prêtres bientôt nous ont enveloppés.  
 On nous a fait sortir. J'ignore tout le reste,  
 Et venais vous conter ce désordre funeste.  
 
-    JOSABET
-Ah ! de nos bras sans doute elle vient l'arracher,  
+    JOSABET.
+Ah ! de nos bras sans doute elle vient l'arracher,  
 Et c'est lui qu'à l'autel sa fureur vient chercher.  
 Peut-être en ce moment l'objet de tant de larmes...  
 Souviens-toi de David, Dieu, qui vois mes alarmes.  
 
-    SALOMITH
-Quel est-il, cet objet des pleurs que vous versez ?  
+    SALOMITH.
+Quel est-il, cet objet des pleurs que vous versez ?  
 
-    ZACHARIE
-Les jours d'Éliacin seraient-ils menacés ?  
+    ZACHARIE.
+Les jours d'Éliacin seraient-ils menacés ?  
 
-    SALOMITH
-Aurait-il de la reine attiré la colère ?  
+    SALOMITH.
+Aurait-il de la reine attiré la colère ?  
 
-    ZACHARIE
-Que craint-on d'un enfant sans support, et sans père ?  
+    ZACHARIE.
+Que craint-on d'un enfant sans support, et sans père ?  
 
-    JOSABET
-Ah ! la voici. Sortons. Il la faut éviter.  
-
-
-## SCÈNE III
-Athalie, Agar, Abner, Suite d'Athalie.
+    JOSABET.
+Ah ! la voici. Sortons. Il la faut éviter.  
 
 
-    AGAR
-Madame, dans ces lieux, pourquoi vous arrêter ?  
+## SCÈNE III. Athalie, Agar, Abner, Suite d'Athalie.
+
+    AGAR.
+Madame, dans ces lieux, pourquoi vous arrêter ?  
 Ici tous les objets vous blessent, vous irritent,  
 Abandonnez ce temple aux prêtres qui l'habitent.  
 Fuyez tout ce tumulte, et dans votre palais  
 À vos sens agités venez rendre la paix.  
 
-    ATHALIE
+    ATHALIE.
 Non, je ne puis, tu vois mon trouble, et ma faiblesse.  
 Va, fais dire à Mathan qu'il vienne, qu'il se presse.  
 Heureuse, si je puis trouver par son secours  
@@ -674,11 +660,9 @@ Elle s'assied.
 
 
 
-## SCÈNE IV
-Athalie, Abner, etc.
+## SCÈNE IV. Athalie, Abner, etc.
 
-
-    ABNER
+    ABNER.
 Madame, pardonnez si j'ose le défendre.  
 Le zèle de Joad n'a point dû vous surprendre.  
 Du Dieu que nous servons, tel est l'ordre éternel.  
@@ -687,35 +671,33 @@ Aux seuls enfants d'Aaron commit ses sacrifices,
 Aux lévites marqua leur place et leurs offices,  
 Et surtout défendit à leur postérité,  
 Avec tout autre Dieu toute société.  
-Hé quoi ? Vous de nos rois et la femme et la mère,  
-Êtes-vous à ce point parmi nous étrangère ?  
-Ignorez-vous nos lois ? Et faut-il qu'aujourd'hui...  
+Hé quoi ? Vous de nos rois et la femme et la mère,  
+Êtes-vous à ce point parmi nous étrangère ?  
+Ignorez-vous nos lois ? Et faut-il qu'aujourd'hui...  
 Voici votre Mathan, je vous laisse avec lui.  
 
-    ATHALIE
+    ATHALIE.
 Votre présence, Abner, est ici nécessaire.  
 Laissons là de Joad l'audace téméraire,  
 Et tout ce vain amas de superstitions,  
 Qui ferment votre temple aux autres nations.  
 Un sujet plus pressant excite mes alarmes.  
 Je sais que dès l'enfance élevé dans les armes,  
-Abner a le cœur noble, et qu'il rend à la fois  
+Abner a le coeur noble, et qu'il rend à la fois  
 Ce qu'il doit à son Dieu, ce qu'il doit à ses rois.  
 Demeurez.  
 
 
-## SCÈNE V
-Mathan, Athalie, Abner, etc.
+## SCÈNE V. Mathan, Athalie, Abner, etc.
 
-
-    MATHAN
-        Grande Reine, est-ce ici votre place ?  
-Quel trouble vous agite, et quel effroi vous glace ?  
-Parmi vos ennemis que venez-vous chercher ?  
-De ce temple profane osez-vous approcher ?  
+    MATHAN.
+        Grande Reine, est-ce ici votre place ?  
+Quel trouble vous agite, et quel effroi vous glace ?  
+Parmi vos ennemis que venez-vous chercher ?  
+De ce temple profane osez-vous approcher ?  
 Avez-vous dépouillé cette haine si vive...  
 
-    ATHALIE
+    ATHALIE.
 Prêtez-moi l'un et l'autre une oreille attentive.  
 Je ne veux point ici rappeler le passé,  
 Ni vous rendre raison du sang que j'ai versé.  
@@ -728,8 +710,8 @@ A fait jusqu'aux deux mers respecter Athalie.
 Par moi Jérusalem goûte un calme profond.  
 Le Jourdain ne voit plus l'Arabe vagabond,  
 Ni l'altier Philistin, par d'éternels ravages,  
-Comme au temps de vos rois, désoler ses rivages ;  
-Le Syrien me traite et de reine et de sœur.  
+Comme au temps de vos rois, désoler ses rivages ;  
+Le Syrien me traite et de reine et de soeur.  
 Enfin de ma maison le perfide oppresseur,  
 Qui devait jusqu'à moi pousser sa barbarie,  
 Jéhu, le fier Jéhu tremble dans Samarie.  
@@ -739,8 +721,8 @@ Il me laisse en ces lieux souveraine maîtresse.
 Je jouissais en paix du fruit de ma sagesse.  
 Mais un trouble importun vient depuis quelques jours  
 De mes prospérités interrompre le cours.  
-Un songe ( me devrais-je inquiéter d'un songe ?)  
-Entretient dans mon cœur un chagrin qui le ronge.  
+Un songe ( me devrais-je inquiéter d'un songe ?)  
+Entretient dans mon coeur un chagrin qui le ronge.  
 Je l'évite partout, partout il me poursuit.  
 C'était pendant l'horreur d'une profonde nuit.  
 Ma mère Jézabel devant moi s'est montrée,  
@@ -760,10 +742,10 @@ D'os et de chair meurtris, et traînés dans la fange,
 Des lambeaux pleins de sang, et des membres affreux,  
 Que des chiens dévorants se disputaient entre eux.  
 
-    ABNER
-Grand Dieu !  
+    ABNER.
+Grand Dieu !  
 
-    ATHALIE
+    ATHALIE.
         Dans ce désordre à mes yeux se présente  
 Un jeune enfant couvert d'une robe éclatante,  
 Tels qu'on voit des Hébreux les prêtres revêtus.  
@@ -783,7 +765,7 @@ Ce même enfant toujours tout prêt à me percer.
 Lasse enfin des horreurs dont j'étais poursuivie  
 J'allais prier Baal de veiller sur ma vie,  
 Et chercher du repos au pied de ses autels.  
-Que ne peut la frayeur sur l'esprit des mortels !  
+Que ne peut la frayeur sur l'esprit des mortels !  
 Dans le temple des Juifs un instinct m'a poussée,  
 Et d'apaiser leur Dieu j'ai conçu la pensée.  
 J'ai cru que des présents calmeraient son courroux,  
@@ -791,7 +773,7 @@ Que ce Dieu, quel qu'il soit, en deviendrait plus doux.
 Pontife de Baal, excusez ma faiblesse.  
 J'entre. Le peuple fuit. Le sacrifice cesse.  
 Le grand prêtre vers moi s'avance avec fureur.  
-Pendant qu'il me parlait, ô surprise ! ô terreur !  
+Pendant qu'il me parlait, ô surprise ! ô terreur !  
 J'ai vu ce même enfant dont je suis menacée,  
 Tel qu'un songe effrayant l'a peint à ma pensée.  
 Je l'ai vu. Son même air, son même habit de lin,  
@@ -800,82 +782,82 @@ C'est lui-même. Il marchait à côté du grand prêtre.
 Mais bientôt à ma vue on l'a fait disparaître.  
 Voilà quel trouble ici m'oblige à m'arrêter,  
 Et sur quoi j'ai voulu tous deux vous consulter.  
-Que présage, Mathan, ce prodige incroyable ?  
+Que présage, Mathan, ce prodige incroyable ?  
 
-    MATHAN
+    MATHAN.
 Ce songe, et ce rapport, tout me semble effroyable.  
 
-    ATHALIE
+    ATHALIE.
 Mais cet enfant fatal, Abner, vous l'avez vu.  
-Quel est-il ? De quel sang ? Et de quelle tribu ?  
+Quel est-il ? De quel sang ? Et de quelle tribu ?  
 
-    ABNER
+    ABNER.
 Deux enfants à l'autel prêtaient leur ministère.  
 L'un est fils de Joad, Josabet est sa mère.  
 L'autre m'est inconnu.  
 
-    MATHAN
-        Pourquoi délibérer ?  
+    MATHAN.
+        Pourquoi délibérer ?  
 De tous les deux, Madame, il se faut assurer.  
 Vous savez pour Joad mes égards, mes mesures,  
 Que je ne cherche point à venger mes injures,  
 Que la seule équité règne en tous mes avis.  
 Mais lui-même après tout, fût-ce son propre fils,  
-Voudrait-il un moment laisser vivre un coupable ?  
+Voudrait-il un moment laisser vivre un coupable ?  
 
-    ABNER
-De quel crime un enfant peut-il être capable ?  
+    ABNER.
+De quel crime un enfant peut-il être capable ?  
 
-    MATHAN
+    MATHAN.
 Le ciel nous le fait voir un poignard à la main.  
 Le ciel est juste et sage et ne fait rien en vain.  
-Que cherchez-vous de plus ?  
+Que cherchez-vous de plus ?  
 
-    ABNER
+    ABNER.
         Mais sur la foi d'un songe  
-Dans le sang d'un enfant voulez-vous qu'on se plonge ?  
+Dans le sang d'un enfant voulez-vous qu'on se plonge ?  
 Vous ne savez encor de quel père il est né,  
 Quel il est.  
 
-    MATHAN
+    MATHAN.
         On le craint, tout est examiné.  
 À d'illustres parents s'il doit son origine,  
 La splendeur de son sort doit hâter sa ruine.  
 Dans le vulgaire obscur si le sort l'a placé,  
-Qu'importe qu'au hasard un sang vil soit versé ?  
-Est-ce aux rois à garder cette lente justice ?  
+Qu'importe qu'au hasard un sang vil soit versé ?  
+Est-ce aux rois à garder cette lente justice ?  
 Leur sûreté souvent dépend d'un prompt supplice.  
 N'allons point les gêner d'un soin embarrassant.  
 Dès qu'on leur est suspect on n'est plus innocent.  
 
-    ABNER
-Hé quoi, Mathan ? D'un prêtre est-ce là le langage ?  
+    ABNER.
+Hé quoi, Mathan ? D'un prêtre est-ce là le langage ?  
 Moi, nourri dans la guerre aux horreurs du carnage,  
 Des vengeances des rois ministre rigoureux,  
 C'est moi qui prête ici ma voix au malheureux.  
 Et vous, qui lui devez des entrailles de père,  
 Vous, ministre de paix dans les temps de colère,  
 Couvrant d'un zèle faux votre ressentiment,  
-Le sang à votre gré coule trop lentement ?  
+Le sang à votre gré coule trop lentement ?  
 Vous m'avez commandé de vous parler sans feinte,  
-Madame. Quel est donc ce grand sujet de crainte ?  
-Un songe, un faible enfant, que votre ?il prévenu  
+Madame. Quel est donc ce grand sujet de crainte ?  
+Un songe, un faible enfant, que votre ?il prévenu  
 Peut-être sans raison croit avoir reconnu.  
 
-    ATHALIE
-Je le veux croire, Abner ; je puis m'être trompée.  
+    ATHALIE.
+Je le veux croire, Abner ; je puis m'être trompée.  
 Peut-être un songe vain m'a trop préoccupée.  
-Hé bien ! Il faut revoir cet enfant de plus près.  
+Hé bien ! Il faut revoir cet enfant de plus près.  
 Il en faut à loisir examiner les traits.  
 Qu'on les fasse tous deux paraître en ma présence.  
 
-    ABNER
+    ABNER.
 Je crains...  
 
-    ATHALIE
-        Manquerait-on pour moi de complaisance ?  
-De ce refus bizarre où seraient les raisons ?  
-Il pourrait me jeter en d'étranges soupçons !  
+    ATHALIE.
+        Manquerait-on pour moi de complaisance ?  
+De ce refus bizarre où seraient les raisons ?  
+Il pourrait me jeter en d'étranges soupçons !  
 Que Josabet, vous dis-je, ou Joad les amène.  
 Je puis, quand je voudrai, parler en souveraine.  
 Vos prêtres, je veux bien, Abner, vous l'avouer,  
@@ -889,11 +871,9 @@ Et ne m'irrite point par un second outrage.
 Allez.  
 
 
-## SCÈNE VI
-Athalie, Mathan, etc.
+## SCÈNE VI. Athalie, Mathan, etc.
 
-
-    MATHAN
+    MATHAN.
         Enfin je puis parler en liberté.  
 Je puis dans tout son jour mettre la vérité.  
 Quelque monstre naissant dans ce temple s'élève,  
@@ -904,7 +884,7 @@ Et qui sait si Joad ne veut point en leur place
 Substituer l'enfant dont le ciel vous menace,  
 Soit son fils, soit quelque autre...  
 
-    ATHALIE
+    ATHALIE.
         Oui, vous m'ouvrez les yeux.  
 Je commence à voir clair dans cet avis des cieux.  
 Mais je veux de mon doute être débarrassée.  
@@ -915,9 +895,7 @@ Vous cependant allez, et sans jeter d'alarmes,
 À tous mes Tyriens faites prendre les armes.  
 
 
-## SCÈNE VII
-Joas, Josabet, Athalie, Zacharie, Abner, Salomith, deux Lévites, Le Chœur, etc.
-
+## SCÈNE VII. Joas, Josabet, Athalie, Zacharie, Abner, Salomith, deux Lévites, Le Choeur, etc.
 
     JOSABET, AUX DEUX LÉVITES.
 Ô vous, sur ces enfants si chers, si précieux,  
@@ -926,37 +904,37 @@ Ministres du Seigneur, ayez toujours les yeux.
     ABNER, À JOSABET.
 Princesse, assurez-vous, je les prends sous ma garde.  
 
-    ATHALIE
-Ô ciel ! plus j'examine et plus je le regarde,  
+    ATHALIE.
+Ô ciel ! plus j'examine et plus je le regarde,  
 C'est lui. D'horreur encor tous mes sens sont saisis.  
-Epouse de Joad, est-ce là votre fils ?  
+Epouse de Joad, est-ce là votre fils ?  
 
-    JOSABET
-Qui ? Lui, Madame ?  
+    JOSABET.
+Qui ? Lui, Madame ?  
 
-    ATHALIE
-        Lui.  
+    ATHALIE.
+    Lui.  
 
-    JOSABET
+    JOSABET.
         Je ne suis point sa mère.  
 Voilà mon fils.  
 
-    ATHALIE
-        Et vous, quel est donc votre père ?  
+    ATHALIE.
+        Et vous, quel est donc votre père ?  
 Jeune enfant, répondez.  
 
-    JOSABET
+    JOSABET.
         Le ciel jusqu'aujourd'hui...  
 
-    ATHALIE
-Pourquoi vous pressez-vous de répondre pour lui ?  
+    ATHALIE.
+Pourquoi vous pressez-vous de répondre pour lui ?  
 C'est à lui de parler.  
 
-    JOSABET
-        Dans un âge si tendre  
-Quel éclaircissement en pouvez-vous attendre ?  
+    JOSABET.
+    Dans un âge si tendre  
+Quel éclaircissement en pouvez-vous attendre ?  
 
-    ATHALIE
+    ATHALIE.
 Cet âge est innocent. Son ingénuité  
 N'altère point encor la simple vérité.  
 Laissez-le s'expliquer sur tout ce qui le touche.  
@@ -964,158 +942,158 @@ Laissez-le s'expliquer sur tout ce qui le touche.
     JOSABET, TOUT BAS.
 Daigne mettre, grand Dieu, ta sagesse en sa bouche.  
 
-    ATHALIE
-Comment vous nommez-vous ?  
+    ATHALIE.
+Comment vous nommez-vous ?  
 
-    JOAS
+    JOAS.
         J'ai nom Éliacin.  
 
-    ATHALIE
-Votre père ?  
+    ATHALIE.
+Votre père ?  
 
-    JOAS
+    JOAS.
         Je suis, dit-on, un orphelin  
 Entre les bras de Dieu jeté dès ma naissance,  
 Et qui de mes parents n'eus jamais connaissance.  
 
-    ATHALIE
-Vous êtes sans parents ?  
+    ATHALIE.
+Vous êtes sans parents ?  
 
-    JOAS
+    JOAS.
         Ils m'ont abandonné.  
 
-    ATHALIE
-Comment ? Et depuis quand ?  
+    ATHALIE.
+Comment ? Et depuis quand ?  
 
-    JOAS
+    JOAS.
         Depuis que je suis né.  
 
-    ATHALIE
-Ne sait-on pas au moins quel pays est le vôtre ?  
+    ATHALIE.
+Ne sait-on pas au moins quel pays est le vôtre ?  
 
-    JOAS
+    JOAS.
 Ce Temple est mon pays, je n'en connais point d'autre.  
 
-    ATHALIE
-Où dit-on que le sort vous a fait rencontrer ?  
+    ATHALIE.
+Où dit-on que le sort vous a fait rencontrer ?  
 
-    JOAS
+    JOAS.
 Parmi des loups cruels prêts à me dévorer.  
 
-    ATHALIE
-Qui vous mit dans ce temple ?  
+    ATHALIE.
+Qui vous mit dans ce temple ?  
 
-    JOAS
+    JOAS.
         Une femme inconnue,  
 Qui ne dit point son nom, et qu'on n'a point revue.  
 
-    ATHALIE
-Mais de vos premiers ans quelles mains ont pris soin ?  
+    ATHALIE.
+Mais de vos premiers ans quelles mains ont pris soin ?  
 
-    JOAS
-Dieu laissa-t-il jamais ses enfants au besoin ?  
+    JOAS.
+Dieu laissa-t-il jamais ses enfants au besoin ?  
 Aux petits des oiseaux il donne leur pâture,  
 Et sa bonté s'étend sur toute la nature.  
 Tous les jours je l'invoque, et d'un soin paternel  
 Il me nourrit des dons offerts sur son autel.  
 
-    ATHALIE
-Quel prodige nouveau me trouble et m'embarrasse ?  
+    ATHALIE.
+Quel prodige nouveau me trouble et m'embarrasse ?  
 La douceur de sa voix, son enfance, sa grâce,  
 Font insensiblement à mon inimitié  
-Succéder... Je serais sensible à la pitié ?  
+Succéder... Je serais sensible à la pitié ?  
 
-    ABNER
+    ABNER.
 Madame, voilà donc cet ennemi terrible.  
 De vos songes menteurs l'imposture est visible,  
 À moins que la pitié, qui semble vous troubler,  
 Ne soit ce coup fatal qui vous faisait trembler.  
 
     ATHALIE À JOAS ET À JOSABET.
-Vous sortez ?  
+Vous sortez ?  
 
-    JOSABET
+    JOSABET.
         Vous avez entendu sa fortune.  
 Sa présence à la fin pourrait être importune.  
 
-    ATHALIE
-Non. Revenez. Quel est tous les jours votre emploi ?  
+    ATHALIE.
+Non. Revenez. Quel est tous les jours votre emploi ?  
 
-    JOAS
+    JOAS.
 J'adore le Seigneur. On m'explique sa Loi.  
 Dans son Livre divin on m'apprend à la lire,  
 Et déjà de ma main je commence à l'écrire.  
 
-    ATHALIE
-Que vous dit cette loi ?  
+    ATHALIE.
+Que vous dit cette loi ?  
 
-    JOAS
+    JOAS.
         Que Dieu veut être aimé,  
 Qu'il venge tôt ou tard son saint Nom blasphémé,  
 Qu'il est le défenseur de l'orphelin timide,  
 Qu'il résiste au superbe, et punit l'homicide.  
 
-    ATHALIE
+    ATHALIE.
 J'entends. Mais tout ce peuple enfermé en ce lieu,  
-À quoi s'occupe-t-il ?  
+À quoi s'occupe-t-il ?  
 
-    JOAS
+    JOAS.
         Il loue, il bénit Dieu.  
 
-    ATHALIE
-Dieu veut-il qu'à toute heure on prie, on le contemple ?  
+    ATHALIE.
+Dieu veut-il qu'à toute heure on prie, on le contemple ?  
 
-    JOAS
+    JOAS.
 Tout profane exercice est banni de son Temple.  
 
-    ATHALIE
-Quels sont donc vos plaisirs ?  
+    ATHALIE.
+Quels sont donc vos plaisirs ?  
 
-    JOAS
+    JOAS.
         Quelquefois à l'autel  
 Je présente au grand prêtre ou l'encens, ou le sel.  
 J'entends chanter de Dieu les grandeurs infinies.  
 Je vois l'ordre pompeux de ses cérémonies.  
 
-    ATHALIE
-Hé quoi ? Vous n'avez point de passe-temps plus doux ?  
+    ATHALIE.
+Hé quoi ? Vous n'avez point de passe-temps plus doux ?  
 Je plains le triste sort d'un enfant tel que vous.  
 Venez dans mon palais, vous y verrez ma gloire.  
 
-    JOAS
-Moi des bienfaits de Dieu je perdrais la mémoire ?  
+    JOAS.
+Moi des bienfaits de Dieu je perdrais la mémoire ?  
 
-    ATHALIE
+    ATHALIE.
 Non, je ne vous veux pas contraindre à l'oublier.  
 
-    JOAS
+    JOAS.
 Vous ne le priez point.  
 
-    ATHALIE
+    ATHALIE.
         Vous pourrez le prier.  
 
-    JOAS
-Je verrais cependant en invoquer un autre ?  
+    JOAS.
+Je verrais cependant en invoquer un autre ?  
 
-    ATHALIE
+    ATHALIE.
 J'ai mon Dieu que je sers. Vous servirez le vôtre.  
 Ce sont deux puissants dieux.  
 
-    JOAS
+    JOAS.
         Il faut craindre le mien,  
 Lui seul est Dieu, Madame, et le vôtre n'est rien.  
 
-    ATHALIE
+    ATHALIE.
 Les plaisirs près de moi vous chercheront en foule.  
 
-    JOAS
+    JOAS.
 Le bonheur des méchants comme un torrent s'écoule.  
 
-    ATHALIE
-Ces méchants, qui sont-ils ?  
+    ATHALIE.
+Ces méchants, qui sont-ils ?  
 
-    JOSABET
-        Hé, Madame ! excusez  
+    JOSABET.
+        Hé, Madame ! excusez  
 Un enfant...  
 
     ATHALIE, À JOSABET.
@@ -1129,21 +1107,21 @@ Essayez dès ce jour l'effet de mes promesses.
 À ma table, partout, à mes côtés assis,  
 Je prétends vous traiter comme mon propre fils.  
 
-    JOAS
-Comme votre fils ?  
+    JOAS.
+Comme votre fils ?  
 
-    ATHALIE
-        Oui. Vous vous taisez ?  
+    ATHALIE.
+    Oui. Vous vous taisez ?  
 
-    JOAS
+    JOAS.
         Quel père  
-Je quitterais ! Et pour...  
+Je quitterais ! Et pour...  
 
-    ATHALIE
-        Hé bien ?  
+    ATHALIE.
+    Hé bien ?  
 
-    JOAS
-        Pour quelle mère ?  
+    JOAS.
+        Pour quelle mère ?  
 
     ATHALIE, À JOSABET.
 Sa mémoire est fidèle, et dans tout ce qu'il dit  
@@ -1153,40 +1131,40 @@ Vous employez tous deux le calme où je vous laisse.
 Vous cultivez déjà leur haine et leur fureur.  
 Vous ne leur prononcez mon nom qu'avec horreur.  
 
-    JOSABET
-Peut-on de nos malheurs leur dérober l'histoire ?  
+    JOSABET.
+Peut-on de nos malheurs leur dérober l'histoire ?  
 Tous l'univers les sait. Vous-même en faites gloire.  
 
-    ATHALIE
+    ATHALIE.
 Oui, ma juste fureur, et j'en fais vanité,  
 A vengé mes parents sur ma postérité.  
 J'aurais vu massacrer et mon père, et mon frère,  
 Du haut de son palais précipiter ma mère,  
 Et dans un même jour égorger à la fois,  
-Quel spectacle d'horreur ! quatre-vingt fils de rois ?  
-Et pourquoi ? Pour venger je ne sais quels prophètes,  
+Quel spectacle d'horreur ! quatre-vingt fils de rois ?  
+Et pourquoi ? Pour venger je ne sais quels prophètes,  
 Dont elle avait puni les fureurs indiscrètes.  
-Et moi, reine sans cœur, fille sans amitié,  
+Et moi, reine sans coeur, fille sans amitié,  
 Esclave d'une lâche et frivole pitié,  
 Je n'aurais pas du moins à cette aveugle rage  
 Rendu meurtre pour meurtre, outrage pour outrage,  
 Et de votre David traité tous les neveux,  
-Comme on traitait d'Achab les restes malheureux ?  
+Comme on traitait d'Achab les restes malheureux ?  
 Où serais-je aujourd'hui, si domptant ma faiblesse  
 Je n'eusse d'une mère étouffé la tendresse,  
 Si de mon propre sang ma main versant des flots  
-N'eût par ce coup hardi réprimé vos complots ?  
+N'eût par ce coup hardi réprimé vos complots ?  
 Enfin de votre Dieu l'implacable vengeance  
 Entre nos deux maisons rompit toute alliance.  
 David m'est en horreur, et les fils de ce roi  
 Quoique nés de mon sang, sont étrangers pour moi.  
 
-    JOSABET
-Tout vous a réussi ? Que Dieu voie, et nous juge.  
+    JOSABET.
+Tout vous a réussi ? Que Dieu voie, et nous juge.  
 
-    ATHALIE
+    ATHALIE.
 Ce Dieu depuis longtemps votre unique refuge,  
-Que deviendra l'effet de ses prédictions ?  
+Que deviendra l'effet de ses prédictions ?  
 Qu'il vous donne ce roi promis aux nations,  
 Cet enfant de David, votre espoir, votre attente...  
 Mais nous nous reverrons. Adieu, je sors contente,  
@@ -1197,15 +1175,13 @@ J'ai voulu voir, j'ai vu.
 Je vous rends le dépôt que vous m'avez commis.  
 
 
-## SCÈNE VIII
-Joad, Josabet, Joas, Zacharie, Abner, Salomith, Lévites, Le Chœur.
-
+## SCÈNE VIII. Joad, Josabet, Joas, Zacharie, Abner, Salomith, Lévites, Le Choeur.
 
     JOSABET, À JOAD.
 Avez-vous entendu cette superbe reine,  
-Seigneur ?  
+Seigneur ?  
 
-    JOAD
+    JOAD.
         J'entendais tout, et plaignais votre peine.  
 Ces lévites et moi prêts à vous secourir  
 Nous étions avec vous résolus de périr.  
@@ -1221,18 +1197,16 @@ Rentrons, et qu'un sang pur par mes mains épanché
 Lave jusques au marbre où ses pas ont touché.  
 
 
-## SCÈNE IX
-Le Chœur.
+## SCÈNE IX. Le Choeur.
 
-
-    UNE DES FILLES DU CHOEUR
-Quel astre à nos yeux vient de luire ?  
-Quel sera quelque jour cet enfant merveilleux ?  
+    UNE DES FILLES DU CHOEUR.
+Quel astre à nos yeux vient de luire ?  
+Quel sera quelque jour cet enfant merveilleux ?  
 Il brave le faste orgueilleux,  
 Et ne se laisse point séduire  
 À tous ses attraits périlleux.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Pendant que du dieu d'Athalie  
 Chacun court encenser l'autel,  
 Un enfant courageux publie  
@@ -1240,29 +1214,29 @@ Que Dieu lui seul est éternel,
 Et parle comme un autre Élie  
 Devant cette autre Jézabel.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Qui nous révélera ta naissance secrète,  
-Cher enfant ? Es-tu fils de quelque saint prophète ?  
+Cher enfant ? Es-tu fils de quelque saint prophète ?  
 
-    UNE AUTRE
+    UNE AUTRE.
 Ainsi l'on vit l'aimable Samuel  
 Croître à l'ombre du tabernacle.  
 Il devint des Hébreux l'espérance et l'oracle.  
-Puisses-tu, comme lui, consoler Israël !  
+Puisses-tu, comme lui, consoler Israël !  
 
     UNE AUTRE, CHANTE.
 Ô bienheureux mille fois  
 L'enfant que le Seigneur aime,  
 Qui de bonne heure entend sa voix,  
-Et que ce Dieu daigne instruire lui-même !  
+Et que ce Dieu daigne instruire lui-même !  
 Loin du monde élevé, de tous les dons des cieux  
-Il est orné dès sa naissance ;  
+Il est orné dès sa naissance ;  
 Et du méchant l'abord contagieux  
 N'altère point son innocence.  
 
-    TOUT LE CHOEUR
+    TOUT LE CHOEUR.
 Heureuse, heureuse l'enfance  
-Que le Seigneur instruit et prend sous sa défense !  
+Que le Seigneur instruit et prend sous sa défense !  
 
     LA MEME VOIX, SEULE.
 Tel en un secret vallon  
@@ -1270,68 +1244,68 @@ Sur le bord d'une onde pure
 Croît à l'abri de l'aquilon  
 Un jeune lis, l'amour de la nature.  
 Loin du monde élevé, de tous les dons des cieux  
-Il est orné dès sa naissance ;  
+Il est orné dès sa naissance ;  
 Et du méchant l'abord contagieux  
 N'altère point son innocence.  
 
-    TOUT LE CHOEUR
+    TOUT LE CHOEUR.
 Heureux, heureux mille fois  
-L'enfant que le Seigneur rend docile à ses lois !  
+L'enfant que le Seigneur rend docile à ses lois !  
 
     UNE VOIX, SEULE.
 Mon Dieu, qu'une vertu naissante  
-Parmi tant de périls marche à pas incertains !  
+Parmi tant de périls marche à pas incertains !  
 Qu'une âme qui te cherche, et veut être innocente,  
-Trouve d'obstacle à ses desseins !  
-Que d'ennemis lui font la guerre !  
-Où se peuvent cacher tes saints ?  
-Les pécheurs couvrent la terre.   [8]
+Trouve d'obstacle à ses desseins !  
+Que d'ennemis lui font la guerre !  
+Où se peuvent cacher tes saints ?  
+Les pécheurs couvrent la terre.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Ô palais de David, et sa chère cité,  
 Mont fameux, que Dieu même a longtemps habité,  
-Comment as-tu du ciel attiré la colère ?  
+Comment as-tu du ciel attiré la colère ?  
 Sion, chère Sion, que dis-tu quand tu vois  
 Une impie étrangère  
-Assise, hélas ! au trône de tes rois ?  
+Assise, hélas ! au trône de tes rois ?  
 
-    TOUT LE CHOEUR
+    TOUT LE CHOEUR.
 Sion, chère Sion, que dis-tu quand tu vois  
 Une impie étangère  
-Assise, hélas ! au trône de tes rois ?  
+Assise, hélas ! au trône de tes rois ?  
 
     LA MÊME VOIX, CONTINUE.
 Au lieu des cantiques charmants,  
 Où David t'exprimait ses saints ravissements,  
-Et bénissait son Dieu, son Seigneur, et son père ;  
+Et bénissait son Dieu, son Seigneur, et son père ;  
 Sion, chère Sion, que dis-tu quand tu vois  
 Louer le dieu de l'impie étrangère  
-Et blasphémer le nom qu'ont adoré tes rois ?   [9]
+Et blasphémer le nom qu'ont adoré tes rois ?  
 
     UNE VOIX, SEULE.
 Combien de temps, Seigneur, combien de temps encore  
-Verrons-nous contre toi les méchants s'élever ?  
+Verrons-nous contre toi les méchants s'élever ?  
 Jusque dans ton saint Temple ils viennent te braver.  
 Ils traitent d'insensé le peuple qui t'adore.  
 Combien de temps, Seigneur, combien de temps encore  
-Verrons-nous contre toi les méchants s'élever ?  
+Verrons-nous contre toi les méchants s'élever ?  
 
-    UNE AUTRE
-Que vous sert, disent-ils, cette vertu sauvage ?  
+    UNE AUTRE.
+Que vous sert, disent-ils, cette vertu sauvage ?  
 De tant de plaisirs si doux  
-Pourquoi fuyez-vous l'usage ?  
+Pourquoi fuyez-vous l'usage ?  
 Votre Dieu ne fait rien pour vous.  
 
-    UNE AUTRE
+    UNE AUTRE.
 Rions, chantons, dit cette troupe impie,  
 De fleurs en fleurs, de plaisirs en plaisirs  
 Promenons nos désirs.  
 Sur l'avenir, insensé qui se fie.  
 De nos ans passagers le nombre est incertain.  
 Hâtons-nous aujourd'hui de jouir de la vie,  
-Qui sait si nous serons demain !  
+Qui sait si nous serons demain !  
 
-    TOUT LE CHOEUR
+    TOUT LE CHOEUR.
 Qu'ils pleurent, ô mon Dieu, qu'ils frémissent de crainte  
 Ces malheureux, qui de ta cité sainte  
 Ne verront point l'éternelle splendeur.  
@@ -1341,79 +1315,73 @@ C'est à nous de chanter tes dons et ta grandeur.
 
     UNE VOIX, SEULE.
 De tous ces vains plaisirs où leur âme se plonge,  
-Que leur restera-t-il ? Ce qui reste d'un songe  
+Que leur restera-t-il ? Ce qui reste d'un songe  
 Dont on a reconnu l'erreur.  
-À leur réveil, ô réveil plein d'horreur !  
+À leur réveil, ô réveil plein d'horreur !  
 Pendant que le pauvre à ta table  
-Goûtera de ta paix la douceur ineffable ;  
+Goûtera de ta paix la douceur ineffable ;  
 Ils boiront dans la coupe affreuse, inépuisable,  
 Que tu présenteras au jour de ta fureur  
 À toute la race coupable.  
 
-    TOUT LE CHOEUR
-Ô réveil plein d'horreur !  
-Ô songe peu durable !  
-Ô dangereuse erreur !  
+    TOUT LE CHOEUR.
+Ô réveil plein d'horreur !  
+Ô songe peu durable !  
+Ô dangereuse erreur !  
 
 
 # ACTE III
 
 
-## SCÈNE PREMIÈRE
-Mathan, Nabal, Le Chœur.
+## SCÈNE PREMIÈRE. Mathan, Nabal, Le Choeur.
 
-
-    MATHAN
+    MATHAN.
 Jeunes filles, allez. Qu'on dise à Josabet  
 Que Mathan veut ici lui parler en secret.  
 
-    UNE DES FILLES DU CHOEUR
-Mathan ! Ô Dieu du ciel, puisses-tu le confondre.  
+    UNE DES FILLES DU CHOEUR.
+Mathan ! Ô Dieu du ciel, puisses-tu le confondre.  
 
-    NABAL
-Hé quoi ? Tout se disperse et fuit sans vous répondre ?  
+    NABAL.
+Hé quoi ? Tout se disperse et fuit sans vous répondre ?  
 
-    MATHAN
+    MATHAN.
 Approchons.  
 
 
-## SCÈNE II
-Zacharie, Mathan, Nabal.
+## SCÈNE II. Zacharie, Mathan, Nabal.
 
-
-    ZACHARIE
-        Téméraire, où voulez-vous passer ?  
+    ZACHARIE.
+        Téméraire, où voulez-vous passer ?  
 Au delà de ce lieu gardez-vous d'avancer.  
 C'est des ministres saints la demeure sacrée.  
 Les lois à tout profane en défendent l'entrée.  
-Qui cherchez-vous ? Mon père en ce jour solennel  
+Qui cherchez-vous ? Mon père en ce jour solennel  
 De l'idolâtre impur fuit l'aspect criminel.  
 Et devant le Seigneur maintenant prosternée  
 Ma mère en ce devoir craint d'être détournée.  
 
-    MATHAN
+    MATHAN.
 Mon fils, nous attendrons, cessez de vous troubler.  
 C'est votre illustre mère à qui je veux parler.  
 Je viens ici chargé d'un ordre de la reine.  
 
 
-## SCÈNE III
-Mathan, Nabal.
+## SCÈNE III. Mathan, Nabal.
 
-
-    NABAL
+    NABAL.
 Leurs enfants ont déjà leur audace hautaine.  
-Mais que veut Athalie en cette occasion ?  
-D'où naît dans ses conseils cette confusion ?  
+Mais que veut Athalie en cette occasion ?  
+D'où naît dans ses conseils cette confusion ?  
 Par l'insolent Joad ce matin offensée,  
 Et d'un enfant fatal en songe menacée,  
 Elle allait immoler Joad à son courroux,  
 Et dans ce temple enfin placer Baal et vous.  
 Vous m'en aviez déjà confié votre joie,  
 Et j'espérais ma part d'une si riche proie.  
-Qui fait changer ainsi ses vœux irrésolus ?  
+Qui fait changer ainsi ses voeux irrésolus ?  
 
-    MATHAN
+    MATHAN.
 Ami, depuis deux jours je ne la connais plus.  
 Ce n'est plus cette reine éclairée, intrépide,  
 Élevée au-dessus de son sexe timide,  
@@ -1422,7 +1390,7 @@ Et d'un instant perdu connaissait tout le prix.
 La peur d'un vain remords trouble cette grande âme,  
 Elle flotte, elle hésite, en un mot elle est femme.  
 J'avais tantôt rempli d'amertume et de fiel  
-Son cœur déjà saisi des menaces du ciel.  
+Son coeur déjà saisi des menaces du ciel.  
 Elle-même à mes soins confiant sa vengeance  
 M'avait dit d'assembler sa garde en diligence.  
 Mais soit que cet enfant devant elle amené,  
@@ -1439,20 +1407,20 @@ Le fait attendre aux Juifs comme un autre Moïse,
 Et d'oracles menteurs s'appuie et s'autorise.  
 Ces mots ont fait monter la rougeur sur son front.  
 Jamais mensonge heureux n'eut un effet si prompt.  
-"Est-ce à moi de languir dans cette incertitude ?  
+"Est-ce à moi de languir dans cette incertitude ?  
 Sortons, a-t-elle dit, sortons d'inquiétude.  
 Vous-même à Josabet prononcez cet arrêt.  
 Les feux vont s'allumer, et le fer est tout prêt.  
 Rien ne peut de leur temple empêcher le ravage,  
 Si je n'ai de leur foi cet enfant pour otage."  
 
-    NABAL
-Hé bien ! Pour un enfant qu'ils ne connaissent pas,  
+    NABAL.
+Hé bien ! Pour un enfant qu'ils ne connaissent pas,  
 Que le hasard peut-être a jeté dans leurs bras,  
 Voudront-ils que leur temple enseveli sous l'herbe...  
 
-    MATHAN
-Ah ! de tous les mortels connais le plus superbe.  
+    MATHAN.
+Ah ! de tous les mortels connais le plus superbe.  
 Plutôt que dans mes mains par Joad soit livré  
 Un enfant qu'à son Dieu Joad a consacré,  
 Tu lui verras subir la mort la plus terrible.  
@@ -1464,17 +1432,17 @@ Ils le refuseront. Je prends sur moi le reste.
 Et j'espère qu'enfin de ce temple odieux  
 Et la flamme et le fer vont délivrer mes yeux.  
 
-    NABAL
-Qui peut vous inspirer une haine si forte ?  
-Est-ce que de Baal le zèle vous transporte ?  
+    NABAL.
+Qui peut vous inspirer une haine si forte ?  
+Est-ce que de Baal le zèle vous transporte ?  
 Pour moi, vous le savez, descendu d'Ismaël  
 Je ne sers ni Baal, ni le Dieu d'Israël.  
 
-    MATHAN
+    MATHAN.
 Ami, peux-tu penser que d'un zèle frivole  
 Je me laisse aveugler pour une vaine idole,  
 Pour un fragile bois, que malgré mon secours  
-Les vers sur son autel consument tous les jours ?  
+Les vers sur son autel consument tous les jours ?  
 Né ministre du Dieu qu'en ce temple on adore,  
 Peut-être que Mathan le servirait encore,  
 Si l'amour des grandeurs, la soif de commander  
@@ -1482,12 +1450,12 @@ Avec son joug étroit pouvaient s'accommoder.
 Qu'est-il besoin, Nabal, qu'à tes yeux je rappelle  
 De Joad et de moi la fameuse querelle,  
 Quand j'osai contre lui disputer l'encensoir,  
-Mes brigues, mes combats, mes pleurs, mon désespoir ?  
+Mes brigues, mes combats, mes pleurs, mon désespoir ?  
 Vaincu par lui, j'entrai dans une autre carrière,  
 Et mon âme à la cour s'attacha toute entière.  
 J'approchai par degrés de l'oreille des rois,  
 Et bientôt en oracle on érigea ma voix.  
-J'étudiai leur cœur, je flattai leurs caprices,  
+J'étudiai leur coeur, je flattai leurs caprices,  
 Je leur semai de fleurs le bord des précipices.  
 Près de leurs passions rien ne me fut sacré.  
 De mesure et de poids je changeais à leur gré.  
@@ -1511,18 +1479,16 @@ Toutefois, je l'avoue, en ce comble de gloire
 Du Dieu que j'ai quitté l'importune mémoire  
 Jette encore en mon âme un reste de terreur.  
 Et c'est ce qui redouble et nourrit ma fureur.  
-Heureux ! si sur son temple achevant ma vengeance,  
+Heureux ! si sur son temple achevant ma vengeance,  
 Je puis convaincre enfin sa haine d'impuissance,  
 Et parmi le débris, le ravage, et les morts,  
 À force d'attentats perdre tous mes remords.  
 Mais voici Josabet.  
 
 
-## SCÈNE IV
-Josabet, Mathan, Nabal.
+## SCÈNE IV. Josabet, Mathan, Nabal.
 
-
-    MATHAN
+    MATHAN.
         Envoyé par la reine  
 Pour rétablir le calme et dissiper la haine,  
 Princesse, en qui le ciel mit un esprit si doux,  
@@ -1540,99 +1506,97 @@ De votre obéissance elle ne veut qu'un gage.
 C'est, pour l'en détourner j'ai fait ce que j'ai pu,  
 Cet enfant sans parents, qu'elle dit qu'elle a vu.  
 
-    JOSABET
-Éliacin !  
+    JOSABET.
+Éliacin !  
 
-    MATHAN
+    MATHAN.
         J'en ai pour elle quelque honte.  
-D'un vain songe peut-être elle fait trop de compte ;  
+D'un vain songe peut-être elle fait trop de compte ;  
 Mais vous vous déclarez ses mortels ennemis,  
 Si cet enfant sur l'heure en mes mains n'est remis.  
 La reine impatiente attend votre réponse.  
 
-    JOSABET
-Et voilà de sa part la paix qu'on nous annonce !  
+    JOSABET.
+Et voilà de sa part la paix qu'on nous annonce !  
 
-    MATHAN
-Pourriez-vous un moment douter de l'accepter ?  
-D'un peu de complaisance, est-ce trop l'acheter ?  
+    MATHAN.
+Pourriez-vous un moment douter de l'accepter ?  
+D'un peu de complaisance, est-ce trop l'acheter ?  
 
-    JOSABET
+    JOSABET.
 J'admirais si Mathan dépouillant l'artifice,  
-Avait pu de son cœur surmonter l'injustice,  
+Avait pu de son coeur surmonter l'injustice,  
 Et si de tant de maux le funeste inventeur,  
 De quelque ombre de bien pouvait être l'auteur.  
 
-    MATHAN
-De quoi vous plaignez-vous ? Vient-on avec furie  
-Arracher de vos bras votre fils Zacharie ?  
-Quel est cet autre enfant si cher à votre amour ?  
+    MATHAN.
+De quoi vous plaignez-vous ? Vient-on avec furie  
+Arracher de vos bras votre fils Zacharie ?  
+Quel est cet autre enfant si cher à votre amour ?  
 Ce grand attachement me surprend à mon tour.  
-Est-ce un trésor pour vous si précieux, si rare ?  
-Est-ce un libérateur que le ciel vous prépare ?  
+Est-ce un trésor pour vous si précieux, si rare ?  
+Est-ce un libérateur que le ciel vous prépare ?  
 Songez-y. Vos refus pourraient me confirmer  
 Un bruit sourd, que déjà l'on commence à semer.  
 
-    JOSABET
-Quel bruit ?  
+    JOSABET.
+Quel bruit ?  
 
-    MATHAN
+    MATHAN.
         Que cet enfant vient d'illustre origine,  
 Qu'à quelque grand projet votre époux le destine.  
 
-    JOSABET
+    JOSABET.
 Et Mathan par ce bruit qui flatte sa fureur...  
 
-    MATHAN
+    MATHAN.
 Princesse, c'est à vous à me tirer d'erreur.  
 Je sais que du mensonge implacable ennemie,  
 Josabet livrerait même sa propre vie,  
 S'il fallait que sa vie à sa sincérité  
 Coûtât le moindre mot contre la vérité.  
-Du sort de cet enfant on n'a donc nulle trace ?  
-Une profonde nuit enveloppe sa race ?  
+Du sort de cet enfant on n'a donc nulle trace ?  
+Une profonde nuit enveloppe sa race ?  
 Et vous-même ignorez de quels parents issu,  
-De quelles mains Joad en ses bras l'a reçu ?  
+De quelles mains Joad en ses bras l'a reçu ?  
 Parlez, je vous écoute, et suis prêt de vous croire.  
 Au Dieu que vous servez, Princesse, rendez gloire.  
 
-    JOSABET
+    JOSABET.
 Méchant, c'est bien à vous d'oser ainsi nommer  
 Un Dieu que votre bouche enseigne à blasphémer.  
 Sa vérité par vous peut-elle être attestée,  
 Vous, malheureux, assis dans la chaire empestée  
 Où le mensonge règne et répand son poison,  
-Vous, nourri dans la fourbe et dans la trahison ?  
+Vous, nourri dans la fourbe et dans la trahison ?  
 
 
-## SCÈNE V
-Joad, Josabet, Mathan, Nabal.
+## SCÈNE V. Joad, Josabet, Mathan, Nabal.
 
-
-    JOAD
-Où suis-je ? De Baal ne vois-je pas le prêtre ?  
-Quoi, fille de David, vous parlez à ce traître ?  
-Vous souffrez qu'il vous parle ? Et vous ne craignez pas  
+    JOAD.
+Où suis-je ? De Baal ne vois-je pas le prêtre ?  
+Quoi, fille de David, vous parlez à ce traître ?  
+Vous souffrez qu'il vous parle ? Et vous ne craignez pas  
 Que du fond de l'abîme entr'ouvert sous ses pas,  
 Il ne sorte à l'instant des feux qui vous embrasent,  
-Ou qu'en tombant sur lui ces murs ne vous écrasent ?  
-Que veut-il ? De quel front cet ennemi de Dieu  
-Vient-il infecter l'air qu'on respire en ce lieu ?  
+Ou qu'en tombant sur lui ces murs ne vous écrasent ?  
+Que veut-il ? De quel front cet ennemi de Dieu  
+Vient-il infecter l'air qu'on respire en ce lieu ?  
 
-    MATHAN
+    MATHAN.
 On reconnaît Joad à cette violence.  
 Toutefois il devrait montrer plus de prudence,  
 Respecter une reine, et ne pas outrager  
 Celui que de son ordre elle a daigné charger.  
 
-    JOAD
-Hé bien que nous fait-elle annoncer de sinistre ?  
-Quel sera l'ordre affreux qu'apporte un tel ministre ?  
+    JOAD.
+Hé bien que nous fait-elle annoncer de sinistre ?  
+Quel sera l'ordre affreux qu'apporte un tel ministre ?  
 
-    MATHAN
+    MATHAN.
 J'ai fait à Josabet savoir sa volonté.  
 
-    JOAD
+    JOAD.
 Sors donc de devant moi, monstre d'impiété.  
 De toutes tes horreurs, va, comble la mesure.  
 Dieu s'apprête à te joindre à la race parjure,  
@@ -1641,34 +1605,32 @@ Les chiens, à qui son bras a livré Jézabel,
 Attendant que sur toi sa fureur se déploie,  
 Déjà sont à ta porte et demandent leur proie.  
 
-    MATHAN
+    MATHAN.
 Il se trouble.
 
 Avant la fin du jour... on verra qui de nous...  
 Doit... Mais sortons, Nabal.  
 
-    NABAL
-        Où vous égarez-vous ?  
-De vos sens étonnés, quel désordre s'empare ?  
+    NABAL.
+        Où vous égarez-vous ?  
+De vos sens étonnés, quel désordre s'empare ?  
 Voilà votre chemin.  
 
 
-## SCÈNE VI
-Joad, Josabet.
+## SCÈNE VI. Joad, Josabet.
 
-
-    JOSABET
+    JOSABET.
         L'orage se déclare.  
 Athalie en fureur demande Éliacin.  
 Déjà de sa naissance et de votre dessein  
 On commence, Seigneur, à percer le mystère.  
 Peu s'en faut que Mathan ne m'ait nommé son père.  
 
-    JOAD
-Au perfide Mathan, qui l'aurait révélé ?  
-Votre trouble à Mathan n'a-t-il point trop parlé ?  
+    JOAD.
+Au perfide Mathan, qui l'aurait révélé ?  
+Votre trouble à Mathan n'a-t-il point trop parlé ?  
 
-    JOSABET
+    JOSABET.
 J'ai fait ce que j'ai pu pour m'en rendre maîtresse.  
 Cependant, croyez-moi, Seigneur, le péril presse.  
 Réservons cet enfant pour un temps plus heureux.  
@@ -1676,7 +1638,7 @@ Tandis que les méchants délibèrent entre eux,
 Avant qu'on l'environne, avant qu'on nous l'arrache,  
 Une seconde fois souffrez que je le cache.  
 Les portes, les chemins lui sont encore ouverts.  
-Faut-il le transporter aux plus affreux déserts ?  
+Faut-il le transporter aux plus affreux déserts ?  
 Je suis prête. Je sais une secrète issue  
 Par où, sans qu'on le voie, et sans être aperçue,  
 De Cédron avec lui traversant le torrent,  
@@ -1684,29 +1646,29 @@ J'irai dans le désert, où jadis en pleurant,
 Et cherchant comme nous son salut dans la fuite,  
 David d'un fils rebelle évita la poursuite.  
 Je craindrai moins pour lui les lions, et les ours...  
-Mais pourquoi de Jéhu refuser le secours ?  
+Mais pourquoi de Jéhu refuser le secours ?  
 Je vous ouvre peut-être un avis salutaire.  
 Faisons de ce trésor Jéhu dépositaire.  
 On peut dans ses États le conduire aujourd'hui,  
 Et le chemin est court qui mène jusqu'à lui.  
-Jéhu n'a point un cœur farouche, inexorable,  
+Jéhu n'a point un coeur farouche, inexorable,  
 De David à ses yeux le nom est favorable.  
-Hélas ! Est-il un roi si dur et si cruel,  
+Hélas ! Est-il un roi si dur et si cruel,  
 À moins qu'il n'eût pour mère une autre Jézabel,  
-Qui d'un tel suppliant ne plaignît l'infortune ?  
-Sa cause à tous les rois n'est-elle pas commune ?  
+Qui d'un tel suppliant ne plaignît l'infortune ?  
+Sa cause à tous les rois n'est-elle pas commune ?  
 
-    JOAD
-Quels timides conseils m'osez-vous suggérer ?  
-En l'appui de Jéhu pourriez-vous espérer ?  
+    JOAD.
+Quels timides conseils m'osez-vous suggérer ?  
+En l'appui de Jéhu pourriez-vous espérer ?  
 
-    JOSABET
-Dieu défend-il tout soin et toute prévoyance ?  
-Ne l'offense-t-on point par trop de confiance ?  
+    JOSABET.
+Dieu défend-il tout soin et toute prévoyance ?  
+Ne l'offense-t-on point par trop de confiance ?  
 À ses desseins sacrés employant les humains,  
-N'a-t-il pas de Jéhu lui-même armé les mains ?  
+N'a-t-il pas de Jéhu lui-même armé les mains ?  
 
-    JOAD
+    JOAD.
 Jéhu qu'avait choisi sa sagesse profonde,  
 Jéhu, sur qui je vois que votre espoir se fonde,  
 D'un oubli trop ingrat a payé ses bienfaits.  
@@ -1716,7 +1678,7 @@ Du vil dieu de l'Égypte a conservé les temples.
 Jéhu sur les hauts lieux enfin osant offrir  
 Un téméraire encens que Dieu ne peut souffrir,  
 N'a pour servir sa cause et venger ses injures,  
-Ni le cœur assez droit, ni les mains assez pures.  
+Ni le coeur assez droit, ni les mains assez pures.  
 Non, non, c'est à Dieu seul qu'il nous faut attacher.  
 Montrons Éliacin, et loin de le cacher,  
 Que du bandeau royal sa tête soit ornée.  
@@ -1724,20 +1686,18 @@ Je veux même avancer l'heure déterminée,
 Avant que de Mathan le complot soit formé.  
 
 
-## SCÈNE VII
-Joad, Joasabet, Azarias suivi du chœur et de plusieurs Lévites.
+## SCÈNE VII. Joad, Joasabet, Azarias suivi du choeur et de plusieurs Lévites.
 
+    JOAD.
+Hé bien, Azarias, le Temple est-il fermé ?  
 
-    JOAD
-Hé bien, Azarias, le Temple est-il fermé ?  
-
-    AZARIAS
+    AZARIAS.
 J'en ai fait devant moi fermer toutes les portes.  
 
-    JOAD
-N'y reste-t-il que vous, et vos saintes cohortes ?  
+    JOAD.
+N'y reste-t-il que vous, et vos saintes cohortes ?  
 
-    AZARIAS
+    AZARIAS.
 De ses parvis sacrés j'ai deux fois fait le tour.  
 Tout a fui. Tous se sont séparés sans retour,  
 Misérable troupeau, qu'a dispersé la crainte,  
@@ -1745,28 +1705,28 @@ Et Dieu n'est plus servi que dans la tribu sainte.
 Depuis qu'à Pharaon ce peuple est échappé,  
 Une égale terreur ne l'avait point frappé.  
 
-    JOAD
+    JOAD.
 Peuple lâche en effet, et né pour l'esclavage,  
-Hardi contre Dieu seul ! Poursuivons notre ouvrage.  
-Mais qui retient encor ces enfants parmi nous ?  
+Hardi contre Dieu seul ! Poursuivons notre ouvrage.  
+Mais qui retient encor ces enfants parmi nous ?  
 
-    UNE DES FILLES DU CHOEUR
-Hé ! pourrions-nous, Seigneur, nous séparer de vous ?  
-Dans le Temple de Dieu sommes-nous étrangères ?  
+    UNE DES FILLES DU CHOEUR.
+Hé ! pourrions-nous, Seigneur, nous séparer de vous ?  
+Dans le Temple de Dieu sommes-nous étrangères ?  
 Vous avez près de vous nos pères, et nos frères.  
 
-    UNE AUTRE
-Hélas ! si pour venger l'opprobre d'Israël  
+    UNE AUTRE.
+Hélas ! si pour venger l'opprobre d'Israël  
 Nos mains ne peuvent pas, comme autrefois Jahel,  
 Des ennemis de Dieu percer la tête impie,  
 Nous lui pouvons du moins immoler notre vie.  
 Quand vos bras combattront pour son Temple attaqué,  
 Par nos larmes du moins il peut être invoqué.  
 
-    JOAD
+    JOAD.
 Voilà donc quels vengeurs s'arment pour ta querelle,  
-Des prêtres, des enfants, ô Sagesse éternelle !  
-Mais si tu les soutiens, qui peut les ébranler ?  
+Des prêtres, des enfants, ô Sagesse éternelle !  
+Mais si tu les soutiens, qui peut les ébranler ?  
 Du tombeau quand tu veux tu sais nous rappeler.  
 Tu frappes, et guéris. Tu perds, et ressuscites.  
 Ils ne s'assurent point en leurs propres mérites,  
@@ -1774,8 +1734,8 @@ Mais en ton nom sur eux invoqué tant de fois,
 En tes serments jurés au plus saint de leurs rois,  
 En ce Temple où tu fais ta demeure sacrée,  
 Et qui doit du soleil égaler la durée.  
-Mais d'où vient que mon cœur frémit d'un saint effroi ?  
-Est-ce l'Esprit divin qui s'empare de moi ?  
+Mais d'où vient que mon coeur frémit d'un saint effroi ?  
+Est-ce l'Esprit divin qui s'empare de moi ?  
 C'est lui-même. Il m'échauffe. Il parle. Mes yeux s'ouvrent,  
 Et les siècles obscurs devant moi se découvrent.  
 Lévites, de vos sons prêtez-moi les accords,  
@@ -1783,67 +1743,67 @@ Et de ses mouvements secondez les transports.
 
     LE CHOEURCHANTE AU SON DE TOUTE LA SYMPHONIE DES INSTRUMENTS.
 Que du Seigneur la voix se fasse entendre,  
-Et qu'à nos cœurs son oracle divin  
+Et qu'à nos coeurs son oracle divin  
 Soit ce qu'à l'herbe tendre  
 Est au printemps la fraîcheur du matin.  
 
-    JOAD
+    JOAD.
 Cieux, écoutez ma voix. Terre, prête l'oreille.  
 Ne dis plus, ô Jacob, que ton Seigneur sommeille.  
 Pécheurs disparaissez, le Seigneur se réveille.  
 Ici recommence la symphonie, et Joad aussitôt reprend la parole.
 
-Comment en un plomb vil l'or pur s'est-il changé ?  
-Quel est dans le lieu saint ce pontife égorgé ?  
-Pleure, Jérusalem, pleure, cité perfide !  
+Comment en un plomb vil l'or pur s'est-il changé ?  
+Quel est dans le lieu saint ce pontife égorgé ?  
+Pleure, Jérusalem, pleure, cité perfide !  
 Des prophètes divins malheureuse homicide.  
 De son amour pour toi ton Dieu s'est dépouillé.  
 Ton encens à ses yeux est un encens souillé.  
-Où menez-vous ces enfants, et ces femmes ?  
+Où menez-vous ces enfants, et ces femmes ?  
 Le Seigneur a détruit la reine des cités.  
 Ses prêtres sont captifs, ses rois sont rejetés.  
 Dieu ne veut plus qu'on vienne à ses solennités.  
 Temple, renverse-toi, cèdres, jetez des flammes.  
 Jérusalem, objet de ma douleur,  
-Quelle main en ce jour t'a ravi tous tes charmes ?   [10]
-Qui changera mes yeux en deux sources de larmes  
-Pour pleurer ton malheur ?  
+Quelle main en ce jour t'a ravi tous tes charmes ?  
+Qui changera mes yeux en deux sources de larmes [5]  
+Pour pleurer ton malheur ?  
 
-    AZARIAS
-Ô saint temple !  
+    AZARIAS.
+Ô saint temple !  
 
-    JOSABET
-        Ô David !  
+    JOSABET.
+    Ô David !  
 
-    LE CHOEUR
+    LE CHOEUR.
         Dieu de Sion, rappelle,  
 Rappelle en sa faveur tes antiques bontés.  
 La symphonie recommence encore, et Joad un moment après l'interrompt.
 
 
-    JOAD
+    JOAD.
 Quelle Jérusalem nouvelle  
 Sort du fond du désert brillante de clartés,  
-Et porte sur le front une marque immortelle ?  
+Et porte sur le front une marque immortelle ?  
 Peuples de la terre, chantez.  
 Jérusalem renaît plus charmante, et plus belle.  
 D'où lui viennent de tous côtés  
-Ces enfants qu'en son sein elle n'a point portés ?  
+Ces enfants qu'en son sein elle n'a point portés ?  
 Lève, Jérusalem, lève ta tête altière.  
 Regarde tous ces rois de ta gloire étonnés.  
 Les rois des nations devant toi prosternés,  
 De tes pieds baisent la poussière.  
 Les peuples à l'envi marchent à ta lumière.  
-Heureux ! qui pour Sion d'une sainte ferveur  
+Heureux ! qui pour Sion d'une sainte ferveur  
 Sentira son âme embrasée.  
 Cieux, répandez votre rosée,  
 Et que la terre enfante son Sauveur.  
 
-    JOSABET
-Hélas ! d'où nous viendra cette insigne faveur,  
+    JOSABET.
+Hélas ! d'où nous viendra cette insigne faveur,  
 Si les rois de qui doit descendre ce Sauveur...  
 
-    JOAD
+    JOAD.
 Préparez, Josabet, le riche diadème,  
 Que sur son front sacré David porta lui-même.  
 Aux lévites.
@@ -1854,119 +1814,115 @@ Ce formidable amas de lances et d'épées,
 Qui du sang philistin jadis furent trempées,  
 Et que David vainqueur, d'ans et d'honneurs chargé,  
 Fit consacrer au Dieu qui l'avait protégé.  
-Peut-on les employer pour un plus noble usage ?  
+Peut-on les employer pour un plus noble usage ?  
 Venez, je veux moi-même en faire le partage.  
 
 
-## SCÈNE VIII
-Salomith, Le Chœur.
+## SCÈNE VIII. Salomith, Le Choeur.
 
-
-    SALOMITH
-Que de craintes, mes sœurs, que de troubles mortels !  
+    SALOMITH.
+Que de craintes, mes soeurs, que de troubles mortels !  
 Dieu tout-puissant, sont-ce là les prémices,  
 Les parfums, et les sacrifices  
-Qu'on devait en ce jour offrir sur tes autels ?  
+Qu'on devait en ce jour offrir sur tes autels ?  
 
-    UNE FILLE DU CHOEUR
-Quel spectacle à nos yeux timides !  
+    UNE FILLE DU CHOEUR.
+Quel spectacle à nos yeux timides !  
 Qui l'eût crû, qu'on dût voir jamais  
 Les glaives meurtriers, les lances homicides  
-Briller dans la maison de paix ?  
+Briller dans la maison de paix ?  
 
-    UNE AUTRE
+    UNE AUTRE.
 D'où vient que pour son Dieu pleine d'indifférence,  
-Jérusalem se tait en ce pressant danger ?  
-D'où vient, mes sœurs, que pour nous protéger,  
-Le brave Abner au moins ne rompt pas le silence ?  
+Jérusalem se tait en ce pressant danger ?  
+D'où vient, mes soeurs, que pour nous protéger,  
+Le brave Abner au moins ne rompt pas le silence ?  
 
-    SALOMITH
-Hélas ! dans une cour, où l'on n'a d'autres lois  
+    SALOMITH.
+Hélas ! dans une cour, où l'on n'a d'autres lois  
 Que la force et la violence,  
 Où les honneurs et les emplois  
 Sont le prix d'une aveugle et basse obéissance,  
-Ma sœur, pour la triste innocence,  
-Qui voudrait élever sa voix ?   [11]
+Ma soeur, pour la triste innocence,  
+Qui voudrait élever sa voix ?  
 
-    UNE AUTRE
+    UNE AUTRE.
 Dans ce péril, dans ce désordre extrême,  
-Pour qui prépare-t-on le sacré diadème ?  
+Pour qui prépare-t-on le sacré diadème ?  
 
-    SALOMITH
+    SALOMITH.
 Le Seigneur a daigné parler,  
 Mais ce qu'à son prophète il vient de révéler,  
-Qui pourra nous le faire entendre ?  
-S'arme-t-il pour nous défendre ?  
-S'arme-t-il pour nous accabler ?  
+Qui pourra nous le faire entendre ?  
+S'arme-t-il pour nous défendre ?  
+S'arme-t-il pour nous accabler ?  
 
     TOUT LE CHOEUR, CHANTE.
-Ô promesse ! ô menace ! ô ténébreux mystère !  
-Que de maux, que de biens sont prédits tour à tour !  
+Ô promesse ! ô menace ! ô ténébreux mystère !  
+Que de maux, que de biens sont prédits tour à tour !  
 Comment peut-on avec tant de colère,  
-Accorder tant d'amour ?  
+Accorder tant d'amour ?  
 
     UNE VOIX, SEULE.
 Sion ne sera plus. Une flamme cruelle  
 Détruira tous ses ornements.  
 
-    UNE AUTRE VOIX
+    UNE AUTRE VOIX.
 Dieu protège Sion. Elle a pour fondements  
 Sa parole éternelle.  
 
-    LA PREMIERE
+    LA PREMIERE.
 Je vois tout son éclat disparaître à mes yeux.  
 
-    LA SECONDE
+    LA SECONDE.
 Je vois de toutes parts sa clarté répandue.  
 
-    LA PREMIERE
+    LA PREMIERE.
 Dans un gouffre profond Sion est descendue.  
 
-    LA SECONDE
+    LA SECONDE.
 Sion a son front dans les cieux.  
 
-    LA PREMIERE
-Quel triste abaissement !  
+    LA PREMIERE.
+Quel triste abaissement !  
 
-    LA SECONDE
-        Quelle immortelle gloire !  
+    LA SECONDE.
+        Quelle immortelle gloire !  
 
-    LA PREMIERE
-Que de cris de douleur !  
+    LA PREMIERE.
+Que de cris de douleur !  
 
-    LA SECONDE
-        Que de chants de victoire !  
+    LA SECONDE.
+        Que de chants de victoire !  
 
-    UNE TROISIEME
+    UNE TROISIEME.
 Cessons de nous troubler. Notre Dieu quelque jour  
 Dévoilera ce grand mystère.  
 
-    TOUTES TROIS
+    TOUTES TROIS.
 Révérons sa colère.  
 Espérons en son amour.  
 
-    UNE AUTRE
-D'un cœur qui t'aime,  
-Mon Dieu, qui peut troubler la paix ?  
+    UNE AUTRE.
+D'un coeur qui t'aime,  
+Mon Dieu, qui peut troubler la paix ?  
 Il cherche en tout ta volonté suprême,  
 Et ne se cherche jamais.  
 Sur la terre, dans le ciel même,  
 Est-il d'autre bonheur que la tranquille paix  
-D'un cœur qui t'aime ?  
+D'un coeur qui t'aime ?  
 
 
 # ACTE IV
 
 
-## SCÈNE PREMIÈRE
-Joas, Joasabet, Zacharie, Salomith, un Lévite, Le Chœur.
+## SCÈNE PREMIÈRE. Joas, Joasabet, Zacharie, Salomith, un Lévite, Le Choeur.
 
-
-    SALOMITH
+    SALOMITH.
 D'un pas majestueux à côté de ma mère,  
 Le jeune Éliacin s'avance avec mon frère.  
-Dans ces voiles, mes sœurs, que portent-ils tous deux ?  
-Quel est ce glaive enfin qui marche devant eux ?  
+Dans ces voiles, mes soeurs, que portent-ils tous deux ?  
+Quel est ce glaive enfin qui marche devant eux ?  
 
     JOSABET, À ZACHARIE.
 Mon fils, avec respect posez sur cette table  
@@ -1976,17 +1932,17 @@ Cet auguste bandeau près du Livre divin.
 Lévite, il faut placer, Joad ainsi l'ordonne,  
 Le glaive de David auprès de sa couronne.  
 
-    JOAS
-Princesse, quel est donc ce spectacle nouveau ?  
-Pourquoi ce Livre saint, ce glaive, ce bandeau ?  
+    JOAS.
+Princesse, quel est donc ce spectacle nouveau ?  
+Pourquoi ce Livre saint, ce glaive, ce bandeau ?  
 Depuis que le Seigneur m'a reçu dans son Temple,  
 D'un semblable appareil je n'ai point vu d'exemple.  
 
-    JOSABET
+    JOSABET.
 Tous vos doutes, mon fils, bientôt s'éclairciront.  
 
-    JOAS
-Vous voulez essayer ce bandeau sur mon front ?  
+    JOAS.
+Vous voulez essayer ce bandeau sur mon front ?  
 Ah, Princesse, gardez d'en profaner la gloire.  
 Du roi qui l'a porté respectez la mémoire.  
 Un malheureux enfant aux ours abandonné...  
@@ -1994,87 +1950,85 @@ Un malheureux enfant aux ours abandonné...
     JOSABET, LUI ESSAYANT LE DIADÈME.
 Laissez, mon fils, je fais ce qui m'est ordonné.  
 
-    JOAS
-Mais j'entends les sanglots sortir de votre bouche !  
-Princesse, vous pleurez ! Quelle pitié vous touche ?  
+    JOAS.
+Mais j'entends les sanglots sortir de votre bouche !  
+Princesse, vous pleurez ! Quelle pitié vous touche ?  
 Est-ce qu'en holocauste aujourd'hui présenté  
 Je dois, comme autrefois la fille de Jephté,  
-Du Seigneur par ma mort apaiser la colère ?  
-Hélas ! un fils n'a rien qui ne soit à son père.  
+Du Seigneur par ma mort apaiser la colère ?  
+Hélas ! un fils n'a rien qui ne soit à son père.  
 
-    JOSABET
+    JOSABET.
 Voici qui vous dira les volontés des cieux.  
 Ne craignez rien. Et nous, sortons tous de ces lieux.  
 
 
-## SCÈNE II
-Joad, Joas.
-
+## SCÈNE II. Joad, Joas.
 
     JOAS, COURANT DANS LES BRAS DU GRAND PRÊTRE.
-Mon père !  
+Mon père !  
 
-    JOAD
-        Hé bien, mon fils ?  
+    JOAD.
+    Hé bien, mon fils ?  
 
-    JOAS
-        Qu'est-ce donc qu'on prépare ?  
+    JOAS.
+        Qu'est-ce donc qu'on prépare ?  
 
-    JOAD
+    JOAD.
 Il est juste, mon fils, que je vous le déclare.  
 Il faut que vous soyez instruit, même avant tous,  
 Des grands desseins de Dieu sur son peuple et sur vous.  
 Armez-vous d'un courage et d'une foi nouvelle.  
 Il est temps de montrer cette ardeur et ce zèle,  
-Qu'au fond de votre cœur mes soins ont cultivés,  
+Qu'au fond de votre coeur mes soins ont cultivés,  
 Et de payer à Dieu ce que vous lui devez.  
-Sentez-vous cette noble et généreuse envie ?  
+Sentez-vous cette noble et généreuse envie ?  
 
-    JOAS
+    JOAS.
 Je me sens prêt, s'il veut, de lui donner ma vie.  
 
-    JOAD
+    JOAD.
 On vous a lu souvent l'histoire de nos rois.  
 Vous souvient-il, mon fils, quelles étroites lois  
-Doit s'imposer un roi digne du diadème ?  
+Doit s'imposer un roi digne du diadème ?  
 
-    JOAS
+    JOAS.
 Un roi sage, ainsi Dieu l'a prononcé lui-même,  
 Sur la richesse et l'or ne met point son appui,  
-Craint le Seigneur son Dieu ; sans cesse a devant lui  
+Craint le Seigneur son Dieu ; sans cesse a devant lui  
 Ses préceptes, ses lois, ses jugements sévères,  
 Et d'injustes fardeaux n'accable point ses frères.  
 
-    JOAD
+    JOAD.
 Mais sur l'un de ces rois s'il fallait vous régler,  
-À qui choisiriez-vous, mon fils, de ressembler ?  
+À qui choisiriez-vous, mon fils, de ressembler ?  
 
-    JOAS
+    JOAS.
 David, pour le Seigneur plein d'un amour fidèle,  
 Me paraît des grands rois le plus parfait modèle.  
 
-    JOAD
+    JOAD.
 Ainsi dans leurs excès vous n'imiteriez pas  
 L'infidèle Joram, l'impie Ochosias.  
 
-    JOAS
-Ô mon père !  
+    JOAS.
+Ô mon père !  
 
-    JOAD
-        Achevez, dites, que vous en semble ?  
+    JOAD.
+        Achevez, dites, que vous en semble ?  
 
-    JOAS
+    JOAS.
 Puisse périr comme eux quiconque leur ressemble.  
-Mon père, en quel état vous vois-je devant moi ?  
+Mon père, en quel état vous vois-je devant moi ?  
 
     JOAD, SE PROSTERNANT À SES PIEDS.
 Je vous rends le respect que je dois à mon roi.  
 De votre aïeul David, Joas, rendez-vous digne.  
 
-    JOAS
-Joas ? Moi ?  
+    JOAS.
+Joas ? Moi ?  
 
-    JOAD
+    JOAD.
         Vous saurez par quelle grâce insigne,  
 D'une mère en fureur Dieu trompant le dessein,  
 Quand déjà son poignard était dans votre sein,  
@@ -2090,40 +2044,38 @@ Entrez, généreux chefs des familles sacrées,
 Du ministère saint tour à tour honorées.  
 
 
-## SCÈNE III
-Joas, Joad, Azarias, Ismaël et les trois autres chefs des Lévites.
-
+## SCÈNE III. Joas, Joad, Azarias, Ismaël et les trois autres chefs des Lévites.
 
     JOAD CONTINUE.
 Roi, voilà vos vengeurs contre vos ennemis.  
 Prêtres, voilà le roi que je vous ai promis.  
 
-    AZARIAS
-Quoi c'est Éliacin ?  
+    AZARIAS.
+Quoi c'est Éliacin ?  
 
-    ISMAËL
+    ISMAËL.
         Quoi cet enfant aimable...  
 
-    JOAD
+    JOAD.
 Est du roi de Juda l'héritier véritable,  
-Dernier né des enfants du triste Ochosias ;  
+Dernier né des enfants du triste Ochosias ;  
 Nourri, vous le savez, sous le nom de Joas.  
 De cette fleur si tendre et sitôt moissonnée,  
 Tout Juda, comme vous, plaignant la destinée,  
 Avec ses frères morts le crut enveloppé.  
 Du perfide couteau comme eux il fut frappé.  
 Mais Dieu du coup mortel sut détourner l'atteinte,  
-Conserva dans son cœur la chaleur presque éteinte,  
-Permit que des bourreaux trompant l' ?il vigilant  
+Conserva dans son coeur la chaleur presque éteinte,  
+Permit que des bourreaux trompant l'?il vigilant  
 Josabet dans son sein l'emportât tout sanglant,  
 Et n'ayant de son vol que moi seul pour complice,  
 Dans le Temple cachât l'enfant et la nourrice.  
 
-    JOAS
-Hélas ! de tant d'amour et de tant de bienfaits,  
-Mon père, quel moyen de m'acquitter jamais ?  
+    JOAS.
+Hélas ! de tant d'amour et de tant de bienfaits,  
+Mon père, quel moyen de m'acquitter jamais ?  
 
-    JOAD
+    JOAD.
 Gardez pour d'autres temps cette reconnaissance.  
 Voilà donc votre roi, votre unique espérance.  
 J'ai pris soin jusqu'ici de vous le conserver.  
@@ -2148,16 +2100,16 @@ Elle nous croit ici sans armes, sans défense.
 Couronnons, proclamons Joas en diligence.  
 De là, du nouveau prince intrépides soldats,  
 Marchons en invoquant l'arbitre des combats,  
-Et réveillant la foi dans les cœurs endormie,  
+Et réveillant la foi dans les coeurs endormie,  
 Jusques dans son palais cherchons notre ennemie.  
-Et quels cœurs si plongés dans un lâche sommeil,  
+Et quels coeurs si plongés dans un lâche sommeil,  
 Nous voyant avancer dans ce saint appareil,  
-Ne s'empresseront pas à suivre notre exemple ?  
+Ne s'empresseront pas à suivre notre exemple ?  
 Un roi que Dieu lui-même a nourri dans son Temple,  
 Le successeur d'Aaron de ses prêtres suivi,  
 Conduisant au combat les enfants de Lévi,  
 Et dans ces mêmes mains des peuples révérées,  
-Les armes au Seigneur par David consacrées ?  
+Les armes au Seigneur par David consacrées ?  
 Dieu sur ses ennemis répandra sa terreur.  
 Dans l'infidèle sang baignez-vous sans horreur.  
 Frappez et Tyriens, et même Israélites.  
@@ -2167,109 +2119,105 @@ Rendit dans le désert un culte criminel,
 De leurs plus chers parents saintement homicides,  
 Consacrèrent leurs mains dans le sang des perfides,  
 Et par ce noble exploit vous acquirent l'honneur  
-D'être seuls employés aux autels du Seigneur ?  
+D'être seuls employés aux autels du Seigneur ?  
 Mais je vois que déjà vous brûlez de me suivre.  
 Jurez donc avant tout sur cet auguste Livre,  
 À ce roi que le ciel vous redonne aujourd'hui,  
 De vivre, de combattre, et de mourir pour lui.  
 
-    AZARIAS
+    AZARIAS.
 Oui, nous jurons ici pour nous, pour tous nos frères,  
 De rétablir Joas au trône de ses pères,  
 De ne poser le fer entre nos mains remis,  
 Qu'après l'avoir vengé de tous ses ennemis.  
 Si quelque transgresseur enfreint cette promesse,  
-Qu'il éprouve, grand Dieu, ta fureur vengeresse :  
+Qu'il éprouve, grand Dieu, ta fureur vengeresse :  
 Qu'avec lui, ses enfants de ton partage exclus,  
 Soient au rang de ces morts que tu ne connais plus.  
 
-    JOAD
+    JOAD.
 Et vous, à cette Loi, votre règle éternelle,  
-Roi, ne jurez-vous pas d'être toujours fidèle ?  
+Roi, ne jurez-vous pas d'être toujours fidèle ?  
 
-    JOAS
-Pourrais-je à cette Loi ne me pas conformer ?  
+    JOAS.
+Pourrais-je à cette Loi ne me pas conformer ?  
 
-    JOAD
+    JOAD.
 Ô mon fils, de ce nom j'ose encor vous nommer,  
 Souffrez cette tendresse, et pardonnez aux larmes  
 Que m'arrachent pour vous de trop justes alarmes.  
 Loin du trône nourri, de ce fatal honneur,  
-Hélas ! vous ignorez le charme empoisonneur.  
+Hélas ! vous ignorez le charme empoisonneur.  
 De l'absolu pouvoir vous ignorez l'ivresse,  
 Et des lâches flatteurs la voix enchanteresse.  
 Bientôt ils vous diront que les plus saintes lois,  
-Maîtresses du vil peuple, obéissent aux rois ;  
-Qu'un roi n'a d'autre frein que sa volonté même ;  
-Qu'il doit immoler tout à sa grandeur suprême ;  
+Maîtresses du vil peuple, obéissent aux rois ;  
+Qu'un roi n'a d'autre frein que sa volonté même ;  
+Qu'il doit immoler tout à sa grandeur suprême ;  
 Qu'aux larmes, au travail le peuple est condamné,  
-Et d'un sceptre de fer veut être gouverné ;  
+Et d'un sceptre de fer veut être gouverné ;  
 Que s'il n'est opprimé, tôt ou tard il opprime.  
 Ainsi de piège en piège, et d'abîme en abîme,  
-Corrompant de vos mœurs l'aimable pureté,  
+Corrompant de vos moeurs l'aimable pureté,  
 Ils vous feront enfin haïr la vérité,  
 Vous peindront la vertu sous une affreuse image.  
-Hélas ! ils ont des rois égaré le plus sage.  
+Hélas ! ils ont des rois égaré le plus sage.  
 Promettez sur ce Livre et devant ces témoins,  
 Que Dieu fera toujours le premier de vos soins,  
 Que sévère aux méchants, et des bons le refuge,  
-Entre le pauvre et vous, vous prendrez Dieu pour juge ;  
+Entre le pauvre et vous, vous prendrez Dieu pour juge ;  
 Vous souvenant, mon fils, que caché sous ce lin,  
 Comme eux vous fûtes pauvre, et comme eux orphelin.  
 
-    JOAS
+    JOAS.
 Je promets d'observer ce que la Loi m'ordonne.  
 Mon Dieu, punissez-moi, si je vous abandonne.  
 
-    JOAD
+    JOAD.
 Venez, de l'huile sainte il faut vous consacrer.  
 Paraissez, Josabet, vous pouvez vous montrer.  
 
 
-## SCÈNE IV
-Joas, Joad, Joasabet, Zacharie, Azarias, etc., Salomith, Le Chœur.
-
+## SCÈNE IV. Joas, Joad, Joasabet, Zacharie, Azarias, etc., Salomith, Le Choeur.
 
     JOSABET, EMBRASSANT JOAS.
-Ô Roi, fils de David !  
+Ô Roi, fils de David !  
 
-    JOAS
-        Ô mon unique mère !  
+    JOAS.
+        Ô mon unique mère !  
 Venez, cher Zacharie, embrasser votre frère.  
 
     JOSABET, À ZACHARIE.
 Aux pieds de votre roi prosternez-vous, mon fils.  
 
-    JOAD, PENDANT QU’ILS S’EMBRASSENT.
-Enfants, ainsi toujours puissiez-vous être unis !  
+    JOAD, PENDANT QU'ILS S'EMBRASSENT.
+Enfants, ainsi toujours puissiez-vous être unis !  
 
     JOSABET, À JOAS.
-Vous savez donc quel sang vous a donné la vie ?  
+Vous savez donc quel sang vous a donné la vie ?  
 
-    JOAS
+    JOAS.
 Et je sais quelle main sans vous me l'eût ravie.  
 
-    JOSABET
+    JOSABET.
 De votre nom, Joas, je puis donc vous nommer.  
 
-    JOAS
+    JOAS.
 Joas ne cessera jamais de vous aimer.  
 
-    LE CHOEUR
+    LE CHOEUR.
 Quoi, c'est là...  
 
-    JOSABET
-        C'est Joas.  
+    JOSABET.
+    C'est Joas.  
 
-    JOAD
+    JOAD.
         Écoutons ce lévite.  
 
 
-## SCÈNE V
-Joas, Joasabet, Joad, etc., Un Lévite.
+## SCÈNE V. Joas, Joasabet, Joad, etc., Un Lévite.
 
-
-    UN LÉVITE
+    UN LÉVITE.
 J'ignore contre Dieu quel projet on médite.  
 Mais l'airain menaçant frémit de toutes parts.  
 On voit luire des feux parmi des étendards.  
@@ -2282,21 +2230,21 @@ Qu'Abner est dans les fers, et ne peut nous défendre.
 
     JOSABET, À JOAS.
 Cher enfant, que le ciel en vain m'avait rendu,  
-Hélas ! pour vous sauver j'ai fait ce que j'ai pu.  
+Hélas ! pour vous sauver j'ai fait ce que j'ai pu.  
 Dieu ne se souvient plus de David votre père.  
 
     JOAD, À JOSABET.
-Quoi ! Vous ne craignez pas d'attirer sa colère  
-Sur vous, et sur ce roi si cher à votre amour ?  
+Quoi ! Vous ne craignez pas d'attirer sa colère  
+Sur vous, et sur ce roi si cher à votre amour ?  
 Et quand Dieu de vos bras l'arrachant sans retour,  
-Voudrait que de David la maison fût éteinte ;  
+Voudrait que de David la maison fût éteinte ;  
 N'êtes-vous pas ici sur la montagne sainte,  
 Où le père des Juifs sur son fils innocent,  
 Leva sans murmurer un bras obéissant,  
 Et mit sur un bûcher ce fruit de sa vieillesse,  
 Laissant à Dieu le soin d'accomplir sa promesse,  
 Et lui sacrifiant avec ce fils aimé  
-Tout l'espoir de sa race en lui seul renfermé ?  
+Tout l'espoir de sa race en lui seul renfermé ?  
 Amis, partageons-nous. Qu'Ismaël en sa garde,  
 Prenne tout le côté que l'orient regarde.  
 Vous, le côté de l'ourse, et vous de l'occident.  
@@ -2323,9 +2271,7 @@ Suivez-le, Josabet. Vous,
 Enfants, offrez à Dieu vos innocentes larmes.  
 
 
-## SCÈNE VI
-Salomith, Le Chœur.
-
+## SCÈNE VI. Salomith, Le Choeur.
 
     TOUT LE CHOEUR, CHANTE.
 Partez, enfants d'Aaron, partez.  
@@ -2336,18 +2282,18 @@ C'est votre roi, c'est Dieu, pour qui vous combattez.
 
     UNE VOIX, SEULE.
 Où sont les traits que tu lances,  
-Grand Dieu, dans ton juste courroux ?  
-N'es-tu plus le Dieu jaloux ?  
-N'es-tu plus le Dieu des vengeances ?  
+Grand Dieu, dans ton juste courroux ?  
+N'es-tu plus le Dieu jaloux ?  
+N'es-tu plus le Dieu des vengeances ?  
 
-    UNE AUTRE
-Où sont, Dieu de Jacob, tes antiques bontés ?  
+    UNE AUTRE.
+Où sont, Dieu de Jacob, tes antiques bontés ?  
 Dans l'horreur qui nous environne,  
-N'entends-tu que la voix de nos iniquités ?  
-N'es-tu plus le Dieu qui pardonne ?  
+N'entends-tu que la voix de nos iniquités ?  
+N'es-tu plus le Dieu qui pardonne ?  
 
-    TOUT LE CHOEUR
-Où sont, Dieu de Jacob, tes antiques bontés ?  
+    TOUT LE CHOEUR.
+Où sont, Dieu de Jacob, tes antiques bontés ?  
 
     UNE VOIX, SEULE.
 C'est à toi que dans cette guerre  
@@ -2360,36 +2306,36 @@ Que de son nom, que de sa gloire
 Il ne reste plus de mémoire.  
 Que ni lui, ni son Christ ne règnent plus sur nous.  
 
-    TOUT LE CHOEUR
+    TOUT LE CHOEUR.
 Où sont les traits que tu lances,  
-Grand Dieu, dans ton juste courroux ?  
-N'es-tu plus le Dieu jaloux ?  
-N'es-tu plus le Dieu des vengeances ?  
+Grand Dieu, dans ton juste courroux ?  
+N'es-tu plus le Dieu jaloux ?  
+N'es-tu plus le Dieu des vengeances ?  
 
     UNE VOIX, SEULE.
 Triste reste de nos rois,  
 Chère et dernière fleur d'une tige si belle,  
-Hélas ! sous le couteau d'une mère cruelle  
-Te verrons-nous tomber une seconde fois ?  
+Hélas ! sous le couteau d'une mère cruelle  
+Te verrons-nous tomber une seconde fois ?  
 Prince aimable, dis-nous, si quelque ange au berceau  
-Contre tes assassins prit soin de te défendre ;  
+Contre tes assassins prit soin de te défendre ;  
 Ou si dans la nuit du tombeau  
 La voix du Dieu vivant a ranimé ta cendre.  
 
-    UNE AUTRE
+    UNE AUTRE.
 D'un père et d'un aïeul contre toi révoltés,  
-Grand Dieu, les attentats lui sont-ils imputés ?  
-Est-ce que sans retour ta pitié l'abandonne ?  
+Grand Dieu, les attentats lui sont-ils imputés ?  
+Est-ce que sans retour ta pitié l'abandonne ?  
 
-    LE CHOEUR
-Où sont, Dieu de Jacob, tes antiques bontés ?  
-N'es-tu plus le Dieu qui pardonne ?  
+    LE CHOEUR.
+Où sont, Dieu de Jacob, tes antiques bontés ?  
+N'es-tu plus le Dieu qui pardonne ?  
 
     UNE DES FILLES DU CHOEUR, SANS CHANTER.
-Chères sœurs, n'entendez-vous pas  
-Des cruels Tyriens la trompette qui sonne ?  
+Chères soeurs, n'entendez-vous pas  
+Des cruels Tyriens la trompette qui sonne ?  
 
-    SALOMITH
+    SALOMITH.
 J'entends même les cris des barbares soldats,  
 Et d'horreur j'en frissonne.  
 Courons, fuyons, retirons-nous  
@@ -2400,27 +2346,25 @@ Du redoutable sanctuaire.
 # ACTE V
 
 
-## SCÈNE PREMIÈRE
-Zacharie, Salomith, Le Chœur.
+## SCÈNE PREMIÈRE. Zacharie, Salomith, Le Choeur.
 
+    SALOMITH.
+Cher Zacharie, hé bien ? Que nous apprenez-vous ?  
 
-    SALOMITH
-Cher Zacharie, hé bien ? Que nous apprenez-vous ?  
-
-    ZACHARIE
+    ZACHARIE.
 Redoublez au Seigneur votre ardente prière.  
 Peut-être nous touchons à notre heure dernière.  
-Pour l'horrible combat, ma sœur, l'ordre est donné.  
+Pour l'horrible combat, ma soeur, l'ordre est donné.  
 
-    SALOMITH
-Que fait Joas ?  
+    SALOMITH.
+Que fait Joas ?  
 
-    ZACHARIE
+    ZACHARIE.
         Joas vient d'être couronné.  
 Le grand prêtre a sur lui répandu l'huile sainte.  
-Ô ciel ! dans tous les yeux quelle joie était peinte  
-À l'aspect de ce roi racheté du tombeau !  
-Ma sœur, on voit encor la marque du couteau.  
+Ô ciel ! dans tous les yeux quelle joie était peinte  
+À l'aspect de ce roi racheté du tombeau !  
+Ma soeur, on voit encor la marque du couteau.  
 On voit paraître aussi sa fidèle nourrice,  
 Qui cachée en un coin de ce vaste édifice  
 Gardait ce cher dépôt, et n'avait de ses soins  
@@ -2428,66 +2372,64 @@ Que les yeux de ma mère, et que Dieu pour témoins.
 Nos lévites pleuraient de joie et de tendresse,  
 Et mêlaient leurs sanglots à leurs cris d'allégresse.  
 Lui, parmi ces transports, affable, et sans orgueil,  
-À l'un tendait la main, flattait l'autre de l' ?il,  
+À l'un tendait la main, flattait l'autre de l'?il,  
 Jurait de se régler par leurs avis sincères,  
 Et les appelait tous ses pères ou ses frères.  
 
-    SALOMITH
-Ce secret au dehors est-il aussi semé ?  
+    SALOMITH.
+Ce secret au dehors est-il aussi semé ?  
 
-    ZACHARIE
+    ZACHARIE.
 Ce secret dans le Temple est encor renfermé.  
 Des enfants de Lévi la troupe partagée  
 Dans un profond silence aux portes s'est rangée.  
 Tous doivent à la fois précipiter leurs pas,  
-Et crier pour signal : vive le roi Joas.  
+Et crier pour signal : vive le roi Joas.  
 Mais mon père défend que le roi se hasarde,  
 Et veut qu'Azarias demeure pour sa garde.  
 Cependant Athalie un poignard à la main  
 Rit des faibles remparts de nos portes d'airain.  
 Pour les rompre, elle attend les fatales machines,  
 Et ne respire enfin que sang et que ruines.  
-Quelques prêtres, ma sœur, ont d'abord proposé  
+Quelques prêtres, ma soeur, ont d'abord proposé  
 Qu'en un lieu souterrain par nos pères creusé  
 On renfermât du moins notre Arche précieuse.  
-*Ô crainte,* a dit mon père, *indigne, injurieuse !*  
+*Ô crainte,* a dit mon père, *indigne, injurieuse !*  
 *L'Arche, qui fit tomber tant de superbes tours,*  
 *Et força le Jourdain de rebrousser son cours,*  
 *Des dieux des nations tant de fois triomphante,*  
-*Fuirait donc à l'aspect d'une femme insolente ?*  
+*Fuirait donc à l'aspect d'une femme insolente ?*  
 Ma mère auprès du roi, dans un trouble mortel,  
-L' ?il tantôt sur ce prince, et tantôt vers l'autel,  
+L'?il tantôt sur ce prince, et tantôt vers l'autel,  
 Muette, et succombant sous le poids des alarmes,  
 Aux yeux les plus cruels arracherait des larmes,  
 Le roi de temps en temps la presse entre ses bras,  
-La flatte... Chères sœurs, suivez toutes mes pas.  
+La flatte... Chères soeurs, suivez toutes mes pas.  
 Et, s'il faut aujourd'hui que notre roi périsse,  
 Allons, qu'un même sort avec lui nous unisse.  
 
-    SALOMITH
-Quelle insolente main frappe à coups redoublés ?  
-Qui fait courir ainsi ces lévites troublés ?  
-Quelle précaution leur fait cacher leurs armes ?  
-Le Temple est-il forcé ?  
+    SALOMITH.
+Quelle insolente main frappe à coups redoublés ?  
+Qui fait courir ainsi ces lévites troublés ?  
+Quelle précaution leur fait cacher leurs armes ?  
+Le Temple est-il forcé ?  
 
-    ZACHARIE
+    ZACHARIE.
         Dissipez vos alarmes.  
 Dieu nous envoie Abner.  
 
 
-## SCÈNE II
-Abner, Joad, Josabet, Zacharie, Salomith, Ismaël, deux Lévites, etc.
+## SCÈNE II. Abner, Joad, Josabet, Zacharie, Salomith, Ismaël, deux Lévites, etc.
 
-
-    JOAD
+    JOAD.
         En croirai-je mes yeux,  
-Cher Abner ? Quel chemin a pu jusqu'en ces lieux  
-Vous conduire au travers d'un camp qui nous assiège ?  
+Cher Abner ? Quel chemin a pu jusqu'en ces lieux  
+Vous conduire au travers d'un camp qui nous assiège ?  
 On disait que d'Achab la fille sacrilège  
 Avait, pour assurer ses projets inhumains,  
 Chargé d'indignes fers vos généreuses mains.  
 
-    ABNER
+    ABNER.
 Oui, Seigneur, elle a craint mon zèle et mon courage.  
 Mais c'est le moindre prix que me gardait sa rage.  
 Dans l'horreur d'un cachot par son ordre enfermé,  
@@ -2497,27 +2439,27 @@ Elle vînt m'affranchir d'une importune vie,
 Et retrancher des jours, qu'aurait dû mille fois  
 Terminer la douleur de survivre à mes rois.  
 
-    JOAD
-Par quel miracle a-t-on obtenu votre grâce ?  
+    JOAD.
+Par quel miracle a-t-on obtenu votre grâce ?  
 
-    ABNER
-Dieu dans ce cœur cruel sait seul ce qui se passe.  
+    ABNER.
+Dieu dans ce coeur cruel sait seul ce qui se passe.  
 Elle m'a fait venir, et d'un air égaré,  
 *Tu vois de mes soldats tout ce temple entouré,*  
 Dit-elle. *Un feu vengeur va le réduire en cendre.*  
 *Et ton Dieu contre moi ne le saurait défendre. *  
 *Ses prêtres toutefois, mais il faut se hâter,*  
-*À deux conditions peuvent se racheter :*  
+*À deux conditions peuvent se racheter :*  
 *Qu'avec Éliacin on mette en ma puissance*  
 *Un trésor, dont je sais qu'ils ont la connaissance,*  
 *Par votre roi David autrefois amassé, *  
 *Sous le sceau du secret au grand prêtre laissé.*  
 *Va, dis-leur qu'à ce prix je leurs permets de vivre.*  
 
-    JOAD
-Quel conseil, cher Abner, croyez-vous qu'on doit suivre ?  
+    JOAD.
+Quel conseil, cher Abner, croyez-vous qu'on doit suivre ?  
 
-    ABNER
+    ABNER.
 Et tout l'or de David, s'il est vrai qu'en effet  
 Vous gardiez de David quelque trésor secret,  
 Et tout ce que des mains de cette reine avare,  
@@ -2525,22 +2467,22 @@ Vous avez pu sauver et de riche et de rare,
 Donnez-le. Voulez-vous que d'impurs assassins  
 Viennent briser l'autel, brûler les chérubins,  
 Et portant sur notre Arche une main téméraire,  
-De votre propre sang souiller le sanctuaire ?  
+De votre propre sang souiller le sanctuaire ?  
 
-    JOAD
-Mais siérait-il, Abner, à des cœurs généreux  
+    JOAD.
+Mais siérait-il, Abner, à des coeurs généreux  
 De livrer au supplice un enfant malheureux,  
 Un enfant que Dieu même à ma garde confie,  
-Et de nous racheter aux dépens de sa vie ?  
+Et de nous racheter aux dépens de sa vie ?  
 
-    ABNER
-Hélas ! Dieu voit mon cœur. Plût à ce Dieu puissant  
+    ABNER.
+Hélas ! Dieu voit mon coeur. Plût à ce Dieu puissant  
 Qu'Athalie oubliât un enfant innocent,  
 Et que du sang d'Abner sa cruauté contente  
-Crût calmer par ma mort le ciel qui la tourmente !  
-Mais que peuvent pour lui vos inutiles soins ?  
-Quand vous périrez tous, en périra-t-il moins ?  
-Dieu vous ordonne-t-il de tenter l'impossible ?  
+Crût calmer par ma mort le ciel qui la tourmente !  
+Mais que peuvent pour lui vos inutiles soins ?  
+Quand vous périrez tous, en périra-t-il moins ?  
+Dieu vous ordonne-t-il de tenter l'impossible ?  
 Pour obéir aux lois d'un tyran inflexible,  
 Moïse par sa mère au Nil abandonné,  
 Se vit, presque en naissant, à périr condamné.  
@@ -2549,31 +2491,31 @@ Fit par le tyran même élever son enfance.
 Qui sait ce qu'il réserve à votre Éliacin,  
 Et si lui préparant un semblable destin,  
 Il n'a point de pitié déjà rendu capable  
-De nos malheureux rois l'homicide implacable ?  
+De nos malheureux rois l'homicide implacable ?  
 Du moins, et Josabet, comme moi, l'a pu voir,  
 Tantôt à son aspect je l'ai vu s'émouvoir.  
 J'ai vu de son courroux tomber la violence.  
-Princesse, en ce péril vous gardez le silence ?  
-Hé quoi ? Pour un enfant, qui vous est étranger,  
+Princesse, en ce péril vous gardez le silence ?  
+Hé quoi ? Pour un enfant, qui vous est étranger,  
 Souffrez-vous que sans fruit Joad laisse égorger  
 Vous, son fils, tout ce peuple, et que le feu dévore  
-Le seul lieu sur la terre où Dieu veut qu'on l'adore ?  
+Le seul lieu sur la terre où Dieu veut qu'on l'adore ?  
 Que feriez-vous de plus, si des rois vos aïeux  
-Ce jeune enfant était un reste précieux ?  
+Ce jeune enfant était un reste précieux ?  
 
     JOSABET, TOUT BAS À JOAD.
 Pour le sang de ses rois vous voyez sa tendresse.  
-Que ne lui parlez-vous ?  
+Que ne lui parlez-vous ?  
 
-    JOAD
+    JOAD.
         Il n'est pas temps, Princesse.  
 
-    ABNER
+    ABNER.
 Le temps est cher, Seigneur, plus que vous ne pensez.  
 Tandis qu'à me répondre ici vous balancez,  
 Mathan près d'Athalie étincelant de rage  
 Demande le signal, et presse le carnage.  
-Faut-il que je me jette à vos sacrés genoux ?  
+Faut-il que je me jette à vos sacrés genoux ?  
 Au nom du lieu si saint, qui n'est ouvert qu'à vous,  
 Lieu terrible, où de Dieu la majesté repose,  
 Quelque dure que soit la loi qu'on vous impose,  
@@ -2584,11 +2526,11 @@ Pour assurer le Temple, et venger ses injures.
 Mais je vois que mes pleurs et que mes vains discours  
 Pour vous persuader sont un faible secours.  
 Votre austère vertu n'en peut être frappée.  
-Hé bien ! trouvez-moi donc quelque arme, quelque épée  
+Hé bien ! trouvez-moi donc quelque arme, quelque épée  
 Et qu'aux portes du Temple où l'ennemi m'attend,  
 Abner puisse du moins mourir en combattant.  
 
-    JOAD
+    JOAD.
 Je me rends. Vous m'ouvrez un avis que j'embrasse.  
 De tant de maux, Abner, détournons la menace.  
 Il est vrai de David un trésor est resté.  
@@ -2601,36 +2543,34 @@ De ses plus braves chefs qu'elle entre accompagnée
 Mais de nos saints autels qu'elle tienne éloignée  
 D'un ramas d'étrangers l'indiscrète fureur.  
 Du pillage du Temple épargnez-moi l'horreur.  
-Des prêtres, des enfants lui feraient-ils quelque ombre ?  
+Des prêtres, des enfants lui feraient-ils quelque ombre ?  
 De sa suite avec vous qu'elle règle le nombre.  
 Et quant à cet enfant si craint, si redouté,  
-De votre cœur, Abner, je connais l'équité.  
+De votre coeur, Abner, je connais l'équité.  
 Je vous veux devant elle expliquer sa naissance.  
 Vous verrez, s'il le faut remettre en sa puissance.  
 Et je vous ferai juge entre Athalie et lui.  
 
-    ABNER
-Ah ! je le prends déjà, Seigneur, sous mon appui.  
+    ABNER.
+Ah ! je le prends déjà, Seigneur, sous mon appui.  
 Ne craignez rien. Je cours vers celle qui m'envoie.  
 
 
-## SCÈNE III
-Joad, Josabet, Ismaël, Zacharie, etc.
+## SCÈNE III. Joad, Josabet, Ismaël, Zacharie, etc.
 
-
-    JOAD
+    JOAD.
 Grand Dieu, voici ton heure, on t'amène ta proie.  
 Ismaël, écoutez.  
 Il lui parle à l'oreille.
 
 
-    JOSABET
+    JOSABET.
         Puissant maître des cieux,  
 Remets lui le bandeau, dont tu couvris ses yeux,  
 Lorsque lui dérobant tout le fruit de son crime,  
 Tu cachas dans mon sein cette tendre victime.  
 
-    JOAD
+    JOAD.
 Allez, sage Ismaël, ne perdez point de temps.  
 Suivez de point en point ces ordres importants.  
 Surtout, qu'à son entrée, et que sur son passage,  
@@ -2653,9 +2593,7 @@ De Joas conservé l'étonnante merveille.
 Il vient.  
 
 
-## SCÈNE IV
-Joas, Joad, Josabet, Troupes de prêtres et de lévites, etc.
-
+## SCÈNE IV. Joas, Joad, Josabet, Troupes de prêtres et de lévites, etc.
 
     JOAD, CONTINUE.
         Lévites saints, prêtres de notre Dieu,  
@@ -2664,7 +2602,7 @@ Et laissant à mes soins gouverner votre zèle,
 Pour paraître attendez que ma voix vous appelle.  
 Ils se cachent tous.
 
-Roi, je crois qu'à vos vœux cet espoir est permis,  
+Roi, je crois qu'à vos voeux cet espoir est permis,  
 Venez voir à vos pieds tomber vos ennemis.  
 Celle dont la fureur poursuivit votre enfance  
 Vers ces lieux à grands pas pour vous perdre s'avance.  
@@ -2674,21 +2612,19 @@ Montez sur votre trône, et... Mais la porte s'ouvre.
 Permettez un moment que ce voile vous couvre,  
 Il tire une rideau.
 
-Vous changez de couleur, Princesse ?  
+Vous changez de couleur, Princesse ?  
 
-    JOSABET
-        Ah ! sans pâlir  
-Puis-je voir d'assassins le Temple se remplir ?  
-Quoi ? Ne voyez-vous pas quelle nombreuse escorte...  
+    JOSABET.
+        Ah ! sans pâlir  
+Puis-je voir d'assassins le Temple se remplir ?  
+Quoi ? Ne voyez-vous pas quelle nombreuse escorte...  
 
-    JOAD
+    JOAD.
 Je vois que du saint temple on referme la porte.  
 Tout est en sûreté.  
 
 
-## SCÈNE V
-Athalie, Joas caché derrière le rideau, Joad, Josabet, Abner, Suite d'Athalie.
-
+## SCÈNE V. Athalie, Joas caché derrière le rideau, Joad, Josabet, Abner, Suite d'Athalie.
 
     ATHALIE À JOAD.
         Te voilà, séducteur,  
@@ -2696,81 +2632,79 @@ De ligues, de complots pernicieux auteur,
 Qui dans le trouble seul as mis tes espérances,  
 Éternel ennemi des suprêmes puissances.  
 En l'appui de ton Dieu tu t'étais reposé.  
-De ton espoir frivole es-tu désabusé ?  
+De ton espoir frivole es-tu désabusé ?  
 Il laisse en mon pouvoir et son temple et ta vie.  
 Je devrais sur l'autel, où ta main sacrifie,  
 Te... Mais du prix qu'on m'offre il faut me contenter.  
 Ce que tu m'as promis songe à l'exécuter.  
 Cet enfant, ce trésor, qu'il faut qu'on me remette,  
-Où sont-ils ?  
+Où sont-ils ?  
 
-    JOAD
+    JOAD.
         Sur le champ tu seras satisfaite.  
 Je te les vais montrer l'un et l'autre à la fois.  
 Le rideau se tire.
 
 Paraissez, cher enfant, digne sang de nos rois.  
 Connais-tu l'héritier du plus saint des monarques,  
-Reine ? De ton poignard connais du moins ces marques.  
+Reine ? De ton poignard connais du moins ces marques.  
 Voilà ton roi, ton fils, le fils d'Ochosias.  
 Peuples, et vous Abner, reconnaissez Joas.  
 
-    ABNER
-Ciel !  
+    ABNER.
+Ciel !  
 
     ATHALIE, À JOAD.
-        Perfide !  
+    Perfide !  
 
-    JOAD
+    JOAD.
         Vois-tu cette Juive fidèle,  
-Dont tu sais bien qu'alors il suçait la mamelle ?  
+Dont tu sais bien qu'alors il suçait la mamelle ?  
 Il fut par Josabet à ta rage enlevé.  
 Ce Temple le reçut, et Dieu l'a conservé.  
 Des trésors de David voilà ce qui me reste.  
 
-    ATHALIE
+    ATHALIE.
 Ta fourbe à cet enfant, traître, sera funeste.  
 D'un fantôme odieux, soldats, délivrez-moi.  
 
-    JOAD
+    JOAD.
 Soldats du Dieu vivant, défendez votre roi.  
 Ici le fond du théâtre s'ouvre. On voit le dedans du Temple, et les lévites armés sortent de tous côtés sur la scène.
 
 
-    ATHALIE
-Où suis-je ? Ô trahison ! Ô reine infortunée !  
+    ATHALIE.
+Où suis-je ? Ô trahison ! Ô reine infortunée !  
 D'armes et d'ennemis je suis environnée.  
 
-    JOAD
+    JOAD.
 Tes yeux cherchent en vain, tu ne peux échapper,  
 Et Dieu de toutes parts a su t'envelopper.  
 Ce Dieu que tu bravais, en nos mains t'a livrée.  
 Rends lui compte du sang dont tu t'es enivrée.  
 
-    ATHALIE
-Quoi ? La peur a glacé mes indignes soldats ?  
-Lâche Abner, dans quel piège as-tu conduit mes pas ?  
+    ATHALIE.
+Quoi ? La peur a glacé mes indignes soldats ?  
+Lâche Abner, dans quel piège as-tu conduit mes pas ?  
 
-    ABNER
+    ABNER.
 Reine, Dieu m'est témoin...  
 
-    ATHALIE
+    ATHALIE.
         Laisse là ton Dieu, traître,  
 Et venge-moi.  
 
     ABNER, SE JETANT AUX PIEDS DE JOAS.
-        Sur qui ? Sur Joas ! Sur mon maître !  
+        Sur qui ? Sur Joas ! Sur mon maître !  
 
-    ATHALIE
-Lui Joas ? Lui ton roi ? Songez, méchants, songez  
+    ATHALIE.
+Lui Joas ? Lui ton roi ? Songez, méchants, songez  
 Que mes armes encor vous tiennent assiégés.  
 J'entends à haute voix tout mon camp qui m'appelle.  
 On vient à mon secours. Tremblez, troupe rebelle.  
 
 
-## SCÈNE VI
-Ismaël, Joas, Joad, Athalie, etc.
-
+## SCÈNE VI. Ismaël, Joas, Joad, Athalie, etc.
 
     ISMAËL, À JOAD.
 Seigneur, le Temple est libre, et n'a plus d'ennemis.  
@@ -2798,8 +2732,8 @@ Baal est en horreur dans la sainte cité.
 De son temple profane on a brisé les portes.  
 Mathan est égorgé.  
 
-    ATHALIE
-        Dieu des Juifs, tu l'emportes !  
+    ATHALIE.
+        Dieu des Juifs, tu l'emportes !  
 Oui, c'est Joas, je cherche en vain à me tromper.  
 Je reconnais l'endroit où je le fis frapper.  
 Je vois d'Ochosias et le port, et le geste.  
@@ -2811,11 +2745,11 @@ M'a vingt fois en un jour à moi-même opposée,
 Tantôt pour un enfant excitant mes remords,  
 Tantôt m'éblouissant de tes riches trésors,  
 Que j'ai craint de livrer aux flammes, au pillage.  
-Qu'il règne donc ce fils, ton soin, et ton ouvrage ;  
+Qu'il règne donc ce fils, ton soin, et ton ouvrage ;  
 Et que pour signaler son empire nouveau  
 On lui fasse en mon sein enfoncer le couteau.  
 Voici ce qu'en mourant lui souhaite sa mère.  
-Que dis-je souhaiter ? Je me flatte, j'espère,  
+Que dis-je souhaiter ? Je me flatte, j'espère,  
 Qu'indocile à ton joug, fatigué de ta loi,  
 Fidèle au sang d'Achab, qu'il a reçu de moi,  
 Conforme à son aïeul, à son père semblable,  
@@ -2823,7 +2757,7 @@ On verra de David l'héritier détestable
 Abolir tes honneurs, profaner ton autel,  
 Et venger Athalie, Achab, et Jézabel.  
 
-    JOAD
+    JOAD.
 Qu'à l'instant hors du Temple elle soit emmenée,  
 Et que la sainteté n'en soit point profanée.  
 Allez, sacrés vengeurs de vos princes meurtris,  
@@ -2832,11 +2766,9 @@ Si quelque audacieux embrasse sa querelle,
 Qu'à la fureur du glaive on le livre avec elle.  
 
 
-## SCÈNE VII
-Joas, Joas, Joasbet, Abner, etc.
+## SCÈNE VII. Joas, Joas, Joasbet, Abner, etc.
 
-
-    JOAS
+    JOAS.
 Dieu, qui voyez mon trouble et mon affliction,  
 Détournez loin de moi sa malédiction,  
 Et ne souffrez jamais qu'elle soit accomplie.  
@@ -2850,22 +2782,54 @@ De Jacob avec Dieu confirmer l'alliance,
 Et saintement confus de nos égarements,  
 Nous rengager à lui par de nouveaux serments.  
 Abner, auprès du roi reprenez votre place.  
-Hé bien ? de cette impie a-t-on puni l'audace ?  
+Hé bien ? de cette impie a-t-on puni l'audace ?  
 
 
 ## SCÈNE DERNIÈRE. Un Lévite, Joas, Joad, etc.
 
-    UN LÉVITE
+    UN LÉVITE.
 Le fer a de sa vie expié les horreurs.  
 Jérusalem longtemps en proie à ses fureurs,  
 De son joug odieux à la fin soulagée,  
 Avec joie en son sang la regarde plongée.  
 
-    JOAD
+    JOAD.
 Par cette fin terrible, et due à ses forfaits,  
 Apprenez, roi des Juifs, et n'oubliez jamais,  
 Que les rois dans le ciel ont un juge sévère,  
 L'innocence un vengeur, et l'orphelin un père.  
+
+
+# 
+
+
+## Liste des oeuvres théâtrales de Jean Racine
+
+Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.
+
+La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal
+
+Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.
+
+Andromaque (1667), représentée pour le première fois le 17 novembre 1667 à l'Hôtel de Bourgogne.
+
+Les Plaideurs (1668), représentée pour le première fois le 28 mai à l'Hôtel Guénégaud.
+
+Britannicus (1669), représentée pour le première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
+
+Bérénice (1670), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Mithridate (1673), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Bajazet (1672), représentée pour le première fois le 1er janvier 1672 à l'Hôtel de Bourgogne.
+
+Iphigénie, représentée pour le première fois le 18 août 1674 à l'Hôtel de Bourgogne.
+
+Phèdre (1677), représentée pour le première fois le 1er janvier 1677 à l'Hôtel de Bourgogne.
+
+Esther, représentée pour le première fois le 26 janvier 1689 au Collège de Saint-Cyr.
+
+Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de Saint-Cyr.
 
 -------
 
@@ -2874,20 +2838,8 @@ L'innocence un vengeur, et l'orphelin un père.
 
 [2] "Sina", il faut comprendre qu'il s'agit su mont "Sinaï".
 
-[3] Variante, éd. 1691 : v.43, "qu'il ne joue" au lieu de "qu'il n'invente" et v.44, "il vous loue" pour "il vous vante".
+[3] Variante, éd. 1691 : v.43, "qu'il ne joue" au lieu de "qu'il n'invente" et v.44, "il vous loue" pour "il vous vante".
 
-[4] Variante, éd. 1691 et 1692 : v.92, "vos victimes" au lieu de "des victimes".
+[4] Variante, éd. 1691 et 1692 : v.92, "rassemblé" au lieu de "assemblé".
 
-[5] Variante, éd. 1691 et 1692 : v.186, "il est" au lieu de "est-il".
-
-[6] Variante, éd. 1691 et 1692 : v.92, "rassemblé" au lieu de "assemblé".
-
-[7] Variante, éd. 1697 : v.369 et 370, présents uniquement dans le version de 1697.
-
-[8] Variante, v.782-794 absents de l'édition 1691.
-
-[9] Variante, v.804-809 absents de l'édition 1691.
-
-[10] Variante éd. 1691 et 1692, v.1154 "en un jour" au lieu de "en ce jour".
-
-[11] Variante, v.1195-12044 absents de l'édition 1691.
+[5] Variante éd. 1691 et 1692, v.1154 "en un jour" au lieu de "en ce jour".

@@ -1,5 +1,5 @@
 ---
-identifier: brosse_l'aveugle  
+identifier: brosse_aveugle-clairvoyant  
 creator: Brosse  
 date: 1650  
 title: L'Aveugle clair-voyant. Comédie  
@@ -502,7 +502,7 @@ Vostre esprit & vos sens vindrent [126] à s'esmouvoir,
 Vous l'aimates enfin !  
 
     OLIMPE
-Oüy, d'un aveu⁎ tacite  
+        Oüy, d'un aveu⁎ tacite  
 J'acceptay sa recherche ainsi que sa visite.  
 
     NERINE
@@ -512,7 +512,7 @@ Devoit de vos ardeurs authoriser le cours.
     OLIMPE
 Cleanthe m'en pria, mais ma pudeur blessee  
 Rejetta sa priere & blasma sa pensee.  
-Les manes [127] d'un mary gisant dans le tombeau                    
+Les manes [127] d'un mary gisant dans le tombeau  
 D'un si prompt hymenée⁎ éteindroient le flambeau,  
 Luy, dis-je, & leur dépit joinct au courroux celeste  
 Rendroit nostre alliance & sterile & funeste,  
@@ -579,7 +579,7 @@ Et se rendit chez moy ce que son pere y fut.
 Cônut-il vôtre amour ?  
 
     OLIMPE
-Malgré ma retenuë  
+        Malgré ma retenuë  
 Dés sa conception elle [136] luy fut cônuë,  
 Ce cavalier⁎ adroit, prudent, ingenieux,  
 Subtil, & bien instruit dans l'entretien des yeux,  
@@ -755,7 +755,7 @@ Qui peut s'emanciper⁎ de dire le contraire
 Fait à la verité…  
 
     CLEANTHE
-Respectez vostre pere ;  
+        Respectez vostre pere ;  
 Ceux qui m'ont rapporté vos traits⁎ licentieux  
 Cherissent vostre honneur, loin d'en estre envieux.  
 
@@ -804,7 +804,7 @@ S'il a rien dit de plus, jamais je ne vous serve.
 Toutefois…  
 
     CLEANTHE
-Cher Sylvestre acheve jusqu'au bout.  
+        Cher Sylvestre acheve jusqu'au bout.  
 
     SYLVESTRE
 M'ayant dit, ne dy rien ; il ajouste, & voy tout,  
@@ -817,7 +817,7 @@ Que tu me veux celer⁎ en faveur de son Or.
 Mais poursuis.  
 
     SYLVESTRE
-Si ma dague estoit bien émouluë [151]  
+        Si ma dague estoit bien émouluë [151]  
 J'ouvrirois à vos yeux ma poitrine veluë.  
 C'est tout, ou jamais Vin n'entre dedans mon corps,  
 Et cela c'est vouloir passer au rang des morts.  
@@ -846,7 +846,7 @@ Me refuserez-vous un éclaircissement ?
 Touchant ?  
 
     SYLVESTRE
-Chose qui n'est d'autre que de vous sçeuë,  
+        Chose qui n'est d'autre que de vous sçeuë,  
 D'où vient que vous feignez d'avoir perdu la veuë ?  
 Pourquoy depuis six mois faire croire en ces lieux  
 Que l'huile & le cotton ont manqué dans vos yeux ?  
@@ -911,7 +911,7 @@ La part que prend Olimpe en vostre sort funeste
 L'ameine ici, Monsieur.  
 
     CLEANTHE
-Bonté rare & Celeste.  
+        Bonté rare & Celeste.  
 
     OLIMPE
 Quiconque sçait vos maux, & ne s'en peut fâcher⁎,  
@@ -983,7 +983,7 @@ Vous brusla le visage, & vous noircit le sein.
 Avoüez.  
 
     OLIMPE
-C'est ainsi qu'arriva ma disgrace,  
+        C'est ainsi qu'arriva ma disgrace,  
 Mais, ô Dieu ! quand je croy que ma douleur se passe  
 C'est alors que du sort le courroux renaissant  
 Me fait sentir un mal plus aspre & plus pressant,  
@@ -1027,34 +1027,34 @@ Adieu, de vostre aveu⁎ felicitez [163] mes pas.
 Quoy me quitter ainsi ?  
 
     THELAME
-Quoy ne vous quitter pas ?  
+        Quoy ne vous quitter pas ?  
 
     MELICE
 S'absenter de ces lieux ?  
 
     THELAME
-On y hait ma presence.  
+        On y hait ma presence.  
 
     MELICE
 Mourir desesperé ?  
 
     THELAME
-Vivre sans esperance.  
+        Vivre sans esperance.  
 
     MELICE
 Ne pas perseverer ?  
 
     THELAME
-Perseverer en vain.  
+        Perseverer en vain.  
 
     MELICE
 Ah Thelame !  
 
     THELAME
-Ah Melice !  
+    Ah Melice !  
 
     MELICE
-Ha charmant⁎ inhumain.  
+        Ha charmant⁎ inhumain.  
 Si vous bruslez pour moy d'un veritable zéle,  
 Si vous estes constant, genereux⁎ & fidelle,  
 Si dans mes interests vous prenez quelque part,  
@@ -1090,7 +1090,7 @@ Cleanthe arrive ici, Madame il m'a surpris,
 Son valet luy dira.  
 
     MELICE
-R'assurez-vos esprits,  
+        R'assurez-vos esprits,  
 Vous n'avez seulement qu'à garder le silence,  
 Ce valet a sa part dans nostre confidence,  
 Mon frére l'a si bien pratiqué sur ce poinct  
@@ -1100,11 +1100,11 @@ Que s'il void quelque chose, il ne parlera point.
 Estes-vous seule ici Melice ?  
 
     MELICE
-J'y suis seule.  
+        J'y suis seule.  
 Amy… [164]  
 
     SYLVESTRE
-Ne craignez rien, j'auray fort bonne gueule [165].  
+        Ne craignez rien, j'auray fort bonne gueule [165].  
 
     CLEANTHE
 La rencontre s'accorde avecques [166] mon souhait,  
@@ -1130,7 +1130,7 @@ Mon courroux deviendra quelque chose de pire,
 Je vous en advertis.  
 
     THELAME *bas*
-Amant infortuné !  
+        Amant infortuné !  
 
     MELICE
 Je ne sçaurois reprendre un cœur que j'ay donné.  
@@ -1139,7 +1139,7 @@ Je ne sçaurois reprendre un cœur que j'ay donné.
 Ah ! c'est trop…  
 
     SYLVESTRE
-Hé, Monsieur, ô vous son pere unique,  
+        Hé, Monsieur, ô vous son pere unique,  
 Car la defuncte estoit, à ce qu'on croit, pudique,  
 Vous son vray geniteur, avez-vous entrepris  
 De faire plus que Dieu, de forcer les esprits ?  
@@ -1159,14 +1159,14 @@ Je vais ou t'estrangler, ou t'arracher la langue,
 Temeraire, indiscret⁎.  
 
     MELICE *bas*
-Sylvestre, justes Cieux  
+        Sylvestre, justes Cieux  
 Songe à tirer mon cœur⁎ des mains d'un furieux⁎.  
 
     SYLVESTRE
 Ha ah ! je n'en puis plus.  
 
     CLEANTHE
-Insolent pédagogue !  
+        Insolent pédagogue !  
 
     SYLVESTRE
 Vous m'avez fait les yeux plus gros que ceux d'un dogue.  
@@ -1289,7 +1289,7 @@ N'est pas dedans sa chambre, on la rencontre ici.
 Madame…  
 
     SYLVESTRE
-Attendez donc que vous soyez vers elle,  
+        Attendez donc que vous soyez vers elle,  
 Vous ressemblez [183] les chiens de chez Jean de Nivelle [184],  
 Vous abbayez de loing. Avancez, Alte-là.  
 Tournez-vous autrement, parlez, vous y voila.  
@@ -1316,7 +1316,7 @@ Pour le sincere aveu d'un veritable⁎ Amant.
 Mais …  
 
     CLEANTHE
-Toubeau⁎, ce mais me tiendroit lieu d'injure,  
+        Toubeau⁎, ce mais me tiendroit lieu d'injure,  
 Je hay la flatterie, & je fuy l'imposture⁎,  
 Vous ne devez jamais concevoir le soupçon  
 Que ma bouche & mon cœur parlent d'autre façon.  
@@ -1422,7 +1422,7 @@ Adieu, Madame, adieu, vous m'avez satisfait,
 Sylvestre allons.  
 
     SYLVESTRE
-Oüy, maistre, en un pas c'en est fait.  
+        Oüy, maistre, en un pas c'en est fait.  
 Vous son unique fils, mon zele vous exhorte  
 De venir avec moy, parce qu'il vous importe.  
 
@@ -1683,8 +1683,8 @@ Qui maintiendra l'honneur de la fille & du pere.
 Dictez.  
 
     CLEANTHE *dicte.* [199]
-              < Lettre. >
-Monsieur, sçachez que ma fille veut bien  
+< Lettre. >
+        Monsieur, sçachez que ma fille veut bien  
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,  
 Qu'il vienne promptement, & n'apprehende rien,  
 Comme il plaist à Cleanthe, il agree à Melice.  
@@ -1750,7 +1750,7 @@ Que sa fourbe⁎ à nos yeux jusqu'au bout se confirme.
 J'apporte de la cire.  
 
     SYLVESTRE
-Et Sylvestre un flambeau.  
+        Et Sylvestre un flambeau.  
 
     CLEANTHE
 Donnez à cette lettre un ply juste & nouveau,  
@@ -1767,7 +1767,7 @@ Avec tout le plaisir & le soing que j'ay fait,
 Recevez vostre lettre.  
 
     CLEANTHE
-O fille obeissante,  
+        O fille obeissante,  
 Qu'un semblable propos me plaist & me contente,  
 Allez, je n'ay pour l'heure aucun besoin de vous.  
 
@@ -1847,7 +1847,7 @@ Tesmoigne du despit, & te plains en ma place.
 Si jamais…  
 
     SYLVESTRE
-Si jamais je suis vostre valet  
+        Si jamais je suis vostre valet  
 Que l'on m'estrille en asne, en cheval, en mulet [206],  
 Que le plus froid des Vents sans cesse au nez me souffle,  
 Qu'on me prenne par tout pour sot & pour marouffle [207].  
@@ -1863,7 +1863,7 @@ Ces façons de parler bouffonnes & fantasques
 T'attireront encor…  
 
     SYLVESTRE
-Quoy ? d'autres demy marques [208].  
+        Quoy ? d'autres demy marques [208].  
 
     LIDAMAS
 Pendant leur different qui flatte mon desir  
@@ -1908,7 +1908,7 @@ Prouve encor ton esprit dedans cette rencontre⁎,
 Ne te relâche point.  
 
     SYLVESTRE
-Par Nerine & ses yeux  
+        Par Nerine & ses yeux  
 Je me comporteray tousjours de bien en mieux.  < Fin du troisiesme Acte >
 
 
@@ -1939,7 +1939,7 @@ Je ne croy pas pourtant que mon pere en ait une…
 Il vient, n'achevez pas.  
 
     LIDAMAS
-O Ciel qu'il me déplaist,  
+        O Ciel qu'il me déplaist,  
 Jamais homme ne fut plus importun qu'il l'est.  
 
 
@@ -1980,7 +1980,7 @@ Madame faites-en un prompt commandement.
 Sortez.  
 
     SYLVESTRE
-Que je te vay cajoler diablement.  
+        Que je te vay cajoler diablement.  
 
     CLEANTHE
 Madame, je disois que tous les avantages  
@@ -2012,7 +2012,7 @@ Que je baise la main qui me la vient de faire.
 Hé ! Monsieur.  
 
     CLEANTHE
-Quels transports⁎ ? ô Ciel je n'en puis plus.  
+        Quels transports⁎ ? ô Ciel je n'en puis plus.  
 Encor un peu de temps, & j'expire dessus.  
 Chaste albastre animé, belle main que je touche,  
 Tu peux prendre mon cœur, il est dedans ma bouche.  
@@ -2021,7 +2021,7 @@ Tu peux prendre mon cœur, il est dedans ma bouche.
 Monsieur encor un coup.  
 
     CLEANTHE
-Ah Madame, laissez,  
+        Ah Madame, laissez,  
 Je reçoy du plaisir plus que vous ne pensez.  
 
     OLIMPE
@@ -2038,19 +2038,19 @@ Adieu de mes pensers, objet⁎ cruel & doux.
 Sylvestre.  
 
     SYLVESTRE *à Nerine*
-A te quitter faut-il donc me resoudre,  
+        A te quitter faut-il donc me resoudre,  
 Joly moulin à vent où j'ay dessein de moudre.  
 Que vouléz-vous de moy ?  
 
     CLEANTHE
-Rien qu'en estre conduit.  
+        Rien qu'en estre conduit.  
 
     SYLVESTRE
 Allons, je suis le jour & vous estes la nuit,  
 Suivez vostre falot.⁎  
 
     LIDAMAS
-Il en tient⁎ le bon-homme [214],  
+        Il en tient⁎ le bon-homme [214],  
 Il va benir tout seul le feu qui le consomme [215],  
 Il croit avoir baisé cette adorable main.  
 
@@ -2062,7 +2062,7 @@ De vous faire aujourd'huy compliment & visite.
 Je les vay recevoir.  
 
     LIDAMAS
-Adieu donc je vous quitte.  
+        Adieu donc je vous quitte.  
 
 
 ### Scène III
@@ -2150,7 +2150,7 @@ Allons nous-en d'icy puis qu'il nous le conseille,
 Ma maitresse jamais n'eut guére de rigueur,  
 J'espere en obtenir pardon de ma longueur  
 Pourveu que le destin n'ait pas voulu permettre  
-Que l'abord⁎ de Thelame ait devancé sa lettre.                    
+Que l'abord⁎ de Thelame ait devancé sa lettre.  
 Mais obstacle nouveau, voici venir quelqu'un,  
 C'est Cleanthe, évitons cet Aveugle importun,  
 Et parce que Sylvestre avecque luy s'approche,  
@@ -2212,7 +2212,7 @@ Suffit que par mes soins je sauvay ce coupable.
 Revenons à Nerine, elle te plaist ?  
 
     SYLVESTRE
-Sans fable.  
+        Sans fable.  
 
     CLEANTHE
 Elle sçait donc de toy mon feint aveuglement ?  
@@ -2248,7 +2248,7 @@ Ou vous suivrez vostre devoir.
 Thelame.  
 
     CLEANTHE *Apres avoir leu.*
-Transporté de tristesse & de joye  
+        Transporté de tristesse & de joye  
 Comme entre deux chemins mon esprit se fourvoye,  
 Deux divers mouvemens⁎ me tirent devers [229]eux,  
 Et je doute lequel je doy suivre des deux.  
@@ -2351,7 +2351,7 @@ Permettez mon départ que le Ciel a conclu
 Adieu.  
 
     MELICE
-Je ne sçaurois vous dire adieu Thelame  
+        Je ne sçaurois vous dire adieu Thelame  
 On manque de parolle au poinct de perdre l'Ame  
 Recevez un soupir au defaut de la voix.  
 Mais qui [236] conduit icy, ce valet que je vois.  
@@ -2394,7 +2394,7 @@ Dans qui mon cœur se plonge & mon ame se noye,
 J'ay pour l'heure un bon œil.  
 
     MELICE
-Sylvestre me l'a dit  
+        Sylvestre me l'a dit  
 Le Ciel quand il luy plaist agit sans contredit.  
 Puisqu'il a commencé de vous rendre la veuë  
 Ce grand commencement doit avoir pleine issuë,  
@@ -2431,7 +2431,7 @@ S'il plaist de vous servir d'un moyen que je treuve [242].
 Volontiers.  
 
     MELICE
-Laissant donc les discours superflus  
+        Laissant donc les discours superflus  
 Vostre œil gauche est le bon, mettez la main dessus  
 Ainsi vous jugerez avec plus d'assurance  
 Si des objets présens le droict a connoissance  
@@ -2446,7 +2446,7 @@ Sortez.
 
     CLEANTHE *arrestant Thelame.*
             
-Vous avez fait un songe veritable  
+        Vous avez fait un songe veritable  
 Melice je vous voy, je voy Thelame aussi  
 O Ciel ! qu'heureusement ce songe a reussy.  
 
@@ -2454,7 +2454,7 @@ O Ciel ! qu'heureusement ce songe a reussy.
 Que je suis estonnée⁎.  
 
     SYLVESTRE
-Il faut crier miracle.  
+        Il faut crier miracle.  
 
     THELAME
 Monsieur ne croyez pas qu'en dépit de l'obstacle  
@@ -2464,7 +2464,7 @@ Ce coupable dessein, n'entre pas dans mon ame
 J'en jure.  
 
     CLEANTHE
-Brisez là [245]. Je le sçay bien Thelame  
+        Brisez là [245]. Je le sçay bien Thelame  
 Les traits de vostre main, m'ont fait voir vostre cœur⁎  
 Et passant jusqu'au mien ont tüé ma rigueur ,   
 Plus touché de respect que cette ingratte fille  
@@ -2474,7 +2474,7 @@ Vous avez conservé l'honneur de ma famille.
 Moy Monsieur ! espargnez.  
 
     CLEANTHE
-Vostre discretion  
+        Vostre discretion  
 Vous fait desavoüer cette bonne action.  
 Mais je suis esclaircy de toute cette histoire  
 Vos nobles sentimens sont peints dans ma memoire.  
@@ -2510,7 +2510,7 @@ Que puissions-nous mourir, si nous le declarons.
 En jurez vous tous deux.  
 
     THELAME & MELICE *ensemble.*
-Ouy nous vous en jurons.  < Fin du quatriesme Acte. >
+        Ouy nous vous en jurons.  < Fin du quatriesme Acte. >
 
 
 ## Acte V
@@ -2613,7 +2613,7 @@ Qui donne de l'argent, preste bien du silence,
 Escoutez-moy parler ; je voy clair ?  
 
     LIDAMAS
-Je le croy.  
+        Je le croy.  
 
     SYLVESTRE
 Vostre pére, Monsieur, voit aussi clair que moy.  
@@ -2636,7 +2636,7 @@ Il vint avecque l'Air respirer la lumiere.
 Il n'est donc pas aveugle ?  
 
     SYLVESTRE
-Et jamais ne le fut.  
+        Et jamais ne le fut.  
 
     LIDAMAS
 Apprens nous de sa feinte & la cause & le but.  
@@ -2721,13 +2721,13 @@ N'ay-je pas entendu la voix de Lidamas.
 Cela se peut, il sort.  
 
     CLEANTHE
-Avec celle que j'ayme ?  
+        Avec celle que j'ayme ?  
 
     SYLVESTRE
 Justement.  
 
     CLEANTHE
-Aucun d'eux ne sçait mon stratageme ?  
+        Aucun d'eux ne sçait mon stratageme ?  
 
     SYLVESTRE
 Je demeure confus à cét interrogat⁎  
@@ -2776,7 +2776,7 @@ Lidamas, Cleanthe.
 Quoy le livre à la main ?  
 
     CLEANTHE
-Ouy mon fils & j'avoüe  
+        Ouy mon fils & j'avoüe  
 Que le Ciel en ses soings merite qu'on le louë,  
 Sylvestre de ma part vous est allé chercher  
 Et sa longueur passoit au poinct de me fascher.  
@@ -2819,7 +2819,7 @@ Et sort du cabinet d'un excellent Autheur.
 Seroit-il bien possible ?  
 
     LIDAMAS
-Il est tres véritable.  
+        Il est tres véritable.  
 
     CLEANTHE
 Qu'avec un tel valet, un Maistre est miserable⁎,  
@@ -2927,13 +2927,13 @@ Quel qu'il soit autant vaut [276] qu'il vous soit immolé,
 Son Nom ?  
 
     OLIMPE
-C'est Lidamas.  
+    C'est Lidamas.  
 
     CLEANTHE
-Lidamas !  
+    Lidamas !  
 
     OLIMPE
-Ouy luy-mesme.  
+        Ouy luy-mesme.  
 
     CLEANTHE
 Vous a fait un affront, charmant⁎ objet⁎ que j'ayme,  
@@ -2955,7 +2955,7 @@ Lidamas, tenant Sylvestre, Sylvestre, Cleanthe, Olimpe.
 Fay bien l'espouventé.  
 
     SYLVESTRE
-Vous ne cessez de dire ,   
+        Vous ne cessez de dire ,   
 Je réüssiray mieux que vous qui sçavez lire.  
 
     LIDAMAS
@@ -3056,7 +3056,7 @@ Olimpe est sans attraits, ainsi que vous sans yeux.
 Lasche, tu m'as trahy.  
 
     SYLVESTRE
-Pardonnez-moy, mon Maistre.  
+        Pardonnez-moy, mon Maistre.  
 
     LIDAMAS
 La verité de soy se fait assez connaistre.  
@@ -3130,7 +3130,7 @@ Que nous avons joüé⁎ [290], l'Aveugle Clair-voyant.
 Entrons.  
 
     SYLVESTRE
-Toubeau⁎ Monsieur, où courrez-vous si viste  
+        Toubeau⁎ Monsieur, où courrez-vous si viste  
 Vous arriverez bien, où vous irez au giste,  
 Avez-vous oublié mon Amour copieux ?  
 
@@ -3142,7 +3142,7 @@ Madame consentez à ce beau mariage.
 J'y consens.  
 
     SYLVESTRE *à Nerine.*
-J'auray soing de la paix du Mesnage,  
+        J'auray soing de la paix du Mesnage,  
 Et sans que je t'oblige à payer ma façon [291],  
 J'essairay dés demain à [292] te faire un garçon.  < Fin >
 

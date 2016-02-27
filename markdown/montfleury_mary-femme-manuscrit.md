@@ -1,5 +1,5 @@
 ---
-identifier: montfleury_mary  
+identifier: montfleury_mary-femme-manuscrit  
 creator: Montfleury, Antoine Jacob  
 date: 1664  
 title: Le Mary sans femme. Comédie  
@@ -55,26 +55,26 @@ Carlos, Julie, Marine, Tomire
 Ah Carlos  
 
     CARLOS
-ah julie  
+    ah julie  
 
     TOMIRE
-ah Marine  
+    ah Marine  
 
     MARINE
-ah Tomire  
+        ah Tomire  
 Ne pleure donc plus tant car tu me feras rire  
 
     CARLOS
 Helas que *vostre* sort  
 
     JULIE
-helas que noz malheurs  
+        helas que noz malheurs  
 
     CARLOS
 Me va causer d'ennuys  
 
     JULIE
-me vont couster de pleurs  
+        me vont couster de pleurs  
 
     CARLOS
 *Ah que* si vous pouviez scavoir a quoy m'expose  
@@ -110,7 +110,7 @@ Le peril ou j'estois et vostre desespoir
 Et ses conseils…  
 
     MARINE
-allons mettons tout sur marine  
+        allons mettons tout sur marine  
 Voyons qu'ay je tant fait ça que ie m'examine  
 Je vous voyois tous deux desesperez mourantz  
 L'un enrageoit dehors l'autre pleuroit dedans  
@@ -175,7 +175,7 @@ A parler turc *pour quand* le traistre m'*auroit* pris
 Vous ne croiriez jamais  
 
     *Carlos*
-*Va nous sçavons ta peine*  
+        *Va nous sçavons ta peine*  
 Ne nous en parle plus puisque ta plainte est vaine  
 Nous partageons tes maux et tu dois sur ce point  
 
@@ -187,11 +187,11 @@ Pour moy ie ne sçaurois perdre encor l'esperance
 De revoir mon pays  
 
     JULIE
-eh sur quelle *apparence*  
+        eh sur quelle *apparence*  
 Surquoy...  
 
     MARINE
-je ne sçaurois croire que vostre espoux  
+        je ne sçaurois croire que vostre espoux  
 Ou vostre mere n'ayent quelque pitié de *nous*  
 vostre mere vous ayme et je me persuade  
 Que vostre digne espoux dom brusquin d'Alvarade  
@@ -213,7 +213,7 @@ Mais dis nous donc surquoy car tu sçais qu'en l'estat
 Ou...  
 
     MARINE
-c'est qu'en arrivant un certain renegat  
+        c'est qu'en arrivant un certain renegat  
 Touché de ma douleur voulut bien me promettre  
 Que si je luy voulois donner un mot de lettre  
 *De quelque endroit qu'icy nous eussions peu venir*  
@@ -223,23 +223,23 @@ Il trouveroit moyen de la faire tenir
 Et tu las escrite ?  
 
     MARINE
-*ouy*  
+    *ouy*  
 
     *Carlos*
-*tu l'auras donc donnée*  
+        *tu l'auras donc donnée*  
 
     *Marine*
 Sans doute  
 
     *Carlos*
-*ainsy tu crois que lon l'ayt envoyée*  
+        *ainsy tu crois que lon l'ayt envoyée*  
 
     *Marine*
 Il me la dit ainsy, l'autre jour je le vis  
 Et je sceus...  
 
     *Carlos*
-*ah voicy le comble a mes ennuys*  
+        *ah voicy le comble a mes ennuys*  
 Du dernier des malheurs ma disgrace est suivie  
 Je n'auray ny repos ny plaisir de ma Vie  
 Je suis perdu madame et mon cœur desormais  
@@ -247,7 +247,7 @@ Va croire a tous momens vous perdre pour jamais
 Jamais d'aucun espoir...  
 
     *Julie*
-*il faudroit des miracles*  
+        *il faudroit des miracles*  
 Les lettres d'icy la rencontrent tant d'obstacles  
 Qu'il faudroit qu'un demon pour nous persecuter  
 Se fust exprez chargé du soin de la porter  
@@ -270,27 +270,27 @@ Ne voulust a la fin quelque jour… que sçait-on
 Ce *qui peut arriver*  
 
     TOMIRE
-elle a raison je pense  
+        elle a raison je pense  
 Tenez ces chiens de turcs nont point de conscience  
 Et... Mais quand dom brusquin Viendroit icy ma foy  
 Je doute qu'il voulust te racheter  
 
     *Marine*
-*pourquoy*  
+        *pourquoy*  
 
     *Tomire*
 Ce fust par ton moyen que lon plia bagage  
 Et...  
 
     M*arine*
-*j'ay toujours si bien joüé mon personnage*  
+        *j'ay toujours si bien joüé mon personnage*  
 Qu'il aura soubçonné tous les gens du logis  
 plutost que de nous croire icy par mes avis  
 *Et je sçay qu'il faisoit trop de fonds sur mon Zele*  
 Pour m'accuser jamais...  
 
     CARLOS
-*ah que tu m'es cruelle*  
+        *ah que tu m'es cruelle*  
 Fatiment tu le sçais ayme a nous obliger  
 *Il est nostre* patron et gouverneur d'Alger  
 *Peut estre que les soins* que i'ay *Ø* mis en usage  
@@ -298,7 +298,7 @@ Fatiment tu le sçais ayme a nous obliger
 Mon oncle…  
 
     MARINE
-tout cela n'anroit rien fait pour nous  
+        tout cela n'anroit rien fait pour nous  
 Vostre oncle tout au plus n'eust racheté que vous  
 
     TOMIRE
@@ -324,7 +324,7 @@ Son chagrin se pouroit repandre sur vous deux
 Je vous en averty  
 
     CARLOS
-*Suffit je vous rend* grace  
+        *Suffit je vous rend* grace  
 
     ZAÏRE
 Elle est depuis huit jours dun bouru qui me passe  
@@ -385,18 +385,18 @@ Mais puisque vous voila je vay les avertir
 Non demeure  
 
     ZAÏRE
-eh souffrez que je les avertisse  
+        eh souffrez que je les avertisse  
 De grace, et trouvez bon que lon vous *resjouisse*  
 Vous avez du chagrin il ne sert qu'a laidir  
 Tenez un petit air vous va ragaillardir  
 Laissez moy faire  
 
     CELIME
-non avant qu'on les appelle  
+        non avant qu'on les appelle  
 Je veux t'entretenir *Ø*  
 
     ZAÏRE
-*moy ? que me voudroit elle*  
+        *moy ? que me voudroit elle*  
 
     CELIME
 Tu vois icy Julie et carlos tous les jours  
@@ -421,7 +421,7 @@ Sans doute ils s'ayment mais quand leurs douleurs s'apaise
 A quoy s occupent ils ? *Ø*  
 
     ZAÏRE
-ils *resvent et* se taisent  
+        ils *resvent et* se taisent  
 Jusqu'a vostre reveil ils sont en cet estat  
 Non jamais entretien de gens ne fust si plat  
 Et je ne croirois *pas* sans le voir d'ordinaire  
@@ -431,7 +431,7 @@ Qu'une femme jamais peut si long temps se taire
 Cependant...  
 
     ZAÏRE
-*mais si tost qu'ils meslent une fois*  
+        *mais si tost qu'ils meslent une fois*  
 Au son des instruments la douceur de leurs voix  
 C'est alors cest alors qu'ils toucheroient des marbres  
 Et qu'ilz feroient dancer les bestes et les arbres  
@@ -461,7 +461,7 @@ Celime, Carlos, julie, Zaïre, Marine Tomire
 M'avez vous preparé quelque air galand  
 
     *Carlos*
-*madame*  
+        *madame*  
 Vous en alez juger nostre captivité  
 Est le sujet surquoy nous l'avons concerté  
 Heureux dans des malheurs que nous ne sçaurions taire  
@@ -528,7 +528,7 @@ L'amour n'inspire rien de plus fort. il l'adore
 Et...  
 
     *Carlos*
-*le dernier couplet est plus touchant encore*  
+        *le dernier couplet est plus touchant encore*  
 
     *Celime*
 Dois je encor m'exposer a voir qu'il s'aplaudit  
@@ -537,7 +537,7 @@ Ils chantent
 Nos deux cœurs  
 
     *Celime*
-*taisez vous vostre chant m'estourdit*  
+        *taisez vous vostre chant m'estourdit*  
 Sortez et me laissez en paix que je respire  
 Vous carlos demeurez et qu'on se retire  
 Vous autres laissez nous et vous Zaïre aussy  
@@ -616,7 +616,7 @@ Monsieur aprez cecy Vous n'avez qu'a vous pendre
 Qu'est ce encor que viens tu m'anoncer  
 
     TOMIRE
-un malheur  
+        un malheur  
 A *perdre la raison* a mourir de douleur  
 *A se desesperer en un mot* a se pendre  
 Et si vous m'en croyez vous irez sans m'entendre  
@@ -628,17 +628,17 @@ Julie est elle morte et *me dois je a ces coups*
 *Ouy* non  
 
     CARLOS
-que me dis tu *Ø*  
+    que me dis tu *Ø*  
 
     TOMIRE
-quelle est morte pour vous  
+        quelle est morte pour vous  
 Quelle vit pour un autre et que jamais œillade...  
 
     CARLOS
 Comment  
 
     TOMIRE
-Vous connoissez dom brusquin d'Alvarade  
+        Vous connoissez dom brusquin d'Alvarade  
 Ce brave dom brusquin cet obstacle a vos feux  
 Fantasque comme un diable et jaloux comme deux  
 Maussade comme trois avare comme quatre  
@@ -647,29 +647,29 @@ Maussade comme trois avare comme quatre
 Et bien  
 
     TOMIRE
-il est icy  
+    il est icy  
 
     CARLOS
-que d'ennuis a combattre  
+        que d'ennuis a combattre  
 Ah ciel il est icy qui te la dit  
 
     TOMIRE
-mes yeux  
+        mes yeux  
 
     CARLOS
 Ne t ont ils point trompé  
 
     TOMIRE
-non je vous respons deux  
+        non je vous respons deux  
 
     CARLOS
 Il est icy  
 
     TOMIRE
-luy mesme  
+    luy mesme  
 
     CARLOS
-*et* le ciel me destine...  
+        *et* le ciel me destine...  
 Voila ce qu'a produit *la* lettre de Marine  
 Mais ou las tu trouvé comment sur *ton* raport  
 
@@ -690,12 +690,12 @@ Estoit chez Fatiman sous le nom de julie
 Helas  
 
     TOMIRE
-Vous sçavez *bien* qu'il ne nous connoist point  
+        Vous sçavez *bien* qu'il ne nous connoist point  
 Venez vous esclaircir vous mesme sur ce point  
 Venez  
 
     CARLOS
-et bien alons nous montrer a sa Veüe  
+        et bien alons nous montrer a sa Veüe  
 Il moura de ma main si la chose est concluë  
 Ou si julie en fin doit partir de ces lieux  
 Je ne le Verray point sans mourir a ses yeux  
@@ -711,7 +711,7 @@ Je vous en avertis examinez vous bien
 Autrement  
 
     CARLOS
-Vien suy moy tomire et ne crains rien  
+        Vien suy moy tomire et ne crains rien  
 
 
 ## Acte Second.
@@ -729,16 +729,16 @@ Son malheur en a fait le butin d'un Corsaire
 Ah morbleu  
 il lit
 
-Fatiman gouverneur dans ces lieux  
+        Fatiman gouverneur dans ces lieux  
 Nous tient esclaves toutes deux  
 En payant noz rançons nostre ennuy se termine  
 Ne perdez point de temps secondez nos souhaitz  
 Elle est plus belle que jamais  
 Et moy plus que jamais...  
-et caetera  
+    et caetera  
 il lit
 
-Marine  
+        Marine  
 *Ne songez point a la chercher*  
 Autrepart que dedans Alger  
 
@@ -753,7 +753,7 @@ Vous estes tout chagrin et malgré tous mes soins
 Je vous voy...  
 
     D : BRUSQUIN
-malepeste on le seroit a moins  
+        malepeste on le seroit a moins  
 Tant qu'avec toy sur mer a duré *ce* Voyage  
 Je n'avois dans l'esprit que la peur du naufrage  
 La crainte *de perir* me donnoit des frissons  
@@ -809,20 +809,20 @@ J'avois un sauf conduit signé du dieu Neptune
 Vous en repentez vous  
 
     D : BRUSQUIN
-Je ne scay mais je crois  
+        Je ne scay mais je crois  
 Que si j'estois chez moy J'y songerois deux fois  
 *Certain* pressentiment ou ma raison s'obstine  
 Me f*on*t...  
 
     GUSMAN
-mais il faut bien que cecy se termine  
+        mais il faut bien que cecy se termine  
 Vous en avez trop fait pour ne pas achever  
 On sçait a quel dessein vous venez d'arriver  
 Et vostre femme enfin ou cocquette ou fidelle  
 En payant sa rançon Vous sera...  
 
     D. BRUSQUIN
-bagatelle  
+        bagatelle  
 Si je puis descouvrir que ce turc pour debut  
 Se soit fait de son chef icy mon substitut  
 Qu'il se soit par ses mains enfin de quelque sorte  
@@ -840,7 +840,7 @@ Pour n'estre pas cru sot un homme l'est il moins
 D'y maraut  
 
     GUSMAN
-mais *par qui scavoir qu'*en sa demeure  
+        mais *par qui scavoir qu'*en sa demeure  
 
     D. BRUSQUIN
 On me doit faire voir marine tout a l'heure  
@@ -848,10 +848,10 @@ Un esclave en entrant me la promis ainsy
 Moyenant…  
 
     GUSMAN
-jentens bien.  
+    jentens bien.  
 
     D. BRUSQUIN
-et je l'attens icy  
+        et je l'attens icy  
 Voy tu je veux sçavoir avant que de conclurre  
 Sur quoy, par qui, comment, et par quelle avanture  
 Julie est *dans* Alger, car a te parler net  
@@ -878,16 +878,16 @@ D : Brusquin, Gusman Marine, Tomire
 Prens bien garde…  
 
     MARINE **bas**
-Suffit  
+    Suffit  
 
     TOMIRE **bas**
-Vous voyez je m'acquite  
+        Vous voyez je m'acquite  
 
     D. BRUSQUIN
 Je vous suis obligé, serviteur  
 
     TOMIRE
-je vous quitte  
+        je vous quitte  
 
 
 ### Scenne troisiesme
@@ -899,20 +899,20 @@ C'est luy mesme et dabord je l'ay bien reconnu
 Ah ! monsieur  
 
     D. BRUSQUIN
-dieu te gard  
+    dieu te gard  
 
     MARINE
-Soyez le bien Venu  
+        Soyez le bien Venu  
 
     D.BRUSQUIN
 Bien ou mal me voila concluons  
 
     MARINE
-quoy vous mesme  
+        quoy vous mesme  
 Venir jusques ici...  
 
     D : BRUSQUIN
-que veux tu quand on ayme  
+        que veux tu quand on ayme  
 On est *fou* lon est *sot* de mettre tous ses soins...  
 
     MARINE
@@ -922,16 +922,16 @@ On seroit *fort* faché que vous le feussiez moins
 Passons  
 
     MARINE
-Julie aura  
+    Julie aura  
 
     D BRUSQUIN
-comment se porte telle  
+        comment se porte telle  
 
     MARINE
 Bien  
 
     D. BRUSQUIN
-comme de tout temps j'ay reconnu ton Zelle  
+        comme de tout temps j'ay reconnu ton Zelle  
 Et que jamais pour moy tu n'eus rien de caché  
 Avant que de conclure icy nostre marché  
 Jay Voulu te parler *icy* sur cette affaire  
@@ -940,11 +940,11 @@ Par amitié pour moy mettant la feinte au croc
 Tu vas a cœur ouvert…  
 
     MARINE
-oh cela vous est hoc  
+        oh cela vous est hoc  
 Tout comme a l'ordinaire, et bien  
 
     D : BRUSQUIN
-ta recompense  
+        ta recompense  
 Au reste passera de loin ton esperance  
 Et je t'ay preparé dequoy te voir un jour  
 Au dessus… tu sçauras le reste a mon retour  
@@ -953,7 +953,7 @@ Au dessus… tu sçauras le reste a mon retour
 Oh Monsieur, parlez donc  
 
     D. BRUSQUIN
-dis moy je te conjure  
+        dis moy je te conjure  
 Comment â quel dessein et par quelle avanture  
 Vous estes toutes deux icy depuis le soir...  
 
@@ -977,11 +977,11 @@ Sur la Mer en carosse, eh qui vous dit cela ?
 Escoutez jusqu'au bout.  
 
     D : BRUSQUIN
-lors qu'on Vous enleva  
+        lors qu'on Vous enleva  
 Vous criastes bien fort ?  
 
     MARINE
-bien fort ? a pleine teste  
+        bien fort ? a pleine teste  
 Aux voleurs, au secours, au meurtre, arreste, arreste  
 Non pour du bruit jamais femmes n'en ont tant fait  
 
@@ -995,11 +995,11 @@ Car dedans ny dehors pas un n'entendit rien
 Enfin il est pourtant tres asseuré…  
 
     D : BRUSQUIN
-Fort bien  
+        Fort bien  
 Passons  
 
     MARINE
-nous arrivons au port *et* cette troupe  
+        nous arrivons au port *et* cette troupe  
 Du carosse nous mit dedans une chaloupe  
 De la dans un vaisseau qui n'attendant plus rien  
 
@@ -1018,13 +1018,13 @@ Nous *mit* dans son vaisseau pour nous conduire icy
 Ou depuis…  
 
     D : BRUSQUIN
-franchement je trouve cette Histoire  
+        franchement je trouve cette Histoire  
 *Un* peu possible mais, bien *Ø* difficile a croire  
 Que devin*e*rent ces gens masquez ? dont les effortz  
 Avoient…  
 
     MARINE
-apparemment ils sont captifs ou mortz  
+        apparemment ils sont captifs ou mortz  
 Mais comme pas un deux ne monstra son visage  
 Je ne vous en puis pas apprendre davantage  
 
@@ -1036,13 +1036,13 @@ Il en est gouverneur et ne va guere en Mer
 Ce fust un autre turc...  
 
     D. BRUSQUIN
-comment en sa puissance  
+        comment en sa puissance  
 
     MARINE
 C'est qu'il est gouverneur  
 
     D : BRUSQUIN
-eh quelle consequence  
+        eh quelle consequence  
 
     MARINE
 En cette qualité par un *sort* peu commun  
@@ -1054,11 +1054,11 @@ Sans doute que ce turc comme c'est leur usage
 Avoit quelque serrail a meubler *Ø*  
 
     MARINE
-*bon ? eh quoy*  
+        *bon ? eh quoy*  
 Toujours prest d'expliquer…  
 
     D : BRUSQUIN
-tout doucement dis moy  
+        tout doucement dis moy  
 Tu sçais bien quil manquoit lorsque l'on prit julie  
 A nostre mariage une ceremonie  
 
@@ -1066,7 +1066,7 @@ A nostre mariage une ceremonie
 Quelle ceremonie  
 
     D : BRUSQUIN
-eh celle que l'amour  
+        eh celle que l'amour  
 Ordonne a frais communs la nuit de ce grand jour  
 Celle *qui chez les* gens que lon marie ensemble  
 Fait un nœud gordien du nœud qui les assemble  
@@ -1077,26 +1077,26 @@ Devoit le soir… enfin celle quon ne fit point
 Et bien ?  
 
     D : BRUSQUIN
-je voudrois bien avant que de conclure  
+        je voudrois bien avant que de conclure  
 Sçavoir si quelque turc espris de sa figure  
 Ne s'est point…  
 
     MARINE
-quoy ?  
+    quoy ?  
 
     D : BRUSQUIN
-chargé de la commission  
+        chargé de la commission  
 De mettre nostre Hymen dans sa perfection  
 
     MARINE
 Quels contes ? par ma foy c'est bien dommage...  
 
     D : BRUSQUIN
-escoute  
+        escoute  
 Tu crois donc qu'il ne s'est rien passé  
 
     MARINE
-le beau doute  
+        le beau doute  
 
     D : BRUSQUIN
 Qu'auprez d'elle ces turcs *nayent* jamais entrepris  
@@ -1107,7 +1107,7 @@ Que de force ou de gré pas un n'*ayt* rien eu d'elle ?
 Pas un  
 
     D BRUSQUIN
-et qu'elle soit aussy sage que belle ?  
+        et qu'elle soit aussy sage que belle ?  
 
     MARINE
 Vous n'en sçauriez douter sans luy faire un affront  
@@ -1141,37 +1141,37 @@ Qui doit a mon retour passer mon esperance
 Tandis que Vous n'avez rien a faire...  
 
     *D Brusquin*
-*Siffait*  
+        *Siffait*  
 Mon dessein n'estoit pas de t'en faire un secret  
 Je veux te marier  
 
     *Marine*
-*me marier*  
+    *me marier*  
 
     *D : Brusquin*
-*toy mesme*  
+        *toy mesme*  
 
     *Marine*
 Avec  
 
     *D : Brusquin*
-*avec un drole assez jeune et qui t'ayme*  
+        *avec un drole assez jeune et qui t'ayme*  
 
     *Marine*
 Le connois-je  
 
     *D Brusquin*
-*ouy*  
+    *ouy*  
 
     *Marine*
-*Son nom*  
+    *Son nom*  
 
     *D. Brusquin*
-*devine ? c'est pascal*  
+        *devine ? c'est pascal*  
 Il m'est un peu parent  
 
     *Marine*
-*quoy cet archibrutal* ?  
+        *quoy cet archibrutal* ?  
 Ce magot ? ce Sagouin ? que chascun dans la rue  
 Prenoit pour vous ? ma foy je serois bien pourveüe  
 Monsieur pour l'estre ainsy on l'est toujours trop tost  
@@ -1180,24 +1180,24 @@ Monsieur pour l'estre ainsy on l'est toujours trop tost
 Eh que luy trouves tu  
 
     *Marine*
-*rien de ce qui me faut*  
+        *rien de ce qui me faut*  
 
     *D : Brusquin*
 Dys  
 
     *Marine*
-*je vous facherois et j'ayme mieux me taire*  
+        *je vous facherois et j'ayme mieux me taire*  
 
     *D : Brusquin*
 Point  
 
     *Marine*
-*que vous ay je fait, soit dit sans vous deplaire*  
+        *que vous ay je fait, soit dit sans vous deplaire*  
 Pour me Vouloir donner un brusque un estourdy  
 Connu pour ce qu'il est de tout...  
 
     *D : Brusquin*
-*pourquoy non dy* ?  
+        *pourquoy non dy* ?  
 
     *Marine*
 C'est que de quelque nom que vostre amour le nomme  
@@ -1206,13 +1206,13 @@ Mais tous et cependant Vous estes des premiers
 A...  
 
     *D : Brusquin*
-*tant mieux il sera propre a tous les mestiers*  
+        *tant mieux il sera propre a tous les mestiers*  
 
     *Marine*
 Propre a tous les mestiers ?  
 
     *D : Brusquin*
-*a tous sur ma parolle*  
+        *a tous sur ma parolle*  
 
     *Marine*
 A quoy diantre est il propre ? est ce que je suis folle  
@@ -1222,54 +1222,54 @@ Il ayme la crapule et boit avec excez
 Et bien il sera bon pour estre peintre  
 
     *Marine*
-*mais*  
+        *mais*  
 Il est quand jl a beu querelleur prest a faire  
 Une jnsulte...  
 
     *D : Brusquin*
-*il faudra le faire mousquetaire*  
+        *il faudra le faire mousquetaire*  
 
     *Marine*
 Mais il ne songe alors qu'a tout tuer enfin  
 *Pour luy vingt hommes mortz...*  
 
     *D Brusquin*
-*faisons le medecin*  
+        *faisons le medecin*  
 
     *Marine*
 Il est fourbe dans tout ce que lon luy voit faire  
 Et de mauvaise foy  
 
     *D : Brusquin*
-*nous le fairons Notaire*  
+        *nous le fairons Notaire*  
 
     *Marine*
 Il a l'air sombre noir le discours outrageant  
 Le cœur dur sans pitié  
 
     *D. Brusquin*
-*nous le ferons sergent*  
+        *nous le ferons sergent*  
 
     *Marine*
 Il empoisonne tout ce qu'on peut dire ou faire  
 Et se meprend souvent  
 
     *D. Brusquin*
-*faisons l'apoticaire*  
+        *faisons l'apoticaire*  
 
     *Marine*
 Toujours prest a tromper si tost que son penchant  
 Trouve une occasion  
 
     *D Brusquin*
-*nous le ferons marchant*  
+        *nous le ferons marchant*  
 
     *Marine*
 Je luy crois comme a Vous la teste un peu mal faite  
 Et le tiens un peu fou  
 
     *D Brusquin*
-*nous le ferons Poete*  
+        *nous le ferons Poete*  
 
     *Marine*
 Se peut il dites moy que vostre entestement  
@@ -1279,44 +1279,44 @@ Outre tous ces deffautz en a cinquante encore
 Il ayme les festins  
 
     *D : Brusquin*
-*on le fera traiteur*  
+        *on le fera traiteur*  
 
     *Marine*
 Et mange comme quatre  
 
     *D Brusquin*
-*il sera procureur*  
+        *il sera procureur*  
 
     *Marine*
 Il veut parler de tout  
 
     *D : Brusquin*
-*il fera la gasette*  
+        *il fera la gasette*  
 
     *Marine*
 Il ayme le grand bruit  
 
     *D : Brusquin*
-*on le fera trompette*  
+        *on le fera trompette*  
 
     *Marine*
 Il ayme a voir des balz  
 
     *D : Brusquin*
-*faisons le violon*  
+        *faisons le violon*  
 
     *Marine*
 Ne peut tenir en place  
 
     *D : Brusquin*
-*il sera postillon*  
+        *il sera postillon*  
 
     *Marine*
 Il ne sera jamais qu'un sot et ses manieres  
 Luy mettront sur la teste...  
 
     *D Brusquin*
-*il aura des confreres*  
+        *il aura des confreres*  
 Et ce sera du mestier de force honnestes gens  
 
     *Marine*
@@ -1354,7 +1354,7 @@ Ta femme ? ce n'est pas julie aparemment
 Comment est ce la vostre ? *eh*  
 
     *Stamorat*
-*ce singe est plaisant*  
+        *ce singe est plaisant*  
 
     FATIMAN
 Non mais pour une femme aussy bien faite qu'elle  
@@ -1373,11 +1373,11 @@ Elle est pourtant ma femme, ou peu s'en faut je n'oze
 C'est un malheur pour elle  
 
     D : BRUSQUIN
-*eh* parlons d'autre choze  
+        *eh* parlons d'autre choze  
 Concluons  
 
     FATIMAN
-j'y consens je voy que tous tes vœux  
+        j'y consens je voy que tous tes vœux  
 Vont a vous voir chez vous bien reunis tous deux  
 Tu meurs de la revoir car je lis dans ton ame  
 Elle a de la beauté, tu l'aymes c'est ta femme  
@@ -1385,14 +1385,14 @@ C'est pourquoy je ne veux que six mille ducatz
 Pour *Ø re*mettre en tes mains...  
 
     D : BRUSQUIN
-quoy Vous ny songez pas  
+        quoy Vous ny songez pas  
 Comment pour une femme  
 
     FATIMAN
-ouy  
+    ouy  
 
     D : BRUSQUIN
-peste quelle somme  
+        peste quelle somme  
 Combien faudroit il donc Vous donner pour un homme  
 
     FATIMAN
@@ -1411,10 +1411,10 @@ Je Vous conseille fort pourtant de n'en plus prendre.
 De femmes  
 
     D BRUSQUIN
-ouy sur tout des environs  
+    ouy sur tout des environs  
 
     FATIMAN
-pourquoy  
+        pourquoy  
 
     D : BRUSQUIN
 C'est que pour vous parler franc et de bonne foy  
@@ -1429,7 +1429,7 @@ C'est beaucoup il ne faut point tant faire la mine
 Tu les veux toutes deux  
 
     D : BRUSQUIN
-ouy je *la veux* aussy  
+        ouy je *la veux* aussy  
 Si lon vendoit chez nous les femmes comme icy  
 Pour moitié de largent que j'offre pour la mienne  
 J'en aurois a choisir *au* moins une dousaine  
@@ -1444,20 +1444,20 @@ Que largent a la main *ou* me laisser en paix
 Allez  
 
     D : BRUSQUIN
-quelle somme ah j'en ay la mort dans l'ame  
+        quelle somme ah j'en ay la mort dans l'ame  
 J'aymerois presque autant qu'ils gardassent ma femme  
 Il pouroit se desdire il faut se depecher  
 Ah chien de turc...  
 
     FATIMAN
-plaist il ?  
+    plaist il ?  
 
     D : BRUSQUIN
-je m'en vay vous chercher  
+        je m'en vay vous chercher  
 Cinq mille ducatz  
 
     FATIMAN
-*c'est* une affaire concluë  
+        *c'est* une affaire concluë  
 
 
 ### Scenne cinquiesme
@@ -1495,7 +1495,7 @@ Elle ne m'a pourtant rien dit de tout cela
 *Comment tu n'en scais rien* ?  
 
     *Zaïre*
-*je ne dis pas cela*  
+        *je ne dis pas cela*  
 
     *Fatiman*
 Tu le scais ? dis moy donc quelle raison l'arreste...  
@@ -1505,7 +1505,7 @@ Pour dire des secretz il faut du teste a teste
 Ne voyez vous pas bien qu'on m'escoute  
 
     *Fatiman*
-*sortez*  
+        *sortez*  
 
 
 ### Scenne septiesme
@@ -1516,24 +1516,24 @@ Fatiman Zaïre
 Vous n'en scavez rien  
 
     *Fatiman*
-*non*  
+    *non*  
 
     *Zaïre*
-*mais vous vous en doutez*  
+        *mais vous vous en doutez*  
 
     *Fatiman*
 Point  
 
     *Zaïre*
-*Sçachez aussy bien ce secret me suffoque*  
+        *Sçachez aussy bien ce secret me suffoque*  
 Que de tout vostre amour ma maistresse se mocque  
 Qu'elle adore carlos.  
 
     *Fatiman*
-*Un vil esclave*  
+    *Un vil esclave*  
 
     *Zaire*
-*luy*  
+        *luy*  
 Elle l'espousera s'il veut des aujourdhuy  
 Et je tiens vostre hymen une affaire manquée  
 Elle s'en est des hier a luy mesme expliquée  
@@ -1544,10 +1544,10 @@ J'entendis que s'il veut prendre le moindre soin...
 Eh que luy repondit carlos ?  
 
     *Zaïre*
-*rien*  
+    *rien*  
 
     *Fatiman*
-*rien ? j'admire*  
+        *rien ? j'admire*  
 
     *Zaïre*
 Il estoit si honteux qu'il ne sçavoit que dire  
@@ -1557,7 +1557,7 @@ Sortit en luy disant venez demain m'aprendre
 Quel choix vous aurez fait, mais songez y  
 
     *Fatiman*
-*se rendre*  
+        *se rendre*  
 A l'amour d'un esclave il faut dissimuler  
 C'est dessur ce sujet quelle luy veut parler  
 Sans doute il faut tacher d'entendre sa response  
@@ -1566,7 +1566,7 @@ Tandis que sur lespoir de recevoir sa main
 Je vay les envoyer adieu  
 
     *Celime*
-*jusqu'a demain*  
+        *jusqu'a demain*  
 
 
 ### Scenne huitiesme
@@ -1580,7 +1580,7 @@ Carlos Zaïre
 
 
     *Zaïre*
-*celime vous demande*  
+        *celime vous demande*  
 Et julie avec vous de peur qu'elle n'attende  
 Cherchez la promptement et venez sur mes pas  
 
@@ -1667,13 +1667,13 @@ Que le sort a rendu le mien peu favorable
 Vivez  
 
     *Carlo*S
-*je vous promets si l'ennuy qui m'accable*  
+        *je vous promets si l'ennuy qui m'accable*  
 Force mon desespoir a vous mal obeïr  
 De vous aymer du moins jusqu'au dernier soupir  
 A dieu  
 
     *Julie*
-*r'entrons voicy cet espoux*  
+    *r'entrons voicy cet espoux*  
 
 
 ### Scenne Unsiesme
@@ -1681,7 +1681,7 @@ Julie D : Brusquin
 
 
     D : BRUSQUIN
-*c'est* ma femme  
+        *c'est* ma femme  
 Sans doute vous faisiez vos adieux et sa flame  
 S'occupoit... paix je vays pour mitiger vos feux  
 Mettre quelques arpens de mer entre vous deux  
@@ -1761,7 +1761,7 @@ Le secret de mon cœur, souviens toy que ta vie
 Depend de le garder, qu'a me trahir...  
 
     *Zaïre*
-*helas*  
+        *helas*  
 Vous ? a la question je n'en parlerois pas.  
 
     *Celime*
@@ -1791,16 +1791,16 @@ Hors un oncle qu'il a vieux riche et sans enfans
 Sont plus gueux...  
 
     CELIME
-mais ayant cet oncle est il croyable  
+        mais ayant cet oncle est il croyable  
 Qu'il l'abandonne...  
 
     TOMIRE
-il est avare comme un diable  
+        il est avare comme un diable  
 Madame et nous verroit plutost crever tous deux  
 Que de donner *jamais*  
 
     CELIME
-*mais enfin* estant vieux  
+        *mais enfin* estant vieux  
 *Sa mort rendra carlos heritier* d une somme...  
 
     TOMIRE
@@ -1811,23 +1811,23 @@ Et qu'il ne veut point voir de medecins je doute
 Qu'il meure *de long temps, ny que son bien*  
 
     CELIME
-*escoute*  
+        *escoute*  
 Tu resvois en passant qui t'occupoit l'esprit  
 
     TOMIRE
 Carlos  
 
     CELIME
-*et* ses amours  
+    *et* ses amours  
 
     *Tomire*
-*ma foy Vous l'avez dit*  
+        *ma foy Vous l'avez dit*  
 
     *Celime*
 Aprens nous ce que c'est  
 
     TOMIRE
-*ah* ces historiettes  
+        *ah* ces historiettes  
 De misteres galans, d'jntrigues d'amourettes  
 Comme Vous jugez bien sont de petits secrets  
 Qu un valet bien discret ne revele jamais  
@@ -1852,10 +1852,10 @@ Ne peut *d'un moindre* prix...
 
 
     TOMIRE
-oh c'est…  
+    oh c'est…  
 
     CELIME
-prens jayme a voir  
+        prens jayme a voir  
 Que rien contre carlos n'esbranle ton devoir  
 Son interest m'est cher qu'a l'avenir ton Zelle  
 Ne demente jamais une ardeur si fidelle  
@@ -1866,23 +1866,23 @@ Et meurs plutost cent fois que de les reveler
 Oh.  
 
     CELIME
-quand a ses amours qu'on auroit peine a croire  
+        quand a ses amours qu'on auroit peine a croire  
 Carlos m'en a *tantost* conté toute l'histoire  
 Ce n'est plus a present un mistere pour moy  
 Il m'a dit qu'il aymoit Julie  
 
     TOMIRE
-ah je le croy  
+        ah je le croy  
 Cela n'est pas nouveau  
 
     CELIME
-qu'une ardeur mutuelle  
+        qu'une ardeur mutuelle  
 Rendroit malgré leurs fers leur amour eternelle  
 Par quel hazart ils ont perdu la liberté  
 Leurs traverses, leurs pleurs…  
 
     TOMIRE
-il vous a donc conté  
+        il vous a donc conté  
 Comment il l'enleva du logis de sa mere  
 La rencontre qu'il fit de ce vaisseau corsaire  
 
@@ -1891,7 +1891,7 @@ Ouy *leur* embarquement et comment on vous prit
 Le desespoir qu'il eut...  
 
     TOMIRE
-il vous aura donc dit  
+        il vous aura donc dit  
 La… que la chose fut justement accomplie  
 Dans le temps quon venoit de marier Julie  
 Qui haissoit a mort l'espoux quon luy donnoit  
@@ -1900,17 +1900,17 @@ Et que pour se pourvoir contre la Violence
 De sa mere...  
 
     CELIME
-il ma dit tout cela *Ø*  
+    il ma dit tout cela *Ø*  
 
     TOMIRE
-je le pense  
+        je le pense  
 On n'a point de secret jamais pour ses amis  
 
     CELIME
 J'estime fort carlos.  
 
     TOMIRE
-eh vous a-t'il apris  
+        eh vous a-t'il apris  
 Que ce vieux singe a qui lon maria julie  
 Est pour la racheter des hier en barbarie  
 Et qu'avec Fatiman il a fait son marché  
@@ -1926,7 +1926,7 @@ Si j'en avois ouvert la bouche le premier
 Ce monde est ainsy fait  
 
     CELIME
-cette triste nouvelle  
+        cette triste nouvelle  
 Me donne pour carlos une douleur mortelle  
 Je l'avoüe et je plains son sort de si beaux feux  
 Meritoient ce me semble un destin plus heureux  
@@ -1939,7 +1939,7 @@ Car il pert *tout espoir* et l'ennuy qu'il en a…
 Vous ne sçavez donc pas ses esperances  
 
     *Celime*
-*quelles*  
+        *quelles*  
 
     *Tomire*
 Oh oh vrayment depuis j'ay bien d'autres nouvelles  
@@ -1949,14 +1949,14 @@ Julie aloit partir et ne partira point
 Ah ciel que me dis tu ?  
 
     *Tomire*
-*quil est seur de ce point*  
+        *quil est seur de ce point*  
 
     *Celime*
 Qui pourra l'empecher si la chose est concluë  
 Tu mas dit...  
 
     *Tomire*
-*il est vray qu'elle estoit resolue*  
+        *il est vray qu'elle estoit resolue*  
 Mais carlos vient d'avoir au sortir du Divan  
 Un entretien secret avecque fatiman  
 J'jgnore le detail de ce qu'ilz ont peu dire  
@@ -1995,7 +1995,7 @@ Non non ne luy dis rien quand il m'en parlera
 *Je feindray d'jgnorer...*  
 
     *Tomire*
-*tout comme il vous plaira*  
+        *tout comme il vous plaira*  
 
 
 ### Scenne troisiesme
@@ -2012,7 +2012,7 @@ On apprend quelques foys plus quon ne veut sçavoir
 Quand on est curieuse  
 
     *Celime*
-*il est vray mais je songe*  
+        *il est vray mais je songe*  
 Un remede aux ennuis ou ce recit me plonge  
 Ouy je veux voir carlos soupirer vainement  
 L'jngrat ne m'aura point bravée Impunement  
@@ -2025,7 +2025,7 @@ Je les vays pour jamais separer l'un de l'autre
 Je vay...  
 
     *Zaire*
-*je les entens qui chantent et tous deux*  
+        *je les entens qui chantent et tous deux*  
 
     *Celime*
 Escoutons et voyons jusques ou vont leurs feux  
@@ -2052,12 +2052,12 @@ La matiere est galente et je seray bien aise
 De l'entendre  
 
     *Carlos*
-*il sera mal aisé qu'il vous plaise*  
+        *il sera mal aisé qu'il vous plaise*  
 Estant peu concerté madame s'il vous plaist  
 Nous chanterons...  
 
     *Celime*
-*non non chantez le tel qu'il est*  
+        *non non chantez le tel qu'il est*  
 
     *Carlos 
         
@@ -2172,7 +2172,7 @@ Officieusement divertir sa moitié
 Les plaisirs jnnocens  
 
     *D. Brusquin*
-*jnnocens ah je pense*  
+        *jnnocens ah je pense*  
 Qu'il n'entre en vos plaisirs que bien peu d'jnnocence  
 Cependant a l'egard des misteres passez  
 Je voy bien quil faudra tous depens compensez  
@@ -2197,13 +2197,13 @@ Et vous n'en userés jamais comme vous dites
 Jamais me dites vous  
 
     *Julie*
-*non vous disje jamais*  
+        *non vous disje jamais*  
 Vous m'aymez vous sçavez a quel point je vous hais  
 Et vous serez ravy que quelqu'un me console  
 *Du chagrin destre a vous*  
 
     *D : Brusquin*
-*il faut quelle soit folle*  
+        *il faut quelle soit folle*  
 Vous vous figurez donc suivant ce beau discours  
 Me voir l'entremeteur de vos tendres amours  
 Que flatant d'un amant la tendresse et la vostre  
@@ -2218,7 +2218,7 @@ Me vanterez sa flame et que vous me prierez
 De l'aymer...  
 
     *D : Brusquin*
-*taisez vous taisez vous et r'entrez*  
+        *taisez vous taisez vous et r'entrez*  
 Ou changez de discours ou fuyez ma presence  
 Vous disje car je sens que je perds patience  
 
@@ -2239,7 +2239,7 @@ Fatiman, Carlos D : Brusquin Stamorat
 
 
     *Fatiman*
-*j'aperçoy Dom brusquin d'Alvarade*  
+        *j'aperçoy Dom brusquin d'Alvarade*  
 Et je luy vais donner une si rude aubade  
 Qu'il maudira le jour quon les unit tous deux  
 Pour l'ingrate beauté qui mesprise mes feux  
@@ -2295,7 +2295,7 @@ Il faut qu'absolument vous y soyez tous deux
 Vous raillez  
 
     FATIMAN
-il le faut vous disje ; et je le veux  
+        il le faut vous disje ; et je le veux  
 
     D : BRUSQUIN
 *Oh oh mais quelle est donc* cette ceremonie  
@@ -2306,19 +2306,19 @@ Qui veut et ma presence et celle de julie
 C'est que je veux ce soir…  
 
     D. BRUSQUIN
-et bien  
+    et bien  
 
     FATIMAN
-la marier  
+        la marier  
 
     D : BRUSQUIN
 Julie ?  
 
     FATIMAN
-elle  
+    elle  
 
     D : BRUSQUIN
-expliquons s'il vous plaist ce langage  
+        expliquons s'il vous plaist ce langage  
 Est ce qu'on doute icy de nostre mariage  
 Et que craignant en mer pour son honnesteté  
 On veut nous marier pour plus de seureté  
@@ -2327,10 +2327,10 @@ On veut nous marier pour plus de seureté
 Non  
 
     D : BRUSQUIN
-non  
+    non  
 
     FATIMAN
-non je scais bien que tu las espousée  
+        non je scais bien que tu las espousée  
 Que c'est contre son gré que lon la mariée  
 Que rien ne vous unit *tous deux* que quelques motz  
 Qui n'ont point eu deffet ainsy pour son repos  
@@ -2343,10 +2343,10 @@ Et je luy vay ce soir donner un autre espoux
 A ma Femme  
 
     FATIMAN
-a ta femme et de plus  
+    a ta femme et de plus  
 
     D : BRUSQUIN
-quel negoce...  
+        quel negoce...  
 
     FATIMAN
 Ton argent servira pour les frais de la nopce  
@@ -2357,10 +2357,10 @@ Vous pretendez ce soir marier a mes yeux
 Qui *Ø* Julie ?  
 
     FATIMAN
-ouy  
+    ouy  
 
     D : BRUSQUIN
-ma femme ? *ah le traitre* ah j'enrage  
+        ma femme ? *ah le traitre* ah j'enrage  
 De quel droit s'il vous plaist rompre mon mariage  
 
     FATIMAN
@@ -2388,26 +2388,26 @@ Est ce un arrest pour nous sans apel, et ma bourse
 N'en peut elle adoucir…  
 
     FATIMAN
-l'affaire est sans ressource  
+        l'affaire est sans ressource  
 Je luy donne un espoux *ce soir, et ces* discours...  
 
     D : BRUSQUIN
 Sera ce pour long temps  
 
     FATIMAN
-ce sera pour tousjours  
+        ce sera pour tousjours  
 
     D : BRUSQUIN
 La t on dit a Julie ?  
 
     FATIMAN
-ouy je luy viens d'aprendre  
+        ouy je luy viens d'aprendre  
 
     D : BRUSQUIN
 Que dit elle a cela ?  
 
     FATIMAN
-quelle est preste a se rendre  
+        quelle est preste a se rendre  
 Et qu'elle aimeroit mieux *avec un tel espoux*  
 *Porter toujours de* fers *qu'estre* reyne avec *vous*  
 
@@ -2417,14 +2417,14 @@ Et quel est ce beau filz qui cause tant de flame
 Ø  
 
     FATIMAN
-*Tu las veu plusieurs fois*  
+    *Tu las veu plusieurs fois*  
 
     *D : Brusquin*
-*mais expliquons nous mieux*  
+        *mais expliquons nous mieux*  
 Est il pres est il loin  
 
     *Fatiman*
-*il est devant tes yeux*  
+        *il est devant tes yeux*  
 
     D. BRUSQUIN
 *Ah double scelerat je m'en doutois dans* l'ame  
@@ -2503,7 +2503,7 @@ Que vous me trahissez et que toute vostre ame
 Brusle d'un feu secret  
 
     *Fatiman*
-*moy vous trahir madame*  
+        *moy vous trahir madame*  
 
     *Celime*
 Ouy je scay puis qu'il faut m'expliquer clairement  
@@ -2562,7 +2562,7 @@ Fatiman Stamorat
 Vous l'avez irritée  
 
     *Fatiman*
-*est ce ainsy quon me traitte*  
+        *est ce ainsy quon me traitte*  
 Ingratte je voy trop qu'elle raison secrette  
 Veut qu'en rendant julie on l'esloigne de vous  
 Je ne suis pas l'objet de vos soubçons jaloux  
@@ -2578,7 +2578,7 @@ Mais voulant lespouser vostre amour combatu
 Pourra-til aysement...  
 
     *Fatiman*
-*moy l'espouser dis tu* ?  
+        *moy l'espouser dis tu* ?  
 Je voudrois de sa main sans que son cœur se donne ?  
 Ses grands biens me charmoient autant que sa personne  
 Mais puis qu'un feu secret sobstine a m'outrager  
@@ -2605,7 +2605,7 @@ Tomire, Marine
 Eh marine  
 
     MARINE
-*eh va ten ou tu dis qu'on t'envoye*  
+        *eh va ten ou tu dis qu'on t'envoye*  
 
     TOMIRE
 Teste a teste *un moment souffre que je te voye*  
@@ -2617,7 +2617,7 @@ Toy :* marche te dit on tu me la baille* belle
 M'en conter  
 
     TOMIRE
-ouy comment est ce chose nouvelle  
+        ouy comment est ce chose nouvelle  
 Avant que ta maistresse eust eu son sot espoux  
 Est ce que je manquois jamais au rendez vous  
 Et tandis que mon maistre entretenoit Julie  
@@ -2641,7 +2641,7 @@ Qu'on commance a m'aymer que pour m'aymer toujours
 Quand on ayme on *le dit*  
 
     TOMIRE
-en estois je capable  
+        en estois je capable  
 Javois pour directeur un *turc* jmpitoyable  
 Qui depuis le matin jusqu'a minuit sonnant  
 Querelle a lettre veüe et rosse argent comptent  
@@ -2657,7 +2657,7 @@ Et folastrer un peu sur nouveaux frais je meure
 Si mon cœur…  
 
     MARINE
-et demain peut estre ou dans une heure  
+        et demain peut estre ou dans une heure  
 Si les coups de baston surviennent la dessus  
 Tu ne me diras rien ou ne m'aymeras plus  
 Je pretens qu'un amant en pareille aventure  
@@ -2667,7 +2667,7 @@ A qui la peur des coups fait faire le plongeon
 Entens tu ?  
 
     TOMIRE
-cependant a regret je m'en vante  
+        cependant a regret je m'en vante  
 Mon amour n'est point ladre et la peur l'espouvante  
 J'en conviens c'est pour moy si tu veux un malheur  
 Mais j'ay la peau fort tendre aussy bien que le cœur  
@@ -2676,10 +2676,10 @@ Mais j'ay la peau fort tendre aussy bien que le cœur
 Ma tantost promis...  
 
     MARINE
-quoy ?  
+    quoy ?  
 
     TOMIRE
-que nous serions unis  
+        que nous serions unis  
 
     MARINE
 Il vaudroit mieux pour toy que je *Ø* leus*se* promis  
@@ -2699,7 +2699,7 @@ Mais as tu du regret de l'espoir qu'on me donne
 Je ne dis pas cela  
 
     *Tomire*
-*touche donc la friponne*  
+        *touche donc la friponne*  
 
     *Marine*
 Voicy Julie adieu va songe a detaler  
@@ -2769,14 +2769,14 @@ Julie, Carlos, Tomire en riant
 Qu'as tu donc  
 
     TOMIRE
-*je ne sçay mais j'ay sujet de croire*  
+        *je ne sçay mais j'ay sujet de croire*  
 Que nous verrons icy quelque plaisante histoire  
 
     *Carlos*
 Comment donc et surquoy...  
 
     TOMIRE
-l'jllustre Dom brusquin  
+        l'jllustre Dom brusquin  
 S'en aloit vers le port fort outré de chagrin  
 Donnant les turcs au diable et resolu sur l'heure  
 De se remettre en mer pour changer de demeure  
@@ -2821,7 +2821,7 @@ Et si ce Fatiman veut lespouser aussy
 Le Voicy  
 
     *Julie*
-*je ne veux ny le voir ny l'entendre*  
+        *je ne veux ny le voir ny l'entendre*  
 
     *Carlos*
 Fatiman l'attendoit et je luy vais apprendre  
@@ -2841,15 +2841,15 @@ Ne s'est veu mieux *rossé* ny plus civilement
 Verrons nous fatiman  
 
     STAMORAT
-*vous lallez voir paroistre*  
+        *vous lallez voir paroistre*  
 Il doit bien tost icy mais il vient  
 
     D : BRUSQUIN
-*a le traistre*  
+        *a le traistre*  
 Rit entre cuir et chair *de me voir...*  
 
     STAMORAT
-*parlez bas*  
+        *parlez bas*  
 
 
 ### Scenne huitiesme
@@ -2905,7 +2905,7 @@ Je te feray partir tu ne le verras point
 Mais a condition  
 
     D : BRUSQUIN
-quel est ce nouveau pacte  
+        quel est ce nouveau pacte  
 
     FATIMAN
 Qu'avant que de partir on mettra dans un acte  
@@ -2921,7 +2921,7 @@ Qu'a cet *effort* pour toy sa bonté se resout
 Que mesme a tes depens...  
 
     D BRUSQUIN
-le papier souffre tout  
+        le papier souffre tout  
 Que lon y mette tout ce qu'on y voudra mettre  
 Pourrois je l'empecher je veux bien men remettre  
 Sur les soins que je croy que vous mesme en *prendrez*  
@@ -2933,11 +2933,11 @@ Il faudra le signer et puis vous partirez
 Moy le signer  
 
     FATIMAN
-ouy *vous* la chose estant escrite  
+        ouy *vous* la chose estant escrite  
 Il faudra bien signer  
 
     D : BRUSQUIN
-ah le chien d'hypocrite  
+        ah le chien d'hypocrite  
 Quoy vouloir qu'en signant un pareil concordat  
 Je passe pour un sot sur mon certificat  
 Et que pour ma moitié par escrit je convienne  
@@ -2961,7 +2961,7 @@ Ayt pris l'un de vous deux et laissé lautre en paix
 Quiconque restera  
 
     D : BRUSQUIN
-moy captif et le vostre  
+        moy captif et le vostre  
 
     FATIMAN
 Ira porter chez luy des nouvelles de l'autre  
@@ -2972,10 +2972,10 @@ Par divertissement pour t'aprendre a ramer
 Qui moy ramer ?  
 
     FATIMAN
-toy mesme  
+    toy mesme  
 
     D BRUSQUIN
-ah ciel quel coup de foudre ?  
+        ah ciel quel coup de foudre ?  
 
     FATIMAN
 Souviens toy que tu n'as qu'une heure a te resoudre  
@@ -2984,10 +2984,10 @@ Quon le mette a la chaisne et qu'on n'en parle plus
 C'est a dire...  
 
     *D : Brusquin*
-*ah* !  
+    *ah* !  
 
     STAMORAT
-*j'entens* forçat sur les galeres  
+        *j'entens* forçat sur les galeres  
 Qui des costes d'Alger partiront les premieres  
 
     FATIMAN
@@ -3030,7 +3030,7 @@ Le frere de carlos vient d'arriver icy ?
 *Et l'oncle qu'ils avoient est mort* ?  
 
     TOMIRE
-ouy dieu mercy  
+        ouy dieu mercy  
 Le bonhomme est deffunt et pour longues années  
 Et nous *verrons* bien tost changer noz destinées  
 Que diable pour mourir est ce qu'il attendoit  
@@ -3038,11 +3038,11 @@ Que la peste le creve en quelqu*e* endroit qu'il soit
 Le vieux penart quil est  
 
     MARINE
-ton depit me fait rire  
+        ton depit me fait rire  
 Pourquoy le maudis tu ?  
 
     TOMIRE
-je *dois* bien le maudire  
+        je *dois* bien le maudire  
 Si quelques mois plus tost ce singe eust trespassé  
 Mon gros diable de turc ne m'eust point tant rossé  
 Il avoit force argent et le frere en apport*é*  
@@ -3083,7 +3083,7 @@ J'en pouray quelque jour estre mieux esclaircy
 Quand...  
 
     *Marine*
-*jentens D : brusquin que lon ameine icy*  
+        *jentens D : brusquin que lon ameine icy*  
 R'entrons et s'il se peut tandis que lon le presse  
 Scachons que deviendront ton maistre et ma maistresse  
 
@@ -3097,7 +3097,7 @@ Messieurs que faites vous je suis prest a signer
 L'heure n'est pas sonnée  
 
     STAMORAT
-elle vient de sonner  
+        elle vient de sonner  
 Et c'est ta faute au lieu d'aller au necessaire  
 Tu veux moraliser ou tu ne fais que braire  
 Tu crois quon soit payé pour tentendre crier  
@@ -3134,7 +3134,7 @@ Ne verra til pas bien que nous aurons menty
 Il me va renvoyer  
 
     D : BRUSQUIN
-et bien s il vous renvoye  
+        et bien s il vous renvoye  
 Vous ferez lors de moy tout ce qui vous plaira  
 Voyons de quel secours mon argent me sera  
 Tenez prenez cecy pour vous donner courage  
@@ -3207,7 +3207,7 @@ Et qu'a table auprez deux tes discours ordinaires...
 Pour cela decontez  
 
     FATIMAN
-decontez aux galeres  
+        decontez aux galeres  
 
     D : BRUSQUIN
 Cartier messieurs sil faut cela pour m'en sauver  
@@ -3230,10 +3230,10 @@ De quel air voulez vous que pour *vous* satisfaire
 Quoy cela te fait peine  
 
     D BRUSQUIN
-ouy sans doute  
+    ouy sans doute  
 
     FATIMAN
-en galere  
+        en galere  
 Alez c'est trop vouloir marchander avec moy  
 
     D BRUSQUIN
@@ -3259,13 +3259,13 @@ Escoutez cela fait quon le rameine icy
 J'ay quelque chose encor a luy dire  
 
     *D Brusquin*
-*courage*  
+        *courage*  
 
     *Fatiman*
 Vous n'avez qu'a le suivre  
 
     *D : Brusquin*
-*ah le maudit voyage*  
+        *ah le maudit voyage*  
 
 
 ### Scenne cinquiesme
@@ -3310,7 +3310,7 @@ Et se rende a des feux trop mal recompensez
 Je luy donne un espoux en partant  
 
     *Celime*
-*je le sçays*  
+        *je le sçays*  
 Ouy l'on m'a fait scavoir que l'espoux de julie  
 Est pour la racheter des hier en barbarie  
 Et pour mes yeux enfin le plaisir le plus doux  
@@ -3328,7 +3328,7 @@ Et son amour la met entre les bras d'un autre
 D'un autre ? eh quel est donc...  
 
     *Fatiman*
-*c'est carlos ses appas*  
+        *c'est carlos ses appas*  
 
     *Celime*
 Ah ! Carlos ? a ce coup je ne m'attendois pas  
@@ -3386,7 +3386,7 @@ Te faire voir l'espous que je donne a ta femme
 Comment ce n'est pas vous  
 
     FATIMAN
-non sans doute et sa flame  
+        non sans doute et sa flame  
 N'ayant peu se cacher, son cœur s'est declaré  
 En faveur de celuy qu'elle ta preferé  
 Tu le verras bien tost jl en vaut bien la peine  
@@ -3412,14 +3412,14 @@ Fatiman D : Brusquin, D. Carlos, Julie, Marine Tomire, suite
 
 
     D : CARLOS
-*quel respect ou plutost quel homage*  
+        *quel respect ou plutost quel homage*  
 Puis je pour les bontez que vous avez pour nous  
 
     FATIMAN
 Laissons ces vains discours  
 
     D : BRUSQUIN
-*Ø* c'est *donc* la cet espous  
+        *Ø* c'est *donc* la cet espous  
 
     FATIMAN
 Ouy c'est luy qui charmé des *beautez* de julie  
@@ -3439,12 +3439,12 @@ On vous force a me rendre et je le souffre aussy
 Ah traitresse  
 
     *Fatiman*
-*finis cette sotte harangue*  
+        *finis cette sotte harangue*  
 Ton dos pourroit aprendre a parler a ta langue  
 Sois sage jusqu'au bout ou crains...  
 
     *D : Brusquin*
-*Soit je me tais*  
+        *Soit je me tais*  
 
     *Fatiman*
 J'avois pour mon hymen fait faire des aprests  
@@ -3454,7 +3454,7 @@ Qu'on commence a l'instant avertissez mes gens
 Alez  
 
     *Tomire*
-*Si vous vouliez messieurs en mesme temps*  
+        *Si vous vouliez messieurs en mesme temps*  
 Pour espargner les frais et nous faire bien rire  
 On pouroit marier marine avec tomire  
 Et lon feroit enfin d'une pierre deux coups  

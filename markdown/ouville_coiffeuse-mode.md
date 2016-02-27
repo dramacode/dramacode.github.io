@@ -1,5 +1,5 @@
 ---
-identifier: ouville_coifeuse  
+identifier: ouville_coiffeuse-mode  
 creator: Ouville, Antoine d'  
 date: 1647  
 title: La Coifeuse à la mode. Comédie  
@@ -710,7 +710,7 @@ Mais si vous n'estes pas plus resjoüy que moi,
 Me pouvez-vous blasmer?  
 
     ACASTE.
-Vous scavez bien pourquoi;  
+        Vous scavez bien pourquoi;  
 Vous cognoissez assez l'excez de mes miseres,  
 Je ne vous ay point teu l'estat de mes affaires [19],  
 Vous en pouvez vous plaindre? et devez vous juger  
@@ -757,11 +757,11 @@ On est aveugle et sourd parmy de tels misteres.
 On vous escrit souvent.  
 
     ACASTE.
-Par tous les ordinaires [22],  
+        Par tous les ordinaires [22],  
 Et j'espere tantost d'en recevoir.  
 
     ARIMANT.
-O Dieux!  
+        O Dieux!  
 Comment! vous plaignez vous de la rigueur des Cieux?  
 Ils vous obligent⁎ trop, que ne m'est-il posible  
 D'estre heureux comme vous? Mais j'aime une insensible,  
@@ -772,7 +772,7 @@ Que mes pleurs ny mes soins n'ont jamais pû toucher.
 Comment la nommez-vous?  
 
     ARIMANT.
-Elle s'appelle Flore,  
+        Elle s'appelle Flore,  
 Plus elle me rebute, et plus mon Coeur l'adore,  
 Vous scaurez cette histoire, et ma ferme amitié⁎  
 Qu'on paye avec mespris vous va faire pitié.  
@@ -781,7 +781,7 @@ Qu'on paye avec mespris vous va faire pitié.
 Vous m'obligerez⁎ fort.  
 
     ARIMANT.
-Apprenez donc que j'ayme  
+        Apprenez donc que j'ayme  
 Depuis un an entier Flore plus que moy-mesme.  
 Elle parut d'abord avec tant de beauté  
 Que vous excuseriez la dure extremité  
@@ -906,7 +906,7 @@ Autre-fois elle ayma, mais elle n'ayme plus
 Depuis qu'elle vous sert.  
 
     FLORE.
-Non, non, c'est un abus,  
+        Non, non, c'est un abus,  
 Si Jacinte a conceu quelque amoureuse flâme⁎,  
 Ne croy pas que le temps en guerisse son ame,  
 Enfin qui se resout de vivre avecque moy  
@@ -928,7 +928,7 @@ Envers le bon aussi, par ce qu'il le peut faire.
 Est-ce vous Arimant?  
 
     ARIMANT *Bas* [41].
-Ouy Madame. (Hà j'entens  
+        Ouy Madame. (Hà j'entens  
 Un rigoureux arrest [42] qui trouble tous mes sens)  
 Comment va vostre amour? Je veux dire, Madame,  
 Vostre hayne, envers ceux qui vivent dans la flame⁎,  
@@ -943,7 +943,7 @@ Et pour vous mon amour en tout temps est le mesme.
 Encor pour quel sujet?  
 
     FLORE.
-Est-il homme icy bas  
+        Est-il homme icy bas  
 Qui nous puisse parler, et ne nous mentir pas?  
 
     ARIMANT.
@@ -962,11 +962,11 @@ Et n'ay pas leu dedans un mot de verité.
 Un mot de verité?  
 
     FLORE.
-Voulez-vous pas me croire [44]?  
+        Voulez-vous pas me croire [44]?  
 Les voila, lisez lez.  
 
     ARIMANT *bas. Il lit* [45].
-Je veux avoir la gloire  
+        Je veux avoir la gloire  
 De la vaincre par là. Voyons quels sont icy  
 Ces mensonges si grands: le premier dit ainsi.  
 Il lit.
@@ -987,7 +987,7 @@ On appelle une mort les peynes⁎ qu'on endure
 Pour un object charmant.  
 
     FLORE.
-Une mort en peinture,  
+        Une mort en peinture,  
 S'il dit plus qu'il ne souffre, est-il pas vray qu'il ment?  
 Il suffit, passez donc au second, Arimant.  
 
@@ -1028,13 +1028,13 @@ Quelle humeur! et qu'en puis-je esperer justes Dieux!
 Lisez l'autre, Arimant.  
 
     ARIMANT.  *Lit.*
-Le soleil de vos yeux.  
+        Le soleil de vos yeux.  
 
     FLORE.
 Que veut dire ce fat?  
 
     ARIMANT.
-Hé quoy divine Flore !  
+        Hé quoy divine Flore !  
 Estimez-vous qu'il ment et qu'il s'esgare encore?  
 Sont-ce pas des Soleils qui brillent dans vos yeux?  
 
@@ -1050,7 +1050,7 @@ Mais de plus dites-moy quelle proportion
 D'une femme au soleil?  
 
     ARIMANT.
-C'est que sa passion  
+        C'est que sa passion  
 Vous donne par ce mot la plus grande loüange  
 Qu'on vous puisse donner, quand vous seriez un Ange [54],  
 Et si cela vous choque, ah! c'est un grand hazard  
@@ -1061,7 +1061,7 @@ Pourquoy donc voulez-vous que je croye une chose
 Que je tiens pour mensonge?  
 
     ARIMANT*.  bas.*
-Il faut que je suppose [56]  
+        Il faut que je suppose [56]  
 Quelque lettre qui m'ayde et qui sans declarer  
 Luy puisse adroittement mon amour declarer [57].  
 
@@ -1069,7 +1069,7 @@ Luy puisse adroittement mon amour declarer [57].
 Lisez l'autre, Arimant.  
 
     ARIMANT. *bas, il fait semblant de lire.*
-Sus [58] donc prenons courage,  
+        Sus [58] donc prenons courage,  
 Depuis un an entier Flore j'ay l'advantage  
 D'adorer en vos yeux une divinité  
 Avecque tant d'amour et de fidelité,  
@@ -1096,13 +1096,13 @@ D'avoir leu cét escrit: le nom est-il au bas?
 Ouy Madame.  
 
     FLORE.
-Comment?  
+    Comment?  
 
     ARIMANT.
-Arimant.  
+    Arimant.  
 
     FLORE.
-Temeraire!  
+        Temeraire!  
 Ne vous avois-je pas commandé de vous taire?  
 Comment osez-vous donc parler si librement?  
 
@@ -1116,7 +1116,7 @@ Quand vous avez ouy ceux que je viens de lire
 De trois de mes rivaux?  
 
     FLORE.
-Est-il permis de dire  
+        Est-il permis de dire  
 Tout ce que l'on escrit Arimant? aprenez  
 Que la parole offence, et que vous profanez  
 Le respect qui m'est deu par cette hardiesse,  
@@ -1134,7 +1134,7 @@ Et vous mentez sans doute aussi bien que les autres.
 Moy, Madame, je ments?  
 
     FLORE.
-Ouy certes vous mentez,  
+        Ouy certes vous mentez,  
 Si vous ne tenez pas ce que vous prometez,  
 Cognoissant mon humeur deviez vous temeraire  
 Avoir dit à mes yeux [61] ce qui me peut desplaire?  
@@ -1183,14 +1183,14 @@ Me vient d'assassiner. Helas tout est perdu!
 Que vous a-t-elle fait?  
 
     ARIMANT.
-Elle m'a deffendu  
+        Elle m'a deffendu  
 De la voir de ma vie. Ah rigoureux martire [65]!  
 
     ACASTE.
 Encor, pour quel suject?  
 
     ARIMANT.
-Je ne vous le puis dire,  
+        Je ne vous le puis dire,  
 Triste et desesperé dans ce trouble⁎ d'ennuis⁎  
 Je ne sçaurois parler en l'estat où je suis  
 
@@ -1222,10 +1222,10 @@ Pour me donner moyen de pouvoir respirer.
 Je vous suy.  
 
     ARIMANT.
-Laissez moy.  
+    Laissez moy.  
 
     ACASTE.
-Refusez vous mon aide?  
+        Refusez vous mon aide?  
 
     ARIMANT.
 Mon mal est incapable à present de remede,  
@@ -1260,7 +1260,7 @@ Puis-je me contenir et m'empescher de rire?
 De ce plaisant discours?  
 
     ACASTE.
-Maraut⁎, que veux-tu dire?  
+        Maraut⁎, que veux-tu dire?  
 
     PHILIPIN.
 Moins à plaindre que vous! que dites-vous Monsieur?  
@@ -1278,7 +1278,7 @@ Ay-je d'autre plaisir icy qu'à recevoir
 Des lettres de sa part?  
 
     PHILIPIN.
-En peut-elle avoir d'autres  
+        En peut-elle avoir d'autres  
 Aux lieux où l'on la tient qu'y recevoir des vostres?  
 Vous allez pour le moins par tout où vous voulez  
 Où l'humeur vous en dit, vous hantez⁎ et parlez,  
@@ -1365,7 +1365,7 @@ Je vais accompagner mon Amy seulement,
 Serois-je son rival?  
 
     PHILIPPIN.
-Je croy asseurément  
+        Je croy asseurément  
 Que Dorotée, au moins j'y voy grande apparence,  
 Se sentira [85] bien-tost de cette connoissance.  
 
@@ -1398,7 +1398,7 @@ Se desguiser ainsi? Dieux! quelle extravagance,
 Que dira-t-on de vous?  
 
     DOROTEE.
-Tout ce que l'on voudra.  
+        Tout ce que l'on voudra.  
 Laissons causer le monde, apres il se taira,  
 Mais ne t'estonne⁎ point de cecy je te prie,  
 Croy que cette action m'importe de la vie [87].  
@@ -1578,13 +1578,13 @@ Et bien que vous en semble? ay-je pas bonne mine?
 Suis-je bien desguisêe?  
 
     LEONOR.
-Ouy tres-excellemment,  
+        Ouy tres-excellemment,  
 Vous ne pourriez jamais estre plus proprement [101],  
 Vous avez sans mentir encor meilleure grace  
 Qu'avec vostre autre habit.  
 
     DOROTEE.
-Que faut-il que je face?  
+        Que faut-il que je face?  
 
     LEONOR.
 Il vous faudra fournir de cordons et de noeuds [102],  
@@ -1622,7 +1622,7 @@ Leonor, je vous prie. Ah! le perfide Amant,
 Sans doute il me trahit.  
 
     LEONOR. 
-N'entrez point en cervelle⁎  
+        N'entrez point en cervelle⁎  
 De cette Dame là, car je vous respons d'elle,  
 Si c'est pour cét objet⁎ qu'il a quelque dessein,  
 Croyez-moi qu'il s'abuse, et qu'il travaille en vain,  
@@ -1646,7 +1646,7 @@ Je crois asseurement, quoy que bien desguisée [108],
 Qu'il vous reconnoistroit.  
 
     DOROTEE.
-Je suis assez rusée  
+        Je suis assez rusée  
 Pour surprendre ses sens par mes subtilitez  
 Et pour venir à bout d'autres difficultez,  
 Je ne veux seulement que le mettre en cervelle⁎,  
@@ -1697,7 +1697,7 @@ Tu ne cours point de risque il ne te cognoit pas.
 Mais pour qui passerais-je?  
 
     DOROTEE.
-Escoute, tu diras,  
+        Escoute, tu diras,  
 A qui t'en enquerra [114], que tu seras mon pere,  
 Et pour encore mieux couvrir nostre mistere,  
 Qu'estant necessiteux, avec passion  
@@ -1794,7 +1794,7 @@ Qu'il est cause à present de mon nouveau martyre?
 Non, je ne le dois pas estant ce que je suis,  
 Quel est donc, justes Dieux! l'amour que je poursuis?  
 Où tendent vos desseins [125]? car il est infaillible,  
-Que j'ayme, et d'estre aymée il ne m'est pas possible   
+Que j'ayme, et d'estre aymée il ne m'est pas possible  
 J'ayme sans esperance, il faut qu'un mesme jour  
 Ensemble voye et naistre, et mourir mon amour.  
 Chassons ce fol⁎ desir qui ma raison emporte [126].  
@@ -1808,11 +1808,11 @@ BEATRIX. FLORE.
 Que veux-tu?  
 
     BEATRIX.
-Vostre Amant est là bas à la porte,  
+        Vostre Amant est là bas à la porte,  
 Madame, entrera-t'il?  
 
     FLORE.
-Que dis-tu? quel Amant?  
+        Que dis-tu? quel Amant?  
 
     BEATRIX.
 Moy je n'en cognois qu'un, je parle d'Arimant.  
@@ -1826,11 +1826,11 @@ Il viendra seul icy me parler de sa flame⁎,
 Et me rompra la teste [128].  
 
     BEATRIX.
-Il n'est pas seul Madame,  
+        Il n'est pas seul Madame,  
 Acaste est avec luy.  
 
     FLORE.
-Va descend promptement,  
+        Va descend promptement,  
 Beatrix, et luy dy qu'il entre librement,  
 Que je me porte bien, qu'il a toute puissance [129].  
 
@@ -1840,23 +1840,23 @@ De vostre humeur Modeste, et de vostre vertu,
 Je dirois.  
 
     FLORE.
-Et quoy?  
+    Et quoy?  
 
     BEATRIX.
-Rien.  
+    Rien.  
 
     FLORE.
-Encor que dirois-tu?  
+        Encor que dirois-tu?  
 
     BEATRIX
 Que ce contentement que vous faites paroistre  
 Proviendroit.  
 
     FLORE.
-Quoy d'amour?  
+    Quoy d'amour?  
 
     BEATRIX.
-Ne pourroit-il pas estre?  
+        Ne pourroit-il pas estre?  
 
     FLORE.
 Vois-tu pas que ce n'est qu'un simple compliment?  
@@ -1873,18 +1873,18 @@ BEATRIX. ARIMANT. ACASTE. FLORE.
 Entrez, Messieurs, entrez [131].  
 
     ARIMANT.
-Madame, nous venons  
+        Madame, nous venons  
 En ce lieu.  
 
     FLORE.
-Soyons-nous, et puis nous parlerons.  
+        Soyons-nous, et puis nous parlerons.  
 De quels divers combats mon ame est assaillie [132].  
 
     ARIMANT.
 Vous nous obligez⁎ trop.  
 
     ACASTE.
-Et moy je vous supplie  
+        Et moy je vous supplie  
 De m'excuser si j'entre icy si librement.  
 
     FLORE *bas*.
@@ -1893,14 +1893,14 @@ Ce que ces deux amans ont dans le fonds de l'ame [133].
 Comme vous portez-vous Arimant?  
 
     ARIMANT.
-Moy Madame?  
+        Moy Madame?  
 Je suis icy en vous voyant au bout de mes souhaits.  
 
     FLORE.
 Vous Acaste?  
 
     ACASTE.
-Ignorant ainsi comme je fais  
+        Ignorant ainsi comme je fais  
 En quel estat se trouve à present Dorotée,  
 Ayant les sens troublez et l'ame inquietée⁎  
 De cent divers pensers, Madame je ne puis  
@@ -1956,7 +1956,7 @@ Elle eust quelques defauts, je ne les verrois pas.
 Dieux! quel impertinent.  
 
     ARIMANT, *bas*.
-Flore n'est pas contente  
+        Flore n'est pas contente  
 A ce que je puis voir d'entendre que l'on vante,  
 De Dorotée ainsi la grace et la beauté:  
 Mais cela ne provient que de la vanité  
@@ -1979,13 +1979,13 @@ Que me donnerez-vous pour la bonne nouvelle?
 As-tu des lettres?  
 
     PHILIPPIN.
-Ouy.  
+    Ouy.  
 
     ACASTE.
-De Dorotée?  
+    De Dorotée?  
 
     PHILIPPIN.
-Ouy d'elle.  
+        Ouy d'elle.  
 
     ACASTE.
 Donne-les promptement. Vous m'excuserez bien  
@@ -2016,7 +2016,7 @@ Bas
 Pourquoy?  
 
     ARIMANT.
-Ne vous ayant nulle obligation,  
+        Ne vous ayant nulle obligation,  
 Madame usant vers [139] moy d'un traitement si rude  
 Pourriez-vous m'accuser jamais d'ingratitude?  
 
@@ -2033,11 +2033,11 @@ Arimant, osez-vous me parler de la sorte?
 Madame pardonnez.  
 
     FLORE.
-Voy qui frape à la porte.  
+        Voy qui frape à la porte.  
 Va viste Beatrix.  
 
     BEATRIX.
-Bien Madame j'y cours.  
+        Bien Madame j'y cours.  
 
     FLORE.
 Ne me tenez jamais de semblables discours.  
@@ -2054,16 +2054,16 @@ ARIMANT, PHILIPPIN.
 
 
     BEATRIX.
-C'est cette Perruquiere  
+        C'est cette Perruquiere  
 Qui vient pour vous coiffer.  
 
     FLORE.
-Ah! Beatrix, dy luy,  
+        Ah! Beatrix, dy luy,  
 Que je ne sçaurois pas [140] me coiffer aujourd'hui.  
 Est-ce pas Leonor [141]?  
 
     BEATRIX.
-Ouy, Madame, c'est elle.  
+        Ouy, Madame, c'est elle.  
 
     DOROTEE.
 Entre avec la quaissette.
@@ -2079,14 +2079,14 @@ Je le veux bien, voyons, approche toy ma fille.
 J'en ay de toute sorte.  
 
     FLORE.
-O Dieux qu'elle est gentille,  
+        O Dieux qu'elle est gentille,  
 Vostre nom.  
 
     DOROTEE.
-Isabelle.  
+    Isabelle.  
 
     LEONOR.
-Elle cherche à servir,  
+        Elle cherche à servir,  
 Madame, et vous sçavez qu'elle coiffe à ravir.  
 
     FLORE.
@@ -2096,7 +2096,7 @@ Emmenez la demain Leonor, je vous prie.
 Je n'y manqueray pas.  
 
     DOROTEE *à Leonor, bas.*
-Je ne vis en ma vie  
+        Je ne vis en ma vie  
 Une plus agreable et plus rare beauté.  
 
     ACASTE *serrant sa lettre.*
@@ -2104,22 +2104,22 @@ Vous excuserez bien mon incivilité,
 Madame, s'il vous plaist.  
 
     DOROTEE *bas à Leonor.*
-**Dieux! j'aperçoy ce traistre.  
+        **Dieux! j'aperçoy ce traistre.  
 Ah Leonor! c'est luy.  
 
     LEONOR *bas à Dorotée.*
-**Ne faites pas paroistre  
+        **Ne faites pas paroistre  
 Que vous le connoissez.  
 
     DOROTEE *bas, à Leonor.*
-**Leonor, je ne puis  
+        **Leonor, je ne puis  
 Contenir mon esprit dans le trouble⁎ où je suis.  
 
     LEONOR.
 Ne vous emportez pas.  
 
     DOROTEE.
-Que je suis agitée!  
+        Que je suis agitée!  
 
     FLORE.
 Cette lettre, Monsieur, vient donc de Dorotée?  
@@ -2139,13 +2139,13 @@ Et vous avez raison de m'en faire un reproche.
 Pour quel sujet, Monsieur?  
 
     ACASTE *bas, à Philippin.*
-**Tiens, Philipin approche.  
+        **Tiens, Philipin approche.  
 
     PHILIPIN *bas, à Acaste.*
 Je vous entends fort bien.  
 
     ACASTE *bas, à Philipin.*
-Escoute, parle à moy [142].  
+        Escoute, parle à moy [142].  
 N'est-ce pas Dorotée à present que je voy.  
 
     PHILIPIN.
@@ -2160,11 +2160,11 @@ Elle rompt une coiffe.
 Si jamais je m'en mesle [143].  
 
     FLORE.
-Ah Dieux! estes-vous fole⁎ ?  
+        Ah Dieux! estes-vous fole⁎ ?  
 Que faites-vous mamie [144]?  
 
     DOROTEE, *bas*.
-Ah ! je perds la parole.  
+        Ah ! je perds la parole.  
 Qui ne la seroit pas voyant ce que je voy [145].  
 haut.
 
@@ -2173,16 +2173,16 @@ haut.
 Etes-vous en colere.  
 
     DOROTEE.
-Ouy j'y suis.  
+    Ouy j'y suis.  
 
     FLORE.
-Mais pourquoi ?  
+        Mais pourquoi ?  
 
     DOROTEE.
 J'en ay trop de sujet.  
 
     FLORE.
-Dites-le, je vous prie.  
+        Dites-le, je vous prie.  
 
     DOROTEE, *bas.*
 Il faut dissimuler. Voyez l'effronterie,  
@@ -2198,10 +2198,10 @@ Si je ne connoissois fort bien cette escriture,
 Mais que dis-je, c'est elle ?  
 
     PHILIPIN.
-Elle ?  
+    Elle ?  
 
     ACASTE
-Ouy, je te le jure.  
+        Ouy, je te le jure.  
 
     PHILIPIN.
 Ne jurez point, Monsieur, pourquoy vous obstiner ?  
@@ -2234,7 +2234,7 @@ Je feray pour l'avoir tout ce que je pourray
 Quand je devrois perir [149].  
 
     ACASTE.
-Je vous la payeray  
+        Je vous la payeray  
 Dites ce qu'elle vaut la belle [150], je vous prie.  
 
     DOROTEE.
@@ -2260,7 +2260,7 @@ Si c'est tout mon vaillant [155], Monsieur, ai-je grand tort
 De sentir cette perte.  
 
     ACASTE.
-Ah! la pierre est jettée,  
+        Ah! la pierre est jettée,  
 Si cette fille icy ressemble à Dorotée  
 Quelle qu'elle puisse estre il faut absolument  
 Quoy qu'il puisse arriver, que je sois son amant.  
@@ -2284,14 +2284,14 @@ Qui m'importe beaucoup, je prens congé de vous.
 Adieu, Monsieur.  
 
     ACASTE, *à Arimant.*
-**Adieu.  
+    **Adieu.  
 
     ARIMANT.
-Pour moi je me resous  
+        Pour moi je me resous  
 De vous accompagner.  
 
     ACASTE.
-Demeurez je vous prie,  
+        Demeurez je vous prie,  
 Il faut que je sois seul, je vous en remercie.  
 
 
@@ -2306,7 +2306,7 @@ Il a quelque querelle, et vous auriez du blasme
 De le quitter ainsi.  
 
     ARIMANT. 
-Je croy qu'il va, Madame,  
+        Je croy qu'il va, Madame,  
 Respondre à ce pacquet qu'il vient de recevoir,  
 Vous n'avez pas sujet d'ainsi vous esmouvoir,  
 Sur une foible peur peut-estre mal fondée.  
@@ -2350,7 +2350,7 @@ Je vay vous delivrer d'un fascheux entretien.
 Je prends congé de vous.  
 
     FLORE *en s'en allant*,
-Je suis vostre servante.  
+        Je suis vostre servante.  
 
     ARIMANT *bas.*
 Elle brusle d'amour la chose est evidente,  
@@ -2382,7 +2382,7 @@ Qu'en effet ce ne soit qu'une seule des deux [161].
 Mais que voulez-vous faire ?  
 
     ACASTE.
-Attendre à cette porte,  
+        Attendre à cette porte,  
 Car enfin tost ou tard il faudra qu'elle sorte.  
 Mais je croy qu'il vaut mieux entrer dans la maison  
 Pour obliger cét homme à luy faire raison [162]  
@@ -2400,15 +2400,15 @@ Ce qu'elle veut ravoir, ne perdons point de temps,
 Va frappe.  
 
     PHILIPIN.
-Vous avez je croy perdu le sens [163].  
+        Vous avez je croy perdu le sens [163].  
 Parlez vous tout de bon [164], Monsieur ?  
 
     ACASTE.
-Frappe, te dis-je.  
+        Frappe, te dis-je.  
 Je parle tout de bon.  
 
     PHILIPIN.
-Encor qui vous oblige  
+        Encor qui vous oblige  
 A cette extravagance ? Ah Monsieur avons-nous  
 Le moyen de pouvoir resister à leurs coups ?  
 Quelle force avons-nous pour oser l'entreprendre ?  
@@ -2427,7 +2427,7 @@ PAMPHILE. ACASTE. PHILIPIN.
 Que voulez-vous, Monsieur ?  
 
     ACASTE.
-Tout à l'heure mon pere [165]  
+        Tout à l'heure mon pere [165]  
 Vient d'entrer là dedans certaine perruquiere  
 Qui va coiffer en ville, et qui vend que je croy  
 Quelques hardes⁎ d'atour [166], de grace obligez⁎ moy  
@@ -2436,7 +2436,7 @@ Des hardes⁎ que tanstot elle m'a fait entendre
 Qu'on luy retient ceans⁎. Autrement  
 
     PHILIPIN.
-Autrement  
+        Autrement  
 Nous nous retirerons Monsieur asseurément.  
 
     PAMPHILE.
@@ -2464,20 +2464,20 @@ Femme depuis trois ans d'un brave et galand homme
 Maistre d'hostel du Roy.  
 
     ACASTE.
-Comment est-ce qu'on la nomme ?  
+        Comment est-ce qu'on la nomme ?  
 
     PAMPHILE.
 Son nom est Angelique.  
 
     ACASTE.
-Ah ! j'ay les sens confus.  
+        Ah ! j'ay les sens confus.  
 Et je suis interdit si jamais je le fus [170].  
 
     PAMPHILE.
 Il est tres-vray, Monsieur,  
 
     ACASTE.
-Encor que je vous croye [171],  
+        Encor que je vous croye [171],  
 Je sçais qu'elle est ceans⁎, faites que je la voye  
 Mon amy je vous prie, ou bien je me resous [172].  
 
@@ -2485,7 +2485,7 @@ Mon amy je vous prie, ou bien je me resous [172].
 Ne me croyez-vous point ?  
 
     PHILIPIN.
-Pourquoy contestez-vous ?  
+        Pourquoy contestez-vous ?  
 Monsieur le voudroit-il soustenir de la sorte.  
 
     ACASTE.
@@ -2509,7 +2509,7 @@ Ils nous pourront frotter [173] asseurément, Monsieur,
 Il est fort résolu.  
 
     ACASTE.
-Quoy maraut⁎, as-tu peur ?  
+        Quoy maraut⁎, as-tu peur ?  
 
     PHILIPIN.
 Non je n'ay point de peur, mais cette diligence⁎  
@@ -2531,7 +2531,7 @@ Si mon soubçon est faux, ou s'il est veritable.
 Va frappe à cette porte.  
 
     PHILIPIN.
-Ah Monsieur tout de bon ?  
+        Ah Monsieur tout de bon ?  
 Gardons-nous [176], ce Vieillard est un mauvais garçon,  
 Il nous lorgnoit [177] tanstot d'une estrange posture,  
 Et nous mangeoit [178] des yeux, c'est une chose seure,  
@@ -2566,7 +2566,7 @@ Nous avons la berluë [180], et nous n'avons rien veu.
 Vous ne respondez point ?  
 
     PAMPHILE.
-Ce Cavalier a creu  
+        Ce Cavalier a creu  
 Qu'il est entré chez vous une certaine fille  
 Qui coiffe proprement, et qu'il trouve gentille [181].  
 Il faudroit bien nous mettre au rang des innocens [182],  
@@ -2579,7 +2579,7 @@ Et que depuis trois ans vous avez pour espoux
 Un officier du Roy ?  
 
     DOROTEE.
-De quoy vous meslez-vous ?  
+        De quoy vous meslez-vous ?  
 Et qui vous fait, Monsieur, informer de ma vie ?  
 D'où vous vient cette humeur ? d'où vous naist cette envie ?  
 
@@ -2616,7 +2616,7 @@ Vous pouvez autrement tesmoigner vostre flame⁎,
 Que par ces actions publiques.  
 
     ACASTE.
-Moy, Madame ?  
+        Moy, Madame ?  
 
     PHILIPIN.
 C'est à ce coup grands Dieux que je perds tous les sens.  
@@ -2646,7 +2646,7 @@ Que mon mary ne vienne, et ne vous trouve icy.
 Cecy vous doit suffire.  
 
     ACASTE.
-Hé quoy ! ma chere Dame,  
+        Hé quoy ! ma chere Dame,  
 Elle part, et me laisse un grand trouble⁎ dans l'ame,  
 
     DOROTEE, *en s'en allant.*
@@ -2680,11 +2680,11 @@ Et je suis tres-certain qu'aucune toutesfois
 De ces deux là ne l'est.  
 
     PHILIPIN. 
-Ainsi c'en sont donc trois  
+        Ainsi c'en sont donc trois  
 Pour une Dorotée.  
 
     ACASTE.
-Ouy Philipin, et semble [193]  
+        Ouy Philipin, et semble [193]  
 Que pour troubler mes sens le destin les assemble.  
 
     PHILIPIN.
@@ -2742,7 +2742,7 @@ DOROTEE. LEONOR. PAULINE.
 Tu l'as veu, Leonor ?  
 
     LEONOR.
-Je ne vous sçaurois dire  
+        Je ne vous sçaurois dire  
 Combien pour vos beautez ce pauvre amant souspire,  
 J'ay veu dedans ses yeux plus à clair que le jour,  
 Que pour vostre sujet il brusle et meurt d'amour,  
@@ -2837,7 +2837,7 @@ Quand je devrois perir, j'esclairciray fort bien
 Ce soubçon aujourd'hui.  
 
     LEONOR.
-Que pretendez-vous faire ?  
+        Que pretendez-vous faire ?  
 
     DOROTEE.
 Ma fille, absolument je me veux satisfaire,  
@@ -2860,7 +2860,7 @@ A cause qu'elle croit que tout homme est trompeur.
 Ce remede est certain.  
 
     DOROTEE.
-Pour croistre son ombrage,  
+        Pour croistre son ombrage,  
 Je luy veux peindre Acaste et menteur et volage.  
 Je connoistray par là s'il est vray qu'elle en tient,  
 Et verray si l'on butte [212] à ce qui m'appartient.  
@@ -2949,10 +2949,10 @@ Elle se mocquera de vous asseurément.
 Nous le verrons.  
 
     PHILIPIN.
-Que trop.  
+    Que trop.  
 
     ACASTE.
-Mais je vois Arimant.  
+        Mais je vois Arimant.  
 
 
 ### Scène 5
@@ -2964,13 +2964,13 @@ Quoy si pres du logis je vous trouve en la ruë ?
 Sans entrer ?  
 
     ACASTE.
-J'attendois icy vostre venuë.  
+        J'attendois icy vostre venuë.  
 
     ARIMANT.
 Pourquoi ?  
 
     ACASTE.
-Je ne doy pas, et n'aurois pas raison  
+        Je ne doy pas, et n'aurois pas raison  
 D'entrer seul et sans vous dedans cette maison,  
 Car cette liberté vous feroit prejudice,  
 Croyez que si j'y viens c'est pour vostre service [227].  
@@ -3027,7 +3027,7 @@ Je n'ay jamais ouy parler de cette femme.
 Helene, me dis-tu de Peralte ?  
 
     BEATRIX
-Ouy, Madame,  
+        Ouy, Madame,  
 A ce que dit son homme elle s'appelle ainsi.  
 
     FLORE.
@@ -3035,7 +3035,7 @@ Je ne la cognoy point, et je suis en soucy [231]
 Beatrix, quelle elle est [232].  
 
     BEATRIX.
-Madame elle est tres-belle.  
+        Madame elle est tres-belle.  
 
     FLORE.
 Enfin, dy luy qu'elle entre, allons au devant d'elle.  
@@ -3059,7 +3059,7 @@ Ou mon œil m'a trompée, ou sans mentir je croy
 Vous avoir veüe ailleurs.  
 
     DOROTEE.
-Madame excusez-moy,  
+        Madame excusez-moy,  
 Cela ne peut pas estre. Il faut que je vous die  
 Le sujet qui me fait paroistre si hardie,  
 D'oser si librement venir vous visiter,  
@@ -3148,7 +3148,7 @@ Madame excusez-moy d'avoir si mal jugé
 Ah ! le lasche.  
 
     DOROTEE.
-Je sors et prens de vous congé,  
+        Je sors et prens de vous congé,  
 Je pensois vous servir, et je vous mescontente.  
 
     FLORE.
@@ -3195,7 +3195,7 @@ Acaste est-il bien vray ce que je viens d'entendre ?
 Quoy, Madame ?  
 
     FLORE.
-Je viens presentement⁎ d'apprendre  
+        Je viens presentement⁎ d'apprendre  
 Vos rares qualitez, s'il est vray ce qu'on dit  
 Vous avez pres de moy perdu vostre credit.  
 Ne vous montrez jamais à mes yeux je vous prie.  
@@ -3204,7 +3204,7 @@ Ne vous montrez jamais à mes yeux je vous prie.
 Encor pour quel sujet ?  
 
     FLORE.
-Dieux quelle effronterie  
+        Dieux quelle effronterie  
 Le diray-je en un mot, il pretend vous oster  
 Tout sujet desormais de vous pouvoir vanter [242],  
 Comme vous avez fait publiquement que Flore  
@@ -3215,7 +3215,7 @@ Dieux qui peut exciter ainsi vostre courroux !
 Que dites-vous Madame ?  
 
     FLORE.
-Acaste taisez-vous,  
+        Acaste taisez-vous,  
 Ce que je dis est vray j'en suis bien informée,  
 Et c'est avec raison que je suis animée [243].  
 
@@ -3238,14 +3238,14 @@ Helene de Peralte, elle s'appelle ainsi,
 La cognoissez-vous pas ?  
 
     ACASTE.
-Ah Dieux ! qu'entens-je icy ?  
+        Ah Dieux ! qu'entens-je icy ?  
 Madame asseurez-vous que c'est une imposture,  
 Et que je ne cognois [245].  
 
     ARIMANT
 Bas à Acaste.
 
-Amy je vous conjure  
+        Amy je vous conjure  
 D'admirer [246] franchement tout ce que Flore dit,  
 Que vous importe-t'il de perdre tout credit,  
 Si vous ne l'aymez point [247] ? que vous importe encore  
@@ -3258,7 +3258,7 @@ Quoy pour l'amour de vous, faut-il que je confesse,
 Que j'ay le cœur si bas.  
 
     ARIMANT.
-Ce n'est que gentillesse.  
+        Ce n'est que gentillesse.  
 Je ferois plus pour vous et n'espargnerois rien.  
 
     FLORE.
@@ -3268,7 +3268,7 @@ Par la fidelité que vous m'avez jurée
 Que vous me direz vray.  
 
     ARIMANT *à Acaste.*
-**Craignez-vous de parler  
+        **Craignez-vous de parler  
 Que vous sert, cher amy, je me voulois contraindre,  
 Mais si vous sçavez tout, que serviroit de feindre ?  
 Quoy qu'en le confessant je demeure interdit.  
@@ -3279,7 +3279,7 @@ Vous confessez d'aimer la petite Isabelle,
 La Coifeuse à la Mode ?  
 
     ACASTE.
-Ouy je brusle pour elle.  
+        Ouy je brusle pour elle.  
 Elle a tant de beauté, tant de grace, et d'appas,  
 Que je ne sçaurois vivre, et ne l'adorer pas.  
 
@@ -3287,7 +3287,7 @@ Que je ne sçaurois vivre, et ne l'adorer pas.
 Vous aymez Angelique aussi.  
 
     ACASTE.
-Je le confesse  
+        Je le confesse  
 
     FLORE.
 Mais quel cas faites-vous de cette autre maistresse  
@@ -3295,18 +3295,18 @@ Qui se tient à Lyon, qu'on nomme, que je croy [248],
 La belle Dorotée ?  
 
     ACASTE.
-Autant que je le doy.  
+        Autant que je le doy.  
 J'estime [249] Dorotée.  
 
     FLORE.
-Et bien, que vous en semble ?  
+        Et bien, que vous en semble ?  
 Vous me confessez donc d'en aymer trois ensemble ?  
 
     ACASTE.
 Ouy, Madame, il est vray.  
 
     FLORE.
-J'admire en verité  
+        J'admire en verité  
 Ces marques de confiance et de fidelité.  
 Vous aymez l'autre aussi que je vous ay nommée  
 Helene De Peralte ; ah ! c'est la mieux aymée,  
@@ -3382,18 +3382,18 @@ PHILIPIN. ACASTE. ARIMANT.
 J'ay des lettres, Monsieur,  
 
     ACASTE.
-Quoy Dorotée escrit ?  
+        Quoy Dorotée escrit ?  
 
     PHILIPIN.
 Ouy voilà deux pacquets.  
 
     ACASTE.
-Ah ! l'heureuse nouvelle,  
+        Ah ! l'heureuse nouvelle,  
 Je me trompe Arimant, non, non, ce n'est point elle.  
 Dieux ! quelle vision avois-je !  
 
     ARIMANT.
-Encor pourquoi ?  
+        Encor pourquoi ?  
 
     ACASTE.
 Il n'est rien de plus clair Arimant, car je voy  
@@ -3432,7 +3432,7 @@ Vostre tres-humble et fidelle serviteur, CLITE.
 Et bien qu'en dites-vous ?  
 
     ACASTE.
-Amy je le confesse,  
+        Amy je le confesse,  
 J'ay creu bien follement d'avoir veu ma maistresse.  
 
     ARIMANT.
@@ -3444,7 +3444,7 @@ Comme vous sousteniez, qu'elle soit dans Paris,
 Sous des noms desguisez.  
 
     PHILIPIN.
-Ah ! Monsieur, je m'en ris.  
+        Ah ! Monsieur, je m'en ris.  
 On ne peut sans avoir la cervelle blessée,  
 Loger dans son esprit cette sale [258] pensée  
 Qu'une fille d'honneur, et de condition  
@@ -3480,11 +3480,11 @@ Va t'en droit à la poste, et retien pour demain
 Trois Cheveaux entens-tu ?  
 
     ARIMANT.
-Vous avez donc dessein  
+        Vous avez donc dessein  
 De nous quitter si tost ?  
 
     ACASTE.
-Cher amy je vous prie  
+        Cher amy je vous prie  
 Ne me retenez pas, il y va de ma vie,  
 Puisque l'on veut ainsi destruire mon amour.  
 Vois-tu je veux partir dés la pointe du jour,  
@@ -3500,19 +3500,19 @@ DOROTEE. LEONOR.
 
 
     PHILIPPIN.
-Monsieur bonne nouvelle,  
+        Monsieur bonne nouvelle,  
 Leonor est icy.  
 
     ACASTE.
-Que dit mon Isabelle,  
+        Que dit mon Isabelle,  
 Leonor respons-moy.  
 
     LEONOR.
-Je vous l'ameine icy.  
+        Je vous l'ameine icy.  
 Tiens-je pas ma parole ?  
 
     DOROTEE *en chaperon⁎.*
-**Ouy, Monsieur, la voicy.  
+        **Ouy, Monsieur, la voicy.  
 
     ACASTE.
 Je vous suis obligé d'une faveur si grande.  
@@ -3553,7 +3553,7 @@ Arimant, cette fille est de l'humeur de Flore.
 Pleust au Ciel qu'il fust vray.  
 
     ACASTE.
-Ma fille je t'adore,  
+        Ma fille je t'adore,  
 Je meurs d'amour pour toy, n'en doute nullement.  
 
     DOROTEE.
@@ -3564,19 +3564,19 @@ Femme depuis trois ans d'un officier du Roy.
 N'est-il pas vray, Monsieur ?  
 
     ACASTE.
-Que je suis hors de moy.  
+        Que je suis hors de moy.  
 Qui t'a fait ce discours ?  
 
     DOROTEE.
-La chose est tres certaine  
+        La chose est tres certaine  
 Je le sçay d'une Dame.  
 
     ACASTE.
-Et qui s'appelle Helene  
+        Et qui s'appelle Helene  
 De Peralte sans doute.  
 
     DOROTEE.
-Ouy, l'on la nomme ainsi.  
+        Ouy, l'on la nomme ainsi.  
 
     ACASTE.
 Quoy justes Dieux, faut-il que l'on me jouë icy [266],  
@@ -3585,7 +3585,7 @@ D'aller en chaque lieu s'informer de ma vie ?
 Si je la cognoissois je luy ferois sentir,  
 
     DOROTEE.
-Quoy ?  
+        Quoy ?  
 
     ACASTE.
 Que qui me jourra s'en pourra repentir.  
@@ -3602,19 +3602,19 @@ Les cheveaux seront prests, et vous pourrez sortir
 Dès la pointe du jour.  
 
     DOROTEE
-Qui veut doncques partir ?  
+        Qui veut doncques partir ?  
 Sit tost de cette ville ?  
 
     ARIMANT.
-Acaste.  
+    Acaste.  
 
     DOROTEE.
-Ah je vous prie  
+        Ah je vous prie  
 Espargnez-moy Monsieur, tresve de raillerie ;  
 Cela ne peut pas estre.  
 
     ACASTE.
-Ah ma fille, il est vray,  
+        Ah ma fille, il est vray,  
 Je ne puis exprimer le regret que j'en ay,  
 Croy que j'y suis forcé, la chose est importante,  
 
@@ -3652,20 +3652,20 @@ PHILIPIN ACASTE.
 
 
     PHILIPPIN.
-Un certain homme en bas  
+        Un certain homme en bas  
 Vous demande.  
 
     ACASTE.
-Son nom.  
+    Son nom.  
 
     PHILIPPIN.
-Je ne le cognoy pas,  
+        Je ne le cognoy pas,  
 Mais je pense pourtant avoir veu son visage,  
 Il vient à ce qu'il dit vous porter un message  
 D'une Dame qu'il sert.  
 
     ACASTE.
-Qu'il entre promptement.  
+        Qu'il entre promptement.  
 
 
 ### Scène 8
@@ -3679,7 +3679,7 @@ Monsieur, je viens icy par le commandement
 De Madame Angelique.  
 
     DOROTEE.
-Achevez, que dit-elle ?  
+        Achevez, que dit-elle ?  
 
     PAMPHILE.
 Que son mary s'en va demain à la Rochelle.  
@@ -3688,12 +3688,12 @@ Que son mary s'en va demain à la Rochelle.
 Que nous importe-t'il ?  
 
     PAMPHILE.
-Et vous pourrez avoir,  
+        Et vous pourrez avoir,  
 Monsieur, n'y estant plus le moyen de la voir,  
 Si vous le desirez,  
 
     DOROTEE.
-Dites-luy je vous prie  
+        Dites-luy je vous prie  
 Qu'estant avecque moy, c'est une raillerie  
 De penser qu'il me quitte, et luy dites aussi,  
 Que demain au matin Acaste part d'icy  
@@ -3701,32 +3701,32 @@ Pour aller à Lyon voir un certain visage [268]
 Dont il est amoureux.  
 
     PAMPHILE.
-Je feray le message,  
+        Je feray le message,  
 Adieu Monsieur.  
 
     ACASTE.
-Atten Isabelle croy moy  
+        Atten Isabelle croy moy  
 Que cette Angelique est toute telle que toy :  
 Et que ma Dorotée.  
 
     DOROTEE.
-Oh la plaisante histoire,  
+        Oh la plaisante histoire,  
 Vous imaginez-vous que je vous aille croire ?  
 
     PHILIPIN.
 Flore entre, Monsieur,  
 
     ACASTE.
-Flore ?  
+    Flore ?  
 
     PHILIPIN.
-Ouy Flore asseurément.  
+        Ouy Flore asseurément.  
 
     DOROTEE.
 Encor une autre ?  
 
     ACASTE.
-Elle est maistresse d'Arimant.  
+        Elle est maistresse d'Arimant.  
 
 
 ### Scène 9 et dernière
@@ -3775,17 +3775,17 @@ Dès demain au matin me chasse de la Cour.
 Encor, pour quel sujet ?  
 
     ACASTE.
-Une Dame fort belle  
+        Une Dame fort belle  
 M'attend dedans Lyon.  
 
     FLORE.
-Comment se nomme-t-elle ?  
+        Comment se nomme-t-elle ?  
 
     ACASTE.
 Son nom est Dorotée.  
 
     FLORE.
-Encor pour quel suject ?  
+        Encor pour quel suject ?  
 
     ACASTE.
 Pour aller espouzer ce ravissant object.  
@@ -3795,30 +3795,30 @@ Ce n'est pas le moyen d'appaiser vostre flame⁎,
 Que de partir.  
 
     ACASTE.
-Pourquoy ?  
+    Pourquoy ?  
 
     DOROTEE.
-Parce que cette Dame  
+        Parce que cette Dame  
 N'est plus dans le Convent, ny mesme dans Lyon.  
 
     ACASTE.
 Encor qui te l'a dit ?  
 
     DOROTEE.
-Que vostre passion  
+        Que vostre passion  
 Vous aveugle l'esprit, comment se peut-il faire  
 Que vous ne puissiez pas comprendre ce mistere ?  
 Ouvrez les yeux Acaste, et voyez qui je suis.  
 Vous desabusez-vous ?  
 
     ACASTE.
-Helas je ne le puis.  
+        Helas je ne le puis.  
 
     DOROTEE.
 Quoy voyant Dorotée ?  
 
     ACASTE.
-Ah ! je crains ta malice !  
+        Ah ! je crains ta malice !  
 Si tu crois m'arrester avec cét artifice,  
 Tu n'y feras que perdre, et ta peine⁎, et ton temps,  
 Penses-tu m'ébloüir et surprendre mes sens ?  
@@ -3828,7 +3828,7 @@ Escrite du Convent où je puis m'asseurer
 Qu'elle demeure encor.  
 
     DOROTEE.
-En voudriez [273] vous jurer?  
+        En voudriez [273] vous jurer?  
 Pour vous desabuser en faut-il davantage   
 Que de vous faire voir les traits de mon visage ?  
 
@@ -3864,7 +3864,7 @@ Que l'Amour me procure, et que le Ciel m'envoye,
 Amy je suis ravy⁎.  
 
     ARIMANT. 
-Encor pour quel suject ?  
+        Encor pour quel suject ?  
 
     ACASTE.
 Cher Amy, vous voyez, en ce charmant object,  
@@ -3878,7 +3878,7 @@ En un mot, cher Amy, voilà ma Dorothée.
 Est-il possible ô Dieux !  
 
     ACASTE.
-J'ay l'ame transportée  
+        J'ay l'ame transportée  
 D'un plaisir si parfait, et d'un heur⁎ si charmant  
 Que je crains de mourir dans ce ravissement⁎.  
 
@@ -3889,7 +3889,7 @@ Cet heur⁎ inesperé surpassoit notre attente.
 Madame excusez-moy.  
 
     DOROTEE.
-Je suis vostre servante.  
+        Je suis vostre servante.  
 
     ACASTE.
 Tresve de compliments puis que je reconnoy  
@@ -3900,13 +3900,13 @@ Madame mettons fin [276] à ce double Hymenée [277].
 C'est ce que je souhaite.  
 
     ARIMANT.
-Ah ! l'heureuse journée.  
+        Ah ! l'heureuse journée.  
 
     PHILIPIN.
 Et moy m'oublie-t'on ?  
 
     DOROTEE.
-Non, Pauline est à toy,  
+        Non, Pauline est à toy,  
 Je la feray venir tanstot, elle est chez moy,  
 Qui te garde la foy qu'elle t'avoit promise.  
 

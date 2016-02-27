@@ -40,7 +40,7 @@ Et tandis qu'en tous lieux les Trompettes résonnent,
 Que leur bruit menaçant fait retentir les airs,
 Paris ne les entend que dans nos seuls Concerts.
 
-**** *book_ *id_body-3-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-301 *act_ *date_1678 *creator_corneille
 
 -*who_flore
 Ce n'est plus le temps de la Guerre ;
@@ -58,7 +58,7 @@ Au plus grand Roy du Monde.
 Descendez, Mere des Amours,
 Venez nous donner de beaux jours.
 
-**** *book_ *id_body-3-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-302 *act_ *date_1678 *creator_corneille
 
 -*who_vertumne
 Rendez-vous, Beautez cruelles,
@@ -94,7 +94,7 @@ Ne se fait jamais bien aimer.
 C'est la beauté qui commence de plaire,
 Mais la douceur acheve de charmer.
 
-**** *book_ *id_body-3-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-303 *act_ *date_1678 *creator_corneille
 
 -*who_flore
 
@@ -152,7 +152,7 @@ Dont jamais une Belle ait eû lieu de se plaindre.
 Cours, vole, & par de prompts effets
 Monstre que tu prens part aux affronts qu'on m'a faits.
 
-**** *book_ *id_body-5-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1678 *creator_corneille
 
 -*who_aglaure
 Enfin, ma Sœur, le Ciel est appaisé,
@@ -205,16 +205,16 @@ Plus elle aime tendrement.
 Lychas vient à nous.
 
 -*who_cidippe
-Son visage
+      Son visage
 Nous marque une vive douleur.
 
-**** *book_ *id_body-5-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1678 *creator_corneille
 
 -*who_lychas
 Ah ! Princesses !
 
 -*who_aglaure
-De quel mal-heur
+      De quel mal-heur
 Ce soûpir est-il le presage ?
 
 -*who_lychas
@@ -345,13 +345,13 @@ Empia sorte.
 Che condanni à morir tanta beltà
 Cieli, stelle, ahi crudeltà.
 
-**** *book_ *id_body-5-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1678 *creator_corneille
 
 -*who_aglaure
 Psyché vient. A la voir je tremble.
 
 -*who_cidippe
-Quel supplice !
+      Quel supplice !
 Le moyen de luy dire adieu ?
 
 -*who_psyche
@@ -362,10 +362,10 @@ Vous avez prévenu⁎ l'heure du Sacrifice ?
 Ah ! ma Sœur !
 
 -*who_cidippe
-Ah ! ma Sœur !
+      Ah ! ma Sœur !
 
 -*who_psyche
-Quels sont vos déplaisirs ?
+      Quels sont vos déplaisirs ?
 Quoy ? dans un jour si remply d'allegresse,
 Où du Ciel la colere cesse,
 Vous pouvez pousser des soûpirs ?
@@ -374,7 +374,7 @@ Vous pouvez pousser des soûpirs ?
 Nous plaignons vostre erreur.
 
 -*who_cidippe
-Ah ! trop funestes charmes !
+      Ah ! trop funestes charmes !
 
 -*who_psyche
 Dites-moy donc le sujet de vos larmes.
@@ -383,7 +383,7 @@ Dites-moy donc le sujet de vos larmes.
 Quand vous sçaurez ce qui les fait couler...
 Adieu, nous n'avons pas la force de parler.
 
-**** *book_ *id_body-5-4 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Seigneur, vous soupirez vous-mesme ?
@@ -399,7 +399,7 @@ Il est permis de soûpirer.
 Et qui donc perdez-vous ?
 
 -*who_roy
-Tout ce qu'en ma Famille
+      Tout ce qu'en ma Famille
 J'avois de cher, de precieux,
 Le barbare decret des Dieux
 Nous demande ton sang, il faut mourir, ma Fille,
@@ -446,7 +446,7 @@ Adieu, Seigneur, je vay mourir.
 Tu me quittes.
 
 -*who_psyche
-Je veux vous épargner un crime.
+      Je veux vous épargner un crime.
 
 -*who_roy
 Quoy ? du Serpent tu seras la Victime ?
@@ -455,7 +455,7 @@ Quoy ? du Serpent tu seras la Victime ?
 Vivez heureux.
 
 -*who_roy
-Et le puis-je sans toy ?
+      Et le puis-je sans toy ?
 
 -*who_psyche
 Ne pleurez point ma mort, la cause en est trop belle.
@@ -465,7 +465,7 @@ Tu vas sur le Rocher, cruelle,
 Arreste, que fais tu ?
 
 -*who_psyche
-Je fais ce que je doy.
+      Je fais ce que je doy.
 
 -*who_roy
 Au Monstre sans trembler tu te livres toy-mesme ?
@@ -481,7 +481,7 @@ Pour la conduire au Monstre, ont déployé leurs aisles.
 Dieux cruels, qui l'avez permis,
 Accablez vous ainsi ceux qui vous sont fidelles ?
 
-**** *book_ *id_body-6-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1678 *creator_corneille
 
 -*who_vulcain
 Cyclopes, achevez ce superbe Palais,
@@ -489,7 +489,7 @@ Que tout vostre Art s'épuise en cét Ouvrage.
 Faites-y voir un pompeux⁎ Assemblage
 Des plus rares Beautez qui parurent jamais.
 
-**** *book_ *id_body-6-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1678 *creator_corneille
 
 -*who_zephire
 Pressez-vous ce Travail que l'Amour vous demande ?
@@ -557,7 +557,7 @@ Frapez, redoublez vos coups.
 Que l'ardeur de luy plaire
 Fasse vos soins les plus doux.
 
-**** *book_ *id_body-6-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1678 *creator_corneille
 
 -*who_venus
 Quoy, vous vous employez pour la fiére Psyché ;
@@ -606,7 +606,7 @@ Il sçaura que je suis sa Mere.
 L'Amour icy nous a mandez exprés,
 Achevons, achevons ce qui nous reste à faire.
 
-**** *book_ *id_body-6-4 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Où suis-je ? quel spectacle est offert à mes yeux ?
@@ -622,7 +622,7 @@ Que par vostre lenteur je vous trouve inhumaine !
 Venez, affreux Serpent, venez finir ma peine,
 Vostre victime vous attend.
 
-**** *book_ *id_body-6-5 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Quels agreables sons ont frappé mes oreilles ?
@@ -679,7 +679,7 @@ Prendre d'un Mortel la figure.
 Ah ! venez-donc, n'importe sous quels traits,
 Pourveu qu'en vous voyant mon esprit se rasseure.
 
-**** *book_ *id_body-6-6 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1678 *creator_corneille
 
 -*who_amour
 Et bien, Psyché, des cruautez du Sort
@@ -838,7 +838,7 @@ En aimant,
 On est payé de mille maux
 Par un heureux moment.
 
-**** *book_ *id_body-7-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-701 *act_ *date_1678 *creator_corneille
 
 -*who_venus
 
@@ -867,7 +867,7 @@ Perdons Psyché sans que Psyché le sçache,
 Elle brûle de voir cét Amant qui se cache,
 Il faut contenter ses desirs.
 
-**** *book_ *id_body-7-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Que fais-tu ! montre toy, cher Objet de ma flâme,
@@ -927,10 +927,10 @@ Satisfaites mes yeux, vous avez ce pouvoir.
 Vous me découvrirez⁎.
 
 -*who_psyche
-Ne craignez rien.
+      Ne craignez rien.
 
 -*who_venus
-Je n'ose.
+      Je n'ose.
 
 -*who_psyche
 Quoy, rien en ma faveur ne vous peut émouvoir ?
@@ -946,10 +946,10 @@ Peut servir à vous éclairer.
 Que ne vous doy-je point ?
 
 -*who_venus
-Il faut me retirer,
+      Il faut me retirer,
 Ma presence nuiroit au desir qui vous presse.
 
-**** *book_ *id_body-7-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 A la fin je vay voir mon destin éclaircy,
@@ -980,7 +980,7 @@ Mais quel brillant éclat se répand en ce lieu ?
 -*who_amour
 Tu m'as veu, c'en est fait, tu vas me perdre, Adieu.
 
-**** *book_ *id_body-7-4 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Arrestez, cher Amant, où Fuïez-vous si viste ?
@@ -996,7 +996,7 @@ Occupoit à tel point mon esprit affligé
 Que je ne voyois point ce beau Palais changé
 En une affreuse Solitude.
 
-**** *book_ *id_body-7-5 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Ah ! Nymphe, venez vous soulager mes ennuis ?
@@ -1006,7 +1006,7 @@ Crains-tout, ouvre les yeux, & connois qui je suis.
 C'est Venus que tu vois.
 
 -*who_psyche
-Dieux ! se pourroit-il faire !
+      Dieux ! se pourroit-il faire !
 Que Venus pour me perdre eût pû se déguiser ?
 
 -*who_venus
@@ -1049,7 +1049,7 @@ Et m'aporter la Boëte⁎ où Proserpine
 Enferme ce qui peut augmenter ses appas ;
 C'est l'employ qu'à tes soins ma vangeance destine.
 
-**** *book_ *id_body-7-6 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 Vous m'abandonnez-donc, cruel & cher Amant ?
@@ -1065,7 +1065,7 @@ C'est la mort, c'est la mort qui me le doit aprendre,
 Les flots qu'aux mal-heureux ce Fleuve tient ouverts,
 M'offrent celuy que je dois prendre.
 
-**** *book_ *id_body-7-7 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-707 *act_ *date_1678 *creator_corneille
 
 -*who_fleuve
 Arreste, c'est trop tost renoncer à l'espoir,
@@ -1081,7 +1081,7 @@ Ne crains rien ; je t'en veux aprendre le chemin.
 Viens icy prendre place, & tu seras instruite
 Des ordres du Destin.
 
-**** *book_ *id_body-8-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-801 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 
@@ -1110,7 +1110,7 @@ Me fait perdre l'Objet de mes vœux les plus doux.
 Parmy tous vos tourments, Ombres, connoissez-vous
 Un suplice égal à ma peine ?
 
-**** *book_ *id_body-8-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-802 *act_ *date_1678 *creator_corneille
 
 -*who_trois_furies
 Où penses-tu porter tes pas,
@@ -1160,7 +1160,7 @@ Promptement, qu'on l'aille avertir.
 Cependant monstrons-luy ce que ces lieux terribles,
 Ont d'Objets plus horribles.
 
-**** *book_ *id_body-8-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-803 *act_ *date_1678 *creator_corneille
 
 -*who_trois_furies
 Venez, Nymphes de l'Acheron,
@@ -1220,7 +1220,7 @@ Perdez l'effroy dont vos sens sont glacez,
 Nous allons vous servir de guide.
 Vous, Noirs Esprits, disparoissez.
 
-**** *book_ *id_body-9-1 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-901 *act_ *date_1678 *creator_corneille
 
 -*who_psyche
 
@@ -1249,7 +1249,7 @@ Si la mort finit mes mal-heurs,
 O toy qui de mes vœux reçois le tendre hommage,
 Songe qu'en expirant c'est pour toy que je meurs.
 
-**** *book_ *id_body-9-2 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-902 *act_ *date_1678 *creator_corneille
 
 -*who_venus
 Enfin, insolente Rivale,
@@ -1281,7 +1281,7 @@ A la pitié pour toy devroient m'interesser,
 Mais le plaisir de la vangeance
 Est trop doux pour y renoncer.
 
-**** *book_ *id_body-9-3 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-903 *act_ *date_1678 *creator_corneille
 
 -*who_mercure
 Vous croyez trop la jalouze colere
@@ -1327,7 +1327,7 @@ On veut donc m'obliger à consentir qu'il aime ?
 -*who_mercure
 Jupiter qui paroist vous le dira luy-mesme.
 
-**** *book_ *id_body-9-4 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-904 *act_ *date_1678 *creator_corneille
 
 -*who_jupiter
 Venus veut-elle resister ?

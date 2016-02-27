@@ -11,7 +11,7 @@ Et deffence sont faictes à tous autres de quelque qualité et condition qu'ils 
 Achevé d'imprimer le 12.
 Novembre, 1641.
 
-**** *book_ *id_body-3-1 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-301 *act_ *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 Ces regards enflammés que lancent vos beaus yeus,
@@ -48,7 +48,7 @@ Si pour vous adorer j'ay pû commettre un crime,
 J'ay failly,
 
 -*who_helene
-Ce n'est pas que je ne vous estime
+      Ce n'est pas que je ne vous estime
 Philoxene je sçay ce que vous meritez
 Et pour vostre naissance et pour vos qualitez,
 Mais quelques sentimens que l'estime me donne
@@ -105,13 +105,13 @@ Et ne preferant point vostre repos au mien,
 Je me delivrerois d'un facheux entretien,
 Suffit que je vous soufre et que trop indulgente,
 
-**** *book_ *id_body-3-2 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-302 *act_ *date_1642 *creator_la_calprenede
 
 -*who_cleone
 Madame, quelqu'un vient.
 
 -*who_huissier
-C'est le Prince Phalante.
+      C'est le Prince Phalante.
 
 -*who_helene
 Qu'il entre ; le cruel revient pour m'affliger,
@@ -122,7 +122,7 @@ Ah ! l'ingrat, le voicy, cache un peu ta foiblesse.
 Qu'il arrive à propos, cher amy je vous laisse,
 Ma vie est en vos mains et j'attens tout de vous.
 
-**** *book_ *id_body-3-3 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-303 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Depuis que vos malheurs sont des bon-heurs pour nous,
@@ -209,7 +209,7 @@ Il se retirera de son aveuglement :
 Employez-y vos soins⁎.
 
 -*who_phalante
-O ciel ! est-il possible
+      O ciel ! est-il possible
 Qu'à tant de passion⁎ vostre cœur insensible
 A cét Amant⁎ fidele ordonne le trespas,
 Puis que sans ce remede il ne guerira pas ?
@@ -259,7 +259,7 @@ Force cette pudeur qui te fait violence.
 Ah ! pardon, ma vertu,
 
 -*who_phalante
-La princesse balance,
+      La princesse balance,
 Sans doute mes discours auront fait quelque fruit.
 Ah ! cruauté du ciel où m'avez-vous reduit ?
 Faut-il que je poursuive avecque tant d'envie,
@@ -329,7 +329,7 @@ Et paroissent confus de l'office⁎ qu'ils font.
 O Dieux ! que deviendray-je ? ah ! Madame.
 
 -*who_helene
-De grace,
+      De grace,
 Dequoy que mon destin⁎ me flatte ou me menace,
 Faites reflection encore un peu de temps,
 Avant que prononcer l'arrest que j'en attends.
@@ -338,7 +338,7 @@ Qu'apres ce grand effort mon ame se remette :
 Elle est toute troublée⁎ en cette extremité,
 Adieu pardonnez-moy cette incivilité⁎.
 
-**** *book_ *id_body-3-4 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-304 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Restes d'une pudeur laschement offensée,
@@ -397,7 +397,7 @@ Si je devois brusler pourquoy dedans son ame
 N'allumiez-vous de mesme.
 
 -*who_aminte
-Esperez-le Madame,
+      Esperez-le Madame,
 Bannissez cette crainte, et recognoissez mieux,
 Cet amour qui triomphe et brille dans vos yeux :
 Si l'on n'en doit juger que selon l'apparance,
@@ -411,7 +411,7 @@ Grands Dieux si dans⁎ ma peur je ne suis point deceuë⁎,
 Et si vous haïssez un feu⁎ qui me fait tort,
 Envoyez moy bien-tost le remede ou la mort.
 
-**** *book_ *id_body-4-1 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-401 *act_ *date_1642 *creator_la_calprenede
 
 -*who_timandre
 Nous serions trop ingrats à tant de bons offices⁎,
@@ -498,7 +498,7 @@ Et si de vos malheurs mon ame combatuë,
 Ne ressentoit pour vous,
 
 -*who_philoxene
-Ah ! ce discours me tuë :
+      Ah ! ce discours me tuë :
 Juste ciel falloit-il pour comble de douleur,
 Qu'un innocent amy partageât mon malheur,
 Et que n'ayans qu'un cœur et qu'une ame commune,
@@ -563,11 +563,11 @@ Et que j'ay de bonheur parmy tant de disgrace,
 D'avoir fait un amy,
 
 -*who_phalante
-Souffrez⁎ que je vous chasse :
+      Souffrez⁎ que je vous chasse :
 Adieu laissez moy seul y rever un moment,
 Vous trouverez la Reyne en son appartement.
 
-**** *book_ *id_body-4-2 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-402 *act_ *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Seigneur de quelque soing⁎ que vostre ame agitée,
@@ -585,7 +585,7 @@ Recompensez Seigneur, ces preuves de ma foy.
 -*who_phalante
 Je n'ay rien à te dire, Arbante laisse moy,
 
-**** *book_ *id_body-4-3 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-403 *act_ *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Enfin je reste seul, et cette ingrate flame⁎,
@@ -692,13 +692,13 @@ Mais j'apperçois la Reyne, ô rencontre cruelle !
 Que dois-je devenir, dois-je m'esloigner d'elle ?
 Evite son abord, fuy miserable fuy.
 
-**** *book_ *id_body-4-4 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-404 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Ne vois-je pas Phalante ?
 
 -*who_cleone
-Oüy Madame, c'est luy.
+      Oüy Madame, c'est luy.
 
 -*who_phalante
 Mais je suis découvert, ah ! deffend toy, mon ame,
@@ -775,13 +775,13 @@ Un Dieu rechercheroit ceste bonne fortune⁎.
 Arate et Cleomede.
 
 -*who_helene
-O surprise importune⁎,
+      O surprise importune⁎,
 Ces gardes ont failly, je l'avois deffendu.
 
 -*who_phalante
 Helas ! sans ce secours Phalante estoit perdu.
 
-**** *book_ *id_body-4-5 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-405 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Phalante une autre fois vous me direz le reste,
@@ -794,25 +794,25 @@ Et l'affaire qu'on traitte est assez importante
 Pour divertir un peu,
 
 -*who_helene
-Vous en serez, Phalante.
+      Vous en serez, Phalante.
 
 -*who_phalante
 Vous me comblez d'honneur⁎.
 
 -*who_helene
-Venez donc avec nous.
+      Venez donc avec nous.
 Je ne veux rien oüir ny resoudre sans vous.
 
-**** *book_ *id_body-5-1 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-501 *act_ *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 La Reyne ayme Phalante.
 
 -*who_cleone
-Oüy Seigneur.
+      Oüy Seigneur.
 
 -*who_philoxene
-Ah ! Cleone,
+      Ah ! Cleone,
 Regarde la douleur que ce discours me donne,
 Et si ton amitié⁎ ne me peut secourir,
 Du moins n'invente rien qui me fasse mourir :
@@ -855,7 +855,7 @@ Et contre la raison, et contre mes avis.
 Et Phalante,
 
 -*who_cleone
-Je croy qu'il n'est pas insensible,
+      Je croy qu'il n'est pas insensible,
 Et que s'il n'est formé de nature impassible,
 S'il n'a les duretez d'un arbre ou d'un rocher,
 La Reyne a des appas qui le doivent toucher.
@@ -864,15 +864,15 @@ La Reyne a des appas qui le doivent toucher.
 C'est assez, juste ciel !
 
 -*who_cleone
-Gardez moy le silence,
+      Gardez moy le silence,
 Vous me perdriez, Seigneur.
 
 -*who_philoxene
-Vy dans⁎ cette asseurance,
+      Vy dans⁎ cette asseurance,
 Et previens⁎ cet esprit de tes bonnes leçons,
 Mais entrons, je veux mieux éclaircir mes soupçons.
 
-**** *book_ *id_body-5-2 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-502 *act_ *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Les Dieux me sont tesmoins que mon ame troublée⁎,
@@ -1004,7 +1004,7 @@ Luy refuser le prix qu'on doit à son service.
 Sa vertu, son amour,
 
 -*who_helene
-Ces discours superflus
+      Ces discours superflus
 M'aigrissent contre luy, bien, bien, n'en parlons plus,
 Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,
 Cet importun⁎ me nuit, je sçauray m'en deffaire,
@@ -1015,37 +1015,37 @@ Peut-estre on le verra rentré dans⁎ son devoir.
 Ah ! Madame, songez.
 
 -*who_helene
-Songez plustost vous-mesme.
+      Songez plustost vous-mesme.
 
 -*who_phalante
 Que Philoxene meurt.
 
 -*who_helene
-Et qu'Helene vous ayme.
+      Et qu'Helene vous ayme.
 
 -*who_phalante
 Le lairrez-vous perir ?
 
 -*who_helene
-Verrez-vous mon trespas ?
+      Verrez-vous mon trespas ?
 
 -*who_phalante
 Pouvez-vous l'oublier ?
 
 -*who_helene
-Ne m'oublierez-vous pas ?
+      Ne m'oublierez-vous pas ?
 
 -*who_phalante
 Prieray-je sans espoir ?
 
 -*who_helene
-Prierez-vous pour un autre ?
+      Prierez-vous pour un autre ?
 
 -*who_phalante
 L'interest⁎ que j'y prends.
 
 -*who_helene
-Esteindra-il le vostre ?
+      Esteindra-il le vostre ?
 
 -*who_phalante
 Celuy de mon amy sera tousjours le mien,
@@ -1071,28 +1071,28 @@ De sa presomption je le sçauray punir,
 Et luy faire cognoistre
 
 -*who_phalante
-Ah ! Madame.
+      Ah ! Madame.
 
 -*who_helene
-Ah ! Phalante.
+      Ah ! Phalante.
 
 -*who_phalante
 Doit-on pas secourir
 
 -*who_helene
-Une Reyne mourante.
+      Une Reyne mourante.
 
 -*who_phalante
 Je fais ce que je dois.
 
 -*who_helene
-Je fais ce que je puis.
+      Je fais ce que je puis.
 
 -*who_phalante
 Jugez de mon devoir.
 
 -*who_helene
-Et voyez qui je suis.
+      Et voyez qui je suis.
 
 -*who_phalante
 Vous estes en merite en beauté grande Reyne,
@@ -1101,21 +1101,21 @@ Et par ma propre mort je le dois secourir,
 Sauvez-le par pitié.
 
 -*who_helene
-Je ne puis sans mourir,
+      Je ne puis sans mourir,
 Et sans m'assassiner vous ne pouvez encore
 M'entretenir de luy.
 
 -*who_phalante
-Madame il vous adore.
+      Madame il vous adore.
 
 -*who_helene
 Et j'adore Phalante.
 
 -*who_phalante
-Il meurt.
+      Il meurt.
 
 -*who_helene
-Je meurs aussi.
+      Je meurs aussi.
 
 -*who_phalante
 Que fais-tu miserable ! esloigne toy d'icy,
@@ -1126,7 +1126,7 @@ Et sauve ta vertu d'un naufrage evident.
 Elle rend les abois.
 
 -*who_helene
-Enfin l'ingrat balance,
+      Enfin l'ingrat balance,
 Amour en ma faveur témoigne ta puissance :
 Fay grand Dieu quelque effort sur ce cœur endurcy.
 
@@ -1135,7 +1135,7 @@ Je prends congé, Madame, et m'esloigne d'icy,
 Pour regretter ailleurs ma mauvaise fortune⁎,
 Qui vous rend mon discours et ma veuë importune⁎.
 
-**** *book_ *id_body-5-3 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-503 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Va cruël, va plus loin signaler ta rigueur,
@@ -1203,16 +1203,16 @@ Enfin c'est un buscher qui me doit consommer⁎ :
 C'est un feu⁎ qui me plaist, et je serois marrie
 Si du mal qu'il me fait mon ame estoit guerie.
 
-**** *book_ *id_body-5-4 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-504 *act_ *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 Que fait la Reyne, Aminte ?
 
 -*who_aminte
-Elle est triste.
+      Elle est triste.
 
 -*who_philoxene
-Et de quoy.
+      Et de quoy.
 
 -*who_helene
 Ah ! que mal à propos l'importun⁎ vient à moy,
@@ -1258,7 +1258,7 @@ Accordez-le, Madame, à ma perseverance :
 Et donnez par pitié.
 
 -*who_helene
-Perdez-en l'esperance.
+      Perdez-en l'esperance.
 Et si par mes bontez vous en avez conçeu,
 Croyez que jusqu'icy vous vous estes deçeu⁎,
 Si c'est par des devoirs que vostre amour espere,
@@ -1310,12 +1310,12 @@ En me parlant pour luy comme il parle pour vous.
 Phalante, ah ! le perfide.
 
 -*who_helene
-Evitez ma cholere,
+      Evitez ma cholere,
 Et si vostre fureur vous porte à luy déplaire,
 Sçachez que je l'appuye, et que j'ay le pouvoir
 De punir un subjet qui sort de son devoir.
 
-**** *book_ *id_body-6-1 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-601 *act_ *date_1642 *creator_la_calprenede
 
 -*who_cleomede
 Enfin ce sont les vœux de toute la province,
@@ -1380,7 +1380,7 @@ Adieu, dans peu de jours je vous rendray contens.
 -*who_timandre
 Dieux ! rendez son dessein tel que je le desire.
 
-**** *book_ *id_body-6-2 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-602 *act_ *date_1642 *creator_la_calprenede
 
 -*who_helene
 Timandre demeurez, j'ay deux mots à vous dire.
@@ -1394,10 +1394,10 @@ Je vous veux advertir de la haute insolence
 De vostre Philoxene.
 
 -*who_timandre
-O Dieux !
+      O Dieux !
 
 -*who_helene
-Son imprudence
+      Son imprudence
 N'a pas craint aujourd'huy de me desobliger :
 Mais sans vostre respect je m'en sçaurois vanger.
 C'est vous seul que j'estime et que je considere,
@@ -1445,7 +1445,7 @@ Vous sçavez son caprice et son humeur boüillante,
 Gardez qu'il ne s'attaque à ce Prince estranger
 Puis que je le protege, et le sçauray venger.
 
-**** *book_ *id_body-6-3 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-603 *act_ *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 Reste d'une amitié⁎, que le traistre a blessee,
@@ -1487,43 +1487,43 @@ Reprocher en mourant ses infidelitez.
 Et laver dans ton sang la faute que j'ay faite,
 D'honorer⁎ un ingrat d'une amitié⁎ parfaite.
 
-**** *book_ *id_body-6-4 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-604 *act_ *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Laissez-moy seul, Arbante !
 
 -*who_philoxene
-O grands Dieux je le voy.
+      O grands Dieux je le voy.
 
 -*who_arbante
 Je vous suivray, Seigneur.
 
 -*who_phalante
-Arbante laisse moy.
+      Arbante laisse moy.
 
 -*who_philoxene
 Il faut mourir perfide.
 
 -*who_phalante
-O Dieux !
+      O Dieux !
 
 -*who_philoxene
-Deffends toy traistre,
+      Deffends toy traistre,
 Cette confusion que tu me fais paroistre,
 Est un effet leger du remords que tu sens,
 Mais il en faut mourir.
 
 -*who_phalante
-Estes-vous hors du sens⁎
+      Estes-vous hors du sens⁎
 Amy ?
 
 -*who_philoxene
-Quitte ce nom que ton crime viole,
+      Quitte ce nom que ton crime viole,
 Homme sans cœur, sans foy, sans honneur⁎, sans parole,
 Ce nom ne t'est plus deu.
 
 -*who_phalante
-Bons Dieux ! je suis confus,
+      Bons Dieux ! je suis confus,
 Philoxene, deux mots, ne me cognois-tu plus ?
 
 -*who_philoxene
@@ -1531,7 +1531,7 @@ Ouy je te cognois trop, et cette cognoissance
 Arme ce bras vangeur.
 
 -*who_phalante
-Contre mon innocence.
+      Contre mon innocence.
 
 -*who_philoxene
 Ton innocence traistre, ah ! c'est estre innocent,
@@ -1580,7 +1580,7 @@ Tu t'acquitois, ingrat, en m'enlevant Helene,
 Et portant mille morts
 
 -*who_phalante
-C'est assez Philoxene,
+      C'est assez Philoxene,
 Je t'entends, mais les Dieux, juges de tous mes soins⁎,
 Sont de mon proceder veritables tesmoins :
 Que leur courroux éclate, et que d'un coup de foudre⁎
@@ -1590,7 +1590,7 @@ Avec plus de franchise et plus d'affection⁎
 Que jamais un amy.
 
 -*who_philoxene
-Je n'en suis plus en doute,
+      Je n'en suis plus en doute,
 Cherche pour t'excuser un autre qui t'écoute,
 Deffends-toy seulement : quoy tu manques de cœur ?
 Ah ! lasche deffends-toy, je te perdray d'honneur⁎,
@@ -1598,7 +1598,7 @@ Et faisant à ta gloire⁎ une eternelle tache,
 Je publiray par tout
 
 -*who_phalante
-Ah ! je ne suis point lâche,
+      Ah ! je ne suis point lâche,
 Tu le sçais Piloxene, et tu m'as veu souvent
 Dans⁎ de plus grands perils engagé trop avant,
 Pour conserver de moy cette indigne créance.
@@ -1628,7 +1628,7 @@ Cherchons pour t'assouvir un lieu plus escarté,
 On nous peut descouvrir du quartier de la Reyne,
 Ce bois est plus commode, entrons-y Philoxene.
 
-**** *book_ *id_body-6-5 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-605 *act_ *date_1642 *creator_la_calprenede
 
 -*who_timandre
 Dieux ! que mon fils est prompt, et que sa folle humeur
@@ -1639,7 +1639,7 @@ Et suit de sa fureur l'aveugle mouvement :
 O jeune homme insensé !
 
 -*who_cleomede
-Courons-y promptement,
+      Courons-y promptement,
 Icy la diligence est assez importante,
 Arbante en quel endroit as-tu laissé Phalante ?
 
@@ -1653,20 +1653,20 @@ J'ay bien veu Philoxene approcher de mon maistre.
 N'as-tu rien entendu ?
 
 -*who_arbante
-J'estois trop esloigné,
+      J'estois trop esloigné,
 Et mon maistre en partant ne m'a rien témoigné,
 Qui me fist redouter de les laisser ensemble,
 Estant si bons amis, je croyois
 
 -*who_timandre
-Dieux je tremble !
+      Dieux je tremble !
 Courons, ah ! que je crains que ce ne soit trop tard,
 Grands Dieux ! guidez mes pas.
 
 -*who_cleomede
-Courez d'une autre part.
+      Courez d'une autre part.
 
-**** *book_ *id_body-6-6 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-606 *act_ *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 La justice des Dieux en ta faveur éclate,
@@ -1676,7 +1676,7 @@ Et leur courroux enfin punit une ame ingrate,
 Philoxene.
 
 -*who_philoxene
-Je meurs, et ma temerité
+      Je meurs, et ma temerité
 Reçoit enfin le prix qu'elle avoit merité,
 Je meurs, mais d'une mort qui n'est pas assez rude
 Pour punir cest ingrat de son ingratitude.
@@ -1748,13 +1748,13 @@ Faites luy desormais un traitement plus doux,
 Vous estes digne d'elle, elle est digne de vous,
 Et j'estois criminel en mettant quelque obstacle.
 
-**** *book_ *id_body-6-7 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-607 *act_ *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Nous arrivons trop tard.
 
 -*who_cleomede
-Dieux, le triste spectacle !
+      Dieux, le triste spectacle !
 
 -*who_timandre
 Acheve, acheve ingrat, apres ta trahison,
@@ -1762,7 +1762,7 @@ Et te soüille du sang de toute ma maison,
 Meurs ou me fais mourir.
 
 -*who_phalante
-Il est juste Timandre.
+      Il est juste Timandre.
 Voicy, voicy le sang que vous devez répandre,
 Je suis ce desloyal, ce cruel, cet ingrat,
 Qui survis laschement à cet assassinat,
@@ -1775,28 +1775,28 @@ Pourquoy retenés-vous les mouvemens d'un pere.
 Retirés-vous Arbante.
 
 -*who_philoxene
-Ah ! mon pere, deux mots,
+      Ah ! mon pere, deux mots,
 Et si vous desirés que je meure en repos,
 Ayez plus de respect pour un autre moy-mesme,
 Traictés mieux mon amy.
 
 -*who_timandre
-Quoy, tu veux que je l'ayme,
+      Quoy, tu veux que je l'ayme,
 Celuy qui de ton sang rougit indignement,
 Ce meurtrier de mon fils.
 
 -*who_philoxene
-Ah ! je meurs doublement.
+      Ah ! je meurs doublement.
 
 -*who_timandre
 Ce monstre, ce cruel.
 
 -*who_phalante
-Encore plus Timandre,
+      Encore plus Timandre,
 Ce traistre, ce bourreau.
 
 -*who_philoxene
-Me voulez-vous entendre
+      Me voulez-vous entendre
 Mon Pere ? par ce nom et si cher et si doux,
 Par la clarté du jour que je receus de vous,
 Et qui dans un moment me doit estre ravie
@@ -1805,11 +1805,11 @@ Aymés, aymés Phalante, autant ou plus que moy,
 C'est un amy sans tache.
 
 -*who_phalante
-Il t'a manqué de foy,
+      Il t'a manqué de foy,
 T'a trahy, t'a tué.
 
 -*who_philoxene
-Ce desespoir m'offence.
+      Ce desespoir m'offence.
 
 -*who_phalante
 Non, non, si ce discours retarde sa vangeance,
@@ -1830,12 +1830,12 @@ Emportons-le chez vous, il peut encor guerir.
 Arbante assistez nous.
 
 -*who_phalante
-O pitoyable office⁎,
+      O pitoyable office⁎,
 Helas avec quel cœur te rends-je ce service !
 Cher et noble fardeau d'un mal-heureux amy
 Dans⁎ ce reste d'espoir dois-je vivre à demy ?
 
-**** *book_ *id_body-7-1 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-701 *act_ *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Esprit d'un cher amy que ma main meurtriere,
@@ -1932,7 +1932,7 @@ Il est comme un esclair dans mon ame passé
 Il se formoit à peine et tu l'as effacé,
 Mais je sçay qu'il t'offence et merite ta haine.
 
-**** *book_ *id_body-7-2 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-702 *act_ *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Aminte vous vient voir de la part de la Reyne.
@@ -1950,7 +1950,7 @@ Il parle de la Reyne, ô Dieux changez ce cœur !
 Aminte quel dessein.
 
 -*who_aminte
-Vous me voyez Seigneur
+      Vous me voyez Seigneur
 Par le commandement d'une Reyne affligée.
 
 -*who_phalante
@@ -1976,7 +1976,7 @@ C'est le plus doux arrest que j'en puis recevoir,
 Allons dire un adieu qui finit ma disgrace.
 Il est juste, il est temps que je te satisfasse.
 
-**** *book_ *id_body-7-3 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-703 *act_ *date_1642 *creator_la_calprenede
 
 -*who_arate
 Ah ! Madame, voyez nos sensibles regrets,
@@ -2013,7 +2013,7 @@ Peut estre ce poison n'est pas si violent
 Qu'on n'y puisse apporter
 
 -*who_helene
-Helas ! il est trop lent,
+      Helas ! il est trop lent,
 Et le cruel servant mon ingrate fortune⁎,
 Laisse par trop durer une vie importune⁎ :
 Mais bien qu'il soit si lent à servir ma douleur,
@@ -2058,21 +2058,21 @@ Autant que mon malheur vous a peu satisfaits.
 -*who_arate
 Ah ! discours qui me blesse au plus vif de mon ame.
 
-**** *book_ *id_body-7-4 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_body-704 *act_ *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Quel estrange⁎ spectacle ?
 
 -*who_cleone
-Ah ! je meurs.
+      Ah ! je meurs.
 
 -*who_cleomede
-Ah ! Madame,
+      Ah ! Madame,
 Vous pouvés-vous resoudre à nous quitter ainsi ?
 Eh bien, nous vous suivrons.
 
 -*who_helene
-O grands Dieux le voicy.
+      O grands Dieux le voicy.
 Ah ! le cruel, mon cœur fremit à ceste veuë,
 Et d'un object si cher mon ame retenuë,
 Bien que cet inhumain la presse de partir,
@@ -2202,11 +2202,11 @@ O reparation qui n'est plus legitime,
 Ah ! Phalante.
 
 -*who_arbante
-Ah ! mon Maistre, ô malheur de mes jours !
+      Ah ! mon Maistre, ô malheur de mes jours !
 Helas ! assistés-moy.
 
 -*who_phalante
-J'abhorre ton secours.
+      J'abhorre ton secours.
 
 -*who_helene
 Ah ! cruel à moy seule, et non pas à toy-mesme,
@@ -2224,7 +2224,7 @@ Cherche toy la, cruel, et previen⁎ le poison,
 Il est lasche, il est lent, suppleons,
 
 -*who_phalante
-Ah ! Madame,
+      Ah ! Madame,
 De grace en ce moment où je vous rends une ame
 Toute pleine de zele et d'amour et de foy,
 Ne me condamnez point, je fay ce que je doy,
@@ -2235,13 +2235,13 @@ Je ne puis en mourant les payer qu'à demy.
 Je perds la voix, adieu recevez
 
 -*who_helene
-Ah ! Phalante.
+      Ah ! Phalante.
 
 -*who_arbante
 Ah ! Seigneur.
 
 -*who_helene
-Il est mort, et moy je suis vivante.
+      Il est mort, et moy je suis vivante.
 Et l'effort du poison est si foible et si lent,
 Pour me faire mourir d'un coup plus violent,
 Bien que par ton moyen ma mort soit asseurée,

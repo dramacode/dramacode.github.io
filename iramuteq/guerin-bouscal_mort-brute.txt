@@ -207,7 +207,7 @@ Où Brute et sa vertu⁎ confesseront en fin
 Qu'à moins que d'un coup du Destin,
 Un Trosne bien fondé ne se sçauroit abatre.
 
-**** *book_ *id_body-5-1 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-501 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 Qu'un Estat est mal sain dans le siecle où nous sommes,
@@ -275,7 +275,7 @@ Qu'on doit bien tost finir mes soucis et leurs peines,
 Et que la liberté reprendra sa vigueur,
 S'ils monstrent au combat qu'ils en ont dans le cœur⁎.
 
-**** *book_ *id_body-5-2 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-502 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_cassie
 Resolu qu'aujourd'huy la bataille se donne ?
@@ -367,7 +367,7 @@ Que ce bras n'est armé qu'afin de l'éviter.
 Adieu donc, l'heure presse, il faut que je m'en aille
 Minuter en repos l'ordre de la bataille.
 
-**** *book_ *id_body-5-3 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-503 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_cassie
 C'est bien contre mon cœur qu'avec si peu de mains,
@@ -409,7 +409,7 @@ C'est assez disputé sur ces vaines matieres,
 Il est temps de songer que nous devons ce jour
 Faire voir des effets et de haine et d'amour.
 
-**** *book_ *id_body-5-4 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-504 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 J'auray la pointe droite, et ma Cavalerie
@@ -420,7 +420,7 @@ Et pour perdre en un jour tyrans et tyrannie;
 Mais qu'est-ce que je voy ?
 
 -*who_genie1
-C'est ton mauvais Genie⁎,
+      C'est ton mauvais Genie⁎,
 Qui te vient advertir que dans fort peu de temps
 Tu le pourras revoir parmy les combatans.
 
@@ -434,19 +434,19 @@ Pour commancer le jour qui doit finir la guerre;
 Allons voir nos Soldats, et mettre dans leurs cœurs
 Le desir de mourir ou de vivre vainqueurs.
 
-**** *book_ *id_body-5-5 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-505 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_porcie
 Tu vas donc au combat ?
 
 -*who_brute
-La liberté m'appelle,
+      La liberté m'appelle,
 Et je serois content de m'immoler pour elle,
 Si je pouvois sçavoir ma Porcie en repos,
 Loin des troubles que Mars
 
 -*who_porcie
-Brise là ce propos,
+      Brise là ce propos,
 Il choque ma vertu⁎ qui seroit offensee
 S'il estoit aprouvé d'une seule pensee;
 Quoy ! Brute doute encor que mon affection
@@ -526,10 +526,10 @@ Disposer mes soldats à donner la bataille,
 L'heure me presse, adieu.
 
 -*who_porcie
-Va donc, mon cher soucy⁎,
+      Va donc, mon cher soucy⁎,
 Certain que si tu meurs je veux mourir aussi.
 
-**** *book_ *id_body-5-6 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-506 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_porcie
 Donques les bras croisez en ce malheur extresme
@@ -609,7 +609,7 @@ A soulager les maux d'un peuple miserable
 Je sçay depuis long-temps quel sera mon devoir,
 Mais qu'un courroux sied mal lors qu'il est sans pouvoir !
 
-**** *book_ *id_body-6-1 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-601 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_marc_anthoine
 Puis que c'est aujourd'huy qu'un destin favorable,
@@ -702,7 +702,7 @@ D'affronter les dangers pour te voir satisfait.
 -*who_marc_anthoine
 Mon cœur apres cela ne voit rien qu'il ne brave.
 
-**** *book_ *id_body-6-2 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-602 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_marc_anthoine
 Mais que voudroit de nous le Medecin d'Octave,
@@ -753,7 +753,7 @@ Donne une loy certaine à ta sage conduite.
 Il est trop important pour estre à negliger,
 Allons, le temps est court, il le faut mesnager.
 
-**** *book_ *id_body-6-3 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-603 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 En fin, braves Romains, voicy l'heure oportune
@@ -869,7 +869,7 @@ D'avoir de leur honneur tenu si peu de compte;
 Mais il est déja temps que chacun à son rang
 Aille faire rougir ses armes de leur sang.
 
-**** *book_ *id_body-6-4 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-604 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_porcie
 Demons⁎ qui conduisez l'ordre des Destinées,
@@ -893,7 +893,7 @@ Rien me puisse empescher de courir à la mort,
 Si mon pere fuyant la mesme servitude
 Malgré tous ses Soldats fut maistre de son sort.
 
-**** *book_ *id_body-6-5 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-605 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_compagne
 Madame, en cét instant tous les Soldats en armes
@@ -935,7 +935,7 @@ En faveur d'un Tyran arma contre mon pere;
 Allons y toutefois, et par nos actions
 Tesmoignons qu'un grand cœur dompte ses passions.
 
-**** *book_ *id_body-7-1 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-701 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_cassie
 C'en est fait, chere Rome, il faut rendre les armes,
@@ -989,14 +989,14 @@ Vous apprendrez bien-tost sa vie ou son trespas⁎.
 Tu hazardes beaucoup.
 
 -*who_titine
-Nul danger n'espouvante
+      Nul danger n'espouvante
 Ceux qui sont pour Cassie et pour Rome mourante.
 
 -*who_pindare
 J'approuve ce conseil.
 
 -*who_demetrie
-Et je l'estime aussi.
+      Et je l'estime aussi.
 
 -*who_cassie
 Va donc, mais souvien toy que je t'atens icy.
@@ -1009,7 +1009,7 @@ J'estime fort Titine, il est vaillant et sage,
 Mais cependant gagnons le haut de ce rocher,
 Pour mieux voir si quelqu'un nous voudroit approcher.
 
-**** *book_ *id_body-7-2 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-702 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 Les Tyrans sont vaincus, et nostre chere terre
@@ -1029,15 +1029,15 @@ Ont creu que Jupiter nous aydoit de sa foudre.
 Cassie a…
 
 -*who_chef1_brute
-L'un des siens s'en vient parler à vous.
+      L'un des siens s'en vient parler à vous.
 
-**** *book_ *id_body-7-3 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-703 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 Les Tyrans sont vaincus.
 
 -*who_titine
-Ils sont vainqueurs pour nous.
+      Ils sont vainqueurs pour nous.
 
 -*who_brute
 O Dieux justes et bons ! est-ce donc la coustume
@@ -1045,7 +1045,7 @@ De ne gouster jamais de bien sans amertume ?
 Mais Cassie…
 
 -*who_titine
-        Il attend apres votre secours,
+      Il attend apres votre secours,
 
 -*who_brute
 D'où provient ce malheur, fay nous en le discours.
@@ -1124,7 +1124,7 @@ La nostre mediocre est un gain en effet,
 Mais il est déja temps que j'aille vers Cassie,
 Remettant à tantost l'heure de voir Porcie.
 
-**** *book_ *id_body-7-4 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-704 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_cassie
 Quoy, je voy l'ennemy qui s'en vient à grands pas,
@@ -1142,7 +1142,7 @@ Mais ce trespas⁎ me semble un peu precipité,
 Titine...
 
 -*who_cassie
-Ha ! ce seul nom m'est un sujet de rage,
+      Ha ! ce seul nom m'est un sujet de rage,
 
 -*who_pindare
 Qui reviendra bien-tost calmera cét orage.
@@ -1231,7 +1231,7 @@ Porter aux ennemis ces malheureuses armes,
 Peut-estre cét objet disposera leurs cœurs
 A n'user pas sur moy du pouvoir des vainqueurs.
 
-**** *book_ *id_body-7-5 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-705 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_titine
 Pourroit-on justement m'accuser de paresse⁎ ?
@@ -1264,10 +1264,10 @@ Sus⁎ donc mourons, mon cœur, certain que le trespas⁎
 Peut faire seulement que nous ne mourons pas.
 Ha, Brute !
 
-**** *book_ *id_body-7-6 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-706 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
-Quelle voix vient de se faire entendre ?
+      Quelle voix vient de se faire entendre ?
 
 -*who_titine
 Celle d'un innocent que la parque⁎ va prendre.
@@ -1279,7 +1279,7 @@ O malheur sans pareil ! Cassie est aussi mort.
 Il faut dissimuler.
 
 -*who_chef1_brute
-O dure loy du sort !
+      O dure loy du sort !
 
 -*who_brute
 Les hommes courent tous une mesme avanture⁎,
@@ -1323,7 +1323,7 @@ Portez sans bruit ce corps dedans⁎ la sepulture,
 Et j'espere demain par ma langue et mes mains
 De redonner le cœur⁎ et Rome à nos Romains.
 
-**** *book_ *id_body-8-1 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-801 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_octave
 Tous ceux qui comme nous combatent pour la gloire,
@@ -1363,7 +1363,7 @@ Il faut à vostre abord⁎ mettre les armes bas.
 Ce Soldat de retour porte sur le visage
 Les signes evidens d'un funeste presage.
 
-**** *book_ *id_body-8-2 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-802 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_soldat
 Le sensible regret où le sort me reduit
@@ -1385,7 +1385,7 @@ Et nous l'irions chercher jusque dedans⁎ l'Enfer:
 Poursuy.
 
 -*who_soldat
-Le souvenir d'un si sanglant carnage,
+      Le souvenir d'un si sanglant carnage,
 Met mon ame en desordre et glace mon courage,
 Jamais le Ciel n'a veu tant de corps renversez,
 Et la mort assouvie a crié, c'est assez.
@@ -1485,7 +1485,7 @@ J'ay de mes bataillons ensanglanté la terre,
 Et porté dans son camp le foudre de la guerre,
 Luy seul s'est garanty d'un funeste trespas⁎.
 
-**** *book_ *id_body-8-3 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-803 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_demetrie
 Et ces armes pourtant ne le tesmoignent pas.
@@ -1550,7 +1550,7 @@ Pour suivre l'ennemy tandis qu'il est troublé.
 -*who_marc_anthoine
 Allons le proposer au Conseil assemblé.
 
-**** *book_ *id_body-8-4 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-804 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_porcie
 Protecteurs de la liberté,
@@ -1614,7 +1614,7 @@ Son sang espandu nous anime,
 Et par un destin legitime
 Nous trouvons nostre vie au fonds de son tombeau.
 
-**** *book_ *id_body-8-5 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-805 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 En fin je voy qu'un jour vous banissez la plainte.
@@ -1716,7 +1716,7 @@ Mais il est déja tard, retirons nous d'icy.
 -*who_porcie
 Dieux ! finissez bien-tost ma vie ou mon soucy⁎.
 
-**** *book_ *id_body-9-1 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-901 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 Je rends graces aux Dieux de ce que dans l'orage
@@ -1796,7 +1796,7 @@ Vive donc toujours Brute, et meurent les Tyrans.
 -*who_brute
 A moy donc compagnons, et qu'on garde les rangs.
 
-**** *book_ *id_body-9-2 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-902 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_porcie
 Qu'ay-je fait qui merite un traitement si rude ?
@@ -1858,7 +1858,7 @@ Il ne m'en fasche pas, il faut ceder au sort.
 -*who_compagne
 Bons Dieux assistez moy pour empescher sa mort.
 
-**** *book_ *id_body-9-3 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-903 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_octave
 Qu'on pardonne aux Romains, qu'on cesse le carnage,
@@ -1876,7 +1876,7 @@ Pour chastier l'orgueil de ce peuple rebelle,
 Allons jusques au bout, poursuivons nostre effort,
 Et taschons d'avoir Brute ou prisonnier ou mort.
 
-**** *book_ *id_body-9-4 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-904 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_brute
 Puis que nos bons desseins sont veus d'un mauvais Astre,
@@ -2044,7 +2044,7 @@ Ce coup me va venger du Destin qui m'outrage:    
 Ha ! je tombe, je meurs, mon œil est obscurcy,
 Mais je souffre trop peu; mort redouble ta rage.
 
-**** *book_ *id_body-9-5 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-905 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_ami1_brute
 C'est l'endroit mal-heureux où nous l'avons laissé.
@@ -2134,12 +2134,12 @@ Je cognois cent chemins pour aller aux enfers.
 Octave vient à nous.
 
 -*who_porcie
-Verray-je ce perfide
+      Verray-je ce perfide
 Coupable de ma perte et de cét homicide ?
 Non, fuyons le plustost, et perdons la clarté
 Puis que Rome a perdu Rome et la liberté.
 
-**** *book_ *id_body-9-6 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-906 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_octave
 Le voicy, chers amis, cét objet de nos haines,
@@ -2198,7 +2198,7 @@ Qui flotte impetueux là bas dedans⁎ la plaine.
 C'est bien peu pour esteindre une mortelle haine,
 Et monstrer ce que peut une extreme valeur.
 
-**** *book_ *id_body-9-7 *act_ *date_1637 *creator_guerin_de_bouscal
+**** *book_ *id_body-907 *act_ *date_1637 *creator_guerin_de_bouscal
 
 -*who_soldat
 J'ay donc veu sans mourir ce comble de malheur

@@ -739,7 +739,7 @@ Simple, t'ébranles-tu d'un scrupuleux erreur ? (v. 1111-1116).
 
 Elle essaye très maladroitement d'en expliquer la raison : l'« instinct » comme elle appelle très primitivement cette force qui la fait hésiter semble avoir le dessus sur sa fureur, et ce n'est que par la vision de ses frères égorgés qu'elle réussit à sortir de cette impasse et à parcourir le dernier pas qui sépare la mère de la criminelle.
 
-Ce qui fait du personnage d'Althée une mère profondément dénaturée c'est la joie avec laquelle elle apprend la mort de son fils (1183-90).
+Ce qui fait du personnage d'Altée une mère profondément dénaturée c'est la joie avec laquelle elle apprend la mort de son fils (1183-1190).
 
 En ce qui concerne le caractère du personnage d'Altée il est entièrement submergé par la passion. Altée devrait avoir le caractère d'une mère. Or, c'est une mère dénaturée qui n'est pas animée par le moindre remord. Elle n'est ni reine, puisqu'elle n'use pas de clémence quoiqu'elle rende la justice, et elle n'est ni mère. Ainsi, la mère est inhumaine dans un châtiment si barbare.
 
@@ -1627,7 +1627,7 @@ De luy clôre les yeux d'une éternelle nuë,
 Ton labeur épargné brave Cecropien [154],  
 Le chef d'œuvre second du pere olimpien [155],  
 
-    LINCÉE. 
+    LINCÉE.
 Pourveu que seurement conduit dessur⁎ ses erres⁎,  
 L'épaisseur des forests, ne⁎ distance de terres,  
 Ne⁎ ruse, que sçauroit l'animal employer,  
@@ -2175,7 +2175,7 @@ Mais ce traitre animal une fois irrité,
 Ne se rapaise plus.  
 
     PLEXIPE.
-Tu dis la verité,  
+        Tu dis la verité,  
 Toutefois n'épreuvons que tard la violence.  
 
     TOXÉE.
@@ -2649,7 +2649,7 @@ Ma vindicte⁎, à l'effet du dessein qu'elle pense.
 Enfant, & Roy, bons Dieux ! perdez le souvenir,  
 De ce qui ne peut plus aussy bien n'avenir⁎.  
 
-    ALTÉE. 
+    ALTÉE.
 N'exiger du forfait un suplice capable,  
 Sans doute me rendroit plus que l'auteur coupable.  
 
@@ -2685,7 +2685,7 @@ Un beau pair n'acoupla qui fut plus vertueux.
 Tu leur seras en fin partisane commune,  
 Et fautrice du coup qui cause ma rancune.  
 
-    NOURICE. 
+    NOURICE.
 Vos germains⁎ agresseurs précipitent leur mort,  
 Le Roy que d'un courous excessif n'a le tort.  
 
@@ -3641,7 +3641,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [166] L'ironie de Thésée envers Atalante est ici très claire. Thésée apparaît chez Hardy comme un personnage particulièrement misogyne. Il rejette la valeur d'Atalante et se moque d'elle en lui demandant de le protéger en cas de danger.
 
-[167] La remarque de Jason du *Méléagre* deBensérade fait écho à cette réplique de Lincée : « ce n'est Daim ny chevreuil que nous allons chasser. »
+[167] La remarque de Jason du *Méléagre* de Bensérade fait écho à cette réplique de Lincée : « ce n'est Daim ny chevreuil que nous allons chasser. »
 
 [168] la forme reculer + complément direct n'est pas attestée dans les grammaires et les dictionnaires du XVII*e* siècle. Serait-ce une nouvelle licence de notre poète ? 
 

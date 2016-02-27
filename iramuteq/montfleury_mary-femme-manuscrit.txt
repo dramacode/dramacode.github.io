@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1-1 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-101 *act_ *date_1664 *creator_montfleury
 
 -*who_tomire
 Si Celime est bien tost d humeur a Vous entendre
@@ -14,32 +14,32 @@ Je vay Voir si pour vous elle sera Visible
 Preparez Vous icy iusques a mon retour
 A la bien divertir pour faire Vostre cour
 
-**** *book_ *id_body-1-2 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-102 *act_ *date_1664 *creator_montfleury
 
 -*who_julie
 Ah Carlos
 
 -*who_carlos
-ah julie
+      ah julie
 
 -*who_tomire
-ah Marine
+      ah Marine
 
 -*who_marine
-ah Tomire
+      ah Tomire
 Ne pleure donc plus tant car tu me feras rire
 
 -*who_carlos
 Helas que vostre sort
 
 -*who_julie
-helas que noz malheurs
+      helas que noz malheurs
 
 -*who_carlos
 Me va causer d'ennuys
 
 -*who_julie
-me vont couster de pleurs
+      me vont couster de pleurs
 
 -*who_carlos
 Ah que si vous pouviez scavoir a quoy m'expose
@@ -75,7 +75,7 @@ Le peril ou j'estois et vostre desespoir
 Et ses conseils…
 
 -*who_marine
-allons mettons tout sur marine
+      allons mettons tout sur marine
 Voyons qu'ay je tant fait ça que ie m'examine
 Je vous voyois tous deux desesperez mourantz
 L'un enrageoit dehors l'autre pleuroit dedans
@@ -140,7 +140,7 @@ A parler turc pour quand le traistre m'auroit pris
 Vous ne croiriez jamais
 
 -*who_carlos
-Va nous sçavons ta peine
+      Va nous sçavons ta peine
 Ne nous en parle plus puisque ta plainte est vaine
 Nous partageons tes maux et tu dois sur ce point
 
@@ -152,11 +152,11 @@ Pour moy ie ne sçaurois perdre encor l'esperance
 De revoir mon pays
 
 -*who_julie
-eh sur quelle apparence
+      eh sur quelle apparence
 Surquoy...
 
 -*who_marine
-je ne sçaurois croire que vostre espoux
+      je ne sçaurois croire que vostre espoux
 Ou vostre mere n'ayent quelque pitié de nous
 vostre mere vous ayme et je me persuade
 Que vostre digne espoux dom brusquin d'Alvarade
@@ -178,7 +178,7 @@ Mais dis nous donc surquoy car tu sçais qu'en l'estat
 Ou...
 
 -*who_marine
-c'est qu'en arrivant un certain renegat
+      c'est qu'en arrivant un certain renegat
 Touché de ma douleur voulut bien me promettre
 Que si je luy voulois donner un mot de lettre
 De quelque endroit qu'icy nous eussions peu venir
@@ -188,23 +188,23 @@ Il trouveroit moyen de la faire tenir
 Et tu las escrite ?
 
 -*who_marine
-ouy
+      ouy
 
 -*who_carlos
-tu l'auras donc donnée
+      tu l'auras donc donnée
 
 -*who_marine
 Sans doute
 
 -*who_carlos
-ainsy tu crois que lon l'ayt envoyée
+      ainsy tu crois que lon l'ayt envoyée
 
 -*who_marine
 Il me la dit ainsy, l'autre jour je le vis
 Et je sceus...
 
 -*who_carlos
-ah voicy le comble a mes ennuys
+      ah voicy le comble a mes ennuys
 Du dernier des malheurs ma disgrace est suivie
 Je n'auray ny repos ny plaisir de ma Vie
 Je suis perdu madame et mon cœur desormais
@@ -212,7 +212,7 @@ Va croire a tous momens vous perdre pour jamais
 Jamais d'aucun espoir...
 
 -*who_julie
-il faudroit des miracles
+      il faudroit des miracles
 Les lettres d'icy la rencontrent tant d'obstacles
 Qu'il faudroit qu'un demon pour nous persecuter
 Se fust exprez chargé du soin de la porter
@@ -235,27 +235,27 @@ Ne voulust a la fin quelque jour… que sçait-on
 Ce qui peut arriver
 
 -*who_tomire
-elle a raison je pense
+      elle a raison je pense
 Tenez ces chiens de turcs nont point de conscience
 Et... Mais quand dom brusquin Viendroit icy ma foy
 Je doute qu'il voulust te racheter
 
 -*who_marine
-pourquoy
+      pourquoy
 
 -*who_tomire
 Ce fust par ton moyen que lon plia bagage
 Et...
 
 -*who_marine
-j'ay toujours si bien joüé mon personnage
+      j'ay toujours si bien joüé mon personnage
 Qu'il aura soubçonné tous les gens du logis
 plutost que de nous croire icy par mes avis
 Et je sçay qu'il faisoit trop de fonds sur mon Zele
 Pour m'accuser jamais...
 
 -*who_carlos
-ah que tu m'es cruelle
+      ah que tu m'es cruelle
 Fatiment tu le sçais ayme a nous obliger
 Il est nostre patron et gouverneur d'Alger
 Peut estre que les soins que i'ay Ø mis en usage
@@ -263,7 +263,7 @@ Auroint sans ton secours finy nostre esclavage
 Mon oncle…
 
 -*who_marine
-tout cela n'anroit rien fait pour nous
+      tout cela n'anroit rien fait pour nous
 Vostre oncle tout au plus n'eust racheté que vous
 
 -*who_tomire
@@ -273,7 +273,7 @@ Et cache plus desprit sous ces petitz habitz
 Que le plus vieux renard de tout nostre pays
 On dit quelle a trente ans et je n'ay point de peine
 
-**** *book_ *id_body-1-3 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-103 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Celime va passer dans la sale prochaine
@@ -286,7 +286,7 @@ Son chagrin se pouroit repandre sur vous deux
 Je vous en averty
 
 -*who_carlos
-Suffit je vous rend grace
+      Suffit je vous rend grace
 
 -*who_zaire
 Elle est depuis huit jours dun bouru qui me passe
@@ -322,13 +322,13 @@ Au feu de Fatiman si l hymen concerté
 S'accomplit il me doit donner la liberté
 Il me la bien promis et me tiendra parolle
 
-**** *book_ *id_body-1-4 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-104 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Qu'a telle a differer son chagrin me desole
 il faut que ie l'observe ah ! la voicy j'ay peur
 
-**** *book_ *id_body-1-5 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-105 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 Ah qu'un nouvel amour met de trouble en mon cœur
@@ -343,18 +343,18 @@ Mais puisque vous voila je vay les avertir
 Non demeure
 
 -*who_zaire
-eh souffrez que je les avertisse
+      eh souffrez que je les avertisse
 De grace, et trouvez bon que lon vous resjouisse
 Vous avez du chagrin il ne sert qu'a laidir
 Tenez un petit air vous va ragaillardir
 Laissez moy faire
 
 -*who_celime
-non avant qu'on les appelle
+      non avant qu'on les appelle
 Je veux t'entretenir Ø
 
 -*who_zaire
-moy ? que me voudroit elle
+      moy ? que me voudroit elle
 
 -*who_celime
 Tu vois icy Julie et carlos tous les jours
@@ -379,7 +379,7 @@ Sans doute ils s'ayment mais quand leurs douleurs s'apaise
 A quoy s occupent ils ? Ø
 
 -*who_zaire
-ils resvent et se taisent
+      ils resvent et se taisent
 Jusqu'a vostre reveil ils sont en cet estat
 Non jamais entretien de gens ne fust si plat
 Et je ne croirois pas sans le voir d'ordinaire
@@ -389,14 +389,14 @@ Qu'une femme jamais peut si long temps se taire
 Cependant...
 
 -*who_zaire
-mais si tost qu'ils meslent une fois
+      mais si tost qu'ils meslent une fois
 Au son des instruments la douceur de leurs voix
 C'est alors cest alors qu'ils toucheroient des marbres
 Et qu'ilz feroient dancer les bestes et les arbres
 Il faut les avertir je vay prendre ce soin
 Ilz vous resjouiront vous en avez besoin
 
-**** *book_ *id_body-1-6 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-106 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 N'estoit ce pas assez du destin qui me brave
@@ -409,13 +409,13 @@ Ma deffiance peut avoir trompé mes yeux
 Et le temp et mes soins m'en esclairciront mieux
 Je voy carlos tachons de lire dans son ame
 
-**** *book_ *id_body-1-7 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-107 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 M'avez vous preparé quelque air galand
 
 -*who_carlos
-madame
+      madame
 Vous en alez juger nostre captivité
 Est le sujet surquoy nous l'avons concerté
 Heureux dans des malheurs que nous ne sçaurions taire
@@ -476,14 +476,14 @@ L'amour n'inspire rien de plus fort. il l'adore
 Et...
 
 -*who_carlos
-le dernier couplet est plus touchant encore
+      le dernier couplet est plus touchant encore
 
 -*who_celime
 Dois je encor m'exposer a voir qu'il s'aplaudit
 Nos deux cœurs
 
 -*who_celime
-taisez vous vostre chant m'estourdit
+      taisez vous vostre chant m'estourdit
 Sortez et me laissez en paix que je respire
 Vous carlos demeurez et qu'on se retire
 Vous autres laissez nous et vous Zaïre aussy
@@ -493,7 +493,7 @@ Tenez vous a la porte et qu'aucun n'entre icy
 Et vous Zaïre aussy que peut elle pretendre
 Je feins de m'esloigner et reviens pour l'entendre
 
-**** *book_ *id_body-1-8 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-108 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 Carlos dans vos ennuys que je vois a regret
@@ -535,7 +535,7 @@ Cependant songez y carlos plus d'une fois
 Elle ayme cet esclave ah quelle extravagance
 Mais il faut la rejoindre et garder le silence
 
-**** *book_ *id_body-1-9 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-109 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 L'ay je bien entendue ou me suis je abusé ?
@@ -546,7 +546,7 @@ Helas mille dangers m'alarment tour a tour
 Je crains esgalement sa haine et son amour
 Je me pers et nosant resister ny me rendre
 
-**** *book_ *id_body-1-10 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-110 *act_ *date_1664 *creator_montfleury
 
 -*who_tomire
 Monsieur aprez cecy Vous n'avez qu'a vous pendre
@@ -555,7 +555,7 @@ Monsieur aprez cecy Vous n'avez qu'a vous pendre
 Qu'est ce encor que viens tu m'anoncer
 
 -*who_tomire
-un malheur
+      un malheur
 A perdre la raison a mourir de douleur
 A se desesperer en un mot a se pendre
 Et si vous m'en croyez vous irez sans m'entendre
@@ -567,17 +567,17 @@ Julie est elle morte et me dois je a ces coups
 Ouy non
 
 -*who_carlos
-que me dis tu Ø
+      que me dis tu Ø
 
 -*who_tomire
-quelle est morte pour vous
+      quelle est morte pour vous
 Quelle vit pour un autre et que jamais œillade...
 
 -*who_carlos
 Comment
 
 -*who_tomire
-Vous connoissez dom brusquin d'Alvarade
+      Vous connoissez dom brusquin d'Alvarade
 Ce brave dom brusquin cet obstacle a vos feux
 Fantasque comme un diable et jaloux comme deux
 Maussade comme trois avare comme quatre
@@ -586,29 +586,29 @@ Maussade comme trois avare comme quatre
 Et bien
 
 -*who_tomire
-il est icy
+      il est icy
 
 -*who_carlos
-que d'ennuis a combattre
+      que d'ennuis a combattre
 Ah ciel il est icy qui te la dit
 
 -*who_tomire
-mes yeux
+      mes yeux
 
 -*who_carlos
 Ne t ont ils point trompé
 
 -*who_tomire
-non je vous respons deux
+      non je vous respons deux
 
 -*who_carlos
 Il est icy
 
 -*who_tomire
-luy mesme
+      luy mesme
 
 -*who_carlos
-et le ciel me destine...
+      et le ciel me destine...
 Voila ce qu'a produit la lettre de Marine
 Mais ou las tu trouvé comment sur ton raport
 
@@ -629,12 +629,12 @@ Estoit chez Fatiman sous le nom de julie
 Helas
 
 -*who_tomire
-Vous sçavez bien qu'il ne nous connoist point
+      Vous sçavez bien qu'il ne nous connoist point
 Venez vous esclaircir vous mesme sur ce point
 Venez
 
 -*who_carlos
-et bien alons nous montrer a sa Veüe
+      et bien alons nous montrer a sa Veüe
 Il moura de ma main si la chose est concluë
 Ou si julie en fin doit partir de ces lieux
 Je ne le Verray point sans mourir a ses yeux
@@ -650,9 +650,9 @@ Je vous en avertis examinez vous bien
 Autrement
 
 -*who_carlos
-Vien suy moy tomire et ne crains rien
+      Vien suy moy tomire et ne crains rien
 
-**** *book_ *id_body-2-1 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-201 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Si julie encor vous est chere
@@ -660,14 +660,14 @@ Ne songez point a la chercher
 Autre part que dedans alger
 Son malheur en a fait le butin d'un Corsaire
 Ah morbleu
-Fatiman gouverneur dans ces lieux
+      Fatiman gouverneur dans ces lieux
 Nous tient esclaves toutes deux
 En payant noz rançons nostre ennuy se termine
 Ne perdez point de temps secondez nos souhaitz
 Elle est plus belle que jamais
 Et moy plus que jamais...
-et caetera
-Marine
+      et caetera
+      Marine
 Ne songez point a la chercher
 Autrepart que dedans Alger
 
@@ -682,7 +682,7 @@ Vous estes tout chagrin et malgré tous mes soins
 Je vous voy...
 
 -*who_brusquin
-malepeste on le seroit a moins
+      malepeste on le seroit a moins
 Tant qu'avec toy sur mer a duré ce Voyage
 Je n'avois dans l'esprit que la peur du naufrage
 La crainte de perir me donnoit des frissons
@@ -738,20 +738,20 @@ J'avois un sauf conduit signé du dieu Neptune
 Vous en repentez vous
 
 -*who_brusquin
-Je ne scay mais je crois
+      Je ne scay mais je crois
 Que si j'estois chez moy J'y songerois deux fois
 Certain pressentiment ou ma raison s'obstine
 Me font...
 
 -*who_gusman
-mais il faut bien que cecy se termine
+      mais il faut bien que cecy se termine
 Vous en avez trop fait pour ne pas achever
 On sçait a quel dessein vous venez d'arriver
 Et vostre femme enfin ou cocquette ou fidelle
 En payant sa rançon Vous sera...
 
 -*who_brusquin
-bagatelle
+      bagatelle
 Si je puis descouvrir que ce turc pour debut
 Se soit fait de son chef icy mon substitut
 Qu'il se soit par ses mains enfin de quelque sorte
@@ -769,7 +769,7 @@ Pour n'estre pas cru sot un homme l'est il moins
 D'y maraut
 
 -*who_gusman
-mais par qui scavoir qu'en sa demeure
+      mais par qui scavoir qu'en sa demeure
 
 -*who_brusquin
 On me doit faire voir marine tout a l'heure
@@ -777,10 +777,10 @@ Un esclave en entrant me la promis ainsy
 Moyenant…
 
 -*who_gusman
-jentens bien.
+      jentens bien.
 
 -*who_brusquin
-et je l'attens icy
+      et je l'attens icy
 Voy tu je veux sçavoir avant que de conclurre
 Sur quoy, par qui, comment, et par quelle avanture
 Julie est dans Alger, car a te parler net
@@ -798,44 +798,44 @@ Certain penchant pour moy surquoy je m'imagine
 Que je pourray du tout estre bien esclaircy
 Alors qu'adroitement je l'auray.... la Voicy
 
-**** *book_ *id_body-2-2 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-202 *act_ *date_1664 *creator_montfleury
 
 -*who_tomire
 Prens bien garde…
 
 -*who_marine
-Suffit
+      Suffit
 
 -*who_tomire
-Vous voyez je m'acquite
+      Vous voyez je m'acquite
 
 -*who_brusquin
 Je vous suis obligé, serviteur
 
 -*who_tomire
-je vous quitte
+      je vous quitte
 
-**** *book_ *id_body-2-3 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-203 *act_ *date_1664 *creator_montfleury
 
 -*who_marine
 C'est luy mesme et dabord je l'ay bien reconnu
 Ah ! monsieur
 
 -*who_brusquin
-dieu te gard
+      dieu te gard
 
 -*who_marine
-Soyez le bien Venu
+      Soyez le bien Venu
 
 -*who_brusquin
 Bien ou mal me voila concluons
 
 -*who_marine
-quoy vous mesme
+      quoy vous mesme
 Venir jusques ici...
 
 -*who_brusquin
-que veux tu quand on ayme
+      que veux tu quand on ayme
 On est fou lon est sot de mettre tous ses soins...
 
 -*who_marine
@@ -845,16 +845,16 @@ On seroit fort faché que vous le feussiez moins
 Passons
 
 -*who_marine
-Julie aura
+      Julie aura
 
 -*who_brusquin
-comment se porte telle
+      comment se porte telle
 
 -*who_marine
 Bien
 
 -*who_brusquin
-comme de tout temps j'ay reconnu ton Zelle
+      comme de tout temps j'ay reconnu ton Zelle
 Et que jamais pour moy tu n'eus rien de caché
 Avant que de conclure icy nostre marché
 Jay Voulu te parler icy sur cette affaire
@@ -863,11 +863,11 @@ Par amitié pour moy mettant la feinte au croc
 Tu vas a cœur ouvert…
 
 -*who_marine
-oh cela vous est hoc
+      oh cela vous est hoc
 Tout comme a l'ordinaire, et bien
 
 -*who_brusquin
-ta recompense
+      ta recompense
 Au reste passera de loin ton esperance
 Et je t'ay preparé dequoy te voir un jour
 Au dessus… tu sçauras le reste a mon retour
@@ -876,7 +876,7 @@ Au dessus… tu sçauras le reste a mon retour
 Oh Monsieur, parlez donc
 
 -*who_brusquin
-dis moy je te conjure
+      dis moy je te conjure
 Comment â quel dessein et par quelle avanture
 Vous estes toutes deux icy depuis le soir...
 
@@ -900,11 +900,11 @@ Sur la Mer en carosse, eh qui vous dit cela ?
 Escoutez jusqu'au bout.
 
 -*who_brusquin
-lors qu'on Vous enleva
+      lors qu'on Vous enleva
 Vous criastes bien fort ?
 
 -*who_marine
-bien fort ? a pleine teste
+      bien fort ? a pleine teste
 Aux voleurs, au secours, au meurtre, arreste, arreste
 Non pour du bruit jamais femmes n'en ont tant fait
 
@@ -918,11 +918,11 @@ Car dedans ny dehors pas un n'entendit rien
 Enfin il est pourtant tres asseuré…
 
 -*who_brusquin
-Fort bien
+      Fort bien
 Passons
 
 -*who_marine
-nous arrivons au port et cette troupe
+      nous arrivons au port et cette troupe
 Du carosse nous mit dedans une chaloupe
 De la dans un vaisseau qui n'attendant plus rien
 
@@ -941,13 +941,13 @@ Nous mit dans son vaisseau pour nous conduire icy
 Ou depuis…
 
 -*who_brusquin
-franchement je trouve cette Histoire
+      franchement je trouve cette Histoire
 Un peu possible mais, bien Ø difficile a croire
 Que devinerent ces gens masquez ? dont les effortz
 Avoient…
 
 -*who_marine
-apparemment ils sont captifs ou mortz
+      apparemment ils sont captifs ou mortz
 Mais comme pas un deux ne monstra son visage
 Je ne vous en puis pas apprendre davantage
 
@@ -959,13 +959,13 @@ Il en est gouverneur et ne va guere en Mer
 Ce fust un autre turc...
 
 -*who_brusquin
-comment en sa puissance
+      comment en sa puissance
 
 -*who_marine
 C'est qu'il est gouverneur
 
 -*who_brusquin
-eh quelle consequence
+      eh quelle consequence
 
 -*who_marine
 En cette qualité par un sort peu commun
@@ -977,11 +977,11 @@ Sans doute que ce turc comme c'est leur usage
 Avoit quelque serrail a meubler Ø
 
 -*who_marine
-bon ? eh quoy
+      bon ? eh quoy
 Toujours prest d'expliquer…
 
 -*who_brusquin
-tout doucement dis moy
+      tout doucement dis moy
 Tu sçais bien quil manquoit lorsque l'on prit julie
 A nostre mariage une ceremonie
 
@@ -989,7 +989,7 @@ A nostre mariage une ceremonie
 Quelle ceremonie
 
 -*who_brusquin
-eh celle que l'amour
+      eh celle que l'amour
 Ordonne a frais communs la nuit de ce grand jour
 Celle qui chez les gens que lon marie ensemble
 Fait un nœud gordien du nœud qui les assemble
@@ -1000,26 +1000,26 @@ Devoit le soir… enfin celle quon ne fit point
 Et bien ?
 
 -*who_brusquin
-je voudrois bien avant que de conclure
+      je voudrois bien avant que de conclure
 Sçavoir si quelque turc espris de sa figure
 Ne s'est point…
 
 -*who_marine
-quoy ?
+      quoy ?
 
 -*who_brusquin
-chargé de la commission
+      chargé de la commission
 De mettre nostre Hymen dans sa perfection
 
 -*who_marine
 Quels contes ? par ma foy c'est bien dommage...
 
 -*who_brusquin
-escoute
+      escoute
 Tu crois donc qu'il ne s'est rien passé
 
 -*who_marine
-le beau doute
+      le beau doute
 
 -*who_brusquin
 Qu'auprez d'elle ces turcs nayent jamais entrepris
@@ -1030,7 +1030,7 @@ Que de force ou de gré pas un n'ayt rien eu d'elle ?
 Pas un
 
 -*who_brusquin
-et qu'elle soit aussy sage que belle ?
+      et qu'elle soit aussy sage que belle ?
 
 -*who_marine
 Vous n'en sçauriez douter sans luy faire un affront
@@ -1064,37 +1064,37 @@ Qui doit a mon retour passer mon esperance
 Tandis que Vous n'avez rien a faire...
 
 -*who_brusquin
-Siffait
+      Siffait
 Mon dessein n'estoit pas de t'en faire un secret
 Je veux te marier
 
 -*who_marine
-me marier
+      me marier
 
 -*who_brusquin
-toy mesme
+      toy mesme
 
 -*who_marine
 Avec
 
 -*who_brusquin
-avec un drole assez jeune et qui t'ayme
+      avec un drole assez jeune et qui t'ayme
 
 -*who_marine
 Le connois-je
 
 -*who_brusquin
-ouy
+      ouy
 
 -*who_marine
-Son nom
+      Son nom
 
 -*who_brusquin
-devine ? c'est pascal
+      devine ? c'est pascal
 Il m'est un peu parent
 
 -*who_marine
-quoy cet archibrutal ?
+      quoy cet archibrutal ?
 Ce magot ? ce Sagouin ? que chascun dans la rue
 Prenoit pour vous ? ma foy je serois bien pourveüe
 Monsieur pour l'estre ainsy on l'est toujours trop tost
@@ -1103,24 +1103,24 @@ Monsieur pour l'estre ainsy on l'est toujours trop tost
 Eh que luy trouves tu
 
 -*who_marine
-rien de ce qui me faut
+      rien de ce qui me faut
 
 -*who_brusquin
 Dys
 
 -*who_marine
-je vous facherois et j'ayme mieux me taire
+      je vous facherois et j'ayme mieux me taire
 
 -*who_brusquin
 Point
 
 -*who_marine
-que vous ay je fait, soit dit sans vous deplaire
+      que vous ay je fait, soit dit sans vous deplaire
 Pour me Vouloir donner un brusque un estourdy
 Connu pour ce qu'il est de tout...
 
 -*who_brusquin
-pourquoy non dy ?
+      pourquoy non dy ?
 
 -*who_marine
 C'est que de quelque nom que vostre amour le nomme
@@ -1129,13 +1129,13 @@ Mais tous et cependant Vous estes des premiers
 A...
 
 -*who_brusquin
-tant mieux il sera propre a tous les mestiers
+      tant mieux il sera propre a tous les mestiers
 
 -*who_marine
 Propre a tous les mestiers ?
 
 -*who_brusquin
-a tous sur ma parolle
+      a tous sur ma parolle
 
 -*who_marine
 A quoy diantre est il propre ? est ce que je suis folle
@@ -1145,54 +1145,54 @@ Il ayme la crapule et boit avec excez
 Et bien il sera bon pour estre peintre
 
 -*who_marine
-mais
+      mais
 Il est quand jl a beu querelleur prest a faire
 Une jnsulte...
 
 -*who_brusquin
-il faudra le faire mousquetaire
+      il faudra le faire mousquetaire
 
 -*who_marine
 Mais il ne songe alors qu'a tout tuer enfin
 Pour luy vingt hommes mortz...
 
 -*who_brusquin
-faisons le medecin
+      faisons le medecin
 
 -*who_marine
 Il est fourbe dans tout ce que lon luy voit faire
 Et de mauvaise foy
 
 -*who_brusquin
-nous le fairons Notaire
+      nous le fairons Notaire
 
 -*who_marine
 Il a l'air sombre noir le discours outrageant
 Le cœur dur sans pitié
 
 -*who_brusquin
-nous le ferons sergent
+      nous le ferons sergent
 
 -*who_marine
 Il empoisonne tout ce qu'on peut dire ou faire
 Et se meprend souvent
 
 -*who_brusquin
-faisons l'apoticaire
+      faisons l'apoticaire
 
 -*who_marine
 Toujours prest a tromper si tost que son penchant
 Trouve une occasion
 
 -*who_brusquin
-nous le ferons marchant
+      nous le ferons marchant
 
 -*who_marine
 Je luy crois comme a Vous la teste un peu mal faite
 Et le tiens un peu fou
 
 -*who_brusquin
-nous le ferons Poete
+      nous le ferons Poete
 
 -*who_marine
 Se peut il dites moy que vostre entestement
@@ -1202,44 +1202,44 @@ Outre tous ces deffautz en a cinquante encore
 Il ayme les festins
 
 -*who_brusquin
-on le fera traiteur
+      on le fera traiteur
 
 -*who_marine
 Et mange comme quatre
 
 -*who_brusquin
-il sera procureur
+      il sera procureur
 
 -*who_marine
 Il veut parler de tout
 
 -*who_brusquin
-il fera la gasette
+      il fera la gasette
 
 -*who_marine
 Il ayme le grand bruit
 
 -*who_brusquin
-on le fera trompette
+      on le fera trompette
 
 -*who_marine
 Il ayme a voir des balz
 
 -*who_brusquin
-faisons le violon
+      faisons le violon
 
 -*who_marine
 Ne peut tenir en place
 
 -*who_brusquin
-il sera postillon
+      il sera postillon
 
 -*who_marine
 Il ne sera jamais qu'un sot et ses manieres
 Luy mettront sur la teste...
 
 -*who_brusquin
-il aura des confreres
+      il aura des confreres
 Et ce sera du mestier de force honnestes gens
 
 -*who_marine
@@ -1247,7 +1247,7 @@ Il est... mais fatiman vient icy je l'entens
 Menagez nos plaisirs si vous aymez le vostre
 A dieu pour le parent gardez le pour quelque autre
 
-**** *book_ *id_body-2-4 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-204 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Je croy que le Voicy peste quel egrillart
@@ -1274,7 +1274,7 @@ Ta femme ? ce n'est pas julie aparemment
 Comment est ce la vostre ? eh
 
 -*who_stamorat
-ce singe est plaisant
+      ce singe est plaisant
 
 -*who_fatiman
 Non mais pour une femme aussy bien faite qu'elle
@@ -1293,11 +1293,11 @@ Elle est pourtant ma femme, ou peu s'en faut je n'oze
 C'est un malheur pour elle
 
 -*who_brusquin
-eh parlons d'autre choze
+      eh parlons d'autre choze
 Concluons
 
 -*who_fatiman
-j'y consens je voy que tous tes vœux
+      j'y consens je voy que tous tes vœux
 Vont a vous voir chez vous bien reunis tous deux
 Tu meurs de la revoir car je lis dans ton ame
 Elle a de la beauté, tu l'aymes c'est ta femme
@@ -1305,14 +1305,14 @@ C'est pourquoy je ne veux que six mille ducatz
 Pour Ø remettre en tes mains...
 
 -*who_brusquin
-quoy Vous ny songez pas
+      quoy Vous ny songez pas
 Comment pour une femme
 
 -*who_fatiman
-ouy
+      ouy
 
 -*who_brusquin
-peste quelle somme
+      peste quelle somme
 Combien faudroit il donc Vous donner pour un homme
 
 -*who_fatiman
@@ -1331,10 +1331,10 @@ Je Vous conseille fort pourtant de n'en plus prendre.
 De femmes
 
 -*who_brusquin
-ouy sur tout des environs
+      ouy sur tout des environs
 
 -*who_fatiman
-pourquoy
+      pourquoy
 
 -*who_brusquin
 C'est que pour vous parler franc et de bonne foy
@@ -1349,7 +1349,7 @@ C'est beaucoup il ne faut point tant faire la mine
 Tu les veux toutes deux
 
 -*who_brusquin
-ouy je la veux aussy
+      ouy je la veux aussy
 Si lon vendoit chez nous les femmes comme icy
 Pour moitié de largent que j'offre pour la mienne
 J'en aurois a choisir au moins une dousaine
@@ -1364,29 +1364,29 @@ Que largent a la main ou me laisser en paix
 Allez
 
 -*who_brusquin
-quelle somme ah j'en ay la mort dans l'ame
+      quelle somme ah j'en ay la mort dans l'ame
 J'aymerois presque autant qu'ils gardassent ma femme
 Il pouroit se desdire il faut se depecher
 Ah chien de turc...
 
 -*who_fatiman
-plaist il ?
+      plaist il ?
 
 -*who_brusquin
-je m'en vay vous chercher
+      je m'en vay vous chercher
 Cinq mille ducatz
 
 -*who_fatiman
-c'est une affaire concluë
+      c'est une affaire concluë
 
-**** *book_ *id_body-2-5 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-205 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Je vay voir si celime est toujours resolüe
 A remettre l'hymen qui doit me rendre heureux
 Sa Naine vient icy qui t'ameine en ces lieux
 
-**** *book_ *id_body-2-6 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-206 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Pour adoucir l'excez de sa Melancolie
@@ -1409,7 +1409,7 @@ Elle ne m'a pourtant rien dit de tout cela
 Comment tu n'en scais rien ?
 
 -*who_zaire
-je ne dis pas cela
+      je ne dis pas cela
 
 -*who_fatiman
 Tu le scais ? dis moy donc quelle raison l'arreste...
@@ -1419,32 +1419,32 @@ Pour dire des secretz il faut du teste a teste
 Ne voyez vous pas bien qu'on m'escoute
 
 -*who_fatiman
-sortez
+      sortez
 
-**** *book_ *id_body-2-7 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-207 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Vous n'en scavez rien
 
 -*who_fatiman
-non
+      non
 
 -*who_zaire
-mais vous vous en doutez
+      mais vous vous en doutez
 
 -*who_fatiman
 Point
 
 -*who_zaire
-Sçachez aussy bien ce secret me suffoque
+      Sçachez aussy bien ce secret me suffoque
 Que de tout vostre amour ma maistresse se mocque
 Qu'elle adore carlos.
 
 -*who_fatiman
-Un vil esclave
+      Un vil esclave
 
 -*who_zaire
-luy
+      luy
 Elle l'espousera s'il veut des aujourdhuy
 Et je tiens vostre hymen une affaire manquée
 Elle s'en est des hier a luy mesme expliquée
@@ -1455,10 +1455,10 @@ J'entendis que s'il veut prendre le moindre soin...
 Eh que luy repondit carlos ?
 
 -*who_zaire
-rien
+      rien
 
 -*who_fatiman
-rien ? j'admire
+      rien ? j'admire
 
 -*who_zaire
 Il estoit si honteux qu'il ne sçavoit que dire
@@ -1468,7 +1468,7 @@ Sortit en luy disant venez demain m'aprendre
 Quel choix vous aurez fait, mais songez y
 
 -*who_fatiman
-se rendre
+      se rendre
 A l'amour d'un esclave il faut dissimuler
 C'est dessur ce sujet quelle luy veut parler
 Sans doute il faut tacher d'entendre sa response
@@ -1477,24 +1477,24 @@ Tandis que sur lespoir de recevoir sa main
 Je vay les envoyer adieu
 
 -*who_celime
-jusqu'a demain
+      jusqu'a demain
 
-**** *book_ *id_body-2-8 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-208 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Il faut, voicy carlos
 
-**** *book_ *id_body-2-9 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-209 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
-celime vous demande
+      celime vous demande
 Et julie avec vous de peur qu'elle n'attende
 Cherchez la promptement et venez sur mes pas
 
 -*who_carlos
 Suffit ah quels ennuys ! mais ne la vois-je pas
 
-**** *book_ *id_body-2-10 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-210 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 Scavez vous la rigueur du destin qui traverse
@@ -1571,18 +1571,18 @@ Que le sort a rendu le mien peu favorable
 Vivez
 
 -*who_carlos
-je vous promets si l'ennuy qui m'accable
+      je vous promets si l'ennuy qui m'accable
 Force mon desespoir a vous mal obeïr
 De vous aymer du moins jusqu'au dernier soupir
 A dieu
 
 -*who_julie
-r'entrons voicy cet espoux
+      r'entrons voicy cet espoux
 
-**** *book_ *id_body-2-11 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-211 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
-c'est ma femme
+      c'est ma femme
 Sans doute vous faisiez vos adieux et sa flame
 S'occupoit... paix je vays pour mitiger vos feux
 Mettre quelques arpens de mer entre vous deux
@@ -1605,7 +1605,7 @@ Reconnoissez l'espoux dont la main et le cœur...
 -*who_julie
 Je ne connois en vous que mon persecuteur
 
-**** *book_ *id_body-2-12 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-212 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Suis je pas un grand sot d'aymer cette traitresse
@@ -1613,7 +1613,7 @@ Mais puis que rien ne peut guerir tant de foiblesse
 Et que le diable espargne enfin si peu de fronts
 Hasard a mon marché concluons et partons.
 
-**** *book_ *id_body-3-1 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-301 *act_ *date_1664 *creator_montfleury
 
 -*who_zaire
 Mais considerez mieux qu'elle raison l'oblige
@@ -1655,7 +1655,7 @@ Le secret de mon cœur, souviens toy que ta vie
 Depend de le garder, qu'a me trahir...
 
 -*who_zaire
-helas
+      helas
 Vous ? a la question je n'en parlerois pas.
 
 -*who_celime
@@ -1668,7 +1668,7 @@ Un si cruel obstacle a leur intelligence
 Que tous deux... cet esclave autre fois son valet...
 Aproche, m'en poura reveler le secret
 
-**** *book_ *id_body-3-2 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-302 *act_ *date_1664 *creator_montfleury
 
 -*who_tomire
 Je passois par respect n'osant icy paroistre
@@ -1682,16 +1682,16 @@ Hors un oncle qu'il a vieux riche et sans enfans
 Sont plus gueux...
 
 -*who_celime
-mais ayant cet oncle est il croyable
+      mais ayant cet oncle est il croyable
 Qu'il l'abandonne...
 
 -*who_tomire
-il est avare comme un diable
+      il est avare comme un diable
 Madame et nous verroit plutost crever tous deux
 Que de donner jamais
 
 -*who_celime
-mais enfin estant vieux
+      mais enfin estant vieux
 Sa mort rendra carlos heritier d une somme...
 
 -*who_tomire
@@ -1702,23 +1702,23 @@ Et qu'il ne veut point voir de medecins je doute
 Qu'il meure de long temps, ny que son bien
 
 -*who_celime
-escoute
+      escoute
 Tu resvois en passant qui t'occupoit l'esprit
 
 -*who_tomire
 Carlos
 
 -*who_celime
-et ses amours
+      et ses amours
 
 -*who_tomire
-ma foy Vous l'avez dit
+      ma foy Vous l'avez dit
 
 -*who_celime
 Aprens nous ce que c'est
 
 -*who_tomire
-ah ces historiettes
+      ah ces historiettes
 De misteres galans, d'jntrigues d'amourettes
 Comme Vous jugez bien sont de petits secrets
 Qu un valet bien discret ne revele jamais
@@ -1741,10 +1741,10 @@ Que le plaisir que i'ay de t'en trouver capable
 Ne peut d'un moindre prix...
 
 -*who_tomire
-oh c'est…
+      oh c'est…
 
 -*who_celime
-prens jayme a voir
+      prens jayme a voir
 Que rien contre carlos n'esbranle ton devoir
 Son interest m'est cher qu'a l'avenir ton Zelle
 Ne demente jamais une ardeur si fidelle
@@ -1755,23 +1755,23 @@ Et meurs plutost cent fois que de les reveler
 Oh.
 
 -*who_celime
-quand a ses amours qu'on auroit peine a croire
+      quand a ses amours qu'on auroit peine a croire
 Carlos m'en a tantost conté toute l'histoire
 Ce n'est plus a present un mistere pour moy
 Il m'a dit qu'il aymoit Julie
 
 -*who_tomire
-ah je le croy
+      ah je le croy
 Cela n'est pas nouveau
 
 -*who_celime
-qu'une ardeur mutuelle
+      qu'une ardeur mutuelle
 Rendroit malgré leurs fers leur amour eternelle
 Par quel hazart ils ont perdu la liberté
 Leurs traverses, leurs pleurs…
 
 -*who_tomire
-il vous a donc conté
+      il vous a donc conté
 Comment il l'enleva du logis de sa mere
 La rencontre qu'il fit de ce vaisseau corsaire
 
@@ -1780,7 +1780,7 @@ Ouy leur embarquement et comment on vous prit
 Le desespoir qu'il eut...
 
 -*who_tomire
-il vous aura donc dit
+      il vous aura donc dit
 La… que la chose fut justement accomplie
 Dans le temps quon venoit de marier Julie
 Qui haissoit a mort l'espoux quon luy donnoit
@@ -1789,17 +1789,17 @@ Et que pour se pourvoir contre la Violence
 De sa mere...
 
 -*who_celime
-il ma dit tout cela Ø
+      il ma dit tout cela Ø
 
 -*who_tomire
-je le pense
+      je le pense
 On n'a point de secret jamais pour ses amis
 
 -*who_celime
 J'estime fort carlos.
 
 -*who_tomire
-eh vous a-t'il apris
+      eh vous a-t'il apris
 Que ce vieux singe a qui lon maria julie
 Est pour la racheter des hier en barbarie
 Et qu'avec Fatiman il a fait son marché
@@ -1815,7 +1815,7 @@ Si j'en avois ouvert la bouche le premier
 Ce monde est ainsy fait
 
 -*who_celime
-cette triste nouvelle
+      cette triste nouvelle
 Me donne pour carlos une douleur mortelle
 Je l'avoüe et je plains son sort de si beaux feux
 Meritoient ce me semble un destin plus heureux
@@ -1828,7 +1828,7 @@ Ah ne vous fachez point si ce n'est que cela
 Vous ne sçavez donc pas ses esperances
 
 -*who_celime
-quelles
+      quelles
 
 -*who_tomire
 Oh oh vrayment depuis j'ay bien d'autres nouvelles
@@ -1838,14 +1838,14 @@ Julie aloit partir et ne partira point
 Ah ciel que me dis tu ?
 
 -*who_tomire
-quil est seur de ce point
+      quil est seur de ce point
 
 -*who_celime
 Qui pourra l'empecher si la chose est concluë
 Tu mas dit...
 
 -*who_tomire
-il est vray qu'elle estoit resolue
+      il est vray qu'elle estoit resolue
 Mais carlos vient d'avoir au sortir du Divan
 Un entretien secret avecque fatiman
 J'jgnore le detail de ce qu'ilz ont peu dire
@@ -1884,9 +1884,9 @@ Non non ne luy dis rien quand il m'en parlera
 Je feindray d'jgnorer...
 
 -*who_tomire
-tout comme il vous plaira
+      tout comme il vous plaira
 
-**** *book_ *id_body-3-3 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-303 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 Qu'ay je entendu Zaïre et qu'a til s'ceu m'apprendre
@@ -1898,7 +1898,7 @@ On apprend quelques foys plus quon ne veut sçavoir
 Quand on est curieuse
 
 -*who_celime
-il est vray mais je songe
+      il est vray mais je songe
 Un remede aux ennuis ou ce recit me plonge
 Ouy je veux voir carlos soupirer vainement
 L'jngrat ne m'aura point bravée Impunement
@@ -1911,12 +1911,12 @@ Je les vays pour jamais separer l'un de l'autre
 Je vay...
 
 -*who_zaire
-je les entens qui chantent et tous deux
+      je les entens qui chantent et tous deux
 
 -*who_celime
 Escoutons et voyons jusques ou vont leurs feux
 
-**** *book_ *id_body-3-4 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-304 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 Malgré tous les malheurs dont ma flame est suivie
@@ -1935,12 +1935,12 @@ La matiere est galente et je seray bien aise
 De l'entendre
 
 -*who_carlos
-il sera mal aisé qu'il vous plaise
+      il sera mal aisé qu'il vous plaise
 Estant peu concerté madame s'il vous plaist
 Nous chanterons...
 
 -*who_celime
-non non chantez le tel qu'il est
+      non non chantez le tel qu'il est
 
 -*who_carlos
 Malgré tous les malheurs dont ma flame est suivie
@@ -2020,7 +2020,7 @@ Il suffit vous pouvez poursuivre en mon absence
 Carlos et le service aura sa recompense
 Ah que pour deux jeunes cœurs & C  :
 
-**** *book_ *id_body-3-5 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-305 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Encor chascun de vous y prend goust ce me semble
@@ -2032,7 +2032,7 @@ Mon but monsieur n'estoit que de la divertir
 -*who_brusquin
 Ce soin la me regarde et vous pouvez sortir
 
-**** *book_ *id_body-3-6 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-306 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Vous aymez donc ces gens toujours prests a bien faire
@@ -2044,7 +2044,7 @@ Officieusement divertir sa moitié
 Les plaisirs jnnocens
 
 -*who_brusquin
-jnnocens ah je pense
+      jnnocens ah je pense
 Qu'il n'entre en vos plaisirs que bien peu d'jnnocence
 Cependant a l'egard des misteres passez
 Je voy bien quil faudra tous depens compensez
@@ -2069,13 +2069,13 @@ Et vous n'en userés jamais comme vous dites
 Jamais me dites vous
 
 -*who_julie
-non vous disje jamais
+      non vous disje jamais
 Vous m'aymez vous sçavez a quel point je vous hais
 Et vous serez ravy que quelqu'un me console
 Du chagrin destre a vous
 
 -*who_brusquin
-il faut quelle soit folle
+      il faut quelle soit folle
 Vous vous figurez donc suivant ce beau discours
 Me voir l'entremeteur de vos tendres amours
 Que flatant d'un amant la tendresse et la vostre
@@ -2090,21 +2090,21 @@ Me vanterez sa flame et que vous me prierez
 De l'aymer...
 
 -*who_brusquin
-taisez vous taisez vous et r'entrez
+      taisez vous taisez vous et r'entrez
 Ou changez de discours ou fuyez ma presence
 Vous disje car je sens que je perds patience
 
-**** *book_ *id_body-3-7 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-307 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Elle a perdu l'esprit ou me croit... mais il faut
 Voir fatiman conclurre, et partir au plutost
 Le Voicy
 
-**** *book_ *id_body-3-8 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-308 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
-j'aperçoy Dom brusquin d'Alvarade
+      j'aperçoy Dom brusquin d'Alvarade
 Et je luy vais donner une si rude aubade
 Qu'il maudira le jour quon les unit tous deux
 Pour l'ingrate beauté qui mesprise mes feux
@@ -2160,7 +2160,7 @@ Il faut qu'absolument vous y soyez tous deux
 Vous raillez
 
 -*who_fatiman
-il le faut vous disje ; et je le veux
+      il le faut vous disje ; et je le veux
 
 -*who_brusquin
 Oh oh mais quelle est donc cette ceremonie
@@ -2171,19 +2171,19 @@ Ne peut on le scavoir et puis je vous prier...
 C'est que je veux ce soir…
 
 -*who_brusquin
-et bien
+      et bien
 
 -*who_fatiman
-la marier
+      la marier
 
 -*who_brusquin
 Julie ?
 
 -*who_fatiman
-elle
+      elle
 
 -*who_brusquin
-expliquons s'il vous plaist ce langage
+      expliquons s'il vous plaist ce langage
 Est ce qu'on doute icy de nostre mariage
 Et que craignant en mer pour son honnesteté
 On veut nous marier pour plus de seureté
@@ -2192,10 +2192,10 @@ On veut nous marier pour plus de seureté
 Non
 
 -*who_brusquin
-non
+      non
 
 -*who_fatiman
-non je scais bien que tu las espousée
+      non je scais bien que tu las espousée
 Que c'est contre son gré que lon la mariée
 Que rien ne vous unit tous deux que quelques motz
 Qui n'ont point eu deffet ainsy pour son repos
@@ -2208,10 +2208,10 @@ Et je luy vay ce soir donner un autre espoux
 A ma Femme
 
 -*who_fatiman
-a ta femme et de plus
+      a ta femme et de plus
 
 -*who_brusquin
-quel negoce...
+      quel negoce...
 
 -*who_fatiman
 Ton argent servira pour les frais de la nopce
@@ -2222,10 +2222,10 @@ Vous pretendez ce soir marier a mes yeux
 Qui Ø Julie ?
 
 -*who_fatiman
-ouy
+      ouy
 
 -*who_brusquin
-ma femme ? ah le traitre ah j'enrage
+      ma femme ? ah le traitre ah j'enrage
 De quel droit s'il vous plaist rompre mon mariage
 
 -*who_fatiman
@@ -2253,26 +2253,26 @@ Est ce un arrest pour nous sans apel, et ma bourse
 N'en peut elle adoucir…
 
 -*who_fatiman
-l'affaire est sans ressource
+      l'affaire est sans ressource
 Je luy donne un espoux ce soir, et ces discours...
 
 -*who_brusquin
 Sera ce pour long temps
 
 -*who_fatiman
-ce sera pour tousjours
+      ce sera pour tousjours
 
 -*who_brusquin
 La t on dit a Julie ?
 
 -*who_fatiman
-ouy je luy viens d'aprendre
+      ouy je luy viens d'aprendre
 
 -*who_brusquin
 Que dit elle a cela ?
 
 -*who_fatiman
-quelle est preste a se rendre
+      quelle est preste a se rendre
 Et qu'elle aimeroit mieux avec un tel espoux
 Porter toujours de fers qu'estre reyne avec vous
 
@@ -2282,14 +2282,14 @@ Et quel est ce beau filz qui cause tant de flame
 Ø
 
 -*who_fatiman
-Tu las veu plusieurs fois
+      Tu las veu plusieurs fois
 
 -*who_brusquin
-mais expliquons nous mieux
+      mais expliquons nous mieux
 Est il pres est il loin
 
 -*who_fatiman
-il est devant tes yeux
+      il est devant tes yeux
 
 -*who_brusquin
 Ah double scelerat je m'en doutois dans l'ame
@@ -2303,7 +2303,7 @@ Mais si J'y suis present je veux estre pendu
 Pour croire mon malheur suffit qu'on m'en reponde
 Je pars et le diray chez nous a tout le monde.
 
-**** *book_ *id_body-3-9 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-309 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 S'il part ce n'est rien faire et si vous n'ordonnez
@@ -2315,7 +2315,7 @@ Alons de ce debut rendre conte a Julie
 Disposons son esprit a ce que j'en prevoy
 Entrons et du succez reposez vous sur moy.
 
-**** *book_ *id_body-4-1 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-401 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Et bien c'est un hymen qui vous plaist de remettre
@@ -2356,7 +2356,7 @@ Que vous me trahissez et que toute vostre ame
 Brusle d'un feu secret
 
 -*who_fatiman
-moy vous trahir madame
+      moy vous trahir madame
 
 -*who_celime
 Ouy je scay puis qu'il faut m'expliquer clairement
@@ -2406,13 +2406,13 @@ Cachez moy les transportz d'un amour mercenaire
 Suivez vostre penchant sans me faire de loy
 Et meritez ma main sans l'exiger de moy
 
-**** *book_ *id_body-4-2 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-402 *act_ *date_1664 *creator_montfleury
 
 -*who_stamorat
 Vous l'avez irritée
 
 -*who_fatiman
-est ce ainsy quon me traitte
+      est ce ainsy quon me traitte
 Ingratte je voy trop qu'elle raison secrette
 Veut qu'en rendant julie on l'esloigne de vous
 Je ne suis pas l'objet de vos soubçons jaloux
@@ -2428,7 +2428,7 @@ Mais voulant lespouser vostre amour combatu
 Pourra-til aysement...
 
 -*who_fatiman
-moy l'espouser dis tu ?
+      moy l'espouser dis tu ?
 Je voudrois de sa main sans que son cœur se donne ?
 Ses grands biens me charmoient autant que sa personne
 Mais puis qu'un feu secret sobstine a m'outrager
@@ -2436,19 +2436,19 @@ Tu vas voir de quel air je pretens m'en vanger
 Quoy je me resoudrois a partager la honte...
 Quelqu'un vient voy qui c'est et men vien rendre compte
 
-**** *book_ *id_body-4-3 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-403 *act_ *date_1664 *creator_montfleury
 
 -*who_stamorat
 C'est marine et tomire et s'il vous plaist J'iray
 Commancer... mais suivons le il est desja rentré
 
-**** *book_ *id_body-4-4 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-404 *act_ *date_1664 *creator_montfleury
 
 -*who_tomire
 Eh marine
 
 -*who_marine
-eh va ten ou tu dis qu'on t'envoye
+      eh va ten ou tu dis qu'on t'envoye
 
 -*who_tomire
 Teste a teste un moment souffre que je te voye
@@ -2460,7 +2460,7 @@ Toy : marche te dit on tu me la baille belle
 M'en conter
 
 -*who_tomire
-ouy comment est ce chose nouvelle
+      ouy comment est ce chose nouvelle
 Avant que ta maistresse eust eu son sot espoux
 Est ce que je manquois jamais au rendez vous
 Et tandis que mon maistre entretenoit Julie
@@ -2484,7 +2484,7 @@ Qu'on commance a m'aymer que pour m'aymer toujours
 Quand on ayme on le dit
 
 -*who_tomire
-en estois je capable
+      en estois je capable
 Javois pour directeur un turc jmpitoyable
 Qui depuis le matin jusqu'a minuit sonnant
 Querelle a lettre veüe et rosse argent comptent
@@ -2500,7 +2500,7 @@ Et folastrer un peu sur nouveaux frais je meure
 Si mon cœur…
 
 -*who_marine
-et demain peut estre ou dans une heure
+      et demain peut estre ou dans une heure
 Si les coups de baston surviennent la dessus
 Tu ne me diras rien ou ne m'aymeras plus
 Je pretens qu'un amant en pareille aventure
@@ -2510,7 +2510,7 @@ A qui la peur des coups fait faire le plongeon
 Entens tu ?
 
 -*who_tomire
-cependant a regret je m'en vante
+      cependant a regret je m'en vante
 Mon amour n'est point ladre et la peur l'espouvante
 J'en conviens c'est pour moy si tu veux un malheur
 Mais j'ay la peau fort tendre aussy bien que le cœur
@@ -2519,10 +2519,10 @@ Parlons de noz amours sçais tu bien que julie
 Ma tantost promis...
 
 -*who_marine
-quoy ?
+      quoy ?
 
 -*who_tomire
-que nous serions unis
+      que nous serions unis
 
 -*who_marine
 Il vaudroit mieux pour toy que je Ø leusse promis
@@ -2542,13 +2542,13 @@ Mais as tu du regret de l'espoir qu'on me donne
 Je ne dis pas cela
 
 -*who_tomire
-touche donc la friponne
+      touche donc la friponne
 
 -*who_marine
 Voicy Julie adieu va songe a detaler
 Et cours ou Dom carlos t'a tantost dit d'aller
 
-**** *book_ *id_body-4-5 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-405 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 Nous devons ce bonheur a l'amour de celime
@@ -2600,20 +2600,20 @@ De vos bontez pour moy n'espere aucune preuve
 Quelque soit le succez qui puisse en decider
 Qu'autant que vous croirez m'en pouvoir accorder
 
-**** *book_ *id_body-4-6 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-406 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
 Qu'as tu donc
 
 -*who_tomire
-je ne sçay mais j'ay sujet de croire
+      je ne sçay mais j'ay sujet de croire
 Que nous verrons icy quelque plaisante histoire
 
 -*who_carlos
 Comment donc et surquoy...
 
 -*who_tomire
-l'jllustre Dom brusquin
+      l'jllustre Dom brusquin
 S'en aloit vers le port fort outré de chagrin
 Donnant les turcs au diable et resolu sur l'heure
 De se remettre en mer pour changer de demeure
@@ -2658,13 +2658,13 @@ Et si ce Fatiman veut lespouser aussy
 Le Voicy
 
 -*who_julie
-je ne veux ny le voir ny l'entendre
+      je ne veux ny le voir ny l'entendre
 
 -*who_carlos
 Fatiman l'attendoit et je luy vais apprendre
 Comme il m'en a chargé qu'il vient d'estre amené
 
-**** *book_ *id_body-4-7 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-407 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Et bien me trouvez vous suffisamment berné
@@ -2675,17 +2675,17 @@ Ne s'est veu mieux rossé ny plus civilement
 Verrons nous fatiman
 
 -*who_stamorat
-vous lallez voir paroistre
+      vous lallez voir paroistre
 Il doit bien tost icy mais il vient
 
 -*who_brusquin
-a le traistre
+      a le traistre
 Rit entre cuir et chair de me voir...
 
 -*who_stamorat
-parlez bas
+      parlez bas
 
-**** *book_ *id_body-4-8 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-408 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Je Vous l'avois bien dit quil ne s'en jroit pas
@@ -2736,7 +2736,7 @@ Je te feray partir tu ne le verras point
 Mais a condition
 
 -*who_brusquin
-quel est ce nouveau pacte
+      quel est ce nouveau pacte
 
 -*who_fatiman
 Qu'avant que de partir on mettra dans un acte
@@ -2752,7 +2752,7 @@ Qu'a cet effort pour toy sa bonté se resout
 Que mesme a tes depens...
 
 -*who_brusquin
-le papier souffre tout
+      le papier souffre tout
 Que lon y mette tout ce qu'on y voudra mettre
 Pourrois je l'empecher je veux bien men remettre
 Sur les soins que je croy que vous mesme en prendrez
@@ -2764,11 +2764,11 @@ Il faudra le signer et puis vous partirez
 Moy le signer
 
 -*who_fatiman
-ouy vous la chose estant escrite
+      ouy vous la chose estant escrite
 Il faudra bien signer
 
 -*who_brusquin
-ah le chien d'hypocrite
+      ah le chien d'hypocrite
 Quoy vouloir qu'en signant un pareil concordat
 Je passe pour un sot sur mon certificat
 Et que pour ma moitié par escrit je convienne
@@ -2792,7 +2792,7 @@ Ayt pris l'un de vous deux et laissé lautre en paix
 Quiconque restera
 
 -*who_brusquin
-moy captif et le vostre
+      moy captif et le vostre
 
 -*who_fatiman
 Ira porter chez luy des nouvelles de l'autre
@@ -2803,10 +2803,10 @@ Par divertissement pour t'aprendre a ramer
 Qui moy ramer ?
 
 -*who_fatiman
-toy mesme
+      toy mesme
 
 -*who_brusquin
-ah ciel quel coup de foudre ?
+      ah ciel quel coup de foudre ?
 
 -*who_fatiman
 Souviens toy que tu n'as qu'une heure a te resoudre
@@ -2815,16 +2815,16 @@ Quon le mette a la chaisne et qu'on n'en parle plus
 C'est a dire...
 
 -*who_brusquin
-ah !
+      ah !
 
 -*who_stamorat
-j'entens forçat sur les galeres
+      j'entens forçat sur les galeres
 Qui des costes d'Alger partiront les premieres
 
 -*who_fatiman
 Ouy vous m'informerez tantost du resultat
 
-**** *book_ *id_body-4-9 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-409 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Ah canaille maudite ah traitre, moy forçat
@@ -2843,7 +2843,7 @@ Croyez Vous que mon cœur sans douleur soufrira
 -*who_stamorat
 Songez vous resoudre et lon vous repondra.
 
-**** *book_ *id_body-5-1 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-501 *act_ *date_1664 *creator_montfleury
 
 -*who_marine
 Me dis tu vray tomire et sur ton asseurance
@@ -2852,7 +2852,7 @@ Le frere de carlos vient d'arriver icy ?
 Et l'oncle qu'ils avoient est mort ?
 
 -*who_tomire
-ouy dieu mercy
+      ouy dieu mercy
 Le bonhomme est deffunt et pour longues années
 Et nous verrons bien tost changer noz destinées
 Que diable pour mourir est ce qu'il attendoit
@@ -2860,11 +2860,11 @@ Que la peste le creve en quelque endroit qu'il soit
 Le vieux penart quil est
 
 -*who_marine
-ton depit me fait rire
+      ton depit me fait rire
 Pourquoy le maudis tu ?
 
 -*who_tomire
-je dois bien le maudire
+      je dois bien le maudire
 Si quelques mois plus tost ce singe eust trespassé
 Mon gros diable de turc ne m'eust point tant rossé
 Il avoit force argent et le frere en apporté
@@ -2905,18 +2905,18 @@ J'en pouray quelque jour estre mieux esclaircy
 Quand...
 
 -*who_marine
-jentens D : brusquin que lon ameine icy
+      jentens D : brusquin que lon ameine icy
 R'entrons et s'il se peut tandis que lon le presse
 Scachons que deviendront ton maistre et ma maistresse
 
-**** *book_ *id_body-5-2 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-502 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Messieurs que faites vous je suis prest a signer
 L'heure n'est pas sonnée
 
 -*who_stamorat
-elle vient de sonner
+      elle vient de sonner
 Et c'est ta faute au lieu d'aller au necessaire
 Tu veux moraliser ou tu ne fais que braire
 Tu crois quon soit payé pour tentendre crier
@@ -2953,7 +2953,7 @@ De grace donnez moy cette derniere joye
 Il me va renvoyer
 
 -*who_brusquin
-et bien s il vous renvoye
+      et bien s il vous renvoye
 Vous ferez lors de moy tout ce qui vous plaira
 Voyons de quel secours mon argent me sera
 Tenez prenez cecy pour vous donner courage
@@ -2961,7 +2961,7 @@ Tenez prenez cecy pour vous donner courage
 -*who_stamorat
 Attendez je vay voir mais s'il vient soyez sage
 
-**** *book_ *id_body-5-3 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-503 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Helas ! a mes depens je connoy mais trop tart
@@ -2973,7 +2973,7 @@ Qui rendroient grace au ciel d'en estre ainsy deffaits
 Quelqu'un vient je crains fort et je ne Ø puis m'en taire
 Que mon retardement ne m'ayt fait quelque affaire
 
-**** *book_ *id_body-5-4 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-504 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Est il prest a signer tout ce qu'on luy dira
@@ -3020,7 +3020,7 @@ Et qu'a table auprez deux tes discours ordinaires...
 Pour cela decontez
 
 -*who_fatiman
-decontez aux galeres
+      decontez aux galeres
 
 -*who_brusquin
 Cartier messieurs sil faut cela pour m'en sauver
@@ -3043,10 +3043,10 @@ De quel air voulez vous que pour vous satisfaire
 Quoy cela te fait peine
 
 -*who_brusquin
-ouy sans doute
+      ouy sans doute
 
 -*who_fatiman
-en galere
+      en galere
 Alez c'est trop vouloir marchander avec moy
 
 -*who_brusquin
@@ -3072,22 +3072,22 @@ Escoutez cela fait quon le rameine icy
 J'ay quelque chose encor a luy dire
 
 -*who_brusquin
-courage
+      courage
 
 -*who_fatiman
 Vous n'avez qu'a le suivre
 
 -*who_brusquin
-ah le maudit voyage
+      ah le maudit voyage
 
-**** *book_ *id_body-5-5 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-505 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Nous verrons de quel air celime recevra
 Ce coup dont je pretens punir... mais la voila
 Voyons jusques ou va cet orgueil qui me brave
 
-**** *book_ *id_body-5-6 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-506 *act_ *date_1664 *creator_montfleury
 
 -*who_celime
 Avez vous decidé du sort de Vostre esclave
@@ -3117,7 +3117,7 @@ Et se rende a des feux trop mal recompensez
 Je luy donne un espoux en partant
 
 -*who_celime
-je le sçays
+      je le sçays
 Ouy l'on m'a fait scavoir que l'espoux de julie
 Est pour la racheter des hier en barbarie
 Et pour mes yeux enfin le plaisir le plus doux
@@ -3135,7 +3135,7 @@ Et son amour la met entre les bras d'un autre
 D'un autre ? eh quel est donc...
 
 -*who_fatiman
-c'est carlos ses appas
+      c'est carlos ses appas
 
 -*who_celime
 Ah ! Carlos ? a ce coup je ne m'attendois pas
@@ -3160,7 +3160,7 @@ Vous trouveriez moyen de rompre aussy le vostre
 Et je regarde enfin comme indigne de moy
 Qui peut porter un cœur a manquer a sa foy
 
-**** *book_ *id_body-5-7 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-507 *act_ *date_1664 *creator_montfleury
 
 -*who_fatiman
 Elle meurt de depit et j'en voy bien la cause
@@ -3168,7 +3168,7 @@ Mais perdre une infidelle est perdre peu de chose
 Et puisque cet hymen luy cause un tel transport
 Tachons en l'achevant de le rendre plus fort
 
-**** *book_ *id_body-5-8 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-508 *act_ *date_1664 *creator_montfleury
 
 -*who_brusquin
 Je reviens et tout est a vos ordres conforme
@@ -3187,7 +3187,7 @@ Te faire voir l'espous que je donne a ta femme
 Comment ce n'est pas vous
 
 -*who_fatiman
-non sans doute et sa flame
+      non sans doute et sa flame
 N'ayant peu se cacher, son cœur s'est declaré
 En faveur de celuy qu'elle ta preferé
 Tu le verras bien tost jl en vaut bien la peine
@@ -3207,17 +3207,17 @@ Vous ne vous reservez que le droit su seigneur
 Mon front est a l'enchere et m'a femme au pillage
 Les voicy
 
-**** *book_ *id_body-5-9 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_body-509 *act_ *date_1664 *creator_montfleury
 
 -*who_carlos
-quel respect ou plutost quel homage
+      quel respect ou plutost quel homage
 Puis je pour les bontez que vous avez pour nous
 
 -*who_fatiman
 Laissons ces vains discours
 
 -*who_brusquin
-Ø c'est donc la cet espous
+      Ø c'est donc la cet espous
 
 -*who_fatiman
 Ouy c'est luy qui charmé des beautez de julie
@@ -3237,12 +3237,12 @@ On vous force a me rendre et je le souffre aussy
 Ah traitresse
 
 -*who_fatiman
-finis cette sotte harangue
+      finis cette sotte harangue
 Ton dos pourroit aprendre a parler a ta langue
 Sois sage jusqu'au bout ou crains...
 
 -*who_brusquin
-Soit je me tais
+      Soit je me tais
 
 -*who_fatiman
 J'avois pour mon hymen fait faire des aprests
@@ -3252,7 +3252,7 @@ Qu'on commence a l'instant avertissez mes gens
 Alez
 
 -*who_tomire
-Si vous vouliez messieurs en mesme temps
+      Si vous vouliez messieurs en mesme temps
 Pour espargner les frais et nous faire bien rire
 On pouroit marier marine avec tomire
 Et lon feroit enfin d'une pierre deux coups

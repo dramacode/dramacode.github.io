@@ -1,5 +1,5 @@
 ---
-identifier: somaize_pretieuses  
+identifier: somaize_precieuses-ridicules  
 creator: Somaize, Antoine Baudeau  
 date: 1660  
 title: Les Prétieuses Ridicules. Comédie représentée au Petit Bourbon, nouvellement mise en vers.  
@@ -897,7 +897,7 @@ Enfin, nous avons corrigé une erreur de pagination à la page 90, qui portait l
 Lorsque le sens d'un mot diffère du sens actuel, un astérisque renvoie le lecteur au lexique, commun aux deux oeuvres, pour une définition de ce mot en usage au XVII*e* siècle et un renvoi aux différentes occurrences dans le texte. Les notes de bas de page viennent éclaircir le texte pour une meilleure compréhension linguistique et historique. Nous y avons indiqué entre parenthèses les différents outils de travail convoqués, référencés dans la bibliographie.
 
 
-# LES         PRETIEUSES RIDICULES COMEDIE. REPRESENTÉE *au Petit Bourbon.* NOUVELLEMENT mises en Vers.
+# LES PRETIEUSES RIDICULES COMEDIE. REPRESENTÉE *au Petit Bourbon.* NOUVELLEMENT mises en Vers.
 
 
 ## EPÎTRE A MADEMOISELLE MADEMOISELLE **MARIE** DE **MANCINY** [1].
@@ -921,7 +921,7 @@ Ce n'est pas que je veuille suivre celle de ces Autheurs avides de loüanges qui
 
 Je diray d'abord qu'il semblera extraordinaire qu'apres avoir loüé Mascarille [4], comme j'ay fait dans les Veritables Pretieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Autheur & qui sans doute luy doit quelque chose, si ce n'est parce qu'il y a adjouté de son estoc au vol qu'il en a fait aux Italiens, à qui Monsieur l'Abbé de Pure les avoit donnez ; au moins pour y avoir adjouté beaucoup par son jeu, qui plût à assez de gens pour luy donner la vanité d'estre le premier Farceur de France. C'est toûjours quelque chose d'éxceller en quelque mestier que ce soit, & pour parler selon le vulgaire, il vaut mieux estre le premier d'un village, que le dernier d'une ville, bon Farceur, que meschant⁎ Comedien ; mais quittons la parentese & retournons aux Pretieuses. Elles ont esté trop generalement receuës & approuvées pour ne pas avoüer que j'y ay pris plaisir, & qu'elles n'ont rien perdu en François de ce qui les fist suivre en Itallien ; & ce seroit faire le modeste à contre-temps, de ne pas dire que je crois ne leur avoir rien des-/ /-robé de leurs agremens en les mestant en Vers : mesme si j'en voulois croire ceux qui les ont veuës, je me vanterois d'y en avoir beaucoup adjouté ; mais quand je le dirois l'on ne seroit pas obligé de s'en raporter à moy, & quand mon Lecteur me donneroit un démenty, il seroit de ceux qui se souffrent sans peine & qui ne coutent jamais de sang. Aussi ne veus-je pas les loüer, & bien loings de le faire, je dis ingenuëment que ce n'est en bien des endroits, que de la prose rimée, qu'on y trouvera plusieurs vers sans repos & dont la cadance est fort rude ; mais le Lecteur verra aisement que ce n'est qu'aux endroits où j'ay voulu conserver mot à mot le sens de la prose, & lors que je les ay trouvez tous faits. L'on y verra encore des vers dont le sens est lié & qui sont enchaisnez les uns avec les autres comme de pauvres forçats, & d'autres enfin dont les rimes n'ont pas toute la richesse qu'on leur pourroit donner, je n'en donneray pourtant point d'excuse ; ne croyant pas estre obligé de suivre dans une Comedie comme celle-cy, une reigle que les meilleures plumes n'observent pas dans leurs ouvrages les plus serieux : enfin je ne diray rien des Pretieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, & serois bien faché d'oster le moyen de Critiquer à ceux qui se plaisent à le faire. Ainsi quoy qu'il me fust aisé de dire bien des choses pour justifier mes deffauts & que je n'eusse qu'à m'estandre sur la dificulté qu'il y a de mettre en Vers mot à mot une prose aussi bizare que celle que j'ay euë à tourner; que je peusse facillement faire voir que tout le plaisant des Pretieuses consistoit presque, en des mots aussi contraires à la douceur des Vers que necessaires aux agremens de cette Comedie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, & je proteste icy que la Critique ne m'espouvante point & que je serois fort mary de dire le moindre mot pour l'éviter, & non seulement je la souffre pour cette vertion, mais je consens que l'on s'en serve encore à l'esgard du Procez des Pretieuses [5] qui est de mon invention pure, & qui si tout le monde est de mon sentiment divertira fort, au moins ne l'ay je fait que dans cette pensée.
 
-Cette Preface auroit à peu pres la longueur qu'elle devroit avoir, & je la finirois volontiers en cet endroit s'il ne me restoit encore un peu de papier qu'il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j'aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d'y mettre une prose faite en ma propre langue ; dans toute autre j'aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma discretion⁎ & tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n'ay pas seulement esté contraint de mettre les pensées, il m'a falu mettre aussi les mesmes termes ; que si j'ay adjouté ou diminué selon que les rimes m'y ont obligé, je n'ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu'au sentiment de plusieurs j'aurois mieux fait que de les mettre en rimes, peut-estre aussi qu'au jugement de ceux qui ayment les vers j'auray fort bien reussi. Tout cela est douteux⁎ ; mais il est certain que ce n'est pas là mon plus grand chagrin, & que si ceux pour qui je les ay faites les trouvent à leur gré, il m'est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s'y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu'ils y trouverront mieux leur compte & pour moy je seray content, pourveu qu'ils se divertissent de quelque maniere que ce soit.    
+Cette Preface auroit à peu pres la longueur qu'elle devroit avoir, & je la finirois volontiers en cet endroit s'il ne me restoit encore un peu de papier qu'il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j'aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d'y mettre une prose faite en ma propre langue ; dans toute autre j'aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma discretion⁎ & tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n'ay pas seulement esté contraint de mettre les pensées, il m'a falu mettre aussi les mesmes termes ; que si j'ay adjouté ou diminué selon que les rimes m'y ont obligé, je n'ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu'au sentiment de plusieurs j'aurois mieux fait que de les mettre en rimes, peut-estre aussi qu'au jugement de ceux qui ayment les vers j'auray fort bien reussi. Tout cela est douteux⁎ ; mais il est certain que ce n'est pas là mon plus grand chagrin, & que si ceux pour qui je les ay faites les trouvent à leur gré, il m'est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s'y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu'ils y trouverront mieux leur compte & pour moy je seray content, pourveu qu'ils se divertissent de quelque maniere que ce soit.
 
 
 ## A MADEMOISELLE MADEMOISELLE **MARIE** DE **MANCINY** ELEGIE.
@@ -1078,8 +1078,6 @@ Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis q
  – VOISINES.
  – VIOLONS                                
 
-LES PRETIEUSES RIDICULES COMEDIE. REPRESENTEE au petit Bourbon MISES EN VERS.
-
 
 ## Acte I
 
@@ -1092,29 +1090,29 @@ LA GRANGE, DU CROISY.
 Seigneur [12], la Grange.  
 
     LA GRANGE
-            He bien ?                          
+    He bien ?  
 
     DU CROISY.
-                Regardez moy sans rire  
+        Regardez moy sans rire  
 
     LA GRANGE.
 Parlez, je vous entends⁎. Qu'avez-vous à me dire ?  
 Quoy,  
 
     DU CROISY.
-De nostre visite estes vous satisfait ?  
+        De nostre visite estes vous satisfait ?  
 
     LA GRANGE.
 Pas trop à dire vray, mais vous ?  
 
     DU CROISY.
-                Pas tout à fait,  
+        Pas tout à fait,  
 
     LA GRANGE.
 J'en suis scandalisé, pour moy je le confesse⁎  
 Un procedé⁎ semblable, & me choque & me blesse,  
 Deux Pecques [13] de Province, ont-elles dites moy ?  
-Jamais plus fierement, tenu leur quant à moy [14]                      
+Jamais plus fierement, tenu leur quant à moy [14]  
 Et deux hommes jamais, en pareille occurrence  
 Ont-ils esté receus avec plus d'arrogance ?  
 Pendant que nous avons demeuré pour les voir  
@@ -1134,7 +1132,7 @@ Il semble tout de bon, que la chose vous touche.
 
     LA GRANGE.
 Sans doute⁎ elle me touche, & de telle façon  
-Que devant qu'il soit peu [18], j'en veux tirer raison [19] ;                  
+Que devant qu'il soit peu [18], j'en veux tirer raison [19] ;  
 Je connois⁎ ce que c'est, l'air Pretieux [20] sans doute [21]  
 Dans la campagne aussi, vient de prendre sa route,  
 Et de Paris enfin courant, de part en part  
@@ -1148,13 +1146,13 @@ Je vois ce qu'à leurs yeux, il faut enfin paroistre,
 Et si vous me croyez, nous leur devons joüer  
 Un tour, pour leur apprendre à ne se plus loüer⁎,  
 La piece⁎ [25] assurement, paroistra sans seconde  
-Et leur montrera mieux, à connoistre leur monde [26].                  
+Et leur montrera mieux, à connoistre leur monde [26].  
 
     DU CROISY.
 Comment ?  
 
     LA GRANGE.
-J'ay Mascarille, un certain grand Laquais  
+        J'ay Mascarille, un certain grand Laquais  
 Qui passe au sentiment d'esprits assez mal faits,  
 Pour estre un bel esprit, car au siecle où nous sommes  
 Il est à bon marché, chez la pluspart des hommes [27].  
@@ -1166,12 +1164,12 @@ Fait le maistre par tout, dedaigne ses Egaux
 Jusques à les traitter, d'ignorans de Brutaux.  
 
     DU CROISY.
-He bien ! de ce valet que pretendez vous faire :                       
+He bien ! de ce valet que pretendez vous faire :  
 
     LA GRANGE.
 Mon dessein n'a jamais esté de vous le taire  
 Il nous faut.... mais sortons, car tout n'iroit pas bien  
-Si Gorgibus, qui vient sçavoit nostre entretien.                      
+Si Gorgibus, qui vient sçavoit nostre entretien.  
 
 
 ### SCENE II.
@@ -1189,7 +1187,7 @@ D'une pareille affaire, encor que dites vous ?
 Vous le sçaurez Monsieur, mieux d'elles, que de nous,  
 Tout ce que nous pouvons à present⁎ vous apprendre  
 C'est, que nous avons trop de graces⁎ à vous rendre,  
-De toutes vos bontez, de toutes vos faveurs                      
+De toutes vos bontez, de toutes vos faveurs  
 Et que nous demeurons vos humbles serviteurs,  
 
     GORGIBUS.
@@ -1198,7 +1196,7 @@ Faisons venir quelqu'un qui nous en puisse instruire.
 Je veux m'en enquerir, & sçavoir promptement  
 D'où leur pourroit venir, ce mescontentement :  
 Ces coquines [31], tousjours me causent mille angoisses  
-Hola ?                                          
+Hola ?  
 
 
 ### SCENE III.
@@ -1206,27 +1204,27 @@ MAROTTE, GORGIBUS.
 
 
     MAROTTE.
-Plaist-il Monsieur ?  
+    Plaist-il Monsieur ?  
 
     GORGIBUS.
-                Où sont donc vos Maistresses ?  
+        Où sont donc vos Maistresses ?  
 Qu'on les face venir.  
 
     MAROTTE.
-            Je pense qu'elles sont  
+        Je pense qu'elles sont  
 Dedans leur Cabinet. [32]  
 
     GORGIBUS.
-            Qu'est-ce qu'elles y font ?                  
+        Qu'est-ce qu'elles y font ?  
 
     MAROTTE. 
 Pour les levres Monsieur,  
 
     GORGIBUS.
-            Et quoy ?  
+    Et quoy ?  
 
     MAROTTE. 
-                De la pommade  
+        De la pommade  
 
     GORGIBUS.
 Nous avons tous les jours une semblable aubade [33].  
@@ -1236,12 +1234,12 @@ Ces pendardes enfin, faut que je le confesse⁎.
 Me veulent ruiner [35]en pommadant sans cesse.  
 Mais je me facheray si l'on me pousse à bout ;  
 Je ne vois que blancs-d'oeufs, laict virginal par tout,  
-Par tout, dans le logis, je ne vois que paroistre                      
+Par tout, dans le logis, je ne vois que paroistre  
 Mille brinborions [36], que je ne puis connoistre :  
 Elles ont employé, le lard de dix cochons  
 Et je puis assurer que des pieds de moutons  
 Dont icy chaque jour, elles font la despence  
-Dix valets en auroient plus que leur suffisance. [37]                  
+Dix valets en auroient plus que leur suffisance. [37]  
 
 
 ### SCENE IV.
@@ -1254,7 +1252,7 @@ Et c'est trop despencer, pour graisser son museau [38]
 Dites ? Qu'ont ces Messieurs, qu'avez vous pû leur faire ?  
 Ils sortent froidement, & me semblent colere  
 Puisque je l'avois dit, que ne les traittiez vous,  
-Comme gens destinez, pour estre vos espoux.                  
+Comme gens destinez, pour estre vos espoux.  
 
     MAGDELON.
 Ah ! Que dites vous là, quelle estime, mon pere  
@@ -1272,8 +1270,8 @@ Mon oncle, quel moyen de s'en accommoder ?
 Que trouvez vous en eux ?  
 
     MAGDELON.
-            Qu'osez-vous demander  
-Ils n'ont fait leur debut que par le mariage.                      
+        Qu'osez-vous demander  
+Ils n'ont fait leur debut que par le mariage.  
 
     GORGIBUS.
 Devoient-ils debutter par le concubinage [39] ?  
@@ -1291,7 +1289,7 @@ Mais faites vous de grace, instruire une autre fois,
 Ce que vous avez dit, est du dernier Bourgeois,  
 Je ne vous puis ouïr, & la honte m'accable.  
 Lors que je vous entends faire un discours semblable.  
-J'en suis encore surprise & confuse. Bon Dieu !                      
+J'en suis encore surprise & confuse. Bon Dieu !  
 Pour vous desabrutir [40], il vous faudroit un peu  
 Apprendre ce que c'est, que le bel air⁎ des choses.  
 
@@ -1307,7 +1305,7 @@ Et qu'il n'a rien du tout, que de sainct & sacré.
     MAGDELON.
 Dieux ! si chacun estoit de vostre humeur⁎ mon pere,  
 Que la fin d'un Roman, seroit facile à faire,  
-Que cela seroit beau, si Cyrus dans l'abord⁎                      
+Que cela seroit beau, si Cyrus dans l'abord⁎  
 Sans esprouver du tout, les caprices du sort  
 Avoit Mandane, & si sans hazarder sa vie  
 Aronce, de plein pied [43], espousoit sa Clélie. [44]  
@@ -1323,7 +1321,7 @@ Que jamais un hymen⁎ ne se doit accorder
 Qu'apres les accidens [45] qui doivent preceder.  
 Il faut que dans l'abord, un amant veritable  
 Afin qu'à sa maistresse il se rende agreable,  
-Exprime adroitement ses plus cruels⁎ tourmens,                   
+Exprime adroitement ses plus cruels⁎ tourmens,  
 Il sçache debiter⁎ tous les beaux sentimens,  
 Et que sans se lasser, pour pouvoir la surprendre,  
 Il sçache bien pousser, & le doux & le tendre, [46]  
@@ -1337,7 +1335,7 @@ Ou bien estre conduit, fatallement⁎ chez elle
 Par un des bons amis, ou parent de la belle.  
 Il sort apres cela, tout chagrin tout resveur,  
 A l'objet de ses vœux, cache un temps son ardeur⁎,  
-Cependant il luy rend de frequentes visites                      
+Cependant il luy rend de frequentes visites  
 Et puis le plus souvent, apres bien des redites,  
 On voit sur le tapis, mettre une question [49]  
 Qui fait adroitement sçavoir sa passion,  
@@ -1353,7 +1351,7 @@ Il trouve apres moyen, de rassurer nostre ame
 De nous accoustumer, aux discours de sa flamme⁎,  
 Et de tirer de nous, cet important aveu⁎  
 Qui nous fait tant de peine, & luy couste si peu.  
-Viennent apres cela toutes les advantures                      
+Viennent apres cela toutes les advantures  
 Les jaloux desespoirs, les craintes les murmures,  
 Les plaintes sans sujet, les cris & les rivaux  
 Qui d'un parfait amour, sont les plus cruels maux  
@@ -1369,7 +1367,7 @@ Et tout ce qui s'ensuit. Dans les belles manieres,
 C'est ainsi que chacun doit traitter ses affaires,  
 Ce sont regles enfin, dont il faut confesser⁎  
 Que quiconque est galand ne peut se dispenser ;  
-Mais peut-on jamais voir recherche plus brutalle,                   
+Mais peut-on jamais voir recherche plus brutalle,  
 Parler de but en blanc, d'union conjugalle,  
 Venir rendre visite, & des le mesme jour  
 Vouloir passer contract, pour monstrer leur amour  
@@ -1387,7 +1385,7 @@ Avecque son jargon [55], de me conter icy.
     CATHOS.
 Ah ! mon oncle en effet, je vous diray si j'ose  
 Qu'elle vient de donner dans le vray de la chose ;  
-Et quel moyen aussi de recevoir des gens,                       
+Et quel moyen aussi de recevoir des gens,  
 Qu'à faire leur devoir, on voit si negligens,  
 Qui n'ont de dire un mot, pas mesme l'industrie⁎,  
 Et qui sont incongrus dans la galanterie [56],  
@@ -1400,7 +1398,7 @@ Et que billets galands, petits soins, jolis vers,
 Billets doux, sont pour eux des terres inconnuës. [57]  
 Je puis vous dire encor, sans en demeurer là,  
 Que tout leur procedé⁎ marque assez bien cela,  
-Et qu'on ne trouve point dans toute leur personne                  
+Et qu'on ne trouve point dans toute leur personne  
 Ce je ne sçay quel charme, & qui des l'abord donne  
 Par un air attirant, & de condition  
 De quantité de gens, fort bonne opinion.  
@@ -1416,7 +1414,7 @@ Et souffrent de rubans une extréme indigence.
 Ah ! mon Dieu, quels Amans⁎, j'en rougis quand j'y pense,  
 Quelle frugalité d'ajustement, bon Dieu  
 Est-ce ainsi que l'on doit venir offrir ses vœux,  
-Que d'indigence en tout, & quelle secheresse                      
+Que d'indigence en tout, & quelle secheresse  
 De conversation, ah ! tout cela me blesse,  
 Tousjours on y languit, on n'y tient point Helas !  
 J'ay remarqué deplus encor, que leurs rabats [59]  
@@ -1430,10 +1428,10 @@ Voila de grands discours que je ne puis entendre⁎
 A tout ce baragouin [60], qui pourroit rien comprendre,  
 Elles sont folles. Vous Cathos & Magdelon,  
 Apprenez aujourd'huy que je veux tout de bon,  
-Que vous vous prepariez.....                              
+Que vous vous prepariez.....  
 
     MAGDELON.
-                He ! de grace, mon pere,  
+        He ! de grace, mon pere,  
 Des ces estranges⁎ noms, taschez de vous deffaire,  
 Et si vous le pouvez, nommez-nous autrement.  
 
@@ -1449,7 +1447,7 @@ Est que vous ayez fait une fille si sage
 Et si pleine d'esprit. Dedans le beau langage,  
 Oüy-t'on jamais nommer, Magdelon & Cathos ?  
 Et n'advoüerez-vous pas, qu'enfin de noms si sots [61]  
-Pourroient par leur rudesse⁎ affreuse & sans seconde              
+Pourroient par leur rudesse⁎ affreuse & sans seconde  
 Descrier⁎ le Roman, le plus charmant du monde.  
 
     CATHOS.
@@ -1462,7 +1460,7 @@ Entendant prononcer ces mots là seulement.
 D'Aminte le beau nom, celui de Polixene, [63]  
 Que ma cousine & moy nous avons pris sans peine,  
 Ont des attraits en eux, dont vous devez d'abord⁎  
-Sans aucun contredit estre avec moy d'accord.                      
+Sans aucun contredit estre avec moy d'accord.  
 
     GORGIBUS. 
 Escoutez toutes deux, il n'est qu'un mot qui serve [64],  
@@ -1477,7 +1475,7 @@ Je sçay quels sont leurs biens, je connois leurs familles,
 Et comme je suis las de tant garder deux filles,  
 Je veux qu'absolument vous songiez toutes deux  
 A recevoir bien-tost leur main avec leurs vœux.  
-De deux filles la garde, est une rude charge,                      
+De deux filles la garde, est une rude charge,  
 Et ne peine que trop un homme de mon aage [66].  
 
     CATHOS.
@@ -1493,7 +1491,7 @@ C'est pourquoy vous devez, nous permettre sans peine,
 Qu'avec les beaux esprits, nous reprenions haleine [69]  
 Et comme dans Paris, nous venons d'arriver,  
 Vous devez, s'il vous plaist, nous laisser achever  
-De nostre beau Roman, le tissu sans exemple [70],                      
+De nostre beau Roman, le tissu sans exemple [70],  
 Et n'en pas tant presser, par un pouvoir trop ample  
 La conclusion.  
 
@@ -1507,7 +1505,7 @@ Et que l'on fasse enfin, ce que j'ay resolu.
 C'est pourquoy ces Messieurs, seront dans ma famille,  
 Ou chacune de vous restera tousjours fille,  
 Ou sera par ma foy, mise doresnavant  
-Puis que je l'ay juré, dedans un bon Couvent.                       
+Puis que je l'ay juré, dedans un bon Couvent.  
 
 
 ### SCENE V.
@@ -1525,7 +1523,7 @@ Ma chere que veux-tu ? pour luy j'en suis confuse,
 Rien ne m'estonne⁎ tant, que de le voir si buse [73] ;  
 Mais je me persuade, & fort mal-aisément  
 Que je puisse estre aussi sa fille assurement,  
-Et je crois qu'il viendra quelque journée heureuse,                   
+Et je crois qu'il viendra quelque journée heureuse,  
 Qui par quelque adventure, & nouvelle, & fameuse  
 Me developpera⁎, sans doute⁎ avec raison  
 Un pere plus illustre, & d'une autre maison [74].  
@@ -1533,7 +1531,7 @@ Un pere plus illustre, & d'une autre maison [74].
     CATHOS.
 Je le croirois bien oüy ; car enfin sans médire  
 J'y vois grande apparence⁎, & je ne sçay qu'en dire  
-Pour moy quand je me vois aussi....                           
+Pour moy quand je me vois aussi....  
 
 
 ### SCENE VI.
@@ -1541,17 +1539,17 @@ MAGDELON, CATHOS, MAROTTE,
 
 
     MAROTTE.
-                Madame,  
+    Madame,  
 
     MAGDELON.
-                    Quoy ?  
+        Quoy ?  
 Qu'est-ce, que voulez-vous ? veut-on parler à moy ?  
 
     MAROTTE.
 Un laquais, que voila, souhaitte qu'on luy dise  
 Si vous estes ceans⁎, afin qu'il en instruise  
 Son maistre, qui l'envoye icy, pour le sçavoir,  
-Parce, dit-il, qu'il veut bien-tost vous venir voir.                       
+Parce, dit-il, qu'il veut bien-tost vous venir voir.  
 
     MAGDELON.
 Et vous apprenez sotte, à moins parler vulgaire⁎,  
@@ -1561,23 +1559,23 @@ Si vous ne pouriez pas estre presentement
 En commodité d'estre visibles.  
 
     MAROTTE.
-                Ah ! Dame !  
+        Ah ! Dame !  
 Je n'entens point ma foy, tout ce Latin, Madame,  
 Et l'on ne m'a jamais, enseigné comme à vous  
 La filofie [76], dedans le grand Cyre. [77]  
 
     MAGDELON.
-                A nous  
+        A nous  
 Tenir de tels propos, voyez l'impertinente  
 Le moyen de souffrir⁎, toujours cette insolente ;  
-Mais encor quel est-il ? le Maistre à ce laquais.                      
+Mais encor quel est-il ? le Maistre à ce laquais.  
 
     MAROTTE.
 Il me l'a nommé, le.....le Marquis de de......ouais,  
 Marquis de Mascarille [78].  
 
     MAGDELON.
-            Un Marquis, ah ! ma chere,  
+        Un Marquis, ah ! ma chere,  
 Oüy, retournez luy dire, & ne demeurez guere  
 Qu'on nous voit à present⁎ ; c'est quelque bel esprit,  
 Que nostre renommée a jusqu'icy conduit.  
@@ -1586,11 +1584,11 @@ Que nostre renommée a jusqu'icy conduit.
 Assurement ma chere.  
 
     MAGDELON.
-            En cette salle basse [79]  
+        En cette salle basse [79]  
 Il faut le recevoir, nous aurons plus de grace  
 Que dedans nostre chambre ; ajustons nos cheveux  
 Au moins, & soutenons en ce jour bien heureux  
-La reputation que nous avons acquise.                          
+La reputation que nous avons acquise.  
 
     CATHOS.
 La visite me plaist, bien que j'en sois surprise.  
@@ -1606,10 +1604,10 @@ Il faut parler Chrestien [80] pour mettre dans ma teste
 Ce que vous voulez dire.  
 
     CATHOS.
-            Apportez le miroir  
+        Apportez le miroir  
 Pecore [81], & gardez bien en vous y faisant voir  
 D'en obscurcir la glace, & de luy faire outrage  
-En luy communiquant de trop pres vostre image.                   
+En luy communiquant de trop pres vostre image.  
 
 
 ### SCENE VII.
@@ -1632,7 +1630,7 @@ Nous avons obey.
 (sortant de sa chaise.)
 
         Je le crois bien aussi,  
-Voudriez-vous faquins [85] ? que pour vous j'exposasse                  
+Voudriez-vous faquins [85] ? que pour vous j'exposasse  
 Ou mes plumes à l'air, ou bien que je laissasse  
 Perdre leur embonpoint [86] ; & n'ai-je pas raison ? [87]  
 De les en garantir, durant cette saison  
@@ -1641,23 +1639,23 @@ Mes souliers en la bouë. Ah ! de vous je me lasse,
 Ostez moy vostre chaise.  
 
     2. PORTEURS.
-            Et bien donc, payez-nous ?  
+        Et bien donc, payez-nous ?  
 
     MASCARILLE.
 Hem ?  
 
     2. PORTEURS.
-Je vous dis, Monsieur ?  
+    Je vous dis, Monsieur ?  
 
     MASCARILLE.
-                Que me dis-tu ?  
+    Que me dis-tu ?  
 
     2. PORTEURS.
-                        Que vous  
-Nous donniez de l'argent.                           
+        Que vous  
+Nous donniez de l'argent.  
 
     MASCARILLE  *(luy donnant un soufflet.*) [88]
-            Quelle insolence ?  
+        Quelle insolence ?  
 Demander de l'argent, à ceux de ma naissance.  
 
     2. PORTEURS.
@@ -1672,18 +1670,18 @@ Vous osez vous marauts ? joüer à vostre Maistre.
 Ça viste, payez-nous ? [89]  
 
     MASCARILLE.
-            Quoy ?  
+    Quoy ?  
 
     1. PORTEUR.
-                Je dis que je veux  
-De l'argent tout à l'heure⁎.                              
+        Je dis que je veux  
+De l'argent tout à l'heure⁎.  
 
     MASCARILLE.
-            On ne peut dire mieux,  
+        On ne peut dire mieux,  
 Il est tres-raisonnable.  
 
     1. PORTEUR.
-            Eh ! bien viste, vous dis-je !  
+        Eh ! bien viste, vous dis-je !  
 
     MASCARILLE.
 Tu parles comme il faut, voyla comme on m'oblige  
@@ -1691,18 +1689,18 @@ Mais l'autre est un coquin qui ne sçait ce qu'il dit.
 Là tiens, es tu content ?  
 
     1.PORTEUR.
-            Nany, j'ay du despit⁎  
+        Nany, j'ay du despit⁎  
 Et ne sçaurois souffrir vostre rodemontade [90],  
 Vous avez devant moy battu mon camarade,  
 Et si......  
 
     MASCARILLE.
-Doucement, tiens, voyla pour le soufflet ;  
+        Doucement, tiens, voyla pour le soufflet ;  
 On obtient tout de moy, je suis comme un poulet,  
-Et lors que l'on s'y prend, de la bonne manière                      
+Et lors que l'on s'y prend, de la bonne manière  
 Je me laisse fleschir, à la moindre priere.  
 Allez viste sortez, & venez me chercher  
-Tantost, pour aller au Louvre au petit coucher [91].                  
+Tantost, pour aller au Louvre au petit coucher [91].  
 
 
 ### SCENE VIII.
@@ -1718,7 +1716,7 @@ Je suis dedans ce lieu, posté [92] commodement
 Et je puis à loisir, les attendre aisement.  
 
     MAROTTE.
-Elles viennent Monsieur,                               
+Elles viennent Monsieur,  
 
 
 ### SCENE IX.
@@ -1728,19 +1726,19 @@ MASCARILLE, ALMANZOR.
 
 
     MASCARILLE, *(apres avoir salué.* [93])
-            Mes Dames [94] mon audace  
+        Mes Dames [94] mon audace  
 Poura vous estonner ; mais cette aymable grace  
 Que l'on admire en vous, vous cause ce malheur :  
 La reputation qui parle, à vostre honneur  
 M'a forcé ce jourd'huy, de vous rendre visite  
-Et pour moy je poursuis en tous lieux le merite.                      
+Et pour moy je poursuis en tous lieux le merite.  
 
     MAGDELON.
 Si vous le poursuivez ce n'est pas en ces lieux  
 Que vous devez chasser.  
 
     CATHOS.
-            Pour le voir à nos yeux  
+        Pour le voir à nos yeux  
 Il a falu Monsieur, qu'il vint sous vostre auspice [95].  
 
     MASCARILLE.
@@ -1753,7 +1751,7 @@ Tout ce que dans Paris, l'on cherit & l'on aime.
     MAGDELON.
 Nous n'attendions pas moins, d'un homme tel que vous ;  
 Mais vostre complaisance⁎ est trop grande envers nous.  
-Et vous poussez si loing vostre injuste⁎ loüange                  
+Et vous poussez si loing vostre injuste⁎ loüange  
 Que ma cousine, & moy, pour éviter le change,  
 Nous ne donnerons pas, de nostre serieux  
 Dedans un compliment, qu'on ne peut faire mieux ;  
@@ -1770,7 +1768,7 @@ Les commoditez de la conversation [99].
 Mais auray-je du moins, sureté de personne [100] ?  
 
     CATHOS.
-Que craignez-vous de nous ? que rien ne vous estonne⁎.                  
+Que craignez-vous de nous ? que rien ne vous estonne⁎.  
 
     MASCARILLE.
 J'ay tout à redouter, tout me doit faire peur ;  
@@ -1787,7 +1785,7 @@ Ma foy je m'en defie, & vais prendre la fuitte
 Ou je veux caution [104] de leur bonne conduitte.  
 
     MAGDELON.
-Ma chere, ce qu'il dit est tout plain [105] d'enjouëment [106].                  
+Ma chere, ce qu'il dit est tout plain [105] d'enjouëment [106].  
 
     CATHOS.
 Il efface Amilcar [107], tant il y a d'agrement.  
@@ -1808,12 +1806,12 @@ Souffrez qu'il vous embrasse.
     MASCARILLE.
 (apres s'estre peigné [110], & avoir ajusté ses canons [111].)
 
-Eh bien dites mes Dames,                           
+Eh bien dites mes Dames,  
 Que vous semble Paris ? car c'est aux belles ames  
 D'en porter jugement.  
 
     MAGDELON.
-            Qu'en dirions nous helas  
+        Qu'en dirions nous helas  
 Tout le monde est d'accord, qu'il est remply d'appas⁎,  
 Que c'est le grand Bureau [112], de toutes les merveilles,  
 Le centre du bon goust, le charme des oreilles,  
@@ -1829,10 +1827,10 @@ On ne dispute⁎ point de cette verité.
 
     MASCARILLE.
 Ce qu'il a de fascheux, c'est qu'il y fait crotté ;  
-Mais nous avons la chaise.                               
+Mais nous avons la chaise.  
 
     MAGDELON.
-            Il est vray que la chaise  
+        Il est vray que la chaise  
 Est un retranchement [114], où l'on est à son aise,  
 Un propice instrument, pour les honnestes gens,  
 Un merveilleux abry, contre le mauvais temps.  
@@ -1844,10 +1842,10 @@ Mais encor qui sont ceux qu'attirent vos appas⁎,
 Dites ?  
 
     MAGDELON.
-Helas ! Monsieur, l'on ne nous connoist pas ;  
+        Helas ! Monsieur, l'on ne nous connoist pas ;  
 Mais peut-estre bien tost qu'on nous poura connoistre,  
 Nous sommes en estat, de nous faire paroistre⁎,  
-Nous avons une amie, & qui nous a promis                      
+Nous avons une amie, & qui nous a promis  
 Qu'elle nous feroit voir, des gens de ses amis,  
 Qui sont dans les recueils des belles Poësies,  
 Ces Messieurs, des Romans, & des pieces choisies [115].  
@@ -1865,7 +1863,7 @@ J'en ay tous les matins, une demy-douzaine [117].
 
     MAGDELON.
 Eh ! mon Dieu, voudriez-vous, vous donner cette peine ;  
-Nous vous aurons, la derniere obligation,                   
+Nous vous aurons, la derniere obligation,  
 Si vous nous procurez leur conversation ;  
 Car enfin vous sçavez, que sans leur connoissance,  
 On n'est point du beau monde, & voila l'importance :  
@@ -1879,7 +1877,7 @@ Et principalement, ce que je considere,
 Ce qu'à tout autre bien, aisement je prefere,  
 C'est que par ce moyen des choses l'on s'instruit,  
 Qu'il faut qu'on sçache enfin pour estre bel esprit [118].  
-Puis l'on sçait chaque jour, les petites nouvelles,                       
+Puis l'on sçait chaque jour, les petites nouvelles,  
 Tout ce que les galands, escrivent à leurs belles.  
 Les commerces⁎ de Prose, aussi bien que de Vers,  
 Tout ce que l'on escrit, sur cent sujets divers.  
@@ -1893,7 +1891,7 @@ Un tel Autheur Gascon, a fait un Madrigal
 Sur une jouïssance. Un tel donne le bal.  
 Cet autre a composé, des Sonnets & des Stances  
 Sur des yeux, sur un teint & sur des inconstances.  
-Un tel hier au soir, escrivit un sizain                          
+Un tel hier au soir, escrivit un sizain  
 Pour une Damoiselle ; elle par un dixain  
 Le lendemain matin, en envoya responce.  
 On poursuit le Roman, de Clelie & d'Aronce [119].  
@@ -1908,9 +1906,9 @@ Que quelque esprit qu'on ait, alors qu'on les ignore
 Il ne vaut pas un clou [122].  
 
     CATHOS.
-            Je trouve qu'en effet,  
+        Je trouve qu'en effet,  
 Sans cela l'on ne peut avoir l'esprit bien fait :  
-Je l'avouëray pour moy, c'est là tout mon scrupule                   
+Je l'avouëray pour moy, c'est là tout mon scrupule  
 Je croy qu'on encherit dessus le ridicule  
 De se picquer d'esprit, & de ne sçavoir pas  
 Jus-qu'au moindre quatrain ; pour moy j'en fais amas,  
@@ -1919,7 +1917,7 @@ Que je n'aurois pas veu, soit de vers, soit de Prose
 J'en aurois de la honte.  
 
     MASCARILLE.
-            On n'estime point ceux  
+        On n'estime point ceux  
 Qui n'ont pas des premiers, tous les vers amoureux  
 Et mesme ce qu'on fait, d'une plus longue haleine ;  
 Mais fiez vous sur moy, n'en soyez point en peine.  
@@ -1927,7 +1925,7 @@ J'assembleray chez vous, nombre de beaux esprits.
 Vos mains de leurs travaux, leur donneront le prix,  
 Et je veux qu'à Paris, pas un vers ne se fasse  
 Que dans vostre memoire, il n'occuppe une place [123]  
-Avant qu'aucun l'ait veu. Tel que vous me voyez                  
+Avant qu'aucun l'ait veu. Tel que vous me voyez  
 Je m'en excrime [124] un peu, je veux que vous sçachiez  
 Que vous verrez courir, dans les belles ruelles [125]  
 Plus de deux cens chansons, presque toutes nouvelles,  
@@ -1938,14 +1936,14 @@ Faites, sur des desdains [126] ; sans les Apologies,
 Enigmes, & Portraits [127].  
 
     MAGDELON.
-            Ah ! furieusement [128]  
+        Ah ! furieusement [128]  
 Je suis pour les portraits ; rien n'est de plus charmant,  
 Ny rien de plus galand.  
 
     MASCARILLE.
-            Ils sont bien difficiles,  
+        Ils sont bien difficiles,  
 Et veulent des esprits profonds, sçavans, habiles.  
-Vous en verrez de moy, qui ne desplaisent pas.                       
+Vous en verrez de moy, qui ne desplaisent pas.  
 
     CATHOS.
 Une Enigme a pour moy, terriblement d'appas⁎.  
@@ -1956,7 +1954,7 @@ Encore ce matin, qu'afin de vous esbattre
 Vous pourez deviner.  
 
     MAGDELON.
-            J'aime les Madrigaux,  
+        J'aime les Madrigaux,  
 Quand ils sont bien tournez, ils sont tout à fait beaux.  
 
     MASCARILLE.
@@ -1966,7 +1964,7 @@ A mettre en Madrigaux les annalles Romaines [129].
     MAGDELON.
 Ce dessein est illustre, autant qu'il est nouveau,  
 Cet ouvrage, Monsieur, sera du dernier beau,  
-Et si vous l'imprimez, j'en veux un exemplaire.                       
+Et si vous l'imprimez, j'en veux un exemplaire.  
 
     MASCARILLE.
 Je sçay trop mon devoir, pour n'y pas satisfaire,  
@@ -1984,7 +1982,7 @@ Le plaisir est bien grand d'estre mis sous la presse.
 Sans doute⁎ il est bien doux, que nostre nom paroisse  
 Et les noms imprimez, ont une autre vertu ;  
 Mais à propos, il faut vous dire un impromptu  
-Que je fis avant-hier, chez certaine Duchesse                      
+Que je fis avant-hier, chez certaine Duchesse  
 Que je fus visiter, il est plein de tendresse,  
 Tous les plus fiers esprits, s'en verroient combatus  
 Car je suis diablement fort sur les impromptus [132]  
@@ -1997,10 +1995,10 @@ De l'esprit, il nous plaist, il nous charme, il nous touche.
 Escoutez ;  
 
     MAGDELON.
-Ce sera, Monsieur, avec plaisir,  
+        Ce sera, Monsieur, avec plaisir,  
 Et vous pouvez parler avecque tout loisir,  
 Dans le juste desir d'oüir tant de merveilles,  
-Nous y sommes desja de toutes nos oreilles [133].                      
+Nous y sommes desja de toutes nos oreilles [133].  
 
     MASCARILLE.
 Oh, oh, je n'y prenois pas garde,  
@@ -2020,7 +2018,7 @@ Je n'ay rien de Pedant encor moins d'Escolier [137].
 
     CATHOS.
 Il en est esloigné, tout autant qu'on peut l'estre  
-Et vous avez bien l'art, de vous faire paroistre⁎.                      
+Et vous avez bien l'art, de vous faire paroistre⁎.  
 
     MASCARILLE.
 Avez vous remarqué ? dans ce commancement  
@@ -2030,23 +2028,23 @@ Tout d'un coup, *oh, oh, oh*, voyez vous la surprise ?
 Oh, oh ;  
 
     MAGDELON.
-Ouy ce *oh, oh*, ne peut pas estre mieux !  
+        Ouy ce *oh, oh*, ne peut pas estre mieux !  
 
     MASCARILLE.
 Cela ne semble rien.  
 
     CATHOS.
-            Il est miraculeux  
+        Il est miraculeux  
 Et ce sont là Monsieur, de ces choses si belles  
 Qu'on ne les peut payer.  
 
     MAGDELON.
-            Sans doute⁎ elles sont telles  
-Et j'aymerois bien mieux, avoir fait ce *oh, oh*,                       
+        Sans doute⁎ elles sont telles  
+Et j'aymerois bien mieux, avoir fait ce *oh, oh*,  
 Que tout un Poëme Epique [138].  
 
     MASCARILLE.
-                En effet il est beau,  
+        En effet il est beau,  
 Vous avez le goust bon tu dieu [139], vous estes fine  
 
     MAGDELON.
@@ -2061,13 +2059,13 @@ Elle est fort naturelle, & de plus fort mignarde [140],
 Comme un pauvre mouton, tandis que bonnement  
 *Je vous regarde*, moy c'est justement⁎ à dire  
 Que je vous considere, & que je vous admire  
-Ou bien que je m'amuse⁎, à contempler vos yeux.                  
+Ou bien que je m'amuse⁎, à contempler vos yeux.  
 *Votre œil en tapinois* ; peut-on s'esnoncer mieux  
 *Tapinois* ? de ce mot encor que vous en semble ?  
 N'est-il pas bien choisi ?  
 
     CATHOS.
-            Dieux ? qu'ils sont bien ensemble.  
+        Dieux ? qu'ils sont bien ensemble.  
 
     MASCARILLE.
 *Tapinois*, en cachette, il semble qu'un bon chat  
@@ -2075,13 +2073,13 @@ Ait pris une souris, ou bien quelque gros rat :
 Tapinois  
 
     MAGDELON.
-Il est vray cette pensée est forte.  
+        Il est vray cette pensée est forte.  
 
     MASCARILLE.
 *Me derobe mon cœur*, me l'oste me l'emporte,  
 Au voleur, au voleur, au voleur, au voleur,  
 N'est-ce pas peindre au vif, la perte de son coeur,  
-Et ne diriez-vous pas ? qu'on crie à pleine teste                  
+Et ne diriez-vous pas ? qu'on crie à pleine teste  
 Apres quelque voleur, arreste, arreste, arreste,  
 Comme en le poursuivant, tout saisy de frayeur,  
 Au voleur, au voleur, au voleur, au voleur.  
@@ -2096,16 +2094,16 @@ L'air que j'ay fait dessus, me semble assez nouveau,
 Faut que je vous le die [141].  
 
     CATHOS.
-            A quoy bon ne pas dire,  
+        A quoy bon ne pas dire,  
 Que vous avez appris la Musique, Ah ! sans rire  
 Vous ne faites pas bien.  
 
     MASCARILLE.
-            Quoy moy, j'aurois appris  
-La Musique, Ah ! jamais.                               
+        Quoy moy, j'aurois appris  
+La Musique, Ah ! jamais.  
 
     CATHOS.
-            Mes sens, en sont surpris ;  
+        Mes sens, en sont surpris ;  
 Car comment donc Monsieur, cela se peut-il faire ?  
 
     MASCARILLE.
@@ -2116,24 +2114,24 @@ Sans avoir rien appris, ils sçavent tousjours tout.
 Ma chere, assurement.  
 
     MASCARILLE.
-            Voyons si vostre goust  
+        Voyons si vostre goust  
 En trouvera l'air bon, escoutez, je commence.  
 Hem, hem, la, la, la, la. J'ay fort peu d'eslocance,  
 Oüais, la brutalité, de la saison qu'il fait       
 Est furieusement [142] contraire, à mon projet,  
 Elle a gasté ma voix ; mais certes il n'importe,  
-C'est à la cavalliere⁎.                                   
+C'est à la cavalliere⁎.  
 (Il chante.)
 
-        *Oh, oh, je n'y prenois pas.....* [143]  
+    *Oh, oh, je n'y prenois pas.....* [143]  
 
     CATHOS.
-            Ah ! Dieux, cela m'emporte ;  
+        Ah ! Dieux, cela m'emporte ;  
 Que je trouve cet air pressent, passionné,  
 Est-ce qu'on n'en meurt point ?  
 
     MAGDELON.
-            Il est assaisonné [144]  
+        Il est assaisonné [144]  
 De la bonne façon ; mais dans cette musique  
 L'on voit bien qu'on a mis, beaucoup de Cromatique [145].  
 
@@ -2144,7 +2142,7 @@ Cet air assurement est tout remply d'appas⁎.
 Dites-moy donc un peu si vous ne trouvez pas  
 La pensée assez bien dans le chant exprimée ?  
 *Au voleur.* Et comme une personne animée,  
-Qui pleine de transport⁎, se mettant en chaleur⁎                  
+Qui pleine de transport⁎, se mettant en chaleur⁎  
 Bien fort crie, *au, au, au, au, au, au, au voleur*,  
 Et tout d'un coup apres tout comme une personne  
 Essouflée, *au voleur*. Quoy cela vous estonne⁎ ?  
@@ -2156,12 +2154,12 @@ Je vous promets, car j'ay de l'air & des paroles
 L'ame entousiasmée [146].  
 
     CATHOS.
-            Et moy sans hiperboles  
+        Et moy sans hiperboles  
 Je n'ay jamais rien veu, de cette force-là  
 
     MASCARILLE.
 Ah ! tout ce que je fais me vient comme cela  
-Fort naturellement, & sans aucune estude.                      
+Fort naturellement, & sans aucune estude.  
 
     MAGDELON.
 C'est pour ne pas avoir beaucoup d'inquietude,  
@@ -2175,28 +2173,28 @@ Vous fait bien remarquer, pour son enfant gasté.
 A quoy donc passez vous le temps ?  
 
     CATHOS.
-                En vérité,  
+        En vérité,  
 Monsieur, à rien du tout.  
 
     MAGDELON.
-            Par un sort incroyable  
+        Par un sort incroyable  
 Nous avons demeuré dans un jeusne effroyable  
 De divertissement.  
 
     MASCARILLE.
-            Je m'offre à vous mener  
+        Je m'offre à vous mener  
 Le jour qu'il vous plaira, mes Dames, destiner [148],  
-Voir quelque Comedie [149], on en doit joüer une,                       
+Voir quelque Comedie [149], on en doit joüer une,  
 Dont je connois l'Autheur, & qui n'est pas commune,  
 Que je seray bien aise, au moins que nous puissions  
 S'il se peut voir ensemble.  
 
     MAGDELON.
-            Ah ! telles actions  
+        Ah ! telles actions  
 Ne sont pas de refus [150].  
 
     MASCARILLE.
-            Aussi je vous demande  
+        Aussi je vous demande  
 Lors que nous serons là, que toute vostre bande  
 Admire, approuve tout, applaudisse bien fort,  
 Pour qu'on trouve tout beau, fasse tout son effort.  
@@ -2204,7 +2202,7 @@ Je veux vous engager, comme on m'y sollicite,
 De faire que la piece ait grande reüssite  
 Car pour m'en conjurer⁎, je vous jure ma foy,  
 Que l'Autheur ce matin, m'est venu voir chez moy,  
-Qu'à toute heure, en tous lieux il m'en prie et m'en presse,               
+Qu'à toute heure, en tous lieux il m'en prie et m'en presse,  
 Et fait que mes amis me le disent sans cesse.  
 C'est la coustume icy, qu'à des gens comme nous,  
 Pour tous les vers qu'ils font, les Poëtes viennent tous  
@@ -2217,7 +2215,7 @@ Le parterre [151] jamais, ose nous contredire.
 Pour moy j'y suis exact⁎, & des que quelque Autheur  
 M'est venu conjurer⁎ d'estre son Protecteur,  
 Je crie avant qu'on ait allumé les chandelles,  
-Que ses vers sont pompeux [152], sa piece des plus belles.                  
+Que ses vers sont pompeux [152], sa piece des plus belles.  
 
     MAGDELON.
 Non, ne m'en parlez point, Paris, est bien charmant,  
@@ -2227,7 +2225,7 @@ Quelque spirituelle, & quelque soin encore
 Que l'on puisse apporter......  
 
     CATHOS.
-            C'est assez il suffit,  
+        C'est assez il suffit,  
 Personne à tout cela, n'a jamais contredit ;  
 Mais, Monsieur, puis qu'enfin nous en sommes instruittes  
 Nous ferons seurement, tout ce que vous nous dites,  
@@ -2237,14 +2235,14 @@ Sur tout ce que d'esprit, & de beau l'on dira
     MASCARILLE.
 Je ne vous diray pas du tout si je devine [154],  
 Mais je me trompe fort, ou vous avez la mine,  
-De quelque Comedie, avoir fait le tissu [155].                      
+De quelque Comedie, avoir fait le tissu [155].  
 
     MAGDELON.
 Eh ! il pouroit bien estre, & sans que l'on l'ait sceu  
 De cela quelque chose.  
 
     MASCARILLE.
-            Eh ! bien si bon vous semble  
+        Eh ! bien si bon vous semble  
 Ma foy, nous la verrons, quand vous voudrez ensemble ;  
 Mais puis qu'il est ainsi, je veux sans differer,  
 Un secret important icy vous declarer.  
@@ -2258,7 +2256,7 @@ Et quels Comediens la representeront ?
 Ah ! la belle demande, & ma foy ce seront  
 Les grands Comediens [157] ; ils en sont seuls capables,  
 Leur recit [158] a tousjours, des graces admirables  
-Dans leurs bouches les vers, sont beaucoup apparants⁎ ;                  
+Dans leurs bouches les vers, sont beaucoup apparants⁎ ;  
 Pour les autres on sçait, qu'ils sont des ignorants ;  
 Tous leurs gestes n'ont rien qui ne soit du vulgaire⁎,  
 Et comme on parle enfin, recitent d'ordinaire ;  
@@ -2273,7 +2271,7 @@ A quels endroits, il faut faire le brouhaha [159].
 Il est une maniere en effet, qui fait mesme  
 Sentir à ses Autheurs, tous les attraits d'un poësme,  
 Et les choses souvent, ne valent du tout rien,  
-S'ils ne sont dans leur jour, & ne se disent bien.                       
+S'ils ne sont dans leur jour, & ne se disent bien.  
 
     MASCARILLE *(monstrant le ruban de ses chausses.)*
 Ma petite oye [160] est elle à l'habit congruante [161] ?  
@@ -2282,21 +2280,21 @@ Ma petite oye [160] est elle à l'habit congruante [161] ?
 Tout à fait.  
 
     MASCARILLE.
-Le ruban est d'une main sçavante,  
+        Le ruban est d'une main sçavante,  
 N'est-il pas bien choisy ?  
 
     MAGDELON.
-            Furieusement bien  
+        Furieusement bien  
 C'est Perdrijon [162] tout pur.  
 
     MASCARILLE *(estallant ses canons.)*
-                Ne me direz vous rien  
+        Ne me direz vous rien  
 Aussi de mes canons ? ont ils l'heur⁎ de vous plaire  
 Dites, que vous en semble ?  
 
     MAGDELON.
-            Ah ! je ne m'en puis taire,  
-Je confesse⁎ qu'ils ont un tout à fait bon air.                      
+        Ah ! je ne m'en puis taire,  
+Je confesse⁎ qu'ils ont un tout à fait bon air.  
 
     MASCARILLE.
 Par ma foy je me plais, à vous ouïr parler.  
@@ -2312,8 +2310,8 @@ Dedans un si haut point. Que vous donnez d'esclat
 A ce que vous avez.  
 
     MASCARILLE *(luy donnant ses gands à sentir.)*
-            Mais de vostre odorat  
-Que la reflexion dessus ces gands s'attache.                  
+        Mais de vostre odorat  
+Que la reflexion dessus ces gands s'attache.  
 
     MAGDELON.
 Je n'eus jamais d'odeur plus douce que je sçache,  
@@ -2332,14 +2330,14 @@ Et celle-là ?
 Que je la trouve aussi de bonne qualité,  
 Je sens qu'elle me plaist, & sens que je l'estime,  
 A cause qu'elle est bonne, & qu'enfin le sublime  
-En est certes, touché délicieusement.                          
+En est certes, touché délicieusement.  
 
     MASCARILLE *(monstrant ses plumes.)*
 Vous ne me dites rien de mes plumes [166], comment  
 Les trouvez-vous, enfin ?  
 
     CATHOS.
-            On peut bien dire d'elles  
+        On peut bien dire d'elles  
 Qu'elles sont en effet, effroyablement belles.  
 
     MASCARILLE.
@@ -2348,7 +2346,7 @@ Sçavez-vous que le brin me couste un Louis d'or [167] ?
 Pour moy sans me vanter, il faut que je vous die,  
 Que depuis bien long-temps, j'ay pris cette manie  
 De donner par ma foy, trop generallement  
-Sur tout ce que l'on voit, de rare & de charmant [168].                  
+Sur tout ce que l'on voit, de rare & de charmant [168].  
 
     MAGDELON.
 Nous sympathisons fort ensemble, je vous jure,  
@@ -2365,7 +2363,7 @@ De vostre procedé⁎, j'aurois lieu de me plaindre,
 Cela n'est pas honneste, & vous me faites craindre......  
 
     CATHOS.
-Qu'est-ce donc ? qu'avez vous ? qui [171] vous trouble, Monsieur.               
+Qu'est-ce donc ? qu'avez vous ? qui [171] vous trouble, Monsieur.  
 
     MASCARILLE.
 Toutes deux à la fois, s'attaquer à mon cœur,  
@@ -2383,12 +2381,12 @@ Il a dedans l'esprit un tour ; mais sans esgal.
 
     CATHOS.
 Vous avez bien, Monsieur, plus de peur que de mal,  
-Et vostre cœur craintif, crie avant qu'on l'escorche.                  
+Et vostre cœur craintif, crie avant qu'on l'escorche.  
 
     MASCARILLE.
 J'ay sujet toutefois, de faire ce reproche :  
 Comment diable, je sens que quoy que vous disiez  
-Il est depuis la teste escorché jusqu'aux pieds.                       
+Il est depuis la teste escorché jusqu'aux pieds.  
 
 
 ### SCENE X.
@@ -2401,34 +2399,34 @@ CATHOS, MAGDELON.
 On demande à vous voir.  
 
     MAGDELON.
-            Et qui ?  
+    Et qui ?  
 
     MAROTTE.
-                C'est le Vicomte [173],  
+        C'est le Vicomte [173],  
 De Jodelet, qui veut......  
 
     MAGDELON.
-            Cette visite est prompte.  
+        Cette visite est prompte.  
 
     MASCARILLE.
-Quoy ! le Vicomte de......                              
+Quoy ! le Vicomte de......  
 
     MAROTTE.
-            C'est luy, Monsieur, vray m'y.  
+        C'est luy, Monsieur, vray m'y.  
 
     MAGDELON.
 Et le connoissez vous ?  
 
     MASCARILLE.
-            C'est mon meilleur amy.  
+        C'est mon meilleur amy.  
 
     MAGDELON.
 Viste, faites entrer.  
 
     MASCARILLE.
-            Certes cette adventure⁎  
+        Certes cette adventure⁎  
 Me charme, & me ravit ; car ma foy je vous jure  
-Que depuis fort long temps, nous ne nous sommes veüs.               
+Que depuis fort long temps, nous ne nous sommes veüs.  
 
 
 ### SCENE XI.
@@ -2439,14 +2437,14 @@ JODELET, MASCARILLE, CATHOS, MAGDELON, MAROTTE.
 Ah ! Vicomte,  
 
     JODELET *(s'embrassant l'un l'autre.)*
-        Ah ! Marquis,  
+    Ah ! Marquis,  
 
     MASCARILLE.
-                Que tous mes sens esmeus  
+        Que tous mes sens esmeus  
 Marquent bien le plaisir, que j'ay de ta rencontre.  
 
     JODELET.
-Et la joye [174] que j'ay, mon visage la monstre.                      
+Et la joye [174] que j'ay, mon visage la monstre.  
 
     MASCARILLE.
 Baise moy donc encor, Vicomte, baise moy,  
@@ -2467,30 +2465,30 @@ Il est assurement, digne (sur ma parolle)
 D'estre connû de vous.  
 
     JODELET.
-            Il est juste, & de droit  
+        Il est juste, & de droit  
 De vous venir chez vous, rendre ce qu'on vous doit ;  
-Car enfin, vos attraits exigent sur les hommes                      
+Car enfin, vos attraits exigent sur les hommes  
 Leurs droits seigneuriaux [177].  
 
     MAGDELON.
-            Nous sçavons qui nous sommes,  
+        Nous sçavons qui nous sommes,  
 Monsieur, & c'est pousser pour nos esprits peu fins  
 Vostre civilité, jusqu'aux derniers confins  
 De la galanterie.  
 
     CATHOS.
-            Ah ! Dieux, cette journée  
+        Ah ! Dieux, cette journée  
 Doit estre comme grande, ensemble & fortunée,  
 Marquée dedans nostre almanach [178].  
 
     MAGDELON *(à Almanzor.)*
-                    Petit garçon,  
+        Petit garçon,  
 Quoy vous faut-il tousjours, faire vostre leçon,  
 Ne voyez-vous pas bien surcroist de compagnie,  
 Et qu'il faut un fauteuil ?  
 
     JODELET *(s'assit.)*
-            C'est sans ceremonie.                      
+        C'est sans ceremonie.  
 
     MASCARILLE.
 Ne vous estonnez pas, s'il est si desconfit,  
@@ -2499,7 +2497,7 @@ Comme vous le voyez, c'est pourquoi son visage
 Est si maigre, & si pasle.  
 
     JODELET.
-            Et c'est tout l'adventage,  
+        Et c'est tout l'adventage,  
 Et les fruicts qu'on reçoit des veilles de la Cour,  
 Des travaux de la guerre, & des soins⁎ de l'amour [179].  
 
@@ -2510,8 +2508,8 @@ Qu'il est de ces vaillans, à qui le fer sied bien,
 C'est un brave à trois poils [180].  
 
     JODELET.
-            Vous ne m'en devez rien [181],  
-Marquis, & nous sçavons ce que vous sçavez faire.                   
+        Vous ne m'en devez rien [181],  
+Marquis, & nous sçavons ce que vous sçavez faire.  
 
     MASCARILLE.
 Ah ! ma foy, ma science, auprés vous [182] doit se taire [183],  
@@ -2519,20 +2517,20 @@ Il est vray que tous deux, nous nous sommes souvent
 Veüs dans l'occasion [184].  
 
     JODELET.
-            Quelques fois trop avant  
+        Quelques fois trop avant  
 Et mesme en des endroits, où l'on avoit sans doute⁎  
 Bien du chaud à souffrir.  
 
     MASCARILLE.
-            Oüy ; mais Vicomte, escoute,  
+        Oüy ; mais Vicomte, escoute,  
 Pas tant de chaud qu'icy, hay, hay, hay.  
 
     JODELET.
-                    Nous avons  
+        Nous avons  
 Fait nostre connoissance à l'armée, & vivons  
 Depuis en amitié⁎. Le jour que nous nous vismes  
 Pour la premiere fois, ma foy tous deux nous fismes  
-Ce pacte d'estre amis. Il commandoit alors                  
+Ce pacte d'estre amis. Il commandoit alors  
 Un fort beau regiment de cavaliers tres-fors,  
 Sur, si je m'en souviens, les galeres de Malthe [185].  
 
@@ -2547,10 +2545,10 @@ Et que vous commandiez les deux mille chevaux.
     JODELET.
 La guerre est belle ; mais on a trop de travaux,  
 Et la Cour aujourd'huy pour des gens de services [186]  
-Nous recompense mal.                                  
+Nous recompense mal.  
 
     MASCARILLE.
-            Ce ne sont qu'injustices :  
+        Ce ne sont qu'injustices :  
 C'est pourquoy, je veux pendre aussi l'espée au croc [187],  
 Et ne plus m'exposer du tout à pas un choc.  
 
@@ -2568,15 +2566,15 @@ Dessus nos ennemis, dis, cette demy-lune [189],
 Estant devant Arras [190] ?  
 
     JODELET.
-            Que veux tu dire toy ?  
+        Que veux tu dire toy ?  
 Avec ta demy-lune, & tu resves, je croy  
-Penses-y, c'estoit bien, toute une lune entierre [191]                      
+Penses-y, c'estoit bien, toute une lune entierre [191]  
 
     MASCARILLE.
 Il a parbieu [192] raison.  
 
     JODELET.
-            J'y crûs mon Cimetiere [193],  
+        J'y crûs mon Cimetiere [193],  
 Il m'en souvient ma foy, car j'y fus fort blessé  
 D'un grand coup de grenade, à la jambe, & je sçay  
 Que j'en porte la marque encore ; mais de grace  
@@ -2588,9 +2586,9 @@ Tastez vous sentirez le coup, voila la place.
 La cicatrice est grande.  
 
     MASCARILLE.
-            Apportez donc aussi  
+        Apportez donc aussi  
 Vostre main, & tatez justement celuy-cy  
-Là, là le trouvez vous ? là derrierre la teste.                      
+Là, là le trouvez vous ? là derrierre la teste.  
 
     MAGDELON.
 (Ayant la main derriere la teste de Mascarille.)
@@ -2599,11 +2597,11 @@ Ouy je sens quelque chose. Un tel coup vous appreste
 Aussi force lauriers.  
 
     MASCARILLE.
-            Je receus ce coup-là  
+        Je receus ce coup-là  
 Ma derniere campagne [194].  
 
     JODELET *(à Cathos.)*
-            Ah ! tatez donc voila  
+        Ah ! tatez donc voila  
 Encore un autre coup, je l'eus à Graveline  
 Et depuis j'ay souffert d'une fievre maligne  
 De fort aspres douleurs.  
@@ -2611,44 +2609,44 @@ De fort aspres douleurs.
     MASCARILLE. 
 (Mettant la main sur le bouton de son haut de chausse.)
 
-            Moy je vais vous monstrer  
+        Moy je vais vous monstrer  
 Une effroyable playe [195]  
 
     MAGDELON.
-            Ah ! c'est trop folastrer⁎,  
-Sans y voir on vous croit, & vos faits admirables.                  
+        Ah ! c'est trop folastrer⁎,  
+Sans y voir on vous croit, & vos faits admirables.  
 
     MASCARILLE.
 Ce sont à dire vray, des marques honorables  
 Qui font voir ce qu'on est.  
 
     CATHOS.
-            Ah ! Monsieur, sans cela  
+        Ah ! Monsieur, sans cela  
 Nous vous connoissons bien.  
 
     MASCARILLE.
-            Dis Vicomte, as-tu là  
+        Dis Vicomte, as-tu là  
 Ton carosse ?  
 
     JODELET.
-        Pourquoy ?  
+    Pourquoy ?  
 
     MASCARILLE.
-            Nous menerions ces Dames,  
+        Nous menerions ces Dames,  
 Prendre hors des portes l'air [196], pour delecter leurs ames,  
 Et puis leur donnerions, par apres un cadeau [197],  
 Le temps nous y convie, il est tout à fait beau  
 
     MAGDELON.
-Nous ne sçaurions sortir d'aujourd'huy                          
+Nous ne sçaurions sortir d'aujourd'huy  
 
     MASCARILLE.
-                    Faut remettre  
+        Faut remettre  
 A quelques jours d'icy la partie, & promettre  
 Aussi que vous viendrez.  
 
     CATHOS.
-            He ! bien nous le voulons.  
+        He ! bien nous le voulons.  
 
     MASCARILLE
 Ayons donc pour danser icy les violons.  
@@ -2657,16 +2655,16 @@ Ayons donc pour danser icy les violons.
 C'est fort bien advisé.  
 
     MAGDELON.
-            Pour cela, c'est sans peine  
+        Pour cela, c'est sans peine  
 Que nous y consentons ; mais faut qu'on nous ameine  
 Surcroist de Compagnie.  
 
     MASCARILLE.
-            Hola, ho Poitevin,  
+        Hola, ho Poitevin,  
 Bourguignon, Provençal, Champagne, Langevin,  
 La Verdure, Lorrain, Basque, la Violette,  
 La Ramée, Picart, Cascaret, la Valette [198],  
-Au Diable les laquais, pour moy je ne crois pas,                       
+Au Diable les laquais, pour moy je ne crois pas,  
 Que je ne rompe à tous les jambes, & les bras,  
 Non je ne trouve point, de Gentilhomme en France  
 Plus mal servy que moy, de ces races je pence ;  
@@ -2685,14 +2683,14 @@ De nostre bal si prompt la triste solitude.
 
     MASCARILLE.
 Ces yeux n'auroient-ils point destruit ta quietude.  
-Vicomte, qu'en dis-tu ?                                  
+Vicomte, qu'en dis-tu ?  
 
     JODELET.
-            Mais toy-mesme Marquis,  
+        Mais toy-mesme Marquis,  
 Qu'en pourois-tu penser ?  
 
     MASCARILLE.
-            Moy, par ma foy je dis  
+        Moy, par ma foy je dis  
 Qu'icy nos libertez, sont à demy sujettes,  
 Qu'à peine elles pouront sortir les brayes nettes [199],  
 Au moins [200] pour moy, je sens qu'en mon cœur je reçois  
@@ -2703,7 +2701,7 @@ Mais quand je le perdrois j'en cherirois la cause.
     MAGDELON.
 Dieux que tout ce qu'il dit, est fort & naturel  
 Qu'on voit bien qu'il n'a rien, qui soit materiel  
-Et qu'il tourne à miracle une douceur ma chere.                      
+Et qu'il tourne à miracle une douceur ma chere.  
 
     CATHOS.
 Il est vray qu'il est seul, je croy qui puisse faire  
@@ -2721,10 +2719,10 @@ Que nous ayons au moins quelque chose, qu'on sçache
 Que l'on ait fait pour nous.  
 
     JODELET.
-            Peste cela me fasche  
+        Peste cela me fasche  
 J'aurois envie aussi d'en faire tout autant ;  
 Mais faut que vous sçachiez & teniez pour constant  
-Que je suis aujourd'huy, s'il faut que je m'explique,                  
+Que je suis aujourd'huy, s'il faut que je m'explique,  
 Beaucoup incommodé [201] de la veine Poëtique  
 Pour luy trop avoir fait de seignées ma foy,  
 Ces jours passez.  
@@ -2741,11 +2739,11 @@ En vers un impromptu, qui sans doute⁎ je gage
 Ne vous desplaira pas.  
 
     JODELET.
-            Il a pour son partage  
-A mon sens, de l'esprit en demon [203].                          
+        Il a pour son partage  
+A mon sens, de l'esprit en demon [203].  
 
     MAGDELON.
-                Mais du grand,  
+        Mais du grand,  
 Du bien tourné, du fin, mesme du plus galand.  
 
     MASCARILLE.
@@ -2757,14 +2755,14 @@ Car il s'est escoulé trois semaines & plus
 Depuis que je l'ay veuë.  
 
     MASCARILLE.
-            Ah Dieu ! j'en suis confus,  
+        Ah Dieu ! j'en suis confus,  
 Quoy l'aller voir si peu ? mais faut que je te conte  
 Que le Duc ce matin m'est venu voir Vicomte,  
 Et m'a voulu mener courir avecque luy  
 Le Cerf à la campagne [204].  
 
     JODELET.
-            Et tu l'as esconduy ?                  
+        Et tu l'as esconduy ?  
 
     MASCARILLE.
 Quoy donc ?  
@@ -2773,7 +2771,7 @@ Quoy donc ?
         Messieurs, voycy nos amies qui viennent.  
 
     MASCARILLE.
-Nous sommes obligez aux peines qu'elles prennent.              
+Nous sommes obligez aux peines qu'elles prennent.  
 
 
 ### SCENE XII.
@@ -2793,8 +2791,8 @@ Et pour remplir aussi les vuides incongrus,
 Qui sont dans nostre bal.  
 
     LUCILE.
-            Ah ! ne nous tenez plus  
-De semblables discours. Nous sommes obligées                      
+        Ah ! ne nous tenez plus  
+De semblables discours. Nous sommes obligées  
 A vostre souvenir, & serions affligées  
 Si vous ne vouliez pas tousjours agir ainsi.  
 
@@ -2806,25 +2804,25 @@ Dans les formes : Mais quoy les violons enfin,
 Sont-ils là ?  
 
     ALMANZOR.
-Oüy, Monsieur.  
+    Oüy, Monsieur.  
 
     CATHOS.
-            C'est trop estre à la fin  
+        C'est trop estre à la fin  
 Sur ses pieds. Allons, mes cheres, prenez place.  
 
     MASCARILLE *(dançant luy seul comme par prelude.)*
-La la la la la la.                                      
+La la la la la la.  
 
     MAGDELON.
         Dieux ! qu'il a bonne grace,  
 Et la taille elegante.  
 
     CATHOS.
-            Et la mine je croy  
+        Et la mine je croy  
 De dancer proprement.  
 
     MASCARILLE *(ayant pris Magdelon.)*
-            Ma franchise⁎ avec moy,  
+        Ma franchise⁎ avec moy,  
 Aussi bien que mes pieds va dancer la courante [206].  
 Violons en cadence, ah ! cadence pesante.  
 O ! qu'ils sont ignorans ? ma foy l'on ne peut pas  
@@ -2832,16 +2830,16 @@ Bien dancer avec eux, quel estrange⁎ fracas,
 L'on ne sçait ce qu'on fait. Le Diable vous emporte,  
 Quoy donc, ne sçauriez vous jouër d'une autre sorte,  
 Et de mesure la, la la la la la la.  
-La ferme, ô violons de village.                          
+La ferme, ô violons de village.  
 
     JODELET *(dançant en suite.)*
-            Oh ! hola ?  
+        Oh ! hola ?  
 Messieurs, ne pressez pas si fort vostre cadence ?  
 Je ne fais que sortir de maladie.  
 
     MASCARILLE.
-                Et dance,  
-Vicomte [207].                                  
+        Et dance,  
+Vicomte [207].  
 
 
 ### SCENE XIII.
@@ -2851,7 +2849,7 @@ MASCARILLE.
 
 
     LA GRANGE.
-Ah, ah ! coquins, que faites-vous ceans⁎ ?  
+        Ah, ah ! coquins, que faites-vous ceans⁎ ?  
 Trois heures sont desja passées, faineans,  
 Depuis que nous cherchons de tous costez. Ah ! lasche ?  
 
@@ -2860,17 +2858,17 @@ Ahy, ahy, ahy, je n'ay point ouy Monsieur, que je sçache
 Que les coups en seroient.  
 
     JODELET.
-            Ahy, ahy.                      
+    Ahy, ahy.  
 
     LA GRANGE.
-                C'est bien à vous,  
+        C'est bien à vous,  
 Infame [208], à vouloir faire en ce lieu les yeux doux,  
 Et l'homme d'importance.  
 
     DU CROISY.
-            Ah ! Vous voulez paroistre⁎,  
+        Ah ! Vous voulez paroistre⁎,  
 Cela vous apprendra certes, à vous connoistre⁎.  
-(Ils sortent.)                                
+(Ils sortent.)
 
 
 
@@ -2884,10 +2882,10 @@ CATHOS, MAGDELON.
 Que vien-je donc de voir ?  
 
     MASCARILLE.
-            Une gageure⁎.  
+    Une gageure⁎.  
 
     MAGDELON.
-                    Non,  
+        Non,  
 Ou vous vous plaisez fort à sentir le baton.  
 
     CATHOS.
@@ -2895,7 +2893,7 @@ Vous laisser devant nous battre de cette sorte.
 
     MASCARILLE.
 Mon Dieu, facilement je sçay que je m'enporte,  
-Et je n'ay pas voulu faire semblant de rien [209].                  
+Et je n'ay pas voulu faire semblant de rien [209].  
 
     MAGDELON.
 Pour vostre honneur pourtant cela ne va pas bien.  
@@ -2906,7 +2904,7 @@ Endurer un affront, & de cette importance.
 N'importe, toutefois achevons, ce n'est rien.  
 Depuis long-temps desja nous nous connoissons bien :  
 Vous sçavez qu'entre amis, quoy qu'on fasse & qu'on ose,  
-On ne se picque pas pour si petite chose.                  
+On ne se picque pas pour si petite chose.  
 
 
 ### SCENE XV.
@@ -2928,7 +2926,7 @@ Et qui vous y fait donc ? venir mettre le trouble.
     DU CROISY.
 He ! mes Dames, comment devons nous endurer  
 Que nos laquais, icy se fassent reverer.  
-Que par des laschetez que l'on peut dire extresmes,              
+Que par des laschetez que l'on peut dire extresmes,  
 Ils soient icy de vous, mieux receus que nous-mesmes,  
 Qu'à nos propres despens, par un trait sans esgal  
 Ils vous monstrent leur flame⁎ ; & vous donnent le bal.  
@@ -2937,18 +2935,18 @@ Ils vous monstrent leur flame⁎ ; & vous donnent le bal.
 Vos laquais ?  
 
     LA GRANGE.
-Nos laquais, ces tours sont malhonnestes,  
+        Nos laquais, ces tours sont malhonnestes,  
 De nous les desbaucher de mesme que vous faites.  
 
     MAGDELON.
 Quelle haute insolence ? ô Ciel !  
 
     LA GRANGE.
-                Ils n'auront pas  
+        Ils n'auront pas  
 Le bien que nos habits leur donnent des appas⁎ !  
 Pour vous pouvoir par eux donner dedans la veuë [211],  
 Si vous aimez leur peau, ce sera toute nuë,  
-Et quand vous les verrez sans vestemens, & gueux,               
+Et quand vous les verrez sans vestemens, & gueux,  
 Vous les estimerez ma foy, pour leurs beaux yeux.  
 Viste ? qu'on se despouille, ou bien dans ma furie.....  
 
@@ -2964,7 +2962,7 @@ Vos victoires coquins, seront plus mal-aisées..
 Et vous ne pourez plus aller sur nos brisées,  
 Ou vous irez ma foy chercher en d'autres lieux  
 De quoy paroistre beaux, & contenter les yeux  
-De ces rares beautez, & je vous en asseure.                  
+De ces rares beautez, & je vous en asseure.  
 
     LA GRANGE.
 Auroit-on pû prevoir une telle advanture,  
@@ -2973,20 +2971,20 @@ Ah ! c'estoit trop faquins, que de nous supplanter
 Avecque nos habits ?  
 
     MASCARILLE.
-            Ta fureur est extresme,  
+        Ta fureur est extresme,  
 O sort !  
 
     DU CROISY.
-Que l'on leur oste, & jusque aux choses mesme  
+        Que l'on leur oste, & jusque aux choses mesme  
 Qui sont peu d'importance.  
 
     MASCARILLE.
-                He....  
+    He....  
 
     LA GRANGE.
-                    sans raisonnement⁎,  
+        sans raisonnement⁎,  
 Que tous ces habits là, soient ostez promptement.  
-Dedans l'estat qu'ils sont, des à present, mes Dames,               
+Dedans l'estat qu'ils sont, des à present, mes Dames,  
 Vous pouvez avec eux continuer vos flames⁎ :  
 Icy nous vous laissons en pleine liberté,  
 Et nous vous protestons tous deux en vérité,  
@@ -3004,13 +3002,13 @@ Lequel donc de vous deux nous doit payer icy ?
 
     MASCARILLE *(le premier vers à part)*
 Quand je vois ce revers, pour moy, je meurs de honte,  
-Demandez si vous plaist à Monsieur le Vicomte.              
+Demandez si vous plaist à Monsieur le Vicomte.  
 LES VIOLONS (se tournent vers Jodelet).
 
 
     JODELET  *(le premier vers à part.)*
 D'un semblable revers mes sens sont esbaïs.  
-Demandez si vous plaist à Monsieur le Marquis.              
+Demandez si vous plaist à Monsieur le Marquis.  
 
 
 ### SCENE XVI.
@@ -3030,7 +3028,7 @@ Mon pere on nous a fait cette sanglante⁎ piece⁎.
 
     GORGIBUS.
 Je sçais qu'elle est sanglante⁎ & marque leur adresse ;  
-Mais vostre impertinence en est le fondement,                   
+Mais vostre impertinence en est le fondement,  
 Ils se sont ressentis [215] du mauvais traittement  
 Que vous leur avez fait, infames, que vous estes,  
 Et leurs flames⁎ ont droit d'estre mal satisfaites :  
@@ -3043,7 +3041,7 @@ Que de ce procedé⁎ nous tirerons vengence,
 Que contre nous aucun ne les peut secourir,  
 Ou qu'en la peine enfin, l'on nous verra perir.  
 Et vous marauts, encor vous avez l'assurance  
-De rester dans ces lieux, apres vostre insolence.                  
+De rester dans ces lieux, apres vostre insolence.  
 
     MASCARILLE.
 Marquis ! comme moy se voir ainsi traitté,  
@@ -3057,7 +3055,7 @@ D'un sort commun à tous, endurons le caprice,
 Allons cher camarade, allons nous-en ailleurs,  
 La fortune pour nous aura plus de douceurs,  
 La vertu sans grandeurs n'est point icy connuë  
-Et l'on l'en fait sortir, quand elle est toute nuë.                  
+Et l'on l'en fait sortir, quand elle est toute nuë.  
 
 
 ### SCENE XVII.
@@ -3077,7 +3075,7 @@ Je m'en vais maintenant tous deux vous contenter
 Et c'est icy l'argent que je vous veux conter.  
 Et vous qui tous les jours faites tant d'incartades.  
 Qui consommez le temps à faire des pommades.  
-Je ne sçay qui m'empesche & me retient icy                   
+Je ne sçay qui m'empesche & me retient icy  
 Que dedans ma fureur je ne vous frotte⁎ aussi :  
 Par tout nostre maison se verra mesprisée,  
 Nous servirons par tout de fable & de risée,  

@@ -215,13 +215,7 @@ Dorame avec Oronte prend aussi le Royaume des Medes, & renonce à ses pretention
 
 FIN.
 
-**** *book_mareschal_soeur-valeureuse *id_acteurs *date_1634 *creator_mareschal
-
-LES ACTEURS
-
-LA SOEUR VALEUREUSE, OU L'AVEUGLE AMANTE.
-
-**** *book_mareschal_soeur-valeureuse *id_body-9-1 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-901 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 A la fin des travaux⁎ d'un triste & long voyage,
@@ -288,7 +282,7 @@ Ils s'en vont dans mon cœur pour le voir en dormant ;
 Si ce repos est loin des faveurs⁎ que j'espere,
 Dieux, envoyez la Sœur en la place du Frere.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-2 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-902 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Dis-tu qu'il est parti, qu'on ne l'a sceu treuver ?
@@ -360,14 +354,14 @@ Que j'agisse en son cœur par un Amy couvert⁎ ;
 Aprés……
 
 -*who_lycanthe
-Je crains pour vous quelque accident funeste.
+      Je crains pour vous quelque accident funeste.
 
 -*who_dorame
 Mon courage⁎ & ce bras acheveront le reste :
 Que crains-tu ?
 
 -*who_lycanthe
-De vous voir sans crainte, & sans raison⁎
+      De vous voir sans crainte, & sans raison⁎
 Flatter vostre malheur & sucrer un poison⁎ ;
 Lucidor plus heureux est seul en sa pensée⁎.
 
@@ -383,14 +377,14 @@ Tel qui s'est plaint d'un tort, se plaint d'estre vangé ;
 La perte d'un Amant….
 
 -*who_dorame
-Plaist ; quand il a changé.
+      Plaist ; quand il a changé.
 
 -*who_lycanthe
 Plustost rend odieux ceux qui nous l'ont causée :
 Le Roy l'ayme.
 
 -*who_dorame
-Et permét à ma force⁎ opposée
+      Et permét à ma force⁎ opposée
 De combattre un Tyran⁎ qui posseda son cœur,
 Et qui le doit bien⁎ tost rendre à ce bras vainqueur.
 
@@ -398,13 +392,13 @@ Et qui le doit bien⁎ tost rendre à ce bras vainqueur.
 Le hazard⁎ sera grand.
 
 -*who_dorame
-Et plus grand mon courage⁎.
+      Et plus grand mon courage⁎.
 
 -*who_lycanthe
 Il a de la valeur⁎.
 
 -*who_dorame
-Et j'en ay davantage :
+      Et j'en ay davantage :
 Enfin je touche au but cerché⁎ depuis long-temps,
 Qui peut rendre mes vœux⁎ glorieux⁎ & contents.
 Te diray-je un secrét⁎ d'une importance extréme,
@@ -505,7 +499,7 @@ Qui vous offre à la fuitte un azile, ou la porte.
 Cela vous engageoit.
 
 -*who_dorame
-Et l'obligea⁎ de sorte,
+      Et l'obligea⁎ de sorte,
 (Ma feinte⁎ prit aussi cét empire absolu,)
 Qu'il s'est porté depuis à ce que j'ay voulu.
 Dans ce chemin subtil où les destins me mirent
@@ -607,7 +601,7 @@ L'un m'est aussi honteux⁎ que l'autre est honorable⁎.
 -*who_dorame
 Tout service est d'honneur⁎, qui nous est favorable.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-3 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-903 *act_ *date_1634 *creator_mareschal
 
 -*who_olympe
 Lucidor me trahir ? me promettre la foy⁎,
@@ -657,7 +651,7 @@ Sacrifier mon sang à sa propre querelle,
 Mourir pour un ingrat⁎, un traître, un inconstant.
 Que voy-je ? n'est-ce pas son Rival qui l'attend ?
 Sus, sus ; debout, Dormeur.
-O la merveille⁎ étrange⁎ !
+      O la merveille⁎ étrange⁎ !
 Au lieu d'un Ennemy de rencontrer un Ange ?
 Que ce visage est beau ! que j'y voy de rapport
 A celuy d'un Ingrat⁎ qui me cause la mort !
@@ -708,7 +702,7 @@ Mets au bras cét Ecu⁎, ce Casque sur tes yeux :
 Ou ces Armes en fin pouront forcer⁎ les Parques,
 Ou je mourray contente avec ces cheres marques.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-4 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-904 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Doux charmeur, n'es-tu pas, ô sommeil gratieux,
@@ -718,7 +712,7 @@ On te doit bien⁎ nommer le Paradis des hommes :
 Que ce relâche est doux, aprés tant de soucy !
 Un Dieu voudroit ma peine, & reposer ainsy.
 Et toy, divin portrait…..
-Ah ! mon sang est de glace ;
+      Ah ! mon sang est de glace ;
 Je le cherche des yeux, & ne voy que sa place :
 Parlez, Arbres, Rochers, vistes-vous l'enlever ?
 Transports, rages, fureurs, faites-le moy treuver.
@@ -759,7 +753,7 @@ Consultons les Echos, ces cavernes, & l'ombre :
 Je regle mes desirs, Dieux, moderez mes maux ;
 Retenant mon vray bien⁎, au moins rendez le faux.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-5 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-905 *act_ *date_1634 *creator_mareschal
 
 -*who_olympe
 Je suis au rendez-vous, enfin voicy la place
@@ -785,10 +779,10 @@ L'impatience jointe à mon aveuglement
 Ne m'eust produite icy que pour estre connüe
 Aux marques de la voix, des cheveux, de la veuë :
 Dorame…
-Ah ! le voicy ; mét la visiere en bas ;
+      Ah ! le voicy ; mét la visiere en bas ;
 Parle peu, rends plus grave & ton geste, & tes pas.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-6 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-906 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Tu réves, Lucidor ; il n'est plus temps ; approche.
@@ -797,13 +791,13 @@ Tu réves, Lucidor ; il n'est plus temps ; approche.
 Temeraire, insolent.
 
 -*who_dorame
-Laissons là tout reproche :
+      Laissons là tout reproche :
 Je demande du sang, & non pas des discours.
 
 -*who_olympe
 Moy, je veux en ta mort signaler mes amours.
 
-**** *book_mareschal_soeur-valeureuse *id_body-9-7 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-907 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Dieux jaloux, seriez-vous riche de ma dépoüille ?
@@ -812,7 +806,7 @@ Invisibles Tyrans⁎, craignez-vous mon pouvoir ?
 Faut-il qu'un Ennemy me perde sans le voir ?
 Mais quel bruit ? Tout resonne ; un foudre en ces allarmes
 Frappe….
-O Dieux ! un voleur qui combat sous mes armes ;
+      O Dieux ! un voleur qui combat sous mes armes ;
 Qu'il sçait mal s'en servir ! il tombe, il est vaincu ;
 Voicy, traître, voicy le bras à cét écu⁎ :
 Quoy ? si peu de respect ? frapper sur cette Image⁎ ?
@@ -832,11 +826,11 @@ Et tu vis, Lucidor, aprés ta perfidie ?
 Dieux ! seroit-ce mon Frere ? à ce nom que j'entends
 Que tardez-vous mes yeux de vous rendre contents ?
 Voyons…..
-Ma main s'arreste à cette longue tresse ;
+      Ma main s'arreste à cette longue tresse ;
 Et quoy ! c'est une Fille.
 
 -*who_dorame
-O Dieux ! c'est ma Maistresse.
+      O Dieux ! c'est ma Maistresse.
 Je rougy plus de honte, Olympe, que de sang ;
 Prenez, tirez⁎ ce cœur, je porte ouvert le flanc ;
 Vos yeux par cette playe arracheront mon ame :
@@ -898,7 +892,7 @@ C'est flatter mon offense ; ah ! traitez autrement
 Une main…..
 
 -*who_olympe
-Que le sort⁎ me rend icy propice.
+      Que le sort⁎ me rend icy propice.
 
 -*who_dorame
 Et qui m'a par mon sang tiré⁎ d'un precipice,
@@ -909,7 +903,7 @@ Que mon bras soit humain, et mon cœur innocent ?
 Qui sont les Criminels ?
 
 -*who_olympe
-C'est l'amour ; c'est nous mesmes ;
+      C'est l'amour ; c'est nous mesmes ;
 Pardonne luy ce coup⁎, Dorame, si tu m'aymes.
 
 -*who_dorame
@@ -929,16 +923,16 @@ Quel sujét vous ameine inconnu parmy nous,
 Si c'est là Lucidor…….
 
 -*who_oronte
-Son cœur en est jaloux,
+      Son cœur en est jaloux,
 
 -*who_olympe
 Ce Tyran⁎ de mon ame.
 
 -*who_oronte
-Helas ! & de la mienne :
+      Helas ! & de la mienne :
 Elle augmente ma playe en confessant la sienne.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-1 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1001 *act_ *date_1634 *creator_mareschal
 
 -*who_melinde
 Où m'avez-vous reduite, espoir, ambition ?
@@ -985,13 +979,13 @@ C'est d'elle que ma honte implore ce devoir ;
 Ce que l'on n'ose dire, il le faut faire voir :
 Helas……
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-2 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1002 *act_ *date_1634 *creator_mareschal
 
 -*who_gelandre
-Vous soûpirez.
+      Vous soûpirez.
 
 -*who_melinde
-Ajoûtez pour vous mesme.
+      Ajoûtez pour vous mesme.
 
 -*who_gelandre
 Pour moy ? qu'entends-je ? Amour, croiray-je qu'elle m'ayme ?
@@ -1007,7 +1001,7 @@ Par dessein⁎ nous fuir, et presque vous cacher
 C'est……
 
 -*who_melinde
-Bien⁎ moins de rigueur, qu'à vous de me cercher⁎ :
+      Bien⁎ moins de rigueur, qu'à vous de me cercher⁎ :
 Mais vous riez, Gelandre ; aprés m'avoir surprise…..
 
 -*who_gelandre
@@ -1022,7 +1016,7 @@ Comment s'entretient-il en sa double prison ?
 Comme un blessé, qui voit, & fuit sa guerison ;
 Il méprise la paix, & s'attache à l'injure,
 Il m'ayme :
-Ah ! que l'effect⁎ dément mon imposture !
+      Ah ! que l'effect⁎ dément mon imposture !
 Il brûle ; mais il veut, qu'un superbe laurier
 Témoigne au Roy qu'il est digne Amant & Guerrier ;
 Mon Frere à ce dessein⁎ fomente cette guerre.
@@ -1050,15 +1044,15 @@ Que nostre espoir attend, que le Ciel favorise ?
 Je prends ce mesme Ciel à témoin de mes vœux⁎
 Que sa plus grande flame est moindre que mes feux⁎ ;
 Mais un poinct⁎,
-Qu'à cette heure il vient luy mesme entendre..…
+      Qu'à cette heure il vient luy mesme entendre..…
 
 -*who_gelandre
 M'oblige⁎ à vous quitter.
 
 -*who_melinde
-Et moy donc à l'attendre.
+      Et moy donc à l'attendre.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-3 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1003 *act_ *date_1634 *creator_mareschal
 
 -*who_lucidor
 Confus, desesperé, tout malheur me poursuit ;
@@ -1100,13 +1094,13 @@ Tu me presserois moins sur ce que je te cache.
 Parle.
 
 -*who_melinde
-Je n'oserois ; la honte me retient.
+      Je n'oserois ; la honte me retient.
 
 -*who_lucidor
 Ton silence t'accuse.
 
 -*who_melinde
-Et ma crainte revient :
+      Et ma crainte revient :
 Toutefois il la faut surmonter à cette heure.
 Permettrez-vous enfin qu'une Princesse meure,
 Qui ne pouvant montrer de bouche sa langueur
@@ -1134,25 +1128,25 @@ Ah ! ce cruel regard me l'a déjà ravie.
 Cartel⁎…..
 
 -*who_melinde
-Ouy bien⁎ d'amour.
+      Ouy bien⁎ d'amour.
 
 -*who_lucidor
-De Dorame….
+      De Dorame….
 
 -*who_melinde
-O malheur !
+      O malheur !
 
 -*who_lucidor
 A Lucidor.
 
 -*who_melinde
-Qu'entends-je ? ah ! fuyons de douleur⁎.
+      Qu'entends-je ? ah ! fuyons de douleur⁎.
 
 -*who_lucidor
 Arrestez.
 
 -*who_melinde
-Expirant il faut bien⁎ qu'on demeure ;
+      Expirant il faut bien⁎ qu'on demeure ;
 Sous les traits⁎ de la haine Amour veut que je meure.
 
 -*who_lucidor
@@ -1213,7 +1207,7 @@ Cettuy-cy les condamne ; & pour vous démentir,
 S'oblige⁎ à mon trépas.
 
 -*who_melinde
-L'autre, à vous garentir.
+      L'autre, à vous garentir.
 
 -*who_lucidor
 De garand ? je n'en eus jamais que mon courage⁎.
@@ -1308,7 +1302,7 @@ Il faut que desormais ta crainte qui m'offence
 Obeisse…..
 
 -*who_melinde
-A l'amour, qui m'en fait la deffense.
+      A l'amour, qui m'en fait la deffense.
 
 -*who_lucidor
 Ah ! c'est trop m'arrester en discours superflus ;
@@ -1322,7 +1316,7 @@ Amour veut une chose, & la deffend icy ;
 Que feray-je ?
 
 -*who_lucidor
-Un Appel⁎, qui nous tire⁎ de peine.
+      Un Appel⁎, qui nous tire⁎ de peine.
 
 -*who_melinde
 Et quoy ? pour vous aymer, vous doy-je estre inhumaine ?
@@ -1330,7 +1324,7 @@ Cercher⁎ vostre malheur, pour vous monstrer mes vœux⁎ ?
 Quel office⁎ d'amour ?
 
 -*who_lucidor
-C'est le seul que je veux.
+      C'est le seul que je veux.
 
 -*who_melinde
 Et bien⁎ j'obeiray. Mais que dy-je Insensée ?
@@ -1340,7 +1334,7 @@ Las ! je les feray battre, & j'en auray les coups⁎ :
 Avant qu'un soit blessé, ma douleur⁎ est si vraye
 Que j'en ressents le mal, & mourray de sa playe.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-4 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1004 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Vostre amitié m'oblige⁎, & mon cœur impuissant
@@ -1372,7 +1366,7 @@ D'un si mauvais accueil à sa perfection ?
 Cét homicide⁎ bras…..
 
 -*who_dorame
-A qui je doy ma vie,
+      A qui je doy ma vie,
 Qui d'un plus grand bon-heur jamais ne fut suivie.
 
 -*who_oronte
@@ -1435,7 +1429,7 @@ Le secours est bien⁎ vain⁎ d'une main étrangere ;
 Toutefois mes efforts⁎…..
 
 -*who_dorame
-Employez à demy
+      Employez à demy
 Me font heureux Amant, & vous parfait Amy.
 
 -*who_oronte
@@ -1460,7 +1454,7 @@ Peut nuire à mon Rival & servir à mes vœux⁎ ;
 J'oppose un Frere à l'autre au sort⁎ qui nous menace,
 Et j'attends dans le port l'orage ou la bonace.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-5 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1005 *act_ *date_1634 *creator_mareschal
 
 -*who_olympe
 Que ton sort⁎ découvert rend mon esprit⁎ content !
@@ -1502,11 +1496,11 @@ S'est-il veu d'union plus douce ou plus parfaitte ?
 Heureuse en mon malheur, si prise en tes lyens
 A force⁎ de t'aymer je te mets dans les miens,
 Si l'amour…
-Ah ! ce nom l'amene sur la place :
+      Ah ! ce nom l'amene sur la place :
 Voy-je Oronte ? ou ce Dieu sous une mesme grâce⁎ ?
 Que de feux⁎, que de trais⁎, que de charmes⁎ puissants !….
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-6 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1006 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Paroissent dans vos yeux, pour émouvoir⁎ nos sens ;
@@ -1543,10 +1537,10 @@ Prest à vous adorer, si vous me l'accordez.
 Qu'elle grâce⁎ ?
 
 -*who_oronte
-L'amour.
+      L'amour.
 
 -*who_olympe
-A ce mot je soûpire ;
+      A ce mot je soûpire ;
 Ses vœux⁎ sont mes souhaits, on me porte où j'aspire :
 Mon Prince, levez-vous, parmy tant d'actions
 N'ajoûtez pas ma honte à vos perfections ;
@@ -1567,7 +1561,7 @@ Un autre le pretend ; je n'en suis que l'arbitre.
 Vostre cœur ?
 
 -*who_oronte
-C'en est un, qui vaut mieux mille fois.
+      C'en est un, qui vaut mieux mille fois.
 
 -*who_olympe
 Mocqueur, un doux baiser me vange de ta voix ;
@@ -1580,7 +1574,7 @@ O faveur⁎ ! qui pourroit animer une souche.
 Que vous prenez pourtant…..
 
 -*who_oronte
-Comme un larcin, commis
+      Comme un larcin, commis
 Contre le plus parfait de mes plus chers amis :
 Que Dorame à bon droit⁎ occupperoit ma place !
 
@@ -1591,17 +1585,17 @@ Vostre froideur m'offence autant que son audace.
 Excusables pourtant.
 
 -*who_olympe
-Si vous les finissez.
+      Si vous les finissez.
 
 -*who_oronte
 Je vous porte un present…..
 
 -*who_olympe
-Dont vous me punissez :
+      Dont vous me punissez :
 Prenez plustost le mien.
 
 -*who_oronte
-Dorame le merite.
+      Dorame le merite.
 
 -*who_olympe
 Cœur de Tygre, masqué sous un front hypocrite,
@@ -1650,7 +1644,7 @@ Qui vous offre son cœur, qui vous offre son ame ?
 Ma parole.
 
 -*who_olympe
-Et la mienne aura moins de pouvoir ?
+      Et la mienne aura moins de pouvoir ?
 
 -*who_oronte
 Ma foy⁎ semble un rocher ; on ne peut l'émouvoir⁎.
@@ -1683,13 +1677,13 @@ Mais quelqu'un de la Ville en ces lieux se vient rendre ;
 C'est un Heraut sans doute aux signes que je voy :
 La belle occasion ! il passe ; informe toy.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-7 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1007 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Arrestez, Cavallier.
 
 -*who_melinde
-Dessous la foy⁎ des armes,
+      Dessous la foy⁎ des armes,
 Qui laisse à mes pareils l'accez dans les allarmes,
 Vers vostre General Ambassadeur commis
 Je marche de la part des Princes Ennemis :
@@ -1714,7 +1708,7 @@ Ce faict le touche seul, & non pas ceux qu'il ayme :
 Lucidor, qui m'envoye…
 
 -*who_oronte
-O favorable objét⁎ !
+      O favorable objét⁎ !
 Lucidor ? il t'envoye ? on m'en taist le sujét ?
 Ouvre, découvre tout, sans peur, sans artifice⁎ ;
 En Prince je demande, & payray cét office⁎ :
@@ -1735,7 +1729,7 @@ Tu parlois à Dorame, & je te le cachois ;
 Le voicy, c'est luy mesme.
 
 -*who_melinde
-O dieux ! qu'elle imposture !
+      O dieux ! qu'elle imposture !
 
 -*who_oronte
 Servons nous pour le voir, d'une telle avanture⁎.
@@ -1782,7 +1776,7 @@ J'empéche le combat, & je verray mon Frere :
 Veritable Destins, j'adore vos secréts⁎ ;
 Qu'un étrange⁎ accident termine mes regrets !
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-8 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1008 *act_ *date_1634 *creator_mareschal
 
 -*who_lucidor
 Arrivé sur les lieux, je plains ma diligence ;
@@ -1808,7 +1802,7 @@ Qu'il combat en renard, & non pas en lyon :
 Et j'attends du courage⁎ encore d'un perfide ?
 Toutefois le voicy, qui cerche⁎ son Alcide.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-9 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1009 *act_ *date_1634 *creator_mareschal
 
 -*who_lucidor
 A moy, traître, avançons ; n'attends pas que ma voix
@@ -1822,10 +1816,10 @@ Pour ce que je les ayme, & qu'ils me semblent doux.
 Ah ! mon Frere.
 
 -*who_lucidor
-O prodige !
+      O prodige !
 
 -*who_oronte
-Agréez ce miracle,
+      Agréez ce miracle,
 Que le Ciel autorise, & la voix de l'Oracle.
 
 -*who_lucidor
@@ -1844,7 +1838,7 @@ Celle que vos mépris coucheront au cercueil ;
 Epargnez la vertu⁎…..
 
 -*who_lucidor
-Suspecte, & mensongere,
+      Suspecte, & mensongere,
 D'une impudique Sœur qui court aprés son Frere.
 
 -*who_oronte
@@ -1876,7 +1870,7 @@ N'offencez pas si fort une chaste vertu⁎,
 Qui vous apporte un cœur…
 
 -*who_lucidor
-De vices combattu.
+      De vices combattu.
 
 -*who_oronte
 Aussi pur, aussi nét que la premiere flame ;
@@ -1894,13 +1888,13 @@ Je veux avoir ton cœur ou de force⁎, ou d'amour.
 -*who_lucidor
 Et moy, finir ta honte & la mienne à ce jour.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-10 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1010 *act_ *date_1634 *creator_mareschal
 
 -*who_melinde
 Par là vous comprenez…..
 
 -*who_gelandre
-Un accident étrange⁎.
+      Un accident étrange⁎.
 
 -*who_melinde
 Où leur haine les porte, où mon amour me range :
@@ -1929,7 +1923,7 @@ Amour t'ouvre le mien tout blessé, sois vainqueur ;
 Tu peux encore….
 
 -*who_lucidor
-Avoir la victoire, & ta vie.
+      Avoir la victoire, & ta vie.
 
 -*who_oronte
 Ouy ; j'offre l'une & l'autre à ta haine assouvie.
@@ -1942,9 +1936,9 @@ Ton sang vient de la haine ; & l'amour te le rend.
 Mais, quel bruit ?
 
 -*who_lucidor
-Dépéchons, avant qu'on nous separe.
+      Dépéchons, avant qu'on nous separe.
 
-**** *book_mareschal_soeur-valeureuse *id_body-10-11 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1011 *act_ *date_1634 *creator_mareschal
 
 -*who_melinde
 Voicy d'autres lauriers, que ce jour vous prepare.
@@ -1979,7 +1973,7 @@ Allons le réjoüir d'une heureuse victoire.
 -*who_oronte
 Où le Vainqueur vous doit son salut & sa gloire⁎.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-1 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1101 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Qu'on éleve son nom jusques dedans les Cieux ?
@@ -2021,13 +2015,13 @@ Et le mal-heur de l'un sert à l'autre de grâce⁎ ;
 Enfin je suis par tout coupable, & malheureux.
 Mais qu'ajoûte Lycanthe à mon sort⁎ rigoureux ? 
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-2 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1102 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Qu'apporte-tu ? ma mort ?
 
 -*who_lycanthe
-Une lettre, qui donne
+      Une lettre, qui donne
 A ma fidelité⁎ la palme, & la Couronne ;
 Mais qui porte en effect⁎ par un contraire effort⁎
 La vie à l'Etranger, à vous mesme la mort.
@@ -2036,12 +2030,12 @@ La vie à l'Etranger, à vous mesme la mort.
 La mort ?
 
 -*who_lycanthe
-Ouy : mais voyez en ce dessein⁎ perfide,
+      Ouy : mais voyez en ce dessein⁎ perfide,
 Avant que de mourir, la main de l'Homicide⁎.
 
 -*who_dorame
 Olympe à son Oronte.
-Ah ! cruelle⁎ ; ce trait⁎
+      Ah ! cruelle⁎ ; ce trait⁎
 Mét son consentement & ma peine en portrait :
 Foible bien⁎, vain⁎ plaisir qui dépend d'une plume !
 Et plus vain⁎ desespoir que le papier allume !
@@ -2119,49 +2113,49 @@ J'acheteray toûjours vostre bien⁎ par ma perte.
 -*who_dorame
 Viens sçavoir les moyens d'une vangeance offerte.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-3 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1103 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Toûjours dans vos dédains ?
 
 -*who_olympe
-Toûjours dans vos froideurs ?
+      Toûjours dans vos froideurs ?
 
 -*who_oronte
 Mépriser son amour ?
 
 -*who_olympe
-Vous, mes sainctes ardeurs ?
+      Vous, mes sainctes ardeurs ?
 
 -*who_oronte
 Que la mort d'un Amy……
 
 -*who_olympe
-Mais la mienne vous touche,
+      Mais la mienne vous touche,
 
 -*who_oronte
 La perte m'est au cœur.
 
 -*who_olympe
-La mienne en vostre bouche.
+      La mienne en vostre bouche.
 
 -*who_oronte
 Je cerche⁎ son salut.
 
 -*who_olympe
-Par où vous me perdez.
+      Par où vous me perdez.
 
 -*who_oronte
 Ayez pitié…..
 
 -*who_olympe
-De moy, vous qui m'en demandez.
+      De moy, vous qui m'en demandez.
 
 -*who_oronte
 Qu'attendez-vous d'un cœur……
 
 -*who_olympe
-Qu'il me soit moins rebelle.
+      Qu'il me soit moins rebelle.
 
 -*who_oronte
 Qui ne peut estre amant sans qu'il soit infidelle⁎ ?
@@ -2174,13 +2168,13 @@ Moy de mesme, à vos yeux, de n'aymer rien que vous.
 Quoy ? meurtrir⁎ un Amy ?
 
 -*who_olympe
-Quoy ? meurtrir⁎ une Amante ?
+      Quoy ? meurtrir⁎ une Amante ?
 
 -*who_oronte
 Le mettre au desespoir ?
 
 -*who_olympe
-Qui déjà me tourmente :
+      Qui déjà me tourmente :
 Que vous estes d'un temps pitoyable, & cruel⁎ !
 Ah ! rendez à l'amour un devoir mutuel ;
 Si Dorame vous lie, Olympe vous oblige⁎ ;
@@ -2192,7 +2186,7 @@ Quoy ? ma lettre sur vous n'a-t'elle rien gagné ?
 Quelle lettre ?
 
 -*who_olympe
-Sans doute il ne l'a pas receuë ;
+      Sans doute il ne l'a pas receuë ;
 Les effects⁎ en seroient d'une meilleure yssuë.
 Mais que je flatte en vain⁎ mon mal & mon esprit⁎ !
 Où la voix ne peut rien qu'auroit fait cét écrit ?
@@ -2204,7 +2198,7 @@ Son desir le recerche, & le mien vous le porte ;
 Mon amour toucheroit…
 
 -*who_oronte
-Une amitié moins forte ;
+      Une amitié moins forte ;
 Je vous promettray tout, hors ce poinct⁎ seulement
 D'estre ni faux Amy, ni veritable Amant :
 Que si ma flame est juste, & la vostre innocente ;
@@ -2236,7 +2230,7 @@ Il consulte au dedans, & soûpire au dehors ;
 Courage⁎, espere, Olympe, & voy s'il est possible
 D'allumer de la glace en un cœur insensible.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-4 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1104 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Si je ne les entends, je les verray du moins,
@@ -2360,7 +2354,7 @@ La prochaine Forest offre une ombre à mes pas.
 -*who_dorame
 Courage ; c'est assez ; il n'en reviendra pas.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-5 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1105 *act_ *date_1634 *creator_mareschal
 
 -*who_gelandre
 Qu'en croirons-nous, Dorame ? as-tu juré ma perte ?
@@ -2388,7 +2382,7 @@ Et j'adore un Soleil au milieu de l'orage.
 La voicy, toute en pleurs : Nature, on te détruit,
 Peut-on voir le Soleil dans l'onde avant la nuict ?
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-6 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1106 *act_ *date_1634 *creator_mareschal
 
 -*who_lucidor
 En vain⁎ vous m'opposez & vos feux⁎, & vos larmes ;
@@ -2416,8 +2410,8 @@ Perdre d'un mesme temps un Rival, & vous mesme.
 Ah ! perfide !
 
 -*who_gelandre
-Ah ! cruelle.
-O Dieux ! puis-je à ce jour
+      Ah ! cruelle.
+      O Dieux ! puis-je à ce jour
 Montrer tant de colere, & cacher tant d'amour ?
 
 -*who_melinde
@@ -2454,24 +2448,24 @@ A ma colere feinte & qui n'est qu'en ma voix.
 Perfide, à quel dessein⁎ ?…
 
 -*who_melinde
-Qu'on m'apporte des chaines ;
+      Qu'on m'apporte des chaines ;
 Qui retarde ma honte, il prolonge mes peines :
 Est-ce en vain⁎ que ces bras appelleront les fers⁎ ?
 
 -*who_gelandre
 Qu'en leur place les miens vous seroient mieux offerts !
 Tu les auras, Méchante.
-O parole forcée⁎ !
+      O parole forcée⁎ !
 Que la bouche profere, & non pas la pensée⁎.
 
 -*who_melinde
 Allons donc.
 
 -*who_gelandre
-En un lieu moins horrible que toy.
+      En un lieu moins horrible que toy.
 Que toy, dont la rigueur est un monstre à ta foy⁎.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-7 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1107 *act_ *date_1634 *creator_mareschal
 
 -*who_lycanthe
 Vous treuverez, Amis, par une heure oportune
@@ -2504,9 +2498,9 @@ Laissez nous le peril, & joüyssez du fruict.
 Nous yrons……
 
 -*who_lycanthe
-Je l'avise ; arrestez-vous sans bruict.
+      Je l'avise ; arrestez-vous sans bruict.
 
-**** *book_mareschal_soeur-valeureuse *id_body-11-8 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1108 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Ouy, je fuiray, Dorame, enfin l'affaire presse ;
@@ -2543,7 +2537,7 @@ Pour estre sans repos c'est là que je t'envoye.
 Ah ! ma vie en mon sang…..
 
 -*who_oronte
-Mais ton crime se noye.
+      Mais ton crime se noye.
 
 -*who_soldat1
 Il est mort ; accourons, & vangeons son trépas.
@@ -2575,10 +2569,10 @@ Rends, traître, dans ton sang ma vangeance assouvie :
 Pour te perdre…..
 
 -*who_soldat1
-Ah ! je meurs.
+      Ah ! je meurs.
 
 -*who_oronte
-Et punir ce malheur,
+      Et punir ce malheur,
 Mon courage⁎ a laissé l'office⁎ à ma douleur⁎ ;
 Les Dieux à ton trépas, aprés un tel outrage,
 Ont bien⁎ moins employé ma valeur⁎ que ma rage.
@@ -2595,7 +2589,7 @@ Qui me suivit par tout pendant que je vivois ?
 Ne pouvant te donner une autre sepulture,
 Ce corps au moins du tien sera la couverture.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-1 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1201 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Il vit ; tout le mal-heur est tombé dessus nous,
@@ -2629,7 +2623,7 @@ Comme elle fut l'objét⁎ de mon ambition…
 Mais le Roy me surprend, à quelle intention ?
 Seul, confus, interdit, il écarte sa suite.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-2 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1202 *act_ *date_1634 *creator_mareschal
 
 -*who_roy_de_thrace
 Qu'autre personne icy ne nous soit introduitte.
@@ -2722,7 +2716,7 @@ Qu'on le tire⁎ du lict par un effort⁎ nouveau.
 -*who_dorame
 Ouy, je l'en tireray⁎, pour le mettre au tombeau.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-3 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1203 *act_ *date_1634 *creator_mareschal
 
 -*who_olympe
 Voilà ce que vous coûte une amitié fidelle⁎ ;
@@ -2741,7 +2735,7 @@ Tous ces propos me sont plus mortels que mes coups⁎
 Mon amitié…
 
 -*who_olympe
-L'a fait & perfide, & jaloux.
+      L'a fait & perfide, & jaloux.
 
 -*who_oronte
 Jaloux ? ô Dieux ! comment ? & de qui ? l'apparence ?
@@ -2793,7 +2787,7 @@ Il luy ravit un bien⁎, vostre amour me le donne,
 Moy, je n'en puis joüir…
 
 -*who_olympe
-Et luy l'espere en vain⁎ ;
+      Et luy l'espere en vain⁎ ;
 Helas ! de qui vous tuë adorez-vous la main ?
 
 -*who_oronte
@@ -2810,7 +2804,7 @@ Mais ô Dieux ! cét objét⁎ me remplit de fureur :
 Le Traître vient icy, comme un vainqueur superbe
 Qui regarde étendu son Ennemy sur l'herbe.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-4 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1204 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Qu'Oronte doit aymer la main de l'Assassin,
@@ -2834,7 +2828,7 @@ Vous devroit fendre l'ame, & saigner dans le cœur.
 Hé Dieux ! que dittes-vous ?
 
 -*who_olympe
-Ce qu'il m'oblige⁎ à taire,
+      Ce qu'il m'oblige⁎ à taire,
 Ce que vous avez fait, ce que vous devriez faire :
 Mais porter qui les cause à plaindre nos douleurs⁎ ?
 Qui n'a que sang aux yeux donneroit-il des pleurs ?
@@ -2843,7 +2837,7 @@ Qui n'a que sang aux yeux donneroit-il des pleurs ?
 Olympe, traitez moy…..
 
 -*who_olympe
-Comme vous, l'innocence
+      Comme vous, l'innocence
 D'un qui pour vous aymer a cette recompense,
 Et ce lict, pour le prix de sa ferme amitié.
 
@@ -2916,24 +2910,24 @@ Reprens-le, c'est trop cher, il me coûte un Amy ;
 O Dieux !
 
 -*who_dorame
-Demande leur un Enfer, & tes peines ;
+      Demande leur un Enfer, & tes peines ;
 Eux & moy, nous rions de ces parolles vaines⁎ :
 Un perfide jamais…..
 
 -*who_oronte
-Ne fut pareil à moy :
+      Ne fut pareil à moy :
 Prince…
 
 -*who_dorame
-A Dieu.
+      A Dieu.
 
 -*who_oronte
-Rien qu'un mot, qui contente ma foy.
+      Rien qu'un mot, qui contente ma foy.
 
 -*who_dorame
 Sois autant importun que traître, & temeraire ;
 Et bien⁎, que diras-tu ?
-Mais Dieux ! que veux-tu faire ?
+      Mais Dieux ! que veux-tu faire ?
 
 -*who_oronte
 Pour la derniere fois contre moy vous servir,
@@ -2972,14 +2966,14 @@ Là je me vangeray du tort que l'on me fit.
 Je vivray jusqu'alors,
 
 -*who_dorame
-A demain.
+      A demain.
 
 -*who_oronte
-Il suffit :
+      Il suffit :
 Revenez, approchez, Troupe fidelle & chere ;
 Voyez, fermez ma playe, elle n'est que legere.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-5 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1205 *act_ *date_1634 *creator_mareschal
 
 -*who_melinde
 Ne m'importunez plus, & quittons ces discours ;
@@ -3025,7 +3019,7 @@ Ma premiere victoire est de vous acquerir.
 -*who_melinde
 Perdant tout, il m'en reste une belle à mourir.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-6 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1206 *act_ *date_1634 *creator_mareschal
 
 -*who_lucidor
 Jusqu'icy parvenus, une heure nous peut rendre
@@ -3044,7 +3038,7 @@ Quoy ? nous suivroit-il point ? Non, luy mesme s'arreste ;
 Suivy d'un cavalier au combat il s'appreste :
 Tirons⁎ nous à l'écart, Amis, voyons leur jeu.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-7 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1207 *act_ *date_1634 *creator_mareschal
 
 -*who_oronte
 Donnez à la raison⁎ le reste de ce feu⁎
@@ -3089,7 +3083,7 @@ La mienne est d'avoir feint d'estre ce qu'il me nomme.
 Achevons.
 
 -*who_oronte
-Ecoutez un mouvement plus doux,
+      Ecoutez un mouvement plus doux,
 Et mon bras, qui se plaint d'estre employé sur vous.
 
 -*who_dorame
@@ -3102,10 +3096,10 @@ Est-ce ainsi, furieux, qu'il faut qu'on vous contente ?
 Tu m'ôtes……
 
 -*who_oronte
-Qu'ay-je fait ?
+      Qu'ay-je fait ?
 
 -*who_dorame
-O trop heureux vainqueur,
+      O trop heureux vainqueur,
 Le mouvement du bras, & non celuy du cœur ;
 Tu vois l'épée à toy, mais non pas mon courage⁎.
 
@@ -3139,7 +3133,7 @@ J'ay pris un autre cœur, autres yeux, autre bouche ;
 Oronte, est-ce bien⁎ vous ?
 
 -*who_lucidor
-Mais, perfide, est-ce toy,
+      Mais, perfide, est-ce toy,
 Que le Ciel a puni par un autre que moy ?
 Depuis ta trahison tu trainois ton supplice ;
 Et mon bras, sans le sien, châtioit ta malice :
@@ -3155,7 +3149,7 @@ Puisse-t'il à jamais vous unir de la sorte.
 Helas ! qu'ay-je entendu ?
 
 -*who_oronte
-La fureur me transporte !
+      La fureur me transporte !
 
 -*who_dorame
 Une fille d'Oronte ? ô Dieux quel changement ?
@@ -3164,7 +3158,7 @@ Une fille d'Oronte ? ô Dieux quel changement ?
 Ces mots t'ôtent la vie.
 
 -*who_dorame
-A moy le jugement.
+      A moy le jugement.
 
 -*who_lucidor
 Fuy, malheureuse, fuy, que le vice a conduitte ;
@@ -3195,9 +3189,9 @@ Quoy ? ce Monstre opposé, comme une autre Meduse,
 Tient mon ame insensible.
 
 -*who_oronte
-Et la mienne confuse.
+      Et la mienne confuse.
 
-**** *book_mareschal_soeur-valeureuse *id_body-12-8 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1208 *act_ *date_1634 *creator_mareschal
 
 -*who_roy_de_perse
 Quelque accident l'empéche, & l'aura retardé ;
@@ -3215,7 +3209,7 @@ Un crime est effacé, quand le cœur en soûpire.
 
 -*who_roy_de_perse
 Ouy, c'est luy.
-Cavalier, à moy, tournez le front :
+      Cavalier, à moy, tournez le front :
 Je vous soûtiens, mon Fils ; & le secours est promt :
 Et quoy ? de vostre main je voy tomber les armes ?
 
@@ -3223,7 +3217,7 @@ Et quoy ? de vostre main je voy tomber les armes ?
 O Dieux !
 
 -*who_oronte
-Je n'en ay plus contre luy que mes larmes,
+      Je n'en ay plus contre luy que mes larmes,
 Sire ; il est… Ah ! ce mot déjà sort à demy ;
 Le diray-je mon Frere, ou bien⁎ mon Ennemy ?
 Et je suis, (pardonnez, ô mon Pere, à ma honte,)
@@ -3257,13 +3251,13 @@ De remettre en vos cœurs le devoir abbattu.
 Sa force⁎ à vostre veuë……
 
 -*who_oronte
-A l'égal nous enflame.
+      A l'égal nous enflame.
 
 -*who_lucidor
 Excusez mes froideurs, Oronte.
 
 -*who_oronte
-Et vous, ma flame.
+      Et vous, ma flame.
 
 -*who_roy_de_perse
 Venez ; c'est à ce coup⁎ que je vous ay treuvez.
@@ -3292,7 +3286,7 @@ Que doy-je à la parolle & d'un Pere & d'un Roy ?
 Mon amitié triomphe.
 
 -*who_dorame
-Et rappelle ma foy⁎ :
+      Et rappelle ma foy⁎ :
 Oronte, c'est icy que j'admire vos charmes⁎,
 Que je treuve plus forts encore que vos armes :
 Mon cœur déjà se plaint qu'il souffre devant vous
@@ -3316,7 +3310,7 @@ Il est de nos travaux⁎ & le prix, & la fin.
 -*who_lucidor
 Qui me fait admirer la force⁎ du destin.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-1 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1301 *act_ *date_1634 *creator_mareschal
 
 -*who_olympe
 Qu'Oronte est une Fille ? & Lucidor fidelle ?
@@ -3392,7 +3386,7 @@ Nous promét en amour les graces⁎ qui s'y treuvent ;
 Rien ne s'opposera pour lors à vos plaisirs :
 Voicy ceux que le Ciel conjoint à nos desirs.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-2 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1302 *act_ *date_1634 *creator_mareschal
 
 -*who_roy_de_thrace
 Ce lyen est trop fort, pour craindre qu'on le rompe ;
@@ -3430,7 +3424,7 @@ Vous appellent nos Dieux, nos Peres, et nos Roys.
 Tenant d'eux mon Soleil…
 
 -*who_lucidor
-Tenant d'eux mon Aurore.
+      Tenant d'eux mon Aurore.
 
 -*who_olympe
 Je les nomme plus Dieux que ceux que l'on adore.
@@ -3467,7 +3461,7 @@ A mon commandement ses portes sont ouvertes.
 -*who_roy_de_thrace
 Cét accord entre nous relevera ses pertes.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-3 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1303 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Quelle merveille⁎, Oronte, est celle que je voy ?
@@ -3493,7 +3487,7 @@ Qu'en vain⁎ le bras guerit si l'on blesse le cœur.
 Et dequoy se plaint-il ?
 
 -*who_dorame
-Qu'ayant souffert ma haine
+      Qu'ayant souffert ma haine
 Vous fuyez mon amour, & recerchez ma peine.
 
 -*who_oronte
@@ -3554,7 +3548,7 @@ Les Roys appreuveront nostre union heureuse ;
 Et si j'ay vostre amour conforme à mes souhaits,
 Le Ciel accomplira nos lyens qu'il a faits.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-4 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1304 *act_ *date_1634 *creator_mareschal
 
 -*who_melinde
 
@@ -3591,10 +3585,10 @@ Mon offence te plaist, & m'a livré ton cœur
 Pour le prix de ma perfidie :
 Pourrois-je estre insensible ?…..
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-5 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1305 *act_ *date_1634 *creator_mareschal
 
 -*who_gelandre
-Au dernier accident,
+      Au dernier accident,
 Qui m'a jetté par vous dans un gouffre evident ?
 Tout est perdu, Melinde, ô trahison étrange⁎ :
 Lucidor m'abandonne, & contre nous se range.
@@ -3603,7 +3597,7 @@ Lucidor m'abandonne, & contre nous se range.
 Dieux ! comment ?
 
 -*who_gelandre
-Les Persans sous mesmes étendars
+      Les Persans sous mesmes étendars
 Avecque ceux de Thrace ont gagné nos ramparts ;
 Et ce Prince suivy de Soldats à la file,
 Sous couleur de secours, est entré dans la Ville ;
@@ -3613,7 +3607,7 @@ Cette Ville doit estre à leur peine soufferte
 Comme un lieu de triomphe….
 
 -*who_melinde
-Et celuy de ma perte :
+      Et celuy de ma perte :
 Gelandre, il faut mourir, à ce coup⁎ je le doy ;
 Prevenez ma fureur, & vous vangez de moy,
 Moy, dont les trahisons de vos maux sont la source ;
@@ -3639,11 +3633,11 @@ Qu'elle me coûte peu quand je perdray la vie !
 
 -*who_melinde
 Moy seule……
-O Dieux ! quel bruit ?
+      O Dieux ! quel bruit ?
 
 -*who_gelandre
-Avance.
-Vous tremblez.
+      Avance.
+      Vous tremblez.
 
 -*who_page
 Prince, déjà les Rois dans le Temple assemblez,
@@ -3690,7 +3684,7 @@ Allons treuver les Roys, & bannissons la crainte.
 -*who_melinde
 Allons ; je suis à tout, sans peur & sans contrainte.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-6 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1306 *act_ *date_1634 *creator_mareschal
 
 -*who_roy_de_perse
 Premier flambeau du Ciel, Ame de l'Univers,
@@ -3746,7 +3740,7 @@ Et la mienne à tous deux également se vouë.
 -*who_roy_de_thrace
 Que ta puissance, Amour, merite qu'on te louë.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-7 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1307 *act_ *date_1634 *creator_mareschal
 
 -*who_dorame
 Sire, en faveur⁎ du bien⁎ qu'à ce jour il a fait,
@@ -3762,7 +3756,7 @@ Je ne puis estre heureux, & le voir affligé.
 Mon erreur fit la sienne……
 
 -*who_roy_de_perse
-Et veut, comme je pense,
+      Et veut, comme je pense,
 Que la cause du mal en soit la recompense.
 
 -*who_dorame
@@ -3819,9 +3813,9 @@ Rends luy graces⁎, Amour ; ou prestes moy ta voix.
 Ma Dame, en ce baiser…
 
 -*who_oronte
-Nos ames sont unies.
+      Nos ames sont unies.
 
-**** *book_mareschal_soeur-valeureuse *id_body-13-8 *act_ *date_1634 *creator_mareschal
+**** *book_mareschal_soeur-valeureuse *id_body-1308 *act_ *date_1634 *creator_mareschal
 
 -*who_gelandre
 Que nos fautes, Melinde, ainsi ne sont punies !
@@ -3879,7 +3873,7 @@ Comme en cét accident la fortune⁎ se jouë !
 Melinde ? approchez vous.
 
 -*who_dorame
-Prince, à la fin j'avouë
+      Prince, à la fin j'avouë
 Que le destin plus fort que mon ambition
 A faict ceder ma haine à vostre affection :
 Pour le fruict des travaux⁎ d'une guerre finie

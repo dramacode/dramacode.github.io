@@ -57,7 +57,7 @@ Février 1661, conformément à l'Arrest du Parlement du 9.
 Avril 1653.
 Signé, Josse, Syndic.
 
-**** *book_ *id_body-4-1 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-401 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Tu dis vray, cher Phaedime, on auroit peine à croire
@@ -185,7 +185,7 @@ Qu'esperant d'estre aimé si j'épouse la Reine,
 Avec tant de chaleur il luy peint mon tourment…
 Mais je la voy qui passe à son appartement.
 
-**** *book_ *id_body-4-2 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Vos yeux de vostre cœur marquant l'impatience,
@@ -334,10 +334,10 @@ Et luy devant l'éclat d'un trop juste couroux,
 Je puis estre Tyran pour d'autres que pour vous.
 Je vous laisse y penser, Madame.
 
-**** *book_ *id_body-4-3 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1661 *creator_corneille
 
 -*who_camma
-Ah, le perfide !
+      Ah, le perfide !
 Il veut donc achever son lâche parricide⁎,
 Joindre la Fille au Pere ! ô mon unique espoir ?
 O vangeance, est-ce ainsi que tu sers mon devoir ?
@@ -374,7 +374,7 @@ Vous fait souffrir assez pour la tirer d'erreur,
 Vous sçavez sa fierté⁎.
 
 -*who_camma
-Dequoy qu'elle m'accuse,
+      Dequoy qu'elle m'accuse,
 Il n'est pas temps encor que je la desabuse⁎,
 Si la gloire en secret me pousse à me vanger,
 Ce seroit l'affoiblir que de la partager.
@@ -388,7 +388,7 @@ Il vous faut l'acquerir, et l'amour qui le flate⁎
 Le peut seul obliger…
 
 -*who_camma
-Tu connois mal Sostrate,
+      Tu connois mal Sostrate,
 Il aime, il cherche à plaire, et toutefois, helas !
 Son cœur contre un Tyran craint d'advoüer son bras.
 
@@ -396,7 +396,7 @@ Son cœur contre un Tyran craint d'advoüer son bras.
 Vous le sçavez, Madame ?
 
 -*who_camma
-Apprens par quelle adresse,
+      Apprens par quelle adresse,
 Brûlant⁎ pour une Reine, il feint pour la Princesse,
 Et que mon ordre exprés y contraignant sa foy⁎,    
 Luy fait cacher ainsi l'amour qu'il a pour moy.
@@ -437,7 +437,7 @@ Un peril si pressant ne veut plus de remise,
 Il faut montrer ma haine, et que si jusqu'icy
 La Princesse abusée a creu… mais la voicy.
 
-**** *book_ *id_body-4-4 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1661 *creator_corneille
 
 -*who_hesione
 Madame, je ne sçay si dans ce qui se passe
@@ -447,7 +447,7 @@ N'a rien pour Sinorix qui contraigne vos vœux⁎.
 Il tâche à les seduire, et le Trône…
 
 -*who_camma
-Ouy, Princesse,
+      Ouy, Princesse,
 Mais qu'ils cedent ou non, que ce scrupule cesse,
 L'injure⁎ qu'on vous fait et qu'il faut reparer,
 A leur ambition n'a rien à déferer⁎.
@@ -496,7 +496,7 @@ Il en a l'ordre au moins s'il veut l'executer.
 Qui l'en empescheroit ?
 
 -*who_camma
-Ma volonté peut-estre,
+      Ma volonté peut-estre,
 Ou quelque autre raison que l'on ne peut connoître.
 
 -*who_hesione
@@ -529,7 +529,7 @@ Je la verray sans peine, et pour plus d'asseurance
 Je vous laisse Sostrate, avec qui consulter
 Des moyens les plus seurs de bien l'executer.
 
-**** *book_ *id_body-4-5 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1661 *creator_corneille
 
 -*who_hesione
 Viens, Sostrate, il est temps que je t'ouvre mon ame
@@ -555,7 +555,7 @@ Vers toute autre ce soin⁎ pourroit vous mettre en peine,
 Mais tant de fiers⁎ mépris…
 
 -*who_hesione
-Ne les vante point tant,
+      Ne les vante point tant,
 J'en connoy l'artifice⁎, et voy ce qu'elle attend.
 Tu verrois le Tyran toucher bien-tost son ame
 Si j'avois de ma main recompensé ta flame⁎,
@@ -598,19 +598,19 @@ Ou ne m'offre ton cœur qu'en suite de ton bras.
 Quoy…
 
 -*who_hesione
-Ne réplique point ; quand ce grand coup t'étonne⁎,
+      Ne réplique point ; quand ce grand coup t'étonne⁎,
 Voy que je suis ta Reine, et que je te l'ordonne,
 Et si ta lâcheté me prepare un refus,
 Ne me le fais sçavoir qu'en ne me voyant plus.
 C'en sera l'asseurance⁎, adieu.
 
 -*who_sostrate
-Que fuir ta veuë
+      Que fuir ta veuë
 N'est-ce tout le peril d'un ordre qui me tuë !
 Mais las ! forcé d'aimer, quels seront mes souhaits
 S'il faut trahir par tout, ou n'esperer jamais ?
 
-**** *book_ *id_body-5-1 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Je vous le dis encor, c'est à vous de resoudre.
@@ -724,7 +724,7 @@ A trouver les moyens de nuire à mon amour,
 L'Arrest en est donné.
 
 -*who_hesione
-Fay donc qu'on l'execute.
+      Fay donc qu'on l'execute.
 C'est par là que les Dieux ont resolu ta cheute,
 Sans cette indignité mon Sort seroit trahy,
 Plus tu seras Tyran, plus tu seras haï,
@@ -733,7 +733,7 @@ Cessera dans ta mort de croire un parricide⁎.
 Redouble tes forfaits ; loin d'en rien⁎ redouter,
 Je vay faire des vœux afin de les haster.
 
-**** *book_ *id_body-5-2 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1661 *creator_corneille
 
 -*who_phaedime
 Je l'avois bien preveu, Seigneur, que la menace,
@@ -763,7 +763,7 @@ Mon cœur craint à ce prix le repos qu'il souhaite,
 Et qu'il n'est point de maux où je n'ose m'offrir
 S'il faut cesser d'aimer pour cesser de souffrir.
 
-**** *book_ *id_body-5-3 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Et bien ? as-tu, Sostrate, entretenu la Reine ?
@@ -796,20 +796,20 @@ Quoy, contre la Princesse armer vostre colere ?
 Ah, Seigneur, songez-vous…
 
 -*who_sinorix
-L'arrest t'en doit déplaire,
+      L'arrest t'en doit déplaire,
 Tu l'aimes, je le sçais, et ton amour soûmis
 Pour punir son orgueil ne se croit rien permis.
 Garde ces sentiments, tandis que ma vangeance
 Pressant…
 
 -*who_phaedime
-Voyez, Seigneur, que la Reine s'advance.
+      Voyez, Seigneur, que la Reine s'advance.
 
 -*who_sinorix
 La Reine vient icy ! qu'en dois-je présumer ?
 Dieux, rendez-la flexible⁎, ou m'empeschez d'aimer.
 
-**** *book_ *id_body-5-4 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, quel dessein en ce lieu vous amene ?
@@ -917,7 +917,7 @@ Vous, Sostrate, attendez les ordres de la Reine,
 Et songez à me faire un fidelle rapport
 Si tost que sa réponse aura reglé mon sort.
 
-**** *book_ *id_body-5-5 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-505 *act_ *date_1661 *creator_corneille
 
 -*who_camma
 Ton silence, Sostrate, a droit de me confondre⁎,
@@ -998,10 +998,10 @@ Et que je plains en toy, si ton feu⁎ l'entreprend,
 L'inutile vertu⁎ que cet espoir te rend.
 
 -*who_sostrate
-Ah ! que me dites-vous ?                 
+Ah ! que me dites-vous ?
 
 -*who_camma
-Ce que je te dois dire,
+      Ce que je te dois dire,
 Que jamais sur ton cœur la gloire n'eut d'empire,
 Et qu'un lâche interest qu'il vient de mettre au jour
 Le rend traître ou fidelle au gré de ton amour.
@@ -1084,19 +1084,19 @@ Vous luy rendrez justice à le croire sans crime,
 Mais…
 
 -*who_camma
-Mais tes vœux ardents à luy sauver le jour
+      Mais tes vœux ardents à luy sauver le jour
 Languiront si je songe à payer son amour ?
 
 -*who_sostrate
 Madame…
 
 -*who_camma
-Il me suffit ; puisque c'est te déplaire
+      Il me suffit ; puisque c'est te déplaire
 Porte luy ma réponce, et dy luy qu'il espere,
 Que mon cœur n'aime rien, et que dans peu sa foy⁎
 Peut selon ses souhaits attendre tout de moy.
 
-**** *book_ *id_body-6-1 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1661 *creator_corneille
 
 -*who_phaedime
 Ce changement, Seigneur, n'offre rien qui m'étonne⁎,
@@ -1192,7 +1192,7 @@ Fais agir ton adresse à lire dans le sien.
 -*who_phaedime
 Je connois mon devoir et n'épargneray rien.
 
-**** *book_ *id_body-6-2 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Dieux, dont les loix pour nous doivent estre adorables⁎,
@@ -1227,7 +1227,7 @@ Il est juste, et d'un Roy quand j'ay fait ma victime,
 S'il punit par le foudre⁎, il le doit à mon crime.
 Dieux, hâtez-en la peine, ou m'ostez ces soupçons.
 
-**** *book_ *id_body-6-3 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1661 *creator_corneille
 
 -*who_camma
 L'occasion est belle, il est seul, advançons.
@@ -1236,14 +1236,14 @@ L'occasion est belle, il est seul, advançons.
 O Sinatus !
 
 -*who_sostrate
-Que vois-je ! Ah !
+      Que vois-je ! Ah !
 
 -*who_camma
-Perdons cét infame.
+      Perdons cét infame.
 Que fais-tu, mal-heureux ?
 
 -*who_sostrate
-Que faites-vous, Madame ?
+      Que faites-vous, Madame ?
 
 -*who_sinorix
 Justes Dieux, un Poignard ! On en veut à mes jours,
@@ -1253,7 +1253,7 @@ A moy, Gardes, à moy, qu'on vienne à mon secours.
 Seigneur.
 
 -*who_sinorix
-La trahison d'un faux succez suivie
+      La trahison d'un faux succez suivie
 Vient d'employer ce fer pour m'arracher la vie ;
 Mais j'ay tort d'accuser mon ingrat ennemy,
 Il n'est dans son forfait coupable qu'à demy,
@@ -1348,7 +1348,7 @@ Que songer à punir plustost qu'à m'acquiter.
 Souffrez⁎ donc qu'à vos pieds…    
 
 -*who_camma
-Ah, c'est trop me confondre⁎.
+      Ah, c'est trop me confondre⁎.
 Je voy, j'entens, j'écoute, et ne sçay que répondre,
 Et mon esprit confus, surpris, inquiété,
 Tombe enfin malgré moy dans la stupidité⁎.
@@ -1427,7 +1427,7 @@ Les sermens d'un perfide entraînent un parjure,
 En vain tu crois par là nous ébloüir⁎ les yeux,
 Qui peut perdre son Roy ne connoit point de Dieux.
 
-**** *book_ *id_body-6-4 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?
@@ -1505,7 +1505,7 @@ Je vous laisse calmer l'orage qu'il doit craindre,
 Et me remets au temps à voir qui de nous deux
 Avec plus de succez aura conduit ses vœux⁎.
 
-**** *book_ *id_body-6-5 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Princesse, tant d'orgueil lasse ma patience,
@@ -1555,7 +1555,7 @@ J'entreprens, il est vray, mais ce n'est pas pour vous,
 Par mon seul interest j'ay dû…
 
 -*who_hesione
-Qu'oses-tu dire ?
+      Qu'oses-tu dire ?
 Je t'ay sollicité, c'est ton bras qui conspire,
 Et tu cherches en vain à rejetter sur toy
 Les motifs d'un beau coup qui ne sont deus qu'à moy.
@@ -1564,7 +1564,7 @@ Les motifs d'un beau coup qui ne sont deus qu'à moy.
 Mais, Madame…
 
 -*who_hesione
-Non, non, c'est m'offencer, Sostrate,
+      Non, non, c'est m'offencer, Sostrate,
 Souffre d'un grand projet que la gloire me flate⁎.
 Où le peril est beau m'empescher d'y courir,
 C'est m'arracher la part que j'en puis acquerir.
@@ -1641,10 +1641,10 @@ La foudre⁎ l'est déjà pour lancer sur sa teste,
 Songez-y.
 
 -*who_hesione
-Tu pers temps ; puisque sa mort te plaist,
+      Tu pers temps ; puisque sa mort te plaist,
 Tonne contre tous deux, j'attendray ton arrest.
 
-**** *book_ *id_body-7-1 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-701 *act_ *date_1661 *creator_corneille
 
 -*who_camma
 L'Arrest en est donné ! que me dis-tu, Phenice ?
@@ -1722,7 +1722,7 @@ Songez à Sinatus, jettez l'œil sur Sostrate,
 Et craignez qu'à sa rage abandonnant vos jours,
 L'un ne soit sans vangeance, et l'autre sans secours.
 
-**** *book_ *id_body-7-2 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, je sçay bien que vous devant la vie,
@@ -1755,7 +1755,7 @@ Quoy, la pitié pour luy ne touche point vostre ame,
 Luy qui vous fut si cher, luy qu'enfin…
 
 -*who_sinorix
-Ah, Madame,
+      Ah, Madame,
 Que vous concevez mal, en pressant ma pitié,
 Quelle horreur à l'outrage adjouste l'amitié !
 Le coup que de tout autre on verroit sans colere
@@ -1835,7 +1835,7 @@ Que demain vostre hymen me vange et la punisse,
 Et que le vain effort⁎ d'un coup si malheureux
 Luy coûte la douleur de m'avoir fait heureux.
 
-**** *book_ *id_body-7-3 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Approche, et quoy qu'ait pû ta criminelle audace,
@@ -1873,7 +1873,7 @@ Quoy, j'aurois fait pour luy des efforts⁎ superflus ?
 Ah, songez…
 
 -*who_sinorix
-Non, Madame, il y va de ma gloire,
+      Non, Madame, il y va de ma gloire,
 Souffrez à⁎ mon amour cette juste victoire ;
 Je sçay que resister lors que vous commandez
 C'est trahir le respect que vous en attendez,
@@ -1894,7 +1894,7 @@ Qu'on se tienne éloigné par respect pour la Reine.
 Je le laisse avec vous afin que ses advis,
 S'ils flatent⁎ vos souhaits, puissent estre suivis.
 
-**** *book_ *id_body-7-4 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1661 *creator_corneille
 
 -*who_camma
 Sous quel voile trompeur le lâche se déguise !
@@ -1918,7 +1918,7 @@ Ah, puisqu'il est ainsi, que je meurs satisfait !
 Madame…
 
 -*who_camma
-Quoy, mourir ? tu me crois assez lâche
+      Quoy, mourir ? tu me crois assez lâche
 Pour te livrer au sort dont ta vertu m'arrache ?
 Si je cache l'abus qui t'expose à perir,
 C'est par la seule peur de te mal secourir.
@@ -1941,7 +1941,7 @@ Celuy que d'un Tyran m'offre la violence.
 Quoy, Madame…
 
 -*who_camma
-Je tremble à me le proposer,
+      Je tremble à me le proposer,
 J'en fremis, mais enfin il le faut épouser.
 
 -*who_sostrate
@@ -2047,7 +2047,7 @@ Au plus honteux projet vostre cœur se resout,
 Il le sçait, il le voit.
 
 -*who_camma
-Je vois tout, je sçais tout,
+      Je vois tout, je sçais tout,
 Mais en vain de mon sort l'épouventable image
 Te laisse quelque espoir d'ébranler mon courage.
 Pour te sauver le jour l'effort⁎ est resolu,
@@ -2076,7 +2076,7 @@ Je me pers, je m'égare, et dans mon desespoir
 Je ne puis écouter ny raison, ny devoir,
 Mon amour s'abandonne au torrent qui l'entraîne.
 
-**** *book_ *id_body-7-5 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1661 *creator_corneille
 
 -*who_sostrate
 Ah, Madame, empeschez le dessein de la Reine,
@@ -2114,7 +2114,7 @@ Puisqu'il empesche seul un injuste supplice,
 Puisqu'il sauve Sostrate…
 
 -*who_sostrate
-Ah, souffrez⁎ qu'il perisse,
+      Ah, souffrez⁎ qu'il perisse,
 Qu'il remplisse en mourant la gloire de son sort.
 Madame, s'il se peut, obtenez-moy la mort,
 Empeschez l'injustice où se porte la Reine.
@@ -2138,7 +2138,7 @@ Nommez-en les motifs injustice, bassesse,
 Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
 Je porte ma réponce, et n'écoute plus rien.
 
-**** *book_ *id_body-7-6 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1661 *creator_corneille
 
 -*who_sostrate
 Madame… elle nous quitte. O cœur impitoyable !
@@ -2146,7 +2146,7 @@ Pouvois-je craindre, helas ! un sort plus effroyable ?
 Princesse…
 
 -*who_hesione
-Va, c'est trop, quitte ce desespoir,
+      Va, c'est trop, quitte ce desespoir,
 Sostrate, ton amour a bien fait son devoir.
 Pour vaincre les malheurs dont je suis poursuivie
 Tu m'as aveuglement sacrifié ta vie ;
@@ -2183,7 +2183,7 @@ Seigneur, si la pitié que j'ay de vostre sort…
 -*who_sostrate
 Allons, et s'il se peut, qu'on me méne à la mort.
 
-**** *book_ *id_body-8-1 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-801 *act_ *date_1661 *creator_corneille
 
 -*who_sostrate
 Quoy, d'un si dur revers ma disgrace⁎ est suivie,
@@ -2202,7 +2202,7 @@ Je sçay quel coup affreux la Fortune me garde,
 La Reine…
 
 -*who_sosime
-Ce malheur n'a rien qui la regarde,
+      Ce malheur n'a rien qui la regarde,
 C'est à vostre amour seul qui s'offre à redouter.
 La Princesse tantost a voulu s'emporter ;
 Contre l'ambition d'une Reine infidelle,
@@ -2280,7 +2280,7 @@ Ce qu'au Roy, ce qu'à tous il faut enfin apprendre,
 Dans les maux où le Ciel a voulu m'exposer,
 Qui n'espere plus rien n'a rien à déguiser.
 
-**** *book_ *id_body-8-2 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-802 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Tu parois encor, lâche, et quand ta perfidie
@@ -2356,7 +2356,7 @@ Tu trahissois ensemble et la Reine et ton Maistre,
 Puisque le coup fatal qu'elle a sçeu m'épargner,
 En me privant du jour, l'empeschoit de regner.
 
-**** *book_ *id_body-8-3 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-803 *act_ *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, sçavez-vous quelle esperance offerte
@@ -2366,7 +2366,7 @@ S'indignoit d'un hymen qui me rendoit heureux,
 Et ma mort…
 
 -*who_camma
-Je le sçay, mais, Sinorix, écoute,
+      Je le sçay, mais, Sinorix, écoute,
 Il est d'autres secrets dont tu peux estre en doute,
 Et j'ay quelques clartez acquises par hazard
 Dont il est juste enfin que je te fasse part.
@@ -2423,7 +2423,7 @@ Je n'ai pû m'affranchir⁎ d'en faire mon Espoux.
 Quoy, Madame…
 
 -*who_camma
-Tu vois, t'expliquant l'entreprise,
+      Tu vois, t'expliquant l'entreprise,
 Si j'avois lieu d'abord d'arrester ta surprise,
 Et de dire, en parlant d'un poison odieux,
 Que ce qui le suivoit la meriteroit mieux ?
@@ -2432,7 +2432,7 @@ Que ce qui le suivoit la meriteroit mieux ?
 Ah, Madame…
 
 -*who_camma
-Non, non, Sinorix, tu t'abuses
+      Non, non, Sinorix, tu t'abuses
 Si tu crois que je veüille entendre des excuses,
 A des vœux criminels tu t'es abandonné,
 Sinatus leur nuisoit, tu l'as empoisonné.
@@ -2445,7 +2445,7 @@ C'est-là ce qu'un perfide ose vous faire croire ?
 Moy, Seigneur ?
 
 -*who_sinorix
-Vous aimant, il a crû reüssir
+      Vous aimant, il a crû reüssir
 Si de quelque grand crime il pouvoit me noircir ?
 
 -*who_camma
@@ -2505,7 +2505,7 @@ Il est prest, et par luy tout mon sang répandu
 Sçaura…
 
 -*who_camma
-Non, mieux que toy je sçay ce qui t'est dû.
+      Non, mieux que toy je sçay ce qui t'est dû.
 Ma vangeance par là flateroit⁎ peu ma peine,
 Tu l'offres à l'amour, je la dois à la haine.
 Souffrir⁎ que ton remords me la fasse obtenir,
@@ -2520,7 +2520,7 @@ Quoy, ce parfait amour dont l'ardeur forte et tendre
 Contre la calomnie auroit dû me defendre,
 Cet hommage soûmis, ce respect dont jamais…
 
-**** *book_ *id_body-8-4 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-804 *act_ *date_1661 *creator_corneille
 
 -*who_phaedime
 Ah, Seigneur, les Mutins assiegent le Palais,
@@ -2534,7 +2534,7 @@ Crains tout de leur revolte, et de l'ardeur soudaine
 Qu'a mise…
 
 -*who_sinorix
-Ah, je ne crains que vostre seule haine.
+      Ah, je ne crains que vostre seule haine.
 Madame, au nom des Dieux daignez regler mon sort,
 Donnez moy vostre amour, ou m'accordez la mort,
 L'arrest à son defaut m'en sera favorable.
@@ -2554,7 +2554,7 @@ Si l'abus rend toûjours vostre haine inflexible,
 Ce cœur qui ne voit rien de si rude à souffrir⁎
 Ne prend plus que de moy les ordres de mourir.
 
-**** *book_ *id_body-8-5 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-805 *act_ *date_1661 *creator_corneille
 
 -*who_camma
 Quoy, le peuple peut-estre en veut à ma personne
@@ -2631,16 +2631,16 @@ Où je seray content ? Et le puis-je, Madame,
 Dans l'affreux desespoir où vous voyez ma flame⁎ ?
 Tout l'augmente, et je fais cent efforts⁎ superflus…
 
-**** *book_ *id_body-8-6 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-806 *act_ *date_1661 *creator_corneille
 
 -*who_sosime
 Ah, Madame, le Roy…
 
 -*who_camma
-Parle, et bien ?
+      Parle, et bien ?
 
 -*who_sosime
-Ne vit plus.
+      Ne vit plus.
 
 -*who_sostrate
 Quoy, de nos Factieux la troupe mutinée…
@@ -2687,7 +2687,7 @@ Ma vangeance est remplie, et je meurs sans regret.
 Quoy…
 
 -*who_camma
-Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,
+      Dy qu'un Trône a sçeu m'ébloüir⁎ en secret,
 Dy qu'il m'a fait tahir une amour⁎ sans égale ;
 J'avois empoisonné la coupe nuptiale,
 Et n'ay donné ma foy⁎ que sur le doux espoir
@@ -2697,14 +2697,14 @@ D'en obtenir la mort que j'ay fait recevoir.
 La Reine empoisonnée !
 
 -*who_phenice
-Ah, Madame !
+      Ah, Madame !
 
 -*who_sostrate
-Ah, Phenice,
+      Ah, Phenice,
 Viste, à la secourir…
 
 -*who_camma
-Tu me fais injustice,
+      Tu me fais injustice,
 Si la douceur de vivre eust flaté⁎ ma raison
 J'aurois sçeu prévenir la force du poison,
 Laisse agir son pouvoir, le Sort ainsi l'ordonne.
@@ -2732,7 +2732,7 @@ O peu sensible amant ! elle meurt, et tu vis.
 Préviens, lâche, préviens…
 
 -*who_sosime
-Seigneur, qu'allez-vous faire ?
+      Seigneur, qu'allez-vous faire ?
 
 -*who_sostrate
 Que vous sert d'empescher un coup si necessaire ?

@@ -1,5 +1,5 @@
 ---
-identifier: corneille_charme  
+identifier: corneille-thomas_charme-voix  
 creator: Corneille, Thomas  
 date: 1658  
 title: Le Charme de la voix. Comédie  
@@ -672,7 +672,7 @@ T. CORNEILLE
  – FABRICE,Boufon du Duc.
  – CAMILLE,Suivant de Carlos.
 La Scene est à Milan.
-< LE CHARME DE LA VOIX, COMEDIE. >
+
 
 
 ## ACTE I.
@@ -786,7 +786,7 @@ Je romps son hyménée, ou le fais differer.
 Vous ?  
 
     FENISE.
-Si de cét adveu ton ame est estonnée⁎  
+        Si de cét adveu ton ame est estonnée⁎  
 Songe depuis huit jours quelle est ma destinée,  
 Et qu'affranchie enfin d'un long banissement,  
 Dans le Palais du Duc j'ay cét appartement,  
@@ -809,7 +809,7 @@ S'il m'ébloüit les yeux, je touche⁎ ses oreilles.
 Sçeut-il qui vous estiez ?  
 
     FENISE.
-Il l'apprit aisément,  
+        Il l'apprit aisément,  
 Et son inquietude⁎ égalant mon tourment⁎  
 Dans la pressante ardeur⁎ qu'il a de me cognoistre  
 Chaque jour en ce lieu je le voy seul paroistre,  
@@ -923,14 +923,14 @@ Hastez-vous de rentrer, le Duc s'en va paroistre [80].
 C'est ma voix qui l'attire.  
 
     LAURE.
-Et sans vous laisser voir  
+        Et sans vous laisser voir  
 Vous chercherez toûjours à flater⁎ son espoir ?  
 
     FENISE.
 Sans doute [81].  
 
     LAURE.
-Mais par là que pouvez-vous prétendre⁎ ?  
+        Mais par là que pouvez-vous prétendre⁎ ?  
 
     FENISE.
 Perdre quelques soûpirs [82] sans qu'il les puisse entendre,  
@@ -965,7 +965,7 @@ Quoy, comme aux autres lieux l'arrester à Pavie [84] !
 Seigneur…  
 
     LE DUC.
-Mais, Federic, il y va de ma vie,  
+        Mais, Federic, il y va de ma vie,  
 Qu'on ait soin seulement de bien l'y divertir  
 Tant qu'un ordre nouveau l'oblige d'en partir.  
 
@@ -1062,7 +1062,7 @@ On entend quelques accords de Tuorbe [99].
 
 
     LE DUC.
-Fenise va chanter,  
+        Fenise va chanter,  
 C'est le signal, approche, il la faut escouter.  
 
     FENISE. *Chante derriere le Theatre .*
@@ -1078,7 +1078,7 @@ Il est permis de soûpirer. [101]
 Peste, quels roulements [102] !  
 
     LE DUC.
-Ils enlevent mon ame,  
+        Ils enlevent mon ame,  
 Et bien, Fabrice, et bien, condamnes-tu ma flâme,  
 Et d'un plus rare⁎ objet⁎ puis-je suivre la loy ?  
 
@@ -1092,7 +1092,7 @@ Quoy, tu pourrois penser qu'elle manquast d'appas⁎,
 Et que chantant si bien…  
 
     FABRICE.
-Ne vous y trompez pas.  
+        Ne vous y trompez pas.  
 J'en ay veu telle, moy témoin irreprochable,  
 Qui chantant comme un Ange auroit fait peur au diable  
 Et qui, quoy que sa voix semblast venir des Cieux,  
@@ -1109,7 +1109,7 @@ Peut-estre…mais je crois ouyr encor sa voix,
 Escoute.  
 
     FABRICE, *à Fenise.* 
-Un peu plus haut que la premiere fois.  
+        Un peu plus haut que la premiere fois.  
 
     FENISE *continuë à chanter.* 
 
@@ -1158,7 +1158,7 @@ Son teint dont la blancheur eust les lys effacez [107],
 Souffrant un doux mélange a paru…  
 
     LE DUC.
-C'est assez.  
+        C'est assez.  
 
 
 ### SCENE VI.
@@ -1169,7 +1169,7 @@ CARLOS, CAMILLE, FABRICE
 La réponce est bien courte.  
 
     CARLOS.
-O l'estrange caprice⁎ !  
+        O l'estrange caprice⁎ !  
 D'où luy vient cette humeur ? Arreste, un mot, Fabrice.  
 Toy qui souvent du Duc partage le soucy⁎,  
 Apprens moi qui [108] l'oblige à me traiter ainsi.  
@@ -1183,7 +1183,7 @@ J'en ay peint tout exprés⁎ ses desirs traversez,
 J'ay parlé de ses yeux, de son teint…  
 
     FABRICE.
-C'est assez [109].  
+        C'est assez [109].  
 
 
 ### SCENE VII.
@@ -1194,7 +1194,7 @@ CARLOS, CAMILLE.
 Entendez-vous l'Echo ?  
 
     CARLOS.
-Tout sert à me confondre⁎.  
+        Tout sert à me confondre⁎.  
 Quoy, le Duc tout à coup s'en va sans me répondre,  
 Et quand je croy venir soûlager son amour [110]  
 Un silence affecté condamne mon retour ?  
@@ -1208,7 +1208,7 @@ Mille pensers [111] divers me tiennent divisé⁎.
 Qui le devineroit ?  
 
     CAMILLE.
-Il n'est rien plus aisé.  
+        Il n'est rien plus aisé.  
 Nous arrivons tous deux, et sans qu'on vous en presse  
 Vostre langue s'exerce à loüer la Duchesse.  
 Le Duc à la harangue ayant les yeux baissez  
@@ -1220,7 +1220,7 @@ Sans plus longue replique il tourne où bon luy semble.
 Mais enfin le sujet, quel est-il ?  
 
     CAMILLE.
-Pour ce point,  
+        Pour ce point,  
 Il est bien evident que je ne le sçay point,  
 Mais du reste, si c'est ce qui vous embarrasse,  
 Sans y rien alterer⁎, voilà ce qui se passe.  
@@ -1239,7 +1239,7 @@ D'un amour que je cache ont trahy le secret.
 Ah, Dieux, s'il est ainsi…  
 
     CAMILLE.
-Non, cela ne peut estre.  
+        Non, cela ne peut estre.  
 C'est plustost que le Duc cherchant à se cognoistre,  
 De peur de trop donner à son temperament⁎…  
 
@@ -1247,7 +1247,7 @@ De peur de trop donner à son temperament⁎…
 Et bien ?  
 
     CAMILLE.
-Ma foy, brisons [113] sur le raisonnement,  
+        Ma foy, brisons [113] sur le raisonnement,  
 Il vaudra mieux peut-estre à divers reprises.  
 
     CARLOS.
@@ -1284,7 +1284,7 @@ Mais un fâcheux soucy⁎ vient traverser ma joye.
 Quel, Seigneur ?  
 
     LE DUC.
-De Carlos qu'il faut que l'on renvoye.  
+        De Carlos qu'il faut que l'on renvoye.  
 
     FABRICE.
 On l'est allé chercher, il partira soudain  
@@ -1298,7 +1298,7 @@ De ramener à Parme au plûtost la Duchesse.
 Que dira Federic ?  
 
     LE DUC.
-C'est ce que je crains peu  
+        C'est ce que je crains peu  
 Si j'obtiens de sa fille un favorable adveu⁎.  
 Enfin je la verray, cette aimable⁎ incognuë.  
 
@@ -1321,7 +1321,7 @@ Vous trouverez matière à ne finir jamais.
 L'amour est ombrageux⁎.  
 
     LE DUC.
-Et Fenise trop belle  
+        Et Fenise trop belle  
 Pour ne pas craindre tout alors qu'il s'agit d'elle.  
 
     FABRICE.
@@ -1375,7 +1375,7 @@ Sans nous montrer si tost, laissons-la s'avancer [124].
 Je crains…  
 
     FABRICE.
-Quoy ? les regards qu'elle va vous lancer ? [125]  
+        Quoy ? les regards qu'elle va vous lancer ? [125]  
 Pour les tendres de cœur la blessure est mal saine.  
 
 
@@ -1387,14 +1387,14 @@ LE DUC, FENISE, LAURE, FABRICE.
 As-tu remis ce Lut ?  
 
     LAURE.
-N'en soyez point en peine.  
+        N'en soyez point en peine.  
 
     LE DUC.
 Regarde, admire, voy, Fabrice, quel éclat [126] !  
 Qui n'en seroit charmé ?  
 
     FABRICE.
-Tastez⁎, le cœur vous bat ?  
+        Tastez⁎, le cœur vous bat ?  
 
     LE DUC.
 Mais as-tu veu jamais beauté plus surprenante ?  
@@ -1408,26 +1408,26 @@ Dieux, comment jusqu'icy le Duc est-il entré ?
 Feignons grande surprise.  
 
     LE DUC. *A Fenise.*
-Enfin, je puis, Madame…  
+        Enfin, je puis, Madame…  
 
     FENISE
 Ah Laure, où sommes-nous ?  
 
     FABRICE. *Au Duc*
-Couchez [127] viste de flame.  
+        Couchez [127] viste de flame.  
 
     LE DUC.
 Ne vous offensez pas…  
 
     FENISE.
-Allons, Laure.  
+    Allons, Laure.  
 
     FABRICE, *l'arrestant*.
-Ah ! tout doux.  
+        Ah ! tout doux.  
 La belle, c'est le Duc.  
 
     FENISE.
-Que voudroit-il de nous ?  
+        Que voudroit-il de nous ?  
 
     LE DUC.
 En pouvez-vous douter si vous estes Fenise ?  
@@ -1443,10 +1443,10 @@ Puis qu'au moins à vos yeux j'ay pû passer pour elle.
 Quoy, vous ne l'estes point ?  
 
     FENISE.
-Non, Seigneur.  
+    Non, Seigneur.  
 
     LE DUC. *A Fabrice*
-Qu'est-ce-cy ?  
+        Qu'est-ce-cy ?  
 Que tousjours le malheur me persecute ainsi !  
 
     FABRICE. *Au Duc.*
@@ -1474,7 +1474,7 @@ Comme Dame d'honneur, il faut que je lui cede⁎.
 Vous estes donc la Dame ?  
 
     LAURE.
-Et moy, je suis son ayde.  
+        Et moy, je suis son ayde.  
 
     FABRICE.
 Si l'on trouvait moyen de s'en accomoder,  
@@ -1484,7 +1484,7 @@ L'ayde à [129] l'air assez drôle, on pourrait s'en ayder [130].
 Et Fenise ?  
 
     FENISE.
-Pour moy, je ne la quitte guere  
+        Pour moy, je ne la quitte guere  
 Que lors qu'elle reçoit visite de son pere.  
 Ils ont quelque secret tousjours à consulter.  
 
@@ -1519,7 +1519,7 @@ Puissent jamais briller d'un éclat assez vif ?
 A peine il me regarde [132].  
 
     LAURE.
-Et c'est là ma surprise.  
+        Et c'est là ma surprise.  
 
     LE DUC. *A Fenise*
 Voudriez-vous pour moy dire un mot à Fenise ?  
@@ -1540,7 +1540,7 @@ Vous ne sçauriez choisir un esprit plus discret.
 Et vous luy direz tout ?  
 
     LAURE.
-Celie est ponctuelle⁎,  
+        Celie est ponctuelle⁎,  
 Quoy que vous luy disiez, je vous respons pour elle,  
 Qu'avecque tant de soin elle vous servira  
 Que dans le mesme instant Fenise le sçaura.  
@@ -1557,7 +1557,7 @@ Milan verra ma mort ou la verra Duchesse.
 Quoy, vous aymez Fenise ?  
 
     LE DUC.
-Ah, c'est dire trop peu,  
+        Ah, c'est dire trop peu,  
 La plus pressante ardeur⁎ n'égale point mon feu,  
 Et sa rare⁎ beauté, pour qui ce cœur souspire,  
 Est la seule conqueste où mon espoir aspire.  
@@ -1566,7 +1566,7 @@ Est la seule conqueste où mon espoir aspire.
 Vous la croyez donc belle ?  
 
     LE DUC.
-A former son beau corps  
+        A former son beau corps  
 Le Ciel a desployé ses plus riches tresors,  
 Jamais de tant d'appas⁎ beauté ne fut pourveuë.      
 
@@ -1652,7 +1652,7 @@ Je viens de me remettre⁎, et sçay qui ce peut estre.
 Vous la cognoissez donc ?  
 
     LE DUC.
-Ouy, je croy la cognoistre.  
+        Ouy, je croy la cognoistre.  
 
     FENISE.
 Et bien ? la trouvez-vous indigne qu'un grand cœur  
@@ -1683,7 +1683,7 @@ Ah, Laure ! à sa froideur voy quel mépris est joint !
 Que mon malheur est grand !  
 
     FABRICE.*revenant*
-Ne vous affligez point.  
+        Ne vous affligez point.  
 Si par hazard vostre ame estoit embarrassée  
 De quelque trait d'amour dont elle fust pressée,  
 Advisez et comment, et pour combien, et quand,  
@@ -1737,25 +1737,25 @@ FENISE, LAURE, CAMILLE.
 Adieu, Laure.  
 
     LAURE.
-Ah ! c'est-toy, qui t'amène en ce lieu ?  
+        Ah ! c'est-toy, qui t'amène en ce lieu ?  
 
     CAMILLE.
 Tu n'escoutes donc pas ? je viens te dire adieu.  
 Touche [139].  
 
     LAURE.
-Tu me le dis avec beaucoup de joye.  
+        Tu me le dis avec beaucoup de joye.  
 Où vas-tu donc ?  
 
     CAMILLE.
-A Parme, où le Duc nous renvoye,  
+        A Parme, où le Duc nous renvoye,  
 Nous avons ordre exprés⁎ de le démarier.  
 
     FENISE.
 Et Carlos ?  
 
     CAMILLE.
-Il y va sans se faire prier.  
+        Il y va sans se faire prier.  
 
     FENISE.
 Quoy, d'un pareil employ ne craint-il point la honte ?  
@@ -1787,7 +1787,7 @@ CARLOS, FENISE, LAURE, CAMILLE.
 
 
     CARLOS.
-Ma sœur, la fortune nous rit,  
+        Ma sœur, la fortune nous rit,  
 Et sur nous desormais sa faveur se déploye,  
 Voyez dans ce billet la cause de ma joye.  
 
@@ -1800,7 +1800,7 @@ Je ne suis point encor en estat de la voir.
 LE DUC.  
 
     CARLOS.
-Que dites-vous, de l'ordre qu'il me donne ?  
+        Que dites-vous, de l'ordre qu'il me donne ?  
 
     FENISE.
 Sçachant ce qui se passe il n'a rien qui m'estonne,  
@@ -1808,7 +1808,7 @@ Mais aprés les bontez que vous avez pour moy,
 Je me dois accuser…  
 
     CARLOS.
-Vous, ma sœur, et dequoy ?  
+        Vous, ma sœur, et dequoy ?  
 
     FENISE.
 De vous avoir caché ce qu'avaient sçeu m'apprendre  
@@ -1949,7 +1949,7 @@ La Duchesse en secret vient d'arriver icy.
 Que dites-vous, Seigneur ?  
 
     FEDERIC.
-Moy-mesme je l'ay veuë,  
+        Moy-mesme je l'ay veuë,  
 Elle veut à Milan demeurer inconnuë,  
 Et tenant de son rang le secret déguisé,  
 Entretenir le Duc sous un nom supposé.  
@@ -1965,7 +1965,7 @@ Et dans son entreprise offrez-luy tous vos soins.
 Je sçay ce que je dois.  
 
     FEDERIC.
-Allez, je vous rejoins.  
+        Allez, je vous rejoins.  
 
 
 ### SCENE VII.
@@ -1986,7 +1986,7 @@ Mais sans se découvrir elle veut luy parler ?
 Quel en est vostre espoir ?  
 
     FEDERIC.
-Qu'esbloüy de ses charmes  
+        Qu'esbloüy de ses charmes  
 Le Duc à sa beauté rendra soudain les armes,  
 Et que de son chagrin l'effort capricieux  
 Cedera⁎ sans contrainte à l'esclat de ses yeux.  
@@ -2002,7 +2002,7 @@ Mais enfin sous quel nom le pretend-elle voir ?
 En quelle qualité ?  
 
     FEDERIC.
-C'est ce qu'il faut sçavoir.  
+        C'est ce qu'il faut sçavoir.  
 Comme à l'entretenir le devoir nous appelle,  
 Allons sans differer en resoudre [145] avec elle.  < Fin du second Acte. >
 
@@ -2108,14 +2108,14 @@ Il est pour attendrir des soûpirs et des larmes,
 S'il s'en servoit, Madame ?  
 
     LA DUCHESSE.
-Il n'en feroit pas mieux.  
+        Il n'en feroit pas mieux.  
 
     FENISE.
 Mais l'amour quelquefois se glisse par les yeux,  
 S'il vous plaisoit enfin ?  
 
     LA DUCHESSE.
-Le Duc pourroit me plaire [148] ?  
+        Le Duc pourroit me plaire [148] ?  
 
     FENISE.
 Madame, excusez-moy, je parle pour un frere  
@@ -2161,24 +2161,24 @@ Les accords en sont doux quand la voix les anime,
 Ce talent est aimable⁎.  
 
     FENISE.
-Il vaut ce qu'on l'estime,  
+        Il vaut ce qu'on l'estime,  
 Pendant ma solitude il flattoit⁎ mon soucy⁎.  
 Donne.  
 
     LAURE *Rentrant.*
-Le Duc, Madame…  
+    Le Duc, Madame…  
 
     LA DUCHESSE.
-Et bien ?  
+    Et bien ?  
 
     LAURE.
-Il vient icy.  
+        Il vient icy.  
 
     FENISE.
 Le Duc ?  
 
     LA DUCHESSE.
-Pour me cacher usons de stratagème.  
+        Pour me cacher usons de stratagème.  
 
     FENISE.
 Appelez-moy Celie, et passez pour moy-mesme,  
@@ -2202,7 +2202,7 @@ LE DUC, LA DUCHESSE, FENISE, LAURE, FABRICE.
 Voyons sans estre veus [151].  
 
     FABRICE.
-Ah, Seigneur, qu'elle est belle !  
+        Ah, Seigneur, qu'elle est belle !  
 
     LE DUC.
 Celie avec raison s'estimoit autant qu'elle,  
@@ -2212,7 +2212,7 @@ Mais elle est belle enfin, et ce charme l'emporte [153].
 Elle accorde son lut, demeurons-là.  
 
     FABRICE.
-Qu'importe ?  
+        Qu'importe ?  
 
     LE DUC.
 Si tu sçais que ma joye est à l'oüir chanter…  
@@ -2222,7 +2222,7 @@ Oyez-donc, mais gardez de vous en dégouster,
 Si vous fermiez les yeux ?  
 
     LE DUC.
-Le conseil ridicule !  
+        Le conseil ridicule !  
 
     FABRICE.
 J'apprehende pour vous qu'elle ne gesticule.  
@@ -2236,13 +2236,13 @@ Ton sens de la folie a toûjours le support [154],
 Tay-toy.  
 
     FABRICE.
-Son instrument est d'un fâcheux accord.  
+        Son instrument est d'un fâcheux accord.  
 
     FENISE *à la Duchesse.*
 Il ne s'avance point.  
 
     LA DUCHESSE.
-La rencontre est plaisante,  
+        La rencontre est plaisante,  
 Comme il me prend pour vous, il attend que je chante.  
 J'y vais remedier. Julie est-elle icy [155] ?  
 Cherchez, Laure, mais Dieux ! qui nous observe ainsi ?  
@@ -2251,7 +2251,7 @@ Cherchez, Laure, mais Dieux ! qui nous observe ainsi ?
 Madame, c'est le Duc.  
 
     LE DUC, *à la Duchesse.*
-Enfin, belle Fenise,  
+        Enfin, belle Fenise,  
 Le Ciel par son adveu⁎ soustient mon entreprise,  
 Puisque malgré vos soins à vous cacher de moy  
 Il daigne consentir au bien⁎ que je reçoy.  
@@ -2288,7 +2288,7 @@ Vous luy laissez penser que c'est elle qui chante,
 C'est par là qu'il se prend.  
 
     FENISE.
-Qu'il est capricieux⁎ !  
+        Qu'il est capricieux⁎ !  
 
     LAURE.
 Vos reserves pour luy ne valent guere mieux.  
@@ -2328,7 +2328,7 @@ Est-ce que vous croyez m'acquerir pour Maistresse ?
 Moy marié, Madame ?  
 
     LA DUCHESSE.
-Avecque la Duchesse.  
+        Avecque la Duchesse.  
 
     LE DUC.
 Et ne sçavez-vous pas qu'afin de l'irriter,  
@@ -2348,7 +2348,7 @@ Peut-estre la Duchesse est plus belle que moy [157],
 Et je m'exposerois…  
 
     LE DUC.
-Pensez-en mieux de grace,  
+        Pensez-en mieux de grace,  
 Est-il quelque beauté que la vostre n'efface ?  
 
     LA DUCHESSE, *à Fenise.*
@@ -2381,17 +2381,17 @@ Peut-estre a-t'elle icy quelque peu d'interest,
 Je le dois conserver.  
 
     LE DUC.
-Voy Fabrice [159].  
+    Voy Fabrice [159].  
 
     FABRICE.
-Ah j'enrage,  
+        Ah j'enrage,  
 Elles sont toutes d'eux d'accord du filoutage [160].  
 
     LE DUC.
 Mais que resolvez-vous ?  
 
     LA DUCHESSE.
-De prendre vostre amour  
+        De prendre vostre amour  
 Pour un feu qui peut naistre et mourir en un jour,  
 Pour un aveugle effort d'une premiere idée  
 Dont sans reflexion vostre ame est possedée,  
@@ -2408,7 +2408,7 @@ N'ayant point vostre voix, je ne la puis aymer.
 Cela va bien pour vous.  
 
     LE DUC.
-D'ailleurs les miens l'ont veuë,  
+        D'ailleurs les miens l'ont veuë,  
 Et sa beauté par eux ne m'est que trop cognuë ;  
 Ce sont charmes communs, ce sont mornes appas⁎  
 Qui des plus foibles cœurs ne triompheroient pas.  
@@ -2417,10 +2417,10 @@ Qui des plus foibles cœurs ne triompheroient pas.
 Et mesme…  
 
     LE DUC.
-Que dis-tu ?  
+    Que dis-tu ?  
 
     FABRICE.
-Que vous estes modeste.  
+        Que vous estes modeste.  
 Elle a, vous a-t'on dit, quelque os icy de reste,  
 Qui n'a jamais voulu se mettre à la raison,  
 Qu'on ne l'ait mis aux fers et son corps en prison.  
@@ -2445,7 +2445,7 @@ Vous pouvez adresser ailleurs vostre inconstance.
 Adieu.  
 
     LE DUC.
-Quoy ? me quitter ! Madame, encor deux mots.  
+        Quoy ? me quitter ! Madame, encor deux mots.  
 
     LA DUCHESSE, *à Fenise.*
 Allons, il faut donner mes ordres à Carlos.  
@@ -2462,10 +2462,10 @@ Et de grace, un moment ; arrestez-là, Celie.
 Moy, Seigneur ?  
 
     LE DUC.
-Quel mépris !  
+    Quel mépris !  
 
     FABRICE.
-Dîtes quelle folie.  
+        Dîtes quelle folie.  
 Mais pour luy donner lieu de s'en mordre les doigts,  
 Espousons la Duchesse, et nargue⁎ de sa voix.  
 
@@ -2498,21 +2498,21 @@ Mais j'ay trouvé toûjours obstacle à vostre flame.
 Et c'est ?  
 
     FENISE.
-Vous le sçavez, l'amour de cette Dame,  
+        Vous le sçavez, l'amour de cette Dame,  
 Qui dans sa confidence⁎ eut tousjours tant de part.  
 
     LE DUC.
 Mais me dites-vous vray ?  
 
     FENISE.
-Je vous parle sans fard⁎.  
+        Je vous parle sans fard⁎.  
 Est-ce avec vous, Seigneur, qu'il est permis de feindre ?  
 
     LE DUC, *à Fabrice.*
 Qu'elle est folle ! entens-tu ?  
 
     FABRICE.
-J'ay peine à me contraindre⁎.  
+        J'ay peine à me contraindre⁎.  
 Quoy, ce petit extrait d'original humain,  
 Pour aspirer à vous a le cœur assez vain ?  
 
@@ -2520,7 +2520,7 @@ Pour aspirer à vous a le cœur assez vain ?
 Tu vois.  
 
     FABRICE.
-Pour la payer de tous ses badinages,  
+        Pour la payer de tous ses badinages,  
 Mariez-là, Seigneur, à quelqu'un de vos pages.  
 
     FENISE, *au Duc.*
@@ -2537,7 +2537,7 @@ Ignorez-vous le prix d'une amour [161] légitime ?
 Mais me cognoissez-vous [162] ?  
 
     FENISE.
-En vous vantant son feu,  
+        En vous vantant son feu,  
 Au seul Duc de Milan j'en croy faire l'adveu.  
 Si vous ne l'estes pas, permettez que j'espere  
 Qu'il apprendra de vous ce que je n'ay pû taire.  
@@ -2565,17 +2565,17 @@ LE DUC, FABRICE.
 Fabrice, qu'en dis-tu ?  
 
     FABRICE.
-J'admire la harangue,  
+        J'admire la harangue,  
 Elle a le Diable au corps, ou du moins à la langue,  
 Comme elle tranche net !  
 
     LE DUC.
-J'aime cette fierté  
+        J'aime cette fierté  
 Qui releve à mes yeux l'éclat de sa beauté,  
 Elle est belle après tout.  
 
     FABRICE.
-Mais Fenise plus qu'elle ?  
+        Mais Fenise plus qu'elle ?  
 
     LE DUC.
 Elle chante, il suffit pour estre la plus belle.  
@@ -2599,11 +2599,11 @@ LE DUC, FEDERIC, FABRICE.
 
 
     FEDERIC.
-Seigneur, quelle surprise !  
+        Seigneur, quelle surprise !  
 Vous rencontrer icy ?  
 
     LE DUC .
-Vous me cachiez Fenise,  
+        Vous me cachiez Fenise,  
 Mais enfin malgré vous j'ay veu ce rare⁎ objet⁎.  
 
     FEDERIC.
@@ -2624,7 +2624,7 @@ Mais aujourd'huy le Ciel autrement en ordonne.
 Que dites-vous, Seigneur ?  
 
     LE DUC.
-Ce discours vous estonne⁎.  
+        Ce discours vous estonne⁎.  
 La surprise pourtant n'aura rien que de doux  
 Si je partage enfin ma couronne avec vous,  
 J'en veux mettre le droit dedans vostre famille.  
@@ -2633,7 +2633,7 @@ J'en veux mettre le droit dedans vostre famille.
 Quoy, Seigneur, vous voulez ?  
 
     LE DUC.
-Espouser vostre fille.  
+        Espouser vostre fille.  
 Sa beauté sur mon cœur usant de tous ses droits  
 Vient d'achever en moy le charme de sa voix.  
 
@@ -2642,7 +2642,7 @@ Ah, dissipez ce charme, et rentrez en vous - mesme [164].
 Vous, l'amant⁎ de ma fille ?  
 
     LE DUC.
-Ouy, Federic, je l'ayme,  
+        Ouy, Federic, je l'ayme,  
 Et rien ne peut changer ce que j'ay resolu.  
 
     FEDERIC.
@@ -2652,7 +2652,7 @@ Servez-vous mieux, Seigneur, du pouvoir absolu.
 Non, mon dessein⁎ est juste.  
 
     FEDERIC.
-Il ne le faut pas croire,  
+        Il ne le faut pas croire,  
 Puisqu'il blesse l'Estat, il blesse vostre gloire.  
 
     LE DUC.
@@ -2674,7 +2674,7 @@ Je n'ay que trop suivi cette injuste maxime,
 Il faut m'en affranchir.  
 
     FEDERIC.
-Le pouvez-vous sans crime,  
+        Le pouvez-vous sans crime,  
 Et songez-vous assez de quel sanglant affront  
 La Duchesse par là verroit rougir son front ?  
 Après qu'en vos Estats on l'a desja reçeuë…  
@@ -2721,7 +2721,7 @@ LE DUC, FABRICE.
 Quelle est cette menace ?  
 
     FABRICE.
-Ah, je rentre en mémoire.  
+        Ah, je rentre en mémoire.  
 Apprenez un secret que je n'avois pû croire,  
 Mais par cette menace il est trop esclaircy,  
 Le bruit court que Carlos n'a point party [167] d'icy.  
@@ -2733,7 +2733,7 @@ Ainsi donc la Duchesse est encore à Pavie ?
 Il n'en faut point douter.  
 
     LE DUC.
-Dieux, quelle perfidie !  
+        Dieux, quelle perfidie !  
 Helas ! fut-il jamais amant⁎ plus interdit⁎ ?  
 Je me fie à Carlos, et l'ingrat me trahit.  
 Mais ne le vois-je pas ? ah, Dieu, quelle est ma peine ?  
@@ -2768,7 +2768,7 @@ C'est ce que la Duchesse a souhaité de moy,
 Et j'ay crû vous servir…  
 
     LE DUC.
-J'estime vostre zele,  
+        J'estime vostre zele,  
 Je n'aspirois, Carlos, qu'à me dégager d'elle,  
 Et ce seul embarras⁎ causoit tout mon chagrin.  
 
@@ -2799,18 +2799,18 @@ L'entier et plein adveu de vostre intelligence⁎.
 Seigneur…  
 
     LE DUC.
-Non, non, j'en croy ce que vous m'avez dit,  
+        Non, non, j'en croy ce que vous m'avez dit,  
 Vous voulez estre Duc, Carlos, il me suffit.  
 Allez remplir à Parme une si noble envie,  
 Vous y pourrez aller de mesme qu'à Pavie.  
 Suivez-moy.  
 
     CARLOS.
-Mon mal-heur me reduit⁎-il au point  
+        Mon mal-heur me reduit⁎-il au point  
 De…  
 
     LE DUC.
-Suivez-moy, vous dis-je, et ne repliquez point.  < Fin du troisième Acte. >
+        Suivez-moy, vous dis-je, et ne repliquez point.  < Fin du troisième Acte. >
 
 
 ## ACTE IV.
@@ -2919,7 +2919,7 @@ Vous n'en seriez pas là si j'avais été cruë ,
 Car vous aymez enfin ?  
 
     FENISE.
-Que te diray-je, helas ?  
+        Que te diray-je, helas ?  
 Je sens des mouvements que je ne comprens pas.  
 Dans mon cœur indigné l'interest de ma gloire  
 A mes ressentiments dispute la victoire ,  
@@ -2972,7 +2972,7 @@ Pour vous en éclaircir il faut sonder Fabrice,
 Il vient.  
 
     FENISE.
-Que voudrois-tu que ce fou nous apprist ?  
+        Que voudrois-tu que ce fou nous apprist ?  
 
     LAURE .
 Dans son extravagance⁎ il sçait bien ce qu'il dit ,  
@@ -2987,16 +2987,16 @@ FENISE , LAURE, FABRICE.
 Ne vois-je pas Fabrice ?  
 
     FABRICE.
-Ah, Dieu vous gard [172], les belles.  
+        Ah, Dieu vous gard [172], les belles.  
 
     LAURE.
 Qui t'a permis d'entrer ?  
 
     FABRICE.
-Moy- mesme.  
+    Moy- mesme.  
 
     LAURE.
-Et sans refus ?  
+        Et sans refus ?  
 
     FABRICE.
 Les ordres sont changez, on ne vous cache plus.  
@@ -3005,14 +3005,14 @@ Les ordres sont changez, on ne vous cache plus.
 D'où vient donc que le Duc…  
 
     FABRICE.
-Le Duc n'est pas trop sage.  
+        Le Duc n'est pas trop sage.  
 Ne m'en demande rien.  
 
     FENISE.
-Que fait-il ?  
+    Que fait-il ?  
 
     FABRICE.
-Il enrage.  
+        Il enrage.  
 L'amour luy bouleverse et l'esprit et les sens.  
 
     FENISE.
@@ -3026,25 +3026,25 @@ Fenise pourroit bien enrager à son tour.
 J'en sçay bien le secret.  
 
     FENISE.
-Tu vas un peu bien viste,  
+        Tu vas un peu bien viste,  
 Peut-estre que Fenise…  
 
     FABRICE.
-O la bonne hypocrite⁎ !  
+        O la bonne hypocrite⁎ !  
 Je parle librement, mais aussi sçait-on bien,  
 Que vostre langue [173]…  
 
     LAURE.
-Et bien ? sa langue ?  
+    Et bien ? sa langue ?  
 
     FABRICE.
-Ne vaut rien.  
+        Ne vaut rien.  
 
     FENISE.
 Je souffre tout de toy.  
 
     FABRICE.
-Croyez que je boufonne,  
+        Croyez que je boufonne,  
 Mais le Duc vous cognoit, et vous la garde bonne⁎.  
 C'est vous qui destournez Fenise de l'aimer.  
 
@@ -3055,7 +3055,7 @@ Me faisoit luy parler de l'amour d'une Dame ;
 J'agissois par son ordre.  
 
     FABRICE.
-Il n'en estoit donc rien ?  
+        Il n'en estoit donc rien ?  
 
     FENISE.
 Son feu tâchois par là de s'asseurer du sien.  
@@ -3067,11 +3067,11 @@ Donc après cette espreuve il en peut tout attendre ?
 Ouy, s'il l'aime en effet.  
 
     FABRICE.
-Il ne faut que l'entendre,  
+        Il ne faut que l'entendre,  
 Il perd l'esprit pour elle.  
 
     FENISE.
-Elle craint toutefois  
+        Elle craint toutefois  
 Que feignant de l'aimer il n'aime que sa voix,  
 Et ne croit son amour qu'une amour imparfaite,  
 Si sa seule beauté n'est pas ce qui l'arreste.  
@@ -3096,13 +3096,13 @@ FABRICE, LAURE.
 
 
     FABRICE.
-D'où vient donc qu'elle sort ?  
+        D'où vient donc qu'elle sort ?  
 
     LAURE.
 C'est que tu jases trop.  
 
     FABRICE.
-Chacun sçait son affaire [174].  
+        Chacun sçait son affaire [174].  
 Qu'elle s'en fâche ou non, il ne m'importe guere,  
 Elle me fait plaisir me laissant avec toy.  
 
@@ -3110,27 +3110,27 @@ Elle me fait plaisir me laissant avec toy.
 D'où vient ta belle humeur ?  
 
     FABRICE.
-De ce que je te voy,  
+        De ce que je te voy,  
 Friponne, sçais-tu bien lors que tu me regardes…  
 
     LAURE.
 Quoy, je te tiens au cœur ?  
 
     FABRICE.
-Ma foy, tu le petardes [175],  
+        Ma foy, tu le petardes [175],  
 Jusqu'au moindre recoin tes yeux vont ravager.  
 
     LAURE.
 Je te plais donc ?  
 
     FABRICE.
-Assez pour me faire enrager.  
+        Assez pour me faire enrager.  
 
     LAURE.
 Déja jusqu'à la rage ?  
 
     FABRICE.
-Et plus qu'il ne te semble ,  
+        Et plus qu'il ne te semble ,  
 Mais le plaisir d'amour c'est d'enrager ensemble,  
 Ainsi si tu voulois enrager tant soit peu…  
 
@@ -3138,14 +3138,14 @@ Ainsi si tu voulois enrager tant soit peu…
 Il y faudra songer.  
 
     FABRICE.
-Tu te ris de mon feu.  
+        Tu te ris de mon feu.  
 
     LAURE.
 M'en rire ? je t'en voy la face toute blême [176].  
 Mais enfin tout de bon, m'aimes-tu ?  
 
     FABRICE.
-Si je t'aime ?  
+        Si je t'aime ?  
 J'ai déja depuis hier, pour preuve de ma foy,  
 Tâché plus de six fois à soûpirer pour toy.  
 
@@ -3159,12 +3159,12 @@ Va, j'en cognois le fin, le délicat, le tendre.
 Tu n'as fait que tâcher cependant ?  
 
     FABRICE.
-N'est-ce rien ?  
+        N'est-ce rien ?  
 Pactisons seulement, et le reste ira bien.  
 Es-tu traitable ?  
 
     LAURE.
-Moy ? Cela s'en va sans dire.  
+        Moy ? Cela s'en va sans dire.  
 
     FABRICE.
 Combien de temps faut-il que pour toy l'on soûpire ?  
@@ -3173,7 +3173,7 @@ Combien de temps faut-il que pour toy l'on soûpire ?
 Que t'importe combien ?  
 
     FABRICE.
-C'est là la question.  
+        C'est là la question.  
 Je crains en soûpirant quelque indigestion,  
 Il faut s'enfler le cœur, et l'excez est à craindre !  
 
@@ -3182,7 +3182,7 @@ Ton feu n'iroit pas loin avant que de s'éteindre,
 Tu me plains de soûpirs ?  
 
     FABRICE.
-Je sçay bien qu'il t'en faut,  
+        Je sçay bien qu'il t'en faut,  
 Mais j'en voudrois avoir ma quittance au plûtost,  
 Et pour n'en recevoir ny reproche ny honte,  
 N'estre obligé qu'à tant et les fournir par conte.  
@@ -3195,12 +3195,12 @@ Va, si je promets peu, c'est afin de tenir,
 Vois-tu bien, je suis franc.  
 
     LAURE.
-Donc en toute franchise  
+        Donc en toute franchise  
 Dy moy quels sentimens le Duc a pour Fenise.  
 N'est-ce plus pour sa voix…  
 
     FABRICE.
-Que tu le bailles doux !  
+        Que tu le bailles doux !  
 Mais les voici tous deux qui s'en viennent à nous,  
 Dispose ta Maistresse à mieux traiter sa flame.  
 
@@ -3213,7 +3213,7 @@ LE DUC, LA DUCHESSE, LAURE, FABRICE.
 Quoy, Seigneur, jusqu'icy ?  
 
     LE DUC.
-Me fuyez-vous, Madame,  
+        Me fuyez-vous, Madame,  
 Et gardez-vous un cœur assez indifferent  
 Pour refuser mes soins quand l'amour vous les rend ?  
 
@@ -3233,12 +3233,12 @@ Une injuste rigueur est le prix de ma flame.
 Helas !  
 
     FABRICE, *au Duc.*
-Si vous voulez reüssir cette fois,  
+        Si vous voulez reüssir cette fois,  
 Parlez de la beauté plustost que de la voix,  
 J'ay bien menty pour vous.  
 
     LE DUC.
-Enfin que dois-je attendre ?  
+        Enfin que dois-je attendre ?  
 Mes plus profonds respects n'ont-ils rien à prétendre⁎ ,  
 Et mon sceptre et mon coeur à vostre empire offerts  
 Me laissent-ils toûjours indigne de vos fers ?  
@@ -3325,7 +3325,7 @@ LE DUC, LA DUCHESSE, CARLOS, FABRICE, CAMILLE.
 
 
     CARLOS, *à Camille.*
-Que voy-je ? la Duchesse ?  
+        Que voy-je ? la Duchesse ?  
 Ah, le Duc la cognoit, et tout espoir me laisse.  
 
     LE DUC.
@@ -3439,19 +3439,19 @@ LA DUCHESSE, CARLOS, CAMILLE.
 Ah, Dieux !  
 
     CAMILLE.
-Voilà que c'est [181] de conter sans son hoste [182].  
+        Voilà que c'est [181] de conter sans son hoste [182].  
 
     CARLOS.
 Il la veut épouser, Camille !  
 
     CAMILLE.
-Est-ce ma faute ?  
+        Est-ce ma faute ?  
 
     CARLOS.
 O malheur !  
 
     LA DUCHESSE.
-Quoy, Carlos, je t'entens souspirer,  
+        Quoy, Carlos, je t'entens souspirer,  
 Quand par l'adveu du Duc tu peux tout esperer ?  
 
     CARLOS.
@@ -3474,7 +3474,7 @@ De l'avoir mis au point de me perdre à regret.
 Ah, que m'apprenez-vous ?  
 
     LA DUCHESSE.
-Cette froideur m'estonne⁎,  
+        Cette froideur m'estonne⁎,  
 Parle enfin, que faut-il, Carlos que j'en soupçonne ?  
 
     CARLOS.
@@ -3486,7 +3486,7 @@ C'est donc ce que de toy, pour t'avoir osé croire,
 Mon amour…  
 
     CARLOS.
-Ah, Madame, il fait toute ma gloire,  
+        Ah, Madame, il fait toute ma gloire,  
 Mais aussi, s'il fut trop pour le peu que je vaux,  
 Je puis dire qu'il fait le plus grand de mes maux.  
 Car lors que par le temps l'amour ne peut s'éteindre,  
@@ -3498,7 +3498,7 @@ A ceder cét espoir quand il se voit aimé.
 Quoy, tu cedes le tien ?  
 
     CARLOS.
-Ma peine en est extréme,  
+        Ma peine en est extréme,  
 Mais je dois tout au Duc, et je voy qu'il vous aime.  
 
     LA DUCHESSE.
@@ -3535,7 +3535,7 @@ Cet amour m'est bien cher mais mon devoir l'emporte,
 Et le respect du Duc…  
 
     LA DUCHESSE.
-Le glorieux projet,  
+        Le glorieux projet,  
 D'estre mauvais amant⁎ pour estre bon sujet !  
 Va, rends à me trahir ta foy⁎ brillante et pure,  
 Acheptes-en l'éclat aux dépens d'un parjure,  
@@ -3555,18 +3555,18 @@ CARLOS, CAMILLE.
 
 
     CAMILLE.
-Nous voilà bien.  
+        Nous voilà bien.  
 
     CARLOS.
 O rigueur de mon sort ! que dois-je faire ?  
 
     CAMILLE.
-Rien.  
+        Rien.  
 Il n'est fidelle preux [184] que vostre foy⁎ redoute,  
 Vous avez assez fait .  
 
     CARLOS.
-Que cet effort me coûte !  
+        Que cet effort me coûte !  
 
     CAMILLE.
 Ne vous en plaignez point ; ceder une Duché [185],  
@@ -3574,7 +3574,7 @@ Pour se montrer loyal, c'est avoir bon marché.
 Vous serez dans l'histoire.  
 
     CARLOS.
-Ah, crains de me déplaire.  
+        Ah, crains de me déplaire.  
 
     CAMILLE.
 Quoy, lors que l'on enrage, il faut encor se taire,  
@@ -3594,15 +3594,15 @@ Une belle Duchesse, et tout ce qui la suit,
 Sceptre, Couronne…  
 
     CARLOS.
-Helas ! où me vois-je réduit ?  
+        Helas ! où me vois-je réduit ?  
 Perdre un objet⁎ si cher !  
 
     CAMILLE.
-Le remede⁎ est facile,  
+        Le remede⁎ est facile,  
 Revoyez-la.  
 
     CARLOS.
-Non non, n'en parlons point, Camile ;  
+        Non non, n'en parlons point, Camile ;  
 Dans le pressant malheur où me plonge le sort,  
 Si quelque espoir me reste il n'est plus qu'en la mort.  < Fin du quatrieme Acte. >
 
@@ -3680,7 +3680,7 @@ Ont obtenu sur luy l'effet de mes souhaits.
 Helas !  
 
     LA DUCHESSE.
-Ainsi je crains que son cœur trop sensible  
+        Ainsi je crains que son cœur trop sensible  
 N'apporte à nos projets un obstacle invincible,  
 Et que me cognoissant, il n'ose avec esclat  
 Faire agir pour sa flame un interest d'Estat.  
@@ -3711,12 +3711,12 @@ Quels nobles sentimens me le font desdaigner.
 Je l'apperçois qui vient.  
 
     FENISE, *à Laure.*
-Qu'une épreuve si rude  
+        Qu'une épreuve si rude  
 A mon cœur alarmé cause d'inquietude⁎ !  
 Ah, Laure.  
 
     LAURE.
-Voila bien dequoy vous tourmenter.  
+        Voila bien dequoy vous tourmenter.  
 Quand vous n'en pourrez plus vous n'aurez qu'à chanter.  
 Forcez vous un moment à garder le silence.  
 
@@ -3737,7 +3737,7 @@ Recevez-en pour gage et mon cœur et ma main.
 Dieux, quelle offre !  
 
     LAURE.
-Attendez l'effet de ce dessein.  
+        Attendez l'effet de ce dessein.  
 
     LA DUCHESSE.
 Seigneur, si Federic de surprise incapable  
@@ -3767,7 +3767,7 @@ Pour ne vous point broüiller laissez la voix à part,
 Oubliez-vous ainsi ?  
 
     LA DUCHESSE.
-J'ay donc sujet de croire  
+        J'ay donc sujet de croire  
 Qu'à ma voix de vos feux je dois toute la gloire ?  
 
     LE DUC.
@@ -3786,7 +3786,7 @@ Qu'a-t'elle plus que moy qui merite son choix ?
 Ah, je perds patience.  
 
     LAURE.
-Il n'est pas temps encore.  
+        Il n'est pas temps encore.  
 C'est vostre seule voix, vous dis-je, qu'il adore,  
 Quoy qu'il proteste⁎ icy, l'espreuve en fera foy.  
 
@@ -3862,13 +3862,13 @@ On entend quelques accords de Lut.
 Ce pouvoir…mais, ô Dieux ?  
 
     LA DUCHESSE.
-Quelle est cette surprise ?  
+        Quelle est cette surprise ?  
 
     LE DUC.
 J'entens toucher⁎ un Lut.  
 
     LA DUCHESSE *bas se destournant.*
-Je ne voy plus Fenise.  
+        Je ne voy plus Fenise.  
 Haut
 
 Mes filles quelquefois voulant me divertir…  
@@ -3878,7 +3878,7 @@ Leur dessein⁎ est trop juste, et j'y dois consentir,
 Il faut les escouter. Dieux !  
 
     FABRICE *au Duc.*
-Vostre amour s'alarme ?  
+        Vostre amour s'alarme ?  
 
     LE DUC.
 C'est le mesme signal [189] de la voix qui me charme.  
@@ -3925,7 +3925,7 @@ Dans Fenise desja ne trouvast plus Fenise ?
 M'auroit-on pû tromper ?  
 
     LA DUCHESSE.
-Il faut que sur nos sens  
+        Il faut que sur nos sens  
 L'empire du devoir ait des droits bien puissants,  
 Car enfin, quelque esclat qui brille dans vostre ame,  
 Avant que Federic approuvast vostre flame,  
@@ -3942,7 +3942,7 @@ S'il faut qu'elle s'obstine à me favoriser ?
 Vous ne répondez point ?  
 
     LE DUC.
-Que puis-je vous répondre,  
+        Que puis-je vous répondre,  
 Sinon que vos bontez servent à me confondre⁎,  
 On entend encor le lut
 
@@ -3984,7 +3984,7 @@ LE DUC, FABRICE.
 Vous voilà bien payé.  
 
     LE DUC.
-N'importe, elle m'oblige,  
+        N'importe, elle m'oblige,  
 Son mépris me fait grace et n'a rien qui m'afflige,  
 Puisqu'enfin sa beauté, quelques charmes qu'elle eust,  
 Sans celuy de sa voix n'avoit rien qui me plûst.  
@@ -3997,7 +3997,7 @@ Car la chanteuse enfin n'est autre que Celie.
 Que Celie ?  
 
     FABRICE.
-Ouy, mes yeux en sont de bons garands,  
+        Ouy, mes yeux en sont de bons garands,  
 Eux qui viennent de voir ce que je vous apprens. [195]  
 
     LE DUC.
@@ -4016,19 +4016,19 @@ LE DUC, FENISE, FABRICE, LAURE.
 
 
     LE DUC.
-Ah, Celie, où m'avez-vous réduit ?  
+        Ah, Celie, où m'avez-vous réduit ?  
 
     FENISE.
 De quoy vous plaignez-vous ?  
 
     LE DUC.
-D'un amour qui m'accable.  
+        D'un amour qui m'accable.  
 
     FENISE.
 Vostre malheur est grand.  
 
     LE DUC.
-Vous en estes coupable.  
+        Vous en estes coupable.  
 
     FENISE.
 Quoy, s'il vous traite mal, m'en faut-il accuser ?  
@@ -4099,7 +4099,7 @@ LE DUC, FABRICE.
 Elle a l'esprit perdu !  
 
     LE DUC.
-Qu'en toute son audace  
+        Qu'en toute son audace  
 Elle sçait conserver et d'attraits et de grace !  
 Bien loin de m'irriter, sa fierté me ravit⁎.  
 
@@ -4122,7 +4122,7 @@ LE DUC, CAMILLE, FABRICE.
 
 
     CAMILLE.
-Ah, Seigneur, voicy bien des nouvelles.  
+        Ah, Seigneur, voicy bien des nouvelles.  
 
     LE DUC.
 Quoy, qu'est-il survenu ? tire-moy de soucy⁎.  
@@ -4131,16 +4131,16 @@ Quoy, qu'est-il survenu ? tire-moy de soucy⁎.
 La Duchesse…  
 
     LE DUC.
-Et bien parle.  
+    Et bien parle.  
 
     CAMILLE.
-Est arrivée icy.  
+        Est arrivée icy.  
 
     LE DUC. 
 Que dis-tu ? la Duchesse ?  
 
     CAMILLE.
-Elle- mesme en personne.  
+        Elle- mesme en personne.  
 
     FABRICE.
 Tout le sexe [197] aujourd'huy d'assez prés vous talonne.  
@@ -4153,7 +4153,7 @@ Fay venir Federic, le conseil en est pris.
 Qu'avez-vous resolu ?  
 
     LE DUC.
-Rien ne m'en peut distraire,  
+        Rien ne m'en peut distraire,  
 L'effort est violent, mais il est nécessaire.  
 Puisque Fenise enfin m'a sceu rendre ma foy⁎,  
 Que par son rang Celie est indigne de moy,  
@@ -4262,13 +4262,13 @@ Où vous croyez ma sœur, vous croyez la Duchesse.
 La Duchesse !  
 
     LA DUCHESSE.
-Ouy, c'est moy, vous en doutez en vain.  
+        Ouy, c'est moy, vous en doutez en vain.  
 
     LE DUC.
 O Dieux !  
 
     FABRICE.
-Il va crier, ô Dieux ! jusqu'à demain.  
+        Il va crier, ô Dieux ! jusqu'à demain.  
 
     LE DUC, *à la Duchesse.*
 Pardonnez mon silence à ma juste surprise,  
@@ -4288,7 +4288,7 @@ A l'amour de Carlos voudrez-vous mettre obstacle ?
 Puis-je assez m'excuser, Madame…  
 
     FABRICE, *montrant l'assemblée*
-Arrestez-là,  
+        Arrestez-là,  
 Laissez ce monde en paix puisque vous y voila,  
 L'éclaircir plus avant seroit pure sottise.  
 Voit-il [202] pas que le Duc espousera Fenise,  

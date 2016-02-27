@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_mariage-force *id_I01 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1668 *creator_moliere
 
 
 
@@ -271,7 +271,7 @@ La jeune Dorimène, Fille du Seigneur Alcantor, avec le Seigneur Sganarelle, qui
 Ce Mariage doit être heureux ; car il donne de la joie à tout le monde ; et je fais rire tous ceux à qui j'en parle.
 Me voilà maintenant le plus content des Hommes.
 
-**** *book_moliere_mariage-force *id_I02 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1668 *creator_moliere
 
 
 
@@ -315,7 +315,7 @@ C'est un mal aujourd'hui qui attaque beaucoup de Gens : mais notre Mariage vous
 Adieu, il me tarde déjà que je n'aie des Habits raisonnables, pour quitter vite ces guenilles.
 Je m'en vais de ce pas achever d'acheter toutes les choses qu'il me faut ; et je vous enverrai les marchands.
 
-**** *book_moliere_mariage-force *id_I03 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1668 *creator_moliere
 
 
 
@@ -345,7 +345,7 @@ Pour moi, je me contente de ce que je vous ai dit tantôt, et demeure votre Serv
 Il a raison.
 Il faut que je consulte un peu ces Gens-là sur l'incertitude où je suis.
 
-**** *book_moliere_mariage-force *id_I04 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1668 *creator_moliere
 
 
 
@@ -697,7 +697,7 @@ On me l'avait bien dit, que son Maître Aristote n'était qu'un Bavard.
 Il faut que j'aille trouver l'autre ; il est plus posé, et plus raisonnable.
 Holà.
 
-**** *book_moliere_mariage-force *id_I05 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1668 *creator_moliere
 
 
 
@@ -889,7 +889,7 @@ Jamais Homme ne fut plus embarrassé que je suis.
 Ah ! voici des Égyptiennes.
 Il faut que je me fasse dire par elles ma bonne Aventure.
 
-**** *book_moliere_mariage-force *id_I06 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1668 *creator_moliere
 
 
 
@@ -977,7 +977,7 @@ Peste soit des Carognes, qui me laissent dans l'inquiétude !
 Il faut absolument que je sache la destinée de mon Mariage : et pour cela, je veux aller trouver ce grand Magicien, dont tout le monde parle tant, et qui par son art admirable fait voir tout ce que l'on souhaite.
 Ma foi, je crois que je n'ai que faire d'aller au Magicien, et voici qui me montre tout ce que je puis demander.
 
-**** *book_moliere_mariage-force *id_I07 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1668 *creator_moliere
 
 
 
@@ -1036,7 +1036,7 @@ Il m'en a coûté quelque argent : mais il vaut mieux encore perdre cela, que d
 Tâchons adroitement de nous débarrasser de cette affaire.
 Holà.
 
-**** *book_moliere_mariage-force *id_I08 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1668 *creator_moliere
 
 
 
@@ -1163,7 +1163,7 @@ Encore est-il plus raisonnable que je ne pensais ; et je croyais avoir bien plu
 Ma foi, quand j'y songe, j'ai fait fort sagement, de me tirer de cette Affaire ; et j'allais faire un pas, dont je me serais peut-être longtemps repenti.
 Mais voici le Fils qui me vient rendre réponse.
 
-**** *book_moliere_mariage-force *id_I09 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I09 *act_I *date_1668 *creator_moliere
 
 
 
@@ -1286,7 +1286,7 @@ Ah !
 Monsieur, je suis ravi que vous vous mettiez à la raison ; et que les choses se passent doucement : car enfin vous êtes l'Homme du Monde que j'estime le plus, je vous jure ; et j'aurais été au désespoir que vous m'eussiez contraint à vous maltraiter.
 Je vais appeler mon Père, pour lui dire que tout est d'accord.
 
-**** *book_moliere_mariage-force *id_I10 *act_I *date_1668 *creator_moliere
+**** *book_ *id_I10 *act_I *date_1668 *creator_moliere
 
 
 

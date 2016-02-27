@@ -1,5 +1,5 @@
 ---
-identifier: moliere_fourberies  
+identifier: moliere_fourberies-scapin  
 creator: Molière  
 date: 1671  
 title: Les Fourberies de Scapin  

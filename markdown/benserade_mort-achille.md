@@ -1,5 +1,5 @@
 ---
-identifier: benserade_mort  
+identifier: benserade_mort-achille  
 creator: Benserade, Isaac de  
 date: 1636  
 title: La Mort d'Achille  
@@ -426,13 +426,13 @@ Ny de ces vains honneurs, brave sang de Thetis.
 Que me demandez-vous ?  
 
     PRIAM.
-Nous demandons mon fils,  
+        Nous demandons mon fils,  
 Par nos cris, par nos pleurs, par l'ennuy qui nous presse,  
 Par une langoureuse, & trop longue vieillesse,  
 Par vos mains que je baise [81].  
 
     ACHILLE.
-O Dieux, que faictes-vous !  
+        O Dieux, que faictes-vous !  
 Des Reynes, & des Roys embrasser mes genoux !  
 
     PRIAM.
@@ -446,7 +446,7 @@ Je ne souffriray point que vous vous abaissiez.
 Nous sommes comme il faut.  
 
     ACHILLE.
-Levez vous, & priez.  
+        Levez vous, & priez.  
 
     BRISEIDE *tout bas*.
 Tenir pour un fils mort cette lasche posture !  
@@ -546,7 +546,7 @@ Ils ne l'auront jamais, j'y suis trop resolu.
 Dequoy murmurez-vous [86] ?  
 
     ACHILLE.
-Vostre infortune est grande,  
+        Vostre infortune est grande,  
 Et je m'accorderois à ce qu'elle demande.  
 Mais quoy ? je ne vous puis livrer ce bien fatal  
 Sans la permission de nostre General.  
@@ -584,7 +584,7 @@ Ait un sepulchre ailleurs qu'au sein de ses parens,
 Helas voyez mes pleurs !  
 
     ACHILLE.
-Je me rends, & le rends ;  
+        Je me rends, & le rends ;  
 Vos larmes ont esteint ma vengeance enflammee,  
 Ce que n'auroit pas fait le pouvoir d'une armée,  
 “ Une simple douceur calme nos passions,  
@@ -638,7 +638,7 @@ Et je ne marche plus qu'à regret au combat.
 Vos affaires vont mal.  
 
     PRIAM
-En l'estat où nous sommes,  
+        En l'estat où nous sommes,  
 Nous n'avons du secours ny des Dieux, ny des hommes.  
 Nous avons sous les maux mille fois succombé :  
 Le superbe Ilion seroit desjà tombé,  
@@ -651,7 +651,7 @@ Dignes freres d'Hector, sont l'appuy de ma ville :
 C'est où j'en suis reduit.  
 
     ACHILLE.
-Entrons. Pour vos presens,  
+        Entrons. Pour vos presens,  
 Avec le corps d'Hector de bon coeur je les rens,  
 Il faut nous visiter tant que la tresve dure,  
 Vous serez plus heureux, Achille vous le jure.  
@@ -660,7 +660,7 @@ Vous serez plus heureux, Achille vous le jure.
 O genereux Guerrier !  
 
     BRISEIDE.
-Ce nouveau changement  
+        Ce nouveau changement  
 Me donne de la crainte, & de l'estonnement.  < Fin du premier Acte. >
 
 
@@ -793,7 +793,7 @@ Et je soulagerois les maux que vous avez,
 Pourveu que je le peusse.  
 
     ACHILLE.
-Helas ! vous le pouvez.  
+        Helas ! vous le pouvez.  
 Que vostre Majesté m'accorde une requeste,  
 Je vous offre mon bras, je vous offre ma teste,  
 Si vostre courroux veut, ou ne veut s'assouvir,  
@@ -814,7 +814,7 @@ Achille estant Troyen ne demordra jamais.
 Vous nous le promettez ?  
 
     ACHILLE.
-Ha ! je vous le promets [100].  
+        Ha ! je vous le promets [100].  
 
     PRIAM.
 Demandez hardiment, asseuré que ma vie,  
@@ -983,7 +983,7 @@ Je peche contre vous sans remors, & sans blasme.
 Mais quel est ce peché [112] ?  
 
     ACHILLE.
-Je vous ayme, Madame,  
+        Je vous ayme, Madame,  
 C'est ma temerité, ma gloire, mon forfait,  
 Et voilà ce que j'ose apres ce que j'ay fait :  
 Mon coeur s'ose flatter de l'espoir de vous plaire,  
@@ -1021,14 +1021,14 @@ Pour voir mon coeur bruslé, vous l'allez voir sanglant,
 Ce fer.  
 
     POLIXENE.
-Je vous veux croire, hé bien Achille m'ayme,  
+        Je vous veux croire, hé bien Achille m'ayme,  
 Il me veut quelque bien, j'en fais aussi de mesme.  
 
     ACHILLE.
 Vous m'aymez ?  
 
     POLIXENE.
-Il est vray, je vous le dis encor,  
+        Il est vray, je vous le dis encor,  
 Comme je puis aymer l'homicide d'Hector.  
 
     ACHILLE.
@@ -1203,7 +1203,7 @@ Qui nous doive empescher d'y jetter de la flame ?
 Que pretendez-vous donc ?  
 
     ACHILLE.
-Je veux que ces ingras  
+        Je veux que ces ingras  
 Usent de mon conseil comme ils font de mon bras.  
 
     ULISSE.
@@ -1259,7 +1259,7 @@ Plutost je tombe vif dans l'Erebe [125] effroyable,
 Plutost.  
 
     AJAX.
-Allons, Ulysse, il est inexorable,  
+        Allons, Ulysse, il est inexorable,  
 Ce mouvement cruël en luy n'est pas nouveau,  
 Il verroit tout en feu qu'il plaindroit un peu d'eau [126] ;  
 Allons où la valeur esclate, & se renomme,  
@@ -1323,7 +1323,7 @@ J'ay peur que l'inconstance ait terny vostre gloire.
 Vous m'accusez à tort.  
 
     BRISEIDE.
-Hé bien je le veux croire  
+        Hé bien je le veux croire  
 Que tousjours sur vostre ame un mesme amour agit,  
 “ Mais on peut accuser l'innocent qui rougit.  
 Briseide en beauté le cede à Polixene,  
@@ -1495,7 +1495,7 @@ Sommes-nous les vaincus, ou les victorieux ?
 Comment va le combat ?  
 
     PARIS.
-Tout va bien grace aux Dieux,  
+        Tout va bien grace aux Dieux,  
 L'armee [136] est en deroutte, elle a pris l'espouvante,  
 La bataille nous est glorieuse, & sanglante.  
 
@@ -1522,7 +1522,7 @@ Nous triomphons pourtant, & le champ nous demeure.
 Et vos freres, Pâris ?  
 
     PARIS.
-Ils combattent sur l'heure,  
+        Ils combattent sur l'heure,  
 Mille escadrons vaincus rendent l'ame à leurs pieds,  
 Pour moy j'en suis sorty comme vous me voyez,  
 Je ne compare point mes faits à ceux d'Alcide,  
@@ -1536,7 +1536,7 @@ Qu'à suplier les Dieux qu'ils ne nous ostent rien.
 Mais mon frere, Troile ?  
 
     PARIS.
-Il est comme une foudre,  
+        Il est comme une foudre,  
 Qui brise, qui sacage, & qui met tout en poudre,  
 Ses regards menaçans sont des éclairs d'horreur,  
 Et son front est un ciel ou tonne la terreur,  
@@ -1563,7 +1563,7 @@ Achille n'est pas homme à souffrir un outrage [137].
 Où va-t'il s'engager ?  
 
     HECUBE.
-Quel accident voilà,  
+        Quel accident voilà,  
 Dieux ! mais pourquoy le craindre ? ils n'en viendront pas là,  
 En faveur de l'objet du feu qui le consomme,  
 Achille excusera cette ardeur de jeune homme.  
@@ -1601,13 +1601,13 @@ Il finira ma honte, & le soupçon des Grecs.
 Mais Polixene ?  
 
     ACHILLE.
-ô Dieux !  
+    ô Dieux !  
 
     ALCIMEDE.
-Vous l'aimez ?  
+    Vous l'aimez ?  
 
     ACHILLE.
-Je l'adore [139].  
+        Je l'adore [139].  
 
     ALCIMEDE
 N'allez point au combat, si vous l'aymez encore,  
@@ -1885,7 +1885,7 @@ Ce naufrage dernier les approche du port,
 Je travaille à leur paix,  
 
     ALCIMEDE.
-Ouy, mais Troile est mort [152].  
+        Ouy, mais Troile est mort [152].  
 
     ACHILLE.
 Sa temerité seule est cause qu'il succombe,  
@@ -1983,7 +1983,7 @@ Crains-tu quelque ennemy quand ton oeil me contemple ?
 Nos gens ne sont pas loin ?  
 
     DEIPHOBE.
-A la porte du Temple.  
+        A la porte du Temple.  
 
     ACHILLE.
 Mars n'oseroit tonner sur moy, ny sur les miens.  
@@ -1992,13 +1992,13 @@ Mars n'oseroit tonner sur moy, ny sur les miens.
 Mais vous estes mortel.  
 
     PARIS *l'apercevant.*
-Le voicy, je te tiens.  
+        Le voicy, je te tiens.  
 
     ALCIMEDE.
 Vostre danger est grand.  
 
     ACHILLE.
-“ Qui dans son entreprise  
+        “ Qui dans son entreprise  
 “ Voit tousjours le danger à la fin le mesprise :  
 Mais je n'ay pas sujet de craindre en ce lieu-cy,  
 Je ne me vis jamais plus seurement qu'icy,  
@@ -2008,7 +2008,7 @@ Je goute le repos des plus lasches humains,
 Loin des coups, dans un Temple.  
 
     ALCIMEDE.
-Et c'est pourquoy je crains.  
+        Et c'est pourquoy je crains.  
 
     PARIS *prest à porter son coup.*
 Je sçay l'endroit fatal où je dois faire breche,  
@@ -2022,7 +2022,7 @@ Qui viendroit m'attaquer ? mais Dieux ! je suis blessé.
 A nous, Troyens, à nous.  
 
     ALCIMEDE *l'espée à la main.*
-Assassins execrables !  
+        Assassins execrables !  
 
     ACHILLE *se voulant deffendre* [159].
 Je vengeray ma mort, infames, detestables,  
@@ -2046,7 +2046,7 @@ Je souffre ce trespas, dy moy qui me l'envoye,
 Et qui l'a conspiré ?  
 
     PARIS *s'en allant.*
-Moy, Polixene, & Troye.  
+        Moy, Polixene, & Troye.  
 
     ALCIMEDE *mourant.*
 Pour vous faire éviter ce funeste accident,  
@@ -2085,7 +2085,7 @@ Il aperçoit Achille.
 O Ciel !  
 
     ACHILLE.
-Coulle, mon sang, Polixene le veut.  
+        Coulle, mon sang, Polixene le veut.  
 
     ULISSE.
 Que voy-je ? Achille meurt, son propre sang le noye,  
@@ -2120,7 +2120,7 @@ Ce sont de l'ennemy les plus douces humeurs,
 Voilà comme il nous flatte.  
 
     ACHILLE, *il meurt*.
-Il est vray, mais je meurs.  
+        Il est vray, mais je meurs.  
 
     ULISSE.
 D'une eternelle nuit sa paupiere est couverte,  
@@ -2143,7 +2143,7 @@ Mais que veut ce Gregeois ?
 ## SCENE SEPTIESME.
 
     SOLDAT *voyant Achille mort.*
-Funestes aventures !  
+        Funestes aventures !  
 Je voy ce qu'ont predit tant de tristes augures,  
 Le camp sans les sçavoir commence à s'attrister,  
 Et Briseide vient de se precipiter [163].  
@@ -2502,7 +2502,7 @@ Il vous peut rendre encore un fidelle service.
 Souvenez-vous d'Ajax.  
 
     ULISSE.
-Souvenez-vous d'Ulisse.  
+        Souvenez-vous d'Ulisse.  
 
     AGAMEMNON.
 Tout le conseil s'estant rassis.
@@ -2584,7 +2584,7 @@ Vous voulez qu'il vous serve, & vous ne l'armez pas,
 On me prefere Ulisse [183] !  
 
     AGAMEMNON.
-Ha ! sa fureur l'emporte.  
+        Ha ! sa fureur l'emporte.  
 
     AJAX, *Il tire son espée.*
 Mais sçachez que ma cause est tousjours la plus forte,  
@@ -2605,7 +2605,7 @@ Dy moy, mon desespoir, quel chemin je suivray,
 Que feray-je vaincu ?  
 
     AGAMEMNON.
-Son courage est à craindre.  
+        Son courage est à craindre.  
 
     ULISSE.
 C'est enflamer ce feu que le vouloir esteindre,  
@@ -2630,7 +2630,7 @@ Il se donne un coup [185]
 Hé, de grace !  
 
     AJAX, *il s'en donne encore un.*
-Mourons, ha qu'aujourd'huy ma mort  
+        Mourons, ha qu'aujourd'huy ma mort  
 Affoiblit, & r'enforce, est utille, & fait tort !  
 Mais dans mon sang ma vie, & ma honte se noye,  
 Puis qu'Ajax est tombé, subsiste, heureuse Troye.  

@@ -1,5 +1,5 @@
 ---
-identifier: desfontaines_perside  
+identifier: desfontaines-perside  
 creator: Desfontaines, Nicolas  
 date: 1644  
 title: Perside, ou la Suite d'Ibrahim Bassa. Tragédie.  
@@ -446,7 +446,7 @@ Qu'à vostre occasion Eraste m'a fait voir
 Vous chocquent.  
 
     HERMINIE.
-Non Seigneur, il a fait son devoir,  
+        Non Seigneur, il a fait son devoir,  
 Il te doit cet honneur, il te doit cet hommage.  
 
     SOLIMAN.
@@ -509,7 +509,7 @@ Voilà desja Madame un effet de vos charmes,
 J'en doute.  
 
     SOLIMAN.
-Cependant va mettre bas les armes.  
+        Cependant va mettre bas les armes.  
 Et puis viens temoigner que tu peux tour à tour  
 Joindre aux Lauriers [26] de Mars les myrthes [27] de l'amour.  
 
@@ -573,7 +573,7 @@ Connoissant une amour [30] et si rare et si forte
 Mais on nous interompt.  
 
     SOLIMAN.
-Qu'est-ce ? achevez n'importe.  
+        Qu'est-ce ? achevez n'importe.  
 
     HERMINIE.
 Non Seigneur, ta Hautesse aura plus de plaisir  
@@ -589,14 +589,14 @@ SOLIMAN. HERMINIE. et suitte.
 
 
     SOLIMAN.
-Parlez, qui vous ameine ?  
+        Parlez, qui vous ameine ?  
 
     PYRRHUS.
 Je te viens advertir qu'Achmat vient d'arriver  
 Il demande à te voir  
 
     SOLIMAN.
-Qu'il me vienne trouver  
+        Qu'il me vienne trouver  
 
     PYRRHUS.
 Je croy pour cet effect qu'il attend à la porte,  
@@ -605,13 +605,13 @@ Je croy pour cet effect qu'il attend à la porte,
 Qu'il entre.  
 
     HERMINIE.
-N'est-il pas à propos que je sorte ?  
+        N'est-il pas à propos que je sorte ?  
 
     SOLIMAN.
 Vous le pouvez.  
 
     HERMINIE.
-Adieu.  
+    Adieu.  
 
 
 ### SCENE QUATRIESME
@@ -619,7 +619,7 @@ SOLIMAN, PYRRHUS, ACHMAT, PERSIDE, et suitte.
 
 
     SOLIMAN.
-Que voy-je justes Dieux ?  
+        Que voy-je justes Dieux ?  
 Quel Ange de lumiere apparoit à mes yeux ?  
 Celle qu'on dit jadis qui regnoit en Cythere [31]  
 Et qu'autresfois amour advoüa pour sa mere,  
@@ -639,7 +639,7 @@ Ta puissance aujourd'huy sur elle souveraine
 En peut faire une esclave.  
 
     SOLIMAN.
-Ou plutost une Reyne  
+        Ou plutost une Reyne  
 Oui Madame, esperez de mon affection  
 Des faveurs au-delà de vostre ambition,  
 Attendez tout de moy grandeur⁎, sceptre, couronne  
@@ -662,7 +662,7 @@ Qu'un plus juste desir me conservait le jour,
 Mais mon espoir est mort.  
 
     SOLIMAN.
-Et non pas mon amour,  
+        Et non pas mon amour,  
 Cessez chere beauté de m'estre si cruelle.  
 Ou si vous imittez cette ville rebelle.  
 Dont l'obstination m'a bravé si longtemps  
@@ -704,7 +704,7 @@ Que ce prochain Palais vous serve de demeure.
 Prenez-en soin Achmat.  
 
     PERSIDE, *s'en allant.*
-Que mon sort seroit beau  
+        Que mon sort seroit beau  
 Si plutost qu'un palais il m'offroit un tombeau [35].  < FIN DU PREMIER ACTE. >
 
 
@@ -787,7 +787,7 @@ Que de ses propre mains enfin je l'ay sauvée.
 Où la trouvastes-vous ?  
 
     ACHMAT.
-Au fonds de son palais  
+        Au fonds de son palais  
 Où n'attendant plus rien d'autre qu'un succés tres mauvais,  
 Cette fiere beauté toute desesperée  
 S'estoit lors pour mourir sans doute retirée.  
@@ -881,7 +881,7 @@ SOLIMAN, HERMINIE.
 
 
     SOLIMAN.
-Vous verrez Herminie  
+        Vous verrez Herminie  
 Ce que peut la vertu sur un noble Genie,  
 
     HERMINIE.
@@ -912,7 +912,7 @@ SOLIMAN, HERMINIE, PERSIDE, ACHMAT.
 
 
     SOLIMAN.
-Ah traits [41] imperieux!  
+        Ah traits [41] imperieux!  
 Regards qui triomphez des plus superbes⁎ ames  
 Que je cheris vos coups, mais que je crains vos flames⁎ !  
 Qu'ay-je dit ? que ferai-je ? helas qu'ai-je promis ?  
@@ -972,7 +972,7 @@ Emporté quant et⁎ luy mes vœux et mon amour.
 Prodigieuse ardeur ?  
 
     ACHMAT.
-Admirable constance,  
+        Admirable constance,  
 
     SOLIMAN.
 Qu'opposeray-je plus à cette resistance ?  
@@ -990,7 +990,7 @@ Est le noble party que ma main vous destine
 Je veux que vous l'aymyez.  
 
     PERSIDE.
-Ah ! ce trait⁎ m'assassine,  
+        Ah ! ce trait⁎ m'assassine,  
 Je veux que vous l'aymiez, vouloir imperieux ?  
 Dispose-tu des cœurs ? dispose-tu des yeux ?  
 Je veux que vous l'aymiez ! d'où naistra cette flame ?  
@@ -1045,21 +1045,21 @@ SOLIMAN, PERSIDE, HERMINIE, ACHMAT, PYRRHUS, ERASTE,
 Eraste  
 
     PERSIDE.
-Justes Dieux !  
+    Justes Dieux !  
 
     SOLIMAN.
-Cet adorable objet  
+        Cet adorable objet  
 Que le sort de la guerre a rendu mon sujet,  
 Quoy ? tu trembles.  
 
     ERASTE.
-Mes yeux, qu'avez-vous veu paroistre ?  
+        Mes yeux, qu'avez-vous veu paroistre ?  
 
     SOLIMAN.
 Connois-tu cet objet ?  
 
     ERASTE.
-Je le dois bien connoistre.  
+        Je le dois bien connoistre.  
 Ah Perside ! ah Seigneur ! permets que devant toy  
 Je luy rende à genoux l'honneur que je luy doy,  
 Je sçay que ce respect n'est deu qu'à ta Hautesse  
@@ -1067,7 +1067,7 @@ Mais pardonne à l'amour cette juste tendresse,
 Perside.  
 
     PERSIDE.
-Cher Eraste, ah ! que mon sort est doux  
+        Cher Eraste, ah ! que mon sort est doux  
 Qu'heureux sont les malheurs qui me rendent à vous ?  
 Ah ! vous me faites tort par cette defference⁎  
 Levez-vous, c'est assez, Soliman s'en offence.  
@@ -1090,7 +1090,7 @@ Tu confirmes icy le don que tu m'a faict.
 Eraste qu'en dis-tu ?  
 
     ERASTE.
-Que mon ame est charmée  
+        Que mon ame est charmée  
 A l'aspect des beaux yeux dont elle est emflammée,  
 Que mes sens confondus en cette occasion  
 Prennent ce que je vois pour une illusion,  
@@ -1125,7 +1125,7 @@ Me fit auprés de toy rechercher un asile,
 Qui causa ce desordre ?  
 
     PERSIDE.
-Un celebre tournois  
+        Un celebre tournois  
 Où parut son adresse en mille beaux exploits.  
 
     ERASTE.
@@ -1204,7 +1204,7 @@ Pour faire par mon sang raison à ton amour.
 J'en puis estre tesmoing.  
 
     ERASTE.
-O vertu sans pareille!  
+        O vertu sans pareille!  
 Vouloir pour moy mourir ? ô prodige !ô merveille !  
 Rare exemple d'amour, et de fidelité  
 Que ne vous dois-je point aprés cette bonté,  
@@ -1235,7 +1235,7 @@ Soliman aujourd'huy s'accorde à vos desirs,
 Perside est pour Eraste.  
 
     ERASTE.
-O grace⁎ inesperée.  
+        O grace⁎ inesperée.  
 
     PERSIDE.
 Puisse estre ta Hautesse en tous lieux adorée,  
@@ -1294,13 +1294,13 @@ Un jour il vous pourra ceder à vostre Amant.
 A mon Amant ! à qui ?  
 
     ALCOMIRE.
-Vostre cœur en souspire.  
+        Vostre cœur en souspire.  
 Et vos yeux malgré vous disent vostre martyre,  
 Ne dissimulez plus advoüez franchement  
 Que sa discretion⁎ vous touche.  
 
     HERMINIE.
-Nullement,  
+        Nullement,  
 
     ALCOMIRE.
 Lorsque d'un si beau trait nous nous sentons atteindre  
@@ -1314,19 +1314,19 @@ Montre par ses soupirs les blessures de l'ame.
 Je souspire il est vray, Mais...  
 
     ALCOMIRE.
-O dieux que je crains !  
+        O dieux que je crains !  
 Elle ayme mon amant.  
 
     HERMINIE.
-Que mes soupirs sont vains ;  
+        Que mes soupirs sont vains ;  
 J'ayme j'ayme, et l'objet où [51] mon amour aspire  
 C'est Soliman.  
 
     ALCOMIRE.
-He bien.  
+    He bien.  
 
     HERMINIE.
-Tu soubzris Alcomire,  
+        Tu soubzris Alcomire,  
 Mais sâche qu'un grand cœur pour estre malheureux  
 N'a point de sentimens qui ne soient genereux,  
 Et quand il tomberoit du trosne en l'esclavage  
@@ -1355,7 +1355,7 @@ Achmat je le confesse, est genereux, et brave
 Mais c'est trop peu pour toy.  
 
     HERMINIE.
-C'est trop pour un esclave,  
+        C'est trop pour un esclave,  
 Mais quelque passion qui te puisse enflammer  
 Mon esprit ne sçauroit se resoudre⁎ à l'aymer.  
 
@@ -1364,7 +1364,7 @@ Aussi vaut-il mieux estre Sultane Reyne
 Que femme d'un Bassa⁎.  
 
     HERMINIE.
-Tu me veux rendre vaine,  
+        Tu me veux rendre vaine,  
 Mais de peur que l'appas⁎ de ce subtil poison  
 Ne seduise mon cœur et trouble ma raison,  
 Souffre que je l'évite et que je me retire,  
@@ -1373,7 +1373,7 @@ Souffre que je l'évite et que je me retire,
 Adieu belle Herminie,  
 
     HERMINIE.
-Adieu chere Alcomire,  
+        Adieu chere Alcomire,  
 
 
 ### SCENE SECONDE
@@ -1388,13 +1388,13 @@ Si la belle Herminie est l'objet de sa flame,
 Quoy resveur et pensif ?  
 
     ACHMAT.
-adjoute encore Amant.  
+        adjoute encore Amant.  
 
     ALCOMIRE .
 D'un objet sans pareil ?  
 
     ACHMAT.
-Ah ! dieux qu'il est charmant  
+        Ah ! dieux qu'il est charmant  
 Mais que de peu d'espoir mon amour est suivie.  
 Et qu'inutilement mon ame en est ravie⁎.  
 
@@ -1480,7 +1480,7 @@ Un juste eschange veut que ce prix m'appartienne,
 Je le dois esperer.  
 
     ALCOMIRE. *à Part*
-Tu t'en promets beaucoup  
+        Tu t'en promets beaucoup  
 Mais j'auray peu d'adresse ou je rompray ce coup.  
 Allez allez Achmat, allez voir cette belle  
 Desjà malgré le corps vostre esprit est chez elle,  
@@ -1567,7 +1567,7 @@ Dependent tout à faict de cette qualité,
 Il l'ayme il l'ayme encor.  
 
     PERSIDE.
-Ah ! Seigneur ta Hautesse,  
+        Ah ! Seigneur ta Hautesse,  
 Veut esprouver icy jusqu'où va ma foiblesse,  
 Mais je puis asseurer que mon ambition  
 Se limite au bonheur de mon affection,  
@@ -1575,7 +1575,7 @@ Et que si je pretens au rang de souverayne,
 Ce n'est que sur un cœur.  
 
     SOLIMAN.
-He bien belle inhumaine  
+        He bien belle inhumaine  
 Ce cœur est sous vos loix, il n'obeït qu'à vous [60].  
 
     PERSIDE.
@@ -1586,14 +1586,14 @@ Et je t'en dois Seigneur, un eternel hommage.
 Que ce discours me plaist !  
 
     HERMINIE. *à Part.*
-Mais helas ! qu'il m'outrage.  
+        Mais helas ! qu'il m'outrage.  
 
     SOLIMAN. *à Achmat.*
 He bien mon cher Achmat, est-il sous le Soleil,  
 Un Prince plus heureux ?  
 
     ACHMAT.
-Ton heur⁎ [61] est sans pareil,  
+        Ton heur⁎ [61] est sans pareil,  
 Et tes prosperités esgallent ta puissance :  
 Mais Seigneur, ton Achmat attend sa recompence,  
 Tu sçays ce qu'il a faict, et tu luy dois donner.  
@@ -1612,7 +1612,7 @@ Seigneur ton Herminie est l'objet de mes vœux ?
 Et tu l'es de ma haine  
 
     SOLIMAN.
-Achmat ouy je le veux,  
+        Achmat ouy je le veux,  
 J'accorde à vos desirs cette belle Herminie.  
 
     HERMINIE
@@ -1628,14 +1628,14 @@ Quel insigne malheur te porte à me haïr,
 Jusqu'au point...  
 
     SOLIMAN
-C'est assez, il me faut obeïr.  
+        C'est assez, il me faut obeïr.  
 
     HERMINIE
 Triste commandement ! rigoureuse contrainte !  
 Mourons, mourons plustost.  
 
     SOLIMAN
-Estouffez cette plainte.  
+        Estouffez cette plainte.  
 Achmat allez la rendre à son appartement  
 Et là vous acquitez des devoirs d'un Amant.  
 Ils sortent.
@@ -1721,13 +1721,13 @@ Mais c'est trop escouter un discours qui m'outrage
 Sortons.  
 
     SOLIMAN.
-Adieu cruelle⁎.  
+    Adieu cruelle⁎.  
 
 
 ### SCENE SIXIESME
 
     SOLIMAN *Seul.*
-O Desespoir [65] ! o rage [66] ?  
+        O Desespoir [65] ! o rage [66] ?  
 He ! bien, que feras-tu Soliman ? Ce mespris  
 N'est-il pas suffisant à guerir tes esprits ?  
 Ah bien loin de destruire il augmente ma flame  
@@ -1770,13 +1770,13 @@ Vous n'estes plus à vous, et vous estes à moy,
 Soliman qui peut tout.  
 
     HERMINIE.
-Ne peut rien sur ma foy⁎.  
+        Ne peut rien sur ma foy⁎.  
 
     ACHMAT.
 Vous estes son esclave.  
 
     HERMINIE.
-Ouy mais non pas la tienne.  
+        Ouy mais non pas la tienne.  
 
     ACHMAT.
 Vous devez obeïr puisque vous estes sienne,  
@@ -1796,12 +1796,12 @@ Je vous entends Madame, et je sçay vos desseins
 Mais il ayme Perside.  
 
     HERMINIE
-Et ses feux seront vains.  
+        Et ses feux seront vains.  
 Puis qu'au gré de ses vœux Eraste la possede  
 Cet obstacle est puissant,  
 
     ACHMAT
-J'en sçay bien le remede.  
+        J'en sçay bien le remede.  
 
     HERMINIE
 Va, va mettre en effect tes projets inhumains,  
@@ -1938,7 +1938,7 @@ Et rien n'est assez fort pour rompre un noeud si beau.
 Croy-tu que ta Perside.  
 
     ERASTE
-Ah ! cesse ma chere ame  
+        Ah ! cesse ma chere ame  
 Je douterois à tort des ardeurs de ta flame⁎,  
 La crainte et les soupçons dont je suis combatu  
 Attaquent mon repos et non pas ta vertu.  
@@ -2025,21 +2025,21 @@ Pour me mieux consoler fay-moi voir ta constance
 Adieu donc cher Eraste.  
 
     ERASTE
-Adieu Madame.  
+    Adieu Madame.  
 
     PERSIDE
-helas !  
+        helas !  
 Te reverray-je encor ?  
 
     ERASTE
-Non ne l'esperes pas ?  
+        Non ne l'esperes pas ?  
 Adieu.  
 
 
 ### SCENE CINQUIESME
 
     PERSIDE *seule*
-Capricieuse et bizare fortune  
+        Capricieuse et bizare fortune  
 Apres un doux effet que tu m'es importurne,  
 Que d'un trouble soudain mon repos est suivy,  
 A peine ay-je un bonheur que je le voy ravy,  
@@ -2091,14 +2091,14 @@ Achmat la diligence⁎ est tousjours necessaire,
 Faictes venir Eraste allez,  
 
     ACHMAT
-Prends ce soucy⁎  
+        Prends ce soucy⁎  
 Pyrrhus, va, ma presence est necessaire icy,  
 
     PYRRUS
 J'y vay,  
 
     ACHMAT
-Qu'il vienne tost, vole.  
+    Qu'il vienne tost, vole.  
 
 
 ### SCENE SEPTIESME
@@ -2106,7 +2106,7 @@ SOLIMAN, ACHMAT, HALY,
 
 
     SOLIMAN.
-Eraste, Perside,  
+        Eraste, Perside,  
 Qu'à vostre occasion [72] je suis lâche et timide  
 Que dedans [73] mes desirs je suis peu resolu,  
 
@@ -2118,10 +2118,10 @@ Voy comme aupres de toy Perside est sans respect,
 Et qu'Eraste.  
 
     SOLIMAN.
-Achevez....  
+    Achevez....  
 
     HALY.
-Te doit estre suspect.  
+        Te doit estre suspect.  
 
     SOLIMAN.
 Ah ! ne l'offensez pas je connois trop son zele,  
@@ -2160,10 +2160,10 @@ Le perfide⁎ l'ingrat⁎ ! Il faut le prevenir.
 Ce n'est pas assez.  
 
     SOLIMAN.
-Quoy doncq ?  
+    Quoy doncq ?  
 
     ACHMAT.
-Crains l'advenir  
+        Crains l'advenir  
 L'affront qu'il recevra va piquer son courage⁎  
 Et bien qu'un feint respect te deguise sa rage,  
 Il pourra tost ou tard par de lasches complots  
@@ -2174,7 +2174,7 @@ En cette occasion qu'est-il besoing de faire ?
 Que me conseillez-vous ?  
 
     HALY.
-De perdre un temeraire⁎,  
+        De perdre un temeraire⁎,  
 Qui conspire dans l'ame à te priver du jour  
 Qui s'oppose à ta gloire et nuit à ton amour.  
 
@@ -2283,7 +2283,7 @@ Vous apprendrez bientost à respecter ma gloire,
 Emmenez-le Pyrrhus.  
 
     ERASTE.
-Je n'y recule pas  
+        Je n'y recule pas  
 Et mesme si tu veux nous irons au trépas.  
 
 
@@ -2313,10 +2313,10 @@ Son trespas est le mien et sa vie est la mienne ?
 Qu'il vive doncq qu'il vive.  
 
     ACHMAT.
-Ah ! Seigneur.  
+    Ah ! Seigneur.  
 
     SOLIMAN.
-Laissez-moy,  
+        Laissez-moy,  
 Eraste est innocent, ces drapeaux que je voy ;  
 Me parlent hautement en faveur de son zele.  
 
@@ -2324,7 +2324,7 @@ Me parlent hautement en faveur de son zele.
 Mais Perside Seigneur....  
 
     SOLIMAN.
-Non il est infidele.  
+        Non il est infidele.  
 Pers donc sans differer celuy qui nous ayma  
 Celuy qui nous servist, celui qui nous charma,  
 Va Haly, s'en est fait, mon amour veut qu'il meure  
@@ -2412,7 +2412,7 @@ ACHMAT, HERMINIE.
 
 
     ACHMAT.
-Belle ingratte⁎  
+        Belle ingratte⁎  
 Il faut enfin quitter cet espoir qui vous flatte,  
 Vous aymez Soliman, mais il n'est pas pour vous  
 Et Perside à ses yeux a des attraits⁎ plus doux,  
@@ -2444,7 +2444,7 @@ HERMINIE PYRRHUS.
 Dieux qu'est-ce que je voids ?  
 
     HERMINIE.
-Pyrrus où fuyez-vous ?  
+        Pyrrus où fuyez-vous ?  
 Advancez, et voyez l'effect⁎ de mon couroux,  
 J'ai fait cet homicide, et je veux qu'on le sçache  
 Veu qu'en l'executant je n'ai rien fait de lâche⁎,  
@@ -2483,7 +2483,7 @@ Enlevez seulement ce corps de ma presence,
 Allez.  
 
     PYRRHUS.
-Par un endroit qui regarde la mer,  
+        Par un endroit qui regarde la mer,  
 Assez proche d'icy je le vais [77]abismer,  
 De peur que pour ce coup nous ne soyons en peine.  
 
@@ -2508,19 +2508,19 @@ PERSIDE, HERMINIE, ORMANE,
 Cher Eraste !  
 
     ORMANE.
-Arrestez . Où courez-vous Madame,  
+        Arrestez . Où courez-vous Madame,  
 
     HERMINIE.
 Est-ce Perside ô Dieux ?  
 
     PERSIDE.
-Eraste ma chere ame.  
+        Eraste ma chere ame.  
 
     HERMINIE.
 C'est elle.  
 
     PERSIDE.
-Cher Eraste, où fuis-tu de mes yeux ?  
+        Cher Eraste, où fuis-tu de mes yeux ?  
 Pour la derniere fois je te vis en ces lieux,  
 Ne t'y verrai-je plus ? qu'est-ce qui t'en separe ?  
 Helas ! d'un seul moment ne me sois pas avare,  
@@ -2547,20 +2547,20 @@ L'air avec mon espoir emporte mes paroles.
 Il est mort, il est mort.  
 
     ORMANE.
-Arrestez ces clameurs  
+        Arrestez ces clameurs  
 Madame .  
 
     HERMINIE.
-Appaisez-vous.  
+    Appaisez-vous.  
 
     PERSIDE.
-Ah ! je pasme⁎ ! ah je meurs !  
+        Ah ! je pasme⁎ ! ah je meurs !  
 
     HERMINIE.
 Perside … ouvre les yeux.  
 
     ORMANE.
-Ah ! sa douleur l'emporte  
+        Ah ! sa douleur l'emporte  
 Rendez-la juste Ciel moins sensible⁎ et moins forte,  
 Et ne permettez pas que son cœur abatu  
 Perde dans ce malheur sa premiere vertu,  
@@ -2569,7 +2569,7 @@ Perde dans ce malheur sa premiere vertu,
 Courage, elle revient.  
 
     PERSIDE.
-Odieuse lumiere,  
+        Odieuse lumiere,  
 Pourquoy viens-tu couvrir ma débile⁎ paupiere ?  
 Pourquoy fay-tu pour moi ce pitoyable⁎ effort ?  
 Que ne me laisses-tu dans les bras de la mort,  
@@ -2621,7 +2621,7 @@ C'est où mon desespoir aujourd'huy me convie
 C'est où tend ma fureur⁎.  
 
     HERMINIE.
-Ah! quittez cette envie,  
+        Ah! quittez cette envie,  
 Songez plus d'une fois à ce coup important,  
 Et ne vous perdez pas en le precipitant :  
 Où voulez-vous courir ? et que pensez-vous faire ?  
@@ -2694,27 +2694,27 @@ Pyrrus frape à la porte de Perside.
 Que voulez-vous ?  
 
     HALY.
-Je demande Perside.  
+        Je demande Perside.  
 
     ORMANE.
 Qui ?  
 
     HALY.
-C'est le grand Seigneur.  
+    C'est le grand Seigneur.  
 
     PERSIDE.* paroissant au balcon, bas.*
-Ah c'est mon homicide  
+        Ah c'est mon homicide  
 Je ne le connois point et mon Seigneur est mort,  
 Allez retirez-vous.  
 
     SOLIMAN.
-Pyrrhus frappez plus fort,  
+        Pyrrhus frappez plus fort,  
 Et si l'on ne vous ouvre, en cette resistance,  
 Faites agir la force avec la violence.  
 Brisez tout, rompez tout.  
 
     PERSIDE.
-Arrestez insolens  
+        Arrestez insolens  
 Ou je sçauray punir ces efforts violens.  
 
     PYRRHUS.
@@ -2730,12 +2730,12 @@ Il obeït.
 
 
     PYRRHUS
-J'enrage,  
+        J'enrage,  
 Quoy manquer de respect pour toy son Empereur,  
 Je creve de depit.  
 
     PERSIDE.
-Calme cette fureur⁎,  
+        Calme cette fureur⁎,  
 Il te sied mal Pyrrhus à faire le bravache⁎  
 Ayant le cœur si bas, le courage⁎ si lâche,  
 Et l'ame si contraire aux belles actions  
@@ -2759,7 +2759,7 @@ Faites dessus son corps mille mortelles breches,
 Chatiez son orgueil.  
 
     HALY
-Il en tient, il est mort  
+        Il en tient, il est mort  
 
     PERSIDE
 O favorable trait ? ô bien heureux effort  
@@ -2791,7 +2791,7 @@ Les rais d'une clarté qui n'eut point de seconde.
 Que dit-elle ! ô malheur.  
 
     HERMINIE.
-Ce que tu pourras voir.  
+        Ce que tu pourras voir.  
 
     SOLIMAN.
 Allons allons lui rendre un funeste⁎ devoir  
@@ -2826,7 +2826,7 @@ Reçoy-la cher Eraste au partir de ces lieux
 Et prens....  
 
     SOLIMAN.
-Attens un peu, Perside, ouvre les yeux.  
+        Attens un peu, Perside, ouvre les yeux.  
 Differes d'un moment ce trespas pitoyable⁎  
 Et vois par ses remords expirer un coupable,  
 Voy quelle est sa douleur, quel est son repentir  

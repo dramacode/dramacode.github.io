@@ -1,5 +1,5 @@
 ---
-identifier: corneille_medee  
+identifier: corneille-thomas_medee  
 creator: Corneille, Thomas  
 date: 1693  
 title: Médée. Tragédie  
@@ -643,7 +643,7 @@ Rendons-luy des honneurs dignes de sa presence.
 Rendons-luy des honneurs dignes des grands exploits          
 Qui consacrent le Nom du plus puissant des Roys.  
 
-    CHŒURS D’HABITANS & DE BERGERS HEROÏQUES. 
+    CHŒURS D’HABITANS & DE BERGERS HEROÏQUES.
 LOUIS est triomphant, tout céde à sa puissance,  
 La Victoire en tous lieux, fait reverer ses Loix.  
 Pour la voir avec nous toujours d'intelligence,  
@@ -789,7 +789,7 @@ Fin du Prologue.
  – Un petit Argien, déguisé en Amour.
  – Troupe de Captifs de l'Amour.
  – Troupe de Demons.
- – Phantomes< Medée, tragedie. >
+ – Phantomes< Medée,tragedie. >
 
 
 ## Acte premier.
@@ -833,7 +833,7 @@ Et lorsqu'en ce peril, comme l'amour l'ordonne,
 Jason veut de Créüse aquerir la faveur,  
 Faut-il que ce soins⁎ vous étonne ?  
 
-    MEDÉE. 
+    MEDÉE.
 Qu'il soit abandonné de Créüse & du Roy,  
 S'il luy faut un appuy, ne l'a-t-il pas en moy ?  
 Quand de Colchos il prit la fuite,  
@@ -892,7 +892,7 @@ La Princesse les doit retenir auprés d'elle.
 C'est estre genereuse.  
 
     JASON.
-Elle me laisse voir [98]  
+        Elle me laisse voir [98]  
 Que nous pouvons esperer d'avantage [99].  
 Sur son pere elle a tout pouvoir  
 Et j'attens tout du zele [100] où sa bonté l'engage.  
@@ -914,17 +914,17 @@ C'est flater le penchant [103] qui nous porte à l'aimer.
 Quoy [104] vous me soupçonnez ?  
 
     MEDÉE.
-Jason doit me connaistre ;  
+        Jason doit me connaistre ;  
 Il me coûte assez cher pour ne le perdre pas.  
 
     JASON.
 Ah ! que me dites-vous ?  
 
     MEDÉE
-Ce que je crains.  
+    Ce que je crains.  
 
     JASON.
-Helas !  
+        Helas !  
 Que ne puis-je faire paroître  
 Ce que mon cœur pour vous sera jusqu'au trépas !  
 
@@ -1501,7 +1501,7 @@ L'hommage est sincere,
 D'un amant qui veut plaire  
 L'hommage est constant.  
 
-    LES TROIS CAPTIFS. 
+    LES TROIS CAPTIFS.
 Aimer & l'oser dire,  
 C'est ce qu'il desire ;  
 Aimer & l'oser dire,  
@@ -1832,7 +1832,7 @@ La devorante ardeur⁎ de vos feux⁎ invisibles.
 Il paroît tout à coup une Troupe de Demons.
 
 
-    CHŒUR DE DEMONS. 
+    CHŒUR DE DEMONS.
 L'Enfer obéït à ta voix,  
 Commande, il va suivre tes loix [171].  
 
@@ -2353,7 +2353,7 @@ Le pouvoir d'un Pere & d'un Roy.
 Pourquoi precipiter un dessein…  
 
     MEDÉE.
-Point d'excuse.  
+        Point d'excuse.  
 Du trouble où je vous mets je connois la raison ;  
 Quand au Prince d'Argos vostre cœur se refuse,  
 Il veut se garder à Jason.  
@@ -2362,13 +2362,13 @@ Il veut se garder à Jason.
 Se garder à Jason ?  
 
     MEDÉE.
-Je sçay sa perfidie,  
+        Je sçay sa perfidie,  
 En luy vous aviez un amant ;  
 Mais on n'offence pas Medée impunément ;  
 D'une entreprise⁎ si hardie  
 L'Univers étonné verra le châtiment.  
 
-    CRÉÜSE. 
+    CRÉÜSE.
 Ah, reprenez Jason, & me rendez mon Pere.  
 Que Jason parte, & qu'il fuye avec vous.  
 
@@ -2415,7 +2415,7 @@ Ce que peut un prompt desespoir.
 Helas !  
 
     CLEONE.
-Dans ce malheur extrême,       
+        Dans ce malheur extrême,       
 Chacun s'est empressé de luy prêter secours.  
 Le Roy dans ce moment a terminé ses jours,  
 Du mesme fer il s'est percé luy-même [197].  
@@ -2566,7 +2566,7 @@ Les a ravis [208] à ta tendresse⁎.
 Ah barbare !  
 
     MEDÉE.
-Infidelle ! aprés ta trahison,  
+        Infidelle ! aprés ta trahison,  
 Ay-je dû voir mes fils dans les fils de Jason ?  
 
     JASON.

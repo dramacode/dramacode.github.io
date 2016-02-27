@@ -1,8 +1,8 @@
 ---
-identifier: racine_britannicus  
-creator: Racine  
-date: 1669  
-title: Britannicus  
+identifier: RACINE_BRITANNICUS  
+creator: RACINE, Jean  
+date: 1670  
+title: BRITANNICUS, TRAGÉDIE  
 ---
 
 
@@ -14,28 +14,21 @@ M. DC LXX. AVEC PRIVILÈGE DU ROI
 
 Jean Racine
 
-
-
-# Extrait du privilège du Roi
-
-Par grâce et privilège du Roi du 7ème janvier 1670. Signe DALENCE. Il est permis au Sieur Racine de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de Théâtre par lui composée, intitulée Britannicus. Tragédie : et ce pendant le temps et espace de cinq années, avec défense à toutes personnes de quelque qualité ou condition qu'elle soient, d'en vendre ni débiter aucun exemplaire, que de ceux qui auront été imprimé de son consentement, à peine de confiscation des exemplaires et autres peines portées par le dit privilège.
-
-Le sieur Racine a cédé le droit dudit privilège à Denis Thierry et à Claude Barbin, pour en jouir suivant le contenu en icelui.
-
-Registré sur le livre des marchands libraires et imprimeurs de Paris, suivant et conformément à l'arrêt du Parlement de Paris du huitième avril 1653 et celui du conseil privé du Roi, du 27 février 1665. Signé A. SOUBRON syndic.À PARIS, Chez CLAUDE BARBIN, au Palais, sur le second perron de la Sainte Chapelle.Représenté la première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
+# Extrait du privilège du Roi Par grâce et privilège du Roi du 7ème janvier 1670. Signe DALENCE. Il est permis au Sieur Racine de faire imprimer, vendre et débiter par tel libraire ou imprimeur qu'il aura choisi, une pièce de Théâtre par lui composée, intitulée Britannicus. Tragédie : et ce pendant le temps et espace de cinq années, avec défense à toutes personnes de quelque qualité ou condition qu'elle soient, d'en vendre ni débiter aucun exemplaire, que de ceux qui auront été imprimé de son consentement, à peine de confiscation des exemplaires et autres peines portées par le dit privilège. Le sieur Racine a cédé le droit dudit privilège à Denis Thierry et à Claude Barbin, pour en jouir suivant le contenu en icelui. Registré sur le livre des marchands libraires et imprimeurs de Paris, suivant et conformément à l'arrêt du Parlement de Paris du huitième avril 1653 et celui du conseil privé du Roi, du 27 février 1665. Signé A. SOUBRON syndic.À PARIS, Chez CLAUDE BARBIN, au Palais, sur le second perron de la Sainte Chapelle.
+Représenté la première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
 À MONSEIGNEUR LE DUC DE CHEVEREUSE
 
 
 
 # MONSEIGNEUR,
 
-Vous serez peut-être étonné de voir votre nom à la tête de cet ouvrage ; et si je vous avais demandé la permission de vous l'offrir, je doute si je l'aurais obtenue. Mais ce serait être en quelque sorte ingrat que de cacher plus longtemps au monde les bontés dont vous m'avez toujours honoré. Quelle apparence qu'un homme qui ne travaille que pour la gloire se puisse taire d'une protection aussi glorieuse que la vôtre ?
+Vous serez peut-être étonné de voir votre nom à la tête de cet ouvrage ; et si je vous avais demandé la permission de vous l'offrir, je doute si je l'aurais obtenue. Mais ce serait être en quelque sorte ingrat que de cacher plus longtemps au monde les bontés dont vous m'avez toujours honoré. Quelle apparence qu'un homme qui ne travaille que pour la gloire se puisse taire d'une protection aussi glorieuse que la vôtre ?
 
 Non, MONSEIGNEUR, il m'est trop avantageux que l'on sache que mes amis mêmes ne vous sont pas indifférents, que vous prenez part à tous mes ouvrages, et que vous m'avez procuré l'honneur de lire celui-ci devant un homme dont toutes les heures sont précieuses. Vous fûtes témoin avec quelle pénétration d'esprit il jugea l'économie de la pièce, et combien l'idée qu'il s'est formée d'une excellente tragédie est au-delà de tout ce que j'ai pu concevoir.
 
 Ne craignez pas, MONSEIGNEUR, que je m'engage plus avant, et que n'osant le louer en face, je m'adresse à vous pour le louer avec plus de liberté. Je sais qu'il serait dangereux de le fatiguer de ses louanges, et j'ose dire que cette même modestie, qui vous est commune avec lui, n'est pas un des moindres liens qui vous attachent l'un à l'autre.
 
-La modération n'est qu'une vertu ordinaire quand elle ne se rencontre qu'avec des qualités ordinaires. Mais qu'avec toutes les qualités et du cœur et de l'esprit, qu'avec un jugement qui, ce semble, ne devrait être le fruit que de l'expérience de plusieurs années, qu'avec mille belles connaissances que vous ne sauriez cacher à vos amis particuliers, vous ayez encore cette sage retenue que tout le monde admire en vous, c'est sans doute une vertu rare en un siècle où l'on fait vanité des moindres choses. Mais je me laisse emporter insensiblement à la tentation de parler de vous ; il faut qu'elle soit bien violente, puisque je n'ai pu y résister dans une lettre où je n'avais autre dessein que de vous témoigner avec combien de respect je suis,
+La modération n'est qu'une vertu ordinaire quand elle ne se rencontre qu'avec des qualités ordinaires. Mais qu'avec toutes les qualités et du coeur et de l'esprit, qu'avec un jugement qui, ce semble, ne devrait être le fruit que de l'expérience de plusieurs années, qu'avec mille belles connaissances que vous ne sauriez cacher à vos amis particuliers, vous ayez encore cette sage retenue que tout le monde admire en vous, c'est sans doute une vertu rare en un siècle où l'on fait vanité des moindres choses. Mais je me laisse emporter insensiblement à la tentation de parler de vous ; il faut qu'elle soit bien violente, puisque je n'ai pu y résister dans une lettre où je n'avais autre dessein que de vous témoigner avec combien de respect je suis,
 
 MONSEIGNEUR, Votre très humble et très obéissant serviteur,
 RACINE.
@@ -46,116 +39,114 @@ RACINE.
 
 De tous les ouvrages que j'ai donnés au public, il n'y en a point qui m'ait attiré plus d'applaudissements ni plus de censeurs que celui-ci. Quelque soin que j'ai pris pour travailler cette tragédie, il semble qu'autant que je me suis efforcé de la rendre bonne, autant de certaines gens se sont efforcés de la décrier. Il n'y a point de cabale qu'ils n'aient faite, point de critique dont ils ne se soient avisés. Il y en a qui ont pris même le parti de Néron contre moi. Ils ont dit que je le faisais trop cruel. Pour moi, je croyais que le nom seul de Néron faisait entendre quelque chose de plus que cruel. Mais peut-être qu'ils raffinent sur son histoire, et veulent dire qu'il était honnête homme dans ses premières années. Il ne faut qu'avoir lu Tacite pour savoir que, s'il a été quelque temps un bon empereur, il a toujours été un très méchant homme. Il ne s'agit point dans ma tragédie des affaires du dehors. Néron est ici dans son particulier et dans sa famille, et ils me dispenseront de leur rapporter tous les passages qui pourraient aisément leur prouver que je n'ai point de réparation à lui faire.
 
-D'autres ont dit, au contraire, que je l'avais fait trop bon. J'avoue que je ne m'étais pas formé l'idée d'un bon homme en la personne de Néron. Je l'ai toujours regardé comme un monstre. Mais c'est ici un monstre naissant. Il n'a pas encore mis le feu à Rome, il n'a pas encore tué sa mère, sa femme, ses gouverneurs : à cela près, il me semble qu'il lui échappe assez de cruautés pour empêcher que personne ne le méconnaisse.
+D'autres ont dit, au contraire, que je l'avais fait trop bon. J'avoue que je ne m'étais pas formé l'idée d'un bon homme en la personne de Néron. Je l'ai toujours regardé comme un monstre. Mais c'est ici un monstre naissant. Il n'a pas encore mis le feu à Rome, il n'a pas encore tué sa mère, sa femme, ses gouverneurs : à cela près, il me semble qu'il lui échappe assez de cruautés pour empêcher que personne ne le méconnaisse.
 
-Quelques-uns ont pris l'intérêt de Narcisse, et se sont plaints que j'en eusse fait un très méchant homme et le confident de Néron. Il suffit d'un passage pour leur répondre. "Néron, dit Tacite, porta impatiemment la mort de Narcisse, parce que cet affranchi avait une conformité merveilleuse avec les vices du prince encore cachés : Cujus abditis adhuc vitiis mire congruebat".
+Quelques-uns ont pris l'intérêt de Narcisse, et se sont plaints que j'en eusse fait un très méchant homme et le confident de Néron. Il suffit d'un passage pour leur répondre. "Néron, dit Tacite, porta impatiemment la mort de Narcisse, parce que cet affranchi avait une conformité merveilleuse avec les vices du prince encore cachés : Cujus abditis adhuc vitiis mire congruebat".
 
-Les autres se sont scandalisés que j'eusse choisi un homme aussi jeune que Britannicus pour le héros d'une tragédie. Je leur ai déclaré, dans la préface d'Andromaque, le sentiment d'Aristote sur le héros de la tragédie, et que bien loin d'être parfait, il faut toujours qu'il ait quelque imperfection. Mais je leur dirai encore ici qu'un jeune prince de dix-sept ans qui a beaucoup de cœur, beaucoup d'amour, beaucoup de franchise et beaucoup de crédulité, qualités ordinaires d'un jeune homme, m'a semblé très capable d'exciter la compassion. Je n'en veux pas davantage.
+Les autres se sont scandalisés que j'eusse choisi un homme aussi jeune que Britannicus pour le héros d'une tragédie. Je leur ai déclaré, dans la préface d'Andromaque, le sentiment d'Aristote sur le héros de la tragédie, et que bien loin d'être parfait, il faut toujours qu'il ait quelque imperfection. Mais je leur dirai encore ici qu'un jeune prince de dix-sept ans qui a beaucoup de coeur, beaucoup d'amour, beaucoup de franchise et beaucoup de crédulité, qualités ordinaires d'un jeune homme, m'a semblé très capable d'exciter la compassion. Je n'en veux pas davantage.
 
 "Mais, disent-ils, ce prince n'entrait que dans sa quinzième année lorsqu'il mourut. On le fait vivre, lui et Narcisse, deux ans plus qu'ils n'ont vécu." Je n'aurais point parlé de cette objection, si elle n'avait été faite avec chaleur par un homme qui s'est donné la liberté de faire régner vingt ans un empereur qui n'en a régné que huit, quoique ce changement soit bien plus considérable dans la chronologie, où l'on suppute les temps par les années des empereurs.
 
-Junie ne manque pas non plus de censeurs. Ils disent que d'une vieille coquette, nommée Junia Silana, j'en ai fait une jeune fille très sage. Qu'auraient-ils à me répondre, si je leur disais que cette Junie est un personnage inventé, comme l'Emilie de Cinna, comme la Sabine d'Horace ? Mais j'ai à leur dire que, s'ils avaient bien lu l'histoire, ils auraient trouvé une Junia Calvina, de la famille d'Auguste, sœur de Silanus, à qui Claudius avait promis Octavie. Cette Junie était jeune, belle, et, comme dit Sénèque : festivissima omnium puellarum. Elle aimait tendrement son frère, "et leurs ennemis, dit Tacite, les accusèrent tous deux d'inceste, quoiqu'ils ne fussent coupables que d'un peu d'indiscrétion." Si je la présente plus retenue qu'elle n'était, je n'ai pas ouï dire qu'il nous fût défendu de rectifier les mœurs d'un personnage, surtout lorsqu'il n'est pas connu.
+Junie ne manque pas non plus de censeurs. Ils disent que d'une vieille coquette, nommée Junia Silana, j'en ai fait une jeune fille très sage. Qu'auraient-ils à me répondre, si je leur disais que cette Junie est un personnage inventé, comme l'Emilie de Cinna, comme la Sabine d'Horace ? Mais j'ai à leur dire que, s'ils avaient bien lu l'histoire, ils auraient trouvé une Junia Calvina, de la famille d'Auguste, soeur de Silanus, à qui Claudius avait promis Octavie. Cette Junie était jeune, belle, et, comme dit Sénèque : festivissima omnium puellarum. Elle aimait tendrement son frère, "et leurs ennemis, dit Tacite, les accusèrent tous deux d'inceste, quoiqu'ils ne fussent coupables que d'un peu d'indiscrétion." Si je la présente plus retenue qu'elle n'était, je n'ai pas ouï dire qu'il nous fût défendu de rectifier les moeurs d'un personnage, surtout lorsqu'il n'est pas connu.
 
 L'on trouve étrange qu'elle paraisse sur le théâtre après la mort de Britannicus. Certainement la délicatesse est grande de ne pas vouloir qu'elle dise en quatre vers assez touchants qu'elle passe chez Octavie. "Mais, disent-ils, cela ne valait pas la peine de la faire revenir, un autre l'aurait pu raconter pour elle." Ils ne savent pas qu'une des règles du théâtre est de ne mettre en récit que les choses qui ne se peuvent passer en action, et que tous les Anciens font venir souvent sur la scène des acteurs qui n'ont autre chose à dire, sinon qu'ils viennent d'un endroit, et qu'ils s'en retournent à un autre.
 
 "Tout cela est inutile, disent mes censeurs. La pièce est finie au récit de la mort de Britannicus, et l'on ne devrait point écouter le reste." On l'écoute pourtant, et même avec autant d'attention qu'aucune fin de tragédie. Pour moi, j'ai toujours compris que la tragédie étant l'imitation d'une action complète, où plusieurs personnes concourent, cette action n'est point finie que l'on ne sache en quelle situation elle laisse ces mêmes personnes. C'est ainsi que Sophocle en use presque partout. C'est ainsi que dans l'Antigone il emploie autant de vers à représenter la fureur d'Hémon et la punition de Créon après la mort de cette princesse, que j'en ai employé aux imprécations d'Agrippine, à la retraite de Junie, à la punition de Narcisse, et au désespoir de Néron, après la mort de Britannicus.
 
-Que faudrait-il faire pour contenter des juges si difficiles ? La chose serait aisée, pour peu qu'on voulût trahir le bon sens. Il ne faudrait que s'écarter du naturel pour se jeter dans l'extraordinaire. Au lieu d'une action simple, chargée de peu de matière, telle que doit être une action qui se passe en un seul jour, et qui, s'avançant par degrés vers sa fin, n'est soutenue que par les intérêts, les sentiments et les passions des personnages, il faudrait remplir cette même action de quantité d'incidents qui ne se pourraient passer qu'en un mois, d'un grand nombre de jeux de théâtre d'autant plus surprenants qu'ils seraient moins vraisemblables, d'une infinité de déclamations où l'on ferait dire aux acteurs tout le contraire de ce qu'ils devraient dire. Il faudrait, par exemple, représenter quelque héros ivre, qui se voudrait faire haïr de sa maîtresse de gaieté de cœur, un Lacédémonien grand parleur, un conquérant qui ne débiterait que des maximes d'amour, une femme qui donnerait des leçons de fierté à des conquérants. Voilà sans doute de quoi faire récrier tous ces messieurs. Mais que dirait cependant le petit nombre de gens sages auxquels je m'efforce de plaire ? De quel front oserais-je me montrer, pour ainsi dire, aux yeux de ces grands hommes de l'antiquité que j'ai choisis pour modèles ? Car, pour me servir de la pensée d'un Ancien, voilà les véritables spectateurs que nous devons nous proposer ; et nous devons sans cesse nous demander : "que diraient Homère et Virgile, s'ils lisaient ces vers ? Que dirait Sophocle, s'il voyait représenter cette scène ?" Quoi qu'il en soit, je n'ai point prétendu empêcher qu'on ne parlât contre mes ouvrages ; je l'aurais prétendu inutilement : Quid de te alii loquantur ipsi videant, dit Cicéron ; sed loquentur tamen.
+Que faudrait-il faire pour contenter des juges si difficiles ? La chose serait aisée, pour peu qu'on voulût trahir le bon sens. Il ne faudrait que s'écarter du naturel pour se jeter dans l'extraordinaire. Au lieu d'une action simple, chargée de peu de matière, telle que doit être une action qui se passe en un seul jour, et qui, s'avançant par degrés vers sa fin, n'est soutenue que par les intérêts, les sentiments et les passions des personnages, il faudrait remplir cette même action de quantité d'incidents qui ne se pourraient passer qu'en un mois, d'un grand nombre de jeux de théâtre d'autant plus surprenants qu'ils seraient moins vraisemblables, d'une infinité de déclamations où l'on ferait dire aux acteurs tout le contraire de ce qu'ils devraient dire. Il faudrait, par exemple, représenter quelque héros ivre, qui se voudrait faire haïr de sa maîtresse de gaieté de coeur, un Lacédémonien grand parleur, un conquérant qui ne débiterait que des maximes d'amour, une femme qui donnerait des leçons de fierté à des conquérants. Voilà sans doute de quoi faire récrier tous ces messieurs. Mais que dirait cependant le petit nombre de gens sages auxquels je m'efforce de plaire ? De quel front oserais-je me montrer, pour ainsi dire, aux yeux de ces grands hommes de l'antiquité que j'ai choisis pour modèles ? Car, pour me servir de la pensée d'un Ancien, voilà les véritables spectateurs que nous devons nous proposer ; et nous devons sans cesse nous demander : "que diraient Homère et Virgile, s'ils lisaient ces vers ? Que dirait Sophocle, s'il voyait représenter cette scène ?" Quoi qu'il en soit, je n'ai point prétendu empêcher qu'on ne parlât contre mes ouvrages ; je l'aurais prétendu inutilement : Quid de te alii loquantur ipsi videant, dit Cicéron ; sed loquentur tamen.
 
-Je prie seulement le lecteur de me pardonner cette petite préface, que j'ai faite pour lui rendre raison de ma tragédie. Il n'y a rien de plus naturel que de se défendre quand on se croit injustement attaqué. Je vois que Térence même semble n'avoir fait des prologues que pour se justifier contre les critiques d'un vieux poète malintentionné, malevoli veteris pœtœ, et qui venait briguer des voix contre lui jusqu'aux heures où l'on représentait ses comédies.
-« ... Occepta est agi :  
+Je prie seulement le lecteur de me pardonner cette petite préface, que j'ai faite pour lui rendre raison de ma tragédie. Il n'y a rien de plus naturel que de se défendre quand on se croit injustement attaqué. Je vois que Térence même semble n'avoir fait des prologues que pour se justifier contre les critiques d'un vieux poète malintentionné, malevoli veteris poetoe, et qui venait briguer des voix contre lui jusqu'aux heures où l'on représentait ses comédies.
+« ... Occepta est agi :  
 Exclamat, etc. »  
 
 On me pouvait faire une difficulté qu'on ne m'a point faite. Mais ce qui est échappé aux spectateurs pourra être remarqué par les lecteurs. C'est que je fais entrer Junie dans les vestales, où, selon Aulu-Gelle, on ne recevait personne au-dessous de six ans, ni au-dessus de dix. Mais le peuple prend ici Junie sous sa protection, et j'ai cru qu'en considération de sa naissance, de sa vertu et de son malheur, il pouvait la dispenser de l'âge prescrit par les lois, comme il a dispensé de l'âge pour le consulat tant de grands hommes qui avaient mérité ce privilège.
 
-Enfin, je suis très persuadé qu'on me peut faire bien d'autres critiques, sur lesquelles je n'aurais d'autre parti à prendre que celui d'en profiter à l'avenir. Mais je plains fort le malheur d'un homme qui travaille pour le public. Ceux qui voient le mieux nos défauts sont ceux qui les dissimulent le plus volontiers : ils nous pardonnent les endroits qui leur ont déplu, en faveur de ceux qui leur ont donné du plaisir. Il n'y a rien, au contraire, de plus injuste qu'un ignorant, il croit toujours que l'admiration est le partage des gens qui ne savent rien, il condamne toute une pièce pour une scène qu'il n'approuve pas, il s'attaque même aux endroits les plus éclatants, pour faire croire qu'il a de l'esprit, et pour peu que nous résistions à ses sentiments, il nous traite de présomptueux qui ne veulent croire personne, et ne songe pas qu'il tire quelquefois plus de vanité d'une critique fort mauvaise, que nous n'en tirons d'une assez bonne pièce de théâtre.
-« Homine imperito nunquam quidquam injustius. »  
+Enfin, je suis très persuadé qu'on me peut faire bien d'autres critiques, sur lesquelles je n'aurais d'autre parti à prendre que celui d'en profiter à l'avenir. Mais je plains fort le malheur d'un homme qui travaille pour le public. Ceux qui voient le mieux nos défauts sont ceux qui les dissimulent le plus volontiers : ils nous pardonnent les endroits qui leur ont déplu, en faveur de ceux qui leur ont donné du plaisir. Il n'y a rien, au contraire, de plus injuste qu'un ignorant, il croit toujours que l'admiration est le partage des gens qui ne savent rien, il condamne toute une pièce pour une scène qu'il n'approuve pas, il s'attaque même aux endroits les plus éclatants, pour faire croire qu'il a de l'esprit, et pour peu que nous résistions à ses sentiments, il nous traite de présomptueux qui ne veulent croire personne, et ne songe pas qu'il tire quelquefois plus de vanité d'une critique fort mauvaise, que nous n'en tirons d'une assez bonne pièce de théâtre.
+« Homine imperito nunquam quidquam injustius. »  
 
 
 # SECONDE PRÉFACE (édition 1674 et suivantes)
 
-Voici celle de mes tragédies que je puis dire que j'ai le plus travaillée. Cependant j'avoue que le succès ne répondit pas d'abord à mes espérances. A peine elle parut sur le théâtre, qu'il s'éleva quantité de critiques qui semblaient la devoir détruire. Je crus moi-même que sa destinée serait à l'avenir moins heureuse que celle de mes autres tragédies. Mais enfin il est arrivé de cette pièce ce qui arrivera toujours des ouvrages qui auront quelque bonté : les critiques se sont évanouies, la pièce est demeurée. C'est maintenant celle des miennes que la cour et le public revoient le plus volontiers. Et si j'ai fait quelque chose de solide, et qui mérite quelque louange, la plupart des connaisseurs demeurent d'accord que c'est ce même Britannicus.
+Voici celle de mes tragédies que je puis dire que j'ai le plus travaillée. Cependant j'avoue que le succès ne répondit pas d'abord à mes espérances. A peine elle parut sur le théâtre, qu'il s'éleva quantité de critiques qui semblaient la devoir détruire. Je crus moi-même que sa destinée serait à l'avenir moins heureuse que celle de mes autres tragédies. Mais enfin il est arrivé de cette pièce ce qui arrivera toujours des ouvrages qui auront quelque bonté : les critiques se sont évanouies, la pièce est demeurée. C'est maintenant celle des miennes que la cour et le public revoient le plus volontiers. Et si j'ai fait quelque chose de solide, et qui mérite quelque louange, la plupart des connaisseurs demeurent d'accord que c'est ce même Britannicus.
 
-À la vérité, j'avais travaillé sur des modèles qui m'avaient extrêmement soutenu dans la peinture que je voulais faire de la cour d'Agrippine et de Néron. J'avais copié mes personnages d'après le plus grand peintre de l'antiquité, je veux dire d'après Tacite, et j'étais alors si rempli de la lecture de cet excellent historien, qu'il n'y a presque pas un trait éclatant dans ma tragédie, dont il ne m'ait donné l'idée. J'avais voulu mettre dans ce recueil un extrait des plus beaux endroits que j'ai tâché d'imiter ; mais j'ai trouvé que cet extrait tiendrait presque autant de place que la tragédie. Ainsi le lecteur trouvera bon que je le renvoie à cet auteur, qui aussi bien est entre les mains de tout le monde ; et je me contenterai de rapporter ici quelques-uns de ses passages sur chacun des personnages que j'introduis sur la scène.
+À la vérité, j'avais travaillé sur des modèles qui m'avaient extrêmement soutenu dans la peinture que je voulais faire de la cour d'Agrippine et de Néron. J'avais copié mes personnages d'après le plus grand peintre de l'antiquité, je veux dire d'après Tacite, et j'étais alors si rempli de la lecture de cet excellent historien, qu'il n'y a presque pas un trait éclatant dans ma tragédie, dont il ne m'ait donné l'idée. J'avais voulu mettre dans ce recueil un extrait des plus beaux endroits que j'ai tâché d'imiter ; mais j'ai trouvé que cet extrait tiendrait presque autant de place que la tragédie. Ainsi le lecteur trouvera bon que je le renvoie à cet auteur, qui aussi bien est entre les mains de tout le monde ; et je me contenterai de rapporter ici quelques-uns de ses passages sur chacun des personnages que j'introduis sur la scène.
 
-Pour commencer par Néron, il faut se souvenir qu'il est ici dans les premières années de son règne, qui ont été heureuses, comme l'on sait. Ainsi, il ne m'a pas été permis de le représenter aussi méchant qu'il l'a été depuis. Je ne le représente pas non plus comme un homme vertueux, car il ne l'a jamais été. Il n'a pas encore tué sa mère, sa femme, ses gouverneurs ; mais il a en lui les semences de tous ces crimes. Il commence à vouloir secouer le joug ; il les hait les uns et les autres, et il leur cache sa haine sous de fausses caresses : factus natura velare odium fallacibus blanditiis. En un mot, c'est ici un monstre naissant, mais qui n'ose encore se déclarer, et qui cherche des couleurs à ses méchantes actions : Hactenus Nero flagitiis et sceleribus velamenta quœsivit. Il ne pouvait souffrir Octavie, princesse d'une bonté et d'une vertu exemplaires : fato quodam, an quia prœvalent illicita ; metuebaturque ne in stupra feminarum illustrium prorumperet.
+Pour commencer par Néron, il faut se souvenir qu'il est ici dans les premières années de son règne, qui ont été heureuses, comme l'on sait. Ainsi, il ne m'a pas été permis de le représenter aussi méchant qu'il l'a été depuis. Je ne le représente pas non plus comme un homme vertueux, car il ne l'a jamais été. Il n'a pas encore tué sa mère, sa femme, ses gouverneurs ; mais il a en lui les semences de tous ces crimes. Il commence à vouloir secouer le joug ; il les hait les uns et les autres, et il leur cache sa haine sous de fausses caresses : factus natura velare odium fallacibus blanditiis. En un mot, c'est ici un monstre naissant, mais qui n'ose encore se déclarer, et qui cherche des couleurs à ses méchantes actions : Hactenus Nero flagitiis et sceleribus velamenta quoesivit. Il ne pouvait souffrir Octavie, princesse d'une bonté et d'une vertu exemplaires : fato quodam, an quia proevalent illicita ; metuebaturque ne in stupra feminarum illustrium prorumperet.
 
-Je lui donne Narcisse pour confident. J'ai suivi en cela Tacite, qui dit que « Néron porta impatiemment la mort de Narcisse, parce que cet affranchi avait une conformité merveilleuse avec les vices du prince encore cachés : Cujus abditis adhuc vitiis mire congruebat ». Ce passage prouve deux choses : il prouve et que Néron était déjà vicieux, mais qu'il dissimulait ses vices, et que Narcisse l'entretenait dans ses mauvaises inclinations.
+Je lui donne Narcisse pour confident. J'ai suivi en cela Tacite, qui dit que « Néron porta impatiemment la mort de Narcisse, parce que cet affranchi avait une conformité merveilleuse avec les vices du prince encore cachés : Cujus abditis adhuc vitiis mire congruebat ». Ce passage prouve deux choses : il prouve et que Néron était déjà vicieux, mais qu'il dissimulait ses vices, et que Narcisse l'entretenait dans ses mauvaises inclinations.
 
-J'ai choisi Burrhus pour opposer un honnête homme à cette peste de cour ; et je l'ai choisi plutôt que Sénèque. En voici la raison : ils étaient tous deux gouverneurs de la jeunesse de Néron, l'un pour les armes, et l'autre pour les lettres. Et ils étaient fameux, Burrhus pour son expérience dans les armes et pour la sévérité de ses mœurs, militaribus curis et severitate morum ; Sénèque pour son éloquence et le tour agréable de son esprit, Seneca prœceptis eloquentiœ et comitate honesta. Burrhus, après sa mort, fut extrêmement regretté à cause de sa vertu : Civitati grande desiderium ejus mansit per memoriam virtutis.
+J'ai choisi Burrhus pour opposer un honnête homme à cette peste de cour ; et je l'ai choisi plutôt que Sénèque. En voici la raison : ils étaient tous deux gouverneurs de la jeunesse de Néron, l'un pour les armes, et l'autre pour les lettres. Et ils étaient fameux, Burrhus pour son expérience dans les armes et pour la sévérité de ses moeurs, militaribus curis et severitate morum ; Sénèque pour son éloquence et le tour agréable de son esprit, Seneca proeceptis eloquentioe et comitate honesta. Burrhus, après sa mort, fut extrêmement regretté à cause de sa vertu : Civitati grande desiderium ejus mansit per memoriam virtutis.
 
-Toute leur peine était de résister à l'orgueil et à la férocité d'Agrippine, quœ cunctis malœ dominationis cupidinibus flagrans, habebat in partibus Pallantem. Je ne dis que ce mot d'Agrippine, car il y aurait trop de choses à en dire. C'est elle que je me suis surtout efforcé de bien exprimer, et ma tragédie n'est pas moins la disgrâce d'Agrippine que la mort de Britannicus. Cette mort fut un coup de foudre pour elle ; et « il parut, dit Tacite, par sa frayeur et par sa consternation, qu'elle était aussi innocente de cette mort qu'Octavie. Agrippine perdait en lui sa dernière espérance, et ce crime lui en faisait craindre un plus grand : Sibi supremum auxilium ereptum, et parricidii exemplum intelligebat. »
+Toute leur peine était de résister à l'orgueil et à la férocité d'Agrippine, quoe cunctis maloe dominationis cupidinibus flagrans, habebat in partibus Pallantem. Je ne dis que ce mot d'Agrippine, car il y aurait trop de choses à en dire. C'est elle que je me suis surtout efforcé de bien exprimer, et ma tragédie n'est pas moins la disgrâce d'Agrippine que la mort de Britannicus. Cette mort fut un coup de foudre pour elle ; et « il parut, dit Tacite, par sa frayeur et par sa consternation, qu'elle était aussi innocente de cette mort qu'Octavie. Agrippine perdait en lui sa dernière espérance, et ce crime lui en faisait craindre un plus grand : Sibi supremum auxilium ereptum, et parricidii exemplum intelligebat. »
 
-L'âge de Britannicus était si connu, qu'il ne m'a pas été permis de le représenter autrement que comme un jeune prince qui avait beaucoup de cœur, beaucoup d'amour et beaucoup de franchise, qualités ordinaires d'un jeune homme. Il avait quinze ans, et on dit qu'il avait beaucoup d'esprit, soit qu'on dise vrai, ou que ses malheurs aient fait croire cela de lui, sans qu'il ait pu en donner des marques : Neque segnem ei fuisse indolem ferunt ; sive verum, seu periculis commendatus retinuit famam sine experimento.
+L'âge de Britannicus était si connu, qu'il ne m'a pas été permis de le représenter autrement que comme un jeune prince qui avait beaucoup de coeur, beaucoup d'amour et beaucoup de franchise, qualités ordinaires d'un jeune homme. Il avait quinze ans, et on dit qu'il avait beaucoup d'esprit, soit qu'on dise vrai, ou que ses malheurs aient fait croire cela de lui, sans qu'il ait pu en donner des marques : Neque segnem ei fuisse indolem ferunt ; sive verum, seu periculis commendatus retinuit famam sine experimento.
 
-Il ne faut pas s'étonner s'il n'a auprès de lui qu'un aussi méchant homme que Narcisse, « car il y avait longtemps qu'on avait donné ordre qu'il n'y eût auprès de Britannicus que des gens qui n'eussent ni foi ni honneur : Nam ut proximus quisque Britannico, neque fas neque fidem pensi haberet, olim provisum erat. »
+Il ne faut pas s'étonner s'il n'a auprès de lui qu'un aussi méchant homme que Narcisse, « car il y avait longtemps qu'on avait donné ordre qu'il n'y eût auprès de Britannicus que des gens qui n'eussent ni foi ni honneur : Nam ut proximus quisque Britannico, neque fas neque fidem pensi haberet, olim provisum erat. »
 
-Il me reste à parler de Junie. Il ne la faut pas confondre avec une vieille coquette qui s'appelait Junia Silana. C'est ici une autre Junie, que Tacite appelle Junia Calvina, de la famille d'Auguste, sœur de Silanus, à qui Claudius avait promis Octavie. Cette Junie était jeune, belle, et, comme dit Sénèque, festivissima omnium puellarum. « Son frère et elle s'aimaient tendrement, et leurs ennemis, dit Tacite, les accusèrent tous deux d'inceste, quoiqu'ils ne fussent coupables que d'un peu d'indiscrétion. » Elle vécut jusqu'au règne de Vespasien.
+Il me reste à parler de Junie. Il ne la faut pas confondre avec une vieille coquette qui s'appelait Junia Silana. C'est ici une autre Junie, que Tacite appelle Junia Calvina, de la famille d'Auguste, soeur de Silanus, à qui Claudius avait promis Octavie. Cette Junie était jeune, belle, et, comme dit Sénèque, festivissima omnium puellarum. « Son frère et elle s'aimaient tendrement, et leurs ennemis, dit Tacite, les accusèrent tous deux d'inceste, quoiqu'ils ne fussent coupables que d'un peu d'indiscrétion. » Elle vécut jusqu'au règne de Vespasien.
 
 Je la fais entrer dans les vestales, quoique, selon Aulu-Gelle, on n'y reçût jamais personne au-dessous de six ans ni au-dessus de dix. Mais le peuple prend ici Junie sous sa protection. Et j'ai cru qu'en considération de sa naissance, de sa vertu et de son malheur, il pouvait la dispenser de l'âge prescrit par les lois, comme il a dispensé de l'âge pour le consulat tant de grands hommes qui avaient mérité ce privilège.
 
 
 # ACTEURS
- – Néron, empereur, fils d'Agrippine.
- – Britannicus, fils de l'empereur Claudius.
- – Agrippine, veuve de Domitius Enobarbus, père de Néron, et, en secondes noces, veuve de l'empereur Claudius.
- – Junie, amante de Britannicus.
- – Burrhus, gouverneur de Néron.
- – Narcisse, gouverneur de Britannicus.
- – Albine, confidente d'Agrippine.
- – Gardes.La scène est à Rome, dans une chambre du palais de Néron. [1]
+ – NÉRON, empereur, fils d'Agrippine.
+ – BRITANNICUS, fils de l'empereur Claudius.
+ – AGRIPPINE, veuve de Domitius Enobarbus, père de Néron, et, en secondes noces, veuve de l'empereur Claudius.
+ – JUNIE, amante de Britannicus.
+ – BURRHUS, gouverneur de Néron.
+ – NARCISSE, gouverneur de Britannicus.
+ – ALBINE, confidente d'Agrippine.
+ – GARDES.La scène est à Rome, dans une chambre du palais de Néron. [1]
 
 
 # ACTE I
 
 
-## SCÈNE PREMIÈRE
-Agrippine, Albine.
+## SCÈNE PREMIÈRE. Agrippine, Albine.
 
-
-    ALBINE
-Quoi ! Tandis que Néron s'abandonne au sommeil,  
-Faut-il que vous veniez attendre son réveil ?  
+    ALBINE.
+Quoi ! Tandis que Néron s'abandonne au sommeil,  
+Faut-il que vous veniez attendre son réveil ?  
 Qu'errant dans le palais sans suite et sans escorte  
-La mère de César veille seule à sa porte ?  
+La mère de César veille seule à sa porte ?  
 Madame, retournez dans votre appartement.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Albine, il ne faut pas s'éloigner un moment.  
 Je veux l'attendre ici. Les chagrins qu'il me cause  
 M'occuperont assez tout le temps qu'il repose.  
-Tout ce que j'ai prédit n'est que trop assuré.   [2] [3]
-Contre Britannicus Néron s'est déclaré.  
+Tout ce que j'ai prédit n'est que trop assuré.  
+Contre Britannicus Néron s'est déclaré. [2] [3]  
 L'impatient Néron cesse de se contraindre,  
 Las de se faire aimer il veut se faire craindre.  
 Britannicus le gêne, Albine, et chaque jour  
 Je sens que je deviens importune à mon tour.  
 
-    ALBINE
-Quoi ? Vous à qui Néron doit le jour qu'il respire ?  
-Qui l'avez appelé de si loin à l'empire ?  
+    ALBINE.
+Quoi ? Vous à qui Néron doit le jour qu'il respire ?  
+Qui l'avez appelé de si loin à l'empire ?  
 Vous qui déshéritant le fils de Claudius,  
-Avez nommé César l'heureux Domitius ?  
+Avez nommé César l'heureux Domitius ?  
 Tout lui parle, Madame, en faveur d'Agrippine.  
 Il vous doit son amour.  
 
-    AGRIPPINE
+    AGRIPPINE.
         Il me le doit, Albine.  
 Tout s'il est généreux lui prescrit cette loi.  
 Mais tout, s'il est ingrat, lui parle contre moi.  
 
-    ALBINE
-S'il est ingrat, Madame ; ah ! Toute sa conduite  
+    ALBINE.
+S'il est ingrat, Madame ; ah ! Toute sa conduite  
 Marque dans son devoir une âme trop instruite.  
 Depuis trois ans entiers qu'a-t-il dit, qu'a-t-il fait,  
-Qui ne promette à Rome un empereur parfait ?  
+Qui ne promette à Rome un empereur parfait ?  
 Rome depuis deux ans par ses soins gouvernée  
 Au temps de ses consuls croit être retournée,  
 Il la gouverne en père. Enfin Néron naissant  
 A toutes les vertus d'Auguste vieillissant.  
 
-    AGRIPPINE
-Non, non, mon intérêt ne me rend point injuste ;  
+    AGRIPPINE.
+Non, non, mon intérêt ne me rend point injuste ;  
 Il commence, il est vrai, par où finit Auguste.  
 Mais crains, que l'avenir détruisant le passé,  
 Il ne finisse ainsi qu'Auguste a commencé.  
@@ -168,26 +159,26 @@ De Rome pour un temps Caïus fut les délices,
 Mais sa feinte bonté se tournant en fureur,  
 Les délices de Rome en devinrent l'horreur.  
 Que m'importe, après tout, que Néron plus fidèle  
-D'une longue vertu laisse un jour le modèle ?  
+D'une longue vertu laisse un jour le modèle ?  
 Ai-je mis dans sa main le timon de l'État,  
-Pour le conduire au gré du peuple et du Sénat ?  
-Ah ! Que de la patrie il soit, s'il veut, le père.  
+Pour le conduire au gré du peuple et du Sénat ?  
+Ah ! Que de la patrie il soit, s'il veut, le père.  
 Mais qu'il songe un peu plus qu'Agrippine est sa mère.  
 De quel nom cependant pouvons nous appeler  
-L'attentat que le jour vient de nous révéler ?  
+L'attentat que le jour vient de nous révéler ?  
 Il sait, car leur amour ne peut être ignorée,  
-Que de Britannicus Junie est adorée :  
+Que de Britannicus Junie est adorée :  
 Et ce même Néron que la vertu conduit,  
 Fait enlever Junie au milieu de la nuit.  
-Que veut-il ? Est-ce haine, est-ce amour qui l'inspire ?  
-Cherche-t-il seulement le plaisir de leur nuire ?  
+Que veut-il ? Est-ce haine, est-ce amour qui l'inspire ?  
+Cherche-t-il seulement le plaisir de leur nuire ?  
 Ou plutôt n'est-ce point que sa malignité  
-Punit sur eux l'appui que je leur ai prêté ?  
+Punit sur eux l'appui que je leur ai prêté ?  
 
-    ALBINE
-Vous leur appui, Madame ?  
+    ALBINE.
+Vous leur appui, Madame ?  
 
-    AGRIPPINE
+    AGRIPPINE.
         Arrête, chère Albine.  
 Je sais, que j'ai moi seule avancé leur ruine,  
 Que du trône, où le sang l'a dû faire monter  
@@ -201,20 +192,20 @@ Il faut qu'entre eux et lui je tienne la balance,
 Afin que quelque jour par une même loi  
 Britannicus la tienne entre mon fils et moi.  
 
-    ALBINE
-Quel dessein !  
+    ALBINE.
+Quel dessein !  
 
-    AGRIPPINE
+    AGRIPPINE.
         Je m'assure un port dans la tempête.  
 Néron m'échappera si ce frein ne l'arrête.  
 
-    ALBINE
-Mais prendre contre un fils tant de soins superflus ?  
+    ALBINE.
+Mais prendre contre un fils tant de soins superflus ?  
 
-    AGRIPPINE
+    AGRIPPINE.
 Je le craindrais bientôt, s'il ne me craignait plus.  
 
-    ALBINE
+    ALBINE.
 Une injuste frayeur vous alarme peut-être.  
 Mais si Néron pour vous n'est plus ce qu'il doit être,  
 Du moins son changement ne vient pas jusqu'à nous,  
@@ -227,14 +218,14 @@ Votre nom est dans Rome aussi saint que le sien.
 Auguste votre aïeul honora moins Livie.  
 Néron devant sa mère a permis le premier  
 Qu'on portât les faisceaux couronnés de laurier.  
-Quels effets voulez-vous de sa reconnaissance ?  
+Quels effets voulez-vous de sa reconnaissance ?  
 
-    AGRIPPINE
+    AGRIPPINE.
 Un peu moins de respect, et plus de confiance.  
 Tous ces présents, Albine, irritent mon dépit.  
 Je vois mes honneurs croître, et tomber mon crédit.  
 Non non, le temps n'est plus que Néron jeune encore  
-Me renvoyait les vœux d'une cour, qui l'adore ;  
+Me renvoyait les voeux d'une cour, qui l'adore ;  
 Lorsqu'il se reposait sur moi de tout l'État,  
 Que mon ordre au palais assemblait le Sénat,  
 Et que derrière un voile, invisible, et présente  
@@ -246,10 +237,10 @@ Où Néron fut lui-même ébloui de sa gloire,
 Quand les ambassadeurs de tant de rois divers  
 Vinrent le reconnaître au nom de l'univers.  
 Sur son trône avec lui j'allais prendre ma place.  
-J'ignore quel conseil prépara ma disgrâce :  
+J'ignore quel conseil prépara ma disgrâce :  
 Quoi qu'il en soit, Néron d'aussi loin qu'il me vit  
 Laissa sur son visage éclater son dépit.  
-Mon cœur même en conçut un malheureux augure.  
+Mon coeur même en conçut un malheureux augure.  
 L'ingrat d'un faux respect colorant son injure,  
 Se leva par avance, et courant m'embrasser,  
 Il m'écarta du trône, où je m'allais placer.  
@@ -258,12 +249,12 @@ Vers sa chute, à grands pas, chaque jour s'achemine.
 L'ombre seule m'en reste, et l'on n'implore plus  
 Que le nom de Sénèque, et l'appui de Burrhus.  
 
-    ALBINE
-Ah ! Si de ce soupçon votre âme est prévenue,  
-Pourquoi nourrissez-vous le venin qui vous tue ?  
+    ALBINE.
+Ah ! Si de ce soupçon votre âme est prévenue,  
+Pourquoi nourrissez-vous le venin qui vous tue ?  
 Daignez avec César vous éclaircir du moins.  
 
-    AGRIPPINE
+    AGRIPPINE.
 César ne me voit plus, Albine, sans témoins.  
 En public, à mon heure, on me donne audience.  
 Sa réponse est dictée, et même son silence.  
@@ -274,59 +265,57 @@ De son désordre, Albine, il faut que je profite.
 J'entends du bruit, on ouvre, allons subitement  
 Lui demander raison de cet enlèvement.  
 Surprenons, s'il se peut, les secrets de son âme.  
-Mais quoi ? Déjà Burrhus sort de chez lui ?  
+Mais quoi ? Déjà Burrhus sort de chez lui ?  
 
 
-## SCÈNE II
-Agrippine, Burrhus, Albine.
+## SCÈNE II. Agrippine, Burrhus, Albine.
 
-
-    BURRHUS
+    BURRHUS.
         Madame,  
 Au nom de l'empereur j'allais vous informer  
 D'un ordre, qui d'abord a pu vous alarmer,  
 Mais qui n'est que l'effet d'une sage conduite,  
 Dont César a voulu que vous soyez instruite.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Puisqu'il le veut, entrons, il m'en instruira mieux.  
 
-    BURRHUS
+    BURRHUS.
 César pour quelque temps s'est soustrait à nos yeux.  
 Déjà par une porte au public moins connue,  
 L'un et l'autre consul vous avaient prévenue,  
 Madame. Mais souffrez que je retourne exprès...  
 
-    AGRIPPINE
+    AGRIPPINE.
 Non, je ne trouble point ses augustes secrets.  
 Cependant voulez-vous qu'avec moins de contrainte  
-L'un et l'autre une fois nous parlions sans feinte ?  
+L'un et l'autre une fois nous parlions sans feinte ?  
 
-    BURRHUS
+    BURRHUS.
 Burrhus pour le mensonge eut toujours trop d'horreur.  
 
-    AGRIPPINE
-Prétendez-vous longtemps me cacher l'empereur ?  
-Ne le verrai-je plus qu'à titre d'importune ?  
+    AGRIPPINE.
+Prétendez-vous longtemps me cacher l'empereur ?  
+Ne le verrai-je plus qu'à titre d'importune ?  
 Ai-je donc élevé si haut votre fortune,  
-Pour mettre une barrière entre mon fils et moi ?  
-Ne l'osez-vous laisser un moment sur sa foi ?  
+Pour mettre une barrière entre mon fils et moi ?  
+Ne l'osez-vous laisser un moment sur sa foi ?  
 Entre Sénèque et vous disputez-vous la gloire  
-À qui m'effacera plus tôt de sa mémoire ?  
-Vous l'ai-je confié pour en faire un ingrat ?  
-Pour être sous son nom les maîtres de l'État ?  
+À qui m'effacera plus tôt de sa mémoire ?  
+Vous l'ai-je confié pour en faire un ingrat ?  
+Pour être sous son nom les maîtres de l'État ?  
 Certes plus je médite, et moins je me figure  
 Que vous m'osiez compter pour votre créature,  
 Vous dont j'ai pu laisser vieillir l'ambition  
 Dans les honneurs obscurs de quelque légion,  
 Et moi qui sur le trône ai suivi mes ancêtres,  
-Moi fille, femme, sœur, et mère de vos maîtres.  
-Que prétendez-vous donc ? Pensez-vous que ma voix  
-Ait fait un empereur pour m'en imposer trois ?  
-Néron n'est plus enfant. N'est-il pas temps qu'il règne ?  
-Jusqu'à quand voulez-vous que l'empereur vous craigne ?  
-Ne saurait-il rien voir, qu'il n'emprunte vos yeux ?  
-Pour se conduire enfin n'a-t-il pas ses aïeux ?  
+Moi fille, femme, soeur, et mère de vos maîtres.  
+Que prétendez-vous donc ? Pensez-vous que ma voix  
+Ait fait un empereur pour m'en imposer trois ?  
+Néron n'est plus enfant. N'est-il pas temps qu'il règne ?  
+Jusqu'à quand voulez-vous que l'empereur vous craigne ?  
+Ne saurait-il rien voir, qu'il n'emprunte vos yeux ?  
+Pour se conduire enfin n'a-t-il pas ses aïeux ?  
 Qu'il choisisse s'il veut, d'Auguste, ou de Tibère.  
 Qu'il imite s'il peut, Germanicus mon père.  
 Parmi tant de héros je n'ose me placer.  
@@ -334,7 +323,7 @@ Mais il est des vertus que je lui puis tracer.
 Je puis l'instruire au moins, combien sa confidence  
 Entre un sujet et lui doit laisser de distance.  
 
-    BURRHUS
+    BURRHUS.
 Je ne m'étais chargé dans cette occasion,  
 Que d'excuser César d'une seule action.  
 Mais puisque sans vouloir que je le justifie,  
@@ -344,67 +333,67 @@ D'un soldat, qui sait mal farder la vérité.
 Vous m'avez de César confié la jeunesse,  
 Je l'avoue, et je dois m'en souvenir sans cesse.  
 Mais vous avais-je fait serment de le trahir,  
-D'en faire un empereur, qui ne sût qu'obéir ?  
+D'en faire un empereur, qui ne sût qu'obéir ?  
 Non. Ce n'est plus à vous qu'il faut que j'en réponde.  
 Ce n'est plus votre fils. C'est le maître du monde.  
 J'en dois compte, Madame, à l'empire romain,  
 Qui croit voir son salut, ou sa perte en ma main.  
-Ah ! Si dans l'ignorance il le fallait instruire,  
-N'avait-on que Sénèque, et moi pour le séduire ?  
-Pourquoi de sa conduite éloigner les flatteurs ?  
-Fallait-il dans l'exil chercher des corrupteurs ?  
+Ah ! Si dans l'ignorance il le fallait instruire,  
+N'avait-on que Sénèque, et moi pour le séduire ?  
+Pourquoi de sa conduite éloigner les flatteurs ?  
+Fallait-il dans l'exil chercher des corrupteurs ?  
 La cour de Claudius en esclaves fertile,  
 Pour deux que l'on cherchait en eût présenté mille,  
 Qui tous auraient brigué l'honneur de l'avilir.  
 Dans une longue enfance ils l'auraient fait vieillir.  
-De quoi vous plaignez-vous, Madame ? On vous révère.  
+De quoi vous plaignez-vous, Madame ? On vous révère.  
 Ainsi que par César, on jure par sa mère.  
 L'empereur, il est vrai, ne vient plus chaque jour  
 Mettre à vos pieds l'empire, et grossir votre cour.  
-Mais le doit-il, Madame ? Et sa reconnaissance  
-Ne peut-elle éclater que dans sa dépendance ?  
+Mais le doit-il, Madame ? Et sa reconnaissance  
+Ne peut-elle éclater que dans sa dépendance ?  
 Toujours humble, toujours le timide Néron  
-N'ose-t-il être Auguste, et César que de nom ?  
-Vous le dirai-je enfin ? Rome le justifie.  
+N'ose-t-il être Auguste, et César que de nom ?  
+Vous le dirai-je enfin ? Rome le justifie.  
 Rome à trois affranchis si longtemps asservie,  
 À peine respirant du joug qu'elle a porté,  
 Du règne de Néron compte sa liberté.  
-Que dis-je ? La vertu semble même renaître.  
+Que dis-je ? La vertu semble même renaître.  
 Tout l'empire n'est plus la dépouille d'un maître.  
-Le peuple au champ de Mars nomme ses magistrats ;  
+Le peuple au champ de Mars nomme ses magistrats ;  
 César nomme les chefs sur la foi des soldats.  
 Thraséas au Sénat, Corbulon dans l'armée,  
 Sont encore innocents, malgré leur renommée.  
 Les déserts autrefois peuplés de sénateurs  
 Ne sont plus habités que par leurs délateurs.  
 Qu'importe que César continue à nous croire,  
-Pourvu que nos conseils ne tendent qu'à sa gloire ?  
+Pourvu que nos conseils ne tendent qu'à sa gloire ?  
 Pourvu que dans le cours d'un règne florissant  
-Rome soit toujours libre, et César tout-puissant ?  
+Rome soit toujours libre, et César tout-puissant ?  
 Mais, Madame, Néron, suffit pour se conduire.  
 J'obéis, sans prétendre à l'honneur de l'instruire.  
 Sur ses aïeux sans doute il n'a qu'à se régler.  
-Pour bien faire, Néron n'a qu'à se ressembler :  
+Pour bien faire, Néron n'a qu'à se ressembler :  
 Heureux, si ses vertus l'une à l'autre enchaînées  
-Ramènent tous les ans ses premières années !  
+Ramènent tous les ans ses premières années !  
 
-    AGRIPPINE
+    AGRIPPINE.
 Ainsi sur l'avenir n'osant vous assurer  
 Vous croyez que sans vous Néron va s'égarer.  
 Mais vous, qui jusqu'ici content de votre ouvrage,  
 Venez de ses vertus nous rendre témoignage,  
 Expliquez-nous, pourquoi devenu ravisseur  
-Néron de Silanus fait enlever la sœur.  
+Néron de Silanus fait enlever la soeur.  
 Ne tient-il qu'à marquer de cette ignominie  
-Le sang de mes aïeux, qui brille dans Junie ?  
-De quoi l'accuse-t-il ? Et par quel attentat  
-Devient-elle en un jour criminelle d'État ?  
+Le sang de mes aïeux, qui brille dans Junie ?  
+De quoi l'accuse-t-il ? Et par quel attentat  
+Devient-elle en un jour criminelle d'État ?  
 Elle, qui sans orgueil jusqu'alors élevée,  
 N'aurait point vu Néron, s'il ne l'eût enlevée,  
 Et qui même aurait mis au rang de ses bienfaits  
 L'heureuse liberté de ne le voir jamais.  
 
-    BURRHUS
+    BURRHUS.
 Je sais que d'aucun crime elle n'est soupçonnée.  
 Mais jusqu'ici César ne l'a point condamnée,  
 Madame, aucun objet ne blesse ici ses yeux.  
@@ -412,11 +401,11 @@ Elle est dans un palais tout plein de ses aïeux.
 Vous savez que les droits qu'elle porte avec elle  
 Peuvent de son époux faire un prince rebelle,  
 Que le sang de César ne se doit allier  
-Qu'à ceux à qui César le veut bien confier ;  
+Qu'à ceux à qui César le veut bien confier ;  
 Et vous-même avouerez qu'il ne serait pas juste,  
 Qu'on disposât sans lui de la nièce d'Auguste.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Je vous entends. Néron m'apprend par votre voix  
 Qu'en vain Britannicus s'assure sur mon choix.  
 En vain pour détourner ses yeux de sa misère,  
@@ -434,29 +423,29 @@ D'éprouver contre lui ma faible autorité,
 Il expose la sienne, et que dans la balance  
 Mon nom peut-être aura plus de poids qu'il ne pense.  
 
-    BURRHUS
-Quoi Madame ? Toujours soupçonner son respect ?  
-Ne peut-il faire un pas qui ne vous soit suspect ?  
-L'empereur vous croit-il du parti de Junie ?  
-Avec Britannicus vous croit-il réunie ?  
-Quoi ! De vos ennemis devenez-vous l'appui  
-Pour trouver un prétexte à vous plaindre de lui ?  
+    BURRHUS.
+Quoi Madame ? Toujours soupçonner son respect ?  
+Ne peut-il faire un pas qui ne vous soit suspect ?  
+L'empereur vous croit-il du parti de Junie ?  
+Avec Britannicus vous croit-il réunie ?  
+Quoi ! De vos ennemis devenez-vous l'appui  
+Pour trouver un prétexte à vous plaindre de lui ?  
 Sur le moindre discours qu'on pourra vous redire,  
-Serez-vous toujours prête à partager l'empire ?  
+Serez-vous toujours prête à partager l'empire ?  
 Vous craindrez-vous sans cesse, et vos embrassements  
-Ne se passeront-ils qu'en éclaircissements ?  
-Ah ! Quittez d'un censeur la triste diligence.  
+Ne se passeront-ils qu'en éclaircissements ?  
+Ah ! Quittez d'un censeur la triste diligence.  
 D'une mère facile affectez l'indulgence.  
 Souffrez quelques froideurs sans les faire éclater.  
 Et n'avertissez point la cour de vous quitter.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Et qui s'honorerait de l'appui d'Agrippine  
-Lorsque Néron lui-même annonce ma ruine ?  
-Lorsque de sa présence il semble me bannir ?  
-Quand Burrhus à sa porte ose me retenir ?  
+Lorsque Néron lui-même annonce ma ruine ?  
+Lorsque de sa présence il semble me bannir ?  
+Quand Burrhus à sa porte ose me retenir ?  
 
-    BURRHUS
+    BURRHUS.
 Madame, je vois bien qu'il est temps de me taire,  
 Et que ma liberté commence à vous déplaire.  
 La douleur est injuste, et toutes les raisons  
@@ -467,28 +456,26 @@ Et peut-être, Madame, en accuser les soins
 De ceux que l'empereur a consultés le moins.  
 
 
-## SCÈNE III
-Agrippine, Britannicus, Narcisse, Albine.
+## SCÈNE III. Agrippine, Britannicus, Narcisse, Albine.
 
+    AGRIPPINE.
+Ah, Prince ! Où courez-vous ? Quelle ardeur inquiète  
+Parmi vos ennemis en aveugle vous jette ?  
+Que venez-vous chercher ?  
 
-    AGRIPPINE
-Ah, Prince ! Où courez-vous ? Quelle ardeur inquiète  
-Parmi vos ennemis en aveugle vous jette ?  
-Que venez-vous chercher ?  
-
-    BRITANNICUS
-        Ce que je cherche ? Ah dieux !  
+    BRITANNICUS.
+        Ce que je cherche ? Ah dieux !  
 Tout ce que j'ai perdu, Madame, est en ces lieux.  
 De mille affreux soldats Junie environnée  
 S'est vue en ce palais indignement traînée.  
-Hélas ! De quelle horreur ses timides esprits  
-À ce nouveau spectacle auront été surpris !  
+Hélas ! De quelle horreur ses timides esprits  
+À ce nouveau spectacle auront été surpris !  
 Enfin on me l'enlève. Une loi trop sévère  
-Va séparer deux cœurs qu'assemblait leur misère.  
+Va séparer deux coeurs qu'assemblait leur misère.  
 Sans doute on ne veut pas que mêlant nos douleurs  
 Nous nous aidions l'un l'autre à porter nos malheurs.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Il suffit. Comme vous je ressens vos injures.  
 Mes plaintes ont déjà précédé vos murmures.  
 Mais je ne prétends pas qu'un impuissant courroux  
@@ -497,19 +484,17 @@ Je ne m'explique point. Si vous voulez m'entendre,
 Suivez-moi chez Pallas, où je vais vous attendre.  
 
 
-## SCÈNE IV
-Britannicus, Narcisse.
+## SCÈNE IV. Britannicus, Narcisse.
 
-
-    BRITANNICUS
-La croirai-je, Narcisse ? Et dois-je sur sa foi  
-La prendre pour arbitre entre son fils et moi ?  
-Qu'en dis-tu ? N'est-ce pas cette même Agrippine,  
+    BRITANNICUS.
+La croirai-je, Narcisse ? Et dois-je sur sa foi  
+La prendre pour arbitre entre son fils et moi ?  
+Qu'en dis-tu ? N'est-ce pas cette même Agrippine,  
 Que mon père épousa jadis pour ma ruine,  
 Et qui, si je t'en crois, a de ses derniers jours  
-Trop lents pour ses desseins précipité le cours ?  
+Trop lents pour ses desseins précipité le cours ?  
 
-    NARCISSE
+    NARCISSE.
 N'importe. Elle se sent comme vous outragée.  
 À vous donner Junie elle s'est engagée.  
 Unissez vos chagrins, liez vos intérêts.  
@@ -519,36 +504,36 @@ Semer ici la plainte, et non pas l'épouvante,
 Que vos ressentiments se perdront en discours,  
 Il n'en faut point douter, vous vous plaindrez toujours.  
 
-    BRITANNICUS
-Ah ! Narcisse ! Tu sais si de la servitude  
+    BRITANNICUS.
+Ah ! Narcisse ! Tu sais si de la servitude  
 Je prétends faire encore une longue habitude.  
 Tu sais si pour jamais de ma chute étonné  
 Je renonce à l'empire, où j'étais destiné.  
 Mais je suis seul encor. Les amis de mon père  
 Sont autant d'inconnus que glace ma misère.  
 Et ma jeunesse même écarte loin de moi  
-Tous ceux qui dans le cœur me réservent leur foi.  
+Tous ceux qui dans le coeur me réservent leur foi.  
 Pour moi depuis un an, qu'un peu d'expérience  
 M'a donné de mon sort la triste connaissance,  
 Que vois-je autour de moi, que des amis vendus  
 Qui sont de tous mes pas les témoins assidus,  
 Qui choisis par Néron pour ce commerce infâme  
-Trafiquent avec lui des secrets de mon âme ?  
+Trafiquent avec lui des secrets de mon âme ?  
 Quoi qu'il en soit, Narcisse, on me vend tous les jours.  
 Il prévoit mes desseins, il entend mes discours.  
-Comme toi dans mon cœur il sait ce qui se passe.  
-Que t'en semble, Narcisse ?  
+Comme toi dans mon coeur il sait ce qui se passe.  
+Que t'en semble, Narcisse ?  
 
-    NARCISSE
-        Ah ? Quelle âme assez basse...  
+    NARCISSE.
+        Ah ? Quelle âme assez basse...  
 C'est à vous de choisir des confidents discrets,  
 Seigneur, et de ne pas prodiguer vos secrets.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Narcisse, tu dis vrai. Mais cette défiance  
-Est toujours d'un grand cœur la dernière science.  
+Est toujours d'un grand coeur la dernière science.  
 On le trompe longtemps. Mais enfin, je te crois.  
-Ou plutôt je fais vœu de ne croire que toi.  
+Ou plutôt je fais voeu de ne croire que toi.  
 Mon père, il m'en souvient, m'assura de ton zèle.  
 Seul de ses affranchis tu m'es toujours fidèle.  
 Tes yeux sur ma conduite incessamment ouverts  
@@ -570,68 +555,64 @@ M'engager sous son nom plus loin qu'elle ne veut.
 # ACTE II
 
 
-## SCÈNE PREMIÈRE
-Néron, Burrhus, Narcisse, Gardes.
+## SCÈNE PREMIÈRE. Néron, Burrhus, Narcisse, Gardes.
 
-
-    NÉRON
-N'en doutez point, Burrhus ; malgré ses injustices  
+    NÉRON.
+N'en doutez point, Burrhus ; malgré ses injustices  
 C'est ma mère, et je veux ignorer ses caprices.  
 Mais je ne prétends plus ignorer ni souffrir  
 Le ministre insolent qui les ose nourrir.  
-Pallas de ses conseils empoisonne ma mère ;  
+Pallas de ses conseils empoisonne ma mère ;  
 Il séduit chaque jour Britannicus mon frère,  
 Ils l'écoutent tout seul, et qui suivrait leurs pas  
 Les trouverait peut-être assemblés chez Pallas.  
 C'en est trop. De tous deux il faut que je l'écarte.  
-Pour la dernière fois, qu'il s'éloigne, qu'il parte :  
-Je le veux, je l'ordonne ; et que la fin du jour  
+Pour la dernière fois, qu'il s'éloigne, qu'il parte :  
+Je le veux, je l'ordonne ; et que la fin du jour  
 Ne le retrouve pas dans Rome, ou dans ma cour.  
 Allez, cet ordre importe au salut de l'empire.  
 Vous, Narcisse, approchez. Et vous, qu'on se retire.  
 
 
-## SCÈNE II
-Néron, Narcisse.
+## SCÈNE II. Néron, Narcisse.
 
-
-    NARCISSE
+    NARCISSE.
 Grâces aux dieux, Seigneur, Junie entre vos mains  
 Vous assure aujourd'hui du reste des Romains.  
 Vos ennemis déchus de leur vaine espérance  
 Sont allés chez Pallas pleurer leur impuissance.  
-Mais que vois-je ? Vous-même inquiet, étonné,  
+Mais que vois-je ? Vous-même inquiet, étonné,  
 Plus que Britannicus paraissez consterné.  
 Que présage à mes yeux cette tristesse obscure,  
-Et ces sombres regards errants à l'aventure ?  
-Tout vous rit. La fortune obéit à vos vœux.  
+Et ces sombres regards errants à l'aventure ?  
+Tout vous rit. La fortune obéit à vos voeux.  
 
-    NÉRON
+    NÉRON.
 Narcisse, c'en est fait. Néron est amoureux.  
 
-    NARCISSE
-Vous ?  
+    NARCISSE.
+Vous ?  
 
-    NÉRON
+    NÉRON.
         Depuis un moment, mais pour toute ma vie.  
-J'aime (que dis-je aimer ?) j'idolâtre Junie.  
+J'aime (que dis-je aimer ?) j'idolâtre Junie.  
 
-    NARCISSE
-Vous l'aimez ?  
+    NARCISSE.
+Vous l'aimez ?  
 
-    NÉRON
+    NÉRON.
         Excité d'un désir curieux  
 Cette nuit je l'ai vue arriver en ces lieux,  
 Triste, levant au ciel ses yeux mouillés de larmes,  
 Qui brillaient au travers des flambeaux et des armes.  
 Belle, sans ornements, dans le simple appareil  
 D'une beauté qu'on vient d'arracher au sommeil.  
-Que veux-tu ? Je ne sais si cette négligence,  
+Que veux-tu ? Je ne sais si cette négligence,  
 Les ombres, les flambeaux, les cris, et le silence,  
 Et le farouche aspect de ses fiers ravisseurs  
 Relevaient de ses yeux les timides douceurs.  
 Quoi qu'il en soit, ravi d'une si belle vue,  
-J'ai voulu lui parler et ma voix s'est perdue ;  
+J'ai voulu lui parler et ma voix s'est perdue ;  
 Immobile, saisi d'un long étonnement  
 Je l'ai laissé passer dans son appartement.  
 J'ai passé dans le mien. C'est là que solitaire  
@@ -644,65 +625,65 @@ Voilà comme occupé de mon nouvel amour
 Mes yeux sans se fermer ont attendu le jour.  
 Mais je m'en fais peut-être une trop belle image.  
 Elle m'est apparue avec trop d'avantage,  
-Narcisse, qu'en dis-tu ?  
+Narcisse, qu'en dis-tu ?  
 
-    NARCISSE
-        Quoi, Seigneur ! Croira-t-on  
-Qu'elle ait pu si longtemps se cacher à Néron ?  
+    NARCISSE.
+        Quoi, Seigneur ! Croira-t-on  
+Qu'elle ait pu si longtemps se cacher à Néron ?  
 
-    NÉRON
+    NÉRON.
 Tu le sais bien, Narcisse. Et soit que sa colère  
 M'imputât le malheur qui lui ravit son frère,  
-Soit que son cœur jaloux d'une austère fierté  
+Soit que son coeur jaloux d'une austère fierté  
 Enviât à nos yeux sa naissante beauté,  
 Fidèle à sa douleur, et dans l'ombre enfermée  
-Elle se dérobait même à sa renommée ;  
+Elle se dérobait même à sa renommée ;  
 Et c'est cette vertu si nouvelle à la cour  
 Dont la persévérance irrite mon amour.  
-Quoi Narcisse ? Tandis qu'il n'est point de Romaine  
+Quoi Narcisse ? Tandis qu'il n'est point de Romaine  
 Que mon amour n'honore et ne rende plus vaine,  
 Qui dès qu'à ses regards elle ose se fier  
-Sur le cœur de César ne les vienne essayer ;  
+Sur le coeur de César ne les vienne essayer ;  
 Seule dans son palais la modeste Junie  
-Regarde leurs honneurs comme une ignominie ;  
+Regarde leurs honneurs comme une ignominie ;  
 Fuit, et ne daigne pas peut-être s'informer  
-Si César est aimable, ou bien s'il sait aimer ?  
-Dis-moi, Britannicus l'aime-t-il ?  
+Si César est aimable, ou bien s'il sait aimer ?  
+Dis-moi, Britannicus l'aime-t-il ?  
 
-    NARCISSE
-        Quoi ! S'il l'aime,  
-Seigneur ?  
+    NARCISSE.
+        Quoi ! S'il l'aime,  
+Seigneur ?  
 
-    NÉRON
-        Si jeune encor se connaît-il lui-même ?  
-D'un regard enchanteur connaît-il le poison ?  
+    NÉRON.
+        Si jeune encor se connaît-il lui-même ?  
+D'un regard enchanteur connaît-il le poison ?  
 
-    NARCISSE
+    NARCISSE.
 Seigneur, l'amour toujours n'attend pas la raison.  
 N'en doutez point, il l'aime. Instruits par tant de charmes  
 Ses yeux sont déjà faits à l'usage des larmes.  
-À ses moindres désirs il sait s'accommoder ;  
+À ses moindres désirs il sait s'accommoder;  
 Et peut-être déjà sait-il persuader.  
 
-    NÉRON
-Que dis-tu ? Sur son cœur il aurait quelque empire ?  
+    NÉRON.
+Que dis-tu ? Sur son coeur il aurait quelque empire ?  
 
-    NARCISSE
+    NARCISSE.
 Je ne sais. Mais, Seigneur, ce que je puis vous dire,  
 Je l'ai vu quelquefois s'arracher de ces lieux,  
-Le cœur plein d'un courroux qu'il cachait à vos yeux,  
+Le coeur plein d'un courroux qu'il cachait à vos yeux,  
 D'une cour qui le fuit pleurant l'ingratitude,  
 Las de votre grandeur, et de sa servitude,  
-Entre l'impatience et la crainte flottant ;  
+Entre l'impatience et la crainte flottant ;  
 Il allait voir Junie, et revenait content.  
 
-    NÉRON
+    NÉRON.
 D'autant plus malheureux qu'il aura su lui plaire,  
 Narcisse, il doit plutôt souhaiter sa colère.  
 Néron impunément ne sera pas jaloux.  
 
-    NARCISSE
-Vous ? Et de quoi, Seigneur, vous inquiétez-vous ?  
+    NARCISSE.
+Vous ? Et de quoi, Seigneur, vous inquiétez-vous ?  
 Junie a pu le plaindre et partager ses peines,  
 Elle n'a vu couler de larmes que les siennes.  
 Mais aujourd'hui, Seigneur, que ses yeux dessillés  
@@ -710,21 +691,21 @@ Regardant de plus près l'éclat dont vous brillez,
 Verront autour de vous les rois sans diadème,  
 Inconnus dans la foule, et son amant lui-même,  
 Attachés sur vos yeux s'honorer d'un regard  
-Que vous aurez sur eux fait tomber au hasard ;  
+Que vous aurez sur eux fait tomber au hasard ;  
 Quand elle vous verra de ce degré de gloire,  
 Venir en soupirant avouer sa victoire,  
-Maître, n'en doutez point, d'un cœur déjà charmé  
+Maître, n'en doutez point, d'un coeur déjà charmé  
 Commandez qu'on vous aime, et vous serez aimé.  
 
-    NÉRON
-À combien de chagrins il faut que je m'apprête !  
-Que d'importunités !  
+    NÉRON.
+À combien de chagrins il faut que je m'apprête !  
+Que d'importunités !  
 
-    NARCISSE
-        Quoi donc ? Qui vous arrête,  
-Seigneur ?  
+    NARCISSE.
+        Quoi donc ? Qui vous arrête,  
+Seigneur ?  
 
-    NÉRON
+    NÉRON.
         Tout. Octavie, Agrippine, Burrhus,  
 Sénèque, Rome entière, et trois ans de vertus.  
 Non que pour Octavie un reste de tendresse  
@@ -734,15 +715,15 @@ Rarement de ses pleurs daignent être témoins.
 Trop heureux si bientôt la faveur d'un divorce,  
 Me soulageait d'un joug qu'on m'imposa par force.  
 Le ciel même en secret semble la condamner.  
-Ses vœux depuis quatre ans ont beau l'importuner.  
+Ses voeux depuis quatre ans ont beau l'importuner.  
 Les dieux ne montrent point que sa vertu les touche.  
 D'aucun gage, Narcisse, ils n'honorent sa couche,  
 L'empire vainement demande un héritier.  
 
-    NARCISSE
-Que tardez-vous, Seigneur, à la répudier ?  
-L'empire, votre cœur, tout condamne Octavie.  
-Auguste votre aïeul soupirait pour Livie ;  
+    NARCISSE.
+Que tardez-vous, Seigneur, à la répudier ?  
+L'empire, votre coeur, tout condamne Octavie.  
+Auguste votre aïeul soupirait pour Livie ;  
 Par un double divorce ils s'unirent tous deux,  
 Et vous devez l'empire à ce divorce heureux.  
 Tibère, que l'hymen plaça dans sa famille,  
@@ -750,24 +731,24 @@ Osa bien à ses yeux répudier sa fille.
 Vous seul jusques ici contraire à vos désirs  
 N'osez par un divorce assurer vos plaisirs.  
 
-    NÉRON
-Et ne connais-tu pas l'implacable Agrippine ?  
+    NÉRON.
+Et ne connais-tu pas l'implacable Agrippine ?  
 Mon amour inquiet déjà se l'imagine,  
-Qui m'amène Octavie, et d'un œil enflammé  
-Atteste les saints droits d'un nœud qu'elle a formé ;  
-Et portant à mon cœur des atteintes plus rudes,  
+Qui m'amène Octavie, et d'un oeil enflammé  
+Atteste les saints droits d'un noeud qu'elle a formé ;  
+Et portant à mon coeur des atteintes plus rudes,  
 Me fait un long récit de mes ingratitudes.  
-De quel front soutenir ce fâcheux entretien ?  
+De quel front soutenir ce fâcheux entretien ?  
 
-    NARCISSE
-N'êtes-vous pas, Seigneur, votre maître et le sien ?  
-Vous verrons-nous toujours trembler sous sa tutelle ?  
+    NARCISSE.
+N'êtes-vous pas, Seigneur, votre maître et le sien ?  
+Vous verrons-nous toujours trembler sous sa tutelle ?  
 Vivez, régnez pour vous. C'est trop régner pour elle.  
-Craignez-vous ? Mais, Seigneur, vous ne la craignez pas.  
+Craignez-vous ? Mais, Seigneur, vous ne la craignez pas.  
 Vous venez de bannir le superbe Pallas,  
 Pallas, dont vous savez qu'elle soutient l'audace.  
 
-    NÉRON
+    NÉRON.
 Éloigné de ses yeux j'ordonne, je menace,  
 J'écoute vos conseils, j'ose les approuver,  
 Je m'excite contre elle et tâche à la braver.  
@@ -776,7 +757,7 @@ Sitôt que mon malheur me ramène à sa vue,
 Soit que je n'ose encor démentir le pouvoir  
 De ces yeux, où j'ai lu si longtemps mon devoir,  
 Soit qu'à tant de bienfaits ma mémoire fidèle,  
-Lui soumette en secret tout ce que je tiens d'elle :  
+Lui soumette en secret tout ce que je tiens d'elle :  
 Mais enfin mes efforts ne me servent de rien,  
 Mon génie étonné tremble devant le sien.  
 Et c'est pour m'affranchir de cette dépendance,  
@@ -786,7 +767,7 @@ Afin qu'elle m'évite autant que je la fuis.
 Mais je t'arrête trop. Retire-toi, Narcisse.  
 Britannicus pourrait t'accuser d'artifice.  
 
-    NARCISSE
+    NARCISSE.
 Non, non, Britannicus s'abandonne à ma foi.  
 Par son ordre, Seigneur il croit que je vous vois.  
 Que je m'informe ici de tout ce qui le touche,  
@@ -794,14 +775,14 @@ Et veut de vos secrets être instruit par ma bouche.
 Impatient surtout de revoir ses amours  
 Il attend de mes soins ce fidèle secours.  
 
-    NÉRON
-J'y consens : porte-lui cette douce nouvelle.  
+    NÉRON.
+J'y consens : porte-lui cette douce nouvelle.  
 Il la verra.  
 
-    NARCISSE
+    NARCISSE.
         Seigneur, bannissez-le loin d'elle.  
 
-    NÉRON
+    NÉRON.
 J'ai mes raisons, Narcisse, et tu peux concevoir,  
 Que je lui vendrai cher le plaisir de la voir.  
 Cependant vante-lui ton heureux stratagème.  
@@ -810,94 +791,92 @@ Qu'il la voit sans mon ordre. On ouvre, la voici.
 Va retrouver ton maître et l'amener ici.  
 
 
-## SCÈNE III
-Néron, Junie.
+## SCÈNE III. Néron, Junie.
 
-
-    NÉRON
+    NÉRON.
 Vous vous troublez, Madame, et changez de visage.  
-Lisez-vous dans mes yeux quelque triste présage ?  
+Lisez-vous dans mes yeux quelque triste présage ?  
 
-    JUNIE
+    JUNIE.
 Seigneur, je ne vous puis déguiser mon erreur.  
 J'allais voir Octavie, et non pas l'empereur.  
 
-    NÉRON
+    NÉRON.
 Je le sais bien, Madame, et n'ai pu sans envie  
 Apprendre vos bontés pour l'heureuse Octavie.  
 
-    JUNIE
-Vous Seigneur ?  
+    JUNIE.
+Vous Seigneur ?  
 
-    NÉRON
+    NÉRON.
         Pensez-vous, Madame, qu'en ces lieux  
-Seule pour vous connaître Octavie ait des yeux ?  
+Seule pour vous connaître Octavie ait des yeux ?  
 
-    JUNIE
-Et quel autre, Seigneur ? Voulez-vous que j'implore !  
-À qui demanderai-je un crime que j'ignore ?  
+    JUNIE.
+Et quel autre, Seigneur ? Voulez-vous que j'implore !  
+À qui demanderai-je un crime que j'ignore ?  
 Vous qui le punissez, vous ne l'ignorez pas.  
 De grâce, apprenez-moi, Seigneur, mes attentats.  
 
-    NÉRON
-Quoi Madame ! Est-ce donc une légère offense  
-De m'avoir si longtemps caché votre présence ?  
+    NÉRON.
+Quoi Madame ! Est-ce donc une légère offense  
+De m'avoir si longtemps caché votre présence ?  
 Ces trésors dont le ciel voulut vous embellir,  
-Les avez-vous reçus pour les ensevelir ?  
+Les avez-vous reçus pour les ensevelir ?  
 L'heureux Britannicus verra-t-il sans alarmes  
-Croître loin de nos yeux son amour et vos charmes ?  
+Croître loin de nos yeux son amour et vos charmes ?  
 Pourquoi de cette gloire exclus jusqu'à ce jour,  
-M'avez-vous sans pitié relégué dans ma cour ?  
-On dit plus : vous souffrez sans en être offensée  
+M'avez-vous sans pitié relégué dans ma cour ?  
+On dit plus : vous souffrez sans en être offensée  
 Qu'il vous ose, Madame, expliquer sa pensée.  
 Car je ne croirai point que sans me consulter  
 La sévère Junie ait voulu le flatter,  
 Ni qu'elle ait consenti d'aimer et d'être aimée,  
 Sans que j'en sois instruit que par la renommée.  
 
-    JUNIE
+    JUNIE.
 Je ne vous nierai point, Seigneur, que ses soupirs  
 M'ont daigné quelquefois expliquer ses désirs.  
 Il n'a point détourné ses regards d'une fille,  
 Seul reste du débris d'une illustre famille.  
 Peut-être il se souvient qu'en un temps plus heureux  
-Son père me nomma pour l'objet de ses vœux.  
+Son père me nomma pour l'objet de ses voeux.  
 Il m'aime. Il obéit à l'empereur son père,  
-Et j'ose dire encore, à vous, à votre mère :  
+Et j'ose dire encore, à vous, à votre mère :  
 Vos désirs sont toujours si conformes aux siens...  
 
-    NÉRON
+    NÉRON.
 Ma mère a ses desseins, Madame, et j'ai les miens.  
 Ne parlons plus ici de Claude, et d'Agrippine.  
 Ce n'est point par leur choix que je me détermine.  
-C'est à moi seul, Madame, à répondre de vous ;  
+C'est à moi seul, Madame, à répondre de vous;  
 Et je veux de ma main vous choisir un époux.  
 
-    JUNIE
+    JUNIE.
 Ah, Seigneur, songez-vous que toute autre alliance,  
-Fera honte aux Césars auteurs de ma naissance ?  
+Fera honte aux Césars auteurs de ma naissance ?  
 
-    NÉRON
+    NÉRON.
 Non, Madame, l'époux dont je vous entretiens  
 Peut sans honte assembler vos aïeux et les siens.  
 Vous pouvez, sans rougir, consentir à sa flamme.  
 
-    JUNIE
-Et quel est donc, Seigneur, cet époux ?  
+    JUNIE.
+Et quel est donc, Seigneur, cet époux ?  
 
-    NÉRON
+    NÉRON.
         Moi, Madame.  
 
-    JUNIE
-Vous ?  
+    JUNIE.
+Vous ?  
 
-    NÉRON
+    NÉRON.
         Je vous nommerais, Madame un autre nom,  
 Si j'en savais quelque autre au dessus de Néron.  
 Oui, pour vous faire un choix, où vous puissiez souscrire,  
 J'ai parcouru des yeux la cour, Rome, et l'empire.  
 Plus j'ai cherché, Madame, et plus je cherche encor  
-En quelles mains je dois confier ce trésor :  
+En quelles mains je dois confier ce trésor :  
 Plus je vois que César digne seul de vous plaire  
 En doit être lui seul l'heureux dépositaire,  
 Et ne peut dignement vous confier qu'aux mains,  
@@ -909,8 +888,8 @@ Il croyait quelque jour le nommer l'héritier.
 Les dieux ont prononcé. Loin de leur contredire,  
 C'est à vous de passer du côté de l'empire.  
 En vain de ce présent ils m'auraient honoré,  
-Si votre cœur devait en être séparé ;  
-Si tant de soins ne sont adoucis par vos charmes ;  
+Si votre coeur devait en être séparé ;  
+Si tant de soins ne sont adoucis par vos charmes ;  
 Si tandis que je donne aux veilles, aux alarmes,  
 Des jours toujours à plaindre, et toujours enviés,  
 Je ne vais quelquefois respirer à vos pieds  
@@ -919,14 +898,14 @@ Rome aussi bien que moi vous donne son suffrage,
 Répudie Octavie, et me fait dénouer  
 Un hymen que le ciel ne veut point avouer.  
 Songez-y donc, Madame, et pesez en vous-même  
-Ce choix digne des soins d'un prince qui vous aime ;  
+Ce choix digne des soins d'un prince qui vous aime ;  
 Digne de vos beaux yeux trop longtemps captivés,  
 Digne de l'univers à qui vous vous devez.  
 
-    JUNIE
+    JUNIE.
 Seigneur, avec raison je demeure étonnée.  
 Je me vois dans le cours d'une même journée  
-Comme une criminelle amenée en ces lieux :  
+Comme une criminelle amenée en ces lieux :  
 Et lorsque avec frayeur je parais à vos yeux,  
 Que sur mon innocence à peine je me fie,  
 Vous m'offrez tout d'un coup la place d'Octavie.  
@@ -935,13 +914,13 @@ Ni cet excès d'honneur, ni cette indignité.
 Et pouvez-vous, Seigneur, souhaiter qu'une fille  
 Qui vit presque en naissant éteindre sa famille,  
 Qui dans l'obscurité nourrissant sa douleur  
-S'est fait une vertu conforme à son malheur ;  
+S'est fait une vertu conforme à son malheur ;  
 Passe subitement de cette nuit profonde  
-Dans un rang qui l'expose aux yeux de tout le monde ;  
+Dans un rang qui l'expose aux yeux de tout le monde ;  
 Dont je n'ai pu de loin soutenir la clarté,  
-Et dont une autre enfin remplit la majesté ?  
+Et dont une autre enfin remplit la majesté ?  
 
-    NÉRON
+    NÉRON.
 Je vous ai déjà dit que je la répudie.  
 Ayez moins de frayeur, ou moins de modestie.  
 N'accusez point ici mon choix d'aveuglement.  
@@ -951,7 +930,7 @@ Et ne préférez point à la solide gloire
 Des honneurs dont César prétend vous revêtir,  
 La gloire d'un refus, sujet au repentir.  
 
-    JUNIE
+    JUNIE.
 Le ciel connaît, Seigneur, le fond de ma pensée.  
 Je ne me flatte point d'une gloire insensée.  
 Je sais de vos présents mesurer la grandeur.  
@@ -959,18 +938,18 @@ Mais plus ce rang sur moi répandrait de splendeur
 Plus il me ferait honte et mettrait en lumière  
 Le crime d'en avoir dépouillé l'héritière.  
 
-    NÉRON
+    NÉRON.
 C'est de ses intérêts prendre beaucoup de soin,  
 Madame, et l'amitié ne peut aller plus loin.  
 Mais ne nous flattons point, et laissons le mystère.  
-La sœur vous touche ici beaucoup moins que le frère,  
+La soeur vous touche ici beaucoup moins que le frère,  
 Et pour Britannicus...  
 
-    JUNIE
+    JUNIE.
         Il a su me toucher,  
 Seigneur, et je n'ai point prétendu m'en cacher.  
-Cette sincérité sans doute est peu discrète ;  
-Mais toujours de mon cœur ma bouche est l'interprète.  
+Cette sincérité sans doute est peu discrète ;  
+Mais toujours de mon coeur ma bouche est l'interprète.  
 Absente de la cour je n'ai pas dû penser,  
 Seigneur, qu'en l'art de feindre il fallût m'exercer.  
 J'aime Britannicus. Je lui fus destinée  
@@ -986,20 +965,20 @@ Ou si quelque chagrin en interrompt la course,
 Tout l'univers soigneux de les entretenir  
 S'empresse à l'effacer de votre souvenir.  
 Britannicus est seul. Quelque ennui qui le presse  
-Il ne voit dans son sort que moi qui s'intéresse ;  
+Il ne voit dans son sort que moi qui s'intéresse ;  
 Et n'a pour tous plaisirs, Seigneur, que quelques pleurs  
 Qui lui font quelquefois oublier ses malheurs.  
 
-    NÉRON
+    NÉRON.
 Et ce sont ces plaisirs, et ces pleurs que j'envie,  
 Que tout autre que lui me paierait de sa vie.  
 Mais je garde à ce prince un traitement plus doux.  
 Madame, il va bientôt paraître devant vous.  
 
-    JUNIE
+    JUNIE.
 Ah, Seigneur, vos vertus m'ont toujours rassurée.  
 
-    NÉRON
+    NÉRON.
 Je pouvais de ces lieux lui défendre l'entrée.  
 Mais, Madame, je veux prévenir le danger,  
 Où son ressentiment le pourrait engager.  
@@ -1010,150 +989,140 @@ Sans qu'il ait aucun lieu de me croire jaloux.
 De son bannissement prenez sur vous l'offense,  
 Et soit par vos discours, soit par votre silence,  
 Du moins par vos froideurs faites-lui concevoir  
-Qu'il doit porter ailleurs ses vœux et son espoir.  
+Qu'il doit porter ailleurs ses voeux et son espoir.  
 
-    JUNIE
-Moi ! Que je lui prononce un arrêt si sévère !  
+    JUNIE.
+Moi ! Que je lui prononce un arrêt si sévère !  
 Ma bouche mille fois lui jura le contraire.  
-Quand même jusque-là je pourrais me trahir :  
+Quand même jusque-là je pourrais me trahir :  
 Mes yeux lui défendront, Seigneur, de m'obéir.  
 
-    NÉRON
-Caché près de ces lieux je vous verrai, Madame :  
+    NÉRON.
+Caché près de ces lieux je vous verrai, Madame :  
 Renfermez votre amour dans le fond de votre âme.  
 Vous n'aurez point pour moi de langages secrets.  
 J'entendrai des regards que vous croirez muets  
 Et sa perte sera l'infaillible salaire  
 D'un geste, ou d'un soupir échappé pour lui plaire.  
 
-    JUNIE
-Hélas ! Si j'ose encor former quelques souhaits,  
+    JUNIE.
+Hélas ! Si j'ose encor former quelques souhaits,  
 Seigneur, permettez-moi de ne le voir jamais.  
 
 
-## SCÈNE IV
-Néron, Junie, Narcisse.
+## SCÈNE IV. Néron, Junie, Narcisse.
 
-
-    NARCISSE
+    NARCISSE.
 Britannicus, Seigneur, demande la princesse.  
 Il approche.  
 
-    NÉRON
-        Qu'il vienne.  
+    NÉRON.
+    Qu'il vienne.  
 
-    JUNIE
-        Ah Seigneur !  
+    JUNIE.
+    Ah Seigneur !  
 
-    NÉRON
+    NÉRON.
         Je vous laisse.  
 Sa fortune dépend de vous plus que de moi.  
-Madame, en le voyant, songez que je vous voi.  
+Madame, en le voyant, songez que je vous vois.  
 
 
-## SCÈNE V
-Junie, Narcisse.
+## SCÈNE V. Junie, Narcisse.
 
-
-    JUNIE
-Ah, cher Narcisse ! Cours au-devant de ton maître.  
+    JUNIE.
+Ah, cher Narcisse ! Cours au-devant de ton maître.  
 Dis-lui... Je suis perdue, et je le vois paraître.  
 
 
-## SCÈNE VI
-Junie, Britannicus, Narcisse.
+## SCÈNE VI. Junie, Britannicus, Narcisse.
 
-
-    BRITANNICUS
-Madame, quel bonheur me rapproche de vous ?  
-Quoi ! Je puis donc jouir d'un entretien si doux ?  
-Mais parmi ce plaisir quel chagrin me dévore !  
-Hélas ! Puis-je espérer de vous revoir encore ?  
+    BRITANNICUS.
+Madame, quel bonheur me rapproche de vous ?  
+Quoi ! Je puis donc jouir d'un entretien si doux ?  
+Mais parmi ce plaisir quel chagrin me dévore !  
+Hélas ! Puis-je espérer de vous revoir encore ?  
 Faut-il que je dérobe avec mille détours  
-Un bonheur que vos yeux m'accordaient tous les jours ?  
-Quelle nuit ! Quel réveil ! Vos pleurs, votre présence  
-N'ont point de ces cruels désarmé l'insolence ?  
-Que faisait votre amant ? Quel démon envieux  
-M'a refusé l'honneur de mourir à vos yeux ?  
-Hélas ! Dans la frayeur dont vous étiez atteinte  
-M'avez-vous en secret adressé quelque plainte ?  
-Ma princesse, avez-vous daigné me souhaiter ?  
-Songiez-vous aux douleurs que vous m'alliez coûter ?  
-Vous ne me dites rien ? Quel accueil ! Quelle glace !  
-Est-ce ainsi que vos yeux consolent ma disgrâce ?  
+Un bonheur que vos yeux m'accordaient tous les jours ?  
+Quelle nuit ! Quel réveil ! Vos pleurs, votre présence  
+N'ont point de ces cruels désarmé l'insolence ?  
+Que faisait votre amant ? Quel démon envieux  
+M'a refusé l'honneur de mourir à vos yeux ?  
+Hélas ! Dans la frayeur dont vous étiez atteinte  
+M'avez-vous en secret adressé quelque plainte ?  
+Ma princesse, avez-vous daigné me souhaiter ?  
+Songiez-vous aux douleurs que vous m'alliez coûter ?  
+Vous ne me dites rien ? Quel accueil ! Quelle glace !  
+Est-ce ainsi que vos yeux consolent ma disgrâce ?  
 Parlez. Nous sommes seuls. Notre ennemi trompé  
-Tandis que je vous parle est ailleurs occupé.   [4]
-Ménageons les moments de cette heureuse absence.  
+Tandis que je vous parle est ailleurs occupé.  
+Ménageons les moments de cette heureuse absence. [4]  
 
-    JUNIE
-Vous êtes en des lieux tout pleins de sa puissance.   [5]
-Ces murs mêmes, Seigneur, peuvent avoir des yeux,  
+    JUNIE.
+Vous êtes en des lieux tout pleins de sa puissance.  
+Ces murs mêmes, Seigneur, peuvent avoir des yeux, [5]  
 Et jamais l'empereur n'est absent de ces lieux.  
 
-    BRITANNICUS
-Et depuis quand, Madame, êtes-vous si craintive ?  
-Quoi, déjà votre amour souffre qu'on le captive ?  
-Qu'est devenu ce cœur qui me jurait toujours  
-De faire à Néron même envier nos amours ?  
+    BRITANNICUS.
+Et depuis quand, Madame, êtes-vous si craintive ?  
+Quoi, déjà votre amour souffre qu'on le captive ?  
+Qu'est devenu ce coeur qui me jurait toujours  
+De faire à Néron même envier nos amours ?  
 Mais bannissez, Madame, une inutile crainte.  
-La foi dans tous les cœurs n'est pas encore éteinte.  
-Chacun semble des yeux approuver mon courroux :  
-La mère de Néron se déclare pour nous ;  
+La foi dans tous les coeurs n'est pas encore éteinte.  
+Chacun semble des yeux approuver mon courroux :  
+La mère de Néron se déclare pour nous ;  
 Rome de sa conduite elle-même offensée...  
 
-    JUNIE
-Ah Seigneur ! Vous parlez contre votre pensée.  
+    JUNIE.
+Ah Seigneur ! Vous parlez contre votre pensée.  
 Vous-même vous m'avez avoué mille fois  
 Que Rome le louait d'une commune voix.  
 Toujours à sa vertu vous rendiez quelque hommage.  
 Sans doute la douleur vous dicte ce langage.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Ce discours me surprend, il le faut avouer.  
 Je ne vous cherchais pas pour l'entendre louer.  
 Quoi, pour vous confier la douleur qui m'accable  
 À peine je dérobe un moment favorable,  
 Et ce moment si cher, Madame, est consumé  
 À louer l'ennemi dont je suis opprimé.  
-Qui vous rend à vous-même en un jour si contraire ?  
-Quoi ! Même vos regards ont appris à se taire ?  
-Que vois-je ? Vous craignez de rencontrer mes yeux ?  
-Néron vous plairait-il ? Vous serais-je odieux ?  
-Ah ! Si je le croyais... Au nom des dieux, Madame,  
+Qui vous rend à vous-même en un jour si contraire ?  
+Quoi ! Même vos regards ont appris à se taire ?  
+Que vois-je ? Vous craignez de rencontrer mes yeux ?  
+Néron vous plairait-il ? Vous serais-je odieux ?  
+Ah ! Si je le croyais... Au nom des dieux, Madame,  
 Éclaircissez le trouble où vous jetez mon âme,  
-Parlez. Ne suis-je plus dans votre souvenir ?  
+Parlez. Ne suis-je plus dans votre souvenir ?  
 
-    JUNIE
+    JUNIE.
 Retirez-vous, Seigneur, l'empereur va venir.  
 
-    BRITANNICUS
-Après ce coup, Narcisse, à qui dois-je m'attendre ?  
+    BRITANNICUS.
+Après ce coup, Narcisse, à qui dois-je m'attendre ?  
 
 
-## SCÈNE VII
-Néron, Junie, Narcisse.
+## SCÈNE VII. Néron, Junie, Narcisse.
 
-
-    NÉRON
+    NÉRON.
 Madame...  
 
-    JUNIE
+    JUNIE.
         Non, Seigneur, je ne puis rien entendre.  
 Vous êtes obéi. Laissez couler du moins  
 Des larmes dont ses yeux ne seront pas témoins.  
 
 
-## SCÈNE VIII
-Néron, Narcisse.
+## SCÈNE VIII. Néron, Narcisse.
 
-
-    NÉRON
-Hé bien ? De leur amour tu vois la violence,  
+    NÉRON.
+Hé bien ? De leur amour tu vois la violence,  
 Narcisse, elle a paru jusque dans son silence.  
 Elle aime mon rival, je ne puis l'ignorer.  
 Mais je mettrai ma joie à le désespérer.  
 Je me fais de sa peine une image charmante,  
-Et je l'ai vu douter du cœur de son amante.  
+Et je l'ai vu douter du coeur de son amante.  
 Je la suis. Mon rival t'attend pour éclater.  
 Par de nouveaux soupçons, va, cours le tourmenter,  
 Et tandis qu'à mes yeux on le pleure, on l'adore,  
@@ -1161,74 +1130,72 @@ Fais-lui payer bien cher un bonheur qu'il ignore.
 
     NARCISSE, SEUL.
 La fortune t'appelle une seconde fois,  
-Narcisse, voudrais-tu résister à sa voix ?  
-Suivons jusques au bout ses ordres favorables ;  
+Narcisse, voudrais-tu résister à sa voix ?  
+Suivons jusques au bout ses ordres favorables ;  
 Et pour nous rendre heureux perdons les misérables.  
 
 
 # ACTE III
 
 
-## SCÈNE I
-Néron, Burrhus.
+## SCÈNE I. Néron, Burrhus.
 
-
-    BURRHUS
+    BURRHUS.
 Pallas obéira, Seigneur.  
 
-    NÉRON
-        Et de quel œil  
-Ma mère a-t-elle vu confondre son orgueil ?  
+    NÉRON.
+        Et de quel oeil  
+Ma mère a-t-elle vu confondre son orgueil ?  
 
-    BURRHUS
+    BURRHUS.
 Ne doutez point, Seigneur, que ce coup ne la frappe,  
 Qu'en reproches bientôt sa douleur ne s'échappe.  
 Ses transports dès longtemps commencent d'éclater.  
-À d'inutiles cris puissent-ils s'arrêter !  
+À d'inutiles cris puissent-ils s'arrêter !  
 
-    NÉRON
-Quoi ? De quelque dessein la croyez-vous capable ?  
+    NÉRON.
+Quoi ? De quelque dessein la croyez-vous capable ?  
 
-    BURRHUS
+    BURRHUS.
 Agrippine, Seigneur, est toujours redoutable.  
 Rome, et tous vos soldats révèrent ses aïeux,  
 Germanicus son père est présent à leurs yeux.  
-Elle sait son pouvoir ; vous savez son courage,  
+Elle sait son pouvoir ; vous savez son courage,  
 Et ce qui me la fait redouter davantage,  
 C'est que vous appuyez vous-même son courroux,  
 Et que vous lui donnez des armes contre vous.  
 
-    NÉRON
-Moi, Burrhus ?  
+    NÉRON.
+Moi, Burrhus ?  
 
-    BURRHUS
+    BURRHUS.
         Cet amour, Seigneur, qui vous possède...  
 
-    NÉRON
+    NÉRON.
 Je vous entends, Burrhus, le mal est sans remède.  
-Mon cœur s'en est plus dit que vous ne m'en direz.  
+Mon coeur s'en est plus dit que vous ne m'en direz.  
 Il faut que j'aime enfin.  
 
-    BURRHUS
+    BURRHUS.
         Vous vous le figurez,  
 Seigneur, et satisfait de quelque résistance  
 Vous redoutez un mal faible dans sa naissance.  
-Mais si dans son devoir votre cœur affermi  
+Mais si dans son devoir votre coeur affermi  
 Voulait ne point s'entendre avec son ennemi,  
 Si de vos premiers ans vous consultiez la gloire,  
 Si vous daigniez, Seigneur, rappeler la mémoire  
 Des vertus d'Octavie, indignes de ce prix,  
-Et de son chaste amour vainqueur de vos mépris ;  
+Et de son chaste amour vainqueur de vos mépris;  
 Surtout si de Junie évitant la présence  
 Vous condamniez vos yeux à quelques jours d'absence,  
 Croyez-moi, quelque amour qui semble vous charmer,  
 On n'aime point, Seigneur, si l'on ne veut aimer.  
 
-    NÉRON
+    NÉRON.
 Je vous croirai, Burrhus, lorsque dans les alarmes  
 Il faudra soutenir la gloire de nos armes,  
 Ou lorsque plus tranquille assis dans le Sénat  
-Il faudra décider du destin de l'État :  
+Il faudra décider du destin de l'État :  
 Je m'en reposerai sur votre expérience.  
 Mais, croyez-moi, l'amour est une autre science,  
 Burrhus, et je ferais quelque difficulté  
@@ -1236,39 +1203,37 @@ D'abaisser jusque-là votre sévérité.
 Adieu, je souffre trop éloigné de Junie.  
 
 
-## SCÈNE II
+## SCÈNE II.
 
     BURRHUS, SEUL.
 Enfin, Burrhus, Néron découvre son génie.  
 Cette férocité que tu croyais fléchir  
 De tes faibles liens est prête à s'affranchir.  
-En quels excès peut-être elle va se répandre !  
-Ô dieux ! En ce malheur quel conseil dois-je prendre ?  
+En quels excès peut-être elle va se répandre !  
+Ô dieux ! En ce malheur quel conseil dois-je prendre ?  
 Sénèque, dont les soins me devraient soulager,  
 Occupé loin de Rome ignore ce danger.  
-Mais quoi ? Si d'Agrippine excitant la tendresse  
+Mais quoi ? Si d'Agrippine excitant la tendresse  
 Je pouvais... La voici, mon bonheur me l'adresse.  
 
 
-## SCÈNE III
-Agrippine, Burrhus, Albine.
+## SCÈNE III. Agrippine, Burrhus, Albine.
 
-
-    AGRIPPINE
-Hé bien, je me trompais, Burrhus, dans mes soupçons ?  
+    AGRIPPINE.
+Hé bien, je me trompais, Burrhus, dans mes soupçons ?  
 Et vous vous signalez par d'illustres leçons.  
 On exile Pallas, dont le crime peut-être  
 Est d'avoir à l'empire élevé votre maître.  
 Vous le savez trop bien. Jamais sans ses avis,  
 Claude qu'il gouvernait n'eût adopté mon fils.  
-Que dis-je ? À son épouse on donne une rivale.  
+Que dis-je ? À son épouse on donne une rivale.  
 On affranchit Néron de la foi conjugale.  
 Digne emploi d'un ministre, ennemi des flatteurs,  
 Choisi pour mettre un frein à ses jeunes ardeurs,  
 De les flatter lui-même, et nourrir dans son âme  
-Le mépris de sa mère, et l'oubli de sa femme !  
+Le mépris de sa mère, et l'oubli de sa femme !  
 
-    BURRHUS
+    BURRHUS.
 Madame, jusqu'ici c'est trop tôt m'accuser.  
 L'empereur n'a rien fait qu'on ne puisse excuser.  
 N'imputez qu'à Pallas un exil nécessaire,  
@@ -1281,8 +1246,8 @@ Mais calmez vos transports. Par un chemin plus doux
 Vous lui pourrez plus tôt ramener son époux.  
 Les menaces, les cris le rendront plus farouche.  
 
-    AGRIPPINE
-Ah ! L'on s'efforce en vain de me fermer la bouche.  
+    AGRIPPINE.
+Ah ! L'on s'efforce en vain de me fermer la bouche.  
 Je vois que mon silence irrite vos dédains,  
 Et c'est trop respecter l'ouvrage de mes mains.  
 Pallas n'emporte pas tout l'appui d'Agrippine,  
@@ -1294,7 +1259,7 @@ Plaindre aux yeux des soldats son enfance opprimée,
 Leur faire à mon exemple expier leur erreur.  
 On verra d'un côté le fils d'un empereur,  
 Redemandant la foi jurée à sa famille,  
-Et de Germanicus on entendra la fille ;  
+Et de Germanicus on entendra la fille ;  
 De l'autre l'on verra le fils d'Enobarbus,  
 Appuyé de Sénèque, et du tribun Burrhus,  
 Qui tous deux de l'exil rappelés par moi-même,  
@@ -1306,7 +1271,7 @@ J'avouerai les rumeurs les plus injurieuses.
 Je confesserai tout, exils, assassinats,  
 Poison même...  
 
-    BURRHUS
+    BURRHUS.
         Madame, ils ne vous croiront pas.  
 Ils sauront récuser l'injuste stratagème  
 D'un témoin irrité qui s'accuse lui-même.  
@@ -1327,65 +1292,61 @@ Vous en fera bientôt perdre la volonté.
 J'ai commencé, je vais poursuivre mon ouvrage.  
 
 
-## SCÈNE IV
-Agrippine, Albine.
+## SCÈNE IV. Agrippine, Albine.
 
-
-    ALBINE
+    ALBINE.
 Dans quel emportement la douleur vous engage,  
-Madame ! L'empereur puisse-t-il l'ignorer !  
+Madame ! L'empereur puisse-t-il l'ignorer !  
 
-    AGRIPPINE
-Ah ! Lui-même à mes yeux puisse-t-il se montrer !  
+    AGRIPPINE.
+Ah ! Lui-même à mes yeux puisse-t-il se montrer !  
 
-    ALBINE
+    ALBINE.
 Madame, au nom des dieux, cachez votre colère.  
-Quoi pour les intérêts de la sœur ou du frère  
-Faut-il sacrifier le repos de vos jours ?  
-Contraindrez-vous César jusque dans ses amours ?  
+Quoi pour les intérêts de la soeur ou du frère  
+Faut-il sacrifier le repos de vos jours ?  
+Contraindrez-vous César jusque dans ses amours ?  
 
-    AGRIPPINE
+    AGRIPPINE.
 Quoi tu ne vois donc pas jusqu'où l'on me ravale,  
-Albine ? C'est à moi qu'on donne une rivale.  
+Albine ? C'est à moi qu'on donne une rivale.  
 Bientôt si je ne romps ce funeste lien,  
 Ma place est occupée, et je ne suis plus rien.  
 Jusqu'ici d'un vain titre Octavie honorée  
 Inutile à la cour, en était ignorée.  
 Les grâces, les honneurs par moi seule versés  
-M'attiraient des mortels les vœux intéressés.  
+M'attiraient des mortels les voeux intéressés.  
 Une autre de César a surpris la tendresse,  
 Elle aura le pouvoir d'épouse et de maîtresse,  
 Le fruit de tant de soins, la pompe des Césars,  
 Tout deviendra le prix d'un seul de ses regards.  
-Que dis-je ? L'on m'évite et déjà délaissée...  
+Que dis-je ? L'on m'évite et déjà délaissée...  
 Ah je ne puis, Albine, en souffrir la pensée.  
 Quand je devrais du ciel hâter l'arrêt fatal,  
 Néron, l'ingrat Néron... Mais voici son rival.  
 
 
-## SCÈNE V
-Britannicus, Agrippine, Narcisse, Albine.
+## SCÈNE V. Britannicus, Agrippine, Narcisse, Albine.
 
-
-    BRITANNICUS
+    BRITANNICUS.
 Nos ennemis communs ne sont pas invincibles,  
-Madame. Nos malheurs trouvent des cœurs sensibles.  
+Madame. Nos malheurs trouvent des coeurs sensibles.  
 Vos amis et les miens jusqu'alors si secrets,  
 Tandis que nous perdions le temps en vains regrets,  
 Animés du courroux qu'allume l'injustice  
 Viennent de confier leur douleur à Narcisse.  
 Néron n'est pas encor tranquille possesseur  
-De l'ingrate qu'il aime au mépris de ma sœur.  
+De l'ingrate qu'il aime au mépris de ma soeur.  
 Si vous êtes toujours sensible à son injure,  
 On peut dans son devoir ramener le parjure.  
 La moitié du Sénat s'intéresse pour nous.  
 Sylla, Pison, Plautus...  
 
-    AGRIPPINE
-        Prince, que dites-vous ?  
-Sylla, Pison, Plautus ! Les chefs de la noblesse !  
+    AGRIPPINE.
+        Prince, que dites-vous ?  
+Sylla, Pison, Plautus ! Les chefs de la noblesse !  
 
-    BRITANNICUS
+    BRITANNICUS.
 Madame, je vois bien que ce discours vous blesse,  
 Et que votre courroux tremblant, irrésolu,  
 Craint déjà d'obtenir tout ce qu'il a voulu.  
@@ -1394,96 +1355,92 @@ D'aucun ami pour moi ne redoutez l'audace.
 Il ne m'en reste plus, et vos soins trop prudents  
 Les ont tous écartés ou séduits dès longtemps.  
 
-    AGRIPPINE
-Seigneur, à vos soupçons donnez moins de créance :  
+    AGRIPPINE.
+Seigneur, à vos soupçons donnez moins de créance :  
 Notre salut dépend de notre intelligence.  
 J'ai promis, il suffit. Malgré vos ennemis  
 Je ne révoque rien de ce que j'ai promis.  
 Le coupable Néron fuit en vain ma colère.  
 Tôt ou tard il faudra qu'il entende sa mère.  
 J'essaierai tour à tour la force et la douceur.  
-Ou moi-même avec moi conduisant votre sœur,  
+Ou moi-même avec moi conduisant votre soeur,  
 J'irai semer partout ma crainte et ses alarmes,  
-Et ranger tous les cœurs du parti de ses larmes.  
+Et ranger tous les coeurs du parti de ses larmes.  
 Adieu. J'assiégerai Néron de toutes parts.  
 Vous, si vous m'en croyez, évitez ses regards.  
 
 
-## SCÈNE VI
-Britannicus, Narcisse.
+## SCÈNE VI. Britannicus, Narcisse.
 
-
-    BRITANNICUS
-Ne m'as-tu point flatté d'une fausse espérance ?  
+    BRITANNICUS.
+Ne m'as-tu point flatté d'une fausse espérance ?  
 Puis-je sur ton récit fonder quelque assurance,  
-Narcisse ?  
+Narcisse ?  
 
-    NARCISSE
+    NARCISSE.
         Oui. Mais, Seigneur, ce n'est pas en ces lieux  
 Qu'il faut développer ce mystère à vos yeux.  
-Sortons. Qu'attendez-vous ?  
+Sortons. Qu'attendez-vous ?  
 
-    BRITANNICUS
-        Ce que j'attends, Narcisse ?  
-Hélas !  
+    BRITANNICUS.
+        Ce que j'attends, Narcisse ?  
+Hélas !  
 
-    NARCISSE
-        Expliquez-vous.  
+    NARCISSE.
+    Expliquez-vous.  
 
-    BRITANNICUS
+    BRITANNICUS.
         Si par ton artifice  
 Je pouvais revoir...  
 
-    NARCISSE
-        Qui ?  
+    NARCISSE.
+    Qui ?  
 
-    BRITANNICUS
+    BRITANNICUS.
         J'en rougis. Mais enfin  
-D'un cœur moins agité j'attendrais mon destin.  
+D'un coeur moins agité j'attendrais mon destin.  
 
-    NARCISSE
-Après tous mes discours vous la croyez fidèle ?  
+    NARCISSE.
+Après tous mes discours vous la croyez fidèle ?  
 
-    BRITANNICUS
+    BRITANNICUS.
 Non, je la crois, Narcisse, ingrate, criminelle,  
 Digne de mon courroux. Mais je sens malgré moi  
-Que je ne le crois pas autant que je le doi.  
-Dans ses égarements mon cœur opiniâtre  
+Que je ne le crois pas autant que je le dois.  
+Dans ses égarements mon coeur opiniâtre  
 Lui prête des raisons, l'excuse, l'idolâtre.  
 Je voudrais vaincre enfin mon incrédulité,  
 Je la voudrais haïr avec tranquillité.  
-Et qui croira qu'un cœur si grand en apparence,  
+Et qui croira qu'un coeur si grand en apparence,  
 D'une infidèle cour ennemi dès l'enfance,  
 Renonce à tant de gloire, et dès le premier jour  
-Trame une perfidie inouïe à la cour ?  
+Trame une perfidie inouïe à la cour ?  
 
-    NARCISSE
+    NARCISSE.
 Et qui sait si l'ingrate en sa longue retraite  
-N'a point de l'empereur médité la défaite ?  
+N'a point de l'empereur médité la défaite ?  
 Trop sûre que ses yeux ne pouvaient se cacher  
 Peut-être elle fuyait pour se faire chercher,  
 Pour exciter Néron par la gloire pénible  
 De vaincre une fierté jusqu'alors invincible.  
 
-    BRITANNICUS
-Je ne la puis donc voir ?  
+    BRITANNICUS.
+Je ne la puis donc voir ?  
 
-    NARCISSE
+    NARCISSE.
         Seigneur, en ce moment  
-Elle reçoit les vœux de son nouvel amant.  
+Elle reçoit les voeux de son nouvel amant.  
 
-    BRITANNICUS
-Hé bien, Narcisse, allons. Mais que vois-je ? C'est elle.  
+    BRITANNICUS.
+Hé bien, Narcisse, allons. Mais que vois-je ? C'est elle.  
 
-    NARCISSE
-Ah dieux ! À l'empereur portons cette nouvelle.  
-
-
-## SCÈNE VII
-Britannicus, Junie.
+    NARCISSE.
+Ah dieux ! À l'empereur portons cette nouvelle.  
 
 
-    JUNIE
+## SCÈNE VII. Britannicus, Junie.
+
+    JUNIE.
 Retirez-vous, Seigneur, et fuyez un courroux  
 Que ma persévérance allume contre vous.  
 Néron est irrité. Je me suis échappée,  
@@ -1493,7 +1450,7 @@ Au plaisir de me voir justifier un jour.
 Votre image sans cesse est présente à mon âme.  
 Rien ne l'en peut bannir.  
 
-    BRITANNICUS
+    BRITANNICUS.
         Je vous entends, Madame,  
 Vous voulez que ma fuite assure vos désirs,  
 Que je laisse un champ libre à vos nouveaux soupirs.  
@@ -1501,25 +1458,25 @@ Sans doute en me voyant, une pudeur secrète
 Ne vous laisse goûter qu'une joie inquiète.  
 Hé bien, il faut partir.  
 
-    JUNIE
+    JUNIE.
         Seigneur, sans m'imputer...  
 
-    BRITANNICUS
-Ah ! Vous deviez du moins plus longtemps disputer.  
+    BRITANNICUS.
+Ah ! Vous deviez du moins plus longtemps disputer.  
 Je ne murmure point qu'une amitié commune  
 Se range du parti que flatte la fortune,  
 Que l'éclat d'un empire ait pu vous éblouir,  
-Qu'aux dépens de ma sœur vous en vouliez jouir.  
+Qu'aux dépens de ma soeur vous en vouliez jouir.  
 Mais que de ces grandeurs comme une autre occupée  
-Vous m'en ayez paru si longtemps détrompée ;  
-Non, je l'avoue encor, mon cœur désespéré  
+Vous m'en ayez paru si longtemps détrompée ;  
+Non, je l'avoue encor, mon coeur désespéré  
 Contre ce seul malheur n'était point préparé.  
 J'ai vu sur ma ruine élever l'injustice.  
 De mes persécuteurs j'ai vu le ciel complice.  
 Tant d'horreurs n'avaient point épuisé son courroux,  
 Madame. Il me restait d'être oublié de vous.  
 
-    JUNIE
+    JUNIE.
 Dans un temps plus heureux ma juste impatience  
 Vous ferait repentir de votre défiance.  
 Mais Néron vous menace. En ce pressant danger,  
@@ -1527,34 +1484,34 @@ Seigneur, j'ai d'autres soins que de vous affliger.
 Allez, rassurez-vous, et cessez de vous plaindre,  
 Néron nous écoutait, et m'ordonnait de feindre.  
 
-    BRITANNICUS
-Quoi le cruel ?...  
+    BRITANNICUS.
+Quoi le cruel ?...  
 
-    JUNIE
+    JUNIE.
         Témoin de tout notre entretien  
 D'un visage sévère examinait le mien,  
 Prêt à faire sur vous éclater la vengeance  
 D'un geste confident de notre intelligence.  
 
-    BRITANNICUS
-Néron nous écoutait, Madame ! Mais hélas !  
+    BRITANNICUS.
+Néron nous écoutait, Madame ! Mais hélas !  
 Vos yeux auraient pu feindre et ne m'abuser pas.  
 Ils pouvaient me nommer l'auteur de cet outrage.  
-L'amour est-il muet, ou n'a-t-il qu'un langage ?  
-De quel trouble un regard pouvait me préserver ?  
+L'amour est-il muet, ou n'a-t-il qu'un langage ?  
+De quel trouble un regard pouvait me préserver ?  
 Il fallait...  
 
-    JUNIE
+    JUNIE.
         Il fallait me taire, et vous sauver.  
-Combien de fois, hélas ! Puisqu'il faut vous le dire,  
-Mon cœur de son désordre allait-il vous instruire ?  
+Combien de fois, hélas ! Puisqu'il faut vous le dire,  
+Mon coeur de son désordre allait-il vous instruire ?  
 De combien de soupirs interrompant le cours  
-Ai-je évité vos yeux que je cherchais toujours !  
-Quel tourment de se taire en voyant ce qu'on aime !  
+Ai-je évité vos yeux que je cherchais toujours !  
+Quel tourment de se taire en voyant ce qu'on aime !  
 De l'entendre gémir, de l'affliger soi-même,  
 Lorsque par un regard on peut le consoler !  
-Mais quels pleurs ce regard aurait-il fait couler ?  
-Ah ! Dans ce souvenir inquiète, troublée,  
+Mais quels pleurs ce regard aurait-il fait couler ?  
+Ah ! Dans ce souvenir inquiète, troublée,  
 Je ne me sentais pas assez dissimulée.  
 De mon front effrayé je craignais la pâleur.  
 Je trouvais mes regards trop pleins de ma douleur.  
@@ -1562,27 +1519,25 @@ Sans cesse il me semblait que Néron en colère
 Me venait reprocher trop de soin de vous plaire.  
 Je craignais mon amour vainement renfermé,  
 Enfin j'aurais voulu n'avoir jamais aimé.  
-Hélas ! Pour son bonheur, Seigneur, et pour le nôtre,  
-Il n'est que trop instruit de mon cœur et du vôtre.  
+Hélas ! Pour son bonheur, Seigneur, et pour le nôtre,  
+Il n'est que trop instruit de mon coeur et du vôtre.  
 Allez encore un coup, cachez-vous à ses yeux.  
-Mon cœur plus à loisir vous éclaircira mieux.  
+Mon coeur plus à loisir vous éclaircira mieux.  
 De mille autres secrets j'aurais compte à vous rendre.  
 
-    BRITANNICUS
-Ah ! N'en voilà que trop. C'est trop me faire entendre,  
+    BRITANNICUS.
+Ah ! N'en voilà que trop. C'est trop me faire entendre,  
 Madame, mon bonheur, mon crime, vos bontés.  
-Et savez-vous pour moi tout ce que vous quittez ?  
-Quand pourrai-je à vos pieds expier ce reproche ?  
+Et savez-vous pour moi tout ce que vous quittez ?  
+Quand pourrai-je à vos pieds expier ce reproche ?  
 
-    JUNIE
-Que faites-vous ? Hélas ! Votre rival s'approche.  
-
-
-## SCÈNE VIII
-Néron, Britannicus, Junie.
+    JUNIE.
+Que faites-vous ? Hélas ! Votre rival s'approche.  
 
 
-    NÉRON
+## SCÈNE VIII. Néron, Britannicus, Junie.
+
+    NÉRON.
 Prince, continuez des transports si charmants.  
 Je conçois vos bontés par ses remerciements,  
 Madame, à vos genoux, je viens de le surprendre.  
@@ -1590,125 +1545,123 @@ Mais il aurait aussi quelque grâce à me rendre,
 Ce lieu le favorise, et je vous y retiens  
 Pour lui faciliter de si doux entretiens...  
 
-    BRITANNICUS
+    BRITANNICUS.
 Je puis mettre à ses pieds ma douleur, ou ma joie,  
 Partout où sa bonté consent que je la voie.  
 Et l'aspect de ces lieux où vous la retenez,  
 N'a rien dont mes regards doivent être étonnés.  
 
-    NÉRON
+    NÉRON.
 Et que vous montrent-ils qui ne vous avertisse  
-Qu'il faut qu'on me respecte, et que l'on m'obéisse ?  
+Qu'il faut qu'on me respecte, et que l'on m'obéisse ?  
 
-    BRITANNICUS
+    BRITANNICUS.
 Ils ne nous ont pas vu l'un et l'autre élever,  
 Moi pour vous obéir, et vous pour me braver,  
 Et ne s'attendaient pas lorsqu'ils nous virent naître,  
 Qu'un jour Domitius me dût parler en maître.  
 
-    NÉRON
-Ainsi par le destin nos vœux sont traversés,  
+    NÉRON.
+Ainsi par le destin nos voeux sont traversés,  
 J'obéissais alors et vous obéissez.  
 Si vous n'avez appris à vous laisser conduire,  
 Vous êtes jeune encore et l'on peut vous instruire.  
 
-    BRITANNICUS
-Et qui m'en instruira ?  
+    BRITANNICUS.
+Et qui m'en instruira ?  
 
-    NÉRON
+    NÉRON.
         Tout l'empire à la fois,  
 Rome.  
 
-    BRITANNICUS
+    BRITANNICUS.
         Rome met-elle au nombre de vos droits  
 Tout ce qu'a de cruel l'injustice et la force,  
-Les emprisonnements, le rapt, et le divorce ?  
+Les emprisonnements, le rapt, et le divorce ?  
 
-    NÉRON
+    NÉRON.
 Rome ne porte point ses regards curieux  
 Jusque dans des secrets que je cache à ses yeux.  
 Imitez son respect.  
 
-    BRITANNICUS
+    BRITANNICUS.
         On sait ce qu'elle en pense.  
 
-    NÉRON
+    NÉRON.
 Elle se tait du moins, imitez son silence.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Ainsi Néron commence à ne se plus forcer.  
 
-    NÉRON
+    NÉRON.
 Néron de vos discours commence à se lasser.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Chacun devait bénir le bonheur de son règne.  
 
-    NÉRON
+    NÉRON.
 Heureux ou malheureux, il suffit qu'on me craigne.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Je connais mal Junie, ou de tels sentiments  
 Ne mériteront pas ses applaudissements.  
 
-    NÉRON
+    NÉRON.
 Du moins si je ne sais le secret de lui plaire,  
 Je sais l'art de punir un rival téméraire.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Pour moi, quelque péril qui me puisse accabler,  
 Sa seule inimitié peut me faire trembler.  
 
-    NÉRON
+    NÉRON.
 Souhaitez-la. C'est tout ce que je vous puis dire.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Le bonheur de lui plaire est le seul où j'aspire.  
 
-    NÉRON
+    NÉRON.
 Elle vous l'a promis, vous lui plairez toujours.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Je ne sais pas du moins épier ses discours.  
 Je la laisse expliquer sur tout ce qui me touche,  
 Et ne me cache point pour lui fermer la bouche.  
 
-    NÉRON
-Je vous entends. Hé bien, gardes !  
+    NÉRON.
+Je vous entends. Hé bien, gardes !  
 
-    JUNIE
-        Que faites-vous ?  
-C'est votre frère. Hélas ! C'est un amant jaloux,  
+    JUNIE.
+        Que faites-vous ?  
+C'est votre frère. Hélas ! C'est un amant jaloux,  
 Seigneur, mille malheurs persécutent sa vie.  
-Ah ! Son bonheur peut-il exciter votre envie ?  
-Souffrez que de vos cœurs rapprochant les liens,  
+Ah ! Son bonheur peut-il exciter votre envie ?  
+Souffrez que de vos coeurs rapprochant les liens,  
 Je me cache à vos yeux, et me dérobe aux siens.  
 Ma fuite arrêtera vos discordes fatales,  
 Seigneur, j'irai remplir le nombre des Vestales.  
-Ne lui disputez plus mes vœux infortunés,  
+Ne lui disputez plus mes voeux infortunés,  
 Souffrez que les dieux seuls en soient importunés.  
 
-    NÉRON
+    NÉRON.
 L'entreprise, Madame, est étrange et soudaine.  
 Dans son appartement, gardes, qu'on la ramène.  
-Gardez Britannicus dans celui de sa sœur.  
+Gardez Britannicus dans celui de sa soeur.  
 
-    BRITANNICUS
-C'est ainsi que Néron sait disputer un cœur.  
+    BRITANNICUS.
+C'est ainsi que Néron sait disputer un coeur.  
 
-    JUNIE
+    JUNIE.
 Prince, sans l'irriter, cédons à cet orage.  
 
-    NÉRON
+    NÉRON.
 Gardes, obéissez, sans tarder davantage.  
 
 
-## SCÈNE IX
-Néron, Burrhus.
+## SCÈNE IX. Néron, Burrhus.
 
-
-    BURRHUS
-Que vois-je ? Ô ciel !  
+    BURRHUS.
+Que vois-je ? Ô ciel !  
 
     NÉRON, SANS VOIR BURRHUS.
         Ainsi leurs feux sont redoublés,  
@@ -1720,10 +1673,10 @@ Qu'on sache si ma mère est encore en ces lieux.
 Burrhus, dans ce palais je veux qu'on la retienne,  
 Et qu'au lieu de sa garde, on lui donne la mienne.  
 
-    BURRHUS
-Quoi, Seigneur ? Sans l'ouïr ? Une mère ?  
+    BURRHUS.
+Quoi, Seigneur ? Sans l'ouïr ? Une mère ?  
 
-    NÉRON
+    NÉRON.
         Arrêtez.  
 J'ignore quel projet, Burrhus, vous méditez.  
 Mais depuis quelques jours tout ce que je désire  
@@ -1735,11 +1688,9 @@ D'autres me répondront et d'elle, et de Burrhus.
 # ACTE IV
 
 
-## SCÈNE PREMIÈRE
-Agrippine, Burrhus.
+## SCÈNE PREMIÈRE. Agrippine, Burrhus.
 
-
-    BURRHUS
+    BURRHUS.
 Oui Madame, à loisir vous pourrez vous défendre.  
 César lui-même ici consent de vous entendre.  
 Si son ordre au palais vous a fait retenir,  
@@ -1757,15 +1708,13 @@ La cour autour de vous ou s'écarte, ou s'empresse.
 C'est son appui qu'on cherche, en cherchant votre appui.  
 Mais voici l'empereur.  
 
-    AGRIPPINE
+    AGRIPPINE.
         Qu'on me laisse avec lui.  
 
 
-## SCÈNE II
-Agrippine, Néron.
+## SCÈNE II. Agrippine, Néron.
 
-
-    AGRIPPINE, S’ASSEYANT.
+    AGRIPPINE, S'ASSEYANT.
 Approchez-vous, Néron, et prenez votre place.  
 On veut sur vos soupçons que je vous satisfasse.  
 J'ignore de quel crime on a pu me noircir.  
@@ -1795,13 +1744,13 @@ Je vous nommai son gendre, et vous donnai sa fille.
 Silanus, qui l'aimait, s'en vit abandonné,  
 Et marqua de son sang ce jour infortuné.  
 Ce n'était rien encor. Eussiez-vous pu prétendre  
-Qu'un jour Claude à son fils dût préférer son gendre ?  
+Qu'un jour Claude à son fils dût préférer son gendre ?  
 De ce même Pallas j'implorai le secours,  
 Claude vous adopta, vaincu par ses discours,  
 Vous appela Néron, et du pouvoir suprême  
 Voulut avant le temps vous faire part lui-même.  
 C'est alors que chacun rappelant le passé  
-Découvrit mon dessein, déjà trop avancé ;  
+Découvrit mon dessein, déjà trop avancé ;  
 Que de Britannicus la disgrâce future  
 Des amis de son père excita le murmure.  
 Mes promesses aux uns éblouirent les yeux,  
@@ -1810,7 +1759,7 @@ Claude même lassé de ma plainte éternelle
 Éloigna de son fils tous ceux, de qui le zèle  
 Engagé dès longtemps à suivre son destin,  
 Pouvait du trône encor lui rouvrir le chemin.  
-Je fis plus : je choisis moi-même dans ma suite  
+Je fis plus : je choisis moi-même dans ma suite  
 Ceux à qui je voulais qu'on livrât sa conduite.  
 J'eus soin de vous nommer, par un contraire choix,  
 Des gouverneurs que Rome honorait de sa voix.  
@@ -1821,7 +1770,7 @@ Qui depuis... Rome alors estimait leurs vertus.
 De Claude en même temps épuisant les richesses  
 Ma main, sous votre nom, répandait ses largesses.  
 Les spectacles, les dons, invincibles appas  
-Vous attiraient les cœurs du peuple, et des soldats,  
+Vous attiraient les coeurs du peuple, et des soldats,  
 Qui d'ailleurs réveillant leur tendresse première  
 Favorisaient en vous Germanicus mon père.  
 Cependant Claudius penchait vers son déclin.  
@@ -1835,7 +1784,7 @@ De ses derniers soupirs je me rendis maîtresse,
 Mes soins, en apparence épargnant ses douleurs,  
 De son fils, en mourant, lui cachèrent les pleurs.  
 Il mourut. Mille bruits en courent à ma honte.  
-J'arrêtai de sa mort la nouvelle trop prompte :  
+J'arrêtai de sa mort la nouvelle trop prompte :  
 Et tandis que Burrhus allait secrètement  
 De l'armée en vos mains exiger le serment,  
 Que vous marchiez au camp, conduit sous mes auspices,  
@@ -1864,9 +1813,9 @@ Je vous ai demandé raison de tant d'injures,
 Par de nouveaux affronts vous m'avez répondu.  
 Aujourd'hui je promets Junie à votre frère,  
 Ils se flattent tous deux du choix de votre mère,  
-Que faites-vous ? Junie enlevée à la cour  
+Que faites-vous ? Junie enlevée à la cour  
 Devient en une nuit l'objet de votre amour.  
-Je vois de votre cœur Octavie effacée  
+Je vois de votre coeur Octavie effacée  
 Prête à sortir du lit, où je l'avais placée.  
 Je vois Pallas banni, votre frère arrêté,  
 Vous attentez enfin jusqu'à ma liberté,  
@@ -1875,7 +1824,7 @@ Et lorsque convaincu de tant de perfidies
 Vous deviez ne me voir que pour les expier,  
 C'est vous, qui m'ordonnez de me justifier.  
 
-    NÉRON
+    NÉRON.
 Je me souviens toujours que je vous dois l'empire.  
 Et sans vous fatiguer du soin de le redire,  
 Votre bonté, Madame, avec tranquillité  
@@ -1885,13 +1834,13 @@ Ont fait croire à tous ceux qui les ont entendues,
 Que jadis (j'ose ici vous le dire entre nous)  
 Vous n'aviez sous mon nom travaillé que pour vous.  
 « Tant d'honneurs (disaient-ils) et tant de déférences  
-Sont-ce de ses bienfaits de faibles récompenses ?  
-Quel crime a donc commis ce fils tant condamné ?  
-Est-ce pour obéir qu'elle l'a couronné ?  
-N'est-il de son pouvoir que le dépositaire ? »  
+Sont-ce de ses bienfaits de faibles récompenses ?  
+Quel crime a donc commis ce fils tant condamné ?  
+Est-ce pour obéir qu'elle l'a couronné ?  
+N'est-il de son pouvoir que le dépositaire ? »  
 Non, que si jusque là j'avais pu vous complaire,  
 Je n'eusse pris plaisir, Madame, à vous céder  
-Ce pouvoir que vos cris semblaient redemander :  
+Ce pouvoir que vos cris semblaient redemander :  
 Mais Rome veut un maître, et non une maîtresse.  
 Vous entendiez les bruits qu'excitait ma faiblesse.  
 Le Sénat chaque jour, et le peuple irrités  
@@ -1912,14 +1861,14 @@ On vous voit de colère, et de haine animée.
 Vous voulez présenter mon rival à l'armée.  
 Déjà jusques au camp le bruit en a couru.  
 
-    AGRIPPINE
-Moi le faire empereur, ingrat ? L'avez-vous cru ?  
-Quel serait mon dessein ? Qu'aurais-je pu prétendre ?  
-Quels honneurs dans sa cour, quel rang pourrais-je attendre ?  
-Ah ! Si sous votre empire on ne m'épargne pas,  
+    AGRIPPINE.
+Moi le faire empereur, ingrat ? L'avez-vous cru ?  
+Quel serait mon dessein ? Qu'aurais-je pu prétendre ?  
+Quels honneurs dans sa cour, quel rang pourrais-je attendre ?  
+Ah ! Si sous votre empire on ne m'épargne pas,  
 Si mes accusateurs observent tous mes pas,  
 Si de leur empereur ils poursuivent la mère,  
-Que ferais-je au milieu d'une cour étrangère ?  
+Que ferais-je au milieu d'une cour étrangère ?  
 Ils me reprocheraient, non des cris impuissants,  
 Des desseins étouffés aussitôt que naissants,  
 Mais des crimes pour vous commis à votre vue,  
@@ -1930,23 +1879,23 @@ Dès vos plus jeunes ans mes soins et mes tendresses
 N'ont arraché de vous que de feintes caresses.  
 Rien ne vous a pu vaincre, et votre dureté  
 Aurait dû dans son cours arrêter ma bonté.  
-Que je suis malheureuse ! Et par quelle infortune  
-Faut-il que tous mes soins me rendent importune ?  
+Que je suis malheureuse ! Et par quelle infortune  
+Faut-il que tous mes soins me rendent importune ?  
 Je n'ai qu'un fils. Ô ciel, qui m'entends aujourd'hui,  
-T'ai-je fait quelques vœux qui ne fussent pour lui ?  
+T'ai-je fait quelques voeux qui ne fussent pour lui ?  
 Remords, crainte, périls, rien ne m'a retenue.  
 J'ai vaincu ses mépris, j'ai détourné ma vue  
 Des malheurs qui dès lors me furent annoncés.  
 J'ai fait ce que j'ai pu, vous régnez, c'est assez.  
 Avec ma liberté, que vous m'avez ravie,  
-Si vous le souhaitez prenez encor ma vie ;  
+Si vous le souhaitez prenez encor ma vie ;  
 Pourvu que par ma mort tout le peuple irrité  
 Ne vous ravisse pas ce qui m'a tant coûté.  
 
-    NÉRON
-Hé bien donc, prononcez, que voulez-vous qu'on fasse ?  
+    NÉRON.
+Hé bien donc, prononcez, que voulez-vous qu'on fasse ?  
 
-    AGRIPPINE
+    AGRIPPINE.
 De mes accusateurs qu'on punisse l'audace,  
 Que de Britannicus on calme le courroux,  
 Que Junie à son choix puisse prendre un époux,  
@@ -1955,9 +1904,9 @@ Que vous me permettiez de vous voir à toute heure,
 Que ce même Burrhus, qui nous vient écouter,  
 À votre porte enfin n'ose plus m'arrêter.  
 
-    NÉRON
+    NÉRON.
 Oui, Madame, je veux que ma reconnaissance  
-Désormais dans les cœurs grave votre puissance,  
+Désormais dans les coeurs grave votre puissance,  
 Et je bénis déjà cette heureuse froideur  
 Qui de notre amitié va rallumer l'ardeur.  
 Quoi que Pallas ait fait, il suffit, je l'oublie,  
@@ -1968,28 +1917,26 @@ Allez donc, et portez cette joie à mon frère.
 Gardes, qu'on obéisse aux ordres de ma mère.  
 
 
-## SCÈNE III
-Néron, Burrhus.
+## SCÈNE III. Néron, Burrhus.
 
-
-    BURRHUS
+    BURRHUS.
 Que cette paix, Seigneur, et ces embrassements  
-Vont offrir à mes yeux des spectacles charmants !  
+Vont offrir à mes yeux des spectacles charmants !  
 Vous savez si jamais ma voix lui fut contraire,  
 Si de son amitié j'ai voulu vous distraire,  
 Et si j'ai mérité cet injuste courroux.  
 
-    NÉRON
+    NÉRON.
 Je ne vous flatte point, je me plaignais de vous,  
 Burrhus, je vous ai crus tous deux d'intelligence.  
 Mais son inimitié vous rend ma confiance,  
 Elle se hâte trop, Burrhus, de triompher.  
 J'embrasse mon rival, mais c'est pour l'étouffer.  
 
-    BURRHUS
-Quoi Seigneur !  
+    BURRHUS.
+Quoi Seigneur !  
 
-    NÉRON
+    NÉRON.
         C'en est trop. Il faut que sa ruine  
 Me délivre à jamais des fureurs d'Agrippine.  
 Tant qu'il respirera je ne vis qu'à demi.  
@@ -1997,42 +1944,42 @@ Elle m'a fatigué de ce nom ennemi,
 Et je ne prétends pas que sa coupable audace  
 Une seconde fois lui promette ma place.  
 
-    BURRHUS
+    BURRHUS.
 Elle va donc bientôt pleurer Britannicus.  
 
-    NÉRON
+    NÉRON.
 Avant la fin du jour je ne le craindrai plus.  
 
-    BURRHUS
-Et qui de ce dessein vous inspire l'envie ?  
+    BURRHUS.
+Et qui de ce dessein vous inspire l'envie ?  
 
-    NÉRON
+    NÉRON.
 Ma gloire, mon amour, ma sûreté, ma vie.  
 
-    BURRHUS
+    BURRHUS.
 Non, quoique vous disiez, cet horrible dessein  
 Ne fut jamais, Seigneur, conçu dans votre sein.  
 
-    NÉRON
-Burrhus !  
+    NÉRON.
+Burrhus !  
 
-    BURRHUS
-        De votre bouche, ô ciel ! Puis-je l'apprendre ?  
-Vous-même sans frémir avez-vous pu l'entendre ?  
-Songez-vous dans quel sang vous allez vous baigner ?  
-Néron dans tous les cœurs est-il las de régner ?  
-Que dira-t-on de vous ? Quelle est votre pensée ?  
+    BURRHUS.
+        De votre bouche, ô ciel ! Puis-je l'apprendre ?  
+Vous-même sans frémir avez-vous pu l'entendre ?  
+Songez-vous dans quel sang vous allez vous baigner ?  
+Néron dans tous les coeurs est-il las de régner ?  
+Que dira-t-on de vous ? Quelle est votre pensée ?  
 
-    NÉRON
+    NÉRON.
 Quoi toujours enchaîné de ma gloire passée  
 J'aurai devant les yeux je ne sais quel amour,  
-Que le hasard nous donne et nous ôte en un jour ?  
-Soumis à tous leurs vœux, à mes désirs contraire  
-Suis-je leur empereur seulement pour leur plaire ?  
+Que le hasard nous donne et nous ôte en un jour ?  
+Soumis à tous leurs voeux, à mes désirs contraire  
+Suis-je leur empereur seulement pour leur plaire ?  
 
-    BURRHUS
+    BURRHUS.
 Et ne suffit-il pas, Seigneur, à vos souhaits  
-Que le bonheur public soit un de vos bienfaits ?  
+Que le bonheur public soit un de vos bienfaits ?  
 C'est à vous à choisir, vous êtes encor maître.  
 Vertueux jusqu'ici vous pouvez toujours l'être.  
 Le chemin est tracé, rien ne vous retient plus.  
@@ -2049,22 +1996,22 @@ Vous allumez un feu qui ne pourra s'éteindre.
 Craint de tout l'univers il vous faudra tout craindre,  
 Toujours punir, toujours trembler dans vos projets,  
 Et pour vos ennemis compter tous vos sujets.  
-Ah ! De vos premiers ans l'heureuse expérience  
-Vous fait-elle, Seigneur, haïr votre innocence ?  
-Songez-vous au bonheur qui les a signalés ?  
-Dans quel repos, ô ciel ! Les avez-vous coulés ?  
+Ah ! De vos premiers ans l'heureuse expérience  
+Vous fait-elle, Seigneur, haïr votre innocence ?  
+Songez-vous au bonheur qui les a signalés ?  
+Dans quel repos, ô ciel ! Les avez-vous coulés ?  
 Quel plaisir de penser et de dire en vous-même,  
 « Partout, en ce moment, on me bénit, on m'aime.  
 On ne voit point le peuple à mon nom s'alarmer,  
 Le ciel dans tous leurs pleurs ne m'entend point nommer.  
 Leur sombre inimitié ne fuit point mon visage,  
-Je vois voler partout les cœurs à mon passage ! »  
-Tels étaient vos plaisirs. Quel changement, ô dieux !  
+Je vois voler partout les coeurs à mon passage ! »  
+Tels étaient vos plaisirs. Quel changement, ô dieux !  
 Le sang le plus abject vous était précieux.  
 Un jour, il m'en souvient, le Sénat équitable  
 Vous pressait de souscrire à la mort d'un coupable,  
 Vous résistiez, Seigneur, à leur sévérité,  
-Votre cœur s'accusait de trop de cruauté,  
+Votre coeur s'accusait de trop de cruauté,  
 Et plaignant les malheurs attachés à l'empire,  
 « Je voudrais, disiez-vous, ne savoir pas écrire. »  
 Non, ou vous me croirez, ou bien de ce malheur  
@@ -2074,7 +2021,7 @@ Si vous allez commettre une action si noire,
 Il se jette à genoux.
 
 Me voilà prêt, Seigneur, avant que de partir,  
-Faites percer ce cœur qui n'y peut consentir.  
+Faites percer ce coeur qui n'y peut consentir.  
 Appelez les cruels qui vous l'ont inspirée,  
 Qu'ils viennent essayer leur main mal assurée.  
 Mais je vois que mes pleurs touchent mon empereur,  
@@ -2083,100 +2030,98 @@ Ne perdez point de temps, nommez-moi les perfides
 Qui vous osent donner ces conseils parricides.  
 Appelez votre frère, oubliez dans ses bras...  
 
-    NÉRON
-Ah ! Que demandez-vous !  
+    NÉRON.
+Ah ! Que demandez-vous !  
 
-    BURRHUS
+    BURRHUS.
         Non, il ne vous hait pas,  
 Seigneur, on le trahit, je sais son innocence,  
 Je vous réponds pour lui de son obéissance.  
 J'y cours. Je vais presser un entretien si doux.  
 
-    NÉRON
+    NÉRON.
 Dans mon appartement qu'il m'attende avec vous.  
 
 
-## SCÈNE IV
-Néron, Narcisse.
+## SCÈNE IV. Néron, Narcisse.
 
-
-    NARCISSE
+    NARCISSE.
 Seigneur, j'ai tout prévu pour une mort si juste.  
 Le poison est tout prêt. La fameuse Locuste  
 A redoublé pour moi ses soins officieux.  
-Elle a fait expirer un esclave à mes yeux ;  
+Elle a fait expirer un esclave à mes yeux;  
 Et le fer est moins prompt pour trancher une vie  
 Que le nouveau poison que sa main me confie.  
 
-    NÉRON
+    NÉRON.
 Narcisse, c'est assez, je reconnais ce soin,  
 Et ne souhaite pas que vous alliez plus loin.  
 
-    NARCISSE
-Quoi ! Pour Britannicus votre haine affaiblie  
+    NARCISSE.
+Quoi ! Pour Britannicus votre haine affaiblie  
 Me défend...  
 
-    NÉRON
+    NÉRON.
         Oui, Narcisse, on nous réconcilie.  
 
-    NARCISSE
+    NARCISSE.
 Je me garderai bien de vous en détourner,  
 Seigneur. Mais il s'est vu tantôt emprisonner.  
-Cette offense en son cœur sera longtemps nouvelle.  
+Cette offense en son coeur sera longtemps nouvelle.  
 Il n'est point de secrets que le temps ne révèle.  
 Il saura que ma main lui devait présenter  
 Un poison que votre ordre avait fait apprêter.  
-Les dieux de ce dessein puissent-ils le distraire !  
+Les dieux de ce dessein puissent-ils le distraire !  
 Mais peut-être il fera ce que vous n'osez faire.  
 
-    NÉRON
-On répond de son cœur, et je vaincrai le mien.  
+    NÉRON.
+On répond de son coeur, et je vaincrai le mien.  
 
-    NARCISSE
-Et l'hymen de Junie en est-il le lien ?  
-Seigneur, lui faites-vous encor ce sacrifice ?  
+    NARCISSE.
+Et l'hymen de Junie en est-il le lien ?  
+Seigneur, lui faites-vous encor ce sacrifice ?  
 
-    NÉRON
+    NÉRON.
 C'est prendre trop soin. Quoi qu'il en soit, Narcisse,  
 Je ne le compte plus parmi mes ennemis.  
 
-    NARCISSE
+    NARCISSE.
 Agrippine, Seigneur, se l'était bien promis.  
 Elle a repris sur vous son souverain empire.  
 
-    NÉRON
-Quoi donc ? Qu'a-t-elle dit ? Et que voulez-vous dire ?  
+    NÉRON.
+Quoi donc ? Qu'a-t-elle dit ? Et que voulez-vous dire ?  
 
-    NARCISSE
+    NARCISSE.
 Elle s'en est vantée assez publiquement.  
 
-    NÉRON
-De quoi ?  
+    NÉRON.
+De quoi ?  
 
-    NARCISSE
-        Qu'elle n'avait qu'à vous voir un moment :  
+    NARCISSE.
+        Qu'elle n'avait qu'à vous voir un moment :  
 Qu'à tout ce grand éclat, à ce courroux funeste  
 On verrait succéder un silence modeste,  
 Que vous-même à la paix souscririez le premier,  
 Heureux que sa bonté daignât tout oublier.  
 
-    NÉRON
-Mais, Narcisse, dis-moi, que veux-tu que je fasse ?  
+    NÉRON.
+Mais, Narcisse, dis-moi, que veux-tu que je fasse ?  
 Je n'ai que trop de pente à punir son audace.  
 Et si je m'en croyais ce triomphe indiscret  
 Serait bientôt suivi d'un éternel regret.  
-Mais de tout l'univers quel sera le langage ?  
+Mais de tout l'univers quel sera le langage ?  
 Sur les pas des tyrans veux-tu que je m'engage,  
 Et que Rome effaçant tant de titres d'honneur  
-Me laisse pour tous noms celui d'empoisonneur ?  
+Me laisse pour tous noms celui d'empoisonneur ?  
 Ils mettront ma vengeance au rang des parricides.  
 
-    NARCISSE
-Et prenez-vous, Seigneur, leurs caprices pour guides ?  
-Avez-vous prétendu qu'ils se tairaient toujours ?  
-Est-ce à vous de prêter l'oreille à leurs discours ?  
-De vos propres désirs perdrez-vous la mémoire ?  
-Et serez-vous le seul que vous n'oserez croire ?  
+    NARCISSE.
+Et prenez-vous, Seigneur, leurs caprices pour guides ?  
+Avez-vous prétendu qu'ils se tairaient toujours ?  
+Est-ce à vous de prêter l'oreille à leurs discours ?  
+De vos propres désirs perdrez-vous la mémoire ?  
+Et serez-vous le seul que vous n'oserez croire ?  
 Mais, Seigneur, les Romains ne vous sont pas connus.  
 Non non, dans leurs discours ils sont plus retenus,  
 Tant de précaution affaiblit votre règne.  
@@ -2189,32 +2134,32 @@ Moi-même revêtu d'un pouvoir emprunté,
 Que je reçus de Claude avec la liberté,  
 J'ai cent fois dans le cours de ma gloire passée  
 Tenté leur patience, et ne l'ai point lassée.  
-D'un empoisonnement vous craignez la noirceur ?  
-Faites périr le frère, abandonnez la sœur.  
+D'un empoisonnement vous craignez la noirceur ?  
+Faites périr le frère, abandonnez la soeur.  
 Rome sur ses autels prodiguant les victimes,  
 Fussent-ils innocents, leur trouvera des crimes.  
 Vous verrez mettre au rang des jours infortunés  
-Ceux où jadis la sœur et le frère sont nés.  
+Ceux où jadis la soeur et le frère sont nés.  
 
-    NÉRON
+    NÉRON.
 Narcisse, encore un coup, je ne puis l'entreprendre.  
 J'ai promis à Burrhus, il a fallu me rendre.  
 Je ne veux point encore en lui manquant de foi  
 Donner à sa vertu des armes contre moi.  
 J'oppose à ses raisons un courage inutile,  
-Je ne l'écoute point avec un cœur tranquille.  
+Je ne l'écoute point avec un coeur tranquille.  
 
-    NARCISSE
+    NARCISSE.
 Burrhus ne pense pas, Seigneur, tout ce qu'il dit.  
 Son adroite vertu ménage son crédit.  
-Ou plutôt ils n'ont tous qu'une même pensée :  
-Ils verraient par ce coup leur puissance abaissée :  
+Ou plutôt ils n'ont tous qu'une même pensée :  
+Ils verraient par ce coup leur puissance abaissée :  
 Vous seriez libre alors, Seigneur, et devant vous  
 Ces maîtres orgueilleux fléchiraient comme nous.  
-Quoi donc ! Ignorez-vous tout ce qu'ils osent dire ?  
+Quoi donc ! Ignorez-vous tout ce qu'ils osent dire ?  
 « Néron, s'ils en sont crus, n'est point né pour l'empire.  
 Il ne dit, il ne fait, que ce qu'on lui prescrit.  
-Burrhus conduit son cœur, Sénèque son esprit.  
+Burrhus conduit son coeur, Sénèque son esprit.  
 Pour toute ambition, pour vertu singulière,  
 Il excelle à conduire un char dans la carrière,  
 À disputer des prix indignes de ses mains,  
@@ -2223,21 +2168,19 @@ Il excelle à conduire un char dans la carrière,
 À réciter des chants qu'il veut qu'on idolâtre,  
 Tandis que des soldats de moments en moments  
 Vont arracher pour lui les applaudissements. »  
-Ah ! Ne voulez-vous pas les forcer à se taire ?  
+Ah ! Ne voulez-vous pas les forcer à se taire ?  
 
-    NÉRON
+    NÉRON.
 Viens, Narcisse. Allons voir ce que nous devons faire.  
 
 
 # ACTE V
 
 
-## SCÈNE PREMIÈRE
-Britannicus, Junie.
+## SCÈNE PREMIÈRE. Britannicus, Junie.
 
-
-    BRITANNICUS
-Oui Madame, Néron (qui l'aurait pu penser ?)  
+    BRITANNICUS.
+Oui Madame, Néron (qui l'aurait pu penser ?)  
 Dans son appartement m'attend pour m'embrasser.  
 Il y fait de sa cour inviter la jeunesse.  
 Il veut que d'un festin la pompe et l'allégresse  
@@ -2249,43 +2192,43 @@ Pour moi, quoique banni du rang de mes aïeux,
 Quoique de leur dépouille il se pare à mes yeux,  
 Depuis qu'à mon amour cessant d'être contraire,  
 Il semble me céder la gloire de vous plaire,  
-Mon cœur, je l'avouerai, lui pardonne en secret,  
+Mon coeur, je l'avouerai, lui pardonne en secret,  
 Et lui laisse le reste avec moins de regret.  
-Quoi ! Je ne serai plus séparé de vos charmes ?  
-Quoi ! Même en ce moment je puis voir sans alarmes  
+Quoi ! Je ne serai plus séparé de vos charmes ?  
+Quoi ! Même en ce moment je puis voir sans alarmes  
 Ces yeux, que n'ont émus ni soupirs, ni terreur,  
-Qui m'ont sacrifié l'empire et l'empereur ?  
-Ah Madame ! Mais quoi ? Quelle nouvelle crainte  
-Tient parmi mes transports votre joie en contrainte ?  
+Qui m'ont sacrifié l'empire et l'empereur ?  
+Ah Madame ! Mais quoi ? Quelle nouvelle crainte  
+Tient parmi mes transports votre joie en contrainte ?  
 D'où vient qu'en m'écoutant, vos yeux, vos tristes yeux  
-Avec de longs regards se tournent vers les cieux ?  
-Qu'est-ce que vous craignez ?  
+Avec de longs regards se tournent vers les cieux ?  
+Qu'est-ce que vous craignez ?  
 
-    JUNIE
+    JUNIE.
         Je l'ignore moi-même.  
 Mais je crains.  
 
-    BRITANNICUS
-        Vous m'aimez ?  
+    BRITANNICUS.
+    Vous m'aimez ?  
 
-    JUNIE
-        Hélas, si je vous aime ?  
+    JUNIE.
+        Hélas, si je vous aime ?  
 
-    BRITANNICUS
+    BRITANNICUS.
 Néron ne trouble plus notre félicité.  
 
-    JUNIE
-Mais me répondez-vous de sa sincérité ?  
+    JUNIE.
+Mais me répondez-vous de sa sincérité ?  
 
-    BRITANNICUS
-Quoi ! Vous le soupçonnez d'une haine couverte ?  
+    BRITANNICUS.
+Quoi ! Vous le soupçonnez d'une haine couverte ?  
 
-    JUNIE
+    JUNIE.
 Néron m'aimait tantôt, il jurait votre perte.  
 Il me fuit, il vous cherche. Un si grand changement  
-Peut-il être, Seigneur, l'ouvrage d'un moment ?  
+Peut-il être, Seigneur, l'ouvrage d'un moment ?  
 
-    BRITANNICUS
+    BRITANNICUS.
 Cet ouvrage, Madame, est un coup d'Agrippine.  
 Elle a cru que ma perte entraînait sa ruine.  
 Grâce aux préventions de son esprit jaloux,  
@@ -2293,119 +2236,115 @@ Nos plus grands ennemis ont combattu pour nous.
 Je m'en fie aux transports qu'elle m'a fait paraître.  
 Je m'en fie à Burrhus. J'en crois même son maître.  
 Je crois, qu'à mon exemple impuissant à trahir  
-Il hait à cœur ouvert, ou cesse de haïr.  
+Il hait à coeur ouvert, ou cesse de haïr.  
 
-    JUNIE
-Seigneur, ne jugez pas de son cœur par le vôtre.  
+    JUNIE.
+Seigneur, ne jugez pas de son coeur par le vôtre.  
 Sur des pas différents vous marchez l'un et l'autre.  
 Je ne connais Néron et la cour que d'un jour.  
-Mais (si je l'ose dire) hélas ! Dans cette cour,  
-Combien tout ce qu'on dit est loin de ce qu'on pense !  
-Que la bouche et le cœur sont peu d'intelligence !  
-Avec combien de joie on y trahit sa foi !  
-Quel séjour étranger et pour vous et pour moi !  
+Mais (si je l'ose dire) hélas ! Dans cette cour,  
+Combien tout ce qu'on dit est loin de ce qu'on pense !  
+Que la bouche et le coeur sont peu d'intelligence !  
+Avec combien de joie on y trahit sa foi !  
+Quel séjour étranger et pour vous et pour moi !  
 
-    BRITANNICUS
+    BRITANNICUS.
 Mais que son amitié soit véritable ou feinte,  
-Si vous craignez Néron, lui-même est-il sans crainte ?  
+Si vous craignez Néron, lui-même est-il sans crainte ?  
 Non non, il n'ira point par un lâche attentat  
 Soulever contre lui le peuple et le Sénat.  
-Que dis-je ? Il reconnaît sa dernière injustice.  
+Que dis-je ? Il reconnaît sa dernière injustice.  
 Ses remords ont paru même aux yeux de Narcisse.  
-Ah ! S'il vous avait dit, ma princesse, à quel point...  
+Ah ! S'il vous avait dit, ma princesse, à quel point...  
 
-    JUNIE
-Mais Narcisse, Seigneur, ne vous trahit-il point ?  
+    JUNIE.
+Mais Narcisse, Seigneur, ne vous trahit-il point ?  
 
-    BRITANNICUS
-Et pourquoi voulez-vous que mon cœur s'en défie ?  
+    BRITANNICUS.
+Et pourquoi voulez-vous que mon coeur s'en défie ?  
 
-    JUNIE
-Et que sais-je ? Il y va, Seigneur, de votre vie.  
+    JUNIE.
+Et que sais-je ? Il y va, Seigneur, de votre vie.  
 Tout m'est suspect. Je crains que tout ne soit séduit.  
 Je crains Néron. Je crains le malheur qui me suit.  
 D'un noir pressentiment malgré moi prévenue,  
 Je vous laisse à regret éloigner de ma vue.  
-Hélas ! Si cette paix, dont vous vous repaissez,  
-Couvrait contre vos jours quelques pièges dressés !  
+Hélas ! Si cette paix, dont vous vous repaissez,  
+Couvrait contre vos jours quelques pièges dressés !  
 Si Néron irrité de notre intelligence  
-Avait choisi la nuit pour cacher sa vengeance !  
-S'il préparait ses coups tandis que je vous vois !  
-Et si je vous parlais pour la dernière fois !  
-Ah Prince !  
+Avait choisi la nuit pour cacher sa vengeance !  
+S'il préparait ses coups tandis que je vous vois !  
+Et si je vous parlais pour la dernière fois !  
+Ah Prince !  
 
-    BRITANNICUS
-        Vous pleurez ! Ah ma chère Princesse !  
-Et pour moi jusque-là votre cœur s'intéresse ?  
-Quoi Madame ! En un jour, où plein de sa grandeur  
+    BRITANNICUS.
+        Vous pleurez ! Ah ma chère Princesse !  
+Et pour moi jusque-là votre coeur s'intéresse ?  
+Quoi Madame ! En un jour, où plein de sa grandeur  
 Néron croit éblouir vos yeux de sa splendeur,  
 Dans des lieux où chacun me fuit et le révère,  
-Aux pompes de sa cour préférer ma misère !  
-Quoi ! Dans ce même jour, et dans ces mêmes lieux  
-Refuser un empire et pleurer à mes yeux !  
-Mais, Madame, arrêtez ces précieuses larmes ;  
+Aux pompes de sa cour préférer ma misère !  
+Quoi ! Dans ce même jour, et dans ces mêmes lieux  
+Refuser un empire et pleurer à mes yeux !  
+Mais, Madame, arrêtez ces précieuses larmes ;  
 Mon retour va bientôt dissiper vos alarmes.  
 Je me rendrais suspect par un plus long séjour.  
-Adieu, je vais le cœur tout plein de mon amour,  
+Adieu, je vais le coeur tout plein de mon amour,  
 Au milieu des transports d'une aveugle jeunesse,  
 Ne voir, n'entretenir que ma belle princesse.  
 Adieu.  
 
-    JUNIE
-        Prince...  
+    JUNIE.
+    Prince...  
 
-    BRITANNICUS
+    BRITANNICUS.
         On m'attend, Madame, il faut partir.  
 
-    JUNIE
+    JUNIE.
 Mais du moins attendez qu'on vous vienne avertir.  
 
 
-## SCÈNE II
-Aggripine, Britannicus, Junie.
+## SCÈNE II. Aggripine, Britannicus, Junie.
 
-
-    AGRIPPINE
-Prince, que tardez-vous ? Partez en diligence.  
+    AGRIPPINE.
+Prince, que tardez-vous ? Partez en diligence.  
 Néron impatient se plaint de votre absence.  
 La joie et le plaisir de tous les conviés  
 Attend pour éclater que vous vous embrassiez.  
 Ne faites point languir une si juste envie,  
 Allez. Et nous, Madame, allons chez Octavie.  
 
-    BRITANNICUS
+    BRITANNICUS.
 Allez, belle Junie, et d'un esprit content  
-Hâtez-vous d'embrasser ma sœur qui vous attend.  
+Hâtez-vous d'embrasser ma soeur qui vous attend.  
 Dès que je le pourrai je reviens sur vos traces,  
 Madame, et de vos soins j'irai vous rendre grâces.  
 
 
-## SCÈNE III
-Agrippine, Junie.
+## SCÈNE III. Agrippine, Junie.
 
-
-    AGRIPPINE
+    AGRIPPINE.
 Madame, ou je me trompe, ou durant vos adieux  
 Quelques pleurs répandus ont obscurci vos yeux.  
-Puis-je savoir quel trouble a formé ce nuage ?  
-Doutez-vous d'une paix dont je fais mon ouvrage ?  
+Puis-je savoir quel trouble a formé ce nuage ?  
+Doutez-vous d'une paix dont je fais mon ouvrage ?  
 
-    JUNIE
+    JUNIE.
 Après tous les ennuis que ce jour m'a coûtés,  
-Ai-je pu rassurer mes esprits agités ?  
-Hélas ! À peine encor je conçois ce miracle.  
+Ai-je pu rassurer mes esprits agités ?  
+Hélas ! À peine encor je conçois ce miracle.  
 Quand même à vos bontés je craindrais quelque obstacle,  
 Le changement, Madame, est commun à la cour,  
 Et toujours quelque crainte accompagne l'amour.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Il suffit, j'ai parlé, tout a changé de face.  
 Mes soins à vos soupçons ne laissent point de place.  
 Je réponds d'une paix jurée entre mes mains,  
 Néron m'en a donné des gages trop certains.  
-Ah ! Si vous aviez vu par combien de caresses  
-Il m'a renouvelé la foi de ses promesses !  
-Par quels embrassements il vient de m'arrêter !  
+Ah ! Si vous aviez vu par combien de caresses  
+Il m'a renouvelé la foi de ses promesses !  
+Par quels embrassements il vient de m'arrêter !  
 Ses bras dans nos adieux ne pouvaient me quitter.  
 Sa facile bonté sur son front répandue  
 Jusqu'aux moindres secrets est d'abord descendue.  
@@ -2416,7 +2355,7 @@ Tel que d'un empereur qui consulte sa mère,
 Sa confidence auguste a mis entre mes mains  
 Des secrets d'où dépend le destin des humains.  
 Non, il le faut ici confesser à sa gloire.  
-Son cœur n'enferme point une malice noire,  
+Son coeur n'enferme point une malice noire,  
 Et nos seuls ennemis altérant sa bonté  
 Abusaient contre nous de sa facilité.  
 Mais enfin à son tour leur puissance décline.  
@@ -2425,60 +2364,56 @@ Déjà, de ma faveur on adore le bruit.
 Cependant en ces lieux n'attendons pas la nuit,  
 Passons chez Octavie, et donnons lui le reste  
 D'un jour autant heureux que je l'ai cru funeste.  
-Mais qu'est-ce que j'entends ? Quel tumulte confus ?  
-Que peut-on faire ?  
+Mais qu'est-ce que j'entends ? Quel tumulte confus ?  
+Que peut-on faire ?  
 
-    JUNIE
-        Ô ciel ! Sauvez Britannicus.  
-
-
-## SCÈNE IV
-Agrippine, Junie, Burrhus.
+    JUNIE.
+        Ô ciel ! Sauvez Britannicus.  
 
 
-    AGRIPPINE
-Burrhus, où courez-vous ? Arrêtez. Que veut dire...  
+## SCÈNE IV. Agrippine, Junie, Burrhus.
 
-    BURRHUS
+    AGRIPPINE.
+Burrhus, où courez-vous ? Arrêtez. Que veut dire...  
+
+    BURRHUS.
 Madame, c'en est fait, Britannicus expire.  
 
-    JUNIE
-Ah mon Prince !  
+    JUNIE.
+Ah mon Prince !  
 
-    AGRIPPINE
-        Il expire ?  
+    AGRIPPINE.
+    Il expire ?  
 
-    BURRHUS
+    BURRHUS.
         Ou plutôt il est mort,  
 Madame.  
 
-    JUNIE
+    JUNIE.
         Pardonnez, Madame, à ce transport.  
 Je vais le secourir, si je puis, ou le suivre.  
 
 
-## SCÈNE V
-Agrippine, Burrhus
+## SCÈNE V. Agrippine, Burrhus
 
+    AGRIPPINE.
+Quel attentat, Burrhus !  
 
-    AGRIPPINE
-Quel attentat, Burrhus !  
-
-    BURRHUS
+    BURRHUS.
         Je n'y pourrai survivre,  
 Madame il faut quitter la cour et l'empereur.  
 
-    AGRIPPINE
-Quoi ! Du sang de son frère il n'a point eu d'horreur ?  
+    AGRIPPINE.
+Quoi ! Du sang de son frère il n'a point eu d'horreur ?  
 
-    BURRHUS
+    BURRHUS.
 Ce dessein s'est conduit avec plus de mystère.  
 À peine l'empereur a vu venir son frère,  
 Il se lève, il l'embrasse, on se tait, et soudain  
 César prend le premier une coupe à la main.  
 « Pour achever ce jour sous de meilleurs auspices,  
 Ma main de cette coupe épanche les prémices,  
-Dit-il ; dieux, que j'appelle à cette effusion,  
+Dit-il ; dieux, que j'appelle à cette effusion,  
 Venez favoriser notre réunion. »  
 Par les mêmes serments Britannicus se lie.  
 La coupe dans ses mains par Narcisse est remplie.  
@@ -2501,67 +2436,65 @@ D'une odieuse cour j'ai traversé la presse,
 Et j'allais accablé de cet assassinat  
 Pleurer Britannicus, César et tout l'État.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Le voici. Vous verrez si c'est moi qui l'inspire.  
 
 
-## SCÈNE VI
-Agrippine, Néron, Burrhus, Narcisse.
-
+## SCÈNE VI. Agrippine, Néron, Burrhus, Narcisse.
 
     NÉRON, VOYANT AGRIPPINE.
-Dieux !  
+Dieux !  
 
-    AGRIPPINE
+    AGRIPPINE.
         Arrêtez, Néron. J'ai deux mots à vous dire.  
 Britannicus est mort, je reconnais les coups.  
 Je connais l'assassin.  
 
-    NÉRON
-        Et qui, Madame ?  
+    NÉRON.
+    Et qui, Madame ?  
 
-    AGRIPPINE
+    AGRIPPINE.
         Vous.  
 
-    NÉRON
-Moi ! Voilà les soupçons dont vous êtes capable.  
+    NÉRON.
+Moi ! Voilà les soupçons dont vous êtes capable.  
 Il n'est point de malheurs dont je ne sois coupable.  
 Et si l'on veut, Madame, écouter vos discours,  
 Ma main de Claude même aura tranché les jours.  
 Son fils vous était cher, sa mort peut vous confondre.  
 Mais des coups du destin je ne puis pas répondre.  
 
-    AGRIPPINE
+    AGRIPPINE.
 Non non, Britannicus est mort empoisonné.  
 Narcisse a fait le coup, vous l'avez ordonné.  
 
-    NÉRON
-Madame, mais qui peut vous tenir ce langage ?  
+    NÉRON.
+Madame, mais qui peut vous tenir ce langage ?  
 
-    NARCISSE
-Hé Seigneur ! Ce soupçon vous fait-il tant d'outrage ?  
+    NARCISSE.
+Hé Seigneur ! Ce soupçon vous fait-il tant d'outrage ?  
 Britannicus, Madame, eut des desseins secrets  
 Qui vous auraient coûté de plus justes regrets.  
 Il aspirait plus loin qu'à l'hymen de Junie.  
 De vos propres bontés il vous aurait punie.  
-Il vous trompait vous-même et son cœur offensé,  
+Il vous trompait vous-même et son coeur offensé,  
 Prétendait tôt ou tard rappeler le passé.  
-Soit donc que malgré vous le sort vous ait servie ;  
+Soit donc que malgré vous le sort vous ait servie;  
 Soit qu'instruit des complots qui menaçaient sa vie,  
 Sur ma fidélité César s'en soit remis,  
 Laissez les pleurs, Madame, à vos seuls ennemis.  
 Qu'ils mettent ce malheur au rang des plus sinistres.  
 Mais vous...  
 
-    AGRIPPINE
+    AGRIPPINE.
         Poursuis, Néron, avec de tels ministres.  
 Par des faits glorieux tu te vas signaler.  
 Poursuis. Tu n'as pas fait ce pas pour reculer.  
 Ta main a commencé par le sang de ton frère.  
 Je prévois que tes coups viendront jusqu'à ta mère.  
-Dans le fond de ton cœur, je sais que tu me hais.  
+Dans le fond de ton coeur, je sais que tu me hais.  
 Tu voudras t'affranchir du joug de mes bienfaits.  
-Mais je veux que ma mort te soit même inutile :  
+Mais je veux que ma mort te soit même inutile :  
 Ne crois pas qu'en mourant je te laisse tranquille.  
 Rome, ce ciel, ce jour, que tu reçus de moi,  
 Partout, à tout moment, m'offriront devant toi.  
@@ -2572,58 +2505,56 @@ D'un sang toujours nouveau marquera tous tes jours.
 Mais j'espère qu'enfin le ciel las de tes crimes  
 Ajoutera ta perte à tant d'autres victimes,  
 Qu'après t'être couvert de leur sang et du mien,  
-Tu te verras forcé de répandre le tien ;  
+Tu te verras forcé de répandre le tien ;  
 Et ton nom paraîtra dans la race future  
 Aux plus cruels tyrans une cruelle injure.  
-Voilà ce que mon cœur se présage de toi.  
+Voilà ce que mon coeur se présage de toi.  
 Adieu, tu peux sortir.  
 
-    NÉRON
+    NÉRON.
         Narcisse, suivez-moi.  
 
 
-## SCÈNE VII
-Agrippine, Burrhus.
+## SCÈNE VII. Agrippine, Burrhus.
 
-
-    AGRIPPINE
-Ah ciel ! De mes soupçons quelle était l'injustice.  
-Je condamnais Burrhus, pour écouter Narcisse !  
+    AGRIPPINE.
+Ah ciel ! De mes soupçons quelle était l'injustice.  
+Je condamnais Burrhus, pour écouter Narcisse !  
 Burrhus avez-vous vu quels regards furieux  
-Néron en me quittant m'a laissés pour adieux ?  
-C'en est fait. Le cruel n'a plus rien qui l'arrête :  
+Néron en me quittant m'a laissés pour adieux ?  
+C'en est fait. Le cruel n'a plus rien qui l'arrête :  
 Le coup qu'on m'a prédit va tomber sur ma tête.  
 Il vous accablera vous-même à votre tour.  
 
-    BURRHUS
-Ah Madame ! Pour moi j'ai vécu trop d'un jour,  
+    BURRHUS.
+Ah Madame ! Pour moi j'ai vécu trop d'un jour,  
 Plût au ciel, que sa main heureusement cruelle  
-Eût fait sur moi l'essai de sa fureur nouvelle !  
+Eût fait sur moi l'essai de sa fureur nouvelle !  
 Qu'il ne m'eût pas donné par ce triste attentat  
-Un gage trop certain des malheurs de l'État !  
-Son crime seul n'est pas ce qui me désespère ;  
+Un gage trop certain des malheurs de l'État !  
+Son crime seul n'est pas ce qui me désespère ;  
 Sa jalousie a pu l'armer contre son frère.  
 Mais s'il vous faut, Madame, expliquer ma douleur,  
 Néron l'a vu mourir sans changer de couleur.  
 Ses yeux indifférents ont déjà la constance  
 D'un tyran dans le crime endurci dès l'enfance.  
-Qu'il achève, Madame ; et qu'il fasse périr  
+Qu'il achève, Madame ; et qu'il fasse périr  
 Un ministre importun qui ne le peut souffrir.  
-Hélas ! Loin de vouloir éviter sa colère.  
+Hélas ! Loin de vouloir éviter sa colère.  
 La plus soudaine mort me sera la plus chère.  
 
 
 ## SCÈNE DERNIÈRE. Agrippine, Burrhus, Albine.
 
-    ALBINE
-Ah Madame ! Ah Seigneur ! Courez vers l'empereur.  
+    ALBINE.
+Ah Madame ! Ah Seigneur ! Courez vers l'empereur.  
 Venez sauver César de sa propre fureur.  
 Il se voit pour jamais séparé de Junie.  
 
-    AGRIPPINE
-Quoi Junie elle-même a terminé sa vie ?  
+    AGRIPPINE.
+Quoi Junie elle-même a terminé sa vie ?  
 
-    ALBINE
+    ALBINE.
 Pour accabler César d'un éternel ennui,  
 Madame, sans mourir elle est morte pour lui.  
 Vous savez de ces lieux comme elle s'est ravie.  
@@ -2631,10 +2562,10 @@ Elle a feint de passer chez la triste Octavie.
 Mais bientôt elle a pris des chemins écartés.  
 Où mes yeux ont suivi ses pas précipités.  
 Des portes du palais elle sort éperdue.  
-D'abord elle a d'Auguste aperçu la statue ;  
+D'abord elle a d'Auguste aperçu la statue ;  
 Et mouillant de ses pleurs le marbre de ses pieds  
-Que de ses bras pressants elle tenait liés :  
-"Prince, par ces genoux, dit-elle, que j'embrasse :  
+Que de ses bras pressants elle tenait liés :  
+"Prince, par ces genoux, dit-elle, que j'embrasse :  
 Protège en ce moment le reste de ta race.  
 Rome dans ton palais vient de voir immoler  
 Le seul de tes neveux, qui te pût ressembler,  
@@ -2669,24 +2600,56 @@ Que sa douleur bientôt n'attente sur ses jours.
 Le temps presse. Courez. Il ne faut qu'un caprice.  
 Il se perdrait, Madame.  
 
-    AGRIPPINE
+    AGRIPPINE.
         Il se ferait justice.  
 Mais Burrhus, allons voir jusqu'où vont ses transports.  
 Voyons quel changement produiront ses remords,  
 S'il voudra désormais suivre d'autres maximes.  
 
-    BURRHUS
-Plût aux dieux que ce fût le dernier de ses crimes !  
+    BURRHUS.
+Plût aux dieux que ce fût le dernier de ses crimes !  
+
+
+# ANNEXES
+
+
+## Liste des oeuvres théâtrales de Jean Racine
+
+Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.
+
+La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal
+
+Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.
+
+Andromaque (1667), représentée pour le première fois le 17 novembre 1667 à l'Hôtel de Bourgogne.
+
+Les Plaideurs (1668), représentée pour le première fois le 28 mai à l'Hôtel Guénégaud.
+
+Britannicus (1669), représentée pour le première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
+
+Bérénice (1670), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Mithridate (1673), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Bajazet (1672), représentée pour le première fois le 1er janvier 1672 à l'Hôtel de Bourgogne.
+
+Iphigénie, représentée pour le première fois le 18 août 1674 à l'Hôtel de Bourgogne.
+
+Phèdre (1677), représentée pour le première fois le 1er janvier 1677 à l'Hôtel de Bourgogne.
+
+Esther, représentée pour le première fois le 26 janvier 1689 au Collège de Saint-Cyr.
+
+Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de Saint-Cyr.
 
 -------
 
 
 [1] Le texte est celui de l'édition 1697.
 
-[2] Néron 37-68 : fils d'Agrippine, empereur romain qui succède à Claude, son grand-oncle en 54. Il se suicide le 9 juin 68 à l'âge de 30 ans.
+[2] Néron 37-68 : fils d'Agrippine, empereur romain qui succède à Claude, son grand-oncle en 54. Il se suicide le 9 juin 68 à l'âge de 30 ans. 
 
-[3] Britannicus (Tiberius, Claudius Caesar, Germnicus) 41-55 : fils de l'empreur Claude et de Messaline. Les Annales de Tacite et la "Vie des douze Césars" de Suetone décrivent les événements de cette pièce.
+[3] Britannicus (Tiberius, Claudius Caesar, Germnicus) 41-55 : fils de l'empreur Claude et de Messaline. Les Annales de Tacite et la "Vie des douze Césars" de Suetone décrivent les événements de cette pièce.
 
 [4] var. v. 711, les éditions 1676 et 1697 donnent "moyens" au lieu de "moments".
 
-[5] var. v. 713, les éditions 1676 et 1697 donnent "même" au lieu de "mêmes".
+[5] var. v. 713, les éditions 1676 et 1697 donnent "même" au lieu de "mêmes". 

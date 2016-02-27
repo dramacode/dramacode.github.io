@@ -1,5 +1,5 @@
 ---
-identifier: sallebray_belle  
+identifier: sallebray_belle-egyptienne  
 creator: Sallebray  
 date: 1642  
 title: La Belle Égyptienne. Tragi-comédie  
@@ -1368,7 +1368,7 @@ Encor, sur ce sujet quel est ton sentiment⁎ ?
 Songe un peu.  
 
     PRECIEUSE.
-N'est-ce point quelque nouvel amant ?  
+        N'est-ce point quelque nouvel amant ?  
 
     LA VIEILLE.
 Déja dans ce penser un démon [181] te l'inspire [182],  
@@ -1404,10 +1404,10 @@ Je vous entens venir, le fils du Gouverneur
 N'est-ce pas ?  
 
     LA VIEILLE.
-Justement.  
+    Justement.  
 
     PRECIEUSE.
-Ha Dieu qu'il est aimable !  
+        Ha Dieu qu'il est aimable !  
 Qu'il est respectueux, galand, civil, affable !  
 
     LA VIEILLE.
@@ -1442,7 +1442,7 @@ De grace poursuivés ce discours arrété,
 Il nous a...  
 
     LA VIEILLE.
-Ce matin, m'ayant veuë à Tolede.  
+        Ce matin, m'ayant veuë à Tolede.  
 
     PRECIEUSE.
 Que dit-elle, bon Dieu ? quel transport⁎ me possede ?  
@@ -1459,7 +1459,7 @@ Dans quelque étonnement⁎ que ce discours te plonge,
 Croy qu'il est veritable, et de plus...  
 
     PRECIEUSE.
-Achevés,  
+        Achevés,  
 Et ne me celés rien de ce que vous sçavés.  
 
     LA VIEILLE.
@@ -1470,7 +1470,7 @@ Ainsi que dans les mains, je li dans le visage.
 O Ciel ! est-il possible ?  
 
     LA VIEILLE.
-Ouy, puisqu'il est certain.  
+        Ouy, puisqu'il est certain.  
 
     PRECIEUSE.
 Il est vray que souvent il me baisoit la main,  
@@ -1482,7 +1482,7 @@ M'accusant d'un grand vol qu'avoit fait ma beauté.
 De son cœur, de son ame.  
 
     PRECIEUSE.
-Et de sa liberté [191] :  
+        Et de sa liberté [191] :  
 Mais quoy qu'il me jurast dans sa cajolerie⁎,  
 Je crus que ce n'étoit que par galanterie.  
 
@@ -1504,7 +1504,7 @@ LE POETE, LA VIEILLE, PRECIEUSE.
 C'est elle, je la voy.  
 
     PRECIEUSE.
-Le moyen qu'il fut sage [193],  
+        Le moyen qu'il fut sage [193],  
 Il est jeune, il est Poëte, et de plus amoureux,  
 De ces trois qualitez naist un mal dangereux.  
 
@@ -1569,11 +1569,11 @@ PRECIEUSE, LE POETE.
 
 
     PRECIEUSE.
-Ouy, j'ay leu cet ouvrage,  
+        Ouy, j'ay leu cet ouvrage,  
 C'est sur nôtre rencontre.  
 
     LE POETE.
-Ajoutés mon servage [203].  
+        Ajoutés mon servage [203].  
 
     PRECIEUSE.
 Chaque rime en est riche, et dans les plus nouveaux [204],  
@@ -1599,7 +1599,7 @@ Lancés pour son effet vôtre feu dans mon sein,
 Soyez mon Apollon [209]...  
 
     PRECIEUSE.
-C'est assés me confondre,  
+        C'est assés me confondre,  
 Donnés-moy pour le moins le temps de vous répondre,  
 Ou plustost , excusés ma curiosité,  
 Vous mesme répondés, mais avec verité.  
@@ -1608,7 +1608,7 @@ Et le sçavoir au vray [210] m'importe en quelque chose ;
 Dites-moy donc sans feinte, étes-vous Poëte ?  
 
     LE POETE.
-Non :  
+        Non :  
 Il est trop peu de gens qui méritent ce nom,  
 Avec ardeur⁎ pourtant j'aime la Poësie,  
 Et j'en puis sans secours, passer ma fantaisie.  
@@ -1672,7 +1672,7 @@ Ouy, mais cette beauté si noble et si cherie
 Est pauvre à ce qu'on dit.  
 
     LE POETE.
-C'est une raillerie,  
+        C'est une raillerie,  
 Au contraire elle est riche, au moins void-on contens  
 Tous ceux qui dans son sein prenent leurs passe-temps :  
 Rare condition, belle Philosophie,  
@@ -1696,7 +1696,7 @@ Un Poëte, m'écriay-je, a de l'argent, Miracle !
 Que je le sois ou non.  
 
     PRECIEUSE.
-Souffrés⁎ ma liberté,  
+        Souffrés⁎ ma liberté,  
 Puisque vous n'avés rien de cette qualité.  
 
     LE POETE.
@@ -1738,10 +1738,10 @@ LA VIEILLE, PRECIEUSE.
 Précieuse.  
 
     PRECIEUSE.
-C'est fait.  
+    C'est fait.  
 
     LA VIEILLE.
-R'entre [221] sans contester,  
+        R'entre [221] sans contester,  
 J'entens venir quelqu'un qui pouroit t'arréter,  
 Nos gens vont à la ville, il faut que tu te pares.  
 
@@ -1820,19 +1820,19 @@ LA VIEILLE, PRECIEUSE, DOM JEAN DE CARCAME.
 Qu'est-ce donc ?  
 
     PRECIEUSE.
-Ce n'est rien.  
+    Ce n'est rien.  
 
     DOM JEAN, *seul.* 
-Amour soutien ta cause.  
+        Amour soutien ta cause.  
 
     LA VIEILLE.
 Rien !  
 
     PRECIEUSE.
-Non rien.  
+    Non rien.  
 
     LA VIEILLE.
-Il faut bien que ce soit quelque chose.  
+        Il faut bien que ce soit quelque chose.  
 
     PRECIEUSE.
 Dieu, qu'un petit sujet vous donne un grand soucy !  
@@ -1840,34 +1840,34 @@ Hé bien, c'est une papier qui vient de choir icy.
 Etes-vous satisfaite ?  
 
     DOM JEAN,  *à part.*
-Ha que cet Astre brille !  
+        Ha que cet Astre brille !  
 
     PRECIEUSE, *ayant apperceu son papier.*
 Le voylà.  
 
     LA VIEILLE.
-C'est luy-mesme.  
+    C'est luy-mesme.  
 
     PRECIEUSE.
-Ouy.  
+    Ouy.  
 
     LA VIEILLE.
-Vien, suy moy ma fille,  
+        Vien, suy moy ma fille,  
 Il le faut aborder.  
 
     PRECIEUSE.
-Qui ?  
+    Qui ?  
 
     LA VIEILLE.
-Ce Seigneur.  
+    Ce Seigneur.  
 
     PRECIEUSE.
-O Dieux !  
+        O Dieux !  
 Je ne le voyois pas, mais feignons pour le mieux. [230]  
 La Croix mon Cavalier [231].  
 
     DOM JEAN.
-O favorable augure !  
+        O favorable augure !  
 
     PRECIEUSE.
 Nous vous dirons apres vôtre bonne avanture [232].  
@@ -1900,7 +1900,7 @@ C'en est le corps au moins qui vient joindre son ame,
 Son ame que tu pris...  
 
     PRECIEUSE.
-En quel temps ? En quel lieu ?  
+        En quel temps ? En quel lieu ?  
 
     DOM JEAN.
 Où ta rare beauté mit en sa place un Dieu,  
@@ -1919,11 +1919,11 @@ En voicy quelques-uns que je viens t'apporter.
 Bon cela.  
 
     DOM JEAN.
-Recoy les avecque l'asseurance  
+        Recoy les avecque l'asseurance  
 De posseder le reste.  
 
     LA VIEILLE.
-Agreable esperance.  
+        Agreable esperance.  
 
     DOM JEAN.
 Si tu veux approuver ma constante amitié⁎.  
@@ -1973,7 +1973,7 @@ Ce ne sera jamais qu'au prix de l'honneur mesme.
 Voylà bien raisoner.  
 
     DOM JEAN.
-Ha ! banny ce penser,  
+        Ha ! banny ce penser,  
 Le garder un moment, c'est beaucoup m'offenser :  
 Mets là ta belle main, et sois toute asseurée  
 D'une foy, d'une amour [246] d'eternelle durée. [247]  
@@ -1992,7 +1992,7 @@ Amour dans le besoin⁎ sçait faire des miracles.
 Ouy, ouy, mon bon Seigneur.  
 
     PRECIEUSE.
-Sçachés que parmi nous  
+        Sçachés que parmi nous  
 La fille et son amant qui s'offre pour époux  
 Eprouvent leurs humeurs⁎ [248] le cours de deux années,  
 Avant que de pouvoir joindre leurs destinées.  
@@ -2017,17 +2017,17 @@ Pourveu qu'un chaste hymen⁎ unisse un jour nos cœurs.
 O merveilleux dessein !  
 
     PRECIEUSE.
-Apres cette assurance,  
+        Apres cette assurance,  
 Si ma tante y consent...  
 
     DOM JEAN.
-Vivray-je en esperance ?  
+        Vivray-je en esperance ?  
 
     LA VIEILLE.
 Moy je consens à tout.  
 
     PRECIEUSE.
-Hé bien, ouy, je me rends,  
+        Hé bien, ouy, je me rends,  
 Mais de quelle façon abuser vos parens ?  
 Nous serions tous perdus s'ils en avoient un doute.  
 
@@ -2041,10 +2041,10 @@ La guerre [252] en fut un autre à m'exenter de suite [253].
 Quoy, vous étes tout seul ?  
 
     DOM JEAN.
-Ouy.  
+    Ouy.  
 
     PRECIEUSE.
-La rare conduite !  
+        La rare conduite !  
 
     DOM JEAN.
 Il la faut achever, ne perdons point de temps,  
@@ -2055,13 +2055,13 @@ Tandis que je feray transporter dans vos tantes.
 Quoy ?  
 
     DOM JEAN.
-Tout mon équipage [254], en serés vous contente ?  
+        Tout mon équipage [254], en serés vous contente ?  
 
     LA VIEILLE.
 Faites.  
 
     DOM JEAN, *lui presentant la bourse.*
-En m'atendant garde toujours cecy.  
+        En m'atendant garde toujours cecy.  
 
     PRECIEUSE.
 Enfin vous m'offencés de me traiter ainsi.  
@@ -2070,17 +2070,17 @@ Enfin vous m'offencés de me traiter ainsi.
 Donnés j'en auray soin.  
 
     PRECIEUSE.
-Non pas.  
+    Non pas.  
 
     LA VIEILLE.
-Elle se moque.  
+        Elle se moque.  
 
     PRECIEUSE.
 Je vous l'ay déjà dit, ce procedé me choque,  
 De grace...  
 
     DOM JEAN.
-C'est assés, à Dieu, je t'obéis.  
+        C'est assés, à Dieu, je t'obéis.  
 
 
 ### SCENE VII.
@@ -2167,10 +2167,10 @@ Il faut entretenir le feu qui le consome [265].
 Le voylà.  
 
     LE CAPITAINE.
-C'est assés.  
+    C'est assés.  
 
     PRECIEUSE.
-Hé bien mon Gentilhome,  
+        Hé bien mon Gentilhome,  
 Avés-vous medité dessus [266] votre dessein ? [267]  
 Et sentés-vous encor mesme ardeur⁎ dans le sein ?  
 Etes-vous resolu d'entrer en nôtre bande ?  
@@ -2183,7 +2183,7 @@ Vous étes-vous tâté de toutes les façons ?
 Car enfin...  
 
     DOM JEAN.
-Hé ! mon ame à quoy [268] tant de soupçons ? [269]  
+        Hé ! mon ame à quoy [268] tant de soupçons ? [269]  
 J'ay remis en tes mains et mon sort et ma vie,  
 Tu peux en disposer au gré de ton envie.  
 Le dessein que j'ay fait de vivre sous tes lois,  
@@ -2212,7 +2212,7 @@ Cet avertissement doit déjà t'animer.
 Le glorieux motif !  
 
     LE CAPITAINE.
-Pour te faire estimer  
+        Pour te faire estimer  
 Dans la profession que tu veux entreprendre,  
 Observe bien nos lois, que je te vais apprendre.  
 Eloigne en premier lieu ce fantôme d'honneur,  
@@ -2354,7 +2354,7 @@ Je ne pourois jamais me resoudre à le rendre,
 Accordés-vous plustost.  
 
     DOM JEAN.
-Je te suis donc suspect ?  
+        Je te suis donc suspect ?  
 Quoy dans beaucoup d'amour crains-tu peu de respect⁎ ?  
 Non, non, engage encor mes flames amoureuses  
 A des conditions qui soient plus rigoureuses,  
@@ -2374,7 +2374,7 @@ Puis-je pas esperer ce remede à ma flame ? [290]
 Ouy, si sage d'ailleurs...  
 
     DOM JEAN.
-N'en doute plus mon ame. [291]  
+        N'en doute plus mon ame. [291]  
 Et vous mon Capitaine, il me faut octroyer  
 Un mois d'aprentissage a ce noble métier.  
 
@@ -2530,28 +2530,28 @@ Ce poulet [306] en ce lieu vous donne de l'ombrage,
 Avoüés.  
 
     ANDRES.
-Nullement.  
+    Nullement.  
 
     PRECIEUSE.
-L'Auteur vaut bien l'ouvrage.  
+        L'Auteur vaut bien l'ouvrage.  
 
     ANDRES.
 Je le croy.  
 
     PRECIEUSE.
-Tout de bon ?  
+    Tout de bon ?  
 
     ANDRES.
-Ouy certes.  
+    Ouy certes.  
 
     PRECIEUSE.
-Cependant,  
+        Cependant,  
 Je veux de son rival faire mon confident,  
 Tenés [307], apres cela doutés que je vous aime,  
 Car je ne l'ay point leu.  
 
     ANDRES. 
-La faveur est extreme.  
+        La faveur est extreme.  
 
     PRECIEUSE.
 J'en espere pourtant un aimable entretien,  
@@ -2560,18 +2560,18 @@ J'en espere pourtant un aimable entretien,
 Il est un peu remis.  
 
     ANDRES, *à part, ayant leu.*
-Mon cœur ne crains plus rien.  
+        Mon cœur ne crains plus rien.  
 
     PRECIEUSE.
 Lisés haut, vous riés.  
 
     ANDRES.
-Il faut bien que je rie  
+        Il faut bien que je rie  
 De l'agreable effet de cette tromperie,  
 Ce sont des Vers.  
 
     PRECIEUSE.
-Hé bien, c'est le parler des Dieux,  
+        Hé bien, c'est le parler des Dieux,  
 Le stile en est plus doux, et persuade mieux. [308]  
 
     ANDRES.
@@ -2608,11 +2608,11 @@ De qui ?
     ANDRES.
 (Bas.)
 
-Dissimulons. D'un jeune Gentilhomme  
+        Dissimulons. D'un jeune Gentilhomme  
 Mon plus intime amy, qui t'aime.  
 
     PRECIEUSE.
-Et qui se nomme ?  
+        Et qui se nomme ?  
 
     ANDRES.
 Son nom ne se dit pas.  
@@ -2620,18 +2620,18 @@ Son nom ne se dit pas.
     PRECIEUSE.
 (Bas.)
 
-C'est luy-mesme. Et pourquoy ?  
+        C'est luy-mesme. Et pourquoy ?  
 
     ANDRES.
 Pour cause, les voicy, c'est un recit pour toy,  
 Au balet que...  
 
     PRECIEUSE.
-J'entens ce que vous voulés dire,  
+        J'entens ce que vous voulés dire,  
 Voyons.  
 
     ANDRES.
-A ce penser il faut que je soupire,  
+        A ce penser il faut que je soupire,  
 Là, mes superbes⁎ sens furent humiliés,  
 Et ta grace à danser foula mon cœur aux piés. [312]  
 
@@ -2677,7 +2677,7 @@ De retenir tousjours ce que je prens.
 Que t'en semble ?  
 
     PRECIEUSE.
-L'ouvrage est sans doute admirable,  
+        L'ouvrage est sans doute admirable,  
 Heureuse [315] si le sens en étoit véritable.  
 
     ANDRES.
@@ -2688,7 +2688,7 @@ Si vous craignés encor qu'on découvre l'autheur,
 Suivés-moy seulement.  
 
     ANDRES.
-Sçais-tu qui ce peut estre ?  
+        Sçais-tu qui ce peut estre ?  
 
     PRECIEUSE.
 Je le vay deguiser [316], il se fait trop conestre,  
@@ -2720,31 +2720,31 @@ Ils cessent d'aboyer, suy moy, doublons le pas.
 O Dieux ! je n'en puis plus.  
 
     L'EGIPTIEN.
-J'entens quelqu'un se plaindre.  
+        J'entens quelqu'un se plaindre.  
 Approche ta lumiere, et garde de l'éteindre.  
 Ma foy c'est un berger prest à laisser sa peau,  
 Tu verras que nos chiens sont apres le troupeau.  
 Es-tu mort ?  
 
     LE POETE.
-Je me meurs.  
+    Je me meurs.  
 
     L'EGIPTIEN.
-Hé ! qui diable t'ameine  
+        Hé ! qui diable t'ameine  
 En ces lieux, et de nuit ?  
 
     LE POETE.
-Ma fortune⁎ inhumaine,  
+        Ma fortune⁎ inhumaine,  
 Mais sans plus discourir, de grace assistés-moy.  
 
     L'EGIPTIEN.
 Apres, qui nous payra ?  
 
     LE POETE.
-Moy-mesme.  
+    Moy-mesme.  
 
     L'EGIPTIEN.
-As-tu de quoy ?  
+        As-tu de quoy ?  
 Je ne fais rien pour rien, songe à quoy tu t'engages.  
 
     LE POETE.
@@ -2758,7 +2758,7 @@ Quant tu seras guery tu te porteras bien.
 Un ducat⁎ d'un berger !  
 
     LE POETE.
-Amis, qui vous arreste ?  
+        Amis, qui vous arreste ?  
 
     L'EGIPTIEN.
 Ca, donne-moy tes piés, toy prens-le par la teste,  
@@ -2779,14 +2779,14 @@ ANDRES, LA VIEILLE, PRECIEUSE LES EGIPTIENS, LE POETE.
 Mon fils, où courés-vous ?  
 
     PRECIEUSE.
-Arrestés un moment.  
+        Arrestés un moment.  
 
     L'EGIPTIEN.
 La voyla, je l'entens, approchés bonne mere,  
 Voicy de la pratique.  
 
     ANDRES.
-O Dieux quelle misere !  
+        O Dieux quelle misere !  
 
     LA VIEILLE.
 C'est la cause du bruit qui vous faisoit courir.  
@@ -2825,14 +2825,14 @@ Pour arrester le sang qui coule en abondance.
 Mon mal va jusqu'au cœur.  
 
     ANDRES.
-Amy, prens patience.  
+        Amy, prens patience.  
 
     LA VIEILLE, *à Precieuse.*
 Ne l'as-tu point tantost assés considéré ?  
 Cours, es-tu revenuë ? [322]  
 
     PRECIEUSE, *à part en s'en allant.*
-Il est trop assuré [323],  
+        Il est trop assuré [323],  
 C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,  
 De nuit, et déguisé, je crains quelque surprise.  
 
@@ -2849,7 +2849,7 @@ Tarderas-tu long-temps de parétre en ces lieux ?
 Non, il est tantost [324] jour.  
 
     LE POETE.
-Sa divine presence  
+        Sa divine presence  
 Peut des maux que je sens charmer la violence.  
 
     LA VIEILLE, *aux Egiptiens.*
@@ -2871,7 +2871,7 @@ Quoy déjà de retour ?
     LA VIEILLE.
 (Elle suit les Egiptiens.)
 
-Viste, ma fille apporte. [326]  
+        Viste, ma fille apporte. [326]  
 
 
 ### SCENE V.
@@ -2915,7 +2915,7 @@ Point d'argent, point d'unguent [329], dessus cette pensée
 Allons nous retirer.  
 
     ANDRES.
-Qu'elle est intéressée !  
+        Qu'elle est intéressée !  
 
     PRECIEUSE.
 Ma tante allés devant, nous vous suivons de prez.  
@@ -2938,13 +2938,13 @@ Le plaisant [331] accident⁎ que je vous vais apprendre !
 Qu'est-ce donc mon soucy [332] ?  
 
     PRECIEUSE.
-Mais me promettés-vous ?  
+        Mais me promettés-vous ?  
 
     ANDRES.
 Ouy, parle, que veux-tu ?  
 
     PRECIEUSE.
-De n'estre point jalous.  
+        De n'estre point jalous.  
 
     ANDRES.
 Assis entre les Dieux, et parmi l'ambroisie,  
@@ -2958,7 +2958,7 @@ Qui pensés-vous que soit ce malheureux berger ?
 Parle-tu du blessé ?  
 
     PRECIEUSE.
-Je parle de luy-mesme.  
+        Je parle de luy-mesme.  
 
     ANDRES.
 Le connois-tu d'ailleurs ? est-ce quelqu'un qui t'aime ?  
@@ -2970,7 +2970,7 @@ N'exciteray-je point une mauvaise humeur ?
 Point du tout.  
 
     PRECIEUSE.
-Sçachez donc que c'est nôtre rimeur.  
+        Sçachez donc que c'est nôtre rimeur.  
 
     ANDRES.
 Quoy, celuy dont tantost nous avons leu des Stances ?  
@@ -2987,7 +2987,7 @@ Ce n'estoit pas assés qu'il eut mal à la teste,
 Il falloit que ses piés...  
 
     ANDRES.
-Enfin c'est ta conqueste,  
+        Enfin c'est ta conqueste,  
 Pourquoy traiter si mal un si fidelle Amant ?  
 Tu l'as porté peut-estre à ce déguisement.  
 
@@ -2996,17 +2996,17 @@ Ne voyla pas déja des effets de ma crainte.
 Vous estes donc jaloux.  
 
     ANDRES, *à part.*
-Est-ce franchise ou feinte ?  
+        Est-ce franchise ou feinte ?  
 Moy, jaloux, nullement.  
 
     PRECIEUSE.
-L'estrange vision⁎ [333]  
+        L'estrange vision⁎ [333]  
 De me croire complice en cette occasion⁎ !  
 Hé bien, pour avoir paix, et me montrer fidelle,  
 Je ne le verray point.  
 
     ANDRES.
-C'est estre bien cruelle.  
+        C'est estre bien cruelle.  
 
     PRECIEUSE.
 Je vous ay fait déja deux fois mon confident,  
@@ -3114,7 +3114,7 @@ ANDRES, LE POETE couché dans la tante.
 Camarade, dors-tu ?  
 
     LE POETE.
-Les langueurs que je sens  
+        Les langueurs que je sens  
 Commençoient d'assoupir mes esprits et mes sens.  
 
     ANDRES.
@@ -3131,10 +3131,10 @@ Te fait marcher de nuit, et devers⁎ cette tante ?
 Parle.  
 
     LE POETE.
-Helas !  
+    Helas !  
 
     ANDRES.
-Je le tiens, ce discours l'a surpris. [345]  
+        Je le tiens, ce discours l'a surpris. [345]  
 Répons-moy, que crains-tu ? r'appelle [346] tes esprits,  
 Tu peux m'entretenir [347] avec toute assurance.  
 
@@ -3151,10 +3151,10 @@ Et ce rustique habit cache un plus noble sort,
 Confesse.  
 
     LE POETE.
-Plût au Ciel.  
+    Plût au Ciel.  
 
     ANDRES.
-Ma pensée est trop vraye,  
+        Ma pensée est trop vraye,  
 Et me fait découvrir une nouvelle playe,  
 Mon ame a succombé sous de plus doux effors,  
 N'est-elle pas blessée encor plus que ton corps ?  
@@ -3169,7 +3169,7 @@ Et par son ordre exprez tu viens luy rendre hommage.
 Rien moins.  
 
     ANDRES.
-Ce rare effet de ta discretion  
+        Ce rare effet de ta discretion  
 Te rend plus digne encor de son affection.  
 
     LE POETE.
@@ -3218,7 +3218,7 @@ De ton rare merite elle fait grand' estime.
 Si peu.  
 
     ANDRES.
-Quoy tu t'en plains, ha ! n'en fais plus le fin⁎,  
+        Quoy tu t'en plains, ha ! n'en fais plus le fin⁎,  
 Acheve d'exposer ton bien-heureux destin,  
 Nous sommes, tu le sçais, les plus secrets du monde.  
 As-tu de ses faveurs⁎ ? ta gloire⁎ est sans seconde [351],  
@@ -3271,7 +3271,7 @@ Cher ami, ce discours est par trop obligeant⁎.
 En as-tu ?  
 
     LE POETE.
-J'ay sur moy quelques six vingts [353] pistoles⁎.  
+        J'ay sur moy quelques six vingts [353] pistoles⁎.  
 
     ANDRES.
 (A part.)
@@ -3280,7 +3280,7 @@ C'est pour la suborner. Donc sans plus de paroles
 Laisse-moy faire.  
 
     LE POETE.
-Hélas ! pers ce soin odieux,  
+        Hélas ! pers ce soin odieux,  
 Puisqu'un autre dessein m'a conduit en ces lieux,  
 Ce n'est pas qu'en effet je n'aime Precieuse,  
 Et que ma passion ne me soit glorieuse :  
@@ -3338,7 +3338,7 @@ Que vous estes adroit à couvrir une feinte !
 Vous l'avés veu sans doute.  
 
     ANDRES.
-Ouy, je l'ay visité,  
+        Ouy, je l'ay visité,  
 J'ay plus de soin⁎ que toy, j'ay plus de charité.  
 
     PRECIEUSE.
@@ -3353,7 +3353,7 @@ Apres avoir eu soin⁎ de vous bien enquerir,
 Mais se porte-t'il mieux ?  
 
     ANDRES.
-Je crains qu'il ne se trouble,  
+        Je crains qu'il ne se trouble,  
 Sa playe est toute en feu, la fiévre luy redouble,  
 Enfin il est fort mal, tu devois bien aussi  
 Faire en sorte qu'il vint plus surement icy,  
@@ -3381,12 +3381,12 @@ ANDRES, PRECIEUSE, HIPOLITE
 Ha ! le fâcheux objet⁎.  
 
     PRECIEUSE.
-Hé quel mal-heur⁎ si prompt  
+        Hé quel mal-heur⁎ si prompt  
 Vous met la flame aux yeux et la rougeur au front ?  
 Ha ! c'est une Maistresse.  
 
     ANDRES.
-Une fille importune.  
+        Une fille importune.  
 
     PRECIEUSE.
 Hé bien, faut-il rougir d'une bonne fortune⁎ ?  
@@ -3398,7 +3398,7 @@ Mais sa peine m'oblige à vous laisser ensemble.
 Voy mon dernier refus.  
 
     HIPOLITE.
-Le voyla, mais je tremble.  
+        Le voyla, mais je tremble.  
 
     PRECIEUSE.
 Prié par ce regard si doux et si charmant  
@@ -3411,7 +3411,7 @@ Je voy bien ce que c'est, tu veux rire à ton tour,
 Mais ne croy pas au moins...  
 
     PRECIEUSE.
-Adieu, jusqu'au retour.  
+        Adieu, jusqu'au retour.  
 
     HIPOLITE.
 Feignons de l'arrester, quoy qui nous en avienne, [358]  
@@ -3689,11 +3689,11 @@ Helas ! nôtre mal-heur le rend trop veritable.
 Dieux ! que m'apprenés-vous ? [377]  
 
     ANDRES.
-Un sanglant desespoir,  
+        Un sanglant desespoir,  
 Mais fuyons j'oy du bruit.  
 
     PRECIEUSE.
-Que je crains son pouvoir !  
+        Que je crains son pouvoir !  
 Courons donc du depart prier le Capitaine,  
 Faut-il qu'à mon sujet vous ayés tant de peine ?  
 O Ciel ! contre ces traits⁎ daigne armer nôtre sein,  
@@ -3775,7 +3775,7 @@ A quelle extremité vous ay-je ici reduit ?
 Ha ! mon cœur, c'est bien moy...  
 
     LE CAPITAINE.
-Ne faisons point de bruit,  
+        Ne faisons point de bruit,  
 Et ne poursuivés point cette plainte inutille,  
 Je m'en vay cependant faire un tour dans la ville,  
 Afin d'en ramener quelques-uns de nos gens.  
@@ -3801,15 +3801,15 @@ Demeurés. Le premier qui fait le moindre effort.
 Ha bon Dieu ! qu'est cecy ?  
 
     LE PREVOST.
-Je le tuë, il est mort.  
+        Je le tuë, il est mort.  
 Il faut restituer à cette jeune Dame  
 Ses joyaux qu'on a pris.  
 
     ANDRES.
-L'effrontée !  
+    L'effrontée !  
 
     PRECIEUSE.
-Ha ! l'infame. [385]  
+        Ha ! l'infame. [385]  
 
     LE CAPITAINE.
 Vous peut-elle preuver son accusation ?  
@@ -3821,10 +3821,10 @@ On ne connoist que trop l'autheur de l'action.
 Ouy, voyla mon voleur.  
 
     ANDRES.
-Moy !  
+    Moy !  
 
     HIPOLITE.
-Toy-mesme en personne,  
+        Toy-mesme en personne,  
 Toy que l'on m'a dépeint, et que chacun soupçonne.  
 
     ANDRES *la tirant à part, et luy parlant bas.*
@@ -3845,7 +3845,7 @@ Son bagage fouillé prouve [387] ma conjecture⁎,
 Commandés qu'on l'apporte.  
 
     ANDRES.
-Ouy, qu'on l'aille querir,  
+        Ouy, qu'on l'aille querir,  
 (Un Egiptien va querir la malle.)
 
 Si tout ne m'appartient je consens à périr.  
@@ -3860,7 +3860,7 @@ Qui croiroit tant de ruses avecque tant de charmes ?
 C'est l'aspic sous les fleurs.  
 
     LE PREVOST.
-La veue en fera foy.  
+        La veue en fera foy.  
 
     HIPOLITE.
 Ne fiés, s'il vous plaist, la recherche qu'à moy.  
@@ -3876,10 +3876,10 @@ Apporte icy, mets là, vous verrés si j'ay tort
 D'accuser ce voleur.  
 
     ANDRES.
-Quel titre !  
+    Quel titre !  
 
     PRECIEUSE.
-Mais quel sort !  
+        Mais quel sort !  
 
     HIPOLITE, *fouillant la malle.*
 Ne voyla pas déjà mes bracelets, ma chaine ?  
@@ -3889,10 +3889,10 @@ Pour découvrir le reste il ne faut point de géne⁎.
 Que voy-je ?  
 
     HIPOLITE.
-Ton larcin.  
+    Ton larcin.  
 
     ANDRES.
-Dieux que je suis confus !  
+        Dieux que je suis confus !  
 
     HIPOLITE.
 Tu dois bien l'estre aussi, si jamais tu le fus, [389]  
@@ -3907,7 +3907,7 @@ Il me revient encore un certain diamant,
 Cherchons bien.  
 
     PRECIEUSE.
-Juste Ciel fay voir son innocence.  
+        Juste Ciel fay voir son innocence.  
 
     ANDRES.
 C'est de luy seulement que j'attens ma defense.  
@@ -3923,38 +3923,38 @@ Ouy, je succombe aux trais⁎ de ta noire malice.
 Il m'injurie encor.  
 
     LE PREVOST.
-Viste, qu'on le saisisse,  
+        Viste, qu'on le saisisse,  
 Et qu'on le mette aux fers.  
 
     ANDRES.
-Ecoutés pour le moins.  
+        Ecoutés pour le moins.  
 
     HIPOLITE.
 Que peut-il alleguer, faut-il d'autres témoins ?  
 Commandés qu'il se taise.  
 
     ANDRES.
-Ha monstre que j'abhorre !  
+        Ha monstre que j'abhorre !  
 Tu m'empesches en vain.  
 
     UN ARCHER *luy donnant un soufflet.*
-Tu discoures encore. [390]  
+        Tu discoures encore. [390]  
 
     PRECIEUSE.
 Ha Dieu, quelle impudence !  
 
     ANDRES *le tuant de son épée, qu'il luy tire de son costé.*
-Un soufflet, effronté !  
+        Un soufflet, effronté !  
 Ton sang me vangera de ta temerité.  
 
     LE PREVOST.
 Empeschés.  
 
     ANDRES.
-C'en est fait, il est mort.  
+    C'en est fait, il est mort.  
 
     LE PREVOST.
-Quoy perfide,  
+        Quoy perfide,  
 A ton larcin encor ajoûter l'homicide ! [391]  
 
     ANDRES.
@@ -3964,7 +3964,7 @@ Je n'enduray jamais de semblables affrons.
 Il faut le dépescher. [392]  
 
     LE PREVOST.
-C'est ce que nous ferons.  
+        C'est ce que nous ferons.  
 
     HIPOLITE.
 Amis, vangés la mort de vôtre camarade,  
@@ -4073,7 +4073,7 @@ PRECIEUSE, LA VIEILLE, ISABELLE, FERDINAND.
 
 
      PRECIEUSE.
-Ha ! Monseigneur, justice,  
+        Ha ! Monseigneur, justice,  
 Delivrés mon époux, sauvés un innocent,  
 Sa vertu vous en prie, et le Ciel y consent,  
 S'il meurt, je doy mourir, c'est à tort qu'on l'accuse,  
@@ -4105,7 +4105,7 @@ Et je suis cause enfin de ce mal-heur⁎ extréme.
 Mais oyés ses raisons.  
 
     FERDINAND.
-Cesse de t'affliger,  
+        Cesse de t'affliger,  
 Ouy, tes vœux sont receus, je vay l'interroger,  
 Demeure cependant pour divertir⁎ Madame.  
 
@@ -4117,7 +4117,7 @@ Cette affaire contient des mysteres cachés,
 Il s'en faut éclaircir.  
 
     PRECIEUSE.
-Hé ! Monsieur, depéchés.  
+        Hé ! Monsieur, depéchés.  
 Justes Dieux qui sçavés le crime et l'innocence !  
 N'ordonnés point la peine à qui souffre⁎ l'offense.  
 
@@ -4142,7 +4142,7 @@ Elevent jusqu'au Ciel ton indigne bassesse,
 Bonne mere, approchés.  
 
     LA VIEILLE *à part.*
-Dans l'ennuy⁎ que je sens  
+        Dans l'ennuy⁎ que je sens  
 Quelle nouvelle peur vient troubler tous mes sens ?  
 
     ISABELLE. 
@@ -4150,13 +4150,13 @@ Je voy bien qu'en son mal vostre ame s'interesse,
 Cette fille est à vous.  
 
     LA VIEILLE.
-Madame, c'est ma Niece.  
+        Madame, c'est ma Niece.  
 
     ISABELLE.
 Quel âge a-t'elle bien ?  
 
     LA VIEILLE.
-Je croy qu'elle a quinze ans,  
+        Je croy qu'elle a quinze ans,  
 C'est tout ce que j'en sçay. Ha ! discours déplaisans. [400]  
 
     ISABELLE.
@@ -4169,13 +4169,13 @@ Qu'on nous ravit si jeune à Madrid en plein jour.
 Dieu ! Qu'est-ce que j'entens ?  
 
     ISABELLE.
-Ha, ma chere Constance !  
+        Ha, ma chere Constance !  
 
     LA VIEILLE *à part.*
 Voyla son mesme nom.  
 
     ISABELLE.
-Montre moy ta presence,  
+        Montre moy ta presence,  
 Fay nous voir ta personne, et non pas ton portrait. [401]  
 
     LA VIEILLE *à part.*
@@ -4186,7 +4186,7 @@ Mais quel nouveau soucy semble acrestre [402] ta peine ?
 Parle un peu, répons-moy.  
 
     PRECIEUSE.
-Si ma priere est vaine,  
+        Si ma priere est vaine,  
 Madame assurés-vous que je cours au trespas⁎,  
 Puisque de mon époux je veux suivre les pas.  
 
@@ -4282,19 +4282,19 @@ C'est l'unique moyen pour luy sauver la vie.
 Puis-je esperer, Madame, un pardon ?  
 
     ISABELLE.
-Et de quoy ?  
+        Et de quoy ?  
 
     LA VIEILLE.
 D'un important larcin que j'ay fait.  
 
     ISABELLE.
-Est-ce à moy ?  
+        Est-ce à moy ?  
 
     LA VIEILLE.
 Helas ! ouy, c'est à vous.  
 
     ISABELLE.
-La bonne conscience !  
+        La bonne conscience !  
 
     LA VIEILLE.
 Donnés moy, s'il vous plaist, un moment d'audience,  
@@ -4306,7 +4306,7 @@ Et déja sur ce point certain desir me presse,
 Parlés donc, [408]  
 
     PRECIEUSE.
-Quel espoir vient chasser ma tristesse ?  
+        Quel espoir vient chasser ma tristesse ?  
 
     LA VIEILLE.
 Si l'heureux accident⁎ que je vay découvrir  
@@ -4323,12 +4323,12 @@ Hé bien qu'est devenu cet enfant precieux ?
 Est-il vivant ou mort ?  
 
     LA VIEILLE.
-Demandés-le à vos yeux,  
+        Demandés-le à vos yeux,  
 Si vous ne l'apprenés de vostre fille mesme,  
 La voyla, parlés-luy.  
 
     PRECIEUSE.
-Felicité supréme !  
+        Felicité supréme !  
 
     ISABELLE.
 Quoy, c'est là ma Constance ? hé dites-moy comment,  
@@ -4372,15 +4372,15 @@ Le sang acheve enfin de lever tout soupçon,
 Hola, viste quelqu'un.  
 (Un valet paroist).
 
-Ma fille Egiptienne,  
+        Ma fille Egiptienne,  
 Allés dire à Monsieur qu'il quitte tout, qu'il vienne,  
 Ma Constance.  
 
     PRECIEUSE.
-Madame.  
+    Madame.  
 
     ISABELLE.
-Unique et cher tresor,  
+        Unique et cher tresor,  
 Approche, baise-moy, que je t'embrasse encor.  
 Mais parmy ces transpors, quelle estrange disgrace  
 D'un reproche honteux diffame nôtre race ?  
@@ -4394,7 +4394,7 @@ Madame, il est aussi d'une illustre naissance.
 O Dieux !  
 
     LA VIEILLE.
-Et son nom seul en donne connessance.  
+        Et son nom seul en donne connessance.  
 L'esprit de vôtre fille avec sa chasteté,  
 D'un pouvoir glorieux secondant⁎ sa beauté,  
 Ont fait naitre en plusieurs une amour sans pareille  
@@ -4422,7 +4422,7 @@ Arreste bien ma voix, et non pas mes desirs.
 Que veux-tu ?  
 
     PRECIEUSE.
-Le pardon pour cette bonne mere,  
+        Le pardon pour cette bonne mere,  
 Qui tremble et qui fremit au seul nom de mon pere.  
 Faites qu'il s'y contente, appaisés son couroux.  
 
@@ -4439,13 +4439,13 @@ On doit songer plustost à la recompenser.
 Allés, ne craignés rien.  
 
     PRECIEUSE.
-Ce n'est pas tout, Madame,  
+        Ce n'est pas tout, Madame,  
 Il faut tirer des fers la moitié de mon ame,  
 Helas ! songeant aux maux qu'il endure pour moy,  
 Je succombe, je meurs.  
 
     ISABELLE.
-Enfin, console toy,  
+        Enfin, console toy,  
 Attens cette faveur des bontés de ton pere,  
 C'est luy qui te rendra ce noble époux, espere [413] :  
 Ce que tu m'as appris de son extraction⁎  
@@ -4458,12 +4458,12 @@ FERDINAND, ISABELLE, PRECIEUSE, LA VIEILLE, UN VALET muët.
 
 
     ISABELLE.
-Monsieur, benissés l'avanture⁎  
+        Monsieur, benissés l'avanture⁎  
 Qui prepare une histoire à la race⁎ future,  
 Qui nous rend nôtre fille.  
 
     FERDINAND.
-O Dieux ! qu'ay-je entendu ?  
+        O Dieux ! qu'ay-je entendu ?  
 
     ISABELLE.
 Qui nous rend ce tresor que nous avons perdu.  
@@ -4472,7 +4472,7 @@ Qui nous rend ce tresor que nous avons perdu.
 Le verray-je ?  
 
     ISABELLE.
-Ouy Monsieur, approche ma Constance,  
+        Ouy Monsieur, approche ma Constance,  
 Non, non, ne témoignés aucune resistance,  
 Mon esprit sur ce doute est trop bien éclaircy,  
 La marque de son bras, le colier que voicy,  
@@ -4501,7 +4501,7 @@ Ne sçaurois-je punir l'autheur de ta misere ?
 O Dieux ! je suis perdue.  
 
     PRECIEUSE.
-Hé ! Monsieur, par ce nom  
+        Hé ! Monsieur, par ce nom  
 Ou de pere ou de fille accordés ce pardon,  
 Voyla qui la causa, mais loin d'estre punie,  
 Je la doy caresser puisqu'elle l'a finie.  
@@ -4510,7 +4510,7 @@ Je la doy caresser puisqu'elle l'a finie.
 Il est juste, Monsieur.  
 
     FERDINAND.
-Madame, révés-vous ?  
+        Madame, révés-vous ?  
 A nôtre fille encor destiner un époux  
 Un traitre Egiptien, un voleur, un infame.  
 
@@ -4522,7 +4522,7 @@ Qui s'est mis dans leur troupe épris de sa beauté.
 Dieux ! que m'apprenés-vous ?  
 
     PRECIEUSE.
-La pure vérité.  
+        La pure vérité.  
 
     FERDINAND.
 Courés viste quelqu'un dans la prochaine,  
@@ -4564,7 +4564,7 @@ Il nous faut achever cette rare merveille,
 Le voicy qu'on amene.  
 
     PRECIEUSE.
-En quel état odieux [417].  
+        En quel état odieux [417].  
 
     FERDINAND.
 Que personne à present ne montre un front joyeux,  
@@ -4582,7 +4582,7 @@ FERDINAND, ISABELLE, ANDRES, PRECIEUSE, LA VIEILLE.
 Approche scelerat.  
 
     PRECIEUSE.
-Dieu ! qu'est-ce j'entens ?  
+        Dieu ! qu'est-ce j'entens ?  
 
     FERDINAND.
 Ouy, je veux aujourd'huy rendre tes vœux contens,  
@@ -4605,7 +4605,7 @@ Et je devois avoir un sort moins rigoureux.
 Toy meurtrier [421], toy voleur.  
 
     PRECIEUSE.
-Ha Dieu que j'apprehende !  
+        Ha Dieu que j'apprehende !  
 
     FERDINAND.
 Toy le plus renommé de cette infame bande  
@@ -4636,7 +4636,7 @@ Outre la liberté, prenés ma fille encore,
 Je voy chacun content de cet offre.  
 
     ISABELLE.
-En effet,  
+        En effet,  
 Nous ne pouvons pretendre un gendre plus parfait,  
 Et je ne pense pas que Monsieur le refuse.  
 
@@ -4659,12 +4659,12 @@ O Ciel ! ha lâcheté qui n'a point de pareille !
 Quoy tu peux consentir...  
 
     FERDINAND.
-Ne vous en fâchez pas,  
+        Ne vous en fâchez pas,  
 Ma fille est aussi belle, et n'a pas moins d'apas⁎.  
 Madame, montrés-luy.  
 
     ISABELLE.
-Vien ma Constance, approche.  
+        Vien ma Constance, approche.  
 
     PRECIEUSE.
 Quoy vous me refusés ? ha ! j'ai droit de reproche.  
@@ -4673,7 +4673,7 @@ Quoy vous me refusés ? ha ! j'ai droit de reproche.
 O Dieux !  
 
     FERDINAND.
-N'en doutés point, et n'apprehendés plus,  
+        N'en doutés point, et n'apprehendés plus,  
 Vous serés à loisir éclaircy là dessus,  
 Ouy, c'est ma fille unique, et cette Egiptienne  
 Empesche vôtre perte en reparant la mienne.  
@@ -4700,19 +4700,19 @@ Au nom de l'Hymenée⁎ embrassés-vous tous deux.
 Mon Soleil.  
 
     PRECIEUSE.
-Mon espoir.  
+    Mon espoir.  
 
     ANDRES.
-Ma lumière.  
+    Ma lumière.  
 
     PRECIEUSE.
-Ma vie. [426]  
+        Ma vie. [426]  
 
     ANDRES.
 Que mon cœur est content !  
 
     PRECIEUSE.
-Que mon ame est ravie !  
+        Que mon ame est ravie !  
 
     ANDRES.
 Enfin je suis a toy doux charme de mes sens.  
@@ -4734,7 +4734,7 @@ Ayés soin du blessé dont vous sçavés l'affaire.
 Je vous obeiray.  
 
     PRECIEUSE.
-Je vous en prie aussi.  
+        Je vous en prie aussi.  
 
     LA VIEILLE.
 Dés qu'il pourra marcher je vous l'amene icy.  
@@ -4777,7 +4777,7 @@ C'est elle qui m'a dit que j'amenasse icy
 Ces gens que vous voyés.  
 
     FERDINAND.
-C'estoit mon ordre aussi,  
+        C'estoit mon ordre aussi,  
 Puisque dans ce païs ils n'ont point fait de crime,  
 Qu'ils ayent la liberté dont ils font tant d'estime.  
 

@@ -1,5 +1,5 @@
 ---
-identifier: champmesle_fragmens  
+identifier: champmesle_fragments-moliere  
 creator: Champmeslé  
 date: 1682  
 title: Les Fragmens de Molière. Comédie.  
@@ -316,7 +316,7 @@ Page 5 : Oüy ? corrigé en Oüy. / 13 : Parsanguenne çay-je en Parsanguenne
 # LES FRAGMENS DE MOLIERE. COMEDIE.
 
 
-## PERSONNAGES.III
+## PERSONNAGES.
  – Lignon.
  – Jourdain.
  – Pierrot.

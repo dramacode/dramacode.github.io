@@ -13,65 +13,67 @@ if (realpath($_SERVER['SCRIPT_FILENAME']) != realpath(__FILE__)) {
 else if (php_sapi_name() == "cli") {
   Dramacode::cli();
 }
-class Dramacode 
+class Dramacode
 {
   static $sets = array(
+    "tc" => array(
+      "glob" => '../theatre-classique/RACINE*.xml',
+      "publisher" => "Théâtre Classique",
+      "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
+      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
+    ),
     "moliere" => array(
-      "glob" => '../moliere/*.xml', 
+      "glob" => '../moliere/*.xml',
       "publisher" => 'OBVIL, projet Molière',
       "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://dramacode.github.io/moliere/%s.xml",
     ),
     "bibdramatique" => array(
-      "glob" => '../bibdramatique/*.xml', 
-      "publisher" => "CELLF, Bibliothèque dramatique", 
+      "glob" => '../bibdramatique/*.xml',
+      "publisher" => "CELLF, Bibliothèque dramatique",
       "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
       "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
-    "racine" => array(
-      "glob"=>'../racine/*.xml', 
-      "publisher"=>"Dramacode", 
-      // "identifier" => "http://dramacode.github.io/racine/%s",
-      "source" => "http://dramacode.github.io/racine/%s.xml",
-    ),
+    /*
     "corneille-pierre" => array(
-      "glob" => '../corneille-pierre/*.xml', 
-      "publisher" => "Dramacode", 
+      "glob" => '../corneille-pierre/*.xml',
+      "publisher" => "Dramacode",
       // "identifier" => "http://dramacode.github.io/corneille-pierre/%s",
       "source" => "http://dramacode.github.io/corneille-pierre/%s.xml",
     ),
     "divers" => array(
-      "glob" => '../divers/*.xml', 
-      "publisher" => "Dramacode", 
+      "glob" => '../divers/*.xml',
+      "publisher" => "Dramacode",
       // "identifier" => "http://dramacode.github.io/divers/%s",
       "source" => "http://dramacode.github.io/divers/%s.xml",
     ),
     "quinault" => array(
-      "glob"=> '../quinault/*.xml', 
-      "publisher" => "Dramacode", 
+      "glob"=> '../quinault/*.xml',
+      "publisher" => "Dramacode",
       // "identifier" => "http://dramacode.github.io/quinault/%s",
       "source" => "http://dramacode.github.io/quinault/%s.xml",
     ),
     "regnard" => array(
-      "glob" => '../regnard/*.xml', 
-      "publisher" => "Dramacode", 
+      "glob" => '../regnard/*.xml',
+      "publisher" => "Dramacode",
       // "identifier" => "http://dramacode.github.io/regnard/%s",
       "source" => "http://dramacode.github.io/regnard/%s.xml",
     ),
     "scarron" => array(
-      "glob" => '../scarron/*.xml', 
-      "publisher" => "Dramacode", 
+      "glob" => '../scarron/*.xml',
+      "publisher" => "Dramacode",
       // "identifier" => "http://dramacode.github.io/scarron/%s",
       "source" => "http://dramacode.github.io/scarron/%s.xml",
     ),
+    */
   );
   static $formats = array(
-    'epub' => '.epub',
-    'kindle' => '.mobi',
     'markdown' => '.md',
     'iramuteq' => '.txt',
     'html' => '.html',
     'article' => '.html',
+    'epub' => '.epub',
+    'kindle' => '.mobi',
     // 'docx' => '.docx',
   );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
@@ -126,7 +128,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     if (is_string($logger)) $logger = fopen($logger, 'w');
     self::$_logger = $logger;
     $this->connect($sqlitefile);
-    // create needed folders 
+    // create needed folders
     foreach (self::$formats as $format => $extension) {
       if (!file_exists($dir = dirname(__FILE__).'/'.$format)) {
         mkdir($dir, 0775, true);
@@ -134,6 +136,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
       }
     }
   }
+
   /**
    * Produire les exports depuis le fichier XML
    */
@@ -142,16 +145,18 @@ CREATE INDEX play_year_author ON play(year, author, title);
     $srcmtime = filemtime($srcfile);
     $this->_sqlmtime->execute(array($srcname));
     list($basemtime) = $this->_sqlmtime->fetch();
-    $teinte = null;
+    $teinte = new Teinte_Doc($srcfile);
+    // Specific Théâtre Classique
+    if ($setcode == 'tc') {
+      $teinte->pre(dirname(__FILE__).'/tc-norm.xsl');
+    }
     if ($basemtime < $srcmtime) {
-      $teinte = new Teinte_Doc($srcfile);
       $this->insert($teinte, $setcode);
     }
     $echo = "";
     foreach (self::$formats as $format => $extension) {
       $destfile = dirname(__FILE__).'/'.$format.'/'.$srcname.$extension;
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
-      if (!$teinte) $teinte = new Teinte_Doc($srcfile);
       // delete destfile if exists ?
       if (file_exists($destfile)) unlink($destfile);
       $echo .= " ".$format;
@@ -161,10 +166,10 @@ CREATE INDEX play_year_author ON play(year, author, title);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
-        $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
-        $livre->epub($destfile);        
+        $livre = new Livrable_Tei2epub($teinte->dom, self::$_logger);
+        $livre->epub($destfile);
         // transformation auto en kindle
-        $cmd = dirname(__FILE__)."/kindlegen ".$destfile;
+        $cmd = dirname(dirname(__FILE__))."/Livrable/kindlegen ".$destfile;
         $last = exec ($cmd, $output, $status);
         $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
         // error ?
@@ -181,7 +186,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
         Toff_Tei2docx::docx($srcfile, $destfile);
       }
     }
-    if ($echo) self::log(E_USER_NOTICE, $srcfile.$echo);
+    if ($echo) self::log(E_USER_NOTICE, $srcfile.$echo."\n");
   }
   /**
    * Insertion de la pièce
@@ -304,13 +309,13 @@ CREATE INDEX play_year_author ON play(year, author, title);
     echo "\n</table>\n";
   }
 
-  /** 
-   * Connexion à la base 
+  /**
+   * Connexion à la base
    */
   private function connect($sqlite) {
     $dsn = "sqlite:" . $sqlite;
     // si la base n’existe pas, la créer
-    if (!file_exists($sqlite)) { 
+    if (!file_exists($sqlite)) {
       if (!file_exists($dir = dirname($sqlite))) {
         mkdir($dir, 0775, true);
         @chmod($dir, 0775);  // let @, if www-data is not owner but allowed to write
@@ -338,18 +343,18 @@ CREATE INDEX play_year_author ON play(year, author, title);
     $inc = dirname(__FILE__).'/../Livrable/Tei2epub.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Livrable/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Livrable\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Livrable\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
     $inc = dirname(__FILE__).'/../Teinte/Doc.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Teinte/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Teinte\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Teinte\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
@@ -357,9 +362,9 @@ CREATE INDEX play_year_author ON play(year, author, title);
     $inc = dirname(__FILE__).'/../Toff/Tei2docx.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Toff/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Toff\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Toff\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
@@ -376,13 +381,13 @@ CREATE INDEX play_year_author ON play(year, author, title);
     if ($count) { // is an XSLT error or an XSLT message, reformat here
       if(strpos($errstr, 'error')!== false) return false;
       else if ($errno == E_WARNING) $errno = E_USER_WARNING;
-    } 
+    }
     // not a user message, let work default handler
     else if ($errno != E_USER_ERROR && $errno != E_USER_WARNING && $errno != E_USER_NOTICE ) return false;
     // a debug message in normal mode, do nothing
     if ($errno == E_USER_NOTICE && !self::$debug) return true;
     if (!self::$_logger);
-    else if (is_resource(self::$_logger)) fwrite(self::$_logger, $errstr."\n");
+    else if (is_resource(self::$_logger)) fwrite(self::$_logger, $errstr);
     else if ( is_string(self::$_logger) && function_exists(self::$_logger)) call_user_func(self::$_logger, $errstr);
   }
   static function epubcheck($glob) {
@@ -397,7 +402,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     }
   }
   /**
-   * Command line API 
+   * Command line API
    */
   static function cli() {
     $timeStart = microtime(true);

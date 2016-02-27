@@ -1,5 +1,5 @@
 ---
-identifier: boyer_comte  
+identifier: boyer_comte-essex  
 creator: Boyer, Claude  
 date: 1678  
 title: Le Comte d'Essex. Tragédie  
@@ -666,7 +666,7 @@ Echapper pour la Reine une secrete flame.
 Pour la Reine, Coban ?  
 
     COBAN.
-Elle peut faire un Roy : [73]  
+        Elle peut faire un Roy : [73]  
 C'est par là que la Reine a des charmes pour moy.  
 Le Comte n'estant plus, s'il faut qu'elle choisisse,  
 Je puis briguer*⁎* son choix avec quelque justice.  
@@ -780,11 +780,11 @@ Vous avez plus d'adresse et plus d'experience.
 Mais sans m'embarrasser de vos ruses de Cour  
 Elisabeth m'écoute et je sçay vostre amour.  
 
-    COBAN. 
+    COBAN.
 Quel amour ?  
 
     CLARENCE.
-Ce n'est plus entre nous un mystere.  
+        Ce n'est plus entre nous un mystere.  
 Coban, tremblez, je sçais et parler et me taire.  
 Vostre pouvoir est grand, mais je connois le mien.  
 Si vous hazardez tout, je n'épargneray rien.  
@@ -796,7 +796,7 @@ Songez-y bien, craignez un pas si hazardeux :
 Vous vous perdez.  
 
     CLARENCE.
-Hé bien, nous perirons tous deux.  
+        Hé bien, nous perirons tous deux.  
 La Reine vient : qu'elle est accablée, éperduë !  
 
 
@@ -817,7 +817,7 @@ Iray-je en cét état irriter sa fureur ?
 Madame, où courez-vous ? [90]  
 
     LA REINE.
-Monstre d'ingratitude, [91]  
+        Monstre d'ingratitude, [91]  
 Ton crime est à mon cœur la peine la plus rude,  
 Le plus cruel tourment que le Ciel en courroux,  
 Que l'enfer ait jamais inventé contre nous.  
@@ -836,13 +836,13 @@ Fais taire ton amour et fais place à ta haine.
 Calmez ce desespoir.  
 
     LA REINE.
-Qu'on ne m'en parle plus.  
+        Qu'on ne m'en parle plus.  
 
     COBAN.
 Faut-il pour un ingrat ?  
 
     LA REINE.
-Vos soins sont superflus.  
+        Vos soins sont superflus.  
 Je sçaurais bien sans vous punir sa perfidie.  
 à Valden. [94]
 
@@ -857,7 +857,7 @@ Mais le Comte appuyé du peuple qui le garde....
     LA REINE.
 Je veux sans plus tarder.... Hé quoy, vous vous troublez.  
 
-    COBAN. 
+    COBAN.
 Le Comte ayant chez luy ses amis assemblez, [95]  
 Madame, permettez s'il se met en deffence  
 Que j'aille avec les miens forcer sa resistance.  
@@ -888,7 +888,7 @@ LA REINE, CLARENCE, ALIX.
 Le Comte est là.  
 
     LA REINE.
-Le Comte ! Est-ce son desespoir,  
+        Le Comte ! Est-ce son desespoir,  
 Ou sa fierté qui vient defier mon pouvoir ?  
 
     ALIX.
@@ -909,8 +909,8 @@ Madame, et que Coban craignoit ma resistance :
 Qu'il ne craigne plus rien, me voicy sans deffence,  
 J'ay prevenu*⁎* vostre ordre.  
 
-    LA REINE. 
-Osez-vous en ces lieux  
+    LA REINE.
+        Osez-vous en ces lieux  
 Avec cette fierté vous offrir à mes yeux ?  
 
     LE C. D’ESSEX.
@@ -930,7 +930,7 @@ LA REINE, LE C. D'ESSEX.
 
 
     LA REINE *continuë.*
-Leve les yeux :  
+        Leve les yeux :  
 Regarde enfin ta [97] Reine et ces augustes lieux  
 Où les profusions de ma main liberale, [98]  
 Et de ton ascendant la puissance fatale [99]  
@@ -1005,7 +1005,7 @@ Tu ne sçaurois jamais confondre mes témoins.
 Vos témoins !  
 
     LA REINE.
-Oüy, perfide, et tu les dois connoistre.  
+        Oüy, perfide, et tu les dois connoistre.  
 
     LE C. D’ESSEX.
 Quels que soient ces témoins oseront-ils paroistre ?  
@@ -1118,7 +1118,7 @@ N'ose lancer la foudre et ménage ses jours.
     LA REINE.
 Osteray-je à l'Etat ce glorieux secours ?  
 
-    COBAN. 
+    COBAN.
 Mille autres dans l'Etat peuvent remplir sa place.  
 
     LA REINE.
@@ -1154,7 +1154,7 @@ Tu me flattois fortune et voila tes faveurs.
 Tu ne m'as point trompé, je connois ton caprice ;  
 Mais c'est un peu trop loin pousser ton injustice.  
 
-    LE C. DE SALISBERY. 
+    LE C. DE SALISBERY.
 Si vous avez conceu quelque injuste dessein  
 Confessez tout, Seigneur, le pardon est certain.  
 A cét aveu la Reine encore vous convie. [133]  
@@ -1249,11 +1249,11 @@ LE C. D'ESSEX, COBAN.
 
 
     LE C. D’ESSEX *continuë.*
-Est-ce vous que je voy ?  
+        Est-ce vous que je voy ?  
 D'où me vient cét honneur ?  
 
     COBAN.
-Je sçay ce que je doy.  
+        Je sçay ce que je doy.  
 
     LE C. D’ESSEX.
 Vous venez insulter⁎ au malheur qui m'accable.  
@@ -1295,18 +1295,18 @@ Je le laisse, Coban, à qui me l'a donné,
 Et dans un autre temps....  
 
     COBAN.
-Je crains peu la menace  
+        Je crains peu la menace  
 Et sçay des malheureux respecter la disgrace :  
 Le Ciel éclaircira vos injustes soubçons.  
 
     LE C. D’ESSEX.
 Le Ciel éclaircira vos noires trahisons.  
 
-    COBAN. 
+    COBAN.
 De quoy m'accusez-vous ?  
 
     LE C. D’ESSEX.
-Je sçay que vôtre envie  
+        Je sçay que vôtre envie  
 Fût toûjours d'obscurcir la gloire de ma vie.  
 Coban se fit toûjours des projets de grandeur  
 Sur l'éclatant [142] débris de toute ma faveur.  
@@ -1317,7 +1317,7 @@ Je scay que par un lâche et secret attentat....
 Vous m'entendez. [144]  
 
     COBAN.
-L'Etat connoît mieux mon courage.  
+        L'Etat connoît mieux mon courage.  
 Vous méme vous pourriez en porter témoignage,  
 Vous m'avez vû combattre et grace au Ciel mon bras  
 Pour perdre un ennemy [145] ne se cacheroit pas.  
@@ -1350,7 +1350,7 @@ Des crimes si connus presque à toute la Terre. [148]
 Est-ce là cét aveu ?  
 
     LE C. D’ESSEX.
-Non, Coban, arrestez.  
+        Non, Coban, arrestez.  
 Allez luy dire encor toutes vos lâchetez.  
 J'ay part à vos forfaits et ce fût là mon crime  
 D'avoir voulu pour vous surprendre⁎ son estime,  
@@ -1438,7 +1438,7 @@ Loin de me faire part de la grandeur suprême,
 D'un infame destin menace ces beaux jours  
 Que j'avois destinez à nos tendres amours.  
 
-    CLARENCE. 
+    CLARENCE.
 Pour détourner un coup dont la crainte m'accable,  
 Aimez la Reine enfin d'un amour veritable.  
 Le perfide Coban a connu nôtre amour.  
@@ -1501,7 +1501,7 @@ De ce qu'il a pour vous de respect et de zele ?
 Il a donc avoüé.....  
 
     CLARENCE.
-Le Comte m'a fait voir  
+        Le Comte m'a fait voir  
 Une douleur cruelle, un mortel desespoir,  
 De se voir soubçonné d'une Reine adorable.  
 Qu'à toute l'Angleterre il paroissse coupable,  
@@ -1512,7 +1512,7 @@ Mais qu'il paroisse au moins innocent à vos yeux.
 Vous pouvez me tout dire, en faveur de sa gloire  
 Je veux tout oublier et je ne veux rien croire.  
 
-    CLARENCE. 
+    CLARENCE.
 Je vois qu'il [164] a pour vous un si profond respect,  
 Qu'il aime mieux mourir que vous estre suspect.  
 Si dans l'emportement d'une rage insensée,  
@@ -1557,7 +1557,7 @@ Il brave mon amour, ma faveur, mes bienfaits.
 De quoy l'accusez-vous ?  
 
     LA REINE.
-Ne m'en parlez jamais.  
+        Ne m'en parlez jamais.  
 Vous ménagez fort mal l'honneur de ma tendresse,  
 Vous n'abuserez plus tous deux de ma foiblesse.  
 Je veux pour le juger qu'on s'assemble aujourd'huy. [169]  
@@ -1602,7 +1602,7 @@ La Reine cependant vous invite à répondre,
 Vous pouvez vous deffendre et ne rien oublier  
 De ce qui peut servir à vous justifier.  
 
-    LE C. D’ESSEX. 
+    LE C. D’ESSEX.
 Où me voy-je [178] reduit ! Il est donc veritable  
 Que la Reine et l'Etat me traitent de coupable.  
 Dequoy m'accuse-t'on ? [179] à peine ma memoire  
@@ -1674,7 +1674,7 @@ Mais enfin je suis Juge et veux tout oublier.
 Luy qui s'aime luy seul, qui seul se considere,  
 Coban tranche⁎ du Juge équitable et sincere. [194]  
 
-    RALEG *à Coban.* 
+    RALEG *à Coban.*
 Le Comte en offensant ses Juges souverains  
 Rend icy ses forfaits plus grands et plus certains.  
 
@@ -1727,7 +1727,7 @@ Que je souhaitterois qu'on en usast pour moy. [198]
 N'avez-vous rien à dire ? [199]  
 
     LE C. D’ESSEX.
-En faut-il davantage ?  
+        En faut-il davantage ?  
 Je ne changeray point de cœur et de langage.  
 Vous sçavez ce que c'est qu'un cœur comme le mien ; [200]  
 Je n'ay rien à repondre à qui me connoist bien.  
@@ -1745,7 +1745,7 @@ LE C. D'ESS. LE C. DE SALISB. POPHAM, etc.
 Ne precipitez rien,  
 
     POPHAM.
-Par quel emportement....  
+        Par quel emportement....  
 
     LE C. DE SALIS.
 Seigneur, la Reine veut sursoir [202] le jugement.  
@@ -1757,7 +1757,7 @@ LA REINE, LE C. D'ESSEX, POPHAM, COBAN, etc.
 
 
     LA REINE.
-Allez, qu'on se separe.  
+        Allez, qu'on se separe.  
 
 
 ### SCENE V.
@@ -1860,7 +1860,7 @@ LA REINE, LE C. D'ESSEX, COBAN.
 
 
     COBAN, *bas.*
-Quel transport agite ainsi la Reine.  
+        Quel transport agite ainsi la Reine.  
 
     LA REINE *aux Gardes.* [222]
 Coban qu'on se rassemble. Et vous qu'on le remene. [223]  
@@ -1881,7 +1881,7 @@ Quel eût esté sans vous son secours, son refuge ?
 Raleg l'alloit juger, Coban estoit [224] son Juge ;  
 Sa haine triomphoit, et ce traitre aujourd'huy....  
 
-    LA REINE. 
+    LA REINE.
 Ah Clarence ! le Comte est plus traitre que luy.  
 
     CLARENCE.
@@ -1910,14 +1910,14 @@ Coban est ennemy du Comte et son Rival.
 Et son Rival ! Coban m'aimeroit ?  
 
     CLARENCE.
-Oüy, Madame.  
+        Oüy, Madame.  
 
     LA REINE.
 J'ay remarqué souvent quelque éclat de sa flame.  
 Mais ou j'ay negligé ses feux audacieux,  
 Ou j'ay toûjours douté de la foy de mes yeux.  
 
-    CLARENCE. 
+    CLARENCE.
 Cependant conservant toûjours la mesme audace,  
 Il veut perdre le Comte et puis prendre sa place.  
 
@@ -1949,7 +1949,7 @@ Allons sans plus tarder éclaircir l'imposture.
 Que l'on cherche Coban. S'il veut dissimuler,  
 Il aime, c'est assez nous le ferons parler. [227]  
 
-    CLARENCE. 
+    CLARENCE.
 Cependant par vostre ordre on va juger le Comte.  
 Pour le faire perir l'envie ardente et promte.....  
 
@@ -2022,7 +2022,7 @@ Nous vange heureusement de sa temerité.
 Je me devois enfin un si grand sacrifice,  
 Et je dois à vos soins cét important service.  
 
-    COBAN. 
+    COBAN.
 Madame, quand on sert et sa Reine et l'Etat....  
 
     LA REINE.
@@ -2034,7 +2034,7 @@ Si je n'avois en vous dequoy remplir sa place.
 Moy, Madame ?  
 
     LA REINE.
-Le Ciel vous fit pour ces emplois,  
+        Le Ciel vous fit pour ces emplois,  
 Et vos pareils sont nés pour la gloire des Roys.  
 
     COBAN.
@@ -2051,7 +2051,7 @@ Et qu'on a pris le soin de me faire comprendre.... [236]
 O Ciel !  
 
     LA REINE.
-Vous vous troublez, et ce trouble à mes yeux  
+        Vous vous troublez, et ce trouble à mes yeux  
 Offre ce qu'on m'a dit [237] et me l'explique mieux.  
 
     COBAN.
@@ -2131,7 +2131,7 @@ Perd le Comte : craignez l'exemple, obeissez,
 Parlez.  
 
     COBAN.
-Vous m'ordonnez de parler, c'est assez. [246]  
+        Vous m'ordonnez de parler, c'est assez. [246]  
 J'avoüray que flatté⁎ d'un espoir favorable,  
 En voyant dans le Comte un rebelle, un coupable,  
 J'ay jusques sur son rang osé porter les yeux.  
@@ -2141,11 +2141,11 @@ Ecoutez et voyez [247] jusqu'où va son audace.
 Clarence aime le Comte, et le Comte charmé  
 Aime cette perfide autant qu'il est aimé.  
 
-    LA REINE. 
+    LA REINE.
 Ciel ! mais quel interest.....  
 
     COBAN.
-Tous deux d'intelligence⁎ [248]⁎  
+        Tous deux d'intelligence⁎ [248]⁎  
 Veulent vous enlever la supréme puissance.  
 
     LA REINE.
@@ -2163,7 +2163,7 @@ Croiray-je ce raport, avanture funeste ?
 Tous deux me trahiront ?  
 
     COBAN.
-Ha, Madame ! J'atteste....  
+        Ha, Madame ! J'atteste....  
 
     LA REINE.
 Laissez-moy [250], je n'ay plus besoin de vos sermens.  
@@ -2223,7 +2223,7 @@ Vous fait baisser les yeux, fait pâlir vostre front. [257]
 De quoy m'accusez-vous ?  
 
     LA REINE.
-Vantez vostre innocence,  
+        Vantez vostre innocence,  
 Au crime de vos feux ajoûtez l'impudence,  
 Perfide, je sçay tout, et Coban m'a tout dit.  
 
@@ -2324,7 +2324,7 @@ Plus vous montrez pour luy de troubles et d'alarmes,
 Plus vous montrez d'ardeur, plus je sens que je doy  
 Faire perir ce traistre et pour vous et pour moy.  
 
-    CLARENCE. 
+    CLARENCE.
 S'il vivoit pour vous seule en vous devant la vie,  
 Pourriez-vous conserver cette cruelle envie ?  
 Si je le ramenois soûmis à vos genoux,  
@@ -2437,7 +2437,7 @@ Je prens soin de mes jours au peril de ma gloire. [282]
 C'est ce don pretieux....  
 
     CLARENCE.
-Quel est vostre dessein ?  
+        Quel est vostre dessein ?  
 Vous-mesme [283] rendez-luy ce present de sa main.  
 
     LE C. D’ESSEX.
@@ -2451,7 +2451,7 @@ LE C. D'ESS. LE C. DE SALYSB. CLARENCE.
 
 
     LE C. DE SALISBERY.
-Ah Madame ! ah Seigneur !  
+        Ah Madame ! ah Seigneur !  
 Apprenez que déjà des mutins en fureur,  
 Renversant l'Echaffaut qu'on dressoit dans la place,  
 Ont irrité la Reine et vous ostent sa grace. [285]  
@@ -2459,7 +2459,7 @@ Vostre frere à leur teste, animant leur courroux,
 Marche vers le Palais. [286]  
 
     CLARENCE.
-Ciel ! que me dites-vous ?  
+        Ciel ! que me dites-vous ?  
 
     LE C. D’ESSEX.
 Ah ! ce n'est pas ainsi qu'on sauve l'innocence.  
@@ -2467,7 +2467,7 @@ Allez vous opposez à cette violence.
 Vostre frere nous [287] perd.  
 
     LE C. DE SALISBERY.
-La Reine au desespoir  
+        La Reine au desespoir  
 Vous impute ce trouble, et ne veut plus vous voir.  
 Plus le peuple pour vous se mutine contre elle,  
 Plus sa haine en devient inflexible et cruelle.  
@@ -2537,7 +2537,7 @@ Un sujet qui soit digne, et du Thrône et de vous.
 C'est le Comte....  
 
     LA REINE.
-Ce nom redouble mon couroux,  
+        Ce nom redouble mon couroux,  
 Ne m'en parle jamais, son crime est veritable ;  
 Ce que font les mutins le rend assez coupable.  
 Approchez-vous, Coban, le Comte est criminel,  
@@ -2545,7 +2545,7 @@ Et je n'écoute plus ce soubçon trop cruel,
 Qui m'a fait sans raison condamner vostre zele :  
 Le Comte est un perfide et vous este fidelle.  
 
-    COBAN. [292] 
+    COBAN. [292]
 Madame, vous voyez mon trouble et ma douleur.  
 Voyant avec quels traits, avec quelle fureur  
 Les partisans du Comte attaquent vostre gloire....  
@@ -2578,7 +2578,7 @@ Bien plus... dispensez-moy d'en dire davantage. [295]
 Dittes tout, acchevez.  
 
     COBAN.
-Pour un dernier outrage,  
+        Pour un dernier outrage,  
 Ils répandent par tout d'un ton un peu plus bas,  
 Qu'amoureux de Clarence il brave le trépas ;  
 Qu'il la préferoit à l'Empire, à vous mesme.  
@@ -2586,7 +2586,7 @@ Et que ne pouvant pas obtenir ce qu'il aime,
 Il aime mieux descendre, obeir comme nous,  
 Il aime mieux perir que régner avec vous. [296]  
 
-    LA REINE. 
+    LA REINE.
 Ah Coban ! c'en est trop, un si cruel outrage,  
 Ce dernier déplaisir [297] accable mon courage⁎.  
 Oüy, le traistre, à Clarence ayant donné sa foy,  
@@ -2688,7 +2688,7 @@ Ce reproche sanglant, cruel, peus-tu l'entendre ?
 Et puis-je t'expliquer ton crime et mon malheur,  
 Sans expirer tous deux de honte et de douleur ? [315]  
 
-    LE C. D’ESSEX. 
+    LE C. D’ESSEX.
 Ce reproche sanglant et qui semble plausible,  
 S'il estoit bien fondé me seroit trop sensible.  
 Mais pourquoy vous oster si proche du trépas  
@@ -2787,7 +2787,7 @@ Je sçauray prévenir⁎ cét amour furieux.
 Expliquez-vous si mal..... [324]  
 
     LA REINE.
-Qu'on l'oste de mes yeux,  
+        Qu'on l'oste de mes yeux,  
 
     LE C. D’ESSEX.
 Hé bien il faut mourir. Il faudra donc, Madame,  
@@ -2830,12 +2830,12 @@ Au Comte, à vostre Amant il en couste la vie.
 Et vostre mort....  
 
     CLARENCE.
-Sur moy contentez vostre envie.  
+        Sur moy contentez vostre envie.  
 Le Comte est à couvert⁎, il en a vostre foy.  
 Ce don de vostre main...  
 
     LA REINE.
-Ciel, qu'est-ce que je voy ?  
+        Ciel, qu'est-ce que je voy ?  
 
     CLARENCE.
 Revoquez vostre Arrest sans tarder davantage,  
@@ -2862,7 +2862,7 @@ Que montre un criminel asseuré de sa grace.
 Oüy le Comte vivra.  
 
     COBAN.
-Quel est ce changement ?  
+        Quel est ce changement ?  
 
     LA REINE *à Leonor.*
 Vous, portez luy sa grace, et sans perdre un moment.  
@@ -2876,7 +2876,7 @@ LA REINE, CLARENCE.
 
 
     LA REINE.
-Que vostre amour me rend un bon office !  
+        Que vostre amour me rend un bon office !  
 Vous avez arraché le Comte à ma justice.  
 L'amour estoit pour luy, mais l'amour en courroux  
 L'alloit sacrifier à mes transports jaloux.  
@@ -2895,7 +2895,7 @@ Madame, permettez à mon impatience,
 Que j'aille...  
 
     LA REINE.
-Allons, le Comte a redoublé ses pas,  
+        Allons, le Comte a redoublé ses pas,  
 Et montré tant d'ardeur en courant au trépas,  
 Qu'un seul moment perdu peut trahir nostre envie.  
 
@@ -2908,13 +2908,13 @@ LA REINE, CLARENCE, LE CAP. DES GARDES.
 Le Comte est mort.  
 
     LA REINE.
-O Ciel !  
+    O Ciel !  
 
     CLARENCE.
-Hélas !  
+    Hélas !  
 
     LA REINE.
-On m'a trahie.  
+        On m'a trahie.  
 L'ordre de le sauver trop tard executé....  
 
     LE C. DES GARDES.
@@ -2935,7 +2935,7 @@ L'immole à ma justice, à ma flame, à ma haine.
 On va vous l'emmener, sa fuite seroit vaine.  
 On le poursuit, bien-tost sa mort ou sa prison...  
 
-    CLARENCE. 
+    CLARENCE.
 Son sang ne sçauroit seul laver sa trahison.  
 Prenez le mien, ma flame injuste et temeraire,  
 A contre un malheureux armé vostre colere.  
@@ -2966,7 +2966,7 @@ LA REINE, LE C. DE SALISB.
 Venez, Comte, venez.  
 
     LE C. DE SALISBERY.
-Vous me voyez Madame,  
+        Vous me voyez Madame,  
 La pitié, la douleur et la fureur dans l'ame.  
 Vous ne sçavez que trop par quel horrible tour,  
 Le Comte infortuné vient de perdre le jour.  

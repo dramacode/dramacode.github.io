@@ -1,5 +1,5 @@
 ---
-identifier: moliere_dom  
+identifier: moliere_dom-garcie-de-navarre  
 creator: Molière  
 date: 1661  
 title: Dom Garcie de Navarre. Comédie  

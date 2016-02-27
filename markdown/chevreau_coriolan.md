@@ -1732,7 +1732,7 @@ Qu'il y doit rencontrer un eternel azile :
 Bref, sans vous retenir, qu'il y doit commander  
 C'est tout ce qu'à plus prés [153] on luy peut demander.  
 
-    SICINIE. 
+    SICINIE.
 Dans ma commission [154] je feray mon possible  
 Pour le rendre bien tost [155] plus doux & plus sensible⁎ ;  
 Je n'épargneray rien qui puisse l'émouvoir :  
@@ -1795,7 +1795,7 @@ Démolir leur remparts, & brizer leurs Autels,
 Et faire en fin que l'air devienne si funeste⁎  
 Que mesme les corbeaux y meurent de la peste.  
 
-    SANCINE. 
+    SANCINE.
 Vous n'estes pas l'autheur de tout ce qui leur nuit,  
 Eux mesmes ont causé le mal-heur qui les suit ;  
 Vostre vangeance est juste, & leur mal legitime,  
@@ -1841,7 +1841,7 @@ Dans les ressentimens⁎ d'une peine infinie,
 Et parmy les remords…      
 
     CORIOLAN.
-C'est donc toy, Sicinie ?  
+        C'est donc toy, Sicinie ?  
 Dans mes premiers regrets tu m'as abandonné,  
 Et dedans le dernier m'as tu pas condamné [172] ?  
 Crois-tu bien me surprendre ? as-tu l'effronterie  
@@ -1925,7 +1925,7 @@ Se réveille, & poursuit nostre troupe ennemie ;
 En fin j'ateins mes gens : car dans cét Element  
 Nous vismes tous perir mon vaisseau seulement.  
 
-    SICINIE. 
+    SICINIE.
 Seigneur, je suis témoin de vostre grand courage,  
 Je vis vostre conduitte aussi bien que l'orage.  
 
@@ -1968,7 +1968,7 @@ N'a rien de genereux⁎ ; c'est le fait des Tyrans.
 Que vouloit ce Romain ?  
 
     SICINIE.
-Qu'au fort [191] de nos tempestes  
+        Qu'au fort [191] de nos tempestes  
 Il vous plût d'écouter nos tres-humbles requestes.  
 
     AUFIDIE.
@@ -2095,7 +2095,7 @@ Quels fruits nous recueillons de vostre tyranie,
 Et de quelle façon vous nous avez traittez  
 Par vostre jalousie, & par vos laschetez.  
 
-    SICINIE. 
+    SICINIE.
 Je ne m'excuse point : je n'en suis pas capable  
 Je ne suis toute-fois innocent ny coupable ;  
 Ou si l'on me punit d'une telle action  
@@ -2119,7 +2119,7 @@ Parurent devant moy justes & violens.
 On me loüa tout haut d'une telle entreprise⁎,  
 Où je n'eus d'interest⁎ que pour nostre franchise⁎ [217].  
 
-    UN AUTRE SENATEUR. 
+    UN AUTRE SENATEUR.
 Mais lors qu'on veut punir un puissant ennemy,  
 On ne le doit choquer ny punir à demy.  
 On doit chercher sa mort alors qu'il la mérite,  
@@ -2218,7 +2218,7 @@ Sa faveur seulement précedoit sa disgrace,
 Ainsi qu'un temps serain précede bien souvent  
 Quelque grande tempeste, & quelque horrible vent.  
 
-    VELUMNIE. 
+    VELUMNIE.
 J'advois eu cy-devant [231] une esperance haute,  
 Mais j'ay donné la vie à celuy qui me l'oste,  
 Et qui dedans ce mal dont il nous peut guerir  
@@ -2319,7 +2319,7 @@ Que pour les conserver je détruis ma Patrie.
 Donc si vous m'en croyez, triomphons promptement  
 Pour ne luy pas laisser un soupçon seulement.  
 
-    CORIOLAN. 
+    CORIOLAN.
 J'y suis bien resolu ; la chose est déjà preste,  
 Mon sort⁎ est glorieux [240] d'une telle conqueste,  
 Et je meurs trop content en ce que j'ay soubmis  
@@ -2344,7 +2344,7 @@ Il semble que leur mort cause vostre douleur
 Vous ont-ils pas [242] bany ?  
 
     CORIOLAN.
-Genereux⁎ Aufidie,  
+        Genereux⁎ Aufidie,  
 Ne me soupçonnez point d'aucune perfidie ;  
 Je garderay ma foy⁎, rien ne me peut changer,  
 Je vous dois satisfaire, & je me doy vanger :  
@@ -2365,7 +2365,7 @@ Cherchons leur sur [243] le soir une fin déplorable,
 Apaisons par leur sang nos esprits irritez⁎,  
 Et ne diferons plus des tourmens meritez.  
 
-    CORIOLAN. 
+    CORIOLAN.
 Je serois mal-heureux s'ils ne le pouvoient estre :  
 Mais [244] dans mes cruautez je leur feray connestre  
 Que j'eus dés mon exil toute Rome en horreur ;  
@@ -2537,12 +2537,12 @@ Coriolan la saisit par la main, & luy oste le poignard [266]
 
 
     CORIOLAN.
-Ah, Madame, je tremble !  
+        Ah, Madame, je tremble !  
 
     VELUMNIE.
 Mon fils, que de mal-heurs vous causerez ensemble !  
 
-    VERGINIE. 
+    VERGINIE.
 C'est par là seulement qu'il se faut secourir,  
 Je sçay comme on doit vivre, & comme [267] on peut mourir,  
 Et je ne puis manquer dans ce dessein tragique  
@@ -2747,7 +2747,7 @@ Qui fera quelque jour l'ornement de l'histoire ;
 Que pouvez vous réver [280] ?  
 
     CORIOLAN.
-Non, je ne réve plus ;  
+        Non, je ne réve plus ;  
 Car ces empeschemens seront tous superflus,  
 Je suivrois de bon cœur leur legitime envie :  
 Mais je doy conserver mon honneur & ma vie.  
@@ -3057,7 +3057,7 @@ Il me semble à tous coups qu'il craint de revenir ;
 Sancine, qu'en crois-tu ?  
 
     SANCINE.
-Qu'il vous fera parestre  
+        Qu'il vous fera parestre  
 Qu'il hait ce peuple ingrat, & qu'il n'est pas un traistre  
 Qu'il sçait executer tout ce qu'il a promis,  
 Et qu'il voit les Romains comme ses ennemis.  
@@ -3091,7 +3091,7 @@ Je me tiens dés cette heure à ce que j'ay conclu :
 Ma fame en portera la premiere nouvelle,  
 Et vous verrez par là si je leur suis fidelle⁎.  
 
-    AUFIDIE. 
+    AUFIDIE.
 O Dieux ! Coriolan, je meurs dans ces transports⁎,  
 Je ne redoute plus tous les plus grands éforts.  
 Si vous avez pû vaincre une fame, une mere,  
@@ -3112,7 +3112,7 @@ Ma parole est donnée, il n'y faut plus songer :
 Je pardonne aux Romains.  
 
     SANCINE.
-Ce pardon m'épouvante,  
+        Ce pardon m'épouvante,  
 Gardez bien que le sort⁎ ne trompe vostre attente ;  
 Ne nous abusez pas de semblables propos,  
 S'ils sont en liberté, vous serez sans repos  
@@ -3196,7 +3196,7 @@ Il est bien mal-aisé de parler sans courous.
 Vous nous avez trahy, vous nous faites connestre  
 Que vous estes ingrat, & que vous estes traistre.  
 
-    CORIOLAN. 
+    CORIOLAN.
 Ne vous emportez plus, ces mots injurieux  
 Treuveroient contre vous un esprit furieux  
 J'eusse rendu bien tost vostre sort⁎ plus prospere⁎ :  
@@ -3244,7 +3244,7 @@ Il ne vous reste plus qu'à tenter mon courage :
 N'allez pas plus avant.  
 
     AUFIDIE.
-Peut-estre que les Dieux  
+        Peut-estre que les Dieux  
 Reconnétront bien tost vos soins⁎ officieux [321].  
 Il s'en va
 
@@ -3282,7 +3282,7 @@ Capables de forcer & les cœurs & les armes ;
 Mais vous remarquerez…  
 
     VERGINIE.
-Camille tout va bien,  
+        Camille tout va bien,  
 Avec Coriolan je n'aprehende rien.  
 Ce point seul me soulage, & je suis assurée  
 De gouster des plaisirs d'une longue durée.  
@@ -3295,7 +3295,7 @@ A combatre une armée, à forcer une ville :
 Mais nostre sexe est foible, & vous ne songez pas  
 Qu'un peril l'épouvante, & qu'il craint le trépas  
 
-    VERGINIE. 
+    VERGINIE.
 Sçache que de bon cœur je m'éloigne de Rome ;  
 J'ay les mains d'une fame, & j'ay le cœur d'un homme ;  
 Je ne puis estre lâche en voyant devant moy  
@@ -3497,7 +3497,7 @@ Ils se jettent sür Coriolan
 
 O Dieux ! je suis blessé, je tombe, je suis mort !  
 
-    UN VOLSQUE. 
+    UN VOLSQUE.
 Encore un coup, perfide ; il est mort l'infidelle⁎,  
 L'Enfer va recevoir son ame criminelle.  
 Mais ne demeurons pas davantage en ces lieux  
@@ -3514,7 +3514,7 @@ Afin de luy parler je ne veux qu'un moment ;
 Et lors tu connétras jusqu'où va ma franchise⁎,  
 Et jusqu'où peut aller toute nostre entreprise⁎.  
 
-    CAMILLE. 
+    CAMILLE.
 Je vous attens, Madame, il faut vous obeïr :  
 Mais songez apres tout à ne vous pas trahir.  
 Camille rentre [334] derriere le Theatre

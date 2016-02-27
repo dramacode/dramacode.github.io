@@ -1,5 +1,5 @@
 ---
-identifier: clerselier_l'amour  
+identifier: nanteuil_amour-sentinelle  
 creator: Clerselier, Denis ; dit Nanteuil  
 date: 1669  
 title: L'Amour sentinelle ou Le Cadenas forcé. Comédie  
@@ -697,7 +697,7 @@ aage (v. 90), feeslée (v. 604). « Elle Académie … élimine un grand nombre
 # L'AMOUR SENTINELLE OU LE CADENAS FORCÉ. COMEDIE.
 
 
-## A SON     ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE [72]
+## A SON ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE [72]
 
 MONSEIGNEUR.
 
@@ -737,10 +737,10 @@ Clidamant, Croctin.
 
 
     CROCTIN.
-Ce dessein⁎ vous surprend.                              
+Ce dessein⁎ vous surprend.  
 
     CLIDAMANT.
-            J'en suis tout interdit⁎.  
+                    J'en suis tout interdit⁎.  
 
     CROCTIN.
 Vous le serez bien plus, lors que j'auray tout dit,  
@@ -752,21 +752,21 @@ Vous aimez Isabelle et Florant l'aime aussy,
 Que je suis malheureux.  
 
     CROCTIN.
-            Que faire à tout cecy.  
+                    Que faire à tout cecy.  
 Ma foy je n'y vois goutte.  
 
     CLIDAMANT.
-            Il faudra que Lisette...  
+                    Il faudra que Lisette...  
 Mais viens prendre un billet⁎.  
 
     CROCTIN.
-                Ny billet⁎ ny billette⁎  
+                        Ny billet⁎ ny billette⁎  
 Ne sera point porté [75].  
 
     CLIDAMANT.
-            Pourquoy ? dans sa maison...  
+                    Pourquoy ? dans sa maison...  
 
-    CROCTIN.    
+    CROCTIN.
 Quand vous parlez ainsy, vous parlez sans raison.  
 Vous dites qu'en amour vous n'estes pas novice,  
 Mais vos raisonnements ne sont qu'un pur caprice.  
@@ -775,33 +775,33 @@ Mais vos raisonnements ne sont qu'un pur caprice.
 Te connoist il.  
 
     CROCTIN.
-        Qui moy ? Jamais il ne m'a veu.  
+                Qui moy ? Jamais il ne m'a veu.  
 
     CLIDAMANT.
 Il faudra que tu fasse...  
 
     CROCTIN.
-            Et tout cela conclu,  
+                    Et tout cela conclu,  
 Que pretendez vous faire.  
 
     CLIDAMANT.
-            Une chose admirable,  
+                    Une chose admirable,  
 Que tu feras.  
 
     CROCTIN.
-        Qui moy ? Que je me donne au Diable  
+                Qui moy ? Que je me donne au Diable  
 Si j'y vais.  
 
     CLIDAMANT.
-        Tu pourras, quand il sera sorty,  
+                Tu pourras, quand il sera sorty,  
 Entrer dans sa Maison.  
 
     CROCTIN.
-            Quand il seroit party,  
+                    Quand il seroit party,  
 Pour aller en Escosse, ou bien en Allemagne,  
 On voit certain mouchart⁎, qui souvent m'accompagne.  
 C'est pourquoy je vous dis, que si l'on me tenoit,  
-On me feroit grand chere [76], ou l'on me meneroit [77]                  
+On me feroit grand chere [76], ou l'on me meneroit [77]  
 Dans le grand Chastelet [78], dans la Conciergerie [79],  
 J'y pourrais demeurer le reste de ma vie,  
 On a veu des decrets de tout temps contre moy,  
@@ -813,14 +813,14 @@ Je suis plus malheureux que les plus miserables,
 Si tu veux à present m'abandonner.  
 
     CROCTIN.
-                    Poussez.  
+                            Poussez.  
 Je veux vous faire grace⁎.  
 
     CLIDAMANT.
-            Il suffit,  
+                Il suffit,  
 
     CROCTIN.
-                C'est assez.  
+                        C'est assez.  
 Deusse je estre pendu par mon col tout à l'heure,  
 Si je ne vais parler [80] jusques à sa demeure...  
 
@@ -828,17 +828,17 @@ Si je ne vais parler [80] jusques à sa demeure...
 A ma chere Isabelle.  
 
     CROCTIN.
-            Ouy je vous le promets  
+                    Ouy je vous le promets  
 Vous me permettez bien.  
 il luy parle bas
 
 
     CLIDAMANT.
-            Ouy, je te le promets  
-Fais ce que tu voûdras.                                   
+                    Ouy, je te le promets  
+Fais ce que tu voûdras.  
 
     CROCTIN.
-            Il faut vous satisfaire.  
+                    Il faut vous satisfaire.  
 J'y vais tout de ce pas, rien ne m'en peut distraire,  
 Mais je suis arresté, car je vois nostre amant⁎  
 Plus malheureux que n'est ...  
@@ -849,19 +849,19 @@ Clidamant, Croctin, Isabelle, Lisette.
 
 
     ISABELLE.
-            Est-ce vous Clidamant ?  
+                    Est-ce vous Clidamant ?  
 
     CLIDAMANT.
 Ouy, Madame, c'est moy  
 
     LISETTE.
-            Croctin ?  
+                Croctin ?  
 
     CROCTIN.
-                Quoy ?  
+                    Quoy ?  
 
     LISETTE.
-                    C'est ton Maistre ?  
+                            C'est ton Maistre ?  
 
     CLIDAMANT.
 Non, Madame, à vos yeux je n'osois pas paroistre.  
@@ -870,11 +870,11 @@ Je n'osois seulement passer pres de chez vous
 Je craignois ...  
 
     ISABELLE.
-        Quand on aime on ne sçauroit rien craindre,  
-Vostre inconstance seule ...                               
+                Quand on aime on ne sçauroit rien craindre,  
+Vostre inconstance seule ...  
 
     CLIDAMANT.
-                Et pouvez vous vous plaindre,  
+                        Et pouvez vous vous plaindre,  
 Lors que vous m'ordonnez d'abandonner ces lieux,  
 Que je n'osois quitter, malgré les envieux,  
 Que je ne consens point que par obeïssance,  
@@ -887,14 +887,14 @@ Ouy, je voys, Clidamant, que vous m'aimez encore.
 Je voy que vous avez ...  
 
     CROCTIN.
-            Madame il vous adore,  
+                    Madame il vous adore,  
 Je suis homme d'honneur, croyez moy sur ma foy,  
 
     LISETTE.
 Tu crois l'estre, Croctin, mais tu te trompe.  
 
     CROCTIN
-                    Quoy,  
+                            Quoy,  
 Je te vois contre moy pousser ton eloquence,  
 Tu veux te gendarmer, voyant que la finance,  
 Ne trotte pas chez nous comme l'on voudroit bien,  
@@ -903,12 +903,12 @@ Laisse là mon amour, je ne veux point du tien.
     LISETTE.
 Quoy, Croctin, contre moy tu te mets en colere.  
 
-    CROCTIN.    
+    CROCTIN.
 A parler franchement je ne veux pas te plaire,  
 Et quant on me deplait, je veux dire ...  
 
     LISETTE.
-                    Comment ?  
+                            Comment ?  
 Tu croirois donc beaucoup t'abaisser en m'aimant.  
 
     CROCTIN.
@@ -920,14 +920,14 @@ Je t'en feray gouster quand nous serons chez nous.
 Dequoy ? du mariage ?  
 
     CROCTIN.
-            Et ouy.  
+                Et ouy.  
 
     LISETTE.
-                Pour mon espoux,  
+                        Pour mon espoux,  
 Je te veux bien, au moins.  
 
     CROCTIN.
-                Va je te veux de mesme.  
+                        Va je te veux de mesme.  
 
     CLIDAMANT.
 Croctin fera l'affaire, usant du stratagesme ...  
@@ -942,7 +942,7 @@ Je luy feray du bien en luy donnant Lisette,
     CLIDAMANT.
 Moy je sçauray, ... [83]  
 
-    CROCTIN.    
+    CROCTIN.
         Comment la peste⁎ quelle emplette [84],  
 Je vous serviray bien, laissez faire Croctin,  
 J'ay là dedans dequoy fascher vostre mastin⁎,  
@@ -952,16 +952,16 @@ Que l'on puisse trouver de Paris au Japon,
 Puis vous sçaurez ...  
 
     ISABELLE.
-            Mais ...  
+                Mais ...  
 
     CROCTIN.
-                Mais quoy ? que dira-t-on ?  
+                        Mais quoy ? que dira-t-on ?  
 
     ISABELLE.
 Mais s'il alloit sçavoir.  
 
     CROCTIN.
-            Que sçauroit il ? j'enrage,  
+                    Que sçauroit il ? j'enrage,  
 Luy qui n'a jamais veu les traits de mon visage,  
 Me reconnoistra-t-il ? s'il ne m'a jamais veu.  
 
@@ -969,16 +969,16 @@ Me reconnoistra-t-il ? s'il ne m'a jamais veu.
 Fais à ta fantaisie⁎.  
 
     CROCTIN.
-            Et bien en suis je creu,  
+                    Et bien en suis je creu,  
 Sy je fais mon devoir.  
 
     CLIDAMANT.
-            Va nous te laissons faire.  
+                    Va nous te laissons faire.  
 
     CROCTIN.
 C'est asses, vostre face excite ma colere,  
 Retirez vous, Madame, allez vous en chez vous,  
-Et vous, Monsieur, aussy faites gile⁎ chez nous,                       
+Et vous, Monsieur, aussy faites gile⁎ chez nous,  
 Il suffit que je vois le fond⁎ de ce mistere,  
 Mais quelqu'un vient, allons commencer nostre affaire.  
 
@@ -1004,14 +1004,14 @@ Quand la colere emporte⁎ on n'en est pas le maistre.
 Pourquoy la battez vous ?  
 
     FLORANT.
-            Je sçay qu'un certain traistre,  
+                    Je sçay qu'un certain traistre,  
 Chut au moins sur ce point.  
 
     FERNANT.
-                Quoy ?  
+                    Quoy ?  
 
-    FLORANT.    
-                    Ce n'est pas pour vous,  
+    FLORANT.
+                            Ce n'est pas pour vous,  
 Pour faire court, il vient la visiter chez nous,  
 Mais si je l'y puis voir ou je veux qu'on me berne⁎,  
 Sy je ne le mets pas dans un lieu subalterne [85],  
@@ -1035,7 +1035,7 @@ Qui me feroit passer à mon nés [89] pour un fou,
 Si je ne sçavois pas les moyens et par où,  
 Me tirer à present d'une facheuse affaire.  
 
-    FERNANT.    
+    FERNANT.
 Il est vray celle là n'est pas fort ordinaire.  
 
     FLORANT.
@@ -1049,12 +1049,12 @@ S'ils s'aiment bien tous deux que faire sur ce point,
 Que me respondrez vous ?  
 
     FLORANT.
-            Qu'il ne la verra point,  
+                    Qu'il ne la verra point,  
 Que je l'enfermeray. De plus s'il faut se plaindre,  
 Je sçay bien comme [92] on fait.  
 
     FERNANT.
-                Il faut tousjours tout craindre,  
+                        Il faut tousjours tout craindre,  
 Isabelle entre nous depend elle de vous,  
 Jusques à supporter vostre facheux couroux⁎ ?  
 
@@ -1067,14 +1067,14 @@ Il verra dés ce soir à quel point je me chausse⁎,
 Si j'ay raison ou non, ou si la chose est fausse.  
 
      FERNANT.
-Tous vos emportements⁎ sont icy superflus,                       
+Tous vos emportements⁎ sont icy superflus,  
 Croyez vous qu'ils viendront vous parler la dessus.  
 
     FLORANT.
 Vous ne m'obligez⁎ pas ...  
 
     FERNANT.
-            Je ne veux plus rien dire,  
+                    Je ne veux plus rien dire,  
 Si non que l'on doit craindre un revers de satyre [93],  
 Je vous parle en amy, lors que je parle ainsy.  
 
@@ -1094,18 +1094,18 @@ Il est vray quand on aime, on aime avec furie⁎.
 Voila vostre embarras⁎.  
 
     FLORANT.
-            Voila la diablerie⁎,  
+                    Voila la diablerie⁎,  
 Que je ne sçavois pas et qu'il falloit sçavoir.  
 
     FERNANT.
 Vous pouvez cependant user de mon pouvoir,  
 Vous sçavez que je suis tout à vostre service⁎,  
 
-    FLORANT.    
+    FLORANT.
 Vous m'obligez⁎ beaucoup.  
 
     FERNANT.
-                Et que c'est mon supplice,  
+                        Et que c'est mon supplice,  
 Quant on n'en agit pas en toute liberté [94].  
 
     FLORANT.
@@ -1116,7 +1116,7 @@ Chez moy, d'où je feray sortir des Crocheteurs⁎,
 Qui feront tout pour nous.  
 
     FERNANT.
-            Vous avez des flateurs,  
+                    Vous avez des flateurs,  
 Qui vous conseillent mal. Ces crocheteurs⁎ peut estre,  
 Sont des gens affidez, qui ne pourront parroistre,  
 Que pour tout emporter ce qui sera chez vous,  
@@ -1124,27 +1124,27 @@ Croyez moy, cher voisin, tirez-vous de ces coups,
 C'est le plus seur.  
 
     FLORANT.
-        Et bien il faut vous satisfaire.  
+                Et bien il faut vous satisfaire.  
 Je vais vous dire tout ce que je viens de faire,  
 Desja ces crocheteurs⁎ sont de bonne grandeurs  
 Gros, Rons et qui feront fort bien le coup d'honneur,  
-Apres luy avoir parlé à l'oreille.                            
+Apres luy avoir parlé à l'oreille.
 
 Si le Galand⁎ paroist ils feront tous merveille,  
 Que me conseillez vous.  
 
     FERNANT.
-            Qui moy ? je vous conseille  
+                    Qui moy ? je vous conseille  
 De faire sans tarder ce que vous dites là,  
 C'est là le seul moyen [95].  
 
     FLORANT.
-            En effect le voila.  
+                    En effect le voila.  
 Mais je pretends de plus, je voy quelqu'un, courage,  
 Escoutons les un peu.  
 
     FERNANT.
-            Tirons nous de l'orage.  
+                    Tirons nous de l'orage.  
 
 
 ### SCENE IV.
@@ -1155,22 +1155,22 @@ Florant, Fernant *Cachez dans la maison de* Florant. Fabrice, Roguepine.
 Roguepine.  
 
     ROGUEPINE.
-        Monsieur.  
+            Monsieur.  
 
     FABRICE.
-            Approchez-vous, faquin⁎.  
+                    Approchez-vous, faquin⁎.  
 
     ROGUEPINE.
 Vous l'emportez⁎ sur tous.  
 
     FABRICE.
-                Elle m'aime coquin⁎                  
+        Elle m'aime coquin⁎  
 Dis moy ce que t'a dit cette belle assassine,  
 Elle m'estime fort, n'est ce pas Roguepine.  
 Son amour va ...  
 
     ROGUEPINE.
-        Pourquoy n'en auroit elle pas  
+                Pourquoy n'en auroit elle pas  
 Un Marquis, comme vous, peut il manquer d'appas⁎,  
 Allez croyez tousjours que la belle est de flamme⁎,  
 Et que je sçay fort bien tout ce qu'elle a dans l'ame.  
@@ -1191,7 +1191,7 @@ Qui se laisse emporter⁎ à sa seule boutade⁎
 Et ...  
 
     ROGUEPINE.
-Comment pouves vous vous retirer des coups,                  
+        Comment pouves vous vous retirer des coups,  
 Que l'on prepare icy pour se railler⁎ de vous  
 
     FABRICE.
@@ -1219,17 +1219,17 @@ Mais à propos, Monsieur, a-t-elle bien dequoy.
 Roguepine elle est riche.  
 
     ROGUEPINE.
-            Elle est bien egrillarde,  
+                    Elle est bien egrillarde,  
 Du moins elle paroist un tant soit peu gaillarde,  
-Qu'en dites vous, Monsieur, disant la verité,                       
+Qu'en dites vous, Monsieur, disant la verité,  
 Je croy ne pas pecher contre la charité,  
 N'est ce pas.  
 
     FABRICE.
-        Tu te trompe elle est sage.  
+            Tu te trompe elle est sage.  
 
     ROGUEPINE.
-                    Ou je meure …  
+                            Ou je meure …  
 
     FABRICE.
 Je te la feray voir devant⁎ qu'il soit une heure.  
@@ -1253,10 +1253,10 @@ Polixene, Herminie, Andromache, Didon [100],
 Si vous estiez icy ...  
 
     ROGUEPINE.
-            Vous les aymeriez.  
+                Vous les aymeriez.  
 
     FABRICE.
-                    Non,                       
+        Non,  
 Je ne quitterois pas mon aimable Isabelle.  
 Attends moy, je m'en vais entrer chez cette belle.  
 
@@ -1266,18 +1266,18 @@ Vous me faite plaisir,
     FLORANT
 Dans la maison aux crocheteurs apres que Fabrice est entre.
 
-            Allons enfants poussez.  
+                    Allons enfants poussez.  
 
     FABRICE. *en sortant.*
 Me maltraitter ainsy.  
 
     ROGUEPINE *aux crocheteurs.*
-            C'est mon Maistre rossez.  
+                    C'est mon Maistre rossez.  
 Les crocheteurs ayant mis dehors le Marquis se retirent, hors un, qui danse une entrée pour finir l'acte.
 < Fin du premier acte. >
 
 
-## ACTE II.                      
+## ACTE II.
 
 
 ### SCENE I.
@@ -1296,11 +1296,11 @@ Ah ! je me vangeray de ce coup inhumain,
 Et ils frapoient si fort.  
 
     FABRICE.
-            Jaloux insuportable  
+                    Jaloux insuportable  
 Lasche, infame.  
 
     ROGUEPINE.
-        Il est vray que ce coup est pendable  
+                Il est vray que ce coup est pendable  
 C'est estre bien cruel que de fraper ainsy,  
 Un Marquis comme vous, un amoureux transy [101],  
 Ces Messieurs là pourtant paroissoient en furie⁎.  
@@ -1308,9 +1308,9 @@ Et s'ils n'entendoient pas beaucoup de raillerie⁎,
 Comment vous ont ils pris.  
 
     FABRICE.
-                Estant entré d'abord  
+                        Estant entré d'abord  
 Florant crioit tout haut, estes vous bien d'accord.  
-Les autres respondants nous le sommes sans doute,                   
+Les autres respondants nous le sommes sans doute,  
 J'ay veu certaines gens, estrillez quoy qu'il couste,  
 A dit Florant. Apres ils ont frappé sur moy.  
 
@@ -1338,10 +1338,10 @@ Tu nous aurois fait voir si tu dis verité.
 Je vous aurois fait voir grande temerité.  
 
     FABRICE.
-Il faudra nous vanger Roguepine.                           
+Il faudra nous vanger Roguepine.  
 
     ROGUEPINE.
-                J'y pense,  
+                        J'y pense,  
 On pourra nous venger au bout d'une potence,  
 Si l'on entend parler que nous voulions tous deux,  
 Nous venger en tuant ces pauvres malheureux,  
@@ -1360,10 +1360,10 @@ Mon dépit se retire et je n'ay plus de cœur,
 Voilà comme est basty Monseigneur Roguepine.  
 
     FABRICE. 
-Ah ! Malheureux poltron ...                               
+Ah ! Malheureux poltron ...  
 
     ROGUEPINE.
-            Dite en ay-je la mine,  
+                    Dite en ay-je la mine,  
 N'importe je pretends vous respondre en [106] ce point,  
 Si j'ay fort peu de cœur vous, vous n'en avez point,  
 
@@ -1372,7 +1372,7 @@ L'amy laisse un peu là ta foible raillerie⁎,
 Donne moy patience.  
 
     ROGUEPINE *à part.*
-            He [107] l'amy sans furie⁎,  
+        He [107] l'amy sans furie⁎,  
 Haut
 
 Retirons nous d'icy Monsieur vous sçavez bien,  
@@ -1386,19 +1386,19 @@ Isabelle, et qu'elle est au dernier desespoir.
 Roguepine, Isabelle !  
 
     ROGUEPINE.
-            Et bien.  
+                Et bien.  
 
     FABRICE.
-                C'est ma Maistresse⁎.  
+                        C'est ma Maistresse⁎.  
 
     ROGUEPINE.
 Moy je n'y puis que faire.  
 
     FABRICE.
-            Ha je meurs de tristesse [108].  
+        Ha je meurs de tristesse [108].  
 
     ROGUEPINE
-Je ne m'estonne⁎ plus si l'on vous a battu,                       
+Je ne m'estonne⁎ plus si l'on vous a battu,  
 On devoit vous tuer homme plein de vertu,  
 Marquis des Beaux Marquis tout remply d'impudence,  
 On devoit vous donner au milieu de la pance  
@@ -1420,11 +1420,11 @@ Ce sont deux qualitéz admirables pour vous.
 Vous tairez vous, maraut.  
 
     ROGUEPINE
-            Et bien soit taisons nous,  
+                    Et bien soit taisons nous,  
 Mais quelqu'un vient sortons,  
 
     FABRICE
-                Que je suis miserable.                   
+        Que je suis miserable.  
 
     ROGUEPINE.
 Suivez moy seulement.  
@@ -1435,7 +1435,7 @@ Clidamant, Croctin
 
 
     CROCTIN.
-            Qu'il estoit delectable !  
+                    Qu'il estoit delectable !  
 Qu'il estoit bon ce vin c'estoit du vin musquat.  
 
     CLIDAMANT.
@@ -1448,14 +1448,14 @@ Pourtant quand je suis seul je ne puis tortiller,
 Je vais faire un beau coup.  
 
     CLIDAMANT.
-            Tu ne fais que baailler [109].  
+        Tu ne fais que baailler [109].  
 
     CROCTIN.
 Je m'en vais vous servir et je vous puis repondre,  
 Que par mes actions je pourray bien confondre,  
 Les plus sçavants esprits qui se puissent trouver,  
 Je verrray le jaloux quoy qu'il puisse arriver,  
-Je luy diray qu'il faut je sçay comme il faut dire,                       
+Je luy diray qu'il faut je sçay comme il faut dire,  
 Il me dira d'abort mon amy je soupire,  
 Je suis si malheureux, apres il toussera,  
 Esternüera deux fois puis il se mouchera,  
@@ -1482,21 +1482,21 @@ On voit du distingo du vostre avec le nostre.
 Je ne luy parle plus.  
 
     CROCTIN.
-            Que cela seroit beau,  
+                    Que cela seroit beau,  
 Que j'alasse espouser et la vache et le veau [112].  
 
     CLIDAMANT. 
 Croctin de mon costé tu n'auras point d'ombrage.  
 
     CROCTIN.
-Ce sera fort bien fait et si vous estes sage,                       
+Ce sera fort bien fait et si vous estes sage,  
 Vous ne chercheriez point nostre jaloux non plus,  
 
     CLIDAMANT.
 Mais…  
 
     CROCTIN.
-Vos raisonnements sont icy superflux,  
+        Vos raisonnements sont icy superflux,  
 S'il ne vous a point veu craignez qu'il ne vous voye,  
 Sy vous ne pretendez voir soufler vostre proye,  
 Mais j'apercois Lisette.  
@@ -1507,13 +1507,13 @@ Clidamant, Croctin, Lisette
 
 
     LISETTE.
-            Ah ! Monsieur est-ce vous.  
+                    Ah ! Monsieur est-ce vous.  
 
     CROCTIN
 Ne le vois tu pas bien.  
 
     LISETTE.
-            Quoy Maistre des filoux…  
+                    Quoy Maistre des filoux…  
 
     CROCTIN.
 Le joly compliment par où ton feu⁎ debute.  
@@ -1522,17 +1522,17 @@ Le joly compliment par où ton feu⁎ debute.
 C'est fort bien raisonner.  
 
     CROCTIN.
-            Tu cherche chapechute [113],  
+        Tu cherche chapechute [113],  
 Car voy-tu si je suis une fois ton espoux.  
 
     LISETTE.
-Dy moy que feras tu.                                   
+Dy moy que feras tu.  
 
     CROCTIN.
-            Souviens t'en bien.  
+                Souviens t'en bien.  
 
     LISETTE.
-                    Tout doux.  
+                            Tout doux.  
 
      CLIDAMANT.
 Ne me diras tu point ce que fait ta Maistresse⁎.  
@@ -1543,16 +1543,16 @@ De voir qu'elle pourra bien avoir pour espoux,
 Au lieu de vous Florant.  
 
     CROCTIN.
-            Il luy fait les yeux doux,  
+                    Il luy fait les yeux doux,  
 Je vous l'avois bien dit ce vieux Rodrigue [114] encore,  
 La cajolle⁎ t'il bien.  
 
     LISETTE.
-            Ma foy trop il l'adore,  
+                    Ma foy trop il l'adore,  
 J'en suis tout estonnée⁎.  
 
     CROCTIN.
-            Et quoy ce vieux penard  
+                    Et quoy ce vieux penard  
 Se veut donc preparer à devenir cornard,  
 Va je puis t'asseurer qu'il n'aura pas la peine,  
 De souffrir que son feu⁎ luy face perdre aleine,  
@@ -1563,12 +1563,12 @@ Que nous avons souffert qu'il ait bien pris son temps.
 Tu vois ce que Croctin nous promet.  
 
     CROCTIN.
-                    Qu'elle espere,                   
+        Qu'elle espere,  
 Je vous l'ay déja dit, je veux vous satisfaire,  
 Et je pretends de plus ...  
 
     LISETTE.
-            A propos le Marquis,  
+                    A propos le Marquis,  
 Qui nous montroit tantost ce qu'il avoit acquis,  
 Fut par deux crocheteurs⁎ et de bonne maniere,  
 Estrillé comme il faut à grands coups d'estriviere.  
@@ -1585,17 +1585,17 @@ Descendit en tremblant croyant que c'estoit vous,
 Mais voyant que c'estoit nostre Marquis.  
 
     CROCTIN.
-                    N'importe,  
+                            N'importe,  
 Je voy venir Florant au coin de cette porte,  
 Cachons nous bien tous trois.  
 
 
-### SCENE IV.                    
+### SCENE IV.
 Clidamant, Croctin, Lisette *Cachez*, Florant.
 
 
     FLORANT.
-            Nostre amoureux transy [115],  
+        Nostre amoureux transy [115],  
 Apprendra son devoir en le traittant ainsy,  
 Il sçaura ce que c'est que s'en prendre à son maistre,  
 Il fremira d'abord en me voyant paroistre,  
@@ -1621,7 +1621,7 @@ Qu'avez vous mon amy, vous paroissez faché.
 
     CROCTIN.
 Monsieur c'est mon tresor qui n'estoit pas caché,  
-Que l'on me vient de prendre, et qu'un filou m'emporte,               
+Que l'on me vient de prendre, et qu'un filou m'emporte,  
 Si je pouvois l'avoir j'irois avec main forte,  
 Le prendre et luy mettrois la main sur le collet.  
 
@@ -1629,7 +1629,7 @@ Le prendre et luy mettrois la main sur le collet.
 Vous a-t-il pris beaucoup.  
 
     CROCTIN.
-            Je suis si bon vallet,  
+                    Je suis si bon vallet,  
 Si fidelle si seur si zelé pour un Maistre,  
 Helas ! le coeur m'en creve ah que le monde est traistre.  
 
@@ -1638,30 +1638,30 @@ Mais si je m'en servois pour garder ma maison,
 Je ne ferois pas mal.  
 
     CROCTIN *bas.*
-            Et bon bon, nostre oison [118],  
+        Et bon bon, nostre oison [118],  
 Commance à s'amorcer ah ! s'il se pouvoit faire,  
 Que je vous pus servir.  
 
     FLORANT.
-            Il n'est pas necessaire,  
+                    Il n'est pas necessaire,  
 De tant complimenter avez vous respondant.  
 
     CROCTIN.
 Ouy Monsieur.  
 
     FLORANT.
-        Que fait-il.  
+            Que fait-il.  
 
     CROCTIN.
-                C'est Monsieur Fernidant [119],  
+        C'est Monsieur Fernidant [119],  
 Gentil-homme.  
 
     FLORANT.
-        Il suffit j'ay certaine egrillarde,                       
+        Il suffit j'ay certaine egrillarde,  
 Qu'il faudra bien garder.  
 
     CROCTIN.
-            Si c'est une gaillarde,  
+                    Si c'est une gaillarde,  
 J'en auray bien du soin ne craignez rien Monsieur,  
 Vous pouvez vous fier à vostre serviteur⁎.  
 
@@ -1677,22 +1677,22 @@ Monsieur ne craignez rien au temps que j'y seray.
 On voit certain Galand⁎,  
 
     CROCTIN.
-            Que je le previendray.  
+                    Que je le previendray.  
 Dite moy seulement comment il pourroit estre,  
 Est il grand.  
 
     FLORANT.
-        Entre deux.  
+            Entre deux.  
 
     CROCTIN. *bas.*
-                C'est peut estre mon Maistre.  
+                        C'est peut estre mon Maistre.  
 
     FLORANT.
 C'est un jeune blondin mais tout à fait bien fait,  
 En un mot c'est Fabrice.  
 
     CROCTIN. *bas.*
-            Ah voyla bien mon fait.                   
+        Ah voyla bien mon fait.  
 Monsieur si vous vouliez j'ay certain camarade,  
 Qui vous serviroit bien car souvent il en garde,  
 
@@ -1708,7 +1708,7 @@ Clidamant, et Croctin, cachez, Florant.
 
 
     FLORANT.
-                A bon Dieu.  
+                        A bon Dieu.  
 Je ne puis craindre rien, Juste Ciel quels delices,  
 Ah ! mon ame à present n'est plus dans les suplices  
 Je ne puis plus durer [121], que mon bonheur est grand,  
@@ -1717,44 +1717,44 @@ Heurtons chez mon voisin ah je vous tiens la belle,
 Hola⁎ Monsieur Fernant.  
 
 
-### SCENE VI                         
+### SCENE VI
 Clidamant, Croctin *cachez*, Florant, Fernant. *Dans sa Maison.*
 
 
     FERNANT.
-            Qui va là qui m'apelle.  
+                    Qui va là qui m'apelle.  
 
     FLORANT.
 Mon cher voisin c'est moy je veux vous dire un mot,  
 C'est Florant.  
 
     FERNANT.
-        Je m'en vais la peste⁎ soit du sot.  
+                Je m'en vais la peste⁎ soit du sot.  
 Que voulez vous voisin.  
 
     FLORANT
-            Je vous demande excuse.  
+                    Je vous demande excuse.  
 Je vous ay destourné.  
 
     FERNANT.
-            Nullement.  
+                Nullement.  
 
     FLORANT.
-                Car j'en use  
+                        Car j'en use  
 Un peu trop librement.  
 
     FERNANT.
-            Point du tout.  
+                Point du tout.  
 
     FLORANT.
-                    Escoutez.  
+                            Escoutez.  
 
     FERNANT.
 Et bien je vous entends.  
 
     FLORANT.
-            C'est bien fait vous doutez,  
-Que je viens de choisir deux garçons de courage,                   
+                    C'est bien fait vous doutez,  
+Que je viens de choisir deux garçons de courage,  
 Qui dedans ma maison feront nouvelle rage,  
 Ils se mettront en garde et de bonne façon,  
 Celuy qui m'a parlé parroist brave garçon.  
@@ -1763,16 +1763,16 @@ Celuy qui m'a parlé parroist brave garçon.
 Ont ils un Respondant.  
 
     FLORANT.
-            Ouy voisin.  
+                Ouy voisin.  
 
     FERNANT.
-                    Legitime.  
+                            Legitime.  
 
     FLORANT.
 C'est Monsieur Fernidant.  
 
     FERNANT.
-            Il est en bonne estime  
+                    Il est en bonne estime  
 Si vous suivez l'avis⁎ d'un certain Quantenas [122].  
 
     FLORANT.
@@ -1782,7 +1782,7 @@ Je le sçay, faut [123] luy mettre un fort bon cadenas.
 Ce seroit mon advis⁎.  
 
     FLORANT.
-            Il faut que je le face.  
+                    Il faut que je le face.  
 Venez avecques moy que je la cadenace [124].  
 
     FERNANT.
@@ -1794,7 +1794,7 @@ Ils sortent.
 
 
 
-### SCENE VII                        
+### SCENE VII
 Croctin, Clidamant
 
 
@@ -1808,11 +1808,11 @@ Croctin, Clidamant, Lisette, un Arlequin portant un habit dans sa main.
 
 
     LISETTE.
-                L'affaire est faite.  
+                        L'affaire est faite.  
 Ah Dieu ! qu'il est chagrain [125].  
 
     CROCTIN.
-                Il ne l'est pas pour peu.  
+                        Il ne l'est pas pour peu.  
 Donnant de l'argent à l'Arlequin.
 
 Voila pour vostre habit: allons Monsieur beau jeu.  
@@ -1820,7 +1820,7 @@ Clidamant et Croctin se retirent, et l'Arlequin finit l'acte en dansant.
 < Fin du Second Acte. >
 
 
-## ACTE III.                     
+## ACTE III.
 
 
 ### SCENE I.
@@ -1832,7 +1832,7 @@ Suis je bien à ton gré cher Croctin cette taille,
 Que dis tu de ce port [126],  
 
     CROCTIN.
-            Je veux devenir caille  
+                    Je veux devenir caille  
 Si j'ay veu de ma vie homme mieux fagoté,  
 Ma foy vous ressemblez à ces pendus d'esté [127],  
 Si ce n'est qu'au costé vous portez une espée,  
@@ -1841,7 +1841,7 @@ Si ce n'est qu'au costé vous portez une espée,
 Que te sert de Railler⁎.  
 
     CROCTIN.
-            Ma crainte est dissipée.  
+                    Ma crainte est dissipée.  
 Monsieur il faut du moins songer à sa leçon,  
 Resouvenez vous bien du pays d'Alençon,  
 Tenez le quant à moy devant ce bourru d'homme  
@@ -1849,20 +1849,20 @@ Parlez luy gravement je crains qu'il ne m'assomme,
 Si vous parlez à luy trop franchement.  
 
     CLIDAMANT.
-                    Pourquoy.  
+                            Pourquoy.  
 Luy parlant franchement il ne peut rien sur toy  
 Outre qu'il ne sçay pas que c'est le stratageme.  
 Il ne peut pas deviner.  
 
     CROCTIN.
-            Isabelle elle mesme                      
+        Isabelle elle mesme  
 Et Lisette pourroient rompre nostre projet.  
 
     CLIDAMANT.
 Pourquoy le feroit elle.  
 
     CROCTIN.
-            Elle en a du sujet.  
+                    Elle en a du sujet.  
 Peut estre que sçait on comme il en faut descoudre,  
 Elle ne s'y pourra peut estre pas resoudre,  
 
@@ -1870,7 +1870,7 @@ Elle ne s'y pourra peut estre pas resoudre,
 Je connois Isabelle elle est constante.  
 
     CROCTIN.
-                    Point.  
+                            Point.  
 Laissons-là les leçons qui concernent ce point⁎,  
 Car j'en sçay plus que vous, et si [128] je puis vous dire,  
 Que je suis amoureux, qu'en secret je soupire.  
@@ -1879,7 +1879,7 @@ Que je suis amoureux, qu'en secret je soupire.
 Tu serois amoureux tu te mocque,  
 
     CROCTIN.
-                Pourquoy.  
+                        Pourquoy.  
 Si vous estes amant⁎ ne le suis je pas moy,  
 Croyez vous que l'amour ne me rompt pas la teste,  
 Quoy que je sois valet, peste⁎ soit de la beste,  
@@ -1891,7 +1891,7 @@ Lors que tu me disois ce que tu viens de dire,
 J'ay creu que tu raillois⁎.  
 
     CROCTIN.
-            Point du tout je souspire.                   
+        Point du tout je souspire.  
 N'en doutez plus et c'est pour Lisette aussy bien,  
 Elle a beaucoup de fonds⁎ du moins si je n'ay rien,  
 Je sçay bien les moyens sur quoy je me repose,  
@@ -1908,7 +1908,7 @@ Clidamant, Croctin, Florant.
 
 
     FLORANT.
-            Te voila de retour,  
+                    Te voila de retour,  
 
     CROCTIN.
 Voila mon Compagnon je la tiendray de court [130],  
@@ -1917,12 +1917,12 @@ Voila mon Compagnon je la tiendray de court [130],
 Comment vous nomme t'on.  
 
     CROCTIN.
-                Il s'appelle Candasmes [131].  
+        Il s'appelle Candasmes [131].  
 Monsieur ne craignez rien il garde bien les femmes,  
 Il les serre de pres pour moy je suis Croctin.  
 
     FLORANT.
-Il faudra bien garder le soir et le matin,                            
+Il faudra bien garder le soir et le matin,  
 Que personne ne vienne et sur tout bonne veuë.  
 
     CROCTIN.
@@ -1933,7 +1933,7 @@ Pour garder cette fille il ne faudra que moy,
 J'en responds corps pour corps [133].  
 
     FLORANT.
-                Et que feras tu toy.  
+                        Et que feras tu toy.  
 
     CROCTIN.
 Qui moy j'empescheray que personne ne sorte,  
@@ -1942,7 +1942,7 @@ Ce sera mon office [134] et sans laisser entrer,
 Qui que ce soit ...  
 
     FLORANT.
-        Entréz il faut tout esperer  
+                Entréz il faut tout esperer  
 
 
 ### SCENE III.
@@ -1953,12 +1953,12 @@ Croctin *écoutant à la porte de* Florant, Fernant.
 Il faut ...  
 
     FERNANT.
-Esprouvons les voisins s'ils sont fidelles,  
+        Esprouvons les voisins s'ils sont fidelles,  
 Et s'ils ne seroient point de fausses Sentinelles,  
 Allons nous deguiser le voulez vous voisin.  
 
     FLORANT.
-J'y consens volontiers, achevons ce dessein⁎.                      
+J'y consens volontiers, achevons ce dessein⁎.  
 
 
 ### SCENE IV
@@ -1992,10 +1992,10 @@ Ne craignez rien Monsieur je vous soutiendray bien.
 Ouy ! mais pour moy Monsieur qui sera mon soutien ?  
 
     CLIDAMANT.
-Va ne crains rien Croctin.                                
+Va ne crains rien Croctin.  
 
     ISABELLE.
-            Reçois ces dix pistoles.  
+                    Reçois ces dix pistoles.  
 
     CROCTIN.
 Ah l'excelent soustien ! agreables paroles !  
@@ -2006,23 +2006,23 @@ Vous sçavez que c'est vous qui faites mon soucy⁎.
 Que je vous aime enfin.  
 
     CROCTIN.
-            Et qui vous fait paroistre,  
+                    Et qui vous fait paroistre,  
 Qu'il est plus amoureux que n'est vostre vieux traistre.  
 
     LISETTE.
 N'y consentez vous pas.  
 
     ISABELLE.
-            Ah je tremble.  
+                Ah je tremble.  
 
     LISETTE.
-                    Pourquoy.  
+                            Pourquoy.  
 
     ISABELLE.
 S'il nous alloit trouver.  
 
     LISETTE.
-            Vrayement voire ma foy.  
+                    Vrayement voire ma foy.  
 Il songe bien à nous, n'avez vous pas des gardes,  
 Mocquez vous de cela prenez viste vos hardes.  
 
@@ -2032,10 +2032,10 @@ Je vous l'avois bien dit qu'elle seroit mon faict⁎,
 M'aime tu bien.  
 
     LISETTE. 
-        Ouy da⁎.                              
+    Ouy da⁎.  
 
     CROCTIN.
-            Bon chacun sa chacune,  
+                    Bon chacun sa chacune,  
 Tu n'auras point du tout avec moy de rancune,  
 Tu verras que quand j'aime il n'en sort pas pour peu,  
 Puis nous ferons sortir de l'eau de nostre feu⁎.  
@@ -2052,7 +2052,7 @@ C'est pour faire la guerre à tes friands attrais.
 J'y consens Clidamant vous m'aimez.  
 
     CLIDAMANT.
-                    Je vous aime,  
+                            Je vous aime,  
 L'amour m'en est tesmoin mon ardeur⁎ est extreme.  
 
     CROCTIN.
@@ -2060,7 +2060,7 @@ Mais nos vieux Roquentins [137] s'en vont bien-tost venir,
 Laissez moy je sçauray bien les entretenir,  
 Et leur monstrer combien la gloire nous est chere,  
 Je voy desja Florant vestu comme un compere [138],  
-Entrez viste je vais leur parler comme il faut,                       
+Entrez viste je vais leur parler comme il faut,  
 Et leur faire gagner sans discourir le haut,  
 Nous Monsieur s'il vous plaist ayons bonne cervelle,  
 Car il en faut avoir faisant la Sentinelle,  
@@ -2079,22 +2079,22 @@ Madame est elle icy ? cher amy dis-le nous,
 Est-il icy Florant ?  
 
     CROCTIN.
-        Non que luy voulez vous.  
+                Non que luy voulez vous.  
 
     FLORANT.
 Estant absent mon cher je voudrois voir la femme,  
 Qu'il pretend espouser.  
 
     CROCTIN.
-            Demandez vous Madame,  
+                    Demandez vous Madame,  
 Sortez d'icy Monsieur je vous estropieray,  
 Ou bien sy vous montez vous sautrés le degré.  
 
     FERNANT.
-Nous sommes des amis.                               
+Nous sommes des amis.  
 
     FLORANT.
-            Eh fais nous cette grace⁎.  
+                    Eh fais nous cette grace⁎.  
 
     CROCTIN.
 Pour cette grace⁎ non, cette grace⁎ est trop grasse.  
@@ -2106,7 +2106,7 @@ Ils raisonnent je croy il faut leur donner cent coups.
 Retirons nous voisin,  
 
     CROCTIN.
-            Retirez vous filoux.  
+                    Retirez vous filoux.  
 Ils les font sortir à coups de baton.
 
 
@@ -2120,15 +2120,15 @@ Nous sommes des frapeurs les plus hardis de France,
 Ils sont bien estonnez⁎.  
 
     CLIDAMANT.
-            Sans doute.  
+                Sans doute.  
 
     CROCTIN.
-                    Je le pense,  
+                            Je le pense,  
 Ils ont sujet de l'estre et plus que nous je croy,  
 Monsieur retirons nous ils viennent sur ma foy.  
 
 
-### SCENE VII                    
+### SCENE VII
 Florant, Fernant
 
 
@@ -2148,7 +2148,7 @@ J'en auray du plaisir Croctin la garde bien,
 Allons depeschons nous.  
 
     FERNANT.
-            Que j'ay mal aux espaulles.  
+                    Que j'ay mal aux espaulles.  
 
     FLORANT.
 Ces coquins⁎ ont usé sur nous plus de vingt gaulles [140].  
@@ -2158,7 +2158,7 @@ C'estoit un bon baston j'en ay os rompus.
 
     FLORANT.
 Allons changer d'habits nous sommes bien repus [141],  
-Puis apres nous irons sans prendre un plus long terme,                   
+Puis apres nous irons sans prendre un plus long terme,  
 Voir ce qu'on dit de bon dans ma petite ferme  
 
     FERNANT.
@@ -2183,17 +2183,17 @@ Pour toy tu m'es acquise et je m'en souviens bien.
 Je suis à toy Croctin.  
 
     CROCTIN.
-            Touche tu ne tiens rien,  
+                    Touche tu ne tiens rien,  
 Fais les viste venir.  
 
     LISETTE.
-        Ils viennent que je pense.  
+                Ils viennent que je pense.  
 
     CROCTIN.
 Bon, je les apperçois nostre affaire s'avance,  
 
 
-### SCENE IX                         
+### SCENE IX
 Clidamant, Isabelle, Croctin, Lisette.
 
 
@@ -2206,23 +2206,23 @@ N'est fait que pour vous seule et je vous dis assez,
 L'amour m'a commandé, Madame.  
 
     LISETTE.
-                Obeïssez,  
+                        Obeïssez,  
 A quoy sert entre nous un si plaisant langage,  
 Si Monsieur vous veut bien avoir en mariage.  
 Et que vous l'aimiez bien qu'importe t'il ?  
 
     CROCTIN.
-                    Vrayement,  
+                            Vrayement,  
 Pourquoy nous contez vous tout ce haut allemant [142],  
 Il n'est rien plus certain que pour Mademoiselle,  
 Je suis fort asseuré qu'elle sera fidelle,  
 Mon Maistre asseurement luy tiendra bien sa foy.  
 
     ISABELLE.  
-Je n'y resiste plus ..,                               
+Je n'y resiste plus ..,  
 
     LISETTE
-        Je m'engage bien moy.  
+                Je m'engage bien moy.  
 Isabelle donnant un bracelet de ses cheveux à Clidamant [143].
 
 
@@ -2231,7 +2231,7 @@ Pour marquer mon amour prenez cecy pour gage,
 Je m'abandonne à vous.  
 
     CLIDAMANT.
-            Mon cœur est en ostage,  
+                    Mon cœur est en ostage,  
 Allons Madame allons qu'il y soit à jamais,  
 Nous trouverons moyen de faire vostre paix.  
 
@@ -2254,29 +2254,29 @@ Florant, Fernant
 
     FLORANT.
 Nos gens ont fort bien fait je ne le sçaurois taire,  
-Ils nous ont bien batu.                           
+Ils nous ont bien batu.  
 
     FERNANT.
-            Je n'y sçaurois que faire.  
+                    Je n'y sçaurois que faire.  
 Mais de peur d'estre pris en ces lieux pour Galands.  
 Entrons dans la maison.  
 
     FLORANT.
-            Personne n'est dedans ...  
+                    Personne n'est dedans ...  
 Helas ! je n'en puis plus, ma cervelle est troublée,  
 Mon esprit ne va plus, j'ay la teste feeslée⁎,  
 Mon cœur vient de sortir on vient de le voler,  
 Ah ! voisin je suis mort.  
 
     FERNANT.
-            Il faut vous consoler.  
+                    Il faut vous consoler.  
 
     FLORANT.
 Je crains que ce ne soit le Marquis Ridicule,  
 Qu'en dites vous.  
 
     FERNANT.
-        C'est luy, quelle dure pilule  
+                C'est luy, quelle dure pilule  
 Il faut vous consoler doucement mon amy,  
 Et ne pretendre pas l'avaler à demy,  
 Il faut vous consoler ils reviendront peut estre.  
@@ -2285,7 +2285,7 @@ Il faut vous consoler ils reviendront peut estre.
 Ils ne reviendront pas, Ah ! chien de portier traitre !  
 
 
-### SCENE XI.                     
+### SCENE XI.
 Carlos, Florant, Fernant.
 
 
@@ -2294,7 +2294,7 @@ Monsieur je viens icy pour Monsieur Clidamant,
 Vous porter ce billet⁎.  
 
     FERNANT.
-            Voyez son compliment.  
+                    Voyez son compliment.  
 
     FLORANT.< LETTRE >
 MONSIEUR.
@@ -2305,25 +2305,25 @@ Clidamant.
 Il ne l'aura jamais.  
 
     CARLOS.
-            Son amour est extreme.  
+                    Son amour est extreme.  
 
     FERNANT *à Florant*. 
 Vous ne pouvez l'avoir donnez luy.  
 
     FLORANT *apres avoir un peu resvé⁎.*
-                    Bien qu'il ayme,  
-Faites les moy venir que je les voye un peu.                       
+                            Bien qu'il ayme,  
+Faites les moy venir que je les voye un peu.  
 Carlos sort.
 
 Tenez mon cher voisin, j'ay perdu tout mon feu⁎,  
 Mon amour s'est passé.  
 
     FERNANT.
-            Voisin j'en suis bien aise⁎.  
+                    Voisin j'en suis bien aise⁎.  
 Vous estes tout changé.  
 
     FLORANT.
-            Je n'estois rien que braise  
+                    Je n'estois rien que braise  
 Mais je les aperçois qu'ils viennent droit à nous.  
 
 
@@ -2335,7 +2335,7 @@ Clidamant, Isabelle, Florant, Fernant, Croctin, Lisette.
 Je me jette à vos pieds.  
 
     FLORANT.
-            Levez vous levez vous.  
+                    Levez vous levez vous.  
 
     CLIDAMANT.
 Monsieur puis-jé esperer cette beauté que j'ayme.  
@@ -2344,31 +2344,31 @@ Monsieur puis-jé esperer cette beauté que j'ayme.
 Ouy ouy.  
 
     CLIDAMANT.
-S'il est ainsi mon bon-heur est extreme.  
+        S'il est ainsi mon bon-heur est extreme.  
 
     FLORANT.
-Elle est à vous Monsieur.                               
+Elle est à vous Monsieur.  
 
     CLIDAMANT.
-            Ah que je suis heureux !  
+                    Ah que je suis heureux !  
 Madame.  
 
     FLORANT.
-C'est assez, aimez-vous bien tous deux.  
+        C'est assez, aimez-vous bien tous deux.  
 Il faut nous divertir.  
 
     CLIDAMANT.
-            Ah Monsieur quelles graces⁎ !  
+                    Ah Monsieur quelles graces⁎ !  
 
     FLORANT.
 Appelle nos danseurs.  
 
     CROCTIN.
-            Hola⁎ Clincantes faces.  
+                    Hola⁎ Clincantes faces.  
 Dansez.  
 Pendant que les danseurs venus en habit de Balet, dansent, Florant dit à Clidamant pour empescher qu'il ne parle à Isabelle devant luy.
 
-Ils dansent bien considerez leurs pas.  
+        Ils dansent bien considerez leurs pas.  
 
     CROCTIN.
 Laissez les faire allez ils n'y manqueront pas.  
@@ -2379,15 +2379,15 @@ Apres que le Balet est fini chacun se retire et comme Croctin veut se retirer au
 Tiendras-tu ta promesse.  
 
     CROCTIN.
-            Ouy si tu tient la tienne.  
+                    Ouy si tu tient la tienne.  
 Deusse-je estre cocu je veux tenir la mienne.  
 Touche la.  
 
     LISETTE.
-    Je le veux.                                   
+    Je le veux.  
 
     CROCTIN.
-            Allons nous marier  
+                    Allons nous marier  
 Et ne songeons apres qu'à bien multiplier.  < FIN. >
 
 

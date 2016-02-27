@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_amants-magnifiques *id_a *date_1670 *creator_moliere
+**** *book_ *id_a *date_1670 *creator_moliere
 
 Premier intermède
 
@@ -78,7 +78,7 @@ Mais le Neptune est constant.
 Voguez sur cette Mer d'un zèle inébranlable,
 C'est le moyen d'avoir Neptune favorable.
 
-**** *book_moliere_amants-magnifiques *id_I01 *act_I *date_1670 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1670 *creator_moliere
 
 -*who_clitidas
 Il est attaché à ses pensées ?
@@ -222,7 +222,7 @@ J'aimerais mieux mourir que de pouvoir être accusé par elle de la moindre tém
 -*who_clitidas
 Taisons-nous, voici tout le monde.
 
-**** *book_moliere_amants-magnifiques *id_I02 *act_I *date_1670 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1670 *creator_moliere
 
 -*who_aristione
 Prince, je ne puis me lasser de le dire, il n'est point de spectacle au monde qui puisse le disputer en magnificence à celui que vous venez de nous donner.
@@ -378,7 +378,7 @@ Puisque vous le voulez, Madame, il vous faut obéir, mais je vous jure que dans 
 C'est trop de modestie, et vous vous acquitterez toujours bien de toutes les choses dont on vous chargera.
 Découvrez doucement les sentiments d'Ériphile, et faites-la ressouvenir qu'il faut se rendre de bonne heure dans le Bois de Diane.
 
-**** *book_moliere_amants-magnifiques *id_I03 *act_I *date_1670 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1670 *creator_moliere
 
 -*who_iphicrate
 Vous pouvez croire que je prends part à l'estime que la Princesse vous témoigne.
@@ -407,7 +407,7 @@ Je vous laisse agir comme il vous plaira.
 -*who_timocles
 Vous en userez comme vous voudrez.
 
-**** *book_moliere_amants-magnifiques *id_I04 *act_I *date_1670 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1670 *creator_moliere
 
 -*who_iphicrate
 Clitidas se ressouvient bien qu'il est de mes amis, je lui recommande toujours de prendre mes intérêts auprès de sa Maîtresse, contre ceux de mon Rival.
@@ -431,7 +431,7 @@ Il n'y a rien que je ne fasse pour Clitidas.
 Belles paroles de tous côtés.
 Voici la Princesse ; prenons mon temps pour l'aborder.
 
-**** *book_moliere_amants-magnifiques *id_I05 *act_I *date_1670 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1670 *creator_moliere
 
 -*who_cleonice
 On trouvera étrange, Madame, que vous vous soyez ainsi écartée de tout le monde.
@@ -467,7 +467,7 @@ Ce ne sera ici, Madame, qu'une danse ordinaire, une autre fois...
 -*who_eriphile
 Point de préambule, Cléonice, qu'ils dansent.
 
-**** *book_moliere_amants-magnifiques *id_II01 *act_II *date_1670 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1670 *creator_moliere
 
 -*who_eriphile
 Voilà qui est admirable !
@@ -485,7 +485,7 @@ Je vous avertis, Clitidas, que la Princesse veut être seule.
 -*who_clitidas
 Laissez-moi faire, je suis homme qui sais ma Cour.
 
-**** *book_moliere_amants-magnifiques *id_II02 *act_II *date_1670 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1670 *creator_moliere
 
 -*who_clitidas
 La, la, la, la, ah !
@@ -622,7 +622,7 @@ Le voici ; souvenez-vous au moins si vous êtes sage de la défense que je vous
 -*who_clitidas
 Cela est fait, Madame, il ne faut pas être Courtisan indiscret.
 
-**** *book_moliere_amants-magnifiques *id_II03 *act_II *date_1670 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1670 *creator_moliere
 
 -*who_sostrate
 J'ai une excuse, Madame, pour oser interrompre votre solitude, et j'ai reçu de la Princesse votre Mère une commission qui autorise la hardiesse que je prends maintenant.
@@ -697,7 +697,7 @@ Tous les Princes du monde seront trop peu de chose pour aspirer à vous ; les D
 Cela est obligeant, et vous êtes de mes amis.
 Mais je veux que vous me disiez pour qui des deux vous vous sentez plus d'inclination, quel est celui que vous mettez le plus au rang de vos amis.
 
-**** *book_moliere_amants-magnifiques *id_II04 *act_II *date_1670 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1670 *creator_moliere
 
 -*who_chorebe
 Madame, voilà la Princesse qui vient vous prendre ici, pour aller au Bois de Diane.
@@ -705,7 +705,7 @@ Madame, voilà la Princesse qui vient vous prendre ici, pour aller au Bois de Di
 -*who_sostrate
 Hélas ! petit garçon, que tu es venu à propos.
 
-**** *book_moliere_amants-magnifiques *id_II05 *act_II *date_1670 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1670 *creator_moliere
 
 -*who_aristione
 On vous a demandée, ma Fille, et il y a des gens que votre absence chagrine fort.
@@ -717,7 +717,7 @@ Je pense, Madame, qu'on m'a demandée par compliment, et on ne s'inquiète pas t
 On enchaîne pour nous ici tant de divertissements les uns aux autres, que toutes nos heures sont retenues, et nous n'avons aucun moment à perdre, si nous voulons les goûter tous.
 Entrons vite dans le Bois, et voyons ce qui nous y attend ; ce lieu est le plus beau du monde, prenons vite nos places.
 
-**** *book_moliere_amants-magnifiques *id_IIb01 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb01 *act_IIb *date_1670 *creator_moliere
 
 -*who_nymphe
 Venez, grande Princesse, avec tous vos appas,
@@ -727,7 +727,7 @@ N'y cherchez point l'éclat des Fêtes de la Cour,
 On ne sent ici que l'amour,
 Ce n'est que d'amour qu'on y chante.
 
-**** *book_moliere_amants-magnifiques *id_IIb02 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb02 *act_IIb *date_1670 *creator_moliere
 
 -*who_tircis
 Vous chantez sous ces feuillages,
@@ -738,7 +738,7 @@ Les échos de ces bocages :
 Hélas ! petits oiseaux, hélas !
 Si vous aviez mes maux vous ne chanteriez pas.
 
-**** *book_moliere_amants-magnifiques *id_IIb03 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb03 *act_IIb *date_1670 *creator_moliere
 
 -*who_lycaste
 Hé quoi toujours languissant, sombre et triste ?
@@ -819,7 +819,7 @@ Gardons d'être vu d'elle,
 L'Ingrate, hélas !
 N'y viendrait pas.
 
-**** *book_moliere_amants-magnifiques *id_IIb04 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb04 *act_IIb *date_1670 *creator_moliere
 
 -*who_caliste
 
@@ -854,7 +854,7 @@ Donnons-nous à lui toute entière,
 Nous n'avons point de Loi sévère
 Qui défende à nos sens d'en goûter la douceur.
 
-**** *book_moliere_amants-magnifiques *id_IIb05 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb05 *act_IIb *date_1670 *creator_moliere
 
 -*who_tircis
 Vers ma belle ennemie
@@ -927,7 +927,7 @@ Digne prix de ta foi.
 -*who_menandre
 Ô sort digne d'envie !
 
-**** *book_moliere_amants-magnifiques *id_IIb06 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb06 *act_IIb *date_1670 *creator_moliere
 
 -*who_satyre1
 Quoi tu me fuis, ingrate, et je te vois ici
@@ -963,7 +963,7 @@ Mêlez vos pas à nos sons,
 Et tracez sur les herbettes
 L'image de nos chansons.
 
-**** *book_moliere_amants-magnifiques *id_IIb07 *act_IIb *date_1670 *creator_moliere
+**** *book_ *id_IIb07 *act_IIb *date_1670 *creator_moliere
 
 -*who_philinte
 Quand je plaisais à tes yeux
@@ -1038,7 +1038,7 @@ De tous nos jours fait d'éternels printemps :
 Jouissons, jouissons des plaisirs innocents
 Dont les feux de l'Amour savent charmer nos sens.
 
-**** *book_moliere_amants-magnifiques *id_III01 *act_III *date_1670 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1670 *creator_moliere
 
 -*who_aristione
 Les mêmes paroles toujours se présentent à dire.
@@ -1250,7 +1250,7 @@ Quittons ce discours, et qu'on nous laisse un moment.
 Dressons notre promenade, ma Fille, vers cette belle grotte, où j'ai promis d'aller.
 Des galanteries à chaque pas.
 
-**** *book_moliere_amants-magnifiques *id_IV01 *act_IV *date_1670 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1670 *creator_moliere
 
 -*who_aristione
 De qui que cela soit, on ne peut rien de plus galant et de mieux entendu.
@@ -1278,7 +1278,7 @@ Vous avez des bontés pour moi, Madame, dont je ne puis assez me louer, mais je 
 Jusqu'ici je vous ai laissée assez maîtresse de tout, et l'impatience des Princes vos Amants… Mais quel bruit est-ce que j'entends ?
 Ah ! ma Fille, quel spectacle s'offre à nos yeux, quelque Divinité descend ici, et c'est la Déesse Vénus qui semble nous vouloir parler.
 
-**** *book_moliere_amants-magnifiques *id_IV02 *act_IV *date_1670 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1670 *creator_moliere
 
 -*who_venus
 Princesse dans tes soins brille un zèle exemplaire,
@@ -1297,7 +1297,7 @@ Ma Fille, les Dieux imposent silence à tous nos raisonnements.
 Après cela, nous n'avons plus rien à faire, qu'à recevoir ce qu'ils s'apprêtent à nous donner, et vous venez d'entendre distinctement leur volonté.
 Allons dans le premier Temple les assurer de notre obéissance, et leur rendre grâce de leurs bontés.
 
-**** *book_moliere_amants-magnifiques *id_IV03 *act_IV *date_1670 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1670 *creator_moliere
 
 -*who_cleon
 Voilà la Princesse qui s'en va, ne voulez-vous pas lui parler ?
@@ -1320,7 +1320,7 @@ Ce Prince est averti par moi, et sur la foi de ma prédiction il doit se tenir d
 Mais sortons de cette Grotte, je te dirai en marchant toutes les choses qu'il faut bien observer.
 Voilà la Princesse Ériphile, évitons sa rencontre.
 
-**** *book_moliere_amants-magnifiques *id_IV04 *act_IV *date_1670 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1670 *creator_moliere
 
 -*who_eriphile
 Hélas ! quelle est ma destinée, et qu'ai-je fait aux Dieux pour mériter les soins qu'ils veulent prendre de moi ?
@@ -1365,7 +1365,7 @@ Madame, si votre repos...
 -*who_eriphile
 Ôtez-vous, vous dis-je, Sostrate, épargnez ma faiblesse, et ne m'exposez point à plus que je n'ai résolu.
 
-**** *book_moliere_amants-magnifiques *id_IV05 *act_IV *date_1670 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1670 *creator_moliere
 
 -*who_cleonice
 Madame, je vous vois l'esprit tout chagrin, vous plaît-il que vos danseurs, qui expriment si bien toutes les passions, vous donnent maintenant quelque épreuve de leur adresse ?
@@ -1373,7 +1373,7 @@ Madame, je vous vois l'esprit tout chagrin, vous plaît-il que vos danseurs, qui
 -*who_eriphile
 Oui, Cléonice, qu'ils fassent tout ce qu'ils voudront, pourvu qu'ils me laissent à mes pensées.
 
-**** *book_moliere_amants-magnifiques *id_V01 *act_V *date_1670 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1670 *creator_moliere
 
 -*who_clitidas
 De quel côté porter mes pas ? où m'aviserai-je d'aller, et en quel lieu puis-je croire que je trouverai maintenant la Princesse Ériphile ?
@@ -1460,7 +1460,7 @@ Clitidas, pouvais-tu m'en donner une qui me pût être plus agréable ?
 -*who_clitidas
 Voilà qu'on vient vous trouver.
 
-**** *book_moliere_amants-magnifiques *id_V02 *act_V *date_1670 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1670 *creator_moliere
 
 -*who_aristione
 Je vois, ma Fille, que vous savez déjà tout ce que nous pourrions vous dire.
@@ -1473,13 +1473,13 @@ Et de la main des Dieux, et de la vôtre, Madame, je ne puis rien recevoir qui n
 -*who_sostrate
 Ciel ! n'est-ce point ici quelque songe, tout plein de gloire, dont les Dieux me veuillent flatter, et quelque réveil malheureux ne me replongera-t-il point dans la bassesse de ma fortune ?
 
-**** *book_moliere_amants-magnifiques *id_V03 *act_V *date_1670 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1670 *creator_moliere
 
 -*who_cleonice
 Madame, je viens vous dire qu'Anaxarque a jusqu'ici abusé, l'un et l'autre Prince, par l'espérance de ce choix qu'ils poursuivent depuis longtemps, et qu'au bruit qui s'est répandu de votre aventure, ils ont fait éclater tous deux leur ressentiment contre lui, jusque-là, que de paroles en paroles, les choses se sont échauffées, et il en a reçu quelques blessures dont on ne sait pas bien ce qui arrivera.
 Mais les voici.
 
-**** *book_moliere_amants-magnifiques *id_V04 *act_V *date_1670 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1670 *creator_moliere
 
 -*who_aristione
 Princes, vous agissez tous deux avec une violence bien grande, et si Anaxarque a pu vous offenser, j'étais pour vous en faire justice moi-même.
@@ -1512,7 +1512,7 @@ Peut-être, Madame, qu'on ne goûtera pas longtemps la joie du mépris que l'on 
 Je pardonne toutes ces menaces, aux chagrins d'un amour qui se croit offensé, et nous n'en verrons pas avec moins de tranquillité la Fête des jeux Pythiens.
 Allons-y de ce pas, et couronnons par ce pompeux spectacle cette merveilleuse journée.
 
-**** *book_moliere_amants-magnifiques *id_Vb *date_1670 *creator_moliere
+**** *book_ *id_Vb *date_1670 *creator_moliere
 
 Sixième intermède qui est la solennité des jeux Pythiens.
 

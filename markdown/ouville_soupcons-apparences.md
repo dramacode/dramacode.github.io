@@ -1,5 +1,5 @@
 ---
-identifier: ouville_soupçons  
+identifier: ouville_soupcons-apparences  
 creator: Ouville, Antoine d'  
 date: 1650  
 title: Les Soupçons sur les apparences. Héroïco-comédie  
@@ -975,7 +975,7 @@ L'inflexible beauté, qui consent⁎ que je meure ;
 J'apperçoy son logis.  
 
     SYLVAIN.
-Appercevez aussi  
+        Appercevez aussi  
 Que de vostre tourment elle a peu de soucy.  
 Depuis cinq ou six mois que vous brûlez pour elle,  
 Ne vous est elle pas également cruelle ?  
@@ -1004,10 +1004,10 @@ Prendre l'occasion que quelqu'un entre ou sorte.
 Esteind donc le flambeau.  
 
     SYLVAIN.
-Cela vaut fait [183].  
+    Cela vaut fait [183].  
 
     ALCIPE.
-Allons,  
+        Allons,  
 Mais ciel qu'heureusement j'entens des violons !  
 Ils ne sont au plus loin qu'en la place prochaine :  
 Si tu m'aimes Sylvain, cours viste et les ameine :  
@@ -1054,7 +1054,7 @@ ASTRÉE, ALCIPE, SYLVAIN.
 N'est-ce pas vous Alcipe ?  
 
     ALCIPE.
-Oüy, Madame, c'est moy,  
+        Oüy, Madame, c'est moy,  
 Avec tout le respect et l'amour que je doy.  
 
     ASTRÉE.
@@ -1083,7 +1083,7 @@ Mais interpretez bien mes dernieres parolles.
 Qu'en dites-vous, Monsieur ?  
 
     ALCIPE.
-Menace ni mépris,  
+        Menace ni mépris,  
 Ne me peut destourner du chemin que j'ay pris,  
 Deussè-je [196] avec l'honneur y perdre la lumiere [197],  
 Je veux aller au bout, et franchir la carriere [198].  
@@ -1104,7 +1104,7 @@ Que je m'en tenois prés, afin de la garder [201] ;
 Que je ne la priois…  
 
     SYLVAIN.
-Monsieur, quelqu'un s'avance.  
+        Monsieur, quelqu'un s'avance.  
 
     ALCIPE.
 Tirons nous à l'écart, et gardons le silence.  
@@ -1142,19 +1142,19 @@ Traitte-t'on de cét air les femmes de ma sorte ?
 Retirez-vous, ou bien.  
 
     PICARD *bas.*
-Cette male-façon  
+        Cette male-façon  
 Fay naistre en mon esprit je ne sçay quel soupçon ;  
 Mais desabusons-la.  
 
     ASTRÉE.
-Quelle audace est la vostre ?  
+        Quelle audace est la vostre ?  
 
     PICARD.
 Madame, appaisez-vous, vous prenez l'un pour l'autre,  
 Je suis valet d'Orphise.  
 
     ASTRÉE.
-Ah ! bon Dieu que j'ay tort !  
+        Ah ! bon Dieu que j'ay tort !  
 Pourquoy viens-tu si tard, et heurtes⁎-tu si fort ?  
 
     PICARD.
@@ -1171,7 +1171,7 @@ Je ne vous le puis dire, il ne m'est pas connu.
 Attends moy, je m'en vay.  
 
     SYLVAIN* à ALCIPE.*
-Vostre esprit quand j'y pense,  
+        Vostre esprit quand j'y pense,  
 Establit un soupçon dessus⁎ peu d'apparence.  
 
     ALCIPE.
@@ -1224,10 +1224,10 @@ Contenter à la fois ma haine et mon amour.
 Monsieur, encor un coup.  
 
     ALCIPE.
-Tay toy.  
+    Tay toy.  
 
     SYLVAIN.
-Pour vous je tremble.  
+        Pour vous je tremble.  
 
     ALCIPE.
 Retirons nous d'icy, quelqu'un vient, ce me semble.  
@@ -1266,7 +1266,7 @@ Il ne faut que heurter⁎, voicy nostre maison.
 Adieu.  
 
     LEANDRE.
-De tels Adieux ne sont pas de saison,  
+        De tels Adieux ne sont pas de saison,  
 Vivons avec franchise⁎, et méprisons la mode.  
 
     FILEMON.
@@ -1350,7 +1350,7 @@ Et je l'apperçoy trop dans cette nuit obscure.
 Heurtez⁎ encor un coup.  
 
     LEANDRE. 
-Je le feray sans fruit.  
+        Je le feray sans fruit.  
 (Il heurte.)
 
 
@@ -1401,10 +1401,10 @@ Mets la clef à la porte, Hyppolite, et te haste.
 Arrestez.  
 
     ASTRÉE.
-Pour Alcipe.  
+    Pour Alcipe.  
 
     ALCIPE.
-Oüy, pour Alcipe, ingratte.  
+        Oüy, pour Alcipe, ingratte.  
 La force m'obtiendra ce qu'en vain les soûpirs  
 Ont tâché d'obtenir à mes ardens desirs.  
 
@@ -1420,14 +1420,14 @@ De tes lâches efforts⁎, le chastiment soudain.
 O Ciel, je suis blessé !  
 
     FILEMON.
-C'est encor mon envie,  
+        C'est encor mon envie,  
 Que tu sois sans parole, et sans force, et sans vie.  
 
     SYLVAIN.
 Fuyons, c'est le plus seur.  
 
     FILEMON.
-Fuyez, lâches, fuyez,  
+        Fuyez, lâches, fuyez,  
 Vous faites des affronts, mais vous les essuyez. [216]  
 Heureux en ce combat autant qu'on le peut estre [217],  
 J'ay vangé vostre affront, et desarmé ce traistre.  
@@ -1442,10 +1442,10 @@ Ceux qui le sçavent bien, me nomment Filemon.
 Lyonnois ?  
 
     FILEMON.
-Lyonnois.  
+    Lyonnois.  
 
     ASTRÉE.
-Grand amy de Leandre ?  
+        Grand amy de Leandre ?  
 
     FILEMON.
 Nous venons d'arriver, et je suis à l'attendre.  
@@ -1481,7 +1481,7 @@ LEANDRE, FILEMON.
 Je ne l'ay pas trouvée.  
 
     FILEMON.
-Elle est aussi venuë [219].  
+        Elle est aussi venuë [219].  
 
     LEANDRE.
 Par ce chemin, sans doute, et moi par cette ruë :  
@@ -1492,13 +1492,13 @@ Que ce n'estoit qu'un mal aux femmes ordinaire.
 Entrons sans compliment⁎.  
 
     FILEMON.
-Je n'en sçay faire aucun.  
+        Je n'en sçay faire aucun.  
 
     LEANDRE.
 Passez-donc.  
 
     FILEMON.
-Je le veux, de peur d'estre importun [221].  
+        Je le veux, de peur d'estre importun [221].  
 Fin de l'Acte premier.
 
 
@@ -1553,7 +1553,7 @@ Mon bras ne me sert bien, je le tuëray des yeux.
 L'on sort.  
 
     ALCIPE.
-Ciel, c'est Leandre avec mon adversaire !  
+        Ciel, c'est Leandre avec mon adversaire !  
 En cette occasion qu'imaginer ? que faire ?  
 
     SYLVAIN.
@@ -1606,13 +1606,13 @@ Monsieur, r'entrez en vous, et me veüillez entendre,
 C'est Leandre.  
 
     ALCIPE.
-Est-il vray ! seroit-ce vous, Leandre ?  
+        Est-il vray ! seroit-ce vous, Leandre ?  
 
     LEANDRE.
 Oüy, c'est moy.  
 
     ALCIPE.
-Pardonnez, ce qu'un juste⁎ courroux  
+        Pardonnez, ce qu'un juste⁎ courroux  
 Me faisoit addresser à tout autre qu'à vous.  
 
     LEANDRE.
@@ -1688,7 +1688,7 @@ Court apres les filoux, pour vanger vostre outrage,
 Je vay le secourir.  
 
     ALCIPE.
-Les miens suivroient vos pas ;  
+        Les miens suivroient vos pas ;  
 Mais mon coeur seroit mal secondé de mon bras.  
 
     LEANDRE.
@@ -1704,16 +1704,16 @@ ALCIPE, ASTRÉE, HYPPOLITE, SYLVAIN.
 Je rentre.  
 
     ALCIPE.
-Je vous suy.  
+    Je vous suy.  
 
     ASTRÉE.
-N'allez pas plus avant.  
+        N'allez pas plus avant.  
 
     ALCIPE.
 Madame !  
 
     ASTRÉE.
-C'est donner des paroles au vent ;  
+        C'est donner des paroles au vent ;  
 Quoy dedans ma maison j'introduirois un homme  
 Que l'impudique ardeur d'un fol amour consomme ?  
 Et qui depuis long-temps sans crainte et sans respect,  
@@ -1820,7 +1820,7 @@ Tout cede, tout se rend au brave Filemon.
 Les filoux !  
 
     FILEMON.
-Ha ! toubeau [238], vous sçavez mal leur nom.  
+        Ha ! toubeau [238], vous sçavez mal leur nom.  
 Et comme les objets se grossissent dans l'ombre,  
 A vos sens estonnez⁎ un seul homme a fait nombre.  
 
@@ -1828,10 +1828,10 @@ A vos sens estonnez⁎ un seul homme a fait nombre.
 Un seul homme !  
 
     FILEMON.
-Un seul homme.  
+    Un seul homme.  
 
     ALCIPE.
-Ils estoient plus de six.  
+        Ils estoient plus de six.  
 
     FILEMON.
 Cavalier, parlez-en d'un esprit plus rassis [239],  
@@ -1864,7 +1864,7 @@ D'avoir pris le parti d'une femme d'honneur.
 Ce brave est fanfaron.  
 
     FILEMON.
-Ce brave a du courage,  
+        Ce brave a du courage,  
 Et je ne pense pas qu'il change de langage,  
 
     LEANDRE.
@@ -1875,13 +1875,13 @@ Il ne dit rien de luy, c'est un recit qu'il fait.
 C'est un conte [242] ennuyeux⁎.  
 
     FILEMON.
-Achevez de m'entendre.  
+        Achevez de m'entendre.  
 
     ALCIPE.
 Je ne puis.  
 
     FILEMON.
-En tout cas, je m'adresse à Leandre,  
+        En tout cas, je m'adresse à Leandre,  
 Je laisse quelque temps l'inconnu dans l'erreur.  
 Il parle en menaçant, j'écoute sans terreur :  
 Mon silence le choque, il veut que je réponde,  
@@ -2019,13 +2019,13 @@ Que l'on vous compte au rang de ceux qu'il a blessez.
 Ah ! ce reproche…  
 
     LEANDRE.
-Alcipe où va vostre colere ?  
+        Alcipe où va vostre colere ?  
 
     ALCIPE.
 Ailleurs…  
 
     FILEMON.
-Le mesme bras toûjours prest à bien faire.  
+        Le mesme bras toûjours prest à bien faire.  
 
     LEANDRE.
 De grace, Filemon, terminez ce propos.  
@@ -2035,13 +2035,13 @@ Cavalier autre part nous en dirons deux mots.
 Adieu.  
 
     LEANDRE.
-Je sçauray bien adoucir ce courage⁎.  
+        Je sçauray bien adoucir ce courage⁎.  
 
     ALCIPE.
 C'est assez.  
 
     LEANDRE.
-Je le suy, montrez-vous le plus sage.  
+        Je le suy, montrez-vous le plus sage.  
 
 
 ### SCENE VII.
@@ -2147,7 +2147,7 @@ Mais d'où naist le soupçon que vous avez de moy ?
 Respondez ma cousine.  
 
     ORPHISE.
-Il naist de l'apparence ;  
+        Il naist de l'apparence ;  
 Vous loüez l'Estranger avec trop d'eloquence.  
 Celles que l'Hymenée⁎ attache à des maris,  
 Ne parlent en ce sens que de leurs favoris.  
@@ -2171,7 +2171,7 @@ J'ay veu ce Cavalier, son visage m'a pleu.
 En un mot vous l'aimez ?  
 
     ORPHISE.
-Non pas [259], mais je l'ay veu.  
+        Non pas [259], mais je l'ay veu.  
 
     ASTRÉE.
 Avant que de ceder, vous ne resistez guere :  
@@ -2212,32 +2212,32 @@ VALENTIN, ASTRÉE, ORPHISE, HYPPOLITE.
 Escoute un mot.  
 
     VALENTIN.
-Le temps ne me le peut permettre,  
+        Le temps ne me le peut permettre,  
 Je vay voir au Courier s'il n'a point quelque lettre.  
 
     ASTRÉE.
 De Lyon ?  
 
     VALENTIN.
-De Lyon.  
+    De Lyon.  
 
     ASTRÉE. 
-Pour ton Maistre ?  
+    Pour ton Maistre ?  
 
     VALENTIN.
-Pour luy.  
+        Pour luy.  
 
     ASTRÉE.
 De la part ?  
 
     VALENTIN.
-D'un objet⁎ qui l'enflame aujourd'huy.  
+        D'un objet⁎ qui l'enflame aujourd'huy.  
 
     ORPHISE.
 Ah ! je meurs à ces mots.  
 
     ASTRÉE.
-Qu'ont-ils de si funeste ?  
+        Qu'ont-ils de si funeste ?  
 Venez l'entretenir, je conduiray le reste.  
 (Astrée parle à Hyppolyte bas à l'oreille.)
 
@@ -2266,10 +2266,10 @@ Toutes ces qualités se rencontrent en elle ;
 Mais.  
 
     ORPHISE.
-Explique ce mais.  
+    Explique ce mais.  
 
     VALENTIN.
-Ce poinct m'est deffendu,  
+        Ce poinct m'est deffendu,  
 Mon Maistre le sçauroit, et je serois perdu.  
 
     ASTRÉE.
@@ -2278,7 +2278,7 @@ Apres qu'on nous a dit en secret quelques choses.
 Parle.  
 
     VALENTIN.
-Mon Maistre vient, Ciel quel est mon soucy⁎,  
+        Mon Maistre vient, Ciel quel est mon soucy⁎,  
 Que ne dira-t'il pas de me trouver icy !  
 
 
@@ -2402,7 +2402,7 @@ Jusques sur l'échaffaut j'iray porter ma teste.
 Mais avez vous tué ?  
 
     FILEMON.
-Je n'en suis pas certain,  
+        Je n'en suis pas certain,  
 Mon courage⁎ en ce cas desavouëroit ma main.  
 
     ORPHISE.
@@ -2449,10 +2449,10 @@ Et bien m'apportes-tu les lettres desirées ?
 Ah ! Monsieur.  
 
     FILEMON.
-Qu'est-ce donc ?  
+    Qu'est-ce donc ?  
 
     VALENTIN.
-On les a retirées,  
+        On les a retirées,  
 Quelqu'un de vostre part les est allé querir.  
 
     FILEMON.
@@ -2463,7 +2463,7 @@ Voila, méchant coquin ! l'effet de ta paresse.
 Vous nous avez promis.  
 
     FILEMON.
-Je tiendray ma promesse,  
+        Je tiendray ma promesse,  
 Permettez cependant que changeant de propos,  
 J'aille sur ce sujet écrire un ou deux mots.  
 Je veux donner avis de cette procedure,  
@@ -2498,7 +2498,7 @@ Conjecturez de-là, que vous causez ses feux.
 Il vous a veuë aussi.  
 
     ASTRÉE.
-Mais l'Hymen⁎ qui me lie,  
+        Mais l'Hymen⁎ qui me lie,  
 Dit trop qu'il n'en peut rien esperer sans folie.  
 
     ORPHISE.
@@ -2554,16 +2554,16 @@ A voir vostre maintien vous paroissez surprise.
 Qu'est-ce ?  
 
     ASTRÉE.
-Ce sont des vers qu'on a fait pour Clorise [281].  
+        Ce sont des vers qu'on a fait pour Clorise [281].  
 
     LEANDRE.
 D'Amour ?  
 
     ASTRÉE.
-Peut estre bien.  
+    Peut estre bien.  
 
     ORPHISE.
-Vous voulez tout sçavoir ?  
+        Vous voulez tout sçavoir ?  
 
     LEANDRE.
 Ne vous en fâchez point, je ne les veux pas voir ;  
@@ -2633,7 +2633,7 @@ Et possible⁎ demain s'eloignera d'icy.
 J'admire vostre esprit.  
 
     ASTRÉE.
-Ce n'est pas tout encore,  
+        Ce n'est pas tout encore,  
 Le Lyonnois écrit à l'objet⁎ qu'il adore ;  
 Il faut avoir sa lettre, et pour n'y pas manquer,  
 Hyppolite, écoutez, ce qu'il faut pratiquer.  
@@ -2674,7 +2674,7 @@ HYPPOLITE, VALENTIN.
 Adieu belle Hyppolite !  
 
     HYPPOLITE.
-Adieu beau Valentin.  
+        Adieu beau Valentin.  
 
     VALENTIN.
 Ce que c'est qu'en un mois me peigner un matin [287] ;  
@@ -2686,7 +2686,7 @@ Tu n'en reviendras pas, songe à ton testament,
 J'en pleure de douleur.  
 
     VALENTIN.
-Hyppolite, comment ?  
+        Hyppolite, comment ?  
 
     HYPPOLITE.
 Comment pauvre garçon ? es-tu sans conjecture,  
@@ -2700,7 +2700,7 @@ Ils t'assassineront pour avoir ses écrits,
 Qu'en croy-tu Valentin ?  
 
     VALENTIN.
-Hyppolite, je pense  
+        Hyppolite, je pense  
 Qu'on garde des soupçons dessus moins d'apparence ;  
 Mais ce paquet tout seul, ira-t'il au Courrier.  
 
@@ -2709,17 +2709,17 @@ Reçoit de mon amour ce plaisir tout entier,
 Donne.  
 
     VALENTIN.
-Tu m'aimes donc ?  
+    Tu m'aimes donc ?  
 
     HYPPOLITE.
-O la belle demande !  
+        O la belle demande !  
 
     VALENTIN.
 J'aurois tort d'en douter, l'apparence en est grande,  
 Parlons de nostre amour.  
 
     HYPPOLITE.
-Non, disons-nous adieu,  
+        Non, disons-nous adieu,  
 Ton Maistre pesteroit s'il venoit en ce lieu.  
 
     VALENTIN.
@@ -2728,7 +2728,7 @@ Le retour, comme on dit, seroit pis que matines [290] ;
 Adieu donc, Hyppolite !  
 
     HYPPOLITE.
-Adieu donc Valentin,  
+        Adieu donc Valentin,  
 Que sois-tu [291] quelque jour mon réveille-matin. [292]  
 
 
@@ -2758,7 +2758,7 @@ LEANDRE, ASTRÉE, ORPHISE.
 Cachez…  
 
     LEANDRE.
-Encor un coup, ce procedé me fâche ; [293]   
+        Encor un coup, ce procedé me fâche ; [293]   
 Que puis-je presumer d'un écrit qu'on me cache ?  
 Dissimulons pourtant, et nous fermons les yeux ;  
 L'on est souvent puny d'estre trop curieux.  
@@ -2802,29 +2802,29 @@ Il me faut aquiter de ma commission.
 Sylvain, qui cherche tu ?  
 
     SYLVAIN.
-Vôtre amy de Lyon.  
+        Vôtre amy de Lyon.  
 
     LEANDRE.
 Pourquoy ?  
 
     SYLVAIN.
-Pour luy donner le billet que je porte.  
+        Pour luy donner le billet que je porte.  
 
     LEANDRE.
 De la part ?  
 
     SYLVAIN.
-De mon Maistre.  
+    De mon Maistre.  
 
     LEANDRE.
-En user de la sorte !  
+        En user de la sorte !  
 Donne le moy.  
 
     SYLVAIN.
-Je crains.  
+    Je crains.  
 
     LEANDRE.
-Donne sans resister,  
+        Donne sans resister,  
 Il luy fait un deffi ; je n'en doy pas douter.  
 En voicy le cartel [295], tout semble me le dire :  
 J'en ferois un serment avant que de le lire.  
@@ -2999,7 +2999,7 @@ LEANDRE, HYPPOLITE.
 
 
     HYPPOLITE.
-De qui parle Leandre,  
+        De qui parle Leandre,  
 Son discours est obscur, tâchons à [308] le comprendre.  
 
     LEANDRE.
@@ -3067,7 +3067,7 @@ LEANDRE, ASTRÉE.
 Hyppolite est sortie.  
 
     LEANDRE.
-Il faut fermer la porte,  
+        Il faut fermer la porte,  
 Aucun [314] ne doit entendre un secret de la sorte.  
 
     ASTRÉE.
@@ -3141,13 +3141,13 @@ Ouvrez, ou vous verrez, ce qu'un effort⁎ peut faire.
 User de violence !  
 
     FILEMON.
-Ouvrez vous dis-je, ouvrez.  
+        Ouvrez vous dis-je, ouvrez.  
 
     LEANDRE.
 Que je sçache pourquoy ?  
 
     FILEMON.
-Tantost⁎ vous le sçaurez.  
+        Tantost⁎ vous le sçaurez.  
 (Leandre ouvre.)
 
 (Estant entré.)
@@ -3219,7 +3219,7 @@ Mais de ce que j'ay dit, le veritable sens.
 Certes nous avons tort.  
 
     ASTRÉE.
-Leandre est seul coupable,  
+        Leandre est seul coupable,  
 Et si je l'oze dire, il n'est pas excusable ;  
 A-t'il deu presumer qu'estant ce que je suis,  
 Un absolu refus augmentast ses ennuys ?  
@@ -3338,7 +3338,7 @@ Joignons donc nos efforts⁎ et nous vangeons tous deux.
 Dequoy ?  
 
     LEANDRE.
-L'ignorez-vous ? d'une femme infidelle,  
+        L'ignorez-vous ? d'une femme infidelle,  
 D'un lâche et faux ami qui m'outrage avec elle ;  
 De deux objets aimez, de qui je suis hai,  
 De qui je suis trompé, de qui je suis trahi :  
@@ -3470,10 +3470,10 @@ Inhumain envers vous, à soy-mesme cruel
 Leandre.  
 
     ASTRÉE.
-Qu'est-ce donc ?  
+    Qu'est-ce donc ?  
 
     ALCIPE.
-Va se battre en duel,  
+        Va se battre en duel,  
 Si j'avois la main libre, on verroit mon espée  
 En cette occasion volontiers occuppée.  
 
@@ -3534,13 +3534,13 @@ J'entreprends rarement que je n'en vienne à bout.
 Consentez…  
 
     ASTRÉE.
-Insolent !  
+    Insolent !  
 
     ALCIPE.
-Consentez ou…  
+    Consentez ou…  
 
     HYPPOLITE.
-Madame,  
+        Madame,  
 Rentrez, et vous sauvez des mains de cét infame.  
 
     ALCIPE.
@@ -3551,10 +3551,10 @@ Où le flambeau du jour ne sçauroit arriver.
 Monsieur.  
 
     ALCIPE.
-Ne me di rien.  
+    Ne me di rien.  
 
     SYLVAIN.
-Mais Leandre peut estre…  
+        Mais Leandre peut estre…  
 
     ALCIPE.
 Leandre ne vit plus, ou n'ose plus paroistre.  
@@ -3572,23 +3572,23 @@ Mourons dans ce combat, ou vangeons nôtre honneur :
 Deffends-toy, lasche ami.  
 
     FILEMON.
-Leandre.  
+    Leandre.  
 
     LEANDRE.
-L'artifice⁎  
+        L'artifice⁎  
 Ne sçauroit d'un moment reculer ton supplice.  
 
     FILEMON.
 Vous me méconnoissez.  
 
     LEANDRE.
-Non, infidele, non.  
+        Non, infidele, non.  
 
     FILEMON.
 Considerez, je suis…  
 
     LEANDRE.
-Le traistre Filemon.  
+        Le traistre Filemon.  
 
     FILEMON.
 Je m'offence à ce mot, Leandre que je sçache,  
@@ -3600,7 +3600,7 @@ Ce n'est que par ce fer que je veux m'expliquer,
 Deffends-toy donc.  
 
     FILEMON.
-Le sang au visage me monte,  
+        Le sang au visage me monte,  
 Tout autre esprouveroit ma colere plus prompte.  
 Je vous satisferay n'en doutez nullement :  
 Mais ne me niez⁎ pas cét éclaircissement.  
@@ -3623,7 +3623,7 @@ Vous verrez dans mon coeur une amitié plus pure.
 A la fin j'auray tort !  
 
     FILEMON.
-Vous l'aurez en effet,  
+        Vous l'aurez en effet,  
 Avec le repentir de l'affront qui m'est fait.  
 Quel indice avez vous qui marque mon offence ?  
 
@@ -3638,7 +3638,7 @@ Vous demeurez confus.
     FILEMON.
 (Apres que Filemon a leu.)
 
-J'imagine, je songe  
+        J'imagine, je songe  
 Qui peut avoir écrit cét horrible mensonge ?  
 Quiconque l'a pû faire, est certain de sa mort :  
 Ce projet de mon coeur est un Arrest du sort.  
@@ -3647,19 +3647,19 @@ Ce projet de mon coeur est un Arrest du sort.
 C'est,  
 
     FILEMON.
-Poursuivez.  
+    Poursuivez.  
 
     LEANDRE.
-Alcipe.  
+    Alcipe.  
 
     FILEMON.
-Alcipe, le perfide !  
+        Alcipe, le perfide !  
 Fut-il un Gerion, je seray son Alcide. [340]  
 Je ne vous ay jamais à ce point offencé ;  
 C'est un traistre imposteur.  
 
     LEANDRE.
-Je l'avois bien pensé.  
+        Je l'avois bien pensé.  
 
     FILEMON.
 Ne m'osant attaquer avec la force ouverte,  
@@ -3715,7 +3715,7 @@ Ne me permit jamais une infidelité.
 Mais cette lettre enfin ?  
 
     LEANDRE.
-Consultez en Astrée ;  
+        Consultez en Astrée ;  
 C'est dans son cabinet que je l'ay rencontré⁎.  
 
     FILEMON.
@@ -3754,7 +3754,7 @@ ALCIPE, ASTRÉE, ORPHISE, HYPPOLITE, SYLVAIN.
 Il revient.  
 
     ASTRÉE.
-Temeraire avez vous donc envie ?…  
+        Temeraire avez vous donc envie ?…  
 
     ALCIPE.
 D'obtenir vos faveurs, ou d'avoir vostre vie.  
@@ -3763,7 +3763,7 @@ D'obtenir vos faveurs, ou d'avoir vostre vie.
 Ah ! le lâche courage⁎.  
 
     ALCIPE.
-Ah ! le coeur sans pitié.  
+        Ah ! le coeur sans pitié.  
 
     ASTRÉE.
 Le genereux⁎ amour ! la parfaitte amitié !  
@@ -3782,18 +3782,18 @@ Pour prendre une vangeance égale à son merite.
 Filemon l'accompagne.  
 
     ALCIPE.
-Ah ! je suis découvert.  
+        Ah ! je suis découvert.  
 
     SYLVAIN.
 Je vous l'avois bien dit.  
 
     ALCIPE.
-Tout me nuit, tout me perd ;  
+        Tout me nuit, tout me perd ;  
 Mais que tarday-je plus ? évitons leur colere,  
 Fuyons Sylvain.  
 
     SYLVAIN.
-Fuyons, nous ne sçaurions mieux faire.  
+        Fuyons, nous ne sçaurions mieux faire.  
 
 
 ### SCENE IX.
@@ -3806,10 +3806,10 @@ LEANDRE, FILEMON, ASTRÉE, ORPHISE, HYPPOLITE, SYLVAIN, VALENTIN.
 Tien le bien Hyppolite.  
 
     FILEMON.
-Arreste.  
+    Arreste.  
 
     SYLVAIN.
-J'obeïs.  
+        J'obeïs.  
 
     FILEMON.
 Au brave qui s'enfuit, tu donnois des avis,  
@@ -3834,7 +3834,7 @@ Meritay-je de vivre, ou faut-il que je meure ?
 Suis-je un perfide ami ?  
 
     LEANDRE.
-Mais ne le suis-je pas ?  
+        Mais ne le suis-je pas ?  
 Pour ma punition, est-ce assez d'un trespas ?  
 Hymen⁎, ami, vertu que j'ay tant offencée ;  
 Remarquez de quel trait j'en ay l'ame blessée,  
@@ -3883,13 +3883,13 @@ Et j'ay fait mon pouvoir d'en rompre le commerce.
 Je suis perdu, Madame.  
 
     FILEMON.
-Encor à quel dessein ?  
+        Encor à quel dessein ?  
 
     ORPHISE.
 Cousine.  
 
     ASTRÉE.
-De vous mettre une autre ardeur au sein.  
+        De vous mettre une autre ardeur au sein.  
 
     FILEMON.
 Il n'estoit pas besoin incomparable Astrée !  
@@ -3903,13 +3903,13 @@ Mais l'en prier aussi, c'est trop se hazarder.
 Toutesfois  
 
     ASTRÉE.
-Filemon, n'achevez pas de grace.  
+        Filemon, n'achevez pas de grace.  
 
     ORPHISE.
 Il l'aime et non pas moy.  
 
     FILEMON.
-Que faut-il que je fasse ?  
+        Que faut-il que je fasse ?  
 Escoutez un Amant à demy consumé  
 D'un feu que vous avez en partie allumé.  
 
@@ -3917,7 +3917,7 @@ D'un feu que vous avez en partie allumé.
 Que pourroit-il pretendre ?  
 
     ASTRÉE.
-Encor un coup silence.  
+        Encor un coup silence.  
 
     FILEMON.
 Ami, souscrirez-vous à cette violence ?  
@@ -3936,7 +3936,7 @@ C'est le souverain bien dont je voulois parler.
 O Ciel ! quelle surprise ? [349]  
 
     ORPHISE.
-Cousine qu'elle est douce !  
+        Cousine qu'elle est douce !  
 
     FILEMON.
 Vostre visage change, est-ce qu'il se courrouce ?  

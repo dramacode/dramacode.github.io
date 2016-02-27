@@ -42,7 +42,7 @@ Mais enfin la surprise et la colere cedant à l'amour et à la raison, Artaban t
 
 Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques années soûs le nom de Ladice, ou des Victoires du Grand Tamerlan ; soit qu'il t'ayt plû, ou qu'il t'ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme.
 
-**** *book_ *id_body-4-1 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-401 *act_ *date_1656 *creator_chappuzeau
 
 -*who_organte
 Seigneur, il ne faut pas consulter davantage,
@@ -50,7 +50,7 @@ Evitez les perils où l'amour vous engage ;
 Voyez la foudre prête à tomber dessus vous,
 Et d'un pere irrité redoutez le courroux.
 Tamerlan à grans pas vers ce camp s'achemine,
-Et comme un gros torrent vient inonder la Chine ;         
+Et comme un gros torrent vient inonder la Chine ;
 Tout cede à sa valeur⁎, et ce grand Conquerant
 N'y peut donner de borne où l'Univers en prend.
 Jusques chez le Germain il a porté la guerre,
@@ -247,7 +247,7 @@ Que jamais on n'a sçû ce que j'en imagine.
 Quoy donc ?
 
 -*who_organte
-Qu'il est grand Prince, et du sang⁎ de la Chine.
+      Qu'il est grand Prince, et du sang⁎ de la Chine.
 
 -*who_armetzar
 Quoy, ce cher Indien ? D'où le peus tu sçavoir ?
@@ -275,7 +275,7 @@ Quoy qu'il en soit, Organte, espere en mon destin.
 -*who_organte
 Seigneur, le Roy qui vient vous en rendra certain.
 
-**** *book_ *id_body-4-2 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-402 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zinton
 En vain à m'attaquer Tamerlan se prepare,
@@ -322,13 +322,13 @@ Voilà les grans projets dont Tamerlan se flatte :
 Mais j'ay pour les détruire assez d'un seul Phocate.
 Ouy, je veux aujourd'huy me vanger par ton bras…
 
-**** *book_ *id_body-4-3 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-403 *act_ *date_1656 *creator_chappuzeau
 
 -*who_garde
 Sire, le Prince arrive.
 
 -*who_zinton
-Enfin tu le verras.
+      Enfin tu le verras.
 
 -*who_armetzar
 Ouy, de ce fils Illustre et rempli de vaillance
@@ -351,7 +351,7 @@ Quoy, ce cher inconnu seroit fils de Zinton !
 Sa surprise, Seigneur, à la vôtre repond :
 Mais il faut l'imiter, et cacher ce grand trouble⁎.
 
-**** *book_ *id_body-4-4 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-404 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zinton
 Je te revoy, mon fils, et mon plaisir redouble
@@ -450,10 +450,10 @@ Il faut que j'y donne ordre, et je vous laisse ensemble.
 Vous, Prince, suivez moy.
 
 -*who_armetzar
-Rasseure toy, mon cœur,
+      Rasseure toy, mon cœur,
 Et de tes faux soupçons condamne la rigueur.
 
-**** *book_ *id_body-4-5 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-405 *act_ *date_1656 *creator_chappuzeau
 
 -*who_vanlie
 C'est trop, il faut enfin pour étaler ma joye,
@@ -605,7 +605,7 @@ Va produire en ce jour une étrange⁎ querelle,
 Et que l'ambition commune à vôtre rang
 Nous va faire verser et de pleurs et de sang !
 
-**** *book_ *id_body-5-1 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-501 *act_ *date_1656 *creator_chappuzeau
 
 -*who_iliane
 Quoy, parêtre si triste⁎ en un jour plein de joye !
@@ -726,10 +726,10 @@ Cet objet⁎ importun qui toûjours s'offre à moy.
 Non, Madame.
 
 -*who_ladice
-Qui donc ?
+      Qui donc ?
 
 -*who_iliane
-Phocate, à qui le Roy…
+      Phocate, à qui le Roy…
 
 -*who_ladice
 Garde toy de poursuivre, et cache dans ton ame
@@ -751,7 +751,7 @@ Et de plus dignes feux⁎ mon cœur doit être epris.
 Mais changeons de discours, j'aperçoy Zarimene,
 Cette injuste marâtre et trop superbe⁎ Reine.
 
-**** *book_ *id_body-5-2 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-502 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zarimene
 Je viens mesler ma joye à vos ravissemens,
@@ -841,7 +841,7 @@ Le Roy vient à propos pour m'en faire justice :
 Mais il faut à present luy cacher mon depit,
 Et pour mieux me vanger, feindre qu'il s'assoupit.
 
-**** *book_ *id_body-5-3 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-503 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zinton
 Madame, et vous, ma fille, apres le noir orage
@@ -971,7 +971,7 @@ Entretenir la Reine et loin de ta presence :
 Artaban, comme luy retirez vous d'icy ;
 Vous, mon fils, demeurez ; et vous, ma fille, aussy.
 
-**** *book_ *id_body-5-4 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-504 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zinton
 La chose est d'importance, et je veux qu'on l'avoüe.
@@ -1017,7 +1017,7 @@ De vous donner un maître en l'elevant si haut.
 Vous, ma fille ; parlez.
 
 -*who_ladice
-Si je le puis sans crainte,
+      Si je le puis sans crainte,
 Je diray que ce choix est plûtost une feinte,
 Et que vous voulez, Sire, en cette ocasion
 Eprouver mon respect et ma soûmission.
@@ -1040,20 +1040,20 @@ Et blament d'un sujet l'esperance trop vaine.
 Prince, c'est vôtre tour.
 
 -*who_vanlie
-Et moy, Madame, et moy
+      Et moy, Madame, et moy
 Contre vous et ma sœur je suis avec le Roy.
 
 -*who_ladice
 Mon frere !
 
 -*who_vanlie
-Ouy, ma sœur.
+      Ouy, ma sœur.
 
 -*who_zarimene
-Quoy, Prince ?
+      Quoy, Prince ?
 
 -*who_vanlie
-Ouy, Madame ;    
+      Ouy, Madame ;    
 Le Roy fait un choix juste, eloigné de tout blame,
 Et son repos demande en un si beau dessein
 Que vous le secondiez par un conseil plus sain.
@@ -1070,7 +1070,7 @@ Je ne puis concevoir où vôtre esprit s'emporte,
 Vous oubliez…
 
 -*who_vanlie
-Ma sœur, il me souvient de tout,
+      Ma sœur, il me souvient de tout,
 Vous devez obeïr quand le Roy s'y resout,
 Et peut être qu'un jour par un avis contraire
 Vous pourrez approuver ceux que vous donne un frere.
@@ -1087,7 +1087,7 @@ Ma fille, apres cela, pensez à m'obeïr.
 Si pour un Armetzar ce choix vous semble étrange⁎
 Ma sœur, avec Phocate on ne perd rien au change.
 
-**** *book_ *id_body-5-5 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-505 *act_ *date_1656 *creator_chappuzeau
 
 -*who_ladice
 Dans quels nouveaux soucis vient on de m'engager !
@@ -1106,7 +1106,7 @@ Et du fils du grand Cham⁎ m'ayant entretenu
 Ozes mettre en son rang un chetif inconnu ?
 Si pour un Armetzar ce choix me semble étrange⁎
 En acceptant Phocate on ne perd rien au change !
-Elle reprend ces deux vers de son frere d'un ton different.
+      Elle reprend ces deux vers de son frere d'un ton different.
 Chasse, chasse, Vanlie, un penser criminel
 Qui veut aupres d'un Dieu faire asseoir un mortel.
 Mais helas qu'à mes vœux ce Dieu parest contraire,
@@ -1124,7 +1124,7 @@ A me faire aujourd'huy ce traittement severe.
 La Reine cependant,
 
 -*who_ladice
-M'estoit un feble appuy,
+      M'estoit un feble appuy,
 Et parloit pour son fils en parlant contre luy.
 Phocate luy deplaist craignant que je ne l'aime,
 Et c'est de son esprit un digne stratagème.
@@ -1136,7 +1136,7 @@ Mais, Madame, il s'approche, et ne redoute rien.
 Il vient pour son supplice autant que pour le mien :
 Mais voyons à quel point peut monter son audace.
 
-**** *book_ *id_body-5-6 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-506 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
 Je viens icy, Madame, avec mauvaise grace,
@@ -1148,7 +1148,7 @@ Je tiens icy sa place, et pourray vous entendre ;
 Qu'avez vous à luy dire ?
 
 -*who_armetzar
-A quoy me dois-je attendre ?
+      A quoy me dois-je attendre ?
 Rien qu'on ne pust, Madame, un moment differer :
 
 -*who_ladice
@@ -1234,7 +1234,7 @@ Mortel, si près des Dieux ne cherchez point de place,
 Et pour fuir ma colere, abandonnant ces lieux
 Que Phocate jamais ne se montre à mes yeux.
 
-**** *book_ *id_body-5-7 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-507 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
 Vous serez obeïe, ô Princesse adorable !
@@ -1250,7 +1250,7 @@ Ouy, mon cœur, flattons nous d'un reste d'esperance,
 Et pour nous rendre encor dignes de son regard,
 Cessons d'être Phocate, et montrons Armetzar.
 
-**** *book_ *id_body-6-1 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-601 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
 Pour flatter la douleur du tourment que j'endure,
@@ -1284,28 +1284,28 @@ Obeïs au destin severe,
 Et s'il te faut combattre un pere,
 Combats, et meurs pour le vanger.
 
-**** *book_ *id_body-6-2 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-602 *act_ *date_1656 *creator_chappuzeau
 
 -*who_organte
 Seigneur.
 
 -*who_armetzar
-Que me veux-tu ?
+      Que me veux-tu ?
 
 -*who_organte
-Le Prince plein de joye…
+      Le Prince plein de joye…
 Mais le voicy déjà.
 
 -*who_armetzar
-Que faut il que je croye !
+      Que faut il que je croye !
 
-**** *book_ *id_body-6-3 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-603 *act_ *date_1656 *creator_chappuzeau
 
 -*who_vanlie
 Hé bien, mon cher Phocate !
 
 -*who_armetzar
-Ha ! Prince, dittes mieux ;
+      Ha ! Prince, dittes mieux ;
 Armetzar est mon nom, l'autre m'est odieux.
 
 -*who_vanlie
@@ -1432,19 +1432,19 @@ Nous dire l'un à l'autre : amy, sers bien mon pere.
 O rencontre facheux !
 
 -*who_vanlie
-O durs evenemens !
+      O durs evenemens !
 
 -*who_armetzar
 Quoy, cesser d'etre amis !
 
 -*who_vanlie
-Quoy, cesser d'etre amans !
+      Quoy, cesser d'etre amans !
 Mais c'est trop écouter une amitié si tendre,
 Tamerlan et Zinton ne veulent plus attendre ;    
 Afin que l'un et l'autre ayt en nous un soûtien,
 Suy mon pere au combat, j'y vais suivre le tien.
 
-**** *book_ *id_body-6-4 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-604 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
 Effet prodigieux d'une flame⁎ amoureuse !
@@ -1474,7 +1474,7 @@ Et qu'aujourd'huy Quinsay se rende son azile.
 Seigneur…
 
 -*who_armetzar
-Je l'ay bien dit, ce dessein te surprend :
+      Je l'ay bien dit, ce dessein te surprend :
 Mais je le treuve aîsé plus il me semble grand.
 Organte, à mon amour il n'est rien d'impossible,
 Et cette place enfin n'est pas inaccessible.
@@ -1497,14 +1497,14 @@ Seigneur, fuyez vous méme, et fuyez prontement.
 La Princesse survient.
 
 -*who_armetzar
-Evitons sa presence.
+      Evitons sa presence.
 Suy, si tu veux, Organte.
 
 -*who_organte
-Ouy, faisons diligence ;
+      Ouy, faisons diligence ;
 Allons, Seigneur, allons, je vous suis en tous lieux.
 
-**** *book_ *id_body-6-5 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-605 *act_ *date_1656 *creator_chappuzeau
 
 -*who_ladice
 Iliane, c'est luy qui se cache à mes yeux.
@@ -1556,13 +1556,13 @@ Avant qu'à cet hymen je soûmette mon ame,
 Avant que d'Artaban…
 
 -*who_iliane
-Mais je le voy, Madame,
+      Mais je le voy, Madame,
 Voicy déja l'effet de ce que j'ay predit.
 
 -*who_ladice
 Le discours qu'il m'apprête aura peu de credit.
 
-**** *book_ *id_body-6-6 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-606 *act_ *date_1656 *creator_chappuzeau
 
 -*who_artaban
 Madame, ayant apris qu'on veut vous faire outrage⁎,
@@ -1604,7 +1604,7 @@ Toûjours sur vôtre esprit il aura du pouvoir.
 Si pourtant…
 
 -*who_ladice
-Achevez, je veux bien tout entendre.
+      Achevez, je veux bien tout entendre.
 
 -*who_artaban
 Madame, sans m'ouïr vous le pouvez comprendre :
@@ -1613,13 +1613,13 @@ Dois-je encor vous le dire et vous le protester ?
 Mon cœur…
 
 -*who_ladice
-Finissez donc, j'attendois autre chose.
+      Finissez donc, j'attendois autre chose.
 Phocate de mes maux n'est pas la seule cause,
 Et sans me soucier de vos soupçons jaloux,
 Sçachez que je le hais : mais beaucoup moins que vous.
 Allez, si vous voulez, vous en plaindre à la Reine.
 
-**** *book_ *id_body-6-7 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-607 *act_ *date_1656 *creator_chappuzeau
 
 -*who_artaban
 M'en aller plaindre, ingrate⁎ ; ame fiere⁎ et hautaine !
@@ -1630,7 +1630,7 @@ Ne daignons pas troubler⁎ cette basse entreprise,
 Et pour mieux me vanger de tant d'indignité
 Laissons la consentir à cette lascheté.
 
-**** *book_ *id_body-6-8 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-608 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zarimene
 Hé bien, as tu gagné quelque chose sur elle ?
@@ -1708,14 +1708,14 @@ Je crains que son couroux, s'il en est eclaircy…
 -*who_zarimene
 Tay toy, fille ignorante, et crain le mien aussy.
 
-**** *book_ *id_body-7-1 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-701 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zinton
 Quoy tous deux à la fois, et mon fils et Phocate
 Abandonner mon camp ?
 
 -*who_artaban
-Sire, d'une ame ingrate⁎
+      Sire, d'une ame ingrate⁎
 Vous ne pouviez attendre un autre traittement,
 Et Phocate tout seul merite châtiment.
 Sans doute que du Prince encor plein de jeunesse
@@ -1745,7 +1745,7 @@ Ecouter un discours qu'a formé vôtre haine ;
 Et surpris comme vous de cet eloignement,
 Je scay pourtant en faire un autre jugement.
 
-**** *book_ *id_body-7-2 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-702 *act_ *date_1656 *creator_chappuzeau
 
 -*who_garde
 Le Prince est de retour, Sire, et par sa vaillance
@@ -1759,7 +1759,7 @@ Et Phocate sans doute étoit de la partie.
 Mais déjà mon transport⁎ me les fait decouvrir ;
 O mon fils ! ô Phocate ! auquel dois-je courir !
 
-**** *book_ *id_body-7-3 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-703 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
 Sire, voicy le bras qui vange vôtre offence,
@@ -1841,13 +1841,13 @@ Sire, voilà le fruit de ces exploits hardis.
 Le Prince est mort sans doute.
 
 -*who_armetzar
-Il vit, il vit encore.
+      Il vit, il vit encore.
 
 -*who_zinton
 Où peut-il être donc ?
 
 -*who_armetzar
-C'est un point que j'ignore :
+      C'est un point que j'ignore :
 Mais je puis assurer qu'il n'a jamais rien sçû
 De ce hardi dessein que seul j'avois conçû.
 Sire, il est dans le camp, n'en soyez point en peine,
@@ -1891,7 +1891,7 @@ Le fameux different de deux peuples fameux.
 Assisté de ton bras le Cham⁎ ne peut m'abattre,
 Mon fils, vien prendre haleine afin de mieux combattre.
 
-**** *book_ *id_body-7-4 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-704 *act_ *date_1656 *creator_chappuzeau
 
 -*who_artaban
 O depit ! ô fureur⁎ ! quoy cet audacieux    
@@ -1905,7 +1905,7 @@ La Reine en peu de temps se verroit satifaitte.
 Mais voicy la beauté pour qui souffroit mon cœur,
 Ne nous exposons plus aux traits⁎ de sa rigueur.
 
-**** *book_ *id_body-7-5 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-705 *act_ *date_1656 *creator_chappuzeau
 
 -*who_ladice
 Que de biens à la fois ! que de maux tout ensemble !
@@ -1983,7 +1983,7 @@ Non, non, il les abuse, et fût toûjours trompeur.
 -*who_iliane
 Mais, Madame, Armetzar vient chasser vôtre peur.
 
-**** *book_ *id_body-7-6 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-706 *act_ *date_1656 *creator_chappuzeau
 
 -*who_ladice
 Armetzar, approchez, je vous permets ma vûe ;
@@ -2007,7 +2007,7 @@ Que de Ladice apres il pourroit tout pretendre.
 Prince, j'en ay trop dit.
 
 -*who_armetzar
-Ha ! Princesse, achevez,
+      Ha ! Princesse, achevez,
 Et deployez les biens que vous me reservez,
 Puisqu'enfin d'Armetzar la fatale avanture
 Emeut vôtre pitié pour les maux qu'il endure,
@@ -2096,7 +2096,7 @@ Et que de tous nos chefs la prudence intercede ;
 Allons, chere Iliane, allons passer la nuit,
 A toucher par nos pleurs le destin qui nous suit.
 
-**** *book_ *id_body-8-1 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-801 *act_ *date_1656 *creator_chappuzeau
 
 -*who_zarimene
 Princesse, avec raison vôtre noble arrogance
@@ -2129,9 +2129,9 @@ Le succez du combat doit bien tost vous l'apprendre.
 Un garde vient à nous.
 
 -*who_zarimene
-Dieux ! Qu'en faut il attendre ?
+      Dieux ! Qu'en faut il attendre ?
 
-**** *book_ *id_body-8-2 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-802 *act_ *date_1656 *creator_chappuzeau
 
 -*who_garde
 Princesses, c'en est fait, le Tartare est vainqueur.
@@ -2143,7 +2143,7 @@ O coup trop surprenant qui me perce le cœur !
 O mon Pere !
 
 -*who_zarimene
-O Zinton ! quelle est ton infortune !
+      O Zinton ! quelle est ton infortune !
 Quoy, tout est donc perdu sans esperance aucune !
 
 -*who_garde
@@ -2165,7 +2165,7 @@ C'est là ce digne amant⁎, ou plûtost ce perfide⁎.
 Iliane !
 
 -*who_garde
-Bientost le combat se decide,
+      Bientost le combat se decide,
 Et comme si nos Dieux demeuroient endormis,
 Tout se rend favorable aux vœux des ennemis.
 Un horrible mélange et de fer⁎ et de flame⁎
@@ -2177,7 +2177,7 @@ Le Tartare surmonte, et nous perdons le Roy.    
 Ha Dieux ! il est donc mort !
 
 -*who_ladice
-Ha ! que viens-je d'entendre !
+      Ha ! que viens-je d'entendre !
 
 -*who_garde
 Non, non, il vit encore, et daignez tout apprendre,
@@ -2192,7 +2192,7 @@ Je voulois vous cacher cet accident funeste.
 Non, ce Prince n'est plus.
 
 -*who_zarimene
-Ne me dis donc plus rien,
+      Ne me dis donc plus rien,
 En perdant Artaban je perds tout mon soûtien.
 Ha malheureuse femme ! ha deplorable mere !
 Les Dieux sont irritez, cedons à leur colere.
@@ -2201,10 +2201,10 @@ Les Dieux sont irritez, cedons à leur colere.
 Madame…
 
 -*who_zarimene
-C'en est fait, qu'on m'emporte d'icy,
+      C'en est fait, qu'on m'emporte d'icy,
 Puisque mon fils est mort, il faut mourir aussy.
 
-**** *book_ *id_body-8-3 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-803 *act_ *date_1656 *creator_chappuzeau
 
 -*who_ladice
 Est-ce un songe, Iliane ? et puis-je avec justice
@@ -2229,10 +2229,10 @@ Et déja le Tartare en ces lieux s'est rendu !
 -*who_ladice
 Fuyons, chere Iliane.
 
-**** *book_ *id_body-8-4 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-804 *act_ *date_1656 *creator_chappuzeau
 
 -*who_armetzar
-Ouy, fuyons, ma Princesse,
+      Ouy, fuyons, ma Princesse,
 Tamerlan suit mes pas, et le danger nous presse ;
 Le Roy parmy les siens ne s'êtant pû treuver,
 J'ay quitté le desordre, et viens pour vous sauver.
@@ -2282,9 +2282,9 @@ S'il est ainsi, cher Prince, evitez sa colere.
 Sauvez moy, sauvez vous.
 
 -*who_armetzar
-Dieux ! appaisez mon pere…
+      Dieux ! appaisez mon pere…
 
-**** *book_ *id_body-8-5 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-805 *act_ *date_1656 *creator_chappuzeau
 
 -*who_tamerlan
 Enfin, je suis vainqueur de tous mes ennemis,
@@ -2406,7 +2406,7 @@ Et que j'aye à mes piés le plus altier des Roys.
 De quel œil le verray-je ? ha Dieux !
 
 -*who_tamerlan
-Que dis Phocate ?
+      Que dis Phocate ?
 
 -*who_vanlie
 Qu'il sied bien aux Vainqueurs que leur clemence eclate,
@@ -2441,17 +2441,17 @@ Et qui m'auroit détruit s'il avoit pû le faire ?
 Seigneur…
 
 -*who_tamerlan
-Non, non, Phocate, en vain tu m'entretiens ;
+      Non, non, Phocate, en vain tu m'entretiens ;
 Qu'on le face venir avecques tous les siens.
 
 -*who_garde
 Seigneur, on vous l'ameine.
 
 -*who_vanlie
-O mandement severe !
+      O mandement severe !
 Pourray-je supporter la presence d'un pere !
 
-**** *book_ *id_body-8-6 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-806 *act_ *date_1656 *creator_chappuzeau
 
 -*who_tamerlan
 Que Zinton est heureux de t'avoir pour appuy,
@@ -2460,7 +2460,7 @@ Ma vûe, à cet objet⁎ sans doute tu t'egares ;
 Mon fils chez les Chinois !
 
 -*who_zinton
-Mon fils chez les Tartares !
+      Mon fils chez les Tartares !
 
 -*who_tamerlan
 Armetzar, me trompé-je, est-ce vous que je voy ?
@@ -2482,10 +2482,10 @@ Que je rencontre icy parmy mes ennemis !
 O mon pere !
 
 -*who_vanlie
-O mon pere !
+      O mon pere !
 
 -*who_zinton
-Ha ! fils abominable,
+      Ha ! fils abominable,
 Ta bouche enfin t'accuse, et te montre coupable.
 Donc tu viens à mes yeux vanter ta trahison,
 Dans un camp ennemy tu traçois ma prison,
@@ -2657,7 +2657,7 @@ Plûtost que d'opposer une injuste defence
 Au party trop heureux qu'appuyoit sa presence,
 Plûtost que d'attaquer dans ce combat fâcheux
 Celle pour qui mon cœur devoit faire des vœux,
-Plûtost que de montrer à cette audace extrême,         
+Plûtost que de montrer à cette audace extrême,
 Je me serois cent fois armé contre moy méme.
 Mais enfin si Vanlie est hors de tout espoir,
 Phocate dans ces lieux n'a-t'il plus de pouvoir ?

@@ -23,7 +23,7 @@ Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
 
 ACTEURS.
 
-**** *book_ *id_body-2-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-201 *act_ *date_1666 *creator_boyer
 
 -*who_melpomene
 Superbes⁎ demy-Dieux dont les noms esclatans
@@ -48,7 +48,7 @@ C'est une de mes sœurs qui pour quelque succez
 Dans un siecle enjoüé se flatte avec excez.
 Elle vient m'insulter avec cét avantage.
 
-**** *book_ *id_body-2-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-202 *act_ *date_1666 *creator_boyer
 
 -*who_thalie
 Hé bien tousjours ma sœur sur quelque grand ouvrage,
@@ -173,13 +173,13 @@ Qu'elle regle entre nous une palme incertaine.
 Elle vient ; je l'entens ; ces sons melodieux
 Font parler hautement les echos de ces lieux.
 
-**** *book_ *id_body-2-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-203 *act_ *date_1666 *creator_boyer
 
 -*who_melpomene
 Aprochons.
 
 -*who_thalie
-Ah ma sœur gardez de l'interrompre.
+      Ah ma sœur gardez de l'interrompre.
 
 -*who_melpomene
 Je voy que vous songez ma sœur à la corrompre.
@@ -312,7 +312,7 @@ Venez par vostre arrest asseurer ma victoire,
 Venez donner le prix à qui l'a merité.
 Il vient & nous fait voir toute sa majesté.
 
-**** *book_ *id_body-2-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-204 *act_ *date_1666 *creator_boyer
 
 -*who_melpomene
 Arbitre souverain des filles du Parnasse,
@@ -422,7 +422,7 @@ Vous, qui communiquez ces divines chaleurs,    
 Ces glorieux transports⁎ ; dont le pouvoir supréme,
 Peut élever l'esprit au delà de luy-méme.
 
-**** *book_ *id_body-3-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-301 *act_ *date_1666 *creator_boyer
 
 -*who_heure
 Voicy la brillante Deesse,
@@ -478,7 +478,7 @@ Vous allez satisfaire à son impatience ;
 Vous pour ce grand secret gardez-bien le silence,
 Et remontez au Ciel pour rejoindre vos sœurs.
 
-**** *book_ *id_body-3-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-302 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 En est-ce assez, Dircé, pour te faire connaistre
@@ -597,7 +597,7 @@ Mais c'est trop s'arrester, Jupiter s'en offence.
 Au moins n'abuse pas de cette confidence,
 Et crain de mon amant⁎ le souverain pouvoir.
 
-**** *book_ *id_body-3-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-303 *act_ *date_1666 *creator_boyer
 
 -*who_dimas
 Le Prince est là, Madame, & demande à vous voir.
@@ -639,7 +639,7 @@ Je ne puis le nier, je vous aimay Seigneur,
 Cependant…
 
 -*who_alcmeon
-Achevez, dites moy quel mal-heur,
+      Achevez, dites moy quel mal-heur,
 Quel rival me dérobe une amitié⁎ si tendre ?
 
 -*who_semele
@@ -647,11 +647,11 @@ Prenons un autre temps Seigneur pour vous l'apprendre
 Un devoir si pressant…
 
 -*who_alcmeon
-Je ne vous quitte point
+      Je ne vous quitte point
 A moins…
 
 -*who_semele
-Faut-il Seigneur m'expliquer sur ce point ?
+      Faut-il Seigneur m'expliquer sur ce point ?
 
 -*who_alcmeon
 Helas je le voy bien, vous en aymez un autre.
@@ -668,7 +668,7 @@ Et sent aupres de vous, quand il vous faut quitter…
 Ah Princesse…
 
 -*who_semele
-Ah Seigneur gardez de vous flatter.
+      Ah Seigneur gardez de vous flatter.
 Si vostre fier rival sçavoit que ma foiblesse
 Laisse échaper pour vous une ombre de tendresse,
 Ce reste de pitié vous deviendroit fatal ;
@@ -679,7 +679,7 @@ On veut que sa puissance estonne⁎ ma colere,
 Quel est donc ce rival ?
 
 -*who_semele
-Seigneur c'est un mystere⁎ ;
+      Seigneur c'est un mystere⁎ ;
 Les Dieux seuls, & mon cœur ont droit de le sçavoir.
 
 -*who_alcmeon
@@ -724,7 +724,7 @@ Et qu'un rival qui peut du moindre de ses coups…
 Le Roy vient : échapons à son premier courroux.
 Toy demeure ; je cours où mon amour m'appelle.
 
-**** *book_ *id_body-3-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-304 *act_ *date_1666 *creator_boyer
 
 -*who_alcmeon
 Vous me voyez frappé d'une atteinte mortelle,
@@ -851,7 +851,7 @@ La Princesse est à vous, je tiendray ma parolle.
 Vous, voyez vostre fille, & faites-luy sçavoir,
 Qu'elle doit s'expliquer ou craindre mon pouvoir.
 
-**** *book_ *id_body-3-5 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-305 *act_ *date_1666 *creator_boyer
 
 -*who_hermione
 Tu vois l'ordre du Roy, Dircé par ton adresse
@@ -861,7 +861,7 @@ Ma fille l'aura mis dans un sein si discret ;
 Il n'en faut pas douter.
 
 -*who_dirce
-Ah ! de grace, Madame,
+      Ah ! de grace, Madame,
 Ne me demandez pas le secret de sa flame⁎ ;
 Ce secret revelé me cousteroit le jour.
 L'ordre qui me deffend d'expliquer cet amour,
@@ -883,7 +883,7 @@ Puisque de Semelé vous pouvez l'obtenir,
 Ne me contraignez point…
 
 -*who_hermione
-Faites-la donc venir.
+      Faites-la donc venir.
 Mais que vient m'annoncer ce merveilleux spectacle ?
 Viens-tu nous esclaircir, Amour, par ce miracle ?
 
@@ -912,7 +912,7 @@ Elle peut conserver son secret & sa flame⁎,
 Et que malgré l'ardeur⁎ d'un desir indiscret⁎,
 Je renonce au pouvoir d'arracher ce secret.
 
-**** *book_ *id_body-4-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-401 *act_ *date_1666 *creator_boyer
 
 -*who_jupiter
 Ouy j'attens Semelé sous ce nouveau visage :
@@ -1050,16 +1050,16 @@ Il luy seroit suspect s'il estoit pres de moy.
 Ainsi…Mais j'aperçois Semelé.
 
 -*who_momus
-Je vous laisse ;
+      Je vous laisse ;
 Un tiers est incommode aupres d'une maistresse⁎.
 
-**** *book_ *id_body-4-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-402 *act_ *date_1666 *creator_boyer
 
 -*who_jupiter
 Ma Princesse est ce vous ?
 
 -*who_semele
-Est-ce là mon amant⁎ ?
+      Est-ce là mon amant⁎ ?
 
 -*who_jupiter
 Me méconnoissez-vous sous ce déguisement ?
@@ -1160,7 +1160,7 @@ Mais Alcmeon paroist, tâchons de l'éviter ;
 -*who_jupiter
 Il faut voir le rival, qu'on donne à Jupiter.
 
-**** *book_ *id_body-4-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1666 *creator_boyer
 
 -*who_alcmeon
 Ce beau berger est-il de vostre confidence ?
@@ -1169,11 +1169,11 @@ Ce beau berger est-il de vostre confidence ?
 Comment ?
 
 -*who_alcmeon
-Je vous apporte un advis d'importance,
+      Je vous apporte un advis d'importance,
 Et n'oze devant luy…
 
 -*who_semele
-Parlez ne craignez rien,
+      Parlez ne craignez rien,
 Ou gardez vostre advis, s'il rompt nostre entretien.
 
 -*who_alcmeon
@@ -1206,7 +1206,7 @@ Ce conseil quel qu'il soit nous fera peu de mal.
 Hé quoy vous me bravez ?
 
 -*who_jupiter
-Non j'aurois peu de gloire,
+      Non j'aurois peu de gloire,
 De braver un rival quand il pert la victoire.
 
 -*who_alcmeon
@@ -1238,14 +1238,14 @@ Je ne sçay qui l'est plus du berger ou de vous.
 Ah c'en est trop.
 
 -*who_jupiter
-Calmez ce dangereux courroux.
+      Calmez ce dangereux courroux.
 
 -*who_semele
 Hé quoy contre un berger & mesme en ma presence
 Un Prince…
 
 -*who_jupiter
-Je répons icy de sa clemence.
+      Je répons icy de sa clemence.
 
 -*who_alcmeon
 Vous voyez qu'un berger me brave impunement,
@@ -1253,10 +1253,10 @@ Et vous vous offensez de mon ressentiment ?
 C'est trop souffrir⁎.
 
 -*who_semele
-O Dieux !
+      O Dieux !
 
 -*who_jupiter
-Ne craignez rien Princesse.
+      Ne craignez rien Princesse.
 
 -*who_alcmeon
 Quel charme sur mes bras jette tant de foiblesse ?
@@ -1301,7 +1301,7 @@ Jupiter mon rival ! Dieux quel aveuglement !
 Vous voyez…
 
 -*who_jupiter
-J'ay pitié de l'erreur qui l'abuse⁎.
+      J'ay pitié de l'erreur qui l'abuse⁎.
 
 -*who_alcmeon
 Vostre infidelité⁎ cherche en vain cette excuse.
@@ -1334,7 +1334,7 @@ Junon quand il luy plaist peut former le tonnerre,
 Elle est Reyne des airs.
 
 -*who_alcmeon
-Foudre tombe en ce lieu ;
+      Foudre tombe en ce lieu ;
 Ta gloire est de punir le fantôme d'un Dieu.
 
 -*who_jupiter
@@ -1347,14 +1347,14 @@ Sans doute qu'un faux charme abuse⁎ ma tendresse.
 Quoy vous doutez ?
 
 -*who_alcmeon
-Voyez quelle estoit vostre erreur.
+      Voyez quelle estoit vostre erreur.
 
 -*who_jupiter
 Junon descend en terre ; évitons sa fureur.
 Nuages descendez, & qu'une épaisse nuë
 La derobe à sa rage & nous cache à sa veuë.
 
-**** *book_ *id_body-4-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-404 *act_ *date_1666 *creator_boyer
 
 -*who_alcmeon
 Dissipez ce nüage, il est temps d'éclater,
@@ -1460,7 +1460,7 @@ Mais je t'en dirois trop & je crains ta foiblesse :
 Je t'instruiray de tout avant la fin du jour.
 Adieu je vay vanger ma gloire & ton amour.
 
-**** *book_ *id_body-5-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-501 *act_ *date_1666 *creator_boyer
 
 -*who_jupiter
 Vous n'avez rien à craindre icy belle Princesse.
@@ -1580,7 +1580,7 @@ Ma gloire ne se peut sauver que par la fuite.
 Vous cependant⁎, Venus, plaisirs jeunesse amour
 Venez prendre ma place attendant mon retour.
 
-**** *book_ *id_body-5-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-502 *act_ *date_1666 *creator_boyer
 
 -*who_venus
 Princesse on ne voit rien de charmant & de doux,
@@ -1624,7 +1624,7 @@ Elle vient, c'est assez, d'elle je me retire :
 Je laisse aupres de toy, ma fille & c'est tout dire,
 Je laisse aupres de toy la jeunesse & l'amour.
 
-**** *book_ *id_body-5-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1666 *creator_boyer
 
 -*who_jeunesse
 Par ce mesme pouvoir, que vient de faire naistre
@@ -1662,7 +1662,7 @@ Rendez un Dieu constant, comme il est amoureux.
 Mais quel nouvel éclat vient augmenter ma joye ?
 C'est Mercure, c'est luy que Jupiter m'envoye.
 
-**** *book_ *id_body-5-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-504 *act_ *date_1666 *creator_boyer
 
 -*who_junon
 Ouy je viens de sa part vous tirer d'une erreur,
@@ -1702,7 +1702,7 @@ Fantômes decevans évanouyssez-vous.    
 Hé bien m'en croirez-vous ?
 
 -*who_semele
-Ah surprise mortelle.
+      Ah surprise mortelle.
 J'ay pris pour Jupiter un fourbe un infidelle⁎.
 
 -*who_junon
@@ -1731,7 +1731,7 @@ Sçache que ce n'est point un imposteur qui t'ayme,
 C'est Jupiter luy-mesme.
 Nul ne sçayt mieux que moy le secret de son cœur.
 
-**** *book_ *id_body-5-5 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Quelle est cette estonnante⁎ & bizarre avanture ?
@@ -1741,7 +1741,7 @@ Et qui croiray-je enfin d'amour ou de Mercure ?
 Princesse en doutez-vous ?
 
 -*who_semele
-Puis-je n'en pas douter ?
+      Puis-je n'en pas douter ?
 Vous estes confident & fils de Jupiter,
 Mais peut-estre qu'amour son vainqueur & son Maistre…
 
@@ -1776,17 +1776,17 @@ Vostre nom vos discours m'obligent de vous croire ;
 Mais il faut que l'essay, dont vous estes l'autheur
 Me montre clairement que j'ayme un imposteur.
 
-**** *book_ *id_body-5-6 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-506 *act_ *date_1666 *creator_boyer
 
 -*who_junon
 Va ce fatal essay te coustera la vie ;
 Tu mourras ma rivalle & ma rage assouvie…
 Mais j'apperçoy Momus.
 
-**** *book_ *id_body-5-7 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-507 *act_ *date_1666 *creator_boyer
 
 -*who_momus
-Ah ! Mercure est-ce toy ?
+      Ah ! Mercure est-ce toy ?
 Viens-tu pour mon honneur reprendre ton employ ?
 Tu sçais quelles raisons m'ont fait prendre ta place ;
 Mais j'ayme mon mestier, & le tien m'embarrasse.
@@ -1879,7 +1879,7 @@ Allons de sa vengeance advertir son époux :    
 Sy j'offence Junon, que ne se souvient-elle
 Que j'ay pour le secret une haine mortelle ?
 
-**** *book_ *id_body-6-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-601 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Cesse de m'abuser⁎ esperance orgueilleuse ;
@@ -1927,7 +1927,7 @@ Et pour ne laisser plus balancer⁎ la victoire,
 Ne laisse plus parler la gloire,
 Je l'ay presque oubliée en faveur de l'amour.
 
-**** *book_ *id_body-6-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-602 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Vien, Dircé, vien calmer le trouble de mon ame ;
@@ -1975,7 +1975,7 @@ Ramassez vostre force, on vient pour vous combattre ;
 Ne vous desmentez point, espargnez à mon front,
 La honte qui suivroit un changement si prompt.
 
-**** *book_ *id_body-6-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-603 *act_ *date_1666 *creator_boyer
 
 -*who_alcmeon
 Madame vous sçavez l'ordre de vostre pere :
@@ -2050,7 +2050,7 @@ Que le plus grand des Dieux en doit estre jaloux.
 Que pouvez-vous pour moy ?
 
 -*who_alcmeon
-Je puis mourir pour vous,
+      Je puis mourir pour vous,
 Et rien ne vaut aux yeux de mon amour fidelle,
 La gloire d'une mort dont la cause est si belle :
 Ce Dieu pour qui je voy qu'on veut m'abandonner,
@@ -2069,7 +2069,7 @@ Peut-estre alors vos vœux ne seront que pour moy.
 Non, non cruelle⁎, il faut suivre l'ordre du Roy ;
 Je veux absolument achever l'hymenée⁎.
 
-**** *book_ *id_body-6-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-604 *act_ *date_1666 *creator_boyer
 
 -*who_hermione
 En vain aupres du Roy ma tendresse obstinée,
@@ -2082,7 +2082,7 @@ Pour tenir sa promesse, il brave son courroux.
 Mais que pretendez-vous, Alcmeon ?
 
 -*who_alcmeon
-Ah ! Madame,
+      Ah ! Madame,
 Je connoy tout entier le mal-heur de ma flame⁎:
 Mais dans mon desespoir contre la trahison,
 Je ne connois ny Dieux, ny conseil, ny raison.
@@ -2097,7 +2097,7 @@ Conservez pour le throsne une si belle vie ;
 Souffrez⁎ que Jupiter…
 
 -*who_alcmeon
-Que me demandez-vous ?
+      Que me demandez-vous ?
 En gardant Semelé sera-t'il son espoux ?
 Je sçay bien que ce Dieu consacre⁎ ce qu'il aime,
 Qu'au sang de vostre fille il s'attache luy-mesme ;
@@ -2135,10 +2135,10 @@ Et que sans voir l'abysme, où l'orgüeil la conduit,
 Il est beau de tomber, quand on tombe avec bruit.
 Le Roy…mais il s'avance.
 
-**** *book_ *id_body-6-5 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-605 *act_ *date_1666 *creator_boyer
 
 -*who_cadmus
-Hé bien se rendra-t'elle,
+      Hé bien se rendra-t'elle,
 Cette ame ambitieuse à mes loix si rebelle !
 Croit-elle que le nom de souverain des Dieux,
 Que ce nom éclatant ait esblouy mes yeux ?
@@ -2183,7 +2183,7 @@ D'un mortel quelquesfois fait un Dieu supposé ?
 Allons sans plus tarder au temple d'Hymenée,
 De ce Prince à la vostre unir la destinée.
 
-**** *book_ *id_body-6-6 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-606 *act_ *date_1666 *creator_boyer
 
 -*who_hymenee
 N'attend rien de l'Hymen, ny du reste des Dieux,
@@ -2221,10 +2221,10 @@ De ce fonds tenebreux vomir une furie,
 Fuyons Seigneur.
 
 -*who_cadmus
-Fuyons, allons en d'autres lieux,
+      Fuyons, allons en d'autres lieux,
 Achever cet hymen⁎, & chercher d'autres Dieux.
 
-**** *book_ *id_body-6-7 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-607 *act_ *date_1666 *creator_boyer
 
 -*who_jalousie
 Arreste, pere aveugle, ou menes-tu ta fille ?
@@ -2240,7 +2240,7 @@ Crain pour tous deux le fleau de l'amour conjugal.
 Adieu, je vais semer mille & mille querelles,
 Chez les amans⁎ les plus fideles.
 
-**** *book_ *id_body-6-8 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-608 *act_ *date_1666 *creator_boyer
 
 -*who_hermione
 Vous le voyez Seigneur tout parle contre vous.
@@ -2260,7 +2260,7 @@ Madame je la vois au travers ces nuages ;
 La Déesse descend, & sa divinité
 Fait plus qu'à l'ordinaire éclatter sa fierté.
 
-**** *book_ *id_body-6-9 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-609 *act_ *date_1666 *creator_boyer
 
 -*who_jupiter
 Roy de Thebes en vain en faveur de ta fille,
@@ -2294,7 +2294,7 @@ Pour la haine des Dieux, & non pas par vous mesme.
 Joüis de ta fortune⁎ & soustiens dignement,
 L'illustre choix d'un Dieu, qui s'est fait ton amant⁎.
 
-**** *book_ *id_body-6-10 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-610 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Ah ! Deesse sans vous par un ordre severe…
@@ -2377,7 +2377,7 @@ Monstrez-moy mon amant⁎ avecque tous ses charmes.
 Ah ! vous ne m'aimez point…
 
 -*who_jupiter
-Ah ! cachez-moy ces larmes.
+      Ah ! cachez-moy ces larmes.
 Helas ! sçavez-vous bien ce que vous demandez ?
 
 -*who_semele
@@ -2441,7 +2441,7 @@ Espargnez ce tourment à mon impatience.
 Au nom de nostre amour…
 
 -*who_semele
-Ah ! c'est trop contester !
+      Ah ! c'est trop contester !
 
 -*who_jupiter
 Vous le voulez, Princesse, il faut vous contenter.
@@ -2454,7 +2454,7 @@ Ces fantômes affreux⁎ au milieu de ma joye ?
 En vain par ces horreurs on veut m'épouventer,
 Quel qu'en soit le succés, je veux voir Jupiter.
 
-**** *book_ *id_body-7-1 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-701 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Que d'un superbe⁎ espoir mon ame possedée,
@@ -2483,7 +2483,7 @@ Peut-estre que le Ciel pour vanger vostre amant⁎…
 Ah ! cruelle⁎ veux-tu redoubler mon tourment ?
 Mais j'aperçoy Momus, & je tremble à sa veüe.
 
-**** *book_ *id_body-7-2 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1666 *creator_boyer
 
 -*who_semele
 Viens-tu de Jupiter m'annoncer la venüe,
@@ -2493,7 +2493,7 @@ Ou d'une vaine excuse amuser⁎ mon espoir ?
 Non, non, vous le verrez.
 
 -*who_semele
-Je brusle⁎ de le voir.
+      Je brusle⁎ de le voir.
 
 -*who_momus
 Pour vous du haut des Cieux il s'appreste à descendre :
@@ -2567,7 +2567,7 @@ Ce tumulte m'apprend qu'il s'appreste à descendre.
 Ce tumulte agreable a passé dans mon cœur.
 Grand Dieu, venez, hastez ma gloire & mon bon-heur.
 
-**** *book_ *id_body-7-3 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-703 *act_ *date_1666 *creator_boyer
 Je descends sur la terre avec toutes mes armes,
 Avec tout ce que j'ay de puissance & de charmes ;
 Mais parmy tant d'éclat quel destin est le mien ?
@@ -2635,7 +2635,7 @@ Toy garde icy mon aigle attendant mon retour.
 -*who_momus
 Je garderay vostre aigle, & vous ferez l'amour⁎.
 
-**** *book_ *id_body-7-4 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1666 *creator_boyer
 
 -*who_momus
 Fiez⁎-vous à ce Dieu, qui malgré sa tendresse,
@@ -2653,23 +2653,23 @@ S'enfuit enveloppé de flammes & d'éclairs.
 Quelqu'un vient, en ces lieux je ne doy plus paroistre.
 Aigle remonte au Ciel, & vole apres ton maistre.
 
-**** *book_ *id_body-7-5 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-705 *act_ *date_1666 *creator_boyer
 
 -*who_dimas
 Ah ! Seigneur.
 
 -*who_alcmeon
-Ah ! Dimas, quel est nostre mal-heur ?
+      Ah ! Dimas, quel est nostre mal-heur ?
 Secourons la Princesse.
 
 -*who_dimas
-Il n'est plus temps, Seigneur.
+      Il n'est plus temps, Seigneur.
 
 -*who_alcmeon
 Quoy desja…
 
 -*who_dimas
-C'en est fait, une flamme cruelle,
+      C'en est fait, une flamme cruelle,
 A vengé vostre amour d'une amante⁎ infidelle⁎.
 
 -*who_alcmeon
@@ -2694,7 +2694,7 @@ Ce grand Dieu, qui l'aimoit, est l'autheur de sa mort.
 Quoy luy-mesme ?
 
 -*who_dimas
-Ouy Seigneur, cet amant⁎ adorable,
+      Ouy Seigneur, cet amant⁎ adorable,
 Aux vœux de sa Princesse un peu trop favorable,
 Est descendu du Ciel, pour s'offrir à ses yeux,
 Tel qu'il est, quand il regne, & tonne dans les Cieux.
@@ -2706,10 +2706,10 @@ Ou plustost ce grand Dieu, pour luy sauver le jour,
 Avec tant de puissance a-t'il manqué d'amour ?
 Mais j'apperçoy la Reine.
 
-**** *book_ *id_body-7-6 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-706 *act_ *date_1666 *creator_boyer
 
 -*who_alcmeon
-Ou fuyez-vous Madame ?
+      Ou fuyez-vous Madame ?
 
 -*who_hermione
 Ah ! Seigneur, rien ne peut esteindre cette flamme.
@@ -2746,7 +2746,7 @@ Dans cet embrazement allons mourir pour elle.
 Mais j'apperçoy Junon, qui semble de sa main,
 Opposer à ma mort un ordre souverain.    
 
-**** *book_ *id_body-7-7 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-707 *act_ *date_1666 *creator_boyer
 
 -*who_junon
 Arreste & ne perds pas le fruit de ta vengeance ;
@@ -2783,7 +2783,7 @@ Et c'est par mes leçons qu'elle osa se flatter,
 D'arracher à Junon le cœur de Jupiter.
 Mais le Roy vient. Le feu⁎ qui brille en son visage…
 
-**** *book_ *id_body-7-8 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-708 *act_ *date_1666 *creator_boyer
 
 -*who_cadmus
 Vous voyez nos malheurs, & voilà vostre ouvrage :
@@ -2821,13 +2821,13 @@ Un heros plein d'honneur, de gloire & d'esperance,
 Et je luy rends…ô Dieux ! c'est Atys qui s'avance,
 Et je voy dans ses pleurs le mal-heur que je crains.
 
-**** *book_ *id_body-7-9 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-709 *act_ *date_1666 *creator_boyer
 
 -*who_cadmus
 Hé bien le Prince est mort.
 
 -*who_atys
-Nos soins ont esté vains.
+      Nos soins ont esté vains.
 Voyant que par vostre ordre, on s'obstine à le suivre ;
 Quoy (nous dit-il) veut-on me contraindre de vivre ?
 Quelle pitié barbare, & quel injuste effort
@@ -2881,7 +2881,7 @@ Vient d'embrazer un objet⁎ plein de charmes,
 Jupiter n'aura plus de clartez ny de feux,
 Que pour tarir la source de vos larmes.
 
-**** *book_ *id_body-7-10 *act_ *date_1666 *creator_boyer
+**** *book_ *id_body-710 *act_ *date_1666 *creator_boyer
 
 -*who_jupiter
 Roy de Thebes, je viens consoler ta douleur ;

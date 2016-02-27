@@ -1,5 +1,5 @@
 ---
-identifier: corneille_feint  
+identifier: corneille-thomas_feint-astrologue  
 creator: Corneille, Thomas  
 date: 1651  
 title: Le Feint astrologue. Comédie  
@@ -1138,13 +1138,13 @@ Que ce que tu me dis m'embarasse l'esprit !
 Est-il vray, Philipin ?  
 
     PHILIPIN.
-Beatrix me l'a dit.  
+        Beatrix me l'a dit.  
 
     D. FERNAND.
 Que Lucrece en effet…  
 
     PHILIPIN.
-Ouy, que vostre Lucrece  
+        Ouy, que vostre Lucrece  
 N'auroit jamais pitié de l'ardeur qui vous presse,  
 Que vous faisiez en vain de l'amoureux transy [227],  
 Et qu'elle avoit sujet de vous traiter ainsi.  
@@ -1154,7 +1154,7 @@ Enfin de ses mépris je devine la cause,
 Sans doute elle ayme [228] ailleurs.  
 
     PHILIPIN.
-Je croy [229] la mesme chose,  
+        Je croy [229] la mesme chose,  
 Au discours de tantost⁎ je l'ay trop recognu [230] ;  
 Et si le bon vieillard ne fut point survenu,  
 J'allois sçavoir, Monsieur, tout au long le mystere [231],  
@@ -1166,7 +1166,7 @@ Peust garder un secret sans indigestion.
 Si bien que Beatrix…  
 
     PHILIPIN.
-Cessez d'estre en cervelle [233],  
+        Cessez d'estre en cervelle [233],  
 J'en sçauray tout, vous dis-je, et je vous répons d'elle ;  
 Car soit pour me trouver l'esprit un peu gaillard⁎,  
 Soit pour me voir comme elle assez grand babillard⁎ [234],  
@@ -1181,7 +1181,7 @@ Vous tient depuis un mois de ses beautez épris !
 C'est estre bien changé⁎.  
 
     D. FERNAND.
-Philipin, je confesse  
+        Philipin, je confesse  
 Que je romps ma coustume en faveur de Lucrece :  
 Mais écoute, c'est trop te laisser alarmé  
 De ce qu'un mesme objet⁎ soit si long-temps aymé.  
@@ -1199,7 +1199,7 @@ Quel tort je vous faisois faute de bien l'entendre⁎ !
 Ainsi donc les devoirs⁎ que vous semblez luy rendre  
 Ne sont plus un effet de vostre passion ?  
 
-    D. FERNAND. 
+    D. FERNAND.
 Je la sers⁎ seulement par obstination,  
 Et si quand je luy dis [236] le secre t de mon ame  
 Avec moins de rigueur elle eust traité ma flame,  
@@ -1224,22 +1224,22 @@ Je cognoistray celuy pour qui l'on me méprise.
 C'est peut-estre D. Juan.  
 
     D. FERNAND.
-D. Juan ?  
+    D. Juan ?  
 
     PHILIPIN.
-Ouy, ce D. Juan [242]  
+        Ouy, ce D. Juan [242]  
 Qui, comme vous sçauez, la sert⁎ depuis un an.  
 Vous riez !  
 
     D. FERNAND.
-Le party seroit pour elle honneste⁎,  
+        Le party seroit pour elle honneste⁎,  
 Et ne m'a point encor [243] donné martel en teste⁎.  
 
     PHILIPIN.
 Quoy que pauvre, il peut plaire.  
 
     D. FERNAND.
-Ah, ne présume pas  
+        Ah, ne présume pas  
 Que jamais tant d'orgueil jette les yeux si bas.  
 Elle a le cœur trop haut pour souffrir un tel maistre,  
 Et chacun sçait icy ce que D. Juan peut estre [244] ;  
@@ -1250,7 +1250,7 @@ C'est quelquefois par là que les plus fins sont pris,
 Ce peut estre une feinte⁎.  
 
     D. FERNAND.
-Et la peux-tu comprendre ?  
+        Et la peux-tu comprendre ?  
 Il a quitté la ville et doit passer en Flandre,  
 Et malgré tout cela tu veux qu'ils soient d'accord [246] ?   
 
@@ -1258,7 +1258,7 @@ Et malgré tout cela tu veux qu'ils soient d'accord [246] ? 
 On voit assez souvent…  
 
     D. FERNAND.
-Tay-toi [247], Beatrix sort,  
+        Tay-toi [247], Beatrix sort,  
 Tâche à [248] t'en éclaircir, fay qu'elle se declare,  
 J'attends à ce détour l'heure qui t'en separe [249].  
 
@@ -1274,7 +1274,7 @@ PHILIPIN, BEATRIX.
 A quoy donc penses-tu ?  
 
     PHILIPIN.
-Moy ? je ne pense à rien.  
+        Moy ? je ne pense à rien.  
 
     BEATRIX.
 Resver⁎ en me voyant, en voyant ce qu' [250]on ayme !  
@@ -1286,20 +1286,20 @@ Mon maistre n'ayme plus, je n'ayme plus de mesme.
 Tout de bon⁎, Philipin ?  
 
     PHILIPIN.
-Tout de bon⁎, Beatrix.  
+        Tout de bon⁎, Beatrix.  
 
     BEATRIX.
 Tu veux m'abandonner, toy ?  
 
     PHILIPIN.
-Moy mesme.  
+    Moy mesme.  
 
     BEATRIX.
-Tu ris [251],  
+        Tu ris [251],  
 Et peut-estre demain…  
 
     PHILIPIN.
-Cela va sans peut-estre,  
+        Cela va sans peut-estre,  
 Un valet suit tousjours la fortune d'un maistre :  
 Fay qu'on ayme le mien, et tu verras qu'apres,  
 S'il faut mourir pour toy, je mourray tout exprés.  
@@ -1314,21 +1314,21 @@ Ta maistresse à l'amour est donc bien insensible ?
 Non pas tant, mais…  
 
     PHILIPIN.
-Quoy, mais ?  
+    Quoy, mais ?  
 
     BEATRIX.
-Mon pauvre Philipin,  
+        Mon pauvre Philipin,  
 Tu m'avois tant promis…  
 
     PHILIPIN.
-Venons au mais enfin,  
+        Venons au mais enfin,  
 Poursuy.  
 
     BEATRIX.
-Que te diray-je ?  
+    Que te diray-je ?  
 
     PHILIPIN.
-A quel dessein⁎ Lucrece  
+        A quel dessein⁎ Lucrece  
 Traite ainsi D. Fernand avec tant de rudesse,  
 Et si l'aymer encore est pour luy temps perdu.  
 
@@ -1346,22 +1346,22 @@ Avec peu de raison ta crainte me soupçonne.
 Tu n'en diras donc mot ?  
 
     PHILIPIN.
-Mot du tout [252].  
+    Mot du tout [252].  
 
     BEATRIX.
-A personne ?  
+        A personne ?  
 
     PHILIPIN.
 Non.  
 
     BEATRIX.
-Tu me le promets ?  
+    Tu me le promets ?  
 
     PHILIPIN.
-Est-ce fait ?  
+    Est-ce fait ?  
 
     BEATRIX.
-Jure tost [253].  
+        Jure tost [253].  
 
     PHILIPIN.
 Ouy, foy⁎ de Philipin, juray-je [254] comme il faut ?  
@@ -1370,7 +1370,7 @@ Ouy, foy⁎ de Philipin, juray-je [254] comme il faut ?
 Non pas mesme à ton maistre ?  
 
     PHILIPIN.
-Est-ce à dessein de rire ?  
+        Est-ce à dessein de rire ?  
 Dy le moy tout d'un coup si tu me le veux dire,  
 Pourquoy tant de façons ? vois-tu, sans te flatter⁎  
 Si je meurs pour l'oüyr, tu meurs pour le conter [255],  
@@ -1380,34 +1380,34 @@ Tant de précaution est icy ridicule.
 Tu sçauras donc enfin…  
 
     PHILIPIN.
-Parle sans préambule.  
+        Parle sans préambule.  
 
     BEATRIX.
 Que si tu vois tousjours ton maistre mal-traité,  
 C'est parce que Lucrece…  
 
     PHILIPIN.
-Ayme d'autre costé ?  
+        Ayme d'autre costé ?  
 
     BEATRIX.
 Tu devines !  
 
     PHILIPIN.
-Et bien ? le nom du personnage ?  
+        Et bien ? le nom du personnage ?  
 Acheve.  
 
     BEATRIX.
-Tu veux donc en sçavoir davantage ?  
+        Tu veux donc en sçavoir davantage ?  
 
     PHILIPIN.
 Ah, d'un homme d'honneur⁎ c'est trop se défier,  
 Tu le nommes ? [256]  
 
     BEATRIX.
-D. Juan.  
+    D. Juan.  
 
     PHILIPIN.
-Ce pauvre Cavalier⁎ ?  
+        Ce pauvre Cavalier⁎ ?  
 
     BEATRIX.
 Luy-mesme; il est galand⁎, noble, de bonne mine⁎.  
@@ -1419,7 +1419,7 @@ Et la galanterie⁎ échauffe la cuisine [257] !
 Elle l'adore enfin.  
 
     PHILIPIN.
-Ma foy, tu m'interdis⁎.  
+        Ma foy, tu m'interdis⁎.  
 Mais s'il en est aymé comme tu me le dis,  
 Pourquoy l'abandonner pour s'en aller en Flandre ?  
 
@@ -1436,10 +1436,10 @@ Entre nous deux il l'est, et plus qu'on ne le pense,
 Dans Madrid.  
 
     PHILIPIN.
-Dans Madrid !  
+    Dans Madrid !  
 
     BEATRIX.
-Et n'en a point sorty [260].  
+        Et n'en a point sorty [260].  
 
     PHILIPIN.
 Qui diable eust jamais crû qu'il eust si bien menty,  
@@ -1468,7 +1468,7 @@ Lucrece l'entretient⁎ de son apartement,
 Sa fenestre y respond [264].  
 
     PHILIPIN.
-La partie est bien faite [265] ;  
+        La partie est bien faite [265] ;  
 Mais quand il l'a quittée, où fait-il sa retraite⁎ ?  
 
     BEATRIX.
@@ -1480,17 +1480,17 @@ S'ils avoient eu moyen de se passer de moy,
 Mais Adieu, touche [268].  
 
     PHILIPIN.
-Adieu.  
+    Adieu.  
 
     BEATRIX.
-Tu me promets ta foy⁎,  
+        Tu me promets ta foy⁎,  
 Philipin ?  
 
     PHILIPIN.
-Quelle foy⁎ [269] ?  
+    Quelle foy⁎ [269] ?  
 
     BEATRIX.
-Celle de Mariage.  
+        Celle de Mariage.  
 
     PHILIPIN.
 Va, je te la promets quand nous serons en aage [270].  
@@ -1523,13 +1523,13 @@ Pourquoy grincer les dents, et te serrer les doigts ?
 Parle, es-tu possedé ?  
 
     PHILIPIN.
-Monsieur, laissez-moy faire.  
+        Monsieur, laissez-moy faire.  
 
     D. FERNAND.
 Dy donc ce que tu fais.  
 
     PHILIPIN.
-Je tâche de me taire,  
+        Je tâche de me taire,  
 On me l'a commandé, mais pour ne rien cacher,  
 Des-ja, loing d'obeyr, je suis las de tâcher,  
 Oyez. Ce Cavalier⁎ poly⁎, galand⁎, honneste⁎,  
@@ -1543,13 +1543,13 @@ En secret dans Madrid chez D. Lope se cache.
 Que dis-tu, par son ordre ?  
 
     PHILIPIN.
-Il en est adoré.  
+        Il en est adoré.  
 
     D. FERNAND.
 Quoy, D. Juan est icy ? [276]  
 
     PHILIPIN.
-Rien n'est plus asseuré,  
+        Rien n'est plus asseuré,  
 Il a feint⁎ ce depart pour vous donner la baye⁎.  
 
     D. FERNAND.
@@ -1559,18 +1559,18 @@ Si [277] faut-il toutefois qu'un des deux me la paye [278]. [279]
 Et que resolvez vous ?  
 
     D. FERNAND.
-Le dessein⁎ en est pris,  
+        Le dessein⁎ en est pris,  
 Je veux revoir Lucrece.  
 
     PHILIPIN.
-Ah, pauvre Beatrix !  
+        Ah, pauvre Beatrix !  
 Monsieur, vous parlerez, sa fortune est perduë⁎.  
 
     D. FERNAND.
 Non, croy moy.  
 
     PHILIPIN.
-Dequoy donc vous guerira sa veuë ?  
+        Dequoy donc vous guerira sa veuë ?  
 
     D. FERNAND.
 Je veux me rire d'elle, et pour me vanger mieux  
@@ -1592,7 +1592,7 @@ T'informer d'un voisin si je puis voir Lucrece,
 C'est à dire…  
 
     PHILIPIN.
-J'entens⁎. Vous craignez le vieillard ?   
+        J'entens⁎. Vous craignez le vieillard ?   
 
     D. FERNAND.
 Va donc.  
@@ -1603,7 +1603,7 @@ D. FERNAND, D. LOUYS.
 
 
     D. LOUYS.
-De vostre joye, amy, faites moy part.  
+        De vostre joye, amy, faites moy part.  
 Vous me semblez tout gay. Pour moy je m'imagine  
 Que Lucrece à present vous fait meilleure mine⁎, [284]  
 Son cœur est adoucy, je le juge à vous voir.  
@@ -1633,7 +1633,7 @@ Jugez si j'ay raison de n'y plus rien pretendre.
 Quoy, Lucrece aymeroit ?...  
 
     D. FERNAND.
-C'est de quoy [286] s'estonner,  
+        C'est de quoy [286] s'estonner,  
 Qu'on ait touché son cœur, qu'elle ait pû le donner,  
 Elle qui se parant d'une vertu⁎ forcée [287]  
 Du moindre mot d'amour se tenoit offencée.  
@@ -1646,7 +1646,7 @@ Vous serez estonné quand vous sçaurez qui c'est.
 D. Juan.  
 
     D. LOUYS.
-Vous me raillez⁎, ou bien on vous abuse⁎.  
+        Vous me raillez⁎, ou bien on vous abuse⁎.  
 
     D. FERNAND.
 Croyez qu'il est ainsi [289], son depart n'est que ruse,  
@@ -1655,7 +1655,7 @@ Voyez le digne choix, et pour qui l'on me fuit,
 Pour un homme sans biens⁎.  
 
     D. LOUYS.
-Perdez cette croyance,  
+        Perdez cette croyance,  
 Je cognoy trop Lucrece, et je sçay d'asseurance⁎  
 Que D. Juan en secret brûle d'un autre feu. [290]  
 
@@ -1663,13 +1663,13 @@ Que D. Juan en secret brûle d'un autre feu. [290]
 Pour qui ?  
 
     D. LOUYS.
-Pour Leonor.  
+    Pour Leonor.  
 
     D. FERNAND.
-Vous la cognoissez ?  
+    Vous la cognoissez ?  
 
     D. LOUYS.
-Peu,  
+        Peu,  
 Et je sçay seulement qu'elle est assez galante⁎,  
 Qu'elle vit chez un Oncle, et que D. Juan la hante⁎; [291]  
 Ce peut estre en effet par obligation⁎  
@@ -1687,7 +1687,7 @@ Il se tient tout le jour caché chez vostre amy,
 Chez D. Lope.  
 
     D. LOUYS.
-Le Ciel à propos me l'envoye,  
+        Le Ciel à propos me l'envoye,  
 Je vay sçavoir de luy ce qu'il faut que j'en croye,  
 Il m'advoüera le tout si je ne suis deçeu⁎.  
 Adieu, je vous diray ce que j'en auray sçeu.  
@@ -1701,7 +1701,7 @@ D. LOPE, D. LOUYS.
 Et quoy ? tousjours resveur⁎.  
 
     D. LOPE.
-Et tousjours miserable⁎.  
+        Et tousjours miserable⁎.  
 
     D. LOUYS.
 D. Lope, quel malheur de nouveau vous accable ?  
@@ -1730,7 +1730,7 @@ Qu'il termine en Madrid son voyage de Flandre.
 Qui peut vous l'avoir dit ?  
 
     D. LOUYS.
-Bien plus, il court un bruit⁎  
+        Bien plus, il court un bruit⁎  
 Qu'il est caché chez vous, et ne sort que de nuict.  
 Sans faire le surpris⁎ advoüez moy la debte [296]. [297]  
 
@@ -1767,7 +1767,7 @@ Qu'elle a trop [299] recognu qu'il n'en fut jamais rien.
 Est-elle encor la mesme ?  
 
     D. LOPE.
-Ouy, tousjours trop fidelle.  
+        Ouy, tousjours trop fidelle.  
 C'est peu qu'il soit party sans prendre congé d'elle [300],  
 Elle-mesme avec soing cherche à l'en excuser,  
 Et m'oste chaque jour tout lieu de rien oser.  
@@ -1837,7 +1837,7 @@ Qu'à pleines-mains sur luy vous les avez versez [313],
 Que tousjours…  
 
     LEONOR.
-Brisons-là [314], D. Lope, c'est assez,  
+        Brisons-là [314], D. Lope, c'est assez,  
 Un bienfait⁎ perd sa grace alors qu'on le publie⁎,  
 Qui peut s'en souvenir merite qu'on l'oublie,  
 Et pour moy, si je l'ose advoüer aujourd'huy,  
@@ -1894,7 +1894,7 @@ En l'estat où je suis moy-mesme je l'ignore.
 Mais vous aymez D. Juan ? [323]  
 
     LUCRECE.
-Dy plus, que je l'adore.  
+        Dy plus, que je l'adore.  
 
     BEATRIX.
 Voir en vous un amour et si prompt et si grand,  
@@ -1972,17 +1972,17 @@ Plaignez-vous-en ailleurs, pour moy [341] je les ignore.
 L'Amour…  
 
     LUCRECE.
-Ne parlez point d'un Tyran que j'abhorre.  
+        Ne parlez point d'un Tyran que j'abhorre.  
 
     D. FERNAND.
 Mais un amant⁎ qui souffre…  
 
     LUCRECE.
-Ostez ce nom d'amant⁎,  
+        Ostez ce nom d'amant⁎,  
 Il me choque, il me blesse.  
 
     D. FERNAND.
-Ah, c'est injustement,  
+        Ah, c'est injustement,  
 Puisqu'avec moins d'appas⁎ le Ciel vous eust formée,  
 S'il n'avoit pas voulu que vous fussiez aymée.  
 
@@ -2010,7 +2010,7 @@ Et vous fait voir sans doute un objet⁎ plus aymable⁎.
 Que me voulez-vous dire ?  
 
     D. FERNAND.
-Ah, de grace, il suffit,  
+        Ah, de grace, il suffit,  
 A qui m'entend⁎ assez je n'en ay que trop dit.  
 
     LUCRECE.
@@ -2027,7 +2027,7 @@ Vous estes en cholere, et je crains de voir pis.
 Sans oüyr mes raisons ?  
 
     LUCRECE.
-Je ne puis les entendre.  
+        Je ne puis les entendre.  
 
     D. FERNAND.
 Malgré vous toutefois je vous les veux apprendre.  
@@ -2054,7 +2054,7 @@ Où me suis-je adressé pour joüer de la langue [343] ?
 Est-il vray, l'ay-je oüy ?  
 
     PHILIPIN *à D. Fernand.*
-Monsieur, qu'avez-vous fait ?  
+        Monsieur, qu'avez-vous fait ?  
 
     D. FERNAND *à Philipin.*
 D'un injuste mépris tu vois le juste effet.  
@@ -2064,10 +2064,10 @@ Qu'on m'ait ainsi trahie ! helas, je suis perduë⁎.
 Ah, Beatrix.  
 
     BEATRIX.
-Croyez…  
+    Croyez…  
 
     LUCRECE.
-Tay-toy, tu m'as venduë.  
+        Tay-toy, tu m'as venduë.  
 Malheur à qui se fie à de pareils esprits.  
 
     PHILIPIN *à D. Fernand.*
@@ -2079,7 +2079,7 @@ N'eussiez pas advoüé ce que j'avois sçeu taire [344],
 Et que par ce reproche…  
 
     LUCRECE.
-Encore un coup [345], tay-toy.  
+        Encore un coup [345], tay-toy.  
 
     PHILIPIN *à D. Fernand.*
 Je puis avoir bon dos, tout va tomber sur moy. [346]  
@@ -2126,7 +2126,7 @@ Et le Ciel, oüy, le Ciel luy seul l'a revelé.
 Que dit cet importun ?  
 
     PHILIPIN.
-Vous en doutez peut-estre ?  
+        Vous en doutez peut-estre ?  
 Mais sçachez en deux mots que D. Fernand mon maistre,  
 Celuy qu'icy present vous voyez interdit⁎,  
 Pour l'esprit qu'il possede a le corps trop petit.  
@@ -2139,17 +2139,17 @@ Je pense qu'il feroit mesme parler les morts.
 Ton maistre est astrologue⁎⁎ !  
 
     PHILIPIN.
-Astrologogissime [351].  
+        Astrologogissime [351].  
 
     D. FERNAND.
 Sa fourbe⁎ va bien-tost me mettre en bonne estime.  
 Quoy, maraut⁎…  
 
     PHILIPIN.
-Ouy, Monsieur.  
+    Ouy, Monsieur.  
 
     BEATRIX.
-Pleût à Dieu qu'on le crût. [352]  
+        Pleût à Dieu qu'on le crût. [352]  
 
     PHILIPIN.
 Vous estes Astrologue⁎⁎, ou jamais il n'en fut.  
@@ -2210,7 +2210,7 @@ Asseurez-moy de l'un, je vous répons de l'autre.
 O l'habile homme !  
 
     PHILIPIN *à Lucrece.*
-Et bien, vous avois-je menty ?  
+        Et bien, vous avois-je menty ?  
 
     BEATRIX.
 La verité, Madame, enfin prend mon party.  
@@ -2287,7 +2287,7 @@ Il ne faut pas ainsi craindre legerement⁎,
 Ma fille.  
 
     BEATRIX *bas.*
-De quel front [371] le bon Cavalier⁎ ment !  
+        De quel front [371] le bon Cavalier⁎ ment !  
 
     LUCRECE.
 Cette prédiction me met beaucoup en peine⁎.  
@@ -2345,7 +2345,7 @@ Expliquez-vous un peu plus populairement [376].
 Ce sont termes de l'Art⁎.  
 
     LEONARD.
-Pardonnez à mon aage  
+        Pardonnez à mon aage  
 Qui n'en conserve plus qu'une confuse image,  
 Ces termes en mon temps n'estoient pas fort connus,  
 Mais la science⁎ augmente, et ce temps-là n'est plus.  
@@ -2373,14 +2373,14 @@ Monsieur.
 
 
     LEONARD.
-Que me veux-tu ?  
+    Que me veux-tu ?  
 
     PHILIPIN *à D. Fernand.* [381]
-Vostre esprit s'évertuë⁎  
+        Vostre esprit s'évertuë⁎  
 Monsieur, c'est tout de bon⁎.  
 
     D. FERNAND.
-Tu vois comme j'en suë⁎.  
+        Tu vois comme j'en suë⁎.  
 
     PHILIPIN.
 Le galimathias [382] ira-t'il encor loin ?  
@@ -2391,7 +2391,7 @@ Fay-moy quelque message, et par un tour d'adresse
 Dans un pas si mauvais [384]…  
 
     LEONARD *à D. Fernand.*
-C'est affaire qui presse,  
+        C'est affaire qui presse,  
 Monsieur, excusez-moy, je vous quitte à regret,  
 Et bruslois de sçavoir ce langage secret,  
 Mais nous nous reverrons touchant [385] cette science⁎,  
@@ -2404,7 +2404,7 @@ D. FERNAND, D. LOUYS, PHILIPIN.
 
 
     D. FERNAND *à Philipin.*
-Sans ton secours le peril est passé.  
+        Sans ton secours le peril est passé.  
 (à D. Louys.)
 
 Que tout à l'heure [386], amy, j'estois embarrassé !  
@@ -2423,7 +2423,7 @@ Mais vous ne l'avez pas vaincu de bonne guerre,
 Il vous entendoit⁎ mal.  
 
     D. FERNAND.
-Je m'entendois⁎⁎ bien moins.  
+        Je m'entendois⁎⁎ bien moins.  
 
     D. LOUYS.
 Pour vous mieux expliquer, vous prendrez quelques soings⁎,  
@@ -2498,7 +2498,7 @@ D. LOUYS, D. LOPE.
 
 
     D. LOUYS *feignant⁎ de ne point voir D. Lope.*
-Qui l'auroit pû penser ?  
+        Qui l'auroit pû penser ?  
 O surprenant prodige ! incroyable merveille !  
 N'est-ce point quelque songe, est-il vray que je veille ?  
 
@@ -2506,24 +2506,24 @@ N'est-ce point quelque songe, est-il vray que je veille ?
 Qu'avez-vous, D. Louys ?  
 
     D. LOUYS.
-A peine en sçay-je rien,  
+        A peine en sçay-je rien,  
 Et je doute aujourd'huy si je me cognois⁎ bien.  
 Effets miraculeux !  
 
     D. LOPE.
-Ne puis-je les apprendre ?  
+        Ne puis-je les apprendre ?  
 
     D. LOUYS.
 Je crains…  
 
     D. LOPE.
-Nous sommes seuls, on ne peut vous entendre.  
+        Nous sommes seuls, on ne peut vous entendre.  
 
     D. LOUYS.
 Mais il faut du secret.  
 
     D. LOPE.
-Fiez-vous sur ma foy⁎.  
+        Fiez-vous sur ma foy⁎.  
 
     D. LOUYS.
 Sçachez que D. Fernand vient de s'ouvrir à moy.  
@@ -2532,12 +2532,12 @@ Sçachez que D. Fernand vient de s'ouvrir à moy.
 Et bien ?  
 
     D. LOUYS.
-Et qu'il a fait en suite en ma presence  
+        Et qu'il a fait en suite en ma presence  
 Des choses que j'advouë estre hors de croyance,  
 J'ay peine à m'en remettre.  
 
     D. LOPE.
-Achevez, qu'a-t'il fait ?  
+        Achevez, qu'a-t'il fait ?  
 
     D. LOUYS.
 Je ne cognus jamais un esprit si parfait.  
@@ -2550,7 +2550,7 @@ Et puis sur du papier traçant quelques figures⁎⁎.
 Qui croiroit à le voir si galand⁎…  
 
     D. LOPE.
-N'est-ce pas  
+        N'est-ce pas  
 Cet esprit enjoüé⁎, D. Fernand Centellas,  
 Dont on prise à l'envy⁎ les graces nompareilles ?  
 
@@ -2574,7 +2574,7 @@ Qui pendant que j'y fus me voulut quelque bien⁎.
 Se peut-il qu'en effet…  
 
     D. LOUYS.
-Ce n'est encor là rien ;  
+        Ce n'est encor là rien ;  
 Car pour vous dire au vray⁎ toute mon advanture⁎,  
 Il a fait devant moy parler une peinture,  
 C'est ce qui me confond⁎ au point que vous voyez.  
@@ -2583,7 +2583,7 @@ C'est ce qui me confond⁎ au point que vous voyez.
 Vous croiray-je, est-il vray ?  
 
     D. LOUYS.
-Si vous ne me croyez,  
+        Si vous ne me croyez,  
 Vous avez de bons yeux, et les croirez peut-estre.  
 
     D. LOPE.
@@ -2592,17 +2592,17 @@ Sans doute il m'apprendra si D. Juan est jaloux, [400]
 Et par quelle raison…  
 
     D. LOUYS.
-J'ay sçeu cela pour vous,  
+        J'ay sçeu cela pour vous,  
 Il trompe Leonor, et voit de nuict Lucrece.  
 
     D. LOPE.
 Pour certain ?  
 
     D. LOUYS.
-Pour certain [401].  
+    Pour certain [401].  
 
     D. LOPE.
-O Ciel, que d'allegresse !  
+        O Ciel, que d'allegresse !  
 
     D. LOUYS.
 Adieu, mais prenez garde à ne parler de rien,  
@@ -2658,11 +2658,11 @@ Aussi pour confirmer ce que l'on croit de moy,
 Je ne perds point de temps.  
 
     PHILIPIN *donnant deux livres à D. Louys.*
-Ces livres en font foy,  
+        Ces livres en font foy,  
 Voyez.  
 
     D. LOUYS *ouvrant les deux livres.*
-Un Almanach⁎⁎, un traité de la Sphere⁎⁎.  
+        Un Almanach⁎⁎, un traité de la Sphere⁎⁎.  
 
     PHILIPIN.
 Il en disputeroit⁎ s'il estoit necessaire,  
@@ -2720,7 +2720,7 @@ Je me suis retiré pour en rire à mon aise.
 L'histoire est excellente.  
 
     D. LOUYS.
-Elle n'est pas mauvaise.  
+        Elle n'est pas mauvaise.  
 
     D. FERNAND.
 Que l'on trouve à Madrid d'impertinents menteurs !  
@@ -2737,7 +2737,7 @@ Demande à vous parler sans témoins un moment.
 Amy, retirez-vous dans cet apartement,  
 Ne s'agiroit-il point icy d'Astrologie⁎⁎ ?  
 
-    D. LOUYS. 
+    D. LOUYS.
 Pleust à Dieu, j'en aurois l'ame toute ravie⁎,  
 Aussi-bien⁎ vous faut-il par un effort d'esprit  
 En tromper deux ou trois pour vous mettre en credit.  
@@ -2769,7 +2769,7 @@ Je possede en effet quelque foible science⁎,
 Mais…  
 
     LEONOR.
-Non, non, c'est en vain que vous vous ravalez⁎,  
+        Non, non, c'est en vain que vous vous ravalez⁎,  
 Je sçay vostre merite⁎ et ce que vous valez,  
 Et que faire parler un corps privé de vie  
 N'est que le moindre effet de vostre Astrologie⁎⁎.  
@@ -2782,7 +2782,7 @@ Mais puis-je vous servir⁎ ? je m'en tiendrois heureux.
 Ah, D. Fernand.  
 
     D. FERNAND.
-D'où vient que vostre cœur soûpire⁎ ?  
+        D'où vient que vostre cœur soûpire⁎ ?  
 
     LEONOR.
 Vous pourriez m'espargner la honte de le dire.  
@@ -2838,7 +2838,7 @@ Mais cela fait aussi, ne me demandez rien,
 Je ne puis rien pour vous.  
 
     LEONOR.
-Quel malheur est le mien,  
+        Quel malheur est le mien,  
 Qu'il faille me resoudre à vivre infortunée⁎,  
 Ou rougir d'un recit où je suis condamnée.  
 J'ayme, et le digne objet⁎ qui regne sur mon cœur  
@@ -2888,7 +2888,7 @@ J'en suis bien informée et j'en ay bons garands. [423]
 J'en eusse osé jurer.  
 
     D. FERNAND.
-Croyez qu'on vous abuse⁎,  
+        Croyez qu'on vous abuse⁎,  
 L'impossibilité fait seule mon excuse,  
 Mon Art⁎ pour vous servir⁎ n'est point assez puissant  
 S'il faut faire à vos yeux paroistre un homme absent,  
@@ -2910,7 +2910,7 @@ Mais vous vous défiez peut-estre d'une femme,
 Et croyez qu'un secret soit mal seur [427]…  
 
     D. FERNAND.
-Non, Madame,  
+        Non, Madame,  
 Car je confesse enfin puisque vous m'en pressez,  
 Que pour vous obeïr j'en sçay peut-estre assez,  
 Et si j'ay dit d'abord qu'il m'estoit impossible  
@@ -2928,14 +2928,14 @@ A Sarragoce encor sa presence est utile, [429]
 Un procez l'y retient.  
 
     D. FERNAND *à Philipin.*
-A ce coup m'y voicy [430].  
+        A ce coup m'y voicy [430].  
 
     PHILIPIN *à D. Fernand.*
 Chacun croit depuis peu D. Juan party d'icy. [431]  
 Si c'estoit luy, Monsieur ?  
 
     D. FERNAND *à Philipin.*
-Cela pourroit bien estre,  
+        Cela pourroit bien estre,  
 Sans nous trop engager tâchons de le cognoistre⁎.  
 (à Leonor.)
 
@@ -2951,7 +2951,7 @@ Que nous sommes tous deux environ du mesme âge.
 Je ne le puis nier.  
 
     D. FERNAND *à Philipin.*
-C'est luy-mesme, courage⁎.  
+        C'est luy-mesme, courage⁎.  
 (à Leonor.)
 
 Peut-estre croirez-vous qu'avec peu de raison [434]  
@@ -2971,7 +2971,7 @@ Madame, il ne me reste aucun lieu de refus.
 Regardez-moy l'œil fixe.  
 
     LEONOR.
-O fille⁎fortunée⁎ !  
+        O fille⁎fortunée⁎ !  
 
     D. FERNAND.
 Monstrez-moy vostre main. Quel jour estes-vous née ?  
@@ -2980,11 +2980,11 @@ Monstrez-moy vostre main. Quel jour estes-vous née ?
 L'onziesme de Juillet.  
 
     D. FERNAND.
-Enfin vous voulez voir  
+        Enfin vous voulez voir  
 Cet amant⁎ si chery ?  
 
     LEONOR.
-S'il se peut dés ce soir.  
+        S'il se peut dés ce soir.  
 De ce desir mon ame est si fort possedée…  
 
     D. FERNAND.
@@ -3003,27 +3003,27 @@ Depesche, Philipin, de l'encre et du papier.
 Et bien, qu'en penses-tu ?  
 
     JACINTE.
-Madame, il est Sorcier⁎⁎,  
+        Madame, il est Sorcier⁎⁎,  
 Et si vous escrivez, c'est chose indubitable  
 Qu'il portera soudain [436] vostre billet au Diable,  
 On parlera de vous ce soir dans le Sabat⁎⁎,  
 Je l'en [437] refuserois. [438]  
 
     LEONOR.
-Ton cœur trop tost s'abat⁎,  
+        Ton cœur trop tost s'abat⁎,  
 Et pour mon interest tu te mets trop en peine⁎.  
 
     D. FERNAND *luy presentant la plume.*
 Je m'en vay vous dicter, écrivez.  
 
     PHILIPIN *à Jacinte pendan t que Leonor écrit.*
-Et bien, Reyne ?  
+        Et bien, Reyne ?  
 
     JACINTE.
 Que ton maistre est sçauant !  
 
     PHILIPIN.
-Bien plus qu'il ne paroit.  
+        Bien plus qu'il ne paroit.  
 
     JACINTE.
 Je pense qu'avec luy tu peux bien marcher droit,  
@@ -3033,7 +3033,7 @@ Puisqu'il lit dans les cœurs en voyant les personnes.
 Quand il en sçait le nom, c'est assez.  
 
     JACINTE.
-Tu m'estonnes,  
+        Tu m'estonnes,  
 Comment se peut cela n'en sçachant que le nom ?  
 
     PHILIPIN.
@@ -3043,7 +3043,7 @@ C'est que tousjours en poche⁎ il a quelque Démon⁎⁎.
 Un Démon⁎⁎ ! et tu sers⁎ un tel maistre ?  
 
     PHILIPIN.
-Qu'importe ?  
+        Qu'importe ?  
 Un Diable⁎⁎ quelquefois n'est pas mauvaise escorte [439],  
 J'entens⁎ un familier, ne t'épouvante pas.  
 
@@ -3054,14 +3054,14 @@ Vostre nom manque encore, il faut le mettre au bas.
 Est-ce assez ?  
 
     D. FERNAND.
-Ouy, Madame.  
+    Ouy, Madame.  
 
     LEONOR.
-Adieu, je vous le laisse,  
+        Adieu, je vous le laisse,  
 Souvenez-vous de moy.  
 
     D. FERNAND.
-Je tiendray ma promesse.  
+        Je tiendray ma promesse.  
 
     JACINTE *se cachant le visage.*
 Faut-il qu'il me regarde ! Helas, je meurs de peur.  
@@ -3150,11 +3150,11 @@ De ce soucy⁎, Monsieur, chargez vostre valet.
 Mais il le faut donner en main propre.  
 
     PHILIPIN.
-A luy-mesme,  
+        A luy-mesme,  
 J'en sçay bien les moyens.  
 
     D. FERNAND.
-Et par quel stratagême ?  
+        Et par quel stratagême ?  
 
     PHILIPIN.
 Il n'est pas grand, Monsieur, et vo us l'allez sçavoir.  
@@ -3200,20 +3200,20 @@ D. JUAN, PHILIPIN.
 Qui va là ?  
 
     PHILIPIN.
-J'y venois, Monsieur, pour vous attendre.  
+        J'y venois, Monsieur, pour vous attendre.  
 Leonor m'a donné ce billet à vous rendre,  
 Et vous prie instamment de la voir cette nuict,  
 Voylà quel est mon ordre.  
 
     D. JUAN.
-Où me vois-je reduit !  
+        Où me vois-je reduit !  
 Amy, de grace, écoute.  
 
 
 ### SCENE VI. [457]
 
     D. JUAN.
-Il fuit, il m'abandonne,  
+        Il fuit, il m'abandonne,  
 Et dans l'obscurité, je ne vois plus personne :  
 Quel Démon⁎⁎ ennemy, quel infidelle esprit  
 A pû lui découvrir que je suis à Madrid ?  
@@ -3254,7 +3254,7 @@ Et quel plaisir, Madame, aurez-vous de le voir ?
 Pourquoy le souhaiter ?  
 
     LEONOR.
-Tu ne le peux sçavoir  
+        Tu ne le peux sçavoir  
 Si tu ne sçais qu'Amour [461], ce charmant adversaire,  
 Luy-mesme est la raison de tout ce qu'il fait faire.  
 
@@ -3264,14 +3264,14 @@ Mais si c'est un Fantosme⁎⁎, un corps qui n'est que d'air,
 N'aurez-vous point de peur ?  
 
     LEONOR.
-Point du tout : mais on frappe.  
+        Point du tout : mais on frappe.  
 
     JACINTE.
 Vous pâlissez, Madame, un soûpir vous échape !  
 Vous croyez que c'est luy peut-estre ?  
 
     LEONOR.
-Aucunement,  
+        Aucunement,  
 Mais va voir ce que c'est. D'où vient ce changement ?  
 Quelle secrette horreur s'empare de mon ame ?  
 Je tremble, qu'ay-je à craindre !  
@@ -3282,14 +3282,14 @@ D. JUAN, LEONOR, JACINTE.
 
 
     JACINTE *laissant tom ber la lumiere qu'elle porte.*
-Ah Madame, ah Madame,  
+        Ah Madame, ah Madame,  
 C'est luy-mesme, sinon qu'il est beaucoup plus grand.  
 
     LEONOR *fuyant.* [463] 
 Ah Ciel, Ah !  
 
     D. JUAN.
-Cet accueil, Leonor, me surprend.  
+        Cet accueil, Leonor, me surprend.  
 
     LEONOR.
 Ma curiosité ne sert qu'à me confondre⁎,  
@@ -3327,11 +3327,11 @@ Que fais-tu là, Jacinte ?
     JACINTE *se retirant avec violence de dessous la table
   
 qu'elle fait tomber avec la lumiere qui s'esteint.*
-A l'ayde, je suis morte,  
+        A l'ayde, je suis morte,  
 C'en est fait.  
 
     D. JUAN *seul.*
-Qui jamais fut receu de la sorte ?  
+        Qui jamais fut receu de la sorte ?  
 Ay-je perdu l'esprit ? Suis-je moy-mesme encor ?  
 Jacinte, à m'écouter oblige Leonor.  
 Leonor. L'une et l'autre est [467] sourde à ma priere,  
@@ -3405,14 +3405,14 @@ Où le bien⁎ a manqué, d'estimer la noblesse [470],
 D'aymer un bon courage⁎… [471]  
 
     LUCRECE.
-Ah, jugez mieux de moy,  
+        Ah, jugez mieux de moy,  
 La vertu⁎ suffit seule à soustenir ma foy⁎,  
 Et je ne porte point un cœur assez esclave  
 Pour effacer par crainte un portrait qu'elle y grave,  
 J'y conserve le vostre.  
 
     D. JUAN.
-O trop heureux amant !  
+        O trop heureux amant !  
 
     LUCRECE.
 Pour gage de ma foy⁎ prenez ce Diamant,  
@@ -3441,7 +3441,7 @@ Et me fait differer⁎ mon voyage de Flandre.
 Je viens de Sarragoce.  
 
     LEONARD.
-Et que fait-là mon Gendre ?  
+        Et que fait-là mon Gendre ?  
 
     D. JUAN.
 D'un favorable accueil je luy suis obligé⁎,  
@@ -3486,21 +3486,21 @@ D'où ce pesant chagrin⁎ peut-il prendre son cours ?
 Tire-moy de soucy⁎.  
 
     LUCRECE.
-Ce n'est rien.  
+    Ce n'est rien.  
 
     LEONARD.
-Mais encore ?  
+        Mais encore ?  
 Ne me le cele⁎ point.  
 
     LUCRECE.
-Moy-mesme je l'ignore,  
+        Moy-mesme je l'ignore,  
 C'est peut-estre un effet de mon temperament⁎.  
 
     LEONARD.
 Ah, Lucrece !  
 
     LUCRECE. 
-S'il faut l'advoüer librement,  
+        S'il faut l'advoüer librement,  
 J'ay perdu quelque nippe⁎, et c'est la seule cause  
 Qui fait en mon humeur⁎ cette metamorphose.  
 
@@ -3508,20 +3508,20 @@ Qui fait en mon humeur⁎ cette metamorphose.
 Et bien, qu'as-tu perdu ?  
 
     LUCRECE.
-J'en suis toute en couroux.  
+        J'en suis toute en couroux.  
 
     LEONARD.
 Dy donc.  
 
     LUCRECE.
-Ce diamant que je tenois de vous.  
+        Ce diamant que je tenois de vous.  
 
     LEONARD.
 Ne t'inquiete point, un peu de patience,  
 On le retrouvera.  
 
     LUCRECE.
-J'en ay peu d'esperance ;  
+        J'en ay peu d'esperance ;  
 J'ay fait chercher par tout, sans doute il est perdu.  
 M'eust-il cousté le double, et me fust-il rendu !  
 
@@ -3535,7 +3535,7 @@ Ils me consoleroient fort peu de ce malheur,
 Celuy-là me plaisoit.  
 
     LEONARD.
-L'attachement estrange !  
+        L'attachement estrange !  
 Pour beau que fust un autre elle perdroit au change [478].  
 Va, quitte ce chagrin⁎, je vay tout maintenant⁎  
 Sur cet anneau perdu consulter D. Fernand.  
@@ -3545,23 +3545,23 @@ Pour excuser l'humeur⁎ qui vous rend si resveuse⁎,
 Vous avez tout gasté.  
 
     LUCRECE.
-Que je suis malheureuse !  
+        Que je suis malheureuse !  
 
     BEATRIX.
 Taisez-vous, il revient.  
 
     LEONARD.
-Dy moy, ce diamant,  
+        Dy moy, ce diamant,  
 De quand est-il perdu ?  
 
     LUCRECE.
-D'aujourd'huy seulement.  
+        D'aujourd'huy seulement.  
 
     LEONARD.
 L'heure ?  
 
     LUCRECE.
-Entre neuf et dix.  
+    Entre neuf et dix.  
 
 
 ### SCENE IV.
@@ -3569,7 +3569,7 @@ LUCRECE, BEATRIX.
 
 
     LUCRECE.
-Quel conseil⁎ dois-je prendre ?  
+        Quel conseil⁎ dois-je prendre ?  
 
     BEATRIX.
 De ce chien d'Astrologue⁎⁎ il s'en va tout apprendre,  
@@ -3613,7 +3613,7 @@ Mais qu'a pour vous encor ce bel Art⁎ d'incommode ?
 Dequoy vous plaignez-vous ?  
 
     D. FERNAND.
-De voir petits et grands  
+        De voir petits et grands  
 Me venir proposer cent doutes differents,  
 Je ne me vis jamais en pareil exercice ;  
 Et comme je répons seulement par caprice⁎,  
@@ -3637,7 +3637,7 @@ Que n'advoüyez-vous donc le tout avec franchise,
 Sans vous faire Astrologue⁎⁎ ?  
 
     D. FERNAND.
-Admirez ma sottise ;  
+        Admirez ma sottise ;  
 Car à dire le vray⁎ je ne me comprends pas,  
 De m'estre mis moy-mesme en un tel embarras,  
 Sans que la piece ait eu cause plus importante  
@@ -3722,7 +3722,7 @@ D. FERNAND, D. LOUYS.
 
 
     D. LOUYS.
-La pauvre Dame est toute sans malice⁎,  
+        La pauvre Dame est toute sans malice⁎,  
 Et de vostre réponse a grande joye au cœur.  
 
     D. FERNAND.
@@ -3732,11 +3732,11 @@ Que je l'endormirois d'un espoir ridicule. [491]
 Me voicy libre enfin.  
 
     D. LOUYS.
-Non pas trop libre encor,  
+        Non pas trop libre encor,  
 Et quelqu'un…  
 
     D. FERNAND.
-Ah, c'est là bien pis que Leonor.  
+        Ah, c'est là bien pis que Leonor.  
 
 
 ### SCENE VIII.
@@ -3747,7 +3747,7 @@ LEONARD, D. FERNAND, D. LOUYS.
 D. Fernand.  
 
     D. FERNAND.
-Ah, Monsieur, quel sujet vous améne ?  
+        Ah, Monsieur, quel sujet vous améne ?  
 
     LEONARD.
 Je viens pour vous prier de me tirer de peine⁎.  
@@ -3756,7 +3756,7 @@ Je viens pour vous prier de me tirer de peine⁎.
 Que sera-ce ?  
 
     LEONARD.
-Excusez si j'agis librement,  
+        Excusez si j'agis librement,  
 Et commence par là mon premier compliment⁎, [492]  
 Avecque mes amis c'est ainsi que je traite [493].  
 
@@ -3778,7 +3778,7 @@ Pour durer plus d'un jour la fourbe⁎ est trop grossiere⁎,
 Je vous l'avois bien dit.  
 
     LEONARD *à D. Louys, voyant resver⁎ D. Fernand.*
-Il resve⁎ à ma priere,  
+        Il resve⁎ à ma priere,  
 Sans doute il l'examine avec attention.  
 
     D. LOUYS *à Leonard.*
@@ -3848,7 +3848,7 @@ Par le faste insolent d'une vaine arrogance.
 Il passe bien son temps [496].  
 
     D. FERNAND.
-O le vieillard maudit !  
+        O le vieillard maudit !  
 Si j'estois en effet ce que l'on vous a dit,  
 Quand mesme [497] je voudrois me cacher à tout autre,  
 Je donnerois icy mon interest au vostre,  
@@ -3888,7 +3888,7 @@ Monsieur, l'autre ce soir vous doit estre rendu. [500]
 C'est prétexte, écoutez.  
 
     LEONARD *à D. Louys.*
-D'où vient qu'il me refuse ?  
+        D'où vient qu'il me refuse ?  
 
     D. LOUYS.
 Peut-estre de Magie⁎⁎ il craint qu'on ne l'accuse,  
@@ -3911,14 +3911,14 @@ Je sçay bien le respect que l'on doit à vostre âge,
 Mais l'affaire pressoit.  
 
     LEONARD.
-Vous me rendez confus :  
+        Vous me rendez confus :  
 Mais de grace avec moy ne dissimulez plus.  
 
     D. FERNAND.
 Si j'en sçavoit assez…  
 
     LEONARD.
-L'excuse est inutile,  
+        L'excuse est inutile,  
 Une bague perduë, est-il rien plus facile ? [503]  
 
     D. FERNAND.
@@ -3933,7 +3933,7 @@ De peur de vous fâcher⁎ je voulois m'en défendre,
 Mais vous m'y contraignez.  
 
     LEONARD.
-Rien ne me peut fâcher⁎.  
+        Rien ne me peut fâcher⁎.  
 
     D. FERNAND.
 Oyez donc ce qu'en vain j'ay voulu vous cacher,  
@@ -3959,7 +3959,7 @@ D. FERNAND, D. LOUYS, PHILIPIN.
 
 
     D. LOUYS.
-Sans Philipin il vous la bailloit belle [507].  
+        Sans Philipin il vous la bailloit belle [507].  
 
     D. FERNAND.
 Mais rencontrant D. Juan, s'il faut qu'il le querelle,  
@@ -3982,7 +3982,7 @@ De son fidelle amour la juste recompense.
 Mais quelqu'un entre encor.  
 
     D. LOUYS.
-Quel est ce bon vieillard ?  
+        Quel est ce bon vieillard ?  
 
     D. FERNAND.
 Depuis plus de trente ans il sert⁎ chez Leonard.  
@@ -3996,18 +3996,18 @@ D. FERNAND, D. LOUYS, MENDOCE, PHILIPIN.
 Ah, Mendoce.  
 
     MENDOCE.
-Ah, Monsieur, en faveur de Lucrece,  
+        Ah, Monsieur, en faveur de Lucrece,  
 Lucrece nostre bonne et commune maistresse [510],  
 Si j'osois vous prier.  
 
     D. FERNAND.
-Parle, acheve, dequoy ?  
+        Parle, acheve, dequoy ?  
 
     MENDOCE.
 De peu de chose.  
 
     D. FERNAND.
-Dy, je feray tout pour toy.  
+        Dy, je feray tout pour toy.  
 
     MENDOCE.
 Las de servir⁎ tousjours, il m'a pris une envie  
@@ -4034,11 +4034,11 @@ Philipin aura soing de ce qu'il faudra faire.
 Monsieur, je m'en défie⁎.  
 
     D. FERNAND.
-Il n'ose me déplaire,  
+        Il n'ose me déplaire,  
 N'en apprehende rien.  
 
     D. LOUYS.
-Il est tout satisfait.  
+        Il est tout satisfait.  
 
     D. FERNAND.
 Allons en rire un peu dedans mon cabinet ;  
@@ -4062,11 +4062,11 @@ Depuis que je le sers⁎, je suis demy Sorcier⁎⁎.
 Mais est-il si sçavant ?  
 
     PHILIPIN.
-Plus qu'on ne s'imagine,  
+        Plus qu'on ne s'imagine,  
 C'est un terrible esprit.  
 
     MENDOCE.
-Il en a bien la mine⁎.  
+        Il en a bien la mine⁎.  
 
     PHILIPIN.
 On diroit à l'ouyr quand il parle d'autruy,  
@@ -4106,7 +4106,7 @@ Quand j'avois fait cela j'estois tout consolé.
 Le mien est indulgent. [519]  
 
     MENDOCE.
-Facile, ou difficile,  
+        Facile, ou difficile,  
 En une belle nuit ma foy je ferois gille [520].  
 
     PHILIPIN.
@@ -4149,13 +4149,13 @@ Empesche si tu peux qu'il ne l'en advertisse.
 As-tu bien dérobé ?  
 
     MENDOCE.
-Peu de chose à la fois.  
+        Peu de chose à la fois.  
 
     PHILIPIN.
 Mais souvent ?  
 
     MENDOCE.
-Environ vingt ou trente par mois.  
+        Environ vingt ou trente par mois.  
 
     PHILIPIN.
 A te dire le vray⁎, je n'y sçay qu'un remede.  
@@ -4176,7 +4176,7 @@ Estant en mon pays je ne le craindrois gueres,
 Mais c'est bien loing d'icy.  
 
     PHILIPIN.
-Donne ordre à tes affaires,  
+        Donne ordre à tes affaires,  
 Je t'y rends aujourd'huy quelque loing que ce soit,  
 Mais il te faut munir en l'air contre le froid ;  
 Là soufflent certains vents ennemis de nature [533],  
@@ -4187,18 +4187,18 @@ Mais le voyage est fait en moins d'une heure, ou deux.
 Et la monture ?  
 
     PHILIPIN.
-Douce ainsi que tu la veux.  
+        Douce ainsi que tu la veux.  
 Va cependant⁎ m'attendre au jardin de ton maistre,  
 Je m'y rendray bien-tost.  
 
     MENDOCE.
-Que ce soit sans peut-estre.  
+        Que ce soit sans peut-estre.  
 
     PHILIPIN.
 Soit tout prest à partir.  
 
     MENDOCE.
-Aussi [534], si tu n'y viens [535] ?  
+        Aussi [534], si tu n'y viens [535] ?  
 
     PHILIPIN.
 Je m'y rendray, te dis-je. Ah, vieux loup, je te tiens.  < FIN DU QUATRIESME ACTE. >
@@ -4242,12 +4242,12 @@ LEONARD, D. JUAN.
 Je vous cherchois, D. Juan. [538]  
 
     D. JUAN.
-Mes vœux⁎ sont satisfaits,  
+        Mes vœux⁎ sont satisfaits,  
 Et l'heur⁎ de vous servir⁎ fait mes plus grands souhaits,  
 Que me commandez-vous ?  
 
     LEONARD *bas.*
-Ah, que c'est grand dommage  
+        Ah, que c'est grand dommage  
 Que cette lâcheté⁎ noircisse un bon courage⁎,  
 Et qu'un homme sorty d'un sang dont on fait cas  
 L'ose deshonorer par un vice si bas !  
@@ -4276,7 +4276,7 @@ Qu'en peu de temps le Sort⁎ renverse mes desseins !
 Le voilà tout confus.  
 
     D. JUAN *bas.*
-Que je suis miserable⁎ !  
+        Que je suis miserable⁎ !  
 
     LEONARD.
 Je ne dis pas, D. Juan, que vous soyez [540] coupable, [541]  
@@ -4292,7 +4292,7 @@ Cessez de prendre soing⁎ de vous justifier,
 Vous l'estes avec moy. [543]  
 
     D. JUAN.
-Je ne le puis nier,  
+        Je ne le puis nier,  
 (Il luy rend le diamant.)
 
 J'ay vostre diamant, et veux bien vous le rendre :  
@@ -4371,11 +4371,11 @@ D. Juan, je vous promets, quoy que vous m'ayez dit…
 Vostre fille, Monsieur ?  
 
     LEONARD.
-Le secret, il suffit,  
+        Le secret, il suffit,  
 Adieu.  
 
     D. JUAN *seul.*
-Vit-on jamais une telle surprise ? [551]  
+        Vit-on jamais une telle surprise ? [551]  
 A luy confesser tout luy-mesme il m'authorise,  
 Et quand il sçait le feu dont je me sens brûler,  
 Il promet de se taire, et de n'en point parler ;  
@@ -4389,7 +4389,7 @@ D. JUAN, LEONOR, JACINTE.
 
 
     LEONOR.
-Arrestez un moment,  
+        Arrestez un moment,  
 D. Juan, et recevez du moins⁎ mon compliment⁎, [552]  
 La civilité seule à cela vous convie.  
 Une autre sous ses loix tient vostre ame asservie,  
@@ -4453,7 +4453,7 @@ Pouvez-vous ignorer qu'il adore Lucrece ?
 D. Lope vous l'a dit.  
 
     LEONOR.
-D. Lope m'est suspect,  
+        D. Lope m'est suspect,  
 Tu sçais pour son amy qu'il n'a plus de respect,  
 Qu'il me parle d'amour sans craindre ma cholere,  
 Le raport⁎ d'un Rival est rarement sincere,  
@@ -4497,7 +4497,7 @@ Un violent amour de son cœur est le maistre.
 Il me quitte ?  
 
     D. LOPE.
-Peut-estre il vous quitte à regret,  
+        Peut-estre il vous quitte à regret,  
 Mais par son propre adveu⁎ je trahis son secret.  
 
     LEONOR.
@@ -4510,7 +4510,7 @@ Encor tout maintenant⁎ il vient d'entrer chez elle. [564]
 Puis-je m'en asseurer ?  
 
     D. LOPE.
-Je l'ay veu de mes yeux.  
+        Je l'ay veu de mes yeux.  
 
     LEONOR.
 O le plus lâche amant qui soit dessous les Cieux !  
@@ -4519,10 +4519,10 @@ Qu'il ne soit plus pour moy qu'un objet⁎ de vangeance.
 D. Lope, m'aymez-vous ?  
 
     D. LOPE.
-Madame !  
+    Madame !  
 
     LEONOR.
-Suivez-moy.  
+        Suivez-moy.  
 Leonor est à vous, je vous promets ma foy⁎,  
 Mais pour servir ma hayne, et vanger mon injure⁎,  
 Je ne vous la promets que devant ce parjure,  
@@ -4552,7 +4552,7 @@ PHILIPIN, MENDOCE.
 
 
     PHILIPIN.
-Et bien, es-tu tout prest ?  
+        Et bien, es-tu tout prest ?  
 
     MENDOCE.
 Tu vois, la grosse cappe avec de bonnes bottes.  
@@ -4561,7 +4561,7 @@ Tu vois, la grosse cappe avec de bonnes bottes.
 Mets-toy dedans ce rond. [569]  
 
     MENDOCE.
-Qu'est-ce que tu marmotes [570] ?  
+        Qu'est-ce que tu marmotes [570] ?  
 
     PHILIPIN.
 C'est desja fait, il reste à te bander les yeux.  
@@ -4570,10 +4570,10 @@ C'est desja fait, il reste à te bander les yeux.
 Pourquoy !  
 
     PHILIPIN.
-Laisse-moy faire.  
+    Laisse-moy faire.  
 
     MENDOCE.
-En voleray-je mieux ?  
+        En voleray-je mieux ?  
 
     PHILIPIN.
 Tu pourrois t'éblouyr, et tomber cul sur teste [571].  
@@ -4582,21 +4582,21 @@ Tu pourrois t'éblouyr, et tomber cul sur teste [571].
 Bande donc [572], mais dy-moy, la monture ?  
 
     PHILIPIN.
-Elle est preste,  
+        Elle est preste,  
 Je n'ay rien qu'à siffler [573], on me l'amenera.  
 
     MENDOCE.
 Une mule ?  
 
     PHILIPIN.
-Une mule.  
+    Une mule.  
 
     MENDOCE.
-Et qui me conduira ?  
+        Et qui me conduira ?  
 Si j'allois m'égarer ?  
 
     PHILIPIN.
-O la vision bleuë [574] !  
+        O la vision bleuë [574] !  
 Quelque Diable Folet⁎⁎ suyvra ta mule en queuë [575].  
 
     MENDOCE.
@@ -4617,7 +4617,7 @@ Il en est de jaloux, et mesme de cocus. [578]
 De cocus ?  
 
     PHILIPIN.
-Sans cela d'où leur viendroient les cornes ?  
+        Sans cela d'où leur viendroient les cornes ?  
 Il en est de lourdauts⁎, de hargneux, et de mornes⁎,  
 Il en est d'enjoüez⁎, il en est de grondants,  
 De danceurs sur la corde et d'arracheurs de dents,  
@@ -4631,7 +4631,7 @@ Mais c'est trop s'arrester, voicy le mien venu,
 Monte.  
 
     MENDOCE.
-Débande-moy, pour voir s'il est cornu,  
+        Débande-moy, pour voir s'il est cornu,  
 J'ay curiosité de voir un Diable⁎⁎ en face.  
 
     PHILIPIN.
@@ -4641,7 +4641,7 @@ Suffit qu'il te conduise.
 
 
     MENDOCE *monte* [581] *pendant que Philipin le lie.*
-Ah, Monsieur le Lutin⁎⁎,  
+        Ah, Monsieur le Lutin⁎⁎,  
 Ne m'abandonne pas au milieu du chemin,  
 Tu me ferois donner bien-tost du nez en terre [582].  
 
@@ -4649,17 +4649,17 @@ Tu me ferois donner bien-tost du nez en terre [582].
 Tout ira comme il faut.  
 
     MENDOCE.
-Au Diable comme il serre,  
+        Au Diable comme il serre,  
 Relâche tant soit peu [583].  
 
     PHILIPIN.
-Te voilà bien ainsi.  
+        Te voilà bien ainsi.  
 
     MENDOCE.
 Qui me détachera ?  
 
     PHILIPIN.
-N'en sois point en soucy⁎,  
+        N'en sois point en soucy⁎,  
 Et sçache seulement qu'alors que l'on arrive  
 L'on entend une voix et dolente⁎ et plaintive,  
 En suite de grands cris, mais va, quitte ce lieu,  
@@ -4669,7 +4669,7 @@ O comme tu fens l'air !
 
 
     MENDOCE.
-Je sens bien que je vole,  
+        Je sens bien que je vole,  
 Car à peine j'entens le son de sa parole.  
 Quel bonheur ! je verray mon païs [584] aujourd'huy.  
 
@@ -4717,7 +4717,7 @@ Que Lucrece est à vous peut-estre dés demain. [591]
 O charmante⁎ parole !  
 
     LUCRECE.
-Enfin je vous la donne [592]  
+        Enfin je vous la donne [592]  
 D'estre à vous pour jamais, ou de n'estre à personne.  
 
     D. JUAN.
@@ -4734,20 +4734,20 @@ Ainsi le Ciel pour vous en miracles fertile…
 Madame.  
 
     LUCRECE.
-Que veux-tu ? quelqu'un vient-il icy ?  
+        Que veux-tu ? quelqu'un vient-il icy ?  
 
     BEATRIX.
 Ouy, nostre bon vieillard, et l'Astrologue aussi,  
 Ils entrent au [594] jardin.  
 
     LUCRECE.
-Quel obstacle à ma joye !  
+        Quel obstacle à ma joye !  
 
     D. JUAN.
 Ne puis-je m'échaper ?  
 
     LUCRECE.
-Non pas sans qu'on vous voye,  
+        Non pas sans qu'on vous voye,  
 Cachez-vous promptement, et croyez qu'en tout cas,  
 S'il faut parler pour vous, je ne me tairay pas.  
 
@@ -4760,7 +4760,7 @@ LEONARD, D. FERNAND, LUCRECE, BEATRIX, MENDOCE, PHILIPIN.
 Que ce jardin est beau !  
 
     LEONARD.
-C'est l'amour du bon-homme⁎ [595],  
+        C'est l'amour du bon-homme⁎ [595],  
 Et comme je m'y plais, tout mon soin⁎ s'y consomme [596]. [597]  
 
     D. FERNAND.
@@ -4786,7 +4786,7 @@ Vous m'obligez⁎, Monsieur, plus que je ne merite.
 Que nous veut cette Dame ?  
 
     MENDOCE. [599]
-O que je vole viste !  
+        O que je vole viste !  
 Je passe sur un lieu de l'autre differend,  
 Et le bruit qu'on y fait est de beaucoup plus grand.  
 
@@ -4809,14 +4809,14 @@ Faites-m'en la raison [601] et vangez vostre honneur⁎.
 O malheur impréveu !  
 
     MENDOCE. [602]
-J'entens la voix plaintive,  
+        J'entens la voix plaintive,  
 Sans doute à mon pays c'est signe [603] que j'arrive.  
 
     LEONARD *regardant Lucrece.*
 Un homme icy caché !  
 
     LUCRECE.
-Dequoy m'accusez-vous ?  
+        Dequoy m'accusez-vous ?  
 
     LEONARD.
 Sois sans crime, autrement redoute mon couroux.  
@@ -4825,7 +4825,7 @@ Il faut chercher par tout, allons, venez, Madame.
 Voyons tout le jardin.  
 
     LEONOR.
-Seroit-il point icy ? [604]  
+        Seroit-il point icy ? [604]  
 
 
 ### SCENE XI.
@@ -4839,7 +4839,7 @@ Ne cherchez plus D. Juan, Madame, le voicy. [605]
 Ingrat⁎, traistre.  
 
     D. JUAN.
-Ah, cessez de me faire une injure⁎  
+        Ah, cessez de me faire une injure⁎  
 En me donnant les noms d'ingrat⁎ et de parjure.  
 
     LEONARD.
@@ -4855,7 +4855,7 @@ On perd icy l'esprit, ou je n'y cognoy rien.
 Pour qui le prenez-vous ?  
 
     LEONARD.
-Madame, il m'entend⁎ bien.  
+        Madame, il m'entend⁎ bien.  
 
     D. JUAN.
 Si je vous entends⁎ bien, certes [606] au moins⁎ j'ignore  
@@ -4883,15 +4883,15 @@ J'ay donné mon estime aux vertus⁎ de D. Juan. [609]
 De grace, D. Fernand.  
 
     LEONOR.
-Il ne le faut pas croire,  
+        Il ne le faut pas croire,  
 Il ne fait que fourber⁎.  
 
     LEONARD.
-Pour conserver ma gloire⁎  
+        Pour conserver ma gloire⁎  
 Que faut-il que je fasse ?  
 
     D. FERNAND.
-Ouvrez enfin les yeux,  
+        Ouvrez enfin les yeux,  
 Et ne resistez plus aux volontez des Cieux.  
 Je vous en ay tantost⁎ desja dit ma pensée,  
 Que d'un semblable Hymen elle estoit menacée :  
@@ -4937,16 +4937,16 @@ J'entends force [616] grands crys, Lutin⁎⁎, débande-moy.
 Quel spectacle est-ce-cy.  
 
     PHILIPIN *à D. Fernand.*
-La tromperie est bonne.  
+        La tromperie est bonne.  
 C'est nostre voyageur, que rien ne vous estonne,  
 Il se croit desja loin.  
 
     D. FERNAND.
-O qu'il est ingenu !  
+        O qu'il est ingenu !  
 Il faut le deslier.  
 
     MENDOCE *descendu de la palissade.*
-Enfin je suis venu [617],  
+        Enfin je suis venu [617],  
 Et je ne fis jamais voyage tant à l'aise [618].  
 O ma terre natale, il faut que je te baise.  
 
@@ -4954,7 +4954,7 @@ O ma terre natale, il faut que je te baise.
 C'est Mendoce, est-il fou ?  
 
     MENDOCE.
-Que mes yeux sont ravis⁎ !  
+        Que mes yeux sont ravis⁎ !  
 Vous estes donc aussi, Monsieur, en mon pays !  
 Mais pour vous y porter, ostez-moy de scrupule⁎,  
 Le Diable vous a-t'il aussi fourny de [619] mule ?  
@@ -4964,7 +4964,7 @@ As-tu l'esprit troublé, c'est icy mon jardin,
 Ne le cognois⁎-tu pas ?  
 
     MENDOCE.
-Ah, traistre Philipin.  
+        Ah, traistre Philipin.  
 (Il court apres Philipin qui s'enfuit.) [620]
 
 
@@ -4972,7 +4972,7 @@ Ah, traistre Philipin.
 Le charme⁎⁎ t'a manqué.  
 
     LEONARD.
-Sont-ils fous l'un et l'autre ?  
+        Sont-ils fous l'un et l'autre ?  
 
     D. FERNAND.
 Excusez un valet qui s'est joüé⁎ du vostre.  
@@ -4987,7 +4987,7 @@ Vous ne me cognoissez encore qu'à demy.
 Vostre Art⁎ si merveilleux…  
 
     D. FERNAND.
-Brisons-là je vous prie,  
+        Brisons-là je vous prie,  
 Je vous entretiendray⁎ de mon Astrologie⁎⁎,  
 Mais il faut que ce soit avec plus de loisir [621].  
 

@@ -124,7 +124,7 @@ Pour ce Grand Roy redoublons nos efforts,
 Preparons nos plus doux accords.
 FIN DU PROLOGUE
 
-**** *book_ *id_body-5-1 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte101 *act_acte1 *date_1679 *creator_corneille
 
 -*who_stenobee
 Non, les soûlevements d'une Ville rebelle
@@ -191,7 +191,7 @@ Et je sens qu'avec vous il est d'intelligence.
 Espoir, qui séduisez les Amans mal-heureux,
 Pourquoy suspendre ma vangeance ?
 
-**** *book_ *id_body-5-2 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte102 *act_acte1 *date_1679 *creator_corneille
 
 -*who_philonoe
 Reyne, vous sçavez qu'en ce jour
@@ -230,7 +230,7 @@ De ses premiers regards.
 Ah ! C'est Bellerophon.
 
 -*who_philonoe
-C'est luy, je le confesse,
+      C'est luy, je le confesse,
 Ne condamnez point ma tendresse⁎.
 Quand mille exploits fameux parlent pour un Amant,
 Peut-on résister un moment ?
@@ -241,7 +241,7 @@ Et les Solymes enchaînez ;
 Il possède mon cœur, je puis tout sur son ame.
 Reyne, favorisez une si belle flâme⁎.
 
-**** *book_ *id_body-5-3 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte103 *act_acte1 *date_1679 *creator_corneille
 
 -*who_stenobee
 Et je croyois qu'aucune ardeur⁎
@@ -275,7 +275,7 @@ Il m'aime, & si sur luy je veux jeter les yeux…
 -*who_argie
 Le Roy vient, contraignez l'ennuy⁎ qui vous accable.
 
-**** *book_ *id_body-5-4 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte104 *act_acte1 *date_1679 *creator_corneille
 
 -*who_iobate
 Contre Bellerophon, j'ay fait jusqu'à ce jour
@@ -294,7 +294,7 @@ Aujourd'huy de ma main elle attend un Espoux,
 C'est luy que je choisis.
 
 -*who_stenobee
-Ciel, que me dites-vous ?
+      Ciel, que me dites-vous ?
 Choisir Bellerophon ! & qui l'auroit pû croire ?
 
 -*who_iobate
@@ -330,7 +330,7 @@ Je ne vous dis plus rien, mais vous devez songer
 Que si vous negligez le soin de ma vangeance,
 Je suis Reyne, & puis me vanger.
 
-**** *book_ *id_body-5-5 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte105 *act_acte1 *date_1679 *creator_corneille
 
 -*who_iobate
 Venez, venez, goûter les doux fruits de la gloire,
@@ -403,7 +403,7 @@ Un sort si plein de charmes
 Met nôtre gloire enfin en seureté.
 FIN DU PREMIER ACTE.
 
-**** *book_ *id_body-6-1 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte201 *act_acte2 *date_1679 *creator_corneille
 
 -*who_philonoe
 Amour, mes vœux sont satisfaits,
@@ -443,7 +443,7 @@ Du plus grand des Heros⁎ ;
 Si la Lycie⁎ est triomphante,
 C'est à luy qu'elle doit sa gloire & son repos.
 
-**** *book_ *id_body-6-2 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte202 *act_acte2 *date_1679 *creator_corneille
 
 -*who_bellerophon
 Princesse, tout conspire à couronner ma flâme⁎,
@@ -479,7 +479,7 @@ Je vous laisse le soin d'entretenir la Reyne.
 -*who_bellerophon
 Quel cruel supplice pour moy !
 
-**** *book_ *id_body-6-3 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte203 *act_acte2 *date_1679 *creator_corneille
 
 -*who_stenobee
 Ma présence icy te fait peine.
@@ -512,7 +512,7 @@ Vous n'avez espargné ma gloire⁎ ny ma vie,
 Et je ne dois rien écouter
 De ma plus mortelle Ennemie.
 
-**** *book_ *id_body-6-4 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte204 *act_acte2 *date_1679 *creator_corneille
 
 -*who_stenobee
 Tu me quittes, cruel⁎ ! arreste. Il fuit, helas !
@@ -532,7 +532,7 @@ Qu'on vous brave, qu'on vous dédaigne ?
 Non, il faut dans son sang que mon amour s'éteigne.
 Perdons⁎ tout , faisons tout perir.
 
-**** *book_ *id_body-6-5 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte205 *act_acte2 *date_1679 *creator_corneille
 
 -*who_stenobee
 Vous me jurez sans cesse une amour eternelle.
@@ -587,7 +587,7 @@ Fuyez, Reyne, fuyez ;
 Vos yeux seroient trop effrayez
 De l'horreur qu'en ces lieux mes Charmes⁎ vont répandre.
 
-**** *book_ *id_body-6-6 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte206 *act_acte2 *date_1679 *creator_corneille
 
 -*who_amisodar
 Que ce jardin se change en Desert affreux.
@@ -597,7 +597,7 @@ Redoublez, s'il se peut, le silence des Ombres.
 Et vous, à me servir employez tant de fois,
 Ministres de mon Art, accourez à ma voix.
 
-**** *book_ *id_body-6-7 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte207 *act_acte2 *date_1679 *creator_corneille
 
 -*who_magiciens
 Parle, nous voilà prests, tout nous sera possible.
@@ -661,7 +661,7 @@ Les Gouffres nous en sont ouverts.
 Tout s'abysme, & la Terre se referme.
 FIN DU SECOND ACTE.
 
-**** *book_ *id_body-7-1 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte301 *act_acte3 *date_1679 *creator_corneille
 
 -*who_argie
 Que vous faites couler & de sang & de larmes
@@ -693,7 +693,7 @@ N'en fait pas moins sentir son tyrannique empire.
 Impuissante vangeance ! inutile secours !
 Dequoy peux-tu servir quand on aime toûjours ?
 
-**** *book_ *id_body-7-2 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte302 *act_acte3 *date_1679 *creator_corneille
 
 -*who_iobate
 Que de mal-heurs accablent la Lycie⁎ ?
@@ -718,7 +718,7 @@ Qui desole tout vostre Empire.
 Que sa valeur⁎ en delivre ces lieux,
 Puisque son crime vous attire.
 
-**** *book_ *id_body-7-3 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte303 *act_acte3 *date_1679 *creator_corneille
 
 -*who_bellerophon
 Vous venez consulter l'Oracle d'Apollon⁎ ?
@@ -750,7 +750,7 @@ Plus le Combat coûte au Vainqueur,
 Plus la Victoire est éclatante,
 Et c'est ce qui flatte un grand Cœur.
 
-**** *book_ *id_body-7-4 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte304 *act_acte3 *date_1679 *creator_corneille
 
 -*who_philonoe
 Seigneur, à vôtre voix je viens joindre la mienne,
@@ -781,7 +781,7 @@ Améne quelquefois le calme le plus doux.
 Le Temple s'ouvre ; entrons, & par un juste hommage
 Meritons que le Ciel appaise son couroux.
 
-**** *book_ *id_body-7-5 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte305 *act_acte3 *date_1679 *creator_corneille
 
 -*who_choeur_peuple
 Le mal-heur qui nous accable
@@ -900,7 +900,7 @@ Je plains vos déplaisirs, comme vous j'en soûpire,
 Mais rien n'est preferable au repos de ces lieux ;
 Soûmettons-nous aux Dieux.
 
-**** *book_ *id_body-7-6 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte306 *act_acte3 *date_1679 *creator_corneille
 
 -*who_bellerophon
 Dans quel accablement cet Oracle me laisse !
@@ -937,7 +937,7 @@ Quel prix d'une ardeur⁎ si fidelle !
 N'y pensons plus.
 
 -*who_bellerophon
-Quoy ? vous pourrez, cruelle,
+      Quoy ? vous pourrez, cruelle,
 Engager ailleurs votre foy ?
 
 -*who_philonoe
@@ -970,7 +970,7 @@ Aimons nous malgré nos mal-heurs,
 Ce n'est pas au Destin à separer les cœurs.
 FIN DU TROISIEME ACTE.
 
-**** *book_ *id_body-8-1 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte401 *act_acte4 *date_1679 *creator_corneille
 
 -*who_amisodar
 Quel Spectacle charmant pour mon cœur amoureux !
@@ -989,7 +989,7 @@ Qui couste tant de sang, de larmes, & de cris,
 Quand on obtient ce qu'on aime,
 Qu'importe à quel prix ?
 
-**** *book_ *id_body-8-2 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte402 *act_acte4 *date_1679 *creator_corneille
 
 -*who_argie
 Il faut, pour contenter la Reyne,
@@ -1034,7 +1034,7 @@ Le Monstre approche, éloignez-vous.
 -*who_argie
 Ciel, contre sa fureur⁎ embrasse ma défense.
 
-**** *book_ *id_body-8-3 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte403 *act_acte4 *date_1679 *creator_corneille
 
 -*who_napee_dryade
 Plaignons, plaignons les maux qui desolent ces lieux
@@ -1056,13 +1056,13 @@ Tout tarit.
 Quel excés d'ennuis⁎ !
 
 -*who_napee
-Quelles peines !
+      Quelles peines !
 
 -*who_napee_dryade
 Plaignons, plaignons les maux qui désolent ces lieux
 Les pleurs qu'ils font couler devroient toucher les Dieux.
 
-**** *book_ *id_body-8-4 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte404 *act_acte4 *date_1679 *creator_corneille
 
 -*who_dieux_bois
 Les Forests sont en feu, le ravage s'augmente,
@@ -1090,7 +1090,7 @@ Que de sujets de larmes !
 Pour adoucir le Ciel qui voit tant de malheurs,
 Joignons nos soûpirs & nos pleurs.
 
-**** *book_ *id_body-8-5 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte405 *act_acte4 *date_1679 *creator_corneille
 
 -*who_iobate
 Ah Prince ! où vous emporte une ardeur⁎ trop guerriere ?
@@ -1136,7 +1136,7 @@ Ah, que je crains pour vous ce fatal desespoir !
 Adieu, quand le peril ne vous peut émouvoir,
 Je dois vous cacher ma foiblesse.
 
-**** *book_ *id_body-8-6 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte406 *act_acte4 *date_1679 *creator_corneille
 
 -*who_bellerophon
 Heureuse mort, tu vas me secourir
@@ -1146,7 +1146,7 @@ Mais je m'en fais un bien supréme.
 Quand on a perdu ce qu'on aime,
 Il ne reste plus qu'à mourir.
 
-**** *book_ *id_body-8-7 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte407 *act_acte4 *date_1679 *creator_corneille
 
 -*who_pallas
 Espere en ta valeur⁎, Bellerophon, espere,
@@ -1173,7 +1173,7 @@ Le Monstre est défait. Quelle gloire⁎ !
 Bellerophon remporte la victoire.
 FIN DU QUATRIEME ACTE.
 
-**** *book_ *id_body-9-1 *act_acte5 *date_1679 *creator_corneille
+**** *book_ *id_acte501 *act_acte5 *date_1679 *creator_corneille
 
 -*who_iobate
 Preparez vos chants d'allegresse,
@@ -1224,7 +1224,7 @@ La valeur & l'amour font toûjours des miracles.
 O jour pour la Lycie⁎ à jamais glorieux,
 Où le Sang de nos Rois s'unit au Sang des Dieux !
 
-**** *book_ *id_body-9-2 *act_acte5 *date_1679 *creator_corneille
+**** *book_ *id_acte502 *act_acte5 *date_1679 *creator_corneille
 
 -*who_iobate
 Venez vous partager l'allegresse publique ?
@@ -1252,7 +1252,7 @@ N'a versé que pour moy le sang de vos Sujets.
 Le Traistre ! qu'on l'arreste.
 
 -*who_stenobee
-Il s'est mis par la fuite
+      Il s'est mis par la fuite
 A couvert de vostre poursuite ;
 Mais il traisne avec luy son crime & son amour.
 
@@ -1282,12 +1282,12 @@ J'expire.
 Quel excés de fureur⁎ ?
 
 -*who_iobate
-Sa mort en est le prix,
+      Sa mort en est le prix,
 Mais oublions & son crime & sa peine,
 Voicy Bellerophon que Pallas nous ramène,
 Son Triomphe⁎ doit seul occuper nos esprits.
 
-**** *book_ *id_body-9-3 *act_acte5 *date_1679 *creator_corneille
+**** *book_ *id_acte503 *act_acte5 *date_1679 *creator_corneille
 
 -*who_pallas
 Connoissez⁎ le Fils de Neptune

@@ -1,5 +1,5 @@
 ---
-identifier: corneille_baron  
+identifier: corneille-thomas_baron-albikrac  
 creator: Corneille, Thomas  
 date: 1667  
 title: Le Baron d'Albikrac. Comédie  
@@ -614,7 +614,7 @@ T. CORNEILLE.
  – LA MONTAGNE,Valet d'Oronte.
  – CASCARET,Laquais de la Tante.
 La scene est à Paris.
-< LE BARON D’ALBIKRAC, >< COMÉDIE. >
+
 
 
 ## ACTE I.
@@ -661,18 +661,18 @@ Mais que doit-il attendre enfin, que luy diray-je ?
 Que j'ay leu son billet.  
 
     PHILIPIN.
-Le rare privilege !  
+        Le rare privilege !  
 N'aurons-nous rien de plus ?  
 
     ANGELIQUE.
-Quoy, tu n'es pas content ?  
+        Quoy, tu n'es pas content ?  
 
     PHILIPIN.
 La plus indifferente en feroit bien autant.  
 Ce n'est que sçavoir lire.  
 
     ANGELIQUE.
-Un jour viendra peut-estre…  
+        Un jour viendra peut-estre…  
 
     PHILIPIN.
 Un peut-estre n'est point ce que cherche mon Maistre.  
@@ -686,33 +686,33 @@ ANGELIQUE, LYSETTE, PHILIPIN.
 Et vite.  
 
     ANGELIQUE.
-Qu'est-ce ?  
+    Qu'est-ce ?  
 
     LYSETTE.
-Et tost.  
+    Et tost.  
 
     ANGELIQUE.
-Ma Tante ?  
+    Ma Tante ?  
 
     LYSETTE.
-Détalons,  
+        Détalons,  
 La voila qui descend, elle est à mes talons.  
 Par le petit degré gagnez le haut.  
 
     PHILIPIN.
-Lysette,  
+        Lysette,  
 Obtiens nous [34]…  
 
     LYSETTE.
-Son Tailleur sur l'escalier l'arreste,  
+        Son Tailleur sur l'escalier l'arreste,  
 Sans cela…  
 
     PHILIPIN.
-Mais au moins, en trois ou quatre mots  
+        Mais au moins, en trois ou quatre mots  
 Qu'elle déclare…  
 
     ANGELIQUE.
-Adieu.  
+    Adieu.  
 
 
 ### SCENE III.
@@ -720,7 +720,7 @@ PHILIPIN, LYSETTE.
 
 
     PHILIPIN.
-C'est bien dit. Ah, les sots  
+        C'est bien dit. Ah, les sots  
 Qui sans rien attraper avec un soin extrême  
 Sont un an à poursuivre un chetif, je vous aime !  
 Prétend-elle toûjours ainsi se défier ?  
@@ -748,7 +748,7 @@ Son radoucissement [38] tire un piteux hommage,
 Qui lent à s'avancer [39]…  
 
     PHILIPIN.
-Pour de si vieux appas⁎  
+        Pour de si vieux appas⁎  
 Dy moy, quelle douceur⁎ pourroit doubler le pas [40] ?  
 A soixante et dix ans ! l'agreable mignonne !  
 
@@ -756,7 +756,7 @@ A soixante et dix ans ! l'agreable mignonne !
 Dy soixante.  
 
     PHILIPIN.
-Et bien soit, la difference est bonne.  
+        Et bien soit, la difference est bonne.  
 Comment diable à cet âge ose-t'on vivre encor ?  
 
     LYSETTE.
@@ -785,7 +785,7 @@ On n'a chez elle accez qu'en luy contant fleuretes⁎,
 Qu'en feignant un amour…  
 
     PHILIPIN.
-Un amour à Lunetes [45].  
+        Un amour à Lunetes [45].  
 Si bien que sans douceurs⁎ et le tendre soûpir  
 Ce Dragon surveillant ne se peut assoupir ?  
 
@@ -793,19 +793,19 @@ Ce Dragon surveillant ne se peut assoupir ?
 C'en est la seule voye.  
 
     PHILIPIN.
-Ah, beauté bisayeule !  
+        Ah, beauté bisayeule !  
 Si j'osois pour douceur⁎ te bien paumer la gueule [46],  
 Que je prendrois plaisir…  
 
     LYSETTE.
-Tu te mets en courroux ?  
+        Tu te mets en courroux ?  
 
     PHILIPIN.
 Mais quand avec la Niepce avoir ce rendez-vous ?  
 Où l'en presser ?  
 
     LYSETTE.
-Leandre est amy de ton Maistre,  
+        Leandre est amy de ton Maistre,  
 On l'aime icy déja plus qu'on ne fait paroistre.  
 Qu'il amuse la Tante, et l'endorme si bien  
 Qu'Oronte avec la Niepce ait un libre entretien.  
@@ -878,7 +878,7 @@ A celuy de ton Maistre il donne quelque jour.
 Mais à propos d'amour, m'aimes-tu ?  
 
     LYSETTE.
-Le beau doute !  
+        Le beau doute !  
 
     PHILIPIN.
 Tu m'en as asseuré bien des fois, mais écoute,  
@@ -888,7 +888,7 @@ Il me le faut jurer plus authentiquement.
 Philipin se défie⁎ ?  
 
     PHILIPIN.
-A parler franchement,  
+        A parler franchement,  
 Je te trouve gaillarde [52] autant qu'on le peut estre,  
 Et nostre la Montagne est un dangereux traistre  
 Qui toûjours goguenard, prend en goguenardant  
@@ -899,7 +899,7 @@ Comme nouveau venu tu voudras qu'il t'en conte⁎ ?
 Badin [54].  
 
     PHILIPIN.
-J'ay de l'honneur, et l'autre a beu sa honte [55],  
+        J'ay de l'honneur, et l'autre a beu sa honte [55],  
 Plus effronté qu'un Page en vain on le retient.  
 
     LYSETTE.
@@ -914,21 +914,21 @@ LA TANTE, LYSETTE, PHILIPIN.
 Que te dit Philipin ?  
 
     LYSETTE.
-Que son Maistre l'envoye  
+        Que son Maistre l'envoye  
 S'informer s'il se peut que bien-tost il vous voye.  
 
     LA TANTE.
 Dy-luy que je l'attens.  
 
     LYSETTE.
-Retourne, Philipin.  
+        Retourne, Philipin.  
 
     PHILIPIN.
 Il en faisoit scrupule à cause du matin [56],  
 Leandre est avec luy.  
 
     LA TANTE.
-Qu'ils viennent l'un et l'autre.  
+        Qu'ils viennent l'un et l'autre.  
 
 
 ### SCENE V.
@@ -973,7 +973,7 @@ Mais s'il en est à qui le Mariage couste,
 D'autres n'y trouvent pas…  
 
     LYSETTE.
-Vous le sçavez sans doute,  
+        Vous le sçavez sans doute,  
 Pendant plus de trente ans vous avez eu loisir  
 D'apprendre ce qu'il a qui touche le desir,  
 Le Défunt vous aimoit, et chacun sçait bien comme…  
@@ -982,12 +982,12 @@ Le Défunt vous aimoit, et chacun sçait bien comme…
 Au mal de Jaloux prés je le trouvois bon homme,  
 Mais il estoit si vieux…  
 
-    LYSETTE. 
-J'entens, pour reconfort  
+    LYSETTE.
+        J'entens, pour reconfort  
 Vous en voulez un jeune.  
 
     LA TANTE.
-Eh Lysette, ay-je tort ?  
+        Eh Lysette, ay-je tort ?  
 
     LYSETTE.
 Non pas, et la jeunesse est d'un si grand usage  
@@ -996,7 +996,7 @@ Mais la difficulté c'est que vostre Barbon
 A bien usé le vostre.  
 
     LA TANTE.
-Eh mon Dieu, le voit-on ?  
+        Eh mon Dieu, le voit-on ?  
 Mes ans aux yeux de tous sont-ils si manifestes ?  
 
     LYSETTE.
@@ -1008,7 +1008,7 @@ Vous en avez du moins trente surnumeraires,
 C'est quelque chose.  
 
     LA TANTE.
-Ainsi tu me tiens hors d'estat  
+        Ainsi tu me tiens hors d'estat  
 De plus faire divorce avec le Celibat ?  
 
     LYSETTE.
@@ -1033,7 +1033,7 @@ Malheur à qui ne sait taire la médisance,
 Grand opprobre, Madame [59].  
 
     LA TANTE.
-Il est rude en tout temps.  
+        Il est rude en tout temps.  
 
     LYSETTE.
 Et beaucoup plus encor quand on a nombre d'ans.  
@@ -1046,13 +1046,13 @@ Qui s'allume ou s'éteint selon la Pension ?
 Ah, Lysette.  
 
     LYSETTE.
-Excusez, je parle avec franchise.  
+        Excusez, je parle avec franchise.  
 
     LA TANTE.
 En est-il…  
 
     LYSETTE.
-Non, témoin nostre vieille Marquise  
+        Non, témoin nostre vieille Marquise  
 Qui ne pouvant trouver de galand tout entier  
 Se contente, dit-on, qu'on serve⁎ par quartier [61].  
 Pour quatre Pensions il faut bonne finance.  
@@ -1066,25 +1066,25 @@ Mais en fait d'un mary ne barguignez point tant,
 Le vouloir jeune et riche…  
 
     LA TANTE.
-Eh, pour le bien, Lysette,  
+        Eh, pour le bien, Lysette,  
 Tu sçais que ce n'est pas…  
 
-    LYSETTE. 
-L'affaire vaut donc faite,  
+    LYSETTE.
+        L'affaire vaut donc faite,  
 Le Baron d'Albikrac sera vostre vray fait.  
 
     LA TANTE.
 S'il a si bonne mine…  
 
     LYSETTE.
-Ah, Madame !  
+    Ah, Madame !  
 
     LA TANTE.
-En effet,  
+        En effet,  
 J'y puis songer.  
 
     LYSETTE.
-Sur tout suivez ma tablature,  
+        Sur tout suivez ma tablature,  
 Gardez toûjours la bourse, et donnez à mesure.  
 Quand on a comme vous force écus bien comptez,  
 On peut faire à propos ses liberalitez,  
@@ -1095,7 +1095,7 @@ Si j'osois m'asseurer de Leandre ou d'Oronte,
 J'aurois bientost [63] choisy.  
 
     LYSETTE.
-Le respect les retient,  
+        Le respect les retient,  
 Peut-estre ils parleront si nostre Baron vient.  
 Souvent la jalousie est ce qui nous enflame.  
 
@@ -1103,7 +1103,7 @@ Souvent la jalousie est ce qui nous enflame.
 Mais il semble qu'Oronte et ma Niepce…  
 
     LYSETTE.
-Madame.  
+        Madame.  
 
     LA TANTE.
 Tout de bon, à l'oreille il aime à luy parler.  
@@ -1113,22 +1113,22 @@ Croyez qu'il ne luy dit que des comptes [64] en l'air.
 Elle est si jeune encor…  
 
     LA TANTE.
-Défions-nous⁎ de l'âge,  
+        Défions-nous⁎ de l'âge,  
 Il en est dés douze ans que la fleurete⁎ engage,  
 Et le cœur…  
 
     LYSETTE.
-Il est vray, c'est un oiseau si fin  
+        Il est vray, c'est un oiseau si fin  
 Qu'il faut pour l'attraper venir de bon matin,  
 Mais quant à vostre niepce, à moins d'en vouloir rire,  
 On ne peut…  
 
     LA TANTE.
-La voicy, voyez ce qui l'attire,  
+        La voicy, voyez ce qui l'attire,  
 Il faut que je l'éloigne.  
 
     LYSETTE.
-Ah, gardez-vous-en bien.  
+        Ah, gardez-vous-en bien.  
 Vous sçavez que Leandre aime vostre entretien,  
 Et s'il peut avec elle embarasser Oronte,  
 Je croy qu'auprés de vous il trouvera son compte.  
@@ -1138,7 +1138,7 @@ Cela se pourroit bien, mais s'il falloit aussi
 Que ma Niepce…  
 
     LYSETTE.
-N'ayez pour elle aucun soucy.  
+        N'ayez pour elle aucun soucy.  
 
 
 ### SCENE VI.
@@ -1150,10 +1150,10 @@ Vous plaist-il que quelqu'un aille pour ces Tabletes⁎,
 Ma Tante ?  
 
     LA TANTE.
-Non, tantost.  
+    Non, tantost.  
 
     ANGELIQUE.
-Je croy qu'elles sont faites.  
+        Je croy qu'elles sont faites.  
 
     LA TANTE.
 N'importe, ce matin vos yeux sont mal ouverts.  
@@ -1162,23 +1162,23 @@ N'importe, ce matin vos yeux sont mal ouverts.
 Comment ?  
 
     LA TANTE.
-Vostre coifure est toute de travers,  
+        Vostre coifure est toute de travers,  
 Bon Dieu ! cela fait peur.  
 
     ANGELIQUE.
-Je me coife à ma mode,  
+        Je me coife à ma mode,  
 Ma Tante.  
 
     LA TANTE.
-En attendant qu'on vous la raccommode,  
+        En attendant qu'on vous la raccommode,  
 Cachez-la tout au moins d'une Coife.  
 
     ANGELIQUE.
-Et pourquoy ?  
+        Et pourquoy ?  
 Ay-je à plaire à quelqu'un ?  
 
     LA TANTE.
-C'est qu'il me plaist à moy.  
+        C'est qu'il me plaist à moy.  
 
     LYSETTE *allant prendre une coife sur la table*.
 Avec vos cheveux blonds en coquete fieffée [65],  
@@ -1187,13 +1187,13 @@ Rien n'est plus ridicule, et Madame a raison,
 Mettez.  
 
     ANGELIQUE.
-Mettre une Coife en gardant la maison !  
+        Mettre une Coife en gardant la maison !  
 
     LA TANTE.
 Que de raisonnements ! approchez.  
 
     ANGELIQUE *bas*.
-Je deteste.  
+        Je deteste.  
 
     LYSETTE.
 Voila proprement l'air d'une fille modeste,  
@@ -1205,11 +1205,11 @@ LA TANTE, ANGELIQUE, LEANDRE, ORONTE, LYSETTE.
 
 
     LEANDRE *à la Tante*.
-Voyez si l'on se plaist chez vous,  
+        Voyez si l'on se plaist chez vous,  
 Madame.  
 
     ORONTE.
-C'est un bien dont chacun est jaloux.  
+        C'est un bien dont chacun est jaloux.  
 
     LA TANTE.
 Vous le dites, je sçay ce qu'il faut que j'en croye.  
@@ -1223,30 +1223,30 @@ Laissez, elle se plaint d'un si grand mal aux dents,
 Qu'elle souffriroit trop…  
 
     ANGELIQUE.
-Il se passe, ma Tante.  
+        Il se passe, ma Tante.  
 
     LEANDRE.
 Ostez donc.  
 
     ANGELIQUE *à la Tante.*
-L'osteray-je ?  
+    L'osteray-je ?  
 
     LA TANTE.
-Ostez. L'impertinente !  
+        Ostez. L'impertinente !  
 Vous prenez donc plaisir à montrer vostre nez ?  
 J'en suis fort aise.  
 
     LYSETTE *à la Tante*.
-Ainsi les esprits sont tournez,  
+        Ainsi les esprits sont tournez,  
 Plus on défend…  
 
     ORONTE *à la Tante*.
-Madame, on poursuit mon affaire,  
+        Madame, on poursuit mon affaire,  
 Vostre credit⁎ bientost me sera necessaire,  
 J'ose en esperer tout.  
 
     LA TANTE.
-Il me sera bien doux  
+        Il me sera bien doux  
 D'avoir occasion de m'employer pour vous,  
 Mon frere m'en écrit d'une assez bonne sorte  
 Pour n'y rien negliger, et d'ailleurs, mais n'importe,  
@@ -1261,7 +1261,7 @@ Pendant que la Tante parle tout haut à Leandre, Oronte entretient la Niepce tou
 
 
     LEANDRE.
-Beaucoup plus que personne.  
+        Beaucoup plus que personne.  
 
     LA TANTE.
 Si je ne suis pas belle, au moins suis-je assez bonne,  
@@ -1271,13 +1271,13 @@ Et c'est toûjours dequoy réparer ce defaut.
 Defaut, Madame ?  
 
     LA TANTE.
-On sçait un peu ce que l'on vaut,  
+        On sçait un peu ce que l'on vaut,  
 Et sans ce grand éclat d'une beauté brillante  
 Quelquefois une femme a l'heur d'estre touchante,  
 Il est mille agréements…  
 
     LEANDRE.
-C'est ce qu'on voit en vous,  
+        C'est ce qu'on voit en vous,  
 Et l'assemblage en est si charmant et si doux  
 Que j'admire souvent en vous voyant paroistre…  
 
@@ -1291,14 +1291,14 @@ Par ce que je vous dis du moins vous l'éprouvez.
 Angelique.  
 
     ANGELIQUE.
-Ma Tante.  
+    Ma Tante.  
 
     ORONTE *à Angelique feignant de continuer haut la conversation.*
-Enfin donc vous trouvez  
+        Enfin donc vous trouvez  
 Ma garniture⁎ belle ?  
 
     ANGELIQUE.
-Ouy belle, et des plus belles.  
+        Ouy belle, et des plus belles.  
 
     LYSETTE *bas à la Tante*.
 J'écoute, il ne luy dit que pures bagatelles,  
@@ -1313,7 +1313,7 @@ Je vous croirois trop jeune encor pour le ménage.
 Vingt et un an au plus.  
 
     LYSETTE *bas*.
-Où les va-t'il chercher ?  
+        Où les va-t'il chercher ?  
 
     LA TANTE.
 Non, j'en puis avoir Trente, et n'en veut point cacher.  
@@ -1327,7 +1327,7 @@ Du vivant du bon homme, ah grands Dieux quels ennuis⁎ !
 C'estoient de tristes jours.  
 
     LYSETTE *bas*.
-Et de plus tristes nuits.  
+        Et de plus tristes nuits.  
 
     LEANDRE.
 Qu'un Vieillard ait eu l'heur d'obtenir… J'en soûpire.  
@@ -1336,14 +1336,14 @@ Qu'un Vieillard ait eu l'heur d'obtenir… J'en soûpire.
 Que j'ay versé de pleurs !  
 
     LEANDRE.
-Au moins dans ce martyre  
+        Au moins dans ce martyre  
 Grace à sa prompte mort peu de temps s'écoula ?  
 
     LA TANTE.
 Quinze ans s'y sont passez.  
 
     LYSETTE *bas*.
-Et quinze par de-là.  
+        Et quinze par de-là.  
 
     LEANDRE.
 Quel supplice ! et vos yeux aprés quinze ans de larmes  
@@ -1357,28 +1357,28 @@ J'aime assez le repos qui suit l'état de Veusve.
 Je vis tranquille, heureuse.  
 
     LEANDRE.
-Et vous faites fort bien,  
+        Et vous faites fort bien,  
 C'est en cela…  
 
     LA TANTE.
-Pourtant je n'ay juré de rien,  
+        Pourtant je n'ay juré de rien,  
 Et selon…  
 
     LEANDRE *l'interrompant d'un air chagrin*.
-D'ordinaire où sont vos promenades ?  
+        D'ordinaire où sont vos promenades ?  
 
     LA TANTE.
 Où l'on veut.  
 
     LEANDRE.
-A Saint Clou [66] les charmantes cascades !  
+        A Saint Clou [66] les charmantes cascades !  
 Vous allez fort souvent en ces aimables lieux ?  
 
     LA TANTE.
 Pas trop.  
 
     LEANDRE.
-Dites le vray, Vincennes [67] vous plaist mieux.  
+        Dites le vray, Vincennes [67] vous plaist mieux.  
 
     LA TANTE.
 On ne se divertit dans toutes ces Parties  
@@ -1387,7 +1387,7 @@ Le goust dépend des lieux beaucoup moins que des gens,
 Quand ils sont bien choisis…  
 
     LEANDRE.
-C'est comme je l'entens.  
+        C'est comme je l'entens.  
 
     LA TANTE.
 Si bien que vous croiriez qu'une haine si forte  
@@ -1405,7 +1405,7 @@ Mon Dieu, ne perdez point le temps à me flater,
 Je n'aime point l'encens.  
 
     LEANDRE.
-Puisque c'est vous déplaire  
+        Puisque c'est vous déplaire  
 Je le quitte, Madame, et change de matiere.  
 Croyez-vous qu'à la Cour Ariste ait du credit⁎ ?  
 
@@ -1415,20 +1415,20 @@ Si j'ay quelque merite⁎, il n'est pas raisonnable
 De prétendre qu'à peine⁎ il s'en trouve un semblable,  
 Et quelqu'un que je sçay vaut tout ce que je vaux.  
 
-    LYSETTE *bas*. 
+    LYSETTE *bas*.
 Bon cela.  
 
     LEANDRE.
-Ce quelqu'un n'a donc point de defauts ?  
+        Ce quelqu'un n'a donc point de defauts ?  
 
     LA TANTE.
 Vous le connoissez bien.  
 
     LEANDRE.
-Moy, Madame ?  
+    Moy, Madame ?  
 
     LA TANTE.
-Vous mesme.  
+        Vous mesme.  
 
 
 ### SCENE VIII.
@@ -1439,50 +1439,50 @@ LA TANTE, ANGELIQUE, LEANDRE, ORONTE, LYSETTE, CASCARET.
 Madame.  
 
     LA TANTE.
-Que veut-on ?  
+    Que veut-on ?  
 
     CASCARET.
-La Marquise d'Amblesme…  
+        La Marquise d'Amblesme…  
 
     LA TANTE.
 Et bien, qu'est-ce ?  
 
     CASCARET.
-Elle vient.  
+    Elle vient.  
 
     LA TANTE.
-Qu'a-t'elle à me conter⁎ ?  
+        Qu'a-t'elle à me conter⁎ ?  
 
     LYSETTE.
 C'est peut-estre un galant qu'elle veut emprunter.  
 
-    LA TANTE. 
+    LA TANTE.
 Qu'on la reçoive ailleurs. L'incommode personne !  
 Ah !  
 
     LEANDRE *bas en regardant la Tante*.
-Si tu m'y retiens, va, je te le pardonne.  
+        Si tu m'y retiens, va, je te le pardonne.  
 Peste soit de la vieille !  
 
     LA TANTE *à Angelique*.
-Allez l'entretenir,  
+        Allez l'entretenir,  
 Je vous suy.  
 à Oronte et Leandre.
 
-Demeurez, je m'en vay revenir.  
+        Demeurez, je m'en vay revenir.  
 
     ORONTE.
 Quelle est cette Marquise ?  
 
     LA TANTE.
-Une Sempiternelle,  
+        Une Sempiternelle,  
 Qui passe soixante ans, et fait encor la belle.  
 Elle aime la fleurete⁎, et la moindre douceur⁎  
 Luy fait ouvrir l'oreille, et chatoüille le cœur.  
 C'est un Original.  
 
     LYSETTE *bas*.
-L'impertinence extrême  
+        L'impertinence extrême  
 De faire son portrait et se railler soy-mesme !  
 
     ORONTE.
@@ -1494,7 +1494,7 @@ Que pour elle en secret plus d'un Chevalier brûle,
 Que Monsieur le Marquis s'en meurt.  
 
     LEANDRE.
-La ridicule !  
+        La ridicule !  
 
     LA TANTE.
 Je l'aurois avec nous mise de l'entretien,  
@@ -1515,7 +1515,7 @@ Faites icy le sot, pour moy si je l'attens…
 Amy, songez de grace…  
 
     LEANDRE.
-Il n'est amy qui tienne,  
+        Il n'est amy qui tienne,  
 Pour couvrir vostre jeu cherchez qui l'entretienne,  
 J'ay paré de mon mieux les plus dangereux coups,  
 Mais tirer à la rame est un mestier plus doux.  
@@ -1528,7 +1528,7 @@ J'allois pour l'épouser estre pris au colet.
 C'est l'unique moyen de l'ébloüir⁎.  
 
     LEANDRE.
-N'importe.  
+        N'importe.  
 
     ORONTE.
 M'abandonneriez-vous au besoin⁎ de la sorte ?  
@@ -1540,11 +1540,11 @@ Encor un teste à teste, et le moins qui m'arrive
 C'est de perdre l'esprit.  
 
     LYSETTE.
-La défaite est naisve.  
+        La défaite est naisve.  
 Mais nostre Niepce enfin ?  
 
-    ORONTE. 
-Qu'elle est aimable ! Ah Dieux !  
+    ORONTE.
+        Qu'elle est aimable ! Ah Dieux !  
 
     LYSETTE.
 Son entretien est-il aussi doux que ses yeux ?  
@@ -1561,14 +1561,14 @@ T'asseure les moyens de me la ménager,
 Tout dépend de tes soins⁎.  
 
     LYSETTE.
-Ou plûtost de Leandre,  
+        Ou plûtost de Leandre,  
 Qu'il prenne un rendez-vous…  
 
     LEANDRE.
-Bon soir.  
+    Bon soir.  
 
     ORONTE.
-Vous en défendre,  
+        Vous en défendre,  
 Amy, quand il y va de tout l'heur de mes jours ?  
 
     LEANDRE.
@@ -1588,13 +1588,13 @@ Mais de plus de dix jours il ne sçauroit partir.
     LYSETTE.
 Et Leandre pour rien ne voudra consentir…  
 
-    LEANDRE. 
+    LEANDRE.
 Non, mais à mon defaut employez la Montagne,  
 Qu'il fasse quelques jours le Baron de Bretagne,  
 On ne le connoit point.  
 
     LYSETTE.
-A-t'il un peu d'esprit ?  
+        A-t'il un peu d'esprit ?  
 
     ORONTE.
 Que trop ; quoy qu'il boufonne, il sçait bien ce qu'il dit,  
@@ -1609,33 +1609,33 @@ LEANDRE, ORONTE, LA MONTAGNE, LYSETTE, PHILIPIN.
 As-tu veu le Marquis ?  
 
     LA MONTAGNE.
-J'ay bien eu de la peine.  
+        J'ay bien eu de la peine.  
 
     LEANDRE.
 Viendra-t'il ?  
 
     LA MONTAGNE.
-Ouy, Monsieur, où vous lui marquez [72].  
+    Ouy, Monsieur, où vous lui marquez [72].  
 
     LEANDRE.
-Bon  
+        Bon  
 Mais ici cependant il nous manque un Baron.  
 Peux-tu le devenir ?  
 
     LA MONTAGNE.
-Moy, Baron ? et de reste [73].  
+        Moy, Baron ? et de reste [73].  
 
-    ORONTE. 
+    ORONTE.
 Tu connois Albikrac ?  
 
     LA MONTAGNE.
-C'est un gaillard, la peste !  
+        C'est un gaillard, la peste !  
 
     ORONTE.
 Il faut passer pour luy.  
 
     LA MONTAGNE.
-Je suis vostre homme, allez,  
+        Je suis vostre homme, allez,  
 Vous me verrez Baron, et des plus signalez [74].  
 
     LYSETTE.
@@ -1659,7 +1659,7 @@ Si la Tante se plaint de ne nous trouver plus,
 Dy que…  
 
     LYSETTE.
-Vous me donnez des avis superflus,  
+        Vous me donnez des avis superflus,  
 Suffit que du Baron j'auray receu message [75],  
 Au moins faites-luy bien jouër son personnage.  
 
@@ -1668,25 +1668,25 @@ Va, je sçay mon mestier, n'en sois point en soucy⁎.
 As-tu plus de quinze ans ?  
 
     LYSETTE.
-Environ, Dieu mercy.  
+        Environ, Dieu mercy.  
 
-    ORONTE *à la Montagne*. 
+    ORONTE *à la Montagne*.
 Sors viste, s'il falloit qu'on te vist avec elle,  
 Tu perdrois tout.  
 
     LA MONTAGNE.
-Adieu, tendre et jeune pucelle,  
+        Adieu, tendre et jeune pucelle,  
 Jusqu'au revoir.  
 
     PHILIPIN.
-Lysette, Ah !  
+    Lysette, Ah !  
 
     LYSETTE.
-Quel diantre de ton !  
+        Quel diantre de ton !  
 Tu gemis ?  
 
     PHILIPIN.
-Que je crains la Montagne Baron.  < Fin du premier Acte. >
+        Que je crains la Montagne Baron.  < Fin du premier Acte. >
 
 
 ## ACTE II.
@@ -1702,7 +1702,7 @@ Icy dans un moment vous l'allez voir paroistre,
 L'avis luy sera doux.  
 
     ANGELIQUE.
-Lysette, en vérité  
+        Lysette, en vérité  
 Ce que tu me fais faire est bien précipité ;  
 Permettre qu'en secret un Galand m'entretienne.  
 
@@ -1713,12 +1713,12 @@ Voulez-vous que je coure empescher qu'il ne vienne ?
 Non, mais n'est-ce point trop…  
 
     LYSETTE.
-Voilà bien des façons !  
+        Voilà bien des façons !  
 Eh, mon Dieu, hardiment prenez de mes leçons,  
 Vous m'en remercierez quelque jour.  
 
     ANGELIQUE.
-Mais Lysette,  
+        Mais Lysette,  
 J'accorde une faveur peut-estre en indiscrete⁎,  
 Et si de moy par elle Oronte veut juger…  
 
@@ -1727,7 +1727,7 @@ Quoy, la Tante aura droit de nous faire enrager,
 Et vous craindrez…  
 
     ANGELIQUE.
-Je crains d'affoiblir son estime.  
+        Je crains d'affoiblir son estime.  
 
     LYSETTE.
 Un entretien secret n'est pas un si grand crime,  
@@ -1741,7 +1741,7 @@ Il suffoque, et jamais un moment de repos.
 Toutes n'agissent pas du mesme air⁎.  
 
     LYSETTE.
-En deux mots  
+        En deux mots  
 La vostre est une Turque⁎, une Arabe⁎ [76], et le Diable  
 N'en fourniroit qu'à peine⁎ encor une semblable,  
 Elle ne peut souffrir que vous leviez les yeux,  
@@ -1763,14 +1763,14 @@ Ainsi, c'est tout de bon qu'il luy vient un Espoux.
 Est-il assez bien fait pour luy plaire ?  
 
     LYSETTE.
-Peut-estre                 30  
+        Peut-estre                 30  
 En ay-je un peu plus dit qu'on n'en verra paroistre,  
 Mais sur la bonne mine il faut nous récrier.  
 Dans la demangeaison de se remarier  
 Elle nous en croira.  
 
     ANGELIQUE.
-Mais l'affaire estant faite,  
+        Mais l'affaire estant faite,  
 Comme alors elle aura tout ce qu'elle souhaite,  
 Ce rendez-vous secret à quoy bon l'accorder ?  
 Oronte ouvertement pourra me demander.  
@@ -1786,7 +1786,7 @@ Si toûjours elle aura pour vous mesmes appas⁎,
 Là, l'aimez-vous un peu ?  
 
     ANGELIQUE.
-Je ne m'y connois pas,  
+        Je ne m'y connois pas,  
 Mais tantost prest d'entrer, le voyant dans la ruë  
 De ma Chambre icy bas je suis viste accouruë,  
 Et j'eusse eu grand dépit qu'on m'eust voulu chasser.  
@@ -1803,21 +1803,21 @@ Si-tost qu'il est party, je resve⁎. Quand on aime,
 Est-ce là comme on est, Lysette ?  
 
     LYSETTE.
-Tout de mesme.  
+        Tout de mesme.  
 L'Amour en peu de temps vous en a bien appris,  
 Mais Oronte…  
 
     ANGELIQUE.
-Il vient. Dieux !  
+    Il vient. Dieux !  
 
     LYSETTE.
-Reprenez vos esprits.  
+        Reprenez vos esprits.  
 
     ANGELIQUE.
 Que luy pourray-je dire, et…  
 
     LYSETTE.
-S'il faut ne rien taire,  
+        S'il faut ne rien taire,  
 Vous faites l'innocente, et vous ne l'estes guere.  
 
 
@@ -1829,7 +1829,7 @@ ORONTE, ANGELIQUE, LYSETTE.
 Madame.  
 
     LYSETTE.
-En liberté je vous laisse jaser⁎,  
+        En liberté je vous laisse jaser⁎,  
 Nostre Tante est à craindre, et je cours l'amuser.  
 
     ORONTE.
@@ -1862,7 +1862,7 @@ D'un tendre mouvement où vous soyez forcée,
 D'une inquiete ardeur…  
 
     ANGELIQUE.
-Ah, que vous me gênez⁎ !  
+        Ah, que vous me gênez⁎ !  
 J'ay bien peur de sçavoir ce que vous m'apprenez,  
 Ne l'examinons point, et quoy qu'il en puisse estre…  
 
@@ -1870,7 +1870,7 @@ Ne l'examinons point, et quoy qu'il en puisse estre…
 Craignez-vous de m'aimer ?  
 
     ANGELIQUE.
-Je le fais mal paroistre,  
+        Je le fais mal paroistre,  
 Mais au moins je devrois malgré vos vœux soûmis  
 Craindre de vous aimer plus qu'il ne m'est permis.  
 
@@ -1883,14 +1883,14 @@ Non, quoy que vous fassiez, pour vaincre le soucy⁎…
 N'est-ce point déja trop que vous souffrir icy ?  
 J'en rougis, et s'il faut que ma Tante soupçonne…  
 
-    ORONTE. 
+    ORONTE.
 A ce scrupule en vain vostre esprit s'abandonne⁎,  
 Lysette y met bon ordre, et seconde mon feu,  
 Il s'agit seulement d'obtenir vostre aveu,  
 Me l'accorderez-vous ?  
 
     ANGELIQUE.
-Ce qu'icy je hazarde  
+        Ce qu'icy je hazarde  
 Ne vous répond que trop de ce qui me regarde,  
 Mais songez que les loix d'un rigoureux devoir  
 Me forcent d'une Tante à craindre le pouvoir,  
@@ -1902,7 +1902,7 @@ Il s'offre, m'a t'on dit, un Baron d'importance,
 Si l'affaire se fait…  
 
     ORONTE.
-Vivons en esperance,  
+        Vivons en esperance,  
 Quelque obstacle qui tienne un esprit alarmé,  
 Pour vaincre tout, Madame, il suffit d'estre aimé.  
 
@@ -1919,7 +1919,7 @@ LA TANTE, ANGELIQUE, ORONTE.
 
 
     LA TANTE *aprés avoir écouté les trois derniers vers*.
-La peinture est jolie,  
+        La peinture est jolie,  
 Le rouge vous sied bien [77], vous estes embellie,  
 L'appetit au besoin vous viendroit en parlant,  
 Vrayement, j'en suis d'avis, il vous faut un Galant.  
@@ -1928,7 +1928,7 @@ Vrayement, j'en suis d'avis, il vous faut un Galant.
 Moy, ma Tante ?  
 
     LA TANTE.
-Voyez la petite effrontée.  
+        Voyez la petite effrontée.  
 Je ne vous ay donc pas tout à l'heure écoutée,  
 Quand sur ce bel amour qui le faisoit agir…  
 
@@ -1936,7 +1936,7 @@ Quand sur ce bel amour qui le faisoit agir…
 Madame.  
 
     LA TANTE.
-Allez, Monsieur, vous devriez rougir,  
+        Allez, Monsieur, vous devriez rougir,  
 Et du moins ce n'est pas à d'honnestes familles  
 Qu'on se doit adresser pour corrompre des filles.  
 
@@ -1945,25 +1945,25 @@ L'hymen estant le but qui m'a fait la prier
 D'entendre…  
 
     LA TANTE.
-Il n'est icy personne à marier,  
+        Il n'est icy personne à marier,  
 Parler d'amour chez moi ! vous estes fort mignonne.  
 
     ANGELIQUE.
 Ne croyez pas…  
 
-    LA TANTE. 
-Comptez [78], je vous la garde bonne [79],  
+    LA TANTE.
+        Comptez [78], je vous la garde bonne [79],  
 Et si…  
 
     ANGELIQUE *à Oronte*.
-Venez encor emprunter mon secours,  
+        Venez encor emprunter mon secours,  
 J'ay bien affaire, moy, de vos sotes amours.  
 
     LA TANTE.
 Quoy, que veut-elle dire ?  
 
     ANGELIQUE.
-Et bien, il me faut taire,  
+        Et bien, il me faut taire,  
 Cela ne serviroit qu'à vous mettre en colere  
 Mais si jamais il vient me demander appuy…  
 
@@ -1974,19 +1974,19 @@ Comment ? est-ce qu'il veut que vous parliez pour luy ?
 Qu'allez-vous dire ?  
 
     ANGELIQUE *haut*.
-Tout, et devant tout le monde ;  
+        Tout, et devant tout le monde ;  
 Voyez, il faut pour vous, Monsieur, que l'on me gronde.  
 Je vous l'avois bien dit renvoyant vos amours  
 Que ma Tante vouloit rester veusve toûjours.  
 Elle en a fait bon vœu.  
 
     LA TANTE.
-C'est mon dessein sans doute,  
+        C'est mon dessein sans doute,  
 Et qui parle d'amour Dieu sçait si je l'écoute,  
 Je n'en veux point.  
 
     ORONTE.
-Madame, il n'y faut plus penser ;  
+        Madame, il n'y faut plus penser ;  
 Et puisque je connoy que c'est vous offencer…  
 
     LA TANTE.
@@ -1994,14 +1994,14 @@ Laissez, par le recit que je veux qu'elle fasse
 J'auray lieu de juger s'il faut lui faire grace.  
 Ce doit estre sa peine aprés ce qu'elle a fait.  
 
-    ORONTE *à la Tante*. 
+    ORONTE *à la Tante*.
 Vous haïssez la cause, épargnez-vous l'effet [80].  
 
     ANGELIQUE.
 Oyez donc.  
 
     ORONTE *bas à Angelique*.
-L'embarras où vous nous allez mettre.  
+        L'embarras où vous nous allez mettre.  
 
     ANGELIQUE.
 Mais quand vous aurez sçeu ce qu'il m'a fait promettre,  
@@ -2011,21 +2011,21 @@ Contre moy tout d'un coup je crains bien de vous voir…
 Ah, ne l'apprenez point.  
 
     LA TANTE.
-Non, je veux tout sçavoir.  
+        Non, je veux tout sçavoir.  
 Pourquoy seule avec luy ?  
 
     ANGELIQUE.
-C'est qu'il m'a rencontrée,  
+        C'est qu'il m'a rencontrée,  
 Et qu'il entroit icy comme j'y suis entrée.  
 Il venoit…  
 
     ORONTE *bas à Angelique*.
-Sans donner de plus forte raison  
+        Sans donner de plus forte raison  
 Dites que je venois pour voler la maison,  
 Je l'avoüeray plûtost que…  
 
     LA TANTE.
-Qu'est-ce qu'il vous conte⁎ ?  
+        Qu'est-ce qu'il vous conte⁎ ?  
 
     ANGELIQUE.
 Qu'à vous expliquer tout il va mourir de honte,  
@@ -2035,7 +2035,7 @@ Mais en vain il prétend que j'ose rien cacher.
 Je suis pris.  
 
     ANGELIQUE.
-Enfin donc il venoit vous chercher,  
+        Enfin donc il venoit vous chercher,  
 Et m'ayant apperceuë, il m'a fait la peinture  
 De je ne sçay quels maux que pour vous il endure ;  
 Que depuis qu'il vous voit il languit nuit et jour,  
@@ -2061,7 +2061,7 @@ Que puisque son amour estoit si legitime,
 Qu'il m'en peignoit le feu si plein d'ardeur…  
 
     LA TANTE
-Rentrez.  
+        Rentrez.  
 
 
 ### SCENE IV.
@@ -2072,7 +2072,7 @@ LA TANTE, ORONTE.
 Ma presence vous choque, et je vay…  
 
     LA TANTE.
-Demeurez.  
+        Demeurez.  
 
     ORONTE.
 Madame, le regret d'avoir pû vous déplaire…  
@@ -2103,7 +2103,7 @@ Mais si vous faites grace à l'ardeur de mon zele,
 Souffrez que quelquefois j'en soûpire avec elle,  
 C'est tout ce que je veux pour prix d'un si beau feu.  
 
-    LA TANTE. 
+    LA TANTE.
 Il me paroist trop beau pour obtenir si peu.  
 Pour prix de vostre amour, si sa flame est constante,  
 Il vaut mieux que j'en sois la seule confidente,  
@@ -2119,7 +2119,7 @@ Vous qui loin d'excuser l'innocente peinture
 Dont…  
 
     LA TANTE.
-Il faut quelquefois garder quelque mesure,  
+        Il faut quelquefois garder quelque mesure,  
 Et devant une Fille il est bon de blâmer  
 Ce qui leur peut apprendre à se laisser aimer.  
 Ce sont tendres esprits qui sans leçon ny maistre  
@@ -2146,42 +2146,42 @@ LA TANTE, ANGELIQUE, ORONTE.
 
 
     ANGELIQUE.
-Voicy, qu'on vous apporte  
+        Voicy, qu'on vous apporte  
 De ces petits Tableaux.  
 
     ORONTE *bas*.
-Bon.  
+    Bon.  
 
     ANGELIQUE.
-L'homme est à la porte [81],  
+        L'homme est à la porte [81],  
 Le feray-je entrer ?  
 
     LA TANTE.
-Non, qu'il revienne. Est-ce fait ?  
+        Non, qu'il revienne. Est-ce fait ?  
 L'étourdie, est-il temps…  
 
     ORONTE.
-C'est pour un cabinet ?  
+        C'est pour un cabinet ?  
 Voyons-les.  
 
     ANGELIQUE.
-Il en a des plus jolis du monde.  
+        Il en a des plus jolis du monde.  
 
     LA TANTE.
 Quelle stupide ! encor ? l'espoir où je me fonde [82]  
 C'est que me connoissant…  
 
     ANGELIQUE *revenant sur ses pas*.
-S'il les vouloit laisser ?  
+        S'il les vouloit laisser ?  
 Il peut les vendre ailleurs.  
 
     LA TANTE.
-Il s'en faudra passer,  
+        Il s'en faudra passer,  
 Qu'il les vende, ce soin vous rend officieuse⁎ ?  
 Si…  
 
-    ORONTE *bas*. 
-Le friand⁎ragoust⁎ qu'une vieille amoureuse !  
+    ORONTE *bas*.
+        Le friand⁎ragoust⁎ qu'une vieille amoureuse !  
 
 
 ### SCENE VI.
@@ -2201,7 +2201,7 @@ On m'en veut malgré moy donner la connoissance.
 Quel est-il ?  
 
     LA TANTE.
-Un Breton de fort haute naissance⁎,  
+        Un Breton de fort haute naissance⁎,  
 Albikrac. C'est un nom assez connu de tous.  
 Il vous donne à resver⁎, en estes-vous jaloux ?  
 
@@ -2228,13 +2228,13 @@ Ah, ma Tante, voicy ce beau point de Venise.
 A-t'on jamais…  
 
     ANGELIQUE.
-Vos yeux en vont être ébloüis⁎.  
+        Vos yeux en vont être ébloüis⁎.  
 
     ORONTE *faisant semblant d'admirer le mouchoir.*
 Ah, Madame !  
 
     ANGELIQUE.
-On l'aura peut-estre à vingt Loüis.  
+        On l'aura peut-estre à vingt Loüis.  
 Voyez ce long branchage, et ces Fleurs qui se jettent.  
 
     ORONTE.
@@ -2243,17 +2243,17 @@ On m'en fit un quarante encor hier au matin
 Qui n'est pas…  
 
     ANGELIQUE.
-Le Tissu n'en peut être plus fin.  
+        Le Tissu n'en peut être plus fin.  
 
     LA TANTE.
 Il est assez passable, allez, qu'on me le garde,  
 Nous le verrons tantost.  
 
     ORONTE *d'un ton chagrin*.
-Dieux !  
+    Dieux !  
 
     ANGELIQUE.
-Plus je le regarde,  
+        Plus je le regarde,  
 Plus je l'aime. Voyez de l'un à l'autre bout,  
 L'ouvrage saute aux yeux, il est égal par tout.  
 
@@ -2269,24 +2269,24 @@ LA TANTE, ANGELIQUE, ORONTE, LYSETTE.
 Le Baron d'Albikrac…  
 
     ORONTE *bas*.
-Enfin ma tâche est faite,  
+        Enfin ma tâche est faite,  
 Respirons.  
 
     LYSETTE.
-Ah, Madame, il n'est rien plus galant.  
+        Ah, Madame, il n'est rien plus galant.  
 
     ORONTE.
 Ces Messieurs les Barons font valoir le talent [85],  
 Ce sont gens du bel air⁎.  
 
     LA TANTE.
-Vous avez de l'ombrage⁎.  
+        Vous avez de l'ombrage⁎.  
 
     ORONTE.
 Madame.  
 
     LA TANTE.
-Il ne faut pas m'en dire davantage,  
+        Il ne faut pas m'en dire davantage,  
 J'y pourvoiray [86]. Qu'il entre, il faut le recevoir.  
 à Angelique.
 
@@ -2298,13 +2298,13 @@ Seroit sans aucun fruit choquer la bienseance.
 Madame.  
 
     LA TANTE.
-Sans cela j'aurois sceu prendre soin  
+        Sans cela j'aurois sceu prendre soin  
 De n'avoir pas ma Niepce avec nous pour témoin.  
 Du moins tenez vous seur, quand je le pourray faire,  
 Que vous n'aurez jamais ce chagrin.  
 
     ORONTE.
-Pour vous plaire  
+        Pour vous plaire  
 Je l'essuyeray sans peine, et consens que par là…  
 
 
@@ -2328,20 +2328,20 @@ On m'en avoit bien dit, et j'en trouve encor plus.
 Que diray-je, ma Tante ?  
 
     LA MONTAGNE.
-A d'autres cet abus⁎,  
+        A d'autres cet abus⁎,  
 Ma Tante !  
 
     LA TANTE.
-Je la suis.  
+    Je la suis.  
 
     LA MONTAGNE.
-Et celle-cy, la Niepce ?  
+        Et celle-cy, la Niepce ?  
 
     LA TANTE.
 Elle s'est déclarée.  
 
-    LA MONTAGNE. 
-Ouy, pour me faire piece⁎,  
+    LA MONTAGNE.
+        Ouy, pour me faire piece⁎,  
 Comme Provincial vous voulez me sonder,  
 Mais ce n'est pas à moy qu'on en baille⁎ à garder.  
 
@@ -2349,13 +2349,13 @@ Mais ce n'est pas à moy qu'on en baille⁎ à garder.
 On ne vous trompe point.  
 
     LA MONTAGNE.
-Quoy, vous seriez la Tante ?  
+        Quoy, vous seriez la Tante ?  
 
     LA TANTE.
 Moy-mesme.  
 
     LA MONTAGNE.
-Je ne sçay si le Diable me tente,  
+        Je ne sçay si le Diable me tente,  
 Mais je sçay qu'il me fait vouloir que cela fust.  
 Ah, quel plaisir alors de s'aimer but à but [89],  
 Car ne pouvant causer qu'un mal de cœur extréme  
@@ -2365,7 +2365,7 @@ Mais qui de notre Tante est donc l'Original ?
 Sans railler est-ce vous ?  
 
     LA TANTE.
-Je ne suis point surprise  
+        Je ne suis point surprise  
 De vous voir affecter exprés cette méprise,  
 Vous estes obligeant, et me voulez flater.  
 
@@ -2378,17 +2378,17 @@ Pour planter là la Tante, et donner sur la Niepce.
 Ma Niepce est-elle si…  
 
     LA MONTAGNE.
-Chacun vaut son prix,  
+        Chacun vaut son prix,  
 Mais enfin.  
 
     ANGELIQUE *bas à Lysette*.
-Est-il fou de s'estre ainsi mépris ?  
+        Est-il fou de s'estre ainsi mépris ?  
 
-    LYSETTE. 
+    LYSETTE.
 Le beau jeune Seigneur ! qu'il est bien fait !  
 
     LA MONTAGNE.
-Ma mere  
+        Ma mere  
 A pris aussi, dit-on, grand plaisir à me faire,  
 Et je m'en suis senty, car certain air⁎ gaillard  
 Que j'ay d'elle hérité me rend tout égrillard.  
@@ -2400,7 +2400,7 @@ Certains traits enfantins, doux, mignons, delicats…
 Ne me loüez point tant.  
 
     LA MONTAGNE.
-Je ne vous loüerois pas  
+        Je ne vous loüerois pas  
 Vous que je voy briller comme fleur Printaniere ?  
 Dieu me sauve, il n'est point… montrez-vous par derriere,  
 Vous estes encor mieux, et si propre à charmer  
@@ -2409,7 +2409,7 @@ Le port beau, l'air poupin. J'en tiens [91] et sans remede.
 Quelle taille !  
 
     LA TANTE.
-Il en est qui l'ont un peu plus laide.  
+        Il en est qui l'ont un peu plus laide.  
 
     LA MONTAGNE.
 Comment Diable ! et de plus de cinquante carats [92].  
@@ -2418,13 +2418,13 @@ Comment Diable ! et de plus de cinquante carats [92].
 Qu'il a d'esprit, Madame !  
 
     LA MONTAGNE.
-Ah, l'on n'en doute pas.  
+        Ah, l'on n'en doute pas.  
 
     LA TANTE *à Oronte*.
 Vous estes tout resveur.  
 
     LA MONTAGNE.
-J'eusse eu peine à m'en taire  
+        J'eusse eu peine à m'en taire  
 Si vous ne l'eussiez dit. Resve⁎-t'il d'ordinaire ?  
 C'est un mal de chagrin dont je crains les accez.  
 
@@ -2438,7 +2438,7 @@ Monsieur en a ? tant pis. Monsieur est de Province ?
 Auvergnac [93].  
 
     LA MONTAGNE.
-On pretend vostre Noblesse mince,  
+        On pretend vostre Noblesse mince,  
 Et vous venez icy la rehabiliter ?  
 
     ORONTE.
@@ -2462,7 +2462,7 @@ Qu'on s'informe, on verra si quelqu'un dira, non.
 Vous n'avez pas sujet…  
 
     LA MONTAGNE.
-Je vous trouve inquiete,  
+        Je vous trouve inquiete,  
 Est-ce que vous craignez de me sembler mal faite ?  
 Ma foy, quand tout exprés pour me rostir d'amour  
 L'Ouvrier qui vous fit vous auroit faite au tour [95],  
@@ -2474,7 +2474,7 @@ Car on tient que deux jours aprés son mariage
 Il s'en mordit les doigts [98].  
 
     ANGELIQUE.
-Lysette, il n'est pas sage.  
+        Lysette, il n'est pas sage.  
 
     LYSETTE.
 C'est un homme enjoüé. Qu'il est divertissant !  
@@ -2483,14 +2483,14 @@ C'est un homme enjoüé. Qu'il est divertissant !
 Rien ne nous presse encor.  
 
     LA MONTAGNE.
-Je suis un peu pressant.  
+        Je suis un peu pressant.  
 Mais à voir tant d'appas⁎ qui feroit moins la presse !  
 Et puis, quand on va droit sans entendre finesse,  
 Et que l'un a peu prés est de l'autre le fait⁎,  
 On dit que le plûtost vaut le mieux.  
 
     LYSETTE.
-En effet.  
+        En effet.  
 
     LA TANTE.
 On y doit un peu plus songer que vous ne faites.  
@@ -2502,11 +2502,11 @@ Nous aurons quantité de petits Albikracs,
 Ma Tante.  
 
     LA TANTE.
-Pour le moins épargnez une fille,  
+        Pour le moins épargnez une fille,  
 Vous la faites rougir.  
 
     LA MONTAGNE.
-Elle en est plus gentille.  
+        Elle en est plus gentille.  
 Quant à moy, j'aime à voir ce vermillon subit  
 Dont en baissant les yeux la Friponne soûrit.  
 Il faut les faire à tout, mais, mon aimable Tante,  
@@ -2517,11 +2517,11 @@ Et si j'en puis juger par cet appartement…
 Vous n'y trouverez pas ce que…  
 
     LA MONTAGNE.
-Sans compliment,  
+        Sans compliment,  
 Agréez que je sois vostre Escuyer [100].  
 
     LYSETTE.
-Madame  
+        Madame  
 A dans son Cabinet ce qui peut ravir l'ame,  
 Il vous faut tout au moins deux heures pour le voir.  
 
@@ -2529,21 +2529,21 @@ Il vous faut tout au moins deux heures pour le voir.
 Quelque autre jour.  
 
     LA MONTAGNE.
-Ah, non.  
+    Ah, non.  
 
     LA TANTE *bas à Oronte*.
-Je suis au desespoir,  
+        Je suis au desespoir,  
 Ne vous chagrinez point, mon Cher, je vous en prie,  
 Si je donne la main…  
 
     LYSETTE *ouvrant une porte*.
-Par cette galerie.  
+        Par cette galerie.  
 
     LA TANTE *à Oronte*.
 Suivez-nous.  
 
     ORONTE *à Angelique*.
-En suivant éloignons-nous un peu.  
+        En suivant éloignons-nous un peu.  
 
     LYSETTE *à Oronte*.
 Profitez du moment, on vous donne beau jeu [101].  < Fin du Second Acte. >
@@ -2576,11 +2576,11 @@ Il n'est point de plaisir qui soit égal au vostre,
 Vous passez vostre temps à ravir⁎ ?  
 
     LEANDRE.
-Justement,  
+        Justement,  
 Oronte en a tâté.  
 
-    LYSETTE. 
-Tres copieusement.  
+    LYSETTE.
+        Tres copieusement.  
 Jamais on ne souffrit de si longue torture.  
 
     LEANDRE.
@@ -2607,7 +2607,7 @@ Oronte cependant tombe en de bonnes mains [102] ?
 Qu'il s'en tire, s'il veut [103].  
 
     LEANDRE.
-C'est comme tu le plains ?  
+        C'est comme tu le plains ?  
 
     LYSETTE.
 Si tant de charité pour luy vous inquiete,  
@@ -2618,14 +2618,14 @@ La Tante vous adore et vous préferera.
 Elle m'aime ?  
 
     LYSETTE.
-Hier encor son cœur en soûpira,  
+        Hier encor son cœur en soûpira,  
 Et dans ce que de vous sans cesse elle me conte⁎,  
 Vous l'emportez en tout de bien loin sur Oronte,  
 Jamais homme à ses yeux ne parut si parfait.  
 Vous resvez⁎ ?  
 
-    LEANDRE. 
-Je cherchois quel grand crime j'ay fait,  
+    LEANDRE.
+        Je cherchois quel grand crime j'ay fait,  
 Pour se trouver aimé d'une vieille et luy plaire,  
 Il faut avoir du moins assassiné son Pere.  
 Si la Tante avec moy s'expliquoit sur ce ton,  
@@ -2640,7 +2640,7 @@ ANGELIQUE, LEANDRE, ORONTE, LYSETTE.
 Vous vous estes enfin échapez ?  
 
     ORONTE.
-La peinture  
+        La peinture  
 Nous preste ce bonheur [105], fort grand, pourveu qu'il dure,  
 Mais Monsieur le Baron nous le fait esperer,  
 Il paroist n'estre point encor las d'admirer,  
@@ -2656,18 +2656,18 @@ Nous l'en avons laissée en pleine liberté.
 J'en seray querellée.  
 
     LYSETTE.
-Et moy de mon costé,  
+        Et moy de mon costé,  
 Mais n'importe.  
 
     LEANDRE.
-Il est vray qu'il luy doit estre rude  
+        Il est vray qu'il luy doit estre rude  
 Qu'on luy donne si-tost sujet d'inquietude.  
 Puisqu'Oronte est pour elle un Amant declaré  
 C'est mal faire sa cour que s'estre retiré,  
 Elle en murmurera.  
 
     ANGELIQUE.
-Je le voy fort à craindre.  
+        Je le voy fort à craindre.  
 
     ORONTE.
 Mon malheur est fort grand, mais je n'ose m'en plaindre,  
@@ -2694,13 +2694,13 @@ Vous me raillez, chacun peut-estre aura son temps,
 Que sçait-on ?  
 
     LYSETTE *à Oronte.*
-Pour le moins il a cet avantage  
+        Pour le moins il a cet avantage  
 Que si pour nostre Tante il sucroit le breuvage,  
 Ma foy, vous tireriez vostre poudre aux Moineaux [108],  
 Il vous suplanteroit.  
 
     LEANDRE.
-Voyez ce que je vaux,  
+        Voyez ce que je vaux,  
 Mon Estoile est heureuse [109], et c'en est une marque.  
 
     ORONTE.
@@ -2721,21 +2721,21 @@ Souffrez que devant luy je vous donne ma foy⁎,
 Qu'il en soit le garand.  
 
     LYSETTE *à Angélique*.
-Donnez.  
+    Donnez.  
 
     ANGELIQUE *donnant la main à Oronte*.
-Je la recoy,  
+        Je la recoy,  
 Et pourveu que toûjours et sincere et constante  
 Elle soûtienne en vous…  
 
     LEANDRE.
-Prenez garde, la Tante…  
+        Prenez garde, la Tante…  
 
     ANGELIQUE.
 Ah Dieux !  
 
     ORONTE.
-Ne craignez rien, et me laissez parler.  
+        Ne craignez rien, et me laissez parler.  
 Avant qu'un an ou deux se puissent écouler [111],  
 Vous aurez une grande et longue maladie.  
 
@@ -2743,7 +2743,7 @@ Vous aurez une grande et longue maladie.
 Quel présage !  
 
     ORONTE.
-S'il faut encor que je le die,  
+        S'il faut encor que je le die,  
 Cet Angle qui se ferme à traits presque tirez  
 Est la mort d'un Parent dont vous heriterez.  
 
@@ -2751,7 +2751,7 @@ Est la mort d'un Parent dont vous heriterez.
 Bon cela.  
 
     ORONTE.
-De ce bien vous ne joüirez guere,  
+        De ce bien vous ne joüirez guere,  
 Car cette ligne jointe à ce triangulaire  
 Est pour vous tost aprés la marque d'un Couvent.  
 
@@ -2781,16 +2781,16 @@ Et je la debitois sans doute en écolier.
     LA TANTE.
 Mais que luy trouviez-vous de plus particulier ?  
 
-    ORONTE. 
+    ORONTE.
 Qu'elle court grand hazard d'estre Religieuse,  
 Je voy de certains traits…  
 
     LA TANTE.
-Qu'elle seroit heureuse ?  
+        Qu'elle seroit heureuse ?  
 Si j'estois en son âge, il est seur…  
 
     LYSETTE.
-Escoutez.  
+        Escoutez.  
 
     LA TANTE.
 On a dans le Couvent la paix de tous costez,  
@@ -2814,24 +2814,24 @@ Toûjours quelque enjouëment à son discours est joint.
 Son humeur me plaist fort.  
 
     LA TANTE.
-Il ne se contraint point,  
+        Il ne se contraint point,  
 Il dit tout ce qu'il pense.  
 
     ORONTE.
-Il vous a tost quitée ?  
+        Il vous a tost quitée ?  
 
     LA TANTE.
 Je croy que de Tableaux il a l'ame enchantée,  
 Il ne s'en peut saouler.  
 
     LEANDRE.
-Il est encor là-haut ?  
+        Il est encor là-haut ?  
 
-    LA TANTE. 
+    LA TANTE.
 Je vay l'y retrouver.  
 
     LEANDRE.
-Ah, sans doute il le faut.  
+        Ah, sans doute il le faut.  
 
     LA TANTE.
 Seulement un quart-d'heure allez tenir ma place.  
@@ -2843,7 +2843,7 @@ Haut à Leandre.
 Je vous iray rejoindre.  
 
     ORONTE.
-Ah, Madame, songez…      
+        Ah, Madame, songez…      
 
     LEANDRE.
 Mais le Baron dira que vous le négligez ?  
@@ -2859,25 +2859,25 @@ Vous avez de l'esprit, tirez-vous d'embarras.
 Pour moy…  
 
     ORONTE.
-De grace, amy, ne m'abandonnez pas.  
+        De grace, amy, ne m'abandonnez pas.  
 
     LEANDRE.
 Je me rendrois suspect à m'en vouloir defendre.  
 Il faut…  
 
     LA TANTE *à Angelique*.
-Faites pour moy compagnie à Leandre.  
+        Faites pour moy compagnie à Leandre.  
 
     ANGELIQUE.
 Si l'on peut le sçavoir qu'est-ce qu'on en dira ?  
 Aller seule avec luy !  
 
     LA TANTE.
-Lysette vous suivra,  
+        Lysette vous suivra,  
 Vous estes scrupuleuse.  
 
-    ORONTE. 
-Ah detestable Tante !  
+    ORONTE.
+        Ah detestable Tante !  
 
 
 ### SCENE IV.
@@ -2890,7 +2890,7 @@ Du moins pour vous marquer une tendre amitié,
 Je fais assez pour vous.  
 
     ORONTE.
-C'est trop de la moitié,  
+        C'est trop de la moitié,  
 Que dira le Baron ? que croira vostre Niepce ?  
 
     LA TANTE.
@@ -2908,7 +2908,7 @@ On se pardonne tout manquant pour ce qu'on aime.
 Madame.  
 
     LA TANTE.
-Tout de bon, s'il faut ouvrir mon cœur,  
+        Tout de bon, s'il faut ouvrir mon cœur,  
 Dans vostre procedé [115] je voy tant de candeur,  
 Tant d'honnesteté jointe à l'ardeur la plus sage  
 Que pour quelque repos que m'offre le veusvage,  
@@ -2938,7 +2938,7 @@ Vous luy faites sans cesse un Monstre de l'amour,
 Et je crains…  
 
     LA TANTE.
-Agissons chacun à nostre tour.  
+        Agissons chacun à nostre tour.  
 Tirez-la quelquefois à l'écart, et luy dites  
 Que le baron me choque avecque ses visites,  
 Et que s'il luy plaisoit vous pourriez m'obliger  
@@ -2970,7 +2970,7 @@ Lysette estant pour nous, tout est en seureté :
 Quoy, vous en soûpirez ?  
 
     ORONTE.
-Ah, douceurs⁎ imparfaites !  
+        Ah, douceurs⁎ imparfaites !  
 Que ne me parliez vous tantost comme vous faites !  
 Mon amour n'eust alors fait scrupule de rien,  
 Et Leandre jamais ne m'eust parlé du sien.  
@@ -2979,13 +2979,13 @@ Et Leandre jamais ne m'eust parlé du sien.
 Leandre m'aimeroit ?  
 
     ORONTE.
-D'une amour [119] éperduë.  
+        D'une amour [119] éperduë.  
 
     LA TANTE.
 Cet aveu me surprend.  
 
     ORONTE.
-Ah, Madame, il me tuë.  
+        Ah, Madame, il me tuë.  
 
     LA TANTE
 Depuis quand sçavez-vous que j'ay touché son cœur.  
@@ -3019,14 +3019,14 @@ Vous craignez plus pour luy peut-estre qu'il n'endure,
 Je sçauray son secret.  
 
     ORONTE.
-Il voudra le cacher,  
+        Il voudra le cacher,  
 Je le connois, en vain vous croirez l'arracher.  
 Tandis qu'il languira d'ennuy⁎, d'inquietude,  
 A dementir sa peine il mettra son étude ;  
 Feignant d'estre content….  
 
     LA TANTE.
-Nous croirons qu'il le soit [121].  
+        Nous croirons qu'il le soit [121].  
 
     ORONTE.
 Le puis-je avec honneur ? Madame, il en mourroit.  
@@ -3037,7 +3037,7 @@ Soit pour vous, soit pour luy, voyez toûjours ma Niepce,
 A l'hymen du Baron, mais le voicy.  
 
     ORONTE *bas*.
-J'en tiens [122]  
+        J'en tiens [122]  
 Si Leandre…  
 
 
@@ -3046,11 +3046,11 @@ LA MONTAGNE, LA TANTE, ANGELIQUE, LEANDRE, ORONTE, LYSETTE.
 
 
     LA MONTAGNE *bas à Leandre*.
-Suffit, je vay rompre les chiens [123].  
+        Suffit, je vay rompre les chiens [123].  
 Quoy tous deux teste à teste ?  
 
     LA TANTE.
-Est-ce un sujet de blâme ?  
+        Est-ce un sujet de blâme ?  
 
     ORONTE.
 Dans ce lieu par hazard j'ay rencontré Madame,  
@@ -3067,30 +3067,30 @@ Courage, rira bien qui rira le dernier.
 En desesperez vous ?  
 bas à Lysette.
 
-Si tu sçavois, Lysette…  
+        Si tu sçavois, Lysette…  
 
-    LA MONTAGNE. 
+    LA MONTAGNE.
 J'ay toûjours bon espoir, et connoy ma Planete,  
 Sans rien dire pourtant je voy ce que je voy,  
 Mais patience.  
 
     LA TANTE.
-Enfin vous vous plaignez de moy.  
+        Enfin vous vous plaignez de moy.  
 
     LA MONTAGNE.
 Eh, non pas tout à fait, mais il faut laisser faire,  
 Tout vient avec le temps.  
 
     LA TANTE *bas à Lysette*.
-Voy Leandre se taire,  
+        Voy Leandre se taire,  
 Qu'il est chagrin !  
 
     LA MONTAGNE.
-Toûjours quelque mot en passant  
+        Toûjours quelque mot en passant  
 A vostre Confidente.  
 
     LA TANTE.
-Il est fort innocent.  
+        Il est fort innocent.  
 
     LA MONTAGNE.
 Au diable qui s'y fie ; entre vous autres Belles  
@@ -3103,60 +3103,60 @@ Sur Monsieur l'Auvergnac vous faites fonds [125], mais baste [126].
 C'est à tort que…  
 
     LA MONTAGNE.
-Vos yeux ont je ne sçay quel faste,  
+        Vos yeux ont je ne sçay quel faste,  
 Un certain aigre doux si savoureux pour moy,  
 Que je pasme d'amour si-tost que je vous voy.  
 Quand nous marierons-nous, ma Reyne ? sur mon ame  
 Je n'en puis plus.  
 
     LA TANTE.
-Il faut moderer vostre flame.  
+        Il faut moderer vostre flame.  
 
-    LA MONTAGNE. 
+    LA MONTAGNE.
 Sans cesse auprés de vous le cœur me fait tic tac.  
 Tâtez.  
 
     LA TANTE.
-Ah !  
+    Ah !  
 
     LA MONTAGNE.
-Vous craignez ce diable d'Auvergnac.  
+        Vous craignez ce diable d'Auvergnac.  
 
     LA TANTE.
 Mais s'il vous entendoit ?  
 
     LA MONTAGNE.
-Et bien, ay-je à luy plaire ?  
+        Et bien, ay-je à luy plaire ?  
 Je m'en ris.  
 
     ANGELIQUE *à Oronte qui l'avoit entretenuë tout bas*.
-Non, Monsieur, il n'est pas necessaire.  
+        Non, Monsieur, il n'est pas necessaire.  
 
     LA TANTE *à Angelique*.
 Qu'est-ce qu'il vous propose ?  
 
     ORONTE.
-Un seul tour de jardin,  
+        Un seul tour de jardin,  
 Mais elle en fait scrupule.  
 
     LA MONTAGNE.
-Ah, c'est joüer au fin.  
+        Ah, c'est joüer au fin.  
 
     LA TANTE *à Angelique*.
 Vous y pouvez aller.  
 
     LA MONTAGNE.
-Je découvre la piece⁎,  
+        Je découvre la piece⁎,  
 Ce qu'il sent pour la Tante, il le dit à la Niepce,  
 Et ne pouvant icy parler comme il l'entend,  
 La confidence marche.  
 
     LA TANTE.
-Il est persecutant.  
+        Il est persecutant.  
 Quoy, toûjours soupçonner ?  
 
     LA MONTAGNE.
-Bon pied, bon œil [127], ma Tante,  
+        Bon pied, bon œil [127], ma Tante,  
 Je ne sçaurois avoir l'ame trop surveillante,  
 Et comme sans dessein il ne peut s'éloigner  
 Au jardin tout exprés je vay l'accompagner,  
@@ -3167,7 +3167,7 @@ Je ne l'entretiendray que de vostre personne,
 De ce que vous valez.  
 
     LA MONTAGNE.
-Sans vanité, je croy  
+        Sans vanité, je croy  
 Qu'il est quelques Barons plus mal taillez que moy  
 Ce port, cette action ? Ah ma Tante tres chere,  
 Si vous connoissiez bien tout ce que je sçay faire :  
@@ -3192,30 +3192,30 @@ Et voulois voir la fin de tout ce different.
 Vous estes bien secret.  
 
     LEANDRE.
-Moy !  
+    Moy !  
 
     LA TANTE.
-Cela vous surprend.  
+        Cela vous surprend.  
 
     LEANDRE.
 J'écoute le reproche et n'en sçay point la cause.  
 
-    LA TANTE. 
+    LA TANTE.
 Eh, j'en avois déja soupçonné quelque chose,  
 Mais mon Sexe⁎…  
 
     LEANDRE.
-Dequoy me voulez-vous parler ?  
+        Dequoy me voulez-vous parler ?  
 
     LA TANTE.
 Un homme quand il veut sçait bien dissimuler !  
 Vous ne m'aimez donc pas ?  
 
     LEANDRE.
-Moy, Madame ?  
+    Moy, Madame ?  
 
     LA TANTE.
-Vous mesme.  
+        Vous mesme.  
 
     LEANDRE.
 Si sans en rien sçavoir il se peut que l'on aime…  
@@ -3232,11 +3232,11 @@ Celuy qui comme vous voit au fonds de vostre ame,
 Vostre amy.  
 
     LEANDRE.
-Quoy, ces feux, ces amours prétendus,  
+        Quoy, ces feux, ces amours prétendus,  
 Vous les sçavez d'Oronte ?  
 
     LA TANTE.
-Ouy de luy, mais bien plus.  
+        Ouy de luy, mais bien plus.  
 Il m'a dit qu'ayant sceu combien je luy suis chere,  
 Vous prétendiez pour luy renoncer à me plaire,  
 Mourir plûtost cent fois d'un desespoir jaloux…  
@@ -3245,27 +3245,27 @@ Mourir plûtost cent fois d'un desespoir jaloux…
 Madame, Dieu me damne [129], il se moque de vous,  
 Je n'y pensay jamais.  
 
-    LA TANTE. 
-Vous le voulez bien dire,  
+    LA TANTE.
+        Vous le voulez bien dire,  
 Mais…  
 
     LEANDRE.
-Où donc en pourroit estre le mot pour rire ?  
+        Où donc en pourroit estre le mot pour rire ?  
 Je dis ce qu'il faut croire.  
 
     LA TANTE.
-A quoy bon affecter  
+        A quoy bon affecter  
 De nier un amour dont je ne puis douter ?  
 
     LEANDRE.
 Vous le devez pourtant.  
 
     LA TANTE.
-C'est vous trahir vous-mesme,  
+        C'est vous trahir vous-mesme,  
 Ne vous obstinez point…  
 
     LEANDRE.
-Enfin donc je vous aime ?  
+        Enfin donc je vous aime ?  
 
     LA TANTE.
 Quand d'Oronte aujourd'huy je n'aurois pas appris  
@@ -3282,7 +3282,7 @@ Mais je ne vous aimay cependant de ma vie.
 Vous ne m'aimez pas ?  
 
     LEANDRE.
-Non, et n'en ay point d'envie.  
+        Non, et n'en ay point d'envie.  
 
     LA TANTE.
 Le terme est un peu fier, et mesme injurieux,  
@@ -3295,7 +3295,7 @@ Peut-on assez loüer cet effort de vertu ?
 Mais je vous parle net.  
 
     LA TANTE.
-Vous vous estes trop teu,  
+        Vous vous estes trop teu,  
 C'est d'où vient tout le mal, mais j'y voy du remede.  
 Sans trop en murmurer ce cher amy vous cede,  
 Et mesme s'il vous faut dire tout aujourd'huy,  
@@ -3323,21 +3323,21 @@ De mon amour pour vous vous a fait le beau conte,
 Ne luy parliez-vous point d'épouser ?  
 
     LA TANTE.
-Dés demain,  
+        Dés demain,  
 S'il l'eust pû consentir [131].  
 
     LEANDRE.
-Vous l'offriez en vain,  
+        Vous l'offriez en vain,  
 Je ne m'étonne plus s'il a joüé d'adresse.  
 
     LA TANTE.
 Seroit-il marié ?  
 
-    LEANDRE. 
-Non pas, mais…  
+    LEANDRE.
+    Non pas, mais…  
 
     LA TANTE.
-Et bien, qu'est-ce ?  
+        Et bien, qu'est-ce ?  
 
     LEANDRE.
 Ce seroit le trahir que vous en dire plus.  
@@ -3346,45 +3346,45 @@ Ce seroit le trahir que vous en dire plus.
 De grace.  
 
     LEANDRE.
-Je ne puis m'expliquer là-dessus,  
+        Je ne puis m'expliquer là-dessus,  
 Il romproit avec moy s'il avoit pû l'apprendre.  
 
     LA TANTE.
 Je n'en parleray point.  
 
     LEANDRE.
-Je crains trop…  
+    Je crains trop…  
 
     LA TANTE.
-Non, Leandre,  
+        Non, Leandre,  
 Croyez-moy.  
 
     LEANDRE.
-Vous vouliez recompenser son feu ?  
+        Vous vouliez recompenser son feu ?  
 Jugez s'il le peut estre [132], il est vostre Neveu.  
 
     LA TANTE.
 Mon…  
 
     LEANDRE.
-Il m'a fait cent fois jurer de vous le taire.  
+        Il m'a fait cent fois jurer de vous le taire.  
 
     LA TANTE.
 Quoy, vous dites…  
 
     LEANDRE.
-Qu'Oronte est fils de vostre Frere,  
+        Qu'Oronte est fils de vostre Frere,  
 Qui laissant ce Païs pour l'Angleterre, aima  
 La comtesse d'Uspek qu'à son tour il charma.  
 De leurs amours secrets ce fruit serra la chaîne,  
 Mais au moins songez bien…  
 
-    LA TANTE. 
-N'en soyez point en peine,  
+    LA TANTE.
+        N'en soyez point en peine,  
 Allons les retrouver, mais si vous m'aimiez ?  
 
     LEANDRE.
-Non,  
+        Non,  
 Madame, vous sçavez que j'agis sans façon.  < Fin du troisiéme Acte. >
 
 
@@ -3405,7 +3405,7 @@ Vous ne vous sentez pas d'un si cher rendez-vous ?
 Vos yeux brillent de joye.  
 
     ORONTE.
-Elle est étincelante.  
+        Elle est étincelante.  
 Mais n'as-tu point appris ce que me veut la Tante ?  
 
     LYSETTE.
@@ -3453,21 +3453,21 @@ LA TANTE, ORONTE, LYSETTE.
 
 
     LA TANTE.
-Jugez si ma joye est la vostre  
+        Jugez si ma joye est la vostre  
 Quand je fausse pour vous compagnie à tout autre,  
 Du jardin tout exprés j'ay sçeu me dérober.  
 
-    ORONTE. 
+    ORONTE.
 Aussi Lysette sçait…  
 
     LA TANTE.
-Que vous sçavez fourber.  
+        Que vous sçavez fourber.  
 
     ORONTE.
 Moy ?  
 
     LA TANTE.
-Ne craignez rien d'elle, elle est ma confidente.  
+        Ne craignez rien d'elle, elle est ma confidente.  
 
     ORONTE.
 Leandre aura nié l'ennuy⁎ qui le tourmente ?  
@@ -3502,14 +3502,14 @@ N'estant instruit de rien je ne sçay que répondre.
     LA TANTE.
 Et bien, sçay-je la carte [139], et ce qu'on fait à Londre ?  
 
-    ORONTE. 
+    ORONTE.
 Madame…  
 
     LA TANTE.
-Elle estoit belle ?  
+    Elle estoit belle ?  
 
     ORONTE.
-Il ne m'est pas permis…  
+        Il ne m'est pas permis…  
 
     LA TANTE.
 Parlez, cela sied bien dans la bouche d'un Fils.  
@@ -3518,17 +3518,17 @@ Parlez, cela sied bien dans la bouche d'un Fils.
 D'un Fils !  
 
     LYSETTE *haut*.
-Quoy, jusqu'icy nous avoir fait finesse,  
+        Quoy, jusqu'icy nous avoir fait finesse,  
 Monsieur, que vous estiez le Fils d'une Comtesse !  
 Madame, il est donc vray ?  
 
     LA TANTE.
-Tu vois qu'il en rougit,  
+        Tu vois qu'il en rougit,  
 Mon frere en fut épris aussi-tost qu'il la vit,  
 Juge du reste.  
 
     LYSETTE.
-Oronte est Fils de vostre Frere ?  
+        Oronte est Fils de vostre Frere ?  
 
     LA TANTE.
 A l'air dont il m'avoit écrit pour son affaire,  
@@ -3548,7 +3548,7 @@ Pour vous cacher mon sort, j'avois feint que Leandre…
 Je le sçay, mais d'aimer doit-on pas se défendre  
 Quand on voit que le sang nous en fait une loy ?  
 
-    ORONTE. 
+    ORONTE.
 Helas ! combien de fois aime-t'on malgré soy ?  
 Quand je m'en apperceus, si vous sçaviez, Madame,  
 Les efforts que je fis pour éteindre ma flame,  
@@ -3578,16 +3578,16 @@ Voyez le bel Oyson qui remontre [141] à la Tante.
 Vous nous épiez donc ?  
 
     ANGELIQUE.
-J'entrois sans y penser.  
+        J'entrois sans y penser.  
 
     LYSETTE.
 Quand on a des Neveux on peut les embrasser.  
 
-    ANGELIQUE. 
+    ANGELIQUE.
 Oronte est le Neveu de ma Tante ?  
 
     LYSETTE.
-Ouy, sans doute.  
+        Ouy, sans doute.  
 
     LA TANTE.
 La seule ardeur du sang est celle que j'écoute,  
@@ -3598,13 +3598,13 @@ Il est donc mon Cousin s'il est vostre Neveu,
 Et je dois comme vous l'embrasser.  
 
     ORONTE *l'embrassant*.
-Ma Cousine.  
+        Ma Cousine.  
 
     LA TANTE.
 Vous l'embrassez bien fort.  
 
     ANGELIQUE.
-C'est que je m'imagine  
+        C'est que je m'imagine  
 Qu'il faut quand on le voit régaler un Cousin.  
 
     LA TANTE.
@@ -3623,13 +3623,13 @@ Mon Neveu m'entretient d'une affaire importante.
 Adieu donc, mon Cousin.  
 
     ORONTE.
-Adieu, belle Parente.  
+        Adieu, belle Parente.  
 
     LYSETTE *bas à Angelique*.
 Le Cousinage n'est…  
 
     ANGELIQUE.
-Leandre m'a tout dit.  
+        Leandre m'a tout dit.  
 
 
 ### SCENE IV
@@ -3654,10 +3654,10 @@ Elle en a prés de vingt, et si [143], quoy que je fasse,
 Vous voyez ce que c'est.  
 
     ORONTE.
-Vingt ?  
+    Vingt ?  
 
     LYSETTE *bas*.
-Qu'elle a bonne grace  
+        Qu'elle a bonne grace  
 D'en donner à sa Niepce et de s'en dérober !  
 
     LA TANTE.
@@ -3687,19 +3687,19 @@ C'est trop, je ne vous puis plus long-temps voir en peine,
 Consolez-vous.  
 
     ORONTE.
-Dequoy ?  
+    Dequoy ?  
 
     LA TANTE.
-Ce frere prétendu…  
+        Ce frere prétendu…  
 
     ORONTE *bas*.
 Je tremble.  
 
     LA TANTE.
-Il ne m'est rien.  
+    Il ne m'est rien.  
 
     ORONTE *à Lysette*.
-Ah, me voicy perdu.  
+        Ah, me voicy perdu.  
 
     LYSETTE [146].
 Vostre Frere l'Anglois n'est pas vostre vray frere ?  
@@ -3714,10 +3714,10 @@ Les noms de Frere et sœur l'ont depuis confirmée.
 Lysette.  
 
     LYSETTE *bas à Oronte*.
-M'en voilà pour vous toute alarmée,  
+        M'en voilà pour vous toute alarmée,  
 Vous l'échaperez belle en parant celuy-cy.  
 
-    LA TANTE. 
+    LA TANTE.
 Donc pour la parenté n'ayez aucun soucy,  
 Lysette ira ce soir nous chercher un Notaire,  
 Et demain en secret… mais quoy c'est vous déplaire,  
@@ -3742,19 +3742,19 @@ Qu'Oronte, quoy qu'amant, ne vous peut épouser.
 Qui l'en empescheroit ?  
 
     ORONTE.
-Le malheur qui m'accable.  
+        Le malheur qui m'accable.  
 
     LA TANTE.
 C'est ne rien dire.  
 
     ORONTE.
-Helas, que je suis miserable⁎ !  
+        Helas, que je suis miserable⁎ !  
 
     LA TANTE.
 Mais…  
 
     ORONTE.
-Contre un temeraire armez vostre couroux.  
+        Contre un temeraire armez vostre couroux.  
 
 
 ### SCENE V.
@@ -3770,7 +3770,7 @@ Laisse-moy, son succez ne m'inquiete guere,
 J'ay bien d'autres soucis.  
 
     LA TANTE.
-Dites donc ce que c'est.  
+        Dites donc ce que c'est.  
 
     ORONTE.
 Je sçay qu'en mon destin vous prenez interest,  
@@ -3792,13 +3792,13 @@ Combien m'a-t'il oüy tant de nuict que de jour
 Me plaindre en vous nommant et soûpirer d'amour ?  
 Il a voulu cent fois en avertir Lysette.  
 
-    PHILIPIN. 
+    PHILIPIN.
 Vostre nom prononcé, nostre nuict estoit faite.  
 Mille doux souvenirs pour le mieux embraser  
 Luy peignoient…  
 
     LA TANTE.
-Pourquoy donc ne me pas épouser ?  
+        Pourquoy donc ne me pas épouser ?  
 
     ORONTE.
 Par un sort si cruel qu'à peine⁎ j'en respire.  
@@ -3807,24 +3807,24 @@ Par un sort si cruel qu'à peine⁎ j'en respire.
 Mais enfin quel est-il ?  
 
     ORONTE.
-Je ne puis vous le dire.  
+        Je ne puis vous le dire.  
 
     LA TANTE.
 Vous ne le pouvez ?  
 
     ORONTE.
-Non.  
+    Non.  
 
     LA TANTE.
-Ce sont là ces beaux feux ?  
+        Ce sont là ces beaux feux ?  
 De grace…  
 
     ORONTE *bas à Philipin*.
-Ah, Philipin, secours-moy si tu peux,  
+        Ah, Philipin, secours-moy si tu peux,  
 Suppose, invente, ments.  
 
     PHILIPIN *bas à Oronte*.
-Moy, Monsieur, que diray-je ?  
+        Moy, Monsieur, que diray-je ?  
 
     LA TANTE.
 Si bien que le silence est vostre privilege ?  
@@ -3834,15 +3834,15 @@ Il vous faut bonnement croire sur vostre foy⁎.
 Madame.  
 
     LA TANTE.
-Adieu, Monsieur, vous vous moquez de moy,  
+        Adieu, Monsieur, vous vous moquez de moy,  
 Vos secrets sont à vous, et je vous en tiens quite,  
 Mais je vous prie aussi, plus aucune visite.  
 
     ORONTE.
 Ah Dieux !  
 
-    LA TANTE. 
-Jamais de vous je n'en veux recevoir.  
+    LA TANTE.
+        Jamais de vous je n'en veux recevoir.  
 
     ORONTE.
 Quoy, vous me priveriez pour toûjours de vous voir,  
@@ -3852,14 +3852,14 @@ Il faut donc que je meure ; est-ce là vostre envie ?
 Non, je veux seulement…  
 
     ORONTE.
-Il y va de ma vie.  
+        Il y va de ma vie.  
 
     LA TANTE.
 Vous ouvrant avec moy vous ne hazardez rien.  
 Je vous aime.  
 
     ORONTE.
-Il est vray, je le connoy trop bien,  
+        Il est vray, je le connoy trop bien,  
 Mais il m'est si honteux que vous sçachiez l'affaire.  
 
     LA TANTE.
@@ -3890,21 +3890,21 @@ Quelquefois on a peine à surmonter la honte.
 Ah Philipin, dy nous…  
 
     PHILIPIN.
-Leandre sçait le tout.  
+        Leandre sçait le tout.  
 
     LYSETTE.
 Penses-tu qu'aisément nous en venions à bout ?  
 Il s'entendent l'un l'autre.  
 
     PHILIPIN.
-Et si je vay trop dire,  
+        Et si je vay trop dire,  
 Quand mon dos patira, vous n'en ferez que rire.  
 
     LA TANTE.
 Va, je prens tout sur moy.  
 
     LYSETTE.
-Mais enfin tu sçais bien  
+        Mais enfin tu sçais bien  
 Que ton Maistre consent qu'on ne nous cache rien.  
 
     PHILIPIN.
@@ -3914,7 +3914,7 @@ Il est vray ; vous sçaurez en tout cas me défendre.
 Ne crains rien.  
 
     PHILIPIN.
-Oyez donc ce qu'il vous plaist d'apprendre,  
+        Oyez donc ce qu'il vous plaist d'apprendre,  
 Un voyage Breton fait tres-mal à propos  
 Aujourd'huy de mon Maistre est le trouble repos.  
 Pour joindre un Ennemy qui tiroit en arriere,  
@@ -3931,7 +3931,7 @@ Le baron, et ce fut le malheur de mon Maistre…
 On l'appelle ?  
 
     PHILIPIN.
-Et par où le pourriez-vous connoistre ?  
+        Et par où le pourriez-vous connoistre ?  
 Au fonds de la Bretagne avez-vous des Agents ?  
 
     LA TANTE.
@@ -3944,13 +3944,13 @@ D'Albikrac. On le tient un des plus galants hommes…
 Lysette.  
 
     LYSETTE *à Philipin*.
-Parle bas, ce Baron que tu nommes…  
+        Parle bas, ce Baron que tu nommes…  
 
     PHILIPIN.
 Et bien ?  
 
     LYSETTE.
-Avec Leandre il est dans le jardin.  
+        Avec Leandre il est dans le jardin.  
 
     PHILIPIN.
 Ah, c'est fait de mon Maistre, et j'en crains bien la fin.  
@@ -3960,7 +3960,7 @@ Tu connois à quel point son interest m'engage,
 Acheve.  
 
     PHILIPIN.
-Le Baron estoit lors en [149] voyage.  
+        Le Baron estoit lors en [149] voyage.  
 Une Sœur qu'il avoit le receut au Chasteau,  
 Fit penser la blesseure, et puis, c'est là le beau.  
 En se communiquant [150] tous deux ils s'enflammerent,  
@@ -4005,7 +4005,7 @@ Mais, Madame, cela ne fait point nostre affaire.
 Il faudroit par amis…  
 
     PHILIPIN.
-L'a-t'on pas voulu faire,  
+        L'a-t'on pas voulu faire,  
 Autant de temps perdu. Ce diable de Baron,  
 Quoy qu'on puisse alleguer, ne change point de ton,  
 Toûjours parle de pendre, et rien à l'amiable.  
@@ -4040,8 +4040,8 @@ Jamais on n'a tenu contre les Albikracs.
     LA TANTE.
 Je le croy.  
 
-    LA MONTAGNE. 
-Pas trop fou qui suit mes Almanachs.  
+    LA MONTAGNE.
+        Pas trop fou qui suit mes Almanachs.  
 
     LA TANTE.
 Ils doivent estre bons, mais avant que d'en prendre [152],  
@@ -4051,7 +4051,7 @@ Baron, quand vous aimez avez-vous le cœur tendre ?
 Comment tendre ?  
 
     LA TANTE.
-Il m'en faut une preuve aujourd'huy.  
+        Il m'en faut une preuve aujourd'huy.  
 
     PHILIPIN *à la Montagne bas sans faire semblant de luy parler.*
 La Rapiere pendu, ta sœur grosse de luy.  
@@ -4060,29 +4060,29 @@ La Rapiere pendu, ta sœur grosse de luy.
 Et quoy, vous hesitez ?  
 
     LA MONTAGNE.
-Non, ma poupine veuve,  
+        Non, ma poupine veuve,  
 Ordonnez, j'ay pour vous un cœur à toute épreuve.  
 
     LA TANTE.
 Un certain la Rapiere…  
 
     LA MONTAGNE.
-Il fut un peu pendu  
+        Il fut un peu pendu  
 Pour avoir…  
 
     LYSETTE *l'interrompant*.
-C'est le moins qui luy pust estre dû.  
+        C'est le moins qui luy pust estre dû.  
 Affronter un Baron !  
 
     LA TANTE.
-Sans doute il est coupable.  
+        Sans doute il est coupable.  
 
     LA MONTAGNE.
 Aussi je vous le fis brancher [153] comme un beau diable,  
 Vous l'eussiez veu…  
 
     LYSETTE.
-Ce fut devant vostre Chasteau  
+        Ce fut devant vostre Chasteau  
 Que vous fistes dresser sa Figure en tableau ?  
 Si jamais il est pris vous luy ferez grand chere [154].  
 
@@ -4100,7 +4100,7 @@ D'un affront si cruel le souvenir vous fâche,
 Mais les fautes d'autruy ne sont pas…  
 
     LA MONTAGNE.
-Ah le lâche !  
+        Ah le lâche !  
 La douleur dont m'accable un si dur souvenir…  
 Amy, pour un moment daigne me soûtenir,  
 Je n'en puis plus.  
@@ -4108,14 +4108,14 @@ Il fait semblant de se trouver mal et s'appuye sur Philipin qui luy conte tout �
 
 
     LA TANTE.
-Lysette, il faudroit…  
+    Lysette, il faudroit…  
 
     LA MONTAGNE.
-Non, Madame,  
+        Non, Madame,  
 Ce n'est rien.  
 
     LYSETTE *à la Tante*.
-Ces malheurs abatent bien une ame,  
+        Ces malheurs abatent bien une ame,  
 Plus la naissance⁎ est haute, et plus on les ressent.  
 
     LA TANTE.
@@ -4126,7 +4126,7 @@ Si j'estois que de vous [155], et que j'eusse une Niepce,
 Je sçaurois m'en défaire aussi-tost.  
 
     LA TANTE.
-Rien ne presse,  
+        Rien ne presse,  
 Voyons auparavant quel sera mon destin.  
 
     LYSETTE.
@@ -4135,13 +4135,13 @@ Le Baron sans reserve aspirant à vous plaire
 Je prendrois le plus seur.  
 
     LA MONTAGNE *bas à Philipin*.
-J'entens, laisse-moy faire.  
+        J'entens, laisse-moy faire.  
 
     PHILIPIN *bas à la Montagne*.
 Dy qu'il sera pendu tout au moins.  
 
     LA MONTAGNE *à la Tante*.
-Pardonnez  
+        Pardonnez  
 Le desordre où mes sens se sont abandonnez⁎.  
 La douleur m'a d'abord⁎ suffoqué la parole [156].  
 
@@ -4150,7 +4150,7 @@ L'accident est de ceux dont rien ne nous console,
 Et j'avouë…  
 
     LA MONTAGNE.
-Il est vray, je sçay qu'il seroit mieux  
+        Il est vray, je sçay qu'il seroit mieux  
 Que de honte et d'ennuy⁎ j'en mourusse à vos yeux,  
 Mais ma Sœur dont le sexe⁎ est moins fort que le nostre  
 A fait une folie, et j'en ferois une autre.  
@@ -4158,7 +4158,7 @@ Vivons donc s'il vous plaist nonobstant [157] son delit,
 C'est son affaire.  
 
     LA TANTE.
-Il faut vous en guerir l'esprit,  
+        Il faut vous en guerir l'esprit,  
 Et pour faire finir les ennuis⁎ qu'il vous cause  
 Avecque la Rapiere accommoder⁎ la chose.  
 
@@ -4172,14 +4172,14 @@ De ma sœur qu'elle estoit la faire de nos sœurs [161],
 Et quand il en est saoul luy tourner le derriere !  
 Ah, vous serez pendu, Monsieur de la Rapiere.  
 
-    LA TANTE. 
+    LA TANTE.
 Je sçay qu'il est coupable, et je l'ay dit d'abord⁎,  
 Mais il est des moments où l'amour est bien fort,  
 Et pour un peu d'empire⁎ usurpé sur son ame  
 Le malheureux qu'il est sera…  
 
     LA MONTAGNE.
-Pendu, Madame.  
+        Pendu, Madame.  
 A la sœur d'un Baron apprendre à provigner⁎ !  
 
     LA TANTE.
@@ -4192,19 +4192,19 @@ Ne tient-il qu'à venir affronter des Barons ?
 Par son cou, sans ressource.  
 
     LA TANTE.
-Et bien, nous le verrons.  
+        Et bien, nous le verrons.  
 M'aimez-vous ?  
 
     LA MONTAGNE.
-Les transports⁎ dont ma flame est suivie,  
+        Les transports⁎ dont ma flame est suivie,  
 Ne vous font que trop voir…  
 
     LA TANTE.
-Donnez-moy donc sa vie,  
+        Donnez-moy donc sa vie,  
 Sans cela, point de foy⁎.  
 
     LA MONTAGNE.
-Qui diable en demy jour  
+        Qui diable en demy jour  
 Vous est déja pour luy venu faire la Cour ?  
 Vous en a-t'on appris le païs, la naissance⁎ ?  
 
@@ -4219,7 +4219,7 @@ J'auray droit de vous dire, attendez moy sous l'orme [162].
 Sans cela point d'accord.  
 
     LA TANTE.
-Vous prendre pour époux  
+        Vous prendre pour époux  
 Ne seroit pas sans doute assez faire pour vous.  
 Ma Niepce est jeune et riche, allez je vous la donne.  
 
@@ -4239,27 +4239,27 @@ J'ay pris soin de l'instruire, et je répondray d'elle.
 D'accord, mais…  
 
     LA TANTE.
-Elle est riche, et de plus…  
+    Elle est riche, et de plus…  
 
     LA MONTAGNE.
-Bagatelle,  
+        Bagatelle,  
 C'est à vous que j'en veux.  
 
     LA TANTE.
-Mes beaux ans sont passez,  
+        Mes beaux ans sont passez,  
 J'enlaidis tous les jours.  
 
     LA MONTAGNE.
-Plaisez-moy, c'est assez.  
+        Plaisez-moy, c'est assez.  
 
     LA TANTE.
 Vous ne voulez pas voir que j'avance dans l'âge,  
 Que je n'ay plus…  
 
     LA MONTAGNE.
-Tant mieux vous en serez plus sage.  
+        Tant mieux vous en serez plus sage.  
 
-    LA TANTE. 
+    LA TANTE.
 On m'a parlé de vous, je ne le puis nier,  
 Mais si-tost que je songe à me remarier,  
 Les soins⁎ que le Defunt prit toûjours de me plaire,  
@@ -4275,7 +4275,7 @@ Vous l'avez bien trouvé, c'est par là qu'on m'attrape.
 Que Lysette…  
 
     LA MONTAGNE.
-Employez et le verd et le sec [166]  
+        Employez et le verd et le sec [166]  
 Pour me faire passer la plume par le bec [167],  
 Nous verrons qui de nous y trouvera son compte.  
 
@@ -4283,7 +4283,7 @@ Nous verrons qui de nous y trouvera son compte.
 Quoy donc…  
 
     LA MONTAGNE.
-Vous mitonnez⁎ le taciturne Oronte,  
+        Vous mitonnez⁎ le taciturne Oronte,  
 Et si jamais l'hymen le met entre vos bras  
 Vous prendrez patience, et n'en pleurerez pas.  
 
@@ -4305,7 +4305,7 @@ Vingt mille escus [168] pour elle ont entré dans la masse [169].
     LA MONTAGNE.
 Mille Barons et plus sont sortis de ma race.  
 
-    LA TANTE. 
+    LA TANTE.
 Mon bien en l'épousant vous est seur quelque jour.  
 
     LA MONTAGNE.
@@ -4318,7 +4318,7 @@ Mais quand ce ne seroit que cet hymen m'importe.
 Serviteur [170].  
 
     LA TANTE.
-A la fin la colere m'emporte.  
+        A la fin la colere m'emporte.  
 Ah, le vilain magot [171] qui refuse les gens.  
 
     LA MONTAGNE.
@@ -4329,12 +4329,12 @@ Quoy joindre impudemment le mensonge à l'injure,
 Soixante ans !  
 
     LA MONTAGNE.
-Ouy, soixante, à fort bonne mesure,  
+        Ouy, soixante, à fort bonne mesure,  
 Et je le maintiendray devant vostre Mignon⁎,  
 Je le connoy.  
 
     LYSETTE.
-Voyez le joly Compagnon  
+        Voyez le joly Compagnon  
 Qui nous donne des ans, elle n'en a pas trente.  
 
     LA MONTAGNE.
@@ -4353,17 +4353,17 @@ LA TANTE, LYSETTE.
 
 
     LYSETTE.
-Il s'en va bien outré.  
+    Il s'en va bien outré.  
 
     LA TANTE.
-Mais, Lysette,  
+        Mais, Lysette,  
 Par où sortir du trouble où son refus me jette.  
 
     LYSETTE.
 Moy, je ne vous dis rien.  
 
     LA TANTE.
-Qu'Oronte est malheureux !  
+        Qu'Oronte est malheureux !  
 
     LYSETTE.
 Vous courez grand hazard de les perdre tous deux,  
@@ -4372,7 +4372,7 @@ Ne découvre au Baron qu'Oronte est la Rapiere,
 Il va gagner païs [174].  
 
     LA TANTE.
-Pour fuir ce dur ennuy⁎,  
+        Pour fuir ce dur ennuy⁎,  
 Lysette, allons de tout conferer avec luy.  < Fin du quatriéme Acte. >
 
 
@@ -4388,7 +4388,7 @@ Quoy ? par un faux Baron avoir dupé ma Tante ?
 La piece⁎ est un peu forte.  
 
     ORONTE.
-Elle estoit importante,  
+        Elle estoit importante,  
 Et sans son entremise il s'offroit peu de jour  
 A vous pouvoir montrer l'excez de mon amour.  
 C'est luy qui m'a tiré de l'embarras extréme  
@@ -4421,7 +4421,7 @@ Mais pouvez-vous penser, quand ma Tante aprendra
 Qu'un Baron supposé…  
 
     ORONTE.
-Le vray Baron viendra.  
+        Le vray Baron viendra.  
 Je vous ay déja dit qu'arreté pour affaire  
 Il n'avoit sceu partir comme il le croyoit faire,  
 Et que par un Pouvoir que j'avois d'aujourd'huy  
@@ -4444,8 +4444,8 @@ Pourveu qu'il trouve l'un il la quite de l'autre [176].
 Que j'aye aussi mon compte en vous donnant le vôtre,  
 J'aime Lysette.  
 
-    ANGELIQUE. 
-Va, nous songerons à toy.  
+    ANGELIQUE.
+        Va, nous songerons à toy.  
 
     PHILIPIN.
 Aprés tout, vostre amour ne tenoit rien sans moy,  
@@ -4474,7 +4474,7 @@ ANGELIQUE, ORONTE, LYSETTE, PHILIPIN.
 
 
     LYSETTE.
-Voicy bien des nouvelles  
+        Voicy bien des nouvelles  
 Armez-vous de constance et faites l'esprit fort,  
 On va vous prononcer la sentence de mort,  
 Le Baron pour cela se fait tenir à quatre [177],  
@@ -4495,7 +4495,7 @@ Cascaret est couru [178] d'abord⁎ chez le Notaire.
 En croiray-je vos yeux ?  
 
     ANGELIQUE.
-Ils ne peuvent se taire,  
+        Ils ne peuvent se taire,  
 Et vous marquent assez ce que mon cœur ressent.  
 
     LYSETTE.
@@ -4510,19 +4510,19 @@ Rentrez, future épouse, attendant qu'on vous mande.
 M'aimez-vous ?  
 
     ANGELIQUE.
-Jugez-en.  
+    Jugez-en.  
 
     ORONTE.
-Parlez.  
+    Parlez.  
 
     ANGELIQUE.
-Quelle demande !  
+        Quelle demande !  
 Combien de fois déja…  
 
     ORONTE.
-Daignez le repeter.  
+        Daignez le repeter.  
 
-    ANGELIQUE. 
+    ANGELIQUE.
 Adieu, j'en dirois trop si j'osois écouter.  
 
 
@@ -4534,11 +4534,11 @@ ORONTE, LYSETTE, PHILIPIN.
 Et bien ?  
 
     ORONTE.
-Je te doy tout, si son cœur est sensible  
+        Je te doy tout, si son cœur est sensible  
 C'est par toy…  
 
     LYSETTE.
-Vous doutiez qu'il pust estre flexible,  
+        Vous doutiez qu'il pust estre flexible,  
 Croyez-moy, s'il en est qu'on voit s'en affranchir,  
 C'est faute de trouver qu'il les vueille flechir.  
 On vient à bout de tout avec un peu d'étude,  
@@ -4552,7 +4552,7 @@ C'est la mesme vertu [180], cependant, c'est tout comme.
 Ton sexe⁎ te doit trop.  
 
     LYSETTE.
-Je hay les sots détours,  
+        Je hay les sots détours,  
 Et j'enrage de voir ce qu'on voit tous les jours,  
 De ces Sages du temps, de ces demy-Beates [181]  
 Qui sur le point d'honneur faisant les delicates,  
@@ -4564,7 +4564,7 @@ Quant à moy je dis fy de ces contrefaçons,
 Point de déguisement, point de…  
 
     PHILIPIN.
-Bonnes leçons !  
+        Bonnes leçons !  
 Donc si je t'épousois, et qu'il te prist envie  
 De me faire augmenter la grande Confrairie [183],  
 Tu viendrois franchement me le dire à mon nez ?  
@@ -4573,14 +4573,14 @@ Tu viendrois franchement me le dire à mon nez ?
 Le grand mal !  
 
     PHILIPIN.
-Il s'étend jusqu'aux plus rafinez,  
+        Il s'étend jusqu'aux plus rafinez,  
 Mais si pour s'en sauver un Mary ne voit goute,  
 Du moins sans qu'il le sçache, il suffit qu'il s'en doute,  
 Si nous en venons là, dissimulons tous deux [184],  
 Autrement…  
 
     LYSETTE *à Oronte*.
-Faites bien le plaintif, le piteux,  
+        Faites bien le plaintif, le piteux,  
 La Tante vient.  
 
 
@@ -4589,13 +4589,13 @@ ORONTE, LA TANTE, LYSETTE, PHILIPIN.
 
 
     ORONTE.
-La perdre ! Ah douleur qui me tuë !  
+        La perdre ! Ah douleur qui me tuë !  
 
     LYSETTE.
 Tâchez d'en avoir l'ame un peu moins abatuë.  
 Si l'on trompe vos feux c'est pour vous secourir.  
 
-    ORONTE. 
+    ORONTE.
 Ah, qu'il vaudroit bien mieux qu'on me laissast périr !  
 Tu dis que cet Hymen luy tient lieu de supplice,  
 Qu'elle fait en tremblant ce triste sacrifice,  
@@ -4610,7 +4610,7 @@ Il me faut épouser ce que je n'aime pas,
 Me livrer au Baron.  
 
     ORONTE.
-Au Baron ! Ah, Madame !  
+        Au Baron ! Ah, Madame !  
 
     LA TANTE.
 Que de douceurs, helas ! va perdre vostre flame !  
@@ -4619,13 +4619,13 @@ Eust charmé vostre cœur par mille tendres soins⁎,
 Je vous aurois chery, témoigné…  
 
     ORONTE.
-Quelle rage !  
+        Quelle rage !  
 
     PHILIPIN [185].
 La bonne ame [186] !  
 
     LA TANTE.
-Ah, pourquoy n'étiez-vous pas plus sage ?  
+        Ah, pourquoy n'étiez-vous pas plus sage ?  
 Pour la sœur du Baron, quoy qu'elle eust de charmant,  
 Falloit-il de vos feux croire l'emportement ?  
 S'y trop abandonner⁎, n'en prévoir pas la suite ?  
@@ -4643,15 +4643,15 @@ Qu'afin de l'épouser j'eusse attendu son Frere,
 Mais plûtost…  
 
     LA TANTE.
-Par argent si nous tâchions…  
+    Par argent si nous tâchions…  
 
     ORONTE.
-Abus⁎,  
+        Abus⁎,  
 J'ay fait offrir six fois jusqu'à dix mille écus,  
 Mais à moins d'épouser…  
 
     LA TANTE.
-Il faut donc me resoudre  
+        Il faut donc me resoudre  
 A devenir sa femme afin de vous absoudre,  
 Un veusvage éternel me seroit bien plus doux.  
 
@@ -4659,7 +4659,7 @@ Un veusvage éternel me seroit bien plus doux.
 Et bien demeurez Veusve.  
 
     LA TANTE.
-Et que deviendrez-vous ?  
+        Et que deviendrez-vous ?  
 Le Baron a juré vostre ruïne entiere.  
 Ah, que si vous pouviez n'estre point la Rapiere.  
 
@@ -4668,28 +4668,28 @@ Sa Rapiere a fait rage [188], il en a pris le nom [189],
 Voila que [190] c'est d'occire [191].  
 
     ORONTE.
-Evitant le Baron  
+        Evitant le Baron  
 Que craindray-je ? Candie est un poste honorable,  
 J'iray contre le Turc… [192]  
 
     PHILIPIN.
-J'iray contre le Diable ?  
+        J'iray contre le Diable ?  
 Le Turc, Madame !  
 
     LA TANTE.
-Non, si le Ciel ne veut pas  
+        Non, si le Ciel ne veut pas  
 Qu'un doux et chaste nœud me mette entre vos bras,  
 Du moins pour m'empescher de vivre infortunée  
 Attachez-vous à moy par un autre hymenée.  
 Ma Niepce…  
 
     LYSETTE.
-Elle est pour luy toûjours à dédaigner,  
+        Elle est pour luy toûjours à dédaigner,  
 C'est pis qu'un heretique, on n'y peut rien gagner.  
 Hors vous rien ne luy plaist.  
 
     LA TANTE.
-Mais on la trouve aimable.  
+        Mais on la trouve aimable.  
 
     ORONTE.
 Madame, si l'on veut elle est incomparable,  
@@ -4697,16 +4697,16 @@ Mais je mourrois d'ennuy⁎ si j'étois son époux,
 Chacun voit par ses yeux.  
 
     PHILIPIN [193].
-Comme il le baille⁎ doux,  
+        Comme il le baille⁎ doux,  
 L'entend-il ?  
 
     LA TANTE.
-Cependant quoy que nous puissions faire  
+        Cependant quoy que nous puissions faire  
 Le Baron sans cela refuse vostre affaire,  
 Point d'accommodement.  
 
     ORONTE.
-Et par quel interest ?  
+        Et par quel interest ?  
 
     LA TANTE.
 Il croit que vostre hymen est tout ce qui me plaist,  
@@ -4727,7 +4727,7 @@ Rend la guerre pour moy préferable à l'amour,
 J'y vay prendre party.  
 
     PHILIPIN.
-C'est afin qu'on nous tuë,  
+        C'est afin qu'on nous tuë,  
 Il a la rage au cœur de vous avoir perduë,  
 Madame, ayez pitié du maistre et du valet.  
 
@@ -4746,7 +4746,7 @@ Est-ce fait ? quant à moy dire et faire n'est qu'un.
 Vous avez grande haste.  
 
     LA MONTAGNE.
-Ouy, j'en suis importun,  
+        Ouy, j'en suis importun,  
 Mais c'est mon naturel d'estre preste [195] à tout faire.  
 Signerons-nous ? c'est là ma plus pressante affaire.  
 
@@ -4764,7 +4764,7 @@ Le Notaire venu, nous le stipulerons,
 Madame est raisonnable.  
 
     LA MONTAGNE.
-Il le faudra superbe.  
+        Il le faudra superbe.  
 à Oronte.
 
 Vous pensiez sous le pied me pouvoir couper l'herbe,  
@@ -4772,7 +4772,7 @@ Blondin⁎, mais s'il vous plaist rengainez vos amours,
 La Tante…  
 
     ORONTE.
-Ouy je l'aimois, et l'aimeray toûjours,  
+        Ouy je l'aimois, et l'aimeray toûjours,  
 Et quand vous me l'ostez plein d'une fiere audace,  
 Ce trait de raillerie est de méchante [197] grace.  
 Si pour vous contre moy ses propres interests…  
@@ -4787,30 +4787,30 @@ Je vous donne la Niepce, et vous fais son époux.
 Non pas, quand il faudroit…  
 
     LA MONTAGNE.
-Comment l'entendez-vous,  
+        Comment l'entendez-vous,  
 Ma Tante ?  
 
     ORONTE.
-Mais comment l'entendez-vous vous mesme ?  
+        Mais comment l'entendez-vous vous mesme ?  
 Ne vous suffit-il pas de m'oster ce que j'aime ?  
 Faut-il…  
 
     LA MONTAGNE.
-Criez, pestez autant qu'il vous plaira.  
+        Criez, pestez autant qu'il vous plaira.  
 Sçavez-vous de cecy ce qui resultera ?  
 La Rapiere… autant vaut.  
 
     LA TANTE *à Oronte*.
-Mon cher Monsieur.  
+    Mon cher Monsieur.  
 
-    ORONTE. 
-Madame.  
+    ORONTE.
+        Madame.  
 
     LA MONTAGNE.
 On me le doit livrer.  
 
     LA TANTE.
-Que je touche vostre ame.  
+        Que je touche vostre ame.  
 Sauvez un malheureux dont je prens l'interest.  
 
     ORONTE.
@@ -4824,11 +4824,11 @@ Madame vous en prie. Il faut la satisfaire.
 Mais sa Niepce jamais ne voudra…  
 
     LA TANTE.
-Vueille ou non,  
+        Vueille ou non,  
 J'en répons.  
 
     ORONTE.
-Elle espere épouser le Baron,  
+        Elle espere épouser le Baron,  
 Le rang qu'il tient la charme, elle en est entestée,  
 Et l'en ayant tantost par vostre ordre flatée…  
 
@@ -4846,14 +4846,14 @@ Epousez-là de grace, et me laissez Oronte.
 Epargnez-luy l'ennuy⁎ de me voir dans vos bras,  
 Il m'aime tant.  
 
-    LA MONTAGNE. 
-Et moy, ne vous aimay-je pas ?  
+    LA MONTAGNE.
+        Et moy, ne vous aimay-je pas ?  
 
     LA TANTE.
 Je ne sçay.  
 
     LA MONTAGNE.
-Quoy, dix fois on m'a pour la Rapiere,  
+        Quoy, dix fois on m'a pour la Rapiere,  
 Avec dix mille écus fait tres-humble priere,  
 Je le dépens [200] gratis dés que vous m'en priez,  
 Et malgré tout cela vous vous en défiez⁎ ?  
@@ -4862,19 +4862,19 @@ Et malgré tout cela vous vous en défiez⁎ ?
 Mais vous dites que j'ay…  
 
     LA MONTAGNE.
-C'est que je goguenarde.  
+        C'est que je goguenarde.  
 
     LA TANTE.
 Vous me trouvez si laide ?  
 
     LA MONTAGNE.
-Y faut-il prendre garde ?  
+        Y faut-il prendre garde ?  
 
     LA TANTE.
 L'affront me tient au cœur.  
 
     LA MONTAGNE.
-Et moy, fort à l'esprit.  
+        Et moy, fort à l'esprit.  
 Avez-vous oublié ce que vous m'avez dit ?  
 
     LA TANTE.
@@ -4918,7 +4918,7 @@ Mais pour m'oüir nommer Madame la Baronne,
 Me voir grand équipage⁎…  
 
     LA MONTAGNE.
-Ah friand⁎ [206] petit nez,  
+        Ah friand⁎ [206] petit nez,  
 De vostre chef ainsi vous vous embaronnez ?  
 En fait de ce qui flate, et doit donner à rire,  
 La chate [207] a le goust bon, et ne prend pas le pire.  
@@ -4926,8 +4926,8 @@ La chate [207] a le goust bon, et ne prend pas le pire.
     ANGELIQUE.
 Ne m'avez-vous pas dit que vous vouliez…  
 
-    LA MONTAGNE. 
-Toux doux,  
+    LA MONTAGNE.
+        Toux doux,  
 Un Baron tel que moy n'est pas viande pour vous.  
 Un mets si delicat n'est que pour une Tante.  
 
@@ -4937,11 +4937,11 @@ Et plûtost qu'à l'hymen on la pust disposer,
 Elle seroit…  
 
     LA TANTE.
-Il faut vous entendre jaser⁎,  
+        Il faut vous entendre jaser⁎,  
 Où va-t'elle ?  
 
     ANGELIQUE.
-Je sorts de peur de vous déplaire.  
+        Je sorts de peur de vous déplaire.  
 
     LA MONTAGNE.
 Vous ne vous sçauriez donc marier et vous taire ?  
@@ -4951,10 +4951,10 @@ Venez, voila le beau qu'on vous a destiné.
 Oronte !  
 
     LA MONTAGNE.
-Il est dispos, alaigre, bien tourné.  
+    Il est dispos, alaigre, bien tourné.  
 
     ANGELIQUE.
-N'importe.  
+        N'importe.  
 
     LA TANTE.
 Vous voulez, je pense, estre priée.  
@@ -4966,15 +4966,15 @@ Je suis trop jeune encor pour estre mariée.
 Voyez, elle en mourroit.  
 
     LA MONTAGNE.
-Que d'importuns debats !  
+        Que d'importuns debats !  
 Finissons en deux mots, veut-on ? ne veut-on pas ?  
 
     ORONTE.
 Mais en quoy mon Hymen importe-t'il au vostre  
 Pour vouloir que…  
 
-    LA MONTAGNE. 
-C'est là me prendre pour un autre,  
+    LA MONTAGNE.
+        C'est là me prendre pour un autre,  
 Il me faut faire un tour en Bretagne, et tandis [208]  
 Vous auriez tout loisir de vous estre ébaudis [209].  
 Moy party, la Rapiere absous, la chere Tante  
@@ -4987,35 +4987,35 @@ Un jour plus, un jour moins ne vous importe gueres,
 Et…  
 
     LA MONTAGNE.
-Mon futur Neveu chacun sçait ses affaires.  
+        Mon futur Neveu chacun sçait ses affaires.  
 Donnez la main.  
 
     ANGELIQUE.
-Moy ?  
+    Moy ?  
 
     LA MONTAGNE.
-Viste, et sans plus raisonner.  
+        Viste, et sans plus raisonner.  
 
     LA TANTE.
 La Sote !  
 
     LYSETTE.
-Donnez-la puisqu'il la faut donner,  
+        Donnez-la puisqu'il la faut donner,  
 Vous fâchez vostre Tante.  
 
     ANGELIQUE.
-Elle en parle à son aise,  
+        Elle en parle à son aise,  
 Quand on a des Barons…  
 
     LA MONTAGNE.
-Vous plaist-il qu'il vous plaise ?  
+        Vous plaist-il qu'il vous plaise ?  
 
     ANGELIQUE.
 Il faut bien obeïr, mais je ne répons pas  
 Qu'à vaincre mon dégoust jamais Oronte…  
 
     LA MONTAGNE.
-Helas,  
+        Helas,  
 On s'accoustume à tout. Demain donc sans remise,  
 Dans les bras de l'Epoux l'Epouse sera mise.  
 Cela fait je déloge, et parts en seureté.  
@@ -5035,19 +5035,19 @@ J'y veux bien adjouster encor ce Diamant,
 Il n'est pas des plus laids.  
 
     LYSETTE.
-Madame, comme il brille !  
+        Madame, comme il brille !  
 
     LEANDRE.
 Il est de prix.  
 
     LA MONTAGNE.
-C'est presque un tître de famille,  
+        C'est presque un tître de famille,  
 Des Seigneurs Albikracs il vient de Pere en Fils,  
 L'an est gravé dessous, mil deux cent trente six.  
 Si l'on ne m'en croit pas, en rompant…  
 
     LA TANTE.
-Non, de grace,  
+        Non, de grace,  
 On ne peut mieux prouver une ancienne race.  
 
     LA MONTAGNE.
@@ -5062,11 +5062,11 @@ LA TANTE, LEANDRE, ORONTE, ANGELIQUE, LA MONTAGNE, LYSETTE, CASCARET, PHILIPIN.
 
 
     CASCARET.
-Madame,  
+        Madame,  
 Le Notaire est venu.  
 
     LA MONTAGNE.
-Bon, allons tous signer.  
+        Bon, allons tous signer.  
 Ma Sœur en l'apprenant voudra se mutiner,  
 Mais elle a fait la faute, il faut qu'elle la boive [211].  
 
@@ -5075,23 +5075,23 @@ A son propre repos [212] il n'est rien qu'on ne doive [213],
 Goûtez-le sans chagrin.  
 
     PHILIPIN.
-Par la permission  
+        Par la permission  
 De tres-haut, tres-puissant Monseigneur le Baron,  
 Que j'épouse Lysette.  
 
     LA MONTAGNE.
-Elle n'est pas novice,  
+        Elle n'est pas novice,  
 Tu choisis bien.  
 
     PHILIPIN.
-Monsieur, je la croy de service,  
+        Monsieur, je la croy de service,  
 C'est bien mon fait⁎ par là.  
 
     LA MONTAGNE.
-T'aime-t'elle ?  
+    T'aime-t'elle ?  
 
     PHILIPIN.
-A peu prés.  
+        A peu prés.  
 
     LA MONTAGNE.
 Viens signer avec nous, tu danseras après.  < FIN. >

@@ -1,5 +1,5 @@
 ---
-identifier: somaize_veritables  
+identifier: somaize_veritables-pretieuses  
 creator: Somaize, Antoine Baudeau  
 date: 1660  
 title: Les Véritables Prétieuses. Comédie.  
@@ -902,7 +902,7 @@ Enfin, nous avons corrigé une erreur de pagination à la page 90, qui portait l
 Lorsque le sens d'un mot diffère du sens actuel, un astérisque renvoie le lecteur au lexique, commun aux deux oeuvres, pour une définition de ce mot en usage au XVII*e* siècle et un renvoi aux différentes occurrences dans le texte. Les notes de bas de page viennent éclaircir le texte pour une meilleure compréhension linguistique et historique. Nous y avons indiqué entre parenthèses les différents outils de travail convoqués, référencés dans la bibliographie.
 
 
-# LES VÉRITABLES PRÉTIEUSES. COMEDIE.         
+# LES VÉRITABLES PRÉTIEUSES. COMEDIE.
 
 
 ## EPISTRE. A **MONSEIGNEUR**, MESSIRE HENRY **LOUIS HABERT**, *Chevalier, Comte* du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, & autres lieux, Conseiller du Roy en tous ses Conseils, & Maistre des Requestes ordinaires de son Hostel, &c. [205]
@@ -916,13 +916,13 @@ Monseigneur,
 De vostre tres-humble, tres-obeïssant, & tres-fidelle serviteur *Jean Ribou*.
 
 
-## Preface.                                 
+## Preface.
 
 Depuis que la modestie, & l'insolence sont deux contraires, on ne les a jamais veuës mieux unies qu'a fait dans la Preface l'Autheur pretendu des Pretieuses Ridicules : Car [210] si nous examinons ses paroles, il semble qu'il soit assez modeste pour craindre de faire mestre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l'insolence a de plus effronté, & met sur le theatre une Satyre, qui quoy que sous des images crotesques ne laisse pas de blaisser tous ceux qu'il a voulu accuser ; il fait plus de Critique [211], il s'erige en Juge, & condamne à la berne les Singes, sans voir qu'il prononce un Arrest contre luy en le prononçant contre eux, puis qu'il est certain qu'il est Singe en tout ce qu'il fait, & que non seulement il a copié les Pretieuses de Monsieur l'Abbé de Pure, joüées par les Italiens ; Mais encore qu'il a imité par une singerie, dont il est seul capable [212] le Medecin volant, & plusieurs autres pieces des mesmes Italiens qu'il n'imite pas seulement en ce qu'ils ont joüé sur leur theatre ; mais encor en leurs postures, contrefaisant sans cesse sur le sien & Trivelin & Scaramouche ; mais qu'atendre d'un homme qui tire toute sa gloire des Mémoires de Gillot-Gorgeu, qu'il a acheptez de sa veufve, & dont il s'adopte tous les Ouvrages.
 
 Mais c'est assez parler des Pretieuses Ridicules, il est temps de dire un mot des Vrayes, & tout ce que j'en diray, c'est seulement que je leur ay donné ce Nom, parce qu'elles parlent veritablement le langage qu'on attribuë aux Pretieuses, & que je n'ay pas pretendu par ce titre parler de ces personnes Illustres qui sont trop au dessus de la Satyre pour faire soupçonner que l'on ait dessein de les y inserer : [213] J'ay encore eu d'autres raisons de les nommer ainsi ; qui n'estant connuës de personne ne sçauroient estre condamnées, que si l'on m'accuse de condamner la Satyre, & pourtant d'en composer [214] je ne m'en defen-/ /-deray pas icy, puis qu'elle est tousjours permise contre ceux qui font profession de l'exposer en public.
 
-Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pourquoy je fais que mes Acteurs parlent tantost en insencez, & tantost en gens tout à fait raisonnables ; Mais qui examinera bien les Personnages qu'ils representent, discernera aisement que ce qu'ils disent de juste, c'est seulement par oüy dire, & qu'en ce qu'ils disent d'eux-mesmes ils ne démentent point leurs caracteres.                
+Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pourquoy je fais que mes Acteurs parlent tantost en insencez, & tantost en gens tout à fait raisonnables ; Mais qui examinera bien les Personnages qu'ils representent, discernera aisement que ce qu'ils disent de juste, c'est seulement par oüy dire, & qu'en ce qu'ils disent d'eux-mesmes ils ne démentent point leurs caracteres.
 
 
 ## Personnages.
@@ -937,10 +937,8 @@ Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pour
  – 
  – 
  – 
-La Scène est à Paris.                                
+La Scène est à Paris.
 
-
-LES VERITABLES PRETIEUSES COMEDIE.
 
 
 ## Acte I
@@ -951,10 +949,10 @@ ISCARIE, ISABELLE,
 
 
     ISCARIE.
-Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier [217] emportement⁎ de ne la point voir [218].                                         
+Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier [217] emportement⁎ de ne la point voir [218].
 
     ISABELLE.
-Je vais vous obeïr Madame, mais la voicy qui vient. [219]                
+Je vais vous obeïr Madame, mais la voicy qui vient. [219]
 
 
 ### SCENE II.
@@ -969,7 +967,7 @@ Vrayment ma chere [221] je suis en humeur de pousser⁎ le dernier rude [222]*a*
 Ah ! ma chere il faut que vous sçachiez qu'un certain Marquis [223], m'est venu voir.
 
     ISCARIE.
-He ! comment s'appelle-t'il ce Marquis ?                    
+He ! comment s'appelle-t'il ce Marquis ?
 
     ARTEMISE.
 Il s'appelle le Marquis de Mazarcantara, il sçait tout à fait l'air⁎ de la ruëlle [224], c'est un Galand [225] de plein pied*c* qui s'explicque sans aucune incertitude,*d* [226] & je n'ay jamais veu d'homme qui dise les choses plus congrüment [227]. J'ay pourtant remarqué un deffaut en luy qui m'a pensé faire*e* perdre mon serieux [228].
@@ -979,7 +977,7 @@ Il s'appelle le Marquis de Mazarcantara, il sçait tout à fait l'air⁎ de la r
 Hé quel ?
 
     ARTEMISE.
-Il ne peut s'empescher de faire la reverence en point d'Hongrie [229].        
+Il ne peut s'empescher de faire la reverence en point d'Hongrie [229].
 
     ISCARIE.
 Ah ! ma chere, il ressemble donc au Marquis de Mascarille.
@@ -1000,7 +998,7 @@ Ce que vous me dites là est du dernier obligeant⁎ ; mais si vous voulez que 
 *(q Poulet* [235])
 
 
-### SCENE III.                            
+### SCENE III.
 BEATRIX, ISABELLE.
 
 
@@ -1014,7 +1012,7 @@ Que vous avez peu de lumiere & que vostre esprit est opaque [237]. Est-il possib
 Vous estes donc aussi folle qu'elles à ce que je voy, & vous affectez aussi de dire des mots à longue queuë [239].
 
     ISABELLE.
-Ah ! pleust à Dieu que je pusse estre l'inventrice, comme je ne suis que l'echo de ces mots graves & empoullez qui par un sens misterieux⁎ estallent la vraye & pure signification des choses [240].                                    
+Ah ! pleust à Dieu que je pusse estre l'inventrice, comme je ne suis que l'echo de ces mots graves & empoullez qui par un sens misterieux⁎ estallent la vraye & pure signification des choses [240].
 
     BEATRIX.
 He ! bien puisque vous avez cette pensée, l'envie me prend de disputer⁎ contre vous : aussi bien puisque ce langage n'est inventé que par la fantaisie de certaines femmes [241], une femme peut bien disputer contre sans que cela paroisse extraordinaire, & pour vous monstrer qu'il n'y a rien de plus extravagant que cette façon de parler, je m'en vais vous dire de certains mots que j'ay retenus qui choquent tout à fait nostre langue naturelle [242].
@@ -1035,7 +1033,7 @@ Sça [248] dites moy ! s'il y a rien de plus ridicule que de nommer un lavement
 En verité vostre desordre⁎ est terrible [255] & me jette dans une souffrance inconcevable.
 
     BEATRIX.
-Il n'est pas encorre temps de m'interompre & je n'ay pas encorre finy.        
+Il n'est pas encorre temps de m'interompre & je n'ay pas encorre finy.
 
     ISABELLE.
 Poursuivez donc & rendez viste vostre discours complet.
@@ -1044,10 +1042,10 @@ Poursuivez donc & rendez viste vostre discours complet.
 Je vous dis encor, que quoy que vous puissiez dire, qu'il n'y a rien de plus insupportable que de nommer les dents un ameublement de bouche & de dire, pour faire voir que l'on a long-temps balancé⁎ à faire une chose, qu'il est monté des incertitudes à la gorge. Dites moy ! un peu [256], y a-t'il aucun sens à cela, non plus que de dire qu'une femme a des absences de raison pour explicquer qu'elle est jeune, & dites moy enfin s'il y a rien de plus extravagant que d'appeller des traistres, les Paravants, le Miroir [257] un Peintre de la dernierre fidellité, un Esvantail un Zephir [258], & une Porte la fidelle gardienne. Si par hazard un Jaloux qui auroit fermé une porte sus sa femme & en auroit la clef, estoit trompé par un Galand qui en auroit une fausse, doit-il ! venant à sçavoir la chose appeller encorre [259] la porte la fidelle gardienne. Je pourois vous en dire encor quantité ; mais je mesprise si fort cette façon de parler que je ne m'en sçaurois donner la peine [260].
 
     ISABELLE.
-Ah ! je vais bien vous monstrer...... mais voicy Flanquin, le Pretieux [261].        
+Ah ! je vais bien vous monstrer...... mais voicy Flanquin, le Pretieux [261].
 
     BEATRIX.
-Quoy ! le valet du Baron de la Taupiniere, qui vous fait les doux yeux, est donc aussi de ce nombre. Vraiment il merite qu'on l'escoute & c'est une chose assez divertissante à mon avis, que d'entendre un valet parler pretieux.                        
+Quoy ! le valet du Baron de la Taupiniere, qui vous fait les doux yeux, est donc aussi de ce nombre. Vraiment il merite qu'on l'escoute & c'est une chose assez divertissante à mon avis, que d'entendre un valet parler pretieux.
 
 
 ### SCENE IV.
@@ -1063,7 +1061,7 @@ FLANQUIN.
 Qui t'ameine icy.
 
     FLANQUIN.
-Je viens sçavoir si vostre Maistresse est en pouvoir de recevoir visite.    
+Je viens sçavoir si vostre Maistresse est en pouvoir de recevoir visite.
 
     ISABELLE.
 Je m'en vais m'en instruire & dans peu ma responce desembarassera [262] ton ame de cette affaire.
@@ -1077,7 +1075,7 @@ Il faut avoüer, que la methode⁎ de s'exprimer dont on se sert maintenant est 
 Tirez moy d'erreur : ce que vous me venez de dire, n'est-ce point un compliment que vostre maistre a composé pour dire en quelque ruëlle [264] & dont vous avez leu le broüillon.
 
     FLANQUIN.
-Je vois bien que vous n'estes pas encorre instruitte de ce que je vaux, & que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; *(Isabelle rentre)*, mais je vous depersuaderay une autre fois. Voicy l'anthousiasme de mes yeux, l'aymant de mon Coeur, en un mot mon unique [265] ; il faut que je lui fasse connoistre⁎ qu'elle m'encapucine [266] l'ame & qu'elle m'encendre le Coeur.*r*                
+Je vois bien que vous n'estes pas encorre instruitte de ce que je vaux, & que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; *(Isabelle rentre)*, mais je vous depersuaderay une autre fois. Voicy l'anthousiasme de mes yeux, l'aymant de mon Coeur, en un mot mon unique [265] ; il faut que je lui fasse connoistre⁎ qu'elle m'encapucine [266] l'ame & qu'elle m'encendre le Coeur.*r*
 (r Qu'elle m'enflame⁎.)
 
     ISABELLE.
@@ -1087,7 +1085,7 @@ Ton maistre viendra quand il luy plaira.
 Ah mon ange ! que vous avez bien fait de rapporter en ce lieu le merite qui s'en estoit esloigné, que nous avions besoin dans l'opacité de cette salle, que vos yeux vinssent servir de supplement au Soleil : non que leurs chaleurs ne reduisent mon corps à une secheresse qui m'apprend qu'un bain interieur me seroit fort utille [267].
 
     BEATRIX.
-La plaisante façon de demander à boire.                        
+La plaisante façon de demander à boire.
 
     FLANQUIN.
 Ouy, un bain interieur ou l'agrement donné entre les deux sœurs,*s* peuvent maintenant empescher la metempsicose [268] de mon ame, qui va bientost s'emanciper de sa demeure, si l'on ne la secourt par l'un de ces remedes, ou si vous ne souffrez⁎ que je gouste avec vous la volupté de l'amour permis.*t*
@@ -1107,7 +1105,7 @@ Ce n'est pas une petite joye de voir un valet pretieux faire l'amour⁎ [272].
 Vraiment vous estes aujourd'huy sus vostre grand fecond [273].
 
     FLANQUIN.
-Il est vray, je n'en finesseray [274] point avec vous, mon estime est trop superlative à vostre esgard pour ne pas transiger avec vous d'une verité constante, qui est, [275] que mon cœur est enfrangé de mouvemens.*x*                                
+Il est vray, je n'en finesseray [274] point avec vous, mon estime est trop superlative à vostre esgard pour ne pas transiger avec vous d'une verité constante, qui est, [275] que mon cœur est enfrangé de mouvemens.*x*
 (x Plein de troubles.)
 
     ISABELLE.
@@ -1119,7 +1117,7 @@ N'auroit il point deffriché le vostre, mais que j'aplique la reflexion de ma bo
 (z Main ; & Couppé)
 
     BEATRIX.
-La drosle de sensuë qu'une épingle.                            
+La drosle de sensuë qu'une épingle.
 
     FLANQUIN.
 Mais j'oublie à l'opposite [278] de vos appas⁎ que la lenteur de mes chers souffrans [279], peut faire boüilloner [280] le benin cerveau de mon Maistre. Je m'en vais donc faire faire diette à mes yeux de leurs astres tutelaires [281].
@@ -1132,7 +1130,7 @@ Je pastiray beaucoup par le contrecoup de ce quittement [282].ª
 Adieu beau Pretieux.
 
     FLANQUIN.
-Adieu l'hetheroclite [283] du beau langage.                        
+Adieu l'hetheroclite [283] du beau langage.
 
 
 ### SCENE V.
@@ -1152,7 +1150,7 @@ Ah ! pour moy, c'est l'effroy des effrois, & il faut que je vous avoüe que les
 Il est vray que cela n'est point digerable [285], & sus tout la penultiesme ou avant derniere Stance de cet insuportable portrait ne fournit rien à l'oreille qui puisse exercer son avidité. [286] Voyez plutost encore une fois si cela n'est pas du dernier inintelligible.
 
     ISCARIE. *(prenant le papier.)*
-Je me serois contentée du chagrin⁎ de la premiere lecture ; mais pour vous je veux bien faire ce passe avant [287], aussi bien à quoy tuërions-nous nostre Saturne *c* [288] dans l'expectation [289] que nous faisons icy du Baron de la Taupiniere [290].        
+Je me serois contentée du chagrin⁎ de la premiere lecture ; mais pour vous je veux bien faire ce passe avant [287], aussi bien à quoy tuërions-nous nostre Saturne *c* [288] dans l'expectation [289] que nous faisons icy du Baron de la Taupiniere [290].
 (c Temps)
 
     ARTEMISE.
@@ -1178,7 +1176,7 @@ Son langage pourtant, n'a rien que de muët,
 Ses sourcilleux ardens font toutes ses Harangues [292],  
 Elle brave avecque eux les plus rapides langues,  
 Et leurs seuls branslemens⁎ composent son caquet [293].  
-Pour moy, je suis pour ces sortes de vers qui s'esloignent du vulgaire⁎ ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron [294].        
+Pour moy, je suis pour ces sortes de vers qui s'esloignent du vulgaire⁎ ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron [294].
 
 
 ### SCENE VI.
@@ -1205,7 +1203,7 @@ Ma commune,*g*
 (g Suivante.)
 
     ISABELLE.
-Plaist-il, Madame,                                
+Plaist-il, Madame,
 
     ISCARIE.
 Fournissez nous icy les throsnes de la ruelle.*h*
@@ -1290,10 +1288,10 @@ Vous n'avez pas mal fait, car le troisiesme Element*i* qui tombe sur l'eminence 
 (i La pluie ; k Les pavez)
 
     ISCARIE.
-Ce Poëte n'est donc pas Normand puis qu'il n'a point de Carosse.        
+Ce Poëte n'est donc pas Normand puis qu'il n'a point de Carosse.
 
     LE BARON *(entendant heurter.)*
-On fait parler le muët,*l* sans doute le voicy. Ouy c'est luy mesme que Flanquin ameine.                                    
+On fait parler le muët,*l* sans doute le voicy. Ouy c'est luy mesme que Flanquin ameine.
 (l On heurte.)
 
 
@@ -1316,7 +1314,7 @@ Je sçais parler emphibologetiquement [323] : le langage des Dieux m'est ordina
 
 
     FLANQUIN. *(se mettant en un coin.)*
-Moy, je m'en vais me mettre icy pour faire inventaire des grands mots qui se diront. Sça, n'en laissons point passer qu'ils ne soient enregistrez sur nos Tablettes [324] & joüons bien nostre rolle [325].                    
+Moy, je m'en vais me mettre icy pour faire inventaire des grands mots qui se diront. Sça, n'en laissons point passer qu'ils ne soient enregistrez sur nos Tablettes [324] & joüons bien nostre rolle [325].
 
     LE BARON. 
 Dites nous donc un peu ! [326] Monsieur au net, vostre sentiment sur les pieces qui se sont joüées depuis peu de temps ; car j'en ay fort peu veu : mesme je fus l'autre jour aux Pretieuses de Bourbon [327] ; mais je ne les pûs entendre⁎ parce que je ne pouvois reigler aucune posture.*m*
@@ -1335,7 +1333,7 @@ Le bruit⁎ commun m'a desja donné quelque legere connoissance de cela ; mais 
 Ah ! que dites-vous là, c'est la mesme chose, ce sont deux valets tout de mesme qui se deguisent pour plaire à deux femmes, & que leurs Maistres battent à la fin : il y a seu-/ /lement cette petite difference, que dans la premiere les valets le font à l'inceu de leurs Maistres, & que dans la derniere, ce sont eux qui leur font faire. Je ne pûs m'empescher de luy en dire mon sentiment chez un Marquis de mes amis, qui loge au quartier du Louvre où il la leut avec son Dom Garcie, avant que l'on la joüât.
 
     ISCARIE.
-Ce que vous nous dites est furieusement [334] incroyable ; car il me souvient bien que dans ses Pretieuses, il improuve⁎ ceux qui lisent leurs pieces avant qu'on les represente, & par là vous me diriez qu'il s'est tourné luy-mesme en ridicule [335].    
+Ce que vous nous dites est furieusement [334] incroyable ; car il me souvient bien que dans ses Pretieuses, il improuve⁎ ceux qui lisent leurs pieces avant qu'on les represente, & par là vous me diriez qu'il s'est tourné luy-mesme en ridicule [335].
 
     LE POETE.
 Il est vray que je n'aurois pas pensé qu'il eust brigué⁎ comme il fait ; mais je sçay de bonne part qu'il a tiré des Limbes son despit amoureux [336] à force de coups de chapeau, & d'offrir les loges à deux pistolles [337].
@@ -1356,7 +1354,7 @@ Ah ! c'est trop d'interruptions, brisons là [339] nos interrogations, & sçach
 Volontiers.
 
     FLANQUIN. *(à demy bas.)*
-Nous aurons tantost⁎ dequoy faire une autre Pretieuse.             
+Nous aurons tantost⁎ dequoy faire une autre Pretieuse.
 
     LE POETE.
 Je veux bien mes Dames, vous obeïr en cette rencontre⁎, & malgré cette animosité que le destin⁎ du Parnasse [341] a semé entre les Poëtes, je les vois trop au dessous de moy pour apprehender aucunement de vous estre suspect en parlant d'eux [342]. Je vous diray donc en quel ordre il les faut mettre & le cas qu'il en faut faire. Il y en a de certains qui ne meritent pas d'estre mentionnez dans le Catalogue des Illustres, pour n'estre venus au monde qu'incognito, n'y avoir paru qu'en passant, & avoir fait naufrage avant que d'avoir esté en pleine mer. Il y en a d'autres aussi dont la voix publique parle assez sans que j'en dise mot, & parmy les Dramatiques [343] dont est question, Corneille, l'aisné tient seul cette place. Il n'en va pas tout à fait de mesme de son cadet [344], & quoy que ce soit une Divinité parmy les Comediens, les encens qu'on luy donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j'en veuille dire du mal, au contraire, je tiens que c'est celuy de tous les Autheurs qui pense plus profondement, & sans doute⁎ l'envie avouëra elle-mesme que son Stilicon est tout à fait beau. Nous avons encor veu cet hyver le Federic [345] qui a fort reüssi, & c'est sans doute avec quelque raison, puis qu'il ne part rien de la veine de son Autheur, qui ne soit plein de feu, témoin sa Clotilde, où la boutade [346] est bien exprimée. Ces deux pieces ont esté accompagnées de la Stratonice [347] dont le stile est tout different, l'Autheur de cette piece ne s'attachant qu'à faire des vers tendres, où il reüssit fort bien [348], quoy que je ne me sois engagé qu'à vous parler des Autheurs dont l'on a joüé les pieces cet hyver ; Je ne me puis empescher [349] de vous dire que le theatre a perdu l'illustre Abbé de Bois-Robert [350], qui par generosité s'en est retiré luy-mesme, de peur que ses pieces n'étouffassent celles des fameux Autheurs qui se sont remis au Theatre depuis peu [351]. Il y en a encor un dont je n'ay point parlé, qui joint l'espée à la plume ; il sçait faire des vers mieux qu'Homere, & se bat aussi bien qu'Alexandre. On a joüé cet hyver au Petit Bourbon une piece de luy nommée Zenobie [352].
@@ -1377,7 +1375,7 @@ Ah ! je sçay quel est ce deffaut mieux que personne, & un de mes amis le dit p
 Ah ! ne nous tenez plus en langueur, dites-le nous viste.
 
     LE BARON. 
-Ce deffaut est en un mot, que les Comediens ne joüoient rien qui vaille, & qu'ils ne sont bons à rien qu'à joüer la farce [353].                    
+Ce deffaut est en un mot, que les Comediens ne joüoient rien qui vaille, & qu'ils ne sont bons à rien qu'à joüer la farce [353].
 
     LE POETE.
 Il est tout vray que si l'*h*ostel de *b*ourgogne eût joüé cette piece, elle eust extremement reüssi ; car c'est un merveilleux assaisonnement à une piece que les bons comediens, & tels malgré toute la fortune de leur nom, tels malgré la force de leur brigue⁎ ne reüssiroient pas comme ils font, si l'on joüoit leurs pieces à *b*ourbon.
@@ -1422,7 +1420,7 @@ Cela stupeficie mon ame [361].
 Pour moy, cela m'enleve jusques au troisiesme ciel [362].
 
     LE POETE.
-Je m'en vais donc commancer.                        
+Je m'en vais donc commancer.
 
 
 ### LA MORT DE LUSSE-TU-CRU LAPIDÉ PAR LES Femmes. TRAGEDIE. ACTE I. SCENE PREMIERE.
@@ -1432,7 +1430,7 @@ LUSSE-TU-CRU. seul ouvre le Theatre.
     LUSSE-TU-CRU.
 Jamais l'hidre⁎ fecond en mille & mille testes,  
 N'excita tant de bruit⁎ ny de telles tempestes.  
-*Que cause de douleurs en moy Lusse-tu-cru*,                          
+*Que cause de douleurs en moy Lusse-tu-cru*,  
 *La femme acariastre, & gueuse de vertu* [363],  
 *Par sa langue maudite, & tousjours empestée* [364],  
 *A me persecuter on la voit aheurtée* [365],  
@@ -1468,7 +1466,7 @@ He ! bien, je commence sans façonner⁎. **p*antagruel*, entre avec un confide
 
     LE CONFIDENT.
 Les violons sont prests, & vous allez dans peu  
-*Oeillader* [373]*comme il faut l'objet de vostre feu⁎.*                  
+*Oeillader* [373]*comme il faut l'objet de vostre feu⁎.*  
 
     PANTAGRUEL.
 Ah ! que de tourbillons, excite dans mon ame  
@@ -1480,7 +1478,7 @@ Sautille comme en l'eau feroit une grenoüille,
 Il rejimbe⁎, il s'estend comme un cheval fougeux,  
 *Qui prend le mors aux dents, & bondit furieux* [377],  
 Il va, monte, & descend dans la chambre & le bouge,  
-*Il furte* [378]*tous les coins, & si* [379]*jamais ne bouge.*                      
+*Il furte* [378]*tous les coins, & si* [379]*jamais ne bouge.*  
 
     ISCARIE.
 Ah ! laissez moy admirer ces similitudes⁎, je trouve ces vers là tout à fait espais.*n*
@@ -1498,7 +1496,7 @@ Sans mon escoulement de nez*p* je les aurois leus d'un ton bien plus fortifié.
 (p Mon rhusme.)
 
     FLANQUIN.
-Elles donnent dans le paneau [381].            
+Elles donnent dans le paneau [381].
 
 
 ### SCENE VIII.
@@ -1532,7 +1530,7 @@ C'est une ame du premier ordre.*r*
 Je n'oublieray pas ceux cy.
 
     ISCARIE. *(à sa suivante.)*
-Ne vous éloignez pas de la portée de ma voix.*s*                
+Ne vous éloignez pas de la portée de ma voix.*s*
 (s Ne vous en allez pas.)
 
     GREVAL. 
@@ -1550,10 +1548,10 @@ La mesche est découverte [387].
 C'est un grand Poëte, que Monsieur nous a amené, & qui nous a charmé des beaux vers qu'il nous a recitez.
 
     GREVAL. 
-Vous voulez m'en donner [388], c'est le valet de feu Monsieur Durier, je l'ay veu cent fois chez luy.                                 
+Vous voulez m'en donner [388], c'est le valet de feu Monsieur Durier, je l'ay veu cent fois chez luy.
 
     LE POETE.
-Ma foy, puis que vous me connoissez si bien, [389] je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort gueux⁎, & que je n'avois gagné à son service que la methode de faire des vers *cocy, cocy* [390], le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, & que je luy pouvois estre utile dans sa troupe [391], me pria d'y entrer : j'y resistay d'abord ne voulant point passer pour un Farceur [392] ; mais il me representa⁎ que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, & me persuada si bien, que les siennes estoient aussi honnestes⁎ que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, & que j'entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit dessein⁎ de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, & d'y prendre de l'argent de mesme que les autres, & comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m'introduire dans les Compagnies [393], & il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.                    
+Ma foy, puis que vous me connoissez si bien, [389] je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort gueux⁎, & que je n'avois gagné à son service que la methode de faire des vers *cocy, cocy* [390], le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, & que je luy pouvois estre utile dans sa troupe [391], me pria d'y entrer : j'y resistay d'abord ne voulant point passer pour un Farceur [392] ; mais il me representa⁎ que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, & me persuada si bien, que les siennes estoient aussi honnestes⁎ que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, & que j'entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit dessein⁎ de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, & d'y prendre de l'argent de mesme que les autres, & comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m'introduire dans les Compagnies [393], & il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.
 
     ISCARIE.
 Et quoy ! Monsieur, souffrez⁎-vous sans l'assommer qu'un coquin vous jouë⁎ de la sorte ; car enfin c'est vous qui avez esté le premier duppé.
@@ -1568,13 +1566,13 @@ Je demeure muëtte d'estonnement.
 Ce trait est hardy, & s'il estoit arrivé à quelques autres qu'à vous j'en rirois de bon cœur.
 
     ISCARIE.
-Un Farceur chez moy, Ah ! si vous ne fuyez.....            
+Un Farceur chez moy, Ah ! si vous ne fuyez.....
 
     LE BARON. 
 Nous craignons peu vos menaces, & nous sommes tous trois bien resolus de nous defendre [397] si l'on nous attaque, sçachez donc avant que je sorte, que puis que Mascarille vous rend visite, vous devez bien me souffrir⁎, que s'il s'est acquis par ses Farces la reputation d'avoir de l'esprit, que j'en fais aussi bien que luy sans l'aide des Italiens, & qu'enfin si la veufve de Guilotgorju [398], mon Maistre & le sien, ne luy eust vendu les Memoires de son mary, ces Farces ne luy eussent jamais donné tant de gloire.
 
     ISCARIE.
-Ah ! je me lasse de vous entendre⁎ [399], & si vous ne sortez j'envoyeray querir un mauvais ange des criminels.*t*                        
+Ah ! je me lasse de vous entendre⁎ [399], & si vous ne sortez j'envoyeray querir un mauvais ange des criminels.*t*
 (t Un Sergent.)
 
     LE BARON. 

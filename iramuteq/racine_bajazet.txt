@@ -8,21 +8,21 @@ Je pourrai cependant te parler, et t'entendre.
 
 -*who_osmin
 Et depuis quand Seigneur, entre-t-on dans ces lieux,
-Dont l'accès était même interdit à nos yeux ?
+Dont l'accès était même interdit à nos yeux ?
 Jadis une mort prompte eut suivi cette audace.
 
 -*who_acomat
 Quand tu seras instruit de tout ce qui se passe,
 Mon entrée en ces lieux ne te surprendra plus.
 Mais laissons, cher Osmin, les discours superflus.
-Que ton retour tardait à mon impatience !
-Et que d'un oil content je te vois dans Byzance !
+Que ton retour tardait à mon impatience !
+Et que d'un oil content je te vois dans Byzance !
 Instruis-moi des secrets que peut t'avoir appris
 Un voyage si long pour moi seul entrepris.
 De ce qu'ont vu tes yeux parle en témoin sincère.
 Songe que du récit, Osmin, que tu vas faire,
 Dépendent les destins de l'empire ottoman.
-Qu'as-tu vu dans l'armée, et que fait le sultan ?
+Qu'as-tu vu dans l'armée, et que fait le sultan ?
 
 -*who_osmin
 Babylone, Seigneur, à son prince fidèle,
@@ -39,10 +39,10 @@ Mille obstacles divers m'ont même traversé,
 Et je puis ignorer tout ce qui s'est passé.
 
 -*who_acomat
-Que faisaient cependant nos braves janissaires ?
-Rendent-ils au sultan des hommages sincères ?
-Dans le secret des cours, Osmin, n'as-tu rien lu ?
-Amurat jouit-il d'un pouvoir absolu ?
+Que faisaient cependant nos braves janissaires ?
+Rendent-ils au sultan des hommages sincères ?
+Dans le secret des cours, Osmin, n'as-tu rien lu ?
+Amurat jouit-il d'un pouvoir absolu ?
 
 -*who_osmin
 Amurat est content, si nous le voulons croire,
@@ -55,18 +55,18 @@ Il se souvient toujours que son inimitié
 Voulut de ce grand corps retrancher la moitié,
 Lorsque pour affermir sa puissance nouvelle
 Il voulait, disait-il, sortir de leur tutelle.
-Moi-même j'ai souvent entendu leurs discours :
+Moi-même j'ai souvent entendu leurs discours :
 Comme il les craint sans cesse ils le craignent toujours.
 Ses caresses n'ont point effacé cette injure.
 Votre absence est pour eux un sujet de murmure.
-Ils regrettent le temps à leur grand cur si doux,
+Ils regrettent le temps à leur grand cœur si doux,
 Lorsque assurés de vaincre ils combattaient sous vous.
 
 -*who_acomat
-Quoi ! Tu crois, cher Osmin, que ma gloire passée
-Flatte encor leur valeur, et vit dans leur pensée ?
+Quoi ! Tu crois, cher Osmin, que ma gloire passée
+Flatte encor leur valeur, et vit dans leur pensée ?
 Crois-tu qu'ils me suivraient encore avec plaisir,
-Et qu'ils reconnaîtraient la voix de leur vizir ?
+Et qu'ils reconnaîtraient la voix de leur vizir ?
 
 -*who_osmin
 Le succès du combat réglera leur conduite.
@@ -75,12 +75,12 @@ Quoique à regret, Seigneur, ils marchent sous ses lois,
 Ils ont à soutenir le bruit de leurs exploits.
 Ils ne trahiront point l'honneur de tant d'années.
 Mais enfin le succès dépend des destinées.
-Si l'heureux Amurat secondant leur grand cur
+Si l'heureux Amurat secondant leur grand cœur
 Aux champs de Babylone est déclaré vainqueur,
 Vous les verrez soumis rapporter dans Byzance
 L'exemple d'une aveugle et basse obéissance.
 Mais si dans le combat le destin plus puissant
-Marque de quelque affront son empire naissant ;
+Marque de quelque affront son empire naissant ;
 S'il fuit, ne doutez point que fiers de sa disgrâce
 À la haine bientôt ils ne joignent l'audace,
 Et n'expliquent, Seigneur, la perte du combat,
@@ -97,8 +97,8 @@ Tel était son dessein. Cet esclave est venu.
 Il a montré son ordre et n'a rien obtenu.
 
 -*who_osmin
-Quoi, Seigneur ! Le sultan reverra son visage,
-Sans que de vos respects il lui porte ce gage ?
+Quoi, Seigneur ! Le sultan reverra son visage,
+Sans que de vos respects il lui porte ce gage ?
 
 -*who_acomat
 Cet esclave n'est plus. Un ordre, cher Osmin,
@@ -107,33 +107,33 @@ L'a fait précipiter dans le fond de l'Euxin.
 -*who_osmin
 Mais le sultan surpris d'une trop longue absence,
 En cherchera bientôt la cause et la vengeance.
-Que lui répondrez-vous ?
+Que lui répondrez-vous ?
 
 -*who_acomat
       Peut-être avant ce temps
 Je saurai l'occuper de soins plus importants.
 Je sais bien qu'Amurat a juré ma ruine.
 Je sais à son retour l'accueil qu'il me destine.
-Tu vois pour m'arracher du cur de ses soldats,
+Tu vois pour m'arracher du cœur de ses soldats,
 Qu'il va chercher sans moi les sièges, les combats.
 Il commande l'armée. Et moi dans une ville
 Il me laisse exercer un pouvoir inutile.
-Quel emploi, quel séjour, Osmin, pour un Vizir !
+Quel emploi, quel séjour, Osmin, pour un Vizir !
 Mais j'ai plus dignement employé ce loisir.
 J'ai su lui préparer des craintes et des veilles.
 Et le bruit en ira bientôt a ses oreilles.
 
 -*who_osmin
-Quoi donc ? Qu'avez-vous fait ?
+Quoi donc ? Qu'avez-vous fait ?
 
 -*who_acomat
       J'espère qu'aujourd'hui
 Bajazet se déclare, et Roxane avec lui.
 
 -*who_osmin
-Quoi ! Roxane, Seigneur, qu'Amurat a choisie
+Quoi ! Roxane, Seigneur, qu'Amurat a choisie
 Entre tant de beautés, dont l'Europe et l'Asie
-Dépeuplent leurs États et remplissent sa cour ?
+Dépeuplent leurs États et remplissent sa cour ?
 Car on dit qu'elle seule a fixé son amour.
 Et même il a voulu que l'heureuse Roxane,
 Avant qu'elle eut un fils, prît le nom de sultane.
@@ -156,9 +156,9 @@ La molle oisiveté des enfants des sultans.
 Il vint chercher la guerre au sortir de l'enfance,
 Et même en fit sous moi la noble expérience.
 Toi-même tu l'as vu courir dans les combats
-Emportant après lui tous les curs des soldats,
+Emportant après lui tous les cœurs des soldats,
 Et goûter tout sanglant le plaisir et la gloire
-Que donne aux jeunes curs la première victoire.
+Que donne aux jeunes cœurs la première victoire.
 Mais malgré ses soupçons le cruel Amurat,
 Avant qu'un fils naissant eut rassuré l'État,
 N'osait sacrifier ce frère à sa vengeance,
@@ -170,19 +170,19 @@ Et des jours de son frère arbitre souveraine,
 Roxane au moindre bruit, et sans autres raisons,
 Le fît sacrifier à ses moindres soupçons.
 Pour moi, demeuré seul, une juste colère
-Tourna bientôt mes vux du côté de son frère.
+Tourna bientôt mes vœux du côté de son frère.
 J'entretins la sultane, et cachant mon dessein,
 Lui montrai d'Amurat le retour incertain,
 Les murmures du camp, la fortune des armes.
 Je plaignis Bajazet. Je lui vantai ses charmes,
 Qui par un soin jaloux dans l'ombre retenus,
 Si voisins de ses yeux, leur étaient inconnus.
-Que te dirai-je enfin ? La sultane éperdue
+Que te dirai-je enfin ? La sultane éperdue
 N'eut plus d'autres désirs que celui de sa vue.
 
 -*who_osmin
 Mais pouvaient-ils tromper tant de jaloux regards
-Qui semblent mettre entre eux d'invincibles remparts ?
+Qui semblent mettre entre eux d'invincibles remparts ?
 
 -*who_acomat
 Peut-être il te souvient qu'un récit peu fidèle
@@ -202,41 +202,41 @@ Ce secret découvert, et cette intelligence,
 Soupirs d'autant plus doux qu'il les fallait celer,
 L'embarras irritant de ne s'oser parler,
 Même témérité, périls, craintes communes,
-Lièrent pour jamais leurs curs et leurs fortunes.
+Lièrent pour jamais leurs cœurs et leurs fortunes.
 Ceux mêmes dont les yeux les devaient éclairer,
 Sortis de leur devoir, n'osèrent y rentrer.
 
 -*who_osmin
-Quoi ! Roxane d'abord leur découvrant son âme,
-Osa-t-elle a leurs yeux faire éclater sa flamme ?
+Quoi ! Roxane d'abord leur découvrant son âme,
+Osa-t-elle a leurs yeux faire éclater sa flamme ?
 
 -*who_acomat
-Ils l'ignorent encore ; et jusques à ce jour,
+Ils l'ignorent encore ; et jusques à ce jour,
 Atalide a prété son nom à cet amour.
 Du père d'Amurat Atalide est la nièce,
 Et même avec ses fils partageant sa tendresse,
 Elle a vu son enfance élevée avec eux.
-Du prince en apparence elle reçoit les vux ;
+Du prince en apparence elle reçoit les vœux ;
 Mais elle les reçoit pour les rendre à Roxane,
 Et veut bien sous son nom qu'il aime la sultane.
 Cependant, cher Osmin, pour s'appuyer de moi,
 L'un et l'autre ont promis Atalide à ma foi.
 
 -*who_osmin
-Quoi ! Vous l'aimez, Seigneur ?
+Quoi ! Vous l'aimez, Seigneur ?
 
 -*who_acomat
       Voudrais-tu qu'a mon âge
-Je fisse de l'amour le vil apprentissage ?
-Qu'un cur qu'ont endurci la fatigue et les ans,
-Suivît d'un vain plaisir les conseils imprudents ?
+Je fisse de l'amour le vil apprentissage ?
+Qu'un cœur qu'ont endurci la fatigue et les ans,
+Suivît d'un vain plaisir les conseils imprudents ?
 C'est par d'autres attraits qu'elle plaît à ma vue.
 J'aime en elle le sang dont elle est descendue.
 Par elle Bajazet, en m'approchant de lui,
 Me va contre lui-même assurer un appui.
-Un vizir aux sultans fait toujours quelque ombrage :
+Un vizir aux sultans fait toujours quelque ombrage :
 À peine ils l'ont choisi, qu'ils craignent leur ouvrage.
-Sa dépouille est un bien, qu'ils veulent recueillir ;
+Sa dépouille est un bien, qu'ils veulent recueillir ;
 Et jamais leurs chagrins ne nous laissent vieillir.
 Bajazet aujourd'hui m'honore et me caresse.
 Ses périls tous les jours réveillent sa tendresse.
@@ -257,7 +257,7 @@ Et craignait du sérail les rigoureuses lois.
 Mais enfin bannissant cette importune crainte
 Qui dans nos entretiens jetait trop de contrainte,
 Elle-même a choisi cet endroit écarté,
-Ou nos curs a nos yeux parlent en liberté.
+Ou nos cœurs a nos yeux parlent en liberté.
 Par un chemin obscur une esclave me guide,
 Et... Mais on vient. C'est elle, et sa chère Atalide.
 Demeure. Et s'il le faut, sois prêt a confirmer
@@ -269,7 +269,7 @@ Le récit important dont je vais l'informer.
 La vérité s'accorde avec la renommée,
 Madame, Osmin a vu le sultan, et l'armée.
 Le superbe Amurat est toujours inquiet,
-Et toujours tous les curs penchent vers Bajazet.
+Et toujours tous les cœurs penchent vers Bajazet.
 D'une commune voix ils l'appellent au trône.
 Cependant les Persans marchaient vers Babylone,
 Et bientôt les deux camps aux pieds de son rempart
@@ -282,7 +282,7 @@ Déclarons-nous, Madame, et rompons le silence.
 Fermons-lui dès ce jour les portes de Byzance.
 Et sans nous informer s'il triomphe, ou s'il fuit,
 Croyez-moi, hâtons-nous d'en prévenir le bruit.
-S'il fuit, que craignez-vous ? S'il triomphe au contraire,
+S'il fuit, que craignez-vous ? S'il triomphe au contraire,
 Le conseil le plus prompt est le plus salutaire.
 Vous voudrez, mais trop tard, soustraire à son pouvoir
 Un peuple dans ses murs prêt à le recevoir.
@@ -311,7 +311,7 @@ Allez brave Acomat, assembler vos amis.
 De tous leurs sentiments venez me rendre compte.
 Je vous rendrai moi-même une réponse prompte.
 Je verrai Bajazet. Je ne puis dire rien,
-Sans savoir si son cur s'accorde avec le mien.
+Sans savoir si son cœur s'accorde avec le mien.
 Allez, et revenez.
 
 **** *book_ *id_I03 *act_I *date_1672
@@ -324,30 +324,30 @@ Je vais savoir s'il m'aime.
 
 -*who_atalide
       Est-il temps d'en douter,
-Madame ? Hâtez-vous d'achever votre ouvrage.
+Madame ? Hâtez-vous d'achever votre ouvrage.
 Vous avez du vizir entendu le langage.
 Bajazet vous est cher. Savez-vous si demain
-Sa liberté, ses jours, seront en votre main ?
+Sa liberté, ses jours, seront en votre main ?
 Peut-être en ce moment Amurat en furie
 S'approche pour trancher une si belle vie.
-Et pourquoi de son cur doutez-vous aujourd'hui ?
+Et pourquoi de son cœur doutez-vous aujourd'hui ?
 
 -*who_roxane
-Mais m'en répondez-vous, vous qui parlez pour lui ?
+Mais m'en répondez-vous, vous qui parlez pour lui ?
 
 -*who_atalide
-Quoi, Madame ! Les soins qu'il a pris pour vous plaire,
+Quoi, Madame ! Les soins qu'il a pris pour vous plaire,
 Ce que vous avez fait, ce que vous pouvez faire,
 Ses périls, ses respects, et surtout vos appas,
-Tout cela de son cur ne vous répond-il pas ?
+Tout cela de son cœur ne vous répond-il pas ?
 Croyez que vos bontés vivent dans sa mémoire.
 
 -*who_roxane
-Hélas ! Pour mon repos que ne le puis-je croire ?
+Hélas ! Pour mon repos que ne le puis-je croire ?
 Pourquoi faut-il au moins que pour me consoler
-L'ingrat ne parle pas comme on le fait parler ?
+L'ingrat ne parle pas comme on le fait parler ?
 Vingt fois sur vos discours pleine de confiance,
-Du trouble de son cur jouissant par avance,
+Du trouble de son cœur jouissant par avance,
 Moi-même j'ai voulu m'assurer de sa foi,
 Et l'ai fait en secret amener devant moi.
 Peut-être trop d'amour me rend trop difficile.
@@ -358,13 +358,13 @@ Enfin si je lui donne et la vie et l'Empire
 Ces gages incertains ne me peuvent suffire.
 
 -*who_atalide
-Quoi donc ? À son amour qu'allez-vous proposer ?
+Quoi donc ? À son amour qu'allez-vous proposer ?
 
 -*who_roxane
 S'il m'aime, des ce jour il me doit épouser.
 
 -*who_atalide
-Vous épouser ! Ô ciel ! Que prétendez-vous faire ?
+Vous épouser ! Ô ciel ! Que prétendez-vous faire ?
 
 -*who_roxane
 Je sais que des sultans l'usage m'est contraire.
@@ -373,7 +373,7 @@ De ne point à l'hymen assujettir leur foi.
 Parmi tant de beautés qui briguent leur tendresse,
 Ils daignent quelquefois choisir une maîtresse,
 Mais toujours inquiète avec tous ses appas,
-Esclave, elle reçoit son maître dans ses bras ;
+Esclave, elle reçoit son maître dans ses bras ;
 Et sans sortir du joug ou leur loi la condamne,
 Il faut qu'un fils naissant la déclare sultane.
 Amurat plus ardent, et seul jusqu'à ce jour
@@ -384,7 +384,7 @@ Mais ce même Amurat ne me promit jamais
 Que l'hymen dut un jour couronner ses bienfaits.
 Et moi qui n'aspirais qu'a cette seule gloire,
 De ses autres bienfaits j'ai perdu la mémoire.
-Toutefois, que sert-il de me justifier ?
+Toutefois, que sert-il de me justifier ?
 Bajazet, il est vrai, m'a tout fait oublier.
 Malgré tous ses malheurs plus heureux que son frère
 Il m'a plu, sans peut-être aspirer à me plaire.
@@ -407,7 +407,7 @@ Sa perte, ou son salut dépend de sa réponse.
 Je ne vous presse point de vouloir aujourd'hui
 Me prêter votre voix pour m'expliquer à lui.
 Je veux que devant moi sa bouche, et son visage,
-Me découvrent son cur, sans me laisser d'ombrage,
+Me découvrent son cœur, sans me laisser d'ombrage,
 Que lui-même en secret amené dans ces lieux,
 Sans être préparé se présente à mes yeux.
 Adieu, vous saurez tout après cette entrevue.
@@ -418,47 +418,47 @@ Adieu, vous saurez tout après cette entrevue.
 Zaïre, c'en est fait, Atalide est perdue.
 
 -*who_zaire
-Vous !
+Vous !
 
 -*who_atalide
       Je prévois déjà tout ce qu'il faut prévoir.
 Mon unique espérance est dans mon désespoir.
 
 -*who_zaire
-Mais, Madame, pourquoi ?
+Mais, Madame, pourquoi ?
 
 -*who_atalide
       Si tu venais d'entendre
 Quel funeste dessein Roxane vient de prendre,
-Quelles conditions elle veut imposer !
+Quelles conditions elle veut imposer !
 Bajazet doit périr, dit-elle, ou l'épouser.
-S'il se rend, que deviens-je en ce malheur extrême ?
-Et s'il ne se rend pas, que devient-il lui-même ?
+S'il se rend, que deviens-je en ce malheur extrême ?
+Et s'il ne se rend pas, que devient-il lui-même ?
 
 -*who_zaire
 Je conçois ce malheur. Mais à ne point mentir
 Votre amour dès longtemps a dû le pressentir.
 
 -*who_atalide
-Ah, Zaïre ! L'amour a-t-il tant de prudence ?
+Ah, Zaïre ! L'amour a-t-il tant de prudence ?
 Tout semblait avec nous être d'intelligence.
 Roxane se livrant toute entière à ma foi,
-Du cur de Bajazet se reposait sur moi,
+Du cœur de Bajazet se reposait sur moi,
 M'abandonnait le soin de tout ce qui le touche,
 Le voyait par mes yeux, lui parlait par ma bouche,
 Et je croyais toucher au bienheureux moment,
 Ou j'allais par ses mains couronner mon amant.
 Le ciel s'est déclaré contre mon artifice.
-Et que fallait-il donc, Zaïre, que je fisse ?
+Et que fallait-il donc, Zaïre, que je fisse ?
 À l'erreur de Roxane, ai-je du m'opposer,
-Et perdre mon amant pour la désabuser ?
-Avant que dans son cur cette amour fut formée,
+Et perdre mon amant pour la désabuser ?
+Avant que dans son cœur cette amour fut formée,
 J'aimais, et je pouvais m'assurer d'être aimée.
 Dès nos plus jeunes ans, tu t'en souviens assez,
-L'amour serra les nuds par le sang commencés.
+L'amour serra les nœuds par le sang commencés.
 Élevée avec lui dans le sein de sa mère,
-J'appris à distinguer Bajazet de son frère ;
-Elle-même avec joie unit nos volontés ;
+J'appris à distinguer Bajazet de son frère ;
+Elle-même avec joie unit nos volontés ;
 Et quoiqu'après sa mort l'un de l'autre écartés,
 Conservant sans nous voir le désir de nous plaire,
 Nous avons su toujours nous aimer et nous taire.
@@ -467,8 +467,8 @@ Roxane, qui depuis, loin de s'en défier,
 Ne put voir sans amour ce héros trop aimable,
 Elle courut lui tendre une main favorable.
 Bajazet étonné rendit grâce à ses soins,
-Lui rendit des respects. Pouvait-il faire moins ?
-Mais qu'aisément l'amour croit tout ce qu'il souhaite !
+Lui rendit des respects. Pouvait-il faire moins ?
+Mais qu'aisément l'amour croit tout ce qu'il souhaite !
 De ses moindres respects Roxane satisfaite
 Nous engagea tous deux, par sa facilité,
 À la laisser jouir de sa crédulité.
@@ -478,34 +478,34 @@ Ma rivale accablant mon amant de bienfaits,
 Opposait un empire à mes faibles attraits.
 Mille soins la rendaient présente à sa mémoire.
 Elle l'entretenait de sa prochaine gloire.
-Et moi je ne puis rien. Mon cur pour tous discours
+Et moi je ne puis rien. Mon cœur pour tous discours
 N'avait que des soupirs qu'il répétait toujours.
 Le ciel seul sait combien j'en ai versé de larmes.
 Mais enfin Bajazet dissipa mes alarmes.
 Je condamnais mes pleurs, et jusques aujourd'hui
 Je l'ai pressé de feindre, et j'ai parlé pour lui.
-Hélas ! Tout est fini. Roxane méprisée
+Hélas ! Tout est fini. Roxane méprisée
 Bientôt de son erreur sera désabusée.
 Car enfin Bajazet ne sait point se cacher.
 Je connais sa vertu prompte a s'effaroucher.
 Il faut qu'a tous moments tremblante et secourable,
 Je donne à ses discours un sens plus favorable.
-Bajazet va se perdre. Ah ! Si comme autrefois,
-Ma rivale eut voulu lui parler par ma voix !
-Au moins si j'avais pu préparer son visage !
+Bajazet va se perdre. Ah ! Si comme autrefois,
+Ma rivale eut voulu lui parler par ma voix !
+Au moins si j'avais pu préparer son visage !
 Mais, Zaïre, je puis l'attendre à son passage.
 D'un mot, ou d'un regard je puis le secourir.
 Qu'il l'épouse en un mot plutôt que de périr.
 Si Roxane le veut, sans doute il faut qu'il meure.
 Il se perdra, te dis-je. Atalide demeure.
 Laisse, sans t'alarmer, ton amant sur sa foi.
-Penses-tu mériter qu'on se perde pour toi ?
+Penses-tu mériter qu'on se perde pour toi ?
 Peut-être Bajazet secondant ton envie,
 Plus que tu ne voudras, aura soin de sa vie.
 
 -*who_zaire
-Ah dans quels soins, Madame, allez-vous vous plonger ?
-Toujours avant le temps faut-il vous affliger ?
+Ah dans quels soins, Madame, allez-vous vous plonger ?
+Toujours avant le temps faut-il vous affliger ?
 Vous n'en pouvez douter, Bajazet vous adore.
 Suspendez, ou cachez l'ennui qui vous dévore.
 N'allez point par vos pleurs déclarer vos amours.
@@ -518,7 +518,7 @@ Et de leur entrevue attendre le succès.
 -*who_atalide
 Hé bien, Zaïre, allons. Et toi, si ta justice
 De deux jeunes amants veut punir l'artifice,
-Ô ciel ! Si notre amour est condamné de toi,
+Ô ciel ! Si notre amour est condamné de toi,
 Je suis la plus coupable, épuise tout sur moi.
 
 **** *book_ *id_II01 *act_II *date_1672
@@ -529,7 +529,7 @@ Qu'a votre liberté le ciel a réservée.
 Rien ne me retient plus, et je puis dès ce jour
 Accomplir le dessein qu'a formé mon amour.
 Non que vous assurant d'un triomphe facile,
-Je mette entre vos mains un empire tranquille ;
+Je mette entre vos mains un empire tranquille ;
 Je fais ce que je puis, je vous l'avais promis.
 J'arme votre valeur contre vos ennemis.
 J'écarte de vos jours un péril manifeste.
@@ -551,26 +551,26 @@ Ce chemin a l'Empire a conduit de tout temps.
 Mais pour mieux commencer, hâtons-nous l'un et l'autre
 D'assurer à la fois mon bonheur et le vôtre.
 Montrez à l'univers, en m'attachant a vous,
-Que quand je vous servais, je servais mon époux ;
-Et par le nud sacré d'un heureux hyménée
+Que quand je vous servais, je servais mon époux ;
+Et par le nœud sacré d'un heureux hyménée
 Justifiez la foi que je vous ai donnée.
 
 -*who_bajazet
-Ah ! Que proposez-vous, Madame ?
+Ah ! Que proposez-vous, Madame ?
 
 -*who_roxane
-      Hé quoi, Seigneur ?
-Quel obstacle secret trouble notre bonheur ?
+      Hé quoi, Seigneur ?
+Quel obstacle secret trouble notre bonheur ?
 
 -*who_bajazet
 Madame, ignorez-vous que l'orgueil de l'empire...
-Que ne m'épargnez-vous la douleur de le dire ?
+Que ne m'épargnez-vous la douleur de le dire ?
 
 -*who_roxane
 Oui, je sais que depuis qu'un de vos empereurs,
 Bajazet d'un barbare éprouvant les fureurs,
 Vit au char du vainqueur son épouse enchaînée,
-Et par toute l'Asie à sa suite traînée ;
+Et par toute l'Asie à sa suite traînée ;
 De l'honneur ottoman ses successeurs jaloux
 Ont daigné rarement prendre le nom d'époux.
 Mais l'amour ne suit point ces lois imaginaires,
@@ -587,7 +587,7 @@ Qu'un peu d'attraits peut-être, et beaucoup d'artifice.
 -*who_bajazet
 Il est vrai. Mais aussi voyez ce que je puis,
 Ce qu'était Soliman, et le peu que je suis.
-Soliman jouissait d'une pleine puissance :
+Soliman jouissait d'une pleine puissance :
 L'Égypte ramenée a son obéissance,
 Rhodes, des Ottomans ce redoutable écueil
 De tous ses défenseurs devenu le cercueil,
@@ -595,19 +595,19 @@ Du Danube asservi les rives désolées,
 De l'Empire Persan les bornes reculées,
 Dans leurs climats brûlants les Africains domptés,
 Faisaient taire les lois devant ses volontés.
-Que suis-je ? J'attends tout du peuple, et de l'armée.
+Que suis-je ? J'attends tout du peuple, et de l'armée.
 Mes malheurs font encor toute ma renommée.
 Infortuné, proscrit, incertain de régner,
-Dois-je irriter les curs, au lieu de les gagner ?
-Témoins de nos plaisirs plaindront-ils nos misères ?
-Croiront-ils mes périls, et vos larmes sincères ?
+Dois-je irriter les cœurs, au lieu de les gagner ?
+Témoins de nos plaisirs plaindront-ils nos misères ?
+Croiront-ils mes périls, et vos larmes sincères ?
 Songez, sans me flatter du sort de Soliman,
 Au meurtre tout récent du malheureux Osman.
 Dans leur rébellion les chefs des janissaires
 Cherchant à colorer leurs desseins sanguinaires,
 Se crurent à sa perte assez autorisés
 Par le fatal hymen que vous me proposez.
-Que vous dirai-je enfin ? Maître de leur suffrage,
+Que vous dirai-je enfin ? Maître de leur suffrage,
 Peut-être avec le temps j'oserai davantage.
 Ne précipitons rien. Et daignez commencer
 À me mettre en état de vous récompenser.
@@ -620,15 +620,15 @@ Ou mon amour trop prompt vous allait engager.
 Pour vous, pour votre honneur vous en craignez les suites,
 Et je le crois, Seigneur, puisque vous me le dites.
 Mais avez-vous prévu, si vous ne m'épousez,
-Les périls plus certains ou vous vous exposez ?
+Les périls plus certains ou vous vous exposez ?
 Songez-vous que sans moi tout vous devient contraire,
-Que c'est a moi surtout qu'il importe de plaire ?
+Que c'est a moi surtout qu'il importe de plaire ?
 Songez-vous que je tiens les portes du palais,
 Que je puis vous l'ouvrir, ou fermer pour jamais,
 Que j'ai sur votre vie un empire supreme,
-Que vous ne respirez qu'autant que je vous aime ?
+Que vous ne respirez qu'autant que je vous aime ?
 Et sans ce même amour qu'offensent vos refus,
-Songez-vous, en un mot, que vous ne seriez plus ?
+Songez-vous, en un mot, que vous ne seriez plus ?
 
 -*who_bajazet
 Oui, je tiens tout de vous, et j'avais lieu de croire,
@@ -643,14 +643,14 @@ Mais enfin voulez-vous...
 -*who_roxane
       Non, je ne veux plus rien.
 Ne m'importune plus de tes raisons forcées.
-Je vois combien tes vux sont loin de mes pensées.
+Je vois combien tes vœux sont loin de mes pensées.
 Je ne te presse plus, ingrat, d'y consentir.
 Rentre dans le néant dont je t'ai fait sortir.
-Car enfin qui m'arrête ? Et quelle autre assurance
-Demanderais-je encor de son indifférence ?
-L'ingrat est-il touché de mes empressements ?
-L'amour même entre-t-il dans ses raisonnements ?
-Ah ! Je vois tes desseins. Tu crois, quoi que je fasse,
+Car enfin qui m'arrête ? Et quelle autre assurance
+Demanderais-je encor de son indifférence ?
+L'ingrat est-il touché de mes empressements ?
+L'amour même entre-t-il dans ses raisonnements ?
+Ah ! Je vois tes desseins. Tu crois, quoi que je fasse,
 Que mes propres périls t'assurent de ta grâce,
 Qu'engagée avec toi par de si forts liens,
 Je ne puis séparer tes intérêts des miens.
@@ -669,31 +669,31 @@ S'il m'échappait un mot, c'est fait de votre vie.
 Vous pouvez me l'ôter, elle est entre vos mains.
 Peut-être que ma mort, utile a vos desseins,
 De l'heureux Amurat obtenant votre grâce,
-Vous rendra dans son cur votre première place.
+Vous rendra dans son cœur votre première place.
 
 -*who_roxane
-Dans son cur ? Ah ! Crois-tu, quand il le voudrait bien,
+Dans son cœur ? Ah ! Crois-tu, quand il le voudrait bien,
 Que si je perds l'espoir de régner dans le tien,
 D'une si douce erreur si longtemps possédée,
 Je puisse désormais souffrir une autre idée,
-Ni que je vive enfin, si je ne vis pour toi ?
+Ni que je vive enfin, si je ne vis pour toi ?
 Je te donne, cruel, des armes contre moi,
 Sans doute, et je devrais retenir ma faiblesse.
 Tu vas en triompher. Oui, je te le confesse,
 J'affectais à tes yeux une fausse fierté.
 De toi dépend ma joie et ma félicité.
 De ma sanglante mort ta mort sera suivie.
-Quel fruit de tant de soins que j'ai pris pour ta vie ?
+Quel fruit de tant de soins que j'ai pris pour ta vie ?
 Tu soupires enfin, et sembles te troubler.
 Achève, parle.
 
 -*who_bajazet
-      Ô ciel ! Que ne puis-je parler !
+      Ô ciel ! Que ne puis-je parler !
 
 -*who_roxane
-Quoi donc ! Que dites-vous ? Et que viens-je d'entendre ?
-Vous avez des secrets que je ne puis apprendre !
-Quoi ! De vos sentiments je ne puis m'éclaircir ?
+Quoi donc ! Que dites-vous ? Et que viens-je d'entendre ?
+Vous avez des secrets que je ne puis apprendre !
+Quoi ! De vos sentiments je ne puis m'éclaircir ?
 
 -*who_bajazet
 Madame, encore un coup, c'est à vous de choisir.
@@ -701,7 +701,7 @@ Daignez m'ouvrir au trône un chemin légitime,
 Ou bien, me voila prêt, prenez votre victime.
 
 -*who_roxane
-Ah ! C'en est trop enfin, tu seras satisfait.
+Ah ! C'en est trop enfin, tu seras satisfait.
 Hola, gardes, qu'on vienne.
 
 **** *book_ *id_II02 *act_II *date_1672
@@ -716,10 +716,10 @@ Et que tout rentre ici dans l'ordre accoutumé.
 **** *book_ *id_II03 *act_II *date_1672
 
 -*who_acomat
-Seigneur, qu'ai-je entendu ? Quelle surprise extrême !
-Qu'allez-vous devenir ? Que deviens-je moi-même ?
-D'où naît ce changement ? Qui dois-je en accuser ?
-Ô ciel !
+Seigneur, qu'ai-je entendu ? Quelle surprise extrême !
+Qu'allez-vous devenir ? Que deviens-je moi-même ?
+D'où naît ce changement ? Qui dois-je en accuser ?
+Ô ciel !
 
 -*who_bajazet
       Il ne faut point ici vous abuser.
@@ -729,7 +729,7 @@ Vizir, songez à vous, je vous en averti,
 Et sans compter sur moi prenez votre parti.
 
 -*who_acomat
-Quoi ?
+Quoi ?
 
 -*who_bajazet
       Vous et vos amis cherchez quelque retraite.
@@ -738,19 +738,19 @@ Et j'espérais un jour vous mieux récompenser.
 Mais c'en est fait, vous dis-je, il n'y faut plus penser.
 
 -*who_acomat
-Et quel est donc, Seigneur, cet obstacle invincible ?
+Et quel est donc, Seigneur, cet obstacle invincible ?
 Tantôt dans le sérail j'ai laissé tout paisible.
-Quelle fureur saisit votre esprit et le sien ?
+Quelle fureur saisit votre esprit et le sien ?
 
 -*who_bajazet
 Elle veut, Acomat, que je l'épouse.
 
 -*who_acomat
-      Hé bien ?
-L'usage des sultans à ses vux est contraire.
+      Hé bien ?
+L'usage des sultans à ses vœux est contraire.
 Mais cet usage enfin, est-ce une loi sévère
-Qu'aux dépens de vos jours vous deviez observer ?
-La plus sainte des lois, ah ! C'est de vous sauver,
+Qu'aux dépens de vos jours vous deviez observer ?
+La plus sainte des lois, ah ! C'est de vous sauver,
 Et d'arracher, Seigneur, d'une mort manifeste
 Le sang des Ottomans dont vous faites le reste.
 
@@ -759,8 +759,8 @@ Ce reste malheureux serait trop acheté,
 S'il faut le conserver par une lâcheté.
 
 -*who_acomat
-Et pourquoi vous en faire une image si noire ?
-L'hymen de Soliman ternit-il sa mémoire ?
+Et pourquoi vous en faire une image si noire ?
+L'hymen de Soliman ternit-il sa mémoire ?
 Cependant Soliman n'était point menacé
 Des périls évidents dont vous etes pressé.
 
@@ -770,7 +770,7 @@ Qui d'un servile hymen feraient l'ignominie.
 Soliman n'avait point ce prétexte odieux.
 Son esclave trouva grâce devant ses yeux.
 Et sans subir le joug d'un hymen nécessaire,
-Il lui fit de son cur un présent volontaire.
+Il lui fit de son cœur un présent volontaire.
 
 -*who_acomat
 Mais vous aimez Roxane.
@@ -784,13 +784,13 @@ Et l'indigne prison ou je suis renfermé
 À la voir de plus près m'a même accoutumé.
 Amurat a mes yeux l'a vingt fois présentée.
 Elle finit le cours d'une vie agitée.
-Hélas ! Si je la quitte avec quelque regret...
+Hélas ! Si je la quitte avec quelque regret...
 Pardonnez, Acomat, je plains, avec sujet,
 Des cours dont les bontés trop mal récompensées
 M'avaient pris pour objet de toutes leurs pensées.
 
 -*who_acomat
-Ah ! Si nous périssons, n'en accusez que vous,
+Ah ! Si nous périssons, n'en accusez que vous,
 Seigneur. Dites un mot, et vous nous sauvez tous.
 Tout ce qui reste ici de braves janissaires,
 De la religion les saints dépositaires,
@@ -812,15 +812,15 @@ Attendre, en combattant, l'effet de votre foi,
 Et vous donner le temps de venir jusqu'à moi.
 
 -*who_acomat
-Hé ! Pourrai-je empêcher malgré ma diligence,
-Que Roxane d'un coup n'assure sa vengeance ?
+Hé ! Pourrai-je empêcher malgré ma diligence,
+Que Roxane d'un coup n'assure sa vengeance ?
 Alors qu'aura servi ce zèle impétueux,
-Qu'a charger vos amis d'un crime infructueux ?
+Qu'a charger vos amis d'un crime infructueux ?
 Promettez. Affranchi du péril qui vous presse,
 Vous verrez de quel poids sera votre promesse.
 
 -*who_bajazet
-Moi !
+Moi !
 
 -*who_acomat
       Ne rougissez point. Le sang des Ottomans
@@ -840,15 +840,15 @@ Mais ces mêmes héros prodigues de leur vie,
 Ne la rachetaient point par une perfidie.
 
 -*who_acomat
-Ô courage inflexible ! Ô trop constante foi
-Que même en périssant j'admire malgré moi !
+Ô courage inflexible ! Ô trop constante foi
+Que même en périssant j'admire malgré moi !
 Faut-il qu'en un moment un scrupule timide
-Perde... Mais quel bonheur nous envoie Atalide ?
+Perde... Mais quel bonheur nous envoie Atalide ?
 
 **** *book_ *id_II04 *act_II *date_1672
 
 -*who_acomat
-Ah, Madame ! venez avec moi vous unir.
+Ah, Madame ! venez avec moi vous unir.
 Il se perd.
 
 -*who_atalide
@@ -861,11 +861,11 @@ Peut-être on vous fera revenir sur vos pas.
 **** *book_ *id_II05 *act_II *date_1672
 
 -*who_bajazet
-Hé bien ! C'est maintenant qu'il faut que je vous laisse.
+Hé bien ! C'est maintenant qu'il faut que je vous laisse.
 Le ciel punit ma feinte, et confond votre adresse.
-Rien ne m'a pu parer contre ses derniers coups :
+Rien ne m'a pu parer contre ses derniers coups :
 Il fallait, ou mourir, ou n'être plus à vous.
-De quoi nous a servi cette indigne contrainte ?
+De quoi nous a servi cette indigne contrainte ?
 Je meurs plus tard. Voilà tout le fruit de ma feinte.
 Je vous l'avais prédit. Mais vous l'avez voulu.
 J'ai reculé vos pleurs autant que je l'ai pu.
@@ -881,7 +881,7 @@ Il vous en coûte trop pour vouloir m'épargner.
 Il faut vous rendre. Il faut me quitter, et régner.
 
 -*who_bajazet
-Vous quitter ?
+Vous quitter ?
 
 -*who_atalide
       Je le veux. Je me suis consultée.
@@ -898,21 +898,21 @@ Je ne vous voyais pas ainsi que je vous vois,
 Prêt à me dire adieu pour la dernière fois.
 Seigneur, je sais trop bien avec quelle constance
 Vous allez de la mort affronter la présence.
-Je sais que votre cur se fait quelques plaisirs
+Je sais que votre cœur se fait quelques plaisirs
 De me prouver sa foi dans ses derniers soupirs.
-Mais hélas ! Épargnez une âme plus timide.
+Mais hélas ! Épargnez une âme plus timide.
 Mesurez vos malheurs aux forces d'Atalide,
 Et ne m'exposez point aux plus vives douleurs,
 Qui jamais d'une amante épuisèrent les pleurs.
 
 -*who_bajazet
 Et que deviendrez-vous, si dès cette journée
-Je célèbre à vos yeux ce funeste hyménée ?
+Je célèbre à vos yeux ce funeste hyménée ?
 
 -*who_atalide
 Ne vous informez point ce que je deviendrai.
 Peut-être à mon destin, Seigneur, j'obéirai.
-Que sais-je ? À ma douleur je chercherai des charmes.
+Que sais-je ? À ma douleur je chercherai des charmes.
 Je songerai peut-être au milieu de mes larmes,
 Qu'a vous perdre pour moi vous étiez résolu,
 Que vous vivez, qu'enfin c'est moi qui l'ai voulu.
@@ -922,19 +922,19 @@ Non, vous ne verrez point cette fête cruelle.
 Plus vous me commandez de vous être infidèle,
 Madame, plus je vois combien vous méritez
 De ne point obtenir ce que vous souhaitez.
-Quoi ! Cet amour si tendre, et né dans notre enfance,
+Quoi ! Cet amour si tendre, et né dans notre enfance,
 Dont les feux avec nous ont cru dans le silence,
 Vos larmes que ma main pouvait seule arrêter,
 Mes serments redoublés de ne vous point quitter,
-Tout cela finirait par une perfidie ?
-J'épouserais, et qui ? (s'il faut que je le die)
+Tout cela finirait par une perfidie ?
+J'épouserais, et qui ? (s'il faut que je le die)
 Une esclave attachée à ses seuls intérêts,
 Qui présente à mes yeux les supplices tout prêts,
-Qui m'offre ou son hymen, ou la mort infaillible ;
+Qui m'offre ou son hymen, ou la mort infaillible ;
 Tandis qu'a mes périls Atalide sensible,
 Et trop digne du sang qui lui donna le jour,
 Veut me sacrifier jusques à son amour.
-Ah ! Qu'au jaloux sultan ma tête soit portée
+Ah ! Qu'au jaloux sultan ma tête soit portée
 Puisqu'il faut à ce prix qu'elle soit rachetée.
 
 -*who_atalide
@@ -966,15 +966,15 @@ Et ma bouche, et mes yeux du mensonge ennemis,
 Peut-être dans le temps que je voudrais lui plaire,
 Feraient par leur désordre un effet tout contraire,
 Et de mes froids soupirs ses regards offensés
-Verraient trop que mon cur ne les a point poussés.
-Ô ciel ! Combien de fois je l'aurais éclaircie,
+Verraient trop que mon cœur ne les a point poussés.
+Ô ciel ! Combien de fois je l'aurais éclaircie,
 Si je n'eusse à sa haine exposé que ma vie,
 Si je n'avais pas craint que ses soupçons jaloux
-N'eussent trop aisément remonté jusqu'à vous !
-Et j'irais l'abuser d'une fausse promesse ?
-Je me parjurerais ? Et par cette bassesse...
-Ah ! Loin de m'ordonner cet indigne détour,
-Si votre cur était moins plein de son amour,
+N'eussent trop aisément remonté jusqu'à vous !
+Et j'irais l'abuser d'une fausse promesse ?
+Je me parjurerais ? Et par cette bassesse...
+Ah ! Loin de m'ordonner cet indigne détour,
+Si votre cœur était moins plein de son amour,
 Je vous verrais sans doute en rougir la première.
 Mais pour vous épargner une injuste prière,
 Adieu, je vais trouver Roxane de ce pas,
@@ -992,32 +992,32 @@ Et je pourrai donner à vos yeux effrayés
 Le spectacle sanglant que vous me prépariez.
 
 -*who_bajazet
-Ô ciel ! Que faites-vous ?
+Ô ciel ! Que faites-vous ?
 
 -*who_atalide
       Cruel, pouvez-vous croire
-Que je sois moins que vous jalouse de ma gloire ?
+Que je sois moins que vous jalouse de ma gloire ?
 Pensez-vous que cent fois en vous faisant parler
-Ma rougeur ne fut pas prête à me déceler ?
+Ma rougeur ne fut pas prête à me déceler ?
 Mais on me présentait votre perte prochaine.
 Pourquoi faut-il, ingrat, quand la mienne est certaine,
-Que vous n'osiez pour moi ce que j'osais pour vous ?
+Que vous n'osiez pour moi ce que j'osais pour vous ?
 Peut-être il suffira d'un mot un peu plus doux.
-Roxane dans son cur peut-être vous pardonne.
+Roxane dans son cœur peut-être vous pardonne.
 Vous-même vous voyez le temps qu'elle vous donne.
-A-t-elle en vous quittant fait sortir le vizir ?
-Des gardes à mes yeux viennent-ils vous saisir ?
+A-t-elle en vous quittant fait sortir le vizir ?
+Des gardes à mes yeux viennent-ils vous saisir ?
 Enfin dans sa fureur implorant mon adresse,
-Ses pleurs ne m'ont-ils pas découvert sa tendresse ?
+Ses pleurs ne m'ont-ils pas découvert sa tendresse ?
 Peut-être elle n'attend qu'un espoir incertain
 Qui lui fasse tomber les armes de la main.
 Allez, Seigneur. Sauvez votre vie, et la mienne.
 
 -*who_bajazet
-Hé bien. Mais quels discours faut-il que je lui tienne ?
+Hé bien. Mais quels discours faut-il que je lui tienne ?
 
 -*who_atalide
-Ah ! Daignez sur ce choix ne me point consulter.
+Ah ! Daignez sur ce choix ne me point consulter.
 L'occasion, le ciel pourra vous les dicter.
 Allez. Entre elle et vous je ne dois point paraître.
 Votre trouble, ou le mien, nous feraient reconnaître.
@@ -1045,15 +1045,15 @@ M'abandonnent, Zaïre, et marchent sur leurs pas.
 J'ai fait ce que j'ai dû, je ne m'en repens pas.
 
 -*who_zaire
-Quoi, Madame ! Quelle est cette nouvelle alarme ?
+Quoi, Madame ! Quelle est cette nouvelle alarme ?
 
 -*who_atalide
 Et ne t'a-t-on point dit, Zaïre, par quel charme,
 Ou pour mieux dire enfin, par quel engagement
-Bajazet a pu faire un si prompt changement ?
+Bajazet a pu faire un si prompt changement ?
 Roxane en sa fureur paraissait inflexible.
-A-t-elle de son cur quelque gage infaillible ?
-Parle. L'épouse-t-il ?
+A-t-elle de son cœur quelque gage infaillible ?
+Parle. L'épouse-t-il ?
 
 -*who_zaire
       Je n'en ai rien appris.
@@ -1062,11 +1062,11 @@ S'il fait ce que vous-même avez su lui prescrire,
 S'il l'épouse en un mot...
 
 -*who_atalide
-      S'il l'épouse, Zaïre !
+      S'il l'épouse, Zaïre !
 
 -*who_zaire
-Quoi ! Vous repentez-vous des généreux discours,
-Que vous dictait le soin de conserver ses jours ?
+Quoi ! Vous repentez-vous des généreux discours,
+Que vous dictait le soin de conserver ses jours ?
 
 -*who_atalide
 Non, non, il ne fera que ce qu'il a dû faire.
@@ -1083,19 +1083,19 @@ Et du moins cet espoir me console aujourd'hui,
 Que je vais mourir digne, et contente de lui.
 
 -*who_zaire
-Mourir ! Quoi vous auriez un dessein si funeste ?
+Mourir ! Quoi vous auriez un dessein si funeste ?
 
 -*who_atalide
 J'ai cédé mon amant, tu t'étonnes du reste.
 Peux-tu compter, Zaïre, au nombre des malheurs
-Une mort, qui prévient et finit tant de pleurs ?
+Une mort, qui prévient et finit tant de pleurs ?
 Qu'il vive, c'est assez. Je l'ai voulu sans doute,
 Et je le veux toujours, quelque prix qu'il m'en coûte.
 Je n'examine point ma joie ou mon ennui.
 J'aime assez mon amant pour renoncer à lui.
-Mais hélas ! Il peut bien penser avec justice,
+Mais hélas ! Il peut bien penser avec justice,
 Que si j'ai pu lui faire un si grand sacrifice,
-Ce cur, qui de ses jours prend ce funeste soin,
+Ce cœur, qui de ses jours prend ce funeste soin,
 L'aime trop pour vouloir en être le témoin.
 Allons, je veux savoir...
 
@@ -1110,7 +1110,7 @@ C'est le vizir.
       Enfin nos amants sont d'accord,
 Madame. Un calme heureux nous remet dans le port.
 La sultane a laissé désarmer sa colère.
-Elle m'a déclaré sa volonté dernière ;
+Elle m'a déclaré sa volonté dernière ;
 Et tandis qu'elle montre au peuple épouvanté
 Du prophète divin l'étendard redouté,
 Qu'à marcher sur mes pas Bajazet se dispose,
@@ -1120,7 +1120,7 @@ Et proclamer enfin le nouvel empereur.
 Cependant permettez que je vous renouvelle
 Le souvenir du prix qu'on promit à mon zèle.
 N'attendez point de moi ces doux emportements,
-Tels que j'en vois paraître au cur de ces amants.
+Tels que j'en vois paraître au cœur de ces amants.
 Mais si par d'autres soins plus dignes de mon âge,
 Par de profonds respects, par un long esclavage,
 Tel que nous le devons au sang de nos sultans,
@@ -1129,16 +1129,16 @@ Je puis...
 -*who_atalide
       Vous m'en pourrez instruire avec le temps.
 Avec le temps aussi vous pourrez me connaître.
-Mais quels sont ces transports qu'ils vous ont fait paraître ?
+Mais quels sont ces transports qu'ils vous ont fait paraître ?
 
 -*who_acomat
 Madame, doutez-vous des soupirs enflammés
-De deux jeunes amants l'un de l'autre charmés ?
+De deux jeunes amants l'un de l'autre charmés ?
 
 -*who_atalide
 Non. Mais à dire vrai ce miracle m'étonne.
-Et dit-on à quel prix Roxane lui pardonne ?
-L'épouse-t-il enfin ?
+Et dit-on à quel prix Roxane lui pardonne ?
+L'épouse-t-il enfin ?
 
 -*who_acomat
       Madame, je le crois
@@ -1165,7 +1165,7 @@ L'autre avec des regards éloquents, pleins d'amour,
 L'a de ses feux, Madame, assurée à son tour.
 
 -*who_atalide
-Hélas !
+Hélas !
 
 -*who_acomat
       Ils m'ont alors aperçu l'un et l'autre.
@@ -1187,30 +1187,30 @@ Je vais le couronner, Madame, et j'en réponds.
 Allons, retirons-nous, ne troublons point leur joie.
 
 -*who_zaire
-Ah, Madame ! Croyez...
+Ah, Madame ! Croyez...
 
 -*who_atalide
-      Que veux-tu que je croie ?
-Quoi donc ? À ce spectacle irai-je m'exposer ?
+      Que veux-tu que je croie ?
+Quoi donc ? À ce spectacle irai-je m'exposer ?
 Tu vois que c'en est fait. Ils se vont épouser.
 La sultane est contente, il l'assure qu'il l'aime.
 Mais je ne m'en plains pas, je l'ai voulu moi-même.
 Cependant croyais-tu, quand jaloux de sa foi,
 Il s'allait plein d'amour sacrifier pour moi,
-Lorsque son cur tantôt m'exprimant sa tendresse,
+Lorsque son cœur tantôt m'exprimant sa tendresse,
 Refusait à Roxane une simple promesse,
 Quand mes larmes en vain tâchaient de l'émouvoir,
-Quand je m'applaudissais de leur peu de pouvoir ;
-Croyais-tu que son cur contre toute apparence,
-Pour la persuader trouvât tant d'éloquence ?
-Ah ! Peut-être, après tout, que sans trop se forcer,
+Quand je m'applaudissais de leur peu de pouvoir ;
+Croyais-tu que son cœur contre toute apparence,
+Pour la persuader trouvât tant d'éloquence ?
+Ah ! Peut-être, après tout, que sans trop se forcer,
 Tout ce qu'il a pu dire, il a pu le penser.
 Peut-être en la voyant, plus sensible pour elle
 Il a vu dans ses yeux quelque grâce nouvelle.
 Elle aura devant lui fait parler ses douleurs,
 Elle l'aime, un Empire autorise ses pleurs,
 Tant d'amour touche enfin une âme généreuse.
-Hélas ! Que de raisons contre une malheureuse !
+Hélas ! Que de raisons contre une malheureuse !
 
 -*who_zaire
 Mais ce succès, Madame, est encore incertain.
@@ -1226,12 +1226,12 @@ Mais après les adieux que je venais d'entendre,
 Après tous les transports d'une douleur si tendre,
 Je sais qu'il n'a point dû lui faire remarquer
 La joie et les transports qu'on vient de m'expliquer.
-Toi-même juge-nous, et vois si je m'abuse :
-Pourquoi de ce conseil moi seule suis-je excluse ?
-Au sort de Bajazet ai-je si peu de part ?
+Toi-même juge-nous, et vois si je m'abuse :
+Pourquoi de ce conseil moi seule suis-je excluse ?
+Au sort de Bajazet ai-je si peu de part ?
 À me chercher lui-même attendrait-il si tard,
-N'était que de son cur le trop juste reproche
-Lui fait peut-être, hélas ! Éviter cette approche ?
+N'était que de son cœur le trop juste reproche
+Lui fait peut-être, hélas ! Éviter cette approche ?
 Mais non, je lui veux bien épargner ce souci.
 Il ne me verra plus.
 
@@ -1245,17 +1245,17 @@ C'en est fait, j'ai parlé, vous êtes obéie.
 Vous n'avez plus, Madame, à craindre pour ma vie.
 Et je serais heureux, si la foi, si l'honneur
 Ne me reprochait point mon injuste bonheur,
-Si mon cur, dont le trouble en secret me condamne,
+Si mon cœur, dont le trouble en secret me condamne,
 Pouvait me pardonner aussi bien que Roxane.
 Mais enfin je me vois les armes a la main.
 Je suis libre, et je puis contre un frère inhumain,
 Non plus par un silence aidé de votre adresse
-Disputer en ces lieux le cur de sa maîtresse,
+Disputer en ces lieux le cœur de sa maîtresse,
 Mais par de vrais combats, par de nobles dangers,
 Moi-même le cherchant aux climats étrangers,
-Lui disputer les curs du peuple et de l'armée,
+Lui disputer les cœurs du peuple et de l'armée,
 Et pour juge entre nous prendre la Renommée.
-Que vois-je ? Qu'avez-vous ? Vous pleurez !
+Que vois-je ? Qu'avez-vous ? Vous pleurez !
 
 -*who_atalide
       Non, Seigneur,
@@ -1266,7 +1266,7 @@ Tant que j'ai respiré, vos yeux me sont témoins
 Que votre seul péril occupait tous mes soins,
 Et puisqu'il ne pouvait finir qu'avec ma vie,
 C'est sans regret aussi que je la sacrifie.
-Il est vrai, si le ciel eut écouté mes vux,
+Il est vrai, si le ciel eut écouté mes vœux,
 Qu'il pouvait m'accorder un trépas plus heureux.
 Vous n'en auriez pas moins épousé ma rivale.
 Vous pouviez l'assurer de la foi conjugale.
@@ -1280,17 +1280,17 @@ Qu'emportant chez les morts toute votre tendresse
 Ce n'est point un amant en vous que je lui laisse.
 
 -*who_bajazet
-Que parlez-vous, Madame, et d'époux et d'amant ?
-Ô ciel ! De ce discours quel est le fondement ?
-Qui peut vous avoir fait ce récit infidèle ?
+Que parlez-vous, Madame, et d'époux et d'amant ?
+Ô ciel ! De ce discours quel est le fondement ?
+Qui peut vous avoir fait ce récit infidèle ?
 Moi j'aimerais Roxane, ou je vivrais pour elle,
-Madame ! Ah croyez-vous que loin de le penser,
-Ma bouche seulement eut pu le prononcer ?
+Madame ! Ah croyez-vous que loin de le penser,
+Ma bouche seulement eut pu le prononcer ?
 Mais l'un ni l'autre enfin n'était point nécessaire,
-La sultane a suivi son penchant ordinaire :
+La sultane a suivi son penchant ordinaire :
 Et soit qu'elle ait d'abord expliqué mon retour
 Comme un gage certain qui marquait mon amour,
-Soit que le temps trop cher la pressât de se rendre :
+Soit que le temps trop cher la pressât de se rendre :
 À peine ai-je parlé, que sans presque m'entendre,
 Ses pleurs précipités ont coupé mes discours.
 Elle met dans ma main sa fortune, ses jours,
@@ -1319,7 +1319,7 @@ Que je n'allais tantôt déguiser ma pensée.
 La voici.
 
 -*who_atalide
-      Juste ciel ! Où va-t-il s'exposer ?
+      Juste ciel ! Où va-t-il s'exposer ?
 Si vous m'aimez, gardez de la désabuser.
 
 **** *book_ *id_III05 *act_III *date_1672
@@ -1332,7 +1332,7 @@ Assemblé par mon ordre attend ma volonté.
 Mes esclaves gagnés, que le reste va suivre,
 Sont les premiers sujets que mon amour vous livre.
 L'auriez-vous cru, Madame, et qu'un si prompt retour
-Fît à tant de fureur succéder tant d'amour ?
+Fît à tant de fureur succéder tant d'amour ?
 Tantôt à me venger fixe et déterminée,
 Je jurais qu'il voyait sa dernière journée.
 À peine cependant Bajazet m'a parlé,
@@ -1342,7 +1342,7 @@ J'ai prononcé sa grâce, et je crois sa promesse.
 
 -*who_bajazet
 Oui, je vous ai promis, et j'ai donné ma foi
-De n'oublier jamais tout ce que je vous dois ;
+De n'oublier jamais tout ce que je vous dois ;
 J'ai juré que mes soins, ma juste complaisance,
 Vous répondront toujours de ma reconnaissance.
 Si je puis à ce prix mériter vos bienfaits,
@@ -1351,37 +1351,37 @@ Je vais de vos bontés attendre les effets.
 **** *book_ *id_III06 *act_III *date_1672
 
 -*who_roxane
-De quel étonnement, ô ciel ! Suis-je frappée ?
-Est-ce un songe ? Et mes yeux ne m'ont-ils point trompée ?
+De quel étonnement, ô ciel ! Suis-je frappée ?
+Est-ce un songe ? Et mes yeux ne m'ont-ils point trompée ?
 Quel est ce sombre accueil, et ce discours glacé
-Qui semble révoquer tout ce qui s'est passé ?
+Qui semble révoquer tout ce qui s'est passé ?
 Sur quel espoir croit-il que je me sois rendue,
-Et qu'il ait regagné mon amitié perdue ?
+Et qu'il ait regagné mon amitié perdue ?
 J'ai cru qu'il me jurait que jusques à la mort
 Son amour me laissait maîtresse de son sort.
-Se repent-il déjà de m'avoir apaisée ?
-Mais moi-même tantôt me serais-je abusée ?
-Ah !... Mais il vous parlait. Quels étaient ses discours,
-Madame ?
+Se repent-il déjà de m'avoir apaisée ?
+Mais moi-même tantôt me serais-je abusée ?
+Ah !... Mais il vous parlait. Quels étaient ses discours,
+Madame ?
 
 -*who_atalide
-      Moi, Madame ! Il vous aime toujours.
+      Moi, Madame ! Il vous aime toujours.
 
 -*who_roxane
 Il y va de sa vie au moins que je le croie.
 Mais de grâce, parmi tant de sujets de joie,
 Répondez-moi, comment pouvez-vous expliquer
-Ce chagrin, qu'en sortant il m'a fait remarquer ?
+Ce chagrin, qu'en sortant il m'a fait remarquer ?
 
 -*who_atalide
 Madame, ce chagrin n'a point frappé ma vue.
-II m'a de vos bontés longtemps entretenue.
+Il m'a de vos bontés longtemps entretenue.
 Il en était tout plein quand je l'ai rencontré.
 J'ai cru le voir sortir tel qu'il était entré.
 Mais, Madame, après tout, faut-il être surprise,
 Que tout prêt d'achever cette grande entreprise
 Bajazet s'inquiète, et qu'il laisse échapper
-Quelque marque des soins qui doivent l'occuper ?
+Quelque marque des soins qui doivent l'occuper ?
 
 -*who_roxane
 Je vois qu'à l'excuser votre adresse est extrême.
@@ -1401,51 +1401,51 @@ Et je veux un moment y penser sans témoins.
 **** *book_ *id_III07 *act_III *date_1672
 
 -*who_roxane
-De tout ce que je vois que faut-il que je pense ?
-Tous deux à me tromper sont-ils d'intelligence ?
-Pourquoi ce changement, ce discours, ce départ ?
-N'ai-je pas même entre eux surpris quelque regard ?
-Bajazet interdit ! Atalide étonnée !
-Ô ciel ! À cet affront m'auriez-vous condamnée ?
-De mon aveugle amour seraient-ce là les fruits ?
+De tout ce que je vois que faut-il que je pense ?
+Tous deux à me tromper sont-ils d'intelligence ?
+Pourquoi ce changement, ce discours, ce départ ?
+N'ai-je pas même entre eux surpris quelque regard ?
+Bajazet interdit ! Atalide étonnée !
+Ô ciel ! À cet affront m'auriez-vous condamnée ?
+De mon aveugle amour seraient-ce là les fruits ?
 Tant de jours douloureux, tant d'inquiètes nuits,
 Mes brigues, mes complots, ma trahison fatale,
-N'aurais-je tout tenté que pour une rivale !
+N'aurais-je tout tenté que pour une rivale !
 Mais peut-être qu'aussi trop prompte à m'affliger
 J'observe de trop près un chagrin passager.
 J'impute à son amour l'effet de son caprice.
-N'eut-il pas jusqu'au bout conduit son artifice ?
+N'eut-il pas jusqu'au bout conduit son artifice ?
 Prêt à voir le succès de son déguisement,
-Quoi, ne pouvait-il pas feindre encore un moment ?
+Quoi, ne pouvait-il pas feindre encore un moment ?
 Non, non, rassurons-nous. Trop d'amour m'intimide.
-Et pourquoi dans son cur redouter Atalide ?
-Quel serait son dessein ? Qu'a-t-elle fait pour lui ?
-Qui de nous deux enfin le couronne aujourd'hui ?
-Mais hélas ! De l'amour ignorons-nous l'empire ?
+Et pourquoi dans son cœur redouter Atalide ?
+Quel serait son dessein ? Qu'a-t-elle fait pour lui ?
+Qui de nous deux enfin le couronne aujourd'hui ?
+Mais hélas ! De l'amour ignorons-nous l'empire ?
 Si par quelque autre charme Atalide l'attire,
-Qu'importe qu'il nous doive, et le sceptre, et le jour ?
-Les bienfaits dans un cur balancent-ils l'amour ?
+Qu'importe qu'il nous doive, et le sceptre, et le jour ?
+Les bienfaits dans un cœur balancent-ils l'amour ?
 Et sans chercher plus loin, quand l'ingrat me sut plaire,
-Ai-je mieux reconnu les bontés de son frère ?
-Ah ! Si d'une autre chaîne il n'était point lié,
-L'offre de mon hymen l'eut-il tant effrayé ?
-N'eut-il pas sans regret secondé mon envie ?
-L'eut-il refusé même aux dépens de sa vie ?
-Que de justes raisons... Mais qui vient me parler ?
-Que veut-on ?
+Ai-je mieux reconnu les bontés de son frère ?
+Ah ! Si d'une autre chaîne il n'était point lié,
+L'offre de mon hymen l'eut-il tant effrayé ?
+N'eut-il pas sans regret secondé mon envie ?
+L'eut-il refusé même aux dépens de sa vie ?
+Que de justes raisons... Mais qui vient me parler ?
+Que veut-on ?
 
 **** *book_ *id_III08 *act_III *date_1672
 
 -*who_zatime
       Pardonnez si j'ose vous troubler.
-Mais, Madame, un esclave arrive de l'armée ;
+Mais, Madame, un esclave arrive de l'armée ;
 Et quoique sur la mer la porte fut fermée,
 Les gardes sans tarder l'ont ouverte à genoux
 Aux ordres du sultan qui s'adressent à vous.
 Mais, ce qui me surprend, c'est Orcan qu'il envoie.
 
 -*who_roxane
-Orcan !
+Orcan !
 
 -*who_zatime
       Oui, de tous ceux que le sultan emploie,
@@ -1457,15 +1457,15 @@ Et souhaitant surtout qu'il ne vous surprît pas
 Dans votre appartement j'ai retenu ses pas.
 
 -*who_roxane
-Quel malheur imprévu vient encor me confondre ?
-Quel peut être cet ordre ? Et que puis-je répondre ?
+Quel malheur imprévu vient encor me confondre ?
+Quel peut être cet ordre ? Et que puis-je répondre ?
 Il n'en faut point douter, le sultan inquiet
 Une seconde fois condamne Bajazet.
 On ne peut sur ses jours sans moi rien entreprendre.
-Tout m'obéit ici. Mais dois-je le défendre ?
-Quel est mon empereur ? Bajazet ? Amurat ?
+Tout m'obéit ici. Mais dois-je le défendre ?
+Quel est mon empereur ? Bajazet ? Amurat ?
 J'ai trahi l'un. Mais l'autre est peut-être un ingrat.
-Le temps presse. Que faire en ce doute funeste ?
+Le temps presse. Que faire en ce doute funeste ?
 Allons. Employons bien le moment qui nous reste.
 Ils ont beau se cacher. L'amour le plus discret
 Laisse par quelque marque échapper son secret.
@@ -1475,12 +1475,12 @@ Et couronnons l'amant, ou perdons le perfide.
 **** *book_ *id_IV01 *act_IV *date_1672
 
 -*who_atalide
-Ah ! Sais-tu mes frayeurs ? Sais-tu que dans ces lieux
-J'ai vu du fier Orcan le visage odieux ?
-En ce moment fatal que je crains sa venue !
-Que je crains... Mais dis-moi, Bajazet t'a-t-il vue ?
-Qu'a-t-il dit ? Se rend-il, Zaïre, à mes raisons ?
-Ira-t-il voir Roxane, et calmer ses soupçons ?
+Ah ! Sais-tu mes frayeurs ? Sais-tu que dans ces lieux
+J'ai vu du fier Orcan le visage odieux ?
+En ce moment fatal que je crains sa venue !
+Que je crains... Mais dis-moi, Bajazet t'a-t-il vue ?
+Qu'a-t-il dit ? Se rend-il, Zaïre, à mes raisons ?
+Ira-t-il voir Roxane, et calmer ses soupçons ?
 
 -*who_zaire
 Il ne peut plus la voir sans qu'elle le commande.
@@ -1492,7 +1492,7 @@ Madame, vous verrez ce qu'elle vous annonce.
 
 -*who_atalide
 « Après tant d'injustes détours
-Faut-il qu'à feindre encor votre amour me convie ?
+Faut-il qu'à feindre encor votre amour me convie ?
 Mais je veux bien prendre soin d'une vie,
 Dont vous jurez que dépendent vos jours.
 Je verrai la sultane. Et par ma complaisance,
@@ -1501,14 +1501,14 @@ J'apaiserai, si je puis, son courroux.
 N'exigez rien de plus. Ni la mort, ni vous-même,
 Ne me ferez jamais prononcer que je l'aime,
 Puisque jamais je n'aimerai que vous. »
-Hélas ! Que me dit-il ? Croit-il que je l'ignore ?
-Ne sais-je pas assez qu'il m'aime, qu'il m'adore ?
-Est-ce ainsi qu'à mes vux il sait s'accommoder ?
+Hélas ! Que me dit-il ? Croit-il que je l'ignore ?
+Ne sais-je pas assez qu'il m'aime, qu'il m'adore ?
+Est-ce ainsi qu'à mes vœux il sait s'accommoder ?
 C'est Roxane, et non moi qu'il faut persuader.
-De quelle crainte encor me laisse-t-il saisie ?
-Funeste aveuglement ! Perfide jalousie !
-Récit menteur ! Soupçons que je n'ai pu celer !
-Fallait-il vous entendre, ou fallait-il parler ?
+De quelle crainte encor me laisse-t-il saisie ?
+Funeste aveuglement ! Perfide jalousie !
+Récit menteur ! Soupçons que je n'ai pu celer !
+Fallait-il vous entendre, ou fallait-il parler ?
 C'était fait, mon bonheur surpassait mon attente.
 J'étais aimée, heureuse, et Roxane contente.
 Zaïre, s'il se peut, retourne sur tes pas.
@@ -1516,14 +1516,14 @@ Qu'il l'apaise. Ces mots ne me suffisent pas.
 Que sa bouche, ses yeux, tout l'assure qu'il l'aime.
 Qu'elle le croie enfin. Que ne puis je moi-même
 Échauffant par mes pleurs ses soins trop languissants,
-Mettre dans ses discours tout l'amour que je sens !
+Mettre dans ses discours tout l'amour que je sens !
 Mais à d'autres périls je crains de le commettre.
 
 -*who_zaire
 Roxane vient à vous.
 
 -*who_atalide
-      Ah ! Cachons cette lettre.
+      Ah ! Cachons cette lettre.
 
 **** *book_ *id_IV02 *act_IV *date_1672
 
@@ -1537,7 +1537,7 @@ Va, cours, et tâche enfin de le persuader.
 
 -*who_roxane
 Madame, j'ai reçu des lettres de l'armée,
-De tout ce qui s'y passe êtes-vous informée ?
+De tout ce qui s'y passe êtes-vous informée ?
 
 -*who_atalide
 On m'a dit que du camp un esclave est venu,
@@ -1548,7 +1548,7 @@ Amurat est heureux, la fortune est changée,
 Madame, et sous ses lois Babylone est rangée.
 
 -*who_atalide
-Hé quoi, Madame ? Osmin...
+Hé quoi, Madame ? Osmin...
 
 -*who_roxane
       Était mal averti.
@@ -1556,34 +1556,34 @@ Et depuis son départ cet esclave est parti.
 C'en est fait.
 
 -*who_atalide
-      Quel revers !
+      Quel revers !
 
 -*who_roxane
       Pour comble de disgrâces
 Le sultan qui l'envoie est parti sur ses traces.
 
 -*who_atalide
-Quoi ! Les Persans armés ne l'arrêtent donc pas ?
+Quoi ! Les Persans armés ne l'arrêtent donc pas ?
 
 -*who_roxane
 Non, Madame. Vers nous il revient à grands pas.
 
 -*who_atalide
-Que je vous plains, Madame ! Et qu'il est nécessaire
-D'achever promptement ce que vous vouliez faire !
+Que je vous plains, Madame ! Et qu'il est nécessaire
+D'achever promptement ce que vous vouliez faire !
 
 -*who_roxane
 Il est tard de vouloir s'opposer au vainqueur.
 
 -*who_atalide
-Ô ciel !
+Ô ciel !
 
 -*who_roxane
       Le temps n'a point adouci sa rigueur.
 Vous voyez dans mes mains sa volonté suprême.
 
 -*who_atalide
-Et que vous mande-t-il ?
+Et que vous mande-t-il ?
 
 -*who_roxane
       Voyez. Lisez vous-même.
@@ -1601,13 +1601,13 @@ Vous, si vous avez soin de votre propre vie,
 Ne vous montrez a moi que sa tête à la main. »
 
 -*who_roxane
-Hé bien ?
+Hé bien ?
 
 -*who_atalide
       Cache tes pleurs, malheureuse Atalide.
 
 -*who_roxane
-Que vous semble ?
+Que vous semble ?
 
 -*who_atalide
       Il poursuit son dessein parricide.
@@ -1617,26 +1617,26 @@ Que vous et Bajazet vous ne faites qu'une âme,
 Que plutôt, s'il le faut, vous mourrez...
 
 -*who_roxane
-      Moi, Madame ?
+      Moi, Madame ?
 Je voudrais le sauver, je ne le puis haïr.
 Mais...
 
 -*who_atalide
-      Quoi donc ? Qu'avez-vous résolu ?
+      Quoi donc ? Qu'avez-vous résolu ?
 
 -*who_roxane
       D'obéir.
 
 -*who_atalide
-D'obéir !
+D'obéir !
 
 -*who_roxane
-      Et que faire en ce péril extrême ?
+      Et que faire en ce péril extrême ?
 Il le faut.
 
 -*who_atalide
-      Quoi ! Ce prince aimable... qui vous aime
-Verra finir ses jours qu'il vous a destinés !
+      Quoi ! Ce prince aimable... qui vous aime
+Verra finir ses jours qu'il vous a destinés !
 
 -*who_roxane
 Il le faut. Et déjà mes ordres sont donnés.
@@ -1667,18 +1667,18 @@ Et qui même souvent prévenant son envie
 Ai hâté les moments les plus doux de sa vie.
 Ce n'est pas tout. Il faut maintenant m'éclaircir,
 Si dans sa perfidie elle a su réussir.
-Il faut... Mais que pourrais-je apprendre davantage ?
-Mon malheur n'est-il pas écrit sur son visage ?
+Il faut... Mais que pourrais-je apprendre davantage ?
+Mon malheur n'est-il pas écrit sur son visage ?
 Vois-je pas au travers de son saisissement,
-Un cur dans ses douleurs content de son amant ?
+Un cœur dans ses douleurs content de son amant ?
 Exempte des soupçons dont je suis tourmentée,
 Ce n'est que pour ses jours qu'elle est épouvantée.
 N'importe. Poursuivons. Elle peut comme moi
 Sur des gages trompeurs s'assurer de sa foi.
 Pour le faire expliquer tendons-lui quelque piège.
-Mais quel indigne emploi moi-même m'imposé-je ?
-Quoi donc ! À me gêner appliquant mes esprits
-J'irai faire a mes yeux éclater ses mépris ?
+Mais quel indigne emploi moi-même m'imposé-je ?
+Quoi donc ! À me gêner appliquant mes esprits
+J'irai faire a mes yeux éclater ses mépris ?
 Lui-même il peut prévoir et tromper mon adresse.
 D'ailleurs l'ordre, l'esclave, et le vizir me presse.
 Il faut prendre parti, l'on m'attend. Faisons mieux.
@@ -1701,15 +1701,15 @@ Je veux tout ignorer.
 **** *book_ *id_IV05 *act_IV *date_1672
 
 -*who_roxane
-      Ah ! Que viens-tu m'apprendre,
-Zatime ? Bajazet en est-il amoureux ?
-Vois-tu dans ses discours qu'ils s'entendent tous deux ?
+      Ah ! Que viens-tu m'apprendre,
+Zatime ? Bajazet en est-il amoureux ?
+Vois-tu dans ses discours qu'ils s'entendent tous deux ?
 
 -*who_zatime
 Elle n'a point parlé. Toujours évanouie,
 Madame, elle ne marque aucun reste de vie
 Que par de longs soupirs, et des gémissements,
-Qu'il semble que son cur va suivre à tous moments.
+Qu'il semble que son cœur va suivre à tous moments.
 Vos femmes, dont le soin à l'envi la soulage,
 Ont découvert son sein, pour leur donner passage.
 Moi-même avec ardeur secondant ce dessein,
@@ -1718,69 +1718,69 @@ Du prince votre amant j'ai reconnu la lettre,
 Et j'ai cru qu'en vos mains je devais le remettre.
 
 -*who_roxane
-Donne. Pourquoi frémir ? Et quel trouble soudain
-Me glace a cet objet et fait trembler ma main ?
+Donne. Pourquoi frémir ? Et quel trouble soudain
+Me glace a cet objet et fait trembler ma main ?
 Il peut l'avoir écrit sans m'avoir offensée.
 Il peut même... Lisons, et voyons sa pensée.
-« .................. Ni la mort, ni vous-même,
+«  .................. Ni la mort, ni vous-même,
 Ne me ferez jamais prononcer que je l'aime,
 Puisque jamais je n'aimerai que vous. »
-Ah ! De la trahison me voilà donc instruite.
+Ah ! De la trahison me voilà donc instruite.
 Je reconnais l'appas, dont ils m'avaient séduite.
 Ainsi donc mon amour était récompensé,
-Lâche, indigne du jour que je t'avais laissé ?
-Ah ! Je respire enfin. Et ma joie est extrême
+Lâche, indigne du jour que je t'avais laissé ?
+Ah ! Je respire enfin. Et ma joie est extrême
 Que le traître une fois se soit trahi lui-même.
 Libre des soins cruels, ou j'allais m'engager,
 Ma tranquille fureur n'a plus qu'à se venger.
 Qu'il meure. Vengeons-nous. Courez. Qu'on le saisisse.
 Que la main des muets s'arme pour son supplice.
-Qu'ils viennent préparer ces nuds infortunés,
+Qu'ils viennent préparer ces nœuds infortunés,
 Par qui de ses pareils les jours sont terminés.
 Cours, Zatime, sois prompte à servir ma colère.
 
 -*who_zatime
-Ah Madame !
+Ah Madame !
 
 -*who_roxane
-      Quoi donc ?
+      Quoi donc ?
 
 -*who_zatime
       Si sans trop vous déplaire,
 Dans les justes transports, Madame, où je vous vois,
-J'osais vous faire entendre une timide voix ;
+J'osais vous faire entendre une timide voix ;
 Bajazet, il est vrai, trop indigne de vivre,
 Aux mains de ces cruels mérite qu'on le livre.
 Mais tout ingrat qu'il est, croyez-vous aujourd'hui
-Qu'Amurat ne soit pas plus à craindre que lui ?
+Qu'Amurat ne soit pas plus à craindre que lui ?
 Et qui sait si déjà quelque bouche infidèle
-Ne l'a point averti de votre amour nouvelle ?
-Des curs comme le sien, vous le savez assez,
+Ne l'a point averti de votre amour nouvelle ?
+Des cœurs comme le sien, vous le savez assez,
 Ne se regagnent plus, quand ils sont offensés,
 Et la plus prompte mort dans ce moment sévère
 Devient de leur amour la marque la plus chère.
 
 -*who_roxane
 Avec quelle insolence, et quelle cruauté,
-Ils se jouaient tous deux de ma crédulité !
-Quel penchant, quel plaisir je sentais à les croire !
+Ils se jouaient tous deux de ma crédulité !
+Quel penchant, quel plaisir je sentais à les croire !
 Tu ne remportais pas une grande victoire,
-Perfide, en abusant ce cur préoccupé,
+Perfide, en abusant ce cœur préoccupé,
 Qui lui-même craignait de se voir détrompé.
-Moi ! Qui de ce haut rang qui me rendait si fière,
+Moi ! Qui de ce haut rang qui me rendait si fière,
 Dans le sein du malheur t'ai cherché la première,
 Pour attacher des jours tranquilles, fortunés,
 Aux périls dont tes jours étaient environnés,
 Après tant de bonté, de soin, d'ardeurs extrêmes,
-Tu ne saurais jamais prononcer que tu m'aimes !
-Mais dans quel souvenir me laissé-je égarer ?
-Tu pleures malheureuse ? Ah ! Tu devais pleurer,
+Tu ne saurais jamais prononcer que tu m'aimes !
+Mais dans quel souvenir me laissé-je égarer ?
+Tu pleures malheureuse ? Ah ! Tu devais pleurer,
 Lorsque d'un vain désir à ta perte poussée,
 Tu conçus de le voir la première pensée.
-Tu pleures ? Et l'ingrat tout prêt à te trahir
+Tu pleures ? Et l'ingrat tout prêt à te trahir
 Prépare les discours dont il veut t'éblouir.
 Pour plaire à ta rivale il prend soin de sa vie.
-Ah ! Traître, tu mourras. Quoi ! Tu n'es point partie ?
+Ah ! Traître, tu mourras. Quoi ! Tu n'es point partie ?
 Va. Mais nous-même allons, précipitons nos pas.
 Qu'il me voie attentive au soin de son trépas,
 Lui montrer à la fois, et l'ordre de son frère,
@@ -1789,26 +1789,26 @@ Toi, Zatime, retiens ma rivale en ces lieux.
 Qu'il n'ait en expirant que ses cris pour adieux.
 Qu'elle soit cependant fidèlement servie.
 Prends soin d'elle. Ma haine a besoin de sa vie.
-Ah ! Si pour son amant facile à s'attendrir
+Ah ! Si pour son amant facile à s'attendrir
 La peur de son trépas la fit presque mourir,
 Quel surcroît de vengeance et de douceur nouvelle,
 De le montrer bientôt pâle et mort devant elle,
 De voir sur cet objet ses regards arrêtés
-Me payer les plaisirs que je leur ai prêtés !
+Me payer les plaisirs que je leur ai prêtés !
 Va, retiens-la. Surtout garde bien le silence.
-Moi... Mais qui vient ici différer ma vengeance ?
+Moi... Mais qui vient ici différer ma vengeance ?
 
 **** *book_ *id_IV06 *act_IV *date_1672
 
 -*who_acomat
-Que faites-vous, Madame ? En quels retardements
-D'un jour si précieux perdez-vous les moments ?
+Que faites-vous, Madame ? En quels retardements
+D'un jour si précieux perdez-vous les moments ?
 Byzance par mes soins presque entière assemblée
 Interroge ses chefs, de leur crainte troublée.
 Et tous, pour s'expliquer, ainsi que mes amis,
 Attendent le signal que vous m'aviez promis.
 D'où vient que sans répondre à leur impatience,
-Le sérail cependant garde un triste silence ?
+Le sérail cependant garde un triste silence ?
 Déclarez-vous, Madame, et sans plus différer...
 
 -*who_roxane
@@ -1816,21 +1816,21 @@ Oui, vous serez content, je vais me déclarer.
 
 -*who_acomat
 Madame, quel regard, et quelle voix sévère
-Malgré votre discours m'assure du contraire ?
-Quoi ! Déjà votre amour des obstacles vaincu...
+Malgré votre discours m'assure du contraire ?
+Quoi ! Déjà votre amour des obstacles vaincu...
 
 -*who_roxane
 Bajazet est un traître, et n'a que trop vécu.
 
 -*who_acomat
-Lui !
+Lui !
 
 -*who_roxane
       Pour moi, pour vous-même également perfide,
 Il nous trompait tous deux.
 
 -*who_acomat
-      Comment ?
+      Comment ?
 
 -*who_roxane
       Cette Atalide,
@@ -1838,7 +1838,7 @@ Qui même n'était pas un assez digne prix,
 De tout ce que pour lui vous avez entrepris...
 
 -*who_acomat
-Hé bien ?
+Hé bien ?
 
 -*who_roxane
       Lisez. Jugez après cette insolence,
@@ -1869,39 +1869,39 @@ Disperser promptement vos amis assemblés.
 Demeure. Il n'est pas temps, cher Osmin, que je sorte.
 
 -*who_osmin
-Quoi ! Jusque-là, Seigneur, votre amour vous transporte ?
-N'avez-vous pas poussé la vengeance assez loin ?
-Voulez-vous de sa mort être encor le témoin ?
+Quoi ! Jusque-là, Seigneur, votre amour vous transporte ?
+N'avez-vous pas poussé la vengeance assez loin ?
+Voulez-vous de sa mort être encor le témoin ?
 
 -*who_acomat
-Que veux tu dire ? Es-tu toi-même si crédule,
-Que de me soupçonner d'un courroux ridicule ;
-Moi jaloux ? Plut au ciel qu'en me manquant de foi,
-L'imprudent Bajazet n'eut offensé que moi !
+Que veux tu dire ? Es-tu toi-même si crédule,
+Que de me soupçonner d'un courroux ridicule ;
+Moi jaloux ? Plut au ciel qu'en me manquant de foi,
+L'imprudent Bajazet n'eut offensé que moi !
 
 -*who_osmin
 Et pourquoi donc, Seigneur, au lieu de le défendre...
 
 -*who_acomat
-Et la sultane est-elle en état de m'entendre ?
+Et la sultane est-elle en état de m'entendre ?
 Ne voyais-tu pas bien, quand je l'allais trouver,
-Que j'allais avec lui me perdre, ou me sauver ?
-Ah, de tant de conseils événement sinistre !
-Prince aveugle ! Ou plutôt trop aveugle ministre !
+Que j'allais avec lui me perdre, ou me sauver ?
+Ah, de tant de conseils événement sinistre !
+Prince aveugle ! Ou plutôt trop aveugle ministre !
 Il te sied bien, d'avoir en de si jeunes mains
 Chargé d'ans, et d'honneurs, confié tes desseins,
 Et laissé d'un vizir la fortune flottante
 Suivre de ces amants la conduite imprudente.
 
 -*who_osmin
-Hé ! Laissez-les entre eux exercer leur courroux.
+Hé ! Laissez-les entre eux exercer leur courroux.
 Bajazet veut périr, Seigneur, songez à vous.
 Qui peut de vos desseins révéler le mystere,
-Sinon quelques amis engagés à se taire ?
+Sinon quelques amis engagés à se taire ?
 Vous verrez par sa mort le sultan adouci.
 
 -*who_acomat
-Roxane en sa fureur peut raisonner ainsi ;
+Roxane en sa fureur peut raisonner ainsi ;
 Mais moi, qui vois plus loin, qui par un long usage
 Des maximes du trône ai fait l'apprentissage,
 Qui d'emplois en emplois vieilli sous trois sultans,
@@ -1921,11 +1921,11 @@ Mais il m'est désormais trop dur de reculer.
 Par une belle chute il faut me signaler,
 Et laisser un débris du moins après ma fuite,
 Qui de mes ennemis retarde la poursuite.
-Bajazet vit encor. Pourquoi nous étonner ?
+Bajazet vit encor. Pourquoi nous étonner ?
 Acomat de plus loin a su le ramener.
 Sauvons-le, malgré lui, de ce péril extrême,
 Pour nous, pour nos amis, pour Roxane elle-même.
-Tu vois combien son cur prêt à le protéger,
+Tu vois combien son cœur prêt à le protéger,
 A retenu mon bras trop prompt à la venger.
 Je connais peu l'amour. Mais j'ose te répondre
 Qu'il n'est pas condamné puisqu'on le veut confondre,
@@ -1933,7 +1933,7 @@ Que nous avons du temps. Malgré son désespoir
 Roxane l'aime encore, Osmin, et le va voir.
 
 -*who_osmin
-Enfin que vous inspire une si noble audace ?
+Enfin que vous inspire une si noble audace ?
 Si Roxane l'ordonne, il faut quitter la place.
 Ce palais est tout plein...
 
@@ -1942,7 +1942,7 @@ Ce palais est tout plein...
 Nourris loin de la guerre, à l'ombre de ses murs.
 Mais toi, dont la valeur d'Amurat oubliée
 Par de communs chagrins à mon sort s'est liée,
-Voudras-tu jusqu'au bout seconder mes fureurs ?
+Voudras-tu jusqu'au bout seconder mes fureurs ?
 
 -*who_osmin
 Seigneur, vous m'offensez. Si vous mourez, je meurs.
@@ -1954,18 +1954,18 @@ La sultane d'ailleurs se fie à mes discours.
 Nourri dans le sérail j'en connais les détours.
 Je sais de Bajazet l'ordinaire demeure.
 Ne tardons plus. Marchons. Et s'il faut que je meure,
-Mourons, moi, cher Osmin, comme un vizir ; et toi,
+Mourons, moi, cher Osmin, comme un vizir ; et toi,
 Comme le favori d'un homme tel que moi.
 
 **** *book_ *id_V01 *act_V *date_1672
 
 -*who_atalide
-Hélas ! Je cherche en vain. Rien ne s'offre a ma vue.
-Malheureuse ! Comment puis-je l'avoir perdue ?
+Hélas ! Je cherche en vain. Rien ne s'offre a ma vue.
+Malheureuse ! Comment puis-je l'avoir perdue ?
 Ciel, aurais-tu permis que mon funeste amour
-Exposât mon amant tant de fois en un jour ?
+Exposât mon amant tant de fois en un jour ?
 Que pour dernier malheur, cette lettre fatale
-Fut encor parvenue aux yeux de ma rivale ?
+Fut encor parvenue aux yeux de ma rivale ?
 J'étais en ce lieu même, et ma timide main,
 Quand Roxane a paru, l'a cachée en mon sein.
 Sa présence a surpris mon âme désolée.
@@ -1973,13 +1973,13 @@ Ses menaces, sa voix, un ordre m'a troublée.
 J'ai senti défaillir ma force, et mes esprits.
 Ses femmes m'entouraient quand je les ai repris,
 À mes yeux étonnés leur troupe est disparue.
-Ah ! Trop cruelles mains qui m'avez secourue,
+Ah ! Trop cruelles mains qui m'avez secourue,
 Vous m'avez vendu cher vos secours inhumains,
 Et par vous cette lettre a passé dans ses mains.
-Quels desseins maintenant occupent sa pensée ?
-Sur qui sera d'abord sa vengeance exercée ?
-Quel sang pourra suffire à son ressentiment ?
-Ah ! Bajazet est mort, ou meurt en ce moment.
+Quels desseins maintenant occupent sa pensée ?
+Sur qui sera d'abord sa vengeance exercée ?
+Quel sang pourra suffire à son ressentiment ?
+Ah ! Bajazet est mort, ou meurt en ce moment.
 Cependant on m'arrête, on me tient enfermée.
 On ouvre. De son sort je vais être informée.
 
@@ -2002,22 +2002,22 @@ Gardes, qu'on la retienne.
 Orcan, et les muets attendent leur victime.
 Je suis pourtant toujours maîtresse de son sort.
 Je puis le retenir. Mais s'il sort, il est mort.
-Vient-il ?
+Vient-il ?
 
 -*who_zatime
-      Oui, sur mes pas un esclave l'amène ;
+      Oui, sur mes pas un esclave l'amène ;
 Et loin de soupçonner sa disgrâce prochaine,
 Il m'a paru, Madame, avec empressement
 Sortir, pour vous chercher, de son appartement.
 
 -*who_roxane
 Âme lâche, et trop digne enfin d'être déçue,
-Peux-tu souffrir encor qu'il paraisse à ta vue ?
-Crois-tu par tes discours le vaincre ou l'étonner ?
-Quand même il se rendrait, peux-tu lui pardonner ?
-Quoi ! Ne devrais-tu pas être déjà vengée ?
-Ne crois-tu pas encore être assez outragée ?
-Sans perdre tant d'efforts sur ce cur endurci,
+Peux-tu souffrir encor qu'il paraisse à ta vue ?
+Crois-tu par tes discours le vaincre ou l'étonner ?
+Quand même il se rendrait, peux-tu lui pardonner ?
+Quoi ! Ne devrais-tu pas être déjà vengée ?
+Ne crois-tu pas encore être assez outragée ?
+Sans perdre tant d'efforts sur ce cœur endurci,
 Que ne le laissons-nous périr... Mais le voici.
 
 **** *book_ *id_V04 *act_V *date_1672
@@ -2037,18 +2037,18 @@ Vous ayez si longtemps par des détours si bas,
 Feint un amour pour moi que vous ne sentiez pas.
 
 -*who_bajazet
-Qui ? Moi, Madame ?
+Qui ? Moi, Madame ?
 
 -*who_roxane
       Oui, toi. Voudrais-tu point encore
-Me nier un mépris que tu crois que j'ignore ;
+Me nier un mépris que tu crois que j'ignore ;
 Ne prétendrais-tu point par tes fausses couleurs
 Déguiser un amour qui te retient ailleurs,
 Et me jurer enfin d'une bouche perfide,
-Tout ce que tu ne sens que pour ton Atalide ?
+Tout ce que tu ne sens que pour ton Atalide ?
 
 -*who_bajazet
-Atalide, Madame ! Ô ciel ! Qui vous a dit...
+Atalide, Madame ! Ô ciel ! Qui vous a dit...
 
 -*who_roxane
 Tiens, perfide, regarde, et démens cet écrit.
@@ -2057,35 +2057,35 @@ Tiens, perfide, regarde, et démens cet écrit.
 Je ne vous dis plus rien. Cette lettre sincère
 D'un malheureux amour contient tout le mystère.
 Vous savez un secret que tout prêt à s'ouvrir
-Mon cur a mille fois voulu vous découvrir.
+Mon cœur a mille fois voulu vous découvrir.
 J'aime, je le confesse. Et devant que votre âme
 Prévenant mon espoir m'eut déclaré sa flamme,
 Déjà plein d'un amour des l'enfance formé
-À tout autre désir mon cur était fermé.
+À tout autre désir mon cœur était fermé.
 Vous me vîntes offrir, et la vie, et l'empire,
 Et même votre amour, si j'ose vous le dire,
 Consultant vos bienfaits, les crut, et sur leur foi
 De tous mes sentiments vous répondit pour moi.
-Je connus votre erreur. Mais que pouvais-je faire ?
+Je connus votre erreur. Mais que pouvais-je faire ?
 Je vis en même temps qu'elle vous était chère.
-Combien le trône tente un cur ambitieux !
+Combien le trône tente un cœur ambitieux !
 Un si noble présent me fit ouvrir les yeux.
 Je chéris, j'acceptai sans tarder davantage,
-L'heureuse occasion de sortir d'esclavage ;
-D'autant plus qu'il fallait l'accepter, ou périr ;
+L'heureuse occasion de sortir d'esclavage ;
+D'autant plus qu'il fallait l'accepter, ou périr ;
 D'autant plus que vous-même ardente à me l'offrir
 Vous ne craigniez rien tant que d'être refusée,
 Que même mes refus vous auraient exposée,
 Qu'après avoir osé me voir et me parler,
 Il était dangereux pour vous de reculer.
 Cependant je n'en veux pour témoins que vos plaintes.
-Ai-je pu vous tromper par des promesses feintes ?
+Ai-je pu vous tromper par des promesses feintes ?
 Songez combien de fois vous m'avez reproché
 Un silence témoin de mon trouble caché.
 Plus l'effet de vos soins, et ma gloire étaient proches,
-Plus mon cur interdit se faisait de reproches.
+Plus mon cœur interdit se faisait de reproches.
 Le ciel, qui m'entendait, sait bien qu'en même temps
-Je ne m'arrêtais pas à des vux impuissants.
+Je ne m'arrêtais pas à des vœux impuissants.
 Et si l'effet enfin suivant mon espérance
 Eut ouvert un champ libre a ma reconnaissance,
 J'aurais par tant d'honneurs, par tant de dignités,
@@ -2093,33 +2093,33 @@ Contenté votre orgueil, et payé vos bontés,
 Que vous-même peut-être...
 
 -*who_roxane
-      Et que pourrais-tu faire ?
-Sans l'offre de ton cur par ou peux-tu me plaire ?
-Quels seraient de tes vux les inutiles fruits ?
-Ne te souvient-il plus de tout ce que je suis ?
+      Et que pourrais-tu faire ?
+Sans l'offre de ton cœur par ou peux-tu me plaire ?
+Quels seraient de tes vœux les inutiles fruits ?
+Ne te souvient-il plus de tout ce que je suis ?
 Maîtresse du sérail, arbitre de ta vie,
 Et même de l'État qu'Amurat me confie,
 Sultane, et ce qu'en vain j'ai cru trouver en toi,
-Souveraine d'un cur qui n'eut aimé que moi.
+Souveraine d'un cœur qui n'eut aimé que moi.
 Dans ce comble de gloire, ou je suis arrivée,
-À quel indigne honneur m'avais-tu réservée ?
+À quel indigne honneur m'avais-tu réservée ?
 Traînerais-je en ces lieux un sort infortuné,
 Vil rebut d'un ingrat que j'aurais couronné,
 De mon rang descendue, à mille autres égale,
-Ou la première esclave enfin de ma rivale ?
+Ou la première esclave enfin de ma rivale ?
 Laissons ces vains discours. Et sans m'importuner,
-Pour la dernière fois veux-tu vivre et régner ?
+Pour la dernière fois veux-tu vivre et régner ?
 J'ai l'ordre d'Amurat, et je puis t'y soustraire.
 Mais tu n'as qu'un moment. Parle.
 
 -*who_bajazet
-      Que faut-il faire ?
+      Que faut-il faire ?
 
 -*who_roxane
 Ma rivale est ici. Suis-moi sans différer.
 Dans les mains des muets viens la voir expirer.
 Et libre d'un amour à ta gloire funeste
-Viens m'engager ta foi ; le temps fera le reste.
+Viens m'engager ta foi ; le temps fera le reste.
 Ta grâce est à ce prix, si tu veux l'obtenir.
 
 -*who_bajazet
@@ -2127,7 +2127,7 @@ Je ne l'accepterais que pour vous en punir,
 Que pour faire éclater aux yeux de tout l'empire
 L'horreur et le mépris que cette offre m'inspire.
 Mais à quelle fureur me laissant emporter
-Contre ses tristes jours vais-je vous irriter ?
+Contre ses tristes jours vais-je vous irriter ?
 De mes emportements elle n'est point complice,
 Ni de mon amour même, et de mon injustice.
 Loin de me retenir par des conseils jaloux,
@@ -2166,7 +2166,7 @@ Et quand il sera temps, viens m'apprendre son sort.
 Je ne viens plus, Madame, à feindre disposée
 Tromper votre bonté si longtemps abusée.
 Confuse, et digne objet de vos inimitiés,
-Je viens mettre mon cur, et mon crime à vos pieds.
+Je viens mettre mon cœur, et mon crime à vos pieds.
 Oui, Madame, il est vrai que je vous ai trompée.
 Du soin de mon amour seulement occupée,
 Quand j'ai vu Bajazet, loin de vous obéir,
@@ -2174,10 +2174,10 @@ Je n'ai dans mes discours songé qu'à vous trahir.
 Je l'aimai des l'enfance. Et des ce temps, Madame,
 J'avais par mille soins su prévenir son âme.
 La sultane sa mère ignorant l'avenir,
-Hélas ! Pour son malheur, se plut à nous unir.
+Hélas ! Pour son malheur, se plut à nous unir.
 Vous l'aimâtes depuis. Plus heureux l'un et l'autre,
-Si connaissant mon cur, ou me cachant le vôtre,
-Votre amour de la mienne eut su se défier !
+Si connaissant mon cœur, ou me cachant le vôtre,
+Votre amour de la mienne eut su se défier !
 Je ne me noircis point, pour le justifier.
 Je jure par le ciel, qui me voit confondue,
 Par ces grands Ottomans, dont je suis descendue,
@@ -2188,22 +2188,22 @@ Madame, a tant d'attraits n'était pas invincible.
 Jalouse, et toujours prête à lui représenter
 Tout ce que je croyais digne de l'arrêter,
 Je n'ai rien négligé, plaintes, larmes, colère,
-Quelquefois attestant les mânes de sa mère ;
+Quelquefois attestant les mânes de sa mère ;
 Ce jour même, des jours le plus infortuné,
 Lui reprochant l'espoir qu'il vous avait donné,
 Et de ma mort enfin le prenant à partie,
 Mon importune ardeur ne s'est point ralentie,
 Qu'arrachant, malgré lui des gages de sa foi,
 Je ne sois parvenue à le perdre avec moi.
-Mais pourquoi vos bontés seraient-elles lassées ?
+Mais pourquoi vos bontés seraient-elles lassées ?
 Ne vous arrêtez point à ses froideurs passées.
-C'est moi qui l'y forçai. Les nuds que j'ai rompus
+C'est moi qui l'y forçai. Les nœuds que j'ai rompus
 Se rejoindront bientôt, quand je ne serai plus.
 Quelque peine pourtant qui soit due à mon crime,
 N'ordonnez pas vous-même une mort légitime,
-Et ne vous montrez point à son cur éperdu,
+Et ne vous montrez point à son cœur éperdu,
 Couverte de mon sang par vos mains répandu.
-D'un cur trop tendre encore épargnez la faiblesse.
+D'un cœur trop tendre encore épargnez la faiblesse.
 Vous pouvez de mon sort me laisser la maîtresse,
 Madame, mon trépas n'en sera pas moins prompt.
 Jouissez d'un bonheur, dont ma mort vous répond.
@@ -2216,14 +2216,14 @@ J'aurai d'une rivale affranchi votre amour.
 Je ne mérite pas un si grand sacrifice.
 Je me connais, Madame, et je me fais justice.
 Loin de vous séparer, je prétends aujourd'hui,
-Par des nuds éternels vous unir avec lui.
+Par des nœuds éternels vous unir avec lui.
 Vous jouirez bientôt de son aimable vue.
-Levez-vous. Mais que veut Zatime tout émue ?
+Levez-vous. Mais que veut Zatime tout émue ?
 
 **** *book_ *id_V07 *act_V *date_1672
 
 -*who_zatime
-Ah ! Venez vous montrer, Madame, ou désormais
+Ah ! Venez vous montrer, Madame, ou désormais
 Le rebelle Acomat est maître du palais.
 Profanant des sultans la demeure sacrée,
 Ses criminels amis en ont forcé l'entrée.
@@ -2231,25 +2231,25 @@ Vos esclaves tremblants, dont la moitié s'enfuit,
 Doutent si le Vizir vous sert, ou vous trahit.
 
 -*who_roxane
-Ah les traîtres ! Allons, et courons le confondre.
+Ah les traîtres ! Allons, et courons le confondre.
 Toi, garde ma captive, et songe à m'en répondre.
 
 **** *book_ *id_V08 *act_V *date_1672
 
 -*who_atalide
-Hélas ! Pour qui mon cur doit-il faire des vux ?
+Hélas ! Pour qui mon cœur doit-il faire des vœux ?
 J'ignore quel dessein les anime tous deux,
 Si de tant de malheurs quelque pitié te touche,
 Je ne demande point, Zatime, que ta bouche
 Trahisse en ma faveur Roxane et son secret.
 Mais de grâce, dis-moi ce que fait Bajazet.
-L'as-tu vu ? Pour ses jours n'ai-je encor rien a craindre ?
+L'as-tu vu ? Pour ses jours n'ai-je encor rien a craindre ?
 
 -*who_zatime
 Madame, en vos malheurs je ne puis que vous plaindre.
 
 -*who_atalide
-Quoi, Roxane déjà l'a-t-elle condamné ?
+Quoi, Roxane déjà l'a-t-elle condamné ?
 
 -*who_zatime
 Madame, le secret m'est sur tout ordonné.
@@ -2261,9 +2261,9 @@ Malheureuse, dis-moi seulement s'il respire.
 Il y va de ma vie, et je ne puis rien dire.
 
 -*who_atalide
-Ah ! C'en est trop, cruelle. Achève, et que ta main
+Ah ! C'en est trop, cruelle. Achève, et que ta main
 Lui donne de ton zèle un gage plus certain.
-Perce toi-même un cur que ton silence accable,
+Perce toi-même un cœur que ton silence accable,
 D'une esclave barbare esclave impitoyable.
 Précipite des jours qu'elle me veut ravir,
 Montre-toi, s'il se peut, digne de la servir.
@@ -2273,8 +2273,8 @@ Il faut que je le voie, ou du moins que je meure.
 **** *book_ *id_V09 *act_V *date_1672
 
 -*who_acomat
-Ah que fait Bajazet ? Où le puis-je trouver,
-Madame ? Aurai-je encor le temps de le sauver ?
+Ah que fait Bajazet ? Où le puis-je trouver,
+Madame ? Aurai-je encor le temps de le sauver ?
 Je cours tout le sérail. Et même des l'entrée
 De mes braves amis la moitié séparée
 A marché sur les pas du courageux Osmin,
@@ -2283,7 +2283,7 @@ Je cours, et je ne vois que des troupes craintives,
 D'esclaves effrayés, de femmes fugitives.
 
 -*who_atalide
-Ah ! Je suis de son sort moins instruite que vous.
+Ah ! Je suis de son sort moins instruite que vous.
 Cette esclave le sait.
 
 -*who_acomat
@@ -2293,31 +2293,31 @@ Malheureuse, réponds.
 **** *book_ *id_V10 *act_V *date_1672
 
 -*who_zaire
-      Madame !
+      Madame !
 
 -*who_atalide
-      Hé bien, Zaïre ?
-Qu'est-ce ?
+      Hé bien, Zaïre ?
+Qu'est-ce ?
 
 -*who_zaire
       Ne craignez plus. Votre ennemie expire.
 
 -*who_atalide
-Roxane ?
+Roxane ?
 
 -*who_zaire
       Et ce qui va bien plus vous étonner,
 Orcan lui-même, Orcan vient de l'assassiner.
 
 -*who_atalide
-Quoi ! Lui ?
+Quoi ! Lui ?
 
 -*who_zaire
       Désespéré d'avoir manqué son crime,
 Sans doute il a voulu prendre cette victime.
 
 -*who_atalide
-Juste ciel ! L'innocence a trouvé ton appui.
+Juste ciel ! L'innocence a trouvé ton appui.
 Bajazet vit encor, vizir, courez à lui.
 
 -*who_zaire
@@ -2327,8 +2327,8 @@ Il a tout vu.
 **** *book_ *id_V11 *act_V *date_1672
 
 -*who_acomat
-      Ses yeux ne l'ont-ils point séduite ?
-Roxane est-elle morte ?
+      Ses yeux ne l'ont-ils point séduite ?
+Roxane est-elle morte ?
 
 -*who_osmin
       Oui, j'ai vu l'assassin
@@ -2351,22 +2351,22 @@ Nos bras impatients ont puni son forfait,
 Et vengé dans son sang la mort de Bajazet.
 
 -*who_atalide
-Bajazet !
+Bajazet !
 
 -*who_acomat
-      Que dis-tu ?
+      Que dis-tu ?
 
 -*who_osmin
       Bajazet est sans vie.
-L'ignoriez-vous ?
+L'ignoriez-vous ?
 
 -*who_atalide
-      Ô ciel !
+      Ô ciel !
 
 -*who_osmin
       Son amante en furie
 Près de ces lieux, Seigneur, craignant votre secours,
-Avait au nud fatal abandonné ses jours.
+Avait au nœud fatal abandonné ses jours.
 Moi-même des objets j'ai vu le plus funeste,
 Et de sa vie en vain j'ai cherché quelque reste,
 Bajazet était mort. Nous l'avons rencontré
@@ -2376,7 +2376,7 @@ Ce héros a forcés d'accompagner son ombre.
 Mais puisque c'en est fait, Seigneur, songeons à nous.
 
 -*who_acomat
-Ah ! Destins ennemis, où me réduisez-vous !
+Ah ! Destins ennemis, où me réduisez-vous !
 Je sais en Bajazet la perte que vous faites,
 Madame. Je sais trop qu'en l'état où vous êtes,
 Il ne m'appartient point de vous offrir l'appui
@@ -2402,28 +2402,28 @@ Mes injustes soupçons, mes funestes caprices,
 Je suis donc arrivée au douloureux moment,
 Où je vois par mon crime expirer mon amant.
 N'était-ce pas assez, cruelle destinée,
-Qu'a lui survivre hélas ! Je fusse condamnée ?
+Qu'a lui survivre hélas ! Je fusse condamnée ?
 Et fallait-il encor que pour comble d'horreurs
-Je ne pusse imputer sa mort qu'a mes fureurs ?
+Je ne pusse imputer sa mort qu'a mes fureurs ?
 Oui, c'est moi, cher amant, qui t'arrache la vie,
 Roxane, ou le sultan, ne te l'ont point ravie.
 Moi seule, j'ai tissu le lien malheureux
-Dont tu viens d'éprouver les détestables nuds.
-Et je puis, sans mourir, en souffrir la pensée ?
+Dont tu viens d'éprouver les détestables nœuds.
+Et je puis, sans mourir, en souffrir la pensée ?
 Moi, qui n'ai pu tantôt, de ta mort menacée,
-Retenir mes esprits, prompts à m'abandonner !
-Ah ! N'ai-je eu de l'amour que pour t'assassiner ?
+Retenir mes esprits, prompts à m'abandonner !
+Ah ! N'ai-je eu de l'amour que pour t'assassiner ?
 Mais c'en est trop. Il faut par un prompt sacrifice
 Que ma fidèle main te venge, et me punisse.
 Vous, de qui j'ai troublé la gloire, et le repos,
 Héros, qui deviez tous revivre en ce héros,
 Toi, mère malheureuse, et qui dès notre enfance,
-Me confias son cur, dans une autre espérance,
+Me confias son cœur, dans une autre espérance,
 Infortuné vizir, amis désespérés,
 Roxane, venez tous contre moi conjurés,
 Tourmenter à la fois une amante éperdue,
 Et prenez la vengeance enfin qui vous est due.
 
 -*who_zaire
-Ah ! Madame... Elle expire. Ô ciel ! En ce malheur
-Que ne puis-je avec elle expirer de douleur !
+Ah ! Madame... Elle expire. Ô ciel ! En ce malheur
+Que ne puis-je avec elle expirer de douleur !

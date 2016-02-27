@@ -1,5 +1,5 @@
 ---
-identifier: corneille_theodat  
+identifier: corneille-thomas_theodat  
 creator: Corneille, Thomas  
 date: 1673  
 title: Théodat. Tragédie  
@@ -498,7 +498,7 @@ Le 23 Janvier 1673.
  – Ataulphe,Capitaine des Gardes d'Amalasonte.
  – Gepilde,Confidente d'Amalasonte.
  – Valmire,Confidente d'Ildegonde.
- – Euthar,Confident de Theodat.< THEODAT, TRAGEDIE. >
+ – Euthar,Confident de Theodat.
 
 
 ## ACTE PREMIER
@@ -581,7 +581,7 @@ Et lors que vostre espoir sur ses bontez⁎ se fonde,
 Je craindrois…  
 
     THEODAT .
-Honoric voit souvent Ildegonde.  
+        Honoric voit souvent Ildegonde.  
 Crois-tu qu'il reüssisse, & qu'il en soit aimé ?  
 
     EUTHAR .
@@ -592,7 +592,7 @@ Par l'hymen de la Reyne il vous aura pour Roy,
 Et la Princesse en vain…  
 
     THEODAT .
-Moy ? la contraindre, moy ?  
+        Moy ? la contraindre, moy ?  
 Non, Euthar, elle peut, sans que j'y mette obstacle,  
 Ordonner de son cœur, le temps fait ce miracle.  
 Autrefois, je l'avouë, il m'eust esté fâcheux  
@@ -637,7 +637,7 @@ Cent reproches sanglans pour confondre l'Ingrate …
 Quel triomphe !  
 
     EUTHAR .
-L'image en est douce, & vous flate ;  
+        L'image en est douce, & vous flate ;  
 Mais quelque fier⁎ couroux qu'on pense mettre au jour,  
 Les reproches souvent sont des restes d'amour.  
 Qui se plaint, s'adoucit, & voudroit des excuses.  
@@ -681,7 +681,7 @@ Que le Ciel l'auroit fait incapapble d'aimer.
 Mais Honoric …  
 
     EUTHAR .
-Seigneur, je croiray pour vous plaire,  
+        Seigneur, je croiray pour vous plaire,  
 Que vous conserverez toute vostre colere ;  
 Mais tant de mouvemens l'un à l'autre opposez,  
 Ne marquent pas encor que vos fers soient brisez.  
@@ -699,7 +699,7 @@ Ma raison sur mes sens reprendra son empire⁎,
 Et le temps qui peut tout…  
 
     EUTHAR .
-Seigneur, je me retire ;  
+        Seigneur, je me retire ;  
 Quoy que peut-estre icy je fusse peu suspect,  
 La Reyne qui paroist m'oblige à ce respect⁎.  
 
@@ -731,7 +731,7 @@ M'a-t-on veu reculer, ou d'une ame contrainte
 Chercher dans le péril…  
 
     AMALASONTE.
-Ce n'est pas là ma plainte.  
+        Ce n'est pas là ma plainte.  
 Vostre sang m'est d'un prix à qui tout doit ceder,  
 Et c'est me servir mal, que de le hazarder [61].  
 Mais quand l'empressement de ma reconnoissance  
@@ -809,13 +809,13 @@ Qui donnent sans reserve, & je les puis avoir.
 Ce sont eux que tout autre…  
 
     THEODAT.
-Ah, j'en connois, Madame,  
+        Ah, j'en connois, Madame,  
 Que je voudrois oser découvrir dans vostre ame ;  
 Mais prest à les chercher, je m'arreste, & je crains,  
 Mon respect⁎ qui s'étonne⁎…  
 
     AMALASONTE.
-Et c'est dont je me plains.  
+        Et c'est dont je me plains.  
 Oüy, je prens pour affront ce respect⁎ trop timide⁎,  
 Qui balance à vous faire une gloire⁎ solide [71],  
 Et n'ose à mes bontez⁎ prester assez de foy⁎  
@@ -880,7 +880,7 @@ AMALASONTE, GEPILDE.
 
 
     GEPILDE.
-Enfin vous le voyez, Madame ;  
+        Enfin vous le voyez, Madame ;  
 Mieux que vous ne pensiez j'avois leu dans son ame,  
 Et vous avois bien dit que ses vœux⁎ les plus doux  
 N'aspiroient qu'à pouvoir se déclarer pour vous.  
@@ -896,7 +896,7 @@ Un pur zele⁎ pour vous est tout ce qu'il écoute,
 Et vous voulez douter que son cœur…  
 
     AMALASONTE.
-Oüy, j'en doute.  
+        Oüy, j'en doute.  
 En vain ma passion cherche à me décevoir⁎,  
 Gepilde, j'ay plus veu que je ne voulois voir.  
 Je sçay que Theodat accepte ma Couronne,  
@@ -1014,7 +1014,7 @@ Il luy rend trop de soins, pour ne le croire pas.
 Il en est donc charmé⁎ ?  
 
     VALMIRE.
-Du moins il le doit estre.  
+        Du moins il le doit estre.  
 Mais quelle inquietude en faites-vous paroistre ?  
 Croyez-vous qu'à la Reyne un tel choix soit honteux ?  
 
@@ -1026,7 +1026,7 @@ Il semble cependant que vostre cœur soûpire⁎ ?
 Apprenez-m'en la cause.  
 
     ILDEGONDE.
-Et comment te la dire,  
+        Et comment te la dire,  
 Puis que loin qu'avec toy j'ose me déclarer,  
 Moy-mesme, s'il se peut, je la veux ignorer ?  
 
@@ -1059,7 +1059,7 @@ Theodat vous plairoit luy qui sous vostre empire⁎
 S'est veu cent & cent fois…  
 
     ILDEGONDE.
-Etonne-t-en, Valmire.  
+        Etonne-t-en, Valmire.  
 Quoy qu'ait ce changement d'incroyable pour toy,  
 Tu n'en seras jamais si surprise que moy.  
 Je suis née en un rang où l'orgueil qui m'anime  
@@ -1160,7 +1160,7 @@ Quoy que vous résolviez [97], si negligeant la Reyne,
 Theodat vous pressoit…  
 
     ILDEGONDE.
-Il y perdroit sa peine ;  
+        Il y perdroit sa peine ;  
 Je l'aime, je le sens, mais malgré est cet amour,  
 Pour peu qu'à me vanger je pûsse trouver jour,  
 Il m'a manqué de foy⁎, je luy ferois connoistre …  
@@ -1242,7 +1242,7 @@ N'a-t-il pû meriter que pour prix de ma foy⁎
 J'ose…  
 
     ILDEGONDE.
-Oüy, voyez la Reyne, & répondez de moy.  
+        Oüy, voyez la Reyne, & répondez de moy.  
 
     HONORIC.
 Ah, puis que vostre flame est propice à la mienne…  
@@ -1360,7 +1360,7 @@ Qu'on ne m'ait encor veu joüir d'un sort plus doux.
 Qu'à moy ?  
 
     THEODAT.
-Jamais amour [111] ne m'ofrit tant de charmes⁎.  
+        Jamais amour [111] ne m'ofrit tant de charmes⁎.  
 J'en appelle à témoins mes soûpirs⁎ & mes larmes,  
 Ces larmes qu'à vos pieds, sans mouvement, sans voix,  
 Mon désespoir m'a fait répandre tant de fois.  
@@ -1370,12 +1370,12 @@ Vous avez au mépris adjoûté le couroux,
 Vostre ingrate rigueur…  
 
     ILDEGONDE.
-De quoy vous plaignez-vous ?  
+        De quoy vous plaignez-vous ?  
 N'estes-vous pas content⁎ qu'elle vous ait fait naistre  
 La noble ambition …  
 
     THEODAT. 
-Non, je ne le puis estre,  
+        Non, je ne le puis estre,  
 Et ce Trône où m'appelle un hymen glorieux,  
 Il me couste trop cher pour m'estre prétieux.  
 J'y consens, joüissez de mon inquiétude [112],  
@@ -1393,7 +1393,7 @@ Toute l'horreur des maux où je suis exposé ?
 Hé bien, je vais encor …  
 
     ILDEGONDE.
-Non, cela doit suffire,  
+        Non, cela doit suffire,  
 Je ne veux rien sçavoir, vous n'avez rien à dire.  
 
     THEODAT.
@@ -1429,18 +1429,18 @@ Vous ne m'avez montré ny chagrin, ny dépit,
 Marqué rien qui parust…  
 
     ILDEGONDE.
-Je vous en ay trop dit.  
+        Je vous en ay trop dit.  
 
     THEODAT.
 Vous m'en avez trop dit ! Vous ?  
 
     ILDEGONDE.
-Oüy, trop ; mais qu'importe ?  
+        Oüy, trop ; mais qu'importe ?  
 Il est beau, Theodat, que le Trône l'emporte,  
 Que vous n'ayez rien veu…  
 
     THEODAT.
-Non, Madame, jamais  
+        Non, Madame, jamais  
 Le moindre ennuy⁎ de vous n'a flaté mes souhaits [114].  
 Toûjours du mesme esprit à ma perte animée …  
 
@@ -1486,7 +1486,7 @@ Vous avez à la Reyne engagé vostre foy⁎,
 Juré que vostre cœur …  
 
     THEODAT.
-Il n'estoit pas à moy ;  
+        Il n'estoit pas à moy ;  
 Asservy sous vos loix, pouvois-je le promettre ?  
 
     ILDEGONDE.
@@ -1496,7 +1496,7 @@ Qu'il tâchast de la Reyne à meriter l'aveu⁎ ;
 S'il l'obtient, & qu'il faille aujourd'huy…  
 
     THEODAT.
-Quoy, Madame,  
+        Quoy, Madame,  
 L'amour a donc si peu de pouvoir sur vostre ame…  
 
     ILDEGONDE.
@@ -1562,7 +1562,7 @@ Si ce que vostre cœur a fait soufrir au mien,
 Si mes larmes …  
 
     ILDEGONDE.
-Adieu, je n'écoute plus rien,  
+        Adieu, je n'écoute plus rien,  
 En l'état où je suis vous m'en pourriez trop dire,  
 Et je vous haïrois, si lors que j'en soûpire⁎  
 Vous m'aviez sçeu contraindre à force de douleurs  
@@ -1583,18 +1583,18 @@ Je triomphe, Ildegonde a reconnu ma foy⁎,
 Elle m'aime.  
 
     EUTHAR.
-Ah, Seigneur, quelle triste victoire !  
+        Ah, Seigneur, quelle triste victoire !  
 Ildegonde vous hait, & vous la voulez croire !  
 Pour vous oster un Trône…  
 
     THEODAT.
-Ah, non, jusqu'à ce jour,  
+        Ah, non, jusqu'à ce jour,  
 J'ay trop pour m'y tromper, étudié l'amour.  
 Elle m'aime, te dis-je, & ma gloire⁎ est certaine.  
 Viens, suy-moy.  
 
     EUTHAR.
-Mais, Seigneur, que deviendra la Reyne ?  
+        Mais, Seigneur, que deviendra la Reyne ?  
 
     THEODAT.
 Ne préviens⁎ point les maux que j'en doit redouter.  
@@ -1605,7 +1605,7 @@ Le sang qu'elle a versé vous doit faire connoistre
 Quels périls…  
 
     THEODAT.
-Ils sont grands, j'y périray peut-estre ;  
+        Ils sont grands, j'y périray peut-estre ;  
 Mais, Euthar, quand on a le cœur bien enflamé,  
 C'est mourir satisfait, que de mourir aimé.  < Fin du Second Acte. >
 
@@ -1646,7 +1646,7 @@ J'engage la Princesse à ne point retarder
 Le glorieux moment …  
 
     AMALASONTE.
-Je viens de la mander,  
+        Je viens de la mander,  
 Et n'auray pas de peine à résoudre avec elle  
 Ce qui doit couronner une flame si belle.  
 Rien n'empeschant l'hymen qui comble vos souhaits,  
@@ -1656,10 +1656,10 @@ A briguer prés de moy l'hymen de la Princesse ?
 Theodat.  
 
     HONORIC.
-Theodat ? Quoy …  
+    Theodat ? Quoy …  
 
     AMALASONTE.
-Vous estes surpris  
+        Vous estes surpris  
 Que par luy de vos vœux cet hymen soit le prix ?  
 
     HONORIC.
@@ -1679,7 +1679,7 @@ Madame ; & quand je voy que mon amour extrême
 Trouve en luy …  
 
     AMALASONTE.
-Vous pouvez l'apprendre de luy-mesme,  
+        Vous pouvez l'apprendre de luy-mesme,  
 Le voicy.  
 
 
@@ -1688,7 +1688,7 @@ AMALASONTE, THEODAT, HONORIC, GEPILDE.
 
 
     AMALASONTE.
-J'assurois Honoric, que son feu  
+        J'assurois Honoric, que son feu  
 Avoit déjà par vous obtenu mon aveu⁎,  
 Et que s'il voit demain un heureux Hyménée  
 D'Ildegonde à son sort joindre la destinée,  
@@ -1726,7 +1726,7 @@ Quoy, vous qui d'Honoric favorisant l'espoir,
 Me demandiez tantost…  
 
     THEODAT.
-Je croyois le devoir ;  
+        Je croyois le devoir ;  
 Mais j'ay songé depuis que la paix desirée  
 Pour vos Peuples encor n'est pas bien assurée,  
 Et que si Belissaire [126] est ailleurs arresté,  
@@ -1757,7 +1757,7 @@ Madame, à tant d'orgueil pourrois-je m'emporter,
 Que…  
 
     AMALASONTE.
-Je vois Ildegonde, il la faut écouter .  
+        Je vois Ildegonde, il la faut écouter .  
 
 
 ### SCENE III.
@@ -1802,7 +1802,7 @@ Qu'elle prenne le temps de se mieux consulter.
 Vouloir que dés demain sa foy⁎…  
 
     AMALASONTE.
-C'est la contraindre,  
+        C'est la contraindre,  
 Il est vray, mais elle est en pouvoir de s'en plaindre ;  
 Et quand elle se taist, j'admire⁎ par quel soin  
 Vos prévoyans soucis veulent aller si loin.  
@@ -1818,13 +1818,13 @@ Si je deviens suspect quand je croy que le temps
 Doit seul…  
 
     AMALASONTE.
-Vous m'entendez, Prince, & je vous entens.  
+        Vous m'entendez, Prince, & je vous entens.  
 
     THEODAT.
 La Princesse…  
 
     AMALASONTE.
-A parlé, cela me doit suffire.  
+        A parlé, cela me doit suffire.  
 
     THEODAT.
 Jugez-vous de son cœur sur ce qu'elle a pû dire ?  
@@ -1836,13 +1836,13 @@ Un cœur qui s'alarmant d'un scrupule de gloire⁎…
 D'où vient que Theodat …  
 
     AMALASONTE *à Ildegonde.*
-Je ne sçay plus qu'en croire.  
+        Je ne sçay plus qu'en croire.  
 De l'air dont il répond du secret de ce cœur,  
 Vous n'auriez eu pour luy qu'une fausse rigueur.  
 Rien n'est à déguiser, l'aimez-vous ?  
 
     THEODAT.
-Non, Madame,  
+        Non, Madame,  
 C'est toûjours un dédain, une dureté d'ame  
 Qui ne luy permet pas seulement de penser  
 Qu'aux plus foibles devoirs l'amour m'ait pû forcer.  
@@ -1893,7 +1893,7 @@ AMALASONTE, THEODAT, HONORIC, GEPILDE.
 
 
     THEODAT.
-Ah, ne l'en croyez pas,  
+        Ah, ne l'en croyez pas,  
 Madame, & si jamais mes devoirs, mes services [132],  
 Ont rendu vos bontez⁎ à mon destin propices,  
 Pour soulager l'ennuy⁎ dont je me sens presser …  
@@ -1915,11 +1915,11 @@ Plus je le hasteray, moins vous en soufrirez.
 Donnez l'ordre qu'il faut, Honoric.  
 
     THEODAT.
-Non, de grace,  
+        Non, de grace,  
 Qu'il demeure, autrement …  
 
     AMALASONTE.
-Quoy, jusqu'à la menace ! [134]  
+        Quoy, jusqu'à la menace ! [134]  
 Allez m'attendre au Temple, & sans plus différer,  
 Pour ce mesme moment faites tout préparer.  
 
@@ -1956,14 +1956,14 @@ De mon cœur inquiet⁎ les peines les plus grandes,
 Qu'ont-elles qui noircisse …  
 
     AMALASONTE.
-Ingrat, tu [140] le demandes ?  
+        Ingrat, tu [140] le demandes ?  
 Consultez-en ce cœur d'Ildegonde charmé,  
 Ce cœur au desespoir qu'un autre soit aimé,  
 Ce cœur qui m'a trompée, & dont l'audace extréme  
 Sans scrupule à mes yeux …  
 
     THEODAT.
-Il m'a trompé moy-mesme,  
+        Il m'a trompé moy-mesme,  
 Et vous le consacrant, je ne craignois rien moins  
 Que sa prompte revolte à démentir mes soins.  
 Vous l'avez veu, Madame, avec quelle ame ouverte  
@@ -2040,7 +2040,7 @@ En rencontrant vos yeux les miens embarassez
 Refusoient d'expliquer …  
 
     AMALASONTE.
-Ce n'estoit pas assez,  
+        Ce n'estoit pas assez,  
 Pour m'oster du péril que tu voyois à craindre,  
 Il faloit me parler d'Ildegonde, s'en plaindre,  
 Et murmurer [144] toûjours de l'indigne rigueur  
@@ -2067,7 +2067,7 @@ A voir que tous mes soins demeurez sans merite
 Ne m'ont…  
 
     AMALASONTE.
-Et plus que tout, c'est là ce qui m'irrite.  
+        Et plus que tout, c'est là ce qui m'irrite.  
 Si tes vœux acceptez justifioient ta foy⁎,  
 J'écouterois l'amour qui parleroit pour toy ;  
 Mais le cœur d'une Reyne où regne la tendresse,  
@@ -2120,12 +2120,12 @@ Ma raison dont le trouble⁎ étonne⁎ mon courage,
 Ne peut plus …  
 
     AMALASONTE.
-Viens au Temple en recouvrer l'usage ;  
+        Viens au Temple en recouvrer l'usage ;  
 Viens-y voir d'Ildegonde Honoric s'approcher,  
 Luy presenter la main …  
 
     THEODAT.
-Je pourray l'empescher ;  
+        Je pourray l'empescher ;  
 Et s'il me desespere, en m'ostant ce que j'aime,  
 Il doit craindre mon bras jusque sur l'Autel mesme.  
 Qu'il y pense, Madame.  
@@ -2136,7 +2136,7 @@ AMALASONTE, GEPILDE.
 
 
     AMALASONTE.
-Il l'ose menacer !  
+        Il l'ose menacer !  
 Ah, Ciel ! quelle insolence, & qui l'eust pû penser ?  
 Ay-je, en l'élevant trop, cessé d'estre sa Reyne ?  
 
@@ -2151,10 +2151,10 @@ Qu'en s'osant emporter, c'est à luy seul de craindre,
 Hola, Gardes, à moy .  
 
     ATAULPHE.
-Madame,  
+    Madame,  
 
     AMALASONTE.
-Allez, courez,  
+        Allez, courez,  
 Surprenez Theodat, & vous en assurez [148].  < Fin du Troisième Acte. >
 
 
@@ -2256,16 +2256,16 @@ Le mal que je prévoy veut un autre secours ;
 Et quoy que vostre gloire⁎…  
 
     AMALASONTE.
-Il faut qu'elle en décide ;  
+        Il faut qu'elle en décide ;  
 Faisons trembler le Peuple, il est lâche & timide⁎,  
 Ne perdez point de temps, Ataulphe.  
 
     ATAULPHE.
-Je crains bien,  
+        Je crains bien,  
 Madame …  
 
     AMALASONTE.
-Allez, vous dis-je, & ne repliquez rien.  
+        Allez, vous dis-je, & ne repliquez rien.  
 
 
 ### SCENE III.
@@ -2333,7 +2333,7 @@ Est maistre de la Ville, & s'il le veut, de vous.
 Sa prison est forcée ?  
 
     HONORIC.
-Oüy, tout cede à l'orage.  
+        Oüy, tout cede à l'orage.  
 Les Mutins par le fer s'y sont ouvert passage ;  
 Trasimond à leur teste, & l'insolent Theudis,  
 Ont appuyé ce crime, & s'en sont applaudis.  
@@ -2443,7 +2443,7 @@ Ce reste mal éteint d'une aveugle tendresse
 Est un crime …  
 
     AMALASONTE.
-Gepilde, amenez la Princesse.  
+        Gepilde, amenez la Princesse.  
 
     THEODAT.
 Quoy ? la mander si-tost ! Laissez-moy respirer,  
@@ -2619,7 +2619,7 @@ Songez que c'est de moy que vous la recevez,
 Que c'est moy…  
 
     THEODAT.
-Non, Madame, assemblez pour ma gloire⁎  
+        Non, Madame, assemblez pour ma gloire⁎  
 Les plus brillans honneurs qui suivent la victoire,  
 Mettez sous ma puissance & mille & mille Estats,  
 Vous ne me donnez rien en ne vous donnant pas.  
@@ -2684,7 +2684,7 @@ A de vaines frayeurs vous soufrez trop d'empire⁎,
 Madame, & quand le jour …  
 
     ILDEGONDE.
-Le jour paroist, Valmire,  
+        Le jour paroist, Valmire,  
 Et nous va faire voir si mon esprit séduit⁎  
 S'est trop laissé surprendre aux erreurs de la nuit ;  
 Mais déjà comme moy tu vois tout lieu de craindre.  
@@ -2727,7 +2727,7 @@ AMALASONTE, ILDEGONDE, VALMIRE, GEPILDE.
 
 
     AMALASONTE.
-Enfin, Princesse,  
+        Enfin, Princesse,  
 Les destins sont pour nous [174], que vostre crainte cesse.  
 Hier si je témoignay pour le bien de l'Estat  
 Vouloir vous asservir aux vœux de Theodat,  
@@ -2738,7 +2738,7 @@ Oster à vos desirs toute ombre de contrainte.
 Ah Valmire !  
 
     AMALASONTE.
-Honoric estant aimé de vous,  
+        Honoric estant aimé de vous,  
 Peut déjà s'applaudir du nom de vostre Epoux,  
 Il n'aura plus d'obstacle à ce grand hyménée.  
 
@@ -2746,7 +2746,7 @@ Il n'aura plus d'obstacle à ce grand hyménée.
 Se pourroit-il…  
 
     AMALASONTE.
-J'en ay l'ame encor étonnée⁎.  
+        J'en ay l'ame encor étonnée⁎.  
 J'aimois, & ce n'est pas sans trouble⁎, sans horreur,  
 Que l'amour indigné se porte à la fureur ;  
 Mais il y va du Trône, on m'avoit outragée,  
@@ -2757,12 +2757,12 @@ Trouble⁎, desordre, horreur, tout est doux à ce prix.
 Sans doute Theodat…  
 
     AMALASONTE.
-Vous l'auroit-on appris ?  
+        Vous l'auroit-on appris ?  
 Oüy, Princesse, à la joye abandonnez vostre ame,  
 Theodat ne vit plus.  
 
     ILDEGONDE.
-Theodat…Quoy, Madame…  
+        Theodat…Quoy, Madame…  
 
     AMALASONTE.
 Deux des Siens [175] dés longtemps m'avoit vendu leur foy⁎,  
@@ -2807,7 +2807,7 @@ C'est moy qui vous immole⁎ une teste si chere.
 Ciel ! que me dites-vous ?  
 
     ILDEGONDE.
-Ce qu'il ne faut plus taire.  
+        Ce qu'il ne faut plus taire.  
 Malgré tout mon orgueil Theodat fut mon choix,  
 Hier je m'en expliquay pour la premiere fois,  
 Il sçeut que je l'aimois, & cette connoissance  
@@ -2901,7 +2901,7 @@ AMALASONTE, ILDEGONDE, THEODAT, GEPILDE, VALMIRE.
 
 
     ILDEGONDE.
-Vous vivez ? quelle joie !  
+        Vous vivez ? quelle joie !  
 Mes reproches, Madame, ont esté trop avant,  
 N'en redoutez plus rien, Theodat est vivant.  
 
@@ -3011,7 +3011,7 @@ Qu'à mon timide⁎ espoir cessant d'estre contraire,
 Vous soufrez que ma foy⁎ …  
 
     ILDEGONDE.
-Coment l'avoir pû taire ?  
+        Coment l'avoir pû taire ?  
 J'apprenois vostre mort, & de pareils malheurs  
 Demandoient mon secret aussi-bien que mes pleurs.  
 
@@ -3032,7 +3032,7 @@ Des Rois de quy l'appuy par un heureux secours…
 Moy, fuir, Prince ?  
 
     THEODAT.
-Il le faut ou c'est fait de vos jours.  
+        Il le faut ou c'est fait de vos jours.  
 Songez pour un Amant quel sort épouvantable  
 De voir sacrifier tout ce qu'il trouve aimable ;  
 Le seul pressentiment m'en fait pâlir d'effroy.  
@@ -3044,7 +3044,7 @@ THEODAT, ILDEGONDE, EUTHAR, VALMIRE.
 
 
     EUTHAR .
-Seigneur, vous estes Roy,  
+        Seigneur, vous estes Roy,  
 Le bruit de vostre mort a redoublé la haine  
 Que le Peuple avoit fait éclater pour la Reyne.  
 Chacun faisant oüir [191] le nom de Theodat,  

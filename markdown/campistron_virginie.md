@@ -441,9 +441,6 @@ La Scene est à Rome dans le Palais d'Appius.
 ## Acte I.
 
 
-## Virginie. *Tragedie.*
-
-
 ### Scene premiere.
 Appius, Clodius, Pison.
 
@@ -461,12 +458,12 @@ Qu'ils aprennent, Seigneur, et sans plus differer...
 Helas !  
 
     CLODIUS.
-Qui peut encor vous faire soûpirer*⁎* ?  
+        Qui peut encor vous faire soûpirer*⁎* ?  
 Quel injuste chagrin*⁎* et vous trouble*⁎* et vous gesne*⁎* ?  
 Que craignez-vous ?  
 
     APPIUS.
-Je crains l'aspect d'une inhumaine [143].  
+        Je crains l'aspect d'une inhumaine [143].  
 Je crains de nos projets le succés [144] dangereux ;  
 Que puis-je attendre enfin d'un amour malheureux,  
 D'un amour dans mon cœur formé sans esperance,  
@@ -585,7 +582,7 @@ Vous nourrissez un feu prest à vous consumer [156],    
 Vous languirez toûjours...  
 
     APPIUS.
-Cesse de t'allarmer.  
+        Cesse de t'allarmer.  
 J'ay mes raisons ; je veux qu'une action si noire,  
 Loin de finir [157] ma vie en releve la gloire*⁎*,  
 Déguisons ce forfait, couvrons-en [158] la noirceur  
@@ -636,7 +633,7 @@ Appius, Clodius, Fabian, Pison.
 
 
     FABIAN.
-Plautie, aux pleurs abandonnée,  
+        Plautie, aux pleurs abandonnée,  
 Seigneur, à vous attendre est toûjours obstinée,  
 Elle veut vous parler, et ses frequens soûpirs*⁎*...  
 
@@ -650,7 +647,7 @@ Vous d'une Mere en pleurs évitez les transports*⁎*,
 Eloignez-vous.  
 
     CLODIUS.
-Seigneur, c'est mon dessein. Je sors.  
+        Seigneur, c'est mon dessein. Je sors.  
 Ma presence sans doute*⁎* aigriroit*⁎* sa colere.  
 
 
@@ -665,7 +662,7 @@ Vous avez bien voulu consentir à me voir,
 Pourray-je me flatter*⁎* ?  
 
     APPIUS.
-Ne doutez point, Madame,  
+        Ne doutez point, Madame,  
 Que je ne sois frapé du trouble*⁎* de vostre ame ;  
 J'ay craint avec raison de vous voir en ces lieux,  
 Et que vostre douleur n'éclatast*⁎* à mes yeux,  
@@ -690,7 +687,7 @@ Viennent-ils la ravir au Temple dans mes bras ?
 Pourquoy...  
 
     APPIUS.
-De son destin n'estes-vous pas instruite ?  
+        De son destin n'estes-vous pas instruite ?  
 
     PLAUTIE.
 Helas ! dans ce Palais tout le monde m'évite,  
@@ -705,16 +702,16 @@ Se dérobent à moy, sans daigner me répondre,
 Par vos ordres cruels*⁎*...  
 
     APPIUS.
-Cessez de m'accuser  
+        Cessez de m'accuser  
 Et ne me forcez pas de vous desabuser,  
 Quand je vous auray dit...  
 
     PLAUTIE.
-Quoy ? que pourrez-vous dire,  
+        Quoy ? que pourrez-vous dire,  
 Expliquez-vous.  
 
     APPIUS.
-Je sçay qu'il faut vous en instruire ;  
+        Je sçay qu'il faut vous en instruire ;  
 Mais, Madame, je crains de redoubler vos pleurs.  
 Je vais vous annoncer le plus grand des malheurs :  
 Cette fille, l'objet*⁎* d'une amitié*⁎* si tendre  
@@ -726,7 +723,7 @@ Un autre vous l'enleve, elle n'est plus à vous.
 Dieux ! qu'entens*⁎*-je ? comment ?  
 
     APPIUS.
-Ce n'est plus un mistere,  
+        Ce n'est plus un mistere,  
 Je suis de Virginie ici depositaire ;  
 Claudius sçait enfin la noire trahison,  
 Qui la fit autrefois sortir de sa maison ;  
@@ -786,7 +783,7 @@ Plautie, Virginie, Fulvie, Camille.
 
 
     VIRGINIE.
-Ah quel comble de joye !  
+        Ah quel comble de joye !  
 Madame, enfin le Ciel souffre que je vous voye,  
 Quel plaisir de pouvoir en ces heureux*⁎* momens,  
 Oublier mes douleurs dans vos embrassemens*⁎*.  
@@ -799,7 +796,7 @@ Tremble, fremis, entens*⁎* le plus grand des malheurs,
 Le traistre Clodius...  
 
     VIRGINIE.
-J'ay tout appris Madame.  
+        J'ay tout appris Madame.  
 Si l'horreur de ce coup*⁎* a pû fraper mon ame,  
 Revenuë à l'instant de ce trouble*⁎* soudain,  
 J'ay veu pour m'en parer le remede certain,  
@@ -838,11 +835,11 @@ Cette boüillante ardeur qui m'anime et m'enflame,
 Adieu je cours...  
 
     VIRGINIE.
-Helas ! vous me quittez si tost,  
+        Helas ! vous me quittez si tost,  
 Madame...  
 
     PLAUTIE.
-J'en fremis, mais ma fille il le faut,  
+        J'en fremis, mais ma fille il le faut,  
 
     VIRGINIE.
 Est-ce trop peu de maux, dont je suis déchirée,  
@@ -870,7 +867,7 @@ Camille connois-tu l'excez de ma misere,
 Quel triste sort !  
 
     CAMILLE.
-Je crains bien moins que je n'espere,  
+        Je crains bien moins que je n'espere,  
 Les premiers des Romains se declarent pour vous,  
 Contre vostre ennemy le Peuple est en courroux,  
 Vostre Pere est aimé dans Rome, et dans l'armée,  
@@ -880,7 +877,7 @@ Ne fera pas pour vous un inutile effort*⁎*,
 Sans doute*⁎* en ce moment...  
 
     VIRGINIE.
-Excuse ma foiblesse,  
+        Excuse ma foiblesse,  
 Crois-tu qu'en ma faveur Icile s'interesse*⁎* ?  
 Crois-tu qu'il me conserve une fidelle ardeur,  
 Mes disgraces*⁎* peut-estre auront changé son cœur.  
@@ -981,7 +978,7 @@ Icile, Virginie, Severe, Camille.
 
 
     ICILE.
-Le destin ne m'est plus si contraire,  
+        Le destin ne m'est plus si contraire,  
 Madame, je vous voy, et je puis en ce jour,  
 Faire encor à vos yeux éclatter*⁎* mon amour,  
 Qui l'eut crû que si prés d'un heureux*⁎* Himenée [189],  
@@ -998,7 +995,7 @@ Ma presence fait-elle au moins dans vostre cœur,
 L'effet que vostre veuë...  
 
     VIRGINIE.
-Eh le puis je, Seigneur ?  
+        Eh le puis je, Seigneur ?  
 Puis-je de mes douleurs [191] calmer la violence,  
 Je les sens augmenter mesme en vostre presence,  
 Ce qui devroit causer mes plaisirs les plus doux,  
@@ -1015,7 +1012,7 @@ Pourquoy perdre un espoir à nostre amour si doux,
 Qui peut nous separer ?  
 
     VIRGINIE.
-Helas ! l'ignorez-vous ?  
+        Helas ! l'ignorez-vous ?  
 C'est le funeste*⁎* effort*⁎* du destin qui me brave,  
 Et si je sors du sang d'un malheureux esclave,  
 Je voy qu'à vostre Hymen je ne dois plus penser,  
@@ -1052,11 +1049,11 @@ Lié par mes sermens, et presque vostre Epoux, 
 N'auray-je...  
 
     VIRGINIE.
-Cette foy*⁎* n'est plus digne de vous.  
+        Cette foy*⁎* n'est plus digne de vous.  
 Le sort injurieux...  
 
     ICILE.
-Eh bien que peut-il faire ?  
+        Eh bien que peut-il faire ?  
 Son pouvoir ne peut rien contre un amour sincere.  
 
     VIRGINIE.
@@ -1072,7 +1069,7 @@ Que par tant de sermens engagés l'un à l'autre,
 Les Dieux mesme [197]...  
 
     VIRGINIE.
-Ah ! Seigneur, quelle erreur est la vostre,  
+        Ah ! Seigneur, quelle erreur est la vostre,  
 Lorsque vous me verrez dans un rang odieux…  
 
     ICILE.
@@ -1130,7 +1127,7 @@ Ces pleurs que vous versez leur cousteront du sang.
 Ah ! Seigneur arrestez, où courez vous ?  
 
     ICILE.
-Madame,  
+        Madame,  
 Ne vous opposez point à l'ardeur qui m'enflame,  
 Il faut que l'insolent [203] qui vous ose insulter,  
 Aprenne desormais à vous mieux respecter.  
@@ -1139,7 +1136,7 @@ Aprenne desormais à vous mieux respecter.
 Mais comment ?  
 
     ICILE.
-C'est à moy de vanger vostre injure,  
+        C'est à moy de vanger vostre injure,  
 C'est à moy de convaincre [204], et punir l'imposture,  
 J'y cours, adieu, Madame.  
 
@@ -1149,7 +1146,7 @@ Virginie, Camille.
 
 
     CAMILLE.
-Il court vous secourir,  
+        Il court vous secourir,  
 Les Dieux se sont lassez de vous voir tant souffrir.  
 Madame, esperez tout du courage d'Icile.  
 
@@ -1175,7 +1172,7 @@ Appius, Virginie, Camille.
 
 
     VIRGINIE.
-Quoy, Seigneur,  
+        Quoy, Seigneur,  
 Ne calmerez-vous pas le trouble*⁎* de mon cœur,  
 Rendez-vous aux soûpirs*⁎* que je vous fais entendre,  
 Perdray-je tant de pleurs que vous voyez répandre,  
@@ -1208,7 +1205,7 @@ Eh vous me porterez de si funestes*⁎* coups*⁎*,
 Helas ! Seigneur…  
 
     APPIUS.
-Mon ame est toûjours incertaine,  
+        Mon ame est toûjours incertaine,  
 La pitié me retient quand le devoir m'entraine,  
 Sur tout tant de vertus*⁎*, tant de charmes [208] divers,  
 Ne me semblent point faits pour languir dans les fers*⁎*,  
@@ -1228,7 +1225,7 @@ Inventez un moyen, ma puissance supréme,
 Va tenter...  
 
     VIRGINIE.
-Ah ! Seigneur, inventez le vous mesme ;  
+        Ah ! Seigneur, inventez le vous mesme ;  
 Que je vous doive tout faites un noble effort*⁎*,  
 Je remets en vos mains tout le soin de mon sort :  
 Hastez-vous, rasseurez mon ame impatiente.  
@@ -1251,7 +1248,7 @@ Ne me le cachez plus, si la pitié vous touche,
 Par où puis-je ?  
 
     APPIUS.
-Il ne faut qu'un mot de vostre bouche :  
+        Il ne faut qu'un mot de vostre bouche :  
 Oüy, dés ce mesme jour vous briserez vos fers*⁎*,  
 Vous mesme finirez tous vos malheurs divers,  
 Et porterez si haut l'éclat*⁎* de vostre vie,  
@@ -1259,10 +1256,10 @@ Qu'aux premieres [211] de Rome il pourra faire envie,
 Si vous voulez...  
 
     VIRGINIE.
-Et quoy ?  
+    Et quoy ?  
 
     APPIUS.
-Me prendre pour Epoux,  
+        Me prendre pour Epoux,  
 Et par des nœuds*⁎* sacrez m'attacher*⁎* tout à vous,  
 Venez, allons au Temple, et que mon Hymenée,  
 Repare [212] le malheur de vostre destinée,  
@@ -1283,12 +1280,12 @@ C'est un bras plus puissant qui soustient son audace,
 Seigneur, vous m'entendez*⁎*.  
 
     APPIUS.
-Ah ! que soupçonnez-vous ?  
+        Ah ! que soupçonnez-vous ?  
 Au moment que ma main vous dérobe à ses coups*⁎*  
 Que pensez-vous de moy.  
 
     VIRGINIE.
-Ce qu'il falloit vous-mesme,  
+        Ce qu'il falloit vous-mesme,  
 Me déguiser toûjours avec un soin extréme,  
 Mais c'est pousser trop loin ce funeste*⁎* entretien,  
 Faites vostre devoir, et je feray le mien.  
@@ -1374,7 +1371,7 @@ Vous avez seulement répondu par des pleurs,
 Leurs soins officieux [218]...  
 
     PLAUTIE.
-Eh que puis-je répondre,  
+        Eh que puis-je répondre,  
 Leurs discours*⁎* et leurs soins ne font que me confondre*⁎*,  
 Pour flatter*⁎* ma disgrace*⁎*, ils m'en viennent parler,  
 Et leur zele ne sert qu'à la renouveller,  
@@ -1403,7 +1400,7 @@ Je rencontre par tout les horreurs que je fuis.
 Mais Madame souffrez…  
 
     PLAUTIE.
-J'ay tout perdu Fulvie,  
+        J'ay tout perdu Fulvie,  
 Et ne puis que traîner une importune vie,  
 Tandis que Virginie a lieu d'aprehender,  
 Au severe Appius je cours la demander ;  
@@ -1427,7 +1424,7 @@ Fabian, Pison.
 
 
     PLAUTIE.
-Ah ! Seigneur,  
+        Ah ! Seigneur,  
 Ecoutez-vous encor la voix d'un imposteur,  
 Que dit-il ? ose-t'il comblant sa perfidie,  
 Vous presser*⁎* d'oprimer la triste Virginie ?  
@@ -1462,7 +1459,7 @@ Cache sous ce pretexte un dessein criminel,
 Ne differez-donc plus... venez...  
 
     PLAUTIE *à Claudius.*
-Tay-toy parjure,  
+        Tay-toy parjure,  
 N'ajoûte point encor l'outrage à l'imposture,  
 à Appius.
 
@@ -1620,7 +1617,7 @@ Camille, Severe.
 
 
     ICILE.
-Consolez-vous et retenez vos larmes,  
+        Consolez-vous et retenez vos larmes,  
 Madame je sçais tout, et conçois vos allarmes,  
 Mais les gemissemens sont icy superflus,      
 Appius perira, vous ne le craindrez plus,  
@@ -1741,7 +1738,7 @@ Je prens sur moy le soin⁎ de couronner l'amour [256].
 Ah ! souffrez...  
 
     VIRGINIE.
-Mais helas ! que je suis insensée,  
+        Mais helas ! que je suis insensée,  
 Je me laisse seduire [257] à ma douce pensée ;  
 Peut-estre que le sort nous menace tous deux,  
 Le plus juste party n'est pas toûjours heureux*⁎* :  
@@ -1752,14 +1749,14 @@ Dans le vostre aussi-tost se verra confondu*⁎*,
 Que mon bras...  
 
     ICILE.
-Eloignez cette funeste*⁎* image,  
+        Eloignez cette funeste*⁎* image,  
 J'accepte seulement vostre premier presage.  
 J'espere qu'aujourd'huy, content [258], victorieux,  
 Madame, je viendray vous tirer de ces lieux,  
 Adieu.  
 
     PLAUTIE.
-Je vous suivray, Seigneur, et mon courage*⁎*,  
+        Je vous suivray, Seigneur, et mon courage*⁎*,  
 Veut avoir quelque part dans ce fameux ouvrage.  
 
 
@@ -1771,7 +1768,7 @@ Plautie, Virginie, Fulvie, Camille.
 Quoy vous voulez vous-mesme…  
 
     PLAUTIE.
-Oüy, je veux que mes cris,  
+        Oüy, je veux que mes cris,  
 Reveillent la vertu*⁎* des Romains assoupis,  
 Je veux leur inspirer les transports*⁎* de mon ame,  
 Sans doute*⁎* ils rougiront en voyant une femme,  
@@ -1799,7 +1796,7 @@ Plautie, Virginie, Camille, Fulvie, Severe.
 
 
     SEVERE.
-N'attendez plus un secours inutile,  
+        N'attendez plus un secours inutile,  
 Madame, c'en est fait, on nous enleve Icile ;  
 Un traistre qu'il croyait ferme en ses interests,  
 Vient d'instruire Appius de ses desseins secrets,  
@@ -1812,7 +1809,7 @@ On le vient d'arrester en sortant du Palais.
 O Ciel !  
 
     VIRGINIE.
-Cruel*⁎* destin ! quelle perseverance [261] ?  
+        Cruel*⁎* destin ! quelle perseverance [261] ?  
 Puis-je aprés un tel coup*⁎* avoir quelque esperance ?  
 Vous le voyez, Madame, il n'est plus de secours,  
 Il est temps de finir mes déplorables jours,  
@@ -1878,14 +1875,14 @@ Craignez-vous par sa mort de vous charger*⁎* d'un crime,
 Croyez-vous...  
 
     APPIUS.
-Non, je croy sa peine legitime,  
+        Non, je croy sa peine legitime,  
 N'a-t'il pas hautement par un lâche attentat,  
 Assemblé ses amis, voulu troubler*⁎* l'Etat,  
 Sa perte en ce moment est juste et necessaire,  
 Mais Virginie [264]…  
 
     CLODIUS.
-Eh bien craignez-vous sa colere,  
+        Eh bien craignez-vous sa colere,  
 Detrompez-vous, Seigneur, peut-estre qu'aujourd'huy,  
 Elle attend un pretexte à renoncer à luy ;  
 Peut-estre qu'en secret sensible à vostre gloire*⁎*,  
@@ -1956,7 +1953,7 @@ Que je ne perdray pas toute ma gloire*⁎* en vain,
 Songez...  
 
     VIRGINIE.
-Vous m'aimez donc, Seigneur, et vostre flame  
+        Vous m'aimez donc, Seigneur, et vostre flame  
 Par d'illustres effets se declare à mon ame.  
 Barbare, de quel front m'osez-vous presenter  
 Une main attachée*⁎* à me persecuter ?  
@@ -1992,7 +1989,7 @@ Cet Icile l'objet*⁎* de vos ardens souhaits,
 Me deffend...  
 
     VIRGINIE.
-Oüy je l'aime autant que je vous hais.  
+        Oüy je l'aime autant que je vous hais.  
 Vous me tyrannisez, il m'a toûjours servie,  
 Il fait tout le bon-heur, vous l'horreur de ma vie :  
 Et je voyois enfin dans cet illustre Epoux,  
@@ -2016,7 +2013,7 @@ Qui pourroit... mais songez à répondre à ma flame,
 Autrement malgré moy...  
 
     VIRGINIE.
-Favorable retour [271],  
+        Favorable retour [271],  
 Vostre courroux me plaist bien plus que vostre amour,  
 Menacez, accablez l'impuissante innocence,  
 Je crains moins les tourments qu'un amour qui m'offence,  
@@ -2041,7 +2038,7 @@ De punir vos dédains, et de perdre un Rival.
 Helas Seigneur...  
 
     APPIUS.
-Pour vous la menace est terrible,  
+        Pour vous la menace est terrible,  
 Je vous frape à la fin par vostre endroit sensible,  
 Mais ne m'accusez point, c'est vous qui l'ordonnez  
 Et c'est par vos mépris que vous l'assassinez.  
@@ -2071,7 +2068,7 @@ Pison, Gardes.
 
 
     APPIUS *à Icile.*
-Derobez vous au coup*⁎* qui vous menace,  
+        Derobez vous au coup*⁎* qui vous menace,  
 Icile, par vos soins meritez vostre grace ;      
 à Virginie.
 
@@ -2121,7 +2118,7 @@ La fureur*⁎* d'un Rival tout puissant et jaloux.
 Sauvez-vous...  
 
     VIRGINIE.
-Arrestez, en ce mal-heur extreme,  
+        Arrestez, en ce mal-heur extreme,  
 Je pretens [279] désormais me conseiller moy mesme ;  
 Je voy ce qu'il faut faire et ne balance plus  
 Vos conseils et vos soins sont icy superflus,  
@@ -2129,18 +2126,18 @@ Je sçay par ou finir vos maux et ma misere,
 Et dés ce mesme jour...  
 
     ICILE.
-Quoy ? que voulez vous faire,  
+        Quoy ? que voulez vous faire,  
 Par où pretendez vous nous pouvoir secourir ?  
 Qu'avez vous resolu, Madame ?  
 
     VIRGINIE.
-De mourir [280],  
+        De mourir [280],  
 
     ICILE.
 Ah Ciel !  
 
     VIRGINIE.
-Le sort nous force à perir l'un et l'autre,  
+        Le sort nous force à perir l'un et l'autre,  
 Mais souffrez que ma mort precede au moins la vôtre ;  
 Je le veux, vostre cœur ne doit point l'envier,  
 Le plus foible des deux doit mourir le premier,  
@@ -2152,7 +2149,7 @@ Ah renoncez Madame à ce cruel*⁎* dessein !
 J'en fremis...  
 
     VIRGINIE.
-Vous tremblez, et vous estes Romain [281].  
+        Vous tremblez, et vous estes Romain [281].  
 
     ICILE.
 Ouy, je tremble sans doute*⁎*, et je vous le confesse,  
@@ -2161,7 +2158,7 @@ Je verrois vos beaux yeux se fermer pour jamais.
 Ah plutost...  
 
     VIRGINIE.
-Le trépas fait mes plus doux souhaits,  
+        Le trépas fait mes plus doux souhaits,  
 Mourons, puisqu'il le faut genereux*⁎* et fidelles,  
 Emportons au tombeau nos ardeurs mutuelles ;  
 Servons de noble exemple aux siecles à venir,  
@@ -2188,11 +2185,11 @@ Pison, Gardes.
 
 
     APPIUS.
-Quel succés [284] aura vostre entretien,  
+        Quel succés [284] aura vostre entretien,  
 Qu'avez vous resolu, parlez, Icile.  
 
     ICILE.
-Rien.  
+        Rien.  
 
     APPIUS.
 C'est donc là tout l'effet d'une telle entreveuë,  
@@ -2212,7 +2209,7 @@ Punira de ton cœur l'audace criminelle,
 Rien ne te peut sauver, c'en est fait.  
 
     ICILE.
-Haste toy,  
+        Haste toy,  
 La mort n'a rien d'affreux ny de triste pour moy,  
 Mais que dis-je ? ma mort encor plus que ma vie,  
 De ton amour jaloux excitera l'envie,  
@@ -2243,10 +2240,10 @@ aux Gardes.
 Qu'on les ramene.  
 
     VIRGINIE.
-Adieu, Seigneur.  
+    Adieu, Seigneur.  
 
     ICILE.
-Adieu, Madame.  
+        Adieu, Madame.  
 
 
 ### Scene VI.
@@ -2261,14 +2258,14 @@ Appius, Clodius.
 
 
     CLODIUS.
-Ah ! Seigneur.  
+        Ah ! Seigneur.  
 Plautie…  
 
     APPIUS.
-Et bien.  
+    Et bien.  
 
     CLODIUS.
-Craignez sa fatale*⁎* douleur.  
+        Craignez sa fatale*⁎* douleur.  
 On la voit en tous lieux de Romaines suivie [288],  
 A tous nos Citoyens demander Virginie ;  
 Ces femmes à l'envy*⁎* par de tristes accords,  
@@ -2310,7 +2307,7 @@ Aux ordres d'Appius j'obeïs à regret,
 Madame, mais...  
 
     PLAUTIE.
-O Dieux ! quelle fureur*⁎* l'anime,  
+        O Dieux ! quelle fureur*⁎* l'anime,  
 C'en est fait, ce Tyran marche de crime en crime,  
 Il retient Virginie, et me fait arrester.  
 
@@ -2326,7 +2323,7 @@ Les femmes à l'envy*⁎* sur vos pas s'assembler,
 Déja...  
 
     PLAUTIE.
-Quoy nos clameurs l'ont pû faire trembler,  
+        Quoy nos clameurs l'ont pû faire trembler,  
 Il craint nostre douleur dont les plus fortes armes,  
 N'ont esté que des vœux*⁎*, des soûpirs*⁎*, et des larmes,  
 Mais voila le destin des Tyrans tels que luy,  
@@ -2355,7 +2352,7 @@ Madame, mon Arrest [292] vient d'estre prononcé*⁎*.
 Que dis-tu ?  
 
     VIRGINIE.
-Le Tyran sans égard pour sa gloire*⁎*,  
+        Le Tyran sans égard pour sa gloire*⁎*,  
 De ses derniers sermens oubliant la memoire ;  
 A suivy les conseils [293] de son funeste*⁎* amour,  
 Et n'a pas de mon Pere attendu le retour ;  
@@ -2375,7 +2372,7 @@ Quel funeste*⁎* dessein ! n'est-il point de secours,
 Dieux tous puissans...  
 
     VIRGINIE.
-Les Dieux nous sont cruels*⁎* et sourds,  
+        Les Dieux nous sont cruels*⁎* et sourds,  
 Je n'espere plus rien, et mon ame asseurée,  
 Au plus grand des tourmens est enfin preparée ;  
 Clodius me poursuit, des Gardes furieux*⁎*  
@@ -2440,7 +2437,7 @@ Pison, Fulvie, Camille, Gardes.
 
 
     PLAUTIE *à Clodius.*
-Tu viens icy perfide,  
+        Tu viens icy perfide,  
 Quel dessein criminel te conduit et te guide,  
 Monstre inhumain, viens-tu me déchirant le flanc,  
 M'accabler, me ravir le plus pur de mon sang ;  
@@ -2448,20 +2445,20 @@ Ta barbare fureur*⁎* jusqu'en ces lieux me brave,
 Veux-tu ?  
 
     CLODIUS.
-Je viens icy pour prendre mon esclave,  
+        Je viens icy pour prendre mon esclave,  
 Cette fille est à moy, je suis son maistre enfin,  
 Appius à mes loix a soûmis son destin,  
 Gardes qu'on la conduise.  
 
     PLAUTIE.
-Ah ! quelle tyrannie,  
+        Ah ! quelle tyrannie,  
 Leurs criminelles mains vont saisir Virginie,  
 aux Gardes qui veulent la saisir.
 
 Osez-vous...  
 
     VIRGINIE.
-Arrestez, ne portez point vos mains,  
+        Arrestez, ne portez point vos mains,  
 Sur le sang glorieux des plus fameux Romains.  
 N'aprochez point de moy, je vous suivray sans peine  
 Dans le honteux estat où le destin m'entraîne,  
@@ -2480,10 +2477,10 @@ Que d'illustres Ayeux m'avoient donné la vie,
 Adieu.  
 
     PLAUTIE.
-Je cours...  
+    Je cours...  
 
     PISON *en l'arrestant.*
-Souffrez...  
+    Souffrez...  
 
 
 ### Scene IV.
@@ -2491,7 +2488,7 @@ Plautie, Fulvie, Pison, Gardes.
 
 
     PLAUTIE.
-Quoy l'on m'ose arrester,  
+        Quoy l'on m'ose arrester,  
 Inhumains, c'en est trop, je ne la puis quitter,  
 Souffrez que dans les fers*⁎* je suive Virginie,  
 Sans ma fille je hais, et mon rang, et ma vie :  
@@ -2513,7 +2510,7 @@ Plautie, Fulvie, Severe, Fabian, Gardes.
 
 
     SEVERE.
-Tout a changé de face [301],  
+        Tout a changé de face [301],  
 Madame, vous verrez finir vostre disgrace*⁎*,  
 Reprenez de l'espoir déja les Dieux plus doux,  
 M'ont accordé le bien d'arriver jusqu'à vous,  
@@ -2536,7 +2533,7 @@ Vous le verrez bien-tost venir victorieux,
 Je cours le retrouver.  
 
     PLAUTIE.
-Non je pretens vous suivre,  
+        Non je pretens vous suivre,  
 Courons, que j'aille voir la main qui nous delivre,  
 Aussi bien [302] dans ces lieux on ne me retient plus.  
 Je voy fuïr à ce bruit*⁎* mes Gardes éperdus [303] ;  
@@ -2556,7 +2553,7 @@ Et déja vostre Epoux dans Rome est arrivé.
 Virginius !  
 
     ICILE.
-Madame on vient de me l'apprendre,  
+        Madame on vient de me l'apprendre,  
 Le bruit*⁎* de son retour partout s'est fait entendre*⁎*,  
 Mais que fait Virginie ? on ne m'en a rien dit,  
 Elle seule sans cesse occupe mon esprit.  
@@ -2566,7 +2563,7 @@ Clodius escorté d'une troupe cruelle*⁎*,
 S'en est saisi, Seigneur.  
 
     ICILE.
-Ah courons aprés elle !  
+        Ah courons aprés elle !  
 Courons la délivrer, et qu'aux yeux des Romains,  
 Le traistre Clodius soit puny par mes mains,  
 Que je puisse gouster le plaisir et la gloire*⁎*,  
@@ -2581,45 +2578,45 @@ Icile, Plautie, Severe, Fulvie, Camille.
 Hastez-vous donc, Seigneur ;  
 à Camille.
 
-Que viens-tu m'annoncer,  
+        Que viens-tu m'annoncer,  
 Dy-moy, que fait ma fille, où l'as-tu pû laisser.  
 
     CAMILLE.
 Vostre fille ?  
 
     ICILE.
-Aprenez-nous, où faut-il que je vole,  
+        Aprenez-nous, où faut-il que je vole,  
 Où sont nos ennemis [304], que mon bras les immole,  
 Que Virginie enfin ne les redoute plus,  
 Que j'aille...  
 
     CAMILLE.
-Moderez des transports*⁎* superflus,  
+        Moderez des transports*⁎* superflus,  
 Il n'est plus temps.  
 
     ICILE.
-Comment ?  
+    Comment ?  
 
     CAMILLE.
-L'aimable Virginie.  
+        L'aimable Virginie.  
 
     PLAUTIE.
 Eh bien ! qu'est ce ?  
 
     CAMILLE.
-A mes yeux vient de perdre la vie.  
+        A mes yeux vient de perdre la vie.  
 
     PLAUTIE.
 Ciel, qu'est-ce que j'entends ? Ah destin rigoureux !  
 Quel coup*⁎* ?  
 
     ICILE.
-De tous mes maux voicy le comble affreux,  
+        De tous mes maux voicy le comble affreux,  
 Que puis-je craindre aprés ce que je viens d'apprendre,  
 Grands Dieux ?  
 
     CAMILLE.
-Virginius venoit pour la deffendre,  
+        Virginius venoit pour la deffendre,  
 Au moment qu'il l'a veuë au milieu des soldats ;  
 Ce spectacle cruel*⁎* a retenu ses pas :  
 Il s'arreste, et du peuple il aprend que sa fille  
@@ -2675,7 +2672,7 @@ S'en frape, tombe, et s'ouvre un chemin au tombeau.
 Helas !  
 
     CAMILLE.
-Virginius aprés ce sacrifice,  
+        Virginius aprés ce sacrifice,  
 De ce sang precieux demande la justice ;  
 Il prend entre ses bras ce corps ensanglanté,  
 Le fait voir aux Romains, le peuple epouvanté,  

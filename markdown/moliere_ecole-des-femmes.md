@@ -110,7 +110,7 @@ Et comme Spectateur, ne puis-je pas en rire ?
 Puis-je pas de nos Sots…  
 
     CHRYSALDE
-Oui : mais qui rit d'autrui,  
+        Oui : mais qui rit d'autrui,  
 Doit craindre, qu'en revanche, on rie aussi de lui.  
 J'entends parler le monde, et des gens se délassent  
 À venir débiter les choses qui se passent :  
@@ -141,7 +141,7 @@ Gare qu'aux Carrefours on ne vous tympanise,
 Et…  
 
     ARNOLPHE
-Mon Dieu, notre Ami, ne vous tourmentez point ;  
+        Mon Dieu, notre Ami, ne vous tourmentez point ;  
 Bien huppé qui pourra m'attraper sur ce point.  
 Je sais les tours rusés, et les subtiles trames,  
 Dont, pour nous en planter, savent user les Femmes,  
@@ -187,7 +187,7 @@ Qu'une Femme fort belle, avec beaucoup d'esprit.
 L'esprit, et la beauté…  
 
     ARNOLPHE
-L'honnêteté suffit.  
+        L'honnêteté suffit.  
 
     CHRYSALDE
 Mais comment voulez-vous, après tout, qu'une bête  
@@ -213,7 +213,7 @@ Que vous ne m'aurez rien persuadé du tout.
 Je ne vous dis plus mot.  
 
     ARNOLPHE
-Chacun a sa méthode.  
+        Chacun a sa méthode.  
 En Femme, comme en tout, je veux suivre ma mode ;  
 Je me vois riche assez, pour pouvoir, que je crois,  
 Choisir une moitié, qui tienne tout de moi,  
@@ -250,7 +250,7 @@ Et voir, si de mon choix on me doit condamner.
 J'y consens.  
 
     ARNOLPHE
-Vous pourrez, dans cette conférence,  
+        Vous pourrez, dans cette conférence,  
 Juger de sa personne, et de son innocence.  
 
     CHRYSALDE
@@ -258,7 +258,7 @@ Pour cet article-là, ce que vous m'avez dit,
 Ne peut…  
 
     ARNOLPHE
-La vérité passe encor mon récit.  
+        La vérité passe encor mon récit.  
 Dans ses simplicités à tous coups je l'admire,  
 Et parfois elle en dit, dont je pâme de rire.  
 L'autre jour (pourrait-on se le persuader ?)  
@@ -270,7 +270,7 @@ Si les enfants qu'on fait, se faisaient par l'oreille.
 Je me réjouis fort, Seigneur Arnolphe…  
 
     ARNOLPHE
-Bon ;  
+        Bon ;  
 Me voulez-vous toujours appeler de ce nom ?  
 
     CHRYSALDE
@@ -310,7 +310,7 @@ Je le souffre aisément de qui n'est pas instruit ;
 Mais vous…  
 
     CHRYSALDE
-Soit. Là-dessus nous n'aurons point de bruit,  
+        Soit. Là-dessus nous n'aurons point de bruit,  
 Et je prendrai le soin d'accoutumer ma bouche  
 À ne plus vous nommer que Monsieur de la Souche.  
 
@@ -333,64 +333,64 @@ Alain, Georgette, Arnolphe.
 
 
     ALAIN
-Qui heurte ?  
+    Qui heurte ?  
 
     ARNOLPHE
-Ouvrez. On aura, que je pense,  
+        Ouvrez. On aura, que je pense,  
 Grande joie à me voir, après dix jours d'absence.  
 
     ALAIN
 Qui va là ?  
 
     ARNOLPHE
-Moi.  
+    Moi.  
 
     ALAIN
-Georgette ?  
+    Georgette ?  
 
     GEORGETTE
-Hé bien ?  
+    Hé bien ?  
 
     ALAIN
-Ouvre là-bas.  
+        Ouvre là-bas.  
 
     GEORGETTE
 Vas-y toi.  
 
     ALAIN
-Vas-y toi.  
+    Vas-y toi.  
 
     GEORGETTE
-Ma foi je n'irai pas.  
+        Ma foi je n'irai pas.  
 
     ALAIN
 Je n'irai pas aussi.  
 
     ARNOLPHE
-Belle cérémonie  
+        Belle cérémonie  
 Pour me laisser dehors. Holà ho, je vous prie.  
 
     GEORGETTE
 Qui frappe ?  
 
     ARNOLPHE
-Votre Maître.  
+    Votre Maître.  
 
     GEORGETTE
-Alain ?  
+    Alain ?  
 
     ALAIN
-Quoi ?  
+    Quoi ?  
 
     GEORGETTE
-C'est Monsieur,  
+        C'est Monsieur,  
 Ouvre vite.  
 
     ALAIN
-Ouvre, toi.  
+    Ouvre, toi.  
 
     GEORGETTE
-Je souffle notre feu.  
+        Je souffle notre feu.  
 
     ALAIN
 J'empêche, peur du Chat, que mon Moineau ne sorte.  
@@ -401,7 +401,7 @@ N'aura point à manger de plus de quatre jours.
 Ha.  
 
     GEORGETTE
-Par quelle raison y venir quand j'y cours ?  
+        Par quelle raison y venir quand j'y cours ?  
 
     ALAIN
 Pourquoi plutôt que moi ? le plaisant strodagéme !  
@@ -410,22 +410,22 @@ Pourquoi plutôt que moi ? le plaisant strodagéme !
 Ôte-toi donc de là.  
 
     ALAIN
-Non, ôte-toi, toi-même.  
+        Non, ôte-toi, toi-même.  
 
     GEORGETTE
 Je veux ouvrir la porte.  
 
     ALAIN
-Et je veux l'ouvrir, moi.  
+        Et je veux l'ouvrir, moi.  
 
     GEORGETTE
 Tu ne l'ouvriras pas.  
 
     ALAIN
-Ni toi non plus.  
+    Ni toi non plus.  
 
     GEORGETTE
-Ni toi.  
+        Ni toi.  
 
     ARNOLPHE
 Il faut que j'aie ici l'âme bien patiente.  
@@ -434,27 +434,27 @@ Il faut que j'aie ici l'âme bien patiente.
 Au moins c'est moi, Monsieur.  
 
     GEORGETTE
-Je suis votre Servante,  
+        Je suis votre Servante,  
 C'est moi.  
 
     ALAIN
-Sans le respect de Monsieur que voilà,  
+        Sans le respect de Monsieur que voilà,  
 Je te…  
 
     ARNOLPHE *recevant un coup d'Alain*
-Peste.  
+    Peste.  
 
     ALAIN
-Pardon.  
+    Pardon.  
 
     ARNOLPHE
-Voyez ce lourdaud-là.  
+        Voyez ce lourdaud-là.  
 
     ALAIN
 C'est elle aussi, Monsieur…  
 
     ARNOLPHE
-Que tous deux on se taise.  
+        Que tous deux on se taise.  
 Songez à me répondre, et laissons la fadaise.  
 Hé bien, Alain, comment se porte-t-on ici ?  
 
@@ -465,14 +465,14 @@ Arnolphe ôte par trois fois le Chapeau de dessus la tête d'Alain.
 
 
     ARNOLPHE
-Qui vous apprend, impertinente bête,  
+        Qui vous apprend, impertinente bête,  
 À parler devant moi, le chapeau sur le tête ?  
 
     ALAIN
 Vous faites bien, j'ai tort.  
 
     ARNOLPHE *à Alain*
-Faites descendre Agnès.  
+        Faites descendre Agnès.  
 À Georgette.
 
 Lorsque je m'en allai, fut-elle triste après ?  
@@ -481,16 +481,16 @@ Lorsque je m'en allai, fut-elle triste après ?
 Triste ? Non.  
 
     ARNOLPHE
-Non !  
+    Non !  
 
     GEORGETTE
-Si fait.  
+    Si fait.  
 
     ARNOLPHE
-Pourquoi donc…  
+    Pourquoi donc…  
 
     GEORGETTE
-Oui, je meure,  
+        Oui, je meure,  
 Elle vous croyait voir de retour à toute heure ;  
 Et nous n'oyions jamais passer devant chez nous,  
 Cheval, Âne, ou Mulet, qu'elle ne prît pour vous  
@@ -506,7 +506,7 @@ Hé bien, Agnès, je suis de retour du voyage,
 En êtes-vous bien aise ?  
 
     AGNÈS
-Oui, Monsieur, Dieu merci.  
+        Oui, Monsieur, Dieu merci.  
 
     ARNOLPHE
 Et moi de vous revoir, je suis bien aise aussi :  
@@ -522,11 +522,11 @@ Ah ! vous aurez dans peu quelqu'un pour les chasser.
 Vous me ferez plaisir.  
 
     ARNOLPHE
-Je le puis bien penser.  
+        Je le puis bien penser.  
 Que faites-vous donc là ?  
 
     AGNÈS
-Je me fais des Cornettes :  
+        Je me fais des Cornettes :  
 Vos Chemises de nuit, et vos Coiffes sont faites.  
 
     ARNOLPHE
@@ -553,23 +553,23 @@ Je me trompe. Nenni. Si fait. Non, c'est lui-même.
 Hor…  
 
     HORACE
-Seigneur Ar…  
+    Seigneur Ar…  
 
     ARNOLPHE
-Horace.  
+    Horace.  
 
     HORACE
-Arnolphe.  
+    Arnolphe.  
 
     ARNOLPHE
-Ah ! joie extrême !  
+        Ah ! joie extrême !  
 Et depuis quand ici ?  
 
     HORACE
-Depuis neuf jours.  
+    Depuis neuf jours.  
 
     ARNOLPHE
-Vraiment…  
+        Vraiment…  
 
     HORACE
 Je fus d'abord chez vous, mais inutilement.  
@@ -578,7 +578,7 @@ Je fus d'abord chez vous, mais inutilement.
 J'étais à la campagne.  
 
     HORACE
-Oui, depuis deux journées.  
+        Oui, depuis deux journées.  
 
     ARNOLPHE
 Ô comme les enfants croissent en peu d'années !  
@@ -589,7 +589,7 @@ Après que je l'ai vu pas plus grand que cela.
 Vous voyez.  
 
     ARNOLPHE
-Mais, de grâce, Oronte votre Père,  
+        Mais, de grâce, Oronte votre Père,  
 Mon bon et cher Ami, que j'estime et révère,  
 Que fait-il ? que dit-il ? est-il toujours gaillard ?  
 À tout ce qui le touche, il sait que je prends part.  
@@ -609,13 +609,13 @@ Qu'il s'est en quatorze ans acquis dans l'Amérique ?
 Non : vous a-t-on point dit comme on le nomme ?  
 
     HORACE
-Enrique.  
+        Enrique.  
 
     ARNOLPHE
 Non.  
 
     HORACE
-Mon Père m'en parle, et qu'il est revenu,  
+        Mon Père m'en parle, et qu'il est revenu,  
 Comme s'il devait m'être entièrement connu,  
 Et m'écrit qu'en chemin ensemble ils se vont mettre,  
 Pour un fait important que ne dit point sa Lettre.  
@@ -640,10 +640,10 @@ Et je me réjouis de les avoir ici.
 Gardez aussi la bourse.  
 
     HORACE
-Il faut…  
+    Il faut…  
 
     ARNOLPHE
-Laissons ce style.  
+        Laissons ce style.  
 Hé bien, comment encor trouvez-vous cette Ville ?  
 
     HORACE
@@ -680,7 +680,7 @@ Mais, de grâce, qu'au moins ces choses soient secrètes.
 Oh.  
 
     HORACE
-Vous n'ignorez pas qu'en ces occasions.  
+        Vous n'ignorez pas qu'en ces occasions.  
 Un secret éventé rompt nos prétentions.  
 Je vous avouerai donc avec pleine franchise,  
 Qu'ici d'une Beauté mon âme s'est éprise.  
@@ -693,7 +693,7 @@ Mes affaires y sont en fort bonne posture.
 Et c'est ?  
 
     HORACE *lui montrant le logis d'Agnès.*
-Un jeune objet qui loge en ce logis,  
+        Un jeune objet qui loge en ce logis,  
 Dont vous voyez d'ici que les murs sont rougis ;  
 Simple à la vérité, par l'erreur sans seconde  
 D'un Homme qui la cache au commerce du monde,  
@@ -706,10 +706,10 @@ Ce jeune Astre d'amour de tant d'attraits pourvu :
 C'est Agnès qu'on l'appelle.  
 
     ARNOLPHE *à part*
-Ah ! je crève.  
+    Ah ! je crève.  
 
     HORACE
-Pour l'Homme,  
+        Pour l'Homme,  
 C'est, je crois, de la Zousse, ou Source, qu'on le nomme,  
 Je ne me suis pas fort arrêté sur le nom ;  
 Riche, à ce qu'on m'a dit, mais des plus sensés, non,  
@@ -717,22 +717,22 @@ Et l'on m'en a parlé comme d'un Ridicule.
 Le connaissez-vous point ?  
 
     ARNOLPHE *à part*
-La fâcheuse pilule !  
+        La fâcheuse pilule !  
 
     HORACE
 Eh ! vous ne dites mot ?  
 
     ARNOLPHE
-Eh oui, je le connais.  
+        Eh oui, je le connais.  
 
     HORACE
 C'est un fou, n'est-ce pas ?  
 
     ARNOLPHE
-Eh…  
+    Eh…  
 
     HORACE
-Qu'en dites-vous ? quoi ?  
+        Qu'en dites-vous ? quoi ?  
 Eh ? c'est-à-dire oui. Jaloux à faire rire.  
 Sot ? je vois qu'il en est ce que l'on m'a pu dire.  
 Enfin l'aimable Agnès a su m'assujettir.  
@@ -754,21 +754,21 @@ Vous désapprouveriez le dessein que j'ai fait ?
 Non, c'est que je songeais…  
 
     HORACE
-Cet entretien vous lasse ;  
+        Cet entretien vous lasse ;  
 Adieu, j'irai chez vous tantôt vous rendre grâce.  
 
     ARNOLPHE
 Ah ! faut-il…  
 
     HORACE *revenant*
-Derechef, veuillez être discret,  
+        Derechef, veuillez être discret,  
 Et n'allez pas, de grâce, éventer mon secret.  
 
     ARNOLPHE
 Que je sens dans mon âme…  
 
     HORACE *revenant*
-Et surtout à mon Père,  
+        Et surtout à mon Père,  
 Qui s'en ferait peut-être un sujet de colère.  
 
     ARNOLPHE *croyant qu'il revient encore*
@@ -821,7 +821,7 @@ Alain, Georgette, Arnolphe.
 Ah ! Monsieur, cette fois…  
 
     ARNOLPHE
-Paix. Venez-çà tous deux :  
+        Paix. Venez-çà tous deux :  
 Passez-là, passez-là. Venez-là, venez dis-je.  
 
     GEORGETTE
@@ -850,16 +850,16 @@ Eh ? parlez, dépêchez, vite, promptement, tôt,
 Sans rêver, veut-on dire ?  
 
     ALAIN *et* GEORGETTE
-Ah, ah.  
+    Ah, ah.  
 
     GEORGETTE
-Le cœur me faut.  
+        Le cœur me faut.  
 
     ALAIN
 Je meurs.  
 
     ARNOLPHE
-Je suis en eau, prenons un peu d'haleine,  
+        Je suis en eau, prenons un peu d'haleine,  
 Il faut que je m'évente, et que je me promène.  
 Aurais-je deviné, quand je l'ai vu petit,  
 Qu'il croîtrait pour cela ! Ciel ! que mon cœur pâtit !  
@@ -879,7 +879,7 @@ Alain, Georgette.
 
 
     GEORGETTE
-Mon Dieu, qu'il est terrible !  
+        Mon Dieu, qu'il est terrible !  
 Ses regards m'ont fait peur, mais une peur horrible,  
 Et jamais je ne vis un plus hideux Chrétien.  
 
@@ -918,7 +918,7 @@ Tu serais en colère, et voudrais le charger ?
 Oui, je comprends cela.  
 
     ALAIN
-C'est justement tout comme.  
+        C'est justement tout comme.  
 La Femme est en effet le potage de l'Homme ;  
 Et quand un Homme voit d'autres Hommes parfois,  
 Qui veulent dans sa soupe aller tremper leurs doigts,  
@@ -934,17 +934,17 @@ C'est que chacun n'a pas cette amitié goulue,
 Qui n'en veut que pour soi.  
 
     GEORGETTE
-Si je n'ai la berlue,  
+        Si je n'ai la berlue,  
 Je le vois qui revient.  
 
     ALAIN
-Tes yeux sont bons, c'est lui.  
+        Tes yeux sont bons, c'est lui.  
 
     GEORGETTE
 Vois comme il est chagrin.  
 
     ALAIN
-C'est qu'il a de l'ennui.  
+        C'est qu'il a de l'ennui.  
 
 
 ### Scène IV
@@ -972,25 +972,25 @@ Arnolphe, Agnès.
 
 
     ARNOLPHE
-La promenade est belle.  
+        La promenade est belle.  
 
     AGNÈS
 Fort belle.  
 
     ARNOLPHE
-Le beau jour !  
+    Le beau jour !  
 
     AGNÈS
-Fort beau !  
+    Fort beau !  
 
     ARNOLPHE
-Quelle nouvelle ?  
+        Quelle nouvelle ?  
 
     AGNÈS
 Le petit chat est mort.  
 
     ARNOLPHE
-C'est dommage : mais quoi  
+        C'est dommage : mais quoi  
 Nous sommes tous mortels, et chacun est pour soi.  
 Lorsque j'étais aux champs n'a-t-il point fait de pluie ?  
 
@@ -998,10 +998,10 @@ Lorsque j'étais aux champs n'a-t-il point fait de pluie ?
 Non.  
 
     ARNOLPHE
-Vous ennuyait-il ?  
+    Vous ennuyait-il ?  
 
     AGNÈS
-Jamais je ne m'ennuie.  
+        Jamais je ne m'ennuie.  
 
     ARNOLPHE
 Qu'avez-vous fait encor ces neuf ou dix jours-ci ?  
@@ -1025,7 +1025,7 @@ Mon Dieu, ne gagez pas, vous perdriez vraiment.
 Quoi ! c'est la vérité qu'un homme…  
 
     AGNÈS
-Chose sûre.  
+        Chose sûre.  
 Il n'a presque bougé de chez nous, je vous jure.  
 
     ARNOLPHE *à part*
@@ -1066,7 +1066,7 @@ Qu'il me pût estimer moins civile que lui.
 Fort bien.  
 
     AGNÈS
-Le lendemain étant sur notre porte,  
+        Le lendemain étant sur notre porte,  
 Une vieille m'aborde en parlant de la sorte.  
 Mon enfant, le bon Dieu puisse-t-il vous bénir,  
 Et dans tous vos attraits longtemps vous maintenir.  
@@ -1169,60 +1169,60 @@ La voyant interdite.
 Ouf.  
 
     AGNÈS
-Hé, il m'a…  
+    Hé, il m'a…  
 
     ARNOLPHE
-Quoi ?  
+    Quoi ?  
 
     AGNÈS
-Pris…  
+    Pris…  
 
     ARNOLPHE
-Euh !  
+    Euh !  
 
     AGNÈS
-Le…  
+    Le…  
 
     ARNOLPHE
-Plaît-il ?  
+    Plaît-il ?  
 
     AGNÈS
-Je n'ose,  
+        Je n'ose,  
 Et vous vous fâcherez peut-être contre moi.  
 
     ARNOLPHE
 Non.  
 
     AGNÈS
-Si fait.  
+    Si fait.  
 
     ARNOLPHE
-Mon dieu ! non.  
+    Mon dieu ! non.  
 
     AGNÈS
-Jurez donc votre foi.  
+        Jurez donc votre foi.  
 
     ARNOLPHE
 Ma foi, soit.  
 
     AGNÈS
-Il m'a pris… vous serez en colère.  
+        Il m'a pris… vous serez en colère.  
 
     ARNOLPHE
 Non.  
 
     AGNÈS
-Si.  
+    Si.  
 
     ARNOLPHE
-Non, non, non, non ! Diantre ! que de mystère !  
+        Non, non, non, non ! Diantre ! que de mystère !  
 Qu'est-ce qu'il vous a pris ?  
 
     AGNÈS
-Il…  
+    Il…  
 
     ARNOLPHE *à part*
-Je souffre en damné.  
+        Je souffre en damné.  
 
     AGNÈS
 Il m'a pris le ruban que vous m'aviez donné.  
@@ -1289,7 +1289,7 @@ N'est-ce pas un péché lorsque l'on se marie ?
 Non.  
 
     AGNÈS
-Mariez-moi donc promptement, je vous prie.  
+        Mariez-moi donc promptement, je vous prie.  
 
     ARNOLPHE
 Si vous le souhaitez, je le souhaite aussi,  
@@ -1299,10 +1299,10 @@ Et pour vous marier on me revoit ici.
 Est-il possible ?  
 
     ARNOLPHE
-Oui.  
+    Oui.  
 
     AGNÈS
-Que vous me ferez aise !  
+        Que vous me ferez aise !  
 
     ARNOLPHE
 Oui ; je ne doute point que l'hymen ne vous plaise.  
@@ -1311,7 +1311,7 @@ Oui ; je ne doute point que l'hymen ne vous plaise.
 Vous nous voulez nous deux…  
 
     ARNOLPHE
-Rien de plus assuré.  
+        Rien de plus assuré.  
 
     AGNÈS
 Que si cela se fait, je vous caresserai !  
@@ -1324,31 +1324,31 @@ Je ne reconnais point, pour moi, quand on se moque.
 Parlez-vous tout de bon ?  
 
     ARNOLPHE
-Oui, vous le pourrez voir.  
+        Oui, vous le pourrez voir.  
 
     AGNÈS
 Nous serons mariés ?  
 
     ARNOLPHE
-Oui.  
+    Oui.  
 
     AGNÈS
-Mais quand ?  
+    Mais quand ?  
 
     ARNOLPHE
-Dès ce soir ?  
+        Dès ce soir ?  
 
     AGNÈS *riant*
 Dès ce soir.  
 
     ARNOLPHE
-Dès ce soir. Cela vous fait donc rire ?  
+        Dès ce soir. Cela vous fait donc rire ?  
 
     AGNÈS
 Oui.  
 
     ARNOLPHE
-Vous voir bien contente, est ce que je désire.  
+        Vous voir bien contente, est ce que je désire.  
 
     AGNÈS
 Hélas ! que je vous ai grande obligation !  
@@ -1358,10 +1358,10 @@ Et qu'avec lui j'aurai de satisfaction !
 Avec qui ?  
 
     AGNÈS
-Avec… là.  
+    Avec… là.  
 
     ARNOLPHE
-Là… là n'est pas mon compte.  
+        Là… là n'est pas mon compte.  
 À choisir un mari, vous êtes un peu prompte.  
 C'est un autre en un mot que je vous tiens tout prêt,  
 Et quant au Monsieur, là… Je prétends, s'il vous plaît,  
@@ -1378,20 +1378,20 @@ De votre procédé je serai le témoin.
 Las ! il est si bien fait. c'est…  
 
     ARNOLPHE
-Ah que de langage !  
+        Ah que de langage !  
 
     AGNÈS
 Je n'aurai pas le cœur…  
 
     ARNOLPHE
-Point de bruit davantage.  
+        Point de bruit davantage.  
 Montez là-haut.  
 
     AGNÈS
-Mais quoi, voulez-vous…  
+    Mais quoi, voulez-vous…  
 
     ARNOLPHE
-C'est assez.  
+        C'est assez.  
 Je suis Maître, je parle, allez, obéissez.  < Fin du Second Acte. >
 
 
@@ -1433,7 +1433,7 @@ Cet autre Monsieur-là nous en faisait accroire.
 Mais…  
 
     ALAIN
-S'il entre jamais, je veux jamais ne boire.  
+        S'il entre jamais, je veux jamais ne boire.  
 Aussi bien est-ce un sot, il nous a l'autre fois  
 Donné deux écus d'or qui n'étaient pas de poids.  
 
@@ -1688,14 +1688,14 @@ Il est à mon amour arrivé du malheur.
 Oh, oh ! comment cela ?  
 
     HORACE
-La fortune cruelle  
+        La fortune cruelle  
 A ramené des champs le patron de la belle.  
 
     ARNOLPHE
 Quel malheur !  
 
     HORACE
-Et de plus, à mon très grand regret,  
+        Et de plus, à mon très grand regret,  
 Il a su de nous deux le commerce secret.  
 
     ARNOLPHE
@@ -1714,10 +1714,10 @@ M'ont assez rudement fermé la porte au nez.
 La porte au nez !  
 
     HORACE
-Au nez.  
+    Au nez.  
 
     ARNOLPHE
-La chose est un peu forte.  
+        La chose est un peu forte.  
 
     HORACE
 J'ai voulu leur parler au travers de la porte :  
@@ -1728,7 +1728,7 @@ C'est, *vous n'entrerez point, Monsieur l'a défendu*.
 Ils n'ont donc point ouvert ?  
 
     HORACE
-Non. Et de la fenêtre  
+        Non. Et de la fenêtre  
 Agnès m'a confirmé le retour de ce Maître ;  
 En me chassant de là d'un ton plein de fierté,  
 Accompagné d'un grès que sa main a jeté.  
@@ -1737,7 +1737,7 @@ Accompagné d'un grès que sa main a jeté.
 Comment d'un grès ?  
 
     HORACE
-D'un grès de taille non petite,  
+        D'un grès de taille non petite,  
 Dont on a par ses mains régalé ma visite.  
 
     ARNOLPHE
@@ -1754,7 +1754,7 @@ Certes j'en suis fâché pour vous, je vous proteste.
 Cet homme me rompt tout.  
 
     ARNOLPHE
-Oui, mais cela n'est rien,  
+        Oui, mais cela n'est rien,  
 Et de vous raccrocher vous trouverez moyen.  
 
     HORACE
@@ -1766,20 +1766,20 @@ Cela vous est facile, et la fille, après tout,
 Vous aime.  
 
     HORACE
-Assurément.  
+    Assurément.  
 
     ARNOLPHE
-Vous en viendrez à bout.  
+        Vous en viendrez à bout.  
 
     HORACE
 Je l'espère.  
 
     ARNOLPHE
-Le grès vous a mis en déroute,  
+        Le grès vous a mis en déroute,  
 Mais cela ne doit pas vous étonner.  
 
     HORACE
-Sans doute,  
+        Sans doute,  
 Et j'ai compris d'abord que mon homme était là,  
 Qui sans se faire voir conduisait tout cela :  
 Mais ce qui m'a surpris et qui va vous surprendre,  
@@ -1815,12 +1815,12 @@ A joué mon jaloux dans tout ce badinage.
 Dites,  
 
     ARNOLPHE
-Oui fort plaisant.  
+    Oui fort plaisant.  
 Arnolphe rit d'un ris forcé.
 
 
     HORACE
-Riez-en donc un peu,  
+        Riez-en donc un peu,  
 Cet homme gendarmé d'abord contre mon feu,  
 Qui chez lui se retranche, et de grès fait parade,  
 Comme si j'y voulais entrer par escalade,  
@@ -1856,10 +1856,10 @@ Je veux vous écrire, et je suis bien en peine par où je m'y prendrai. J'ai des
 Hom chienne.  
 
     HORACE
-Qu'avez-vous ?  
+    Qu'avez-vous ?  
 
     ARNOLPHE
-Moi ? rien ; c'est que je tousse,  
+        Moi ? rien ; c'est que je tousse,  
 
     HORACE
 Avez-vous jamais vu, d'expression plus douce,  
@@ -1878,10 +1878,10 @@ Ce traître, ce bourreau, ce faquin, ce brutal…
 Adieu.  
 
     HORACE
-Comment si vite ?  
+    Comment si vite ?  
 
     ARNOLPHE
-Il m'est dans la pensée  
+        Il m'est dans la pensée  
 Venu tout maintenant une affaire pressée.  
 
     HORACE
@@ -1993,7 +1993,7 @@ Pour dresser le contrat que vous souhaitez faire.
 Comment faire !  
 
     LE NOTAIRE
-Il le faut dans la forme ordinaire.  
+        Il le faut dans la forme ordinaire.  
 
     ARNOLPHE *sans le voir*
 À mes précautions je veux songer de près.  
@@ -2041,7 +2041,7 @@ Et l'on va plus avant lorsque l'on le veut bien.
 Si…  
 
     LE NOTAIRE *Arnolphe l'apercevant*.
-Pour le préciput il les regarde ensemble.  
+        Pour le préciput il les regarde ensemble.  
 Je dis que le futur peut comme bon lui semble  
 Douer la future.  
 
@@ -2067,7 +2067,7 @@ Sais-je pas que le tiers du bien de la future
 Entre en communauté ? pour…  
 
     ARNOLPHE
-Oui, c'est chose sûre,  
+        Oui, c'est chose sûre,  
 Vous savez tout cela mais qui vous en dit mot ?  
 
     LE NOTAIRE
@@ -2101,12 +2101,12 @@ M'êtes-vous pas venu quérir pour votre Maître ?
 Oui.  
 
     LE NOTAIRE
-J'ignore pour qui vous le pouvez connaître :  
+        J'ignore pour qui vous le pouvez connaître :  
 Mais allez de ma part lui dire de ce pas  
 Que c'est un fou fieffé.  
 
     GEORGETTE
-Nous n'y manquerons pas.  
+        Nous n'y manquerons pas.  
 
 
 ### Scène IV
@@ -2117,14 +2117,14 @@ Alain, Georgette, Arnolphe.
 Monsieur…  
 
     ARNOLPHE
-Approchez-vous, vous êtes mes fidèles,  
+        Approchez-vous, vous êtes mes fidèles,  
 Mes bons, mes vrais amis, et j'en sais des nouvelles.  
 
     ALAIN
 Le Notaire…  
 
     ARNOLPHE
-Laissons, c'est pour quelque autre jour.  
+        Laissons, c'est pour quelque autre jour.  
 On veut à mon honneur jouer d'un mauvais tour :  
 Et quel affront pour vous mes enfants pourrait-ce être,  
 Si l'on avait ôté l'honneur à votre Maître ?  
@@ -2144,7 +2144,7 @@ Mais à ses beaux discours gardez bien de vous rendre.
 Oh vraiment…  
 
     GEORGETTE
-Nous savons comme il faut s'en défendre.  
+        Nous savons comme il faut s'en défendre.  
 
     ARNOLPHE
 S'il venait doucement. *Alain, mon pauvre cœur*,  
@@ -2154,28 +2154,28 @@ Par un peu de secours soulage ma langueur.
 Vous êtes un sot.  
 
     ARNOLPHE *à Georgette*
-Bon. *Georgette ma mignonne*  
+        Bon. *Georgette ma mignonne*  
 Tu me parais si douce, et si bonne personne.  
 
     GEORGETTE
 Vous êtes un nigaud.  
 
     ARNOLPHE *à Alain*
-Bon. *Quel mal trouves-tu*  
+        Bon. *Quel mal trouves-tu*  
 Dans un dessein honnête, et tout plein de vertu ?  
 
     ALAIN
 Vous êtes un fripon.  
 
     ARNOLPHE *à Georgette*
-Fort bien. *Ma mort est sûre*  
+        Fort bien. *Ma mort est sûre*  
 Si tu ne prends pitié des peines que j'endure.  
 
     GEORGETTE
 Vous êtes un benêt, un impudent.  
 
     ARNOLPHE
-Fort bien.  
+        Fort bien.  
 Je ne suis pas un homme à vouloir rien pour rien,  
 Je sais quand on me sert en garder la mémoire :  
 Cependant par avance, Alain voilà pour boire,  
@@ -2190,22 +2190,22 @@ C'est que je puisse voir votre belle Maîtresse.
 À d'autres.  
 
     ARNOLPHE
-Bon cela.  
+    Bon cela.  
 
     ALAIN *le poussant*
-Hors d'ici.  
+    Hors d'ici.  
 
     ARNOLPHE
-Bon.  
+    Bon.  
 
     GEORGETTE *le poussant*
-Mais tôt.  
+        Mais tôt.  
 
     ARNOLPHE
 Bon. Holà, c'est assez.  
 
     GEORGETTE
-Fais-je pas comme il faut ?  
+        Fais-je pas comme il faut ?  
 
     ALAIN
 Est-ce de la façon que vous voulez l'entendre ?  
@@ -2220,11 +2220,11 @@ Nous ne nous sommes pas souvenus de ce point.
 Voulez-vous qu'à l'instant nous recommencions ?  
 
     ARNOLPHE    
-Point.  
+        Point.  
 Suffit, rentrez tous deux.  
 
     ALAIN
-Vous n'avez rien qu'à dire.  
+        Vous n'avez rien qu'à dire.  
 
     ARNOLPHE
 Non, non, dis-je, rentrez, puisque je le désire.  
@@ -2344,7 +2344,7 @@ Et bien souperons-nous avant la promenade ?
 Non, je jeûne ce soir.  
 
     CHRYSALDE
-D'où vient cette boutade ?  
+        D'où vient cette boutade ?  
 
     ARNOLPHE
 De grâce excusez-moi, j'ai quelque autre embarras.  
@@ -2468,7 +2468,7 @@ Et l'on ne prendra pas votre avis là-dessus.
 Moi ! je serais cocu ?  
 
     CHRYSALDE
-Vous voilà bien malade,  
+        Vous voilà bien malade,  
 Mille gens le sont bien sans vous faire bravade ;  
 Qui de mine, de cœur, de biens et de maison,  
 Ne feraient avec vous nulle comparaison.  
@@ -2479,7 +2479,7 @@ Mais cette raillerie en un mot m'importune :
 Brisons-là, s'il vous plaît.  
 
     CHRYSALDE
-Vous êtes en courroux,  
+        Vous êtes en courroux,  
 Nous en saurons la cause : Adieu souvenez-vous ;  
 Quoique sur ce sujet votre honneur vous inspire,  
 Que c'est être à demi ce que l'on vient de dire :  
@@ -2572,15 +2572,15 @@ Eût-on jamais prévu… Qui va là ? s'il vous plaît.
 C'est vous, Seigneur Arnolphe.  
 
     ARNOLPHE
-Oui ; mais vous…  
+    Oui ; mais vous…  
 
     HORACE
-C'est Horace.  
+        C'est Horace.  
 Je m'en allais chez vous, vous prier d'une grâce.  
 Vous sortez bien matin.  
 
     ARNOLPHE *bas*
-Quelle confusion !  
+        Quelle confusion !  
 Est-ce un enchantement ? est-ce une illusion ?  
 
     HORACE
@@ -2702,7 +2702,7 @@ Arnolphe lui prend la main sans qu'elle le connaisse.
 Pourquoi me quittez-vous ?  
 
     HORACE
-Chère Agnès, il le faut.  
+        Chère Agnès, il le faut.  
 
     AGNÈS
 Songez donc, je vous prie, à revenir bientôt.  
@@ -2738,7 +2738,7 @@ Suit le zèle prudent qui pour nous l'intéresse.
 Mais suivre un inconnu que…  
 
     HORACE
-N'appréhendez rien,  
+        N'appréhendez rien,  
 Entre de telles mains vous ne serez que bien.  
 
     AGNÈS
@@ -2746,16 +2746,16 @@ Je me trouverais mieux entre celles d'Horace.
 Et j'aurais…  
 AGNÈS à celui qui la tient.
 
-Attendez.  
+    Attendez.  
 
     HORACE
-Adieu, le jour me chasse.  
+        Adieu, le jour me chasse.  
 
     AGNÈS
 Quand vous verrai-je donc ?  
 
     HORACE
-Bientôt assurément.  
+        Bientôt assurément.  
 
     AGNÈS
 Que je vais m'ennuyer jusques à ce moment !  
@@ -2776,10 +2776,10 @@ Je prétends en lieu sûr mettre votre personne.
 Me connaissez-vous ?  
 
     AGNÈS *le reconnaissant*
-Hay.  
+    Hay.  
 
     ARNOLPHE
-Mon visage, Friponne,  
+        Mon visage, Friponne,  
 Dans cette occasion rend vos sens effrayés,  
 Et c'est à contrecœur qu'ici vous me voyez ;  
 Je trouble en ses projets l'amour qui vous possède,  
@@ -2807,7 +2807,7 @@ Cherche à faire du mal à celui qui le flatte.
 Pourquoi me criez-vous ?  
 
     ARNOLPHE
-J'ai grand tort en effet.  
+        J'ai grand tort en effet.  
 
     AGNÈS
 Je n'entend point de mal dans tout ce que j'ai fait.  
@@ -2836,7 +2836,7 @@ Que de se marier il donne des désirs.
 Ah, c'est que vous l'aimez, traîtresse.  
 
     AGNÈS
-Oui je l'aime.  
+        Oui je l'aime.  
 
     ARNOLPHE
 Et vous avez le front de le dire à moi-même ?  
@@ -2848,7 +2848,7 @@ Et pourquoi s'il est vrai, ne le dirais-je pas ?
 Le deviez-vous aimer ? Impertinente.  
 
     AGNÈS
-Hélas !  
+        Hélas !  
 Est-ce que j'en puis mais ? lui seul en est la cause,  
 Et je n'y songeais pas lorsque se fit la chose.  
 
@@ -2869,19 +2869,19 @@ Il est vrai, j'ai sujet d'en être réjoui.
 Vous ne m'aimez donc pas à ce compte ?  
 
     AGNÈS
-Vous ?  
+    Vous ?  
 
     ARNOLPHE
-Oui.  
+        Oui.  
 
     AGNÈS
 Hélas, non.  
 
     ARNOLPHE
-Comment, non ?  
+    Comment, non ?  
 
     AGNÈS
-Voulez-vous que je mente ?  
+        Voulez-vous que je mente ?  
 
     ARNOLPHE
 Pourquoi ne m'aimer pas, Madame l'impudente ?  
@@ -2935,7 +2935,7 @@ Vous fuyez l'ignorance, et voulez, quoi qu'il coûte,
 Apprendre du blondin quelque chose.  
 
     AGNÈS
-Sans doute,  
+        Sans doute,  
 C'est de lui que je sais ce que je puis savoir,  
 Et beaucoup plus qu'à vous je pense lui devoir.  
 
@@ -3059,20 +3059,20 @@ De le dissuader de cette autre alliance.
 Ouida.  
 
     HORACE
-Conseillez-lui de différer un peu,  
+        Conseillez-lui de différer un peu,  
 Et rendez en ami ce service à mon feu.  
 
     ARNOLPHE
 Je n'y manquerai pas.  
 
     HORACE
-C'est en vous que j'espère.  
+        C'est en vous que j'espère.  
 
     ARNOLPHE
 Fort bien.  
 
     HORACE
-Et je vous tiens mon véritable père ;  
+        Et je vous tiens mon véritable père ;  
 Dites-lui que mon âge… ah ! je le vois venir,  
 Écoutez les raisons que je vous puis fournir.  
 Ils demeurent en un coin du Théâtre.
@@ -3112,7 +3112,7 @@ Oui, je vais vous servir de la bonne façon.
 Gardez encor un coup…  
 
     ARNOLPHE
-N'ayez aucun soupçon.  
+        N'ayez aucun soupçon.  
 
     ORONTE *à arnolphe*
 Ah ! que cette embrassade est pleine de tendresse.  
@@ -3124,20 +3124,20 @@ Que je sens à vous voir une grande allégresse.
 Je suis ici venu…  
 
     ARNOLPHE
-Sans m'en faire récit,  
+        Sans m'en faire récit,  
 Je sais ce qui vous mène.  
 
     ORONTE
-On vous l'a déjà dit.  
+        On vous l'a déjà dit.  
 
     ARNOLPHE
 Oui.  
 
     ORONTE
-Tant mieux.  
+    Tant mieux.  
 
     ARNOLPHE
-Votre fils à cet hymen résiste,  
+        Votre fils à cet hymen résiste,  
 Et son cœur prévenu n'y voit rien que de triste,  
 Il m'a même prié de vous en détourner ;  
 Et moi tout le conseil que je vous puis donner,  
@@ -3181,17 +3181,17 @@ Je sais ce que je fais, et dis ce qu'il faut dire.
 Oui, oui, Seigneur Arnolphe, il est…  
 
     CHRYSALDE
-Ce nom l'aigrit,  
+        Ce nom l'aigrit,  
 C'est Monsieur de la Souche, on vous l'a déjà dit.  
 
     ARNOLPHE
 Il n'importe.  
 
     HORACE
-Qu'entends-je ?  
+    Qu'entends-je ?  
 
     ARNOLPHE *se tournant vers horace*
-Oui c'est là le mystère,  
+        Oui c'est là le mystère,  
 Et vous pouvez juger ce que je devais faire.  
 
     HORACE
@@ -3203,7 +3203,7 @@ Georgette, Enrique, Oronte, Chrysalde, Horace, Arnolphe .
 
 
     GEORGETTE
-Monsieur, si vous n'êtes auprès,  
+        Monsieur, si vous n'êtes auprès,  
 Nous aurons de la peine à retenir Agnès,  
 Elle veut à tous coups s'échapper, et peut-être  
 Qu'elle se pourrait bien jeter par la fenêtre.  
@@ -3231,7 +3231,7 @@ Agnès, Alain, Georgette, Oronte, Enrique, Arnolphe, Horace, Chrysalde.
 
 
     ARNOLPHE
-Venez, Belle, venez,  
+        Venez, Belle, venez,  
 Qu'on ne saurait tenir, et qui vous mutinez.  
 Voici votre Galant, à qui pour récompense  
 Vous pouvez faire une humble et douce révérence,  
@@ -3248,7 +3248,7 @@ Je ne sais où j'en suis, tant ma douleur est forte.
 Allons, causeuse, allons.  
 
     AGNÈS
-Je veux rester ici.  
+        Je veux rester ici.  
 
     ORONTE
 Dites-nous ce que c'est que ce mystère-ci,  
@@ -3259,7 +3259,7 @@ Avec plus de loisir je pourrai vous l'apprendre,
 Jusqu'au revoir.  
 
     ORONTE
-Où donc prétendez-vous aller ?  
+        Où donc prétendez-vous aller ?  
 Vous ne nous parlez point, comme il nous faut parler.  
 
     ARNOLPHE
@@ -3267,7 +3267,7 @@ Je vous ai conseillé malgré tout son murmure,
 D'achever l'hyménée.  
 
     ORONTE
-Oui, mais pour le conclure  
+        Oui, mais pour le conclure  
 Si l'on vous a dit tout, ne vous a-t-on pas dit  
 Que vous avez chez vous celle dont il s'agit ?  
 La fille qu'autrefois de l'aimable Angélique,  
@@ -3281,7 +3281,7 @@ Je m'étonnais aussi de voir son procédé.
 Quoi…  
 
     CHRYSALDE
-D'un hymen secret ma sœur eut une fille,  
+        D'un hymen secret ma sœur eut une fille,  
 Dont on cacha le sort à toute la famille.  
 
     ORONTE
@@ -3330,10 +3330,10 @@ Ne vous point marier en est le vrai moyen.
 Oh !  
 
     ORONTE
-D'où vient qu'il s'enfuit sans rien dire ?  
+    D'où vient qu'il s'enfuit sans rien dire ?  
 
     HORACE
-Ah mon père  
+        Ah mon père  
 Vous saurez pleinement ce surprenant mystère.  
 Le hasard en ces lieux avait exécuté  
 Ce que votre sagesse avait prémédité.  
@@ -3352,4 +3352,6 @@ J'en ferais de bon cœur, mon frère, autant que vous.
 Mais ces lieux et cela ne s'accommodent guères ;  
 Allons dans la maison débrouiller ces mystères,  
 Payer à notre ami ses soins officieux,  
-Et rendre grâce au Ciel qui fait tout pour le mieux.  < Fin. >
+Et rendre grâce au Ciel qui fait tout pour le mieux.  
+
+<Fin.>

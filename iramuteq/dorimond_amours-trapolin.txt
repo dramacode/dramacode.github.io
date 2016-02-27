@@ -27,7 +27,7 @@ Signé JOSSE, Syndic.
 
 Achevé d'imprimer pour la première fois,
 
-**** *book_ *id_body-4-1 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-401 *act_ *date_1662 *creator_drouin
 
 -*who_leandre
 Puis que je vous rencontre, il faut faire partie:
@@ -37,7 +37,7 @@ Ce passe-temps est propre à charmer les ennuis⁎:
 
 -*who_lucidor
 Allons-y, je le veux ; au coin de cette ruë,
-Une affiche à propos se montre à nostre veuë.                    
+Une affiche à propos se montre à nostre veuë.
 AFFICHE.
 Les Comediens de Mademoiselle.
 La piece que nous vous donnons
@@ -65,7 +65,7 @@ J'ayme la comedie, elle est mon element.
 -*who_lucidor
 Tous deux nous nous trouvons d'un mesme sentiment :
 Il faut estre privé de bon sens, de science,
-Pour ne la suivre pas, allons en diligence⁎.                     
+Pour ne la suivre pas, allons en diligence⁎.
 Puis on la fait si bien, et si juste en ce temps,
 Qu'elle sert de modelle aux plus honnestes gens :
 On apprend la vertu voyant la comedie,
@@ -87,9 +87,9 @@ J'en faits bien plus d'estat, et l'estime bien mieux;
 Mais on peut sans pecher gouster les inepties⁎
 Qu'ils meslent gallamment avec leurs faceties⁎;
 On rencontre des gens qui tondroient sur un œuf⁎
-Et qui bien souvent ont l'esprit comme un boeuf.                 
+Et qui bien souvent ont l'esprit comme un boeuf.
 
-**** *book_ *id_body-4-2 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-402 *act_ *date_1662 *creator_drouin
 
 -*who_dame1
 Pour moy, je vous le dis, jamais la comedie,
@@ -115,10 +115,10 @@ La belle comedie est le charme de l'ame;
 Allons-y je vous prie.
 
 -*who_dame1
-            Allons; je le veux bien.
-Pour moy je la prefere au plus bel entretien.                    
+      Allons; je le veux bien.
+Pour moy je la prefere au plus bel entretien.
 
-**** *book_ *id_body-4-3 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-403 *act_ *date_1662 *creator_drouin
 
 -*who_portier
 Ce teston⁎ est-il bon ? Cette piastre⁎ est legere !
@@ -138,7 +138,7 @@ Et s'ils m'alloient chasser je serois miserable.
 J'ay bien plus de raison que tous ces grands escrocs⁎
 Qui viennent leur voler le fruict de leurs beaux mots;
 J'en veux prendre à témoin les personnes plus sages;
-Ne leur couste-t'il pas à faire des voyages ?                     
+Ne leur couste-t'il pas à faire des voyages ?
 A nos comediens à faire des habits,
 A blanchir leurs colets, à payer leurs rubis ?
 Enfin la comedie est une marchandise
@@ -148,9 +148,9 @@ Escrots⁎, passevolants, fillous ny pourveans⁎.
 Le premier qui viendra la main hors la pochette,
 Contre luy vaillamment je veux tirer la brette⁎;
 Mon sang est échauffé, je suis las d'en souffrir:
-N'en laissons plus passer, c'est à faire mourir.                     
+N'en laissons plus passer, c'est à faire mourir.
 
-**** *book_ *id_body-4-4 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-404 *act_ *date_1662 *creator_drouin
 
 -*who_comedienne
 Al Dieu ! je voy passer un qui fait l'idolastre
@@ -167,7 +167,7 @@ Ah Dieux ! la belle estoffe, et la belle dentelle !
 Qui vous en a fait don ?
 
 -*who_comedienne
-            Qui ? C'est Mademoiselle :
+      Qui ? C'est Mademoiselle :
 Sa generosité m'en a fait un present
 Et je le faits briller sur la scene à present.
 Ma cravate est deffaite, et mon beau colier d'ambre...
@@ -177,10 +177,10 @@ Que je vous tienne icy lieu de valet de chambre :
 Vostre Cravate...
 
 -*who_comedienne
-        Hé bien ! je l'accommoderay.
+      Hé bien ! je l'accommoderay.
 
 -*who_galant1
-Vous allez au theatre où je vous conduiray.                     
+Vous allez au theatre où je vous conduiray.
 Ma sœur veut vous donner un fort beau poinct de Gesne⁎,
 Et moy des citrons doux, et de la pourcelaine.
 
@@ -188,13 +188,13 @@ Et moy des citrons doux, et de la pourcelaine.
 Et moy des gans d'Espagne.
 
 -*who_galant1
-                Et moy de beaux rubans.
+      Et moy de beaux rubans.
 
 -*who_l_espinay
 Et moy de la pomade.
 
 -*who_galant1
-            Et moy de beaux pendants.
+      Et moy de beaux pendants.
 
 -*who_l_espinay
 Et moy des espagneuls qui viennent de Boulogne.
@@ -210,13 +210,13 @@ Pour prendre vos presens, j'ay trop peu de deux bras.
 Elle a le teint fort beau.
 
 -*who_galant1
-            Et la taille gentille.
+      Et la taille gentille.
 
 -*who_l_espinay
 Son oeil me plaist assez.
 
 -*who_galant1
-            Estes-vous femme ou fille ?
+      Estes-vous femme ou fille ?
 Aymez-moy je, vous prie, et m'appellez« mon coeur »,
 Et je vous nommeray ma mignonne et ma sœur.
 
@@ -225,7 +225,7 @@ Vous faites, par ma foy, fort bien la comedie :
 Quand vous parlez d'amour, que vous estes jolie !
 
 -*who_galant1
-Qu'elle fait bien la fiere, et la cruelle aussi !                    
+Qu'elle fait bien la fiere, et la cruelle aussi !
 
 -*who_comedienne
 Aussi mon mestier est mon unique soucy
@@ -267,10 +267,10 @@ On me vient de donner un sonnet merveilleux.
 Combien a-t-il de vers.
 
 -*who_galant1
-            Au moins trente.                    
+      Au moins trente.
 
 -*who_comedienne
-                    Encor mieux !
+      Encor mieux !
 De grace, informez-vous des reigles poëtiques :
 Les epiques pour vous seroient les dramatiques.
 Ah ! Lisez les autheurs qui composent des vers,
@@ -302,7 +302,7 @@ Avoir aupres de nous grand accés, grand credit,
 Qui diront en voyant une comedienne,
 Regarde cher amy cette Actrice elle est mienne.
 L'autre luy respondra faisant fort l'empesché :
-Elle vaut ma foi, bien la façon d'un peché.                    
+Elle vaut ma foi, bien la façon d'un peché.
 Celuy-cy vous faisant cent façons non communes,
 Vous fera le debit de ses bonnes fortunes,
 Et pour se faire croire il prendra de grands soins,
@@ -326,9 +326,9 @@ Des beautez que l'on void en ces aymables lieux,
 Que les dames y sont agreables et belles
 Et qu'elles sont aussi toutes spirituelles.
 Allons les divertir par nos accens mignards
-Et recevoir l'honneur d'attirer leurs regards.                     
+Et recevoir l'honneur d'attirer leurs regards.
 
-**** *book_ *id_body-4-5 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-405 *act_ *date_1662 *creator_drouin
 
 -*who_portier
 Voicy deux grands filoux de fort mauvais augure :
@@ -338,19 +338,19 @@ Tiens mon mousqueton prest, mettons-nous en posture !
 Ouvre !
 
 -*who_portier
-Il faut de l'argent !
+      Il faut de l'argent !
 
 -*who_filou1
-            Ah ventre !
+      Ah ventre !
 
 -*who_portier
 Par la mort !
 
 -*who_filou1
-        Tu me refuse en vain !
+      Tu me refuse en vain !
 
 -*who_portier
-                    Tu fais un vain effort !
+      Tu fais un vain effort !
 
 -*who_filou1
 Comment tu faits le brave, et la rude moustache ?
@@ -362,7 +362,7 @@ Je fais ce que je suis, quand je veux je me fâche.
 Je m'en vay te percer sy j'entre en action,
 
 -*who_portier
-On m'a desja percé, j'ay veu l'occasion,                     
+On m'a desja percé, j'ay veu l'occasion,
 Les canons, les fusils, et le fer et la flame
 Ne me font point de peur, je me ris de ta lame.
 
@@ -388,7 +388,7 @@ Ah c'est trop endurer, Portier tu periras.
 -*who_portier
 Je vay parler à vous, messieurs les fiers à bras;
 Et d'estoc, et de taille, et de quarté et de tierce
-Pour le dernier sommeil il faut que je te berse.                    
+Pour le dernier sommeil il faut que je te berse.
 Ils ne se battroient pas, s'ils n'estoient dix contre un,
 Mais je me bat d'un air qui n'est pas du commun;
 Ils s'en vont revenir peut-estre avec main forte.
@@ -397,15 +397,15 @@ FIN.
 
 ACTEURS.
 
-LES                                     AMOURS DE TRAPOLIN. COMEDIE;
+LES AMOURS DE TRAPOLIN. COMEDIE;
 
-**** *book_ *id_body-5-2 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-502 *act_ *date_1662 *creator_drouin
 
 -*who_ignorance
 Et bien mon cher, mon beau, mon tout, mon agreable,
 L'essence des amans, coquet le plus aimable,
 Idole de mon cœur, si je languis pour vous
-Vous languissez pour moy : tout est égal en nous.                
+Vous languissez pour moy : tout est égal en nous.
 Nos jeunes cœurs blessez, et des fers et des flâmes
 Qu'un amour mutuel a fait naistre en nos ames
 N'en peuvent ma foy plus et je voy bien qu'il faut
@@ -445,7 +445,7 @@ L'amour quand il est las se met sur mon giron,
 Et ce petit fripon d'un ardeur sans égale,
 Voudroit prendre mon cœur, et ma fleur virginale;
 Mais ma pudeur combat avecque mes desirs;
-Je pasme, je succombe, et pousse des soûpirs,                     
+Je pasme, je succombe, et pousse des soûpirs,
 Mais ma virginité demeure toujours pure;
 Dieu me veüille sauver d'une cheute future;
 Ah ! Si j'avois esté du temps du beau Paris,
@@ -463,25 +463,25 @@ Si je demeurois plus avec toy, mon coquet.
 Adieu, lampe d'amour.
 
 -*who_ignorance
-            Adieu falot de flâme.
+      Adieu falot de flâme.
 
 -*who_trapolin
 Je soûpire
 
 -*who_ignorance
-        Je meurs
+      Je meurs
 
 -*who_trapolin
-            Je succombe.
+      Je succombe.
 
 -*who_ignorance
-                    Ah ! je pasme !
+      Ah ! je pasme !
 Se quitter quand on s'aime, quelle cruauté !
 
 -*who_trapolin
-Je soûpire à tout coup, et de tous les costez.                     
+Je soûpire à tout coup, et de tous les costez.
 
-**** *book_ *id_body-5-3 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-503 *act_ *date_1662 *creator_drouin
 
 -*who_le_docteur
 J'ay des filles chez moy, doctes, spirituelles;
@@ -501,9 +501,9 @@ Si mes filles pouvoient attirer ses carresses
 Je serois bien-heureux, je serois au repos.
 Je ne puis toutefois luy dire de grands mots
 Car je n'ay point appris la basse complaisance,
-De peur de déroger et soüiller ma science.                    
+De peur de déroger et soüiller ma science.
 
-**** *book_ *id_body-5-4 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-504 *act_ *date_1662 *creator_drouin
 
 -*who_trapolin
 Docteurs, musiciens, poëtes; à mon lever,
@@ -528,7 +528,7 @@ Un riche, un grand Seigneur de grandeurs revestu,
 N'est que de l'or impur, s'il n'a point de vertu,
 Qu'un soleil offusqué par un espais nuage
 Et qu'un oyseau huppé qui n'a point de ramage.
-Avecque vos tresors achetez de l‘esprit !                         
+Avecque vos tresors achetez de l‘esprit !
 
 -*who_trapolin
 De l'esprit, en quel lieu ? qui m'en fera debit ?
@@ -560,7 +560,7 @@ Le centre de l'esprit est au sacré ruisseau :
 Vas-y voir ignorant !
 
 -*who_trapolin
-            Qui moy ? boire de l'eau ?
+      Qui moy ? boire de l'eau ?
 Je ne bois que du vin ! quand j'ay beu je fais rage,
 Si je parle d'amour, j'enfle mieux mon langage.
 Quand j'ay beu, si je vay au pays feminin,
@@ -568,7 +568,7 @@ D'un an en un seul jour je fais tout le chemin;
 Je pousse la douceur aupres d'une mignarde
 Et soumets à mes loix l'amour la plus agarde;
 Je ne m'amuse point à passer par les lieux
-Où passent tant d'amans pour gagner de beaux yeux :                
+Où passent tant d'amans pour gagner de beaux yeux :
 Je monstre à ma Philis ma flâme toute nuë
 Et vais au rendez-vous, dés la première veuë.
 
@@ -599,10 +599,10 @@ Il faut avoir du cœur, de l'esprit, et du sens.
 -*who_trapolin
 Les femmes ne sont pas difficiles à prendre :
 Un coquet comme moy met tost leurs cœurs en cendre,
-Les femmes à mon gré...                              
+Les femmes à mon gré...
 
 -*who_le_docteur
-            Les femmes...taisez-vous
+      Les femmes...taisez-vous
 Parlez avec respect de ces objets si doux !
 Un galand de trois jours, un marjolet⁎ d'une heure
 Dira  je suis aimé d'une dame, je meure.
@@ -617,7 +617,7 @@ Pour maistresse la nuict rien que sa vanité.
 Les femmes...
 
 -*who_le_docteur
-        Taisez-vous ! cent bourus, dans leurs ames,
+      Taisez-vous ! cent bourus, dans leurs ames,
 Fourbez sans y penser par quelqu'unes des femmes,
 Vomissent leurs venins contre le general;
 La femme d'elle-mesme est un bel animal :
@@ -630,14 +630,14 @@ Et dedans son esprit ce qu'elle a de brillant.
 Les femmes.....
 
 -*who_le_docteur
-        Taisez-vous, s'il est vray que des femmes
+      Taisez-vous, s'il est vray que des femmes
 Ayant des actions diaboliques et infames,
 La femme n'en est point coupable aucunement :
 L'action de la femme a peché seulement.
 Je diray, prouveray, par raison admirable
 Que l ‘homme est tousjours homme, et n'est ny saint ny diable.
 La femme a tousjours droict de regner sur le cœur,
-Et la femme est tousjours le trône de l'honneur.                     
+Et la femme est tousjours le trône de l'honneur.
 S'il se treuve une femme et méchante et coupable,
 La femme pour cela n'en est point responsable.
 Enfin les femmes sont de foibles animaux,
@@ -649,14 +649,14 @@ Combatre et vaincre ceux qui sont contre les dames.
 Les femmes....
 
 -*who_le_docteur
-        Taisez-vous mille fois, taisez-vous !
+      Taisez-vous mille fois, taisez-vous !
 Les femmes l'ont toujours emporté dessus nous.
 
 -*who_trapolin
 Les femmes....
 
 -*who_le_docteur
-        Taisez-vous, ne parlons plus des femmes,
+      Taisez-vous, ne parlons plus des femmes,
 Ou si nous en parlons, mettons les dans nos ames,
 Et supplions qu'amour sans peine et sans ennuy,
 Nous en vueille donner quelque belle aujourd'huy.
@@ -665,38 +665,38 @@ Nous en vueille donner quelque belle aujourd'huy.
 Les femmes....
 
 -*who_le_docteur
-        A genoux quand tu parle des femmes !
+      A genoux quand tu parle des femmes !
 
 -*who_trapolin
 Les dames...
 
 -*who_le_docteur
-        Tremble donc quand tu parles des Dames.
+      Tremble donc quand tu parles des Dames.
 
 -*who_trapolin
 Leurs beautez....
 
 -*who_le_docteur
-        Meur d'amour parlant de leurs beautez !
+      Meur d'amour parlant de leurs beautez !
 
 -*who_trapolin
 Leurs beaux yeux...
 
 -*who_le_docteur
-            Du respect, pour les divinitez !                 
+      Du respect, pour les divinitez !
 
 -*who_trapolin
 Leur esprit...
 
 -*who_le_docteur
-        Malheureux, tu vas ouvrir ta tombe !
+      Malheureux, tu vas ouvrir ta tombe !
 Laisse là leur esprit, que le tien y succombe.
 
 -*who_trapolin
 Leur amour.
 
 -*who_trapolin
-        Leur amour et leur fidelité
+      Leur amour et leur fidelité
 Va jusques à l'excez, ainsi que leur beauté.
 Cette genereuse Artémise,
 Par son amour et sa franchise,
@@ -721,8 +721,8 @@ Leur fait conserver leur confiance.
 L'amour....
 
 -*who_le_docteur
-        L'amour, l'amour perd un sot comme toy !
-Des femmes sans cesser nous recevrons la loy :                     
+      L'amour, l'amour perd un sot comme toy !
+Des femmes sans cesser nous recevrons la loy :
 Alexandre, Cesar, Sanson, Antoine, d'elles,
 Furent-ils pas ferus, et charmez de leurs belles ?
 Les doctes n'ont-ils pas ressenty tour à tour
@@ -753,9 +753,9 @@ Les jaloux eussent-ils l'exactitude entière,
 Sieur Basle et Sieur Cadot viennent rompre en visiere.
 Un homme est fort constant, la femme ne l'est pas;
 Et je vous prouveray.... mais il n'écoute pas !
-Docteur, Docteur ! il est méchant comme un guenuche⁎.                 
+Docteur, Docteur ! il est méchant comme un guenuche⁎.
 
-**** *book_ *id_body-5-5 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-505 *act_ *date_1662 *creator_drouin
 
 -*who_le_docteur
 Que veux-tu, veau doré, franc badin, esprit cruche ?
@@ -782,7 +782,7 @@ Elle est grande, elle est belle, elle a fort bonne grace,
 Poësie est galante, elle a l'esprit serein,
 Mais elle est fort quinteuse, et sujette au chagrin;
 Chez tous les demis dieux elle est fort bien venuë,
-Son langage est fort grand, mais sa bourse est menuë.                 
+Son langage est fort grand, mais sa bourse est menuë.
 Elles ont des amans dont le nombre est petit,
 Mais vos grands biens, Monsieurs, les vont mettre en credit,
 À deux portes d'icy loge Dame Ignorance :
@@ -800,9 +800,9 @@ Elle vous plaira fort, mais daignez voir les nôtres.
 Soit faict.
 
 -*who_le_docteur
-        Poetica et Philosophica.
+      Poetica et Philosophica.
 
-**** *book_ *id_body-5-6 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-506 *act_ *date_1662 *creator_drouin
 
 -*who_poesie
 Qvid vis Papa ego sum paratissima.
@@ -814,8 +814,8 @@ Idsum tibi Papa, quid de me cupis ?
 Accedite.
 
 -*who_trapolin
-    Cupis veut dire Cupidon,
-Moy Cupidon, j'ay l'œil assez fripon.                         
+      Cupis veut dire Cupidon,
+Moy Cupidon, j'ay l'œil assez fripon.
 Il est vray, qu'à peu pres j'ay sa taille et sa mine,
 J'ay comme luy les yeux, comme luy j'assassine;
 Et si l'on veut d'amour prendre la nudité,
@@ -851,7 +851,7 @@ Avant que de mourir, me voir manger au vers !
 Dans mon berceau, maman me donna d'une poudre
 Qui de mes vers estoit le redoutable foudre :
 Elle m'en a purgé, pourquoy donc en autheur,
-En remettray-je en moy l'insuportable humeur ?                 
+En remettray-je en moy l'insuportable humeur ?
 Et puis selon mon sens, s'il faut que je le dise,
 Vous avez la façon, madame Poësie,
 De me donner apres la consommation,
@@ -877,7 +877,7 @@ Je ne vous rendrois pas pacifique cornu.
 Enfin je suis....
 
 -*who_trapolin
-        Ho, ho, Madame Philosophie,
+      Ho, ho, Madame Philosophie,
 Vous en sçavez beaucoup pour mon petit genie
 Vous l'avez trop grand, l'esprit⁎,
 Et moy je l'ay trop petit.
@@ -888,7 +888,7 @@ Je suis bien plus connuë , et j'ay bien plus d'atraits :
 On me penetre mieux, et je suis plus galante.
 
 -*who_trapolin
-Ouy vous estes de vray connuë et consonnante;                     
+Ouy vous estes de vray connuë et consonnante;
 Vostre esprit Poësie estoit doux et benin,
 Vous sçavez assez bien placer le masculin,
 Et jamais il ne va sans rime feminine;
@@ -924,7 +924,7 @@ Imiter leur vertus, suivre leurs bonnes moeurs,
 Discerner les effects du neant et de l'estre.
 Il me faut penetrer afin de me connoistre,
 Discourir fortement sur la vie et la mort,
-Connoistre le destin, la nature et le sort.                     
+Connoistre le destin, la nature et le sort.
 Parlant du papillon, du fourmy, de l'atome,
 Il n'apartient qu'à moy de bien exercer l'homme.
 Philosophie est belle, et je vous en réponds.
@@ -961,7 +961,7 @@ Mais vos pieds en sont cause; alte, ou bien je vous quite.
 Tant mieux, je ne veux point de froid temperament :
 Il me faut plus de feux que de raisonnement,
 Il faut estre pour moy d'une ame vigoureuse,
-Une humeur enjoüée, une humeur amoureuse,                     
+Une humeur enjoüée, une humeur amoureuse,
 Dormir peu, cheminer du soir jusques au matin,
 Se nourir d'esperance, et d'un peu de chagrin,
 Aller en un seul jour du couchant à l'aurore,
@@ -983,10 +983,10 @@ Ne me charme jamais qu'après avoir diné;
 La table a des apas quand elle est bien garnie.
 Quelle est cette beauté ?
 
-**** *book_ *id_body-5-7 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-507 *act_ *date_1662 *creator_drouin
 
 -*who_poesie
-            La ? C'est Galanterie.
+      La ? C'est Galanterie.
 
 -*who_trapolin
 Ce sera bien mon fait, car je suis fort galant;
@@ -994,7 +994,7 @@ Approchons et faisons l'agreable en parlant.
 O Dieu ! qu'elle est aimable, et qu'elle a bonne grace !
 Aussi tout est de mise ou la Galante passe;
 Son teint est plus riant que les fleurs du Printemps;
-Je la veux espouser, elle charme mes sens.                     
+Je la veux espouser, elle charme mes sens.
 S'il vous faut des rubans belle Galanterie,
 Je puis seul enrichir vostre robe jolie.
 Ne vaudrois-je pas bien un pacquet de ruban ?
@@ -1030,7 +1030,7 @@ Qui ne la voudroit pas en auroit de la honte.
 J'ay du feu, j'ay du fast, et mon sort fortuné
 Vient d'avoir un esprit bien doux et bien tourné.
 Il me faut des bijoux, et je suis magnifique,
-Du plus riche Marchand j'épuise la boutique.                     
+Du plus riche Marchand j'épuise la boutique.
 J'ayme mieux retrancher ma table et m'ajuster,
 Et mon mary jamais ne m'y doit contester :
 Et pourveu que je sois, mon amy dans ma chambre
@@ -1069,7 +1069,7 @@ Vostre Pagase⁎ et vous me jetteriez à bas.
 
 -*who_poesie
 Les Muses de Paris ne sont pas toutes filles,
-Et leurs vers toutefois se treuvent sans chevilles;                     
+Et leurs vers toutefois se treuvent sans chevilles;
 Et si lors qu'elles vont voir le sacré vallon,
 Chacune sçait fort bien trouver son Apollon.
 
@@ -1087,10 +1087,10 @@ Est sujet à porter le bas.
 Aimez nous.
 
 -*who_poesie
-        Suivez-nous.
+      Suivez-nous.
 
 -*who_galanterie
-                 Quittez l'indifférence.
+      Quittez l'indifférence.
 
 -*who_trapolin
 Mais serois-je infidelle à ma chere ignorance ?
@@ -1098,12 +1098,12 @@ Dés le berceau je suis charmé de sa beauté,
 Avec elle je dors sans estre inquieté;
 Mais la voicy qui vient, que je la treuve aimable !
 
-**** *book_ *id_body-5-8 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-508 *act_ *date_1662 *creator_drouin
 
 -*who_ignorance
 Quoy ? traistre déloyal, perfide, ingrat, coupable,
 Les sciences t'ont pris lors que je n'y suis pas,
-Voy, voy, comme Agripa parle de leurs apas,                     
+Voy, voy, comme Agripa parle de leurs apas,
 Et de leurs vanitez elles ont eu sa vie;
 Et pourtant sans cesser il les avoit servie
 Et vous belle friquette⁎, et vous beaux yeux fripons,
@@ -1123,21 +1123,21 @@ Mais ce siecle est illustre, et nous sera plus doux.
 Ah ! ma chere Ignorance.
 
 -*who_poesie
-            Ah ! douceur sans seconde !
+      Ah ! douceur sans seconde !
 Si tu peux la prenant en purger tout le monde,
 Je serois opulente, et dans fort peu de temps.
 
-**** *book_ *id_body-5-9 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-509 *act_ *date_1662 *creator_drouin
 
 -*who_le_docteur
 ET bien captivez-vous ce Phoenix des amans ?
-Et le marirons-nous ?                                
+Et le marirons-nous ?
 
 -*who_philosophie
-            Ouy.
+      Ouy.
 
 -*who_le_docteur
-                De plaisir j'en dance.
+      De plaisir j'en dance.
 
 -*who_philosophie
 Ouy, mais il nous méprise, et choisit l'Ignorance.
@@ -1170,7 +1170,7 @@ Que la terre a trop d'ignorans.
 
 -*who_poesie
 Je te vais faire faire, au lieu d'epitalame,
-De satyriques vers, et quelque écrit infame.                     
+De satyriques vers, et quelque écrit infame.
 
 -*who_philosophie
 Et moy je vais monter dessus mes grands chevaux
@@ -1202,7 +1202,7 @@ Par moy de mille maux tu te pouras parer;
 Allons mon gros poupon !
 
 -*who_trapolin
-            Allons mon Ignorance !
+      Allons mon Ignorance !
 Beuvons, joüons, dansons, et laissons la science !
 Allons nous en dormir et manger à foison.
 Le plus grand ennemy de l'homme est la raison.

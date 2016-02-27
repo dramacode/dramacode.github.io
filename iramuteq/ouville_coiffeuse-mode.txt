@@ -14,7 +14,7 @@ Les exemplaires ont esté fournis.
 
 Ledit QUINET a fait part du present Privilege à ANTOINE DE SOMMAVILLE, Marchand Libraire, pour en jouyr pendant le temps et conditions portées par iceluy : ainsi qu'il a esté accordé entre eux.
 
-**** *book_ *id_body-3-1 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-301 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Certainement amy je commence à connestre
@@ -29,7 +29,7 @@ Mais si vous n'estes pas plus resjoüy que moi,
 Me pouvez-vous blasmer?
 
 -*who_acaste
-Vous scavez bien pourquoi;
+      Vous scavez bien pourquoi;
 Vous cognoissez assez l'excez de mes miseres,
 Je ne vous ay point teu l'estat de mes affaires,
 Vous en pouvez vous plaindre? et devez vous juger
@@ -76,11 +76,11 @@ On est aveugle et sourd parmy de tels misteres.
 On vous escrit souvent.
 
 -*who_acaste
-Par tous les ordinaires,
+      Par tous les ordinaires,
 Et j'espere tantost d'en recevoir.
 
 -*who_arimant
-O Dieux!
+      O Dieux!
 Comment! vous plaignez vous de la rigueur des Cieux?
 Ils vous obligent⁎ trop, que ne m'est-il posible
 D'estre heureux comme vous? Mais j'aime une insensible,
@@ -91,7 +91,7 @@ Que mes pleurs ny mes soins n'ont jamais pû toucher.
 Comment la nommez-vous?
 
 -*who_arimant
-Elle s'appelle Flore,
+      Elle s'appelle Flore,
 Plus elle me rebute, et plus mon Coeur l'adore,
 Vous scaurez cette histoire, et ma ferme amitié⁎
 Qu'on paye avec mespris vous va faire pitié.
@@ -100,7 +100,7 @@ Qu'on paye avec mespris vous va faire pitié.
 Vous m'obligerez⁎ fort.
 
 -*who_arimant
-Apprenez donc que j'ayme
+      Apprenez donc que j'ayme
 Depuis un an entier Flore plus que moy-mesme.
 Elle parut d'abord avec tant de beauté
 Que vous excuseriez la dure extremité
@@ -203,7 +203,7 @@ Je vay voir si le Ciel vaincra mes desplaisirs.
 -*who_acaste
 Qu'il vueille de tout point seconder vos desirs.
 
-**** *book_ *id_body-3-2 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-302 *act_ *date_1647 *creator_ouville
 
 -*who_beatrix
 Il faut peu de suject pour vous mettre en colere.
@@ -220,7 +220,7 @@ Autre-fois elle ayma, mais elle n'ayme plus
 Depuis qu'elle vous sert.
 
 -*who_flore
-Non, non, c'est un abus,
+      Non, non, c'est un abus,
 Si Jacinte a conceu quelque amoureuse flâme⁎,
 Ne croy pas que le temps en guerisse son ame,
 Enfin qui se resout de vivre avecque moy
@@ -242,7 +242,7 @@ Envers le bon aussi, par ce qu'il le peut faire.
 Est-ce vous Arimant?
 
 -*who_arimant
-Ouy Madame. (Hà j'entens
+      Ouy Madame. (Hà j'entens
 Un rigoureux arrest qui trouble tous mes sens)
 Comment va vostre amour? Je veux dire, Madame,
 Vostre hayne, envers ceux qui vivent dans la flame⁎,
@@ -257,7 +257,7 @@ Et pour vous mon amour en tout temps est le mesme.
 Encor pour quel sujet?
 
 -*who_flore
-Est-il homme icy bas
+      Est-il homme icy bas
 Qui nous puisse parler, et ne nous mentir pas?
 
 -*who_arimant
@@ -276,11 +276,11 @@ Et n'ay pas leu dedans un mot de verité.
 Un mot de verité?
 
 -*who_flore
-Voulez-vous pas me croire?
+      Voulez-vous pas me croire?
 Les voila, lisez lez.
 
 -*who_arimant
-Je veux avoir la gloire
+      Je veux avoir la gloire
 De la vaincre par là. Voyons quels sont icy
 Ces mensonges si grands: le premier dit ainsi.
 Depuis le premier jour que j'eu cét advantage,
@@ -299,7 +299,7 @@ On appelle une mort les peynes⁎ qu'on endure
 Pour un object charmant.
 
 -*who_flore
-Une mort en peinture,
+      Une mort en peinture,
 S'il dit plus qu'il ne souffre, est-il pas vray qu'il ment?
 Il suffit, passez donc au second, Arimant.
 
@@ -340,13 +340,13 @@ Quelle humeur! et qu'en puis-je esperer justes Dieux!
 Lisez l'autre, Arimant.
 
 -*who_arimant
-Le soleil de vos yeux.
+      Le soleil de vos yeux.
 
 -*who_flore
 Que veut dire ce fat?
 
 -*who_arimant
-Hé quoy divine Flore !
+      Hé quoy divine Flore !
 Estimez-vous qu'il ment et qu'il s'esgare encore?
 Sont-ce pas des Soleils qui brillent dans vos yeux?
 
@@ -362,7 +362,7 @@ Mais de plus dites-moy quelle proportion
 D'une femme au soleil?
 
 -*who_arimant
-C'est que sa passion
+      C'est que sa passion
 Vous donne par ce mot la plus grande loüange
 Qu'on vous puisse donner, quand vous seriez un Ange,
 Et si cela vous choque, ah! c'est un grand hazard
@@ -373,7 +373,7 @@ Pourquoy donc voulez-vous que je croye une chose
 Que je tiens pour mensonge?
 
 -*who_arimant
-Il faut que je suppose
+      Il faut que je suppose
 Quelque lettre qui m'ayde et qui sans declarer
 Luy puisse adroittement mon amour declarer.
 
@@ -381,7 +381,7 @@ Luy puisse adroittement mon amour declarer.
 Lisez l'autre, Arimant.
 
 -*who_arimant
-Sus donc prenons courage,
+      Sus donc prenons courage,
 Depuis un an entier Flore j'ay l'advantage
 D'adorer en vos yeux une divinité
 Avecque tant d'amour et de fidelité,
@@ -408,13 +408,13 @@ D'avoir leu cét escrit: le nom est-il au bas?
 Ouy Madame.
 
 -*who_flore
-Comment?
+      Comment?
 
 -*who_arimant
-Arimant.
+      Arimant.
 
 -*who_flore
-Temeraire!
+      Temeraire!
 Ne vous avois-je pas commandé de vous taire?
 Comment osez-vous donc parler si librement?
 
@@ -428,7 +428,7 @@ Quand vous avez ouy ceux que je viens de lire
 De trois de mes rivaux?
 
 -*who_flore
-Est-il permis de dire
+      Est-il permis de dire
 Tout ce que l'on escrit Arimant? aprenez
 Que la parole offence, et que vous profanez
 Le respect qui m'est deu par cette hardiesse,
@@ -446,7 +446,7 @@ Et vous mentez sans doute aussi bien que les autres.
 Moy, Madame, je ments?
 
 -*who_flore
-Ouy certes vous mentez,
+      Ouy certes vous mentez,
 Si vous ne tenez pas ce que vous prometez,
 Cognoissant mon humeur deviez vous temeraire
 Avoir dit à mes yeux ce qui me peut desplaire?
@@ -469,7 +469,7 @@ Beatrix, je consents d'en estre chastié.
 -*who_beatrix
 O le pauvre jeune homme, ah! qu'il me fait pitié!
 
-**** *book_ *id_body-3-3 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-303 *act_ *date_1647 *creator_ouville
 
 -*who_arimant
 Voy cruelle! Est-ce là toute la recompense
@@ -488,14 +488,14 @@ Me vient d'assassiner. Helas tout est perdu!
 Que vous a-t-elle fait?
 
 -*who_arimant
-Elle m'a deffendu
+      Elle m'a deffendu
 De la voir de ma vie. Ah rigoureux martire!
 
 -*who_acaste
 Encor, pour quel suject?
 
 -*who_arimant
-Je ne vous le puis dire,
+      Je ne vous le puis dire,
 Triste et desesperé dans ce trouble⁎ d'ennuis⁎
 Je ne sçaurois parler en l'estat où je suis
 
@@ -527,16 +527,16 @@ Pour me donner moyen de pouvoir respirer.
 Je vous suy.
 
 -*who_arimant
-Laissez moy.
+      Laissez moy.
 
 -*who_acaste
-Refusez vous mon aide?
+      Refusez vous mon aide?
 
 -*who_arimant
 Mon mal est incapable à present de remede,
 Je n'en espere point, si ce n'est en la mort.
 
-**** *book_ *id_body-3-4 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-304 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Il le faut laisser seul, je deplore son sort,
@@ -562,7 +562,7 @@ Puis-je me contenir et m'empescher de rire?
 De ce plaisant discours?
 
 -*who_acaste
-Maraut⁎, que veux-tu dire?
+      Maraut⁎, que veux-tu dire?
 
 -*who_philipin
 Moins à plaindre que vous! que dites-vous Monsieur?
@@ -580,7 +580,7 @@ Ay-je d'autre plaisir icy qu'à recevoir
 Des lettres de sa part?
 
 -*who_philipin
-En peut-elle avoir d'autres
+      En peut-elle avoir d'autres
 Aux lieux où l'on la tient qu'y recevoir des vostres?
 Vous allez pour le moins par tout où vous voulez
 Où l'humeur vous en dit, vous hantez⁎ et parlez,
@@ -598,7 +598,7 @@ Qui me vient de la part de celle que j'adore
 Pleust au Ciel qu'Arimant en eust autant de Flore.
 Fin du premier Acte.
 
-**** *book_ *id_body-4-1 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-401 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Et bien, qu'en dites-vous? lors que pour un Amy
@@ -661,11 +661,11 @@ Je vais accompagner mon Amy seulement,
 Serois-je son rival?
 
 -*who_philipin
-Je croy asseurément
+      Je croy asseurément
 Que Dorotée, au moins j'y voy grande apparence,
 Se sentira bien-tost de cette connoissance.
 
-**** *book_ *id_body-4-2 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-402 *act_ *date_1647 *creator_ouville
 
 -*who_pamphile
 Madame excusez moy, je ne puis nullement
@@ -691,7 +691,7 @@ Se desguiser ainsi? Dieux! quelle extravagance,
 Que dira-t-on de vous?
 
 -*who_dorotee
-Tout ce que l'on voudra.
+      Tout ce que l'on voudra.
 Laissons causer le monde, apres il se taira,
 Mais ne t'estonne⁎ point de cecy je te prie,
 Croy que cette action m'importe de la vie.
@@ -861,20 +861,20 @@ Và ne redoute rien. Pauline va sçavoir
 Si Leonor est là, si je la pourray voir?
 Mais la voicy qui sort, arreste-toy Pauline.
 
-**** *book_ *id_body-4-3 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-403 *act_ *date_1647 *creator_ouville
 
 -*who_dorotee
 Et bien que vous en semble? ay-je pas bonne mine?
 Suis-je bien desguisêe?
 
 -*who_leonor
-Ouy tres-excellemment,
+      Ouy tres-excellemment,
 Vous ne pourriez jamais estre plus proprement,
 Vous avez sans mentir encor meilleure grace
 Qu'avec vostre autre habit.
 
 -*who_dorotee
-Que faut-il que je face?
+      Que faut-il que je face?
 
 -*who_leonor
 Il vous faudra fournir de cordons et de noeuds,
@@ -912,7 +912,7 @@ Leonor, je vous prie. Ah! le perfide Amant,
 Sans doute il me trahit.
 
 -*who_leonor
-N'entrez point en cervelle⁎
+      N'entrez point en cervelle⁎
 De cette Dame là, car je vous respons d'elle,
 Si c'est pour cét objet⁎ qu'il a quelque dessein,
 Croyez-moi qu'il s'abuse, et qu'il travaille en vain,
@@ -936,7 +936,7 @@ Je crois asseurement, quoy que bien desguisée,
 Qu'il vous reconnoistroit.
 
 -*who_dorotee
-Je suis assez rusée
+      Je suis assez rusée
 Pour surprendre ses sens par mes subtilitez
 Et pour venir à bout d'autres difficultez,
 Je ne veux seulement que le mettre en cervelle⁎,
@@ -987,7 +987,7 @@ Tu ne cours point de risque il ne te cognoit pas.
 Mais pour qui passerais-je?
 
 -*who_dorotee
-Escoute, tu diras,
+      Escoute, tu diras,
 A qui t'en enquerra, que tu seras mon pere,
 Et pour encore mieux couvrir nostre mistere,
 Qu'estant necessiteux, avec passion
@@ -1012,7 +1012,7 @@ Pour avoir ce qu'il faut dans cette matinée.
 Ouy, la commission en est desja donnée.
 Fin du second Acte.
 
-**** *book_ *id_body-5-1 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-501 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Quel changement mon Coeur? et quelle frenaisie
@@ -1080,22 +1080,22 @@ Qu'il est cause à present de mon nouveau martyre?
 Non, je ne le dois pas estant ce que je suis,
 Quel est donc, justes Dieux! l'amour que je poursuis?
 Où tendent vos desseins? car il est infaillible,
-Que j'ayme, et d'estre aymée il ne m'est pas possible 
+Que j'ayme, et d'estre aymée il ne m'est pas possible
 J'ayme sans esperance, il faut qu'un mesme jour
 Ensemble voye et naistre, et mourir mon amour.
 Chassons ce fol⁎ desir qui ma raison emporte.
 
-**** *book_ *id_body-5-2 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-502 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Que veux-tu?
 
 -*who_beatrix
-Vostre Amant est là bas à la porte,
+      Vostre Amant est là bas à la porte,
 Madame, entrera-t'il?
 
 -*who_flore
-Que dis-tu? quel Amant?
+      Que dis-tu? quel Amant?
 
 -*who_beatrix
 Moy je n'en cognois qu'un, je parle d'Arimant.
@@ -1109,11 +1109,11 @@ Il viendra seul icy me parler de sa flame⁎,
 Et me rompra la teste.
 
 -*who_beatrix
-Il n'est pas seul Madame,
+      Il n'est pas seul Madame,
 Acaste est avec luy.
 
 -*who_flore
-Va descend promptement,
+      Va descend promptement,
 Beatrix, et luy dy qu'il entre librement,
 Que je me porte bien, qu'il a toute puissance.
 
@@ -1123,23 +1123,23 @@ De vostre humeur Modeste, et de vostre vertu,
 Je dirois.
 
 -*who_flore
-Et quoy?
+      Et quoy?
 
 -*who_beatrix
-Rien.
+      Rien.
 
 -*who_flore
-Encor que dirois-tu?
+      Encor que dirois-tu?
 
 -*who_beatrix
 Que ce contentement que vous faites paroistre
 Proviendroit.
 
 -*who_flore
-Quoy d'amour?
+      Quoy d'amour?
 
 -*who_beatrix
-Ne pourroit-il pas estre?
+      Ne pourroit-il pas estre?
 
 -*who_flore
 Vois-tu pas que ce n'est qu'un simple compliment?
@@ -1147,24 +1147,24 @@ Et que je ne puis pas refuser justement
 Que par galanterie un homme me frequente.
 Autre chose est d'aimer ou d'estre complaisante.
 
-**** *book_ *id_body-5-3 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-503 *act_ *date_1647 *creator_ouville
 
 -*who_beatrix
 Entrez, Messieurs, entrez.
 
 -*who_arimant
-Madame, nous venons
+      Madame, nous venons
 En ce lieu.
 
 -*who_flore
-Soyons-nous, et puis nous parlerons.
+      Soyons-nous, et puis nous parlerons.
 De quels divers combats mon ame est assaillie.
 
 -*who_arimant
 Vous nous obligez⁎ trop.
 
 -*who_acaste
-Et moy je vous supplie
+      Et moy je vous supplie
 De m'excuser si j'entre icy si librement.
 
 -*who_flore
@@ -1173,14 +1173,14 @@ Ce que ces deux amans ont dans le fonds de l'ame.
 Comme vous portez-vous Arimant?
 
 -*who_arimant
-Moy Madame?
+      Moy Madame?
 Je suis icy en vous voyant au bout de mes souhaits.
 
 -*who_flore
 Vous Acaste?
 
 -*who_acaste
-Ignorant ainsi comme je fais
+      Ignorant ainsi comme je fais
 En quel estat se trouve à present Dorotée,
 Ayant les sens troublez et l'ame inquietée⁎
 De cent divers pensers, Madame je ne puis
@@ -1234,7 +1234,7 @@ Elle eust quelques defauts, je ne les verrois pas.
 Dieux! quel impertinent.
 
 -*who_arimant
-Flore n'est pas contente
+      Flore n'est pas contente
 A ce que je puis voir d'entendre que l'on vante,
 De Dorotée ainsi la grace et la beauté:
 Mais cela ne provient que de la vanité
@@ -1243,7 +1243,7 @@ Et de vouloir de plus par tout estre adorée;
 Ce n'est point par amour sans doute je le croy
 Connoissant son humeur comme je la connoy.
 
-**** *book_ *id_body-5-4 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-504 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
 Que me donnerez-vous pour la bonne nouvelle?
@@ -1252,13 +1252,13 @@ Que me donnerez-vous pour la bonne nouvelle?
 As-tu des lettres?
 
 -*who_philipin
-Ouy.
+      Ouy.
 
 -*who_acaste
-De Dorotée?
+      De Dorotée?
 
 -*who_philipin
-Ouy d'elle.
+      Ouy d'elle.
 
 -*who_acaste
 Donne-les promptement. Vous m'excuserez bien
@@ -1287,7 +1287,7 @@ En l'estat où pour vous m'a mis ma passion.
 Pourquoy?
 
 -*who_arimant
-Ne vous ayant nulle obligation,
+      Ne vous ayant nulle obligation,
 Madame usant vers moy d'un traitement si rude
 Pourriez-vous m'accuser jamais d'ingratitude?
 
@@ -1304,11 +1304,11 @@ Arimant, osez-vous me parler de la sorte?
 Madame pardonnez.
 
 -*who_flore
-Voy qui frape à la porte.
+      Voy qui frape à la porte.
 Va viste Beatrix.
 
 -*who_beatrix
-Bien Madame j'y cours.
+      Bien Madame j'y cours.
 
 -*who_flore
 Ne me tenez jamais de semblables discours.
@@ -1317,19 +1317,19 @@ Si vous n'avez dessein de me mettre en colere.
 -*who_arimant
 Madame excusez-moy.
 
-**** *book_ *id_body-5-5 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-505 *act_ *date_1647 *creator_ouville
 
 -*who_beatrix
-C'est cette Perruquiere
+      C'est cette Perruquiere
 Qui vient pour vous coiffer.
 
 -*who_flore
-Ah! Beatrix, dy luy,
+      Ah! Beatrix, dy luy,
 Que je ne sçaurois pas me coiffer aujourd'hui.
 Est-ce pas Leonor?
 
 -*who_beatrix
-Ouy, Madame, c'est elle.
+      Ouy, Madame, c'est elle.
 
 -*who_dorotee
 Madame vous plaist-il d'une façon nouvelle
@@ -1343,14 +1343,14 @@ Je le veux bien, voyons, approche toy ma fille.
 J'en ay de toute sorte.
 
 -*who_flore
-O Dieux qu'elle est gentille,
+      O Dieux qu'elle est gentille,
 Vostre nom.
 
 -*who_dorotee
-Isabelle.
+      Isabelle.
 
 -*who_leonor
-Elle cherche à servir,
+      Elle cherche à servir,
 Madame, et vous sçavez qu'elle coiffe à ravir.
 
 -*who_flore
@@ -1360,7 +1360,7 @@ Emmenez la demain Leonor, je vous prie.
 Je n'y manqueray pas.
 
 -*who_dorotee
-Je ne vis en ma vie
+      Je ne vis en ma vie
 Une plus agreable et plus rare beauté.
 
 -*who_acaste
@@ -1368,22 +1368,22 @@ Vous excuserez bien mon incivilité,
 Madame, s'il vous plaist.
 
 -*who_dorotee
-Dieux! j'aperçoy ce traistre.
+      Dieux! j'aperçoy ce traistre.
 Ah Leonor! c'est luy.
 
 -*who_leonor
-Ne faites pas paroistre
+      Ne faites pas paroistre
 Que vous le connoissez.
 
 -*who_dorotee
-Leonor, je ne puis
+      Leonor, je ne puis
 Contenir mon esprit dans le trouble⁎ où je suis.
 
 -*who_leonor
 Ne vous emportez pas.
 
 -*who_dorotee
-Que je suis agitée!
+      Que je suis agitée!
 
 -*who_flore
 Cette lettre, Monsieur, vient donc de Dorotée?
@@ -1401,13 +1401,13 @@ Et vous avez raison de m'en faire un reproche.
 Pour quel sujet, Monsieur?
 
 -*who_acaste
-Tiens, Philipin approche.
+      Tiens, Philipin approche.
 
 -*who_philipin
 Je vous entends fort bien.
 
 -*who_acaste
-Escoute, parle à moy.
+      Escoute, parle à moy.
 N'est-ce pas Dorotée à present que je voy.
 
 -*who_philipin
@@ -1420,27 +1420,27 @@ Maudit soit le mestier, je le dy de bon cœur,
 Si jamais je m'en mesle.
 
 -*who_flore
-Ah Dieux! estes-vous fole⁎ ?
+      Ah Dieux! estes-vous fole⁎ ?
 Que faites-vous mamie?
 
 -*who_dorotee
-Ah ! je perds la parole.
+      Ah ! je perds la parole.
 Qui ne la seroit pas voyant ce que je voy.
 
 -*who_flore
 Etes-vous en colere.
 
 -*who_dorotee
-Ouy j'y suis.
+      Ouy j'y suis.
 
 -*who_flore
-Mais pourquoi ?
+      Mais pourquoi ?
 
 -*who_dorotee
 J'en ay trop de sujet.
 
 -*who_flore
-Dites-le, je vous prie.
+      Dites-le, je vous prie.
 
 -*who_dorotee
 Il faut dissimuler. Voyez l'effronterie,
@@ -1456,10 +1456,10 @@ Si je ne connoissois fort bien cette escriture,
 Mais que dis-je, c'est elle ?
 
 -*who_philipin
-Elle ?
+      Elle ?
 
 -*who_acaste
-Ouy, je te le jure.
+      Ouy, je te le jure.
 
 -*who_philipin
 Ne jurez point, Monsieur, pourquoy vous obstiner ?
@@ -1492,7 +1492,7 @@ Je feray pour l'avoir tout ce que je pourray
 Quand je devrois perir.
 
 -*who_acaste
-Je vous la payeray
+      Je vous la payeray
 Dites ce qu'elle vaut la belle, je vous prie.
 
 -*who_dorotee
@@ -1518,7 +1518,7 @@ Si c'est tout mon vaillant, Monsieur, ai-je grand tort
 De sentir cette perte.
 
 -*who_acaste
-Ah! la pierre est jettée,
+      Ah! la pierre est jettée,
 Si cette fille icy ressemble à Dorotée
 Quelle qu'elle puisse estre il faut absolument
 Quoy qu'il puisse arriver, que je sois son amant.
@@ -1542,17 +1542,17 @@ Qui m'importe beaucoup, je prens congé de vous.
 Adieu, Monsieur.
 
 -*who_acaste
-Adieu.
+      Adieu.
 
 -*who_arimant
-Pour moi je me resous
+      Pour moi je me resous
 De vous accompagner.
 
 -*who_acaste
-Demeurez je vous prie,
+      Demeurez je vous prie,
 Il faut que je sois seul, je vous en remercie.
 
-**** *book_ *id_body-5-6 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-506 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Comment, vous le laissez aller seul Arimant ?
@@ -1561,7 +1561,7 @@ Il a quelque querelle, et vous auriez du blasme
 De le quitter ainsi.
 
 -*who_arimant
-Je croy qu'il va, Madame,
+      Je croy qu'il va, Madame,
 Respondre à ce pacquet qu'il vient de recevoir,
 Vous n'avez pas sujet d'ainsi vous esmouvoir,
 Sur une foible peur peut-estre mal fondée.
@@ -1603,7 +1603,7 @@ Je vay vous delivrer d'un fascheux entretien.
 Je prends congé de vous.
 
 -*who_flore
-Je suis vostre servante.
+      Je suis vostre servante.
 
 -*who_arimant
 Elle brusle d'amour la chose est evidente,
@@ -1611,7 +1611,7 @@ Je cognois bien qu'Acaste est maistre de son cœur,
 Mais il est mon amy je n'en ay point de peur
 Et puis il ayme trop sa chere Dorotée.
 
-**** *book_ *id_body-5-7 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-507 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Je l'ay toujours suivie, et ne l'ay point quittée
@@ -1630,7 +1630,7 @@ Qu'en effet ce ne soit qu'une seule des deux.
 Mais que voulez-vous faire ?
 
 -*who_acaste
-Attendre à cette porte,
+      Attendre à cette porte,
 Car enfin tost ou tard il faudra qu'elle sorte.
 Mais je croy qu'il vaut mieux entrer dans la maison
 Pour obliger cét homme à luy faire raison
@@ -1648,15 +1648,15 @@ Ce qu'elle veut ravoir, ne perdons point de temps,
 Va frappe.
 
 -*who_philipin
-Vous avez je croy perdu le sens.
+      Vous avez je croy perdu le sens.
 Parlez vous tout de bon, Monsieur ?
 
 -*who_acaste
-Frappe, te dis-je.
+      Frappe, te dis-je.
 Je parle tout de bon.
 
 -*who_philipin
-Encor qui vous oblige
+      Encor qui vous oblige
 A cette extravagance ? Ah Monsieur avons-nous
 Le moyen de pouvoir resister à leurs coups ?
 Quelle force avons-nous pour oser l'entreprendre ?
@@ -1666,13 +1666,13 @@ Et nous assommeront, Monsieur, pensez-y bien.
 -*who_acaste
 Va tu n'es qu'un maraut⁎, je ne redoute rien.
 
-**** *book_ *id_body-5-8 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-508 *act_ *date_1647 *creator_ouville
 
 -*who_pamphile
 Que voulez-vous, Monsieur ?
 
 -*who_acaste
-Tout à l'heure mon pere
+      Tout à l'heure mon pere
 Vient d'entrer là dedans certaine perruquiere
 Qui va coiffer en ville, et qui vend que je croy
 Quelques hardes⁎ d'atour, de grace obligez⁎ moy
@@ -1681,7 +1681,7 @@ Des hardes⁎ que tanstot elle m'a fait entendre
 Qu'on luy retient ceans⁎. Autrement
 
 -*who_philipin
-Autrement
+      Autrement
 Nous nous retirerons Monsieur asseurément.
 
 -*who_pamphile
@@ -1709,20 +1709,20 @@ Femme depuis trois ans d'un brave et galand homme
 Maistre d'hostel du Roy.
 
 -*who_acaste
-Comment est-ce qu'on la nomme ?
+      Comment est-ce qu'on la nomme ?
 
 -*who_pamphile
 Son nom est Angelique.
 
 -*who_acaste
-Ah ! j'ay les sens confus.
+      Ah ! j'ay les sens confus.
 Et je suis interdit si jamais je le fus.
 
 -*who_pamphile
 Il est tres-vray, Monsieur,
 
 -*who_acaste
-Encor que je vous croye,
+      Encor que je vous croye,
 Je sçais qu'elle est ceans⁎, faites que je la voye
 Mon amy je vous prie, ou bien je me resous.
 
@@ -1730,14 +1730,14 @@ Mon amy je vous prie, ou bien je me resous.
 Ne me croyez-vous point ?
 
 -*who_philipin
-Pourquoy contestez-vous ?
+      Pourquoy contestez-vous ?
 Monsieur le voudroit-il soustenir de la sorte.
 
 -*who_acaste
 Entrons et visitons un peu cette autre porte.
 Fin du troisième Acte
 
-**** *book_ *id_body-6-1 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-601 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
 Quel est vostre dessein ? pourquoy revenez-vous
@@ -1748,7 +1748,7 @@ Ils nous pourront frotter asseurément, Monsieur,
 Il est fort résolu.
 
 -*who_acaste
-Quoy maraut⁎, as-tu peur ?
+      Quoy maraut⁎, as-tu peur ?
 
 -*who_philipin
 Non je n'ay point de peur, mais cette diligence⁎
@@ -1770,13 +1770,13 @@ Si mon soubçon est faux, ou s'il est veritable.
 Va frappe à cette porte.
 
 -*who_philipin
-Ah Monsieur tout de bon ?
+      Ah Monsieur tout de bon ?
 Gardons-nous, ce Vieillard est un mauvais garçon,
 Il nous lorgnoit tanstot d'une estrange posture,
 Et nous mangeoit des yeux, c'est une chose seure,
 Qu'il bande son fuzil, et s'arme là dedans
 
-**** *book_ *id_body-6-2 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-602 *act_ *date_1647 *creator_ouville
 
 -*who_dorotee
 Que voulez-vous, Monsieur ? que cherchez-vous ceans⁎ ?
@@ -1800,7 +1800,7 @@ Nous avons la berluë, et nous n'avons rien veu.
 Vous ne respondez point ?
 
 -*who_pamphile
-Ce Cavalier a creu
+      Ce Cavalier a creu
 Qu'il est entré chez vous une certaine fille
 Qui coiffe proprement, et qu'il trouve gentille.
 Il faudroit bien nous mettre au rang des innocens,
@@ -1813,7 +1813,7 @@ Et que depuis trois ans vous avez pour espoux
 Un officier du Roy ?
 
 -*who_dorotee
-De quoy vous meslez-vous ?
+      De quoy vous meslez-vous ?
 Et qui vous fait, Monsieur, informer de ma vie ?
 D'où vous vient cette humeur ? d'où vous naist cette envie ?
 
@@ -1850,7 +1850,7 @@ Vous pouvez autrement tesmoigner vostre flame⁎,
 Que par ces actions publiques.
 
 -*who_acaste
-Moy, Madame ?
+      Moy, Madame ?
 
 -*who_philipin
 C'est à ce coup grands Dieux que je perds tous les sens.
@@ -1880,7 +1880,7 @@ Que mon mary ne vienne, et ne vous trouve icy.
 Cecy vous doit suffire.
 
 -*who_acaste
-Hé quoy ! ma chere Dame,
+      Hé quoy ! ma chere Dame,
 Elle part, et me laisse un grand trouble⁎ dans l'ame,
 
 -*who_dorotee
@@ -1914,11 +1914,11 @@ Et je suis tres-certain qu'aucune toutesfois
 De ces deux là ne l'est.
 
 -*who_philipin
-Ainsi c'en sont donc trois
+      Ainsi c'en sont donc trois
 Pour une Dorotée.
 
 -*who_acaste
-Ouy Philipin, et semble
+      Ouy Philipin, et semble
 Que pour troubler mes sens le destin les assemble.
 
 -*who_philipin
@@ -1967,13 +1967,13 @@ Et vous inspire bien ce que vous devez faire.
 M'en blasme qui voudra le sort en est jetté,
 Adorons cette rare et charmante beauté.
 
-**** *book_ *id_body-6-3 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-603 *act_ *date_1647 *creator_ouville
 
 -*who_dorotee
 Tu l'as veu, Leonor ?
 
 -*who_leonor
-Je ne vous sçaurois dire
+      Je ne vous sçaurois dire
 Combien pour vos beautez ce pauvre amant souspire,
 J'ay veu dedans ses yeux plus à clair que le jour,
 Que pour vostre sujet il brusle et meurt d'amour,
@@ -2068,7 +2068,7 @@ Quand je devrois perir, j'esclairciray fort bien
 Ce soubçon aujourd'hui.
 
 -*who_leonor
-Que pretendez-vous faire ?
+      Que pretendez-vous faire ?
 
 -*who_dorotee
 Ma fille, absolument je me veux satisfaire,
@@ -2091,7 +2091,7 @@ A cause qu'elle croit que tout homme est trompeur.
 Ce remede est certain.
 
 -*who_dorotee
-Pour croistre son ombrage,
+      Pour croistre son ombrage,
 Je luy veux peindre Acaste et menteur et volage.
 Je connoistray par là s'il est vray qu'elle en tient,
 Et verray si l'on butte à ce qui m'appartient.
@@ -2156,7 +2156,7 @@ Vous le faictes, Madame, aujourd'hui bien paroistre.
 Tu le verras tanstot, et c'est ce que l'Amour
 M'a depuis que j'y suis apris en cette Cour.
 
-**** *book_ *id_body-6-4 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-604 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Quelle confusion est pareille à la mienne ?
@@ -2177,25 +2177,25 @@ Elle se mocquera de vous asseurément.
 Nous le verrons.
 
 -*who_philipin
-Que trop.
+      Que trop.
 
 -*who_acaste
-Mais je vois Arimant.
+      Mais je vois Arimant.
 
-**** *book_ *id_body-6-5 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-605 *act_ *date_1647 *creator_ouville
 
 -*who_arimant
 Quoy si pres du logis je vous trouve en la ruë ?
 Sans entrer ?
 
 -*who_acaste
-J'attendois icy vostre venuë.
+      J'attendois icy vostre venuë.
 
 -*who_arimant
 Pourquoi ?
 
 -*who_acaste
-Je ne doy pas, et n'aurois pas raison
+      Je ne doy pas, et n'aurois pas raison
 D'entrer seul et sans vous dedans cette maison,
 Car cette liberté vous feroit prejudice,
 Croyez que si j'y viens c'est pour vostre service.
@@ -2240,14 +2240,14 @@ Entrez je vous rejoins, j'en donne ma parole.
 Je n'ose, allez escrire, Acaste, et cependant
 Je me promeneray seul en vous attendant.
 
-**** *book_ *id_body-6-6 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-606 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Je n'ay jamais ouy parler de cette femme.
 Helene, me dis-tu de Peralte ?
 
 -*who_beatrix
-Ouy, Madame,
+      Ouy, Madame,
 A ce que dit son homme elle s'appelle ainsi.
 
 -*who_flore
@@ -2255,7 +2255,7 @@ Je ne la cognoy point, et je suis en soucy
 Beatrix, quelle elle est.
 
 -*who_beatrix
-Madame elle est tres-belle.
+      Madame elle est tres-belle.
 
 -*who_flore
 Enfin, dy luy qu'elle entre, allons au devant d'elle.
@@ -2279,7 +2279,7 @@ Ou mon œil m'a trompée, ou sans mentir je croy
 Vous avoir veüe ailleurs.
 
 -*who_dorotee
-Madame excusez-moy,
+      Madame excusez-moy,
 Cela ne peut pas estre. Il faut que je vous die
 Le sujet qui me fait paroistre si hardie,
 D'oser si librement venir vous visiter,
@@ -2368,14 +2368,14 @@ Madame excusez-moy d'avoir si mal jugé
 Ah ! le lasche.
 
 -*who_dorotee
-Je sors et prens de vous congé,
+      Je sors et prens de vous congé,
 Je pensois vous servir, et je vous mescontente.
 
 -*who_flore
 Madame excusez-moy je suis vostre servante.
 Fin du quatriesme acte.
 
-**** *book_ *id_body-7-1 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-701 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Resvez-je point icy ? suis-je bien éveillée ?
@@ -2399,7 +2399,7 @@ Le volage, l'ingrat, le perfide, le traistre,
 Dissimulons mon cœur, mais non je ne le puis,
 Faisons voir quel il est, et montrons qui je suis.
 
-**** *book_ *id_body-7-2 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-702 *act_ *date_1647 *creator_ouville
 
 -*who_flore
 Acaste est-il bien vray ce que je viens d'entendre ?
@@ -2408,7 +2408,7 @@ Acaste est-il bien vray ce que je viens d'entendre ?
 Quoy, Madame ?
 
 -*who_flore
-Je viens presentement⁎ d'apprendre
+      Je viens presentement⁎ d'apprendre
 Vos rares qualitez, s'il est vray ce qu'on dit
 Vous avez pres de moy perdu vostre credit.
 Ne vous montrez jamais à mes yeux je vous prie.
@@ -2417,7 +2417,7 @@ Ne vous montrez jamais à mes yeux je vous prie.
 Encor pour quel sujet ?
 
 -*who_flore
-Dieux quelle effronterie
+      Dieux quelle effronterie
 Le diray-je en un mot, il pretend vous oster
 Tout sujet desormais de vous pouvoir vanter,
 Comme vous avez fait publiquement que Flore
@@ -2428,7 +2428,7 @@ Dieux qui peut exciter ainsi vostre courroux !
 Que dites-vous Madame ?
 
 -*who_flore
-Acaste taisez-vous,
+      Acaste taisez-vous,
 Ce que je dis est vray j'en suis bien informée,
 Et c'est avec raison que je suis animée.
 
@@ -2451,12 +2451,12 @@ Helene de Peralte, elle s'appelle ainsi,
 La cognoissez-vous pas ?
 
 -*who_acaste
-Ah Dieux ! qu'entens-je icy ?
+      Ah Dieux ! qu'entens-je icy ?
 Madame asseurez-vous que c'est une imposture,
 Et que je ne cognois.
 
 -*who_arimant
-Amy je vous conjure
+      Amy je vous conjure
 D'admirer franchement tout ce que Flore dit,
 Que vous importe-t'il de perdre tout credit,
 Si vous ne l'aymez point ? que vous importe encore
@@ -2469,7 +2469,7 @@ Quoy pour l'amour de vous, faut-il que je confesse,
 Que j'ay le cœur si bas.
 
 -*who_arimant
-Ce n'est que gentillesse.
+      Ce n'est que gentillesse.
 Je ferois plus pour vous et n'espargnerois rien.
 
 -*who_flore
@@ -2479,7 +2479,7 @@ Par la fidelité que vous m'avez jurée
 Que vous me direz vray.
 
 -*who_arimant
-Craignez-vous de parler
+      Craignez-vous de parler
 Que vous sert, cher amy, je me voulois contraindre,
 Mais si vous sçavez tout, que serviroit de feindre ?
 Quoy qu'en le confessant je demeure interdit.
@@ -2490,7 +2490,7 @@ Vous confessez d'aimer la petite Isabelle,
 La Coifeuse à la Mode ?
 
 -*who_acaste
-Ouy je brusle pour elle.
+      Ouy je brusle pour elle.
 Elle a tant de beauté, tant de grace, et d'appas,
 Que je ne sçaurois vivre, et ne l'adorer pas.
 
@@ -2498,7 +2498,7 @@ Que je ne sçaurois vivre, et ne l'adorer pas.
 Vous aymez Angelique aussi.
 
 -*who_acaste
-Je le confesse
+      Je le confesse
 
 -*who_flore
 Mais quel cas faites-vous de cette autre maistresse
@@ -2506,18 +2506,18 @@ Qui se tient à Lyon, qu'on nomme, que je croy,
 La belle Dorotée ?
 
 -*who_acaste
-Autant que je le doy.
+      Autant que je le doy.
 J'estime Dorotée.
 
 -*who_flore
-Et bien, que vous en semble ?
+      Et bien, que vous en semble ?
 Vous me confessez donc d'en aymer trois ensemble ?
 
 -*who_acaste
 Ouy, Madame, il est vray.
 
 -*who_flore
-J'admire en verité
+      J'admire en verité
 Ces marques de confiance et de fidelité.
 Vous aymez l'autre aussi que je vous ay nommée
 Helene De Peralte ; ah ! c'est la mieux aymée,
@@ -2541,7 +2541,7 @@ Que je vous quitte, adieu, je vous cede la place.
 -*who_acaste
 Nous n'avons pas dessein de vous incommoder.
 
-**** *book_ *id_body-7-3 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-703 *act_ *date_1647 *creator_ouville
 
 -*who_acaste
 Mais encore sur quoy se veut-elle fonder ?
@@ -2573,24 +2573,24 @@ Qu'il me semble la voir elle-mesme, et soubçonne
 Que toutes trois ne sont qu'une mesme personne.
 Ouy les trois ne sont qu'une, ou j'ay perdu l'esprit.
 
-**** *book_ *id_body-7-4 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-704 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
 J'ay des lettres, Monsieur,
 
 -*who_acaste
-Quoy Dorotée escrit ?
+      Quoy Dorotée escrit ?
 
 -*who_philipin
 Ouy voilà deux pacquets.
 
 -*who_acaste
-Ah ! l'heureuse nouvelle,
+      Ah ! l'heureuse nouvelle,
 Je me trompe Arimant, non, non, ce n'est point elle.
 Dieux ! quelle vision avois-je !
 
 -*who_arimant
-Encor pourquoi ?
+      Encor pourquoi ?
 
 -*who_acaste
 Il n'est rien de plus clair Arimant, car je voy
@@ -2629,7 +2629,7 @@ Vostre tres-humble et fidelle serviteur, CLITE.
 Et bien qu'en dites-vous ?
 
 -*who_acaste
-Amy je le confesse,
+      Amy je le confesse,
 J'ay creu bien follement d'avoir veu ma maistresse.
 
 -*who_arimant
@@ -2641,7 +2641,7 @@ Comme vous sousteniez, qu'elle soit dans Paris,
 Sous des noms desguisez.
 
 -*who_philipin
-Ah ! Monsieur, je m'en ris.
+      Ah ! Monsieur, je m'en ris.
 On ne peut sans avoir la cervelle blessée,
 Loger dans son esprit cette sale pensée
 Qu'une fille d'honneur, et de condition
@@ -2677,11 +2677,11 @@ Va t'en droit à la poste, et retien pour demain
 Trois Cheveaux entens-tu ?
 
 -*who_arimant
-Vous avez donc dessein
+      Vous avez donc dessein
 De nous quitter si tost ?
 
 -*who_acaste
-Cher amy je vous prie
+      Cher amy je vous prie
 Ne me retenez pas, il y va de ma vie,
 Puisque l'on veut ainsi destruire mon amour.
 Vois-tu je veux partir dés la pointe du jour,
@@ -2689,22 +2689,22 @@ Vois-tu je veux partir dés la pointe du jour,
 -*who_philipin
 Bien j'y cours de ce pas.
 
-**** *book_ *id_body-7-5 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-705 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
-Monsieur bonne nouvelle,
+      Monsieur bonne nouvelle,
 Leonor est icy.
 
 -*who_acaste
-Que dit mon Isabelle,
+      Que dit mon Isabelle,
 Leonor respons-moy.
 
 -*who_leonor
-Je vous l'ameine icy.
+      Je vous l'ameine icy.
 Tiens-je pas ma parole ?
 
 -*who_dorotee
-Ouy, Monsieur, la voicy.
+      Ouy, Monsieur, la voicy.
 
 -*who_acaste
 Je vous suis obligé d'une faveur si grande.
@@ -2745,7 +2745,7 @@ Arimant, cette fille est de l'humeur de Flore.
 Pleust au Ciel qu'il fust vray.
 
 -*who_acaste
-Ma fille je t'adore,
+      Ma fille je t'adore,
 Je meurs d'amour pour toy, n'en doute nullement.
 
 -*who_dorotee
@@ -2756,19 +2756,19 @@ Femme depuis trois ans d'un officier du Roy.
 N'est-il pas vray, Monsieur ?
 
 -*who_acaste
-Que je suis hors de moy.
+      Que je suis hors de moy.
 Qui t'a fait ce discours ?
 
 -*who_dorotee
-La chose est tres certaine
+      La chose est tres certaine
 Je le sçay d'une Dame.
 
 -*who_acaste
-Et qui s'appelle Helene
+      Et qui s'appelle Helene
 De Peralte sans doute.
 
 -*who_dorotee
-Ouy, l'on la nomme ainsi.
+      Ouy, l'on la nomme ainsi.
 
 -*who_acaste
 Quoy justes Dieux, faut-il que l'on me jouë icy,
@@ -2777,7 +2777,7 @@ D'aller en chaque lieu s'informer de ma vie ?
 Si je la cognoissois je luy ferois sentir,
 
 -*who_dorotee
-Quoy ?
+      Quoy ?
 
 -*who_acaste
 Que qui me jourra s'en pourra repentir.
@@ -2786,26 +2786,26 @@ En fin c'est un peu trop la colere m'emporte.
 -*who_dorotee
 Vrayment elle a grand tort d'en user de la sorte.
 
-**** *book_ *id_body-7-6 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-706 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
 Les cheveaux seront prests, et vous pourrez sortir
 Dès la pointe du jour.
 
 -*who_dorotee
-Qui veut doncques partir ?
+      Qui veut doncques partir ?
 Sit tost de cette ville ?
 
 -*who_arimant
-Acaste.
+      Acaste.
 
 -*who_dorotee
-Ah je vous prie
+      Ah je vous prie
 Espargnez-moy Monsieur, tresve de raillerie ;
 Cela ne peut pas estre.
 
 -*who_acaste
-Ah ma fille, il est vray,
+      Ah ma fille, il est vray,
 Je ne puis exprimer le regret que j'en ay,
 Croy que j'y suis forcé, la chose est importante,
 
@@ -2837,32 +2837,32 @@ La perdre en te perdant, tant elle te ressemble.
 -*who_dorotee
 Courage, tout va bien.
 
-**** *book_ *id_body-7-7 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-707 *act_ *date_1647 *creator_ouville
 
 -*who_philipin
-Un certain homme en bas
+      Un certain homme en bas
 Vous demande.
 
 -*who_acaste
-Son nom.
+      Son nom.
 
 -*who_philipin
-Je ne le cognoy pas,
+      Je ne le cognoy pas,
 Mais je pense pourtant avoir veu son visage,
 Il vient à ce qu'il dit vous porter un message
 D'une Dame qu'il sert.
 
 -*who_acaste
-Qu'il entre promptement.
+      Qu'il entre promptement.
 
-**** *book_ *id_body-7-8 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-708 *act_ *date_1647 *creator_ouville
 
 -*who_pamphile
 Monsieur, je viens icy par le commandement
 De Madame Angelique.
 
 -*who_dorotee
-Achevez, que dit-elle ?
+      Achevez, que dit-elle ?
 
 -*who_pamphile
 Que son mary s'en va demain à la Rochelle.
@@ -2871,12 +2871,12 @@ Que son mary s'en va demain à la Rochelle.
 Que nous importe-t'il ?
 
 -*who_pamphile
-Et vous pourrez avoir,
+      Et vous pourrez avoir,
 Monsieur, n'y estant plus le moyen de la voir,
 Si vous le desirez,
 
 -*who_dorotee
-Dites-luy je vous prie
+      Dites-luy je vous prie
 Qu'estant avecque moy, c'est une raillerie
 De penser qu'il me quitte, et luy dites aussi,
 Que demain au matin Acaste part d'icy
@@ -2884,34 +2884,34 @@ Pour aller à Lyon voir un certain visage
 Dont il est amoureux.
 
 -*who_pamphile
-Je feray le message,
+      Je feray le message,
 Adieu Monsieur.
 
 -*who_acaste
-Atten Isabelle croy moy
+      Atten Isabelle croy moy
 Que cette Angelique est toute telle que toy :
 Et que ma Dorotée.
 
 -*who_dorotee
-Oh la plaisante histoire,
+      Oh la plaisante histoire,
 Vous imaginez-vous que je vous aille croire ?
 
 -*who_philipin
 Flore entre, Monsieur,
 
 -*who_acaste
-Flore ?
+      Flore ?
 
 -*who_philipin
-Ouy Flore asseurément.
+      Ouy Flore asseurément.
 
 -*who_dorotee
 Encor une autre ?
 
 -*who_acaste
-Elle est maistresse d'Arimant.
+      Elle est maistresse d'Arimant.
 
-**** *book_ *id_body-7-9 *act_ *date_1647 *creator_ouville
+**** *book_ *id_body-709 *act_ *date_1647 *creator_ouville
 
 -*who_arimant
 Flore icy, justes Dieux! cela ne peut pas estre.
@@ -2953,17 +2953,17 @@ Dès demain au matin me chasse de la Cour.
 Encor, pour quel sujet ?
 
 -*who_acaste
-Une Dame fort belle
+      Une Dame fort belle
 M'attend dedans Lyon.
 
 -*who_flore
-Comment se nomme-t-elle ?
+      Comment se nomme-t-elle ?
 
 -*who_acaste
 Son nom est Dorotée.
 
 -*who_flore
-Encor pour quel suject ?
+      Encor pour quel suject ?
 
 -*who_acaste
 Pour aller espouzer ce ravissant object.
@@ -2973,30 +2973,30 @@ Ce n'est pas le moyen d'appaiser vostre flame⁎,
 Que de partir.
 
 -*who_acaste
-Pourquoy ?
+      Pourquoy ?
 
 -*who_dorotee
-Parce que cette Dame
+      Parce que cette Dame
 N'est plus dans le Convent, ny mesme dans Lyon.
 
 -*who_acaste
 Encor qui te l'a dit ?
 
 -*who_dorotee
-Que vostre passion
+      Que vostre passion
 Vous aveugle l'esprit, comment se peut-il faire
 Que vous ne puissiez pas comprendre ce mistere ?
 Ouvrez les yeux Acaste, et voyez qui je suis.
 Vous desabusez-vous ?
 
 -*who_acaste
-Helas je ne le puis.
+      Helas je ne le puis.
 
 -*who_dorotee
 Quoy voyant Dorotée ?
 
 -*who_acaste
-Ah ! je crains ta malice !
+      Ah ! je crains ta malice !
 Si tu crois m'arrester avec cét artifice,
 Tu n'y feras que perdre, et ta peine⁎, et ton temps,
 Penses-tu m'ébloüir et surprendre mes sens ?
@@ -3006,7 +3006,7 @@ Escrite du Convent où je puis m'asseurer
 Qu'elle demeure encor.
 
 -*who_dorotee
-En voudriez vous jurer?
+      En voudriez vous jurer?
 Pour vous desabuser en faut-il davantage 
 Que de vous faire voir les traits de mon visage ?
 
@@ -3042,7 +3042,7 @@ Que l'Amour me procure, et que le Ciel m'envoye,
 Amy je suis ravy⁎.
 
 -*who_arimant
-Encor pour quel suject ?
+      Encor pour quel suject ?
 
 -*who_acaste
 Cher Amy, vous voyez, en ce charmant object,
@@ -3056,7 +3056,7 @@ En un mot, cher Amy, voilà ma Dorothée.
 Est-il possible ô Dieux !
 
 -*who_acaste
-J'ay l'ame transportée
+      J'ay l'ame transportée
 D'un plaisir si parfait, et d'un heur⁎ si charmant
 Que je crains de mourir dans ce ravissement⁎.
 
@@ -3067,7 +3067,7 @@ Cet heur⁎ inesperé surpassoit notre attente.
 Madame excusez-moy.
 
 -*who_dorotee
-Je suis vostre servante.
+      Je suis vostre servante.
 
 -*who_acaste
 Tresve de compliments puis que je reconnoy
@@ -3078,13 +3078,13 @@ Madame mettons fin à ce double Hymenée.
 C'est ce que je souhaite.
 
 -*who_arimant
-Ah ! l'heureuse journée.
+      Ah ! l'heureuse journée.
 
 -*who_philipin
 Et moy m'oublie-t'on ?
 
 -*who_dorotee
-Non, Pauline est à toy,
+      Non, Pauline est à toy,
 Je la feray venir tanstot, elle est chez moy,
 Qui te garde la foy qu'elle t'avoit promise.
 

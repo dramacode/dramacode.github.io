@@ -1,0 +1,617 @@
+
+
+**** *book_ *id_body-2 *date_1671 *creator_moliere
+
+PROLOGUE.
+
+-*who_flore
+Ce n'est plus le temps de la Guerre ;
+Le plus puissant des Rois
+Interrompt ses Exploits
+Pour donner la Paix à la Terre :
+Descendez, Mère des Amours,
+Venez nous donner de beaux jours.
+
+-*who_choeur_des_divinites
+Nous goûtons une Paix profonde ;
+Les plus doux Jeux sont ici bas ;
+On doit ce repos plein d'appas
+Au plus grand ROI du Monde :
+Venez nous donner de beaux jours.
+
+-*who_vertumne
+Rendez-vous, Beautés cruelles,
+Soupirez à votre tour :
+
+-*who_palemon
+Voici la Reine des Belles
+Qui vient inspirer l'amour.
+
+-*who_vertumne
+Un bel Objet toujours sévère
+Ne se fait jamais bien aimer.
+
+-*who_palemon
+C'est la beauté qui commence de plaire,
+Mais la douceur achève de charmer.
+
+-*who_palemon_vertumne
+C'est la beauté qui commence de plaire,
+Mais la douceur achève de charmer.
+
+-*who_vertumne
+Souffrons tous qu'Amour nous blesse ;
+Languissons, puisqu'il le faut ;
+
+-*who_palemon
+Que sert un cœur sans tendresse ;
+Est-il un plus grand défaut ?
+
+-*who_vertumne
+Un bel Objet toujours sévère
+Ne se fait jamais bien aimer.
+
+-*who_palemon
+C'est la beauté qui commence de plaire,
+Mais la prudence achève de charmer.
+
+-*who_flore
+Est-on sage
+Dans le bel âge ?
+Est-on sage
+De n'aimer pas ?
+Que sans cesse
+L'on se presse
+De goûter les plaisirs ici bas ;
+La sagesse
+De la jeunesse
+C'est de savoir jouir de ses appas.
+L'Amour charme
+Ceux qu'il désarme,
+L'Amour charme,
+Cédons lui tous :
+Notre peine
+Serait vaine
+De vouloir résister à ses coups :
+Quelque chaîne
+Qu'un Amant prenne,
+La Liberté n'a rien qui soit si doux.
+
+-*who_choeur_des_divinites
+Nous Goûtons une Paix profonde ;
+Les plus doux Jeux sont ici bas ;
+On doit ce repos plein d'appas
+Au plus grand ROI du Monde.
+Descendez Mère des Amours,
+Venez nous donner de beaux Jours.
+
+**** *book_ *id_body-4 *date_1671 *creator_moliere
+
+ARGUMENT DU PREMIER ACTE.
+
+SCÈNE PREMIÈRE.
+
+Les deux Sœurs de Psyché expriment la jalousie qu'elles ont contre leur Cadette.
+
+SCÈNE SECONDE.
+
+Elles veulent se rendre agréable à Cléomène, et à Agénor, deux jeunes Princes Amis ; mais elles les découvrent l'un et l'autre amoureux de Psyché.
+
+SCÈNE TROISIÈME.
+
+Les deux Princes déclarent leur amour à Psyché.
+
+SCÈNE QUATRIÈME.
+
+Lycas avec douleur vient chercher Psyché de la part du Roi son Père.
+
+SCÈNE CINQUIÈME.
+
+Les deux Sœurs apprennent de Lycas la réponse funeste que l'Oracle a rendue au Roi sur la destinée de Psyché.
+
+**** *book_ *id_body-5 *date_1671 *creator_moliere
+
+PREMIER INTERMÈDE.
+
+-*who_mademoiselle_hylaire
+Deh piagete al pianto mio
+Sassi duri, antiche selve,
+Lagrimate fonti, e belve
+D'un bel volto il fato rio.
+
+-*who_m_langeais
+Ahi dolore !
+
+-*who_m_morel
+Ahi martire !
+
+-*who_m_langeais
+Cruda morte !
+
+-*who_m_morel
+Empia morte !
+
+-*who_mademoiselle_hylaire_m_langeais_m_morel
+Che condanni à morir tanto beltà.
+Cieli, stelle, ahi crudeltà.
+
+-*who_mademoiselle_hylaire
+Mêlez vos pleurs avec mes larmes,
+Durs Rochers, froides Eaux, et vous Tigres affreux,
+Pleurez le destin rigoureux
+D'un Objet dont le crime est d'avoir trop de charmes.
+
+-*who_m_langeais
+Ô Dieux ! quelle douleur !
+
+-*who_m_morel
+Ah ! quel malheur !
+
+-*who_m_langeais
+Rigueur mortelle !
+
+-*who_m_morel
+Fatalité cruelle !
+
+-*who_mademoiselle_hylaire_m_langeais_m_morel
+Faut-il, hélas !
+Qu'un Sort barbare
+Puisse condamner au trépas
+Une Beauté si rare !
+Cieux ! Astres pleins de dureté !
+Ah ! quelle cruauté !
+
+-*who_mademoiselle_hylaire
+Rispondete à miei lamenti
+Antri cavi, ascose rupi,
+Deh ridite fondi cupi
+Del mio duolo i mesti accenti.
+
+-*who_m_langeais
+Ahi dolore, etc.
+
+-*who_m_morel
+Com'esser può fra voi, ò Numi eterni,
+Chi volgia estinta una beltà innocente,
+Ahi che tanto rigor, Cielo inclemente,
+Vince di crudeltà gli stessi inferni.
+
+-*who_m_langeais
+Nume fiero.
+
+-*who_m_morel
+Dio severo.
+
+-*who_m_langeais_m_morel
+Perche tanto rigor
+Contro innocente cor.
+Ahi sentenza inudita,
+Dar morte à la Beltà, ch'altrui da vita.
+
+-*who_mademoiselle_hylaire
+Répondez à ma plainte, Échos de ces Bocages,
+Qu'un bruit lugubre éclate au fond de ces Forêts :
+Que les Antres profonds, les Cavernes sauvages,
+Répètent les accents de mes tristes regrets.
+
+-*who_m_langeais
+Ô Dieux quelle douleur ! etc.
+
+-*who_m_morel
+Que de Vous, ô grands Dieux ! avec tant de furie,
+Veut détruire tant de Beauté ?
+Impitoyable Ciel ! par cette barbarie
+Voulez-vous surmonter l'Enfer en cruauté ?
+
+-*who_m_langeais
+Dieu plein de haine !
+
+-*who_m_morel
+Divinité trop inhumaine !
+
+-*who_mademoiselle_hylaire_m_langeais_m_morel
+Pourquoi ce courroux si puissant
+Contre un Cœur innocent ?
+Ô rigueur inouïe !
+Trancher de si beaux Jours !
+Lorsqu'ils donnent la vie
+À tant d'Amours !
+
+-*who_mademoiselle_hylaire
+Ahi ch'indarno si tarda,
+Non resiste a li Dei, mortale affetto,
+Alto impero ne sforza,
+Ove commanda il Ciel, l'Uom cede à forza.
+
+-*who_mademoiselle_hylaire
+Que c'est un vain secours, contre un mal sans remède,
+Que d'inutiles pleurs, et des cris superflus !
+Quand le Ciel a donné des Ordres absolus,
+Il faut que l'effort humain cède.
+
+**** *book_ *id_body-6 *date_1671 *creator_moliere
+
+ARGUMENT DU IIe ACTE.
+
+SCÈNE PREMIÈRE.
+
+Le Père de Psyché fait éclater sa douleur, et lui dit le dernier adieu.
+
+SCÈNE SECONDE.
+
+Les deux Sœurs prennent aussi congé de Psyché.
+
+SCÈNE TROISIÈME.
+
+Les deux Princes viennent trouver Psyché pour s'opposer ou s'exposer à tous les périls qui la pourront menacer. en marge : Enlèvement de Psyché.
+Elle est enfin enlevée par le Zéphire, qui la fait emporter sur un amas de nuages par un Tourbillon de vent.
+Les deux Princes qui la perdent de vue s'abandonnent au désespoir.
+
+**** *book_ *id_body-7 *date_1671 *creator_moliere
+
+SECOND INTERMÈDE.
+
+-*who_vulcain
+
+Dépêchez, préparez ces Lieux,
+Pour le plus aimable des Dieux :
+Que chacun pour lui s'intéresse,
+N'oubliez rien des soins qu'il faut ;
+Quand l'Amour presse
+On n'a jamais fait assez tôt.
+
+Servez bien un Dieu si charmant,
+Il se plaît dans l'empressement :
+Que chacun pour lui s'intéresse,
+N'oubliez rien des soins qu'il faut ;
+Quand l'Amour presse
+On n'a jamais fait assez tôt.
+L'Amour ne veut point qu'on diffère,
+Travaillez, hâtez-vous,
+Frappez, redoublez vos coups ;
+Que l'ardeur de lui plaire
+Fasse vos soins les plus doux.
+
+**** *book_ *id_body-8 *date_1671 *creator_moliere
+
+ARGUMENT DU IIIe ACTE.
+
+SCÈNE PREMIÈRE.
+
+Le Zéphire, Confident de l'Amour, lui rend compte de la commission qu'il a eue d'enlever Psyché.
+
+SCÈNE SECONDE.
+
+Psyché témoigne son étonnement à la vue de ce superbe Palais, qui s'accorde si mal avec ce qu'elle attend.
+
+SCÈNE TROISIÈME.
+
+L'Amour, sans se faire connaître, lui découvre sa passion que Psyché reçoit favorablement.
+Elle lui demande à voir ses Sœurs, l'Amour lui promet de les faire venir, et en donne l'ordre au Zéphire, qui traverse en l'air tout le Théâtre, et s'envole dans les Nuages par un mouvement rapide.
+
+**** *book_ *id_body-9 *date_1671 *creator_moliere
+
+TROISIÈME INTERMÈDE.
+
+-*who_zephir
+Aimable Jeunesse,
+Suivez la Tendresse,
+Joignez aux beaux Jours
+La douceur des Amours :
+C'est pour Vous surprendre
+Qu'on Vous fait entendre
+Qu'il faut éviter leurs soupirs,
+Et craindre leurs désirs ;
+Laissez-Vous apprendre
+Quels sont leurs plaisirs.
+
+-*who_amour1_amour2
+Chacun est obligé d'aimer
+À son tour,
+Et plus on a de quoi charmer,
+Plus on doit à l'Amour.
+
+-*who_amour1
+Un Amour chante seul.
+Un Cœur jeune et tendre
+Est fait pour se rendre,
+Il n'a point à prendre
+De fâcheux détour.
+
+-*who_amour1_amour2
+Chacun est obligé d'aimer
+À son tour,
+Et plus on a de quoi charmer,
+Plus on doit à l'Amour.
+
+-*who_amour2
+Pourquoi se défendre ?
+Que sert-il d'attendre ?
+Quand on perd un jour,
+On le perd sans retour.
+
+-*who_amour2_amour1
+Chacun est obligé d'aimer
+À son tour,
+Et plus on a de quoi charmer,
+Plus on doit à l'Amour.
+
+-*who_zephir
+L'Amour a des charmes,
+Rendons lui les armes :
+Ses soins et ses pleurs
+Ne sont pas sans douceurs :
+Un Cœur pour le suivre
+À cent maux se livre,
+Il faut pour goûter ses appas
+Languir jusqu'au trépas,
+Mais c'est ne pas vivre
+Que de n'aimer pas.
+
+-*who_amour1_amour2
+S'il faut des soins, et des travaux,
+En aimant,
+On est payé de mille maux
+Par un heureux moment.
+
+-*who_amour1
+On craint, on espère,
+Il faut du mystère ;
+Mais on n'obtient guère
+De bien sans tourment.
+
+-*who_amour1_amour2
+S'il faut des soins, et des travaux,
+En aimant,
+On est payé de milleux maux
+Par un heureux moment.
+
+-*who_amour2
+Que peut-on mieux faire
+Qu'aimer et que plaire ?
+C'est un soin charmant
+Que l'emploi d'un Amant.
+
+-*who_amour1_amour2
+S'il faut des soins, et des travaux,
+En aimant,
+On est payé de mille maux
+Par un heureux moment.
+
+**** *book_ *id_body-10 *date_1671 *creator_moliere
+
+ARGUMENT DU IVe ACTE.
+
+SCÈNE PREMIÈRE.
+
+Les deux Sœurs de Psyché s'étonnent à la vue de toutes les Merveilles qu'elles rencontrent, et la félicité de Psyché redouble leur jalousie contre Elle.
+
+SCÈNE SECONDE.
+
+Elles profitent de la bonne foi de Psyché, et lorsqu'elles s'en doivent séparer, le Zéphire les enlève par un Nuage en globe qui descend du Ciel, et qui s'allonge jusqu'à Terre : en marge : Enlèvement des deux sœurs.
+Ce Nuage enveloppe les deux Sœurs, et s'étant étendu sur toute la largeur du Théâtre, il les emporte avec rapidité.
+
+SCÈNE TROISIÈME.
+
+Psyché malgré la résistance de l'Amour veut savoir ce qu'il en est ; l'Amour lié par un serment est contraint de se découvrir, et part en colère pour retourner au Ciel.
+Dans l'instant qu'il s'envole, le superbe Jardin s'évanouit, et Psyché se trouve en marge : Le Théâtre est une Campagne. seule au milieu d'une vaste Campagne, et sur le bord sauvage d'une grande Rivière.
+
+SCÈNE QUATRIÈME.
+
+Psyché au désespoir du départ de son Amant accuse sa curiosité, et se veut précipiter dans le Fleuve.
+
+SCÈNE CINQUIÈME.
+
+Le Dieu du Fleuve paraît assis sur un amas de Joncs et de Roseaux, et appuyé sur une grande Urne d'où sort une grosse source d'eau.
+Il retient Psyché, et l'avertit que Vénus la cherche.
+
+SCÈNE SIXIÈME.
+
+Vénus fait des reproches à Psyché qui essaie de s'excuser.
+La Déesse irritée lui ordonne de la suivre pour éprouver sa constance.
+
+**** *book_ *id_body-12 *date_1671 *creator_moliere
+
+ARGUMENT DU Ve ACTE.
+
+SCÈNE PREMIÈRE.
+
+Psyché dans une Barque, et après plusieurs travaux, paraît avec la Boite qu'elle a été prendre dans les Enfers par l'ordre de Vénus.
+
+SCÈNE SECONDE.
+
+Elle trouve les Ombres des deux Princes ses Amants, que le désespoir avait fait mourir.
+
+SCÈNE TROISIÈME.
+
+Psyché sans songer au malheur que lui avait produit sa première curiosité, veut essayer sur elle la vertu de ce qu'elle porte dans la Boite, et en l'ouvrant, elle tombe évanouie.
+
+SCÈNE QUATRIÈME.
+
+en marge : Descente de l'Amour.
+L'Amour descend en volant, et vient promptement au secours de Psyché, il la croit morte, et s'abandonne au désespoir.
+
+SCÈNE CINQUIÈME.
+
+Chœur de Vénus.
+Vénus paraît en l'Air sur son Char, et la Mère et le Fils s'emportent l'un contre l'autre.
+
+SCÈNE SIXIÈME.
+
+Jupiter s'avance pour arrêter leurs emportements, en marge : Machine de Jupiter. lorsque Vénus l'aperçoit, elle se retire vers l'un des côtés du Théâtre, Jupiter met enfin d'accord Vénus et son Fils, et commande à l'Amour d'enlever Psyché au Ciel, pour y célébrer leurs Noces.
+
+**** *book_ *id_body-13 *date_1671 *creator_moliere
+
+DERNIER INTERMÈDE.
+
+-*who_apollon
+Unissons-Nous, Troupe immortelle ;
+Le Dieu d'Amour devient heureux Amant,
+Et Vénus a repris sa douceur naturelle
+En faveur d'un Fils si charmant :
+Il va goûter en paix après un long tourment,
+Une félicité qui doit être éternelle.
+
+-*who_choeur_des_divinites
+Célébrons ce grand Jour ;
+Célébrons tous une Fête si belle :
+Que nos Chants en tous lieux en portent la nouvelle ;
+Qu'ils fassent retentir le céleste séjour :
+Chantons, répétons, tour à tour,
+Qu'il n'est point d'Âme si cruelle
+Qui tôt ou tard ne se rende à l'Amour.
+
+-*who_bacchus
+Si quelquefois,
+Suivant nos douces Lois,
+La Raison se perd et s'oublie,
+Ce que le vin nous cause en un jour ;
+Mais quand un Cœur est enivré d'Amour,
+Souvent, c'est pour toute la vie.
+
+-*who_mome
+Je cherche à médire
+Sur la Terre, et dans les Cieux ;
+Je soumets à ma Satire
+Les plus grands des Dieux.
+Il n'est dans l'Univers que l'Amour qui m'étonne,
+Il est le Seul que j'épargne aujourd'hui ;
+Il n'appartient qu'à Lui
+De n'épargner personne.
+
+-*who_mars
+Mes plus fiers Ennemis vaincus ou pleins d'effroi
+Ont vu toujours ma Valeur triomphante
+L'Amour est le Seul qui se vante
+D'avoir pu triompher de Moi.
+
+-*who_choeur_des_divinites
+Chantons les plaisirs charmants
+Des heureux Amants.
+Répondez-nous Trompettes,
+Timbales, et Tambours
+Accordez-nous toujours
+Avec le doux son des Musettes,
+Accordez-vous toujours
+Avec le doux chant des Amours.
+
+-*who_apollon
+
+Le Dieu qui nous engage
+À lui faire la Cour,
+Défend qu'on soit trop sage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage
+Que de finir les soins du Jour ;
+La Nuit est le partage
+Des Jeux, et de l'Amour.
+
+Ce serait grand dommage
+Qu'en ce charmant Séjour
+On eut un Cœur sauvage.
+Les Plaisirs ont eu leur tour,
+C'est leur plus doux usage,
+Que de finir les soins du Jour ;
+La Nuit est le partage
+Des Jeux, et de l'Amour.
+
+-*who_muses
+Gardez-vous, Beautés sévères,
+Les Amours font trop d'affaires,
+Craignez toujours de vous laisser charmer :
+Quand il faut que l'on soupire,
+Tout le mal n'est pas de s'enflammer :
+Le martyre
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+-*who_muses
+On ne peut aimer sans peines,
+Il est peu de douces chaînes,
+À tout moment on se sent alarmer ;
+Quand il faut que l'on soupire,
+Tout le mal n'est pas de s'enflammer ;
+Le martyre
+De le dire.
+Coûte plus cent fois que d'aimer.
+
+-*who_bacchus
+Admirons le Jus de la Treille :
+Qu'il est puissant ! qu'il a d'attraits !
+Il sert aux douceurs de la Paix,
+Et dans la Guerre, il fait merveille :
+Mais surtout pour les Amours,
+Le Vin est d'un grand secours.
+
+-*who_silene
+Bacchus veut qu'on boive à longs traits ;
+On ne se plaint jamais
+Sous son heureux Empire :
+Tout le jour on n'y fait que rire,
+Et la nuit on y dort en paix.
+
+-*who_silene
+Ce Dieu rend nos vœux satisfaits ;
+Que sa Cour a d'attraits !
+Chantons y bien sa gloire :
+Tout le jour on n'y fait que boire,
+Et la nuit on y dort en paix.
+
+-*who_satyre1_satyre2_silene
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fond des Pots.
+
+-*who_satyre1
+Les Grandeurs sont sujettes
+À cent peines secrètes.
+
+-*who_satyre2
+L'Amour fait perdre le repose.
+
+-*who_satyre1_satyre2_silene
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fond des Pots.
+
+-*who_satyre1
+C'est là que sont les Ris, les Jeux, les Chansonnettes.
+
+-*who_satyre2
+C'est dans le Vin qu'on trouve les bons mots.
+
+-*who_satyre1_satyre2_silene
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fonds Pots.
+
+-*who_mome
+Folâtrons, divertissons-Nous,
+Raillons, Nous ne saurions mieux faire,
+La Raillerie est nécessaire
+Dans les Jeux les plus doux.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennui ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux dépens d'autrui.
+Plaisantons, ne pardonnons rien,
+Rions, rien n'est plus à la mode,
+On court péril d'être trop incommode
+En disant trop de bien.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennui ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux dépens d'autrui.
+
+-*who_mars
+Laissons en paix toute la Terre,
+Cherchons de doux Amusements ;
+Parmi les Jeux les plus charmants,
+Mêlons l'image de la Guerre.
+
+-*who_choeur
+Chantons les Plaisirs charmants
+Des heureux Amants :
+Répondez-nous Trompettes,
+Timbales, et Tambours ;
+Accordez-vous toujours
+Avec le doux son des Musettes ;
+Accordez-vous toujours
+Avec le doux chant des Amours.

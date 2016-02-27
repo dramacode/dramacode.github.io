@@ -1,5 +1,5 @@
 ---
-identifier: villedieu_manlius  
+identifier: desjardins_manlius  
 creator: Villedieu, Marie-Catherine de  
 date: 1662  
 title: Manlius. Tragi-comédie  
@@ -635,7 +635,7 @@ DES JARDINS.
  – PHENICE,Suivante d'Omphale.
  – PISON,Licteur [107].
 La Scene est au Camp des Romains [108] devant les Tentes du Consul.
-< MANLIUS    TRAGI-COMEDIE. >
+
 
 
 ## ACTE I.
@@ -658,7 +658,7 @@ Il déguise avec soin la folle passion,
 Sous le masque trompeur de la compassion.  
 Sur ce pretexte adroit secretement Omphale  
 En reçoit mille effets d'une ardeur⁎ sans égale:  
-Pour moy, que les bontez de vostre illustre⁎ Epoux,               
+Pour moy, que les bontez de vostre illustre⁎ Epoux,  
 Jusques [113] à mon trépas attacheront à vous,      
 Et qui dés en naissant appris de ce grand homme,  
 Qu'il faut tout mépriser pour la gloire de Rome,  
@@ -683,7 +683,7 @@ Qui vous peut aujourd'huy rendre si diligente ?
     CAMILLE.
 Une triste moitié du plus grand des Heros  
 Apres l'avoir perdu gouste peu de repos,  
-Le tumulte du camp, les cris, et les alarmes⁎                 
+Le tumulte du camp, les cris, et les alarmes⁎  
 Estant un grand obstacle à mes trop justes larmes,  
 Honteuse de me voir parmy tant de soldats,  
 Et voulant d'un Espoux honorer le trépas,  
@@ -708,7 +708,7 @@ Et que d'une captive il a receu des fers⁎.
 Quoy ? mon fils, mon Rival ?  
 
     CAMILLE.
-            Les affaires⁎ publiques,  
+                    Les affaires⁎ publiques,  
 Doivent-elles bannir vos soucis⁎ domestiques ?  
 Et pour vaincre l'effort⁎ des communs⁎ ennemis,  
 Avez-vous méprisé la conduite d'un fils ?  
@@ -720,7 +720,7 @@ C'est porter un peu loing les effets de son zele.
 
     TORQUATUS, *bas*.
 Feignons de ne pas croire une telle nouvelle.  
-Connoissant Manlius, je ne sçaurois penser                  
+Connoissant Manlius, je ne sçaurois penser  
 Qu'aux loix d'une captive il daigne s'abaisser.  
 Ses pareils n'ont jamais d'amour que pour la gloire,  
 Et ne forment des vœux qu'au Temple de memoire :  
@@ -749,7 +749,7 @@ Manlius vient icy pour y voir la Princesse :
 Il arrive, dit-on.  
 
     TORQUATUS.
-        Si c'est de cét advis⁎  
+                Si c'est de cét advis⁎  
 Que vous naist le soupçon de l'amour de mon fils,  
 Perdez en ce moment cette fausse croyance,  
 Il vient pour reparer sa désobeïssance :  
@@ -757,7 +757,7 @@ Ce jeune audacieux méprisant mon courroux ;
 Et voyant que la mort de vostre illustre⁎ Epoux  
 Luy laissoit dans le Camp une puissance entière,  
 Se laissant emporter à son ardeur⁎ guerrière,  
-Malgré l'ordre precis, de Rome et du Senat                  
+Malgré l'ordre precis, de Rome et du Senat  
 contre les Latins hazardé⁎ le combat,  
 Et bien qu'il ait vaincu, pour mieux faire connoistre  
 Combien sur les Romains le Senat est le maistre : [120]  
@@ -791,7 +791,7 @@ Reposez⁎-vous sur moy, l'affaire⁎ m'interesse⁎ :
 
     CAMILLE.
 Pour vous en éclaircir, parlez à la Princesse,  
-Elle devoit me suivre icy dans un moment :                   
+Elle devoit me suivre icy dans un moment :  
 Tâchez de penetrer [123] un peu son sentiment.  
 La voicy : je vous quitte.  
 
@@ -801,7 +801,7 @@ TORQUATUS, OMPHALE, PHENICE.
 
 
     TORQUATUS.
-            He bien, belle inhumaine⁎,  
+                    He bien, belle inhumaine⁎,  
 Ne vous rendrez vous point à la grandeur Romaine ?  
 Executerez-vous d'un coup d'œil enchanté [124]  
 Ce que Mars & Bellonne [125] ont vainement tenté ?  
@@ -818,7 +818,7 @@ Sont des amusemens [128] indignes d'un Romain :
 Je sçay le peu d'attraits dont le ciel m'a pourveuë ;  
 Et le sort m'a laissé du sens⁎ & de la veuë.  
 
-    TORQUATUS.    
+    TORQUATUS.
 Quoy⁎ tousjours opposer cette extréme froideur,  
 Aux sinceres effets⁎ de ma bouïllante ardeur⁎ ?  
 Vous doutez de mes feux⁎, adorable⁎ insensible,  
@@ -847,7 +847,7 @@ Parlez, voicy ma main, si la vostre est timide⁎.
 Me preserve le Ciel d'un si grand homicide,  
 Le Senat est l'Auteur de tous mes déplaisirs ;  
 Mais je le hay bien moins que les lâches desirs :  
-Si l'amour me déplaist, je deteste le crime,                   
+Si l'amour me déplaist, je deteste le crime,  
 Et de mes ennemis j'ayme si fort l'estime,  
 Qu'un des plus puissans traits dont mon cœur vous combat⁎,  
 C'est la peur d'attirer le mépris du Senat.  
@@ -877,7 +877,7 @@ Les destins obstinez à me persecuter,
 M'ont osté pour jamais les moyens d'en douter,  
 Et je n'ai pas besoin que vostre orgüeil s'en vente [132],  
 Mais ce nom de vainqueur n'a rien qui m'épouvante,  
-On ne redoute rien quand on brave la mort :                   
+On ne redoute rien quand on brave la mort :  
 Vous-mesme apprehendez l'inconstance du sort ;  
 Cette audace⁎, Seigneur, peut estre reprimée,  
 Le Ciel me laisse un frère & de plus une armée,  
@@ -909,7 +909,7 @@ Il sort.
 
 
 
-### SCENE IV.                     
+### SCENE IV.
 OMPHALE, PHENICE.
 
 
@@ -932,7 +932,7 @@ Il méprise pour moy grandeurs, fortune, rang,
 Et pour me proteger il expose son sang :  
 L'autre dans mon mal-heur insolemment me brave,  
 M'insulte⁎, me menasse et me traitte d'esclave :  
-Ah ! Quelle différence entre ces deux amans⁎.                  
+Ah ! Quelle différence entre ces deux amans⁎.  
 
     PHENICE.
 Ils la trouvent pareille entre vos sentimens [137],  
@@ -958,14 +958,14 @@ Dieux ! N'en voudroit-il point aux jours de ce que [140] j'aime :
 Phenice, qu'en dis-tu ?  
 
     PHENICE.
-            Consultez-le luy-mesme.  
+                    Consultez-le luy-mesme.  
 Le voicy qui s'avance.  
 
     OMPHALE.
-            En croiray-je mes yeux ?  
+                    En croiray-je mes yeux ?  
 
 
-### SCENE V.                        
+### SCENE V.
 OMPHALE, MANLIUS, PHENICE.
 
 
@@ -987,7 +987,7 @@ Je viens mettre à vos pieds mes lauriers & ma gloire.
 Princesse j'aime mieux vos fers⁎ que ma victoire,  
 Au Camp j'estois vainqueur de cent mille ennemis,  
 Icy je ne suis rien qu'un esclave soûmis:  
-Mais vivre dans vos fers⁎, c'est l'honneur où j'aspire,               
+Mais vivre dans vos fers⁎, c'est l'honneur où j'aspire,  
 Et ce rang prés de vous vaut ailleurs un empire.  
 
     OMPHALE.
@@ -1021,7 +1021,7 @@ Soit foiblesse ou raison je crains cette conqueste ;
 Helas ! Si les lauriers qui couvrent vostre teste  
 Estoient pour vostre front un ornement mortel,  
 Ainsi qu'à la victime en allant à l'autel [144],  
-Que deviendroit, Seigneur, la mal-heureuse Omphale ?               
+Que deviendroit, Seigneur, la mal-heureuse Omphale ?  
 De grace, écoutez moins cette ardeur⁎ martiale,  
 Dont les boüillans transports⁎ vous font tout mépriser :  
 Dé-ja cette chaleur⁎ vous a fait trop oser :  
@@ -1040,7 +1040,7 @@ Quoy, la crainte surmonte ainsi ce grand courage⁎ ?
 Omphale peut trembler ?  
 
     OMPHALE.
-            Accusez-en mon feu⁎,  
+                    Accusez-en mon feu⁎,  
 Quand on aime beaucoup on craint toûjours un peu,  
 Mon cœur n'est alarmé⁎ que parce qu'il soûpire,  
 J'ay veu sans m'ébranler la chûte d'un empire ;  
@@ -1051,7 +1051,7 @@ Si j'avois moins de peur, j'aurois moins de tendresse,
 Et mon superbe⁎ cœur par l'amour enflâmé  
 N'auroit jamais tremblé, s'il n'avoit point aimé.  
 
-    MANLIUS.    
+    MANLIUS.
 Apres un tel discours qui pourroit me détruire ?  
 Mortels audacieux, conspirez pour me nuire,  
 Empruntez s'il se peut, pour avancer ma mort,  
@@ -1070,7 +1070,7 @@ Sans craindre aucun peril, je cours m'en acquiter,
 Un Amant⁎ fortuné⁎ n'a rien à redouter.  
 
 
-### SCENE VI.                    
+### SCENE VI.
 OMPHALE, PHENICE.
 
 
@@ -1100,7 +1100,7 @@ Pour nous rendre le Ciel, s'il se peut plus propice.
 Fin du premier Acte.
 
 
-## ACTE II.                
+## ACTE II.
 
 
 ### SCENE I.
@@ -1124,7 +1124,7 @@ Nature, amour, pitié, mouvemens⁎ confondus,
 Triomphez s'il se peut, ou ne combattez⁎ plus.  
 Que mon devoir vous cede, ou rendez luy les armes,  
 Je n'ay que trop souffert de vos rudes alarmes⁎ ,  
-Il est temps que mon cœur elise un souverain,                   
+Il est temps que mon cœur elise un souverain,  
 Et qu'il soit aujourd'huy tout pere ou tout Romain.  
 Qu'entre ces deux parties mon ame est balancée⁎,  
 Que de troubles divers regnent dans ma pensée,  
@@ -1144,7 +1144,7 @@ Je tremble, je fremis, ha ! c'est trop combatu⁎,
 La nature vous cede amour, Senat, vertu,  
 Ne me resistez plus importune tendresse,  
 Vous avez contre vous & Rome & la Princesse,  
-Cedez à mon amour, cedez à mon devoir.                   
+Cedez à mon amour, cedez à mon devoir.  
 
 
 ### SCENE II.
@@ -1166,7 +1166,7 @@ TORQUATUS, MANLIUS, JUNIUS.
 Venez-vous demander un ordre pour combattre⁎,  
 Ou si vous avez crû que parmy les Romains,  
 Un pere & le Senat sont des fantômes⁎ vains⁎ ?  
-Quand vous avez risqué toute la republique,                   
+Quand vous avez risqué toute la republique,  
 Avez-vous crû monstrer un courage⁎ heroïque ?  
 Faire voir qu'un vainqueur est au dessus des loix,  
 Et qu'on peut tout braver quand on soûmet des Rois,  
@@ -1199,7 +1199,7 @@ Enfin ce qui vous met au dessus de nos loix.
 Le nom de Manlius, mon sang & ma naissance,  
 Sont, Seigneur, mes exploits & mon experience,  
 C'est pour m'authoriser un droict assez puissant,  
-Les Romains de mon nom triomphent en naissant.               
+Les Romains de mon nom triomphent en naissant.  
 
     TORQUATUS.
 Les Romains de ce nom craignent sur toute chose,  
@@ -1226,9 +1226,9 @@ TORQUATUS, JUNIUS.
 
 
     TORQUATUS.
-            Quelle arrogance !  
+                    Quelle arrogance !  
 A peine obtiendra-t-il de son obeïssance,  
-De demeurer au camp par mon commandement,               
+De demeurer au camp par mon commandement,  
 
     JUNIUS.
 Quoy ? Blâmez-vous, Seigneur, un si beau mouvement⁎,  
@@ -1262,7 +1262,7 @@ Ce n'est pas seulement pour couronner sa teste ;
 C'est pour voir son païs jouyr de sa conqueste :  
 C'est ainsi, Junius, que doit vivre un Romain,  
 Plus il a de bon-heur, moins il doit estre vain⁎,  
-Vainqueur de l'Univers, il doit respecter Rome,                   
+Vainqueur de l'Univers, il doit respecter Rome,  
 Estre au camp plus qu'un Dieu, au Senat moins qu'un homme ;  
 Et s'il veut tout soûmettre, il doit nous faire voir  
 Qu'il est soûmis luy-mesme aux regles du devoir.  
@@ -1275,14 +1275,14 @@ Par la mort seulement peut estre reparée :
 L'audacieux mourra, c'en est fait ;  
 
     JUNIUS.
-                Ha ! Seigneur,  
+                        Ha ! Seigneur,  
 Sur ce funeste⁎ Arrest consultez vostre cœur,  
 Permettez qu'il conserve une teste si chere,  
 Que le nom de Consul cede à celuy de pere,  
 Manlius est un fils.  
 
     TORQUATUS.
-        Je sçay bien ce qu'il est :  
+                Je sçay bien ce qu'il est :  
 Et j'ay tout consulté sur ce mortel Arrest,  
 Mon cœur m'a dit cent fois que c'est un fils que j'aime,  
 Mais je dois au Senat beaucoup plus qu'à moy-méme,  
@@ -1296,7 +1296,7 @@ Je vous prierois de voir si certain mouvement⁎,
 N'est point de cette mort la cause ou l'instrument,  
 Le precieux honneur que j'eus dés vostre enfance,  
 De prendre tousjours part à vostre confidence  
-Me fait vous conjurer de voir si sur ce point,                   
+Me fait vous conjurer de voir si sur ce point,  
 Quelque fausse clarté ne vous ébloüit point,  
 Peut-estre qu'en cecy Rome agit la derniere,  
 Consultez là dessus vostre ame toute entiere :  
@@ -1330,7 +1330,7 @@ Si la beauté d'Omphale a pour moy des appas⁎,
 Mon fils en a-t-il moins merité le trépas,  
 Parce qu'insolemment il sera temeraire⁎,  
 Jusqu'à porter ses yeux au mesme lieu qu'un Pere ?  
-Cét amour qui le rend criminel envers moy,                   
+Cét amour qui le rend criminel envers moy,  
 Pourra-t'il l'exempter des rigueurs de la loy ?  
 Apprenez-moy comment, & par quelle puissance  
 Deux crimes confondus font naistre l'innocence.  
@@ -1351,7 +1351,7 @@ Voyez si dans ce camp, il ne se passe rien :
 Je vous suy.  
 
 
-### SCENE V.                        
+### SCENE V.
 TORQUATUS, OMPHALE, PHENICE.
 
 
@@ -1376,7 +1376,7 @@ Quoy, la Princesse Omphale est sensible à ma gloire⁎ ?
 
     OMPHALE.
 Je l'ay toûjours esté, si j'en croy ma memoire,  
-Et c'est par ce motif, que j'ay tant combatu⁎,                   
+Et c'est par ce motif, que j'ay tant combatu⁎,  
 Un amour dont l'effet blessoit vostre vertu.  
 
     TORQUATUS.
@@ -1401,7 +1401,7 @@ Accordez Manlius à mon amour extréme,
 Faites moy ce present.  
 
     OMPHALE.
-            Pour conserver ses jours  
+                    Pour conserver ses jours  
 Une telle priere est un foible secours :  
 La mort de ce Heros n'est que trop assurée,  
 Mes mal-heurs, vostre amour, & le sort l'ont jurée,  
@@ -1409,10 +1409,10 @@ Je vois bien que je fais un inutile effort⁎.
 Helas ! il perira.  
 
     TORQUATUS.
-        Moderez ce transport⁎.  
+                Moderez ce transport⁎.  
 Vous pourrez le sauvez, si son trépas vous touche,  
 Son arrest luy sera donné par vostre bouche :  
-Tout mon Rival qu'il est, sa mort dépend de vous              
+Tout mon Rival qu'il est, sa mort dépend de vous  
 Je vous laisse y penser. Camille vient à nous,  
 Un pareil entretien doit finir aupres d'elle.  
 Il sort.
@@ -1427,7 +1427,7 @@ CAMILLE, OMPHALE, PHENICE.
 Je vous cherchois, Omphale :  
 
     OMPHALE.
-                Ah, rencontre cruelle  
+                        Ah, rencontre cruelle  
 O Dieux n'auray-je pas un moment pour réver⁎ ? [157]  
 Le moindre ordre, Madame, auroit pû me trouver ;  
 Mais pour vous obeïr, que faut-il que je fasse ?  
@@ -1444,7 +1444,7 @@ Remarquant à quel point vous estes jeune & belle,
 Je voudrois vous tirer d'une erreur si cruelle,  
 Et par un pur effet d'une tendre amitié  
 Pour vous mesme exciter un peu vostre pitié.  
-On vous trompe, on vous donne une esperance vaine⁎ ;               
+On vous trompe, on vous donne une esperance vaine⁎ ;  
 Pour avoir Manlius, il faut estre Romaine ;  
 Et quoy qu'il vous promette, ou qu'il vous puisse offrir,  
 Sans ce tiltre on ne peut jamais y parvenir.  
@@ -1465,7 +1465,7 @@ Et refuse l'honneur d'estre bien-tost sa femme.
 Femme de Torquatus ?  
 
     OMPHALE.
-            Ouy femme asseurément,  
+                    Ouy femme asseurément,  
 Il est en mon pouvoir, n'en doutez nullement,  
 Mais n'apprehendez pas cét injuste hymenée⁎ :  
 Je sçay qu'à Torquatus vous estes destinée,  
@@ -1476,7 +1476,7 @@ Devenir d'un forfait la cause ou le complice,
 Monter à ce haut rang par une lâcheté,  
 Torquatus à ce prix seroit trop achepté [158].  
 
-    CAMILLE.    
+    CAMILLE.
 Mais aussi par ce prix vous rachetez l'Epire.  
 
     OMPHALE.
@@ -1513,7 +1513,7 @@ S'il feint de vous aimer, ce feu⁎ qui vous abuse,
 Est pour vous éprouver⁎ une innocente ruse ;  
 Empeschez-en l'effect, & vous verrez un jour  
 Que l'amour de la gloire est son unique amour.  
-Mais pourrois-je, Princesse, afin de mieux connoistre              
+Mais pourrois-je, Princesse, afin de mieux connoistre  
 Cette haute vertu, que vous faites paroistre,  
 En apprendre de vous jusqu'aux moindres effets,  
 Les feintes du Consul, ses ruses, ses projets,  
@@ -1550,7 +1550,7 @@ Injuste Torquatus, tu sçais que ce grand-homme
 A répandu son sang pour le salut de Rome,  
 A peine a-t-il receu les honneurs du tombeau ;  
 Et tu veux t'allier au sang de son bourreau ?  
-O vous qui le souffrez⁎, Demons [161] de la Patrie,                  
+O vous qui le souffrez⁎, Demons [161] de la Patrie,  
 Vous à qui s'immola cette ombre⁎ si cherie, [162]  
 Vous qui devez veiller sur l'Estat des Romains ;  
 Estes vous donc des Dieux ou des fantômes⁎ vains⁎ ?  
@@ -1586,7 +1586,7 @@ Offrons luy du secours embrassons sa deffence
 Tâchons de l'irriter : Le voicy qui s'avance.  
 
 
-### SCENE II.                        
+### SCENE II.
 CAMILLE, MANLIUS.
 
 
@@ -1611,11 +1611,11 @@ D'entre les immortels il peut voir aujourd'huy,
 Que son nom glorieux⁎ n'est pas mort avec luy :  
 Pour éviter les coups d'une injuste furie⁎,  
 Faites-vous un rempart de cette ombre⁎ cherie :  
-A qui dans ce peril pourroit avoir recours                  
+A qui dans ce peril pourroit avoir recours  
 Un vainqueur innocent ?  
 
     MANLIUS.
-            Ha, cessez ce discours,  
+                    Ha, cessez ce discours,  
 Ma vertu qui ne peut en permetre la suitte  
 En conçoit trop d'horreur pour en estre seduite.  
 Si mon pere & l'estat ont resolu ma mort,  
@@ -1646,7 +1646,7 @@ Servez-vous des moyens que vous offre le sort.
 Moy fuïr ? moy me sauver pour éviter la mort :  
 Que la posterité reproche à ma memoire,  
 Qu'une honteuse fuitte a soüillé ma victoire ?  
-Non si je dois mourir pour un crime si beau,                   
+Non si je dois mourir pour un crime si beau,  
 La gloire⁎ de sa main me conduit au tombeau :  
 Sur la foy⁎ d'un tel guide il est doux d'y descendre.  
 
@@ -1665,7 +1665,7 @@ Que de quitter le camp & de partir sans elle.
 Moy, Madame ?  
 
     CAMILLE.
-        Oüy vous : je sçay tous vos secrets,  
+                Oüy vous : je sçay tous vos secrets,  
 Les regards des amans⁎ sont tousjours indiscrets,  
 Ils ne peuvent sentir un grand feu⁎ dans leur ame,  
 Sans donner au dehors quelque marque de flâme⁎ :  
@@ -1675,7 +1675,7 @@ On ne remarque point un soûpir ordinaire ;
 Mais quand on le retient, & qu'on craint de le faire,  
 On devine d'abord⁎ qu'un peu de passion  
 Fait naistre dans un cœur⁎ cette precaution.  
-Parlez donc, Manlius, bien que je sois Romaine,              
+Parlez donc, Manlius, bien que je sois Romaine,  
 Et que tousjours mon ame ait conceu de la haine  
 Pour cette illusion que vous nommez amour ;  
 Si pour vous conserver la lumiere du jour,  
@@ -1705,13 +1705,13 @@ Que le Consul épris de vostre mesme mal
 Pour soulager ses feux⁎ :  
 
     MANLIUS.
-            Mon pere, mon Rival !  
+                    Mon pere, mon Rival !  
 O Dieux ! que dites vous ?  
 
     CAMILLE.
-            Ce qu'il faut vous apprendre :  
+                    Ce qu'il faut vous apprendre :  
 Ouy, le cœur du Consul s'estant laissé surprendre⁎,  
-Aux indignes appas⁎ d'un amoureux transport⁎,                  
+Aux indignes appas⁎ d'un amoureux transport⁎,  
 Estant maistre absolu d'Omphale & de son sort  
 Peut tout executer contre vous, & contre elle,  
 Si vous ne profitez d'un advis⁎ si fidelle⁎.  
@@ -1747,7 +1747,7 @@ Vostre seule injustice a merité la mort,
 Et je vous abandonne aux cruautez⁎ du sort.  
 
 
-### SCENE III.                
+### SCENE III.
 
     MANLIUS, *seul.*
 O Sort vrayement cruel ! ô funeste⁎ avanture !  
@@ -1770,7 +1770,7 @@ Helas pour mon mal-heur, ces adorables⁎ charmes⁎,
 A qui mon cœur rendit si promptement les armes,  
 Sur tous les cœurs mortels, ont le mesme pouvoir,  
 Et pour les adorer⁎, il suffit de les voir.  
-Mon Pere les a veus, mon Pere a deû se rendre.                   
+Mon Pere les a veus, mon Pere a deû se rendre.  
 Puisqu'il avoit des yeux, qui pouvoit s'en deffendre ?  
 Qui peut voir sans transport⁎ tant de divins appas⁎ ?  
 Qui peut connoistre Omphale, & ne l'adorer⁎ pas ?  
@@ -1791,7 +1791,7 @@ Font exprés dans ce lieu rencontrer ta Princesse ;
 R'anime en la voyant ton espoir abbatu.  
 
 
-### SCENE IV.                
+### SCENE IV.
 OMPHALE, MANLIUS, PHENICE.
 
 
@@ -1817,7 +1817,7 @@ Comme [168] vous recevez ses fideles⁎ avis⁎,
 Et de quel air [169] par vous ses conseils sont suivis.  
 Vous offrir du secours, c'est vous faire une offense  
 Vos desirs & le sort semblent d'intelligence,  
-Vous aymez le trépas, vous y voulez courir,                   
+Vous aymez le trépas, vous y voulez courir,  
 Apres cela, Seigneur, qui peut vous secourir ?  
 
     MANLIUS.
@@ -1852,7 +1852,7 @@ Souvenez-vous sur tout que la gloire⁎ m'est chere ;
 Et que de quelques traits dont je sente les coups,  
 La gloire⁎ & mon devoir me touchent plus que vous.  
 
-    MANLIUS.    
+    MANLIUS.
 Achevez, achevez, dites aussi Madame,  
 Que l'amour du Consul, soûmet enfin vostre ame ;  
 Que ce rang eminent, ces titres glorieux⁎,  
@@ -1887,8 +1887,8 @@ Amoureux, transporté, confus, triste, interdit⁎ :
 Je n'ose, je ne puis :  
 
     OMPHALE.
-        Va, va, c'est assez dit.  
-C'est à mon desespoir à finir cét ouvrage ;                   
+                Va, va, c'est assez dit.  
+C'est à mon desespoir à finir cét ouvrage ;  
 Mon bras épargnera mon trépas à ta rage,  
 Dé-ja par ce beau coup mon cœur eût évité  
 La honte, & les douleurs de la captivité,  
@@ -1918,14 +1918,14 @@ Tu vengeras ma mort par ton propre tourment.
 Adieu Barbare :  
 
     MANLIUS.
-        Helas ! arrestez un moment.  
+                Helas ! arrestez un moment.  
 Pour venger vostre offence & pour punir mon crime,  
 Recevez s'il se peut tout mon sang pour victime :  
-Princesse, par l'effet d'un trop juste transport⁎ :                   
+Princesse, par l'effet d'un trop juste transport⁎ :  
 Je vays.  
 
     OMPHALE.
-Ha, Manlius, je ne veux point ta mort,  
+        Ha, Manlius, je ne veux point ta mort,  
 Quelque extréme douleur que ton soupçon me donne,  
 Malgré moy je sens bien que mon cœur te pardonne,  
 Et que sur les Amans⁎ l'amour est si puissant,  
@@ -1944,7 +1944,7 @@ S'il pouvoit sans témoins s'exprimer dans ce lieu,
 Que ne diroit-il point ? aime, & te sauve. Adieu.  
 
 
-### SCENE V.                     
+### SCENE V.
 
     MANLIUS, *seul.*
 Aime & te sauve, helas ! dans un sort si contraire,  
@@ -1980,7 +1980,7 @@ Expose aux yeux d'Omphale une grande victoire,
 Vente luy tes hauts faits, ton éclat⁎ & ta gloire⁎,  
 Ces funestes⁎ presens de Bellone [174] & du sort  
 Comme le chant du cigne annonceront ta mort.  
-Mais toy que me veux-tu, ridicule tendresse,                   
+Mais toy que me veux-tu, ridicule tendresse,  
 Importun mouvement⁎, lâche & molle foiblesse :  
 Pourquoy viens-tu troubler un cœur⁎ envenimé  
 Qui ne voit dans mon fils qu'un Rival trop aimé :  
@@ -2012,7 +2012,7 @@ Ne consultons donc plus une vertu timide⁎,
 Qui donne à cette mort l'ombre d'un parricide [178] :  
 Perdons sans balancer⁎, un fils si dangereux,  
 Esteignons dans son sang ses temeraires⁎ feux⁎ :  
-Executons du sort l'arrest irrevocable :                       
+Executons du sort l'arrest irrevocable :  
 C'est mon Rival, on l'aime, il est assez coupable.  
 Ho là, quelqu'un.  
 
@@ -2022,10 +2022,10 @@ TORQUATUS, CAMILLE.
 
 
     CAMILLE.
-        Seigneur.  
+            Seigneur.  
 
     TORQUATUS.
-            Qu'on avance. Mais, Dieux !  
+                    Qu'on avance. Mais, Dieux !  
 Quel objet⁎ importun se presente à mes yeux ?  
 Madame, quel dessein dans ce lieu vous ameine ?  
 
@@ -2039,7 +2039,7 @@ Sans que ce lâche feu⁎ qui me prive de vous,
 Excitast dans mon cœur⁎ une ombre de courroux :  
 Mais sçachant à quel point vous porte vostre rage,  
 Que Manlius est prest d'en ressentir l'outrage,  
-Je viens pour empescher un si grand attentat⁎,                  
+Je viens pour empescher un si grand attentat⁎,  
 Exposer à vos yeux Camille & le Senat ;  
 Je croyois que le temps dissipast [179] le nuage  
 Qui de vostre raison vous dérobe l'usage,  
@@ -2069,7 +2069,7 @@ A juré le trépas d'un heros innocent ?
 De grace, finissez ce discours offençeant :  
 Si Decius est mort, il est mort pour sa gloire⁎ ;  
 Il n'a rien fait pour nous, & tout pour sa memoire,  
-Trop auroient à ce prix achepté parmy nous              
+Trop auroient à ce prix achepté parmy nous  
 La gloire⁎ de mourir pour le salut de tous ;  
 Et le plus heureux cours de la plus longue vie  
 Ne ravit pas l'honneur dont sa mort est suivie.  
@@ -2101,7 +2101,7 @@ Il vous eust fait alors partager sa disgrace⁎ ;
 Et peut-estre le sort vous eust mis à sa place :  
 Mais une ardente⁎ soif d'acquerir de l'honneur  
 Luy fit precipiter ses jours & son malheur.  
-Si tous les vains⁎ honneurs, dont sa mort est suivie,               
+Si tous les vains⁎ honneurs, dont sa mort est suivie,  
 Dans le cœur des Romains excitoient de l'envie,      
 Il vous estoit permis d'avoir le mesme sort ;  
 Vous aviez mesme droit de courir à la mort :  
@@ -2125,12 +2125,12 @@ Cesse donc de penser, qu'aux biens que tu hazardes⁎
 Je prenne d'interest⁎…  
 
 
-### SCENE III.                 
+### SCENE III.
 TORQUATUS, CAMILLE, JUNIUS.
 
 
     JUNIUS.
-            Manlius a des gardes ;  
+                    Manlius a des gardes ;  
 Par vostre ordre, Seigneur, je l'ay fait arrester :  
 Mais tout le camp murmure⁎ & semble s'irriter.  
 Consultez là dessus toute vostre prudence :  
@@ -2151,7 +2151,7 @@ Il faut le sang d'un fils pour assouvir ta rage !
 Cessez, encore un coup, ce discours qui m'outrage ;  
 Reglez mieux les effets de vos jaloux soupçons,  
 Et ne me donnez plus de frivoles⁎ leçons :  
-Ces reproches, enfin, lasseroient ma clemence,                   
+Ces reproches, enfin, lasseroient ma clemence,  
 Et pourroient me porter à quelque violence :  
 Adieu, retirez vous, & nous laissez en paix.  
 
@@ -2178,7 +2178,7 @@ Il n'est point de Romain dont le cœur ne soûpire,
 Qui n'en eust dit autant, s'il eust osé le dire [182] ;  
 Qui sçachant qu'on est prest d'immoler un vainqueur,  
 Pour ce cruel dessein n'ait conceu de l'horreur,  
-Et qui, pour dire tout, sourdement ne s'appreste                  
+Et qui, pour dire tout, sourdement ne s'appreste  
 Aux dépens de son sang, à sauver cette teste.  
 Vous m'avez ordonné, Seigneur, expressément  
 De vous dire tousjours quel est mon sentiment ;  
@@ -2212,7 +2212,7 @@ Dont la secrette voix vous dira nuit & jour,
 Tu fis mourir ton fils, pour plaire à ton Amour ;  
 Il fut de cette ardeur⁎ l'innocente victime :  
 Tremble, tremble, Consul, les Dieux ont veu ton crime,  
-Le Sang de ce Heros injustement versé                      
+Le Sang de ce Heros injustement versé  
 Eleve des vapeurs⁎, dont le Ciel est percé ;  
 Des champs Elisiens [183] il demande vengeance :  
 Tremble, encore une fois, ton supplice s'avance.  
@@ -2246,7 +2246,7 @@ Qui s'est dit mille fois en condamnant son fils,
 Les frivoles⁎ raisons qu'aujourd'huy tu luy dis,  
 Quand un pere obligé de vaincre sa foiblesse  
 S'efforce d'arracher un fils à sa tendresse,  
-De l'amour paternel les secrets entretiens                  
+De l'amour paternel les secrets entretiens  
 Ne luy tiennent que trop les discours que tu tiens.  
 Ce sont des nœuds si doux que ceux de la nature,  
 Que quand on est contraint de souffrir⁎ leur rupture,  
@@ -2274,7 +2274,7 @@ J'ay d'abord⁎ éprouvé⁎, que le cœur d'un Romain,
 Pour estre illustre⁎ & grand, n'en est pas moins humain,  
 Qu'on n'en est pas plus dur, pour estre né dans Rome,  
 Qu'un pere est tousjours pere, & qu'un Consul est homme :  
-Mais à tous ces effets des premiers mouvemens⁎                  
+Mais à tous ces effets des premiers mouvemens⁎  
 Ont enfin succedé de plus grands sentimens ;  
 Je me suis souvenu, pour devenir severe⁎,  
 Que j'estois un Romain, avant que d'estre pere,  
@@ -2306,7 +2306,7 @@ C'est un foible secours qu'une fausse apparence⁎,
 Et les yeux clair-voyans de nostre conscience,  
 Malgré tous nos détours, penetrent aisément  
 Au travers de la ruse & du déguisement.  
-Dispensez ma ferveur d'en faire davantage :                   
+Dispensez ma ferveur d'en faire davantage :  
 Mes fidelles⁎ conseils ont commencé l'ouvrage ;  
 C'est à vostre vertu, Seigneur, à l'achever :  
 Il faut vous laisser seul, afin d'y mieux rêver⁎ ;  
@@ -2330,7 +2330,7 @@ Avancer mon bon-heur, en pressant ce trépas.
 Fin du quatriéme Acte.
 
 
-## ACTE V.                        
+## ACTE V.
 
 
 ### SCENE PREMIERE.
@@ -2357,7 +2357,7 @@ La vie ou le trépas de quelqu'un des Romains ?
 Depuis quand, juste Ciel, une foible captive  
 Donne t'elle des loix qu'il faut que Rome suive ?  
 
-    TORQUATUS.    
+    TORQUATUS.
 Depuis que de vos yeux le pouvoir souverain  
 Est reconnu pour tel par un Consul Romain,  
 Ouy, Madame, vos traits en touchant un seul homme,  
@@ -2386,12 +2386,12 @@ Hé qu'un peu de pitié s'empare de vostre ame !
 Songez….  
 
     TORQUATUS.
-Donnez m'en donc un exemple, Madame,  
+        Donnez m'en donc un exemple, Madame,  
 Montrez moy que je dois adoucir ma rigueur,  
 En laissant par l'amour adoucir vostre cœur.  
 Par pitié pour mon fils paroissez-luy cruelle⁎  
 Par un excés d'amour, devenez infidelle,  
-Et par un prompt Hymen⁎ desarmez mon courroux.               
+Et par un prompt Hymen⁎ desarmez mon courroux.  
 
     OMPHALE.
 La foy⁎ que vous m'offrez ne dépend pas de vous ;  
@@ -2415,14 +2415,14 @@ TORQUATUS, OMPHALE, PHENICE, PISON.
 
 
     PISON.
-        Seigneur.  
+            Seigneur.  
 
     TORQUATUS.
-            Qu'on aille promptement  
+                    Qu'on aille promptement  
 Executer…  
 
     OMPHALE.
-        Helas ! differez un moment.  
+                Helas ! differez un moment.  
 Gardes, retirez-vous, je veux… mais, quoy ! mon ame,  
 Quoy ? voudrois-tu trahir Manlius & ta flâme⁎ ?  
 
@@ -2430,27 +2430,27 @@ Quoy ? voudrois-tu trahir Manlius & ta flâme⁎ ?
 Que voulez-vous ?  
 
     OMPHALE.
-        Je veux…  
+            Je veux…  
 
     TORQUATUS.
-                Achevez.  
+                    Achevez.  
 
     OMPHALE.
-                        Le sauver.  
+                                Le sauver.  
 
     TORQUATUS.
 Et du reste ?  
 
     OMPHALE.
-        Seigneur, je voudrois y réver⁎.  
+                Seigneur, je voudrois y réver⁎.  
 
-    TORQUATUS.    
+    TORQUATUS.
 Ha ! c'est trop écouter tant de discours frivoles⁎,  
 Je ne me repais point de ces vaines⁎ paroles.  
 Hola, Gardes.  
 
     OMPHALE.
-        Seigneur, ne precipitez rien ;  
+                Seigneur, ne precipitez rien ;  
 Fallut-il pour son sang vous donner tout le mien,  
 Si Manlius le veut, j'y consens avec joye :  
 Mais, pour m'en informer, souffrez⁎ que je le voye ;  
@@ -2483,8 +2483,8 @@ Où l'on garde mon fils, dire qu'on me l'ameine.
 Princesse, s'il consent aux plus doux de mes vœux,  
 Mon bon-heur…  
 
-    OMPHALE.    
-        He, Seigneur, se peut-on croire heureux,  
+    OMPHALE.
+                He, Seigneur, se peut-on croire heureux,  
 Quand on doit la douceur d'un aveu favorable,  
 A la necessité de sauver un coupable ?  
 Ha, non non, pour gouster de solides [191] plaisirs,  
@@ -2504,13 +2504,13 @@ Je vous entens Madame, & luy cede la place.
 Gardes, retirez-vous.  
 
     OMPHALE.
-            Ciel, soyez mon secours.  
+                    Ciel, soyez mon secours.  
 
     TORQUATUS.
 Tâchons sans estre veu, d'écouter leurs discours.  
 
 
-### SCENE III.                 
+### SCENE III.
 OMPHALE, MANLIUS, PHENICE, TORQUATUS, PISON.
 
 
@@ -2518,7 +2518,7 @@ OMPHALE, MANLIUS, PHENICE, TORQUATUS, PISON.
 Que de trouble je sens ! ah ! Seigneur.  
 
     MANLIUS.
-                    Ha ! Madame.  
+                            Ha ! Madame.  
 
     OMPHALE.
 Helas ! en quel estat reduisez-vous mon ame :  
@@ -2538,7 +2538,7 @@ Et ce n'est point assez pour assouvir mon sort,
 Que de vous voir souffrir⁎ une honteuse mort ;  
 Il faut que le destin joigne à vostre supplice,  
 L'horible desespoir de m'en trouver complice,  
-Ouy, les Dieux ont permis, pour augmenter mes maux,               
+Ouy, les Dieux ont permis, pour augmenter mes maux,  
 Que mes traistres appas⁎ soient vos secrets bourreaux :  
 Mes yeux, Seigneur, mes yeux ont fait tout vostre crime ;  
 Vous estes de leurs traits l'innocente victime ;  
@@ -2568,7 +2568,7 @@ Ce n'est pas à ma mort qu'il doit borner ses coups,
 S'il veut forcer mon cœur à craindre son courroux ;  
 Qu'il lance contre moy les traits de l'Enfer mesme,  
 Je brave son pouvoir, si ma Princesse m'aime :  
-Un amant⁎ embrasé par de si nobles feux⁎,                  
+Un amant⁎ embrasé par de si nobles feux⁎,  
 Pourveu qu'il meure aimé, meurt tousjours trop heureux.  
 Je me flattois⁎ ainsi d'une douce esperance,  
 Et mon cœur abusé par cette confiance,  
@@ -2597,20 +2597,20 @@ Tu l'as dit, c'en est fait, qu'on le meine au trespas.
 Quel Arrest ! ha ! Seigneur.  
 
     TORQUATUS.
-                N'en parlons plus, Madame.  
+                        N'en parlons plus, Madame.  
 
     OMPHALE.
 Helas, si la pitié toucha jamais vostre ame,  
 Ordonnez donc, Seigneur, que je suive son sort.  
 
-    TORQUATUS.    
+    TORQUATUS.
 Gardes, encore un coup, qu'on le traîne à la mort.  
 
     PISON.
 Obeïssez, Seigneur, allons.  
 
     OMPHALE.
-            Arreste, infame,  
+                    Arreste, infame,  
 Bourreau, qui veux m'oster la moitié de mon ame ;  
 Avant que d'arracher Manlius de ce lieu,  
 Cruel, souffre⁎ du moins que je luy dise adieu.  
@@ -2642,8 +2642,8 @@ Vous faut-il du secours pour m'arracher la vie ?
     TORQUATUS.
 Madame, moderez…  
 
-    OMPHALE.    
-            Monstre pernicieux,  
+    OMPHALE.
+                    Monstre pernicieux,  
 Oses tu bien encor te monstrer à mes yeux ?  
 Entens-je les accens de ta voix detestable :  
 Tigre affamé de sang, Barbare, inexorable,  
@@ -2668,7 +2668,7 @@ Vont meriter, cruel, toute cette vengeance.
 Quand un peu de raison viendra vous secourir…  
 
 
-### SCENE IV.                
+### SCENE IV.
 TORQUATUS, CAMILLE, OMPHALE, PHENICE.
 
 
@@ -2681,7 +2681,7 @@ Tu ne crains ny remors, ny honte, ny Senat :
 Ton ame apres ce coup n'est donc point alarmée⁎ ?  
 
 
-### SCENE V.                        
+### SCENE V.
 TORQUATUS, CAMILLE, OMPHALE, PHENICE, JUNIUS.
 
 
@@ -2694,7 +2694,7 @@ Je crains de cét Arrest une suitte funeste⁎ ;
 Il s'éleve par tout un murmure⁎ confus.  
 
 
-### SCENE VI.                 
+### SCENE VI.
 TORQUATUS, CAMILLE, OMPHALE, PHENICE, JUNIUS, PISON.
 
 
@@ -2702,23 +2702,23 @@ TORQUATUS, CAMILLE, OMPHALE, PHENICE, JUNIUS, PISON.
 Voicy Pison. Mon fils ?  
 
     OMPHALE, *bas*.
-            Ha ! ne balançons⁎ plus ;  
+                    Ha ! ne balançons⁎ plus ;  
 Voicy de quoy me joindre à l'objet⁎ de ma flâme⁎,  
 
     CAMILLE.
 Que vois-je ! juste Ciel, ha, Princesse !  
 
     PHENICE.
-                    Ha ! Madame.  
+                            Ha ! Madame.  
 
     OMPHALE.
 Pour suivre Manlius, pour assouvir son sort,  
 Ce poignard…  
 
     PISON.
-        Arrestez, Madame, il n'est pas mort.  
+                Arrestez, Madame, il n'est pas mort.  
 
-    TORQUATUS.    
+    TORQUATUS.
 Manlius n'est pas mort ? hé quel bras temeraire⁎  
 A pû le dérober à ma juste colere ?  
 
@@ -2745,7 +2745,7 @@ En vain, pour reprimer cette insolente audace⁎,
 J'appelle du secours, parle, frappe, menasse,  
 Leur nomme le Consul ; tous mes efforts⁎ sont vains :  
 Ils arrachent, Seigneur, Manlius de mes mains :  
-Et, bien que ce Heros deust à cette furie⁎,                  
+Et, bien que ce Heros deust à cette furie⁎,  
 Les restes glorieux⁎ de son illustre⁎ vie,  
 Ce fils obeïssant à vos ordres soûmis  
 Traitte ses deffenseurs comme ses ennemis ;  
@@ -2762,27 +2762,27 @@ Servira d'un exemple à la posterité.
 Qu'on me suive.  
 
 
-### SCENE VII.                    
+### SCENE VII.
 TORQUATUS, CAMILLE, OMPHALE, MANLIUS, PHENICE, JUNIUS, PISON.
 
 
     MANLIUS.
-        Seigneur…..  
+            Seigneur…..  
 
     OMPHALE.
-                Où viens-tu ? miserable.  
+                        Où viens-tu ? miserable.  
 
     MANLIUS.
 Epargnez-vous des pas.  
 
     TORQUATUS.
-            Dieux !  
+                Dieux !  
 
     MANLIUS.
-                Voicy ce coupable.  
+                        Voicy ce coupable.  
 Je n'examine point quel crime, ou quel mal-heur,  
 Vous fait dans mon trepas trouver quelque douceur ;  
-Je dois mourir, Seigneur, puis que ma triste vie                  
+Je dois mourir, Seigneur, puis que ma triste vie  
 A duré trop long-temps au gré de vostre envie :  
 Faites percer ce cœur, ordonnez qu'à vos yeux,  
 On verse tout ce sang qui vous est odieux ;  
@@ -2795,13 +2795,13 @@ De ces audacieux, dont j'ay causé l'audace⁎.
 Ordonnez donc, Seigneur…  
 
     JUNIUS.
-            Qu'il paroist interdit⁎ :  
+                    Qu'il paroist interdit⁎ :  
 
     TORQUATUS.
 Le cœur pressé⁎, je sens…  
 
     OMPHALE.
-            Ô Dieux ! il s'attendrit.  
+                    Ô Dieux ! il s'attendrit.  
 
     TORQUATUS.
 Je sens que dans mon ame il se forme un murmure⁎.  
@@ -2812,14 +2812,14 @@ Elle presse⁎, elle parle, écoutez-la, Seigneur.
 
     TORQUATUS.
 Que de troubles divers s'élevent dans mon cœur !  
-Je veux, je ne veux pas : La nature tremblante                  
+Je veux, je ne veux pas : La nature tremblante  
 Ose, craint, & se rend trop, ou trop peu pressante,  
 Dans ce cruel moment, mon fils, Rome, & l'Amour,  
 Semblent tout déchirer mon ame tour à tour :  
 Je n'en puis plus, ô Dieux !  
 
     CAMILLE.
-            Ha, Seigneur, grace, grace :  
+                    Ha, Seigneur, grace, grace :  
 Enfin vostre vertu va reprendre sa place.  
 
     MANLIUS.
@@ -2827,7 +2827,7 @@ Seigneur, je ne vaux pas le trouble où je vous voy.
 Ordonnez qu'à vos pieds…  
 
     TORQUATUS.
-            Ha, mon fils, leve toy.  
+                    Ha, mon fils, leve toy.  
 
     OMPHALE.
 Quoy, le sang sur l'amour emporte la victoire ?  
@@ -2839,7 +2839,7 @@ Je puis vous élever au but de vos souhaits,
 Ou je seray deceu⁎ dans ma juste esperance,  
 Ou bien tost vostre Hymen⁎ lavera mon offence.  
 
-    MANLIUS.    
+    MANLIUS.
 Ah, mon Pere, ah, Seigneur, ay-je bien entendu ?  
 
     TORQUATUS.

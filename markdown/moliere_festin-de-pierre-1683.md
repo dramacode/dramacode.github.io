@@ -1,7 +1,7 @@
 ---
-identifier: moliere_festin  
+identifier: moliere_festin-de-pierre-1683  
 creator: Molière  
-date: 1682  
+date: 1683  
 title: Le Festin de Pierre  
 ---
 

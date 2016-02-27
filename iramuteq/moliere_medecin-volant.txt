@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_medecin-volant *id_I01 *act_I *date_1668
+**** *book_ *id_I01 *act_I *date_1668
 
 -*who_valere
 Hé bien !Sabine, quel conseil me donneras-tu ?
@@ -17,7 +17,7 @@ Je songe une chose : si vous faisiez habiller votre valet en médecin ?Il n'y 
 -*who_valere
 C'est un lourdaud qui gâtera tout ; mais il faut s'en servir faute d'autre.Adieu, je le vais chercher.Où diable trouver ce maroufle à présent ?Mais le voici tout à propos.
 
-**** *book_moliere_medecin-volant *id_I02 *act_I *date_1668
+**** *book_ *id_I02 *act_I *date_1668
 
 -*who_sabine
 Ah !Mon pauvre Sganarelle, que j'ai de joie de te voir !J'ai besoin de toi dans une affaire de conséquence ; mais, comme que je ne sais pas ce que tu sais faire...
@@ -49,7 +49,7 @@ Il n'y a rien de si facile en cette rencontre : Gorgibus est un homme simple, g
 -*who_sganarelle
 C'est-à-dire qu'il lui faudra parler philosophie, mathématique.Laissez-moi faire ; s'il est un homme facile, comme vous le dites, je vous réponds de tout ; venez seulement me faire avoir un habit de médecin, et m'instruire de ce qu'il faut faire, et me donner mes licences, qui sont les dix pistoles promises.
 
-**** *book_moliere_medecin-volant *id_I03 *act_I *date_1668
+**** *book_ *id_I03 *act_I *date_1668
 
 -*who_gorgibus
 Allez vitement chercher un médecin ; car ma fille est bien malade, et dépêchez-vous.
@@ -63,7 +63,7 @@ Va-t'en vite : je vois bien que cette maladie-là reculera bien les noces.
 -*who_gros_rene
 Et c'est ce qui me fait enrager : je croyais refaire mon ventre d'une bonne carrelure, et m'en voilà sevré.Je m'en vais chercher un médecin pour moi aussi bien que pour votre fille ; je suis désespéré.
 
-**** *book_moliere_medecin-volant *id_I04 *act_I *date_1668
+**** *book_ *id_I04 *act_I *date_1668
 
 -*who_sabine
 Je vous trouve à propos, mon oncle, pour vous apprendre une bonne nouvelle.Je vous amène le plus habile médecin du monde, un homme qui vient des pays étrangers, qui sait les plus beaux secrets, et qui sans doute guérira ma cousine.On me l'a indiqué par bonheur, et je vous l'amène.Il est si savant que je voudrais de bon cœur être malade, afin qu'il me guérît.
@@ -120,7 +120,7 @@ Quoi ?Monsieur Gorgibus, votre fille ne pisse que des gouttes !Voilà une pauv
 -*who_sabine
 Elle est levée ; si vous voulez, je la ferai venir.
 
-**** *book_moliere_medecin-volant *id_I05 *act_I *date_1668
+**** *book_ *id_I05 *act_I *date_1668
 
 -*who_sganarelle
 Hé bien !Mademoiselle, vous êtes malade ?
@@ -155,12 +155,12 @@ Nous avons un fort beau jardin, et quelques chambres qui y répondent ; si vous
 -*who_sganarelle
 Allons, allons visiter les lieux.
 
-**** *book_moliere_medecin-volant *id_I06 *act_I *date_1668
+**** *book_ *id_I06 *act_I *date_1668
 
 -*who_avocat
 J'ai ouï dire que la fille de M. Gorgibus était malade : il faut que je m'informe de sa santé, et que je lui offre mes services comme ami de toute sa famille.Holà !Holà !M. Gorgibus y est-il ?
 
-**** *book_moliere_medecin-volant *id_I07 *act_I *date_1668
+**** *book_ *id_I07 *act_I *date_1668
 
 -*who_gorgibus
 Monsieur, votre très humble, etc.
@@ -174,7 +174,7 @@ J'étais là dedans avec le plus savant homme.
 -*who_avocat
 N'y aurait-il pas moyen de l'entretenir un moment ?
 
-**** *book_moliere_medecin-volant *id_I08 *act_I *date_1668
+**** *book_ *id_I08 *act_I *date_1668
 
 -*who_gorgibus
 Monsieur, voilà un fort habile homme de mes amis qui souhaiterait de vous parler et vous entretenir.
@@ -205,13 +205,13 @@ Je sais bien ce que je vous dois.
 Vous vous moquez, monsieur Gorgibus.Je n'en prendrai pas, je ne suis pas un homme mercenaire.
 Votre très humble serviteur.
 
-**** *book_moliere_medecin-volant *id_I09 *act_I *date_1668
+**** *book_ *id_I09 *act_I *date_1668
 
 -*who_valere
 Je ne sais ce qu'aura fait Sganarelle : je n'ai point eu de ses nouvelles, et je suis fort en peine où je le pourrois rencontrer.
 Mais bon, le voici.Hé bien !Sganarelle, qu'as-tu fait depuis que je ne t'ai point vu ?
 
-**** *book_moliere_medecin-volant *id_I10 *act_I *date_1668
+**** *book_ *id_I10 *act_I *date_1668
 
 -*who_sganarelle
 Merveille sur merveille : j'ai si bien fait que Gorgibus me prend pour un habile médecin.Je me suis introduit chez lui, et lui ai conseillé de faire prendre l'air à sa fille, laquelle est à présent dans un appartement qui est au bout de leur jardin, tellement qu'elle est fort éloignée du vieillard, et que vous pouvez l'aller voir commodément.
@@ -223,7 +223,7 @@ Ah !Que tu me donnes de joie !Sans perdre de temps, je la vais trouver de ce p
 Il faut avouer que ce bonhomme Gorgibus est un vrai lourdaud de se laisser tromper de la sorte.
 Ah ! ma foi, tout est perdu : c'est à ce coup que voilà la médecine renversée, mais il faut que je le trompe.
 
-**** *book_moliere_medecin-volant *id_I11 *act_I *date_1668
+**** *book_ *id_I11 *act_I *date_1668
 
 -*who_gorgibus
 Bonjour, Monsieur.
@@ -249,7 +249,7 @@ Allez, je ferai votre paix : je suis de ses amis, et je vous promets de vous re
 -*who_sganarelle
 Je vous serai bien obligé, monsieur Gorgibus.
 
-**** *book_moliere_medecin-volant *id_I12 *act_I *date_1668
+**** *book_ *id_I12 *act_I *date_1668
 
 -*who_sganarelle
 Il faut avouer que, quand les malades ne veulent pas suivre l'avis du médecin, et qu'ils s'abandonnent à la débauche que...
@@ -287,7 +287,7 @@ Vous m'en priez avec tant d'insistance que, quoique j'eusse fait serment de ne l
 -*who_gorgibus
 Monsieur, votre très humble serviteur ; je m'en vais chercher ce pauvre garçon pour lui apprendre cette bonne nouvelle.
 
-**** *book_moliere_medecin-volant *id_I13 *act_I *date_1668
+**** *book_ *id_I13 *act_I *date_1668
 
 -*who_valere
 Il faut que j'avoue que je n'eusse jamais cru que Sganarelle se fût si bien acquitté de son devoir.
@@ -296,7 +296,7 @@ Ah !Mon pauvre garçon, que je t'ai d'obligation !Que j'ai de joie !Et que...
 -*who_sganarelle
 Ma foi, vous parlez fort à votre aise.Gorgibus m'a rencontré ; et sans une invention que j'ai trouvée, toute la mèche était découverte.Mais fuyez-vous-en, le voici.
 
-**** *book_moliere_medecin-volant *id_I14 *act_I *date_1668
+**** *book_ *id_I14 *act_I *date_1668
 
 -*who_gorgibus
 Je vous cherchais partout pour vous dire que j'ai parlé à votre frère : il m'a assuré qu'il vous pardonnait ; mais, pour en être plus assuré, je veux qu'il vous embrasse en ma présence ; entrez dans mon logis, et je l'irai chercher.
@@ -310,7 +310,7 @@ Ah !Vous demeurerez, car je vous enfermerai.Je m'en vais à présent chercher v
 -*who_sganarelle
 Ma foi, me voilà attrapé ce coup-là ; il n'y a plus moyen de m'en échapper.Le nuage est fort épais, et j'ai bien peur que, s'il vient à crever, il ne grêle sur mon dos force coups de bâton, ou que, par quelque ordonnance plus forte que toutes celles des médecins, on m'applique tout au moins un cautère royal sur les épaules.Mes affaires vont mal ; mais pourquoi se désespérer ?Puisque j'ai tant fait, poussons la fourbe jusques au bout.Oui, oui, il en faut encore sortir, et faire voir que Sganarelle est le roi des fourbes.
 
-**** *book_moliere_medecin-volant *id_I15 *act_I *date_1668
+**** *book_ *id_I15 *act_I *date_1668
 
 -*who_gros_rene
 Ah !Ma foi, voilà qui est drôle !Comme diable on saute ici par les fenêtres !Il faut que je demeure ici, et que je voie à quoi tout cela aboutira.
@@ -410,7 +410,7 @@ Ah !Que je suis malheureux !Mais tu seras pendu, fourbe, coquin.
 -*who_sganarelle
 Monsieur, qu'allez-vous faire de me pendre ?Écoutez un mot, s'il vous plaît : il est vrai que c'est par mon invention que mon maître est avec votre fille ; mais en le servant, je ne vous ai point désobligé : c'est un parti sortable pour elle, tant pour la naissance que pour les biens.Croyez-moi, ne faites point un vacarme qui tournerait à votre confusion, et envoyez à tous les diables ce coquin-là, avec Villebrequin.Mais voici nos amants.
 
-**** *book_moliere_medecin-volant *id_I16 *act_I *date_1668
+**** *book_ *id_I16 *act_I *date_1668
 
 -*who_sganarelle
 Nous nous jetons à vos pieds.

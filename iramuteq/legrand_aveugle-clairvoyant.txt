@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-2 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body02 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Eh bien ! madame, à quoi vous déterminez-vous ?
@@ -39,13 +39,13 @@ Car enfin l'accident dont on a la nouvelle
 N'a pas dû l'embellir.
 
 -*who_lisette
-C'est une bagatelle.
+      C'est une bagatelle.
 Quoi ! parce que le vent d'un boulet de canon
 Nous le renvoie aveugle ? Eh quoi ! cette raison
 Vous doit-elle empêcher de conclure ?
 
 -*who_leonor
-Sans doute.
+      Sans doute.
 
 -*who_lisette
 Refuser un mari parce qu'il ne voit goutte !
@@ -90,20 +90,20 @@ Puisque jusques ici vous m'avez fait mystère...
 Hoé, hoé, hoé !
 
 -*who_lisette
-J'entends Marin, je crois.
+      J'entends Marin, je crois.
 
 -*who_leonor
 Le valet de Damon ?
 
 -*who_lisette
-Oui, vraiment, c'est sa voix ;
+      Oui, vraiment, c'est sa voix ;
 Je la reconnois bien : il faut, sans plus attendre,
 Prendre votre parti.
 
 -*who_leonor
-Quel parti puis-je prendre ?
+      Quel parti puis-je prendre ?
 
-**** *book_ *id_body-3 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body03 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Hoé, hoé, hoé ! Parbleu, j'ai beau crier :
@@ -111,7 +111,7 @@ Comment donc, est-ce ainsi qu'on reçoit un courrier ?
 Personne ne descend.
 
 -*who_leonor
-Qu'as-tu fait de ton maître ?
+      Qu'as-tu fait de ton maître ?
 
 -*who_marin
 Ne vous alarmez point, vous l'allez voir paroître ;
@@ -126,7 +126,7 @@ A faire entrer Marin dans notre confidence.
 Que vas-tu faire ?
 
 -*who_lisette
-Il m'aime, et fera tout pour moi,
+      Il m'aime, et fera tout pour moi,
 J'en suis sûre... Marin, puis-je compter sur toi ?
 
 -*who_marin
@@ -141,12 +141,12 @@ A cent coups de bâton dût s'exposer mon dos,
 Vous n'avez qu'à parler.
 
 -*who_lisette
-II faut tromper ton maître,
+      II faut tromper ton maître,
 Et sur les gens qu'ici tu pourras voir paroître,
 Ne lui rien témoigner.
 
 -*who_marin
-Il suffit, je t'entends.
+      Il suffit, je t'entends.
 Madame en notre absence a fait quelques amans,
 Et Damon l'inquiete un peu par sa venue.
 Ne craigniez rien ; depuis qu'il a perdu la vue,
@@ -163,7 +163,7 @@ Madame... en vérité... c'est de quoi me toucher
 Hâtez-vous de répondre à mon ardeur extrême,
 Et songez que mon maître arrive à l'heure même.
 
-**** *book_ *id_body-4 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body04 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Vingt louis ! malepeste ! Allons, mon cher Marin,
@@ -191,13 +191,13 @@ Mettre à bout Léonor et ses amans... Mais chut.
 La voici de retour aussi bien que Lisette.
 Prenons de toutes mains, et dupons la coquette.
 
-**** *book_ *id_body-5 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body05 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Eh bien ! ces vingt louis sont-ils prêts ?
 
 -*who_leonor
-Les voici.
+      Les voici.
 
 -*who_marin
 Je les prends sans compter, et vous dis grand merci.
@@ -226,10 +226,10 @@ A perdu les attraits qu'il avoit en partage.
 Oui, je saurai vous peindre en remède d'amour
 Mais voici votre tante.
 
-**** *book_ *id_body-6 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body06 *act_ *date_1716 *creator_legrand
 
 -*who_marin
-Eh ! madame, bonjour.
+      Eh ! madame, bonjour.
 
 -*who_tante
 Qu'ai-je appris, cher Marin ? Quel accident terrible !
@@ -239,7 +239,7 @@ Damon revient aveugle ? O ciel ! est-il possible ?
 Madame, il est trop vrai.
 
 -*who_tante
-Que je le plains ! hélas !
+      Que je le plains ! hélas !
 Quoiqu'il n'ait pas rendu justice à mes appas,
 Et qu'il ait négligé la tante pour la nièce,
 J'avouerai que toujours pour lui je m'intéresse.
@@ -249,14 +249,14 @@ Vous le plaignez, ma tante ? Ah ! ne plaignez que moi
 Je me vois dans l'état le plus cruel...
 
 -*who_tante
-Pourquoi ?
+      Pourquoi ?
 
 -*who_leonor
 Epouser un aveugle ! Ah ! cette seule idée
 Me fait frémir d'horreur.
 
 -*who_tante
-J'en suis persuadée :
+      J'en suis persuadée :
 Cependant aujourd'hui la disette d'amans
 Est si grande, si grande... il faut suivre le temps.
 
@@ -264,7 +264,7 @@ Est si grande, si grande... il faut suivre le temps.
 Oui, l'espèce est si rare.
 
 -*who_tante
-On est belles, bien faites,
+      On est belles, bien faites,
 Et l'on passe ses jours sans ouïr de fleurettes.
 
 -*who_lisette
@@ -275,7 +275,7 @@ II nous en restera toujours deux à revendre.
 Fournissez-vous chez nous.
 
 -*who_leonor
-Mon Dieu, ne raillons pas,
+      Mon Dieu, ne raillons pas,
 Et songeons bien plutôt à sortir d'embarras.
 
 -*who_lisette
@@ -287,7 +287,7 @@ Qui près de notre aveugle osât passer pour vous.
 Plaisante invention !
 
 -*who_lisette
-Pourquoi ? que savez-vous ?
+      Pourquoi ? que savez-vous ?
 Un aveugle à tromper n'est pas si difficile ;
 Et s'il se rencontroit une personne habile
 Qui pût bien imiter le son de votre voix.
@@ -303,7 +303,7 @@ Qui pour se marier... Par exemple, Lisette.
 Qui, moi ? je ne veux point d'un aveugle.
 
 -*who_marin
-Comment !
+      Comment !
 Pourrois-tu là-dessus balancer un moment ?
 
 -*who_tante
@@ -316,24 +316,24 @@ Qui déguise sa voix à merveille ; et c'est moi.
 Fi donc, madame, fi !
 
 -*who_tante
-Pourquoi donc, je vous prie ?
+      Pourquoi donc, je vous prie ?
 Qui vous fait récrier de la sorte, ma mie ?
 
 -*who_lisette
 Par ma foi, c'est votre âge.
 
 -*who_tante
-Eh ! n'ayez point de peur :
+      Eh ! n'ayez point de peur :
 De ma nièce toujours j'ai passé pour la sœur ;
 Et de mon âge au sien le peu de différence
 Ne vaut pas après tout...
 
 -*who_marin
-Bon ! belle conséquence !
+      Bon ! belle conséquence !
 Quarante-cinq à quinze.
 
 -*who_tante
-Enfin, quoi qu'il en soit,
+      Enfin, quoi qu'il en soit,
 Je jouerai bien mon rôle et mieux que l'on ne croit.
 
 -*who_marin
@@ -346,7 +346,7 @@ Ce qu'on pourroit lui dire il ne le croiroit point.
 Ma tante, je crains bien...
 
 -*who_tante
-Ne te mets point en peine :
+      Ne te mets point en peine :
 Je suis ta belle-mère et même ta marraine,
 Nous portons même nom de fille et de maris,
 Je suis veuve du père, et toi veuve du fils ;
@@ -358,7 +358,7 @@ Et que quand à l'abord il donneroit dedans,
 Il pourroit dans la suite...
 
 -*who_tante
-Et c'est où je l'attends :
+      Et c'est où je l'attends :
 Quand il reconnoîtra cette aimable imposture,
 Il sera trop content de m'avoir, j'en suis sûre.
 
@@ -366,12 +366,12 @@ Il sera trop content de m'avoir, j'en suis sûre.
 Le moyen d'en douter !
 
 -*who_leonor
-Avant tout, cher Marin,
+      Avant tout, cher Marin,
 Je voudrois que Léandre apprît notre dessein :
 Il loge chez Damis.
 
 -*who_marin
-J'y vais, c'est ici proche.
+      J'y vais, c'est ici proche.
 Bon ! autre argent qui va pleuvoir dans notre poche.
 
 -*who_leonor
@@ -384,24 +384,24 @@ Je dirai ce qu'il faut, vous n'avez rien à craindre ;
 Reposez-vous sur moi. La fourbe a réussi :
 Allons vîte avertir Damon de tout ceci.
 
-**** *book_ *id_body-7 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body07 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Ah ! j'entends Lempesé.
 
 -*who_tante
-L'incommode visite !
+      L'incommode visite !
 Je ne le puis souffrir, défais-t'en au plus vîte
 Je passe cependant dans ton appartement
 Où je veux réfléchir sur mon rôle un moment.
 
-**** *book_ *id_body-8 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body08 *act_ *date_1716 *creator_legrand
 
 -*who_leonor
 Qu'il vient mal à propos !
 
 -*who_lempese
-Bonjour, beauté brillante,
+      Bonjour, beauté brillante,
 Toujours plus gracieuse, et toujours plus charmante
 Que tout ce que mes yeux ont vu de plus charmant.
 
@@ -410,7 +410,7 @@ Ah ! pour une autre fois gardez ce compliment ;
 Nous avons du chagrin.
 
 -*who_lempese
-Pardon, ma belle reine,
+      Pardon, ma belle reine,
 Si mon retardement a causé votre peine.
 Mes gens m'ont désolé, j'ai cru n'être jamais
 En état de venir adorer vos attraits ;
@@ -432,11 +432,11 @@ Lui-même ; à l'épouser il voudra la contraindre ;
 Ils ont un bon dédit.
 
 -*who_lempese
-Elle n'a rien à craindre ;
+      Elle n'a rien à craindre ;
 Je le paierai, Lisette, et dussé-je...
 
 -*who_lisette
-Non pas,
+      Non pas,
 Nous voulons sans payer la tirer d'embarras ;
 Et si par un détour de chicane subtile...
 
@@ -447,7 +447,7 @@ Eh bien ! cela n'est pas, je crois, si difficile.
 Pas trop, puisque Damon est aveugle.
 
 -*who_lempese
-Comment ?
+      Comment ?
 
 -*who_lisette
 Un boulet de canon, fort impertinemment
@@ -462,7 +462,7 @@ Oh ! coup de vent heureux, qui me conduit au port !
 Comment ! vous vous flattez de ce malheur ? ...
 
 -*who_lempese
-Sans doute :
+      Sans doute :
 Je lui fais un procès sur ce qu'il ne voit goutte.
 J'ai, comme vous savez, mon frère l'avocat
 Qui brille au parlement avec assez d'éclat.
@@ -479,7 +479,7 @@ Ah ! Lisette, je suis dans un désordre extrême,
 Je n'ose soutenir...
 
 -*who_lisette
-Je vais le recevoir,
+      Je vais le recevoir,
 Rentrez ; et vous, monsieur, adieu, jusqu'au revoir.
 
 -*who_lempese
@@ -489,35 +489,35 @@ Ne pouvant être vu, je puis rester, Lisette.
 Vous vous moquez de moi.
 
 -*who_lempese
-Que rien ne t'inquiète.
+      Que rien ne t'inquiète.
 
 -*who_lisette
 Ma foi, vous sortirez.
 
 -*who_lempese
-Non, je suis curieux
+      Non, je suis curieux
 De voir comme s'exprime un aveugle amoureux.
 
 -*who_lisette
 J'enrage !
 
-**** *book_ *id_body-9 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body09 *act_ *date_1716 *creator_legrand
 
 -*who_damon
-Holà ! Quelqu'un, Marin... tout m'abandonne,
+      Holà ! Quelqu'un, Marin... tout m'abandonne,
 Et dans cette maison je ne trouve personne.
 
 -*who_lisette
 Monsieur, on vient à vous.
 
 -*who_damon
-C'est Léonor, je crois ?
+      C'est Léonor, je crois ?
 
 -*who_lisette
 Non, monsieur, c'est Lisette.
 
 -*who_damon
-Eh bien ! tu me revois ;
+      Eh bien ! tu me revois ;
 Mais je ne puis avoir un pareil avantage.
 
 -*who_lisette
@@ -527,7 +527,7 @@ Vos yeux sont toujours beaux, hélas ! c'est grand dommage !
 Où Léonor est-elle ?
 
 -*who_lisette
-En son appartement.
+      En son appartement.
 Et je vais l'avertir dans ce même moment...
 
 -*who_damon
@@ -537,11 +537,11 @@ Léonor pourroit-elle, en bravant mon courroux,
 Introduire céans...
 
 -*who_lisette
-Eh ! là, monsieur, tout doux,
+      Eh ! là, monsieur, tout doux,
 Ce n'est qu'un domestique.
 
 -*who_damon
-Ah ! c'est une autre affaire.
+      Ah ! c'est une autre affaire.
 
 -*who_lisette
 Madame du premier a voulu se défaire ;
@@ -549,7 +549,7 @@ C'étoit un paresseux qui n'avoit aucun soin.
 Passez dans l'antichambre.
 
 -*who_damon
-Eh ! non, j'en ai besoin.
+      Eh ! non, j'en ai besoin.
 Un fauteuil. Je me sens les jambes si serrées...
 Hé ! l'ami, tire-moi mes bottines fourrées.
 
@@ -557,15 +557,15 @@ Hé ! l'ami, tire-moi mes bottines fourrées.
 Allons, dépêchez-vous.
 
 -*who_lempese
-Qui ? moi, le débotter ?
+      Qui ? moi, le débotter ?
 Non parbleu ! je m'en vais.
 
 -*who_lisette
-Ce seroit tout gâter.
+      Ce seroit tout gâter.
 Que pourroit-il penser ?
 
 -*who_lempese
-Oui, mais par où m'y prendre ?
+      Oui, mais par où m'y prendre ?
 
 -*who_lisette
 Vous méritez cela, pourquoi vouloir attendre...
@@ -581,17 +581,17 @@ Ah ! je vous ferai bien remuer cette idole.
 Se dépêchera-t-on, à la fin...
 
 -*who_lisette
-Carmagnole,
+      Carmagnole,
 Debottez donc monsieur.
 
 -*who_lempese
-Je ne pourrai jamais.
+      Je ne pourrai jamais.
 
 -*who_lisette
 Otez votre casaque.
 
 -*who_damon
-Ah ! le maudit laquais.
+      Ah ! le maudit laquais.
 On voit bien que jamais il ne fut à la guerre.
 Tire à toi, fort ! plus fort ! Il est, je crois, par terre.
 
@@ -602,23 +602,23 @@ Je n'y puis résister, Lisette, absolument.
 Allons, à l'autre.
 
 -*who_lempese
-Encore une autre ?
+      Encore une autre ?
 
 -*who_lisette
-Apparemment.
+      Apparemment.
 II faut bien achever. Mais son valet s'avance ;
 Ne craignez rien, il est de notre intelligence.
 
 -*who_lempese
 Je respire.
 
-**** *book_ *id_body-10 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body10 *act_ *date_1716 *creator_legrand
 
 -*who_marin
-Ah ! ah ! ah !
+      Ah ! ah ! ah !
 
 -*who_damon
-Qui te fait rire ainsi ?
+      Qui te fait rire ainsi ?
 
 -*who_marin
 C'est, monsieur... Apprends-moi ce qui se passe ici ?
@@ -627,7 +627,7 @@ C'est, monsieur... Apprends-moi ce qui se passe ici ?
 Ne fais semblant de rien.
 
 -*who_damon
-D'où viens-tu, double traître ?
+      D'où viens-tu, double traître ?
 Dans l'état où je suis peut-on laisser un maître,
 L'abandonner aux mains d'un butor, d'un lourdaud ?
 
@@ -638,7 +638,7 @@ II falloit apporter votre malle ici-haut.
 Il falloit se hâter.
 
 -*who_marin
-La charge est trop pesante.
+      La charge est trop pesante.
 Votre malle, monsieur, pèse deux cent cinquante :
 Par ma foi, quand j'aurois la force d'un mulet...
 
@@ -649,10 +649,10 @@ Chargez-la sur le dos de ce maudit valet.
 Encore !
 
 -*who_marin
-Quel valet, s'il vous plaît ?
+      Quel valet, s'il vous plaît ?
 
 -*who_damon
-Carmagnole,
+      Carmagnole,
 Un benêt qui depuis une heure me désole,
 Dans mon appartement qu'il aille la porter :
 Acheve cependant, toi, de me débotter.
@@ -661,7 +661,7 @@ Acheve cependant, toi, de me débotter.
 Tenez donc, Carmagnole.
 
 -*who_lempese
-Oh ! le diable t'emporte !
+      Oh ! le diable t'emporte !
 Je ne saurois porter un fardeau de la sorte ;
 Je crois que tu me prends pour un cheval de bâts.
 Adieu, je reviendrai quand il n'y sera pas.
@@ -673,7 +673,7 @@ De son retardement à la fin je m'ennuie.
 -*who_lisette
 J'y vais, monsieur.
 
-**** *book_ *id_body-11 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body11 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Eh bien ! que t'en semble, Marin ?
@@ -692,7 +692,7 @@ Passe encor pour Léandre, il a quelque agrément.
 II est donc à Paris malgré tout ?
 
 -*who_marin
-Oui, vraiment.
+      Oui, vraiment.
 Je viens de lui parler, vous dis-je, à l'heure même.
 
 -*who_damon
@@ -702,15 +702,15 @@ Et tu ne doutes point que Léonor ne l'aime ?
 Le moyen d'en douter !
 
 -*who_damon
-II est instruit du tour
+      II est instruit du tour
 Que la Tante prétend jouer à mon amour ?
 
 -*who_marin
 Il en est informé par moi-même.
 
 -*who_damon
-Le traître !
-Avant la fin du jour je lui ferai connoître...
+      Le traître !
+      Avant la fin du jour je lui ferai connoître...
 
 -*who_marin
 Je vous croyois guéri, monsieur, absolument.
@@ -734,19 +734,19 @@ C'est elle-même, songe à seconder ma feinte.
 -*who_marin
 Allez, je suis au fait, n'ayez aucune crainte.
 
-**** *book_ *id_body-12 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body12 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Léonor ne vient point ?
 
 -*who_marin
-Eh ! monsieur, la voici.
+      Eh ! monsieur, la voici.
 
 -*who_damon
 Ah ! madame.
 
 -*who_marin
-Attendez, ce n'est pas par ici.
+      Attendez, ce n'est pas par ici.
 Où diable allez-vous donc parler à cette porte ?
 
 -*who_tante
@@ -756,7 +756,7 @@ Ah ! Damon, quel chagrin de vous voir de la sorte !
 Que sa voix est changée !
 
 -*who_marin
-On vous le disoit bien ;
+      On vous le disoit bien ;
 Mais auprès de ses traits, monsieur, cela n'est rien.
 
 -*who_damon
@@ -767,7 +767,7 @@ Ciel ! que votre accident m'a fait verser de larmes !
 Si vous saviez mon cher.
 
 -*who_damon
-Ah ! je n'en doute pas.
+      Ah ! je n'en doute pas.
 
 -*who_tante
 Je ne saurois parler, et mes soupirs... Hélas !
@@ -836,51 +836,51 @@ Répondez, Léonor, à mon ardeur extrême.
 -*who_tante
 J'y vais, j'y cours, j'y vole, et je reviens de même.
 
-**** *book_ *id_body-13 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body13 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Maugrebleu de la folle !
 
 -*who_damon
-Allons, ce n'est pas tout,
+      Allons, ce n'est pas tout,
 Et je prétends pousser la chose jusqu'au bout.
 Je veux que Lempesé…
 
 -*who_marin
-Paix, j'aperçois Léandre ;
+      Paix, j'aperçois Léandre ;
 Votre dessein étoit de venir le surprendre,
 Le voilà tout surpris.
 
 -*who_damon
-Il n'est pas temps encor,
+      Il n'est pas temps encor,
 Et je veux le surprendre avecque Léonor.
 Je passe dans ma chambre, et je vous laisse ensemble.
 
-**** *book_ *id_body-14 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body14 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Eh bien ! mon cher Marin.
 
 -*who_marin
-Avancez-vous.
+      Avancez-vous.
 
 -*who_leandre
-Je tremble.
+      Je tremble.
 Comment cela va-t-il ?
 
 -*who_marin
-Tout va bien, Dieu merci !
+      Tout va bien, Dieu merci !
 Et comme on l'espéroit la chose a réussi.
 Votre oncle a pris le change.
 
 -*who_leandre
-Il épouse la Tante ?
+      Il épouse la Tante ?
 
 -*who_marin
 Elle est chez le notaire à remplir notre attente.
 Mais voici Léonor qui peut vous assurer...
 
-**** *book_ *id_body-15 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body15 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Eh bien ! madame, enfin on peut donc espérer...
@@ -889,7 +889,7 @@ Eh bien ! madame, enfin on peut donc espérer...
 Selon ce qu'aura fait ma Tante.
 
 -*who_marin
-Des merveilles :
+      Des merveilles :
 Elle a de notre aveugle enchanté les oreilles ;
 Il attend le contrat qu'il s'apprête à signer.
 
@@ -904,14 +904,14 @@ Ah ! quel espoir charmant ! souffrez qu'à vos genoux...
 -*who_marin
 Chut ! Ne remuez pas, l'aveugle vient à nous.
 
-**** *book_ *id_body-16 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body16 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Charmante Léonor, votre voix adorable
 Frappe encor mon oreille.
 
 -*who_lisette
-Ah ! voilà bien le diable.
+      Ah ! voilà bien le diable.
 
 -*who_damon
 Vous n'êtes point partie encore, et votre amour…
@@ -923,7 +923,7 @@ Pardonnez-moi, monsieur, c'est qu'elle est de retour.
 Eh bien ! qu'avez-vous fait ?
 
 -*who_marin
-Le notaire est en ville.
+      Le notaire est en ville.
 
 -*who_damon
 Il faut en prendre un autre, est-il si difficile ?
@@ -932,7 +932,7 @@ Il faut en prendre un autre, est-il si difficile ?
 Elle y va retourner.
 
 -*who_damon
-Qu'elle reste un moment ;
+      Qu'elle reste un moment ;
 Je serai bien payé de ce retardement
 Par les douceurs qui vont sortir de cette bouche.
 Redites donc cent fois que mon amour vous touche ;
@@ -943,11 +943,11 @@ Qui viennent de me mettre au comble de mes voeux.
 Que lui disoit ma tante ?
 
 -*who_marin
-Ah ! j'aurois de la peine
+      Ah ! j'aurois de la peine
 A m'en ressouvenir.
 
 -*who_leonor
-Juste ciel ! quelle gêne ?
+      Juste ciel ! quelle gêne ?
 Parlons, puisqu'il le faut. Oui, je n'aime que vous,
 Je fais tout mon bonheur de vous voir mon époux.
 
@@ -966,7 +966,7 @@ Que ne peut-il vous voir de même en ces instans !
 Ah ! qu'il seroit content !
 
 -*who_damon
-Si je ne vois, j'entends.
+      Si je ne vois, j'entends.
 
 -*who_leonor
 Oui, ma main suit mon cœur, et dans cette journée
@@ -981,30 +981,30 @@ Quelle main est-ce là ? que faut-il que je pense ?
 C'est la mienne, monsieur.
 
 -*who_damon
-Tiens, de ton insolence,
+      Tiens, de ton insolence,
 Maraud, voilà le prix.
 
 -*who_leonor
-Je suis au désespoir.
+      Je suis au désespoir.
 
 -*who_damon
 Je t'apprendrai, faquin...
 
 -*who_marin
-Revenez-y pour voir.
+      Revenez-y pour voir.
 
 -*who_leandre
 Te moques-tu de moi ?
 
 -*who_leonor
-Vous êtes en colere ?
+      Vous êtes en colere ?
 Je vous quitte, et je vais retourner au notaire.
 
 -*who_damon
 Allez donc, et hâtez ces précieux instans :
 Qu'il apporte au plutôt le contrat, je l'attends.
 
-**** *book_ *id_body-17 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body17 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Il n'est pas avec moi besoin que l'on s'explique ;
@@ -1021,20 +1021,20 @@ Je vais vous le chercher, je sais bien à-peu-près...
 Mais, par ma foi, la bête entre dans nos filets,
 Et le voici lui-même.
 
-**** *book_ *id_body-18 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body18 *act_ *date_1716 *creator_legrand
 
 -*who_lempese
-Où Léonor est-elle ?
+      Où Léonor est-elle ?
 
 -*who_marin
 Chez le notaire.
 
 -*who_lempese
-O ciel ! quelle triste nouvelle !
+      O ciel ! quelle triste nouvelle !
 Elle épouse Damon ?
 
 -*who_marin
-C'est à son grand regret.
+      C'est à son grand regret.
 
 -*who_lempese
 Je venois l'informer de tout ce que j'ai fait.
@@ -1044,7 +1044,7 @@ Mon frère m'ayant dit que l'affaire étoit bonne...
 A qui donc parles-tu ?
 
 -*who_marin
-Moi, monsieur, à personne.
+      Moi, monsieur, à personne.
 
 -*who_damon
 Tu me trompes ; j'entends marcher quelqu'un ici.
@@ -1053,7 +1053,7 @@ Tu me trompes ; j'entends marcher quelqu'un ici.
 Je tremble.
 
 -*who_damon
-Je me veux éclaircir de ceci.
+      Je me veux éclaircir de ceci.
 
 -*who_marin
 Que lui dire ? Ma foi ! j'ai perdu la parole.
@@ -1076,7 +1076,7 @@ Donnez-moi ce remède, il faut que je l'éprouve.
 Allons, cherchez, monsieur.
 
 -*who_lempese
-Que veux-tu que je trouve ?
+      Que veux-tu que je trouve ?
 
 -*who_marin
 N'avez-vous point sur vous quelque poudre, quelque eau
@@ -1097,7 +1097,7 @@ Qu'importe ? La belle eau ! la vue est éclaircie
 Seulement à la voir.
 
 -*who_damon
-Je vous en remercie ;
+      Je vous en remercie ;
 Si j'en suis soulagé je vous devrai beaucoup.
 
 -*who_marin
@@ -1116,7 +1116,7 @@ Car la femme à la vue est tout-à-fait contraire.
 Hippocrate le dit.
 
 -*who_damon
-Mais comment veux-tu faire ?
+      Mais comment veux-tu faire ?
 La rupture à présent causeroit trop d'éclat :
 On va dans ce moment m'apporter le contrat
 Signé de Léonor. Elle pourroit se plaindre :
@@ -1157,7 +1157,7 @@ Flatte déjà mon cœur, et ma joie est extrême...
 N'hésitez pas, monsieur, à le nommer.
 
 -*who_lempese
-Moi-même,
+      Moi-même,
 Qui de vous obliger eus toujours grand désir.
 
 -*who_damon
@@ -1189,10 +1189,10 @@ Il faut bien s'obliger ainsi les uns les autres.
 Mais le notaire vient.
 
 -*who_damon
-Cachons-lui tout ceci.
+      Cachons-lui tout ceci.
 Toi, prends garde qu'aucun ne nous surprenne ici
 
-**** *book_ *id_body-19 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body19 *act_ *date_1716 *creator_legrand
 
 -*who_notaire
 A tous présens salut. Jamais dans mon étude
@@ -1209,7 +1209,7 @@ Mais, messieurs, à vous voir les yeux que je vous voi,
 Qui des deux, s'il vous plaît, est aveugle ?
 
 -*who_lempese
-C'est moi.
+      C'est moi.
 
 -*who_notaire
 O ciel ! qui l'auroit cru ? c'est vraiment grand dommage.
@@ -1221,7 +1221,7 @@ Il est vrai ; mais signons sans tarder davantage.
 Il faut lire du moins le contrat.
 
 -*who_lempese
-Nullement.
+      Nullement.
 Léonor l'a signé, je signe aveuglément.
 
 -*who_notaire
@@ -1236,7 +1236,7 @@ Mais je signe toujours Damien Lempesé.
 Vos qualités ?
 
 -*who_lempese
-Hélas ! après mon infortune,
+      Hélas ! après mon infortune,
 Je ne crois pas, monsieur, en devoir prendre aucune ;
 Bon bourgeois de Paris, et cela suffira.
 
@@ -1248,7 +1248,7 @@ On aura même égard à votre diligence.
 Je ne demande rien, je suis payé d'avance ;
 Madame Léonor a su prendre ce soin.
 
-**** *book_ *id_body-20 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body20 *act_ *date_1716 *creator_legrand
 
 -*who_lempese
 De beaucoup de finesse on n'a pas eu besoin.
@@ -1265,7 +1265,7 @@ Avec notre benêt j'ai bien joué mon rôle :
 Il est temps de finir ; je suis assez instruit,
 Et j'en ai vu bien plus qu'on ne m'en avoit dit.
 
-**** *book_ *id_body-21 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body21 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Monsieur, songez à vous ; Léonor et Léandre
@@ -1273,7 +1273,7 @@ Vont revenir ici : je leur ai fait entendre
 Que vous dormiez.
 
 -*who_damon
-Fort bien ; il faut, mon cher Marin,
+      Fort bien ; il faut, mon cher Marin,
 Que quelque tour plaisant à ceci mette fin.
 
 -*who_marin
@@ -1288,13 +1288,13 @@ Il va leur préparer encore un nouveau trait :
 D'avance je l'approuve, et mon âme ravie...
 Mais voici tous nos gens, jouons la comédie.
 
-**** *book_ *id_body-22 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body22 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Eh bien ! dort-il encore ?
 
 -*who_marin
-A faire tout trembler ;
+      A faire tout trembler ;
 La maison tomberoit, je crois, sans le troubler.
 
 -*who_leonor
@@ -1303,10 +1303,10 @@ Reviens nous avertir ; car je serois perdue
 S'il entendoit la voix de Léandre.
 
 -*who_marin
-Fort bien.
+      Fort bien.
 Discourez à votre aise et n'appréhendez rien.
 
-**** *book_ *id_body-23 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body23 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Je ne reviens ici qu'en tremblant, je l'avoue.
@@ -1316,7 +1316,7 @@ C'est peu d'être frustré de sa succession,
 Son courroux...
 
 -*who_leonor
-Tout est fait, et ma tante est sa femme,
+      Tout est fait, et ma tante est sa femme,
 Qui comme elle voudra saura tourner son âme.
 
 -*who_lisette
@@ -1329,7 +1329,7 @@ Sans nous en informer aura joué ce tour.
 Laissez-les entr'eux deux démêler la fusée.
 Je vous la garantis femelle aussi rusée…
 
-**** *book_ *id_body-24 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body24 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 O disgrâce terrible ! inopiné malheur !
@@ -1338,19 +1338,19 @@ O disgrâce terrible ! inopiné malheur !
 Que seroit-ce, Marin ?
 
 -*who_leonor
-Je tremble de frayeur.
+      Je tremble de frayeur.
 
 -*who_marin
 Damon voit clair d'un œil.
 
 -*who_leandre
-Ah ! juste ciel ! qu'entends-je ?
+      Ah ! juste ciel ! qu'entends-je ?
 
 -*who_leonor
 Je suis au désespoir.
 
 -*who_lisette
-Quel accident étrange !
+      Quel accident étrange !
 
 -*who_marin
 Il vient de s'éveiller avec un air joyeux :
@@ -1376,10 +1376,10 @@ Il s'en peut rencontrer, entre mille, un heureux.
 Et de quel œil voit-il ?
 
 -*who_marin
-De l'œil droit.
+      De l'œil droit.
 
 -*who_leonor
-Ah ! Lisette,
+      Ah ! Lisette,
 De quoi t'informes-tu, quand mon âme inquiète
 Eprouve en ce moment le sort le plus fatal ;
 Quand je dois craindre tout d'un jaloux, d'un brutal...
@@ -1388,11 +1388,11 @@ Quand je dois craindre tout d'un jaloux, d'un brutal...
 Ah ! ma foi, le voici.
 
 -*who_leandre
-Je ne veux pas l'attendre,
+      Je ne veux pas l'attendre,
 Je gagne l'escalier.
 
 -*who_leonor
-Que faites-vous, Léandre ?
+      Que faites-vous, Léandre ?
 A présent qu'il voit clair, il va vous rencontrer.
 
 -*who_marin
@@ -1401,10 +1401,10 @@ Dans son grand cabinet vous ferez mieux d'entrer.
 -*who_leandre
 Juste ciel ! quel revers !
 
-**** *book_ *id_body-25 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body25 *act_ *date_1716 *creator_legrand
 
 -*who_damon
-Ah ! quel bonheur extrême !
+      Ah ! quel bonheur extrême !
 Quoi ! Je puis donc enfin revoir tout ce que j'aime !
 Prenez part, Léonor, au plaisir que je sens.
 O ciel ! quel teint ! quels yeux ! quels appas ravissans !
@@ -1438,42 +1438,42 @@ Il faut parer le coup. Mais croyez-vous, monsieur,
 Ne voir clair que d'un œil ?
 
 -*who_damon
-Pourquoi ?
+      Pourquoi ?
 
 -*who_lisette
-Si par bonheur
+      Si par bonheur
 Vous voyez de tous deux ?
 
 -*who_damon
-Non, cela ne peut être.
+      Non, cela ne peut être.
 
 -*who_lisette
 Dans ce moment, monsieur, nous le pourrons connoître :
 Souffrez qu'avec ma main...
 
 -*who_damon
-Oui-da, je le veux bien.
+      Oui-da, je le veux bien.
 
 -*who_lisette
 Parlez ; que voyez-vous ?
 
 -*who_damon
-Parbleu ! je ne vois rien.
+      Parbleu ! je ne vois rien.
 
 -*who_lisette
 Rien du tout ?
 
 -*who_damon
-Non vraiment.
+      Non vraiment.
 
 -*who_leonor
-Sortez sans plus attendre.
+      Sortez sans plus attendre.
 
 -*who_lisette
 Vous ne voyez donc rien ?
 
 -*who_damon
-Si fait, je vois Léandre
+      Si fait, je vois Léandre
 Qui sort dans ce moment de mon grand cabinet.
 
 -*who_lisette
@@ -1487,7 +1487,7 @@ Et cet objet pour vous est un nouveau spectacle.
 D'où vous vient donc à tous ce grand étonnement ?
 Est-ce de voir la fin de mon aveuglement ?
 
-**** *book_ *id_body-26 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body26 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Mais j'aperçois, je crois, mon médecin. De grâce
@@ -1495,14 +1495,14 @@ Approchez-vous, monsieur, venez qu'on vous embrasse :
 Votre divin remède…
 
 -*who_lempese
-Eh bien ?
+      Eh bien ?
 
 -*who_damon
-A réussi,
+      A réussi,
 Je vois clair des deux yeux.
 
 -*who_lempese
-Que veut dire ceci ?
+      Que veut dire ceci ?
 A cette guérison, je ne puis rien connoître.
 
 -*who_marin
@@ -1519,7 +1519,7 @@ On peut tout hasarder après un tel succès.
 -*who_marin
 Ah ! parbleu, voici l'autre.
 
-**** *book_ *id_body-27 *act_ *date_1716 *creator_legrand
+**** *book_ *id_body27 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Ah ! ah ! c'est notre Tante.
@@ -1536,18 +1536,18 @@ Si vous voyez si clair, regardez votre femme ;
 J'ai signé le contrat pour ma nièce.
 
 -*who_damon
-Ah ? madame.
+      Ah ? madame.
 
 -*who_tante
 Cela vous fâche un peu ?
 
 -*who_damon
-Moi, madame ! pourquoi ?
+      Moi, madame ! pourquoi ?
 C'est monsieur Lempesé qui l'a signé pour moi ;
 Regardez votre époux.
 
 -*who_tante
-Vous vous moquez, je pense.
+      Vous vous moquez, je pense.
 
 -*who_damon
 Je ne me moque point, je parle en conscience.
@@ -1556,7 +1556,7 @@ Je ne me moque point, je parle en conscience.
 Que veut dire cela ?
 
 -*who_marin
-Que pour l'avoir guéri,
+      Que pour l'avoir guéri,
 De ce jeune tendron il vous a fait mari.
 
 -*who_damon
@@ -1566,13 +1566,13 @@ Pouvois-je mieux payer un si rare service ?
 Une vieille !
 
 -*who_tante
-Un benêt !
+      Un benêt !
 
 -*who_lempese
-Une folle !
+      Une folle !
 
 -*who_tante
-Un Jocrisse.
+      Un Jocrisse.
 
 -*who_marin
 Fort bien, continuez, c'est à des noms si doux
@@ -1583,7 +1583,7 @@ Pour me venger de vous, oui, je serai sa femme,
 Et je vous ferai voir...
 
 -*who_lempese
-Non, s'il vous plaît, madame.
+      Non, s'il vous plaît, madame.
 
 -*who_tante
 Tout comme il vous plaira, monsieur, arrangez vous ;
@@ -1604,11 +1604,11 @@ Qui m'as fait tout du long donner dans le panneau ?
 Je ne sais qui me tient.
 
 -*who_damon
-Tout beau, monsieur, tout beau ;
+      Tout beau, monsieur, tout beau ;
 Ne vous emportez point.
 
 -*who_lisette
-Qu'as-tu fait, double traître ?
+      Qu'as-tu fait, double traître ?
 
 -*who_marin
 Je vous ai trompés tous, et j'ai servi mon maître.

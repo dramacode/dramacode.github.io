@@ -1,5 +1,5 @@
 ---
-identifier: gougenot_fidelle  
+identifier: gougenot_fidele-tromperie  
 creator: Gougenot, Nicolas  
 date: 1633  
 title: La Fidelle Tromperie. Tragi-comédie  
@@ -1428,8 +1428,6 @@ Didascalie    Fil. se va habiller.     Filamire se va habiller    14
  – SENTINELLE,Soldat de Cypre
  – COURRIER de Mede
 
-La Fidelle Tromperie                        
-
 
 ## ACTE PREMIER
 
@@ -1443,7 +1441,7 @@ ARMIDORE, puis CLIDAME
 Image precieux [105] de ma vivante aurore,      
 Belle feinte d'amour que mon esprit adore,  
 Rayons de mon Soleil, doux abus⁎ de mes yeux,  
-Aymables alimens de mes feux⁎ glorieux,                      
+Aymables alimens de mes feux⁎ glorieux,  
 Agreable mensonge à mon cœur veritable,  
 Symbole d'un bel astre à chacun adorable,  
 Portraict d'une beauté dont les perfections,  
@@ -1463,7 +1461,7 @@ Elancer dans mon cœur tant de traicts⁎ enflammez ?
 Il me semble souvent que cet œil me caresse,  
 Il me rit quelquefois, mais en fin il me blesse.  
 Tantost il me paroist un éclair amoureux,  
-Et tantost il me semble un foudre rigoureux.                      
+Et tantost il me semble un foudre rigoureux.  
 Dans ces opinions je rougis de ma honte      
 Et m'estonne⁎ comment une idole [107] me dompte :  
 Mais si tous ces attraits ne sont que des couleurs  
@@ -1486,7 +1484,7 @@ Je veux voir ce Soleil dont vous estes l'idée.
 Ma foy⁎ de ce desir tousjours persuadée  
 S'y promet les faveurs de l'amour et du sort,  
 Ceste entreprise veut un genereux⁎ effort,  
-Mais voicy tout à point mon fidele Clidame. [112]                       
+Mais voicy tout à point mon fidele Clidame. [112]  
 
     CLIDAME
 N'esteindrez-vous jamais ceste subtile flame  
@@ -1509,7 +1507,7 @@ Que nostre cœur ne peut son pouvoir dementir,
 Qu'il est inévitable, et que sa douce flame  
 Fait naistre en s'exaltant les delices⁎ de l'ame,  
 Vous cognoistrez alors, cher cousin, mais trop tard,  
-Qu'il blesse avec dessein, et non pas par hazard.                  
+Qu'il blesse avec dessein, et non pas par hazard.  
 
     CLIDAME
 On fait peur aux enfans de postures contraintes, [115]  
@@ -1531,7 +1529,7 @@ Qui n'a de la vertu que l'ombre seulement :
 Que semblable au Sorcier pour mieux couvrir ses feintes,  
 Il se sert des vertus, et des paroles saintes,  
 De mesmes quand l'amour veut pratiquer ses loix,  
-Il contrefaict le Sainct en sa trompeuse voix,                      
+Il contrefaict le Sainct en sa trompeuse voix,  
 Et c'est dans cet abus⁎ que se forme le vice.  
 
     ARMIDORE
@@ -1539,14 +1537,14 @@ Ce blaspheme merite un éternel supplice,
 C'est assez mon cousin.  
 
     CLIDAME
-Vostre esprit consulté,  
+        Vostre esprit consulté,  
 Vous trouverez Amour fils de l'oisiveté.  
 
     ARMIDORE
 Vous estes en courroux.  
 
     CLIDAME
-Vos vertus ramassées [117],  
+        Vos vertus ramassées [117],  
 Vous reprendrez un jour vos premieres pensées,  
 Et ce masque d'Amour disparoistra soudain.  
 
@@ -1559,7 +1557,7 @@ Ce que le mien conçoit s'exale par ma bouche,
 Mais puis que ce tourment⁎ vous maistrise absolu, [118]  
 Je vous y veux servir, je m'y suis resolu.  
 
-    ARMIDORE    
+    ARMIDORE
 Vous me ressuscitez, ha que je vous embrasse.  
 
     CLIDAME
@@ -1584,7 +1582,7 @@ Qui trouvant un support dedans vostre assistance,
 Rien à nostre dessein ne fera resistance,  
 Nos heureuses faveurs jointes à ce conseil,  
 Je verray les cachots où luit mon beau Soleil,  
-Si par vostre secours le bon-heur me caresse,                      
+Si par vostre secours le bon-heur me caresse,  
 Je feray bien tost bréche à ceste forteresse,  
 Ou plustost j'ouvriray le Ciel ambitieux  
 Qui recele⁎ à mon cœur son Soleil gracieux :  
@@ -1606,7 +1604,7 @@ Mais moy que deviendray-je en ce beau changement ?
 Ceste difficulté trouble mon jugement,  
 Cher amy c'est à vous à surmonter⁎ ce doute.  
 
-    CLIDAME    
+    CLIDAME
 Aux affaires d'amour mon esprit ne voit goute,  
 Ces ruses à la fin descouvrent leur poison.  
 
@@ -1627,7 +1625,7 @@ Destinez au secours de vostre ame occupée,
 Sont maintenant tous prests de faire leurs efforts,  
 Allons voir Alderine au peril de cent morts,  
 Toutesfois moderons un peu la violence  
-De ce feu⁎ dont l'effet n'a que trop d'apparence.                  
+De ce feu⁎ dont l'effet n'a que trop d'apparence.  
 
     ARMIDORE
 Je voy bien mon cousin, que vous estes irrité⁎,  
@@ -1666,7 +1664,7 @@ Et dont l'excez m'apporte un mal qu'on ne peut croire,
 De mesme que le miel pris trop abondamment,  
 Nuit de trop de douceur et donne du tourment⁎.  
 Helas ce qui me fut si doucement aymable  
-Se vist en un moment à mes yeux perissable,                      
+Se vist en un moment à mes yeux perissable,  
 Ainsi qu'en une nuict les plus exquises fleurs  
 Perdent toute leur gloire avecque leurs odeurs,  
 Que ma presence fut au besoin⁎ paresseuse  
@@ -1688,7 +1686,7 @@ Que ce desloyal⁎ vive au mespris de tes loix.
 Ce ne fut pas Amour qui blessa Clorisée,  
 Sans doute une furie [135] en Amour déguisée :  
 Animant mes abus⁎ me fit voir Palmedon,  
-Ayant mis dans ces yeux ce furieux⁎ brandon [136]                      
+Ayant mis dans ces yeux ce furieux⁎ brandon [136]  
 Qui presse mon esprit d'une éternelle peine⁎.  
 Puis-je bien tant souffrir, ha miserable⁎ Reine,  
 Deux fureurs font en moy deux excez violens,  
@@ -1709,7 +1707,7 @@ Le Soleil ne voit point de malheur si pressant
 Qu'en leur desloyauté⁎, nostre honneur oppressant, [138]  
 Ny le ciel n'entend point de si piteuses plaintes  
 Que celles dont nos voix souspirent pour leurs feintes,  
-Il semble que le sort contre nous dépité⁎                         
+Il semble que le sort contre nous dépité⁎  
 Favorise l'horreur de leur desloyauté⁎ :  
 Mais, Madame, les pleurs donnent peu d'alegeance, [139]  
 Et retardent beaucoup les fruicts de la vengeance.  
@@ -1730,7 +1728,7 @@ Je neglige ma gloire ainsi qu'on laisse l'arbre
 Lors qu'il est despoüillé de fueilles et de fruicts,  
 En mes estonnemens⁎ mes plaisirs sont destruits,  
 Ainsi ma qualité se relasche indiscrette⁎,      
-Je me sens si confuse en ma douleur secrette                      
+Je me sens si confuse en ma douleur secrette  
 Qu'on m'obligeroit⁎ plus de me laisser mourir,  
 Qu'on ne me fait de bien me voulant secourir.  
 J'aperçois une fille en ma Cour incogneuë :  
@@ -1749,10 +1747,10 @@ CLORISEE, GOUVERNANTE, ARMIDORE déguisé en Lucide, Amazone [144], CLIDAME
 
 
     LUCIDE
-C'est la Reyne sans doute,  
+        C'est la Reyne sans doute,  
 Mon frere le bon-heur assiste nostre route.  
 
-    CLORISÉE    
+    CLORISÉE
 Plus je voy ceste fille et plus je m'esbahis, [145]  
 Sçachons où vont ces gens, s'ils sont de ce pays.  
 
@@ -1776,7 +1774,7 @@ Nostre desir vouloit luy faire resistance,
 Lors que ne voyant plus que des objets de mort,  
 Un bon astre nous fit aborder vostre port.  
 
-    CLORISÉE    
+    CLORISÉE
 Sans doute vous parlez de quelque aspre tourmente. [147]  
 
     CLIDAME
@@ -1797,7 +1795,7 @@ Nostre Pilotte ayant descouvert ce vaisseau,
 Comme frappé du foudre, est plus tremblant que l'eau,  
 Sçachant qu'il receloit⁎ sa ruïne⁎ evidente,  
 Quitte le gouvernail, et reçoit l'espouvante.  
-Nous apperceumes lors un corsaire [152] inhumain⁎,                  
+Nous apperceumes lors un corsaire [152] inhumain⁎,  
 Orgueilleux sur la poupe un coutelas en main,  
 Menacer nostre nef d'un horrible carnage ;  
 Mais les yeux de ma sœur retindrent son courage.  
@@ -1819,7 +1817,7 @@ Fait qu'au cœur de chacun l'estonnement⁎ s'appreste,
 On void par tout s'épandre une forte tempeste, [153]  
 Le Soleil s'obscurcir, et les éclairs ardens⁎,  
 Furent bien tost suivis de tonnerres grondans,  
-D'où éclattoient par tout des foudres effroyables,                  
+D'où éclattoient par tout des foudres effroyables,  
 Les plus libres [154] alors s'estimoient miserables⁎.  
 
     CLORISÉE
@@ -1832,7 +1830,7 @@ Prenant nostre galere à travers de la prouë
 Nous couvre entierement.  
 
     CLORISÉE
-Que fistes vous alors ?  
+        Que fistes vous alors ?  
 
     CLIDAME
 Le corsaire voyant tant de rudes efforts⁎,  
@@ -1844,9 +1842,9 @@ Nous n'eusmes pas plustost delaissé la galere
 Qu'elle fut mise à fonds.  
 
     CLORISÉE
-Bons Dieux que de misere [157] !  
+        Bons Dieux que de misere [157] !  
 
-    CLIDAME    
+    CLIDAME
 Nous roulasmes⁎ trois jours à la mercy des vents,  
 Mais ceste nuict passée autant morts que vivans,  
 Preparez au peril d'un évident naufrage,  
@@ -1868,7 +1866,7 @@ Le traistre s'avançoit pour luy percer le sein.
 Je me jette entre deux où l'ardeur⁎ me transporte,  
 Et l'espée à la main, luy parle en ceste sorte :  
 Méchant tu ne pouvois d'un meurtrier effort⁎  
-Advancer ton amour, ny reculer ta mort.                      
+Advancer ton amour, ny reculer ta mort.  
 C'est moy qui dois donner, corsaire miserable⁎,  
 A tes feux⁎ dissolus⁎ le sallaire equitable.  
 Je conjuray mon frere en l'écartant au loin  
@@ -1904,7 +1902,7 @@ Que ce mot de cousin ne soit plus en usage
 De peur de descouvrir nostre feinte au langage [162],  
 Et de perdre le bien dont je suis possesseur [163] :  
 Que nos noms desormais soient de frere et de sœur,  
-Les arbres pour nous nuire ont souvent des oreilles.                  
+Les arbres pour nous nuire ont souvent des oreilles.  
 
     CLIDAME
 Vous parlez sagement, et bien quelles merveilles,  
@@ -1929,8 +1927,8 @@ Pleust au Ciel que vos yeux vissent mon Alderine.
     CLIDAME
 A-t-elle tant d'attraits ?  
 
-    LUCIDE    
-Plus cent fois que Cyprine [168],  
+    LUCIDE
+        Plus cent fois que Cyprine [168],  
 Sa divine beauté qui peut fléchir les Dieux,  
 Merveille de la terre, et chef-d'œuvre des cieux,  
 Au jugement d'amour demeure sans exemple,  
@@ -1947,7 +1945,7 @@ Augures du beau temps aux pluyes [171] de mes yeux,
 Formez de deux Soleils pleins d'esclairs radieux,  
 Dont je fay mes miroirs, encores que ma face  
 Se perde bien souvent dans ceste belle glace,  
-Sur qui [172] deux sourcis noirs tesmoignent un desir              
+Sur qui [172] deux sourcis noirs tesmoignent un desir  
 De faire dueil pour ceux que ses yeux font mourir,  
 Quand son double corail l'un à l'autre se touche  
 Il forme l'arc d'amour [173] figure de sa bouche,  
@@ -1968,7 +1966,7 @@ Arresteroient bien mieux la course du Soleil,
 Que ne fit autresfois la fille de Penée  
 Lors qu'elle redoubloit sa fuitte infortunée⁎ [179].  
 
-    CLIDAME    
+    CLIDAME
 Toutes ces beautez sont en vos perfections.  
 
     LUCIDE
@@ -1996,7 +1994,7 @@ Je puis bien esperer où nature a pouvoir.
 
     CLIDAME
 Si Venus autresfois, pour faire voir sa gloire [183],  
-Anima dans ceste isle une image d'yvoire [184] [185],                      
+Anima dans ceste isle une image d'yvoire [184] [185],  
 Elle peut bien aussi vostre sexe changer  
 Pour punir vostre orgueil, et pour me soulager.  
 
@@ -2017,7 +2015,7 @@ Vous estes obstiné dans ce mépris mocqueur.
 Je vay trouver la Reyne,  
 
     LUCIDE
-Et moy revoir mon cœur [188].  
+        Et moy revoir mon cœur [188].  
 
 
 ### SCENE DEUXIESME
@@ -2038,7 +2036,7 @@ Son audace où tousjours paroist la modestie [193],
 Son courage où reluit la generosité,  
 Son cœur bruslant d'amour et de fidelité,  
 Ces dons, ma grande amie, où l'on void tant de charmes⁎,  
-Luy donnent les honneurs des beautez et des armes.                  
+Luy donnent les honneurs des beautez et des armes.  
 Que je dois bien aymer l'astre de mon destin,  
 Qui me fait posseder un si riche butin,  
 Les souspirs que son cœur pour mon amour respire,  
@@ -2057,7 +2055,7 @@ Toutes choses s'opposent à de telles amours.
 La biche ayme son cerf, et l'ourse ayme son ours,  
 Tout suit l'ordre estably des soins [196] de la nature,  
 Lucide seule suit une vaine imposture,  
-Une flame incogneuë au sentiment humain,                      
+Une flame incogneuë au sentiment humain,  
 La fille de Cyane ayma bien son Germain,  
 Semyramys son fils, et Myrre ayma son pere, [197]  
 Ces amours diffamez⁎ d'éternel vitupere [198],  
@@ -2078,7 +2076,7 @@ Ainsi Lucide doit de l'abus⁎ se distraire⁎.
 Mamie [204] je ne puis comprendre vos discours ;  
 Ce Dedale a pour moy de trop fascheux destours [205].  
 Si donc un bel esprit rencontre du merite⁎  
-Où l'amitié l'attire, il faut qu'il s'en irrite⁎,                      
+Où l'amitié l'attire, il faut qu'il s'en irrite⁎,  
 Florinde vous pouvez en dire autant de moy,  
 Car Lucide m'attache à ceste mesme loy.  
 Je cheris ses vertus à l'égal de ma vie,  
@@ -2102,7 +2100,7 @@ Non, non, ce qu'elle fait n'est que par complaisance [208].
     FLORINDE
 Madame, s'il vous plaist, feindre un jour une absence,  
 Et vous cacher en lieu d'où vous nous puissiez voir,  
-Vous direz que l'amour excede⁎ son pouvoir.                      
+Vous direz que l'amour excede⁎ son pouvoir.  
 
     ALDERINE
 Ma Florinde esprouvons⁎ un jour ceste adventure.  
@@ -2123,7 +2121,7 @@ Le foudre en sa fureur⁎ espargne le laurier,
 Et la vigne cherit l'ombre de l'olivier,  
 Pourquoy, blasmer Lucide, et trouver tant estrange  
 Que sa sainte amitié à la mienne se range ?  
-Mais la voicy venir. Mon cœur d'où venez-vous ?              
+Mais la voicy venir. Mon cœur d'où venez-vous ?  
 Vostre absence desja me mettoit en courroux,  
 Qui vous a si long-temps soustraite à ma presence ?  
 
@@ -2142,7 +2140,7 @@ Ma paupiere se ferme, et mon teint devient pasle,
 Ne pouvant plus rien voir, je me perds au sommeil,  
 Et comme le soucy⁎ j'attens le beau Soleil.  
 
-    LUCIDE    
+    LUCIDE
 Madame, quand le sort de vos yeux me separe,  
 La mort en mesme temps de mon ame s'empare,  
 Je me brusle en ma crainte, et me noye en mes pleurs,  
@@ -2163,7 +2161,7 @@ Je ne puis supporter ce triste esloignement [214].
     ALDERINE
 Lucide, je ne suis, vous absente qu'un ombre, [215]  
 Dedans ce desplaisir j'ay des peines⁎ sans nombre,  
-On compteroit plustost les roses du printemps,                      
+On compteroit plustost les roses du printemps,  
 Que mes tristes ennuis⁎ lors que je vous attens.  
 
     LUCIDE
@@ -2185,7 +2183,7 @@ Mais où pourroit on voir des flames plus ardentes⁎,
 Peut-on mieux exprimer des amours violentes ?  
 Quel Amant pour sa Dame a jamais tant souffert ?  
 Qui sur l'autel d'amour a jamais tant offert ?  
-Pleust aux Dieux maintenant que Lucide fust homme,                  
+Pleust aux Dieux maintenant que Lucide fust homme,  
 J'estimerois beaucoup l'amour qui la consomme⁎,  
 Un Prince possedant ces belles qualitez,  
 Pourroit lors à bon droict adorer vos beautez [217].  
@@ -2226,7 +2224,7 @@ Helas ! je ne croy pas que ce bon-heur m'arrive,
 Celuy de Palmedon me tient tousjours craintive.  
 Demeurez en ce lieu pour recevoir ce Roy,  
 Sa venuë [223] m'afflige⁎, et me met hors de moy.  
-Mais, que veut maintenant ce Chevalier estrange⁎ ?                  
+Mais, que veut maintenant ce Chevalier estrange⁎ ?  
 
     ARISTOME
 Princesse dont chacun celebre la loüange,  
@@ -2245,7 +2243,7 @@ Autant aymé du Ciel qu'il est craint en la terre,
 Tesmoigne tant d'adresse aux plus rudes combats  
 Que la mort n'est sinon l'object de ses esbats⁎ , [228]  
 Je l'ay veu triompher du Prince d'Hyrcanie,  
-Dont Mars mesme estimoit la valeur⁎ infinie,                      
+Dont Mars mesme estimoit la valeur⁎ infinie,  
 Avecque plus d'effort et moins d'estonnement⁎,  
 Que ne fait un lyon d'un chevreul seulement.  
 Ce combat fut fondé dessus vostre querelle,  
@@ -2288,7 +2286,7 @@ Ny quel soucy⁎ la vient maintenant affliger⁎,
 Si douteuse⁎ à l'abord de ce Prince estranger,  
 Et comme [229] elle retient la Princesse recluse,  
 Ma croyance est icy diversement confuse,  
-Mais j'ay peur de paroistre en mon soin⁎ indiscret,                  
+Mais j'ay peur de paroistre en mon soin⁎ indiscret,  
 Voulant trop curieux profonder⁎ ce secret.  
 
     TERSANDRE
@@ -2307,7 +2305,7 @@ Pour rompre les decrets de la fatalité.
 Un jeune Chevalier courant alors le monde,  
 Se feignant à [230] chacun Prince de Trebisonde, [231]  
 Mortel ressouvenir⁎ ! voulant voir ceste Cour,  
-Fut pris par ses beautez dans les filets d'Amour.                      
+Fut pris par ses beautez dans les filets d'Amour.  
 La Reyne dont le cœur estoit encor de glace,  
 Vid bien qu'Amour vouloit occuper ceste place,  
 Et se sentit en fin blessée d'un coup fatal  
@@ -2325,7 +2323,7 @@ Rendus égallement complices de sa trame⁎,
 Font perte de l'honneur en ce traistre devoir,  
 Pour gaigner sur la Reyne un amoureux pouvoir.  
 Ainsi ce desloyal⁎ triompha de sa couche.  
-Apres mille sermens arrachez de [232] sa bouche,                      
+Apres mille sermens arrachez de [232] sa bouche,  
 Ce fatal mariage arresta nos desirs,  
 Et nos soings⁎ plus [233] cuisans⁎ tournerent en plaisirs.  
 La Cypre en ses esbats⁎ devint démesurée,  
@@ -2346,7 +2344,7 @@ Vengeance qui ne peut par serment solemnel
 Se tirer d'autre part que du sang paternel :  
 Ceste Princesse en fin, pour appaiser sa mere,  
 Se reserve pour prix du meurtre de son pere,  
-Et c'est là le sujet qui la faict receler⁎,                          
+Et c'est là le sujet qui la faict receler⁎,  
 De peur que quelque Prince en luy voulant parler,  
 Ne destourne le coup de ce cruel carnage. [237]  
 
@@ -2369,11 +2367,11 @@ Mais, quel est ce parjure, et qu'est-il devenu ?
     TERSANDRE
 C'est icy le grand mal qui nous est advenu,  
 Mal qui ne se pouvoit commettre plus infame,  
-La Princesse de Mede est maintenant sa femme                      
+La Princesse de Mede est maintenant sa femme  
 Aux yeux de nostre Reyne.  
 
     CLIDAME
-Ha Prince desloyal⁎.  
+        Ha Prince desloyal⁎.  
 Prince indigne du jour comme du sang Royal.  
 Je verray quelque jour ton injure punie.  
 
@@ -2406,7 +2404,7 @@ Esmeut⁎ en mon esprit de si justes tourmens⁎
 Que je ne puis avoir de plus forts sentimens.  
 Je meurs de vous vanger, le bien de ma Province      
 Ne me touche pas tant que l'orgueil de ce Prince,  
-L'honneur et la vertu blessez de [243] vos regrets,                      
+L'honneur et la vertu blessez de [243] vos regrets,  
 Portent mes bons desirs dedans vos interests.  
 Mais le mien [244] qui n'agist que par vostre excellence,  
 S'anime à ce devoir avecque violence,  
@@ -2426,7 +2424,7 @@ Or puis que vostre cœur aspire à ceste gloire,
 Et qu'en cecy le mien attend vostre victoire,  
 Vous n'avez plus besoin en ce juste vouloir  
 Que de vostre prudence, et non de mon pouvoir,  
-Ma couronne et ma fille, estans la recompence                  
+Ma couronne et ma fille, estans la recompence  
 Du glorieux vainqueur le reste me dispence,  
 J'implore toutesfois les astres irritez⁎  
 De joindre ceste grace à vos prosperitez,  
@@ -2445,7 +2443,7 @@ J'entends de ceux qui sont fondez sur mes debats [246],
 Sçait si bien mesurer sa force à son envie⁎  
 Qu'il demeure vainqueur en conservant sa vie ;  
 Pardonnez-moy, Monsieur, desja cinq Chevalliers,   
-Que l'honneur immortel a couvert de lauriers,                      
+Que l'honneur immortel a couvert de lauriers,  
 Vaincus de [247] ce cruel, m'ont apporté leurs testes, [248]  
 Et semble que le Ciel approuve ses conquestes.  
 
@@ -2466,7 +2464,7 @@ Puis que continuant son infame delict,
 Un second mariage occupe vostre lict.  
 Cest là que vous devriez repousser ceste amorce⁎  
 Qui veut obstinement accabler vostre force.  
-Grande Reyne rentrez au ciel de la raison,                      
+Grande Reyne rentrez au ciel de la raison,  
 Et que vostre grand cœur quitte ceste prison,  
 Où vos riches desseins trouvent de l'indigence.  
 Vostre gloire consiste au poinct de la vengeance,  
@@ -2488,7 +2486,7 @@ Des vains desirs mouvans vos persuasions, [251]
 Vous font precipiter dans ces confusions,  
 Mais au desir on doit sagement se contraindre,  
 Et quitter le sujet où [252] l'on ne peut atteindre,  
-Vostre discours d'amour ne peut que m'offenser,              
+Vostre discours d'amour ne peut que m'offenser,  
 Et ne vous peut non plus reculer qu'avancer.  
 Je vous ay desja dit que ma fille et mon sceptre,  
 En sont la recompense, et que je ne puis l'estre,  
@@ -2509,7 +2507,7 @@ Ne doivent rien changer en ses affections.
 L'or s'esprouve⁎ au creuset, mon amour aux miseres  
 Et ma foy⁎ se redouble aux peines⁎ plus ameres.  
 
-    BRUSERBE    
+    BRUSERBE
 Mais c'est contre soy-mesme user de cruauté,  
 D'aymer [254] un desloyal⁎ en sa desloyauté⁎.  
 
@@ -2532,7 +2530,7 @@ La foy⁎ fille du Ciel soustient ma resistance.
     BRUSERBE
 La foy⁎ se desoblige apres le changement. [256]  
 
-    CLORISÉE    
+    CLORISÉE
 Ouy dans un foible esprit frappé d'aveuglement.  
 
     BRUSERBE
@@ -2558,7 +2556,7 @@ Ce Prince m'est plus cher mille fois que mes yeux.
     BRUSERBE
 Laissez-vous sans espoir mon amoureuse peine⁎ ?  
 
-    CLORISÉE    
+    CLORISÉE
 Je ne puis escouter ceste parole vaine.  
 
     BRUSERBE
@@ -2579,7 +2577,7 @@ Tant qu'il vivra pour moy, je seray tousjours morte.
 
     BRUSERBE
 Voyez comme ce foudre a suivy son esclair,  
-Son refus insolent ne peut estre plus clair.                      
+Son refus insolent ne peut estre plus clair.  
 Ha Reine impitoyable, autant fiere que belle,  
 Qui preferez à moy cet Amant infidelle,  
 Qui joignez pour me perdre aux forces de l'esprit,  
@@ -2603,7 +2601,7 @@ Tu veux injurieux m'imposer une loy
 Contre le seul objet que mon esprit admire.  
 Sçaches que si l'amour que j'ay pour Filamire,  
 Ny le soin⁎ de venger ses infidelitez,  
-Ny le desir de voir mes jours precipitez,                          
+Ny le desir de voir mes jours precipitez,  
 N'ont peu rien pervertir en ma perseverance,  
 Tes menaces auront beaucoup moins de puissance,  
 Tes feux⁎ et tes desseins periront dans ta voix,  
@@ -2628,7 +2626,7 @@ On vous prendroit alors avec trop d'avantage,
 La faveur de l'amour manque à vostre visage,  
 Mais, s'il plaist à la Reyne, elle verra comment  
 Je sçauray resveiller vostre estourdissement.  
-Grande Reyne, à ce coup j'implore vostre grace,                  
+Grande Reyne, à ce coup j'implore vostre grace,  
 Permettez à mon bras de dompter ceste audace.  
 
     CLORISÉE
@@ -2653,7 +2651,7 @@ Souvent en se mocquant se déprave et s'irrite⁎ ;
 En fin vous m'obligez de faire comme vous,  
 Et forcez mon esprit de se mettre en courroux.  
 
-    LUCIDE    
+    LUCIDE
 Icy les complimens ne sont point en usage,  
 Le combat veut l'effect⁎, et non pas le langage,  
 Ne feignez point vos coups, et ne m'espargnez pas,  
@@ -2671,7 +2669,7 @@ Je ne puis plus parer à ces coups redoublez.
     LUCIDE
 Quoy, Prince, vos esprits sont-ils desja troublez ?  
 Sus, sus, relevez-vous, [269] je veux bien que la honte  
-Reproche à vostre orgueil qu'une fille vous dompte.                  
+Reproche à vostre orgueil qu'une fille vous dompte.  
 
     BRUSERBE
 Fortune rigoureuse, on void bien maintenant,  
@@ -2692,7 +2690,7 @@ Vos erreurs ont produit ceste necessité,
 Nostre sexe a paru dedans l'antiquité,  
 Les femmes de Lydie ont de tout temps l'usage  
 De joindre à la douceur la force et le courage.  
-Or Monsieur, en usant du pouvoir des vainqueurs,                  
+Or Monsieur, en usant du pouvoir des vainqueurs,  
 Je veux pour mettre fin à toutes nos ranqueurs,  
 Que vous me promettiez, comme fidelle Prince,  
 De n'attenter jamais contre ceste Province,  
@@ -2714,9 +2712,9 @@ Je jure par nos Dieux de n'irriter⁎ jamais
 Les desirs de la Reine.  
 
     LUCIDE
-Et moy je vous promets  
+        Et moy je vous promets  
 De cherir vos vertus à l'égal de ma vie,  
-Et si le bon heur veut seconder mon envie,                      
+Et si le bon heur veut seconder mon envie,  
 J'espere de trouver sujet à l'advenir  
 De ne sortir jamais de vostre souvenir.  
 Bruserbe s'en va.
@@ -2741,7 +2739,7 @@ Vous sentirez bien tost vostre ame soulagée,
 Et le Ciel permettra que vous serez vangée, [275]  
 Grande Reyne, essuyez les larmes de vox yeux.  
 
-    CLORISÉE    
+    CLORISÉE
 Que veut ce Chevallier ? son aspect glorieux [276]  
 Pourroit à nos souhaits donner quelque presage.  
 
@@ -2762,7 +2760,7 @@ Et que je vous demeure obligé de ma vie.
     CLORISÉE
 Que peuvent plus sur moy les fureurs⁎ ny l'envie⁎ ?  
 Que peuvent plus sur moy les foudres éclattans ? [277]  
-Rien ne peut s'égaller [278] aux malheurs que j'attens.                  
+Rien ne peut s'égaller [278] aux malheurs que j'attens.  
 Qu'on ne me parle plus du rang que je possede,  
 Quand le mal s'irritant⁎ reffuse le remede,  
 Et que le desespoir surmonte⁎ la raison,  
@@ -2788,7 +2786,7 @@ Où la mienne a manqué toute autre est inutile.
 
     LUCIDE
 Chevallier, vos propos ont trop de vanité.  
-Le courage paroist dedans l'humilité,                          
+Le courage paroist dedans l'humilité,  
 Vous offencez un Roy, que tout le monde estime,  
 Et croyez insolent, qu'en commettant ce crime,  
 La Reyne excuse mieux l'abus⁎ de vostre cœur,  
@@ -2814,7 +2812,7 @@ Lucide met l'épée à la main.
 Mon frere [279] pardonnez à ce petit excés,  
 Nostre sexe est tousjours trop prompt dans ses accés.  
 
-    FILAMON    
+    FILAMON
 J'excuse aussi l'excez, avec la promptitude.  
 
     LUCIDE
@@ -2838,12 +2836,12 @@ Me reduit au peril de ne plus voir le jour.
 
     LUCIDE
 Comment, Prince, avez vous si tost perdu l'audace ?  
-Doncques vostre valeur⁎ s'estouffe en la menace.                  
+Doncques vostre valeur⁎ s'estouffe en la menace.  
 Vostre force ressemble à ces ampoules d'eau,  
 Qui naissent de la pluye. [281]  
 
     FILAMON
-Ha ! voicy mon tombeau,  
+        Ha ! voicy mon tombeau,  
 Faut il qu'en eschappant du gouffre de l'envie⁎  
 Une femme à ce coup triomphe de ma vie ?  
 Et que sortant des mains d'un guerrier indompté,  
@@ -2859,12 +2857,12 @@ Son estourdissement luy desrobe l'espée.
 Apprenez desormais de [282] devenir plus doux,  
 Sous ce que le destin ordonnera de vous.  
 Fortune quelquefois favorise l'audace,  
-Mais bien souvent l'orgueil luy void changer de face.                  
+Mais bien souvent l'orgueil luy void changer de face.  
 Vivez, je vous remets en vostre liberté,  
 En faveur de la Reyne.  
 
     FILAMON
-Invincible beauté,  
+        Invincible beauté,  
 Vostre extreme valeur⁎ abregé des miracles,  
 Vostre prudente voix, merveille des oracles,  
 Vos justes sentimens et vos perfections,  
@@ -2881,11 +2879,11 @@ Je reçois à faveur [283] ce qu'un grand Roy me donne.
     CLORISÉE
 Mon frere, il me desplaist que contre mon desir,  
 Vous ayez en ma Cour receu du desplaisir,  
-Je croy que le repos vous seroit necessaire,                      
+Je croy que le repos vous seroit necessaire,  
 Venez vous rafraischir.  
 
     FILAMON
-J'iray pour vous complaire. [284]  
+        J'iray pour vous complaire. [284]  
 
     CLORISÉE
 Elle parle à Tersandre qui estoit accouru au bruict.
@@ -2907,7 +2905,7 @@ Je me veux descharger de ma douleur craintive,
 Et mettre sur tes bras le faix de mes soucis⁎,  
 Dorine, mes travaux⁎ maintenant adoucis,  
 Je redonne l'espoir à mon ame timide⁎,  
-Et conçois du repos aux vertus de Lucide.                      
+Et conçois du repos aux vertus de Lucide.  
 
     GOUVERNANTE
 Sans doute sa valeur⁎ vous fera redouter,  
@@ -2929,7 +2927,7 @@ Se changent en plaisirs qui me font tressaillir,
 J'entens de mon genie⁎ une voix favorable,  
 Qui me dit que le Ciel devenu pitoyable⁎,  
 Veut abbatre l'orgueil de ce Prince pervers⁎  
-Qui me rend criminelle au cœur de l'univers.                      
+Qui me rend criminelle au cœur de l'univers.  
 
     GOUVERNANTE
 Madame, vous parlez du Prince d'Armenie,  
@@ -2954,7 +2952,7 @@ Ingrate, laissez-moy, j'ay trop perdu de temps.
     GOUVERNANTE
 Madame, pardonnez à ma faute innocente,  
 Vous n'avez pas d'ennuis⁎ que mon cœur ne ressente :  
-Mais je souffre tousjours une mortelle peur,                      
+Mais je souffre tousjours une mortelle peur,  
 Lors que j'entens parler de ce Prince trompeur.  
 Pleust à Dieu que ma mort vous peust donner sa vie,  
 Ma foy⁎ seconderoit aujourd'huy mon envie :  
@@ -2975,7 +2973,7 @@ Son pouvoir absolu s'accorde avec le sort,
 Ils frappent aussi tost la vertu que le vice,  
     Et le Ciel ne peut rien contre ceste injustice.  
 Vous voyez bien, Madame, en vos propres malheurs  
-Qu'ils n'espargnent non plus les Roys que les Pasteurs. [288]              
+Qu'ils n'espargnent non plus les Roys que les Pasteurs. [288]  
 
     CLORISÉE
 Que ce mal est sensible à la grandeur Royale.  
@@ -3016,7 +3014,7 @@ Et le pouvoir luy sert aussi peu que la ruse.
 J'esprouve⁎ à mes despens ce que peut le destin,  
 Qui fait de mon desastre un glorieux butin.  
 Que les vanitez ont de charmantes⁎ amorces⁎,  
-Pour troubler nos esprits, et pour ravir⁎ nos forces.                  
+Pour troubler nos esprits, et pour ravir⁎ nos forces.  
 Je voulois surmonter⁎ le Soleil des guerriers,  
 Une fille me dompte et m'oste mes lauriers.  
 Je vivois en l'amour d'une beauté Divine,  
@@ -3047,7 +3045,7 @@ J'ay mille fois beny les vents et les orages,
 Et dit autant de fois qu'un favorable sort  
 Vous avoit pour mon bien amenée en ce port.  
 J'ay cent fois retracé ceste belle victoire,  
-Où ce corsaire vid estouffer sa memoire,                      
+Où ce corsaire vid estouffer sa memoire,  
 Alors que [292] vostre fer luy fit sentir comment  
 On se doit affranchir⁎ d'un mal-heureux Amant ;  
 J'ay tousjours estimé ceste gloire oportune,  
@@ -3067,7 +3065,7 @@ Un fidelle tesmoin, un veritable augure,
 Du bon heur qu'il conçoit, et vos derniers combats,  
 Ont relevé ma gloire, et mis ma crainte à bas.  
 Lucide, vous sçavez d'où naissent les querelles,  
-Qui travaillent⁎ mon cœur de guerres immortelles,                  
+Qui travaillent⁎ mon cœur de guerres immortelles,  
 Et par qui [293] tant de Roys en voulans m'obliger⁎,  
 N'ont trouvé que leur honte, au lieu de me vanger.  
 L'imposteur qui trahit nostre sainct Hymenée⁎,  
@@ -3086,7 +3084,7 @@ Voyez si ma justice a peu toucher vostre ame.
 
     LUCIDE
 Estant ce que je suis, pardonnez-moy Madame,  
-Il suffit de m'ouvrir vos moindres sentimens                      
+Il suffit de m'ouvrir vos moindres sentimens  
 Pour me faire fléchir souz vos commandemens.  
 Je prefere leur force au droict de la nature,  
 Et si je dois un jour suivre quelque adventure,  
@@ -3109,7 +3107,7 @@ D'aller jusqu'aux enfers affronter les Demons⁎,
 Protestant que mon cœur ne vit en ma puissance, [296]  
 Que pour mieux respirer dans vostre obeyssance.  
 
-    CLORISÉE    
+    CLORISÉE
 Lucide, c'est assez, je reçoy vos sermens,  
 Quoy qu'ils ayent [297] choisi de foibles fondemens,  
 Que les yeux de ma fille, et croy [298] que leurs lumieres,  
@@ -3131,7 +3129,7 @@ Qui faict à mon esprit beaucoup de violence,
 Ne vous contraignez point par crainte ou par respect,  
 Si vostre cœur n'est libre il me sera suspect. [301]  
 
-    LUCIDE    
+    LUCIDE
 Madame, si ma voix a demeuré contrainte,  
 C'est plus par le respect que ce n'est pour la crainte,  
 Mais tant s'en faut qu'il vueille arrester mon devoir,  
@@ -3151,7 +3149,7 @@ Pour avoir, si je puis, le chef⁎ de ce Monarque.
     CLORISÉE
 C'est là de mon repos la principale marque,  
 Mais pour me delivrer tout à fait de soucy⁎,  
-Il faut qu'apres sa mort la mienne arrive aussi.                      
+Il faut qu'apres sa mort la mienne arrive aussi.  
 
     LUCIDE
 Pourrois-je contre vous devenir inhumaine⁎ ?  
@@ -3175,7 +3173,7 @@ Pourveu que vos desirs n'offencent mon repos,
 Et qu'on ne parle point de me laisser la vie,  
 Je ne reffuse point l'effet de vostre envie. [305]  
 
-    LUCIDE    
+    LUCIDE
 Maintenant mes esprits demeurent satisfaits.  
 
     CLORISÉE
@@ -3197,7 +3195,7 @@ Qui mesme arresteroit les mains de la fureur⁎ ?
 Ô bons Dieux que mon cœur devenu parricide, [306]  
 Consente à vos complots, inhumaine⁎ Lucide.  
 Cruelle, sont-ce là des fruicts de ton amour !  
-De vouloir meurtrir [307] ceux qui m'ont donné le jour ?                  
+De vouloir meurtrir [307] ceux qui m'ont donné le jour ?  
 
     CLORISÉE
 Mon repos toutesfois dépend de ce voyage.  
@@ -3215,7 +3213,7 @@ Je nourris un serpent au sein de ma famille.
 Quel astre malheureux me fit naistre des Rois !  
 Pour attacher ma vie à de si dures loix ?  
 Que je serois contente au degré de Bergere,  
-Mais quoy, l'on void partout la fortune legere                      
+Mais quoy, l'on void partout la fortune legere  
 User de son pouvoir, et de sa volonté :  
 Sans respect de l'honneur ny de la qualité,  
 L'infidelle partout exerce sa puissance,  
@@ -3235,7 +3233,7 @@ Mon corps se veut resoudre en sa forme premiere, [308]
 Je ne sçaurois plus voir vostre mortel courroux,  
 Estant ce que je suis, sans souffrir comme vous.  
 Il faut estre cruel au degré de la rage,  
-Pour voir sans desplaisir le peril du naufrage.                      
+Pour voir sans desplaisir le peril du naufrage.  
 Serois-je si brutale en mon ressentiment⁎,  
 De m'esclairer des feux⁎ de nostre embrasement,  
 Et sçavoir que je suis le prix et le sallaire  
@@ -3245,7 +3243,7 @@ Alderine se pasme⁎. [310]
 
 
     LUCIDE
-Elle a perdu la voix.  
+        Elle a perdu la voix.  
 
     CLORISÉE
 Je crains que mon dessein en face mourir trois.  
@@ -3260,7 +3258,7 @@ Courez, chere compagne, allez à la fontaine, [312]
 Ma Princesse, ma vie, elle respire un peu,  
 Ses beaux yeux ont encor quelques rayons de feu,  
 Sa lévre derechef de pourpre se colore,  
-Son extase⁎ fait honte aux vigueurs de l'aurore.                      
+Son extase⁎ fait honte aux vigueurs de l'aurore.  
 
     FLORINDE
 Madame, elle souspire, helas ! que faites-vous ?  
@@ -3286,7 +3284,7 @@ Il faut bien estre au don que vous avez promis. [316]
     LUCIDE
 Madame, si vos yeux ne me sont ennemis,  
 Ils me verront cueillir les fruicts d'une victoire,  
-Qu'un bon-heur éternel prepare à vostre gloire,                      
+Qu'un bon-heur éternel prepare à vostre gloire,  
 Dont je vous veux tantost deposer le secret,  
 Pourveu que vous quittiez la crainte et le regret.  
 
@@ -3305,7 +3303,7 @@ Peut-on voir desormais en l'esprit des humains ?
 Alderine et Lucide en viennent presqu'aux mains.  
 Qu'on ne me parle plus d'amour de Dame à Dame,  
 C'est un feu⁎ sans chaleur, sans fumée et sans flame.  
-Amour pour faire voir un fort embrasement,                      
+Amour pour faire voir un fort embrasement,  
 Et qui resiste à tout, joinct l'Amante à l'Amant :  
 Ceste union resiste à l'audace importune,  
 Elle arreste l'orgueil, et brave la fortune,  
@@ -3350,7 +3348,7 @@ Le courroux de la mer n'esmeut⁎ pas plus de flots,
 Qu'un desir de vangeance a de mauvais complots,  
 Nostre Reine en cela nous est un fort exemple,  
 Celle que les vertus avoient prise pour temple  
-Ne pouvant relever les esprits abatus,                          
+Ne pouvant relever les esprits abatus,  
 Ruine en se perdant le temple des vertus.  
 Voyez à quel excez sa rigueur se relasche,  
 La fureur⁎ la console, et le conseil la fasche,  
@@ -3373,7 +3371,7 @@ Ne peut dans le combat la reculer d'un pas.
 Et c'est là le sujet qui m'afflige⁎ pour elle,  
 Voyant son malheur peint dedans ceste querelle.  
 
-    TERSANDRE    
+    TERSANDRE
 Je croy bien que les Dieux reservent à ses mains  
 La gloire d'achever des genereux⁎ desseins :  
 Mais celuy de dompter un si fort adversaire,  
@@ -3395,7 +3393,7 @@ Prepare pour demain l'appareil⁎ de sa route.
     TERSANDRE
 Madame, sur ce fait mon esprit est en doute.  
 
-    CLORISÉE    
+    CLORISÉE
 Et le mien resolu ne cerche point d'advis,  
 Regardez seulement que les miens soient suivis.  
 
@@ -3418,7 +3416,7 @@ Clidame, vous sçavez le secret de ma peine⁎,
 Et comme la fortune à mon cœur inhumaine⁎,  
 Se moque de mes cris, et se rid de mes pleurs,  
 Favorisant un traistre autheur de mes malheurs :  
-Ma justice a parû souz l'esclat de nos armes,                      
+Ma justice a parû souz l'esclat de nos armes,  
 L'innocence a versé des torrens de nos larmes,  
 L'air a fait retentir nos souspirs mutuels,  
 Les Rois pour ma querelle ont esmeu⁎ des duels.  
@@ -3438,7 +3436,7 @@ Que vous accompagniez Lucide en ce voyage,
 Et que vostre prudence assiste son courage.  
 Vostre valeur⁎ ne peut paroistre en cest effort,  
 Seule elle doit donner ou recevoir la mort.  
-Mon genie⁎ flattant mon ame soucieuse⁎, [320]                      
+Mon genie⁎ flattant mon ame soucieuse⁎, [320]  
 M'asseure qu'elle doit retourner glorieuse,  
 Et qu'elle seule doit appaiser mes regrets.  
 
@@ -3472,7 +3470,7 @@ Vos glorieux projets surmontent⁎ ma raison.
 Mes jours sont affermis dessus vostre prudence,  
 Mais je ne puis penser aux nuicts de nostre absence.  
 
-    LUCIDE    
+    LUCIDE
 Madame, ce seul poinct trouble mes sentimens,  
 Car ainsi que les corps sont joincts aux élemens,  
 Mon cœur de vostre esprit se trouve inseparable,  
@@ -3495,7 +3493,7 @@ Que ces cheres faveurs me donnent d'esperance ! [322] 
 
     ALDERINE
 Je veux que ce baiser te donne l'asseurance  
-De ne douter jamais de mes affections,                          
+De ne douter jamais de mes affections,  
 Dont la grandeur s'égalle à tes perfections.  
 
     LUCIDE
@@ -3523,7 +3521,7 @@ Lucide est quelque temps sans parler.
 Le secret est bien cher aux ombres de la nuict.  
 Vous m'avez fait venir, parlez en asseurance,  
 Vous demeurez muette, ha ! c'est trop de silence,  
-Sans doute un repentir me soustraict vostre voix.                  
+Sans doute un repentir me soustraict vostre voix.  
 
     LUCIDE
 Ma voix, ny mon esprit n'agissent qu'en vos loix.  
@@ -3545,7 +3543,7 @@ Comment, vous croyez donc me pouvoir offencer.
 Que plustost mille traicts⁎ me viennent traverser,  
 Que le foudre plustost me reduise en poussiere,  
 Que mes yeux pour jamais soient privez de lumiere,  
-Que si du seul penser, non de la volonté,                      
+Que si du seul penser, non de la volonté,  
 J'offençois tant soit peu vostre divinité,  
 Ha ! que je suis confuse, et que je sens de peine⁎,  
 Dures necessitez où mon destin me traine,  
@@ -3565,14 +3563,14 @@ Pourray-je encor souffrir⁎ ceste mortelle atteinte ?
 Ha ! c'est trop craindre en vain,  
 
     LUCIDE
-Je veux affranchir⁎ ma crainte, [327]  
+        Je veux affranchir⁎ ma crainte, [327]  
 Madame, vous voyez un Prince devant vous.  
 
-    ALDERINE    
+    ALDERINE
 Que dites-vous ? un Prince.  
 
     LUCIDE
-Implorer à genoux  
+        Implorer à genoux  
 Un pardon que l'Amour cerche en vostre clemence,  
 Un feu⁎ qu'un Dieu ne peut sentir sans vehemence,  
 Esmeut⁎ dedans mon ame un si digne tourment⁎,  
@@ -3589,7 +3587,7 @@ Que vous voyez, Madame, à vos pieds abbatu,
 Aussi pur de desirs que d'Amour combatu,  
 Que si ma faute a peu blesser vostre pensée,  
 Il faut par mon trépas qu'elle soit effacée,  
-Ou si je dois encor vivre en vostre mercy,                      
+Ou si je dois encor vivre en vostre mercy,  
 Je veux bannir de moy la crainte et le soucy⁎.  
 Que je voy de courroux en sa face rougie. [330]  
 Ma Princesse, voicy le Prince de Phrygie,  
@@ -3611,7 +3609,7 @@ Trompeur, tu ne peux plus abuser⁎ mon esprit,
 Mon Amour se dissipe, ainsi comme il s'esprit,  
 Et le feu⁎ que Lucide alluma dans mon ame,  
 Devient pour Armidore une mortelle flame.  
-Traistre, va t'en d'icy, je ne te veux plus voir,                      
+Traistre, va t'en d'icy, je ne te veux plus voir,  
 Reprens ton amitié, je reprens mon pouvoir,  
 Pouvoir qui punira bien tost ton insolence.  
 Les arres [333] que pour toy commit mon innocence,  
@@ -3629,7 +3627,7 @@ Est ce une voix humaine, ou bien celle d'un Dieu
 Dont l'esclat m'a voulu dissoudre ?  
 Non j'ay veu des éclairs, sans doute c'est un foudre,  
 Qui veut m'accabler en ce lieu.  
-Où trouveray-je des ombrages                              
+Où trouveray-je des ombrages  
 Contre ce foudroyant effort⁎ ?  
 Je ne puis éviter la mort,  
 Mes lauriers n'ont plus de fueillages,  
@@ -3650,7 +3648,7 @@ Qui me veniez solliciter,
 Vos soins ne peuvent plus flatter  
 Mes malheureuses aventures,  
 Monstres retirez vous, ostez moy ces apasts⁎,  
-Mon mal a vaincu l'esperance,                              
+Mon mal a vaincu l'esperance,  
 Les fruicts de mon repos n'ont plus d'autre apparence  
 Que dans l'horreur de mon trépas.  
 Quelque fortune qui m'approche,  
@@ -3668,7 +3666,7 @@ Donne la mort à mon courage.
 Je ne suis plus qu'un ombre, ou si j'ay quelque corps  
 Ce n'est que pour sentir ma peine⁎.  
 Je veux pour appaiser ceste belle inhumaine⁎,  
-Accroistre le nombre des morts.                      
+Accroistre le nombre des morts.  
 Je reçoy beaucoup de traverses  
 D'un amoureux déguisement,  
 Souvent Jupiter en aymant,  
@@ -3689,7 +3687,7 @@ Malheureuse metamorphose,
 Dessein mortel et rigoureux,  
 Que vos abords sont espineux  
 Pour le seul espoir d'une rose.  
-Destins repentez-vous, que vostre inimitié                      
+Destins repentez-vous, que vostre inimitié  
 Retire ses traicts⁎ miserables,  
 Mais, helas ! vos decrets estans irrevocables,  
 Vous ne sentez point la pitié.  
@@ -3712,7 +3710,7 @@ Et qu'Amour esmut⁎ mon courage,
 De voir ceste beauté dont vous estes l'image,  
 Vous avez part à mon peché.  
 Je sens bien dedans ma poitrine  
-Combattre la mort et l'Amour,                              
+Combattre la mort et l'Amour,  
 Mais je ne veux plus voir le jour,  
 Ne pouvant plus voir Alderine.  
 Astres, arbres, buissons, rochers, ombres, ruisseau,  
@@ -3742,7 +3740,7 @@ Florinde vous veut secourir.
 Vous ignorez quelle adventure  
 Me donne une si douce mort.  
 
-    FLORINDE    
+    FLORINDE
 Je sçay bien que tout cet effort⁎,  
 N'agist qu'en dépit de nature.  
 
@@ -3771,7 +3769,7 @@ Astres qui le voyez, faites luy voir aussi.
 
     FLORINDE
 Je voy bien le mal qui vous touche.  
-C'est le decret fatal d'une beauté farouche.                      
+C'est le decret fatal d'une beauté farouche.  
 
     LUCIDE
 Plustost un injuste soucy⁎.  
@@ -3799,7 +3797,7 @@ Que je meure en ma solitude.
     FLORINDE
 Voyez comme la honte estourdit le devoir.  
 
-    LUCIDE    
+    LUCIDE
 Dieux que vous m'estes importune.  
 
     FLORINDE
@@ -3828,7 +3826,7 @@ En fin il me faudra contraindre.
     FLORINDE
 A quitter ces vaines amours.  
 
-    LUCIDE    
+    LUCIDE
 Vous prenez mon mal à rebours.  
 
     FLORINDE
@@ -3859,7 +3857,7 @@ Qu'un desir de vengeance, où son cœur la deçoit⁎.
 Sa frontiere n'a peu resister à nos armes,  
 La frayeur s'est glissée au sein de ses gens-d'armes [348],  
 La campagne est à nous, et tenons tous ses forts,  
-Il ne nous reste plus que les derniers efforts.                      
+Il ne nous reste plus que les derniers efforts.  
 
     FILAMON
 Je suis d'avis avant que forcer [349] ses murailles,  
@@ -3881,7 +3879,7 @@ Gardons nous seulement d'une trompeuse amorce⁎.
     FILAMON
 Souvent les fruicts d'Amour se cueillent par la force.  
 Il faut lors que l'orgueil surmonte⁎ le pouvoir,  
-Contre ce sexe ingrat mettre tout en devoir.                      
+Contre ce sexe ingrat mettre tout en devoir.  
 Les discours du passé ne sont que des finesses,  
 Les Princes tels que nous sont nez pour les Princessess.  
 Le reffus maintenant nous seroit odieux,  
@@ -3900,7 +3898,7 @@ CLORISEE en Amazone, TERSANDRE , puis L'AMBASSADEUR
 
     CLORISÉE
 Ces traistres croyent donc que je sois [351] abbatuë.  
-C'est dedans le peril où [352] mon cœur s'esvertuë⁎.                  
+C'est dedans le peril où [352] mon cœur s'esvertuë⁎.  
 Vit-on jamais des loups, des lyons, des sangliers [353],  
 Plus acharnez que vous, plus cruels ny plus fiers,  
 Monstres de lascheté, dont l'ame desloyale⁎,  
@@ -3919,7 +3917,7 @@ Consultons nos esprits, ce que peuvent nos mains,
 Laissons aux ennemis tous les outrages vains.  
 Leur brutale fureur⁎ a ravagé vostre isle  
 Et ne vous reste plus que ceste seule ville :  
-Nous la pouvons deffendre attendant que les Dieux,                  
+Nous la pouvons deffendre attendant que les Dieux,  
 Vous delivrent des mains de ces Roys odieux.  
 La place de soldats et de vivres est munie,  
 Pour tenir quelque temps contre la tyrannie,  
@@ -3942,7 +3940,7 @@ M'envoient [357] pour parler à vostre Majesté.
 Vous sçavez bien surquoy leur venuë est fondée,  
 Et que l'Amour en a la trame⁎ devidée,  
 Ces grands Roys se sont mis plus qu'au juste devoir,  
-Pour fléchir vos rigueurs, et pour vous esmouvoir⁎.                  
+Pour fléchir vos rigueurs, et pour vous esmouvoir⁎.  
 Leur douceur a tousjours receu de l'amertume,  
 Mais ils ne veulent plus souffrir⁎ ceste coustume.  
 Madame, vos desdains sont un trop pesant faix,  
@@ -3961,7 +3959,7 @@ Tes souhaits peuvent-ils aller jusqu'à ma gloire ?
 Prophane oses-tu bien me mettre en ta memoire ?  
 Retire toy d'icy, va, retourne à tes Roys,  
 Et leur dy que les Dieux m'imposent seuls des loix.  
-Dy leur qu'ils ont perdu le tiltre de Monarques,                      
+Dy leur qu'ils ont perdu le tiltre de Monarques,  
 Et que l'impieté leur en oste les marques,  
 Que celle de leur gloire est l'infidelité,  
 Et qu'ils n'ont plus de rang que dans la cruauté.  
@@ -3980,7 +3978,7 @@ Ils succeront le miel qu'on donne aux ravisseurs.
 Qu'ils n'esperent de nous que des choses ameres,  
 Le bien qu'ils en auront ne sera qu'en chimeres,  
 Ce qu'ils jugent en nous propre à leur guerison,  
-Ne peut estre qu'en eux un malheureux poison.                      
+Ne peut estre qu'en eux un malheureux poison.  
 S'ils trouvent mes desdains une charge severe, [361]  
 Ils seront accablez du poids de ma collere.  
 Qu'ils perdent les desirs de ma fille et de moy,  
@@ -3997,7 +3995,7 @@ Que c'est là qu'on esteint les passions brutales,
 Et que proches de nous ils seront des Tantales [363].  
 Qu'ils prennent mes raisons pour refus ou mépris,  
 Ma bouche en dit bien moins que mon cœur n'a compris.  
-Va, retourne à tes Roys, et croy que ma prudence,                  
+Va, retourne à tes Roys, et croy que ma prudence,  
 Pour un certain respect souffre⁎ ton impudence.  
 
     AMBASSADEUR
@@ -4042,7 +4040,7 @@ Nos cœurs en ces vicissitudes,
 Sont tousjours en inquietudes [370],  
 Et ne sont jamais satisfaits :  
 Quoy que deviennent nos pensées,  
-Elles sont tousjours traversées                          
+Elles sont tousjours traversées  
 Par la crainte, ou par les effets⁎.  
 On est tousjours trompé du monde, [371]  
 Alors qu'on le veut caresser,  
@@ -4064,7 +4062,7 @@ Dont l'esclat deçoit⁎ nos esprits :
 Mais la fortune opiniastre,  
 Pour punir nostre ame idolastre,  
 Nous en fait sentir son mespris.  
-Mespris qu'on void reduire en poudre                      
+Mespris qu'on void reduire en poudre  
 Les plus grands Rois de l'univers,  
 Et leur apprendre à se resoudre  
 D'estre un jour l'alimens des vers.  
@@ -4086,7 +4084,7 @@ Il ne peut qu'en la patience
 Trouver les clefs de sa prison.  
 J'esprouve⁎ en un aage bien tendre  
 Ces estranges diversitez.  
-Mon esprit ne pouvoit comprendre                      
+Mon esprit ne pouvoit comprendre  
 Que ce sont des necessitez,  
 Dont ceste infidele se jouë,  
 Haussant et rabaissant sa rouë  
@@ -4108,7 +4106,7 @@ Que plustost mon cœur soit la proye
 De quelque lyon affamé,  
 Que jamais le monstre le voye  
 Selon son desir diffamé⁎.  
-Non plustost ce desloyal⁎ Prince                          
+Non plustost ce desloyal⁎ Prince  
 Verra les loups de la Province,  
 Les Tygres, les Onces [376], et les Ours  
 Devorer ma chair innocente,  
@@ -4130,7 +4128,7 @@ Mais, las ! ce fut une foiblesse
 De ma honte et de mon honneur.  
 Car comme je vous vis timide⁎,  
 Descouvrant l'abus⁎ de Lucide,  
-Je creus que je devois aussi                              
+Je creus que je devois aussi  
 Feindre que mon ame offensée  
 Changeoit d'humeur et de pensée  
 Contre vostre amoureux soucy⁎.  
@@ -4152,7 +4150,7 @@ Mon cœur croy qu'en ton adventure
 Ma foy⁎ surmonte⁎ la nature,  
 J'incline à ton contentement.  
 Scylle en pareille misere  
-Ayma mieux la mort de son pere                          
+Ayma mieux la mort de son pere  
 Que la perte de son Amant [377].  
 Amour que tes fleurs ont d'espines,  
 Et que ton aveuglé desir  
@@ -4174,7 +4172,7 @@ Que sans l'espoir de son retour,
 La fureur⁎ qui me sollicite  
 M'immoleroit à son merite⁎  
 Dessus l'autel de nostre amour.  
-Vers recitez, ou chantez par une voix qui s'entendra     d'une nuée toute brillante de lumiere, au dessus d'un rocher. [379]
+Vers recitez, ou chantez par une voix qui s'entendra d'une nuée toute brillante de lumiere, au dessus d'un rocher. [379]
 
 Princesse à qui le ciel faisant voir sa puissance,  
 *Reserve plus de biens que tu n'as de malheurs*, [380]  
@@ -4192,7 +4190,7 @@ Il ne faut plus parler d'horreur ny de martyre,
 Le bon-heur ceste nuict r'entre dans ta maison :  
 Armidore en livrant le chef⁎ de Filamire  
 Destruira ta prison.  
-*Les decrets éternels ont brisé les obstacles,    *                  
+*Les decrets éternels ont brisé les obstacles,    *  
 Dont l'orgueil des tyrans te venoit molester⁎.  
 Retourne en ton repos, et croy en mes oracles  
 Sans plus rien contester.  
@@ -4225,7 +4223,7 @@ Soit du sexe, ou de l'aage, et sur tout que les larmes
 Ne vous seduisent point.  
 
     FILAMON
-A moy braves gens d'armes,  
+        A moy braves gens d'armes,  
 Le combat se fait à la discretion [388] des Acteurs.  
 Assaillons ceste tour, la victoire est à nous.  
 
@@ -4241,7 +4239,7 @@ Lucide, Filamire arivez, surprennent les ennemis de la Reyne.
 
 
     LUCIDE
-Infidele Bruserbe,  
+        Infidele Bruserbe,  
 Voicy de tes malheurs le dernier appareil⁎ [390],  
 Poltron, ta lascheté craint encor le Soleil.  
 
@@ -4253,10 +4251,10 @@ Deffends toy si tu peux, et n'attends plus de grace.
 Icy mes compagnons.  
 
     FILAMON
-La grace que je veux,  
+        La grace que je veux,  
 C'est de voir en ton sang recompenser mes vœux.  
 
-    LUCIDE    
+    LUCIDE
 Reçoy ce que merite une mauvaise envie.  
 
     BRUSERBE
@@ -4272,29 +4270,29 @@ On pardonne aisement aux erreurs de l'amour.
 Levez-vous.  
 
     FILAMIRE
-Ton orgueil veut que je te punisse,  
+        Ton orgueil veut que je te punisse,  
 Mais il faut que la Reine ordonne ton supplice.  
 
     LUCIDE
 Compagnons.  
 
     SENTINELLE
-Qui va là ?  
+    Qui va là ?  
 
     LUCIDE
-Ce sont des prisonniers  
+        Ce sont des prisonniers  
 Qu'on ameine à la Reyne.  
 
     SENTINELLE
-Attendez Chevalliers,  
-Nous allons advertir le genereux⁎ Tersandre.      
+        Attendez Chevalliers,  
+Nous allons advertir le genereux⁎ Tersandre.  
 
     LUCIDE
 Qu'il vienne promptement, on luy veut faire entendre  
 Un faict de consequence.  
 
     SENTINELLE
-Il sera fait ainsi.  
+        Il sera fait ainsi.  
 
     BRUSERBE
 Ha ! que ceste prison [392] m'accable de soucy⁎.  
@@ -4306,7 +4304,7 @@ Le soucy⁎ vit tousjours dedans un cœur perfide⁎.
 Qui veut parler à moy ?  
 
     LUCIDE
-Monsieur, vostre Lucide  
+        Monsieur, vostre Lucide  
 Vient contre son devoir troubler vostre repos.  
 
     TERSANDRE
@@ -4314,9 +4312,9 @@ C'est vous, belle guerriere, agreable propos.
 Je descens ma compagne.  
 
     FILAMON
-O desdaigneuse parque,  
+        O desdaigneuse parque,  
 
-    FILAMIRE    
+    FILAMIRE
 Voyla du desespoir une evidente marque.  
 
     TERSANDRE
@@ -4343,11 +4341,11 @@ J'estime que le vostre est le plus necessaire.
     LUCIDE
 Si nous faut-il encor consulter un affaire [394],  
 Et monstrer les effets du voyage entrepris,  
-Où sa Majesté doit resoudre ses esprits,*                    *      
+Où sa Majesté doit resoudre ses esprits,*                    *  
 Entrons dedans la ville.  
 
     SOLDATS DES ASSIEGEANS
-Ah ! cruelle adventure :  
+        Ah ! cruelle adventure :  
 Ces grands Roys trouvent donc icy leur sepulture.  
 Prodiges de l'abus⁎, songes fallacieux,  
 Sur le poinct de cueillir des fruicts delicieux,  
@@ -4358,7 +4356,7 @@ Quand la fortune rid ce n'est que par coustume.
 Qui va là ?  
 
     SOLDATS
-C'est alors qu'on la doit redouter.  
+        C'est alors qu'on la doit redouter.  
 Lucide et Filamire, à la porte d'une chambre, parée et préparée pour y faire coucher et endormir Filamire.
 
 
@@ -4366,7 +4364,7 @@ Lucide et Filamire, à la porte d'une chambre, parée et préparée pour y faire
 Sire, je ne croy pas que vous puissiez douter,  
 Que Lucide pour vous n'ait une ame fidele.  
 
-    FILAMIRE    
+    FILAMIRE
 Vous cognoissant autant vertueuse que belle,  
 Je formerois à tort cet injuste debat,  
 Si j'ay quelque soucy⁎, c'est pour nostre combat,  
@@ -4388,7 +4386,7 @@ Certes, la Reyne a tort de me tant affliger⁎.
 Or puis que par vos mains elle se veut vanger,  
 Contentons sa rigueur aux despens de nos vies.  
 
-    LUCIDE    
+    LUCIDE
 Nous bornerons⁎ demain ses mortelles envies :  
 Mais, Sire, cependant [396] allons nous reposer.  
 
@@ -4415,7 +4413,7 @@ On porte un flambeau devant la Reyne.
     CLORISÉE
 Nos tyrans sont donc pris, bon Dieu je te rends grace [398].  
 
-    TERSANDRE    
+    TERSANDRE
 Ils sont aussi confus qu'ils estoient plein d'audace.  
 
     CLORISÉE
@@ -4433,24 +4431,24 @@ Fort lasse du combat, et croy qu'elle repose.
 Mais que dit-elle encor ?  
 
     TERSANDRE
-Je ne sçay autre chose,  
+        Je ne sçay autre chose,  
 Sinon qu'elle tesmoigne un glorieux succez  
 Du voyage de Mede.  
 
     CLORISÉE
-Hé ! j'en sens des excez,  
+        Hé ! j'en sens des excez,  
 Où mon ame se void derechef engagée,  
-Mais son voyage est vain, si je ne suis vangée.      
+Mais son voyage est vain, si je ne suis vangée.  
 Avez-vous rien appris de plus particulier ?  
 Dites moy clairement.  
 
     TERSANDRE
-Ce brave Chevallier  
+        Ce brave Chevallier  
 Dont je vous ay parlé [400] l'a tousjours destournée  
 De m'entretenir seul.  
 
     CLORISÉE
-Que je suis estonnée⁎.  
+        Que je suis estonnée⁎.  
 J'ay bien quelque plaisir aux souspirs que j'espans ;  
 Mais je crains que ces fleurs recelent⁎ des serpens.  
 
@@ -4464,7 +4462,7 @@ Je m'en vay reposer attendant sa venuë.
                 
 *avec une lanterne sourde* [402], *et parle assez bas.*
 Ce Prince maintenant d'un fort sommeil surpris,  
-Il me faut achever mon dessein entrepris,      
+Il me faut achever mon dessein entrepris,  
 Le silence à mes vœux se montre favorable.  
 Je veux donner le chef⁎ dont je suis redevable,  
 Pour qui [403] la Reyne tient mes sermens en deposts,  
@@ -4477,7 +4475,7 @@ Elle frappe à la porte de la chambre de la Reyne.
 Qui frappe ?  
 
     LUCIDE
-C'est Lucide, ah ! douteuse entreprise [405].  
+        C'est Lucide, ah ! douteuse entreprise [405].  
 
     GOUVERNANTE
 Est-ce vous, mon soucy, que je baise vos yeux,  
@@ -4497,7 +4495,7 @@ Dorine, laissez-nous, un secret nous convie.
     GOUVERNANTE [406].
 Elle parle à Lucide.
 
-Il ne reste donc plus qu'à me ravir⁎ la vie.*            *          
+Il ne reste donc plus qu'à me ravir⁎ la vie.*            *  
 
     LUCIDE
 Madame, je sçay bien où mon cœur s'est soubmis,  
@@ -4510,7 +4508,7 @@ Allons donc voir ce chef⁎, l'objet de mon soucy⁎.
 Mes yeux asseurez-vous.  
 
     LUCIDE
-Madame, le voicy.  
+        Madame, le voicy.  
 Lucide tire les rideaux du lict où Filamire dort.
 
 
@@ -4518,7 +4516,7 @@ Lucide tire les rideaux du lict où Filamire dort.
 Dieux ! qu'est-ce que je voy, ah, Lucide.  
 
     LUCIDE
-Madame,  
+        Madame,  
 Vous voyez ce beau corps qu'on peut dire sans ame,  
 Si captif du sommeil qu'avecque peu d'effort,  
 La plus debile [407] main luy peut donner la mort.  
@@ -4526,7 +4524,7 @@ La plus debile [407] main luy peut donner la mort.
     CLORISÉE
 C'est donc en ceste sorte, et bien je suis trompée.  
 
-    LUCIDE    
+    LUCIDE
 Madame, recevez (s'il vous plaist) mon espée.  
 Abbatez-en ce chef⁎ de vostre belle main [408],  
 Et lors j'accompliray vostre dernier dessein.  
@@ -4547,7 +4545,7 @@ Ont destiné ma vie au bon-heur de ce Roy.
 Il est temps d'affranchir⁎ mon ame enveloppée [409],  
 Laisserois-je eschapper ceste fatale espée,  
 Sans tirer des malheurs ce miserable corps,  
-Qui ne demande plus que la gloire des morts.      
+Qui ne demande plus que la gloire des morts.  
 Puis que ceste trompeuse a manqué d'asseurance,  
 Je veux à son deffaut.  
 La Reyne se veut tuer.
@@ -4556,7 +4554,7 @@ La Reyne se veut tuer.
     LUCIDE
 Lucide l'empesche.
 
-Injuste violence !  
+        Injuste violence !  
 Madame, retenez un peu vostre fureur⁎,  
 R'appelez vos esprits, vous verrez vostre erreur,  
 Redonnez à vos sens leurs forces esgarées,  
@@ -4566,7 +4564,7 @@ Vous sentirez bien tost vos peines⁎ separées.
 Retire-toy, parjure.  
 
     LUCIDE
-Ah ! Madame, escoutez.  
+        Ah ! Madame, escoutez.  
 
     CLORISÉE
 Je ne veux plus ouyr tes infidelitez,  
@@ -4574,7 +4572,7 @@ Laisse moy recueillir les fruicts de ma fortune ;
 Pourquoy m'empesches-tu ?  
 
     FILAMIRE, *s'esveille en sursaut, et se jette à* *bas du lict en chemise et prend son espée.*
-Quelle voix importune  
+        Quelle voix importune  
 Vient rompre mon repos, et troubler ma raison ?  
 Lucide voudroit elle user de trahison ?  
 Non, elle veut plustost empescher Clorisée  
@@ -4592,7 +4590,7 @@ Pourveu qu'en mon trépas vous soyez satisfaite,
 Je laisse franchement ma vie à l'abandon,  
 Si vostre douce voix ne prononce un pardon.  
 
-    CLORISÉE    
+    CLORISÉE
 Ah ! charmes⁎ renaissans de ma premiere gloire,  
 Venez-vous derechef affliger⁎ ma memoire ?  
 Levez-vous Filamire, un Prince tel que vous  
@@ -4616,7 +4614,7 @@ Madame, mon depart l'esmeut⁎ tant de tristesse,
 A cause du combat que j'avois entrepris  
 Que j'ay peur que ma veuë allume son mépris.  
 
-    CLORISÉE    
+    CLORISÉE
 Elle avoit bien raison de craindre pour son pere.  
 
     LUCIDE
@@ -4632,20 +4630,20 @@ Elles s'embrassent.
 
 
     FLORINDE
-Ostez ce nom de bonne.  
+        Ostez ce nom de bonne.  
 
     LUCIDE
 Ah ! que mon cœur s'estonne⁎ [411],  
 Et bien que fait Madame ?  
 
     FLORINDE
-Elle pense comment  
+        Elle pense comment  
 Elle doit chastier vostre retardement.  
 
     LUCIDE
 Mais dites moy mon cœur, vous serez mon refuge.  
 
-    FLORINDE    
+    FLORINDE
 Non, ne le croyez pas, je seray vostre juge,  
 Quittons la raillerie, et parlons de bon sens,  
 Madame vous veut voir toutes choses cessans.  
@@ -4659,7 +4657,7 @@ Ouy bien, comme Lucide, et non comme Armidore.
 Vous avez trop de soin⁎.  
 
     LUCIDE
-Que ce soin⁎ me devore.  
+        Que ce soin⁎ me devore.  
 
     CLORISÉE
 Ma fille impatiente a desir de vous voir,  
@@ -4675,7 +4673,7 @@ Je vay gaigner des gans d'éternelle durée [413].
 Elle s'enfuit parée [414].
 
 
-    FILAMIRE    
+    FILAMIRE
 Madame pardonnez à la necessité,  
 Je suis tousjours fascheux à vostre Majesté.  
 
@@ -4718,8 +4716,8 @@ Je croy que sans la vostre on m'eust fait voir l'Epire,
 Laissons les complimens, sçachons que fait [420] ma sœur.  
 Comment l'a-t'on reçeuë ?  
 
-    TERSANDRE    
-Avec plus de douceur  
+    TERSANDRE
+        Avec plus de douceur  
 Que l'excez de ma voix ne vous le sçauroit dire.  
 
     CLIDAME
@@ -4744,13 +4742,13 @@ Et dont ma raison craint une mauvaise yssuë.
     TERSANDRE
 Je vis bien avec elle un genereux⁎ guerrier  
 Aussi grave d'aspect que couvert de laurier,  
-Qui vainquit devant moy le Prince d'Hyrcanie.      
+Qui vainquit devant moy le Prince d'Hyrcanie.  
 
     CLIDAME
 Ha, sans doute c'est luy.  
 
     TERSANDRE
-La bataille finie,  
+        La bataille finie,  
 Et les Roys prisonniers remis en seureté,  
 Voyant que ce guerrier cerchoit la liberté  
 Et croyant le repos leur estre necessaire,  
@@ -4763,7 +4761,7 @@ Je ne sçay quel effect produira tout cecy.
 Allons à la rencontre.  
 
     CLIDAME
-Ah ! monsieur, le voicy.  
+        Ah ! monsieur, le voicy.  
 
 
 ### SCENE SEPTIESME
@@ -4783,7 +4781,7 @@ Monsieur, que dites vous de ceste nouveauté ?
     TERSANDRE
 Mon esprit estonné⁎ croit de voir des chimeres.  
 
-    CLORISÉE    
+    CLORISÉE
 Je laisse desormais le soing⁎ de mes miseres,  
 Et pourray maintenant à tout mal resister.  
 
@@ -4794,7 +4792,7 @@ Mais voicy mon Nepveu [424].
     CLIDAME
 Clidame saluë Filamire.
 
-Sire, jamais mon ame,  
+        Sire, jamais mon ame,  
 Ne se vit si confuse, ô glorieuse flame,  
 Dont Armidore sent l'agreable tourment⁎,  
 Qu'il fut judicieux en son desguisment.  
@@ -4809,14 +4807,14 @@ Sire, je rends mes vœux à vostre Majesté.
     FILAMIRE
 Mon Cousin⁎, vous voyez un Prince surmonté [426],  
 Mon Neveu m'a remis au pouvoir de la Reyne,  
-Sa prudence a fleschy ma valeur⁎ et sa peine⁎,      
+Sa prudence a fleschy ma valeur⁎ et sa peine⁎,  
 Son courage a si bien mesnagé sa vertu,  
 Qu'il demeure vainqueur sans avoir combatu,  
 Victoire qui luy donne aujourd'huy le salaire  
 Que la Reyne a promis.  
 
     CLORISÉE
-Je n'en veux rien distraire⁎,  
+        Je n'en veux rien distraire⁎,  
 Derechef Armidore en presence de tous [427],  
 Ma Fille et mes Estats sont maintenant à vous.  
 
@@ -4828,7 +4826,7 @@ Pourroit encor punir, nostre severité.
 
     CLORISÉE
 Monsieur, vous et mon Fils avez toute puissance,  
-Disposez de leur perte, ou de leur delivrance.      
+Disposez de leur perte, ou de leur delivrance.  
 
     FILAMIRE
 Mon cousin⁎, s'il vous plaist, qu'on les face venir,  
@@ -4840,7 +4838,7 @@ On les ameine enchaisnez.
 
 
     CLORISÉE
-Bons dieux, combien d'afflictions⁎ !  
+        Bons dieux, combien d'afflictions⁎ !  
 
     FILAMIRE
 Mes freres, vous voyez comme nos passions,  
@@ -4852,7 +4850,7 @@ La Reyne vous delivre, et vous oste vos fers.
     BRUSERBE
 Nous n'attendions pas moins, de sa main genereuse.  
 
-    FILAMON    
+    FILAMON
 Nous avons tousjours creu, nostre prison heureuse,  
 Et que ceste Princesse, a trop d'humanité,  
 Pour punir les excez, de nostre cruauté.  
@@ -4861,13 +4859,13 @@ Pour punir les excez, de nostre cruauté.
 Mais d'où vient ce Courrier,  
 
     COURRIER
-Sire, je viens de Mede,  
+        Sire, je viens de Mede,  
 
     FILAMIRE
 Et qui [428] t'amene en Cypre ?  
 
     COURRIER
-Un malheur sans remede,  
+        Un malheur sans remede,  
 Ceste lettre en contient la pure verité.  
 Filamire lit la lettre.
 
@@ -4881,7 +4879,7 @@ Ah ! sensible accident, d'un si mortel dommage !
 
     FILAMIRE
 Essuyez, s'il vous plaist ces inutiles pleurs,  
-La mort veut le silence et non pas les douleurs.      
+La mort veut le silence et non pas les douleurs.  
 La perte de Clarinde [430], est une œuvre secrette,  
 Dont le Ciel veut punir mon erreur indiscrette⁎ :  
 Vivante elle me fit de vos yeux separer,  
@@ -4898,7 +4896,7 @@ Reprenez vostre cœur et me rendez mon ame.
 
     CLORISÉE
 Monsieur, je ne puis rien adjouster à ma flame,  
-Le temps, ny les tourmens⁎, ny la prosperité,      
+Le temps, ny les tourmens⁎, ny la prosperité,  
 N'ont peu rien esmouvoir⁎ en ma fidelité.  
 
     FILAMIRE
@@ -4920,6 +4918,7 @@ Abréviations utilisées :
 
 
 ## Appendice I : Poème liminaire À l'Orizelle de Chabrol [433]< A MONSIEUR CHABROL, sur son Orizelle.Stances >
+
 CHABROL, tu peints ton Orizelle  
 Un si rare sujet d'Amour,  
 Que jamais le Prince du jour  
@@ -4961,7 +4960,7 @@ GOUGENOT.
 
 ## Appendice II : Priere du Roy au Sainct Esprit
 
-Canivet, Philippe Desportes et Nicolas Gougenot, recueil de prières à l'usage du roi Louis XIII, France, XVIIe siècle.
+Canivet, Philippe Desportes et Nicolas Gougenot, recueil de prières à l'usage du roi Louis XIII, France, XVII*e* siècle.
 
 Papier, reliure en vélin avec portraits découpés, étui de maroquin. 12, 8 x 9 cm BnF, Manuscrits occidentaux, français 24749 (La Vallière 198 bis).
 

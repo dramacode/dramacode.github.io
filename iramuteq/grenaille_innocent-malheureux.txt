@@ -421,14 +421,14 @@ L'INNOCENT MALHEUREUX,
 
 OU LA MORT DE CRISPE.
 
-**** *book_ *id_body-11-1 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1101 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 Ce repos me plaist bien qui vient de mes travaux,
 Je n'ay plus d'ennemis, n'ayant plus de Rivaux ;
 J'ay dèstruit ces Tyrans⁎ qui pensoient tout destruire
 Et gagné tout d'un coup la Victoire et l'Empire.
-Mais ce n'est qu'à ce bras que je dois cet honneur,        
+Mais ce n'est qu'à ce bras que je dois cet honneur,
 La Fortune n'a point de part à mon bon-heur⁎ ;
 Ce qu'on nomme Faveur, n'est que ma recompense,
 Et le Ciel seulement seconde ma vaillance.
@@ -454,7 +454,7 @@ Aussi l'unique bien⁎que mon ame desire,
 C'est de voir ma maison⁎ en paix comme l'Empire,
 Un Prince peut tomber, quand le dernier Appuy
 Qui le doit soûtenir, s'éleve contre luy.
-Il arrive souvent qu'un double mariage                
+Il arrive souvent qu'un double mariage
 S'il provient de l'amour, produit bien de la rage ;
 Et c'est un grand malheur quand on voit des parens,
 Qui se traitent bien moins en amis qu'en tyrans⁎.
@@ -463,13 +463,13 @@ Constantin desormais ne peut qu'estre heureux pere ;
 Il ne peut au dehors craindre aucun Ennemy.
 Se voyant au dedans puissamment affermy.
 
-**** *book_ *id_body-11-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1102 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 Emile que dis-tu ?
 
 -*who_emile
-        Qu'une de vos Provinces
+      Qu'une de vos Provinces
 D'un de vos Lieutenans a fait un de ses Princes,
 Sur le bord du Danube un peuple revolté,
 Veut opposer sa force à vôtre Majesté ?
@@ -479,7 +479,7 @@ Il arme puissamment pour attaquer l'Empire.
 Il me faut travailler mesme quand je respire ;
 Je m'ennuyois déja de me voir en repos,
 La peine et la sueur me rendent plud dispos,
-Ce peuple soulevé ne desire combatre,                    
+Ce peuple soulevé ne desire combatre,
 Que pour avoir l'honneur que je songe à l'abatre,
 Je me vay disposer à domter son orgueil,
 Et sa vaine grandeur sera son vray cercueil.
@@ -490,7 +490,7 @@ Vostre fils doit gagner cette belle Couronne.
 -*who_constantin
 Assemblez le Conseil avant que j'en ordonne.
 
-**** *book_ *id_body-11-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1103 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_mere
 C'est un objet bien rare à mes yeux de te voir.
@@ -505,7 +505,7 @@ Qu'il ne m'en reste plus ny pour vous ny pour moy.
 -*who_helene_mere
 Je t'excuse en effet, et ne me plains pas d'elle,
 C'est la Foy⁎ seulement qui la trouve rebelle ;
-Son esprit, et son corps sont parfaits à ce point,             
+Son esprit, et son corps sont parfaits à ce point,
 Que s'ils pouvoient changer, ils ne le seroient point.
 Mais ces excellens dons ne sont que dommageables,
 Si la Religion ne les rend venerables;
@@ -530,7 +530,7 @@ Tout son plaisir consiste à me pouvoir complaire⁎;
 Mais je puis bien aussi l'obliger⁎ à mon tour,
 En luy donnant la Foy⁎ pour prix de son amour.
 Je vois un naturel si haut⁎ et si sensible,
-Que de tous les grands biens il paroist susceptible ;         
+Que de tous les grands biens il paroist susceptible ;
 Et l'on peut bien juger par ses affections,
 Que la mesme vertu forme ses passions.
 
@@ -540,7 +540,7 @@ Son pouvoir neantmoins a besoin de ton zele ;
 Puis donc que nous avons mesme dessein⁎ que luy,
 Pour l'achever bien tost, commençons aujourd'huy.
 
-**** *book_ *id_body-11-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1104 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Procle, ne te feins⁎ point ; c'est de la jeune Helene
@@ -554,7 +554,7 @@ Si comme tu cheris je te connois sincere.
 Madame, dés qu'on sent l'ardeur d'un si grand feu⁎,
 Pour bien couvert⁎ qu'il soit, il paroist quelque peu,
 j'ay caché jusqu'icy le transport⁎ de mon ame,
-Apprehendant qu'il eust moins d'effet, que de blâme ;            
+Apprehendant qu'il eust moins d'effet, que de blâme ;
 Mais je ne crains plus rien ayant un tel secours,
 Et tousjours vous verrez mon cœur dans mes discours⁎.
 
@@ -581,7 +581,7 @@ Qui font tous ses respects, et ses affections.
 -*who_fauste
 Ce discours⁎ me plaist bien, et ce Prince m'oblige⁎,
 Mais croy qu'en m'obligeant⁎, neantmoins il m'afflige⁎;
-Son Amour me seroit plus cher que son respect,             
+Son Amour me seroit plus cher que son respect,
 L'un me soulageroit, où l'autre m'est suspect,
 Ces grands abaissemens qu'on voit en des personnes,
 Couvrent plus seurement les desirs des Couronnes ;
@@ -609,7 +609,7 @@ Quel danger trouve-t'il dans la proximité,
 D'avoir moins de reserve, et plus de liberté ?
 
 -*who_procle
-Si vous ne voyez pas son ame toute nuë,             
+Si vous ne voyez pas son ame toute nuë,
 C'est que sa passion cede à sa retenuë.
 
 -*who_fauste
@@ -632,12 +632,12 @@ Non ; mais je vois par là qu'elle m'est infidele⁎ ;
 Ayme-t'elle si haut⁎ ?
 
 -*who_procle
-            Vous sçavez son secret.
+      Vous sçavez son secret.
 
 -*who_fauste
 Puis qu'elle me le cache, il doit estre indiscret ;
 Celle dont je parlois est de meilleure race,
-Elle a bien moins d'orgueil, mais elle a plus de grace ;        
+Elle a bien moins d'orgueil, mais elle a plus de grace ;
 S'il la pouvoit aymer, il me feroit plaisir,
 Car mes vœux sont de voir accomplir son desir.
 
@@ -651,7 +651,7 @@ Spurine adorant Crispe implore mon secours,
 Va la donc avertir, sans parler d'autre chose ;
 Que j'agis puissamment, et qu'elle se repose.
 
-**** *book_ *id_body-11-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1105 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 
@@ -664,7 +664,7 @@ D'aimer plus en effet l'objet le plus aimable⁎ ?
 
 La Nature ne le veut pas ;
 C'est elle neantmoins qui m'en donne l'envie ;
-Elle m'oste, et me rend la vie,                    
+Elle m'oste, et me rend la vie,
 Me faisant trop aymer et craindre ses appas⁎;
 Doux sang que tu sembles barbare⁎,
 Nous unissant tous deux d'un nœud qui nous separe !
@@ -689,7 +689,7 @@ En l'aimant, je cheris mon époux doublement ;
 Quoy donc ? luy seray-je infidele⁎,
 Si pour le mieux aimer, je redouble mon zele ?
 
-Mais c'est trahir un Empereur,                    
+Mais c'est trahir un Empereur,
 Pour servir un Tyran⁎ qui n'est qu'abominable ;
 Au pere pourray-je estre aymable⁎,
 Et le fils me peut-il cherir que dans l'horreur ?
@@ -714,10 +714,10 @@ Quel remede aura cet Amour
 Si je n'en puis parler, et ne puis pas m'en taire ?
 Il m'empesche d'estre sincere,
 Et me doit étouffer s'il n'est produit au jour ;
-Que Crispe l'apprenne luy mesme,                
+Que Crispe l'apprenne luy mesme,
 Et se voyant aimé qu'il me tuë, ou qu'il m'aime.
 
-**** *book_ *id_body-11-6 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1106 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Madame, l'Empereur éloigne de nos yeux,
@@ -727,7 +727,7 @@ Ce Prince qui faisoit et sa gloire, et nos voeux.
 Est-il disgracié ?
 
 -*who_helene_fille
-        Sa grande renommée
+      Sa grande renommée
 L'a fait choisir d'abord⁎ pour conduire l'armée.
 
 -*who_fauste
@@ -736,12 +736,12 @@ Mais souvent aux plus grands⁎ il est plus malheureux ;
 Et Crispe le veut-il ?
 
 -*who_helene_fille
-            Comme il aime la gloire,
+      Comme il aime la gloire,
 Il fuit tous les plaisirs pour suivre la victoire.
 
 -*who_fauste
 On croit vaincre souvent que l'on se voit vaincu,
-Et par fois les plus forts n'ont pas le plus vescu ;            
+Et par fois les plus forts n'ont pas le plus vescu ;
 Si Crispe est genereux, la mort porte des armes,
 Qui n'espargnent non plus, la valeur que les charmes;
 Donc pour l'en preserver il le faut retenir ;
@@ -757,14 +757,14 @@ De grace conformez son ordre à nos plaisirs.
 Je m'y veux employer, l'affaire est importante,
 Et mon ressentiment⁎ la fait juger pressante.
 
-**** *book_ *id_body-11-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1107 *act_ *date_1639 *creator_grenaille
 
 -*who_adelaide
 Je sçay que l'Empereur vous a dit son dessein⁎;
 Il ne s'esclorra pas s'il n'est que dans mon sein⁎.
 Est-il vray que son fils doit quitter sa presence,
 Et qu'un si doux sujet sort par la violence ?
-Ce Prince a-t'il peché pour estre ainsi banny,            
+Ce Prince a-t'il peché pour estre ainsi banny,
 Et n'a-t'il de renom que pour estre terny ?
 
 -*who_artaban
@@ -794,7 +794,7 @@ Il a vaincu tousjours quand il a combatu.
 Ces autres bons succés excitent sa vertu.
 
 -*who_adelaide
-Il peut perdre du sang faisant un grand carnage.         
+Il peut perdre du sang faisant un grand carnage.
 
 -*who_artaban
 Le mal qui vous fait peur augmente son courage.
@@ -809,11 +809,11 @@ Souvent on perd l'honneur, quand on a trop d'amour.
 Il doit doncques partir ?
 
 -*who_artaban
-            L'affaire est resoluë,
+      L'affaire est resoluë,
 L'Empereur veut qu'il vainque.
 
 -*who_adelaide
-                Et je crains qu'on le tuë.
+      Et je crains qu'on le tuë.
 N'est-il point de moyen, Monsieur, de l'empescher ?
 
 -*who_artaban
@@ -828,7 +828,7 @@ Si j'avois du credit⁎ j'en suspendrois l'effet.
 Cette faveur rendroit Crispe mal satisfait.
 
 -*who_adelaide
-Chacun est bien content qu'on ait soin⁎ de sa vie.         
+Chacun est bien content qu'on ait soin⁎ de sa vie.
 
 -*who_artaban
 La vaillance resiste à cette lasche envie.
@@ -848,7 +848,7 @@ Fin du premier Acte.
 
 **** *book_ *id_body-12 *date_1639 *creator_grenaille
 
-Argument du second Acte                    
+Argument du second Acte
 
 Scene premiere
 
@@ -883,7 +883,7 @@ Scene VIII.
 
 Crispe avoüe en fin qu'il cede à l'amour ce qu'il avoit dissimulé, et que de Conquerant il devient serviteur d'une Princesse.
 
-**** *book_ *id_body-13-1 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1301 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 SOuviens-toy bien, mon fils, des exploits de ton pere ;
@@ -899,7 +899,7 @@ Pour l'avoir sans faillir, hazarde ta personne ;
 Prens cette épée en main, cet acier tout-puissant ;
 Pour avoir son esclat doit estre rougissant ;
 Les Barbares ont fait une esmeute nouvelle,
-Va faire voir ta force où la Gloire t'appelle.            
+Va faire voir ta force où la Gloire t'appelle.
 
 -*who_crispe
 Pour faire vaillamment il me faut commencer
@@ -911,7 +911,7 @@ Et je crains seulement qu'on ne me choque⁎ pas;
 Il m'ennuie à present de tenir cette épée,
 Car je la vois briller, l'aimant mieux voir trempée.
 
-**** *book_ *id_body-13-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1302 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Vous perdez donc un fils pour gagner de l'honneur ?
@@ -924,7 +924,7 @@ N'ayant point d'ennemis vous allumez des guerres ?
 Et dans la paix de l'air excitez des tonnerres ?
 
 -*who_constantin
-Ne vous offensez pas qu'il subisse une Loy            
+Ne vous offensez pas qu'il subisse une Loy
 Qui luy sera tousjours commune avecque moy ?
 Vivra-t'il dans la paix ? j'ay vécu dans la peine,
 Pour m'asseoir sur le thrône on m'a mis à la géne :
@@ -943,13 +943,13 @@ Tout le monde adorant ou craignant vos Vertus,
 Laissez Crispe à la Cour.
 
 -*who_constantin
-            Pour aimer les alarmes⁎,
+      Pour aimer les alarmes⁎,
 Il faut haïr, Madame, un lieu si plein de charmes;
 La Cour peut ramollir la plus mâle vigueur,
 Vous l'aimez Courtisan, et je l'aime Vainqueur.
 Et puis quiconque veut se garder de surprise,
 Doit mesme dans la paix faire quelque entreprise :
-Sans avoir d'ennemis, on doit porter le fer,            
+Sans avoir d'ennemis, on doit porter le fer,
 Ou l'on peut se voir vaincre, ayant pû triompher.
 Mais je viens maintenant d'aprendre des nouvelles,
 Qu'un Prince assujetty s'est fait chef des rebelles ;
@@ -978,16 +978,16 @@ Et cette charge aussi fait voir que je l'honore.
 Mais s'il meurt à la guerre ?
 
 -*who_constantin
-            Il mourra dans l'honneur.
+      Il mourra dans l'honneur.
 
 -*who_fauste
 Vous serez malheureux.
 
 -*who_constantin
-            Il aura du bonheur.
+      Il aura du bonheur.
 
 -*who_fauste
-Dans toute sa Faveur je crains quelque disgrace,        
+Dans toute sa Faveur je crains quelque disgrace,
 Si quelqu'autre ne va commander en sa place.
 
 -*who_constantin
@@ -998,19 +998,19 @@ Il soûmette à la fin sa grandeur à l'Amour.
 Il n'en est pas touché.
 
 -*who_constantin
-            Ne le peut-il pas estre ?
+      Ne le peut-il pas estre ?
 
 -*who_fauste
 Il n'a point de Maistresse.
 
 -*who_constantin
-            Elle n'est pas à naistre.
+      Elle n'est pas à naistre.
 
 -*who_fauste
 Il n'en aime pas une.
 
 -*who_constantin
-            Au moins est-il aimé.
+      Au moins est-il aimé.
 
 -*who_fauste
 Et quel seroit le cœur qui n'en seroit charmé !
@@ -1020,9 +1020,9 @@ Mais encor, Monseigneur, le nom de son Amante⁎ ?
 Elle est de vostre Cour.
 
 -*who_fauste
-            Oüy, c'est ma Confidente ;
+      Oüy, c'est ma Confidente ;
 Elle a de grands desseins⁎, mais ce discours⁎ à part,
-Crispe me fait beaucoup souffrir par son depart ;         
+Crispe me fait beaucoup souffrir par son depart ;
 Qu'on prenne mes enfans, que le vôtre demeure,
 Ma vie finira s'il arrive qu'il meure.
 Voyez comme mes yeux prevenant ses malheurs,
@@ -1049,12 +1049,12 @@ Mon cœur estoit pressé, mais je sens qu'il respire,
 Dans ma joye pourtant je rencontre un martyre,
 La guerre pour ce Prince a perdu son ardeur,
 Mais je crains d'autre part qu'il ait trop de froideur.
-O Mars ! si ta Venus a pû t'estre agreable,             
+O Mars ! si ta Venus a pû t'estre agreable,
 Et si pour la cherir tu t'és rendu traitrable ;
 Change en flammes d'amour le feu de sa fureur,
 Et qu'il aime l'amorce⁎ et haïsse l'horreur.
 
-**** *book_ *id_body-13-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1303 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_mere
 Puis qu'en fin mon Amour doit ceder à ta gloire,
@@ -1072,12 +1072,12 @@ Que celle que j'obtiens au peril de ma teste.
 Adieu Madame,
 
 -*who_helene_mere
-            Adieu.
+      Adieu.
 
-**** *book_ *id_body-13-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1304 *act_ *date_1639 *creator_grenaille
 
 -*who_artaban
-                Seigneur, ne partez pas;
+      Seigneur, ne partez pas;
 La Cour arreste en fin vos desseins⁎ et vos pas.
 L'Empereur a changé sa premiere Ordonnance.
 
@@ -1098,7 +1098,7 @@ Cette opposition doit estre une surprise.
 
 -*who_artaban
 Elle ne vous retient qu'afin qu'estant icy
-Vous viviez sans danger comme elle sans soucy.         
+Vous viviez sans danger comme elle sans soucy.
 
 -*who_crispe
 Un illustre danger m'est tousjours souhaitable,
@@ -1126,7 +1126,7 @@ Si j'estois genereux je passeray pour lasche ;
 Bien loin d'estre un grand Chef je seray Courtisan,
 Et l'Amour sans l'honneur sera mon partisan ;
 Je vay tout de ce pas obtenir ma dépesche,
-Car il n'est pas seant qu'une femme l'empesche.        
+Car il n'est pas seant qu'une femme l'empesche.
 
 -*who_helene_mere
 Croy que l'Imperatrice agit pour t'obliger⁎,
@@ -1156,7 +1156,7 @@ Mon fils, tu dois priser⁎ l'amour d'une marastre⁎.
 -*who_crispe
 Cet amour est trompeur puis qu'il est idolâtre.
 
-**** *book_ *id_body-13-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1305 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Il ne s'en ira pas, appaisons nos douleurs,
@@ -1164,7 +1164,7 @@ La joye seulement doit avoir de nos pleurs.
 Elle l'a retenu.
 
 -*who_adelaide
-        Que j'admire son zele,
+      Que j'admire son zele,
 Et que j'ay peine à croire une douce nouvelle ?
 
 -*who_helene_fille
@@ -1181,7 +1181,7 @@ Pour pouvoir arrester son cœur comme ses pas ?
 L'Imperatrice seule a pouvoir de luy plaire.
 
 -*who_adelaide
-Mais il veut une femme, et Fauste n'est que mere.    
+Mais il veut une femme, et Fauste n'est que mere.
 
 -*who_helene_fille
 Elle doit luy choisir celle qu'il doit aimer ;
@@ -1205,7 +1205,7 @@ En me desobligeant seroit-elle obligeante⁎ ?
 J'estime que son cœur ne fait rien que pour moy,
 Et qu'elle veut donner son beau Fils à ma Foy⁎.
 
-**** *book_ *id_body-13-6 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1306 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Son cœur n'aime donc rien que l'horreur des alarmes⁎ !
@@ -1229,7 +1229,7 @@ Tient moins lieu de plaisir que de supercherie.
 
 -*who_procle
 Madame, vous pourrez connoistre par effet
-Que mon discours⁎ est vray comme il vous satisfait,        
+Que mon discours⁎ est vray comme il vous satisfait,
 Procle s'abuseroit en trompant sa Princesse,
 Car sa perte soudain puniroit sa finesse,
 On surprend des Esprits indignes de respect,
@@ -1255,7 +1255,7 @@ Madame, ayant receu cette faveur extreme.
 Je m'en vay publier⁎ l'effect d'une bonté
 Qui n'a rien de pareil sinon vôtre beauté.
 
-**** *book_ *id_body-13-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1307 *act_ *date_1639 *creator_grenaille
 
 -*who_adelaide
 Madame, je ne puis plus cacher un mystere,
@@ -1272,32 +1272,32 @@ Va-t'en sçavoir, Flavie, où Crispe est si long-temps.
 J'ayme un grand⁎ de la Cour.
 
 -*who_fauste
-                Tes vœux seront contens
+      Tes vœux seront contens
 Dy moy ses qualitez.
 
 -*who_adelaide
-            Il est incomparable,
+      Il est incomparable,
 Madame, il est vaillant plus qu'il n'est agreable.
 
 -*who_fauste
 Son nom ?
 
 -*who_adelaide
-Ses qualitez vous le font bien sçavoir,            
+      Ses qualitez vous le font bien sçavoir,
 On ne voit rien de grand que lors qu'on le peut voir.
 
 -*who_fauste
 C'est doncques l'Empereur.
 
 -*who_adelaide
-                Pour si haut⁎ que j'aspire,
+      Pour si haut⁎ que j'aspire,
 Mes vœux sont au dessous du faiste⁎ de l'Empire.
 
 -*who_fauste
 C'est Crispe à mon advis.
 
 -*who_adelaide
-            Ce beau nom me blessant
+      Ce beau nom me blessant
 Fait voir le mal caché que mon ame ressent.
 
 -*who_fauste
@@ -1313,7 +1313,7 @@ Donc si vous desirez voir mon esprit guery,
 Donnez-moy pour Amant⁎ ce noble Favory.
 
 -*who_fauste
-Mes effets ont déja prevenu ta demande.             
+Mes effets ont déja prevenu ta demande.
 
 -*who_adelaide
 La faveur qu'on avance est tousjours la plus grande.
@@ -1342,9 +1342,9 @@ Comme si ton supplice estoit mon vray tourment.
 Peut-on assez priser⁎ une telle Princesse ?
 
 -*who_fauste
-L'effet t'étonnera bien plus que la promesse.    
+L'effet t'étonnera bien plus que la promesse.
 
-**** *book_ *id_body-13-8 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1308 *act_ *date_1639 *creator_grenaille
 
 -*who_crispe
 Procle, tu m'aymes bien, mais tu cheris ma sœur,
@@ -1363,7 +1363,7 @@ Je ne crois pas pourtant que mon amour vous blesse⁎
 Quand vous prisant⁎ sur tout, j'honore une Maistresse ;
 Il est vray qu'ayant veu qu'elle est de vôtre sang,
 Un Prince peut à peine aspirer à son rang ;
-Mais si mon cœur l'obtient de vous pour recompence,        
+Mais si mon cœur l'obtient de vous pour recompence,
 Je l'aymeray tousjours moins que vostre alliance:
 Et quoy que cét Hymen nous rende bien-heureux,
 C'est pour vous seulement qu'elle aura tous mes vœux.
@@ -1387,7 +1387,7 @@ Fin du second acte.
 
 **** *book_ *id_body-14 *date_1639 *creator_grenaille
 
-Argument du troisiesme Acte                
+Argument du troisiesme Acte
 
 Scene premiere
 
@@ -1417,7 +1417,7 @@ Scene VII
 
 Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils.
 
-**** *book_ *id_body-15-1 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1501 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 VA dire à ton Amant⁎ que je luy veux parler,
@@ -1432,10 +1432,10 @@ Il me doit rebutter, ne le ferois-je pas
 S'il avoit mon Amour, si j'avois ses appas⁎ ?
 Il faut tout hazarder, mon mal est trop sensible
 Pour ne me porter pas à tenter l'impossible ;
-Crispe voyant l'excés de ma calamité                
+Crispe voyant l'excés de ma calamité
 Ne s'étonnera pas de cette extremité.
 
-**** *book_ *id_body-15-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1502 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Beau Crispe dont l'honneur et la grace est extréme,
@@ -1457,7 +1457,7 @@ Afin de meriter de vivre sous tes loix.
 
 -*who_crispe
 Si vous luy permettez de vous estre semblable,
-Vous seule neantmoins me semblez adorable⁎.            
+Vous seule neantmoins me semblez adorable⁎.
 
 -*who_fauste
 Quelque autre, à ce qu'on dit, t'oste ta liberté ?
@@ -1487,8 +1487,8 @@ Fay donc ce que je dy pour faire comme nous ?
 Quoy ?
 
 -*who_fauste
-Fay voir à mon cœur que ta flamme⁎ est extréme
-Aimant ce bel objet qui semble estre moy-méme.     
+      Fay voir à mon cœur que ta flamme⁎ est extréme
+Aimant ce bel objet qui semble estre moy-méme.
 
 -*who_crispe
 C'est contraindre mon cœur que de luy faire aimer
@@ -1517,7 +1517,7 @@ C'est vôtre déplaisir⁎ qui fait tous mes tourmens.
 -*who_fauste
 Adelaïde au prix, quoy que ma Confidente,
 Méme à ton jugement ne sera que suivante ;
-Enfin c'est le party le plus grand⁎ de ma Cour ;            
+Enfin c'est le party le plus grand⁎ de ma Cour ;
 Qui voyant tes respects recherche ton amour ;
 Mais ton cœur estant pris je ne te l'ose dire.
 
@@ -1545,10 +1545,10 @@ Ne pense pas aussi que mon intention
 Soit de voir l'Empereur dans la sujettion ;
 S'il faut perdre l'honneur il faut que l'on me prive,
 Et c'est moy seulement qui veux estre captive.
-Enfin m'aimes-tu bien ?                    
+Enfin m'aimes-tu bien ?
 
 -*who_crispe
-            Tout autant que je peux,
+      Tout autant que je peux,
 Si c'est moins que je dois, n'en blâmez pas mes vœux.
 
 -*who_fauste
@@ -1574,7 +1574,7 @@ L'Empereur seul a droit sur ce bonheur supréme,
 Et le nom et l'effet doit estre pour un méme.
 
 -*who_fauste
-Qu'il en garde le nom, et fais m'en voir l'effet.            
+Qu'il en garde le nom, et fais m'en voir l'effet.
 
 -*who_crispe
 Ce plaisir pretendu me rend mal satisfait.
@@ -1589,7 +1589,7 @@ Je promettois en fils, vous demandez en femme.
 Crispe n'est pas mon fils.
 
 -*who_crispe
-            Constantin m'a produit.
+      Constantin m'a produit.
 
 -*who_fauste
 Et je pretens par là provigner ce beau fruit.
@@ -1605,7 +1605,7 @@ Madame, avec l'honneur vous perdez la raison.
 
 -*who_fauste
 Les sentimens d'honneur ne sont pas de saison.
-J'ay caché si long-temps que je ne puis plus taire            
+J'ay caché si long-temps que je ne puis plus taire
 Ce que tu croy forfait⁎, et qui n'est que Mystere.
 
 -*who_crispe
@@ -1618,7 +1618,7 @@ C'est qu'ils n'ont jamais veu ces beaux lineamens.
 Vous voulez m'éprouver.
 
 -*who_fauste
-            Voy ce cœur que tu brûles !
+      Voy ce cœur que tu brûles !
 Il n'est que trop sincere, approche, tu recules !
 
 -*who_crispe
@@ -1631,11 +1631,11 @@ Ils peuvent bien souffrir ce Tyran⁎ dans mon sein⁎.
 Dieu vangeur vous entend.
 
 -*who_fauste
-                Les Dieux sont mes exemples,
+      Les Dieux sont mes exemples,
 Les suivant je ne peux meriter que des Temples.
 Jupiter n'a-t'il pas pour épouse Junon ?
 En elle femme et sœur ne font qu'un méme nom.
-Apres cela tu crois que je serois infame,                
+Apres cela tu crois que je serois infame,
 Si Crispe me nommoit sa Marastre⁎ et sa femme,
 Au contraire, je croy que si c'est mon bonheur,
 Comme on n'en peut douter, c'est mon plus grand honneur.
@@ -1661,17 +1661,17 @@ Oüy je suis criminel d'avoir causé sa flamme⁎,
 Et ce corps doit perir qui brûle ainsi son ame.
 
 -*who_fauste
-Croy que si mon époux me sembloit aussi beau            
+Croy que si mon époux me sembloit aussi beau
 Je ne t'aimerois pas.
 
 -*who_crispe
-        Si suis-je son tableau.
+      Si suis-je son tableau.
 
 -*who_fauste
 Mais il est moins parfait.
 
 -*who_crispe
-        Vostre poursuite est vaine,
+      Vostre poursuite est vaine,
 Cét amour ne peut rien meriter que ma haine ;
 Je vous dois resister si je suis si parfait,
 Et ma vertu ne peut approuver ce forfait⁎.
@@ -1684,25 +1684,25 @@ Sans prendre de mon feu⁎ fais moy perdre le jour.
 
 -*who_crispe
 Demander un tel crime avec de telles larmes !
-Et pour perdre l'honneur employer tant de charmes !        
+Et pour perdre l'honneur employer tant de charmes !
 
 -*who_fauste
 Tu méprises mes vœux ?
 
 -*who_crispe
-            Les peut-on estimer ?
+      Les peut-on estimer ?
 
 -*who_fauste
 Tu peux donc me haïr ?
 
 -*who_crispe
-            Mais vous peut-on aimer ?
+      Mais vous peut-on aimer ?
 
 -*who_fauste
 Tu t'en repentiras.
 
 -*who_crispe
-        Jamais la repentance
+      Jamais la repentance
 Ne peut suivre que ceux qui commettent l'offence.
 
 -*who_fauste
@@ -1720,7 +1720,7 @@ Sans doute l'Empereur la doit trouver honneste.
 -*who_fauste
 Je me rends au devoir confessant que j'ay tort,
 Et vois que mon amour a merité ma mort.
-Prince pardonne moy, j'aurois eu moins de flamme⁎        
+Prince pardonne moy, j'aurois eu moins de flamme⁎
 Si ton corps eust semblé moins parfait à mon ame ;
 Je prise⁎ ta vertu si je plain mon malheur,
 Mon plaisir pretendu fait ma vraye douleur ;
@@ -1729,7 +1729,7 @@ Mais trop d'affection le peut rendre excusable ;
 Le forfait⁎ est fort beau quand on semble pecher
 Pour tenir un sujet trop aimable⁎ trop cher.
 
-**** *book_ *id_body-15-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1503 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 
@@ -1743,7 +1743,7 @@ Et brûler de cholere et non plus de desir.
 Cét ingrat me prisoit moins que ma Confidente,
 Est-elle plus puissante ?
 Ou bien peut-estre elle a de plus charmans appas⁎ ?
-Qu'il la nomme Venus aussi bien que sa Reine,            
+Qu'il la nomme Venus aussi bien que sa Reine,
 Je suis leur souveraine,
 Et qui ne m'aime point ne me merite pas.
 
@@ -1765,7 +1765,7 @@ Cesse de l'excuser raison trop importune,
 Car il perd sa fortune
 Perdant l'occasion d'un si rare bienfait,
 Comme devant⁎ pour luy ma flamme⁎ estoit extréme
-Ma haine est tout de méme,                    
+Ma haine est tout de méme,
 Et je pretends perir ou le perdre⁎ en effet.
 
 Je te plain neantmoins, Prince jadis aimable⁎
@@ -1782,7 +1782,7 @@ Je pretends que celuy qui t'a donné la vie
 Te l'oste par envie,
 Et tout mon deshonneur s'en ira sur ton front.
 
-**** *book_ *id_body-15-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1504 *act_ *date_1639 *creator_grenaille
 
 -*who_procle
 Vous retirer, Monsieur, sans le dire à personne ?
@@ -1800,16 +1800,16 @@ Pour l'avoir trop esté, Procle, il me desespere ;
 Mais, adieu, cher Amy.
 
 -*who_procle
-            Quoy me celez⁎ vous rien ?
+      Quoy me celez⁎ vous rien ?
 
 -*who_crispe
 Je te cache le mal pour te dire le bien.
 
 -*who_procle
-C'est n'aimer qu'à demy.                     
+C'est n'aimer qu'à demy.
 
 -*who_crispe
-            Tu dois lire en mon ame ;
+      Tu dois lire en mon ame ;
 Mais de te dire tout je ne le puis sans blâme.
 
 -*who_procle
@@ -1836,13 +1836,13 @@ Car comme à vos douceurs j'ay part à vos ennuis.
 Tu sçais que sans amy mon cœur ne sçauroit vivre.
 
 -*who_procle
-Ce m'est plus que mourir que de ne vous pas suivre.        
+Ce m'est plus que mourir que de ne vous pas suivre.
 
 -*who_crispe
 Pour rendre neantmoins ce voyage asseuré,
 Tu dois suivre la Cour quand je la quitteray.
 
-**** *book_ *id_body-15-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1505 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 Les troubles ont cessé, mais ils peuvent renaistre,
@@ -1856,7 +1856,7 @@ Si mon credit⁎est vain, employons les destins.
 Faisons mourir tous ceux qui choquent⁎ mon Empire,
 Méprisant ma douceur qu'ils éprouvent mon ire,
 Et qu'en voyant leurs Chefs condamnez au trépas,
-Qu'on apprenne que c'est de ne m'obeïr pas.         
+Qu'on apprenne que c'est de ne m'obeïr pas.
 
 -*who_artaban
 Où la clemence est foible, il faut estre severe,
@@ -1872,19 +1872,19 @@ En se faisant bien craindre, il vous faira regner.
 Cette charge est pour Crispe, il doit tenir ma place
 Tous en doivent attendre, ou la mort, ou la grace
 
-**** *book_ *id_body-15-6 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1506 *act_ *date_1639 *creator_grenaille
 
 -*who_procle
 Grand⁎ Prince, vôtre fils vient de se retirer.
 
 -*who_constantin
-Mais contre mon dessein⁎ on l'a fait demeurer.            
+Mais contre mon dessein⁎ on l'a fait demeurer.
 
 -*who_procle
 C'est depuis deux momens.
 
 -*who_constantin
-                Sans le dire à personne ?
+      Sans le dire à personne ?
 Leve moy les soupçons que son depart me donne.
 
 -*who_procle
@@ -1908,15 +1908,15 @@ L'effet vous en plairoit, dit-il, sçachant la cause.
 C'estoit donc son devoir d'en dire quelque chose.
 
 -*who_procle
-Vous le sçaurez toujours.                    
+Vous le sçaurez toujours.
 
 -*who_constantin
-                Mais il est à propos
+      Mais il est à propos
 De bien-tost le sçavoir pour avoir du repos :
 A-t'il rien dit à Fauste.
 
 -*who_procle
-            Il a craint sa poursuite,
+      Il a craint sa poursuite,
 Et pour ne la pas voir il est party plus viste.
 Elle sçait son depart et non pas son secret,
 Car s'il estoit sa joye, elle a bien du regret.
@@ -1955,7 +1955,7 @@ C'est qu'aimant son époux elle aime son image ;
 Mais qu'ay-je à craindre enfin ? suis-je pas Empereur ?
 Un fils me feroit-il redouter sa fureur ?
 
-**** *book_ *id_body-15-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1507 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 D'où vient que ces beaux yeux qui font mon allegresse,
@@ -1978,7 +1978,7 @@ Vôtre fils, ha ! ce mot m'arreste et me fait taire.
 Mon fils s'est retiré, n'est-ce pas le mystere ?
 Faut-il vous offencer, qu'il fasse à son plaisir,
 Et suivant son devoir il suive son desir.
-J'avois mesme dessein⁎, mais vous l'avez fait rompre,         
+J'avois mesme dessein⁎, mais vous l'avez fait rompre,
 Quoy qu'il ait le cœur, la Cour l'eust pû corrompre.
 Dans cét illustre feu⁎ que l'on voit dans ses yeux,
 On reconnoit son Pere avec tous ses ayeux ;
@@ -2003,7 +2003,7 @@ Depuis qu'un scelerat offence un nom si doux ;
 Et je veux à present vous estre si fidele,
 Que mesme ma vertu vous semble criminelle,
 C'est d'un grand⁎ de la Cour que je pleure l'erreur,
-Non y participant, mais en ayant horreur.         
+Non y participant, mais en ayant horreur.
 
 -*who_constantin
 Peut-on bien dans ma Cour faire de si grands crimes ?
@@ -2015,7 +2015,7 @@ Les Grands⁎ croyent par fois les rendre legitimes.
 Parlez plus franchement.
 
 -*who_fauste
-            Grand⁎ Prince, je le veux
+      Grand⁎ Prince, je le veux
 Si vôtre sentiment est conforme à mes vœux ;
 Faites grace à celuy que vous sçaurez coupable.
 
@@ -2029,10 +2029,10 @@ On m'a sollicitée à vous estre infidele⁎,
 Je serois sans honneur si j'eusse esté sans zele ;
 Mais j'ay dit constamment nonobstant cét effort,
 Que je souffrirois moins cét affront que la mort,
-Je vous en donne avis.                        
+Je vous en donne avis.
 
 -*who_constantin
-            Vous m'offencez, Madame,
+      Vous m'offencez, Madame,
 Luy vouloir pardonner, c'est n'estre pas ma femme ;
 Je jure par le Dieu que je sers de nouveau,
 Qu'il mourra ce jourd'huy si je n'entre au tombeau ;
@@ -2051,7 +2051,7 @@ Car je prise⁎ bien plus l'honneur de vous avoir.
 L'affaire est importante à nous comme à l'Empire,
 Pour oster tout le mal, Madame, il faut tout dire :
 Le nom, la qualité de ce grand criminel,
-Pour qui punir c'est peu qu'un supplice eternel ?        
+Pour qui punir c'est peu qu'un supplice eternel ?
 
 -*who_fauste
 Oserez-vous l'oüir si je vous l'ose dire,
@@ -2073,13 +2073,13 @@ Je l'épancherois tout, je couperois mon bras.
 C'est Crispe.
 
 -*who_constantin
-        C'est ! C'est Crispe ! O funeste⁎ nouvelle ?
+      C'est ! C'est Crispe ! O funeste⁎ nouvelle ?
 Cieux ? suis-je trop credule, ou m'est-elle infidele⁎ ?
 De ma femme aujourd'huy mon fils veut estre époux ;
 Que ne suis-je donc mort ? que ne l'étouffez-vous ?
 Un si grand criminel est exempt de supplice ?
 Ce Dieu qu'on croit si juste a si peu de justice ?
-Oüy, c'est Crispe en effet, car ce n'est pas mon fils,         
+Oüy, c'est Crispe en effet, car ce n'est pas mon fils,
 Ou le Ciel a puny la faute que je fis ;
 Quand pour produire un fils qui meritast l'Empire,
 J'engendray seulement un sujet à son ire.
@@ -2103,7 +2103,7 @@ J'ay pris pour compliment ce trait de fantaisie,
 Croyant dans m'a froideur qu'il fut sans frenesie,
 Mais il m'a répondu qu'il seroit comme vous,
 Et n'estant pas mon fils qu'il vouloit m'estre époux ;
-Mon rebut échauffoit sa premiere poursuite,             
+Mon rebut échauffoit sa premiere poursuite,
 Et je n'ay pû sauver mon honneur qu'à la fuite.
 J'ay debattu long temps si je vous le dirois,
 Pendant que du plaisir que je vous causerois,
@@ -2127,7 +2127,7 @@ Vous avez trop d'amour pour ceux qu'il faut haïr,
 Luy puis-je pardonner s'il a pû me trahir ?
 Sans que ce discours⁎ vient d'un excés d'indulgence,
 Je vous croirois d'abord de son intelligence ;
-Apres un tel affront appaiser mon courroux !             
+Apres un tel affront appaiser mon courroux !
 D'estre rude en ce poinct c'est encore estre doux ;
 Tu mourras, tu mourras, traistre, fils parricide,
 Je te seray cruel⁎, puis que tu m'es perfide.
@@ -2152,7 +2152,7 @@ Fauste continuë à rendre odieux celuy qu'elle n'a pû faire consentir à son a
 
 Scene IV.
 
-Helene mere de Constantin, vient excuser Crispe envers Fauste sur la promptitude de son depart, et la prie d'adoucir le pere pour sauver le fils, elle promet de s'y employer pour mieux tromper les uns et les autres.                                 
+Helene mere de Constantin, vient excuser Crispe envers Fauste sur la promptitude de son depart, et la prie d'adoucir le pere pour sauver le fils, elle promet de s'y employer pour mieux tromper les uns et les autres.
 
 Scene V.
 
@@ -2178,7 +2178,7 @@ Scene X.
 
 Il annonce cette funeste⁎ avanture par un silence affecté.
 
-**** *book_ *id_body-17-1 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1701 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 Artaban, c'est conclu, mais puis qu'il doit mourir,
@@ -2195,7 +2195,7 @@ Peut-on sans faire un crime excuser ce forfait⁎ ?
 Non ; mais il faut devant⁎ s'informer bien du fait.
 
 -*who_constantin
-Puis-je douter jamais de la foy⁎ de ma femme ?            
+Puis-je douter jamais de la foy⁎ de ma femme ?
 
 -*who_artaban
 Croyez-vous qu'un bon fils ait une mauvaise ame !
@@ -2210,7 +2210,7 @@ Combien qu'elle l'accuse, il se peut excuser.
 Je ne le veux pas voir.
 
 -*who_artaban
-            De punir un coupable
+      De punir un coupable
 Sans l'oüir, ce n'est pas estre Juge équitable.
 
 -*who_constantin
@@ -2223,7 +2223,7 @@ Mais le pouvez vous voir mourir si c'est à tort.
 A tort ! ayant voulu soüiller ainsi ma couche ?
 
 -*who_artaban
-Pour le sçavoir il faut l'entendre de sa bouche.         
+Pour le sçavoir il faut l'entendre de sa bouche.
 
 -*who_constantin
 Pourroit-il avoüer devant moy ce forfait⁎ ?
@@ -2247,13 +2247,13 @@ Son sejour a monstré qu'il ne peut estre tel.
 Tu t'entens avec luy.
 
 -*who_artaban
-            Je defends l'innocence.
+      Je defends l'innocence.
 
 -*who_constantin
 Il est donc innocent ?
 
 -*who_artaban
-            Pour le moins je le pense.        
+      Pour le moins je le pense.
 
 -*who_constantin
 Quels seront les meschans, si de fouler mon lit
@@ -2281,7 +2281,7 @@ Si vous estes son pere il ne doit pas perir :
 S'il ne vit pas en fils, pourquoy vivrois-je en pere ?
 
 -*who_artaban
-Il vous peut agréer s'il vous a pû deplaire.         
+Il vous peut agréer s'il vous a pû deplaire.
 
 -*who_constantin
 Pour me plaire, Artaban, il me faut contenter ;
@@ -2308,7 +2308,7 @@ Tu nommes mon apuy qui me veut renverser ?
 Qui ne voit mes plaisirs que pour les traverser ?
 Il est meilleur pour moy de voir punir ma race,
 Que si dedans mon lit un fils prenoit ma place ;
-Et j'ayme beaucoup mieux détruire mon Estat,             
+Et j'ayme beaucoup mieux détruire mon Estat,
 Que de le laisser vivre apres cét attentat ;
 Ce n'est rien de regner si l'on regne sans gloire,
 Et qu'on dure long temps pour flétrir sa memoire.
@@ -2334,14 +2334,14 @@ Ce discours⁎ semble trop retarder son supplice ;
 Si tu ne le poursuis je te croiray complice.
 
 -*who_artaban
-Ce mot encore, Sire, on se peut repentir.            
+Ce mot encore, Sire, on se peut repentir.
 
 -*who_constantin
 Non pas de m'avoir plû, mais de me repartir.
 Je t'ay dit mon secret, sois moy doncques fidelle,
 Et montre toy plustost trop zelé que rebelle.
 
-**** *book_ *id_body-17-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1702 *act_ *date_1639 *creator_grenaille
 
 -*who_artaban
 
@@ -2358,7 +2358,7 @@ Mais d'ailleurs je ne puis que me desesperer ;
 Car ma mort du trépas ne le peut delivrer,
 Et de causer deux morts n'en devant causer qu'une ;
 C'est vouloir l'obliger⁎ par un autre infortune ;
-Luy seul donc souffrira la mort,                     
+Luy seul donc souffrira la mort,
 Mon mal ne luy pouvant estre que dommageable ;
 Et combien qu'il n'ait point de tort,
 Les Grands⁎ n'en trouvant point peuvent faire un coupable.
@@ -2372,14 +2372,14 @@ Que d'autre que son fils de ton mal se ressente ;
 Et s'il ordonne ton trépas,
 Ma main obéïssant mon ame est innocente.
 
-**** *book_ *id_body-17-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1703 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Il est vray qu'il a tort de s'éloigner ainsi,
 S'il en a du plaisir j'en ay bien du soucy.
 En cas qu'on me l'eust dit, j'eusse empesché sa fuite,
 Mais il s'en est allé sans témoins et sans suite,
-Qui le gagne le perd, je l'obligeois⁎ assez,            
+Qui le gagne le perd, je l'obligeois⁎ assez,
 Son cœur reconnoit mal tant de bienfaits passez ;
 Au reste à ton amour il est impenetrable,
 Et l'aimant tu ne peux qu'estre fort miserable.
@@ -2407,17 +2407,17 @@ Ah ! qu'elle a de bonheur, quoy qu'il soit defendu.
 Soit-il bonheur ou non, c'est ce qui l'a perdu.
 
 -*who_adelaide
-Perdu ! vous devinez quelque étrange infortune :        
+Perdu ! vous devinez quelque étrange infortune :
 Le nom de cette Dame.
 
 -*who_fauste
-            Ah ! ce mot m'importune,
+      Ah ! ce mot m'importune,
 Comme il ne peut l'aimer que par un grand forfait⁎,
 Je ne puis t'en parler que dans un mesme effet ;
 Tu l'apprendras pourtant plustost que tu ne penses,
 Et perdras tous tes vœux perdant tes esperances.
 
-**** *book_ *id_body-17-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1704 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_mere
 Crispe s'est mal conduit en partant de ce lieu,
@@ -2427,7 +2427,7 @@ Sa promptitude agit plustost que son adresse,
 Madame, s'il vous semble estre peu circonspect,
 Que son depart pourtant ne vous soit plus suspect ;
 Je sçay qu'il vous cherit autant qu'il vous honore,
-Et pour vous seulement la Cour luy plaist encore.         
+Et pour vous seulement la Cour luy plaist encore.
 
 -*who_fauste
 Sa presence m'estant un agreable objet,
@@ -2453,7 +2453,7 @@ Mais il estoit en peine aussi bien qu'en colere.
 Je ne vois pas au moins qu'on l'ait desobligé.
 
 -*who_helene_mere
-C'est de trop de plaisir qu'il est donc affligé⁎.        
+C'est de trop de plaisir qu'il est donc affligé⁎.
 
 -*who_fauste
 J'estime apres avoir bien pesé cette affaire,
@@ -2473,11 +2473,11 @@ De pouvoir l'obligeant⁎ vous servir en effet.
 Ainsi vôtre clemence à nulle autre seconde,
 Gagnant un seul sujet gagnera tout le monde.
 
-**** *book_ *id_body-17-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1705 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 Artaban tarde trop à faire un si bon coup⁎,
-Qui me doit affliger⁎ et réjoüir beaucoup.            
+Qui me doit affliger⁎ et réjoüir beaucoup.
 
 -*who_emile
 Il m'a dit que dé-ja l'affaire est avancée,
@@ -2493,7 +2493,7 @@ Tournera contre nous les pieges qu'on luy tend ?
 Un Grand⁎ ne doit rien craindre ; Artaban m'est fidelle,
 Et Dieu hait comme moy cette ame criminelle.
 
-**** *book_ *id_body-17-6 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1706 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Seigneur, à qui je dois et l'honneur et le jour,
@@ -2525,11 +2525,11 @@ Non ; mais le cœur me dit qu'on m'en fait un mystere.
 Comment ?
 
 -*who_helene_fille
-Mon frere, helas, estant party d'icy,
+      Mon frere, helas, estant party d'icy,
 J'ay cherché du repos pour charmer mon soucy ;
 Lors il m'a semblé voir Minervine ma mere,
 Qui m'a dit ; tu ne dois jamais plus voir ton frere,
-Un cœur qui l'adoroit recherchera sa mort,         
+Un cœur qui l'adoroit recherchera sa mort,
 Pour avoir trop bien fait, il aura tout le tort.
 Sortant de ce repos je me trouve à la géne,
 Crispe estoit tant aimé, qui peut l'avoir en haine ?
@@ -2550,7 +2550,7 @@ Crispe ne peut mourir qu'on ne vous mette à mort,
 Vous perdrez avec luy l'heritier de l'Empire,
 Vôtre mere et sa sœur vont perir s'il expire ;
 Fauste qui ne vivoit qu'en voyant ses apas,
-Ne pourra le voir mort sans souffrir le trépas.         
+Ne pourra le voir mort sans souffrir le trépas.
 
 -*who_constantin
 Je l'aimois plus que tous ; s'il meurt à cette heure ;
@@ -2564,7 +2564,7 @@ Et Crispe desormais ne me sçauroit déplaire.
 Je m'en vay publier⁎ ma joye et son bonheur,
 En dépit de l'enuie il vivra dans l'honneur.
 
-**** *book_ *id_body-17-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1707 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 
@@ -2573,7 +2573,7 @@ Mais j'ay bien de la peine
 A soûtenir d'ailleurs les assauts de l'amour ;
 Sans perir je ne puis perdre ainsi mon image,
 Et si Crispe m'outrage
-Il me semble pourtant estre digne du jour.             
+Il me semble pourtant estre digne du jour.
 
 Je voudrois qu'Artaban eut une autre ordonnance
 Pour user de clemence ;
@@ -2598,7 +2598,7 @@ Je sens que ton destin me doit estre fatal.
 Pour conserver pourtant les droits de la justice,
 Il faut que tout perisse.
 
-**** *book_ *id_body-17-8 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1708 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Si vôtre fils, grand⁎ Prince, a failly contre vous,
@@ -2618,16 +2618,16 @@ C'est d'estre trop aimable⁎ et d'avoir trop bien fait.
 Et quoy qu'il ait peché, vous estes tousjours pere,
 Que l'amour envers luy vainque vôtre colere ;
 En fin pour m'obliger⁎ d'un bienfait eternel,
-Donnez à mes desirs ce noble Criminel.            
+Donnez à mes desirs ce noble Criminel.
 
 -*who_constantin
 Il n'aura plus de mal.
 
 -*who_fauste
-            O clemence infinie,
+      O clemence infinie,
 Qui doit punir l'offence, et la laisse impunie !
 
-**** *book_ *id_body-17-9 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1709 *act_ *date_1639 *creator_grenaille
 
 -*who_procle
 
@@ -2644,7 +2644,7 @@ Mais las ! Crispe estant mort quel plaisir puis-je avoir ?
 Comme je l'ay perdu, je perdray mon Helene,
 Et je vis neantmoins seulement pour la voir,
 Et d'abord⁎ la voyant je la dois mettre en peine ;
-Ne vaut-il donc pas mieux que je meure à l'instant        
+Ne vaut-il donc pas mieux que je meure à l'instant
 Pour la garantir d'un supplice,
 Que si pour estre trop constant
 Je la tuois par un service ?
@@ -2667,7 +2667,7 @@ Pour insensiblement le dire,
 Et que Procle n'agissant pas,
 Elle se cause son martyre.
 
-**** *book_ *id_body-17-10 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1710 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Procle m'estoit connu, mais je le méconnoy,
@@ -2690,10 +2690,10 @@ Je suis trop honoré de vous faire service,
 Mais vôtre frere et vous m'estes un grand supplice.
 
 -*who_helene_fille
-Crispe que t'a-t'il fait ?                          
+Crispe que t'a-t'il fait ?
 
 -*who_procle
-            Ne m'en demandez rien.
+      Ne m'en demandez rien.
 
 -*who_helene_fille
 Qui peut avoir rompu cét intime lien ?
@@ -2710,20 +2710,20 @@ Et nous separera lors que vous le sçaurez,
 Car je pretens mourir.
 
 -*who_helene_fille
-            Mais que fait-il encore ?
+      Mais que fait-il encore ?
 
 -*who_procle
 Il ne vous aime plus, personne ne l'honore.
 
 -*who_helene_fille
 Je sçay bien que mon cœur ne l'a pas offencé ;
-Si mon pere s'aigrit son courroux est passé.         
+Si mon pere s'aigrit son courroux est passé.
 
 -*who_procle
 Il ne vous sçauroit voir.
 
 -*who_helene_fille
-            Et moy je passionne,
+      Et moy je passionne,
 De voir Crispe plustost que toute autre personne.
 
 -*who_procle
@@ -2742,14 +2742,14 @@ Il faudroit le porter pour le faire venir.
 Je croy qu'il est blessé.
 
 -*who_procle
-            Son corps est sans blessure,
+      Son corps est sans blessure,
 Crispe n'a point de mal, c'est Procle qui l'endure.
 
 -*who_hycarie
-Il s'en est fuy peut estre ?                     
+Il s'en est fuy peut estre ?
 
 -*who_procle
-            Il est allé bien loin.
+      Il est allé bien loin.
 
 -*who_helene_fille
 Tu montres que ton cœur en eust bien peu de soin⁎.
@@ -2764,10 +2764,10 @@ Fais-moy donc tout sçavoir, tu sçais que je t'adore.
 Enfin Crispe.
 
 -*who_helene_fille
-        Poursuis.
+      Poursuis.
 
 -*who_procle
-            Il me faudroit mourir.
+      Il me faudroit mourir.
 
 -*who_helene_fille
 Si je te fais du mal, je puis bien t'en guerir.
@@ -2776,7 +2776,7 @@ Si je te fais du mal, je puis bien t'en guerir.
 Crispe, Madame ; il faut encore des larmes,
 Crispe n'a plus icy de grandeurs ny de charmes.
 Vous lirez maintenant le reste dans mes yeux,
-Qui sans autre discours⁎ vous en parleront mieux.         
+Qui sans autre discours⁎ vous en parleront mieux.
 
 -*who_helene_fille
 Je prevois un malheur à voir ta contenance,
@@ -2784,7 +2784,7 @@ Et mon songe sans doute, aura trop de creance,
 Procle, mon frere est mort ?
 
 -*who_procle
-                Vous mesme l'avez dit,
+      Vous mesme l'avez dit,
 Car pour vous l'annoncer j'estois trop interdit.
 
 -*who_helene_fille
@@ -2799,7 +2799,7 @@ Accablé que je suis du regret qui me presse.
 
 -*who_hycarie
 Ceux qui sont les plus grands⁎, ont les plus grands malheurs,
-Et s'ils ont des plaisirs, ils ont plus de douleurs.             
+Et s'ils ont des plaisirs, ils ont plus de douleurs.
 
 -*who_procle
 Madame, vous mourez, au contraire il faut vivre,
@@ -2823,7 +2823,7 @@ Que pour voir dans ce jour qu'elle luy soit ravie⁎.
 Et comment est-il mort ?
 
 -*who_procle
-            Par l'effet du poison.            
+      Par l'effet du poison.
 
 -*who_helene_fille
 Il n'eust sceu redouter que quelque trahison.
@@ -2837,19 +2837,19 @@ Scene premiere.
 
 Fauste semble s'affliger⁎ avec Helene mere de son mary, sur le sujet de la mort de Crispe, et neantmoins s'en réjoüit en effet.
 
-**** *book_ *id_body-18-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1802 *act_ *date_1639 *creator_grenaille
 
 La conscience pourtant l'oblige à regretter celuy qu'elle haïssoit, et à le justifier en s'accusant elle mesme.
 
-**** *book_ *id_body-18-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1803 *act_ *date_1639 *creator_grenaille
 
 Elle dissimule cependant à sa confidente, le vray sujet de ses transports⁎.
 
-**** *book_ *id_body-18-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1804 *act_ *date_1639 *creator_grenaille
 
-Artaban rendant conte de sa commission, semble s'en repentir quand son maistre en est bien content.                 
+Artaban rendant conte de sa commission, semble s'en repentir quand son maistre en est bien content.
 
-**** *book_ *id_body-18-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1805 *act_ *date_1639 *creator_grenaille
 
 Helene mere de l'Empereur, vient se plaindre à luy d'une mort dont il est le seul autheur ; il accuse son fils au lieu de s'en affliger⁎.
 
@@ -2857,7 +2857,7 @@ Scene VI.
 
 Il suspend son jugement entre l'incertitude et la verité, ne pouvant croire ce qu'il voit quand Fauste vient descharger⁎ Crispe, en se chargeant⁎ volontairement du crime qu'elle luy avoit imposé.
 
-**** *book_ *id_body-18-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1807 *act_ *date_1639 *creator_grenaille
 
 Helene sa fille augmente sa colere contre sa femme, demandant le corps de son frere, et la vengeance de sa mort, ce qu'il ne peut refuser, c'est pourquoy il condamne la criminelle qui avoit fait condamner l'innocent.
 
@@ -2870,7 +2870,7 @@ Scene IX.
 Helene mere de l'Empereur, qui suivant la raison demandoit vengeance contre Fauste, suivant la pitié vient requerir sa grace.
 Mais on porte la nouvelle de la mort de cette Megere⁎, quand l'autre demandoit la vie pour elle.
 
-**** *book_ *id_body-19-1 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1901 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Oui, Madame, sa mort me semble déplorable,
@@ -2890,7 +2890,7 @@ Croyez qu'il n'en a point, Madame, en cette affaire.
 Quoy qu'il en soit, Madame, au moins son fils est mort.
 
 -*who_helene_mere
-Cela n'est que trop vray, mais c'est toujours à tort.         
+Cela n'est que trop vray, mais c'est toujours à tort.
 
 -*who_fauste
 L'Empereur se craignoit de quelque intelligence ;
@@ -2914,10 +2914,10 @@ Et mes douleurs pourroient trouver de l'allegeance ;
 Mais je n'ay pas le cœur.
 
 -*who_helene_mere
-            De vanger l'Innocent ?
+      De vanger l'Innocent ?
 
 -*who_fauste
-Celuy qui veut couvrir un forfait⁎, y consent.            
+Celuy qui veut couvrir un forfait⁎, y consent.
 
 -*who_helene_mere
 Vôtre cœur n'a donc plus pour luy que de la haïne ?
@@ -2939,7 +2939,7 @@ Ces yeux qui sans pleurer t'ont regardé perir !
 Mais son sang neantmoins vous fera voir, Madame,
 Que du forfait⁎ qu'on dit, quelque autre en a le blâme.
 
-**** *book_ *id_body-19-2 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1902 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 
@@ -2963,7 +2963,7 @@ Afin de contenter sa fureur amoureuse.
 
 Si j'ay causé sa mort ne dois-je pas mourir ?
 Et le puis-je survivre ayant pû le cherir ?
-L'Innocent a souffert le supplice du crime,             
+L'Innocent a souffert le supplice du crime,
 Mais je dois l'endurant le rendre legitime ;
 Et je ne sçaurois plus rien voir,
 Ayant eu tant d'amour ensemble et tant de haine,
@@ -2988,7 +2988,7 @@ Et par mesme moyen me rendre inexcusable !
 Mon époux, j'ay pû t'abuser,
 Tu ne peux doncques pas m'estre qu'impitoyable ?
 
-**** *book_ *id_body-19-3 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1903 *act_ *date_1639 *creator_grenaille
 
 -*who_adelaide
 Vos regrets maintenant ont un plus grand effort,
@@ -3001,7 +3001,7 @@ Maintenant que je voy la verité du fait
 Je ne puis plus me feindre⁎.
 
 -*who_adelaide
-                On le voit en effet.
+      On le voit en effet.
 A quoy visent pourtant ces pleurs et ce courage ?
 Ce sont moins des regrets que des transports⁎ de rage ?
 
@@ -3010,7 +3010,7 @@ Il faut suivre mon Crispe, et mourir comme luy.
 
 -*who_adelaide
 C'est vouloir doublement le meurtrir aujourd'huy :
-Puis que vous ne faisiez avec luy qu'un cœur mesme ?        
+Puis que vous ne faisiez avec luy qu'un cœur mesme ?
 
 -*who_fauste
 Mon decés fera voir qu'encore mort je l'aime.
@@ -3021,7 +3021,7 @@ Il faut vivre et vanger cét enorme forfait⁎.
 -*who_fauste
 Je m'en vay découvrir l'unique autheur du fait.
 
-**** *book_ *id_body-19-4 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1904 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 L'affaire a reüssi suivant mon esperance.
@@ -3033,14 +3033,14 @@ Si crains-je bien l'effet d'une telle ordonnance.
 Un Empereur ne peut craindre d'autre pouvoir.
 
 -*who_artaban
-Je dois craindre toujours de choquer⁎ mon devoir.     
+Je dois craindre toujours de choquer⁎ mon devoir.
 
 -*who_constantin
 N'est-ce pas ton devoir de rendre obeïssance
 A celuy qui peut tout.
 
 -*who_artaban
-            Hors de ma conscience.
+      Hors de ma conscience.
 
 -*who_constantin
 La conscience veut qu'on suive la raison.
@@ -3064,7 +3064,7 @@ S'il vous parust coupable, il fut chaste en effet.
 Tu l'excuses encor avec ton eloquence !
 
 -*who_artaban
-Je parle moins pour luy que sa propre innocence.     
+Je parle moins pour luy que sa propre innocence.
 
 -*who_constantin
 Tu pretens m'irriter m'en discourant ainsi.
@@ -3092,22 +3092,22 @@ Jamais tant de douceur ne viendroit d'impudence.
 Il a toujours nié ce crime.
 
 -*who_constantin
-            On l'a prouvé.
+      On l'a prouvé.
 
 -*who_artaban
-Mais vous ne voyez pas s'il n'est que controuvé.    
+Mais vous ne voyez pas s'il n'est que controuvé.
 
 -*who_constantin
 L'accusateur est grand⁎.
 
 -*who_artaban
-            Et fait un grand coupable.
+      Et fait un grand coupable.
 
 -*who_constantin
 Fauste estoit hors de blâme.
 
 -*who_artaban
-                Et l'autre irreprochable.
+      Et l'autre irreprochable.
 
 -*who_constantin
 Si Dieu l'eust veu sans crime, eust-il permis sa mort ?
@@ -3119,14 +3119,14 @@ Les Dieux permettent bien qu'on leur face du tort ?
 Qu'a-t'-il dit en mourant ?
 
 -*who_artaban
-            Qu'il n'estoit pas coupable
+      Qu'il n'estoit pas coupable
 D'une horreur dont un Monstre à peine estoit capable.
 
 -*who_constantin
 Il devoit ainsi dire au lieu de s'en aller.
 
 -*who_artaban
-La Cour reconnoistra qu'il le devoit celer⁎.            
+La Cour reconnoistra qu'il le devoit celer⁎.
 
 -*who_constantin
 Cependant il est mort sans qu'on le reconnaisse.
@@ -3150,7 +3150,7 @@ Et mesme criminel, Crispe me semble auguste ;
 Resistons neantmoins à ces lasches douleurs,
 La justice est sans yeux, qu'elle soit donc sans pleurs.
 
-**** *book_ *id_body-19-5 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1905 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_mere
 Et vous vivez encor, le Prince estant sans ame ?
@@ -3162,7 +3162,7 @@ Qu'ay-je fait pour mourir qui soit digne de blâme ?
 Qu'avoit fait vôtre fils ?
 
 -*who_constantin
-            Il avoit bien du tort,
+      Il avoit bien du tort,
 Puis que son pere mesme a procuré sa mort.
 
 -*who_helene_mere
@@ -3175,8 +3175,8 @@ De l'appeler ainsi, c'est doubler son offence.
 Et quelle est cette offence ?
 
 -*who_constantin
-            Elle est noire à ce poinct,
-Que son enormité fait qu'on n'en parle point.            
+      Elle est noire à ce poinct,
+Que son enormité fait qu'on n'en parle point.
 
 -*who_helene_mere
 Vôtre cœur peut-il rien celer⁎ à vôtre mere ?
@@ -3188,13 +3188,13 @@ Ce fils ne tenoit plus Constantin pour son pere.
 Il vous honoroit tant.
 
 -*who_constantin
-            Oüy pour me mépriser.
+      Oüy pour me mépriser.
 
 -*who_helene_mere
 Il estoit tout à Fauste.
 
 -*who_constantin
-            Oüy pour la courtiser.
+      Oüy pour la courtiser.
 
 -*who_helene_mere
 Pouvez-vous accuser une si pure flamme⁎ ?
@@ -3206,8 +3206,8 @@ L'innocent souhaittoit d'estre époux de ma femme.
 Quels en sont les témoins ?
 
 -*who_constantin
-            Ceux qui le sçavent bien.
-Et qui por l'excuser n'en disent pourtant rien.            
+      Ceux qui le sçavent bien.
+Et qui por l'excuser n'en disent pourtant rien.
 
 -*who_helene_mere
 Fauste ne dira pas que Crispe soit coupable.
@@ -3233,7 +3233,7 @@ Quel autre eut osé faire un tel crime que luy ?
 Fauste dans son amour pour se tirer de peine,
 A fait voir à ce coup⁎ sa prudence et sa haine ;
 Je voy bien que son zele estoit pernicieux,
-Elle le cherissoit pour le rendre odieux.                 
+Elle le cherissoit pour le rendre odieux.
 
 -*who_constantin
 Il ne faut pas blamer ma femme en ma presence.
@@ -3241,7 +3241,7 @@ Il ne faut pas blamer ma femme en ma presence.
 -*who_helene_mere
 Fauste aussi n'y doit pas accuser l'innocence.
 
-**** *book_ *id_body-19-6 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1906 *act_ *date_1639 *creator_grenaille
 
 -*who_fauste
 Je demande justice, et pour vous et pour moy.
@@ -3257,13 +3257,13 @@ Il n'est mort d'aujourd'huy qu'un Monstre d'impudence !
 
 -*who_fauste
 Apres que Crispe est mort il faut faire perir
-Cét esprit qui l'aimoit pour le faire mourir.             
+Cét esprit qui l'aimoit pour le faire mourir.
 
 -*who_constantin
 Il faut s'en prendre à moy.
 
 -*who_fauste
-            Vous estes excusable,
+      Vous estes excusable,
 S'il est mort innocent, c'est moy qui suis coupable.
 C'est moy qui l'accusay du crime que je fis,
 Voulant un autre époux, je vous ostay ce fils.
@@ -3285,7 +3285,7 @@ Je le sollicitay, mais il me resista,
 Et l'amour me quittant la fureur m'emporta.
 Lors je vins l'accuser pour colorer mon crime,
 Croyant qu'estant couvert⁎ il seroit legitime ;
-J'ay fait ce que j'ay pû pour cacher mes excés,            
+J'ay fait ce que j'ay pû pour cacher mes excés,
 Mais je meurs mille fois ayant sceu son decés.
 Il m'oste le repos aussi bien que la vie,
 De jour comme de nuit je m'en vois poursuivie.
@@ -3300,10 +3300,10 @@ Mais pour mieux me punir retardes mon trépas !
 O Manie !
 
 -*who_artaban
-        O fureur !
+      O fureur !
 
 -*who_fauste
-            Si Crispe est debonnaire,
+      Si Crispe est debonnaire,
 Il me faut irriter la fureur de son Pere,
 j'ay mis ton fils à mort, fais moy doncques mourir,
 L'innocent n'estant plus, ne dois-je pas perir ?
@@ -3311,7 +3311,7 @@ L'innocent n'estant plus, ne dois-je pas perir ?
 -*who_constantin
 Comme elle aimoit mon fils elle le pretend suivre,
 Et pour le suivre ailleurs, elle ne veut plus vivre :
-C'est pourquoy n'ayant point d'autre cause de mort,    
+C'est pourquoy n'ayant point d'autre cause de mort,
 Pour se faire coupable elle fait un effort.
 Je vous estime trop pour vous croire sincere,
 Sous ce mal apparent vous couvrez un mystere :
@@ -3331,14 +3331,14 @@ Artaban dois-je croire à ce rapport infame ?
 C'estoit une marastre⁎.
 
 -*who_constantin
-            Oüy, mais c'estoit ma femme.
+      Oüy, mais c'estoit ma femme.
 Elle avoit le cœur bon.
 
 -*who_artaban
-            Et le Prince estoit beau.
+      Et le Prince estoit beau.
 
 -*who_constantin
-Mais quoy, pour le cherir l'avoir mis au tombeau ?         
+Mais quoy, pour le cherir l'avoir mis au tombeau ?
 
 -*who_helene_mere
 Vivez apres avoir veu perir vôtre image,
@@ -3352,14 +3352,14 @@ D'aviser seulement si je suis excusable :
 Vous redoublez encor le crime que j'ay fait,
 Quand vous me laissez vivre ayant veu mon forfait⁎.
 
-**** *book_ *id_body-19-7 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1907 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Vous voyez, Monseigneur, dans l'effet de mon songe,
 Que c'est la verité qu'on appelloit mensonge ;
 Mon frere toutefois n'est mort que par moitié,
 Achevez donc sa mort par haine ou par pitié :
-C'est pour me voir vivante en ce lieu que je pleure,        
+C'est pour me voir vivante en ce lieu que je pleure,
 Je nâquis avec luy pour mourir à mesme heure ;
 La nature eust grand tort de nous unir tous deux,
 Si je vis malheureuse, et s'il est mort heureux ;
@@ -3382,7 +3382,7 @@ Et que s'il en est cause, un autre en a le tort.
 Ma haine a moins agy qu'un zele de justice,
 J'aimois mieux te voir mort que soupçonné d'un vice.
 J'ay failly neantmoins ne considerant pas,
-ue ton défaut estoit d'avoir eu trop d'appas⁎.            
+ue ton défaut estoit d'avoir eu trop d'appas⁎.
 Que ne m'est-il permis de t'embrasser encore !
 Mes vœux sont indiscrets, il faut que l'on t'adore.
 Je t'immole aujourd'huy, celle qui t'accusa,
@@ -3405,7 +3405,7 @@ Ce dernier coup⁎ perdra du tout vôtre maison⁎.
 Je la veux voir perir puis que c'est la raison.
 
 -*who_artaban
-Vous consolez vos maux par de grandes miseres.        
+Vous consolez vos maux par de grandes miseres.
 
 -*who_fauste
 Pour punir un tel crime on fait trop de mysteres.
@@ -3414,10 +3414,10 @@ Pour punir un tel crime on fait trop de mysteres.
 Sa peine tarde trop.
 
 -*who_fauste
-            Il est vray qu'il est lent,
+      Il est vray qu'il est lent,
 Tout supplice m'est doux, bien qu'il soit violent.
 
-**** *book_ *id_body-19-8 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1908 *act_ *date_1639 *creator_grenaille
 
 -*who_helene_fille
 Maintenant que nos yeux ont épuisé nos larmes,
@@ -3430,7 +3430,7 @@ Vous avez bien apris qu'elle fut sa retraite,
 Et quoy qu'on la blâmast qu'elle estoit fort honneste ;
 Quoy qu'il fut bien content d'avoir quitté la Cour,
 Il maudissoit souvent le plaisir et l'amour ;
-Je croyois que son cœur vous trouvoit inhumaine,        
+Je croyois que son cœur vous trouvoit inhumaine,
 Et que vôtre froideur avoit causé sa haine ;
 Mais pour dire le vray, je ne le pûs sçavoir,
 Car sa langue en ce poinct cedoit à son devoir :
@@ -3452,13 +3452,13 @@ On parle en ce festin de plaisir et d'honneur,
 Et le Prince au dehors est remply de bonheur ;
 Mais il a son malheur ay dedans de luy-mesme,
 Son visage de vif à l'instant devient blesme.
-Il chancelle.                               
+Il chancelle.
 
 -*who_helene_fille
-        Je meurs.
+      Je meurs.
 
 -*who_procle
-            Il tombe renversé,
+      Il tombe renversé,
 Et sans sembler malade, il paroist trespassé.
 Artaban s'en estonne au moins en apparence,
 Nous prenons mille fois et perdons esperance ;
@@ -3478,7 +3478,7 @@ Et puis se relevant d'une masle vigueur,
 S'il s'en va perdre l'ame, il semble prendre cœur ;
 On croit voir un Soleil regardant son visage,
 Le mal l'affoiblissant augmente son courage ;
-Et puis d'une voix forte, et d'un tres-doux accent,        
+Et puis d'une voix forte, et d'un tres-doux accent,
 Que tous sçachent, dit-il, que je meurs innocent.
 Mon trépas neantmoins aura bien sa vengeance,
 Et mort je feray voir si je vis dans l'offence.
@@ -3502,7 +3502,7 @@ Il se meurt de foiblesse, et je me meurs d'ennuy,
 Voyant que par son ordre il faut vivre apres luy ;
 Je pers à tout le moins la voix dessus sa bouche,
 Il semble un homme encor, mais je semble une souche.
-Il expire à la fin, je ne puis respirer,                
+Il expire à la fin, je ne puis respirer,
 Et ne peux plus agir pouvant tout endurer.
 On croit que mesme mal me cause mesme peine,
 Mais pour mon plus grand mal cette creance est vaine.
@@ -3527,7 +3527,7 @@ Et sans qu'il faut mourir nous vivrions doucement.
 Allons nous informer si Fauste est étouffée,
 Mon amour de sa mort doit dresser son trophée.
 
-**** *book_ *id_body-19-9 *act_ *date_1639 *creator_grenaille
+**** *book_ *id_body-1909 *act_ *date_1639 *creator_grenaille
 
 -*who_constantin
 C'est en vain, c'est en vain qu'on la pretend sauver,
@@ -3550,7 +3550,7 @@ Ou vous les tuez tous pour venger un trépas.
 -*who_constantin
 Pardonner ! si mon fils avec tant d'innocence
 Plus que les scelerats éprouva ma vengeance !
-Vous ne l'aimez donc plus, ou ce n'est qu'à demy,         
+Vous ne l'aimez donc plus, ou ce n'est qu'à demy,
 Si vous pleurez sa mort plaignant son ennemy.
 
 -*who_helene_mere
@@ -3569,7 +3569,7 @@ J'ay bien perdu devant⁎ le bon sans que j'en meure ?
 
 -*who_helene_mere
 Dedans la probité son mal ne me plaist pas,
-Mais j'ay bien de la peine à pleurer son trépas.         
+Mais j'ay bien de la peine à pleurer son trépas.
 
 -*who_constantin
 Qui peut sans m'offencer defendre une Megere⁎ ?
@@ -3579,7 +3579,7 @@ Qui de pere m'a fait un Tyran⁎ sanguinaire ?
 On vient de l'étouffer.
 
 -*who_constantin
-            Quel excés de malheur ?
+      Quel excés de malheur ?
 Où je me fais du mal pour calmer ma douleur ;
 Je peris par moitié sans pourtant rendre l'ame,
 Je vis ayant veu morts et mon fils et ma femme,
@@ -3592,7 +3592,7 @@ Le forfait⁎ bien puny vange ainsi l'innocence.
 On a porté le corps de Crispe.
 
 -*who_constantin
-                Le devoir
+      Le devoir
 Aussi bien que l'amour nous oblige à le voir,
 Estant mort méprisé qu'il vive dans la gloire,
 Et que dans sa défaite il trouve sa victoire.

@@ -1,5 +1,5 @@
 ---
-identifier: magnon_grand  
+identifier: magnon_grand-tamerlan  
 creator: Magnon, Jean  
 date: 1648  
 title: Le Grand Tamerlan et Bajazet. Tragédie  
@@ -923,7 +923,7 @@ Au moins ils souffriront que la mort nous assemble.
 Je vois venir Themir.  
 
     ROXALIE.
-Sors, & nous laisse ensemble [56].  
+        Sors, & nous laisse ensemble [56].  
 
     DORIZE.
 Vous luy devriez [57] parler pour la derniere fois,  
@@ -945,7 +945,7 @@ Aux yeux l'une de l'autre ébranslent leur grand corps,
 Serez-vous du combat ?  
 
     THEMIR.
-J'y feray mes efforts.  
+        J'y feray mes efforts.  
 
     ROXALIE.
 Sur qui porterez-vous la pointe de vos armes ?  
@@ -957,7 +957,7 @@ O fatale rencontre & digne de nos larmes !
 Ennemis eternels !  
 
     THEMIR.
-O peres sans pitié !  
+        O peres sans pitié !  
 Faut-il que nous entrions [58] dans vostre inimitié,  
 Et devez-vous forcer⁎ vos enfans & vos femmes ! [59]  
 
@@ -986,10 +986,10 @@ Donnés-moy le secret de combattre sans crime.
 Vous ne le pouvés pas.  
 
     THEMIR.
-Quoy donc ?  
+    Quoy donc ?  
 
     ROXALIE.
-Il faut choisir,  
+        Il faut choisir,  
 Et se refuser mesme un moment de loisir,  
 Ma mere à nos amours cesse d'estre indulgente,  
 Il n'est pas apparent que mon pere y consente ;  
@@ -1005,7 +1005,7 @@ Je pourray contenter Bajazet & mon pere, 8
 Je ne combattray point.  
 
     ROXALIE.
-La gloire est aussi chere,  
+        La gloire est aussi chere,  
 Ainsi que l'un des deux il la faut conserver [61].  
 
     THEMIR.
@@ -1015,13 +1015,13 @@ Entre ces deux partis la pourray-je sauver ?
 Ah ! c'est trop consulter ; m'aymez-vous ?  
 
     THEMIR.
-Je vous ayme,  
+        Je vous ayme,  
 
     ROXALIE.
 Et m'obeyrez-vous ? Répondez-moy.  
 
     THEMIR.
-De mesme,  
+        De mesme,  
 J'amoindriray mon crime en vous obeyssant,  
 Vos ordres me vont rendre un peu plus innocent [62] ;  
 J'en suis moins criminel, si je trouve un complice.  
@@ -1033,7 +1033,7 @@ J'exige de vostre ame un rigoureux service,
 Commandez.  
 
     ROXALIE.
-Bajazet nous voit chez son vainqueur,  
+        Bajazet nous voit chez son vainqueur,  
 Et nous luy retenons une part de son cœur⁎ :  
 Vostre pere combat avec trop d'advantage,  
 Allez donc vers le mail⁎ luy rendre le courage ;  
@@ -1045,10 +1045,10 @@ Servez-le de vos vœux⁎ & de vostre personne.
 Moy !  
 
     ROXALIE.
-Vous en pallissez.  
+    Vous en pallissez.  
 
     THEMIR.
-Vostre rigueur m'estonne⁎.  
+        Vostre rigueur m'estonne⁎.  
 
     ROXALIE.
 Vous avez deu fremir de ce commandement,  
@@ -1058,14 +1058,14 @@ Et vous devriez rougir de vostre estonnement.
 Cruelle [63] Roxalie !  
 
     ROXALIE.
-Et vous Prince timide⁎ !  
+        Et vous Prince timide⁎ !  
 
     THEMIR.
 Quoy ! pour vous acquerir commettre un parricide⁎ !  
 Que me demandez- vous ?  
 
     ROXALIE.
-Je ne veux point la mort.  
+        Je ne veux point la mort.  
 De vostre passion⁎ j'exige un moindre effort ;  
 Mais puis qu'à ce combat vous avés repugnance,  
 Je veux vous dispenser de vostre obeyssance.  
@@ -1082,7 +1082,7 @@ Sente quelque regret de vous avoir aymé.
 Adieu.  
 
     THEMIR, *seul.*
-Cruel Adieu, mon ame l'a suivie,  
+        Cruel Adieu, mon ame l'a suivie,  
 Elle emporte avec soy [64] la moitié de ma vie.  
 Allons perdre le reste.  
 
@@ -1092,7 +1092,7 @@ THEMIR, INDARTHIZE.
 
 
     INDARTHIZE.
-Hé bien agirons-nous ?  
+        Hé bien agirons-nous ?  
 Dedans leurs libertez vous interessez⁎-vous ?  
 Et n'entrerez-vous point dedans mon entreprise⁎ ?  
 
@@ -1110,7 +1110,7 @@ Quoy les faire evader pendant nostre combat,
 Madame, on ne le peut.  
 
     INDARTHIZE.
-Tout est en bon estat,  
+        Tout est en bon estat,  
 Et leur évasion est si bien conjurée,  
 Que vray-semblablement je puis estre asseurée,  
 Vos Gardes & vous seul avez sceu mon secret.  
@@ -1126,7 +1126,7 @@ Prevoit que pour jamais elle s'en va priver.
 Faites-vous un effort [66].  
 
     THEMIR.
-Je le ressens, Madame,  
+        Je le ressens, Madame,  
 Tel que sa violence émeut toute mon ame :  
 Mais d'où vient cette ardeur que vous monstrez icy ?  
 D'elle je vous voy prendre un eternel soucy :  
@@ -1162,16 +1162,16 @@ Il vous le peut bien estre, & selon l'apparence,
 Qu'avez-vous presumé ?  
 
     INDARTHIZE.
-Faut-il que je le pense,  
+        Faut-il que je le pense,  
 Et que je vous le die [70] ?  
 
     THEMIR.
-Enfin expliquez-vous :  
+        Enfin expliquez-vous :  
 Mais sans que vous parliés vous me rendés jaloux :  
 Caresse⁎-t'il la fille ?  
 
     INDARTHIZE.
-Aussi bien que la mere.  
+        Aussi bien que la mere.  
 
     THEMIR.
 Quoy, je rencontrerois mon rival dans mon pere !  
@@ -1184,7 +1184,7 @@ Que l'horreur que j'en ay m'empesche de vous dire.
 Son Serrail : [71]  
 
     THEMIR.
-Ah ! c'est trop : auroit-il des desirs  
+        Ah ! c'est trop : auroit-il des desirs  
 D'immoler ma Princesse à ses lasches plaisirs ?  
 Se pourroit-il resoudre à cette joüissance ?  
 Mon ame avec horreur prevoit sa violence,  
@@ -1214,13 +1214,13 @@ Je vay de Bajazet me rendre prisonnier :
 Quoy tenter ce moyen ?  
 
     THEMIR.
-Ce sera le dernier.  
+        Ce sera le dernier.  
 
     INDARTHIZE.
 Dans ses fers⁎ !  
 
     THEMIR.
-Ce secret vous semble bien estrange,  
+        Ce secret vous semble bien estrange,  
 Il force Tamerlan de [77] conclurre un échange,  
 Et de leurs libertés je deviens la rançon.  
 
@@ -1266,7 +1266,7 @@ J'ay de vostre tendresse une marque visible,
 Vous les voudriez sauver.  
 
     INDARTHIZE.
-C'est un vœu⁎ que je fais.  
+        C'est un vœu⁎ que je fais.  
 
     TAMERLAN.
 Vous allez bien encore au de-là des souhaits :  
@@ -1288,10 +1288,10 @@ Je la devine assez, c'est un conseil jaloux ;
 Mais encor declarez.  
 
     INDARTHIZE.
-Quoy ?  
+    Quoy ?  
 
     TAMERLAN.
-Non, non, taisez-vous,  
+        Non, non, taisez-vous,  
 Cachez vostre motif, je prend une autre cause,  
 La vostre ne vaut pas que l'on se la propose ;  
 J'ayme mieux l'imputer à generosité⁎ [82],  
@@ -1351,7 +1351,7 @@ Et ne la suivant pas ils en sont plus coulpables.
 Rendez à Bajazet [85].  
 
     TAMERLAN.
-D'où vous naist cette ardeur ?  
+        D'où vous naist cette ardeur ?  
 Il semble que mon fils soit son ambassadeur :  
 Quelqu'un doit arriver de la part de ce traistre,  
 Nous apprendrons l'employ qu'il aura de son maistre.  
@@ -1362,7 +1362,7 @@ Je sçay bien le secret de les rendre tous vains.
 Quoy, Seigneur !  
 
     TAMERLAN.
-De ce pas allés dans vostre tente,  
+        De ce pas allés dans vostre tente,  
 Vous dans vostre quartier respondre à nostre attente ;  
 Et d'une voix guerrierre animant vos soldats,  
 Allés les preparer au plus grand des combats.  
@@ -1459,19 +1459,19 @@ Combien de mouvemens viennent saisir mon ame ?
 Il vous la pourra rendre :  
 
     BAJAZET.
-Ah ! que me promets-tu ?  
+        Ah ! que me promets-tu ?  
 Ce lasche usurpateur a-t'il tant de vertu⁎ ?  
 Peut-estre que l'ingratte :  
 
     SELIM.
-Ostez-vous cét ombrage.  
+        Ostez-vous cét ombrage.  
 
     BAJAZET.
 Veux-tu que je me flatte ? elle est dans l'esclavage,  
 Elle est belle.  
 
     SELIM.
-Et par là, que redouteriez-vous ?  
+        Et par là, que redouteriez-vous ?  
 
     BAJAZET.
 Une moindre apparence allarme un cœur jaloux,  
@@ -1497,7 +1497,7 @@ Qu'en doy-je presumer, s'il ne la veut point rendre ?
 Il doit venir bien tost.  
 
     BAJAZET.
-Je suis las de l'attendre.  
+        Je suis las de l'attendre.  
 
     SELIM.
 Zilim de nostre part ; il vient nous aborder.  
@@ -1511,7 +1511,7 @@ BAJAZET, ZILIM, SELIM.
 Aurons-nous audiance ?  
 
     ZILIM.
-Il vient vous l'accorder,  
+        Il vient vous l'accorder,  
 Il veut vous la donner dans cette mesme tente.  
 
     BAJAZET.
@@ -1534,13 +1534,13 @@ TAMERLAN, BAJAZET, SELIM, ZILIM, Gardes.
 Exposez vostre charge⁎.  
 
     BAJAZET.
-En voila la teneur.  
+        En voila la teneur.  
 
     TAMERLAN, *à Zilim.*
 Lisez.  
 
     ZILIM.
-Le Chef des Chefs Bajazet grand Seigneur,  
+        Le Chef des Chefs Bajazet grand Seigneur,  
 Seigneur de Capadoce [91] & de la Lycaonie,  
 Prince de Cilicie, Attique, Bithinie,  
 Grand Roy des Brysiens, des Sestes, Prigiens,  
@@ -1550,7 +1550,7 @@ Souverain de Phocide, & de la Natolie :
 A Tamerlan.  
 
     TAMERLAN.
-Ton Maistre a-t-il crû me braver ?  
+        Ton Maistre a-t-il crû me braver ?  
 Je le mettray plus bas qu'il ne veut s'élever :  
 Les qualitez qu'il prend monstrent son arrogance ,  
 Pense-t'il par des noms me prouver sa puissance ?  
@@ -1571,7 +1571,7 @@ Ne t'en informe point, j'ay le pouvoir de l'estre.
 Par quel droict l'avez-vous ?  
 
     TAMERLAN.
-Je suis le fleau [92] de Dieu [93],  
+        Je suis le fleau [92] de Dieu [93],  
 Qui pour le chastier me conduit en ce lieu ;  
 Le Sacrificateur n'attend que la victime.  
 
@@ -1579,7 +1579,7 @@ Le Sacrificateur n'attend que la victime.
 Dequoy l'accusez-vous ?  
 
     TAMERLAN.
-L'Univers sçait son crime :  
+        L'Univers sçait son crime :  
 A peine eust-il monté sur le thrône Othoman,  
 Qu'il se fist immoler son aisné Solyman ;  
 C'est un traistre, un tyran, un monstre, un parricide⁎ [94],  
@@ -1610,11 +1610,11 @@ N'as-tu point envahy l'une & l'autre Scitie [96] ?
 Insolent !  
 
     BAJAZET.
-L'on me force à cette repartie,  
+        L'on me force à cette repartie,  
 N'offence point mon Maistre.  
 
     SELIM.
-Excusez son ardeur.  
+        Excusez son ardeur.  
 
     TAMERLAN.
 Je pardonne ce zele⁎ en un Ambassadeur.  
@@ -1638,7 +1638,7 @@ Qu'il envoye en ma Cour ses enfans pour ostage,
 Et qu'il paye en tribut.  
 
     BAJAZET.
-N'en dy pas davantage ;  
+        N'en dy pas davantage ;  
 Si tu te veux sousmettre aux loix que tu luy fais,  
 Je le conjureray de te donner la paix.  
 
@@ -1680,7 +1680,7 @@ Ne prendrez qu'à regret ce honteux advantage⁎.
 Qu'on appelle sa femme.  
 
     BAJAZET.
-Il s'est humilié :  
+        Il s'est humilié :  
 Mais quoy que Bajazet se soit tant oublié,  
 C'est un abaissement dont il n'est point capable,  
 Et dont à l'Amour seul vous estes redevable ;  
@@ -1710,7 +1710,7 @@ Regarde à son maintien si la prison l'afflige ;
 Rapporte à Bajazet.  
 
     BAJAZET.
-Vostre bonté l'oblige,  
+        Vostre bonté l'oblige,  
 Je suis de vos faveurs un fidele témoin,  
 Et je luy rediray que vous en avez soin⁎.  
 
@@ -1739,11 +1739,11 @@ Vous pouvez remarquer le soin⁎ qu'il a de vous ;
 Voilà ses Deputez.  
 
     ORCAZIE, *bas.*
-C'est Bajazet luy-mesme,  
+        C'est Bajazet luy-mesme,  
 C'est Selim, qu'est cecy ?  
 
     BAJAZET, *bas.*
-N'en doutons plus, il l'ayme.  
+        N'en doutons plus, il l'ayme.  
 
     TAMERLAN.
 Avecque confidence ils vous veulent parler,  
@@ -1753,7 +1753,7 @@ Vous ses Ambassadeurs pressez sa diligence,
 Je l'attends au combat.  
 
     BAJAZET.
-Il s'y prepare aussi.  
+        Il s'y prepare aussi.  
 
     TAMERLAN.
 Que l'on les laisse seuls, Gardes sortez d'icy.  
@@ -1815,7 +1815,7 @@ Du respect qu'il vous rend, que faut-il que j'en pense ?
 Un tyran vous honore.  
 
     ORCAZIE.
-Et je dois l'estimer.  
+        Et je dois l'estimer.  
 
     BAJAZET.
 Madame, c'est trop peu, vous le devez aymer [99] ;  
@@ -1850,7 +1850,7 @@ Cache-t'il le refus qu'il me fait de vous rendre ?
 Je ne le cognois pas.  
 
     BAJAZET.
-Dites que c'est l'amour,  
+        Dites que c'est l'amour,  
 Et que vous vous plaisez dans ce honteux sejour.  
 
     ORCAZIE.
@@ -1860,7 +1860,7 @@ Et deussent vos soupçons s'accroistre de moitié,
 Je cheris sa vertu⁎.  
 
     BAJAZET.
-C'est peu que l'amitié,  
+        C'est peu que l'amitié,  
 Qu'il se contente donc de ce simple advantage⁎.  
 
     ORCAZIE.
@@ -1889,10 +1889,10 @@ ZILIM, de surcroy.
 
 
     ZILIM.
-Arrestez-vous.  
+    Arrestez-vous.  
 
     BAJAZET.
-Moy ! ton ordre m'estonne,  
+        Moy ! ton ordre m'estonne,  
 L'on choque Bajazet en choquant ma personne :  
 Quoy les Ambassadeurs ne sont-ils point sacrés ?  
 
@@ -1907,7 +1907,7 @@ Bajazet, reprenez vostre vray personnage,
 Ne vous déguisez plus.  
 
     BAJAZET.
-Je suis donc recognu ?  
+        Je suis donc recognu ?  
 Au camp des ennemis je me voy retenu :  
 Qui m'a trahy, Selim, qui m'a trahy, Madame ?  
 Est-ce vous, mon Vizir [100], ou si c'est vous, ma femme ?  
@@ -1917,7 +1917,7 @@ Enfin respondez-moy, qui de vous deux me perd ?
 Moy, Seigneur, & comment ?  
 
     BAJAZET.
-Vos yeux m'ont découvert,  
+        Vos yeux m'ont découvert,  
 On a veu qui j'estois dessus vostre visage,  
 Et tantost quelque signe a donné cét ombrage.  
 
@@ -1929,7 +1929,7 @@ D'où pourroit donc venir cét advertissement ?
 Est-ce de vous, Selim ?  
 
     ZILIM.
-Il vient de vostre armée.  
+        Il vient de vostre armée.  
 
     BAJAZET.
 Mon ambassade [101] au camp s'est-elle donc semée ?  
@@ -2041,11 +2041,11 @@ Ses soldats consternés se renversant sur nous,
 Nous leur ouvrons nos rangs.  
 
     TAMERLAN.
-Se cacher parmy vous ?  
+        Se cacher parmy vous ?  
 Ah lasches !  
 
     MANSOR.
-Ziamet content de leur deffaite,  
+        Ziamet content de leur deffaite,  
 Sans les vouloir poursuivre, ordonna la retraitte.  
 
     TAMERLAN.
@@ -2100,7 +2100,7 @@ Mais n'agissez icy que par utilité.
 Ah, Themir ! qu'as-tu fait ?  
 
     INDARTHIZE.
-Je voy vostre foiblesse ;  
+        Je voy vostre foiblesse ;  
 Quelque reste d'honneur vous émeut & vous presse,  
 La vertu⁎ dedans vous fait encor des effors,  
 Et de si grands souspirs partent de vos remors :  
@@ -2122,7 +2122,7 @@ Donnez-moy le repos dont mon ame a besoin,
 Rendez-moy donc mon fils.  
 
     TAMERLAN.
-Sortez, j'en auray soin,  
+        Sortez, j'en auray soin,  
 Je m'en vay mediter dessus quelque entreprise⁎,  
 Ou par mes Deputez moyenner⁎ sa franchise⁎.  
 
@@ -2133,7 +2133,7 @@ Ma rivale à mes yeux ! vous la faites venir.
 Demeurez.  
 
     INDARTHIZE.
-Va cruel, tu peux l'entretenir,  
+        Va cruel, tu peux l'entretenir,  
 Ma presence le choque ; ostons luy ce spectacle. [111]  
 
     TAMERLAN.
@@ -2157,7 +2157,7 @@ Que quand il doit servir, il rencontre un doux Maistre,
 Et tel qu'est Bajazet.  
 
     TAMERLAN.
-Ou tel que je puis estre :  
+        Ou tel que je puis estre :  
 Mon fils dans vostre camp a receu moins d'honneur,  
 Eminemment sur luy vous avez ce bon-heur,  
 Et si l'on le traittoit ainsi que l'on vous traitte,  
@@ -2193,7 +2193,7 @@ Et j'iray l'y placer un peu plus bas que moy.
 Attendez le combat.  
 
     TAMERLAN.
-C'est là que je me fonde,  
+        C'est là que je me fonde,  
 Je veux estre aujourd'huy le Monarque du monde,  
 Et dans tout l'Univers faisant porter mes loix,  
 Contraindre à me servir les peuples & les Rois.  
@@ -2225,7 +2225,7 @@ Et me trouve puny de vous vouloir sauver.
 O Ciel ! qu'entend-je icy ?  
 
     TAMERLAN.
-Je vous veux conserver :  
+        Je vous veux conserver :  
 Bajazet tient mon fils, quand il auroit ma femme,  
 Il n'obtiendra jamais cét adveu de mon ame [114] ;  
 Et loin de consentir à vostre liberté,  
@@ -2235,14 +2235,14 @@ Je prendrois part moy-mesme à ma captivité.
 Quoy vostre amour !  
 
     TAMERLAN.
-Souffrez que je vous le declare :  
+        Souffrez que je vous le declare :  
 
     ORCAZIE.
 Honneur ! t'avois-je crû dans le cœur d'un barbare ?  
 Je vous crûs genereux⁎ :  
 
     TAMERLAN.
-Croyez-moy donc Amant⁎.  
+        Croyez-moy donc Amant⁎.  
 
     ORCAZIE.
 A peine je reviens de mon estonnement !  
@@ -2309,7 +2309,7 @@ Jugez de mon credit, puis qu'il a tout pouvoir.
 Verrez-vous Bajazet ?  
 
     ROXALIE.
-Je ne le veux point voir ;  
+        Je ne le veux point voir ;  
 C'est pour cette raison qu'on me voit déguisée,  
 Je rends par ce moyen mon entreprise⁎ aisée ;  
 Pour peu que la Fortune⁎ assiste⁎ à mes desseins,  
@@ -2347,7 +2347,7 @@ Voyez de là, Themir, à quel poinct je vous ayme.
 Adieu, Madame :  
 
     ORCAZIE.
-Adieu, tu te vas hazarder⁎ :  
+        Adieu, tu te vas hazarder⁎ :  
 Que n'ay-je le moyen de t'aller seconder !  
 
 
@@ -2376,20 +2376,20 @@ TAMERLAN, ORCAZIE, THEMIR.
 
 
     TAMERLAN.
-Ah ! qu'est-ce que je voy ?  
+        Ah ! qu'est-ce que je voy ?  
 
     THEMIR.
 Vous voyez vostre fils.  
 
     TAMERLAN.
-Quoy ! Themir, est-ce toy ?  
+        Quoy ! Themir, est-ce toy ?  
 Je ne puis dissiper cette grande surprise :  
 Quel favorable sort⁎ t'a rendu la franchise⁎ ?  
 Comment es-tu sorty des mains des ennemis ?  
 Et tes chaisnes :  
 
     THEMIR.
-Mes fers⁎ sont rompus à demy,  
+        Mes fers⁎ sont rompus à demy,  
 Jusque dans vostre camp j'en porte une partie,  
 J'en traine l'une icy, l'autre est à ma sortie,  
 Je les dois reünir, & je vien sur ma foy.  
@@ -2407,13 +2407,13 @@ Et sçachons la rançon qu'on veut pour ta personne.
 Il demande sa fille ;  
 
     TAMERLAN.
-Elle s'en va le voir.  
+        Elle s'en va le voir.  
 
     THEMIR.
 Quoy Roxalie est libre ?  
 
     TAMERLAN.
-Elle est en son pouvoir.  
+        Elle est en son pouvoir.  
 Sa genereuse⁎ envie est pareille à la tienne,  
 Et celle qui t'ameine est conforme à la sienne ;  
 Vous avez pris tous deux un semblable dessein,  
@@ -2428,7 +2428,7 @@ Et telle que dans Pruze on a veu sa maison.
 Il ne peut l'obtenir.  
 
     THEMIR.
-Je rentre en ma prison,  
+        Je rentre en ma prison,  
 Il y faut retourner, ma parole me lie.  
 
     TAMERLAN.
@@ -2440,7 +2440,7 @@ Va, mesme contre moy, le combat t'est permis.
 Ah, Seigneur, que plustost !  
 
     TAMERLAN.
-Va trouver ta Princesse,  
+        Va trouver ta Princesse,  
 Va la dissuader de tenir sa promesse,  
 Va rompre son serment, empescher son retour,  
 Et contre sa parole opposer ton amour.  
@@ -2449,7 +2449,7 @@ Et contre sa parole opposer ton amour.
 Ah ! Seigneur, entendez :  
 
     TAMERLAN.
-Quoy vostre confidence,  
+        Quoy vostre confidence,  
 Que Roxalie & toy fustes d'intelligence⁎,  
 Que vous avez formé ce dessein hazardeux⁎,  
 Et trouvé ce secret de vous sauver tous deux :  
@@ -2459,7 +2459,7 @@ Vous aviez concerté cette double ambassade⁎.
 Consultez l'apparence :  
 
     TAMERLAN.
-Elle me persuade ;  
+        Elle me persuade ;  
 Et beaucoup de raisons soustiennent mon soupçon,  
 Vous deviez de tous deux devenir la rançon :  
 Hé bien, en ta faveur je luy rend Roxalie ;  
@@ -2471,13 +2471,13 @@ Et porter Bajazet à vous voir échanger.
 Redonnez-luy sa femme.  
 
     TAMERLAN.
-On ne peut la luy rendre.  
+        On ne peut la luy rendre.  
 
     ORCAZIE.
 Accordez-luy ce bien :  
 
     TAMERLAN.
-Il n'y doit plus pretendre :  
+        Il n'y doit plus pretendre :  
 Va dire à Bajazet que je suis en estat,  
 Et qu'il s'y mette aussi d'advancer le combat.  
 
@@ -2485,7 +2485,7 @@ Et qu'il s'y mette aussi d'advancer le combat.
 Seigneur il est tout prest.  
 
     TAMERLAN.
-Allons à la victoire.  
+        Allons à la victoire.  
 
     THEMIR.
 Au moins dans mes souhaits j'auray part à sa gloire.  
@@ -2501,12 +2501,12 @@ Madame, en peu de temps vous serez ma conqueste,
 Et cét indigne époux :  
 
     ORCAZIE.
-M'offrirez-vous sa teste ?  
+        M'offrirez-vous sa teste ?  
 Pensez-vous par ce prix vous acquerir mon cœur ?  
 Adieu cruel : 930  
 
     TAMERLAN.
-Bien-tost vous me verrez vainqueur.  
+        Bien-tost vous me verrez vainqueur.  
 
 
 ## ACTE IV.
@@ -2531,7 +2531,7 @@ Et d'un consentement s'en vont déterminer,
 Ils sont prests à conclure :  
 
     ORCAZIE.
-Où vont-ils incliner ?  
+        Où vont-ils incliner ?  
 Et ces deux grands Demons qui se choquent ensemble,  
 Que le malheur de l'un, ou bien de l'autre assemble ;  
 Où doivent-ils porter l'effet de leurs accors ?  
@@ -2558,21 +2558,21 @@ Le destin le plus fort vous presente au vainqueur.
 Helas !  
 
     INDARTHIZE.
-Quoy, des soûpirs sortent de vostre cœur !  
+        Quoy, des soûpirs sortent de vostre cœur !  
 D'où part le déplaisir que vous faites parestre ?  
 
     ORCAZIE.
 De ma captivité.  
 
     INDARTHIZE.
-La vertu⁎ le fait naistre ?  
+        La vertu⁎ le fait naistre ?  
 
     ORCAZIE.
 Je ne vous puis celer ce que vous cognoissez,  
 Je n'en diray pas plus :  
 
     INDARTHIZE.
-Vous m'en dites assez ;  
+        Vous m'en dites assez ;  
 Ce n'est plus qu'à luy seul que j'impute son crime⁎,  
 Et vostre procedé merite mon estime ;  
 J'entreprend vostre fuitte, ou bien je periray ;  
@@ -2603,7 +2603,7 @@ Loin de porter son Maistre à delivrer Themir,
 L'en a dissuadé.  
 
     ORCAZIE.
-Trahison trop insigne !  
+        Trahison trop insigne !  
 Ce fut un noble employ, dont il estoit indigne.  
 
     ROXALIE.
@@ -2656,7 +2656,7 @@ Il s'est fait prisonnier pour vostre liberté,
 J'avois sceu son secret :  
 
     ORCAZIE.
-Merveilleuse entreprise⁎ !  
+        Merveilleuse entreprise⁎ !  
 
     ROXALIE.
 Bajazet admira cette haute franchise,  
@@ -2686,7 +2686,7 @@ Alors parmy les rangs un cry s'est élevé.
 Quoy ! le combat se donne ?  
 
     ROXALIE.
-Il est presque achevé ;  
+        Il est presque achevé ;  
 Par curiosité j'ay veu cette montagne  
 Qui voit l'humilité d'une vaste campagne,  
 Et dont le haut sommet semblant braver les Cieux,  
@@ -2732,15 +2732,15 @@ Perdez cette frayeur, cognoissez ce visage.
 Themir dedans ces lieux !  
 
     ORCAZIE.
-Infortuné presage !  
+        Infortuné presage !  
 Bajazet est vaincu.  
 
     ROXALIE.
-Que veut le sort⁎ de nous ?  
+        Que veut le sort⁎ de nous ?  
 Prince, faut-il mourir ?  
 
     THEMIR.
-Mes Dames sauvez-vous,  
+        Mes Dames sauvez-vous,  
 Le sort⁎ vous est propice, acceptez ma conduite.  
 
     INDARTHIZE.
@@ -2767,11 +2767,11 @@ UN SOLDAT DE BAJAZET, de surcroy.
 
 
     LE SOLDAT.
-Prince l'on suit vos traces,  
+        Prince l'on suit vos traces,  
 Et vous estes perdu :  
 
     THEMIR.
-Inutiles menaces !  
+        Inutiles menaces !  
 Croy-tu m'épouvanter ? mourons en gens de cœur⁎.  
 
     LE SOLDAT.
@@ -2783,7 +2783,7 @@ Allons nous opposer contre cette puissance :
 Ah lasche !  
 
     LE SOLDAT.
-Le grand nombre accable la vertu⁎.  
+        Le grand nombre accable la vertu⁎.  
 
     THEMIR.
 Je leur pardonnerois s'ils avoient combattu :  
@@ -2796,11 +2796,11 @@ TAMERLAN, de surcroy, suivy de ses Lieutenans.
 
 
     TAMERLAN.
-Qui que tu sois, arreste :  
+        Qui que tu sois, arreste :  
 Mansor, qu'on le desarme.  
 
     THEMIR.
-Arreste icy ton bras,  
+        Arreste icy ton bras,  
 Ou cette mesme main te porte le trépas.  
 Puis que mon entreprise⁎ est aujourd'huy trompée,  
 Seigneur, ce n'est qu'à vous que je rend mon espée,  
@@ -2858,7 +2858,7 @@ Pendant ces mouvemens, je ne vous puis respondre,
 Je perdrois mes raisons :  
 
     TAMERLAN.
-Ah, perfide ! en as-tu ?  
+        Ah, perfide ! en as-tu ?  
 Chez tes pareils le crime a-t'il lieu de vertu⁎ ?  
 Ah ! digne partisan d'un Bajazet, d'un lasche !  
 Veux-tu servir un traistre au moment [122] qu'il se cache ?  
@@ -2876,7 +2876,7 @@ SELIM, de surcroy.
 
 
     SELIM.
-Je t'accepte pour Maistre,  
+        Je t'accepte pour Maistre,  
 Et je me viens soustraire à l'Empire d'un traistre ;  
 Je me lasse d'un joug que j'ay long-temps porté.  
 
@@ -2885,7 +2885,7 @@ Tu recevras chez moy plus que tu n'as quitté ;
 Je te suis obligé :  
 
     SELIM.
-C'est peu que ma personne,  
+        C'est peu que ma personne,  
 Juge en ce grand present de ce que je te donne ;  
 Je livre entre tes mains Bajazet enchaisné,  
 Et je viens d'ordonner qu'il te fust ammeiné.  
@@ -2941,7 +2941,7 @@ Et tu te dits le fleau [127] des mauvais Potentats ;
 Tyran, usurpateur !  
 
     TAMERLAN.
-Quoy, le vaincu me brave !  
+        Quoy, le vaincu me brave !  
 
     BAJAZET.
 N'attends pas que je prenne un naturel d'esclave.  
@@ -3006,20 +3006,20 @@ Quelle faveur veux-tu ? je veux te l'accorder.
 Je demande sa fille :  
 
     TAMERLAN.
-Hé bien, je te la donne ;  
+        Hé bien, je te la donne ;  
 Ce n'est qu'utilement que l'on sert ma personne.  
 
     THEMIR.
 Ah, traistre !  
 
     TAMERLAN.
-Je cognois⁎ [130] que le don t'est fatal.  
+        Je cognois⁎ [130] que le don t'est fatal.  
 
     THEMIR.
 Quoy, le recompenser !  
 
     TAMERLAN.
-Je te donne un rival.  
+        Je te donne un rival.  
 
     THEMIR.
 Juste indignation dont mon ame est saisie !  
@@ -3032,16 +3032,16 @@ N'attends pas de joüir des delices d'autruy :
 Ah, lasche ! tu mourras.  
 
     TAMERLAN.
-Qu'on s'asseure de luy.  
+        Qu'on s'asseure de luy.  
 Ma prudence, Zilim, le remet sous ta garde,  
 Et tu m'en respondras.  
 
     ZILIM.
-Ce devoir me regarde,  
+        Ce devoir me regarde,  
 Je m'en acquiteray.  
 
     THEMIR.
-Pere & Prince inhumain [132] !  
+        Pere & Prince inhumain [132] !  
 Je laisse aller mon cœur, si je retiens ma main,  
 Et je pense former un souhait legitime,  
 Quand j'implore la mort de qui soustient le crime,  
@@ -3064,19 +3064,19 @@ Qu'on te donne en spectacle à toute mon armée.
 Je veux t'humilier.  
 
     THEMIR.
-Ah, Prince malheureux !  
+        Ah, Prince malheureux !  
 Ah, pere trop barbare !  
 
     BAJAZET.
-Ah, fils trop genereux⁎!  
+        Ah, fils trop genereux⁎!  
 Verrez-vous Orcazie au pouvoir de ce traistre ?  
 Adieu.  
 
     THEMIR.
-Plustost ma mort !  
+    Plustost ma mort !  
 
     TAMERLAN.
-Non, non, je suis leur Maistre,  
+        Non, non, je suis leur Maistre,  
 Et je puis disposer d'un bien que j'ay conquis.  
 Tu la possederas, ce present t'est acquis ;  
 Mesme je te destine une autre recompense. [134]  
@@ -3119,7 +3119,7 @@ Je demande la mort, & l'on me la dénie.
 Bourreaux !  
 
     UN GARDE.
-Tu dois souffrir une peine infinie,  
+        Tu dois souffrir une peine infinie,  
 Prend dedans ce delay de nouvelles vigueurs.  
 
     BAJAZET.
@@ -3195,7 +3195,7 @@ Tu ne jouïras point de cette perfidie,
 Pourquoy m'as-tu trahy ?  
 
     SELIM.
-Veux-tu qu'on te le die ?  
+        Veux-tu qu'on te le die ?  
 Tu fuyois dans la Thrace avec mille chevaux,  
 Au lieu de les finir, tu prolongeois tes maux ;  
 Et le desir de vivre est si grand en ton ame,  
@@ -3275,7 +3275,7 @@ Et le mettre à son tour au pouvoir d'un vainqueur.
 Sors, sors.  
 
     SELIM.
-Je vay mourir, bien-tost tu me vas suivre,  
+        Je vay mourir, bien-tost tu me vas suivre,  
 Tu n'auras pas long-temps l'honneur de me survivre.  
 
     ZILIM.
@@ -3283,7 +3283,7 @@ Va devers Tamerlan apprendre ton arrest.
 Que quelqu'un l'y conduise.  
 
     SELIM.
-Oüy, tout tyran qu'il est,  
+        Oüy, tout tyran qu'il est,  
 J'ayme mieux par luy-mesme apprendre ma sentence.  
 
 
@@ -3308,18 +3308,18 @@ J'ay le commandement de t'oster de ces fers⁎.
 Je ne suis plus captif.  
 
     ZILIM.
-Joüis de ta franchise⁎,  
+        Joüis de ta franchise⁎,  
 Et vange dessus toy la honte de ta prise.  
 
     BAJAZET.
 Comment ?  
 
     ZILIM.
-Il faut mourir, Bajazet : tu fremis,  
+        Il faut mourir, Bajazet : tu fremis,  
 Quoy, la mort t'épouvante !  
 
     BAJAZET.
-Obligeans ennemis !  
+        Obligeans ennemis !  
 O courtois Tamerlan ! ô nouvelle agreable !  
 La mort a des appas, loin de m'estre effroyable :  
 Puis-je estre moins joyeux sortant de ma prison ?  
@@ -3332,7 +3332,7 @@ Accepte ce poignard, dont il te fait present ;
 Si tu veux du poison ?  
 
     BAJAZET.
-Cét objet m'est charmant,  
+        Cét objet m'est charmant,  
 C'est le don que je veux, & qu'il me plaist élire [141] ;  
 Apres cette faveur, qu'il garde mon Empire.  
 Ne sçais-tu point, Zilim, d'où vient ce changement ?  
@@ -3341,13 +3341,13 @@ Il avait projetté de me conduire en pompe,
 Et par tout l'Orient.  
 
     ZILIM.
-L'évenement nous trompe,  
+        L'évenement nous trompe,  
 Le sort⁎ en a destruit le superbe⁎ appareil,  
 Et le camp de mon Prince est tout remply de dueil.  
 Meurs, Bajazet.  
 
     BAJAZET.
-Mourrons ; mais mourrons en Monarque,  
+        Mourrons ; mais mourrons en Monarque,  
 Zilim, de ma grandeur laisse-moy quelque marque,  
 Permets à Bajazet de regner en mourrant.  
 
@@ -3355,7 +3355,7 @@ Permets à Bajazet de regner en mourrant.
 Commande.  
 
     BAJAZET.
-Ne vois point un Monarque expirant,  
+        Ne vois point un Monarque expirant,  
 Je ne te veux point voir, ny qu'aucun me regarde ;  
 Que je meure en repos, oste d'icy ta garde.  
 
@@ -3393,17 +3393,17 @@ BAJAZET, ORCAZIE.
 Hé bien ! quel est ton sort ?  
 
     ORCAZIE.
-Le vostre.  
+    Le vostre.  
 
     BAJAZET.
-Quoy, le mien !  
+        Quoy, le mien !  
 Vis heureuse, Orcazie, & va joüir du tien,  
 Je ne suis plus jaloux d'un si grand advantage⁎ :  
 Mais je voy dans tes yeux quelque mortel presage ;  
 Quel malheur ?  
 
     ORCAZIE.
-Que de sang a respandu l'amour !  
+        Que de sang a respandu l'amour !  
 Et combien d'accidens⁎ se suivent dans un jour ?  
 A peine Tamerlan eust gaigné la victoire,  
 Que venant devers nous il vint m'offrir sa gloire :  
@@ -3449,7 +3449,7 @@ Il s'en porta le coup avec tant de vistesse,
 Qu'on ne peût l'empescher.  
 
     BAJAZET.
-Trop fatale Princesse,  
+        Trop fatale Princesse,  
 Trop genereux⁎ Themir, que vous causez de sang !  
 
     ORCAZIE.
@@ -3468,13 +3468,13 @@ Recevez ce present que la Reyne m'a fait :
 Acceptez ce poison :  
 
     BAJAZET.
-Mon choix est desja fait.  
+        Mon choix est desja fait.  
 
     ORCAZIE.
 Quoy ! vous pouvez mourir ?  
 
     BAJAZET.
-Je vay cesser de vivre ;  
+        Je vay cesser de vivre ;  
 Je te vais preceder, mais il faudra me suivre ;  
 Je t'enseigne un chemin qu'a tracé la vertu⁎,  
 Et que mille affligez avant nous ont battu :  
@@ -3508,7 +3508,7 @@ Celuy qui vous tuëra me sera plus sensible.
 Je meurs !  
 
     BAJAZET.
-De son amour témoignage visible !  
+        De son amour témoignage visible !  
 Ne veux-je pas mourir ? rien ne peut m'arrester,  
 Il me reste la vie, il me la faut oster.  
 Toy poignard tout fumant du beau sang de ma femme,  
@@ -3532,7 +3532,7 @@ Il iroit t'en donner la seconde peinture.
 En voila la troisiéme.  
 
     TAMERLAN.
-O sanglante advanture !  
+        O sanglante advanture !  
 O Themir trop vangé ! Qu'on les oste d'icy :  
 Qu'on les porte au cercueil, & qu'on m'y meine aussi.  
 FIN.

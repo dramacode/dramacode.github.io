@@ -6,121 +6,57 @@ title: Psyché
 ---
 
 
-PSYCHÉ
+PSYCHÉ,
 
-TRAGI-COMÉDIE avec intermèdes et ballets
+TRAGÉDIE-BALLET
 
-1666
+Par J. B. P. MOLIERE
 
-Molière, Quinault et Pierre Corneille
-
-Représentée pour le roi dans la grande salle des machines du Palais des tuileries en janvier et durant tout le carnaval de l'année 1671 par la Troupe du Roi et donnée au public sur le Théâtre de la salle du Palais-Royal, le 24e juillet 1671.
+*Et se vend pour l'Auteur, * À PARIS, Chez PIERRE LE MONNIER, au Palais, vis-à-vis la Porte de l'Église de la Sainte-Chapelle, à l'Image Saint-Louis, et au Feu Divin. M. DC. LXXI. * AVEC PRIVILEGE DU ROI.*
 
 
 
 # Acteurs
-
-
-## PERSONNAGES du PROLOGUE
- – Flore.
- – Vertumne, dieu des jardins.
- – Palémon, dieu des eaux.
- – Vénus.
- – L'amour, Grâce.
- – Ægiale, Grâce.
- – Phène, Grâce.
- – Nymphes, de la suite de Flore chantantes.
- – Dryades et sylvains, de la suite de Vertumne dansants.
- – Sylvains, chantants.
- – Dieux des fleuves, de la suite de Palémon dansants.
- – Dieux des fleuves, chantants.
- – Naïdades.
- – Amours, de la suite de Vénus dansants.
-
-
-## PERSONNAGES DE LA TRAGI-COMÉDIE
  – Jupiter.
  – Vénus.
- – L'amour.
+ – L'Amour.
  – Ægiale, Grâce.
- – Phène, Grâce.
+ – Phaene, Grâce.
  – Psyché.
- – Le roi, père de Psyché.
- – Aglaure, sœur de Psyché.
- – Cidippe, sœur de Psyché.
- – Cléomène, prince amant de Psyché.
- – Agénor, prince amant de Psyché.
- – Le zéphire.
+ – Le Roi, Père de Psyché.
+ – Aglaure, Sœur de Psyché.
+ – Cidippe, Sœur de Psyché.
+ – Cléomene, Prince amant de Psyché.
+ – Agénor, Prince amant de Psyché.
+ – Le Zéphire.
  – Lycas.
- – Le dieu d'un fleuve.
-
-
-## PERSONNAGES du PREMIER INTERMÈDE
- – Femme désolée, chantante.
- – Deux hommes affligés, chantants.
- – Hommes affligés, dansants.
- – Femmes desolées, dansantes.
-
-
-## PERSONNAGES du DEUXIÈME INTERMÈDE
- – Vulcain.
- – Cyclopes.
- – Fées dansantes.
-
-
-## PERSONNAGES du TROISIÈME INTERMÈDE
- – un zéphyr, chantant.
- – Deux amours, chantants.
- – Zéphyrs, dansants.
- – Amours, dansantes.
-
-
-## PERSONNAGES du QUATRIÈME INTERMÈDE
- – Furies, dansantes.
- – Lutins, faisant des sauts périlleux.
-
-
-## PERSONNAGES du CINQUIÈME INTERMÈDE
- – Apollon.
- – Les muses chantantes.
- – Les arts, travestis en bergers galants, dansants.
- – Bacchus.
- – Silène.
- – Deux satyres chantants.
- – Deux satyres dansants.
- – Egipans sansants.
- – Ménades, dansantes.
- – Mone.
- – Polichinelles dansants.
- – Matassins dansants.
- – Mars.
- – Guerriers portant des enseignes.
- – Guerriers portant des piques.
- – Guerriers portant des masses et des boucliers.
- – Chœur des divinités célestes.
-
-La scène du prologue est dans un lieu champêtre, la tragi-comédie se situe dans le palais du roi.
-
-
-# LE LIBRAIRE AU LECTEUR
-
-Cet Ouvrage n'est pas tout d'une main. M. Quinault a fait les Paroles qui s'y chantent en Musique, à la réserve de la Plainte Italienne. M. de Molière a dressé le Plan de la Pièce, et réglé la disposition, où il s'est plus attaché aux beautés et à la pompe du Spectacle qu'à l'exacte régularité. Quant à la Versification, il n'a pas eu le loisir de la faire entière. Le Carnaval approchait, et les Ordres pressants du Roi, qui se voulait donner ce magnifique Divertissement plusieurs fois avant le Carême, l'ont mis dans la nécessité de souffrir un peu de secours. Ainsi il n'y a que le Prologue, le Premier Acte, la première Scène du Second et la première du Troisième, dont les Vers soient de lui. Monsieur Corneille a employé une quinzaine au reste ; et, par ce moyen, Sa Majesté s'est trouvée servie dans le temps qu'elle l'avait ordonné.
+ – Le Dieu d'un fleuve.
 
 
 # Prologue
 La Scène représente sur le devant un Lieu champêtre, et dans l'enfoncement un Rocher percé à jour, à travers duquel on voit la Mer en éloignement.
 
-Flore paraît au milieu du Théâtre, accompagnée de Vertumne Dieu des Arbres et des Fruits, et de Palæmon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinités ; l'un mène à sa suite des Dryades et des Sylvains ; et l'autre des Dieux des Fleuves et des Naïades. Flore chante ce Récit pour inviter Vénus à descendre en Terre :
+Flore paraît au milieu du Théâtre, accompagnée de Vertumne Dieu des Arbres et des Fruits, et de Palæmon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinités ; l'un mène à sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Naïades. Flore chante ce Récit pour inviter Vénus à descendre en Terre.
 
 
-    FLORE
+    
 Ce n'est plus le temps de la Guerre ;  
 Le plus puissant des Rois  
 Interrompt ses Exploits  
 Pour donner la Paix à la Terre.  
 Descendez, Mère des Amours,  
 Venez nous donner de beaux jours.  
-Vertumne et Palæmon, avec les Divinités qui les accompagnent, joignent leurs voix à celle de Flore, et chantent ces paroles :
+Vertumne et Palæmon, avec les Divinités qui les accompagnent, joignent leurs voix à celle de Flore, et chantent ces paroles.
+
+
+    CHOEUR DES DIVINITÉS DE LA TERRE ET DES EAUX, COMPOSÉ *de Flore, Nymphes, Palaemon, Vertumne, Sylvain, Faune, Dryades, et Naïades*.
+Nous goûtons une Paix profonde ;  
+Les plus doux Jeux sont ici-bas ;  
+On doit ce repos plein d'appâts  
+Au plus grand ROI du Monde.  
+Descendez, Mère des Amours,  
+Venez nous donner de beaux jours.  
+Il se fait ensuite une Entrée de Ballet, composée de Dryades, quatre Sylvains, deux Fleuves, et de Naïades. Après laquelle, Vertumne et Palaemon chantent ce Dialogue.
 
 
     VERTUMNE
@@ -138,7 +74,7 @@ Ne se fait jamais bien aimer.
     PALÆMON
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
-Ils répètent ensemble ces derniers vers :
+Ils répètent ensemble ces derniers Vers.
 
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
@@ -158,8 +94,44 @@ Ne se fait jamais bien aimer.
     PALÆMON
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
+Flore répond au Dialogue de Vertumne et de Palaemon, par ce Menuet ; et les autres Divinités y mêlent leurs Danses.
 
-    VÉNUS*, dans sa Machine*
+
+    
+
+Est-on sage  
+Dans le bel âge,  
+Est-on sage  
+De n'aimer pas ?  
+Que sans cesse  
+L'on se presse  
+De goûter les plaisirs ici-bas :  
+La sagesse  
+De la Jeunesse,  
+C'est de savoir jouir de ses appas.  
+
+L'Amour charme  
+Ceux qu'il désarme ;  
+L'Amour charme,  
+Cédons-lui tous.  
+Notre peine  
+Serait vaine  
+De vouloir résister à ses coups :  
+Quelque chaîne  
+Qu'un Amant prenne,  
+La liberté n'a rien qui soit si doux.  
+Vénus descend du Ciel dans une grande Macine avec l'Amour son Fils, et deux petites Grâces, nommées Aegial et Phaène : Et les Divinités de la Terre et des Eaux recommencent de joindre toutes leurs voix, et continuent par leurs Danses de lui témoigner la joie qu'elles ressentent à son abord.
+
+
+    CHOEUR DE TOUTES LES DIVINITÉS DE LA TERRE ET DES EAUX.
+Nous goûtons une Paix profonde ;  
+Les plus doux Jeux sont ici-bas ;  
+On doit ce repos plein d'appâts  
+Au plus grand ROI du Monde.  
+Descendez, Mère des Amours,  
+Venez nous donner de beaux jours.  
+
+    VÉNUS* dans sa Machine*
 Cessez, cessez pour moi tous vos chants d'allégresse :  
 De si rares honneurs ne m'appartiennent pas,  
 Et l'hommage qu'ici votre bonté m'adresse  
@@ -232,7 +204,7 @@ Sur ses traits et les miens j'essuierai constamment
 Un téméraire jugement !  
 Et du haut des cieux où je brille,  
 J'entendrai prononcer aux Mortels prévenus :  
-Elle est plus belle que Vénus **!  
+Elle est plus belle que Vénus !  
 
     ÆGIALE
 Voilà comme l'on fait, c'est le style des Hommes,  
@@ -284,7 +256,7 @@ Dans le monde on n'entend que plaintes de l'Amour,
 On m'impute partout mille fautes commises,  
 Et vous ne croiriez point le mal et les sottises  
 Que l'on dit de moi chaque jour.  
-Si pour servir votre colère...  
+Si pour servir votre colère…  
 
     VÉNUS
 Va, ne résiste point aux souhaits de ta Mère,  
@@ -293,7 +265,9 @@ Qu'à chercher les plus prompts moments
 De faire un sacrifice à ma gloire outragée.  
 Pars, pour toute réponse à mes empressements,  
 Et ne me revois point que je ne sois vengée.  
-L'Amour s'envole, et Vénus se retire avec les Grâces. La Scène est changée en une grande Ville, où l'on découvre des deux côtés, des Palais et des Maisons de différents ordres d'Architecture.
+L'Amour s'envole, et Vénus se retire avec les Grâces.
+
+La Scène est changée en une grande Ville, où l'on découvre des deux côtés, des Palais et des Maisons de différents ordres d'Architecture.
 
 
 
@@ -301,7 +275,7 @@ L'Amour s'envole, et Vénus se retire avec les Grâces. La Scène est changée e
 
 
 ## Scène Première
-Aglaure, Cidippe.
+Aglaure, Cidippe
 
 
     AGLAURE
@@ -466,7 +440,7 @@ Leur pourrait donner son cœur.
 
 
 ## Scène II
-Cléomène, Agénor, Aglaure, Cidippe.
+Cléomène, Agénor, Aglaure, Cidippe
 
 
     AGLAURE
@@ -734,11 +708,11 @@ La conquête de ses Amants.
 
     PSYCHÉ
 J'ai cru pour vous, mes Sœurs, une gloire assez grande,  
-Si la possession d'un mérite si haut...  
+Si la possession d'un mérite si haut…  
 
 
 ## Scène IV
-Lycas, Psyché, Aglaure, Cidippe, Cléomène, Agénor.
+Lycas, Psyché, Aglaure, Cidippe, Cléomène, Agénor
 
 
     LYCAS
@@ -748,7 +722,7 @@ Ah, Madame !
 Qu'as-tu ?  
 
     LYCAS
-Le Roi...  
+Le Roi…  
 
     PSYCHÉ
 Quoi ?  
@@ -796,6 +770,7 @@ Voyez-le vous-même, Princesse,
 Dans l'Oracle qu'au Roi les Destins ont rendu.  
 Voici ses propres mots, que la douleur, Madame,  
 A gravés au fond de mon âme :  
+
 Que l'on ne pense nullement  
 À vouloir de Psyché conclure l'Hyménée ;  
 Mais qu'au sommet d'un Mont elle soit promptement  
@@ -812,7 +787,7 @@ Tous les Dieux nous pouvaient expliquer leur colère.
 
 
 ## Scène VI
-Aglaure, Cidippe.
+Aglaure, Cidippe
 
 
     CIDIPPE
@@ -836,39 +811,50 @@ Un mal que nous pouvons regarder comme un bien.
 # Premier Intermède
 La Scène est changée en des Rochers affreux, et fait voir en éloignement une Grotte effroyable.
 
-C'est dans ce Désert que Psyché doit être exposée, pour obéir à l'Oracle. Une Troupe de Personnes affligées y viennent déplorer sa disgrâce. Une partie de cette troupe désolée témoigne sa pitié par des Plaintes touchantes, et par des Concerts lugubres ; et l'autre exprime sa désolation par une Danse pleine de toutes les marques du plus violent désespoir.
+C'est dans ce Désert que Psyché doit être exposée pour obéir à l'Oracle. Une Troupe de Personnes affligées y viennent déplorer sa disgrâce. Une partie de cette Troupe désolée témoigne sa pitié par des Plaintes touchantes, et par des Concerts lugubres ; et l'autre exprime sa désolation par une Danse pleine de toutes les marques du plus violent désespoir.
+< PLAINTES EN ITALIEN. Chantées par une Femme désolée, et deux Hommes affligés. >
 
-PLAINTES EN ITALIEN. Chantées par une femme désolée, et deux hommes affligés.
-
-
-    *F*EMME DÉSOLÉE.
+    FEMME DÉSOLÉE
 Deh, piangete al pianto mio,  
 Sassi duri, antiche selve,  
 Lagrimate, fonti e belve  
 D'un bel voto il fato rio.  
 
-    *1. Homme* AFFLIGÉ.
+    PREMIER HOMME AFFLIGÉ
 Ahi dolore !  
 
-    *2. Homme* AFFLIGÉ.
+    SECOND HOMME AFFLIGÉ
 Ahi martire !  
 
-    *2. Homme* AFFLIGÉ.
+    PREMIER HOMME AFFLIGÉ
+Cruda morte !  
+
+    SECOND HOMME AFFLIGÉ
 Empia sorte !  
 
-    *2. Homme* AFFLIGÉ.
+    TOUS TROIS
+che condanni a morir tanta beltà.  
+Cieli, stelle, ahi crudeltà.  
+
+    SECOND HOMME AFFLIGÉ
 Com'esser puô fra voi, o Numi eterni,  
 Chi voglia estinta una beltà innocente ?  
 Ahi ! che tanto rigor, Cielo inclemente,  
 Vince di crudeltà gli stessi Inferni.  
 
-    *1. Homme* AFFLIGÉ.
+    PREMIER HOMME AFFLIGÉ
 Nume fiero !  
 
-    *2. Homme* AFFLIGÉ
+    SECOND HOMME AFFLIGÉ
 Dio severo !  
 
-    *F*EMME DÉSOLÉE.
+    ENSEMBLE
+Perchè tanto rigor  
+Contro innocente cor ?  
+Ahi ! sentenza inaudita,  
+Dar morte a la Beltà, ch'altrui dà vita.  
+
+    FEMME DÉSOLÉE
 Ahi ch'indarno si tarda,  
 Non resiste a li Dei mortale affeto,  
 Alto impero ne sforza,  
@@ -882,7 +868,7 @@ Ces Plaintes sont entrecoupées et finies par une Entrée de Ballet de huit Pers
 
 
 ## Scène Première
-Le Roi, Psyché, Aglaure, Cidippe, Lycas, Suite.
+Le Roi, Psyché, Aglaure, Cidippe, Lycas, Suite
 
 
     PSYCHÉ
@@ -1042,7 +1028,7 @@ Ils m'ont mis en état de ne rien redouter.
 
     PSYCHÉ
 Ah, Seigneur, je tremble des crimes  
-Que je vous fais commettre, et je dois me haïr...  
+Que je vous fais commettre, et je dois me haïr…  
 
     LE ROI
 Ah, qu'ils souffrent du moins mes plaintes légitimes,  
@@ -1074,10 +1060,12 @@ Il le faut toutefois, le Ciel m'en fait la loi,
 Une rigueur inévitable  
 730M'oblige à te laisser en ce funeste lieu.  
 Adieu : je vais… Adieu.  
+Ce qui suit, jusqu'à la fin de la pièce, est de M. C. à la réserve de la première Scène du troisième Acte, qui est de la même main que ce qui a précédé.
+
 
 
 ## Scène II
-Psyché, Aglaure, Cidippe.
+Psyché, Aglaure, Cidippe
 
 
     PSYCHÉ
@@ -1149,7 +1137,7 @@ Qu'aucun des Dieux ne remplira jamais.
 
 ## Scène III
 
-    PSYCHÉ*, seule*
+    PSYCHÉ* seule.*
 Enfin, seule, et toute à moi-même,  
 Je puis envisager cet affreux changement,  
 Qui du haut d'une gloire extrême  
@@ -1177,7 +1165,7 @@ Le mérite, l'amour, et… Mais que vois-je ici ?
 
 
 ## Scène IV
-Cléomène, Agénor, Psyché/
+Cléomène, Agénor, Psyché
 
 
     CLÉOMÈNE
@@ -1274,7 +1262,7 @@ Et l'on a reçu de tout temps
 Pour souveraines lois les ordres des Mourants.  
 
     CLÉOMÈNE
-Princesse...  
+Princesse…  
 
     PSYCHÉ
 Encore un coup, Princes, vivez pour elles,  
@@ -1302,7 +1290,7 @@ Allons-y chercher ceux de ne lui point survivre.
 
 ## Scène V
 
-    L’AMOUR, EN L’AIR.
+    L’AMOUR, *en l'air*.
 Allez mourir, Rivaux d'un dieu jaloux,  
 Dont vous méritez le courroux,  
 Pour avoir eu le cœur sensible aux mêmes charmes.  
@@ -1313,7 +1301,7 @@ Et lui rendre les armes.
 
 
 # Second Intermède
-La Scène se change en une Cour magnifique, ornée de Colonnes de Lapis enrichies de Figures d'or, qui forment un Palais pompeux et brillant, que l'Amour destine pour Psyché. Six Cyclopes avec quatre Fées y font une Entrée de Ballet, où ils achèvent en cadence quatre gros vases d'Argent que les Fées leur ont apportés. Cette Entrée est entrecoupée par ce Récit de Vulcain, qu'il fait à deux reprises :
+La Scène se change en une Cour magnifique, ornée de Colonnes de Lapis enrichies de Figures d'or, qui forment un Palais pompeux et brillant, que l'Amour destine pour Psyché. Six Cyclopes avec quatre Fées y font une Entrée de Ballet, où ils achèvent en cadence quatre gros Vases d'Argent que les Fées leur ont apportés. Cette Entrée est entrecoupée par ce Récit de Vulcain, qu'il fait à deux reprises.
 
 Dépêchez, préparez ces lieux  
 Pour le plus aimable des Dieux,  
@@ -1325,9 +1313,7 @@ L'Amour ne veut point qu'on diffère,
 Travaillez, hâtez-vous,  
 Frappez, redoublez vos coups ;  
 Que l'ardeur de lui plaire  
-Fasse vos soins les plus doux.  
-Second couplet
-
+Fasse vos soins les plus doux.  < Second couplet >
 Servez bien un dieu si charmant,  
 Il se plaît dans l'empressement.  
 Que chacun pour lui s'intéresse,  
@@ -1335,14 +1321,14 @@ N'oubliez rien des soins qu'il faut :
 Quand l'Amour presse,  
 On n'a jamais fait assez tôt.  
 L'Amour ne veut point qu'on diffère,  
-Travaillez, etc.  
+Travaillez, *etc.*  
 
 
 # Acte III
 
 
 ## Scène Première
-L'Amour, Zéphire.
+L'Amour, Zéphire
 
 
     ZÉPHIRE
@@ -1435,7 +1421,7 @@ Viens, que j'achève d'expirer.
 
 
 ## Scène III
-L'Amour, Psyché, Zéphire.
+L'Amour, Psyché, Zéphire
 
 
     L’AMOUR
@@ -1622,7 +1608,7 @@ Me vole une part des douceurs
 Que je veux toutes pour ma flamme.  
 N'ayez d'yeux que pour moi, qui n'en ai que pour vous,  
 Ne songez qu'à m'aimer, ne songez qu'à me plaire,  
-Et quand de tels soucis osent vous en distraire...  
+Et quand de tels soucis osent vous en distraire…  
 
     PSYCHÉ
 Des tendresses du sang peut-on être jaloux ?  
@@ -1640,6 +1626,17 @@ Je ne sais quoi qui m'effarouche
 Craint parmi vos soupirs des soupirs égarés.  
 Mais vous voulez vos sœurs, allez, partez, Zéphire,  
 Psyché le veut, je ne l'en puis dédire.  
+Le Zéphire s'envole.
+
+Quand vous leur ferez voir ce bienheureux séjour,  
+De ses trésors faites-leur cent largesses,  
+Prodiguez-leur caresses sur caressses,  
+Et du sang, s'il se peut, épuisez les tendresses,  
+Pour vous rendre toute à l'Amour.  
+Je n'y mêlerai point d'importune présence,  
+Mais ne leur faites pas de si longs entretiens ;  
+Vous ne sauriez pour eux avoir de complaisance,  
+Que vous ne dérobiez aux miens.  
 
     PSYCHÉ
 Votre amour me fait une grâce  
@@ -1658,7 +1655,7 @@ Vous avez senti d'allégresse.
 Il se fait une Entrée de Ballet de quatre Amours et quatre Zéphyrs, interrompue deux fois par un Dialogue chanté par un Amour et un Zéphyr.
 
 
-    LE ZÉPHIR
+    LE ZÉPHYR
 Aimable jeunesse,  
 Suivez la tendresse,  
 Joignez aux beaux jours  
@@ -1670,39 +1667,37 @@ Et craindre leurs désirs :
 Laissez-vous apprendre  
 Quels sont leurs plaisirs.  
 
-    ILS CHANTENT ENSEMBLE.
+    *Ils chantent ensemble.*
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  
 
-    LE ZEPHYR, SEUL.
+    LE ZÉPHYR *seul*.
 Un cœur jeune et tendre  
 Est fait pour se rendre,  
 Il n'a point à prendre  
 De fâcheux détour.  
 
-    LES DEUX ENSEMBLE.
+    *Les deux ensemble.*
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  
 
-    L’AMOUR, SEUL.
+    L’AMOUR *seul*.
 Pourquoi se défendre ?  
 Que sert-il d'attendre ?  
 Quand on perd un jour,  
 On le perd sans retour.  
 
-    LES DEUX ENSEMBLE.
+    *Les deux ensemble.*
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
-Plus on doit à l'Amour.  
-Second Couplet
+Plus on doit à l'Amour.  < Second Couplet >
 
-
-    LE ZÉPHIR
+    LE ZÉPHYR
 L'Amour a des charmes,  
 Rendons-lui les armes,  
 Ses soins et ses pleurs  
@@ -1714,36 +1709,36 @@ Languir jusqu'au trépas,
 Mais ce n'est pas vivre  
 Que de n'aimer pas.  
 
-    ILS CHANTENT ENSEMBLE.
+    *Ils chantent ensemble.*
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
 Par un heureux moment.  
 
-    LE ZEPHYR, SEUL.
+    LE ZÉPHYR *seul*.
 On craint, on espère,  
 Il faut du mystère,  
 Mais on n'obtient guère  
 De bien sans tourment.  
 
-    LES DEUX ENSEMBLE.
+    *Les deux ensemble.*
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
 Par un heureux moment.  
 
-    L’AMOUR, SEUL.
+    L’AMOUR *seul*.
 Que peut-on mieux faire  
 Qu'aimer et que plaire ?  
 C'est un soin charmant  
 Que l'emploi d'un Amant.  
 
-    LES DEUX ENSEMBLE.
+    *Les deux ensemble.*
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
 Par un heureux moment.  
-Le Théâtre devient un autre Palais magnifique, coupé dans le fond par un Vestibule, au travers duquel on voit un jardin superbe et charmant, décoré de plusieurs Vases d'Orangers, et d'Arbres chargés de toutes sortes de Fruits.
+Le Théâtre devient un autre Palais magnifique, coupé dans le fond par un Vestibule, au travers duquel on voit un Jardin superbe et charmant, décoré de plusieurs Vases d'Orangers, et d'Arbres chargés de toutes sortes de Fruits.
 
 
 
@@ -1751,7 +1746,7 @@ Le Théâtre devient un autre Palais magnifique, coupé dans le fond par un Vest
 
 
 ## Scène Première
-Aglaure, Cidippe.
+Aglaure, Cidippe
 
 
     AGLAURE
@@ -1905,10 +1900,10 @@ Ou de ce changement, ou de cette insolence ?
 
     PSYCHÉ
 Ma sœur, vous me faites trembler.  
-Juste Ciel ! pourrais-je être assez infortunée...  
+Juste Ciel ! pourrais-je être assez infortunée…  
 
     CIDIPPE
-Que sait-on si déjà les nœuds de l'Hyménée...  
+Que sait-on si déjà les nœuds de l'Hyménée…  
 
     PSYCHÉ
 N'achevez pas, ce serait m'accabler.  
@@ -1950,7 +1945,7 @@ La surprenante et merveilleuse histoire.
 
     PSYCHÉ
 Ne l'inquiétez point, ma sœur, de vos soupçons,  
-Et quand vous lui peindrez un si charmant Empire...  
+Et quand vous lui peindrez un si charmant Empire…  
 
     AGLAURE
 Nous savons toutes deux ce qu'il faut taire, ou dire,  
@@ -1960,7 +1955,7 @@ Le Zéphire enlève les deux Sœurs de Psyché dans un nuage qui descend jusqu'�
 
 
 ## Scène III
-L'Amour, Psyché.
+L'Amour, Psyché
 
 
     L’AMOUR
@@ -2092,7 +2087,7 @@ Souffrez que je vous en conjure.
 
     L’AMOUR
 Si vous saviez, Psyché, la cruelle aventure  
-Que par là vous vous attirez...  
+Que par là vous vous attirez…  
 
     PSYCHÉ
 Seigneur, vous me désespérez.  
@@ -2132,8 +2127,8 @@ L'Amour disparaît, et dans l'instant qu'il s'envole, le superbe Jardin s'évano
 
 
 ## Scène IV
+Psyché, Le dieu du Fleuve
 
-PSYCHÉ, LE DIEU DU FLEUVE.
 
     PSYCHÉ
 Cruel Destin ! funeste inquiétude !  
@@ -2188,7 +2183,7 @@ Et peut braver tout leur courroux.
 
 
 ## Scène V
-Vénus, Psyché.
+Vénus, Psyché
 
 
     VÉNUS
@@ -2255,7 +2250,7 @@ Lui qui de tout mon cœur d'abord s'est rendu maître ?
 
     VÉNUS
 Tout votre cœur s'en est laissé charmer,  
-Et vous l'avez aimé dès qu'il vous a dit : J'aime.  
+Et vous l'avez aimé dès qu'il vous a dit, *J'aime*.  
 
     PSYCHÉ
 Pouvais-je n'aimer pas le Dieu qui fait aimer,  
@@ -2340,7 +2335,7 @@ J'entrevois s'avancer vers moi ?
 
 
 ## Scène II
-Psyché, Cléomène, Agénor.
+Psyché, Cléomène, Agénor
 
 
     PSYCHÉ
@@ -2501,7 +2496,7 @@ Elle s'évanouit, et l'Amour descend auprès d'elle en volant.
 
 
 ## Scène IV
-L'Amour, Psyché, évanouie.
+L'Amour, Psyché *évanouie*
 
 
     L’AMOUR
@@ -2550,7 +2545,7 @@ Qui n'auront que haine pour vous.
 
 
 ## Scène V
-Vénus, L'Amour, Psyché, évanouie.
+Vénus, L'Amour, Psyché *évanouie*
 
 
     VÉNUS
@@ -2681,7 +2676,7 @@ Après quelques éclairs et roulements de Tonnerre, Jupiter paraît en l'air sur
 
 
 ## Scène Dernière
-Jupiter, Vénus, L'Amour, Psyché.
+Jupiter, Vénus, L'Amour, Psyché
 
 
     L’AMOUR
@@ -2756,10 +2751,10 @@ Qui redonnez la vie à ce cœur innocent !
 Jupiter vous fait grâce, et ma colère cesse.  
 Vivez, Vénus l'ordonne ; aimez, elle y consent.  
 
-    PSYCHÉ, À L’*A*MOUR.
+    PSYCHÉ, *à l'Amour*.
 Je vous revois enfin, cher objet de ma flamme !  
 
-    L’AMOUR, À *P*SYCHÉ.
+    L’AMOUR, *à Psyché*.
 Je vous possède enfin, délices de mon âme !  
 
     JUPITER
@@ -2769,7 +2764,7 @@ Viens-y, belle Psyché, changer de Destinée,
 Viens prendre place aux rang des Dieux.  
 Deux grandes Machines descendent aux deux côtés de Jupiter, cependant qu'il dit ces derniers Vers. Vénus avec sa Suite monte dans l'une, l'Amour avec Psyché dans l'autre, et tous ensemble remontent au Ciel.
 
-Les Divinités qui avaient été partagées entre Vénus et son Fils, se réunissent en les voyant d'accord ; et toutes ensemble par des Concerts, des Chants, et des Danses, célèbrent la fête des Noces de l'Amour.
+Les Divinités qui avaient été partagées entre Vénus et son Fils, se réunissent en les voyant d'accord ; et toutes ensemble par des Concerts, des Chants, et des Danses, célèbrent la Fête des Noces de l'Amour.
 
 Apollon paraît le premier et, comme Dieu de l'Harmonie commence à chanter, pour inviter les autres Dieux à se réjouir.
 
@@ -2782,7 +2777,9 @@ En faveur d'un Fils si charmant :
 Il va goûter en paix, après un long tourment,  
 Une félicité qui doit être éternelle.  
 
-    TOUTES LES DIVINITÉS CHANTENT ENSEMBLE CE COUPLET À LA GLOIRE DE L’AMOUR.
+    
+Toutes les Divinités chantent ensemble ce Couplet à la gloire de l'Amour.
+
 Célébrons ce grand jour ;  
 Célébrons tous une Fête si belle :  
 Que nos Chants en tous lieux en portent la nouvelle,  
@@ -2791,7 +2788,7 @@ Chantons, répétons, tour à tour,
 Qu'il n'est point d'Âme si cruelle  
 Qui tôt ou tard ne se rende à l'Amour.  
 
-    APOLLON CONTINUE.
+    APOLLON *continue*.
 Le Dieu qui nous engage  
 À lui faire la Cour,  
 Défend qu'on soit trop sage.  
@@ -2809,9 +2806,9 @@ Que de finir les soins du Jour.
 La Nuit est le partage  
 Des Jeux, et de l'Amour.  
 Deux Muses, qui ont toujours évité de s'engager sous les Lois de l'Amour, conseillent aux Belles qui n'ont point encore aimé, de s'en défendre avec soin à leur exemple.
+< Chanson des muses >
 
-
-    CHANSON DES MUSES
+    
 Gardez-vous, Beautés sévères,  
 Les Amours font trop d'affaires,  
 Craignez toujours de vous laisser charmer :  
@@ -2819,9 +2816,9 @@ Quand il faut que l'on soupire,
 Tout le mal n'est pas de s'enflammer ;  
 Le martyre  
 De le dire,  
-Coûte plus cent fois que d'aimer.  
+Coûte plus cent fois que d'aimer.  < second couplet des muses >
 
-    SECOND COUPLET DES MUSES
+    
 On ne peut aimer sans peines,  
 Il est peu de douces chaînes,  
 À tout moment on se sent alarmer ;  
@@ -2831,9 +2828,9 @@ Le martyre
 De le dire,  
 Coûte plus cent fois que d'aimer.  
 Bacchus fait entendre qu'il n'est pas si dangereux que l'Amour.
+< Récit de Bacchus >
 
-
-    RÉCIT DE BACCHUS
+    
 Si quelquefois,  
 Suivant nos douces Lois,  
 La raison se perd et s'oublie,  
@@ -2842,9 +2839,9 @@ Commence et finit en un jour ;
 Mais quand un cœur est enivré d'Amour,  
 Souvent c'est pour toute la vie.  
 Mome déclare qu'il n'a point de plus doux emploi que de médire, et que ce n'est qu'à l'Amour seul qu'il n'ose se jouer.
+< Récit de mome >
 
-
-    RÉCIT DE MOME
+    
 Je cherche à médire !  
 Sur la terre et dans les Cieux ;  
 Je soumets à ma Satire  
@@ -2852,22 +2849,23 @@ Les plus grands des Dieux.
 Il n'est dans l'Univers que l'Amour qui m'étonne ;  
 Il est le seul que j'épargne aujourd'hui ;  
 Il n'appartient qu'à lui  
-De n'épargner personne.  
+De n'épargner personne.  < Entrée de ballet, >
+Composée de deux Ménades et de deux Aegypans qui suivent Bacchus.
+< Entrée de ballet, >
+Composée de quatre Polichinelles et de deux Matassins qui suivent Mome, et viennent jouer leur plaisanterie et leur badinage aux divertissements de cette grande Fête.
 
+Bacchus et Mome qui les conduisent, chantent au milieu d'eux chacun une Chanson, Bacchus à la louange du Vin, et Mome une Chanson enjouée, sur le sujet et les avantages de la raillerie.
+< Récit de Bacchus >
 
-## *Composée de quatre Polichinelles et de deux Matassins* qui suivent Mome, et viennent *jouer* leur plaisanterie et leur badinage aux divertissement de cette grande *F*ête
-Bacchus et Mome qui les conduisent, chantent au milieu d'eux chacun une chanson, Bacchus à la louange du Vin, et Mome une Chanson enjouée, sur le sujet et les avantages de la raillerie.
-
-
-    RÉCIT DE BACCHUS
+    
 Admirons le jus de la Treille :  
 Qu'il est puissant ! qu'il a d'attraits !  
 Il sert aux douceurs de la Paix,  
 Et dans la Guerre il fait merveille :  
 Mais surtout pour les Amours,  
-Le vin est d'un grand secours.  
+Le vin est d'un grand secours.  < Récit de Mome >
 
-    RÉCIT DE MOME
+    
 Folâtrons, divertissons-nous,  
 Raillons, nous ne saurions mieux faire,  
 La raillerie est nécessaire  
@@ -2885,19 +2883,18 @@ On trouve peu de plaisirs sans ennui ;
 Rien n'est si plaisant que de rire,  
 Quand on rit aux dépens d'autrui.  
 Mars arrive au milieu du Théâtre, suivi de sa Troupe guerrière, qu'il excite à profiter de leur loisir en prenant part aux Divertissements.
+< Récit de Mars >
 
-
-    RÉCIT DE MARS
+    
 Laissons en paix toute la Terre,  
 Cherchons de doux amusements ;  
 Parmi les Jeux les plus charmants,  
-Mêlons l'image de la Guerre.  
-
-
-## DERNIÈRE ENTRÉE DE BALLET
+Mêlons l'image de la Guerre.  < Entrée de ballet >
+Suivants de Mars, qui font, en dansant avec des Enseignes, une manière d'Exercice.
+< DERNIÈRE ENTRÉE DE BALLET >
 Les Troupes différentes de la Suite d'Apollon, de Bacchus, de Mome, et de Mars, après avoir achevé leurs Entrées particulières, s'unissent ensemble, et forment la dernière Entrée, qui renferme toutes les autres.
 
-Un Chœur de toutes les voix et de tous les Instruments, qui sont au nombre de quarante, se joint à la Danse générale, et termine la Fête des Noces de l'Amour et de Psyché.
+Un Chœur de toutes les Voix et de tous les Instruments, qui sont au nombre de quarante, se joint à la Danse générale, et termine la Fête des Noces de l'Amour et de Psyché.
 
 
     DERNIER CHŒUR
@@ -2909,7 +2906,7 @@ Célébrons ce beau Jour
 Par mille doux chants d'allégresse,  
 Célébrons ce beau jour  
 Par mille doux chants pleins d'amour.  
-Dans le grand Salon du Palais des Tuileries, où Psyché a été représentée devant Leurs Majestés, il y avait des Timbales, des Trompettes et des Tambours, mêlés dans ces derniers Concerts ; et ce dernier couplet se chantait ainsi :
+Dans le grand Salon du Palais des Tuileries, où Psyché a été représentée devant Leurs Majestés, il y avait des Timbales, des Trompettes et des Tambours, mêlés dans ces derniers Concerts ; et ce dernier Couplet se chantait ainsi.
 
 Chantons les plaisirs charmants  
 Des heureux Amants.  
@@ -2918,12 +2915,4 @@ Timbales et tambours :
 Accordez-vous toujours  
 Avec le doux son des Musettes,  
 Accordez-vous toujours  
-Avec le doux chant des Amours.  
-
-
-# Extrait du Privilège du Roi
-
-Par Grâce & Privilège du Roi, Donné à Paris le 31. jour de Décembre, l'an de grâce 1670. Signé par le Roi en son Conseil GUITONNEAU.Il est permis à Jean-Baptiste Pocquelin de Molière, l'un des Comédiens de Sa Majesté, de faire imprimer vendre & débiter une Pièce de Théâtre, intitulée LES AMOURS DE PSYCHÉ, par tel Imprimeur ou Libraire qu'il voudra choisir, pendant le temps de dix années entières & accomplies, à compter du jour où ladite Pièce sera achevée d'imprimer pour la première fois : Et défenses sont faites à toutes Personnes, de quelque qualité et condition qu'elles soient, d'imprimer, faire imprimer, vendre, ni débiter ladite Pièce, sans le consentement de l'Exposant, ou de ceux qui auront droit de lui, à peine de six mille livres d'amende, confiscation des Exemplaires contrefaits, et de tous dépens, dommages & intérêts, ainsi que plus au long il est porté audit Privilège.
-
-Registré sur le Livre de la Communauté des Imprimeurs & Marchands Libraires de Paris, suivant l'Arrêt de la Cour de Parlement du 8. Avril 1653, aux charges & conditions portées ès présentes Lettres, fait ce 13. Mars mil six cents soixante-et-onze.
-Achevé d'imprimer pour la première fois, le 5 octobre 1671.  
+Avec le doux chant des Amours.  < FIN >

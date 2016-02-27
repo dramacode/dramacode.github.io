@@ -1,5 +1,5 @@
 ---
-identifier: l'estoile_l'intrigue  
+identifier: estoile_intrigue-filous  
 creator: L'Estoile, Claude de  
 date: 1648  
 title: L'Intrigue des filous. Comédie  
@@ -943,17 +943,17 @@ RAGONDE. BERONTE.
 Qui-va-là ?  
 
     BERONTE.
-Vostre Amy.  
+    Vostre Amy.  
 
     RAGONDE.
-Vrayment il est belle heure ;  
+        Vrayment il est belle heure ;  
 Mais que voy-je ? la crainte a mon coeur tout transy.  
 
     BERONTE.
 Je suis  
 
     RAGONDE.
-Quelque Vaut-rien, retire-toy d'icy,  
+        Quelque Vaut-rien, retire-toy d'icy,  
 Ragonde mécongnoist Beronte, & luy ferme la porte.
 
 
@@ -989,7 +989,7 @@ Qui m'a prédit qu'un jour je mourrois de trop boire.
 D'où vient donc leur colere ?  
 
     BERONTE.
-Ils sont venus tantost⁎  
+        Ils sont venus tantost⁎  
 Revoir quelques habits qu'ils m'ont mis en depost,  
 Et sans nulle raison me voulant faire accroire,  
 Que j'avois engagé de leurs hardes pour boire,  
@@ -1024,7 +1024,7 @@ Elle rentre
 
 
     BERONTE, *seul*.
-Qui s'en seroit douté ?  
+        Qui s'en seroit douté ?  
 Quelle reception ? quelle civilité ?  
 Me voila bien camus⁎ : mais quel sujet la porte  
 A refuser ainsi les hommes de ma sorte ?  
@@ -1096,13 +1096,13 @@ LUCIDOR. CLORISE. RAGONDE.
 
 
     LUCIDOR.
-O Comble de mal-heurs !  
+        O Comble de mal-heurs !  
 Puis-je chere Clorise assez verser de pleurs,  
 Regrettant le portrait de celle que j'adore ?  
 Mais comment as-tu pû le perdre ?  
 
     CLORISE.
-Je l'ignore,  
+        Je l'ignore,  
 De sa part chez Ragonde allant vous le porter,  
 Je ne sçay pas comment on a pû me l'oster.  
 
@@ -1115,7 +1115,7 @@ Mais ne voulez-vous point moderer vostre ennuy⁎?
 C'est un portraict perdu :  
 
     LUCIDOR.
-Je le suis plus que luy [101].  
+        Je le suis plus que luy [101].  
 Ce bien m'estoit promis, & ta belle Maistresse  
 Me l'envoyoit aussi pour tenir sa promesse,  
 Et consoler par là son mal-heureux Amant⁎  
@@ -1137,7 +1137,7 @@ Ha ! ne ris point du mal dont mon coeur est saisy.
 Il faut se consoler.  
 
     LUCIDOR.
-Il faut perdre la vie.  
+        Il faut perdre la vie.  
 
     CLORISE.
 Je sçay qu'à fondre en pleurs ce malheur vous convie.  
@@ -1171,7 +1171,7 @@ Vous parlez, vous marchez, qui doncques je vous prie
 Vous a resuscité ?  
 
     LUCIDOR.
-Treve de raillerie,  
+        Treve de raillerie,  
 Moy pour cacher un crime en commettre un si noir ?  
 
     CLORISE.
@@ -1201,7 +1201,7 @@ Il rentre.
 
 
     RAGONDE.
-O quels transports⁎ d'Amour !  
+        O quels transports⁎ d'Amour !  
 Mais Florinde parest.  
 
 
@@ -1210,7 +1210,7 @@ FLORINDE, CLORISE, RAGONDE.
 
 
     FLORINDE.
-J'attens vostre retour ;  
+        J'attens vostre retour ;  
 L'avez-vous veu Clorise ? a-t'il ce qu'il demande ?  
 
     CLORISE.
@@ -1266,16 +1266,16 @@ OLYMPE, FLORINDE, CLORISE, RAGONDE,
 
 
     OLYMPE.
-Vous sortez bien matin,  
+        Vous sortez bien matin,  
 Mais plus matin encor je me suis habillée,  
 Pour sçavoir qui si tost vous avoit esveillée,  
 Où courez-vous ?  
 
     FLORINDE.
-Au Temple.  
+    Au Temple.  
 
     OLYMPE.
-Et cette femme aussi ?  
+        Et cette femme aussi ?  
 
     FLORINDE.
 Afin de vous parler, elle venoit icy.  
@@ -1296,7 +1296,7 @@ De beaux Linge de Lits, ou de Tapisseries
 Non pas pour le present.  
 
     RAGONDE.
-J'ay des meubles chez moy,  
+        J'ay des meubles chez moy,  
 Capables de servir dans la chambre du Roy.  
 Mais pour les achepter je ne treuve personne,  
 Le temps est miserable, on vend moins qu'on ne donne :  
@@ -1310,7 +1310,7 @@ Je perds sans rien gaigner mes peines & mes pas.
 Hé que faites-vous donc ?  
 
     RAGONDE.
-Mais que ne fais-je pas ?  
+        Mais que ne fais-je pas ?  
 Madame je revends, je fais prester sur gages,  
 Je predis l'advenir, & fais des mariages :  
 Cherchez-vous un mary ? Je sçay bien vostre fait⁎,  
@@ -1369,7 +1369,7 @@ Pour chercher autre part quelque nouvelle proye.
     FLORINDE.
 Mes yeux sont à sçavoir comment sa main escrit [126],  
 
-    OLYMPE. 
+    OLYMPE.
 Vous devez pour jamais, l'oster de vostre esprit :  
 Mais qui croiroit qu'Amour vous eust préocupée  
 D'un homme qui n'a rien que la cappe & l'espèe [127]?  
@@ -1394,14 +1394,14 @@ Sans aucune raison souvent il me soupçonne,
 Et si de moy s'approche, ou servante, ou valet,  
 Il jure qu'en mes mains on a mis le poulet⁎.  
 
-    OLYMPE. 
+    OLYMPE.
 Plus un homme est jalous, plus son amour est forte [130],  
 Et nulle ne s'egale à celle qu'il vous porte ;  
 Il sera vostre Espoux, c'est un point arresté,  
 Rentrons.  
 
     FLORINDE.
-Dieu ! que feray-je en cette extremité ?  
+        Dieu ! que feray-je en cette extremité ?  
 Fin du premier Acte.
 
 
@@ -1449,10 +1449,10 @@ Pour bien payer le droit d'un advis amoureux,
 Monsieur,  
 
     TERSANDRE.
-Que me veux-tu ?  
+    Que me veux-tu ?  
 
-    BERONTE. 
-Que vaut-bien cét ouvrage ?  
+    BERONTE.
+        Que vaut-bien cét ouvrage ?  
 Se peindra-t'il jamais un plus gentil⁎ visage ?  
 
     TERSANDRE.
@@ -1515,7 +1515,7 @@ Avec un Vergaland⁎, tantost⁎ elle est rentrée ;
 Ils y seront encore.  
 
     TERSANDRE.
-Est-ce point mon Rival ?  
+        Est-ce point mon Rival ?  
 Tirons-nous promptement d'un doute si fatal :  
 Entrons, & là dedans le treuvant avec elle,  
 Poignardons-le à l'instant au sein de l'Infidèle.  
@@ -1633,7 +1633,7 @@ TERSANDRE, CLORISE.
 Icy prés.  
 
     TERSANDRE.
-Toute seule ? & mesme si surprise ?  
+        Toute seule ? & mesme si surprise ?  
 
     CLORISE.
 A quoy tend ce propos ? mais, ô Ciel ! qu'avez-vous ?  
@@ -1763,7 +1763,7 @@ LUCIDOR, TERSANDRE.
 Où donc, triste & resveur allez-vous seul ainsi ?  
 Vous est-il survenu quelque nouveau soucy ?  
 
-    LUCIDOR. 
+    LUCIDOR.
 On voit à tous momens quelque affaire importune  
 Survenir à qui suit l'Amour ou la Fortune.  
 
@@ -1807,10 +1807,10 @@ Mais d'un arbre si beau vous n'aurez que l'escorce.
 Si⁎ m'a-t'elle fait don ;  
 
     LUCIDOR.
-De quoy?  
+    De quoy?  
 
     TERSANDRE.
-Je suis discret,  
+        Je suis discret,  
 Un Amant⁎ doit mourir avecque son secret.  
 
     LUCIDOR.
@@ -1821,14 +1821,14 @@ Vous a peut-estre escrit au mespris de ma flame.
 Point du tout.  
 
     LUCIDOR.
-Ses cheveux semez de tant d'appas,  
+        Ses cheveux semez de tant d'appas,  
 Ainsi que vostre cœur, ont-ils lié vos bras ?  
 
     TERSANDRE.
 Encor moins.  
 
     LUCIDOR.
-Qu'est-ce donc ? cette belle farouche  
+        Qu'est-ce donc ? cette belle farouche  
 Vous fait-elle cueillir les roses de sa bouche ?  
 
     TERSANDRE.
@@ -1839,7 +1839,7 @@ Le coral de sa bouche, & l'or de ses cheveux.
 Quelle foy vous croiroit ?  
 
     TERSANDRE.
-Ce n'est point un mensonge.  
+        Ce n'est point un mensonge.  
 
     LUCIDOR.
 Peut-estre qu'en dormant vous la baisez en songe.  
@@ -1852,7 +1852,7 @@ Je puis mesme à vos yeux baiser cette beauté.
 A mes yeux !  
 
     TERSANDRE.
-A vos yeux, j'en feray la gageure,  
+        A vos yeux, j'en feray la gageure,  
 
     LUCIDOR.
 Hé ! comment la baiser si ce n'est en peinture ?  
@@ -1864,7 +1864,7 @@ Tersandre luy monstre le portrait.
 N'appartient pas à nous.  
 
     LUCIDOR.
-C'est là mon sentiment⁎;  
+        C'est là mon sentiment⁎;  
 En ce cas je le quitte [153], & croy que tout à l'aise  
 En ce petit carton vostre bouche la baise :  
 Mais encor, depuis quand avez-vous ce tableau ?  
@@ -1873,13 +1873,13 @@ Mais encor, depuis quand avez-vous ce tableau ?
 Depuis peu.  
 
     LUCIDOR.
-Mais de qui ?  
+    Mais de qui ?  
 
     TERSANDRE.
-D'elle mesme.  
+    D'elle mesme.  
 
     LUCIDOR.
-Ha ! tout beau.  
+        Ha ! tout beau.  
 
     TERSANDRE.
 Elle m'en a faict don au lever de l'Aurore.  
@@ -1954,10 +1954,10 @@ Que ce n'est que pour luy que vostre cœur souspire,
 Et qu'enfin.  
 
     FLORINDE.
-Poursuivez.  
+    Poursuivez.  
 
     TERSANDRE.
-Que selon son desir,  
+        Que selon son desir,  
 Chez une Revendeuse il vous voit à loisir.  
 Ayant de vostre amour tous les jours quelques gages.  
 
@@ -1965,7 +1965,7 @@ Ayant de vostre amour tous les jours quelques gages.
 Luy faire ce mensonge !  
 
     TERSANDRE.
-Il fait bien d'avantage,  
+        Il fait bien d'avantage,  
 Il monstre vos faveurs⁎, mais je n'ay pû souffrir⁎,  
 Que jusques à mes yeux il ozast les offrir.  
 Ma main a de la sienne avecque violence,  
@@ -1977,7 +1977,7 @@ Il l'a fait quelque part tirer à mon deceu [159]:
 Mais redonnez-le moy, de crainte qu'à ma honte  
 Quelqu'un vous le voyant n'en fasse un mauvais conte.  
 
-    TERSANDRE. 
+    TERSANDRE.
 Mes yeux l'admireront, mon cœur l'adorera,  
 Mais fors⁎ moy seulement aucun ne le verra.  
 
@@ -1985,7 +1985,7 @@ Mais fors⁎ moy seulement aucun ne le verra.
 Quoy vous me refusez ?  
 
     TERSANDRE.
-Dieu quelle est vostre envie !  
+        Dieu quelle est vostre envie !  
 Demandez-moy plutost jusqu'à ma propre vie.  
 
     FLORINDE.
@@ -2046,7 +2046,7 @@ Que jamais de sa part je n'en veux recevoir ;
 Il monstre mes faveurs⁎, il en prend adavantage,  
 Et j'en ay de Tersandre un certain tesmoignage,  
 
-    RAGONDE. 
+    RAGONDE.
 O le plaisant tesmoin qu'un Rival si jalous !  
 Il a des visions, il est au rang des fous.  
 Vous le dites vous-mesme, & son extravagance  
@@ -2088,7 +2088,7 @@ Que de n'avoir jamais ny d'Amant⁎ ny d'Espoux.
 Mais encor,  
 
     FLORINDE.
-Brisons là ; tout ce que je souhaitte  
+        Brisons là ; tout ce que je souhaitte  
 N'est que de me vanger pour mourir satisfaitte,  
 Ne l'excusez donc point, & courez le trouver,  
 Ce méchant, qui du Ciel doit la foudre esprouver ;  
@@ -2099,10 +2099,10 @@ De l'amener ce soir, & qu'il me les rapporte.
 Madame,  
 
     FLORINDE.
-Je le veux.  
+    Je le veux.  
 
     RAGONDE.
-J'y vay donc de ce pas.  
+        J'y vay donc de ce pas.  
 
     FLORINDE.
 Mais dites luy qu'il vienne, & qu'il n'y manque pas,  
@@ -2111,7 +2111,7 @@ Mais dites luy qu'il vienne, & qu'il n'y manque pas,
 C'est assez dit.  
 
     FLORINDE.
-Sur tout vous luy ferez promettre,  
+        Sur tout vous luy ferez promettre,  
 Qu'il me rapportera jusqu'à la moindre lettre,  
 Je veux rompre avec luy pour ne plus renouër.  
 
@@ -2187,7 +2187,7 @@ Il suffit que je livre, apres que j'ay vendu.
 L'eau ne m'en desplaist pas,  
 
     RAGONDE.
-Nulle autre n'en approche ;  
+        Nulle autre n'en approche ;  
 Voyez il ne faut point achepter chat en poche [172]:  
 Regardez-les partout, c'est un marché donné ;  
 Mais quoy, je ne vends rien, je n'ay pas estrené [173];  
@@ -2201,7 +2201,7 @@ Qui choisit prend le pire, & qui barguigne⁎ tant,
 En a tousjours plus cher,  
 
     OLYMPE.
-Je paye argent contant,  
+        Je paye argent contant,  
 
     RAGONDE.
 On ne fait plus credit de quoy que l'on achèpte,  
@@ -2234,8 +2234,8 @@ Je ne sçay qui me tient.
 Elle r'entre.
 
 
-    RAGONDE, *seule*. 
-Je l'ay belle eschappee,  
+    RAGONDE, *seule*.
+        Je l'ay belle eschappee,  
 Mais je veux bien mourir si j'y suis ratrappee ;  
 Je n'ay membre sur moy qui de peur n'ayt tremblé,  
 Et mon esprit encore en est comme troublé ;  
@@ -2249,7 +2249,7 @@ RAGONDE, BERONTE.
 
 
     BERONTE.
-Je suis un vray longis⁎,  
+        Je suis un vray longis⁎,  
 D'estre encore à courir jusqu'à vostre logis ;  
 Mais j'allois pour m'y rendre, afin d'obtenir grace,  
 Et puis avecque vous trinquer⁎ à pleine tasse.  
@@ -2301,7 +2301,7 @@ TERSANDRE. BERONTE.
 
 
     TERSANDRE.
-Enfin je te retreuve  
+        Enfin je te retreuve  
 Et de ce bras vangeur tu vas faire l'espreuve ;  
 Ouy je te tiens, perfide, & tu m'esclairciras,  
 Ou de cent coups d'espée à l'instant tu mourras,  
@@ -2311,7 +2311,7 @@ Parle, qui t'a donné ce portrait adorable ?
 Le hazard.  
 
     TERSANDRE.
-Le hazard ! qui t'a donc, miserable,  
+        Le hazard ! qui t'a donc, miserable,  
 Fait feindre qu'elle mesme avoit mis en tes mains,  
 Un ouvrage à charmer tous les yeux des humains ?  
 
@@ -2319,14 +2319,14 @@ Un ouvrage à charmer tous les yeux des humains ?
 La faim,  
 
     TERSANDRE.
-Comment la faim ?  
+    Comment la faim ?  
 
     BERONTE.
-N'ayant plus de quoy frire [192],  
+        N'ayant plus de quoy frire [192],  
 J'ay tasché d'en r'avoir.  
 
     TERSANDRE.
-Qu'est-ce que tu veux dire ?  
+        Qu'est-ce que tu veux dire ?  
 
     BERONTE.
 J'ay treuvé son portrait, je ne la cognois pas.  
@@ -2336,12 +2336,12 @@ Mais chez la Revendeuse elle a porté ses pas,
 Avec un Vergalant,  
 
     BERONTE.
-C'est chose que j'ay veuë,  
+        C'est chose que j'ay veuë,  
 
     TERSANDRE.
 Hé ! de quelle façon estoit-elle vestuë ?  
 
-    BERONTE. 
+    BERONTE.
 Ravy de ses appas, Monsieur, j'ay seulement,  
 Comtemplé le visage, & non l'habillement,  
 
@@ -2349,16 +2349,16 @@ Comtemplé le visage, & non l'habillement,
 Qu'est-cecy ?  
 
     BERONTE.
-Toutesfois cette jeune merveille,  
+        Toutesfois cette jeune merveille,  
 Avoit, comme je croy, le bouquet sur l'oreille [193],  
 Sans doute, elle est a vendre :  
 
     TERSANDRE.
-Elle n'en met jamais,  
+        Elle n'en met jamais,  
 Ne sçais-tu rien de plus,  
 
     BERONTE.
-Non, je vous le promets :  
+        Non, je vous le promets :  
 Si ce n'est que mon nez, m'a dit entre autre chose,  
 Qu'elle porte des gans qui sentent comme rose.  
 
@@ -2376,7 +2376,7 @@ Et chasses loin de moy cette aveugle fureur,
 Enfin je voy Beronte.  
 
     BERONTE.
-Hé Dieu ! voy-je Tersandre ?  
+        Hé Dieu ! voy-je Tersandre ?  
 Quoy mon Maistre, est-ce vous ? on m'avoit fait entendre,  
 Que vous aviez en Greve [194] esté roüé⁎ tout vif.  
 
@@ -2422,7 +2422,7 @@ On me luy vid donner mille coups par derriere.
     TERSANDRE.
 Donc apres qu'il fut mort tu luy fis bien du mal ?  
 
-    BERONTE. 
+    BERONTE.
 Aux Trigaux [200] comme luy mon courage est fatal.  
 
     TERSANDRE.
@@ -2438,7 +2438,7 @@ Par trois ou quatre trous qu'ils m'ont faicts à la teste.
 Je les quitterois⁎-là.  
 
     BERONTE.
-C'est à quoy je m'appreste,  
+        C'est à quoy je m'appreste,  
 Je n'ay que trop servy ces trois Diables d'Enfer,  
 Le Balafré, le Borgne, avec le Bras-de-fer :  
 Mais qui [201] vous rend chagrin ? si mon oeil ne void trouble,  
@@ -2450,7 +2450,7 @@ Je suis dans un malheur seul comparable à soy.
 J'ayme.  
 
     BERONTE.
-Hé bien ! vous aymez, c'est chose assez commune.  
+        Hé bien ! vous aymez, c'est chose assez commune.  
 
     TERSANDRE.
 Mais on ne m'ayme point, un Rival m'importune,  
@@ -2473,17 +2473,17 @@ La beauté vaut beaucoup, mais l'argent vaut bien mieux,
 En a t'elle ?  
 
     TERSANDRE.
-Son pere estoit un homme chiche,  
+        Son pere estoit un homme chiche,  
 Et qui, dans les partis [204], comme un Juif, s'est faict riche.  
 
     BERONTE.
 Comment l'appellez-vous ?  
 
     TERSANDRE.
-Almir.  
+    Almir.  
 
     BERONTE.
-Quoy, ce Maraut,  
+        Quoy, ce Maraut,  
 Qui seul a faict monter le vin à prix si haut ?  
 Quoy ce Monopoleur, dont l'art diabolique  
 A retranché le quart de la liqueur Bachique ?  
@@ -2496,7 +2496,7 @@ Pour avoir mis impost sur le jus de la Treille.
 Tay toy.  
 
     BERONTE.
-C'est un secret que je ne puis celer,  
+        C'est un secret que je ne puis celer,  
 Une juste douleur me force de parler.  
 Je ne boy presque plus que vinaigre & qu'absinthe,  
 De simple ripopé [207] vaut cinq & six sous pinte.  
@@ -2507,14 +2507,14 @@ Souvent avec sa soif se couche comme moy.
 C'est trop.  
 
     BERONTE.
-Vostre Rival, est-il plus honneste homme ?  
+        Vostre Rival, est-il plus honneste homme ?  
 Apprenons ce qu'il est, & comment il se nomme.  
 
     TERSANDRE.
 Son nom est Lucidor.  
 
     BERONTE.
-Quoy luy vostre Rival ?  
+        Quoy luy vostre Rival ?  
 Je crains, non sans raison, qu'il ne vous traitte mal :  
 Je connois sa valeur, c'estoit mon Capitaine,  
 Quand sur les bords du Rhin, j'ai souffert tant de peine :  
@@ -2525,7 +2525,7 @@ Nous avons veu Galas [208], & l'avons bien galé [209].
 Est-il donc si vaillant ?  
 
     BERONTE.
-Mes yeux l'ont veu combattre,  
+        Mes yeux l'ont veu combattre,  
 Et contre l'Ennemy faire le diable à quatre [210]:  
 J'estime ce Guerrier, mais je ne l'ayme pas ;  
 Et je voudrois desja qu'il eust passé le pas [211],  
@@ -2536,7 +2536,7 @@ Et mis honteusement hors de sa compagnie.
 Hé ! la raison ?  
 
     BERONTE.
-Un jour il creut prendre sans vert [212]  
+        Un jour il creut prendre sans vert [212]  
 Ce brusleur de Maisons [213], ce fameux Jean de Vert [214]:  
 Mais nous perdismes temps, & peine à le poursuivre,  
 Il s'eschappa de nous, encore qu'il fust ivre.  
@@ -2545,7 +2545,7 @@ Il s'eschappa de nous, encore qu'il fust ivre.
 Hé ! comment fit-il donc ?  
 
     BERONTE.
-Disons tout aujourd'huy,  
+        Disons tout aujourd'huy,  
 C'est que mes compagnons estoient plus saouls que luy,  
 Et qu'estant estourdis d'avoir trop fait desbauche,  
 Ils le suivoient à droit, lors qu'il fuyoit à gauche.  
@@ -2565,7 +2565,7 @@ Ainsi tu vangera ta querelle & la mienne,
 Je viens l'attendre icy.  
 
     BERONTE.
-J'enrage qu'il n'y vienne,  
+        J'enrage qu'il n'y vienne,  
 Son trespas est certain ; nous avons bien tous deux,  
 Fait ensemble autresfois des coups plus hazardeux,  
 Combien ayant pour vous ma valeur occupée,  
@@ -2606,18 +2606,18 @@ Tersandre se deboutonne, & fait voir à Lucidor le portrait de Florinde sur sa c
 La voilà.  
 
     LUCIDOR.
-Je seray bien-tost victorieux [217].  
+        Je seray bien-tost victorieux [217].  
 Quoy que vous m'ayez mis le Soleil dans les yeux.  
 
     TERSANDRE.
 Qui vous !  
 
     LUCIDOR.
-N'en doutez point, ouy selon mon envie,  
+        N'en doutez point, ouy selon mon envie,  
 Vous rendrez le portraict, ou vous mourrez.  
 
     TERSANDRE.
-La vie [218].  
+        La vie [218].  
 
     LUCIDOR.
 Hé bien, je vous la laisse, & vostre espée encor,  
@@ -2638,7 +2638,7 @@ Holà-ho ?
     BERONTE.
 Beronte s'estant endormi dans un coin se reveille en sursaut.
 
-Qui-va-là ? J'y suis ; mon harquebuse ?  
+        Qui-va-là ? J'y suis ; mon harquebuse ?  
 Où sont les Ennemis ? courons faut-il donner⁎?  
 Vous verrez si jamais on peut mieux assener⁎,  
 
@@ -2666,7 +2666,7 @@ Si ce ne seroit fait [222] de ce Diable incarné.
 Suy-moy, traistre, suy-moy.  
 
     BERONTE.
-Dieu ! prenez ma deffense.  
+        Dieu ! prenez ma deffense.  
 
     TERSANDRE. 
 Mille coups de baston puniront ton offense.  
@@ -2732,16 +2732,16 @@ LUCIDOR, RAGONDE.
 
 
     LUCIDOR.
-Qu'est-ce qui te r'amene ?  
+        Qu'est-ce qui te r'amene ?  
 
     RAGONDE.
 Je tremble.  
 
     LUCIDOR.
-Qu'as-tu donc ?  
+    Qu'as-tu donc ?  
 
     RAGONDE.
-Trois grands Tireurs-de-laine [227]  
+        Trois grands Tireurs-de-laine [227]  
 Sont au guet à cette heure, & jette dans ces lieux,  
 La main sur les passans aussi-tost que les yeux ;  
 Je les viens d'entrevoir, et prenant l'espouvante,  
@@ -2777,28 +2777,28 @@ Est-il transport⁎ d'Amour qui le vostre surpasse ?
 Mais c'est trop m'amuser⁎.  
 
     LUCIDOR.
-Que dira-t'elle, helas ?  
+        Que dira-t'elle, helas ?  
 Revien,  
 
     RAGONDE.
-Que voulez-vous ?  
+    Que voulez-vous ?  
 
     LUCIDOR.
-Rien, rien, poursuy tes pas,  
+        Rien, rien, poursuy tes pas,  
 
     RAGONDE.
 Adieu donc.  
 
     LUCIDOR.
-Toutesfois, encore une parolle.  
+        Toutesfois, encore une parolle.  
 A quoy me résoudray-je ?  
 
     RAGONDE.
-O demande frivole !  
+        O demande frivole !  
 Il luy faut obeir.  
 
     LUCIDOR.
-O trop injuste sort.  
+        O trop injuste sort.  
 Faut-il que ce portrait soit cause de ma mort ?  
 Clorise l'a perdue par trop de negligence,  
 Et cependant moy seul j'en fais la penitence,  
@@ -2862,17 +2862,17 @@ Ce que je n'avois pas, pouvoit-il me le prendre ?
 Helas !  
 
     FLORINDE.
-Expliquez-vous, sans faire l'estonné.  
+        Expliquez-vous, sans faire l'estonné.  
 De ma part ce matin vous l'a-t'on pas donné ?  
 Quoy vous ne l'aviez pas ? qu'en dites-vous Clorise ?  
 Vous changez de visage, & paroissez surprise ;  
 D'où vient ce changement ? parlez.  
 
      CLORISE.
-Madame.  
+    Madame.  
 
     FLORINDE.
-Hé bien,  
+        Hé bien,  
 Vous en demeurez-là ! vous ne dites plus rien.  
 
     RAGONDE.
@@ -2899,7 +2899,7 @@ Mon silence a causé vostre commun martyre.
 Dieu ! que me dites-vous ?  
 
     CLORISE.
-Je vous parle sans fard.  
+        Je vous parle sans fard.  
 
     FLORINDE.
 Tersandre l'avoit donc rencontré par hazard ?  
@@ -2922,7 +2922,7 @@ Ne peut-on surmonter la force par l'adresse ?
 Si vous m'aimez,  
 
     FLORINDE.
-Quel si ! pouvez-vous en douter ?  
+        Quel si ! pouvez-vous en douter ?  
 
     LUCIDOR.
 À la faveur de l'ombre il nous faut absenter,  
@@ -2937,12 +2937,12 @@ En ce pressant besoin⁎ doit-on la rejetter ?
 Sauvez-vous, sauvez-moy,  
 
     FLORINDE.
-Sauvez ma renommée,  
+        Sauvez ma renommée,  
 Voulez-vous pour jamais me rendre diffamée ?  
 Ha ! vous ne m'aimez point.  
 
     LUCIDOR.
-Ha ! si vous pouviez voir,  
+        Ha ! si vous pouviez voir,  
 Ces Esprits⁎ qui me font & parler & mouvoir,  
 Vous verriez vostre image au plus beau de mon ame,  
 Et seriés esbloüye, à l'esclat de ma flame⁎.  
@@ -2954,7 +2954,7 @@ Mais vous suivre en cent lieux comme une vagabonde !
 Que diroit-on de moy ?  
 
     LUCIDOR.
-Laissez parler le monde,  
+        Laissez parler le monde,  
 Et rendez-vous heureuse en me rendant heureux,  
 
     FLORINDE.
@@ -3060,13 +3060,13 @@ Elle rentre.
 
 
     RAGONDE.
-Dieu ! ce sont ces Filous,  
+        Dieu ! ce sont ces Filous,  
 
     LUCIDOR
 Ne crains rien.  
 
     RAGONDE
-Hé ! tout beau, rengainez, sauvons-nous.  
+        Hé ! tout beau, rengainez, sauvons-nous.  
 
 
 ### SCENE QUATRIESME.
@@ -3078,7 +3078,7 @@ Quel bruit chers compagnons a frappé nos oreilles ?
 Tandis qu'ainsi tous trois nous beyons aux Corneilles [241],  
 Ce maudit Receleur pourroit bien battre aux champs [242],  
 
-    LE BORGNE. 
+    LE BORGNE.
 Ce Coquin a bon nez, il prendra mieux son temps ;  
 Et peut-estre desja sentant nostre partie⁎,  
 Il a fait en secret un bransle de sortie [243].  
@@ -3102,7 +3102,7 @@ Changeons la bierre en vin, & la menestre [249]en bisque ;
 Mais garde le Prevost [250],  
 
     LE BRAS-DE-FER
-Nous courons peu de risque,  
+        Nous courons peu de risque,  
 Cet homme environné de Chevaliers errans,  
 Prend les petits voleurs, & laisse aller les grands,  
 Mais quand il me prendroit ? si ma faute est punie,  
@@ -3120,7 +3120,7 @@ Silence, Compagnons, quelqu'un marche là bas.
 Suivons-le.  
 
     LE BORGNE.
-Ne bougez, il dresse icy ses pas.  
+        Ne bougez, il dresse icy ses pas.  
 
     LE BRAS-DE-FER.
 Il nous voit, il s'enfuit, attrapons-le à la course.  
@@ -3132,15 +3132,15 @@ Je le tiens, peu s'en faut, rends la vie, ou la bourse.
 Là voilà.  
 
     LE BALAFRÉ.
-Quelle est platte ! elle est vide, es-tu fou ?  
+        Quelle est platte ! elle est vide, es-tu fou ?  
 Tu portes une bourse, & ny mets pas un sou,  
 Ça le manteau.  
 
     BERONTE.
-Prenez-le,  
+    Prenez-le,  
 
     LE BALAFRÉ.
-Il ne vaut pas le prendre,  
+        Il ne vaut pas le prendre,  
 Porter du camelot [251]! il gele à pierre fendre ;  
 Voila bien se mocquer de l'Hyver & de nous,  
 
@@ -3173,7 +3173,7 @@ Je veux vous enseigner un monde de richesse,
 Voyez-vous ce logis.  
 
     LE BALAFRÉ.
-N'avons-nous pas des yeux ?  
+        N'avons-nous pas des yeux ?  
 
     BERONTE.
 Il ne s'y treuve rien qui ne soit precieux,  
@@ -3232,7 +3232,7 @@ Puisse mon luminaire estre estein tout à fait [257],
 Si pour y voler tout je ne fais l'impossible,  
 Y d'eussay-je estre pris, & perce comme un crible.  
 
-    LE BRAS-DE-FER. 
+    LE BRAS-DE-FER.
 Et pour ce Bras-de-fer, puissay-je en avoir deux,  
 Si je ne suis encor plus que vous hazardeux⁎.  
 
@@ -3273,12 +3273,12 @@ LE BRAS-DE-FER. LE BORGNE.
 Viennent-ils ?  
 
     LE BORGNE.
-Nullement.  
+    Nullement.  
 Le borgne regarde si ses compagnons ne reviennent point.
 
 
     LE BRAS-DE-FER.
-Qu'est-ce qui les arreste ?  
+        Qu'est-ce qui les arreste ?  
 
     LE BORGNE.
 Ils s'amusent⁎ peut-estre à trinquer teste à teste,  
@@ -3311,7 +3311,7 @@ De leur retardement c'est la cause certaine,
 Mais on a cent decrets contre ce Balafré,  
 Et les Archers du Guet l'ont peut-estre coffré.  
 
-    LE BORGNE. 
+    LE BORGNE.
 S'il est pris je le plains il faudra qu'il en meure,  
 
     LE BRAS-DE-FER.
@@ -3351,7 +3351,7 @@ Regarde d'un oeil sec son destin terminer,
 C'est vostre opinion,  
 
     LE BRAS-DE-FER.
-Que vostre ame est craintive !  
+        Que vostre ame est craintive !  
 La mort est tousjours mort, quelque part qu'elle arrive ;  
 Et qui finit ses jours couché bien mollement,  
 Entre les draps d'un lict paré superbement ;  
@@ -3367,12 +3367,12 @@ LE BALAFRÉ, BERONTE, LE BRAS-DE-FER, LE BORGNE.
 
 
     LE BRAS-DE-FER.
-Doublez doublez le pas,  
+        Doublez doublez le pas,  
 Falloit-il si long-temps estre à fripper [261] les plats ?  
 Dix heures ont frappé,  
 
     BERONTE.
-Je croy qu'il en est onze,  
+        Je croy qu'il en est onze,  
 Mais à peine estions-nous prés du Cheval de bronze,  
 Que le Guet a passé tenant deux grands Filous,  
 Que nos yeux effroyez ont d'abord pris pour vous ;  
@@ -3383,13 +3383,13 @@ La rencontre est fascheuse & de mauvais presage.
 Mais il est desja tard,  
 
     LE BORGNE.
-Ne parlez pas si haut.  
+        Ne parlez pas si haut.  
 
     LE BRAS-DE-FER.
 Nos engins⁎ sont-ils prests ?  
 
     BERONTE.
-Voicy tout ce qu'il faut,  
+        Voicy tout ce qu'il faut,  
 Crochets, passe-par tout, lime sourde, tenaille,  
 Et tant d'autres outils dont [262] nostre main travaille.  
 
@@ -3401,7 +3401,7 @@ L'avez-vous apporté ? ne nous manque-t'il rien ?
 Tout est prest.  
 
     LE BRAS-DE-FER.
-C'est assez, allons, la nuict s'avance ;  
+        C'est assez, allons, la nuict s'avance ;  
 
     BERONTE.
 J'ay dans la Gibeciere un outil d'importance,  
@@ -3416,7 +3416,7 @@ Ne s'éveilleront pas tant qu'elles brusleront ;
 Hé ! s'ils sont éveillez ?  
 
     BERONTE.
-Ils nous verrons tout prendre,  
+        Ils nous verrons tout prendre,  
 Sans pourvoir ny parler, ny mesme se deffendre.  
 
     LE BRAS-DE-FER.
@@ -3430,7 +3430,7 @@ Mais si par un mal-heur nous sommes apperceus,
 Que faire ?  
 
     LE BALAFRÉ.
-On ne doit point consulter là-dessus,  
+        On ne doit point consulter là-dessus,  
 Il faut que nostre main au carnage occupée,  
 Passe indifferemment tout au fil de l'espée.  
 
@@ -3475,7 +3475,7 @@ De clartez & d'outils nostre adresse a besoin.
 Seray-je icy tout seul !  
 
     LE BALAFRÉ.
-Nous n'en serons pas loin,  
+        Nous n'en serons pas loin,  
 Prestez l'oreille au bruit, faites la sentinelle,  
 Et si l'on vous descouvre enfilez la venelle [266];  
 
@@ -3562,7 +3562,7 @@ Et nul que Lucidor ne me preste main forte :
 Ma maison est perduë.  
 
     RAGONDE.
-Il se bat comme il faut,  
+        Il se bat comme il faut,  
 Et seul à ces Coquins fera gaigner le haut [272],  
 Mais le voicy.  
 
@@ -3572,20 +3572,20 @@ LUCIDOR, OLYMPE, RAGONDE, BERONTE, caché.
 
 
     LUCIDOR.
-Madame, ils ont tous fait retraitte,  
+        Madame, ils ont tous fait retraitte,  
 Apres s'estre sauvez par la porte secrete ;  
 Mais qui vois-je à ce coin ?  
 
     BERONTE *caché*.
-Dieu ! je tremble d'effroy,  
+        Dieu ! je tremble d'effroy,  
 Fends-toy par la moitié, muraille cache-moy,  
 
-    OLYMPE. 
+    OLYMPE.
 C'est un Voleur, prenez-le, il faut qu'il rende l'ame,  
 Entre mille tourmens.  
 
     BERONTE.
-Grace, grace, Madame  
+        Grace, grace, Madame  
 Et je vous sauveray l'honneur avec le bien.  
 
     OLYMPE.
@@ -3630,7 +3630,7 @@ Quoy ce n'est pas bon or ? ô grand Dieu quelle bourde⁎!
 Et ce gros diament.  
 
     BERONTE.
-C'est une happelourde⁎,  
+        C'est une happelourde⁎,  
 Je l'ay veu travailler, je l'ay servy vingt mois,  
 Et je sçay les bons tours qu'il a faits mille fois.  
 
@@ -3643,11 +3643,11 @@ Je croy qu'au Roy d'Espagne elles ont cousté peu,
 A faire fabriquer.  
 
     OLYMPE.
-Desnouë, ou romps ce nœu,  
+        Desnouë, ou romps ce nœu,  
 Est-il faux Monnoyeur ?  
 
     BERONTE.
-Il n'a point de semblable,  
+        Il n'a point de semblable,  
 Pour fondre les metaux, ny pour jetter en sable [276].  
 
     OLYMPE.
@@ -3662,7 +3662,7 @@ Par les trompeurs appas d'une feinte richesse.
 Dieu quel Maistre Gonin [277]!  
 
     BERONTE.
-Il fait bien d'autres coups,  
+        Il fait bien d'autres coups,  
 Mais je croirois plutost qu'il les cacha chez-vous,  
 De crainte que le temps descouvrant toutes choses,  
 Ne vint à descouvrir chez-luy le pot aux roses [278];  
@@ -3673,7 +3673,7 @@ Ne le fist malgré luy changer de logement.
 Il s'en faut esclaircir.  
 
     OLYMPE.
-Je n'ay point d'autre envie,  
+        Je n'ay point d'autre envie,  
 Si ton rapport est vray, je te donne la vie ;  
 Mais s'il est faux aussi tu sera maltraitté,  
 Entrons visitons tout.  
@@ -3681,7 +3681,7 @@ Elle rentre.
 
 
     LUCIDOR.
-Dis-tu la verité  
+        Dis-tu la verité  
 Mais ne t'ay-je pas veu sous moy porter les armes ?  
 Ouy c'est toy qui tremblois aux premieres allarmes,  
 Lucidor recognoist Beronte.
@@ -3692,11 +3692,11 @@ Tu vivois en pourceau, tousjours la panse pleine :
 Mais tu veux t'eschapper, Maraut,  
 
     BERONTE.
-Mon Capitaine,  
+        Mon Capitaine,  
 Me tiendra-t'on promesse ?  
 
     LUCIDOR.
-Ouy, si tu ne ments point.  
+        Ouy, si tu ne ments point.  
 
     BERONTE.
 Que puissent vos Goujats⁎ m'oster gregue⁎ & pourpoint,  
@@ -3735,11 +3735,11 @@ Ce sont Voleurs, Monsieur, qu'on cherche par la Ville,
 Vous sont-ils point cognus ?  
 
     TERSANDRE.
-La demande est civile,  
+        La demande est civile,  
 A qui crois-tu parler ?  
 
     RAGONDE.
-A qui je ne dois rien.  
+        A qui je ne dois rien.  
 A qui me cognoist mal, & que je cognois bien.  
 A qui doit s'en aller vendre ailleurs ses coquilles,  
 A qui croit que je sois Revendeuse de filles.  
@@ -3760,7 +3760,7 @@ Je vous dirois bien-tost vostre bonne-Fortune.
 Cognois-tu l'advenir ?  
 
     RAGONDE.
-Ouy, mieux que le passé,  
+        Ouy, mieux que le passé,  
 D'un bizarre trespas vous estes menacè,  
 Et vous mourrez en l'air faisant la capriole [287].  
 
@@ -3783,7 +3783,7 @@ De chausser des souliers qui soient sans ponlevis [291].
 Qui dit cette Insensée ?  
 
     RAGONDE.
-On sçait de vos affaires,  
+        On sçait de vos affaires,  
 Les feintes maintenant vous sont peu necessaires.  
 
     TERSANDRE.
@@ -3800,10 +3800,10 @@ N'oubliez rien enfin sinon à dire adieu.
 Moy ?  
 
     RAGONDE.
-Vous mesme.  
+    Vous mesme.  
 
     TERSANDRE.
-Hé ! qui donc t'a conté cette Fable ?  
+        Hé ! qui donc t'a conté cette Fable ?  
 
     RAGONDE.
 Celuy mesme qui vient.  
@@ -3814,7 +3814,7 @@ TESANDRE. RAGONDE. BERONTE.
 
 
     TERSANDRE.
-Qu'as-tu dis Miserable ?  
+        Qu'as-tu dis Miserable ?  
 
     BERONTE.
 Mais vous qu'avez vous fait, m'ayant si mal traitté ?  
@@ -3838,14 +3838,14 @@ Qu'un colier trop estroit eust sans doute ravie.
 Ha perfide !  
 
     RAGONDE.
-Tout beau, soyez moins Furibon [294],  
+        Tout beau, soyez moins Furibon [294],  
 Estant seul contre deux vous n'auriez pas du bon.  
 
     TERSANDRE.
 Il mourra ; l'Imposteur,  
 
     BERONTE.
-Rengainez je vous prie,  
+        Rengainez je vous prie,  
 Ou je me jetteray sur vostre fripperie [295],  
 Vous feray sous ma main passer & repasser,  
 Et jamais Violon ne vous fit mieux danser.  
@@ -3857,7 +3857,7 @@ Hé ! je puis d'un valet endurer cet outrage ?
 Adieu Monsieur l'Escroc.  
 
     BERONTE.
-Adieu, devenez sage.  
+        Adieu, devenez sage.  
 
     TERSANDRE.
 Je deviendray Bourreau, pour te rompre le cou.  
@@ -3872,15 +3872,15 @@ Ha Dieu quel coup de poing ! je voy mille chandelles.
 Au voleur.  
 
     BERONTE.
-Au secours.  
+    Au secours.  
 
     TERSANDRE.
-Fuyons.  
+    Fuyons.  
 Il s'enfuit.
 
 
-    BERONTE. 
-Il a des aisles.  
+    BERONTE.
+        Il a des aisles.  
 
 
 ### SCENE DERNIERE.
@@ -3917,7 +3917,7 @@ Que Florinde jamais n'aura que Lucidor.
 O charmante promesse !  
 
     FLORINDE
-O faveur non commune !  
+        O faveur non commune !  
 
     OLYMPE
 Allez vous reposer, benissez la Fortune  

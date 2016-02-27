@@ -1,5 +1,5 @@
 ---
-identifier: ouville_jodelet  
+identifier: ouville_jodelet-astrologue  
 creator: Ouville, Antoine d'  
 date: 1646  
 title: Jodelet astrologue. Comédie  
@@ -1049,7 +1049,7 @@ Enfin, je ne sçaurois vous quitter qu'à regret.
 Mais quoy vous me perdrez⁎.  
 
     TINDARE.
-Eh de grace, Madame,  
+        Eh de grace, Madame,  
 Pensez qu'en vous quittant j'abandonne mon ame,  
 Me voulez-vous, grands Dieux ! reduire au desespoir ?  
 
@@ -1059,7 +1059,7 @@ Mais si vous faites cas [29] de mon amour extresme,
 Venez-y sans tesmoins.  
 
     TINDARE.
-J'y viendray sans moy-mesme,  
+        J'y viendray sans moy-mesme,  
 N'en doutez nullement, car l'heur⁎ que je reçoy  
 Fait que dés à present je suis tout hors de moy.  
 Mais ne soyez point tant de vos faveurs avare.  
@@ -1233,11 +1233,11 @@ Sans vouloir en Amour introduire une loy
 Nouvelle, et ridicule ? [47]  
 
     LILIANE.
-Impudente tay [48] toy.  
+        Impudente tay [48] toy.  
 Mais quelqu'un entre icy.  
 
     NISE.
-Madame, c'est Timandre.  
+        Madame, c'est Timandre.  
 
 
 ### SCENE III.
@@ -1299,11 +1299,11 @@ Je ne vous puis souffrir⁎, cent fois je vous l'ay dit,
 Et vous le dis encor.  
 
     TIMANDRE.
-Ah ! Madame, de grace  
+        Ah ! Madame, de grace  
 Ayez pitié de moy.  
 
     LILIANE.
-Je vous quitte la place [55],  
+        Je vous quitte la place [55],  
 C'est trop m'importuner, je vous laisse en ce lieu  
 En vous disant, Timandre, un eternel Adieu.  
 Vous prenez du plaisir à me mettre en colere.  
@@ -1341,7 +1341,7 @@ La cruelle me traitte avec trop de rigueur.
 Mais, Nise, en sçais-tu point la cause ?  
 
     NISE.
-Non, Monsieur.  
+        Non, Monsieur.  
 Elle traite un chacun de mesme indifference,  
 Et ne donne à pas un plus qu'à vous d'esperance.  
 
@@ -1357,7 +1357,7 @@ Que ses soins⁎ ont esté pour moy sans recompense,
 Cette chaine est à toy.  
 
     NISE.
-Je vois en verité  
+        Je vois en verité  
 Que vous estes, Monsieur, en pleine liberté.  
 Mais en sortant des fers de celle qui vous brave⁎,  
 Vous m'enchainez, Monsieur, et me rendez esclave.  
@@ -1386,7 +1386,7 @@ ET bien, Nise, feray-je ainsi que fait mon Maistre ?
 Te quitteray-je aussi ?  
 
     NISE.
-Serois-tu bien si traistre ?  
+        Serois-tu bien si traistre ?  
 T'obligeay-je à me faire un si perfide tour ?  
 Et ne te rens-je pas un reciproque Amour ?  
 Qui t'oblige à me faire ici cette bravade [57] ?  
@@ -1431,17 +1431,17 @@ Mais quoy, c'est un secret de trop grande importance.
 Je ne le sçauray point ?  
 
     NISE.
-Non.  
+    Non.  
 
     JODELET.
-As-tu l'asseurance [59]  
+        As-tu l'asseurance [59]  
 De me parler ainsi ? tu m'aymes ?  
 
     NISE.
-Oüy.  
+    Oüy.  
 
     JODELET.
-Tu ments.  
+        Tu ments.  
 
     NISE.
 Veux-tu que je t'en fasse ici mille serments ?  
@@ -1453,32 +1453,32 @@ A quoy bon si tu crains de me dire une chose ?
 Ne m'importune point.  
 
     JODELET.
-Dy le moy donc.  
+    Dy le moy donc.  
 
     NISE.
-Je n'ose.  
+        Je n'ose.  
 J'aymerois mieux mourir, car j'ay juré ma foy⁎  
 De n'en parler jamais.  
 
     JODELET.
-Va, va, Nise, tay-toy,  
+        Va, va, Nise, tay-toy,  
 Je la sçauray, je gage.  
 
     NISE.
-Encor de quelle sorte ?  
+        Encor de quelle sorte ?  
 
     JODELET.
 N'és-tu pas femme ?  
 
     NISE.
-Non, je suis fille [60].  
+    Non, je suis fille [60].  
 
     JODELET.
-Qu'importe ?  
+        Qu'importe ?  
 Sers⁎-tu pas.  
 
     NISE.
-Oüy je sers⁎, quoy qu'à mon grand regret.  
+        Oüy je sers⁎, quoy qu'à mon grand regret.  
 
     JODELET.
 Et tu pourrois, dy-moy, me celer⁎ un secret ?  
@@ -1496,7 +1496,7 @@ Puis que tu fais paroistre en avoir peu d'envie
 Tu ne le sçauras point.  
 
     JODELET.
-Je ne vis en ma vie  
+        Je ne vis en ma vie  
 Tant aller ny venir, parle, depesche-toy,  
 Voudrois-tu bien ici te deffier [61] de moy ?  
 
@@ -1507,7 +1507,7 @@ Jure moy donc avant de n'en parler jamais,
 Et je te le diray.  
 
     JODELET.
-Va je te le promets.  
+        Va je te le promets.  
 Mais quel serment, dy-moy, veux-tu que je te fasse ?  
 Puissay-je maintenant tomber dans ta disgrace,  
 Et ne te voir jamais si l'on le sçait par moy.  
@@ -1522,17 +1522,17 @@ Parle donc librement, et sans aucun scrupule.
 Tu dois doncques sçavoir.  
 
     JODELET.
-Laisse ce preambule,  
+        Laisse ce preambule,  
 
     NISE.
 Qu'un obstacle tres-grand, à ton Maistre fatal,  
 Empesche qu'on ne l'ayme.  
 
     JODELET.
-Et bien quel ?  
+    Et bien quel ?  
 
     NISE.
-Un Rival.  
+        Un Rival.  
 Qu'il ne s'estonne point de voir qu'on le méprise,  
 Depuis un an et plus, ma Maistresse est esprise  
 D'un jeune Cavalier⁎, galand⁎, sage⁎, et discret⁎,  
@@ -1562,7 +1562,7 @@ Pourquoy me celes⁎-tu le nom de cet amy,
 Et celui du Rival ?  
 
     NISE.
-Ariste est, ce me semble,  
+        Ariste est, ce me semble,  
 Le nom de cet amy, mais croy moy que je tremble,  
 Lors⁎ que je me resous à nommer ce rival ;  
 Car il m'en peut sans doute arriver un grand mal.  
@@ -1600,7 +1600,7 @@ TIMANDRE, JODELET.
 QUOI ? ce que tu m'as dit est-il vray ?  
 
     JODELET.
-Je le jure,  
+        Je le jure,  
 Vous voudrois-je, Monsieur, repaistre d'imposture ?  
 Nise m'a tout conté comme je vous l'ay dit.  
 
@@ -1652,7 +1652,7 @@ TIMANDRE, LILIANE, JODELET, NISE.
 
 
     TIMANDRE.
-JE ne viens plus, Madame,  
+        JE ne viens plus, Madame,  
 Pour vous exagerer tous ces souspirs de flame⁎,  
 Ces vœux⁎ et ces respects qui vous sont odieux [68],  
 Mais pour mortifier ce cœur ambitieux,  
@@ -1701,7 +1701,7 @@ Mais vous ne direz pas le mesme de la Lune,
 Alors qu'entre une et deux.  
 
     LILIANE.
-Que dict cet effronté ?  
+        Que dict cet effronté ?  
 
     TIMANDRE.
 Je trace cet Eloge à vostre chasteté ;  
@@ -1723,7 +1723,7 @@ Escoutez-moy de jour, puis que vous escoutez
 Mon rival chaque nuit.  
 
     JODELET.
-Ah vous vous emportez !  
+        Ah vous vous emportez !  
 
     LILIANE.
 Tresve de ce discours, Monsieur, je vous supplie,  
@@ -1745,7 +1745,7 @@ Qu'il entre en seureté par cette fausse porte.
 N'en sçay-je pas assez ?  
 
     LILIANE.
-Vous le sçavez si bien  
+        Vous le sçavez si bien  
 Qu'on peut dire en ce poinct que vous n'ignorez rien.  
 Vous avez sans mentir la memoire excellente.  
 
@@ -1772,13 +1772,13 @@ Qu'une langue en est cause, et ce n'est pas la mienne.
 Qu'entends-je justes Dieux ?  
 
     JODELET.
-Qu'avez-vous fait Monsieur ?  
+        Qu'avez-vous fait Monsieur ?  
 
     TIMANDRE.
 Je ne sçay mon Amy.  
 
     NISE *bas*.
-Grands Dieux je meurs de peur !  
+        Grands Dieux je meurs de peur !  
 Qu'en cette occasion⁎, Madame ne m'accuse.  
 
     TIMANDRE.
@@ -1796,7 +1796,7 @@ Des valets langagers [75] sont pires que la peste,
 Dieux à qui me fiois-je ?  
 
     JODELET* à Timandre.*
-Ah vous avez grand tort !  
+        Ah vous avez grand tort !  
 
     LILIANE *à Nise*.
 Sans doute tu seras la cause de ma mort.  
@@ -1806,7 +1806,7 @@ Cette fille en patit, voyez que l'on l'accuse.
 Ah Dieux qu'avez-vous dit !  
 
     TIMANDRE *à Jodelet*.
-Invente quelque ruse,  
+        Invente quelque ruse,  
 Pour nous tirer tous deux de ce dedale ici.  
 
     JODELET.
@@ -1818,7 +1818,7 @@ Non, non, ne craignez point, je ne tarderay guere.
 Escoutez-moy, Madame.  
 
     LILIANE.
-Ah ! perfide tay toy.  
+        Ah ! perfide tay toy.  
 
     NISE.
 Si quelqu'un vous a fait ce faux rapport⁎ de moy  
@@ -1833,7 +1833,7 @@ Je t'ay tousjours cognu l'esprit assez present [77],
 Va, va, je t'ayderay.  
 
     JODELET.
-Quand on me devroit pendre,  
+        Quand on me devroit pendre,  
 Je le diray, Monsieur, je ne m'en puis defendre.  
 Je ne sçaurois souffrir⁎ que l'on blasme en effect  
 Cette servante ici d'un rapport⁎ que j'ay fait.  
@@ -1846,11 +1846,11 @@ Mais je n'en feray rien, luy plaise ou luy déplaise,
 Je vous conteray tout.  
 
     TIMANDRE.
-Mais voyez ce maraut⁎,  
+        Mais voyez ce maraut⁎,  
 Qu'est-ce qu'il va conter ?  
 
     JODELET.
-Ne parlez point si haut,  
+        Ne parlez point si haut,  
 Ferois-je pas , Madame, une grande injustice ?  
 Car si j'ay fait le mal, faut-il qu'elle en patisse ?  
 Que sert en ce sujet de faire tant le fin ?  
@@ -1872,7 +1872,7 @@ Je luy dy les tenir de mes correspondants.
 Que dit cet insensé ?  
 
     JODELET.
-Je dy ce qui vous fasche⁎,  
+        Je dy ce qui vous fasche⁎,  
 Mais entre vous et moy, serois-je pas bien lasche⁎  
 Et bien dénaturé de souffrir⁎ aujourd'huy  
 Que l'innocent patist pour la faute d'autruy ?  
@@ -2012,7 +2012,7 @@ Que jamais pour mourir j'évente ce secret.
 Reposez-vous sur moy.  
 
     LILIANE.
-Je vous tiens⁎ trop discret.  
+        Je vous tiens⁎ trop discret.  
 
 
 ### SCENE III.
@@ -2042,7 +2042,7 @@ Il voudra se vanger, et me perdre⁎ sans doute.
 Non, ne le craignez point.  
 
     LILIANE.
-C'est ce que je redoute,  
+        C'est ce que je redoute,  
 Tout m'est indifferent, et la vie et la mort,  
 Ainsi je me remets aux volontez du sort.  
 
@@ -2085,7 +2085,7 @@ ACASTE, TIMANDRE, JODELET.
 
 
     ACASTE.
-QUi vous rend ainsi triste?  
+        QUi vous rend ainsi triste?  
 
     TIMANDRE.
 Me le demandez-vous en l'estat où je suis ?  
@@ -2097,11 +2097,11 @@ Encore qu'à present la cause en soit nouvelle.
 Ne la sçauray-je point ?  
 
     TIMANDRE.
-Je vous la dirois bien.  
+        Je vous la dirois bien.  
 Mais j'ay fait un serment.  
 
     ACASTE.
-Vous ne me direz rien ?  
+        Vous ne me direz rien ?  
 Me traittez-vous ainsi ? ce procedé m'offence.  
 
     TIMANDRE.
@@ -2130,7 +2130,7 @@ Ariste vient ici qui me le pourra dire.
 Je vay luy demander.  
 
     TIMANDRE.
-Adieu, je me retire,  
+        Adieu, je me retire,  
 Nous nous verrons tantost⁎.  
 
 
@@ -2139,13 +2139,13 @@ ACASTE, ARISTE.
 
 
     ACASTE.
-AMy je vous cherchois.  
+        AMy je vous cherchois.  
 
     ARISTE.
 Qu'avez-vous à me dire ?  
 
     ACASTE.
-Ariste je voudrois  
+        Ariste je voudrois  
 Sçavoir s'il est certain, car la chose m'importe,  
 Que depuis quelque mois Tindare soit de sorte  
 Refugié chez vous, et si secrettement  
@@ -2154,7 +2154,7 @@ Pour voir et pour parler à certaine Maistresse
 Qu'on nomme Liliane.  
 
     ARISTE *bas*.
-Ah Dieux ! par quelle adresse,  
+        Ah Dieux ! par quelle adresse,  
 Par quel moyen je viens à sçavoir aujourd'huy  
 Ce que je n'ay jamais peu descouvrir par luy.  
 Encor que l'on m'ait fait une defense expresse  
@@ -2212,7 +2212,7 @@ Monsieur, mais dites-moy quelles bonnes nouvelles
 Avez-vous de sa part ?  
 
     ARISTE.
-Madame elles sont telles  
+        Madame elles sont telles  
 Que vous les souhaittez, il se porte fort bien,  
 Mais par cet ordinaire [105] il ne vous mande⁎ rien  
 Qu'un mot de compliment⁎ seulement dans ma lettre.  
@@ -2341,12 +2341,12 @@ Ne rencontrent⁎ jamais si ce n'est par hazard.
 Ariste vient ici.  
 
     ACASTE.
-Retirons-nous, Timandre,  
+        Retirons-nous, Timandre,  
 Il cherche le filet, sans doute il vient s'y prendre,  
 Il ne nous a point veus, duppe le.  
 
     TIMANDRE.
-Je le veux.  
+        Je le veux.  
 
     ACASTE.
 Adieu.  
@@ -2355,7 +2355,7 @@ Adieu.
 ### SCENE III.
 
     ARISTE *seul*.
-FUt-il jamais homme plus malheureux ?  
+        FUt-il jamais homme plus malheureux ?  
 Je suis le confident et l'amy de Tindare,  
 Il m'ayme, je le sçay, mais d'une amitié rare⁎,  
 Il m'est amy, je suis neantmoins son rival ;  
@@ -2395,34 +2395,34 @@ Je suis tout estonné⁎, vous le serez aussi.
 Dites moy ce que c'est ?  
 
     ACASTE.
-Sommes-nous seuls icy ?  
+        Sommes-nous seuls icy ?  
 
     ARISTE.
 Oüy parlez librement.  
 
     ACASTE.
-Vous cognoissez Timandre ?  
+        Vous cognoissez Timandre ?  
 
     ARISTE.
 Oüy, fort bien, achevez.  
 
     ACASTE.
-Cela vous va surprendre  
+        Cela vous va surprendre  
 Ainsi comme il m'a fait. Il a certain valet  
 Que vous cognoissez bien, appellé Jodelet.  
 Ah ! quel rare⁎ homme c'est !  
 
     ARISTE.
-Comment ?  
+    Comment ?  
 
     ACASTE.
-C'est un prodige.  
+        C'est un prodige.  
 
     ARISTE.
 Un prodige ? Comment ?  
 
     ACASTE.
-Un miracle, vous dis-je ?  
+        Un miracle, vous dis-je ?  
 
     ARISTE.
 Cet homme si mal fait⁎ ? que je voy si souvent ?  
@@ -2449,7 +2449,7 @@ Car jamais sous le Ciel ne se vit heur⁎ semblable
 A l'heur⁎ qu'il me promet.  
 
     ARISTE.
-Est-il bien veritable ?  
+        Est-il bien veritable ?  
 
     ACASTE.
 Il n'est rien de plus vray ; Mais le cognoissez-vous ?  
@@ -2473,7 +2473,7 @@ Donnez-moy, cher amy, l'heur⁎ de sa cognoissance,
 Vous m'obligerez⁎ fort.  
 
     ACASTE.
-Oüy, quand vous le voudrez  
+        Oüy, quand vous le voudrez  
 Je vous y meneray, certes vous cognoistrez  
 Un excellent esprit, et le plus sçavant homme  
 Que l'on sçauroit trouver d'icy jusques à Rome.  
@@ -2486,7 +2486,7 @@ Que vous ne tiendrez⁎ pas vous mesme veritables.
 Seroit-il bien sorcier ?  
 
     ACASTE.
-Il n'en faut point douter,  
+        Il n'en faut point douter,  
 Il faudroit trop de temps, je ne puis tout raconter.  
 
     ARISTE.
@@ -2494,7 +2494,7 @@ J'ay quelque affaire icy. Voudriez-vous m'attendre
 Chez vous ?  
 
     ACASTE.
-Ne manquez pas, Ariste, à vous y rendre,  
+        Ne manquez pas, Ariste, à vous y rendre,  
 J'iray droict de ce pas. Il en tient [112] tout de bon⁎.  
 Il sort.
 
@@ -2523,18 +2523,18 @@ Ariste, justes Dieux ! quel trouble j'ay dans l'ame.
 Ariste, qu'avez-vous ?  
 
     ARISTE.
-Rasseurez vostre esprit,  
+        Rasseurez vostre esprit,  
 Je viens de recevoir maintenant cet escrit,  
 Madame le voila.  
 
     JACINTE.
-De la part de Tindare ?  
+        De la part de Tindare ?  
 
     ARISTE.
 De qui doncques, Madame ?  
 
     JACINTE.
-Ah mon esprit s'égare !  
+        Ah mon esprit s'égare !  
 Je suis si hors de moy, j'ay les sens si confus  
 Qu'en l'estat où je suis je ne me cognoy plus.  
 Mais encor dites moy d'où m'escrit-il Ariste ?  
@@ -2543,7 +2543,7 @@ Mais encor dites moy d'où m'escrit-il Ariste ?
 Il vous escrit de Rome.  
 
     JACINTE.
-Ah ce discours m'attriste,  
+        Ah ce discours m'attriste,  
 Veut-il toute sa vie estre esloigné de moy ?  
 
     ARISTE.
@@ -2553,7 +2553,7 @@ Il vous contentera là dessus que je croy.
 Voyons ce qu'il m'escrit.  
 
     ARISTE *bas durant qu'elle lit.*
-Il faut prendre courage,  
+        Il faut prendre courage,  
 Je ne doy point sans doute attendre davantage,  
 Mais que peut, justes Dieux ! contenir cet escrit ?  
 Je voy qu'en le lisant Jacinte s'attendrit,  
@@ -2574,7 +2574,7 @@ Courage, tout va bien, reprenons nos esprits.
 Ah ! je meurs de douleur.  
 
     ARISTE *bas*.
-Que ma raison est vaine⁎.  
+        Que ma raison est vaine⁎.  
 
     JACINTE.
 Cette absence me met, Ariste, en telle peine,  
@@ -2591,7 +2591,7 @@ Parler à cet ingrat, ou le voir seulement.
 Mais cela ne se peut.  
 
     ARISTE.
-Si vous voulez, Madame,  
+        Si vous voulez, Madame,  
 Je puis bien en ce poinct soulager vostre flame⁎,  
 Il m'est facile assez de vous le faire voir.  
 
@@ -2628,7 +2628,7 @@ Tindare d'Italie en ce lieu par miracle.
 Ariste, resvez⁎-vous ?  
 
     ARISTE.
-Non, je ne resve⁎ point.  
+        Non, je ne resve⁎ point.  
 
     JACINTE.
 Quoy ? je serois heureuse ? et jusques à ce poinct ?  
@@ -2662,11 +2662,11 @@ Cognoissez vous Timandre, un homme d'importance ?
 Qui se tient ici prez ?  
 
     JACINTE.
-J'ay peu de cognoissance  
+        J'ay peu de cognoissance  
 Avec luy, l'est-ce donc [117] ?  
 
     ARISTE.
-Non, mais un sien valet  
+        Non, mais un sien valet  
 Qui le suit quelquefois, qu'on nomme Jodelet.  
 Madame croyez-moy qu'il n'est en cette ville  
 Ny dans le monde entier, un qui soit plus habile.  
@@ -2684,7 +2684,7 @@ Il n'est point de mortel qui l'égale en sçavoir.
 Dieux ! que me dites-vous ?  
 
     ARISTE.
-Il faudroit pour le voir  
+        Il faudroit pour le voir  
 Et pour le gouverner s'addresser à son Maistre.  
 Je n'ay pas à present l'honneur de le cognoistre,  
 Ny de l'avoir hanté [118], toutefois aujourd'huy  
@@ -2712,14 +2712,14 @@ Monte là-haut, Julie, et va-t'en me querir
 Et ma coiffe et mon masque.  
 
     JULIE.
-Ah ! que voulez-vous faire ?  
+        Ah ! que voulez-vous faire ?  
 
     JACINTE.
 Je veux tout sur le champ terminer cette affaire,  
 Va donc, depesche-toy.  
 
     JULIE.
-Vous avez l'esprit prompt,  
+        Vous avez l'esprit prompt,  
 Comment sans le connoistre aurez-vous bien le front  
 De l'aller requerir ? craignez-vous point le blasme ?  
 
@@ -2730,7 +2730,7 @@ Un Cavalier⁎ peut-il refuser une femme ?
 Considerez-le mieux.  
 
     JACINTE.
-Je l'ay consideré,  
+        Je l'ay consideré,  
 C'est trop peu pour un bien que j'ay tant desiré.  
 
 
@@ -2776,7 +2776,7 @@ Une Dame, Monsieur, masquée, et qui desire
 Vous dire icy deux mots.  
 
     TIMANDRE.
-Qu'elle entre promptement.  
+        Qu'elle entre promptement.  
 Qui sera-t'elle, ô Dieux ?  
 
 
@@ -2785,7 +2785,7 @@ JACINTE, JULIE, TIMANDRE, ACASTE, JODELET.
 
 
     JACINTE.
-J'Entre bien librement.  
+        J'Entre bien librement.  
 Faites-moy, s'il vous plaist, la faveur de m'apprendre  
 Lequel c'est de vous deux qui s'appelle Timandre.  
 
@@ -2813,7 +2813,7 @@ Madame, seyez-vous, et ne redoutez rien.
 Je vous obeïray, Monsieur.  
 
     TIMANDRE.
-C'estoit dommage  
+        C'estoit dommage  
 De nous vouloir cacher un si parfait visage,  
 Quoy que ces brillans yeux, ces beaux astres d'Amour  
 Descouvroient trop l'esclat qui nous donne le jour.  
@@ -2874,7 +2874,7 @@ Meriteroit en France, un rude chastiment.
 Non, je ne suis pas tel.  
 
     JACINTE.
-Vous pouvez sans scrupule  
+        Vous pouvez sans scrupule  
 Vous descouvrir à moy, je ne suis point credule  
 A tel poinct qu'aysement on m'ait peu decevoir⁎ ;  
 Je sçay jusqu'où s'estend son merveilleux sçavoir,  
@@ -2884,7 +2884,7 @@ Sa science est, Monsieur, miraculeuse et rare⁎.
 Le nom de vostre Amant.  
 
     JACINTE.
-Il s'appelle Tindare,  
+        Il s'appelle Tindare,  
 Depuis six mois entiers il est absent d'ici.  
 
     TIMANDRE *bas à Jodelet.*
@@ -2894,7 +2894,7 @@ Jodelet, que t'en semble ? escoutes-tu ceci ?
 Fort bien.  
 
     JACINTE.
-Je garderay le secret quoy que femme.  
+        Je garderay le secret quoy que femme.  
 
     TIMANDRE.
 Jodelet, en ce poinct il faut servir Madame,  
@@ -2904,7 +2904,7 @@ Il luy parle à l'oreille.
 
 
     JODELET.
-Je vous entends fort bien,  
+        Je vous entends fort bien,  
 Il vous faut obeyr, mon Maistre le commande,  
 Mais pour dire le vray, Madame, j'apprehende,  
 Et j'en ay du subjet, qu'on m'aille descouvrir.  
@@ -2921,7 +2921,7 @@ D'une façon modeste, et qui demeure à Rome
 Depuis six mois entiers !  
 
     JULIE.
-Ah ! le merveilleux homme !  
+        Ah ! le merveilleux homme !  
 Est-il possible, ô Dieux ! qu'il ait un tel esprit ?  
 Je suis tout hors de moy, qui luy peut avoir dit ?  
 
@@ -2931,26 +2931,26 @@ Ce que vous dites-là n'est que trop veritable,
 C'est le mesme en effet.  
 
     JODELET.
-Madame, jurez-moy  
+        Madame, jurez-moy  
 Qu'en cette affaire ici vous me tiendrez [127] la foy⁎  
 Que vous me promettez, ce faisant je m'oblige  
 De vous le faire voir.  
 
     JACINTE.
-Quand ?  
+    Quand ?  
 
     JODELET.
-Aujourd'huy, vous dis-je.  
+        Aujourd'huy, vous dis-je.  
 
     JACINTE.
 Ouy, je te le promets.  
 
     JODELET.
-N'aurez-vous point de peur ?  
+        N'aurez-vous point de peur ?  
 Luy pourrez-vous parler ?  
 
     JACINTE.
-Va, va, j'ay trop de cœur⁎,  
+        Va, va, j'ay trop de cœur⁎,  
 Que j'ay, si je le voy, de choses à luy dire.  
 
     JODELET.
@@ -2960,7 +2960,7 @@ Il sort.
 
 
     JACINTE. *à Timandre*.
-Dieux ! que vous estes heureux  
+        Dieux ! que vous estes heureux  
 De posseder chez vous cet homme merveilleux ?  
 Quel espoir il me donne, ah ! j'ay l'ame ravie.  
 
@@ -2971,10 +2971,10 @@ Il peut facilement contenter vostre envie.
 Escrivez à present.  
 
     JACINTE.
-Qu'escriray-je ?  
+    Qu'escriray-je ?  
 
     JODELET.
-Escrivez  
+        Escrivez  
 Ce que je dicteray. Cher Tindare, approuvez.  
 Jacinte escrit.
 
@@ -3012,7 +3012,7 @@ Je la voy de mes yeux, et j'ay peine à la croire,
 J'en ay pensé mourir de rire.  
 
     TIMANDRE.
-Avez-vous veu  
+        Avez-vous veu  
 Que tout ce qu'il a dit l'innocente l'a creu.  
 
     ACASTE.
@@ -3027,16 +3027,16 @@ Il faut faire couler finement ce poulet [130]
 Dans le logis d'Ariste.  
 
     ACASTE.
-Et puis.  
+    Et puis.  
 
     JODELET.
-Laissez-moy faire,  
+        Laissez-moy faire,  
 Tindare la lira, qui voyant son affaire  
 Destruite, et son secret tout à fait descouvert  
 Viendra trouver Jacinte.  
 
     ACASTE.
-Enfin à quoy te sert  
+        Enfin à quoy te sert  
 Ta belle invention, crois-tu, quoy qu'on te dies,  
 Que ce nœud soit pareil à ceux des Comedies  
 Où tousjours tout succede ainsi qu'on l'a tracé ?  
@@ -3119,7 +3119,7 @@ Mais quoy ? ne voy-je pas à mes pieds un escrit ?
 Dieux ! il s'adresse à moy, voyons-le.  
 Il lit.
 
-Cher Tindare,  
+        Cher Tindare,  
 Je vous attens chez moy tantost⁎, et me prepare  
 A vous bien recevoir : croyez que je sçay bien  
 Où vous estes, venez, et ne redoutez rien.  
@@ -3142,7 +3142,7 @@ Ah ! je suis descouvert, ma perte est trop certaine.
 Nise, que me veux-tu ? dy.  
 
     NISE.
-Vous tirer de peine,  
+        Vous tirer de peine,  
 Le Ciel met aujourd'huy vos desseins à l'envers,  
 Par un certain malheur vous estes descouvers :  
 Mais par un cas estrange, et difficile à croire,  
@@ -3166,11 +3166,11 @@ Que de cette autre fourbe⁎ on ne descouvre rien.
 Escoute encor un mot.  
 
     NISE.
-Je ne sçaurois, Tindare,  
+        Je ne sçaurois, Tindare,  
 Adieu.  
 
     TINDARE.
-Cet avanture est sans mentir fort rare⁎,  
+        Cet avanture est sans mentir fort rare⁎,  
 Allons trouver Jacinte, et dans ce mesme jour  
 Cachons bien nostre feinte ainsi que nostre amour.  
 
@@ -3198,13 +3198,13 @@ Mais quel fruict, dites-moy, pourrez-vous recevoir
 D'un fantosme trompeur ?  
 
     JACINTE.
-Le plaisir de le voir.  
+        Le plaisir de le voir.  
 
     JULIE.
 Ce ne sera pas luy.  
 
     JACINTE.
-Mais il sera, Julie,  
+        Mais il sera, Julie,  
 Tout tel que de present [135] il est en Italie.  
 
     JULIE.
@@ -3217,7 +3217,7 @@ Quoy ! d'un homme que j'ayme à l'esgal de ma vie ?
 Non, non, j'ay trop de cœur⁎.  
 
     JULIE.
-Mais moy, je n'en ay pas.  
+        Mais moy, je n'en ay pas.  
 
     JACINTE.
 Va promptement ouvrir, quelqu'un frappe là-bas.  
@@ -3226,7 +3226,7 @@ Va promptement ouvrir, quelqu'un frappe là-bas.
 Bien, Madame, j'y cours.  
 
     JACINTE *seule*.
-Que je suis malheureuse,  
+        Que je suis malheureuse,  
 O Dieux, que ne fait point une femme amoureuse ?  
 Quel obstacle s'oppose à son contentement ?  
 
@@ -3243,10 +3243,10 @@ Je suis morte autant vaut⁎ : c'est Tindare, Madame.
 Que dis-tu ?  
 
     JULIE.
-C'est luy-mesme.  
+    C'est luy-mesme.  
 
     JACINTE.
-Ah ! justes dieux ? je pasme [136],  
+        Ah ! justes dieux ? je pasme [136],  
 Je confesse mon foible [137], helas ! je n'en puis plus,  
 Le courage me manque, et mes sens sont confus.  
 J'ay desiré vous voir, et non pas vous parler.  
@@ -3299,7 +3299,7 @@ Ah ! qui si tost a peû luy porter cette lettre ?
 Il faut bien qu'un Demon.  
 
     TINDARE.
-Me voulez-vous permettre  
+        Me voulez-vous permettre  
 De me justifier, Madame, là-dessus ?  
 
     JACINTE.
@@ -3321,12 +3321,12 @@ Quoy que vous ayez sceu tout ce qui s'est passé,
 Vous m'excuserez bien.  
 
     JACINTE.
-Tay-toy, je te supplie,  
+        Tay-toy, je te supplie,  
 Fantosme, promptement retourne en Italie,  
 Ou je te quitte-là.  
 
     TINDARE.
-Madame, escoutez-moy.  
+        Madame, escoutez-moy.  
 
     JACINTE.
 Dieux ! qui peut appaiser le trouble où je me voy ?  
@@ -3338,14 +3338,14 @@ Elle luy ferme la porte au nez.
 Escoute-moy, Julie.  
 
     JULIE.
-A ce coup je suis morte ?  
+        A ce coup je suis morte ?  
 Que doy-je devenir ? sans doute il me tuëra.  
 
     TINDARE.
 Dy moy pour quel sujet.  
 
     JULIE.
-Madame le dira.  
+        Madame le dira.  
 Elle luy ferme la porte au nez.
 
 
@@ -3395,11 +3395,11 @@ Non pas le ruban seul, de plus, je vous presente
 Ce cœur de diamans.  
 
     TINDARE.
-Non, non, je me contente  
+        Non, non, je me contente  
 Du ruban seulement.  
 
     LILIANE.
-Non, vous seriez fasché⁎  
+        Non, vous seriez fasché⁎  
 Puis que ce cœur se trouve au ruban attaché  
 Avecque tant de nœuds, que je prisse la peine  
 De l'en oster, et puis, c'est chose tres-certaine  
@@ -3414,7 +3414,7 @@ Tout beau [144], mon pere vient. Taschez avec adresse
 De bien dissimuler.  
 
     TINDARE.
-N'en ayez pas de peur.  
+        N'en ayez pas de peur.  
 
 
 ### SCENE VI.
@@ -3425,7 +3425,7 @@ ARIMANT, TINDARE, LILIANE, NISE.
 QUel est ce Cavalier⁎ ?  
 
     TINDARE.
-Pardonnez-moy, Monsieur,  
+        Pardonnez-moy, Monsieur,  
 Si n'ayant pas l'honneur de vostre connoissance  
 J'ose vous aborder⁎ avec tant de licence.  
 Je reviens d'Italie, et passant par Thurin  
@@ -3437,7 +3437,7 @@ Mais par certain malheur j'ay perdu cet escrit
 Dont je viens m'excuser.  
 
     ARIMANT.
-Il n'est point necessaire ;  
+        Il n'est point necessaire ;  
 Je me resjoüy fort d'apprendre que mon frere  
 Ait eu l'honneur d'avoir receu dans sa maison  
 Un homme tel que vous, et c'est bien la raison  
@@ -3452,7 +3452,7 @@ Vous m'honorez par trop. Vous, parfaite beauté !
 Ma fille, il parle à vous.  
 
     TINDARE.
-Disposez d'une vie  
+        Disposez d'une vie  
 Qui par tant de raisons est vostre ; et je vous prie,  
 Sçachant ce que je suis, et ce que je vous doy,  
 D'user du plein pouvoir que vous avez sur moy.  
@@ -3463,7 +3463,7 @@ Que je vous ouvre à nud les secrets de mon ame ?
 Ma fille, respondez,  
 
     LILIANE.
-Je reçoy trop d'honneur  
+        Je reçoy trop d'honneur  
 De vos civilitez, et croyez-moy, Monsieur,  
 Que si vous m'honorez de quelque bienveillance  
 Je suis trop obligee⁎ à la reconnoissance,  
@@ -3478,7 +3478,7 @@ Cette porte, Monsieur, elle s'ouvre pour vous.
 Elle respond fort bien.  
 
     NISE.
-O Dieux ! qu'elle est rusee ?  
+        O Dieux ! qu'elle est rusee ?  
 Elle parle sans feinte, ou je suis abusee⁎.  
 
     TINDARE.
@@ -3486,7 +3486,7 @@ Vous me faites tous deux rougir de tant d'honneur,
 Je vous baise à tous deux les mains⁎ [146].  
 
     ARIMANT.
-Adieu, Monsieur.  
+        Adieu, Monsieur.  
 Tindare s'en va.
 
 Rentrons, nous serons mieux là-haut que dans la ruë.  
@@ -3505,7 +3505,7 @@ NISE, JODELET.
 QUoy ! l'on ne te void plus ?  
 
     JODELET.
-Tu sçais bien que mon Maistre  
+        Tu sçais bien que mon Maistre  
 En ce logis ici n'oseroit plus paroistre.  
 
     NISE.
@@ -3561,11 +3561,11 @@ En peu de mots voila ce que je te puis dire.
 J'en suis ravi de joye.  
 
     NISE.
-Adieu, je me retire,  
+        Adieu, je me retire,  
 Mon Maistre vient ici.  
 
     JODELET.
-Dy moy, que gagnes-tu ? [150]  
+        Dy moy, que gagnes-tu ? [150]  
 Faisons semblant de rien, puis qu'il m'a desja veu.  
 
 
@@ -3577,12 +3577,12 @@ ARIMANT, NISE, JODELET ;
 QUel est cet homme ici ?  
 
     NISE *bas*.
-Mentons avec adresse.  
+        Mentons avec adresse.  
 Par l'ordre que tantost⁎ m'a donné ma Maistresse,  
 Je l'ay mandé⁎, Monsieur.  
 
     ARIMANT.
-Pour quel sujet, dy moy ?  
+        Pour quel sujet, dy moy ?  
 
     NISE.
 Pour m'informer de luy. Mais à ce que je voy,  
@@ -3604,11 +3604,11 @@ Quels contes fabuleux ? dy-moy, quelles chimeres
 Me viens-tu raconter ?  
 
     NISE.
-Ce sont choses si claires  
+        Ce sont choses si claires  
 Que personne n'en doute.  
 
     JODELET.
-Ah ! ne la croyez pas ?  
+        Ah ! ne la croyez pas ?  
 Elle vous fait de moy, Monsieur, par trop de cas,  
 Je ne suis point sçavant, et toutefois j'avoüe,  
 Sans desirer pourtant qu'en ce poinct on me louë,  
@@ -3624,11 +3624,11 @@ Que respond-il, encor, touchant le mariage
 De ma fille ?  
 
     NISE.
-Monsieur, de bon cœur j'en enrage.  
+        Monsieur, de bon cœur j'en enrage.  
 Il dit que ma Maistresse.  
 
     ARIMANT.
-Acheve, je le veux.  
+        Acheve, je le veux.  
 
     NISE.
 Doit-espouser un homme assez necessiteux.  
@@ -3639,7 +3639,7 @@ Puisse prescrire ainsi des loix à la Nature ?
 Tu crois ce qu'il te dit ?  
 
     NISE.
-J'ay sujet d'avoir peur.  
+        J'ay sujet d'avoir peur.  
 
     JODELET.
 C'est ce que maintenant je luy disois, Monsieur,  
@@ -3647,7 +3647,7 @@ La Science est douteuse, et tousjours l'homme sage
 L'emporte sur les Cieux.  
 
     ARIMANT.
-Ah ! le grand personnage ?  
+        Ah ! le grand personnage ?  
 
     NISE.
 Je le cognoy fort bien, il ne mentit jamais.  
@@ -3720,7 +3720,7 @@ Quoy ! si j'ay publié par tout cette science
 Vous l'avez ordonné.  
 
     TIMANDRE.
-Je ne le puis nier,  
+        Je ne le puis nier,  
 Mais je ne voulois pas qu'on le tint pour sorcier.  
 
     ACASTE.
@@ -3749,7 +3749,7 @@ Le subjet qui vous pût porter à l'industrie⁎
 Que vous m'avez contée ?  
 
     TIMANDRE.
-He ! ne falloit-il pas  
+        He ! ne falloit-il pas  
 Pour luy sauver l'honneur, sortir de l'embaras  
 Où ma langue avoit mis cette pauvre servante  
 Et faire croire à tous qu'elle estoit innocente ?  
@@ -3768,7 +3768,7 @@ Pour haster leur Hymen⁎, tout ce que je pourray.
 Pour quel sujet, encor ?  
 
     TIMANDRE.
-C'est chose qui m'importe.  
+        C'est chose qui m'importe.  
 Mais j'entens, que je croy, quelqu'un à cette porte,  
 Sans doute elle est ouverte, on monte, que je croy.  
 
@@ -3781,23 +3781,23 @@ TIMANDRE, JACINTE, ACASTE, JULIE, JODELET.
 AH ! Madame, est-ce vous ?  
 
     JACINTE.
-Ouy, Timandre, c'est moy,  
+        Ouy, Timandre, c'est moy,  
 Je vous dy librement, Monsieur, que je souhaitte  
 Parler à Jodelet.  
 
     TIMANDRE.
-Estes-vous satisfaite,  
+        Estes-vous satisfaite,  
 Madame, de son art ?  
 
     JACINTE.
-J'ay sujet aujourd'huy  
+        J'ay sujet aujourd'huy  
 De me pleindre, Monsieur, et de vous et de luy.  
 
     TIMANDRE.
 De vous pleindre, Madame ?  
 
     JACINTE.
-Ouy, faites-le paroistre.  
+        Ouy, faites-le paroistre.  
 
     TIMANDRE.
 Il n'est pas au logis.  
@@ -3805,7 +3805,7 @@ Jodelet vient.
 
 
     JACINTE.
-Ah ! le voici, le traistre ?  
+        Ah ! le voici, le traistre ?  
 
     TIMANDRE.
 Madame vient ici pour se pleindre de toy.  
@@ -3814,10 +3814,10 @@ Madame vient ici pour se pleindre de toy.
 Pour se pleindre ?  
 
     JACINTE.
-Ouy, me pleindre.  
+    Ouy, me pleindre.  
 
     JODELET.
-Eh ! Madame, pourquoy ?  
+        Eh ! Madame, pourquoy ?  
 
     JACINTE.
 Vien ça, si tu sçavois que l'Amant que j'adore  
@@ -3826,7 +3826,7 @@ Qu'il n'en est point parti, lasche⁎ di-moy, pourquoy
 Ne me détrompois-tu ?  
 
     JODELET.
-Le sçavois-je bien, moy ?  
+        Le sçavois-je bien, moy ?  
 Si je vous ay promis de vous monstrer l'image  
 De vostre cher Amant ? fais-je pas davantage,  
 Madame, en vous monstrant le vray corps animé  
@@ -3872,7 +3872,7 @@ Elles s'en vont.
 
 
     TIMANDRE.
-Mais quel est ton dessein ?  
+        Mais quel est ton dessein ?  
 
     JODELET.
 Ne vous tourmentez point, je ne fais rien en vain,  
@@ -3922,7 +3922,7 @@ Et se laisse gagner par celuy qui la suit.
 Sçait-elle vostre amour ?  
 
     ARISTE.
-Je n'oserois luy dire.  
+        Je n'oserois luy dire.  
 
     JODELET.
 Donnez-moy vostre main, regardez-moy sans rire,  
@@ -3991,7 +3991,7 @@ Messieurs, obligez-le de m'escouter de grace!
 Escoute, Jodelet.  
 
     JODELET.
-Que veut-on que je face ?  
+        Que veut-on que je face ?  
 
     ARIMANT.
 Je le diray devant ces Messieurs que voici,  
@@ -4013,7 +4013,7 @@ Ne me pressez donc point, je vous jure ma foy⁎
 Que je n'y cognoy rien.  
 
     ARIMANT.
-J'ay trop de connoissance  
+        J'ay trop de connoissance  
 De ce que vous sçavez. Puis cette deffiance,  
 Ce mespris de vous mesme, et cette humilité  
 M'en font voir plus à clair encor la verité.  
@@ -4023,12 +4023,12 @@ Je vous le dis encor, je n'y sçay rien je jure,
 Pourquoy vous le nierois-je ?  
 
     ARIMANT.
-Ah ! l'estrange imposture ?  
+        Ah ! l'estrange imposture ?  
 Ce joyau, c'est un cœur orné de diamans  
 Qu'on a pris à ma fille.  
 
     JODELET *bas*.
-En quels ravissemens  
+        En quels ravissemens  
 Me trouvé-je, grands Dieux ! sus⁎ faisons bonne mine⁎.  
 
     ARIMANT *bas*.
@@ -4087,7 +4087,7 @@ Commens as-tu si tost peu controuver ce songe ?
 Sans doute il est plaisant.  
 
     JODELET.
-Ce n'est point un mensonge,  
+        Ce n'est point un mensonge,  
 Ce que je viens de dire est une verité,  
 N'en doutez nullement, Nise m'a tout conté.  
 
@@ -4095,11 +4095,11 @@ N'en doutez nullement, Nise m'a tout conté.
 Mais que veut ce Vieillard ?  
 
     JODELET.
-C'est à moy qu'il s'adresse,  
+        C'est à moy qu'il s'adresse,  
 Il me cherche, Monsieur.  
 
     TIMANDRE.
-Demeure, je te laisse.  
+        Demeure, je te laisse.  
 Retirons-nous, Acaste, et les laissons ici.  
 
 
@@ -4165,7 +4165,7 @@ Je sçay que vous l'avez. Voyez comme il s'altere [173],
 Rendez-le moy de grace.  
 
     TINDARE *bas*.
-Ah ! que je suis surpris ?  
+        Ah ! que je suis surpris ?  
 
     ARIMANT.
 Cela ne vous doit point alterer les esprits.  
@@ -4181,7 +4181,7 @@ Je me plains de la main de qui vous la tenez.
 Monsieur, ici, vers vous.  
 
     ARIMANT.
-Quoy ! vous vous estonnez⁎ ?  
+        Quoy ! vous vous estonnez⁎ ?  
 Je ne cognoy que trop, Monsieur, vostre innocence,  
 C'est la personne ici seulement qui m'offence  
 De qui vous la tenez : Dieux ! je l'excuse ainsi.  
@@ -4194,7 +4194,7 @@ Blasmez-moy seulement, je suis le seul coupable.
 Voyez comme il s'accuse.  
 
     TINDARE *luy rendant le joyau*.
-Il est tres-veritable,  
+        Il est tres-veritable,  
 Je ne le puis nier, mais la necessité  
 M'a contraint d'en venir à cette extremité,  
 Je l'ay moy-mesme osté, Monsieur, à Liliane.  
@@ -4208,7 +4208,7 @@ Mais la necessité bien souvent nous oblige
 A faire encore pis.  
 
     TINDARE.
-Monsieur, si vous sçavez  
+        Monsieur, si vous sçavez  
 Comme tout s'est passé, s'il vous plaist, approuvez  
 L'action que j'ay faite, authorisez mon crime,  
 Ouy, vous pouvez Monsieur, le rendre legitime,  
@@ -4296,7 +4296,7 @@ Jodelet tarde bien, le voici, que je croy.
 As-tu ce qu'il te faut ?  
 
     MORON.
-Je porte tout sur moy.  
+        Je porte tout sur moy.  
 
     JODELET.
 Il faut presentement te bander le visage,  
@@ -4328,7 +4328,7 @@ MOn pere, dites-vous, vous a redemandé
 Ce cœur de diamans ?  
 
     TINDARE.
-Je me suis hazardé  
+        Je me suis hazardé  
 Pour vous justifier de me rendre coupable.  
 
     LILIANE.
@@ -4368,7 +4368,7 @@ DIeux, que de ce jardin la veuë est agreable ?
 Que tout est propre ici ?  
 
     ARIMANT.
-Que l'on dresse la table,  
+        Que l'on dresse la table,  
 Nise, et que l'on nous serve à souper promptement.  
 Nise sort.
 
@@ -4385,11 +4385,11 @@ Madame, tenez⁎-moy pour vostre serviteur.
 Je suis vostre servante.  
 
     ARIMANT.
-Est-ce pas là ce cœur  
+        Est-ce pas là ce cœur  
 Que vous aviez perdu ?  
 
     LILIANE.
-Monsieur, je vous rends grace.  
+        Monsieur, je vous rends grace.  
 
 
 ### SCENE XI et derniere.
@@ -4407,7 +4407,7 @@ Madame, il est ainsi que je vous l'ay conté.
 Que veut dire Madame ?  
 
     JACINTE.
-Arimant, je vous prie  
+        Arimant, je vous prie  
 Excusez cet effet de mon effronterie,  
 Pour dire en peu de mots le trouble où je me voy,  
 J'ayme, et je suis trahie, on me manque de foy⁎,  
@@ -4419,14 +4419,14 @@ Qu'on le face chercher, il est caché ceans⁎.
 Un homme ici caché ?  
 
     LILIANE.
-Dieux ! qu'est-ce que j'entens ?  
+        Dieux ! qu'est-ce que j'entens ?  
 
     MORON *derriere*.
 J'entens, je croy, du bruit, et quelques voix confuses,  
 Que Jodelet m'a dit.  
 
     JACINTE.
-Ne cherchez point d'excuses.  
+        Ne cherchez point d'excuses.  
 
     ARIMANT *à Liliane*.
 Comment ? tu ne dis mot, meschante, as-tu le front,  
@@ -4435,7 +4435,7 @@ Quel homme est-ce ? respons, infame⁎, je te jure
 Que je me vengeray.  
 
     LILIANE.
-Dieux ! l'estrange imposture ?  
+        Dieux ! l'estrange imposture ?  
 
     ARIMANT.
 Que l'on cherche par tout, et qu'on ne laisse rien.  
@@ -4447,7 +4447,7 @@ Laissez faire, Monsieur, je le trouveray bien.
 Je suis perduë⁎, ô Dieux !  
 
     JODELET.
-Ah ! Monsieur, je vous jure.  
+        Ah ! Monsieur, je vous jure.  
 
     JACINTE *l'interrompant*.
 Ce qu'il veut dire ici n'est rien qu'une imposture,  
@@ -4459,7 +4459,7 @@ Je suis prez de chez moy, je me le persuade [178]
 Par ce bruict que j'entens.  
 
     ARISTE *descouvrant Moron.*
-Sur cette palissade  
+        Sur cette palissade  
 J'aperçoy, ce me semble, un homme garoté.  
 
     ARIMANT.
@@ -4500,7 +4500,7 @@ Pour n'avoir pas bien fait tout ce que je t'ay dit,
 Le charme t'a manqué.  
 
     MORON.
-Que je suis interdit⁎ ?  
+        Que je suis interdit⁎ ?  
 
     ARIMANT *à Jacinte*.
 Cherchons cet affronteur, Madame, je vous prie.  
@@ -4516,7 +4516,7 @@ Quoy ! l'Amant de ma fille est doncques ce voleur ?
 Arimant, révez⁎-vous ?  
 
     LILIANE.
-Que dites-vous, mon pere ?  
+        Que dites-vous, mon pere ?  
 
     JODELET.
 Messieurs, je puis moy seul desbroüiller [181] cette affaire,  
@@ -4530,7 +4530,7 @@ Avoit de ce joyau faict don à son Amant.
 Ma fille, est-il bien vray ?  
 
     LILIANE.
-Confessons franchement  
+        Confessons franchement  
 La chose comme elle est, Ouy, Monsieur, je declare  
 Que Tindare est à moy, que je suis à Tindare,  
 Et si vous ne voulez approuver nostre amour,  
@@ -4642,7 +4642,7 @@ Ouy, je suis tres-content de seconder leurs vœux⁎.
 J'ay tout ce que je veux.  
 
     JODELET.
-Moy ce que je desire.  
+        Moy ce que je desire.  
 
     TINDARE.
 Moy, le parfait objet⁎ pour qui mon cœur souspire.  

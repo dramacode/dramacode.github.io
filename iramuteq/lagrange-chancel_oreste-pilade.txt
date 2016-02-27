@@ -26,12 +26,6 @@ Signé, C. BALLARD, Syndic.
 Achevé d'imprimer pour la premiere fois le 20.
 Mars 1699.
 
-**** *book_ *id_acteurs *date_1697 *creator_la_grange_chancel
-
-ACTEURS.
-
-ORESTE ET PILADE, OU IPHIGENIE EN TAURIDE. TRAGEDIE.
-
 **** *book_ *id_scene1-I *act_acteI *date_1697 *creator_la_grange_chancel
 
 -*who_hidaspe
@@ -59,7 +53,7 @@ A-t-on tout préparé ? verray-je la Princesse,
 Hidaspe ?
 
 -*who_hidaspe
-Elle est encore aux pieds de la Deesse.
+      Elle est encore aux pieds de la Deesse.
 Tandis que de ce Grec à la mort destiné,
 On couronne de fleurs le front infortuné⁎.
 Pleine d'un feu⁎ divin dans l'enceinte sacrée,
@@ -102,7 +96,7 @@ Elle n'est pas la seule icy que je redoute.
 Et quel autre ennemy pouvez-vous craindre ?
 
 -*who_thoas
-Ecoûte.
+      Ecoûte.
 Quand le feu⁎ Roy, parmy tant de Scythes fameux,
 Daigna tourner sur moy ses regards et ses vœux,
 Et me faire en mourant l'appuy⁎ de sa famille,
@@ -146,7 +140,7 @@ Tremble, Thoas, au nom d'Oreste.
 Quel Oracle !
 
 -*who_thoas
-En secret m'ayant esté rendu,
+      En secret m'ayant esté rendu,
 R'appellant aussi-tôt mon esprit éperdu,
 Pour assurer mes jours contre ce coup funeste,
 Je crus que je devois cacher le nom d'Oreste ;
@@ -245,7 +239,7 @@ Il n'en faut point douter, ce Prince est en ces lieux.
 Luy ?
 
 -*who_thoas
-C'est ce même Grec dont j'attens le supplice,
+      C'est ce même Grec dont j'attens le supplice,
 Et qu'aujourd'huy Diane accepte en sacrifice.
 Son front où d'un beau sang⁎ se répand la fierté⁎,
 Cet orgueil qu'il oppose à mon authorité ;
@@ -273,13 +267,13 @@ Nous allons l'éprouver par l'hymen⁎ qui s'apreste :
 L'ordre …
 
 -*who_iphigenie
-Arreste Thoas.
+      Arreste Thoas.
 
 -*who_thoas
-Hé quoy ?
+      Hé quoy ?
 
 -*who_iphigenie
-Thoas, arreste.
+      Thoas, arreste.
 Les Dieux n'approuvent point ton hymen⁎ avec moy.
 Diane a prononcé. Je ne puis estre à toy :
 Ce n'est pas tout. De sang la Deesse se lasse :
@@ -287,10 +281,10 @@ Devant son Tribunal ce Grec a trouvé grace :
 Elle s'en fait l'appuy⁎.
 
 -*who_thoas
-Ciel !
+      Ciel !
 
 -*who_iphigenie
-Au pied de l'Autel,
+      Au pied de l'Autel,
 Mon bras alloit sur luy porter le coup mortel.
 Un prodige inouy me surprend, et m'arreste.
 Les sacrez ornemens sont tombez de sa teste.
@@ -326,7 +320,7 @@ La parole a ses loix qu'on ne doit point enfraindre,
 Qui le souffre⁎ est indigne …
 
 -*who_iphigenie
-Est-ce à toy de t'en plaindre ?
+      Est-ce à toy de t'en plaindre ?
 Toy qui ne dois ce rang dont tu fais vanité,
 Qu'à ton manque de foy⁎, qu'à ton impieté :
 Aux ordres du feu⁎ Roy cesse de faire injure⁎.
@@ -344,7 +338,7 @@ Aux yeux de la Deesse ose, viens m'épouser,
 Je vais t'attendre.
 
 -*who_thoas
-Hé bien, je vous suis, ma vangeance …
+      Hé bien, je vous suis, ma vangeance …
 
 **** *book_ *id_scene4-I *act_acteI *date_1697 *creator_la_grange_chancel
 
@@ -363,7 +357,7 @@ Vous le voulez, cruelle⁎, attendez-moy.
 **** *book_ *id_scene5-I *act_acteI *date_1697 *creator_la_grange_chancel
 
 -*who_cyane
-Madame,
+      Madame,
 Quel est l'affreux dessein où s'emporte son ame !
 Que seroit-ce, grands Dieux ! s'il venoit à sçavoir
 Que ce prodige n'est que pour le décevoir⁎ :
@@ -374,7 +368,7 @@ Je crois déjà le voir furieux⁎, irrité,
 Porter sur vôtre teste …
 
 -*who_iphigenie
-Il n'oseroit Cyane.
+      Il n'oseroit Cyane.
 Consacrée aux Autels, Prestresse de Diane,
 Quelque audace qu'il eût ce frein l'arresteroit.
 Il a beau menacer Cyane, il n'oseroit.
@@ -441,7 +435,7 @@ Je n'ay conté qu'à toy les malheurs de ma vie.
 Madame …
 
 -*who_iphigenie
-De ce nom le fier⁎ ressentiment⁎,
+      De ce nom le fier⁎ ressentiment⁎,
 Déteste cet indigne, et lâche abaissement.
 Il veut briser un joug dont sa gloire est flêtrie.
 Je brûle⁎ de revoir la Grece, ma patrie,
@@ -460,7 +454,7 @@ Qu'aux mains d'Agamemnon il jure de remettre.
 Quand mon pere sçaura …
 
 -*who_cyane
-Madame, y pensez-vous ?
+      Madame, y pensez-vous ?
 Comment le dérober à Thoas en courroux⁎ ?
 Quand même à vôtre feinte il donneroit croyance,
 Pensez-vous d'un Tyran tromper la prévoyance ?
@@ -523,7 +517,7 @@ La Prestresse aujourd'huy le verroit son époux.
 Prevenons …
 
 -*who_anthenor
-Suspendez un moment ce courroux⁎ :
+      Suspendez un moment ce courroux⁎ :
 Tout semble s'opposer au sort⁎ qui vous menace.
 Tout semble présager qu'il va changer de face :
 Ce Grec dont le trépas est encore incertain,
@@ -564,7 +558,7 @@ Peut-estre à son devoir desormais attaché,
 Qu'il vous raporte un Sceptre …
 
 -*who_thomiris
-Aprés sa perfidie,
+      Aprés sa perfidie,
 Aprés l'impunité de son audace impie,
 Vous croyez qu'aux remords il se laisse ébranler,
 Et qu'il n'ait fait ce pas qu'afin de reculer,
@@ -576,7 +570,7 @@ L'Ambassadeur Sarmate est de l'intelligence.
 Tous contre le Tyran vont …
 
 -*who_anthenor
-Madame, il s'avance.
+      Madame, il s'avance.
 
 **** *book_ *id_scene2-II *act_acteII *date_1697 *creator_la_grange_chancel
 
@@ -609,7 +603,7 @@ Vous regnez ! Sans nul titre, et de race commune,
 A qui le devez-vous, Seigneur⁎ ?
 
 -*who_thoas
-A la fortune⁎.
+      A la fortune⁎.
 Destiné pour remplir le Trône où je me vois,
 Au feu⁎ Roy vôtre pere elle imposa son choix.
 C'est d'elle, et non de luy, que je tiens ma Couronne.
@@ -655,10 +649,10 @@ Adieu.
 **** *book_ *id_scene3-II *act_acteII *date_1697 *creator_la_grange_chancel
 
 -*who_thoas
-Faites venir ce Grec.
+      Faites venir ce Grec.
 
 -*who_anthenor
-Quelle surprise !
+      Quelle surprise !
 Avez-vous pû, Seigneur⁎, former cette entreprise ?
 Songez-vous bien à qui vous livrez Thomiris ?
 Au Sarmate, au plus grand de tous vos ennemis :
@@ -668,7 +662,7 @@ Il joindra tost ou tard vostre Sceptre, et le sien.
 Vous le voyez, Seigneur⁎, jamais …
 
 -*who_thoas
-Je ne vois rien.
+      Je ne vois rien.
 Dans les divers transports⁎ dont mon trouble m'anime⁎ ;
 Quand j'entends que les Dieux protegent ma victime,
 Quand je vois que mon peuple interdit⁎, effrayé,
@@ -694,7 +688,7 @@ Est-ce que la Prestresse est rebelle à mes loix ?
 Ne le verray-je pas ?
 
 -*who_hidaspe
-Seigneur⁎, on vous l'ameine :
+      Seigneur⁎, on vous l'ameine :
 Mais je ne l'ay du Peuple obtenu qu'avec peine :
 Inspiré par Diane à s'en faire l'appuy⁎,
 Son zele⁎, contre tous, se déclare pour luy ;
@@ -703,10 +697,10 @@ Par les Dieux attestez j'ay dissipé sa crainte,
 J'ay promis son retour.
 
 -*who_thoas
-Qu'il vienne.
+      Qu'il vienne.
 
 -*who_hidaspe
-Le voicy.
+      Le voicy.
 
 **** *book_ *id_scene5-II *act_acteII *date_1697 *creator_la_grange_chancel
 
@@ -727,7 +721,7 @@ Ne te retrouve pas une seconde fois.
 Tu peux partir.
 
 -*who_pilade
-Le sang⁎ dont le Ciel m'a fait naistre,
+      Le sang⁎ dont le Ciel m'a fait naistre,
 Dans ce vaste Univers ne connoist point de maître :
 Son sort⁎ indépendant en tout temps, en tous lieux,
 Ne reçoit ny de loix, ny d'ordres que des Dieux.
@@ -747,7 +741,7 @@ Seroit-ce l'ennemy …
 **** *book_ *id_scene6-II *act_acteII *date_1697 *creator_la_grange_chancel
 
 -*who_thoas
-Venez, venez, Madame.
+      Venez, venez, Madame.
 Ce malheureux mortel se déclare aujourd'huy,
 Indigne des bontez que vous avez pour luy :
 Il mourra, rien ne peut retenir ma vangeance.
@@ -984,7 +978,7 @@ Mon entreprise est seure, et mes desirs contens.
 Verray-je l'Etranger, Anthenor ?
 
 -*who_anthenor
-Ouy, Madame :
+      Ouy, Madame :
 Mais toujours agité des troubles de son ame,
 Je viens de le laisser pasle et sans mouvement ;
 Attendez pour le voir dans cet appartement,
@@ -1029,7 +1023,7 @@ Le delay n'est pas long. Allez.
 **** *book_ *id_scene3-III *act_acteIII *date_1697 *creator_la_grange_chancel
 
 -*who_erine
-Qu'ay-je entendu !
+      Qu'ay-je entendu !
 Quoy ! vous renoncez donc au rang qui vous est dû,
 En faveur de Thoas, vostre haine affoiblie …
 
@@ -1169,7 +1163,7 @@ Quel sort⁎ m'annonce icy vostre auguste⁎ presence ?
 Ne le puis-je sçavoir ?
 
 -*who_iphigenie
-Armez-vous de constance⁎.
+      Armez-vous de constance⁎.
 Montrez de vostre cœur toute la fermeté.
 C'est icy de Thoas l'Empire⁎ redouté.
 Nul Grec ne met le pied sur ce fatal rivage,
@@ -1189,7 +1183,7 @@ Et déja mon cœur vole au devant de vos coups.
 Me voila prest, marchons.
 
 -*who_iphigenie
-Je demeure immobile.
+      Je demeure immobile.
 Que vois-je ? Que la Grece en Heros est fertile !
 L'arrest⁎ du coup mortel qui les doit accabler,
 N'a rien d'assez affreux pour les faire trembler.
@@ -1229,10 +1223,10 @@ Contre la perfidie, ô titres superflus !
 Agamemnon …
 
 -*who_iphigenie
-Hé bien ?
+      Hé bien ?
 
 -*who_oreste
-Madame, il ne vit plus.
+      Madame, il ne vit plus.
 
 -*who_iphigenie
 Il ne vit plus ! Jaloux d'une si belle vie,
@@ -1249,20 +1243,20 @@ Soüiller, par son trépas, la plus sainte des loix.
 Quelle main ?
 
 -*who_oreste
-A son nom, Ciel ! étouffe ma voix.
+      A son nom, Ciel ! étouffe ma voix.
 
 -*who_iphigenie
 Quel est ce monstre ? ah Dieux !
 
 -*who_oreste
-Sans commettre un blasphême
+      Sans commettre un blasphême
 Puis-je le prononcer ! c'est sa femme elle-même.
 
 -*who_iphigenie
 Clitemnestre !
 
 -*who_oreste
-Ouy, Madame. Horrible souvenir !
+      Ouy, Madame. Horrible souvenir !
 Ne puisses-tu jamais penetrer l'avenir.
 
 -*who_iphigenie
@@ -1279,7 +1273,7 @@ Mais helas ! que sa mort coûta cher à son pere.
 Comment ?
 
 -*who_oreste
-Agamemnon vainqueur de tant de Rois,
+      Agamemnon vainqueur de tant de Rois,
 Revenoit triomphant joüir de ses exploits.
 Egiste en son absence ayant seduit la Reine,
 De ses amours furtifs apprehendant la peine,
@@ -1320,7 +1314,7 @@ Non. Mais le châtiment vous en est reservé.
 Vous voyez devant vous le criminel.
 
 -*who_iphigenie
-Impie,
+      Impie,
 As-tu pû, sans fremir, attenter à sa vie ?
 Diffamé par un meurtre horrible à reciter,
 Aprés l'avoir commis oses-tu t'en vanter ?
@@ -1339,7 +1333,7 @@ Attens mon ordre.
 **** *book_ *id_scene7-III *act_acteIII *date_1697 *creator_la_grange_chancel
 
 -*who_oreste
-Où vont ces transports⁎ furieux⁎ !
+      Où vont ces transports⁎ furieux⁎ !
 Quel interest prend-elle au sort⁎ de mes ayeux ?
 Ciel ! Mais pourquoy vouloir en penetrer la cause :
 Elle m'offre la mort ; demanday-je autre chose ?
@@ -1375,7 +1369,7 @@ Ah ! pour moy le trépas n'a plus rien de funeste.
 C'est Pilade, grands Dieux !
 
 -*who_pilade
-Que vois-je ? c'est Oreste.
+      Que vois-je ? c'est Oreste.
 
 -*who_oreste
 Pilade entre mes bras, qui l'auroit pû penser ?
@@ -1441,7 +1435,7 @@ Connoissent dans quel sang ils vont tremper leurs mains.
 Allons, Seigneur.
 
 -*who_oreste
-Amy, que vas-tu faire ? arreste.
+      Amy, que vas-tu faire ? arreste.
 
 -*who_pilade
 Du coup qui va tomber suspendons la tempeste,
@@ -1454,7 +1448,7 @@ On vient.
 **** *book_ *id_scene10-III *act_acteIII *date_1697 *creator_la_grange_chancel
 
 -*who_hidaspe
-Vous estes-vous acquitté de l'employ …
+      Vous estes-vous acquitté de l'employ …
 
 -*who_pilade
 Pour en estre informé, qu'on nous conduise au Roy.
@@ -1626,11 +1620,11 @@ Aux cœurs comme le mien la vie est peu de chose.
 Quoy vous …
 
 -*who_iphigenie
-Allons sçavoir par quel soudain appuy⁎
+      Allons sçavoir par quel soudain appuy⁎
 Ce Grec …
 
 -*who_cyane
-Hidaspe vient, vous l'apprendrez de luy.
+      Hidaspe vient, vous l'apprendrez de luy.
 
 **** *book_ *id_scene5-IV *act_acteIV *date_1697 *creator_la_grange_chancel
 
@@ -1651,7 +1645,7 @@ Dans ce trouble mortel … Mais les voicy tous deux.
 Sçachez quel est celuy …
 
 -*who_iphigenie
-Qu'on me laisse avec eux.
+      Qu'on me laisse avec eux.
 
 **** *book_ *id_scene6-IV *act_acteIV *date_1697 *creator_la_grange_chancel
 
@@ -1693,7 +1687,7 @@ Puisse obtenir la mort par grace, ou par supplice.
 Venez.
 
 -*who_pilade
-Craignez vous-même, et tremblez d'y penser.
+      Craignez vous-même, et tremblez d'y penser.
 C'est le pur sang⁎ des Dieux que vous allez verser.
 Son bras, à vos desseins, peut servir mieux qu'un autre :
 Sa haine, pour Thoas, est égale à la vôtre ;
@@ -1706,7 +1700,7 @@ Heritier de son rang, c'est son fils, c'est Oreste.
 Oreste !
 
 -*who_oreste
-A cet amy n'ajoûtez point de foy⁎,
+      A cet amy n'ajoûtez point de foy⁎,
 Il vous peint des vertus qui ne sont point en moy.
 Ce n'est que par pitié que sa bouche me louë.
 Je suis du sang des Dieux, il est vray, je l'avouë ;
@@ -1724,7 +1718,7 @@ N'écoûtez sur ma mort ny pitié, ny priere,
 Ouy, je vous la demande à genoux.
 
 -*who_iphigenie
-Ah mon frere !
+      Ah mon frere !
 
 -*who_oreste
 Juste Ciel ! de quel nom vient-on de m'honorer !
@@ -1766,7 +1760,7 @@ J'estois tantôt coupable, et je le suis encore.
 Hélas !
 
 -*who_oreste
-Il n'est plus temps de répandre des pleurs,
+      Il n'est plus temps de répandre des pleurs,
 A l'espoir dont le Ciel nous flate⁎, ouvrons nos cœurs :
 Je me sens inspiré par ses vives lumieres,
 Et dans l'évenement de ses profonds mysteres⁎,
@@ -1808,7 +1802,7 @@ Epargne à vôtre main l'horreur d'un sacrilege,
 Qu'aux ordres de Thoas …
 
 -*who_iphigenie
-Et moy que deviendray-je ?
+      Et moy que deviendray-je ?
 Sanglant, enorgueilly d'un triomphe inhumain,
 Je verray le Tyran vos testes à la main,
 M'imposer un hymen⁎ que mon ame déteste.
@@ -1839,7 +1833,7 @@ Que je vive, Madame, et respire sans vous :
 Ah ! plûtost tout mon sang …
 
 -*who_iphigenie
-Le Tyran vient à nous.
+      Le Tyran vient à nous.
 
 **** *book_ *id_scene7-IV *act_acteIV *date_1697 *creator_la_grange_chancel
 
@@ -1941,7 +1935,7 @@ Vous pouvez de ma part le luy faire sçavoir.
 Allez.
 
 -*who_anthenor
-Jusques au Temple, où son zele⁎ s'empresse
+      Jusques au Temple, où son zele⁎ s'empresse
 D'aller pour son voyage implorer la Deesse,
 Je vais de vos bontez, Seigneur⁎, luy faire part.
 
@@ -1995,7 +1989,7 @@ Allons … Mais je le vois.
 **** *book_ *id_scene2-V *act_acteV *date_1697 *creator_la_grange_chancel
 
 -*who_thoas
-Par quels retardemens …
+      Par quels retardemens …
 
 -*who_hidaspe
 Tout succede, Seigneur, à vos empressemens⁎.
@@ -2068,7 +2062,7 @@ Qu'on avoit de Diane enlevé la statuë.
 Ciel !
 
 -*who_taxis
-Accusant les Grecs de cette impieté,
+      Accusant les Grecs de cette impieté,
 A les chercher par tout mon zele⁎ m'a porté.
 Je fais entendre en vain par tout leur nom funeste.
 Aucun ne me répond quand je demande Oreste.
@@ -2080,7 +2074,7 @@ Et mon lâche ennemy trouve qui le protege.
 Quel monstre dans ma Cour …
 
 -*who_taxis
-Seigneur⁎, vous le diray-je,
+      Seigneur⁎, vous le diray-je,
 Une impie, une ingrate, une fiere⁎ beauté,
 Se vante, sans fremir, de cette impieté :
 Elle ose aux yeux de tous avoüer son offense,
@@ -2173,7 +2167,7 @@ Je ne crains rien cruel⁎, frape.
 **** *book_ *id_scene6-V *act_acteV *date_1697 *creator_la_grange_chancel
 
 -*who_taxis
-Venez, Seigneur⁎,
+      Venez, Seigneur⁎,
 Le jour nous a fait voir la troupe fugitive,
 Qu'un orage imprévû retient prés de la rive.
 Hidaspe par les vents les voyant arrestez,
@@ -2274,7 +2268,7 @@ Il le joint ; mais bien-tost il a le même sort,
 Sous le fer de ce Prince il expire.
 
 -*who_thomiris
-Il est mort.
+      Il est mort.
 
 -*who_anthenor
 Ouy, Madame, et la mer jusqu'alors soûlevée,

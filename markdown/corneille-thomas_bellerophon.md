@@ -1,5 +1,5 @@
 ---
-identifier: corneille_bellerophon  
+identifier: corneille-thomas_bellerophon  
 creator: Corneille, Thomas  
 date: 1679  
 title: Bellerophon. Tragédie  
@@ -859,7 +859,7 @@ De ses premiers regards.
 Ah ! C'est Bellerophon.  
 
     PHILONOE
-C'est luy, je le confesse,  
+        C'est luy, je le confesse,  
 Ne condamnez point ma tendresse⁎.  
 Quand mille exploits fameux parlent pour un Amant,  
 Peut-on résister un moment ?  
@@ -929,7 +929,7 @@ Aujourd'huy de ma main elle attend un Espoux,
 C'est luy que je choisis.  
 
     STENOBEE
-Ciel, que me dites-vous ?  
+        Ciel, que me dites-vous ?  
 Choisir Bellerophon ! & qui l'auroit pû croire ?  
 
     LE ROY
@@ -1664,7 +1664,7 @@ Quel prix d'une ardeur⁎ si fidelle !
 N'y pensons plus.  
 
     BELLEROPHON
-Quoy ? vous pourrez [159], cruelle,  
+        Quoy ? vous pourrez [159], cruelle,  
 Engager ailleurs votre foy ?  
 
     PHILONOE
@@ -1795,7 +1795,7 @@ Tout tarit.
 Quel excés d'ennuis⁎ !  
 
     NAPEE
-Quelles peines !  
+        Quelles peines !  
 
     ENSEMBLE
 Plaignons, plaignons les maux qui désolent ces lieux  
@@ -2026,7 +2026,7 @@ N'a versé que pour moy le sang de vos Sujets.
 Le Traistre ! qu'on l'arreste.  
 
     STENOBEE
-Il s'est mis par la fuite  
+        Il s'est mis par la fuite  
 A couvert de vostre poursuite ;  
 Mais il traisne avec luy son crime & son amour.  
 
@@ -2056,7 +2056,7 @@ J'expire.
 Quel excés de fureur⁎ ?  
 
     LE ROY
-Sa mort en est le prix,  
+        Sa mort en est le prix,  
 Mais oublions & son crime & sa peine,  
 Voicy Bellerophon que Pallas nous ramène,  
 Son Triomphe⁎ doit seul occuper nos esprits.  

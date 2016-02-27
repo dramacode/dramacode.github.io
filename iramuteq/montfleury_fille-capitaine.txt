@@ -34,7 +34,7 @@ THIERRY, Syndic.
 Achevé d'imprimer pour la premiere fois le 4.
 Janvier 1672.
 
-**** *book_ *id_body-4-1 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-401 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Je suis libre à present, & maistresse de moy,
@@ -79,7 +79,7 @@ Qu'il n'est hors ce plaisir, rien qui le divertisse,
 Et les jours sont trop courts…
 
 -*who_lucinde
-C'est luy faire injustice.
+      C'est luy faire injustice.
 Non, cet empressement n'est point si violent ;
 Damon aime le Jeu, mais Damon est galant⁎ ;
 Outre que la beauté dont le Ciel t'a pourveuë,
@@ -162,7 +162,7 @@ Voicy ton Chevalier : & je lis dans ses yeux,
 Que si ton Frere estoit comme nous dans ces lieux,
 Au plaisir de te voir il seroit plus sensible.
 
-**** *book_ *id_body-4-2 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-402 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 Est-ce ce qui vous trouble ? & seroit-il possible…
@@ -194,7 +194,7 @@ Et venir à Paris passer le Carnaval,
 Et du moins en ce temps…
 
 -*who_angelique
-Nous aurons donc le Bal !
+      Nous aurons donc le Bal !
 
 -*who_damon
 Pourveu que le succés mette fin à mes craintes,
@@ -211,7 +211,7 @@ Un an de Mariage appaise bien des feux⁎.
 -*who_damon
 Ah, pour diminuer, mes flames⁎ sont trop belles.
 
-**** *book_ *id_body-4-3 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-403 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Ah que pour vostre amour j'ay de bonnes nouvelles !
@@ -231,7 +231,7 @@ Sçais-tu quand il revient ? & peux-tu là-dessus
 Nous aprendre…
 
 -*who_cato
-Moy ? Non, je n'en sçay rien non plus.
+      Moy ? Non, je n'en sçay rien non plus.
 
 -*who_angelique
 Que viens-tu donc nous dire ? elle est bonne, ou je meure.
@@ -254,16 +254,16 @@ Sçachons ce qui l'ameine, & puis qu'il est ainsi,
 Rentrons dans le Logis.
 
 -*who_cato
-Madame, le voicy.
+      Madame, le voicy.
 
-**** *book_ *id_body-4-4 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-404 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Madame, Serviteur à vostre Compagnie,
 Fussiez-vous trente.
 
 -*who_angelique
-Bon ; j'aime cette saillie.
+      Bon ; j'aime cette saillie.
 
 -*who_l_esperance
 Vostre Frere est gaillard, & ce Billet contient…
@@ -272,7 +272,7 @@ Vostre Frere est gaillard, & ce Billet contient…
 Il se porte bien ?
 
 -*who_l_esperance
-Mieux qu'à luy n'apartient.
+      Mieux qu'à luy n'apartient.
 Suivant l'ordre que j'ay d'avoir soin du Bagage,
 Je suis venu devant⁎ avec son Equipage⁎.
 Gernidié, quels chemins ! Allez, nostre Mulet
@@ -291,31 +291,31 @@ Que douze heures apres il estoit encor yvre.
 Fort bien. Enfin il vient.
 
 -*who_lucinde
-Sa Lettre me délivre
+      Sa Lettre me délivre
 De la peine où j'estois. L'attendras-tu ?
 
 -*who_l_esperance
-Moy ? Non,
+      Moy ? Non,
 Il faut que je retourne à nostre Garnison.
 
 -*who_lucinde
 Quoy, si-tost ?
 
 -*who_l_esperance
-J'en enrage, ou la peste me tuë.
+      J'en enrage, ou la peste me tuë.
 
 -*who_lucinde
 Mais quoy faire ?
 
 -*who_l_esperance
-Mordié, mener une Recruë⁎ :
+      Mordié, mener une Recruë⁎ :
 Mais avant que quitter les Fauxbourgs de Paris,
 Ma foy, je prétens boire avec mes bons Amis.
 Je veux renouveller certaine connoissance…
 Bonjour, Cato.
 
 -*who_cato
-Bonjour, Monsieur de L'Esperance.
+      Bonjour, Monsieur de L'Esperance.
 
 -*who_angelique
 Ainsi l'Hymen⁎ dans peu va flater vostre amour.
@@ -343,19 +343,19 @@ Cependant comme il faut en ménager l'aveu⁎,
 Je vais pour l'obtenir, me rendre à sa demeure.
 Je vous quitte à regret, & reviens dans une heure.
 
-**** *book_ *id_body-4-5 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-405 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Elles vont toutes deux jaser jusqu'à demain,
 Et je meurs de soif.
 
 -*who_cato
-Viens dans le Logis.
+      Viens dans le Logis.
 
-**** *book_ *id_body-4-6 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-406 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
-En vain
+      En vain
 Ton amour s'alarmoit, & toute autre en ta place…
 
 -*who_lucinde
@@ -374,7 +374,7 @@ Cet Oncle m'est suspect, tu veux sçavoir pour quoy ?
 Oüy.
 
 -*who_lucinde
-C'est que ce Parent est amoureux de moy ;
+      C'est que ce Parent est amoureux de moy ;
 Il m'aime, à ce qu'il dit, d'une ardeur⁎ peu commune ;
 Il me suit en tous lieux, par tout il m'importune,
 S'obstine à m'en parler, voyant que sur ce poinct…
@@ -395,7 +395,7 @@ Ne me diras-tu point aussi comme on le nomme ?
 Monsieur le Blanc.
 
 -*who_angelique
-Ce doit estre un fort plaisant Homme ;
+      Ce doit estre un fort plaisant Homme ;
 Je ne le connois point, mais dessus ton recit…
 
 -*who_lucinde
@@ -406,14 +406,14 @@ Il choque en se montrant, beaucoup moins qu'en parlant,
 Et je crois…
 
 -*who_angelique
-Ah, grands Dieux, le douloureux Galant⁎ !
+      Ah, grands Dieux, le douloureux Galant⁎ !
 Cousin, ordonne-luy quelques grains d'Elebore.
 
 -*who_lucinde
 Ce n'est pas encore tout.
 
 -*who_angelique
-Auroit-il pis encore ?
+      Auroit-il pis encore ?
 
 -*who_lucinde
 Oüy sans doute, & ce Fou devroit estre lié.
@@ -422,13 +422,13 @@ Oüy sans doute, & ce Fou devroit estre lié.
 Que peut-il donc avoir ?
 
 -*who_lucinde
-C'est qu'il est marié.
+      C'est qu'il est marié.
 
 -*who_angelique
 Ce Magot⁎ ?
 
 -*who_lucinde
-Il a mesme une Femme bien faite,
+      Il a mesme une Femme bien faite,
 Il m'en fait un mystere, & me conte fleurette,
 Comme s'il aspiroit à me donner sa foy⁎.
 
@@ -450,7 +450,7 @@ Mais il est de Damon & l'Oncle & le Tuteur,
 Et tu vois…
 
 -*who_angelique
-Je voy bien ce qui te tient au cœur ;
+      Je voy bien ce qui te tient au cœur ;
 Tu crains aparemment que vangeant cet outrage,
 Ce Parent irrité ne nuise au Mariage.
 
@@ -470,7 +470,7 @@ Outre que c'est un feu que j'ay crû devoir taire.
 Le temps…
 
 -*who_angelique
-Si ce Parent refuse son aveu⁎,
+      Si ce Parent refuse son aveu⁎,
 Croy-moy, laisse-moy faire, & nous verrons beau jeu:
 Je me charge du soin de le rendre traittable ;
 Je sçay, pour le berner, un moyen admirable.
@@ -479,15 +479,15 @@ Je sçay, pour le berner, un moyen admirable.
 Quel?
 
 -*who_angelique
-Je te le diray.
+      Je te le diray.
 
 -*who_lucinde
-S'il n'y veut consentir,
+      S'il n'y veut consentir,
 Il faudra l'éprouver, & nous en divertir.
 Voila Monsieur le Blanc.
 
 -*who_angelique
-Ah la bonne Figure⁎ !
+      Ah la bonne Figure⁎ !
 Tu voudrois l'épargner ? ah c'est malice pure.
 Que j'auray de plaisir à rire à ses dépens !
 
@@ -495,9 +495,9 @@ Que j'auray de plaisir à rire à ses dépens !
 Evitons-le, il pourroit m'aborder.
 
 -*who_angelique
-J'y consens.
+      J'y consens.
 
-**** *book_ *id_body-4-7 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-407 *act_ *date_1672 *creator_montfleury
 
 -*who_madame_le_blanc
 Où voulez-vous aller ? Je ne sçay point d'affaire…
@@ -510,56 +510,56 @@ Si vous voulez me plaire, il faut changer de ton.
 Il sera bientost nuit.
 
 -*who_monsieur_le_blanc
-Et m'enlevera-t-on ?
+      Et m'enlevera-t-on ?
 
 -*who_madame_le_blanc
 Si vous revenez tard ?
 
 -*who_monsieur_le_blanc
-On m'ouvrira la Porte.
+      On m'ouvrira la Porte.
 
 -*who_madame_le_blanc
 On tua l'autre nuit un Homme.
 
 -*who_monsieur_le_blanc
-Que m'importe ?
+      Que m'importe ?
 
 -*who_madame_le_blanc
 A vingt pas du Logis, hyer on en vola deux
 Jusques à leurs Habits.
 
 -*who_monsieur_le_blanc
-Hé bien, tant-pis pour eux.
+      Hé bien, tant-pis pour eux.
 
 -*who_madame_le_blanc
 Ne vaudroit-il pas mieux…
 
 -*who_monsieur_le_blanc
-Il vaudroit mieux vous taire.
+      Il vaudroit mieux vous taire.
 
 -*who_madame_le_blanc
 Quand on aime un Mary…
 
 -*who_monsieur_le_blanc
-L'on fait ce qu'on doit faire.
+      L'on fait ce qu'on doit faire.
 
 -*who_madame_le_blanc
 Si l'on vous attaquoit ?
 
 -*who_monsieur_le_blanc
-Il faudroit financer.
+      Il faudroit financer.
 
 -*who_madame_le_blanc
 Et si l'on vous blessoit ?
 
 -*who_monsieur_le_blanc
-Je me ferois penser.
+      Je me ferois penser.
 
 -*who_madame_le_blanc
 Cependant…
 
 -*who_monsieur_le_blanc
-Cependant, en un mot, comme en mille,
+      Cependant, en un mot, comme en mille,
 De vos si mal placez, la suite est inutile :
 D'un soin tout different nous voulons nous piquer ;
 Vous de me contredire, & moy de m'en moquer.
@@ -582,7 +582,7 @@ Ouvrez vostre fenestre, & voyez les passans,
 Je ne l'empesche pas.
 
 -*who_madame_le_blanc
-De l'humeur dont vous estes,
+      De l'humeur dont vous estes,
 Il vous falloit pour Femme une de ces Coquettes
 Qui pres d'elle toûjours eust quelque Favory,
 Tout prest à reparer l'absence d'un Mary,
@@ -601,7 +601,7 @@ Et vous vous repentez d'estre Femme de bien.
 Mais enfin ?
 
 -*who_monsieur_le_blanc
-Mais enfin, voila vostre Morale,
+      Mais enfin, voila vostre Morale,
 Voila le but où tend vostre Mercuriale.
 
 -*who_madame_le_blanc
@@ -609,33 +609,33 @@ Vous prenez mal la chose, & ce jaloux transport⁎
 Explique à contre-sens…
 
 -*who_monsieur_le_blanc
-Il est vray, j'ay grand tort ;
+      Il est vray, j'ay grand tort ;
 Par ce raisonnement vous me faites connoistre
 Que je ne le suis pas, mais que je devrois l'estre,
 Et que vostre devoir consiste desormais
 A me faire porter…
 
 -*who_madame_le_blanc
-Mais je dis…
+      Mais je dis…
 
 -*who_monsieur_le_blanc
-Point de mais :
+      Point de mais :
 Pour faire des Galans⁎, le prétexte est honneste.
 
 -*who_madame_le_blanc
 Vous sçavez…
 
 -*who_monsieur_le_blanc
-Laissez-moy, vous me rompez la teste,
+      Laissez-moy, vous me rompez la teste,
 Vous me feriez encor quelque autre sot discours.
 
 -*who_madame_le_blanc
 Si…
 
 -*who_monsieur_le_blanc
-Morbleu, laissez-moy, vous raisonnez toûjours.
+      Morbleu, laissez-moy, vous raisonnez toûjours.
 
-**** *book_ *id_body-4-8 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-408 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 De pareils Animaux, la moitié d'une paire,
@@ -648,7 +648,7 @@ Ou si quelque soupçon de mon nouvel amour
 L'a fait, pour m'imiter, servir de ce détour ?
 Mais voicy mon Neveu, je pense qu'il murmure.
 
-**** *book_ *id_body-4-9 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-409 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Qu'avez-vous, Chevalier de la triste Figure⁎?
@@ -661,14 +661,14 @@ Dans un Corps étranger, l'ame de vostre bourse ?
 Non.
 
 -*who_monsieur_le_blanc
-D'un pic & capot, le desordre outrageant,
+      D'un pic & capot, le desordre outrageant,
 Vous auroit-il laissé sans joye & sans argent ?
 
 -*who_damon
 Non.
 
 -*who_monsieur_le_blanc
-Sur un trente & un, quelque indiscret quarante,
+      Sur un trente & un, quelque indiscret quarante,
 Ne vous a-t-il point fait visite trop frequente ?
 Ou bien si c'est d'ailleurs quelque nouveau malheur
 Qui fait faire une éclipse à vostre belle humeur ?
@@ -690,7 +690,7 @@ Jamais tant de vertu jointe à tant de mérites,
 N'a fait voir…
 
 -*who_monsieur_le_blanc
-J'en croy plus encor que vous n'en dites,
+      J'en croy plus encor que vous n'en dites,
 Et je croy que l'on doit voir devant ses appas⁎
 Les Roses & les Lys mettre pavillon bas.
 Mais vous trouverez bon, mon Cadet, qu'on vous dise,
@@ -716,7 +716,7 @@ Estant vostre Neveu, c'est par vostre entremise
 Que je dois ménager…
 
 -*who_monsieur_le_blanc
-Je voy tout le secret :
+      Je voy tout le secret :
 Estant vostre Tuteur à vostre grand regret,
 Vous voulez que je parle au Père de la Belle.
 
@@ -730,7 +730,7 @@ Cette Belle a du bien ; ma vie & mon repos⁎
 Dépendent du succés…
 
 -*who_monsieur_le_blanc
-C'est à dire, en deux mots,
+      C'est à dire, en deux mots,
 Que ses biens à l'Hymen⁎ vous feront condescendre,
 Et que sur vostre front vous mettez, Place à vendre.
 Hé bien j'en suis d'accord ; mais sçaurons-nous son nom ?
@@ -739,14 +739,14 @@ Hé bien j'en suis d'accord ; mais sçaurons-nous son nom ?
 C'est Lucinde.
 
 -*who_monsieur_le_blanc
-Comment ? Parlez-vous tout de bon?
+      Comment ? Parlez-vous tout de bon?
 C'est…
 
 -*who_damon
-Lucinde.
+      Lucinde.
 
 -*who_monsieur_le_blanc
-Morbleu, je meurs d'amour pour elle.
+      Morbleu, je meurs d'amour pour elle.
 
 -*who_damon
 Vous la pouvez connoistre, elle est jeune & belle.
@@ -791,7 +791,7 @@ Aussi fier qu'un Bourgeois qui porte un deüil de Cour.
 Songez que mon amour…
 
 -*who_monsieur_le_blanc
-Il n'est amour qui tienne,
+      Il n'est amour qui tienne,
 Vostre facon d'agir quadre mal à la sienne ;
 Vos parolis frequents, & souvent mal placez,
 Luy feroient bientost voir ses Loüis éclipsez,
@@ -808,7 +808,7 @@ Mais il n'en fera rien. & je n'en veux rien faire :
 Taisez-vous.
 
 -*who_damon
-Si mon cœur à l'aimer destiné…
+      Si mon cœur à l'aimer destiné…
 
 -*who_monsieur_le_blanc
 Taisez-vous, vous dit-on, pupille suranné.
@@ -818,9 +818,9 @@ Je metais; & de peur de vous mettre en colere,
 Je m'éloigne de vous.
 
 -*who_monsieur_le_blanc
-Vous ne sçauriez mieux faire.
+      Vous ne sçauriez mieux faire.
 
-**** *book_ *id_body-4-10 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-410 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Cecy n'est pas mon compte, & ce jeune Coquet
@@ -836,7 +836,7 @@ Mais il faut hazarder, si l'on veut estre heureux ;
 Je l'aime, elle le sçait, mes soins l'ont fait connoistre :
 Voyons-la ; Que sçait-on ? je lui plairay peut-estre.
 
-**** *book_ *id_body-5-1 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-501 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Quoy, ce Monsieur le Blanc fait l'amoureux de vous,
@@ -846,7 +846,7 @@ Qu'à se donner à vous il met toute sa gloire ?
 Qu'il veut vous épouser ? Le Fourbe !
 
 -*who_lucinde
-Chaque jour
+      Chaque jour
 Il me suit, il m'aborde, il me parle d'amour,
 Et mesme à nostre Hymen⁎ Damon dit qu'il s'opose.
 Je m'en estois doutée, & j'en sçavois la cause.
@@ -867,7 +867,7 @@ Vous m'allez voir joüer un assez plaisant rôle.
 Sçait-il…
 
 -*who_lucinde
-Oüy, je luy dis à la Porte hyer au soir,
+      Oüy, je luy dis à la Porte hyer au soir,
 Qu'à quelque heure aujourd'huy je prétendois le voir.
 Je feignis de l'aimer, je luy fis bonne mine,
 Et je suivis en tout l'ordre de ma Cousine.
@@ -889,7 +889,7 @@ Encor si ce Magot⁎ estoit un Homme à plaire…
 Hé bien…
 
 -*who_cato
-Eh… L'on verroit ce que l'on pourroit faire.
+      Eh… L'on verroit ce que l'on pourroit faire.
 
 -*who_lucinde
 Sa Femme doit servir au stratagéme aussy,
@@ -903,7 +903,7 @@ Nous allons le berner, en vous servant tous deux :
 Prenez-vous-en à moy, si vous n'estes contente.
 Mais Damon vient, je pense, avecque sa Parente.
 
-**** *book_ *id_body-5-2 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-502 *act_ *date_1672 *creator_montfleury
 
 -*who_damon
 Voila ce qui se passe, & ce que l'on résout ;
@@ -942,22 +942,22 @@ Il n'en est pas besoin, car je la voy venir.
 -*who_madame_le_blanc
 On ne peut estre mieux, & j'aurois de la peine…
 
-**** *book_ *id_body-5-3 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-503 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 L' Esperance ? mes Gens ?
 
 -*who_l_esperance
-Plaist-il⁎, mon Capitaine ?
+      Plaist-il⁎, mon Capitaine ?
 
 -*who_angelique
 Bon cela. Souviens-toy…
 
 -*who_l_esperance
-Je sçay bien.
+      Je sçay bien.
 
 -*who_angelique
-Chevalier,
+      Chevalier,
 Dites-moy, sentons-nous un peu nostre Officier ?
 Que dites-vous de nous ? Ce port, cette manière,
 A vostre avis, ma Chere, est-elle Cavaliere ?
@@ -968,7 +968,7 @@ Ait bien des Officiers qui soient faits comme moy ?
 Qu'elle est bien !
 
 -*who_l_esperance
-Elle a l'air, dedans⁎ cet équipage⁎,
+      Elle a l'air, dedans⁎ cet équipage⁎,
 De ces petits Fripons qu'on fait sortir de Page,
 Pour envoyer à Malte aprendre leur Mestier.
 
@@ -984,13 +984,13 @@ Puis que c'est un moyen de le rendre fidelle.
 -*who_madame_le_blanc
 J'ay promis à Damon de suivre vos avis.
 
-**** *book_ *id_body-5-4 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-504 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 Qu'est-ce ?
 
 -*who_la_brie
-Monsieur le Blanc est proche du Logis ;
+      Monsieur le Blanc est proche du Logis ;
 On m'avoit commandé de voir par la fenestre,
 Et si-tost qu'il viendroit, d'en avertir mon Maistre.
 
@@ -1010,7 +1010,7 @@ Tout est bien concerté ; je prétens aujourd huy
 Vous donner un plaisir qui n'ait rien qui l'égale.
 Mais je les vois venir, entrons dans cette Salle.
 
-**** *book_ *id_body-5-5 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-505 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Oüy, Madame Cato, vous m'en voyez charmé ;
@@ -1029,22 +1029,22 @@ Oüy, ma Chere, dy-moi, penses-tu qu'elle m'aime ?
 Ah Monsieur…
 
 -*who_monsieur_le_blanc
-Quoy ? poursuis.
+      Quoy ? poursuis.
 
 -*who_cato
-Cent fois plus qu'elle-méme!
+      Cent fois plus qu'elle-méme!
 
 -*who_monsieur_le_blanc
 Mon air luy plaist ?
 
 -*who_cato
-Helas ! il luy semble si doux…
+      Helas ! il luy semble si doux…
 
 -*who_monsieur_le_blanc
 Elle m'aime ?
 
 -*who_cato
-Elle meurt, Monsieur, d'amour pour vous.
+      Elle meurt, Monsieur, d'amour pour vous.
 
 -*who_monsieur_le_blanc
 La Friponne ! Instruis-moy de toute sa tendresse⁎.
@@ -1063,7 +1063,7 @@ Je veux que par mes soins vous soyez soulagées,
 Et que…
 
 -*who_cato
-Nous vous serons, Monsieur, bien obligées.
+      Nous vous serons, Monsieur, bien obligées.
 
 -*who_monsieur_le_blanc
 Avec un peu de temps, je veux pourvoir à tout :
@@ -1071,19 +1071,19 @@ Mais puis qu'à me souffrir Lucinde se résout,
 Ne la verray-je pas…
 
 -*who_cato
-Dans la Chambre prochaine
+      Dans la Chambre prochaine
 Je croy qu'elle entretient Monsieur le Capitaine.
 
 -*who_monsieur_le_blanc
 Un Capitaine ! D'où ?
 
 -*who_cato
-Du Regiment du Roy.
+      Du Regiment du Roy.
 Son Frere ; Il est icy pour quelque temps je croy.
 Il vint, pour nos pechez, hyer au soir.
 
 -*who_monsieur_le_blanc
-Quel Homme est-ce ?
+      Quel Homme est-ce ?
 
 -*who_cato
 Un petit enragé, qui ferraille sans cesse :
@@ -1101,12 +1101,12 @@ Mais aussi quelque jour il joüera de son reste ;
 Il en a tué dix depuis dix mois.
 
 -*who_monsieur_le_blanc
-La peste !
+      La peste !
 Avec de tels Bréteurs il faut filer bien doux.
 S'il me voyoit ceans⁎…
 
 -*who_cato
-Ce seroit fait de vous,
+      Ce seroit fait de vous,
 Monsieur, il vous tuëroit, & toute nostre adresse…
 
 -*who_monsieur_le_blanc
@@ -1114,18 +1114,18 @@ Je m'en vais faire un tour, & verray ta Maistresse
 Quand il n'y sera plus.
 
 -*who_cato
-Quoy, sortir sans la voir !
+      Quoy, sortir sans la voir !
 Ah ce seroit, Monsieur, la mettre au desespoir.
 Pourquoy vous éloigner ?
 
 -*who_monsieur_le_blanc
-Ne t'en mets point en peine.
+      Ne t'en mets point en peine.
 
 -*who_cato
 Mais si Lucinde sçait…
 
 -*who_monsieur_le_blanc
-Mais si le Capitaine
+      Mais si le Capitaine
 Vient à voir ma Figure⁎, & se tient insulté,
 Je me garantis mort à perpetuité.
 
@@ -1136,7 +1136,7 @@ Au pis aller, Monsieur, il faudra vous cacher.
 Allez, rassurez-vous, je m'en vay la chercher ;
 Si son Frere paroist, cachez-vous, je vous prie.
 
-**** *book_ *id_body-5-6 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-506 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Hé bien va. Tout cecy passe la raillerie ;
@@ -1157,7 +1157,7 @@ Mais si l'on m'y retient, je veux estre berné,
 Car j'en auray la fievre au moins une semaine.
 Ah morbleu, je suis mort, voicy le Capitaine.
 
-**** *book_ *id_body-5-7 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-507 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 O Dieux ! Monsieur le Blanc, vous estes-vous blessé ?
@@ -1168,9 +1168,9 @@ Ce n'est rien : Mais que fait Monsieur le Capitaine ?
 
 -*who_lucinde
 Je pense qu'il écrit.
-Prends garde qu'il ne vienne.
+      Prends garde qu'il ne vienne.
 
-**** *book_ *id_body-5-8 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-508 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 Vous voyez jusqu'où va ma tendresse⁎ pour vous,
@@ -1185,14 +1185,14 @@ Verray-je tant d'amour fecondé par vos soins ?
 Vous ne répondez rien.
 
 -*who_monsieur_le_blanc
-Je n'en pense pas moins ;
+      Je n'en pense pas moins ;
 Mais je crains qu'on ne trouble un bonheur dont je doute,
 Et la peur quelquefois met la joy en déroute.
 
 -*who_lucinde
 Douter de mon amour ? lors que le vostre obtient…
 
-**** *book_ *id_body-5-9 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-509 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Ah Monsieur, cachez-vous, le Capitaine vient.
@@ -1201,27 +1201,27 @@ Ah Monsieur, cachez-vous, le Capitaine vient.
 Le facheux contretemps !
 
 -*who_cato
-Sur peine de la vie,
+      Sur peine de la vie,
 Gardez de vous montrer.
 
 -*who_monsieur_le_blanc
-Je n'en ay pas envie.
+      Je n'en ay pas envie.
 
 -*who_lucinde
 Je vous quitte à regret.
 
 -*who_monsieur_le_blanc
-Tréve de compliment⁎,
+      Tréve de compliment⁎,
 Où faut-il me cacher ?
 
 -*who_cato
-Dans cet Apartement.
+      Dans cet Apartement.
 
 -*who_monsieur_le_blanc
 Je me fie à Cato, qui me trahit peut-estre.
 Ecoutons-les sans bruit, je pourray le connoistre.
 
-**** *book_ *id_body-5-10 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-510 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Cato, je te cherchois, & depuis mon retour
@@ -1230,15 +1230,15 @@ Il ne me souvient point de t'avoir embrassée.
 Il n'est pas sorty.
 
 -*who_cato
-Non.
+      Non.
 
 -*who_angelique
-J'ay l'ame embarassée,
+      J'ay l'ame embarassée,
 Et je me sens reduit à te dire en deux mots.
 A propos.
 
 -*who_cato
-D'où vient donc, Monsieur, cet A propos ?
+      D'où vient donc, Monsieur, cet A propos ?
 
 -*who_angelique
 Avant que de porter plus loin la confidence,
@@ -1250,10 +1250,10 @@ Ne la visitoit point un peu trop frequemment ?
 Je tremble.
 
 -*who_cato
-Non, Monsieur.
+      Non, Monsieur.
 
 -*who_angelique
-Une Fille à cet âge
+      Une Fille à cet âge
 Est ordinairement plus coquette que sage.
 
 -*who_cato
@@ -1261,14 +1261,14 @@ Elle estoit toûjours seule, & jamais ne sortoit,
 A moins que…
 
 -*who_angelique
-Par la mort, si quelqu'un s'y frotoit,
+      Par la mort, si quelqu'un s'y frotoit,
 Je lui feroit passer un fort méchant quart-d'heure.
 
 -*who_cato
 On n'a garde, Monsieur.
 
 -*who_angelique
-On fait bien, ou je meure.
+      On fait bien, ou je meure.
 
 -*who_cato
 Elle est trop vertueuse, & l'on le sçait trop bien.
@@ -1281,11 +1281,11 @@ Ne sçaurois-je revoir cette jeune Bourgeoise…
 Je vous entens, Monsieur ; Pourquoy non ?
 
 -*who_monsieur_le_blanc
-La Matoise,
+      La Matoise,
 Est de plus d'un Mestier.
 
 -*who_angelique
-Cato, depuis deux ans
+      Cato, depuis deux ans
 J'ay songé mille fois à tous les doux momens
 Que j'ay passé pres d'elle, & de toutes les Belles…
 
@@ -1296,25 +1296,25 @@ Elle m'a demandé vingt fois de vos nouvelles.
 M'aimeroit-elle encor ?
 
 -*who_cato
-En doutez-vous ?
+      En doutez-vous ?
 
 -*who_angelique
-Hélas !
+      Hélas !
 La verray-je ?
 
 -*who_cato
-Pourquoy ne la verriez- vous pas ?
+      Pourquoy ne la verriez- vous pas ?
 Cette Belle, ma foy, seroit bien dégoûtée,
 Si vous ne luy plaisiez ; Car pour moy…
 
 -*who_monsieur_le_blanc
-L'éfrontée !
+      L'éfrontée !
 
 -*who_angelique
 Mais puis-je en esperer…
 
 -*who_cato
-Je vous répons, Monsieur,
+      Je vous répons, Monsieur,
 Qu'elle vous recevra du meilleur de son cœur.
 
 -*who_angelique
@@ -1325,7 +1325,7 @@ Si je la pourray voir ou ceans⁎, ou chez elle.
 Pour chez elle, Monsieur, neant.
 
 -*who_angelique
-Et pourquoy non ?
+      Et pourquoy non ?
 
 -*who_cato
 C'est que je ne sçay point son Logis, ny son nom ;
@@ -1336,7 +1336,7 @@ Comment faisois-tu donc, lors que par intervalle
 Tu l'amenois ceans⁎ ?
 
 -*who_cato
-La Veuve d'un Bourgeois
+      La Veuve d'un Bourgeois
 Chez qui j'allois apprendre à coëffer autrefois,
 Quand je luy veux parler, va chercher cette Belle,
 Tandis que je l'attens, & pour raison, dit-elle,
@@ -1348,12 +1348,12 @@ Un Pié-plat⁎ qui la fuit, & qu'on dit pour la voir,
 Qu'on va pour la coëffer.
 
 -*who_angelique
-Que j'en conçois d'espoir !
+      Que j'en conçois d'espoir !
 Ne pers donc point de temps ; & si ton soin m'oblige⁎,
 Sois seûre…
 
 -*who_cato
-Vous aurez contentement, vous dis-je ;
+      Vous aurez contentement, vous dis-je ;
 Cele ne pourra, si je n'en viens à bout.
 J'y cours, & je vous viens rendre raison de tout.
 
@@ -1364,19 +1364,19 @@ Morbleu, fut-il déjà dans sa Chambre avec elle.
 -*who_angelique
 L'Esperance ?
 
-**** *book_ *id_body-5-11 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-511 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
-Monsieur ?
+      Monsieur ?
 
 -*who_monsieur_le_blanc
-Il ne sort point d'icy.
+      Il ne sort point d'icy.
 
 -*who_angelique
 Viença.
 
 -*who_monsieur_le_blanc
-Le grand Fripon que paroist celuy-ci !
+      Le grand Fripon que paroist celuy-ci !
 
 -*who_angelique
 As-tu veu mon Cousin ? a-t-il fait ma Recruë⁎ ?
@@ -1385,7 +1385,7 @@ As-tu veu mon Cousin ? a-t-il fait ma Recruë⁎ ?
 Oüy, je vous en répons.
 
 -*who_angelique
-Mais enfin l'as-tu veuë ?
+      Mais enfin l'as-tu veuë ?
 M'a-t-il fait vingt Soldats comme il m'avoit promis ?
 
 -*who_l_esperance
@@ -1400,28 +1400,28 @@ Et des barbes, morbleu, qui les rendent plus graves…
 Sont-ils braves, à voir ?
 
 -*who_l_esperance
-Morgué, s'ils n'etoient braves,
+      Morgué, s'ils n'etoient braves,
 Les voudrois-je emmener ?
 
 -*who_angelique
-C'est parler de bon sens :
+      C'est parler de bon sens :
 Mais à la Garnison il faut mener ces Gens ;
 Comme tu ne m'es plus à Paris necessaire,
 Tu partiras…
 
 -*who_l_esperance
-Demain, & j'en fais mon affaire ;
+      Demain, & j'en fais mon affaire ;
 Préparez de l'argent.
 
 -*who_angelique
-C'est fort bien raisonné.
+      C'est fort bien raisonné.
 
 -*who_l_esperance
 Votre œil est aujourd'huy bien emmerillonné !
 Vous avez vostre conte.
 
 -*who_angelique
-Oüy, j'ay l'ame contente ;
+      Oüy, j'ay l'ame contente ;
 Cato me fait revoir, pour flater mon attente,
 Cette jeune Beauté que tu vis une fois…
 
@@ -1433,14 +1433,14 @@ Qui venoit quelquefois vous tenir compagnie.
 Elles-mesme, & je dois…
 
 -*who_l_esperance
-Peste, qu'elle est jolie !
+      Peste, qu'elle est jolie !
 Dieu sçait si le Mary… plaist-il⁎, Monsieur ?
 
 -*who_angelique
-Tay-toy,
+      Tay-toy,
 Quelqu'un vient, laisse-nous, c'est elle que je voy.
 
-**** *book_ *id_body-5-12 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-512 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 A Vingt pas du Logis, j'ay rencontré Madame.
@@ -1449,7 +1449,7 @@ A Vingt pas du Logis, j'ay rencontré Madame.
 Que mon bonheur est grand !
 
 -*who_monsieur_le_blanc
-La peste ! C'est ma Femme !
+      La peste ! C'est ma Femme !
 
 -*who_angelique
 Depuis que j'eus l'honneur de vous voir en ce Lieu,
@@ -1458,10 +1458,10 @@ L'absence a fait sentir à mon ame amoureuse
 Tout ce qu'elle a de rude.
 
 -*who_madame_le_blanc
-Est-il bien vray ?
+      Est-il bien vray ?
 
 -*who_monsieur_le_blanc
-La Gueuse !
+      La Gueuse !
 
 -*who_angelique
 Mais puis que mon bonheur me fait vous retrouver,
@@ -1477,7 +1477,7 @@ Quand vous ne nous seriez jamais veus qu'aujourd'huy.
 La Coquine !
 
 -*who_angelique
-Je crois en deviner la cause ;
+      Je crois en deviner la cause ;
 L'amour pour vostre Epoux, à mon bonheur s'opose.
 
 -*who_madame_le_blanc
@@ -1489,13 +1489,13 @@ Ah ! si jamais le Sort secondoit mon envie…
 Hé bien ?
 
 -*who_madame_le_blanc
-Je vous verrois tous les jours de ma vie.
+      Je vous verrois tous les jours de ma vie.
 
 -*who_monsieur_le_blanc
 Fort-bien.
 
 -*who_angelique
-Pour un Amant qui meurt pour vous d'amour,
+      Pour un Amant qui meurt pour vous d'amour,
 C'est & trop de bontez & de joye en un jour.
 J'ay pour vous une ardeur qui n'a rien qui l'égale :
 Mais comme tout le monde aborde en cette Salle,
@@ -1509,12 +1509,12 @@ Entrons, puis que le Sort permet que je vous voye.
 Cato ?
 
 -*who_cato
-Monsieur ?
+      Monsieur ?
 
-**** *book_ *id_body-5-13 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-513 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
-Voila la Marchande de joye :
+      Voila la Marchande de joye :
 L'affront que l'on me fait, ne m'est que trop connu,
 Et l'aveu⁎ qu'on en fait, n'est que trop ingénu.
 Voila de ces Serpens, de ces Pestes publiques,
@@ -1538,13 +1538,13 @@ Il est plus d'une Femme, & l'on a qu'une vie;
 Il est mutin en diable, & Cato me l'a dit.
 Taisons-nous, attendons qu'elle… J'entens du bruit.
 
-**** *book_ *id_body-5-14 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-514 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Il faut faire sortir nostre Amoureux.
 
 -*who_monsieur_le_blanc
-C'est elle,
+      C'est elle,
 Sortons ; assez longtemps c'est estre en sentinelle.
 
 -*who_cato
@@ -1552,7 +1552,7 @@ Il s'est fallu, Monsieur, contraindre jusqu'au bout :
 Mais vous vous estes bien ennuyé ?
 
 -*who_monsieur_le_blanc
-Point du tout.
+      Point du tout.
 Le moyen ? quand on voit des intrigues si drôles.
 
 -*who_cato
@@ -1575,14 +1575,14 @@ Monsieur le Capitaine aime fort cette Belle ?
 Cela n'est pas croyable.
 
 -*who_monsieur_le_blanc
-Et cette Damoiselle
+      Et cette Damoiselle
 L'aime fort ?
 
 -*who_cato
-Oüy, Monsieur.
+      Oüy, Monsieur.
 
 -*who_monsieur_le_blanc
-Presentement… je crois…
+      Presentement… je crois…
 
 -*who_cato
 Ils se sont embrassez déjà plus de cent fois.
@@ -1592,33 +1592,33 @@ Ta Maistresse sçaura, si tu luy veux apprendre,
 Que je suis son Valet.
 
 -*who_cato
-Mais, Monsieur, où vous prendre,
+      Mais, Monsieur, où vous prendre,
 Si l'on vous veut parler ? Où logez-vous ?
 
 -*who_monsieur_le_blanc
-Trop loin.
+      Trop loin.
 
 -*who_cato
 Je vous irois chercher.
 
 -*who_monsieur_le_blanc
-Il n'en est pas besoin.
+      Il n'en est pas besoin.
 
 -*who_cato
 Dites vostre Logis, ma Maistresse est capable,
 L'ignorant…
 
 -*who_monsieur_le_blanc
-On le sçait trop bien, de par le Diable.
+      On le sçait trop bien, de par le Diable.
 Que l'on me laisse aller, je la verray dans peu.
 
 -*who_cato
 Puis que vous le voulez, adieu, Monsieur.
 
 -*who_monsieur_le_blanc
-Adieu.
+      Adieu.
 
-**** *book_ *id_body-5-15 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-515 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Il meurt de jalousie, & de colere ensemble.
@@ -1626,31 +1626,31 @@ J'ay bien joüé mon rôle ; & voila, ce me semble,
 Pour un commencement, assez bien débuté.
 Allons songer au reste, & rire en liberté.
 
-**** *book_ *id_body-6-1 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-601 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 Cato ?
 
 -*who_angelique
-Que luy veux-tu ?
+      Que luy veux-tu ?
 
 -*who_lucinde
-Qu'est-elle devenuë ?
+      Qu'est-elle devenuë ?
 
 -*who_angelique
 Tu l'apelles en vain.
 
 -*who_lucinde
-L'auroit-on retenuë ?
+      L'auroit-on retenuë ?
 
 -*who_angelique
 Je ne crois pas.
 
 -*who_lucinde
-Comment, nous suivoit-elle ?
+      Comment, nous suivoit-elle ?
 
 -*who_angelique
-Non.
+      Non.
 
 -*who_lucinde
 Elle estoit avec nous chez la Sœur de Damon.
@@ -1663,20 +1663,20 @@ Et le soin que tu prens, Cousine, est inutile.
 Et quoy faire ?
 
 -*who_angelique
-Chercher Monsieur le Blanc.
+      Chercher Monsieur le Blanc.
 
 -*who_lucinde
-Pourquoy ?
+      Pourquoy ?
 
 -*who_angelique
 Pour lui rendre un Poulet de ta part.
 
 -*who_lucinde
-Mais, dy-moy,
+      Mais, dy-moy,
 Que contient-il ?
 
 -*who_angelique
-Il est fort galant⁎, & fort tendre.
+      Il est fort galant⁎, & fort tendre.
 
 -*who_lucinde
 Ton enjoûment, Cousine, a dequoy me surprendre.
@@ -1695,7 +1695,7 @@ Nostre Monsieur le Blanc a bien donné dedans ;
 Il croit de bonne-foy sa Femme…
 
 -*who_lucinde
-Je t'avouë
+      Je t'avouë
 Que ton air goguenard⁎ merite qu'on te louë :
 Il seroit malaisé de mieux faire l'Amant,
 Et tu devrois estre Homme avec tant d'enjoûment.
@@ -1716,7 +1716,7 @@ Que j'aurois eu ma part des meilleures fortunes.
 Tu pourrois te tromper.
 
 -*who_angelique
-Je ne sçay ; mais enfin,
+      Je ne sçay ; mais enfin,
 Un cœur pour m'échaper, m'auroit semblé bien fin.
 
 -*who_lucinde
@@ -1725,7 +1725,7 @@ Avec Monsieur le Blanc, & que l'on s'y dispose,
 Il falloit retenir sa Femme.
 
 -*who_angelique
-Point du tout ;
+      Point du tout ;
 Pour juger du dessein, attens jusques au bout.
 
 -*who_lucinde
@@ -1741,13 +1741,13 @@ Il n'est pas violent, il connoit son humeur,
 Outre que leur défaite est preste.
 
 -*who_lucinde
-J'aurois peur…
+      J'aurois peur…
 
 -*who_angelique
 Tay-toy, je l'aperçois, évitons-le, & pour cause.
 Allons dans le Logis préparer chaque chose.
 
-**** *book_ *id_body-6-2 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-602 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Ma Femme ne vient point, elle se trouve bien,
@@ -1772,29 +1772,29 @@ Leur conseil au besoin…Mais j'aperçoy la Belle,
 Et Monsieur l'Officier n'a plus que faire d'elle :
 Mon Neveu l'accompagne. Il faut dissimuler.
 
-**** *book_ *id_body-6-3 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-603 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Serviteur.
-Venez-vous de vous faire enrôler ?
+      Venez-vous de vous faire enrôler ?
 
 -*who_madame_le_blanc
 Comment donc ?
 
 -*who_monsieur_le_blanc
-Venez-vous de voir faire Reveuë ?
+      Venez-vous de voir faire Reveuë ?
 Les Belles du Marais font-elles leur Recruë⁎ ?
 Avez-vous mis en vain ces Mouches & ce Point?
 Et la Coëffeuse enfin…
 
 -*who_madame_le_blanc
-Je ne vous entens point.
+      Je ne vous entens point.
 
 -*who_monsieur_le_blanc
 Taisez-vous, éfrontée !
 
 -*who_damon
-Eh, mon Oncle, de grace…
+      Eh, mon Oncle, de grace…
 
 -*who_monsieur_le_blanc
 Mon Dieu, mon cher Neveu, ce mystere vous passe,
@@ -1809,7 +1809,7 @@ Mais si vostre dessein est de vous faire entendre,
 Expliquez…
 
 -*who_monsieur_le_blanc
-Je commence enfin à m'échauffer.
+      Je commence enfin à m'échauffer.
 Une Femme chez qui l'on aprend à coëffer,
 Ne vous ménage pas les lieux où l'on vous meine.
 Vous ne sortez jamais, & certain Capitaine
@@ -1823,7 +1823,7 @@ Pour flater son amour, j'aurois trahy le vostre ?
 Qui peut vous avoir fait de tels discours ?
 
 -*who_monsieur_le_blanc
-A l'autre.
+      A l'autre.
 Vous plaist-il de vous taire ? Enfin jusques au bout
 Vous pensez vous tirer d'affaire, en niant tout ?
 Vous croyez que quelqu'un, pour se faire de feste,
@@ -1846,26 +1846,26 @@ Cela n'est pas possible ! Un projet si hardy
 Auroit pû s'estre fait…
 
 -*who_monsieur_le_blanc
-Peste de l'étourdy :
+      Peste de l'étourdy :
 Cette teste à l'évent me prend pour quelque Gruë.
 Hé bien, qu'en dites-vous ?
 
 -*who_madame_le_blanc
-Que si vous m'avez veuë,
+      Que si vous m'avez veuë,
 Sans venir faire icy cet éclaircissement,
 Vous pouviez me confondre assez facilement ;
 Qu'il faloit vous montrer, cette voye estoit seûre.
 Que ne paroissiez-vous ?
 
 -*who_monsieur_le_blanc
-Ah voilà l'encloüeûre.
+      Ah voilà l'encloüeûre.
 
 -*who_damon
 Il est vray, vous deviez vous montrer, & tout haut
 Luy dire…
 
 -*who_monsieur_le_blanc
-Mallepeste, il y faisoit trop chaud ;
+      Mallepeste, il y faisoit trop chaud ;
 Quand on risque sa vie, il n'est Femme qui tienne,
 Et j'avois ma raison, comme elle avoit la sienne.
 
@@ -1874,7 +1874,7 @@ Il l'a resvé sans doute, & ne se souvient plus
 Que c'est l'effet d'un songe.
 
 -*who_monsieur_le_blanc
-A d'autres là-dessus ;
+      A d'autres là-dessus ;
 Je ne sçay que trop bien ce qu'il faut que j'en pense.
 Rentrez, morbleu, rentrez, & craignez ma vangeance,
 Je suis de vos amours un assez bon témoin.
@@ -1883,9 +1883,9 @@ Je suis de vos amours un assez bon témoin.
 Mon Oncle…
 
 -*who_monsieur_le_blanc
-Mon Neveu, vous prenez trop de soin.
+      Mon Neveu, vous prenez trop de soin.
 
-**** *book_ *id_body-6-4 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-604 *act_ *date_1672 *creator_montfleury
 
 -*who_damon
 On doit pour une Femme avoir quelque scrupule.
@@ -1900,21 +1900,21 @@ De ces conseils benins, l'usage est bel & bon :
 Cependant…
 
 -*who_damon
-Cependant sur un simple soupçon
+      Cependant sur un simple soupçon
 Vous…
 
 -*who_monsieur_le_blanc
-Vous estes un fat, & vostre esprit s'érige…
+      Vous estes un fat, & vostre esprit s'érige…
 
 -*who_damon
 Mais…
 
 -*who_monsieur_le_blanc
-Vous estes un sot avant terme, vous dis-je.
+      Vous estes un sot avant terme, vous dis-je.
 On vous dit qu'on a veu.
 
 -*who_damon
-Sur la foy de ses yeux,
+      Sur la foy de ses yeux,
 Croit-on que ce qu'on voit, soit ce qu'on sçait le mieux ?
 Il faut, pour avérer une semblable offence,
 D'avec la verité détacher l'aparence,
@@ -1944,17 +1944,17 @@ Elle n'a veu que nous, depuis qu'elle est dehors.
 Et vous en répondez ?
 
 -*who_damon
-J'en répons.
+      J'en répons.
 
 -*who_monsieur_le_blanc
-Corps pour corps ?
+      Corps pour corps ?
 
 -*who_damon
 Elle a trop de pudeur, & trop de retenuë,
 Pour souffrir…
 
 -*who_monsieur_le_blanc
-Comment diable, aurois-je eu la berluë ?
+      Comment diable, aurois-je eu la berluë ?
 
 -*who_damon
 Outre que j'en répons, elle sçait son devoir :
@@ -1980,7 +1980,7 @@ Qu'elle ait de la vertu, puis qu'il en a douté.
 Comme vous dites.
 
 -*who_damon
-Si depuis peu sa conduite,
+      Si depuis peu sa conduite,
 D'un amour aparent vous fait craindre la suite,
 Eclaircissez-vous-en sans vous mettre en courroux⁎ ;
 Tâchez de la convaincre, & pour lors vangez-vous.
@@ -1989,7 +1989,7 @@ Tâchez de la convaincre, & pour lors vangez-vous.
 Il a presque raison.
 
 -*who_damon
-De peur de vous détruire,
+      De peur de vous détruire,
 Ne faites jusques-là rien qui puisse vous nuire ;
 D'un repentir sans fruit épargnez-vous l'ennuy.
 
@@ -1999,9 +1999,9 @@ La convaincre de tout avec un peu d'adresse,
 Et je sçais un moyen… Serviteur.
 
 -*who_damon
-Je vous laisse.
+      Je vous laisse.
 
-**** *book_ *id_body-6-5 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-605 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Il raisonne assez bien, je puis m'estre trompé,
@@ -2019,7 +2019,7 @@ Et je veux m'éclaircir enfin, quoy qu'il m'en couste;
 Cherchons-la, je prétens, en sortant de ces lieux,
 Que…Mais tout-à-propos elle s'offre à mes yeux.
 
-**** *book_ *id_body-6-6 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-606 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Je vous ay tant cherché, que j'en suis hors d'haleine :
@@ -2031,7 +2031,7 @@ J'ay bien esté grondée, & j'ay bien arpenté.
 Pourquoy ?
 
 -*who_cato
-Pour n'avoir pû dire vostre demeure,
+      Pour n'avoir pû dire vostre demeure,
 Lucinde s'est d'abord emportée, & sur l'heure
 M'a donné ce Billet, & m'a bien defendu
 De rentrer au Logis, qu'il n'ait esté rendu.
@@ -2043,7 +2043,7 @@ Ce Billet vous dira si sa peine est cruelle,
 Et si l'on doit…
 
 -*who_monsieur_le_blanc
-Voyons du style de la Belle.
+      Voyons du style de la Belle.
 Depuis vostre depart je suis au desespoir,
 Et d'un ennuy si grand vostre absence est suivie,
 Que j'aime autant perdre la vie,
@@ -2067,7 +2067,7 @@ Ils m'ont prise chez eux, Monsieur, pour estre à tout.
 Mais ne viendrez-vous pas ?
 
 -*who_monsieur_le_blanc
-Il faut voir jusqu'au bout.
+      Il faut voir jusqu'au bout.
 Oüy, oüy, j'iray. Ma Femme y reviendra peut-estre,
 Et nous verrons beau jeu : Mais prens garde à ton Maistre,
 Il m'a tantost⁎ pensé faire mourir de peur.
@@ -2087,7 +2087,7 @@ De ménager pour nous un quart-d'heure de joye.
 Que veut dire cela ?
 
 -*who_monsieur_le_blanc
-C'est à dire, en deux mots,
+      C'est à dire, en deux mots,
 Que la Coëffeuse peut beaucoup pour mon repos⁎ ;
 Que pour elle & pour toy je seray sans reserve,
 Si vous voulez… Enfin il n'est qu'un mot qui serve ;
@@ -2110,22 +2110,22 @@ Rien, ma pauvre Cato ; Va, ce n'est que pour rire,
 Je ne luy veux parler qu'un moment.
 
 -*who_cato
-Je ne puis,
+      Je ne puis,
 Cette Femme n'est pas…
 
 -*who_monsieur_le_blanc
-Je donne dix Loüis,
+      Je donne dix Loüis,
 Et ma Bague.
 
 -*who_cato
-On verra ce que l'on pourra faire.
+      On verra ce que l'on pourra faire.
 
 -*who_monsieur_le_blanc
 Que tu fais de façons pour conclure une affaire !
 Songe à bien ménager…
 
 -*who_cato
-Vous serez satisfait.
+      Vous serez satisfait.
 
 -*who_monsieur_le_blanc
 Dy-moy, quand ce projet aura-t-il son effet ?
@@ -2139,7 +2139,7 @@ Je ne croy pas, Monsieur ; & si vous luy parlez…
 Où la verray-je enfin ?
 
 -*who_cato
-Chez vous, si vous voulez.
+      Chez vous, si vous voulez.
 
 -*who_monsieur_le_blanc
 Elle n'y viendroit pas. Non, non, chez la Coëffeuse
@@ -2149,14 +2149,14 @@ Je feray mieux l'aveu⁎ de ma flâme⁎ amoureuse.
 Je le veux.
 
 -*who_monsieur_le_blanc
-Je prévoy sa honte à mon aspect,
+      Je prévoy sa honte à mon aspect,
 Quand je verray ma Femme en quelque Lieu suspect.
 Je voy plus d'un Mary rire à teste levée,
 A qui mesme avanture est peut-estre arrivée.
 Cato, cela vaut fait.
 
 -*who_cato
-Je vous répons de tout.
+      Je vous répons de tout.
 
 -*who_monsieur_le_blanc
 J'iray tantost⁎ chez toy. Feignons jusques au bout.
@@ -2165,7 +2165,7 @@ A son honneur douteux faire amande honorable,
 Et feindre d'un discours, & d'un air composé,
 Pour la mieux abuser, d'estre des-abusé.
 
-**** *book_ *id_body-7-1 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-701 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 A la fin, Dieu mercy, j'ons tout ce qui nous faut,
@@ -2188,20 +2188,20 @@ Le bon Païs que c'est, pour une Garnison !
 Mais ce raisonnement n'est pas fort de saison,
 Allons tout préparer, & faisons diligence.
 
-**** *book_ *id_body-7-2 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-702 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Ah, Cato, ton Valet.
 
 -*who_cato
-Ah, bonjour, L'Esperance.
+      Ah, bonjour, L'Esperance.
 On te cherche par tout, & tu dois nous aider…
 
 -*who_l_esperance
 Que veut-on ? me voila.
 
 -*who_cato
-Faut-il le demander ?
+      Faut-il le demander ?
 C'est pour Monsieur le Blanc. Angelique elle-méme
 Prépare à le berner, un nouveau stratagéme :
 Pour en venir à bout, elle a besoin de toy.
@@ -2210,12 +2210,12 @@ Pour en venir à bout, elle a besoin de toy.
 Je suis prest à bien faire, & tu verras…
 
 -*who_cato
-Dy-moi,
+      Dy-moi,
 N'a-t-elle pas joüé bien plaisamment son rôle
 Avec nostre Galant⁎ ?
 
 -*who_l_esperance
-Elle est, morgué, trop drôle :
+      Elle est, morgué, trop drôle :
 Elle m'a bien fait rire ; & le pauvre lourdaut…
 
 -*who_cato
@@ -2229,28 +2229,28 @@ C'est pour une autre fois ; ils sont tous là-haut ; monte
 Pour voir ce qu'on te veut.
 
 -*who_l_esperance
-Je te l'ay déjà dit,
+      Je te l'ay déjà dit,
 Mon amour est bien las de te faire crédit :
 Depuis plus de dix ans, tu sçais bien que je t'aime ;
 Pour un baiser, ou deux, veux-tu…
 
 -*who_cato
-Veux-tu toy-méme
+      Veux-tu toy-méme
 Me laisser en repos⁎ ?
 
 -*who_angelique
-L'Esperance ?
+      L'Esperance ?
 
 -*who_l_esperance
-Monsieur ?
+      Monsieur ?
 
 -*who_cato
 Va.
 
 -*who_l_esperance
-Tu n'en es pas quitte. On y va. Serviteur.
+      Tu n'en es pas quitte. On y va. Serviteur.
 
-**** *book_ *id_body-7-3 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-703 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Peste du gros lourdaut ! voyez, qu'il prend de peine.
@@ -2262,7 +2262,7 @@ Il nous payera bien la peine qu'il nous donne.
 Le tour qu'on luy prépare est plaisant, sur ma foy ;
 Sa Femme devroit bien venir… Mais je la voy.
 
-**** *book_ *id_body-7-4 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-704 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Je craignois bien qu'icy vous ne pûssiez vous rendre.
@@ -2271,7 +2271,7 @@ Je craignois bien qu'icy vous ne pûssiez vous rendre.
 A quoy passe le temps, Lucinde ?
 
 -*who_cato
-A vous attendre.
+      A vous attendre.
 Et moy, j'attens aussi que Monsieur vostre Epoux
 Vienne, comme il l'a dit, tantost⁎ au Rendez-vous.
 Angelique & Damon joindront leurs soins aux vostres.
@@ -2280,18 +2280,18 @@ Angelique & Damon joindront leurs soins aux vostres.
 Que son humeur me plaist !
 
 -*who_cato
-Elle plaist à bien d'autres.
+      Elle plaist à bien d'autres.
 
 -*who_madame_le_blanc
 Je brûle de les voir, pour sçavoir quelle peur
 On luy veut faire encor.
 
 -*who_cato
-Si vous estiez d'humeur
+      Si vous estiez d'humeur
 A garder un secret…
 
 -*who_madame_le_blanc
-Parle, je sçais me taire.
+      Parle, je sçais me taire.
 
 -*who_cato
 Je puis vous confier une assez bonne affaire ;
@@ -2300,16 +2300,16 @@ Si vous me promettez que vous n'en direz rien,
 De ménager pour vous…
 
 -*who_madame_le_blanc
-Ah ce doute m'offence.
+      Ah ce doute m'offence.
 
 -*who_cato
 Vous sçaurez donc…
 
 -*who_madame_le_blanc
-Hé bien ?
+      Hé bien ?
 
 -*who_cato
-Qu'un Galant⁎ d'importance
+      Qu'un Galant⁎ d'importance
 Est amoureux de vous, & que pour vous gagner
 Il est dans le dessein de ne rien épargner :
 Outre ce que pour vous il aura de tendresse⁎,
@@ -2320,20 +2320,20 @@ Je me suis engagée à vous porter parole,
 Et crû vous obliger⁎.
 
 -*who_madame_le_blanc
-Depuis quand es-tu folle ?
+      Depuis quand es-tu folle ?
 Veux-tu qu'en profitant de tes bonnes leçons,
 Je donne rendez-vous…
 
 -*who_cato
-Mon Dieu, que de façons !
+      Mon Dieu, que de façons !
 Pourquoy non ?
 
 -*who_madame_le_blanc
-Tu prétens que son argent m'oblige⁎,
+      Tu prétens que son argent m'oblige⁎,
 Malgré ce que je dois…
 
 -*who_cato
-Oüy, ce Galant⁎, vous dis-je,
+      Oüy, ce Galant⁎, vous dis-je,
 Verra par des faveurs récompenser son choix,
 Et ce ne sera pas pour la premiere fois.
 
@@ -2341,7 +2341,7 @@ Et ce ne sera pas pour la premiere fois.
 Pour la premiere fois ! Tu peux…
 
 -*who_cato
-Il me le semble,
+      Il me le semble,
 Et vous avez passé de bons momens ensemble.
 
 -*who_madame_le_blanc
@@ -2360,13 +2360,13 @@ Et des Loüis forts bons ; voyez si j'extravague.
 Montre, je la connois… Je croy…
 
 -*who_cato
-Cela se peut.
+      Cela se peut.
 
 -*who_madame_le_blanc
 Qu'elle est à mon Mary.
 
 -*who_cato
-C'est luy qui vous en veut.
+      C'est luy qui vous en veut.
 Depuis qu'il vous a veuë en ce lieu si docile,
 Il croit que vous allez chercher fortune en Ville,
 Qu'à faire des galans⁎ vous avez du panchant,
@@ -2376,7 +2376,7 @@ Estre pour son argent, bien venu comme un autre.
 Hé bien, le verrez-vous tantost⁎ ?
 
 -*who_madame_le_blanc
-Helas ! je crains
+      Helas ! je crains
 Qu'il n'ait contre mes jours fait d'étranges desseins,
 Et que l'on ait trop loin poussé la raillerie.
 
@@ -2388,28 +2388,28 @@ Rentrez, c'est vostre Epoux. Dites à ma Maistresse
 Qu'elle songe à son rôle.
 
 -*who_madame_le_blanc
-Il suffit, je te laisse.
+      Il suffit, je te laisse.
 
-**** *book_ *id_body-7-5 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-705 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Comment va nostre affaire ?
 
 -*who_cato
-Eh tout ira fort bien.
+      Eh tout ira fort bien.
 
 -*who_monsieur_le_blanc
 Bon : Et le Capitaine ?
 
 -*who_cato
-Allez, n'en craignez rien.
+      Allez, n'en craignez rien.
 
 -*who_monsieur_le_blanc
 Ce n'est pas sans sujet que ma peur est extréme ;
 Et tu sçais que tantost⁎…
 
 -*who_cato
-Oh ce n'est pas de mesme,
+      Oh ce n'est pas de mesme,
 Il est hors du Logis, & pour tout aujourd'huy
 Il est avec un tas de Vauriens comme luy,
 Pour faire la débauche, & Dieu nous en délivre :
@@ -2433,7 +2433,7 @@ Pourray-je luy parler, & veux-tu t'employer…
 -*who_cato
 Oüy, Monsieur, attendez, je vay vous l'envoyer.
 
-**** *book_ *id_body-7-6 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-706 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Pour finir l'embarras d'un amour qui me gesne⁎,
@@ -2454,10 +2454,10 @@ Et quand on se prévaut de leur simplicité,
 On peut… Mais reprenons un peu de gravité,
 La voicy.
 
-**** *book_ *id_body-7-7 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-707 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
-Revenu d'une frayeur mortelle,
+      Revenu d'une frayeur mortelle,
 Je ramene à vos pieds un Protestant fidelle,
 Passablement poltron : Mais nous autres Bourgeois,
 Qui faisons volontiers l'amour en tapinois,
@@ -2477,17 +2477,17 @@ De grace, proposez nostre Hymen⁎ à mon Frere.
 S'il s'opose…
 
 -*who_lucinde
-Et pourquoy nous seroit-il contraire ?
+      Et pourquoy nous seroit-il contraire ?
 Vous estes riche ?
 
 -*who_monsieur_le_blanc
-Un peu.
+      Un peu.
 
 -*who_lucinde
-Bien fait ?
+      Bien fait ?
 
 -*who_monsieur_le_blanc
-Sans vanité.
+      Sans vanité.
 Nous avons le bon air. Pour de la qualité…
 
 -*who_lucinde
@@ -2495,21 +2495,21 @@ Ah je regarde en vous vostre seule Personne.
 Luy proposerez-vous… Dites donc ?
 
 -*who_monsieur_le_blanc
-Oüy, Mignonne.
+      Oüy, Mignonne.
 
 -*who_lucinde
 S'il y veut consentir, si rien ne le retient,
 Quand épouserons-nous ?
 
 -*who_monsieur_le_blanc
-La Semaine qui vient.
+      La Semaine qui vient.
 
 -*who_lucinde
 C'est l'unique bonheur où mon amour aspire.
 Quoy, je serois à vous ?
 
 -*who_monsieur_le_blanc
-Cela va sans dire.
+      Cela va sans dire.
 Si par quelque accident qu'on ne peut pas prévoir,
 Cet Hymen⁎ se devoit ou remettre, ou surseoir,
 Nous pourrons établir entre nous, sous silence,
@@ -2529,7 +2529,7 @@ Il est vray, c'en est un, mais il est dangereux :
 Un pareil Mariage…
 
 -*who_monsieur_le_blanc
-Ah c'est le plus commode,
+      Ah c'est le plus commode,
 Le moins embarassant, & le plus à la mode.
 Quand d'un Hymen⁎ en forme on avance l'effet,
 Le jour qu'on se marie, on ne sçait ce qu'on fait.
@@ -2548,7 +2548,7 @@ Et que faire autrement, c'est faire une sottise.
 Que vous raisonnez juste !
 
 -*who_monsieur_le_blanc
-Oh, oh. Cela posé,
+      Oh, oh. Cela posé,
 Nous pourrons contracter un Mariage aisé ;
 Sans rien précipiter, nous pourrons, quoy qu'on die,
 Ordonner à loisir de la Cerémonie,
@@ -2559,7 +2559,7 @@ Vous en déciderez, ainsi que des aprests.
 Rien n'est plus obligeant.
 
 -*who_monsieur_le_blanc
-Si vous estes contente
+      Si vous estes contente
 D'un Epoux possedant deux mille écus de rente,
 Je suis vostre Homme, & puis vous en faire present
 Quand je voudray, demain, ou bien en épousant ;
@@ -2577,7 +2577,7 @@ A suivre vos avis, mon amour se résout.
 Comment…vous consentez…
 
 -*who_lucinde
-Oüy, je consens à tout.
+      Oüy, je consens à tout.
 Dés ce mesme moment vous avez une Femme.
 
 -*who_monsieur_le_blanc
@@ -2596,7 +2596,7 @@ Je seray moins sans vous que le corps n'est sans ombre :
 Je veux pour le prouver, par des baisers sans nombre,
 Devorer à genoux & ces mains, & ces bras.
 
-**** *book_ *id_body-7-8 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-708 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Alte-là, vieux Magot⁎, vous vous baissez trop bas.
@@ -2605,7 +2605,7 @@ Alte-là, vieux Magot⁎, vous vous baissez trop bas.
 Morbleu, je suis perdu !
 
 -*who_angelique
-Comment ! en ma presence
+      Comment ! en ma presence
 Vous luy baisez la main, Faquin ? Vostre insolence
 A mon insçeu, ceans⁎, attente à mon honneur,
 Et vous venez chez moy pour suborner ma Sœur ?
@@ -2613,13 +2613,13 @@ Et ma honte, & ta mort, également certaine,
 Feront voir…
 
 -*who_monsieur_le_blanc
-Ah tout doux, Monsieur le Capitaine.
+      Ah tout doux, Monsieur le Capitaine.
 
 -*who_lucinde
 Mon Frere…
 
 -*who_monsieur_le_blanc
-Je croyois avoir la teste à bas.
+      Je croyois avoir la teste à bas.
 
 -*who_lucinde
 Avant que m'écouter, ne vous emportez pas!
@@ -2631,7 +2631,7 @@ Vous aimez ce vieux Singe ? il vous baise la main ?
 Par la mort… Vous sçaurez…
 
 -*who_lucinde
-Je le niërois en vain.
+      Je le niërois en vain.
 
 -*who_angelique
 On me l'avoit bien dit, que contre ma defense
@@ -2661,7 +2661,7 @@ Ce galant⁎ servira d'exemple à tous les autres.
 Helas !
 
 -*who_angelique
-Vous aprendrez à respecter en moy
+      Vous aprendrez à respecter en moy
 Un Capitaine en pied du Regiment du Roy,
 Dieu me damne : Et pour vous, je vous tiendray bien fine,
 Si vous faites jamais l'amour à la sourdine.
@@ -2683,14 +2683,14 @@ Monsieur a, dites-vous, deux mille écus de rente,
 Et veut vous épouser ?
 
 -*who_lucinde
-Oüy.
+      Oüy.
 
 -*who_angelique
-Vous estes contente
+      Vous estes contente
 De l'avoir pour Epoux ?
 
 -*who_lucinde
-Mon amour affermy…
+      Mon amour affermy…
 
 -*who_angelique
 En ce cas, je rengaîne, & je suis son amy.
@@ -2698,23 +2698,23 @@ Excusez le transport⁎ qu'une douleur mortelle
 A causé contre vous.
 
 -*who_monsieur_le_blanc
-C'est une bagatelle.
+      C'est une bagatelle.
 Nos affaires vont mieux.
 
 -*who_angelique
-Vous aimez donc ma Sœur ?
+      Vous aimez donc ma Sœur ?
 
 -*who_monsieur_le_blanc
 Feignons.
-Terriblement.
+      Terriblement.
 
 -*who_angelique
-Et nous faites l'honneur
+      Et nous faites l'honneur
 De la vouloir choisir pour estre vostre Femme ?
 
 -*who_monsieur_le_blanc
 Ah l'honneur m'en demeure.
-Il est bon, sur mon ame.
+      Il est bon, sur mon ame.
 
 -*who_angelique
 Vous avez amassé de grands biens par vos soins ?
@@ -2731,40 +2731,40 @@ J'aime à voir tant d'amour, & déjà par avance
 Je vous aime en Beaufrere.
 
 -*who_monsieur_le_blanc
-Ah trop d'honneur.
+      Ah trop d'honneur.
 
 -*who_angelique
-Je pense
+      Je pense
 Que pour l'Hymen⁎ mes soins ne vous déplairont pas.
 
 -*who_monsieur_le_blanc
 Tant-s'en-faut.
 
 -*who_angelique
-Je vais tout disposer de ce pas :
+      Je vais tout disposer de ce pas :
 Et pour vous faire voir combien je veux vous plaire ;
 L'Esperance?
 
-**** *book_ *id_body-7-9 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-709 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
-Monsieur ?
+      Monsieur ?
 
 -*who_angelique
-Va querir un Notaire.
+      Va querir un Notaire.
 Je vous fais marier dans ce mesme moment.
 
 -*who_monsieur_le_blanc
 Me marier ? Monsieur L'Esperance ?
 
 -*who_angelique
-Comment ?
+      Comment ?
 
 -*who_monsieur_le_blanc
 Ne précipitons rien, s'il vous plaist.
 
 -*who_angelique
-Cette voye,
+      Cette voye,
 En nous comblant d'honneur, assure vostre joye,
 Et quand l'amour est fort, il est hors de raison.
 
@@ -2782,23 +2782,23 @@ Demeurez. Attendez. Ah, morbleu, que d'ennuis !
 Quelle est vostre raison ?
 
 -*who_monsieur_le_blanc
-Monsieur…
+      Monsieur…
 
 -*who_angelique
-Hé bien ?
+      Hé bien ?
 
 -*who_monsieur_le_blanc
-Je suis
+      Je suis
 Un Homme… qui…
 
 -*who_angelique
-Comment ? quelles mines vous faites !
+      Comment ? quelles mines vous faites !
 
 -*who_monsieur_le_blanc
 Je vous dis que je suis…
 
 -*who_angelique
-Ma Sœur dit que vous estes
+      Ma Sœur dit que vous estes
 Un honneste Bourgeois ; & m'assure de plus,
 Que vostre revenu monte à deux mille écus.
 
@@ -2806,16 +2806,16 @@ Que vostre revenu monte à deux mille écus.
 Il est vray.
 
 -*who_angelique
-Je n'en veux pas sçavoir davantage.
+      Je n'en veux pas sçavoir davantage.
 
 -*who_monsieur_le_blanc
 Mais, Monsieur… vous sçaurez…
 
 -*who_angelique
-Cela suffit.
+      Cela suffit.
 
 -*who_monsieur_le_blanc
-J'enrage.
+      J'enrage.
 
 -*who_angelique
 Mais pour estre assuré de ma Sœur & de vous,
@@ -2824,12 +2824,12 @@ C'est vous parler François, si vostre amour m'oblige⁎.
 Ces détours à la fin…
 
 -*who_monsieur_le_blanc
-Monsieur, je suis, vous dis-je…
+      Monsieur, je suis, vous dis-je…
 J'ay pour certaine affaire… un certain embarras…
 Attendons à demain.
 
 -*who_angelique
-Cela ne se peut pas ;
+      Cela ne se peut pas ;
 Demain je prens la Poste, & je retourne en Flandre.
 Ma Sœur, ainsi que moy, se lasseroit d'attendre,
 Et je veux aujourd'huy vous la voir épouser.
@@ -2840,45 +2840,45 @@ Hé bien, si vous voulez en sçavoir davantage,
 Je suis…
 
 -*who_angelique
-Quoy ?
+      Quoy ?
 
 -*who_monsieur_le_blanc
-Marié, Monsieur, & j'en enrage.
+      Marié, Monsieur, & j'en enrage.
 
 -*who_angelique
 Vous avez une Femme, & subornez ma Sœur ?
 Ah ventre, vous mourrez !
 
 -*who_monsieur_le_blanc
-Ah la vie.
+      Ah la vie.
 
 -*who_l_esperance
-Eh Monsieur,
+      Eh Monsieur,
 Quartier⁎.
 
 -*who_angelique
-Moy l'épargner ? Non, non, il faut qu'il meure.
+      Moy l'épargner ? Non, non, il faut qu'il meure.
 
 -*who_monsieur_le_blanc
 Misericorde ! helas !
 
 -*who_l_esperance
-Comme ce vieux Fou pleure.
+      Comme ce vieux Fou pleure.
 
 -*who_angelique
 Il mourra de ma main.
 
 -*who_l_esperance
-Eh ne le tuez pas :
+      Eh ne le tuez pas :
 Morgué, vous sçavez bien qu'il nous faut vingt Soldats,
 Je n'en ons que dix-neuf, qu'il fasse le vingtiéme,
 Il portera fort bien un Mousquet.
 
 -*who_monsieur_le_blanc
-Moy ?
+      Moy ?
 
 -*who_l_esperance
-Vous-mesme.
+      Vous-mesme.
 
 -*who_monsieur_le_blanc
 Je suis trop pacifique, & c'est mon grand defaut.
@@ -2889,7 +2889,7 @@ Et le conduis demain avecque la Recruë⁎
 A nostre Garnison.
 
 -*who_monsieur_le_blanc
-Ah cet ordre me tuë.
+      Ah cet ordre me tuë.
 Me mener à la Guerre ! Ah j'aime autant périr,
 J'y mourray tous les jours de la peur de mourir.
 Monsieur, de bonne-foy, je suis poltron en diable,
@@ -2899,11 +2899,11 @@ Ayez pitié de moy, je suis inconsolable.
 Tu répondras de luy.
 
 -*who_monsieur_le_blanc
-J'aime autant le trépas,
+      J'aime autant le trépas,
 Que d'aller à la Guerre.
 
 -*who_angelique
-Hé bien, tu n'iras pas,
+      Hé bien, tu n'iras pas,
 Tu seras satisfait ; & je te vais, infame,
 Faire à travers ton corps, un passage à ton ame.
 
@@ -2915,15 +2915,15 @@ Et mourir pour mourir, le plus tard vaut le mieux.
 Vous avez une Femme ?
 
 -*who_angelique
-Evitez ma presence,
+      Evitez ma presence,
 Coquette, & redoutez l'éclat de ma vangeance.
 Tu prends le bon party.
-Qu'on le fasse sans bruit
+      Qu'on le fasse sans bruit
 Partir devant⁎ le jour, ou mesme cette nuit.
 Fais-le équiper de tout.
 
 -*who_l_esperance
-J'auray soin de l'aubade,
+      J'auray soin de l'aubade,
 Reposez-vous sur moy. Suivez-moy, Camarade.
 
 -*who_monsieur_le_blanc
@@ -2936,13 +2936,13 @@ Je suis parbleu ravy que vous soyez des nostres.
 -*who_monsieur_le_blanc
 Fort-bien. Avec le temps nous en verrons bien d'autres.
 
-**** *book_ *id_body-8-1 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-801 *act_ *date_1672 *creator_montfleury
 
 -*who_damon
 Est-il bien vray, Madame?
 
 -*who_lucinde
-Oüy, je viens de sçavoir
+      Oüy, je viens de sçavoir
 Que mon Frère, au plus-tard, arrivera ce soir.
 
 -*who_damon
@@ -2966,15 +2966,15 @@ Ma Cousine est là haut, et sans sortir d'icy,
 Nous en pourrons sçavoir…
 
 -*who_damon
-Madame, la voicy.
+      Madame, la voicy.
 
-**** *book_ *id_body-8-2 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-802 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Vous craignez?
 
 -*who_madame_le_blanc
-Oüy, je crains quand vous serez connüe…
+      Oüy, je crains quand vous serez connüe…
 
 -*who_angelique
 Ne vous allarmez point, je réponds de l'issuë.
@@ -2994,7 +2994,7 @@ Il est, quoy que grossier, assez dépaïsé;
 Il en rendra bon compte.
 
 -*who_damon
-Il sera donc aisé…
+      Il sera donc aisé…
 
 -*who_angelique
 Je vous ay tanstot⁎ dit ce que vous devez faire.
@@ -3006,7 +3006,7 @@ Il m'en souvient, Madame, et j'en fais mon affaire.
 Cato secondera vos soins. Quant à l'effet…
 L'Espérance paroist, sçachons ce qu'il a fait.
 
-**** *book_ *id_body-8-3 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-803 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Ce que j'ons fait? Morgué, j'avons fait des merveilles:
@@ -3029,7 +3029,7 @@ Il tâche à se resoudre, et croit que de pas…
 Mais où l'as-tu laissé?
 
 -*who_l_esperance
-Je l'ay laissé là-bas
+      Je l'ay laissé là-bas
 Avec ces aigres-fins que je mene à l'Armée,
 Qui luy souflent au nez du tabac en fumée;
 Plus ils faisaient les fous, plus il est sérieux.
@@ -3061,10 +3061,10 @@ Il faut que ce discours fasse place à quelqu'autre.
 Commençons.
 
 -*who_l_esperance
-Je l'entends, il a fait bande à part.
+      Je l'entends, il a fait bande à part.
 Si vous voulez bien rire, écoutez-le à l'écart.
 
-**** *book_ *id_body-8-4 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-804 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Quel équipage⁎, helas! ma peine est sans seconde;
@@ -3088,7 +3088,7 @@ D'aller en Garnison en bonne compagnie.
 Si je trouvois moyen de sortir de ceans⁎….
 Mais j'aperçoy Cato, prenons mieux nostre temps.
 
-**** *book_ *id_body-8-5 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-805 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Elle pleure, je croy. Qu'as-tu, ma Chere? écoute;
@@ -3098,10 +3098,10 @@ Vous avez mis ceans⁎, Monsieur, tout en déroute;
 Et nostre Maitre….
 
 -*who_monsieur_le_blanc
-Hé bien?
+      Hé bien?
 
 -*who_cato
-Il est pis qu'enragé,
+      Il est pis qu'enragé,
 Là-haut, en vous quittant, il a tout ravagé;
 Lucinde auroit sans nous essuyé sa colere,
 Il la vouloit tuer. Voyez la belle affaire!
@@ -3110,7 +3110,7 @@ Il la vouloit tuer. Voyez la belle affaire!
 Il n'en a rien fait?
 
 -*who_cato
-Non; mais devant⁎ qu'il soit nuit,
+      Non; mais devant⁎ qu'il soit nuit,
 Il la veut du Logis faire emmener sans bruit,
 Et veut que... La douleur m'empesche la parole.
 
@@ -3118,7 +3118,7 @@ Et veut que... La douleur m'empesche la parole.
 Hé bien, dis, que veut-il?
 
 -*who_l_esperance
-Elle fait bien son rôle.
+      Elle fait bien son rôle.
 
 -*who_cato
 Qu'elle aille pour pleurer ses funestes amours,
@@ -3141,7 +3141,7 @@ Sans vous flater, Monsieur, vous le méritez bien.
 Vous estes bien heureux…
 
 -*who_monsieur_le_blanc
-Quittons cet entretien⁎,
+      Quittons cet entretien⁎,
 Et me dis, aussi bien le souvenir me blesse,
 S'il n'est aucun moyen de tenir ta promesse
 Touchant cette Beauté qui venoit visiter…
@@ -3163,26 +3163,26 @@ Cato, fait, s'il se peut, qu'un moment je la voye.
 Tu m'as fait espérer…
 
 -*who_cato
-Comment faire, Monsieur?
+      Comment faire, Monsieur?
 
 -*who_monsieur_le_blanc
 Que fait le Capitaine?
 
 -*who_cato
-Il est avec sa Sœur.
+      Il est avec sa Sœur.
 
 -*who_monsieur_le_blanc
 Profitons de ce temps, Cato.
 
 -*who_cato
-Comment s'y prendre?
+      Comment s'y prendre?
 
 -*who_monsieur_le_blanc
 Comment? Va de sa part la prier de descendre;
 Dy-luy qu'il est icy.
 
 -*who_cato
-Ne verra-t-elle pas…
+      Ne verra-t-elle pas…
 
 -*who_monsieur_le_blanc
 J'éteindray la chandelle, et luy parleray bas.
@@ -3192,11 +3192,11 @@ Il est nuit; à mes feux⁎ cesse de t'oposer,
 Va…
 
 -*who_cato
-Je n'ay pas le cœur de vous rien refuser,
+      Je n'ay pas le cœur de vous rien refuser,
 Je risque tout pour vous; Je vais querir la Belle;
 Quand vous nous entendrez, éteignez la chandelle.
 
-**** *book_ *id_body-8-6 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-806 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Mieux que je n'esperois, mes soins ont reüssy,
@@ -3205,16 +3205,16 @@ Il vaut mieux, à mon sens, quelque soin qu'il en coûte,
 Estre seur une fois, qu'estre toûjours en doute ;
 Cet éclaircissement peut-estre produira…
 
-**** *book_ *id_body-8-7 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-807 *act_ *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Eh, la Roze?
 
 -*who_monsieur_le_blanc
-Plaist-il⁎ ?
+      Plaist-il⁎ ?
 
 -*who_l_esperance
-Que diable fais-tu là?
+      Que diable fais-tu là?
 
 -*who_monsieur_le_blanc
 Ah j'enrage, mon Corps va changer de demeure.
@@ -3223,10 +3223,10 @@ Ah j'enrage, mon Corps va changer de demeure.
 Je nous en vons partir.
 
 -*who_monsieur_le_blanc
-Quand partir?
+      Quand partir?
 
 -*who_l_esperance
-Tout-à-l'heure⁎.
+      Tout-à-l'heure⁎.
 As-tu ce qu'il te faut dedans⁎ ton Havre-sac?
 T'es-tu fait acheter des Pipes, du Tabac?
 
@@ -3238,7 +3238,7 @@ Va, je boirons un coup tanstot⁎ à la Villette;
 Marche à moy.
 
 -*who_monsieur_le_blanc
-Comment donc, partir si promptement?
+      Comment donc, partir si promptement?
 Diférons, s'il se peut, d'une heure seulement.
 
 -*who_l_esperance
@@ -3247,41 +3247,41 @@ Avec mon Commandant je me fasse une affaire?
 Marche.
 
 -*who_monsieur_le_blanc
-Mais…
+      Mais…
 
 -*who_l_esperance
-Marche donc, ou tu seras traitté…
+      Marche donc, ou tu seras traitté…
 
 -*who_monsieur_le_blanc
 Prenez ces trois Loüis pour boire à ma santé,
 Et ne me forcez point…
 
 -*who_l_esperance
-Ah Monsieur de la Roze,
+      Ah Monsieur de la Roze,
 Deux heures plus ou moins, ne font rien à la chose;
 Je partirons tanstot⁎, puis que vous le voulez;
 Je m'en vay boire un coup en attendant.
 
 -*who_monsieur_le_blanc
-Allez.
+      Allez.
 
-**** *book_ *id_body-8-8 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-808 *act_ *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Sans argent, mille coups relançoient ma prière.
 J'entens venir quelqu'un, éteignons la lumière.
 
-**** *book_ *id_body-8-9 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-809 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
 Monsieur, voilà Madame.
 
 -*who_monsieur_le_blanc
-Il suffit, laisse-nous :
+      Il suffit, laisse-nous :
 Ecoutons.
 
 -*who_madame_le_blanc
-Vous voyez ce que je fais pour vous;
+      Vous voyez ce que je fais pour vous;
 Je fais tous mes plaisirs, du bonheur de vous plaire.
 
 -*who_monsieur_le_blanc
@@ -3297,7 +3297,7 @@ Ny combien votre amour a de charmes pour moy.
 Jamais…
 
 -*who_monsieur_le_blanc
-Pour le bonheur que vostre amour m'anonce,
+      Pour le bonheur que vostre amour m'anonce,
 Souffrez que ce baiser me serve de réponce.
 L'éfrontée! elle croit estre avec son Amant,
 Et reçoit ses baisers fort amiablement.
@@ -3313,14 +3313,14 @@ Sur quelque empressement que mon espoir se fonde,
 C'est vostre Epoux.
 
 -*who_madame_le_blanc
-Hors vous, tous les Hommes du Monde,
+      Hors vous, tous les Hommes du Monde,
 Quelque soin que l'on prît à me prouver leurs feux⁎,
 Ne peuvent rien avoir de charmant à mes yeux :
 Enfin vous estes seul le maistre de mon ame,
 Mon cœur ne sent d'amour que pour vous.
 
 -*who_monsieur_le_blanc
-Ah l'infame !
+      Ah l'infame !
 Vous passerez la nuit ceans⁎; & vostre Epoux…
 
 -*who_madame_le_blanc
@@ -3333,44 +3333,44 @@ Je suis suffisamment instruit de tes amours.
 Le voila cet Epoux.
 
 -*who_madame_le_blanc
-Au secours.
+      Au secours.
 
-**** *book_ *id_body-8-10 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-810 *act_ *date_1672 *creator_montfleury
 
 -*who_cato
-Au secours,
+      Au secours,
 A l'aide. Ces transports⁎ vous sont-ils ordinaires?
 Estes-vous fou, Monsieur?
 
 -*who_monsieur_le_blanc
-Chacun sçait ses affaires.
+      Chacun sçait ses affaires.
 
 -*who_cato
 Vous, insulter ceans⁎ une Femme d'honneur?
 
-**** *book_ *id_body-8-11 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-811 *act_ *date_1672 *creator_montfleury
 
 -*who_damon
 Qui cause un tel desordre en ce Logis?
 
 -*who_cato
-Monsieur.
+      Monsieur.
 
 -*who_damon
 Mon Oncle?
 
 -*who_monsieur_le_blanc
-Vous sçaurez…
+      Vous sçaurez…
 
 -*who_damon
-En un tel equipage⁎!
+      En un tel equipage⁎!
 Vous, aller à la Guerre!
 
 -*who_monsieur_le_blanc
-On m'a fait…
+      On m'a fait…
 
 -*who_damon
-A vostre âge!
+      A vostre âge!
 Un notable Bourgeois, un Homme de bon sens,
 Quitter, à nostre insçeu, Maison, Femme, Parens!
 
@@ -3378,43 +3378,43 @@ Quitter, à nostre insçeu, Maison, Femme, Parens!
 C'est un tour…
 
 -*who_damon
-Auriez-vous quelque méchante affaire?
+      Auriez-vous quelque méchante affaire?
 Quel desespoir vous chasse avec tant de mystere?
 
 -*who_monsieur_le_blanc
 C'est un affront, vous dis-je…
 
 -*who_damon
-Ah non, vous n'irez point.
+      Ah non, vous n'irez point.
 
 -*who_monsieur_le_blanc
 Peste du babillard.
 
 -*who_damon
-Je suis ferme en ce poinct.
+      Je suis ferme en ce poinct.
 
 -*who_monsieur_le_blanc
 Je n'ay pû m'en dédire, on m'a pris…
 
 -*who_damon
-Il n'importe,
+      Il n'importe,
 Vous ne sçauriez avoir raison assez forte.
 
 -*who_monsieur_le_blanc
 Je prétens me vanger…
 
 -*who_damon
-Vangez-vous autrement.
+      Vangez-vous autrement.
 
 -*who_monsieur_le_blanc
 Ah le maudit causeur!
 
 -*who_damon
-Et songez seulement
+      Et songez seulement
 Que vous devez…
 
 -*who_monsieur_le_blanc
-Je scay tout ce que je dois faire,
+      Je scay tout ce que je dois faire,
 Avant que vous fussiez le Fils de vostre Père,
 Pedagogue importun, dont le zele indiscret
 Me fait, malgré mes dents, gardien d'un secret.
@@ -3427,25 +3427,25 @@ M'alloit mener en Flandre un quart-d'heure plus tard.
 Qui l'a fait enrôler?
 
 -*who_cato
-Monsieur le Capitaine.
+      Monsieur le Capitaine.
 
 -*who_damon
 Je m'en vais luy parler.
 
 -*who_cato
-N'en prenez pas la peine,
+      N'en prenez pas la peine,
 Je le vais avertir.
 
-**** *book_ *id_body-8-12 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-812 *act_ *date_1672 *creator_montfleury
 
 -*who_damon
-L'auriez-vous insulté?
+      L'auriez-vous insulté?
 
 -*who_monsieur_le_blanc
 Jamais: Mais vous sçaurez que ce jeune éventé…
 Le voicy, vous allez en sçavoir davantage.
 
-**** *book_ *id_body-8-13 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-813 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Je suis faché, voulant me vanger d'un outrage,
@@ -3471,7 +3471,7 @@ A l'hymen⁎ de ma Sœur puisqu'il n'est plus contraire,
 Qu'on la fasse venir?
 
 -*who_monsieur_le_blanc
-Il n'est pas nécessaire.
+      Il n'est pas nécessaire.
 
 -*who_angelique
 Ne consentez-vous pas à une telle union…
@@ -3483,11 +3483,11 @@ Il est vray, j'y consens, mais à condition…
 Faites que promptement…
 
 -*who_angelique
-Dites-nous, qu'elle est-elle?
+      Dites-nous, qu'elle est-elle?
 Quelque difficulté…
 
 -*who_monsieur_le_blanc
-C'est une bagatelle;
+      C'est une bagatelle;
 Mais jamais mon Neveu ne sera son Epoux,
 Qu'il ne se soit coupé la gorge avecque vous.
 C'est la condition que je mets à la chose.
@@ -3507,25 +3507,25 @@ En avez-vous reçeu quelque sensible outrage?
 Oüy.
 
 -*who_damon
-J'ay, pour vous vanger, le cœur assez hardy;
+      J'ay, pour vous vanger, le cœur assez hardy;
 Mais je prétens sçavoir…
 
 -*who_monsieur_le_blanc
-C'est que cet étourdy,
+      C'est que cet étourdy,
 Qui fait le goguenard⁎, qui rit, & qui se cache,
 Me fait…
 
 -*who_damon
-Hé bien?
+      Hé bien?
 
 -*who_monsieur_le_blanc
-Cocu, puis qu'il faut qu'on le sçache.
+      Cocu, puis qu'il faut qu'on le sçache.
 
 -*who_damon
 Luy? Vostre Femme a pû…
 
 -*who_angelique
-Je répons de sa foy,
+      Je répons de sa foy,
 Tant qu'elle n'aura point d'autre Galant⁎ que moy.
 
 -*who_monsieur_le_blanc
@@ -3544,7 +3544,7 @@ Nous autres Officiers manquons-nous de Maistresses?
 Il est vray, j'en conviens, mais…
 
 -*who_damon
-Mais enfin sçachons…
+      Mais enfin sçachons…
 
 -*who_angelique
 Elle n'est point sa Femme, & je vous en répons.
@@ -3553,7 +3553,7 @@ Elle n'est point sa Femme, & je vous en répons.
 Non, car elle est la vostre.
 
 -*who_damon
-Il faut la voir, & prendre…
+      Il faut la voir, & prendre…
 
 -*who_angelique
 Je le veux bien. Cato, qu'on la fasse descendre.
@@ -3563,13 +3563,13 @@ Si de la Belle en fait je me trouve l'Epoux,
 Hem?
 
 -*who_angelique
-Vous l'emmenerez tout doucement chez vous.
+      Vous l'emmenerez tout doucement chez vous.
 
 -*who_monsieur_le_blanc
 Je serois assez sot…
 
 -*who_angelique
-Calmez cette colere:
+      Calmez cette colere:
 Je veux vous faire voir combien j'ay sçeu luy plaire,
 Vous montrer jusqu'où vont les transports⁎ des Amans,
 Que vos yeux soient témoins de nos embrassements,
@@ -3584,7 +3584,7 @@ Vous serez trop heureux encor de la reprendre.
 Hé bien, vous l'entendez?
 
 -*who_damon
-C'est un jeune emporté;
+      C'est un jeune emporté;
 Mais nous luy rabattrons tanstot⁎ sa vanité:
 Quand nous aurons de tout une entiere assurance,
 Vous verrez quelle part je prends dans cette offence.
@@ -3596,9 +3596,9 @@ Je l'entens, vous serez à l'instant satisfait.
 Qu'en dites-vous?
 
 -*who_damon
-Je croy que c'est elle en effet.
+      Je croy que c'est elle en effet.
 
-**** *book_ *id_body-8-14 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-814 *act_ *date_1672 *creator_montfleury
 
 -*who_angelique
 Permettez qu'à leurs yeux, quelque soin qui les touche,
@@ -3608,13 +3608,13 @@ Je prenne deux baisers sur cette belle bouche.
 La baiser à mes yeux! Ventre.
 
 -*who_damon
-Dans sa Maison!
+      Dans sa Maison!
 
 -*who_monsieur_le_blanc
 Oüy, je veux tout tuer.
 
 -*who_damon
-Vous n'avez pas raison.
+      Vous n'avez pas raison.
 
 -*who_monsieur_le_blanc
 Qu'importe ? ame sans foy, peste de ta Famille.
@@ -3626,14 +3626,14 @@ Pouvez-vous me blâmer, de baiser une Fille?
 Une Fille!
 
 -*who_angelique
-Oüy, ma foy, c'est à mon grand regret;
+      Oüy, ma foy, c'est à mon grand regret;
 Aussi-bien est-il temps d'éventer ce secret.
 
 -*who_monsieur_le_blanc
 Quoy, c'est une Fille?
 
 -*who_damon
-Oüy, la chose est assurée.
+      Oüy, la chose est assurée.
 
 -*who_monsieur_le_blanc
 Ah si je l'avois sçeu, que je l'eusse bourée!
@@ -3664,7 +3664,7 @@ Il n'en est pas besoin, voila vostre Garent.
 -*who_monsieur_le_blanc
 Songeons à son repos⁎, pour celuy qu'il me rend.
 
-**** *book_ *id_body-8-15 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_body-815 *act_ *date_1672 *creator_montfleury
 
 -*who_lucinde
 Mon Frere est arrivé, nous voila hors de peine.
@@ -3673,7 +3673,7 @@ Mon Frere est arrivé, nous voila hors de peine.
 Comment, le Capitaine?
 
 -*who_monsieur_le_blanc
-Encore un capitaine!
+      Encore un capitaine!
 Je pense qu'il en pleut. Vostre Hymen⁎ se fera,
 Mais ce sera demain, ou quand il vous plaira;
 J'y consens : Cependant je vay reprendre haleine;

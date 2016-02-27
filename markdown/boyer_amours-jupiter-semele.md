@@ -1,5 +1,5 @@
 ---
-identifier: boyer_amours  
+identifier: boyer_amours-jupiter-semele  
 creator: Boyer, Claude  
 date: 1666  
 title: Les Amours de Jupiter et Sémélé. Tragédie.  
@@ -1671,7 +1671,7 @@ Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
 L'Ouverture du Théatre fait voir de front le Mont-Parnasse [76] qui s'éleve du fonds du Théatre jusques aux nuës, avec des allées de Cyprez entremeslées de statuës de Roys & de Heros, & l'on entend à mesme temps [77] des Trompettes & des Clairons.
 
 
-    MELPOMENE *qui est la Déesse de la Tragedie, paroist au fonds du Théatre, & s'estant advancée, elle dit* : 
+    MELPOMENE *qui est la Déesse de la Tragedie, paroist au fonds du Théatre, & s'estant advancée, elle dit* :
 Superbes⁎ demy-Dieux dont les noms esclatans  
 Triomphent de l'oubly, de la mort & du temps,  
 Vous que je fais revivre avecque [78] tant de gloire,  
@@ -1835,7 +1835,7 @@ MELPOMENE, THALIE, EUTERPE.
 Aprochons.  
 
     THALIE.     [7]
-Ah ma sœur gardez de l'interrompre.  
+        Ah ma sœur gardez de l'interrompre.  
 
     MELPOMENE.
 Je voy que vous songez ma sœur à la corrompre.  
@@ -2009,7 +2009,7 @@ Pour moy je n'aime qu'à médire,
 Et la gloire de faire rire  
 Vaut bien celle de vos chansons.  
 
-    APOLLON. 
+    APOLLON.
 Melpomene, ces chants si charmans & si doux  
 Semblent à vostre sœur promettre la victoire.  
 
@@ -2269,7 +2269,7 @@ S'il falloit t'expliquer tout ce que j'en doy croire…
 Mais Jupiter m'attend & je perds la memoire :  
 J'en diray davantage un jour plus à loisir.  
 
-    DIRCE. 
+    DIRCE.
 Contentez sur un point mon curieux desir,  
 Dites-moy, si les Dieux aiment comme les hommes.  
 
@@ -2330,7 +2330,7 @@ Je ne puis le nier, je vous aimay Seigneur,
 Cependant…  
 
     ALCMEON.
-Achevez, dites moy quel mal-heur,  
+        Achevez, dites moy quel mal-heur,  
 Quel rival me dérobe une amitié⁎ si tendre ?  
 
     SEMELE.
@@ -2338,16 +2338,16 @@ Prenons un autre temps Seigneur pour vous l'apprendre
 Un devoir si pressant…  
 
     ALCMEON.
-Je ne vous quitte point  
+        Je ne vous quitte point  
 A moins…  
 
     SEMELE.
-Faut-il Seigneur m'expliquer sur ce point ?  
+        Faut-il Seigneur m'expliquer sur ce point ?  
 
     ALCMEON.
 Helas je le voy bien, vous en aymez un autre.  
 
-    SEMELE. 
+    SEMELE.
 Ouy Seigneur ; & ce n'est ma faute ny la vostre  
 Je plains vostre mal-heur, & ce cœur innocent  
 Vous trahit par l'effort d'un charme tout puissant.  
@@ -2359,7 +2359,7 @@ Et sent aupres de vous, quand il vous faut quitter…
 Ah Princesse…  
 
     SEMELE.
-Ah Seigneur gardez de vous flatter.  
+        Ah Seigneur gardez de vous flatter.  
 Si vostre fier rival sçavoit que ma foiblesse  
 Laisse échaper pour vous une ombre de tendresse,  
 Ce reste de pitié vous deviendroit fatal ;  
@@ -2370,7 +2370,7 @@ On veut que sa puissance estonne⁎ ma colere,
 Quel est donc ce rival ?  
 
     SEMELE.
-Seigneur c'est un mystere⁎ ;  
+        Seigneur c'est un mystere⁎ ;  
 Les Dieux seuls, & mon cœur ont droit de le sçavoir.  
 
     ALCMEON.
@@ -2493,7 +2493,7 @@ Vous me vantez souvent vostre race immortelle,
 Et Semelé sans doute, au point où je la voy,  
 Prent pour luy tout l'orguëil, que vous avez pour moy.  
 
-    LA REINE. 
+    LA REINE.
 Je n'ay rien fait, Seigneur, qui vous oblige à croire,  
 Que le sang de Venus, dont je tire ma gloire,  
 Me fasse negliger mon Espoux & mon Roy :  
@@ -2529,7 +2529,7 @@ Mais quel est cét amant⁎ dont on fait un mystere⁎ ?
     LA REINE.
 Pour de pareils secrets choisit-on une mere ?  
 
-    LE ROY. 
+    LE ROY.
 Madame il faudra donc employer mon pouvoir.  
 
     LA REINE.
@@ -2560,7 +2560,7 @@ Ma fille l'aura mis dans un sein si discret ;
 Il n'en faut pas douter.  
 
     DIRCE.
-Ah ! de grace, Madame,  
+        Ah ! de grace, Madame,  
 Ne me demandez pas le secret de sa flame⁎ ;  
 Ce secret revelé me cousteroit le jour.  
 L'ordre qui me deffend d'expliquer cet amour,  
@@ -2582,7 +2582,7 @@ Puisque de Semelé vous pouvez l'obtenir,
 Ne me contraignez point…  
 
     LA REINE.
-Faites-la donc venir.  
+        Faites-la donc venir.  
 Mais que vient m'annoncer ce merveilleux spectacle ?  
 Viens-tu nous esclaircir, Amour, par ce miracle ?  
 
@@ -2759,7 +2759,7 @@ Il luy seroit suspect s'il estoit pres de moy.
 Ainsi…Mais j'aperçois Semelé.  
 
     MOMUS.
-Je vous laisse ;  
+        Je vous laisse ;  
 Un tiers est incommode aupres d'une maistresse⁎.  
 
 
@@ -2771,7 +2771,7 @@ JUPITER, SEMELE.
 Ma Princesse est ce vous ?  
 
     SEMELE.
-Est-ce là mon amant⁎ ?  
+        Est-ce là mon amant⁎ ?  
 
     JUPITER.
 Me méconnoissez-vous sous ce déguisement ?  
@@ -2792,7 +2792,7 @@ Ah vous vous cachez moins pour Junon que pour vous :
 Vous aymez vostre gloire, & vous craignez pour elle,  
 Qu'on sçache ce qu'un Dieu fait pour une mortelle.  
 
-    JUPITER. 
+    JUPITER.
 Moy craindre pour ma gloire un choix si glorieux ?  
 Moy qui pour vous servir, abandonne les cieux ?  
 Moy qui bruslant⁎ pour vous d'une ardeur⁎ sans seconde [105]  
@@ -2884,11 +2884,11 @@ Ce beau berger est-il de vostre confidence ?
 Comment ?  
 
     ALCMEON.
-Je vous apporte un advis d'importance,  
+        Je vous apporte un advis d'importance,  
 Et n'oze devant luy…  
 
     SEMELE.
-Parlez ne craignez rien,  
+        Parlez ne craignez rien,  
 Ou gardez vostre advis, s'il rompt nostre entretien.  
 
     ALCMEON.
@@ -2905,7 +2905,7 @@ Et pour ce coup fatal marque cette journée.
     JUPITER, *bas à Semelé.*
 Mes ordres sçauront bien rompre cet Himenée⁎.  
 
-    SEMELE, *à Alcmeon.* 
+    SEMELE, *à Alcmeon.*
 Que me conseillez-vous sur cet ordre absolu ?  
 Ou vous mesme plustost qu'avez-vous resolu ?  
 Mon sort dépend de vous, faut-il que j'obeysse ?  
@@ -2921,7 +2921,7 @@ Ce conseil quel qu'il soit nous fera peu de mal.
 Hé quoy vous me bravez ?  
 
     JUPITER.
-Non j'aurois peu de gloire,  
+        Non j'aurois peu de gloire,  
 De braver un rival quand il pert la victoire.  
 
     ALCMEON.
@@ -2953,14 +2953,14 @@ Je ne sçay qui l'est plus du berger ou de vous.
 Ah c'en est trop.  
 
     JUPITER.
-Calmez ce dangereux courroux.  
+        Calmez ce dangereux courroux.  
 
-    SEMELE. 
+    SEMELE.
 Hé quoy contre un berger & mesme en ma presence  
 Un Prince…  
 
     JUPITER.
-Je répons icy de sa clemence.  
+        Je répons icy de sa clemence.  
 
     ALCMEON, *portant la main sur la garde de son épée.*
 Vous voyez qu'un berger me brave impunement,  
@@ -2968,10 +2968,10 @@ Et vous vous offensez de mon ressentiment ?
 C'est trop souffrir⁎.  
 
     SEMELE.
-O Dieux !  
+    O Dieux !  
 
     JUPITER.
-Ne craignez rien Princesse.  
+        Ne craignez rien Princesse.  
 
     ALCMEON.
 Quel charme sur mes bras jette tant de foiblesse ?  
@@ -3016,7 +3016,7 @@ Jupiter mon rival ! Dieux quel aveuglement !
 Vous voyez…  
 
     JUPITER À SEMELÉ.
-J'ay pitié de l'erreur qui l'abuse⁎.  
+        J'ay pitié de l'erreur qui l'abuse⁎.  
 
     ALCMEON.
 Vostre infidelité⁎ cherche en vain cette excuse.  
@@ -3049,7 +3049,7 @@ Junon quand il luy plaist peut former le tonnerre,
 Elle est Reyne des airs.  
 
     ALCMEON.
-Foudre tombe en ce lieu ;  
+        Foudre tombe en ce lieu ;  
 Ta gloire est de punir le fantôme d'un Dieu.  
 
     JUPITER.
@@ -3062,7 +3062,7 @@ Sans doute qu'un faux charme abuse⁎ ma tendresse.
 Quoy vous doutez ?  
 
     ALCMEON À SEMELÉ.
-Voyez quelle estoit vostre erreur.  
+        Voyez quelle estoit vostre erreur.  
 
     JUPITER.
 Junon descend en terre ; évitons sa fureur.  
@@ -3459,7 +3459,7 @@ Le jardin enchanté disparoit & le parc revient.
 
 
     SEMELE.
-Ah surprise mortelle.  
+        Ah surprise mortelle.  
 J'ay pris pour Jupiter un fourbe un infidelle⁎.  
 
     JUNON.
@@ -3503,7 +3503,7 @@ Et qui croiray-je enfin d'amour ou de Mercure ?
 Princesse en doutez-vous ?  
 
     SEMELE.
-Puis-je n'en pas douter ?  
+        Puis-je n'en pas douter ?  
 Vous estes confident & fils de Jupiter,  
 Mais peut-estre qu'amour son vainqueur & son Maistre… [126]  
 
@@ -3552,7 +3552,7 @@ JUNON, MOMUS.
 
 
     MOMUS.
-Ah ! Mercure est-ce toy ?  
+        Ah ! Mercure est-ce toy ?  
 Viens-tu pour mon honneur reprendre ton employ ?  
 Tu sçais quelles raisons m'ont fait prendre ta place ;  
 Mais j'ayme mon mestier, & le tien m'embarrasse.  
@@ -3726,7 +3726,7 @@ Luy, qui parle si fort pour un Dieu chimerique.
 La gloire defend-elle à ce cœur abusé⁎,  
 De preferer un Prince à ce Dieu supposé ?  
 
-    SEMELE. 
+    SEMELE.
 La gloire permet-elle à ma flame⁎ trompée,  
 Qui de l'espoir d'un Dieu s'estoit preoccupée,  
 D'accepter un mortel, & par ce changement,  
@@ -3830,7 +3830,7 @@ Que le plus grand des Dieux en doit estre jaloux.
 Que pouvez-vous pour moy ?  
 
     ALCMEON.
-Je puis mourir pour vous,  
+        Je puis mourir pour vous,  
 Et rien ne vaut aux yeux de mon amour fidelle,  
 La gloire d'une mort dont la cause est si belle :  
 Ce Dieu pour qui je voy qu'on veut m'abandonner,  
@@ -3865,7 +3865,7 @@ Pour tenir sa promesse, il brave son courroux.
 Mais que pretendez-vous, Alcmeon ?  
 
     ALCMEON.
-Ah ! Madame,  
+        Ah ! Madame,  
 Je connoy tout entier le mal-heur de ma flame⁎:  
 Mais dans mon desespoir contre la trahison,  
 Je ne connois ny Dieux, ny conseil, ny raison.  
@@ -3880,7 +3880,7 @@ Conservez pour le throsne une si belle vie ;
 Souffrez⁎ que Jupiter…  
 
     ALCMEON.
-Que me demandez-vous ?  
+        Que me demandez-vous ?  
 En gardant Semelé sera-t'il son espoux ?  
 Je sçay bien que ce Dieu consacre⁎ ce qu'il aime,  
 Qu'au sang de vostre fille il s'attache luy-mesme ;  
@@ -3924,7 +3924,7 @@ LE ROY, LA REINE, ALCMEON, SEMELE, DIRCE, Suitte.
 
 
     LE ROY.
-Hé bien se rendra-t'elle,  
+        Hé bien se rendra-t'elle,  
 Cette ame ambitieuse à mes loix si rebelle !  
 Croit-elle que le nom de souverain des Dieux,  
 Que ce nom éclatant ait esblouy mes yeux ?  
@@ -3953,7 +3953,7 @@ Vous devez à ses loix bien plus qu'à vostre foy⁎.
     LA REINE.
 Un Dieu peut dégager la parolle d'un Roy.  
 
-    SEMELE. 
+    SEMELE.
 Par luy vostre grandeur doit estre sans seconde.  
 
     LA REINE.
@@ -4010,7 +4010,7 @@ De ce fonds tenebreux vomir une furie,
 Fuyons Seigneur.  
 
     LE ROY.
-Fuyons, allons en d'autres lieux,  
+        Fuyons, allons en d'autres lieux,  
 Achever cet hymen⁎, & chercher d'autres Dieux.  
 
 
@@ -4125,7 +4125,7 @@ Et je puis opposer Jupiter à luy-mesme,
 Puisqu'un Dieu de sa part, dont je ne puis douter,  
 M'apprend qu'un imposteur s'erige en Jupiter.  
 
-    JUPITER. 
+    JUPITER.
 Momus m'a tout appris touchant cette imposture :  
 Junon vous a parlé sous l'habit de Mercure,  
 Et pour vous abuser⁎ me traittant d'imposteur…  
@@ -4163,7 +4163,7 @@ Que faut-il faire enfin pour me faire connoistre ?
 J'atteste du destin le pouvoir glorieux,  
 Que s'il est un moyen pour me connoistre mieux…  
 
-    SEMELE. 
+    SEMELE.
 Il en est, & j'en sçay qui seront infaillibles,  
 Monstrez de Jupiter des marques plus sensibles⁎.  
 Vous devez autrement vous monstrer en ce lieu ;  
@@ -4184,7 +4184,7 @@ Monstrez-moy mon amant⁎ avecque tous ses charmes.
 Ah ! vous ne m'aimez point…  
 
     JUPITER.
-Ah ! cachez-moy ces larmes.  
+        Ah ! cachez-moy ces larmes.  
 Helas ! sçavez-vous bien ce que vous demandez ?  
 
     SEMELE.
@@ -4205,7 +4205,7 @@ Un rayon échappé de cette majesté,
 De cet éclat qui sort d'une divinité,      
 Peut embrazer le monde & mettre tout en cendre.  
 
-    SEMELE. 
+    SEMELE.
 Plus contre mes desirs vous vous voulez defendre,  
 Plus mon soupçon revient, plus j'ay lieu d'en douter,  
 Si l'amant⁎ que j'adore est le vray Jupiter.  
@@ -4248,7 +4248,7 @@ Espargnez ce tourment à mon impatience.
 Au nom de nostre amour…  
 
     SEMELE.
-Ah ! c'est trop contester !  
+        Ah ! c'est trop contester !  
 
     JUPITER.
 Vous le voulez, Princesse, il faut vous contenter.  
@@ -4295,7 +4295,7 @@ Veut-il faire mourir ce cœur d'impatience ?
 Te diray-je, Dircé, que j'oze encore douter,  
 Si c'est un imposteur ou le vray Jupiter ?  
 
-    DIRCE. 
+    DIRCE.
 Vostre doute, Madame, est assez raisonnable,  
 Et quand vous trahissez un heros adorable,  
 Peut-estre que le Ciel pour vanger vostre amant⁎…  
@@ -4317,7 +4317,7 @@ Ou d'une vaine excuse amuser⁎ mon espoir ?
 Non, non, vous le verrez.  
 
     SEMELE.
-Je brusle⁎ de le voir.  
+        Je brusle⁎ de le voir.  
 
     MOMUS.
 Pour vous du haut des Cieux il s'appreste à descendre :  
@@ -4492,17 +4492,17 @@ Tout le fonds du Theatre estant en feu, ALCMEON, & DIMAS, sortent des deux coste
 Ah ! Seigneur.  
 
     ALCMEON.
-Ah ! Dimas, quel est nostre mal-heur ?  
+        Ah ! Dimas, quel est nostre mal-heur ?  
 Secourons la Princesse.  
 
     DIMAS.
-Il n'est plus temps, Seigneur.  
+        Il n'est plus temps, Seigneur.  
 
     ALCMEON.
 Quoy desja…  
 
     DIMAS.
-C'en est fait, une flamme cruelle,  
+        C'en est fait, une flamme cruelle,  
 A vengé vostre amour d'une amante⁎ infidelle⁎.  
 
     ALCMEON.
@@ -4527,7 +4527,7 @@ Ce grand Dieu, qui l'aimoit, est l'autheur de sa mort.
 Quoy luy-mesme ?  
 
     DIMAS.
-Ouy Seigneur, cet amant⁎ adorable,  
+        Ouy Seigneur, cet amant⁎ adorable,  
 Aux vœux de sa Princesse un peu trop favorable,  
 Est descendu du Ciel, pour s'offrir à ses yeux,  
 Tel qu'il est, quand il regne, & tonne dans les Cieux.  
@@ -4545,7 +4545,7 @@ LA REINE, ALCMEON, DIMAS.
 
 
     ALCMEON *continuë.*
-Ou fuyez-vous Madame ?  
+        Ou fuyez-vous Madame ?  
 
     LA REINE.
 Ah ! Seigneur, rien ne peut esteindre cette flamme.  
@@ -4676,7 +4676,7 @@ LE ROY, LA REINE, ATYS, Suitte, & c.
 Hé bien le Prince est mort.  
 
     ATYS.
-Nos soins ont esté vains.  
+        Nos soins ont esté vains.  
 Voyant que par vostre ordre, on s'obstine à le suivre ;  
 Quoy (nous dit-il) veut-on me contraindre de vivre ?  
 Quelle pitié barbare, & quel injuste effort  
@@ -4753,7 +4753,7 @@ Pour le pris d'un trespas que j'ay causé moy-mesme,
 Je la rends immortelle & digne des autels ;  
 C'est comme⁎ Jupiter fait perir ce qu'il aime.  
 
-    LE ROY. 
+    LE ROY.
 Pardonnez-moy grand Dieu cette aveugle douleur,  
 Qui du plus grand des biens se faisoit un malheur.  
 J'adore cette main puissante & favorable,  

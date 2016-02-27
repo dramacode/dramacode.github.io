@@ -31,14 +31,14 @@ AVEC PRIVILÈGE DU ROI.
  – Covielle, Valet de Cléonte.
  – Dorante, Comte, Amant de Dorimène.
  – Dorimène, Marquise.
- – Maître de musique..
+ – Maître de musique.
  – Élève du maître de musique.
- – Maître à danser..
- – Maître d'armes..
- – Maître de philosophie..
- – Maître tailleur..
- – Garçon tailleur..
- – Deux laquais..
+ – Maître à danser.
+ – Maître d'armes.
+ – Maître de philosophie.
+ – Maître tailleur.
+ – Garçon tailleur.
+ – Deux laquais.
  – Plusieurs musiciens, musiciennes, joueurs d'instruments, danseurs, cuisiniers, garçons tailleurs, *Et autres Personnages des Intermèdes et du Ballet*.
 La Scène est à Paris.
 
@@ -2719,8 +2719,8 @@ Madame, ce n'est pas…
     DORANTE
 Monsieur Jourdain, prêtons silence à ces Messieurs ; ce qu'ils nous diront, vaudra mieux que tout ce que nous pourrions dire.
 Les Musiciens et la Musicienne prennent des Verres, chantent deux Chansons à boire, et sont soutenus de toute la Symphonie.
-
 < PREMIÈRE CHANSON À BOIRE. >
+
 Un petit doigt, Philis, pour commencer le tour :  
 Ah ! qu'un Verre en vos mains a d'agréables charmes !  
 Vous, et le Vin, vous vous prêtez des armes,  
@@ -2733,8 +2733,8 @@ Et que l'on voit par lui votre bouche embellie !
 Ah ! l'un de l'autre ils me donnent envie,  
 Et de vous et de lui je m'enivre à longs traits :  
 Entre lui, vous et moi, jurons, jurons, ma Belle,  
-Une ardeur éternelle.  
-< SECONDE CHANSON À BOIRE. >
+Une ardeur éternelle.  < SECONDE CHANSON À BOIRE. >
+
 Buvons, chers Amis, buvons :  
 Le temps qui fuit nous y convie ;  
 Profitons de la vie  
@@ -3777,7 +3777,7 @@ Les trois Importuns dansent.
 
 ### Troisième entrée
 
-    TROIS ESPAGNOLS CHANTENT
+    TROIS ESPAGNOLS* chantent*
 
 Sé que me muero de amor,  
 Y solicito el dolor.  

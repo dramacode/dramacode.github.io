@@ -911,19 +911,19 @@ Ah ! vraiment, cela ne va pas de la sorte.Il apporte encore plus de soin à se c
 Et principalement notre Mère étant morte, dont on ne peut m'ôter le bien.
 
     LA FLÈCHE
-Voici quelques Articles qu'il a dictés lui-même à notre entremetteur, pour vous être montrés, avant que de rien faire.Supposé que le Prêteur voie toutes ses sûretés, et que l'Emprunteur soit majeur, et d'une Famille où le bien soit ample, solide, assuré, clair, et net de tout embarras ; on fera une bonne et exacte obligation par-devant un Notaire, le plus honnête Homme qu'il se pourra, et qui pour cet effet sera choisi par le Prêteur, auquel il importe le plus que l'Acte soit dûment dressé.
+Voici quelques Articles qu'il a dictés lui-même à notre entremetteur, pour vous être montrés, avant que de rien faire.*Supposé que le Prêteur voie toutes ses sûretés, et que l'Emprunteur soit majeur, et d'une Famille où le bien soit ample, solide, assuré, clair, et net de tout embarras ; on fera une bonne et exacte obligation par-devant un Notaire, le plus honnête Homme qu'il se pourra, et qui pour cet effet sera choisi par le Prêteur, auquel il importe le plus que l'Acte soit dûment dressé.*
 
     CLÉANTE
 Il n'y a rien à dire à cela.
 
     LA FLÈCHE
-Le Prêteur, pour ne charger sa conscience d'aucun scrupule, prétend ne donner son argent qu'au denier dix-huit.
+*Le Prêteur, pour ne charger sa conscience d'aucun scrupule, prétend ne donner son argent qu'au denier dix-huit.*
 
     CLÉANTE
 Au denier dix-huit ? Parbleu, voilà qui est honnête.Il n'y a pas lieu de se plaindre.
 
     LA FLÈCHE
-Cela est vrai. Mais comme ledit Prêteur n'a pas chez lui la somme dont il est question, et que pour faire plaisir à l'Emprunteur, il est contraint lui-même de l'emprunter d'un autre, sur le pied du denier cinq ; il conviendra que ledit premier Emprunteur paye cet intérêt, sans préjudice du reste, attendu que ce n'est que pour l'obliger, que ledit Prêteur s'engage à cet emprunt.
+Cela est vrai. *Mais comme ledit Prêteur n'a pas chez lui la somme dont il est question, et que pour faire plaisir à l'Emprunteur, il est contraint lui-même de l'emprunter d'un autre, sur le pied du denier cinq ; il conviendra que ledit premier Emprunteur paye cet intérêt, sans préjudice du reste, attendu que ce n'est que pour l'obliger, que ledit Prêteur s'engage à cet emprunt.*
 
     CLÉANTE
 Comment diable ! quel Juif ! quel Arabe est-ce là ?C'est plus qu'au denier quatre.
@@ -941,31 +941,31 @@ C'est la réponse que j'ai faite.
 Il y a encore quelque chose ?
 
     LA FLÈCHE
-Ce n'est plus qu'un petit article. Des quinze mille francs qu'on demande, le Prêteur ne pourra compter en argent que douze mille livres ; et pour les mille écus restants, il faudra que l'Emprunteur prenne les hardes, nippes, et bijoux, dont s'ensuit le mémoire, et que ledit Prêteur a mis, de bonne foi, au plus modique prix qu'il lui a été possible.
+Ce n'est plus qu'un petit article. *Des quinze mille francs qu'on demande, le Prêteur ne pourra compter en argent que douze mille livres ; et pour les mille écus restants, il faudra que l'Emprunteur prenne les hardes, nippes, et bijoux, dont s'ensuit le mémoire, et que ledit Prêteur a mis, de bonne foi, au plus modique prix qu'il lui a été possible.*
 
     CLÉANTE
 Que veut dire cela ?
 
     LA FLÈCHE
-Écoutez le mémoire. Premièrement, un Lit de quatre pieds, à bandes de points de Hongrie, appliquées fort proprement sur un drap de couleur d'olive ; avec six chaises, et la courte-pointe de même ; le tout bien conditionné, et doublé d'un petit taffetas changeant rouge et bleu. Plus, un Pavillon à queue, d'une bonne serge d'Aumale rose-sèche ; avec le mollet et les franges de soie.
+Écoutez le mémoire. *Premièrement, un Lit de quatre pieds, à bandes de points de Hongrie, appliquées fort proprement sur un drap de couleur d'olive ; avec six chaises, et la courte-pointe de même ; le tout bien conditionné, et doublé d'un petit taffetas changeant rouge et bleu. Plus, un Pavillon à queue, d'une bonne serge d'Aumale rose-sèche ; avec le mollet et les franges de soie.*
 
     CLÉANTE
 Que veut-il que je fasse de cela ?
 
     LA FLÈCHE
-Attendez. Plus, une Tenture de Tapisserie des Amours de Gombaut, et de Macée. Plus, une grande Table de bois de noyer, à douze colonnes, ou piliers tournés, qui se tire par les deux bouts, et garnie par le dessous de ses six Escabelles.
+Attendez. *Plus, une Tenture de Tapisserie des Amours de Gombaut, et de Macée. Plus, une grande Table de bois de noyer, à douze colonnes, ou piliers tournés, qui se tire par les deux bouts, et garnie par le dessous de ses six Escabelles.*
 
     CLÉANTE
 Qu'ai-je affaire, morbleu…
 
     LA FLÈCHE
-Donnez-vous patience. Plus, trois gros Mousquets tout garnis de nacre de perles, avec les trois Fourchettes assortissantes. Plus, un Fourneau de brique, avec deux Cornues, et trois Récipients, fort utiles à ceux qui sont curieux de distiller.
+Donnez-vous patience. *Plus, trois gros Mousquets tout garnis de nacre de perles, avec les trois Fourchettes assortissantes. Plus, un Fourneau de brique, avec deux Cornues, et trois Récipients, fort utiles à ceux qui sont curieux de distiller.*
 
     CLÉANTE
 J'enrage.
 
     LA FLÈCHE
-Doucement. Plus, un luth de Bologne, garni de toutes ses cordes, ou peu s'en faut. Plus, un Trou-Madame, et un Damier, avec un Jeu de l'Oie renouvelé des Grecs, fort propres à passer le temps lorsque l'on n'a que faire. Plus, une Peau d'un lézard, de trois pieds et demi, remplie de foin ; curiosité agréable, pour pendre au plancher d'une Chambre. Le tout, ci-dessus mentionné, valant loyalement plus de quatre mille cinq cents livres, et rabaissé à la valeur de mille écus, par la discrétion du prêteur.
+Doucement.*Plus, un luth de Bologne, garni de toutes ses cordes, ou peu s'en faut. Plus, un Trou-Madame, et un Damier, avec un Jeu de l'Oie renouvelé des Grecs, fort propres à passer le temps lorsque l'on n'a que faire. Plus, une Peau d'un lézard, de trois pieds et demi, remplie de foin ; curiosité agréable, pour pendre au plancher d'une Chambre. Le tout, ci-dessus mentionné, valant loyalement plus de quatre mille cinq cents livres, et rabaissé à la valeur de mille écus, par la discrétion du prêteur.*
 
     CLÉANTE
 Que la peste l'étouffe avec sa discrétion, le traître, le bourreau qu'il est.A-t-on jamais parlé d'une usure semblable ? Et n'est-il pas content du furieux intérêt qu'il exige, sans vouloir encore m'obliger à prendre, pour trois mille livres, les vieux rogatons qu'il ramasse ? Je n'aurai pas deux cents écus de tout cela ; et cependant il faut bien me résoudre à consentir à ce qu'il veut ; car il est en état de me faire tout accepter, et il me tient, le scélérat, le poignard sur la gorge.

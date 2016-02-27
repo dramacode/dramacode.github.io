@@ -1,5 +1,5 @@
 ---
-identifier: cubieres-palmezeaux_mort  
+identifier: cubieres_mort-moliere  
 creator: Cubières-Palmézeaux, Michel de  
 date: 1788  
 title: La Mort de Molière. Pièce en trois actes, en vers [Pièce historique, en quatre actes en vers, et à spectacle]  
@@ -1248,8 +1248,6 @@ Ayant sçu d'ailleurs que quelques Littérateurs estimables devaient traiter le 
 La Scène est dans la Maison de Moliere.
 
 
-LA MORT DE MOLIERE.
-
 
 ## ACTE PREMIER.
 
@@ -1288,7 +1286,7 @@ LESBIN, MOLIERE.
 CHAPELLE n'a-t-il rien envoyé ?  
 
     LESBIN.
-                Non, Monsieur.  
+        Non, Monsieur.  
 
     MOLIERE.
 Qu'on me laisse !  
@@ -1370,21 +1368,21 @@ Vous ne croyez donc pas que j'aie à corriger
 Rien dans ma Comédie [66] ?  
 
     CHAPELLE.
-            Il n'y faut rien changer.  
+        Il n'y faut rien changer.  
 
      MOLIERE.
 Pas un mot ?  
 
     CHAPELLE.
-        Pas un mot.  
+    Pas un mot.  
 
      MOLIERE.
-                Eh bien, je suis sincère :  
+        Eh bien, je suis sincère :  
 A la vôtre non plus je ne vois rien à faire ;  
 Mais pour d'autres raisons.  
 
      CHAPELLE.
-                Comment ! expliquez-vous.  
+        Comment ! expliquez-vous.  
 
      MOLIERE.
 Je m'en garderai bien. A vous mettre en courroux⁎  
@@ -1392,7 +1390,7 @@ Vous ne tarderiez pas ; et Dieu merci, ma femme
 Se fâche assez souvent.  
 
      CHAPELLE.
-            Il est vrai que Madame  
+        Il est vrai que Madame  
 N'est pas douce ; mais moi, je m'amuse de tout.  
 De moi-même je ris quelquefois ; c'est mon goût.  
 Boire la nuit, dormir la grasse matinée,  
@@ -1404,7 +1402,7 @@ Vous a paru mauvais ? Et de votre suffrage
 Me faudrait-il passer tout-à-fait ?  
 
      MOLIERE.
-                Tout-à-fait.  
+        Tout-à-fait.  
 « Franchement il est bon à mettre au cabinet » [68].  
 Je me cite moi-même, en parlant de la sorte.  
 Pardonnez ; mais, ma foi ! la vérité m'emporte,  
@@ -1450,7 +1448,7 @@ Ne peut-on réussir par un autre moyen. [72]
 Disons-lui que la Pièce est de moi. [73]  
 
     CHAPELLE.
-                Cette ruse  
+        Cette ruse  
 Me plaît infiniment, et je n'ai plus d'excuse.  
 
     MOLIERE, *appellant*.
@@ -1462,35 +1460,35 @@ LAFORET, CHAPELLE, MOLIERE.
 
 
     LAFORET.
-        QU'EST-CE ?  
+    QU'EST-CE ?  
 
      MOLIERE.
-                Tenez-vous là.  
+        Tenez-vous là.  
 Je vais lire une Pièce.  
 
     LAFORET.
-            Oh ! j'aimons bien cela.  
+        Oh ! j'aimons bien cela.  
 Quand vous nous en montrais, je rions tant ! j'écoute  
 Déjà de tout mon cœur. Alle est de vous ? [74]  
 
     MOLIERE.
-                    Sans doute⁎.  
+        Sans doute⁎.  
 Elle est nouvelle même, et je voudrais savoir  
 Ce que vous en pensez.  
 
     LAFORET.
-            Je grillons de la voir [75].  
+        Je grillons de la voir [75].  
 Lisais.  
 
     MOLIERE, *lisant*.
-« *L'Insouciant*, Comédie en cinq Actes ».  
+        « *L'Insouciant*, Comédie en cinq Actes ».  
 
     CHAPELLE, *à Moliere*.
 Ne vous pressez pas trop : par des chûtes [76] exactes  
 Marquez bien chaque vers.  
 
     MOLIERE.
-            D'accord. A son maintien [77],  
+        D'accord. A son maintien [77],  
 Je vois déjà qu'au titre elle ne comprend rien.  
 (lisant).
 
@@ -1501,16 +1499,16 @@ LAFLEUR, ROSETTE.
 ROSETTE.
 Ton Maître est-il ici ?  
 LAFLEUR.
-            Non, il vient de sortir.  
+                    Non, il vient de sortir.  
 ROSETTE.
 Tant pis⁎ !  
 LAFLEUR.
-        Pourquoi cela ?  
+            Pourquoi cela ?  
 ROSETTE.
-                Je venais l'avertir.  
+                        Je venais l'avertir.  
 Que Madame l'attend à souper.  
 LAFLEUR.
-                Oh ! je pense  
+                        Oh ! je pense  
 Qu'il ne s'y rendra pas : il n'est pas d'homme en France  
 Qui soit plus invité. Chez nous, chaque matin,  
 Trottent les billets doux. C'est un tapage [78], un train [79]...  
@@ -1542,11 +1540,11 @@ Et n'écoutant jamais l'amour ni la nature... »
 Laforêt !  
 (à Chapelle).
 
-Vous voyez l'effet de la lecture :  
+        Vous voyez l'effet de la lecture :  
 Elle dort tout debout.  
 (riant). (appellant).
 
-            Ah ! ah ! ah ! Laforêt !  
+        Ah ! ah ! ah ! Laforêt !  
 
     CHAPELLE.
 J'en veux rire à mon tour ; c'est un excellent trait⁎.  
@@ -1555,7 +1553,7 @@ J'en veux rire à mon tour ; c'est un excellent trait⁎.
 Ah ! ah ! ah ! ah ! ah ! ah ! Laforêt !  
 
     LAFORET, *(se réveillant et se frottant les yeux).* 
-                Eh bien ! qu'est-ce ?  
+        Eh bien ! qu'est-ce ?  
 
     MOLIERE.
 Quoi ! vous dormez debout, lorsque je lis ma pièce !  
@@ -1571,7 +1569,7 @@ Et ce Monsieur Lafleur a trop d'esprit pour moi.
 Eh bien, vous l'entendez ?  
 
     CHAPELLE.
-            Elle a raison, ma foi !  
+        Elle a raison, ma foi !  
 (à Laforêt).
 
 Tu n'admires donc pas l'ouvrage de ton maître ?  
@@ -1580,7 +1578,7 @@ Tu n'admires donc pas l'ouvrage de ton maître ?
 Oh ! pour celui-là, non.  
 
     CHAPELLE.
-            Elle l'a fait paraître.  
+        Elle l'a fait paraître.  
 
     LAFORET, *(à Moliere).*
 Encore un coup [83], Monsieur, excusez si j'avons  
@@ -1611,7 +1609,7 @@ Qui vient de vous juger. Après cette lecture
 Prétendez-vous encore à mon suffrage [86] ?  
 
     CHAPELLE.
-                    Non.  
+        Non.  
 Qu'on se moque de moi je sens qu'on a raison.  
 Vous ne l'ignorez pas, Moliere ; ma paresse  
 Ne m'a jamais permis de soigner une pièce,  
@@ -1674,7 +1672,7 @@ POUR répéter, Monsieur, votre nouvelle pièce,
 On n'attend plus que vous.  
 
     MOLIERE *(à Chapelle).*
-            Il faut que je vous laisse.  
+        Il faut que je vous laisse.  
 
     LE GARÇON DE THEATRE.
 Du manuscrit aussi le souffleur [94] a besoin,  
@@ -1686,7 +1684,7 @@ Et de le demander on m'a commis le soin.
 Le voilà ; je vous suis.  
 (à Chapelle).
 
-            D'après un tel message,  
+        D'après un tel message,  
 Si vous ne m'eussiez point rapporté mon ouvrage,  
 Vous le voyez ; parbleu⁎ j'étais joli garçon [95].  
 
@@ -1720,7 +1718,7 @@ Veut que vous m'expliquiez en quoi je suis coupable.
 Moliere m'a caché...  
 
     LA MOLIERE.
-            Les plaisirs de la table  
+        Les plaisirs de la table  
 N'ont jamais rien valu pour sa foible santé.  
 Il était au régime : avec soin apprêté,  
 Un lait doux humectait sa poitrine affoiblie.  
@@ -1807,7 +1805,7 @@ Il s'y montre insensible, et, pour jouer, ce soir,
 Il vient de s'habiller.  
 
     LA MOLIERE.
-            Rassurez-vous, ma fille,  
+        Rassurez-vous, ma fille,  
 Il faut qu'il y renonce et qu'il se déshabille.  
 Votre père m'est cher. Je ne souffrirai⁎ pas  
 Qu'au trépas il s'expose en feignant le trépas [109].  
@@ -1834,10 +1832,10 @@ Et qu'il ressent pour vous une égale tendresse ?
 Non.  
 
     LA MOLIERE.
-Vous en convenez ?  
+    Vous en convenez ?  
 
     ISABELLE.
-                Sans doute⁎ il m'intéresse ;  
+        Sans doute⁎ il m'intéresse ;  
 Mais je ne savais pas que ce pur sentiment  
 Fût un crime à vos yeux, et même en ce moment,  
 J'ai peine à concevoir qu'il puisse vous déplaire.  
@@ -1886,7 +1884,7 @@ Il est sûr d'obtenir bientôt mon agrément [113].
 J'abandonnerai donc le théâtre ?  
 
     LA MOLIERE.
-                Oui vraiment.  
+        Oui vraiment.  
 On vous appellera Madame la Marquise.  
 Vous aurez un hôtel [114], un nom. Je suis surprise  
 Que vous ne sentiez pas l'excès d'un tel honneur.  
@@ -1897,7 +1895,7 @@ Et mon père d'ailleurs n'aime pas qu'on s'allie
 A de plus grands que soi.  
 
     LA MOLIERE.
-            Riez de sa folie.  
+        Riez de sa folie.  
 Votre père voit mal... Ah ! s'il avait mes yeux !...  
 
     ISABELLE.
@@ -1937,14 +1935,14 @@ Ma fille m'est soumise, et je la marierai
 Selon qu'il me plaira.  
 
     LA MOLIERE.
-            Mais songez donc, Moliere,  
+        Mais songez donc, Moliere,  
 Que ma fille aux honneurs s'ouvrira la carrière,  
 Et que l'hymen [118] s'unit avec le tendre amour  
 Pour la faire bientôt parvenir à la Cour.  
 Songez qu'incessamment...  
 
     MOLIERE.
-            La Cour ! voilà les femmes !  
+        La Cour ! voilà les femmes !  
 Elles veulent toujours être de grandes Dames  
 Et toujours s'élever : ivres d'un vain éclat  
 Elles ne savent point rester dans leur état [119],  
@@ -1955,7 +1953,7 @@ C'est vous que je peindrai ; je ne puis choisir mieux.
 Oui, ma femme, vous même.  
 
     LA MOLIERE.
-                Et vous ferez, je gage [121]  
+        Et vous ferez, je gage [121]  
 Une pièce ennuyeuse, un détestable ouvrage.  
 
     MOLIERE.
@@ -2009,7 +2007,7 @@ D'obtenir la faveur et l'oreille du maître,
 Et que...  
 
     MOLIERE.
-Vous voulez donc qu'il soit de qualité [128] ?  
+        Vous voulez donc qu'il soit de qualité [128] ?  
 J'y consens ; mais sachez une autre vérité  
 Beaucoup plus importante, et vous perdrez l'envie  
 De voir bientôt ma fille avec Milflore unie.  
@@ -2045,7 +2043,7 @@ Si l'on vous eût offert un Marquis pour époux,
 Auriez-vous sans regret renoncé...  
 
      LA  MOLIERE.
-                Taisez vous.  
+        Taisez vous.  
 
      MOLIERE.
 Et pourquoi, s'il vous plaît, la forcer au silence ?  
@@ -2063,13 +2061,13 @@ Votre fille vous aime et ne veut point manquer
 A ce qu'elle vous doit.  
 
      LA MOLIERE.
-            Qu'a-t-elle encore à dire ?  
+        Qu'a-t-elle encore à dire ?  
 
     ISABELLE.
 Madame, j'ai tout dit.  
 
      LA MOLIERE  *(à part).*
-            Je souffre le martyre  
+        Je souffre le martyre  
 (haut à Molière).
 
 Puisque vous la servez de tout votre pouvoir,  
@@ -2089,17 +2087,17 @@ Elle sait votre rôle.
 (2) Actrice du temps de Molière. [133]
 
     LA MOLIERE.
-            Eh bien ! qu'elle le fasse !  
+        Eh bien ! qu'elle le fasse !  
 Qu'elle soit de vos maux et complice et témoin !  
 Ne pouvant l'empêcher, d'un plus utile soin  
 Je me vais acquitter. On m'a dit la demeure  
 Du Docteur Mauvilain [134].  
 
     MOLIERE.
-            Qu'entends-je ?  
+    Qu'entends-je ?  
 
     LA MOLIERE.
-                    Dans une heure  
+        Dans une heure  
 Et peut-être plutôt vous le verrez ici.  
 
     MOLIERE.
@@ -2113,7 +2111,7 @@ N'est-ce donc pas assez pour moi d'être malade ?
 Vous avez beau railler.  
 
     MOLIERE.
-            Prenez pitié de moi.  
+        Prenez pitié de moi.  
 
     LA MOLIERE.
 Non, non ; un Médecin... mais qu'est-ce que je voi [135] ?  
@@ -2132,7 +2130,7 @@ QU'EST-CE, mon cher Baron ? vous paraissez rêveur.
 Ah ! j'ai sujet de l'être.  
 
      MOLIERE.
-            Et quel est le malheur  
+        Et quel est le malheur  
 Qui fait naître chez vous cette mélancolie [137] ?  
 Daignez me l'expliquer ; votre ami vous en prie.  
 
@@ -2140,11 +2138,11 @@ Daignez me l'expliquer ; votre ami vous en prie.
 Vous connoissez Mondorge [138] ?  
 
      MOLIERE.
-                Oui, c'est un Comédien  
+        Oui, c'est un Comédien  
 Pauvre à la vérité ; mais honnête homme.  
 
      BARON.
-                    Eh bien !  
+        Eh bien !  
 Il est plus que jamais plongé dans la détresse.  
 Je sais qu'aux malheureux votre cœur s'intéresse,  
 Et je viens vous prier...  
@@ -2152,16 +2150,16 @@ Et je viens vous prier...
     MOLIERE.
 (Avec un transport⁎ de sensibilité).
 
-            Mon camarade ! ô ciel !  
+        Mon camarade ! ô ciel !  
 Qu'il vienne, qu'il paraisse !  
 
     BARON.
-                Il est essentiel  
+        Il est essentiel  
 Qu'il ne se montre pas. Quand la peine est extrême,  
 On craint d'être importun.  
 
      MOLIERE.
-            Doute-t-il que je l'aime ?  
+        Doute-t-il que je l'aime ?  
 
      BARON.
 Non ; mais si vous voulez être son bienfaiteur...  
@@ -2170,7 +2168,7 @@ Non ; mais si vous voulez être son bienfaiteur...
 Si je le veux ! sur l'heure [139].  
 
      BARON.
-            Epargnez la pudeur :  
+        Epargnez la pudeur :  
 Dont son front, à vos yeux se couvrirait peut-être,  
 D'une rougeur subite il ne serait pas maître...  
 
@@ -2181,28 +2179,28 @@ Eh bien ! de ses besoins causons même en silence.
 Qu'est-ce qu'il lui faudrait. [141]  
 
      BARON.
-            Il fait son tour de France,  
+        Il fait son tour de France,  
 Jouant la Comédie à Marseille, à Bordeaux :  
 Il dépense beaucoup en habits, en chevaux :  
 Les voyages sont chers.  
 
     MOLIERE.
-            Très-chers. Quels sont ses rôles ?  
+        Très-chers. Quels sont ses rôles ?  
 
     BARON.
 Ceux de Rois. Il pourrait avec quinze pistoles [142]  
 Demain se mettre en route.  
 
      MOLIERE *(lui donnant de l'argent).*
-            Il faut les lui porter.  
+        Il faut les lui porter.  
 De ma part : les voilà.  
 (lui donnant encore).
 
-            Puis, il faut ajouter  
+        Puis, il faut ajouter  
 Ces vingt-cinq de la vôtre.  
 
      ISABELLE *(lui donnant aussi de l'argent).*
-            Et de la mienne douze.  
+        Et de la mienne douze.  
 
     MOLIERE.
 De l'obliger⁎ aussi te voilà donc jalouse [143] ?  
@@ -2230,7 +2228,7 @@ A la vertu modeste, et je m'en vais soudain⁎
 Remettre en votre nom...  
 
     MOLIERE *(le rappellant après qu'il a fait quelques pas).* 
-            Attendez ; j'ai dessein  
+        Attendez ; j'ai dessein  
 De joindre un habit neuf à la modique somme  
 Que va de notre part toucher cet honnête homme.  
 Si j'en crois mes soupçons, il n'est pas trop vêtu,  
@@ -2256,13 +2254,13 @@ Il vient de nous montrer ! et combien l'un et l'autre
 Vous m'avez enchanté !  
 
      ISABELLE.
-            Cet éloge est le vôtre :  
+        Cet éloge est le vôtre :  
 O mon père ! c'est vous, vous qui le méritez :  
 Vos exemples par nous viennent d'être imités :  
 C'est vous qu'il faut louer.  
 
     MOLIERE.
-            Loin de lui faire un crime  
+        Loin de lui faire un crime  
 De son ardeur pour vous, je l'aime, je l'estime  
 Plus que jamais, ma fille, et je veux qu'aujourd'hui  
 Un fortuné [145] lien vous unisse avec lui.  
@@ -2305,14 +2303,14 @@ MOLIERE, ISABELLE.
 
 
     ISABELLE.
-            QUOI ! mon père, en effet  
+        QUOI ! mon père, en effet  
 Vous jouerez aujourd'hui, lorsqu'avec tant de peine  
 Je vous ai vu tantôt⁎ répéter votre scène ?  
 D'une cruelle toux votre organe affecté  
 M'inspire une frayeur...  
 
     MOLIERE.
-            Ma fragile santé  
+        Ma fragile santé  
 Chaque jour, j'en conviens, s'affaiblit davantage ;  
 Mais de l'humanité les maux sont le partage :  
 Il faut les supporter ; il faut savoir souffrir,  
@@ -2329,7 +2327,7 @@ Je me sens beaucoup mieux que ce matin. J'espère
 Que ma toux est passée.  
 
     ISABELLE.
-            Ah ! croyez-moi, mon père ;  
+        Ah ! croyez-moi, mon père ;  
 Elle peut revenir ; elle peut vous forcer  
 D'abandonner la scène, et vous devez penser  
 Qu'un pareil accident [151] a des suites cruelles.  
@@ -2340,10 +2338,10 @@ Rassurez-vous, ma fille, et venez avec moi ;
 On nous attend tous deux.  
 
     ISABELLE.
-            Vous jouerez ?  
+    Vous jouerez ?  
 
      MOLIERE.
-                    Je le doi [153].  
+        Je le doi [153].  
 
      ISABELLE, *(tombant à ses genoux).*
 Non, vous ne jouerez point ; non ; j'ai trop d'épouvante  
@@ -2409,7 +2407,7 @@ Et l'on n'ignore pas que toujours les effets
 Suivent votre promesse.  
 
      MOLIERE.
-            Obliger⁎ de sa bourse,  
+        Obliger⁎ de sa bourse,  
 Est un petit mérite ; et l'homme sans ressource  
 A des droits infinis sur les cœurs généreux.  
 Ce n'est pas l'argent seul qui sert les malheureux.  
@@ -2436,7 +2434,7 @@ Encore un embarras !
 « Vous savez, mon cher Moliere, que je travaille depuis long-temps à votre portrait ; l'amitié qui nous unit et votre grande réputation me faisaient une loi d'y mettre tout le soin dont je suis capable, et cette loi a été ma règle unique : je l'ai achevé enfin, et si vous voulez m'attendre chez vous aujourd'hui, je vous le ferai porter, afin que vous m'en disiez votre avis. Ce n'est jamais en vain que je vous ai consulté sur mes ouvrages. Si vous trouvez à redire à celui ci, je le retoucherai et vous prouverai par ma docilité les sentiments respectueux et tendres que vous m'avez toujours inspirés ».
 (cessant de lire).
 
-            Pour attendre Mignard,  
+        Pour attendre Mignard,  
 Je ne resterai point. Qu'on aille de ma part  
 Le lui faire savoir :  
 
@@ -2469,7 +2467,7 @@ Je me brouille [161] avec elle et me reconcilie
 Au moins dix fois le jour. [162]  
 
     BARON.
-            Son obstination  
+        Son obstination  
 Plus que jamais éclate en cette occasion.  
 Malgré vous, de vos droits elle veut faire usage.  
 Mondorge allait partir : il suspend son voyage.  
@@ -2477,7 +2475,7 @@ Laforêt ne veut point lui remettre l'habit
 Que vous lui destinez.  
 
     MOLIERE.
-            Et qu'est-ce qu'elle dit  
+        Et qu'est-ce qu'elle dit  
 Pour ses raisons ?  
 
      BARON.
@@ -2487,7 +2485,7 @@ Pour ses raisons ?
 Mais encor ?  
 
      BARON.
-Ces raisons vous paraîtront frivoles,  
+        Ces raisons vous paraîtront frivoles,  
 Et j'y vois néanmoins un air de vérité.  
 Vous êtes trop humain, trop rempli de bonté,  
 A ce qu'elle prétend. Elle se plaint sans cesse  
@@ -2569,13 +2567,13 @@ Et, quoique Médecin, j'ai souvent le bonheur
 De le voir, de l'entendre.  
 
      ISABELLE.
-            Ah ! Monsieur le Docteur,  
+        Ah ! Monsieur le Docteur,  
 Qu'à propos vous venez ! une toux obstinée  
 L'a fait beaucoup souffrir toute la matinée.  
 Il faudrait lui donner quelqu'ordonnance.  
 
     LE DOCTEUR.
-                    Moi !  
+        Moi !  
 Je m'en garderai bien : il rirait trop, ma foi,  
 Si je voulais droguer⁎ [168] sa poitrine oppressée.  
 Un semblable projet est loin de ma pensée.  
@@ -2588,10 +2586,10 @@ Que, s'il refuse encor de voir un Médecin,
 C'est un homme perdu.  
 
     ISABELLE *(à Baron).*
-            Vous l'entendez ?  
+    Vous l'entendez ?  
 
     LE DOCTEUR.
-                    Je tremble  
+        Je tremble  
 Qu'il ne rentre à l'instant et ne nous voie ensemble.  
 Il croirait que je viens ici pour le guérir.  
 Assurez-le donc bien qu'il s'expose à périr,  
@@ -2618,19 +2616,19 @@ Oui, mon père.
 De quelque grand chagrin.  
 
      BARON.
-            O mon ami ! mon maître  
+        O mon ami ! mon maître  
 Pourrais-je m'empêcher de le faire paraître.  
 Je tremble pour vos jours. Vous savez que d'Argan  
 Le rôle est difficile et sur-tout fatigant,  
 Et vous vous disposez à le jouer !  
 
      MOLIERE.
-                Sans doute⁎.  
+        Sans doute⁎.  
 Quand on fait son devoir, qu'est-ce que l'on redoute ?  
 Le devoir avant tout.  
 
      BARON.
-            Votre devoir n'est pas  
+        Votre devoir n'est pas  
 D'affronter la douleur, d'insulter au trépas [172] ;  
 Par des travaux⁎ nombreux la source de la vie,  
 Se montrant, chaque jour, en vous plus affaiblie  
@@ -2662,7 +2660,7 @@ CHAPELLE.
 NON, non ; vous resterez.  
 
     MOLIERE.
-            Oh ! quel nouveau supplice [176] !  
+        Oh ! quel nouveau supplice [176] !  
 
      CHAPELLE.
 Lorsque vous répétiez, caché dans la coulisse,  
@@ -2672,7 +2670,7 @@ Vous ne m'annoncez pas une santé bien forte.
 Vous avez l'air souffrant.  
 
      MOLIERE, *(avec un commencement de colère).*
-            Morbleu⁎ ! que vous importe ?  
+        Morbleu⁎ ! que vous importe ?  
 Si je souffre, tant mieux. De quoi vous mêlez-vous ?  
 Voulez-vous qu'à la fin, je me mette en courroux⁎ ?  
 Aisément pour cela ma force se ranime.       
@@ -2691,7 +2689,7 @@ Chacun me maudirait ; et vous ne voulez pas
 Qu'ici vous retenant !...  
 
     MOLIERE *(lui tendant les bras dans lesquels il se jette).*
-            Eh bien ! entre mes bras  
+        Eh bien ! entre mes bras  
 Jettez-vous, mon ami. Si le Ciel l'abandonne,  
 Et s'il meurt aujourd'hui, Moliere vous pardonne ;  
 Mais je ne mourrai point. Dissipez votre effroi :  
@@ -2725,7 +2723,7 @@ LAFORET, CHAPELLE.
 VOUS avez appellé, je crois.  
 
      CHAPELLE.
-                Certainement.  
+        Certainement.  
 Je viens d'être témoin d'un triste événement,  
 Moliere étoit malade, et, malgré nos instances,  
 Il a voulu jouer.  
@@ -2751,7 +2749,7 @@ Et peut avoir besoin de vous dans la maison.
 Et d'où vient son désastre [178] ?  
 
      CHAPELLE.
-                A la fin de la pièce,  
+        A la fin de la pièce,  
 Je l'ai vu pâle et prêt à tomber en faiblesse  
 En prononçant *juro* [179] : dès-lors il aurait dû  
 De la scène sortir, et laisser suspendu  
@@ -2785,7 +2783,7 @@ Pour vous aimer encor, je me sens ranimé.
 Mais où donc est Chapelle ?  
 (il l'apperçoit).
 
-                Ah ! pardon, ma paupière  
+        Ah ! pardon, ma paupière  
 Ne peut que par dégrés s'ouvrir à la lumière.  
 Pardon, mon cher ami, je ne vous voyais pas...  
 Et ma femme en ces lieux n'a point porté ses pas ?  
@@ -2794,7 +2792,7 @@ Et ma femme en ces lieux n'a point porté ses pas ?
 Elle n'est point encor rentrée.  
 
      MOLIERE.
-                Ah ! puisse-t-elle  
+        Ah ! puisse-t-elle  
 Ignorer mes tourments ! Dans l'excès de son zèle⁎  
 Elle m'accablerait de reproches. Je veux  
 Epargner, s'il se peut, des chagrins à tous deux.  
@@ -2834,20 +2832,20 @@ Mon plaisir le plus doux fut de vivre pour elle.
 Dites moi donc comment vous vous portez.  
 
     LE DOCTEUR.
-                    Fort bien. [184]  
+        Fort bien. [184]  
 
     MOLIERE.
 Vos enfants, votre femme ?  
 
     LE DOCTEUR.
-            A merveille : je vien [185]...  
+        A merveille : je vien [185]...  
 
      MOLIERE, *(l'interrompant).*
 Vous aviez un procès de grande conséquence.  
 Quand le jugera-t-on ?  
 
     LE DOCTEUR.
-            La prochaine séance.  
+        La prochaine séance.  
 Il faudrait...  
 
      MOLIERE, *(l'interrompant).*
@@ -2876,23 +2874,23 @@ Raillez-moi donc ; et moi, je viens pour vous guérir.
 Son zèle⁎ doit vous plaire.  
 
      MOLIERE *(à Isabelle).*
-            Oui, j'aime sa franchise.  
+        Oui, j'aime sa franchise.  
 (au Docteur).
 
 Me guérir ! et comment ?  
 
     LE DOCTEUR.
-            Il faudrait sans remise  
+        Il faudrait sans remise  
 Vous saigner, vous purger.  
 
      MOLIERE, *(souriant).*
-            Saignaré, purgaré [186].  
+        Saignaré, purgaré [186].  
 
     LE DOCTEUR.
 Prendre au moins un remède.  
 
      MOLIERE.
-                Et clistérisaré [187].  
+        Et clistérisaré [187].  
 A merveille, Docteur ! l'ordonnance est hardie.  
 Est-ce que nous jouons encor la Comédie ?  
 Et faites-vous ici le rôle de Purgon ?  
@@ -2922,7 +2920,7 @@ Il en sera de même. Un doux espoir m'a lui [188]
 Dès que j'ai vu ma fille,  
 (montrant Baron).
 
-            Et ce cher camarade  
+        Et ce cher camarade  
 S'intéresser à moi. Puis-je être encor malade ?  
 De tout ce qui m'est cher, je me vois entouré.  
 C'est le cœur qui fait vivre, et par lui je vivrai. [189]  
@@ -2935,7 +2933,7 @@ Aller vous renfermer dans votre appartement [190],
 Et là...  
 
      MOLIERE.
-    C'est bien parler, et pour le coup je pense  
+        C'est bien parler, et pour le coup je pense  
 Qu'enfin il vous échappe une bonne ordonnance.  
 Conduisez-moi, ma fille, et vous, mon cher Baron,  
 Restez pour recevoir ma femme : il serait bon  
@@ -2974,7 +2972,7 @@ MONSIEUR de Montausier [194], inquiet sur Moliere,
 Vient ici pour le voir.  
 
      BARON.
-            Monsieur de Montausier !  
+        Monsieur de Montausier !  
 Qu'il sera doux pour moi de le remercier.  
 Il est si vertueux ! Montausier est un homme  
 Tel qu'on en vit jadis aux beaux siècles de Rome.  
@@ -3010,13 +3008,13 @@ Qu'ici je resterai jusqu'à ce qu'on m'ait dit
 S'il est mieux ou plus mal.  
 
      BARON.
-            Vous en serez instruit  
+        Vous en serez instruit  
 Incessamment [196], je pense, et de la même crainte  
 Si je ne sentais point aussi mon ame atteinte,  
 J'irais...  
 
     MONTAUSIER.
-Non, demeurez : respectons les douleurs  
+        Non, demeurez : respectons les douleurs  
 Du malheureux qui souffre, et cachons-lui nos pleurs.  
 
      BARON.
@@ -3034,7 +3032,7 @@ MONTAUSIER, BARON, PIRLON.
 COMMENT se porte-t-il ?  
 
     BARON.
-            C'est vous, Monsieur Pirlon !  
+        C'est vous, Monsieur Pirlon !  
 Ciel ! Et que venez-vous faire en cette maison ?  
 
     PIRLON.
@@ -3048,7 +3046,7 @@ Et je viens pour savoir comment va le cher homme.
 Assez mal.  
 
     PIRLON.
-Ah ! tant pis⁎ ! ses talents qu'on renomme  
+        Ah ! tant pis⁎ ! ses talents qu'on renomme  
 Et qu'admire sans cesse un monde peu chrétien,  
 Ont pu scandaliser pourtant les gens de bien :  
 Moliere a, je l'avoue, un talent agréable,  
@@ -3061,10 +3059,10 @@ Quel est cet insensé qui raisonne si mal ?
 C'est Tartuffe.  
 
     MONTAUSIER.
-        Tartuffe !  
+    Tartuffe !  
 
      BARON.
-            En propre original. [199]  
+        En propre original. [199]  
 
     MONTAUSIER.
 Laissez-moi lui parler : laissez-moi le confondre [200].  
@@ -3086,7 +3084,7 @@ Et l'on sait que je hais sur-tout l'hypocrisie.
 Mon nom est Montausier.  
 
     PIRLON, *(s'inclinant).*
-            Monsieur le Duc, eh quoi  
+        Monsieur le Duc, eh quoi  
 Un homme tel que vous, en faveur près du Roi,  
 Vient chez un Comédien dont l'indiscrete audace  
 Mériterait...  
@@ -3118,7 +3116,7 @@ Dans mes discours, Monsieur, je ne mets point de fiel [201].
 Je le vois.  
 
     PIRLON.
-Mais je dois dénoncer un coupable.  
+        Mais je dois dénoncer un coupable.  
 On fait aimer le vice en le rendant aimable,  
 Et Moliere par-tout le couronne de fleurs.  
 
@@ -3228,12 +3226,12 @@ Espérez tout de l'art dont les heureux secours...
 Je n'espère plus rien.  
 
     BARON.
-            O ma chère Isabelle !  
+        O ma chère Isabelle !  
 Chassez de votre cœur cette crainte mortelle,  
 Et souffrez que nos soins...  
 
      ISABELLE.
-            Ciel ! ne m'épargnez pas,  
+        Ciel ! ne m'épargnez pas,  
 Si mon père, en ce jour, doit subir le trépas,  
 Et terminez aussi ma trop longue carrière !  
 
@@ -3260,7 +3258,7 @@ Je puis encor le voir... De grace, laissez-moi
 Seule avec ce portrait.  
 
     CHAPELLE.
-            Son ordre est une loi !  
+        Son ordre est une loi !  
 Sortons ; ne troublons pas sa douleur davantage.  
 L'infortune est sacrée.  
 
@@ -3268,7 +3266,7 @@ L'infortune est sacrée.
 ### SCÈNE XI.
 
     ISABELLE,  *(seule, parlant au portrait)*
-            O respectable image !  
+        O respectable image !  
 Toi, qui m'offres les traits du père le plus cher,  
 Mes larmes devant toi peuvent donc s'épancher !  
 Le sort va me ravir ce père que j'adore.  
@@ -3543,7 +3541,7 @@ MOLIERE, LESBIN.
 Chapelle n'a-t-il rien envoyé ?  
 
      LESBIN.
-                Non, Monsieur.  
+        Non, Monsieur.  
 
     MOLIERE.
 Qu'on me laisse !  
@@ -3625,21 +3623,21 @@ Vous ne croyez donc pas que j'aie à corriger
 Rien dans ma comédie ?  
 
      CHAPELLE.
-            Il n'y faut rien changer.  
+        Il n'y faut rien changer.  
 
     MOLIERE.
 Pas un mot ?  
 
      CHAPELLE.
-        Pas un mot.  
+    Pas un mot.  
 
      MOLIERE.
-                Eh bien, je suis sincère,  
+        Eh bien, je suis sincère,  
 A la vôtre non plus je ne vois rien à faire ;  
 Mais pour d'autres raisons…  
 
      CHAPELLE.
-                Comment ! expliquez-vous ?  
+        Comment ! expliquez-vous ?  
 
     MOLIERE.
 Je m'en garderai bien. A vous mettre en courroux⁎  
@@ -3647,7 +3645,7 @@ Vous ne tarderiez pas ; et Dieu merci, ma femme
 Se fâche assez souvent.  
 
      CHAPELLE.
-            Il est vrai que Madame  
+        Il est vrai que Madame  
 N'est pas douce ; mais moi, je m'amuse de tout.  
 De moi-même je ris quelquefois; c'est mon goût.  
 Boire la nuit, dormir la grace matinée,  
@@ -3659,7 +3657,7 @@ Vous a paru mauvais ? Et de votre suffrage
 Me faudrait-il passer tout-à fait ?  
 
      MOLIERE.
-                Tout-à-fait.  
+        Tout-à-fait.  
 Franchement il est bon à mettre au cabinet.  
 Je me cite moi-même, en parlant de la sorte,  
 Pardonnez ; mais, ma foi ! la vérité m'emporte.  
@@ -3705,7 +3703,7 @@ Ne peut-on réussir par un autre moyen ?
 Disons-lui que la pièce est de moi.  
 
      CHAPELLE.
-                Cette ruse  
+        Cette ruse  
 Me plaît infiniment, et je n'ai plus d'excuse.  
 
      MOLIERE, *appellant.*
@@ -3717,35 +3715,35 @@ LES PRÉCÉDENS, LAFORET.
 
 
     LAFORET, *tenant à la main un flambeau allumé.*
-        Qu'est-ce ?  
+    Qu'est-ce ?  
 
     MOLIERE.
-            Mettez-vous là.  
+        Mettez-vous là.  
 Je vais lire une pièce.  
 
      LAFORET.
-            Oh ! j'aimons bien cela !  
+        Oh ! j'aimons bien cela !  
 Quand vous nous en montrais, je rions tant ! j'écoute  
 Déjà de tout mon cœur. Alle est de vous ?  
 
      MOLIERE.
-                    Sans doute⁎.  
+        Sans doute⁎.  
 Elle est nouvelle, même, et je voudrais savoir  
 Ce que vous en pensez.  
 
      LAFORET.
-            Je grillons de la voir.  
+        Je grillons de la voir.  
 Lisais.  
 
      MOLIERE, *lisant.*
-« *L'INSOUCIANT*, Comédie en cinq actes ».  
+        « *L'INSOUCIANT*, Comédie en cinq actes ».  
 
      CHAPELLE *à Molière.*
 Ne vous pressez pas trop : par des chûtes exactes  
 Marquez bien chaque vers.  
 
     MOLIERE.
-            D'accord. A son maintien,  
+        D'accord. A son maintien,  
 Je vois déjà qu'au titre elle ne comprend rien.  
 (lisant).
 
@@ -3756,16 +3754,16 @@ LAFLEUR, ROSETTE.
 ROSETTE.
 Ton Maître est-il ici ?  
 LAFLEUR.
-            Non, il vient de sortir.  
+                    Non, il vient de sortir.  
 ROSETTE.
 Tant pis⁎.  
 LAFLEUR.
-Pourquoi cela ?  
+    Pourquoi cela ?  
 ROSETTE.
-            Je venais l'avertir.  
+                    Je venais l'avertir.  
 Que madame l'attend à souper.  
 LAFLEUR.
-                Oh ! je pense  
+                        Oh ! je pense  
 Qu'il ne s'y rendra pas : il n'est pas d'homme en France  
 Qui soit plus invité. Chez nous, chaque matin,  
 Trottent les billets doux. C'est un tapage, un train...  
@@ -3795,7 +3793,7 @@ Et n'écoutant jamais l'amour ni la nature...”
 Laforêt !  
 (à Chapelle).
 
-Vous voyez l'effet de la lecture :  
+        Vous voyez l'effet de la lecture :  
 Elle dort tout debout. *(riant)* Ah ! ah ! ah ! Laforêt !  
 
      CHAPELLE.
@@ -3803,7 +3801,7 @@ J'en veux rire à mon tour ; c'est un excellent trait⁎.
 *(riant).* Ah ! ah ! ah ! ah ! ah ! ah ! *(appellant)* Laforêt !  
 
     LAFORET, *se réveillant, se frottant les yeux, et laissant tomber le flambeau qu'elle tient.* [456]  
-                        Eh bien ! qu'est-ce ?  
+        Eh bien ! qu'est-ce ?  
 
      MOLIERE.
 Quoi ! vous dormez debout, lorsque je lis ma pièce !  
@@ -3819,7 +3817,7 @@ Et ce Monsieur Lafleur a trop d'esprit pour moi.
 Eh bien, vous l'entendez ?  
 
      CHAPELLE.
-            Elle a raison, ma foi !  
+        Elle a raison, ma foi !  
 (à Laforêt).
 
 Tu n'admires donc pas l'ouvrage de ton maître ?  
@@ -3828,7 +3826,7 @@ Tu n'admires donc pas l'ouvrage de ton maître ?
 Oh ! pour celui-là, non.  
 
      CHAPELLE *à Molière.* [457]
-            Elle **le** [458] fait paraître.  
+        Elle **le** [458] fait paraître.  
 
      LAFORET. *à Molière* [459]
 Ce valet qui reçoit tant de coups de bâton,  
@@ -3842,11 +3840,11 @@ Et Covielle et Scapin voilà les personnages
 **Qui m'amusiont toujours.** [462]  
 
     CHAPELLE.
-                **Mais Rosette et Lafleur**  
+        **Mais Rosette et Lafleur**  
 Sont de la même main.  
 
     LAFORET.
-            **Eh ! pardine** [463], **monsieur**  
+        **Eh ! pardine** [463], **monsieur**  
 Pourquoi le répéter ? J'en sommes bien fâchée,  
 **C'est le *culot* qu'on trouve au fond de la nichée** [464].  
 (à Molière.)
@@ -3881,7 +3879,7 @@ Qui vient de vous juger. Après cette lecture
 Prétendez-vous encore à mon suffrage ?  
 
     CHAPELLE.
-                    Non.  
+        Non.  
 Qu'on se mocque de moi je sens qu'on a raison.  
 Vous ne l'ignorez pas, Molière, ma paresse  
 Ne m'a jamais permis de soigner une pièce,  
@@ -3944,7 +3942,7 @@ Pour répéter, Monsieur, votre nouvelle pièce,
 On n'attend plus que vous.  
 
     MOLIERE *à Chapelle.*
-            Il faut que je vous laisse.  
+        Il faut que je vous laisse.  
 
      LE GARÇON.
 Du manuscrit aussi le souffleur a besoin,  
@@ -3954,7 +3952,7 @@ Et de le demander on m'a commis le soin.
 Le voilà, je vous suis.  
 (à Chapelle).
 
-            D'après un tel message,  
+        D'après un tel message,  
 Si vous ne m'eussiez point rapporté mon ouvrage,  
 Vous le voyez, parbleu⁎ j'étais joli garçon.  
 
@@ -3988,7 +3986,7 @@ Veut que vous m'expliquiez en quoi je suis coupable.
 Molière m'a caché...  
 
     LA MOLIERE.
-            Les plaisirs de la table  
+        Les plaisirs de la table  
 N'ont jamais rien valu pour sa faible santé.  
 Il était au régime ; avec soin apprêté,  
 Un lait doux humectait sa poitrine affaiblie ;  
@@ -4075,7 +4073,7 @@ Il s'y montre insensible, et pour jouer ce soir
 Il vient de s'habiller.  
 
     LA MOLIERE.
-            Rassurez-vous, ma fille,  
+        Rassurez-vous, ma fille,  
 Il faut qu'il y renonce et qu'il se déshabille.  
 Votre père m'est cher : je ne souffrirai⁎ pas  
 Qu'au trépas il s'expose en feignant le trépas.  
@@ -4092,7 +4090,7 @@ Mon cœur, sans votre aveu, s'est-il jamais permis
 De former un desir ?  
 
      LA MOLIERE *avec humeur.* [468]
-            Oui, oui, mademoiselle,  
+        Oui, oui, mademoiselle,  
 Je connais votre humeur indocile et rebelle ;  
 Mais je saurai bientôt vous mettre à la raison.  
 M'oserez-vous nier que vous aimez Baron,  
@@ -4102,10 +4100,10 @@ Et qu'il ressent pour vous une égale tendresse ?
 Non.  
 
      LA MOLIERE.
-Vous en convenez ?  
+    Vous en convenez ?  
 
      ISABELLE.
-            Sans doute⁎ il m'intéresse,  
+        Sans doute⁎ il m'intéresse,  
 Mais je ne savais pas que ce pur sentiment  
 Fût un crime à vos yeux, et même en ce moment,  
 J'ai peine à concevoir qu'il puisse vous déplaire.  
@@ -4154,7 +4152,7 @@ Il est sûr d'obtenir bientôt mon agrément.
 J'abandonnerai donc le théâtre ?  
 
      LA MOLIERE.
-                Oui, vraiment.  
+        Oui, vraiment.  
 On vous appellera madame la marquise.  
 Vous aurez un hôtel, un nom. Je suis surprise  
 Que vous ne sentiez pas l'excès d'un tel honneur.  
@@ -4165,7 +4163,7 @@ Et mon père, d'ailleurs, n'aime pas qu'on s'allie
 A de plus grands que soi.  
 
      LA MOLIERE.
-            Riez de sa folie.  
+        Riez de sa folie.  
 Votre père voit mal... Ah ! s'il avait mes yeux !...  
 
      ISABELLE.
@@ -4204,14 +4202,14 @@ Ma fille m'est soumise, et je la marierai
 Selon qu'il me plaira.  
 
      LA MOLIERE.
-            Mais songez donc, Molière,  
+        Mais songez donc, Molière,  
 Que ma fille aux honneurs s'ouvrira la carrière,  
 Et que l'hymen s'unit avec le tendre amour  
 Pour la faire bientôt parvenir à la cour.  
 Songez qu'incessamment...  
 
      MOLIERE.
-            La cour ! voilà les femmes !  
+        La cour ! voilà les femmes !  
 Elles veulent toujours être de grandes dames  
 Et toujours s'élever : ivres d'un vain éclat,  
 Elles ne savent point rester dans leur état.  
@@ -4222,7 +4220,7 @@ C'est vous que je peindrai ; je ne puis choisir mieux :
 Oui, ma femme, vous même.  
 
     LA MOLIERE.
-                Et vous ferez, je gage  
+        Et vous ferez, je gage  
 Une pièce ennuyeuse, un détestable ouvrage.  
 
      MOLIERE.
@@ -4299,7 +4297,7 @@ Je sais que Baron l'aime, et qu'elle aime Baron,
 Et je le lui destine.  
 
      LA MOLIERE.
-            Eh quoi ! ce fanfaron  
+        Eh quoi ! ce fanfaron  
 Qui, fier de son talent, méprise tout le monde ?  
 
     ISABELLE.
@@ -4312,7 +4310,7 @@ Si l'on vous eût offert un Marquis pour époux,
 Auriez-vous, sans regret, renoncé...  
 
      LA MOLIERE.
-                    Taisez vous.  
+        Taisez vous.  
 
      MOLIERE.
 Et pourquoi, s'il vous plaît, la forcer au silence ?  
@@ -4330,13 +4328,13 @@ Votre fille vous aime et ne veut point manquer
 A ce qu'elle vous doit.  
 
     LA MOLIERE.
-            Qu'a-t-elle encore à dire ?  
+        Qu'a-t-elle encore à dire ?  
 
     ISABELLE.
 Madame, j'ai tout dit.  
 
     LA MOLIERE  *(à part).*
-            Je souffre le martyre  
+        Je souffre le martyre  
 (haut à Molière).
 
 Puisque vous la servez de tout votre pouvoir,  
@@ -4351,7 +4349,7 @@ Pour le rôle d'Argan. **Ainsi je vous prévien**
 **Qu'aujourd'hui je renonce à jouer dans le mien.** [471]
 
     MOLIERE.
-            **Ma toux vient par accès** [472],  
+        **Ma toux vient par accès** [472],  
 Ne le savez-vous pas ? elle me laisse en paix  
 Souvent une heure entière, une demi-journée ;  
 Et comme j'ai toussé beaucoup la matinée,  
@@ -4372,10 +4370,10 @@ Je me vais acquitter : on m'a dit la demeure
 Du docteur Mauvilain.  
 
     MOLIERE.
-            Qu'entends-je ?  
+    Qu'entends-je ?  
 
     LA MOLIERE.
-                    Dans une heure  
+        Dans une heure  
 Et peut-être plutôt, vous le verrez ici.  
 
     MOLIERE.
@@ -4389,7 +4387,7 @@ N'est-ce donc pas assez pour moi d'être malade ?
 Vous avez beau railler.  
 
     MOLIERE.
-            Prenez pitié de moi.  
+        Prenez pitié de moi.  
 
     LA MOLIERE.
 Non, non ; un médecin... mais qu'est-ce que je voi ?  
@@ -4408,7 +4406,7 @@ Qu'est-ce, mon cher Baron ? vous paraissez rêveur.
 Ah ! j'ai sujet de l'être.  
 
      MOLIERE.
-            Et quel est le malheur  
+        Et quel est le malheur  
 Qui fait naître chez vous cette mélancolie ?  
 Daignez me l'expliquer ; votre ami vous en prie.  
 
@@ -4416,26 +4414,26 @@ Daignez me l'expliquer ; votre ami vous en prie.
 Vous connaissez Mondorge ?  
 
      MOLIERE.
-                Oui, c'est un comédien  
+        Oui, c'est un comédien  
 Pauvre, à la vérité, mais honnête homme.  
 
     BARON.
-                    Eh bien !  
+        Eh bien !  
 Il est plus que jamais plongé dans la détresse.  
 Je sais qu'aux malheureux votre cœur s'intéresse,  
 Et je viens vous prier...  
 
      MOLIERE, *avec un transport⁎ de sensibilité.*
-            Mon camarade ! ô ciel !  
+        Mon camarade ! ô ciel !  
 Qu'il vienne, qu'il paraisse !  
 
     BARON.
-            Il est essentiel  
+        Il est essentiel  
 Qu'il ne se montre pas. Quand la peine est extrême,  
 On craint d'être importun.  
 
      MOLIERE.
-            Doute-t-il que je l'aime ?  
+        Doute-t-il que je l'aime ?  
 
      BARON.
 Non ; mais si vous voulez être son bienfaiteur...  
@@ -4444,7 +4442,7 @@ Non ; mais si vous voulez être son bienfaiteur...
 Si je le veux ! sur l'heure.  
 
      BARON.
-            Epargnez la pudeur :  
+        Epargnez la pudeur :  
 Dont son front, à vos yeux, se couvrirait peut-être ;  
 D'une rougeur subite il ne serait pas maître...  
 
@@ -4455,28 +4453,28 @@ Eh ! bien, de ses besoins **donnez-moi connaissance** ; [475]
 Qu'est-ce qu'il lui faudrait ?  
 
      BARON.
-            Il fait son tour de France,  
+        Il fait son tour de France,  
 Jouant la comédie à Marseille, à Bordeaux :  
 Il dépense beaucoup en habits, en chevaux :  
 Les voyages sont chers.  
 
      MOLIERE.
-            Très-chers. Quels sont ses rôles ?  
+        Très-chers. Quels sont ses rôles ?  
 
     BARON.
 Ceux de rois. Il pourrait avec quinze pistoles  
 Demain se mettre en route.  
 
      MOLIERE, *lui donnant de l'argent.*
-            Il faut les lui porter.  
+        Il faut les lui porter.  
 De ma part: les voilà.  
 **(lui donnant encore)**. [476]
 
-            Puis, il faut ajouter  
+        Puis, il faut ajouter  
 Ces vingt-cinq de la vôtre.  
 
     ISABELLE, *lui donnant aussi de l'argent.*
-            Et de la mienne douze.  
+        Et de la mienne douze.  
 
      MOLIERE.
 De l'obliger⁎ aussi te voilà donc jalouse ?  
@@ -4504,7 +4502,7 @@ A la vertu modeste ; et je m'en vais soudain⁎
 Remettre en votre nom...  
 
     MOLIERE, *le rappellant après qu'il a fait quelques pas.*
-            Attendez ; j'ai dessein  
+        Attendez ; j'ai dessein  
 De joindre un habit neuf à la modique somme  
 Que va, de notre part, toucher cet honnête homme.  
 Si j'en crois mes soupçons, il n'est pas trop vêtu,  
@@ -4530,13 +4528,13 @@ Il vient de nous montrer ! et combien l'un et l'autre
 Vous m'avez enchanté !  
 
      ISABELLE.
-            Cet éloge est le vôtre :  
+        Cet éloge est le vôtre :  
 O mon père ! c'est vous, vous qui le méritez :  
 Vos exemples, par nous, viennent d'être imités :       
 C'est vous qu'il faut louer.  
 
     MOLIERE.
-            Loin de lui faire un crime  
+        Loin de lui faire un crime  
 De son ardeur pour vous, je l'aime, je l'estime  
 Plus que jamais, ma fille ; et je veux qu'aujourd'hui  
 Un fortuné lien vous unisse avec lui.  
@@ -4567,7 +4565,7 @@ On m'envoie en ces lieux pour savoir si Molière
 Dans sa pièce jouera ?**** [477]  
 
     MOLIERE.
-            Demande singulière !  
+        Demande singulière !  
 **Allez ; point de relâche** [478] et qu'on se tienne prêt.  
 Je vous suis à l'instant.  
 
@@ -4577,14 +4575,14 @@ MOLIERE, ISABELLE.
 
 
     ISABELLE.
-            Quoi ! mon père, en effet  
+        Quoi ! mon père, en effet  
 Vous jouerez aujourd'hui, lorsqu'avec tant de peine  
 Je vous ai vu tantôt⁎ répéter votre scène ?  
 D'une cruelle toux votre organe affecté  
 M'inspire une frayeur...  
 
      MOLIERE.
-            Ma fragile santé  
+        Ma fragile santé  
 Chaque jour, j'en conviens, s'affaiblit davantage ;  
 Mais de l'humanité les maux sont le partage ;  
 Il faut les supporter ; il faut savoir souffrir,  
@@ -4637,7 +4635,7 @@ Ah ! ne m'expose pas à sentir un remords.
 En pouvez-vous connaître ?  
 
     MOLIERE.
-                Obliger⁎ des sa bourse  
+        Obliger⁎ des sa bourse  
 Est un petit mérite ; et l'homme sans ressource  
 A des droits infinis sur les cœurs généreux.  
 Ce n'est pas l'argent seul qui sert les malheureux,  
@@ -4665,12 +4663,12 @@ Encore un embarras !
 *“Vous savez, mon cher Molière, que je travaille depuis long-temps à votre portrait ; l'amitié qui nous unit, et votre grande réputation me faisaient une loi d'y mettre tout le soin dont je suis capable, et cette loi a été ma règle unique : je l'ai achevé, enfin, et si vous voulez m'attendre chez vous aujourd'hui, je vous le ferai porter, afin que vous m'en disiez votre avis.***Ce n'est jamais en vain que je vous ai consulté sur mes ouvrages. Si vous trouvez à redire à celui ci, je le retoucherai et vous prouverai par ma docilité les sentiments respectueux et tendres que vous m'avez toujours inspirés”.**
 (cessant de lire). [481]
 
-            Pour attendre Mignard,  
+        Pour attendre Mignard,  
 Je ne resterai point. Qu'on aille de ma part  
 Le lui faire savoir.  
 
     ISABELLE.
-            Eh quoi ! lorsqu'il desire....  
+        Eh quoi ! lorsqu'il desire....  
 
     MOLIERE.
 Ma fille, vous avez sur moi beaucoup d'empire ;  
@@ -4774,13 +4772,13 @@ Et, quoique médecin, j'ai souvent le bonheur
 De le voir, de l'entendre.  
 
      ISABELLE.
-            Ah ! monsieur le docteur,  
+        Ah ! monsieur le docteur,  
 Qu'à propos vous venez ! Une toux obstinée  
 L'a fait beaucoup souffrir toute la matinée.  
 Il faudrait lui donner quelqu'ordonnance.  
 
      LE DOCTEUR.
-                    Moi !  
+        Moi !  
 Je m'en garderai bien : il rirait trop, ma foi,  
 Si je voulais droguer sa poitrine oppressée.  
 Un semblable projet est loin de ma pensée.  
@@ -4793,10 +4791,10 @@ Que, s'il refuse encor de voir un médecin,
 C'est un homme perdu.  
 
     ISABELLE *à Baron.*
-            Vous l'entendez ?  
+    Vous l'entendez ?  
 
     LE DOCTEUR.
-                    Je tremble  
+        Je tremble  
 Qu'il ne rentre à l'instant et ne nous voie ensemble ;  
 Il croirait que je viens ici pour le guérir.  
 Assurez-le donc bien qu'il s'expose à périr,  
@@ -4825,19 +4823,19 @@ Oui, mon père.
 De quelque grand chagrin.  
 
      BARON.
-            O mon ami ! mon maître !  
+        O mon ami ! mon maître !  
 Pourrais-je m'empêcher de le faire paraître ?  
 Je tremble pour vos jours. Vous savez que d'Argan  
 Le rôle est difficile et sur-tout fatiguant,  
 Et vous vous disposez à le jouer !  
 
      MOLIERE.
-                Sans doute⁎.  
+        Sans doute⁎.  
 Quand on fait son devoir, qu'est-ce que l'on redoute ?  
 Le devoir avant tout.  
 
     BARON.
-            Votre devoir n'est pas  
+        Votre devoir n'est pas  
 D'affronter la douleur, d'insulter au trépas.  
 Par des travaux⁎ nombreux la source de la vie,  
 Se montrant chaque jour en vous plus affaiblie,  
@@ -4867,7 +4865,7 @@ LES PRÉCÉDENS, CHAPELLE.
 Non, non, vous resterez.  
 
      MOLIERE.
-            Oh ! quel nouveau supplice !  
+        Oh ! quel nouveau supplice !  
 
      CHAPELLE.
 Lorsque vous répétiez, caché dans la coulisse,  
@@ -4877,7 +4875,7 @@ Vous ne m'annoncez pas une santé bien forte.
 Vous avez l'air souffrant.  
 
     MOLIERE *avec un commencement de colère.*
-            Morbleu⁎ ! que vous importe ?  
+        Morbleu⁎ ! que vous importe ?  
 Si je souffre, tant mieux. De quoi vous mêlez-vous ?  
 Voulez-, qu'à la fin je me mette en courroux⁎ ?  
 Aisément, pour cela, ma force se ranime.  
@@ -4896,7 +4894,7 @@ Chacun me maudirait ; et vous ne voulez pas
 Qu'ici vous retenant...  
 
      MOLIERE, *lui tendant les bras dans lesquels il se jette.*
-            Eh bien ! entre mes bras  
+        Eh bien ! entre mes bras  
 Jettez-vous, mon ami. Si le ciel l'abandonne,  
 Et s'il meurt aujourd'hui, Molière vous pardonne ;  
 Mais je ne mourrai point. Dissipez votre effroi :  
@@ -4935,7 +4933,7 @@ CHAPELLE, LAFORET.
 Vous avez appellé, je crois.  
 
      CHAPELLE.
-            Certainement.  
+        Certainement.  
 Je viens d'être témoin d'un triste évènement,  
 Molière était malade, et malgré nos instances,  
 Il a voulu jouer.  
@@ -4949,7 +4947,7 @@ Votre crainte est fondée : en ce moment fatal,
 Il est dans un état !...  
 
     LAFORET, *très-alarmée.*
-            Ah ! notre pauvre maître !  
+        Ah ! notre pauvre maître !  
 J'allons le secourir.  
 
      CHAPELLE, *la retenant.*
@@ -4961,7 +4959,7 @@ Et peut avoir besoin de vous dans la maison.
 Et d'où vient son désastre ?  
 
      CHAPELLE.
-            A la fin de la pièce,  
+        A la fin de la pièce,  
 Je l'ai vu pâle et prêt à tomber en faiblesse  
 En prononçant *Juro* : dès-lors il aurait dû  
 De la scène sortir, et laisser suspendu  
@@ -4993,7 +4991,7 @@ Pour vous aimer encor, je me sens ranimé.
 Mais où donc est Chapelle ?  
 (il l'apperçoit).
 
-            Ah ! pardon, ma paupière  
+        Ah ! pardon, ma paupière  
 Ne peut que par dégrés s'ouvrir à la lumière.  
 Pardon, mon cher ami, je ne vous voyais pas....  
 Et ma femme, en ces lieux, n'a point porté ses pas ?  
@@ -5002,7 +5000,7 @@ Et ma femme, en ces lieux, n'a point porté ses pas ?
 Elle n'est point encor rentrée.  
 
      MOLIERE.
-                Ah ! puisse-t-elle  
+        Ah ! puisse-t-elle  
 Ignorer mes tourmens ! Dans l'excès de son zèle⁎  
 Elle m'accablerait de reproches. Je veux  
 Epargner, s'il se peut, des chagrins à tous deux.  
@@ -5040,13 +5038,13 @@ Mon plaisir le plus doux fut de vivre pour elle.
 Dites moi donc comment vous vous portez.  
 
      LE DOCTEUR.
-                    Fort bien.  
+        Fort bien.  
 
     MOLIERE.
 Vos enfans, votre femme ?  
 
     LE DOCTEUR.
-            A merveille : je vien...  
+        A merveille : je vien...  
 **(Le médecin, pendant cette scène, cherche toujours à tâter le poulx de Molière, et Molière l'esquive toujours.)** [489]
 
 
@@ -5055,7 +5053,7 @@ Vous aviez un procès de grande conséquence.
 Quand le jugera-t-on ?  
 
     LE DOCTEUR.
-            La prochaine séance.  
+        La prochaine séance.  
 Il faudrait...  
 
      MOLIERE, *(l'interrompant).* [491]
@@ -5084,23 +5082,23 @@ Raillez-moi donc ; et moi, je viens pour vous guérir.
 Son zèle⁎ doit vous plaire.  
 
      MOLIERE *à Isabelle.*
-            Oui, j'aime sa franchise.  
+        Oui, j'aime sa franchise.  
 (au docteur).
 
 Me guérir ! et comment ?  
 
     LE DOCTEUR.
-            Il faudrait, sans remise,  
+        Il faudrait, sans remise,  
 Vous saigner, vous purger.  
 
      MOLIERE *souriant.*
-                *Saignaré, purgaré.*  
+        *Saignaré, purgaré.*  
 
     LE DOCTEUR.
 Prendre au moins un remède.  
 
      MOLIERE.
-                *Et clistérisaré.*  
+        *Et clistérisaré.*  
 A merveille, docteur ! l'ordonnance est hardie.  
 Est-ce que nous jouons encor la comédie ?  
 Et faites-vous ici le rôle de Purgon ?  
@@ -5142,7 +5140,7 @@ Aller vous renfermer dans votre appartement,
 Et là...  
 
      MOLIERE.
-C'est bien parler ; et pour le coup je pense  
+        C'est bien parler ; et pour le coup je pense  
 Qu'enfin il vous échappe une bonne ordonnance.  
 Conduisez-moi, ma fille ; et vous, mon cher Baron,  
 Restez pour recevoir ma femme : il serait bon       
@@ -5185,7 +5183,7 @@ Monsieur de Montausier, inquiet sur Molière,
 Vient ici pour le voir.  
 
      BARON.
-            Monsieur de Montausier !  
+        Monsieur de Montausier !  
 Qu'il sera doux pour moi de le remercier !  
 **C'est un républicain** [496] ; **lorsqu'il vient au théâtre**,  
 C'est pour les vieux romains, dont il est idolâtre ;  
@@ -5225,13 +5223,13 @@ Qu'ici je resterai jusqu'à ce qu'on m'ait dit
 S'il est mieux ou plus mal.  
 
     BARON.
-            Vous en serez instruit  
+        Vous en serez instruit  
 Incessamment, je pense, et de la même crainte  
 Si je ne sentais point aussi mon ame atteinte,  
 J'irais...  
 
     MONTAUSIER.
-Non, demeurez : respectons les douleurs  
+        Non, demeurez : respectons les douleurs  
 Du malheureux qui souffre, et cachons-lui nos pleurs.  
 
     BARON.
@@ -5249,7 +5247,7 @@ LES PRÉCÉDENS, PIRLON.
 Comment se porte-t-il ?  
 
     BARON.
-            C'est vous, Monsieur Pirlon !  
+        C'est vous, Monsieur Pirlon !  
 Ciel ! Et que venez-vous faire en cette maison ?  
 
     PIRLON.
@@ -5263,7 +5261,7 @@ Et je viens pour savoir comment va le cher homme.
 Assez mal.  
 
     PIRLON.
-Ah ! tant pis⁎ ! Ses talens qu'on renomme,  
+        Ah ! tant pis⁎ ! Ses talens qu'on renomme,  
 Et qu'admire sans cesse un monde peu chrétien,  
 Ont pu scandaliser, pourtant, les gens de bien :  
 Molière a, je l'avoue, un talent agréable,  
@@ -5276,10 +5274,10 @@ Quel est cet insensé, qui raisonne si mal !
 C'est Tartuffe.  
 
     MONTAUSIER.
-        Tartuffe !  
+    Tartuffe !  
 
     BARON. 
-            En propre original.  
+        En propre original.  
 
     MONTAUSIER.
 Laissez-moi lui parler : laissez-moi le confondre.  
@@ -5301,7 +5299,7 @@ Et l'on sait que je hais surtout l'hypocrisie.
 Mon nom est Montausier.  
 
     PIRLON *s'inclinant.*
-            Monsieur le duc, eh quoi !  
+        Monsieur le duc, eh quoi !  
 Un homme tel que vous, en faveur près du roi,  
 Vient chez un comédien, dont l'indiscrète audace  
 Mériterait...  
@@ -5333,7 +5331,7 @@ Dans mes discours, monsieur, je ne mets point de fiel.
 Je le vois.  
 
     PIRLON.
-    Mais je dois dénoncer un coupable.  
+        Mais je dois dénoncer un coupable.  
 On fait aimer le vice, en le rendant aimable ;  
 Et Molière, partout, le couronne de fleurs.  
 
@@ -5443,12 +5441,12 @@ Espérez tout de l'art, dont les heureux secours...
 Je n'espère plus rien.  
 
     BARON.
-            O ma chère Isabelle !  
+        O ma chère Isabelle !  
 Chassez de votre cœur cette crainte mortelle,  
 Et souffrez que nos soins...  
 
     ISABELLE.
-            Ciel ne m'épargnez pas,  
+        Ciel ne m'épargnez pas,  
 Si mon père, en ce jour, doit subir le trépas,  
 Et terminez aussi ma trop longue carrière !  
 
@@ -5475,7 +5473,7 @@ Je puis encor le voir !... De grace laissez-moi
 Seule avec ce portrait.  
 
      CHAPELLE.
-            Son ordre est une loi !  
+        Son ordre est une loi !  
 Sortons ; ne troublons pas sa douleur davantage.  
 L'infortune est sacrée.  
 
@@ -5483,7 +5481,7 @@ L'infortune est sacrée.
 ### SCENE XI. 1802
 
     ISABELLE, *seule, parlant au portrait.*
-            O respectable image !  
+        O respectable image !  
 Toi qui m'offres les traits du père le plus cher,  
 Mes larmes devant toi peuvent donc s'épancher !  
 Le sort va me ravir ce père que j'adore :  
@@ -5591,7 +5589,7 @@ Et pour la célébrer vous vous joindrez à moi.
 Vous pouvez y compter.  
 
     BARON.
-            Tout nous en fait la loi.  
+        Tout nous en fait la loi.  
 
     CHAPELLE.
 Pour rendre à sa mémoire un solemnel hommage,  
@@ -5640,7 +5638,7 @@ Nous unir, nous bénir, nous donner des leçons…
 C'est nous en dire assez, je vous entends.  
 
     CHAPELLE.
-                    Passons.  
+        Passons.  
 (à Baron,)
 
 Vous brûlez d'épouser la fille de Molière  
@@ -5650,7 +5648,7 @@ Vous l'aurez : il m'a dit à son heure dernière…
 Ah ! je perds tout espoir.  
 
     CHAPELLE.
-            Tout espoir ! arrêtez ;  
+        Tout espoir ! arrêtez ;  
 Ses moindres vœux, par moi, seront exécutés,  
 De votre destinée il m'a rendu l'arbitre :  
 Mais à son amitié Mignard eut plus d'un titre,  
@@ -5666,7 +5664,7 @@ Moi, je viens, mes amis, le pleurer avec vous.
 Molière ne vit plus !...  
 
     CHAPELLE.
-            Vous l'avez fait revivre :  
+        Vous l'avez fait revivre :  
 C'est à tort que votre ame à la douleur se livre.  
 Je l'ai vu, ce portrait, ce chef-d'œuvre nouveau  
 Qu'a tracé de Mignard le sublime pinceau.  
@@ -5703,7 +5701,7 @@ Sur le marbre il rendit tous les traits de Molière,
 Couronnons ce marbre.  
 
     MIGNARD.
-            Oui, mais de monsieur Pirlon  
+        Oui, mais de monsieur Pirlon  
 Qui le vengera ?  
 (Une toile se lève et laisse voir tout le Parnasse assemblé ; les Muses y sont rangées pittoresquement [516]avec leurs attributs ; Apollon est au milieu auprès du buste de Molière, élevé sur une colonne.)
 
@@ -5794,7 +5792,7 @@ Aurez-vous la bonté de chanter celui-ci ?
 Avec bien du plaisir.  
 
     CHAPELLE.
-            Je vais chanter aussi.  
+        Je vais chanter aussi.  
 Molière, à l'amitié fidèle,  
 Toujours en sentit le pouvoir ;  
 C'était peu : martyr de son zèle⁎,  

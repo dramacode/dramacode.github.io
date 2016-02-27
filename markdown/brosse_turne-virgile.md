@@ -1,5 +1,5 @@
 ---
-identifier: brosse_turne  
+identifier: brosse_turne-virgile  
 creator: Brosse  
 date: 1647  
 title: Le Turne de Virgile. Tragédie.  
@@ -395,24 +395,7 @@ Nous avons conservé la ponctuation originale, sauf quand un changement s'imposa
 # LE TURNE DE VIRGILE. TRAGEDIE.
 
 
-## EPISTRE [61]
-
-
-## A
-
-
-## TRES-HAUT
-
-
-## ET
-
-
-## TRES-PUISSANT
-
-
-## SEIGNEUR
-
-MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.
+## EPISTRE [61] A TRES-HAUT ET TRES-PUISSANT SEIGNEUR *MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.*
 
 MONSEIGNEUR,
 
@@ -447,9 +430,6 @@ La Scene est à Lavinium, ville du Latium, contrée d'Italie, maintenant appell�
 
 
 ## ACTE I.
-
-
-## **LE TURNE TRAGEDIE**
 
 
 ### SCENE PREMIERE.
@@ -705,11 +685,11 @@ LAVINIE, TURNE, AMATA, JUTURNE.
 Arrestez.  
 
     TURNE, *bas.*
-Si j'arreste, il faut que je me rende.  
+        Si j'arreste, il faut que je me rende.  
 Poursuivons.  
 
     LAVINIE
-Arrestez, c'est moy qui le commande.  
+        Arrestez, c'est moy qui le commande.  
 
     TURNE
 Je demeure immobile à ce commandement,  
@@ -719,7 +699,7 @@ Qu'un homme a peu de force alors qu'il est Amant.
 Escoutez moy parler.  
 
     TURNE
-Parlez, je vous écoute,  
+        Parlez, je vous écoute,  
 Vostre bouche et vos yeux n'ont rien que je redoute,  
 De quelque sentiment que je sois combatu,  
 Vous pouvez vaincre Turne, et non pas sa vertu⁎.  
@@ -760,7 +740,7 @@ Je ne le verray plus que d'un œil rigoureux⁎.
 Quoy vous me hayerez !  
 
     LAVINIE
-Je feray pis encore,  
+        Je feray pis encore,  
 Je cederay⁎ mon cœur⁎ au Troyen qui m'adore.  
 
     TURNE
@@ -771,7 +751,7 @@ Que la mer irritee a vomy sur la terre,
 Ha changez de discours.  
 
     LAVINIE
-Vous, changez de dessein.  
+        Vous, changez de dessein.  
 
     TURNE
 Mais le Roy veut qu'Ænée expire de ma main [118],  
@@ -845,7 +825,7 @@ Vous fait icy commettre un acte qui me blesse ?
 Que je suis interdit⁎.  
 
     LATINUS.
-Au point [124] qu'on nous doit voir  
+        Au point [124] qu'on nous doit voir  
 Détruire d'un rival, l'orgueil et le pouvoir,  
 Lors que pour reprimer son insolente envie⁎  
 Le temps presse de faire un appel de sa vie,  
@@ -870,14 +850,14 @@ Et je vay de ce pas, en dresser le Cartel⁎.
 Songez bien…  
 
     TURNE
-Si je doy perir dedans l'orage,  
+        Si je doy perir dedans l'orage,  
 Je heurteray du moins, l'ecueil de mon naufrage.  
 
     JUTURNE
 O l'insensible frere,  
 
     LAVINIE
-O l'infidelle Amant,  
+        O l'infidelle Amant,  
 
     AMATA
 Ne l'abandonnons pas dans son aveuglement,  
@@ -963,13 +943,13 @@ SIDON, LAVINIE, JUTURNE
 
 
     SIDON
-Une belle nouvelle.  
+        Une belle nouvelle.  
 
     LAVINIE
 Comment donc ?  
 
     SIDON
-Les Troyens, soit par crainte ou par zele  
+        Les Troyens, soit par crainte ou par zele  
 S'opposent au dessein, de leur chef genereux⁎  
 Qui veut combatre seul, pour la gloire et pour eux,  
 Il leur oppose en vain le pouvoir que luy donne  
@@ -1161,7 +1141,7 @@ Car je vay triompher puisque je vay combattre.
 Helas.  
 
     TURNE.
-Ha ! ce soûpir est indigne de vous,  
+        Ha ! ce soûpir est indigne de vous,  
 Je m'en tiens offencé, je le dis entre nous,  
 Prest de vous conquerir par une belle voye,  
 Une injuste douleur estouffe vostre joye.  
@@ -1170,14 +1150,14 @@ Une injuste douleur estouffe vostre joye.
 Je crains.  
 
     TURNE.
-Que craignez vous ?  
+    Que craignez vous ?  
 
     LAVINIE.
-Ce qui peut arriver  
+        Ce qui peut arriver  
 Un mal-heur.  
 
     TURNE.
-Ma vertu⁎ m'en sçaura préserver.  
+        Ma vertu⁎ m'en sçaura préserver.  
 
     LAVINIE.
 Prince si vous m'aymez autant que vous le dites.  
@@ -1318,10 +1298,10 @@ Et calmer tant de bruits par un coup de Tonnerre,
 Allez donc.  
 
     ACATE.
-Mais Seigneur…  
+    Mais Seigneur…  
 
     ÆNEE.
-Allez sans repartir  
+        Allez sans repartir  
 Et si Turne paraist, venez m'en avertir.  
 
 
@@ -1585,13 +1565,13 @@ Je vous feray vomir vostre sang et vostre Ame⁎.
 Assistez moy grands Dieux [190].  
 
     TURNE.
-Mon bras assiste moy.  
+        Mon bras assiste moy.  
 
     ÆNEE.
 Je n'implore que vous.  
 
     TURNE.
-Je n'implore que toy.  
+        Je n'implore que toy.  
 
 
 ### SCENE V
@@ -1616,10 +1596,10 @@ Mars ne parust jamais avecque plus de pompe,
 Il faut que ce soit luy,  
 
     LATINUS.
-Je le pense.  
+    Je le pense.  
 
     JUTURNE.
-Escoutez.  
+        Escoutez.  
 L'organe [192] du Destin⁎ et des Dieux irritez.  
 
     ÆNEE.
@@ -2023,7 +2003,7 @@ AMATA, LAVINIE, TYRENE.
 Ænée est genereux⁎.  
 
     AMATA.
-O Ciel peut il bien estre !  
+        O Ciel peut il bien estre !  
 
     LAVINIE.
 Mes yeux est ce le Roy que vous voyez paraistre.  
@@ -2126,7 +2106,7 @@ C'en est fait, elle m'est ravie :
 Mon frere en me vangeant triomphez de la mort,  
 Ou du moins en mourant, triomphez de la vie.  
 Juturne vostre sœur.  
-En cet évenement,  
+        En cet évenement,  
 Ma tristesse est esgale à mon estonnement⁎,  
 Mon ame⁎ en ce rencontre [228] en cent parts divisee,  
 Voit comme ma raison ma constance espuisee,  
@@ -2157,7 +2137,7 @@ Chocquer⁎ la liberté d'un frere et d'un Amant.
 Turne souvenez vous…  
 
     TURNE.
-Que ma sœur me demande  
+        Que ma sœur me demande  
 Que pour vanger son sang, tout le mien je repande.  
 Sus donc n'en parlons plus, cedons⁎ à mon transport⁎  
 Puisqu'elle m'y convie,  
@@ -2188,7 +2168,7 @@ Termine ou pour le moins precipite nos jours ;
 Ha ! Que plustost cent fois….  
 
     AMATA.
-Obeis sans replicque,  
+        Obeis sans replicque,  
 On tait malaysement l'infortune publicque.  
 
     SIDON.
@@ -2216,7 +2196,7 @@ Que sert ce long discours, enfin Turne succombe,
 Dy viste,  
 
     SIDON.
-En reculant, le Ciel permet qu'il tombe  
+        En reculant, le Ciel permet qu'il tombe  
 Et dans le mesme instant que le pied luy defaut,  
 Son Rival dessus luy se jette d'un plein saut.  
 
@@ -2224,7 +2204,7 @@ Son Rival dessus luy se jette d'un plein saut.
 N'acheve pas.  
 
     AMATA.
-Non, non, par ce raport funeste⁎,  
+        Non, non, par ce raport funeste⁎,  
 Esteins si tu le peux la clarté qui me reste.  
 
     SIDON.
@@ -2286,7 +2266,7 @@ Je croy qu'ils se rendront dans peu de temps icy.
 Est-il possible ?  
 
     SIDON.
-Au moins chacun le pense ainsi.  
+        Au moins chacun le pense ainsi.  
 
     AMATA.
 Apres tant de mal-heurs, laisse nous sans contrainte  
@@ -2414,13 +2394,13 @@ Quel Empire aujourd'huy prenez vous dessus moy ?
 Tel qu'ordonne le Ciel,  
 
     AMATA.
-Tel qu'inspire la crainte.  
+        Tel qu'inspire la crainte.  
 
     LATINUS.
 Tel que veut mon honneur.  
 
     AMATA.
-Tel que deffend ma plainte,  
+        Tel que deffend ma plainte,  
 Tel que ne peut souffrir⁎ ma vertu⁎ ny mon rang,  
 Et que ne souffrira⁎ personne de mon sang⁎.  
 Lavinie eslevez et vos yeux et vostre Ame⁎,  
@@ -2551,7 +2531,7 @@ SIre, Turne demande une faveur de vous.
 Quelle est-elle Sidon ?  
 
     SIDON.
-D'embrasser vos genoux  
+        D'embrasser vos genoux  
 Et de rendre en ce lieu, dans les bras de Madame  
 Ses devoirs et son sang, ses soûpirs et son Ame⁎.  
 
@@ -2596,7 +2576,7 @@ Attendez pour tomber que je sois abattuë,
 Soyez ferme tousjours.  
 
     ÆNEE.
-Helas ! si sa pitié  
+        Helas ! si sa pitié  
 Doit attendre la fin de vostre inimitié,  
 Je puis bien me resoudre à vivre dans le monde  
 Sans espoir que sa flame⁎ à la mienne responde.  
@@ -2656,14 +2636,14 @@ Ne me refusez pas cette faveur derniere.
 Quoy je pourrois aymer….  
 
     TURNE.
-Vous n'avez qu'à vouloir,  
+        Vous n'avez qu'à vouloir,  
 Et vostre volonté fera vostre pouvoir.  
 
     AMATA.
 Pensez-vous qu'elle vueille…  
 
     TURNE.
-Un genereux⁎ courage⁎  
+        Un genereux⁎ courage⁎  
 Se determine à tout où son devoir l'engage.  
 
     LAVINIE.
@@ -2680,10 +2660,10 @@ Il faut garder les loix et l'ordre du combat.
 Mais….  
 
     TURNE.
-O mais importun,  
+    O mais importun,  
 
     LAVINIE.
-Voulez vous que j'oublie,  
+        Voulez vous que j'oublie,  
 La mort qui nous separe et l'amour qui nous lie ?  
 
     TURNE.
@@ -2720,7 +2700,7 @@ C'est un commandement qui tend à l'impossible.
 Pourquoy ?  
 
     LAVINIE.
-Turne qui vit, encore dans mon cœur⁎  
+        Turne qui vit, encore dans mon cœur⁎  
 Le rend inaccessible à ce cruel vainqueur.  
 
     ÆNEE.

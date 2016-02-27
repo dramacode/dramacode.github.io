@@ -30,7 +30,7 @@ Le sujet de cette Tragedie est assez fameux pour n'estre pas ignoré de ceux qui
 Je m'asseure que l'on m'accusera d'avoir icy chocqué les loix fondamentales du Poëme Dramatique en ce que j'ajouste à la mort d'Achille, qui est mon objet, la dispute de ses armes, & la mort d'Ajax, qui semble estre une piece detachée, mais je m'imagine que mon action n'en est pas moins une, & que cette dispute & cette mort qui pourroit ailleurs tenir lieu d'une principale action ne doit estre icy considerée qu'en qualité d'Episode & d'incident, veu qu'elle regarde principalement Achille, & qu'elle n'est pas le veritable but de ma Tragedie, bien que ce soit par où elle finit, s'il falloit tousjours finir par la mort du premier Acteur, le Theatre se verroit souvent despoüillé de ses plus beaux ornemens, la mort de Cesar ne seroit pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effect ; & qui pousse si avant dans les coeurs la compassion, le regret, & le desir de vengeance, quand Ajax se tuë du desespoir d'estre frustré des armes d'Achille, il ne donne pas tant une marque de sa generosité qu'il laisse un tesmoignage du merite de ce qu'il recherchoit, & par consequent cét acte ne tend qu'à l'honneur de mon Herôs.
 En tout cas si j'ay failly pardonne moy, & puis qu'il ne m'est pas permis d'esperer une juste loüange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.
 
-**** *book_ *id_body-2-1 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-201 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Je ne sçay, mon cher coeur, ce qui doit m'arriver,
@@ -124,7 +124,7 @@ Mes jours sont à toy seule, & je t'en rendray conte.
 Mais que veut Alcimede ? un homme si discret
 N'interrompt pas pour peu nostre entretien secret.
 
-**** *book_ *id_body-2-2 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-202 *act_ *date_1636 *creator_benserade
 
 -*who_alcimede
 Le souverain de Troye, & des femmes dolentes
@@ -186,7 +186,7 @@ De l'avoir eu vivant, & de l'acheter mort.
 Les voicy, ce vieux Roy monstre plus que personne
 Que tousjours le bon-heur n'est pas sous la couronne.
 
-**** *book_ *id_body-2-3 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-203 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Certes mes ennemis sont trop officieux,
@@ -209,13 +209,13 @@ Ny de ces vains honneurs, brave sang de Thetis.
 Que me demandez-vous ?
 
 -*who_priam
-Nous demandons mon fils,
+      Nous demandons mon fils,
 Par nos cris, par nos pleurs, par l'ennuy qui nous presse,
 Par une langoureuse, & trop longue vieillesse,
 Par vos mains que je baise.
 
 -*who_achille
-O Dieux, que faictes-vous !
+      O Dieux, que faictes-vous !
 Des Reynes, & des Roys embrasser mes genoux !
 
 -*who_priam
@@ -229,7 +229,7 @@ Je ne souffriray point que vous vous abaissiez.
 Nous sommes comme il faut.
 
 -*who_achille
-Levez vous, & priez.
+      Levez vous, & priez.
 
 -*who_briseide
 Tenir pour un fils mort cette lasche posture !
@@ -327,7 +327,7 @@ Ils ne l'auront jamais, j'y suis trop resolu.
 Dequoy murmurez-vous ?
 
 -*who_achille
-Vostre infortune est grande,
+      Vostre infortune est grande,
 Et je m'accorderois à ce qu'elle demande.
 Mais quoy ? je ne vous puis livrer ce bien fatal
 Sans la permission de nostre General.
@@ -365,7 +365,7 @@ Ait un sepulchre ailleurs qu'au sein de ses parens,
 Helas voyez mes pleurs !
 
 -*who_achille
-Je me rends, & le rends ;
+      Je me rends, & le rends ;
 Vos larmes ont esteint ma vengeance enflammee,
 Ce que n'auroit pas fait le pouvoir d'une armée,
 “ Une simple douceur calme nos passions,
@@ -417,7 +417,7 @@ Et je ne marche plus qu'à regret au combat.
 Vos affaires vont mal.
 
 -*who_priam
-En l'estat où nous sommes,
+      En l'estat où nous sommes,
 Nous n'avons du secours ny des Dieux, ny des hommes.
 Nous avons sous les maux mille fois succombé :
 Le superbe Ilion seroit desjà tombé,
@@ -430,7 +430,7 @@ Dignes freres d'Hector, sont l'appuy de ma ville :
 C'est où j'en suis reduit.
 
 -*who_achille
-Entrons. Pour vos presens,
+      Entrons. Pour vos presens,
 Avec le corps d'Hector de bon coeur je les rens,
 Il faut nous visiter tant que la tresve dure,
 Vous serez plus heureux, Achille vous le jure.
@@ -439,10 +439,10 @@ Vous serez plus heureux, Achille vous le jure.
 O genereux Guerrier !
 
 -*who_briseide
-Ce nouveau changement
+      Ce nouveau changement
 Me donne de la crainte, & de l'estonnement.
 
-**** *book_ *id_body-3-1 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-301 *act_ *date_1636 *creator_benserade
 
 -*who_priam
 Mais est-il bien possible, & le devons-nous croire,
@@ -514,7 +514,7 @@ Plus belle occasion ne monstra ses cheveux.
 Le voicy, cet oeil doux, & ce front peu severe
 Ne s'accordent point mal à ce que j'en espere.
 
-**** *book_ *id_body-3-2 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-302 *act_ *date_1636 *creator_benserade
 
 -*who_priam
 Nous venons de pleurer sur les cendres d'Hector,
@@ -565,7 +565,7 @@ Et je soulagerois les maux que vous avez,
 Pourveu que je le peusse.
 
 -*who_achille
-Helas ! vous le pouvez.
+      Helas ! vous le pouvez.
 Que vostre Majesté m'accorde une requeste,
 Je vous offre mon bras, je vous offre ma teste,
 Si vostre courroux veut, ou ne veut s'assouvir,
@@ -586,7 +586,7 @@ Achille estant Troyen ne demordra jamais.
 Vous nous le promettez ?
 
 -*who_achille
-Ha ! je vous le promets.
+      Ha ! je vous le promets.
 
 -*who_priam
 Demandez hardiment, asseuré que ma vie,
@@ -670,7 +670,7 @@ Ne depend seulement que du respos de Troye,
 Et qu'il faut pour son bien qu'Achille desormais
 Change une courte tresve en une longue paix.
 
-**** *book_ *id_body-3-3 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-303 *act_ *date_1636 *creator_benserade
 
 -*who_alcimede
 Où va ce pauvre aveugle ? il court au precipice,
@@ -706,7 +706,7 @@ C'est la voix d'Alcimède, & la voix de la Grece !
 Je le desgageray de ces foibles appas,
 Et luy remonstreray mesme en ne parlant pas.
 
-**** *book_ *id_body-3-4 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-304 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Non, Madame, achevez mon destin miserable,
@@ -743,7 +743,7 @@ Je peche contre vous sans remors, & sans blasme.
 Mais quel est ce peché ?
 
 -*who_achille
-Je vous ayme, Madame,
+      Je vous ayme, Madame,
 C'est ma temerité, ma gloire, mon forfait,
 Et voilà ce que j'ose apres ce que j'ay fait :
 Mon coeur s'ose flatter de l'espoir de vous plaire,
@@ -781,14 +781,14 @@ Pour voir mon coeur bruslé, vous l'allez voir sanglant,
 Ce fer.
 
 -*who_polixene
-Je vous veux croire, hé bien Achille m'ayme,
+      Je vous veux croire, hé bien Achille m'ayme,
 Il me veut quelque bien, j'en fais aussi de mesme.
 
 -*who_achille
 Vous m'aymez ?
 
 -*who_polixene
-Il est vray, je vous le dis encor,
+      Il est vray, je vous le dis encor,
 Comme je puis aymer l'homicide d'Hector.
 
 -*who_achille
@@ -873,7 +873,7 @@ Sur cette belle main la moitié de mon ame.
 Voyons leurs Majestés devant que mon conseil
 Applique sur vos maux un premier appareil.
 
-**** *book_ *id_body-4-1 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-401 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Non, je n'en feray rien, vous perdez vôtre peine,
@@ -955,7 +955,7 @@ Qui nous doive empescher d'y jetter de la flame ?
 Que pretendez-vous donc ?
 
 -*who_achille
-Je veux que ces ingras
+      Je veux que ces ingras
 Usent de mon conseil comme ils font de mon bras.
 
 -*who_ulisse
@@ -1011,7 +1011,7 @@ Plutost je tombe vif dans l'Erebe effroyable,
 Plutost.
 
 -*who_ajax
-Allons, Ulysse, il est inexorable,
+      Allons, Ulysse, il est inexorable,
 Ce mouvement cruël en luy n'est pas nouveau,
 Il verroit tout en feu qu'il plaindroit un peu d'eau ;
 Allons où la valeur esclate, & se renomme,
@@ -1021,7 +1021,7 @@ Et ne perdons pas tout pour gaigner un seul homme.
 “ Achille, un ennemy ne se doit frequenter,
 “ C'est gloire de le perdre, & non de le hanter.
 
-**** *book_ *id_body-4-2 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-402 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Comment, on me soupçonne ? on me fait cette injure ?
@@ -1072,7 +1072,7 @@ J'ay peur que l'inconstance ait terny vostre gloire.
 Vous m'accusez à tort.
 
 -*who_briseide
-Hé bien je le veux croire
+      Hé bien je le veux croire
 Que tousjours sur vostre ame un mesme amour agit,
 “ Mais on peut accuser l'innocent qui rougit.
 Briseide en beauté le cede à Polixene,
@@ -1126,7 +1126,7 @@ Mais c'est vous captiver d'une chaine doree.
 Adieu, ne pensez plus que l'on vous fasse tort,
 Et ne regardez point plus haut que vostre sort.
 
-**** *book_ *id_body-4-3 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-403 *act_ *date_1636 *creator_benserade
 
 -*who_briseide
 Taisons-nous, il le faut, & mon maistre l'ordonne,
@@ -1154,7 +1154,7 @@ Et je me veux haïr pour montrer que je l'aime,
 S'il faut souffrir sa mort, son change ou mon trépas,
 Qu'il vive, que je meure, & qu'il ne m'ayme pas.
 
-**** *book_ *id_body-4-4 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-404 *act_ *date_1636 *creator_benserade
 
 -*who_hecube
 Mon Dieu ! qu'il est parfaict, qu'il est remply de charmes,
@@ -1226,14 +1226,14 @@ Vient couvert de sueur, de poussiere, & de sang.
 De quelque horreur que soit la bataille comblée,
 Il se démelle bien tousjours de la meslée.
 
-**** *book_ *id_body-4-5 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-405 *act_ *date_1636 *creator_benserade
 
 -*who_hecube
 Sommes-nous les vaincus, ou les victorieux ?
 Comment va le combat ?
 
 -*who_paris
-Tout va bien grace aux Dieux,
+      Tout va bien grace aux Dieux,
 L'armee est en deroutte, elle a pris l'espouvante,
 La bataille nous est glorieuse, & sanglante.
 
@@ -1260,7 +1260,7 @@ Nous triomphons pourtant, & le champ nous demeure.
 Et vos freres, Pâris ?
 
 -*who_paris
-Ils combattent sur l'heure,
+      Ils combattent sur l'heure,
 Mille escadrons vaincus rendent l'ame à leurs pieds,
 Pour moy j'en suis sorty comme vous me voyez,
 Je ne compare point mes faits à ceux d'Alcide,
@@ -1274,7 +1274,7 @@ Qu'à suplier les Dieux qu'ils ne nous ostent rien.
 Mais mon frere, Troile ?
 
 -*who_paris
-Il est comme une foudre,
+      Il est comme une foudre,
 Qui brise, qui sacage, & qui met tout en poudre,
 Ses regards menaçans sont des éclairs d'horreur,
 Et son front est un ciel ou tonne la terreur,
@@ -1301,7 +1301,7 @@ Achille n'est pas homme à souffrir un outrage.
 Où va-t'il s'engager ?
 
 -*who_hecube
-Quel accident voilà,
+      Quel accident voilà,
 Dieux ! mais pourquoy le craindre ? ils n'en viendront pas là,
 En faveur de l'objet du feu qui le consomme,
 Achille excusera cette ardeur de jeune homme.
@@ -1322,7 +1322,7 @@ Et que nous puissions voir nostre cher ennemy.
 Courez, tandis qu'au temple avec un sacrifice
 Nous allons à nos voeux rendre le Ciel propice.
 
-**** *book_ *id_body-4-6 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-406 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Ha c'est trop, Alcimede, à ma gloire estre lent,
@@ -1336,13 +1336,13 @@ Il finira ma honte, & le soupçon des Grecs.
 Mais Polixene ?
 
 -*who_achille
-ô Dieux !
+      ô Dieux !
 
 -*who_alcimede
-Vous l'aimez ?
+      Vous l'aimez ?
 
 -*who_achille
-Je l'adore.
+      Je l'adore.
 
 -*who_alcimede
 N'allez point au combat, si vous l'aymez encore,
@@ -1361,7 +1361,7 @@ Mais en me deffendant je le veux surmonter.
 Allons, je vay gagner une telle victoire
 Que mesme les vaincus auront part à ma gloire.
 
-**** *book_ *id_body-5-1 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-501 *act_ *date_1636 *creator_benserade
 
 -*who_hecube
 O Dieux ! Severes Dieux, contre nous mutinez,
@@ -1537,7 +1537,7 @@ On me r'aporte mort, ou je reviens vainqueur.
 -*who_hecube
 Ha ! si vous le pouvez apportez moy son coeur.
 
-**** *book_ *id_body-5-2 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-502 *act_ *date_1636 *creator_benserade
 
 -*who_ulisse
 Ouy sans doute il persiste en ses flames impures,
@@ -1593,7 +1593,7 @@ Je verray de la ville, & le foible & le fort,
 Tu pourras découvrir tout ce qu'Achille brasse,
 Et nous recognoistrons, toy son coeur, moy sa place.
 
-**** *book_ *id_body-5-3 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-503 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Mais je suis innocent puisque j'ay combatu
@@ -1604,7 +1604,7 @@ Ce naufrage dernier les approche du port,
 Je travaille à leur paix,
 
 -*who_alcimede
-Ouy, mais Troile est mort.
+      Ouy, mais Troile est mort.
 
 -*who_achille
 Sa temerité seule est cause qu'il succombe,
@@ -1690,7 +1690,7 @@ Tant de lasches discours sont vains & superflus.
 -*who_alcimede
 Perissons, j'y consens, & je n'en parle plus.
 
-**** *book_ *id_body-5-4 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-504 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Crains-tu quelque ennemy quand ton oeil me contemple ?
@@ -1699,7 +1699,7 @@ Crains-tu quelque ennemy quand ton oeil me contemple ?
 Nos gens ne sont pas loin ?
 
 -*who_deiphobe
-A la porte du Temple.
+      A la porte du Temple.
 
 -*who_achille
 Mars n'oseroit tonner sur moy, ny sur les miens.
@@ -1708,13 +1708,13 @@ Mars n'oseroit tonner sur moy, ny sur les miens.
 Mais vous estes mortel.
 
 -*who_paris
-Le voicy, je te tiens.
+      Le voicy, je te tiens.
 
 -*who_alcimede
 Vostre danger est grand.
 
 -*who_achille
-“ Qui dans son entreprise
+      “ Qui dans son entreprise
 “ Voit tousjours le danger à la fin le mesprise :
 Mais je n'ay pas sujet de craindre en ce lieu-cy,
 Je ne me vis jamais plus seurement qu'icy,
@@ -1724,7 +1724,7 @@ Je goute le repos des plus lasches humains,
 Loin des coups, dans un Temple.
 
 -*who_alcimede
-Et c'est pourquoy je crains.
+      Et c'est pourquoy je crains.
 
 -*who_paris
 Je sçay l'endroit fatal où je dois faire breche,
@@ -1738,7 +1738,7 @@ Qui viendroit m'attaquer ? mais Dieux ! je suis blessé.
 A nous, Troyens, à nous.
 
 -*who_alcimede
-Assassins execrables !
+      Assassins execrables !
 
 -*who_achille
 Je vengeray ma mort, infames, detestables,
@@ -1762,13 +1762,13 @@ Je souffre ce trespas, dy moy qui me l'envoye,
 Et qui l'a conspiré ?
 
 -*who_paris
-Moy, Polixene, & Troye.
+      Moy, Polixene, & Troye.
 
 -*who_alcimede
 Pour vous faire éviter ce funeste accident,
 Alcimede vivoit, il meurt vous deffendant.
 
-**** *book_ *id_body-5-5 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-505 *act_ *date_1636 *creator_benserade
 
 -*who_achille
 Sçachez, vous qui tremblez aux actions hardies,
@@ -1784,7 +1784,7 @@ Si je l'eusse frappee elle eust esté ma proye,
 J'eusse à mes volontez asservy son destin,
 Et qui m'a fait esclave eust esté mon butin.
 
-**** *book_ *id_body-5-6 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-506 *act_ *date_1636 *creator_benserade
 
 -*who_ajax
 Entrons effrontément, c'est trop de patience,
@@ -1795,7 +1795,7 @@ Nous sommes ruinez s'il fait tout ce qu'il peut.
 O Ciel !
 
 -*who_achille
-Coulle, mon sang, Polixene le veut.
+      Coulle, mon sang, Polixene le veut.
 
 -*who_ulisse
 Que voy-je ? Achille meurt, son propre sang le noye,
@@ -1830,7 +1830,7 @@ Ce sont de l'ennemy les plus douces humeurs,
 Voilà comme il nous flatte.
 
 -*who_achille
-Il est vray, mais je meurs.
+      Il est vray, mais je meurs.
 
 -*who_ulisse
 D'une eternelle nuit sa paupiere est couverte,
@@ -1849,10 +1849,10 @@ Ces Dieux, vos protecteurs, vous verront trébucher,
 Et vostre ville un jour sera vostre bucher.
 Mais que veut ce Gregeois ?
 
-**** *book_ *id_body-5-7 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-507 *act_ *date_1636 *creator_benserade
 
 -*who_soldat
-Funestes aventures !
+      Funestes aventures !
 Je voy ce qu'ont predit tant de tristes augures,
 Le camp sans les sçavoir commence à s'attrister,
 Et Briseide vient de se precipiter.
@@ -1869,7 +1869,7 @@ L'on verra qui de nous remportera ses armes,
 Un superbe tombeau luy doit estre erigé,
 Aussi-tost mis en cendre, apres plaint, puis vangé.
 
-**** *book_ *id_body-6-1 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-601 *act_ *date_1636 *creator_benserade
 
 -*who_ajax
 Quoy grands Dieux ! qu'un debat aujourd'huy s'acomplisse,
@@ -2167,7 +2167,7 @@ Par Troye à demy prise, & par ses murs branlans,
 Que les armes d'Achille animent mon courage,
 Au moins honorez-en Ulysse, ou cette image.
 
-**** *book_ *id_body-6-2 *act_ *date_1636 *creator_benserade
+**** *book_ *id_body-602 *act_ *date_1636 *creator_benserade
 
 -*who_ajax
 Le vice, & la vertu tendent à mesme fin,
@@ -2196,7 +2196,7 @@ Il vous peut rendre encore un fidelle service.
 Souvenez-vous d'Ajax.
 
 -*who_ulisse
-Souvenez-vous d'Ulisse.
+      Souvenez-vous d'Ulisse.
 
 -*who_agamemnon
 Que ne suis-je privé du Sceptre, & du pouvoir
@@ -2276,7 +2276,7 @@ Vous voulez qu'il vous serve, & vous ne l'armez pas,
 On me prefere Ulisse !
 
 -*who_agamemnon
-Ha ! sa fureur l'emporte.
+      Ha ! sa fureur l'emporte.
 
 -*who_ajax
 Mais sçachez que ma cause est tousjours la plus forte,
@@ -2297,7 +2297,7 @@ Dy moy, mon desespoir, quel chemin je suivray,
 Que feray-je vaincu ?
 
 -*who_agamemnon
-Son courage est à craindre.
+      Son courage est à craindre.
 
 -*who_ulisse
 C'est enflamer ce feu que le vouloir esteindre,
@@ -2320,7 +2320,7 @@ Que je doive appliquer au mal qui me possede.
 Hé, de grace !
 
 -*who_ajax
-Mourons, ha qu'aujourd'huy ma mort
+      Mourons, ha qu'aujourd'huy ma mort
 Affoiblit, & r'enforce, est utille, & fait tort !
 Mais dans mon sang ma vie, & ma honte se noye,
 Puis qu'Ajax est tombé, subsiste, heureuse Troye.

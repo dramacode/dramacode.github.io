@@ -47,17 +47,7 @@ Et ledit sieur Boursault a cedé au sieur J. Guignard le droit qu'il a au presen
 Achevé d'imprimer le 20.
 Novembre 1691.
 
-**** *book_ *id_acteurs *date_1691 *creator_boursault
-
-ACTEURS.
-
-MARIE STUARD
-
-REINE D'ECOSSE,
-
-TRAGéDIE.
-
-**** *book_ *id_body-4-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-401 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Euric, dans ce Palais ne m'accompagnez pas.
@@ -105,16 +95,16 @@ Que les autres forfaits ne coutent presque rien ?
 Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire
 Allez prester l'oreille à ce qu'il va me dire.
 
-**** *book_ *id_body-4-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-402 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Comte.
 
 -*who_le_comte_de_neucastel
-Seigneur ?
+      Seigneur ?
 
 -*who_le_duc_de_norfolc
-De grace employez tous vos soins
+      De grace employez tous vos soins
 A voir si dans ce lieu nous sommes sans témoins.
 Haï d'Elizabeth, je ne fais point de doute
 Que je ne sois perdu si quelqu'un nous écoute.
@@ -160,7 +150,7 @@ Oüy, Seigneur : Et bien-tost par mes soins empressez
 Vous connoistrez vous-même à quel point...
 
 -*who_le_duc_de_norfolc
-C'est assez.
+      C'est assez.
 Comte de Neucastel, je vous ouvre mon ame.
 Je suis las d'obeïr aux ordres d'une femme.
 Depuis qu'Elizabeth regne sur les Anglois
@@ -272,7 +262,7 @@ L'espoir de s'agrandir⁎ fait aisément un traitre.
 Si vous estes surpris vous vous perdez.
 
 -*who_le_duc_de_norfolc
-Helas!
+      Helas!
 Tout est perdu pour moy si je ne me perds pas.
 Des Juges dévoüez, sans honneur, sans naissance,
 D'une Reine adorable ont proscrit l'innocence :
@@ -289,7 +279,7 @@ Dites-moy quel effort vous voulez que je fasse.
 Encor un coup, Seigneur, je suis prest...
 
 -*who_le_duc_de_norfolc
-Qu'il m'est doux
+      Qu'il m'est doux
 D'avoir dans mon malheur un amy tel que vous !
 Comte, puis que pour moy vostre ardeur est si grande,
 L'effort dont j'ay besoin, & que je vous demande,
@@ -319,17 +309,17 @@ Le criminel amour dont il a receu l'estre
 Le condamne...
 
 -*who_le_comte_de_neucastel
-Seigneur, je croy le voir paroistre :
+      Seigneur, je croy le voir paroistre :
 Laissez-moy de son coeur penetrer les secrets.
 Pour remplir vos desirs je vous suivray de prés.
 
-**** *book_ *id_body-4-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-403 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 He bien, Seigneur...
 
 -*who_le_comte_de_morray
-Souffrez que mon coeur se déploye,
+      Souffrez que mon coeur se déploye,
 Et que j'étale icy la grandeur de ma joye.
 Rien ne s'oppose plus au succez de mes feux :
 Mon plus grand Ennemy met le comble à mes vœux.
@@ -340,7 +330,7 @@ En va faire à la Reine un fidele recit.
 Nous triomphons.
 
 -*who_le_comte_de_neucastel
-Seigneur, j'ay toûjours même zele :
+      Seigneur, j'ay toûjours même zele :
 Mais prestez de la force à mon coeur qui chancelle ;
 Et puisque le silence est encor à mon choix,
 Laissez-moy vous parler pour la derniere fois.
@@ -367,7 +357,7 @@ Jugez en quel peril je me verrois alors.
 Il faudroit que mon sang...
 
 -*who_le_comte_de_morray
-Moy des remors ! moy, Comte !
+      Moy des remors ! moy, Comte !
 D'un soupçon qui m'outrage épargnez-moy la honte.
 Quelle peur vous allarme ? Et par quel sort fatal
 Ay-je pû meriter qu'on me traite si mal ?
@@ -412,7 +402,7 @@ N'a jamais avoüé que vous fussiez son fils.
 Qui justifiera...
 
 -*who_le_comte_de_morray
-Qui ? Ma valeur, mon audace :
+      Qui ? Ma valeur, mon audace :
 Mon ardeur de regner & de remplir sa place :
 Si le Ciel m'eût fait naistre en un degré plus bas,
 De si beaux mouvemens ne me dureroient pas.
@@ -486,10 +476,10 @@ Enfin, pour la contraindre à la reconnoissance
 Du zele le plus pur empruntez l'apparence.
 Accoûtumez son cœur…
 
-**** *book_ *id_body-4-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-404 *act_ *date_1691 *creator_boursault
 
 -*who_lancastre
-Ah, Seigneur, hâtez-vous,
+      Ah, Seigneur, hâtez-vous,
 Et venez de la Reine appaiser le courroux.
 Je ne puis deviner qui conspire contr'elle ;
 Mais elle est resoluë à punir un rebelle,
@@ -506,7 +496,7 @@ Et quelle ame assez basse ose estre encor rebelle?
 Vous a-t'-on dit le nom du coupable ?
 
 -*who_lancastre
-Seigneur,
+      Seigneur,
 Je n'ose en soupçonner la Reine vostre Sœur.
 Mais un des Officiers qui doit répondre d'elle
 A sans doute à la Reine appris quelque nouvelle.
@@ -523,7 +513,7 @@ Qu'il faut executer l'Arrest qu'elle a fait rendre.
 La nature outragée a beau s'en émouvoir,
 Sa voix est impuissante où parle mon devoir.
 
-**** *book_ *id_body-5-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-501 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Auriez-vous jamais crû qu'insensible à mes graces,
@@ -550,19 +540,19 @@ Ses amours ! Juste Ciel, que m'apprend-on encore ?
 Et pour qui ?
 
 -*who_le_comte_de_morray
-Pour ma Sœur.
+      Pour ma Sœur.
 
 -*who_elisabeth
-L'aime-t'il ?
+      L'aime-t'il ?
 
 -*who_le_comte_de_morray
-Il l'adore.
+      Il l'adore.
 
 -*who_elisabeth
 Il l'adore ! Qu'entens-je ?
 
 -*who_le_comte_de_morray
-Et quel autre motif
+      Et quel autre motif
 D'un Ministre d'Estat feroit un fugitif ?
 
 -*who_elisabeth
@@ -614,16 +604,16 @@ Je vous en donne l'ordre, & ce soin vous regarde.
 Hola.
 
 -*who_euric
-Madame ?
+      Madame ?
 
 -*who_elisabeth
-Euric, pour commander ma Garde
+      Euric, pour commander ma Garde
 Du Comte de Morray je viens de faire choix :
 Ayez soin cette nuit d'obeïr à sa voix.
 Je l'ordonne.
 
 -*who_le_comte_de_morray
-Charmé de cette confiance
+      Charmé de cette confiance
 Je jure que vos jours sont en pleine asseurance,
 Et que vos ennemis n'iront point jusqu'à vous
 Qu'on ne m'ait veu, Madame, expirer sous leurs coups.
@@ -668,7 +658,7 @@ Laissez-moy le surprendre en commettant son crime :
 Vous n'hesiterez plus à vouloir son trépas
 Quand de sa trahison vous ne douterez pas.
 
-**** *book_ *id_body-5-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-502 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 He bien, Lancastre, hé bien, tu vois ce qui se passe :
@@ -679,7 +669,7 @@ Je croyois sur son coeur ma puissance absoluë.
 Le Traistre !
 
 -*who_lancastre
-A quoy, Madame, estes-vous resoluë ?
+      A quoy, Madame, estes-vous resoluë ?
 
 -*who_elisabeth
 A quoy, Lancastre ? Apprens que plus j'eus de bonté,
@@ -745,7 +735,7 @@ Vous verrez que le Comte a de plus hauts desseins.
 Il est jeune & sensible : & vos charmes...
 
 -*who_elisabeth
-Arreste.
+      Arreste.
 Mes charmes ne font point de honteuse conqueste...
 S'il osoit me tenir les discours que tu tiens
 Je luy vendrois bien cher de pareils entretiens.
@@ -759,7 +749,7 @@ Madame, pardonnez si j'ay crû que sa foy...
 Voicy le Duc. Euric, demeurez avec moy.
 Ma vie aux mains d'un Traistre est trop mal asseurée.
 
-**** *book_ *id_body-5-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-503 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Quoy, Madame, si tard n'estre pas retirée ?
@@ -802,7 +792,7 @@ Demain vous vous rendrez aux affaires publiques.
 Demain…
 
 -*who_elisabeth
-C'est assez, Duc. Vostre zele est si grand
+      C'est assez, Duc. Vostre zele est si grand
 Qu'on ne peut resister à ce qu'il entreprend.
 Je viens de reconnoistre à ce conseil sincere
 Que malgré mes soupçons je vous suis toûjours chere :
@@ -814,7 +804,7 @@ Je vous fais aprés moy le premier en tout lieu.
 Meritez mes bienfaits par vostre zele. Adieu.
 Le Perfide est contraint, ma presence le gesne⁎.
 
-**** *book_ *id_body-5-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-504 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Me trompez-vous mes sens ! Ay-je entendu la Reine !
@@ -830,7 +820,7 @@ Je vous tiendray parole, ou mon sang répandu
 Aura fait pour le moins tout ce qu'il aura dû.
 Heureux si par ma mort la vostre differée...
 
-**** *book_ *id_body-5-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-505 *act_ *date_1691 *creator_boursault
 
 -*who_euric
 Dans son Appartement la Reine est retirée,
@@ -844,36 +834,36 @@ Ces momens fortunez ne se retrouvent pas.
 De la Reine captive allez haster les pas.
 Je vous attends.
 
-**** *book_ *id_body-5-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-506 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
-O Ciel ! voy pour qui je t'implore.
+      O Ciel ! voy pour qui je t'implore.
 Avant que dans ce lieu tu rameines l'aurore
 Attends qu'un long espace entre la Reine & nous
 Ait mis ce que j'adore à couvert de ses coups.
 Sauve de sa fureur une Reine si belle.
 Je suis trahy, sans doute, Euric revient sans elle.
 
-**** *book_ *id_body-5-7 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-507 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 A la Reine d'Ecosse a-t-on manqué de foy ?
 Parlez, Euric.
 
 -*who_euric
-Seigneur, elle vient aprés moy.
+      Seigneur, elle vient aprés moy.
 Touché de la frayeur dont son ame est atteinte,
 Je devance ses pas pour dissiper sa crainte.
 Un peu d'émotion meslée à ses attraits
 Vous la va faire voir plus belle que jamais.
 
-**** *book_ *id_body-5-8 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-508 *act_ *date_1691 *creator_boursault
 
 -*who_le_duc_de_norfolc
 Venez, venez, Madame...
 
 -*who_marie_stuard
-Ah ! Duc que j'apprehende
+      Ah ! Duc que j'apprehende
 De vous rendre funeste une bonté si grande !
 Si la Reine en secret fait observer nos pas,
 En voulant me sauver ne vous perdez-vous pas ?
@@ -887,7 +877,7 @@ Sortons, Madame...O Ciel ! d'où vient un si grand bruit ?
 -*who_marie_stuard
 Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.
 
-**** *book_ *id_body-5-9 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-509 *act_ *date_1691 *creator_boursault
 
 -*who_killegre
 Hola, Gardes ? A moy : l'on veut trahir la Reine.
@@ -898,10 +888,10 @@ Le bras que tu saisis t'a comblé de bienfaits.
 C'est le Duc de Norfolc, qui cent fois...
 
 -*who_killegre
-Il n'importe.
+      Il n'importe.
 Je suis Sujet, Seigneur, & ce devoir l'emporte.
 
-**** *book_ *id_body-5-10 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-510 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Quel desordre, si tard, ose-t-on faire icy ?
@@ -911,7 +901,7 @@ C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !
 Qui, moy, vostre ennemie ! Eh, Madame...
 
 -*who_elisabeth
-Ah le Traistre !
+      Ah le Traistre !
 Enfin, Ingrat, enfin, tu t'es donc fait connoistre ?
 A démentir mes yeux ose appliquer tes soins.
 Ce sont, pour ton malheur, de fideles témoins.
@@ -940,7 +930,7 @@ Qui pour m'estre fidele avez trahy ce Traistre,
 Ayez soin d'assembler demain à mon réveil
 Les Pairs accoûtumez à tenir mon Conseil.
 
-**** *book_ *id_body-6-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-601 *act_ *date_1691 *creator_boursault
 
 -*who_lancastre
 Non, Madame, les Pairs ne viennent point encore.
@@ -958,13 +948,13 @@ Oüy, Madame, à l'instant vous l'allez voir paroître.
 Et les Comtes ?
 
 -*who_lancastre
-Madame, ils vont entrer tous deux.
+      Madame, ils vont entrer tous deux.
 
 -*who_elisabeth
 Pour immoler le Duc je veux m'asseurer d'eux.
 Ils ont pour ce Perfide une haine mortelle .
 
-**** *book_ *id_body-6-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-602 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Comtes, depuis long-temps je connois vostre zele.
@@ -978,10 +968,10 @@ Et que Traistre, une fois, il est de la justice
 D'empêcher desormais que l'Ingrat me trahisse.
 Allez.
 
-**** *book_ *id_body-6-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-603 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
-Approchez, Duc. Si le Ciel l'eût permis
+      Approchez, Duc. Si le Ciel l'eût permis
 Vous alliez contre nous servir nos Ennemis.
 Si le Duc de Norfolc nous declaroit la guerre,
 Contre un Heros si grand que feroit l'Angleterre ?
@@ -1095,7 +1085,7 @@ Quelle indigne Beauté vient de te rendre traistre !
 Proscrite, abandonnée...
 
 -*who_le_duc_de_norfolc
-Et devroit-elle l'estre ?
+      Et devroit-elle l'estre ?
 Quel spectacle à nos yeux allez-vous étaller,
 Madame ? Et que de droits faites-vous violer ?
 De quelles Nations obtiendrez-vous l'estime ?
@@ -1120,7 +1110,7 @@ Laisse-là mon devoir & songe au tien, Perfide :
 Ton trépas...
 
 -*who_le_duc_de_norfolc
-Son aspect⁎ n'a rien qui m'intimide :
+      Son aspect⁎ n'a rien qui m'intimide :
 Souvent pour vostre gloire ou pour vos interests
 Contre vos Ennemis je l'ay veu d'assez prés ;
 Et pour la Verité, qui m'est cent fois plus chere,
@@ -1201,7 +1191,7 @@ Examinez l'Ecrit qui paroît à vos yeux :
 Examinez...
 
 -*who_elisabeth
-Les Pairs l'examineront mieux :
+      Les Pairs l'examineront mieux :
 Ils doivent s'assembler dans la Salle prochaine.
 Comme ta trahison ma vangeance est certaine.
 Pour en joüir plûtost je veux dés ce moment
@@ -1226,7 +1216,7 @@ Gardes, laissez-les seuls ; & maistres de la porte,
 Empêchez seulement qu'aucun n'entre ou ne sorte.
 Il y va de vos jours à répondre des leurs .
 
-**** *book_ *id_body-6-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-604 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 He bien, Duc, vos bontez augmentent mes malheurs.
@@ -1297,7 +1287,7 @@ Le crime que j'ay fait de soûpirer pour vous.
 O Ciel !
 
 -*who_le_duc_de_norfolc
-Vous jugez bien qu'il m'eût esté facile
+      Vous jugez bien qu'il m'eût esté facile
 De supprimer l'aveu d'une ardeur inutile,
 Si je n'eusse esperé que d'un crime si grand
 J'obtiendrois le pardon, au moins en expirant.
@@ -1343,7 +1333,7 @@ Que ne chassiez-vous, Duc, cet amour de vostre ame ?
 Que ne bannissiez-vous...
 
 -*who_le_duc_de_norfolc
-Et l'ay-je pû, Madame ?
+      Et l'ay-je pû, Madame ?
 Si les hautes vertus ont droit de tout charmer
 Estoit-il à mon choix de ne pas vous aimer ?
 Tant que j'ay de la Reine ignoré l'injustice
@@ -1372,7 +1362,7 @@ Et j'ignorois, Madame, en prenant ce party,
 L'amour le plus puissant qu'on ait jamais senty.
 Tout pur qu'est cet amour mes desirs ne prétendent...
 
-**** *book_ *id_body-6-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-605 *act_ *date_1691 *creator_boursault
 
 -*who_killegre
 Les Pairs sont assemblez, Seigneur, & vous attendent.
@@ -1381,7 +1371,7 @@ De vous faire rentrer dans vostre Appartement,
 Madame.
 
 -*who_le_duc_de_norfolc
-Adieu, Madame. Une autre destinée
+      Adieu, Madame. Une autre destinée
 Termine de vos jours la course infortunée.
 Quels que soient les tourmens qui me sont preparez
 Mes maux les plus cruels sont ceux que vous aurez,
@@ -1404,7 +1394,7 @@ Qui vous oste avant moy des miseres du monde ,
 Pour remplir mon attente, & mes voeux les plus doux,
 M'appeller à la mort un moment aprés vous.
 
-**** *book_ *id_body-7-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-701 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Oüy, Seigneur, je vous plains, une cheute si prompte...
@@ -1414,7 +1404,7 @@ D'un homme tel que toy la pitié me fait honte.
 Retire-toy.
 
 -*who_le_comte_de_neucastel
-La Reine attend l'Ordre sacré
+      La Reine attend l'Ordre sacré
 Dont sa main autrefois vous avoit honoré.
 Cette pompeuse Marque, en ce lieu si cherie,
 Sous le fer d'un Bourreau luy sembleroit flétrie.
@@ -1450,7 +1440,7 @@ Sa presence est pour moy pire que le trépas.
 -*who_le_comte_de_neucastel
 O Ciel ! à quelle honte aujourd'huy je m'expose !
 
-**** *book_ *id_body-7-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-702 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
 A prevenir⁎ nos voeux la Reine se dispose.
@@ -1503,9 +1493,9 @@ Sans estre signalé par un double trépas.
 J'ay déja fait...
 
 -*who_le_comte_de_neucastel
-Seigneur, je voy venir la Reine.
+      Seigneur, je voy venir la Reine.
 
-**** *book_ *id_body-7-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-703 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Ne vous opposez pas au penchant qui m'entraîne,
@@ -1516,11 +1506,11 @@ A de nouveaux mépris je veux forcer un Traistre.
 Faites venir le Duc, Gardes.
 
 -*who_le_comte_de_morray
-Que faites-vous,
+      Que faites-vous,
 Madame ?
 
 -*who_elisabeth
-Obeïssez, ou craignez mon courroux.
+      Obeïssez, ou craignez mon courroux.
 
 -*who_le_comte_de_morray
 Vous fremissez pour luy du sort qui le menace :
@@ -1528,7 +1518,7 @@ Et s'il pousse un soûpir il obtiendra sa grace,
 Madame.
 
 -*who_elisabeth
-S'il l'obtient, vous sçaurez à quel prix,
+      S'il l'obtient, vous sçaurez à quel prix,
 Et peut-estre tous deux en serez-vous surpris.
 Jamais contre l'ingrat je ne fus plus émeuë.
 Je demande à le voir, & j'abhorre sa veuë.
@@ -1551,7 +1541,7 @@ Je veux de ce Perfide humilier l'audace :
 Et pour peu qu'il s'échape à braver mon courroux,
 Pour me vanger de luy j'auray besoin de vous.
 
-**** *book_ *id_body-7-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-704 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Un reste de bonté dont s'indigne mon ame,
@@ -1699,7 +1689,7 @@ Trouveroit des Proscrits pour de plus justes causes.
 Vous m'entendez.
 
 -*who_elisabeth
-Oüy, Traistre : Et tu ne peux jamais
+      Oüy, Traistre : Et tu ne peux jamais
 Faire aller plus avant ma haine & tes forfaits.
 Je ne sçay rien en moy susceptible d'outrage
 Qui de ton lâche coeur n'ait éprouvé la rage.
@@ -1717,10 +1707,10 @@ Prest à voir par ta mort ma vengeance assouvie,
 Veux-tu ta grace ?
 
 -*who_le_comte_de_morray
-O Ciel !
+      O Ciel !
 
 -*who_le_duc_de_norfolc
-Je ne hais point la vie.
+      Je ne hais point la vie.
 Si vous me la laissez il me sera bien doux
 De pouvoir de nouveau la prodiguer pour vous.
 D'un fidele Sujet l'infatigable zele...
@@ -1734,7 +1724,7 @@ Et j'en veux un de toy qui merite ta grace ;
 Je ne te la promets qu'à ce prix.
 
 -*who_le_duc_de_norfolc
-Commandez.
+      Commandez.
 Je puis faire encor plus que vous ne demandez.
 Rien ne m'est impossible, où je voy de la gloire.
 (Car par respect pour vous j'ay de la peine à croire
@@ -1754,13 +1744,13 @@ Un refus échapé⁎ rend ta perte certaine.
 Reponds, sans balancer.
 
 -*who_le_duc_de_norfolc
-Gardes, qu'on me rameine.
+      Gardes, qu'on me rameine.
 C'est ma réponse.
 
-**** *book_ *id_body-7-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-705 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
-Ah Ciel ! l'Ingrat n'hesite pas !
+      Ah Ciel ! l'Ingrat n'hesite pas !
 Ma Rivale à la mort va devancer tes pas,
 Traistre. Dés ce moment pour contenter ma haine
 Allez y preparer cette coupable Reine.
@@ -1771,7 +1761,7 @@ Pour venir à grands pas fondre sur l'Angleterre,
 Comte de Neucastel, ne me revoyez pas
 Que vous n'ayez esté témoin de son trépas.
 
-**** *book_ *id_body-7-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-706 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
 Ses ordres sont précis pour perdre sa Rivale,
@@ -1807,7 +1797,7 @@ Il faut que de ma haine il devienne la proye ;
 Et dût-elle sur moy le vanger aujourd'huy,
 Je mourray sans regret si je meurs aprés luy.
 
-**** *book_ *id_body-8-1 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-801 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 Quand il faudra partir je n'ay rien qui m'arreste.
@@ -1817,7 +1807,7 @@ Quoy que par mon trépas tous les droits soient trahis.
 Le Comte de Morray viendra-t-il ?
 
 -*who_melvin
-Oüy, Madame.
+      Oüy, Madame.
 
 -*who_marie_stuard
 Vostre zele, Melvin, est gravé dans mon ame.
@@ -1847,9 +1837,9 @@ Que vostre injuste mort nous va coûter de pleurs !
 Et qu'un jour…
 
 -*who_marie_stuard
-Quelqu'un vient. Contraignez vos douleurs.
+      Quelqu'un vient. Contraignez vos douleurs.
 
-**** *book_ *id_body-8-2 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-802 *act_ *date_1691 *creator_boursault
 
 -*who_marie_stuard
 Approche, ingrat Sujet, dont la haine m'accable,
@@ -1898,10 +1888,10 @@ Si par le juste Ciel mes vœux sont écoutez
 J'en vais faire pour vous qui me persecutez.
 Adieu.
 
-**** *book_ *id_body-8-3 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-803 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_morray
-Je sens mon cœur qui s'émeut, qui chancelle :
+      Je sens mon cœur qui s'émeut, qui chancelle :
 La voix de la nature au repentir m'appelle.
 Silence, indigne voix, qui me veux attendrir :
 Qu'importe pour regner qui je fasse perir ?
@@ -1910,7 +1900,7 @@ Doit faire une vertu d'un crime necessaire ;
 Et preferer toûjours, sans en estre confus,
 Les utiles forfaits aux ingrates vertus.
 
-**** *book_ *id_body-8-4 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-804 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 Comte, j'allois vous voir. Malgré toute ma haine
@@ -2000,7 +1990,7 @@ Si je luy rends le jour me rendra tout son zele.
 Le Duc, Madame ? O Ciel !
 
 -*who_elisabeth
-Tout coupable qu'il est,
+      Tout coupable qu'il est,
 Il est assez puny de sçavoir son Arrest :
 Et s'il faut m'expliquer, quoy qu'ait fait son audace,
 Ce qu'a fait sa valeur sollicite sa grace.
@@ -2028,11 +2018,11 @@ Je luy cause des maux où je prends trop de part.
 Portez-luy le pardon…
 
 -*who_le_comte_de_morray
-Madame, il est trop tard.
+      Madame, il est trop tard.
 Il est mort.
 
 -*who_elisabeth
-Il est mort ! Ah, perfide, qu'entens-je !
+      Il est mort ! Ah, perfide, qu'entens-je !
 
 -*who_le_comte_de_morray
 Un si juste trépas le punit & vous vange.
@@ -2040,14 +2030,14 @@ Coupable envers l'Etat si lâchement trahy,
 Condamné par les Pairs, hay de vous…
 
 -*who_elisabeth
-Hay !
+      Hay !
 Ah Traistre ! Dans mon cœur tu sçais ce qui se passe.
 A la Reine d'Ecosse allez porter sa grace,
 Lancastre. Ce Perfide, ennemy de sa Sœur,
 M'a peut-estre engagée à servir sa fureur.
 Qu'on la ramene. Et toy je veux que tu perisses.
 
-**** *book_ *id_body-8-5 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-805 *act_ *date_1691 *creator_boursault
 
 -*who_le_comte_de_neucastel
 Madame, à mes forfaits preparez des supplices.
@@ -2080,7 +2070,7 @@ Ce que je dois souffrir puis que j'en suis la cause.
 Vous, ô Ciel !
 
 -*who_le_comte_de_neucastel
-Moy, Madame. Un aveu si honteux
+      Moy, Madame. Un aveu si honteux
 Vous anime à ma perte ; & c'est ce que je veux.
 J'offre à vostre justice une digne matiere.
 Ne la trahissez point, faites-la toute entiere.
@@ -2101,10 +2091,10 @@ Leur Fils en son pouvoir doit trembler pour sa vie.
 Hola, Gardes.
 
 -*who_euric
-Madame.
+      Madame.
 
 -*who_elisabeth
-Asseurez-vous de luy.
+      Asseurez-vous de luy.
 Traistre, qui de mon Trône as fait tomber l'appuy,
 Ton sang, pour le vanger, répandu goute à goute…
 
@@ -2195,9 +2185,9 @@ C'est à vostre justice où sera mon recours.
 Je l'attends.
 
 -*who_elisabeth
-Qu'on le suive, & que l'on m'en réponde.
+      Qu'on le suive, & que l'on m'en réponde.
 
-**** *book_ *id_body-8-6 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-806 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
 He bien, sens-tu, méchant, que ton cœur te confonde ?
@@ -2243,10 +2233,10 @@ Et j'ay la gloire, au moins dans un sort si fatal,
 De mourir autrement que n'est mort mon Rival.
 J'expire.
 
-**** *book_ *id_body-8-7 *act_ *date_1691 *creator_boursault
+**** *book_ *id_body-807 *act_ *date_1691 *creator_boursault
 
 -*who_elisabeth
-Juste Ciel ! quelle suite de crimes !
+      Juste Ciel ! quelle suite de crimes !
 Que la haine & l'amour ont d'injustes maximes⁎ !
 Et qu'un cœur déreglé, qui suit leurs mouvemens
 Se condamne soy-même à de cruels tourmens !

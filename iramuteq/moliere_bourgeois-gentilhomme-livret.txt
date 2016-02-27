@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_bourgeois-gentilhomme-livret *id_body-2 *date_1671 *creator_moliere
+**** *book_ *id_body-2 *date_1671 *creator_moliere
 
 DANS LE PREMIER ACTE.
 
@@ -85,7 +85,7 @@ Laissons nous enflammer.
 Ah ! qu'il est doux d'aimer
 Quand deux cœurs sont fidèles.
 
-**** *book_moliere_bourgeois-gentilhomme-livret *id_body-3 *date_1671 *creator_moliere
+**** *book_ *id_body-3 *date_1671 *creator_moliere
 
 DANS LE SECOND ACTE.
 
@@ -129,7 +129,7 @@ Que l'on peut être heureux.
 Sus, sus du vin, partout versez, garçons versez,
 Versez, versez toujours, tant qu'on vous dise, assez.
 
-**** *book_moliere_bourgeois-gentilhomme-livret *id_body-4 *date_1671 *creator_moliere
+**** *book_ *id_body-4 *date_1671 *creator_moliere
 
 DANS LE TROISIÈME ACTE
 
@@ -199,7 +199,7 @@ Questa star ultima affronta.
 
 -*who_les_turcs
 
-**** *book_moliere_bourgeois-gentilhomme-livret *id_body-5 *date_1671 *creator_moliere
+**** *book_ *id_body-5 *date_1671 *creator_moliere
 
 BALLET DES NATIONS
 

@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_depit-amoureux *id_I01 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1663 *creator_moliere
 
 -*who_eraste
 Veux-tu que je te dise ? une atteinte secrète
@@ -101,7 +101,7 @@ Voilà de tes discours.
 -*who_gros_rene
 Mais je la vois qui passe.
 
-**** *book_moliere_depit-amoureux *id_I02 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1663 *creator_moliere
 
 -*who_gros_rene
 Ssst, Marinette.
@@ -355,7 +355,7 @@ Valère vient à nous.
 Je plains le pauvre hère,
 Sachant ce qui se passe.
 
-**** *book_moliere_depit-amoureux *id_I03 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1663 *creator_moliere
 
 -*who_eraste
 Hé bien ? Seigneur Valère.
@@ -472,7 +472,7 @@ Son valet vient, je pense.
 Oui, je le vois paraître.
 Feignons, pour le jeter sur l'amour de son maître.
 
-**** *book_moliere_depit-amoureux *id_I04 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1663 *creator_moliere
 
 -*who_mascarille
 Non, je ne trouve point d'état plus malheureux,
@@ -693,7 +693,7 @@ Et ce qu'a fait Valère, en voyant cet écrit,
 Marque bien leur concert, et que c'est une baye
 Qui sert sans doute aux feux dont l'ingrate le paye.
 
-**** *book_moliere_depit-amoureux *id_I05 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1663 *creator_moliere
 
 -*who_marinette
 Je viens vous avertir que tantôt sur le soir
@@ -723,7 +723,7 @@ De quel démon est donc leur âme travaillée ?
 Quoi, faire un tel accueil à nos soins obligeants !
 Ô ! que ceci chez nous va surprendre les gens !
 
-**** *book_moliere_depit-amoureux *id_II01 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1663 *creator_moliere
 
 -*who_frosine
 Ascagne, je suis fille à secret, Dieu merci.
@@ -921,7 +921,7 @@ Il croit que tout le reste après est peu de chose.
 Mais, enfin, aujourd'hui je me découvre à vous,
 Afin que vos conseils… Mais voici cet Époux.
 
-**** *book_moliere_depit-amoureux *id_II02 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1663 *creator_moliere
 
 -*who_valere
 Si vous êtes tous deux en quelque conférence,
@@ -1076,7 +1076,7 @@ Et moi content, Valère.
 -*who_frosine
 Il croit trouver en vous l'assistance d'un frère.
 
-**** *book_moliere_depit-amoureux *id_II03 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1663 *creator_moliere
 
 -*who_lucile
 C'en est fait ; c'est ainsi que je me puis venger :
@@ -1141,7 +1141,7 @@ Et me laissez un peu dans quelque rêverie.
 Allez, cruelle sœur, vous me désespérez,
 Si vous effectuez vos desseins déclarés.
 
-**** *book_moliere_depit-amoureux *id_II04 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1663 *creator_moliere
 
 -*who_marinette
 La résolution, Madame, est assez prompte.
@@ -1225,7 +1225,7 @@ Et je serais plutôt fille toute ma vie,
 Que mon gros traître aussi me redonnât envie.
 S'il vient…
 
-**** *book_moliere_depit-amoureux *id_II05 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1663 *creator_moliere
 
 -*who_albert
 Rentrez, Lucile, et me faites venir
@@ -1250,7 +1250,7 @@ Enfin, à tous moments, sur quoi que je m'arrête,
 Cent sortes de chagrins me roulent par la tête.
 Ha !
 
-**** *book_moliere_depit-amoureux *id_II06 *act_II *date_1663 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1663 *creator_moliere
 
 -*who_metaphraste
 Mandatum tuum curo diligenter.
@@ -1503,7 +1503,7 @@ Et par les écoliers les maîtres fustigés ;
 Que le malade au sain présente le remède ;
 Que le lièvre craintif… miséricorde ! à l'aide !
 
-**** *book_moliere_depit-amoureux *id_III01 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1663 *creator_moliere
 
 -*who_mascarille
 Le Ciel parfois seconde un dessein téméraire,
@@ -1521,7 +1521,7 @@ Et les vieillards entre eux se pourront accorder.
 C'est ce qu'on va tenter ; et de la part du nôtre,
 Sans perdre un seul moment, je m'en vais trouver l'autre.
 
-**** *book_moliere_depit-amoureux *id_III02 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1663 *creator_moliere
 
 -*who_albert
 Qui frappe ?
@@ -1599,7 +1599,7 @@ Qu'il vient de découvrir en ce même moment,
 Et qui, sans doute, importe à tous deux grandement.
 Voilà mon Ambassade.
 
-**** *book_moliere_depit-amoureux *id_III03 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1663 *creator_moliere
 
 -*who_albert
 Ô ! Juste Ciel, je tremble !
@@ -1621,7 +1621,7 @@ Et ce bien par la fraude entré dans ma maison
 N'en sera point tiré, que dans cette sortie
 Il n'entraîne du mien la meilleure partie.
 
-**** *book_moliere_depit-amoureux *id_III04 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1663 *creator_moliere
 
 -*who_polydore
 S'être ainsi marié sans qu'on en ait su rien !
@@ -1797,7 +1797,7 @@ Et, si je dis un mot, j'ai peur de me confondre.
 Remettons, je vous prie, à tantôt l'entretien :
 Un mal subit me prend, qui veut que je vous laisse.
 
-**** *book_moliere_depit-amoureux *id_III05 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1663 *creator_moliere
 
 -*who_polydore
 Je lis dedans son âme, et vois ce qui le presse.
@@ -1810,7 +1810,7 @@ Il faut qu'un peu de temps remette son esprit :
 La douleur trop contrainte aisément le redouble.
 Voici mon jeune fou d'où nous vient tout ce trouble.
 
-**** *book_moliere_depit-amoureux *id_III06 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1663 *creator_moliere
 
 -*who_polydore
 Enfin, le beau mignon, vos bons déportements
@@ -1847,7 +1847,7 @@ Il ne sera pas homme à m'en faire un aveu ;
 Il faut user d'adresse, et me contraindre un peu
 Dans ce juste courroux.
 
-**** *book_moliere_depit-amoureux *id_III07 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1663 *creator_moliere
 
 -*who_valere
 Mascarille, mon père
@@ -1933,7 +1933,7 @@ Nous verrons. Mais, Lucile…
 -*who_mascarille
 Halte ; son père sort.
 
-**** *book_moliere_depit-amoureux *id_III08 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1663 *creator_moliere
 
 -*who_albert
 Plus je reviens du trouble où j'ai donné d'abord,
@@ -2033,7 +2033,7 @@ Je crains…
 -*who_mascarille
 Ne craignez rien.
 
-**** *book_moliere_depit-amoureux *id_III09 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III09 *act_III *date_1663 *creator_moliere
 
 -*who_mascarille
 Seigneur Albert, au moins, silence. Enfin, Madame,
@@ -2153,7 +2153,7 @@ Que vous puissiez si vite en perdre la mémoire.
 -*who_lucile
 C'est trop souffrir, mon père, un impudent valet.
 
-**** *book_moliere_depit-amoureux *id_III10 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III10 *act_III *date_1663 *creator_moliere
 
 -*who_mascarille
 Je crois qu'elle me vient de donner un soufflet :
@@ -2233,7 +2233,7 @@ Va, rends grâce à mes ans qui me font incapables
 De punir sur-le-champ l'affront que tu me fais ;
 Tu n'en perds que l'attente, et je te le promets.
 
-**** *book_moliere_depit-amoureux *id_III11 *act_III *date_1663 *creator_moliere
+**** *book_ *id_III11 *act_III *date_1663 *creator_moliere
 
 -*who_valere
 Hé bien ! ce beau succès que tu devais produire…
@@ -2264,7 +2264,7 @@ Te fera voir si c'est matière à raillerie.
 Malheureux Mascarille ! à quels maux aujourd'hui
 Te vois-tu condamné pour le péché d'autrui ?
 
-**** *book_moliere_depit-amoureux *id_IV01 *act_IV *date_1663 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1663 *creator_moliere
 
 -*who_frosine
 L'aventure est fâcheuse.
@@ -2340,7 +2340,7 @@ La… mais Éraste vient qui pourrait nous distraire,
 Nous pourrons en marchant parler de cette affaire ;
 Allons, retirons-nous.
 
-**** *book_moliere_depit-amoureux *id_IV02 *act_IV *date_1663 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1663 *creator_moliere
 
 -*who_eraste
 Encore rebuté ?
@@ -2468,7 +2468,7 @@ Ne te mets pas en peine.
 -*who_gros_rene
 J'ai bien peur que ses yeux resserrent votre chaîne.
 
-**** *book_moliere_depit-amoureux *id_IV03 *act_IV *date_1663 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1663 *creator_moliere
 
 -*who_marinette
 Je l'aperçois encor ; mais ne vous rendez point.
@@ -2741,7 +2741,7 @@ Ce pardon obligeant ?
 -*who_lucile
 Remenez-moi chez nous.
 
-**** *book_moliere_depit-amoureux *id_IV04 *act_IV *date_1663 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1663 *creator_moliere
 
 -*who_marinette
 Ô ! La lâche personne !
@@ -2865,7 +2865,7 @@ Mon Dieu ! qu'à tes appas je suis acoquiné !
 -*who_marinette
 Que Marinette est sotte après son Gros-René !
 
-**** *book_moliere_depit-amoureux *id_V01 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1663 *creator_moliere
 
 -*who_mascarille
 Dès que l'obscurité régnera dans la ville,
@@ -2915,7 +2915,7 @@ Pour moi, je trouve l'air de celui-ci fort doux :
 Je n'ai pas grande faim de mort ni de blessure,
 Et vous ferez le sot tout seul, je vous assure.
 
-**** *book_moliere_depit-amoureux *id_V02 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1663 *creator_moliere
 
 -*who_valere
 Je n'ai jamais trouvé de jour plus ennuyeux :
@@ -2965,7 +2965,7 @@ Je serais ravi moi de ne vous point laisser ;
 Mais j'aurais un regret mortel, si j'étais cause
 Qu'il fût à mon cher maître arrivé quelque chose.
 
-**** *book_moliere_depit-amoureux *id_V03 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1663 *creator_moliere
 
 -*who_la_rapiere
 Monsieur, de bonne part je viens d'être informé,
@@ -3062,7 +3062,7 @@ Je n'ai nulle démangeaison.
 Que maudit soit l'amour, et les filles maudites,
 Qui veulent en tâter, puis font les chattemites.
 
-**** *book_moliere_depit-amoureux *id_V04 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1663 *creator_moliere
 
 -*who_ascagne
 Est-il bien vrai, Frosine ? et ne rêvé-je point ?
@@ -3116,7 +3116,7 @@ Et que ne dois-je point à vos soins fortunés !
 Au reste, le bonhomme est en humeur de rire,
 Et pour son fils encor nous défend de rien dire.
 
-**** *book_moliere_depit-amoureux *id_V05 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1663 *creator_moliere
 
 -*who_polydore
 Approchez-vous, ma fille, un tel nom m'est permis ;
@@ -3132,7 +3132,7 @@ Allez faire venir tous vos gens promptement.
 -*who_ascagne
 Vous obéir sera mon premier compliment.
 
-**** *book_moliere_depit-amoureux *id_V06 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1663 *creator_moliere
 
 -*who_mascarille
 Les disgrâces souvent sont du Ciel révélées :
@@ -3224,7 +3224,7 @@ Veut qu'à tes propres yeux cet hymen s'accomplisse.
 Ha ! c'est une impudence à me mettre en fureur :
 Elle a donc perdu sens, foi, conscience, honneur ?
 
-**** *book_moliere_depit-amoureux *id_V07 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V07 *act_V *date_1663 *creator_moliere
 
 -*who_albert
 Hé bien ? les combattants ? on amène le nôtre.
@@ -3255,7 +3255,7 @@ Voici venir Ascagne, il aura l'avantage
 De vous faire changer bien vite de langage,
 Et sans beaucoup d'effort.
 
-**** *book_moliere_depit-amoureux *id_V08 *act_V *date_1663 *creator_moliere
+**** *book_ *id_V08 *act_V *date_1663 *creator_moliere
 
 -*who_valere
 Il ne le fera pas,

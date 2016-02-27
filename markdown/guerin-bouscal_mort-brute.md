@@ -1,5 +1,5 @@
 ---
-identifier: guerin-de-bouscal_mort  
+identifier: guerin-bouscal_mort-brute  
 creator: Guérin de Bouscal, Guyon  
 date: 1637  
 title: La Mort de Brute et de Porcie, ou La vengeance de la mort de César. Tragédie  
@@ -1572,7 +1572,7 @@ Et pour perdre en un jour tyrans et tyrannie;
 Mais qu'est-ce que je voy ?  
 
     LE GENIE.
-C'est ton mauvais Genie⁎,  
+        C'est ton mauvais Genie⁎,  
 Qui te vient advertir que dans fort peu de temps  
 Tu le pourras revoir parmy les combatans.  
 
@@ -1595,13 +1595,13 @@ PORCIE, BRUTE.
 Tu vas donc au combat ?  
 
     BRUTE.
-La liberté m'appelle,  
+        La liberté m'appelle,  
 Et je serois content de m'immoler pour elle,  
 Si je pouvois sçavoir ma Porcie en repos,  
 Loin des troubles que Mars  
 
     PORCIE.
-Brise là ce propos,  
+        Brise là ce propos,  
 Il choque ma vertu⁎ qui seroit offensee  
 S'il estoit aprouvé d'une seule pensee;  
 Quoy ! Brute doute encor que mon affection  
@@ -1681,7 +1681,7 @@ Disposer mes soldats à donner la bataille,
 L'heure me presse, adieu.  
 
     PORCIE.
-Va donc, mon cher soucy⁎,  
+        Va donc, mon cher soucy⁎,  
 Certain que si tu meurs je veux mourir aussi.  
 
 
@@ -2033,7 +2033,7 @@ Il n'est rien que je n'ose et que je n'execute;
 L'honneur, la liberté, Rome, l'Estat mal sein [222],  
 Tout nous porte aujourd'huy dans un si beau dessein.  
 
-    BRUTE. 
+    BRUTE.
 Je voy ces lasches cœurs qui rougissent de honte,  
 D'avoir de leur honneur tenu si peu de compte;  
 Mais il est déja temps que chacun à son rang  
@@ -2105,7 +2105,7 @@ Mais le vostre, Madame, a la trempe meilleure,
 Outre que s'il faut croire aux promesses des Dieux,  
 Vous verrez aujourd'huy Brute victorieux.  
 
-    PORCIE. 
+    PORCIE.
 Les Dieux me sont suspects depuis que leur cholere  
 En faveur d'un Tyran arma contre mon pere; [227]  
 Allons y toutefois, et par nos actions  
@@ -2171,14 +2171,14 @@ Vous apprendrez bien-tost sa vie ou son trespas⁎.
 Tu hazardes beaucoup.  
 
     TITINE.
-Nul danger n'espouvante  
+        Nul danger n'espouvante  
 Ceux qui sont pour Cassie et pour Rome mourante.  
 
     PINDARE.
 J'approuve ce conseil.  
 
-    DEMETRIE. 
-Et je l'estime aussi.  
+    DEMETRIE.
+        Et je l'estime aussi.  
 
     CASSIE.
 Va donc, mais souvien toy que je t'atens icy.  
@@ -2214,7 +2214,7 @@ Ont creu que Jupiter nous aydoit de sa foudre.
 Cassie a…  
 
     I. CHEF.
-L'un des siens s'en vient parler à vous.  
+        L'un des siens s'en vient parler à vous.  
 
 
 ### SCENE III.
@@ -2224,8 +2224,8 @@ BRUTE, TITINE.
     BRUTE.
 Les Tyrans sont vaincus.  
 
-    TITINE. 
-Ils sont vainqueurs pour nous.  
+    TITINE.
+        Ils sont vainqueurs pour nous.  
 
     BRUTE.
 O Dieux justes et bons ! est-ce donc la coustume  
@@ -2299,7 +2299,7 @@ Il faut partir bien-tost, et marcher à grands pas.
     BRUTE.
 La nonchalance icy seroit bien criminelle.  
 
-    TITINE. 
+    TITINE.
 Je m'en vay luy porter cette heureuse nouvelle.  
 
     BRUTE.
@@ -2333,7 +2333,7 @@ Mais ce trespas⁎ me semble un peu precipité,
 Titine...  
 
     CASSIE.
-Ha ! ce seul nom m'est un sujet de rage,  
+        Ha ! ce seul nom m'est un sujet de rage,  
 
     PINDARE.
 Qui reviendra bien-tost calmera cét orage.  
@@ -2350,7 +2350,7 @@ Me veut laisser croupir dedans⁎ la servitude,
 Insensibles, cruels, pour estre malheureux,  
 Ne suis-je plus en droit de dire je le veux ?  
 
-    PINDARE. 
+    PINDARE.
 Devoirs, faveurs, bien-faits, liberté redonnée,  
 Venez vous presenter à mon ame obstinée;  
 Chassez ces mouvemens de tendresse et d'amour,  
@@ -2462,19 +2462,19 @@ BRUTE, UN CHEF.
 
 
     BRUTE.
-Quelle voix vient de se faire entendre ?  
+        Quelle voix vient de se faire entendre ?  
 
     TITINE.
 Celle d'un innocent que la parque⁎ va prendre.  
 
-    UN DE LA SUITE DE BRUTE. 
+    UN DE LA SUITE DE BRUTE.
 O malheur sans pareil ! Cassie est aussi mort.  
 
     BRUTE *à part soy.*
 Il faut dissimuler.  
 
     UN DE LA SUITE.
-O dure loy du sort !  
+        O dure loy du sort !  
 
     BRUTE.
 Les hommes courent tous une mesme avanture⁎,  
@@ -2588,8 +2588,8 @@ Ce traistre ne sçauroit éviter nostre fer,
 Et nous l'irions chercher jusque dedans⁎ l'Enfer:  
 Poursuy.  
 
-    LE SOLDAT. 
-Le souvenir d'un si sanglant carnage,  
+    LE SOLDAT.
+        Le souvenir d'un si sanglant carnage,  
 Met mon ame en desordre et glace mon courage,  
 Jamais le Ciel n'a veu tant de corps renversez,  
 Et la mort assouvie a crié, c'est assez.  
@@ -2640,7 +2640,7 @@ Ne vit jamais çà bas [253] un desordre pareil ?
 Et que si les grands Dieux sont pour nostre justice,  
 Ils ont fort peu de force, ou beaucoup de malice. [254]  
 
-    OCTAVE. 
+    OCTAVE.
 Ha ! pourquoy dans la fin de ces tristes discours,  
 Ne puis-je rencontrer celle-là de mes jours ?  
 Destins injurieux⁎, fortune, parque⁎, envie, [255]  
@@ -2737,7 +2737,7 @@ Obtenir une place au rang de vos Gendarmes⁎.
 Icy les gens d'honneur peuvent trouver un port  
 Qui les met à couvert des orages du sort.  
 
-    ANTHOINE. 
+    ANTHOINE.
 Cavaliers, vos desirs ont un effet propice,  
 Vous aurez cette place, et rendez nous service.  
 
@@ -2857,7 +2857,7 @@ Et nous fait une planche au milieu des naufrages,
 Au lieu qu'on voit toujours un violant transport⁎  
 Agiter nostre esprit et l'esloigner du port.  
 
-    PORCIE. 
+    PORCIE.
 Apres un tel bon-heur qu'est-il que j'aprehende ?  
 Ayant Brute vainqueur, j'ay ce que je demande.  
 
@@ -3148,7 +3148,7 @@ Pour m'estimer encor en ce moment extreme,
 Qu'il prenne ce poignard, et m'en donne la mort,  
 Je dois sçavoir par là s'il est vray que l'on m'ayme.  
 
-    L’UN DES AMIS. 
+    L’UN DES AMIS.
 Avant de consentir à ce coup furieux,  
 Je vay chercher la mort au milieu de l'armée,  
 Et si je ne voy point son bras officieux⁎,  
@@ -3363,7 +3363,7 @@ Je cognois cent chemins pour aller aux enfers.
 Octave vient à nous.  
 
     PORCIE.
-Verray-je ce perfide  
+        Verray-je ce perfide  
 Coupable de ma perte et de cét homicide ?  
 Non, fuyons le plustost, et perdons la clarté  
 Puis que Rome a perdu Rome et la liberté.  
@@ -3391,7 +3391,7 @@ Ils porteroient au Ciel leurs corps avec leurs crimes,
 Je feray mes efforts pour pouvoir entasser  
 Osse sur Pelion et les en deschasser⁎. [313]  
 
-    ANTHOINE. 
+    ANTHOINE.
 J'approuve ce dessein, et fais vœu de le suivre  
 Tout autant que les Dieux me voudront laisser vivre;  
 Mais il faut balancer⁎ les choses par raison,  
@@ -3439,7 +3439,7 @@ UN SOLDAT DE BRUTE, ANTHOINE, ET OCTAVE.
 J'ay donc veu sans mourir ce comble de malheur  
 Dont l'image tousjours est dans mon cœur emprainte ?  
 
-    ANTHOINE. 
+    ANTHOINE.
 Soldat viens et nous dis la cause de ta plainte.  
 
     LE SOLDAT.

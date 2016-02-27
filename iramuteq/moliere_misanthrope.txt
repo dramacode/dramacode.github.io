@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_misanthrope *id_I01 *act_I *date_1666 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1666 *creator_moliere
 
 -*who_philinte
 Qu'est-ce donc ? qu'avez-vous ?
@@ -406,7 +406,7 @@ Mais la Raison n'est pas ce qui règle l'Amour.
 Je crains fort pour vos Feux ; et l'espoir où vous êtes,
 Pourrait…
 
-**** *book_moliere_misanthrope *id_I02 *act_I *date_1666 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1666 *creator_moliere
 
 -*who_oronte
       J'ai su là-bas que, pour quelques Emplettes
@@ -751,7 +751,7 @@ Je suis votre Valet, Monsieur, de tout mon coeur.
 -*who_alceste
 Et moi, je suis, Monsieur, votre humble Serviteur.
 
-**** *book_moliere_misanthrope *id_I03 *act_I *date_1666 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1666 *creator_moliere
 
 -*who_philinte
 Hé bien, vous le voyez ; pour être trop sincère,
@@ -800,7 +800,7 @@ Ah ! parbleu, c'en est trop, ne suivez point mes pas.
 -*who_philinte
 Vous vous moquez de moi, je ne vous quitte pas.
 
-**** *book_moliere_misanthrope *id_II01 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1666 *creator_moliere
 
 -*who_alceste
 Madame, voulez-vous que je vous parle net ?
@@ -930,7 +930,7 @@ Mais il ne tient qu'à vous, que son chagrin ne passe ;
 À tous nos Démêlés, coupons chemin, de grâce,
 Parlons à Coeur ouvert, et voyons d'arrêter…
 
-**** *book_moliere_misanthrope *id_II02 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1666 *creator_moliere
 
 -*who_celimene
 Qu'est-ce ?
@@ -974,7 +974,7 @@ Enfin, quoi qu'il en soit, et sur quoi qu'on se fonde,
 Vous trouvez des Raisons pour souffrir tout le Monde ;
 Et les précautions de votre jugement…
 
-**** *book_moliere_misanthrope *id_II03 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1666 *creator_moliere
 
 -*who_basque
 Voici Clitandre, encor, Madame.
@@ -1017,7 +1017,7 @@ Je le veux, je le veux.
 -*who_celimene
 Hé bien ! allez, sortez, il vous est tout loisible.
 
-**** *book_moliere_misanthrope *id_II04 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1666 *creator_moliere
 
 -*who_eliante
 Voici les deux Marquis, qui montent avec nous ;
@@ -1330,7 +1330,7 @@ C'est pour rire, je crois.
       Non, en aucune sorte,
 Nous verrons, si c'est moi, que vous voudrez qui sorte.
 
-**** *book_moliere_misanthrope *id_II05 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1666 *creator_moliere
 
 -*who_basque
 Monsieur, un Homme est là, qui voudrait vous parler,
@@ -1351,7 +1351,7 @@ Ou bien, faites-le entrer.
       Qu'est-ce, donc, qu'il vous plaît ?
 Venez, Monsieur.
 
-**** *book_moliere_misanthrope *id_II06 *act_II *date_1666 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1666 *creator_moliere
 
 -*who_garde
       Monsieur, j'ai deux Mots à vous dire.
@@ -1430,7 +1430,7 @@ Où vous devez.
       J'y vais, Madame, et, sur mes pas
 Je reviens en ce Lieu, pour vider nos Débats.
 
-**** *book_moliere_misanthrope *id_III01 *act_III *date_1666 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1666 *creator_moliere
 
 -*who_clitandre
 Cher Marquis, je te vois l'Âme bien satisfaite,
@@ -1552,7 +1552,7 @@ Ah ! parbleu, tu me plais, avec un tel langage ;
 Et du bon de mon coeur, à cela je m'engage.
 Mais chut.
 
-**** *book_moliere_misanthrope *id_III02 *act_III *date_1666 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1666 *creator_moliere
 
 -*who_celimene
       Encore ici ?
@@ -1567,7 +1567,7 @@ Savez-vous qui c'est ?
 -*who_clitandre
       Non.
 
-**** *book_moliere_misanthrope *id_III03 *act_III *date_1666 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1666 *creator_moliere
 
 -*who_basque
       Arsinoé, Madame,
@@ -1608,7 +1608,7 @@ Enfin, je n'ai rien vu de si sot, à mon gré,
 Elle est impertinente au suprême Degré ;
 Et…
 
-**** *book_moliere_misanthrope *id_III04 *act_III *date_1666 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1666 *creator_moliere
 
 -*who_celimene
       Ah ! quel heureux Sort, en ce Lieu vous amène ?
@@ -1814,7 +1814,7 @@ Que, sans me faire tort, je ne saurais remettre ;
 Soyez avec Madame, elle aura la bonté
 D'excuser, aisément, mon incivilité.
 
-**** *book_moliere_misanthrope *id_III05 *act_III *date_1666 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1666 *creator_moliere
 
 -*who_arsinoe
 Vous voyez, elle veut que je vous entretienne,
@@ -1943,7 +1943,7 @@ De l'infidélité du Coeur de votre Belle ;
 Et si, pour d'autres yeux, le vôtre peut brûler,
 On pourra vous offrir de quoi vous consoler.
 
-**** *book_moliere_misanthrope *id_IV01 *act_IV *date_1666 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1666 *creator_moliere
 
 -*who_philinte
 Non, l'on n'a point vu d'Âme à manier, si dure,
@@ -2052,7 +2052,7 @@ Et je vous parle, ici, du meilleur de mon Âme ;
 J'attends l'occasion de m'offrir hautement,
 Et de tous mes souhaits, j'en presse le moment.
 
-**** *book_moliere_misanthrope *id_IV02 *act_IV *date_1666 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1666 *creator_moliere
 
 -*who_alceste
 Ah ! faites-moi raison, Madame, d'une Offense
@@ -2152,7 +2152,7 @@ Je vais, de sa noirceur, lui faire un vif reproche,
 Pleinement, la confondre, et vous porter, après,
 Un Coeur tout dégagé de ses trompeurs Attraits.
 
-**** *book_moliere_misanthrope *id_IV03 *act_IV *date_1666 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1666 *creator_moliere
 
 -*who_alceste
 Ô Ciel ! de mes Transports, puis-je être, ici, le Maître ?
@@ -2378,7 +2378,7 @@ C'est me vouloir du Bien d'une étrange manière !
 Me préserve le Ciel que vous ayez matière…
 Voici Monsieur Du Bois, plaisamment figuré.
 
-**** *book_moliere_misanthrope *id_IV04 *act_IV *date_1666 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1666 *creator_moliere
 
 -*who_alceste
 Que veut cet équipage, et cet air effaré ?
@@ -2508,7 +2508,7 @@ Ait juré d'empêcher que je vous entretienne :
 Mais, pour en triompher, souffrez à mon Amour,
 De vous revoir, Madame, avant la fin du Jour.
 
-**** *book_moliere_misanthrope *id_V01 *act_V *date_1666 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1666 *creator_moliere
 
 -*who_alceste
 La résolution est prise, vous dis-je.
@@ -2646,7 +2646,7 @@ Dans ce petit Coin sombre, avec mon noir Chagrin.
 C'est une Compagnie étrange, pour attendre,
 Et je vais obliger Eliante à descendre.
 
-**** *book_moliere_misanthrope *id_V02 *act_V *date_1666 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1666 *creator_moliere
 
 -*who_oronte
 Oui, c'est à vous, de voir, si par des Noeuds si doux,
@@ -2757,7 +2757,7 @@ Ce que vous demandez, a-t-il de la justice :
 Et ne vous dis-je pas quel Motif me retient ?
 J'en vais prendre pour Juge, Éliante qui vient.
 
-**** *book_moliere_misanthrope *id_V03 *act_V *date_1666 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1666 *creator_moliere
 
 -*who_celimene
 Je me vois, ma Cousine, ici persécutée
@@ -2791,7 +2791,7 @@ Je ne veux qu'un seul Mot, pour finir nos débats.
 -*who_alceste
 Et moi, je vous entends, si vous ne parlez pas.
 
-**** *book_moliere_misanthrope *id_V04 *act_V *date_1666 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1666 *creator_moliere
 
 -*who_acaste
 Madame, nous venons tous deux, sans vous déplaire,

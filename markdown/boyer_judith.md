@@ -634,7 +634,7 @@ Et soyez malheureux sans être criminels.
 Retirez-vous.  
 
     UN BETULIEN
-Craignez que ces peuples rebelles...  
+        Craignez que ces peuples rebelles...  
 
     OZIAS
 Ne m'importunez plus par des plaintes nouvelles. [36]  
@@ -692,7 +692,7 @@ Faites ce que j'ai dit.
 ### SCENE II
 
     OZIAS *seul*
-Je brûle de sçavoir  
+        Je brûle de sçavoir  
 Par quel motif Judith usurpe mon pouvoir ;  
 Et ne pouvant douter de sa sagesse extréme,  
 Je ne puis retrouver Judith en elle-même.  
@@ -706,12 +706,12 @@ OZIAS, UN BETULIEN
 Pourquoy ce prompt retour ?  
 
     UN BETULIEN
-Je reviens étonné⁎  
+        Je reviens étonné⁎  
 De voir par des soldats Achior emmené :  
 Il vous cherche.  
 
     OZIAS
-Achior ! lui chef des Ammonites,  
+        Achior ! lui chef des Ammonites,  
 Lui qu'on pouvoit compter entre nos Proselites,  
 Et qui fut de nos loix secret observateur ? [46]  
 Un si fameux guerrier trahy par son malheur  
@@ -726,7 +726,7 @@ OZIAS, ACHIOR
 
 
     OZIAS
-Quel malheur que je ne puis comprendre,  
+        Quel malheur que je ne puis comprendre,  
 Ou plutôt quel bonheur⁎ vous conduit en ces lieux ?  
 
     ACHIOR
@@ -768,7 +768,7 @@ Il vous envoye ici pour vous perdre avec nous.
 Quel orgueil !  
 
     ACHIOR
-Cet orgueil se nourrit et s'augmente  
+        Cet orgueil se nourrit et s'augmente  
 Au milieu d'une Cour superbe⁎ et triomphante,  
 Où sa gloire⁎ est toujours presente à ses regards.  
 Des peuples à grands flots y vont de toutes parts,  
@@ -852,7 +852,7 @@ Obtenez son aveu⁎ ; ce discours vous étonne⁎.
 Et par quel droit Judith...  
 
     OZIAS
-Judith commande, ordonne,  
+        Judith commande, ordonne,  
 Je me rens auprés d'elle et je commence à voir  
 Jusqu'où le Ciel étend sa gloire⁎ et son pouvoir.  
 
@@ -878,7 +878,7 @@ Quand l'Oracle se taît, son unique interprete.
 Vous flatez⁎ son orgueil.  
 
     OZIAS
-Etranger en ces lieux  
+        Etranger en ces lieux  
 Donnez-vous le loisir de la connoître mieux.  
 Vous la verrez modeste⁎, humble dans l'abondance,  
 Et ne comptant pour bien que la seule innocence ;  
@@ -896,7 +896,7 @@ JUDITH, OZIAS, ACHIOR, ABRA
 
 
     OZIAS
-Voyez-la sans art⁎ et sans parure,  
+        Voyez-la sans art⁎ et sans parure,  
 Se bornant sagement aux soins de la Nature,  
 Simple, et qui toutefois fait paroître à nos yeux  
 Sur son auguste front un air imperieux.  
@@ -919,7 +919,7 @@ Au Prince des Hebreux tout mon discours s'adresse.
 Si ma presence...  
 
     JUDITH
-Non. Il n'est rien entre nous  
+        Non. Il n'est rien entre nous  
 que ne puisse écouter un homme comme vous.  
 à Ozias
 
@@ -989,7 +989,7 @@ Je dois vous le cacher, et le Ciel me l'ordonne.
 Cet ordre est-il pour nous ?  
 
     JUDITH
-Il n'excepte personne.  
+        Il n'excepte personne.  
 
     OZIAS
 Mais contre l'ennemi ce coup qu'on doit tenter,  
@@ -999,10 +999,10 @@ Ce dessein étonnant⁎, qui doit l'executer ?
 Moy.  
 
     OZIAS
-Vous !  
+    Vous !  
 
     JUDITH
-Plus l'entreprise est hardie et nouvelle⁎,  
+        Plus l'entreprise est hardie et nouvelle⁎,  
 Plus ma foy s'affermit quand ma raison chancelle. [82]  
 
     ACHIOR
@@ -1103,20 +1103,20 @@ Judith va triompher de tous nos Ennemis.
 Judith ? et quel secours...  
 
     ACHIOR
-Judith nous l'a promis.  
+        Judith nous l'a promis.  
 
     MISAEL
 Sur la foi de Judith, sur cet espoir frivole.  
 Quel gage , quel garand...  
 
     ACHIOR
-Sa vertu⁎, sa parole.  
+        Sa vertu⁎, sa parole.  
 En faut-il davantage ? ici tout retentit  
 Du miracle étonnant⁎ qu'on attend de Judith.  
 Quel trouble, Misael...  
 
     MISAEL
-Ah ! si j'ose vous croire,  
+        Ah ! si j'ose vous croire,  
 Achior, je suis presque affligé de sa gloire⁎.  
 
     ACHIOR
@@ -1127,7 +1127,7 @@ Mais d'un pareil refus l'excuse étoit plausible.
 Consacrée au Seigneur, pouvoit-elle...  
 
     MISAEL
-Ecoutez.  
+        Ecoutez.  
 Le Ciel pourvût Judith de toutes les beautez,  
 Manassés eut pour elle une tendresse extrême ;  
 Il l'aima constamment, et je l'aimai de même.  
@@ -1183,13 +1183,13 @@ ABRA, ACHIOR, MISAEL
 Ah Misael !  
 
     MISAEL
-Parlez, qu'avez vous à nous dire ?  
+        Parlez, qu'avez vous à nous dire ?  
 
     ABRA
 Pour parler sans témoins, faites...  
 
     ACHIOR
-Je me retire.  
+        Je me retire.  
 
     MISAEL
 Ne vous éloignez pas.  
@@ -1200,7 +1200,7 @@ ABRA, MISAEL
 
 
     MISAEL 
-Quel est ce desespoir ?  
+        Quel est ce desespoir ?  
 
     ABRA
 Vous pourrai-je exprimer ce que je viens de voir ?  
@@ -1261,7 +1261,7 @@ Je l'ai crû, Misael, et j'ai parlé pour vous.
 Je puis donc esperer...  
 
     ABRA
-Hé [92] quelle [93] est ta pensée ?  
+        Hé [92] quelle [93] est ta pensée ?  
 M'a-t-elle dit, croirai-je une ardeur insensée ?  
 Le salut des Hebreux occupe tout mon cœur.  
 
@@ -1319,10 +1319,10 @@ Non, Abra, ce n'est point une beauté mortelle.
 Permettez.  
 
     JUDITH
-Levez-vous, Misael.  
+    Levez-vous, Misael.  
 
     MISAEL
-Laissez-moy  
+        Laissez-moy  
 A ces divins appas rendre ce que je doy.  
 C'est un present du Ciel qu'en ces lieux il envoye  
 Pour remplir les Hebreux d'esperance et de joye.  
@@ -1361,7 +1361,7 @@ La superbe⁎ Judith va faire des conquêtes. [97]
 Que me répondrez-vous ?  
 
     JUDITH
-Attendez, admirez⁎  
+        Attendez, admirez⁎  
 Sans rien approfondir, ce que vous ignorez.  
 Apprenez seulement, et ce mot doit suffire ; [98]  
 Que si pour achever ce que le Ciel m'inspire  
@@ -1386,7 +1386,7 @@ Ne pourrai-je sçavoir où vous portez vos charmes⁎ ?
 En quels lieux vous allez....  
 
     JUDITH
-Au Camp des ennemis.  
+        Au Camp des ennemis.  
 
     MISAEL
 Dans le Camp d'Holoferne ? hé vous est-il permis  
@@ -1395,7 +1395,7 @@ Aux brutales fureurs⁎ d'un ennemi barbare ?
 Seule sans suite....  
 
     JUDITH
-Abra ne me quitera pas.  
+        Abra ne me quitera pas.  
 
     MISAEL
 Presumez-vous si fort de vous, de vos appas ?  
@@ -1414,7 +1414,7 @@ Si rien ne vous retient, souffrez que je vous suive.
 Non, je vous le défends.  
 
     MISAEL
-Cet important secret  
+        Cet important secret  
 Craint à ce que je vois un témoin indiscret ;  
 Le salut d'Israël doit être votre ouvrage :  
 Mais peut-être sans vous nous aurons l'avantage  
@@ -1427,13 +1427,13 @@ J'ose tout esperer du secours de nos armes.
 Vous vous perdez.  
 
     MISAEL
-Qu'importe ?  
+    Qu'importe ?  
 
     JUDITH
-Arrétez.  
+    Arrétez.  
 
     MISAEL
-Je ne puis.  
+        Je ne puis.  
 Et n'écoute que moi dans l'état où je suis.  
 Vous esperez au camp une indigne victoire ?  
 J'y seray devant vous pour sauver votre gloire⁎ ;  
@@ -1464,7 +1464,7 @@ Abra, n'en doute point, dans ce pressant besoin
 Cet ami genereux⁎...  
 
     ABRA
-Achior n'est pas loin, [105]  
+        Achior n'est pas loin, [105]  
 Je vais vous l'amener. [106]  
 
 
@@ -1473,7 +1473,7 @@ JUDITH
 
 
     JUDITH *seule*
-A quoi suis-je forcée,  
+        A quoi suis-je forcée,  
 Quand de tant d'autres soins j'ai l'ame embarassée ?  
 Que l'état où je suis m'étonne⁎ et me confond,  
 Seigneur ! et qu'à mes yeux ce mystere est profond !  
@@ -1507,7 +1507,7 @@ Mais loin de condamner mon juste desespoir,
 Touché de mon malheur...  
 
     ACHIOR
-Quand Misael s'emporte  
+        Quand Misael s'emporte  
 Quel frein peut [109] retenir une douleur si forte ?  
 Quoi-que dans cet état trop [110] digne de pitié  
 Il donne des terreurs à ma tendre amitié,  
@@ -1576,7 +1576,7 @@ Ou plutôt pour sçavoir le parti qu'il faut prendre [119]
 Attendons le succés....  
 
     MISAEL
-Je ne sçaurois attendre ;  
+        Je ne sçaurois attendre ;  
 Je veux sans differer, je veux être éclairci ;  
 Judith hazarde tout, hazardons tout aussi.  
 Des plus vaillans Hebreux prenons ce qui nous reste,  
@@ -1677,7 +1677,7 @@ UN OFFICIER ASSYRIEN, HOLOFERNE, etc.
 
 
     OFFICIER
-Nos ennemis, Seigneur,  
+        Nos ennemis, Seigneur,  
 Ont fait une sortie avec tant de vigueur, [129]  
 Que presqu'au haut du mont nos troupes avancées  
 Par leurs premiers efforts ont été renversées ;  
@@ -1700,7 +1700,7 @@ Mais voiant leur ardeur peu durable, impuissante,
 On poursuit...  
 
     HOLOFERNE
-Ton recit fait perdre trop de temps ;  
+        Ton recit fait perdre trop de temps ;  
 Allons, allons hâter le succés que j'attens. [131]  
 
 
@@ -1721,7 +1721,7 @@ Son air ferme, intrepide, et sa mine hautaine,
 Font voir qu'un grand projet...  
 
     HOLOFERNE
-Commandez qu'on l'amene.  
+        Commandez qu'on l'amene.  
 
 
 ### SCENE IV
@@ -1733,7 +1733,7 @@ Quel étrange dessein te conduit en ces lieux !
 Quel secret attentat....  
 
     MISAEL
-Un dessein glorieux⁎.  
+        Un dessein glorieux⁎.  
 Je voulois par ta mort affranchir une Ville  
 De la sainte Sion le principal azile.  
 Dans le dernier combat Achior avec moy  
@@ -1832,7 +1832,7 @@ Par de profonds respects fléchir votre couroux.
 Qu'on la fasse venir.  
 
     L’OFFICIER
-Seigneur, je l'ai laissée  
+        Seigneur, je l'ai laissée  
 Qui marchoit au milieu d'une foule empressée.  
 Si-tôt qu'elle a paru, le Camp de toutes parts  
 Vers elle seule a fait aller tous ses regards :  
@@ -1852,7 +1852,7 @@ Qu'on aille satisfaire à mon impatience,
 Je brûle de la voir.  
 
     MISAEL
-Que je crains sa presence !  
+        Que je crains sa presence !  
 
 
 ### SCENE VI
@@ -1973,7 +1973,7 @@ Si tu ne me crois pas digne d'être écouté,
 Par une prompte mort...  
 
     HOLOFERNE
-Ouy, tu mourras, parjure,  
+        Ouy, tu mourras, parjure,  
 Moins pour ton attentât que pour ton imposture.  
 Qu'on aille l'immoler à mon juste couroux.  
 
@@ -2020,7 +2020,7 @@ Ses plus beaux traits qu'en vous sa main a retracez
 M'inspirent des transports⁎...  
 
     JUDITH
-C'est assez, c'est assez.  
+        C'est assez, c'est assez.  
 Tout flate⁎ mes souhaits ; je voy dans ce langage  
 Des promesses du Ciel l'asseurance et le gage.  
 Je vay le consulter pour apprendre quel temps,  
@@ -2042,7 +2042,7 @@ Holoferne déjà se dispose à se rendre ;
 Vous allez triompher.  
 
     JUDITH
-Hé, que puis-je prétendre  
+        Hé, que puis-je prétendre  
 D'un triomphe honteux dont j'ay lieu de trembler ?  
 Si j'ay vû le Tyran s'attendrir, se troubler,  
 Vois-tu pas quel scrupule empoisonne ma joye ?  
@@ -2193,7 +2193,7 @@ Judith auroit long temps ignoré que je l'aime.
 Où me voy-je reduite ?  
 
     HOLOFERNE
-A de pareils discours  
+        A de pareils discours  
 Les modestes⁎ beautez s'alarmerent toûjours.  
 
     JUDITH *bas*
@@ -2201,7 +2201,7 @@ A quoy m'expose, helas ! notre grande entreprise ?
 J'en frissonne d'horreur.  
 
     HOLOFERNE
-Je voy votre surprise :  
+        Je voy votre surprise :  
 Mais elle va si loin, votre desordre est tel  
 Que vous semblez vous faire un deplaisir mortel [157]  
 De ce qui vous éleve à la gloire⁎ supreme.  
@@ -2269,17 +2269,17 @@ Pour vous faire un destin plus grand, plus honorable,
 Je veux vous épouser. [160]  
 
     JUDITH
-M'épouser !  
+    M'épouser !  
 
     HOLOFERNE
-Avez-vous  
+        Avez-vous  
 Tant d'horreur pour un noeud si pretieux, si doux ?  
 
     JUDITH
 Tant d'honneur m'épouvante.  
 
     HOLOFERNE
-Ah ! faites que je voye  
+        Ah ! faites que je voye  
 Que vous le recevez avecque plus de joye,  
 Ou craignez qu'un amant⁎ que vous desesperez...  
 
@@ -2387,7 +2387,7 @@ Faire aux Betuliens l'image la plus noire.
 Il paroist.  
 
     JUDITH
-Ah ! quel est le trouble où je le voy !  
+        Ah ! quel est le trouble où je le voy !  
 
 
 ### SCENE IV
@@ -2482,7 +2482,7 @@ MISAEL, JUDITH, ABRA
 
 
     MISAEL
-A cét ordre il est temps de se rendre,  
+        A cét ordre il est temps de se rendre,  
 Vous balancez. Allez étaler promptement  
 A cette table impie un objet [173] si charmant⁎ ;  
 Et moy, je vous verray dans cette grande feste,  
@@ -2551,7 +2551,7 @@ Nul espoir ne console un peuple miserable.
 Le Ciel nous abandonne.  
 
     OZIAS
-Hé, quel est ce discours ?  
+        Hé, quel est ce discours ?  
 Entendray-je gemir et murmurer toujours ?  
 Quand on croit de nos maux la mesure comblée ;  
 Esperons...  
@@ -2562,7 +2562,7 @@ OZIAS, ACHIOR , UN BETULIEN
 
 
     OZIAS *continuë*
-Achior l'ame toute troublée...  
+        Achior l'ame toute troublée...  
 
     ACHIOR
 Helas, le croirez-vous ? l'infidelle Judith...  
@@ -2606,7 +2606,7 @@ MISAEL, OZIAS, ACHIOR , UN BETULIEN
 
 
     MISAEL
-Frappé d'un desespoir mortel,  
+        Frappé d'un desespoir mortel,  
 Livrant à la douleur mon ame toute entiere,  
 J'ay marché dans la nuit sans guide et sans lumiere,  
 Et m'égarant sans cesse, aprés un long détour, [177]  
@@ -2694,7 +2694,7 @@ MISAEL, ABRA, OZIAS
 
 
     MISAEL *continuë*
-Quoy seule, et sans Judith ?  
+        Quoy seule, et sans Judith ?  
 
     ABRA
 Judith est de retour, vous l'allez voir paroître :  
@@ -2787,10 +2787,10 @@ Offre un spectacle affreux⁎ qui charme⁎ nos regards. [186]
 Qu'entens-je ?  
 
     ACHIOR
-Juste Ciel !  
+    Juste Ciel !  
 
     ABRA
-Que pouvez-vous répondre ?  
+        Que pouvez-vous répondre ?  
 
     OZIAS
 C'est ainsi que le Ciel se plaît à nous confondre.                 p. 92  
@@ -2828,7 +2828,7 @@ Vous, Ozias, allez achever sa défaite.
 Vous, suivez Ozias.  
 
     ACHIOR
-J'y cours avec ardeur.  
+        J'y cours avec ardeur.  
 Allons par mille morts expier notre- erreur.  
 
 

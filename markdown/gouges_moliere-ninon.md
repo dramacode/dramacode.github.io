@@ -1,5 +1,5 @@
 ---
-identifier: gouges_moliere  
+identifier: gouges_moliere-ninon  
 creator: Gouges, Olympe de  
 date: 1788  
 title: Molière chez Ninon ou Le siècle des grands hommes. Pièce épisodique en prose et en cinq actes.  
@@ -917,7 +917,7 @@ Nous avons aussi rétabli la numérotation logique des scènes du premier acte q
 # MOLIERE CHEZ NINON OU LE SIECLE DES GRANDS HOMMES. PIECE EPISODIQUE, EN PROSE ET EN CINQ ACTES.
 
 
-## PREFACE DE MOLIERE CHEZ NINON.                
+## PREFACE DE MOLIERE CHEZ NINON.
 
 C*onvaincue* de l'animosité de la Comédie Françoise, et assurée de son injustice pour tout ce qui pourroit me concerner, je voulus essayer de nouveau de la mettre à l'épreuve, malgré ce dont elle est capable : mais ai-je pu croire qu'elle auroit égard aux nouveaux efforts que je ferai pour lui présenter un ouvrage qui la rendroit plus équitable envers moi. On a beau se plaindre, on a beau faire, un Auteur ne renonce pas sans peine à la Comédie Françoise, quand une fois il y est parvenu, et qu'il n'y a point échoué. [113] Ce n'est pas les Comédiens qu'il faut considérer ; c'est le Théâtre, c'est le goût de la Nation qui le couvre de gloire, quand il a eu le bonheur de réussir. Mais pour y renoncer sans y avoir échoué, il faut être comme moi rebuté, indigné des Comédiens, comme on le verra dans le cours de ma Préface, par les sacrifices que je me propose de faire, d'après les principes de Mademoiselle Contat [114], de Madame Bellecourt [115], et les prétendus réglemens inebranlables de la Comédie Françoise ; je cherchai dans mon esprit quel moyen je pourrois trouver pour me la rendre favorable. Bientôt mon imagination me fournit le plan de Molière chez Ninon. J'avoue sincèrement que ce fut dans un rêve que j'achevai de le concevoir. A peine ai-je traité ce sujet, qu'enthousiasmée de moi-même, je n'eus plus devant mes yeux les mauvais procédés de la Comédie. En faveur de Molière, je les oubliai tous, et je me figurois que la Comédie, à son tour, prendroit le plus grand intérêt à la Pièce qu'elle doit jouer, et pour celle que j'allois lui offrir, qui portoit un nom sacré pour elle. Avant de lui demander lecture pour cette Pièce, je la soumis aux lumières des Hommes-de-Lettres les plus recommandables du siècle : tous m'en firent les plus grands éloges, et c'est d'après leur sentiment⁎ que je demandai lecture. Quoi ! m'écriai-je ? [116] J'ai fait une bonne Comédie, et c'est à l'injustice des Comediens que je dois cet heureux⁎ sujet ! Molière, leur soutien, leur Fondateur, y joue un si beau rôle ; j'ai eu le bonheur de rendre ce Grand-Homme au naturel. Ah ! combien la Comédie va me savoir bon gré de lui prouver mon amour pour cet homme immortel ! Combien ils seront fâchès⁎ d'avoir mal interprêté mes Lettres ; et combien ils vont m'encourager, et me remercier d'avoir cherché à leur plaire à ce point. Le suffrage des hommes éclairés étoit moins capable de me rassurer que la Lettre de Madame Bellecourt, où je ne voyois plus que ses phrases : « Quant à la Maison de Molière [117], fut-elle aussi mauvaise qu'elle nous le paroît, (car c'est ce qu'elle entendoit dire vraisemblablement), elle porte un nom sacré pour tous les François, je dis plus, pour l'Europe entière ; et je vous assure, Madame, que, depuis les plus savans Littérateurs, jusqu'aux plus ignorans Barbouilleurs de papier, aucun hors vous n'a trouvé extraordinaire l'hommage que nous avons rendu à cet homme immortel ». Après ces lignes, j'ajoutai que tel Auteur, où l'Actrice qui ne me rendra pas justice, en rougissant de honte de m'avoir si mal connue, et si indécemment interprêté mes expressions ; et s'il est vrai que tout ce qui porte le nom de Molière est respecté pour eux, ils recevront ma Pièce, quand elle seroit détestable, pour l'amour de ce Grand-Homme seulement [118]. Tout autre que moi auroit pensé de même. Voilà comme je colorois mes rêveries et mes espérances auprès des Comédiens François. Enthousiasmée d'avoir composé, en moins de six jours, un Ouvrage aussi conséquent, avoir dépouillé l'Histoire des faits les plus intéressans, et les avoir mis en action, sans oublier la plus petite circonstance ; et n'ayant pas perdu de vue le but moral, je me crus, je l'avoue, un talent distingué ; mais les Bulletins de la Comédie [119] m'ont forcé à reconnoître toute ma médiocrité et mon ignorance. Moi qui m'étois instruite pour la première fois [120], le fruit que j'en avois recueilli me faisoit espérer que si je me livrois à l'étude je pourrois trouver moins d'obstacles. Si je m'en rapportois au jugement des Comédiens, je n'apprendrois plus rien, et je deviendrois aussi ignorante qu'eux, quoiqu'ils apprennent beaucoup. Cependant leur opinion n'a pas détruit celle que j'avois de ma Pièce, et que je ne croirai pas déplacée, malgré leur témoignage, à moins que les hommes éclairés qui m'en ont dit du bien me disent qu'ils se sont trompés, et que les Journalistes instruits m'assurent que je suis dans l'erreur. Alors, bonnes gens, je conviendrai que vous avez raison, que vous n'ignorez pas l'Histoire de Molière et de tous les Grands-Hommes que j'ai mis sur la scène, et que je ne vous considérerai plus comme une Troupe joyeuse qui faites [121] rire et pleurer machinalement, et que vous ne connoissez jamais les caractères que vous rendez. Je serai persuadée à jamais que vous êtes spirituels ! savans ! et justes sur-tout ! Je conviendrai donc, en vous demandant pardon d'avance, si ma Pièce est jugée de nouveau, d'après le témoignage que vous en avez rendu, que je suis une femme ridicule ; et que n'ayant pas eu l'esprit de connoître les Personnages que j'ai traités, je n'ai pas même le sens commun, j'ose vous assurer de vous venger de l'outrage que je vous fais, si ce n'est pas au contraire des vérités que vous avez mérité au centuple ; mais voici la Lettre qui va me justifier, et je défie la Comédie de me démentir d'un seul mot de ce que j'avance.
 
@@ -937,7 +937,7 @@ Et qui parlent de tout sans rime ni raison ».
 Il voudra bien me permettre de lui dire à cette occasion deux mots aussi clairs qu'intelligibles : Que quand on veut fronder tout le monde, il faut savoir produire un Ouvrage à l'abri de la critique ; que tous les jeux de mots dont il est farci sont autant d'applications à la Piece qui n'a pas réussi ; que, pour être satyrique dans une Comédie, il faut posséder le talent dramatique ; et c'est ce que mon jargon et mon baragouin pourroient lui enseigner. …………………………………………………………………………………………………………………………………………………………………………………………………….. Je retardai moi-même cette lecture, pour attendre le rétablissement de Mademoiselle Contat ; mais M. Florence m'ayant assuré que sa maladie, quoique très-peu dangereuse, seroit très-longue, et qu'il falloit hâter ma lecture. Elle est donc décidée à un Mercredi. Lecteur, ne me perdez pas de vue actuellement ; si j'ai été verbeuse jusqu'à présent, je vais au fait sans réflexions ; vous en ferez sans doute pour moi. Le Lundi, comme on sait bien, est l'Assemblée générale : je lui écrivis une lettre la plus simple, la plus honnête et la plus courte : la voici.
 
 
-## LETTRE         Ecrite à M.FLORENCE, Semainier perpétuel de la Comédie Françoise.
+## LETTRE Ecrite à M.FLORENCE, Semainier perpétuel de la Comédie Françoise.
 
 « **J***e* vous prie, Monsieur, de prévenir vos Camarades, que Mercredi on lit ma Pièce. J'espère qu'au nom de Molière, toute la Comédie voudra bien s'y trouver, que cet Ouvrage mérite la présence de tous les Comédiens ; que si elle n'est pas reçue, je veux la voir refuser avec les honneurs de la guerre, pour me bien persuader que mes Juges sont impartiaux.
 
@@ -957,12 +957,12 @@ Il voudra bien me permettre de lui dire à cette occasion deux mots aussi clairs
 A l'égard de M. Fleuri, je me suis étendue un peu plus loin ; j'étois à même de faire dans cet instant la différence d'un homme bien né d'avec un homme mal élevé. J'avois trouvé dans un grand Prince tant de simplicité, tant d'honnêteté à m'accorder la grace⁎ que je lui demandois, qu'en vérité les mauvaise façons des Comédiens envers une femme me parurent insupportables, et mes réflexions s'étendirent dans ma lettre jusqu'à M. Fleuri.
 
 
-## LETTRE         A M. FLEURI.
+## LETTRE A M. FLEURI.
 
 **J***'ai* tort de me plaindre, Monsieur. En effet, la Comédie, en général, a les meilleures façons pour moi ; vous m'aviez paru vouloir vous distinguer de l'honnêteté ordinaire, dont elle avoit usé à mon égard. Je n'aurois jamais cru que Molière, sous mon nom, eût si peu de crédit sur elle ; elle m'avoit écrit, qu'à sa consideration, le plus médiocre Ouvrage seroit toujours respecté par elle. On ne connoît point le mien, et on se refuse même à la lecture. Je vous avois assez intéressé dans cette Pièce, Monsieur, pour espérer que vous me feriez la grace⁎ de vous y trouver. J'avois, ces jours derniers, à demander à un grand Prince une grace⁎ ; il me l'a accordée avec tant de bonté et d'empressement, qu'une femme délicate auroit toujours besoin d'avoir affaire à des hommes de ce caractère : en encourageant mon sexe, c'est donner l'idée de la véritable façon de penser de l'homme. Vous m'aviez promis, Monsieur, de vous trouver à cette lecture ; je me plais à croire que vous étiez dans l'impossibilité de vous y rendre. Enfin, Dimanche prochain, peut-être, je serai plus heureuse⁎, et l'on me dédommagera sans doute des maux que j'ai éprouvés, du peu de zèle que les Comédiens m'ont témoigné jusqu'à présent, et de l'oubli même de ses réglemens envers moi.
 
 
-« J'ai l'honneur d'être, etc. »                        
+« J'ai l'honneur d'être, etc. »
 
 L'on doit croire que M. Fleuri se justifiera honnêtement de ne s'être pas trouvé au Comité, et qu'il me persuadera, que, malgré qu'il ne soit point un Prince, il n'en a pas moins la délicatesse due à mon sexe : la veille qu'on devoit lire ma Pièce, il me fit dire lestement, par l'Ouvreuse de Loges, que quelqu'un me demandoit. Quelle fut ma surprise, de voir que M. Fleuri, qui me tira à l'écart, me dit indiscrètement que, comme il étoit dangereux de m'écrire, il venoit me faire sa réponse de vive-voix ! Ce début me parut, (et on doit le croire,) aussi insolent que déplacé ; mais j'écoutai jusqu'à la fin : il m'ajouta que, si je n'étois point une femme, il m'apprendroit comment on répond à une lettre aussi impertinente que la mienne. A ces mots, il ne m'auroit fallu qu'une épée, et j'aurois bientôt été une autre Chevalière d'Eon [133]. Le sang me bouilloit dans les veines ; mais je sçus me respecter : il continua en ajoutant qu'il n'étoit point un Prince, mais un Comédien. Hélas ! lui répondis-je, je ne le vois que trop… Mais d'après Molière, je pensois qu'un Comédien devoit avoir les principes d'un homme bien né : ce n'est certainement pas de ceux de votre trempe, et je m'en fus en haussant les épaules. J'entendis derrière moi les mêmes paroles de M. Florence, qu'il ne se trouveroit jamais à mes lectures, et qu'il avoit voulu me le confirmer lui-même. J'appris que ces deux Messieurs avoient fait vacarme dans le Foyer, et dans les Coulisses, et qu'ils se plaignoient amèrement à tous leurs Camarades de mon insolence, et de ma fierté. La conspiration fut donc parfaite, et mon ouvrage proscrit avant la lecture : aucun Comédien, si fourbe qu'il puisse être, ne pourra démentir ce que j'avance ; et qu'on juge à présent si j'ai quelque chose à me reprocher à l'égard de la Comédie ; si ce n'est d'avoir eu trop de constance et de modération pour tant de mauvais procédés. Mais actuellement que l'indignité est à son comble, je renonce entièrement à la Comédie, et lui fais le traitement qu'elle mérite, en reprenant ma place. Que mon Lecteur lise mon aimable Ninon, et prononce sur son sort, pour trouver les Bulletins de la Comédie plus ridicules que sages ; et après cela, je demanderai s'il n'y a rien de pire au monde que des Comédiens assemblés, sans délicatesse, sans bienséance, et sans la plus petite ombre d'équité : c'est à la fin de cette Pièce qu'on trouvera la sentence qui la condamne à l'estime publique.
 
@@ -1000,10 +1000,8 @@ L'on doit croire que M. Fleuri se justifiera honnêtement de ne s'être pas trou
 La Scène se passe chez Ninon, au Marais.
 
 
-MOLIERE CHEZ NINON, PIECE EPISODIQUE.
 
-
-## ACTE PREMIER.    
+## ACTE PREMIER.
 Le Théâtre représente un Sallon à l'antique, richement meublé, plusieurs portraits, entre autres Monsieur et Madame de l'Enclos, père et mère de Ninon ; les Bustes de plusieurs Grands Hommes, sur des piédestaux ; plusieurs instruments de musique, comme Clavecin, Luth, et autres [134].
 
 
@@ -1033,7 +1031,7 @@ Que voulez-vous que je vous dise, Mademoiselle ? Je n'ai pas la force de me cou
     M*elle* LE ROI.
 Mademoiselle de l'Enclos ne prétend pas que ses gens veillent aussi tard qu'elle ; nous avons ordre de nous coucher à minuit, pourquoi ne vous y conformez-vous pas ?
 
-    FRANCISQUE.    
+    FRANCISQUE.
 Est-il possible qu'un brave serviteur abuse des bontés de la Maîtresse ! Je vous avoue, Mademoiselle, que c'est par zèle que je lui désobéis.
 
     M*lle* LE ROI.
@@ -1054,7 +1052,7 @@ Oh ! je vous en réponds [136] !
     FRANCISQUE.
 Aussi le célèbre Molière disoit-il à Monsieur de Saint-Evremont et à Monsieur de la Rochefoucault ; « Ninon est un brave homme sous les traits d'une femme », et les plus grands de la Cour pensent de même sur son compte. A propos, nous n'avons pas encore vu, depuis son retour de l'armée, Monsieur le Prince de Condé.
 
-    M*lle* LE ROI.    
+    M*lle* LE ROI.
 Oh ! Je suis bien sûre qu'il ne manquera pas de venir voir Mademoiselle ; ce n'est pas ce qui m'inquiète. Mais ce qui m'allarme pour elle, c'est ce Monsieur Desyvetaux, qui ne reparoît plus depuis six mois. Elle a mis je ne sais combien de gens en campagne pour le découvrir sans en avoir encore aucune nouvelle… A propos, Mademoiselle m'a fort recommandé de vous donner ce matin cette lettre pour la porter à Monsieur de Gourville.
 
 
@@ -1070,7 +1068,7 @@ Et voilà précisément ce qui le fâche⁎. Je crois avoir entrevu qu'il en est
     M*lle* LE ROI.
 Son règne ne sera pas long, puisqu'il part ce matin pour l'armée.
 
-    FRANCISQUE.   
+    FRANCISQUE.
 Que me dites-vous là ? Et de quand cette nouvelle ?
 
     M*lle* LE ROI.
@@ -1093,7 +1091,7 @@ LES MÊMES, LE GRAND-PRIEUR.
     LE GRAND-PRIEUR, *arrêtant Francisque par le bras*.
 **E***coute*, mon ami, j'ai à te parler pour tes intérêts et les miens.
 
-    FRANCISQUE.    
+    FRANCISQUE.
 Monsieur, mon devoir m'appelle ailleurs.
 
     LE GRAND-PRIEUR.
@@ -1113,7 +1111,7 @@ LE GRAND-PRIEUR, M*lle* LE ROI.
     M*lle* LE ROI.
 C'est à mon tour maintenant ; mais vous allez voir si je suis plus traitable que mon camarade.
 
-    M. LE GRAND-PRIEUR.    
+    M. LE GRAND-PRIEUR.
 Bon jour, Mademoiselle le Roi, comment se porte l'incomparable Ninon ?
 
     M*lle* LE ROI.
@@ -1156,7 +1154,7 @@ J'y suis : elle est sanglante…
 Plions ceci pour en faire usage quand il sera tems.
 
 
-### SCENE VI.                        
+### SCENE VI.
 NINON, LE GRAND-PRIEUR.
 
 
@@ -1181,7 +1179,7 @@ Je le crois ; mais je ne puis répondre à vos sentimens. L'amitié que je vous
     M. LE GRAND-PRIEUR.
 Sans doute, elle feroit mon bonheur, si j'avois commencé, comme vos amis, par obtenir un titre plus doux.
 
-    NINON.    
+    NINON.
 Y pensez-vous, Monsieur ? Tous les hommes qui font le charme de ma société, ont-ils été mes amans ? L'Abbé Gedoin, Monsieur de la Rochefoucault, L'Abbé de Château-Neuf, Chapelle, Scaron, Desyveteaux ; tous ces hommes recommandables n'ont jamais aspiré qu'à mon estime.
 
     M. LE GRAND-PRIEUR.
@@ -1215,7 +1213,7 @@ MOLIERE, CHAPELLE, NINON.
     CHAPELLE.
 Oui, si c'est à un amant qu'elle écrit.
 
-    MOLIERE.    
+    MOLIERE.
 Mais, si c'est à un ami, nous commettons une imprudence.
 
     NINON, *se retournant*.
@@ -1245,7 +1243,7 @@ Oui, si l'amour méprisé fait souffrir et rend l'homme injuste.
     MOLIERE.
 Je gagerois que c'est notre Grand-Prieur amoureux.
 
-    NINON.    
+    NINON.
 Tout juste.
 
     MOLIERE.
@@ -1279,7 +1277,7 @@ Je renonce sans peine à tes foibles appas :
 Mon amour te prêtoit des charmes,  
 Ingrate, que tu n'avois pas ». [141]  
 
-    CHAPELLE.    
+    CHAPELLE.
 On voit du Grand-Prieur tout pur.
 
     MOLIERE.
@@ -1309,7 +1307,7 @@ Il faut envoyer les Vers à leur auteur.
     NINON.
 Cela n'est pas nécessaire : épargnons-lui le ridicule d'ajouter à ma réponse, que le dépit me l'a dictée.
 
-    MOLIERE.    
+    MOLIERE.
 Moi, je me charge de la répandre : vous ne craignez pas la publicité de son épigramme.
 
     NINON.
@@ -1330,7 +1328,7 @@ Cela trouvera sa place, je vous en réponds [144].
     NINON.
 A propos, il faut que je vous raconte, mon cher Molière, une bonhommie⁎ de Madame de Villarceaux. Elle tient un peu à son ignorance et à la petitesse de son esprit. Elle ignore sans doute que son mari la venge secrettement, avec Madame Scaron, du larcin que je lui avois fait de son cœur [145]. L'amour et l'amitié me trahissent à la fois, mais je leur pardonne. La Châtre d'ailleurs règne seul dans mon ame depuis quelque tems. Il part ce matin, et voilà mon plus grand malheur.
 
-    CHAPELLE.    
+    CHAPELLE.
 C'est lui qui est le plus à plaindre.
 
     MOLIERE, *à Ninon, en faisant signe à Chapelle de se taire*.
@@ -1345,7 +1343,7 @@ Quelle femme ridicule ! Cela va me faire une scène délicieuse. Il me semble v
     NINON.
 Comme il saisit avec facilité toutes les nuances !
 
-    CHAPELLE.    
+    CHAPELLE.
 En vous parlant, je gagerois qu'il compose déjà sa Pièce.
 
     MOLIERE.
@@ -1375,7 +1373,7 @@ Le Misantrope [150] ?
     MOLIERE, *lui baisant la main*.
 Personne ne m'a deviné que vous.
 
-    NINON.    
+    NINON.
 Je m'en applaudirai toujours. Combien, dans la situation où je me trouve, votre confiance m'est nécessaire ! Vos aimables lectures me font oublier souvent ce que j'ai de plus cher, et dans cette circonstance elles me consoleront de la perte que je vais faire.
 
     CHAPELLE.
@@ -1402,7 +1400,7 @@ En vérité, il est fou.
     MOLIERE.
 Si j'étois bien sage, est-ce que je ferois des Pièces de Théâtre, en connoissant tous les inconvéniens.
 
-    CHAPELLE, *à Ninon*.    
+    CHAPELLE, *à Ninon*.
 Son génie l'emporte sur sa raison.
 
     NINON.
@@ -1439,7 +1437,7 @@ Vous l'admirez comme elle le ferait, si elle avait le bonheur de vous connaître
 Aurais-je jamais eu le courage d'abandonner la Couronne à vingt-sept ans ? Ornement si flatteur pour une jeune souveraine.
 
 
-### SCENE IX.                    
+### SCENE IX.
 LES MÊMES, M*lle* LE ROI.
 
 
@@ -1456,7 +1454,7 @@ Ah ! je l'avais oublié ; c'est ma jeune fille de qualité [155]. Je m'applaud
 Mademoiselle, allez la chercher et la conduisez [156] ici.
 
 
-### SCENE X.                            
+### SCENE X.
 NINON, MOLIERE, CHAPELLE.
 
 
@@ -1470,7 +1468,7 @@ Je m'en vais vous lire sa lettre et vous la connaîtrez en peu de mots.
 « Monsieur,
 C'est l'être le plus infortuné, la fille la plus à plaindre, qui prend la liberté de vous instruire de ses malheurs. Je n'espère qu'en vos bontés, Monsieur ; je connais vos nobles procédés, votre génie et tous vos ouvrages. J'étais née, peut-être, avec d'heureuses⁎ dispositions pour la Comédie ; mon rang, ma fortune m'ont empêché de suivre mon penchant. La nécessité me force aujourd'hui de prendre ce parti. Je n'ai que seize ans ; on veut m'unir à un homme de soixante. J'aime, je suis aimée d'un jeune homme bien né à qui mes parens me refusent cruellement ; j'ai réfléchi sur le pas que j'allais faire ; j'ai vu que le préjugé avait plus de part à la tâche de Comédien qu'à l'état même ; qu'un engagement dans votre troupe ne pouvait déroger ni à mon nom, ni à mes sentimens. J'irai me présenter demain chez-vous. Je sais par cœur tout votre Théâtre ; vous examinerez à quel emploi je puis-être propre. »
 
-    CHAPELLE.    
+    CHAPELLE.
 Au rôle d'amoureuse, à coup sûr : cela va te faire un sujet bien intéressant.
 
     MOLIERE.
@@ -1524,7 +1522,7 @@ Je n'en ai pas mieux fait, et si j'étois à recommencer, je ne sais pas si je l
     CHAPELLE.
 Voilà l'homme ! il ne sera jamais content. Celui ci est couvert de gloire, et il se plaint encore.
 
-    NINON.    
+    NINON.
 En effet, je ne vous conçois pas, Molière ; quand tout le monde fait votre éloge.
 
     MOLIERE.
@@ -1548,7 +1546,7 @@ Voilà son proverbe familier.
     CHAPELLE.
 C'est qu'il est juste et bien appliqué.
 
-    OLIMPE.    
+    OLIMPE.
 Mais puis-je, Monsieur Molière, vous faire une question ?
 
     MOLIERE.
@@ -1572,7 +1570,7 @@ Et Mademoiselle ne prend le parti violent de la Comédie, qu'après avoir consul
     M*lle* OLIMPE.
 Il est vrai, Mademoiselle, et je suis d'autant plus affligée, que mon Amant est sans parents, et n'a d'autre protecteur, d'autre appui que mon père ; il a tout perdu, en perdant son amitié ; et il ne lui reste d'autre ressource que la Comédie. Ressource, qui doit nous unir un jour l'un à l'autre ; et résolus de prendre ce parti, nous nous sommes jurés une foi éternelle.
 
-    NINON.    
+    NINON.
 Ah ! Mademoiselle, qu'avez-vous fait ? Je n'aime pas les sermens d'amour, il semble qu'ils ne soient prononcés que pour être violés ; mais ce jeune homme m'intéresse autant que vous sans le connoître.
 (A part)
 
@@ -1614,7 +1612,7 @@ Expliquez-vous, Mademoiselle.
 
 J'ai bien peur…
 
-    CHAPELLE.    
+    CHAPELLE.
 Oh ! tu peux l'engager.
 
     OLIMPE.
@@ -1641,7 +1639,7 @@ Mais cette Bonne me parait bien traitable.
     OLIMPE.
 J'en conviens ; mais je n'ai jamais mis à l'épreuve une facilité qui m'aurait perdue [160].
 
-    NINON.    
+    NINON.
 Que vous êtes heureuse⁎ de prévoir de si loin et d'être aussi forte.
 
     OLIMPE.
@@ -1695,7 +1693,7 @@ C'est pour cette raison que je crains que vous n'y manquiez.
 
 
 
-### SCENE XIII.                        
+### SCENE XIII.
 MOLIERE, CHAPELLE.
 
 
@@ -1713,7 +1711,7 @@ Nous nous verrons ce soir.
 (*il sort.*)
 
 
-### SCENE XIV                        
+### SCENE XIV
 NINON, MOLIERE.
 
 
@@ -1739,7 +1737,7 @@ Vous verrez Monsieur de Chateauroux, vous lui peindrez les dangers que court sa 
 J'y consens, d'après la bonne idée que vous avez de mes moyens.
 
 
-### SCENE XV.                        
+### SCENE XV.
 LES MÊMES, M. DE GOURVILLE, FRANCISQUE.
 
 
@@ -1763,7 +1761,7 @@ Je suis confus de paraître devant elle, sur-tout après l'avoir soupçonnée d'
     NINON.
 Approchez, Gourville, nous sommes confus tous les deux, et nous craignons de nous expliquer. Dans votre absence, il m'est arrivé un grand malheur, que je vous prie de me pardonner.
 
-    GOURVILLE *à part*.    
+    GOURVILLE *à part*.
 Je m'y attendais ; ceci ne me surprend pas ; à ce début, ma cassette va se trouver volée.
 
     NINON.
@@ -1784,7 +1782,7 @@ Mais je ne vois rien là de méritoire ; y a-t-il rien de plus juste que de res
     MOLIERE.
 Vous avez raison ; un bien qu'on nous a confié est un dépôt sacré. Et cependant votre conduite l'étonne, tant l'abus de confiance est commun parmi les hommes ; mais moi je n'en suis pas surpris de votre part.
 
-    GOURVILLE, *dans le plus grand attendrissement*.    
+    GOURVILLE, *dans le plus grand attendrissement*.
 Je tombe à vos genoux ; non, ce n'est qu'à vos pieds que je dois expier l'injure cruelle que j'ai pu vous faire.
 
     NINON.
@@ -1849,7 +1847,7 @@ Les beaux jours sont à Paris actuellement. Les fureurs⁎ des guerres civiles s
     MOLIERE, *à Gourville*.
 Les moments leur sont chers, Monsieur Gourville : croyez-moi, imitez-moi : Ninon, j'ai affaire et je vous laisse.
 
-    GOURVILLE.    
+    GOURVILLE.
 Je sors avec vous, Monsieur Molière.
 
     NINON.
@@ -1875,7 +1873,7 @@ LES MÊMES, FRANCISQUE.
     FRANCISQUE.
 **M***ademoiselle*, Madame la Marquise de la Sablière vous fait savoir, que Monsieur Desyvetaux est retrouvé, qu'il est dans sa maison de campagne du Fauxbourg Saint Germain, qu'il se cache, et que ses gens sont habillés en paysans.
 
-    NINON.    
+    NINON.
 Je vais sur le champ faire mettre mes chevaux ; Molière, vous m'accompagnerez. Voulez-vous être de la partie, Monsieur de Gourville ? Pour vous, La Châtre, c'est impossible.
 
     LA CHATRE, *avec dépit*.
@@ -1895,7 +1893,7 @@ LES MÊMES, FRANCISQUE.
 **F***rancisque*, prenez cette cassette et suivez Monsieur.
 
 
-### SCENE XIX.                        
+### SCENE XIX.
 NINON, LA CHATRE.
 
 
@@ -1964,7 +1962,7 @@ NINON, LA CHATRE, FRANCISQUE.
     FRANCISQUE.
 **M***onsieur* le Comte de Fiesque fait demander, Mademoiselle, si vous êtes visible.
 
-    LA CHATRE *allarmé*.    
+    LA CHATRE *allarmé*.
 O ma chère Ninon, évitez sa présence : vous m'avez avoué que s'il n'était pas parti pour son voyage de Rome, vous l'auriez aimé. Il est jeune, aimable, instruit ; que de qualités pour vous faire oublier vos sermens ! songez qu'actuellement vous êtes engagée à moi par l'honneur.
 
     NINON.
@@ -2017,7 +2015,7 @@ Ne perdons pas de tems, j'ai un bout de toilette à faire ; mais elle ne sera p
 Fin du premier Acte.
 
 
-## ACTE II.                            
+## ACTE II.
 Le Théâtre représente un lieu champêtre ; dans le lointain un côteau, et une femme au bas. On voit dans le fond une prairie, avec un parc de moutons. On voit la brouette du Berger, sur un des côtés du Théâtre ; de l'autre côté en face, est la cabane de la Bergère. Une fontaine coule à côté de la cabane ; plusieurs arbres forment un couvert ; et une butte de gazon au-dessous, forme un siège.
 
 
@@ -2032,7 +2030,7 @@ BLAISE, LUCAS.
     BLAISE.
 Défais-toi donc du nom de la Fleur, puisqu'il a pris fantaisie à mon maître de me débaptiser pour me donner le nom de Blaise et à toi celui de Lucas. Il ne nous pardonnerait pas la plus petite distraction à ce sujet, et sur le champ notre compte serait au bout. J'aime autant garder des moutons que de valeter du matin au soir dans Paris.
 
-    LUCAS.    
+    LUCAS.
 Cette vie paisible m'a plû les premiers jours ; mais je t'avoue qu'actuellement elle m'ennuye beaucoup.
 
     BLAISE.
@@ -2050,7 +2048,7 @@ Tu crois cela ; et bien, moi, je pense au contraire qu'elle en riroit beaucoup.
 C'est bien, à-peu-prés, la même chose.
 
 
-### SCENE II.                            
+### SCENE II.
 LES MÊMES, MATHURIN.
 
 
@@ -2069,7 +2067,7 @@ Elle est encore, ma foi, ben plus rusée ; comme elle fait l'innocente ; comme
     LUCAS.
 Ce sont de ces bergères qui ont abandonné leurs troupeaux, et qui viennent s'égarer dans la Capitale.
 
-    MATHURIN.    
+    MATHURIN.
 Jarnigoi⁎ ! que vous êtes cocasse ! Et quel conte vous me faites l'un et l'autre. Je n'avons pas tout-à-fait la berlue [171], pour ne pas voir que notre Maître est un vieux fou. Je ne le connoissons que depuis six mois ; et je ne lui avons pas vu encore six minutes de bon sens.
 
     BLAISE.
@@ -2090,7 +2088,7 @@ Mais tu as peut-être entendu parler, dans ton village, du grand Condé.
     MATHURIN.
 Mille escadrons, si j'en avons entendu parler. J'avons un cousin qui a servi avec lui.
 
-    LUCAS.    
+    LUCAS.
 Dis donc, imbécille, qu'il a servi soldat dans l'armée qu'il commandoit.
 
     MATHURIN.
@@ -2165,7 +2163,7 @@ Ce jeune berger que tu vois promener son troupeau, et soupirant aux pieds de sa 
     MATHURIN.
 Pas plus que ça : je ne sommes plus étonnés s'il n'a plus son bon esprit ; et sa bergère est-elle aussi jeune que lui ?
 
-    LUCAS.    
+    LUCAS.
 Que tu es borné ! mon pauvre Mathurin : elle n'en a que soixante-dix de moins.
 
     MATHURIN.
@@ -2186,7 +2184,7 @@ Mais, pourquoi veut-il que je soyons le père de cette dévergondée qui couroit
     BLAISE.
 Pour donner plus de vraisemblance à sa folie, et comme il entend l'épouser, il ne veut l'obtenir que du consentement de son père. Le berger Coridon est chaste dans ses vieilles amours.
 
-    MATHURIN, *riant*.    
+    MATHURIN, *riant*.
 Oh, oh, oh ! ah ! que tout ce que vous me contez est donc drôle ; mais le voici avec ses moutons et sa bergère ; j'allons rire de plus belle.
 
     BLAISE.
@@ -2209,7 +2207,7 @@ Mille fleurs naissent chaque jour :
 Le lierre croît au pied du lierre,  
 Des jeunes pins s'élèvent sous les Cieux ;  
 Ah ! dis-moi donc, dis-moi, ma chère,  
-Pourquoi toujours ne restons-nous que deux ? » [175]                  
+Pourquoi toujours ne restons-nous que deux ? » [175]  
 Venez adorable bergère ; approchez-vous de votre cher Coridon, pendant que nos moutons bondissent sur ces gazons fleuris, au bord de cette fontaine.
 
     LA DUPUIS.
@@ -2248,7 +2246,7 @@ J'attends, charmante Bergère, et je soupire.
     MATHURIN, *à part*.
 Il a beau attendre et soupirer, il n'en fera que ça… Vouloir faire l'amour [180] quand on est si vieux, ah ! quelle extravagance !
 
-    LA DUPUIS *accordant sa guitare, chante sur*     *l'Air : On compteroit tous les Diamans* [181].
+    LA DUPUIS *accordant sa guitare, chante sur* *l'Air : On compteroit tous les Diamans* [181].
 
 **L***ise*, l'autre jour, naviguoit  
 Avec Colin sur la rivière ;  
@@ -2304,7 +2302,7 @@ Mon père !...
     MATHURIN.
 Eh bien, mon père ? comme ça a le ton mielleux. Va, va, je te connoissons, fine mouche [182] ; va-t'en toujours autour du troupeau qui parait s'écarter de ce côté-là.
 
-    LA DUPUIS.    
+    LA DUPUIS.
 J'y cours, mon père.
 (A part.)
 
@@ -2369,7 +2367,7 @@ Nous allons boire ensemble, dans la même tasse, de cette eau argentine, plus ag
 A moi ! vîte, au secours, le berger Coridon se noye, si vous n'arrivez promptement.
 
 
-### SCENE VII.                    
+### SCENE VII.
 LES MÊMES, BLAISE, MATHURIN.
 
 
@@ -2399,7 +2397,7 @@ Etes-vous blessé, beau berger ?
 
 En vérité, cependant, cela me fend le cœur.
 
-    DESYVETEAUX.    
+    DESYVETEAUX.
 Rassurez-vous, Blaise ; et vous aussi, Mathurin. Je me suis démis qu'un peu le pied. Voilà qu'il se remet depuis que je suis assis.
 
     MATHURIN.
@@ -2429,7 +2427,7 @@ Ah ! Monsieur, si vous saviez dans quel état il est !
     NINON, *derrière le Théâtre*.
 Tu augmentes davantage mon inquiétude et mon impatience. Je ne t'écoute plus.
 
-    DESYVETEAUX.    
+    DESYVETEAUX.
 Ah ! je reconnois cette voix enchanteresse : c'est celle de mon aimable Ninon.
 
     LA DUPUIS, *avec une surprise affectée*.
@@ -2454,7 +2452,7 @@ LES PRECEDENS
     MOLIERE.
 Je reste anéanti. Est-ce un rêve ? Est-ce une folie ? Chapelle avoit raison.
 
-    NINON, *l'appellant*.    
+    NINON, *l'appellant*.
 Desyveteaux, mon ami, ne me reconnoissez-vous pas, et n'êtes-vous plus le même ?
 
     DESIVETEAUX, *toujours aux pieds de la Dupuis*.
@@ -2508,7 +2506,7 @@ Je ne m'en défends pas ; sa situation et sa constance me touchent jusqu'aux la
 
 Qui que vous soyez, Mademoiselle, vous ne serez pas assez inhumaine pour nous priver du plaisir de le voir.
 
-    LA DUPUIS, *à Ninon*.    
+    LA DUPUIS, *à Ninon*.
 Vous pouvez en être assurée, Mademoiselle ; je mettrai mon bonheur désormais à l'entretenir dans l'amitié qu'il vous a vouée pour la vie.
 
     NINON.
@@ -2535,7 +2533,7 @@ Morbleu, mes amis, essayons de le rappeller à la raison ; puisque l'amitié a 
     MOLIERE.
 Monsieur de Gourville, n'employons point de remèdes violens, il faut au contraire que l'amitié se prête à la situation de son état. Si on pouvoit le ramener dans la société avec sa bergère ; peut être le guéririons-nous par ce moyen.
 
-    MAD. SCARON.    
+    MAD. SCARON.
 Pour moi je n'en crois rien, et je suis de l'avis de Monsieur de Gourville. Il faudroit plutôt, par de bons raisonnemens, lui faire appercevoir son ridicule.
 
     NINON.
@@ -2565,7 +2563,7 @@ J'en conviens.
 
 Quel est celui-ci qui nous regarde avec tant d'attention. Je n'ai point vu cet homme chez Desyveteaux.
 
-    MATHURIN.    
+    MATHURIN.
 Tatiguenne⁎ ? Je vous regardons, parce que vous êtes bonne à voir, ainsi que ste belle Dame qui vous accompagnont.
 
     MAD. SCARON.
@@ -2587,7 +2585,7 @@ En voici bien d'un autre [186] ! Qu'est-ce que cela veut dire ?
 Cela n'est pas bien difficile à deviner ; et ne voyez-vous pas que tout est factice ici, et que ce paysan n'est pas aussi au fait que les autres.
 
 
-### SCENE IX.                        
+### SCENE IX.
 LES MÊMES, FRANCISQUE accourant.
 
 
@@ -2609,7 +2607,7 @@ Mais ce qu'il me paroît [187], il est mal informé sur son désastre. Monsieur 
     NINON.
 Je ne suis point surprise de sa démarche : il joint au grand art de la guerre, les qualités d'un bon citoyen, d'un bon ami. Mais je dois auparavant demander à Desyveteaux la permission de lui présenter le Prince. Berger Coridon, les Héros, ainsi que les Dieux, veulent honorer votre retraite. Le Grand-Condé demande à vous voir.
 
-    DESYVETEAUX.    
+    DESYVETEAUX.
 Si la Bergère y consent, je suis prêt à le recevoir.
 
     LA DUPUIS.
@@ -2635,7 +2633,7 @@ LES MÊMES, excepté FRANCISQUE.
 Allons, Bergère ; allons au-devant du plus grand des Mortels, de notre Seigneur, de notre Maître.
 
 
-### SCENE XI.                        
+### SCENE XI.
 LES PRECEDENS, LE PRINCE DE CONDE,
 
 LE COMTE DE FIESQUE, autres Seigneurs,
@@ -2659,7 +2657,7 @@ Levez-vous, Desyveteaux ; est-ce une fête que vous me donnez ? On vous reconn
     NINON.
 Mon Prince, n'appercevez-vous pas [188] ?
 
-    LE PRINCE, *s'approchant de Ninon*.    
+    LE PRINCE, *s'approchant de Ninon*.
 Enfin, Mademoiselle l'Enclos, je vous vois : que j'ai souffert d'avoir tardé si long-tems, mais j'y étois forcé. Je sors de chez vous, et je ne m'en serois pas retourné sans vous avoir vue.
 
     NINON.
@@ -2677,7 +2675,7 @@ Ce goût pastoral est aujourd'hui, Monseigneur, bien naturel chez lui ; et comm
     LE GRAND-CONDE.
 Ce que vous me dites, est-il vrai, là, en bonne conscience, et ne vous amusez-vous pas ?
 
-    NINON.    
+    NINON.
 Je n'en impose⁎ jamais, et ce ne seroit pas par vous, mon Prince, que je voudrois commencer. J'ai été comme vous surprise. J'ai versé d'abord des larmes sur son sort ; mais voyant qu'il est heureux dans ses idées chimériques, je suis moins affligée.
 
     LE GRAND-CONDE.
@@ -2714,7 +2712,7 @@ Approchez, Bergers et Bergères : venez saluer le Dieu des combats. Que le son 
 Ah ! que n'ai-je un Ballet et un Chœur tout prêt, dans le fond du jardin.
 
 
-### SCENE XII.                        
+### SCENE XII.
 LES MÊMES, troupe de Bergers et de Bergères.
 
 
@@ -2783,7 +2781,7 @@ Il me paroît bien douteux, mais n'importe, pour vous plaire, je m'en vais le te
 
 Seigneur Desyveteaux, voulez-vous me suivre à l'armée ? Je vous promets un service honorable et distingué.
 
-    DESYVETEAUX, *regardant sa Bergère*.    
+    DESYVETEAUX, *regardant sa Bergère*.
 Ah ! Bergère Colinette, avez-vous entendu ces ordres, et ne frémissez-vous pas ?
 
     LA DUPUIS.
@@ -2812,7 +2810,7 @@ Adieu, mon vieil ami ; que le Ciel vous tienne dans cette heureuse⁎ rêverie.
 Fin du second Acte.
 
 
-## ACTE III.                        
+## ACTE III.
 Le Théâtre représente un Sallon.
 
 
@@ -2826,7 +2824,7 @@ Le Théâtre représente un Sallon.
 Comme il souffre, le cher homme, et comme il est gai. Il va me dire, suivant sa coutume, quelque chose de drôle.
 
 
-### SCENE II.                                
+### SCENE II.
 M*lle* LE ROI, SCARON porté par quatre hommes qui l'asseyent sur le canapé.
 
 
@@ -2853,7 +2851,7 @@ Tiens, prenons notre parti, il n'y a rien à faire pour aujourd'hui.
 
 
 
-### SCENE III.                            
+### SCENE III.
 M*lle* LE ROI, SCARON.
 
 
@@ -2923,7 +2921,7 @@ L'ami Scaron va nous juger, et nous tirer de peine. Vous en rapporterez-vous à 
     DEFFIAT.
 Oui, mais il ne faut pas nommer la personne.
 
-    LE MARECHAL.    
+    LE MARECHAL.
 Croyez-vous qu'il ne la devinera pas.
 
     SCARON.
@@ -2944,7 +2942,7 @@ Que diable ! Monsieur le Président, vous êtes un mauvais chronologiste, avec 
     LE MARECHAL.
 Il n'y a point de rang ni d'état qui empêche un père de réclamer son enfant, et c'est en quoi je loue Monsieur le Président.
 
-    SCARON.    
+    SCARON.
 Eh bien, je m'en vais prononcer comme le Roi Salomon [197], non que j'ordonne de partager le Poupon, mais vous allez le tirer aux dez [198].
 
     LE MARECHAL.
@@ -2979,7 +2977,7 @@ Bon ! il n'a amené que neuf ; à mon tour, pour la dernière fois.
 
 Douze. Bon ! j'ai gagné.
 
-    SCARON.    
+    SCARON.
 J'en suis bien aise, je suis flatté que le sort ait tourné en faveur du Maréchal, et que cet enfant lui appartienne, il en fera un brave Soldat, plus utile à la patrie qu'un être oisif.
 
     LE MARECHAL.
@@ -3031,7 +3029,7 @@ DE FIESQUE, Madame SCARON.
     NINON, *courant à Scaron*.
 **O***h* ! mon cher ami, vous étiez chez moi, et j'étois absente. Ne vous êtes-vous pas ennuyé, mon ami ?
 
-    SCARON.    
+    SCARON.
 Ce mal me gagne dès que je ne vous vois pas, et c'est le plus insupportable de mes maux ; mais n'êtes-vous pas toujours présente à mon imagination.
 
     MOLIERE, *se mettant auprès de Scaron, et regardant les Vers qu'il a faits pour Ninon*.
@@ -3081,7 +3079,7 @@ Ce n'est point mon aimable Ninon qui doit appréhender les atteintes de ce sexe 
     LE GRAND-CONDE.
 Allons, Molière, lisez-nous cette jolie production.
 
-    MOLIERE, *refléchissant et parcourant l'écrit, dit à part*.    
+    MOLIERE, *refléchissant et parcourant l'écrit, dit à part*.
 Quelle facilité ! quelle heureuse⁎ gaité ! Que je suis loin d'approcher de cette sublime Philosophie, (*En embrassant Scaron*.) Mon ami, je suis un petit enfant auprès de vous.
 
     SCARON.
@@ -3105,7 +3103,7 @@ Ah ! mon Prince, je vous demande un million de pardons.
     NINON, *au Prince*.
 La distraction est excusable.
 
-    MOLIERE, *lit*.    
+    MOLIERE, *lit*.
 Adieux aux Marais, par le plus fidèle oiseau des Tournelles.
 Adieu, bien que ne soyez blonde,  
 Fille, dont parle tout le monde.  
@@ -3132,7 +3130,7 @@ Ainsi, faites trève à vos charmes, ou donnez-nous la force d'y résister.
     SCARON.
 Il faudroit être, comme moi, pauvre estropié, pour avoir la force de les braver⁎.
 
-    NINON.    
+    NINON.
 Vous allez donc nous quitter ; et vous croyez que je ne vous suivrai pas. Mon ami, je veux être votre première Garde-malade.
 
     LE GRAND-CONDE, *montrant Mad. Scaron*.
@@ -3159,7 +3157,7 @@ Il paroît que vous avez échoué, Comte de Fiesque ?
     LE COMTE DE FIESQUE.
 Oui, mon Prince ; mais je ne perds pas pour cela courage.
 
-    NINON, *avec gaieté*.    
+    NINON, *avec gaieté*.
 J'aime à voir qu'on ne se rebute point ; mais, Messieurs, ne finirez-vous point sur mon compte, et n'avons-nous pas à nous occuper de ce malheureux Desyveteaux ; quoiqu'heureux dans son asyle ?
 
     SCARON.
@@ -3198,7 +3196,7 @@ Mais, mon Prince, malgré le bonheur qu'on éprouve en vous possédant, nous pr�
     LE MARECHAL.
 Pas en hommes ; toujours.
 
-    LE COMTE DE FIESQUE.    
+    LE COMTE DE FIESQUE.
 Je le crois.
 
     NINON.
@@ -3223,7 +3221,7 @@ C'est le seul talent que la Nature vous ait refusé.
 Mais n'ai-je pas été aussi un peu trop l'opposé de ce caractère.
 
 
-### SCENE VII.                            
+### SCENE VII.
 LES MÊMES, UN EXEMPT.
 
 
@@ -3247,7 +3245,7 @@ Qu'est-ce que cela veut dire ?
     MOLIERE.
 Je suis anéanti.
 
-    LE GRAND-CONDE, *à l'Exempt*.    
+    LE GRAND-CONDE, *à l'Exempt*.
 Expliquez-vous de grace, Monsieur de Saint-Faur ; je connois votre honnêteté, et vous ne voudriez pas nous laisser dans l'erreur sur les griefs qu'on impute à Ninon.
 
     L’EXEMPT.
@@ -3268,7 +3266,7 @@ J'ai quelqu'ascendant⁎ sur l'esprit de la Reine, je vais…
     LE COMTE DE FIESQUE, *avec vivacité, tirant son épée*.
 Moi, je défendrai Mademoiselle de l'Enclos jusqu'à la dernière goutte de mon sang.
 
-    L’EXEMPT, *avec fermeté*.    
+    L’EXEMPT, *avec fermeté*.
 Monsieur le Comte, cet acte de violence est déplacé, il ne m'arrêteroit pas si je voulois employer la force ; mais soyez persuadé que je suis aussi éloigné que vous, de remplir les ordres dont on m'a chargé.
 
     LE GRAND-CONDE, *avec fierté*.
@@ -3283,7 +3281,7 @@ On m'enfermera avec elle, car je ne la quitte pas. Que pourroit-on craindre d'un
     NINON.
 Expliquez-vous enfin, Monsieur de Saint-Faur ; où veut-on que je me retire ?
 
-    L’EXEMPT.    
+    L’EXEMPT.
 Mademoiselle, je suis honteux de vous le dire ; c'est aux Filles Repenties. [205]*⁎)*
 
     MAD. SCARON.
@@ -3307,7 +3305,7 @@ Ah ! si on laisse le choix à ma disposition, je pourrois encore exciter de nou
     SCARON, *à part*.
 A coup sûr, ce n'est pas un Couvent de femmes qu'elle choisirait. Son esprit est trop grand, trop sublime pour descendre jusqu'aux minuties des cloîtres féminins.
 
-    LE GRAND-CONDE, *à l'Exempt*.    
+    LE GRAND-CONDE, *à l'Exempt*.
 Monsieur de Saint-Faur, voulez-vous retourner avec moi sur le champ auprès de la Reine. Je vais faire revoquer cet ordre déplacé, persuader Sa Majesté de la vérité, et lui faire connoître l'atrocité d'une telle calomnie.
 
     L’EXEMPT.
@@ -3328,7 +3326,7 @@ Mon Prince, mon état…
     LE GRAND-CONDE.
 Est ce votre état que l'on regarde ? c'est l'homme qu'on considère.
 
-    SCARON.    
+    SCARON.
 Allons, qu'on appelle des gens pour me mettre dans une chaise à porteurs.
 
     MOLIERE.
@@ -3358,7 +3356,7 @@ Je ne vous quitte pas, et jusqu'à ce que cette affaire ne soit éclaircie, je r
 
 
 
-### SCENE VIII.                        
+### SCENE VIII.
 NINON, LE COMTE DE FIESQUE.
 
 
@@ -3383,7 +3381,7 @@ Plus que jamais.
     NINON.
 Et votre voyage en Italie n'a donc pas pu vous distraire ? j'avoue que vous êtes malheureux⁎, car c'est toujours quand j'ai le cœur pris que vous me parlez d'amour.
 
-    LE COMTE DE FIESQUE.    
+    LE COMTE DE FIESQUE.
 Mais, si je suis bien informé, vous êtes près d'être libre.
 
     NINON.
@@ -3404,7 +3402,7 @@ Qu'il est expressif ! en vérité, on n'est pas plus aimable.
     LE COMTE DE FIESQUE.
 Songez, adorable Ninon, que vous faites mon tourment depuis un an, que j'ai cru pouvoir vous oublier dans mon voyage ; que j'arrive, que je vous revois, et que je reprends ma chaine. Je n'employerai point, comme tous les Amans, les menaces, les larmes ; je ne vous dirai point non plus, que j'aurais pu me distraire avec quelqu'autre objet, je n'en ai pas cherché l'occasion. Vous êtes libre, je me présente, je vous aime ; m'acceptez-vous ?
 
-    NINON, *en riant*.    
+    NINON, *en riant*.
 Vous êtes libre, je me présente, je vous aime, m'acceptez-vous ? ce ton leste déconcerteroit une begueule⁎
 (à part.)
 
@@ -3455,7 +3453,7 @@ Arrêtez, mon cher de Fiesque. Vous êtes, en vérité, un terrible homme, mais 
     LE COMTE DE FIESQUE.
 Ce que je veux ? ah ! Ninon, pouvez-vous le demander ? ce cœur que je brûle d'obtenir.
 
-    NINON, *avec dépit*.    
+    NINON, *avec dépit*.
 Eh ! vous l'avez déjà.
 
     LE COMTE DE FIESQUE, *lui baisant la main*.
@@ -3488,7 +3486,7 @@ Je vous laisse pour un instant, une circonstance de bienséance m'appelle ailleu
 
 
 
-### SCENE IX.                            
+### SCENE IX.
 
     LE COMTE DE FIESQUE, *seul*.
 **N***inon* se repent de s'être tant avancée avec moi, et je la loue ; car plus je l'aime, et plus je la crains. Quel est l'homme qui pourroit résister à une femme si séduisante, qui réunit l'esprit, les talens, les graces⁎, la beauté, et cent rares qualités étrangères chez les femmes. Ah ! Ninon, en faisant mon bonheur, vous allez me rendre l'homme le plus malheureux. Aurai-je la force de résister au sort qui m'attend ? non, je n'ai que ce qu'il en faut pour éviter le danger pour jamais. Fuyons Ninon, et son aimable société.
@@ -3517,7 +3515,7 @@ Je n'en attendois pas moins de la justice et des bontés de Sa Majesté ; mais,
     LE GRAND-CONDE.
 Non, le Maréchal d'Estrées avoit déjà plaidé votre cause en présence de la Reine de Suède, l'illustre Christine, qui brûle de vous voir, et qui a demandé au Maréchal la grace⁎ de vous la presenter.
 
-    NINON.    
+    NINON.
 Quoi ! mon Prince, y pensez-vous ? moi, Ninon, simple particulière, puis-je être en état de recevoir cette grande Reine ? non, cet honneur n'est pas fait pour moi.
 
     LE MARECHAL D’ESTREES.
@@ -3539,7 +3537,7 @@ Le voici avec Chapelle, et Saint-Evremont.
 Il arrive fort à propos.
 
 
-### SCENE XII.                        
+### SCENE XII.
 LES MÊMES, MOLIERE, CHAPELLE,
 
 SAINT-EVREMONT.
@@ -3563,7 +3561,7 @@ La remarque est juste. Heureux⁎, mon Prince, ceux qui ont servi sous vos drape
     NINON.
 Le nom de Condé sera toujours cher à la postérité.
 
-    LE GRAND-CONDE.    
+    LE GRAND-CONDE.
 Je suis sensible aux choses obligeantes que vous me dites ; mais, Messieurs, et vous aussi, Ninon, il ne s'agit ni de ma gloire ni de ma valeur. Si c'étoit pour monter à l'assaut, ou pour lever un siège, je n'appellerois pas Molière à mon secours.
 
     MOLIERE.
@@ -3590,7 +3588,7 @@ Oui, mon Prince ; et de plus de la visite que la Reine Christine veut lui rendr
     NINON.
 Mais comment la recevoir ? Il faut, Molière, que vous veniez à mon aide, et qu'un agréable impromptu [219] de votre façon lui donne une bonne idée de ma société.
 
-    MOLIERE, *avec empressement*.    
+    MOLIERE, *avec empressement*.
 Je vais me mettre en quatre. Mon Prince, permettez que je prenne congé de Votre Altesse, et que j'aille mettre la main à l'œuvre.
 (A Ninon à part.)
 
@@ -3619,7 +3617,7 @@ NINON, CHAPELLE, SAINT-EVREMONT.
     CHAPELLE.
 Je crois, Ninon, que la gloire vous enflamme.
 
-    NINON.    
+    NINON.
 Que voulez-vous ? on perdrait la tête à moins. On m'estime, on m'honnore, une grande Reine vient aujourd'hui me visiter : en vérité, mes amis, si vous ne prenez pas garde à moi, je vais devenir folle, et je ne serais propre ensuite qu'à la compagnie de Desyveteaux ; lui, dans de douces rêveries et des plaisirs champêtres ; moi, dans des folies pompeuses et martiales. Les Canons, les Trompettes formeront mon cortège, et vous verrez le Trône aux pieds d'une cabane. Si je ne suis pas folle, cela y ressemble beaucoup.
 
     SAINT-EVREMONT.
@@ -3640,7 +3638,7 @@ Il n'y a que vous qui puissiez en venir à bout.
     NINON.
 Et que faut-il que je fasse ?
 
-    CHAPELLE.    
+    CHAPELLE.
 Le voir. Il ne seroit pas digne d'être père, s'il résiste à vos argumens.
 
     NINON.
@@ -3666,7 +3664,7 @@ Vous voulez des complimens, et je ne sais que dire des vérités à mes amis. No
 Fin du troisième Acte.
 
 
-## ACTE IV.                            
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -3734,7 +3732,7 @@ Déjà.
     NINON.
 Cela vous étonne ?
 
-    MOLIERE.    
+    MOLIERE.
 Point du tout : mais c'est l'air avec lequel vous me l'annoncez. Que vous êtes heureuse⁎ de traiter l'amour comme un enfant qu'il est. En vérité, je vous en crois la mère. Vous êtes Vénus [223] sous les traits de Ninon. Pour nous tromper, et nous séduire, elle ne pouvoit pas en trouver de plus parfaits.
 
     NINON.
@@ -3758,7 +3756,7 @@ Mais il me brave⁎, et semble même me dédaigner.
     MOLIERE.
 Cela n'est pas possible… Au surplus, peut-être vous craint-il, et la fuite, en pareil cas, est bien pardonnable.
 
-    NINON.    
+    NINON.
 Eh bien, prenons mon parti : je veux désormais ne m'occuper que de mes amis ; aussi bien, je pourrois finir plus désagréablement que ce misérable Desyveteaux. Il a trouvé, dans ses vieux jours, une Bergère qui le console, et moi, à cet âge, je ne trouverois pas de Berger.
 
     MOLIERE.
@@ -3800,7 +3798,7 @@ Je l'ai renvoyée, mon ami. Il n'étoit pas prudent que je la retinsse davantage
     MOLIERE.
 Vous vous en mêlez, il n'y a pas de doute.
 
-    NINON.    
+    NINON.
 Il est vrai que je serai bien forte quand je vous aurai pour appui.
 
 
@@ -3853,7 +3851,7 @@ Elle n'a pas de mémoire ! ah ! Monsieur Mignard, que vous êtes heureux⁎ !
     MOLIERE.
 Votre antipathie pour les citations vous ferait même préférer la plus profonde ignorance.
 
-    NINON.    
+    NINON.
 Je l'avoue, et j'aime mieux un esprit médiocre que les gens savans qui trouvent l'occasion de citer à tout propos. Soyez persuadé, Monsieur Mignard, d'après ce que vous me dites, que Mademoiselle votre fille sera une femme fort aimable.
 
     MAD. DE LA SABLIERE.
@@ -3884,7 +3882,7 @@ Pour moi, je m'applaudis d'être d'un avis différent sur votre compte, de celui
 Mon Dieu, j'ambitionne plus votre estime, que je ne redoute leurs atteintes ; mais la médisance et la calomnie peuvent être si nuisibles à de jeunes Demoiselles qui fixent déjà l'attention des Maisons les plus illustres, qu'il faut ôter aux méchans, le malin plaisir de répandre leur venin.
 
 
-### SCENE VII.                            
+### SCENE VII.
 LES MÊMES, FRANCISQUE.
 
 
@@ -3903,7 +3901,7 @@ Permettez-moi, Madame, d'aller les recevoir à la porte, et de les embrasser.
 **Q***uelle* grandeur d'ame ! Quel esprit ! Quelle délicatesse ! Ah ! femmes, femmes qui vous gendarmez contre elle ; apprenez à l'imiter, et vous vous éleverez. Quel modèle à suivre ! Ses foiblesses, ses erreurs, font ressortir davantage ses grandes et sublimes qualités. Se seroit-on jamais douté, dans sa modeste conversation, qu'elle attend ce soir chez elle la Reine de Suède ? Après cet hommage, elle pouvoit recevoir, ce me semble, deux Demoiselles de qualité, sans craindre de porter la moindre atteinte à leur réputation.
 
 
-### SCENE IX.                        
+### SCENE IX.
 LE COMTE DE FIESQUE, MOLIERE.
 
 
@@ -3956,7 +3954,7 @@ Dépêchez-vous donc, votre phlegme m'impatiente.
     MOLIERE, *à part*.
 Un Amant calme n'est pas ce qui lui convient.
 
-    LE COMTE DE FIESQUE, *regardant Ninon en soupirant*.    
+    LE COMTE DE FIESQUE, *regardant Ninon en soupirant*.
 Ninon, qu'il est heureux⁎ de vous aimer, mais qu'il est cruel de vous plaire.
 (Il va au fond du Théâtre.)
 
@@ -3977,7 +3975,7 @@ Je crains tous les deux, puisqu'il faut vous le dire. Ce ne sera que par la fuit
 Ah ! voilà le courage qui lui manque ; je le vois à ses genoux.
 
 
-### SCENE XI.                        
+### SCENE XI.
 LES MÊMES, M*lle* LE ROI.
 
 
@@ -3999,7 +3997,7 @@ Pour moi, j'y cours d'autant plus, que j'ai à finir ma besogne, dans laquelle S
     NINON, *à Francisque*.
 Vous m'avertirez dès que vous verrez arriver la Reine.
 
-    FRANCISQUE.    
+    FRANCISQUE.
 Je n'y manquerai pas, Mademoiselle.
 (Il sort.)
 
@@ -4061,7 +4059,7 @@ D'ESTREES, FRANCISQUE.
     NINON.
 Ciel ! je suis toute déconcertée.
 
-    LE COMTE DE FIESQUE, *à part*.    
+    LE COMTE DE FIESQUE, *à part*.
 Quelle imprudence j'ai fait commettre à Ninon !
 
     NINON, *revenant à elle, et se jettant aux pieds de la Reine*.
@@ -4170,7 +4168,7 @@ Vous vous exprimez, Madame, avec tant d'énergie que je ne sais que répondre. V
     CHRISTINE.
 Non, ma chère Ninon, vous ne serez pas seule généreuse : vous ne consultiez que ma gloire dans votre refus ; et moi, je ne voyois que ma satisfaction, en vous arrachant d'une société à laquelle vous devez être tendrement attachée. Vous en êtes adorée, faites-en l'ornement et l'honneur. Restez dans des lieux où l'on chérit votre présence, je me bornerai à vous écrire, je veux entretenir notre connoissance dans une aimable correspondance.
 
-    NINON.    
+    NINON.
 C'est de cet instant que date mon vrai bonheur ; ce n'est donc qu'avec Christine de Suède que j'ai pu trouver de l'analogie avec ma façon de penser ; mais pour être digne d'elle, il m'auroit fallu quelques-unes de ses vertus⁎.
 
     CHRISTINE.
@@ -4186,7 +4184,7 @@ Je serois bien curieuse de voir votre société, vos amis, entre autres le cél�
 Il faut le voir, Madame, pour en être persuadé. Ils sont tous les deux chez moi avec l'aimable Madame Scaron ; ainsi que la plupart de mes amis, qui tous n'aspirent qu'au bonheur de jouir de votre auguste présence.
 
 
-### SCENE XVI.                        
+### SCENE XVI.
 LES MÊMES, LE PRINCE DE CONDE,
 
 LE MARECHAL D'ESTREES.
@@ -4202,7 +4200,7 @@ Je vous avoue, Prince, que je ne me suis point apperçue du tems dans la convers
 Que ne dois-je pas à Monsieur le Maréchal qui m'a si fort élevée dans votre esprit, puisqu'il m'a procuré l'avantage inappréciable de me voir estimée et aimée de la femme la plus sublime de l'Univers… Voici, Madame, un homme qui n'est pas moins digne de votre estime.
 
 
-### SCENE XVII.                            
+### SCENE XVII.
 LES MÊMES, MOLIERE.
 
 MOLIERE salue respectueusement la Reine.
@@ -4240,7 +4238,7 @@ Le Théâtre change et représente un Superbe Sallon à colonne et à pilastre, 
     CHRISTINE.
 Où suis je ? Je n'ai jamais rien vu de plus galant⁎ !
 
-    LE GRAND-CONDE.    
+    LE GRAND-CONDE.
 Reine, permettez qu'un brave Soldat vous place sur un Trône que l'amitié vous offre.
 
     CHRISTINE.
@@ -4272,7 +4270,7 @@ Toujours le vrai mérite rend justice aux talens.
 (Christine s'asseyant sur le Trône, insiste pour que le Prince se place à son côté : ce qu'il fait après plusieurs façons.)
 
 
-    MAD. SCARON ; *s'avançant sur le Théâtre*.    
+    MAD. SCARON ; *s'avançant sur le Théâtre*.
 Grande Reine, acceptez cette couronne d'olivier [239] que le respect et l'amitié vous offrent.
 (Elle lui met la couronne sur la tête.)
 
@@ -4283,7 +4281,7 @@ Le Grand-Condé, à la tête de l'armée ennemie ; un Général François se pr
 Chaconne [240] dans le grand genre, une troupe de Bohémiens. Le petit homme noir [241], connu dans l'Histoire de Madame Scaron, dira à chacun sa bonne aventure, par des couplets analogues à leur caractère. Ballet de Bohémiens, troupe de Soldats, qui peindra l'Histoire du Grand-Condé, quand il reprit les armes pour la France ; combats, victoire qu'il remporte sur l'ennemi. Tous se mettent à genoux devant le Trône. Les Soldats renversent leurs armes devant le Grand Condé, et lui présentent le Pavillon de l'armée ennemie ; pendant ce tems, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu'on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.
 
 
-    MOLIERE, *à Ninon*.    
+    MOLIERE, *à Ninon*.
 D'où part le son de ce chalumeau ?
 
     NINON.
@@ -4309,7 +4307,7 @@ C'est une fille d'honneur.
     SCARON, *étonné*.
 Je n'en reviens pas. Pauvre cher homme ! Comme le voilà défiguré. On ne le reconnoîtroit jamais.
 
-    DESYVETEAUX, *se mettant à genoux aux*     *pieds du Trône avec sa Bergère*.
+    DESYVETEAUX, *se mettant à genoux aux* *pieds du Trône avec sa Bergère*.
 (A la Reine.)
 
 Déesse, que je ne connois point, et qui me paroissez étrangère en cette Cour, sans doute, vous êtes Bellone [242], à côté du Dieu Mars. Souffrez que le Berger Coridon avec sa Bergère vous offre son hommage.
@@ -4362,7 +4360,7 @@ Ah ! je vous en réponds [244]… Mais dites, Monsieur, vous qui nous avez l'ai
     MOLIERE.
 Mon ami, c'est cette grande Reine du Nord, cette fameuse Christine de Suede.
 
-    MATHURIN.    
+    MATHURIN.
 Tatidienne⁎ ! m'est avis qu'oui. Je l'avons vu quand elle a fait sa brave entrée à Paris. Il me semblions encore la voir sur son cheval blanc, avec un biau habit d'écarlate, et tout plein de plumes blanches à son chapiau. Mais dites-nous donc, brave Monsieur, elle avoit l'air d'un homme à cheval, et ici elle a l'air d'une belle Dame. [245]
 
     MOLIERE.
@@ -4377,7 +4375,7 @@ Voyez comme ce grand homme sait se mettre à la portée de tout le monde, de tou
     LE COMTE DE FIESQUE, *avec dépit*.
 Oui, Madame, j'en conviens ; mais je n'ai pas le talent comme vous d'admirer, ou pour mieux dire, nos prétentions sont différentes. Je ne loue jamais les hommes.
 
-    NINON, *bas au Comte*.    
+    NINON, *bas au Comte*.
 Tant pis pour vous. Cela ne fait pas honneur à votre discernement au moins… Vous avez, je crois, l'air fâché, cela m'inquiète.
 
     LE COMTE DE FIESQUE.
@@ -4404,7 +4402,7 @@ AIR NOTÉ [247].
 Mon seul appui, mon Amant, mon Epoux ;  
 De son amour, c'est moi qui suis la cause,  
 Je l'aime trop, le Ciel en est jaloux.  
-A mille traits ma tendresse l'expose,                          
+A mille traits ma tendresse l'expose,  
 De ses amis j'excite le courroux.  
 
 *Quand* ses écrits célébroient la victoire,  
@@ -4430,7 +4428,7 @@ Le Chœur de l'Amitié reprend jusqu'à ce qu'il n'y ait plus personne sur le Th
 Fin du quatrième Acte.
 
 
-## ACTE V.                                
+## ACTE V.
 
 
 ### SCENE PREMIERE.
@@ -4459,7 +4457,7 @@ Est-il possible ? Quoi, Mademoiselle de l'Enclos, fille d'esprit, feroit une se
 Les personnes d'esprit, Monsieur Francisque, font souvent de grandes sottises, et les réparent quelquefois trop tard, car je connois l'esprit et le cœur de Mademoiselle Ninon. La solitude n'est pas son élément, la vie du Couvent est si ennuyeuse ! Elle n'y sera pas quatre jours qu'elle y périra d'ennui ; et le caractère des Béguines [248] est-il fait pour s'accorder avec le sien ? Acariâtres, minutieuses, médisantes et fausses comme des femmes qui sont privées de la société des hommes, et qui détestent celles qui ont vécu dans le grand monde.
 
 
-### SCENE II.                                
+### SCENE II.
 NINON, M*lle* LE ROI, FRANCISQUE.
 
 
@@ -4489,13 +4487,13 @@ Ma toilette, Mademoiselle, sera bientôt faite… Un grand bonnêt.
 Haye ! haye ! haye ! ceci sent bien le Couvent.
 
 
-### SCENE IV.                            
+### SCENE IV.
 
     NINON, *seule*.
 **M***e* suis-je bien consultée ? Ai-je bien connu mon cœur ? Oh ! oui, ma raison le domptera, et l'amour ne sera pas mon maître. Mais la Nature, mes enfans ! cette idée m'arrache des larmes. Ils ne peuvent m'avouer pour leur mère qu'en rougissant. Eh bien, je garderai le silence, je me ferai cet effort ; mais puis-je m'empêcher de les voir, de m'intéresser à leur sort ? L'exemple de Monsieur de Coligny m'apprendra à craindre de livrer mes enfans aux soins paternels. Envain Monsieur le Maréchal d'Estrées me presse pour lui abandonner tout-à fait mon sang. Eh ! bientôt il agiroit comme Monsieur de Coligny, qui m'a caché, tant qu'il a vécu, le nom, le sort de la victime de mes premières erreurs…Cher enfant, dont j'ignore l'existence depuis dix-huit années. Hélas ! peut-être, je m'allarme envain sur son sort ; et qui sait si la mort même ne me l'a point enlevé ? Ce doute me désespère… On ne me présente point de jeune homme en qui je ne croye retrouver un fils.
 
 
-### SCENE V.                            
+### SCENE V.
 NINON, M*lle* LE ROI.
 
 
@@ -4522,7 +4520,7 @@ Qui est-ce ?
     LE-VALET-DE-CHAMBRE, *remettant une lettre à Ninon*.
 C'est de la part de Monsieur le Comte de Fiesque.
 
-    NINON.    
+    NINON.
 Donnez :
 (le Valet-de-Chambre et Mademoiselle le Roi se retirent au fond, Ninon décachetant la lettre.)
 
@@ -4542,7 +4540,7 @@ Voilà l'homme qu'il me falloit trouver pour reconnoître tous mes torts, et mal
 (Prenant avec colère des ciseaux, et se coupant une partie de ses cheveux, qui ne doivent être attachés, pour l'illusion, qu'avec une épingle.)
 
 
-    M*lle* LE ROI, *au fond du Théâtre*.    
+    M*lle* LE ROI, *au fond du Théâtre*.
 Ciel ! quelle fureur⁎ ! quel désespoir !
 
     NINON, *prenant les cheveux coupés, les remet au Valet-de Chambre*.
@@ -4625,7 +4623,7 @@ M*lle* LE ROI.
 
 
 
-### SCENE XII.                            
+### SCENE XII.
 NINON, LE CHEVALIER DE BELFORT.
 
 (Le Chevalier la salue profondément.)
@@ -4771,7 +4769,7 @@ Hélas ! je serois mort de douleur de ne point obtenir Mademoiselle de Château
 Qu'il est intéressant ! Ah ! mon cœur a bien changé aussi : je ne vois plus que mon fils, que son bonheur.
 
 
-### SCENE XIV.                            
+### SCENE XIV.
 NINON, MOLIERE, LE CHEVALIER,
 
 M*lle* DE CHATEAUROUX, FRANCISQUE.
@@ -4818,7 +4816,7 @@ Vous m'avertirez quand Monsieur de Saint-Evremont viendra accompagné d'une autr
 **M***a* foi, je n'aurai plus le courage de servir personne, si j'ai le malheur de perdre Mademoiselle de l'Enclos. Quelle Maitresse ! Je n'en trouverai jamais de semblable. Mais, qui nous arrive ?... C'est ce Monsieur le Comte de Fiesque : le diable puisse-t-il lui avoir cassé le col quand il mit les pieds ici !
 
 
-### SCENE XVI.                        
+### SCENE XVI.
 LE COMTE DE FIESQUE, FRANCISQUE.
 
 
@@ -4847,7 +4845,7 @@ Ah ! mon ami, que me dites-vous ? Courez donc vîte, et soyez persuadé que je
 A la bonne heure [254], et je cours vous annoncer.
 
 
-### SCENE XVII.                        
+### SCENE XVII.
 
     LE COMTE DE FIESQUE, *seul*.
 **C***'est* moi qui en suis la cause ; malheureux⁎ que je suis ! j'étois aimé, et j'ai pu affliger le cœur le plus sensible !... M'envoyer ses cheveux pour réponse ; que d'esprit ! que de délicatesse ! que de passion ! dut-elle m'abandonner dans huit jours, je ne la quitte plus : quel homme plus fortuné que moi d'avoir fixé Mademoiselle de l'Enclos, de régner dans son cœur, d'en être adoré ; et je pourrais être insensible à tant d'amour ! La voici… quelle est belle dans ce simple négligé !
@@ -4869,7 +4867,7 @@ Ah ! Ninon, me croyez-vous aussi insensible, et pouvez-vous penser que mon cœu
     NINON.
 « Il y a une manière d'envisager l'amour, et ses principes, dont l'estime n'est pas toujours le fondement. La disposition que j'ai à réfléchir m'a fait porter mes regards sur le partage inégal des qualités qu'on est convenu d'exiger des deux sexes. J'en sens l'injustice, et ne puis la soutenir. Je vois qu'on nous a chargées de ce qu'il y a de plus frivole, et que les hommes se sont réservé le droit aux qualités essentielles. De ce moment, je me fais homme. Je ne rougirai donc plus de l'usage que j'ai fait des dons précieux que j'avois reçus de la nature. Si l'on pouvoit rajeunir et si je revenois à l'âge de quinze ans, je ne changerais en rien le plan de vie que j'ai suivi ; mais j'approche de ma cinquantaine… cela vous etonne, et sur tout que j'aye la force de l'avouer ». [255]
 
-    LE COMTE DE FIESQUE.    
+    LE COMTE DE FIESQUE.
 Mais où rend ce discours, Ninon, qui me glace d'effroi ? et qu'a de rapport, je vous prie, votre âge avec ma passion ? n'avez-vous pas la beauté, les graces⁎ de la plus riante jeunesse ? L'amour ne m'aveugle point. Je vous vois telle que vous êtes.
 
     NINON.
@@ -4900,7 +4898,7 @@ Adieu, Ninon.
 
 
 
-### SCENE XX.                        
+### SCENE XX.
 NINON, M. DE CHATEAUROUX,
 
 M. DE SAINT-EVREMONT.
@@ -4921,7 +4919,7 @@ Je crains d'être indiscret, en vous faisant part de mes ennuis dans une premiè
     NINON.
 Vous me faites tort, Monsieur, en prenant cette opinion de moi. J'espère que dans la suite vous me rendrez plus de justice, et que vous serez persuadé qu'on ne peut me rendre un plus grand service que d'avoir recours à moi.
 
-    SAINT-EVREMONT.    
+    SAINT-EVREMONT.
 Allons, mon ami, ouvrez votre cœur à Mademoiselle de l'Enclos, et croyez que vous trouverez dans le sien la consolation que vous pouvez desirer.
 
     M. DE CHATEAUROUX.
@@ -4948,7 +4946,7 @@ M. DE CHATEAUROUX, NINON.
     NINON.
 **V***ous* étiez l'ami d'un homme, Monsieur, qui portoit un nom bien cher à la France, et qui ne le fut pas moins lui-même, Monsieur le Comte de Coligny.
 
-    M. DE CHATEAUROUX.    
+    M. DE CHATEAUROUX.
 Cette amitié m'est bien funeste aujourd'hui, Mademoiselle, je voudrois ne l'avoir jamais connu.
 
     NINON.
@@ -4966,7 +4964,7 @@ Ah ! plût au Ciel que le même tombeau l'eût enfermée avec sa mère ! le te
     NINON.
 Et quel est ce jeune homme qui s'est rendu si peu digne de vos soins ? Il est donc né ingrat, et d'un sang vil ?
 
-    M. DE CHATEAUROUX.    
+    M. DE CHATEAUROUX.
 Je n'aurois point désiré d'autre fils, je lui croyois toutes les vertus⁎ ; mais il a séduit ma fille, il l'a dérobée à mon pouvoir, rien ne peut le justifier, ni le mettre à l'abri de mes poursuites.
 
     NINON, *à part*.
@@ -4998,7 +4996,7 @@ LES MÊMES, MOLIERE.
 **M***oliere*, voilà Monsieur de Chateauroux, dont la fille est venue hier vous trouver chez moi, à qui vous avez parlé en ma présence, comme un père, comme un ami ; il ne nous reste plus qu'à désarmer le père le plus tendre. Si nous pouvions lui ôter l'erreur du préjugé ; mais je tremble que nos instances ne soient sans effet.
 
     MOLIERE.
-Je ne vous reconnois pas, Mademoiselle de l'Enclos, et quelle opinion avez-vous actuellement des hommes ! Monsieur de Chateauroux est un brave officier, il est père, il sera juste et prudent.                        
+Je ne vous reconnois pas, Mademoiselle de l'Enclos, et quelle opinion avez-vous actuellement des hommes ! Monsieur de Chateauroux est un brave officier, il est père, il sera juste et prudent.
 (Il tire la lettre de Mademoiselle de Chateauroux de sa poche, et la donne à Monsieur de Chateauroux.)
 
 Lisez, Monsieur ; instruisez-vous sur le compte de Mademoiselle votre fille.
@@ -5045,7 +5043,7 @@ C'est d'aujourd'hui que je connois les véritables chagrins. Ah ! il n'y en a p
 Que son état m'afflige ! D'autant plus qu'elle est forte, elle en doit souffrir davantage.
 
 
-### SCENE XXIII.                        
+### SCENE XXIII.
 MOLIERE, M. DE CHATEAUROUX.
 
 
@@ -5068,7 +5066,7 @@ Cela se peut, Monsieur Molière, mais je n'en suis pas certain, et le doute m'em
 Je suis de votre avis, Monsieur : mais si cette mère infortunée étoit aussi intéressante que Mademoiselle de l'Enclos, aussi estimable par ses rares qualités, que feriez-vous, Monsieur ?
 
 
-### SCENE XXIV.                            
+### SCENE XXIV.
 LES MÊMES, NINON, M*lle* OLIMPE,
 
 LE CHEVALIER DE BELFORT.
@@ -5096,7 +5094,7 @@ Que faites-vous, Mademoiselle de l'Enclos ? Expliquez-vous, de grace.
     NINON.
 Monsieur, voilà votre fille, et voilà mon fils ; en prononçant leur bonheur, vous ferez le mien.
 
-    M. DE CHATEAUROUX, *dans la plus grande surprise*.    
+    M. DE CHATEAUROUX, *dans la plus grande surprise*.
 Quoi ! vous étiez sa mère, et vous me l'avez laissé ignorer !
 
     MOLIERE.
@@ -5135,7 +5133,7 @@ Rapportez-vous-en, Monsieur, à sa pénétration⁎.
     M. DE CHATEAUROUX.
 Eh bien, soit, il faut faire ce que vous voulez, adorable Ninon.
 
-    NINON.    
+    NINON.
 Vous ne serez pas non plus étonné que j'aille me retirer dans un Couvent.
 
     DE BELFORT.
@@ -5161,7 +5159,7 @@ LES MÊMES, CHAPELLE, SAINT-EVREMONT.
     CHAPELLE.
 **P***uis-je* croire ce qui vient de se répandre dans tout Paris ? on dit que vous allez nous quitter, Ninon ?
 
-    MOLIERE.    
+    MOLIERE.
 Oui, mes amis ; joignez-vous à mes instances, et détournons-la de ce fatal projet.
 
     CHAPELLE.
@@ -5178,13 +5176,13 @@ Son esprit nous l'enlève, mais son cœur nous la rendra.
 Fin de la Pièce.
 
 
-## POSTFACE.                        
+## POSTFACE.
 
 *Le* fameux Aréopage d'Athènes jouissoit de moins de crédit et de considération que le Comité de la Comédie Françoise aux yeux des Auteurs enthousiastes [256] : j'en ai été moi-même enivrée.
 
 Que tout Auteur reprenne le sang-froid qui m'a desillé les yeux, il verra bientôt son insolence fléchir devant ses maîtres ; et quand, à l'avenir, elle refusera des Pièces, elle mettra la décence et l'équité qui doivent guider sa conduite et son opinion ; l'Auteur qui perd le fruit de ses peines, de ses veilles, mérite toujours des égards et ne doit pas s'attendre que des Comédiens porteront l'effronterie jusqu'à le persifler, le baffouer tout le tems d'une lecture.
 
-Passons donc à celle qui me concerne, et soyons laconique autant qu'il nous sera possible. J'ai déjà fatigué le Lecteur, et je sens son impatience de voir prononcer la sentence qui condamne la Pièce qu'il vient de lire. J'ai besoin cependant de faire quelques remarques. Par exemple, au moment que Francisque se défait noblement de la séduction du Grand-Prieur, à ce passage les Comédiens haussèrent les épaules, et rirent beaucoup au refus de la Soubrette ; des Valets décents sur la Scène ne sont pas à leur portée ; mais ils conviennent infiniment à Mademoiselle de l'Enclos, et diffèrent bien avec Suzanne et Figaro.                     
+Passons donc à celle qui me concerne, et soyons laconique autant qu'il nous sera possible. J'ai déjà fatigué le Lecteur, et je sens son impatience de voir prononcer la sentence qui condamne la Pièce qu'il vient de lire. J'ai besoin cependant de faire quelques remarques. Par exemple, au moment que Francisque se défait noblement de la séduction du Grand-Prieur, à ce passage les Comédiens haussèrent les épaules, et rirent beaucoup au refus de la Soubrette ; des Valets décents sur la Scène ne sont pas à leur portée ; mais ils conviennent infiniment à Mademoiselle de l'Enclos, et diffèrent bien avec Suzanne et Figaro.
 
 A la Scène de Mademoiselle Olimpe, Molière les révolta, et sur-tout sa modestie ; vertu⁎ …………………………………………………………………………………………. et qui accompagne toujours le vrai mérite.
 
@@ -5210,7 +5208,7 @@ Heureux⁎ début.
 Cet Ouvrage est rempli de mérite ; mais il y a des longueurs à retrancher. Je reçois à correction.
 Il n'y a pas encore à se désespérer.
 
-    TROISIEME BULLETIN.    
+    TROISIEME BULLETIN.
 Il y a infiniment de talent dans cet Ouvrage. Je reçois à correction.
 J'espère encore.
 
@@ -5224,7 +5222,7 @@ Ah ! Berger Coridon ! on vous reconnoît comme vous avez reconnu l'intention d
 
     SIXIEME BULLETIN.
 O Lecteur ! ô Lecteur ! je vous demande de la patience pour entendre ceci de sang-froid.
-Cette Pièce est sans goût, sans talent ; je suis indigné de voir que l'Auteur ait pu s'oublier jusqu'à faire du grand Molière le Confident des amours de Ninon ; et si j'ai quelque conseil à lui donner, c'est de renoncer à cette Pièce, et de ne la montrer à personne ; car je la refuse.                     
+Cette Pièce est sans goût, sans talent ; je suis indigné de voir que l'Auteur ait pu s'oublier jusqu'à faire du grand Molière le Confident des amours de Ninon ; et si j'ai quelque conseil à lui donner, c'est de renoncer à cette Pièce, et de ne la montrer à personne ; car je la refuse.
 Pour celui-ci je ne pus pas connoître l'Auteur, à moins que tout le Comité ne l'ait fabriqué ensemble. Combien Molière se trouveroit choqué et humilié, s'il pouvoit revenir parmi nous, de voir à quel point on fait tort à son esprit et à sa mémoire ! lui qui fut le confident et l'ami de Ninon, ainsi que tous les grands-hommes du Royaume, sans excepter les femmes les plus vertueuses⁎. Quelles sont les personnes qui n'ont pas cru se couvrir de gloire, quand elles avoient le bonheur d'être admises dans la société de Ninon de l'Enclos ? Mais les Comédiens ont craint de la voir parmi eux ………………………………………… ………………………………………………………………………………………… Elle auroit été déplacée. …………………………………………………………………… ……………………………………………………………………………. Mais le Public l'auroit accueillie comme elle le mérite, et cette femme, présentée dans son vrai caractère, n'auroit pu que rendre les femmes plus équitables, même à travers leurs foiblesses ; mais un beau caractère leur est étranger : je puis croire cependant que si Mademoiselle Contat s'étoit trouvée à cette lecture, son discernement auroit prévalu. J'avois bien M. Molé [262], et je crois l'avoir reconnu dans le premier Bulletin : je distingue trois Comédiens honnêtes que je nommerai à la fin.
 
     SEPTIEME BULLETIN.

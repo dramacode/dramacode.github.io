@@ -1,5 +1,5 @@
 ---
-identifier: boursault_marie  
+identifier: boursault_marie-stuard  
 creator: Boursault, Edme  
 date: 1691  
 title: Marie Stuard, Reine d'Écosse. Tragédie  
@@ -1463,12 +1463,6 @@ Et ledit sieur Boursault a cedé au sieur J. Guignard le droit qu'il a au presen
 La Scene est à Londres.
 
 
-MARIE STUARD
-
-REINE D'ECOSSE,
-
-*TRAGéDIE.*
-
 
 ## ACTE PREMIER.
 
@@ -1532,10 +1526,10 @@ Le Duc de Norfolc, le Comte de Neucastel.
 Comte.  
 
     LE COMTE DE NEUCASTEL.
-Seigneur ?  
+    Seigneur ?  
 
     LE DUC DE NORFOLC
-De grace employez tous vos soins  
+        De grace employez tous vos soins  
 A voir si dans ce lieu nous sommes sans témoins.  
 Haï d'Elizabeth, je ne fais point de doute  
 Que je ne sois perdu si quelqu'un nous écoute.  
@@ -1581,7 +1575,7 @@ Oüy, Seigneur : Et bien-tost par mes soins empressez
 Vous connoistrez vous-même à quel point...  
 
     LE DUC DE NORFOLC
-C'est assez.  
+        C'est assez.  
 Comte de Neucastel, je vous ouvre mon ame.  
 Je suis las d'obeïr aux ordres d'une femme.  
 Depuis qu'Elizabeth regne sur les Anglois  
@@ -1693,7 +1687,7 @@ L'espoir de s'agrandir⁎ fait aisément un traitre [148].
 Si vous estes surpris vous vous perdez.  
 
     LE DUC DE NORFOLC
-Helas!  
+        Helas!  
 Tout est perdu pour moy si je ne me perds pas.  
 Des Juges dévoüez, sans honneur, sans naissance,  
 D'une Reine adorable ont proscrit l'innocence :  
@@ -1710,7 +1704,7 @@ Dites-moy quel effort vous voulez que je fasse.
 Encor un coup, Seigneur, je suis prest...  
 
     LE DUC DE NORFOLC
-Qu'il m'est doux  
+        Qu'il m'est doux  
 D'avoir dans mon malheur un amy tel que vous !  
 Comte, puis que pour moy vostre ardeur est si grande,  
 L'effort dont j'ay besoin, & que je vous demande,  
@@ -1740,7 +1734,7 @@ Le criminel amour dont il a receu l'estre [152]
 Le condamne...  
 
     LE COMTE DE NEUCASTEL
-Seigneur, je croy le voir paroistre :  
+        Seigneur, je croy le voir paroistre :  
 Laissez-moy de son coeur penetrer les secrets.  
 Pour remplir vos desirs je vous suivray de prés [153].  
 
@@ -1753,7 +1747,7 @@ Le Comte de Morray, le Comte de Neucastel.
 He bien, Seigneur...  
 
     LE COMTE DE MORRAY
-Souffrez que mon coeur se déploye,  
+        Souffrez que mon coeur se déploye,  
 Et que j'étale icy la grandeur de ma joye.  
 Rien ne s'oppose plus au succez de mes feux :  
 Mon plus grand Ennemy [154] met le comble à mes vœux.  
@@ -1764,7 +1758,7 @@ En va faire à la Reine un fidele recit.
 Nous triomphons.  
 
     LE COMTE DE NEUCASTEL
-Seigneur, j'ay toûjours même zele :  
+        Seigneur, j'ay toûjours même zele :  
 Mais prestez de la force à mon coeur qui chancelle ;  
 Et puisque le silence est encor à mon choix,  
 Laissez-moy vous parler pour la derniere fois.  
@@ -1791,7 +1785,7 @@ Jugez en quel peril je me verrois alors.
 Il faudroit que mon sang...  
 
     LE COMTE DE MORRAY
-Moy des remors ! moy, Comte ! [155]  
+        Moy des remors ! moy, Comte ! [155]  
 D'un soupçon qui m'outrage épargnez-moy la honte.  
 Quelle peur vous allarme ? Et par quel sort fatal  
 Ay-je pû meriter qu'on me traite si mal ?  
@@ -1836,7 +1830,7 @@ N'a jamais avoüé que vous fussiez son fils.
 Qui justifiera...  
 
     LE COMTE DE MORRAY
-Qui ? Ma valeur, mon audace [157] :  
+        Qui ? Ma valeur, mon audace [157] :  
 Mon ardeur de regner & de remplir sa place :  
 Si le Ciel m'eût fait naistre en un degré plus bas,  
 De si beaux mouvemens ne me dureroient pas.  
@@ -1916,7 +1910,7 @@ Lancastre, le Comte de Morray, le Comte de Neucastel.
 
 
     LANCASTRE
-Ah, Seigneur, hâtez-vous,  
+        Ah, Seigneur, hâtez-vous,  
 Et venez de la Reine appaiser le courroux.  
 Je ne puis deviner qui conspire contr'elle ;  
 Mais elle est resoluë à punir un rebelle,  
@@ -1933,7 +1927,7 @@ Et quelle ame assez basse ose estre encor rebelle?
 Vous a-t'-on dit le nom du coupable ?  
 
     LANCASTRE
-Seigneur,  
+        Seigneur,  
 Je n'ose en soupçonner la Reine vostre Sœur.  
 Mais un des Officiers qui doit répondre d'elle  
 A sans doute à la Reine appris quelque nouvelle.  
@@ -1983,19 +1977,19 @@ Ses amours ! Juste Ciel, que m'apprend-on encore ?
 Et pour qui ?  
 
     LE COMTE DE MORRAY
-Pour ma Sœur.  
+    Pour ma Sœur.  
 
     ELISABETH
-L'aime-t'il ?  
+    L'aime-t'il ?  
 
     LE COMTE DE MORRAY
-Il l'adore.  
+        Il l'adore.  
 
     ELISABETH
 Il l'adore ! Qu'entens-je ?  
 
     LE COMTE DE MORRAY
-Et quel autre motif  
+        Et quel autre motif  
 D'un Ministre d'Estat feroit un fugitif ? [161]  
 
     ELISABETH
@@ -2047,16 +2041,16 @@ Je vous en donne l'ordre, & ce soin vous regarde.
 Hola.  
 
     EURIC
-Madame ?  
+    Madame ?  
 
     ELISABETH
-Euric, pour commander ma Garde  
+        Euric, pour commander ma Garde  
 Du Comte de Morray je viens de faire choix :  
 Ayez soin cette nuit d'obeïr à sa voix.  
 Je l'ordonne.  
 
     LE COMTE DE MORRAY
-Charmé de cette confiance  
+        Charmé de cette confiance  
 Je jure que vos jours sont en pleine asseurance,  
 Et que vos ennemis n'iront point jusqu'à vous  
 Qu'on ne m'ait veu, Madame, expirer sous leurs coups.  
@@ -2117,7 +2111,7 @@ Je croyois sur son coeur ma puissance absoluë.
 Le Traistre !  
 
     LANCASTRE
-A quoy, Madame, estes-vous resoluë ?  
+        A quoy, Madame, estes-vous resoluë ?  
 
     ELISABETH
 A quoy, Lancastre ? Apprens que plus j'eus de bonté,  
@@ -2183,7 +2177,7 @@ Vous verrez que le Comte a de plus hauts desseins.
 Il est jeune & sensible : & vos charmes...  
 
     ELISABETH
-Arreste.  
+        Arreste.  
 Mes charmes ne font point de honteuse conqueste...  
 S'il osoit me tenir les discours que tu tiens  
 Je luy vendrois [176] bien cher de pareils entretiens.  
@@ -2243,7 +2237,7 @@ Demain vous vous rendrez aux affaires publiques.
 Demain…  
 
     ELISABETH
-C'est assez, Duc. Vostre zele est si grand  
+        C'est assez, Duc. Vostre zele est si grand  
 Qu'on ne peut resister à ce qu'il entreprend.  
 Je viens de reconnoistre à ce conseil sincere  
 Que malgré mes soupçons je vous suis toûjours chere :  
@@ -2295,7 +2289,7 @@ Je vous attends.
 ### SCENE VI
 
     LE DUC DE NORFOLC,  *seul.*
-O Ciel ! voy pour qui je t'implore.  
+        O Ciel ! voy pour qui je t'implore.  
 Avant que dans ce lieu tu rameines l'aurore  
 Attends qu'un long espace entre la Reine & nous  
 Ait mis ce que j'adore à couvert de ses coups.  
@@ -2312,7 +2306,7 @@ A la Reine d'Ecosse a-t-on manqué de foy ?
 Parlez, Euric.  
 
     EURIC
-Seigneur, elle vient aprés moy.  
+        Seigneur, elle vient aprés moy.  
 Touché de la frayeur dont son ame est atteinte,  
 Je devance ses pas pour dissiper sa crainte.  
 Un peu d'émotion meslée à ses attraits  
@@ -2327,7 +2321,7 @@ Le Duc de Norfolc, Marie Stuard, Euric, gardes.
 Venez, venez, Madame...  
 
     MARIE STUARD
-Ah ! Duc que j'apprehende  
+        Ah ! Duc que j'apprehende  
 De vous rendre funeste une bonté si grande !  
 Si la Reine en secret fait observer nos pas,  
 En voulant me sauver ne vous perdez-vous pas ?  
@@ -2355,7 +2349,7 @@ Le bras que tu saisis t'a comblé de bienfaits.
 C'est le Duc de Norfolc, qui cent fois...  
 
     KILLEGRE
-Il n'importe.  
+        Il n'importe.  
 Je suis Sujet, Seigneur, & ce devoir l'emporte. [179]  
 
 
@@ -2371,7 +2365,7 @@ C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !
 Qui, moy, vostre ennemie ! Eh, Madame...  
 
     ELISABETH
-Ah le Traistre !  
+        Ah le Traistre !  
 Enfin, Ingrat, enfin, tu t'es donc fait connoistre ?  
 A démentir mes yeux ose appliquer tes soins.  
 Ce sont, pour ton malheur, de fideles témoins.  
@@ -2426,7 +2420,7 @@ Oüy, Madame, à l'instant vous l'allez voir paroître.
 Et les Comtes ?  
 
     LANCASTRE
-Madame, ils vont entrer tous deux.  
+        Madame, ils vont entrer tous deux.  
 
     ELISABETH
 Pour immoler le Duc je veux m'asseurer d'eux.  
@@ -2457,7 +2451,7 @@ Elisabeth, le Duc de Norfolc.
     ELISABETH 
 Elle fait signe aux Gardes de se retirer.
 
-Approchez, Duc. Si le Ciel l'eût permis  
+        Approchez, Duc. Si le Ciel l'eût permis  
 Vous alliez contre nous servir nos Ennemis.  
 Si le Duc de Norfolc nous declaroit la guerre,  
 Contre un Heros si grand que feroit l'Angleterre ?  
@@ -2571,7 +2565,7 @@ Quelle indigne Beauté vient de te rendre traistre !
 Proscrite, abandonnée...  
 
     LE DUC DE NORFOLC
-Et devroit-elle l'estre ?  
+        Et devroit-elle l'estre ?  
 Quel spectacle à nos yeux allez-vous étaller,  
 Madame ? Et que de droits faites-vous violer ?  
 De quelles Nations obtiendrez-vous l'estime ?  
@@ -2596,7 +2590,7 @@ Laisse-là mon devoir & songe au tien, Perfide :
 Ton trépas...  
 
     LE DUC DE NORFOLC
-Son aspect⁎ n'a rien qui m'intimide :  
+        Son aspect⁎ n'a rien qui m'intimide :  
 Souvent pour vostre gloire ou pour vos interests  
 Contre vos Ennemis je l'ay veu d'assez prés ;  
 Et pour la Verité, qui m'est cent fois plus chere,  
@@ -2681,7 +2675,7 @@ Examinez l'Ecrit qui paroît à vos yeux :
 Examinez...  
 
     ELISABETH
-Les Pairs l'examineront mieux :  
+        Les Pairs l'examineront mieux :  
 Ils doivent s'assembler dans la Salle prochaine.  
 Comme ta trahison ma vangeance est certaine.  
 Pour en joüir plûtost je veux dés ce moment  
@@ -2782,7 +2776,7 @@ Le crime que j'ay fait de soûpirer pour vous.
 O Ciel !  
 
     LE DUC DE NORFOLC
-Vous jugez bien qu'il m'eût esté facile  
+        Vous jugez bien qu'il m'eût esté facile  
 De supprimer l'aveu d'une ardeur inutile,  
 Si je n'eusse esperé que d'un crime si grand  
 J'obtiendrois le pardon, au moins en expirant.  
@@ -2828,7 +2822,7 @@ Que ne chassiez-vous, Duc, cet amour de vostre ame ?
 Que ne bannissiez-vous...  
 
     LE DUC DE NORFOLC
-Et l'ay-je pû, Madame ?  
+        Et l'ay-je pû, Madame ?  
 Si les hautes vertus ont droit de tout charmer  
 Estoit-il à mon choix de ne pas vous aimer ?  
 Tant que j'ay de la Reine ignoré l'injustice  
@@ -2869,7 +2863,7 @@ De vous faire rentrer dans vostre Appartement,
 Madame.  
 
     LE DUC DE NORFOLC
-Adieu, Madame. Une autre destinée  
+        Adieu, Madame. Une autre destinée  
 Termine de vos jours la course infortunée.  
 Quels que soient les tourmens qui me sont preparez  
 Mes maux les plus cruels sont ceux que vous aurez,  
@@ -2908,7 +2902,7 @@ D'un homme tel que toy la pitié me fait honte.
 Retire-toy.  
 
     LE COMTE DE NEUCASTEL
-La Reine attend l'Ordre sacré [199]  
+        La Reine attend l'Ordre sacré [199]  
 Dont sa main autrefois vous avoit honoré.  
 Cette pompeuse Marque, en ce lieu si cherie,  
 Sous le fer d'un Bourreau luy sembleroit flétrie.  
@@ -3000,7 +2994,7 @@ Sans estre signalé par un double trépas.
 J'ay déja fait...  
 
     LE COMTE DE NEUCASTEL
-Seigneur, je voy venir la Reine.  
+        Seigneur, je voy venir la Reine.  
 
 
 ### SCENE III
@@ -3016,11 +3010,11 @@ A de nouveaux mépris je veux forcer un Traistre.
 Faites venir le Duc, Gardes.  
 
     LE COMTE DE MORRAY
-Que faites-vous,  
+        Que faites-vous,  
 Madame ?  
 
     ELISABETH  *aux Gardes.*
-Obeïssez, ou craignez mon courroux.  
+        Obeïssez, ou craignez mon courroux.  
 
     LE COMTE DE MORRAY
 Vous fremissez pour luy du sort qui le menace :  
@@ -3028,7 +3022,7 @@ Et s'il pousse un soûpir il obtiendra sa grace,
 Madame.  
 
     ELISABETH
-S'il l'obtient, vous sçaurez à quel prix,  
+        S'il l'obtient, vous sçaurez à quel prix,  
 Et peut-estre tous deux en serez-vous surpris.  
 Jamais contre l'ingrat je ne fus plus émeuë.  
 Je demande à le voir, & j'abhorre sa veuë.  
@@ -3202,7 +3196,7 @@ Trouveroit des Proscrits pour de plus justes causes.
 Vous m'entendez [222].  
 
     ELISABETH
-Oüy, Traistre : Et tu ne peux jamais  
+        Oüy, Traistre : Et tu ne peux jamais  
 Faire aller plus avant ma haine & tes forfaits.  
 Je ne sçay rien en moy susceptible d'outrage  
 Qui de ton lâche coeur n'ait éprouvé la rage [223].  
@@ -3220,10 +3214,10 @@ Prest à voir par ta mort ma vengeance assouvie,
 Veux-tu ta grace ? [224]  
 
     LE COMTE DE MORRAY
-O Ciel !  
+    O Ciel !  
 
     LE DUC DE NORFOLC
-Je ne hais point la vie.  
+        Je ne hais point la vie.  
 Si vous me la laissez il me sera bien doux  
 De pouvoir de nouveau la prodiguer pour vous.  
 D'un fidele Sujet l'infatigable zele...  
@@ -3237,7 +3231,7 @@ Et j'en veux un de toy qui merite ta grace ;
 Je ne te la promets qu'à ce prix.  
 
     LE DUC DE NORFOLC
-Commandez.  
+        Commandez.  
 Je puis faire encor plus que vous ne demandez.  
 Rien ne m'est impossible, où je voy de la gloire.  
 (Car par respect pour vous j'ay de la peine à croire  
@@ -3257,7 +3251,7 @@ Un refus échapé⁎ rend ta perte certaine.
 Reponds, sans balancer.  
 
     LE DUC DE NORFOLC
-Gardes, qu'on me rameine.  
+        Gardes, qu'on me rameine.  
 C'est ma réponse.  
 
 
@@ -3266,7 +3260,7 @@ Elisabeth, le Comte de Morray, le Comte de Neucastel, suite.
 
 
     ELISABETH
-Ah Ciel ! l'Ingrat n'hesite pas !  
+        Ah Ciel ! l'Ingrat n'hesite pas !  
 Ma Rivale à la mort va devancer tes pas,  
 Traistre. Dés ce moment pour contenter ma haine [227]  
 Allez y preparer cette coupable Reine.  
@@ -3336,7 +3330,7 @@ Killegre sort.
 Le Comte de Morray viendra-t-il ?  
 
     MELVIN
-Oüy, Madame.  
+        Oüy, Madame.  
 
     MARIE STUARD
 Vostre zele, Melvin, est gravé dans mon ame.  
@@ -3366,7 +3360,7 @@ Que vostre injuste mort nous va coûter de pleurs !
 Et qu'un jour…  
 
     MARIE STUARD
-Quelqu'un vient. Contraignez vos douleurs.  
+        Quelqu'un vient. Contraignez vos douleurs.  
 
 
 ### SCENE II
@@ -3426,7 +3420,7 @@ Adieu.
 ### SCENE III
 
     LE COMTE DE MORRAY* seul.*
-Je sens mon cœur qui s'émeut, qui chancelle :  
+        Je sens mon cœur qui s'émeut, qui chancelle :  
 La voix de la nature au repentir m'appelle.  
 Silence, indigne voix, qui me veux attendrir :  
 Qu'importe pour regner qui je fasse perir ?  
@@ -3528,7 +3522,7 @@ Si je luy rends le jour me rendra tout son zele.
 Le Duc, Madame ? O Ciel !  
 
     ELISABETH
-Tout coupable qu'il est,  
+        Tout coupable qu'il est,  
 Il est assez puny de sçavoir son Arrest :  
 Et s'il faut m'expliquer, quoy qu'ait fait son audace,  
 Ce qu'a fait sa valeur sollicite sa grace.  
@@ -3556,11 +3550,11 @@ Je luy cause des maux où je prends trop de part.
 Portez-luy le pardon…  
 
     LE COMTE DE MORRAY
-Madame, il est trop tard.  
+        Madame, il est trop tard.  
 Il est mort.  
 
     ELISABETH
-Il est mort ! Ah, perfide, qu'entens-je !  
+        Il est mort ! Ah, perfide, qu'entens-je !  
 
     LE COMTE DE MORRAY
 Un si juste trépas le punit & vous vange.  
@@ -3568,7 +3562,7 @@ Coupable envers l'Etat si lâchement trahy,
 Condamné par les Pairs, hay de vous…  
 
     ELISABETH
-Hay !  
+        Hay !  
 Ah Traistre ! Dans mon cœur tu sçais ce qui se passe.  
 A la Reine d'Ecosse allez porter sa grace,  
 Lancastre. Ce Perfide, ennemy de sa Sœur,  
@@ -3611,7 +3605,7 @@ Ce que je dois souffrir puis que j'en suis la cause.
 Vous, ô Ciel !  
 
     LE COMTE DE NEUCASTEL
-Moy, Madame. Un aveu si honteux  
+        Moy, Madame. Un aveu si honteux  
 Vous anime à ma perte ; & c'est ce que je veux.  
 J'offre à vostre justice une digne matiere.  
 Ne la trahissez point, faites-la toute entiere.  
@@ -3632,10 +3626,10 @@ Leur Fils en son pouvoir doit trembler pour sa vie.
 Hola, Gardes.  
 
     EURIC
-Madame.  
+    Madame.  
 
     ELISABETH  *en montrant le Comte de Morray.*
-Asseurez-vous de luy.  
+        Asseurez-vous de luy.  
 Traistre, qui de mon Trône as fait tomber l'appuy,  
 Ton sang, pour le vanger, répandu goute à goute…  
 
@@ -3728,7 +3722,7 @@ Il sort.
 
 
     ELISABETH
-Qu'on le suive, & que l'on m'en réponde.  
+        Qu'on le suive, & que l'on m'en réponde.  
 
 
 ### SCENE VI
@@ -3787,7 +3781,7 @@ Elisabeth, Lancastre.
 
 
     ELISABETH
-Juste Ciel ! quelle suite de crimes !  
+        Juste Ciel ! quelle suite de crimes !  
 Que la haine & l'amour ont d'injustes maximes⁎ !  
 Et qu'un cœur déreglé, qui suit leurs mouvemens  
 Se condamne soy-même à de cruels tourmens !  

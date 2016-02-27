@@ -43,7 +43,7 @@ La France est des Heros la glorieuse mere ;
 Mais avec tant d'orgueil la France desespere,
 D'avoir un Successeur qui soit digne de Toy.
 
-**** *book_ *id_body-4-1 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-401 *act_ *date_1661 *creator_boyer
 
 -*who_demetrius
 Pourray-je voir enfin mon ingrate Princesse ?
@@ -52,23 +52,23 @@ Pourray-je voir enfin mon ingrate Princesse ?
 Vous la verrez bien-tost.
 
 -*who_demetrius
-Qu'on sorte,  ; qu'on me laisse ;
+      Qu'on sorte,  ; qu'on me laisse ;
 Et que nul n'entre icy que par un ordre exprés.
 
-**** *book_ *id_body-4-2 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-402 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 La Reyne...
 
 -*who_demetrius
-Que veut-elle ?
+      Que veut-elle ?
 
 -*who_milon
-Elle me suit de prés,
+      Elle me suit de prés,
 La voicy.
 
 -*who_demetrius
-Quoy, faut-il nous voir toûjours ensemble ?
+      Quoy, faut-il nous voir toûjours ensemble ?
 Je hay la jalousie,  ; cela luy ressemble.
 Quoy, toûjours sur mes pas, à toute heure, en tous lieux,
 Les soûpirs à la bouche,  ; les larmes aux yeux,
@@ -157,12 +157,12 @@ Si j'avois son pouvoir ainsi que sa colere...
 Mais enfin il est mort.
 
 -*who_arsinoe
-Tant de sanglants⁎ mespris
+      Tant de sanglants⁎ mespris
 Me l'ont depuis trois mois cruellement apris :
 S'il vivoit...
 
 -*who_demetrius
-S'il vivoit, cét orgueil qui menace,
+      S'il vivoit, cét orgueil qui menace,
 Quoy que tousjours injuste, auroit meilleure grace ;
 Mais enfin il est mort,  ; vostre unique appuy
 Et vostre unique espoir sont tombez avec luy.
@@ -197,7 +197,7 @@ J'en veux tousjours garder l'esperance  ; l'envie :
 Mais n'espere jamais d'un parjure odieux
 Estre quitte envers moy, ny quitte envers les Dieux.
 
-**** *book_ *id_body-4-3 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1661 *creator_boyer
 
 -*who_demetrius
 Ton interest n'est pas ce qui trouble mon ame,
@@ -234,29 +234,29 @@ Tout ce brillant amas de force  ; de douceur,
 Charmera-t'il les yeux sans arrester le coeur ?
 Gardes.
 
-**** *book_ *id_body-4-4 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-404 *act_ *date_1661 *creator_boyer
 
 -*who_milon
-Seigneur...
+      Seigneur...
 
 -*who_demetrius
-Helas !
+      Helas !
 
 -*who_milon
-Quoy ! ce grand coeur soupire ?
+      Quoy ! ce grand coeur soupire ?
 
 -*who_demetrius
 Qu'on nous laisse icy seuls.
 
 -*who_milon
-Gardes, qu'on se retire.
+      Gardes, qu'on se retire.
 Vous puis-je demander quel trouble, quel soucy...
 
 -*who_demetrius
 Alexandre revient.
 
 -*who_milon
-Il est fort prés d'icy.
+      Il est fort prés d'icy.
 
 -*who_demetrius
 Sçais-tu qu'il vient m'oster mon Sceptre  ; ma Princesse ?
@@ -378,14 +378,14 @@ Tâchons donc de fléchir cet objet adorable.
 Mais la Reine...
 
 -*who_demetrius
-Tu sçais quel genereux dessein
+      Tu sçais quel genereux dessein
 Me força malgré moy de luy donner la main :
 Pour sauver mon Rival  ; ma chere Ismenie
 J'épousay malgré moy la honte  ; l'infamie,
 Et sans mesme employer la coustume  ; les loix,
 Tout mon devoir m'arrache à cet indigne choix.
 
-**** *book_ *id_body-4-5 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-405 *act_ *date_1661 *creator_boyer
 
 -*who_telamon
 La Princesse, Seigneur, par vostre ordre est venuë.
@@ -409,7 +409,7 @@ Apres ce grand effort les pardonnerez-vous ?
 Vous ne répondez rien ?
 
 -*who_ismenie
-Que pourray-je vous dire ?
+      Que pourray-je vous dire ?
 Le Prince d'un malheur va tomber dans un pire ;
 Je pleurois son exil,  ; ce triste retour
 Plus que son exil mesme afflige mon amour,
@@ -490,7 +490,7 @@ Des biens beaucoup plus doux que celuy de regner.
 Parlez, resolvez-vous, qu'avez-vous à me dire ?
 Faut-il enfin ceder, ou retenir l'Empire ?
 
-**** *book_ *id_body-4-6 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-406 *act_ *date_1661 *creator_boyer
 
 -*who_seleucus
 Alexandre s'aproche,  ; chacun va sortir,
@@ -506,7 +506,7 @@ Souvenez-vous quel est le prix d'une Couronne,
 Quel devoir, quelle ardeur m'oblige à la ceder,
 Et qu'en cedant un Thrône on peut tout demander.
 
-**** *book_ *id_body-4-7 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-407 *act_ *date_1661 *creator_boyer
 
 -*who_ismenie
 Laodice, est-il vray ce que je viens d'entendre ?
@@ -542,7 +542,7 @@ J'écoute son devoir, mais je crains sa tendresse.
 Allons voir mon Amant qui revient dans ces lieux,
 Travaillons pour sa gloire,  ; mourons à ses yeux.
 
-**** *book_ *id_body-5-1 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-501 *act_ *date_1661 *creator_boyer
 
 -*who_seleucus
 Ou peut-on voir jamais avecque tant de zele
@@ -594,7 +594,7 @@ Mais mon amour ne peut luy quiter Ismenie.
 L'aimez-vous ?
 
 -*who_milon
-Ouy, je l'aime,  ; je sens que mon coeur
+      Ouy, je l'aime,  ; je sens que mon coeur
 Par trop de retenüe a conceu plus d'ardeur.
 Comme un brazier caché, ma passion secrete
 Est d'autant plus pressante, importune, inquiete,
@@ -613,14 +613,14 @@ Que tant de maux soufferts luy font naistre pour vous ?
 Quel est donc vostre espoir ?
 
 -*who_milon
-Dans ma fureur extrême
+      Dans ma fureur extrême
 Je feray tout perir,  ; la Princesse mesme.
 
 -*who_seleucus
 O Dieux !
 
 -*who_milon
-Ton coeur s'étonne⁎,  ; tremble à ce discours.
+      Ton coeur s'étonne⁎,  ; tremble à ce discours.
 Mais sçais-tu l'ascendant des jalouses amours ?
 J'adore un autre Dieu, que ce Dieu de tendresse
 Qui remplit tous les coeurs de crainte  ; de foiblesse,
@@ -680,13 +680,13 @@ Toy, va-t'en voir la Reyne,  ; pressant sa furie...
 Ah ! craignez...
 
 -*who_milon
-Qu'ay-je à craindre en perdant Ismenie ?
+      Qu'ay-je à craindre en perdant Ismenie ?
 De grace, laisse moy mon conseil⁎ : aujourd'huy
 Mon trouble est trop puissant pour en prendre d'autruy.
 Mais voicy nos Rivaux. Triste  ; jalouse flâme,
 Cache ton desespoir dans le fons de mon ame.
 
-**** *book_ *id_body-5-2 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-502 *act_ *date_1661 *creator_boyer
 
 -*who_demetrius
 Souffrez que l'amitié vous dérobe un moment
@@ -778,7 +778,7 @@ D'une invincible horreur frape toûjours mes yeux.
 Doncques si vous m'aimez...
 
 -*who_demetrius
-Helas ! si je vous aime ?
+      Helas ! si je vous aime ?
 Dois-je enfin m'expliquer,  ; me trahir moy-mesme ?
 Je tremble, je fremis,  ; mon coeur interdit...
 
@@ -786,7 +786,7 @@ Je tremble, je fremis,  ; mon coeur interdit...
 Que me dit cette peur, ce desordre ?
 
 -*who_demetrius
-Il vous dit,
+      Il vous dit,
 Que cet amy si cher dont vous vantez le zele,
 Est un amy sans coeur, un lâche, un infidelle,
 Qui sous un faux éclat couvrant ses lâchetez...
@@ -806,7 +806,7 @@ Dont vous avez tantost menacé ma tendresse.
 Ah ! Destins ennemis !
 
 -*who_demetrius
-Je ne vous diray pas
+      Je ne vous diray pas
 Combien pour n'aimer plus j'ay rendu de combats.
 J'aurois par mes efforts brisé la tyrannie
 De toute autre beauté que celle d'Ismenie,
@@ -843,13 +843,13 @@ Avec elle donnez quelques pleurs à ma mort.
 Adieu.
 
 -*who_milon
-Peut-on regner avec tant de foiblesse ?
+      Peut-on regner avec tant de foiblesse ?
 Seigneur, souffrirez-vous...
 
 -*who_alexandre
-Suy ton Maistre,  ; me laisse.
+      Suy ton Maistre,  ; me laisse.
 
-**** *book_ *id_body-5-3 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Amy, cruel autant qu'on peut l'imaginer,
@@ -873,7 +873,7 @@ Un peu moins amoureux  ; plus ambitieux,
 Cher  ; cruel amy, regne,  ; souffre que j'aime.
 Dieux ! qu'est-ce que je voy ? ma Princesse, elle mesme.
 
-**** *book_ *id_body-5-4 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-504 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Rendez-vous cet honneur au rang que je n'ay plus ?
@@ -1007,7 +1007,7 @@ Des jours, que par vostre ordre il gardera pour vous.
 Quoy, me quitter si tost ?
 
 -*who_alexandre
-Peu sçachant ma venuë,
+      Peu sçachant ma venuë,
 Ma fuite cette nuit en sera moins connuë :
 Un prompt depart faisant douter de mon retour,
 Peut épargner un peu de honte à mon amour.
@@ -1016,12 +1016,12 @@ Peut épargner un peu de honte à mon amour.
 Ah ! devoir trop cruel !
 
 -*who_alexandre
-Quoy, vous pleurez, Princesse ?
+      Quoy, vous pleurez, Princesse ?
 Adieu, je fuis des pleurs qui tentent ma tendresse,
 Et vay dans mon exil attendre un sort plus doux,
 Et du temps,  ; des Dieux,  ; plus encor de vous.
 
-**** *book_ *id_body-5-5 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1661 *creator_boyer
 
 -*who_laodice
 Quoy, le Prince s'enfuit,  ; cet ingrat vous quitte ?
@@ -1059,7 +1059,7 @@ Attendre un meilleur sort  ; du temps  ; des Dieux.
 Vous le suivre ? vous fuir ?
 
 -*who_ismenie
-Excuse ma foiblesse,
+      Excuse ma foiblesse,
 Voy les biens que je suis,  ; les maux que je laisse.
 Un Roy m'aime en ces lieux, un Roy peut tout oser,
 Et cette seule crainte a de quoy m'excuser ;
@@ -1073,9 +1073,9 @@ Madame, oubliez-vous ce que vous vous devez ?
 Ou la fuite, ou la mort.
 
 -*who_laodice
-Fuyez donc,  ; vivez.
+      Fuyez donc,  ; vivez.
 
-**** *book_ *id_body-6-1 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-601 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 Ah, que je suis heureux d'empescher cette fuite !
@@ -1144,10 +1144,10 @@ Et si nostre Tyran attente sur le Roy,
 Il tombe sans ressource,  ; tout dépend de moy.
 Il vient.
 
-**** *book_ *id_body-6-2 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-602 *act_ *date_1661 *creator_boyer
 
 -*who_demetrius
-Que Seleucus le garde,  ; m'en réponde.
+      Que Seleucus le garde,  ; m'en réponde.
 
 -*who_milon
 Cette fuite, Seigneur, étonne tout le monde.
@@ -1261,7 +1261,7 @@ Ce soupçon est injuste,  ; ta rage ennemie...
 Prenez-vous son party ?
 
 -*who_demetrius
-Je hay la calomnie.
+      Je hay la calomnie.
 
 -*who_milon
 Seigneur, la défiance est la vertu des Rois.
@@ -1270,7 +1270,7 @@ Seigneur, la défiance est la vertu des Rois.
 Dy plûtost des Tyrans.
 
 -*who_milon
-Vous en avez le choix ;
+      Vous en avez le choix ;
 Roy, Tyran, quelque nom que prenne un nouveau Maistre,
 Il doit craindre toûjours quiconque a droit de l'estre ;
 Pour bien regner, il faut craindre plus d'une fois ;
@@ -1302,7 +1302,7 @@ Quels crimes ? c'est pour vous seulement que j'en fais.
 -*who_demetrius
 Pour moy, lâche ! fuy, Monstre,  ; ne reviens jamais.
 
-**** *book_ *id_body-6-3 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-603 *act_ *date_1661 *creator_boyer
 
 -*who_demetrius
 Qu'avec juste raison je bannis cet infame !
@@ -1330,21 +1330,21 @@ S'il faut perdre un amy, détrôner une femme,
 Je ne refuse rien pour en venir à bout,
 Et ce coeur amoureux est capable de tout.
 
-**** *book_ *id_body-6-4 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-604 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
 Qu'entens-je !
 
 -*who_demetrius
-C'en est fait ; je suivray ton envie ;
+      C'en est fait ; je suivray ton envie ;
 Perisse Arsinoé ; vive  ; regne Ismenie ;
 Meure Alexandre.
 
 -*who_arsinoe
-O Dieux !
+      O Dieux !
 
 -*who_demetrius
-J'y consens sans regret :
+      J'y consens sans regret :
 Reviens. Dieux ! osez-vous entrer dans mon secret ?
 Ce lâche procedé marque vostre naissance :
 Mais vostre jalousie a pris trop de licence,
@@ -1368,10 +1368,10 @@ Ne peuvent s'abaisser à cette juste loy,
 Songez pour obeïr que je suis vostre Roy.
 Adieu, suivez mon ordre.
 
-**** *book_ *id_body-6-5 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-605 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
-Est-ce un charme, est-ce un songe,
+      Est-ce un charme, est-ce un songe,
 Qui dans une erreur folle,  ; m'entraîne,  ; me plonge ?
 Le traistre a déjà fait un choix à son amour :
 Celle que sa beauté fait regner dans ma Cour,
@@ -1389,7 +1389,7 @@ Tyran, je suis son sang, j'ay sa rage en mon sein,
 Son orgueil dans mon coeur,  ; sa foudre en ma main.
 Mais que fais-je ? quelqu'un pourroit icy m'entendre.
 
-**** *book_ *id_body-6-6 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-606 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
 C'est toy, Milon, reviens ; je te veux tout apprendre.
@@ -1420,7 +1420,7 @@ D'en advertir le traistre, ou de te joindre à moy.
 O Dieux !
 
 -*who_arsinoe
-Pour t'engager à suivre ma querelle⁎,
+      Pour t'engager à suivre ma querelle⁎,
 Ne t'imagine pas qu'en ce lieu je rapelle
 Tant de bien-faits receus d'Artaban  ; de moy ;
 Aux vrais hommes de Cour, aux hommes comme toy,
@@ -1455,7 +1455,7 @@ Me faire des leçons d'honneur  ; de vertu ?
 Toy, l'amy d'Artaban...
 
 -*who_milon
-Agreable colere !
+      Agreable colere !
 A ces marques en vous je connois vostre pere.
 Digne sang d'Artaban, pardonnez une horreur
 Que j'ay feinte à dessein de sonder vostre coeur.
@@ -1537,7 +1537,7 @@ Seule sans plus tarder vous aurez la Couronne.
 -*who_arsinoe
 Adieu, je ne la veux que pour te faire Roy.
 
-**** *book_ *id_body-6-7 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-607 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 Ce n'est pas mon dessein de regner avec toy :
@@ -1547,10 +1547,10 @@ Quel torrent de bon-heur d'un cours precipité
 M'entraîne dans ce port si long-temps souhaité ?
 Thrône, Maistresse...
 
-**** *book_ *id_body-6-8 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-608 *act_ *date_1661 *creator_boyer
 
 -*who_milon
-Enfin nous tenons Alexandre.
+      Enfin nous tenons Alexandre.
 
 -*who_seleucus
 Confus,  ; dans son sort ne pouvant rien comprendre,
@@ -1561,7 +1561,7 @@ Il n'est pas en estat de l'obtenir de moy.
 Et la Princesse ?
 
 -*who_seleucus
-Helas ! triste  ; desesperée,
+      Helas ! triste  ; desesperée,
 Du Prince pour jamais se voyant separée,
 Elle donne des pleurs au sort de son Amant.
 
@@ -1608,7 +1608,7 @@ Précipite déjà le moment de ma joye,
 Qu'il ne m'offre pas moins que le tiltre de Roy,
 Et qu'il n'est presque rien entre le Thrône  ; moy.
 
-**** *book_ *id_body-7-1 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-701 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Ces cruels traitemens ont droit de me surprendre.
@@ -1660,12 +1660,12 @@ Hâte ce doux moment qui me rend ma Princesse ;
 Je crains...
 
 -*who_seleucus
-Vous l'allez voir.
+      Vous l'allez voir.
 
 -*who_alexandre
-Seleucus, je la voy.
+      Seleucus, je la voy.
 
-**** *book_ *id_body-7-2 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1661 *creator_boyer
 
 -*who_telamon
 Madame, vous sçavez quel est l'ordre du Roy ;
@@ -1674,7 +1674,7 @@ J'attens vostre réponse avec impatience.
 -*who_ismenie
 Laissez ce moment libre à nostre confidence.
 
-**** *book_ *id_body-7-3 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-703 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Vous puis-je encor revoir ? qu'en l'estat où je suis
@@ -1696,7 +1696,7 @@ Ou que vostre pitié songe à me secourir.
 DEMETRIUS.
 
 -*who_ismenie
-Voilà cet amy magnanime
+      Voilà cet amy magnanime
 Qu'on ne pouvoit quiter ny refuser sans crime,
 Et pour qui vostre amour m'ose presque trahir.
 
@@ -1745,7 +1745,7 @@ Resister est sur vous attirer sa disgrace,
 C'est perdre ce que j'aime.
 
 -*who_alexandre
-Et ne resister pas,
+      Et ne resister pas,
 C'est me donner cent morts pires que le trépas.
 Me reserveriez-vous à ce malheur extrême
 De voir à mon Rival posseder ce que j'aime,
@@ -1763,7 +1763,7 @@ Parce qu'il vous est cher,  ; que je crains pour vous,
 Ne dois-je pas...
 
 -*who_alexandre
-Percez ce coeur de mille coups ;
+      Percez ce coeur de mille coups ;
 Adjoûtez ce reproche au mal qui me devore :
 Ouy, je l'aimois, Princesse,  ; ce coeur l'aime encore ;
 Quand j'ay veu les effets de sa triste amitié,
@@ -1809,7 +1809,7 @@ Et je mourray pour vous en Victime d'amour.
 Ah ! vous ne mourrez point.
 
 -*who_alexandre
-Quel dessein est le vostre ?
+      Quel dessein est le vostre ?
 Puis-je vivre,  ; vous voir entre les bras d'un autre ?
 Est-ce là le secours qu'on offre à mes douleurs ?
 
@@ -1848,9 +1848,9 @@ Tu sçauras ce que peut un veritable amour.
 Quoy ? Madame...
 
 -*who_ismenie
-Obeïs, laisse-moy, vis,  ; m'aime.
+      Obeïs, laisse-moy, vis,  ; m'aime.
 
-**** *book_ *id_body-7-4 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Que ton dessein me jette en un desordre extrême !
@@ -1860,7 +1860,7 @@ Je n'ay plus rien à craindre avec cet avantage.
 Ciel, Enfer, Dieux, Mortels, que toute vostre rage
 Fasse tomber ses traits sur des voeux si contens⁎...
 
-**** *book_ *id_body-7-5 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-705 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
 Avec ton Prisonnier je seray peu de temps ;
@@ -1873,11 +1873,11 @@ Que voy-je ? Arsinoé ? Dieux, fuyons sa presence.
 Me fuyez-vous, Seigneur ?
 
 -*who_alexandre
-S'adresse-t'elle à moy,
+      S'adresse-t'elle à moy,
 La fille d'Artaban ?
 
 -*who_arsinoe
-La femme de ton Roy.
+      La femme de ton Roy.
 
 -*who_alexandre
 Ennemy des Tyrans, du Trône,  ; de ma flame,
@@ -1935,7 +1935,7 @@ Tout me semble permis, tout crime est sans horreur.
 O Dieux !
 
 -*who_arsinoe
-Refusez-vous l'offre d'une ennemie ?
+      Refusez-vous l'offre d'une ennemie ?
 
 -*who_alexandre
 Va porter loin de moy ta lâche perfidie ;
@@ -1962,31 +1962,31 @@ D'un si sensible affront je vangeray ma gloire ;
 Le Roy vient.
 
 -*who_arsinoe
-Est-ce agir en homme genereux ?
+      Est-ce agir en homme genereux ?
 
 -*who_alexandre
 Je sçay ce que je dois.
 
 -*who_arsinoe
-O succez malheureux !
+      O succez malheureux !
 
-**** *book_ *id_body-7-6 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-706 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 C'est le Prince  ; la Reyne.
 
 -*who_demetrius
-Evitons leur presence.
+      Evitons leur presence.
 
 -*who_alexandre
 Demetrius, écoute un advis d'importance :
 Arreste.
 
 -*who_demetrius
-Quel advis ?
+      Quel advis ?
 
 -*who_arsinoe
-Il va tout dire au Roy.
+      Il va tout dire au Roy.
 
 -*who_alexandre
 Malgré les traitemens que j'ay receus de toy,
@@ -2003,7 +2003,7 @@ Va partir de la main dont tu l'attens le moins.
 Quoy ! vous me menacez ?
 
 -*who_alexandre
-Aprés ta violence,
+      Aprés ta violence,
 Ce n'est plus ton respect qui m'impose silence,
 Et si d'autres motifs ne retenoient mon bras,
 Alexandre trahy ne menaceroit pas.
@@ -2028,13 +2028,13 @@ Un reste d'amitié s'oppose à ma vangeance,
 Et si tous ont pour toy mesme fidelité,
 Tu vivras plus heureux que tu n'as merité.
 
-**** *book_ *id_body-7-7 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-707 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
 Ah ! Prince genereux !
 
 -*who_milon
-Orgueil insuportable !
+      Orgueil insuportable !
 
 -*who_demetrius
 Mais plûtost, ô bonté qui sans cesse m'accable !
@@ -2056,13 +2056,13 @@ Vous laissez-vous corrompre à l'advis qu'il vous donne ?
 Quoy ! Seigneur ?
 
 -*who_demetrius
-Est-ce vous qu'il faut que je soupçonne ?
+      Est-ce vous qu'il faut que je soupçonne ?
 
 -*who_arsinoe
 Moy, grands Dieux ?
 
 -*who_demetrius
-L'innocente ! osez-vous démentir
+      L'innocente ! osez-vous démentir
 Le crime dont le Prince a voulu m'advertir ?
 Dans ce soupçon mon ame est toute confirmée :
 La frayeur dont tantost vous estiez alarmée,
@@ -2099,13 +2099,13 @@ Signalez⁎ jusqu'au bout le sang dont vous sortez,
 Et delivrez un Roy, par grace, ou par vangeance,
 Des horreurs de son crime  ; de vostre alliance.
 
-**** *book_ *id_body-7-8 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-708 *act_ *date_1661 *creator_boyer
 
 -*who_telamon
 Seigneur.
 
 -*who_demetrius
-Viens achever mon dernier desespoir.
+      Viens achever mon dernier desespoir.
 
 -*who_telamon
 La Princesse, Seigneur, se dispose à vous voir.
@@ -2114,7 +2114,7 @@ La Princesse, Seigneur, se dispose à vous voir.
 Que dis-tu, Telamon ?
 
 -*who_telamon
-Je dis que la Princesse...
+      Je dis que la Princesse...
 
 -*who_demetrius
 A ce nom, quel espoir, quelle prompte allegresse
@@ -2133,7 +2133,7 @@ Ne craignez rien, Seigneur, je feray mon devoir.
 -*who_demetrius
 Vous, cruelle, tremblez,  ; craignez mon pouvoir.
 
-**** *book_ *id_body-7-9 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-709 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 Nous voila delivrez d'une mortelle crainte.
@@ -2163,10 +2163,10 @@ Sa vie à l'un ; l'autre est funeste ; fatale⁎ ;
 Allons, allons sur elle essayer nos fureurs.
 
 -*who_milon
-Sur Ismenie ! ô Dieux !         
+Sur Ismenie ! ô Dieux !
 
 -*who_arsinoe
-D'où viennent ces frayeurs ?
+      D'où viennent ces frayeurs ?
 
 -*who_milon
 Il faut auparavant se deffaire d'un traistre,
@@ -2182,7 +2182,7 @@ Quoy ! faut-il d'un tel sang faire nostre victime ?
 Quel soudain repentir...
 
 -*who_arsinoe
-Pardonne ce remors,
+      Pardonne ce remors,
 L'amour en expirant fait ses derniers efforts⁎ ;
 Mais malgré cet amour je te livre une vie
 Qui doit estre le prix de celle d'Ismenie :
@@ -2196,15 +2196,15 @@ Allons tout préparer contre un couple infidelle.
 Je te répons de luy.
 
 -*who_milon
-Moy, je vous répons d'elle.
+      Moy, je vous répons d'elle.
 
-**** *book_ *id_body-8-1 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-801 *act_ *date_1661 *creator_boyer
 
 -*who_seleucus
 Ah ! Seigneur !
 
 -*who_milon
-C'en est fait, Demetrius est mort.
+      C'en est fait, Demetrius est mort.
 Mais sçais-tu bien l'autheur de ce sanglant effort⁎ ?
 Une fille à nos soins a dérobé sa vie.
 
@@ -2212,7 +2212,7 @@ Une fille à nos soins a dérobé sa vie.
 O Dieux !
 
 -*who_milon
-Le croiras-tu ? l'adorable Ismenie
+      Le croiras-tu ? l'adorable Ismenie
 Est l'instrument fatal d'un crime plein d'horreur,
 D'un coup pour qui l'Enfer eust manqué de fureur.
 On la tient ; mais c'est peu de se vanger sur elle :
@@ -2224,7 +2224,7 @@ C'est luy seul, Seleucus, c'est luy qu'il faut punir.
 Mais, Seigneur...
 
 -*who_milon
-Immolons cette grande victime.
+      Immolons cette grande victime.
 
 -*who_seleucus
 Sa fuite le dérobe aux peines de son crime.
@@ -2233,7 +2233,7 @@ Sa fuite le dérobe aux peines de son crime.
 Que me dis-tu ? grands Dieux !
 
 -*who_seleucus
-L'assassinat du Roy,
+      L'assassinat du Roy,
 La revolte du Peuple, un Palais plein d'effroy,
 Ont fait à cette fuite un succez favorable.
 
@@ -2256,7 +2256,7 @@ J'auray soin du dehors,  ; vous répons de tout.
 Va, de quelques malheurs que le Ciel nous menace,
 Ma peur s'évanoüit par cette noble audace.
 
-**** *book_ *id_body-8-2 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-802 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 Ah ! si le Sort vouloit s'entendre avecque moy,
@@ -2272,7 +2272,7 @@ Sçache que c'est l'amour du Trône,  ; d'Ismenie.
 O Dieux !
 
 -*who_milon
-A Seleucus je cache ma fureur
+      A Seleucus je cache ma fureur
 Pour faire agir son zéle avec plus de chaleur,
 En croyant qu'Alexandre a part à ce grand crime.
 Ne crains rien : mon dessein rend ce coup legitime.
@@ -2341,9 +2341,9 @@ Vous devez craindre tout des fureurs de sa haine.
 Elle vient.
 
 -*who_milon
-Ne crains rien d'un si foible transport.
+      Ne crains rien d'un si foible transport.
 
-**** *book_ *id_body-8-3 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-803 *act_ *date_1661 *creator_boyer
 
 -*who_arsinoe
 Quoy ! tu m'oses attendre,  ; mon époux est mort ?
@@ -2372,7 +2372,7 @@ Mesle mon sang au sang que tu viens de répandre.
 Acheve enfin.
 
 -*who_milon
-C'est trop par d'ingrates douleurs
+      C'est trop par d'ingrates douleurs
 Me reprocher un coup qui finit vos malheurs.
 J'ay bien d'autres soucis au milieu des alarmes,
 Sans ceux de condamner, ou combatre vos larmes ;
@@ -2407,10 +2407,10 @@ Pour servir mon amour employons nostre adresse :
 Toy, va de Seleucus apprendre nostre espoir ;
 Je te suivray bien-tost.
 
-**** *book_ *id_body-8-4 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-804 *act_ *date_1661 *creator_boyer
 
 -*who_ismenie
-Quel injuste pouvoir,
+      Quel injuste pouvoir,
 Quelle estrange licence aujourd'hui t'authorise
 A te rendre en ces lieux maistre de ma franchise⁎ ?
 
@@ -2421,7 +2421,7 @@ Demetrius est mort,  ; mort par vostre main.
 Par ma main, imposteur !
 
 -*who_milon
-Vous le niez en vain ;
+      Vous le niez en vain ;
 Pour vos seuls interests jaloux de vostre gloire,
 J'ay sauvé vostre main d'une action si noire,
 Et pour vostre innocence obstiné contre tous,
@@ -2483,7 +2483,7 @@ Prés des tourmens trembler,  ; me demander grace :
 Il ne sera plus temps.
 
 -*who_ismenie
-Menace,  ; fay le Roy ;
+      Menace,  ; fay le Roy ;
 Voilà le traitement que j'attendois de toy ;
 Ce sont là tes douceurs ; l'injure  ; la menace
 Dans la bouche d'un traistre ont bien meilleure grace :
@@ -2513,10 +2513,10 @@ Je m'abandonne tout au charme de vos yeux ;
 Vous estes tout mon bien, ma fortune,  ; mes Dieux.
 C'est pour vous seulement...
 
-**** *book_ *id_body-8-5 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-805 *act_ *date_1661 *creator_boyer
 
 -*who_telamon
-Ah ! Seigneur, Alexandre
+      Ah ! Seigneur, Alexandre
 A pour luy tout le monde, il est temps de se rendre.
 Seleucus poursuivy d'un Peuple furieux,
 S'est à peine en fuyant retiré dans ces lieux.
@@ -2525,7 +2525,7 @@ S'est à peine en fuyant retiré dans ces lieux.
 O Dieux !
 
 -*who_telamon
-Fuyez, fuyez ; le Peuple  ; la Noblesse...
+      Fuyez, fuyez ; le Peuple  ; la Noblesse...
 
 -*who_milon
 Moy, fuïr, moy Fuïr du Trône,  ; quitter ma Princesse ?
@@ -2562,7 +2562,7 @@ Le passage du Trône,  ; celuy de vos yeux.
 Qu'il vienne...
 
 -*who_ismenie
-Desarmé sur la foy d'un perfide,
+      Desarmé sur la foy d'un perfide,
 Qu'il vienne dans ces lieux sanglants d'un parricide ?
 Songe, songe, Milon, à te déguiser mieux ;
 Ma haine est éclairée, elle a de trop bons yeux.
@@ -2574,17 +2574,17 @@ Quand je veux couronner mon vainqueur de ma main,
 Quand pour vous...
 
 -*who_ismenie
-C'est assez, je connois ton dessein,
+      C'est assez, je connois ton dessein,
 Ne te déguise plus.
 
 -*who_milon
-Et bien, cessons de feindre,
+      Et bien, cessons de feindre,
 Puisque tu me connois, commence de me craindre,
 Crains, orgueilleuse, crains mon desespoir jaloux,
 J'aime, je hay, je regne.
 
 -*who_telamon
-Ah ! Seigneur, sauvez-vous,
+      Ah ! Seigneur, sauvez-vous,
 Fuyez, vostre fortune à ce point est reduite.
 
 -*who_milon
@@ -2608,13 +2608,13 @@ Vange ton desespoir sur ces tristes appas,
 S'ils ont mis de l'amour dans le coeur d'un infame,
 Punis-les hardiment du crime de ta flame.
 
-**** *book_ *id_body-8-6 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-806 *act_ *date_1661 *creator_boyer
 
 -*who_seleucus
 Ah ! Seigneur.
 
 -*who_milon
-Qu'est-ce enfin ? que me dit ce transport ?
+      Qu'est-ce enfin ? que me dit ce transport ?
 
 -*who_seleucus
 Vous triomphez malgré la malice du Sort.
@@ -2656,7 +2656,7 @@ Toy, cependant choisis ou la mort ou ma main.
 Va-t'en prés de la Reyne observer son dessein,
 Et de tous nos soldats relever l'esperance.
 
-**** *book_ *id_body-8-7 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-807 *act_ *date_1661 *creator_boyer
 
 -*who_ismenie
 M'as-tu fait de Milon l'azile  ; la défence ?
@@ -2669,10 +2669,10 @@ Faites que mon amant fasse enfin son devoir,
 Ou ma mort ostera cet obstacle à sa gloire ;
 Mais quel tumulte affreux...
 
-**** *book_ *id_body-8-8 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-808 *act_ *date_1661 *creator_boyer
 
 -*who_laodice
-Le Prince a la victoire,
+      Le Prince a la victoire,
 Et Milon en sortant a trouvé sur ses pas
 Nos gens victorieux qui pressent ses soldats :
 Il combat ; mais en vain, sa défaite est certaine.
@@ -2681,7 +2681,7 @@ Il combat ; mais en vain, sa défaite est certaine.
 Quel favorable Dieu...
 
 -*who_laodice
-Le croiriez-vous ? la Reyne,
+      Le croiriez-vous ? la Reyne,
 Ouy, Madame, elle-mesme, ou plutost sa fureur
 Vient d'ouvrir une porte aux armes du vainqueur.
 
@@ -2689,7 +2689,7 @@ Vient d'ouvrir une porte aux armes du vainqueur.
 Comment ?
 
 -*who_laodice
-Contre Milon le coeur plein de vangeance,
+      Contre Milon le coeur plein de vangeance,
 Sçachant que son amour endormoit sa prudence,
 Elle a gagné la Garde à force de bienfaits,
 Et son ressentiment a livré le Palais.
@@ -2709,10 +2709,10 @@ On attaque, on combat, on deffend le passage,
 Mais enfin Alexandre a tousjours l'avantage.
 Il vient.
 
-**** *book_ *id_body-8-9 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-809 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
-Je vous revois aprés tant de malheurs.
+      Je vous revois aprés tant de malheurs.
 Qu'un court éloignement m'a coûté de douleurs !
 Mon ame à vos perils fortement attachée,
 De la mort d'un amy n'est qu'à demy touchée,
@@ -2733,16 +2733,16 @@ Seleucus l'a suivie,  ; Milon tout confus,
 Suivy, pressé des miens nous va faire justice.
 Vangeons Demetrius par ce grand sacrifice.
 
-**** *book_ *id_body-8-10 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-810 *act_ *date_1661 *creator_boyer
 
 -*who_diocles
 Ah ! Madame.
 
 -*who_ismenie
-Qu'as-tu ?
+      Qu'as-tu ?
 
 -*who_diocles
-Milon percé de coups,
+      Milon percé de coups,
 Furieux vous demande,  ; ne cherche que vous.
 Avec tant de succez sa fureur le seconde,
 Qu'échapant comme aux mains, aux yeux de tout le monde,
@@ -2750,12 +2750,12 @@ Par un secret détour il vient se rendre icy.
 Ah ! Seigneur, prévenez...
 
 -*who_alexandre
-Ne crains rien.
+      Ne crains rien.
 
 -*who_diocles
-Le voicy.
+      Le voicy.
 
-**** *book_ *id_body-8-11 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-811 *act_ *date_1661 *creator_boyer
 
 -*who_milon
 Ingrate, il faut mourir. Mais Dieux ! quelle foiblesse !
@@ -2771,7 +2771,7 @@ Me font perdre aujourd'huy, Maistresse, Trône  ; vie ;
 Mais pour comble de maux, de honte  ; de malheur,
 Rival, je te les laisse, et j'en meurs de douleur.
 
-**** *book_ *id_body-8-12 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-812 *act_ *date_1661 *creator_boyer
 
 -*who_alexandre
 Va, monstre furieux, ta derniere injustice

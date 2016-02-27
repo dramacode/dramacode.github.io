@@ -1,12 +1,12 @@
 
 
-**** *book_moliere_amants-magnifiques-livret *id_body-1 *date_1670 *creator_moliere
+**** *book_ *id_I *date_1670 *creator_moliere
 
 AVANT-PROPOS
 
 Le ROI qui ne veut que des choses extraordinaires dans tout ce qu'il entreprend, s'est proposé de donner à sa Cour un Divertissement qui fût composé de tous ceux que le Théâtre peut fournir ; et pour embrasser cette vaste Idée, et enchaîner ensemble tant de choses diverses, SA MAJESTÉ a choisi pour sujet deux Princes Rivaux, qui dans le champêtre séjour de la Vallée de Tempé, où l'on doit célébrer la Fête des Jeux Pythiens, régalent à l'envi une jeune Princesse et sa Mère, de toutes les galanteries dont ils se peuvent aviser.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-2 *date_1670 *creator_moliere
+**** *book_ *id_II *date_1670 *creator_moliere
 
 PREMIER INTERMÈDE
 
@@ -79,7 +79,7 @@ Mais le Neptune est constant.
 Voguez sur cette Mer d'un zèle inébranlable,
 C'est le moyen d'avoir Neptune favorable.
 
-**** *book_moliere_amants-magnifiques-livret *id_prologue *act_ *date_1670 *creator_moliere
+**** *book_ *id_prologue *act_VI *date_1670 *creator_moliere
 
 -*who_nymphe_tempe
 Venez grande Princesse avec tous vos appas,
@@ -89,7 +89,7 @@ Ne cherchez point l'éclat des Fêtes de la Cour,
 On ne sent ici que l'amour,
 Ce n'est que d'amour qu'on y chante.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-2 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI02 *act_VI *date_1670 *creator_moliere
 
 -*who_tircis
 Vous chantez sous ces feuillages,
@@ -100,7 +100,7 @@ Les échos de ces bocages :
 Hélas ! petits oiseaux, hélas !
 Si vous aviez mes maux vous ne chanteriez pas.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-3 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI03 *act_VI *date_1670 *creator_moliere
 
 -*who_licaste
 Hé quoi toujours languissant, sombre, et triste ?
@@ -119,7 +119,7 @@ Dompte, dompte, Berger, l'ennui qui te possède.
 Eh le moyen, hélas !
 
 -*who_menandre
-Fais, fais-toi quelque effort.
+      Fais, fais-toi quelque effort.
 
 -*who_tircis
 Eh, le moyen, hélas ! quand le mal est trop fort ?
@@ -134,10 +134,10 @@ Je ne guérirai qu'à ma mort.
 Ah Tircis !
 
 -*who_tircis
-Ah Berger !
+      Ah Berger !
 
 -*who_licaste
-Prends sur toi plus d'empire.
+      Prends sur toi plus d'empire.
 
 -*who_tircis
 Rien ne me peut plus secourir.
@@ -146,7 +146,7 @@ Rien ne me peut plus secourir.
 C'est trop, c'est trop céder.
 
 -*who_tircis
-C'est trop, c'est trop souffrir.
+      C'est trop, c'est trop souffrir.
 
 -*who_licaste
 Quelle faiblesse !
@@ -158,7 +158,7 @@ Quel martyre !
 Il faut prendre courage.
 
 -*who_tircis
-Il faut plutôt mourir.
+      Il faut plutôt mourir.
 
 -*who_licaste
 Il n'est point de Bergère
@@ -181,7 +181,7 @@ Gardon d'être vu d'elle,
 L'Ingrate, hélas !
 N'y viendrait pas.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-4 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI04 *act_VI *date_1670 *creator_moliere
 
 -*who_caliste
 
@@ -218,7 +218,7 @@ Donnons-nous à lui toute entière,
 Nous n'avons point de Loi sévère
 Qui défende à nos sens d'en goûter la douceur.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-5 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI05 *act_VI *date_1670 *creator_moliere
 
 -*who_tircis
 Vers ma belle ennemie
@@ -290,7 +290,7 @@ Digne prix de ta foi.
 -*who_menandre
 Ô sort digne d'envie !
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-6 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI06 *act_VI *date_1670 *creator_moliere
 
 -*who_satyre
 Quoi tu me fuis ingrate, et je te vois ici
@@ -326,7 +326,7 @@ Mêlez vos pas à nos sons,
 Et tracez sur les herbettes
 L'image de nos chansons.
 
-**** *book_moliere_amants-magnifiques-livret *id_body-6-7 *act_ *date_1670 *creator_moliere
+**** *book_ *id_VI07 *act_VI *date_1670 *creator_moliere
 
 -*who_philinte
 Quand je plaisais à tes yeux
@@ -406,7 +406,7 @@ De tous nos jours fait d'éternels printemps :
 Jouissons, jouissons des plaisirs innocents
 Dont les feux de l'Amour, savent charmer nos sens,
 
-**** *book_moliere_amants-magnifiques-livret *id_body-12 *date_1670 *creator_moliere
+**** *book_ *id_XII *date_1670 *creator_moliere
 
 SIXIÈME INTERMÈDE,
 

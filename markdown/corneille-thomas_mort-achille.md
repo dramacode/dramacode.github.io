@@ -1,5 +1,5 @@
 ---
-identifier: corneille_mort  
+identifier: corneille-thomas_mort-achille  
 creator: Corneille, Thomas  
 date: 1673  
 title: La Mort d'Achille. Tragédie  
@@ -712,7 +712,7 @@ Lorsque ces mêmes termes sont pris dans une acception actuellement courante et 
  – PHENICE,Confidente de Briseis [78].
  – ILIONE,Confidente de Polixene.
  – ALCIME [79], Confident d'Achille.
- – ANTILOCHUS [80],Confident de Pyrrhus.< LA MORT D’ACHILLE, TRAGEDIE. >
+ – ANTILOCHUS [80],Confident de Pyrrhus.
 
 
 ## ACTE I [81].
@@ -917,7 +917,7 @@ La fille de Priam tomber à vos genoux, [157]
 Voyez-là [158] pour un Pere...  
 
     BRISEIS.
-Ah, c'en est trop, Princesse, [159]  
+        Ah, c'en est trop, Princesse, [159]  
 Une tendre pitié dans vos maux m'intéresse⁎,  
 Et je les envisage avecque [160] tant d'effroy,  
 Qu'en travaillant pour vous, je crois agir pour moy.  
@@ -941,10 +941,10 @@ Cet obstacle levé, reglez la paix vous mesme, [166]
 Elle dépend de vous.  
 
     POLIXENE.
-De moy ? [167]  
+    De moy ? [167]  
 
     BRISEIS.
-Pyrrhus vous aime, [168]  
+        Pyrrhus vous aime, [168]  
 Agréez son hymen⁎ [169], la guerre est sans retour.  
 
     PYRRHUS. [170]
@@ -1012,7 +1012,7 @@ POLIXENE, PYRRHUS, ILIONE, ANTILOCHUS.
 
 
     POLIXENE.
-*HÉLAS* ! que luy demandez-vous ?  
+        *HÉLAS* ! que luy demandez-vous ?  
 Tremblez, Prince, tremblez au nom de Polixene, [187]  
 Laissez la ceder seule au destin qui l'entraîne,  
 Et ne vous livrez point, sans l'avoir merité,  
@@ -1181,8 +1181,8 @@ Les liens d'une paix qui doit toûjours durer.
     ALCIME.
 Vous aimez Polixene ?  
 
-    ACHILLE. 
-Ouy, je l'adore, Alcime, [246]  
+    ACHILLE.
+        Ouy, je l'adore, Alcime, [246]  
 L'amour que j'ay pour elle égale mon estime,  
 Et de ma liberté l'entier engagement, [247]  
 A ses premiers regards n'a coûté qu'un moment.  
@@ -1215,7 +1215,7 @@ A l'unique plaisir qui me puisse toucher.
 L'amour peut tout, Seigneur, mais...  
 
     ACHILLE.
-Je t'entens [258] Alcime,  
+        Je t'entens [258] Alcime,  
 Je quitte Briseis, tu vas m'en faire un crime.  
 Il est vrai, Briseis m'aime avec tant d'ardeur  
 Que ce coup⁎ impréveu luy percera⁎ le coeur, [259]  
@@ -1257,7 +1257,7 @@ Mais pour vous Polixene à vaincre est-elle aisée ?
 Soüillé du sang d'Hector... [276]  
 
     ACHILLE.
-Son Ombre est appaisée,  
+        Son Ombre est appaisée,  
 Et le coup malheureux qui causa son trépas [277]  
 Fut un crime du Sort, & non pas de mon bras.  
 Polixene oubliant cette triste⁎ victoire,  
@@ -1282,7 +1282,7 @@ Le triomphe secret de m'avoir adoucy
 Luy fait naistre...  
 
     ALCIME.
-Seigneur, Briseis vient icy.  
+        Seigneur, Briseis vient icy.  
 
     ACHILLE.
 Cache-luy mon secret, elle pourra l'apprendre  
@@ -1331,7 +1331,7 @@ Ce que pour ce dessein j'ay jugé necessaire.
 De la Grece offencée...  
 
     BRISEIS.
-Il doit tout réparer, [295]  
+        Il doit tout réparer, [295]  
 Seigneur, & sçait de luy ce qu'on peut desirer, [296]  
 Ainsi de son côté ne craignez point d'obstacle.  
 Mais d'un triomphe entier donnez-nous le spectacle,  
@@ -1367,12 +1367,12 @@ Tout l'amour dont jamais une ame fut capable...
 Quoy, mon fils l'aime ? [306]  
 
     BRISEIS.
-Autant qu'il la connoit⁎ aimable, [307]  
+        Autant qu'il la connoit⁎ aimable, [307]  
 Les traits⁎ que dans son coeur son merite a tracez  
 L'ont si bien penetré...  
 
     ACHILLE.
-Madame, c'est assez, [308]  
+        Madame, c'est assez, [308]  
 Quand de Pyrrhus Amant⁎ l'intérest vous amene,  
 Il suffit que je sçay ce que vaut Polixene.  
 Pour asseurer sa gloire & remplir⁎ vos souhaits [309]  
@@ -1385,7 +1385,7 @@ Cet Hymen⁎ [311] aux Troyens asseure un sort si doux,
 Que Priam recevra...  
 
     ACHILLE.
-Je le croy comme vous, [312]  
+        Je le croy comme vous, [312]  
 Il voit pour luy la guerre en trop de maux fertile  
 Pour oser dédaigner l'alliance d'Achille ; [313]  
 Voyez Pyrrhus, Madame, & me laissez resver [314]  
@@ -1439,7 +1439,7 @@ Et si-tost qu'il sçaura que cet amour vous gesne⁎,
 Son respect...  
 
     ACHILLE.
-Non, Alcime, il a veu Polixene,  
+        Non, Alcime, il a veu Polixene,  
 Et ce charme⁎ attirant qui gagne tous les coeurs,  
 Ne sçauroit inspirer de legeres ardeurs, [331]  
 J'en suis trop convaincu par mon experience, [332]  
@@ -1515,17 +1515,17 @@ Une Majesté douce, un air incomparable
 Soustient si noblement...  
 
     ACHILLE.
-Elle est sans doute aimable,  
+        Elle est sans doute aimable,  
 Mais...  
 
     PYRRHUS.
-Seigneur, quelle joye à mon coeur enflâmé⁎  
+        Seigneur, quelle joye à mon coeur enflâmé⁎  
 Que vous rendiez justice au feu⁎ qui m'a charmé⁎ !  
 Jugez dans quel excez il doit aller pour elle [348]  
 Quand son adveu⁎...  
 
     ACHILLE.
-La Grece attend tout de mon zéle, [349]  
+        La Grece attend tout de mon zéle, [349]  
 Il faudra dans l'Accord garder ses intérests.  
 
     PYRRHUS.
@@ -1533,10 +1533,10 @@ A vous accorder tout les Troyens sont tous [350] prests, [351]
 Polixene me montre...  
 
     ACHILLE.
-Encor qu'intéressée,  
+        Encor qu'intéressée,  
 Elle peut de Priam ignorer la pensée.  
 
-    PYRRHUS. 
+    PYRRHUS.
 Non, Seigneur, croyez-en l'amour qu'elle a pour moy,  
 Elle m'a descouvert ce que pense le Roy, [352]  
 Son coeur qui de mon feu⁎ partage la tendresse...  
@@ -1545,7 +1545,7 @@ Son coeur qui de mon feu⁎ partage la tendresse...
 Vous estes donc aimé ?  
 
     PYRRHUS.
-Cette belle Princesse [353]  
+        Cette belle Princesse [353]  
 A qui par vostre adveu⁎ je me puis attacher, [354]  
 N'a pû voir mon amour sans s'en laisser toucher, [355]  
 C'est-là ce qui sur tout rend mon bon-heur extréme.  
@@ -1655,14 +1655,14 @@ Sa crainte combatoit l'espoir que j'avois pris,
 J'en croyois trop l'amour. [387]  
 
     ANTILOCHUS.
-Je n'en ay rien apris.  
+        Je n'en ay rien apris.  
 Seulement la nouvelle est au Camp répanduë  
 Qu'Helene à Menelas par l'accord [388] est renduë, [389]  
 Et qu'au sang de Priam celuy d'Achille uny  
 Etouffe pour toûjours...  
 
     PYRRHUS.
-O bon-heur infiny !  
+        O bon-heur infiny !  
 Enfin, Antilochus, contre toute apparence,  
 Aprés de longs transports⁎ de haine & de vangeance,  
 Aprés le corps d'Hector indignement traisné, [390]  
@@ -1698,7 +1698,7 @@ Cette paix que ma flâme⁎ avoit tant souhaitée,
 M'asseure un bien si cher...  
 
     ACHILLE.
-Nous l'avons arrétée, [393]  
+        Nous l'avons arrétée, [393]  
 Et ce soir Polixene, en presence du Roy, [394]  
 Doit confirmer l'Accord par le don de sa foy.  
 Au Temple d'Apollon déjà tout se prépare ;  
@@ -1718,7 +1718,7 @@ Accordons tout le reste, il touche peu mon ame.
 Et c'est ce qui du Sort vous marque le couroux, [400]  
 La main⁎ que vous voulez ne sçauroit estre à vous.  
 
-    PYRRHUS. 
+    PYRRHUS.
 Ne sçauroit estre à moy ? Dieux ! mais non, je m'abuse,  
 Et d'un transport⁎ trop prompt ma passion s'accuse.  
 Ne m'avez-vous pas dit que selon mes souhaits,  
@@ -1745,7 +1745,7 @@ Par ces tendres liens que le sang rend si doux,
 Par tout...  
 
     ACHILLE.
-Ma pitié, Prince, a combatu pour vous.  
+        Ma pitié, Prince, a combatu pour vous.  
 Mais en vain mes chagrins⁎ m'ont fait juger des vostres, [407]  
 Malgré vos intérests j'en ay dû prendre d'autres,  
 Et doute qu'aisément on eust conclu la paix,  
@@ -1792,7 +1792,7 @@ Le mien pour Polixene à tel point s'intéresse⁎,
 Que si...  
 
     ACHILLE.
-Vous souffrirez, Prince, je le confesse, [419]  
+        Vous souffrirez, Prince, je le confesse, [419]  
 Le revers⁎ est fâcheux⁎, mais j'ay beau le sçavoir,  
 Ce que vous demandez n'est pas en mon pouvoir, [420]  
 Ce seroit vous flatte⁎ qu'en garder l'espérance.  
@@ -1874,7 +1874,7 @@ Quoy, Priam contre Achille en auroit crû sa haine ; [440]
 Et l'hommage du Fils n'auroit point effacé⁎  
 Le souvenir du sang que le Pere a versé ?  
 
-    PYRRHUS. 
+    PYRRHUS.
 J'ignore à qui je dois imputer ma disgrace,  
 Mais enfin, plus d'espoir, un autre a pris ma place, [441]  
 Achille à mon Rival consent à m'immoler,  
@@ -1886,7 +1886,7 @@ Il luy cede l'Objet⁎ dont vostre ame est éprise ?
 Et quel est ce Rival ?  
 
     PYRRHUS.
-On m'en a teu le nom,  
+        On m'en a teu le nom,  
 Mais en vain on me croit cacher Agamemnon, [442]  
 Il vous aimoit, Madame, [443] & forcé de vous rendre  
 Des traits⁎ de Polixene il n'a pû se défendre.  
@@ -1905,7 +1905,7 @@ Il m'aime, soyez seur que je rompray la paix.
 Je sçay ce que je puis.  
 
     PYRRHUS.
-Ah, [447] c'en est trop, Madame, [448]  
+        Ah, [447] c'en est trop, Madame, [448]  
 Tant de sang à verser fait horreur à ma flame⁎.  
 Quoy qu'Achille pour vous fasse moins qu'il ne peut,  
 Ne troublons point la paix, Polixene la veut, [449]  
@@ -1953,7 +1953,7 @@ A changer de tendresse, à [461] vivre pour un autre,
 Et voyez-vous ces maux avec si peu d'effroy,  
 Que vous n'ayez pitié ny de vous ny de moy ?  
 
-    POLIXENE. 
+    POLIXENE.
 J'en fremis, je l'avouë, & mon ame estonnée⁎, [462]  
 A mille morts par là se trouve condamnée, [463]  
 Mais dés que j'ose voir vos malheurs & les miens,  
@@ -1989,13 +1989,13 @@ Que je vous voy souffrir l'inconstance d'Achille.
 Achille est inconstant ?  
 
     PYRRHUS.
-Madame, Achille... Ah, Dieux ? [476]  
+        Madame, Achille... Ah, Dieux ? [476]  
 
     BRISEIS.
 Sur cet affreux revers⁎ je n'ose ouvrir les yeux.  
 Se pourroit-il qu'Achille eust souffert qu'en son ame...  
 
-    POLIXENE. 
+    POLIXENE.
 Et quoy, de ce barbare ignorez-vous la flame⁎,  
 Et qu'il veut que ma main⁎, assassinant Pyrrhus, [477]  
 Soit le prix des honneurs qu'Hector en a receus ?  
@@ -2147,7 +2147,7 @@ Quand il perd malgré luy ce qu'il a de plus cher.
 Et nos Grecs ?  
 
     ALCIME.
-Diomede [525], Ulysse, Idomenée [526]  
+        Diomede [525], Ulysse, Idomenée [526]  
 En faveur⁎ de Pyrrhus blâment vôtre Hymenée⁎, [527]  
 Mais sans y mettre obstacle ; [528] Agamemnon charmé⁎  
 De nouveau s'abandonne à l'espoir d'estre aimé,  
@@ -2156,7 +2156,7 @@ Il aime en ce projet ce qui le favorise.
 Tout est calme par tout.  
 
     ACHILLE.
-Alcime, quel bonheur  
+        Alcime, quel bonheur  
 Si ce calme empeschoit le trouble de mon coeur !  
 Il a beau se livrer aux charmes⁎ qui l'attirent, [529]  
 Briseis & Pyrrhus tour à tour le déchirent,  
@@ -2184,7 +2184,7 @@ Si de ses voeux contraints vous vous faites un crime,
 Il est, il est, Seigneur, encor temps...  
 
     ACHILLE.
-Non, Alcime ; [542]  
+        Non, Alcime ; [542]  
 J'ay beau voir quels malheurs en peuvent arriver,  
 J'adore Polixene, & ne puis m'en priver.  
 C'est mon destin. J'en [543] suis le decret immuable.  
@@ -2199,7 +2199,7 @@ Elle peut s'apprester à de nouveaux combats, [546]
 Polixene paroist, Seigneur.  
 
     ACHILLE.
-Qu'elle a d'appas⁎ ! [547]  
+        Qu'elle a d'appas⁎ ! [547]  
 
 
 ### SCENE II.
@@ -2308,7 +2308,7 @@ Et que l'amour exprés l'un pour l'autre a formez.
 Vous vous reprocherez de vouloir...  
 
     ACHILLE.
-Non, Madame, [580]  
+        Non, Madame, [580]  
 Si j'avois de Pyrrhus authorisé la flame⁎ [581]  
 Je me reprocherois la barbare rigueur  
 De m'estre fait pour luy l'ennemy de mon coeur.  
@@ -2436,7 +2436,7 @@ A l'honneur asseuré de régner sur la Grece, [624]
 Son coeur m'a plus esté qu'un Diadême offert,  
 J'ay tout fait pour luy plaire, & c'est luy qui me perd.  
 
-    ACHILLE. 
+    ACHILLE.
 Madame, il seroit bon...épargnez-moy [625] de grace, [626]  
 Le tiltre de Vainqueur peut donner de l'audace, [627]  
 Et je serois faché que de trop durs adieux...  
@@ -2530,7 +2530,7 @@ Il suffit que les Dieux soient ennemis du crime.
 Madame...  
 
     BRISEIS.
-Envain sur toy l'on voudroit attenter,  
+        Envain sur toy l'on voudroit attenter,  
 Tu le crois, mais enfin, crains de te trop flater⁎.  
 Ces Dieux [660] dont le pouvoir t'a fait invulnérable [661]  
 Ne te protégent pas pour te rendre coupable, [662]  
@@ -2568,7 +2568,7 @@ Un Trône dont le sort vous avoit fait descendre, [674]
 De vos Estats perdus...  
 
     BRISEIS.
-Tu me parles d'Estats. [675]  
+        Tu me parles d'Estats. [675]  
 Des plus vastes grandeurs joins les plus doux appas⁎, [676]  
 Rends-moy du monde entier la conqueste facile,  
 En être Reyne, [677] est moins que régner sur Achille.  
@@ -2619,7 +2619,7 @@ On peut en cet estat la conduire à l'autel.
 Si Briseis pouvoit...  
 
     ILIONE.
-J'y voy peu d'espérance.  
+        J'y voy peu d'espérance.  
 Priam plaint de ces [693] maux la dure violence,  
 Il plaint le triste⁎ sort de Pyrrhus & de vous,  
 Il soûpire, & voudroit vous faire grace à tous, [694]  
@@ -2719,7 +2719,7 @@ Madame, vous prendrez ce conseil pour vous même,
 Et Pyrrhus effacé⁎ [732] malgré de si beaux feux⁎ [733]  
 Verra bientost Achille en estat d'estre heureux.  
 
-    POLIXENE. 
+    POLIXENE.
 Si j'entens mon devoir, c'est ce qu'il me demande, [734]  
 A ses barbares loix il veut que je me rende,  
 Et qu'aux voeux d'un Espoux un Amant⁎ immolé  
@@ -2737,7 +2737,7 @@ Quand je vous parle enfin pour la derniere fois.
 Pour la derniére fois ?  
 
     POLIXENE.
-Ouy, Prince, vostre veuë [740]  
+        Ouy, Prince, vostre veuë [740]  
 Par l'ennuy⁎ de vous perdre [741] & m'accable [742] & me tuë,  
 Et pour joüir au moins de quelque ombre de paix [743]  
 Il faut que je consente à ne vous voir jamais. [744]  
@@ -2802,7 +2802,7 @@ Et je vois approcher l'épouvantable instant...
 Madame.  
 
     POLIXENE.
-Cachez-moy le destin qui m'attend,  
+        Cachez-moy le destin qui m'attend,  
 Je m'y pers. Quelques maux où vous soyez plongée, [769]  
 Si je les ay causez, vous êtes bien vangée.  
 Madame, je ne sçay si vous le concevez. [770]  
@@ -2872,16 +2872,16 @@ Achille est en danger luy mesme de périr.
 De périr !  
 
     PYRRHUS.
-Dieux ! Achille...  
+    Dieux ! Achille...  
 
     BRISEIS.
-Il y va de sa vie. [794]  
+        Il y va de sa vie. [794]  
 
-    PYRRHUS. 
+    PYRRHUS.
 Adieu, Madame.  
 
     BRISEIS.
-Allez où l'honneur vous convie, [795]  
+        Allez où l'honneur vous convie, [795]  
 Achille est en péril, courez l'en garantir.  
 
 
@@ -2919,7 +2919,7 @@ Mais d'où vient que Paris vous est si redoutable ?
 Que craindre pour Achille ? il est invulnérable,  
 Et par un privilege & noble & glorieux...  
 
-    BRISEIS. 
+    BRISEIS.
 Je ne m'asseure point sur ce qu'ont fait les Dieux, [804]  
 Paris suit contre Achille une fureur⁎ extréme,  
 Et pour craindre sa perte [805] il suffit que je l'aime.  
@@ -2944,13 +2944,13 @@ Achille qu'on croyoit estre au dessus du Sort,
 Achille...  
 
     BRISEIS.
-Et bien [808] Achille ?  
+    Et bien [808] Achille ?  
 
     ALCIME.
-Il est mort.  
+    Il est mort.  
 
     BRISEIS.
-Il est mort ?  
+        Il est mort ?  
 
     ALCIME.
 Polixene déja vers le Temple conduite,  
@@ -2996,13 +2996,13 @@ Aurois-tu crû le Ciel capable d'injustice ?
 Souffrir qu'Achille...  
 
     PHENICE.
-Il meurt, & sa mort vous abat,  
+        Il meurt, & sa mort vous abat,  
 Mais songez-vous qu'Achille estoit parjure, ingrat ?  
 Que tout à Polixene, il n'aspiroit qu'à suivre  
 Ce que l'amour pour elle...  
 
     BRISEIS.
-Ah, que ne peut-il vivre, [825]  
+        Ah, que ne peut-il vivre, [825]  
 Quoy qu'une autre à mes yeux triomphast de sa foy,  
 Je le verrois du moins, ce seroit tout pour moy, [826]  
 Le remords de ma perte & de son injustice  
@@ -3031,7 +3031,7 @@ Plus que ma volonté le Destin est coupable,
 Mon coeur de ses ennuis⁎...  
 
     BRISEIS.
-N'acheve point, Alcime,  
+        N'acheve point, Alcime,  
 Et pour m'accabler moins, cache moy qu'en mourant  
 Achille ait plaint l'amour que son malheur me rend, [839]  
 C'est enfoncer le trait où je sens la blessûre.  

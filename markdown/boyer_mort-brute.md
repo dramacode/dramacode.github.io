@@ -1,5 +1,5 @@
 ---
-identifier: boyer_mort  
+identifier: boyer_mort-brute  
 creator: Boyer, Claude  
 date: 1648  
 title: La Mort des enfans de Brute. Tragédie  
@@ -1357,7 +1357,7 @@ Abandonner son Pere, et flatter⁎ ses bourreaux ?
 Helas !  
 
     VITELLE.
-Espargnez-vous ces inutiles larmes⁎.  
+        Espargnez-vous ces inutiles larmes⁎.  
 Ayez, ayez recours à de plus fortes armes,  
 Et changeant vos douleurs en un juste courroux,  
 Vangez⁎ d'un mesme coup⁎ Tarquin, Tullie, et vous.  
@@ -1395,7 +1395,7 @@ Aymons un souvenir qui nous doit affliger,
 Et qui met dans nos coeurs l'ardeur⁎ de nous vanger.  
 
     TIBERE.
-Ah ! que de vostre part ce reproche me touche !          
+Ah ! que de vostre part ce reproche me touche !  
 Qu'un soupçon m'est cruel⁎ venant de vostre bouche,  
 Vous que j'ay fait tesmoin de ma fidelité !  
 M'osez-vous soupçonner de quelque lascheté ?  
@@ -1424,7 +1424,7 @@ Apaisons d'un sang pur ses manes adorables⁎.
 Mourons.  
 
     TITE.
-Mourons Tibere, et qu'un beau desespoir⁎ :  
+        Mourons Tibere, et qu'un beau desespoir⁎ :  
 Fasse sans plus tarder nostre premier devoir⁎ ;  
 La vengeance nous plaist, mais l'amour⁎ est plus forte,  
 Laissons le thrône à bas puisque Tullie est morte :  
@@ -1442,26 +1442,26 @@ TULLIE, TITE, TIBERE, VITELLE.
 
 
     TULLIE.
-Ah vous vivrés [314] Princes, si vostre vie  
+        Ah vous vivrés [314] Princes, si vostre vie  
 Par ma mort seulemen vous peut estre ravie.  
 
     TITE.
-Ah ! mon frère ! ah Seigneur.               
+Ah ! mon frère ! ah Seigneur.  
 
     TIBERE.
-Mon frère ! justes Dieux !  
+        Mon frère ! justes Dieux !  
 
     TULLIE.
 Me méconnoissez-vous ?  
 
     TITE.
-Que voyez-vous mes yeux ?  
+        Que voyez-vous mes yeux ?  
 
     TIBERE.
 Est-ce nostre Princesse ?  
 
     VITELLE.
-Oüy, Princes ; c'est Tullie,  
+        Oüy, Princes ; c'est Tullie,  
 Et c'est ce qui me reste encor de Servilie.  
 Dans l'effroyable nuict du crime des Romains,  
 C'est tout ce que je peus arracher à leurs mains ;  
@@ -1524,7 +1524,7 @@ Je ne manque envers vous ny de coeur ny de zele⁎ ?
 Mais.  
 
     TULLIE.
-Vous vous abusez, j'ayme trop vostre honneur,  
+        Vous vous abusez, j'ayme trop vostre honneur,  
 Pour vouloir par sa perte achepter mon bon-heur.  
 Et je n'accepterois qu'avec un oeil timide⁎,  
 Le bien que m'offriroit une main parricide.  
@@ -1632,13 +1632,13 @@ On leur rend tout leur bien; quoy, Tite ? quoy Tibere ?
 Vous soûpirez⁎ !  
 
     TITE.
-Helas !  
+    Helas !  
 
     TIBERE. [324]
-Ah ! mon frère !  
+    Ah ! mon frère !  
 
     TITE.
-Ah ! mon frère !  
+        Ah ! mon frère !  
 
     BRUTE.
 Quoy, Tibere ? quoy, Tite ? est-ce avec des soûpirs⁎,  
@@ -1654,7 +1654,7 @@ Que pour en recevoir cette ingrate froideur ?
 Fils ingrats !  
 
     TIBERE.
-Ah ! Seigneur en l'estat déplorable⁎ ;  
+        Ah ! Seigneur en l'estat déplorable⁎ ;  
 Où nous met la rigueur d'un sort inexorable,  
 Prenez pour vos Enfans des sentimens plus doux.  
 Qu'a fait, Rome, Seigneur, qu'a-t-elle fait pour nous ?  
@@ -1669,7 +1669,7 @@ Et je caresserois une main qui me perd.
 Ah ! que plustost, Seigneur.  
 
     BRUTE.
-Que dittes-vous Tibere !  
+        Que dittes-vous Tibere !  
 
     TITE.
 Excusez la douleur qui fait parler mon frere :  
@@ -1702,7 +1702,7 @@ Nous fera triompher de ces difficultez ;
 Nous vous obeyrons.  
 
     BRUTE.
-Eh bien voyez Vitelle:  
+        Eh bien voyez Vitelle:  
 Donnez-luy de ma part cette heureuse nouvelle,  
 Maintenant les Romains me demandent ailleurs,  
 Adieu, prenez pour eux des sentimens meilleurs.  
@@ -1716,7 +1716,7 @@ TIBERE, TITE.
 Quel est vostre dessein !  
 
     TITE.
-Et le votre mon frère ?  
+        Et le votre mon frère ?  
 
     TIBERE.
 J'ay voulu par mes pleurs⁎ attendrir nostre pere,  
@@ -1728,7 +1728,7 @@ Mais par un mouvement qu'on ne peut excuser
 Vous avez :  
 
     TITE.
-J'ay tâché de vous des-abuser,  
+        J'ay tâché de vous des-abuser,  
 Osez-vous esperer qu'à l'aspect de vos larmes,  
 En faveur des Tarquins Brute prenne les armes :  
 Et relève luy-méme avec ses propres mains,  
@@ -1743,7 +1743,7 @@ Qui de deux pour victime a choisi vostre bras ?
 Est-ce Brute, ou Tullie ?  
 
     TIBERE.
-Ah ! ne me pressez pas.  
+        Ah ! ne me pressez pas.  
 Je puis venger Tullie, et respecter mon Pere.  
 
     TITE.
@@ -1769,10 +1769,10 @@ Que pour dernier secours Brute soit à leur teste,
 J'iray sans balancer⁎.  
 
     TITE.
-Où mon frere ?  
+    Où mon frere ?  
 
     TIBERE.
-A la mort.  
+        A la mort.  
 Puisque mal-gré l'ardeur⁎ de ce boüillant transport⁎ :  
 Avec quelques beautez que je la considère,  
 Elle ne me sçauroit armer contre mon Pere.  
@@ -1840,7 +1840,7 @@ Allons à ses genoux demander cette grace⁎,
 Je l'obtiendray pour vous.  
 
     TIBERE.
-D'où vous naist cette audace⁎ ?  
+        D'où vous naist cette audace⁎ ?  
 Pouvons-nous esperer un si superbe⁎ prix,  
 Nous qui pour l'acquerir n'avons rien entrepris ?  
 Avant que demander une faveur si rare,  
@@ -1874,7 +1874,7 @@ Satisfaire à l'Amour⁎, sans blesser la nature :
 Il ne faut que la voir.  
 
     TIBERE.
-Dieux ! quel aveuglement,  
+        Dieux ! quel aveuglement,  
 Tullie écouteroit un si bas sentiment ?  
 Elle perdroit l'espoir de se voir couronnée,  
 Et verroit sa maison laschement déthronée  
@@ -1891,13 +1891,13 @@ Suivez, suivez tout seul, ce barbare dessein,
 Je ne la verray point.  
 
     TITE.
-Vous la verrez, mon frere.  
+        Vous la verrez, mon frere.  
 
     TIBERE.
 Ah ! ce n'est pas l'aymer.  
 
     TITE.
-C'est perdre nostre Pere.  
+        C'est perdre nostre Pere.  
 
     TIBERE.
 Dures extremitez⁎ qu'on ne peut accorder !  
@@ -1907,7 +1907,7 @@ J'aperçoy la Princesse, il la faut aborder.
 Arrestez.  
 
     TIBERE.
-Faudra-t-il qu'à ce poinct je m'oublie !  
+        Faudra-t-il qu'à ce poinct je m'oublie !  
 
 
 ### SCENE III
@@ -1940,28 +1940,28 @@ Et vous donnant pour Rome un sentiment contraire,
 Vous pourrez.  
 
     TULLIE.
-Poursuivez.  
+    Poursuivez.  
 
     TIBERE.
-Las !  
+    Las !  
 
     TULLIE.
-Dites tout, Tibere.  
+        Dites tout, Tibere.  
 Ne me deguisez point l'excez de mon malheur ;  
 Que vous perdez bien-tost cette aymable chaleur !  
 Tibere, dites tout.  
 
     TIBERE.
-Je ne sçaurois, mon frere  
+        Je ne sçaurois, mon frere  
 J'en ay déja trop dit pour craindre sa colere.  
 Achevez.  
 
     TULLIE
-Quel malheur vous oblige à me fuir ?  
+        Quel malheur vous oblige à me fuir ?  
 Ah ! Tibère arrestez.  
 
     TIBERE.
-Ce seroit vous trahir,  
+        Ce seroit vous trahir,  
 Madame, je ne puis, vous l'aprendrez de Tite.  
 
 
@@ -2042,7 +2042,7 @@ Leur bonté s'accordant avec nostre priere,
 Desarme nos desseins.  
 
     VITELLE.
-Je l'ay sceu de Tibere ;  
+        Je l'ay sceu de Tibere ;  
 Et j'ay sceu qu'à ce poinct vous osiez vous flater⁎,  
 De croire que Tarquin s'en pourra contenter.  
 On veut que vous perdiez l'espoir de la Couronne,  
@@ -2051,11 +2051,11 @@ Et ce Prince de qui vous faisiez tant de cas,
 Tite le veut, Madame.  
 
     TITE.
-Ah ! ne le croyez pas.  
+        Ah ! ne le croyez pas.  
 Princesse que plustost.  
 
     TULLIE.
-Cher Vitelle, de grace⁎  
+        Cher Vitelle, de grace⁎  
 Prevenons⁎ les malheurs dont le Ciel nous menace,  
 Plustost que d'exposer ces Princes genereux⁎,  
 Soyons persecutez et toujours malheureux.  
@@ -2080,10 +2080,10 @@ Que je choque⁎ un devoir⁎ et si saint et si doux :
 Allons, Vitelle, allons.  
 
     TULLIE.
-Ah ! Vitelle.  
+    Ah ! Vitelle.  
 
     VITELLE. [342]
-Princesse,  
+        Princesse,  
 Ces indignes frayeurs marquent trop de foiblesse ;  
 Prenez des sentimens plus hardis et plus forts,  
 Et du moins par vos voeux secondez nos efforts :  
@@ -2102,7 +2102,7 @@ La pousser jusqu'au bout, reparer sa disgrace⁎
 La [344] vanger des Romains.  
 
     TULLIE.
-Et pour le moins songer,  
+        Et pour le moins songer,  
 Prince, à vous conserver autant qu'à nous vanger.  
 
     TITE.
@@ -2171,7 +2171,7 @@ Ne prester que des voeux à cette infortunée ?
 Enfin que ferons-nous ?  
 
     TITE.
-Mon frere sur ce point,  
+        Mon frere sur ce point,  
 Quoy qui puisse arriver, je ne balance⁎ point :  
 En faveur du pays ma raison⁎ s'interesse⁎ ;  
 Du combat qu'elle rend naist toute ma tristesse :  
@@ -2237,7 +2237,7 @@ D'un semblable revers Brute tombe avec luy.
 Seigneur.  
 
     BRUTE.
-M'oseriez-vous parler en leur defense,  
+        M'oseriez-vous parler en leur defense,  
 Voyez en quel peril nous met trop d'indulgence :  
 Tresor si precieux et qui m'as tant cousté,  
 Bien le plus grand des biens, charmante⁎ liberté !  
@@ -2315,7 +2315,7 @@ Tous subissent l'arrest d'un juste chastiment.
 Et bien Brute.  
 
     TITE.
-Osez-vous irriter sa cholere ?  
+        Osez-vous irriter sa cholere ?  
 
     VITELLE.
 En faveur de Vitelle appaisez vous mon frere. [354]  
@@ -2522,7 +2522,7 @@ Qu'on oste de ses yeux mes Enfans et Vitelle.
 O rigoureux arrest !  
 
     TIBERE.
-O sentence mortelle !  
+        O sentence mortelle !  
 
     TITE.
 Si nous mourons tous seuls, que nostre sort est doux !  
@@ -2542,7 +2542,7 @@ TULLIE, JULIE [369], LIVIE.
 Un Pere peut flechir.  
 
     TULLIE.
-Ah, frivole esperance !  
+        Ah, frivole esperance !  
 Ne m'as-tu pas fait voir qu'elle est sa violence, [370]  
 Et la boüillante⁎ ardeur⁎ dont son zèle⁎ effronté,  
 Precipite l'effet de son impieté⁎ ? [371]  
@@ -2554,7 +2554,7 @@ Sa bouche parricide a condamné ses fils.
     JULIE.
 La voix de la nature a d'invincibles charmes⁎.  
 
-    TULLIE. 
+    TULLIE.
 Sa soif ne s'esteint point avec l'eau de nos larmes ;  
 Pour la des-alterer ce Tigre veut du sang. [372]  
 Que ne viens-tu Barbare en puiser dans ce flanc ?  
@@ -2602,7 +2602,7 @@ TULLIE, TITE, LIVIE.
 
 
     TULLIE.
-He bien chers Princes je vous perds,         
+        He bien chers Princes je vous perds,  
 Et c'est moy, qui vous livre à tant de maux divers :  
 J'ay hazardé⁎ vos jours pour restablir mon Pere,  
 Pour regner à mon tour, et pour me satisfaire ;  
@@ -2650,7 +2650,7 @@ Vous pouvez avancer, ou reculer sa fin.
 Comment ?  
 
     TITE.
-Apprenez donc quel est nostre destin.  
+        Apprenez donc quel est nostre destin.  
 Le Senat trop jaloux du sang de nostre race⁎ [378],  
 Veut sauver l'un de nous, et luy donne sa grace⁎ :  
 Cependant nostre Mère aux pieds de son Espoux,  
@@ -2684,7 +2684,7 @@ Est-ce là l'amitié⁎ qu'il attendoit de vous ?
 He bien, Tite : mais las !  
 
     TITE.
-Prononcez, ma Princesse,  
+        Prononcez, ma Princesse,  
 Prononcez contre moy, puisque ce choix vous blesse :  
 Si vous me soupçonnez de trop peu d'amitié⁎,  
 Je merite la mort et luy vostre pitié.  
@@ -2733,7 +2733,7 @@ Je ne rougiray point de vous avoir perdu,
 Non vous ne mourrez point.  
 
     TITE.
-Que deviendra Tibere ?  
+        Que deviendra Tibere ?  
 
 
 ### SCENE III
@@ -2796,10 +2796,10 @@ TULLIE, JUNIE, TIBERE, TITE, JULIE, MARCELLE.
 
 
     TULLIE.
-He bien ! Madame.  
+    He bien ! Madame.  
 
     JUNIE.
-Il faut mourir.  
+        Il faut mourir.  
 ……………………………………………………………………………… [385]  
 
     JULIE.
@@ -2809,30 +2809,30 @@ Est-ce un d'eux ou Tullie ? est-ce tous trois ensemble ?
 Triste éclaircissement !  
 
     TULLIE.
-Ha je frémis ! je tremble !  
+        Ha je frémis ! je tremble !  
 
     JUNIE.
 Délivrés-vous enfin d'un si cruel⁎ soucy⁎.  
 C'est vous Tite.  
 
     TIBERE.
-Ah ! rigueur.  
+    Ah ! rigueur.  
 
     JUNIE.
-Et vous Tibere aussi.  
+        Et vous Tibere aussi.  
 Oüy je vous perds tous deux.  
 
     TULLIE.
-Vos deux fils ?  
+    Vos deux fils ?  
 
     JUNIE.
-L'un et l'autre.  
+        L'un et l'autre.  
 
     TULLIE.
 O comble de malheur !  
 
     TITE.
-Quel bon-heur ⁎est le nostre ?  
+        Quel bon-heur ⁎est le nostre ?  
 
     JUNIE.
 Mes pleurs⁎ et les Romains sauvoient l'un de vous deux ;  
@@ -2842,10 +2842,10 @@ Leur fait de tous les deux un entier sacrifice.
     TIBERE.
 Ce zele⁎ officieux enfin nous fait justice,  
 Nous voila delivrés d'un si funeste choix.  
-Adieu Princesse.                   
+Adieu Princesse.  
 
     TITE.
-Adieu, pour la derniere fois.  
+        Adieu, pour la derniere fois.  
 Princesse nous mourrons sans vous avoir servie ;  
 Mais au moins c'est pour vous que nous perdrons la vie ;  
 Trop heureux si pour vous, allant perdre⁎ le jour,  
@@ -2892,14 +2892,14 @@ Luy fasse voir enfin la grandeur de sa perte.
 Helas !  
 
     JUNIE.
-Quelle douleur mes fils ! quels deplaisirs⁎ [388]  
+        Quelle douleur mes fils ! quels deplaisirs⁎ [388]  
 Font sortir devant moy ces indignes soûpirs⁎ !  
 
     TITE.
 Madame.  
 
     JUNIE.
-Craignez-vous d'abandonner la vie ?  
+        Craignez-vous d'abandonner la vie ?  
 
     TITE.
 Oüy, puis que nous mourons sans secourir Tullie.  
@@ -2944,14 +2944,14 @@ Le sang si fort sur moy soit si foible envers luy ?
 Ah ! mes fils.  
 
     TIBERE.
-En faveur d'une vertu⁎ si rare,  
+        En faveur d'une vertu⁎ si rare,  
 Quelque suplice⁎ affreux⁎ que Rome nous prepare,  
 Quelques maux que Tullie ait encore à souffrir⁎,  
 Vous ne rougirez point en nous voyant perir :  
 Mais.  
 
     JUNIE.
-Que vois-je ? grands Dieux ! je lis sur ce visage,  
+        Que vois-je ? grands Dieux ! je lis sur ce visage,  
 De nos derniers malheurs l'infaillible presage.  
 
 
@@ -2963,7 +2963,7 @@ TITE, MARCELLIN, IVNIE, TIBERE.
 Que veux-tu Marcellin ?  
 
     MARCELLIN.
-Princes il faut partir,  
+        Princes il faut partir,  
 L'ordre presse, et je vien pour vous en advertir.  
 Brute, qu'on voit assis au milieu de la place,  
 Assemble autour de luy toute la populace,  
@@ -2977,10 +2977,10 @@ Mais quelque sentiment qui regne sur son ame,
 Il demande ses fils.  
 
     JUNIE.
-Cruel⁎ !  
+    Cruel⁎ !  
 
     TIBERE.
-Adieu, Madame ;  
+        Adieu, Madame ;  
 Nous nous quittons, la mort nous esloigne de vous.  
 
     TITE.
@@ -2994,7 +2994,7 @@ Je derobe à vos yeux un courage⁎ abbatu.
 Adieu mes fils.  
 
     TITE.
-Alors qu'il faut aux yeux des hommes,  
+        Alors qu'il faut aux yeux des hommes,  
 Signaler nostre amour⁎ et monstrer qui nous sommes,  
 On me verra perir d'un courage⁎ si fort,  
 Que j'en feray trembler les auteurs de ma mort.  
@@ -3027,7 +3027,7 @@ Et bien dy moy leur sort rigoureux ou propice :
 Mais ne deguise rien.  
 
     MARCELLE.
-Si tost que vos deux fils  
+        Si tost que vos deux fils  
 D'un nombre d'affligez confusement suivis,  
 Ont paru sur les bords de la place publique,  
 La foule qui fermoit ce theatre tragique⁎,  
@@ -3083,13 +3083,13 @@ L'executeur tout prest à faire son devoir⁎.
 Leve le bras. [392]  
 
     JUNIE.
-Helas ! quel est donc nostre espoir ?  
+        Helas ! quel est donc nostre espoir ?  
 Doncques Tite n'est plus, Brute, Rome, Tullie,  
 Qui de vous trois m'enleve une si chere vie ?  
 Cher Tite.  
 
     MARCELLE.
-Il vit encor, moderez ce transport⁎.  
+        Il vit encor, moderez ce transport⁎.  
 
     JUNIE.
 Et quel Dieu favorable a destourné sa mort ?  
@@ -3138,7 +3138,7 @@ Allons luy faire part d'un sort si favorable :
 Je le dois à mes fils.  
 
     MARCELLE.
-Madame, je la voy.  
+        Madame, je la voy.  
 
 
 ### SCENE II
@@ -3159,7 +3159,7 @@ Ceux qui sont prés de vous, y sont pour vous defendre.
 Et de qui ?  
 
     JUNIE.
-Des Romains qui vous pourroient surprendre.  
+        Des Romains qui vous pourroient surprendre.  
 
     TULLIE.
 Les Romains contre moy ne sçauroient faire pis,  
@@ -3209,7 +3209,7 @@ En faisant l'un heureux, fasse l'autre jaloux :
 Ne me le cachez plus.  
 
     TULLIE.
-Faut-il que je m'explique ?  
+        Faut-il que je m'explique ?  
 
     MARCELLE.
 Madame, Marcellin.  
@@ -3220,22 +3220,22 @@ MARCELLIN, JUNIE, TULLIE, MARCELLE.
 
 
     MARCELLIN.
-O fin vrayement tragique⁎ !  
+        O fin vrayement tragique⁎ !  
 
     JUNIE.
 Qu'est cecy Marcellin ?  
 
     MARCELLIN.
-Helas ! tout est perdu.  
+        Helas ! tout est perdu.  
 
     JUNIE.
 Quoy ! mes fils.  
 
     MARCELLIN.
-C'en est fait.  
+    C'en est fait.  
 
     TULLIE.
-O Dieux ! qu'ay-je entendu ?  
+        O Dieux ! qu'ay-je entendu ?  
 
     MARCELLIN.
 Ne me demandés point un recit si funeste.  
@@ -3256,7 +3256,7 @@ Souffre qu'à tout mon sang je donne quelques larmes.
 Donc ces Princes si chers.  
 
     MARCELLIN.
-Ils ont perdu le jour.  
+        Ils ont perdu le jour.  
 De Brute et des Romains l'esperance et l'amour⁎,  
 Par son ordre aux Romains ont servy de victime.  
 
@@ -3279,10 +3279,10 @@ Et pleure⁎ aprés leur mort en Pere malheureux.
 Ah ! Tygre.  
 
     JUNIE.
-Ah ! mes enfans .  
+    Ah ! mes enfans .  
 
     TULLIE.
-Mais helas ! C'est leur Pere,  
+        Mais helas ! C'est leur Pere,  
 J'entre dans vos respects cher Tite, cher Tibere,  
 Freres qui partagez mon amoureux⁎ desir,  
 Vous m'ostez en mourant la peine de choisir,  
@@ -3302,7 +3302,7 @@ JUNIE, BRUTE.
 Qu'as-tu fait de ton sang, Brute ?  
 
     BRUTE.
-Je l'ay versé,  
+        Je l'ay versé,  
 Femme viens achever ce que j'ay commencé :  
 Viens expier mon crime et viens te satisfaire,  
 Il me poursuit par tout, je ne m'en puis defaire :  
@@ -3317,14 +3317,14 @@ Je ne suis, quand il faut, ny Pere ni Romain. [398]
 Rens-moy mes fils, cruel⁎.  
 
     BRUTE.
-Ils ont perdu la vie,  
+        Ils ont perdu la vie,  
 Et la mienne par toy me doit estre ravie.  
 
     JUNIE.
 Helas !  
 
     BRUTE.
-Que tes douleurs font un puissant effet,  
+        Que tes douleurs font un puissant effet,  
 Qu'estes vous devenus mes enfans, qu'ay-je fait ?  
 Combien leur triste mort dans les pleurs⁎ d'une Mere,  
 Grave l'enormité du crime de leur Pere.  
@@ -3344,7 +3344,7 @@ LIVIE, JUNIE, BRUTE.
 
 
     LIVIE.
-Ah ! Pere impitoyable !  
+        Ah ! Pere impitoyable !  
 De ton zele⁎ cruel⁎ voy la suitte effroyable :  
 La Princesse n'est plus, songe à son desespoir⁎,  
 Et lis dedans son sang ton crime et ton devoir⁎.  

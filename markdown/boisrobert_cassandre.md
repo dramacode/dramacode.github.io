@@ -827,13 +827,13 @@ Astolfe, allez chercher vostre sœur Isabelle.
 Souffrez qu'auparauant.  
 
     CASSANDRE.
-Viste j'ay besoin d'elle.  
+        Viste j'ay besoin d'elle.  
 
     ASTOLFE.
 Sans m'escouter, Madame.  
 
     CASSANDRE.
-Allez-y de ce pas,  
+        Allez-y de ce pas,  
 Obeïssez, vous dis-je, & ne repliquez pas.  
 
     ASTOLFE, *à part.*
@@ -849,7 +849,7 @@ Don Remon de Moncade & Don Pedre, Madame,
 Viennent vers vostre Altesse.  
 
     CASSANDRE.
-Ah je ne doute point  
+        Ah je ne doute point  
 Qu'ils ne viennent encor me presser sur ce point ;  
 Rentrons Don Lope, il faut que je les abandonne,  
 En l'humeur⁎ où je suis ie n'escoute personne.  
@@ -948,7 +948,7 @@ Beralde se souuient de ce qu'il m'a promis.
 Ouy, Seigneur.  
 
     DON PEDRE.
-Aprenez que nous sommes amis  
+        Aprenez que nous sommes amis  
 Ce qui dans deux riuaux [67] semble chose assez rare,  
 Que nous ne voulons point que l'amour nous separe,  
 Qu'Esclaues d'Isabelle, & sans estre jaloux⁎,  
@@ -1036,7 +1036,7 @@ Qu'auec égalité tous deux je vous honore.
 Allons vers la Princesse.  
 
     MONCADE.
-Allons, & descouurons,  
+        Allons, & descouurons,  
 S'il est possible enfin, quel Maistre nous aurons.  
 
 
@@ -1078,19 +1078,19 @@ On me les a donnez pour rendre à la Princesse.
 A la Princesse !  
 
     BERALDE, *à part*.
-O dieux ! que je suis interdit⁎,  
+        O dieux ! que je suis interdit⁎,  
 O cruelle surprise, insensé qu'ay-je dit ?  
 
     ASTOLFE.
 Pour rendre à la Princesse ?  
 
     BERALDE. *à part.*
-Ah ! je luy deuois dire,  
+        Ah ! je luy deuois dire,  
 Qu'à sa sœur ces riuaux auoient raison d'escrire,  
 O maudit interest⁎.  
 
     ASTOLFE, *bas.*
-I'ay lieu⁎ d'estre jaloux⁎.  
+        I'ay lieu⁎ d'estre jaloux⁎.  
 Ie les rendray moy-mesme, allez retirez vous.  
 Qui donc si hardiment ose escrire à Cassandre ?  
 En ouurant ces billets, nous le pourrons apprendre,  
@@ -1119,7 +1119,7 @@ Qu'on ne m'en parle plus.
 
     ASTOLFE *lit tout haut.*
               
-*Puis que vous connoissez le sang.*  
+        *Puis que vous connoissez le sang.*  
 De Moncade Madame.  
 Puis que vous connoissez son rang.  
 Daignez connoistre aussi son respect⁎ & sa flame.  
@@ -1145,7 +1145,7 @@ Et retire⁎ sa lettre.
     CASSANDRE.
 à part.
 
-Il s'est ému soudain,  
+        Il s'est ému soudain,  
 De cette emotion je deuine la cause,  
 Astolphe, dans l'esprit, vous auez quelque chose,  
 Respondez sans contrainte, & sans vous estonner⁎.  
@@ -1162,7 +1162,7 @@ Et veu ma qualité, j'en suis assez surpris.
 D'où luy vint ce billet.  
 
     MONCADE *bas*.
-D'où luy vient ce mépris ?  
+        D'où luy vient ce mépris ?  
 
     CASSANDRE.
 Quelque surprise icy vous broüille la ceruelle.  
@@ -1177,7 +1177,7 @@ Ce que vous auez leu vous touche fort au cœur.
 Oüy, Madame.  
 
     MONCADE *bas*.
-Ay-je escrit pour outrager sa sœur ?  
+        Ay-je escrit pour outrager sa sœur ?  
 
     CASSANDRE.
 Ie ne puis plus cacher ce que souffre mon ame.  
@@ -1199,7 +1199,7 @@ La declaration ne peut estre plus claire.
 Malheureuse Cassandre.  
 
     ASTOLFE.
-O malheureux amant.  
+        O malheureux amant.  
 
     MONCADE.
 Suiuons-la pour luy dire enfin tout mon tourment⁎ :  
@@ -1212,7 +1212,7 @@ ASTOLFE, MONCADE.
 
 
     ASTOLFE.
-Et je pourray m'en taire ?  
+        Et je pourray m'en taire ?  
 Ie souffriray sans bruit⁎ ce coup de desespoir ?  
 Moncade, hors d'icy, je desire vous voir-  
 
@@ -1220,7 +1220,7 @@ Moncade, hors d'icy, je desire vous voir-
 Pourquoy ?  
 
     ASTOLFE.
-Pour vous prier de me tirer de peine.  
+        Pour vous prier de me tirer de peine.  
 Il faut vous desister d'vne recherche vaine.  
 
     MONCADE.
@@ -1257,7 +1257,7 @@ Vous vous abusez fort de vous l'estre promis,
 Ie ne puis jamais l'estre, adieu.  
 
     MONCADE, *seul*.
-Quelle injustice.  
+        Quelle injustice.  
 D'où luy vient ce mespris, d'où luy naist ce caprice ?  
 Si i'apprens qu'Isabelle ait vn mespris pareil,  
 Enfin de la raison nous suiurons le conseil.  < Fin du premier Acte. >
@@ -1315,7 +1315,7 @@ L'ingrat, d'où luy peut naistre vn si prompt changement ?
 Que voy-je ?  
 
     ISABELLE.
-Il est jaloux, Madame, & c'est tout dire ;  
+        Il est jaloux, Madame, & c'est tout dire ;  
 Le malheureux qu'il est souffre vn cruel martire,  
 Vos mespris ont causé son desplaisir secret,  
 Il s'en va, mais je sçay qu'il vous quitte à regret.  
@@ -1350,7 +1350,7 @@ Non ; car cent importuns qui m'ont tousiours tenuë⁎,
 Ne me l'ont peu permettre.  
 
     ISABELLE.
-Enfin examinons  
+        Enfin examinons  
 Si c'est auec raison que nous le condamnons.  
 
     CASSANDRE *lit la lettre de Moncade.*
@@ -1370,7 +1370,7 @@ Madame, qu'est-ce cecy, cette lettre s'adresse
 A vous.  
 
     CASSANDRE.
-De Dom Remon i'y voy la hardiesse.  
+        De Dom Remon i'y voy la hardiesse.  
 
     ISABELLE. *bas*.
 C'est à moy que l'ingrat deuoit escrire ainsy,  
@@ -1419,7 +1419,7 @@ Il m'a mis cette lettre encore entre les mains,
 Qu'il croit estre pour vous.  
 
     CASSANDRE.
-Voyons la, je le pleins.  
+        Voyons la, je le pleins.  
 Cassandre lit.
 
 Souffrez adorable Isabelle,  
@@ -1429,7 +1429,7 @@ Vous connoissez le sang Illustre d'Arragon.
 C'est à vous qu'on l'escrit.  
 
     ISABELLE.
-Souffrez que je la voye  
+        Souffrez que je la voye  
 Elle lit
 
 Dom Pedre d'Arragon est celuy qui l'enuoye,  
@@ -1451,7 +1451,7 @@ ASTOLFE, CASSANDRE, ISABELLE.
 
 
     ASTOLFE.
-Qve voulez vous Madame  
+        Qve voulez vous Madame  
 Enfin, pretendez vous arracher de mon ame  
 Cette amour immortelle, & ces feux⁎ eternels,  
 Que vous auez trop tard reconnus criminels ?  
@@ -1524,13 +1524,13 @@ Ie crains fort son esprit, le connoissez vous bien,
 Madame ?  
 
     CASSANDRE.
-Ouÿ c'est vn homme ardent⁎ & magnanime,  
+        Ouÿ c'est vn homme ardent⁎ & magnanime,  
 Qui pour sauuer l'Estat s'en feroit la victime,  
 Qui m'aime auec tendresse, & qui d'vn mesme cœur,  
 Embrasse mes Estats.  
 
     ASTOLFE.
-Ces raisons me font peur,  
+        Ces raisons me font peur,  
 Vous connoissez son cœur, moy sa delicatesse,  
 Comme il void nos voisins nous quereller sans cesse,  
 Il s'est mis dans l'esprit qu'il faut vous engager,  
@@ -1543,7 +1543,7 @@ Comme il aime son sang, & qu'il en sçait le pris⁎,
 Il agrera mon choix,  
 
     ASTOLFE.
-Il en sera surpris ;  
+        Il en sera surpris ;  
 Madame, excusez moy si j'ose encor vous dire,  
 Que je crains d'autant plus qu'ardamment je desire.  
 Ie sçay jusqu'à quel point le Duc est delicat,  
@@ -1586,7 +1586,7 @@ Sans incredulité vous n'en pouuez douter,
 Mon frere.  
 
     ASTOLFE.
-Son humeur⁎ est fort à redouter,  
+        Son humeur⁎ est fort à redouter,  
 Et toute ma fortune⁎, Adorable Princesse,  
 Enfin peut m'échapper par sa delicatesse.  
 
@@ -1661,7 +1661,7 @@ Cherchez vn autre objet⁎ à vostre passion⁎ :
 Car cela ne se peut.  
 
     ASTOLFE.
-Et toutefois je pense,  
+        Et toutefois je pense,  
 
     LE DVC.
 Vous pensez ; moy je sçay de certaine science,  
@@ -1680,10 +1680,10 @@ Qui vous monte à la teste, & vous a transporté⁎.
 I'ay plus.  
 
     LE DVC.
-Et qu'auez-vous.  
+    Et qu'auez-vous.  
 
     ASTOLFE [79]
-Vn plus seur temoignage.  
+        Vn plus seur temoignage.  
 Sa parole & sa foy⁎, m'en faut-il dauantage ?  
 
     LE DVC.
@@ -1702,12 +1702,12 @@ O Pere miserable⁎, ô fils trop malheureux.         565
 Quel mal-heur !  
 
     LE DVC.
-Ah mon fils, aprenez vne histoire,  
+        Ah mon fils, aprenez vne histoire,  
 Qui vous couure de honte & destruit vostre gloire⁎,  
 Cassandre est vostre sœur.  
 
     ASTOLFE.
-Qu'entens-je ? ô justes Dieux.  
+        Qu'entens-je ? ô justes Dieux.  
 
     LE DVC.
 Descouurez⁎ si quelqu'vn nous escoute en ces lieux,  
@@ -1807,7 +1807,7 @@ D'Astolfe, qui tout haut en faisoit la lecture,
 Beralde m'a trahy.  
 
     D. PEDRE.
-I'ay donc part à l'injure⁎,  
+        I'ay donc part à l'injure⁎,  
 Le fourbe⁎ m'aura fait sans doute vn mesme tour⁎.  
 
     MONCADE.
@@ -1824,7 +1824,7 @@ D. PEDRE, MONCADE, BERALDE.
 
 
     BERALDE.
-Que leur diray-je, ô Dieux.  
+        Que leur diray-je, ô Dieux.  
 
     D. PEDRE *bas*.
 Vous verrez qu'on le fourbe⁎, & qu'on me traitte mieux.  
@@ -1853,10 +1853,10 @@ I'ay fort fidellement vostre billet remis.
 En main propre ?  
 
     BERALDE.
-En main propre.  
+    En main propre.  
 
     MONCADE *bas*.
-O l'insigne⁎ imposture.  
+        O l'insigne⁎ imposture.  
 
     BERALDE.
 Mais, Seigneur, en cecy je pleins vostre auanture⁎,  
@@ -1869,7 +1869,7 @@ Qu'en donnant deuant moy vostre lettre à son frere.
 A son frere ? Ah l'ingrate.  
 
     BERALDE.
-Ou je suis abusé ;  
+        Ou je suis abusé ;  
 Ou de quelque autre objet son cœur est embrazé ?  
 De cette auersion je ne suis pas la cause,  
 Et ne pouvois pas mieux executer la chose.  
@@ -1895,7 +1895,7 @@ D. PEDRE D'ARRAGON, BERALDE.
 
 
     D. PEDRE.
-He, bien Beralde a-t'il donné ma lettre,  
+        He, bien Beralde a-t'il donné ma lettre,  
 Qu'en doit-on esperer, que m'en puis-je promettre ?  
 
     BERALDE.
@@ -1906,7 +1906,7 @@ Qu'on l'a fort bien receuë, ou je suis fort deceu⁎.
 En main propre, Beralde ?  
 
     BERALDE.
-Ouy je vous en asseure.  
+        Ouy je vous en asseure.  
 
     D. PEDRE.
 Ce que vous m'asseurez, est-ce point imposture ?  
@@ -1950,9 +1950,9 @@ Croyez que i'employray toute mon industrie⁎,
 Pour vous rendre content.  
 
     D. PEDRE.
-Amy je vous en prie.  
+        Amy je vous en prie.  
 
-    BERALDE *à part*. 
+    BERALDE *à part*.
 Ie me suis bien tiré d'vn pas fort dangereux,  
 Mais on ne peut long-temps fourber deux amoureux.  
 Il se tire à l'écart.
@@ -1971,7 +1971,7 @@ S'il faut du confident croire le tesmoignage,
 Mes affaires vont mal.  
 
     D. PEDRE.
-S'il l'en faut croire aussi,  
+        S'il l'en faut croire aussi,  
 Ie voy que mon dessein n'a pas mal reüssi ;  
 Elle a receu ma lettre, & d'vn œil fauorable.  
 
@@ -2006,12 +2006,12 @@ Sur le moindre mespris que je receuray d'elle.
 Vostre demande est juste.  
 
     MONCADE.
-Ah je la voy venir  
+        Ah je la voy venir  
 L'ingratte, & je ne puis ses regards soustenir ;  
 Que je crains ses mespris.  
 
     D. PEDRE.
-La voulez vous attendre ?  
+        La voulez vous attendre ?  
 
     MONCADE.
 Ouy, quoy qu'à son amour je n'ose rien pretendre.  
@@ -2032,15 +2032,15 @@ Quoy donc, ce que je hay me cherche, & ce que j'aime,
 Me fuit ?  
 
     D. PEDRE.
-Vous connoissez ma passion extresme  
+        Vous connoissez ma passion extresme  
 Madame,  
 
     ISABELLE.
-Ouy je la sçay D. Pedre, & sçay de plus,  
+        Ouy je la sçay D. Pedre, & sçay de plus,  
 Que vous m'auez escrit.  
 
     BERALDE *bas*.
-Nos billets sont receus.  
+        Nos billets sont receus.  
 
     ISABELLE.
 Ouy, jusque dans mes mains vostre lettre est venuë,  
@@ -2064,7 +2064,7 @@ Moderez vos transports⁎ D. Pedre & me quittez ;
 Adieu, laissez moy seule.  
 
     D. PEDRE.
-He bien je me retire.  
+        He bien je me retire.  
 
     MONCADE *à part*.
 D. Pedre se tire à vn coin pour obseruer Moncade.
@@ -2089,7 +2089,7 @@ Et donne luy ta vie aprés ta liberté.
 Il s'esbranle à la fin,  
 
     MONCADE.
-O rigoureuse crainte ;  
+        O rigoureuse crainte ;  
 
     ISABELLE *à part*.
 Il vient : mais l'action me parest bien contrainte,  
@@ -2103,7 +2103,7 @@ Ie n'ose ouurir la bouche, & tremble deuant elle.
 Qu'il est gesné⁎, bons Dieux.  
 
     MONCADE.
-Adorable Isabelle,  
+        Adorable Isabelle,  
 Souffrez que dans ce lieu je vous parle vn moment.  
 
     ISABELLE *bas*.
@@ -2163,7 +2163,7 @@ La beauté qu'on vous offre estant plus fauorable,
 Vous rendroit plus heureux.  
 
     MONCADE.
-Que je suis miserable.  
+        Que je suis miserable.  
 
     D. PEDRE.
 Vn cœur genereux⁎ cede aux volontez du sort,  
@@ -2237,7 +2237,7 @@ Ie vous obeïray, Madame, aueuglement,     
 Ie suiuray vos conseils.  
 
     CASSANDRE.
-Vous ferez sagement,  
+        Vous ferez sagement,  
 
     MONCADE.
 C'est justice, aprés tout d'aimer quand on nous aime.  
@@ -2292,7 +2292,7 @@ L'excessive douleur qui cause mon martire.
 Quelle douleur, qu'entens-je ?  
 
     ASTOLFE.
-Ah qu'allez-vous iuger,  
+        Ah qu'allez-vous iuger,  
 D'vn cœur qui vous adore & qui ne peut changer ?  
 Helas qu'allez-vous dire ? helas qu'allez-vous croire ?  
 I'atteste tous les Dieux dont i'ay blessé la gloire,  
@@ -2351,7 +2351,7 @@ Hola.
 
     DON LOPE *vient au bruit.*
               
-Que vous plaist-il, Madame, & qu'auez-vous ?  
+        Que vous plaist-il, Madame, & qu'auez-vous ?  
 
     CASSANDRE.
 Renferme dans ton cœur la douleur qui te presse⁎,  
@@ -2390,7 +2390,7 @@ Perdre qui de ma vie est l'vnique soustien ?
 Que voulez-vous, Madame.  
 
     CASSANDRE.
-Helas je ne veux rien.  
+        Helas je ne veux rien.  
 
     DOM LOPE.
 Son esprit agité souffre vne estrange⁎ peine.  
@@ -2415,7 +2415,7 @@ Vostre équipage est prest, pour vostre passeport,
 Ie m'en vay le signer.  
 
     ASTOLFE *à part*.
-Ah c'est signer ma mort.  
+        Ah c'est signer ma mort.  
 
 
 ## SCENE II.
@@ -2427,10 +2427,10 @@ La Princesse, Seigneur, auec impatience,
 Vous attend.  
 
     LE DVC.
-Ie vous suy.  
+    Ie vous suy.  
 
     DOM LOPE.
-Mais faittes diligence⁎.  
+        Mais faittes diligence⁎.  
 
     LE DVC.
 Ie marche sur vos pas, i'y suis dans vn moment,  
@@ -2468,7 +2468,7 @@ CASSANDRE, MONCADE.
     CASSANDRE *à vn bout de la chambre qui ne void point
                   Moncade.*
               
-Malheureuse ! he n'as tu pas compris,  
+        Malheureuse ! he n'as tu pas compris,  
 Que ton humeur facile attira ces mépris,  
 Pour m'estre à cœur ouuert librement declarée,  
 Mon amour d'vn ingrat⁎ est peu considerée :  
@@ -2489,7 +2489,7 @@ Ne vous repentez pas d'vne bonté si grande,
 Madame.  
 
     CASSANDRE.
-Quoy Moncade auroit sceu mon secret.  
+        Quoy Moncade auroit sceu mon secret.  
 
     MONCADE.
 Vous l'offenceriez trop d'en montrer du regret,  
@@ -2524,7 +2524,7 @@ Connoissez vous l'escrit que je tiens en mes mains :
 Et n'est-il pas de vous ! relisez-le.  
 
     MONCADE.
-Ouy, Madame,  
+        Ouy, Madame,  
 
     CASSANDRE *aprés auoir rompu la lettre, qu'elle luy jette.*
               
@@ -2546,7 +2546,7 @@ CASSANDRE, LE DVC, D. LOPE, MONCADE.
 Voicy le Duc, Madame.  
 
     CASSANDRE.
-Eclatte⁎ ma fureur⁎,  
+        Eclatte⁎ ma fureur⁎,  
 L'amour dessus [91] mon ame auoit trop pris d'Empire⁎,  
 Adieu sortez, Messieurs, que chacun se retire,  
 
@@ -2593,10 +2593,10 @@ Vostre age & vostre rang ont vn grand priuilege,
 Seyez vous.  
 
     LE DVC.
-Iobeïs.  
+    Iobeïs.  
 
     CASSANDRE.
-Parlez c'est sans tesmoins.  
+        Parlez c'est sans tesmoins.  
 Depuis que mes Estats sont regis pas vos soins⁎,  
 Me tenez vous pas lieu de Tuteur & de Pere ?  
 
@@ -2763,23 +2763,23 @@ LE DVC, ASTOLFE, CASSANDRE, DOM LOPE.
 
 
     DOM LOPE.
-Astolfe s'est treuué,  
+        Astolfe s'est treuué,  
 Madame,  
 
     CASSANDRE.
 Icy Cassandre fait signe à D.Lope de sortir.
 
-Astolfe ?  
+    Astolfe ?  
 
     LE DVC.
-O Dieux !  
+    O Dieux !  
 
     CASSANDRE.
-Qu'il approche, qu'il vienne,  
+        Qu'il approche, qu'il vienne,  
 L'ingrat,  
 
     LE DVC.
-Quelle disgrace est pareille à la mienne.  
+        Quelle disgrace est pareille à la mienne.  
 
     CASSANDRE.
 Sa presence a d'abord⁎ dissipé mon courroux.  
@@ -2810,7 +2810,7 @@ Pour s'arrester à toy par vn indigne choix ?
 Parle donc.  
 
     ASTOLFE.
-Ouy, Seigneur je sçay toutes ces choses.  
+        Ouy, Seigneur je sçay toutes ces choses.  
 
     LE DVC.
 Cependant à ce chois on dit que tu t'opposes.  
@@ -2819,13 +2819,13 @@ Et te souuiens-tu pas de ce que tu promis ?
 Veux-tu pas l'espouser ?  
 
     ASTOLFE.
-S'il est en ma puissance,  
+        S'il est en ma puissance,  
 I'ay les mesmes respects⁎, la mesme obeïssance.  
 De ce tresor diuin je seray possesseur,  
 Si vous me l'ordonnez.  
 
     LE DVC *bas*.
-Quoy meschant, de ta sœur ?  
+        Quoy meschant, de ta sœur ?  
 Haut.
 
 L'extrauagance est grande, & je ne la puis taire,  
@@ -2841,17 +2841,17 @@ Cét ordre rigoureux est tout plein de Iustice⁎,
 Madame, hola.  
 
     LE CAPITAINE DES GARDES.
-Seigneur.  
+    Seigneur.  
 
     ASTOLFE.
-Injuste effet d'amour.  
+        Injuste effet d'amour.  
 
     LE DVC.
 Saisissez vous de luy, menez le dans la tour,  
 Et nous en respondez.  
 
     LE CAPITAINE DES GARDES.
-Dieux cét ordre m'estonne.  
+        Dieux cét ordre m'estonne.  
 
     LE DVC.
 Faittes ce qu'on vous dit, la Princesse l'ordonne.  
@@ -2863,16 +2863,16 @@ Ouy, ouy, c'est par mon ordre, asseurez-vous⁎ de luy.
 Rendez moy vostre espée.  
 
     CASSANDRE *à part*.
-Ah j'en mourray d'ennuy⁎.  
+        Ah j'en mourray d'ennuy⁎.  
 
     ASTOLFE.
 Prenez la.  
 
     LE CAPITAINE.
-Suiuez moy.  
+    Suiuez moy.  
 
     ASTOLFE.
-I'obeis sans murmure.  
+        I'obeis sans murmure.  
 Cette rigueur, mon Pere, offence la nature⁎,  
 Si je n'ay point failly, Dieux par quelle raison,  
 
@@ -2940,7 +2940,7 @@ Et ma plus douce gloire⁎ est d'accomplir vos vœux.
 Qui peut l'en empescher ?  
 
     ASTOLFE.
-Sçachez-le de sa bouche,  
+        Sçachez-le de sa bouche,  
 L'obstacle vient de luy, car pour ce qui me touche,  
 Ie jure par l'éclat qui sort de vos beaux yeux,  
 Que j'ay plus de respect⁎ pour vous, que pour les Dieux :  
@@ -2999,7 +2999,7 @@ Pressé⁎ sur cét hymen, l'ingrat⁎ m'a respondu,
 Qu'il aime mieux mourir.  
 
     CASSANDRE.
-Ie l'ay bien entendu,  
+        Ie l'ay bien entendu,  
 Mourir ? Ah c'est vn songe, & je ne le puis croire,  
 Quoy preferer la mort à ton bien, à ta gloire,  
 Méchant ! quoy je te suis vn objet⁎ odieux ?  
@@ -3009,7 +3009,7 @@ Qui croid impunement brauer sa Souueraine,
 Gardes qu'on s'en saisisse.  
 
     ASTOLFE.
-Ah dure extremité.  
+        Ah dure extremité.  
 
     LE DVC.
 Monstre d'ingratitude⁎ & d'infidelité.  
@@ -3018,7 +3018,7 @@ Monstre d'ingratitude⁎ & d'infidelité.
 Helas vous sçauez bien mon Pere.  
 
     LE DVC.
-Quoy, barbare ?  
+        Quoy, barbare ?  
 
     ASTOLFE.
 Souffrez que je luy parle auant qu'on m'en separe.  
@@ -3048,7 +3048,7 @@ Vous m'estonnez, Beralde, Astolfe ose m'escrire ?
 Pour se justifier.  
 
     CASSANDRE.
-Et que me peut-il dire ?  
+        Et que me peut-il dire ?  
 
     BERALDE.
 En ouurant ce pacquet qu'il vient de me donner,  
@@ -3164,7 +3164,7 @@ Deuez vous jusqu'à moy porter vostre colere ?
 Connoissez cette lettre.  
 
     ISABELLE.
-Elle est du Duc mon pere.  
+        Elle est du Duc mon pere.  
 
     CASSANDRE.
 Lisez-la, malheureuse, & voyez si j'ay tort,  
@@ -3233,7 +3233,7 @@ Sçachez qu'elle est ma fille, & qu'Astolfe est son frere.
 Moy je suis vostre fille ?  
 
     LE DVC.
-Ouy j'en jure les Dieux.  
+        Ouy j'en jure les Dieux.  
 
     CASSANDRE
 Croyez vous qu'il en soit, esprit pernicieux ?  
@@ -3242,7 +3242,7 @@ Imposteur, qu'est-ce encor qu'on me veut faire entendre,
 Moy je suis vostre fille ?  
 
     LE DVC.
-Ouy, Madame, escoutez  
+        Ouy, Madame, escoutez  
 Vn recit surprenant, mais plein de veritez,  
 Ouy vous estes ma fille, encor je vous le jure,  
 
@@ -3268,10 +3268,10 @@ Ce que j'oste à mon fils prouue assez clairement.
 Qui donc m'oste le sceptre ?  
 
     LE DVC.
-Isabelle,  
+    Isabelle,  
 
     CASSANDRE.
-Et comment ?  
+        Et comment ?  
 
     LE DVC.
 Quand elle vint au monde elle y vint languissante,  
@@ -3344,7 +3344,7 @@ CASSANDRE, ISABELLE.
 
 
     CASSANDRE.
-Dans cette obeïssance,  
+        Dans cette obeïssance,  
 Vous allez voir finir mon regne, & ma puissance :  
 Et vous verrez, Princesse, en vous la remettant,  
 Et mesprisant du sort le caprice⁎ inconstant  
@@ -3412,7 +3412,7 @@ Que D. Bernard est libre, & le rameine en cour
 Malgré luy.  
 
     CASSANDRE.
-Dom Bernard ? l'a-t'il pû reconnestre?  
+        Dom Bernard ? l'a-t'il pû reconnestre?  
 
     BERALDE.
 Il m'a plûtost connu, qu'il n'a connu mon maistre.  
@@ -3421,13 +3421,13 @@ Il m'a plûtost connu, qu'il n'a connu mon maistre.
 Bernard depuis quinze ans detenu ?  
 
     BERALDE.
-Les Voicy ?  
+        Les Voicy ?  
 
     CASSANDRE.
 Où s'est fait leur rencontre ?  
 
     BERALDE.
-A mille pas d'icy,  
+        A mille pas d'icy,  
 Voyant quel desespoir l'emportoit vers la France,  
 Il la fait reuenir auecque diligence⁎,  
 I'en ay fait aduertir le Duc diligemment⁎,  
@@ -3461,7 +3461,7 @@ LE DVC, ASTOLFE, D. BERNARD, BERALDE.
 Qvoy mon fils de retour.  
 
     BERALDE.
-La chose est tres certaine.  
+        La chose est tres certaine.  
 
     LE DVC.
 Et le vray D. Bernard malgré luy le rameine ?  
@@ -3471,7 +3471,7 @@ Captif depuis quinze ans, il reuient en ces lieux ?
 Ouy, Seigneur, les voicy.  
 
     LE DVC.
-Quel bon-heur, justes Dieux !  
+        Quel bon-heur, justes Dieux !  
 Ne suis-je point deceu⁎ par vne fausse joye,  
 Est-il vray, cher amy, qu'encor je vous reuoye ?  
 Embrassez moy, mon fils, vous venez à propos,  
@@ -3500,7 +3500,7 @@ Cét objet⁎ de ma rage & de mon desespoir,
 Cette sœur que j'adore ?  
 
     CASSANDRE.
-Ah ! tout le cœur me tremble,  
+        Ah ! tout le cœur me tremble,  
 Puis-je bien voir mon frere, & mon Amant ensemble ?  
 Ainsi que nostre cœur destournons-en nos yeux,  
 Forçons vn mouuement qui blesseroit les Dieux.  
@@ -3543,7 +3543,7 @@ Le Duc vous croit sa fille, & le croit vainement.
 Dieux que me dittes vous ?  
 
     D. BERNARD.
-Vne verité pure,  
+        Vne verité pure,  
 Et quand vous aurez mieux consulté la nature⁎,  
 Et gousté mes raisons, vous le sentirez bien.  
 
@@ -3555,7 +3555,7 @@ Non, Madame, escoutez, s'il vous plaist vne histoire,
 Qui vous surprendra tous.  
 
     LE DVC.
-Quel moyen de vous croire,  
+        Quel moyen de vous croire,  
 Dittes moy, Dom Bernard, ne m'aydastes vous pas,  
 A supposer⁎ l'enfant qui finit nos debas ?  
 
@@ -3639,7 +3639,7 @@ Si vous m'eussiez plustost rendu ce tesmoignage,
 Que j'en eusse eu de joye.  
 
     CASSANDRE.
-Oublions le passé  
+        Oublions le passé  
 Sans condamner l'erreur où l'on vous a laissé,  
 Vous auez dignement gouuerné ma Prouince,  
 A vostre Sang Illustre elle deuoit vn Prince,  
@@ -3650,7 +3650,7 @@ Ie partage ma gloire⁎ & mon cœur auec elle,
 Et luy donne Moncade.  
 
     ISABELLE.
-O ! regne heureux & doux.  
+        O ! regne heureux & doux.  
 
     ASTOLFE.
 O bonté sans exemple.  
@@ -3661,11 +3661,11 @@ MONCADE, CASSANDRE, ISABELLE, ASTOLFE, LE DVC.
 
 
     MONCADE.
-On n'attend plus que vous,  
+        On n'attend plus que vous,  
 Madame.  
 
     CASSANDRE.
-Allons, Moncade, on vous a fait justice⁎ :  
+        Allons, Moncade, on vous a fait justice⁎ :  
 Car de Beralde enfin on a sceu l'artifice,  
 Isabelle auoit creu que vous pensiez à moy :  
 Mais elle est detrompée, & reçoit vostre foy⁎.  
@@ -3674,7 +3674,7 @@ Mais elle est detrompée, & reçoit vostre foy⁎.
 Croiray-je ce miracle !  
 
     ISABELLE.
-Ouy, vous le deuez croire.  
+        Ouy, vous le deuez croire.  
 
     MONCADE.
 Aux douceurs de l'amour faisons ceder la gloire,  

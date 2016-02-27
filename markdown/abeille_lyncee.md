@@ -750,7 +750,7 @@ v. 961 «  » : ; // « , » : . // v. 962 « , » : . // v. 963 « ,�
 v. 1261 «  » : , // v. 1262 « , » : . // v. 1264 « . » : . // v. 1265 « . » : : // v. 1266 «  » : , (x2) // v. 1268 « , » : . // v. 1276 « , » : . // v. 1281 «  » : , // v. 1284 « , » : ; // v. 1285 «  » : , // v. 1290 « ' « : , // v. 1294 « , » : ? // v. 1296 « , » : ? // v. 1299 « , » : ; // v. 1300 « , » : . // v. 1306 « , » : ! // v. 1308 « , » : ; // v. 1311 « : » : ? // « , » : ? // v. 1315 « , » : ; // v. 1318 « , » : . // v. 1326 «  » : , // v. 1328 « , » : . // v. 1332 «  » : , // v. 1333 « , » : . // v. 1342 « , » : ; // v. 1344 « , » : . // v. 1348 « , » : . // v. 1349 «  » : ! // v. 1350 «  » : , // v. 1358 « , » : ; // v. 1362 « , » : . // v. 1363 «  » : , // v. 1364 «  » : , // v. 1365 «  » : , // «  » : ; // v. 1369 « , » : . // v. 1377 «  » : , // v. 1380 «  » (x2) : , // v. 1384 «  » : , // v. 1388 « , » : . // v. 1390 « , » : : // v. 1394 «  » : ! // «  » : ? // v. 1396 « , » : . // v. 1397 « , » : ? // v. 1398 «  » : , // v. 1400 « , » : . // v. 1401 «  » : , // v. 1404 « , » : . // v. 1405 « , » : ? // v. 1409 «  » (x2) : , // v. 1411 « , » : ; // v. 1416 « , » : . // v. 1418 « , » : ; // v. 1421 «  » : ! // v. 1425 «  » : , // « , » : . // v. 1426 «  » : , // v. 1429 «  » : !  // v. 1430 « , » : ! // «  » : ! // v. 1431 « . » : ? // v. 1432 « . » : ? // « . » : ! // v. 1435 «  » (x4) : , // v. 1438 « , » : . // v. 1448 «  » : , // v. 1459 «  » : , // v. 1462 «  » : ! « . » : ? // v. 1469 «  » : , // v. 1470 « , » : . // v. 1472 « , » : : // v. 1474 «  » (x2) : , // v 1476 « , » : . // v. 1477 «  » (x2) : , // « , » : . // v. 1480 «  » : ! // « . » : ? // v. 1481 «  » : ! // v. 1483 «  » : , // v. 1484 « , » : ? // v. 1485 «  » : , // v. 1494 « , » : . // v. 1495 « , » : ..
 
 
-# LYNCÉE [43] TRAGÉDIE. 
+# LYNCÉE [43] TRAGÉDIE.
 
 
 ## ACTEURS [46]
@@ -821,7 +821,7 @@ J'espere, et mon espoir est ce fer et ce bras .
 Adieu Madame.  
 
     ERIGONE.
-Iphis c'est moi qui vous l'ordonne,  
+        Iphis c'est moi qui vous l'ordonne,  
 Arrestez et craignez le Courroux d'Erigone .  
 Je veux fermer les yeux à vostre emportement,  
 Pour attendrir le fils en suportant⁎ l'amant,  
@@ -870,7 +870,7 @@ Ces Princes par la paix attirez en ces lieux,
 Chargez de tant d'honneurs…  
 
     ERIGONE.
-Sont autant de victimes,  
+        Sont autant de victimes,  
 Sur qui de Danaus je vay punir les crimes !  
 C'est trop peu de borner ma vangeance à sa mort,  
 Je me propose Iphis un plus illustre effort.  
@@ -889,7 +889,7 @@ Et le lit nuptial l'autel du sacrifice.
 Madame...  
 
     ERIGONE.
-Tu fremis, il n'est pas encor temps,  
+        Tu fremis, il n'est pas encor temps,  
 Il faut , il faut des coups encor plus éclattans .  
 Pour un si grand dessein pour tant de morts cruelles,  
 Où crois tu que l'on trouve assez de bras fidelles ?  
@@ -910,7 +910,7 @@ Au milieu de ses soeurs du meurtre encor sanglantes,
 Me viendra…  
 
     ERIGONE.
-Lache amant et plus lache vangeur,  
+        Lache amant et plus lache vangeur,  
 Tu veux perdre un Rival et son sang te fait peur !  
 Feins tu de le poursuivre afin qu'on te retienne,  
 Et l'aveu de ma haine a t -il eteint la tienne  ?  
@@ -956,7 +956,7 @@ ERIGONE, DIRCE.
 Venez Dircé.  
 
     DIRCE.
-Qu'Iphis est devenu traittable⁎,  
+        Qu'Iphis est devenu traittable⁎,  
 Madame, et qu'à vos soins⁎ Lyncée est redevable !  
 Pouvez vous témoigner un soin⁎ plus aparent,  
 Pour un Prince qui doit vous estre indifferent ?      
@@ -965,7 +965,7 @@ Pour un Prince qui doit vous estre indifferent ?    
 Helas que ne l'est il !  
 
     DIRCE.
-Ne l'est il pas Madame  ?  
+        Ne l'est il pas Madame  ?  
 
     ERIGONE.
 Reconnois dans mes yeux le trouble de mon ame :  
@@ -1000,7 +1000,7 @@ Il n'aura pas celuy de s'en flatter longtemps.
 Et Lyncée?  
 
     ERIGONE.
-Ose encor en douter pour ma gloire⁎ [57],  
+        Ose encor en douter pour ma gloire⁎ [57],  
 Depuis un mois je l'ayme et je n'ose le croire,  
 Et je ne reconnois l'exces de mes ardeurs,  
 Qu'à l'horreur que pour luy m'inspirent ses froideurs.  
@@ -1010,7 +1010,7 @@ Quoy Madame peut il vous faire cet outrage ?
 Est-il si peu sensible ?  
 
     ERIGONE.
-Hipermestre l'engage [58],  
+        Hipermestre l'engage [58],  
 Dircé . Peut il en moy rien voir que d'ennuyeux,  
 Et l'amour aux amans laisse t'il de bons yeux ?  
 Il est vray jusqu'icy j'ay caché ma pensée,  
@@ -1053,7 +1053,7 @@ C'est là Dircé qu'il faut signaler ta prudence,
 L'aller trouver…  
 
     DIRCE.
-Je voy Danaus qui s'avance,  
+        Je voy Danaus qui s'avance,  
 Il est triste, ses yeux accablez⁎ de langueur...  
 
     ERIGONE
@@ -1066,7 +1066,7 @@ DANAUS, ERIGONE.
 
 
     ERIGONE.
-Quel funeste nuage,  
+        Quel funeste nuage,  
 Seigneur, à contre temps vous couvre le visage ?  
 L'aproche d'une nuit de qui l'heureux secours,  
 Va si bien asseurer le repos de vos jours,  
@@ -1304,7 +1304,7 @@ DANAUS, LYNCEE, HIPERMESTRE.
 
 
     DANAUS.
-Je trouble vostre Joye,  
+        Je trouble vostre Joye,  
 Mais il faut qu'à vos yeux la mienne se deploye,  
 Il faut que je la mesle à vos communs plaisirs,  
 Prince n'opposez point d'obstacle à mes desirs.  
@@ -1314,7 +1314,7 @@ Moy Seigneur, à l'autheur du repos de ma vie,
 J'irois...  
 
     DANAUS.
-D'aucun Rival ne craignez plus l'envie,  
+        D'aucun Rival ne craignez plus l'envie,  
 Iphis qui se vouloit absenter de la cour,  
 Qui seul par ses chagrins troubloit un si beau jour,  
 S'est enfin laissé vaincre aux avis de sa mere,      
@@ -1343,7 +1343,7 @@ Ne fait il point de tort à celuy qui m'est dû ?
 Ne l'a t'il point eteint ?  
 
     HIPERMESTRE.
-Seigneur quel avantage,  
+        Seigneur quel avantage,  
 Pretendez vous tirer d'un doute qui m'outrage ?  
 La nature et l'amour ont leurs droits separez .  
 
@@ -1371,10 +1371,10 @@ Vous sçavez à quel point cet époux vous revere,
 Qu'il voudroit de son sang...  
 
     DANAUS.
-Ah ma fille !  
+    Ah ma fille !  
 
     HIPERMESTRE.
-Mon Pere !  
+        Mon Pere !  
 Que vois je ? juste Ciel! qu'un chagrin si profond,  
 Dans un jour si serain me trouble et me confond .  
 Quoy quand vous invitez tout le monde à la joye,  
@@ -1383,21 +1383,21 @@ Vostre coeur malgré vous se trahit devant moy,
 Et des soupirs contraints…  
 
     DANAUS.
-Aussy n'est ce qu'à toy,  
+        Aussy n'est ce qu'à toy,  
 Qu'un Roy persecuté, qu'un Pere miserable,  
 Ose ouvrir le secret du tourment qui l'accable⁎ :  
 On en veut à mes jours.  
 
     HIPERMESTRE.
-O Dieux!  
+    O Dieux!  
 
     DANAUS.
-Un assassin,  
+        Un assassin,  
 Peut estre avant la nuit tranchera mon destin,  
 Peut estre...  
 
     HIPERMESTRE.
-Et vous parlez d'hymenée⁎ et de feste,  
+        Et vous parlez d'hymenée⁎ et de feste,  
 Au moment que le Ciel menace vostre teste !  
 Songeons à vos Perils, prevenons l'attentat,  
 Prenons du criminel vangeance avec eclat ;  
@@ -1430,8 +1430,8 @@ Tandis que loin de moy... vous verrez l'imposture
 Allons Seigneur, voyons Erigone et son fils,  
 Qu'ils parlent c'est assez.  
 
-    DANAUS. 
-N'accusez point Iphis.  
+    DANAUS.
+        N'accusez point Iphis.  
 Accusez s'il le faut un oracle celeste,  
 Qui m'explique en ces mots leur pratique funeste,  
 En vain tu crois n'avoir plus d'ennemis,  
@@ -1493,7 +1493,7 @@ Songez que mes destins sont en vostre pouvoir.
 Eh bien Seigneur ?  
 
     DANAUS.
-Alors prevenant⁎ le barbare⁎,  
+        Alors prevenant⁎ le barbare⁎,  
 Vous tournerez sur luy le coup qu'il me prepare .  
 
     HIPERMESTRE.
@@ -1506,7 +1506,7 @@ Pouvez vous en souffrir l'Image sans horreur ?
 Pouvez vous m'ordonner...  
 
     DANAUS.
-Non remplissez [73] l'oracle,  
+        Non remplissez [73] l'oracle,  
 Voyez avec plaisir le barbare⁎ spectacle,  
 D'un Pere massacré par la main d'un époux,  
 Dont vostre cruauté veut seconder les coups .  
@@ -1517,7 +1517,7 @@ Pour me percer le coeur prestez luy vostre main,
 Vos soeurs seront sans vous…  
 
     HIPERMESTRE.
-O mes sœurs ! o mon Pere !  
+        O mes sœurs ! o mon Pere !  
 Si vostre amour pour nous fut toujours si sincere,  
 Hélas n'avez vous pû choisir d'autre secours,  
 Que nos tremblantes mains pour asseurer vos jours ?  
@@ -1620,7 +1620,7 @@ Hipermestre à ses yeux paroistra criminelle,
 Vous parlerez...  
 
     [ERIGONE] [76]
-Dircé je dois trop à ton zele,  
+        Dircé je dois trop à ton zele,  
 Va de ce triste hymen⁎ troubler les vains aprests⁎,  
 Mais ne decouvre point mes sentiments secrets .  
 Dy luy de quels perils sa teste est menacée ;  
@@ -1635,7 +1635,7 @@ IPHIS, ERIGONE.
 
 
     IPHIS.
-Mon coeur s'ouvre à la joye,  
+        Mon coeur s'ouvre à la joye,  
 Madame et je voy bien que mon sort se deploye [77],  
 Je ne puis en comprendre encor tous les secrets,  
 Mais déja de vos soins⁎ je prevoy⁎ les effets .  
@@ -1664,7 +1664,7 @@ Le combat de ma crainte et de mon esperance .
 Dites moy le secret.  
 
     ERIGONE.
-Je ne le puis Iphis .  
+        Je ne le puis Iphis .  
 Mais que vostre recit m'epargne de soucis ;  
 Vous estes trop heureux c'est assez vous en dire,  
 Et jusques à demain ce mot vous doit suffire.  
@@ -1748,7 +1748,7 @@ ERIGONE, DIRCE.
 
 
     DIRCE.
-Ah Madame il marche sur mes pas,  
+        Ah Madame il marche sur mes pas,  
 Je l'ay veu, j'ay parlé : l'ingrat ne me croit pas .  
 Il vous soupçonne, il croit qu'un fils vous a seduite,  
 Et qu'en faveur d'Iphis on luy parle de fuite.  
@@ -1757,7 +1757,7 @@ Et qu'en faveur d'Iphis on luy parle de fuite.
 Qu'entens-je?  
 
     DIRCE.
-A peine a t'il ecouté mes discours,  
+        A peine a t'il ecouté mes discours,  
 Enyvré du succes de ses tendres amours,  
 Affectant à mes yeux une folle asseurance,  
 Il a voulu sortir sans armes, sans defence,  
@@ -1765,7 +1765,7 @@ Il a laissé sa suitte en son apartement.
 Il vient seul.  
 
     ERIGONE.
-Quel succes de tant d'empressement,  
+        Quel succes de tant d'empressement,  
 Ah si j'avois parlé , sans doute il m'auroit cruë .  
 Tu n'estois du peril que foiblement emeuë .  
 Je te l'avois bien dit. L'espoir que je concois,  
@@ -1778,7 +1778,7 @@ LYNCEE, ERIGONE, DIRCE.
 
 
     LYNCEE.
-C'est donc vous à qui le Ciel m'adresse,  
+        C'est donc vous à qui le Ciel m'adresse,  
 Madame, et de vos mains j'obtiendray ma Princesse,  
 Vous voyez que l'amour a bien conduit mes pas,  
 Je vis encor, je viens, entrons, ne tardons pas.  
@@ -1787,7 +1787,7 @@ Je vis encor, je viens, entrons, ne tardons pas.
 Lyncée , où courez vous ?  
 
     LYNCEE.
-Eh quoy la nuit s'avance,  
+        Eh quoy la nuit s'avance,  
 Et vous vous etonnez de mon impatience !  
 Mes freres dans la Grece en ce moment heureux,  
 Sont déja parvenus au comble de leurs vœux .  
@@ -1808,7 +1808,7 @@ Danaus, Hipermestre enfin l'a resoluë.
 Hipermestre.  
 
     ERIGONE.
-A ce nom vous demeurez confus,  
+        A ce nom vous demeurez confus,  
 Elle mesme ; en un mot vos freres ne sont plus,  
 Ils ont en cet instant receu le coup funeste [86] .  
 Fuyez et profitez du peu de temps qui reste,  
@@ -1847,7 +1847,7 @@ Sont de ses attentats les ministres fidelles .
 Hipermestre...  
 
     LYNCEE.
-Ah ! c'est là que j'ouvre enfin les yeux,  
+        Ah ! c'est là que j'ouvre enfin les yeux,  
 Que je voy les ressorts d'un complot furieux .  
 Je croy, malgré le sang qui joint nos deux familles,  
 L'artifice⁎ du Roy, la hayne de ses filles ;  
@@ -1862,7 +1862,7 @@ Non c'est ce qui me rend tout le reste incroyable,
 On vous trompe Madame .  
 
     ERIGONE.
-Ouy Seigneur je le voy,  
+        Ouy Seigneur je le voy,  
 C'est donc moy qui me trompe et vous trompe apres moy .  
 Je sçay tout, du secret seule depositaire,  
 Pour vous persuader je n'aurois qu'à me taire ;  
@@ -1936,7 +1936,7 @@ HIPERMESTRE, LYNCEE.
 Eh quoy vous me fuyez Lyncée ?  
 
     LYNCEE.
-Ah ma Princesse,  
+        Ah ma Princesse,  
 Me soupçonneriez vous d'une telle faiblesse ?  
 Je ne fuis point la mort puisqu'elle vient de vous,  
 Et mon coeur desarmé vient s'offrir à vos coups.  
@@ -2077,12 +2077,12 @@ L'horreur de m'eloigner de tout ce que j'adore .
 Je n'y puis consentir.  
 
     HIPERMESTRE.
-Je l'ay trop dit, partez !  
+        Je l'ay trop dit, partez !  
 Iphis me vangera si vous y resistez,  
 Je ne vous dis plus rien .  
 
     LYNCEE.
-J'obeï ma Princesse,  
+        J'obeï ma Princesse,  
 Je ne resiste plus à l'ordre qui me presse,  
 Vous le voulez, je pars ; vostre absence et l'amour,  
 Sont des maux assez grands pour me priver du jour .  
@@ -2106,18 +2106,18 @@ J'attendois ce moment pour te le declarer :
 Hipermestre est à toy.  
 
     IPHIS.
-L'oseray je esperer  ?  
+        L'oseray je esperer  ?  
 Quoy Lyncée…  
 
     DANAUS.
-A son sort ne porte plus d'envie,  
+        A son sort ne porte plus d'envie,  
 Cet Insolent Rival vient de perdre la vie.  
 
     IPHIS.
 Luy Seigneur, se peut il  ?  
 
     DANAUS.
-Calme ce vain effroy,  
+        Calme ce vain effroy,  
 Et songe à meriter ce que je fais pour toy .  
 Lyncée est mort ; avant que le bruit en eclate,  
 Cours t'asseurer des chefs de cette race ingrate,  
@@ -2158,7 +2158,7 @@ Seigneur ny vous ny moy nous ne le verrons plus,
 Vivez regnez en paix.  
 
     DANAUS.
-Trop heureux Danaus !  
+        Trop heureux Danaus !  
 Allez gardes qu'au peuple on en montre la teste.  
 
     HIPERMESTRE.
@@ -2166,12 +2166,12 @@ Ah Seigneur, songez vous... gardes , que l'on arreste !
 Mon Pere…  
 
     DANAUS.
-Je pardonne à ce tendre retour [96],  
+        Je pardonne à ce tendre retour [96],  
 Quelque pitié peut bien survivre à tant d'amour.  
 Allez [97].  
 
     HIPERMESTRE.
-Pour cet amour ayez quelque indulgence,  
+        Pour cet amour ayez quelque indulgence,  
 A l'effort que j'ay fait bornez vostre vangeance,  
 Voulez vous insulter aux restes tous fumans,  
 D'un époux que j'immole à vos ressentimens  ?  
@@ -2192,7 +2192,7 @@ D'un trosne, j'ay tout mis en vos perfides mains,
 Rendez, rendez moy tout.  
 
     HIPERMESTRE.
-C'est trop longtemps me taire,  
+        C'est trop longtemps me taire,  
 Et d'une douleur feinte emprunter le mistere .  
 Je vous rens plus Seigneur que vous ne pretendiez,  
 L'honneur et la vertu, sans moy vous les perdiez :  
@@ -2201,7 +2201,7 @@ Et perisse à ce prix ma grandeur et la vostre,
 Mon amour , mon repos.  
 
     DANAUS.
-Perissent à ce prix,  
+        Perissent à ce prix,  
 Pere , soeurs et parents , objets de ses mepris,  
 Pourveu que l'assassin se derobe à sa peine,  
 Qu'il survive à ma mort , qu'importe à l'inhumaine ?  
@@ -2211,7 +2211,7 @@ De quel endroit caché me viendra t'il surprendre ?
 Ingrate où l'as tu mis ?  
 
     HIPERMESTRE.
-Seigneur daignez m'entendre .  
+        Seigneur daignez m'entendre .  
 Ny vos yeux ny les miens jamais ne le verront :  
 Bientost loin de ces bords les vents le porteront,  
 A tous les attentats de sa fureur⁎ guerriere,  
@@ -2287,7 +2287,7 @@ Qu'avons nous fait ? il fuit , il m'echape, il me brave,
 Qui Seigneur ?  
 
     DANAUS.
-Le Rival dont tu deviens l'esclave,  
+        Le Rival dont tu deviens l'esclave,  
 L'assassin que les Dieux font maistre de mon sort .  
 
     IPHIS.
@@ -2327,7 +2327,7 @@ S'apreste⁎ à vous porter un poignard dans le sein.
 Que me dit elle , Iphis ?  
 
     HIPERMESTRE.
-Que la fiere⁎ Erigone    
+        Que la fiere⁎ Erigone    
 Par des meurtres sans fin veut remonter au trône,  
 Qu'immolant vos neveux par les mains de mes soeurs,  
 Elle veut avant vous , detruire vos vangeurs,  
@@ -2362,14 +2362,14 @@ Elle sort.
 O Dieux!  
 
     IPHIS.
-Eh quoy ! Seigneur , ma vertu depend elle,  
+        Eh quoy ! Seigneur , ma vertu depend elle,  
 De l'aveugle fureur⁎ d'une amante cruelle ?  
 Vostre bonté pour nous peut elle chanceler ?  
 Doutez vous quel dessein la fait ainsy parler ?  
 Croyez vous…  
 
     DANAUS.
-Je ne crois ny n'accuse personne .  
+        Je ne crois ny n'accuse personne .  
 Iphis laissez moy seul... Je veux voir Erigone :  
 Vous sçavez , si mon coeur vous fut jamais connu,  
 Qu'il n'est en sa faveur que trop bien prevenu⁎.  
@@ -2497,7 +2497,7 @@ Erigone un moment, le coup que je redoute,
 N'est pas…  
 
     ERIGONE.
-Depuis deux ans , ingrat , je vous ecoute,  
+        Depuis deux ans , ingrat , je vous ecoute,  
 Vous payez mes bontez d'un caprice jaloux .  
 Laissez moy, je n'ay plus aucun moment pour vous.  
 
@@ -2513,14 +2513,14 @@ LYCASTE, DANAUS.
 
 
     LYCASTE.
-Ah Seigneur accourez,  
+        Ah Seigneur accourez,  
 Du dernier des malheurs la ville est menacée.  
 
     DANAUS.
 Que dis tu?  
 
     LYCASTE.
-Tout est plein des vaisseaux de Lyncée,  
+        Tout est plein des vaisseaux de Lyncée,  
 Ils sembloient s'eloigner lorsqu'un nouvel effort,  
 Les a soudainement ramenez dans le port ;  
 Ils abordent. Leurs cris de tous costez s'entendent,  
@@ -2576,7 +2576,7 @@ Le voicy. C'est par là que tu peux tout pretendre,
 Hipermestre est à toy si tu me sers.  
 
     IPHIS.
-Eh quoy,  
+        Eh quoy,  
 Perdre son Pere ô Dieux! et pretendre à sa foy.  
 
     ERIGONE.
@@ -2609,10 +2609,10 @@ Du crime que j'ay fait d'attenter sur sa vie,
 Qu'est ce qui te retient ?  
 
     IPHIS.
-Madame...  
+    Madame...  
 
-    ERIGONE. 
-Que veux tu ?  
+    ERIGONE.
+        Que veux tu ?  
 Esclave scrupuleux d'une fausse vertu,  
 Indigne protecteur d'un tyran qui m'oprime,  
 Et d'un honteux amour malheureuse victime,  
@@ -2665,18 +2665,18 @@ DANAUS, HIPERMESTRE, ERIGONE.
 
 
     ERIGONE.
-Quoy la ville est en flame,  
+        Quoy la ville est en flame,  
 Le Palais assiégé , tout un peuple...  
 
     DANAUS.
-Ouy Madame,  
+        Ouy Madame,  
 J'entens les tristes cris des peuples pleins d'effroy,  
 J'entens la voix des Dieux irritez contre moy,  
 Je voy qu'à l'assasin leur fureur⁎ m'abandonne,  
 Et je viens...  
 
     ERIGONE.
-Vous venez vous vanger d'Erigone,  
+        Vous venez vous vanger d'Erigone,  
 A vos laches soupçons mettre une digne fin.  
 
     DANAUS.
@@ -2718,7 +2718,7 @@ HIPERMESTRE, ERIGONE.
 
 
     HIPERMESTRE.
-Et c'est moy que l'assassin demande,  
+        Et c'est moy que l'assassin demande,  
 Livrez moy seule aux coups de ces fiers⁎ ennemis.  
 
     ERIGONE.
@@ -2728,7 +2728,7 @@ Pour gagner vostre amour il n'a que cette voye,
 Il y court.  
 
     HIPERMESTRE.
-Triste amour source de mon malheur,  
+        Triste amour source de mon malheur,  
 C'en est fait , pour jamais je t'ay fermé mon coeur,  
 Ne parlons plus d'aymer, parlons de mon suplice,  
 Au Roy que j'ay trahy je dois ce sacrifice,  
@@ -2789,17 +2789,17 @@ Ah Princesses fuyez ! il n'est plus d'esperance,
 Rien ne resiste !  
 
     HIPERMESTRE.
-Eh quoy ! mon Pere est sans deffence,  
+        Eh quoy ! mon Pere est sans deffence,  
 Est ce là le secours que j'attendois d'Iphis ?  
 
     LYCASTE.
 Iphis n'est plus.  
 
     HIPERMESTRE.
-O Ciel! et mon Pere ?  
+    O Ciel! et mon Pere ?  
 
     ERIGONE.
-O mon fils !  
+        O mon fils !  
 
     LYCASTE.
 Avant qu'il eut paru la porte estoit forcée,  
@@ -2825,7 +2825,7 @@ Le pardon d'Hipermestre et la mort d'Erigone.
 Le Traistre!  
 
     LYCASTE.
-Iphis se trouble, et Danaus Jaloux,  
+        Iphis se trouble, et Danaus Jaloux,  
 Tremble à ce que Lyncée ajouste contre vous,  
 Il paslit, il partage entre Iphis et Lyncée,  
 Ses regars incertains, sa timide⁎ pensée,  
@@ -2839,7 +2839,7 @@ Leur dit il , et les Dieux ne seront point trompeurs.
 Juste Ciel!  
 
     LYCASTE.
-A ces mots deployant ses fureurs,  
+        A ces mots deployant ses fureurs,  
 Au sein de Danaus il plonge son épée.  
 
     HIPERMESTRE.
@@ -2873,7 +2873,7 @@ LYNCEE, HIPERMESTRE.
 
 
     HIPERMESTRE
-O Lumiere impreveuë [111],  
+        O Lumiere impreveuë [111],  
 O depart, ô retour cause de mes tourmens,  
 Ah Lyncée ! est ce là l'effet de vos sermens ?  
 

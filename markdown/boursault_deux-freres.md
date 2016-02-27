@@ -1,5 +1,5 @@
 ---
-identifier: boursault_deux  
+identifier: boursault_deux-freres  
 creator: Boursault, Edme  
 date: 1665  
 title: Les Deux Frères gémeaux ou les menteurs qui ne mentent point. Comédie  
@@ -624,7 +624,7 @@ HIPOLITE, JACINTE.
 Me trompois-je, Jacinte, est-ce là sa demeure ?  
 
     JACINTE.
-C'est là mesme.  
+        C'est là mesme.  
 
     HIPOLITE.
 Et tu dis qu'il viendra tout à l'heure⁎ ?  
@@ -633,13 +633,13 @@ Et tu dis qu'il viendra tout à l'heure⁎ ?
 Il me suit.  
 
     HIPOLITE.
-Ah, Jacinte !  
+    Ah, Jacinte !  
 
     JACINTE
-Et quoy donc…  
+    Et quoy donc…  
 
     HIPOLITE
-Je me plains,  
+        Je me plains,  
 Ce que je souhaitois, à present je le crains :  
 D'une fille en aymant le mal-heur est extrême  
 Alors qu'elle est reduite à le dire elle méme,  
@@ -649,12 +649,12 @@ Je m'estois resoluë à parler de ma flâme,
 Mais Jacinte au moment…  
 
     JACINTE
-Au moment, quoy Madame ?  
+        Au moment, quoy Madame ?  
 A qui cherche à vous plaire expliquez vostre mais ;  
 Mais ?  
 
     HIPOLITE
-Mais je ne croy pas que j'en parle jamais.  
+        Mais je ne croy pas que j'en parle jamais.  
 
     JACINTE
 Courage ; quand la chose est si bien preparée,  
@@ -679,14 +679,14 @@ Le premier NICANDRE, HIPOLITE, JACINTE, RAGOTIN.
 
 
     LE PREMIER NICANDRE.
-Madame, il doit m'estre bien doux  
+        Madame, il doit m'estre bien doux  
 De jouïr du bon-heur qui m'approche de vous ;  
 Mais achevez, de grace, et pour comble de joye  
 De vous mieux obeïr découvrez une voye,  
 Parlez.  
 
     RAGOTIN.
-Comme elle parle, écoutez, Diablezot⁎.  
+        Comme elle parle, écoutez, Diablezot⁎.  
 
     JACINTE.
 Ma Maistresse, Monsieur, parle sans dire mot.  
@@ -696,15 +696,15 @@ Dites-moi, sans frayeur ce que c'est qui vous touche,
 Je suis homme…  
 
     JACINTE.
-Et là là, parlez luy de la bouche,  
+        Et là là, parlez luy de la bouche,  
 Madame.  
 
     LE PREMIER NICANDRE.
-Vous croyez que me dire un secret  
+        Vous croyez que me dire un secret  
 C'est peut-estre…  
 
     HIPOLITE.
-Nicandre, éloignez ce valet.  
+        Nicandre, éloignez ce valet.  
 
     LE PREMIER NICANDRE, *à Ragotin.*
 Dans une heure au plus tard tu viendras me reprendre.  
@@ -713,13 +713,13 @@ Dans une heure au plus tard tu viendras me reprendre.
 Mais…  
 
     LE PREMIER NICANDRE.
-Sors.  
+    Sors.  
 
     RAGOTIN.
-Mais…  
+    Mais…  
 
     LE PREMIER NICANDRE.
-Sors te dis-je, & te va faire pendre.  
+        Sors te dis-je, & te va faire pendre.  
 
     RAGOTIN.
 Et vostre honneur, Monsieur, il est fort en danger,  
@@ -733,13 +733,13 @@ Déja de son honneur tout le reste agonise.
 Qu'il est aspre⁎ !  
 
     LE PREMIER NICANDRE.
-Sors donc.  
+    Sors donc.  
 
     RAGOTIN.
-Mais.  
+    Mais.  
 
     LE PREMIER NICANDRE.
-Encor [53] une fois ?  
+        Encor [53] une fois ?  
 
     RAGOTIN *s'en allant.*
 Adieu l'honneur.  
@@ -750,7 +750,7 @@ HIPOLITE, Le premier NICANDRE, JACINTE.
 
 
     HIPOLITE
-Nicandre, & mes yeux, & ma voix…  
+        Nicandre, & mes yeux, & ma voix…  
 Je me sens interdite⁎, & le charme qui brille…  
 Quand on est inquiette, & qu'on est une fille…  
 Le merite sublime a pour moy tant d'appas⁎…  
@@ -760,7 +760,7 @@ J'ose…le trouble…Et quoy, ne m'entendez-vous pas ?
 Moy, Madame !  
 
     HIPOLITE.
-Jacinte, il ne veut pas m'entendre.  
+        Jacinte, il ne veut pas m'entendre.  
 
     JACINTE.
 Parlez sans façonner [54], & vous faites comprendre [55]  
@@ -785,48 +785,48 @@ A quoy tant de façons ? Ma Maitresse vous ayme.
 Ciel !  
 
     HIPOLITE.
-O Dieux !  
+    O Dieux !  
 
     JACINTE.
-Dame, ô Dieux, je ne puis niaiser⁎.  
+        Dame, ô Dieux, je ne puis niaiser⁎.  
 
     LE PREMIER NICANDRE.
 Madame…  
 
     HIPOLITE.
-Il n'est plus temps de vous rien déguiser.  
+        Il n'est plus temps de vous rien déguiser.  
 Je vous ayme ; ce mot est sans doute blasmable ;  
 Il m'échape à regret, mais il est veritable,  
 Je vous ayme.  
 
     LE PREMIER NICANDRE.
-Est-il vray, m'aymez-vous ?  
+    Est-il vray, m'aymez-vous ?  
 
     HIPOLITE.
-Je l'ay dit.  
+        Je l'ay dit.  
 
     LE PREMIER NICANDRE.
 De vos rares bontez je me sens interdit⁎,  
 Mais, Madame…  
 
     JACINTE.
-Ce mais pourra bien la confondre [56].  
+        Ce mais pourra bien la confondre [56].  
 
     HIPOLITE.
 Mais enfin…  
 
     LE PREMIER NICANDRE.
-Mais enfin, je ne puis y respondre.  
+        Mais enfin, je ne puis y respondre.  
 
     JACINTE.
 Justement.  
 
     HIPOLITE.
-M'exposer à ce honteux mépris,  
+        M'exposer à ce honteux mépris,  
 O Ciel !  
 
     LE PREMIER NICANDRE.
-De vos appas⁎ je connois tout le prix,  
+        De vos appas⁎ je connois tout le prix,  
 A me favoriser vostre cœur se dispose,  
 Mais un serment horrible à mon bon heur s'oppose :  
 Pour ne pas en douter écoutez seulement.  
@@ -835,66 +835,66 @@ Pour ne pas en douter écoutez seulement.
 Ecoutons.  
 
     LE PREMIER NICANDRE.
-D'où je sors on vivoit noblement.  
+        D'où je sors on vivoit noblement.  
 
     JACINTE.
 Apres.  
 
     LE PREMIER NICANDRE.
-Ma mere est morte, aussi bien que mon pere.  
+        Ma mere est morte, aussi bien que mon pere.  
 
     JACINTE.
 Pour cela.  
 
     LE PREMIER NICANDRE.
-De parens je n'ay plus qu'un seul frere.  
+        De parens je n'ay plus qu'un seul frere.  
 
     JACINTE.
 Hé bien.  
 
     LE PREMIER NICANDRE.
-Ce frere & moy sommes freres jumeaux.  
+        Ce frere & moy sommes freres jumeaux.  
 
     JACINTE.
 Qu'en est-il ?  
 
     LE PREMIER NICANDRE.
-Tous ses traits à mes traits sont égaux.  
+        Tous ses traits à mes traits sont égaux.  
 
     JACINTE.
 Est-ce tout ?  
 
     LE PREMIER NICANDRE.
-Pour nos mœurs il en est tout de mesme.  
+        Pour nos mœurs il en est tout de mesme.  
 
     JACINTE.
 A la fin ?  
 
     LE PREMIER NICANDRE.
-Ce qu'il ayme est aussi ce que j'ayme.  
+        Ce qu'il ayme est aussi ce que j'ayme.  
 
     JACINTE.
 Et qu'importe ?  
 
     LE PREMIER NICANDRE.
-Entre nous tout paroit si commun  
+        Entre nous tout paroit si commun  
 Que pour voir tous les deux il ne faut en voir qu'un.  
 
     JACINTE.
 Quoy…  
 
     HIPOLITE *à Jacinte.*
-Ne l'interromps plus qu'au plus viste il acheve.  
+        Ne l'interromps plus qu'au plus viste il acheve.  
 D'avoir dit mon secret je deteste.  
 
     JACINTE.
-Et je créve,  
+        Et je créve,  
 Il se pasme de joye à present qu'il sçait tout,  
 Voyez vous du depuis [57] comme il tient son bon bout [58],  
 Le manœuvre [59] ?  
 
     HIPOLITE.
-Jacinte, est-ce là ta conduite ?  
+        Jacinte, est-ce là ta conduite ?  
 
     LE PREMIER NICANDRE.
 De mon aspre⁎ mal-heur pour apprendre la suite,  
@@ -905,15 +905,15 @@ Qu'on nous prend l'un pour l'autre à nous voir estre ensemble ;
 D'un frere…  
 
     JACINTE.
-Et foin du frere, & du frere eternel [60],  
+        Et foin du frere, & du frere eternel [60],  
 Concluez.  
 
     LE PREMIER NICANDRE.
-De mon frere un serment solemnel  
+        De mon frere un serment solemnel  
 Madame…  
 
     HIPOLITE.
-De ce frere un serment vous engage…  
+        De ce frere un serment vous engage…  
 
     LE PREMIER NICANDRE.
 Depuis plus de six ans je voyage, il voyage,  
@@ -935,29 +935,29 @@ HIPOLITE, JACINTE.
 
 
     HIPOLITE.
-Hé bien, que dis-tu ?  
+    Hé bien, que dis-tu ?  
 
     JACINTE.
-Moy, j'enrage.  
+        Moy, j'enrage.  
 
     HIPOLITE.
 Le serment qu'il a fait de jamais…  
 
     JACINTE.
-Badinage.  
+        Badinage.  
 Il se raille⁎, Madame.  
 
     HIPOLITE.
-Est-il vray ?  
+    Est-il vray ?  
 
     JACINTE.
-Tout de bon.  
+        Tout de bon.  
 
     HIPOLITE.
 Mais il m'ayme, tu vois.  
 
     JACINTE.
-Lui ? Tarrare [63] pompon.  
+        Lui ? Tarrare [63] pompon.  
 Je m'en suis apperceuë, il biaise⁎, il bricole⁎,  
 Quand il parle de frere il vous fiche la cole [64] ;  
 Je vous le garentis franc donneur de canards [65].  
@@ -979,15 +979,15 @@ Ce Nicandre, Madame, à mon cœur est bien cher,
 Je le cherche.  
 
     HIPOLITE.
-Hé Monsieur, vous pouvez le chercher  
+        Hé Monsieur, vous pouvez le chercher  
 Peu m'importe.  
 
     ISMENE.
-Peut-estre, il vous plaist, il vous touche,  
+        Peut-estre, il vous plaist, il vous touche,  
 Avoüez.  
 
     JACINTE.
-Dépeschez, que Monsieur se recouche,  
+        Dépeschez, que Monsieur se recouche,  
 Il déplaist, c'est tant pis, & s'il plaist, c'est tant mieux.  
 
     ISMENE.
@@ -995,32 +995,32 @@ Ce n'est pas sans raison que je suis curieux ;
 Il vous ayme ?  
 
     HIPOLITE.
-Peut-estre.  
+    Peut-estre.  
 
     ISMENE, *bas.*
-Il l'adore, le traistre.  
+        Il l'adore, le traistre.  
 Vous, l'aymez-vous, Madame, à vostre tour ?  
 
     HIPOLITE.    [12]
-Peut-estre.  
+        Peut-estre.  
 
     ISMENE À JACINTE.
 L'ayme-t elle ?  
 
     JACINTE.
-Selon⁎.  
+    Selon⁎.  
 
     ISMENE.
-Sera-t-il son époux ?  
+        Sera-t-il son époux ?  
 
     JACINTE.
 C'est selon⁎.  
 
     ISMENE.
-Justes Dieux !  
+    Justes Dieux !  
 
     HIPOLITE.
-Vous en estes jaloux ?  
+        Vous en estes jaloux ?  
 
     ISMENE.
 De celuy que je dis si vous estes l'Epouse  
@@ -1028,25 +1028,25 @@ Je puis estre allarmée, & paroistre jalouse ;
 L'infidelle !  
 
     HIPOLITE.
-Jalouse !  
+    Jalouse !  
 
     JACINTE.
-Ah ! Madame, voyez  
+        Ah ! Madame, voyez  
 Ce que c'est que nos yeux qui s'étoient fourvoyez ;  
 Elle est fille, elle mesme elle s'est éclaircie ;  
 Ah le joly garçon par la superficie⁎ [66] !  
 Qu'il est drosle !  
 
     HIPOLITE.
-Elle est fille !  
+    Elle est fille !  
 
     ISMENE.
-Il est vray, je la suis  
+        Il est vray, je la suis  
 Et ce que vous aymez est ce que je poursuis.  
 L'infidelle Nicandre….  
 
     HIPOLITE.
-Achevez, l'infidelle…  
+        Achevez, l'infidelle…  
 
     ISMENE.
 Dans Lyon à ses yeux je parus assez belle,  
@@ -1070,16 +1070,16 @@ D'où naissoit le refus qui si fort vous afflige ?
 Voyez-vous ?  
 
     HIPOLITE.
-Apprends…  
+    Apprends…  
 
     JACINTE.
-Pay⁎,  
+    Pay⁎,  
 
     HIPOLITE.
-Mon courroux…  
+    Mon courroux…  
 
     JACINTE.    [14]
-Pay⁎, vous dis-je,  
+        Pay⁎, vous dis-je,  
 Et ne luy dites rien qui nourrisse ses feux.  
 
     ISMENE.
@@ -1096,10 +1096,10 @@ HIPOLITE, JACINTE.
 
 
     JACINTE.
-Il vous ayme ?  
+    Il vous ayme ?  
 
     HIPOLITE.
-Il me hait, l'infidelle.  
+        Il me hait, l'infidelle.  
 
     JACINTE.
 Vous devez au Seigneur une belle chandelle,  
@@ -1120,7 +1120,7 @@ Qui n'a point de merite a du moins de la ruse,
 Et peut-estre…  
 
     JACINTE.
-Madame, il revient dans ce lieu.  
+        Madame, il revient dans ce lieu.  
 
 
 ## SCENE VII.
@@ -1131,16 +1131,16 @@ Le second NICANDRE, HIPOLITE, JACINTE, ROBIN.
 A la fin vostre frere est trouvé.  
 
     LE SECOND NICANDRE.
-Plût à Dieu !  
+        Plût à Dieu !  
 
     HIPOLITE.
 Je l'ay veu.  
 
     LE SECOND NICANDRE.
-Quoy Madame…  
+    Quoy Madame…  
 
     HIPOLITE.
-Il vous est tout semblable.  
+        Il vous est tout semblable.  
 
     ROBIN.
 Madame, estes-vous Ange ? Ou bien estes-vous Diable ?  
@@ -1152,27 +1152,27 @@ J'ay la voix, le visage, & la taille de mesme,
 J'ay l'humeur…  
 
     JACINTE.
-Comme il fait l'innocent quatriesme [71] !  
+        Comme il fait l'innocent quatriesme [71] !  
 De vous poussez à bout le perfide a fait vœu.  
 
     LE SECOND NICANDRE.
 Vous le connoissez donc, ce frere ?  
 
     HIPOLITE.
-Quelque peu.  
+        Quelque peu.  
 
     LE SECOND NICANDRE.
 Il vous void ?  
 
     HIPOLITE.
-Quelquefois.  
+    Quelquefois.  
 
     ROBIN.
-Ah, la bonne bigotte⁎ !  
+        Ah, la bonne bigotte⁎ !  
 Diroit-on qu'elle y touche [72] ?  
 
     JACINTE.
-Un valet vous balotte⁎,  
+        Un valet vous balotte⁎,  
 Et je pense… Madame admirez ce bastier [73]  
 Ce n'est pas son valet que ce galefretier [74] :  
 Avec cette finesse il pretend qu'on s'embourbe [75].  
@@ -1181,7 +1181,7 @@ Avec cette finesse il pretend qu'on s'embourbe [75].
 Ainsi…  
 
     HIPOLITE.
-Levez le masque, on connoit vostre fourbe,  
+        Levez le masque, on connoit vostre fourbe,  
 Et vous vous y prenez de mauvaise façon.  
 
     ROBIN.
@@ -1191,19 +1191,19 @@ Parbleu, pas tant bigotte⁎, elle change de ton.
 Et quoy…  
 
     HIPOLITE.
-Qui vous aymoit a pour vous de la haine.  
+        Qui vous aymoit a pour vous de la haine.  
 
     LE SECOND NICANDRE.
 On me hait ! Mais Madame…  
 
     HIPOLITE.
-On connoit vostre Ismene.  
+        On connoit vostre Ismene.  
 
     LE SECOND NICANDRE.
 Mon Ismene !  
 
     ROBIN.
-Bon, bon ; mordez vous-en les doigts ;  
+        Bon, bon ; mordez vous-en les doigts ;  
 Il demande huit jours, & demeure deux mois.  
 
     LE SECOND NICANDRE.
@@ -1214,10 +1214,10 @@ St, st, une autrefois battez moins la semelle [76]
 Monsieur.  
 
     LE SECOND NICANDRE.
-Tes sots discours…  
+    Tes sots discours…  
 
     ROBIN.
-Je parle à cœur ouvert.  
+        Je parle à cœur ouvert.  
 
     JACINTE.
 Il enrage tout vif de se voir découvert,  
@@ -1227,7 +1227,7 @@ Il ne se doutoit pas qu'on eut pû tout apprendre.
 Et comment croyez-vous qu'on me nomme ?  
 
     HIPOLITE.
-Nicandre.  
+        Nicandre.  
 Fourbe, artificieux⁎, diseur de faussetez.  
 
     ROBIN.
@@ -1240,11 +1240,11 @@ Pour rendre un juste hommage à de rares appas⁎
 Ismene…  
 
     HIPOLITE.
-Dites donc que vous ne l'aymez pas  
+        Dites donc que vous ne l'aymez pas  
 Imposteur ?  
 
     LE SECOND NICANDRE.
-Je l'adore, ou le Ciel me foudroye,  
+        Je l'adore, ou le Ciel me foudroye,  
 La servir est ma gloire, & l'aymer est ma joye :  
 Pour quelque autre beauté qui respire le jour  
 J'ay des civilités & non pas de l'amour.  
@@ -1252,7 +1252,7 @@ Son interest vous touche, & je vous en rends grace,
 Embrassez…  
 
     HIPOLITE.
-Vous sçaurez l'interest que j'embrasse,  
+        Vous sçaurez l'interest que j'embrasse,  
 Et je vous feray voir dés ce jour, si je puis  
 Comme Ismene me touche, & ce que je luy suis.  
 Vous verrez qu'à l'outrage une fille est sensible,  
@@ -1270,7 +1270,7 @@ Le second NICANDRE, JACINTE, ROBIN.
 
     LE SECOND NICANDRE *arreste Jacinte, & luy
                 dit.*
-De grace, ayés plus de tendresse,  
+        De grace, ayés plus de tendresse,  
 Dites-moy qui des deux est Suivante ou Maistresse ;  
 Je vous trouve bien faite, est-ce vous qu'elle sert ?  
 
@@ -1278,17 +1278,17 @@ Je vous trouve bien faite, est-ce vous qu'elle sert ?
 Oüy.  
 
     *Le second* NICANDRE.
-Madame…  
+    Madame…  
 
     JACINTE.
-Courage.  
+    Courage.  
 
     ROBIN.
-Elles sont de concert⁎  
+        Elles sont de concert⁎  
 Les gaillardes⁎.  
 
     LE SECOND NICANDRE.
-Madame, écoutez, en revanche…  
+        Madame, écoutez, en revanche…  
 
     JACINTE.
 Voyez-vous cette main au fin bout de ma manche ?  
@@ -1303,22 +1303,22 @@ Le second NICANDRE, ROBIN.
 
 
     ROBIN.
-Connoissez-vous cette bonne Madame ?  
+        Connoissez-vous cette bonne Madame ?  
 
     LE SECOND NICANDRE.
 Nullement.  
 
     ROBIN.
-Nullement ?  
+    Nullement ?  
 
     LE SECOND NICANDRE.
-Je ne la vis jamais.  
+        Je ne la vis jamais.  
 
     ROBIN.
 Songez bien.  
 
     LE SECOND NICANDRE.
-Plus j'y songe, et moins je la remets,  
+        Plus j'y songe, et moins je la remets,  
 Je ne la vis jamais en aucune maniere.  
 
     ROBIN.
@@ -1326,7 +1326,7 @@ A la premiere veuë elle est bien familiere.
 Des soufflets tout d'abord !  
 
     LE SECOND NICANDRE.
-Tu m'en vois tout surpris.  
+        Tu m'en vois tout surpris.  
 D'hier au soir seulement j'arrivay dans Paris.  
 
     ROBIN.
@@ -1337,7 +1337,7 @@ Et déja toutes deux ont appris ma demeure
 Robin.  
 
     ROBIN.
-Les Poussecus⁎ sont de vilaines gens,  
+        Les Poussecus⁎ sont de vilaines gens,  
 Garre apres vostre queuë [78] un troupeau de Sergens,  
 Et si vostre personne est par eux attrapée,  
 Vous aurez une femme, ou la teste coupée.  
@@ -1380,7 +1380,7 @@ Si je suis pris pour vous, & qu'apres on me pende
 Aussi ?  
 
     LE SECOND NICANDRE.
-Te pendre ! À tort on l'auroit pretendu.  
+        Te pendre ! À tort on l'auroit pretendu.  
 
     ROBIN.
 Et qu'importe comment on puisse estre pendu ?  
@@ -1391,17 +1391,17 @@ Tu te moques, te dis-je, obeïs à ton Maistre.
 Je t'attends en ce lieu.  
 
     ROBIN.
-Mais, Monsieur…  
+    Mais, Monsieur…  
 
     LE SECOND NICANDRE.
-Haste-toy.  
+        Haste-toy.  
 
     ROBIN *revient sur ses pas.*
 Daignez donc pour le moins me répondre de moy,  
 Car enfin…  
 
     LE SECOND NICANDRE.
-Va te dis-je, & retient cette place.  
+        Va te dis-je, & retient cette place.  
 (Robin sort.)
 
 Attendant qu'il revienne allons voir Clidimace,  
@@ -1414,17 +1414,17 @@ RAGOTIN, le second NICANDRE.
 
 
     RAGOTIN.
-Je reviens comme vous m'avez dit,  
+        Je reviens comme vous m'avez dit,  
 Est-ce fait ?  
 
     LE SECOND NICANDRE.
-Que veux tu ?  
+    Que veux tu ?  
 
     RAGOTIN.
-Je reviens.  
+    Je reviens.  
 
     LE SECOND NICANDRE.
-Que je meure…  
+        Que je meure…  
 
     RAGOTIN.
 Dites en conscience [82], ay-je mis plus d'une heure ?  
@@ -1433,7 +1433,7 @@ Dites en conscience [82], ay-je mis plus d'une heure ?
 Que veux-tu, mon amy ? Dy le moy.  
 
     RAGOTIN.
-Je reviens.  
+        Je reviens.  
 
     LE SECOND NICANDRE.
 Accordons un peu mieux tes discours & les miens,  
@@ -1445,54 +1445,54 @@ Le secret de la Dame à la fin est-il sçeu ?
 Dites-moy.  
 
     LE SECOND NICANDRE.
-Mon enfant, je ne t'ay jamais veu,  
+        Mon enfant, je ne t'ay jamais veu,  
 Quel es-tu ?  
 
     RAGOTIN.
-Qui je suis ? Qu'ay-je accoustumé d'estre ?  
+        Qui je suis ? Qu'ay-je accoustumé d'estre ?  
 Ragotin.  
 
     LE SECOND NICANDRE.
-Ragotin, je ne puis te connoistre,  
+        Ragotin, je ne puis te connoistre,  
 Passe ton chemin, passe.  
 
     RAGOTIN.
-Il le fait tout exprés ;  
+        Il le fait tout exprés ;  
 Moy je vous connoy.  
 
     LE SECOND NICANDRE.
-Toy me connoistre ?  
+    Toy me connoistre ?  
 
     RAGOTIN.
-A peu prés.  
+        A peu prés.  
 
     LE SECOND NICANDRE.
 Tu t'abuses, mon cher, ton erreur est extréme  
 Passe.  
 
     RAGOTIN.
-Il n'est donc pas vray que vous estes vous-mesme  
+        Il n'est donc pas vray que vous estes vous-mesme  
 Est-ce pas ?  
 
     LE SECOND NICANDRE.
-Je commence à beaucoup m'ennuyer⁎.  
+        Je commence à beaucoup m'ennuyer⁎.  
 
     RAGOTIN.
 En gambades⁎ je pense il pretend me payer.  
 Je vous sers.  
 
     LE SECOND NICANDRE.
-Tu me sers !  
+    Tu me sers !  
 
     RAGOTIN.
-Hé nenny⁎.  
+    Hé nenny⁎.  
 
     LE SECOND NICANDRE.
-Je m'irrite,  
+        Je m'irrite,  
 Maraut⁎…  
 
     RAGOTIN.
-Payez-moy donc, & sortons quitte à quitte.  
+        Payez-moy donc, & sortons quitte à quitte.  
 
     LE SECOND NICANDRE
 Je te dois quelque chose ! Insolent, je voy bien…  
@@ -1519,13 +1519,13 @@ Mis dehors, pas le sou, ne sçavoir chez qui vivre…
 Quoy, vous vous en allez ?  
 
     LE SECOND NICANDRE.
-Et tu penses me suivre ?  
+        Et tu penses me suivre ?  
 
     RAGOTIN.
 Je le pense, & repense.  
 
     LE SECOND NICANDRE.
-Et tu ne penses pas  
+        Et tu ne penses pas  
 Que si tu l'entreprends je te casse les bras.  
 Suy-moy donc si tu veux, viens, tu n'as rien à craindre.  
 (Il sort.)
@@ -1577,10 +1577,10 @@ Où vous ay-je pû voir ? Tirez moy d'une peine.
 A Lyon.  
 
     LE PREMIER NICANDRE.
-A Lyon ! Vostre nom c'est…  
+    A Lyon ! Vostre nom c'est…  
 
     ISMENE.
-Ismene.  
+        Ismene.  
 
     LE PREMIER NICANDRE.
 J'ay beau pour vous connoistre employer mes efforts…  
@@ -1590,13 +1590,13 @@ Je ne vous parois pas ce que j'estois alors,
 Vous sçavez que l'on change.  
 
     LE PREMIER NICANDRE.
-Il est indubitable,  
+        Il est indubitable,  
 Mais c'est beaucoup changer qu'estre méconnoissable ;  
 A Lyon j'ay pû faire un passable séjour,  
 Mais…  
 
     ISMENE.
-Mais quoy qu'il en soit vous resviez à l'amour ?  
+        Mais quoy qu'il en soit vous resviez à l'amour ?  
 
     LE PREMIER NICANDRE.
 J'y resvois, je l'avouë, une Dame si belle…  
@@ -1605,10 +1605,10 @@ J'y resvois, je l'avouë, une Dame si belle…
 Vous l'aymez ?  
 
     LE PREMIER NICANDRE.
-Si je l'ayme ?  
+    Si je l'ayme ?  
 
     ISMENE.
-Et vous estes fidelle ?  
+        Et vous estes fidelle ?  
 
     LE PREMIER NICANDRE.
 Vouloir toute ma vie adorer ses appas⁎…  
@@ -1618,10 +1618,10 @@ Ingrat, c'est le paraistre, et c'est ne l'estre pas ;
 Ouvre les yeux.  
 
     LE PREMIER NICANDRE.
-Monsieur…  
+    Monsieur…  
 
     ISMENE.
-Dy mon nom, si tu l'oses,  
+        Dy mon nom, si tu l'oses,  
 De ton frere, perfide, as-tu sceu quelques choses ?  
 
     LE PREMIER NICANDRE.
@@ -1636,7 +1636,7 @@ Quoy dessous cét habit j'apperçois une fille !
 Ah Madame…  
 
     ISMENE.
-Volage, à quoy m'obliges-tu ?  
+        Volage, à quoy m'obliges-tu ?  
 Ta honteuse inconstance a trahy ma vertu :  
 Sont-ce là ces huit jours ? Est-ce là cette flame…  
 
@@ -1649,23 +1649,23 @@ Mais ton crime visible a-t-il rien de douteux
 Infidelle ?  
 
     LE PREMIER NICANDRE.
-Mon crime !  
+    Mon crime !  
 
     ISMENE.
-Ame double, & traitresse,  
+        Ame double, & traitresse,  
 Est-ce donc ta vertu que trahir ta Maistresse ?  
 
     LE PREMIER NICANDRE.
 Moy, trahir ma Maistresse ?  
 
     ISMENE.
-Ouy, toy lasche.  
+    Ouy, toy lasche.  
 
     LE PREMIER NICANDRE.
-Moy ?  
+    Moy ?  
 
     ISMENE.
-Toy.  
+        Toy.  
 
     LE PREMIER NICANDRE.
 Je ne vous connois pas, & j'ignore pourquoy…  
@@ -1681,7 +1681,7 @@ Prens-y garde.
 ## SCENE III.
 
     LE PREMIER NICANDRE *seul.*
-J'ignore à quoy tend sa querelle  
+        J'ignore à quoy tend sa querelle  
 A l'entendre, autrefois je soupiray pour elle :  
 Moy bon Dieux ! Moy pour elle avoir pû soupirer !  
 Je ne la vis jamais, & ne puis penetrer…  
@@ -1696,11 +1696,11 @@ JACINTE, le premier NICANDRE.
 
 
     JACINTE.
-Il dit mon nom ! Qui vous l'a fait sçavoir ?  
+        Il dit mon nom ! Qui vous l'a fait sçavoir ?  
 Vous me démaistressez [88] maistre fourbe.  
 
     LE PREMIER NICANDRE.
-Où s'adresse…  
+        Où s'adresse…  
 
     JACINTE.
 Dites-moy qui des deux est Suivante ou Maistresse ?  
@@ -1713,16 +1713,16 @@ Parlez plus clairement, avez-vous decouvert…
 Rien du tout.  
 
     LE PREMIER NICANDRE.
-D'où vient donc que je comprends à peine…  
+        D'où vient donc que je comprends à peine…  
 
     JACINTE.
 On connoit…  
 
     LE PREMIER NICANDRE.
-Quoy ? Parlez, qui connoit-on ?  
+    Quoy ? Parlez, qui connoit-on ?  
 
     JACINTE.
-Ismene.  
+        Ismene.  
 
     LE PREMIER NICANDRE.
 Je vous entends Jacinte, Hipolite sçait bien…  
@@ -1732,39 +1732,39 @@ Que gens faits comme vous ne vaudront jamais rien,
 Adieu, passe-volant [90].  
 
     LE PREMIER NICANDRE *l'arrestant.*
-Demeurez, & pour cause,  
+        Demeurez, & pour cause,  
 Au mal-heureux Nicandre apprenez une chose,  
 J'allois voir Hipolite…  
 
     JACINTE.
-Hipolite ! Vous ?  
+    Hipolite ! Vous ?  
 
     LE PREMIER NICANDRE.
-Moy.  
+        Moy.  
 
     JACINTE.
 C'est bien fait.  
 
     LE PREMIER NICANDRE.
-Croyez-vous…  
+    Croyez-vous…  
 
     JACINTE.
-Ouy, sans doute, je croy.  
+        Ouy, sans doute, je croy.  
 Je croy si vous osez dans sa chambre paraistre  
 Que vous n'en sortirez que par une fenestre.  
 Hipolite picquée⁎…  
 
     LE PREMIER NICANDRE.
-Elle ?  
+    Elle ?  
 
     JACINTE.
-Non, qui donc ? Moy ?  
+        Non, qui donc ? Moy ?  
 
     LE PREMIER NICANDRE.
 Et qui l'a pû picquer⁎ ?  
 
     JACINTE.
-Vostre… je ne sçay quoy,  
+        Vostre… je ne sçay quoy,  
 Vos discours outrageants, vostre langue qui jouë…  
 
     LE PREMIER NICANDRE.
@@ -1774,26 +1774,26 @@ S'il ne faut d'Hipolite applaudir les attrais.
 Me hait-elle, Jacinte, avoüez ?  
 
     JACINTE.
-L'idiote  
+        L'idiote  
 Pour vous aymer encore est peutestre assez sotte,  
 Mais si j'en estois cruë…  
 
     LE PREMIER NICANDRE.
-Elle ne me hait pas !  
+        Elle ne me hait pas !  
 Pour me bien obliger retournez sur vos pas,  
 Dites-luy tout l'excés de ma flâme amoureuse,  
 Dites…  
 
     JACINTE.
-Allez ailleurs chercher une menteuse,  
+        Allez ailleurs chercher une menteuse,  
 Monsieur.  
 
     LE PREMIER NICANDRE.
-Mettez ma flâme au degré le plus haut,  
+        Mettez ma flâme au degré le plus haut,  
 Et ce sera…  
 
     JACINTE.
-Mentir justement comme il faut.  
+        Mentir justement comme il faut.  
 
     LE PREMIER NICANDRE.
 Puisque vous refusez d'aller dire que j'ayme  
@@ -1802,15 +1802,15 @@ Que je voye Hipolite, & luy puisse parler,
 Qu'un moment…  
 
     JACINTE.
-J'ay bien peur de me laisser aller.  
+        J'ay bien peur de me laisser aller.  
 Vous l'aymez ?  
 
     LE PREMIER NICANDRE.
-Je l'adore, & j'adore elle seule  
+        Je l'adore, & j'adore elle seule  
 Ou…  
 
     JACINTE.
-Qui dit Courtisan dit toujours fort en gueule [91] ;  
+        Qui dit Courtisan dit toujours fort en gueule [91] ;  
 De vous croire moy mesme en secret je rougis ;  
 Cependant sans façon je retourne au logis :  
 J'allois faire un message, & pour vous je differe ;  
@@ -1829,7 +1829,7 @@ Où diray-je ? Icy mesme, en ce coin à l'écart.
 C'est assez, & de plus…  
 
     JACINTE.
-Et de plus, Dieu vous gard [92].  
+        Et de plus, Dieu vous gard [92].  
 
 
 ## SCENE V.
@@ -1850,11 +1850,11 @@ Je n'ay veu ny records⁎, ny bourreau, ny charrette,
 Tout va bien.  
 
     LE PREMIER NICANDRE.
-De quel air ce belistre⁎ me traitte !  
+        De quel air ce belistre⁎ me traitte !  
 A qui parle…  
 
     ROBIN.
-Pour moy, quoy que simple valet,  
+        Pour moy, quoy que simple valet,  
 Dans la peur que j'avois d'estre pris au colet⁎  
 J'ay joüé de finesse, & l'ay mis dans ma poche [93]  
 Voyez vous ? Pour l'Hostesse elle tourne la broche [94],  
@@ -1862,12 +1862,12 @@ Elle dit qu'en tout cas vostre lit sera prest,
 Que peut-estre…  
 
     LE PREMIER NICANDRE.
-A cela, je n'ay point d'interest.  
+        A cela, je n'ay point d'interest.  
 Où vas-tu ? D'où viens-tu ? Dy le moy toute à l'heure⁎  
 Et je croy…  
 
     ROBIN.
-Je ne vais, ny ne viens, je demeure.  
+        Je ne vais, ny ne viens, je demeure.  
 Comme il fait le gausseur⁎, d'où je viens, me dit-il,  
 Il a crû tout d'abord que j'estois Algoüazil [95],  
 Et qu'en vrais pas de loup je venois le surprendre.  
@@ -1883,17 +1883,17 @@ Sçavez-vous bien, Monsieur, qu'on m'appelle Robin ?
 Moy, je sçaurois ton nom ?  
 
     ROBIN.
-Comme je sçay le vostre,  
+        Comme je sçay le vostre,  
 Et nous nous connoissons aussi bien l'un que l'autre.  
 
     LE PREMIER NICANDRE.
 Camarade [96]…  
 
     ROBIN.
-Païs⁎.  
+    Païs⁎.  
 
     LE PREMIER NICANDRE.
-Dy moy, traistre, és-tu saou ?  
+        Dy moy, traistre, és-tu saou ?  
 
     ROBIN.
 Mon cher maistre, avoüez que vous estes bien fou.  
@@ -1902,15 +1902,15 @@ Mon cher maistre, avoüez que vous estes bien fou.
 Moy ton Maistre ?  
 
     ROBIN.
-Et qui donc ?  
+    Et qui donc ?  
 
     LE PREMIER NICANDRE.
-Il a pû se méprendre.  
+        Il a pû se méprendre.  
 Je t'ay dit, mon amy, qu'on m'appelle Nicandre  
 Qu'un sot conte me choque, & qu'enfin…  
 
     ROBIN.
-Et qu'enfin…  
+        Et qu'enfin…  
 Je vous ay respondu qu'on me nomme Robin.  
 
     LE PREMIER NICANDRE.
@@ -1924,33 +1924,33 @@ Mais de bien te connoistre offre moy le moyen,
 Que veux-tu ? Quel és-tu ?  
 
     ROBIN.
-Mon Dieu, je ne suis rien ;  
+        Mon Dieu, je ne suis rien ;  
 Je suis ce que je suis, qui que je sois je m'ayme,  
 Et je ne voudrois pas ne pas estre moy-mesme,  
 Je me garentis tel.  
 
     LE PREMIER NICANDRE.
-Mais pourquoy…  
+    Mais pourquoy…  
 
     ROBIN.
-Mais pourquoy…  
+        Mais pourquoy…  
 Puisque vous estes vous, je puis bien estre moy.  
 
     LE PREMIER NICANDRE.
 Mon valet…  
 
     ROBIN.
-Je le suis.  
+    Je le suis.  
 
     LE PREMIER NICANDRE.
-Ta folie est extrême.  
+        Ta folie est extrême.  
 
     ROBIN.
 A tout autre que vous je dirois fou toy-mesme,  
 Et je pense…  
 
     LE PREMIER NICANDRE, *en s'en allant.*
-Maraut⁎, tu veux estre battu,  
+        Maraut⁎, tu veux estre battu,  
 Et si je n'avois haste insolent… Où vas-tu ?  
 
     ROBIN.
@@ -1988,14 +1988,14 @@ Le second NICANDRE, ROBIN.
 
 
     [LE SECOND NICANDRE]
-Qu'heureuse est pour moy la journée !  
+        Qu'heureuse est pour moy la journée !  
 Ah Robin ! Un amy genereux, bien faisant,  
 Et non pas un amy comme ceux d'à present,  
 Dont la langue est dorée [98], & dont l'ame est de bouë ;  
 Mais un ami sincere, obligeant…  
 
     ROBIN.
-Ah la jouë !  
+        Ah la jouë !  
 
     LE SECOND NICANDRE.
 De me voir Clidimace a les sens tous ravis,  
@@ -2004,7 +2004,7 @@ A tous mes interests tout entier il se vouë,
 Et je veux ce qu'il veut, pour luy plaire.  
 
     ROBIN.
-Ah la jouë !  
+        Ah la jouë !  
 
     LE SECOND NICANDRE.
 Quel sujet te fait plaindre, & pourquoy le cacher ?  
@@ -2026,7 +2026,7 @@ Mais de bien te connoistre offre moy le moyen,
 Que veux-tu ? Quel es-tu ?  
 
     LE SECOND NICANDRE.
-Qui je suis, double traistre ?  
+        Qui je suis, double traistre ?  
 Je puis facilement te le faire connoistre,  
 Et sans avoir besoin d'estre si retenu…  
 
@@ -2048,10 +2048,10 @@ Est-ce pure gageure⁎ ? Ou bien si tu déterres [102]…
 C'est gageure⁎.  
 
     LE SECOND NICANDRE.
-Gageure⁎ ?  
+    Gageure⁎ ?  
 
     ROBIN *monstrant sa jouë.*
-On m'en donne des erres [103]  
+        On m'en donne des erres [103]  
 (Il chante de rage.)
 
 Voyez-vous ? Mon cadet… Là, là, là, là, là, là.  
@@ -2066,7 +2066,7 @@ Il vous attend Madame, & c'est luy que voila,
 Avancez.  
 (à Nicandre.)
 
-A vous voir je l'ay fait condescendre,  
+        A vous voir je l'ay fait condescendre,  
 Prés d'une heure Hipolite a voulu s'en deffendre,  
 Mais j'ay tant de vos feux appuyé le party,  
 J'ay tant dit que mes soins vous avoient pressenty,  
@@ -2078,7 +2078,7 @@ De la hayne pour elle, ah ! Je brûle d'amour,
 Non, non…  
 
     HIPOLITE *à Nicandre.*
-De vos mépris vous voila de retour,  
+        De vos mépris vous voila de retour,  
 Je l'ay sçeu de Jacinte, Ismene est pourtant belle.  
 
     LE SECOND NICANDRE.
@@ -2090,13 +2090,13 @@ Il se mocque, Madame, il n'adore que vous
 Il me l'a dit.  
 
     LE SECOND NICANDRE.
-Moy ?  
+    Moy ?  
 
     JACINTE.
-Vous.  
+    Vous.  
 
     LE SECOND NICANDRE.
-En parlant de ma flâme  
+        En parlant de ma flâme  
 Loin de vous avoir dit que j'adore Madame…  
 
     JACINTE.
@@ -2106,14 +2106,14 @@ Quoy, vous n'avez pas dit à moy mesme, en ce lieu…
 Rien du tout.  
 
     JACINTE.
-Rien ! Madame il offence bien Dieu  
+        Rien ! Madame il offence bien Dieu  
 Le mechant homme !  
 
     LE SECOND NICANDRE.
-Quoy…  
+    Quoy…  
 
     [JACINTE.]
-Quoy, vous-mesme hypocrite  
+        Quoy, vous-mesme hypocrite  
 Quand vous estes venu pour luy rendre visite…  
 
     LE SECOND NICANDRE.
@@ -2126,11 +2126,11 @@ Je vous sers de valet, & non pas de tesmoin.
 Mais tu sçais…  
 
     ROBIN.
-Je ne sçay si je sçais quelque chose,  
+        Je ne sçay si je sçais quelque chose,  
 Mais je me tais.  
 
-    HIPOLITE *à Jacinte.* 
-Tu vois où ton zele m'expose  
+    HIPOLITE *à Jacinte.*
+        Tu vois où ton zele m'expose  
 A ton rapport sans doute il n'a pas consenty.  
 
     JACINTE.
@@ -2143,32 +2143,32 @@ Lui seul en cette place il faisoit l'idiot.
 Quand vous m'avez parlé j'estois seul ! Responds.  
 
     ROBIN.
-Mot.  
+        Mot.  
 
     LE SECOND NICANDRE.
 Où donc, lors que Jacinte a commencé sa guerre  
 Estois-tu ?  
 
     ROBIN.
-Dans le Monde.  
+    Dans le Monde.  
 
     LE SECOND NICANDRE.
-En quel lieu ?  
+    En quel lieu ?  
 
     ROBIN.
-Sur la terre.  
+        Sur la terre.  
 
     LE SECOND NICANDRE.
 L'endroit, c'est…  
 
     ROBIN.
-Dans la France, à Paris, que je croy.  
+        Dans la France, à Paris, que je croy.  
 
     LE SECOND NICANDRE.
 En presence…  
 
     ROBIN.
-En presence ? En presence de moy.  
+        En presence ? En presence de moy.  
 
     LE SECOND NICANDRE.
 Mais perfide Robin le desssein où tu buttes…  
@@ -2188,16 +2188,16 @@ Ne prends point de conseil que celuy de ta teste ;
 J'en suis de moitié rosse [107].  
 
     HIPOLITE.
-Enfin, il m'est honteux  
+        Enfin, il m'est honteux  
 D'avoir pû vous apprendre où j'adresse mes vœux ;        540  
 Ne vous souvenez pas qu'Hipolite vous aime,  
 Oubliez…  
 
     LE SECOND NICANDRE.
-Vous m'aymez !  
+    Vous m'aymez !  
 
     HIPOLITE.
-Je l'ay dit à vous mesme,  
+        Je l'ay dit à vous mesme,  
 Ingrat, & ma foiblesse est allée à ce point…  
 
     LE SECOND NICANDRE.
@@ -2221,7 +2221,7 @@ Moy loin de la pousser je luy retiens le bras,
 Elle a menty.  
 
     JACINTE.
-Madame, admirez l'autre traistre,  
+        Madame, admirez l'autre traistre,  
 Le valet se gauberge⁎ aussi bien que le maistre ;  
 Oses-tu ?... Voyez-vous, il fait signe des yeux…  
 
@@ -2229,10 +2229,10 @@ Oses-tu ?... Voyez-vous, il fait signe des yeux…
 Vous mentez comme un Diable impudente⁎.  
 
     JACINTE *luy donne un soufflet.*
-Moy ?  
+    Moy ?  
 
     ROBIN.
-Deux ;  
+        Deux ;  
 C'est le compte tout rond, & ma jouë applattie…  
 Ah Maistresse coureuse, ou du moins apprentie…  
 
@@ -2240,7 +2240,7 @@ Ah Maistresse coureuse, ou du moins apprentie…
 Quoy belistre⁎…  
 
     LE SECOND NICANDRE.
-La belle, il faut moins s'émouvoir  
+        La belle, il faut moins s'émouvoir  
 Votre sexe [109], & Madame ont icy tout pouvoir,  
 Essayez ma petite à vous rendre plus sage :  
 Pour vous, c'est à regret que ma voix vous outrage,  
@@ -2249,7 +2249,7 @@ Et de peur qu'il n'arrive un semblable mal-heur
 Je sors.  
 
     ROBIN *à Jacinte.*
-Je sors aussi, mais avant que je sorte  
+        Je sors aussi, mais avant que je sorte  
 A ton peste de bras qui n'a pas la main morte  
 Je souhaite la galle, & qui mine ton corps ;  
 A tes pieds tout crochus je souhaite des cors ;  
@@ -2273,10 +2273,10 @@ HIPOLITE, JACINTE.
 
 
     HIPOLITE.
-Hé bien ?  
+    Hé bien ?  
 
     JACINTE.
-Sans perdre une parole  
+        Sans perdre une parole  
 Depeschez vistement de joüer vostre rolle.  
 Au secours, à la force, embrassez l'interest…  
 Tout va le mieux du monde, Isidore paraist,  
@@ -2288,11 +2288,11 @@ ISIDORE, HIPOLITE, JACINTE.
 
 
     ISIDORE.
-Il s'exhibe [111] où le cry prend son estre  
+        Il s'exhibe [111] où le cry prend son estre  
 Qu'est-ce ?  
 
     HIPOLITE.
-Comme un éclair il vient de disparaistre ;  
+        Comme un éclair il vient de disparaistre ;  
 Il faut qu'asseurément il vous ait entendu.  
 
     ISIDORE.
@@ -2319,20 +2319,20 @@ J'apprehende si fort de vous voir indigné
 Qu'en fin…  
 
     ISIDORE.
-Ma geniture, aurois-tu forligné [114] ?  
+        Ma geniture, aurois-tu forligné [114] ?  
 
     HIPOLITE.
 Ah !  
 
     JACINTE.
-Ah !  
+    Ah !  
 
     ISIDORE.
-Dieux des sçavans, l'une & l'autre soûpire !  
+        Dieux des sçavans, l'une & l'autre soûpire !  
 D'où dérive…  
 
     HIPOLITE.
-Autre part je sçauray vous tout dire,  
+        Autre part je sçauray vous tout dire,  
 Et puisqu'un prompt remede est icy de saison⁎  
 Vous forcerez le traistre à m'en faire raison [115].  < Fin du second Acte. >
 
@@ -2414,11 +2414,11 @@ RAGOTIN, ISMENE.
 
 
     RAGOTIN.
-N'est-ce pas vous que je viens rechercher  
+        N'est-ce pas vous que je viens rechercher  
 Dites-moy ?  
 
     ISMENE.
-C'est moy-mesme ; As-tu beaucoup de zele ?  
+        C'est moy-mesme ; As-tu beaucoup de zele ?  
 Car je ne doute point que tu ne sois fidele,  
 Et de ta part enfin je crains peu d'accidens.  
 
@@ -2439,23 +2439,23 @@ Produisez⁎ quelques-uns qui me tastent le poux,
 Est-ce Brave [118] ? Soldat ? Mousquetaire ?  
 
     ISMENE.
-Moy-mesme.  
+        Moy-mesme.  
 
     RAGOTIN.
 Vous, Monsieur ?  
 
     ISMENE.
-Moy ?  
+    Moy ?  
 
     RAGOTIN.
-Pour vous mon respect est extreme,  
+        Pour vous mon respect est extreme,  
 Je suis vostre valet.  
 
     ISMENE.
-Mais enfin…  
+    Mais enfin…  
 
     RAGOTIN.
-Mon Dieu, Mais  
+        Mon Dieu, Mais  
 C'est un poinct chatoüilleux que l'honneur d'un Lacquais,  
 Je suis plein de courage, & n'en fus jamais vuide,  
 Mais j'aurois du regret de faire un Maitricide [119] :  
@@ -2466,10 +2466,10 @@ Tu conçois à rebours le discours que je tiens,
 J'ay querelle.  
 
     RAGOTIN.    [53]
-Querelle ! Est-il vray ?  
+    Querelle ! Est-il vray ?  
 
     ISMENE.
-J'ay querelle  
+        J'ay querelle  
 Et je veux éprouver à quel poinct va ton zele :  
 Pour porter un Cartel⁎ de toy seul j'ay fait choix.  
 
@@ -2480,36 +2480,36 @@ Donnez-vous bien souvent de semblables emplois ?
 Selon⁎.  
 
     RAGOTIN.
-Dites-moy donc sans donner de bricole⁎  
+        Dites-moy donc sans donner de bricole⁎  
 Si c'est que je me louë, ou bien si je m'enrolle [120] ?  
 
     ISMENE.
 As-tu peur ?  
 
     RAGOTIN.
-Moy ? Non, mais…  
+    Moy ? Non, mais…  
 
     ISMENE.
-Mais point tant de façon,  
+        Mais point tant de façon,  
 Si tu sens de la peur tu peux le dire.  
 
     RAGOTIN.
-Et… non,  
+        Et… non,  
 Mais…  
 
     ISMENE.
-Voila le Cartel⁎, prends le soin de le rendre,  
+        Voila le Cartel⁎, prends le soin de le rendre,  
 Tu liras le dessus, il s'addresse à Nicandre.  
 
     RAGOTIN.
 A Nicandre ?  
 
     ISMENE.
-A Nicandre, il demeure icy prés ;  
+        A Nicandre, il demeure icy prés ;  
 A ce nom tu fremis que je crois ?  
 
     RAGOTIN.
-Moy ? Non, mais…  
+        Moy ? Non, mais…  
 
     ISMENE.
 S'il demande le nom de celuy qui t'envoye,  
@@ -2523,7 +2523,7 @@ Adieu.
 ## SCENE III.
 
     RAGOTIN *seul.*
-Je vais porter un Cartel⁎ à Nicandre !  
+        Je vais porter un Cartel⁎ à Nicandre !  
 A luy qui me veut battre, et qui fait le mâdré [121],  
 Ah Nicandre, ma foy tu seras Nicandré [122] !  
 Tu t'en vas étrenner mon épée. Il avance,  
@@ -2541,7 +2541,7 @@ Il m'a trop retenu cét Amy, j'en deteste [123].
 Où pourray-je à present la trouver ? Ah, ah.  
 
     RAGOTIN *luy allongeant une botte⁎.*
-Zeste⁎.  
+        Zeste⁎.  
 
     LE PREMIER NICANDRE.
 Tu reviens à belle heure, & tu penses qu'au cas…  
@@ -2551,17 +2551,17 @@ Ouy, je pense, pourquoy ne penserois-je pas ?
 Je veux penser.  
 
     LE PREMIER NICANDRE.
-Coquin, je puis t'estre funeste,  
+        Coquin, je puis t'estre funeste,  
 Et si tu fais le fou tu ne doutes pas…  
 
     RAGOTIN *allongeant encore une autre botte⁎.*
-Zeste⁎.  
+        Zeste⁎.  
 
     LE PREMIER NICANDRE.
 Où crois-tu que tu sois, dy marouffle⁎.  
 
     RAGOTIN.
-Pourquoy ?  
+        Pourquoy ?  
 J'ay mon droict comme vous sur le pavé du Roy,  
 Dequoy vous meslez-vous ? Qu'est-ce donc ? J'y veux estre.  
 
@@ -2569,7 +2569,7 @@ Dequoy vous meslez-vous ? Qu'est-ce donc ? J'y veux estre.
 Mais à qui donc és-tu ?  
 
     RAGOTIN.
-Moy je suis à mon Maistre,  
+        Moy je suis à mon Maistre,  
 Avec autre que vous on se trouve un peu mieux ;  
 Tenez quasi defunt, jettez icy les yeux,  
 Puis apres au Seigneur recommandez vostre ame.  
@@ -2578,13 +2578,13 @@ Puis apres au Seigneur recommandez vostre ame.
 Cét Infame…  
 
     RAGOTIN.
-Tantost vous aurez de l'infame ;  
+        Tantost vous aurez de l'infame ;  
 Vous m'avez querellé, vous avez fait le fat⁎,  
 Vous en mourrez, beau Sire, & mourrez *intestat* [124],  
 Lisez.  
 
     LE PREMIER NICANDRE *lit.*
-*Sans que je me nomme*,  
+        *Sans que je me nomme*,  
 Nicandre vous sçaurez que je suis Gentil-homme,  
 *Qui l'espée à la main ay dessein de vous voir*,  
 Du sujet que j'en ay j'ose tout me promettre :  
@@ -2595,7 +2595,7 @@ Et j'auray le Second qui vous rend cette Lettre.
 Tu ne me sers donc plus, Ragotin ?  
 
     RAGOTIN.
-Non ma foy.  
+        Non ma foy.  
 
     LE PREMIER NICANDRE.
 Je n'en murmure point, cela dépend de toy,  
@@ -2613,14 +2613,14 @@ Voyez-vous de courroux comme le nez me fronce ?
 Quoy tu crains…  
 
     RAGOTIN.
-Escoutez je vais vous rendre response ;  
+        Escoutez je vais vous rendre response ;  
 Si vous vouliez m'attendre un moment dans ce lieu ?  
 
     LE PREMIER NICANDRE.
 Je le veux…  
 
     RAGOTIN.
-Mettez là vostre main. Sans Adieu,  
+        Mettez là vostre main. Sans Adieu,  
 C'est assez, si j'y viens que le Diable m'emporte.  
 (bas.)
 
@@ -2641,7 +2641,7 @@ JACINTE, Le premier NICANDRE.
 
 
     JACINTE.
-Allez vous-en au peautre⁎, à qui vous estes.  
+        Allez vous-en au peautre⁎, à qui vous estes.  
 
     LE PREMIER NICANDRE.
 Quoy Jacinte me laisse, & dans cét embarras…  
@@ -2651,10 +2651,10 @@ Allez vous-en au Diable, & ne me touchez pas
 Vous dis-je.  
 
     LE PREMIER NICANDRE.
-Mais Jacinte, il me semble…  
+    Mais Jacinte, il me semble…  
 
     JACINTE.
-Il me semble  
+        Il me semble  
 Qu'on ne vaut pas la peste alors qu'on vous ressemble,  
 Qu'estre lasche, perfide, hipocrite, emballeur⁎,  
 Meschant comme la gresle, insolent suborneur⁎,  
@@ -2663,16 +2663,16 @@ C'est de vostre peinture une legere idée [125] ;
 Il me semble cela.  
 
     LE PREMIER NICANDRE.
-Mais au moins…  
+    Mais au moins…  
 
     JACINTE.
-Au moins mais…  
+        Au moins mais…  
 
     LE PREMIER NICANDRE.
 Mais vous m'avez promis…  
 
     JACINTE.
-Mais je vous dépromets [126].  
+        Mais je vous dépromets [126].  
 Et de plus laissez-moy, j'ay des mains, je devore [127].  
 
 
@@ -2687,35 +2687,35 @@ Est-ce pas prés d'icy que demeure Isidore ?
 Ouy, le voulez-vous voir ?  
 
     EUTROPE.
-Ah ! Je le voudrois bien.  
+        Ah ! Je le voudrois bien.  
 
     JACINTE.
 Attendez.  
 
     LE PREMIER NICANDRE *à Jacinte.*
-Vous pouvez par le mesme moyen…  
+        Vous pouvez par le mesme moyen…  
 A tout ce procedé, je ne puis rien comprendre,  
 Jacinte…  
 
     EUTROPE.
-Ou je m'abuse, ou je vois le Nicandre,  
+        Ou je m'abuse, ou je vois le Nicandre,  
 Je le vois, c'est luy mesme. A la fin je te tiens,  
 C'est en vain que tes bras sont plus forts que les miens.  
 Qu'as-tu fait de ma fille ?  
 
     JACINTE *appelle à une fenestre.*
-Isidore ! Allons viste.  
+        Isidore ! Allons viste.  
 (A Eutrope.)
 
 Tenez ferme, tenez ; car il faut qu'on le gifle.  
 Isidore !  
 
     LE PREMIER NICANDRE.
-Monsieur laschez-moy de ce pas,  
+        Monsieur laschez-moy de ce pas,  
 Ou du moins…  
 
     JACINTE.
-Tenez ferme, & ne le laschez pas ;  
+        Tenez ferme, & ne le laschez pas ;  
 Son filou⁎ de cacquet m'a sceu rendre ébloüye.  
 
 
@@ -2728,7 +2728,7 @@ Une voix transcendante [128] a percé mon oüye.
 Apprettez-vous [129]…  
 
     JACINTE.
-Monsieur, venez viste au secours,  
+        Monsieur, venez viste au secours,  
 (A Eutrope.)
 
 Venerable vieillard, tenez ferme toûjours,  
@@ -2737,11 +2737,11 @@ Ayant pris tout l'honneur, il faut qu'il me le rende [130]
 Ou qu'il créve.  
 
     EUTROPE.
-De rage, il m'en void tout en feu  
+        De rage, il m'en void tout en feu  
 Le déloyal, le traistre !  
 
     LE PREMIER NICANDRE.    [F, 61]
-Est-ce conte ? Est-ce jeu ?  
+        Est-ce conte ? Est-ce jeu ?  
 Quoy Jacinte elle mesme aura donc de la joye…  
 
     JACINTE.
@@ -2749,10 +2749,10 @@ Venez viste, Monsieur, vous saisir de la proye,
 C'est Nicandre.  
 
     EUTROPE.
-Luy-mesme.  
+    Luy-mesme.  
 
     LE PREMIER NICANDRE.
-Il est vray, mais confus…  
+        Il est vray, mais confus…  
 
     ISIDORE *en bas.*
 Rendons-en grace, & los à Jupin de la sus [131].  
@@ -2780,10 +2780,10 @@ De qui m'ose arrester que je sçache le nom,
 Est-ce vous ? Est-ce vous ?  
 
     EUTROPE.
-C'est moy-mesme.  
+    C'est moy-mesme.  
 
     ISIDORE.
-*Ego sum* [138].  
+        *Ego sum* [138].  
 Une fille effleurée [139] est un grand vitupere [140].  
 
     EUTROPE.
@@ -2791,7 +2791,7 @@ Et cela de bien prés touche un mal-heureux pere
 Isidore.  
 
     ISIDORE.
-Isidore ! Hé vous me cognoissez ?  
+        Isidore ! Hé vous me cognoissez ?  
 
     EUTROPE.
 Je ne vous ay point veu depuis dix ans passez,  
@@ -2808,27 +2808,27 @@ Etreignez Isidore, & pleignez son esmoy :
 C'est Eutrope !  
 
     EUTROPE.
-Vous voir est ce que je souhaite,  
+        Vous voir est ce que je souhaite,  
 Mais ma joye Isidore est pourtant imparfaite,  
 Une fille abusée…  
 
     ISIDORE.
-Ah !  
+    Ah !  
 
     EUTROPE.
-Ah !  
+    Ah !  
 
     ISIDORE. 
               
-Ah !  
+    Ah !  
 
     EUTROPE.
-Ah !  
+    Ah !  
 (Isidore et Eutrope laschent Nicandre, & s'embrassent en pleurant, tandis que Nicandre s'echape.)
 
 
     LE PREMIER NICANDRE.
-Destin  
+        Destin  
 Je suis débarassé de leurs mains à la fin ;  
 Mais le foible mal-heur que celuy que j'évite  
 Si le triste Nicandre est haï d'Hipolite ;  
@@ -2849,7 +2849,7 @@ Les deux vieillards estans embrassez, Robin passe auprés d'eux, trébuche, se l
 
 
     EUTROPE.
-Ah maudite balourde [144] !  
+        Ah maudite balourde [144] !  
 
     ISIDORE.
 J'ay les muscles froissez, & le corps mutilé.  
@@ -2868,7 +2868,7 @@ EUTROPE, ISIDORE, ROBIN.
 
 
     EUTROPE.
-Est-ce pour rire, ou du moins es-tu fou ?  
+        Est-ce pour rire, ou du moins es-tu fou ?  
 
     ROBIN.
 Ouy vrayment c'est pour rire ; on se casse le cou  
@@ -2879,7 +2879,7 @@ Dites-moy, s'il vous plaist ce qu'il est devenu
 Messieurs ?  
 
     EUTROPE.
-Le voyez-vous le malicieux traistre ?  
+        Le voyez-vous le malicieux traistre ?  
 Il nous a fait tomber pour faire fuir son Maistre :  
 Quoy perfide Robin, oses-tu nous choquer ?  
 
@@ -2898,7 +2898,7 @@ Si le Diable l'emporte, en puis-je estre garand
 Messieurs ?  
 
     EUTROPE.
-Laisse la feinte & paroist plus sincere,  
+        Laisse la feinte & paroist plus sincere,  
 Le mal-heur d'une fille émeut l'ame d'un pere ;  
 Peut-etre est-elle grosse, & je sçay le moyen…  
 
@@ -2938,7 +2938,7 @@ Messieurs, de la Justice ayant l'heur⁎ d'estre Membre [149]…
 Membre, vous ?  
 
     LE SERGENT.
-Ouyda, Membre ; & je diray de plus…  
+        Ouyda, Membre ; & je diray de plus…  
 
     ROBIN.
 Diable, que la justice a les Membres dodus !  
@@ -2962,10 +2962,10 @@ Vôtre sang, dites-vous ? C'est le mien qu'on outrage.
 C'est le mien.  
 
     EUTROPE.
-C'est le mien.  
+    C'est le mien.  
 
     ROBIN.
-J'ay le dos bon, courage.  
+        J'ay le dos bon, courage.  
 (A Eutrope.)
 
 Vostre fille à ce compte a perdu son honneur ?  
@@ -2974,19 +2974,19 @@ Vostre fille à ce compte a perdu son honneur ?
 Ouy perfide.  
 
     ROBIN *à Isidore.*
-La vostre a le mesme mal-heur ?  
+        La vostre a le mesme mal-heur ?  
 
     ISIDORE.
 Ouy, pecore⁎.  
 
     ROBIN *à Jacinte.*
-Et le tien ?  
+    Et le tien ?  
 
     JACINTE.
-Moy ? Je l'ay.  
+    Moy ? Je l'ay.  
 
     ROBIN.
-Chose vraye ?  
+        Chose vraye ?  
 Car si tu ne l'as plus il faut bien que je l'aye ;  
 Croy-moy tastes-y, taste, et ne déguise rien,  
 Tu peux parmy le leur faire passer le tien ;  
@@ -2995,11 +2995,11 @@ Signe au bas de la feuille, & te mets à la marge.
 Ton honneur, si tu l'as…  
 
     JACINTE.
-Si ? Comment si fripon ?  
+        Si ? Comment si fripon ?  
 Moy, si j'ay mon honneur ? Si je l'ay ?  
 
     ROBIN.
-Que sçait-on ?  
+        Que sçait-on ?  
 On te void du grand monde imiter la metode,  
 Tu veux comme ce monde encherir sur la mode,  
 Ce qu'il fait tu le fais, & pour cette raison  
@@ -3007,32 +3007,32 @@ Le Si, dont je te parle est assez de saison⁎.
 Si donc…  
 
     JACINTE.
-Quoy, vous souffrez que ce perfide cause ?  
+        Quoy, vous souffrez que ce perfide cause ?  
 
     LE SERGENT.
 Si de mon ministere il vous plaist quelque chose,  
 Messieurs…  
 
     EUTROPE.
-C'est ce pendart [152] qu'il faut prendre.  
+    C'est ce pendart [152] qu'il faut prendre.  
 
     ROBIN.
-Qui ?  
+    Qui ?  
 
     JACINTE.
-Toy.  
+        Toy.  
 
     ISIDORE.
 Accipez [153].  
 
     EUTROPE.
-Saisissez.  
+    Saisissez.  
 
     JACINTE.
-Prenez.  
+    Prenez.  
 
     LE SERGENT *saisissant Robin.*
-De par le Roy…  
+        De par le Roy…  
 
     ROBIN.
 Vrais Suppots de Satan, effroyable couvée [154]…  
@@ -3059,7 +3059,7 @@ Si pour prendre le mien dans ce lieu l'on m'a pris
 Messieurs…  
 
     ISIDORE *au Sergent.*
-Vous le tenez *in manibus vestris* [158],  
+        Vous le tenez *in manibus vestris* [158],  
 *Suffecit* [159] ; *Domine* [160] vous sçaurez m'en respondre,  
 Dans un sombre manoir⁎ vous devez le profondre [161],  
 Puis quand dans la prison vous l'aurez integré,  
@@ -3073,7 +3073,7 @@ Vous me clariffirez le sujet qui vous gréve [164].
 Venez.  
 
     EUTROPE.
-Vous le voulez, j'accomplis vos souhaits,  
+        Vous le voulez, j'accomplis vos souhaits,  
 (Au Sergent.)
 
 Debonnaires Messieurs vous serez satisfaits ;  
@@ -3092,11 +3092,11 @@ Dites-moy, puis-je pas un moment vous parler ?
 Tu le peux un moment, que veux-tu ?  
 
     ROBIN.
-M'en aller,  
+        M'en aller,  
 O cher Membre.  
 
     LE SERGENT.
-Il raisonne, on diroit qu'il méprise…  
+        Il raisonne, on diroit qu'il méprise…  
 
     ROBIN.
 Menez donc à ma suite en prison la valise  
@@ -3160,7 +3160,7 @@ De vos seules beautez je connois le pouvoir,
 Vos yeux seuls…  
 
     HIPOLITE.
-S'il est vray, tu le peux faire voir,  
+        S'il est vray, tu le peux faire voir,  
 On me croit abusee, & l'honneur te convie…  
 
     LE PREMIER NICANDRE.
@@ -3173,18 +3173,18 @@ Dés demain je m'appreste au bon-heur de le voir
 Pourrez-vous l'appaisez ?  
 
     HIPOLITE.
-J'y feray mon pouvoir,  
+        J'y feray mon pouvoir,  
 Adieu.  
 
     LE PREMIER NICANDRE.
-Donc à ma flâme il n'est rien de contraire…  
+        Donc à ma flâme il n'est rien de contraire…  
 
     HIPOLITE *retourne sur ses pas.*
 Si je fais mon pouvoir je pourray beaucoup faire,  
 J'oubliois de le dire, Adieu,  
 
     LE PREMIER NICANDRE.
-Mais… Elle sort.  
+        Mais… Elle sort.  
 Ne sois plus un obstacle aux douceurs de mon sort  
 Mon frere, & souffre au moins qu'une flâme si belle…  
 Mais au Cours de la Reyne enfin l'heure m'apelle :  
@@ -3207,12 +3207,12 @@ Il me lorgne⁎. Ah c'est vous, ô Messire Nicandre,
 Bon jour.  
 
     LE PREMIER NICANDRE.
-Dy promptement ce que tu veux m'aprendre,  
+        Dy promptement ce que tu veux m'aprendre,  
 Je ne puis faire icy qu'un moment de sejour,  
 Si tu veux me parler parle viste.  
 
     ROBIN.
-Bon jour.  
+        Bon jour.  
 Des mains de la Justice est-ce ainsi qu'on s'arrache ?  
 Eh que si [169] le bon homme eût trouvé vostre cache !  
 
@@ -3220,26 +3220,26 @@ Eh que si [169] le bon homme eût trouvé vostre cache !
 Si je me cache ou non que t'importe ?  
 
     ROBIN.
-Si fait [170]  
+        Si fait [170]  
 Il m'importe.  
 
     LE PREMIER NICANDRE.
-Il t'importe ! As-tu quelque sujet  
+        Il t'importe ! As-tu quelque sujet  
 Maraut⁎…  
 
     ROBIN.    [75]
-Faudra-t-il point que je vous rende grace  
+        Faudra-t-il point que je vous rende grace  
 De ce qu'au lieu de vous en prison on m'enchasse [171] ?  
 
     LE PREMIER NICANDRE.
 On t'a mis en prison !  
 
     ROBIN.
-Et bien mis, qui plus est,  
+        Et bien mis, qui plus est,  
 Les bourreaux.  
 
     LE PREMIER NICANDRE.
-C'est, dis-tu, pour mon seul interest ?  
+        C'est, dis-tu, pour mon seul interest ?  
 
     ROBIN.
 Nenny⁎, c'est pour le mien ; je suborne⁎ des filles ;  
@@ -3256,7 +3256,7 @@ Vôtre futur beau-pere, & son cher meigre-échine [173] ?
 Hé bien.  
 
     ROBIN.
-Tu Dieu [174], Monsieur, la méchante vermine !  
+        Tu Dieu [174], Monsieur, la méchante vermine !  
 A peine de leur veuë estiez-vous échapé  
 Qu'un gros peste de Membre aussi-tost m'a gripé [175] ;  
 L'un & l'autre grison⁎ ne sçavoit où se prendre ;  
@@ -3301,7 +3301,7 @@ Je reviens dans une heure, attend-moy dans ce lieu.
 Mais tout est appaisé ?  
 
     LE PREMIER NICANDRE.
-Je te le jure, Adieu,  
+        Je te le jure, Adieu,  
 Desormais de Sergens ne crains nulle surprise.  
 
 
@@ -3319,13 +3319,13 @@ ROBIN, JACINTE.
 
 
     ROBIN.
-Te voicy cauteleuse [180] pucelle,  
+        Te voicy cauteleuse [180] pucelle,  
 (Ou du moins s'il n'est vray, fille soy-disant telle ;  
 Car d'oser en jurer j'aurois peu de raison.)  
 Te voicy.  
 
     JACINTE.
-Le perfide, il est hors de prison !  
+        Le perfide, il est hors de prison !  
 
     ROBIN.
 Te voicy donc, te dis-je & te voicy toy seule ;  
@@ -3333,17 +3333,17 @@ Ta carogne [181] de main m'a baillé⁎ sur la gueule,
 Tu le sçais, la pucelle ?  
 
     JACINTE.
-Et bien ouy, je le sçay.  
+        Et bien ouy, je le sçay.  
 
     ROBIN.
 Et sçais-tu bien aussi que j'en suis offencé  
 La pucelle ?  
 
     JACINTE.
-Moy ? Non.  
+    Moy ? Non.  
 
     ROBIN.
-Mais dy-moy, la pucelle…  
+        Mais dy-moy, la pucelle…  
 
     JACINTE.
 Mais toy-mesme, dy-moy si tu cherches querelle ?  
@@ -3376,7 +3376,7 @@ Mais enfin…
 
     JACINTE* appercevant tout à coup Nicandre.*
               
-Je vous cherche, ô l'esclave d'Ismene.  
+        Je vous cherche, ô l'esclave d'Ismene.  
 
     LE SECOND NICANDRE.
 Dieux ! Jacinte me cherche ! Auroit-on prevenu…  
@@ -3386,15 +3386,15 @@ Que du Cours de la Reyne il est tost revenu !
 Diable !  
 
     LE SECOND NICANDRE *à Jacinte.*
-Que voulez-vous, la belle ?  
+    Que voulez-vous, la belle ?  
 
     ROBIN.
-Pour la belle  
+        Pour la belle  
 Baste [182] ; mais gardez bien de l'appeller pucelle,  
 Vous luy feriez tort.  
 
     LE SECOND NICANDRE.
-Traistre… Enfin dites-moy donc…  
+        Traistre… Enfin dites-moy donc…  
 
     JACINTE *arrestant Nicandre par le bras.*
               
@@ -3419,7 +3419,7 @@ La Maitresse est contente, & le pere appaisé.
 Ah ! Le menteur.  
 
     LE SECOND NICANDRE.
-Ta langue un peu trop s'émancipe.  
+        Ta langue un peu trop s'émancipe.  
 
     ROBIN.
 Si le Membre repasse, & que l'on me regripe [183] ?  
@@ -3446,11 +3446,11 @@ Deux honneurs si petits ne leur suffiront pas.
 Pensez-y bien.  
 
     LE SECOND NICANDRE.
-Perfide, ainsi donc ton audace…  
+        Perfide, ainsi donc ton audace…  
 Mais laissez moy, Jacinte, & daignez…  
 
     JACINTE.
-Point de grace.  
+        Point de grace.  
 Celle qui vous aymoit a le seul interest…  
 Mais pour vostre mal-heur la voila qui parait.  
 
@@ -3485,7 +3485,7 @@ Je mets tout sous les pieds, & je suis ton valet.
 Quoy, tu pourrois…  
 
     ROBIN.
-Mon Dieu, je ne cours pas grand risque,  
+        Mon Dieu, je ne cours pas grand risque,  
 Si je suis ton mary je reprendray ma bisque [185],  
 Et dessus ton visage appliquant tous mes doits  
 Pour un soufflet receu je t'en donneray trois.  
@@ -3507,10 +3507,10 @@ Moy, je sçais le moyen de remplir ses souhaits !
 Si vous le sçavez ?  
 
     LE SECOND NICANDRE.
-Moy, je le sçais ?  
+    Moy, je le sçais ?  
 
     ROBIN.
-A peu prés.  
+        A peu prés.  
 
     LE SECOND NICANDRE.
 Que feray-je ? Pour faire une chose qui plaise…  
@@ -3520,24 +3520,24 @@ Et que fait-on ? Pour faire une fille bien aise,
 Idiot ?  
 
     LE SECOND NICANDRE *à Hipolite.*
-Vous servir m'est un bien precieux,  
+        Vous servir m'est un bien precieux,  
 Mais daignez vous resoudre à vous expliquer mieux ;  
 Je vous veux obéïr, j'y mets toute ma gloire,  
 Mais…  
 
     HIPOLITE.
-Vous avez, Nicandre, une foible memoire,  
+        Vous avez, Nicandre, une foible memoire,  
 N'attendez plus pourtant de si libres propos,  
 J'ay trop…  
 
     ROBIN *à Nicandre.*
               
-Concevez-vous ce que disent ces mots :  
+        Concevez-vous ce que disent ces mots :  
 Pauvre fille !  
 
     JACINTE *à Hipolite.*
               
-Expliquez aussi vostre pensée.  
+        Expliquez aussi vostre pensée.  
 
     ROBIN.
 Son honneur la suffoque, elle en est si pressée  
@@ -3552,7 +3552,7 @@ Vous ne comprenez pas, mais c'est pure malice,
 Car il ne tient qu'à vous de comprendre.  
 
     LE SECOND NICANDRE.
-Elle veut…  
+        Elle veut…  
 
     ROBIN *à Hipolite.*
               
@@ -3570,18 +3570,18 @@ Pourquoy vous fiez vous à ce chien de Normand [186]
 Aussi ?  
 
     LE SECOND NICANDRE.
-Si je sçavois qui vous met en colere  
+        Si je sçavois qui vous met en colere  
 Peut-estre…  
 
     HIPOLITE.
-En ta faveur j'eusse appaisé mon pere,  
+        En ta faveur j'eusse appaisé mon pere,  
 (Car tu viens de sortir de ce mesme logis.)  
 
     LE SECOND NICANDRE.
 Il est vray que j'en sors, mais au moins…  
 
     HIPOLITE.
-Je rougis  
+        Je rougis  
 De ce qu'un infidelle en a fait son azile.  
 
     LE SECOND NICANDRE.
@@ -3594,14 +3594,14 @@ L'imposteur !
 
     ROBIN *à Nicandre.*
               
-*Cum licence* [187], ostez-moy d'une peine  
+        *Cum licence* [187], ostez-moy d'une peine  
 Monsieur, en quelle ruë est le Cours de la Reyne ?  
 
     LE SECOND NICANDRE.
 Maraut⁎.  
 
     ROBIN.
-Vous en venez, vous devez le sçavoir.  
+        Vous en venez, vous devez le sçavoir.  
 
     HIPOLITE.
 Dans ce mesme logis tu n'as donc pû me voir ?  
@@ -3610,7 +3610,7 @@ Dans ce mesme logis tu n'as donc pû me voir ?
 Moy vous voir !  
 
     HIPOLITE.
-Toy qui ments avec tant d'asseurance ?  
+        Toy qui ments avec tant d'asseurance ?  
 Toy qui d'un galant homme as la seule apparence.  
 Toy qu'un sang assez bon semble avoir eslevé,  
 Et qui n'est cependant qu'un perfide achevé.  
@@ -3620,13 +3620,13 @@ Je t'ay de ce logis applany la sortie.
 Vous Madame ?  
 
     HIPOLITE.
-Moy traistre, & ton ame l'oublie.  
+    Moy traistre, & ton ame l'oublie.  
 
     LE SECOND NICANDRE.
-Vous ?  
+    Vous ?  
 
     HIPOLITE.
-Moy.  
+        Moy.  
 
     LE SECOND NICANDRE.
 Quoy qu'il en soit j'en prends peu de soucy⁎,  
@@ -3638,7 +3638,7 @@ Et pour peu que je reste il faudra vous aimer,
 Adieu.  
 
     ROBIN *à Jacinte*.
-Je me retire, & pourtant, ô friponne,  
+        Je me retire, & pourtant, ô friponne,  
 Ce n'est pas sans regret que Robin t'abandonne ;  
 Car quand dés ce matin je t'ay veuë en ce lieu…  
 C'est ma foy plustost fait de ne dire qu'Adieu [188].  
@@ -3657,7 +3657,7 @@ Il s'en va du costé que Mendoce l'attend.
 Mais Madame…  
 
     HIPOLITE.
-Cours viste, & ne parle point tant ;  
+        Cours viste, & ne parle point tant ;  
 Vole s'il est possible, & fay qu'on le saisisse.  
 Mais que vois-je ?  
 (Jacinte sort.)
@@ -3671,12 +3671,12 @@ ISMENE, HIPOLITE.
     ISMENE *revenant du Cours, où elle a fait saisir le premier
                   Nicandre.*
               
-A vos vœux tout semble estre propice,  
+        A vos vœux tout semble estre propice,  
 Il vous aime Nicandre, & me fait un affront  
 L'ingrat.  
 
     HIPOLITE.
-S'il m'aime, il fait ce que bien d'autres font.  
+        S'il m'aime, il fait ce que bien d'autres font.  
 
     ISMENE.
 A donner cœur pour cœur vous avés esté prompte.  
@@ -3720,7 +3720,7 @@ Point Madame, vous-mesme escoutez celuy-cy ;
 Mais tremblez de frayeur.  
 
     HIPOLITE.
-Ayez-en l'ame atteinte.  
+        Ayez-en l'ame atteinte.  
 
 
 ## SCENE IX.
@@ -3733,7 +3733,7 @@ Hé bien cher Ragotin ?
 
     HIPOLITE *avec beaucoup de fierté.*
               
-Hé bien chere Jacinte ?  
+        Hé bien chere Jacinte ?  
 
     RAGOTIN *à Ismene parlant du premier Nicandre.*
 Il est ensevely dans le grand Chastelet.  
@@ -3757,19 +3757,19 @@ Il ne se doutoit pas d'un orage si prompt.
 Il vous nomme perfide.  
 
     JACINTE.
-Il vous nomme cruelle.  
+        Il vous nomme cruelle.  
 
     ISMENE *à Hipolite.*
 Escoutez.  
 
     HIPOLITE *à Ismene.*
-Escoutez.  
+    Escoutez.  
 
     ISMENE.
-Que dit-il ?  
+    Que dit-il ?  
 
     HIPOLITE.
-Que dit-elle ?  
+        Que dit-elle ?  
 
     ISMENE.
 Vous le voyez, Madame, on l'a mis en lieu seur.  
@@ -3783,54 +3783,54 @@ Je ne l'ay pas fait prendre à dessein de le plaindre,
 On l'a pris par mon ordre,  
 
     HIPOLITE.
-On l'a pris par le mien.  
+        On l'a pris par le mien.  
 
     ISMENE.
 Le sçavez-vous, Madame ?  
 
     HIPOLITE.
-Ouy, je le sçay.  
+    Ouy, je le sçay.  
 
     ISMENE.
-Mal.  
+    Mal.  
 
     HIPOLITE.
-Bien.  
+        Bien.  
 
     RAGOTIN.
 C'est par l'ordre à Monsieur.  
 
     JACINTE.
-C'est par l'ordre à Madame.  
+        C'est par l'ordre à Madame.  
 
     RAGOTIN.
 Effrontée.  
 
     JACINTE.
-Arrogant.  
+    Arrogant.  
 
     RAGOTIN.
-Impertinente.  
+    Impertinente.  
 
     JACINTE.
-Infame.  
+        Infame.  
 
     RAGOTIN.
 Ne raisonne pas tant, je t'en prie.  
 
     JACINTE.
-Et pourquoy  
+        Et pourquoy  
 Hé ?  
 
     RAGOTIN.
-Si dans ma fureur je me jette sur toy  
+        Si dans ma fureur je me jette sur toy  
 Tu verras beau jeu.  
 
     JACINTE.
-Ladre⁎.  
+    Ladre⁎.  
 
     RAGOTIN.
-Aiguillon de vipere [191].  
+        Aiguillon de vipere [191].  
 
     JACINTE.
 Croyez-m'en Hipolite, appellons vostre pere,  
@@ -3842,23 +3842,23 @@ ISIDORE, EUTROPE, ISMENE, JACINTE, RAGOTIN.
 
 
     ISIDORE.
-*Audio*, cela veut dire l'oy,  
+        *Audio*, cela veut dire l'oy,  
 C'est le present du verbe *Audire.*  
 
     ISMENE.
-Je le voy.  
+        Je le voy.  
 
     RAGOTIN.
 Qui, Monsieur ?  
 
     ISMENE.
-Ragotin ma surprise est extrême.  
+        Ragotin ma surprise est extrême.  
 
     RAGOTIN.
 Qui voyez-vous ?  
 
     ISMENE.
-Ce l'est, c'est mon pere luy-mesme.  
+        Ce l'est, c'est mon pere luy-mesme.  
 
     ISIDORE *à Jacinte.*
 Definis-moy la cause, & dis-moy la raison…  
@@ -3877,16 +3877,16 @@ Ce vieillard est mon pere, & c'est tout mon bon heur,
 J'ose…  
 
     RAGOTIN *à Ismene.*
-Vous estes donc une fille, Monsieur ?  
+        Vous estes donc une fille, Monsieur ?  
 
     EUTROPE.
 Quoy ! Ma fille…  
 
     ISMENE.
-Mon pere !  
+    Mon pere !  
 
     EUTROPE.
-As-tu pû me connaistre.  
+        As-tu pû me connaistre.  
 
     RAGOTIN *à Ismene.*
 Je couchois d'ordinaire aux costés de mon Maistre,  
@@ -3901,13 +3901,13 @@ Mais sa lasche inconstance aura son chastiment,
 Il est pris.  
 
     HIPOLITE *à Isidore.*
-Vous sçavez ce que m'a fait Nicandre.  
+        Vous sçavez ce que m'a fait Nicandre.  
 
     ISIDORE.
 Maculée⁎.  
 
     HIPOLITE.
-A la fin je l'ay sçeu faire prendre ;  
+        A la fin je l'ay sçeu faire prendre ;  
 Mais Madame qui l'aime, & qui vit sous sa loy…  
 
     ISMENE.
@@ -3918,7 +3918,7 @@ Si jamais la tendresse esbranla vostre cœur,
 Si jamais…  
 
     EUTROPE.
-Tu sçais bien que j'ay peu de rigueur.  
+        Tu sçais bien que j'ay peu de rigueur.  
 (A Isidore.)
 
 Et vous quoy que pour moy vostre bonté paroisse,  
@@ -3936,7 +3936,7 @@ Mon esprit se gendarme allencontre de [195] luy,
 
 
     HIPOLITE *à Ismène.*
-Consolez-vous, vous pouvez tout pretendre,  
+        Consolez-vous, vous pouvez tout pretendre,  
 Demain dans la prison vous reverrez Nicandre.  
 
     ISMENE.
@@ -3947,11 +3947,11 @@ Vous le verrez aussi sans qu'il puisse estre à vous.
 Adieu donc voyageuse.  
 
     ISMENE.
-Adieu bonne rusée  
+        Adieu bonne rusée  
 Intrigueuse.  
 
     JACINTE.
-Adieu donc fille garçonnisée⁎.  
+        Adieu donc fille garçonnisée⁎.  
 
     RAGOTIN *à Jacinte.*
 Elle garçonnisée⁎, instruits-moy de son sens ?  
@@ -3960,7 +3960,7 @@ Elle garçonnisée⁎, instruits-moy de son sens ?
 Elle l'est par dehors.  
 
     RAGOTIN.
-Et tu l'es par dedans.  
+        Et tu l'es par dedans.  
 (Hipolite & Jacinte s'en vont du costé d'Isidore, & Ismene & Ragotin du costé d'Eutrope.)
 < Fin du quatriesme Acte. >
 
@@ -3989,7 +3989,7 @@ Mais l'endroit où je couche est pourtant assez beau.
 C'est dans la Chambre-neusve.  
 
     ROBIN.
-Et moy dans le Berceau :  
+        Et moy dans le Berceau :  
 Le bon peste de giste ! On diroit d'une Cave ;  
 D'une vieille muraille on ramasse la bave [197],  
 Et de foin tout pourry les petits brins épars  
@@ -4009,10 +4009,10 @@ Ils ont pris mon bagage au deffaut de pécune.)
 Tes habits sont mangez ?  
 
     ROBIN.
-Ouy, Monsieur.  
+    Ouy, Monsieur.  
 
     LE SECOND NICANDRE.
-Est-ce ainsi…  
+        Est-ce ainsi…  
 
     ROBIN.
 S'ils m'avoient pû manger ils l'auroient fait aussi :  
@@ -4031,7 +4031,7 @@ Et j'ay desja la boëtte à quester pour les gueux.
 J'y feray bien mon compte.  
 
     LE SECOND NICANDRE.
-Et comment, Ridicule ?  
+        Et comment, Ridicule ?  
 
     ROBIN.
 Et par le petit trou quand on ferre la mule [201].  
@@ -4041,7 +4041,7 @@ Ah que j'auray bien-tost regagné mon habit.
 On n'y met rien.  
 
     ROBIN.
-Ma foy, l'on me l'a déjà dit.  
+        Ma foy, l'on me l'a déjà dit.  
 Mais si l'on m'y mettoit c'estoit bien mon affaire.  
 
     LE SECOND NICANDRE.
@@ -4053,7 +4053,7 @@ N'en sortons point, Monsieur, que je n'aye un habit,
 Je vous en prie.  
 
     LE SECOND NICANDRE.
-Ecoute, en cas qu'on me demande  
+        Ecoute, en cas qu'on me demande  
 Tu viendras me querir, & diras qu'on m'attende,  
 Ou du moins si tu veux tu pourras m'appeller.  
 (Il sort.)
@@ -4082,21 +4082,21 @@ Mettez-viste, Monsieur, de l'argent dans la boëste.
 Une autre fois.  
 
     ROBIN.
-Mettez ; on n'a point de credit.  
+        Mettez ; on n'a point de credit.  
 
     ISMENE.
 Mais l'amy…  
 
     ROBIN.
-Mais l'amy… J'ay besoin d'un habit  
+        Mais l'amy… J'ay besoin d'un habit  
 Monsieur.  
 
     ISMENE.
-Ou je me trompe, ou je croy te connaistre.  
+        Ou je me trompe, ou je croy te connaistre.  
 Quel es-tu ?  
 
     ROBIN.
-Moy ? Je suis tout ce que je puis estre,  
+        Moy ? Je suis tout ce que je puis estre,  
 Receveur⁎ (Il est vray qu'à ne vous celer⁎ rien  
 La recepte⁎ est petite, & ne va pas trop bien ;  
 Mais faut-il de regret que je m'en aille pendre ?)  
@@ -4111,7 +4111,7 @@ Si vous m'avez veu là, vous me voyez icy.
 Tu ne me connois pas ?  
 
     ROBIN.
-Il me semble que si.  
+        Il me semble que si.  
 A remettre vos traits j'ay pourtant de la peine ;  
 Ne vous nommez-vous pas Monsieur, Madame Ismene ?  
 
@@ -4120,7 +4120,7 @@ Ouy, Robin, c'est Ismene. Et ton Maistre, l'ingrat ?
 Le perfide ?  
 
     ROBIN.
-Mon Maistre ? Il est fort delicat.  
+        Mon Maistre ? Il est fort delicat.  
 J'ay peur dans la prison qu'il n'amasse du rhume [202].  
 (Ismene met deux Louys dans la boëste de Robin, & Robin qui fait ses efforts pour en faire tomber quelqu'un, voyant qu'il ne le peut, parle en luy-mesme si justement au sens d'Ismene, qu'elle croit qu'il réponde à ses demandes.)
 
@@ -4141,7 +4141,7 @@ Toy qui sers cét ingrat, ne peux-tu faire en sorte,
 Robin…  
 
     ROBIN *parlant des Louys.*
-Si je le puis, que le Diable m'emporte.  
+        Si je le puis, que le Diable m'emporte.  
 
     ISMENE.
 Tu ne le peux ? Le traistre a donc bien du mépris  
@@ -4152,7 +4152,7 @@ J'ay mis tous mes plaisirs au bon-heur d'estre unis ;
 J'ay mis…  
 
     ROBIN *parlant de Louys.*
-Où Diable aussi les avez-vous là mis ?  
+        Où Diable aussi les avez-vous là mis ?  
 
     ISMENE.
 Que veux-tu ? Je l'aymois ; il me sembloit sincere,  
@@ -4161,7 +4161,7 @@ J'avois en sa faveur des sentiments si doux,
 Robin…  
 
     ROBIN *songeant à ce qu'Ismene dit.*
-Plais-il ? Quoy ? Qu'est-ce ? & que me dites-vous ?  
+        Plais-il ? Quoy ? Qu'est-ce ? & que me dites-vous ?  
 Vous voulez voir mon Maistre, ayez soin de m'attendre.  
 Non, ne m'attendez pas, je l'appelle. Nicandre !  
 
@@ -4169,19 +4169,19 @@ Non, ne m'attendez pas, je l'appelle. Nicandre !
 Qui m'appelle ?  
 
     ROBIN.
-C'est moy.  
+    C'est moy.  
 
     LE PREMIER NICANDRE.
-Qui ?  
+    Qui ?  
 
     ROBIN.
-C'est moy.  
+    C'est moy.  
 
     LE PREMIER NICANDRE.
-Quy toy ?  
+    Quy toy ?  
 
     ROBIN
-Moy.  
+        Moy.  
 
     LE PREMIER NICANDRE.
 Et qui donc est-ce là que je vois avec toy ?  
@@ -4190,23 +4190,23 @@ Et qui donc est-ce là que je vois avec toy ?
 C'est elle.  
 
     LE PREMIER NICANDRE.
-Qui ?  
+    Qui ?  
 
     ROBIN.
-C'est elle.  
+    C'est elle.  
 
     LE PREMIER NICANDRE.
-Et qui donc ? Dy.  
+    Et qui donc ? Dy.  
 
     ROBIN.
-C'est elle.  
+        C'est elle.  
 
     LE PREMIER NICANDRE
 Qui que ce soit n'importe, il suffit qu'on m'appelle.  
 Je descends.  
 
     ISMENE *à Robin*.
-Que dis-tu, de la peine qu'il a ?  
+        Que dis-tu, de la peine qu'il a ?  
 N'as-tu pas apperceu… Mais l'ingrat le voila.  
 
 
@@ -4218,7 +4218,7 @@ ISMENE, Le premier NICANDRE, ROBIN.
 Hé bien, Nicandre ?  
 
     LE PREMIER NICANDRE.
-Hé bien, Madame, estes-vous lasse  
+        Hé bien, Madame, estes-vous lasse  
 De me joüer des tours de si mauvaise grace ?  
 Quels appas⁎ avez-vous qui puissent me charmer ?  
 Et par quel privilege ay-je dû vous aymer [203] ?  
@@ -4232,23 +4232,23 @@ Mais écoute, il est temps que tu m'ouvres ton ame,
 Je t'ay fait mettre icy, tu le sçais ?  
 
     LE PREMIER NICANDRE.
-Ouy, Madame,  
+        Ouy, Madame,  
 Et sans perdre un moment en propos superflus,  
 Scachez…  
 
     ROBIN *à Nicandre.*
-Depuis quand donc ne l'adorez-vous plus  
+        Depuis quand donc ne l'adorez-vous plus  
 Nostre cher ?  
 
     LE PREMIER NICANDRE.
-Dis-tu moy ? J'ay plutost de la hayne…  
+        Dis-tu moy ? J'ay plutost de la hayne…  
 
     ROBIN.
 Que diable dites vous étourdy ? C'est Ismene  
 Que vous aymez tant.  
 
     LE PREMIER NICANDRE.
-Moy ? Je n'ay jamais pensé…  
+        Moy ? Je n'ay jamais pensé…  
 
     ROBIN.
 C'est Ismene, vous dis-je, estes vous insensé ?  
@@ -4270,7 +4270,7 @@ L'artifice⁎ estoit foible, & je suis delicat,
 Madame.  
 
     ROBIN.
-Ah justes Dieux, le maudit renegat⁎ !  
+        Ah justes Dieux, le maudit renegat⁎ !  
 C'est donc quand il vous plaist que vous estes mon Maistre ?  
 
     LE PREMIER NICANDRE.
@@ -4290,14 +4290,14 @@ Mais ce n'est qu'à Paris que j'ay pris de l'amour.
 Ah méchant !  
 
     LE PREMIER NICANDRE.
-Moy mechant ! C'est me faire injustice.  
+        Moy mechant ! C'est me faire injustice.  
 
     ROBIN.
 Renier un valet c'est un beau petit vice.  
 Il appelle cela des chansons  
 
     ISMENE.
-Resous-toy ;  
+        Resous-toy ;  
 Voy qui tu veux aymer d'Hipolite ou de moy ;  
 Epargne à mon amour le regret de te nuire,  
 J'oubliray ton forfait si tu veux t'en dédire,  
@@ -4316,7 +4316,7 @@ Vous seriez en estat de jamais ne m'aymer.
 Sortez.  
 
     ISMENE.
-Pardonne ingrat ma visite obligeante.  
+        Pardonne ingrat ma visite obligeante.  
 Au reste agonisant d'un amitié mourante,  
 Qui pour ton interest augmentant de moitié  
 Arrachoit un avis à ma lasche pitié ;  
@@ -4337,17 +4337,17 @@ Vous venez là de faire un bon chien de ménage [205].
 Continuez, l'amy.  
 
     LE PREMIER NICANDRE.
-Tay-toy, traistre, ou…  
+    Tay-toy, traistre, ou…  
 
     ROBIN.
-J'enrage,  
+        J'enrage,  
 Et je souhaiterois que chacun souhaitât  
 Qu'au milieu de la gréve on vous decapitât.  
 Un tendron⁎ l'idolatre, & Monsieur le neglige ;  
 Une Ismene l'adore, & Monsieur…  
 
     LE PREMIER NICANDRE.
-Pay⁎, te dis-je,  
+        Pay⁎, te dis-je,  
 Ou bien si de ta voix rien n'arreste le cours  
 Dy-le nom d'Hipolite, & m'en parle toujours :  
 Su tu veux que pour toy mon courroux se désarme  
@@ -4363,7 +4363,7 @@ Jusqu'au revoir.
 ## SCENE VI.
 
     ROBIN *seul.*
-Et toy, le Bourreau te décole [206]  
+        Et toy, le Bourreau te décole [206]  
 Fou des plus achevez, dont les sens abestis  
 Pensent… Mais des verroux j'entends le cliquetis,  
 Quelqu'un entre.  
@@ -4374,24 +4374,24 @@ ROBIN, JACINTE.
 
 
     ROBIN *appercevant Jacinte.*
-Bon jour.  
+    Bon jour.  
 
     JACINTE.
-Ah c'est toy !  
+    Ah c'est toy !  
 
     ROBIN.
-Belle beste  
+        Belle beste  
 A voir ce que je porte on connoit que je queste ;  
 Tout questeur que je sois si tu fais un souhait  
 Tu peux tendre ta boëste, & je donne mon fait  
 J'ay deux Louis, je t'ayme.  
 
     JACINTE.
-Il n'est pas temps encore  
+        Il n'est pas temps encore  
 Je viens voir…  
 
     ROBIN.
-Voy traistresse un Robin qui t'adore,  
+        Voy traistresse un Robin qui t'adore,  
 Et qui pour t'avoir veuë un peu plus qu'il ne faut,  
 N'est vestu que de toille, & s'il brusle de chaud [207].  
 
@@ -4399,7 +4399,7 @@ N'est vestu que de toille, & s'il brusle de chaud [207].
 Je viens dire…  
 
     ROBIN.
-Dy-moy, femelle insecourable  
+        Dy-moy, femelle insecourable  
 Si l'on peut long-temps vivre, & brusler comme un Diable ;  
 Et si tu n'agis pas d'une ingrate façon  
 De me voir estre braise, & que tu sois glaçon.  
@@ -4408,7 +4408,7 @@ De me voir estre braise, & que tu sois glaçon.
 Je viens faire…  
 
     ROBIN.
-Toy faire ? Hé bien fille mauvaise,  
+        Toy faire ? Hé bien fille mauvaise,  
 Il ne tiendra qu'à toy de me faire bien aise ;  
 Ou du moins connoissant que tu m'aymes si peu  
 Souffre glace pour glace, ou me rend feu pour feu.  
@@ -4417,7 +4417,7 @@ Souffre glace pour glace, ou me rend feu pour feu.
 Je viens pour…  
 
     ROBIN.
-Tu viens pour ? Ce n'est pas assez dire ;  
+        Tu viens pour ? Ce n'est pas assez dire ;  
 Viens-tu pour m'obliger, ou viens-tu pour me nuire ?  
 Et puisqu'asseurement dans ce lieu tu viens pour,  
 Dy-moi si c'est pour haine, ou si c'est pour amour.  
@@ -4433,7 +4433,7 @@ Tu te railles⁎, peut-estre, & te mocques de nous,
 Car Ismene…  
 
     ROBIN.
-La Dône [208] a ma foy du dessous [209].  
+        La Dône [208] a ma foy du dessous [209].  
 Elle vient de sortir qui deteste Nicandre,  
 De lui-mesme à lui-mesme elle a dit pis que pendre  
 Il avoit le dessein de luy rompre le cou.  
@@ -4442,7 +4442,7 @@ Il avoit le dessein de luy rompre le cou.
 Ayme-t-il Hipolite ?  
 
     ROBIN.
-Il en est parbleu fou.  
+        Il en est parbleu fou.  
 Quand on parle d'Ismene on le choque, on l'irrite,  
 On le touche on le charme en parlant d'Hipolite,  
 Et ce nom par luy-mesme est si fort répeté…  
@@ -4461,7 +4461,7 @@ HIPOLITE, JACINTE, ROBIN.
 
 
     JACINTE.
-Allons-donc, paresseuse,  
+        Allons-donc, paresseuse,  
 Nicandre est amoureux, comme vous amoureuse ;  
 Et Robin que voila qui soupire pour moy  
 M'en répond corps pour corps, & m'en jure sa foy.  
@@ -4471,7 +4471,7 @@ C'est vous seule qu'il ayme, & qu'il trouve d'aymable.
 En est-il bien certain ?  
 
     ROBIN.
-Ouy, je me donne au Diable.  
+        Ouy, je me donne au Diable.  
 
     HIPOLITE.
 Mais Ismene l'adore, elle veut recouvrer [211]…  
@@ -4484,7 +4484,7 @@ Mais voyez, on diroit que le Ciel nous l'envoye.
 Si tu penses…  
 
     ROBIN.
-Jacinte, il va mourir de joye ;  
+        Jacinte, il va mourir de joye ;  
 Je le sçay de science, & je t'en donne avis ;  
 Jamais nul amoureux n'eut les sens si ravis ;  
 Et tu vas voir.  
@@ -4495,7 +4495,7 @@ Le second NICANDRE, HIPOLITE, JACINTE, ROBIN.
 
 
     LE SECOND NICANDRE.
-Ma lettre à la fin est escrite,  
+        Ma lettre à la fin est escrite,  
 Mais que vois-je, ô bons Dieux ! N'est-ce pas Hipolite ?  
 
     ROBIN.
@@ -4513,7 +4513,7 @@ L'ame émeuë ! Entends-tu ? Sans amour l'auroit-on ?
 Que t'en semble ?  
 
     JACINTE.
-Il le dit d'un assez vilain ton.  
+        Il le dit d'un assez vilain ton.  
 
     HIPOLITE.
 Si d'un cœur qui vous aime on vous fait une offrande…  
@@ -4532,19 +4532,19 @@ Je vous fais par pitié d'equitables reproches.
 Robin !  
 
     ROBIN.
-Je suis penaud⁎ comme un fondeur de cloches [213].  
+        Je suis penaud⁎ comme un fondeur de cloches [213].  
 
     JACINTE.
 Tu disois…  
 
     ROBIN.
-Je disois ; mais je ne dis plus rien.  
+        Je disois ; mais je ne dis plus rien.  
 
     JACINTE.
 Quoy le traistre…  
 
     ROBIN.
-Il est fou, ne le vois-tu pas bien,  
+        Il est fou, ne le vois-tu pas bien,  
 Il fait bon se fier à de semblables drilles [214] ?  
 
     JACINTE.
@@ -4552,7 +4552,7 @@ Est-ce comme cela que l'on traite des filles ?
 Le perfide…  
 
     ROBIN.
-Il est fou, je te l'ay déjà dit.  
+        Il est fou, je te l'ay déjà dit.  
 
     HIPOLITE.
 Ton brutal procedé rend mon cœur interdit⁎…  
@@ -4564,27 +4564,27 @@ Je ne suis dans ce lieu que par vostre moyen,
 Mais aussi…  
 
     HIPOLITE.
-Quoy, mais ?  
+    Quoy, mais ?  
 
     LE SECOND NICANDRE.
-Mais…  
+    Mais…  
 
     ROBIN.
-Mais vous ne valez rien.  
+        Mais vous ne valez rien.  
 
     LE SECOND NICANDRE.
 J'ay de la quereller un sujet raisonnable,  
 Tu sçais…  
 
     ROBIN.
-Que les menteurs sont les enfans du Diable,  
+        Que les menteurs sont les enfans du Diable,  
 Et pour cette raison je vous fais à sçavoir [215]  
 Que Monsieur vostre pere est un pere fort noir,  
 C'est Ismene en ce lieu qui vous a fait conduire  
 Menteur.  
 
     HIPOLITE.
-Point, c'est moi-même & je cherche à lui nuire ;  
+        Point, c'est moi-même & je cherche à lui nuire ;  
 Loin de le déguiser j'en demeure d'accord.  
 
     JACINTE.
@@ -4592,17 +4592,17 @@ Un habile fauteur pour le craindre si fort
 Ma foy !  
 
     HIPOLITE.
-Je t'ay fait prendre, & non pas ton Ismene  
+        Je t'ay fait prendre, & non pas ton Ismene  
 Perfide.  
 
     LE SECOND NICANDRE.
-Elle est trop bonne, & vous estes trop vaine ;  
+        Elle est trop bonne, & vous estes trop vaine ;  
 Mon sort est déplorable, & mon sort seroit doux  
 Si c'estoit mon Ismene aussi bien que c'est vous  
 Méchante.  
 
     JACINTE *à Robin.*
-Qu'il est traistre ! & qu'il a de malice !  
+        Qu'il est traistre ! & qu'il a de malice !  
 
     ROBIN.
 Feu Judas prés de luy n'eut esté qu'un novice ;  
@@ -4615,18 +4615,18 @@ Au plus tard dans trois jours je serois Maistre és Arts.
 Il est sçavant.  
 
     HIPOLITE.
-Dy-moy ce que tu veux resoudre,  
+        Dy-moy ce que tu veux resoudre,  
 Apprend-moy…  
 
     LE SECOND NICANDRE.
-Dans vos mains je pourrois voir la foudre  
+        Dans vos mains je pourrois voir la foudre  
 En redouter la cheute, en sentir les éclats,  
 Et la peur de perir ne m'ébranleroit pas.  
 J'ayme Ismene, je l'ayme, & non pas Hipolite,  
 J'ayme Ismene…  
 
     HIPOLITE.
-C'est trop, ton audace m'irrite,  
+        C'est trop, ton audace m'irrite,  
 Traistre. Tu sçais Jacinte où mon pere m'attend ?  
 
     JACINTE.
@@ -4640,11 +4640,11 @@ ISIDORE, HIPOLITE, ROBIN, Le second NICANDRE, JACINTE.
 
 
     ISIDORE ENTRANT.
-Des forfaicteurs [216] c'est donc icy le centre ?  
+        Des forfaicteurs [216] c'est donc icy le centre ?  
 Nicandre…  
 
     HIPOLITE.
-De l'ingrat le mépris est trop grand,  
+        De l'ingrat le mépris est trop grand,  
 A toute ma tendresse il est indifferend,  
 De son perfide cœur la fierté me ravale,  
 Et vous devez… Mais Dieux j'apperçois ma Rivale,  
@@ -4656,7 +4656,7 @@ ISMENE, EUTROPE, ISIDORE, HIPOLITE, le second NICANDRE, ROBIN, JACINTE, RAGOTIN.
 
 
     ISMENE.
-Infidelle, il est temps de parler.  
+        Infidelle, il est temps de parler.  
 
     HIPOLITE.
 Volage, il n'est plus temps de rien dissimuler.  
@@ -4668,7 +4668,7 @@ S'il s'en peut demesler il n'est pas mal-habile.
 Monsieur…  
 
     ISMENE.
-Tu cherches, traistre, une ruse inutile ;  
+        Tu cherches, traistre, une ruse inutile ;  
 Tu n'abuseras plus ny mon pere, ny moy.  
 
     LE SECOND NICANDRE.
@@ -4676,17 +4676,17 @@ Vostre pere ! Madame, est-ce vous que je voy !
 Est-ce Ismene !  
 
     ROBIN.
-Nenny⁎, c'est une autre. Ah le traistre !  
+        Nenny⁎, c'est une autre. Ah le traistre !  
 
     LE SECOND NICANDRE.
 Est-ce Ismene !  
 
     ISMENE.
-Tu feins de ne pas me connaistre  
+        Tu feins de ne pas me connaistre  
 Lasche.  
 
     ROBIN.
-C'est un fin Merle [217], il sçait bien d'autres tours.  
+        C'est un fin Merle [217], il sçait bien d'autres tours.  
 
     HIPOLITE *à Isidore.*
 Parlez ; souffrirez-vous qu'il luy parle toujours ?  
@@ -4697,48 +4697,48 @@ Tu vois bien que ma fille est passablement pulcre [220] ;
 Sois mon Gener, sinon…  
 
     EUTROPE.
-Mais ma fille a sa foy.  
+        Mais ma fille a sa foy.  
 
     ISMENE.
 L'ay-je pas, volage ?  
 
     LE SECOND NICANDRE.
-Ouy.  
+    Ouy.  
 
     HIPOLITE.
-L'ay-je pas aussi, moy ?  
+        L'ay-je pas aussi, moy ?  
 
     LE SECOND NICANDRE.
 Non.  
 
     HIPOLITE.
-Non traistre ! Oses-tu…  
+    Non traistre ! Oses-tu…  
 
     ISMENE.
-Je sçay qu'elle te touche,  
+        Je sçay qu'elle te touche,  
 Je le sçay.  
 
     LE SECOND NICANDRE.
-Vous ?  
+    Vous ?  
 
     ISMENE.
-Moy.  
+    Moy.  
 
     LE SECOND NICANDRE.
-Vous ?  
+    Vous ?  
 
     ISMENE.
-Je le scay de ta bouche  
+        Je le scay de ta bouche  
 Effronté.  
 
     LE SECOND NICANDRE.
-Vous, Madame ? Ô grands Dieux qu'est-ce cy [221] !  
+        Vous, Madame ? Ô grands Dieux qu'est-ce cy [221] !  
 
     JACINTE.
 Je le scais aussi, moy.  
 
     RAGOTIN.
-Moy je le scais aussi.  
+        Moy je le scais aussi.  
 
     ROBIN.
 Si pas un de ceux là ne vous semble croyable,  
@@ -4746,7 +4746,7 @@ Je le scais aussi, moy, témoin irreprochable,
 Je le scais.  
 
     LE SECOND NICANDRE.
-Quoy Robin, quoy j'aurois consenty…  
+        Quoy Robin, quoy j'aurois consenty…  
 
     ROBIN.
 C'est dire en mots couverts tout le monde a menty.  
@@ -4759,10 +4759,10 @@ J'auray tort si ce lieu loge plus d'un Nicandre.
 Voyons.  
 
     LE SECOND NICANDRE.
-Mais…  
+    Mais…  
 
     ROBIN.
-Mais voyons. Ho Nicandre ! J'ay tort  
+        Mais voyons. Ho Nicandre ! J'ay tort  
 Comme il répond. Nicandre ! Est-ce pas assez fort ?  
 Ho Nicandre ! Écoutez caterreuse [222] cervelle,  
 J'ay tort.  
@@ -4773,7 +4773,7 @@ Le premier NICANDRE, Le 2. NICANDRE, EUTROPE, ISIDORE, HIPOLITE, ISMENE, JACINTE
 
 
     LE PREMIER NICANDRE.
-Qui donc encor [223] est-ce là qui m'appelle ?  
+        Qui donc encor [223] est-ce là qui m'appelle ?  
 
     ROBIN.
 Qui Diable est celuy-cy qui s'en vient droit à nous ?  
@@ -4782,19 +4782,19 @@ Qui Diable est celuy-cy qui s'en vient droit à nous ?
 Que vois-je ?  
 
     LE PREMIER NICANDRE.
-Qu'apperçois-je ?  
+    Qu'apperçois-je ?  
 
     LE SECOND NICANDRE.
-Est-ce vous ?  
+    Est-ce vous ?  
 
     LE PREMIER NICANDRE.
-Est-ce vous ?  
+        Est-ce vous ?  
 
     LE SECOND NICANDRE.
 Quoy mon frere est icy !  
 
     LE PREMIER NICANDRE.
-Quoy, je vous voy paroistre !  
+        Quoy, je vous voy paroistre !  
 
     ROBIN.
 Dites-moy s'il vous plaist qui des deux est mon Maistre.  
@@ -4808,7 +4808,7 @@ Est-ce vous ? Est-ce vous ? Rendez m'en plus instruite,
 Qui des deux…  
 
     LE PREMIER NICANDRE.
-C'est-moy-mesme, ô ma chere Hipolite,  
+        C'est-moy-mesme, ô ma chere Hipolite,  
 C'est moi qui dans l'espoir de me voir vôtre Epoux…  
 
     LE SECOND NICANDRE *à Ismene.*
@@ -4835,7 +4835,7 @@ Que dis-tu de l'avis, dy-moy donc ma petite ?
 Pour moy, j'adore Ismene.  
 
     LE PREMIER NICANDRE.
-Et j'adore Hipolite.  
+        Et j'adore Hipolite.  
 
     LE SECOND NICANDRE.
 Pourrons nous estre à vous, & souffrirez vous bien.  
@@ -4844,7 +4844,7 @@ Pourrons nous estre à vous, & souffrirez vous bien.
 Demandez à mon pere.  
 
     HIPOLITE.
-Et demandez au mien.  
+        Et demandez au mien.  
 
     EUTROPE.
 Puis qu'il est si sincere, il a droit de pretendre  
@@ -4866,20 +4866,20 @@ Tournez-moy les talons, vostre besogne est faite
 Monsieur. Toy que dis-tu ?  
 
     JACINTE.
-Moy ? Ce que tu voudras.  
+        Moy ? Ce que tu voudras.  
 
     ROBIN.
 Je t'ayme bien, & toy ?  
 
     JACINTE.
-Moy ? Je ne te hay pas.  
+        Moy ? Je ne te hay pas.  
 
     ROBIN.
 Je me veux marier aussi bien que mon Maistre,  
 Et toy, dy ?  
 
     JACINTE.
-Dis-tu moy ? Je voudrois déjà l'estre.  
+        Dis-tu moy ? Je voudrois déjà l'estre.  
 
     ROBIN.
 Je te veux, me veux-tu ? Concluons tout icy.  
@@ -4891,10 +4891,10 @@ Ma foy, si tu me veux, je te veux bien aussi.
 Tocque-là [227].  
 
     JACINTE.
-Tien.  
+    Tien.  
 
     ROBIN *aux deux Nicandres.*
-Et vous avant vostre sortie  
+        Et vous avant vostre sortie  
 Allez dans une Chambre y conter vostre vie,  
 Et faites qu'en tous lieux on vous louë en ce point  
 Qu'on vous a crû MENTEURS, & vous ne MENTIEZ POINT.  < FIN. >

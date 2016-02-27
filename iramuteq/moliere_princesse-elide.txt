@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_princesse-elide *id_a01 *act_a *date_1665 *creator_moliere
+**** *book_ *id_a01 *act_a *date_1665 *creator_moliere
 
 -*who_l_aurore
 
@@ -18,7 +18,7 @@ N'est pas un nom à se faire estimer :
 Dans le temps où l'on est belle,
 Rien n'est si beau que d'aimer.
 
-**** *book_moliere_princesse-elide *id_a02 *act_a *date_1665 *creator_moliere
+**** *book_ *id_a02 *act_a *date_1665 *creator_moliere
 
 Pendant que l'Aurore chantait ce Récit, quatre Valets de Chiens étaient couchés sur l'Herbe, dont l'un (sous la figure de Lyciscas représenté par le Sieur de Molière, excellent Acteur, de l'invention duquel étaient les Vers et toute la Pièce) se trouvait au milieu de deux, et un autre à ses pieds : Qui étaient les Sieurs Estival, Don, et Blondel de la Musique du Roi, dont les voix étaient admirables.
 Ceux-ci en se réveillant à l'arrivée de l'Aurore, sitôt qu'elle eut chanté, s'écrièrent en Concert :
@@ -169,7 +169,7 @@ Ho ! ho ! ho ! ho ! ho.
 
 Lyciscas s'étant levé avec toutes les peines du monde, et s'étant mis à crier de toute sa force, plusieurs Cors et Trompes de Chasse se firent entendre, et concertées avec les Violons commencèrent l'air d'une entrée, sur laquelle six Valets de Chiens dansèrent avec beaucoup de justesse et disposition ; reprenant à certaines cadences le son de leurs Cors et Trompes : C'étaient les Sieurs Paysan, Chicanneau, Noblet, Pesan, Bonard, et La Pierre.
 
-**** *book_moliere_princesse-elide *id_I01 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1665 *creator_moliere
 
 Euryale Prince d'Ithaque amoureux de la Princesse d'Élide, et Arbate son Gouverneur, lequel indulgent à la passion du Prince, le loua de son amour au lieu de l'en blâmer, en des termes fort galants.
 
@@ -356,7 +356,7 @@ Et veut (dans mes États ayant reçu le jour)
 Contre tous mes Rivaux appuyer mon amour :
 Quelque argent mis en main pour soutenir ce zèle…
 
-**** *book_moliere_princesse-elide *id_I02 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1665 *creator_moliere
 
 Moron représenté par le Sieur de Molière, arrive, et ayant le souvenir d'un furieux Sanglier, devant lequel il avait fui à la Chasse, demande secours, et rencontrant Euryale et Arbate, se met au milieu d'eux pour plus de sûreté, après leur avoir témoigné sa peur et leur disant cent choses plaisantes sur son peu de bravoure.
 
@@ -524,7 +524,7 @@ De se voir salué de tous ceux du village :
 Baste, quoi qu'il en soit je veux par mes travaux…
 Mais voici la Princesse, et deux de vos Rivaux.
 
-**** *book_moliere_princesse-elide *id_I03 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1665 *creator_moliere
 
 La Princesse d'Élide parut ensuite, avec les Princes de Messène et de Pyle, lesquels firent remarquer en eux des caractères bien différents de celui du Prince d'Ithaque ; et lui cédèrent dans le cœur de la Princesse tous les avantages qu'il pouvait désirer : Cette aimable Princesse ne témoigna pas pourtant que le mérite de ce Prince eût fait aucune impression sur son esprit, et qu'elle l'eût quasi remarqué ; elle témoigna toujours, comme une autre Diane, n'aimer que la Chasse et les Forêts, et lorsque le Prince de Messène voulut lui faire valoir le service qu'il lui avait rendu, en la défaisant d'un fort grand Sanglier qui l'avait attaquée ; elle lui dit que sans rien diminuer de sa reconnaissance, elle trouvait son secours d'autant moins considérable, qu'elle en avait tué toute seule d'aussi furieux, et fût peut-être bien encore venue à bout de celui-ci.
 
@@ -581,7 +581,7 @@ Je rends de tout mon cœur grâce à ce grand secours,
 Et je vais de ce pas au Prince pour lui dire
 Les bontés que pour moi votre amour vous inspire.
 
-**** *book_moliere_princesse-elide *id_I04 *act_I *date_1665 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1665 *creator_moliere
 
 -*who_moron
 Heu ! a-t-on jamais vu de plus farouche esprit ?
@@ -616,7 +616,7 @@ Peut-on savoir, Seigneur, par où votre espérance… ?
 -*who_euryale
 Tu le vas voir, allons, et garde le silence.
 
-**** *book_moliere_princesse-elide *id_Ib01 *act_Ib *date_1665 *creator_moliere
+**** *book_ *id_Ib01 *act_Ib *date_1665 *creator_moliere
 
 -*who_moron
 Jusqu'au revoir ; pour moi je reste ici, et j'ai une petite conversation à faire avec ces arbres et ces rochers.
@@ -636,7 +636,7 @@ Voilà un Écho qui est bouffon ! Hom hom hom,
 ha ha ha ha ha.
 Uh uh uh. Voilà un Écho qui est Bouffon !
 
-**** *book_moliere_princesse-elide *id_Ib02 *act_Ib *date_1665 *creator_moliere
+**** *book_ *id_Ib02 *act_Ib *date_1665 *creator_moliere
 
 -*who_moron
 Ah ! monsieur l'Ours, je suis votre serviteur de tout mon cœur : de grâce épargnez-moi ! je vous assure que je ne vaux rien du tout à manger, je n'ai que la peau et les os, et je vois de certaines gens là-bas qui seraient bien mieux votre affaire.
@@ -653,7 +653,7 @@ Courage, ferme, allons mes amis.
 Bon, poussez fort, encore, ah ! le voilà qui est à terre, c'en est fait il est mort, descendons maintenant pour lui donner cent coups.
 Serviteur, Messieurs, je vous rends grâce de m'avoir délivré de cette bête, maintenant que vous l'avez tuée je m'en vais l'achever, et en triompher avec vous.
 
-**** *book_moliere_princesse-elide *id_II01 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Oui j'aime à demeurer dans ces paisibles lieux,
@@ -731,7 +731,7 @@ Mais enfin toute la terre reconnaît sa puissance, et vous voyez que les Dieux m
 -*who_princesse_elide
 Les croyances publiques sont toujours mêlées d'erreur : Les Dieux ne sont point faits comme se les fait le vulgaire, et c'est leur manquer de respect que de leur attribuer les faiblesses des hommes.
 
-**** *book_moliere_princesse-elide *id_II02 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1665 *creator_moliere
 
 -*who_aglante
 Viens, approche Moron, viens nous aider à défendre l'Amour contre les sentiments de la Princesse.
@@ -761,7 +761,7 @@ Je pense que ce visage est assez passable, et que pour le bel air, Dieu merci, n
 -*who_cynthie
 Sans doute, on aurait tort…
 
-**** *book_moliere_princesse-elide *id_II03 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1665 *creator_moliere
 
 -*who_lycas
 Madame, le Prince votre Père vient vous trouver ici, et conduit avec lui les Princes de Pyle, et d'Ithaque, et celui de Messène.
@@ -770,7 +770,7 @@ Madame, le Prince votre Père vient vous trouver ici, et conduit avec lui les Pr
 Ô Ciel ! que prétend-il faire en me les amenant ?
 Aurait-il résolu ma perte, et voudrait-il bien me forcer au choix de quelqu'un d'eux ?
 
-**** *book_moliere_princesse-elide *id_II04 *act_II *date_1665 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Seigneur, je vous demande la licence de prévenir par deux paroles, la déclaration des pensées que vous pouvez avoir.
@@ -820,7 +820,7 @@ Prenez garde, Madame, l'entreprise est périlleuse, et lorsqu'on veut donner de 
 -*who_princesse_elide
 Ah ! n'appréhendez rien, je vous prie, allons, je vous réponds de moi.
 
-**** *book_moliere_princesse-elide *id_IIb01 *act_IIb *date_1665 *creator_moliere
+**** *book_ *id_IIb01 *act_IIb *date_1665 *creator_moliere
 
 -*who_moron
 Philis demeure ici ?
@@ -892,7 +892,7 @@ Voilà ce que c'est, si je savais chanter j'en ferais bien mieux mes affaires.
 La plupart des Femmes aujourd'hui se laissent prendre par les oreilles : Elles sont cause que tout le monde se mêle de Musique, et l'on ne réussit auprès d'elles, que par les petites chansons, et les petits vers qu'on leur fait entendre.
 Il faut que j'apprenne à chanter pour faire comme les autres, bon, voici justement mon homme.
 
-**** *book_moliere_princesse-elide *id_IIb02 *act_IIb *date_1665 *creator_moliere
+**** *book_ *id_IIb02 *act_IIb *date_1665 *creator_moliere
 
 -*who_satyre
 La, la, la.
@@ -963,7 +963,7 @@ Fa, fa, fa, fa.
 -*who_moron
 Fa toi-même.
 
-**** *book_moliere_princesse-elide *id_III01 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1665 *creator_moliere
 
 -*who_cynthie
 Il est vrai, Madame, que ce jeune Prince a fait voir une adresse non commune, et que l'air dont il a paru a été quelque chose de surprenant.
@@ -972,7 +972,7 @@ Il sort vainqueur de cette Course, mais je doute fort qu'il en sorte avec le mê
 -*who_princesse_elide
 Le voici qui s'entretient avec Moron ; nous saurons un peu de quoi il lui parle : Ne rompons point encore leur entretien, et prenons cette route pour revenir à leur rencontre.
 
-**** *book_moliere_princesse-elide *id_III02 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1665 *creator_moliere
 
 -*who_euryale
 Ah !
@@ -993,7 +993,7 @@ Seigneur, voici la Princesse qui s'est un peu éloignée de sa suite.
 -*who_moron
 Demeurez ferme, au moins, dans le chemin que vous avez pris : Je m'en vais voir ce qu'elle me dira : cependant promenez-vous ici dans ces petites routes sans faire aucun semblant d'avoir envie de la joindre, et si vous l'abordez, demeurez avec elle le moins qu'il vous sera possible.
 
-**** *book_moliere_princesse-elide *id_III03 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Tu as donc familiarité, Moron, avec le Prince d'Ithaque ?
@@ -1060,7 +1060,7 @@ Voyez-vous comme il passe, sans prendre garde à vous ?
 -*who_princesse_elide
 De grâce, Moron, va le faire aviser que je suis ici, et l'oblige à me venir aborder.
 
-**** *book_moliere_princesse-elide *id_III04 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1665 *creator_moliere
 
 -*who_moron
 Seigneur, je vous donne avis que tout va bien : la Princesse souhaite que vous l'abordiez : mais songez bien à continuer votre rôle, et de peur de l'oublier ne soyez pas longtemps avec elle.
@@ -1129,7 +1129,7 @@ C'est avoir une insensibilité bien grande, que de parler comme vous faites.
 -*who_euryale
 Le Ciel ne m'a pas fait d'une autre humeur : mais, Madame, j'interromps votre promenade, et mon respect doit m'avertir que vous aimez la solitude.
 
-**** *book_moliere_princesse-elide *id_III05 *act_III *date_1665 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1665 *creator_moliere
 
 -*who_moron
 Il ne vous en doit rien, Madame, en dureté de cœur.
@@ -1182,7 +1182,7 @@ Non, il n'en fera rien, je le connais, ma peine serait inutile.
 Si faut-il pourtant tenter toute chose, et éprouver si son âme est entièrement insensible.
 Allons, je veux lui parler, et suivre une pensée qui vient de me venir.
 
-**** *book_moliere_princesse-elide *id_IIIb01 *act_IIIb *date_1665 *creator_moliere
+**** *book_ *id_IIIb01 *act_IIIb *date_1665 *creator_moliere
 
 -*who_philis
 Viens, Tircis, laissons-les aller, et me dis un peu ton martyre de la façon que tu sais faire ?
@@ -1198,7 +1198,7 @@ Sans que je touche ton cœur.
 Va, va, c'est déjà quelque chose que de toucher l'oreille, et le temps amène tout.
 Chante-moi cependant quelque plainte nouvelle que tu aies composée pour moi.
 
-**** *book_moliere_princesse-elide *id_IIIb02 *act_IIIb *date_1665 *creator_moliere
+**** *book_ *id_IIIb02 *act_IIIb *date_1665 *creator_moliere
 
 -*who_moron
 Ah ! ah ! je vous y prends, cruelle, vous vous écartez des autres pour ouïr mon rival ?
@@ -1293,7 +1293,7 @@ Je suis votre serviteur, quelque niais.
 Allons, Tircis.
 Viens-t'en me redire à l'écho, ce que tu m'as chanté.
 
-**** *book_moliere_princesse-elide *id_IV01 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Prince, comme jusques ici nous avons fait paraître une conformité de sentiments, et que le Ciel a semblé mettre en nous mêmes attachements pour notre liberté, et même aversion pour l'Amour ; je suis bien aise de vous ouvrir mon cœur, et de vous faire confidence d'un changement dont vous serez surpris.
@@ -1354,7 +1354,7 @@ Pour moi, Madame, je vous sollicite de vos suffrages, pour obtenir celle que je 
 -*who_moron
 Ah digne ! ah brave cœur !
 
-**** *book_moliere_princesse-elide *id_IV02 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Ah !
@@ -1366,7 +1366,7 @@ Il est vrai que le coup est surprenant, et j'avais cru d'abord, que votre strata
 -*who_princesse_elide
 Ah ! ce m'est un dépit à me désespérer, qu'une autre ait l'avantage de soumettre ce cœur que je voulais soumettre.
 
-**** *book_moliere_princesse-elide *id_IV03 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Princesse, j'ai à vous prier d'une chose qu'il faut absolument que vous m'accordiez : Le Prince d'Ithaque vous aime, et veut vous demander au prince mon Père.
@@ -1390,7 +1390,7 @@ Madame, il faut vous obéir, mais je croirais que la conquête d'un tel cœur ne
 -*who_princesse_elide
 Non, non, il n'aura pas la joie de me braver entièrement.
 
-**** *book_moliere_princesse-elide *id_IV04 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1665 *creator_moliere
 
 -*who_aristomene
 Madame, je viens à vos pieds rendre grâce à l'Amour de mes heureux destins, et vous témoigner avec mes transports, le ressentiment où je suis, des bontés surprenantes dont vous daignez favoriser le plus soumis de vos captifs.
@@ -1416,7 +1416,7 @@ Madame, si j'ai été trop prompt à me persuader…
 -*who_princesse_elide
 De grâce, Prince, brisons-là ce discours, et si vous voulez m'obliger, souffrez que je puisse jouir de deux moments de solitude.
 
-**** *book_moliere_princesse-elide *id_IV05 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Ah ! qu'en cette aventure, le Ciel me traite avec une rigueur étrange !
@@ -1448,7 +1448,7 @@ Retirez-vous d'ici, vous dis-je, ou je vous en ferai retirer d'une autre manièr
 -*who_moron
 Ma foi son cœur en a sa provision, et…
 
-**** *book_moliere_princesse-elide *id_IV06 *act_IV *date_1665 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1665 *creator_moliere
 
 -*who_princesse_elide
 De quelle émotion inconnue sens-je mon cœur atteint ! et quelle inquiétude secrète est venue troubler tout d'un coup la tranquillité de mon âme ?
@@ -1463,7 +1463,7 @@ Il n'y a pas de raison à cela : Mais si ce n'est pas de l'amour que ce que je 
 Sors de mon cœur, qui que tu sois, ennemi qui te caches, attaque-moi visiblement, et deviens à mes yeux la plus affreuse bête de tous nos bois, afin que mon dard et mes flèches me puissent défaire de toi.
 Ô vous, admirables personnes, qui par la douceur de vos chants avez l'art d'adoucir les plus fâcheuses inquiétudes, approchez-vous d'ici de grâce, et tâchez de charmer avec votre Musique le chagrin où je suis.
 
-**** *book_moliere_princesse-elide *id_IVb *date_1665 *creator_moliere
+**** *book_ *id_IVb *date_1665 *creator_moliere
 
 Cinquieme Intermède
 
@@ -1518,7 +1518,7 @@ De savoir ce qu'on en doit croire.
 -*who_princesse_elide
 Achevez seules si vous voulez, je ne saurais demeurer en repos, et quelque douceur qu'aient vos chants, ils ne font que redoubler mon inquiétude.
 
-**** *book_moliere_princesse-elide *id_V01 *act_V *date_1665 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1665 *creator_moliere
 
 -*who_moron
 Oui, Seigneur, ce n'est point raillerie, j'en suis ce qu'on appelle disgracié.
@@ -1534,7 +1534,7 @@ Quelque chose, Seigneur, que l'on vienne de vous en dire, je n'ose encore, pour 
 -*who_iphitas
 Prince, n'entrons point dans ces compliments, je trouve en vous de quoi remplir tous les souhaits d'un Père, et si vous avez le cœur de ma fille, il ne vous manque rien.
 
-**** *book_moliere_princesse-elide *id_V02 *act_V *date_1665 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1665 *creator_moliere
 
 -*who_princesse_elide
 Ô Ciel ! que vois-je ici ?
@@ -1649,7 +1649,7 @@ Viens, Moron, c'est ici un jour de paix, et je te remets en grâce avec la Princ
 -*who_moron
 Seigneur, je serai meilleur Courtisan une autre fois, et je me garderai bien de dire ce que je pense.
 
-**** *book_moliere_princesse-elide *id_V03 *act_V *date_1665 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1665 *creator_moliere
 
 -*who_iphitas
 Je crains bien, Princes, que le choix de ma Fille ne soit pas en votre faveur ; mais voilà deux Princesses qui peuvent bien vous consoler de ce petit malheur.
@@ -1657,12 +1657,12 @@ Je crains bien, Princes, que le choix de ma Fille ne soit pas en votre faveur ;
 -*who_aristomene
 Seigneur, nous savons prendre notre parti, et si ces aimables Princesses n'ont point trop de mépris pour les cœurs qu'on a rebutés ; nous pouvons revenir par elles, à l'honneur de votre alliance.
 
-**** *book_moliere_princesse-elide *id_V04 *act_V *date_1665 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1665 *creator_moliere
 
 -*who_philis
 Seigneur, la Déesse Vénus vient d'annoncer partout le changement du cœur de la Princesse : Tous les Pasteurs et toutes les Bergères en témoignent leur joie par des danses et des chansons, et si ce n'est point un spectacle que vous méprisiez, vous allez voir l'allégresse publique se répandre jusques ici.
 
-**** *book_moliere_princesse-elide *id_Vb *date_1665 *creator_moliere
+**** *book_ *id_Vb *date_1665 *creator_moliere
 
 Sixième Intermède
 Usez mieux, ô ! beautés fières !

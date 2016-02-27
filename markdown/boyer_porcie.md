@@ -576,7 +576,7 @@ Vostre trés-humble, et trés
 
 obéïssant serviteur.
 
-BOYER 
+BOYER
 
 LA PORCIE ROMAINE [29] TRAGEDIE
 
@@ -625,10 +625,10 @@ Maxime, à moy.
 ### SCENE SECONDE
 
     MAXIME
-Seigneur,  
+    Seigneur,  
 
     BRUTE
-Voy cette ombre obstinée.  
+        Voy cette ombre obstinée.  
 Mais je ne la voy plus, et mon âme estonnée  
 Sent un trouble secret, quand cette ombre s'enfuit.  
 Sa présence m'anime, et sa fuite me nuit.  
@@ -784,7 +784,7 @@ A qui j'oze exposer Rome, et tout l'Univers.
 Vous vous rendez enfin.  
 
     BRUTE
-Oüy, je me rends Cassie,  
+        Oüy, je me rends Cassie,  
 Je me rends sans rougir en faveur de Porcie ;  
 Et je fus envers elle ingrat, et sans souci,  
 D'avoir voulu combâtre en la voyant icy.  
@@ -900,7 +900,7 @@ Par un char triomphant insolemment traisnée.
 O !Dieux.  
 
     PORCIE
-Me faites-vous un si lasche destin ?  
+        Me faites-vous un si lasche destin ?  
 Voyez quel fut Caton, et quelle fut sa fin [63]:  
 Reconnoissez son sang ; et sçachez que sa fille  
 Ne trahira jamais l'honneur de sa famille.  
@@ -983,7 +983,7 @@ BRUTE entre d'un costé, et CASSIE de l'autre.
 Hé bien, tout est-il prest ?  
 
     CASSIE
-Oüy, Brute, il faut combâtre :  
+        Oüy, Brute, il faut combâtre :  
 Les soldats, que les Dieux semblent vouloir abâtre,  
 Et qu'ils avoient émeu par d'injustes frayeurs,  
 Ont repris par ma voix leurs premières ardeurs [68].  
@@ -1010,13 +1010,13 @@ Par des cris redoublez s'animent au combat.
 On n'attend plus que vous.  
 
     BRUTE
-Allons donc : mais Cassie,  
+        Allons donc : mais Cassie,  
 
     CASSIE
 Quoy ?  
 
     BRUTE
-Je revoy tousjours l'image de Porcie ;  
+        Je revoy tousjours l'image de Porcie ;  
 Tu vois que je l'expose, et que malgré mes voeux [70]  
 Rien ne peut ébransler un coeur si généreux [71].  
 Que n'estes vous, Porcie, un peu moins généreuse,  
@@ -1028,7 +1028,7 @@ N'aurroit pas des frayeurs, qu'il ne peut surmonter.
 Qu'avés vous résolu ?  
 
     BRUTE
-De courir à la gloire,  
+        De courir à la gloire,  
 De servir mon amour, sans souiller ma mémoire ;  
 D'aymer tousjours Porcie, et de la conserver,  
 De respandre mon sang, pour vaincre, et la sauver ;  
@@ -1132,7 +1132,7 @@ Plus j'en sens les douceurs, plus je crains son absence
 Adieu donc, ma Porcie.  
 
     PORCIE 
-Adieu, souvenez-vous,  
+        Adieu, souvenez-vous,  
 Que Brute est tout mon bien, que Brute est mon époux :  
 Et si le Ciel, hélas ! Par un coup trop funeste...  
 Pardonnés des souspirs qui vous diront le reste.  
@@ -1242,10 +1242,10 @@ Pour venir jusqu'à moy doivent passer par luy.
 Va.  
 
     MAXIME
-Mais que dira-t-il ?  
+    Mais que dira-t-il ?  
 
     PORCIE
-Que Maxime est fidelle,  
+        Que Maxime est fidelle,  
 Et qu'il a pour Porcie un véritable zèle ;  
 Que si sa tendre amour blasme ce procédé ;  
 Dis que c'est mon amour, qui te l'a commandé ;  
@@ -1394,13 +1394,13 @@ Qui d'un si grand courage arrachent ces soupirs ;
 J'en prevoy le sujet.  
 
     CASSIE
-Oüy, Brute est mort, Julie.  
+        Oüy, Brute est mort, Julie.  
 
     JULIE
 Dieux !  
 
     CASSIE
-Dans un profond deuil mon Ame ensevelie,  
+        Dans un profond deuil mon Ame ensevelie,  
 Et ces traits languissans [101], que peignent mes douleurs,  
 Te descouvrent assez la perte, et nos malheurs.  
 Il est vray, je sens bien que ma gloire indignée,  
@@ -1472,7 +1472,7 @@ Par mon propre courage, et par la main d'autruy.
 Quoy ? Seigneur.  
 
     CASSIE
-Ne crains point, contente mon envie;  
+        Ne crains point, contente mon envie;  
 Tranche, tranche le fil [108] d'une fâcheuse vie :  
 Obéis sans réplique, et sans examiner  
 Ce que le Ciel apreuve, et ne peut condamner.  
@@ -1630,7 +1630,7 @@ Maxime se peut-il qu'encor je te revoye ?
 Hé ! Bien tout est perdu.  
 
     MAXIME
-Dieux, que me dites-vous !  
+        Dieux, que me dites-vous !  
 Madame, quand le Ciel se déclare pour nous,  
 De grace, cachez-luy cette ingrate tristesse  
 
@@ -1714,10 +1714,10 @@ Son cheval par leur fuite est soudain renversé :
 Il tombe.  
 
     PORCIE.
-Justes Dieux !  
+    Justes Dieux !  
 
     MAXIME
-Mais sans s'estre blessé.  
+        Mais sans s'estre blessé.  
 Philippe voit sa chûte, et sans en voir la suite,  
 Vers le camp de Cassie il se sauve à la fuite [123].  
 Moy pour secourir Brute estant un peu trop loin,  
@@ -1743,7 +1743,7 @@ Cassie espouvanté revient dans ma mémoire.
 Cassie espouvanté !  
 
     PORCIE
-C'est luy, qui fait ma peur ;  
+        C'est luy, qui fait ma peur ;  
 Oüy, c'est luy qui touché d'une fausse terreur,  
 Est venu dans ces lieux portant sur son visage  
 D'un sanglant désespoir l'espouvantable image,  
@@ -1799,7 +1799,7 @@ A suspendu le coup d'un juste désespoir.
 Comment, aprens-moy tout.  
 
     PHILIPE.
-Vous allez tout sçavoir.  
+        Vous allez tout sçavoir.  
 Voyant Brute abatu je courus vers mon Maistre,  
 Mon zèle impétueux voulut soudain paroistre :  
 Mais tous mes sens saisis de douleur et d'effroy  
@@ -1920,7 +1920,7 @@ Madame, Brute arrive, on vient de me l'aprendre?
 Il est proche d'icy.  
 
     PORCIE
-Dieux !Que viens-je d'entendre !  
+        Dieux !Que viens-je d'entendre !  
 Ciel ! Qui dans un moment m'accables de faveurs,  
 Que nos maux sont petits au prix de nos bon-heurs !  
 Mais quel facheux objet revient dans ma mémoire  
@@ -1928,10 +1928,10 @@ Traverser mon repos, et déchirer ma gloire ?
 Julie hélas !  
 
     JULIE
-Madame.  
+    Madame.  
 
     PORCIE.
-O ! Dieux, ce prompt retour  
+        O ! Dieux, ce prompt retour  
 Me deffend tant de joye, et trouble mon Amour [131].  
 
     JULIE
@@ -1957,7 +1957,7 @@ Allons, allons Julie, au devant du vainqueur.
 Je l'aperçoy, Madame.  
 
     PORCIE
-O ! Transports⁎, ah Seigneur !  
+        O ! Transports⁎, ah Seigneur !  
 
 
 ### SCENE QUATRIESME
@@ -1976,7 +1976,7 @@ Et le Ciel par sa mort a remply ses menaces,
 Enfin César triomphe.  
 
     PORCIE
-O sort trop rigoureux.  
+        O sort trop rigoureux.  
 
     BRUTE
 Hélas vostre douleur me rend plus mal-heureux :  
@@ -2129,7 +2129,7 @@ Que l'éclatant honneur de mourir avec vous.
 Consentez à ma mort.  
 
     BRUTE
-Hé ! Bien mourons [142], Madame.  
+        Hé ! Bien mourons [142], Madame.  
 Enfin vostre devoir triomphe de ma flamme :  
 Vostre gloire le veut, il y faut consentir :  
 Ma générosité⁎ ne se peut démentir.  
@@ -2148,7 +2148,7 @@ Voir passer dans ce corps les horreurs de la mort [143]?
 Ah ! Madame  
 
     PORCIE
-Ah ! Seigneur, espargnez ma foiblesse ;  
+        Ah ! Seigneur, espargnez ma foiblesse ;  
 Consommons maintenant cette indigne tendresse.  
 
     BRUTE
@@ -2172,7 +2172,7 @@ Et semble à ce seul but borner tout son courroux.
 Enfin vous estes pris, Seigneur.  
 
     BRUTE
-Voicy Maxime,  
+        Voicy Maxime,  
 De quoy braver Octave, et sauver nostre estime.  
 Mais avant que mourir prévenons son dessein,  
 Et mourons, s'il se peut, les armes à la main.  
@@ -2259,7 +2259,7 @@ Qu'on le cherche par tout.
 ### SCENE DEUXIESME
 
     PORCIE
-Ah ! Laissez-moy mourir  
+        Ah ! Laissez-moy mourir  
 Bourreaux, qui me perdez, loin de me secourir.  
 Cruels, mon Brute, est mort, et je le dois survivre !  
 Vos malignes pitiez m'empeschent de le suivre.  
@@ -2300,7 +2300,7 @@ Monte par mille horreurs au trône des Tirans.
 Luy.  
 
     OCTAVE
-C'est trop, et c'est mal implorer ma clémence,  
+        C'est trop, et c'est mal implorer ma clémence,  
 Enfin tant de mespris lassent ma patience :  
 Honorez ma fortune, et bénissez les dieux,  
 De vous donner pour Maistre un vainqueur glorieux,  
@@ -2425,7 +2425,7 @@ TITE, MAXIME, OCTAVE
 
 
     TITE
-Seigneur, voicy Maxime,  
+        Seigneur, voicy Maxime,  
 Que nostre vigilance a surpris dans son crime,  
 Et qui s'ose vanter du tragique dessein  
 Qu'un execrable zèle avoit mis dans son sein.  
@@ -2523,7 +2523,7 @@ Mais Valère revient.
 ### SCENE DERNIERE
 
     VALERE
-Seigneur Brute et sa femme  
+        Seigneur Brute et sa femme  
 Sont morts, l'un par le fer, et l'autre par la flamme.  
 
     OCTAVE

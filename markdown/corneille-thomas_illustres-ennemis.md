@@ -1,5 +1,5 @@
 ---
-identifier: corneille_illustres  
+identifier: corneille-thomas_illustres-ennemis  
 creator: Corneille, Thomas  
 date: 1657  
 title: Les Illustres ennemis. Comédie  
@@ -467,7 +467,7 @@ Au moins D. Lope eust dû partager la vengeance,
 Mais au deceu [22] d'un frere…  
 
     ENRIQUE
-Ah ! ne me blâmez point,  
+        Ah ! ne me blâmez point,  
 Je sçais que son honneur à mon honneur est joint,  
 Mais quel que soit l'affront qu'en reçoit sa famille,  
 Pour se vanger du pere, il aime trop la fille,  
@@ -506,7 +506,7 @@ Il détruise un espoir trop long-temps écouté.
 Mais il aime sa fille ?  
 
     ENRIQUE
-Ouy, je sçay qu'il l'adore,  
+        Ouy, je sçay qu'il l'adore,  
 Mais je l'ay déja dit, et vous le dis encore,  
 A quoy que cet amour pûst enfin l'obliger⁎  
 Ce sera le servir que de l'en dégager.  
@@ -569,14 +569,14 @@ ALONSE, BLANCHE.
 
 
     ALONSE
-Et bien, Blanche, que fait ton maistre ?  
+        Et bien, Blanche, que fait ton maistre ?  
 
     BLANCHE
 Vous l'eussiez rencontré quelques momens plustost,  
 Tout à l'heure...  
 
     ALONSE
-Il suffit, je le verray tantost.  
+        Il suffit, je le verray tantost.  
 
 
 ### SCENE III.
@@ -587,7 +587,7 @@ JACINTE, BLANCHE.
 Qui parloit avec vous, Blanche ?  
 
     BLANCHE
-Pour quelque affaire  
+        Pour quelque affaire  
 Alonse de Roxas demandoit vostre pere.  
 
     JACINTE
@@ -601,7 +601,7 @@ Et contre un ennemy dont le coeur est si bas...
 Madame, vous pleurez ?  
 
     JACINTE
-Qui ne pleureroit pas ?  
+        Qui ne pleureroit pas ?  
 Souffre⁎ à mon déplaisir⁎ dans d'inutiles larmes  
 La funeste douceur de chercher quelques charmes⁎,  
 Et qu'au defaut du sang qu'exigent nos malheurs,  
@@ -728,7 +728,7 @@ Purge l'indignité qu'il avoit [34] contractée.
 Mais quand l'âge s'oppose...  
 
     JACINTE
-Ah, cessez d'y songer,  
+        Ah, cessez d'y songer,  
 Pour vanger une injure il faut la partager,  
 Et l'on voit rarement qu'un vieillard qu'on affronte  
 Sur un autre qu'un fils puisse épandre sa honte.  
@@ -741,7 +741,7 @@ Sans doute qu'il le peut, mais que sert s'y penser,
 D. Alvar n'estant plus...  
 
     D. LOPE
-Ah ! permettez de grace⁎  
+        Ah ! permettez de grace⁎  
 Que de ce frere mort j'aille tenir la place,  
 Et que m'offrant pour fils à D. Sanche outragé,  
 Je tâche à rendre ainsi son malheur partagé.  
@@ -783,7 +783,7 @@ Quoy, vous refuseriez un coeur qui vous adore ?
 Quoy, je pourrois souffrir⁎ ce qui me deshonore ?  
 
     D. LOPE
-J'asseure vostre honneur, et c'est là vous aimer.  
+        J'asseure vostre honneur, et c'est là vous aimer.  
 
     JACINTE
 Je conserve le vostre, et c'est vous estimer.  
@@ -805,7 +805,7 @@ Mais ma raison s'égare, et ce coeur trop sincere...
 Madame.  
 
     JACINTE
-Qu'est-ce Blanche ?  
+        Qu'est-ce Blanche ?  
 
     BLANCHE
 Alonse et vostre pere...  
@@ -841,7 +841,7 @@ Il dûst moins s'emporter, mais l'offence est receuë.
 Et de grace⁎, son nom ?  
 
     ALONSE
-Quand vous m'aurez promis  
+        Quand vous m'aurez promis  
 D'accepter un accord qui vous doit rendre amis.  
 
     D. SANCHE
@@ -965,7 +965,7 @@ Croyez-vous que par là nostre honte s'efface ?
 Ne perdez point de temps.  
 
     D. SANCHE
-Allons voir nos amis,  
+        Allons voir nos amis,  
 Et sçachons quel accord me peut estre permis.  
 
 
@@ -978,7 +978,7 @@ Prenez ce temps, D. Lope, et de peur qu'on me blâme,
 Si son retour trop prompt...  
 
     D. LOPE
-Je le prendray, Madame,  
+        Je le prendray, Madame,  
 Adieu, mais prenez garde au serment que je fais,  
 Je vous quitte aujourd'huy pour ne vous voir [39] jamais.  
 Vous engagez ailleurs la foy⁎ qui m'est promise,  
@@ -1026,7 +1026,7 @@ N'avez vous pas promis de luy donner la main ?
 Je le feray sans doute.  
 
     D. LOPE
-Et vous serez sa femme ?  
+        Et vous serez sa femme ?  
 
     JACINTE
 Moy ! cette lâcheté pourroit m'entrer dans l'ame ?  
@@ -1049,7 +1049,7 @@ Vange avec mon honneur le repos de ma vie.
 Estes-vous satisfait ?  
 
     D. LOPE
-Helas ! si je le suis,  
+        Helas ! si je le suis,  
 Vous mesme jugez-en, jugez si je le puis.  
 Par luy seul vostre honneur à l'outrage est en bute,  
 Et quoy que contre luy vostre haine execute,  
@@ -1070,13 +1070,13 @@ Que je me souviendray de ce que je vous doy.
 Ah, Madame, adjoûtez...  
 
     JACINTE
-Je n'ay plus rien à dire.  
+        Je n'ay plus rien à dire.  
 
     D. LOPE
 Que mon Rival...  
 
     JACINTE
-Sortez, ou bien je me retire.  
+        Sortez, ou bien je me retire.  
 
     D. LOPE
 Rigoureuse vertu que l'on doit admirer !  
@@ -1254,10 +1254,10 @@ Mais puis-je demander quel estoit cet époux ?
 Le voulez-vous sçavoir ? vous, D. Lope.  
 
     D. LOPE
-Moy ?  
+    Moy ?  
 
     JACINTE
-Vous.  
+        Vous.  
 
     D. LOPE
 Helas ! à ce discours que faut-il que je pense ?  
@@ -1274,7 +1274,7 @@ Sur vous d'un coup si lâche il fait tomber le blâme,
 Et par vostre ordre seul...  
 
     D. LOPE
-Le croyez-vous, Madame ?  
+        Le croyez-vous, Madame ?  
 
     JACINTE
 Vous voir et vous parler sans faire agir mon bras,  
@@ -1387,7 +1387,7 @@ JACINTE, CASSANDRE, FLORE, BLANCHE.
 
 
     CASSANDRE
-C'est vous servir avec trop de rigueur  
+        C'est vous servir avec trop de rigueur  
 Du pouvoir que l'amour vous donne sur son coeur.  
 
     JACINTE
@@ -1484,10 +1484,10 @@ Fit suivre son depart du retour de mes freres,
 Ah !  
 
     JACINTE
-Si par ce recit...  
+    Si par ce recit...  
 
     CASSANDRE
-Achevons, ce n'est rien.  
+        Achevons, ce n'est rien.  
 Jugez par ce retour quel malheur fut le mien.  
 A me tyranniser leur amitié consiste,  
 Un party se presente, ils pressent, je resiste,  
@@ -1504,7 +1504,7 @@ Et la mer de tous deux fut l'injuste tombeau.
 Ah Dieux !  
 
     JACINTE
-Vostre douleur semble toûjours s'accroistre.  
+        Vostre douleur semble toûjours s'accroistre.  
 
     CASSANDRE
 Helas ! à tous momens je croy le voir paroistre,  
@@ -1516,7 +1516,7 @@ Approchez-moy d'un siege, et souffrez⁎ qu'aux abois
 Ma flame...  
 
     JACINTE
-La douleur luy suffoque la voix,  
+        La douleur luy suffoque la voix,  
 Flore vient de sortir, quel conseil⁎ dois-je prendre ?  
 
 
@@ -1528,42 +1528,42 @@ JACINTE, CASSANDRE, FLORE, BLANCHE.
 Flore, et viste.  
 
     CASSANDRE*comme en pâmoyson.* 
-Ah ! pardon, chere Ombre.  
+    Ah ! pardon, chere Ombre.  
 
     JACINTE
-Voy, Cassandre...  
+        Voy, Cassandre...  
 
     FLORE
 Ah ! Madame.  
 
     JACINTE
-Qu'as-tu ?  
+    Qu'as-tu ?  
 
     FLORE
-Son amant...  
+    Son amant...  
 
     JACINTE
-Qui ? Fernand ?  
+        Qui ? Fernand ?  
 
     FLORE
 Non, mais par un destin tout à fait surprenant,  
 Celuy qu'elle croit mort...  
 
     JACINTE
-Et bien ?  
+    Et bien ?  
 
     FLORE
-Est là, qui presse...  
+        Est là, qui presse...  
 
     JACINTE
 Que dis-tu ?  
 
     FLORE
-Qu'il demande à revoir sa maistresse,  
+        Qu'il demande à revoir sa maistresse,  
 Mais le voicy luy-mesme, il entre.  
 
     JACINTE
-Ah, justes Dieux !  
+        Ah, justes Dieux !  
 C'est mon frere.  
 
 
@@ -1572,7 +1572,7 @@ D. ALVAR, JACINTE, CASSANDRE, FLORE, BLANCHE.
 
 
     D. ALVAR
-Ah, ma soeur, qui vous met en ces lieux ?  
+        Ah, ma soeur, qui vous met en ces lieux ?  
 Vous trouver à Madrid, et vous croire à Tolede !  
 
     JACINTE
@@ -1606,7 +1606,7 @@ Et que veuve de toy je me suis mariée ?
 Que dit-elle, ma soeur ?  
 
     JACINTE
-Elle revient à soy.  
+        Elle revient à soy.  
 
     CASSANDRE
 Jacinte, helas ! où suis-je, et qu'est-ce que je voy ?  
@@ -1615,12 +1615,12 @@ Jacinte, helas ! où suis-je, et qu'est-ce que je voy ?
 Reprenez vos esprits.  
 
     CASSANDRE
-Et les puis-je reprendre  
+        Et les puis-je reprendre  
 Si je voy ce qu'enfin je ne sçaurois comprendre ?  
 D. Alvar vivroit-il ?  
 
     D. ALVAR
-Apprenez-moy son sort,  
+        Apprenez-moy son sort,  
 Vous le sçavez vous seule, est-il vivant ou mort ?  
 Je sçay que sur un banc échapé du naufrage,  
 Eschapé des rigueurs d'un étroit esclavage,  
@@ -1629,20 +1629,20 @@ Mais vivroit il encor s'il n'a plus vostre amour ?
 Parlez, Madame.  
 
     CASSANDRE
-Helas !  
+    Helas !  
 
     D. ALVAR
-Soûpirer et se taire ?  
+        Soûpirer et se taire ?  
 Ah ! ma sœur.  
 
     CASSANDRE
-Que dit-il ? D. Alvar vostre frere ?  
+        Que dit-il ? D. Alvar vostre frere ?  
 
     JACINTE
 Ouy, vous voyez ce frere...  
 
     D. ALVAR
-Ah ! c'est trop me géner,  
+        Ah ! c'est trop me géner,  
 Dites-moy ce qu'enfin je n'ose deviner.  
 J'eus tort de vous quitter, vous seriez-vous vangée,  
 Un autre est-il heureux, estes vous engagée ?  
@@ -1655,7 +1655,7 @@ Mais le puis-je nier s'il n'est rien de plus vray ?
 Quoy, plus d'espoir pour moy ?  
 
     CASSANDRE
-La parole est donnée,  
+        La parole est donnée,  
 Et ma main dans deux jours acheve l'hymenée.  
 
     D. ALVAR
@@ -1668,14 +1668,14 @@ Ce terme est peu de chose à qui cherit l'honneur.
 Et vous m'avez aimé ?  
 
     CASSANDRE
-Mon heur⁎ seroit extrême  
+        Mon heur⁎ seroit extrême  
 D'oser dire, j'aimay, sans pouvoir dire, j'aime.  
 
     D. ALVAR
 Ah, s'il vous reste encor...  
 
     CASSANDRE
-Ne me demandez rien,  
+        Ne me demandez rien,  
 Je sçay ce que se doit un coeur comme le mien.  
 Tant que vostre retour flatta⁎ mon esperance,  
 En vain l'on essaya d'ébransler ma constance.  
@@ -1702,14 +1702,14 @@ Ne pouvant rien pour vous, je ne dois rien entendre⁎,
 Je ne vous verray plus.  
 
     D. ALVAR
-Comment donc vous quitter ?  
+        Comment donc vous quitter ?  
 
     CASSANDRE
 Le peril croist toûjours, c'est trop vous écouter,  
 Je me retire.  
 
     D. ALVAR
-Helas ! ma soeur, quelle injustice !  
+        Helas ! ma soeur, quelle injustice !  
 C'est donc ainsi qu'au port il faut que je perisse.  
 Ah, que ne suis-je mort, ou pourquoy l'a-t'on crû ?  
 
@@ -1720,7 +1720,7 @@ Mon pere sur ce bruit⁎ voulut quitter Tolede,
 Esperant qu'à Madrid...  
 
     D. ALVAR
-Ah, puisqu'il me croit mort,  
+        Ah, puisqu'il me croit mort,  
 Promettez-moy, ma soeur, de luy cacher mon sort ;  
 Car enfin si le Ciel s'obstine à me poursuivre, [71]  
 Mon espoir estant mort je ne veux point revivre.  
@@ -1779,11 +1779,11 @@ Le Ciel plus à propos n'eust pû vous rendre un fils,
 D. Alvar est vivant.  
 
     D. SANCHE
-Quoy, mon fils, D. Ramire,  
+        Quoy, mon fils, D. Ramire,  
 Mon fils seroit vivant ?  
 
     D. RAMIRE.
-Ouy, D. Alvar respire,  
+        Ouy, D. Alvar respire,  
 A deux cens pas d'icy je viens de le quitter.  
 
     D. SANCHE
@@ -1819,7 +1819,7 @@ Ce malheur dont le bruit⁎ a pû si-tost [73] s'épandre.
 Mais ignorant l'autheur...  
 
     D. SANCHE
-Il l'apprendra de moy  
+        Il l'apprendra de moy  
 Quand sur un tel secret j'auray receu sa foy⁎.  
 Car [74] enfin pour punir une action si noire,  
 Si j'employois un fils, je trahirois sa gloire⁎,  
@@ -1842,7 +1842,7 @@ D. SANCHE, D. RAMIRE, JACINTE, BLANCHE.
 
 
     D. SANCHE
-Ah ! ma fille, à la fin je respire,  
+        Ah ! ma fille, à la fin je respire,  
 Et dans l'heureux succez qui flate⁎ mes desirs,  
 Tu peux donner relâche⁎ à tes tristes soûpirs.  
 Ta vertu s'est montrée entiere, pure, pleine,  
@@ -1955,7 +1955,7 @@ Ainsi, si vous cessiez de vous estre contraire,
 Vous n'auriez pas à craindre...  
 
     CASSANDRE
-Ah Flore, que dis-tu ?  
+        Ah Flore, que dis-tu ?  
 
     FLORE
 Que tout vostre heur⁎ dépend d'un peu moins de vertu.  
@@ -1974,7 +1974,7 @@ Qu'aux dépens de ma foy⁎ mon lâche coeur se donne,
 Que je romps...  
 
     FLORE
-Le voicy, souffrez⁎-luy quelque espoir.  
+        Le voicy, souffrez⁎-luy quelque espoir.  
 
     CASSANDRE
 Non, Flore, éloignons-nous, je ne veux point le voir.  
@@ -2088,7 +2088,7 @@ Je combats avec peine et ne vaincs qu'à regret.
 Vous me quittez, Madame ?  
 
     CASSANDRE
-Il y va de ma gloire⁎.  
+        Il y va de ma gloire⁎.  
 
     D. ALVAR
 Et d'un amour si pur vous perdrez la memoire ?  
@@ -2097,14 +2097,14 @@ Et d'un amour si pur vous perdrez la memoire ?
 J'y feray mon pouvoir.  
 
     D. ALVAR
-Oyez donc jusqu'au bout,  
+        Oyez donc jusqu'au bout,  
 A quel point ...  
 
     CASSANDRE
-Non, c'est trop.  
+    Non, c'est trop.  
 
     D. ALVAR
-Je vous suivray par tout,  
+        Je vous suivray par tout,  
 Et si vous me quittez, il n'est respect ny crainte  
 Qui m'empesche chez vous d'aller porter ma plainte.  
 
@@ -2169,26 +2169,26 @@ En vain pour l'oublier il se fait violence.
 Donc je puis...  
 
     CASSANDRE
-N'en tirez aucune consequence.  
+        N'en tirez aucune consequence.  
 
     D. ALVAR
 Esperer que peut-estre...  
 
     CASSANDRE
-Injuste et vain espoir !  
+        Injuste et vain espoir !  
 
     D. ALVAR
 Mon amour...  
 
     CASSANDRE
-Ne pourra corrompre mon devoir,  
+        Ne pourra corrompre mon devoir,  
 Et plustost que...  
 
     FLORE *montrant ENRIQUE qui paroist* 
-Madame.  
+    Madame.  
 
     CASSANDRE
-O disgrace impréveuë !  
+        O disgrace impréveuë !  
 Empeschez qu'on me suive, ou bien je suis perduë.  
 
 
@@ -2203,18 +2203,18 @@ Si...
     D. ALVAR *coupant chemin à ENRIQUE
   
 qu'il voit se preparer à suivre Cassandre.* 
-Vous m'obligerez⁎ de changer de dessein⁎,  
+        Vous m'obligerez⁎ de changer de dessein⁎,  
 Cette Dame me touche.  
 
     ENRIQUE
-Et plus que vous peut-estre  
+        Et plus que vous peut-estre  
 Moy-mesme elle me touche, et je la veux cognoistre⁎.  
 
     D. ALVAR
 J'y pourray mettre obstacle.  
 
     ENRIQUE*mettant l'épée à la main.* 
-Ah Dieu, me menacer !  
+        Ah Dieu, me menacer !  
 Voicy, voicy par où je le sçauray forcer [82].  
 
     D. ALVAR
@@ -2223,7 +2223,7 @@ Vous reculez pourtant.
     CASSANDRE*paroissant apres que D. ALVAR
   
 a fait reculer ENRIQUE hors du Theatre* 
-Helas ! que dois-je faire ?  
+        Helas ! que dois-je faire ?  
 Quel funeste combat d'un amant et d'un frere !  
 
     FLORE
@@ -2234,7 +2234,7 @@ Ce quartier est desert, D. Alvar malheureux,
 Et la nuit qui survient...  
 
     FLORE
-Retirons nous, Madame.  
+        Retirons nous, Madame.  
 
     CASSANDRE
 Que de troubles⁎ divers s'élevent dans mon ame !  
@@ -2250,13 +2250,13 @@ D. LOPE, CASSANDRE, FLORE.
 
 
     D. LOPE
-Ah, ma soeur, la funeste nouvelle !  
+        Ah, ma soeur, la funeste nouvelle !  
 
     CASSANDRE
 Qu'est-ce, mon frere ?  
 
     D. LOPE
-Alonse est un amy fidelle,  
+        Alonse est un amy fidelle,  
 Et cette trahison dont j'osois murmurer,  
 M'asseuroit le seul bien que je puis esperer ;  
 Mais jugez quel espoir me doit rester encore  
@@ -2279,30 +2279,30 @@ D. LOPE, D. ALVAR, Trois BRAVES⁎ le poursuivant.
 
 
     1. BRAVE⁎
-Ta mort suivra la sienne.  
+        Ta mort suivra la sienne.  
 
     D. ALVAR
 Que ne l'empeschiez-vous, comme je fais [83] la mienne,  
 Lâches ?  
 
     D. LOPE
-Quoy, trois contre un ! donnons [84], je suis à vous,  
+        Quoy, trois contre un ! donnons [84], je suis à vous,  
 Mon cavalier, courage.  
 
     2. BRAVE⁎
-O Dieu, les rudes coups !  
+        O Dieu, les rudes coups !  
 
     3. BRAVE⁎
 Ah ! D. Lope...  
 
     D. LOPE
-Mon nom dans la bouche d'un lâche ?  
+        Mon nom dans la bouche d'un lâche ?  
 
     3. BRAVE⁎
 Sçachez...  
 
     D. LOPE
-J'ay déja sçeu ce qu'il faut que je sçache.  
+        J'ay déja sçeu ce qu'il faut que je sçache.  
 
     2. BRAVE⁎
 Craignant quelque disgrace, évitons sa fureur.  
@@ -2320,7 +2320,7 @@ Sans vous ma resistance estoit vaine contre eux,
 Vous seul par un secours⁎...  
 
     D. LOPE
-Espargnez-moy, de grace⁎,  
+        Espargnez-moy, de grace⁎,  
 J'ay fait ce que vous mesme eussiez fait en ma place.  
 
     D. ALVAR
@@ -2339,7 +2339,7 @@ Je sçauray vous défendre, ou perir avec vous.
 Mais sans doute on vous cherche.  
 
     D. ALVAR
-O malheur redoutable !  
+        O malheur redoutable !  
 
 
 ### SCENE X.
@@ -2351,16 +2351,16 @@ Voyez nos soins⁎, D. Lope, à trouver un coupable,
 Enrique, helas !  
 
     D. LOPE
-Et bien ?  
+    Et bien ?  
 
     D. LOUIS
-Vient d'estre assassiné.  
+        Vient d'estre assassiné.  
 
     D. LOPE
 Enrique !  
 
     D. LOUIS
-Et l'assassin par icy détourné,  
+        Et l'assassin par icy détourné,  
 Tâchant de garantir sa teste par sa fuitte,  
 Attire sur ses pas nostre juste poursuitte,  
 On l'a veu reculer les armes à la main.  
@@ -2375,15 +2375,15 @@ D. LOPE, D. ALVAR.
 
 
     D. ALVAR
-Et vous devant la vie,  
+        Et vous devant la vie,  
 Ce n'estoit pas assez...  
 
     D. LOPE
-Brisons-là, je vous prie.  
+        Brisons-là, je vous prie.  
 Sçavez-vous qui je suis ?  
 
     D. ALVAR
-C'estoit pour le sçavoir  
+        C'estoit pour le sçavoir  
 Que je vous demandois à vous parler ce soir.  
 
     D. LOPE
@@ -2393,7 +2393,7 @@ Sçavez-vous contre qui je viens de vous defendre ?
 Non.  
 
     D. LOPE
-Sçavez-vous quel sang vous avez sçeu répandre ?  
+        Sçavez-vous quel sang vous avez sçeu répandre ?  
 
     D. ALVAR
 Aussi peu, seulement vous répondray-je bien  
@@ -2414,27 +2414,27 @@ Gardez bien-tost de prendre un sentiment contraire.
 Pourquoy ?  
 
     D. LOPE
-Si je vous dis que le mort est mon frere ?  
+        Si je vous dis que le mort est mon frere ?  
 
     D. ALVAR
 Vostre frere !  
 
     D. LOPE
-Ouy, mon frere, et vous pouvez juger  
+        Ouy, mon frere, et vous pouvez juger  
 Si je puis vous deffendre ayant à le vanger.  
 
     D. ALVAR
 Mais vous m'avez promis...  
 
     D. LOPE
-La promesse est frivole,  
+        La promesse est frivole,  
 Jamais contre soy-mesme on ne donne parole.  
 
     D. ALVAR
 Que pretendez-vous donc ?  
 
     D. LOPE
-Monstrer par vostre mort  
+        Monstrer par vostre mort  
 Que le devoir du sang est toûjours le plus fort.  
 
     D. ALVAR
@@ -2489,7 +2489,7 @@ Aussi l'éloignement est pour moy necessaire.
 Quoy, vous pourriez me fuir ?  
 
     D. ALVAR
-Je fuis avec éclat,  
+        Je fuis avec éclat,  
 Quand j'évite en fuyant le peril d'estre ingrat.  
 
     D. LOPE
@@ -2497,13 +2497,13 @@ Vous me verrez pousser ma vangeance à l'extrême,
 Je vous suivray par tout.  
 
     D. ALVAR
-Je vous fuiray de mesme.  
+        Je vous fuiray de mesme.  
 
     D. LOPE
 Je sçauray vous chercher.  
 
     D. ALVAR
-Et moy vous éviter.  
+        Et moy vous éviter.  
 
     D. LOPE
 Quoy, je ne tâche icy que de vous irriter,  
@@ -2530,10 +2530,10 @@ Vous m'avez obligé⁎, je dois m'en souvenir.
 Nous nous verrons pourtant.  
 
     D. ALVAR
-Jamais.  
+    Jamais.  
 
     D. LOPE
-Et ma poursuitte ?  
+        Et ma poursuitte ?  
 
     D. ALVAR
 Ne m'en mettray-je pas à couvert par la fuitte ?  
@@ -2543,7 +2543,7 @@ Peut-estre, mais enfin si nous nous rencontrons
 Il faudra lors combattre. [87]  
 
     D. ALVAR
-Et bien nous combattrons.  
+        Et bien nous combattrons.  
 
 
 ## ACTE IV.
@@ -2695,7 +2695,7 @@ D. LOPE, D. ALVAR.
 Me recognoissez-vous ?  
 
     D. ALVAR
-Je vous allois chercher,  
+        Je vous allois chercher,  
 Et quelque rigoureux que mon destin se montre,  
 Je luy suis obligé⁎ d'une telle rencontre.  
 
@@ -2729,7 +2729,7 @@ La honte d'éclater contre un indigne objet ?
 Ce discours est obscur.  
 
     D. ALVAR
-Pour vous le faire entendre⁎  
+        Pour vous le faire entendre⁎  
 Oyez par un billet ce que je viens d'apprendre.  
 Un injuste ennemy par un noir attentat⁎,  
 Envieux de ma gloire⁎, en a terny l'éclat,  
@@ -2740,7 +2740,7 @@ On m'en donne l'advis, voila ce qui m'améne.
 Et que pensez-vous faire ?  
 
     D. ALVAR
-En pouvez-vous douter,  
+        En pouvez-vous douter,  
 Et dans de tels malheurs a-t'on à consulter ?  
 Je ne balance⁎ point, quelle que soit l'offence,  
 Tout mon sang indigné m'en demande vangeance,  
@@ -2799,7 +2799,7 @@ Tient pour moy dans ce coeur la haine suspenduë,
 Souffrez⁎ qu'impatient de m'acquitter vers vous,  
 D'un amy si parfait j'embrasse⁎ les genoux.  
 Rendrois-je un moindre hommage à qui je dois la vie ?  
-Mais on veut vous parler, ou bien l'on nous épie.  
+        Mais on veut vous parler, ou bien l'on nous épie.  
 
 
 ### SCENE III.
@@ -2810,34 +2810,34 @@ D. LOPE, D. ALVAR, BLANCHE.
 Ah ! Blanche.  
 
     BLANCHE
-Qu'à propos je vous ay recognû !  
+        Qu'à propos je vous ay recognû !  
 L'on m'envoyoit chez vous.  
 
     D. LOPE
-Quoy, qu'est-il survenu ?  
+        Quoy, qu'est-il survenu ?  
 
     BLANCHE
 Venez, on vous attend.  
 
     D. LOPE
-Moy, Blanche ?  
+    Moy, Blanche ?  
 
     BLANCHE
-Ouy, ma maitresse  
+        Ouy, ma maitresse  
 Veut resoudre avec vous une affaire qui presse.  
 
     D. LOPE
 Que je crains...  
 
     BLANCHE
-Craignez tout d'un couroux⁎ déguisé.  
+        Craignez tout d'un couroux⁎ déguisé.  
 
     D. LOPE
 Sans doute le vieillard n'est point desabusé,  
 C'est ce qu'on veut m'apprendre ?  
 
     BLANCHE
-Il est vray qu'il s'emporte.  
+        Il est vray qu'il s'emporte.  
 
     D. LOPE
 C'est assez, je te suy, va m'attendre à la porte.  
@@ -2857,7 +2857,7 @@ D'autre que d'une fille il m'auroit fait ombrage,
 Vous estes tout resveur.  
 
     D. LOPE
-Peut-estre en ay-je lieu,  
+        Peut-estre en ay-je lieu,  
 Mais enfin il est temps que je vous dise adieu.  
 
     D. ALVAR
@@ -2874,7 +2874,7 @@ J'ay receu rendez-vous, et c'est ce qui me gesne.
 La faveur vous déplaist ?  
 
     D. LOPE
-J'aime et je suis aimé,  
+        J'aime et je suis aimé,  
 Mais un pere fâcheux⁎ tient mon coeur alarmé,  
 Et contre mon espoir cette faveur offerte  
 Est moins faveur pour moy que l'arrest de ma perte :  
@@ -2894,10 +2894,10 @@ Mais je vous quitte enfin, c'est trop la faire attendre.
 Je vous escorteray.  
 
     D. LOPE
-Vous ?  
+    Vous ?  
 
     D. ALVAR
-Quoy, vous en deffendre !  
+        Quoy, vous en deffendre !  
 Craignez-vous que ce bras ne vous manque au besoin⁎ ?  
 
     D. LOPE
@@ -2906,13 +2906,13 @@ Et je dois ce respect à l'objet de ma flame,
 De...  
 
     D. ALVAR
-Vous abandonner c'est me couvrir de blâme,  
+        Vous abandonner c'est me couvrir de blâme,  
 Et mon coeur est pour vous injuste au dernier point  
 S'il vous souffre⁎ un peril qu'il ne partage point.  
 Non, non, je vous suivray.  
 
     D. LOPE
-Vous ne prenez pas garde  
+        Vous ne prenez pas garde  
 A ce qu'en ce projet vostre amitié hazarde,  
 Et que dans ma disgrace oser vous engager,  
 C'est vous mettre en estat de ne vous point vanger,  
@@ -2923,15 +2923,15 @@ Sur l'occasion seule un grand coeur se mesure.
 Allons, nous perdons temps.  
 
     D. LOPE
-Mais...  
+    Mais...  
 
     D. ALVAR
-C'est trop contester,  
+        C'est trop contester,  
 Sçachant ce que je sçay je ne puis vous quitter.  
 Sur tout, je suis discret.  
 
     D. LOPE
-Je n'ay plus rien à dire,  
+        Je n'ay plus rien à dire,  
 Mais je vous devray trop, et mon coeur en soûpire,  
 Puisqu'apres cet accord que l'honneur rend permis,  
 Ce mesme honneur nous force à cesser d'estre amis.  
@@ -2949,14 +2949,14 @@ D. LOPE, D. ALVAR, BLANCHE.
 
 
     D. LOPE
-Blanche.  
+    Blanche.  
 
     BLANCHE
-Entrez et sans bruit⁎,  
+        Entrez et sans bruit⁎,  
 De peur que...mais que vois-je ?  
 
     D. LOPE
-Un amy qui me suit,  
+        Un amy qui me suit,  
 Ne crains rien, sa vertu dans mon sort l'interesse.  
 
     BLANCHE
@@ -2968,7 +2968,7 @@ Amy, j'en use [95] mal de vous laisser icy,
 Seul, de nuit, sans clarté, mais...  
 
     D. ALVAR
-Cette excuse est vaine,  
+        Cette excuse est vaine,  
 Un desir curieux n'est pas ce qui m'améne,  
 Je vous attens, allez, et ne m'oubliez pas  
 Si vous avez besoin du secours⁎ de mon bras.  
@@ -3003,18 +3003,18 @@ D. SANCHE, D. ALVAR.
 
 
     D. SANCHE
-Un bruit⁎ sourd vers la porte entendu⁎,  
+        Un bruit⁎ sourd vers la porte entendu⁎,  
 Dans l'attente d'un fils à mes souhaits si chere...  
 Mais ne le vois-je pas ? Ah, mon fils !  
 
     D. ALVAR
-Ah, mon pere.  
+        Ah, mon pere.  
 
     D. SANCHE
 Je puis donc te revoir ?  
 
     D. ALVAR
-C'est donc vous que je voy ?  
+        C'est donc vous que je voy ?  
 
     D. SANCHE
 Ah, qu'avecque raison tu doutes si c'est moy !  
@@ -3041,7 +3041,7 @@ S'il luy faut une vie, on m'en a répondu,
 Il perira, le traistre.  
 
     D. ALVAR
-Ah, que voulez-vous faire ?  
+        Ah, que voulez-vous faire ?  
 
     D. SANCHE
 Te remettre en estat de m'advouër pour pere.  
@@ -3051,7 +3051,7 @@ Me reserveriez-vous à cette lâcheté,
 De souffrir⁎...  
 
     D. SANCHE
-Il aura ce qu'il a merité.  
+        Il aura ce qu'il a merité.  
 Où l'offence est indigne et basse et lâche et noire  
 Tout ce qui la repare est toûjours plein de gloire⁎,  
 Fer, poison, tout est beau, quand il n'est point douteux,  
@@ -3069,19 +3069,19 @@ Si tu le veux sçavoir, apprens-le de ta soeur.
 Où courez vous, mon pere ?  
 
     D. SANCHE
-Il faut que je l'appelle.  
+        Il faut que je l'appelle.  
 
     D. ALVAR
 Pensez vous...  
 
     D. SANCHE
-Ouy, mon fils, tu sçauras mieux tout d'elle.  
+        Ouy, mon fils, tu sçauras mieux tout d'elle.  
 
     D. ALVAR
 Peut-estre...  
 
     D. SANCHE
-Je l'améne icy dans un moment.  
+        Je l'améne icy dans un moment.  
 
     D. ALVAR *seul*
 Puis-je encor me cognoistre⁎ en cet évenement ?  
@@ -3109,14 +3109,14 @@ Amy, nostre vieillard m'oblige⁎ à la retraite,
 Sortons, et vous sçaurez...  
 
     D. ALVAR
-Amy, je le cognoy ;  
+        Amy, je le cognoy ;  
 Je viens de luy parler, ne craignez rien pour moy.  
 
     D. LOPE
 Vous ?  
 
     D. ALVAR
-M'en voyant surpris j'ay feint sur quelque affaire  
+        M'en voyant surpris j'ay feint sur quelque affaire  
 Qu'une lettre de luy m'étoit fort necessaire,  
 Il est allé l'écrire, et dans cet embarras  
 Je me rendrois suspect à ne l'attendre pas.  
@@ -3125,11 +3125,11 @@ Je me rendrois suspect à ne l'attendre pas.
 Mais...  
 
     BLANCHE
-Je l'entens⁎ déjà, le rendez vous funeste !  
+        Je l'entens⁎ déjà, le rendez vous funeste !  
 Sortez viste.  
 
     D. ALVAR
-Demain je vous diray le reste.  
+        Demain je vous diray le reste.  
 
 
 ### SCENE VIII [103]
@@ -3148,14 +3148,14 @@ Juste Ciel, se peut-il qu'enfin je le revoye ?
 Ah, mon frere, est-ce vous ?  
 
     D. ALVAR
-Mon déplaisir⁎, ma soeur,  
+        Mon déplaisir⁎, ma soeur,  
 Me laisse de ce nom mal goûter la douceur.  
 Quand un pere offensé...  
 Blanche revient.
 
 
     D. SANCHE
-Dy-luy, dy-luy, ma fille,  
+        Dy-luy, dy-luy, ma fille,  
 Cet affront si honteux à toute ma famille,  
 Et si dans mes ennuis⁎ tu veux me soulager,  
 Nomme-luy l'ennemy dont je dois me vanger.  
@@ -3178,10 +3178,10 @@ Mon fils, souffre⁎ un moment que mon coeur s'y prépare.
 Son fils, Madame ?  
 
     JACINTE
-Ouy, Blanche.  
+    Ouy, Blanche.  
 
     BLANCHE
-O Dieu que ferons-nous !  
+        O Dieu que ferons-nous !  
 Il escortoit D. Lope, il sçait le rendez-vous.  
 
     JACINTE
@@ -3191,16 +3191,16 @@ Que dis-tu ? c'estoit luy qui luy servoit d'escorte ?
 Luy mesme.  
 
     D. ALVAR
-Enfin je cede au soupçon qui m'emporte,  
+        Enfin je cede au soupçon qui m'emporte,  
 Parlez, ou je croiray...  
 
     D. SANCHE
-Croy tout ce que tu peux,  
+        Croy tout ce que tu peux,  
 L'affront dont je rougis est encor plus honteux.  
 Cognois⁎-tu les Guzmans ?  
 
     D. ALVAR
-Ouy, ce nom est illustre.  
+        Ouy, ce nom est illustre.  
 
     D. SANCHE
 L'un d'eux par mon offence en a terny le lustre,  
@@ -3210,7 +3210,7 @@ D. Lope...enfin c'est fait, j'ay nommé l'offenseur.
 Quoy, D. Lope...  
 
     D. SANCHE
-Ah ! mon fils, daigne⁎ épargner ta soeur.  
+        Ah ! mon fils, daigne⁎ épargner ta soeur.  
 Voy comme trop sensible à l'outrage d'un pere,  
 Le nom d'un ennemy l'enflame de colere.  
 Voy de quels mouvemens son coeur est combatu,  
@@ -3221,7 +3221,7 @@ J'en suis surpris⁎ sans doute encor plus que vous n'étes.
 D. Lope...  
 
     D. SANCHE
-Voy son trouble⁎ au nom que tu repetes,  
+        Voy son trouble⁎ au nom que tu repetes,  
 Et juge à ces effets de haine et de couroux⁎  
 Si j'ay dû consentir d'en faire son époux,  
 On me l'a fait promettre, et j'ay feint...  
@@ -3242,7 +3242,7 @@ Donne-toy toute entiere à l'ardeur qui l'enflame,
 Et s'il faut...  
 
     D. ALVAR
-Cet advis ne nous rend pas l'honneur,  
+        Cet advis ne nous rend pas l'honneur,  
 Mon pere, et vous gênez⁎ la vertu de ma soeur.  
 
     D. SANCHE
@@ -3267,7 +3267,7 @@ Encor un peu, ma fille, et ton pere est vangé.
 Vous, mon pere, et de qui ?  
 
     D. SANCHE
-De cet ennemy mesme  
+        De cet ennemy mesme  
 Dont pour toy le seul nom est un supplice extrême.  
 Croy-le déja sans vie, et par un doux transport⁎  
 Tâche de t'advancer le plaisir de sa mort.  
@@ -3276,7 +3276,7 @@ Par son dernier soûpir expier nostre injure,
 Repais de cette image...  
 
     D. ALVAR
-Elle a beaucoup d'appas⁎,  
+        Elle a beaucoup d'appas⁎,  
 Mais il perit en vain s'il ne vous vange pas.  
 
     D. SANCHE
@@ -3290,11 +3290,11 @@ J'ai préparé le piege, et c'est dans cette nuit
 Que des Braves⁎…  
 
     D. ALVAR
-O Ciel, où me vois-je réduit ?  
+        O Ciel, où me vois-je réduit ?  
 Et je m'arreste encor, c'est trop.  
 
     D. SANCHE
-Que vas-tu faire ?  
+        Que vas-tu faire ?  
 
     D. ALVAR
 Défendre un ennemy pour mieux vanger un pere.  
@@ -3303,7 +3303,7 @@ Défendre un ennemy pour mieux vanger un pere.
 Quoy ? tu peux condamner…  
 
     D. ALVAR
-Vous m'arrestez en vain,  
+        Vous m'arrestez en vain,  
 Son sang est mal versé si ce n'est par ma main.  
 Il sort
 
@@ -3315,7 +3315,7 @@ O l'indigne scrupule où son cœur s'abandonne !
 Helas !  
 
     D. SANCHE
-Ainsi que moy sa foiblesse t'étonne⁎,  
+        Ainsi que moy sa foiblesse t'étonne⁎,  
 Mais quoy qu'il ose enfin, cesse d'en soûpirer,  
 Ma partie [105] est bien faite, et tu peus esperer.  
 
@@ -3391,7 +3391,7 @@ Qu'apres l'avoir jurée il m'accepte pour gendre.
 Mais il vous croit coupable.  
 
     D. LOPE
-Il le croira toûjours.  
+        Il le croira toûjours.  
 
     CASSANDRE
 La verité cognuë est un puissant secours⁎,  
@@ -3425,7 +3425,7 @@ S'exposer à rougir du plus honteux reproche
 Que...  
 
     CASSANDRE
-Vous ne voyez pas Jacinte qui s'approche.  
+        Vous ne voyez pas Jacinte qui s'approche.  
 
 
 ### SCENE II.
@@ -3464,7 +3464,7 @@ Pouvez-vous l'ignorer si vous le pustes voir ?
 La nuict n'estoit pas sombre.  
 
     D. LOPE
-Elle estoit assez claire  
+        Elle estoit assez claire  
 Pour voir ce mesme amy qui trompa vostre pere,  
 Qui m'escortant chez vous, n'en sortit qu'apres moy,  
 Mais son visage seul est ce que j'en cognoy.  
@@ -3476,7 +3476,7 @@ Et bien, quel qu'il puisse estre, obtiendray-je une grace⁎ ?
 Madame...  
 
     JACINTE
-A l'expliquer mon esprit s'embarrasse,  
+        A l'expliquer mon esprit s'embarrasse,  
 Mais c'est ce qui m'améne, et ce fut hier au soir  
 Ce qui me fit encor souhaitter de vous voir.  
 
@@ -3486,7 +3486,7 @@ Fallut-il me soûmettre à la fureur d'un pere,
 Et perdre...  
 
     JACINTE
-Ah, jugez mieux d'un coeur qui tout à vous  
+        Ah, jugez mieux d'un coeur qui tout à vous  
 Deteste les effets d'un injuste couroux⁎.  
 Vous voir recognoissant est toute mon envie,  
 Un incognu pour vous a prodigué sa vie,  
@@ -3495,7 +3495,7 @@ C'est que jamais ce bras ne s'arme contre luy.
 Me le promettez-vous ?  
 
     D. LOPE
-Je puis vous le promettre,  
+        Je puis vous le promettre,  
 Puisque l'honneur enfin semble me le permettre,  
 Et que sans lâcheté je ne puis à mon tour  
 Combattre un ennemy par qui je vois le jour.  
@@ -3523,7 +3523,7 @@ Me tiendrez-vous parole et puis-je le prétendre [109] ?
 Doutez-vous de mon coeur ?  
 
     JACINTE
-Laissons-les seuls, Cassandre,  
+        Laissons-les seuls, Cassandre,  
 Et quoy qu'icy pour nous tout soit à redouter,  
 Sçachons leurs sentimens avant que d'éclatter.  
 
@@ -3548,7 +3548,7 @@ Enfin sommes-nous seuls, puis-je me découvrir ?
 Je crains d'estre écouté.  
 
     D. LOPE
-Parlez sans vous contraindre,  
+        Parlez sans vous contraindre,  
 Quel que soit ce secret, vous n'avez rien à craindre.  
 
     D. ALVAR
@@ -3572,7 +3572,7 @@ Et de son sang versé je voy qu'il vous absout.
 Suis-je quitte envers vous ?  
 
     D. LOPE
-C'est moy qui vous dois tout.  
+        C'est moy qui vous dois tout.  
 Mais de ce procedé mon amitié s'offence,  
 Est-ce que vous doutez de ma recognoissance ?  
 
@@ -3620,7 +3620,7 @@ Je dois vous advoüer que son pere est le mien.
 Quoy, Jacinte...  
 
     D. ALVAR
-Est ma soeur, et c'est assez vous dire  
+        Est ma soeur, et c'est assez vous dire  
 Quel devoir veut par moy que nostre tresve expire...  
 
     D. LOPE
@@ -3631,7 +3631,7 @@ Que je brusle d'un feu dont l'ardeur est si pure,
 Que si...  
 
     D. ALVAR
-Vous jugez mal de mon ressentiment  
+        Vous jugez mal de mon ressentiment  
 D'en croire cet amour l'unique fondement.  
 Je ne condamne point une ardeur legitime,  
 Et comme je cognoy qu'on peut aimer sans crime,  
@@ -3679,7 +3679,7 @@ Puisque vostre suffrage⁎ en ma faveur s'explique,
 Quel crime est donc le mien ?  
 
     D. ALVAR
-L'opinion publique.  
+        L'opinion publique.  
 C'est peu pour negliger un devoir si pressant  
 Que mon coeur en secret vous declare innocent,  
 A l'erreur du public c'est peu qu'il se refuse,  
@@ -3691,7 +3691,7 @@ Pour ne vous pas punir de ce que l'on en croit.
 Quoy, sur un bruit⁎ si faux...  
 
     D. ALVAR
-Vous m'en devez répondre,  
+        Vous m'en devez répondre,  
 Avant que vous revoir j'ay voulu le confondre ;  
 Mais en vain en tous lieux je me suis informé,  
 On ne nomme personne, ou vous estes nommé.  
@@ -3699,7 +3699,7 @@ J'affoiblis ma vangeance à la voir differée,
 Sortons.  
 
     D. LOPE
-Et l'amitié que vous m'aviez jurée ?  
+        Et l'amitié que vous m'aviez jurée ?  
 
     D. ALVAR
 Telle est de mon honneur l'impitoyable loy,  
@@ -3812,30 +3812,30 @@ D. SANCHE, D. LOPE, D. ALVAR, CASSANDRE.
 Ah ! mon fils.  
 
     D. ALVAR
-Suspendez de grace⁎ vostre plainte,  
+        Suspendez de grace⁎ vostre plainte,  
 Vous venez condamner ce coeur trop partagé,  
 Mais je mourray, mon pere, ou vous serez vangé.  
 Nous pourrons nous revoir, adieu D. Lope.  
 
     D. SANCHE
-Arreste,  
+        Arreste,  
 Et voy le precipice où ton erreur te jette, [114]  
 D. Lope est innocent.  
 
     D. ALVAR
-Pour en avoir douté  
+        Pour en avoir douté  
 Le procedé d'un traistre a trop de lâcheté.  
 Mais enfin avec vous ayant part à l'outrage,  
 Si je n'en sçay l'autheur...  
 
     D. SANCHE
-Tu sçauras davantage,  
+        Tu sçauras davantage,  
 Puisque le Ciel propice à mon ressentiment,  
 Au crime qui le cause a joint le châtiment,  
 On m'a déja vangé.  
 
     D. ALVAR
-Quel bras l'auroit pû faire ?  
+        Quel bras l'auroit pû faire ?  
 Jamais autre qu'un fils ne vange bien un pere.  
 
     D. LOPE
@@ -3852,7 +3852,7 @@ Eust pû jusqu'au pardon abaisser sa priere,
 Que l'orgueilleux Enrique...  
 
     D. LOPE
-Apres l'avoir nommé,  
+        Apres l'avoir nommé,  
 Quelque juste sujet qui vous tienne animé,  
 Songez qu'il est mon frere et m'épargnez la honte.  
 
@@ -3863,7 +3863,7 @@ Quoy, vostre frere ! ô Ciel, que ta justice est prompte !
 Il nous la montre en luy.  
 
     D. ALVAR
-Mais vous ne sçavez pas  
+        Mais vous ne sçavez pas  
 Que le voulant punir il l'a fait par mon bras.  
 Sans sçavoir vostre affront j'en ay tiré vangeance.  
 
@@ -3929,7 +3929,7 @@ J'en viens benir le Ciel, et recevoir ma grace⁎.
 Quoy, voir icy ma fille !  
 
     JACINTE
-Avant que m'accuser,  
+        Avant que m'accuser,  
 Songez à quoy pour vous j'ay pû me disposer,  
 Ne soupçonnez point [115] ny crime ny foiblesse,  
 Dans une passion dont je suis la maistresse.  
@@ -3966,14 +3966,14 @@ Je ne m'engage à rien que Fernand n'authorise.
 O Dieux, se pourroit-il ?  
 
     D. SANCHE
-Tu l'aimes donc, mon fils ?  
+        Tu l'aimes donc, mon fils ?  
 
     D. ALVAR
 Dans mon ravissement je doute si je vis.  
 Mon pere...  
 
     D. SANCHE
-Je t'entens⁎, obtiens-là d'elle-mesme.  
+        Je t'entens⁎, obtiens-là d'elle-mesme.  
 
     D. ALVAR*à Cassandre* 
 Consentez-vous, Madame, à mon bonheur extrême ?  
@@ -3986,7 +3986,7 @@ Et n'y resister point, c'est m'expliquer assez.
 O favorable arrest !  
 
     D. SANCHE
-C'est le Ciel qui le donne,  
+        C'est le Ciel qui le donne,  
 L'ordre de ses decrets n'est cognu de personne,  
 Et souvent de ses soins⁎ l'infaillible ressort  
 Se plaist par le naufrage à nous conduire au port.  

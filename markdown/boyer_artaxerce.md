@@ -953,7 +953,7 @@ Qui se gagne à boire apres eux [256]
  – ORONTE,Confident de Darius.
  – BARSINE,Confidente d'Aspasie.
  – CLEONNE,Confidente de Nitocris.
- – MINDATE,Capitaine des Gardes d' Artaxerce.
+ – MINDATE,Capitaine des Gardes d'Artaxerce.
  – SUITE.
 La Scene est à Babilonne, dans le Palais d'Artaxerce.
 
@@ -1013,17 +1013,17 @@ Mais si d'un feu caché j'avois l'ame enflâmée…
 Quel amour !  
 
     DARIUS.
-En partant pour commander l'Armée,  
+        En partant pour commander l'Armée,  
 Je brûlois en secret et cet embrazement  
 Qu'irritoient⁎ mon silence et mon éloignement,  
 Semble encor s'augmenter, revoyant ce que j'aime.  
 J'aime Aspasie.  
 
     ORONTE.
-O Dieux. Aspasie !  
+    O Dieux. Aspasie !  
 
     DARIUS.
-Elle-mesme [264].  
+        Elle-mesme [264].  
 
     ORONTE.
 Etrangere, et d'un sang trop indigne de vous [265]…  
@@ -1041,7 +1041,7 @@ Pour hâter mon triomphe, et me raprocher d'elle.
 Mais quel est vostre espoir ? Vous sçavez que le Roy  
 Est maistre souverain de vous, de vostre foy.  
 Avez-vous oublié la disgrace d'Arsame ?  
-Aspasie autrefois refusée à sa flâme⁎ [267]…  
+        Aspasie autrefois refusée à sa flâme⁎ [267]…  
 
     DARIUS.
 Ce malheureux Amant⁎dans nos derniers Combats  
@@ -1126,7 +1126,7 @@ DARIUS, TIRIBAZE.
 
 
     DARIUS.
-Que venez-vous m'aprendre ?  
+        Que venez-vous m'aprendre ?  
 Ce grand choix que le Roy fait si longtemps attendre,  
 Le va-t-il faire enfin pour le commun bonheur ?  
 
@@ -1214,7 +1214,7 @@ DARIUS, TIRIBAZE, NITOCRIS.
 
 
     DARIUS.
-Que ne puis-je, Madame,  
+        Que ne puis-je, Madame,  
 Expliquer à vos yeux les transports⁎ de mon ame !  
 Vostre Pere m'appreste un sort si glorieux…  
 Mais je vois un grand trouble éclater dans vos yeux, [277]  
@@ -1238,7 +1238,7 @@ Vous renoncez pour eux à la grandeur supréme.
 Quel est vostre dessein ?  
 
     TIRIBAZE.
-Il suffira pour nous  
+        Il suffira pour nous  
 Qu'il nomme un de ses Fils qui sera ton Epoux.  
 
     NITOCRIS.
@@ -1327,7 +1327,7 @@ Il faut abandonner le Prince Ariarathe,
 Cleonne…  
 
     CLEONNE.
-Quelque espoir dont Darius vous flate,  
+        Quelque espoir dont Darius vous flate,  
 Le tendre Ariarathe a pour vous tant d'ardeur…  
 
     NITOCRIS.
@@ -1376,7 +1376,7 @@ Mais enfin Darius, de l'air dont je le voy,
 Vous rendre quelques soins⁎…  
 
     NITOCRIS.
-Hé qui peut mieux que moy  
+        Hé qui peut mieux que moy  
 Au Trône qui l'attend avec luy prendre place ?  
 La faveur de mon Pere, et l'éclat de ma Race,  
 Tout son espoir qu'il prend de notre seul appuy,  
@@ -1387,7 +1387,7 @@ Et peut-estre l'Amour m'en répondra luy-mesme.
 Peut-estre…  
 
     NITOCRIS.
-Mais pourquoy ne veux-tu pas qu'il m'aime ?  
+        Mais pourquoy ne veux-tu pas qu'il m'aime ?  
 Je sçay qu'avec l'orgueil⁎ d'un cœur ambitieux  
 Je prens peu soin de plaire, et de charmer⁎ les yeux ;  
 Que n'ayant rien dans l'âme et de foible et de tendre,  
@@ -1480,14 +1480,14 @@ Incertaine, et tremblante, et n'osant m'en défendre [302]…
 Est-ce un si grand malheur ?  
 
     ASPASIE.
-Acheve de m'entendre,  
+        Acheve de m'entendre,  
 J'aime le Prince.  
 
     BARSINE.
-O Dieux !  
+    O Dieux !  
 
     ASPASIE.
-Sa bouche à son retour,  
+        Sa bouche à son retour,  
 Avant l'aveu du Roy, m'expliqua son amour.  
 J'ay fait tous mes efforts, et [303] suis preste à tout faire,  
 Pour m'arracher au Prince, et me rendre à son Pere.  
@@ -1499,7 +1499,7 @@ Mais l'amour disposant de moy, malgré moyméme…
 Vous aimez Darius ?  
 
     ASPASIE.
-Oüy, Barsine, je l'aime ;  
+        Oüy, Barsine, je l'aime ;  
 De ses fers⁎, quoy qu'il soient, il faut se dégager ;  
 Mais tu connois mon cœur, est-il fait pour changer ?  
 Reconnoissance, honneur, devoir, obeïssance,  
@@ -1528,7 +1528,7 @@ Trahiray-je le Roy ? Trahiray-je ma flâme⁎ ?
 Nitocris… [305]  
 
     ASPASIE.
-Nitocris ? Elle me hait dans l'ame,  
+        Nitocris ? Elle me hait dans l'ame,  
 Et ce que j'ay de part à la faveur du Roy,  
 Met quelque jalousie entre son Pere et moy.  
 
@@ -1575,11 +1575,11 @@ Mon Pere a tout d'un coup changé de sentiment.
 Il est pour Darius.  
 
     ASPASIE.
-Luy contre Ariarathe ?  
+        Luy contre Ariarathe ?  
 Et vous, Madame ?  
 
     NITOCRIS.
-Et moy ? Je suis injuste, ingrate ;  
+        Et moy ? Je suis injuste, ingrate ;  
 Mais c'est au choix d'un Pere à régler mes desirs.  
 Je devore en secret mes cruels⁎ déplaisirs ;  
 Je plains Ariarathe, et mon cœur qui soûpire⁎,  
@@ -1605,13 +1605,13 @@ Il brigue avec ardeur le secours de mon Pere.
 Il a vû vostre Pere ?  
 
     NITOCRIS.
-Et ce Prince a fait voir,  
+        Et ce Prince a fait voir,  
 Que sur mon Pere seul fondant tout son espoir,  
 Pour mériter nos soins, il me gardoit dans l'ame…  
 Mais j'en pourroit trop dire…  
 
     ASPASIE.
-Il vous aime, Madame.  
+        Il vous aime, Madame.  
 
     NITOCRIS.
 Je connoy peu l'Amour ; mais vous sçavez, je croy,  
@@ -1788,10 +1788,10 @@ Un trouble encor plus grand embarasse mon cœur.
 J'aime Aspasie.  
 
     TIRIBAZE.
-O Ciel !  
+    O Ciel !  
 
     LE ROY.
-Et ma foiblesse est telle,  
+        Et ma foiblesse est telle,  
 Que mon cœur ne respire, et ne vit que pour elle.  
 La Reyne l'honoroit d'une tendre amitié,  
 Et si de son vivant cette auguste Moitié  
@@ -1874,7 +1874,7 @@ De respects et d'honneurs on m'a vûe accablée.
 Que fait Ariarathe ?  
 
     NITOCRIS.
-Au desespoir réduit,  
+        Au desespoir réduit,  
 Il eust mêlé quelque ombre à l'espoir qui me luit [323],  
 Si l'excés de ma joye, ainsi que de la vostre,  
 M'eust pû laisser sentir les déplaisirs d'un autre.  
@@ -1930,7 +1930,7 @@ Je laisse à Nitocris, ce qu'elle aime le mieux.
 Quel coup de foudre [331] ! O Ciel !  
 
     NITOCRIS *à Darius.*
-Ce grand effort m'étonne⁎,  
+        Ce grand effort m'étonne⁎,  
 Seigneur, et c'est bien plus que m'offrir la Couronne.  
 Aussi vous jugez bien que de pareils bienfaits,  
 Dans un sensible cœur ne s'effacent jamais.  
@@ -2003,10 +2003,10 @@ Pour suprême faveur, je ne veux qu'Aspasie.
 Aspasie ?  
 
     DARIUS.
-Oüy, Seigneur.  
+    Oüy, Seigneur.  
 
     LE ROY.
-O sort trop rigoureux ! [337]  
+        O sort trop rigoureux ! [337]  
 
     DARIUS.
 Que me dit ce grand trouble, et ce silence affreux⁎ ?  
@@ -2114,7 +2114,7 @@ Me peut tout demander, et c'est vous qu'il demande.
 Moy, Seigneur ?  
 
     LE ROY.
-Le croyant Amant⁎ de Nitocris,  
+        Le croyant Amant⁎ de Nitocris,  
 Son changement m'étonne⁎, et son choix m'a surpris ;  
 Et puis qu'il ne fait plus un secret de sa flâme⁎,  
 La mienne ne doit plus se cacher dans mon ame.  
@@ -2124,7 +2124,7 @@ Brûlant d'un mesme feu dont il se sent brûler…
 Dieux, qu'entends-je ?  
 
     LE ROY.
-Ecoutez, et me laissez parler.  
+        Ecoutez, et me laissez parler.  
 Mon Fils, j'aime Aspasie, et l'ardeur de son zele  
 Doit faire tout pour moy, quand j'ay tout fait pour elle.  
 D'autres Roys employroient la force et la rigueur,  
@@ -2281,16 +2281,16 @@ Ce secours innocent, et le seul qui me reste… [354]
 Adieu, Seigneur [355].  
 
     DARIUS.
-Madame…  
+    Madame…  
 
     ASPASIE.
-Ah, que vous me pressez !  
+        Ah, que vous me pressez !  
 
     DARIUS.
 Vous ne me dites rien.  
 
     ASPASIE.
-Hé n'est-ce pas assez ?  < Fin du Troisiéme Acte. >
+        Hé n'est-ce pas assez ?  < Fin du Troisiéme Acte. >
 
 
 # ACTE IV
@@ -2320,7 +2320,7 @@ Le Ciel le [358] fait parler pour avertir les Roys.
 Mais je veux tout sçavoir.  
 
     MINDATE.
-Vous oseray-je dire  
+        Vous oseray-je dire  
 Qu'on craint pour vostre gloire autant que pour l'Empire ?  
 Qu'estant Rival d'un Fils, on croit que vos amours  
 Peuvent des-honorer le reste de vos jours ?  
@@ -2342,7 +2342,7 @@ Qu'on cherche Tiribaze.
 ## SCENE II.
 
     LE ROY *seul.* [359]
-Artaxerce, tu vois  
+        Artaxerce, tu vois  
 Quels bruits soüillent en toy la Majesté des Roys.  
 Tous les vœux des Persans se changent en murmures,  
 Et les cris de triomphes, en plaintes, en injures.  
@@ -2383,7 +2383,7 @@ Seigneur, le Prince est là, qui demande à vous voir.
 Est-il seul ?  
 
     MINDATE
-Oüy, Seigneur, et plein de desespoir,  
+        Oüy, Seigneur, et plein de desespoir,  
 J'ay vû sur son visage une douleur mortelle.  
 
     LE ROY.
@@ -2503,10 +2503,10 @@ Que je n'aurois de peine et de honte à me taire.
 Seigneur, j'aime le Prince.  
 
     LE ROY.
-O Ciel !  
+    O Ciel !  
 
     ASPASIE.
-Ecoutez-moy.  
+        Ecoutez-moy.  
 S'il m'a donné pour luy l'amour que je vous doy,  
 Son triomphe, Seigneur, n'est dû qu'à ma foiblesse,  
 Je la condamne, et veux la condamner sans cesse.  
@@ -2574,7 +2574,7 @@ Sans respecter les noms ny d'Amant⁎, ny de Roy.
 Qu'avez-vous fait ?  
 
     ASPASIE.
-J'ay fait ce que je devois faire ;  
+        J'ay fait ce que je devois faire ;  
 Je n'ay que trop rougy d'aimer, et de me taire.  
 Mon silence est coupable autant que mon amour,  
 Et puis qu'il faut enfin parler en ce grand jour,  
@@ -2590,7 +2590,7 @@ Ah ! plutost étouffons cette odieuse flâme⁎,
 Brisons des fers⁎ honteux.  
 
     DARIUS.
-Le pourrez-vous, Madame ?  
+        Le pourrez-vous, Madame ?  
 
     ASPASIE.
 Seigneur, ne mettez pas ma gloire au desespoir,  
@@ -2622,7 +2622,7 @@ Ne pouvoir plus tenir contre vostre présence.
 De grace, écoutez-moy.  
 
     ASPASIE.
-Je n'écoute plus rien.  
+        Je n'écoute plus rien.  
 Faites vostre devoir, ou je feray le mien.  
 
 
@@ -2647,17 +2647,17 @@ DARIUS, TIRIBAZE.
 Que cherchez-vous icy ?  
 
     TIRIBAZE.
-J'y cherchois Aspasie.  
+        J'y cherchois Aspasie.  
 C'est par ordre du Roy.  
 
     DARIUS.
-Quelle est donc son envie⁎ ?  
+        Quelle est donc son envie⁎ ?  
 
     TIRIBAZE.
 J'ignore son dessein.  
 
     DARIUS.
-Ignorez-vous le mien ?  
+        Ignorez-vous le mien ?  
 
     TIRIBAZE.
 J'exécute son ordre, et n'examine rien. [373]  
@@ -2749,7 +2749,7 @@ Rend présent à mes yeux le refus d'Amestris.
 Vangeons-nous de tous deux.  
 
     NITOCRIS.
-Quel dessein est le vostre ?  
+        Quel dessein est le vostre ?  
 
     TIRIBAZE.
 De les perdre tous deux, d'immoler l'un par l'autre ;  
@@ -2835,10 +2835,10 @@ Le sort trompe l'espoir dont je m'estois flaté.
 Dieux !  
 
     TIRIBAZE.
-Mais j'espere encor.  
+    Mais j'espere encor.  
 
     NITOCRIS.
-Ma vengeance est perduë.  
+        Ma vengeance est perduë.  
 Qu'un coup de foudre, ô Ciel ! ou me vange, ou me tuë.  
 
     TIRIBAZE.
@@ -2919,14 +2919,14 @@ LE ROY, TIRIBAZE.
 
 
     LE ROY.
-Ah, Prince infortuné !  
+        Ah, Prince infortuné !  
 Mon Fils, ce Fils si cher, a perdu l'innocence.  
 
     TIRIBAZE.
 Seigneur.  
 
     LE ROY.
-Tu peux enfin joüir de ta vengeance ;  
+        Tu peux enfin joüir de ta vengeance ;  
 Tes conseils, Tiribaze, ou plutost mon amour,  
 Coûtent à Darius et l'honneur, et le jour ;  
 Car enfin, il faut bien contenter ma justice.  
@@ -2942,7 +2942,7 @@ S'abandonner au crime, ensanglanter ces Lieux,
 Attenter sur [381] son Pere.  
 
     LE ROY.
-Epargne un Fils coupable,  
+        Epargne un Fils coupable,  
 Et laisse-moy le voir d'un œil plus favorable.  
 Je sçay que mes Amis à mes pieds renversez,  
 Qu'Ariarathe mesme au nombre des Blessez,  
@@ -3005,7 +3005,7 @@ Tremblant et desarmé, tomber à mes genoux ?
 On va me l'amener.  
 
     TIRIBAZE.
-Hé bien, qu'avec ses larmes,  
+        Hé bien, qu'avec ses larmes,  
 Il vienne de vos mains faire tomber les armes.  
 Souffrez⁎, pour m'épargner ce spéctacle odieux,  
 Qu'un éxil eternel m'éloigne de vos yeux.  
@@ -3039,7 +3039,7 @@ LE ROY, DARIUS.
 Approchez.  
 
     DARIUS.
-Fils rebelle, et Rival teméraire,  
+        Fils rebelle, et Rival teméraire,  
 Puis-je encor soûtenir⁎ les regards de mon Pere ?  
 
     LE ROY.
@@ -3222,16 +3222,16 @@ Qu'est-ce, Oronte ? parlez. Mais que vois-je paraître ?
 Quel desordre ? quel sang ?  
 
     ORONTE.
-C'est le sang de mon Maître.  
+        C'est le sang de mon Maître.  
 
     LE ROY.
 De mon Fils ?  
 
     ASPASIE.
-Juste Ciel !  
+    Juste Ciel !  
 
     LE ROY.
-Vos présages, grands Dieux,  
+        Vos présages, grands Dieux,  
 Sont enfin éclaircis. Quel Monstre [396] furieux⁎…  
 
     ORONTE.

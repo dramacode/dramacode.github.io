@@ -1,5 +1,5 @@
 ---
-identifier: gilbert_telephonte  
+identifier: gilbert-telephonte  
 creator: Gilbert, Gabriel  
 date: 1642  
 title: Téléphonte. Tragi-comédie  
@@ -943,7 +943,7 @@ Les Exemplaires ont esté fournis.
  – DEMOCHARE,Son fils.
  – MEROPE, Femme du Tyran et vesve de Cresphonte.
  – TELEPHONTE, Fils de Merope et de Cresphonte.
- – PHILOCLEE, Fille d'Amynthas Roy d'Etolie et Maistresse de Telephonte.
+ – >PHILOCLEE, Fille d'Amynthas Roy d'Etolie et Maistresse de Telephonte.
  – TYRENE, Confident de Telephonte.
  – CEPHALIE, Confidente de Merope.
  – ORPHISE,Confidente de Philoclée.
@@ -958,7 +958,7 @@ La Scene est à Micene [153] dans le Peloponese.
 
 
 ### SCENE PREMIERE.
-MEROPE, CEPHALIE.            
+MEROPE, CEPHALIE.
 
 
     MEROPE.
@@ -966,7 +966,7 @@ Divin flambeau⁎ du Ciel dont la course diverse
 Visite l'Indien [154], et le Scythe, et le Perse [155] ;  
 Qui portes ta lumière en cent climats divers,  
 Et qui fais tous les jours le tour de l'Univers :  
-Toy qui de tous les Dieux sçais [156] mieux ce que nous sommes,          
+Toy qui de tous les Dieux sçais [156] mieux ce que nous sommes,  
 Qui peux mieux remarquer l'infortune des hommes,  
 Qui connois leur misere, et luis sur leurs tombeaux,  
 Et d'horreur tous les jours t'en caches sous les eaux,  
@@ -991,7 +991,7 @@ J'ay les ressentiments⁎ : et de femme, et de Mere,
 Avecque [161] mon Espoux j'ay mon sang à vanger [162],  
 Le trespas du Tyran peut seul me soulager,  
 Il peut à mes douleurs donner de l'allegeance [163],  
-Et si je vis encor, je vis pour la vengeance,                  
+Et si je vis encor, je vis pour la vengeance,  
 Ouy le devoir m'y force, et je l'entreprendray  
 Et si je ne le perds au moins je me perdray.  
 
@@ -1014,11 +1014,11 @@ Depuis trois fois cinq ans il me tien en servage
 Est-ce là cet amour ?  
 
     CEPHALIE.
-            Mais par son Mariage  
+        Mais par son Mariage  
 Il croit tout effacer.  
 
     MEROPE.
-            Ah ce fut malgré moy,                  
+        Ah ce fut malgré moy,  
 Je donnay bien la main, mais je retiens ma foy⁎ ;  
 À ce traistre le Ciel ne m'a point destinée,  
 La pudique⁎ Junon, ny le sainst Hymenée,  
@@ -1042,7 +1042,7 @@ Et dans les bras d'autruy je suis encor [169] ta Femme.
     CEPHALIE.
 Un fils vous reste encor chez les Etoliens [170],  
 Que l'on comble à Chalcis [171] et d'honneur et de biens  
-Que leur Roy genereux⁎ destine pour son gendre,              
+Que leur Roy genereux⁎ destine pour son gendre,  
 Il viendra vous vanger, il viendra vous desfendre.  
 
     MEROPE.
@@ -1068,7 +1068,7 @@ Il n'a point cét honneur d'estre sorti de vous
 Pour pretendre à celuy d'estre un jour son Espoux  
 Philoclée est constante [175] et rien ne la surmonte [176],  
 Elle hait Demochare et cherit Telephonte,  
-Quoy qu'il puisse arriver cette illustre beauté                  
+Quoy qu'il puisse arriver cette illustre beauté  
 Ne donnera son cœur qu'à qui l'a mérité.  
 
     MEROPE.
@@ -1088,13 +1088,13 @@ Où le crime peut tout rien n'est en asseurance [178].
 Ah ! Superbe⁎ Tyran.  
 
     CEPHALIE.
-            Vivez en esperance,  
+        Vivez en esperance,  
 L'amour le peut flechir [179], le Ciel l'humilier [180].  
 
     MEROPE.
 Ne sçais-tu pas l'Edict qu'il a fait publier  
 Et le nouveau tourment que sa fureur m'apreste [181] ?  
-N'a-t'il pas de mon fils fait proscrire [182] la teste,                  
+N'a-t'il pas de mon fils fait proscrire [182] la teste,  
 Et cinquante talens [183] n'en sont-ils pas le prix ?  
 Sçachant ce que peut l'or sur de lâches Esprits,  
 Tu vois si j'ay raison de former cette plainte,  
@@ -1108,7 +1108,7 @@ La justice du Ciel veut une autre victime :
 Mais Hermocrates vient.  
 
     MEROPE.
-            Ah ! je le voy, c'est luy  
+        Ah ! je le voy, c'est luy  
 Qui dans sa main injuste⁎ a le Sceptre d'autruy.  
 Il faut dissimuler notre pieuse haine.  
 Et tascher de flechir sa fureur inhumaine⁎ ;  
@@ -1122,7 +1122,7 @@ Mais avec la pitié faisons qu'elle le touche.
 LE TYRAN MEROPE.
 
 
-    LE TYRAN.    
+    LE TYRAN.
 Race du grand Archas [185], et de ces premiers Roys,  
 Qui dans ce doux Climat ont fais fleurir les loix ;  
 Cet honneur est bien grand, mais le Ciel vous fit telle,  
@@ -1136,7 +1136,7 @@ Ainsi que leur bonheur mon malheur est extreme.
     LE TYRAN.
 Et quoy n'avez vous pas un espoux qui vous aime,  
 Ne partagez vous pas mes honneurs et mes biens ?  
-Quoy ne regnez-vous pas sur les Messeniens ?                  
+Quoy ne regnez-vous pas sur les Messeniens ?  
 Dans le Peleponeze, et dans toute la Grece  
 Vous revere-t'on pas comme grande Princesse ?  
 Quel est donc le sujet qui cause ce soucy⁎ ?  
@@ -1164,7 +1164,7 @@ Que l'on peut dire injuste⁎ autant qu'il est sanglant.
 Mais ma vie autrement n'est pas en asseurance [190].  
 
     MEROPE.
-C'est un crime.                                  
+C'est un crime.  
 
     LE TYRAN.
         Ou plustost un acte de prudence.  
@@ -1173,7 +1173,7 @@ C'est un crime.                                
 Qui pert un innocent.  
 
     LE TYRAN.
-            Mais qui conserve un Roy.  
+        Mais qui conserve un Roy.  
 
     MEROPE.
 Il se doit conserver sans violer la loy.  
@@ -1191,7 +1191,7 @@ Vous suivriez la vertu, si vous l'aviez suivie ;
 Elle enseigne à chacun de conserver sa vie,  
 Et de la preferer mesme à celle d'autruy ;  
 C'est ce que justement [191] je pratique aujourd'huy :  
-Telephonte ennemy de l'espoux de sa mere,                  
+Telephonte ennemy de l'espoux de sa mere,  
 Ne peut me voir vivant, ny souffrir⁎ un beau pere,  
 Il dit qu'il me perdra, qu'il vangera les siens,  
 Jusques dessus mon thrône, entre les bras des miens ;  
@@ -1210,14 +1210,14 @@ J'oppose au mal le mal, et l'outrage à l'outrage.
 O Ciel ! ô juste⁎ Ciel !  
 
     LE TYRAN.
-            De quoy vous plaignez-vous ?  
+        De quoy vous plaignez-vous ?  
 
     MEROPE.
 Mesprisez-vous mes pleurs ?  
 
     LE TYRAN.
-                Suis-je pas vostre espoux [194] ?  
-Le Saint nœud qui nous joint, le Dieu qui nous assemble,          
+        Suis-je pas vostre espoux [194] ?  
+Le Saint nœud qui nous joint, le Dieu qui nous assemble,  
 N'a-t'il pas confondu nos interests⁎ ensemble ?  
 Ouy, ouy, quelqu'autre objet qui vous puisse toucher,  
 Le salut d'un mary vous doit estre plus cher.  
@@ -1243,13 +1243,13 @@ Et son dernier moment sera ma derniere heure.
 LE TYRAN, DEMOCHARE.
 
 
-    LE TYRAN     
+    LE TYRAN
 Madame. Elle s'en va pleine de desespoir,  
 Je ne puis l'oüir plaindre, et ne pas m'esmouvoir,  
 Ah que je suis troublé !  
 
     DEMOCHARE.
-            Pour les pleurs d'une femme,  
+        Pour les pleurs d'une femme,  
 Faut-il que la douleur s'empare de vostre ame ?  
 
     LE TYRAN.
@@ -1260,7 +1260,7 @@ D'un songe que j'ay fait l'image [197] m'espouvente [198] :
 Aprens si j'ay raison d'en avoir tant d'effroy,  
 Cresphonte cette nuit a paru devant moy.  
 
-    DEMOCHARE.    
+    DEMOCHARE.
 Cresphonte !  
 
     LE TYRAN.
@@ -1286,7 +1286,7 @@ D'une secrette horreur j'ay l'ame encor saisie.
     DEMOCHARE.
 Faut-il estre troublé d'un objet decevant [205],  
 Et peut-on craindre un mort qu'on attaqua vivant ?  
-D'un corps qu'on a destruit peut on redouter l'ombre ?              
+D'un corps qu'on a destruit peut on redouter l'ombre ?  
 Cresphonte vous estonne⁎, et rend vostre humeur sombre ;  
 Vous qui l'apprehendez⁎ triomphez de son sort⁎,  
 Il n'est rien, vous regnez, vous vivez, il est mort.  
@@ -1295,7 +1295,7 @@ Il n'est rien, vous regnez, vous vivez, il est mort.
 Mais son fils est vivant.  
 
     DEMOCHARE.
-            Sa triste destinée,  
+        Sa triste destinée,  
 Pour borner vos soucis⁎ sera bien-tost bornée ;  
 Et les talens promis par vostre Edit prudent,  
 Pourroient faire un meurtrier mesme d'un confident,  
@@ -1313,11 +1313,11 @@ Choisir l'occasion, et la prendre à propos ?
 
     LE TYRAN.
 Ah ! long retardement fatal à mon repos :  
-Ce soin⁎ trouble le cours de ma bonne fortune⁎,                  
+Ce soin⁎ trouble le cours de ma bonne fortune⁎,  
 Qui m'en delivrera ?  
 
     DEMOCHARE.
-            Si dedans [208] une Lune  
+        Si dedans [208] une Lune  
 Personne n'execute un si hardy dessein,  
 Je m'offre à luy plonger un poignard dans le sein.  
 À moy seul appartient de tuër [209] Telephonte,  
@@ -1340,7 +1340,7 @@ Je tiens, comme tu sçais, la fille d'Amynthas,
 Qu'un Pirate amena jusques dans mes Estats,  
 Et pour la vendre icy la ravit sur Neptune [212].  
 Son pere la regrette, et sçait son infortune,  
-De son Royaume entier il la racheteroit,      
+De son Royaume entier il la racheteroit,  
 Mais ce seroit en vain quand [213] il me l'offriroit,  
 Il faut pour la ravoir me rendre Telephonte.  
 
@@ -1355,7 +1355,7 @@ Et le menaceray de la faire égorger.
 L'égorger, ô bons Dieux !  
 
     LE TYRAN.
-            Ne crains rien, mais espere,  
+        Ne crains rien, mais espere,  
 Et je fais ce discours pour estonner⁎ son pere,  
 Pour le faire resoudre à tout ce que je veux :  
 Ton amour suit mon choix, et j'approuve tes feux,  
@@ -1368,7 +1368,7 @@ Que le beau fleuve Evene arrouse [217] de ses ondes.
 Ce vieux Roy que les ans courbent vers le tombeau,  
 Luy veut quitter le sceptre, et le royal bandeau ;  
 Pour l'eslever au thrône il s'appreste à descendre,  
-Et semble pour mourir n'attendre plus qu'un gendre,              
+Et semble pour mourir n'attendre plus qu'un gendre,  
 De force, ou d'amitié, c'est toy qui le seras,  
 Par cet illustre Hymen, mon fils, tu regneras,  
 Et la Grece verra deux Rois dans ma famille.  
@@ -1394,7 +1394,7 @@ Il faut, si mon amour ne peut rien sur son ame,
 La traiter en esclave, user d'authorité,  
 Et luy faire des loix de vostre volonté.  
 
-    LE TYRAN.    
+    LE TYRAN.
 Dis luy qu'à cet Hymen il faut qu'elle s'appreste,  
 Que je veux dés demain en celebrer la feste.  
 
@@ -1413,7 +1413,7 @@ Que Chrysante, Amynthor, donne ordre au sacrifice.
 Je vais l'en advertir.  
 
     LE TYRAN.
-            Ma crainte est un supplice.  
+        Ma crainte est un supplice.  
 Je n'auray point l'esprit en paix ; ny satisfait  
 Que [224] cet Edit sanglant n'ait produit son effet.  
 
@@ -1429,7 +1429,7 @@ Dissipera bien-tost l'ennuy⁎ qui vous surmonte.  < Fin du premier Acte. >
 MEROPE. PHILOCLEE.
 
 
-    MEROPE.    
+    MEROPE.
 Je n'ay rien obtenu ny pour vous ny pour moy,  
 Le Tyran foule aux pieds la justice et la loy ;  
 Son ame veut son sang, elle en est alterée [226],  
@@ -1444,35 +1444,35 @@ Un desespoir plus juste⁎ alloit borner mes jours,
 Et rien ne me retient que vos sages discours ;  
 Vous consolliés autruy, consolés-vous vous mesme.  
 
-    MEROPE.    
+    MEROPE.
 Mon mal est sans pareil.  
 
     PHILOCLEE.
-            Et le mien est extreme.  
+        Et le mien est extreme.  
 
     MEROPE.
 Nos maux sont differens.  
 
     PHILOCLEE.
-            Je souffre⁎ plus que vous.  
+        Je souffre⁎ plus que vous.  
 
     MEROPE.
 Ah ! je crains pour mon fils.  
 
     PHILOCLEE.
-            Et moy pour mon espoux.  
+        Et moy pour mon espoux.  
 
     MEROPE.
 J'ay dedans les douleurs qui me déchirent l'ame  
 Les sentimens de Mere.  
 
     PHILOCLEE.
-            Et moy ceux d'une femme.  
+        Et moy ceux d'une femme.  
 Apres tant de malheurs que vous avez pleurez  
 Que vos yeux à pleurer sont encor preparez,  
 J'ay veu d'une saison la course terminée  
 Depuis que dans ces lieux je plains ma destinée,  
-Sans avoir encor peu joüir d'un seul moment                  
+Sans avoir encor peu joüir d'un seul moment  
 Où je pùsse avec vous souspirer librement.  
 Ny d'un illustre fils vous raconter l'histoire  
 Aussi pleine de maux qu'elle est pleine de gloire.  
@@ -1499,13 +1499,13 @@ Voyez donc de quels biens la fortune⁎ me prive,
 Et jugez si vos maux surpassent mes douleurs.  
 
     MEROPE.
-Le sort⁎ de mesme cause a tiré nos malheurs [231] ;                  
+Le sort⁎ de mesme cause a tiré nos malheurs [231] ;  
 Nous souffrons des Tyrans l'Empire illegitime,  
 Nous sommes toutes deux les esclaves du crime.  
 Ah mon cher Telephonte !  
 
     PHILOCLEE.
-                Un fils vous peut toucher,  
+        Un fils vous peut toucher,  
 Mais mon affection me le rend bien plus cher,  
 Vous ne l'avez point veu depuis sa tendre enfance,  
 Vous aimez par instinct [232], et moy par connaissance :  
@@ -1524,7 +1524,7 @@ Dont il est embrazé dés qu'il pense à son pere,
 Ah si vous connoissiez son ardente amitié !  
 Je croy que vostre amour s'accroistroit de moitié.  
 
-    MEROPE.    
+    MEROPE.
 Que ce discours me plaist, continuez encore,  
 Il charme avec mes sens l'ennuy⁎ qui me devore :  
 Si tes hautes vertus surpassent tes malheurs,  
@@ -1549,7 +1549,7 @@ Les peuples delivrez des maux qu'ils avoient eus,
 Eslevoient jusqu'au Ciel son nom et ses vertus.  
 À de nouveaux lauriers sa valeur veut pretendre,  
 Et fils aussi pieux comme genereux⁎ gendre,  
-Il veut vanger son pere ayant vangé le mien,                  
+Il veut vanger son pere ayant vangé le mien,  
 Voyant qu'en Etolie on ne craignoit plus rien,  
 Il demande aussi-tost que ces troupes fidelles⁎,  
 Dont on s'estoit servy pour vaincre les rebelles  
@@ -1577,8 +1577,8 @@ Pour y trouver la mort ; c'est là tout mon soucy⁎.
 C'est là toute ma crainte.  
 
     MEROPE.
-            Et c'est la mienne aussi.  
-Mais il faut toutefois dissimuler ma haine,                  
+        Et c'est la mienne aussi.  
+Mais il faut toutefois dissimuler ma haine,  
 J'attens de jour en jour le genereux⁎ Tyrene,  
 Il peut chasser ma crainte, et mes soucis⁎ cuisans,  
 Il sçait tous mes secrets, c'est luy depuis quinze ans.  
@@ -1610,7 +1610,7 @@ Il sçait que vous vivez ; Mais que veut Cephalie ?
 CEPHALIE. MEROPE. PHILOCLEE.
 
 
-    CEPHALIE.    
+    CEPHALIE.
 C'est Tyrene, Madame, est dedans [238] ce Palais [239].  
 
     MEROPE.
@@ -1622,7 +1622,7 @@ Mais voicy Demochare, ah rencontre cruelle !
 Ah respects importuns !  
 
     MEROPE.
-            Souffrez⁎ son entretien,  
+        Souffrez⁎ son entretien,  
 Tandis que j'aprendray vostre sort⁎ et le mien.  
 Plus il est inhumain⁎, plus monstrez [240] vous humaine,  
 Et devant son amour cachez bien votre haine.  
@@ -1636,7 +1636,7 @@ Un magnanime cœur ne peut dissimuler.
 DEMOCHARE. PHILOCLEE.
 
 
-    DEMOCHARE.    
+    DEMOCHARE.
 D'où naist cette douleur ? Pourquoi, belle Princesse,  
 Livrez-vous vos appas⁎ au dueil, à la tristesse ?  
 Ces soucis⁎ et ces pleurs n'auront-ils point de fin ?  
@@ -1654,14 +1654,14 @@ Celuy de la Fortune⁎, et celui de l'Amour.
 O Ciel, ô juste⁎ Ciel !  
 
     DEMOCHARE.
-            Vous changez de visage.  
+        Vous changez de visage.  
 Est-ce vous offenser, et vous faire un outrage,  
-De cherir vos beautez et de les reverer ?                      
+De cherir vos beautez et de les reverer ?  
 Mesprisez-vous le Dieu qui vous fait adorer ?  
 Et fuyez-vous l'Amour ?  
 
     PHILOCLEE.
-            Je le fuis comme un vice.  
+        Je le fuis comme un vice.  
 
     DEMOCHARE.
 Puis qu'il veut qu'on vous serve il est plein de justice.  
@@ -1683,7 +1683,7 @@ Qui vous fait proferer ces mots insupportables,
 
     PHILOCLEE.
 C'est l'extreme pitié que j'ay de mes semblables,  
-La peur qu'un mesme sort⁎ me comble un jour d'ennuy⁎,          
+La peur qu'un mesme sort⁎ me comble un jour d'ennuy⁎,  
 
     DEMOCHARE.
 Mais laissant l'avenir, et l'interest⁎ d'autruy,  
@@ -1707,7 +1707,7 @@ Je n'ay que des Heros et des Rois pour parens :
 Sans allier ma race à celle des Tyrans,  
 Sans estre leur espouse et regner par le crime  
 Mon pere me conserve un thrône legitime.  
-Qui n'est point usurpé, qu'il tient de ses Ayeux,                  
+Qui n'est point usurpé, qu'il tient de ses Ayeux,  
 Et que n'abattra point la Justice des Cieux.  
 
     DEMOCHARE.
@@ -1732,22 +1732,22 @@ Le Ciel vous a ravy jusqu'à la liberté ?
 Il m'a laissé l'honneur.  
 
     DEMOCHARE.
-            Il est en ma puissance,  
+        Il est en ma puissance,  
 Songez quel [245] est celuy que ce mespris offence,  
-Voyez vostre fortune⁎ et les honneurs offers,                  
+Voyez vostre fortune⁎ et les honneurs offers,  
 Abaissez vostre orgueil et reprenez vos fers.  
 
     PHILOCLEE.
 Est-ce ainsi qu'on me traite ?  
 
     DEMOCHARE.
-                Est-ce ainsi qu'on me brave ?  
+        Est-ce ainsi qu'on me brave ?  
 
     PHILOCLEE.
 Ah trop cruel Tyran !  
 
     DEMOCHARE.
-            Trop orgueilleuse esclave.  
+        Trop orgueilleuse esclave.  
 
     PHILOCLEE.
 Ah vengeance ! Ah mon pere ! Ah mes divins Ayeux !  
@@ -1762,7 +1762,7 @@ Et le grand Amynthas armeroit à la fois
 Toutes les nations qu'il range sous ses loix :  
 Les Dolopes [246] fameux, les voisins des Albanes,  
 Les Calydoniens [247], et les fiers Athamanes [248].  
-Inondans ces pays ainsi que [249] des torrens,                  
+Inondans ces pays ainsi que [249] des torrens,  
 Des Estats usurpez chasseroient les Tyrans,  
 Et leur donnant la mort pour leurs dignes salaires,  
 Remettroient mon Espoux au thrône de ses Peres.  
@@ -1772,11 +1772,11 @@ Vous avez un Espoux, ô Ciel qu'ay-je entendu !
 Mais qui seroit-ce en fin ?  
 
     PHILOCLEE.
-                Helas ! tout est perdu,  
+        Helas ! tout est perdu,  
 Et j'ay tout descouvert.  
 
     DEMOCHARE.
-            Seroit-ce Telephonte ?  
+        Seroit-ce Telephonte ?  
 C'est luy-mesme, c'est luy, la fureur me surmonte,  
 Telephonte, ô bons Dieux ! mon ennemy mortel,  
 L'horreur de tous les miens, ce brutal, ce cruel,  
@@ -1788,7 +1788,7 @@ Ce fugitif sans biens, ce Prince sans couronne,
 Que la fortune⁎ laisse et le Ciel abandonne.  
 
     PHILOCLEE.
-Mais ses hautes vertus ne l'abandonnent pas,                  
+Mais ses hautes vertus ne l'abandonnent pas,  
 Ne le mesprisez point et songez à Lycas.  
 
     DEMOCHARE.
@@ -1812,7 +1812,7 @@ Voicy mes volontez, et les loix de mon Pere,
 Demain dés que le jour luira sur l'Hemysphere  
 Au Temple de Junon je veux estre avec vous,  
 Là nous prendrons les noms et d'Espouse et d'Espoux.  
-Que nul de vostre part ne choque [251] mon envie⁎ :              
+Que nul de vostre part ne choque [251] mon envie⁎ :  
 Car un seul mot lâché luy cousteroit la vie.  
 Vous y pourrez songer tout le reste du jour,  
 Mais pour vostre interest⁎ respectez mon amour.  
@@ -1837,7 +1837,7 @@ Elle sçait qu'un soùpir suffit pour m'esmouvoir,
 Et son cœur en secret se rit de mon pouvoir.  
 Je veux l'humilier et punir son audace,  
 Orgueilleuse beauté n'espere plus de grace,  
-Si demain ton esprit ne respond à mes vœux,             
+Si demain ton esprit ne respond à mes vœux,  
 Si ta severe [254] humeur ne brusle de mes feux,  
 Et si tu ne consens à l'Hymen où j'aspire,  
 Tu me nommes Tyran, mais je deviendray pire.  
@@ -1854,7 +1854,7 @@ Ce qu'Hermocrate veut et que le Ciel ordonne.  < Fin du second Acte. >
 PHILOCLEE. ORPHISE.
 
 
-    PHILOCLEE.    
+    PHILOCLEE.
 Tyrene pourroit seul me tirer de soucy⁎ :  
 Mais je n'ay pû le voir depuis qu'il est icy.  
 J'allois de Telephonte apprendre la fortune⁎,  
@@ -1869,7 +1869,7 @@ Ny de ce qui me trouble apprendre la nouvelle :
 Par malheur Hermocrate estoit lors [255] avec elle,  
 Et ne la quitta point tout le temps que j'y fus,  
 La Reyne avoit l'esprit inquiet et confus,  
-Et sans qu'elle ait parlé, sur son triste visage                  
+Et sans qu'elle ait parlé, sur son triste visage  
 J'ay trop leu les effets d'un malheureux message  
 Si mon soupçon est vray, que feray-je ô bons Dieux !  
 
@@ -1895,12 +1895,12 @@ Tyrene le sçait bien, et ne me l'apprend pas.
 
     ORPHISE.
 En cent lieux differens vous conduisez vos pas,  
-Comme vous le cherchez il vous cherche peut-estre,              
+Comme vous le cherchez il vous cherche peut-estre,  
 Dans vostre appartement quelqu'un l'a veu paraître  
 Vous estiez chez la Reyne.  
 
     PHILOCLEE.
-                Ah sans doute il me fuit,  
+        Ah sans doute il me fuit,  
 Il craint de m'annoncer le malheur qui me suit,  
 Et d'affliger encor un esprit qui soupire,  
 Sçachant mon infortune il me la devroit dire.  
@@ -1912,7 +1912,7 @@ Mais Demochare vient pour me persecuter,
 Fuions.  
 
     ORPHISE.
-Il faut l'attendre et ne pas l'irriter.  
+        Il faut l'attendre et ne pas l'irriter.  
 
     PHILOCLEE.
 Ah ce mauvais Genie [258] est toujours à ma suitte,  
@@ -1927,7 +1927,7 @@ C'est l'unique moyen qui m'en pourra deffaire.
 DEMOCHARE, PHILOCLEE.
 
 
-    DEMOCHARE.    
+    DEMOCHARE.
 Un chagrin eternel accompagne vos jours.  
 
     PHILOCLEE.
@@ -1944,10 +1944,10 @@ Si vous avez beaucoup d'ennuis⁎ et de soucy⁎,
 La fortune⁎ en est cause.  
 
     PHILOCLEE.
-            Et les Tyrans aussi.  
+        Et les Tyrans aussi.  
 
     DEMOCHARE.
-Vostre esprit querelleux [260] est sans cesse en colere.              
+Vostre esprit querelleux [260] est sans cesse en colere.  
 
     PHILOCLEE.
 C'est que l'on prend plaisir sans cesse à me desplaire,  
@@ -1976,7 +1976,7 @@ Achevez, achevez.
 Dieux !  
 
     DEMOCHARE.
-    Ce mot seulement augmente vos soucis⁎.              
+        Ce mot seulement augmente vos soucis⁎.  
 
     PHILOCLEE.
 Enfin declarez-moy quelle est cette aventure.  
@@ -2003,7 +2003,7 @@ Respondez donc ?
 
     DEMOCHARE.
         Les Rois ont par tout [263] des amis.  
-On ne peut rien cacher aux yeux des sages Princes,              
+On ne peut rien cacher aux yeux des sages Princes,  
 J'ay de bons espions dans toutes vos Provinces.  
 Et c'est d'eux que j'ay sceu la mort de mon Rival.  
 
@@ -2011,13 +2011,13 @@ Et c'est d'eux que j'ay sceu la mort de mon Rival.
 Helas s'il disoit vray !  
 
     DEMOCHARE.
-            Ce coup vous est fatal.  
+        Ce coup vous est fatal.  
 
     PHILOCLEE.
 Telephonte est vivant.  
 
     DEMOCHARE.
-            Il est dedans [264] la Tombe.  
+        Il est dedans [264] la Tombe.  
 
     PHILOCLEE.
 Le Ciel ne permet pas que la vertu succombe,  
@@ -2031,7 +2031,7 @@ Parmy mes ennemis seroy-je sans alarmes⁎ [265].
 
     DEMOCHARE.
 Je viens, je viens icy pour essuier vos larmes.  
-Puis que vous estes veufve et n'avez plus d'espoux,              
+Puis que vous estes veufve et n'avez plus d'espoux,  
 Je viens prendre sa place, et viens m'offrir à vous.  
 En perdant un mary vous en gagnez un autre,  
 Rien n'empesche à present que je ne sois le vostre.  
@@ -2057,10 +2057,10 @@ S'il est mort, je n'en puis espouser l'homicide.
 De quoy m'accusez-vous ?  
 
     PHILOCLEE.
-                D'un dessein parricide.  
+        D'un dessein parricide.  
 
     DEMOCHARE.
-Ce bras ne l'a point mis dedans le monument⁎.                  
+Ce bras ne l'a point mis dedans le monument⁎.  
 
     PHILOCLEE.
 Vous en estes la cause, un autre l'instrument.  
@@ -2086,7 +2086,7 @@ Telephonte viendra pour troubler son repos,
 Il n'evitera point le bras de ce Heros.  
 
     DEMOCHARE.
-Il n'est plus rien qu'un ombre [266] aussi bien que son pere :          
+Il n'est plus rien qu'un ombre [266] aussi bien que son pere :  
 Mais que n'est-il vivant ce jeune temeraire ?  
 Que ne le puis je voir dans les champs de l'honneur ?  
 Je voudrois seul à seul luy montrer ma valeur.  
@@ -2113,8 +2113,8 @@ Vanter vostre valeur, l'egaler à la sienne,
 C'est vouloir egaler et le foible et le fort,  
 Le lasche et le vaillant.  
 
-    DEMOCHARE.    
-            Et le vif [269] et le mort.  
+    DEMOCHARE.
+        Et le vif [269] et le mort.  
 
     PHILOCLEE.
 Comme luy vostre bras imite un Pere illustre,  
@@ -2139,7 +2139,7 @@ Ou je me vengeray par un coup legitime.
 
     PHILOCLEE.
 Si vous estes honteux qu'on vous reproche un crime,  
-Ce reproche à bon droit rend vostre esprit confus :              
+Ce reproche à bon droit rend vostre esprit confus :  
 Mais de l'avoir commis vous devez l'estre plus.  
 
     DEMOCHARE.
@@ -2152,7 +2152,7 @@ Son bras accomplira tout ce que j'ay predit.
 Ce langage vous trouble.  
 
     DEMOCHARE.
-            Il n'a rien qui m'esmeuve,  
+        Il n'a rien qui m'esmeuve,  
 Telephonte n'est plus, et Philoclée est veusve.  
 L'un ne peut m'offencer, l'autre est en mon pouvoir,  
 Et quel est mon dessein, je vous l'ay fait sçavoir.  
@@ -2162,13 +2162,13 @@ Comme je suis à vous, vous devez estre à moy,
 Hermocrate l'ordonne.  
 
     PHILOCLEE.
-            Ah Tyrannique loy.  
+        Ah Tyrannique loy.  
 Je n'y puis consentir.  
 
     DEMOCHARE.
-            Vous estes à Missene,  
+        Vous estes à Missene,  
 Et non en Etolie, et sur les bords d'Evene,  
-Rien ne peut empescher ce que j'ay resolu,                  
+Rien ne peut empescher ce que j'ay resolu,  
 Icy mon pere regne, et je suis absolu [272].  
 Montrez-vous complaisante à ma pudique⁎ flame,  
 Tandis que le respect loge encor dans mon ame,  
@@ -2192,7 +2192,7 @@ Et le thrône Royal est plus doux qu'un cercueil.
 PHILOCLEE. ORPHISE.
 
 
-    PHILOCLEE.    
+    PHILOCLEE.
 Tyran tu crois en vain accomplir ton envie⁎,  
 Je sçauray preferer mon honneur à ma vie ;  
 Je sçauray me montrer en courant au trespas,  
@@ -2211,7 +2211,7 @@ Mais ne l'accusez plus, je le voy qui s'avance.
 PHILOCLEE, TYRENE.
 
 
-    PHILOCLEE.    
+    PHILOCLEE.
 Ah Tyrene ! en deux mots dy moy quel est mon sort⁎,  
 Mon pere est-il vivant, Telephonte est-il mort ?  
 
@@ -2230,7 +2230,7 @@ Dissimulons [276] : son sort⁎ est encor inconnu,
 On ne sçait à la Cour ce qu'il est devenu.  
 L'on a cherché partout, et traversé l'Empire,  
 De la mer d'Ionie aux montagnes d'Epire [277].  
-Quelques vœux qu'on ait faits, quelque soin⁎ qu'on ait pris,      
+Quelques vœux qu'on ait faits, quelque soin⁎ qu'on ait pris,  
 On n'a rien descouvert, on n'en a rien appris.  
 
     PHILOCLEE.
@@ -2256,7 +2256,7 @@ Et pour l'ensevelir avec ce que j'aimois.
 
     TYRENE.
 S'il estoit succombé [279] sous ces fatales loix,  
-Les Barbares autheurs de cette violence                      
+Les Barbares autheurs de cette violence  
 En auroient demandé l'infame recompense,  
 Et desja dans Missene on eust veu ces bourreaux  
 Chercher un nouveau prix pour des crimes nouveaux [280].  
@@ -2282,7 +2282,7 @@ Amynthas ayant sceu vostre captivité,
 Arme dans ses Estats pour vostre liberté.  
 Et bien que de soldats abonde l'Etolie,  
 À ses sujets encor ses voisins il allie,  
-Et fait en diligence equiper des vaisseaux,            
+Et fait en diligence equiper des vaisseaux,  
 Pour dompter la fureur des Tyrans et des eaux.  
 Il veut que dans ces lieux la flame, le fer brille [282] :  
 Il veut perdre Hermocrate et delivrer sa fille,  
@@ -2310,37 +2310,37 @@ Que di-je ? où suis-je ? ô Dieux, que doi-je devenir ?
 Le present vous fait peur.  
 
     PHILOCLEE.
-                Encor plus l'advenir [285].  
+        Encor plus l'advenir [285].  
 
-    TYRENE.    
+    TYRENE.
 Vous devez esperer.  
 
     PHILOCLEE.
-            Mais j'ay sujet de craindre.  
+        Mais j'ay sujet de craindre.  
 
     TYRENE.
 Appaisez ces regrets [286].  
 
     PHILOCLEE.
-            J'ay raison de me plaindre.  
+        J'ay raison de me plaindre.  
 
     TYRENE.
 Il faut se consoler.  
 
     PHILOCLEE.
-            Ah pour me consoler  
+        Ah pour me consoler  
 Il faudroit d'un Espoux les esprits [287] rappeller,  
 Qu'il sortit du tombeau que vivant je le visse.  
 Faut-il que la vertu soit esclave du vice ?  
 Quoy Telephonte est mort !  
 
     TYRENE.
-                Aveuglement d'Amour !  
+        Aveuglement d'Amour !  
 Le Prince en quelque lieu respire encor le jour :  
 Mais vostre desespoir un cerceuil luy prepare.  
 
     PHILOCLEE.
-Je ne puis eviter la tombe, ou Demochare,                  
+Je ne puis eviter la tombe, ou Demochare,  
 J'abhorre ce perfide, et veux dés aujourd'huy  
 Me donner la mort, pour n'estre pas à luy.  
 
@@ -2365,7 +2365,7 @@ On sçait qu'à sa fureur s'égale son pouvoir.
 
     TYRENE.
 Quoy qu'il puisse arriver, je feray mon devoir  
-Pour prolonger vos jours, si j'abrege ma vie                  
+Pour prolonger vos jours, si j'abrege ma vie  
 Une si belle mort sera digne d'envie⁎,  
 Ne craignez rien pour moy je m'en vay l'aborder.  
 
@@ -2380,36 +2380,36 @@ Ne craignez rien pour moy je m'en vay l'aborder.
 CEPHALIE, MEROPE.
 
 
-    CEPHALIE.    
+    CEPHALIE.
 Tout est perdu Madame.  
 
     MEROPE.
-            Et qu'as-tu Cephalie ?  
+        Et qu'as-tu Cephalie ?  
 Quelque nouveau malheur nous vient-il d'Etolie ?  
 
     CEPHALIE.
 Ah je fremis d'horreur. Le puis-je dire ?  
 
     MEROPE.
-                    O Dieux !  
+        O Dieux !  
 
     CEPHALIE.
 Un espion qui vient d'arriver en ces lieux,  
 Dit que le Prince est mort, et que son homicide  
 Viendra chercher le prix d'un acte si perfide.  
-Et le Tyran le sçait.                              
+Et le Tyran le sçait.  
 
     MEROPE.
-            Helas ! que me dis-tu ?  
+        Helas ! que me dis-tu ?  
 
     CEPHALIE.
 Madame.  
 
     MEROPE.
-Je me meurs.  
+    Je me meurs.  
 
     CEPHALIE.
-            Montrez vostre vertu.  
+        Montrez vostre vertu.  
 
     MEROPE.
 Par ce cruel recit me l'as-tu pas ravie ?  
@@ -2425,9 +2425,9 @@ As-tu veu l'espion, ne te trompes-tu pas ?
 Je ne me trompe point.  
 
     MEROPE.
-            Ah miserable mere !  
+        Ah miserable mere !  
 Quoy te reservois-tu [294] pour voir cette misere.  
-Ay-je à mon propre honneur preferé la clarté [295],                  
+Ay-je à mon propre honneur preferé la clarté [295],  
 Pour voir jusqu'à quel poinct monte l'impiété,  
 Et le dernier malheur où tombe un miserable [296],  
 Helas qui desormais me sera secourable !  
@@ -2442,17 +2442,17 @@ LE TYRAN, MEROPE.
 
 
     LE TYRAN.
-                Dieux ! j'appercoy la Reyne,  
+        Dieux ! j'appercoy la Reyne,  
 Evitons sa presence.  
 
     MEROPE.
-            Ah cruel ! me fuis-tu ?  
+        Ah cruel ! me fuis-tu ?  
 Viens voir les beaux effets de ta haute vertu,  
 Viens voir en ma douleur ce qu'a produit ta rage,  
 Je suis encor vivante acheve ton ouvrage,  
 Et rens ton crime illustre en m'ostant la clarté [297],  
 Lasche et barbare autheur [298] de ma calamité.  
-Vien, vien, pour terminer ma vie et ma misere,                  
+Vien, vien, pour terminer ma vie et ma misere,  
 Homicide du fils, vien, massacre la mere,  
 Vien pour m'ouvrir le sein, vien me percer le flanc,  
 Acheve de verser, ce n'est qu'un mesme sang,  
@@ -2480,7 +2480,7 @@ Mon ame vous revere, et vous me faites tort.
 
     MEROPE.
 Barbare, fais-tu voir ton amour par la mort ?  
-Celle de Téléphonte en est-elle une marque ?                  
+Celle de Téléphonte en est-elle une marque ?  
 Ton cœur pour m'obliger [302] l'offre-t'il à la Parque ?  
 Pour montrer le respect qu'il a tousjours pour moy,  
 Tu devois amener l'assassin avec toy.  
@@ -2507,7 +2507,7 @@ Regardez l'advenir plein d'heur et plein de gloire.
 Les disgraces, les maux, les regrets, les souspirs  
 Desormais feront place aux honneurs, aux plaisirs.  
 
-    MEROPE.    
+    MEROPE.
 Il faut qu'à la douleur mon esprit s'abandonne,  
 Tu m'ostes mes enfans Cresphonte et la couronne.  
 Je suis mere sans fils, et femme sans espoux,  
@@ -2534,7 +2534,7 @@ Mon bras à tous les Rois eust declaré la guerre,
 Et pour vous posseder eust desolé la terre.  
 Il eust fait voir par tout l'image du trespas.  
 
-    MEROPE.    
+    MEROPE.
 Ce que je viens d'entendre, ô Ciel ! l'entens-tu pas ?  
 Fais luire les éclairs, et d'un traict de tempeste  
 De ce monstre cruel viens écraser la teste.  
@@ -2560,7 +2560,7 @@ Mais songez qu'Hermocrate est aussi vostre Espoux,
 Et malgré cet outrage, a du respect pour vous,  
 Pour vous le tesmoigner il faut que je vous quitte,  
 Au lieu de l'appaiser ma presence l'irrite,  
-Le temps pourra calmer ses esprits furieux,                  
+Le temps pourra calmer ses esprits furieux,  
 Tandis [308], allons au Temple, et rendons grace aux Dieux.  
 
 
@@ -2583,7 +2583,7 @@ Aprehendez⁎ encor le celeste courroux.
     MEROPE.
 Quoy, veux-tu que je vive au milieu des supplices ?  
 Parmy le sang, la mort, la cruauté, les vices.  
-Tous les miens sont peris [309], il ne reste que moy, [310]              
+Tous les miens sont peris [309], il ne reste que moy, [310]  
 Fuions de ces Palais cruels et pleins d'effroy ;  
 Allons dans les enfers, allons treuver Cresphonte,  
 Androphile, Drias, Eudeme [311], et Telephonte ;  
@@ -2605,10 +2605,10 @@ Et de nos propres mains deschirons-nous le sein.
 O Dieux !  
 
     MEROPE.
-Cruelle, non.  
+    Cruelle, non.  
 
     CEPHALIE.
-            Quel est vostre dessein ?  
+        Quel est vostre dessein ?  
 Arrestez, arrestez, et que pensez-vous faire ?  
 
     MEROPE.
@@ -2616,32 +2616,32 @@ Quoy veux-tu m'empescher de finir ma misere ?
 
 
 ### SCENE IV.
-ORPHISE, CEPHALIE, MEROPE.                    
+ORPHISE, CEPHALIE, MEROPE.
 
 
     ORPHISE.
 Dieux ! qu'est-ce que je voy ?  
 
     CEPHALIE.
-                Venez la secourir.  
+        Venez la secourir.  
 
     ORPHISE.
 Que faites-vous Madame ?  
 
     MEROPE.
-            Ah laissez moy mourir !  
+        Ah laissez moy mourir !  
 
     ORPHISE.
 Calmez cette fureur.  
 
     MEROPE.
-            Vostre pitié m'offence.  
+        Vostre pitié m'offence.  
 
     ORPHISE.
 Armez-vous d'un poignard, et pour vostre allegeance [312],  
 Qu'une juste⁎ fureur vous le mette à la main.  
 Venez, venez punir le meurtrier inhumain⁎,  
-Il est dedans ces lieux cet esprit sanguinaire.                  
+Il est dedans ces lieux cet esprit sanguinaire.  
 
     MEROPE.
 O bons Dieux !  
@@ -2693,7 +2693,7 @@ C'est ce que j'entreprens, c'est que je veux faire,
 Je sçay que je suis fils, qu'il faut vanger mon pere.  
 Je mesprise le sort⁎ et les coups du malheur,  
 Je feray mon devoir, les Dieux feront le leur.  
-Je vois avec plaisir la fatale journée,                      
+Je vois avec plaisir la fatale journée,  
 Que pour un si grand coup choisit la destinée.  
 Songe à cette action, resjouis-toy mon bras,  
 Quand mesme je mourrois, elle ne mourroit pas.  
@@ -2721,7 +2721,7 @@ Il est sujet fidelle⁎ et puissant dans Missene,
 Puis Hermocrate icy n'est qu'un objet de haine,  
 Pour moy j'y suis aimé, mon nom connu des miens  
 Suffit pour esmouvoir tous les Messeniens,  
-Ainsi j'ay dans ces lieux une secrette armée,                  
+Ainsi j'ay dans ces lieux une secrette armée,  
 De l'amour de son Prince, et du Ciel animée.  
 Le peuple qui souspire apres sa liberté  
 Me fera voir son zele⁎ en cette extremité.  
@@ -2749,7 +2749,7 @@ Moderons-nous pourtant, faisons-nous violence
 Cachons nostre douleur, asseurons la vangeance,  
 Afin de parvenir au but où [318] je pretens,  
 Ma fureur dans mon sein sommeille quelque temps ;  
-Je l'apperçoy qui vient, dissimulons mon ame,                  
+Je l'apperçoy qui vient, dissimulons mon ame,  
 Oublions un instant et l'amour et ma femme.  
 
 
@@ -2774,7 +2774,7 @@ Le coup en est hardy, le dessein genereux⁎,
 Il sauve cet Estat, et te doit rendre heureux,  
 Tu n'as pas vainement entrepris ce voyage,  
 On te prepare un prix egal à ton courage,  
-Le salaire t'attend, n'en sois point en soucy⁎.                  
+Le salaire t'attend, n'en sois point en soucy⁎.  
 
     TYNDARE.
 C'est là ce qui m'amene, et je l'espere ainsi.  
@@ -2791,7 +2791,7 @@ Que le fils est heureux qui peut vanger son Pere.
 Ce sentimens est juste⁎.  
 
     DEMOCHARE.
-            Il vit toujours en moy.  
+        Il vit toujours en moy.  
 Mais tu fais plus encor en conservant un Roy,  
 C'est l'image des Dieux icy bas reverée.  
 Outre que parmi nous sa personne est sacrée,  
@@ -2802,7 +2802,7 @@ Si la paix regne icy ta valeur nous la donne,
 Par toy nostre Ennemy voit ses desseins trahis,  
 Mais aprens moy ton nom, ton destin, ton pays.  
 
-    TYNDARE.     
+    TYNDARE.
 On me nomme Tyndare, et je suis de Missene,  
 La Fortune⁎ toujours m'a tesmoigné sa haine,  
 Me trouvant en bas age et sans pere et sans biens  
@@ -2814,7 +2814,7 @@ De vanger de ma main le cruel attentat
 Tramé contre mon Roy.  
 
     DEMOCHARE.
-            Ah ! viens que je t'embrasse,  
+        Ah ! viens que je t'embrasse,  
 Que j'ayme ta valeur ta genereuse⁎ audace.  
 Croy que mon Pere aussi n'a rien qui ne soit tien,  
 Ton destin va changer n'aprehendes⁎ plus rien:  
@@ -2827,8 +2827,8 @@ Je suis le plus heureux qui soit sous le soleil.
 Je n'ay rien fait encor digne d'un grand courage,  
 J'attends l'occasion.  
 
-    DEMOCHARE.     
-            Que veux-tu davantage ?  
+    DEMOCHARE.
+        Que veux-tu davantage ?  
 N'as-tu pas de mon Pere asseuré les Estats ?  
 Je possede en repos [319] la fille d'Amynthas.  
 On ne peut trop loüer ta haute hardiesse [320],  
@@ -2843,7 +2843,7 @@ Tu seras le tesmoin de mon bon-heur extréme,
 Tu viens tout à propos.  
 
     TYNDARE.
-            La Princesse vous ayme,  
+        La Princesse vous ayme,  
 De vos hautes vertus son cœur sera le prix.  
 
     DEMOCHARE.
@@ -2855,8 +2855,8 @@ Pardonnez moy Seigneur, si j'ose ouvrir la bouche
 Mais je prends tant de part à tout ce qui vous touche,  
 Que je ne m'en puis taire.  
 
-    DEMOCHARE.     
-            Ah ! dy tout franchement,  
+    DEMOCHARE.
+        Ah ! dy tout franchement,  
 Tu le peux desormais, parle donc hardiment.  
 
     TYNDARE.
@@ -2864,7 +2864,7 @@ Sondons-le jusqu'au bout [321], un bruit court à Missene,
 Mais sans doute un faux bruit.  
 
     DEMOCHARE.
-                Quel [322] ! oste moy de peine.  
+        Quel [322] ! oste moy de peine.  
 
     TYNDARE.
 On dit que la Princesse est triste en cette Cour,  
@@ -2883,7 +2883,7 @@ Mais le terme s'aproche, y consentira-t'elle ?
     DEMOCHARE.
 Elle y doit consentir, elle doit estre à moy.  
 
-    TYNDARE.    
+    TYNDARE.
 L'on dit qu'à Telephonte elle a donné sa foy⁎,  
 Que par mille sermens elle s'est engagée :  
 Mais pour vous justement on la verra changée.  
@@ -2912,7 +2912,7 @@ Il faut ou qu'elle meure, ou qu'elle soit ma femme.
     TYNDARE.
 Barbare auparavant je t'arracheray l'ame.  
 
-    DEMOCHARE.    
+    DEMOCHARE.
 Philoclée est captive et sujette à mes loix,  
 Tu sçais qu'elle est Esclave, une Esclave est sans chois,  
 Je ne voy nul obstacle à nostre mariage [328]  
@@ -2938,7 +2938,7 @@ Quelle marque [330] à mon Pere en aporteras tu ?
 Pour l'en mieux asseurer aportes-tu sa teste  
 Qui de l'Estat troublé doit calmer la tempeste ?  
 
-    TYNDARE.    
+    TYNDARE.
 Ouy je l'aporte au Roy, j'ay tout ce qu'il pretend [331].  
 
     DEMOCHARE.
@@ -2966,7 +2966,7 @@ Pour contenter ma haine et pour vanger les miens,
 Par ce coup genereux⁎ j'eusse avec Telephonte  
 Entierement esteint la race de Cresphonte :  
 J'eusse achevé l'ayant dessous moy terracé,  
-L'ouvrage que mon Pere a si bien commencé,                  
+L'ouvrage que mon Pere a si bien commencé,  
 Mais qu'as-tu ? Tu paslis, tu changes de visage.  
 
     TYNDARE.
@@ -2999,7 +2999,7 @@ Ah belle occasion ! ô Ciel seconde moy.  < Fin du quatriesme Acte. >
 
 
 ### SCENE PREMIERE.
-TYDEE, THOAS, TYRENE.                     
+TYDEE, THOAS, TYRENE.
 
 
     TYDEE.
@@ -3018,7 +3018,7 @@ O Dieux !
 
     TYRENE.
         Il entreprend un genereux⁎ dessein,  
-Il vient des bords d'Evene aux rives de Pamise [337],              
+Il vient des bords d'Evene aux rives de Pamise [337],  
 Afin de rendre aux siens l'honneur et la franchise [338].  
 Il faut mes chers amis, il faut le secourir,  
 Avecque nostre Prince il faut vaincre ou mourir,  
@@ -3045,7 +3045,7 @@ L'on peut en un besoin [340] tout le peuple esmouvoir.
 Allons donc pour les joindre [341], allons brave Tyrene,  
 Secondons nostre Prince, et delivrons Missene.  
 
-    TYRENE.    
+    TYRENE.
 La nuit nous favorise et tout nous est permis,  
 La Justice est pour nous, les Dieux sont nos amis,  
 Le Temple n'est pas loin, achevons l'entreprise,  
@@ -3056,7 +3056,7 @@ Ne permet pas aussi qu'on retarde un moment ;
 Mais quelqu'un vient icy.  
 
     TYRENE.
-            Sortons donc promptement.  
+        Sortons donc promptement.  
 
 
 ### SCENE II.
@@ -3068,7 +3068,7 @@ Il ne faut plus chercher cet assassin, cet traitre,
 Un traitre comme luy l'aura faict disparaistre.  
 Et nous avons couru tout le Palais en vain.  
 
-    MEROPE.    
+    MEROPE.
 Nous n'accomplirons point un si juste⁎ dessein,  
 O Destin trop cruel ! ô Ciel plein d'injustice !  
 Qui sauve un parricide, et l'arrache au supplice.  
@@ -3077,7 +3077,7 @@ Qui sauve un parricide, et l'arrache au supplice.
 Helas !  
 
     MEROPE.
-Tout nous perd, tout nous nuit, [342]  
+        Tout nous perd, tout nous nuit, [342]  
 Le Tyran est armé, l'homicide s'enfuit,  
 Il evite ce fer, la mort, et ma colere.  
 
@@ -3095,7 +3095,7 @@ J'ay souffert tous les maux, et pour mon allegeance [344]
 Je ne sçaurois gouster le bien de la vengeance.  
 O rage ! ô desespoir ! large abysme ouvre toy,  
 Fleuves débordez-vous, montagnes couvrez moy,  
-Que de mes tristes jours la course estant bornée,                  
+Que de mes tristes jours la course estant bornée,  
 Mes fiers [345] persecuteurs suivent ma destinée,  
 Qu'ils descendent tous vifs [346] chez les noirs habitants,  
 En vain je perce l'air de mes cris esclatans,  
@@ -3118,11 +3118,11 @@ Prenons, prenons la place et le foudre des Dieux,
 Faisons perir Tyndare.  
 
     PHILOCLEE.
-            Il fuit vostre presence,  
+        Il fuit vostre presence,  
 Et desrobe sa tete aux coups de la vengeance.  
 Ah Barbare ! ah cruel ! viens, viens tygre inhumain⁎,  
 Viens chercher le salaire, il est dedans ma main.  
-Je veux t'ouvrir le sein, deschirer tes entrailles,                  
+Je veux t'ouvrir le sein, deschirer tes entrailles,  
 Et vanger Telephonte avant mes funerailles.  
 
     MEROPE.
@@ -3149,7 +3149,7 @@ Allons donc les punir, allons, qui nous retarde,
 Allons les poignarder jusques sur nos Autels,  
 Qu'ils ont rougis du sang du plus grand des mortels.  
 
-    PHILOCLEE.     
+    PHILOCLEE.
 Dans nostre desespoir usons de la Prudence,  
 Pour oster le soupçon d'une juste⁎ vengeance.  
 Dans ce triste Palais attendons leur retour  
@@ -3164,20 +3164,20 @@ Le sang nous a conjoints, et nostre hymen nous lie.
 Mais quelqu'un vient icy.  
 
     PHILOCLEE.
-            C'est  
+    C'est  
 
     MEROPE.
-                Qui  
+    Qui  
 
     PHILOCLEE.
-                C'est Céphalie.  
+        C'est Céphalie.  
 
 
 ### SCENE III.
 MEROPE, CEPHALIE, PHILOCLEE.
 
 
-    MEROPE.     
+    MEROPE.
 Approche, approche, et voy mes desseins imparfaits [348],  
 Le sort⁎ cruel s'oppose à mes justes⁎ souhaits,  
 Le Ciel semble approuver un si grand parricide,  
@@ -3194,7 +3194,7 @@ Au lieu de se cacher il veut que l'on le voye,
 Et le peuple insensé jette des cris de joye,  
 Et par un bruit confus esleve jusqu'aux Cieux  
 Cet ennemy commun des hommes et des Dieux.  
-Un nombre de soldats l'assiste et l'environne,                  
+Un nombre de soldats l'assiste et l'environne,  
 Le Tyran avec luy partage sa couronne.  
 Cét assassin impie a la suite d'un Roy.  
 
@@ -3205,7 +3205,7 @@ Ce discours me transporte [350] et me remplit d'effroy.
 Mais j'entends quelque bruit.  
 
     MEROPE.
-                Ma fureur est extreme,  
+        Ma fureur est extreme,  
 
     CEPHALIE.
 Je croy l'apercevoir, ouy, c'est luy, c'est luy-mesme.  
@@ -3219,9 +3219,9 @@ TELEPHONTE, MEROPE, PHILOCLEE, CEPHALIE.
 Qu'on ne me suive pas.  
 
     MEROPE.
-            Suivons la passion.  
+        Suivons la passion.  
 
-    CEPHALIE.     
+    CEPHALIE.
 Il vient seul.  
 
     PHILOCLEE.    
@@ -3242,27 +3242,27 @@ J'executeray seule un acte si pieux.
 Ah traistre tu mourras !  
 
     MEROPE.
-            Oh Dieux que voy-je !  
+    Oh Dieux que voy-je !  
 
     PHILOCLEE.
-                        Oh Dieux !  
+        Oh Dieux !  
 
     TELEPHONTE.
 N'est-ce pas Philoclée ?  
 
-    PHILOCLEE.    
-            Ouy c'est elle.  
+    PHILOCLEE.
+    Ouy c'est elle.  
 
     MEROPE. 
-                    Inhumaine⁎  
+        Inhumaine⁎  
 Devenez-vous perfide en retardant sa peine,  
 Qu'attendez-vous ?  
 
     PHILOCLEE.
-            Helas !  
+    Helas !  
 
     TELEPHONTE.
-                Suis ton intention.  
+        Suis ton intention.  
 
     MEROPE.
 Vous laissez-vous flechir à la compassion,  
@@ -3271,23 +3271,23 @@ C'est une impieté que d'estre pitoyable ;
 Laissez, laissez moy faire.  
 
     PHILOCLEE.
-            Ah retenez ce bras !  
+        Ah retenez ce bras !  
 
     MEROPE.
 Non je me veux vanger par un juste⁎ trespas,  
 En vain vous m'empeschez, la fureur me surmonte.  
 
-    PHILOCLEE.    
+    PHILOCLEE.
 Tremperez-vous vos mains au sang de Telephonte ?  
 
     MEROPE.
 Telephonte,  
 
     PHILOCLEE.
-        C'est luy  
+    C'est luy  
 
     MEROPE.
-            Dieux que me dites vous !  
+        Dieux que me dites vous !  
 
     PHILOCLEE.
 Vous voyez vostre fils, et je voy mon Espoux.  
@@ -3296,16 +3296,16 @@ Vous voyez vostre fils, et je voy mon Espoux.
 Il n'est pas mort,  
 
     PHILOCLEE.
-        Non, non.  
+    Non, non.  
 
     TELEPHONTE.
-            Quelle horrible colere  
+        Quelle horrible colere  
 Arme contre ma vie, et ma femme, et ma mere ?  
 
     MEROPE.
 Nous n'avions pas dessein mon fils de t'outrager,  
 Au lieu de te punir, nous voulions te vanger.  
-De nos pieuses mains tu vois tomber les armes.                  
+De nos pieuses mains tu vois tomber les armes.  
 
     PHILOCLEE.
 Connois nostre innocence, et vois couler nos larmes.  
@@ -3333,7 +3333,7 @@ Quel bon-heur impreveu succede à nostre peine ?
 O femmes ! ô soldats ! ô peuple de Missene !  
 Accourez et voyez Telephonte vivant,  
 Helas je me repais d'un bonheur decevant [353].  
-O mon fils je te perds lors que je te rencontre,                  
+O mon fils je te perds lors que je te rencontre,  
 Je te vois avec crainte aux lieux [354] où regne un Monstre,  
 Et tu trouves la mort en trouvant tes parens :  
 Mais fuis pour eviter la fureur des Tyrans.  
@@ -3346,7 +3346,7 @@ Nous craignons justement la fureur d'Hermocrate.
 N'apprehendez⁎ plus rien.  
 
     MEROPE.
-            Tout est à redouter.  
+        Tout est à redouter.  
 
     TELEPHONTE.
 Il n'est plus en estat de vous persecuter.  
@@ -3360,14 +3360,14 @@ Pouvons-nous esperer cette felicité ?
 O Ciel !  
 
     TELEPHONTE.
-Ils ont perdu le Sceptre et la clarté.  
+        Ils ont perdu le Sceptre et la clarté.  
 
     MEROPE.
-Ah ! d'un acte heroïque exemple illustre et rare :              
+Ah ! d'un acte heroïque exemple illustre et rare :  
 Mais fais-nous ce recit.  
 
     TELEPHONTE.
-            Si tost que Demochare  
+        Si tost que Demochare  
 Eut appris mon trespas, qu'il creut legerement [355],  
 Les Dieux pour le punir troublans son jugement,  
 De le favoriser la Fortune⁎ estant lasse,  
@@ -3388,7 +3388,7 @@ Il demande secours, il appelle les siens,
 À moy, dit-il, soldats, à moy Messeniens,  
 Venez, venez vanger vostre illustre Monarque,  
 Qu'un traistre a fait tomber dans les bras de la Parque.  
-C'est moy dis-je, qui suis ton legitime Roy,          
+C'est moy dis-je, qui suis ton legitime Roy,  
 Seconde Telephonte, ô mon peuple suis moy !  
 À ce nom il se trouble, et chacun me contemple,  
 Un murmure confus se respand dans le Temple.  
@@ -3416,7 +3416,7 @@ Tous deux dans ce duel également armez,
 Tous deux également de fureur animez,  
 Cherchons dans le peril, ou la mort, ou la gloire.  
 Enfin mon ennemy me cede la victoire,  
-Il succombe, et la mort erre dedans ses yeux,            
+Il succombe, et la mort erre dedans ses yeux,  
 Lors [359] en luy reprochant ses crimes odieux,  
 Suy, luy dis-je, Hermocrate, allez Tyrans infames,  
 Chercher dans les enfers des Sceptres et des femmes,  
@@ -3432,7 +3432,7 @@ Un renom immortel suivra ceste victoire,
 Que mon fils a d'honneur.  
 
     PHILOCLEE.
-                Et mon Espoux de gloire  
+        Et mon Espoux de gloire  
 Nous ne jouissons plus d'un bon-heur decevant [360].  
 Qu'est devenu Tyrene ? est-il encor vivant  
 Ou mort dans le combat ?  
@@ -3442,8 +3442,8 @@ Ou mort dans le combat ?
 TELEPHONTE, TYRENE, MEROPE, PHILOCLEE.
 
 
-    TELEPHONTE.     
-            N'ensoyez plus en peine,  
+    TELEPHONTE.
+        N'ensoyez plus en peine,  
 Je l'appercoy qui vient, approchez-vous Tyrene,  
 Et venez prendre part à ma felicité.  
 Je ne puis trop loüer vostre fidelité,  

@@ -1,5 +1,5 @@
 ---
-identifier: corneille_psyche  
+identifier: corneille-thomas_psyche  
 creator: Corneille, Thomas  
 date: 1678  
 title: Psyché. Tragédie  
@@ -612,7 +612,7 @@ L'Amour s'envole, & la grande Machine enleve Venus sur le ceintre, pendant que l
  – DEUX SATIRES.taille, basse
  – 
  – 
- – < PSYCHE’, TRAGEDIE. >
+ – 
 
 
 ## ACTE PREMIER.
@@ -664,7 +664,7 @@ Mais d'où vient qu'avec tant d'attraits
 Psyché n'aima jamais ?  
 Qui brave trop l'Amour doit craindre sa colere.  
 
-    CIDIPPE. 
+    CIDIPPE.
 Il est un fatal moment,  
 Où l'Objet le plus severe  
 Se rend aux vœux d'un Amant,  
@@ -675,7 +675,7 @@ Plus elle aime tendrement.
 Lychas vient à nous.  
 
     CIDIPPE.
-Son visage  
+        Son visage  
 Nous marque une vive douleur.  
 
 
@@ -687,7 +687,7 @@ AGLAURE, CIDIPPE, LYCHAS.
 Ah ! Princesses !  
 
     AGLAURE.
-De quel mal-heur  
+        De quel mal-heur  
 Ce soûpir est-il le presage ?  
 
     LYCHAS.
@@ -831,7 +831,7 @@ LE ROY, PSYCHE' [94], AGLAURE, CIDIPPE.
 Psyché vient. A la voir je tremble.  
 
     CIDIPPE.
-Quel supplice !  
+        Quel supplice !  
 Le moyen de luy dire adieu ?  
 
     PSYCHE’  *à ses sœurs.*
@@ -842,10 +842,10 @@ Vous avez prévenu⁎ l'heure du Sacrifice ?
 Ah ! ma Sœur !  
 
     CIDIPPE.
-Ah ! ma Sœur !  
+    Ah ! ma Sœur !  
 
     PSYCHE’.
-Quels sont vos déplaisirs ?  
+        Quels sont vos déplaisirs ?  
 Quoy ? dans un jour si remply d'allegresse,  
 Où du Ciel la colere cesse,  
 Vous pouvez pousser des soûpirs ?  
@@ -854,7 +854,7 @@ Vous pouvez pousser des soûpirs ?
 Nous plaignons vostre erreur.  
 
     CIDIPPE.
-Ah ! trop funestes charmes !  
+        Ah ! trop funestes charmes !  
 
     PSYCHE’.
 Dites-moy donc le sujet de vos larmes.  
@@ -882,7 +882,7 @@ Il est permis de soûpirer.
 Et qui donc perdez-vous ?  
 
     LE ROY.
-Tout ce qu'en ma Famille  
+        Tout ce qu'en ma Famille  
 J'avois de cher, de precieux,  
 Le barbare decret des Dieux  
 Nous demande ton sang, il faut mourir, ma Fille,  
@@ -929,7 +929,7 @@ Adieu, Seigneur, je vay mourir.
 Tu me quittes.  
 
     PSYCHE’.
-Je veux vous épargner un crime.  
+        Je veux vous épargner un crime.  
 
     LE ROY.
 Quoy ? du Serpent tu seras la Victime ?  
@@ -938,7 +938,7 @@ Quoy ? du Serpent tu seras la Victime ?
 Vivez heureux.  
 
     LE ROY.
-Et le puis-je sans toy ?  
+        Et le puis-je sans toy ?  
 
     PSYCHE’.
 Ne pleurez point ma mort, la cause en est trop belle.  
@@ -948,7 +948,7 @@ Tu vas sur le Rocher, cruelle,
 Arreste, que fais tu ?  
 
     PSYCHE’ *montant sur le Rocher*
-Je fais ce que je doy.  
+        Je fais ce que je doy.  
 
     LE ROY.
 Au Monstre sans trembler tu te livres toy-mesme ?  
@@ -1460,10 +1460,10 @@ Satisfaites mes yeux, vous avez ce pouvoir.
 Vous me découvrirez⁎.  
 
     PSYCHE’.
-Ne craignez rien.  
+    Ne craignez rien.  
 
     VENUS.
-Je n'ose.  
+        Je n'ose.  
 
     PSYCHE’.
 Quoy, rien en ma faveur ne vous peut émouvoir ?  
@@ -1479,7 +1479,7 @@ Peut servir à vous éclairer.
 Que ne vous doy-je point ?  
 
     VENUS.
-Il faut me retirer,  
+        Il faut me retirer,  
 Ma presence nuiroit au desir qui vous presse.  
 
 
@@ -1550,7 +1550,7 @@ Crains-tout, ouvre les yeux, & connois qui je suis.
 C'est Venus que tu vois.  
 
     PSYCHE’.
-Dieux ! se pourroit-il faire !  
+        Dieux ! se pourroit-il faire !  
 Que Venus pour me perdre eût pû se déguiser ?  
 
     VENUS.

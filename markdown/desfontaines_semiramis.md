@@ -1,0 +1,4201 @@
+---
+identifier: desfontaines_semiramis  
+creator: Desfontaines, Nicolas  
+date: 1647  
+title: La Véritable Sémiramis. Tragédie  
+---
+
+
+La Véritable Sémiramis
+
+Tragédie
+
+Par le Sieur DESFONTAINES.
+
+A PARIS, Chez PIERRE LAMY, en la grande Salle du Palais, au second Pillier. M. DC. XXXXVII. Avec Privilège du Roy.
+
+
+
+# Introduction générale
+
+*La Véritable Sémiramis* est la dernière pièce de Desfontaines, un des auteurs dits mineurs du XVII*e* siècle. Cet auteur-acteur a certainement connu une petite notoriété à son époque mais les jugements de goût des premiers historiens du théâtre du XVIII*e* siècle qui ont sévèrement commenté ses œuvres ne lui ont pas permis de passer à la postérité. Son œuvre nous reste donc en grande partie inconnue.
+
+Si Desfontaines choisit d'insérer l'adjectif « véritable » dans le titre de sa pièce, c'est dans le but de souligner la rivalité qu'elle entretient avec une autre tragédie, publiée également en 1647, la *Sémiramis* de Gilbert. Il a en effet certainement écrit *La Véritable Sémiramis* pour concurrencer le succès de l'œuvre de son rival et pour profiter du goût de son époque pour les tragédies historiques. Néanmoins, bien que nous ne possédions pas de jugements contemporains sur cette opposition, les critiques du XX*e* siècle ont toujours mis en avant la supériorité de la pièce de Gilbert. Nous citerons ainsi le commentaire de Lancaster :
+
+
+La pièce de Gilbert est, de loin, la meilleure des deux. … Desfontaines a été attiré par ce sujet parce que Gilbert avait mis *Sémiramis* sur scène. Alors que, comme je l'ai dit, sa pièce est clairement inférieure à celle de Gilbert [1].
+
+Dans cette édition critique, nous essaierons donc de voir quelle est la valeur de *La Véritable Sémiramis* et de l'écriture de Desfontaines, auteur-acteur peu estimé de la postérité, qui a écrit sa tragédie en s'inspirant du roman *La Prazimène* de Le Maire dont il tire son intrigue principale. Entre concurrence dramatique et reprises textuelles du roman source, *La Véritable Sémiramis* est une œuvre aux inspirations multiples qui dresse le portait d'une reine tyrannique, prête à tuer un innocent pour conquérir celui qu'elle aime, avant d'apprendre qu'il s'agit en fait de son fils qu'elle pensait avoir perdu, et donc de souhaiter mourir.
+
+
+# L'auteur-acteur nommé Desfontaines
+
+
+## Un nom incertain
+
+Le nom de Desfontaines constitue la première énigme de ce personnage. En effet, nous retrouvons parfois sa trace sous le nom de Nicolas Mary, Desfontaines serait alors un pseudonyme qui correspondrait bien aux noms de scène que les comédiens se donnaient à cette époque. Mais dans les actes de l'Illustre Théâtre, le notaire le nomme « Nicolas Desfontaines » laissant ainsi planer le doute sur sa véritable identité. Son prénom apparaît aussi sous diverses formes. Selon Lancaster, il s'agirait de « Nicolas-Marc [2] » mais nous rencontrons aussi d'autres variantes comme « Nicolas Marin [3] » par exemple. Nous privilégierons l'hypothèse d'Alain Howe selon laquelle « Desfontaines fût son nom de guerre et Marie correspondît (avec une légère divergence de graphie) à son nom de famille [4] ». Dans les actes du *Minutier Central*, le comédien se nomme ainsi « Nicolas Mary, sieur Des Fontaines ».
+
+Cette incertitude à propos de son nom mène à douter de l'unité de la vie de Desfontaines. En effet, il s'agit de savoir si c'est bien le même homme qui a été avocat au Parlement puis comédien tout en écrivant des œuvres dramatiques et poétiques ainsi que des romans. Les recherches d'Alan Howe ainsi que celle de Simone de Ryeff et Claude Bourqui nous permettent de faire coïncider ces trois aspects de sa carrière.
+
+
+## Étudiant en droit puis avocat au Parlement
+
+Nous n'avons trouvé aucune mention de la date de naissance de Desfontaines mais Alan Howe la situe vers 1610. En effet, un acte d'obligation du 23 mars 1627 le définit comme « écolier, étudiant en l'université [5] ». Le jeune homme vivait alors rue Saint-Martin à Paris dans la paroisse Saint-Laurent tout comme son frère, Jean Mary qui était compagnon cordonnier. L'étudiant devient ensuite « avocat au parlement » comme le prouve des actes notariés du *Minutier central* concernant des baux de maison en 1636. Desfontaines appartient donc au « groupe important de dramaturges du XVII*e* siècle, formés à la robe [6] ». Un acte de la même année nous apprend également son mariage avec Antoinette de Maudinier et leur installation rue de l'Arbre-Sec [7]. Alan Howe relève ainsi que :
+
+
+Le couple habitait … près du pavillon des Singes, maison natale de Molière, aux côtés duquel Desfontaines devait jouer à Paris en 1644-1645, et auquel il aurait pu servir de modèle en renonçant à une carrière au barreau pour se faire comédien et en mettant sa plume au service de la troupe [8].
+
+
+## Desfontaines auteur
+
+Desfontaines semble avoir commencé sa carrière d'écrivain avec l'écriture du sonnet liminaire au *Passions égarées*, tragi-comédie de Richemont Branchereau, en 1632. Puis il écrivit autant des œuvres romanesques et poétiques que théâtrales. On peut ainsi relever l'écriture d'un roman, *Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles*, en 1636. Sa carrière d'écrivain dramatique commença en 1637 avec *Eurimédon ou l'Illustre Pirate*. Il a ensuite continué de produire des pièces à un rythme régulier, à raison d'une pièce par an environ. *Orphise ou la Beauté persécutée* fut ainsi publiée en 1638 tout comme *La Véritable Suite du Cid*.
+
+L'année suivante, Desfontaines publia *Hermogène* ainsi qu'un roman,* L'Inceste innocent, histoire véritable*, dont l'épître dédicatoire est signée « Desfontaines ». Sa production d'œuvre dramatique reprit en 1641 avec *Bélisaire* puis en 1642, les frères Parfaict [9] lui attribuent *Les Galantes Vertueuses* et il produisit également un sonnet [10]. Il publia sa première tragédie hagiographique, *Le Martyre de Saint-Eustache*, ainsi probablement qu'un poème,* Paraphrase sur le memento homo*, l'année suivante mais cette dernière attribution reste incertaine. Lancaster lui attribue également la publication de *L'Illustre Amalazonte* sous le pseudonyme de l'Abbé de Ceriziers [11]. En 1644, il poursuivit ses publications avec *L'Illustre Olympie ou le Saint-Alexis* ainsi que des stances et épigrammes dans *Les Chevilles de Maître Adam* et il a également traduit un roman [12]. Les frères Parfaict [13] lui attribuent également la publication de deux autres pièces, *Perside ou la Suite d'Ibrahim Bassa* et *Alcidiane ou les quatre rivaux*. L'année 1644 fut donc une année faste d'écriture pour Desfontaines. Nous pouvons ensuite observer un changement dans sa production littéraire car pendant deux ans il n'a écrit qu'une seule pièce en 1645, *L'Illustre Comédien ou le Martyre de Saint-Genest* dont l'attribution a été prouvée par C. Bourqui et S. de Ryeff, ainsi que trois poèmes [14]. Ses dernières pièces, *Belissante ou la Fidélité reconnue* [15] et *La Véritable Sémiramis*, ne furent publiées qu'en 1647. En 1648, la publication d'un dernier poème dont l'attribution est incertaine,* Le Poète chrétien passant du Parnasse au Calvaire*, marqua la fin de sa carrière littéraire.
+
+La production littéraire de Desfontaines fut donc variée. Nous pouvons néanmoins noter qu'il écrivit surtout des pièces de théâtre qui, malgré les nombreuses critiques formulées au XVIII*e* siècle concernant leur forme et leur style, ont néanmoins dû remporter un certain succès. Dans les *Anecdotes dramatiques*, Clément et Laporte font ainsi ce commentaire à son sujet : « Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le Théâtre ; cependant toutes ses pièces ont eu des succès marqués [16]. » Ce commentaire n'est certes pas élogieux pour Desfontaines, puisque selon eux l'auteur n'aurait pas eu de réels talents pour l'écriture dramatique, mais il esquisse une possible notoriété de Desfontaines. Cette hypothèse est renforcée par les nombreuses rééditions de certaines de ses œuvres, comme ses tragédies hagiographiques. *Le Martyre de Saint-Eustache* connut ainsi sept éditions tandis que *L'Illustre Olympie ou le Saint Alexis* en présente quatorze de 1648 à 1735. Enfin, *L'Illustre comédien ou le Martyre de Saint-Genest* en connut seulement trois dont une nouvelle dès 1646 [17].
+
+
+## Acteur et directeur de troupe
+
+Desfontaines fut un auteur-acteur, il a donc mené en même temps ces deux carrières. Nous trouvons la première trace de son engagement dans une troupe en février 1640, soit huit ans après la publication de son premier ouvrage, il fut ainsi membre de la troupe de Charles Dufresne à Lyon. Nous avons la confirmation de sa présence dans la même troupe à Lyon en 1643 car il signa le 3 février en tant que témoin pour un mariage :
+
+
+Nicolas Desfontaines se trouvait à Lyon le 3 février 1643 et signais comme témoin au mariage de François de la Cour et de Madelaine du Fresne, parente de Charles du Fresne, qui devint peu après le directeur nominal de la troupe de nos comédiens. Du Fresne qui les conduisit à Agen le 13 février 1650 [18]. 
+
+En juin 1644, il a joué avec Illustre Théâtre au moins jusqu'en janvier 1645 comme le prouvent les actes notariés du *Minutier central* [19]. Cette année fut particulièrement faste pour l'écrivain qui publia trois pièces de théâtre. En décembre 1646, Desfontaines se trouvait à Paris comme le prouve un acte notarié au sujet d'une mainlevée :
+
+
+1646, 18 décembre. Mainlevée par Cardin Besongne, marchand libraire, bourgeois de Paris, demeurant au Mont-Saint-Hilaire, de la saisie faite à sa requête ès mains du sieur Georges, maître du jeu de paume du Petit Couvert, sur deux coffres pleins de hardes appartenant à Nicolas Mary, sieur Des Fontaines, comédien de Son Altesse Royale, avec constitution de Jean Mathée, dit Philandre, comédien du roi, demeurant rue de la Chaussée aux Marais du Temple, comme caution pour le paiement à Besongne de la moitié des 400 livres due par Des Fontaines. Celui-ci affecte au paiement de cette somme et des 25 livres de frais le prix que Besongne devra lui verser pour la remise de la copie d'une tragédie, intitulée *Sémiramis*, ainsi que le privilège qu'il espère obtenir avant la fête des Rois 1647, pour imprimer et débiter seul cet ouvrage. Cet accord est fait en la présence de Nicolas Lion, sieur de Beaupré, aussi comédien du roi [20].
+
+Desfontaines jouait donc à cette époque au jeu de paume du Petit Couvert et il n'appartenait pas à la même troupe que son ami Philandre car il se disait « comédien de Son Altesse Royale ». Ce titre était celui des comédiens de l'Illustre Théâtre mais la troupe était alors dissoute. Alan Howe en déduit ainsi qu'« il faudrait en conclure que la troupe entretenue par Gaston d'Orléans, qui avait joué à Toulouse en mai 1645, à Narbonne en juillet 1645 et à Lyon en janvier 1646, et qui devait se trouver à Troyes en 1647, faisait un séjour dans la capitale vers la fin de 1646 [21] ».
+
+La carrière d'acteur de Desfontaines prit ensuite une autre dimension car il créa sa propre troupe en 1649, comme l'atteste Mongrédien et Robert [22], elle était constituée d'Etienne Munier et sa femme, Charles Perredoulz et sa femme, François de la Motte, Pierre Michel dit Belleforest et Nicolas Lion dit Beaupré. Ils affirment également que la troupe joua en novembre et décembre à Toulouse, à Nantes le 16 août 1650 ainsi que le 25 avril 1651. Un acte de baptême signé par Desfontaines en tant que parrain à Carcassonne le 21 décembre 1649 [23] laisse supposer que la troupe y a aussi donné des représentations.
+
+
+## Mort et postérité
+
+Desfontaines mourut à Angers le 4 février 1652 et il y fut inhumé le 7 [24]. Sa troupe ne lui survécut pas. Nous ne disposons donc que de peu de documents sur la vie de cet auteur-acteur, il a néanmoins souvent été assimilé au poète Roquebrune du *Roman comique* de Scarron. Henri Chardon fait ainsi cette hypothèse [25] qui sera reprise par. Antoine Adam qui confirme cette assimilation : « Si l'on tient à mettre un nom sur Roquebrune, on se laissera persuader par les arguments d'H. Chardon qu'il représente Nicolas Desfontaines, acteur et auteur connu [26] ». La description du *Roman comique* est peu flatteuse :
+
+
+Ils avoient de plus un poëte ou plutôt un Autheur, car toutes les boutiques d'espiciers du royaume estoient pleines de ses oeuvres tant en vers qu'en prose. Ce bel esprit s'estoit donné à la Trouppe quasi malgré elle ; et, parce qu'il ne partageoit point et mangeoit quelque argent avecque les Comediens, on luy donnoit les derniers rôles dont il s'acquittoit tres-mal. On voyoit bien qu'il estoit amoureux de l'une des deux Comediennes ; mais il estoit si discret, quoy-qu'un peu fou, qu'on n'avoit pû decouvrir encore laquelle des deux il devoit suborner, souz esperance de l'immortalité. Il menaçoit les Comediens de quantité de pieces ; mais il leur avoit fait grace jusqu'à l'heure. On sçavoit seulement par conjecture qu'il en faisoit une, intitulée *Martin Luther*, dont on avoit trouvé un cahier qu'il avoit pourtant desavoué quoy qu'il fût de son escriture [27].
+
+Néanmoins, cette assimilation est contestable et nous paraît erronée. En effet, Roquebrune a écrit énormément d'œuvres « tant en vers qu'en prose » mais il n'a pas écrit de pièces de théâtre. Or, Desfontaines a certes écrit des romans ainsi que des poèmes mais il s'est surtout consacré à l'écriture d'œuvres dramatiques. De plus, Roquebrune « ne partageoit point » avec la troupe, c'est-à-dire qu'il n'y est pas associé. Desfontaines a, par contre, fait partie de plusieurs troupes comme celle de Charles Dufresne et de l'Illustre Théâtre. Il a ainsi écrit des pièces pour cette dernière tout en étant également comédien. En outre, même si sa production dramatique prit fin en 1647, il a certainement fait représenter certaines de ses pièces par sa propre troupe qu'il fonda en 1649. Desfontaines a donc concilié l'écriture de pièces de théâtre et son métier de comédien dans les troupes dont il a fait partie.
+
+Cette assimilation de Desfontaines au poète Roquebrune est donc erronée. Henri Chardon a certainement voulu associer un auteur-acteur au parcours atypique et ayant fréquenté plusieurs troupes au poète du *Roman comique* de Scarron, mais les arguments qu'il avance nous semblent peu pertinents face aux grandes dissemblances entre la vie de ces deux auteurs.
+
+
+# Création et Réception de La Véritable Sémiramis
+
+
+## La date de création de la pièce
+
+La création de *La Véritable Sémiramis* a eu lieu pendant la saison théâtrale de 1646-1647. Nous ne disposons d'aucun élément certain permettant d'en établir la date plus précisément. Lancaster lui-même ne propose aucune date précise mais il établit néanmoins l'antériorité de la représentation de la *Sémiramis* de Gilbert créée en 1646 [28]. Ainsi, l'acte notarié du *Minutier central* du 18 décembre 1646, que nous avons déjà évoqué précédemment, montre qu'à cette date, la pièce de Desfontaines était sur le point d'être créée ou l'avait même déjà été, puisque l'obtention du privilège est espérée avant la fête des rois de 1647. Cette information signifie donc que la pièce avait été jouée avant car une fois la pièce publiée, la troupe perdait l'exclusivité de sa représentation. Cet acte notarié du *Minutier central* contient également une autre preuve qui renforce cette hypothèse. En effet, le 18 décembre 1646, Desfontaines est l'objet d'une saisie pour ne pas avoir remboursé sa dette de 400 francs au libraire Besongne, il doit ainsi lui rembourser la moitié de la somme en lui permettant de publier sa pièce. Cette publication doit donc avoir lieu assez rapidement et nous pouvons supposer que les représentations avaient alors déjà commencé. Néanmoins, il nous faut noter que le privilège ne sera accordé que le 11 mai, ce qui peut signifier que les représentations n'ont finalement débuté qu'au début de l'année 1647. Ainsi, il nous est impossible de statuer avec certitude sur la date de la création de *La Véritable Sémiramis*.
+
+
+## Le lieu de représentation
+
+De plus, le doute subsiste également sur le lieu de représentation de cette pièce. Il s'agit de savoir si elle a été jouée pour la première fois à l'Hôtel de Bourgogne ou au Théâtre du Marais. Ainsi, nous trouvons deux occurrences de pièces nommées « Cemiramis », dans la liste des pièces du *Mémoire de Mahelot* [29] qui répertorie les œuvres du répertoire de l'Hôtel de Bourgogne. La première est celle de Gilbert, comme l'indique une note dans la marge, tandis que la deuxième est « probablement » celle de Desfontaines pour Pasquier. En outre, la première est précédée d'une croix mais pas la seconde. Néanmoins, étant donné que nous ne savons pas précisément ce que ces croix signifient, nous ne pouvons faire à leur sujet que des hypothèses. Pour Lancaster, ces croix « ont été ajoutées plus tard, probablement pour indiquer les pièces qui pouvaient se jouer en ce temps-là [30] ». Mais il ne cite aucune source qui nous permettrait de valider cette hypothèse qui est néanmoins reprise par Pasquier dans sa propre édition du *Mémoire de Mahelot* [31]. Cette double inscription d'un même nom de pièce pourrait aussi, par exemple, être une erreur qui n'aurait pas été corrigée. Il est donc difficile de savoir où *La Véritable Sémiramis* a été créée, Lancaster montre lui aussi son incapacité à trancher en se limitant à des suppositions :
+
+
+Deux pièces ayant pour sujet Sémiramis ont été publié en 1647. Comme elles traitent majoritairement différentes phases de sa vie, il n'est pas surprenant qu'elles aient toutes deux été jouée à l'Hôtel de Bourgogne, comme le montre le répertoire de 1646-1647. … Desfontaines en a probablement hâté la publication pour devancer Gilbert, qui, en retour, a ajouté à son titre « Tragedie representée par la troupe royale ». Le fait que Desfontaines n'ait pas fait cela signifie que sa pièce a été à créée par une autre troupe et représentée à l'Hôtel de Bourgogne seulement après sa publication, mais il n'y a peut-être simplement pas pensé [32].
+
+L'hypothèse de la création de *La Véritable Sémiramis* au théâtre du Marais nous paraît être la plus vraisemblable. En effet, si la pièce avait été représentée à l'Hôtel de Bourgogne, tout comme la *Sémiramis* de Gilbert, ce théâtre aurait alors été le lieu d'une rivalité dramatique entre deux auteurs qui traitaient un même sujet d'une façon différente. La concurrence n'aurait pas alors eu lieu entre deux théâtres mais bien entre deux auteurs au sein d'un même théâtre. Il nous semble néanmoins peu envisageable qu'un théâtre se fasse concurrence à lui-même. *La Véritable Sémiramis* a dont certainement été créée au théâtre du Marais. Les principaux arguments en faveur de cette hypothèse sont, tout d'abord, l'utilisation de l'adjectif « véritable » par Desfontaines dans le titre de sa pièce. Cela montrerait qu'elle a été montée par le théâtre du Marais pour concurrencer la *Sémiramis* de Gilbert à l'Hôtel de Bourgogne. La mention « représentée par la Troupe Royale » que Gilbert appose à sa pièce semble également confirmer cette hypothèse car ce choix lui permet de se démarquer de son rival, en mettant en valeur le lieu de représentation de la pièce, c'est-à-dire l'Hôtel de Bourgogne. Enfin la probable antériorité de la *Sémiramis* de Gilbert [33] nous laisse également penser que Desfontaines a écrit *La Véritable Sémiramis* pour le théâtre du Marais afin de concurrencer directement le succès de son rival à l'Hôtel de Bourgogne.
+
+Néanmoins, si *La Véritable Sémiramis* n'a sûrement pas été créée à l'Hôtel de Bourgogne, elle y a bien été représentée. En effet, les pièces tombent dans le domaine public dès leur parution, une troupe peut alors reprendre une pièce créée dans un autre théâtre. Néanmoins, cette pratique concernait surtout les troupes de province qui venaient chercher à Paris de nouvelles œuvres pour leur répertoire. Tandis « qu'il était d'usage à Paris, à quelques exceptions près, d'accorder le droit absolu de donner des reprises de toute œuvre, même après sa publication, à la troupe qui avait acheté la pièce inédite. [34] ». Or, en 1647, Bellerose est le chef de la Troupe Royale et il souhaite que l'Hôtel de Bourgogne domine la vie théâtrale parisienne, ce qui suppose donc de limiter le rayonnement de son principal concurrent, le Théâtre du Marais. Il obtient ainsi du roi que Floridor, le chef de file de la troupe concurrente, et Corneille, leur auteur dévoué, rejoignent l'Hôtel de Bourgogne pour la saison théâtrale de 1647-1648. En outre, il aurait repris dix-neuf pièces créées par le théâtre du Marais entre 1642 et 1647 dont *La Véritable Sémiramis* [35]. Néanmoins, il faut prendre ces affirmations avec précaution. En effet, le privilège de la pièce date du 11 mai 1647 et les théâtres fermant à Pâques, elle ferait donc partie de la programmation de la saison 1647-1648 de l'Hôtel de Bourgogne. Etant donné que la liste du *Mémoire de Mahelot* correspond, selon Lancaster [36], au répertoire de la saison 1646-1647 et qu'elle « fût finie vers le milieu de l'année 1647 [37] », les comédiens, apprenant la publication à venir de *La Véritable Sémiramis*, auraient estimé « licite de l'inscrire à leur répertoire, dans l'intention de la programmer pour la saison suivante, alors même qu'elle était encore, légalement, la propriété de ses créateurs du Marais. [38] ». Sandrine Blondet suppose ainsi que Floridor aurait pu arriver pour la saison 1647-1648 en voulant reprendre *La Véritable Sémiramis* dans son nouveau théâtre.
+
+
+## Le décor de la tragédie
+
+Étant donné que nous ne pouvons établir dans quel théâtre fut créée *La Véritable Sémiramis*, nous dresserons un tableau général de la représentation des tragédies dans la première moitié du XVII*e* siècle. Tout d'abord, il est intéressant de noter que les deux principaux théâtres parisiens entreprennent des travaux de rénovation de leur salle, en 1644 pour le théâtre du Marais et en 1647 pour l'Hôtel de Bourgogne. Le théâtre de la rue Vieille-du-Temple est ainsi détruit par un incendie le 15 janvier 1644 et il est donc rénové. Cet aménagement a servi de modèle pour la restauration de l'Hôtel de Bourgogne en 1647. La représentation de *La Véritable Sémiramis* a donc lieu dans une période de renouveau pour les théâtres parisiens qui agrandissent leur scène en souhaitant notamment y produire des pièces à machines. La pièce de Desfontaines contient ainsi une scène assez spectaculaire, celle du sacre de Sémiramis, qui pouvait magnifier les nouvelles dimensions de l'espace de jeu.
+
+Le décor des pièces de théâtre au XVII*e* est constitué de toiles peintes avec une perspective unifiée à l'italienne. À la fin de la première moitié du XVII*e*, la règle des trois unités commence à se mettre en place notamment avec l'unité de lieu que les auteurs contournaient encore souvent, mettant ainsi à mal la vraisemblance, et qui sera ensuite théorisée par l'Abbé d'Aubignac dans *La Pratique du Théâtre* en 1657. *La Véritable Sémiramis* répond ainsi à cette règle car l'action se situe « dans une salle du palais royal, à Babylone ». Desfontaines place donc sa pièce dans un décor unique qui sera celui du « palais à volonté » utilisé à cette époque pour les tragédies. Ainsi, le décor multiple « à compartiments » cède progressivement la place à un décor unique. Le « palais à volonté » est « une façade de palais, à l'identité historique et architecturale peu accentuée, devant laquelle se représentera la totalité de l'action de la pièce. [39] ». *La Véritable Sémiramis*, avec son unité de lieu, s'inscrit donc bien dans ce changement scénographique allant vers un décor unique qui prend place dans les années 1640.
+
+
+## Réception de la pièce
+
+Nous ne disposons d'aucun témoignage contemporain sur la pièce, il nous est donc impossible de statuer sur sa réception par le public de l'époque. Néanmoins, au XVIII*e* siècle, nous trouvons des remarques sur sa construction et son intrigue dans des histoires du théâtre. Ces jugements sont toutefois à prendre avec précaution car ils sont postérieurs à l'époque de la pièce et ils ne constituent donc en aucun cas un témoignage de l'opinion du public du XVII*e* siècle. Il s'agit surtout de jugements de goût qui témoignent donc de l'avis personnel de ces critiques face à la pièce. Par exemple, les frères Parfaict concluent leur description de la pièce ainsi :
+
+
+Ce Poëme Dramatique, est le plus passable de tous ceux de Desfontaines, on peut même ajouter que tout rempli de défauts, tant du côté de la conduite, des caractères des personnages, & de la versification, on y trouve des endroits qui ne sont pas sans mérite [40].
+
+Ce commentaire est nuancé car, s'ils reconnaissent que certains passages sont intéressants et même plutôt bien écrits, les frères Parfaict ne daignent lui attribuer que la statut de pièce « la plus passable » parmi toutes celles de Desfontaines. Il ne s'agit donc pas de la meilleure pièce mais uniquement de la moins mauvaise. Nous sommes donc ici face à un compliment très mesuré.
+
+Les commentaires sur *La Véritable Sémiramis* étant assez rares, nous nous concentrerons surtout sur les reproches faits à son auteur. En effet, chez les frères Parfaict, nous comprenons aisément qu'à travers les reproches faits à la pièce c'est bien Desfontaines lui-même qui est critiqué. Il écrit des pièces qui sont tout juste « passables » et surtout pleines « de défauts » notamment dans la construction des personnages mais aussi dans la versification. En effet, nous avons relevé certaines facilités dans l'écriture de Desfontaines notamment dans la richesse des rimes. Ainsi, au vers 1357, il fait rimer « exemple » et « grande » au vers suivant. Il s'agit d'une rime pauvre qui peut montrer que Desfontaines a effectivement écrit sa pièce rapidement, pour faire concurrence à G. Gilbert [41] et qu'il en a donc parfois sacrifié la qualité de ses vers. Les frères Parfaict formulent à nouveau la même critique dans leur notice biographique « Desfontaines ne nous est connu que par ses pièces de théâtre qui sont assez médiocres [42] ».
+
+Dans sa notice sur *La Véritable Sémiramis*, Lancaster critique aussi Desfontaines :
+
+
+Ici, comme dans beaucoup de ses pièces, Desfontaines montre peu de connaissance de la technique. Tandis que l'intrigue demande seulement quelques heures, et prend place, comme le déclare l'auteur, dans une seule pièce, l'unité d'action n'est pas préservée, car il y a de nombreuses scènes extérieures, et le deuxième acte peut être entièrement omis sans changer la majeure partie de l'histoire. Les enchaînements sont souvent manquants, la motivation est insatisfaisante, et les deux personnages principaux, Sémiramis et Melistrate, ne sont pas vus ensemble sur le théâtre avant la dernière scène de la pièce [43] !
+
+Une nouvelle fois, la critique de la pièce mène à celle de son auteur. Nous reviendrons sur ce commentaire lors de l'analyse de l'unité d'action dans la pièce au troisième chapitre.
+
+Enfin, la critique la plus acerbe est sans doute celle des *Anecdotes dramatiques* :
+
+
+Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le Théâtre ; cependant toutes ses pièces ont eu des succès marqués. Deux principales causes concoururent à cette réussite ; le goût naturel de la nation pour le Spectacle dramatique, & les talents des Acteurs. Leur jeu, quoique un peu forcé, & soutenu d'une déclaration ampoulée, mais pleine d'art, donnoit de l'éclat à des Pièces médiocres. Cette espèce de prestige alloit même jusqu'à faire trouver beaux, des vers remplis d'image basses, & de jeux de mots [44].
+
+Ce commentaire met en avant le paradoxe selon lequel, Desfontaines n'était pas un bon auteur mais qu'il a néanmoins eu du succès. Cette situation particulière est justifiée pour Clément et Laporte par le fait que la population de l'époque aimait aller au théâtre et que, finalement, la nature dramatique d'une œuvre primait peut-être sur sa qualité. Néanmoins, cet argument nous semble discutable. Nous pouvons retenir de ce commentaire que Desfontaines connut un assez grand succès à son époque, même si nous ne disposons pas des sources des auteurs des *Anecdotes dramatiques*. Néanmoins, il nous semble pertinent de penser que, étant donné le grand nombre de pièces écrites par Desfontaines et le fait que certaines aient connu plusieurs rééditions, elles furent certainement appréciées du public. Clément et Laporte expliquent aussi cette réussite par le jeu des acteurs qui relevait le niveau de ces pièces médiocres. Cet argument est en fait un lieu commun dans les jugements de goût qui a pour effet de renforcer la critique de l'auteur. Nous ne pouvons donc tirer aucune conclusion certaine de ces jugements partiaux sur la réception de *La Véritable Sémiramis*, si ce n'est que les pièces de Desfontaines ont bénéficié d'un contexte général propice au théâtre.
+
+Finalement, nous ne disposons que de peu de commentaires sur l'œuvre de Desfontaines et plus particulièrement sur *La Véritable Sémiramis*. Ces critiques sont tous unanimes sur le fait que Desfontaines était un mauvais auteur dramatique, souffrant de lacunes techniques et dont les vers, tout comme les personnages, demeurent assez faibles. Néanmoins, ils relèvent également le paradoxe selon lequel cet auteur connut tout de même des succès et *La Véritable Sémiramis* semble en être un, en tant qu'œuvre « la plus passable » de sa production. Ainsi, ces jugements sévères peuvent expliquer le fait que l'œuvre de Desfontaines soit restée en grande partie inconnue, la notoriété qu'il avait acquise au XVII*e* siècle ayant été détruite par les premiers historiens du théâtre du XVIII*e* siècle et leurs sévères jugements de goût à l'encontre des auteurs qui ne se conformaient pas au « parcours classique ». Le fait que Desfontaines ait été simultanément comédien et auteur fait de lui un personnage assez atypique par rapport aux grands auteurs de son époque comme Corneille ou Racine.
+
+
+# La Véritable Sémiramis : fabrication de l'œuvre
+
+
+## Résumé de la pièce
+
+La scène d'exposition nous montre Sémiramis en pleine conversation avec son confident, Merzabane, qui vient de lui apprendre que Melistrate, qu'elle aime en secret, en aime une autre. Il lui révèle qu'il s'agit de Prazimène comme le prouve une lettre d'amour qu'il a dérobée. Sémiramis jure alors de tout faire pour détruire cet amour (Scène 1). Elle se retrouve ensuite seule sur scène et dans un long monologue, elle expose son plan pour épouser Melistrate. Ainsi, elle veut tuer son époux, Ninus, qui l'a forcé à l'épouser (Scène 2). Ninus entre alors sur scène et voyant son épouse mélancolique, il lui demande les raisons de sa tristesse. Elle feint de refuser de lui en révéler la cause puis, devant son insistance, elle lui avoue qu'elle désire pouvoir gouverner seule pendant trois jours. Ninus y consent (Scène 3). Sémiramis se retrouve alors à nouveau seule et se réjouit de savoir qu'en consentant à lui laisser le trône, Ninus vient en fait de signer sa perte (Scène 4).
+
+Au début du second acte, Sémiramis tente de faire avouer à Prazimène qu'elle aime Melistrate mais cette dernière s'y refuse. Elle concède qu'elle l'admire et qu'il lui a dit qu'il l'aimait mais elle affirme être restée distante, refusant de se livrer à lui. Sémiramis lui montre alors la lettre que Merzabane a volée à Melistrate. Prazimène se croit trahie par son amant et, humiliée, elle envisage de se suicider (Scène 1). Sémiramis, à nouveau seule sur le théâtre, se réjouit de s'être débarrassée de sa rivale, Prazimène, et du fait que Ninus prépare lui même sa perte. Tous ses desseins semblent donc sur le point de réussir. (Scène 2) Sémiramis demande ensuite à Merzabane d'accepter de tuer Ninus pour lui prouver sa loyauté, il y consent (Scène 3). Prazimène est seule sur le théâtre et elle explique dans son monologue ses doutes car elle peine à croire que Melistrate ait fait un tel acte, elle ne sait que penser et donc si elle doit l'aimer ou le haïr (Scène 4). Palmedon, le conseiller de Melistrate, fait son entrée et Prazimène l'accable alors de reproches au sujet de la trahison de son amant. Le confident le défend et explique à la princesse que les sentiments de Melistrate à son égard n'ont pas changé et que la lettre lui a été dérobée, sûrement sur les ordres d'Oronclide qui souhaite aussi épouser Prazimène. Prazimène choisit de le croire (Scène 5).
+
+Le troisième acte s'ouvre avec une déclaration de Ninus qui annonce aux princes de son royaume que Sémiramis va régner seule pendant trois jours. Merzabane intervient et dit qu'il refuse d'être gouverné par une femme mais Ninus lui explique que son choix n'est pas discutable. Sémiramis s'assoit donc sur le trône et son premier ordre est de demander à Ninus de quitter la pièce (Scène 1). Sémiramis doute et prend peur devant l'ampleur de son plan. Elle sait qu'elle ne peut reculer et annonce donc aux princes du royaume qu'elle vient de reprendre le trône que Ninus lui avait volé en tuant son père et qu'elle va le faire tuer pour venger ce meurtre. Elle déclare enfin que s'ils ne deviennent pas ses complices, ils seront aussi destinés à mourir et elle demande à Merzabane d'aller tuer le roi (Scène 2). Les princes réfléchissent à cette nouvelle situation et ont peur de se confronter à Sémiramis. Merzabane déclare alors qu'ils n'ont pas le choix et que Ninus doit mourir car sinon ils risquent d'être condamnés en voulant le sauver. Ils en conviennent tous (Scène 3). Merzabane annonce à Oronclide qu'il doit accueillir Melistrate pendant qu'il va tuer Ninus (Scène 4).
+
+Au début du quatrième acte, Oronclide accueille donc Melistrate, de retour d'une guerre, et il lui donne le titre de roi. Melistrate, très choqué d'apprendre la mort de Ninus, pense qu'il se moque de lui. Oronclide lui déclare qu'il en est l'assassin par le biais de l'amour que lui porte Sémiramis. Melistrate est outré et refuse de se marier avec la souveraine pour devenir roi. Oronclide le fait donc emprisonner (Scène 1). Oronclide se retrouve seul et se lamente car il sait qu'en faisant emprisonner Melistrate, il agit de façon injuste et cruelle (Scène 2). Prazimène blesse Melistrate par erreur en croyant trouver Oronclide. Elle veut alors se tuer pour se punir de son geste mais Melistrate l'en empêche et lui annonce qu'il va de toute façon mourir par la main de Sémiramis et d'Oronclide. Ce dernier réalise alors l'injustice de cette situation et il devient l'allié des deux amants (Scène 3). Puis, Merzabane fait le récit à Sémiramis de l'assassinat de Ninus (Scène 4). Oronclide annonce ensuite à Sémiramis que Melistrate refuse de l'épouser. Furieuse, elle menace de tuer Melistrate et Oronclide offre alors de mourir à sa place. Pour différer sa mort, Merzabane propose de tuer lui-même son propre fils, ce que Sémiramis accepte (Scène 5). La reine explique alors à son conseiller qu'en changeant de parti Oronclide les a trahi et qu'il n'est donc plus digne d'être son fils. Sa mort est donc justifiée et nécessaire pour l'accomplissement de leur plan (Scène 6).
+
+Au début du cinquième acte, Melistrate annonce à Palmedon qu'il refuse de laisser Oronclide mourir pour lui et qu'il va donc prendre sa place. Palmedon tente de l'en empêcher et il lui explique que dans sa prison Oronclide a blessé Merzabane sans le savoir et que celui-ci étant sur le point de mourir, il s'apprête à faire des révélations à Sémiramis (Scène 1). Merzabane supplie Sémiramis d'épargner Oronclide, il révèle alors qu'il ne s'agit pas de son fils mais du fils de Ninus. En effet, il a échangé son fils et celui que venait d'avoir Ninus avec sa première épouse, profitant du départ du roi à la guerre. Il avoue également que Melistrate est le fils de Sémiramis qu'elle avait cru mort lors d'une invasion de la ville. Merzabane l'avait, en fait, fait enlever pour qu'Oronclide puisse accéder au trône. Le conseiller ne souhaite plus alors que mourir, tout comme Sémiramis qui comprend finalement l'horreur de ses actes (Scène 2). Melistrate entre alors en scène et, ignorant ce qui vient de se passer, il exige de mourir à la place d'Oronclide. Sémiramis lui annonce qu'en fait c'est à lui de la tuer pour la punir de ses actes. Les deux fils de Ninus hésitent et s'y refusent, Sémiramis envisage alors de se suicider (Scène 3).
+
+
+## Place dans l'œuvre de Desfontaines
+
+*La Véritable Sémiramis* est la dernière pièce de Desfontaines. Son œuvre dramatique est composée de huit tragi-comédies et de cinq tragédies. Nous pouvons ainsi noter que s'il débute sa carrière avec l'écriture de tragi-comédies, il n'arrêtera jamais d'explorer ce genre dramatique car il publie sa dernière tragi-comédie *Bellissante ou la Fidélité reconnue* avec un privilège du 17 avril 1647, soit un mois avant *La Véritable Sémiramis*, également chez Lamy. Ce fait est assez emblématique de sa production car à cette époque, la tragi-comédie commençait à disparaître face à la tragédie. Desfontaines choisit donc de persister dans un genre qui se raréfie, restant ainsi fidèle au début de sa production théâtrale. Néanmoins, nous nous concentrerons sur ses tragédies qui puisent principalement leur sujet dans la mythologie, l'histoire et l'histoire biblique. Ainsi parmi les cinq tragédies de Desfontaines, trois sont des tragédies hagiographiques : *Le Martyre de Saint-Eustache* publié en 1643, *L'Illustre Olympie ou le Saint Alexis* en 1644 et *L'Illustre Comédien ou le Martyre de Saint Genest* en 1645. En effet, dans les années 1640, le théâtre religieux connaît un réel développement et les plus grands auteurs proposent des tragédies religieuses. Desfontaines s'inscrit donc parfaitement dans cette tendance théâtrale. La seule tragédie pseudo-historique de Desfontaines, qui précède *La Véritable Sémiramis*, est *Perside ou la Suite d'Ibrahim Bassa*, publiée en 1644.
+
+
+## L'inspiration orientale des tragédies historiques
+
+Ainsi, entre 1630 et 1650, « on compte trois fois plus de tragédies historiques – avec élargissement à d'autres pays et à d'autres époques de l'Antiquité – que de tragédies mythologiques [45] ». Adopter un sujet historique était un moyen pour la tragédie de proposer une réflexion politique et morale aux spectateurs. Les dramaturges privilégièrent l'histoire de Rome, de la Grèce et de l'Orient plutôt que les événements contemporains. La tragédie détient une aura de crédibilité et de vraisemblance car elle prend pour sujet des actions et des personnages historiques. Néanmoins, il n'est pas toujours évident de savoir comment transformer en drame l'histoire écrite par les historiens car l'histoire ne fournit pas toujours tous les éléments de l'intrigue au dramaturge qui adapte alors souvent le récit historique pour créer une pièce frappante et vraisemblable [46].
+
+Beaucoup de tragédies prennent donc pour sujet l'histoire romaine mais aussi l'histoire de la Grèce ou de l'Asie. Nous nous concentrerons ici sur les tragédies perses. Les sujets les plus utilisés étaient l'histoire de *Panthée*, qu'abordera Durval en 1639, celle d'*Artaxerxès* reprise par Magnon en 1645 ou de* Cosroès* dans la tragédie de Rotrou en 1649. Ces deux dernières pièces ont en commun de questionner les enjeux liés à l'accession au trône et à l'exercice du pouvoir. C'est donc dans ce contexte que sont écrites la *Sémiramis* de Gilbert et *La Véritable Sémiramis* de Desfontaines. Elles se passent en Assyrie et prennent notamment pour source Diodore de Sicile [47]. *La Véritable Sémiramis* est donc une tragédie représentative de son époque qui fait la part belle aux sujets historiques.
+
+
+## Sémiramis et l'Assyrie
+
+Sémiramis et Ninus furent les souverains de l'Assyrie dont Moreri nous donne une description dans son dictionnaire historique :
+
+
+C'est une partie de l'Asie, qui, selon Ptolémée, étoit terminée du côté d'orient par la Médie, à l'occident par la Mésopotamie, au spetentrion d'une partie de l'Arménie, & au midi de la Susiane. Strabon lui donne encore une plus grande étendue ; car, selon lui elle comprend aussi la Syrie, la Mésopotamie, la Babylonie, & l'Assyrie proprement dite. Celle-ci est séparée de la Mésopotamie & de la Babylonie par la Susiane [48].
+
+La pièce se déroule « dans une salle du Palais Royal à Babilone » et elle comporte de nombreuses mentions des conquêtes de Ninus et Sémiramis qui suivent la géographie donnée par Moreri. Melistrate a ainsi conquis l'Arménie après la bataille de Legerde et la mort du roi Barzane (I,1). Lors de la scène du sacre de Sémiramis, Ninus fait également référence à la conquête de nombreux peuples voisins de l'Assyrie : « Les Parthes, ceux de Thir, les Medes, les Persans ». L'expansion du royaume prend fin dans la pièce avec la prise d'Ascalon, ville de Syrie où Ninus défait le père de Sémiramis (III,1). Desfontaines mentionne donc les différentes conquêtes de Ninus et de Sémiramis afin d'apporter une certaine vraisemblance géographique à sa pièce.
+
+Au XVII*e* siècle, les différentes versions antiques de l'histoire de Sémiramis et de Ninus [49] se sont mêlées en une seule légende comme le prouve les notices du *Grand dictionnaire historique* de Moreri :
+
+
+Ninus : Fondateur de la première monarchie des Assyriens, il était, dit-on, fils de Bélus auquel il succéda. … On ajoute que depuis il augmenta Ninive ; vainquit Zoroastre, roi de la Bactriane ; épousa Sémiramis, qui était d'Ascalon ; subjugua presque toute l'Asie, & mourut après un règne de 52 ans : mais tout cela ne trouve point sa place dans la vraie histoire d'Assyrie [50].
+
+Sémiramis : Reine des Assyriens, fille de la déesse Syrienne Derceto, … elle fut d'abord mariée à Ménon, général des armées du roi Ninus. Son penchant, qui la portait à suivre son mari dans les armées et à combattre à ses côtés, la fit connoître à Ninus. Elle abandonne Menon qui se pendit à regret, & se donna à ce prince, qu'elle accompagna dans ses conquêtes. Depuis comme tutrice du jeune Nynias, son fils, elle succéda à Ninus. … Son fils Nynias lui plut tant, qu'elle le sollicita à commettre un inceste ; mais ce prince la fit mourir. Ninus ne trouve point de place dans la vraie chronologie ; mais Sémiramis dont on ignore l'époux en tient une honorable [51].
+
+Nous pouvons noter que la notice de Ninus a de nombreux points communs avec l'histoire de *La Véritable Sémiramis*, il est ainsi fait mention de la prise d'Ascalon par le roi et de son mariage avec Sémiramis. Néanmoins, la notice sur cette dernière mêle par contre deux sources différentes et ne correspond pas à celle de son époux. Ainsi, elle aurait d'abord été mariée à Ménon avant que Ninus ne l'oblige à l'épouser ce qui provoquera la mort de son premier mari. Cette version, puisée chez Diodore de Sicile, est celle qu'a suivie Gabriel Gilbert pour construire sa *Sémiramis*. La seconde partie de cette notice mentionne le désir incestueux de Sémiramis pour son fils, qui trouve son origine chez Justin, deviendra l'intrigue principale de *La Véritable Sémiramis* de Desfontaines. Nous reviendrons plus précisément sur l'opposition des sources de ces deux pièces rivales dans la cinquième partie de cette introduction. L'histoire de Sémiramis était donc connue au XVII*e* siècle, sous une forme qui mêlait plusieurs sources antiques. Le fait que deux auteurs en fassent, à la même période, le personnage principal de leur pièce prouve bien que Sémiramis connaissait alors une certaine notoriété.
+
+
+## Comparaison avec *Perside* (1644)
+
+Cette tragédie d'inspiration turque met en scène un souverain qui, en désirant épouser Perside, la femme de son Grand Vizir Eraste, finit par le tuer ce qui amènera Perside à mourir aussi. Le roi Soliman déplorera alors son erreur de jugement et regrettera d'avoir écouté ses conseillers en jurant de venger par leur mort les malheureux amants. Cette pièce est présentée comme la suite du roman à succès *Ibrahim* de Scudéry tandis que *La Véritable Sémiramis* est tirée de *La Prazimène* de Le Maire, ces deux pièces sont donc inspirées d'un roman.
+
+De plus, nous pouvons également constater que Desfontaines utilise le même procédé d'écriture dans ces deux épîtres dédicatoires. Il y met en scène ses deux héroïnes éponymes, Sémiramis et Perside, qui demandent protection au gentilhomme à qui est dédiée l'épître, François de Beauvilliers et le duc de Guise. Les deux épîtres commencent ainsi de façon assez similaire avec l'évocation des héroïnes. Puis, comme dans tout épître dédicatoire, l'auteur vante les qualités de la famille du dédicataire et du dédicataire lui-même. Il est intéressant de noter que Desfontaines reprend presque mot pour mot les mêmes phrases pour vanter les qualités de l'homme auquel il s'adresse comme le prouve le tableau comparatif suivant [52] :
+Épître dédicatoire de *Perside*, adressée au Duc de Guise. | Épître dédicatoire de *La Véritable Sémiramis* adressée à François de Beauvilliers.
+Peut-estre qu'en parlant ainsi de vostre **GRANDEUR**, j'offence vostre modestie ; Mais, MONSEIGNEUR, permettez que je combatte une de vos vertus pour faire esclater toutes les autres, et ne me **forcez point** d'escouter cette ennemie de ses propres loüanges dans le dessein que j'ai de publier des choses que l'envie même ne sçauroit desadvoüer sans injustice, ny la France **oublier** sans ingratitude. | Peut-estre que parlant ainsi de vostre **merite**, j'offence votre modestie ; Mais MONSEIGNEUR, permettez que je combatte une de vos vertus pour faire éclatter toutes les autres, & ne me **commandez pas** d'escouter cette ennemie de ses propres loüanges dans le dessein que j'ay de publier des choses que toute la France ne sçauroit **taire** sans ingratitude, ny l'envie mesme desaduoüer sans injustice.
+**Toutesfois ce seroit vouloir** comprendre dans une lettre ce qui meriteroit des volumes entiers ; de si hautes merveilles ne se peuvent exprimer par des termes ordinaires. Aussi veux-je qu'en une si noble matière l'admiration soit toute mon Eloquence, et que l'adveu de mon impuissance soit le crayon de vostre GRANDEUR, c'est assez que l'on sçaâhe que vos **devanciers** ont toujours ésté les **plus fermes** colonnes de cette Monarchie, et qu'estans vieillis dans les charges les plus considerables de cette Couronne, ils ont laissez un Heritier qui acheve aujourd'hui ce qu'ils ont autrefois si **genereusement** commencé. | **Ne croyez pas toutesfois que je vueille** comprendre dans une lettre ce qui meriteroit des volumes entiers : De si hautes merveilles ne se peuvent exprimer par des termes ordinaires, aussi veux-je qu'en une si noble matiere l'admiration soit toute mon éloquence, & que l'adveu de mon impuissance soit le crayon de vostre grandeur. C'est assez que l'on sçache que vos **Ancestres** ont toujours esté les colonnes de cette Monarchie, & qu'estans vieillis dans les charges les plus considerables de la Couronne, ils ont laissé un heritier qui acheve genereusement aujourd'huy ce qu'ils ont autrefois si **glorieusement** commencé.
+
+
+
+Nous pouvons ainsi constater, qu'à part de très rares variations de l'orthographe, de la typographie ou de la ponctuation, Desfontaines reprend mot pour mot l'épître de sa tragédie de 1644 pour écrire celle de *La Véritable Sémiramis*. Il change certes quelques termes mais souvent il y substitue des synonymes.
+
+Un autre fait intéressant consiste à comparer, dans ces deux épîtres, le dédicataire à un des héros de la tragédie en question. Il s'adresse ainsi à François de Beauvilliers : « veu que vous n'avez pas moins de belles qualitez que son Melistrate, & que sans la rendre suspecte d'aucun crime, Elle peut autant esperer de vostre vertu. » Ici Desfontaines compare donc le dédicataire au valeureux héros de sa pièce, ce qui est assez flatteur et il joue également avec son intrigue, en faisant allusion à l'amour de Sémiramis qui se révèlera incestueux à la fin de la pièce. Tandis, que dans l'épître de *Perside*, il compare le Duc de Guise à l'empereur des Turcs : « quelque grand que fut Soliman, il ne posséda jamais si avantageusement que vous tant d'admirables qualités ». Ces deux comparaisons servent bien sûr à flatter les dédicataires mais ce sont aussi des moyens habiles d'annoncer la pièce qui va suivre l'épître.
+
+Ces deux épîtres dédicatoires sont donc très similaires mais les pièces comportent aussi de nombreuses ressemblances dans les thèmes qu'elles abordent et dans les personnages qu'elles mettent en scène. Elles nous présentent ainsi un souverain qui abuse du pouvoir afin de conquérir un de ses sujets qui ne l'aime pas en retour. Ainsi, Soliman et Sémiramis expriment tous deux leur dépit de ne pas être aimés et les doutes qu'ils ont sur la solution à adopter face aux refus de l'être aimé :
+*Perside* (III,6). | *La Véritable Sémiramis* (IV,5).
+SOLIMAN. He bien, que feras-tu Soliman ? Ce mespris N'est-il pas suffisant à guerir tes esprits ? Ah bien loing de destruire il augmente ma flame Elle regne en mon cœur, elle embraze mon ame … Ainsi quand sa froideur vient a choquer ma flame Il se faict seulement un foudre pour mon ame Dont l'invincible trait rend mon cœur abatu Et sans m'oster le jour luy ravis sa Vertu. Songe doncq Soliman a ce que tu veux faire Sois plus respectueux, ou sois plus temeraire, Cesse enfin de languir, & par un prompt effor Choisis sans differer ou l'amour ou la mort. | SEMIRAMIS. Haine, mépris, amour, où me reduisez-vous ? Où me reduisez-vous, imperieuse flâme ? Si Melistrate meurt, que deviendra mon ame ? … Non, qu'il vive. Mais quoy ? je luy suis en horreur, Il faut donc, il faut donc qu'il sente ma fureur : Oüy, oüy, vengeons sur luy l'outrage par l'outrage, Donnons cet insolent pour victime à ma rage, Enterrons, & la cause & l'objet de mes feux, Et puis, s'il est besoin, perdons-nous avec eux. Son plaisir fait mon deüil, son repos fait ma peine, Son espoir fait ma crainte, & son amour ma haine ;… Faisons donc reconnoistre à cette ame arrogante, Que Melistrate est foible, & moy toute puissante ; Que tout me doit ceder, que mes vœux sont des Loix, Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.
+
+
+
+Ces deux souverains doutent constamment de la façon dont ils peuvent convaincre l'autre de l'aimer en retour. Ici, cette question est fortement liée à celle de l'exercice du pouvoir et du fait de mettre ce pouvoir au service d'une cause personnelle. Sémiramis et Soliman choisissent ainsi de tuer un obstacle à leur conquête amoureuse et à chaque fois cette victime, qu'il s'agisse d'Eraste ou de Ninus, est innocente. Ces deux pièces sont donc liées par une réflexion sur l'abus de pouvoir lorsque le souverain ne peut faire la part des choses entre ses désirs personnels et le bien de l'Etat, devenant ainsi un tyran.
+
+
+## Contexte théâtral : le renouveau de la tragédie
+
+Au XVII*e* siècle, la tragédie connaît une véritable renaissance sur la scène, la production tragique passe de trente-huit pièces dans les années 1630-1639 à soixante pour la période de 1640 à 1649 [53]. La tragédie régulière s'affirme ainsi dans les années 1630-1640 face à la tragi-comédie qui refusait de se plier à ces règles, notamment à l'unité de temps et d'action ainsi qu'à l'exigence de vraisemblance. Nous assistons donc à un ultime renversement, en effet, la tragédie classique avait été rejetée au début du XVII*e* siècle par les Modernes car elle demandait de suivre le modèle des Anciens ; or ces règles sont devenues primordiales pour encadrer les dérèglements des passions : « l'instauration moderne des règles antiques présentées comme nécessaire au nom de la raison et de l'effet produit sur le spectateur aboutissait à réintroduire la tragédie [54] ».
+
+
+## La règle des trois unités dans *La Véritable Sémiramis*
+
+Dans un souci de vraisemblance, la durée de l'action représentée doit correspondre à peu près au temps de la représentation, qui est de deux ou trois heures. Or dans *La Véritable Sémiramis*, l'unité de temps semble être respectée. Ainsi, nous pouvons par exemple relever l'omniprésence de l'adverbe « aujourd'hui » qui insiste sur le fait que toute l'action se déroule en une seule journée. Oronclide conclut ainsi la pièce avec une dernière réplique : « Que le Ciel aujourd'hui nous est doux & severe ! » (v1840). Les adjectifs « doux & severe » qui résument les péripéties qui sont arrivées aux personnages avec par exemple, le meurtre de Ninus, le changement de comportement d'Oronclide qui devient l'allié de Melistrate après avoir été son rival et sa condamnation par Sémiramis mais aussi les révélations positives comme le fait qu'Oronclide et Melistrate se découvrent tous deux fils de Ninus montrent bien la volonté de Desfontaines de respecter cette unité de temps ainsi que la vraisemblance. Tout d'abord, il faut noter que si Sémiramis demande à obtenir le trône pour trois jours, elle n'attendra que quelques heures pour tuer Ninus : « Pour trois jours seulement il me cede l'Empire, / Mais dés ce mesme jour je pretends qu'il expire » (v.625). L'unité de temps est ainsi renforcée par la précipitation de Sémiramis qui veut atteindre son but au plus vite. Plus généralement, les personnages dans la pièce agissent toujours avec hâte et la nécessité que tous les problèmes trouvent leur solution en un seul jour est mise en avant. Par exemple, Melistrate dit ainsi : « Mais ce jour doit conclure ou ma vie ou ma mort. » (v.1658). Cet empressement à être fixé sur son sort participe bien de l'unité de temps. Desfontaines nous donne aussi des indices sur l'avancée de la journée. La pièce commence ainsi *in medias res* avec une conversation entre Sémiramis et Merzabane, son confident, même s'il n'y a pas de marquage temporel précis, nous pouvons raisonnablement penser que nous sommes le matin, ce qui permet à l'intrigue de se dérouler tout au long de la journée. De plus, la dernière réplique de Sémiramis à la troisième scène de l'acte V corrobore cette idée, ainsi au moment de se suicider elle déclare : « Brillante illusion, précieuse fumée, / Dont ce matin encor mon ame estoit charmée » (v.1828). De plus, nous disposons d'une indication temporelle à l'acte V, qui montre que la nuit est sur le point de s'achever :
+
+Allez, Seigneur, allez vous rendre à vostre azile,  
+Tandis qu'un peu de nuit que va chasser le jour,  
+Vous y permet encore un facile retour. (v.1646)  
+
+La pièce s'achève donc au lever du jour, ce qui est parfaitement conforme à la règle de l'unité de temps.
+
+L'unité de temps suppose donc de limiter les lieux de l'action au profit d'un lieu unique. Au départ, l'unité d'une ville suffit mais très vite, les théoriciens procèdent à un resserrement et en 1640, pour la première fois, le lieu de l'action est réduit à une seule pièce d'un palais ou d'une maison. Néanmoins, cela peut poser un problème de vraisemblance, en effet, il n'est pas toujours raisonnable de penser que tous les personnages de la pièce vont se croiser, tour à tour, dans une même salle. La tragédie va donc principalement utiliser comme décor le « palais à volonté » qui est un « compromis entre la rigoureuse unité de lieu et la vraisemblance rigoureuse [55] ». En effet, ce lieu a une apparente unité mais ce n'est pas un lieu concret, c'est-à-dire que ce n'est pas une salle particulière du palais. Ainsi, Desfontaines situe *La Véritable Sémiramis* « dans une salle du Palais Royal, à Babylone ». Ce n'est donc pas une salle spécifique comme la salle du trône ou l'antichambre de la reine, ce qui donne une plus grande vraisemblance aux différentes rencontres entre les personnages. Les didascalies nous donnent quelques renseignements sur la scénographie. La scène du couronnement de Sémiramis, à la scène 1 de l'acte III, comporte un trône sur lequel Ninus s'assoit avant de le céder à Sémiramis. Néanmoins, il n'est pas évident que le trône soit présent sur scène tout au long de la pièce et, son apparition à l'acte III, peut ainsi montrer que nous changeons de pièce sans toutefois changer de décor pour préserver l'unité de lieu. Pour l'acte V, la scène se passant selon Palmedon au « lever » (v.1633) de la reine, nous pouvons supposer qu'il s'agit donc de l'antichambre ou de la chambre de la reine. Les autres actes semblent ainsi plutôt se passer dans des salons ou des pièces de passage car les personnages y rencontrent souvent d'autres personnages qu'ils évitent. Il n'y a aucune référence spatiale entre les actes, ce qui peut permettre d'attribuer différentes fonctions au « palais à volonté » sauf à la fin du troisième acte où Merzabane envoie son fils rencontrer la reine dans une autre salle et lui dit de revenir ensuite « dans ce mesme lieu » (v.1087) pour accueillir Melistrate. Leur entrevue constitue la première scène de l'acte IV, il y a ainsi une continuité spatiale entre ces deux actes. Pour les actes restants ce ne sont pas des salles fermées mais bien des lieux de passages, ce qui est plus vraisemblable.
+
+Néanmoins, si tout est mis en place pour créer l'unité de lieu, il y a de nombreuses références à d'autres salles du palais tout au long de la pièce. Ainsi, une autre pièce est nommée sans plus de précisions : « Vous la rencontrerez dans la salle prochaine. » (v.1080). Il est aussi fait référence à différents appartements, tout d'abord celui d'Oronclide avec « chez vous » (v.1095) et également au moment où il ordonne en parlant de Melistrate « Gardes, qu'on le conduise à mon appartement » (v.1265). Ce deuxième vers nous montre donc que Melistrate est emmené dans une autre pièce du palais. Merzabane fait également référence aux appartements de Ninus lorsqu'il relate sa mort à Sémiramis : « Il se retira seul dans son appartement » (v.1401). Enfin, la chambre de Sémiramis est aussi évoquée par Palmedon qui dit à Melistrate à propos de Merzabane et Oronclide : « Et je croy qu'apresent ils sont à son lever » (v.1633). Il fait également référence à la prison où est détenu Oronclide avant son exécution : « Cependant Oronclide en une tour obscure / Se resout à la mort qu'il attend sans murmure » (v.1579-1580). Enfin, il évoque un dernier lieu lorsqu'il conseille à Melistrate de se cacher : « Allez, Seigneur, allez vous rendre à vostre azile » (v.1644), cependant nous ne savons pas exactement à quel endroit du palais se trouve ce refuge. Un dernier lieu hors du théâtre est également présent, il s'agit de « derrier le Theatre » à la scène 3 de l'acte IV. Melistrate s'y fait attaquer par Prazimène qui le prend pour Oronclide, nous pouvons ainsi supposer qu'elle agit dans la pénombre car une fois tous les personnages revenus sur le théâtre, elle comprend son erreur. La violence de cette scène justifie le fait qu'elle ne soit pas représentée sur le théâtre par respect de la vraisemblance tout comme le meurtre de Ninus par Merzabane.
+
+Enfin, la question de l'unité d'action est également intéressante dans *La Véritable Sémiramis*. Nous nous appuierons ainsi sur la définition qu'en donne J. Scherer :
+
+
+Une action une n'est pas nécessairement simple : on dit qu'il y a unité dans un ensemble quand les différentes parties qui le composent forment un tout. … L'action d'une pièce classique est considérée au XVII*e* comme unifiée si elle satisfait simultanément à quatre conditions. … Les trois premiers de ces caractères concernent l'inamovibilité, la continuité et la nécessité des éléments de l'intrigue. … Le quatrième critère, plus subtil, concerne la nature du rapport des intrigues accessoires avec la principale [56].
+
+Avant de procéder à l'analyse de ces quatre critères dans la pièce, il nous semble nécessaire de citer le commentaire de Lancaster qui critique fortement l'unité d'action dans la pièce et qui donne des éléments qui nous servirons dans notre étude.
+
+
+Tandis que l'intrigue demande seulement quelques heures, et prend place, comme le déclare l'auteur, dans une seule pièce, l'unité d'action n'est pas préservée, car il y a de nombreuses scènes extérieures, et le deuxième acte peut être entièrement omis sans changer la majeure partie de l'histoire. Les enchaînements sont souvent manquants, la motivation est insatisfaisante, et les deux personnages principaux, Sémiramis et Melistrate, ne sont pas vus ensemble sur le théâtre avant la dernière scène de la pièce [57] !
+
+En nous appuyant sur ce commentaire, nous allons donc voir si les quatre critères de l'unité d'action sont vérifiés dans la pièce en commençant par le rapport « des intrigues accessoires avec la principale ». Nous nous appuierons ainsi sur le commentaire de Sandrine Blondet qui explique que :
+
+
+Si les autres doublons hétérogènes diffèrent au regard de l'unité d'action, il faut d'emblée souligner que cette divergence relève essentiellement de la plume de Desfontaines. En effet, celui-ci agrémente à quatre reprises l'intrigue qu'il s'est choisie, et que traite un dramaturge concurrent, d'épisodes supplémentaires. C'est … dans *Sémiramis*, le sujet de Mélistrate entrelacé à celui de Sémiramis. … Peu importe, en l'occurrence, le fait que ces pièces puissent proposer un sujet différent de celui de leur jumelle …: Desfontaines fait le choix de l'irrégularité, quand ses rivaux privilégient la régularité [58].
+
+En effet, Desfontaines a choisi de rajouter une intrigue supplémentaire à celle de Sémiramis et cela peut être justifié par une volonté de se démarquer de la *Sémiramis* rivale de G. Gibert. L'intrigue principale est donc celle de la volonté de Sémiramis d'épouser Melistrate et qui doit pour cela tuer Ninus. De nombreux éléments y participent comme les discussions entre la reine et Merzabane ou la scène du sacre où Ninus donne le trône à Sémiramis. Néanmoins, une seconde intrigue est développée, celle de l'amour entre Prazimène et Melistrate, qui ne se sont pas encore déclarés leurs sentiments. Cette intrigue occupe ainsi la majorité de l'acte II, lorsque Sémiramis tente de tromper la princesse en lui montrant avec la lettre volée que Melistrate ne l'aime pas puis cette dernière reprend confiance en son amant grâce à Palmedon. Cette intrigue est secondaire et elle n'est qu'un obstacle de plus pour Sémiramis. Nous pouvons ainsi regretter avec Lancaster que Sémiramis et Melistrate ne se retrouvent pour la première fois ensemble sur le théâtre que lors de la dernière scène de la pièce. En effet, il semble bien que Desfontaines ait mal mêlé ces deux intrigues car, s'il est évident que l'amour de Prazimène et Melistrate est mis en danger par Sémiramis car elle le voit comme un obstacle à son propre bonheur, le fait que le deuxième acte qui concerne majoritairement Prazimène puisse être facilement supprimé sans changer l'intrigue principale, symbolise bien le fait que le rapport entre l'intrigue accessoire et la principale est défaillant. Desfontaines semble avoir volontairement choisi de complexifier le sujet afin de se démarquer de son rival, mais il ruine ainsi l'unité de sa pièce. Nous pouvons aussi relever une autre intrigue secondaire, celle d'Oronclide, qui devient lui aussi le fils caché de Ninus. Le fait de dévoiler la véritable identité de Melistrate comme fils du roi défunt suffisait à clore la pièce mais l'auteur a choisi d'ajouter cette seconde révélation qui apparaît clairement comme superflue. En effet, rien ne l'annonce dans la pièce et elle n'apporte rien au dénouement. L'unité d'action paraît donc défaillante dans *La Véritable Sémiramis*.
+
+Le critère de l'inamovibilité peut lui aussi être étudié. Ainsi, il s'agit de savoir si tous les éléments sont utiles à l'intrigue et donc de vérifier qu'on ne peut en supprimer aucun sans rendre la pièce incompréhensible. Si, comme nous venons de le constater, le deuxième acte n'est pas indispensable au déroulement de la pièce car la situation reste finalement inchangée, il a tout de même de l'importance pour comprendre l'amour obsédant de Sémiramis pour Melistrate. Ainsi, la tentative sa tentative de tromper Prazimène pour qu'elle repousse Melistrate est primordiale car elle montre que la reine est prête à tout pour que le chevalier finisse par l'aimer. Le deuxième acte est donc, d'une certaine façon, utile au déroulement de l'intrigue et il ne peut donc pas être supprimé.
+
+Le troisième critère concerne la nécessité des éléments. Il faut alors se demander si tout dans la pièce s'enchaîne de façon vraisemblable. Ainsi, Lancaster relève que les enchaînements sont souvent défaillants. En effet, il est intéressant d'observer les liens entre la fin d'une scène et le début de la suivante notamment du point de vue des entrées et des sorties des personnages. Il s'agit de voir si les scènes s'enchaînent de façon vraisemblable. Dans la plupart des cas, il y a une liaison par la présence, c'est-à-dire qu'un reste sur la scène et fait ainsi un lien naturel avec la scène suivante et l'arrivée, ou non, d'un nouveau personnage.
+
+Nous rencontrons plusieurs cas de figures pour le départ d'un personnage textuellement justifié, soit il est congédié par un autre, souvent par Sémiramis, qui lui assène alors une formule claire sur ses intentions comme à Merzabane« Allez qu'on se retire » (I,1) ou à Prazimène « Vous y pourrez songer, allez » (II,1). Elle congédie également son mari, Ninus, lorsqu'elle devient la souveraine : « Retirez vous, Ninus … Allez » (III,1). Elle fera également sortir Oronclide du théâtre en ordonnant « Qu'on l'emmeine » (IV,5). Une seule fois un autre personnage que Sémiramis ordonnera un départ, c'est Oronclide à la scène 1 de l'acte IV qui dira à propos de Melistrate : « Gardes, qu'on le conduise à mon appartement ». Certaines sorties de personnages sont donc justifiées par ces ordres principalement donnés par la reine. À l'inverse, certains personnages annoncent eux-mêmes leur départ. C'est le cas de Ninus à fin de la troisième scène de l'acte I « Je m'en vay de ce pas travailler aux effets ».
+
+La liaison de vue justifie souvent l'entrée ou la sortie d'un ou de plusieurs personnages. Ainsi, un départ est parfois justifié textuellement par l'arrivée d'un autre personnage que celui qui était présent sur la scène ne souhaite pas rencontrer, ce qui instaure une réelle continuité. Par exemple, à la scène 3 de l'acte II, Sémiramis et Merzabane sont sur le théâtre et la reine dit à son conseiller « Quelqu'un vient, suivez moi » en voyant arriver Prazimène qui sera seule sur le théâtre à la scène suivante. Cette situation se produit aussi à la fin de la scène 3 de l'acte II où Oronclide apercevant Sémiramis demande à Prazimène et Melistrate de sortir avec lui en leur disant « Ah sortons de ces lieux, / Il n'est pas encore temps de parestre à ses yeux. ». Enfin, ce cas de figure arrive une dernière fois à la fin de la scène 1 de l'acte V où Palmedon et Melistrate fuient devant l'arrivée de Sémiramis en disant « Il n'est pas temps encor que ce grand cœur se monstre / Hé bien d'un peu de temps diferons cet effort ». Lors de ces trois occurrences, nous notons donc un renouvellement complet et justifié des personnages présents sur la scène. Nous constatons le même phénomène lors de l'entrée d'un personnage sur le théâtre. La liaison de vue consiste alors à faire annoncer une arrivée par un personnage sur la scène qui voit le nouveau venu. Cet enchaînement se produit à quatre reprises, à la scène 2 de l'acte I, Sémiramis voit ainsi arriver Ninus : « Mais n'apperçois-je pas ce Prince miserable ? ». Elle fait de même pour Merzabane à la deuxième scène de l'acte II : « La voicy ». Prazimène annonce pareillement l'arrivée de Palmedon à la fin de la scène 4 de l'acte II : « Mais, ô Dieux ! ne vois-je point paraistre / Le Confident adroit d'un si perfide Maistre ? ». Enfin, Sémiramis annonce aussi l'arrivée d'Oronclide à la scène 4 de l'acte IV : « Le voicy de retour ». Nous pouvons donc constater que les entrées et les sorties des personnages paraissent constamment textuellement justifiées, le critère de la nécessité est donc bien appliqué car rien ne semble fortuit.
+
+Néanmoins, nous constatons avec Lancaster que les enchaînements sont parfois manquants. Pour deux occurrences, ce manque nous semble justifié. Lors de l'arrivée de Melistrate et Prazimène sur la scène à la scène 2 de l'acte IV car Oronclide est seul sur le théâtre tandis que ces deux autres personnages sont « derriere le theatre », leur arrivée au côté d'Oronclide n'est pas textuellement annoncé mais elle est justifiée par le fait qu'il les entend se battre comme le montre la réplique : « D'où vient cette voix ? quel est ce bruit ? » (v.1279) et qu'ensuite Melistrate voit Oronclide puisqu'il le nomme, nous pouvons donc en déduire qu'à ce moment là, ils sont réunis. L'absence d'enchaînement clair est ici justifiée par la rapidité de l'action, le coup porté à Melistrate doit forcément avoir lieu hors de la scène et les personnages n'arrivent donc sur le théâtre qu'après la blessure. De même, à la fin de la deuxième scène du dernier acte, Melistrate surgit sur la scène en pensant sauver Oronclide et coupe ainsi la parole à Sémiramis « Ce sacrifice enfin … / Sera bien légitime » (v.1767). L'effet de surprise justifie donc que son arrivée ne soit pas annoncée. La sortie d'un personnage n'est également pas textuellement justifiée dans trois cas qui sont plus problématiques. Ainsi, à la scène 2 de l'acte III, Sémiramis monologue face à Merzabane, Cambises, Zénophire et Oronclide en leur annonçant que soit ils acceptent de se rallier à son plan soit ils subiront le même sort que Ninus, elle n'est ensuite plus présente à la scène suivante où les princes délibèrent. Néanmoins, rien ne nous annonce son départ, si ce n'est le ton de sa voix qui donne aux princes un ultimatum. Nous pouvons donc considérer qu'il y a là un manquement au critère de la continuité. De même, à la fin de cette même troisième scène, Cambises et Zénophire quittent le théâtre et laissent seuls Oronclide et Merzabane, mais ils n'annoncent pas leur départ et personne ne leur dit clairement de partir même si la discussion est close étant donné qu'une solution a été trouvée. À nouveau, il y a donc un manque de lien entre les scènes. Enfin, le dernier manquement apparaît à la fin de la première scène de l'acte IV, en effet, Melistrate est emmené dans les appartements d'Oronclide et Palmedon disparaît aussi du théâtre sans raison apparente, étant donné que rien ne l'autorise à suivre ici son maître. Il ne réapparaitra ainsi qu'à la première scène de l'acte V, après que Prazimène ait blessé Melistrate. Il y a donc là un autre manque de liaison car un personnage sort de scène sans raison et sans l'avoir annoncé. Cette analyse montre bien que le commentaire de Lancaster est fondé et que Desfontaines a parfois oublié certains enchaînements, mettant ainsi à mal l'unité d'action.
+
+Néanmoins, nous ne nous rallions pas à son autre argument selon lequel l'unité d'action n'est pas préservée à cause « des nombreuses scènes extérieures ». En effet, en étudiant la pièce, il apparaît clairement que les scènes extérieures ne se déroulent pas sur le théâtre en raison de leur violence. Ainsi, lorsque la scène se déroule « derriere le theatre » à la scène 3 de l'acte IV cela est justifié par le fait que Prazimène blesse Melistrate et que cela ne peut donc être montré sur scène pour respecter la bienséance. Lorsqu'un personnage en tue un autre, cela ne peut également se produire sur le théâtre et le meurtre fait donc l'objet d'un récit postérieur comme lors de l'assassinat de Ninus par Merzabane. Il annonce ainsi qu'il va le tuer à la fin de l'acte III : « Je vay treuver Ninus, elle veut qu'il perisse ; / J'en vay faire en secret un sanglant sacrifice » (v.1083-1084) et le récit n'intervient ensuite qu'à la quatrième scène de l'acte IV à la demande de Sémiramis : « Mais dites-moy comment & quel fut vostre abord ? Et de quel front enfin il a receu la mort. » (v.1394). À nouveau, l'extériorité de cette scène est justifiée par le respect de la bienséance. Il en va de même lorsqu'Oronclide blesse Merzabane dans la tour, Palmedon en fait le récit à Melistrate à la première scène du dernier acte : « Oronclide, … A blessé Merzabane, & ce grand coup est tel, / Que d'un commun accord, on le juge mortel » (v.1565-1566). Comme pour la blessure de Melistrate, cet acte ne pouvait être montré sur scène. Enfin, la pièce se finit avec deux morts, celle de Merzabane qui quitte la scène pour mourir : « Souffrez que hors d'icy j'aille mourir en paix » (v.1762) et de Sémiramis qui annonce l'imminence de son suicide : « La mort est desormais tout le bien que j'espere » (v.1836). Ces scènes extérieures ne constituent donc pas un manquement à l'unité d'action puisqu'en ne se produisant pas sur le théâtre, elles ne font que respecter la bienséance.
+
+Enfin, le dernier critère est celui de la continuité, il s'agit ainsi de voir si tous les éléments importants sont présents de façon continue dans la pièce et s'ils s'enchaînent bien. Ainsi, le personnage principal, Sémiramis, est bien présent dans tous les actes de la pièce ce qui donne une impression de continuité, nous la retrouvons dans quatorze scènes sur les vingt-deux que compte la pièce [59]. Elle est présente dans trois scènes seule sur le théâtre et dans quatre avec son conseiller, Merzabane. Ce critère est donc respecté.
+
+Finalement, Desfontaines pèche sans doute par l'excès d'éléments qu'il rajoute à sa pièce, brisant ainsi la continuité entre les intrigues et les différentes scènes. Nous reviendrons sur l'argument qui met ces erreurs sur le compte de la rapidité d'écriture de la pièce pour concurrencer la pièce de Gilbert écrite quelques mois avant dans le cinquième chapitre.
+
+
+# L'œuvre source : La Prazimène de Le Maire
+
+
+## L'inspiration romanesque
+
+Au XVII*e* siècle, il est courant de puiser le sujet d'une tragédie dans un roman qui connaît un certain succès, la tragédie *Perside ou la suite d'Ibrahim Bassa* du même Desfontaines se présente ainsi comme la suite du roman *Ibrahim* de Scudéry publié en 1642, tout comme la tragi-comédie *Eurimédon ou l'Illustre Pirate* qui est tirée du roman *Ariane* de Desmarets publié en 1632. Desfontaines tire l'intrigue de *La Véritable Sémiramis* du roman de Le Maire, *La Prazimène*, publié entre 1638 et 1643. Un volume de la *Bibliothèque universelle des Romans* en fait la description suivante : « Quatre gros volumes, deux mille sept cents pages assez mal remplies, à dévorer ; voilà le roman. Mais Sémiramis y joue un rôle principal : les noms fameux ne peuvent être trop reproduits [60]. » Ainsi même si le roman porte le titre de Prazimène, ce commentaire nous montre bien que Sémiramis y a une grande importance et que Desfontaines a donc pu en faire la source de sa pièce sur la reine. Ce roman est suivi de *La Suite de la Prazimène*, qui est également divisée en quatre parties. Il a très probablement connu un certain succès au XVII*e* siècle car il a été traduit en italien en 1654 [61] et en anglais en 1707 [62].
+
+
+## Résumé du roman
+
+*La Prazimène* : la reine Sémiramis tombe sous le charme de Melistrate mais celui-ci aime Prazimène. Elle demande alors à Ninus de lui confier le pouvoir et lors de son sacre, elle fait tuer son époux pour pouvoir offrir le trône à celui qu'elle aime. Melistrate continue de lui résister et il est donc fait prisonnier par Oronclide. Prazimène essaye de le secourir mais elle se trompe et, en voulant blesser Oronclide, elle touche Melistrate. Oronclide décide alors de les aider à fuir en Bactrie mais dans la forêt Prazimène est enlevée et menée à la princesse Azalinde. (Livre I). Prazimène commence à raconter à la princesse l'histoire de Sémiramis au moment de sa rencontre avec Ninus. La reine était alors une princesse valeureuse. Prazimène raconte ensuite sa propre histoire, elle était à l'époque courtisée par deux chevaliers, Alcanor et Malcadonte, et lorsqu'ils se sont battus pour elle, un mystérieux chevalier est venu la protéger et il s'agissait de Melistrate. Sémiramis tombe alors sous son charme. Melistrate déclare son amour à Prazimène mais elle le repousse, il part ensuite se battre. Palmedon revient au palais en annonçant à la princesse que Melistrate est blessé et qu'il refuse d'être soigné, Prazimène lui écrit alors une lettre lui demandant de vivre. (Livre II). Prazimène interrompt son récit à cause de l'arrivée du roi Coroandre. Il aime Prazimène et il lui propose de l'épouser mais elle refuse. Une fois retirée dans sa chambre, une servante fait entrer Melistrate qui la cherchait depuis son enlèvement. Il a entendu des rumeurs d'un mariage de sa maîtresse avec le roi, ce que Prazimène dément. Elle amène alors son amant devant le roi, qui fou de rage, envoie Melistrate au combat en espérant qu'il y trouve la mort. Prazimène continue alors son récit à Azalinde au moment où Palmedon lui raconte comment Melistrate a été blessé à la bataille de Legerde. Après avoir reçu la lettre de Prazimène, Melistrate revient donc au palais puis il est accusé d'avoir tué Alcanor par jalousie amoureuse. Finalement, il est innocenté. Prazimène finit alors son récit et se retire ensuite dans sa chambre. (Livre III). Melistrate revient au palais et il s'enfuit en bateau avec Prazimène. Ils accostent sur une île et au matin, le chevalier s'en va en abandonnant la princesse. (Livre IV).
+
+*La Suite de la Prazimène* : Gezamonde et Alcanor trouvent Prazimène évanouie sur la plage, elle leur apprend la trahison de Melistrate. Alcanor lui raconte ensuite son histoire et sa rencontre avec Gezamonde. (Livre I). Coroandre arrive ensuite sur l'île après avoir rencontré Melistrate, il prétend que ce dernier est mort et il propose donc à Prazimène de l'épouser mais elle refuse. Elle raconte ensuite à Azalinde l'histoire de l'enfance de Melistrate, à qui un oracle a annoncé qu'il allait devoir devenir parricide. (Livre II). Oronclide commence son propre récit et explique que lorsqu'il a cru avoir tué par erreur son père Merzabane, il a appris qu'il était en réalité le fils de Coroandre et que Melistrate est également un prince. (Livre III). Oronclide apprend ensuite à Prazimène que Melistrate est toujours vivant. (Livre IV).
+
+
+## Choix du sujet
+
+Si le roman de Le Maire prend pour titre le nom de la princesse Prazimène, Sémiramis y occupe tout de même une place primordiale. Ainsi, elle est l'objet de nombreux récits de la princesse et son amour incestueux pour Melistrate est le principal obstacle à l'amour du chevalier pour Prazimène. Il est également intéressant de constater que Le Maire emploie souvent le mot de « tragédie » pour évoquer l'intrigue de son roman et notamment l'amour de la reine pour Melistrate qui entraîne la mort de Ninus. Sémiramis évoque ainsi sa colère face au refus du chevalier de l'aimer en retour : « & qu'un excez d'Amour qui se change en excez de haine, produit de si estranges effets, que toute sa suite n'est qu'une perpetuelle tragedie. » (volume I). L'intrigue du roman était donc bien porteuse d'une veine tragique, dont Desfontaines s'est inspiré.
+
+
+## Choix pour l'adaptation théâtrale
+
+L'intrigue de *La Véritable Sémiramis* est bien inspirée du roman *La Prazimène*, Desfontaines suit la même intrigue mais la comparaison des deux œuvres montre bien que l'auteur a du adapter le récit originel pour répondre aux exigences de la scène. Il procède ainsi à de nombreuses simplifications de l'action pour se conformer à la règle de trois unités, comme nous l'avons vu précédemment. Nous analyserons ainsi les procédés d'adaptation de Desfontaines et nous verrons également que le roman éclaire des faits seulement esquissés dans la tragédie. De plus, *La Prazimène* étant en grande partie constituée des récits enchâssés de Prazimène qui raconte à Azalinde l'histoire des autres personnages, il était obligatoire pour Desfontaines de procéder à une forte adaptation formelle.
+
+
+### L'intrigue principale
+
+Desfontaines trouve bien dans *La Prazimène*, le cœur de son intrigue principale. Ainsi, les deux œuvres débutent de la même façon avec l'aveu de Sémiramis de son amour pour Melistrate qui fait alors tuer Ninus après avoir obtenu le pouvoir :
+
+
+cet amour fut aussi la cause du parricide que commit cette abominable Princesse, dont l'aveuglement couvrit bien tost de nuages le trosne royal, & mit dans le cœur de Melistrate le regret & la haine, au lieu de l'amour qu'elle en esperoit.
+
+Melistrate est blessé à la bataille de Legerde et il demande à Prazimène de décider de sa vie ou de sa mort, la princesse lui envoie alors une lettre lui déclarant son amour. Dans le roman, cette scène fait partie du récit enchâssé de Prazimène tandis que dans la pièce, Merzabane donne cette lettre volée à la reine dès la scène d'ouverture. La lettre est également volée dans le roman, mais elle arrive entre les mains de Ninus qui défend à Prazimène d'épouser Melistrate alors accusé du meurtre d'Alcanor.
+
+Desfontaines reprend de façon similaire l'épisode où Prazimène blesse par erreur Melistrate : cet événement n'apparaissant dans aucune autre source concernant Sémiramis, il s'agit donc d'un emprunt flagrant. Ensuite, Oronclide aide le couple à s'enfuir. Puis, il blesse par erreur son père Merzabane qui lui apprend qu'il n'est pas son fils. Dans le roman, Oronclide est le fils de Coroandre tandis que dans la pièce, il devient le fils de Ninus. Ensuite, nous apprenons que Melistrate est, quant à lui, le fils de Ninus et de Sémiramis.
+
+
+### Une intrigue simplifiée
+
+Si Desfontaines reprend bien la trame principale du roman de Le Maire, il est obligé de restreindre et de simplifier l'intrigue pour respecter l'unité d'action. Ainsi, de nombreux éléments disparaissent dans *La Véritable Sémiramis* comme, par exemple, les récits enchâssés de Prazimène. Le roman en comporte ainsi huit clairement identifiés : l'histoire de Sémiramis, de Prazimène, de Melistrate et Prazimène, d'Alcanor et de Gezamonde, l'histoire particulière de Melistrate, d'Argon et d'Elixis, d'Oronclide et la suite de l'histoire de Prazimène et Melistrate qui disparaissent dans la pièce. Or ces récits contenaient de nombreuses informations biographiques sur ces personnages que la tragédie ne peut donc rendre que par des allusions.
+
+De nombreux personnages du roman disparaissent donc dans la pièce. En effet Desfontaines ne peut conserver tous les personnages d'un long roman pour écrire une tragédie beaucoup plus brève. De plus, la multiplicité des personnages dans le roman crée de nombreuses intrigues secondaires qui n'ont parfois pas de liens entre elles et qui auraient pu donc nuire à l'unité d'action de la pièce. Il nous faut tout de même noter que les personnages supprimés servaient surtout, dans le roman, l'histoire de Prazimène. Par exemple, la princesse Azalinde et son père le roi Coroandre qui sont responsables de son enlèvement par des gardes bactriens ainsi qu'Alcanor et Malcodonte, ses deux prétendants, disparaissent dans la tragédie. En effet, si Prazimène est le personnage principal du roman, elle n'a qu'un rôle secondaire dans la pièce, Desfontaines a donc supprimé certains éléments pour limiter l'intérêt de son histoire. Dans *La Véritable Sémiramis*, elle n'est qu'une simple princesse amoureuse de Melistrate.
+
+Enfin, la suppression du personnage de Coroandre entraîne une autre simplification de l'intrigue. En effet, Oronclide n'est plus le fils de ce roi mais celui de Ninus et il est donc le demi-frère de Melistrate dans la pièce, alors que dans le roman, il se révélait être le frère d'Azalinde. Desfontaines ayant supprimé le personnage d'Argon, fils de Ninus dans le roman, il a ainsi pu changer la scène de révélation finale. De façon plus anecdotique, le personnage de Gezamonde disparaît également mais elle n'avait qu'un rôle limité dans le roman.
+
+
+### Une chronologie restreinte
+
+Le roman de Le Maire suit une chronologie particulière. Il commence de façon linéaire jusqu'à la fuite de Prazimène et Melistrate, le début des récits de la princesse à Azalinde provoque alors de nombreux récits enchâssés entrecoupés de fréquents retours au présent. Le passage du présent au récit est toujours marqué textuellement par une phrase type comme : « Puis se retournant à l'heure mesme vers Azalinde, elle fit en ces termes la liaison de ses malheurs ». Desfontaines ne peut construire sa tragédie sur une succession de récits et il rétablit donc une chronologie linéaire où toutes les péripéties peuvent arriver en vingt-quatre heures afin de respecter l'unité de temps. En effet, la temporalité réelle du roman est de l'ordre d'environ six jours depuis le meurtre de Ninus jusqu'à l'abandon de Prazimène par Melistrate sur l'île.
+
+
+### Une géographie simplifiée
+
+Afin de respecter l'unité de lieu, Desfontaines limite l'extension de l'intrigue dans l'espace. Ainsi, dans le roman, Sémiramis envoie Oronclide en Margiane, une province de la Bactrie, pour chercher Melistrate qui en est le gouverneur. Alors que dans *La Véritable Sémiramis*, Melistrate fait son entrée au palais à la première scène de l'acte IV, Oronclide étant chargé de l'accueillir : « Il revient, & tantost, comme je l'ay pû voir / On a fait choix de vous, pour l'aller recevoir. » (v.1089-1090). Pour respecter l'exigence d'un lieu unique, Melistrate vient donc à Oronclide. La fuite de Melistrate et de Prazimène en Bactrie est également réduite à une cachette à proximité du palais, comme le montre les paroles de Palmedon : « Allez, Seigneur, allez vous rendre à vostre azile ». (v.1644). Dans la tragédie, il n'est plus question de fuir dans un autre pays pour échapper à la reine, le temps étant limité, les amants ne peuvent s'éloigner du palais. De plus, Desfontaines ayant supprimé les personnages d'Azalinde et de Coroandre, une fuite en Bactrie n'aurait pas eu un grand intérêt dramatique. Enfin, la dernière fuite de Melistrate et de Prazimène sur un bateau disparaît également dans la pièce, cette péripétie hautement romanesque ne pouvait s'inscrire dans l'économie tragique, une nouvelle fois par respect de l'unité de lieu.
+
+
+### Le respect de la bienséance
+
+L'adaptation de Desfontaines prend également en compte le respect de la bienséance, nous pouvons ainsi noter que dans le roman, Ninus est assassiné par Merzabane devant tous les princes qui le « percent aussi de coups ». Tandis que dans *La Véritable Sémiramis*, Ninus est tué par Merzabane dans son appartement et nous n'assistons pas à ce meurtre qui ne nous est connu que par le récit qu'en fait Ninus à Sémiramis. Il s'agit donc ici d'un respect de la règle de bienséance selon laquelle un meurtre ne peut avoir lieu sur le théâtre.
+
+
+### Les modes du récit
+
+Il existe plusieurs sortes de variations du récit, du roman à la tragédie. Ainsi, le changement de narrateur est le phénomène le plus courant notamment lors du récit d'une bataille par exemple, la prise de Legerde est racontée par Palmedon dans le roman et par Merzabane dans la pièce (I,1) :
+La Prazimène (livre III). | La Véritable Sémiramis (I,1).
+(Récit de Palmedon à Prazimène) … l'ennemy de Melistrate se sentant affoiblir, voulut faire un dernier effort pour ne pas perir sans vaincre, mon Maistre chancela du coup effroyable qu'il receut, mais Benzamin cheut à ses pieds. Melistrate qui s'attendoit de remettre le vaincu entre les mains de ses soldats, soit qu'il eust perdu la vie ou qu'il respirat encore, se contentant de la victoire sans y vouloir joindre la captivité … Que ce fust la destinée de Xydiane, ou celle de Benzamin, qui opera cette merveille, tant y a que mon Maistre vainquit bien mieux desarmé que sous les armes ; & que n'ayant pû venir à bout de son ennemy sans playes, il triompha de Xydiane sans estre blessé. | Récit de Merzabane à Sémiramis) Ils combattent pourtant, & le sort est en peine, Auquel il veut montrer sa faveur ou sa haine, Mais à la fin honteux de s'estre démenty, Il quitte Benzamin, & prend nostre party. Melistrate vainqueur, & content de sa gloire, Fut courtois au vaincu, plus qu'on ne le peut croire ; Et comme il estoit lors à vaincre accoustumé, Il vainquit combattant, & vainquit desarmé, Car comme il s'aqueroit un si glorieux titre, Xidiane des murs, se rendit leur arbitre ; Et noyant son amour au sang de Benzamin, En ses legeretez, imita le destin. Dés lors que le vainqueur se presente à sa veuë, Son éclat l'ébloüit, elle paroit émeuë ;
+
+
+
+Ces extraits montrent que Desfontaines ne fait que transformer le récit de Palmedon en vers, en apportant de légères modifications. Le passage de Palmedon à Merzabane en tant que narrateur est justifié par l'intrigue de la pièce, en effet, Sémiramis apprend ainsi l'amour de Melistrate pour Prazimène dès la scène d'ouverture alors que, dans le roman, ce récit sert à Palmedon pour convaincre la princesse d'avouer son amour à Melistrate pour le sauver. Néanmoins, cette adaptation suppose également une restriction puisque Desfontaines ne reproduit pas dans la pièce la déclaration d'amour initiale de Melistrate à Sémiramis ni son refus, qui amènera Melistrate à vouloir mourir si elle ne peut se résoudre à l'aimer. Dans la pièce, l'amour de Prazimène pour Melistrate est affirmé dès la lecture de la lettre volée par Sémiramis (I,1).
+
+En outre, certains moments sont racontés avec beaucoup de précisions dans le roman tandis que dans la pièce, ils sont volontairement réduits. Par exemple, l'attaque de Thermodonte est décrite intégralement et avec précision dans *La Prazimène* (volume II) pendant treize pages tandis qu'elle ne fait l'objet que de onze vers dans la pièce.
+*La Prazimène* (vol. II) | *La Véritable Sémiramis* (III,1)
+… il avoit sçeu d'eu que Termodonte estoit l'auteur & le conducteur de cette entreprise. Que ce n'estoit point pour se vanger de quelque mescontentement quue luy eût procuré le grand Ninus … ais seulement pour luy ravir la Princesse qu'il possedoit, dont la foy luy estoit engagé auparavant qu'elle ne fust son espouse. Notre reine s'habilloit lors qu'elle apprit cette nouvelle ; et ce fut immediatement à l'heure qu'un des costez de sa tresse estant retroussé, l'autre estoit encore** espars** sur sa jouë … Alors moins en colere de la perte de Babylone, que du sujet de sa prise, Sémiramis demanda ses armes …  Son bras ne fut pas seul à le frapper ; Sa langue, par des reproches qu'elle luy fit, luy porta autant de coups que son espée. … Monstre couronné, s'escria t'elle quand il tomba … Meurs, infame rival du plus grand monarque de la terre, & apprends par la justice de ta mort que Ninus est le seul digne de la possession de Sémiramis. | Dans l'horreur de la nuit, le traistre Thermodonte : Voyez la qui s'habille, & qui s'arme à demy, Pour aller repousser ce superbe ennemy, Qui pressé des transports d'une ardeur sans égale, Venoit pour attenter à ma couche Royale : Voyez la teste nuë, & les cheveux épars, Fendre un Peuple surpris en ses propres rempars, Rétablir le desordre, arrester l'insolence, Faire agir la valleur, avec la prudence ; Et d'un bras, par les Dieux à vaincre destiné, Immoler à ses pieds, un Monstre couronné.
+
+
+
+Cet épisode représente parfaitement les choix de Desfontaines pour son adaptation théâtrale. Il est obligé de réduire la péripétie originelle pour n'en garder que le principal. Il supprime ainsi les détails de l'affrontement entre Thermodonte et la reine de même que les déclarations de Sémiramis qui affirme ainsi qu'elle n'appartient qu'à Ninus.
+
+Enfin, une des particularités de *La Prazimène* est que ce roman comporte de nombreuses lettres de personnages (nous en avons relevé cinq) qui participent à l'avancée de l'action. Desfontaines fait le choix de n'en conserver qu'une, celle de Prazimène à Melistrate qui sera lue par Sémiramis pendant la scène d'ouverture.
+
+
+### Une fin différente
+
+Le traitement de la fin des amours de Melistrate et de Prazimène est abordé de façon totalement différente dans le roman et dans la tragédie. En effet, *La Prazimène* se termine avec l'abandon de Prazimène par Melistrate sur une île inconnue. La princesse se lamente alors d'avoir été trahie par son amant. *La Suite de la Prazimène* reprend donc l'intrigue au moment de cet abandon et le roman ne propose finalement pas de réelle fin à la relation de Prazimène et Melistrate. Il se termine ainsi sans que nous n'ayons appris les raisons qui ont poussé le chevalier à abandonner la princesse ni s'il reviendra finalement à ses côtés. Cette conclusion est surprenante et pour le moins énigmatique puisque cette deuxième partie des aventures de Prazimène ne nous apporte pas de nouveaux éléments que ceux dont nous disposions à la fin du premier tome. Prazimène est toujours seule sur l'île et le fait que nous ne sachions pas si Melistrate reviendra ou non est particulièrement troublant. Le roman se conclut ainsi sur une formule énigmatique :
+
+
+Oronclide lui reïtera donc les asseurances qu'il avoir déjà données ; & ce fut avec des termes si persuasifs, & des intentions si sinceres, que suivant l'espoir qu'elle en conçeut, nous en devons attendre vray-semblablement la conclusion de ses mal-heurs.
+
+Desfontaines donne à sa pièce un dénouement beaucoup plus clair. Après la double scène de reconnaissance, Sémiramis comprend que son désir est incestueux et elle souhaite donc se suicider, tandis que Melistrate et Oronclide qui se découvre frères, célèbrent leur joie après tant de malheurs :
+
+Que le Ciel aujourd'huy nous est doux & severe !  
+Et qu'aux biens qu'il nous donne & nous oste, le Sort  
+Mesle confusément, & l'Amour & la Mort ! (v. 1840-1842).  
+
+Prazimène et Melistrate sont maintenant libres de se marier. Le dénouement constitue donc la principale différence entre le roman originel et l'adaptation de Desfontaines. *La Véritable Sémiramis* dispose ainsi d'une conclusion heureuse, en effet, si les personnages déplorent la mort de l'innocent Ninus, la perspective du suicide de Sémiramis met fin à leurs malheurs.
+
+
+## La Prazimène : une aide précieuse à la compréhension de la pièce
+
+L'adaptation d'un roman aussi long que *La Prazimène* ainsi que de sa suite suppose donc pour Desfontaines de faire de nombreuses coupes pour ne garder que le cœur de l'intrigue. Néanmoins, *La Véritable Sémiramis* contient de nombreuses références à des faits mineurs qui ne sont largement explicités que dans le roman, car ils n'ont aucune valeur historique. Sa lecture permet donc de comprendre de nombreux éléments qui étaient difficilement compréhensibles dans la pièce. Par exemple, cet extrait de l'acte III, scène 1 est particulièrement obscur pour qui n'a pas lu le roman :
+
+Oüy, ce pâle Demon de tant de funerailles,  
+M'ayant suivy toûjours en trois grandes batailles,  
+Fut enfin arresté par les traits d'un enfant,  
+Que deux yeux tout divins rendirent triomphant.  
+Souvenez-vous un peu quelle fut l'asseurance,  
+La generosité, l'adresse, & la vaillance  
+Du redoutable bras qui m'oza défier,  
+Et tenter les hazards d'un combat singulier.  
+Ne m'advoüerez vous pas qu'une telle personne,  
+Qui sçait vaincre des Roys, merite une Couronne ? (v.815-824)  
+
+Le récit enchâssé de Prazimène qui concerne l'histoire de Sémiramis nous apprend ainsi que lorsque Ninus a voulu prendre la ville d'Ascalon, Sémiramis s'est déguisée en chevalier et a proposé un duel au roi pour décider du sort de la ville. Le roi accepte et en la blessant, il comprend que c'est en fait une princesse : « C'estoit en un mot l'incomparable Sémiramis, qui ne pouvant concevoir de petits desseins, avoit fait la grande entreprise de combattre le victorieux Ninus, & de mourir par ses mains, ou de trouver le salut de son pays dans le trespas de ce Heros » (Livre II). Il tombe alors sous son charme et après de nombreux refus, elle accepte de l'épouser. Dans la pièce, le « redoutable bras » dont parle Ninus est donc bien celui de la princesse Sémiramis qui est aussi désignée par « les traits d'un enfant », certainement en raison de son jeune âge. La lecture du roman nous permet donc de comprendre un passage assez énigmatique de la pièce.
+
+De même, le roman nous apprend également l'intégralité du déroulement de la bataille de Legerde. En effet, Merzabane en fait le récit à Sémiramis dans la scène d'ouverture mais certains éléments ne sont qu'esquissés. Il nous est, par exemple, difficile de comprendre qui sont Benzamin et Xidiane. Cette dernière est donc la fille du roi de Legerde, qui a choisi parmi ses nombreux prétendants d'épouser Benzamin. Néanmoins la vue de Melistrate fait changer ses sentiments. Dans la pièce, elle se suicide quand elle comprend que Melistrate ne l'aimera jamais et Benzamin blesse ensuite Melistrate, qui est la cause de la mort de son amante, avant de se tuer aussi. Dans le roman, cette péripétie est beaucoup plus développée et nous apprenons par exemple que Xidiane a adressé une lettre à Melistrate où elle lui déclare son amour, avant d'envoyer un garde pour obtenir sa réponse et de venir jusqu'à lui pour se suicider. Desfontaines fait donc l'économie des manœuvres de séductions de la princesse et aussi des réactions de Benzamin qui reproche à Melistrate sa dureté : « Monstre, luy dit-il, plus Monstre que ceux les dieux qui ont permis cette horrible cruauté, que te profitera-t'il d'estre humain Xydiane n'estant plus ? » (Volume III). La lecture du roman nous renseigne donc sur la totalité de cet épisode.
+
+Enfin, *La Prazimène* éclaire l'histoire de trois personnages qui étaient assez mystérieux. Tout d'abord, nous apprenons que Prazimène est originaire d'Ascalon, qu'elle était très proche de Sémiramis et qu'elle l'a donc suivie à Babylone lors de son mariage avec Ninus : « nous rendirent en peu de jours dans la vaste & populeuse Babylone » (volume II). Desfontaines ne fait ainsi aucune allusion à son origine dans la pièce. Le second personnage dont l'identité se révèle dans le roman est Herminie. En effet, son nom figure à deux reprises dans des rubriques de personnages (I,1 et II,1) mais elle ne prend jamais la parole dans la pièce. Dans le roman, Erminie est ainsi la directrice de Prazimène, elle est venue avec elle d'Ascalon et elle veille sur elle. Dans la première partie du volume I, elle suit souvent Prazimène et elle tient le rôle de confidente de la princesse. Néanmoins, lors de sa première apparition dans la scène d'ouverture de *La Véritable Sémiramis*, elle est avec Sémiramis et Merzabane. On pourrait alors comprendre sa présence par le fait qu'elle vienne d'Ascalon et qu'elle est donc une personne de confiance pour la reine mais son engagement aux côtés de Prazimène, qui est présente lors de sa deuxième venue sur le théâtre, rend difficile cette interprétation. Lorsqu'elle revient sur scène, elle accompagne ainsi sa protégée. Le roman nous éclaire ainsi à nouveau sur les zones obscures de la pièce. Enfin, le roman nous apprend également que Thermodonte était le roi de Tyr à qui Tarsenos avait promis en mariage sa fille, Sémiramis.
+
+
+## Le phénomène de la reprise textuelle
+
+La reprise textuelle consiste en « la reproduction exacte, ou peu s'en faut, de séquences extraites d'autres œuvres préexistantes [63] ». Les œuvres de Desfontaines semblent ainsi être marquées par une forte reprise textuelle du texte-source, comme c'est par exemple le cas dans ses tragédies hagiographiques. Dans le cas de *La Véritable Sémiramis*, nous allons voir que ces reprises sont très fréquentes et facilement identifiables. S'agit-il alors d'une facilité d'écriture ou d'une citation assumée de l'œuvre originale ? Nous pouvons relever le commentaire de Claude Bourqui et Simone de Reyff qui soulignent que « Le phénomène, en ce qui concerne le théâtre de Desfontaines, est demeuré jusqu'ici inaperçu dans son ampleur [64] ». De plus, il est difficile de déterminer la fréquence de cette pratique chez les auteurs dramatiques du XVII*e*. Nous ne pouvons donc pas savoir s'il s'agit d'un trait original de Desfontaines ou si cette pratique était répandue. C. Bourqui et S. de Ryeff répertorient trois types de reprises textuelles. La *retractatio* ou « reprise de vers et de passages provenant d'œuvre antérieures de Desfontaines », l'*excerptio minor* ou « reprise de vers ou de distiques isolés provenant d'œuvres allogènes et l'*excerptio major* ou « reprise de passages volumineux provenant d'œuvres allogènes [65] ».
+
+Il est évident que dans le cas de *La Véritable Sémiramis*, ces reprises sont liées à un passage de la prose aux vers ce qui rend obligatoire certains changements liés à la versification. Desfontaines doit également adapter un vaste roman en seulement cinq actes, ce qui suppose notamment de transformer de nombreuses actions en récits. Néanmoins, Desfontaines reprend des expressions et parfois des phrases entières du roman source *La Prazimène* pour écrire sa pièce [66]. C. Bourqui et S. de Ryeff relèvent bon nombre de ces reprises dans leur étude des tragédies hagiographiques [67], ce qui laisse supposer que Desfontaines était adepte de cet exercice. Dans *La Véritable Sémiramis*, le mode de reprise le plus fréquent est celui de *l'excerptio minor*. Nous étudierons trois phénomènes emblématiques du mode de reprise utilisé dans *La Véritable Sémiramis*. Tout d'abord les reprises dans leur intégralité d'une partie du texte originel sans modification majeure puis les reprises qui respectent le sens du texte source mais où nous pouvons observer des variations liées à la versification avec l'emploi notamment de synonymes et de structures équivalentes. Enfin nous verrons la reprise de passages plus importants qui sont également soumis à des changements du fait du passage de la prose au vers mais dont le sens originel est conservé.
+
+
+### La reprise fidèle
+
+La reprise d'une phrase ou d'un passage dans son intégralité est très rare dans *La Véritable Sémiramis*, notamment car Desfontaines s'inspire d'un roman et qu'il ne peut donc, dans la plupart des cas, reprendre exactement le texte originel puisqu'il doit l'adapter en alexandrins. Nous pouvons tout de même relever la reprise de quelques formules emblématiques (nous avons mis en caractères gras les similitudes) :
+La Prazimène, Le Maire | La Véritable Sémiramis, Desfontaines
+**Il aime**, dit-elle, avec un soupir violent, mais Prazimene perduë**, il n'aime que la gloire** | S'**il aime**, Merzabane, **il n'aime que la gloire**(I,1)
+… j'auray sujet de vous **reprocher que vostre affection est trop respectueuse**, | **Je vous reprocheray**, Princesse genereuse,*Que vostre affection est trop respectueuse (I,3)*
+… jusques là **que de conquerant** vous devinstes **le conquis.** | Et **que de conquerant**, vous fustes **le conquis**.(I,3)
+…** le plus fidelle** de tous les** Amans** | **Le plus fidelle Amant** que le Ciel ait fait naistre ?(II,5)
+…** les revolutions en matiere d'Estat** estoient un peu trop **dangereuses** | **Les revolutions**, encore que fameuses, **En matiere d'Estat**, sont toûjours **dangereuses ;** (III,1)
+
+
+
+Ces exemples nous prouvent que Desfontaines reprend parfois des formules entières du roman de Le Maire. Ainsi, les passages repris se situent souvent à des moments-clés de l'œuvre comme la formule comme par exemple lorsque Ninus demande à Sémiramis de lui confier la raison de son malheur « que vostre affection est trop respectueuse » (v.298). Desfontaines reprend donc des formules entières du roman et les conserve telles quelles dans sa pièce. Néanmoins, il doit souvent adapter légèrement la structure des vers contenant ces reprises.
+
+Ainsi, nous observons deux types de variations légères dans ces reprises presque totales. Tout d'abord, la transposition d'un roman en pièce de théâtre suppose la suppression de certains éléments caractéristiques comme les verbes introducteurs de paroles (v.2) et certains compléments circonstanciels, par exemple : « avec un soupir violent » qui aurait pu être transformé en didascalie dans le texte théâtral mais que Desfontaines choisit ici de supprimer. De plus, dans cette reprise, la reine ne peut pas faire allusion à Prazimène dans la pièce car elle ne connaît pas encore l'amour que lui porte Melistrate. Enfin, nous observons aussi que les reprises totales doivent se plier à la création de rimes, cela peut ainsi justifier la transformation du texte originel aux vers 891 et 892 pour créer la rime entre « fameuses » et « dangereuses ».
+
+
+### Les variations liées à la métrique
+
+Certaines reprises sont assez fidèles au texte source mais elles connaissent des variations liées à la versification. Ce cas de figure est le plus courant dans *La Véritable Sémiramis*, Desfontaines utilise ainsi des synonymes pour s'adapter aux exigences métriques de l'alexandrin. Nous avons relevé des extraits représentatifs de cette variation (nous avons mis en caractères gras les similitudes et nous avons souligné les variations synonymiques) :
+La Prazimène, Le Maire | La Véritable Sémiramis, Desfontaines
+Il **ayme** bien** mieux** que *son triomphe* soit composé de **soldats** *esclaves*, que d'une **Reyne** amoureuse. (p.3) | L'orgueilleux **aime mieux** que *sa valeur* enchaisne Des **soldats** *subjuguez*, qu'une fameuse **Reyne**,(I,1)
+… mon Maistre **vainquit** bien mieux **desarmé** que *sous les armes*  | Il **vainquit** *combattant*, & vainquit **desarmé**(I,1)
+Il est certain qu'en *un âge si advancé*, **le trespas** *ne te peut estre qu'advantageux*, puis qu'il **mettra à couvert** *tant de triomphes. Hé que sçait-on si un moment ne les dissipera point* ?  | Tout prest de succomber *aux foiblesses de l'âge*, **Le trépas***t'est sans doute un heureux avantage*, Puis qu'abregeant tes jours, il peut **mettre à couvert** *Des Lauriers, que le temps fait souvent que l'on perd*(I,2)
+… *si je suis impuissant à vous contenter*, **je diray** *que vous aurés eû raison* **de m'en taire la cause** | *Si pour le soulager, je puis trop peu de chose*, **Je diray***qu'à bon droict* vous m'en **taisez la cause** ; (I,3)
+*Rois*,** qui relevez de ce superbe empire** | *Princes*,** qui relevez de ce superbe Empire**,(III,1)
+*Apprenez*, Oronclide, que vous **n'estes point** mon **fils** | Et lors *luy declarant* qu'il **n'estoit pas** son **Fils**,(V,1)
+Helas **ozay-je** bien encore **prononcer** un *si beau* **nom, moy quy suis** le** meurtrier execrable du Heros** qui **le portoit** ? | **Ozay-je prononcer un nom***si plein de gloire*, **Moy qui suis l'execrable** & *perfide* **meurtrier** **Du Heros**, qui jamais **l'ait porté** le premier ?(V,2)
+
+
+
+Au vers 5, Desfontaines transforme ainsi « son triomphe » en un quasi-synonyme qui est : « sa valeur », ce substantif comporte une syllabe de moins. Ce changement lui permet donc de se conformer à l'exigence des douze syllabes de l'alexandrin. Il utilise le même procédé en remplaçant « tant de triomphes » par « des lauriers » (v.268), l'utilisation de ce synonyme lui permet ainsi d'utiliser une syllabe de moins par rapport à la version de Le Maire. Enfin, nous constatons que Desfontaines joue à nouveau avec les synonymes en transformant « si beau » en « si plein de gloire » (v.1688) afin de gagner cette fois deux syllabes. Il fera de même en transformant « Rois » en « Princes » (v.791), ce substantif comportant une syllabe de plus que celui de l'œuvre originel, ce qui permet à Desfontaines d'obtenir un alexandrin. Néanmoins, Desfontaines n'opère parfois que des changements d'ordre lexical. Nous pouvons voir ce procédé au vers 266 où l'adjectif « avantageux » présent dans *La Prazimène* devient le substantif « avantage » dans *La Véritable Sémiramis*, pour gagner une syllabe en l'accolant à l'adjectif « heureux ».
+
+De plus, la disposition de la phrase est également soumise à la nécessité de la rime, c'est pourquoi Desfontaines remanie souvent le sens des mots originels pour se conformer à l'esthétique tragique. Par exemple, au vers 6, l'adjectif qui qualifie le substantif « Reyne » est antéposé afin de créer une rime avec le verbe « enchaisne ». De même, il transforme l'adjectif « impuisant » en « trop peu de chose » (vers 293) afin de créer une rime avec « cause » au vers suivant. Les variations auxquelles Desfontaines soumet le texte originel sont donc le plus souvent liées aux exigences métriques de la versification.
+
+Enfin, nous pouvons tout de même remarquer que, parfois, certaines de ces variations ne sont motivées que par un intérêt purement poétique. Ainsi, sa préférence du mot « subjuguez » (au vers 6) à celui d'« esclaves » n'est pas motivée par la versification car ces deux mots synonymes sont constitués du même nombre de syllabe. Nous retrouvons ce même procédé au vers 152 avec la transformation de « sous les armes » en « combattant », ici ce choix est certainement motivé par la volonté de créer un parallélisme avec le deuxième hémistiche construit également avec le verbe « vainquit ». Enfin, nous remarquons une nouvelle fois ce phénomène au vers 1621 où le verbe « déclarant » est préféré au verbe « apprenez », or ces deux verbes étant quasi-synonymes, le choix de Desfontaines apparaît à nouveaux comme purement poétique.
+
+
+### La reprise du sens originel
+
+Desfontaines reprend parfois des passages entiers du roman-source mais en changeant totalement les mots qui le compose ; le passage transformé conserve néanmoins le même sens que celui du roman. Ainsi, nous étudierons un exemple emblématique de ce type de reprise qui est celui de la demande de Sémiramis à Ninus pour obtenir un règne de trois jours.
+*La Prazimène*, Le Maire (Volume 1). | *La Véritable Sémiramis*, Desfontaines (I,3).
+Hé bien, luy dit-elle en pleurant, puis que vous me le commandés, je me vay contraindre à vous obeyr. Mais que vostre Majesté considere, s'il lui plaist, que c'est elle qui fait esclatter mon insolence. … *Il ne faut point que vos armes joignent toutes les couronnes du monde à celle de l'Asie pour contenter mon ambition*. Il ne faut point que l'**Amour** vous rende idolatre, & qu'il ne communique vostre** idolatrie** à tout l'univers pour ce mesme sujet. … Mais il me fait permettre de seoir **seule** sur **le trosne**, & de disposer souverainement de l'Estat. | *Obéïssons pourtant ; mais en cette occurrence, Souvenez vous, Seigneur, que mon obeïssance Est plûtost un effet de vostre authorité, Que de mon imprudence, ou de ma volonté. Il ne faut pas enfin, pour me rendre contente, Que l'Univers soûmis, remplisse mon attente, Que vostre affection oblige les mortels, A flatter mon orgueil, ny d'encens, ny d'Autels, Ou que pour satisfaire à mon effronterie,* Vostre zele à l'**amour** joigne l'**idolâtrie.** …Si **seule** j'ay l'honneur pour trois jours seulement, De pouvoir sur **le Trône** agir absolument,
+
+
+
+Ainsi, il est indéniable que Desfontaines a repris ce passage de *La Prazimène*, en lui apportant simplement une modification de forme. Nous retrouvons les mêmes éléments constitutifs de ce moment-clé de la pièce avec par exemple la notion d'obéissance : « obeyr » devient « obéissance » (v.362). Sémiramis évoque ensuite le fait quelle ne désire pas un surplus de conquête, Desfontaines réécrit certes cette idée mais il en garde l'essence [68]. « Le monde » devient « l'univers », le verbe « contenter » est transformé en l'adjectif « contente » et le verbe « contenter » est remplacé par son synonyme « remplir ». Ces changements montrent bien que si ces deux textes ne semblent plus avoir beaucoup en commun formellement, il s'agit en fait d'une transposition et de nombreux éléments demeurent tout en subissant une variation. La suite de cet exemple s'inscrit également dans cette modalité particulière de reprise textuelle. Sémiramis parle ainsi de son refus de l'idolâtrie de Ninus, les substantifs « idolatrie » et « amour » sont ainsi repris par Desfontaines qui adapte une nouvelle fois la forme du texte tout en gardant le même sens. Enfin, elle demande à Ninus de lui laisser le « trosne » pour trois jours. La stratégie de reprise textuelle de Desfontaines se base donc sur la répétition de mot clés tout en remodelant la phrase pour répondre aux exigences de la versification et de la métrique de l'alexandrin.
+
+
+# Une rivalité dramatique : la Sémiramis de Gabriel Gilbert
+
+
+## Desfontaines et les doublons dramatiques
+
+Desfontaines se retrouva souvent en situation de concurrence dramatique avec un autre auteur. Ainsi, nous pouvons envisager l'idée qu'il considérait peut-être les doublons dramatiques comme une assise possible pour sa carrière. En effet, six de ses pièces ont été en concurrence directe avec une autre pièce : *Eurimédon ou l'Illustre Pirate* (1637) avec *L'Illustre Corsaire* de Mairet,* La Vraie Suite du Cid* (1638) avec *La Suitte et le Mariage du Cid* de Chevreau, *Bélisaire* (1641) avec le *Bélisaire* de Rotrou, *Le Martyre de Saint-Eustache* (1643) avec *Saint-Eustache Martyr* de Baro, *L'Illustre Comédien ou le Martyre de Saint-Genest* (1645) avec *Le Véritable Saint-Genest* de Rotrou, et enfin, *La Véritable Sémiramis* (1647) avec la *Sémiramis* de Gilbert. Desfontaines semble toujours être à l'origine de la compétition dramatique sauf dans le cas de *Bélisaire*, la pièce de Rotrou a ainsi été publiée deux ans plus tard, en 1643. Nous pouvons donc légitimement supposer que Desfontaines aimait se mettre en situation de rivalité avec un autre auteur afin de donner à ses pièces une certaine notoriété dans le cadre de ces duels dramatiques.
+
+Dans le cadre de *La Véritable Sémiramis*, cette volonté de se démarquer de la *Sémiramis* de Gilbert et de mettre en avant sa pièce est notamment visible à l'utilisation de l'adjectif « véritable ». Ainsi selon Pasquier :
+
+
+L'emploi du qualificatif « véritable » laisse en effet supposer, de la part de l'auteur, la volonté de différencier son œuvre d'une autre, estimée inauthentique, mais déjà connue du public, dans une situation de concurrence telle qu'en suscitait fréquemment à l'époque la rivalité opposant les troupes de la capitale [69].
+
+L'utilisation de cet adjectif est donc un moyen pour Desfontaines de mettre en avant sa pièce en revendiquant sa fidélité historique et donc, en critiquant implicitement la *Sémiramis* de Gilbert qui apparaît comme moindre. L'adjectif « véritable » montre bien ici qu'en écrivant *La Véritable Sémiramis* Desfontaines était bien dans l'optique d'une confrontation dramatique avec la pièce de Gilbert.
+
+
+## *La Véritable Sémiramis* face à la *Sémiramis* de Gilbert
+
+
+### Histoire d'une rivalité
+
+La *Sémiramis* de Gilbert et *La Véritable Sémiramis* de Desfontaines sont des pièces rivales. Il semble raisonnable de penser que Gilbert s'est emparé le premier de ce sujet. Les arguments pour justifier son antériorité sont néanmoins peu nombreux et l'écriture hâtive de Desfontaines en reste la principale preuve. Ainsi, Gilbert a obtenu un privilège pour la publication de sa pièce le 13 mai 1647 tandis que Desfontaines l'obtient le 17 avril 1647. Mais cette antériorité ne peut être considérée comme une preuve en faveur de Desfontaines car « on peut toutefois estimer que c'est l'imminente parution de *La Véritable Sémiramis* qui a déterminé Gilbert à lancer l'impression de sa *Sémiramis*, ce qui, à tout prendre, signale simplement que la concurrence dramatique des deux tragédies s'est, comme souvent, poursuivie sur le terrain éditoriale [70] ». De plus, Desfontaines a certainement ajouté l'adjectif « véritable » au titre de sa pièce pour revendiquer sa supériorité face à celle Gilbert qui arborait la mention « Tragédie représentée par la Troupe Royale » et qui la précédait. La dualité de l'action dans *La Véritable Sémiramis* qui juxtapose deux intrigues tandis que la *Sémiramis* de Gilbert respecte l'unité d'action est également une preuve en faveur de l'antériorité de la pièce de Gilbert. Ce dernier est aussi beaucoup plus fidèle aux sources historiques sur Sémiramis alors que Desfontaines s'en éloigne, peut-être dans une volonté de se démarquer de la pièce de son rival. L'issue abrupte de sa pièce, qui laisse le sort de Sémiramis en suspens nous met également sur la piste d'une possible hâte dans l'écriture de la pièce pour concurrencer celle de Gilbert dont les représentations avaient sûrement déjà commencé à l'Hôtel de Bourgogne. Lancaster statue lui aussi en faveur d'une antériorité de la *Sémiramis* de Gilbert :
+
+
+*It is reasonable to suppose that the* Sémiramis* of Gilbert was acted first, probably in 1646, and that Desfontaines entitled his play* La Véritable Sémiramis* in order to make a (p.584) distinction between the two and to advertise the claim that his own play was more faithful to history. He probably hurried the publication of it in order to anticipate Gilbert, who, in reply, added to his title* “*Tragedie representée par la troupe royalle”* [71].
+
+Ce dernier argument de Lancaster nous semble peu crédible, car la mention que Gilbert appose à sa pièce était d'usage pour toutes les pièces représentées à l'Hôtel de Bourgogne. Contrairement à l'ajout de l'adjectif « véritable » par Desfontaines qui montre bien une volonté de se démarquer de son rival et qui nous conforte dans l'idée que la pièce de Gilbert est antérieure à *La Véritable Sémiramis*. Le goût de Desfontaines pour la création de doublons dramatiques ne fait que confirmer cette hypothèse.
+
+
+### Le traitement des sources antiques
+
+Gabriel Gilbert et Desfontaines n'utilisent pas les mêmes sources historiques pour construire leur pièce. Ainsi, Gilbert s'inspire principalement de Diodore de Sicile [72], chez lequel il trouve les récits des nombreuses batailles de Sémiramis notamment contre les Bactres, sa pièce s'ouvre ainsi sur le récit de sa victoire avec son époux et Ninus contre Zoroastre. Sa naissance suit aussi la version de Diodore. Elle serait donc fille d'une déesse et d'un humain, et après avoir été recueillie par des bergers, Ménon tombe sous son charme et décide de l'épouser. Le roi Ninus veut ensuite l'épouser et il propose d'offrir sa fille Sosarme en mariage à Ménon. Mais ce dernier refuse et se pend. Sémiramis épouse alors Ninus. À sa demande il lui cède ensuite le pouvoir. Gilbert construit donc sa *Sémiramis* principalement autour de cette version de son histoire, tout en y apportant quelques modifications. Desfontaines s'inspire aussi de Diodore de Sicile mais il ne prend en compte que la deuxième partie de l'histoire de Sémiramis, dans *La Véritable Sémiramis*, la reine épouse le roi d'Assyrie après qu'il ait vaincu et tué son père, le roi d'Ascalon. Ninus est donc le premier mari de la princesse. L'auteur trouve le cœur de son intrigue chez Justin [73] qui évoque le désir incestueux de Sémiramis pour son fils qui l'assassina. La *Sémiramis* de Gilbert est donc plus fidèle au récit historique de la vie de Sémiramis, que celle de Desfontaines qui mêle différentes sources. Néanmoins le thème choisi par Desfontaines connaîtra une certaine postérité puisque Crébillon et Voltaire s'en inspireront pour écrire leur *Sémiramis* respectivement en 1717 et 1749.
+
+Néanmoins, le point commun de l'intrigue de ces deux pièces : l'assassinat de Ninus par Sémiramis pour assouvir son désir de vengeance, n'est présent chez aucuns historiens. En effet, pour Diodore et Justin, il succombe à une mort naturelle. De plus, aucun de ces deux auteurs ne met en scène Ninyas, le fils de Ninus et Sémiramis, qui succèdera à cette dernière. Ces deux tragédies ont donc pour principal « moteur » le désir de vengeance de Sémiramis, invention qui leur est propre.
+
+
+### La construction de l'intrigue
+
+Ces deux pièces sont rivales mais la différence de leur intrigue principale ne crée pas une rivalité frontale, puisqu'elles traitent certes d'un même sujet mais de façon presque complémentaires. Gilbert construit ainsi son intrigue autour de la vengeance de Sémiramis qui tue Ninus car il a causé la mort de son premier mari, Ménon [74]. Tandis que Desfontaines mêle deux intrigues, l'accession au pouvoir de Sémiramis et son conflit avec son fils. En combinant ces deux épisodes très éloignés historiquement, il ramène à une seule journée les quarante-deux ans de règne de Sémiramis [75]. Une partie de l'intrigue de ces deux pièces est néanmoins similaire. Sémiramis demande à Ninus de lui céder le pouvoir, ce qu'il accepte facilement. Elle est donc sacrée reine et devant les princes du royaume, elle demande que Ninus soit tué pour ses meurtres et pour lui avoir aussi facilement céder le pouvoir. Cette scène ouvre le troisième acte chez Desfontaines tandis qu'elle apparaît au début de l'acte V chez Gilbert.
+*Sémiramis*, Gilbert (V,2) | *La Véritable Sémiramis*, Desfontaines (III,1)
+NINUS. Venez, venez, regnez belle Semiramis, Je me veux acquitter de ce que j'ay promis, Que sur un si beau front la couronne a de grace : Mais montez sur le trône, & remplissez ma place. Ninus avec son sceptre a remis en vos mains, L'Empire glorieux qu'il a sur les humains, Luy-mesme reconnoist vostre auguste puissance, Et veut durant cinq jours vous rendre obeissance, Il en jure les Dieux pour vous en asseurer, Faites tous le semblable, & venez l'adorer, Jurez tous d'obeyr à sa grandeur supreme, Rendez luy les respects qu'on rendoit à moy-mesme. | *NINUS.* Toutefois, puis qu'enfin un objet si parfait, *Borne là ses desirs, approuvons en l'effet ; Et luy cedans les droicts de ma toute-puissance, Rendons luy le premier entiere obeïssance : Que chacun se dispose à ce juste devoir ; Rendez comme vassaux, hommage à son pouvoir ; Prestez luy le serment, & reverez en Reyne, Celle qui desormais est vostre Souveraine.*
+
+
+
+Ces deux pièces contiennent donc des scènes communes mais le motif de la vengeance de Sémiramis diffère. En effet, chez Desfontaines elle veut tuer Ninus car il a tué son père lors de la prise d'Ascalon tandis que dans la pièce de Gilbert, elle souhaite le punir pour avoir tué Ménon. L'intrigue des deux pièces repose donc sur un désir de vengeance mais chez Gilbert, il est traité comme une finalité, la pièce finissant avec la mort de Ninus et la consécration de Sémiramis en tant que souveraine. Tandis que chez Desfontaines, cette vengeance marque le tournant de la pièce qui finit avec une Sémiramis déchue qui abandonne le pouvoir à Melistrate et Oronclide.
+*Sémiramis*, Gilbert | *La Véritable Sémiramis*, Desfontaines
+**Acte I**- Récit de la victoire de Ménon et Sémiramis ; aveux de Sosarme et de Ninus qui aiment respectivement Ménon et Sémiramis. **Acte II**- Ninus fait le projet d'épouser Sémiramis en menaçant Ménon de tuer sa femme s'il ne renonce pas à elle. **Acte III**- Ménon cède au chantage de Ninus, Sémiramis est furieuse de cette décision. **Acte IV**– Ménon se suicide après avoir épousé Sosarme. Sémiramis décide donc de se venger. **Acte V**- Sacre de Sémiramis, meurtres de Ninus et de Sosarme. | **Acte I**– Aveu de l'amour de Sémiramis pour Melistrate. Elle souhaite la mort de Ninus. **Acte II**– Sémiramis essaye sans succès de convaincre Prazimène de rejeter l'amour de Melistrate. **Acte III**- Sacre de Sémiramis et meurtre de Ninus. **Acte IV**- Melistrate refuse la couronne que lui offre Sémiramis, Oronclide devient alors son allié. **Acte V**– Double scène de reconnaissance d'Oronclide et de Melistrate. Sémiramis comprend que son désir est incestueux et elle souhaite se suicider.
+
+
+
+Ce tableau montre bien que si une partie de l'intrigue est commune aux deux pièces, les auteurs en font toutefois un traitement différent.
+
+
+### Deux visions contraires de Sémiramis et de Ninus
+
+Au niveau du traitement des personnages, la différence la plus flagrante entre les deux pièces rivales est celle de Sémiramis. Ainsi, chez Gilbert elle est une héroïne qui venge l'honneur de son mari en tuant celui qui a provoqué son suicide tandis que chez Desfontaines c'est une reine qui abuse du pouvoir pour forcer un homme à l'épouser alors qu'il en aime une autre. Elle agit donc de façon tyrannique et elle n'hésite pas à tuer un innocent, Ninus, pour arriver à ses fins. La pièce se clôture avec sa déchéance lorsqu'elle découvre que Melistrate est en fait son fils. Le personnage de Ninus est traité de façon inverse, en effet, chez Gilbert, il est celui qui agit de façon tyrannique pour conquérir une femme qui en aime un autre. Tandis que chez Desfontaines, il est une victime innocente sacrifiée à la passion destructrice de son épouse. Ce renversement dans le traitement des personnages est très intéressant, en effet le Ninus de Gilbert agit comme un miroir de la Sémiramis de Desfontaines en tant que souverain tyrannique [76]. Leurs réactions face au refus de l'être aimé, Melistrate ou Sémiramis, de l'aimer en retour sont ainsi similaires :
+*Sémiramis*, Gilbert (II,2) | *La Véritable Sémiramis*, Desfontaines (IV,5)
+NINUS (à Sémiramis). A mon ardent desir vous ostez l'esperance, Et traitez un Monarque avec indifference, Je ne puis endurer ce cruel traitement, Je voy que je suis Roy quand je me sens Amant, Que l'Univers me sert quand je me nomme Esclave, Un Monarque vainqueur s'offence qu'on le brave, Apres tant de combats dont la Terre est le prix, Je ne sçaurois souffrir la honte d'un mespris. | SEMIRAMIS. uoy, loin de m'adorer, l'insolent me dédaigne ! Ah perfide ! C'est trop, tu sçauras que je regne ; Faisons donc reconnoistre à cette ame arrogante, Que Melistrate est foible, & moy toute puissante ; Que tout me doit ceder, que mes vœux sont des Loix, Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.
+
+
+
+Nous constatons que ces deux personnages mettent en avant leur pouvoir de souverain afin d'obtenir ce qu'ils désirent, sur le plan personnel. Ils deviennent ainsi des tyrans, méprisant le bien de l'Etat pour satisfaire leurs propres désirs. Le traitement du personnage de Sémiramis est donc bien opposé et ces deux pièces peuvent donc être considérées comme complémentaires car elles offrent deux visions antithétiques de cette reine de légende.
+
+
+### Des dénouements différents
+
+Nous avons déjà conclu que le traitement opposé du personnage de Sémiramis menait à des dénouements totalement différents. Ainsi, nous pouvons analyser en détail la dernière vision que Gilbert et Desfontaines nous laissent de Sémiramis. La dernière scène de la *Sémiramis* nous montre ainsi une reine triomphante, qui a fait tuer ses deux ennemis, Ninus et Sosarme et qui s'apprête donc à gouverner seule. Tandis que *La Véritable Sémiramis* se conclut par la déchéance de Sémiramis, seule responsable de ses malheurs, qui a fait tuer un innocent pour assouvir sa passion qui se révèle incestueuse. Elle souhaite donc mourir.
+*Sémiramis*, Gilbert (V,4) | *La Véritable Sémiramis*, Desfontaines (V,3)
+SEMIRAMIS. Ménon mort m'est encor plus cher que cet honneur, Mais montrons un courage au dessus du malheur, Montrons à mes sujets la grandeur de son ame, Qu'un trône est dignement remply par une femme, Qu'en la mort de Ninus, l'Univers a gagné, Et que Semiramis mieux qu'un homme a regné. | SEMIRAMIS. C'est pourquoy je ne veux dans ma fureur extréme, Demander du secours desormais qu'à moy-mesme ; Je ne veux à ce coup employer que mon bras, Trop humains ennemis, je vous rends vos Estats ;… Brillante illusion, precieuse fumée, Dont ce matin encor mon ame estoit charmée, Je vous quitte, grandeurs, presens empoisonnez, Qui détruisez toûjours ceux que vous couronnez.
+
+
+
+Ces dénouements sont emblématiques du traitement opposé de l'histoire de Sémiramis dans ces deux pièces. L'image finale de la souveraine est soit celle d'une reine triomphante chez Gilbert, soit celle d'une femme déchue chez Desfontaines. Cette opposition montre bien l'ambivalence du personnage de Sémiramis dont nous ne connaissons finalement que peu la vraie histoire et qui devient ici un personnage de légende qui connaît différents sorts.
+
+
+# Étude des personnages
+
+
+## Le système des personnages
+
+
+### Ninus et Melistrate : des rôles complémentaires
+
+Les rôles de Ninus et de Melistrate sont traités de façon complémentaire [77] par Desfontaines, ainsi le roi apparaît deux fois dans la pièce (I,3 et III,1) tandis que le jeune chevalier ne fait son entrée qu'au début du quatrième acte [78]. Ils ne se croisent donc jamais sur scène et ce pour de bonnes raisons car Ninus est assassiné par Merzabane à la fin du troisième acte et Melistrate rentre d'une bataille au début de l'acte IV. Ces deux rôles sont ainsi complémentaires car ces deux personnages sont liés par des intrigues amoureuses à Sémiramis. Ninus est son époux et Melistrate celui qu'elle souhaite épouser. Ils représentent donc les deux parties de l'intrigue : la vengeance de la reine puis sa punition avec la révélation de la véritable identité de Melistrate.
+
+Tout d'abord, Ninus est présenté de façon ambiguë. Ainsi, il est décrit par Sémiramis comme un souverain tyrannique lorsqu'elle évoque le meurtre de son père et le fait qu'il l'ait forcée à l'épouser :
+
+Aussi bien est-il temps que ma vengeance éclate,  
+Contre un Roy que j'haïs, encor que je le flatte,  
+Contre un Roy, mais Tyran ; contre un usurpateur,  
+Qui de tous mes ennuis est le fatal autheur (I,2 v.233-236).  
+
+Cette réplique nous montre bien que Sémiramis décrit de façon extrêmement négative son époux. Mais il est difficile de savoir quelle valeur donner à ces propos. En effet, Sémiramis est le seul personnage qui compare Ninus à un tyran, les autres personnages en font un portrait inverse. Merzabane l'appelle ainsi « le grand Ninus » (v.1687) et Melistrate, en apprenant sa mort, le nomme le « plus grand Roy qu'ait connu l'Univers » (v.1218). Le discours de Sémiramis est donc remis en cause par sa singularité. Nous pouvons peut-être y voir une exagération du passé de Ninus, car dans le roman *La Prazimène*, Ninus est bien vainqueur d'Ascalon mais il épargne le père de Sémiramis et elle finit par accepter de l'épouser. Ce changement de perspective lui permet ainsi de motiver son meurtre et de le rendre légitime. Le rôle de Ninus dans la pièce de Desfontaines est très limité, il n'apparaît que deux fois et toujours au sujet de sa passation de pouvoir à Sémiramis. Ainsi, à la troisième scène du premier acte, il montre son amour à Sémiramis en proposant même de mourir pour la contenter : « Et mesme si ma mort rend vos jours plus heureux, / J'en recevray le coup d'un visage amoureux. » (v.303-304). Ce roi n'agit pas alors comme un tyran et il ne force pas Sémiramis à lui obéir, il veut connaître la cause de sa mélancolie car il s'inquiète vraiment pour elle. Il accepte ainsi aisément de lui céder le trône, ce qui n'est pas non plus un acte habituel pour un tyran. Dans ses paroles et dans ses actes, Ninus nous est donc présenté avant tout comme un roi amoureux, prêt à tout pour le bonheur de celle qu'il aime.
+
+Le roi est assassiné par Merzabane à la fin de l'acte III et Melistrate entre sur le théâtre à la scène suivante, de retour d'une bataille. La complémentarité de ces deux rôles est donc flagrante, le chevalier est ainsi la seconde victime de Sémiramis qui échappera à la mort grâce à la révélation finale. Melistrate incarne ainsi le parfait héros de tragédie comme le montre la définition de Jacques Scherer :
+
+
+Le héros classique est jeune ; il est beau, cela va sans dire ; … le héros de théâtre doit briller par son courage et par sa noblesse. La valeur militaire est aussi nécessaire au héros classique qu'à son ancêtre, le preux du Moyen-Age. … Le charme des héros pour un spectateur du XVII*e* siècle, est fait d'un dernier élément : ces héros sont malheureux [79].
+
+La jeunesse de Melistrate est attestée notamment par le propos de Sémiramis qui le nomme « jeune Heros » (v.470) et qui met souvent en avant son jeune âge. Il est également un soldat courageux, de nombreux adjectifs mettent ainsi en avant sa valeur guerrière. Son « courage » est loué à de nombreuses reprises notamment par Sémiramis et Prazimène. Sa valeur militaire est aussi décrite, il est présenté comme un « vainqueur » dès le troisième vers de la pièce. Il est également souvent comparé à Mars, le dieu de la guerre : « Et l'ayant pris pour Mars sous l'armet » (v.159). Le courage de Melistrate est donc attesté, il s'agit même de sa principale qualité. Il est également malheureux, en effet, Sémiramis l'empêche d'épouser Prazimène. Enfin, la pièce nous propose un retournement de situation intéressant au sujet de la noblesse de Melistrate. En effet, dans la scène d'ouverture, Merzabane nous le présente comme un « simple soldat » (v.40) qui ne peut pas prétendre à épouser Prazimène. Sémiramis utilise d'ailleurs cet argument pour convaincre la princesse que Melistrate n'est pas digne d'elle. Le roman *La Prazimène* présente également Melistrate comme un « chevalier inconnu » dont personne ne connaît l'origine ou l'identité. Néanmoins, la scène de révélation finale nous apprend que Melistrate est le fils de Ninus et de Sémiramis et qu'il est donc de naissance royale. Il remplit donc toutes les caractéristiques d'un héros de tragédie.
+
+
+### Sémiramis et Melistrate : l'attente d'une confrontation
+
+Nous ne reviendrons pas sur l'analyse du rôle de Sémiramis que nous avons déjà étudié lors de la comparaison avec le roman de Le Maire *La Prazimène* et de la confrontation avec le personnage de Ninus, le souverain tyrannique de la* Sémiramis* de Gilbert. Nous nous intéresserons ici à la relation scénique de Sémiramis et de Melistrate, les deux principaux personnages de cette pièce qui ne se croisent finalement sur le théâtre que dans la dernière scène. Certes, Sémiramis a vu Melistrate avant le début de la pièce car elle est tombée sous son charme mais à partir du moment où la représentation commence, leurs rapports ne sont basés que sur des propos rapportés par d'autres personnages. Ainsi, dans la scène d'ouverture, Merzabane apprend à Sémiramis que Melistrate aime Prazimène, ce qu'elle ignore comme le montre le premier vers de la pièce : « Melistrate amoureux ? ah! je ne le puis croire ». Cette incrédulité de Sémiramis va se changer en désir de vengeance lorsqu'elle apprend qu'il en aime une autre qu'elle. En effet, elle expliquait son dédain par l'orgueil de Melistrate et son incapacité à aimer, mais lorsqu'elle comprend que ce refus est en fait lié à sa personne, puisqu'il en aime une autre, elle entreprend de le faire changer d'avis. Les prises de paroles de Sémiramis illustrent ce changement puisque lorsqu'elle apprend qu'il aime, elle pense qu'il est amoureux d'elle : « M'aimeroit-il ? ô Dieux ! » (v.41) et elle se montre incrédule devant les affirmations de Merzabane : « Parle donc ? car ce bruit peut estre une imposture » (v.73). Lorsqu'elle comprend la vérité, Sémiramis décide alors de tout faire pour séduire Melistrate. Etant donné que ce dernier n'est pas au palais, elle s'attaque donc à son amante, Prazimène (II,1). Elle lui montre la lettre volée pour la persuader que Melistrate l'a trahie et elle lui suggère même d'épouser Oronclide pour le punir mais son plan est déjoué par l'arrivée de Palmedon qui révèle la vérité à la princesse. Melistrate étant absent, elle tente d'influer sur sa décision par des biais détournés. Les paroles du héros lui sont parfois directement rapportées comme à la cinquième scène de l'acte IV, où Oronclide lui rapporte son refus de l'épouser. La reine le condamne alors à mourir pour son ingratitude (v.1435) mais la révélation finale sauvera le héros. Tout au long de la pièce, Sémiramis est donc tributaire des autres personnages dans son entreprise de séduction de Melistrate et le revirement d'Oronclide qui devient ainsi allié du chevalier, met à mal ses desseins.
+
+L'entrée en scène de Melistrate, à la première scène de l'acte IV, donne l'occasion au chevalier d'exprimer la haine qu'il éprouve pour Sémiramis. Il l'appelle ainsi par toute sorte de noms négatifs comme « cette perfide » (v.1160), « l'ingratte » (v.1165) et « horrible furie » (v.1259). Mais une nouvelle fois, il s'adresse ici à un autre personnage, Oronclide, et non à l'intéressée. La rencontre n'aura finalement lieu qu'à la dernière scène de la pièce, ce qui crée donc une certaine tension dramatique. De plus, ils ne se rencontrent que lorsque l'action est dénouée, il n'est plus question pour Sémiramis d'essayer de contraindre Melistrate à l'aimer. La confrontation est donc décevante puisque la reine demande désormais à Melistrate de lui donner la mort et non de l'aimer. Toutes ces discussions interposées ne mènent donc finalement qu'à deux échanges de répliques.
+
+
+### Merzabane et Palmedon : les confidents
+
+L'analyse des rôles de Sémiramis et de Melistrate doit être complétée par celle de leur confident respectif, Merzabane et Palmedon. Ainsi, ces deux personnages ont pour principal point commun de faire des récits sur ce que leur maître ignore. Merzabane apprend à Sémiramis l'amour de Melistrate pour Prazimène, il lui apprend aussi comment s'est déroulé la bataille de Legerde (I,1) et le meurtre de Ninus (IV,4). Tandis que Palmedon apprend à Melistrate la blessure qu'a infligé Oronclide à Merzabane (V,1), il défend également le chevalier en apprenant la vérité de ses sentiments à Prazimène (II,5). Palmedon a un rôle assez limité étant donné qu'il n'apparaît que dans quatre scènes [80] tandis que Merzabane a lui un rôle assez important. En effet, il est le véritable « bouc émissaire [81] » de la pièce, il motive ainsi sans le savoir le désir incestueux de Sémiramis en lui révélant dans la première scène l'amour de Melistrate pour Prazimène. Il souhaite à ce moment-là que Sémiramis force Prazimène à épouser celui qui est son prétendu fils, Oronclide, et il n'a aucune idée de la vraie nature des sentiments de Sémiramis. En effet, il sait que Melistrate est son fils, puisqu'il est responsable de la substitution d'enfant. En volant la lettre d'amour à Melistrate et en la présentant à Sémiramis, il donne donc l'impulsion à la reine qui s'était résignée d'être un jour aimée en retour par ce chevalier. Il est celui qui assassine Ninus, sur ordre de la reine, non sans avoir tenté d'avertir le roi en demandant de ne pas subir le règne de Sémiramis mais Ninus l'oblige à rester, signant ainsi sa mort. Dans un aparté, Merzabane rejette ainsi la responsabilité de ce meurtre :
+
+Si tu viens à perir par mon obeïssance,  
+Souvien-toy pour le moins que cet evenement,  
+Ne sera que l'effet de ton commandement (III, 1 v.932-935).  
+
+Il se fait ensuite l'avocat de Sémiramis auprès des princes en leur expliquant qu'ils doivent être favorable à la mort de Ninus et il parvient à les convaincre (III,3). Merzabane cesse toutefois d'être loyal envers Sémiramis lorsqu'elle lui demande de tuer Oronclide (IV,5). En voulant le faire s'évader, Oronclide le blesse ce qui déclenche la double révélation du confident. Ainsi, ce rôle de « bouc émissaire » prend véritablement tout son sens à l'avant-dernière scène où Merzabane avoue à la reine une double substitution d'enfants, celle d'Oronclide et de Melistrate. Le confident sort donc pour mourir et il laisse sa complice seule face à l'atrocité de ses crimes. Cette révélation finale invite à reconsidérer quelque peu la vision que nous avons de Sémiramis, en effet, Merzabane est sans doute plus coupable qu'elle car il l'aide à accomplir son dessein tout en sachant que ce qu'elle désire lui est interdit, car Melistrate est son fils. Contrairement à Palmedon qui œuvre toujours suivant les intérêts de Melistrate, Merzabane est un confident fourbe qui tente de garder les faveurs de sa reine tout en sachant qu'il est le responsable initial des crimes qu'elle commet.
+
+
+### Prazimène et Oronclide : les personnages secondaires
+
+Prazimène et Oronclide ont des rôles secondaires dans l'intrigue de la pièce, ils ont pour unique fonction d'être les alliés de Melistrate. Ainsi, Prazimène n'intervient que pour affirmer son amour pour Melistrate. À l'acte II, Sémiramis tente bien de la convaincre que son amant l'a trahi mais elle décide de ne pas la croire, grâce à l'intervention de Palmedon : « Tu me rends, Palmedon, & la vie & l'amour. » (II,5 v.786). Elle revient sur le théâtre pour défendre une nouvelle fois Melistrate en tentant de tuer Oronclide mais cela se solde par un échec étant donné qu'elle se trompe et blesse son amant (IV,3). Ce quiproquo provoquera le revirement d'Oronclide, qui d'ennemi deviendra l'allié du couple. Enfin, elle est présente lors du dénouement où elle ne prononce que quatre répliques, extrêmement courtes : « Bons Dieux ! » (v.1685), «Sans toy, ses actions le faisoient assez voir » (v.1686), « O Ciel ! qui croira ce miracle ? » (v.1756) et « Seigneurs… » (v.1839). Ces répliques ne font en rien avancer l'action et plus généralement, le rôle de Prazimène se limite bien à celui de jeune première. Le rôle d'Oronclide est lui aussi secondaire, ainsi, il est allié de Sémiramis lorsqu'il tente de convaincre Melistrate de l'aimer (IV,1) puis après la tentative d'assassinat ratée de Prazimène, il devient l'allié de ce couple et il renonce donc à épouser la princesse. Nous reviendrons plus particulièrement sur la relation de Melistrate et d'Oronclide dans la dernière partie de cette introduction.
+
+
+## *Elocutio* : les types de discours
+
+
+### Répartition de la parole
+
+Les prises de parole sont très inégales dans la pièce [82]. Sémiramis est ainsi le personnage qui s'exprime le plus, sur les 1842 [83] vers que compte la pièce, 563 sont prononcés par la souveraine. Elle s'exprime majoritairement dans le premier et le deuxième acte, ce qui correspond au moment où elle met en place sa machination visant Ninus et Melistrate. Le troisième acte est majoritairement pris en charge par Ninus qui fait un long discours lors du sacre de Sémiramis. Ce personnage ne prononce d'ailleurs que 172 vers dans toute la pièce et il ne parle qu'à deux reprises, ce qui prouve qu'il est traité comme un personnage secondaire. Merzabane est le deuxième personnage qui prend le plus parole, il prononce 353 vers. Il parle principalement pendant le premier acte. Cette prise de parole s'explique par le fait que Merzabane fonctionne en duo avec Sémiramis, il est son confident et il est donc souvent là pour dialoguer avec la reine. Prazimène et Melistrate prononcent chacun à peu près 200 vers mais pas au même moment. Ainsi, Prazimène prend surtout la parole au deuxième acte, lorsqu'elle se retrouve confrontée à Sémiramis tandis que Melistrate parle davantage lors de son entrée à l'acte IV. Oronclide s'illustre également dans des prises de paroles importantes au quatrième acte, il prononcera 178 vers dans la pièce. Palmedon, quant à lui, prend la parole principalement au dernier acte, pour conseiller Melistrate. Il prononce 166 vers. Enfin, Zénophire et Cambises, présents seulement aux trois premières scènes de l'acte III, prononcent respectivement sept et deux vers. Leur rôle est donc purement « décoratif », ils ne sont présents que lors de la scène du sacre de Sémiramis. La répartition de la parole dans la pièce est donc très inégale.
+
+
+### Type de discours
+
+
+#### Les monologues
+
+*La Véritable Sémiramis* contient cinq monologues dont trois sont réellement développés. Le premier est celui de Sémiramis où elle exprime sa volonté de tuer Ninus pour épouser Melistrate (I,2). Elle est décidée et ne doute pas de la décision à prendre, ce monologue a pour fonction d'informer les spectateurs du désir de vengeance de Sémiramis et des reproches qu'elle fait à Ninus, il suit ainsi la scène d'exposition. Il s'apparente à un réquisitoire contre le roi car tout est fait pour que sa mort soit justifiée et n'apparaisse pas comme un caprice de la reine pour en épouser un autre. Sémiramis utilise ainsi de nombreuses anaphores :
+
+**Contre un Roy** que j'haïs, encor que je le flatte,  
+**Contre un Roy**, mais Tyran ; contre un usurpateur,  
+**Qui** de tous mes ennuis est le fatal autheur ;  
+**Qui** fit de mes Estats le tombeau de mon pere,  
+**Qui** nagea dans le sang d'une teste si chere (I,2 v.235-238)  
+
+Cette anaphore renforce l'accusation faite contre Ninus, qui apparaît comme coupable de tous les maux de Sémiramis. Elle utilise également une apostrophe « ô Tyran » (v.245) et des verbes à l'impératif comme « apprends » (v.245) et « Meurs » (v.255) pour créer l'illusion d'une adresse directe à l'accusé. Elle construit également son monologue sur des lieux contraires [84], elle oppose ainsi « la vertu » et « le crime » et cette opposition est mise en valeur par un chiasme « Et que la vertu regne, où triomphoit le crime » (v.245). Cette figure de style participe à la justification de la condamnation de Ninus. Enfin, Sémiramis utilise un autre lieu tiré des contraires, celui du temps et de la gloire. Elle explique ainsi que Ninus doit mourir maintenant car ainsi il conservera sa gloire actuelle et ne risquera pas de l'entacher (v.267-268). Ce monologue nous apprend donc le désir de vengeance de Sémiramis qui use de tous les stratagèmes pour justifier la condamnation de Ninus.
+
+L'unique monologue de Prazimène est également intéressant car il s'agit d'un monologue délibératif qui nous expose les doutes de la princesse qui ne sait comment réagir face à l'annonce de la trahison de Melistrate (II,4). Il est ainsi composé en partie d'octosyllabes ce qui est extrêmement rare dans cette pièce composée presque exclusivement d'alexandrins, l'autre occurrence étant la lettre de Prazimène (I,1). De plus, ce monologue est également constitué de rimes embrassées, alors que la pièce est écrite avec des rimes suivies. Il contient ainsi des stances [85] composées de trois dizains mêlant des octosyllabes et des alexandrins puis d'une deuxième partie composée exclusivement d'alexandrins. Ce monologue est donc un moment à part dans la pièce. Les stances commencent par une apostrophe au dieu Amour que Prazimène rend responsable de ses maux en utilisant notamment des parallélismes comme « Tyran des cœurs, Bourreau des Ames » (v.633). Elle montre ensuite la complexité de sa situation avec un oxymore « agreable & charmante blessure » (v.639) qui montre les liens entre amour et souffrance. Après avoir exprimé sa douleur, elle décide de se tuer puis finalement se ravise et souhaite mépriser Melistrate pour le punir. La deuxième partie de ce monologue délibératif exprime les doutes de Prazimène, après avoir décidé de punir son amant, elle ne sait plus si elle doit croire ou non en sa culpabilité. Ainsi, elle fait part aux spectateurs de son incapacité à savoir ce qu'elle doit penser, elle utilise donc de nombreuses figures d'opposition pour symboliser ses doutes comme le parallélisme : « Je ne le puis haïr, je ne le puis aimer » (v.678) ou l'opposition entre deux temporalités : « Tantost je le condamne, apres je lui pardonne » (v.680). Ce monologue est bien délibératif car Prazimène ne sait que penser : « Mon esprit incertain ne sçait où s'arreter » (v.682). L'arrivée de Palmedon interrompt ainsi ses réflexions et grâce aux révélations du confident, elle tranchera en faveur de l'innocence de Melistrate.
+
+Enfin, le personnage d'Oronclide a aussi un monologue, plus bref que les deux précédents mais qui exprime également ses doutes (IV,2). Il s'agit ainsi d'un monologue délibératif, car après avoir essayé de convaincre Melistrate d'aimer Sémiramis, Oronclide éprouve des remords car il sait que Melistrate est innocent et vertueux. Il commence ainsi par une gradation « O Fureurs ! ô désirs ! ô pouvoir d'une Reyne ! » (v.1271) qui montre l'obstacle qu'il rencontre. Ce monologue est bien délibératif car Oronclide s'adresse à lui-même « ah lâche ! quoy, veux-tu / Te détruire toy-mesme, & trahir ta vertu ? » (v.1273-1274). Il y a donc deux personnages en jeu : le lâche Oronclide qui suit les ordres de Sémiramis et le courageux Oronclide qui se révolte contre cette emprise. Ce monologue sert ainsi au prince à montrer que le choix de devenir l'allié de Melistrate est le meilleur qu'il puisse faire car il en sortira toujours un état positif : « Fay moy vivre equitable, ou mourir innocent. » (v.1278). Ici il ne s'agit pas d'un dilemme car, dans les deux cas, son honneur est préservé.
+
+
+#### Les récits
+
+Les récits ont principalement deux fonctions dans les pièces de théâtre, soit celle de raconter des actions antérieures, soit d'évoquer des faits qui se sont passés derrière le théâtre car ils ne pouvaient pas se dérouler sur scène pour ne pas nuire à l'unité de lieu ou à la bienséance [86]. *La Véritable Sémiramis* contient ainsi plusieurs récits d'actions passées qu'un personnage apprend à un autre qui l'ignore. Ces récits sont en effet souvent demandés par un personnage comme par Sémiramis à Merzabane : « Parle donc, Merzabane, & m'apprends cette histoire ? » (v.133) ou « Mais dites-moy comment & quel fut vostre abord ? / Et de quel front enfin il a receu la mort. » (v.1303-1394). Certains récits d'actions antérieures sont donc nécessaires à l'avancée de l'action comme celui de la bataille de Legerde par Merzabane à l'acte I, scène 1 ou le récit final de Merzabane, qui avoue avoir effectué des substitutions d'enfants (V,2). Nous avons étudié précédemment que les récits peuvent aussi être motivés par une volonté de respecter l'exigence de bienséance. Ainsi, l'assassinat de Ninus par Merzabane et la blessure de ce dernier par Oronclide font l'objet de récits postérieurs car ils ne peuvent prendre place sur le théâtre.
+
+
+#### Le dialogue amoureux
+
+Il est intéressant de constater que cette tragédie ne comporte presque aucun dialogue amoureux. En effet, Ninus parle bien amoureusement à Sémiramis (I,3) mais cette dernière ne lui répond qu'en feignant de l'aimer, cela ne peut donc être considéré comme une déclaration d'amour véritable. Les jeunes premiers Melistrate et Prazimène ne se trouvent ainsi qu'une seule fois ensemble sur le théâtre, exception faite du dénouement. À la troisième scène de l'acte IV, lorsque la princesse blesse Melistrate par erreur. Les deux amants ont alors un court dialogue, où figurent tous les* topoï* du dialogue amoureux. Par exemple, celui des yeux qui peuvent être meurtriers : « Pour me percer le cœur, il suffit de vos yeux » (v.1307). Mais cette déclaration d'amour mutuel, la première que ces personnages s'adressent, est liée à l'omniprésence de la mort. Ainsi, Prazimène jure à Melistrate qu'elle serait morte aussi si elle l'avait tué : « Et que dans le tombeau je vous aurois suivy, / Si le jour, par ma main, vous eut esté ravy » (v.1318-1319) et « Vous mourrez, dites-vous, & par la main d'un autre ? / Elle confondra donc mon sang avec le vostre » (v.1344-1345). Ce dialogue est également l'occasion pour les amants d'évoquer Sémiramis qui est le principal obstacle à leur amour. Finalement, ce dialogue a avant tout pour fonction d'informer Prazimène que Sémiramis veut aussi la mort de Melistrate et cette scène provoque également le revirement d'Oronclide, qui choisira de s'allier aux deux amants.
+
+
+# Étude thématique
+
+
+## Une tragédie de la vengeance 
+
+
+### La mise en scène des passions
+
+Les personnages de *La Véritable Sémiramis* sont animés par de nombreuses passions comme l'amour, la haine, l'orgueil, la colère, la pitié ou encore l'ambition [87]. La reine est ainsi aveuglée par son désir amoureux pour Melistrate. L'image d'un « désir aveugle» est utilisée à de nombreuses reprises dans le texte, comme au vers 424. Elle fait référence au mythe de Cupidon, le dieu de l'Amour, souvent représenté comme un enfant aveugle. Plus généralement, les passions aveuglent les personnages qui ne se considèrent alors plus comme responsables de leurs propres actions qu'ils imputent à une force supérieure. Par exemple, Oronclide explique qu'il a d'abord choisi le parti de Sémiramis car il s'est laissé séduire par l'ambition : « L'ambition d'abord avec son poison, / Avoit trompé mes sens, & seduit ma raison » (v.1361-1362). Sémiramis exprime également ce sentiment d'être entraînée par des forces supérieures dans sa longue tirade à la scène 5 de l'acte IV. Lorsqu'un personnage est en proie à ses passions, son discours doit montrer le désordre verbal que crée la passion tout en étant compréhensible. Ainsi, pour montrer cette confusion, l'auteur utilise des figures comme « l'apostrophe, l'interrogation et l'exclamation, et plus exactement l'accumulation d'interrogations, entrelacées avec des exclamations et des apostrophes [88] ». Cette tirade de Sémiramis mêle bien ces différentes figures car elle invoque ses passions en mêlant les interrogations et les exclamations :
+
+Ah, que dis-je ? ô vengeance ! ô courroux !  
+Haine, mépris, amour, où me reduisez-vous ?  
+Où me reduisez-vous, imperieuse flâme ? (v.1437-1439).  
+
+Elle semble être esclave de ses passions et ne plus savoir comment elle doit agir. Elle décide ainsi de tuer Melistrate pour le punir de son mépris tout en continuant à l'aimer : « Si Melistrate meurt, que deviendra mon ame ? » (v.1440). *La Véritable Sémiramis* nous montre donc bien une reine soumise à ses passions et lors du dénouement Sémiramis comprend ainsi son aveuglement : « Brillante illusion, precieuse fumée, / Dont ce matin encor mon ame estoit charmée » (v.1827-1828). Son désir amoureux pour Melistrate ne peut se réaliser et les révélations de Merzabane provoquent donc la chute de la reine.
+
+
+### Le désir de vengeance
+
+La passion vindicative de Sémiramis est une des composantes majeures de la pièce et cette volonté de vengeance s'inscrit dans la tradition de la loi du talion. En effet, la reine ne veut pas que sa vengeance excède le crime commis, Ninus a tué son père, elle souhaite donc qu'il périsse aussi : « … je vay par ta mort remonter à mon rang, / Donner teste pour teste, & le sang pour le sang. » (v.247-248). Le désir de vengeance de Sémiramis semble donc être mesuré et répondre à une logique d'équilibre. Elle la présente ainsi comme un projet juste : « Une si raisonnable & si noble vengeance. » (v.1000). Néanmoins, Sémiramis est la seule à évoquer ce meurtre qu'aurait commis Ninus et nous avons vu précédemment qu'elle agit avant tout pour satisfaire son désir d'épouser Melistrate. La passion amoureuse provoque donc ce désir de vengeance :
+
+Hé bien, cher Melistrate, il te faut satisfaire,  
+T'élever aux grandeurs que ton courage espere ; …  
+Aussi bien est-il temps que ma vengeance éclate.  
+
+La passion vindicative et la passion amoureuse sont donc liées et elles poussent Sémiramis à agir.
+
+La pièce finit par une autre incitation à la vengeance. En effet, Merzabane et même Sémiramis encouragent Oronclide et Melistrate à venger leur père en tuant ses meurtriers : « Vengez la mort d'un Pere, & reprennez son rang » (v.1794). Mais, contrairement à la reine et à son confident, les deux frères ne se vengeront pas. Merzabane sort ainsi du théâtre pour mourir à cause de la blessure que lui a infligé Oronclide, mais il ne connaissait pas alors le meurtre que le conseiller avait commis. Tandis que Melistrate refuse de tuer Sémiramis comme elle le lui demande pourtant : « Frappez, vous sçavez bien le chemin de mon cœur » (v.1806). Ce refus de la vengeance immédiate met en avant l'honneur des héros qui n'agissent pas comme de vils meurtriers.
+
+
+## Une réflexion sur l'exercice du pouvoir
+
+
+### Le régicide au théâtre
+
+Entre 1643 et 1651, dix-huit tragédies sont publiées dans lesquelles un souverain est assassiné [89]. La *Sémiramis* de Gilbert et *La Véritable Sémiramis* en font évidemment partie. Ce meurtre ne peut avoir lieu sur le théâtre car la bienséance doit être respectée. Cet assassinat doit aussi être justifié, le plus souvent le souverain doit avoir commis une faute grave sur le plan moral dont la responsabilité se répercute sur le plan politique [90]. Ainsi dans *La Véritable Sémiramis*, la culpabilité de Ninus n'est pas aussi clairement affirmée. En effet, lorsque Sémiramis fait part aux princes du royaume de sa volonté de tuer Ninus, elle dresse le portrait d'un « tyran » (v.989) qui doit donc mourir. Son argument principal repose sur le fait que Ninus est un « usurpateur » (v.983) qui ne mérite pas de régner car il a volé le trône de son père en l'assassinant. Elle veut donc qu'il meure pour venger son père. Nous avons vu précédemment que ces arguments sont fortement discutables car Sémiramis est la seule à comparer Ninus à un tyran. Elle lui reproche également de lui avoir cédé le pouvoir, ce qui est hautement paradoxal car c'est elle qui lui a demandé d'agir ainsi. Mais il est vrai qu'en cédant le pouvoir, Ninus n'agit pas comme un souverain qui doit assumer ses responsabilités et ne pas céder le pouvoir aussi aisément. La reine qualifie ainsi son acte de « tort qu'on vient de faire au sacré rang des Roys » (v.970). Néanmoins, tous les conseillers la craignent et ils approuvent donc son choix. Le roi doit donc mourir pour permettre au royaume d'être en paix comme le dit Merzabane : « Le trépas de Ninus, est le bien de l'Estat » (v.1053) et il le nomme « Victime infortunée, & d'Estat & d'Amour » (v.1078). Il apparaît donc que Ninus ne mérite pas de mourir, ce régicide n'est donc nullement motivé par une faute morale qui aurait transformé le souverain en tyran sur le plan politique. Ici le motif est d'ordre privé car si Sémiramis souhaite se débarrasser de son mari, c'est avant tout pour pouvoir épouser Melistrate et lui offrir le trône. Elle ne peut évidemment pas exposer cette raison aux princes du royaume et c'est pour cela qu'elle met en avant la faute politique qu'a commise Ninus en acceptant de lui céder le pouvoir. Le seul tort de ce roi est donc de s'être laissé aveuglé par ses sentiments amoureux.
+
+Le régicide est souvent effectué par un meurtrier vertueux, le crime est ainsi justifié par une motivation noble. Dans *La Véritable Sémiramis*, Ninus est tué par Merzabane qui est un conseiller perfide que le spectateur n'admire pas. Il n'hésite pas ainsi à servir Sémiramis et à accepter de tuer Ninus, tout en sachant que le roi est innocent. Le fait que le meurtrier soit détestable rend encore plus injuste le meurtre de Ninus. Merzabane reconnaît lui-même sa culpabilité lors de son aveu à la deuxième scène de l'acte V :
+
+Lors que le grand Ninus, ô fatale memoire !  
+Ozay-je prononcer un nom si plein de gloire,  
+Moy qui suis l'execrable & perfide meurtrier  
+Du Heros, qui jamais l'ait porté le premier ? (v.1687-1690)  
+
+Ces vers mettent ainsi en valeur l'opposition entre le meurtrier et la victime. Le nom de Ninus est ainsi associé à l'adjectif « grand » et au substantif « gloire » tandis que Merzabane se qualifie de « perfide » et d'« excecrable ». Il reconnaît donc la lâcheté de son acte. De plus, lorsqu'il fait le récit à Sémiramis de l'assassinat qu'il vient de commettre, il utilise un ton élogieux pour parler de la victime (IV,3). Il utilise ainsi des figures de construction comme des parallélismes : « D'un visage constant, & d'un courage ferme » (v.1396). Ce discours positif est paradoxal car il s'adresse à la reine, qui est la commanditaire de ce meurtre. Pour satisfaire Sémiramis, nous pourrions nous attendre à ce que Merzabane décrive la mort de Ninus comme celle d'un lâche qui méritait de mourir mais il fait le choix inverse. Il crée ainsi un parallèle entre la victime et l'assassin : « Et bien j'obey, dis-je ; & toy cesse de vivre » (v.1413) qui vise directement Sémiramis, unique responsable de la mort de ce roi comme le montre l'utilisation du verbe obéir. La mort de Ninus est donc considérée par tous, à l'exception de Sémiramis, comme un sacrifice.
+
+Enfin, il nous faut tout de même relever que l'assassinat de Ninus n'est pas « techniquement » un régicide. En effet, Ninus meurt alors qu'il a cédé le pouvoir à Sémiramis pour une durée de trois jours, il n'est donc plus souverain et il se considère lui-même comme un sujet : « Et luy cedans les droicts de ma toute-puissance, / Rendons luy le premier entiere obeïssance » (v.879-880). Une nouvelle fois, le verbe obéir est utilisé, qui montre ici que Ninus n'est plus roi et que Sémiramis est donc toute-puissante. De plus, Merzabane dans son récit fait également cette distinction : « S'il vivoit en sujet, qu'il expiroit en Roy. » (v.1398). Ninus ne meurt donc pas en tant que roi comme l'a souligné Sémiramis qui l'a appellé « sujet coupable » (v.996). Mais cette distinction n'est finalement qu'anecdotique car Ninus meurt certes juste après avoir cédé le pouvoir mais il ne fait cet acte que pour une durée de trois jours, il est donc appelé à reprendre ses fonctions de souverain.
+
+
+### L'honneur et la vertu
+
+Le régicide de Ninus ordonné par une reine tyrannique amène à réfléchir à la question de savoir ce qui fait un bon roi. Ainsi, *La Véritable Sémiramis* contient de nombreuses réflexions sur l'honneur. Ces deux mots sont, par ailleurs, très présents dans le texte. On trouve ainsi dix-sept occurrences du substantif « honneur », dix de « valeur » et vingt-trois de « vertu(s) » dans la pièce. Deux discours sur ce sujet sont notamment similaires, celui de Melistrate et de Prazimène. En effet, à la première scène de l'acte II, Sémiramis tente de détruire l'amour de la princesse pour Melistrate et elle lui explique ainsi qu'il n'est pas digne d'elle. Cette dernière réplique en louant la valeur guerrière de Melistrate qui fait de lui son égal : « Puis qu'il fait voir assez par ses nobles exploits, / S'il n'est du sang des Dieux, qu'il est du sang des Roy » (v.455-456). La princesse explique donc que selon elle Melistrate est son égal car possède toutes les qualités pour être le fils d'un roi. Ce qui esquisse déjà le dénouement de la pièce et la révélation finale. Cette réflexion mène Prazimène à se demander ce qui fait un bon roi et elle conclut sur la primauté de la vertu : « Mais il faut advoüer, quelque erreur qu'on ait eu, / Que ce qui fait les Roys, est la seule vertu. » (v.459-460). Melistrate dit la même chose à Oronclide lorsqu'il décline le trône que lui offre Sémiramis : « C'est la vertu qui fait les Maistres de la terre » (IV,1 v.1191). Tous deux critiquent ainsi l'apparat de la fonction royale qui ne suffit pas à donner au souverain sa légitimité : « Et ce faste orgueilleux, où l'on croit tant d'appas, / Cache seulement l'homme, & ne l'honnore pas » (v.1189-1190). *La Véritable Sémiramis* contient donc une réelle réflexion sur la nature d'un bon souverain, la critique de Melistrate est ainsi importante car elle survient après qu'il ait appris les crimes de Sémiramis. Nous pouvons ainsi voir une référence à la souveraine dans les derniers vers de sa tirade, il explique que sans la vertu :
+
+… un Potentat n'est qu'une belle feinte,  
+Qu'une Idole qu'on flatte, à cause quelle est crainte ;  
+Tenant un Sceptre en main, il n'est qu'un corps orné ;  
+Il porte une Couronne, & n'est pas couronné. (v.1195-1199)  
+
+Il semble ainsi parler directement de Sémiramis qui gouverne par la crainte et non par le respect. La paronomase entre « corps orné » et « couronné » est particulièrement frappante. Celui qui gouverne sans vertu, n'est ainsi pas réellement roi. Il a certes accaparé la couronne mais il ne possède aucune qualité morale pour être réellement souverain. Melistrate continue ensuite sa critique en expliquant à Oronclide que celui qui prend le pouvoir sans le mériter court à sa propre perte : « Le Trône qu'établit le crime ou l'injustice, / A ses usurpateurs n'est qu'un grand precipice » (v.1207-1208). Ces vers prennent une dimension quasi prophétique lorsqu'on connaît la fin du court règne de Sémiramis, la référence au « crime » peut ainsi renvoyer au meurtre de Ninus. La rime entre « injustice » et « precipice » souligne de façon claire le lien de cause à effet entre la prise illégitime de pouvoir et la chute qui en résulte. La souveraine évoquera également les illusions que crée l'obtention du pouvoir et dont celui qui l'exerce fait toujours les frais : « Je vous quitte, grandeurs, presens empoisonnez, / Qui détruisez toûjours ceux que vous couronnez » (v.1829-1830). *La Véritable Sémiramis* contient donc bien une réflexion sur le bon exercice du pouvoir, notamment grâce à l'exemple du règne de Sémiramis.
+
+
+## L'amitié fraternelle
+
+
+### Une double reconnaissance
+
+*La Véritable Sémiramis* contient une scène de double reconnaissance, ainsi à la scène 2 de l'acte V, Merzabane avoue qu'il a procédé à deux substitutions d'enfants et qu'Oronclide ainsi que Melistrate sont en fait les fils de Ninus. Merzabane explique ainsi ses deux ruses à Sémiramis. Oronclide est le fils de Ninus et de sa première épouse, « une jeune beauté » (v.1693), qui mourut en donnant la vie à leur premier fils. Alors, profitant de l'absence de Ninus qui était parti combattre, Merzabane a échangé son nouveau né contre l'héritier royal. Mais son fils décède et il élève donc Oronclide comme si c'était son propre enfant. Il enlèvera ensuite Melistrate lors de l'attaque de la ville par Thermodonte et il le fait élever par un complice. Cette situation est assez invraisemblable [91] car il semble peu probable que Merzabane ait pu ainsi enlever deux héritiers royaux. De plus, le fait d'enlever Melistrate pour le faire élever loin de la cour apparaît ne ressemble pas au conseiller, qui n'hésite pas à tuer comme nous l'avons vu lors de l'assassinat de Ninus. Cette double reconnaissance clôt ainsi la pièce et permet de dénouer l'intrigue. Sémiramis ne peut ainsi plus prétendre à un mariage avec Melistrate et ce dernier trouve un frère en Oronclide qui jadis était son rival.
+
+
+### Deux frères qui ignorent leurs liens
+
+Melistrate et Oronclide nouent une relation particulière dans la pièce, ils ignorent jusqu'au dénouement qu'ils sont demi-frères et pourtant ils sont prêts à mourir l'un pour l'autre. Cette amitié est encore plus surprenante qu'elle apparaît comme très soudaine car lors de la première scène de l'acte IV, Oronclide est encore l'allié de Sémiramis et il aime Prazimène tout comme Melistrate. Il deviendra l'allié des deux amants à la fin de la scène 3. Oronclide va ensuite rapporter le refus du chevalier à Sémiramis et il propose à la reine d'être puni à la place du fautif. Dans sa tirade, l'affection qu'il porte à Melistrate dépasse la simple amitié et ressemble davantage à des liens fraternels :
+
+En Oronclide icy vous trouvez Melistrate,  
+Son ame vit en moy, mon ame vit en luy,  
+Mesme cœur, mesme esprit nous anime aujourd'huy (v.1460-1462).  
+
+Les nombreux parallélismes montrent bien que pour Oronclide, leur affection est telle qu'ils sont quasiment une seule personne. Cette volonté de montrer leur unité renvoie clairement à leurs liens fraternels pour le moment caché. Oronclide fait ainsi référence à ce qu'il ignore encore : « De qui que le sang coule, on le peut dire nostre » (v.1463). Cette amitié aussi indéfectible que soudaine entre ces deux jeunes hommes prépare donc bien le dénouement. Melistrate éprouve la même affection pour Oronclide. Ainsi, lorsqu'à la première scène de l'acte V, Palmedon lui demande de se cacher pour sauver sa vie, Melistrate veut absolument sauver Oronclide ou du moins, mourir avec lui :
+
+Qu'Oronclide soit libre, ou qu'il vive ou qu'il meure,  
+Je veux aller montrer à la Reyne aujourd'huy,  
+Que je veux vivre enfin, ou mourir avec luy. (v.1648-1650).  
+
+La valeur de Melistrate s'exprime à nouveau dans ses vers, il ne peut ainsi laisser Oronclide se sacrifier pour lui. Tout comme son frère, Melistrate annonce également le dénouement en faisant référence à leur futur commun : « Il faut que de tout poinct nos destins soient égaux, / Que nos biens soient communs aussi bien que nos maux » (v.1533-1534). Ces vers peuvent être compris comme une esquisse du dénouement, les deux frères auront ainsi des destins égaux.
+
+Enfin, la pièce se conclut sur une affirmation de l'amitié des deux frères. Les derniers vers sont ainsi fortement saccadés, ils commencent avec Prazimène qui appelle les deux frères « Seigneurs… » (v.1839). Melistrate lui répond : « Nous vous suivons ; Oronclide » et Oronclide termine le vers par : « Ah ! mon Frere ». Ce vers réunit ainsi les trois jeunes personnages pour qui le dénouement de la pièce est heureux. Le découpage du vers permet d'insérer trois appels, tout d'abord celui de Prazimène qui fait référence ainsi à la nouvelle condition de roi des deux frères puis Melistrate qui fait le lien entre celle qu'il aime en utilisant le pronom personnel « vous » et son frère grâce au pronom « nous » ainsi qu'à son nom. Les points de suspension montre ainsi le découpage de la réplique. Oronclide conclut en prononçant pour la première fois le mot « frère » qui symbolise le dénouement de la pièce. Ces trois personnages partent donc ensemble avec de nouvelles relations, ainsi Oronclide et Melistrate sont maintenant frères et ce dernier peut se marier avec Prazimène, puisque leur amour n'est plus mis en danger par Sémiramis.
+
+
+# Note sur la présente édition
+
+*La Véritable Sémiramis* de Desfontaines n'a connu qu'une seule édition, réalisée en 1647 à Paris par Pierre Lamy.
+
+
+## Description du volume
+
+1 vol. in-4° de VIII – 95p.
+
+I Page de titre
+
+II verso blanc
+
+III - VI épître dédicatoire (A HAUT ET PUISSANT SEIGNEUR / MESSIRE / FRANCOIS DE BEAUVILLIER)
+
+VII « Extrait du Privilège du Roi »
+
+VIII « Les Personnages »
+
+Pages 1 à 95 : Le texte de la pièce
+
+
+## Présentation de la page de titre
+
+LA / VERITABLE / SEMIRAMIS. / TRAGEDIE. / Par le Sieur DESFONTAINES. / fleuron du libraire / A PARIS, / Chez PIERRE LAMY, en la Grand Salle / du Palais, au ʃecond Pillier. / filet / M. DC. XXXXVII. / *Auec Priuilege du Roy.*
+
+
+## Liste des exemplaires
+
+Les exemplaires connus de cette édition sont conservés à :
+
+– la Bibliothèque nationale de France : site François Mitterrand sous la cote YF-534 et sur le site de l'Arsenal sous la cote 4-BL- 3489 (3). Sur le site de l'Arsenal, la pièce se trouve dans un recueil factice sous le nom de *Théâtre de Desfontaines*, tome IV avec *L'illustre Comédien ou le Martyre de Saint Genest* (tragédie) et *Bellisante ou la fidélité reconnue* (tragi-comédie).
+
+– la Bibliothèque Sainte-Geneviève sous la cote DELTA 15220 (1) FA (P.6). La pièce se trouve dans un recueil factice sous le nom de *Théâtre de Desfontaines* avec *La vraie Suite du Cid* (tragi-comédie) et *L'illustre Olympie ou le St Alexis* (tragédie)
+
+– la Bibliothèque Mazarine sous la cote 4°10918-24/4. La pièce est contenue dans un recueil factice dont le titre est indéchiffrable, il s'agit du tome XXIV. Elle se trouve avec *Le Sac de Carthage* de M. De La Serre (tragédie en prose), *Amarillis* (pastorale), *Dynamis, Reyne de Carie* de P. Du Ryer (tragi-comédie) et *Esther*, de P. Du Ryer (tragédie).
+
+– la Bibliothèque interuniversitaire de la Sorbonne sous la cote RRA 8=431
+
+– la British Library à Londres sous la cote BLL01000918099
+
+– The University of California à Santa Barbara sous la cote 000980314
+
+– The University of Southern California à Los Angeles sous la cote PQ1794.D39 V47 1647
+
+Nous n'avons pas trouvé de traces de corrections sous presse lors de la consultation des exemplaires conservés à Paris.
+
+
+## Établissement du texte
+
+Dans un souci de compréhension du texte, nous avons appliqué quelques corrections d'usage. Nous avons ainsi rétabli la distinction typographique entre le *i* et le *j*, ainsi qu'entre le *u* et le *v* qui n'existait pas dans le texte original. Nous avons aussi utilisé la graphie moderne de la lettre *s* qui est notée tout au long du texte de la façon suivante *ʃ*. Nous avons fait de même pour la graphie *ss* notée *β*. Nous avons aussi supprimé le tilde qui marquait parfois les voyelles nasalisées en rétablissant le groupe consonantique dans son intégralité (par exemple au vers 458, on trouve « grãdeurs » mis pour grandeurs). Nous avons également rétabli dans leur intégralité les mots comportant une abréviation lors des deux occurrences présentes dans le texte, *vo*9** (v.422) et *pl*9** (v.942), respectivement modifiées en *vous* et *plus*. Nous avons également replacé sur un même vers les mots coupés par souci de place et rétabli l'italique pour les didascalies.
+
+Cependant, nous avons choisi de respecter l'orthographe originale et nous avons par exemple conservé l'esperluette. L'orthographe n'étant pas encore fixée au XVII*e* siècle, certaines occurrences d'un même mot peuvent être écrites de différentes façons. Par exemple, on trouve ainsi alternativement les substantifs « penser » et « pensée ». Nous avons aussi respecté l'accentuation du texte original qui varie selon les occurrences.
+
+Nous avons également conservé la ponctuation originale, spécifique au XVII*e* siècle. On trouve par exemple de nombreux points d'intonation comme au vers 73 : « *Parle donc ? car ce bruit peut estre une imposture* », il s'agit ici d'un ordre et non d'une question, le point d'interrogation est utilisé pour donner plus de force à cette requête. Néanmoins, dans un souci de cohérence, nous avons homogénéisé le nombre de points de suspension à trois, selon l'usage, tout au long du texte.
+
+De plus, nous n'avons pas rétabli de majuscule aux mots suivants un point d'interrogation ou d'exclamation au sein d'une même phrase. Nous avons par contre conservé les majuscules d'intensité qui parsèment le texte et qui ont pour fonction de mettre un mot en valeur comme au vers 253 : « *Faisons de Melistrate un Espoux legitime* ».
+
+Enfin, tout au long du texte nous avons indiqué la pagination originale entre crochets à droite du texte mais nous n'avons pas recopié les réclames qui annoncent en bas de la dernière page d'un cahier, le premier mot de la page précédente.
+
+
+## Liste des corrections
+
+Nous avons effectué des corrections diacritiques notamment pour distinguer la préposition « à » de l'auxiliaire avoir « a » et la conjonction de coordination « ou » de l'adverbe « où » comme par exemple aux vers 601 et 602 « *Songez-y Merzabane, où je vous feray voir* / *Qu'il faut donner le coup, ou bien le recevoir* », nous avons ici rétabli un « ou » conjonctif.
+
+Nous avons corrigé les coquilles dans les mots suivants :
+
+- « Valongne » (p.III, l.2)
+
+- « déclat » (p. IV, l.15)
+
+- « ttes-humble » (p.VI, l.41)
+
+- « DESFONTAINES, » (p. VI, l.42)
+
+- « livré » (p.VII, l.4)
+
+- « Zenopire » (p.VIII, l.7)
+
+- « S'il aime Merzabane, » (v.2)
+
+- « Il treuve l'arrogant » (v.17)
+
+- « biens » (v.53)
+
+- «au fonds » (v.106)
+
+- « plu » (v.163)
+
+- « jeus » (v.351)
+
+- « n'acheve » (v.409)
+
+- « suberpe » (v.479)
+
+-« dêja » (v.561)
+
+- « satis-fait » (v.693)
+
+- « calmes » (v.783)
+
+- « avec » (v.956)
+
+- « songermain » (v.1030)
+
+- « se noye. » (v.1144)
+
+- « dernier » (didascalie, au niveau du vers 1279)
+
+- « avec » (v.1361)
+
+- « différent, » (didascalie, au niveau du v.1519)
+
+- « de » (v.1636)
+
+- « Prasimene » (rubrique de personnage au niveau du v. 1839)
+
+Nous avons supprimé la répétition des vers 1484 et 1485, placés au bas de la page 75 de l'édition originale, en haut de la page suivante. Nous avons aussi relevé l'oubli de la rubrique de personnage « Oronclide » en haut de la page 75 de l'édition originale. Son nom n'est pas mentionné sous le titre courant et nous l'avons donc rétabli entre crochets. Enfin, nous avons également rajouté un point à la fin de la réplique d'Oronclide au vers 1778.
+
+
+# LA VERITABLE SEMIRAMIS. Tragédie.
+
+
+## EPISTRE. [92] A HAUT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE BEAUVILLIER [93] Chevalier Comte de S. Aignan, Baron des Baronnies de la Ferté, le Fau Chemery, la Salle lez Clery Luçay ; Vicomte de Valogne, Seigneur d'Olinuillé lez Aix, d'Anguillon Cery, Montigny, Humbligni, la Grange, Foullay, Draché Beauvais, & autres lieux : Conseiller d'Estat, et Mareschal des Camps & Armées du Roy, &c.
+
+MONSEIGNEUR,
+
+Ne vous estonnez pas de voir aujourd'huy dans vostre Maison la plus belle femme de son siecle, la plus vaillante de son sexe, la plus magnifique de son rang, / / et la plus illustre Princesse que l'Asie ait jamais veuë : Ce n'est pas la première fois qu'elle est descenduë de son Trosne pour rechercher l'entretien des personnes de vostre merite, & de votre naissance ; Mais on peut dire avec beaucoup de raison & de verité qu'elle n'eût jamais d'inclination⁎ si legitime; veu que vous n'avez pas moins de belles qualitez que son Melistrate, & que sans la rendre suspecte d'aucun crime [94], Elle peut autant esperer de vostre vertu. Aussi ne se presente-elle pas aujourd'huy devant vous pour estaller à vos yeux les prodiges de sa vie, ou la force de ses charmes ; Elle sçait bien qu'ayant dans vostre illustre famille tant de matieres d'admiration, et d'estonnement [95] ; Il n'est plus desormais d'éclat qui soit capable de vous surprendre, ou de vous esbloüir : Au contraire toute pleine d'un si noble & si juste sentiment qui luy est commun avec toute la France ; Elle se despoüille de son faste, & renonce à ses grandeurs, afin qu'elle soit plus en estat de se donner à vous, & de vous rendre doresnavant le protecteur de sa gloire. Si elle n'a pas esté toujours équitable en ses actions, elle paroit du moins extremément judicieuse en son choix; car de quelques costez qu'on tourne les yeux dans vostre maison, on n'y voit que des marques celebres, & par tout de celebres & signalez témoignages de fidelité, de prudence, et de valeur. Peut-estre que parlant ainsi de vostre merite, / / j'offence votre modestie ; Mais MONSEIGNEUR, permettez que je combatte une de vos vertus pour faire éclatter toutes les autres, & ne me commandez pas d'escouter cette ennemie de ses propres loüanges dans le dessein que j'ay de publier des choses que toute la France ne sçauroit taire sans ingratitude, ny l'envie mesme desaduoüer sans injustice. Ne croyez pas toutesfois que je vueille comprendre [96] dans une lettre ce qui meriteroit des volumes entiers : De si hautes merveilles ne se peuvent exprimer par des termes ordinaires, aussi veux-je qu'en une si noble matiere l'admiration soit toute mon éloquence, & que l'adveu⁎ de mon impuissance soit le crayon de vostre grandeur. C'est assez que l'on sçache que vos Ancestres ont toujours esté les colonnes de cette Monarchie, & qu'estans vieillis dans les charges les plus considerables de la Couronne, ils ont laissé un heritier qui acheve genereusement⁎ aujourd'huy ce qu'ils ont autrefois si glorieusement commencé. Ces considerations, MONSEIGNEUR, ont obligé cette illustre SEMIRAMIS, à qui j'ay l'honneur de servir de Truchement [97] à venir implorer votre secours contre ses envieux : Quelques rares qualitez qu'elle ait, elle n'est pas sans ennemis ; mais ils seront peu capables de luy nuire, si vous entreprenez sa deffence, & l'envie se treuvera foible, si vous / / luy faictes la faveur de vous declarer de son parti. C'est ce qu'elle espere de vostre generosité, & afin que je puisse avoir quelque part en son bon-heur, vous me permettrez, s'il vous plaist, de me dire toute ma vie, avec autant de zele que de respect.
+
+MONSEIGNEUR,
+
+Votre tres-humble, tres-obeissant, & tres-affectionné serviteur,
+
+DESFONTAINES.
+
+
+## Extraict du Privilege du Roy.
+
+Par grace & Privilege du Roy, donné à Paris le 17. d'Avril 1647. il est permis à Pierre Lamy Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre & distribuer pendant le temps & espace de cinq ans un livre intitulé *la veritable Semiramis Tragedie, composee par le sieur Desfontaines*, avec deffences à tous Libraires & Imprimeurs, & autres personnes de quelque qualité & condition qu'ils soient, d'imprimer ni faire imprimer ledit livre, de n'en vendre ny distribuer autres exemplaires que ceux qui seront imprimez par ledit Lamy, ou de son consentement, à peine de confiscation desdits exemplaires, & de cinq cens livres d'amende, comme il est declaré plus amplement en l'original des lettres passées le jour & an que dessus, scellees du grandsceau, & signée. Par le Roy en son Conseil. OLIER.
+
+Achevé d'imprimé le 11. May 1647.
+
+
+## Les Personnages.
+ – NINUS,Roy des Assiriens.
+ – SEMIRAMIS,Reyne & femme de Ninus.
+ – PRAZIMENE,Princesse alliee de Semiramis. [98]
+ – MELISTRATE,general d'armée reconnu en fin pour fils de Semir.
+ – ORONCLIDE,fils putatif [99] de Merzabane reconnu fils de Ninus.
+ – MERZABANE,Prince confident de Semiramis.
+ – ZENOPHIRE,
+ – CAMBISES.Princes assistants au couronnement de Semiramis.
+ – PALMEDON,Escuyer [100] de Melistrate.
+ – LES GARDES, de Ninus et de Semiramis.
+LA SCENE est dans une Salle du Palais Royal à Babilone.
+
+
+
+## ACTE I.
+
+
+### SCENE PREMIERE.
+SEMIRAMIS, MERZABANE, HERMINIE [101].
+
+
+    SEMIRAMIS.
+Melistrate amoureux ? ah! je ne le puis croire ;  
+S'il aime, Merzabane, il n'aime que la gloire ;  
+Et cet ambitieux [102], & superbe⁎ vainqueur,  
+Ne borne⁎ pas ses vœux, à regner sur un cœur :  
+L'orgueilleux aime mieux que sa valeur enchaisne  
+Des soldats subjuguez, qu'une fameuse Reyne,  
+Que Mars a fait cent fois triompher à son tour [103],  
+Mais qui succombe enfin sous les traits⁎ de l'amour.  
+Son courage qui forme ou calme les tempestes,  
+Qui détruit, quand il veut, ou produit nos conquestes,  
+Se plaist dans les hazards⁎ dont son coeur est épris,  
+Et pour un Sceptre offert, n'auroit que des mépris.  
+Il ne veut rien tenir des mains de la Fortune⁎,  
+Si sa valeur n'agit, sa faveur l'importune ;  
+Et cet esprit hautain mépriseroit son rang,  
+Sil ne l'avoit acquis aux dépens de son sang [104] ;  
+Il treuve, l'arrogant, son Empire en luy-mesme,  
+Luy-mesme il fait sa Cour, ses Loix, son Diadesme,  
+Et n'emprunte l'éclat dont il est revestu,  
+Que de celuy qu'il a de sa propre vertu.  
+C'est elle seule aussi qui l'enflâme & le blesse,  
+C'est elle dont il fait son illustre Maistresse;  
+Et comme elle peut tout sur un si digne Amant,  
+Tout autre, Merzabane, y pretend⁎ vainement.  
+
+    MERZABANE.
+Madame, il est bien-vray que c'est la vertu mesme,  
+Pour qui ce cœur altier⁎ sent une amour extréme ;  
+Mais parmy les transports⁎ de ses nobles ardeurs,  
+Il n'est pas tout à fait ennemy des grandeurs :  
+Ainsi qu'un bel objet⁎, un Empire a des charmes,  
+Il verse pour tous deux & du sang & des larmes ;  
+L'un & l'autre luy plaist ; & je crois en ce jour,  
+Que son ambition [105] suit de pres son amour.  
+De plus, s'il m'est permis de vous ouvrir mon ame,  
+Je croy que son orgeuil est plus grand que sa flâme ;  
+Et l'objet⁎ qu'il cherit, ne luy plairoit pas tant,  
+S'il n'estoit le degré⁎ du Trône qu'il attend [106].  
+Vous devez, grande Reyne, abaisser son audace,  
+Qui se veut élever au dessus de sa race [107] ;  
+Et par un merveilleux & nouvel attentat⁎,  
+Au rang Assyrien [108] [109] joindre un simple soldat.  
+
+    SEMIRAMIS.
+(A demy vers bas.) [110]
+
+M'aimeroit-il ? ô Dieux ! ah, tire moy de peine;  
+Qu'est-ce donc qu'il pretend⁎ ?  
+
+    MERZABANE.
+        L'amour de Prazimene.  
+
+    SEMIRAMIS.
+L'amour de Prazimene !  
+
+    MERZABANE.
+    Oüy sans doute [111].  
+
+    SEMIRAMIS.
+        Et comment ?  
+Répond-elle aux ardeurs de ce parfait Amant ?  
+Leur inclination⁎ est-elle mutuelle ?  
+Et de qui tenez-vous cette étrange⁎ nouvelle ?  
+
+    MERZABANE.
+De la Cour, de l'armée, & de mes propres yeux.  
+
+    SEMIRAMIS.
+Il l'aime ? ah l'insolent ! il est aimé ? grand Dieux !  
+Que m'a t'on découvert⁎, & que viens-je d'entendre ?  
+Ils s'aiment, & je suis la derniere à l'apprendre ? [112]  
+Mais qu'elle aime, qu'elle aime ; en vain, sans mon adveu⁎,  
+Son aveugle desir nourrit un si beau feu⁎,  
+Quel qu'il soit, je sçay bien les moyens de l'éteindre,  
+Et de briser les traits⁎ qui la peuvent atteindre :  
+En vain par ses devoirs, sa flâme & ses soûpirs,  
+Son temeraire Amant répond à ses desirs ;  
+Quand [113] il seroit d'un sang égal à son courage,  
+Quand de tout l'Orient [114] il feroit son partage,  
+Prazimene seroit, choquant⁎ mes volontez,  
+Et la borne & l'écueil de ses prosperitez. [115]  
+Je suis leur Souveraine, & j'ay cet avantage,  
+Que l'une, de mes soins est le plus cher ouvrage,  
+Et que l'autre doit plus sa gloire & son bon-heur,  
+A mes rares bontez, qu'à sa haute valeur.  
+C'est donc en vain que l'un est de l'autre idolâtre [116],  
+Je n'ay rien elevé que je ne puisse abattre :  
+Oüy, quand il me plaira, je ne veux qu'un moment,  
+Pour détruire l'Amour, & l'Amante & l'Amant.  
+Mais avant ce grand coup, apprens nous, Merzabane,  
+La naissance & le cours d'un feu⁎ que je condamne,  
+Mais qui n'auroit jamais mon courroux enflâmé,  
+Si pour un autre objet⁎ il estoit allumé.  
+Parle donc ? [117] car ce bruit peut estre une imposture,  
+Que des esprits jaloux ont crú par conjecture [118],  
+Ne se souvenant pas, que souvent à la Cour,  
+L'artifice est caché sous le front de l'Amour,  
+Et qu'ordinairement le secours d'une feinte⁎,  
+Fait qu'une ame y paroist sensiblement⁎ atteinte,  
+Qui loin de soüpirer pour un objet⁎ parfait,  
+Quand elle feint⁎ d'aimer, hait souvent en effet [119].  
+
+     MERZABANE.
+Madame, je connois la Cour & ses adresses,  
+Je connois ses détours, & ses feintes⁎ caresses ;  
+Mais l'amour dont je parle à vostre Majesté,  
+Est bien d'autre nature, & d'autre qualité ;  
+Puis qu'enfin cette ardeur visiblement éclate,  
+Aux yeux de Prazimene, au cœur de Melistrate,  
+Et que jamais ce Dieu [120], qui regne sur nos sens,  
+N'a veu des feux⁎ si purs, ny des fers⁎ si puissans,  
+Je ne vous diray point quand nâquit cette flâme,  
+Ny comment chacun d'eux la receut en son ame,  
+Puis que vous sçavez bien qu'un si doux sentiment,  
+En de jeunes esprits s'introduit aisément,  
+Sur tout quand une rare & divine merveille,  
+A d'illustres soûpirs ne ferme point l'oreille,  
+Mais d'un œil dont la grace a banny la rigueur,  
+Fait pour celuy qu'elle aime, un passage à son cœur.  
+Melistrate a des yeux, il a veu Prazimene,  
+Ses regards amoureux ont commencé sa chaine [121] ;  
+Et le grade où depuis vous l'avez élevé,  
+A malgré vos désirs cet ouvrage achevé.  
+Il ne reste donc plus maintenant qu'à vous dire,  
+Ce qui m'a découvert⁎ sa flâme & son martyre,  
+Et comme tout le camp qui nous avoit suivis,  
+A veu Mars seconder les desseins de son Fils [122].  
+Cette double puissance à sa valeur unie,  
+Esclatta hautement au fond de l'Armenie [123],  
+Où cet ambitieux & jeune Conquerant,  
+Malgré [124] nos ennemis, passa comme un Torrent.  
+Ce fut là, qu'orgueilleux d'une belle victoire,  
+Il combattit l'Amour, pour accroistre sa gloire,  
+Et qu'on vit opposer pour le vaincre à son tour,  
+Le merite au merite, & l'Amour à l'Amour.  
+Ce fut là, qu'une grande & sanglante défaite,  
+Força honteusement Barzane [125] à la retraite,  
+Qui pour luy preparer un triomphe nouveau,  
+Se sauva dans les murs, dont il fit son tombeau.  
+Et ce fut là, Madame, où ce grand Capitaine,  
+Subjugua [126] l'Armenie, & conquit Prazimene.  
+
+    SEMIRAMIS.
+Ce glorieux exploict qui nous fut rapporté,  
+Toucha peut-estre un peu cette jeune Beauté,  
+Son courage luy plût, & ce n'est pas un crime,  
+Pour les coeurs genereux⁎, d'avoir beaucoup d'estime.  
+
+    MERZABANE.
+Non, mais elle fit voir presque en ce mesme jour,  
+Que l'on passe aisément de l'estime à l'Amour.  
+Ce ne fut pas pourtant cette haute conqueste,  
+Ny tant d'autres lauriers⁎ qui brilloient sur sa teste,  
+Qui luy firent aimer ce superbe⁎ vainqueur ;  
+Ce fut un noble orgueil qui luy toucha le cœur,  
+Et le mépris qu'il eut pour une illustre Dame,  
+Fit ce que n'avoit pû sa valeur ni sa flâme.  
+
+    SEMIRAMIS
+C'est ce poinct que j'ignore, & que l'on m'avoit teu.  
+
+    MERZABANE.
+Et c'est pourtant celuy que tout un camp a veu.  
+
+    SEMIRAMIS.
+Parle donc, Merzabane, & m'apprends [127] cette histoire ? [128]  
+
+    MERZABANE.
+Apres une assez belle et fameuse victoire,  
+Legerde [129], où commandait un prince audacieux,  
+Crût pouvoir arrester un camp victorieux ;  
+Melistrate l'attaque, elle fait resistance ;  
+L'orgueilleux Benzamin [130] paroist à sa defence,  
+Qui d'un courage haut, impatient & fier,  
+Appelle Melistrate en combat singulier.  
+Il reçoit ce cartel [131], il l'accepte, il s'appreste,  
+D'immoler au Dieu Mars cette orgueilleuse teste ;  
+Mais l'Amour qui crût lors⁎ que Mars lui faisoit tort,  
+Reserva pour ses traits⁎ la gloire de sa mort.  
+Ils combattent pourtant, & le sort⁎ est en peine,  
+Auquel il veut montrer sa faveur ou sa haine,  
+Mais à la fin honteux de s'estre démenty⁎,  
+Il quitte Benzamin, & prend nostre party.  
+Melistrate vainqueur, & content de sa gloire,  
+Fut courtois au vaincu, plus qu'on ne le peut croire ;  
+Et comme il estoit lors⁎ à vaincre accoustumé,  
+Il vainquit combattant, & vainquit desarmé ;  
+Car comme [132] il s'aqueroit un si glorieux titre,  
+Xidiane [133] des murs, se rendit leur arbitre ;  
+Et noyant son amour au sang de Benzamin,  
+En ses legeretez⁎, imita le destin [134].  
+Dés lors que le vainqueur se presente à sa veuë,  
+Son éclat l'ébloüit, elle paroit émeuë ;  
+Et l'ayant pris pour Mars sous l'armet [135], à son tour,  
+Elle le prend alors pour le Dieu de l'Amour :  
+En vain elle combat en faveur de sa flâme [136],  
+Le vainqueur, comme au camp, triomphe dans son ame ;  
+Et le triste vaincu n'a plus aucunes parts,  
+Ny dans ce cœur ingrat, ny dedans ses rampars.  
+De l'un & l'autre lieu, Melistrate est le Maistre,  
+Il pardonne au trahy, mais il punit le traistre [137] ;  
+Et rend par un illustre & celebre refus,  
+L'objet⁎ qui luy presente [138], interdit⁎ & confus.  
+Lors⁎ l'Amour se retire, & fait place à la rage,  
+Benzamin est surpris, & pense qu'on l'outrage,  
+Quand il voit que l'on traitte avec tant de mépris,  
+Celle dont il estoit si tendrement épris.  
+Xidiane en son sang, lave sa perfidie [139] ;  
+Et soudain son Amant, d'une main plus hardie,  
+Pour venger son trépas, fait un dernier effort,  
+Blesse au sein Melistrate, & se donne la mort.  
+Tout le monde est confus d'une telle avanture,  
+On enleve le mort, on songe [140] à sa blessure ;  
+Mais le blessé neglige & son sang & ses jours,  
+Et des medicamens, refuse le secours.  
+Il souffre⁎ seulement que Palmedon arreste,  
+Le sang qui hazardoit⁎ une si chere teste ;  
+Mais il proteste alors qu'on travaille en vain,  
+Et que sa guerison dépend d'une autre main.  
+Son refus nous surprend, son discours nous étonne,  
+Il nous fait retirer d'aupres de sa personne,  
+Pour dépescher [141] sans doute un Courier en secret,  
+Vers l'objet⁎ sans lequel il ne vit qu'à regret.  
+Prazimene apprend donc l'accident [142] qu'il annonce,  
+Escrit à Melistrate, & fait cette réponce.  
+
+    SEMIRAMIS *lit.*
+Melistrate vous avez tort,  
+D'écouter une injuste envie ;  
+Souvenez-vous que vostre mort,  
+Doit estre la fin de ma vie ;  
+Et que vouloir perdre le jour [143],  
+C'est attenter⁎ aux miens, & finir mon amour.  
+
+    PRAZIMENE. [144]
+… Elle l'aime ? ô fatale avanture !  
+Je n'en sçaurois douter, voila son escriture.  
+Oüy, cette heureuse main sauva nostre vainqueur,  
+Et la mesme aujourd'huy me déchire le cœur.  
+Mais d'où vient cette lettre ? & qui te l'a pû rendre [145] ?  
+Esclaircy-moy d'un poinct que je ne puis comprendre.  
+Un Amant si discret, & si prudent encor [146],  
+A t'il pû negliger un si rare tresor ?  
+Est-ce un effet du sort⁎, ou bien de ton adresse ?  
+Acheve, & satisfaits au desir qui me presse.  
+
+    MERZABANE.
+Je vous vay contenter, Madame, en peu de mots.  
+Un jour, comme il estoit dans un profond repos,  
+J'entray dedans sa chambre à l'heure accoûtumée,  
+Pour recevoir de luy les ordres de l'armée :  
+Mais de peur de troubler un paisible sommeil,  
+Je crûs que je devois attendre son réveil.  
+Je m'approche du lit, où voyant cette lettre,  
+Ma curiosité me semble tout permettre,  
+Je la prends, je la lis ; & sans trop contester [147],  
+Je faits en mesme temps dessein de l'emporter.  
+Mon dessein reüssit, la lettre me demeure ;  
+Pour les ordres du camp, je choisis une autre heure ;  
+Et soit que rien alors ne me rendit suspect,  
+Ou qu'il fut retenu de crainte, ou de respect,  
+Il ne m'a point jamais parlé de cette perte,  
+Par qui d'oresnavant sa flâme est découverte⁎,  
+Et par qui desormais vous pouvez rendre vains,  
+Ses soûpirs, son espoir, ses voeus & ses desseins.  
+
+    SEMIRAMIS.
+C'est ce que je veux faire ; allez, qu'on se retire.  
+
+
+### SCENE II.
+
+    SEMIRAMIS *seule.* 
+Il [148] suffit, je connais le charme qui l'attire ;  
+Et que sur ce grand cœur qui fait ma passion,  
+Prazimene peut moins, que son ambition.  
+Hé bien, cher Melistrate, il te faut satisfaire,  
+T'élever aux grandeurs que ton courage espere ;  
+Mais il faut que mon cœur soit l'illustre degré⁎,  
+Du Trône, où je prétends⁎ que tu sois adoré.  
+Aussi [149] bien est-il temps que ma vengeance éclate,  
+Contre un Roy que j'haïs, encor que [150] je le flatte,  
+Contre un Roy, mais Tyran ; contre un usurpateur,  
+Qui de tous mes ennuis⁎ est le fatal autheur ;  
+Qui fit de mes Estats le tombeau de mon pere,  
+Qui nagea dans le sang d'une teste si chere ;  
+Et tout fumant encor de ce meurtre inhumain [151],  
+Me força toute en pleurs, à luy donner la main [152] :  
+Oüy, le traistre usurpa ma Couronne & ma couche,  
+Sans l'adveu⁎ de mon cœur, ny celuy de ma bouche ;  
+Et tout m'abandonnant en ce funeste jour,  
+La violence [153] fit, ce que n'eut pû l'Amour.  
+Mais apprends, ô Tyran, que pour briser ma chaine,  
+Jusques icy mon cœur a déguisé [154] sa haine,  
+Que je vay par ta mort remonter à mon rang,  
+Donner teste pour teste, & le sang pour le sang.  
+Mon pere veut de moy ce juste sacrifice,  
+Ne luy refusons pas cet agreable office ;  
+Et pour l'executer avecque plus de soin,  
+Acquerons nous un bras, qui nous serve au besoin ;  
+Faisons de Melistrate un Espoux legitime,  
+Et que la vertu regne, où triomphoit le crime :  
+Pour un si beau dessein, tout doit estre permis ;  
+Meurs donc le plus cruel de tous mes ennemis.  
+Et puis l'âge te presse, & la Parque [155] ravie,  
+Est preste [156] d'achever la trame de ta vie,  
+Oste luy le plaisir d'en arrester le cours,  
+Et donne à mon bon-heur le reste de tes jours :  
+Permets que mes plaisirs naissent de ton desastre,  
+Et que ta nuict [157] enfin, soit l'orient d'un Astre [158],  
+Dont l'éclat icy bas n'eut jamais de pareil,  
+Et paroist à mes yeux plus beau que le Soleil.  
+Tout prest de succomber aux foiblesses de l'âge,  
+Le trépas t'est sans doute un heureux avantage,  
+Puis qu'abregeant tes jours, il peut mettre à couvert  
+Des Lauriers⁎, que le temps fait souvent que l'on perd :  
+Ouÿ, ta mort peut sauver le reste de ta gloire,  
+De tes sanglants projets, effacer la memoire,  
+Et faire quelques jours admirer aux Humains,  
+Des Palmes [159], qu'un moment peut ravir à tes mains.  
+Meurs, Ninus, meurs, avant que ton honneur expire ;  
+Si tu vis plus long temps, ton destin sera pire ;  
+Approuve mon dessein; & par un noble effort,  
+Esvite mille morts, par une seule mort.  
+Tu m'as juré cent fois qu'elle te seroit chere,  
+Si jamais elle avoit le bon-heur de me plaire :  
+Elle me plaist, Ninus, je la veux ; & je croy,  
+Qu'il ne faut point douter des promesses d'un Roy.  
+Tu ne sçaurois perir d'un coup plus favorable ;  
+Mais n'apperçois-je pas ce Prince miserable ?  
+Ah ! parlons, il est temps, & feignons⁎ toutesfois.  
+
+
+### SCENE III.
+NINUS, SEMIRAMIS, & GARDES.
+
+
+    NINUS.
+Ne sçaurais-je jamais le trouble où je vous vois ?  
+Vous verray-je toûjours dans la melancolie,  
+Où vostre ame paroist si fort ensevelie ?  
+Sans que vostre bonté, secondant mon desir,  
+M'apprenne le sujet de vostre déplaisir ?  
+Contentez, ma Princesse, une si juste envie,  
+Il y va de ma joye, il y va de ma vie ;  
+Et vous me ravirez l'une & l'autre aujourd'huy,  
+Si vous perseverez en ce funeste ennuy⁎.  
+Si pour le soulager, je puis trop peu de chose,  
+Je diray qu'à bon droict vous m'en taisez la cause ;  
+Mais si ce rare effet est possible aux humains [160],  
+Puis que tous vos desirs sont sur moy souverains,  
+Je vous reprocheray, Princesse genereuse⁎,  
+Que vostre affection est trop respectueuse [161],  
+Si ne se fiant pas aux ardeurs d'un Espoux,  
+Elle épargnoit un sang, qu'elle sçait tout à vous.  
+Oüy Madame, parlez, s'il vous est necessaire,  
+Cette espée & ce bras, s'en vont vous satisfaire ;  
+Et mesme si ma mort rend vos jours plus heureux,  
+J'en recevray le coup d'un visage amoureux.  
+
+    SEMIRAMIS.
+Seigneur, n'achevez pas ce discours qui m'offence,  
+Et ne me pressez point de rompre mon silence,  
+De peur que mon orgueil, ou ma temerité⁎,  
+Ne me rende odieuse à votre Majesté.  
+Il suffit de sçavoir que je suis femme & vaine⁎,  
+Et que ma vanité fait vos soins⁎ & ma peine :  
+De vous dire à quel poinct [162] mon cœur ose aspirer,  
+C'est ce que sans rougir, je ne puis declarer ;  
+Que votre Majesté, s'il luy plaist, m'en dispense,  
+Ce secret me pourroit oster sa bien-veillance,  
+Ou du moins alterer [163] cet amour si parfait,  
+Dont vous m'offrez encore un si sensible⁎ effet.  
+
+    NINUS.
+Certes, il faut qu'il soit d'une importance extréme,  
+Si vous vous défiez⁎ [164] d'un Prince qui vous aime,  
+Et si vous le celez⁎, à qui voudroit perir,  
+Pour appuyer vos vœux, & vous y secourir.  
+Hé bien, en ce dessein soyez opiniâtre [165],  
+Croyez qu'on vous trahit, quand on vous idolâtre [166] ;  
+Et puis que mon tourment vous contente & vous plaist,  
+Ne le finissez point, tout extréme qu'il est.  
+Dites qu'en ma douleur vous trouvez vos delices,  
+Que votre déplaisir finit par mes supplices,  
+Et que vous aimez mieux que je meure enragé [167],  
+Que de rendre d'un mot mon esprit allegé.  
+Si c'est l'ambition qui vous rend languissante,  
+Dites-moy son objet⁎, & quelle est votre attente ;  
+Et d'un soin merveilleux j'emploiray mon pouvoir,  
+A la porter plus loin, mesme que vostre espoir.  
+Notre Empire s'étend sur cent belles Provinces,  
+Nous avons pour vassaux, & des Roys & des Princes ;  
+Et si tant de grandeur est peu pour vos projets,  
+Bien-tost tous les humains deviendront vos sujets ;  
+Et lors⁎ que vous serez la Maistresse du monde,  
+Si vostre authorité veut estre sans seconde,  
+Moy-mesme vous cedant, & mon Sceptre & mes droits,  
+Je seray le premier à fléchir sous vos loix.  
+Si vous le desirez, je feray plus encore,  
+Je feray dans ces lieux, que chacun vous adore,  
+Et que tout l'Univers vous dressant des Autels,  
+Vous rende les honneurs, qu'on rend aux immortels.  
+Apres ce zele ardent, & cette deference [168],  
+Pouvez-vous, ma Princesse, observer le silence ?  
+Ah ! parlez ; & croyez que pour vous obeïr,  
+Je seray prest à tout, jusques à me trahir.  
+
+    SEMIRAMIS.
+Ce n'est pas d'aujourd'hui que j'ai vû grand Monarque,  
+De votre affection, une infaillible marque.  
+Dés lors que j'eus l'honneur de parestre à vos yeux,  
+Je reconnus en vous ce feu⁎ prodigieux⁎ [169],  
+Qui n'ayant pour objet⁎ que fort peu de merites,  
+N'a jamais eu pourtant ny bornes, ny limites,  
+Puis qu'en vous combattant, enfin je vous acquis,  
+Et que de conquerant, vous fustes le conquis.  
+Mais en vain mon esprit, ma langue, & ma memoire,  
+Vous retracent icy le tableau de ma gloire ;  
+Celuy que vous voulez de mes sens interdits⁎,  
+Veut [170] bien d'autres couleurs [171], & des traits⁎ plus hardis.  
+Obéïssons pourtant ; mais en cette occurrence,  
+Souvenez vous, Seigneur, que mon obeïssance  
+Est plûtost un effet de vostre authorité,  
+Que de mon imprudence, ou de ma volonté [172].  
+Il ne faut pas enfin, pour me rendre contente,  
+Que l'Univers soûmis, remplisse mon attente,  
+Que vostre affection oblige les mortels,  
+A flatter mon orgueil, ny d'encens, ny d'Autels,  
+Ou que pour satisfaire à mon effronterie,  
+Vostre zele à l'amour joigne l'idolâtrie.  
+Je ne me laisse pas à ce poinct aveugler,  
+J'ay de l'ambition, mais je la sçay regler [173] ;  
+Et pour la vanité dont mon ame est saisie,  
+Il suffira, grand Roy, du Sceptre de l'Asie.  
+Si seule j'ay l'honneur pour trois jours seulement,  
+De pouvoir sur le Trône agir absolument [174],  
+Mon ame en cet estat pleinement satisfaite,  
+Aura de vos bontez, tout ce qu'elle souhaite [175].  
+Ce n'est pas qu'aspirant à ce degré⁎ si haut,  
+Je voye en vos exploits ny tâche, ny defaut [176] ;  
+Au contraire, Seigneur, vostre conduite est telle,  
+Quelle est des plus parfaits, l'admirable modele ;  
+Et la saincte equité qu'on remarque en vos Loix,  
+Dévroit estre la regle & l'étude des Roys.  
+Permettez qu'en suivant ce merveilleux exemple,  
+Babilone ravie, aujourd'huy me contemple ;  
+Et regarde une femme avec étonnement,  
+Faire rougir des Roys, par son Gouvernement.  
+Vous sçavez, ô Ninus, par des preuves certaines,  
+Que j'ay toûjours fait honte [177] à tous vos Capitaines ;  
+Qu'ils ont en cent combats admiré ma valeur,  
+Que toûjours ma prudence a surmonté [178] la leur ;  
+Et leur gloire est autant au dessous de la nostre,  
+Que la mienne paroist au dessous de la vostre.  
+Souffrez⁎ qu'en peu de jours j'adjoûte à cet éclat,  
+L'avantage & l'honneur de regir un Estat ;  
+Et que je fasse un jour dire aux races futures,  
+Qui sans doute liront nos belles avantures,  
+Quels estoient, justes Dieux ! les hommes de ce temps,  
+Si les Femmes ont fait des miracles si grands ;  
+Ou si vous repugnez au desir qui me presse,  
+Faites un autre effort, oubliez ma foiblesse ;  
+Et puis que mon regret m'en peut assez punir,  
+Chassez en desormais jusques au souvenir.  
+Mais ce n'est pas assez, reparez de ma teste,  
+L'offence que vous fait une injuste requeste ;  
+Dans les flots de mon sang, étouffez mon orgueil ;  
+Et puis qu'au lieu du Trône, on m'apreste un cercueil ;  
+Enfin …  
+
+    NINUS.
+        ...N'achevez pas, il sufit ma Princesse,  
+Que je vous ay d'abord engagé ma promesse ;  
+Et ma foy vous doit rendre assurée à ce poinct,  
+Que les sermens des Roys, ne se revoquent point.  
+Oüy, dedans mes Estats vous serez Souveraine,  
+Seule vous jouïrez du beau Titre de Reyne ;  
+Et pour rendre plûtost [179] vos desirs satisfaits,  
+Je m'en vay de ce pas travailler aux effets [180].  
+
+
+### SCENE IV.
+
+    SEMIRAMIS.
+Dy que par cette voye à ma faveur ouverte,  
+Tu t'en vas, mal-heureux, travailler à ta perte ;  
+Et par l'effet d'un prodige⁎ nouveau,  
+Me preparer un Trône, & t'ouvrir le tombeau.  
+Fin du Premier Acte.
+
+
+## ACTE II.
+
+
+### SCENE PREMIERE.
+SEMIRAMIS, PRAZIMENE, HERMINIE [181].
+
+
+    SEMIRAMIS.
+Pourquoy desadvoüer [182] une chose certaine ?  
+Ne dissimulez point ; vous l'aimez, Prazimene ;  
+Et sans considerer s'il est digne de vous,  
+Vostre aveugle desir le choisit pour Espoux.  
+Oüy, n'en rougissez point, vous aimez Melistrate ;  
+J'advouë avecque vous que sa valeur éclate,  
+Que son bras genereux⁎ est l'appuy de l'Estat ;  
+Mais ce grand homme enfin, n'est qu'un simple soldat ;  
+Ses belles actions meritent vostre estime ;  
+La gloire est à ses faits un tribut legitime [183] ;  
+Et je croy qu'il rencontre en ses nobles emplois,  
+Un salaire assez grand, pour ses rares exploits.  
+Mais vous donner à luy ! songez-vous, Prazimene,  
+Qu'un sujet est trop bas pour une Souveraine ?  
+Et que vous faites tort, par un indigne amour,  
+A cet illustre sang, dont vous tenez le jour ?  
+Comment vous estes vous à ce poinct oubliée ?  
+Ne vous souvient-il plus d'estre nostre alliée ?  
+Et que vous offencez, par des lâches soûpirs,  
+Un cœur qui doit pretendre⁎ à bien d'autres desirs ? [184]  
+Ah ! reconnoissez-vous, & rentrez en vous-mesme [185] ;  
+Le prix de vostre amour, doit estre un Diadéme ;  
+L'esperance d'un Trône, en doit estre l'objet⁎ ;  
+Un Roy doit vous charmer, & non pas un sujet.  
+
+    PRAZIMENE.
+Madame, le beau feu⁎ dont on me croit atteinte,  
+Est tel, que je le puis avoüer sans contrainte :  
+Oüy, j'aime Melistrate ; & je serois sans cœur,  
+Si j'estois insensible aux traits⁎ de ce vainqueur.  
+Mais dans ce sentiment que la vertu me donne,  
+J'aime ses qualitez bien plus que sa personne ;  
+Et quiconque atteindroit à ses perfections,  
+Partageroit aussi mes inclinations⁎ :  
+Il est vray que je suis de naissance Royale,  
+Mais la sienne n'est pas à la mienne inégale,  
+Puis qu'il fait voir assez par ses nobles exploits,  
+S'il n'est du sang des Dieux, qu'il est du sang des Roys [186].  
+La pompe [187] ny l'orgueil, ne font point les Monarques,  
+Le pourpre⁎ & les grandeurs, en sont de foibles marques ;  
+Mais il faut advoüer, quelque erreur qu'on ait eu,  
+Que ce qui fait les Roys, est la seule vertu.  
+
+    SEMIRAMIS.
+Oüy, mais cette vertu qui n'est pas ordinaire,  
+Décend fort rarement dans une ame vulgaire [188],  
+Le vice enfin l'imite ; & l'on peut bien alors,  
+Adorer l'un pour l'autre, & l'ombre pour le corps.  
+Déjà ce faux brillant [189] qui vous plaist & vous flate,  
+Vous seduit en faveur de vostre Melistrate ;  
+Il a si bien charmé vostre cœur & vos yeux,  
+Qu'ils auroient à mépris & des Roys & des Dieux :  
+Mais quoy que vos vertus lâchement étouffées,  
+A ce jeune Heros soient d'illustres trophées,  
+M'asseureriez-vous bien qu'il n'ait point de froideur  
+Pour une si puissante & si fidelle ardeur ?  
+La gloire est un Demon d'une étrange⁎ nature,  
+Qui la possede plus, connoit moins sa mesure [190] ;  
+C'est un Demon qui tüe avecque des appas⁎,  
+Qui commande toûjours, & ne s'arreste pas.  
+Peut-estre que devant [191] qu'elle eut enflé son ame,  
+Melistrate eut pour vous quelque legere flâme ;  
+Et son esprit alors moins superbe⁎ & plus doux,  
+Ne crût point s'abaisser, en s'adressant à vous :  
+Mais maintenant que tout pour sa gloire conspire,  
+Qu'il ne luy faut qu'un pas pour monter à l'Empire,  
+Et que tout l'Univers le redoute aujourd'huy,  
+Peut-estre qu'il vous croit bien au dessous de luy :  
+Evitez cet affront, songez-y, Prazimene,  
+Vous devez craindre tout d'une ame si hautaine ;  
+Il peut rendre vos vœux, & trompez & confus ;  
+Toute amante qui s'offre, est digne de refus ;  
+Et d'une passion trop ardente & trop prompte,  
+Il n'en resulte rien, souvent que de la honte.  
+
+    PRAZIMENE.
+Mon cœur n'a rien à craindre en cette occasion,  
+Ny de la vanité, ny de ma passion :  
+Madame, à quelque poinct que mon ame le prise [192],  
+Je suis à conquerir, & ne suis pas conquise.  
+Il m'a bien advoüé que dés lors qu'il me vit,  
+Il trouva quelque chose en moy qui le ravit ;  
+Mais que le mesme objet⁎ qui fit naistre sa flâme,  
+Luy mit avec l'amour, tant de respect en l'ame,  
+Qu'il a long-temps brûlé, sans ozer declarer,  
+L'ardeur qui le faisoit sans cesse soûpirer.  
+Le jour que [193] couronné des mains de la victoire,  
+Il parut à la Cour tout rayonnant de gloire,  
+D'un superbe⁎ ennemy triomphant & vainqueur [194],  
+J'appris lors que mes yeux triomphoient de son cœur ;  
+Sortant d'aupres de vous, cet illustre courage [195],  
+Tout tremblant de respect, vint m'offrir cet hommage ;  
+Et je fus toutesfois glorieuse [196] à ce poinct,  
+Qu'encore qu'il [197] me plût, je ne l'acceptay point.  
+
+    SEMIRAMIS.
+Non, mais de ce mépris son ame s'est vengée,  
+Et pour luy desormais vostre humeur [198] est changée ;  
+Apres tant de froideurs, à present vous brûlez ?  
+
+    PRAZIMENE.
+Moy, Madame ?  
+
+    SEMIRAMIS.
+        Oüy vous, en vain vous le celez⁎ ;  
+Les effets, malgré vous, l'ont assez fait paroistre.  
+
+    PRAZIMENE.
+Quels effets ?  
+
+    SEMIRAMIS.
+    Voyez-les.  
+
+    PRAZIMENE *reconnoissant la Lettre.*
+        Ah, l'ingrat ! ah, le traistre !  
+Que voyez-vous, mes yeux ?  
+
+    SEMIRAMIS.
+        Un étrange⁎ secret.  
+O le parfait Amant ! Qu'il est sage & discret.  
+Hé bien, que ferez-vous apres un tel outrage ?  
+Ainsi que sans raison, serez-vous sans courage ?  
+Si vous estiez aimable⁎ à ce superbe⁎ esprit,  
+L'ingrat n'auroit jamais negligé cet écrit.  
+Il l'auroit tenu cher à l'égal de sa vie ;  
+Mais ravy qu'on vous sçache à ses loix asservie,  
+Luy mesme l'a sans doute à chacun exposé,  
+Et permis un larcin, qu'on n'auroit pas ozé.  
+
+    PRAZIMENE.
+Prest de faire en son sang un funeste naufrage [199],  
+Il eut de ma pitié ce honteux témoignage ;  
+Mais puis qu'il est perfide, il verra qu'à son tour,  
+Le dépit en mon cœur, est plus fort que l'amour.  
+
+    SEMIRAMIS.
+Sans porter vostre esprit à quelque violence,  
+A ses lâches projets, opposez la prudence ;  
+Et quand vous le verrez, qu'un assez froid accueil,  
+Par de justes mépris, punisse son orgueil :  
+Cependant, agréez [200] les devoirs d'Oronclide [201],  
+Répondez à ses vœux, aux yeux de ce perfide,  
+Afin que le voyant pres de vous en credit,  
+Il forcene [202] de rage, & creve de depit [203].  
+Ce choix reparera la bassesse de l'autre,  
+Oronclide est d'un sang qui répond mieux au vostre,  
+Il a des qualitez capables de charmer ;  
+Et si vous m'en croyez [204], vous le devez aimer.  
+
+    PRAZIMENE.
+Sortant si fraichement d'un visible naufrage [205],  
+Je ne veux point si tost m'exposer à l'orage,  
+Ny trop imprudemment une autrefois courir,  
+Vers le mesme rocher, où j'ay pensé perir.  
+Je veux d'oresnavant, en pareille occurrence,  
+Employer plus de temps, & plus de prevoyance,  
+Et montrer desormais, que plus sage en amour,  
+Prazimene n'est pas la conqueste d'un jour.  
+
+    SEMIRAMIS. 
+Vous y pourrez songer, allez.  
+
+    PRAZIMENE *s'en allant.*
+        C'est mon envie :  
+Mais non, perdons plûtost l'esperance & la vie,  
+Et faisons par un coup aussi juste que beau,  
+Qu'où l'Amour eu son Trône, il treuve son tombeau.  
+
+
+### SCENE II.
+
+    SEMIRAMIS *seule.*
+Tout répond à mes vœux ; le dépit & la haine,  
+Font d'étranges⁎ effets au cœur de Prazimene ;  
+Cette ruse subtile a rompu ses liens,  
+Et la mesme à present vient d'asseurer les miens :  
+Mon bon-heur desormais n'a plus rien qui l'égale,  
+Puis que j'ay supplanté [206] ma superbe⁎ rivale,  
+Et que tout se dispose au gré de mes desirs,  
+A seconder ma flâme, & faire mes plaisirs.  
+D'elle-mesme déja la victime s'appreste,  
+Le glaive pend déjà sur son illustre teste ;  
+Et pour ce sacrifice ardemment desiré,  
+Le magnifique Autel est déja preparé ;  
+Pour un coup si celebre & de telle importance,  
+On attend seulement mon ordre, & ma presence ;  
+Et pour executer un si hardy dessein,  
+Je n'ay plus desormais qu'à choisir une main,  
+Qui puisse sans remords faire un illustre crime,  
+Et sans étonnement⁎ immoler la victime.  
+La voicy [207].  
+
+
+### SCENE III.
+SEMIRAMIS, MERZABANE.
+
+
+    SEMIRAMIS.
+        Merzabane, aujourd'huy je veux voir,  
+Combien mes volontez ont sur vous de pouvoir.  
+Je vous vay reveler un secret qui me touche [208],  
+Jusqu'au poinct, qu'à regret je le fie à ma bouche ;  
+Et pourtant, sans tirer de vous aucun serment,  
+Mon cœur va devant vous s'ouvrir entierement :  
+Aussi loin de prier, songez que je commande ;  
+Le trépas de Ninus, est ce que je demande ;  
+Et pour me procurer ce bon-heur souverain,  
+Connoissant vostre cœur⁎, j'ay choisy vostre main.  
+Ne me demandez pas les raisons, ny la cause,  
+Mais songez aux effets de ce que je propose ;  
+Il suffit que ce coup est [209] un coup que je veux,  
+Pour sortir de mes fers⁎, & pour vous rendre heureux.  
+De plus, souvenez-vous, qu'en suivant mon envie,  
+Cette mort que j'attends, asseure votre vie,  
+Que d'injustes soupçons vont bien tost vous ravir,  
+Si la crainte vous rend trop lent à me servir.  
+Pour vous rendre discret, ayez en la memoire,  
+Que je mets en vos mains mon repos & ma gloire ;  
+Et si vous ne voulez vous-mesme vous trahir,  
+Qu'il n'est plus mesme en vous de me desobeïr  [210];  
+Vous ayant honnoré de cette confidence,  
+Vostre esprit ne doit plus demeurer en balance [211] ;  
+Songez-y Merzabane, ou je vous feray voir,  
+Qu'il faut donner le coup, ou bien le recevoir.  
+Comme ce coup est grand, tentez vostre courage ;  
+Ou si le cœur⁎ vous manque en un si grand ouvrage,  
+Au moins ayez des yeux pour voir executer,  
+Ce qu'une vaine peur vous defend de tenter⁎ :  
+Oüy, oüy, si vous tremblez, venez voir une femme,  
+Achever hardiment le complot qu'elle trame,  
+Et vous faire advoüer, qu'elle n'aura pas moins  
+De grands admirateurs, qu'elle aura de témoins.  
+
+    MERZABANE.
+Madame, si jamais j'avois manqué de zele,  
+Pour rendre à vos desirs un service fidelle,  
+Vous pourriez soupçonner en cette occasion,  
+Mon ardeur, mon courage, & ma discretion ;  
+Mais vous ayant donné tant de preuves certaines,  
+Que pour moy, vos desirs sont des loix souveraines,  
+Pardonnez si je dis à vostre Majesté,  
+Qu'elle a tort de douter de ma fidelité.  
+Madame, croyez donc que pour vostre service,  
+Il n'est rien que je n'ose, & que je n'accomplisse ;  
+J'apporterai pour vous, & l'enfer & les Cieux,  
+Le fer, le feu, la mort, & les hommes et les Dieux :  
+Pour vous je trouveray tout acte legitime,  
+Je hazarderay⁎ tout, ma gloire, mon estime [212],  
+Ma fortune⁎, mon sang, mon païs, mon honneur,  
+Pourveu que mon peril fasse vostre bon-heur.  
+
+    SEMIRAMIS.
+Vous ne hazardez⁎ rien en un si bon office,  
+Puis que mesme Ninus sera vostre complice,  
+Et que ce lâche Roy, devenu mon sujet,  
+Secondera le coup, dont il sera l'objet⁎.  
+Pour trois jours seulement il me cede l'Empire,  
+Mais dés ce mesme jour je pretends⁎ qu'il expire ;  
+Et que pour m'asseurer le Trône tout à fait [213],  
+Il signe de son sang le present qu'il m'a fait.  
+
+    MERZABANE.
+Madame, quand j'auray l'ordre qu'il me faut suivre,  
+Il cessera bien-tost de regner & de vivre.  
+
+    SEMIRAMIS.
+Quelqu'un vient, suivez moy, je vous diray comment  
+Vous pourrez obeïr à mon commandement.  
+
+
+### SCENE IV.
+
+    PRAZIMENE *seule.*
+
+Tyran des cœurs, Bourreau des Ames, [214]  
+Maistre des Humains, & des Dieux,  
+Redoutable vainqueur des plus ambitieux,  
+Dieu de fers⁎, de soûpirs, de tourmens, & de flâmes :  
+Amour, que les coups de tes traits⁎,  
+Ont d'abord de puissans attraits,  
+Qu'ils font une agreable & charmante blessure ;  
+Mais apres de si doux momens,  
+Helas ! que ton humeur [215] change bien de nature,  
+Et qu'elle est fatale aux Amans.  
+
+En vain insensible & rebelle,  
+Mon cœur a long-temps combattu ;  
+Pour venger cet affront, tu punis ma vertu,  
+Par les legeretez⁎ d'un Amant infidelle.  
+Ah ! si tu ne me faits raison [216]  
+De cette injuste trahison,  
+Je sçay bien les moyens de braver ta malice ;  
+Et faisant un illustre effort,  
+M'affranchir de tes fers⁎, & de ton injustice,  
+Avecque les traits⁎ de la mort.  
+
+Mais c'est la commune allegeance [217]  
+Que cherchent les foibles Esprits ;  
+Aux mépris d'un ingrat, opposons le mépris,  
+Et de ses propres traits⁎, faisons nostre vengeance :  
+Que son nom soit ensevely  
+Dedans un eternel oubly,  
+Que ses feintes⁎ ardeurs sortent de ma memoire ;  
+Et que par de justes dédains,  
+Mes yeux reparent tost [218], en dépit de sa gloire,  
+La faute qu'ont feinte⁎ mes mains [219].  
+
+Melistrate ! ô grands Dieux ! est-il bien veritable,  
+Que d'un crime si noir il ait esté capable ?  
+La fortune⁎ auroit-elle à ce poinct aveuglé,  
+Cet Astre de la Cour, cet Esprit si reglé [220] ?  
+Ah ! quoy que son forfait ait beaucoup d'apparence [221],  
+Mes yeux peuvent à peine établir ma creance [222],  
+Et je sens en mon cœur un secret mouvement,  
+Qui me parle en faveur de ce perfide Amant ;  
+J'écoute avec plaisir ce penser [223] qui me flate,  
+Et puis je le détruis, & blâme Melistrate.  
+Ah ! desordres confus de mes pensers errans,  
+Où se termineront mes desseins differens [224] ?  
+Je deteste son nom, je le hay, je l'abhorre [225],  
+Je le fuis, je le crains, & si [226] je l'aime encore :  
+Je sens mon feu⁎ s'éteindre, & puis se r'allumer ;  
+Je ne le puis haïr, je ne le puis aimer,  
+Le dépit me saisit, & puis il m'abandonne,  
+Tantost je le condamne, apres je luy pardonne ;  
+Et dans ces flots divers, qui viennent m'agiter,  
+Mon esprit incertain ne sçait où s'arreter :  
+Ah ! c'est trop... Mais, ô Dieux ! ne vois-je point paraistre  
+Le Confident adroit d'un si perfide Maistre ?  
+Oüy, c'est luy ; que feray-je ?  
+
+
+### SCENE V.
+PRAZIMENE, PALMEDON.
+
+
+    PRAZIMENE.
+        Advancez, Palmedon ;  
+Qu'est-ce, me venez-vous demander un pardon,  
+Pour le plus insolent & plus lâche des hommes,  
+Qu'ait soûtenu la Terre en ce siecle où nous sommes ?  
+Ou pour plaire à ce cœur en crimes si feconds,  
+Venez-vous au premier adjoûter le second ?  
+Ce vainqueur orgueilleux, ce superbe⁎ courage [227],  
+Veut-il de mon amour quelqu'autre témoignage ?  
+N'est-il pas satisfait de ceux qu'il a receus ?  
+Ne répondent-ils pas aux vœux qu'il a conceus ?  
+Ont-ils trop de froideur, ou trop d'indifference,  
+Pour étaler ma honte, ou bien son arrogance ?  
+Ayant jetté ma Lettre avec tant de mépris,  
+Peut estre que l'ingrat veut r'avoir ses écrits ;  
+Et vous, pour obeïr à cette ame hautaine,  
+Vous les redemandez peut-estre à Prazimene.  
+Mais quoy [228] qu'ils soient formez & signez de son sang,  
+Qu'il sçache neantmoins, que celles de mon rang,  
+A sa confusion, ont assez de courage,  
+Pour avoir méprisé ce honteux avantage.  
+Oüy, si ce projet seul vous amene en ces lieux ;  
+Vous pouvez retourner vers cet ambitieux,  
+Et luy certifier que j'ay reduit en cendre,  
+Les Lettres dont les traits⁎ ont pensé me surpendre ;  
+Et que son cœur ingrat, que j'estimois à tort,  
+S'il estoit en mes mains, auroit un mesme sort.  
+
+    PALMEDON.
+Confus, triste, pensif, je ne sçay que resoudre,  
+Ayant oüy gronder l'épouventable foudre,  
+Qui menace aujourd'huy le Heros plus parfait [229],  
+Et le plus innocent que la Nature ait fait.  
+Mais, ô Dieux ! quels Demons pleins d'envie & de rage,  
+Ont si soudainement excité cet orage ?  
+Qu'ay-je veu ? qu'ay-je oüy? quelles impressions [230],  
+Causent en vostre cœur ces alterations ?  
+Quoy, Madame, est-ce en vous que cette haine éclate ?  
+Est-ce vous qui se plaint, & blâme Melistrate ?  
+Vous qu'il aime, ou plûtost qu'il adore en tous lieux,  
+Avec plus de respect, qu'on n'adore les Dieux.  
+Quoy, vous traittez d'ingrat, d'insolent & de traistre,  
+Le plus fidelle Amant que le Ciel ait fait naistre ?  
+Quoy, vous le condamnez, & mesme sans l'oüir ?  
+Luy qui mourroit cent fois, plûtost que vous trahir.  
+Ah ! quittez cette erreur, & quittez la pensée,  
+Que par aucun [231] mépris il vous ait offencée ;  
+Il est toûjours luy-mesme ; il est toûjours à vous,  
+Et merite, sans doute, un traittement plus doux.  
+Apres tant de respects, apres tant d'asseurances,  
+D'ardeurs, de vœux, de soins, de pleurs, d'obeïssances,  
+D'un veritable amour, ordinaires témoins,  
+Vous deviez [232] bien, Madame en douter un peu moins.  
+Comment avez-vous pû si legerement croire,  
+De si faux sentimens, formez contre sa gloire ?  
+Quel charme⁎ si puissant a pû vous ébloüir ?  
+
+    PRAZIMENE.
+Celuy qu'il souhaittoit afin de me trahir,  
+La Lettre qu'en son nom vous m'avez demandée,  
+Et qu'enfin ma pitié vous avoit accordée :  
+Oüy, ce funeste écrit que vous eustes de moy,  
+Quand son perfide sang m'asseuroit de sa foy,  
+Estant par son moyen au pouvoir de la Reyne,  
+Fait aveque raison éclater Prazimene.  
+S'il m'avoit adorée avec tant de ferveur,  
+Il auroit mieux gardé cette insigne⁎ faveur,  
+Et n'auroit pas rendu par un traict⁎ qui me pique,  
+Sa vanité visible, & ma honte publique.  
+
+    PALMEDON.
+Ah ! Madame, il suffit : Souffrez⁎, au nom des Dieux,  
+Que Palmedon icy vous desile les yeux [233],  
+Et qu'il vous fasse voir, qu'une fausse apparence,  
+Vous fait injustement condamner l'innocence :  
+Il est vray que l'écrit dont vous m'avez parlé,  
+Luy fut dernierement dans sa chambre volé,  
+Tandis qu'il reposoit, & qu'il songeoit encore,  
+Au present qu'il tenoit d'une main qu'il adore.  
+Oüy, Madame, aussi-tost qu'il eut receu de moy  
+Ce gage mutuel d'une constante foy,  
+Il baisa mille fois ce divin caractere [234],  
+Le sommeil le surprit ; & lors⁎ un temeraire,  
+S'approchant de son lit en ce triste moment,  
+Sans doute luy ravit un tresor si charmant.  
+Helas ! à son réveil quelle fut sa tristesse,  
+Quand il ne trouva plus l'écrit de sa Princesse !  
+Ah ! Je vis sa douleur, je vis son desespoir,  
+Et plût aux Dieux alors, que vous l'eussiez pû voir ;  
+D'une juste pitié, vostre belle ame atteinte,  
+Eut de ce cher objet⁎ détourné vostre plainte.  
+Pour la faire éclater avec plus de raison,  
+Contre le lâche autheur de cette trahison.  
+Merzabane, Madame, a fait ce trait⁎ perfide,  
+Pour perdre Melistrate, & servir Oronclide,  
+Qui n'ozant jusqu'à vous élever ses esprits,  
+Bâtira desormais sur ce triste debris. [235]  
+Mais helas !  
+
+    PRAZIMENE.
+        C'est assez, n'en dy pas davantage,  
+Tes puissantes raisons ont appaisé l'orage,  
+Qui m'a presque reduite à descendre au tombeau ;  
+Mais à peine j'en sors, que j'en crains un nouveau :  
+Le projet d'Oronclide est une autre tempeste,  
+Dont déjà les éclairs ont menacé ma teste ;  
+Mais avant qu'elle soit en estat d'éclater,  
+Puis que je la prevois, je pourray l'eviter.  
+
+    PALMEDON.
+Melistrate revient, & je croy que ses palmes [236]  
+Pourront rendre vos jours plus serains & plus calmes ;  
+Je vous venois, Madame, annoncer son retour.  
+
+    PRAZIMENE.
+Tu me rends, Palmedon, & la vie & l'amour.  
+Fin du Second Acte.
+
+
+## ACTE III.
+
+
+### SCENE PREMIERE.
+NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE, & les Gardes.
+
+
+    NINUS *au Trône.*
+Enfin voicy l'heureuse & celebre journée,  
+Que [237] la mesme vertu [238] se verra couronnée,  
+Et que le plus parfait des ouvrages des Cieux [239],  
+Regnera sur un Trône égal à ceux des Dieux.  
+Princes, qui relevez de ce superbe⁎ Empire,  
+Que tout le monde craint, & que le Ciel admire,  
+Appuy de cet Estat, & qu'on peut en ce jour,  
+Appeler justement les Astres de ma Cour :  
+Il est temps que ma voix vous fasse l'ouverture [240],  
+D'un projet admirable à toute la Nature,  
+Et vous rende sçavans en cette occasion,  
+Des illustres motifs d'une telle action.  
+Il faut premierement vous remettre en memoire,  
+Ces triomphes divers, & ces jours pleins de gloire,  
+Qui nous virent dompter tant de peuples puissans,  
+Les Parthes, ceux de Thir, les Medes, les Persans [241] ;  
+Et puis vous souvenir quelles forces si prestes,  
+Bornerent⁎ tout à coup le cours de nos conquestes.  
+Vous sçavez qu'animé de ces nobles ardeurs,  
+Qu'inspire le desir, de nouvelles grandeurs,  
+Au Roy des Syriens [242], je dénonçay la guerre [243],  
+Que j'armay contre luy presque toute la Terre,  
+Et que je contraignis ce Prince genereux⁎,  
+De ceder au plus fort, ou du moins plus heureux [244].  
+Vous sçavez qu'Ascalon [245] fut son dernier azile⁎,  
+Que je luy fis alors un tombeau de sa Ville ;  
+Et vous n'ignorez pas, qu'apres ce grand effort,  
+L'Amour se resolut de combattre la Mort.  
+Oüy, ce pâle Demon de tant de funerailles,  
+M'ayant suivy toûjours en trois grandes batailles,  
+Fut enfin arresté par les traits⁎ d'un enfant [246],  
+Que deux yeux tout divins rendirent triomphant.  
+Souvenez-vous un peu quelle fut l'asseurance,  
+La generosité, l'adresse, & la vaillance  
+Du redoutable bras qui m'oza défier⁎,  
+Et tenter⁎ les hazards⁎ d'un combat singulier.  
+Ne m'advoüerez vous pas qu'une telle personne,  
+Qui sçait vaincre des Roys, merite une Couronne ? [247]  
+On n'en sçauroit douter, & c'est ce que je veux,  
+Pour luy rendre justice, & contenter ses vœux :  
+Vous la voyez icy, cette personne auguste⁎,  
+Que je dois honnorer d'un hommage si juste :  
+Oüy, c'est ce rare objet⁎, cette Semiramis,  
+Dont le bras a defait un monde d'ennemis,  
+Cet objet⁎ si charmant qui fait toute ma gloire,  
+Que le destin revere⁎, & que suit la victoire,  
+Semiramis enfin, dont les nobles travaux,  
+Apres cent beaux combats, m'ont rendu sans rivaux.  
+Mais en vain je vous faits ces brillantes peintures,  
+Puis que vous avez veu ses hautes avantures,  
+Et que de tant d'exploits, de prudence, & de soins,  
+Elle vous a rendus les illustres témoins.  
+Combien de fois couverte, & de sang & de poudre,  
+A t'elle devant moy passé comme la foudre ?  
+De combien de dangers m'a-t'elle retiré ?  
+Combien de fois son bras, aussi craint qu'admiré,  
+A-t'il des plus vaillans étonné⁎ le courage,  
+Et forcé les vainqueurs à changer de visage [248] ?  
+Lors que dans les conseils je la laissois agir,  
+Ne vous a-t'elle pas vous mesme fait rougir ?  
+Et contraint maintes fois les ames plus altieres⁎,  
+De ceder à l'éclat de ses vives lumieres ? [249]  
+Je pourrois adjoûter à tant de beaux effets,  
+Ceux que ce grand esprit a produits dans la paix,  
+Ces murs si renommez, dont ma belle Amazone [250],  
+N'a pas moins embelly, que muny Babilonne,  
+Ces Temples si fameux, & ces Palais divers,  
+Dont la magnificence étonne⁎ l'Univers :  
+Mais laissant à vos yeux l'objet⁎ de ces merveilles,  
+Des plus rares effets vont charmer vos oreilles.  
+Pour donner à des traits⁎, si doux & si charmans,  
+Et leur perfection, & leurs finissements,  
+Figurez vous ma Reyne, alors qu'elle surmonte,  
+Dans l'horreur de la nuit, le traistre Thermodonte [251] :  
+Voyez la qui s'habille, & qui s'arme à demy [252],  
+Pour aller repousser ce superbe⁎ ennemy,  
+Qui pressé des transports⁎ d'une ardeur sans égale,  
+Venoit pour attenter⁎ à ma couche Royale :  
+Voyez la teste nuë, & les cheveux épars,  
+Fendre un Peuple surpris en ses propres rempars,  
+Rétablir le desordre, arrester l'insolence,  
+Faire agir la valleur, avec la prudence ;  
+Et d'un bras, par les Dieux à vaincre destiné,  
+Immoler à ses pieds, un Monstre couronné.  
+Apres cette action, & mille exploits celebres,  
+Dont l'éclat se perdit dans l'horreur des tenebres,  
+Puis-je, sans estre injuste, & passer pour ingrat,  
+Refuser à ses mains les resnes de l'Estat ? [253]  
+Non, non, ce n'est pas mesme un salaire assez ample,  
+Et c'est trop peu qu'un Trône, à qui merite un Temple :  
+Toutefois, puis qu'enfin un objet⁎ si parfait,  
+Borne⁎ là ses desirs, approuvons en l'effet ;  
+Et luy cedans les droicts de ma toute-puissance,  
+Rendons luy le premier entiere obeïssance :  
+Que chacun se dispose à ce juste devoir ;  
+Rendez comme vassaux, hommage à son pouvoir ;  
+Prestez luy le serment ; & reverez⁎ en Reyne,  
+Celle qui desormais est vostre Souveraine.  
+
+    MERZABANE.
+Grand Prince, pardonnez à ma temerité⁎,  
+Si je dis franchement à vostre Majesté,  
+Que j'ay pour ma patrie une ame trop fidelle,  
+Pour faire jamais rien, qui soit indigne d'elle,  
+Ou souffrir⁎ que mon cœur consente lâchement,  
+A ce prodigieux⁎ & triste changement.  
+Les revolutions, encore que fameuses,  
+En matiere d'Estat, sont toûjours dangereuses ;  
+Et l'on n'a jamais veu dans les siecles passez,  
+De Princes souverains, qui se soient abaissez [254].  
+On dit bien qu'autrefois le Dieu de la lumiere,  
+Receut de Phaëton [255] une mesme priere ;  
+Et que trop indulgent à ses superbes⁎ vœux,  
+Il le mit, pour un jour, sur son Char lumineux ;  
+Mais on asseure aussi, qu'errant à l'aventure,  
+Son desordre pensa ruiner [256] la Nature ;  
+Et que pour le punir d'un si funeste orgueil,  
+Le feu fit son supplice, & l'onde son cercueil.  
+Je confesse, Seigneur, en parlant de la sorte,  
+Que j'écoute un peu trop le zele qui m'emporte ;  
+Et parmy vos vassaux, je ne sçaurois nier,  
+Que mon advis ne doive estre dit le dernier :  
+Mais voyant qu'ils n'ont pas le cœur⁎ ny l'asseurance,  
+De parler en un fait de telle consequence ;  
+J'aime bien mieux faillir par ma sincerité,  
+Que par ma complaisance, ou par ma lâcheté.  
+Que la Reyne, ô grand Roy, s'il luy plaist, me pardonne,  
+Si du joug de ses Loix, j'affranchis ma personne ;  
+Ne la pouvant subir, j'aime mieux dés ce jour,  
+Pour le temps de son Regne, abandonner la Cour,  
+Et m'exempter au moins de cette honte infame,  
+Qu'on ait veu Merzabane, Esclave d'une Femme.  
+
+    NINUS.
+Dy plûtost qu'un Esprit sous le vice abattu,  
+Ne reconnoit jamais les Loix de la vertu.  
+Mais en vain d'une voix insolente & prophane,  
+Tu choques⁎ mes desirs ; souviens-toy, Merzabane,  
+Que tu te dois resoudre à sentir mon courroux,  
+Ou bien luy rendre hommage, & mesmes à genoux ;  
+Et si durant le temps qu'elle aura cet Empire,  
+Aucun [257] de cette Cour s'absente ou se retire,  
+Je jure par le feu, Saincte Divinité,  
+Qu'il se repentira de sa temerité⁎.  
+Avancez donc, Madame, & prenez, grande Reyne,  
+Avec ces ornemens, le rang de Souveraine ;  
+Usez sur nous des droicts d'un pouvoir absolu.  
+
+    MERZABANE.
+(A part, tandis que les Roys rendent leurs hommages à Semiramis.)
+
+Hé bien j'obeïray, puis que tu l'as voulu ;  
+Mais puis qu'en ce devoir tu me faits violence,  
+Si tu viens à perir par mon obeïssance,  
+Souvien-toy pour le moins que cet evenement,  
+Ne sera que l'effet de ton commandement.  
+
+    SEMIRAMIS *au Trône.*
+Princes, si j'ay receu ces adorables marques,  
+Qu'a remis en mes mains le plus grand des Monarques,  
+Ne vous figurez pas, qu'en cette occasion,  
+Je n'aye eu pour objet⁎, que mon ambition,  
+Puis qu'enfin vous verrez que mon ame n'aspire,  
+Qu'à l'affermissement de ce superbe⁎ Empire,  
+Et que dans peu de temps, vous connoistrez en moy,  
+Un cœur⁎ beaucoup plus grand que d'un homme & d'un Roy.  
+Mais avant que je passe à cette experience,  
+Voyons quelques effets de vostre obeïssance ;  
+Retirez-vous, Ninus, & comme mon sujet,  
+Laissez-moy desormais achever mon projet ;  
+Vostre presence icy ne m'est plus necessaire.  
+
+    NINUS *s'en allant.*
+Il est de mon devoir d'obeïr, & me taire.  
+
+    SEMIRAMIS.
+Allez.  
+
+
+### SCENE II.
+SEMIRAMIS, CAMBISES, ZENOPHIRE, ORONCLIDE, MERZABANE, & les Gardes.
+
+
+    SEMIRAMIS *debout.*
+        Dieux ! que feray-je ? & quel est mon dessein ?  
+Je tremble, je fremis, le cœur me bat au sein ;  
+Sur le poinct de parler, j'ouvre & ferme la bouche,  
+Et sens je ne sçay quoy dans l'ame qui me touche :  
+Toutesfois c'est en vain que je veux reculer,  
+Le trait⁎ déjà lancé, ne se peut rappeller ;  
+Il faut, il faut franchir constamment [258] la carriere ;  
+Et qu'avecque le Sceptre, il perde la lumiere [259].  
+Elle se remet au Trône, & continuë.
+
+Si par mes yeux, Seigneurs, ou par mon action,  
+Vous voyez maintenant quelque alteration,  
+Peut-estre croyez-vous que mon esprit s'étonne⁎,  
+Ou se trouve accablé du faix [260] d'une Couronne :  
+Mais vous pouvez penser, qu'ayant veu sous nos pieds,  
+Avecque leurs grandeurs, des Roys humiliez,  
+Nostre cœur est trop bon, & nostre ame trop ferme,  
+Pour estre jamais mise en un si mauvais terme.  
+Sçachez donc que le trouble où je suis à present,  
+Naist d'un sujet plus juste, & beaucoup plus puissant ;  
+Et que Semiramis n'en peut estre affranchie,  
+Sans se trahir soy-mesme, ou cette Monarchie.  
+Vous voyez bien, Seigneurs, ainsi que je le vois,  
+Le tort qu'on vient de faire au sacré rang des Roys ;  
+Et je ne doute point, qu'un si sensible⁎ outrage,  
+De vos sens interdits⁎, ne suspende l'usage ;  
+Mais que par cet affront, vos esprits rappellez,  
+Vous vengent de vos droicts lâchement violez ;  
+Il me cede ses droicts, son Sceptre, sa Couronne,  
+Il m'abandonne tout, & je vous l'abandonne :  
+Mais que dis-je, il me cede ? il ne me cede rien,  
+Ce Trône est mon partage [261], & ce Sceptre est mon bien ;  
+Vous parlant de ses droicts, ma langue s'est trompée,  
+Il me rend seulement ma couronne uzurpée ;  
+Et ce lâche ennemy des Peuples & des Roys,  
+Se rendant mon sujet, ne me rend que mes droicts :  
+De cet usurpateur, cet Estat fut la proye,  
+Il se fit à l'Empire une sanglante voye ;  
+Et de sa propre main, mon pere massacré,  
+Du Trône où je l'ay veu, fut le premier degré⁎ :  
+Oüy, son tombeau servit à ce sanglant ouvrage,  
+Dont le funeste objet⁎ réveille mon courage ;  
+Il me dit qu'un Tyran dont je veux le trépas,  
+M'en doit pareillement former le premier pas.  
+C'est ce que je demande, & ce qu'il vous faut faire,  
+Pour appaiser les Dieux, & l'ombre de mon Pere,  
+Qui vous voyant subir d'illegitimes Loix,  
+Pour vous en affranchir, vous parle par ma voix.  
+Ne luy refusez pas ce juste sacrifice,  
+C'est un sujet coupable, & je veux qu'il perisse.  
+Si j'ay jusques icy son trépas differé,  
+Ce n'estoit qu'à dessein de le rendre asseuré,  
+Et pour ne pas manquer, par trop d'impatience,  
+Une si raisonnable & si noble vengeance.  
+Merzabane, on vous a commandé d'obeïr,  
+Songez que mon espoir ne se doit point trahir,  
+Qu'il veut un prompt effet, que je suis Souveraine,  
+Qu'il faut suivre mes Loix, ou redouter ma haine ;  
+Et quiconque ozera me choquer⁎, ou m'aigrir [262],  
+Qu'il doit, avec Ninus, se resoudre à perir.  
+
+
+### SCENE III.
+CAMBISES, ZENOPHIRE, MERZABANE, ORONCLIDE.
+
+
+    MERZABANE.
+He bien, Seigneurs, enfin qu'elle est vostre pensée ?  
+Prendrons-nous le party d'une Reyne offensée ?  
+Subirons-nous le joug où nous sommes soûmis ?  
+Serons-nous ses sujets, ou bien ses ennemis ?  
+C'est Ninus qui nous fait un si sensible⁎ outrage.  
+Quoy ? comme il fut sans cœur⁎, serez-vous sans courage ?  
+Qui vous rend de la sorte interdits⁎, & confus ?  
+
+    ZENOPHIRE.
+Un trouble, Merzabane, où jamais je ne fus,  
+Un prodige⁎ incroyable, une étrange⁎ merveille,  
+Qui fait qu'avec raison je doute si je veille.  
+
+    ORONCLIDE.
+Certes, ce changement est si prodigieux⁎,  
+Que mon esprit encor le dispute à mes yeux ;  
+Et cette verité tient si fort du mensonge,  
+Que mesme en la voyant, je croyois faire un songe :  
+Mais enfin ma raison a rêveillé mes sens,  
+Que tenoient assouppis des charmes⁎ si puissans ;  
+Et tout ce que j'ay veu n'a plus rien qui m'étonne.  
+On reçoit aisément l'éclat d'une Couronne ;  
+Mais quand il faut quitter un si bel ornement,  
+Un cœur ambitieux s'y resout rarement.  
+Pour cette qualité si pompeuse [263] & si chere,  
+L'Enfant assez souvent s'arme contre le Pere ;  
+Et le Frere envieux d'un pouvoir souverain,  
+Dispute quelquefois le Sceptre à son germain [264].  
+Ne presumez donc pas que la Reyne le quitte,  
+Cette haute vengeance, où sa voix vous invite,  
+Est sans doute un moyen quelle veut obtenir,  
+Pour s'asseurer le Trône, & pour s'y maintenir.  
+
+    CAMBISES.
+Mais on peut mépriser une injuste demande,  
+Et rétablir Ninus.  
+
+    ORONCLIDE.
+        Oüy, mais elle commande ;  
+Et dans l'estat qu'elle est, ne luy pas obeïr,  
+C'est pour sauver Ninus, nous mesmes nous trahir :  
+Elle est femme, il est vray, mais femme genereuse⁎,  
+Invincible, prudente, adroitte, & valeureuse ;  
+Et qui dés qu'elle auroit nos desseins reconnus,  
+Sans doute nous perdroit, aussi bien que Ninus.  
+Nous avons tous souffert⁎ qu'il luy rendit hommage,  
+Et cette tollerance [265] à present nous engage ?  
+Puis qu'enfin le silence est un consentement,  
+En cette occasion, qui tient lieu de serment.  
+
+    MERZABANE.
+Non, non, il n'est plus temps de marcher en arriere,  
+Nous sommes trop avant dedans cette carriere [266],  
+Il faut que desormais nous allions jusqu'au bout ;  
+Et puis qu'il est certain que la Reyne peut tout,  
+Ne nous immolons point, pour le salut d'un autre,  
+Et pour son interest, n'oublions point le nostre ;  
+Le trépas de Ninus, est le bien de l'Estat ;  
+Car pensant se remettre en son premier éclat,  
+Les refus qu'il aura de la part de la Reyne,  
+L'empliront aussi-tost de dépit & de haine,  
+Qui semant parmy nous mille divisions,  
+Combleront tout d'horreurs, & de confusions.  
+Par toute l'Assyrie, & par toutes les Villes,  
+On ne verra que meurtres & que guerre civiles,  
+Qui d'un si grand Empire, & tant d'Estats si beaux,  
+Ne feront à la fin, que de tristes tombeaux :  
+Oüy, je vous vois déjà déchirer vos entrailles,  
+Et des fleuves de sang arrouser [267] vos murailes,  
+Si nous ne prevenons par un coup rigoureux,  
+Mais necessaire enfin, des jours si malheureux.  
+
+    ZENOPHIRE.
+Hé bien, puis que si bien tu nous en dis les causes,  
+Passe jusqu'aux effets de ce que tu proposes ;  
+Et puis que de ce coup dépend nostre bon-heur,  
+Nous t'en voulons ceder, & la gloire & l'honneur.  
+
+    ORONCLIDE.
+Suivez ce sentiment qu'approuve Zenophire,  
+Puis que c'est le salut du Peuple & de l'Empire ;  
+Un long retardement n'apporte point de fruit,  
+Et le dessein qu'il trame est à demy [268] détruit ;  
+La valeur sert icy moins que la diligence [269].  
+
+    MERZABANE.
+Reposez-vous sur moy de ce coup d'importance ;  
+Puis que vous consentez, il va perdre le jour,  
+Victime infortunée, & d'Estat & d'Amour.  
+
+
+### SCENE IV.
+MERZABANE, ORONCLIDE.
+
+
+    MERZABANE.
+De ce pas, Oronclide, allez treuver la Reyne,  
+Vous la rencontrerez dans la salle prochaine ;  
+Elle vous veut parler, suivez aveuglement,  
+Et ses intentions & son commandement.  
+Je vay treuver Ninus, elle veut qu'il perisse ;  
+J'en vay faire en secret un sanglant sacrifice.  
+Cependant gardez-vous d'éventer [270] ce dessein ;  
+Et ne permettez pas qu'il vous sorte du sein,  
+Que dans ce mesme lieu vous ne voyez paroistre  
+Melistrate reduit en l'estat qu'il doit estre.  
+Il revient, & tantost [271], comme je l'ay pû voir,  
+On a fait choix de vous, pour l'aller recevoir.  
+Fin du Troisième Acte
+
+
+## ACTE IV.
+
+
+### SCENE PREMIERE.
+MELISTRATE, ORONCLIDE, PALMEDON, & suitte.
+
+
+    MELISTRATE.
+Grand Prince, l'ornement & l'honneur de l'Asie,  
+Je treuve de l'excés en vostre courtoisie ;  
+Tant de civilitez ont pour moy trop d'éclat,  
+Et c'est trop s'abaisser, pour un simple soldat.  
+C'estoit chez vous, Seigneur, qu'il vous falloit attendre  
+Les devoirs que je suis obligé de vous rendre,  
+Et non pas prevenir à ma confusion,  
+Et mes justes respects, & mon affection.  
+
+    ORONCLIDE.
+Ce n'est de mes devoirs que la moindre partie,  
+Et tout l'excés paroist en vostre modestie,  
+Puis que je ne pouvois prendre un plus digne employ,  
+Que d'aller recevoir & mon Maistre & mon Roy.  
+
+    MELISTRATE.
+Quoy, Seigneur, feignez⁎ vous de ne me pas connoistre ?  
+Ninus est vostre Roy, Ninus est vostre Maistre,  
+Je suis sa creature [272] ; & je suis trop peu vain⁎,  
+Pour usurper des droicts deus à mon Souverain.  
+Allez donc, Oronclide, allez luy rendre hommage,  
+Et ne me tenez pas un injuste langage,  
+Je vous suivray de pres ; & je vous feray voir,  
+Que je me sçay connoistre, & faire mon devoir.  
+
+    ORONCLIDE.
+Quand vous sçaurez aussi quel est l'estat des choses,  
+Et de mon procedé les raisons & les causes,  
+Je croy pareillement que je vous feray voir,  
+Que je me sçay connoistre, & faire mon devoir.  
+Je sçay bien, & j'advouë avec toute la Terre,  
+Que ce bras triomphant, que ce foudre de guerre [273],  
+Qui dispose à son gré du destin des Estats,  
+Ayme à les maintenir, & ne les pretend⁎ pas.  
+Je sçay bien que l'orgueil est un monstre qu'il brave,  
+Que l'ambition cede, & qu'elle est vostre Esclave ;  
+Mas si nous negligions un si genereux⁎ bras,  
+Apres tant de vaincus, il feroit des ingrats ;  
+Et nous meriterions d'expier nostre offence,  
+Dessous le mesme fer⁎ qui prit nostre defense,  
+Si l'Assyrie enfin ne donnoit aujourd'huy,  
+Son Sceptre & sa Couronne, à qui fut son appuy :  
+Oüy, Seigneur, croyez-moy, la saison est venuë,  
+Qu'on verra la vertu dignement reconnuë,  
+Et que sans concurrens, ainsi que sans rivaux,  
+Vous joüirez du fruit de vos nobles travaux.  
+La gloire que vos faits répandoient sur un autre,  
+Retournera sur vous, & sera toute vostre ;  
+Les Soldats dont l'ardeur secondoit vos projets,  
+De vos imitateurs, deviendront vos sujets ;  
+Et vostre authorité desormais sans seconde,  
+Vous rendra de vassal, le plus grand Roy du monde.  
+Enfin, Ninus est mort. Quoy, je vous vois pâlir ? [274]  
+Ah ! son Trône est un lieu que vous devez remplir ;  
+Les marques de son sang vous en tracent la voye,  
+Ne luy donnez donc point que des larmes de joye ;  
+Et ne soûpirez pas pour un heureux malheur,  
+Qui vous doit élever à ce haut rang d'honneur.  
+
+    MELISTRATE.
+Comment, Ninus est mort, & vous parlez de joye,  
+Vous voulez qu'en son sang ma tristesse se noye ?  
+Ah ! discours sans raison ! ô penser plein d'horreur !  
+La joye est insensée, où regne la fureur !  
+Ninus est mort ? ô Dieux ! & comment Oronclide,  
+L'a-t'on assassiné ? quel est son homicide [275] ?  
+Ce traistre, cet ingrat, respire-t'il le jour [276] ?  
+
+    ORONCLIDE.
+Oüy, Seigneur.  
+
+    MELISTRATE.
+    Qui ?  
+
+    ORONCLIDE.
+    Vous.  
+
+    MELISTRATE.
+    Moy ?  
+
+    ORONCLIDE.
+        Vous, ou plûtost l'Amour.  
+Oüy, ce cruel Enfant que vous avez fait naistre,  
+Est ce lâche assassin, cet ingrat, & ce traistre ;  
+Mais dont le crime enfin nous semble juste & doux,  
+Puis que ce qu'il nous oste, il le repare en vous.  
+
+    MELISTRATE.
+Quoy, l'Amour produit-il les effets de la haine ?  
+Mais quel est ce amour, & de qui ?  
+
+    ORONCLIDE.
+        De la Reyne.  
+
+    MELISTRATE.
+De la Reyne, Seigneur ? Ah ! ne m'éprouvez point,  
+Mon esprit n'est pas vain⁎ ny credule à ce poinct.  
+
+    ORONCLIDE.
+Il est vray toutefois.  
+
+    MELISTRATE.
+        Et peut-estre, Oronclide,  
+Vous croyez que je puis aymer cette perfide,  
+Et qu'une aveugle ardeur sera l'indigne prix  
+Du plus lâche attentat⁎ que l'on ait entrepris !  
+Est-il possible, ô Ciel ! que l'éclat de ma gloire,  
+Soit aujourd'huy soüillé d'une tâche si noire !  
+Et que l'ingratte ait crû, qu'un crime plein d'horreur,  
+Fut le degré⁎ d'un Trône, & la clef de mon cœur !  
+Non, non, je ne veux point d'un present si funeste ;  
+Loin de le souhaiter, mon ame le deteste ;  
+Et je croirois mon sort⁎ & plus doux & plus beau,  
+Si plûtost que le Trône, on m'offroit le tombeau.  
+Ah ! que ne suis-je mort au milieu des batailles,  
+Toute une armée en deüil eut fait mes funerailles ;  
+Je serois glorieux, & j'aurois le bon-heur,  
+D'avoir finy mes jours dedans le lit d'honneur [277] ;  
+Au lieu que par un sort⁎ horrible à ma memoire,  
+Je survis à mon Prince, & peut-estre à ma gloire.  
+
+    ORONCLIDE.
+Dites que par un sort⁎ aussi beau que charmant,  
+Vous survivez au Prince, & glorieusement,  
+Veu que par un effet dont l'Univers s'étonne⁎,  
+Le coup qui l'a détruit, vous laisse une Couronne ;  
+Et que pour ce bonheur qui dévroit vous charmer,  
+Il vous faut seulement vous resoudre d'aimer.  
+
+    MELISTRATE.
+Vous me connoissez mal, de me croire capable,  
+D'estre jamais atteint d'un feu⁎ si detestable.  
+Apprenez Oronclide, en cette occasion,  
+Que je suis sans amour, & sans ambition ;  
+Ce superbe⁎ appareil [278], qui trompe tant de Princes,  
+Qui rougit si souvent du sang de leurs Provinces,  
+Et ce faste orgueilleux, où l'on croit tant d'appas⁎,  
+Cache seulement l'homme, & ne l'honnore pas :  
+C'est la vertu qui fait les Maistres de la terre,  
+Et qui met leur grandeur à l'abry du tonnerre ;  
+C'est elle, dont l'effort aussi juste que doux,  
+Met les humbles au Trône, & les grands à genoux ;  
+Sans elle un Potentat [279] n'est qu'une belle feinte⁎,  
+Qu'une Idole qu'on flatte, à cause quelle est crainte ;  
+Tenant un Sceptre en main, il n'est qu'un corps orné ;  
+Il porte une Couronne, & n'est pas couronné.  
+
+    ORONCLIDE.
+Mépriser de la sorte une grandeur Royale,  
+C'est pratiquer sans doute une étrange⁎ Morale ;  
+L'estat le plus parfait où l'on puisse aspirer,  
+C'est d'atteindre à celuy qui nous fait adorer.  
+Des sujets, un Palais, un Sceptre, une Couronne,  
+Le Daix [280], & les grandeurs qu'un Empire nous donne,  
+Sont des poids trop pesans, pour ne pas renverser  
+Tout ce que vos raisons me pourroient opposer.  
+
+    MELISTRATE.
+Le Trône qu'établit le crime ou l'injustice,  
+A ses usurpateurs n'est qu'un grand precipice ;  
+L'Empire sans l'honneur ne fut jamais un bien ;  
+La Couronne est un poids, & le Sceptre n'est rien.  
+Ne m'alleguez donc plus de si lâches maximes,  
+Et ne me rendez pas complice de vos crimes.  
+Allez & trop long temps vous m'avez combattu,  
+N'esperez pas jamais d'ébranler ma vertu,  
+Ny que l'ambition fasse que je consente,  
+Qu'on reveste mon corps d'une pourpre⁎ sanglante,  
+D'une pourpre⁎ qu'a teinte en mille endroits divers,  
+Le sang du plus grand Roy qu'ait connu l'Univers.  
+Si malgré mes desseins, & contre mon envie,  
+J'ay pû causer la fin d'une si belle vie,  
+Qu'on sçache que bien loin d'estre son successeur,  
+De mon consentement, j'en seray le vengeur.  
+Ou si pour empescher le courroux qui m'enflâme,  
+On tranche de mes jours la mal-heureuse trame,  
+Pour nous venger tous deux en dépit de la mort,  
+C'est de toy, juste Ciel, que j'attends cet effort :  
+Arme en nostre faveur cette immortelle foudre [281],  
+Qui reduit les Palais & les Villes en poudre,  
+Ces flâmes, ces éclairs, & ce bras tout puissant,  
+Si propice & si prompte à venger l'innocent.  
+Ou si jamais, grands Dieux, vous me croyez capable  
+De souffrir⁎ sans horreur une offre si coupable,  
+Faites qu'auparavant que j'en vienne aux effets,  
+Que ma teste soit mise en butte [282] à tous vos traits⁎,  
+
+    ORONCLIDE.
+Voilà pour un bon-heur que ma voix vous annonce,  
+Une bien dédaigneuse & superbe⁎ réponce !  
+
+    MELISTRATE.
+Et voilà pour un Prince, & grand & genereux⁎,  
+Un office bien bas, bien lâche, & bien honteux !  
+Est-ce vous que je vois ? est-ce vous, Oronclide,  
+Qui me venez parler pour une parricide [283]?  
+N'est-ce point un Phantosme, ou quelque illusion,  
+Qui s'offrant à mes sens, fait cette impression [284] ?  
+C'est bien vous, si j'en crois les traits⁎ de ce visage ;  
+Mais qu'il est mal d'accord avec vostre courage :  
+Un si grand changement rend mon esprit confus ;  
+Et dans ce lâche estat, je ne vous connois plus.  
+
+    ORONCLIDE.
+Ce propos arrogant le fait assez paroistre,  
+Si dedans vostre orgueil vous m'aviez pû connoistre,  
+Vous parleriez d'un ton moins superbe⁎ & moins haut ;  
+Je vous puis envoyer du Trône à l'échafaut ;  
+D'un Arrest⁎ plus puissant, qu'un éclat de la foudre,  
+Mettre tout vostre orgueil & vos lauriers⁎ en poudre,  
+Et vous faire donner par la main d'un Bourreau,  
+Au lieu du Diadéme un funeste bandeau.  
+
+    MELISTRATE.
+Quel qu'il soit, quelque main mesme qui me l'appreste,  
+Sans crainte & sans horreur, j'abandonne ma teste ;  
+Et je l'estimeray beaucoup moins odieux,  
+Que celuy qui t'aveugle, & l'esprit & les yeux :  
+Oüy, lâche ambassadeur d'une horrible furie,  
+Et traistre à ton honneur, & traistre à ta patrie,  
+Tu peux executer ton barbare dessein,  
+Et redire à l'objet⁎ qui te l'a mis au sein,  
+Qu'il n'est point de tourment, ny de mort si cruelle,  
+Qui ne me soit plus douce & plus aimable⁎ qu'elle.  
+
+    ORONCLIDE.
+Gardes, qu'on le conduise à mon appartement.  
+
+    PALMEDON, *mettant la main sur son espée.*
+Ah ! Seigneur.  
+
+    MELISTRATE.
+    Palmedon.  
+
+    ORONCLIDE.
+        Arrestez, autrement...  
+
+    PALMEDON.
+On me fera mourir, c'est ce que je demande.  
+
+    MELISTRATE.
+Arrestez, je le veux, & je vous le commande ;  
+Je vay suivre Ninus; & c'est beaucoup pour moy,  
+Qu'on répande mon sang, sur celuy de mon Roy.  
+
+
+### SCENE II.
+
+    ORONCLIDE *seul.*
+O Fureurs ! ô desirs ! ô pouvoir d'une Reyne !  
+En cette occasion, que vostre ordre me gesne⁎ !  
+Détruire Melistrate ? ah lâche ! quoy, veux-tu  
+Te détruire toy-mesme, & trahir ta vertu ?  
+Ah ! revien ma raison, & fay mieux ton office,  
+Retire mon honneur des bords du precipice ;  
+Et malgré ma foiblesse en un pas si glissant,  
+Fay moy vivre equitable [285], ou, mourir innocent.  
+
+
+### SCENE III.
+MELISTRATE, ORONCLIDE, PRAZIMENE, PALMEDON, & les Gardes.
+
+
+    MELISTRATE *de derriere le Theatre.*
+Ah !  
+
+    ORONCLIDE.
+    D'où vient cette voix ? quel est ce bruit ? [286]  
+
+    PRAZIMENE.
+        Perfide,  
+Voilà ce qui t'est deu.  
+
+    ORONCLIDE.
+    Qu'est-ce donc ?  
+
+    MELISTRATE. 
+        Oronclide.  
+
+    PRAZIMENE *regardant Melistrate.*
+Justes Dieux ! qu'ay- je fait ?  
+
+    MELISTRATE.
+        Je ne suis que blessé,  
+Acheve, acheve lâche, un coup mal commencé ;  
+Tu me serois cruel, estant plus pitoyable [287],  
+Frappe, éteints dans mon sang les jours d'un miserable,  
+Et songe, quand le sort⁎ attaque un mal-heureux,  
+Que le coup qui le tuë, est le moins rigoureux.  
+
+    PRAZIMENE.
+Ah ! ne l'accuse point, voicy le bras coupable,  
+Qui vient d'executer un coup si detestable.  
+Va, va, lâche instrument d'une aveugle fureur,  
+Abandonne ma main, ton fer⁎ me fait horreur ;  
+Toutesfois déloyal, vien punir une ingratte,  
+Vien passer dans mon sein, & venger Melistrate,  
+Vien percer...  
+
+    ORONCLIDE.
+    Ah ! Madame, arrestez,  
+
+    PRAZIMENE.
+        Laisse moy,  
+Ou plûtost venge un coup qui s'adressoit à toy ;  
+Oüy, oüy, perce ce cœur, qu'une ardeur legitime  
+Armoit pour la vertu, mais qui commet un crime,  
+N'ayant pû discerner dans son aveuglement,  
+Le sein d'un ennemy, de celuy d'un Amant.  
+Non, ce coup t'appartient par une juste haine,  
+Puny la déplorable & triste Prazimene,  
+Qui pensant te sauver, ou du moins secourir,  
+Aide à tes ennemis à te faire perir.  
+
+    MELISTRATE.
+Que vois-je ? est-ce un effet qu'ayent produit quelques charmes⁎ ?  
+Est-ce vous ma Princesse ? ah ! laissez-là ces armes,  
+Et faites moy perir d'un coup plus glorieux ;  
+Pour me percer le cœur, il suffit de vos yeux,  
+Sans qu'aucun autre effort serve à vostre colere,  
+Ils n'ont qu'à témoigner que j'ay pû vous déplaire ;  
+Et bien tost ma douleur reparera le tort,  
+Que ce fer⁎ vous a fait, en diferant⁎ ma mort.  
+
+    PRAZIMENE.
+Ah ! qu'il faut bien plûtost que la mienne repare  
+L'outrage qu'à regret vous a fait ce barbare ;  
+Et que mes yeux confus par des traits⁎ plus humains,  
+Monstrent qu'ils ne sont pas complices de mes mains ;  
+D'un sang qui m'est si cher, ces cruelles sont teintes,  
+Mais croyez que mon cœur en ressent les atteintes,  
+Et que dans le tombeau je vous aurois suivy,  
+Si le jour, par ma main, vous eut esté ravy.  
+Non, je ne venois pas pour un coup si perfide,  
+Je voulois vous sauver, en perdant Oronclide,  
+Que je sçavois chargé d'une commission,  
+Fatale à vos desirs, comme à nostre union.  
+Mais peut estre tandis que ce remords vous flate,  
+Mon imprudence icy hazarde⁎ Melistrate ;  
+Et je ne songe pas qu'il faut à son secours,  
+Employer d'autres soins, que de simples discours.  
+
+    MELISTRATE.
+Ah ! qu'ils sont souverains ! & que ces doux Oracles,  
+Font en un meme temps deux insignes⁎ miracles !  
+Qu'ils font en ma faveur d'agreables efforts !  
+Qu'ils sçavent promptement guerir l'ame & le corps !  
+Et que mesme la Mort a peine de pretendre⁎  
+Aucun droict sur un cœur que vous daignez defendre !  
+Dés lors que vous avez commencé de parler,  
+Mon sang, chere Princesse, a cessé de couler ;  
+Et comme s'il eut veu que vous blâmiez sa course,  
+Il n'ose par respect s'éloigner de sa source ;  
+Mais inutilement vous avez diferé⁎  
+Le trépas que j'attends, & qui m'est preparé ;  
+Je vay mourir, Madame, & par la main d'un autre,  
+Je ne meritois pas de mourir de la vostre ;  
+Et je treuve pourtant mon destin assez doux,  
+En ce poinct pour le moins, que je mourray pour vous.  
+
+    PRAZIMENE.
+Vous mourrez, dites-vous, & par la main d'un autre ?  
+Elle confondra donc mon sang avec le vostre ;  
+Et le trait⁎ de la Mort agissant à son tour,  
+Fera pour nos esprits, ce qu'auroit fait l'Amour :  
+Oüy, divisant nos corps, il unira nos ames,  
+Ses funestes glaçons n'éteindront pas nos flâmes ;  
+Et le fleuve d'oubly [288] perdra sa qualité,  
+Par ma perseverance & ma fidelité.  
+Mais dites-moy de grace, avant que m'y resoudre,  
+De quel bras si puissant doit partir cette foudre ?  
+
+    MELISTRATE.
+De celuy d'Oronclide & de Semiramis.  
+
+    ORONCLIDE.
+Ah ! ne me comptez plus entre vos ennemis.  
+Je me rends, Melistrate, & je mets bas les armes,  
+Je cede à vos vertus, aussi bien qu'à vos charmes⁎ ;  
+Et mon cœur qui s'estoit lâchement démenty⁎,  
+Quitte un projet injuste, & prend vostre party.  
+Ce monstre si fatal aux plus nobles courages,  
+Et qui s'offre à nos sens sous mille faux visages,  
+L'ambition d'abord avecque son poison,  
+Avoit trompé mes sens, & seduit ma raison ;  
+L'Amour en mesme temps s'est rendu son complice ;  
+Et comme il est adroit & remply d'artifice,  
+Il déguisoit mon crime avecque tant d'appas⁎  
+Que mon esprit charmé⁎, ne le connoissoit pas.  
+Mais maintenant, Seigneur, que vos vives lumieres  
+Ont dissipé la nuit qui couvroit mes paupieres,  
+Qu'à vostre auguste⁎ aspect le bandeau m'est tombé,  
+Et m'a rendu le jour qu'il m'avoit dérobé,  
+Que mon ambition cesse en vostre presence,  
+Perisse mon amour avec mon esperance,  
+Et perisse Oronclide avec Semiramis,  
+Si jamais on le voit entre vos ennemis.  
+
+    MELISTRATE.
+Qu'entends-je, ô justes Dieux ! que l'on vous doit d'hommages,  
+D'avoir remis en l'un de vos plus beaux ouvrages,  
+Que le vice tenoit lâchement abattu,  
+Les nobles sentimens qu'inspire la vertu !  
+Que je vous dois d'encens, & que j'auray de gloire,  
+Si ma captivité cause cette victoire,  
+Et si je contribuë à ce grand changement,  
+Lors que j'en attendois tout autre evenement !  
+Oüy, je n'en doute plus, je vois sur ce visage,  
+De vostre repentir un trop clair témoignage.  
+J'oy du bruit, c'est la Reyne.  
+
+    ORONCLIDE. 
+        Ah ! sortons de ces lieux,  
+Il n'est pas temps encore de parestre à ses yeux ;  
+Sortons ; & vous verrez par un trait⁎ sans exemple [289],  
+D'un juste repentir, une preuve assez grande [290].  
+
+
+### SCENE IV.
+SEMIRAMIS, MERZABANE.
+
+
+    SEMIRAMIS.
+Ouy, sans vous je n'avois l'Empire qu'à demy [291],  
+Le trépas de Ninus, a mon Trône affermy ;  
+Par un effet si prompt, j'ay connu vostre zele,  
+Et mesme en trahissant, que vous m'estiez fidelle :  
+Mais dites-moy comment & quel fut vostre abord ?  
+Et de quel front enfin il a receu la mort.  
+
+    MERZABANE.
+D'un visage constant, & d'un courage ferme,  
+Il a veu de ses jours le déplorable terme ;  
+Et m'a fait reconnoistre, en mourant sans effroy,  
+S'il vivoit en sujet, qu'il expiroit en Roy.  
+Dés lors qu'il eut quitté vostre auguste⁎ presence,  
+Apres avoir cedé ses droicts & sa puissance,  
+Il se retira seul dans son appartement,  
+Où je le fis sans bruit investir promptement ;  
+Et laissant la plupart de mes gens à la porte,  
+J'entre ; Ninus alors me parle de la sorte.  
+Qu'est-ce donc, Merzabane, & quel est vostre employ ?  
+Desire-t'on encor quelque chose de moy ?  
+Quelle commission en ce lieu vous ameine ?  
+Mon devoir, repliquay-je, & l'ordre de la Reyne ;  
+Vous-mesme vous m'avez commandé d'obeir.  
+Il est vray, répond-il, garde de la trahir,  
+Toutes ses volontez sont des Loix qu'il faut suivre.  
+Et bien j'obey, dis-je ; & toy cesse de vivre.  
+Lors⁎ ma main le frappant, il a dit seulement ;  
+Merzabane, je meurs, & peris justement ;  
+Tu n'as que d'un moment prevenu mon envie,  
+Puis qu'en perdant le Sceptre, il faut perdre la vie.  
+Ce grand Prince, à ces mots, est enfin expiré ;  
+Et peu troublé du coup, je me suis retiré.  
+
+    SEMIRAMIS.
+C'est assez, nous pourrons, ainsi que je l'espere,  
+Recompenser au Fils, les services du Pere,  
+Le voicy de retour.  
+
+
+### SCENE V.
+SEMIRAMIS, MERZABANE, ORONCLIDE, & suitte.
+
+
+    SEMIRAMIS.
+        He bien, qu'avez-vous fait ?  
+Nostre projet enfin aura-t'il son effet ?  
+Melistrate vient il ? & dois-je à sa personne  
+Preparer un supplice, ou bien une Couronne ?  
+Hesite-t'il au choix, ou d'un Sceptre, ou des fers⁎ ?  
+
+    ORONCLIDE.
+Non ; de ces deux presens à ce grand cœur offerts,  
+Le premier luy déplaist ; & sa haute constance,  
+Regarde le second avec indifference :  
+Enfin il m'a fait voir, qu'il aimoit beaucoup mieux,  
+Estre Esclave innocent, que Monarque odieux.  
+
+    SEMIRAMIS.
+Quoy, loin de m'adorer, l'insolent me dédaigne !  
+Ah perfide ! C'est trop, tu sçauras que je regne ;  
+Et puis que tes mépris ont osé m'outrager,  
+Tu ne me verras pas moins prompte à me venger.  
+Tu mourras, orgueilleux ; & ton ame hautaine,  
+Qui brave mon amour, éprouvera ma haine ;  
+Tu mourras. Ah, que dis-je ? ô vengeance ! ô courroux !  
+Haine, mépris, amour, où me reduisez-vous ?  
+Où me reduisez-vous, imperieuse flâme ?  
+Si Melistrate meurt, que deviendra mon ame ?  
+Les coups qui la tiendront, ne m'atteingnent-ils pas ?  
+Sa mort n'est-elle point l'arrest⁎ de mon trépas ?  
+Et quoy que je propose en ma fureur extréme,  
+Le puis-je perdre enfin, sans me perdre moy-mesme ? [292]  
+Non, qu'il vive. Mais quoy ? je luy suis en horreur,  
+Il faut donc, il faut donc qu'il sente ma fureur :  
+Oüy, oüy, vengeons sur luy l'outrage par l'outrage,  
+Donnons cet insolent pour victime à ma rage,  
+Enterrons, & la cause & l'objet⁎ de mes feux⁎,  
+Et puis, s'il est besoin, perdons-nous avec eux.  
+Son plaisir fait mon deüil, son repos fait ma peine,  
+Son espoir fait ma crainte, & son amour ma haine ;  
+Et ce qui plus [293] m'outrage & blesse mes esprits,  
+C'est que seule je suis l'objet⁎ de ses mépris.  
+Faisons donc reconnoistre à cette ame arrogante,  
+Que Melistrate est foible, & moy toute puissante ;  
+Que tout me doit ceder, que mes vœux sont des Loix,  
+Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.  
+
+    [ORONCLIDE.] 
+Ne diferez⁎ donc point, que vostre haine éclate,  
+En Oronclide icy vous trouvez Melistrate,  
+Son ame vit en moy, mon ame vit en luy,  
+Mesme cœur, mesme esprit nous anime aujourd'huy ;  
+De qui que le sang coule, on le peut dire nostre,  
+La fortune⁎ de l'un, se communique à l'autre ;  
+Et le Ciel fait en nous de si justes accords,  
+Que vous frappez son cœur, si vous frappez mon corps.  
+
+    MERZABANE.
+A-t'il perdu le sens [294] ?  
+
+    SEMIRAMIS.
+        Que dit ce temeraire ?  
+
+    ORONCLIDE.
+Je dis ce que je dois, & que vous devez faire,  
+Plûtost que d'étouffer ma gloire & mon honneur,  
+Par les lâches effets d'un conseil suborneur [295] ;  
+Mais avant desormais qu'on m'y puisse resoudre,  
+Lancez, lancez sur moy les carreaux de la foudre [296],  
+Dieux justes, Dieux vengeurs, plûtost que de souffrir⁎,  
+Qu'ingrat à vos faveurs, je les laisse perir.  
+Vous avez attaché mon honneur à ma vie,  
+Que la perte de l'un, soit de l'autre suivie ;  
+Ou si chacun des deux doit perir à son tour,  
+Au moins avant l'honneur, que je perde le jour.  
+
+    SEMIRAMIS.
+C'est donc de la façon que je suis obeïe,  
+L'Amant m'a méprisée, & l'Amy m'a trahie ;  
+Bien, bien, pour ne nous pas satisfaire à demy [297],  
+Nous perdrons tout ensemble, & l'Amant & l'Amy.  
+Qu'on l'oste de mes yeux, Gardes qu'on s'en saisisse.  
+
+    MERZABANE.
+Non, souffrez⁎ qu'à vos yeux j'acheve son supplice ;  
+Et que par un prodige⁎ aussi grand que nouveau,  
+En son Pere à present il treuve son Bourreau.  
+Puis qu'il s'est départy de son obeïssance,  
+Qu'il renonce l'ingrat encore [298] à sa naissance ;  
+S'il tient de moy le jour, par un contraire effort,  
+Je sçauray luy ravir & luy donner la mort.  
+
+    ORONCLIDE.
+Suy, suy, Pere inhumain, tes sanglantes victimes,  
+Qu'un coup si genereux⁎ [299] couronne tous tes crimes,  
+Tu pourras bien encor adjoûter sans effroy  
+Le meurtre de ton Fils, à celuy de ton Roy.  
+Ah ! si tu n'avois pas ce sacré caractere,  
+Qui veut que je t'épargne & que je te revere⁎,  
+Que ma main de bon cœur laveroit en ton sang,  
+Cet immortel affront que tu faits à ton rang !  
+Et suivant les ardeurs d'un zele legitime,  
+D'un Prince mal-heureux, te rendroit la victime.  
+Mais puis que ce respect, mon destin, & les Dieux,  
+Ne me permettent pas un coup si glorieux,  
+Je m'en vay de tout poinct contenter ton envie,  
+Et te rendre, barbare, & mon sang & ma vie.  
+Vien donc ; quelle raison rend ton courroux si lent ?  
+Vien me donner la mort.  
+
+    SEMIRAMIS.
+        Ah, qu'il est insolent !  
+Qu'il est audacieux ! Qu'on l'emmeine.  
+
+    MERZABANE.
+        Ah, je tremble !  
+
+
+### SCENE VI.
+SEMIRAMIS, MERZABANE.
+
+
+    SEMIRAMIS.
+Il confond aujourd'huy nos interests ensemble ;  
+Et l'arrogant oublie en son lâche projet,  
+Et qu'il est vostre Fils, & qu'il est mon sujet.  
+Soyez donc partisan de ma juste colere,  
+Il cesse d'estre Fils, vous cessez d'estre Pere,  
+Il nous a reproché le meurtre de son Roy,  
+Il est vostre censeur [300], vengez-vous, vengez-moy ;  
+Puis que pour un ingrat sa passion éclate,  
+Commençons par sa mort, à punir Melistrate;  
+Attendant que le temps plus propice à nos vœux,  
+Nous donne les moyens de les perdre tous deux.  
+Fin du Quatriéme Acte.
+
+
+## ACTE V.
+
+
+### SCENE PREMIERE.
+PALMEDON, MELISTRATE.
+
+(Sortant chacun d'un costé differend.)
+
+
+    MELISTRATE.
+Palmedon...  
+
+    PALMEDON.
+        Ah, Seigneur ! retirez-vous de grace ;  
+Ignorez vous encor qu'icy tout vous menace ?  
+Et que par vos mépris, une Reyne en courroux,  
+Brûle de se venger d'Oronclide & de vous ?  
+Pour un mesme transport⁎, ce Prince est à la chaisne [301] ;  
+Evitez ce mal-heur.  
+
+    MELISTRATE.
+        Ah ! C'est ce qui m'ameine.  
+Ne m'importune pas d'un si lâche conseil ;  
+Par un mesme chemin, je cherche un sort⁎ pareil.  
+Quoy, veux-tu que d'une ame aussi foible qu'ingrate,  
+Je démente⁎ le cœur⁎ qu'eut toûjours Melistrate ?  
+Veux-tu que j'abandonne un amy genereux⁎,  
+Qui pour mes interests, s'est rendu mal-heureux ?  
+Quand il paroit [302] pour moy, veux-tu que je me cache ?  
+Ah, non, non, Palmedon, je ne suis pas si lâche,  
+Il faut que de tout poinct nos destins soient égaux,  
+Que nos biens soient communs aussi bien que nos maux ;  
+Et comme ce grand cœur a pris part à mes peines,  
+Que je partage aussi la gloire de ses chaisnes.  
+
+    PALMEDON.
+Mais, Seigneur.  
+
+    MELISTRATE.
+        Tout obstacle est icy superflu,  
+On delibere en vain sur un poinct resolu.  
+Empescher les effets d'un coup si legitime,  
+C'est pour sauver ma vie, exposer mon estime [303] ;  
+Et par le lâche effet d'un conseil suborneur [304],  
+Pour épargner mon sang, prodiguer [305] mon honneur.  
+Il a promis ma teste, & pour elle il s'immole,  
+Il faut par mon retour dégager [306] sa parole ;  
+Et bravant mes malheurs, comme nos ennemis,  
+Le tirer noblement des fers⁎ où je l'ay mis.  
+
+    PALMEDON. 
+Dites que vous allez par des ardeurs si vaines⁎,  
+Vous perdre imprudemment & resserrer ses chaisnes :  
+Dites que par ce prompt & mal-heureux retour,  
+Vous allez ruiner l'espoir de vostre amour.  
+Voyez à quel peril ce zele vous hazarde⁎.  
+Forcerez-vous tout seul les soldats de la garde ?  
+Et si vous esperez d'un Peuple plein d'effroy,  
+Fera-t'il plus pour vous, qu'il n'a fait pour son Roy ?  
+Ah ! ne vous fiez pas à ce monstre à cent testes,  
+Qui sçait mieux exciter, qu'appaiser les tempestes ;  
+Et laissez faire aux Dieux, qui font tout sagement,  
+Ce qu'icy vostre ardeur tente inutilement.  
+De plus, ce qui me flate en cette conjoncture,  
+C'est qu'il vient d'arriver une étrange⁎ aventure ;  
+Et dont je me promets un bon evenement,  
+Si vous ne le troublez par vostre empressement.  
+
+    MELISTRATE.
+Hé bien, je le croiray ; mais acheve.  
+
+    PALMEDON.
+        Oronclide,  
+D'un bras qu'arma le sort, & que la vertu guide,  
+A blessé Merzabane, & ce grand coup est tel,  
+Que d'un commun accord, on le juge mortel.  
+
+    MELISTRATE.
+Mais il est dans les fers⁎, & je ne puis comprendre  
+Comment ce coup s'est fait.  
+
+    PALMEDON.
+        Je m'en vay vous l'apprendre.  
+Aussi-tost que la Reyne eut montré son courroux  
+Contre ce cher amy, qui s'exposa pour vous,  
+Merzabane craignant l'effet de sa colere,  
+Feignit⁎ de renoncer aux tendresses d'un Pere ;  
+Et par ce tour adroit, le voulant conserver,  
+Il s'offrit de le perdre, afin de le sauver.  
+La Reyne le voyant si plein d'ire [307] et de zele,  
+Crût ne pouvoir choisir une main plus fidelle,  
+Que celle qui déja sans crainte & sans horreur  
+Avoit sacrifié Ninus à sa fureur.  
+Cependant Oronclide en une tour obscure  
+Se resout à la mort qu'il attend sans murmure ;  
+Et d'un visage égal témoigne qu'il est prest,  
+Comme de la souffrir⁎, d'en entendre l'arrest⁎.  
+Mais sans doute les Dieux touchez de sa constance  
+Ont voulu faire en luy triompher l'innocence,  
+Et montrer par un rare & juste evenement,  
+Qu'une haute vertu succombe rarement.  
+Ils ont pour cet effet permis qu'en cet orage  
+Un soldat resolu, mais d'un noble courage,  
+Ait esté par bon heur à sa garde commis,  
+Du choix de Merzabane & de Semiramis.  
+Ce Soldat le voyant au bord du precipice,  
+Et ne pouvant souffrir⁎ une telle injustice,  
+S'est enfin découvert⁎ ; & luy parlant sans fard,  
+En cette extremité l'a fourny d'un poignard,  
+Qui dans ce mesme temps a réveillé l'envie,  
+Ou de venger sa mort, ou de venger sa vie.  
+Oronclide est encor dans un penser si doux,  
+Quand il entend un bruit de clefs & de verroux ;  
+Le soldat se retire, & luy dans le silence,  
+Attend le fer⁎ en main, un objet⁎ qui s'avance ;  
+Et que dans son desordre il ne peut discerner,  
+Par la clarté qu'il porte, & qu'il vient luy donner.  
+Ne se figurant rien alors que de sinistre,  
+Il croit que de sa mort, c'est l'infame Ministre,  
+Qui vient executer l'ordre qu'il a receu  
+Du plus cruel esprit que l'Enfer ait conceu.  
+Enfin le voyant proche, il s'emporte & s'élance  
+Sur celuy qui l'aborde avecque violence ;  
+Et sans se relâcher en son juste dessein,  
+Luy plonge avec vigueur le poignard dans le sein.  
+Le mal-heureux s'écrie, Ah ! que fais-tu, prophane [308] ?  
+Oronclide à la voix reconnoit Merzabane ;  
+Et croyant avoir fait un crime plein d'horreur,  
+Il veut contre soy-mesme employer sa fureur.  
+Le blessé se saisit du poignar, & l'arrache ;  
+L'homicide gemit, & se plaint sans relâche,  
+Dedans [309] l'erreur qu'il est d'avoir ouvert le flanc,  
+Qu'il avoit crû toûjours la source de son sang.  
+Mais Merzabane enfin, sans songer à l'outrage  
+Qu'il en avoit receu, calme un peu cet orage ;  
+Et lors⁎ luy declarant qu'il n'estoit pas son Fils,  
+Ses sens de furieux, devinrent interdits⁎.  
+Puis sortant tout à coup de ce desordre étrange⁎,  
+En curiosité ce grand trouble se change ;  
+Il demande, il supplie, il presse pour sçavoir  
+Qui l'avoit mis au jour, qu'il croyoit luy devoir.  
+Mais voulant ménager la force qui luy reste,  
+Pour ne pas rendre en vain ce secret manifeste [310],  
+Merzabane affoibly, dit qu'il est à propos,  
+Tant pour son interest, comme pour son repos,  
+Que ce discours se fasse & se preuve [311] à la Reyne ;  
+Oronclide consent, Merzabane l'y meine ;  
+Et je croy qu'apresent ils sont à son lever,  
+Pour faire ce recit, qu'on doit y achever.  
+C'est ce que depuis peu j'ay sceu du soldat mesme  
+Qui servit Oronclide dans ce desordre extréme ;  
+Et nous fera tirer en cette occasion  
+Un ordre merveilleux de sa confusion,  
+Faisant d'oresnavant, par la perte d'un autre,  
+Le salut d'Oronclide, aussi bien que le vostre.  
+Ne precipitez rien, attendez cet effet,  
+Et bien tost vostre esprit se verra satisfait,  
+Si vostre desespoir ne le rend inutile.  
+Allez, Seigneur, allez vous rendre à vostre azile⁎,  
+Tandis qu'un peu de nuit que va chasser le jour,  
+Vous y permet encor un facile retour.  
+
+    MELISTRATE.
+Non, non, que ma fortune⁎ ou soit pure ou meilleure,  
+Qu'Oronclide soit libre, ou qu'il vive ou qu'il meure,  
+Je veux aller montrer à la Reyne aujourd'huy,  
+Que je veux vivre enfin, ou mourir avec luy.  
+Elle vient, je l'entends, allons à sa rencontre.  
+
+    PALMEDON.
+Il n'est pas temps encor que ce grand cœur⁎ se monstre,  
+Ne la surpenez point, & donnez un moment  
+Aux premieres chaleurs de son ressentiment :  
+Vostre amy la va mettre en un assez grand trouble,  
+Sans que hors de saison [312] vostre abord le redouble.  
+
+    MELISTRATE.
+Hé bien, d'un peu de temps diferons⁎ cet effort ;  
+Mais ce jour doit conclure ou ma vie ou ma mort.  
+
+
+### SCENE II.
+SEMIRAMIS, MERZABANE, ORONCLIDE, PRAZIMENE, & suitte.
+
+
+    SEMIRAMIS.
+Que demande un perfide, & qu'est-ce qu'il espere ?  
+Vient-il joindre mon sang, à celuy de son Pere ?  
+Par un si triste objet⁎ pense-t'il m'émouvoir ?  
+Vient-il braver ma haine, ou montrer son pouvoir ?  
+Croit-il qu'un parricide [313] excuse son audace ?  
+
+    ORONCLIDE.
+Non, non, je veux ma mort.  
+
+    MERZABANE.
+        Et j'implore sa grace.  
+
+    SEMIRAMIS.
+Comment vous suppliez pour qui vous fait perir ?  
+Sauverez-vous la vie, à qui vous fait mourir ?  
+A qui vous fut cruel, serez-vous pitoyable [314] ?  
+C'est un Fils, il est vray, mais un Fils detestable,  
+Mais un monstre plûtost que l'Enfer a vomy,  
+Et vostre plus barbare & mortel ennemy ;  
+Il faut de vostre sang retrancher ce prodige⁎,  
+Arracher cette branche, indigne de sa tige ;  
+Et foudroyer enfin un si funeste fruit,  
+Qui dément⁎, & qui perd l'arbre qui l'a produit.  
+
+    MERZABANE.
+Ah ! Madame, sauvez, non pas un parricide [315],  
+Mais bien la vertu mesme, en sauvant Oronclide,  
+Mais un Fils genereux⁎ que le sort⁎ m'a donné,  
+Et qui meriteroit de se voir couronné ;  
+Mais un Fils, ou plûtost un illustre prodige⁎,  
+Une branche admirable & digne de sa tige,  
+Une excellente fleur, adorable fruit,  
+Qui sera refleurir l'arbre qui l'a produit.  
+
+    SEMIRAMIS.
+Mais priant pour ce Fils, vous me parlez d'un autre.  
+
+    MERZABANE.
+Helas ! il n'est pas mien !  
+
+    SEMIRAMIS.
+        Comment ? il n'est pas vostre !  
+
+    MERZABANE.
+Non.  
+
+    SEMIRAMIS.
+    De qui donc ?  
+
+    PRAZIMENE.
+    Bons Dieux !  
+
+    MERZABANE.
+        Vous allez tout sçavoir.  
+
+    PRAZIMENE *à part.*
+Sans toy, ses actions le faisoient assez voir.  
+
+    MERZABANE.
+Lors⁎ que le grand Ninus, ô fatale memoire !  
+Ozay-je prononcer un nom si plein de gloire,  
+Moy qui suis l'execrable & perfide meurtrier [316]  
+Du Heros, qui jamais l'ait porté le premier ?  
+Lors, dis-je, que Ninus triomphant dans les armes,  
+Fut vaincu par vos yeux, & soûmis à vos charmes,  
+Deux ans auparavant, une jeune beauté,  
+Avoit à ce grand cœur ravy la liberté ;  
+Et quoy que dans la pourpre⁎ elle ne fut pas née,  
+Elle oza bien pretendre⁎ un Royal Hymenée⁎ ;  
+Son dessein reüssit, elle l'y disposa,  
+Et malgré nos conseils, ce Prince l'épousa.  
+Mais cette ardeur si prompte, & si démesurée,  
+Passa comme un éclair, & n'eut point de durée ;  
+Car au poinct de produire un fruict de son amour,  
+En lui donnant la vie, elle perdit le jour.  
+Presqu'en ce mesme temps, un mien Fils prit naissance,  
+Ninus estoit absent, j'avois toute puissance ;  
+De sorte que je pûs, sans que l'on en sceut rien,  
+Supposer [317] mon Enfant à la place du sien,  
+Esperant quelque jour de luy faire connoistre,  
+Qu'il tenoit de moy seul sa grandeur & son estre ;  
+Et qu'il devoit enfin dans les occasions,  
+Recompenser mes soins, & mes affections.  
+Mais peu de temps apres, la Fortune⁎ inconstante,  
+Détruisit mes projets, & trompa mon attente ;  
+Car à peine mon Fils dans la pourpre⁎ parut,  
+Que la bizarre [318] fit aussi tost qu'il mourut ;  
+Quoy qu'avec luy perit ma plus chere esperance,  
+Mon deüil fut toutesfois moindre que ma constance ;  
+Et je me consolay dans mon adversité,  
+De celuy que le Sort⁎ ne m'avoit pas osté.  
+Comme il fut plein de cœur⁎, aussi bien que d'adresse,  
+J'eus pour luy du depuis [319] beaucoup plus de tendresse ;  
+Et l'inclination⁎ produisit les effets,  
+Qu'au lieu de mon amour, la Nature auroit faits.  
+J'aimay donc cet Enfant, & c'estoit Oronclide,  
+Dés ses plus jeunes ans, il parut un Alcide [320] ;  
+Et les vices divers dont son cœur triompha,  
+Sont les monstres affreux que ce Prince étouffa ;  
+Apres tant de travaux si dignes de memoire,  
+C'est en moy qu'il acheve & ses faits & sa gloire ;  
+Car de tant d'ennemis dont il fut combattu,  
+J'estois le plus fatal à sa haute vertu.  
+Il ne prit toutesfois jamais part à mes crimes,  
+Il rejetta toûjours mes cruelles maximes,  
+Puis que son coup helas, plus juste que le mien,  
+En répandant mon sang, n'a vengé que le sien.  
+Oüy, le Fils a vengé le trépas de son Pere ;  
+Mais il vous reste encor une vengeance à faire :  
+Enfin pour expier tous les maux que je fis,  
+Vengez-vous de tous ceux qu'a soufferts⁎ vostre Fils ;  
+Mais il n'est pas besoin que vostre foudre éclate,  
+Car je sens que la mort vous venge, & Melistrate :  
+Ce qui me reste à dire avant que d'expirer,  
+C'est que ce cher Amant, qui vous fait soûpirer,  
+Est vostre fils, Madame.  
+
+    ORONCLIDE.
+        O Dieux ! quelle aventure !  
+
+    MERZABANE.
+Et si vous consultez la voix de la Nature,  
+Vous sçaurez qu'en ces feux⁎ dans vostre ame excitez,  
+Vostre sang agissoit plus que ses qualitez.  
+La nuit qui vous cousta tant de sang & de larmes,  
+Quand Thermodonte vient s'immoler à vos armes,  
+Me servant de desordre & de l'occasion,  
+J'enlevay cet obstacle à mon ambition ;  
+Je déguisay son nom, ainsi que sa naissance ;  
+Et quelqu'un que j'avois de mon intelligence [321],  
+Le faisant élever en des lieux peu connus,  
+Par mon ordre, obscurcit le beau sang de Ninus.  
+Mais enfin ce grand cœur a forcé tout obstacle,  
+Je vous le rends.  
+
+    PRAZIMENE.
+        O Ciel ! qui croira ce miracle ?  
+
+    MERZABANE.
+Je dois estre croyable [322] en l'estat où je suis.  
+Suppléez [323], Oronclide, à ce que je ne puis ;  
+Rappellez vostre Frere, & faites que la Reyne,  
+Au dela de mes jours n'étende point sa haine ;  
+Et si j'ose former encor quelques souhaits,  
+Souffrez⁎ que hors d'icy j'aille mourir en paix.  
+
+    SEMIRAMIS.
+Va, meurs, d'un peu de temps devance ta complice,  
+Le trépas pour tous deux est un bien doux supplice :  
+Heureuse, si ce cœur pouvoit estre percé  
+Par les mains de ce Fils, dont les yeux m'ont blessé.  
+Ce sacrifice enfin...  
+
+
+### SCENE III.
+MELISTRATE, SEMIRAMIS, PRAZIMENE, ORONCLIDE, & suitte.
+
+
+    MELISTRATE. 
+        Sera bien legitime ;  
+Qu'on appreste l'Autel, en voicy la victime,  
+Qui loin de faire effort à se justifier,  
+Vient soy-mesme s'offrir, & se sacrifier.  
+Commandez seulement, ma main est toute preste ;  
+Et ce fer⁎, pour insigne⁎ & derniere conqueste,  
+Vous va donner un cœur, mais un cœur tout sanglant,  
+Que vous n'avez pû voir amoureux ny brûlant ;  
+Mais un cœur où l'amour de la vertu reside,  
+Qui veut mourir pour elle, & sauver Oronclide,  
+Qui bien plus genereux⁎, que vous ne l'esperiez,  
+S'est jetté dans les fers⁎ que vous me prepariez.  
+
+    SEMIRAMIS.
+C'est en vain qu'apresent ce zele vous emporte,  
+En vain vostre courage éclate de la sorte,  
+En vain à mon courroux vous venez vous offrir,  
+Pour sauver Oronclide, ou pour le secourir.  
+Depuis peu mon destin a bien changé de face,  
+C'est à luy, c'est à vous qu'il faut demander grace ;  
+Et je m'abaisserois à ce honteux devoir,  
+Si la mort que je veux n'estoit en mon pouvoir.  
+Il est juste pourtant que je vous la demande,  
+C'est un droict desormais qu'il faut que je vous rende ;  
+Et si vous estes tels qu'on me vient d'asseurer,  
+Il n'est rien qu'aujourd'huy je ne doive esperer.  
+On vous dit tous deux Fils du malheureux Monarque,  
+Que j'ay fait sans remords immoler à la Parque [324].  
+Si vous estes les Fils, si vous estes son sang,  
+Vengez la mort d'un Pere, & reprennez son rang ;  
+Ce grand coup en sera la veritable preuve,  
+Je suis sa meurtriere, & je ne suis pas sa vefve [325],  
+Puis que ce cœur enfin n'a jamais consenty  
+A ce fatal Hymen⁎, dont il s'est ressenty.  
+Qui de vous a le plus de haine ou de courage ?  
+(Parlant d'Oronclide.)
+
+Sa main en Merzabane a commencé l'ouvrage ;  
+Et pour vous faire part [326] d'un si celebre employ,  
+C'est à vous, Melistrate, à l'achever en moy.  
+Que diferez⁎ vous donc à venger vostre Pere ?  
+Quoy pour un coup si juste, on tremble ? on delibere ?  
+
+    MELISTRATE.
+Helas !  
+
+    SEMIRAMIS.
+        Cette pitié n'est pour moy que rigueur ;  
+Frappez, vous sçavez bien le chemin de mon cœur,  
+Vous l'avez déjà mis dans les fers⁎, dans la flâme,  
+Percé de mille traits⁎ qui m'ont arraché l'ame ;  
+Et je serois déja dans les bras de la mort,  
+Si vos charmes n'avoient suspendu son effort.  
+Faites-les donc cesser, ces redoutables charmes,  
+Si leurs traits⁎ m'ont blessée, achevez par vos armes ;  
+Et puis que je n'avois que d'injustes desseins,  
+Que le crime des yeux soit puny par les mains.  
+Mais helas ! Je voy bien qu'en cette conjoncture,  
+La nature en ce lieu combattra la Nature ;  
+Et que mon sexe icy vainement respecté,  
+Servira de pretexte à vostre lâcheté :  
+C'est pourquoy je ne veux dans ma fureur extréme,  
+Demander du secours desormais qu'à moy-mesme ;  
+Je ne veux à ce coup employer que mon bras,  
+Trop humains ennemis, je vous rends vos Estats ;  
+Et pour rendre en mourant ma douleur sans égale,  
+Je veux voir avec vous triompher ma rivale,  
+Du débris de mon sort⁎, faire le sien plus beau,  
+Et l'élever au Trône, en entrant au Tombeau.  
+Brillante illusion, precieuse fumée,  
+Dont ce matin encor mon ame estoit charmée,  
+Je vous quitte, grandeurs, presens empoisonnez,  
+Qui détruisez toûjours ceux que vous couronnez.  
+Melistrate, Ascalon [327] sera vostre partage,  
+Cet Empire est mon bien, il est vostre apennage [328] ;  
+Et comme par mes soins Babilonne est à moy,  
+Je vous la donne encore [329], & je vous en faits Roy.  
+Qu'Oronclide succede aux Estas de son Pere,  
+La mort est desormais tout le bien que j'espere ;  
+C'est le seul que je veux ; & je le tiens si cher,  
+Que ny vous, ny les Dieux, ne sçauriez l'empescher.  
+
+    PRAZIMENE.
+Seigneurs...  
+
+    MELISTRATE.
+    Nous vous suivons ; Oronclide...  
+
+    ORONCLIDE.
+        Ah ! mon Frere,  
+Que le Ciel aujourd'huy nous est doux & severe !  
+Et qu'aux biens qu'il nous donne & nous oste, le Sort  
+Mesle confusément, & l'Amour & la Mort !  
+FIN.
+
+
+# Lexique
+
+Les abréviations utilisées dans ce lexique et dans les notes du texte sont les suivantes :
+
+(F.) pour le *Dictionnaire universel* de Furetière
+
+(A.) pour le *Dictionnaire de l'Académie française*, 1*re* édition, 1694Adveu« Protection ou consentement donné ». (F.)Épître, v. 51 et 242Aimable« Qui a des qualitez qui attirent l'amour, ou l'amitié de quelqu'un. » (F.) V. 519 et 1264AltierOrgueilleux, fier.V. 26 et 847Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (F.)V. 475, 1189 et 1365Auguste« Majestueux, vénérable, sacré. » (F.)V. 827, 1369 et 1399Arrest« Jugement ferme et stable d'une Puissance Souveraine. » (F.)V. 1251, 1442 et 1582Attentat« Outrage ou violence qu'on tâche de faire à qqn. » (F.)V. 39 et 1162Attenter« Tenter, ou entreprendre quelque chose pour nuire à quelqu'un, ou luy faire violence. » (F.)V. 196 et 864Azile« Se dit de tout lieu où l'on est en seureté. » (A.)V. 811 et 1644BornerLimiter, modérer.V. 4, 804 et 878Celer« Tenir quelque chose cachée, secrette, dissimuler. » (F.)V. 319 et 512CharmeSens particulier : « Ce qui se fait par art magique pour produire un effet extraordinaire ». (A.).V. 737, 1022, 1303 et 1356Charmé (participe) a le même sens au vers 1366.ChoquerHeurter, offenser, déplaire.V. 59, 920 et 1005CœurSens particulier de « Vigueur, force, courage, intrepidité. » (F.)V. 580, 598, 907, 942, 1012, 1528, 1652 et 1719Decouvrir« Déclarer ce qu'on tenoit secret, ce qu'on tenoit caché ». (F.)V. 49, 102, 222 et 1593Défier (se)« Se donner de garde de quelqu'un, ne se pas fier à ce qu'il dit, à ce qu'il fait paroître, parce qu'on le soupçonne de peu de fidélité, de peu de sincérité. » (A.) et vers 821 avec le sens usuel de « Provoquer quelqu'un au combat ». (A.)V. 318 et 821Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute ». (F.)V. 36, 231, 379, 986 et 1166Démentir« Nier la verité d'une chose. » (F.)V. 1528 et 1674Démentir (se)« Se relascher du bon estat où l'on estoit. » (A.)V. 147 et 1357Différer« Dilayer, retarder, remettre à un autre temps. » (A.)V. 1310, 1337, 1459, 1657 et 1803Ennuis« Fascherie, chagrin, deplaisir, souci. » (A.)V. 236 et 292ÉtonnementSens particulier : « Esbranlement, secousse ». (A) / EffroiV. 570ÉtonnerSens particulier de : « Esbranler, faire trembler par quelque grande, par quelque violente commotion. » (A.) Aussi au sens d'effrayer.V. 854, 959 et 1179Étonné (participe) a le même sens au vers 843.Étrange« Ce qui est surprenant, rare, extraordinaire. » (F.)V. 46, 473, 515, 554, 1015, 1200, 1560 et 1623Feinte« Desguisement, apparence, dissimulation. » (F.) V. 77, 82 et 1195Feindre« Tromper par l'apparence, faire semblant. » (F.)V. 80, 283, 662, 1103 et 1572Même sens pour l'adjectif « feinte » au vers 659.Fers (Au pluriel) Signifie « Des chaisnes, des menottes, &c ». (A.)V. 584, 1425, 1546, 1567 et 1778« Il se prend aussi fig. & poëtiquement pour L'estat de l'esclavage, & pour l'engagement dans une passion amoureuse. » (A.)V. 88, 636, 651 et 1807(Au singulier) « Se dit aussi quelquefois absolument d'une espée, et des armes. » (F.)V. 1124, 1290, 1310, 1600 et 1772Feu« Se dit poëtiquement pour signifier La passion de l'amour. » (A.)V. 52, 70, 88, 352, 445, 677, 1184, 1449 et 1745La Fortune« Ce qui arrive par hasard, qui est fortuit et impreveu. » (Fur). Dans ces trois occurrences, elle est personnifiée, c'est un équivalent du Sort.V. 13, 665 et 1711FortuneBonheur ou malheur, « tout ce qui peut arriver de bien ou de mal à un homme ». (A.)V. 619, 1464 et 1647Genereux« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. » (F.)Épître, v. 122, 297, 1492, 1529 et 1677 Plus particulièrement il signifie : « Vaillant, hardi dans les combats ». (A.)V. 427, 809, 1039, 1121, 1237 et 1777Gesner« Tourmenter le corps ou l'esprit. » (F.)V. 1272Hazards« Peril, danger. » (F.)V. 11 et 822Hazarder« Risquer, mettre au hasard ». (F.)V. 182, 618, 621, 1324 et 1551Hymen, Hyménée« Signifie poëtiquement le mariage. » (F.)V. 1696 et 1798Inclination(s)« Affection, amour ». (A.)Épître, v. 45, 452 et 1721Insigne« Remarquable ». (F.)V. 746, 1328 et 1772Interdit(s)« Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit. » (A.)V. 168, 359, 972, 1013 et 1622Lauriers« Se dit figurément en Morale, pour signifier la gloire d'un triomphe, d'une conqueste. » (F.)V. 126, 268 et 1252Legeretez« Inconstance, instabilité ». (A.)V. 156 et 646LorsMis pour « alors ».V. 143, 151, 169, 337, 760, 1413, 1621 et 1687Objet« Ce qui touche, ce qui esmeut les sens par sa presence. Il se dit plus ordinairement par rapport au sens de la veuë. » (A.)V. 29, 829, 855, 877 et 1600« Il se prend aussi pour tout ce qui est consideré, comme la cause, le sujet, le motif d'un sentiment, d'une passion, d'une action. » (A.)V. 330, 353, 443, 624, 938, 988, 1262, 1449, 1454 et 1661« Il signifie poëtiquement, la personne qu'on aime. » (A.)V. 35, 72, 79, 168, 188, 497, 768 et 831Pourpre (substantif féminin)« Se dit figurément pour marquer la dignité d'un Roy, d'un Cardinal, d'un Senateur. » (F.)V. 1695 et 1713« Il se dit de cette teinture precieuse qui se tiroit autrefois d'un certain petit poisson à coquille nommé Pourpre, dont elle a pris le nom. » (A.)V. 1216 et 1217Au masculin : « Couleur, sorte de rouge foncé qui tire sur le violet. » (A.)V. 458Prodige« Effet surprenant qui arrive contre le cours ordinaire de la nature. » (A.)V. 419, 1015, 1485, 1671 et 1679Prodigieux« Qui tient du prodige. Il se dit en bien & en mal. » (A.) Ainsi au vers 890, il a un sens négatif.V. 352, 890 et 1017Prétendre« Demander une chose à laquelle on croit avoir droit. » (A.)V. 42, 1118 et 1331« Il signifie aussi simplement, Aspirer à une chose, & alors il est neutre. » (A.)V. 24, 232, 440 et 1696« Signifie quelquefois, vouloir ». (F.)V. 626Prospérités« Estat de celuy dont la personne et les affaires se portent bien. » (F.)Révérer« Avoir du respect, de la veneration pour quelque personne, ou quelque chose. » (F.)V. 832, 883 et 1497Sensible, sensiblement« Qui frappe les sens, qui se fait sentir. » (A.)V. 78, 316, 971 et 1011SoinsSens particulier : « Peine d'esprit, soucy. » (A.)V. 310Sort« Hazard, rencontre fortuite d'évenements bons ou mauvais. » (A.)V. 205, 1175 et 1177« La Destinée, dans le sens des Anciens : Et pour l'enchaisnement & la suite des bonnes ou mauvaises avantures des hommes. » (A.)V. 145, 1285, 1677 et 1719 « Se dit poëtiquement de la vie et de la fortune des hommes. » (F.)V. 1169, 1526 et 1825Souffrir« Sentir de la douleur, du mal, ou quelque incommodité considerable. » (F.)V. 1473 et 1738« Supporter ». (A.)V. 1582 et 1592« Tolerer, n'empescher pas, quoy qu'on le puisse ». (A.)V. 889, 1043 et 1232« Permettre ». (A.)V. 181, 395, 749, 1484 et 1762Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même. » (F.)V. 3, 127, 479, 503, 519, 691, 862, 897, 1236 et 1249« Se dit aussi de ce qui marque la magnificence, la somptuosité. » (F.)V. 558, 791, 940 et 1187Témérité« Se dit d'une action hardie, insolente, inconsiderée ». (F.)V. 307 et 926« Se dit aussi par exaggeration en matiere de compliment. » (F.V. 885 Tenter« Entreprendre une chose hardie et dangereuse, voir si on y reüssira. » (F.)V. 600 et 822Trait(s)« Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour. » (F.)V. 448, 656, 1808 et 1812 « On dit, *Les traits de l'Amour*, Parce que les Poëtes & les Peintres ont accoustumé de representer l'Amour avec un arc & des fleches. » (A.)V. 8, 54, 144 et 637 « Fleche, dard, qui se tire avec un arc ou une arbaleste. » (A.)V. 652, 954, 1234 et 1345« Se dit des beaux endroits d'un discours, de ce qu'il y a de vif, & de brillant dans une pensée, dans une expression ». (A.)V. 360 et 708« Se dit aussi, Des lineaments du visage. » (A.)V. 817, 857, 1243 et 1313« Se dit aussi, d'Un bon ou mauvais office qu'on rend à quelqu'un. » (A.)V. 747 et 771« Se dit des actions qui ont quelque chose de singulier. » (A.)V. 1387Transports« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (F.)V. 27, 863 et 1523Vain(e)Sens particulier : « Orgueilleux, superbe ». (A.)V. 309, 1105, 1158, 1547
+
+
+# Annexe I : Sources antiques
+
+
+## Diodore de Sicile [330]
+
+I.4 Autrefois, en Asie, il y avait des rois indigènes donc ni une action notable ni un nom ne restent en mémoire. Le premier que la tradition transmit à l'histoire et à la mémoire fut Ninos, le roi des Assyriens qui accomplit des hauts faits ; nous nous efforcerons de recenser point par point ce qui le concerne. De tempérament belliqueux et désireux d'affirmer sa valeur, il arma les plus fort des jeunes gens ; grâce à une assez longue période d'exercice, il les fit s'habituer à toute épreuve et aux dangers de la guerre. II.1 Comme ses affaires évoluaient si bien, Ninos eut un violent désir de soumettre l'Asie toute entière, qui est comprise entre le Tanaïs et le Nil ; car généralement, quand on a de la chance, le cours des affaires éveille le désir d'avoir davantage. … Il devint maître de tous à l'exception des Indiens et des Bactriens. III.1 Une fois accomplies les actions les plus illustres comparées à celles de ses prédécesseurs, il avait à cœur de fonder une cité d'une grandeur telle que non seulement elle fût la plus grande parmi celles qui existaient alors sur toute la terre habitée, mais qu'encore, si dans la postérité un autre avait un tel projet, il ne lui serait pas facile de le surpasser. IV.1 Puisque, après cette fondation, Ninos fit campagne contre la Bactriane, où il épousa Sémiramis, la plus illustre de toutes les femmes dont nous ayons connaissance, il est nécessaire d'évoquer auparavant comme d'un sort humble elle fut élevée à une si haute gloire. IV.2 Il y a en Syrie une cité, Ascalon, et, non loin de celle-ci, un grand lac profond, plein de poissons. Sur ses bords s'élève un sanctuaire d'une illustre déesse que les Syriens appellent Derkéto ; celle-ci a le visage d'une femme, mais tout le reste du corps est celui d'un poisson. IV.3 D'après une légende que rapportent les plus instruits indigènes, Aphrodite mécontente de la déesse en question, lui inspira un violent amour pour un des jeunes gens qui se sacrifiaient, et qui ne manquait pas de charme ; Derkéto se donna au Syrien puis enfanta une fille, mais, se sentant honteuse de sa faute, elle fit disparaître le jeune homme et exposa la petite enfant dans quelque endroit désert et rocailleux ; (là, comme une multitude considérable de colombes nichait habituellement, un hasard extraordinaire offrit nourriture et vie sauve au nouveau-né ; ) quant à elle, de honte et de chagrin elle se précipita dans le lac et fut métamorphosé en poisson ; c'est pourquoi encore aujourd'hui les Syriens s'abstiennent de manger de cette espèce animale et honorent les poissons comme des dieux. IV.4 Mais près de l'endroit où le nouveau-né avait été exposé nichait une multitude de colombes qui, par une providence extraordinaire, se chargeaient de nourrir la petite enfant ; en effet, tandis que les unes entouraient de leurs ailes le corps du nouveau-né pour le réchauffer de tous côtés, les autres, allant dans les fermes toutes proches, en même temps qu'elles étaient à l'affût des bouviers et autres pâtres, en rapportaient du lait dans leur bec et le versaient goutte à goutte entre les lèvres de la petite enfant pour la nourrir. IV.5 Et quand elle fut âgée d'un an et qu'elle eut besoin d'une nourriture plus consistante, les colombes, en picorant les fromages, lui fournirent une nourriture suffisante. Mais les bergers, à leur retour, voyant les fromages grignotés sur les bords, s'étonnèrent de ce fait extraordinaire ; après avoir, donc, surveillé de près et découvert l'explication, ils trouvèrent le nourrisson, qui était d'une beauté exceptionnelle. IV.6 Aussitôt donc, ils l'emportèrent dans leur ferme puis en firent don au responsable des troupeaux royaux nommés Simmas ; et celui-ci, étant sans enfant, l'éleva comme sa fillette avec tous ses soins et lui donna le nom de Sémiramis, ce qui est une transposition du mot syrien signifiant « colombes » ; depuis ce temps-là, tous les gens en Syrie n'ont cessé d'honorer les colombes comme des déesses. V.1 Voilà donc en substance ce que dit la légende sur l'origine de Sémiramis. Mais alors qu'elle était en âge de se marier et qu'elle surpassait de beaucoup par sa beauté les autres jeunes filles, un gouverneur fut envoyé de la part du roi en vue d'inspecter les troupeaux royaux ; celui-ci s'appelait Onnès et il était le premier des membres du conseil royal et le gouverneur de la Syrie. Il descendit chez Simmas et, à la vue de Sémiramis, il devint la proie de sa beauté ; c'est pourquoi il pria avec insistance Simmas de lui donner la jeune fille légalement en mariage puis il l'emmena à Ninos (= la ville), l'épousa et engendra deux enfants, Hyapatès et Hydaspès. VI.5 Comme le siège (de Bactres) s'éternisait, le mari de Sémiramis qui ressentait son amour pour son épouse tout en faisant campagne avec le roi, envoya chercher celle-ci. … VI.6 Comme elle devait voyager pendant plusieurs jours, elle imagina un vêtement qui ne permettait pas de distinguer si celui qui le portait était un homme ou une femme. VI.7 Elle arriva en Bactriane et examina soigneusement l'état du siège, remarquant que, alors que des attaques avait lieu par les plaines et les endroits où l'on accède facilement, personne n'allait à l'assaut de l'acropole à cause de sa position forte et que ses occupants avaient abandonné leurs postes à cet endroit pour venir renforcer ceux qui combattaient sur les remparts en contrebas. VI.9 C'est de cette façon-là que fut prise la cité, et là-dessus le roi, émerveillé par le courage de la femme, tout d'abord la récompensa par d'importants présents ; ensuite, sous l'effet de la beauté de sa personne, il en tomba amoureux et se mit alors à essayer de convaincre son mari de bien vouloir la lui céder, en promettant de lui donner sa propre fille Sosane en mariage. VI.10 Mais comme il prenait mal cette offre, Ninos menaça de lui crever les yeux s'il n'obéissait pas promptement à ses ordres. Et Onnès, partagé entre sa peur des menaces du roi et son amour, sombrant dans une sorte de rage et de folie, se mit une corde au coup et se pendit. Voilà donc comment s'explique l'accession de Sémiramis à la dignité royale. VII.1 Ninos prit possession du trésor de Bactres, qui contenait beaucoup d'argent et d'or, et, dès qu'il eut réglé la situation en Bactriane, il congédia ses forces. Après cela, il eut de Sémiramis un fils, Ninyas, puis il mourut, laissant sa femme reine. XX.1 Quelque temps après, elle fut l'objet d'un complot de la part de son fils Ninyas par l'entremise d'un eunuque, et sa mémoire fit resurgir la prédiction u sanctuaire d'Ammon ; elle ne prit donc aucune sanction contre le comploteur, bien au contraire, et lui remit le royaume, ordonnant aux gouverneurs d'obéir à celui-ci ; puis elle provoqua aussitôt sa propre disparition comme pour aller prend rang parmi les dieux conformément à l'oracle. XX.2 Selon une légende que quelques-uns rapportent, elle devint une colombe et, à l'arrivée d'une volée d'oiseaux se posant dans sa demeure, elle s'envola avec eux ; voilà pourquoi, d'après eux, les Assyriens honorent la colombe comme un dieu, immortalisant ainsi Sémiramis. Quoi qu'il en soit, celle-ci, après avoir régné sur toute l'Asie sauf sur les Indiens, mourut de la façon évoquée plus haut, ayant vécu soixante-deux ans et ayant régné quarante-deux ans.
+
+XX.3 Tel est donc le récit historique de Ctésias de Cnide concernant Sémiramis ; Athénaios, toutefois, et certains autres historiens disent qu'elle avait été une courtisane gracieuse et qu'à cause de sa beauté le roi des Assyriens était amoureux d'elle. XX.4 Au début, elle ne jouissait que d'une médiocre considération au palais royal, mais, reconnue par la suite comme épouse légitime, elle persuada le roi de lui céder le royaume pendant cinq jours. XX.5 Ayant pris à la fois le sceptre et l'habit royal, Sémiramis passa le premier jour à faire bombance en donnant un repas magnifique au cours duquel elle réussit à persuader les chefs des forces armées et tous les personnages les plus en vue de collaborer avec elle ; le lendemain, pendant que la population et les principaux notables lui rendaient hommage en sa qualité de reine, elle fit jeter son mari en prison et, comme elle nourrissait de grands desseins et qu'elle avait de l'audace, elle s'empara du pouvoir et régna jusque dans sa vieillesse en accomplissant une œuvre considérable. En ce qui touche Sémiramis, telles dont donc les versions contradictoires qui ont cours chez les historiens. XXI.1 Après sa mort, Ninyas, le fils de Ninos et de Sémiramis, avait hérité du gouvernement et gouvernait pacifiquement sans chercher aucunement à suivre l'esprit belliqueux et aventureux de sa mère.
+
+
+## Elien [331]
+
+Sémiramis l'Assyrienne a été louée de diverses manières. Elle fut la plus avenante des femmes, même si elle était très simple dans les soins de sa beauté. Lorsqu'elle arriva chez le roi d'Assyrie qui l'avait invitée à cause de sa renommée de belle femme, le souverain tomba amoureux d'elle dès leur première rencontre. Elle lui demanda alors de recevoir la parure royale et de pouvoir régner sur l'Asie pendant cinq jours, et que tout ce qu'elle ordonnerait fût exécuté. Sa requête ne fut pas vaine. Lorsque le roi l'eut installée sur le trône et qu'elle sut qu'elle avait tout en main et sous ses ordres, elle ordonna aux gardes de tuer le roi. C'est ainsi qu'elle obtint le pouvoir sur les Assyriens. C'est Dinon qui l'affirme.
+
+
+## Justin [332]
+
+Ninus, roi d'Assyrie, fut le premier de tous qui, poussé par une ambition inconnue jusque là, changea cet usage antique et pour ainsi dire héréditaire des peuples. Le premier, il porta la guerre chez ses voisins et il étendit ses conquêtes sur les peuples encore inhabiles à se défendre jusqu'aux confins de la Libye. … Comme en soumettant ses voisins, il ajoutait leurs forces aux siennes pour marcher contre d'autres peuple et que sa dernière victoire l'aidait à gagner la suivante, il subjugua tous les peuples de l'Orient. Sa dernière guerre fut dirigée contre Zoroastre, roi de Bactriane, qui fut, dit-on, le premier inventeur de la magie, et qui étudia avec précision les principes de l'univers et les mouvements des astres. Zoroastre fut tué et Ninus mourut lui-même, laissant son fils Ninias encore enfant et sa femme Samiramis.
+
+Samiramis, n'osant livrer le pouvoir à un enfant trop jeune, ni l'exercer elle-même ouvertement, parce que tant de grandes nations, n'obéissant qu'avec peine à un homme, obéiraient encore moins à une femme, se fait passer pour le fils de Ninus, au lieu de son épouse, pour un garçon au lieu d'une femme. Car, ils étaient tous les deux d'une taille médiocre, ils avaient la voie également grêle et la conformation des traits était semblable chez la mère et le fils. En conséquence, elle voile ses bras et ses jambes, se couvre la tête d'une tiare, et, pour n'avoir pas l'air de cacher quelque chose sous ce vêtement nouveau, elle ordonne au peuple de revêtir aussi le même costume, dont la nation tout entière a depuis gardé l'habitude. Ayant ainsi déguisé son sexe dès le début, elle fut prise pour un garçon. Elle fit ensuite de grandes choses ; puis, quand elle crut avoir vaincu l'envie par la grandeur de ses exploits, elle avoua qui elle était et qui elle avait simulé d'être. Elle n'en perdit pas pour cela la dignité royale ; au contraire, elle n'en fut que plus affirmée, parce qu'étant femme, elle surpassait en courage non seulement les femmes, mais encore les hommes. Cette reine fonda Babylone ; elle entoura cette ville d'un mur de briques cuites, cimentées, non avec du mortier, mais avec du bitume, matière qui sort de terre en bouillonnant dans maint endroit du pays. On cite encore de cette reine beaucoup d'autres actions illustres. Elle ne se borna pas en effet à défendre les frontières de l'empire acquis par son mari, elle y ajouta encore l'Ethiopie. Elle porta aussi la guerre jusque dans l'Inde, où jamais, en dehors d'elle et d'Alexandre le Grand, personne n'a pénétré. A la fin, ayant voulu coucher avec son fils, elle fut tuée par lui, après avoir régné trente-deux ans après Ninus ; Son fils Ninias, content de l'empire conquis par ses père et mère, se dégoûta de la guerre, et, comme s'il eût changé de sexe avec sa mère, se laissa rarement voir par les hommes et vieillit dans la compagnie des femmes.
+
+
+## Moïse de Khorène [333]
+
+Peu d'années avant la mort de Ninos, Ara obtint le gouvernement de sa patrie, ayant été jugé par Ninos digne de la même faveur que son père Aram. Cependant l'impure et lubrique Chamiram (= Sémiramis), ayant entendu depuis longtemps parler de sa beauté, brûlait de l'obtenir, mais elle n'osait rien faire de tel ouvertement. Après la mort de Ninos, ou plutôt, à ce que je crois, après sa fuite en Crète, Chamiram flattant sans retenue sa passion, envoie des messagers à Ara le Beau, avec toutes sortes de présents, d'instantes prières et des promesses de cadeaux, pour qu'il vienne près d'elle à Ninive : soit qu'il la prenne pour épouse et règne sur tout l'empire de Ninos, soit qu'il satisfasse son désir, puis rentre chez lui en paix, chargé de cadeaux.
+
+Après bien des allers et retours des messagers, comme Ara n'était toujours pas consentant, Chamiram, entrant à la fin de ces pourparlers dans une violente colère, emmène la multitude de son armée et se hâte d'arriver au pays d'Arménie pour attaquer Ara. Mais, pour qui savait lire sur son visage, elle ne brûlait pas tant de le tuer et de le mettre en déroute que de le soumettre et de s'emparer de lui pour combler son désir. Car, dans la folie de sa violente passion, d'entendre tout ce qu'on racontait de lui l'embrasait d'un amour éperdu, comme si elle le voyait. Elle arrive en toute hâte dans la plaine d'Ara, qui fut d'après le nom de celui-ci appelée Aïrarat. Et, au moment où a lieu la bataille, elle donne l'ordre à ses généraux, si cela peut se faire, de trouver le moyen d'épargner Ara. Mais, au cours des combats l'armée d'Ara est battue est Ara meurt dans l'engagement, tué par les jeunes soldats de Chamiram.
+
+… Là trouvant un moment favorable à sa vengeance, Ninevas tue sa mère et règne lui-même sur l'Assyrie et sur Ninive.
+
+
+## Sémiramis et Sammouramat
+
+Sammouramat était une célèbre reine d'Assyrie, plus connue sous le nom de Sémiramis. … Une stèle a été érigée en son honneur à Assour, sous les grandes stèles royales, elle se dit : « Celle du palais de Shamshi-Adad, roi du monde, roi d'Assyrie, mère d'Adad-Nirari, roi du monde, roi d'Assyrie, brue de Salmanazar, roi des quatre régions du monde. » Elle est la seule reine dans la série de ces stèles consacrées à des hommes, témoignage monumental de l'empreinte qu'elle a dû laisser en tant que souveraine. Sa personnalité devait être marquante car peu de temps après sa mort, vérités et légendes se sont confondues. … On ne sait rien de vraiment sûr à son sujet, rien ne prouve qu'elle ait été babylonienne ou ourartéenne et la thèse de sa régence de son fils Adad-Nirari est dorénavant à rejeter. Cependant, Sammouramat a certainement inspiré la Sémiramis de légende, telle qu'elle est décrite, entre autres, par les historiens grecs, Hérodote, Ctésias de Cnide et Nicolas de Damas. … Sur sa mort de nombreuses histoires « délirantes » circulent : après avoir conquis l'Egypte et épousé son roi, Ninos, elle se serait, d'après Diodore, ou bien suicidée pour briser l'oracle qui la voyait assassinée par son fils Nynias, ou bien « volatilisée » en pigeon, devenant ainsi immortelle car pour les Assyriens cet oiseau est assimilé aux Dieux. La permanence du nom de Sammouramat sous celui de Sémiramis laisse penser qu'elle avait une forte personnalité et qu'elle a marqué, mais sans que l'on puisse deviner comment, l'histoire de l'Assyrie [334].
+
+
+# Annexe II : Tableau comparatif des reprises textuelles [335] entre La Prazimène et La Véritable Sémiramis
+*La Prazimène*, Le Maire | *La Véritable Sémiramis*, Desfontaines
+(Sémiramis) **Il aime**, dit-elle, avec un soupir violent, mais Prazimene perduë**, il n'aime que la gloire.** | *SEMIRAMIS* S'**il aime**, Merzabane, **il n'aime que la gloire** (I,1)
+**Son courage**, dont l'approche ou l'éloignement *donne la victoire, ou l'oste aux Assyriens*, est ce qui lui fait *mespriser* les faveurs que je lui ay si librement *offertes*. | **Son courage** qui forme ou calme les tempestes, *Qui détruit*, quand il veut, *ou produit nos conquestes*, *Se plaist dans les hazards dont son coeur est épris,* Et pour un Sceptre *offert*, n'auroit que des *mépris*.(I,1)
+Il **ayme** bien** mieux** que *son triomphe* soit composé de **soldats** *esclaves*, que d'une **Reyne** amoureuse. | L'orgueilleux **aime mieux** que *sa valeur* enchaisne Des **soldats** *subjuguez*, qu'une fameuse Reyne,(I,1)
+Tellement que si l'ambition est la fin que tu te proposes, au moins *ma passion* sera-t'elle le principal **degré** pour y parvenir | *Hé bien, cher Melistrate, il te faut satisfaire, T'élever aux grandeurs que ton courage espere ;* Mais il faut que *mon cœur* soit l'illustre **degré**, Du Trône, où je prétends que tu sois adoré. (I,2)
+Donne à *mon bon-heur* les jours qui te restent, & permets **que ta nuict soit l'Orient** de mon **Soleil**. | Permets que *mes plaisirs* naissent de ton desastre, Et **que ta nuict** enfin, **soit l'orient** d'un Astre,*Dont l'éclat icy bas n'eut jamais de pareil,* Et paroist à mes yeux plus beau que le **Soleil**. (I,2)
+Il est certain qu'en *un âge si advancé*, **le trespas** *ne te peut estre qu'advantageux*, puis qu'il **mettra à couvert** *tant de triomphes*. Hé que sçait-on si* un moment ne les dissipera point* ?  Qui te peut asseurer que tant de Royaumes genereusement conquis, seront toujours ton Empire ? Ah ! grand Prince, il vaut bien mieux *mourir* plustost, & mourir *glorieusement*, que d'estre long-temps parmy les hommes, & voir perir *sa gloire*. | Tout prest de succomber *aux foiblesses de l'âge*, **Le trépas***t'est sans doute un heureux avantage*, Puis qu'abregeant tes jours, il peut **mettre à couvert** *Des Lauriers, que le temps fait souvent que l'on perd*  Ouÿ, *ta mort* peut sauver le reste de ta *gloire*, *De tes sanglants projets, effacer la memoire, Et faire quelques jours admïrer aux Humains,* *Des Palmes*, qu'*un moment* peut ravir à tes mains. (I,2)
+Combien m'as tu dit que tu acheterois mes delices au prix de *ton sang* ? C'est à cette heure que je te somme de tes **promesses**. Ta foy* royale* doit estre exactement observée, mais particulierement dans les rencontres où elle s'est engagée avec son entiere liberté. Prends donc en gré la resolution fatale où je me porte : Expire pour me faire respirer | Esvite mille morts, par une seule *mort*.*Tu m'as juré cent fois qu'elle te seroit chere, Si jamais elle avoit le bon-heur de me plaire Elle me plaist, Ninus, je la veux ; & je croy,* Qu'il ne faut point douter des **promesses** d'un *Roy*. (I,2)
+(Ninus à Sémiramis) Declarez-moy donc ce qui peut faire faire vostre ennuy, & si je suis *impuissant* à vous *contenter*, **je diray** que *vous aurés eû raison* **de m'en taire la cause**, de crainte que le regret de ne pouvoir satisfaire me desesperast. Que si au contraire c'est quelque chose difficile, mais possible neantmoins, j'auray sujet de **vous reprocher que vostre affection est trop respectueuse**, quand elle ne recherche de moy que les choses qui sont communes, & que tout autre qu'un Monarque accorderoit volontiers. | *NINUS* Si pour le *soulager*, je puis *trop peu de chose*, **Je diray***qu'à bon droict* vous m'en **taisez la cause** ; *Mais si ce rare effet est possible aux humains, Puis que tous vos desirs sont sur moy souverains,* **Je vous reprocheray**, Princesse genereuse, *Que vostre affection est trop respectueuse, Si ne se fiant pas aux ardeurs d'un Espoux, Elle épargnoit un sang, qu'elle sçait tout à vous. (I,3)*
+(Sémiramis) Tout beau, **Seigneur**, interrompit- elle, ne m'inquietés pas sur un point, dont la seule imagination ne vous peut estre que desagreable : *Brisés ce discours*, **de peur que ma vanité** n'altere **vostre bien-veillance** : Il vous doit suffire que c'est elle qui me rend comme je suis ; mais de dire ce qu'elle prend, *c'est ce que ma bouche n'exprimera pas, s'il vous plait*. | *SEMIRAMIS* **Seigneur**, *n'achevez pas ce discours* qui m'offence, *Et ne me pressez point de rompre mon silence,* **De peur que** mon orgueil, ou ma temerité, *Ne me rende odieuse à votre Majesté. Il suffit de sçavoir que je suis femme & vaine,* Et que **ma vanité** fait vos soins & ma peine : De vous dire à quel poinct mon cœur ose aspirer, C'est ce que sans rougir, *je ne puis declarer* ; Que votre Majesté, *s'il luy plaist*, m'en dispense, Ce secret me pourroit oster sa **bien-veillance**, (I,3)
+(Ninus) **Il faut** donc, repartit le **Prince**, que ce secret *soit de merveilleuse consequence*, puis que vous estes si obstinée à **le celer**. Dites tout d'un que vous me desirés voir dans *des gesnes perpetuelles* : Dites que *ma mort* est un de vos plus grands souhaits, & que vous ferez tout cela sans doute en me celant la cause de vostre melancolie. Mais quoi **l'ambition**, à ce que vous m'apprenez, est ce **qui vous rend** ainsi **languissante** : Certes il est bien facile de chasser ce desplaisir si vous voules déclarer en quoy elle consiste. La plus belle et la plus grande partie, ou peu s'en faut, me reconnois pour son Souverain : Mais si vous desirés que nostre puissance aille plus avant, les deux autres parties de l'Univers qui restent à conquerir seront bien-tost des dependances de **nostre Empire**. Témoignés seulement que cette proposition vous est agreable, & vos en verrés bien-tost le succez. Que si ce n'est pas assez, mon ame, j'entreprendray encore davantage pour vostre satisfaction. Vous faisant declarer *Reyne de toute la terre*, bien loing d'estre absolu, je ne partageray pas mesme l'**authorité** du gouvernement avec vous : Vous serez *Souveraine en toute chose* ; & il me sera plus doux de vous obëir & vous voir contente, que de regner au despens de vostre joye. | *NINUS* Certes, **il faut** qu'il *soit d'une importance extréme*, Si vous vous défiez d'un **Prince** qui vous aime, Et si vous **le celez**, à qui voudroit perir, *Pour appuyer vos vœux, & vous y secourir. Hé bien, en ce dessein soyez opiniâtre,* Croyez qu'on vous trahit, quand on vous idolâtre; *Et puis que mon tourment vous contente & vous plaist, Ne le finissez point, tout extréme qu'il est.* Dites qu'en *ma douleur* vous trouvez vos delices, Que votre déplaisir finit par *mes supplices*, Et que vous aimez mieux que *je meure* enragé, *Que de rendre d'un mot mon esprit allegé.* Si c'est **l'ambition qui vous rend languissante**, *Dites-moy son objet, & quelle est votre attente ; Et d'un soin merveilleux j'emploiray mon pouvoir, A la porter plus loin, mesme que vostre espoir.* **Notre Empire** s'étend sur cent belles Provinces, *Nous avons pour vassaux, & des Roys & des Princes, Et si tant de grandeur est peu pour vos projets, Bien-tost tous les humains deviendront vos sujets ;* Et lors que vous serez *la Maistresse du monde*, Si vostre a**uthorité** veut estre sans seconde, *Moy-mesme vous cedant, & mon Sceptre & mes droits, Je seray le premier à fléchir sous vos loix. (I,3)*
+Non, reprit-il assez promptement, je e m'arresteray point aux choses que je viens de dire : Je veux passez outre, & porter vostre ambition au point où elle ne s'est peut-estre jamais esleuvé. Quand je seray le victorieux de **l'univers**, j'ordonneray que vous soyés seule la saincteté des temples et l'objet des sacrifices ; & pour esmouvoir les peuples par l'exemple, je commenceray tout le premier à vous offrir des prieres & des vœux, de sorte que quiconque manquera de vous rendre *ces justes devoirs*, sera doublement criminel, joignant le mespris de mes commandemens à celuy de *la divinité*. Apres cela, laissay-je quelque chose à faire à vos souhaits ? ou plustost n'estes-vous pas en liberté de descouvrir vos sentimens ? | *Si vous le desirez, je feray plus encore, Je feray dans ces lieux, que chacun vous adore,* Et que tout** l'Univers** vous dressant des Autels, Vous rende *les honneurs*, qu'on rend aux *immortels*. Apres ce zele ardent, & cette deference, *Pouvez-vous, ma Princesse, observer le silence ? Ah ! parlez ; & croyez que pour vous obeïr, Je seray prest à tout, jusques à me trahir. (I,3)*
+(Sémiramis) Vous ne commencerez **pas d'aujourd'huy** à m'apprendre, que vous n'avés point pour moy une** affection** commune. Le jour que tout rayonnant de gloire, vous fustes *enflammé* de mon amour … si tost que **vos yeux** se virent esbloüis des foibles apparences de mon visage, jusques là **que de conquerant** vous devinstes **le conquis.** Voila, divin Ninus, les premiers preuves de la passion que vous ressentistes pour moy. | *SEMIRAMIS* Ce n'est **pas d'aujourd'hui** que j'ai vû grand Monarque, De votre **affection**, une infaillible marque. Dés lors que j'eus l'honneur de parestre à **vos yeux**, Je reconnus en vous *ce feu* prodigieux, *Qui n'ayant pour objet que fort peu de merites, N'a jamais eu pourtant ny bornes, ny limites, Puis qu'en vous combattant, enfin je vous acquis,* Et **que de conquerant**, vous fustes **le conquis**. (I,3)
+Toutefois quoy que** ma vanité** n'aille pas si haut que tant de superbes promesses, & qu'il faille beaucoup moins *pour la contenter*, je n'ose vous en faire l'ouverture, considerant que si j'ay toujours esté indigne des premieres faveurs, je la suis encore plus des dernieres. … Hé bien, luy dit-elle en pleurant, puis que vous me le commandés, je me vay contraindre à vous *obeyr*. Mais que *vostre Majesté* considere, s'il lui plaist, que c'est elle qui fait esclatter mon *insolence*. … Il ne faut point que vos armes joignent toutes les couronnes du monde à celle de **l'Asie** pour contenter mon **ambition**. Il ne faut point que** l'Amour** vous rende idolatre, & qu'il ne communique vostre** idolatrie** à tout l'univers pour ce mesme sujet. | *Obéïssons* pourtant ; mais en cette occurrence, Souvenez vous, *Seigneur*, que mon *obeïssance* *Est plûtost un effet de vostre authorité, Que de mon imprudence, ou de ma volonté.* Il ne faut pas enfin, *pour me rendre contente*, *Que l'Univers soûmis, remplisse mon attente, Que vostre affection oblige les mortels, A flatter mon orgueil, ny d'encens, ny d'Autels,* Ou que pour satisfaire à mon *effronterie*, Vostre zele à** l'amour** joigne l'**idolâtrie.** J'ay de l'**ambition**, mais je la sçay regler ; Et pour **la vanité** dont mon ame est saisie, Il suffira, *grand Roy*, du Sceptre de **l'Asie**. (I,3)
+Mais il me fait permettre de seoir **seule** sur **le trosne**, & de *disposer souverainement* de l'Estat. | Si **seule** j'ay l'honneur pour trois jours seulement, De pouvoir sur **le Trône** *agir absolument* (I,3)
+**Vous sçavez** bien *grand Monarque* … que j'ay paru, toute femme que je suis, autant au dessus de **vos Capitaines**, que ma **gloire** à toujours esté** au dessous de la vostre.** | **Vous sçavez**, *ô Ninus*, par des preuves certaines, Que j'ay toûjours fait honte à tous **vos Capitaines** ; … Et leur** gloire** est autant au dessous de la nostre, Que la mienne paroist **au dessous de la vostre** (I,3)
+**Ou si vous repugnés** de condescendre à cette incivile Requeste, promettez-moy de faire un si grand **effort** sur vostre memoire, qu'il ne vous en *ressouvienne* jamais | **Ou si vous repugnez** au desir qui me presse, Faites un autre **effort**, oubliez ma foiblesse ;… Chassez en desormais jusques au *souvenir*.
+(Sémiramis à Merzabane) … ou tout au moins ayez des yeux pour **voir une femme** *executer genereusement* ce qu'elle propose, puis qu'apres vostre refus elle a plus besoin **d'admirateurs** que de *compagnons*. | *SEMIRAMIS* Oüy, oüy, si vous tremblez, venez **voir une femme**, *Achever hardiment* le complot qu'elle trame, *Et vous faire advoüer, qu'elle n'aura pas moins* De grands **admirateurs**, qu'elle aura de *témoins*. (II,3)
+Merzabane prostestant qu'l estoit trop **fidele** au sujet de sa Majesté, & trop affectionné envers sa **patrie** pour **consentir** à un (p.73) **changement** *si extaordinaire*, dit que **les revolutions en matiere d'Estat** estoient un peu trop **dangereuses'** | *MERZABANE* Que j'ay pour ma **patrie** une **ame trop fidelle**, *Pour faire jamais rien, qui soit indigne d'elle,* Ou souffrir que mon cœur **consente** lâchement, A *ce prodigieux* & triste **changement**. **Les revolutions**, encore que fameuses, **En matiere d'Estat**, sont toûjours **dangereuses** ; (III,1)
+… qu'il ne devoit *pas estre le premier à parler* sur cette haute resolution : Mais qu'ayant vû que nul de ceux à qui plus legitimement qu'à luy appartenoit d'en dire leur sentiment, n'avoir **pas le cœur** d'en faire une remonstrance nécessaire, Il avoit mieux aymé *commettre une faute* par affection & par devoir, que d'en commetre une plus reprehensible par *crainte* ou par **complaisance** | *Et parmy vos vassaux, je ne sçaurois nier,* Que *mon advis ne doive estre dit le dernier* : Mais voyant qu'ils n'ont pas **le cœur** ny l'asseurance, *De parler en un fait de telle consequence ;* J'aime bien mieux *faillir* par ma sincerité, Que par ma **complaisance**, ou par ma *lâcheté*. (III,1)
+**Que la Reyne** lui **pardonnât**, s'il supplioit tres-humblement sa Majesté de l'oster du nombre sur qui elle veoit exercer un pouvoir si absolu ; & que pour ne rendre pas son authorité moindre par un si petit deffaut, *il se retiroit* de **la Cour** le peu de **temps*** qu'elle administreroit l'Estat*. | **Que la Reyne**, ô grand Roy, s'il luy plaist**, me** **pardonne**, *Si du joug de ses Loix, j'affranchis ma personne ; Ne la pouvant subir, j'aime mieux dés ce jour,* Pour le **temps** *de son Regne, abandonner* **la Cour** (III,1)
+(Ninus) *Rois*,** qui relevez de ce superbe empire** | *NINUS* *Princes*,** qui relevez de ce superbe Empire** (III,1)
+(Oronclide à Melistrate) Il ne **vous faut** qu'**aimer**, & vous deviendrez le plus grand Monarque de l'Univers. | *ORONCLIDE Le coup qui l'a détruit, vous laisse une Couronne ; Et que pour ce bonheur qui dévroit vous charmer,* Il **vous faut** seulement vous resoudre d'**aimer**. (IV,1)
+(Palmedon à Prazimène) Que ce fust la destinée de Xydiane , ou celle de Benzamin, qui opera cette merveille, tant y a que mon Maistre **vainquit** bien mieux **desarmé** que *sous le armes* ; & que n'ayant pû venir à bout de son ennemy sans playes, il **triompha** de Xydiane sans estre blessé. | *MERZABANE Melistrate vainqueur, & content de sa gloire, Fut courtois au vaincu, plus qu'on ne le peut croire ; Et comme il estoit lors à vaincre accoustumé,* Il **vainquit***combattant*, & **vainquit desarmé**, … Le vainqueur, comme au camp, **triomphe** dans son ame. (I,1)
+Cependant le mal-heureux Benzamin n'estoit pas agité de semblables mouvements : le desespoir & la rage furent les moindres passions qui le possederent … il se releva *tout à coup* ; & voyant mon Maistre en action de luy aider croyant qu'il voulust faire ce que nous avions entrepris, du mesme poignard dont elle s'estoit frappé, .. *luy porta deux coups dans l'estomach* ; & sans le moindre intervalle *s'en fit autant dans le sien* | *Benzamin est surpris, & pense qu'on l'outrage, Quand il voit que l'on traitte avec tant de mépris, Celle dont il estoit si tendrement épris. Xidiane en son sang, lave sa perfidie ;* Et *soudain* son Amant, d'une main plus hardie, *Pour venger son trépas, fait un dernier effort, Blesse au sein Melistrate, & se donne la mort. (I,1)*
+(Merzabane) *Apprenez*, Oronclide, que vous *n'estes point* mon **fils** | *MERZABANE* Et lors luy *declarant* qu'il *n'estoit pas* son **Fils** (V,1)
+*(Merzabane à Oronclide)* Helas **ozay-je** bien encore **prononcer** un *si beau* **nom, moy quy suis** le** meurtrier execrable du Heros** qui **le portoit** ? | *MERZABANE* **Ozay-je prononcer un nom***si plein de gloire*, **Moy qui suis l'execrable** & *perfide* **meurtrier** **Du Heros**, qui jamais **l'ait porté** le premier ? (V,2)
+
+
+
+
+# Annexe III : Tableau de présences des personnages
+ | Ninus | Sémiramis | Prazimène | Melistrate | Oronclide | Merzabane | Zenophire | Cambises | Palmedon | Gardes | Herminie
+I,1 |  | x |  |  |  | x |  |  |  |  | x
+I,2 |  | x |  |  |  |  |  |  |  |  | 
+I,3 | x | x |  |  |  |  |  |  |  | x | 
+I,4 |  | x |  |  |  |  |  |  |  |  | 
+II,1 |  | x | x |  |  |  |  |  |  |  | x
+II,2 |  | x |  |  |  |  |  |  |  |  | 
+II,3 |  | x |  |  |  | x |  |  |  |  | 
+II,4 |  |  | x |  |  |  |  |  |  |  | 
+II,5 |  |  | x |  |  |  |  |  | x |  | 
+III,1 | x | x |  |  | x | x | x | x |  | x | 
+III,2 |  | x |  |  | x | x | x | x |  | x | 
+III,3 |  |  |  |  | x | x | x | x |  |  | 
+III,4 |  |  |  |  | x | x |  |  |  |  | 
+IV,1 |  |  |  | x | x |  |  |  | x |  | 
+IV,2 |  |  |  |  | x |  |  |  |  |  | 
+IV,3 |  |  | x | x | x |  |  |  | x | x | 
+IV,4 |  | x |  |  |  | x |  |  |  |  | 
+IV,5 |  | x |  |  | x | x |  |  |  |  | 
+IV,6 |  | x |  |  |  | x |  |  |  |  | 
+V,1 |  |  |  | x |  |  |  |  | x |  | 
+V,2 |  | x | x |  | x | x |  |  |  |  | 
+V,3 |  | x | x | x | x |  |  |  |  |  | 
+
+
+
+
+# Annexe IV : Nombre de répliques par acte et par scène [336]
+Personnages | Acte I | Acte II | Acte III | Acte IV | Acte V | Total
+SEMIRAMIS | 14 | 12 | 3 | 8 | 8 | 45
+MELISTRATE | 0 | 0 | 0 | 21 | 10 | 31
+MERZABANE | 9 | 2 | 6 | 4 | 8 | 29
+ORONCLIDE | 0 | 0 | 3 | 23 | 3 | 28
+PRAZIMENE | 1 | 13 | 0 | 6 | 4 | 24
+PALMEDON | 0 | 3 | 0 | 2 | 6 | 11
+NINUS | 3 | 0 | 3 | 0 | 0 | 6
+ZENOPHIRE | 0 | 0 | 2 | 0 | 0 | 2
+CAMBISES | 0 | 0 | 1 | 0 | 0 | 1
+Total | 27 | 30 | 18 | 64 | 39 | 178
+
+
+
+
+ | Sémiramis | Merzabane | Prazimène | Ninus | Melistrate | Oronclide | Palmedon | Zenophire | Cambi-ses | Total
+I,1 | 10 | 9 | 1 |  |  |  |  |  |  | 20
+I,2 | 1 |  |  |  |  |  |  |  |  | 1
+I,3 | 2 |  |  | 3 |  |  |  |  |  | 5
+I,4 | 1 |  |  |  |  |  |  |  |  | 1
+II,1 | 8 |  | 8 |  |  |  |  |  |  | 16
+II,2 | 1 |  |  |  |  |  |  |  |  | 1
+II,3 | 3 | 2 |  |  |  |  |  |  |  | 5
+II,4 |  |  | 1 |  |  |  |  |  |  | 1
+II,5 |  |  | 4 |  |  |  | 3 |  |  | 7
+III,1 | 2 | 2 |  | 3 |  |  |  |  |  | 7
+III,2 | 1 |  |  |  |  |  |  |  |  | 1
+III,3 |  | 3 |  |  |  | 3 |  | 2 | 1 | 9
+III,4 |  | 1 |  |  |  |  |  |  |  | 1
+IV,1 |  |  |  |  | 14 | 13 | 2 |  |  | 29
+IV,2 |  |  |  |  |  | 1 |  |  |  | 1
+IV,3 |  |  | 6 |  | 7 | 5 |  |  |  | 18
+IV,4 | 2 | 1 |  |  |  |  |  |  |  | 3
+IV,5 | 5 | 3 |  |  |  | 4 |  |  |  | 12
+IV,6 | 1 |  |  |  |  |  |  |  |  | 1
+V,1 |  |  |  |  | 7 |  | 6 |  |  | 13
+V,2 | 6 | 8 | 3 |  |  | 2 |  |  |  | 19
+V,3 | 2 |  | 1 |  | 3 | 1 |  |  |  | 7
+Total | 45 | 29 | 24 | 6 | 31 | 29 | 11 | 2 | 1 | 178
+
+
+
+
+# Bibliographie
+
+
+## Sources
+
+
+### Œuvres de Desfontaines
+
+
+#### Œuvres dramatiques
+
+
+##### Tragi-comédiesEurimédon ou l'Illustre Pirate
+La Vraie Suite du Cid
+Orphise ou la Beauté persécutée
+Hermogène
+Bélisaire
+
+
+
+##### TragédiesSaint-Eustache ou le martyre de Saint-Eustache
+L'Illustre Olympie ou le Saint Alexis
+L'Illustre Comédien ou le Martyre de Saint-Genest
+La Véritable Sémiramis
+
+
+
+#### Romans et autres œuvres narratives Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles
+L'Inceste innocent, histoire véritable
+Le Vagabond ou l'Histoire et le caractère de la malice et des fourberies de ceux qui courent le monde aux despens d'autruy, avec plusieurs récits facétieux sur ce sujet pour déniaiser les simples
+
+
+
+#### Œuvres poétiquesPassions égarées
+Les Chevilles de Maître Adam
+Hommes illustres
+Nouveau Recueil des bons vers de ce temps
+
+
+
+#### Attributions incertainesLes Galantes vertueuses
+Paraphrase sur le Memento Homo
+Alcidiane ou les quatre rivaux
+Perside ou la Suite d'Ibrahim Bassa
+L'Illustre Amalasonthe
+Bélissante ou la Fidélité reconnue
+Le Poète chrétien passant du Parnasse au Calvaire
+
+
+
+### Œuvres de l'antiquité*Aristote*, Poétique
+*moïse de khorene*Histoire de l'Arménie
+*diodore de sicile*Bibliothèque historique
+*elien*Histoires variées
+*justin*Abrégée des histoires philippiques de Trogue Pompée
+
+
+
+### Œuvres du XVII*e* et XVIII*e* siècle*anonyme*The amours of Milistrate and Prazimene : A novel
+*aubignac*La Pratique du théâtre
+*giblet*Della Prasimene portata dal francese e publicata
+*le maire*La Prazimène
+*le maire*La Suite de La Prazimène
+*racine*Œuvres complètes I. Théâtre, poésie
+*scarron* Roman comiqueRomanciers du XVII*e* siècle
+
+
+
+## Instruments de travail
+
+
+### Dictionnaires*academie française*Dictionnaire
+*furetiere*Dictionnaire universel, contenant generalement tous les mots françois tant vieux que modernes, et les Termes de toutes les sciences et des arts
+*moreri*Le Grand Dictionnaire historique ou le Mélange curieux de l'histoire sacrée et profane
+
+
+
+### Grammaire, syntaxe, ponctuation*fournier*Grammaire du français classique
+*haase*Syntaxe française du XVII*e* siècle
+*morisset, gason, thomas, baudiffier*Précis de grammaire des lettres latines
+*riffaud*La Ponctuation du théâtre imprimé
+
+
+
+### Sites web
+
+Gallica : http://www.gallica.bnf.fr/
+
+Théâtre classique : http://www.theatre-classique.fr/
+
+
+## Travaux historiques et critiques
+
+
+### Histoires du théâtre du XVII*e* siècle*deierkauf-holsboer*., L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
+*lancaster*A History of French dramatic Litterature in the 17th century
+*mazouer*Le Théâtre français de l'âge classique
+*parfaict*Histoire du théâtre français
+
+
+
+### Ouvrages et articles sur le théâtre du XVII*e* siècle
+
+
+#### Ouvrages*blondet*Les Pièces rivales des répertoires de l'Hôtel de Bourgogne, du Théâtre du Marais et de l'Illustre Théâtre : deux décennies de concurrence théâtrale parisienne (1629-1647)
+*chardon*La Troupe du Roman comique dévoilée et les comédiens de campagne du XVII*e* siècle
+*chardon*Nouveaux documents sur la vie de Molière. M. de Modène, ses deux femmes et Madeleine Béjart
+*clement J. M. B. et laporte J.*Anecdotes dramatiques
+*deierkauf-holsboer*Le Théâtre du Marais
+*deierkauf-holsboer*Le Théâtre de l'Hôtel de Bourgogne 1548-1680
+*forestier*Essai de génétique théâtrale : Corneille à l'œuvre
+*forestier* Introduction à l'analyse des textes classiques
+*forestier*Passions tragiques et règles classiques. Essai sur la tragédie française
+*forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+*forsyth*La Tragédie française de Jodelle à Corneille (1553-1640) : le thème de la vengeance
+*howe*Le Théâtre professionnel à Paris 1600-1649, Documents du Minutier central des notaires de Paris
+*mahelot*Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie-Française au XVII*e* siècle
+*mahelot*Mémoire de Mahelot : mémoire pour la décoration des pièces qui se représentent par les Comédiens du Roi
+*mongredien**robert*Les Comédiens français du XVII*e* siècle*e*
+*pasquier*Véritable Saint-GenestThéâtre complet de Rotrou
+*pasquier**surgers*La Représentation théâtrale en France au XVII*e* siècle
+*pellet*A Forgotten French Dramatist, Gabriel Gilbert (1620 ?- 1680 ?)
+*scherer* La Dramaturgie classique en France
+
+
+
+#### Articles*forestier*Littératures classiques
+*michel*Littératures classiques
+
+
+
+#### RevueLe Moliériste*monval*
+
+
+
+### Ouvrages sur l'œuvre de Desfontaines*Desfontaines*Tragédies hagiographiques
+
+
+
+### Ouvrages sur les romansBibliothèque universelle des romans
+*chardon*Scarron inconnu et les types de personnages du « Roman comique »
+
+
+
+### Autres articles*marello*Dossiers d'ArchéologieLes fastes des palais néo-assyriens
+
+
+-------
+
+
+[1] « *Gilbert's play is by far the better of the two. … Desfontaines was attracted to the subject because Gilbert had put Semiramis on stage. While, as I have said, his play is distinctly inferior to Gilbert's.* » H. C. LANCASTER, *A History of French Dramatic Litterature in the 17th century*, part II, vol. II, Baltimore, Johns Hopkins Press, 1932, p. 583 et 586.
+
+[2] *Ibid.*, p. 78. 
+
+[3] MONGREDIEN et ROBERT, *Les Comédiens français du XVII*e* siècle*, Paris, Éditions du CNRS, 3*e* éd., 1981, p. 70.
+
+[4] HOWE Alan, *Le Théâtre professionnel à Paris 1600-1649*, Documents du minutier central des notaires de Paris, Paris, Centre historique des archives nationales, 2000, p. 184.
+
+[5] *Ibid.*, p. 185.
+
+[6] *Ibid.*
+
+[7] « 1636, 8 octobre. Obligation par Nicols Mary, sieur Des Fontaines, avocat en parlement, et Antoinette Maudinier, sa femme, demeurant rue de l'Arbre-Sec, paroisse Saint-Germain-l'Auxerrois, envers François Garnier, valet de chambre des filles de la reine, demeurant à Paris, de la somme de 112 livres pour fournitures et façon d'habits. » (*ibid*., p. 293).
+
+[8] *Ibid.*, p. 185.
+
+[9] PARFAICT, *Histoire du théâtre français*, t. VI, Paris, Le Mercier, 1746.
+
+[10] « *Sonnet dédié au duc d'Enghien à l'occasion de la bataille de Rocroi* (1642). » d'après l'édition critique des *Tragédies hagiographies* établie par C. BOURQUI et S. DE RYEFF.
+
+[11] Cette attribution est critiquée par C. BOURQUI et S. DE RYEFF, *ibid.*, p. 549.
+
+[12] « *Le Vagabond ou l'Histoire et le caractère de la malice et des fourberies de ceux qui courent le monde aux dépens d''autrui, avec plusieurs récits facétieux sur ce sujet pour déniaiser les simples* (traduction de G. Nobili), Paris, J. Villery, 1644) », *ibid.*, p. 547.
+
+[13] PARFAICT, *op. cit.*
+
+[14] « Sonnet liminaire aux *Hommes Illustres* de Plutarque, Paris, Robinot, 1645 » et « Deux sonnets dans le *Nouveau Recueil des bons vers de ce temps*, Paris, Cardin Besongne, 1646 ». BOURQUI et DE RYEFF, *op. cit.*, p. 547.
+
+[15] L'attribution est aussi mise en doute pour cette pièce, elle ne repose que sur la foi des frères Parfaict, *op. cit.*
+
+[16] CLEMENT J.M.B et LAPORTE J., *Anecdotes dramatiques*, t. III, Paris, Veuve Duchesne, 1775, p. 145-146.
+
+[17] BOURQUI et DE RYEFF, *op. cit*., p. 100-102, 266-270 et 441-443.
+
+[18] *Le Moliériste*, revue mensuelle par Georges Monval, n° XXI, décembre 1880, Paris, 1880-1889, p. 266.
+
+[19] « 1644, 28 juin. Engagement de Daniel Mallet, danseur demeurant ordinairement à Rouen, logé à présent au faubourg Saint-Germain avec les comédiens de l'Illustre Théâtre, représentés par Jean-Baptiste Poquelin dit Molière, Germain Clérin, Nicolas Desfontaines, Georges Pinel et Madeleine Malingre. » HOWE*, op. cit.*, p. 320.
+
+[20] *Ibid.*, p. 332.
+
+[21] *Ibid.*, p. 184.
+
+[22] MONGREDIEN et ROBERT, *op. cit*., p. 242.
+
+[23] « Extrait des registres de la paroisse Saint-Michel de Carcassonne : Le 21 (décembre 1649) avons bap. Victoire, filhe de Estienne Munier, comédien, et de Françoise Segui, sa femme. P. (Parrain) Nicolas Marin de Fontaine, aussi comédien, et M. (Marraine) Victoire de la Chappe. » *Le Moliériste*, num. cit., p. 266.
+
+[24] MONGREDIEN et ROBERT, *op. cit*., p. 150.
+
+[25] CHARDON, *Scarron inconnu et les types de personnages du « Roman comique »*, t. II, Genève, Slatkine, 1970, p. 253.
+
+[26] *Romanciers du XVII*e* siècle*, éd. ADAM Antoine, Paris, Gallimard, Pléiade, 1958, p. 1423.
+
+[27] ADAM, *op. cit.*, p. 550.
+
+[28] « *It is reasonable to suppose that the* Sémiramis *of Gilbert was acted first, probably in 1646, and that Desfontaines entitled his play LVS in order to make a distinction between the two.* » LANCASTER, *op. cit*., p. 583-584.
+
+[29] PASQUIER Pierre (éd.), *Le Mémoire de Mahelot*, Paris, Champion, 2005, p. 215.
+
+[30] *Ibid.*, p. 47.
+
+[31] « Les croix en marge ont été, semble-t-il, ajoutées plus tard. » (*ibid.*, p. 209).
+
+[32] « *Two plays on the subject of Sémiramis were published in 1647. As they treat in the main different phases of her life, it is not surprising that both were acted at the Hôtel de Bourgogne, as is shown by the repertory of 1646-47. … Desfontaines probably hurried the publication of it in order to anticipate Gilbert, who, in reply, added to his title “Tragedie representée par la troupe royalle”. The fact that Desfontaines did not do this may mean that his play was originally given by another troupe and was put on at the hotel de Bourgogne only after it was printed, but it may also be true that he merely did not think of it.* » LANCASTER, *op. cit*, p. 593-584.
+
+[33] Voir partie V de cette introduction.
+
+[34] DEIERKAUF-HOLSBOER S. W., *Le Théâtre de l'Hôtel de Bourgogne 1548-1680*, Paris, Nizet, 1968-1970, p. 51-52.
+
+[35] *Ibid.*, p. 52.
+
+[36] PASQUIER, *op. cit*. p. 27.
+
+[37] LANCASTER (éd.), *Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie-Française au XVII*e* siècle*, Paris, Champion, 1920, p. 26-27.
+
+[38] BLONDET, *op. cit.*, p. 302.
+
+[39] PASQUIER, *op. cit.*, p. 181. 
+
+[40] PARFAICT, t. VII, *op. cit.*, p. 159.
+
+[41] Voir partie V de l'introduction.
+
+[42] PARFAICT, t. V, *op. cit*., p. 338.
+
+[43] « *Here, as in many of his plays, Desfontaines shows little knowledge of technique. While the intrigue requires only a few hours, and takes place, as the author declares, in a single room, the unity of action is not preserved, for a number of extraneous scenes are introduced, and the second act could be entirely omitted without changing the main portion of the story. Linking is often lacking, the motivation is unsatisfactory, and the two chief characters, Semiramis and Melistrate, are not seen together on stage until the last scene of the play* ! » LANCASTER, *A History, op. cit.*, part II, vol. II, p. 586.
+
+[44] CLEMENT et LAPORTE, *op. cit.*, p. 145-146.
+
+[45] MAZOUER Charles, *Le Théâtre français de l'âge classique*, Paris, Champion, 2010, p. 315.
+
+[46] FORESTIER Georges, « Théorie et pratique de l'histoire dans la tragédie classique », *Littératures classiques*, n° 11, 1989, p. 96-97.
+
+[47] Voir annexe I.
+
+[48] MORERI Louis,* Le Grand dictionnaire historique ou le Mélange curieux de l'histoire sacrée et profane*, t. I, 1759.
+
+[49] Voir annexe I.
+
+[50] MORERI, *op. cit.*, t. VII.
+
+[51] *Ibid.*, t. IX.
+
+[52] Nous soulignons les variantes (comme pour les autres mots en caractères gras dans le tableau).
+
+[53] SCHERER Jacques*, La Dramaturgie classique en France*, Paris, Nizet, 1950, p. 459.
+
+[54] FORESTIER Georges, *La Tragédie française. Passions tragiques et règles classiques*, Paris, Armand Colin, 2010, p. 65.
+
+[55] SCHERER, *op. cit.*, p. 192.
+
+[56] *Ibid.*, p. 92 et 98.
+
+[57] « *While the intrigue requires only a few hours, and takes place, as the author declares, in a single room, the unity of action is not preserved, for a number of extraneous scenes are introduced, and the second act could be entirely omitted without changing the main portion of the story. Linking is often lacking, the motivation is unsatisfactory, and the two chief characters, Semiramis and Melistrate, are not seen together on stage until the last scene of the play* ! » LANCASTER, *op. cit.*, p. 586.
+
+[58] BLONDET, *op. cit.*, p. 151.
+
+[59] Voir tableau des présences (annexe III).
+
+[60] *Bibliothèque universelle des romans*, ouvrage périodique, septembre 1780, Paris, Gueffier, p. 21.
+
+[61] GIBLET Henrico, *Della Prasimene portata dal francese e publicata*, Venetia, 1654.
+
+[62] *The Amours of Milistrate and Prazimene : A novel, Done into English from the Third Edition of the French, by a Gentleman*, London, Burrough and Baker, 1707.
+
+[63] BOURQUI et DE RYEFF, *op. cit*., annexe II, p. 558. 
+
+[64] *Ibid.*
+
+[65] *Ibid.*, p. 559.
+
+[66] Voir annexe II.
+
+[67] *Ibid.*, p. 558* sq.*
+
+[68] Voir le passage en italique dans le tableau comparatif.
+
+[69] PASQUIER, *Introduction auVéritable Saint-Genest*, dans *Théâtre complet de Rotrou*, t. IV, Paris, Classiques Garnier, 2001, p. 160.
+
+[70] BLONDET, *op. cit*., p. 294.
+
+[71] « Il est raisonnable de supposer que la *Sémiramis* de Gilbert a été représenté en premier, probablement en 1646, et que Desfintaines a intitulé sa pièce *La Véritable Sémiramis* pour faire une distinction entre les deux et pour mettre en avant l'affirmation que sa pièce était la plus fidèle à l'histoire. Il en a probablement hâté la publication pour devancer celle de Gilbert, qui, en réponse, a ajouté à son titre “Tragedie representée par la troupe royalle.” » LANCASTER, *op. cit.*, p. 583.
+
+[72] Voir annexe I.
+
+[73] Voir annexe I.
+
+[74] Résumé de l'intrigue : « Ninus, roi d'Assyrie, a vaincu les Bactres menés par Zoroastre. Ce dernier était sur le point de tuer Ninus à la fin de la bataille, quand Sémiramis, femme de Ménon, blesse mortellement Zoroastre avec une flèche. Avant de mourir, il déclare qu'il avait prédit qu'il allait mourir des mains d'une femme et de son mari, et qu'un des deux gouvernerait le monde. Ninus craint maintenant que Ménon, qui selon lui est le mari en question, lui prenne son trône. Ce fait effraye aussi sa fille Sosarme, qui aimait Menon avant son mariage avec Sémiramis. Ninus propose d'épouser Sémiramis après qu'elle ait divorcée de Ménon, à qui il donnera sa fille en compensation. Sémiramis refuse mais Sosarme est d'accord. Quand il vient remercier Ninus, le roi propose qu'il devienne son héritier en divorçant de Sémiramis et en épousant Sosarme. Ménon refuse cela jusqu'à que le roi ordonne la décapitation de Sémiramis. Pour éviter cela, Ménon accepte d'épouser Sosarme. Sémiramis demande alors à Ninus de la laisser gouverner pendant 5 jours, après lesquels elle épousera Ninus si la mort ne l'en empêche pas. Ninus accepte, Sémiramis apprend que Ménon s'est tué immédiatement après son mariage. Ninus lui laisse le trône et les satrapes votent pour son exécution. Sémiramis fait tuer Ninus et quand Sosarme vient pour le lui reprocher, elle ordonne aussi sa mise à mort puis entreprend de mieux gouverner qu'un homme. » LANCASTER, *op. cit.*, p. 582.
+
+[75] BLONDET, *op. cit.*, p. 43.
+
+[76] *Ibid.*, p. 298.
+
+[77] BLONDET, *op. cit*., p. 296.
+
+[78] Voir le tableau des présences (annexe III).
+
+[79] SCHERER, *op. cit*., p. 21-22.
+
+[80] Voir tableau des présences (annexe III).
+
+[81] BLONDET, *op. cit*., p. 285.
+
+[82] Voir annexe IV.
+
+[83] Source : tableaux statistiques tirés du site théâtre-classique dirigé par Paul Fièvre.
+
+[84] FORESTIER Georges, *Introduction à l'analyse des textes classiques*, Paris, Nathan, 1993, p. 23.
+
+[85] Selon la définition de Jacques SCHERER : « Strophes se terminant par des pauses fortement marquées ainsi que par des recherche de style, et constituant un monologue » (*op. cit*., p. 438).
+
+[86] *Ibid*., p. 229-230.
+
+[87] FORESTIER Georges, *Passions tragiques et règles classiques. Essai sur la tragédie française*, Paris, PUF, 2003, p. 125.
+
+[88] *Ibid.*, p. 157.
+
+[89] MICHEL Lise, « Régicide et dramaturgie dans la tragédie française, de La Mort de César de Scudéry (1636) à la Rosemonde de Baro (1651) », *Littératures classiques*, n° 67, 2008.
+
+[90] *Ibid.*
+
+[91] FORESTIER Georges, *Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars*, Genève, Droz, 1988, p. 112.
+
+[92] Nous reprenons le terme qui figure en titre courant aux pages III, IV et V de l'édition originale.
+
+[93] François Honorat de Beauvilliers (1607-1687) « Septième comte de sa famille, & premier duc de S. Aignan, pair de France, … conseiller du roi en tous ses conseils, chevalier de ses ordres et premier genthilhomme de sa chambre, lieutenant-général de ses armées, … l'un des quarante de l'académie françoise. » (Moréri,* Grand dictionnaire historique*, t. II). Il fut  un grand protecteur des arts et il écrivit aussi quelques poèmes.
+
+[94] Melistrate étant le fils de Sémiramis, ce qu'elle ignore jusqu'à la deuxième scène de l'acte V, elle se rend donc coupable d'un désir incestueux en l'aimant.
+
+[95] « Maison féconde en hommes illustres, a produit les comtes et ducs de Saint-Aignan » (*ibid.*)
+
+[96] Au sens de « Contenir ». (F.)
+
+[97] « Il se dit figurément d'une personne qui parle à la place d'une autre, qui explique les intentions d'une autre. » (A.)
+
+[98] Il n'y a pas de notice pour ce personnage dans *Le Grand dictionnaire historique* de Moréri ni dans les abrégés d'histoire antique. Néanmoins, il faut noter qu'un roman intitulé *La Prazimène*, écrit par le sieur Le Maire, a été publié en 1643. Desfontaines y trouve la structure de sa pièce, qui ne correspond pas à la version du mythe la plus répandue de la vie de Sémiramis.
+
+[99] « Qui est reputé estre ce qu'il n'est pas. » (A.)
+
+[100] « Le Gentilhomme servant d'un Chevalier, qui l'accompagne à l'armée et en toutes ses entreprises. » (F.)
+
+[101] La présence de la rubrique de personnage « Herminie » est intéressante car elle ne prend jamais la parole dans la pièce. Nous supposons donc qu'il s'agit de la suivante de Sémiramis dont la présence sur scène est importante car elle est le seul témoin de la discussion entre Sémiramis et Merzabane.
+
+[102] Diérèse : ce mot compte pour quatre syllabes (autres occurrences aux vers 109, 119, 135, 138, 153, 308, 352, 635, 1017, 1026, 1029, 1173, 1178, 1257, 1305, 1430, 1439, 1502, 1507 et 1827). 
+
+[103] Sémiramis est souvent présentée comme étant une grande guerrière.
+
+[104] Il faut comprendre que Melistrate a acquis une position sociale assez élevée en combattant mais il l'aurait certainement refusée si elle lui avait été transmise par héritage, sans qu'il ne la mérite.
+
+[105] Diérèse : ce mot compte pour quatre syllabes (autres occurrences aux vers 45, 227, 228, 329, 350, 367, 372, 429, 451, 452, 489, 491, 492, 607, 608, 703, 717, 718, 797, 798, 858, 871, 937, 938, 957, 958, 1046, 1057, 1058, 1082, 1097, 1098, 1120. 1185, 1186, 1215, 1241, 1242, 1272, 1321, 1361, 1371, 1407, 1515, 1637, 1638, 1686, 1709, 1710, 1721, 1749, 1750 et 1827).
+
+[106] Ici Merzabane explique que, selon lui, si Melistrate veut épouser une princesse c'est uniquement dans l'optique d'acquérir un plus haut statut social voire de devenir roi.
+
+[107] En effet, Melistrate n'est qu'un simple général et il ne peut donc pas prétendre à épouser une princesse de sang royal.
+
+[108] Diérèse : ce mot compte pour quatre syllabes (autres occurrences aux vers 555, 807, 943 et 999). Voir le troisième chapitre de l'introduction.
+
+[109] « Province d'Asie au Grand-Seigneur ». (*Grand dictionnaire historique*, t. I).
+
+[110] Il faut comprendre que la première moitié de ce vers est dite à voix basse.
+
+[111] Au sens de « hors de doute, certainement ». (F.)
+
+[112] Ce point d'intonation marque ici la surprise et la colère de Sémiramis. (FORESTIER Georges,* Lire Racine*, dans* Œuvres complètes de Racine*, t. I, p. LXII et LXIII)
+
+[113] Lorsque *quand* est suivi du conditionnel, « la subordonnée prend alors valeur de concessive hypothétique. » (N. FOURNIER,* Grammaire du français classique*, §525)
+
+[114] Diérèse : ce mot compte pour trois syllabes (autres occurrences aux vers 139, 244, 262, 299 et 555).
+
+[115] Selon Sémiramis, même si Prazimène et Melistrate étaient d'un même rang social et pouvaient donc se marier, cet acte signerait la fin du bonheur et des succès de Melistrate. 
+
+[116] « Se dit de celuy qui aime avec trop de passion une creature. » (F.) 
+
+[117] Il s'agit d'un point d'intonation qui marque un ordre et non une question. 
+
+[118] « Raisonnement fondé sur des probabilitez sans aucune demonstration. » (F.) 
+
+[119] Au sens de « Réellement ». (A.)
+
+[120] Référence à Cupidon, le dieu de l'amour.
+
+[121] Métaphore de l'amour qui emprisonne celui qui aime.
+
+[122] Melistrate étant un valeureux guerrier, il est ainsi nommé comme étant le fils de Mars, le Dieu de la guerre. 
+
+[123] L'Arménie est un royaume au nord-est de l'Assyrie que Melistrate doit conquérir.
+
+[124] « Contre le gré d'une personne. » (A.)
+
+[125] Roi d'Arménie qui, selon Diodore de Sicile, « se voyant hors d'état de résister, alla au-devant de son ennemi (Ninus) avec des présents, et lui offrit sa soumission » (*Bibliothèque** historique*, livre II, §113). Nous constatons ici que Desfontaines modifie l'histoire originale puisque dans sa pièce, c'est Melistrate qui va se battre contre Barzane pour Ninus. Ce choix d'écriture permet à Sémiramis de faire assassiner Ninus en l'absence de Melistrate et répond donc à une nécessité dramatique.
+
+[126] Sens militaire : « Réduire en sujétion par la force des armes ». (A.) 
+
+[127] Nous pouvons noter l'usage d'un clitique atone et antéposé dû au fait que la séquence comporte « deux impératifs coordonnés, qui conservent le schéma du moyen français. (…) Cette construction, usuelle en français classique, a pour effet de lier fortement les deux verbes au sein de l'énoncé ». (*Grammaire du français classique*, § 115, N. Fournier) 
+
+[128] Point d'intonation, ici il ne s'agit pas d'une question mais d'un ordre.
+
+[129] Legerde, ville d'Arménie.
+
+[130] Nous n'avons pas trouvé de trace de ce personnage dans les abrégés d'histoire antique. Nous supposons donc qu'il s'agit d'un général mineur ou bien que Desfontaines l'a inventé pour servir son récit.
+
+[131] « Escrit qu'on envoye à quelqu'un pour le deffier à un combat singulier, soit pour des tournois, soit pour un duel formé. » (F.)
+
+[132] Valeur temporelle équivalente à « alors que ».
+
+[133] Tout comme pour son amant Benzamin, nous n'avons trouvé aucune mention de ce personnage dans les abrégés d'histoire antique. Nous pouvons supposer qu'il s'agit aussi d'une invention dramatique de Desfontaines.
+
+[134] Tout comme le Sort, qui hésitait pour savoir à qui accorder la victoire avant de finalement choisir Melistrate, Xidiane, qui est l'amante de Benzamin, va elle aussi prendre le parti de son ennemi.
+
+[135] « Casque ». (F.)
+
+[136] Il faut comprendre qu'elle essaye de convaincre Melistrate de l'aimer en retour.
+
+[137] Benzamin est ici « le trahy » et « le traistre » désigne Xidiane.
+
+[138] Il faut comprendre : « celle qui s'offre à lui ».
+
+[139] Pour se racheter de sa trahison envers Benzamin, Xidiane se suicide.
+
+[140] Au sens de « Faire une serieuse application d'esprit à un dessein, afin de tascher d'y reüssir ». (F.) Cela signifie ici que tout est mis en œuvre pour guérir sa blessure.
+
+[141] « Expedier quelqu'un, l'envoyer en diligence avec des ordres ; le renvoyer avec les expeditions qu'il attend. » (A.)
+
+[142] « Cas fortuit, ce qui arrive par hazard. Il se prend presque tousjours en mauvaise part. » (A.)
+
+[143] Il faut comprendre : mourir.
+
+[144] Le décompte des quatre syllabes de la signature « Prazimène » correspond dans le cadre du système prosodique aux quatre premières syllabes du vers d'après, ce qui crée ainsi un alexandrin (vers 197).
+
+[145] Au sens de « donner ».
+
+[146] Au sens de « de plus ».
+
+[147] Au sens de « Quereller, plaider, disputer ». (F.) 
+
+[148] Il s'agit du pronom « il » neutre. (*Syntaxe française du XVII*e* siècle*, A. HAASE)
+
+[149] La position en tête de phrase d'un adverbe entraîne la postposition du sujet. (*Grammaire du français classique*, § 38)
+
+[150] Au sens de « bien que ».
+
+[151] « Cruel, sans pitié ». (A.)
+
+[152] « Promettre la foy de mariage, ou consentir. » (F.)
+
+[153] Diérèse : ce mot compte pour quatre syllabes (autres occurrences aux vers 214, 529, 931, 974, 1609 et 1624).
+
+[154]  « Raconter une chose autrement qu'elle n'est, la cacher sous des apparences contraires. » (A.)
+
+[155] « On les fait maîtresses du destin de la vie des hommes, depuis leur naissance jusqu'à leur mort. » (*Grand dictionnaire historique*, t. VIII) 
+
+[156] La construction « prêt » suivie de la préposition « de » est classique au XVII*e* siècle. En effet, la langue de l'époque envisageait le complément de certains verbes comme une cause. (*Syntaxe française du XVII*e* siècle*, §132.A)
+
+[157] Signifie poétiquement la « Mort ».
+
+[158] Cette métaphore désigne Melistrate.
+
+[159] Symboles de victoires militaires.
+
+[160] Il faut comprendre : S'il est humainement possible de mettre fin à son malheur.
+
+[161] Diérèse : ce mot compte pour quatre syllabes.
+
+[162] Au sens de « hauteur ».
+
+[163] « Corrompre, changer la nature de quelque chose. » (F.)
+
+[164] Diérèse : ce mot compte pour trois syllabes (autres occurrences aux vers 438, 577, 707, 821, 905, 962, 1123, 1555, 1578, 1665, 1689, 1737, 1769 et 1770).
+
+[165] Diérèse : ce mot compte pour quatre syllabes.
+
+[166] Voir note du vers 65.
+
+[167] « Un homme qui se laisse emporter par sa passion à faire des choses hors de raison. » (A.)
+
+[168] « Respect, soûmission ». (F.)
+
+[169] Elle parle ici des sentiments que Ninus a pour elle.
+
+[170] Au sens de « demande ».
+
+[171] « Il se prend quelquefois plus estroitement pour une raison apparente dont on se sert pour couvrir & pallier quelque mensonge, ou quelque mauvaise action, afin de persuader ce qu'on desire » ou « signifie figurément. Pretexte, apparence ». (D.A. 94)
+
+[172] Il faut comprendre que si elle lui avoue ce qu'elle veut, c'est uniquement parce que Ninus lui a demandé de parler.
+
+[173] « Ordonner, faire des reglements pour maintenir les choses dans l'ordre. » (F.)
+
+[174] « Souverainement. » (F.)
+
+[175] Diérèse : ce mot compte pour deux syllabes (autres occurrences aux vers 738, 1168 et 1761).
+
+[176] Ici la négation est redoublée et il faut comprendre « ni » au sens de « quelque ».
+
+[177] « Se dit aussi en parlant des inegalitez qui se trouvent en quelques choses. » (F.) Ici il faut comprendre que les Capitaines de Ninus ont honte car Sémiramis est plus valeureuse qu'eux au combat.
+
+[178] Au sens de « surpasser ». (F.)
+
+[179] Ici adverbe de temps avec le sens de « plus vite ».
+
+[180] Au sens de « pratique, execution » (F.). Il faut donc comprendre « Je vais exécuter ce que j'ai promis ».
+
+[181] Voir la note de la rubrique de personnage de l'Acte I, scène 1.
+
+[182] « Ne demeurer pas d'accord d'avoir dit ou fait quelque chose. » (F.)
+
+[183] Il faut comprendre : la gloire est une juste récompense pour ses actions héroïques.
+
+[184] Succession de questions oratoires, Sémiramis n'attend pas de réponse de la part de Prazimène.
+
+[185] « Faire reflexion sur soy-mesme ». (A.)
+
+[186] Prazimène suit toujours la même logique selon laquelle la valeur au combat de Melistrate fait de lui l'égal d'un roi, même s'il n'est pas de haute naissance.
+
+[187] « Despense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solemnelle et plus éclatante. » (F.)
+
+[188] « Un homme qui ne se distingue en rien du commun, une vertu commune & ordinaire. » (A.)
+
+[189] Un « faux brillant » est « un trait d'esprit mal appliquez ». (F.) Ici Sémiramis fait référence à l'idée que Prazimène a exprimée précédemment et qui selon elle la conforte dans son erreur.
+
+[190] Il faut comprendre que plus on acquiert de gloire moins on connaît sa vraie valeur.
+
+[191] « Devant que (conjonction) qui signifie auparavant ». (F.)
+
+[192] « Estimer, faire cas ». (F.)
+
+[193] Comprendre « où ».
+
+[194] Elle parle ici de la victoire de Melistrate face à Benzamin.
+
+[195] Le substantif « courage » désigne Melistrate qui est appelé par sa principale qualité.
+
+[196] Au sens « d'orgueilleuse ». (F.)
+
+[197] Signifie  « bien que ». (F.)
+
+[198] « Se dit de la resolution, de la disposition de l'esprit. » (F.)
+
+[199] La métaphore que Prazimène utilise ici assimile le sang de Melistrate à la mer et sa vie à un bateau qui serait sur le point de couler. Elle parle ici de la mort prochaine de Melistrate si elle ne lui avait pas écrit cette lettre.
+
+[200] « Recevoir favorablement. » (A.)
+
+[201] Oronclide est le fils putatif de Merzabane qui est un prince, il est du même rang social que Prazimène et leur mariage serait donc possible. 
+
+[202] « Estre furieux & hors de sens. » (A.)
+
+[203] « Estre rempli de despit. » (A.)
+
+[204] « Suivre l'advis, le conseil de quelqu'un. » (F.)
+
+[205] « Se dit figurément de toute sorte de perte, de ruine, & de malheur. » (A.) Ici Prazimène continue d'utiliser une métaphore marine pour parler de son malheur.
+
+[206] « Agir contre quelqu'un, soit secrettement, ou à force ouverte, pour tascher de le destruire, et de se mettre à sa place. » (F.)
+
+[207] L'article « La » renvoie au substantif « la main » au vers 568 et désigne donc Merzabane.
+
+[208] Au sens de « concerner ». (A.)
+
+[209] « Normalement *il suffit* commande le subjonctif dans la mesure où le contenu de la subordonnée n'est pas asserté, mais envisagé comme une simple condition nécessaire, mais l'indicatif est également fréquent, et il marque que le locuteur prend en charge l'assertion de la complétive. » (*Grammaire du français classique*, § 508, N. Fournier.)
+
+[210] Il faut comprendre : vous n'avez plus la possibilité de refuser mon offre sans que cela n'entraîne votre mort.
+
+[211] « Estre en suspens, ne sçavoir de deux, ou de plusieurs partis lequel on doit prendre. » (A.)
+
+[212] Ici il faut comprendre : la bonne opinion qu'on a de moi, le respect que l'on me témoigne.
+
+[213] « Entièrement ». (F.)
+
+[214] Ici on peut noter la présence d'octosyllabes alors que la grande majorité de la pièce est en alexandrins.
+
+[215] Voir note du vers 510.
+
+[216] « Se faire rendre justice par force, par authorité. » (A.)
+
+[217] « Souslagement d'un mal ». (F.) Ici il faut comprendre que pour Prazimène, la mort est la solution des faibles face à une blessure. Elle veut être plus valeureuse et affronter Melistrate.
+
+[218] « Promptement, viste ». (A.)
+
+[219] Elle parle ici de sa lettre pour Melistrate.
+
+[220] « Se dit figurément en choses spirituelles et morales. Cet homme a l'esprit bien *reglé*, il a le jugement bon, il raisonne juste. » (F.) 
+
+[221] « Vraisemblance ». (F.)
+
+[222] « Croyance, sentiment, opinion, avis, pensée ». (RICHELET, *Dictionnaire françois*, 1680)
+
+[223] Orthographe poétique du substantif « pensée », on trouve de nombreuses occurrences de cette forme dans le texte.
+
+[224] « Dissemblable, contraire en quelque point. » (F.)
+
+[225] « Avoir en horreur, detester. » (F.)
+
+[226] Au sens de « mais cependant ».
+
+[227] Voir note du vers 505.
+
+[228] « Tour concessif *quoi…que* avec un référent non-humain. » (*Grammaire du français classique*, § 306)
+
+[229] L'omission du second « le » se justifie par la métrique de l'alexandrin. Cette construction est présente à de très nombreuses reprises dans le texte. De plus, « Au XVII*e* siècle, la répétition de l'article ou du pronom n'a souvent pas lieu … devant des adjectifs au superlatif se rapportant à un seul objet. » (*Syntaxe française du XVII*e* siècle*, § 144.C)
+
+[230] « L'opinion, le sentiment qui s'imprime dans l'esprit. » (A.)
+
+[231] Ici *aucun* est à comprendre « dans son sens primitif de *quelque* ». (*Syntaxe française du XVII*e* siècle*, §50)
+
+[232] « Dans une principale ou une indépendante, l'indicatif de certains verbes peut exprimer une idée de conditionnel (irréel présent ou passé). … Au XVII*e* siècle, la grammaire française est encore semblable sur ce point à celle du latin. » (*Précis de grammaire des lettres latines*, § 411.)
+
+[233] «  Se dit figurémenent des yeux de l'esprit, et signifie, détromper ». (F.)
+
+[234] Ici le substantif « caractere » sert à désigner les lettres qui composent la missive de Prazimène, il est donc question du passage à l'écrit de la princesse.
+
+[235] Oronclide est aussi amoureux de Prazimène et selon Palmedon, Merzabane a volé la lettre pour que la princesse, se croyant trahie par Melistrate, accepte d'épouser son fils.
+
+[236] Voir note du vers 272.
+
+[237] Comprendre « où ».
+
+[238] Ici il s'agit d'une inversion des deux termes, il faut donc comprendre « la vertu même ».
+
+[239] Cette périphrase désigne Semiramis.
+
+[240] « Solemnitez qu'on fait au commencement des actions et assemblées publiques. » (F.)
+
+[241] Peuples voisins de l'Assyrie. 
+
+[242] Il s'agit du père de Sémiramis, elle mentionne au vers 237 que Ninus a tué son père.
+
+[243] « Declarer la guerre ». (A.) 
+
+[244] « Chanceux, à qui le hasard est favorable ». (F.)
+
+[245] « L'une des cinq villes des Philistins, bâtie sur les côtes de la mer Méditérranée ». (*Grand dictionnaire historique*, t. I)
+
+[246] Ici l'emploi du terme « enfant » crée une ambiguïté car il peut s'agir du dieu Amour qui est fréquemment représenté sous les traits d'un enfant ou bien de Sémiramis dont Ninus vient de tuer le père et qui est souvent comparée à une divinité.
+
+[247] Il s'agit d'une question oratoire qui présente un fait comme étant évident et qui n'attend aucune réponse.
+
+[248] « On dit en ce sens, qu'une personne change de *visage*, quand elle blesmit, pâlit, rougit. » (F.)
+
+[249] Cet enchaînement de questions oratoires est utilisé pour démontrer la valeur de Sémiramis.
+
+[250] Référence au fameux peuple de femmes guerrières.
+
+[251] Nous n'avons trouvé aucune mention de ce personnage dans les abrégés d'histoire antique ni dans le *Grand dictionnaire historique* de Moréri. 
+
+[252] Comprendre : « à moitié ».
+
+[253] Il s'agit d'une nouvelle question oratoire, Ninus veut montrer que son choix est une évidence.
+
+[254] Au sens de « Se soûmettre ». (F.) 
+
+[255] « Fils du Soleil et de Climéne, se laissant entraîner à son ambition, osa entreprendre de conduire le char de cet astre, … mais ne sachant point la route qu'il falloit tenir, & n'ayant pas assez de force pour gouverner les chevaux, il s'approcha trop près de la terre qui fut presque entièrement brulée. Ce qui irrita si fort Jupiter, qu'il le tua d'un coup de foudre, & le précipita dans le Pô. » (*Grand dictionnaire historique*, t. IX)
+
+[256] Diérèse : ce mot compte pour trois syllabes (autre occurrence au vers 1551).
+
+[257] « *Aucun* s'emploie souvent jusqu'au XVI*e* siècle et, plus rarement, au XVII*e* dans son sens primitif de *quelque* et de *quelqu'un.* » (*Syntaxe française du XVII*e* siècle*, § 50)
+
+[258] « Certainement, indubitablement, assurément. » (A.)
+
+[259] « On dit poëtiquement *Perdre la lumiere, estre privé de la lumiere*, pour dire, Mourir. » (A.)
+
+[260] « Charge, fardeau, corps pesant qui porte sur une chose & qui la charge. » (A.)
+
+[261] « Se dit d'une possession qui nous vient par droit hereditaire, qu'on a partagé. » (F.)
+
+[262] « Piquer, mettre en colere. » (F.)
+
+[263] Voir note du vers 457. 
+
+[264] « Frere de pere et de mere; et il se dit à la difference des freres uterins, qui ne sont freres que du costé de la mere. » (F.)
+
+[265] « Souffrance, indulgence qu'on a pour ce qu'on ne peut empescher. » (A.)
+
+[266] Il faut comprendre : « Nous sommes trop avancés dans cette entreprise ».
+
+[267] Forme vieillie pour l'époque du verbe « arroser ».
+
+[268] Voir note du vers 861.
+
+[269] « Prompte execution ». (A.)
+
+[270] « Descouvrir un secret, mettre au jour une chose qu'on vouloit tenir cachée. » (F.)
+
+[271] « Dans peu de temps ». (A.)
+
+[272] « Signifie figurément celuy qui est attaché estroitement à un superieur, à celuy qui a fait sa fortune, à qui il doit son élevation.» (F.)
+
+[273] « Un grand Prince, un grand General d'armée qui a remporté plusieurs victoires, & donné des preuves d'une valeur extraordinaire. » (A.)
+
+[274] Point d'intonation qui marque ici l'étonnement d'Oronclide.
+
+[275] « Meurtrier ». (F.)
+
+[276] Signifie poétiquement « vivre ». (A.)
+
+[277] « On dit figurément, qu'un homme est mort au *lit d'honneur*, pour dire, qu'il est mort à la guerre en homme d'honneur, pour la Foy, ou pour son Prince. » (F.)
+
+[278] « Ce qu'on prepare pour faire une chose plus ou moins solemnelle. » (F.)
+
+[279] « Monarque, Roy. Qui a une puissance souveraine. » (D.A 1694)
+
+[280] « Meuble precieux qui sert de parade et de titre d'honneur chez les Princes. Il est fait en forme du haut d'un lit, composé de trois pentes, d'un fonds et d'un dossier. » (F.)
+
+[281] « Se dit figurément de la colere de Dieu, ou des Rois. » (F.)
+
+[282] « Estre exposé ». (A.)
+
+[283] « Se dit aussi du meurtre d'une personne sacrée, comme celle des Roi. » (F.)
+
+[284] Voir note du vers 717.
+
+[285] « Se dit aussi de ce qui est conforme à la raison. » (F.)
+
+[286] Oronclide est seul, il a entendu le cri de Melistrate qui vient de se faire attaquer par Prazimène derrière le théâtre et il cherche donc à savoir ce qui se passe. Le blessé revient ensuite sur le théâtre et il s'adresse à Oronclide qu'il prend pour son agresseur.
+
+[287] « Qui est naturellement enclin à la pitié. » (A.)
+
+[288] « Un Fleuve que les Anciens supposoient estre dans les enfers, & dont les eaux avoient la faculté de faire oublier toutes choses. » (A.)
+
+[289] Comprendre : « sans précédent ».
+
+[290] C'est une rime pauvre voire une facilité d'écriture. On peut supposer qu'il s'agit d'un repentir de Desfontaines qui avait fait auparavant rimer « exemple » avec « ample » et qui à cause d'une inadéquation de sens, a finalement choisi le synonyme « grande », perdant de ce fait la rime initiale.
+
+[291] Voir note du vers 861.
+
+[292] Succession de questions oratoires qui montrent la détresse de Sémiramis.
+
+[293] Comprendre : « Ce qui m'outrage le plus ».
+
+[294] Signifie ici : « La faculté de comprendre les choses, & d'en juger selon l'usage de la raison ». (A.)
+
+[295] « Qui corrompt, qui desbauche. » (F.)
+
+[296] « C'est aussi une arme de trait, ou flesche quarrée, qu'on tire avec une arbaleste. C'est par comparaison qu'on appelle le *carreau* de la foudre, le trait ou la pierre qu'on croist être dans la foudre, qui blesse et qui tuë. » (F.)
+
+[297] Voir note du vers 861.
+
+[298] Au sens de « de plus ».
+
+[299] Ici l'expression « un coup si généreux » est ironique, puisque Merzabane prétend tuer son fils, qui ne peut même pas se défendre car il ne peut attaquer son père. Il s'agit donc d'un coup particulièrement lâche.
+
+[300] « Celuy qui reprend ou qui controlle les actions d'autruy. » (A.)
+
+[301] Comprendre « est en prison ».
+
+[302] « Se presenter en Justice, ou y produire quelque procés. » (F.)
+
+[303] Il faut comprendre : « Mettre en danger la bonne opinion qu'on a de ma valeur ».
+
+[304] Voir note du vers 1470.
+
+[305] « Ne l'épargner pas assez. » (A.) Il faut comprendre que sauver sa vie, signifierait qu'il perdrait une partie de son honneur puisqu'il se cacherait plutôt que de combattre.
+
+[306] « Retirer une chose qu'on avoit mise en gage. » (F.)
+
+[307] « Courroux, colere ». (A.)
+
+[308] « Impie qui profane les choses saintes. » (F.) Ce nom vient du fait qu'Oronclide vient d'attaquer son père qui a un caractère sacré du fait de la filiation.
+
+[309] « Au commencement du XVII*e* siècle, la préposition *dedans* est très usitée ; plus tard elle ne se recontre que rarement. » (*Syntaxe française du XVII*e* siècle*, §126, 1°). Ici il faut donc comprendre « dans ».
+
+[310] « Ce qui est public et connu de tout le monde. » (F.)
+
+[311] « Faire connoistre par un raisonnement convaincant, par un témoignage incontestable, & par des pieces justificatives. » (D.A.) Merzabane doit convaincre la reine de la vérité de son histoire.
+
+[312] Comprendre «  de manière inoportune ».
+
+[313] « Le crime que commet celuy qui tuë son pere. » (A.)
+
+[314] Voir note du vers 1283.
+
+[315] « Le meurtrier, ou le meurtre d'un pere, d'une mere, ou de quelque autre parent fort proche. » (F.)
+
+[316] Synérèse, ce mot compte pour deux syllabes.
+
+[317] « Mettre une chose à la place d'une autre par fraude et tromperie. » (F.)
+
+[318] Substantif créé à partir de l'adjectif « bizarre ». Il faut surtout retenir l'idée de caprice. « La bizarre » est ici associée à l'idée de sort et donc de hasard. On trouve une autre occurrence de cette forme chez Boileau : « Enfin, quoi que je fasse, ou que je veuille faire / La bizarre toujours vient m'offrir le contraire ». (*Satire II, à M. de Molière*, 1664)
+
+[319] Cet adverbe « était courant dans le moyen français ; on ne le trouve guère plus au XVII*e* siècle. » (*Syntaxe française du XVII*e* siècle*, § 134)
+
+[320] « *Alcide* est le nom qu'on donna à Hercule, pour exprimer sa force. » (*Grand dictionnaire historique*, t. I)
+
+[321] « Union, amitié de deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun different. » (F.)
+
+[322] « Vraisemblable, qui merite de la croyance. » (F.)
+
+[323] « Adjouster ce qui manque, fournir ce qu'il faut de surplus. » (A.)
+
+[324] Voir note du vers 257.
+
+[325] Orthographe vieillie pour « veuve ».
+
+[326] Comprendre : «  et pour faire partie ».
+
+[327] Voir note du vers 811.
+
+[328] « Terre que les Souverains donnent à leurs puisnez pour leur partage. » (F.)
+
+[329] Il faut comprendre « en plus ».
+
+[330] DIODORE DE SICILE, *Bibliothèque historique*, éd. Bernard Eck, Paris, Les Belles Lettres, 2003, livre II, 1 à 20.
+
+[331] ELIEN, *Histoires variées*, éd. A. Lukinovitch et A.-F. Morand, Paris, Les Belles Lettres, 1991, livre VII, chapitre 1, p. 77.
+
+[332] JUSTIN, *Abrégée des histoires philippiques de Trogue Pompée*, trad. E. Chambry, Paris, Garnier, 1936, Livre I, I, 4 à 10 et Livre I, II, 1 à 10, p. 5, 7 et 9.
+
+[333] MOÏSE DE KHORENE, *Histoire de l'Arménie*, éd. et trad. Annie et Jean-Pierre Mahé, Paris, Gallimard, 1993, p. 130-132 et 135.
+
+[334] MARELLO Pierre, « Les femmes et le palais », *Dossiers d'Archéologie*, n° 171 *Les fastes des palais néo-assyriens*, 1992, p. 54-55.
+
+[335] Cette liste est non exhaustive et ne propose que les extraits de la pièce les plus semblables au roman. Les mots repris sans modifications par Desfontaines sont mis en caractères gras tandis que les variations effectuées notamment grâce à l'emploi de synonymes sont soulignées.
+
+[336] Extraits du site www.theatre-classique.fr dirigé par Paul Fièvre.

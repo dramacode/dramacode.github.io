@@ -530,14 +530,14 @@ Il me rend les mépris qu'il reçeut autrefois.
 Mais pour Drusus...  
 
     AGRIPINE.
-Madame, il va bien-tost paroistre :  
+        Madame, il va bien-tost paroistre :  
 En voyant tant d'appas⁎ son amour peut renaistre :  
 Pour l'oster de mes fers⁎ essayer leur pouvoir.  
 Je viens de le mander⁎, & vous le pourrez voir.  
 Un seul remors...  
 
     LIVIE.
-Adieu. Quoique l'ingrat m'oublie,  
+        Adieu. Quoique l'ingrat m'oublie,  
 Ma haine est foible encor & mon coeur s'en deffie⁎ :  
 Et je le veux, si je puis, le haïr assez bien  
 Pour le voir, le braver, & n'en redouter rien.  
@@ -551,12 +551,12 @@ AGRIPINE, DRUSUS, FLAVIE.
 Le prince vient.  
 
     AGRIPINE.
-Seigneur, ma main vous est promise,  
+        Seigneur, ma main vous est promise,  
 Et je puis avec vous parler avec franchise.  
 M'aimez-vous?  
 
     DRUSUS.
-Ah Madame ! en ce fatal instant  
+        Ah Madame ! en ce fatal instant  
 Que mon sort seroit beau si vous m'aimiez autant !  
 De quelqu'espoir flateur⁎ que mon coeur s'entretienne⁎,  
 Vous ne vous donnez pas [62] quoy que je vous obtienne,  
@@ -571,7 +571,7 @@ Que d'avoir de l'amour qui n'est pas mutuel.
 Ah Seigneur !  
 
     DRUSUS.
-Poursuivez, sans que rien vous contraigne.  
+        Poursuivez, sans que rien vous contraigne.  
 Je lis dans vostre coeur, Germanicus y regne :  
 En vain à vostre sort le mien doit estre joint ;  
 Tant que vous l'aimerez vous ne m'aimerez point.  
@@ -622,7 +622,7 @@ De reprendre le coeur qu'il faut que je vous donne.
 Un mois est peu de chose, il me suffit.  
 
     DRUSUS.
-Helas !  
+        Helas !  
 Un mois est peu de chose à vous qui n'aimez pas !  
 Mais, Madame, aux Amans dont les flâmes⁎ paroissent,  
 Plus un hymen⁎ est proche, & plus les desirs croissent.  
@@ -687,7 +687,7 @@ Ne vous exposez point à des peines mortelles.
 Germanicus...  
 
     AGRIPINE.
-Demain j'en auray des nouvelles.  
+        Demain j'en auray des nouvelles.  
 Pison, qui sert ma flâme⁎ en attend aujourd'huy.  
 J'ay beaucoup de sujet⁎ de me loüer de luy.  
 Pison est sage, ardent⁎, civil, soûmis, fidele :  
@@ -699,7 +699,7 @@ Et montre en ma faveur une bonté si grande,
 Un respect si profond...  
 
     FLAVIE.
-Madame, le voicy.  
+        Madame, le voicy.  
 
     AGRIPINE.
 De peur de le contraindre éloigne toy d'icy.  
@@ -715,7 +715,7 @@ Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
 Cher Pison.  
 
     PISON.
-Cette lettre, où sont peints⁎ vos secrets,  
+        Cette lettre, où sont peints⁎ vos secrets,  
 Dés hier [71] me fut renduë, & je l'apporte exprés⁎.  
 Je serois criminel, sçachant qui vous l'envoye,  
 Si j'avois plus long-temps differé vostre joye.  
@@ -724,7 +724,7 @@ Et mon plus grand plaisir est de vous en causer,
 Madame.  
 
     AGRIPINE.
-Vostre zele a déja sceu paroistre.  
+        Vostre zele a déja sceu paroistre.  
 
     PISON.
 Il n'a pû jusqu'icy se bien faire connoistre⁎.  
@@ -756,20 +756,20 @@ Mais je laisse en ma place un plus grand Capitaine [75].
 Il doit approuver mon retour ;  
 Et puisque j'ay servy sa haine,  
 Je puis bien servir mon Amour.  
-GERMANICUS [76].  
+        GERMANICUS [76].  
 
     AGRIPINE *continuë.*
 Il vient, Pison !  
 
     PISON.
-Vostre ame en paroit toute émeuë ;  
+        Vostre ame en paroit toute émeuë ;  
 Souhaitez-vous, Madame, ou craignez-vous sa veuë ?  
 
     AGRIPINE.
 Je le veux voir.  
 
     PISON.
-De grace, examinez-vous bien.  
+        De grace, examinez-vous bien.  
 
     AGRIPINE.
 Je le veux voir, vous dis-je, & par vostre moyen.  
@@ -783,7 +783,7 @@ De semblables secrets souffrent⁎ peu de témoins.
 Vous les sçavez.  
 
     PISON.
-Helas ! Que n'en sçay-je un peu moins.  
+        Helas ! Que n'en sçay-je un peu moins.  
 A servir vostre Amour le plaisir que je goûte,  
 M'est un plaisir fatal par le prix qu'il me coûte.  
 Ce n'est pas que mon zele ait jamais chancelé ;  
@@ -864,7 +864,7 @@ Ne vous obstinez point à vouloir vous trahir.
 Parlez.  
 
     PISON.
-Vous le voulez, & je vais obeïr.  
+        Vous le voulez, & je vais obeïr.  
 L'adorable Beauté qui captive⁎ mon ame,  
 Peut estre comparée avecque [80] vous, Madame :  
 Quand je vous apperçois, j'apperçois tous ses traits ;  
@@ -878,7 +878,7 @@ Et pour estre aimé d'elle, il faut l'estre de vous.
 De moy, Pison ?  
 
     PISON.
-De grace ; achevez de m'entendre ;  
+        De grace ; achevez de m'entendre ;  
 Mais calmez ce courroux⁎, ou daignez le suspendre ;  
 Et d'une ame tranquille, en ce malheureux jour,  
 Punissez mon audace, ou plaignez mon amour.  
@@ -891,7 +891,7 @@ Si vous n'en donniez point, en aurois-je pû prendre ?
 Et qui des deux, enfin, fait un crime plus grand,  
 Ou de l'oeil qui le donne, ou du coeur qui le prend ? [84]  
 
-    AGRIPINE. 
+    AGRIPINE.
 Ah ! Pison, si mes yeux ont osé vous seduire⁎,  
 Puisque je l'ignorois deviez-vous m'en instruire ?  
 Et ne sçaviez-vous pas qu'en trahissant leur sort,  
@@ -961,7 +961,7 @@ Qu'aucun autre que moy n'aimera jamais tant.
 Adieu, Madame.  
 
     AGRIPINE.
-Ah ciel ! est-ce ainsi qu'on me laisse ?  
+        Ah ciel ! est-ce ainsi qu'on me laisse ?  
 
     PISON.
 Pour vostre interest propre épargnez ma foiblesse,  
@@ -1003,10 +1003,10 @@ Disposez du pouvoir que j'auray dans ce lieu.
 Je vous l'ordonne.  
 
     PISON.
-Helas ! Adieu, Madame.  
+    Helas ! Adieu, Madame.  
 
     AGRIPINE.
-Adieu [94].  < Fin du premier Acte. >
+        Adieu [94].  < Fin du premier Acte. >
 
 
 # ACTE II.
@@ -1025,11 +1025,11 @@ Quoy ! me chasser, Madame, avec un si grand soin.
 O Ciel !  
 
     AGRIPINE.
-Germanicus ne doit pas estre loin,  
+        Germanicus ne doit pas estre loin,  
 Je crains sa veuë [95].  
 
     ALBIN.
-Helas ! il suffit de le plaindre.  
+        Helas ! il suffit de le plaindre.  
 D'un Amant si soumis vous n'avez rien à craindre.  
 Quoique vous l'arrachiez à l'espoir d'estre à vous,  
 D'une main qu'il adore il respecte les coups.  
@@ -1098,7 +1098,7 @@ On a qu'un pas à faire, & l'on est à l'amour.
 Qu'il me fuye.  
 
     ALBIN.
-A sa flâme⁎ épargnez ce supplice :  
+        A sa flâme⁎ épargnez ce supplice :  
 Exiler⁎ sa douleur, c'est en estre complice.  
 Il ne s'oubliera⁎ point à vostre auguste aspect :  
 Cet Amant qui perd tout ne perd pas le respect⁎.  
@@ -1112,7 +1112,7 @@ A le voir autrefois vos beaux yeux se sont plûs,
 Vous l'aimiez.  
 
     AGRIPINE.
-Et crois-tu que je ne l'aime plus ?  
+        Et crois-tu que je ne l'aime plus ?  
 
     ALBIN.
 Voyez-le donc : ce bien⁎ est le seul qu'il implore,  
@@ -1124,7 +1124,7 @@ Au nom de la pitié, si vous ne l'aimez plus.
 Le verray-je ?  
 
     FLAVIE.
-Du moins c'est trop estre interdite⁎ :  
+        Du moins c'est trop estre interdite⁎ :  
 De l'absence du Prince, il est bon qu'on profite.  
 Ou souffrez⁎ qu'il vous voye, ou donnez d'autres loix⁎.  
 
@@ -1135,7 +1135,7 @@ Au moins ce sera donc pour la derniere fois.
 Ouy, Madame.  
 
     AGRIPINE.
-Qu'il vienne. Et si je luy fut chere,  
+        Qu'il vienne. Et si je luy fut chere,  
 Que pour prix de l'effort qu'il me contraint de faire,  
 Il ait soin de ma gloire, & ne l'expose pas.  
 Toy, qui m'est si fidele, accompagne ses pas :  
@@ -1165,11 +1165,11 @@ AGRIPINE, PISON.
 
 
     AGRIPINE.
-Quelle surprise est égale à la mienne ?  
+        Quelle surprise est égale à la mienne ?  
 C'est Pison !  
 
     PISON.
-Oüy, Madame : & malgré mon adieu,  
+        Oüy, Madame : & malgré mon adieu,  
 J'interromps mon voyage, & reviens en ce lieu [107].  
 Si tantost⁎ à vos yeux j'ay montré ma foiblesse,  
 Jusqu'à faire l'aveu d'un amour qui vous blesse,  
@@ -1191,7 +1191,7 @@ Cet amour de mon coeur est banny pour jamais.
 Me le promettez-vous ?  
 
     PISON.
-Oüy, je vous le promets.  
+        Oüy, je vous le promets.  
 Je suis guery, Madame ; & vous allez connoistre⁎,  
 Qu'il seroit mal-aisé de le pouvoir mieux estre.  
 J'ay repris sur moy-même un empire⁎ absolu.  
@@ -1226,13 +1226,13 @@ Le retour de ce Prince alloit trop éclater⁎ ;
 Vous l'allez voir paroistre.  
 
     AGRIPINE.
-Et je veux l'éviter.  
+        Et je veux l'éviter.  
 
     PISON.
 Vous, Madame ?  
 
     AGRIPINE.
-Oüy, Pison, c'est en vain que j'hesite :  
+        Oüy, Pison, c'est en vain que j'hesite :  
 Pour le voir sans allarme⁎ il a trop de merite⁎.  
 Quand [114] de quelque vertu mon coeur seroit armé,  
 Vous sçavez qu'à le vaincre il est accoûtumé.  
@@ -1254,7 +1254,7 @@ Albin, son Confident vient de sortir d'icy.
 Je vous l'apprens.  
 
     PISON.
-Madame, il me l'a dit aussi.  
+        Madame, il me l'a dit aussi.  
 C'est un homme discret, mais à quoy qu'il s'engage⁎,  
 Vostre gloire est d'un prix qu'il est bon qu'on ménage.  
 Je n'ay pû sans douleur, malgré tous vos dédains,  
@@ -1278,7 +1278,7 @@ Et si vous le perdez sans verser quelques larmes [118] ?
 Qu'avez-vous dit ?  
 
     PISON.
-J'ay dit qu'il vous eût esté doux  
+        J'ay dit qu'il vous eût esté doux  
 De n'aimer que luy seul, comme il n'aime que vous :  
 Que son rare⁎ merite⁎ est gravé dans vostre Ame ;  
 Et qu'un Prince absolu vous arrache à sa flâme⁎.  
@@ -1287,7 +1287,7 @@ Et qu'un Prince absolu vous arrache à sa flâme⁎.
 Et qu'a-t-il répondu ?  
 
     PISON.
-Ses soûpirs à l'instant...  
+        Ses soûpirs à l'instant...  
 Mais, Madame, il viendra si vous m'arrétez tant.  
 Ne vous exposez point à ce peril extréme :  
 Les momens durent peu quand on voit ce qu'on aime.  
@@ -1298,7 +1298,7 @@ Ah ! Pison, je m'égare⁎, & l'on s'égare⁎ à moins.
 Allez luy dire... O Ciel ! le voicy.  
 
     PISON.
-Je vous laisse.  
+        Je vous laisse.  
 
     AGRIPINE.
 Demeurez. Vous present j'auray moins de foiblesse.  
@@ -1343,23 +1343,23 @@ Je vous aime, & vous vois, mon bonheur est extréme...
 Adieu, Prince.  
 
     GERMANICUS.
-Me fuir !  
+    Me fuir !  
 
     AGRIPINE.
-Vous m'aimez ?  
+    Vous m'aimez ?  
 
     GERMANICUS.
-Je vous aime.  
+        Je vous aime.  
 Aucun autre sujet⁎ ne m'ameine en ce lieu :  
 Vous aimer fait ma joye : Et vous, Madame ?  
 
     AGRIPINE.
-Adieu.  
+        Adieu.  
 Je crains trop un combat dont l'issuë est douteuse,  
 Seigneur.  
 
     GERMANICUS.
-Et vostre fuite, est-elle [122] point honteuse ?  
+        Et vostre fuite, est-elle [122] point honteuse ?  
 Aprés trois ans d'absence il m'eût esté bien doux  
 De pouvoir plus long-temps demeurer prés de vous.  
 Je m'estois assuré d'une ardeur⁎ mutuelle :  
@@ -1369,7 +1369,7 @@ Charmeroit tout le monde, & ne seroit qu'à moy.
 Cependant...  
 
     AGRIPINE.
-Ah ! Seigneur, laissez-moy l'innocence :  
+        Ah ! Seigneur, laissez-moy l'innocence :  
 Epargnez à ma gloire un soupçon qui l'offence :  
 A mon coeur tout à vous n'imputez rien de bas ;  
 Et si l'on vous trahit, ne m'en accusez pas.  
@@ -1435,17 +1435,17 @@ Je vois avec douleur celle d'un si grand homme ;
 Mais que puis-je ?  
 
     PISON.
-Drusus va revenir de Rome.  
+        Drusus va revenir de Rome.  
 De peur de vous trahir, je vous le dit tout haut.  
 
     AGRIPINE *à Pison*.
 Croyez-vous qu'il revienne ?  
 
     PISON.
-On l'attend.  
+    On l'attend.  
 
     AGRIPINE.
-Quoy ! si tost !  
+        Quoy ! si tost !  
 
     GERMANICUS.
 Pour calmer un transport⁎, qui me seroit funeste,  
@@ -1456,7 +1456,7 @@ Sauvez-moy de moy-même, & sans plus m'allarmer⁎...
 Je vous l'ay déja dit, que puis-je, enfin ?  
 
     GERMANICUS.
-M'aimer.  
+        M'aimer.  
 
     AGRIPINE.
 Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?  
@@ -1482,7 +1482,7 @@ Des maux⁎ que je vous fais, c'est me punir assez.
 Remenez-moy [127], Pison. Adieu, Prince.  
 
     GERMANICUS.
-Ah ! Madame !  
+        Ah ! Madame !  
 A travers vos discours je penetre en vostre ame :  
 Au Fils de l'Empereur vostre coeur fait la cour ;  
 Et vostre ambition va trahir mon amour [128].  
@@ -1538,10 +1538,10 @@ FLAVIE, AGRIPINE, GERMANICUS, PISON, ALBIN.
 
 
     FLAVIE.
-Madame...  
+    Madame...  
 
     AGRIPINE.
-Ah ! que viens-tu m'apprendre ?  
+        Ah ! que viens-tu m'apprendre ?  
 
     FLAVIE.
 Que le Fils de Cesar dans ce lieu se va rendre.  
@@ -1558,7 +1558,7 @@ C'est sur vous seul, enfin, que je jette les yeux.
 Sur moy ! Madame ?  
 
     AGRIPINE *à Germanicus.*
-Et vous, dans ce moment funeste,  
+        Et vous, dans ce moment funeste,  
 Seigneur, si du passé le souvenir vous reste,  
 Par bonté, par justice, ou du moins par pitié,  
 De son Appartement acceptez la moitié.  
@@ -1626,7 +1626,7 @@ L'Empereur par luy-même en vient d'estre assuré.
 Vostre Rival, Seigneur ! Germanicus ?  
 
     DRUSUS.
-Luy-même.  
+        Luy-même.  
 Rome de son retour montre une joye extrême :  
 Et déja le Senat qui se veut assembler,  
 Des suprêmes Honneurs croit le devoir combler.  
@@ -1669,7 +1669,7 @@ Mais vous m'avez trop bien tenu vostre promesse.
 Moy, Seigneur ?  
 
     DRUSUS.
-Oüy, Pison, je dois trop à vos soins :  
+        Oüy, Pison, je dois trop à vos soins :  
 Je vivrois plus heureux si je vous devois moins.  
 Car enfin, c'est en vain que l'Empereur s'obstine  
 A vouloir que mon coeur soit le prix⁎ d'Agripine :  
@@ -1710,7 +1710,7 @@ Vous préte un digne exemple à demeurer fidele :
 Tout parle en sa faveur ; mais enfin...  
 
     DRUSUS.
-Ah ! Pison,  
+        Ah ! Pison,  
 Elle vient ; vos conseils ne sont plus de saison [142].  
 Laissez-nous seuls.  
 
@@ -1720,7 +1720,7 @@ LIVIE, DRUSUS.
 
 
     LIVIE.
-Seigneur, vous auriez quelque peine  
+        Seigneur, vous auriez quelque peine  
 A vous imaginer le sujet⁎ qui m'ameine.  
 Je ne viens point icy par d'indignes soupirs  
 Mandier [143] le retour de vos ardens desirs :  
@@ -1763,14 +1763,14 @@ Il suffira de vous pour m'en faire raison.
 Tenez, Prince.  
 
     DRUSUS.
-Madame, au nom de ce que j'aime...  
+        Madame, au nom de ce que j'aime...  
 En croirez-vous mon coeur, s'il dit que c'est vous-même ?  
 
     LIVIE.
 Moy ! Seigneur ?  
 
     DRUSUS.
-Vous pouvez, pour hâter mon trépas⁎,  
+        Vous pouvez, pour hâter mon trépas⁎,  
 Avoir la cruauté de ne me croire pas.  
 Vous aimer, vous le dire, aprés mon inconstance⁎,  
 C'est vous faire, sans doute, une nouvelle offence ;  
@@ -1804,7 +1804,7 @@ J'en atteste des Dieux [146] la majesté suprême ;
 J'en atteste...  
 
     LIVIE.
-Autrefois vous en usiez de même.  
+        Autrefois vous en usiez de même.  
 Vos perfides sermens, tant de fois redoublez,  
 Par vostre ingratitude ont esté violez.  
 Non, non, le repentir où vostre ame est forcée,  
@@ -1851,7 +1851,7 @@ Et mon dernier soûpir, offert à vos appas⁎,
 Justifiera...  
 
     LIVIE.
-Seigneur, ne m'attendrissez pas.  
+        Seigneur, ne m'attendrissez pas.  
 Si je m'estois renduë⁎ à vos fausses tendresses  
 Vous me seriez garend de toutes mes foiblesses.  
 Contentez-vous du trouble où vous me reduisez :  
@@ -1873,7 +1873,7 @@ Pour ne l'estre jamais vous soient renouvellez.
 Laissez-moy vous redire  
 Il lit un des Billets que Livie luy a rendus.
 
-Adorable Livie,  
+        Adorable Livie,  
 Quand je songe aux honneurs qui me sont destinez,  
 Je crois avoir perdu les momens de ma vie  
 Que je ne vous ay pas donnez.  
@@ -1886,7 +1886,7 @@ Pour l'Empire⁎ de vostre coeur.
 Laissez-moy vous redire  
 Il en lit encore un autre.
 
-Il est vray, ma Princesse,  
+        Il est vray, ma Princesse,  
 Cesar me sollicite⁎ à reprendre ma foy⁎ ;  
 Il veut que j'aime ailleurs ; mais en vain il m'en presse⁎ ;  
 L'Amour, plus absolu, m'impose une autre loy.  
@@ -1967,10 +1967,10 @@ Une belle action n'attend point de salaire :
 Et s'il vous en faut un...  
 
     DRUSUS.
-Hé bien, Madame ?  
+    Hé bien, Madame ?  
 
     LIVIE.
-Adieu.  
+        Adieu.  
 La Princesse Agripine arrive dans ce lieu.  
 Servez Germanicus, l'occasion est belle.  
 
@@ -1992,7 +1992,7 @@ En presence des Dieux de vous donner la main [152].
 O Ciel !  
 
     AGRIPINE.
-D'aucun soupçon n'ayez l'ame blessée  
+        D'aucun soupçon n'ayez l'ame blessée  
 Si je n'ay pas d'abord cette ardeur⁎ empressée⁎,  
 Ces desirs violens, & ces transports⁎ si doux,  
 Qui deviennent permis en faveur d'un Epoux.  
@@ -2012,7 +2012,7 @@ Je l'ay veu par vostre ordre, & sans estre en couroux⁎
 Il m'a promis...  
 
     AGRIPINE.
-Seigneur, je l'ay veu depuis vous.  
+        Seigneur, je l'ay veu depuis vous.  
 Je viens de le quitter. Et pour ne vous rien taire,  
 L'effort qu'en ma faveur vous avez daigné faire,  
 Ce que sur vos desirs vous avez de pouvoir,  
@@ -2157,7 +2157,7 @@ Si je veux cette nuit l'aller assassiner.
 L'assassiner, Pison !  
 
     PISON.
-Je l'ay promis, Madame.  
+        Je l'ay promis, Madame.  
 
     AGRIPINE.
 Tu l'as promis ! Sçais-tu que c'est m'arracher l'ame ?  
@@ -2168,7 +2168,7 @@ Madame, au nom des Dieux ne vous emportez point.
 C'est me perdre.  
 
     AGRIPINE.
-Est-ce à tort, cruel, que je m'emporte ?  
+        Est-ce à tort, cruel, que je m'emporte ?  
 Que je te perde, ou non, malheureux, que m'importe ?  
 Si tu perds un Heros qu'adore l'Univers,  
 Ce qui peut y rester vaut-il ce que tu perds ?  
@@ -2228,7 +2228,7 @@ Drusus d'un si grand crime est sans doute complice,
 Pison ?  
 
     PISON.
-L'en soupçonner, c'est luy faire injustice.  
+        L'en soupçonner, c'est luy faire injustice.  
 Pour son propre interest le sensible Drusus  
 Voudroit vous voir unie avec Germanicus.  
 De l'état de son ame il m'a fait confidence ;  
@@ -2266,7 +2266,7 @@ Que vois-je ? me trompay-je ? ou, pleurez-vous encore,
 Ma Princesse ?  
 
     AGRIPINE.
-Seigneur, si je ne vous adore,  
+        Seigneur, si je ne vous adore,  
 Si vous n'estes vous seul l'objet de tout mon soin⁎,  
 Me punissent les Dieux que j'en prends à témoin.  
 Vous avez crû tantost⁎ ma confiance affoiblie :  
@@ -2294,7 +2294,7 @@ Quand je vous auray dit qu'il faut m'abandonner,
 Moy, Madame ?  
 
     AGRIPINE.
-Seigneur, je souffre⁎ par avance,  
+        Seigneur, je souffre⁎ par avance,  
 Tout ce qu'a de cruel cette fatale absence :  
 Je prévoy tous les maux⁎ qui me vont accabler ;  
 Et je ne puis enfin les prevoir sans trembler.  
@@ -2319,7 +2319,7 @@ Et je viens de sa part vous en entretenir.
 Demain Cesar, & moy...  
 
     AGRIPINE.
-Point de demain, de grace.  
+        Point de demain, de grace.  
 D'un peril trop certain cette nuit vous menace.  
 Seigneur, il faut sur l'heure abandonner ce lieu :  
 Dût m'en coûter la vie en vous disant adieu.  
@@ -2342,7 +2342,7 @@ S'estre acquis tant de gloire est un crime d'Etat.
 Partez, vous dis-je.  
 
     GERMANICUS.
-Hé quoy, voulez-vous que je croye  
+        Hé quoy, voulez-vous que je croye  
 Que l'espoir de me perdre est ce qui fait sa joye ?  
 Et que de mon retour il feint⁎ d'estre charmé,  
 Pour m'ôter tout sujet⁎ de paroistre allarmé ?  
@@ -2407,7 +2407,7 @@ Que perdez-vous en moy pour balancer ainsi ?
 Seigneur.  
 
     GERMANICUS.
-Ce que je perds ! l'ignorez-vous, Madame ?  
+        Ce que je perds ! l'ignorez-vous, Madame ?  
 Si le fils de Cesar vous arrache à ma flâme⁎ ;  
 S'il faut qu'à cet affront le Ciel m'ait reservé ;  
 Je perds ce que le Monde a de plus achevé⁎.  
@@ -2455,7 +2455,7 @@ Me faire assassiner ! Luy, Madame ? On vous trompe.
 Cesar...  
 
     AGRIPINE.
-Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :  
+        Hé bien, cruel, souffrez⁎ qu'il vous corrompe⁎ :  
 Où la mort vous attend precipitez vos pas :  
 Croyez qui vous veut perdre, & ne me croyez pas.  
 Je me flattois⁎ pourtant de cette triste gloire,  
@@ -2502,7 +2502,7 @@ Je ne partiray point si vous en soupirez ;
 Promettez-moy...  
 
     AGRIPINE.
-Seigneur, vous me desesperez.  
+        Seigneur, vous me desesperez.  
 Dans l'état déplorable où mon ame est réduite,  
 Je crains vostre presence, & je crains vostre fuite.  
 Cher Prince, que je perds, & que j'aime toûjours,  
@@ -2573,7 +2573,7 @@ Desespere mon coeur, ou le rends plus tranquille.
 Parle.  
 
     FLAVIE.
-J'ay fait à Rome un voyage inutile,  
+        J'ay fait à Rome un voyage inutile,  
 Madame, & tous mes soins⁎ ont esté superflus.  
 On ne m'a rien appris du grand Germanicus.  
 Pour remplir mon devoir, & pour vous satisfaire,  
@@ -2592,7 +2592,7 @@ Que vous diray-je ? on tremble, & loin qu'on se hazarde [181]
 A vouloir...  
 
     AGRIPINE.
-Parle-moy de ce qui me regarde.  
+        Parle-moy de ce qui me regarde.  
 Parle-moy du Heros pour qui j'eus tant d'amour,  
 Flavie ; & laisse-là l'Empereur & la Cour.  
 Du secours⁎ de Pison que dois-je me promettre ?  
@@ -2613,7 +2613,7 @@ En quelque lieu qu'il soit aucun n'en peut rien dire [183].
 On ignore...  
 
     AGRIPINE.
-Il suffit, souffre⁎ que je respire.  
+        Il suffit, souffre⁎ que je respire.  
 Ce que je desirois, Flavie, est arrivé :  
 Mes souhaits sont remplis : mon Amant est sauvé.  
 Ciel, qui m'as écoûtée, & qui loin de l'orage  
@@ -2648,7 +2648,7 @@ S'il vous eût obéïe, il eût trahi sa flâme⁎.
 Ne me déguise rien. L'as-tu vû ?  
 
     FLAVIE.
-Non, Madame.  
+        Non, Madame.  
 Mais Albin est à Rome, & je l'ay rencontré.  
 Aussi-tost qu'à mes yeux le hazard l'a montré,  
 De l'ordre que j'avois je me suis souvenuë.  
@@ -2667,7 +2667,7 @@ Finis l'incertitude où flottent mes esprits.
 Germanicus est mort ?  
 
     FLAVIE.
-Je n'en ay rien appris,  
+        Je n'en ay rien appris,  
 Madame. Mais enfin s'il faut parler sans feindre⁎,  
 Pour un Prince si cher vous avez lieu de craindre.  
 On a fait en tumulte assembler le Senat :  
@@ -2677,7 +2677,7 @@ On parle sourdement de quelque assassinat.
 Ah, Dieux !  
 
     FLAVIE.
-On ne dit point, tant on craint sa colere,  
+        On ne dit point, tant on craint sa colere,  
 A quelle illustre vie en a voulu Tibere ;  
 Car à chaque forfait⁎ dont il s'ose flétrir⁎,  
 Ce que Rome a de grand est ce qu'il fait perir.  
@@ -2731,15 +2731,15 @@ AGRIPINE, ALBIN, FLAVIE, FLAVIAN.
 
 
     AGRIPINE.
-Hé bien, Albin, ce que j'aimois est mort ?  
+        Hé bien, Albin, ce que j'aimois est mort ?  
 Germanicus...  
 
     ALBIN.
-Pison a terminé son sort [189],  
+        Pison a terminé son sort [189],  
 Madame.  
 
     AGRIPINE.
-Le perfide ! Et tu ne peux me dire  
+        Le perfide ! Et tu ne peux me dire  
 En quel endroit fatal l'assassin se retire ?  
 J'irois, malgré Cesar qui se fait son appuy⁎,  
 Exprimer dans son sang l'horreur que j'ay pour luy.  
@@ -2762,10 +2762,10 @@ Germanicus respire, & Pison ne vit plus.
 Et Pison ne vit plus !  
 
     ALBIN.
-Non, Madame.  
+    Non, Madame.  
 
     AGRIPINE.
-Qu'entens-je ?  
+        Qu'entens-je ?  
 
     ALBIN.
 Germanicus le pleure, & peut-estre le vange.  
@@ -2886,7 +2886,7 @@ Des desseins⁎ de Cesar sa mort vous éclaircit⁎.
 Fuyez, Seigneur.  
 
     GERMANICUS.
-Albin m'en a fait le recit,  
+        Albin m'en a fait le recit,  
 Madame, & le Senat par un ordre équitable,  
 Pour vanger ce trépas⁎ fait chercher le coupable.  
 Cesar qui de ce crime a lieu d'estre surpris...  
@@ -2935,13 +2935,13 @@ Vous seule à mon bonheur pouvez estre contraire⁎ ;
 Vous seule...  
 
     AGRIPINE.
-Non, Seigneur, j'ay le coeur trop sincere :  
+        Non, Seigneur, j'ay le coeur trop sincere :  
 Je vous aime : ce mot vous répond de ma foy⁎ ;  
 Et je me dois à vous si l'on me rend à moy.  
 Mais l'Empereur...  
 
     GERMANICUS.
-Madame, il est au Capitole ;  
+        Madame, il est au Capitole ;  
 C'est dans ce lieu si saint qu'il veut tenir parole :  
 Le Senat l'accompagne ; & voicy le grand jour  
 Qu'avec impatience attendoit nostre amour.  

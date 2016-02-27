@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_critique-ecole-des-femmes *id_I01 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1663 *creator_moliere
 
 -*who_uranie
 Quoi, Cousine, personne ne t'est venu rendre visite ?
@@ -67,7 +67,7 @@ Laissons cette matière, qui t'échauffe un peu trop, et disons que Dorante vien
 -*who_elise
 Peut-être l'a-t-il oublié, et que…
 
-**** *book_moliere_critique-ecole-des-femmes *id_I02 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1663 *creator_moliere
 
 -*who_galopin
 Voilà Climène, Madame, qui vient ici pour vous voir.
@@ -147,7 +147,7 @@ Le bel assemblage que ce serait d'une Précieuse, et d'un Turlupin !
 -*who_uranie
 Veux-tu te taire ; la voici.
 
-**** *book_moliere_critique-ecole-des-femmes *id_I03 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1663 *creator_moliere
 
 -*who_uranie
 Vraiment, c'est bien tard que…
@@ -410,7 +410,7 @@ Je vous épargne aussi, Madame ; et je ne dis pas la moitié de ce que je pense
 Ah mon Dieu ! brisons là, de grâce : vous me jetteriez dans une confusion épouvantable.
 Enfin nous voilà deux contre vous, et l'opiniâtreté sied si mal aux personnes spirituelles…
 
-**** *book_moliere_critique-ecole-des-femmes *id_I04 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1663 *creator_moliere
 
 -*who_galopin
 Arrêtez, s'il vous plaît, Monsieur.
@@ -518,7 +518,7 @@ Il ne s'est jamais fait, je pense, une si méchante comédie.
 -*who_uranie
 Ah ! voici Dorante que nous attendions.
 
-**** *book_moliere_critique-ecole-des-femmes *id_I05 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1663 *creator_moliere
 
 -*who_dorante
 Ne bougez, de grâce, et n'interrompez point votre discours.
@@ -656,7 +656,7 @@ Je ne veux pas que ce soit pour l'amour de moi ; mais pour l'amour de la raison
 Ah ! voici l'auteur, Monsieur Lysidas : il vient tout à propos, pour cette matière.
 Monsieur Lysidas ; prenez un siège vous-même, et vous mettez là.
 
-**** *book_moliere_critique-ecole-des-femmes *id_I06 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1663 *creator_moliere
 
 -*who_lysidas
 Madame ; je viens un peu tard ; mais il m'a fallu lire ma Pièce chez Madame la Marquise, dont je vous avais parlé ; et les louanges, qui lui ont été données, m'ont retenu une heure, plus que je ne croyais.
@@ -1226,7 +1226,7 @@ Car il ne saurait y avoir ni mariage, ni reconnaissance ; et je ne sais point p
 -*who_uranie
 Il faudrait rêver quelque incident pour cela.
 
-**** *book_moliere_critique-ecole-des-femmes *id_I07 *act_I *date_1663 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1663 *creator_moliere
 
 -*who_galopin
 Madame, on a servi sur table.

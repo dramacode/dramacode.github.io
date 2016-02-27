@@ -1327,7 +1327,7 @@ Heurte, s'ouvre et le brise entre d'affreux⁎ rochers.
 Juste Ciel !  
 
     ORESTE.
-Pour cacher des objets si funebres,  
+        Pour cacher des objets si funebres,  
 La tempeste et la nuit redoublent leurs tenebres  
 Et des flots agitez les contraires efforts  
 Dispersent en cent lieux le débris [181] et les Morts.  
@@ -1390,7 +1390,7 @@ Charmeront⁎ ses ennuis⁎, vaincront sa resistance.
 Mais la Reine sçait-elle ?...  
 
     ORESTE.
-Helas ! que me dis-tu ?  
+        Helas ! que me dis-tu ?  
 Clytemnestre la plaint⁎ et cherit sa vertu⁎.  
 Cependant Clytemnestre et dédaigne et déteste  
 Le sang⁎ d'un Ennemy dont Cassandre est le reste  
@@ -1430,7 +1430,7 @@ Un amour⁎ que le Ciel alluma dans mon sein !
 Ah plutôt…  
 
     PYLADE.
-Mais, Seigneur, quel est vôtre dessein ?  
+        Mais, Seigneur, quel est vôtre dessein ?  
 
     ORESTE.
 Connais, puisqu'il le faut, mon âme tout entière.  
@@ -1529,7 +1529,7 @@ Quel plaisir de pouvoir reparer sa misere⁎ !
 Mais vous la haïssez, Madame.  
 
     CLYTEMNESTRE.
-Je le doy,  
+        Je le doy,  
 Et vous devez aussi la haïr comme moy.  
 
     ORESTE.
@@ -1537,7 +1537,7 @@ Sur vôtre haine⁎ helas dois-je regler la mienne ?
 Quelles raisons⁎ ?...  
 
     CLYTEMNESTRE.
-Songez que Cassandre est Troyenne.  
+        Songez que Cassandre est Troyenne.  
 Que son frere Pâris, ce lâche ravisseur  
 Sût [203] dans Sparte enlever la Princesse ma sœur [204].  
 Pour ouvrir à nos Grecs le chemin de l'Asie,  
@@ -1565,11 +1565,11 @@ Oüy je l'empescheray cét Hymen⁎ fatal⁎,
 Madame, je sçauray…  
 
     CLYTEMNESTRE.
-Quoy jusqu'à la menace !  
+        Quoy jusqu'à la menace !  
 Insolent, osez-vous ?...  
 
     ORESTE.
-Excusez mon audace⁎.  
+        Excusez mon audace⁎.  
 Contre Egisthe mon cœur⁎ tourne tout son courroux,  
 Et ne confondra point ce perfide avec vous.  
 Tant que vous serez seule au rang de Souveraine  
@@ -1584,7 +1584,7 @@ CLYTEMNESTRE, DORIDE.
 
 
     CLYTEMNESTRE.
-Ô Ciel, quelle arrogance !  
+        Ô Ciel, quelle arrogance !  
 De tous mes soins⁎ pour luy cruelle⁎ recompense !  
 J'ay garenty ses jours des perils les plus grands  
 Où l'absence d'un Père expose les Enfans.  
@@ -1597,7 +1597,7 @@ Me contraigne à l'éclat que je suis preste à faire
 Mais...  
 
     DORIDE.
-Quel autre motif vous y force en ce jour ?  
+        Quel autre motif vous y force en ce jour ?  
 
     CLYTEMNESTRE.
 Te [214] le diray-je ? Helas, Doride, c'est l'amour⁎.  
@@ -1607,7 +1607,7 @@ Dieux, que m'aprenez-vous ? quoi se peut-il, Madame,
 Que pour Egisthe !...  
 
     CLYTEMNESTRE.
-Egisthe a sçeû toucher mon âme.  
+        Egisthe a sçeû toucher mon âme.  
 Tout me le fait aimer, un astre injurieux⁎ [215],  
 Le temps, l'occasion [216], le Roy, mon fils, les Dieux.  
 
@@ -1615,7 +1615,7 @@ Le temps, l'occasion [216], le Roy, mon fils, les Dieux.
 Hé quoi, Madame ?...  
 
     CLYTEMNESTRE.
-Aprens par quelle destinée  
+        Aprens par quelle destinée  
 Dans ce fatal⁎ amour⁎ je me trouve entraînée.  
 Tu sçais qu'écoûtant trop un Oracle inhumain,  
 Dans l'Aulide arresté par un calme soudain,  
@@ -1636,7 +1636,7 @@ Travailloit, s'exposoit pour en croistre l'éclat !
 On l'admiroit, Madame.  
 
     CLYTEMNESTRE.
-Helas ! qui l'eut pû croire ?  
+        Helas ! qui l'eut pû croire ?  
 Egisthe trahissant son devoir et sa Gloire⁎,  
 Sous ce zele⁎ apparent, sous ce dehors trompeur  
 Cachoit pour Clytemnestre une coupable ardeur⁎.  
@@ -1645,7 +1645,7 @@ Cachoit pour Clytemnestre une coupable ardeur⁎.
 Ciel, qu'entens-je !  
 
     CLYTEMNESTRE.
-Il m'en fit un aveu temeraire.  
+        Il m'en fit un aveu temeraire.  
 Ah que n'en crus-je alors ma trop juste colere.  
 Je voulois sur le champ le perdre⁎ ou le bannir,  
 J'y prévis des perils, je dus les prévenir⁎,  
@@ -1657,10 +1657,10 @@ Ne cherchoit qu'une gloire⁎ à tous les deux fatale⁎.
 Bien plus.  
 
     DORIDE.
-Quoy ?  
+    Quoy ?  
 
     CLYTEMNESTRE.
-Dans son Camp j'avois une Rivale :  
+        Dans son Camp j'avois une Rivale :  
 Il aimoit Briseis [220], il me manquoit de foy⁎.  
 Quel surcroit de douleur et de dépit pour moy !  
 Pleine de mes chagrins, sombre, inquiette, triste,  
@@ -1711,7 +1711,7 @@ Eace [226] en a porté la nouvelle certaine :
 Il est avec Egisthe.  
 
     CLYTEMNESTRE.
-Agamemnon : ô Dieux !  
+        Agamemnon : ô Dieux !  
 Je verray mon Epoux, il revient en ces lieux !  
 
     EURYBATE.
@@ -1730,7 +1730,7 @@ Après vous avoir fait ce fidelle rapport,
 Je dois le suivre.  
 
     CLYTEMNESTRE.
-Allez, j'approuve vôtre zele⁎ :  
+        Allez, j'approuve vôtre zele⁎ :  
 Je vous suivray de prés.  
 
 
@@ -1739,7 +1739,7 @@ CLYTEMNESTRE, DORIDE.
 
 
     CLYTEMNESTRE.
-Quelle grande nouvelle !  
+        Quelle grande nouvelle !  
 Dieux ! qu'est-ce que je sens, quel trouble⁎ dans mon cœur⁎,  
 Quel désordre⁎ confond ma joye et ma douleur ?  
 Mais qu'est-ce qui retient ma premiere tendresse ?  
@@ -1757,11 +1757,11 @@ Les honteux sentimens que j'ay pû concevoir :
 Malheureuse !  
 
     DORIDE.
-Ah ! Chassez des pensers trop timides⁎,  
+        Ah ! Chassez des pensers trop timides⁎,  
 Madame.  
 
     CLYTEMNESTRE.
-Je connois la fierté des Atrides [228]  
+        Je connois la fierté des Atrides [228]  
 Et surtout mes remords dissipant mon erreur  
 Des projets que j'ay faits je voy toute l'horreur⁎.  
 Est-ce la foy⁎ constante et cette douleur tendre  
@@ -1855,7 +1855,7 @@ Oubliez le destin de Troye et des Troyens :
 Oreste vous adore.  
 
     CASSANDRE.
-Ah ! que m'oses-tu dire ?  
+        Ah ! que m'oses-tu dire ?  
 
     ISMENE.
 Dieux ! quel trouble⁎ nouveau ce nom seul vous inspire ?  
@@ -1868,7 +1868,7 @@ Si je le haïssois je me troublerois⁎ moins [241].
 Ainsi, Madame ?...  
 
     CASSANDRE.
-Helas, j'ay crû que dans Mycene,  
+        Helas, j'ay crû que dans Mycene,  
 Je ne verrois qu'objets de terreur et de haine⁎,  
 Que de fiers ennemis horribles⁎ à mes yeux,  
 Des lâches Menelas [242], des Pyrrhus [243] odieux,  
@@ -1880,7 +1880,7 @@ Les Dieux pour relever vôtre sort abattu
 Ont permis que ce Prince…  
 
     CASSANDRE.
-Helas que me dis-tu ?  
+        Helas que me dis-tu ?  
 Des maux les plus cruels⁎ dont j'ay lieu de me plaindre⁎,  
 L'Amour⁎ est le malheur que j'ay le plus à craindre.  
 Je ne te diray point que ma race⁎, mon nom,  
@@ -1941,7 +1941,7 @@ Seigneur, vous vous plaisez à persecuter ?
 Abusant de mes fers vous voulez…  
 
     ORESTE.
-Ah Madame !  
+        Ah Madame !  
 Par quel cruel⁎ discours accablez-vous mon âme ?  
 Ciel, verrez-vous toûjours comme un crime odieux  
 L'amour⁎, l'ardent amour⁎ que j'expose à vos yeux ?  
@@ -1974,7 +1974,7 @@ Vous assurer son Trône en vous donnant son fils.
 Ah ! Seigneur,  
 
     ORESTE.
-Si les Grecs vous ont trop outragée⁎  
+        Si les Grecs vous ont trop outragée⁎  
 Par leurs pertes, déja n'estes-vous pas vangée ?  
 Bien plus, dans cette Cour cent maux que je prévoy,  
 Vont peut-estre éclater par le retour du Roy :  
@@ -1989,7 +1989,7 @@ M'épargna les fureurs⁎, les crimes de la Grece ?
 Helas !  
 
     ORESTE.
-Si mon respect, ma tendresse, ma foy⁎,  
+        Si mon respect, ma tendresse, ma foy⁎,  
 N'excitent rien en vous qui vous parle pour moy,  
 Frappez, percez ce cœur⁎ accablé de tristesse.  
 Punissez-en Oreste, Agamemnon, la Grece,  
@@ -1997,7 +1997,7 @@ Esteignez dans mon sang mes temeraires feux⁎ :
 Que ma mort…  
 
     CASSANDRE.
-Vôtre mort n'est pas ce que je veux.  
+        Vôtre mort n'est pas ce que je veux.  
 Etouffez seulement une flamme⁎ funeste,  
 On me dédaigne ici, Seigneur, on me déteste.  
 N'ayez aussi pour moy que mépris et qu'horreur⁎ [253].  
@@ -2006,7 +2006,7 @@ N'ayez aussi pour moy que mépris et qu'horreur⁎ [253].
 Qui moy, Madame ? ô Dieux !  
 
     CASSANDRE. 
-Craignez au moins, Seigneur,  
+        Craignez au moins, Seigneur,  
 Que Cassandre en ces lieux, que cette infortunée  
 Ne verse un noir poison sur vôtre destinée.  
 De mon triste ascendant telle est la dure Loy⁎,  
@@ -2035,7 +2035,7 @@ Et les craindre pour vous est-ce là vous haïr [258] ?
 Ah Madame !  
 
     CASSANDRE.
-Arrestez, craignez de vous trahir  
+        Arrestez, craignez de vous trahir  
 Par l'appas trop flatteur⁎ d'un espoir favorable.  
 Rien n'est si malheureux, rien n'est si déplorable⁎  
 Que le sort⁎ d'un mortel que mes yeux ont charmé⁎,  
@@ -2133,7 +2133,7 @@ Souffrez⁎ que je combatte un si funeste amour⁎.
 Pourriez-vous consentir ?...  
 
     AGAMEMNON.
-Arreste, oses-tu croire  
+        Arreste, oses-tu croire  
 Que j'écoute un amour⁎ si fatal⁎ à ma gloire⁎ ?  
 Dans l'âge où tu me vois, au declin de mes jours  
 J'aurois trop à rougir de ces foles amours⁎.  
@@ -2179,7 +2179,7 @@ On veut vous arracher la vie avec l'Empire.
 Juste Ciel !  
 
     EURYBATE.
-D'un projet si noir, si plein d'horreur⁎,  
+        D'un projet si noir, si plein d'horreur⁎,  
 Le croirez-vous ? Egisthe est le coupable autheur  
 Et d'un des conjurez le remord favorable  
 Vient de me découvrir ce forfait execrable.  
@@ -2219,12 +2219,12 @@ Tout ce qu'on t'en a dit, je pretens⁎ tout sçavoir.
 Seigneur dispensez-moy.  
 
     AGAMEMNON.
-Dieux ! quel est ce mystere  
+        Dieux ! quel est ce mystere  
 Que je brûle d'apprendre et qu'on cherche à me taire.  
 Parle, je te l'ordonne.  
 
     EURYBATE.
-Hé bien, il faut parler.  
+        Hé bien, il faut parler.  
 Apprenez ce qu'en vain je voudrois vous celer⁎,  
 Aussi bien il vaut mieux qu'une bouche fidele  
 A vôtre empressement l'expose et le revele.  
@@ -2291,7 +2291,7 @@ Et que daignant ainsi l'éloigner de nos yeux,
 Vous pretendez⁎...  
 
     AGAMEMNON.
-Cassandre est encor dans ces lieux ;  
+        Cassandre est encor dans ces lieux ;  
 Mais Egisthe qui mesme attentait sur ma vie  
 Va bien-tôt expier [273] sa noire perfidie.  
 Vous, craignez ce qu'un Juge, un Monarque, un Epoux  
@@ -2355,10 +2355,10 @@ Que mon juste courroux la bannit de Mycene ?
 Ira-t-elle dans Sparte [275] ?  
 
     EURYBATE.
-Oüy Seigneur.  
+    Oüy Seigneur.  
 
     AGAMEMNON.
-De quel front [276],  
+        De quel front [276],  
 De quel air reçoit-elle un châtiment si promt ?  
 
     EURYBATE.
@@ -2388,7 +2388,7 @@ Vous avez resolu qu'elle parte demain :
 Vous voulez...  
 
     AGAMEMNON.
-Il est vray, j'avois fait ce dessein.  
+        Il est vray, j'avois fait ce dessein.  
 Mais je viens de la voir, et j'ay repris pour elle  
 Des desirs si pressans⁎, une flamme⁎ si belle ;  
 Que bien loin de vouloir l'éloigner de mes yeux,  
@@ -2444,7 +2444,7 @@ Je devrois la traitter avec plus de rigueur.
 L'infidelle ! est-ce là cet amour⁎ ?...  
 
     ORESTE.
-Ah Seigneur !  
+        Ah Seigneur !  
 Doutez-vous que son cœur⁎ vous aime, vous adore ?  
 Tout jeune que j'estois il me souvient encore,  
 Que mourante et sans voix en vous disant adieu,  
@@ -2537,7 +2537,7 @@ AGAMEMNON, EURYBATE.
 Qu'ay-je entendu Seigneur !  
 
     AGAMEMNON.
-O disgrace⁎ nouvelle,  
+        O disgrace⁎ nouvelle,  
 Qui viens fraper mon cœur⁎ d'une atteinte mortelle !  
 La Reine, mon devoir, les Dieux, tout en ce jour,  
 Semble ouvrir un Champ libre à mon ardent amour⁎,  
@@ -2671,7 +2671,7 @@ AGAMEMNON, CASSANDRE, ISMENE, EURYBATE.
 
 
     CASSANDRE.
-Seigneur, jusqu'où va vôtre haine⁎ !  
+        Seigneur, jusqu'où va vôtre haine⁎ !  
 Aprés m'avoir captive envoyée à Mycene :  
 On dit que vous voulez m'envoyer dans Argos !  
 Faudra-t-il traversant et les Monts et les Flots [306],  
@@ -2704,7 +2704,7 @@ De mon fidelle amour⁎ renouveller l'hommage ?
 Qu'entens-je ?  
 
     AGAMEMNON.
-Avez-vous crû que l'absence ou le temps  
+        Avez-vous crû que l'absence ou le temps  
 Esteindroit dans mon cœur⁎ des feux⁎ si violens [312] ?  
 Ah ! si ce cœur⁎ pour vous a brûlé devant Troye,  
 De quels tourmens depuis me suis-je veû la proye !  
@@ -2717,7 +2717,7 @@ J'ay tout mon cœur⁎, ma main, mon Sceptre à vous donner ?
 Permettez donc, Madame...  
 
     CASSANDRE.
-Ah ! cessez ce langage,  
+        Ah ! cessez ce langage,  
 Et ne m'accablez point par ce dernier outrage⁎.  
 Juste Ciel ! quoi j'ay veû nos Estats saccagez,  
 Mon pere massacré [315], tous les miens égorgez [316] !  
@@ -2741,7 +2741,7 @@ Et Pyrrhus doit s'unir à la veuve d'Hector [318] !
 Le seul Agamemnon ?...  
 
     CASSANDRE.
-Je vous le dis encor,  
+        Je vous le dis encor,  
 Dussay-je m'attirer vôtre fureur⁎ extrême⁎.  
 Je hais⁎ Agamemnon beaucoup plus qu'il ne m'aime.  
 De nôtre inimitié c'est la fatale⁎ loy⁎,  
@@ -2757,7 +2757,7 @@ Haïssez-vous ainsi tous les Grecs et mon fils ?
 Vôtre fils ! quoi, Seigneur ? vous croyez...  
 
     AGAMEMNON.
-Ah, Madame !  
+        Ah, Madame !  
 Ce trouble⁎ fait trop voir le secret de vôtre âme.  
 Voilà cette douleur, cette gloire⁎, ces Dieux,  
 Dont vôtre amour⁎ vouloit se couvrir à mes yeux  
@@ -2789,7 +2789,7 @@ CASSANDRE, ISMENE.
 
 
     CASSANDRE. 
-Ciel ! que viens-je d'entendre !  
+        Ciel ! que viens-je d'entendre !  
 Oreste infortuné ! malheureuse Cassandre !  
 Helas ! je sens mon cœur⁎ si sensible à tes feux⁎  
 Cher Prince, et cependant loin de te rendre heureux,  
@@ -2799,7 +2799,7 @@ Ton amante⁎ t'expose aux fureurs⁎ de ton pere !
 Ah, Madame esperez…  
 
     CASSANDRE. 
-Que veus-tu que j'espere,  
+        Que veus-tu que j'espere,  
 D'un vainqueur endurcy, d'un Roy dont les Ayeux  
 Par leurs crimes cent fois ont effrayé les Dieux [321] ?  
 Ah ! si malgré les pleurs⁎ de toute sa famille,  
@@ -2821,11 +2821,11 @@ S'immoler de leur main aux manes [323] des Troyens.
 Allons enfin.  
 
     ISMENE.
-Hé bien dans ce desordre⁎ extrême⁎,  
+        Hé bien dans ce desordre⁎ extrême⁎,  
 Que fairez-vous ?  
 
     CASSANDRE.
-Helas! le sçay-je encor moy-même ?  
+        Helas! le sçay-je encor moy-même ?  
 Ombres de mes parens et vous Dieux que je sers,  
 Dieux qui voyez la honte et l'horreur⁎ de mes fers,  
 Quel secours dois-je offrir à l'ardeur⁎ qui m'emporte ?  
@@ -2887,7 +2887,7 @@ Desesperer d'un fils si digne de pitié ?
 Seigneur…  
 
     AGAMEMNON.
-N'augmente point la cruelle⁎ tendresse,  
+        N'augmente point la cruelle⁎ tendresse,  
 Qui me parle en secret et murmure sans cesse.  
 Ah ! je n'aime que trop ceux que je dois haïr.  
 Mais enfin pour tous deux faudra-t-il me trahir ?  
@@ -3030,7 +3030,7 @@ Un autre epouseroit la Princesse que j'aime !
 Et quel est cét Epous ? qui Seigneur ?  
 
     AGAMEMNON.
-C'est moy-même.  
+        C'est moy-même.  
 Elle-même y consent. Puisque vous m'y forcez,  
 Je vous le dis : suivez la Reine [346], obéissez.  
 
@@ -3068,7 +3068,7 @@ ORESTE, CASSANDRE, ISMENE.
 
 
     ORESTE.
-Ah ! qu'ay-je appris, Madame !  
+        Ah ! qu'ay-je appris, Madame !  
 De quel espoir mon pere ose flatter⁎ sa flamme⁎ !  
 O Dieux ! à son Hymen⁎ vous auriez consenty !  
 Vôtre sang⁎ [348], vôtre cœur⁎ se seroit [349] démenty ?  
@@ -3077,7 +3077,7 @@ Cassandre court au Thrône, à l'Hymen⁎ de mon pere
 Le croiray-je, Madame !  
 
     CASSANDRE.
-Oüy, malgré mes souhaits [351],  
+        Oüy, malgré mes souhaits [351],  
 Il faut qu'un meme sort⁎ nous unisse à jamais [352].  
 
     ORESTE.
@@ -3145,7 +3145,7 @@ CASSANDRE, ISMENE.
 
 
     ISMENE.
-Helas ! par quel discours funeste,  
+        Helas ! par quel discours funeste,  
 Venez-vous d'accabler le malheureux Oreste !  
 
     CASSANDRE.
@@ -3164,14 +3164,14 @@ Mais toy qui me connois le peus-tu croire aussi ?
 Quel est donc ce secret ?  
 
     CASSANDRE.
-Hé bien, il faut t'apprendre,  
+        Hé bien, il faut t'apprendre,  
 Un projet étonnant⁎, mais digne de Cassandre.  
 
     ISMENE.
 Quoy ?  
 
     CASSANDRE.
-Je veux sous l'espoir d'un Hymen⁎ solemnel,  
+        Je veux sous l'espoir d'un Hymen⁎ solemnel,  
 Tromper Agamemnon, l'attirer à l'Autel :  
 Là, brûlant d'appaiser par un grand sacrifice,  
 Tous les Dieux, tout mon sang⁎ qui demande [364] justice,  
@@ -3184,7 +3184,7 @@ Consommer⁎ dignement tout le destin de Troye [365].
 Quel dessein !  
 
     CASSANDRE.
-Quel plaisir d'immoler le vainqueur,  
+        Quel plaisir d'immoler le vainqueur,  
 Le destructeur de Troye et mon persecuteur !  
 D'envoyer par un coup⁎ qui finit ma misere⁎,  
 L'ombre d'Agamemnon à l'ombre de mon pere !  
@@ -3253,7 +3253,7 @@ De vos malheurs ainsi reparer tout l'outrage⁎,
 Triompher et Regner.  
 
     CASSANDRE.
-Je feray davantage  
+        Je feray davantage  
 Et pousseray si loin ce dessein glorieux…  
 Mais c'est assez, le temps vous éclaircira mieux.  
 
@@ -3299,7 +3299,7 @@ A vos ressentimens quels chemins sont ouvers ?
 Egiste est prisonnier.  
 
     CLYTEMNESTRE.
-Allons briser ses fers.  
+        Allons briser ses fers.  
 J'ay des amis encor : mes bien faits, ma prudence,  
 Ont sçû pendant dix ans établir ma puissance.  
 Meure Cassandre aux yeux et dans les bras du Roy [375],  
@@ -3346,7 +3346,7 @@ Pourriez-vous conserver ce dessein furieux⁎ !
 Helas !  
 
     CASSANDRE.
-Retiens tes pleurs⁎, ou les [378] cache à mes yeux.  
+        Retiens tes pleurs⁎, ou les [378] cache à mes yeux.  
 Laisse-moy m'affranchir, de ma disgrace⁎ extréme⁎.  
 Dois-je survivre à Troye, à ma gloire⁎, à moi-même ?  
 Sur tout dois-je survivre aux foiblesses d'un cœur⁎  
@@ -3421,7 +3421,7 @@ Et l'Amour⁎ vient hâter cét Hymen⁎ éclatant.
 Allons.  
 
     CASSANDRE.
-Ne parle [388] plus d'amour⁎ et d'Hymenée⁎.  
+        Ne parle [388] plus d'amour⁎ et d'Hymenée⁎.  
 Je croyois disposer de nôtre destinée [389].  
 Mais le Ciel me fait voir ses secrets souverains  
 Et ton sort⁎ et le mien ne sont plus dans nos mains.  
@@ -3441,7 +3441,7 @@ Que peut craindre un Monarque au sein de ses Estats
 Que peut craindre un vainqueur ?  
 
     CASSANDRE.
-Tout ce qu'il ne craint pas [391].  
+        Tout ce qu'il ne craint pas [391].  
 Oüy, c'est dans ces momens de pleine confiance [392],  
 Que tu vas voir, trop fier d'une vaine puissance [393],  
 Ta grandeur renversée et tes projets trahis.  
@@ -3582,7 +3582,7 @@ Quelle felicité surprenante et soudaine !
 Quel changement cher Prince !  
 
     ORESTE.
-Allons trouver la Reine.  
+        Allons trouver la Reine.  
 Elle paroît.  
 
 
@@ -3591,7 +3591,7 @@ CLYTEMNESTRE, ORESTE, PYLADE.
 
 
     CLYTEMNESTRE.
-Que voy-je ? Oreste dans ces lieux !  
+        Que voy-je ? Oreste dans ces lieux !  
 Fuyons mon fils, fuyons, dérobons à nos yeux  
 Le spectacle cruel⁎ de tout ce qui se passe.  
 
@@ -3616,7 +3616,7 @@ Le succés de mes voeux et le don de sa foy⁎.
 Ciel qu'entens-je ?  
 
     ORESTE.
-Oüy, luy-même il vient de me le dire  
+        Oüy, luy-même il vient de me le dire  
 Et par son ordre exprés j'allois vous en instruire.  
 
     CLYTEMNESTRE* à part.*
@@ -3680,10 +3680,10 @@ Ou courez-vous ? sçachez un plus cruel⁎ malheur.
 Agamemnon.  
 
     ORESTE.
-Hé bien ?  
+    Hé bien ?  
 
     EURYBATE.
-Ce vainqueur de l'Asie,  
+        Ce vainqueur de l'Asie,  
 Ce Roy dont les flots même ont respecté la vie,  
 Aprés dix ans d'absence en ces lieux de retour,  
 Par un lâche attentat vient de perdre⁎ le jour.  
@@ -3710,7 +3710,7 @@ Chancelle, tombe, meurt presqu'aux pieds de Cassandre.
 Ciel !  
 
     EURYBATE.
-Egiste effrayé de ce crime odieux,  
+        Egiste effrayé de ce crime odieux,  
 Craignant également⁎ Vous, le Peuple et les Dieux,  
 Echape à nos regards par sa fuite soudaine.  
 Cependant dans le Temple on voit entrer la Reine,  

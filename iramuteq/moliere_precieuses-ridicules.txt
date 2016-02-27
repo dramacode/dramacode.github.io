@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_precieuses-ridicules *id_I01 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1659 *creator_moliere
 
 -*who_ducroisy
 Seigneur la Grange.
@@ -52,7 +52,7 @@ Et bien qu'en prétendez-vous faire ?
 -*who_lagrange
 Ce que j'en prétends faire ! il faut… mais sortons d'ici auparavant.
 
-**** *book_moliere_precieuses-ridicules *id_I02 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1659 *creator_moliere
 
 -*who_gorgibus
 Et bien vous avez vu ma nièce, et ma fille, les affaires iront-elles bien ?
@@ -67,7 +67,7 @@ Ouais il semble qu'ils sortent mal satisfaits d'ici, d'où pourrait venir leur m
 Il faut savoir un peu ce que c'est.
 Holà.
 
-**** *book_moliere_precieuses-ridicules *id_I03 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1659 *creator_moliere
 
 -*who_marotte
 Que désirez-vous Monsieur ?
@@ -91,7 +91,7 @@ Ces pendardes-là avec leur pommade ont je pense envie de me ruiner.
 Je ne vois partout que blancs d'œufs, lait virginal, et mille autres brimborions que je ne connais point.
 Elles ont usé, depuis que nous sommes ici, le lard d'une douzaine de cochons, pour le moins ; et quatre valets vivraient tous les jours des pieds de mouton qu'elles emploient.
 
-**** *book_moliere_precieuses-ridicules *id_I04 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1659 *creator_moliere
 
 -*who_gorgibus
 Il est bien nécessaire vraiment, de faire tant de dépense pour vous graisser le museau.
@@ -182,7 +182,7 @@ Laissez-nous faire à loisir le tissu de notre Roman, et n'en pressez point tant
 Il n'en faut point douter elles sont achevées.
 Encore un coup, je n'entends rien à toutes ces balivernes, je veux être maître absolu, et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux, avant qu'il soit peu, ou, ma foi, vous serez religieuses, j'en fais un bon serment.
 
-**** *book_moliere_precieuses-ridicules *id_I05 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1659 *creator_moliere
 
 -*who_cathos
 Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse, et qu'il fait sombre dans son âme !
@@ -194,7 +194,7 @@ J'ai peine à me persuader que je puisse être véritablement sa fille, et je cr
 -*who_cathos
 Je le croirais bien oui, il y a toutes les apparences du monde, et pour moi, quand je me regarde aussi…
 
-**** *book_moliere_precieuses-ridicules *id_I06 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1659 *creator_moliere
 
 -*who_marotte
 Voilà un laquais, qui demande, si vous êtes au logis, et dit que son maître vous veut venir voir.
@@ -230,7 +230,7 @@ Par ma foi, je ne sais point quelle bête c'est là, il faut parler Chrétien, s
 Apportez-nous le miroir, ignorante que vous êtes.
 Et gardez-vous bien d'en salir la glace, par la communication de votre image.
 
-**** *book_moliere_precieuses-ridicules *id_I07 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1659 *creator_moliere
 
 -*who_mascarille
 Holà, porteurs, holà.
@@ -292,7 +292,7 @@ Doucement, tiens, voilà pour le soufflet.
 On obtient tout de moi, quand on s'y prend de la bonne façon.
 Allez, venez me reprendre tantôt, pour aller au Louvre au petit coucher.
 
-**** *book_moliere_precieuses-ridicules *id_I08 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1659 *creator_moliere
 
 -*who_marotte
 Monsieur, voilà mes maîtresses, qui vont venir tout à l'heure.
@@ -303,7 +303,7 @@ Qu'elles ne se pressent point, je suis ici posté commodément, pour attendre.
 -*who_marotte
 Les voici.
 
-**** *book_moliere_precieuses-ridicules *id_I09 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I09 *act_I *date_1659 *creator_moliere
 
 -*who_mascarille
 Mesdames, vous serez surprises, sans doute, de l'audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a, pour moi, des charmes si puissants, que je cours, partout, après lui.
@@ -675,7 +675,7 @@ Vous avez plus de peur que de mal, et votre cœur crie avant qu'on l'écorche.
 -*who_mascarille
 Comment diable ! il est écorché depuis la tête jusqu'aux pieds.
 
-**** *book_moliere_precieuses-ridicules *id_I10 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I10 *act_I *date_1659 *creator_moliere
 
 -*who_marotte
 Madame, on demande à vous voir.
@@ -707,7 +707,7 @@ Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette avent
 -*who_cathos
 Le voici.
 
-**** *book_moliere_precieuses-ridicules *id_I11 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I11 *act_I *date_1659 *creator_moliere
 
 -*who_mascarille
 Ah Vicomte !
@@ -903,7 +903,7 @@ Sais-tu bien que le Duc m'est venu voir ce matin, et m'a voulu mener à la campa
 -*who_magdelon
 Voici nos amies, qui viennent.
 
-**** *book_moliere_precieuses-ridicules *id_I12 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I12 *act_I *date_1659 *creator_moliere
 
 -*who_magdelon
 Mon Dieu, mes chères, nous vous demandons pardon.
@@ -942,7 +942,7 @@ Ferme, ô Violons de village.
 -*who_jodelet
 Holà, ne pressez pas si fort la cadence, je ne fais que sortir de maladie.
 
-**** *book_moliere_precieuses-ridicules *id_I13 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I13 *act_I *date_1659 *creator_moliere
 
 -*who_lagrange
 Ah, ah, Coquins, que faites-vous ici ? il y a trois heures que nous vous cherchons.
@@ -959,7 +959,7 @@ C'est bien à vous, infâme que vous êtes, à vouloir faire l'homme d'importanc
 -*who_ducroisy
 Voilà qui vous apprendra à vous connaître.
 
-**** *book_moliere_precieuses-ridicules *id_I14 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I14 *act_I *date_1659 *creator_moliere
 
 -*who_magdelon
 Que veut donc dire ceci ?
@@ -980,7 +980,7 @@ Endurer un affront comme celui-là, en notre présence ?
 Ce n'est rien, ne laissons pas d'achever.
 Nous nous connaissons il y a longtemps, et entre amis on ne va pas se piquer, pour si peu de chose.
 
-**** *book_moliere_precieuses-ridicules *id_I15 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I15 *act_I *date_1659 *creator_moliere
 
 -*who_lagrange
 Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets.
@@ -1046,7 +1046,7 @@ Qui est-ce qui nous donnera de l'argent ?
 -*who_jodelet
 Demandez à Monsieur le Marquis.
 
-**** *book_moliere_precieuses-ridicules *id_I16 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I16 *act_I *date_1659 *creator_moliere
 
 -*who_gorgibus
 Ah coquines, que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois, et je viens d'apprendre de belles affaires vraiment, de ces Messieurs, qui sortent.
@@ -1067,7 +1067,7 @@ Traiter comme cela un Marquis ?
 Voilà ce que c'est que du monde, la moindre disgrâce nous fait mépriser de ceux qui nous chérissaient.
 Allons, camarade, allons chercher fortune autre part ; je vois bien qu'on n'aime ici, que la vaine apparence, et qu'on n y considère point la vertu toute nue.
 
-**** *book_moliere_precieuses-ridicules *id_I17 *act_I *date_1659 *creator_moliere
+**** *book_ *id_I17 *act_I *date_1659 *creator_moliere
 
 -*who_violons
 Monsieur nous entendons que vous nous contentiez à leur défaut, pour ce que nous avons joué ici.

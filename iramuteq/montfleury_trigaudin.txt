@@ -1,0 +1,3402 @@
+
+
+**** *book_ *id_body-201 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Bon, pour vous divertir, vous me faites un conte.
+
+-*who_trigaudin
+Non ; point ; Ayant soupé l'autre jour chez Géronte,
+En tirant par hazard de ma poche un Mouchoir,
+Le Portrait que tu sçais que j'avois, vint à choir.
+
+-*who_l_industrie
+De vostre Femme ?
+
+-*who_trigaudin
+      Paix. Géronte le ramasse,
+L'ouvre, & jusqu'à son cœur l'éclat de ses yeux passe ;
+Il se sentit charmé des traits de sa beauté,
+Et de l'Original s'estant fort enquesté⁎,
+Je luy dis que c'estoit une mienne Cousine
+Qui venoit à Paris. Je vis bien à sa mine⁎
+Que nostre Homme en tenoit⁎; je n'en témoignay⁎ rien ;
+Prestez-le moy, dit-il, pour quelques jours…
+
+-*who_l_industrie
+      Hé bien ?
+
+-*who_trigaudin
+Je luy laissay.
+
+-*who_l_industrie
+      Comment, celuy de vostre Femme ?
+
+-*who_trigaudin
+Paix. L'amour s'est si fort emparé de son ame,
+Qu'il baise⁎ à tous momens ce Portrait à genoux ;
+Jusques-là qu'il me vint hier au soir, entre nous,
+La larme presque à l'œil, prier avec instance,
+De vouloir avec luy faire cette alliance,
+Me disant qu'en moy seul il mettoit son espoir :
+Il a cent mille francs contens qu'il m'a fait voir,
+Qu'il veut en l'épousant luy donner.
+
+-*who_l_industrie
+      A son âge,
+Ce Géronte, Monsieur, si sçavant et si sage…
+
+-*who_trigaudin
+Il n'est ny l'un ny l'autre.
+
+-*who_l_industrie
+      Est-il possible ? Il a
+Une Biblioteque où toûjours…
+
+-*who_trigaudin
+      Tout cela
+Marque sa vanité plus que sa suffisance⁎,
+A l'abry des Sçavans il met son ignorance,
+Et croit pour habiter le soir & le matin
+Un Cabinet farcy de Grec & de Latin,
+Passer pour Homme docte, & que chacun l'admire :
+Ses Livres sont fort beaux, mais il n'y sçait pas lire ;
+Depuis pres de vingt ans que nous sommes amis,
+Je connois sa portée⁎,& sçais ce que je dis.
+
+-*who_l_industrie
+Mais vous n'avez pas dû laisser croistre sa flâme ;
+Car dans une heure au plus Madame vostre Femme
+Arrivant d'Orleans, sera de nostre écot⁎.
+
+-*who_trigaudin
+Chut, Maraut⁎; si jamais tu prononces ce mot…
+
+-*who_l_industrie
+Vostre Femme, Monsieur, m'avez vous dit…
+
+-*who_trigaudin
+      Ah Traistre,
+Te tairas-tu ?
+
+-*who_l_industrie
+      Ma foy, je pense que mon Maistre
+Devient fou.
+
+-*who_trigaudin
+      Que ce mot ne t'échape jamais,
+Ou crains que de cent coups…
+
+-*who_l_industrie
+      Non, Monsieur, je me tais.
+
+-*who_trigaudin
+Parle-moy d'autre chose, ou bien songe à te taire.
+
+-*who_l_industrie
+Je me tais ; c'est, Monsieur, ce que je sçai mieux faire.
+
+-*who_trigaudin
+As-tu mis en oubly qu'un Hymen clandestin…
+
+-*who_l_industrie
+Non ; Je me souviens bien, Monsieur, qu'un beau matin
+Vous fûtes avec…la…faut-il que je devine…
+
+-*who_trigaudin
+Quand tu voudras parler d'elle, dis ma Cousine.
+
+-*who_l_industrie
+Avec vostre Cousine, assez pres d'Orleans,
+Sans avoir pris d'avis d'Amis, ny de Parens,
+Qu'un Curé, peu chargé d'argent & de scrupules,
+Vous maria, qu'on prit du Papier des Formules
+Pour faire le Contract, & que des deux costez
+On prit pour y signer, des Témoins apostez⁎;
+Que pour vous obliger à conclure l'affaire,
+La Cousine vous dit qu'elle avoit certain Frere
+Qui vouloit de sa main luy donner un Epoux,
+Le tout pour vous forcer…
+
+-*who_trigaudin
+      Point du tout ; Entre nous,
+J'ay sçeu de Gens de foy, que sans certain voyage,
+Son Frere auroit déslors conclu son Mariage.
+
+-*who_l_industrie
+L'avez-vous veu ?
+
+-*who_trigaudin
+      Jamais ; mais il sera content
+D'un Hymen…
+
+-*who_l_industrie
+      Qu'est-ce donc qui vous allarme tant ?
+Ou laissez-moy parler, ou daignez m'en instruire.
+
+-*who_trigaudin
+Ne sçais-tu pas…
+
+-*who_l_industrie
+      Je sçay ce que vous voulez dire
+Que vous avez deux Fils en différent état,
+Que l'un est Medecin, & l'autre est Avocat,
+Mais tous deux chicaneurs, qui sur ce Mariage
+Vous auroient de leur bien demandé le partage ;
+Et que pour éviter ce desordre intestin,
+L'amour vous a fait faire un Hymen clandestin.
+La Cousine plus riche en appas qu'en monnoye,
+N'a de fond que je croy, qu'un fort grand fond de joye,
+Et vous estes content du present de sa foy ;
+Mais estant à Paris sur le pavé du Roy,
+Vos Fils dans Orleans, sans vous en faire excuse,
+J'ay crû que librement…
+
+-*who_trigaudin
+      Non, c'est ce qui t'abuse :
+L'Avocat est celuy dont j'aurois plus de peur,
+Il est bruyant, actif, aspre au gain, grand hableur⁎,
+Fort propre à son Mestier il faut qu'on le confesse.
+Pour George son cadet, c'est une pauvre espece,
+Il ne sera jamais qu'un Asne, & ne vaudra…
+Je l'ay fait Medecin à cause de cela :
+Mais outre la raison qui m'oblige à leur taire
+L'Hymen qu'à leur insçeu mon amour m'a fait faire,
+Je dois plus que jamais tenir le cas secret.
+Comme je te connois depuis longtemps discret,
+Je puis de mes projets te faire confidence :
+Cet Hymen clandestin, qui selon l'apparence
+Devoit estre un obstacle au bonheur de mes jours,
+Me flate d'un espoir qui m'est d'un grand secours,
+Et par une avanture à nulle autre commune,
+Me fournit un moyen d'établir ma fortune ;
+Et Géronte m'a fait promettre qu'aujourd'huy…
+J'acheveray tantost, j'entens du bruit chez luy,
+Il n'est pas à propos qu'en ce lieu je poursuive.
+Voicy l'heure à peu pres que le Carosse arrive,
+Ma Femme y sera ;cours la preparer un peu
+A l'effort que je veux exiger de son feu ;
+Dy-luy qu'il ne nous faut parler devant personne
+Sous les noms que le joug⁎ de nostre hymen nous donne ;
+Et que pour des raisons importantes enfin
+Je prétens à Paris passer pour son Cousin.
+
+-*who_l_industrie
+Quel seroit son dessein? C'est une affaire faite.
+
+**** *book_ *id_body-202 *act_ *date_1674 *creator_montfleury
+
+-*who_toinette
+Ah Monsieur Trigaudin, est-il vray…
+
+-*who_trigaudin
+      Quoy, Toinette ?
+
+-*who_toinette
+Que nostre Maistre songe à se remarier ?
+
+-*who_trigaudin
+Hé bien, trouvez-vous là de quoy vous effrayer ?
+
+-*who_toinette
+Comment, c'est tout-de-bon ?
+
+-*who_trigaudin
+      Eh cela pourroit estre.
+
+-*who_toinette
+Hé bien…
+
+-*who_trigaudin
+      Quoy ?
+
+-*who_toinette
+      N'ay- je pas toûjours dit que mon Maistre
+Deviendroit fou ?
+
+-*who_trigaudin
+      Comment, pour avoir de l'amour…
+
+-*who_toinette
+Le moyen qu'il s'en sauve ? Aussi dés qu'il est jour
+Il s'enferme tout seul dedans la Chambre aux Livres,
+Et parfois il ne prend pas pour deux liards⁎ de vivres.
+Vous sçavez comme elle est ?
+
+-*who_trigaudin
+      Pleine de haut-en- bas
+De Volumes dorez, de Cartes, de Compas,
+De Cilindres divers, d'Astrolabes⁎, de Spheres…
+
+-*who_toinette
+Et d'autres Instrumens aussi peu necessaires.
+Il dépense à cela plus d'argent qu'il n'est gros :
+Quelquefois en trois jours il ne dit pas trois mots,
+Tant ce chien d'attirail le rend triste & sauvage.
+Tout ce qui m'en déplaist, Monsieur, & dont j'enrage,
+C'est que tous nos Voisins me parlant de cela,
+Disent qu'il n'entend rien dans les Livres qu'il a,
+Que tout cela chez nous ne sert que de parade,
+Que mon Maistre à crédit rend son timbre malade,
+Et ne se plaist⁎ avoir chez luy tout ce butin
+Que pour nourrir des Rats de Grec & de Latin ;
+Qu'il en a dont jamais il n'a fait l'ouverture
+Et qu'il n'y connoist rien que par la couverture.
+Vous ne croiriez jamais les sottises qu'on dit…
+
+-*who_trigaudin
+L'amour pourra donner relâche à son esprit ;
+Et sa Femme pourra, pour peu qu'elle le prie…
+
+-*who_toinette
+C'est un Homme gasté⁎, Monsieur, s'il se marie :
+On pourra luy trouver une Femme à souhait ;
+Mais quelque magazin de vertu qu'elle ait fait,
+Quelque amas de pudeur, quelque fonds de sagesse
+Que la Nature en elle ait joint à sa jeunesse,
+Si Monsieur met chez nous à profit tout son bois,
+Nous passerons l'Hyver sans souffler dans nos doigts,
+J'en suis seûre ; & Monsieur, s'il se met en ménage,
+En aura de son crû du moins pour son chauffage ;
+Son âge & son humeur ne l'en sçauroient sauver ;
+Et comme son Amy, pouvez-vous aprouver…
+
+-*who_trigaudin
+Comment, connois-tu bien la Femme qu'on luy donne ?
+
+-*who_toinette
+Non, Monsieur, voyez-vous, je ne connois personne,
+Mais je me connois bien, & ne jurerois pas,
+S'il vouloit m'épouser, qu'il n'en eut…
+
+-*who_trigaudin
+      En ce cas
+Tu seras du mestier ;mais Femme qui s'emprunte…
+
+-*who_toinette
+Helas ! Dieu fasse paix à la pauvre Défunte :
+Mais ne sçait-on pas bien le train qu'elle menoit ?
+
+-*who_trigaudin
+Hé bien ?
+
+-*who_toinette
+      Eh de Monsieur quand on l'entretenoit,
+Ses Galants⁎ (car parfois j'oyois leur conference)
+Luy disoient franchement que c'estoit conscience
+Qu'il ne fust pas Cocu, jurant tout de leur mieux
+Qu'il avoit pour cela des talens merveilleux,
+Qu'il estoit vieux, jaloux, défiant, incommode,
+Et que pour estre enfin tout-à-fait à la mode,
+Il manquoit à son front ce qu'ils vouloient qu'il eut :
+Bref chacun luy dit tant…
+
+-*who_trigaudin
+      Hé bien ?
+
+-*who_toinette
+      Qu'elle le crût.
+
+-*who_trigaudin
+De sorte que la Belle apres cette assurance,
+Faisant d'estre Coquette un cas de conscience,
+En faveur du Galant décidant sur ce point…
+
+-*who_toinette
+Laissons les Morts en paix, & ne médisons point :
+Mais pour mon Maistre enfin, dûssay-je estre chassée,
+Je ne puis m'empescher de dire ma pensée ;
+Et s'il se marioit cent fois, je gagerois⁎
+Ma teste, que Monsieur seroit Cocu cent fois.
+
+-*who_trigaudin
+Oh, oh, sçavez-vous bien, Madame la Coquine
+Que vostre Maistre épouse une mienne Cousine ?
+
+-*who_toinette
+Ah Monsieur…
+
+-*who_trigaudin
+      Qu'elle est sage, & que…
+
+-*who_toinette
+      Je le croy bien.
+
+-*who_trigaudin
+Pourquoy donc en parler ?
+
+-*who_toinette
+      Par forme d'entretien.
+
+**** *book_ *id_body-203 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+O le charmant Portrait !
+
+-*who_trigaudin
+      Si jamais mesme audace…
+
+-*who_toinette
+Mon Maistre vient. Monsieur, de peur qu'on ne me chasse…
+
+-*who_trigaudin
+Allez, une autre fois soyez sage ; autrement…
+
+-*who_toinette
+Je n'en parleray plus, Monsieur, assurément.
+
+-*who_geronte
+Que ces yeux languissans⁎,cet air tendre & modeste,
+Cette gorge⁎… pourquoy n'a-t-on peint tout le reste ?
+Ah Monsieur Trigaudin, quel bonheur !qu'il m'est doux
+De pouvoir embrasser⁎ un Amy tel que vous !
+
+-*who_trigaudin
+Vous sçavez qu'à vous voir je n'ay pas moins de joye,
+Et que quand mon bonheur permet que je vous voye…
+
+-*who_geronte
+Laissons ces vains discours où la sincerité
+A souvent moins de part que la civilité,
+Ces complimens farcis de pompeux verbiage⁎,
+Dont le bon sens commence à reformer l'usage,
+C'est un soin dont tout l'art consiste en jeu de mots
+Qu'on ne peut pardonner qu'à des Provinciaux :
+Parlez-moy bien plutost, si ma peine⁎ vous touche,
+De cet Objet⁎ charmant, de ses yeux, de sa bouche,
+Tout en est merveilleux. Mais parlons franchement,
+Le Peintre a-t-il rendu ses traits fidellement ?
+Ne l'a-t-il point flatté ?car pour estre à la mode,
+Il faut qu'un Peintre flatte, & se rende commode,
+En vain la verité voudroit paroistre au jour ;
+Qui fait bien ressembler, fait souvent mal sa cour ;
+En dépit du bon sens, ce Sexe veut paroistre
+Moins tel que Dieu l'a fait, que tel qu'il voudroit estre ;
+Et quand dans un Alcove⁎ on plante un beau Portrait,
+Soit qu'il ressemble, ou non, il est toûjours bien fait.
+Non, morbleu, je voudrois qu'on menast aux Galeres
+Ces lâches Barboüilleurs, ces Peintres mercenaires,
+Qui par l'espoir du gain, corrompus la plûpart,
+Renoncent sans scrupule aux regles de leur Art,
+Dispensent leur Pinceau sujet à l'imposture
+Du tribut qu'en ce cas on doit à la Nature,
+De qui l'art sans respect se mesle en leurs Portraits
+De faire les Gens beaux, quand Dieu les a fait laids,
+Et chez qui tous les jours la plus laide Personne
+Est belle au pro rata de l'argent qu'elle donne.
+Les Loix à cet abus devroient un Reglement.
+
+-*who_trigaudin
+Il est vray, mais l'usage en décide autrement :
+Si le Peintre en cecy me paroist peu fidelle,
+C'est que sans vanité ma Cousine est plus belle ;
+Ce crayon imparfait n'en est…
+
+-*who_geronte
+      Que dites-vous,
+Plus belle ? Quoy, ses yeux…
+
+-*who_trigaudin
+      Sont plus grands & plus doux.
+
+-*who_geronte
+Son teint ?
+
+-*who_trigaudin
+      Est bien plus beau.
+
+-*who_geronte
+      Sa bouche ?
+
+-*who_trigaudin
+      Plus vermeille.
+
+-*who_geronte
+Sa gorge ?
+
+-*who_trigaudin
+      Bien plus blanche.
+
+-*who_geronte
+      Elle est donc sans pareille ;
+Car je ne doute point qu'avecque tant d'appas⁎
+Le Ciel n'ait embelly ce qui ne paroist pas.
+Sa taille ?
+
+-*who_trigaudin
+      Est à charmer.
+
+-*who_geronte
+      Son humeur ?
+
+-*who_trigaudin
+      Complaisante.
+
+-*who_geronte
+Son esprit ?
+
+-*who_trigaudin
+      Délicat.
+
+-*who_geronte
+      Sa maniere ?
+
+-*who_trigaudin
+      Engageante.
+
+-*who_geronte
+Jeune ?
+
+-*who_trigaudin
+      Cela se voit.
+
+-*who_geronte
+      Modeste ?
+
+-*who_trigaudin
+      Oh, oh.
+
+-*who_geronte
+      L'air bon ?
+
+-*who_trigaudin
+Majestueux & grand.
+
+-*who_geronte
+      Douce ?
+
+-*who_trigaudin
+      Comme un Mouton.
+
+-*who_geronte
+Que voila bien mon fait ! Ah sur cette assurance,
+Quand arrivera-t-elle ?
+
+-*who_trigaudin
+      Aujourd'huy, que je pense.
+
+-*who_geronte
+Aujourd'huy, juste Ciel ! Si nous prenions le soin
+D'aller au devant d'elle ?
+
+-*who_trigaudin
+      Il n'en est pas besoin
+Afin de ménager doucement chaque chose,
+Il faut qu'adroitement à tout je la dispose :
+L'air dont je luy prétens parler, vous proposant,
+Luy paroistroit suspect, si vous estiez present ;
+Et le Portrait enfin que je luy prétens faire,
+Estant fait sans témoins, paroistra plus sincere.
+
+-*who_geronte
+Ah ! que ne doit-on point à de pareils Amis ?
+Oüy, comme il vous plaira ; mais vous m'avez promis
+Que je l'épouserois ; J'en meurs d'impatience.
+Vous m'avez répondu de son obeïssance,
+Et m'avez assuré que l'offre de sa foy⁎…
+
+-*who_trigaudin
+Oüy, je m'en souviens bien, reposez-vous sur moy,
+Sa main vous est acquise. Il faut qu'elle vous voye.
+
+-*who_geronte
+Ah ce dernier aveu met le comble à ma joye.
+Quant aux conditions, vous sçavez mon dessein :
+Mais comme je m'oblige en luy donnant la main,
+Et que par un Contract avantager la Belle,
+Sans rien faire pour vous, c'est faire tout pour elle,
+Je veux que mon amour redevable à vos soins,
+Ait de tous mes transports les vostres pour témoins :
+Ainsi dés-à-present je m'oblige, & m'engage
+A vous donner…
+
+-*who_trigaudin
+      Hé quoy ?
+
+-*who_geronte
+      Ma Niéce en mariage.
+
+-*who_trigaudin
+Vostre Niéce ? Fort-bien, voila ce qu'il me faut.
+Ah c'est sans intérest…
+
+-*who_geronte
+      Venez-la voir tantost.
+
+-*who_trigaudin
+Moy, me remarier ? Ah Monsieur, je vous prie,
+Qu'on ne me parle point de Femme de ma vie :
+Non, la mienne estant morte, il est hors de saison
+De croire que l'Hymen…
+
+-*who_geronte
+      C'est par cette raison
+Qu'il en faut prendre une autre, & songer à luy plaire :
+Si la vostre vivoit, vous n'en auriez que faire.
+
+-*who_trigaudin
+J'aime le Célibat.
+
+-*who_geronte
+      Ce dessein changera ;
+Ma Niéce est un morceau… L'appétit vous viendra.
+
+-*who_trigaudin
+Valere qui l'adore…
+
+-*who_geronte
+      Il est vray ; mais Valere,
+A ne le point flater, n'est pas bien son affaire ;
+C'est un jeune éventé⁎, faineant, & mutin⁎,
+Et qui, pour parler franc, sent trop son libertin ;
+Ma Niéce est encor jeune, il luy faut un bon Guide,
+Un Mary qui soit meur, dont l'esprit soit solide ;
+Et vous trouvant enfin d'un modele achevé…
+
+-*who_trigaudin
+Le Carosse, Monsieur, pourroit estre arrivé ;
+Je veux qu'en arrivant ma Cousine me voye
+Prompt a luy faire part du sujet de ma joye,
+Et je vay disposer cet Hymen concerté.
+
+-*who_geronte
+Et moy pres de ma Niéce agir de mon costé.
+
+**** *book_ *id_body-204 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Que mon amour se sent fier de cette assurance !
+Mon bonheur aujourd'huy passe mon espérance.
+Que mes jours qui sembloient au chagrin destinez,
+De joye & de repos vont estre assaisonnez !
+Qui l'eust crû, qu'un Portrait d'une jeune Personne
+M'eut donné tout l'amour que celuy-cy me donne ?
+Et qu'un intime Amy, que tant d'ardeur surprend,
+Se fust à point-nommé rencontré son Parent,
+Pour se charger de faire agréer mes hommages ?
+Ah qu'il est vray qu'au Ciel se font les Mariages !
+Et qu'un Homme à l'Hymen s'oppose vainement,
+Alors que son Etoille en ordonne autrement !
+Le Ciel à mon bonheur visiblement travaille ;
+Car outre sa beauté, son esprit, & sa taille,
+Répondent, m'a-t-il dit…Mais, ma Niéce paroist ;
+Je dois de Trigaudin ménager l'intérest ;
+Et ma Niéce n'ayant de but que de me plaire,
+Je puis luy déclarer l'Hymen que je veux faire.
+
+**** *book_ *id_body-205 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Ma Niéce, aprochez-vous, & dans un compliment
+Renfermez tout l'effort de vostre jugement,
+Et me remerciez de la belle maniere
+D'un present que demain ma bonté vous veut faire.
+
+-*who_julie
+Vos bontez ont pour moy de si frequents effets,
+Que mes remercîemens ne finiroient jamais,
+Si mes soins, mon respect, & mon obeïssance,
+Ne marquoient mieux mon zele, & ma reconnoissance :
+Mais quel est ce présent ?
+
+-*who_geronte
+      Je vous donne un Mary ;
+Vous en riez ?
+
+-*who_julie
+      Non ; mais…
+
+-*who_geronte
+      Si-fait, vous avez ry ;
+Je n'en suis point fâché, n'en faites point la fine :
+Mais, ma Niéce, un Mary dont l'esprit & la mine
+Doivent plaire, & je croy que c'est bien vostre fait.
+
+-*who_julie
+Helas ! je reconnoy Valere à ce Portrait.
+
+-*who_geronte
+Les Filles à ce mot ne se sentent pas d'aise.
+
+-*who_julie
+Pour me plaire, mon Oncle, il suffit qu'il vous plaise ;
+Mon cœur est trop instruit de ce que je vous dois,
+Pour oser appeler jamais de vostre choix.
+
+-*who_geronte
+J'apréhendois qu'en vous l'embarras du ménage
+N'eust mis quelque dégoust touchant le Mariage,
+Et qu'enfin cet effort ne vous gesnast⁎ un peu.
+
+-*who_julie
+Non, mon Oncle ; & de plus quand pour un pareil noeu
+J'aurois quelque dégoust, je sçaurois vous le taire,
+Et le sacrifier au desir de vous plaire.
+
+-*who_geronte
+Hé bien, s'il est ainsi, soyez preste demain
+A prendre pour Epoux…
+
+-*who_julie
+      Qui ?
+
+-*who_geronte
+      Monsieur Trigaudin !
+
+-*who_julie
+Monsieur Trigaudin !
+
+-*who_geronte
+      Oüy.
+
+-*who_julie
+      L'embarras du ménage
+Me fait terriblement craindre le Mariage,
+Mon Oncle ; & si je puis…
+
+-*who_geronte
+      Ah je voy l'embarras ;
+Le Mariage plaist, mais l'Epoux ne plaist pas.
+
+-*who_julie
+L'Hymen a tous les jours des suites si fâcheuses,
+Que nous ne nous sçaurions rendre trop scrupuleuses ;
+L'affaire est importante, & ce choix veut du temps.
+
+-*who_geronte
+Ah ne déguisez point icy vos sentimens.
+
+-*who_julie
+Si j'ose vous ouvrir mon ame avec franchise,
+Oüy, mon Oncle, il est vray, vostre choix m'a surprise ;
+J'ay frémy, je l'avouë, au nom d'un tel Mary,
+Mon cœur en sa faveur ne peut estre attendry ;
+Cest Homme est un objet si choquant à ma veuë…
+
+-*who_geronte
+C'est un Homme d'honneur, de probité connuë,
+Un Homme de bon sens, d'un mérite achevé :
+Mais je voy ce que c'est ; votre goust dépravé
+Aimeroit beaucoup mieux quelque teste éventée,
+Ma Niéce, & je vous voy de ces Gens entestée,
+Qui font, étudiant toutes leurs actions,
+Consister le bel air dans leurs contorsions⁎ ;
+Qui portent chez tous ceux qui les trouvent commodes,
+La charge d'un Mulet du fatras de vingt modes,
+Et de qui tous les jours, malgré ce qu'on en dit,
+Le fracas sert de Farce à tous les Gens d'esprit.
+Trigaudin, il est vray, n'est pas de ce modele,
+Il est sage, bien fait, plein d'honneur, plein de zele,
+Modeste en ses habits ; mais enfin tel qu'il est,
+Il sera vostre Epoux, ma Niéce, s'il vous plaist ;
+Et comme à cet Hymen ma parole m'engage,
+Je vay tout disposer pour vostre Mariage.
+
+-*who_julie
+S'il faut qu'à ce malheur mes jours soient reservez,
+Mon Oncle…
+
+-*who_geronte
+      Taisez-vous, vous dis-je, & me suivez.
+Fin du premier Acte
+
+**** *book_ *id_body-301 *act_ *date_1674 *creator_montfleury
+
+-*who_toinette
+Et j'allois vous chercher, Monsieur, pour vous l'aprendre.
+
+-*who_valere
+Toinette, que dis-tu ?
+
+-*who_toinette
+      Ce que je viens d'entendre.
+
+-*who_valere
+Il donneroit sa Niéce à Monsieur Trigaudin,
+Ce Pied-plat⁎…
+
+-*who_toinette
+      Il est vray que c'est un laid Mâtin⁎.
+
+-*who_valere
+Qu'a dit Julie encor sur tout ce qui nous touche ?
+Cet ordre à son amour a-t-il fermé la bouche ?
+A-t-elle, en l'acceptant, perdu le souvenir
+De ces deux cœurs que rien ne devoit des-unir ?
+Geronte a-t-il trouvé son cœur sans Interprete,
+Son visage sans trouble, & sa bouche muette ?
+Dy-moy, qu'a t-elle dit pendant cet entretien ?
+
+-*who_toinette
+Et qu'auroit-elle dit ? Elle n'a rien dit.
+
+-*who_valere
+      Rien !
+Ah que ne dois-je point croire d'un tel silence ?
+Tout trahit mon amour.
+
+-*who_toinette
+      Ma foy, Monsieur, je pense
+Que vous eussiez comme elle esté bien empesché ;
+Elle ne prévoyoit rien moins qu'un tel marché :
+Tenez, en vous trouvant vous-mesme à telle feste ;
+Il vous seroit venu des cornes à la teste,
+Que vous eussiez esté moins surpris, & la peur…
+
+-*who_valere
+Oüy, peut-estre.
+
+-*who_toinette
+      Mon Dieu, je connois vostre humeur,
+Vous estes amoureux, violent, & je gage
+Que vous auriez joüé le mesme personnage.
+
+-*who_valere
+Et quand de Trigaudin reçoit-elle la main ?
+Quand doit-il l'épouser ?
+
+-*who_toinette
+      Demain, Monsieur.
+
+-*who_valere
+      Demain ?
+
+-*who_toinette
+Oüy, nostre Maistre veut que par cette alliance
+Sa Niéce soit le prix de la reconnoissance
+Qu'il prétend témoigner à Monsieur Trigaudin,
+Qui luy fait épouser sa Cousine demain.
+
+-*who_valere
+L'épouser ? & ce cœur verroit lors qu'il me quitte,
+Ma raison sans éclat, mon desespoir sans suite ?
+Non, non, je veux parler à cet Objet sans foy⁎,
+Je veux luy reprocher…
+
+-*who_toinette
+      Doucement, je la voy.
+
+**** *book_ *id_body-302 *act_ *date_1674 *creator_montfleury
+
+-*who_valere
+Ah qu'un cœur à l'aspect d'une personne aimée…
+
+-*who_julie
+Je voy dedans vos yeux que vostre ame alarmée
+Se prépare à se plaindre, & veut me condamner,
+Sur le choix d'un Epoux que l'on me veut donner !
+Mais sans perdre de temps en plaintes inutiles,
+Ecoutez, s'il se peut, des transports⁎ plus tranquiles,
+Sans m'en croire capable, ou venir sur ce bruit
+Consommer un temps cher en reproches sans fruit ;
+Tâchez, en me plaignant, de vous dire à vous-mesme,
+Satisfait du plaisir de sçavoir qu'on vous aime,
+Que tant que je pourray me choisir un Epoux,
+Je feray mon bonheur du plaisir d'estre à vous.
+
+-*who_valere
+Non, non, si cette Loy vous eust fait violence⁎,
+Ce cœur en ma faveur eust rompu son silence.
+Sans la bouche & les yeux, sur quoy s'en assurer ?
+Vous en avez reçeu l'ordre sans murmurer ;
+Ce silence mortel au feu qui m'inquiéte,
+De l'aveu qu'on vouloit, s'est rendu l'Interprete ;
+Et l'Amant⁎ de ses feux⁎ tire bien peu de fruit,
+S'il se promet un cœur par le devoir séduit.
+
+-*who_julie
+Que vous estes cruel ! C'est avec trop d'étude
+Vouloir chercher matiere à vostre inquiétude ;
+Je vous aime, & l'aveu que je vous en ay fait,
+Doit rendre avec raison vostre amour satisfait :
+Mon Oncle m'a prescrit ce qu'on vous vient d'aprendre ;
+J'ay, pour le ménager, des mesures à prendre ;
+Et ma surprise jointe à la peur de l'aigrir,
+A causé mon silence.
+
+-*who_valere
+      Et vous pourrez souffrir…
+
+-*who_julie
+Parlez-luy, ménagez mon repos & le vostre ;
+Il sçait que dés longtemps nous brûlons⁎ l'un pour l'autre,
+Tâchez de l'ébranler, obtenez son aveu ;
+Et s'il veut jusqu'au bout contraindre un si beau feu,
+Soyez seûr que pour lors la peur de luy déplaire,
+N'aura rien dont mon cœur…
+
+-*who_toinette
+      Tout-doux, il faut se taire,
+Madame, & détaler, je l'aperçoy qui sort.
+
+-*who_julie
+Je vous quitte.
+
+-*who_valere
+      Et je vay faire un dernier effort…
+
+**** *book_ *id_body-303 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Sa Cousine sans doute est venuë, & j'espere
+Que l'Hymen où j'aspire… Ah vous voila, Valere
+Qu'est-ce ? que dit le cœur ? Je vous voy bien pensif.
+
+-*who_valere
+J'allois vous chercher.
+
+-*who_geronte
+      Moy ?
+
+-*who_valere
+      Vous-mesme.
+
+-*who_geronte
+      Quel motif
+M'attire un tel honneur ? pourrois-je quelque chose…
+
+-*who_valere
+Pour peu que vous vouliez en deviner la cause,
+Quelque espoir dont ce cœur ait esté prévenu,
+Ce desordre où je suis vous doit estre connu ;
+Car vous n'ignorez pas jusqu'où vont ma tendresse⁎,
+Mes respects & mes feux⁎, pour votre aimable Niéce,
+Depuis quel temps je l'aime, & vos yeux sont témoins
+Du plaisir que j'ay pris à luy rendre des soins⁎.
+Ensemble l'un & l'autre élevez dés l'enfance,
+L'Amour se résolut d'en troubler l'innocence ;
+Et soûmis à ses Loix, sans connoistre son nom,
+La tendresse en nos cœurs préceda la raison :
+Nos regards animez d'un feu tendre & timide,
+N'eurent de nos transports qu'un peu d'instinct pour guide ;
+Et tous deux de ces feux destinez à brûler,
+Sçeûmes aimer avant que de sçavoir parler.
+Quand l'âge nous permit d'aimer avec étude,
+Nous aimâmes par choix comme par habitude ;
+Et ce choix confirmant nos transports à son tour,
+Mit d'accord dans nos cœurs la raison & l'amour ;
+Le mien de ses ardeurs ne fit plus un mistere,
+J'aimay, je m'aplaudis⁎ du bonheur de luy plaire,
+Je luy rendis des soins ; vous pûtes l'observer,
+Vos yeux qui les souffroient⁎, sembloient les aprouver :
+Cependant quand je n'ay que mon bonheur en veuë,
+Vous voulez par un choix dont la rigueur nous tuë,
+Nous forcer d'étouffer, luy donnant un Epoux,
+Un amour dés l'enfance élevé parmy nous.
+
+-*who_geronte
+Ah voicy de mes Gens, des timbres sans conduite,
+Chez qui les beaux discours tiennent lieu de mérite,
+De ces Galans jurez, qui font leur capital
+De bien philosopher sur le nœud conjugal.
+Voila ce qu'a produit cette lecture fade
+De ces petits Romans dont Barbin fait parade,
+De ces Livres sans sel, aussi-bien que sans noms
+D'Ecrivains qu'en fureur fait pleuvoir Apollon.
+Lisez-moy, lisez-moy, pour vous faire un bon Guide,
+Quelque bon Philosophe, ainsi qu'estoit Ovide.
+Si vous cherchez en Vers quelque chose de bon,
+Lisez les Vers galants & tendres de Platon.
+Si vous aimez l'Histoire, achetez-moy par botte
+De bons Historiens comme estoit Aristote.
+Si chez les Orateurs vous trouvez plus de goust,
+Lisez-moy goulûment Plaute de bout en bout :
+Et si de Vers pompeux le torrent vous entraîne,
+Aprenez-moy par cœur tous ceux de Demostene.
+Voila, pour estre Docte, une Ecole où l'on peut…
+
+-*who_valere
+Il est vray ; mais, Monsieur, n'est pas Docte qui veut.
+Si je balance un jour sur le choix d'un bon Livre,
+Vos avis sont des loix que je pourray bien suivre :
+Mais comme c'est d'amour dont il s'agit icy,
+Si je m'explique bien, répondez juste aussy.
+
+-*who_geronte
+Je le voy, vous voulez mourir avec constance
+Dans l'abisme où vous a plongé vostre ignorance :
+Hé bien, il faut répondre à vos intentions,
+Parlez, je répons juste, & tres-juste ; voyons.
+
+-*who_valere
+Se peut-il, connoissant mon cœur & ma tendresse,
+Qu'à Monsieur Trigaudin vous donniez vostre Nièce ?
+
+-*who_geronte
+Oüy.
+
+-*who_valere
+      Qu'en nostre faveur rien ne vous ait parlé ?
+
+-*who_geronte
+Non.
+
+-*who_valere
+      Vous sacifiërez le feu dont j'ay brûlé,
+Et vous le pourrez ?
+
+-*who_geronte
+      Oüy.
+
+-*who_valere
+      Vostre ame combatuë
+Ne revoquera⁎ point un ordre qui me tuë ?
+
+-*who_geronte
+Non.
+
+-*who_valere
+      Il épouseroit vostre Niéce demain ?
+
+-*who_geronte
+Oüy.
+
+-*who_valere
+      Je n'aurois plus rien à prétendre à sa main ?
+
+-*who_geronte
+Non.
+
+-*who_valere
+      Ah si d'un tel coup ma flâme est menacée…
+
+-*who_geronte
+Ecoutez. Pour vous dire en deux mots ma pensée,
+Et vous faire un aveu dépoüillé d'intérest,
+De quel air vivez-vous, mon Cadet⁎, s'il vous plaist ?
+Vous aimez le fracas⁎, & portez l'équipage⁎
+D'un Fanfaron⁎ nourry dans le libertinage ;
+Les plaisirs, les Cadeaux vont toûjours mesme train,
+On vous voit tous les jours des Cartes à la main,
+Et c'est un Almanac⁎ dont vous faites le vostre,
+Qui fait faire bien plus de jeusnes qu'aucun autre.
+Comme un Mestre de Camp il faut que vous portiez
+Une Epée au costé trop longue de deux piez ;
+Vous qui n'avez oüy, depuis qu'on vous éleve,
+Que les coups de Canon que l'on tire à la Greve ;
+Qui fuyant le Salpestre ainsi que les Lauriers,
+Imitez dans Paris nos Breteurs cazanniers,
+Nos braves Citadins, nos Heros de Ruelles,
+Ces paisibles Martyrs du caprice des Belles,
+Qui dans un Lieu public se campant fierement,
+D'un plaisir sans péril font leur retranchement,
+Et de qui tous les ans, malgré les railleries,
+Les Campagnes⁎ se font dedans les Tuilleries.
+Voila vostre Portrait, & c'est pourquoy je veux,
+Pour vous faire plaisir, vous séparer tous deux :
+Je voy que vous voulez dans ce libertinage,
+Tant que le permettront vostre argent & vostre âge,
+Chercher en étourdy, pour contenter vos feux,
+Quatre mois de plaisir, pour estre dix ans gueux ;
+Et qu'enfin vostre esprit qui sans choix se travaille⁎,
+A l'exemple du fruit veut meurir sur la paille,
+Soit. Mais je dois songer à regler vostre espoir,
+Il faut un autre Epoux à ma Niéce, bon-soir.
+
+**** *book_ *id_body-304 *act_ *date_1674 *creator_montfleury
+
+-*who_valere
+Que d'un pareil mépris ma flâme soit suivie !
+Ah si je perds sa Niéce, il faut perdre la vie ;
+Suivons-le, mon amour ne se peut rebuter,
+Aussi-bien quelqu'un vient qui pourroit m'arrester.
+
+**** *book_ *id_body-305 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Mon Maistre à son retour met un assez long terme,
+La Cousine est venuë, & l'attend de pié ferme ;
+Je suis d'avis de voir ce qu'il est devenu,
+Il a quelque dessein qui ne m'est pas connu :
+Mais enfin par mes soins sa conduite observée…
+
+**** *book_ *id_body-306 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Monsieur…
+
+-*who_trigaudin
+      Qu'est-ce, qu'as-tu ?
+
+-*who_l_industrie
+      Madame est arrivée,
+Elle est dans l'autre Chambre.
+
+-*who_trigaudin
+      Elle sçait bien qu'il faut…
+
+-*who_l_industrie
+Sans doute.
+
+-*who_trigaudin
+      Il faut la voir, & la voir au plutost,
+Pour luy communiquer l'affaire qui s'apreste ;
+J'entre, & luy veux parler un moment teste-à-teste.
+
+**** *book_ *id_body-307 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Je ne sçay quel dessein fait mon Maistre aujourd'huy ;
+Sans Toinette tantost je l'aurois sçeu de luy :
+Faire passer sa Femme icy pour sa Cousine,
+Me semble… Si c'estoit ce que je m'imagine…
+J'ay l'honneur de servir un aussi grand Fripon⁎
+Qu'il s'en puisse trouver du Couchant au Japon ;
+Je connois son allûre⁎, & ne me trompe guere,
+Je veux les écouter, & voir sur cette affaire…
+Les voicy.
+
+**** *book_ *id_body-308 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+      Laisse-nous.
+
+-*who_l_industrie
+      Si…
+
+-*who_trigaudin
+      Ne replique pas.
+
+-*who_l_industrie
+Je feins de m'éloigner, & reviens sur mes pas.
+
+-*who_lucie
+D'où vient ce sombre accueil, & ce regard farouche,
+Ce trouble qui vous ouvre & vous ferme la bouche ?
+
+-*who_trigaudin
+Vous le sçaurez bientost ; mais il faut visiter
+Cette Chambre où quelqu'un nous pourroit écouter.
+Nous sommes seuls, je puis m'expliquer sans scrupule ;
+Et sans vous ennuyer d'un trop long préambule,
+Je croy que vostre esprit content d'un tel Epoux
+N'a pas mis en oubly ce que j'ay fait pour vous.
+
+-*who_lucie
+Mon ame est trop sensible à la reconnoissance,
+Pour oublier jamais…
+
+-*who_trigaudin
+      Mais sur cette assurance
+Qui sent le compliment qu'on cherche à s'attirer,
+Quelle preuve de vous en pourrois-je esperer ?
+
+-*who_lucie
+Tout ce qu'un cœur soûmis, tout ce qu'un amour tendre,
+D'une ame toute à vous, peuvent vous faire attendre.
+
+-*who_trigaudin
+Prenez bien garde à quoy ce cœur va s'engager.
+
+-*who_lucie
+Douter de mon amour, c'est n'en pas bien juger.
+
+-*who_trigaudin
+La preuve que j'en veux est un peu singuliere,
+La matiere en est neuve, & mesme Cavaliere.
+
+-*who_lucie
+Plus l'effort sera grand, plus j'impute à bonheur
+Le moyen de pouvoir vous prouver mon ardeur.
+
+-*who_trigaudin
+Puis que d'un tel effort vostre vertu⁎ se pique,
+J'aime à n'en point douter. Je poursuis, & m'explique ;
+Il faut premierement, pour venir à ma fin,
+Ne nous nommer par tout que Cousine & Cousin.
+
+-*who_lucie
+On me l'a déja dit, Monsieur ; & quelque peine
+Que fasse à ma tendresse⁎ un titre qui la gesne⁎,
+Le plaisir de vous plaire où j'aspire en ce jour,
+Sçaura d'un tel effort consoler mon amour.
+
+-*who_trigaudin
+C'est fort bien répondu. J'ay déja par avance
+Jetté les fondemens de cette intelligence⁎ ;
+Et soupant l'autre jour chez un Amy parfait,
+Où le hazard voulut qu'on vit vostre Portrait,
+Afin de parvenir au but que j'imagine,
+Je vous fis pres de luy passer pour ma Cousine.
+
+-*who_lucie
+Vous avez vos raisons ; vous pouvez ordonner,
+Et je souscris à tout, sans les examiner.
+
+-*who_trigaudin
+Fort-bien. Expliquons-nous, puis que rien ne l'arreste ;
+Cet Amy dont je parle, est bien fait, sage, honneste,
+Et vous allez vous-mesme en demeurer d'accord,
+Sçachant qu'il a chez luy dedans un Coffre-fort
+Cent mille francs contens qu'il m'a…
+
+-*who_lucie
+      La preuve est forte ;
+Mais qu'importe pour nous…
+
+-*who_trigaudin
+      Si fait il nous importe.
+Cet Amy donc bien fait, honneste, sage, & doux,
+A sur vostre Portrait pris tant d'amour pour vous,
+Qu'il ne respire plus qu'apres vostre présence :
+Du trouble de son cœur il m'a fait confidence,
+Et lors qu'à cet aveu je m'attendois le moins,
+M'a prié de souffrir qu'il vous rendist des soins⁎ :
+Mon amitié sensible à l'amour qui l'obsede,
+Au mal dont il se plaint a promis du remede,
+Et réduit pour raison à le favoriser,
+Je prétens dés demain vous le faire épouser.
+
+-*who_lucie
+A moy, Monsieur ?
+
+-*who_trigaudin
+      A vous.
+
+-*who_lucie
+      Bon.
+
+-*who_trigaudin
+      Comment bon ?
+
+-*who_lucie
+      Vous dites
+Que vous avez promis…
+
+-*who_trigaudin
+      D'agréer ses visites,
+De vous donner à luy pour Femme, & que ce point…
+
+-*who_lucie
+La raillerie⁎ en est ?
+
+-*who_trigaudin
+      Non, je ne raille point.
+
+-*who_lucie
+Vous ne raillez point ?
+
+-*who_trigaudin
+      Non.
+
+-*who_lucie
+      C'est de quoy je vous blâme,
+Avez-vous oublié que je suis vostre Femme ?
+
+-*who_trigaudin
+Non, je m'en souviens bien ; mais ce petit effort
+Nous peut donner acces pres de son Coffre-fort ;
+Et ce moyen enfin qu'il faut que l'on hazarde,
+Peut nous aproprier tout l'argent qu'il y garde.
+
+-*who_lucie
+Vous vous divertissez⁎ sans doute, & ma vertu…
+
+-*who_trigaudin
+Je parle tout de bon, & prétens estre crû.
+
+-*who_lucie
+Vous pourriez, soûmettant mes sentimens au vostre,
+Voir ainsi vostre Femme entre les bras d'un autre ?
+Et vous perdant d'honneur, en disposant de moy,
+Faire par intérest commerce⁎ de ma foy ?
+
+-*who_trigaudin
+Un Homme revenu des erreurs populaires,
+De scrupules pareils ne s'embarasse gueres ;
+Chez le plus régulier⁎ on voit mille fois l'an
+Et la vertu venduë, & l'honneur à l'encan.
+Vouloir de ces abus rectifier l'usage,
+Ce seroit s'entester d'un point-d'honneur sauvage ;
+Chacun pour s'agrandir, hazarde plus ou moins,
+Le Marchand son argent, le Praticien ses soins,
+L'Homme de Cour son sang, l'Artisan son adresse,
+La Coquette au besoin hazarde sa jeunesse,
+L'intérest sert par tout de guide à la vertu ;
+Mais de trop d'embarras l'esprit est combattu,
+Quand il faut sur l'espoir qui flatte cette envie,
+Risquer ses soins, son bien, son adresse, ou sa vie,
+Et c'est à bon marché joüir de son bonheur,
+Que d'en estre aujourd'huy quitte pour de l'honneur.
+
+-*who_lucie
+A vous dire le vray, Monsieur, cette Morale
+Est nouvelle pour moy ; mais enfin le scandale
+Qui suivroit…
+
+-*who_trigaudin
+      Vostre esprit se gendarme⁎ de peu.
+Craignez-vous qu'abusant icy de vostre aveu…
+
+-*who_lucie
+Mais ce lien, Monsieur, par des Loix necessaires,
+Demande de l'Hymen les suites ordinaires ;
+Et je ne comprens pas comment vous accordez
+Cette suite & l'effet que vous en attendez.
+
+-*who_trigaudin
+Ecoutez ; Nous pourrons rendre par nos adresses
+Vostre esprit satisfait sur ces délicatesses ;
+Mon dessein est de voir ces suites sans effet ;
+Voicy comment. Si-tost que l'Hymen sera fait,
+Pour n'avoir sur ce point aucun sujet de crainte,
+De quelque mal subit vous vous feindrez atteinte,
+Dont le prétexte adroit bornera quelque temps
+Au plaisir de vous voir, tous ses empressemens⁎ ;
+Tandis que de ma part je sçauray me résoudre
+A luy faire avaler douze grains d'une poudre
+Qui fait des Heritiers du soir au lendemain.
+
+-*who_l_industrie
+Peste !
+
+-*who_trigaudin
+      Quand j'auray fait reüssir mon dessein,
+Je vous sçauray sous-main, pour vous voir à la mode,
+De nos Veuves du temps éclaircir la méthode.
+
+-*who_lucie
+Quoy, le faire mourir ?
+
+-*who_trigaudin
+      Passons sur ces objets.
+
+-*who_lucie
+Mais songez-vous, Monsieur, que de pareils projets
+Font pendre quelquefois ceux qui les effectuënt.
+
+-*who_trigaudin
+Pend-on les Medecins, qui tous les jours en tuënt ?
+Pend-on les Avocats, pend-on les Procureurs,
+Qui font mourir de faim les trois quarts des Plaideurs
+Vous vous moquez de moy :toute la diférence
+Qui nous distinguera dedans cette occurence,
+C'est que pour s'enrichir, ces Messieurs moins humains
+Font crever par milliers ceux qu'ils ont dans les mains,
+Et que plus scrupuleux cent fois, & plus honneste,
+Je n'auray pour du bien, fait tomber qu'une teste.
+
+-*who_l_industrie
+Voila, je vous l'avouë un méchant Garnement⁎.
+
+-*who_lucie
+Je ne puis revenir de mon étonnement,
+Car vostre bien suffit aux besoins d'une vie…
+
+-*who_trigaudin
+Oüy, j'en puis vivre avec bien de l'oeconomie,
+Il est vray :mais aimer une tranquilité
+Que l'on ne peut trouver que dans l'obscurité ;
+N'avoir dans les plaisirs, par qui l'ame est émeuë,
+Que sa misere en teste, & sa bassesse en veuë,
+Et plein des mouvemens qui chatoüillent les cœurs,
+Subsister sans éclat du fruit de ses sueurs,
+En faire avec ses sens un si foible partage,
+C'est de la pauvreté se sauver à la nage,
+C'est estre à sa bassesse en Esclave enchaîné,
+Et ramper sans espoir dans un état borné :
+Quand on peut se vanger du Sort qui nous gourmande⁎,
+Quelque effort que de nous l'occasion demande,
+Il faut sans balancer la prendre avec chaleur ;
+Et qui peut la manquer, mérite son malheur.
+
+-*who_lucie
+Pour moy, je vous l'avouë, & je ne puis m'en taire,
+Je n'ay d'ambition que celle de vous plaire ;
+Je borne ma fortune au plaisir de vous voir
+Dans cet état tranquile, & ne puis concevoir
+Comment sur cet espoir…
+
+-*who_trigaudin
+      L'occasion est belle.
+
+-*who_lucie
+Vous exposez vos jours.
+
+-*who_trigaudin
+      C'est une bagatelle
+Où je mettray bon ordre ; & lors que vostre foy
+M'aura mis…
+
+-*who_lucie
+      Non, Monsieur, n'attendez rien de moy,
+Ce dessein me fait peur, j'en frémis.
+
+-*who_trigaudin
+      L'Innocente⁎ !
+
+-*who_lucie
+N'attendez rien de moy, vous dis-je, il m'épouvante,
+Je n'y veux point entendre, & mon cœur en conçoit
+Une suite…
+
+-*who_trigaudin
+      Et je veux morbleu que cela soit.
+
+-*who_lucie
+Je ne m'y puis résoudre ; & quoy que l'on exige
+De mes soins…
+
+-*who_trigaudin
+      Et je veux que cela soit, vous dis-je,
+Que vous suiviez en tout ce que je vous prescris,
+Pour trouver cet Amy, je vais à son Logis.
+Vous sçavez de quel air je veux qu'on le reçoive ;
+Secondez mon dessein, sans qu'il s'en aperçoive,
+Et que tous vos discours d'accord avec vos yeux,
+Ménagent comme il faut mon secret & ses feux :
+Enfin souvenez-vous, faisant vostre harangue,
+Que je donne vos jours en garde à vostre langue ;
+Dans une heure au plus-tard je vous l'amene icy,
+Faites-luy bonne mine, autrement…Songez-y.
+
+**** *book_ *id_body-309 *act_ *date_1674 *creator_montfleury
+
+-*who_lucie
+Cecy me semble un songe, & jamais ma surprise
+N'estoit venuë au point où ce discours l'a mise.
+Quoy, toutes mes raisons contre celle qu'il a,
+N'ont pû…
+
+-*who_l_industrie
+      Le grand pendard⁎ de Maistre que j'ay là !
+
+-*who_lucie
+Tu l'écoutois.
+
+-*who_l_industrie
+      D'icy, je venois de m'y mettre,
+Madame, & comme vous je ne puis m'en remettre :
+Le Fourbe ! marier sa Femme à son Voisin,
+Pour le faire crever, & piller son douzain !
+
+-*who_lucie
+Que résoudre ? je crains son humeur violente.
+
+-*who_l_industrie
+Pour vous tirer d'affaire, & tromper son attente,
+Je m'offre à vous servir, si vous y consentez,
+Et je sçais une piece⁎ où toutes ses clartez…
+
+-*who_lucie
+Je me trouve en état de risquer toutes choses,
+Plutost que de souffrir…Mais ce que tu proposes
+Pourra-t-il…
+
+-*who_l_industrie
+      Vostre esprit en sera satisfait.
+
+-*who_lucie
+Vien m'en entretenir, pour en presser l'effet.
+Fin du Second Acte
+
+**** *book_ *id_body-401 *act_ *date_1674 *creator_montfleury
+
+-*who_toinette
+Je vous cherchois, Monsieur ; on meurt d'impatience
+De sçavoir le succés de vostre conférence,
+Et j'allois pour sçavoir de vous en ce moment,
+Ce que nostre Oncle a dit à vostre compliment.
+
+-*who_valere
+Helas, Toinette !
+
+-*who_toinette
+      Hé bien ?
+
+-*who_valere
+      Va dire à ta Maîtresse,
+Qu'il m'oste tout l'espoir qui flattoit ma tendresse,
+Que malgré tant d'amour tout trahit nos souhaits,
+Et que je vay demain la perdre pour jamais.
+
+-*who_toinette
+Ah Monsieur !
+
+-*who_valere
+      Oüy, demain on contraindra sa flâme
+A souffrir Trigaudin, elle sera sa Femme.
+
+-*who_toinette
+Helas !
+
+-*who_valere
+      Son Oncle en est tellement entesté
+Qu'il m'a presque laissé, sans m'avoir écouté.
+
+-*who_toinette
+Mais de quel air encor voit-il vostre ame atteinte ?
+
+-*who_valere
+De quel air ? comme un Tigre insensible à la plainte,
+De qui l'ame inflexible, & le cœur endurcy,
+Fait répandre des pleurs sans en estre adoucy.
+Non, tant de dureté me confond, & la honte…
+De mon peu de bonheur va-t-en luy rendre compte,
+Peins-luy le desespoir d'un Amant qui la croit…
+
+-*who_toinette
+Je n'ay garde, Monsieur, cela la fâcheroit.
+
+-*who_valere
+Pour moy, qui sans souffrir une douleur mortelle,
+Ne puis voir cet Hymen, je veux m'éloigner d'elle ;
+Je veux quitter ces Lieux où tout me fait horreur,
+Je le dois ; car enfin, Toinette, quand ce cœur
+Qui ne sentit jamais de feu pareil au nostre,
+La verroit sans mourir entre les bras d'un autre,
+Je ne répondrois pas que mon ressentiment
+Ne portast ma douleur à quelque emportement,
+Et que contre l'Epoux que l'on la force à prendre,
+Un juste desespoir n'osast tout entreprendre.
+Il vaut mieux m'éloigner.
+
+-*who_toinette
+      Ah gardez-vous-en bien.
+
+-*who_valere
+Non, non, tous tes conseils ne serviront de rien ;
+La raison, mon amour, tout à partir m'oblige,
+Il faut…
+
+-*who_toinette
+      Gardez-vous bien de la quitter, vous dis-je.
+
+-*who_valere
+Je veux partir, te dis-je ; éloigné de ses yeux…
+
+-*who_toinette
+Ma foy, si Trigaudin me chassoit de ces Lieux,
+Comme Dieu m'a donné du panchant au vacarme,
+Je ne partirois pas sans luy donner l'allarme,
+Mais si chaude…
+
+-*who_valere
+      Comment ?
+
+-*who_toinette
+      Je vous le dis tout net,
+Monsieur, j'irois le voir, & luy dirois son fait ;
+Et que si son amour à cet Hymen s'obstine,
+Je sçaurois … Mais tenez, le voicy qui rumine.
+
+-*who_valere
+Laisse-nous ; tout mon sang s'émeut à son abord,
+Je suivray ton conseil, & je l'aprouve fort.
+
+-*who_toinette
+Quel Galant ! La figure en est-elle pas bonne ?
+
+-*who_valere
+Mon amour est confus du Rival qu'on me donne ;
+Et si pour m'en vanger, je suivois mon chagrin…
+
+**** *book_ *id_body-402 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Ah Monsieur.
+
+-*who_valere
+      Ah c'est vous, Monsieur Trigaudin.
+
+-*who_trigaudin
+Pour vous servir, Monsieur.
+
+-*who_valere
+      Ecoutez…Eh de grace,
+Pour m'entendre un moment, suprimez la grimace.
+Encor ? Eh ces saluts ne sont pas de saison ;
+Et voulant avec vous en user sans façon,
+Vous pouvez vous couvrir : vous sçavez bien que j'aime⁎ ?
+
+-*who_trigaudin
+Tout le monde le sçait.
+
+-*who_valere
+      Que l'on m'aime de mesme.
+
+-*who_trigaudin
+Cela s'en va sans dire ; un Homme de vostre air⁎…
+
+-*who_valere
+Pour l'Objet, il n'est pas besoin de le nommer ;
+Vous sçavez bien que c'est…
+
+-*who_trigaudin
+      La Niéce de Géronte.
+
+-*who_valere
+Justement⁎.
+
+-*who_trigaudin
+      Oh.
+
+-*who_valere
+      L'on vient de m'en faire un sot conte,
+Et je ne sçay qu'en croire. On m'a dit qu'il prétend
+Luy donner pour Epoux un Homme dégoûtant,
+Sans naissance, sans bien, mal-fait de sa personne :
+C'est un bruit qui d'abord m'a surpris. On s'étonne
+De ce choix ; mais estant de ses Amis enfin,
+Sçauriez-vous point le nom de cet heureux Faquin⁎ ?
+Et sur un tel Portrait pourriez-vous point m'instruire…
+
+-*who_trigaudin
+Sans vanité, c'est moy qu'on a voulu vous dire,
+Monsieur.
+
+-*who_valere
+      Qui, vous ?
+
+-*who_trigaudin
+      Moy-mesme.
+
+-*who_valere
+      Aussi quand j'y songeois,
+J'y trouvois de vostre air, & beaucoup de vos traits ;
+Ainsi vous l'épousez, & l'espoir de luy plaire…
+
+-*who_trigaudin
+Moy, Monsieur ?
+
+-*who_valere
+      Oüy.
+
+-*who_trigaudin
+      J'ay trop de respect pour Valere :
+Géronte à cet Hymen semble s'estre attendu ;
+Mais loin de l'accepter, je m'en suis défendu ;
+Je connois vostre amour, Monsieur, & je devine
+Les ennuis qui suivroient…
+
+-*who_valere
+      Mais enfin s'il s'obstine
+A vouloir vous donner sa Niéce, & que son choix…
+
+-*who_trigaudin
+Monsieur, je ne puis pas me marier deux fois ;
+Et ce second Hymen la rendant malheureuse,
+Pouroit avoir pour moy quelque suite fâcheuse.
+
+-*who_valere
+Cela pourroit bien estre.
+
+-*who_trigaudin
+      Oh je me doute bien
+Que si je l'épousois, sans m'étonner de rien,
+Ce seroit m'exposer…& la chose est plausible,
+A passer par les mains d'un Homme aussi terrible…
+
+-*who_valere
+Sans-doute.
+
+-*who_trigaudin
+      Et que mes jours, cet Hymen terminé,
+Courroient risque…
+
+-*who_valere
+      Ma foy, vous l'avez deviné.
+
+-*who_trigaudin
+Bon, cela saute aux yeux.
+
+-*who_valere
+      Songez, en Homme sage,
+A ne vous plus flatter d'un pareil Mariage.
+Si j'aprens que vos soins⁎ l'importunent jamais,
+Et que vous prétendiez…
+
+-*who_trigaudin
+      Non, Monsieur, je promets
+Que de quelque façon que Géronte me voye,
+Au feu dont vous brûlez je la cede avec joye,
+Et que de mes respects vous serez satisfait.
+
+-*who_valere
+Cela suffit ; Adieu, nous en verrons l'effet.
+
+**** *book_ *id_body-403 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Ce Geronte entesté de l'Hymen qu'il veut faire,
+Avec cet Etourdy⁎ me fera quelque affaire.
+Cherchons-le cependant, pour luy dire qu'icy
+Ma Cousine arrivée y peut… Mais le voicy.
+
+**** *book_ *id_body-404 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Je vous cherchois. Hé bien, vostre aimable Parente…
+
+-*who_trigaudin
+Est icy.
+
+-*who_geronte
+      Quel bonheur ! tout flatte mon attente.
+Peut-on la voir ?
+
+-*who_trigaudin
+      Sans-doute ; elle n'attend que vous.
+
+-*who_geronte
+Mais sans l'incommoder ?
+
+-*who_trigaudin
+      Nullement.
+
+-*who_geronte
+      Avez-vous
+Avantageusement parlé de la personne ?
+Vanté la mine & l'air de l'Epoux qu'on luy donne ?
+
+-*who_trigaudin
+Sans-doute.
+
+-*who_geronte
+      Avez-vous bien fait valoir le présent
+Que mon amour prétend luy faire en l'épousant ?
+Et parlé de l'argent…
+
+-*who_trigaudin
+      Comme en ce Mariage
+L'heur⁎ de vous posseder est l'unique avantage
+Qui doit causer en elle un amour bien reglé,
+Cet Article est un point dont je n'ay pas parlé.
+
+-*who_geronte
+Pourquoy ?
+
+-*who_trigaudin
+      Quand l'intérest en un pareil rencontre
+Peut avoir quelque part dans l'ardeur qu'on nous montre ;
+Quand l'argent rend un cœur sensible à son aspect,
+Ce qu'il promet d'amour est un présent suspect :
+Il faut, pour s'aplaudir⁎ de l'ardeur d'une Femme,
+Ne pouvoir imputer qu'à soy toute sa flâme,
+Et se pouvoir enfin répondre en s'engageant,
+Que c'est nous qu'on épouse, & non pas notre argent.
+
+-*who_geronte
+Fort-bien. C'est avoir sçeu me rendre un bon office.
+Mais avez-vous de moy fait un Portrait qui puisse…
+
+-*who_trigaudin
+Si parfait, que son cœur charmé sur mon raport,
+Vous adore.
+
+-*who_geronte
+      Déja ? Voila qui prend bien fort.
+Ainsi donc nostre Hymen sera chose facile ?
+
+-*who_trigaudin
+Il dépendra de vous.
+
+-*who_geronte
+      Allons voir si mon stile
+Ne diminuëra rien de cette opinion.
+
+-*who_trigaudin
+Je m'en vay l'appeller.
+
+-*who_geronte
+      Fort-bien.
+
+**** *book_ *id_body-405 *act_ *date_1674 *creator_montfleury
+
+-*who_lucie
+      Que me veut-on?
+
+-*who_trigaudin
+Voicy nostre Homme.
+
+-*who_lucie
+      Ah Ciel !
+
+-*who_trigaudin
+      Ne faites pas l'Idole⁎,
+Autrement…La voila, joüez bien vostre rôle.
+
+-*who_geronte
+Qu'elle est belle ! jamais je ne vis rien d'égal,
+Et son Portrait n'est rien pres de l'Original :
+Souffrez que sur l'espoir de vous avoir pour Femme,
+Je vous livre un baiser pour gage de ma flâme.
+
+-*who_trigaudin
+Il entre en ces baisers, sans un nœud solemnel,
+Des transports indécens d'un feu trop sensuel :
+On sçait qu'un nœud sacré comme le Mariage,
+Ne doit pas commencer par le libertinage,
+Et qu'on doit de ses feux marquer la pureté
+Par un retranchement de sensualité :
+Quand par les droits d'Hymen vous en serez le maître,
+Dans vos embrassemens vos feux pourront parestre.
+Jusques-là…
+
+-*who_geronte
+      J'y consens : mais laissez-moy du moins
+Luy marquer mes transports par quelques petits soins ;
+Sur l'aveu du Cousin, j'ay crû que la Cousine
+Recevroit sans chagrin l'Epoux qu'il luy destine ;
+Qu'aimant ce cher Parent, vous pourriez trouver bon
+Qu'il disposast d'un cœur…
+
+-*who_lucie
+      Vous avez eu raison,
+J'ay reçeu de sa main un Epoux que j'honore,
+Qui m'aime, & dont le cœur…
+
+-*who_geronte
+      Ma Belle, il vous adore.
+
+-*who_lucie
+Quelque trouble secret qui m'étonne aujourd'huy,
+Je fais tout mon bonheur du plaisir d'estre à luy ;
+Mon cœur à son amour s'est trouvé si sensible,
+Que pour le signaler, tout luy sera possible,
+Et ma raison ne peut résoudre ma pudeur
+A cacher un amour maître de tout mon cœur.
+
+-*who_geronte
+Ah de trop de bontez c'est honorer ma flâme :
+Ainsi donc cet Epoux aura toute vostre ame ?
+
+-*who_lucie
+Toute entiere !
+
+-*who_geronte
+      Et ses soins témoins de ses desirs…
+
+-*who_lucie
+Me plairont.
+
+-*who_geronte
+      Son amour ?
+
+-*who_lucie
+      Fera tous mes plaisirs.
+
+-*who_geronte
+Sa personne, hem ? parlez.
+
+-*who_lucie
+      Me sera toûjours chere.
+
+-*who_geronte
+Et ses transports ?
+
+-*who_lucie
+      Croistront le desir de luy plaire.
+
+-*who_geronte
+Son entretien⁎ ?
+
+-*who_lucie
+      Pour moy sera plein de douceur.
+
+-*who_geronte
+Ses caresses ?
+
+-*who_lucie
+      Daignez épargner ma pudeur.
+
+-*who_geronte
+C'en est trop ; & mon feu qui s'efforce à paraistre,
+De mon ravissement ne me sent plus le maître.
+
+-*who_trigaudin
+Doucement, ces transports sont un peu trop fréquens :
+Je vous l'ay déja dit, un Homme de bon sens
+Ne doit point exposer, exigeant de ces preuves,
+La pudeur d'une Fille⁎ à de telles épreuves ;
+Il faut, quand nous pouvons donner tout à nos sens,
+Epargner les témoins de nos empressemens,
+De crainte d'exciter, par un soin condamnable,
+De petits mouvemens dont on est responsable.
+
+-*who_geronte
+Tout ce raisonnement me semble bien subtil ;
+De petits mouvemens ! Comment se pourroit-il
+Qu'un Cousin pût avoir ces scrupules dans l'ame ?
+Que devant le Mary l'on caresse la Femme
+Tous les jours, sans qu'aucun…
+
+-*who_trigaudin
+      Distingo, s'il vous plaist.
+
+-*who_geronte
+Puis qu'elle me veut bien, & que je suis tout prest
+De l'épouser, pourquoy…
+
+**** *book_ *id_body-406 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+      Monsieur, on vous demande,
+C'est vostre Procureur, qui par son Clerc vous mande
+Que jusqu'à son Logis vous alliez au plutost.
+
+-*who_trigaudin
+Le fâcheux contretemps ! Je m'y rendray tantost.
+
+-*who_l_industrie
+Il presse.
+
+-*who_trigaudin
+      Qu'il attende.
+
+-*who_l_industrie
+      Il dit que c'est pour faire…
+
+-*who_trigaudin
+Ah Ciel ! il ne faut pas negliger cette affaire,
+Les laisser seuls, tandis que d'amour transporté
+Celuy-cy… Puis que c'est une necessité,
+Le Logis où je vay n'est pas loin, & j'espere
+Estre bientost icy, je ne tarderay guère.
+
+**** *book_ *id_body-407 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Madame, le hazard le force à vous quitter,
+C'est une occasion dont il faut profiter ;
+Vous sçavez…
+
+-*who_lucie
+      C'est à quoy je suis bien résoluë :
+Laisse-nous seuls.
+
+**** *book_ *id_body-408 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+      Enfin, malgré la retenuë
+Où ses yeux me forçoient, je puis en liberté
+Vous montrer tout l'amour dont je suis transporté ;
+Et ces mains…
+
+-*who_lucie
+      Ce transport qui paroist légitime,
+Ne sçauroit de ma part estre souffert sans crime ;
+En vain vous prétendez devenir mon Epoux,
+Ne vous en flattez plus, je ne puis estre à vous.
+
+-*who_geronte
+Ah que m'avez-vous dit, trop charmante mignonne ?
+Je ne puis estre à vous ? Est-ce que ma personne
+Vous déplaist ?
+
+-*who_lucie
+      Non, Monsieur ; mais toutes mes ardeurs
+Se bornent au plaisir…
+
+-*who_geronte
+      Ah vous aimez ailleurs,
+Traistresse ; & d'un Galant la flâme sera cause…
+
+-*who_lucie
+Non, un Galant n'est pas ce que je vous oppose ;
+Un obstacle plus fort m'oblige à refuser
+Un honneur…
+
+-*who_geronte
+      Vous voulez me voir agonizer :
+Ce refus coloré me cache une autre flâme ;
+Mais peut-on le sçavoir cet obstacle, Madame ?
+
+-*who_lucie
+Oüy, Monsieur, je vous croy galant Homme, & discret,
+Vostre embarras me touche ; & comme ce secret,
+S'il estoit divulgué, pourroit bien me commettre,
+Je vous en feray part, si vous voulez promettre
+De faire aveuglement ce qu'on exigera
+De vos soins.
+
+-*who_geronte
+      Je feray tout ce qu'il vous plaira.
+
+-*who_lucie
+Mon cœur n'ose exposer sur si peu d'assurance…
+
+-*who_geronte
+Faut-il par des sermens vaincre la défiance ?
+
+-*who_lucie
+Il m'importe beaucoup de n'en pouvoir douter.
+
+-*who_geronte
+Si quoy que de ma part vous puissiez souhaiter,
+Je balance⁎ un moment à vous rendre service,
+Qu'à mon premier refus tout l'Enfer me punisse,
+Que la foudre à vos yeux m'écrase, si je mens.
+
+-*who_lucie
+Il suffit, je veux bien en croire vos sermens.
+Celuy qui vous a dit que j'estois sa Cousine
+Et qui vous fait sa Cour du cœur qu'il vous destine,
+Qui semble me porter à répondre à vos feux,
+Ce mesme Homme qui vient de nous quitter tous deux,
+Vous le diray-je…
+
+-*who_geronte
+      Hé bien, ce mesme Homme, Madame…
+
+-*who_lucie
+Est mon Mary, Monsieur, & vous voyez sa Femme.
+
+-*who_geronte
+Vous, sa Femme ?
+
+-*who_lucie
+      Moy-mesme.
+
+-*who_geronte
+      Ah Ciel… Mais non, sur quoy
+Pourrois-je à ce discours adjouter quelque foy ?
+Il est de mes Amis ; Depuis dix ans, Madame,
+Je sçay bien qu'il est Veuf, & j'ay connu sa Femme,
+Et ce détour pour moy n'est pas bien concerté.
+
+-*who_lucie
+Ah que de vostre erreur vous estes entesté !
+Il l'entretient, vous dis-je, apres l'avoir causée :
+Il m'a près d'Orleans en secret épousée
+Et depuis quatre mois, pour des raisons qu'il a,
+Il cache cet Hymen clandestin.
+
+-*who_geronte
+      Tout cela
+N'est qu'un conte à plaisir, une défaite honneste,
+Pour détourner l'Hymen où mon amour s'apreste⁎ ;
+Ma personne vous choque, & je voy clairement
+Que vous vous mitonnez⁎ un Epoux plus charmant.
+
+-*who_lucie
+Non, vous dis-je.
+
+-*who_geronte
+      Si fait, friponne⁎ de mon ame ;
+Par pitié pour mes jours recevez mieux ma flâme ;
+Croyez que vous pourrez, sans que j'en dise un mot,
+Disposer de mon bien, & regler vostre dot,
+Et que je vous en veux donner pour hypoteque
+Tous les Duplicata de ma Biblioteque.
+Quant aux plaisirs divers que vous pourriez avoir,
+Que je veux que l'effet surpasse vostre espoir,
+Et que je vous répons, vous livrant ma personne,
+Des ardeurs d'un Blondin⁎ sous un poil qui grisonne,
+Mille tendres soûpirs poussez de temps en temps,
+Viendront cautionner mes regards languissans ;
+Sans cesse ces soûpirs cherchant à se confondre…
+
+-*who_lucie
+Ces offres sont fort beaux, mais je n'y puis répondre ;
+Et la douleur que j'ay de vous avoir connu,
+Est moindre que l'ennuy de vous voir prévenu :
+Mais lors que vous sçaurez…Vous avez des oreilles,
+Cachez-vous, vous allez entendre des merveilles ;
+Tous mes discours vous ont paru mysterieux,
+Mais mon Mary qui vient, vous en convaincra mieux ;
+Ecoutez seulement, prestez-nous grand silence,
+Et ne vous montrez point.
+
+-*who_geronte
+      Hé bien, soit.
+
+-*who_lucie
+      Il avance.
+
+**** *book_ *id_body-409 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Qu'est devenu Geronte ?
+
+-*who_lucie
+      Il est sorty.
+
+-*who_trigaudin
+      Fort-bien.
+Craignant que l'embarras d'un premier entretien
+Ne trahist un secret dont je fais grand mystere,
+J'ay pour quelques momens differé mon affaire,
+Et pressé mon retour ; outre que…
+
+-*who_lucie
+      Je vous croy
+Content de mon début.
+
+-*who_trigaudin
+      Tres-content ; & je voy
+Que cet Oyson⁎, suivant ma premiere pensée,
+A dedans nos panneaux donné teste baissée.
+
+-*who_lucie
+Et qui n'y donneroit ? Les Gens de bonne-foy
+Sont aisez…
+
+-*who_trigaudin
+      C'est un Homme à berner, croyez-moy ;
+Et dont l'esprit n'est pas capable de reforme,
+La matiere chez luy fait honneur à la forme,
+Et ne presente aux yeux dans tout cet Animal,
+Qu'un corps d'Homme, animé de l'ame d'un Cheval.
+
+-*who_geronte
+Il débute assez bien.
+
+-*who_trigaudin
+      Mais ce que je propose…
+
+-*who_lucie
+Quoy, voulez-vous plus loin, Monsieur, porter la chose ?
+
+-*who_trigaudin
+Je croy m'estre avec vous expliqué sans détour.
+
+-*who_lucie
+Comment, sans écouter la raison, ny l'amour,
+Avec un Inconnu marier vostre Femme ?
+Contraindre sa tendresse à ce commerce infame,
+Contre un de vos Amis écouter ce transport,
+Pour vous faire héritier de son bien par sa mort ?
+
+-*who_geronte
+Comment diable ?
+
+-*who_lucie
+      Et sans voir que mon honneur s'expose.
+
+-*who_trigaudin
+Vous vous éfarouchez toûjours de peu de chose,
+Avecque vostre honneur. Je sçay que comme Epoux,
+J'y dois prendre toûjours mesme intérest que vous :
+Aussi vous ay-je dit, qu'épousant nostre Dupe,
+Il faut qu'absolument vostre adresse s'occupe
+A faire la Malade, afin que ce moyen
+Assure en mesme temps vostre honneur & le mien,
+Tandis que de ma part je sçaurois le résoudre
+A luy faire avaler douze grains d'une Poudre
+Qui fera tout l'effet que je m'en suis promis.
+
+-*who_geronte
+Le Traistre !
+
+-*who_lucie
+      Et vous pourrez consentir qu'à ce prix…
+
+-*who_trigaudin
+Finissons : ces discours d'une ame trop commune
+Rendroient vostre Morale à la fin importune :
+Vous sçavez mon dessein, ne le combattez plus,
+Ou craignez… Je n'ay rien à dire là-dessus ;
+Je veux, quelque embarras que le Sort nous destine,
+Que vous passiez toûjours icy pour ma Cousine,
+Qu'à ce nom vostre amour s'efforce à se borner ;
+Que pour quelque raison qu'on puisse imaginer,
+Quelque coup impréveu qui pût troubler vostre ame,
+Vous ne disiez jamais que vous estes ma Femme,
+Et ne me nommiez pas mesme dans le Païs
+Vostre Mary, que quand je vous l'auray permis,
+Entendez-vous ? N'estant plus icy necessaire,
+Je retourne à loisir terminer mon affaire ;
+Préparez-vous sur tout à vous abandonner
+Aux ordres absolus que j'ay sçeu vous donner ;
+J'iray tantost trouver Géronte à sa demeure,
+Et pour l'Hymen qu'il veut, prendre le jour & l'heure.
+
+**** *book_ *id_body-410 *act_ *date_1674 *creator_montfleury
+
+-*who_lucie
+Croyez-vous à present que ce soit tout de bon ?
+
+-*who_geronte
+Voila, je vous l'avouë, un dangereux Fripon !
+Non, je ne veux jamais le voir ; sa perfidie…
+
+-*who_lucie
+Il faut dissimuler, Monsieur, je vous en prie ;
+Appaisez, s'il se peut, ce transport indiscret.
+S'il sçavoit que ma bouche eut trahy son secret,
+Il me perdroit ; Je puis, sans attirer sa plainte,
+Tirer avecque vous quelque fruit de ma feinte ;
+J'ay besoin de secours, vous m'en avez promis,
+Je ne vous ay fait part du secret qu'à ce prix :
+Je voy bien qu'il prétend faire toûjours mistere
+De l'Hymen clandestin qu'il m'obligea de faire ;
+Et j'apréhende enfin, sur ce que je prévoy,
+Les bruits qu'un tel secret peut semer contre moy ;
+Outre que nostre Hymen concerté m'embarasse ;
+Et je puis par un tour que je veux qu'on luy fasse,
+Le forcer, sans qu'il ose ou puisse s'en fâcher,
+A déclarer l'Hymen qu'il s'obstine à cacher ;
+Et l'embarras enfin où je le prétens mettre,
+Peut nous vanger tous deux de luy sans nous commettre.
+
+-*who_geronte
+Et si pendant ce temps il m'assaisonne un Plat
+De sa Poudre ? Ecoutez, c'est un grand Scélerat⁎ ;
+Il faut pourtant sçavoir, avant que s'en défendre,
+Quel est ce tour.
+
+-*who_lucie
+      Venez, je m'en vay vous l'aprendre.
+Fin du Troisième Acte.
+
+**** *book_ *id_body-501 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Ouy Valere, oüy ma Niéce, ils n'ont que trop parlé,
+C'est un secret qui vient de m'estre révelé,
+Et j'en ay pour témoins mes fidelles oreilles,
+Qui m'ont fait sur ce point entendre des merveilles :
+Sans le secret aveu que sa Femme m'a fait,
+Trigaudin, pour venir au point qu'il se promet,
+M'auroit veu dans deux jours le Mary de sa Femme :
+Il me prestoit son corps aux despens de mon ame,
+Et m'eussent régalé tous deux à frais communs,
+De dix grains d'une Poudre à faire des Défunts.
+Ah le Scélerat !Non, je ne puis m'en remettre.
+
+-*who_julie
+Puis que vous voulez bien, mon Oncle, me permettre
+Que sur un tel sujet je parle en liberté ;
+Vous avez bien-souvent trop de facilité⁎ :
+Pour le premier venu, ce cœur plein de franchise,
+Doute, en se montrant tout, qu'un autre se déguise,
+Et croit aveuglement sur la foy du dehors,
+Qu'un vray zele par tout regle mesmes transports.
+La bonne-foy sied bien ; on peut estre sincere ;
+Mais enfin avec choix un Amy se doit faire.
+Nostre Siecle est fertile en Amis contrefaits,
+Dont la bouche & le cœur ne s'accordent jamais ;
+On ne trouve par tout sous ce dehors fantasque
+Que des Gens dont le cœur ne va jamais sans masque,
+Dont le plus grand chagrin seroit qu'on les connût,
+Et dont chaque grimace a toûjours quelque but.
+
+-*who_valere
+Vous le voyez, Monsieur, cet Amy dont le zele…
+
+-*who_geronte
+Il n'est que trop constant, & je l'échape belle :
+Mais, comme vous sçavez, sa Femme attend de nous
+Un remede aux transports⁎ de Monsieur son Epoux ;
+Son Valet qui s'apreste à servir sa Maistresse,
+A besoin que nos soins secondent son adresse,
+Pour conduire le tour qu'il s'est imaginé :
+Il doit venir chez nous, & je suis étonné…
+Mais je le vois : Hé bien, est-il temps, l'Industrie ?
+
+**** *book_ *id_body-502 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+Il faut se dépescher, Monsieur, je vous en prie,
+Le temps presse. Avez-vous fait chercher les habits…
+
+-*who_geronte
+Oüy, mon valet est prest, qui t'attend au Logis ;
+Tu ne peux mieux choisir pour un semblable piege :
+Il perdit quelque temps autresfois au College,
+Et fut mesme depuis Clerc chez un Procureur :
+Il s'est fait sa leçon, qu'il sçait presque par cœur ;
+Et comme il n'est point sot, on peut sur ma parole
+Esperer que tantost il joüera bien son rôle.
+
+-*who_l_industrie
+Voila bien nostre fait. Où m'attend-il ? chez vous.
+Mais il nous faut encor quelqu'un : Où prendrons-nous 
+Un Aigrefin⁎ bien dru, dont la mine soûtienne
+Ce que nous prétendons…
+
+-*who_valere
+      Te voila bien en peine ?
+Nous prenons la Forest.
+
+-*who_l_industrie
+      Qu'est-ce que la Forest ?
+
+-*who_valere
+C'est mon Valet de Chambre ; il est déja tout prest,
+Et son humeur folâtre a de quoy satisfaire.
+
+-*who_geronte
+D'accord ; mais avec eux voyez ce qu'il faut faire,
+Ce que leur soin demande ou du vostre, ou du mien,
+Et si pour ce projet ils n'ont besoin de rien.
+
+-*who_valere
+Puis-je de quelque espoir flater…
+
+-*who_geronte
+      Allez, vous dis-je,
+Je sçay ce que de moy vostre tendresse exige :
+Mais comme il faut songer à ce qu'on veut de nous,
+Rentrez, & soyez seûr que ma Niéce est à vous.
+
+**** *book_ *id_body-503 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+Ouy, ma Niéce, je veux que l'Hymen vous unisse,
+Et qu'avec mes refus vostre peine finisse,
+Et que tous deux (pourveu qu'il te plaise s'entend)
+Car si…
+
+-*who_julie
+      Tout m'en plaira, quand vous serez content.
+
+-*who_geronte
+C'est, en s'expliquant bien, répondre avec adresse :
+Mais je voy Trigaudin tout resveur, qu'on nous laisse.
+
+**** *book_ *id_body-504 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+He bien, vous avez veu ma Cousine ?
+
+-*who_geronte
+      Oüy.
+
+-*who_trigaudin
+      Comment
+La trouvez-vous ?
+
+-*who_geronte
+      Comment ? Belle admirablement,
+L'œil modeste, l'air grand ; l'Hymen qui nous doit joindre…
+
+-*who_trigaudin
+Sa beauté n'est pour vous que ce qu'elle a de moindre.
+
+-*who_geronte
+Non, son esprit m'enchante, & j'en suis tres-content.
+
+-*who_trigaudin
+Sa tendresse est pour vous un point plus important ;
+Elle vous aime.
+
+-*who_geronte
+      Moy ?
+
+-*who_trigaudin
+      De l'amour le plus tendre
+Qu'un cœur… Avec le temps vous le pourrez aprendre.
+
+-*who_geronte
+A quoy l'avez-vous veu ?
+
+-*who_trigaudin
+      Depuis vostre entretien,
+Elle resve toûjours, sans s'occuper à rien ;
+Mille petits soûpirs dont elle se console,
+Prononçant vostre nom, luy coupent la parole :
+Tantost s'apercevant que je puis l'observer,
+Elle parle de vous, en cessant de resver,
+Me vante vostre esprit.
+
+-*who_geronte
+      Mon esprit ?
+
+-*who_trigaudin
+      Vostre mine.
+
+-*who_geronte
+Ma mine ?
+
+-*who_trigaudin
+      Et d'un soûpir l'entretien se termine,
+Disant, Ah qu'il est doux d'avoir un tel Epoux !
+
+-*who_geronte
+Un tel Epoux ? Le Fourbe !
+
+-*who_trigaudin
+      En luy parlant de vous,
+J'exagere avec soin, avant qu'elle me quitte,
+Ce qu'en vous la Nature assemble de mérite.
+Enfin je n'obmets point à dire ce qu'il faut,
+Pour croistre…
+
+-*who_geronte
+      Je le crois. Ah l'effronté maraut⁎ !
+
+-*who_trigaudin
+Seûr d'un cœur qui n'a rien que le vostre n'obtienne,
+Je croy que vostre ardeur répond fort à la sienne.
+
+-*who_geronte
+Oüy ; mais l'amour qui joint l'esprit devant les corps,
+N'ayant rien de si doux que ses premiers transports,
+Que ces momens lardez⁎ de fréquens teste-à-teste,
+Ces tendres avantgousts d'un Hymen qui s'apreste,
+Je me trouve d'humeur, pour mieux m'y disposer,
+De faire un peu l'amour avant que d'épouser.
+Ces préludes galants font lors que l'on s'engage,
+Que se connoissant mieux, on s'aime davantage ;
+Et le feu dont je voy l'exemple avec plaisir,
+Doit, pour durer longtemps, s'alumer à loisir.
+Ainsi je suis d'avis de prendre une quinzaine
+Pour mettre doucement ma tendresse en haleine :
+Cela fait…
+
+-*who_trigaudin
+      Ces plaisirs dont on est aveuglé,
+Sont des échantillons d'un feu⁎ trop déreglé,
+Monsieur, & c'est vouloir dans le libertinage
+Epuiser les douceurs qu'on trouve au Mariage.
+Le plaisir ne se peut jamais justifier,
+Si l'Hymen ne prend soin de le purifier ;
+Et tous ces avantgousts où l'honneur se hazarde,
+Sont des tentations dont il faut qu'on se garde.
+Que si pour des raisons vous voulez quelque temps
+Différer vostre Hymen, différez, j'y consens :
+Mais pour ne point nourir une flâme indécente,
+Dispensez-vous de voir jusque-là ma Parente.
+La vertu n'admet point de semblable complot.
+
+-*who_geronte
+Ah qu'il seroit penaut⁎, s'il estoit pris au mot !
+Non, si de ce delay vostre vertu s'offence,
+Concluons cet Hymen, & faisons diligence ;
+Vos avis sont des loix que je veux m'imposer,
+Et dans deux ou trois jours je la veux épouser.
+
+-*who_trigaudin
+Hé bien soit, pour régler une union si belle,
+Je vous attens ce soir à souper avec elle :
+Rendez-vous de bonne heure, & je prendray le soin.
+
+-*who_geronte
+Fy, cecy sent la Poudre, & j'évente de loin ;
+Je ne sçaurois…
+
+-*who_trigaudin
+      Pourquoy l'amour qui vous possede…
+
+-*who_geronte
+Je veux prendre demain certain petit Remede,
+Et par précaution me coucher sans manger.
+
+-*who_trigaudin
+D'accord ; mais n'allez pas demain vous engager,
+J'auray soin du Disner.
+
+-*who_geronte
+      Il seroit inutile ;
+Demain je suis prié d'aller disner en Ville,
+Et cela ne se peut.
+
+-*who_trigaudin
+      Si je ne puis vous voir,
+Je feray préparer le Soupé pour le soir,
+Et nous vous attendrons…
+
+-*who_geronte
+      N'en prenez pas la peine,
+Je fais Collation⁎ trois jours de la Semaine,
+Et demain en est un. Ah l'effronté pendard !
+Je tiens sa Poudre un mets où j'aurois bonne part.
+
+-*who_trigaudin
+Mais il faudroit…
+
+-*who_geronte
+      Cessez de vous en mettre en peine,
+Je me charge du soin qu'il est besoin qu'on prenne,
+Et je vay de ce pas donner ordre aux Habits,
+Au Festin…
+
+-*who_trigaudin
+      C'est bien dit. Moy, je rentre au Logis
+Aprendre à ma Cousine une telle nouvelle.
+
+-*who_geronte
+Adieu, dans peu de temps je me rendray près d'elle.
+
+**** *book_ *id_body-505 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Qu'il est dupe ! Allons voir… Mais ma Femme paraist.
+
+**** *book_ *id_body-506 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Qu'avez-vous ?
+
+-*who_lucie
+      Du chagrin⁎.
+
+-*who_trigaudin
+      D'où vient-il, s'il vous plaist ?
+
+-*who_lucie
+On m'écrit d'Orleans…
+
+-*who_trigaudin
+      Qu'a-t-on pû vous aprendre ?
+
+-*who_lucie
+Que dans deux ou trois jours mon Frere s'y doit rendre.
+
+-*who_trigaudin
+Hé bien ; qu'avez-vous tant à craindre sur ce point ?
+
+-*who_lucie
+Je dois apréhender que ne m'y trouvant point,
+Ignorant nostre Hymen, un peu de défiance ;
+Ne le fasse pas bien juger de mon absence.
+
+-*who_trigaudin
+Qu'un semblable chagrin ne vous trouble jamais ;
+Je sçay bien le secret de faire vostre paix ;
+Et nostre affaire enfin en ce lieu terminée,
+Il pourra s'appaiser, sçachant nostre hymenée.
+Oubliez pour un temps ce chagrin mal fondé,
+Pour sçavoir le détail de tout mon procedé ;
+Tout flate nos desseins, le Destin les feconde,
+Et nostre affaire prend le meilleur train du monde.
+Ce Géronte charmé de l'éclat de vos yeux,
+Prétend vous épouser dedans un jour ou deux ;
+Et tant de joye enfin flate son espérance,
+Qu'il se charge du soin de toute la dépense :
+Des Habits, du Festin ; & sa crédulité
+Nous répond à tous deux de nostre seûreté.
+
+-*who_lucie
+Enfin c'est sans retour, & sur vos entreprises,
+Sans consulter que vous, vos mesures sont prises,
+Monsieur, & ma priere enfin est un secours
+Que je m'efforce en vain de prester à vos jours :
+Vostre esprit à ce noeu veut me voir résoluë,
+Vous me le commandez de puissance absolüe,
+Et toûjours entesté du titre d'Héritier,
+Vous en prenez sur vous le risque tout entier.
+
+-*who_trigaudin
+Oüy, je prens tout sur moy, vous dis-je, & vous dispense
+Du soin de m'expliquer quelle en est l'importance :
+Ce dessein sans péril se peut exécuter,
+L'occasion nous rit⁎, il en faut profiter ;
+Et puis que c'est pour vous un moyen de me plaire…
+
+-*who_lucie
+Hé bien, Monsieur, hé bien, il faut vous satisfaire ;
+Puis que ce sont pour moy des ordres absolus,
+Me voila preste à tout, je ne resiste plus.
+
+-*who_trigaudin
+Ah que je suis content de vous voir disposée…
+
+-*who_lucie
+Il faudra, l'Hymen fait me feindre indisposée ?
+
+-*who_trigaudin
+Oüy, de peur que son feu n'eust, devenant trop promt,
+Des suites qui pouroient incommoder mon front…
+
+-*who_lucie
+Mais si dans les transports d'une ardeur violente,
+Il exige…
+
+-*who_trigaudin
+      Feignez que vostre mal augmente :
+Mais ce point au Logis pouroit estre agité
+Avec plus de loisir & plus de liberté,
+Entrons pour y songer, car je me persuade…
+
+**** *book_ *id_body-507 *act_ *date_1674 *creator_montfleury
+
+-*who_l_industrie
+La Forest, la voila, va luy donner l'aubade⁎.
+
+-*who_la_forest
+Ma Sœur, vous dans Paris !
+
+-*who_lucie
+      Ah mon Frere !
+
+-*who_trigaudin
+      Sa Soeur!
+
+-*who_la_forest
+Secondez comme il faut ma feinte. Quel bonheur !
+
+-*who_trigaudin
+Pour me faire enrager, d'où diable sort ce Frere ?
+
+-*who_la_forest
+Vous trouver dans Paris ! Que venez-vous y faire ?
+
+-*who_lucie
+La curiosité de voir ce beau Sejour,
+Me pressoit dés longtemps d'y venir faire un tour.
+Quelques Amis communs qui sçavoient cette envie,
+M'avoient, pour y venir, mise d'une partie ;
+Et pour m'accompagner, Monsieur mesme est venu,
+C'est un de nos Cousins qui vous est inconnu,
+Galant, spirituel, sur tout civil aux Dames.
+
+-*who_la_forest
+Cousin ! de quel costé ?
+
+-*who_trigaudin
+      C'est du costé des Femmes.
+
+-*who_la_forest
+De quelque endroit que vienne un Parent tel que vous,
+Monsieur, assurément c'est un honneur pour nous,
+Qui nous sera bien cher : Mais, mon Cousin, je pense
+Que comme entre Parens on se fait confidence,
+Je puis à cœur ouvert, touchant nostre bonheur,
+Faire part devant vous d'un secret à ma Sœur.
+
+-*who_trigaudin
+Si suspect…
+
+-*who_la_forest
+      Non, pour faire au Païs une Nôce,
+Je viens de retenir deux places au Carosse.
+
+-*who_trigaudin
+Bon, le Beaufrere va nous quitter le terrain.
+
+-*who_la_forest
+Mais puis que vous voila, je change de dessein,
+Je ne pars plus.
+
+-*who_lucie
+      Comment ?
+
+-*who_la_forest
+      Ce mesme Personnage
+Qui vous fit demander, quand je fis mon voyage,
+Plus que jamais épris du feu qu'il sent pour vous,
+M'a prié de soufrir qu'il devint vostre Epoux.
+J'ay donné ma parole, & nous partions ensemble
+Pour aller terminer cet Hymen.
+
+-*who_trigaudin
+      Ah je tremble.
+
+-*who_la_forest
+J'allois le retrouver ; mais sans aller plus loin,
+Puis que nous voicy tous, on peut prendre le soin…
+
+-*who_trigaudin
+Comment, vous prétendez marier ma Cousine ?
+
+-*who_la_forest
+Oüy, je vais, si l'Hymen à mon choix se termine,
+La voir Femme demain, sans attendre plus-tard,
+D'un fameux Avocat nommé Monsieur Braillart ;
+Monsieur Braillart autem a la mine engageante,
+Son nom fait son éloge, & son mestier sa rente.
+
+-*who_trigaudin
+Je ne le connois point, & c'est à mon égard…
+
+-*who_la_forest
+Vous ne connoissez point Maistre Martin Braillart,
+Fils de Thibaut Braillard, ce torrent d'éloquence,
+Dont la voix faisoit peur aux Gens à l'Audiance,
+Dont les doctes Ayeuls connus de toutes parts
+Donnerent au Barreau tant d'Illustres Braillarts ?
+
+-*who_trigaudin
+Non. Où se sont-ils veus ? sur quelles assurances…
+
+-*who_la_forest
+Venant dans Orleans pour prendre ses Licences,
+Maistre Martin Braillart prit chez nous tant d'amour,
+Qu'il promit d'épouser ma Sœur à son retour.
+
+-*who_trigaudin
+Il faut songer, avant que l'Hymen se consomme…
+
+-*who_la_forest
+Maistre Martin Braillart, Monsieur, est bien son Homme.
+
+-*who_trigaudin
+Mais pour faire un tel choix, il faut prendre du temps.
+
+-*who_la_forest
+Comment ? je ne pourois mieux choisir en cent ans.
+
+-*who_trigaudin
+Un Avocat est-il un si grand avantage,
+Qu'on doive tellement haster ce Mariage ?
+Ma Cousine est bien faite, elle a de la beauté ;
+Il faudroit à loisir, s'estant bien consulté,
+Joignant à ses appas quelque legere somme,
+Luy chercher pour Mary, Cousin, quelque honneste Homme,
+Qui…
+
+-*who_la_forest
+      Comment donc, Cousin, est-ce qu'un Avocat
+N'est pas un honneste Homme ?
+
+-*who_trigaudin
+      Oüy, mais un tel Etat
+N'est point, selon mon sens…
+
+-*who_la_forest
+      Pouroit-il vous déplaire ?
+
+-*who_trigaudin
+Si j'ose m'expliquer en Parent bien sincere,
+A vous dire le vray, ce choix ne me plaist pas,
+Cousin ; & la plûpart de tous ces Avocats
+Sont des Gens, entre nous, dont toûjours l'alliance
+Laisse quelque scrupule aux Gens de conscience ;
+Des Causeurs qui sans cesse, outre la liberté
+Qu'ils prennent de tout dire avec impunité,
+Font commerce au Barreau, comme en une Boutique,
+Du pétulent⁎ babil⁎ dont chacun d'eux trafique ;
+Et font chercher au Juge, yvre de leurs dictons,
+Comme la verité, la justice à tâtons.
+Le desordre public grossit chez eux la presse⁎,
+Ce sont des nourrissons que la Discorde engraisse,
+De qui le plus fameux & l'Esprit le plus net,
+Doit aux debats d'autruy sa Robe & son Bonnet.
+
+-*who_la_forest
+C'est à trop de mépris joindre trop de franchise,
+Ce sont d'honnestes Gens, Cousin, quoy qu'on en dise.
+Je m'en vay l'avertir, & je suis assuré…
+Ah que vous allez voir un Homme bien timbré⁎ !
+Vous en serez surpris, & vous pourez connoistre,
+Cousin, si dans ce choix mon bon goust sçait paroistre.
+Maistre Martin Braillart est proche de ce lieu,
+Chez certain Magistrat, pour y faire un adieu'
+Mais en habit décent, & je luy cours aprendre
+Un bonheur impréveu qui poura le surprendre,
+Et que je n'ay pas dû si longtemps luy cacher.
+Où demeurez-vous ?
+
+-*who_lucie
+      Là.
+
+-*who_la_forest
+      Je m'en vay le chercher.
+Mais je le voy qui vient, ma course seroit vaine.
+
+**** *book_ *id_body-508 *act_ *date_1674 *creator_montfleury
+
+-*who_la_riviere
+Je vay changer d'habit.
+
+-*who_la_forest
+      N'en prenez pas la peine.
+Ma Sœur qui dans Paris se rencontre au besoin,
+Nous oste l'embarras de la chercher plus loin,
+Nostre voyage est fait, la voila.
+
+-*who_la_riviere
+      Quelle joye !
+Madame, le Cheval qu'on fit entrer dans Troye,
+Est un don qui figure intelligiblement
+La suite de nos feux, & leur commencement :
+Cette crédulité qui l'admit dans la Ville,
+Figure à vous aimer combien je fus facile ;
+Et les Gens qui sortoient de ses flancs tenébreux,
+Figurent les Braillarts qui naistront de nous deux ;
+Le desordre où la nuit cette Ville fut mise,
+Figure nettement mon trouble & ma surprise ;
+Et le feu qui brûla ce Cheval plein de coups,
+Figure les ardeurs dont je brûle pour vous.
+
+-*who_lucie
+Ce début de ma part demanderoit des suites ;
+Mais tant d'esprit paroist en tout ce que vous dites,
+Qu'un discours si galant & si bien figuré,
+Doit n'estre interrompu, que pour estre admiré.
+
+-*who_la_riviere
+Je suis ravy de voir qu'il ait de quoy vous plaire ;
+Mais je sens qu'il me faut préparer à me taire.
+Madame, vostre esprit étonné de cecy,
+N'en voit peut-estre pas la raison, la voicy.
+Comme les divers temps ont diverses maximes,
+Les Anciens ostoient la langue des Victimes,
+Que la bonté du Ciel, que leurs vœux imploroient,
+Leur faisoit immoler aux Dieux qu'ils adoroient :
+L'Amour suivant pour moy cette mode ancienne,
+En m'immolant à vous, semble m'oster la mienne ;
+Et vous ne verrez plus, le Sacrifice fait,
+Dedans Martin Braillart, qu'un Avocat muet.
+
+-*who_la_forest
+Hé bien, Cousin ?
+
+-*who_la_riviere
+      Cousin !
+
+-*who_la_forest
+      Oüy.
+
+-*who_la_riviere
+      J'ay honte, Beaufrere,
+De l'incivilité que vous me laissez faire,
+Et vous deviez plutost me l'avoir dit, Monsieur.
+Si de vous saluer je n'ay pas eu l'honneur,
+Du moins en bon Parent, faites-moy la justice,
+De croire en ma faveur, qu'aux offres de service
+Que mon zele vous fait, je prétens joindre encor
+Tout le respect pour vous, qu'on eust pour le Veau d'or.
+
+-*who_trigaudin
+Ma foy, Martin Braillart n'est qu'un Sot, une Beste,
+Que je garantis tel des pieds jusqu'à la teste.
+
+-*who_la_riviere
+C'est dequoy vous pouvez vous tenir assuré.
+Pour prendre mon discours où j'en suis demeuré,
+Je fais voir clairement, qu'on doit (sauf revérence)
+Adjuger vostre main à mon impatience,
+Et par provision⁎ établir mon repos,
+Et ce par deux moyens que j'explique en deux mots :
+Le premier est l'aveu de Monsieur vostre Frere,
+Cy present qui bien loin d'estre à mes vœux contraire
+S'oblige à garantir l'espoir qu'il m'a permis :
+Il peut s'inscrire en faux contre ce que je dis,
+Si j'impose ; La Loy naturelle & civile,
+Rendroit sans son aveu vostre choix inutile ;
+La disposition de la Loy Nuptia
+Décide sur ce fait, paragrapho neque ;
+En cela son suffrage est necessaire au vostre.
+Ce moyen est assez prouvé, je passe à l'autre.
+L'espoir dont vostre amour a sçeu flater le mien,
+Madame, en quatre mots, fait mon second moyen.
+On ne sçauroit nier, quoy qu'ait promis ce Frere,
+Que vostre aveu pour moy n'ait esté volontaire ;
+Et je ne puis douter des suites qu'il aura,
+Sur ce que, volenti non fit injuria.
+Entre les Gens d'honneur, sans qu'il soit besoin d'Acte,
+La parole devient une espece de pacte ;
+Mes soins à le prouver deviendroient superflus,
+On le sçait : c'est pourquoy je finis, & conclus,
+A ce que faisant droit d'abord sur ma demande,
+Vous direz à l'instant, si haut qu'on vous entende,
+Que sans avoir égard aux vœux d'aucuns Galans,
+Vous me prendrez demain pour Epoux, sans despens.
+
+-*who_trigaudin
+Belle conclusion !
+
+-*who_lucie
+      Une pareille affaire
+Dedans un autre lieu veut qu'on en délibere.
+Nous pourons là-dedans en parler à loisir.
+
+-*who_la_forest
+Entrons, elle a raison ; je me fais un plaisir…
+
+-*who_la_riviere
+Mais…
+
+-*who_lucie
+      Je vous suis.
+
+-*who_la_riviere
+      Allons, Monsieur, je vous en prie.
+
+-*who_la_forest
+Entrons, notre Cousin est sans cerémonie.
+
+**** *book_ *id_body-509 *act_ *date_1674 *creator_montfleury
+
+-*who_lucie
+Vous voyez l'embarras où vous vous estes mis,
+Et vous pouvez juger de la peine où je suis :
+Mais ne pouvant qu'à vous en imputer la cause,
+C'est à vous à songer à quoy cecy m'expose,
+Car je ne pense pas que vous soyez d'avis
+Que je sois aujourd'huy Femme de trois Maris.
+Voyez par quel moyen il sera necessaire
+De me tirer du pas que vous m'avez fait faire ;
+Et pour vous épargner des conseils superflus,
+J'entre, & j'attens chez nous vos ordres là-dessus.
+
+**** *book_ *id_body-510 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Sur tout cet embarras que faut-il que je fasse ?
+Je tombe de mon haut⁎, & tout cecy me passe.
+Quoy, lors qu'en mes desseins tout semble prendre part,
+Il faut qu'à point-nommé Maistre Martin Braillart
+Escorté par un Frere, & plein d'amour dans l'ame,
+Se prépare à se voir le Mary de ma Femme ?
+Quel party faut-il prendre ? Ah Ciel ! tout me fait peur :
+Declarer nostre Hymen, c'est me perdre d'honneur ;
+Passer pour Scélerat dans l'esprit de Géronte,
+Ne le point déclarer, c'est me couvrir de honte ;
+Car ce Frere obstiné, peut-estre dés demain,
+Fera prendre à sa Sœur un Epoux de sa main.
+Cet obstacle impréveu trouble tout le mystere :
+J'enrage ; tout m'alarme, & tout me desespere.
+Que résoudre ? que faire ? Entrons pour y resver,
+Et voyons quel remede on y poura trouver.
+Fin du Quatrième Acte.
+
+**** *book_ *id_body-601 *act_ *date_1674 *creator_montfleury
+
+-*who_lucie
+Jusqu'où doivent aller vos belles entreprises ?
+Vos résolutions, Monsieur, sont-elles prises ?
+Mon sort est en vos mains. Quand vous en ordonnez,
+Peut-on sçavoir à quoy vous vous déterminez ?
+
+-*who_trigaudin
+Oüy, vous l'allez sçavoir, il faut vous satisfaire :
+Je prétens voir jusqu'où peut aller cette affaire ;
+Sans trahir mon secret, je veux voir jusqu'au bout,
+Et faire à petit bruit guerre à l'œil ; mais sur tout,
+Mettez-vous dans l'esprit, que de vostre silence
+Dépend tout le succés de nostre intelligence⁎ ;
+Et qu'il faut préparer, secondant mes transports,
+Vostre discretion à de nouveaux efforts.
+
+-*who_lucie
+Attendray-je à parler, trahissant vostre flame,
+Que de Monsieur Braillart l'Hymen me rende Femme ?
+Et trouvez-vous enfin bien de la seûreté
+A pousser ma tendresse à cette extremité ?
+
+-*who_trigaudin
+Non. Si dans l'embarras que son amour nous cause,
+Sa perte à nos desseins servoit de quelque chose,
+Ou que l'on vous forçast à répondre à ses feux,
+Je crois avoir assez de Poudre pour eux deux.
+Telles Gens à l'Estat sont si peu necessaires,
+Qu'un millier, plus ou moins, ne l'affoibliroit guéres ;
+Et le Barreau, qui doit sa gloire à d'autres soins,
+N'en iroit pas plus mal, pour un Braillart de moins.
+C'est de quel œil je voy de pareils Personnages ;
+Mais ce n'est pas mon but ; & tous les Mariages
+Où l'on voit tous les jours les Parens disposez,
+Ne s'accomplissent pas, pour estre proposez,
+Outre que je prétens ou détourner ce Frere,
+Ou dégoûter Braillart de l'Hymen qu'il veut faire.
+Vous pourez librement, vous expliquant tantost,
+Dire qu'un tel Party n'est point ce qui vous faut,
+Et combattre ses feux d'assez de répugnance,
+Pour les faire douter de vostre obeïssance.
+Je sçauray de ma part ménager le surplus ;
+Allez-y travailler.
+
+-*who_lucie
+      Mais…
+
+-*who_trigaudin
+      Ne repliquez plus.
+
+-*who_lucie
+Si vostre amour du mien veut encor cette preuve,
+Je veux bien essuyer cette derniere épreuve ;
+Vos ordres sont des loix que je veux m'imposer.
+Mais prenez garde à quoy vous m'allez exposer ;
+Car enfin si malgré toute vostre conduite
+A recevoir sa main je me voyois réduite,
+Je ne vous répons pas que contre vostre espoir
+Ma flâme & ma vertu ne fissent leur devoir ;
+Et quoy que de ma part vous pussiez vous promettre…
+
+-*who_trigaudin
+C'est à quoy j'auray soin de ne vous pas commettre :
+Vostre Frere est tout seul ; quoy qui puisse arriver,
+Gardez-bien le secret, & l'allez retrouver.
+
+**** *book_ *id_body-602 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Pour peu qu'à différer son refus les engage,
+Je feray de ce temps un assez bon usage :
+Tandis qu'elle se va charger de ce soucy,
+Allons voir si Géronte est chez luy. Le voicy.
+
+**** *book_ *id_body-603 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+He bien, conclurons-nous l'Hymen que je propose ?
+
+-*who_trigaudin
+Avez-vous meûrement reflechy sur la chose ?
+Et sur un choix qu'on doit avoir examiné,
+Vous sentez-vous, Monsieur, la …bien déterminé ?
+
+-*who_geronte
+Si-fort, que je voudrois l'épouser tout-à-l'heure ;
+Je ne souhaite point de fortune meilleure ;
+Et je borne mes vœux, charmé de tant d'appas,
+Au plaisir de la voir aujourd'huy dans mes bras.
+
+-*who_trigaudin
+S'il est ainsi je puis établir vostre joye ;
+Mais cependant, Monsieur, je n'en sçay qu'une voye.
+Si pour la posseder ce cœur ne se résout…
+
+-*who_geronte
+Parlez ; pour l'obtenir, je vous répons de tout…
+
+-*who_trigaudin
+Pour rendre sur ce choix vostre ame satisfaite,
+Il faut tenir d'abord la chose un peu secrette ;
+Et donnant vostre main en recevant sa foy,
+Cacher pour quelque temps cet Hymen.
+
+-*who_geronte
+      Et pourquoy
+L'épouser en secret ? Est-ce…
+
+-*who_trigaudin
+      C'est un mistere
+Que je ne me suis pas attendu de vous taire :
+Mais comme il se fait tard, & qu'il faudroit du temps,
+Il faut, pour en parler, prendre d'autres momens.
+Afin que sans éclat la chose se termine,
+Je meneray chez vous, sur le soir, ma Cousine :
+Donnez, en achevant cet Hymen au plutôt,
+Pour le tenir secret, tous les ordres qu'il faut.
+
+-*who_geronte
+Oüy, oüy, je vay songer à regler cette affaire.
+Le Fourbe jusqu'au bout soûtient son caractere.
+
+**** *book_ *id_body-604 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Ce dessein est hardy, mais bien imaginé ;
+Et cet Hymen enfin une fois terminé,
+Quoy que puisse entreprendre ou Braillart, ou le Frere,
+Je sçay bien le moyen de me tirer d'affaire.
+Je vay les disposer tous deux adroitement
+A différer d'un jour cet Hymen seulement,
+Tandis que je sçauray… Mais le Beaufrere avance.
+
+**** *book_ *id_body-605 *act_ *date_1674 *creator_montfleury
+
+-*who_la_forest
+Ouy, je me moqueray de vostre resistance,
+Et vous l'épouserez.
+
+-*who_trigaudin
+      Il paroist en couroux.
+
+-*who_la_forest
+Je vous feray bien voir…
+
+-*who_trigaudin
+      Mon Cousin, qu'avez-vous ?
+
+-*who_la_forest
+Je parlois à ma Sœur.
+
+-*who_trigaudin
+      L'affaire est importante,
+Puis qu'un si grand couroux…
+
+-*who_la_forest
+      C'est une Impertinente.
+
+-*who_trigaudin
+Eh, Parent, doucement.
+
+-*who_la_forest
+      L'Impudente⁎, là-haut,
+M'a dit qu'un tel Party⁎ n'est point ce qu'il luy faut.
+
+-*who_trigaudin
+Comment, de ce couroux sa répugnance est cause ?
+
+-*who_la_forest
+Oüy.
+
+-*who_trigaudin
+      J'ay crû que c'estoit, Cousin, toute autre chose.
+
+-*who_la_forest
+Comment donc, ce motif n'est-il pas assez fort ?
+
+-*who_trigaudin
+Oüy ; mais je ne voy pas qu'elle ait eu tout le tort…
+
+-*who_la_forest
+Vous prenez contre moy son party ?
+
+-*who_trigaudin
+      Je n'ay garde :
+Mais si par cet Hymen son bonheur se hazarde,
+Voulez-vous la forcer de prendre cet Epoux ?
+
+-*who_la_forest
+Et que luy manque-t-il ?
+
+-*who_trigaudin
+      Ecoutez, entre nous,
+Vostre Martin Braillart, Cousin, est d'un modelle
+A ne pas allumer bien de l'amour en elle :
+Le cœur de vostre Sœur peut-estre prévenu,
+Et vous devez enfin vous estre souvenu,
+Qu'un cœur…
+
+-*who_la_forest
+      Je me souviens que j'ay donné parole ;
+Ma Sœur avecque vous estoit en bonne école :
+Mais avec moy, Cousin, il faut changer de ton,
+Elle l'épousera, j'en suis seûr.
+
+-*who_trigaudin
+      Que sçait-on ?
+
+-*who_la_forest
+Que sçait-on ? Contre moy prendre party pour elle ?
+Vous en pourez sçavoir dans peu quelque nouvelle,
+C'est un point que je vay décider de ce pas.
+
+**** *book_ *id_body-606 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Tout cet emportement ne m'épouvante pas :
+Mais j'aperçoy Braillart qui paroît plein de flâme,
+Je veux le dégoûter de l'hymen de ma Femme ;
+Mon discours peut avoir l'effet que j'en prévoy.
+Un mot, Monsieur Braillart ?
+
+**** *book_ *id_body-607 *act_ *date_1674 *creator_montfleury
+
+-*who_la_riviere
+      Que voulez-vous de moy ?
+
+-*who_trigaudin
+Quoy que je doive au Sort l'honneur de vous connoistre,
+Le mérite qu'en vous tant d'esprit fait paroistre,
+Me force à vous montrer par ma sincérité
+Combien à vous servir je me trouve porté.
+Cela n'est point produit par un zele ordinaire ;
+J'estois intime Amy de Monsieur vostre Pere,
+C'estoit un Avocat fameux, dont les Ecrits…
+
+-*who_la_riviere
+Il faisoit des Souliers mieux qu'Homme de Paris,
+Tres-fameux.
+
+-*who_trigaudin
+      C'est pourquoy, Monsieur, la conjoncture
+D'un Hymen que demain vous prétendez conclure,
+Me contraint à vous dire un mot sur vos amours,
+Qui peut estre important au bonheur de vos jours.
+
+-*who_la_riviere
+Comme il est à propos qu'à son tour on s'explique,
+Je demande, Monsieur, quatre mots de replique,
+Pour oposer, afin de n'estre point surpris,
+Et pares aquilas  pila minantia pilis .
+
+-*who_trigaudin
+J'y consens.
+
+-*who_la_riviere
+      C'est beaucoup d'honneur que vous me faites.
+
+-*who_trigaudin
+Et pour vous parler franc du Mestier dont vous estes,
+Quand un Homme n'est point sur un pied d'étourdy,
+Monsieur, prendre une Femme, est un coup bien hardy.
+Les soins d'un Avocat, ses fréquentes absences,
+Font qu'une Femme prend quelques fois ses licences ;
+Et tandis qu'un Mary tourmenté d'un Procés,
+Malgré tous ses efforts, perd sa Cause au Palais,
+Pour peu que sa Moitié souffre qu'on l'entretienne,
+Le Galant au Logis gagne souvent la sienne,
+Et contre l'Avocat venant d'abord au fait,
+Met des Cornes dessous, comme sur son bonnet :
+Outre que cette affaire est assez d'importance,
+Ma Cousine a l'esprit fort coquet, & je pense,
+Si vous en échapiez, que vous seriez bien fin⁎.
+Elle aime à cajoler⁎ le soir & le matin ;
+Et s'il arrive un jour que par quelque caprice,
+Au pouvoir d'un Epoux elle s'assujettisse,
+Je doute que celuy qui l'aura souhaité,
+Y trouve pour son front bien de la seûreté ;
+Et je ne pense pas qu'un jour, à ne rien taire,
+Vous fussiez bon marchand d'une pareille affaire.
+Songez-y meûrement, Monsieur, c'est entre nous,
+(Ce que je ne dirois à nul autre qu'à vous)
+On cache entre Parens ce qu'on a de foiblesse :
+Mais pour vous cependant mon zele s'intéresse,
+Et je ne puis souffrir qu'on vous trompe.
+
+-*who_la_riviere
+      Monsieur,
+Comme noui∫simè vous m'avez fait l'honneur
+De m'avoir concedé quatre mots de replique,
+Par un raisonnement succint & juridique,
+Je prouve que malgré ce discours plein d'aigreur,
+Un Avocat doit prendre une Femme. Monsieur,
+Outre qu'avec les Loix, la Nature & l'Usage,
+Ont parmy les Mortels admis le Mariage,
+Qu'il est de tous les temps, & que cette union
+Etablit icy-bas la Propagation,
+C'est pour un Avocat un nœud si necessaire,
+Que qui peut l'éviter, dément son caractere
+Et son devoir. Primo, l'on sçait qu'un Avocat
+Est un Homme en tout temps necessaire à l'Etat ;
+Que de peur qu'on en manque, il doit quoy qu'il se fasse,
+Avoir soin de laisser au Barreau de sa Race :
+De plus, qu'estant contraint d'estre souvent dehors,
+La Femme doit intus seconder ses efforts,
+Conserver au Logis par son oeconomie
+Le fruit de ses travaux, comme de son génie :
+C'est pourquoy l'Avocat se doit plus tost que tard
+Indispensablement marier. A l'égard
+Du bois dont vous parlez, qui si l'on vous veut croire,
+De l'Hymen parmy nous devient un accessoire ;
+Et pour répondre mesme au peu de seûreté
+Que vous trouvez pour moy dans l'Hymen concerté,
+Je replique, Il est vray, c'est un abus qu'en France
+N'aprouverent jamais les Loix, ny l'Ordonnance ;
+L'usage des Galants dont on est entesté,
+Ne trouve dans le Code aucune autorité :
+Mais enfin sans vouloir feüilleter de Volume,
+Il est autorisé, Monsieur, par la Coûtume.
+C'est dans un Avocat, dont le cœur s'est fixé,
+A la Profession un malheur annexé.
+Si la Belle, malgré toute ma prévoyance,
+Me destine à porter du bois à l'Audiance,
+Comme il n'est pas toûjours à propos d'éclater⁎,
+Je me consoleray de pouvoir me flater
+Du plaisir de me voir, par des Loix necessaires,
+Semblable à quantité de Messieurs mes Confreres ;
+Et je ne pense pas, parlant de bonne-foy,
+Puis qu'ils en portent bien, qu'ils se moquent de moy.
+
+-*who_trigaudin
+Quoy, vous pouriez, malgré tant de sujets de craindre…
+
+-*who_la_riviere
+Ce mal est parmy nous trop commun, pour s'en plaindre.
+
+-*who_trigaudin
+Mais l'affront…
+
+-*who_la_riviere
+      Pour la voir, je retourne au Logis.
+Je vous suis cependant obligé⁎ de l'avis⁎ :
+Mais de grace, Monsieur, n'en parlez point à d'autre,
+Mon honneur en cecy se trouve joint au vostre ;
+Car la Belle ne peut offencer son Epoux,
+Sans qu'un pareil affront se répande sur vous.
+
+**** *book_ *id_body-608 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Maistre Martin Braillard dit plus vray qu'il ne pense,
+Son front d'un pareil nœud craint peu la consequence,
+Et je voy que malgré tout mon raisonnement,
+Il traite tout cecy fort cavalierement :
+Je voy qu'il faut bientost changer de batterie,
+Pour ne pas m'exposer…Mais je voy L'Industrie.
+
+**** *book_ *id_body-609 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Ecoute, va chez nous promptement de ma part,
+Dire à ma Femme…Il faut la tirer à l'écart,
+Et sans estre entendu, t'efforcer de luy dire,
+Que je l'attens icy.
+
+-*who_l_industrie
+      Je m'en vay l'en instruire.
+
+**** *book_ *id_body-610 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+Il faut agir ; Cecy me semble un peu gaillart⁎,
+Et sur ce que je voy, Maistre Martin Braillart
+Pouroit m'inquiéter, & je veux tout-à-l'heure
+Voir Géronte, & mener ma Femme à sa demeure :
+Il conclûra d'abord. Mais c'est luy que je voy,
+Il faut…
+
+**** *book_ *id_body-611 *act_ *date_1674 *creator_montfleury
+
+-*who_geronte
+      Ah lâche Amy, sans honneur & sans foy !
+
+-*who_trigaudin
+Qu'auroit-il ?
+
+-*who_geronte
+      Fourbe !
+
+-*who_trigaudin
+      Helas il sçait toute l'affaire.
+Qu'avez-vous ?
+
+-*who_geronte
+      Ce que j'ay, traistre ? Puis-je le taire ?
+Quoy, quand de bonne-foy je m'attens d'épouser
+Vostre Cousine…
+
+-*who_trigaudin
+      Hé bien ?
+
+-*who_geronte
+      On peut me mépriser,
+Jusques à luy donner celuy qu'on me préfere ?
+Et lors que tout est prest, on me dit qu'un sien Frere
+L'est allé marier en secret quelque part
+Avec un Avocat nommé Martin Braillart.
+
+-*who_trigaudin
+La marier ? Qui peut vous avoir fait entendre…
+
+-*who_geronte
+C'est de vostre Valet que je le viens d'aprendre.
+
+**** *book_ *id_body-612 *act_ *date_1674 *creator_montfleury
+
+-*who_trigaudin
+L'Industrie, est-il vray qu'ils sont…
+
+-*who_l_industrie
+      Ils sont partis.
+Le Laquais de Braillart, Monsieur, m'a tout apris :
+C'en est fait ; & de l'air qu'il m'a conté l'affaire,
+S'ils ne sont mariez, il ne s'en faudra guére.
+
+-*who_trigaudin
+Ils seroient mariez ? Ah Ciel, quel embarras !
+Mais parle, en quel endroit ?
+
+-*who_l_industrie
+      C'est ce qu'on ne sçait pas.
+
+-*who_trigaudin
+Ma Femme mariée ? Ah funeste journée !
+Maudite soit la Poudre, & qui me l'a donnée.
+Ah que si je me puis tirer d'un pareil pas,
+Je me garderay bien d'un semblable embarras.
+Mais c'est à mon insçeu, Monsieur, qu'on se propose…
+Son Frere vient, & va nous éclaircir la chose.
+
+**** *book_ *id_body-613 *act_ *date_1674 *creator_montfleury
+
+-*who_la_forest
+En vain vostre refus s'obstine à me fâcher ;
+C'est différer la chose, & non pas l'empescher.
+
+-*who_trigaudin
+Qu'est-ce, Cousin, a-t-on marié ma Cousine ?
+
+-*who_la_forest
+Preste à prendre l'Epoux que mon choix luy destine,
+Elle a pour l'éviter trouvé, mais vainement,
+Un prétexte qui veut un éclaircissement :
+Mais à sa honte icy ce secret va paraistre,
+Et ce qu'elle nous dit enfin ne peut pas estre ;
+Personne ne m'en peut éclaircir mieux que vous.
+
+-*who_trigaudin
+Que vous a-t-elle dit ?
+
+-*who_la_forest
+      Se jettant à genous,
+Et feignant de sentir un grand trouble dans l'ame,
+Elle nous a juré…
+
+-*who_trigaudin
+      Quoy ?
+
+-*who_la_forest
+      Qu'elle est vostre Femme.
+
+-*who_lucie
+Oüy, Monsieur, me voyant en cette extremité,
+Je n'ay pû me résoudre à cette indignité :
+Un Hymen clandestin nous a joints l'un à l'autre.
+Si mon silence a sçeu mal seconder le vostre ;
+Si j'ay trahy malgré les ordres d'un Epoux,
+Un secret dont j'estois convenuë avec vous,
+Avec le mouvement qu'a produit ma tendresse,
+Accusez-en, Monsieur, mon trouble & ma foiblesse,
+Pardonnez-m'en la faute, & croyez qu'à regret
+Mon cœur s'est veu réduit à trahir ce secret.
+
+-*who_geronte
+Qu'il est confus ! le sang au visage luy monte.
+
+-*who_la_forest
+Vous estes donc, Monsieur, son Epoux à ce compte ?
+
+-*who_trigaudin
+Oüy, Monsieur.
+
+-*who_geronte
+      Scelérat ! vous estes son Epoux ?
+Et quand de bonne-foy j'agissois avec vous,
+Vous vouliez en secret me la donner pour Femme ?
+
+-*who_trigaudin
+Croyez…
+
+-*who_geronte
+      Ah nous sçavons le secret de vostre ame,
+Fourbe, & que si plus-tard l'on m'en eust fait l'aveu,
+Vostre Poudre chez nous auroit joüé beau jeu.
+
+-*who_trigaudin
+Auriez- vous…
+
+-*who_lucie
+      Oüy, craignant un pareil Mariage,
+Pour vous ouvrir les yeux, j'ay tout mis en usage ;
+J'apréhendois pour vous, & vostre aveuglement
+Vous cachant le péril de cet engagement,
+J'ay tout dit, & j'ay crû que dans cette occurrence⁎
+Mon adresse feroit plus que ma resistance ;
+Que pour vous empescher de faire un mauvais pas,
+Vous me pardonneriez ce petit embarras,
+Et que je me pouvois servir d'un stratagéme,
+Puisqu'on doit tout risquer pour sauver ce qu'on aime.
+
+-*who_la_forest
+Vous voyez dans vos jours ce qu'on a pris de part.
+
+-*who_trigaudin
+A ce compte, Messieurs, Maistre Martin Braillart
+N'est qu'un Homme aposté ?
+
+-*who_geronte
+      Justement.
+
+-*who_trigaudin
+      Et ce Frere ?
+
+**** *book_ *id_body-614 *act_ *date_1674 *creator_montfleury
+
+-*who_valere
+Est mon Valet de Chambre.
+
+-*who_geronte
+      Aprochez-vous, Valere.
+
+-*who_trigaudin
+Quelque trouble où je sois, je dois vous avoüer,
+Que loin de vous blâmer, je vous en dois loüer :
+Me tirer d'un péril où me mit mon caprice,
+C'est avoir sçeu me rendre un signalé⁎ service ;
+Et je veux oublier ce tour dés cet instant,
+Pourveu qu'en ma faveur Géronte en fasse autant.
+
+-*who_geronte
+D'accord ; je suis sans fiel⁎, & veux vous satisfaire ;
+Mais je vay marier ma Niéce avec Valere.
+
+-*who_valere
+Ah de trop de bontez c'est combler mon espoir.
+
+-*who_geronte
+Ne songeons qu'à la joye. Et pour vous faire voir
+Qu'à tout mettre en oubly je veux bien me résoudre,
+Vous serez du Festin, mais sur tout point de Poudre.
+FIN.
+Permis d'imprimer ce 10 Mars 1674.
+DE LA REYNIE.

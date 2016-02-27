@@ -85,7 +85,7 @@ Ses pièces ont eu le mérite de contenir en germe deux choses dont, plus tard, 
 
 **Alcandre** : Frère de Florice et Amoureux de Circeine.
 
-**Florice** : Amie de Circeine et de Circeine.
+**Florice** : Amie de Circeine et de Sileine.
 
 **Clorian** : Frère de Palinice et Rival d'Alcandre.
 
@@ -425,10 +425,10 @@ FLORICE, ALCANDRE
 
 
     FLORICE.
-Mon frère confessés que toute l'Italie,                          
+Mon frère confessés que toute l'Italie,  
 Encore que le Ciel l'ait beaucoup embellie,  
 Qu'elle soit riche en biens, prodigue en voluptés  
-Et qu'elle soit superbe⁎ en diverses Cités,                      
+Et qu'elle soit superbe⁎ en diverses Cités,  
 N'a rien de comparable en toutes ses merveilles  
 Aux plaisirs qu'ont icy nos yeux et nos oreilles :  
 Voyez tous ces costaux, où Bacchus [48] triomphant  
@@ -452,7 +452,7 @@ Nous semblent à l'envy se vouloir surpasser,
 Dites-m'en vostre advis, mon frère, je vous prie.  
 
     ALCANDRE.
-Puis que vous le voulez il faut que je vous die [49]                      
+Puis que vous le voulez il faut que je vous die [49]  
 Que l'Italie est belle, et que là les plaisirs  
 Trompent nostre espérance et passent les désirs,  
 Que sa richesse est grande, et et que son païsage  
@@ -476,7 +476,7 @@ Que vous aimez un peu celle que vous loüez⁎.
 
     ALCANDRE.
 Comment, un peu, ma sœur ? j'aime plus que ma vie  
-L'adorable beauté qui m'a l'ame ravie,                          
+L'adorable beauté qui m'a l'ame ravie,  
 Et s'il falloit mourir pour avoir seulement  
 Le bien de la servir⁎, je mourrois constamment⁎.  
 
@@ -504,7 +504,7 @@ Vous le voulez sçavoir, c'est la belle Circeine.
 
     FLORICE.
 Circeine, où pensez-vous ? je pleins vostre malheur,  
-Et je ne puis sçavoir vostre amour sans douleur,                      
+Et je ne puis sçavoir vostre amour sans douleur,  
 Faites tous vos efforts d'esteindre en leur naissance  
 Ces feux dont vous sentez la mortelle puissance,      
 Perdez ces vains désirs, prenez-en de meilleurs,  
@@ -531,24 +531,24 @@ Et Palinice sert⁎ avecques passion
 Son frère Clorian dans son affection  
 
     ALCANDRE.
-Qu'est-ce donc qui retarde un heureux mariage ?                   
+Qu'est-ce donc qui retarde un heureux mariage ?  
 
     FLORICE.
 Palinice.  
 
     ALCANDRE.
-Comment, c'est elle qui l'engage,  
+        Comment, c'est elle qui l'engage,  
 Et la presse en faveur de son frère.  
 
     FLORICE.
-                Escoutés,  
+        Escoutés,  
 Et vous sçaurez le nœud de ces difficultés.  
 
     ALCANDRE.
 Vous me ferez plaisir.  
 
     FLORICE.
-            Vous cognoissez Sileine.  
+        Vous cognoissez Sileine.  
 
     ALCANDRE.
 Ouy je le cognoy bien, c'est l'aisné de Circeine.  
@@ -561,7 +561,7 @@ Il nuist à Clorian auprès de vostre Dame.
 
     ALCANDRE.
 Ah ! que par ces discours, ma sœur, vous m'obligés⁎,  
-Mes maux sont maintenant à demy soulagés,                      
+Mes maux sont maintenant à demy soulagés,  
 Je commence de voir quelque jour qui m'esclaire,  
 Pour acquerir⁎ la sœur il faut gaigner le frère,  
 J'y prendray tant de soins j'y feray tant de pas  
@@ -588,14 +588,14 @@ Que son oncle Arimant se portera pour nous,
 Il est fort amoureux.  
 
     ALCANDRE.
-            Et de qui ?  
+    Et de qui ?  
 
     FLORICE
-                De moy-mesme  
-Mais il est importun⁎.                       
+        De moy-mesme  
+Mais il est importun⁎.  
 
     ALCANDRE.
-            O le bon-heur extrême :  
+        O le bon-heur extrême :  
 Ah ! ma sœur vous tenez ma vie entre vos mains,  
 Sans vous tous mes travaux⁎ n'eussent esté que vains,  
 Faites donc qu'Arimant mon amour authorise,  
@@ -609,7 +609,7 @@ Dont l'œil pleure les dents qui manquent à la bouche,
 Vous vous moquez, mon frère.  
 
     ALCANDRE.
-                Au contraire, ma sœur,  
+        Au contraire, ma sœur,  
 Sçachez que tant de biens dont il est possesseur,  
 Quoy que vous en disiez le rendent agréable,  
 La richesse nous rend un homme trop aimable,  
@@ -618,7 +618,7 @@ Et luy sert⁎ en amour de chaleur et de sang.
 
     FLORICE.
 Mais vous ne dites pas que leur ame enflamée  
-Dans un corps tout glacé se trouvant enfermée                      
+Dans un corps tout glacé se trouvant enfermée  
 Fait naistre en leur amour cent sortes de soupçons,  
 Le feu ne sçauroit vivre avecque les glaçons,  
 La vieillesse amoureuse est un monstre en nature,  
@@ -640,7 +640,7 @@ De rendre à vostre amour Circeine plus sensible.
 Le feras-tu ma sœur ?  
 
     FLORICE.
-            Ouy, je la voy venir.  
+        Ouy, je la voy venir.  
 Donnez nous le loisir de nous entretenir.  
 
 
@@ -649,7 +649,7 @@ CIRCEINE, FLORICE.
 
 
     CIRCEINE.
-En me voyant venir vostre frère vous quitte,                      
+En me voyant venir vostre frère vous quitte,  
 Trouve-t'il point mauvais lors que je vous visite ?  
 
     FLORICE.
@@ -664,12 +664,12 @@ Aussi bien n'est ce pas ce qui m'emmene icy,
 Voyez dedans ces gands,  
 
     FLORICE.
-            Voicy quelque surprise.  
+        Voicy quelque surprise.  
 
     CIRCEINE.
 Non non, vous cognoistrez l'auteur de l'entreprise,  
 Tirez en ce papier, et le lisez apres,  
-Je veux que vous sçachiez mes desseins plus secrets                  
+Je veux que vous sçachiez mes desseins plus secrets  
 
     FLORICE.
 Lit les vers qui sont dans les gands.
@@ -685,7 +685,7 @@ Après les avoir leus.
 Et comment cet amour dure encor.  
 
     CIRCEINE.
-                Quel Amour ?  
+        Quel Amour ?  
 
     FLORICE.
 L'amour de Clorian plus cognu que le jour.  
@@ -700,7 +700,7 @@ Si vous considérez la lettre de plus prés.
 Après avoir consideré l'escriture  
 Je le cognois d'effect, et je suis bien faschée  
 Que son ame se soit dans vos nœuds attachée.  
-J'ay fait ce que j'ay peu pour l'oster de vos fers⁎:                      
+J'ay fait ce que j'ay peu pour l'oster de vos fers⁎:  
 Mais on mettroit plustost les morts hors des enfers.  
 
     CIRCEINE.
@@ -717,7 +717,7 @@ Que le feu de son sein eschauffe vostre glace.
 Sçavez vous l'advenir ?  
 
     FLORICE.
-            Non, mais par le passé  
+        Non, mais par le passé  
 Je juge qu'il sera fort mal recompencé,  
 Vous le sçavez Circeine aussi bien que moi- mesme,  
 Chacun ne sçait-il pas que Clorian vous aime ?  
@@ -728,7 +728,7 @@ Il se verra bien loin de son contentement,
 Je ne dis pas cela pour engager Alcandre.  
 
     FLORICE *tout bas*.
-Elle rougit pourtant, elle est preste à se rendre.                       
+Elle rougit pourtant, elle est preste à se rendre.  
 
     CIRCEINE.
 Ce sera m'obliger⁎ que de l'en destourner,  
@@ -751,16 +751,16 @@ Ah ! que mon frère aura du mal en son amour.
 Adieu  
 
     FLORICE.
-Vous verra-t'on,  
+    Vous verra-t'on,  
 
     CIRCEINE.
-            A quelque heure du jour.  
+        A quelque heure du jour.  
 
 
 ### SCENE III
 
     CLORIAN *Seul*.
-Amour que les mortels qui sont en ta puissance                      
+Amour que les mortels qui sont en ta puissance  
 Ont des astres malins autheurs de leur naissance,  
 Ils n'ont point de repos⁎ que parmy les travaux⁎,  
 Leurs biens sont fort petits, et grands leurs moindres maux.  
@@ -775,7 +775,7 @@ Qui ne fait point de bien que pour faire du mal,
 Et nous le cognoissons, et toutesfois encore  
 Il faut que malgré nous nostre ame les adore.  
 Non non, je feray voir au reste des Amants⁎  
-Qu'on peut rompre ses fers⁎, et finir ses tourments,                   
+Qu'on peut rompre ses fers⁎, et finir ses tourments,  
 Esteint fort aisément une flame⁎ amoureuse,  
 Apres m'avoir donné mille marques d'amour,  
 Cette ingratte me voit comme le premier jour,  
@@ -803,7 +803,7 @@ PALINICE, CLORIAN.
 
 
     PALINICE.
-Que fait icy mon frère, absent de sa maistresse  [57] ?                  
+Que fait icy mon frère, absent de sa maistresse  [57] ?  
 Si j'avois un Amant⁎ si négligent que vous,  
 Je prendrois le plaisir de le rendre jaloux.  
 
@@ -824,13 +824,13 @@ Dites moy, depuis quand un si grand changement ?
 
     CLORIAN.
 Depuis qu'elle reçoit Alcandre comme Amant⁎,  
-Qu'elle rit avec luy, qu'il est tousjours chez elle.                       
+Qu'elle rit avec luy, qu'il est tousjours chez elle.  
 
     PALINICE.
 Et de là vous jugez,  
 
     CLORIAN.
-            Qu'elle m'est infidèlle.  
+        Qu'elle m'est infidèlle.  
 
     PALINICE.
 Ostez de vostre esprit ce dangereux soupçon,  
@@ -853,7 +853,7 @@ Elle est fille cruelle, et rend tout languissant
 L'amour qui l'a fait naistre, ou l'estouffe en naissant.  
 
     CLORIAN.
-Au contraire, ma sœur, mon amour s'en augmente,                   
+Au contraire, ma sœur, mon amour s'en augmente,  
 Mon ardeur tous les jours devient plus vehemente,  
 Et ne me laisse pas un moment de repos⁎.  
 
@@ -877,7 +877,7 @@ Qui voit ce qui n'est pas, doute de ce qu'il tient,
 Et par de faux soupçons sa douleur entretient ;  
 Empeschons toutesfois que ce mal ne le gaigne,  
 Et qu'il ne soit cognu de ma belle compagne,  
-Elle pourroit en fin réduire en vérité                          
+Elle pourroit en fin réduire en vérité  
 Ce qui n'est qu'en l'esprit d'un Amant⁎ irrité,  
 D'un Amant soupçonneux qui se plaint de son ombre,  
 Et craint sans en avoir des ennemis sans nombre.  
@@ -899,7 +899,7 @@ Disposer à son goust de mes yeux, de ma voix,
 Et fort de l'amitié que sa sœur me tesmoigne,  
 Il se vient plaindre à moy soudain que je m'éloigne.  
 Il estoit bon alors que je vivois chez eux,  
-Que Palinice avoit tout pouvoir sur mes vœux⁎,                      
+Que Palinice avoit tout pouvoir sur mes vœux⁎,  
 Je ne suis plus enfant, l'âge a fait ma science,  
 Et j'ay pour me conduire assez d'expérience [62] :  
 Mais Alcandre se vient promener en ces lieux,  
@@ -920,7 +920,7 @@ Qui despoüille ces lieux des richesses de Flore [64]
 Qui fait comparaison des roses et des lis  
 Quelle tient en sa main tout fraischement cueillis,  
 Au neges de son sein, au corail de sa bouche  
-Ces œillets sont plus beaux lors que  sa main les touche,                   
+Ces œillets sont plus beaux lors que  sa main les touche,  
 Ses regards font en eux l'esclat beaucoup plus grand,  
 Et le feu de ses yeux dans leurs feuilles s'esprend,  
 Ah ! que je porte envie à cette belle rose,  
@@ -940,7 +940,7 @@ Je ne sçaurois guérir ma douleur de la sorte,
 Approchons hardiment : belle que faites vous,  
 Ces ornemens sont vains pour des attraits si doux,  
 Aussi ne croy je pas que vous en fassiez conte [66],  
-Et que vous les preniez que pour leur faire honte,                   
+Et que vous les preniez que pour leur faire honte,  
 La beauté de ces fleurs, dont le parterre est peint,  
 N'a rien de comparable aux fleurs de vostre teint.  
 
@@ -964,7 +964,7 @@ Auprès de vos beautez n'ont rien de tel en elles :
 Si je dis que la rose en son esclat vermeil  
 Auprès de vostre bouche est une ombre au soleil :  
 Que ces lis, ces œillets, ont une couleur morte,  
-C'est que vostre beauté dessus elles l'emporte,                      
+C'est que vostre beauté dessus elles l'emporte,  
 Et que tout ce qu'on voit d'excellent et de beau  
 Paroist auprès de vous comme au jour un flambeau. [68]  
 
@@ -994,7 +994,7 @@ PALINICE, CIRCEINE, ALCANDRE.
 
 
     PALINICE.
-        Circeine, et bien cette onde claire                  
+        Circeine, et bien cette onde claire  
 Parle t'elle pour vous advantageusement  
 Comme fait le discours de ce parfaict amant⁎.  
 
@@ -1002,7 +1002,7 @@ Comme fait le discours de ce parfaict amant⁎.
 Que vous m'avez surprise !  
 
     PALINICE.
-            Au moins il me le semble,  
+        Au moins il me le semble,  
 Et vous ne pouvez pas vous ennuyer ensemble,  
 Alcandre a l'esprit bon, il a beaucoup d'aquis [70]  
 Pour vous faire trouver son entretien exquis.  
@@ -1018,10 +1018,10 @@ Il ne vous disoit rien qui vous fust importun⁎.
 Son entretien n'estoit qu'un entretien commun.  
 
     PALINICE.
-Je croy ce qu'il vous plaist.                               
+Je croy ce qu'il vous plaist.  
 
     ALCANDRE.
-            Mauvaise Palinice,  
+        Mauvaise Palinice,  
 Je n'ay jamais rien fait contre vostre service⁎.  
 
     PALINICE.
@@ -1034,10 +1034,10 @@ Puis que vous le voulez je vous quite la place.
 Adieu belles.  
 
     CIRCEINE.
-        Adieu.  
+    Adieu.  
 
     ALCANDRE.
-            Je crains cet entretien,  
+        Je crains cet entretien,  
 Je prevoy que l'on va disputer de mon bien,  
 Palinice peut tout sur l'esprit de Circeine,  
 Et son authorité me fera de la peine.  
@@ -1046,7 +1046,7 @@ Et son authorité me fera de la peine.
 Dites la vérité, j'ay desja remarqué  
 Que pour vostre sujet⁎ il semble bien piqué,  
 Qu'il vous aime, ou qu'il feint avecques tant d'adresse  
-Que je parle de vous comme de sa maistresse.                       
+Que je parle de vous comme de sa maistresse.  
 
     CIRCEINE.
 Si la civilité doit passer pour amour,  
@@ -1073,7 +1073,7 @@ Jugez avec quel œil je verrois ce divorce⁎,
 Si je le souffrirois qu'avec beaucoup de force.  
 
     CIRCEINE.
-Continuez tousjours, Madame, de m'aymer                      
+Continuez tousjours, Madame, de m'aymer  
 Et moy de vous servir⁎, et de vous estimer,  
 Puis que vous avez creu que c'estoit son attente,  
 Encor que je n'en sois nullement consentente  
@@ -1098,7 +1098,7 @@ L'on vient à bout de tout pourveu qu'on sçache feindre.
 
     CERINTE *Seul.*
 
-Divin sujet de mes douleurs                              
+Divin sujet de mes douleurs  
 Belle cause de tous mes pleurs,  
 Ingrate et parfaite Florice :  
 Le ciel t'a-il fait naistre avec cette beauté,  
@@ -1109,7 +1109,7 @@ A ceux qui te rendent service⁎ [72] ?
 Tes appas⁎ qui sont si puissans  
 Tiendront-ils l'empire des sens  
 Avec une rigueur si forte,  
-Que tu ne daignes pas regarder seulement                      
+Que tu ne daignes pas regarder seulement  
 L'extrême passion où mon ame s'emporte,  
 Ny donner quelque allègement  
 Aux longs ennuis⁎ que je suporte.  
@@ -1131,7 +1131,7 @@ Qui te peut apporter du blasme.
 
 Helas ! je ne suis malheureux  
 Que pour estre trop amoureux  
-D'une beauté qui fait estime                              
+D'une beauté qui fait estime  
 D'un homme que les biens rendent impérieux,  
 Qui parlait de mes feux comme on feroit d'un crime  
 Empesche sa bouche et ses yeux  
@@ -1157,7 +1157,7 @@ FLORICE, CERINTE.
 
 
     FLORICE.
-Cerinte quel sujet a vostre humeur réveuse ?                      
+Cerinte quel sujet a vostre humeur réveuse ?  
 
     CERINTE.
 Vous le sçavez ma belle, une cause amoureuse  
@@ -1173,7 +1173,7 @@ Ces parterres, ces fleurs, ces jardins, ces vergers,
 Où l'air est parfumé de ces beaux orangers,  
 Où toute chose rit, où l'amoureux Zéphire [73]   
 Entre les bras de Flore à toute heure souspire  
-Ces ruisseaux dont l'argent coule si doucement,                       
+Ces ruisseaux dont l'argent coule si doucement,  
 Ces arbres que le vent esmeut légèrement,  
 Ces fontaines, ces prez et ces plaisans ombrages  
 Hors de vostre présence ont des objects⁎ sauvages.  
@@ -1198,7 +1198,7 @@ A laissé dans mon cœur des désirs trop ardans
 Pour le pouvoir ouyr sans mourir tout à l'heure,  
 Il faut que mon feu vive ou que mon ame meure,  
 Vous tenez en vos mains et mes biens et mes maux,  
-Mon repos en dépend ainsi que mes travaux⁎,                       
+Mon repos en dépend ainsi que mes travaux⁎,  
 Un mot de vostre bouche establit ma fortune⁎,  
 Ou me rend désormais la lumière importune⁎,  
 Seule vous gouvernez mon heur⁎ et mon mal-heur  
@@ -1213,19 +1213,19 @@ Mais n'est-ce point un heur⁎ de vos croyances folles ?
 En quoy consiste t'il ?  
 
     CERINTE.
-            A dire deux paroles,  
+        A dire deux paroles,  
 
     FLORICE.
 Qui sont ?  
 
     CERINTE.
-J'ayme Cerinte,  
+    J'ayme Cerinte,  
 
     FLORICE.
-            Et je l'avois jugé,  
+        Et je l'avois jugé,  
 Si je dis donc ces mots vous estes allégé  
 Vous estes plus heureux que le reste des hommes,  
-Les Dieux désireront d'estre ce que nous sommes,                   
+Les Dieux désireront d'estre ce que nous sommes,  
 S'il ne tient qu'à cela je vous rendray content.  
 
     CERINTE.
@@ -1245,7 +1245,7 @@ Vous estes tous frapez de mesme maladie,
 Adieu le bien heureux,  
 
     CERINTE.
-            Après ce trait moqueur  
+        Après ce trait moqueur  
 Je devrois effacer son portrait de mon cœur,  
 Mais ses dédains ne font que raviver ma flame,  
 Elle se changera, souffrons, c'est une femme.  
@@ -1254,7 +1254,7 @@ Elle se changera, souffrons, c'est une femme.
 ### SCENE III
 
     ARIMANT *Seul*.
-Amour puissant demon, qui régis les mortels,                       
+Amour puissant demon, qui régis les mortels,  
 Dois-je encore porter l'encens sur tes autels ?  
 Mes cheveux desja blancs, et l'âge qui me presse  
 Me devroient dispenser des loix d'une maistresse,  
@@ -1271,7 +1271,7 @@ En faisant voir en moy la glace avec l'ardeur,
 Monstre aussi ton pouvoir en rendant favorable  
 A mes désirs ardans cet objet⁎ adorable,  
 Inspire à mon esprit des persuasions [74]  
-Qui détournent le sien de ses aversions,                      
+Qui détournent le sien de ses aversions,  
 La fille de nature ayme d'estre parée,  
 Faisons luy donc pleuvoir une moisson dorée,  
 Et couvrons nos défauts de l'éclat des trésors,  
@@ -1294,7 +1294,7 @@ Me voilà trop heureux, servons-nous d'Arimant,
 Comme oncle il peut beaucoup sur ma chère maistresse⁎.  
 
     ARIMANT.
-D'où vient  que ce visage est couvert de tristesse ?                  
+D'où vient  que ce visage est couvert de tristesse ?  
 Palinice vous nuit, et Clorian aussi.  
 
     ALCANDRE.
@@ -1316,17 +1316,17 @@ Pour n'estre point ingrat, ma puissance est petite,
 Mais ce que je pourray  
 
     ARIMANT. 
-            Vous le sçaurez après,  
+        Vous le sçaurez après,  
 Dites moy seulement d'où naissent vos regrets,  
 Et quel nouveau sujet⁎ vous avez de vous plaindre.  
-De voir vostre nièce avec moy se contraindre,                       
+De voir vostre nièce avec moy se contraindre,  
 Si je veux luy parler, ne me respondre mot,  
 Tourner ailleurs ses yeux, ou s'enfuyr aussi-tost.  
 Elle fait plus d'estat de vostre amour discrette  
 Que vous ne pensez pas,  
 
     ALCANDRE.
-            Elle est donc bien secrette,  
+        Elle est donc bien secrette,  
 Puis que quand Clorian ou Palinice y sont,  
 Et qu'elle m'aperçoit elle change de front.  
 
@@ -1347,7 +1347,7 @@ Je feray plus encore que je ne vous promets.
 Ma vie avec ces vers en vos mains je remets.  
 
     ARIMANT.
-Mais Alcandre un bien-fait vous en demande un autre,                   
+Mais Alcandre un bien-fait vous en demande un autre,  
 Travaillez pour mon bien, comme moy pour le vostre,  
 Faites que vostre sœur approuve mon dessein.  
 
@@ -1369,7 +1369,7 @@ SILEINE, PALINICE.
     SILEINE.
 Dois-je encore long-temps supporter mes supplices,  
 Ne devez-vous jamais agréer mes services⁎ ?  
-Puis que vous le voulez j'ay failly contre vous,                       
+Puis que vous le voulez j'ay failly contre vous,  
 Et mon crime est plus grand que n'est vostre courroux,      
 Si je n'ay point failly, quelle humeur vous emporte,  
 De vous monstrer si froide à mon ardeur si forte ?  
@@ -1391,7 +1391,7 @@ D'oublier cet amour dont vous m'asseurez tant,
 Pour un nouvel objet, c'est bien estre constant⁎.  
 
     SILEINE.
-Je ne me dédis pas d'avoir servy Dorise,                        
+Je ne me dédis pas d'avoir servy Dorise,  
 Mais vous sçavez pourquoy se fit cette entreprise,  
 Vous le vouliez ainsi, moy pour vous obeyr,  
 Je fus ingenieux à me sçavoir trahir,  
@@ -1417,7 +1417,7 @@ Vous n'estes pas encor tout à fait acquitté.
 
     SILEINE.
 Que me reste-t'il donc pour vous rendre assouvie ?  
-Demandez-vous mon sang ? demandez-vous ma vie ?                   
+Demandez-vous mon sang ? demandez-vous ma vie ?  
 Je les perdray tous deux si c'est vostre désir.  
 
     PALINICE.
@@ -1450,7 +1450,7 @@ ARIMANT, CIRCEINE.
 
 
     ARIMANT.
-Circeine vous sçavez que j'adore Florice,                      
+Circeine vous sçavez que j'adore Florice,  
 Qu'Alcandre m'y peut nuire, ou m'y rendre service  
 Et vous le méprisez, vous fuyez son abord⁎,  
 Si vous continuez vous me donnez la mort,  
@@ -1459,7 +1459,7 @@ Vous sçavez qu'il vous ayme, et ses feux sont honestes,
     CIRCEINE.
 Vous avez bonne grace en cet âge où vous estes,  
 De vous estre sousmis aux traverses d'amour,  
-Croyez-vous d'accorder la nuit avec le jour,                      
+Croyez-vous d'accorder la nuit avec le jour,  
 Le chaud avec le froid, et contre la nature,  
 De faire qu'une fille ayme la sepulture :  
 Mon cher oncle, Florice a des appas⁎ trop grands,  
@@ -1484,7 +1484,7 @@ Mais Clorian, mon frère, et Palinice ensemble,
 Alors que mon mal-heur avec moy les assemble,  
 Me tourmentent si fort à son occasion,  
 Que je ne le puis voir qu'à sa confusion,  
-Quoy que dedans mon ame encor je le regrette,                      
+Quoy que dedans mon ame encor je le regrette,  
 Je l'ay cognu tousjours d'une humeur si discrette,  
 Et si plein de respect et de civilité,  
 Que je me dois loüer [78] de son honesteté.  
@@ -1509,7 +1509,7 @@ Vous ne parleriez pas avec moy de la sorte.
 
     ARIMANT.
 Hors de leur interest tous les autres aussi.  
-Ne vous préfferoient pas avec tant de soucy⁎,                       
+Ne vous préfferoient pas avec tant de soucy⁎,  
 Laissez les interests et des uns et des autres,  
 De tous nos sentimens ne suivez que les vostres,  
 Lors que vous aurez leu ces vers qui sont de luy,  
@@ -1533,7 +1533,7 @@ Vous dédaignez de voir un malheureux esclave,
 Qui tient ses fers⁎ si précieux,  
 Que des larmes dont il les lave,  
 Il rend graces aux dieux.  
-Vous me voyez languir, vous me voyez contraindre,                   
+Vous me voyez languir, vous me voyez contraindre,  
 Vous me voyez souffrir mille ennuis sans me plaindre  
 De vos cruels mespris.  
 
@@ -1553,7 +1553,7 @@ Mais au fort de mon mal si je tourne ma veue
 Sur les divins apas⁎ dont vous estes pourveue  
 Je m'en dédis soudain,  
 Et mon cœur se resout à toutes les tortures  
-Que peut souffrir un cœur humain                          
+Que peut souffrir un cœur humain  
 Dans les pénibles advantures  
 Que fait naistre un dédain.  
 Clorian mon rival ny sa sœur, ny vous mesme,  
@@ -1577,7 +1577,7 @@ Voyés en quel estat est son ame affligée.
 
     CIRCEINE.
 Si ce qu'il dit est vray je luy suis obligée⁎,  
-Et soyez asseuré que pour l'amour de vous                      
+Et soyez asseuré que pour l'amour de vous  
 Il recevra de moy des traictements plus doux.  
 
     ARIMANT.
@@ -1597,20 +1597,20 @@ Escrivés-luy,
 J'escriray donc pour vous,  
 
     CIRCEINE.
-            Arimant, l'un vaut l'autre.  
+        Arimant, l'un vaut l'autre.  
 
     ARIMANT.
 Circeine, je ne sçay quelle humeur est la vostre,  
 Parlez-moy franchement,  
 
     CIRCEINE.
-            Bien je vous le promets.  
+        Bien je vous le promets.  
 
     ARIMANT.
 Hayssez-vous Alcandre, ou bien si [81] vous l'aimés.  
 
     CIRCEINE.
-Pourquoy haïr Alcandre, il a des avantages,                       
+Pourquoy haïr Alcandre, il a des avantages,  
 Qui le feroient aymer aux ames plus sauvages.  
 
     ARIMANT.
@@ -1634,14 +1634,14 @@ Ah ! qu'il seroit heureux contre son espérance,
 S'il avoit de vos mains une telle asseurance,  
 Et si vous me voulés obliger⁎ tout à faict,  
 Ne m'en dites pas tant, et m'en donnés l'effaict.  
-Un petit mot d'escrit redonnera la vie                          
+Un petit mot d'escrit redonnera la vie  
 A qui vos cruautés l'ont à demy ravie.  
 
     CIRCEINE.
 Je ne veux pas escrire,  
 
     ARIMANT.
-            Et bien non j'escriray :  
+        Et bien non j'escriray :  
 Mais vous approuverez ce que je luy diray.  
 
     CIRCEINE.
@@ -1666,8 +1666,8 @@ Et bien qu'y trouvés-vous à redire.
     CIRCEINE.
 Après avoir veu.
 
-                    A la fin  
-Il faudra confesser que vous estes bien fin,                      
+        A la fin  
+Il faudra confesser que vous estes bien fin,  
 Et quand je signeray n'est-ce pas tout de mesme,  
 Que si j'avois escrit Alcandre je vous ayme ?  
 
@@ -1685,7 +1685,7 @@ La faute sera vostre, et n'aura point d'excuse.
 Je le veux bien, Adieu.  
 
     CIRCEINE.
-            Le plaisant amoureux,  
+        Le plaisant amoureux,  
 En obligeant Alcandre il se croit bien-heureux,  
 Et se met dans l'esprit mille chimères vaines  
 Pour flater sa folie, et soulager ses peines,  
@@ -1700,7 +1700,7 @@ CLORIAN, CIRCEINE.
 
 
     CLORIAN.
-Je cognois bien Circeine en vos déportemens⁎,                      
+Je cognois bien Circeine en vos déportemens⁎,  
 Que je suis malheureux entre tous vos amans⁎,      
 Et quoy que j'aye esté le premier dans vos chaines,  
 Le premier qui pour vous a suporté de peines  
@@ -1720,7 +1720,7 @@ Vous vous plaignés tousjours, vostre humeur ombrageuse
 Est trop insupportable, et m'est trop dangereuse.  
 
     CLORIAN.
-Pleust à Dieu qu'il fust vray, que mes soubçons trompeurs              
+Pleust à Dieu qu'il fust vray, que mes soubçons trompeurs  
 Ne fussent rien qu'un ombre [83], ou que vaines vapeurs :  
 Mais je suis asseuré, qu'un autre amour vous touche,  
 Qu'Alcandre est dans le cœur, et moy dedans la bouche.  
@@ -1740,7 +1740,7 @@ SILEINE, CLORIAN.
 
 
     SILEINE.
-Clorian m'a promis de prendre le soucy⁎                          
+Clorian m'a promis de prendre le soucy⁎  
 D'apaiser Palinice, il faut que je le trouve.  
 
     CLORIAN.
@@ -1757,15 +1757,15 @@ Ta sœur s'est elle point quelque peu relaschée,
 Ne me le cache point,  
 
     CLORIAN.
-            Elle estoit bien fachée,  
+        Elle estoit bien fachée,  
 Mais j'ay tant fait pour toy, qu'elle t'a pardonné,  
 Voy ce qu'en ta faveur, elle mesme a donné.  
 
     SILEINE [84].
-O que je suis heureux,                                  
+O que je suis heureux,  
 
     CLORIAN
-            Lorsqu'elle a veu ta lettre  
+        Lorsqu'elle a veu ta lettre  
 J'ay beaucoup travaillé devant que le remettre,  
 Mais touchée à la fin de te voir repetant,  
 Elle m'a dit ces mots, qu'il vive donc content.  
@@ -1782,7 +1782,7 @@ J'ay long- temps contesté si je devois recevoir les excuses de Sileine, après 
     SILEINE.
 Après l'avoir leu.
 
-Que j'adore ce nom, que je baise et rebaise                      
+Que j'adore ce nom, que je baise et rebaise  
 Ce papier bien-heureux, instrument de mon aise,  
 
     CLORIAN.
@@ -1808,16 +1808,16 @@ Son peu d'expérience en ces ruses d'amour,
 Me le déffend,  
 
     CLORIAN.
-        Sileine on les sçait dans un jour,                      
+        Sileine on les sçait dans un jour,  
 L'amour est un bon maistre, aide de la nature,  
 Tu t'en esclairciras voyant cette escriture :  
 Coignois-tu de qui c'est ?  
 
     SILEINE.
-            d'Alcandre  
+    d'Alcandre  
 
     CLORIAN.
-                    Il est certain.  
+        Il est certain.  
 
     SILEINE.
 Après avoir veu ce qu'il luy monstre.
@@ -1827,7 +1827,7 @@ Dans lequel il tesmoigne une flame amoureuse,
 Sans y nommer personne,  
 
     CLORIAN.
-            Et c'en est là la ruse.  
+        Et c'en est là la ruse.  
 Ta sœur qui ne veut pas qu'on sçache son ardeur,  
 Le reçoit devant nous avec quelque froideur,  
 Et fait taire son nom en ce qu'il fait pour elle,  
@@ -1835,7 +1835,7 @@ L'aymant elle le fuit, me rit m'estant cruelle :
 Et puis c'est ignorer les ruses des amants⁎.  
 Non non, mon cher amy, perds ces vains sentimens:  
 L'amour, comme j'ay dit, est un maistre d'eschole  
-Qui monstre ses secrets avec une parolle,                       
+Qui monstre ses secrets avec une parolle,  
 Un mot le faict comprendre à cent peuples divers,  
 Et lors que tu sçauras où j'ay trouvé ses vers,  
 Tu diras avec moy que ta sœur est sçavante  
@@ -1862,7 +1862,7 @@ Dans ce gand j'ay trouvé cette marque funeste,
 De tout mon desplaisir toy juge après du reste.  
 
     SILEINE.
-Elle nous a trompés, trompons à nostre tour,                       
+Elle nous a trompés, trompons à nostre tour,  
 Les ruses sont souvent permises en amour.  
 Ostons ces quatre vers pour en mettre quatre autres,  
 Escrits de vostre main, qu'on puisse croire vostres,  
@@ -1888,7 +1888,7 @@ Sortant par divers endroits
 
 
     CERINTE.
-On me vient d'advertir que Florice est allée                      
+On me vient d'advertir que Florice est allée  
 Prendre seule le frais au bout de cette allée.  
 
     ARIMANT.
@@ -1898,7 +1898,7 @@ Sans qu'un fascheux rival vienne troubler mon aise.
 Mais le voicy venir, ô rencontre mauvaise,  
 
     CERINTE.
-J'apperçois Arimant, tesmoignons froidement                      
+J'apperçois Arimant, tesmoignons froidement  
 Que je viens en ce lieu par divertissement.  
 
     ARIMANT.
@@ -1923,7 +1923,7 @@ Mais Alcandre et ses biens me nuisent plus que luy,
 Destournons par icy, j'y puis aller de mesme.  
 
     ARIMANT.
-Il s'en va, courons donc vers la beauté que j'aime.                  
+Il s'en va, courons donc vers la beauté que j'aime.  
 
 
 ### SCENE II
@@ -1946,7 +1946,7 @@ Et mesprisoit la cour, et les diversitez.
 
 Tantost sur le bord des ruisseaux,  
 Et tantost sur les fleurs qui bordent nos fontaines :  
-Nous oyons les oiseaux                                  
+Nous oyons les oiseaux  
 
 Qui nous disoient leurs peines,  
 Et mesloient leurs chansons au murmure des eaux.  
@@ -1969,7 +1969,7 @@ Par toute la contrée,
 Nos divertissements ont cessé d'estre tels.  
 
 N'ois-je pas quelques uns qui par diverse voye,  
-Se rendent en ces lieux, il faut que je les voye,                       
+Se rendent en ces lieux, il faut que je les voye,  
 Cerinte et mon vieillard viennent pour me chercher,  
 Sans en faire semblant laissons les approcher.  
 
@@ -1994,14 +1994,14 @@ Quand vous y seriés seul vous ou luy l'advantage
 En seroit bien petit,  
 
     ARIMANT.
-            Mauvaise ce langage  
+        Mauvaise ce langage  
 Devroit avoir changé pour mon subject au moins.  
 
     CERINTE.
-Pourquoy plustost pour vous que pour moy.                      
+Pourquoy plustost pour vous que pour moy.  
 
     FLORICE.
-                    Tous vos soins  
+        Tous vos soins  
 Et vos discours d'amour sont choses innutiles.  
 
     ARIMANT.
@@ -2026,7 +2026,7 @@ Cruelle, recevez en des termes plus doux,
 Les offres d'un amant⁎ qui veut mourir pour vous.  
 
     FLORICE.
-Voyons si je pourray contenter l'un et l'autre,                      
+Voyons si je pourray contenter l'un et l'autre,  
 Que me demandez-vous, quel desir est le vostre ?  
 
     ARIMANT.
@@ -2051,7 +2051,7 @@ Qu'a-t'il promis ?
     ARIMANT.
         De faire avecque vous en sorte  
 Que vous recognoistriez l'amour que je vous porte.  
-Et ma sœur m'a promis de ne voir plus que luy                      
+Et ma sœur m'a promis de ne voir plus que luy  
 Si cela suffisoit pour finir mon ennuy⁎  
 Promettez m'en autant, et mon ame contente,  
 Recueillera le fruict qu'on doit à son attente.  
@@ -2062,7 +2062,7 @@ De ne regarder point vostre rival jamais,
 Estes-vous satisfait ?  
 
     ARIMANT.
-            Plus qu'homme de la terre.  
+        Plus qu'homme de la terre.  
 
     CERINTE.
 Dieux ! je ne suis pas mort de ce coup de tonnerre,  
@@ -2080,7 +2080,7 @@ Mais je voy que Cerinte a l'ame bien troublée.
 Dites plustost qu'elle est de douleur accablée.  
 
     FLORICE.
-Je vous veux toutes fois oster de ce soucy⁎                      
+Je vous veux toutes fois oster de ce soucy⁎  
 Pour l'amour de vous seul je le veux fuir aussi :  
 Et pour l'amour de moy, forçant ce labirinte  
 Je ne veux jamais voir Arimant ny Cerinte.  
@@ -2106,7 +2106,7 @@ Mon ingrate, son frère et toy sçaurez peut-estre
 Ce que c'est de vouloir se joüer à son maistre.  
 Florice se rit donc de mon affection,  
 Et me vient reprocher mon imperfection.  
-Est-ce là ce qu'Alcandre a fait pour moy vers elle,                  
+Est-ce là ce qu'Alcandre a fait pour moy vers elle,  
 Est-ce bien recognoistre un service⁎ fidèlle ?  
 J'ay fait que ma nièce [90] a receu ses escrits,  
 Et luy fait que sa sœur me voit avec mespris.  
@@ -2129,7 +2129,7 @@ J'ay fait les quatre vers escrits de ma main mesme
 Desquels on peut juger que mon ingrate m'ayme,  
 Et que Sileine a mis au lieu de ceux icy,  
 Sans qu'elle en sçache rien, esperons donc, voicy  
-Nostre vieil amoureux, oncle de ma maistresse,                       
+Nostre vieil amoureux, oncle de ma maistresse,  
 Qui parlant pour Alcandre en sa faveur la presse.  
 Taschons de le gaigner, Cerinte m'a conté⁎  
 Que Florice aujourd'huy l'a fort mescontenté,  
@@ -2156,7 +2156,7 @@ Qui rit de ceux qu'il tient, et qui croit en amour,
 C'est estre criminel d'aimer plus que d'un jour.  
 
     ARIMANT.
-Il est vray que ce sexe⁎ a par fois  des follies,           
+Il est vray que ce sexe⁎ a par fois  des follies,  
 Qui luy font à tout coup faire mille saillies⁎ :  
 Mais je sçay mieux que vous d'où vient tout vostre mal.  
 
@@ -2184,7 +2184,7 @@ Voila ce que jamais elle n'a fait pour moy,
 Depuis deux ou trois ans que je vy sous sa loy.  
 
     ARIMANT.
-Ne vous tourmentez point, je veux par cette lettre                  
+Ne vous tourmentez point, je veux par cette lettre  
 Désobliger Alcandre, et bien-tost vous remettre,  
 Allez trouver Circeine, et dedans vos discours  
 Laschés quelque propos qui touchent vos amours,  
@@ -2193,7 +2193,7 @@ De voir que vous sçachiez une affaire cachée,
 Laissez là, je feray tout le reste,  
 
     CLORIAN.
-                Arimant  
+        Arimant  
 Vous rapellez en vie un malheureux amant⁎.  
 
     ARIMANT.
@@ -2214,7 +2214,7 @@ CIRCEINE, CLORIAN.
 
 
     CIRCEINE.
-Que la condition quelquesfois est nuisible,                      
+Que la condition quelquesfois est nuisible,  
 Que les plus eslevez sont subjets à tomber,  
 Leur chute est si visible,  
 Qu'on peut mal-aisement aux yeux la desrober.  
@@ -2226,7 +2226,7 @@ Les desseins mieux fondez trompent nostre espérance,
 Où l'on croit le repos on trouve les travaux :  
 Et contre l'apparence,  
 Au milieu des plaisirs des desplaisirs nouveaux.  
-Mes compagnes et moy nous sommes retirées,                      
+Mes compagnes et moy nous sommes retirées,  
 Dans nos petits hameaux, hors du monde et du bruict,  
 Ou de tous separées,  
 Chacun croit qu'en repos la lumière nous luit.  
@@ -2247,7 +2247,7 @@ Ou comme entre ennemis on vienne à le finir.
 Je suis garde des ponts, vous devez le passage.  
 
     CIRCEINE.
-Vous me feriez juger que vous n'estes pas sage,                      
+Vous me feriez juger que vous n'estes pas sage,  
 Que vous m'avez fait peur de me surprendre ainsi,  
 Et quelle est vostre humeur de vous cacher icy.  
 
@@ -2277,7 +2277,7 @@ Où vous estimez tant son mérite et sa flame,
 Que vous ne pouvez pas le mespriser sans blasme.  
 
     CIRCEINE.
-Alcandre, Clorian, ny mortel quel qu'il soit,                      
+Alcandre, Clorian, ny mortel quel qu'il soit,  
 Ne sera plus oüy,  
 
     CLORIAN *s'en allant.*
@@ -2306,7 +2306,7 @@ Encor que vos mespris traversent⁎ mon amour,
 Et que vous souhaitiés que ma flame fust morte  
 
     FLORICE.
-Et moy j'ay résolu de vivre d'autre sorte,                      
+Et moy j'ay résolu de vivre d'autre sorte,  
 Et de n'endurer plus vostre importunité.  
 
     ARIMANT.
@@ -2334,7 +2334,7 @@ Et dois-je estre puni des défauts d'un rival ?
 
     FLORICE.
 Je vous ay là-dessus expliqué ma pensée,  
-Je ne désire plus de me voir si pressée,                          
+Je ne désire plus de me voir si pressée,  
 Tant que vous serez deux à me persécuter,  
 Je ne puis vous souffrir et moins vous contenter.  
 
@@ -2357,7 +2357,7 @@ Ne me presse pas tant et me laisse en repos.
 Comment lache, tu fuis  
 
     CERINTE.
-            Ces insolents propos  
+        Ces insolents propos  
 Ne se peuvent souffrir sans y perdre la vie.  
 
     FLORICE.
@@ -2365,7 +2365,7 @@ Que ma présence au moins vous en donne l'envie.
 
     ARIMANT.
 Puis que l'un ne veut pas à l'autre vous céder,  
-La mort nous fera voir qui vous doit posséder.                       
+La mort nous fera voir qui vous doit posséder.  
 
     FLORICE.
 Vous estes trop mauvais dedans vostre colere,  
@@ -2393,7 +2393,7 @@ En lieu propre, vuider⁎ nos querelles d'amour.
 Que ce vieil amoureux a de belles saillies⁎,  
 Et je serois subjette à toutes ses follies.  
 Non, non je ne veux plus me donner de l'ennuy⁎  
-Mon frère satisfaict, n'a que faire de luy                          
+Mon frère satisfaict, n'a que faire de luy  
 Cerinte dont l'amour est véritable et forte  
 Doit estre désormais receu d'une autre sorte.  
 
@@ -2415,7 +2415,7 @@ Et nostre ame se plonge en de douces pensées.
 La moindre des faveurs qu'une beauté depart [96]  
 Nous fait mettre bien-tost les desplaisirs à part :  
 Nous fait nommer heureux les jours de nostre vie.  
-Et les premiers moments que nous l'avons servie                  
+Et les premiers moments que nous l'avons servie  
 Quels tourments souffre t'on dans l'empire d'amour  
 Que je n'aye esprouvez depuis le premier jour,  
 Depuis le jour qu'un œil dont j'adore les charmes,  
@@ -2437,7 +2437,7 @@ D'un regard favorable a soulagé mon cœur,
 Et qu'elle a recogneu ma passion fidèlle,      
 Je me crois trop heureux d'avoir souffert pour elle,  
 Les tourments me sont chers dedans mon souvenir,  
-Et l'on me fait plaisir de m'en entretenir.                      
+Et l'on me fait plaisir de m'en entretenir.  
 Arbres de qui souvent j'ay deschiré l'escorce,  
 Ne me reprochégs point cette amoureuse force,  
 Et pour l'amour de moy conservez cherement  
@@ -2462,7 +2462,7 @@ Garde le mieux encor que ne feroit le marbre.
 Et me preste ton ombre où je puisse rever,  
 Au bon heur nompareil qui vient de m'arriver.  
 Adorable Circeine, est il doncques possible,  
-Qu'à mon affection tu te montre sensible ?                      
+Qu'à mon affection tu te montre sensible ?  
 
     CIRCEINE.
 Il est en beau chemin escoutons seulement.  
@@ -2488,7 +2488,7 @@ Devant que de t'ouvrir, que cent fois je te baise.
     CIRCEINE.
 Si je m'en puis saisir j'interrompray ton aise.  
 Lettre de Circeine à Alcandre.
-La discrétion et l'honneteté d'Alcandre m'obligent en fin à l'asseurer que ses services me sont agréables, qu'il vive donc content après cette asseurance, et qu'il sçache que j'estime trop ses mérites, pour ne vouloir pas qu'il continuë d'aimer Circeine.                                    
+La discrétion et l'honneteté d'Alcandre m'obligent en fin à l'asseurer que ses services me sont agréables, qu'il vive donc content après cette asseurance, et qu'il sçache que j'estime trop ses mérites, pour ne vouloir pas qu'il continuë d'aimer Circeine.
 
     ALCANDRE.
 Après l'avoir leuë
@@ -2502,7 +2502,7 @@ Prenant la lettre
 Non, non  
 
     ALCANDRE.
-Dieux, qu'est cecy qu'un voleur me l'emporte,  
+        Dieux, qu'est cecy qu'un voleur me l'emporte,  
 Impie, oses-tu bien y toucher de la sorte,  
 Ton sang expiera ce profane attentat  
 Attens  
@@ -2510,19 +2510,19 @@ Il se leve en disant cela le poignard à la main.
 
 
     CIRCEINE  *l'arrestant*.
-Vous n'estes pas Alcandre en bon estat,  
+        Vous n'estes pas Alcandre en bon estat,  
 Sans doute vous dormiez, et vostre fantaisie [98]  
 A jetté vostre esprit dans quelque frénésie,  
 Me voulez vous tuer ?  
 
     ALCANDRE.
-            Ah ! que plustost ce fer⁎                      
+        Ah ! que plustost ce fer⁎  
 Plongé dedans mon sein, me pousse dans l'enfer,  
 Ma belle pardonnez l'action insolente  
 Que je viens de commettre.  
 
     CIRCEINE.
-                Elle est trop violente.  
+        Elle est trop violente.  
 
     ALCANDRE.
 Ouy pour vous : mais un autre en seroit desja mort  
@@ -2545,16 +2545,16 @@ Ce ne sont que des vers qui disent que vos yeux
 Me peuvent abismer ou m'eslever aux cieux.  
 
     CIRCEINE.
-Je les veux voir pourtant.                              
+Je les veux voir pourtant.  
 
     ALCANDRE.
-            C'est chose bien aisée.  
+        C'est chose bien aisée.  
 
     CIRCEINE.
 Lisez-les  
 
     ALCANDRE.
-Qui voudroit vous avoir refusée.  
+        Qui voudroit vous avoir refusée.  
 Il lit les vers qui sont sur l'escorce.
 
 Mon espoir comme toy fust autres fois plus bas,  
@@ -2573,7 +2573,7 @@ Puis qu'avecque douceur ce bel œil me regarde.
 
     CIRCEINE.
 Alcandre en tous endroits occupe ses esprits  
-Seul ou non                                      
+Seul ou non  
 
     ALCANDRE.
         Rendés moy ce que vous m'avés pris.  
@@ -2598,7 +2598,7 @@ Je recognois assez, belle, que vostre envie
 Retirant cest escrit n'est pas de m'obliger⁎,  
 Et que vous me voulez tout à faict affliger.  
 Pleust aux dieux que Circeine estimast tout de mesme  
-Ce qui vient de la part d'un malheureux qui l'aime,                   
+Ce qui vient de la part d'un malheureux qui l'aime,  
 Et qu'elle le gardast si cherement que moy :  
 Mais nous ne sommes pas sous une mesme loy.  
 Je suis trop amoureux et vous trop dédaigneuse.  
@@ -2623,7 +2623,7 @@ Me pouvois-je empescher de cette trahison ?
 Amour qui vois mon mal et me défends la plainte  
 Te serois tu douté d'une semblable feinte ?  
 Elle se plaint de moy sans en avoir subjet,  
-Et donne à son courrroux un songe pour object.                   
+Et donne à son courrroux un songe pour object.  
 Sans me faire languir vous deviez m'oster l'ame,  
 Et non pas vous mocquer de ma fidèle flame,  
 Adieu cruelle, adieu, c'est par ce coup fatal,  
@@ -2648,7 +2648,7 @@ Que me vient de donner l'amoureux Arimant.
 
     PALINICE.
 Qu'il n'est rien de pareil à sa mélancholie,  
-Et que sa passion ressent fort sa folie⁎.                           
+Et que sa passion ressent fort sa folie⁎.  
 Et sans quelque soucy⁎ qui vient de me saisir,  
 Je voudrois avec vous en avoir le plaisir.  
 Vostre frère et le mien m'ont mise trop en peine,  
@@ -2678,7 +2678,7 @@ Allons donc la chercher, mais la voicy venir,
 Qui seule dans ce lieu semble s'entretenir.  
 
     PALINICE, *parlant à Circeine.*
-Que vous vous espargnez d'une grande courvée [102],                  
+Que vous vous espargnez d'une grande courvée [102],  
 Le bon-heur nous en veut de vous avoir trouvée.  
 
     CIRCEINE.
@@ -2703,11 +2703,11 @@ Je crains que nous soyons toutes intéressées.
 Dites nous donc que c'est,  
 
     CIRCEINE.
-            Vous sçaurez qu'aujourd'huy  
+        Vous sçaurez qu'aujourd'huy  
 Vos frères m'ont donné de grands subjets⁎ d'ennuy⁎.  
 Clorian m'a pressée avecque violence,  
 Et sans aucun respect et beaucoup d'insolence      
-M'a reproché cent fois que trop légèrement                      
+M'a reproché cent fois que trop légèrement  
 Je l'avois mesprisé pour un nouvel amant⁎.  
 Et comme si j'estois sousmise à sa puissance,  
 A pris dans ses discours une grande licence.  
@@ -2718,7 +2718,7 @@ Et montrant qu'il avoit de l'aigreur contre Alcandre,
 S'en est allé faché.  
 
     PALINICE.
-            C'est fort mal procéder  
+        C'est fort mal procéder  
 Alcandre n'est pas homme à luy vouloir céder,  
 Et j'avois tousjours craint qu'en fin sa jalousie  
 Porteroit son esprit à cette frénésie.  
@@ -2733,16 +2733,16 @@ Que vous a dit Alcandre après cette saillie⁎ ?
     CIRCEINE.
 Rien, mais il s'est jetté dans la mélancholie,  
 Et sans me dire mot a voulu me quitter,  
-J'ay fait ce que j'ay peu taschant de l'arrester,           
+J'ay fait ce que j'ay peu taschant de l'arrester,  
 Mais je ne l'ay peu faire  
 
     PALINICE *parlant à Florice, et s'en allant tous deux.*
-            Allons belle compagne  
+        Allons belle compagne  
 Envoyer leurs amis par toute la campagne,  
 Ils se sont allez battre.  
 
     CIRCEINE.
-            Elles sont en soucy⁎,  
+        Elles sont en soucy⁎,  
 Mais je voudrois desja que cela fut ainsi,  
 Alcandre vangeroit nostre commune offence,  
 Et si je m'y trouvois je prendrois sa deffence.  
@@ -2759,26 +2759,26 @@ Nous decouvrons d'icy presque toute la plaine.
 
     CERINTE.
 Nous le pourrions sçavoir de vostre sœur Circeine  
-La voicy toute seule.                                  
+La voicy toute seule.  
 
     CIRCEINE.
-            Où courez vous si fort ?  
+        Où courez vous si fort ?  
 
     CERINTE.
 Empescher deux amans de se donner la mort,  
 Les avez-vous point veux ?  
 
     CIRCEINE.
-            Qui sont ils ?  
+    Qui sont ils ?  
 
     SILEINE.
-                    C'est Alcandre.  
+        C'est Alcandre.  
 
     CIRCEINE.
 Et l'autre.  
 
     CERINTE.
-Clorian  
+    Clorian  
 
     CIRCEINE.
         C'est beaucoup entreprendre,  
@@ -2794,7 +2794,7 @@ Nous n'en avons encor apris nulle nouvelle.
 Ils sont pourtant sortis pour vuider⁎ leur querelle.  
 
     CERINTE.
-Ils ne sçauroient aller qu'à l'entour de ces lieux,                       
+Ils ne sçauroient aller qu'à l'entour de ces lieux,  
 Tournons de tous costez vostre oreille et vos yeux.  
 
 
@@ -2817,7 +2817,7 @@ Hastons nous donc de peur que l'on ne nous sépare,
 Les voila sur Florice le point d'une action barbare.  
 
     PALINICE.
-Ne nous amusons pas, courons les empescher.                       
+Ne nous amusons pas, courons les empescher.  
 
     SILEINE.
 Courons, ils ne sçauroit à nos yeux se cacher,  
@@ -2848,7 +2848,7 @@ Puis que cette action ma belle vous offence.
 
     CLORIAN.
 Que vous avez sur nous un pouvoir souverain,  
-De nous faire tomber les armes de la main.                       
+De nous faire tomber les armes de la main.  
 
     CIRCEINE.
 Qu'un effort généreux se faisant dans vos ames,  
@@ -2889,7 +2889,7 @@ CERINTE, CLORIAN.
 
 
     ARIMANT.
-Voicy, voicy le bras qui te pourra confondre,                       
+Voicy, voicy le bras qui te pourra confondre,  
 Alcandre et Clorian n'ont rien fait qu'à demy,  
 Mets l'espée à la main je suis ton ennemy,  
 Tu ne peux t'en dédire⁎, il faut que par les armes  
@@ -2903,12 +2903,12 @@ L'amour est importun⁎ aux hommes de vostre âge.
 
     ARIMANT.
 Ces jeunes estourdis me voudroient reformer,  
-Et me persuader qu'ils doivent seuls aymer.                      
+Et me persuader qu'ils doivent seuls aymer.  
 Non non, il faut mourir ou posséder Florice,  
 L'espée au poing Cerinte.  
 
     ALCANDRE.
-            O le plaisant caprice !  
+        O le plaisant caprice !  
 
     FLORICE.
 Je ne puis plus souffrir cette importunité,  
@@ -2932,13 +2932,13 @@ Ou verront ces beautez avec indifference.
 Je n'y contredis point.  
 
     CERINTE.
-            J'en suis fort satisfaict.                      
+        J'en suis fort satisfaict.  
 
     CIRCEINE.
 Et vous qu'en dites vous ?  
 
     ARIMANT.
-            Que le moyen m'en plait.  
+        Que le moyen m'en plait.  
 
     ALCANDRE.
 Il dépend donc de vous de nous tirer de peine.  
@@ -2958,11 +2958,11 @@ De dire là-dessus clairement nos pensées.
 Il vous y faut resoudre  
 
     FLORICE.
-            Il est vray, mais jurez  
+        Il est vray, mais jurez  
 Qu'à ce que nous dirons vous vous conformerez,  
 Et que vous garderez nos volontez dernières.  
 
-    SILEINE.    
+    SILEINE.
 Parlant à Palinice
 
 Ne serez vous jamais moins sourde à mes prières ?  
@@ -2980,7 +2980,7 @@ Puis que vous le voulez, je le veux bien aussi.
 Nous le promettez-vous ?  
 
     CLORIAN.
-            Nous le jurons ainsi.  
+        Nous le jurons ainsi.  
 
     FLORICE.
 Parlant à Arimant et à Cerinte
@@ -2991,7 +2991,7 @@ Voyez si j'ay raison de vous blasmer tous deux,
 Et de desaprouver les effects de vos feux :  
 Mais puis qu'il faut au vray dire ce que je pense,      
 Qu'il faut que l'un n'ait rien, l'autre ait sa récompense,  
-Que vous n'espérés point que de l'avoir de moy,                      
+Que vous n'espérés point que de l'avoir de moy,  
 Que je vous dois donner une derniere loy,  
 Balançant le mérite et de l'un et de l'autre,  
 J'aprouve vostre amour et j'estime le vostre :  
@@ -3017,7 +3017,7 @@ Puisque pour des raisons que je ne diray pas,
 Cerinte aura seul part en ce que j'ay d'apas.  
 
     ARIMANT.
-Le Ciel a-t-il fait naistre une chose si rare,                      
+Le Ciel a-t-il fait naistre une chose si rare,  
 Pour luy donner apres une ame si barbare ?  
 A t'il mis en ce sexe⁎ une extreme beauté,  
 Pour y joindre la fraude avec la cruauté ?  
@@ -3045,7 +3045,7 @@ Et mon cœur la victime oblige un pauvre amant⁎,
 Et donne en ma faveur ce dernier jugement.  
 
     CIRCEINE.
-J'eusse bien désiré de n'estre pas contrainte                  
+J'eusse bien désiré de n'estre pas contrainte  
 De vous donner jamais aucun subject de plainte :  
 Mais desirant tous deux ce qu'un seul doit avoir  
 De vous contenter tous n'est pas en mon pouvoir.  
@@ -3068,8 +3068,8 @@ Et faisons l'action d'un homme généreux.
 Mais,  
 
     ALCANDRE. *tout bas*
-    Ah ! ce mais ! remet toute mon espérance,  
-Et donne à mon esprit quelque peu d'asseurance.                  
+        Ah ! ce mais ! remet toute mon espérance,  
+Et donne à mon esprit quelque peu d'asseurance.  
 
     CIRCEINE.
 Alcandre d'autre part m'a fait voir mille fois  
@@ -3079,7 +3079,7 @@ De m'en ressouvenir qu'il ne me soit sensible,
 Et pour luy monstrer  
 
     CLORIAN. *tout bas*
-            O Dieux, quel changement !  
+        O Dieux, quel changement !  
 Elle estime ma flame, et prend un autre amant⁎.  
 
     CIRCEINE.
@@ -3100,7 +3100,7 @@ Et moy je veux aymer le reste de mes jours
 Alcandre de qui seul j'approuve les amours.  
 
     CLORIAN.
-Le pilote qui voit fondre dessus sa teste                          
+Le pilote qui voit fondre dessus sa teste  
 Durant un temps serain une horrible tempeste,  
 Qui voit rompre ses mats, voit briser son vaisseau,  
 Est moins surpris que moy par un coup si nouveau.  
@@ -3115,7 +3115,7 @@ Me vienne icy flater dans mon affection.
 Ingrate  
 
     ARIMANT.
-Clorian laissons ces plaintes vaines,  
+        Clorian laissons ces plaintes vaines,  
 Allons loin de ces lieux mettre fin à nos peines.  
 
     CLORIAN.
@@ -3123,7 +3123,7 @@ Pour moy je veux chercher mon vray repos ailleurs,
 Et prendre désormais des mouvements meilleurs.  
 
     ARIMANT.
-Et moy me retirant dans une solitude,                           
+Et moy me retirant dans une solitude,  
 Je veux rire à loisir de son ingratitude.  
 
     CLORIAN. *s'en allant*
@@ -3151,7 +3151,7 @@ Que la foudre à vos yeux me vienne mettre en poudre :
 Si je n'obeys pas à vostre volonté.  
 
     CIRCEINE.
-Palinice montrez icy vostre bonté,                  
+Palinice montrez icy vostre bonté,  
 Dites luy franchement quelle est vostre pensée.  
 
     ALCANDRE.
@@ -3167,14 +3167,14 @@ Et vous n'eustes jamais de rival que vous mesme.
 Que voulez-vous de plus ?  
 
     SILEINE.
-            Rien qu'un point seulement  
+        Rien qu'un point seulement  
 Pour couronner ma flame et mon contentement.  
 
     PALINICE.
 Que demandez-vous donc ?  
 
     SILEINE.
-            Qu'un hymen nous assemble  
+        Qu'un hymen nous assemble  
 Pour vivre desormais heureusement ensemble.  
 
     ALCANDRE.
@@ -3182,7 +3182,7 @@ Je croy que vos desseins se conforment icy,
 Si vous le désirez nous le voulons aussi.  
 
     PALINICE.
-Il s'y faudra résoudre, et passer une vie                          
+Il s'y faudra résoudre, et passer une vie  
 Qui nous mette à couvert des efforts de l'envie.  
 Mes compaignes et moy chérissons vos plaisirs,  
 Et nous accordons tout à vos chastes désirs.  

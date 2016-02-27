@@ -3591,6 +3591,6 @@ Taisez-vous, as de pique.
 
     ALBERT
 Pour la troisième fois, allons-nous-en chez nous  
-Poursuivre en liberté des entretiens si doux.
+Poursuivre en liberté des entretiens si doux.  
 
 <FIN>

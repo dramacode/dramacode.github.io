@@ -1,5 +1,5 @@
 ---
-identifier: moliere_malade  
+identifier: moliere_malade-imaginaire-1675  
 creator: Molière  
 date: 1675  
 title: Le Malade imaginaire  
@@ -1240,7 +1240,7 @@ Oh quanto è pazza colei che vi crede.
 Violons
 
 
-
+    POLICHINELLE
 Quelle impertinente harmonie vient interrompre ici ma voix ?
 Violons
 

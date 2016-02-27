@@ -1,5 +1,5 @@
 ---
-identifier: biancolelli_arlequin  
+identifier: dominique-romagnesi_bellerophon-parodie  
 creator: Biancolelli, Pierre-François ; dit Dominique fils ; Romagnesi, Jean-Antoine.  
 date: 1738  
 title: Arlequin, Bellerophon. Parodie  
@@ -36,8 +36,8 @@ Nous n'avons donc pas pu résister au plaisir de reproduire l'intégralité de c
 
 
 ## ACTEURS
- – STENOBE'E
- – PHILONOE'
+ – STENOBÉE
+ – PHILONOÉ
  – LE ROI
  – BELLEROPHON
  – AMISODAR
@@ -59,10 +59,10 @@ Nous n'avons donc pas pu résister au plaisir de reproduire l'intégralité de c
 ### SCENE PREMIERE
 Le Théâtre représente un Jardin
 
-PHILONOE', Deux AMAZONES
+PHILONOÉ, Deux AMAZONES
 
 
-    PHILONOE’
+    PHILONOÉ
 Air 85. *Le plaisir passe la peine.*
 Amour, lorsque sous ton Empire,  
 Sans esperance un cœur soupire,  
@@ -79,7 +79,7 @@ Air 86. *Digue, diguedon.*
 Un heureux penchant vous entraîne ;  
 Bellérophon est tout charmant.  
 
-    PHILONOE’
+    PHILONOÉ
 Il dit qu'il aime tendrement.  
 
     PREMIERE AMAZONE
@@ -87,7 +87,7 @@ Parbleu ! vous valez bien la peine,
 Diguedi guedon, diguedon dondaine,  
 Que l'on vous le dise souvent.  
 
-    PHILONOE’
+    PHILONOÉ
 Nous avons été bien traversés ; mais grace au Ciel, nous touchons au moment d'être heureux.
 
     PREMIÈRE AMAZONE
@@ -97,7 +97,7 @@ Coûrent toujours quelques soupirs ;
 Quand les Amans n'ont point de peine,  
 Ils n'ont jamais de vrais plaisirs.  
 
-    PHILONOE’
+    PHILONOÉ
 L'aimable petit homme que Bellérophon ! N'ai-je pas raison, Mesdames les Amazones ? Il est si brave.
 
     PREMIERE AMAZONE
@@ -109,7 +109,7 @@ J'ai bien vû des hommes de ma vie, mais jamais un comme lui.
     PREMIERE AMAZONE
 Il faut assurément qu'il ait une rude force, puisqu'il nous a vaincuës ; jugez ce que doit être une femme armée de-pied-en-cap, lorsqu'elle est si redoutable en pete-en-l'air.
 
-    PHILONOE’
+    PHILONOÉ
 Je crois, Mesdames, qu'il seroit à propos que vous chantassiez sa gloire.
 
     PREMIERE AMAZONE
@@ -118,7 +118,7 @@ Cela seroit nouveau, des captifs chanter la gloire de leur vainqueur.
     II. AMAZONE
 Fi donc, cela ne feroit pas à sa place.
 
-    PHILONOE’
+    PHILONOÉ
 Pardonnez-moi, il faut bien que des femmes s'amusent.
 
     PREMIERE AMAZONE
@@ -134,7 +134,7 @@ Voilà ce qui s'appelle une gasconade Lyrique.
 
 
 ### SCENE II
-BELLEROPHON, PHILONOE'
+BELLEROPHON, PHILONOÉ
 
 
     BELLEROPHON
@@ -148,7 +148,7 @@ Et zon, zon, zon
 Le sentez-vous, Madame ?  
 Et zon, zon, zon,  
 
-    PHILONOE’
+    PHILONOÉ
 Oh ! je vous en réponds.
 Air 88. *Pour la Baronne.*
 Comme vos peines  
@@ -162,7 +162,7 @@ Air 42. *Tu croyois en aimant Colette.*
 Ah ! qu'un si doux aveu me touche !  
 Qu'il rend mon destin glorieux !  
 
-    PHILONOE’
+    PHILONOÉ
 S'il ne me sortoit de la bouche,  
 Il m'échaperoit par les yeux.  
 
@@ -177,13 +177,13 @@ Je vous aime, & cætera.
 Je vous aime, je vous aime.  
 Le beau duô que voilà !  
 
-    PHILONOE’
+    PHILONOÉ
 Adieu mon petit bonhomme, aimez-moi toujours, & vous ne vous en repentirez pas.
 
     BELLÉROPHON
 Où allez-vous donc, ma poulette ? quoi vous m'abandonnez dans le moment le plus tendre ? cela n'est pas bien, vous trichez.
 
-    PHILONOE’
+    PHILONOÉ
 Mon devoir m'appelle auprès de mon pere ; voici la Reine qui vient, je vous laisse avec elle.
 
     BELLÉROPHON
@@ -191,10 +191,10 @@ Que diable vient-elle faire ici ? je m'en vais lui dire que je n'y suis pas.
 
 
 ### SCENE III
-STENOBEE', BELLEROPHON
+STENOBEÉ, BELLEROPHON
 
 
-    STENOBE’E
+    STENOBÉE
 Air 35. *Le fameux Diogenes.*
 Quand cessera ta haine ?  
 Ma présence te gêne,  
@@ -206,7 +206,7 @@ Oui, je crois voir le Diable
 Lorsque je vous revoi.  
 Je suis sincère, comme vous voyez. Que me demandez-vous ? vous m'avez fait bannir d'Argos, & vous venez me relancer jusqu'en ce lieu : de grace, laissez-moi en repos.
 
-    STENOBE’E
+    STENOBÉE
 Air 89. *La ceinture.*
 Je sçai les maux que je t'ai faits,  
 Mais malgré ma rigueur extrême,  
@@ -223,19 +223,19 @@ Laire la, laire lanlaire,
 Laire la,  
 Laire lanla.  
 
-    STENOBE’E
+    STENOBÉE
 Je t'avouërai, mon cher Bellérophon, qu'une extrême pudeur m'empêcha d'écouter ma tendresse.
 
     BELLÉROPHON
 Têtebleu, le tems vous a bien aguerrie ! vous avez secoué le joug des préjugés, à ce que je vois ? allons, allons, songez qu'il ne convient pas à une Dame de faire les avances, adieu.
 
-    STENOBE’E
+    STENOBÉE
 Quoi, tu me quittes !
 
     BELLÉROPHON
 Oh ! si vous ne me laissez, j'appellerai du monde à mon secours.
 
-    STENOBE’E
+    STENOBÉE
 Arrête, cruel.
 
     BELLÉROPHON *en s'en allant.*
@@ -245,7 +245,7 @@ Vous y perdez vos pas, Nicolas.
 
 ### SCENE IV
 
-    STENOBE’E *seule*
+    STENOBÉE *seule*
 Air 29. *Je ne suis né ni Roi ni Reine.*
 Tu me quittes, barbare ? arrête !  
 Mais par ma foi je suis bien bête  
@@ -257,23 +257,23 @@ Mais voici Amisodar qui vient fort à propos.
 
 
 ### SCENE V
-AMISODAR, STENOBE'E
+AMISODAR, STENOBÉE
 
 
-    STENOBE’E
+    STENOBÉE
 Air 310. *Janeton m'aimez-vous* ?
 Amisodar, m'aimez-vous ?  
 
     AMISODAR
 Voyez quel conte,  
 
-    STENOBE’E
+    STENOBÉE
 Servirez-vous mon courroux ?  
 
     AMISODAR
 Ma main est prompte.  
 
-    STENOBE’E
+    STENOBÉE
 Je puis donc compter sur vous ?  
 
     AMISODAR
@@ -284,7 +284,7 @@ De mes feux, & de votre pouvoir,
 Vous avez en moi ce qui s'appelle  
 Un Amant qui vous aime, il faut voir.  
 
-    STENOBE’E
+    STENOBÉE
 Air 11. *Robin Turelure.*
 L'insolent Bellérophon,  
 M'a fait une horrible injure,  
@@ -310,7 +310,7 @@ Aux mortels livrer la guerre,
 Et désoler cette terre  
 Par un monstre furieux.  
 
-    STENOBE’E
+    STENOBÉE
 Non, non, point de Tonnerre, le Monstre me divertira davantage.
 
     AMISODAR
@@ -318,7 +318,7 @@ Que dites-vous, Madame ?
 Air 91. *C'est le bout du bras.*
 Pour vous ce spectacle est effrayant.  
 
-    STENOBE’E
+    STENOBÉE
 N'importe, n'importe.  
 Que de la terre à l'instant  
 Le monstre sorte, le monstre sorte.  
@@ -427,7 +427,7 @@ Ils abîment ; le Monstre aussi-tôt sort des enfers & traverse le Théâtre au
 
 
 ### SCENE VIII
-LE ROY, STENOBE'E
+LE ROY, STENOBÉE
 
 
     LE ROY
@@ -439,13 +439,13 @@ Et quoique je sois Roi,
 Je crains aussi pour moi  
 Sa fureur incivile.  
 
-    STENOBE’E
+    STENOBÉE
 Voilà ce que c'est que de donner asyle à des coupables, ils nous attirent toûjours quelque malheur; mais après tout, Seigneur, vous devez vous rassurer.
 
     LE ROY
 Comment me rassurer lorsque cet animal furieux fait ici tant de ravages ?
 
-    STENOBE’E
+    STENOBÉE
 Air 61. *Lanturlu*.
 De ce Monstre horrible  
 Que craignez-vous donc ?  
@@ -503,10 +503,10 @@ Dans la Gazette & le Mercure
 
 
 ### SCENE X
-PHILONOE', les USDITS
+PHILONOÉ, les USDITS
 
 
-    PHILONOE’
+    PHILONOÉ
 Air 14. *Or écoutez petits & grands.*
 Je viens partager vos douleurs,  
 A vos larmes joindre mes pleurs,  
@@ -516,7 +516,7 @@ Contre le Monstre qui les cause,
 Bellérophon court, & s'expose,  
 Y consens-tu ma fille ?  
 
-    PHILONOE’
+    PHILONOÉ
 Hélas ! Vous-même n'y consentez pas.  
 Air 47. *Ma raison s'en va bon train.*
 Tout prêt d'être mon Epoux,  
@@ -655,7 +655,7 @@ Moi je n'en fait que rire,
 Et bon, bon, bon,  
 Quelle est cette Fanchon ?  
 
-    PHILONOE’
+    PHILONOÉ
 Hélas ! c'est moi : c'est le nom que je portois étant petite fille.
 
     BELLÉROPHON
@@ -664,20 +664,20 @@ Air 101. *Rossignolet du vert boccage.*
 Quoi ! je vous perds ma Fanchonnette !  
 Fatal revers !  
 
-    PHILONOE’
+    PHILONOÉ
 Bellerophon, je le répete,  
 Quoi je vous perds !  
 
     BELLÉROPHON
 Voilà, je vous l'avouë, un fort vilain contretems ; nous étions justement formés l'un pour l'autre, & nous aurions fait le plus joli couple du monde. Mais ma mignonne, croyez-moi, malgré tout cela…
 
-    PHILONOE’
+    PHILONOÉ
 Non, mon fils, n'y pensons plus.
 
     BELLÉROPHON
 Comment n'y pensons plus ? cela vous est bien aisé à dire.
 
-    PHILONOE’
+    PHILONOÉ
 Il le faut bien, puisque l'Oracle s'oppose à notre hymen.
 
     BELLÉROPHON
@@ -807,13 +807,13 @@ Il seroit encore en vie.
 
 
 ### SCENE XV
-LE ROY, PHILONOE'
+LE ROY, PHILONOÉ
 
 
     LE ROY
 Voilà bien des nouvelles, ma fille. Cet Oracle qui t'a tant fait pleurer est enfin éclairci ; Bellerophon est ce fils de Neptune qui t'étoit destiné ; ce Dieu nous l'a dit lui-même.
 
-    PHILONOE’
+    PHILONOÉ
 Mais, mon Pere, en verité je n'y comprends rien, comment cela s'est-il donc fait ?
 
     LE ROY
@@ -830,19 +830,19 @@ Comme on le fait en France.
 
 
 ### SCENE XVI
-StENOBE'E, LES SUSDITS
+StENOBÉE, LES SUSDITS
 
 
     LE ROY
 Mais voici Stenobée : vous venez apparemment, Madame, partager la joie publique ; sçavez-vous bien que Bellerophon est fils de Neptune, & qu'il a tué le Monstre ?
 
-    STENOBE’E
+    STENOBÉE
 Je ne sçais que trop.
 
     LE ROY
 Ah ! Cela vous fâche, parce que vous n'êtes pas des amis de Bellerophon.
 
-    STENOBE’E
+    STENOBÉE
 Air 105. *Trop d'Amour enfin.*
 Pour Bellerophon j'avois l'ame éprise  
 De la plus sensible ardeur,  
@@ -864,7 +864,7 @@ Air 65. *Va t'en voir s'ils viennent.*
 Que les Archers promptement  
 Devant nous l'amenent.  
 
-    STENOBE’E
+    STENOBÉE
 Puisqu'il s'est enfui, comment  
 Veux-tu qu'ils le prennent ?  
 Va-t'en voir s'ils viennent, Jean, &c.  
@@ -872,7 +872,7 @@ Va-t'en voir s'ils viennent, Jean, &c.
     LE ROY
 Hé bien scelerate tu vas payer pour lui.  
 
-    STENOBE’E
+    STENOBÉE
 Air 107. *Charmante Gabrielle.*
 Je ne crains point ta haine,  
 J'ai par précaution  
@@ -883,7 +883,7 @@ A ses effets.
 Oh ! l'excellent remede  
 Pour les forfaits.  
 
-    PHILONOE’
+    PHILONOÉ
 Air 108. *N'y a pas d'mal à ça.*
 Comme sa rage est forte !  
 Comme la voilà !  
@@ -905,7 +905,7 @@ Ah ! Seigneur, que ne vous devons-nous pas ?
     BELLEROPHON
 Ouf ! voilà un combat qui m'a bien donné de la peine. Vous sçavez sans doute que je suis le fils de Neptune ? il est inutile que Pallas vienne vous l'apprendre.
 
-    PHILONOE’
+    PHILONOÉ
 Quel bonheur ! mon cher Bellerophon.
 
     LE ROY
@@ -917,7 +917,7 @@ Je couronne votre flame.
 Non, remettons à demain,  
 Car j'ai mes raisons, Madame,  
 
-    PHILONOE’
+    PHILONOÉ
 Expliquez, expliquez-vous sans détour.  
 
     BELLÉROPHON

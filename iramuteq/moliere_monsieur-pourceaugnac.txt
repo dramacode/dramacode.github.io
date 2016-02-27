@@ -1,6 +1,6 @@
 
 
-**** *book_moliere_monsieur-pourceaugnac *id_a *date_1669 *creator_moliere
+**** *book_ *id_a *date_1669 *creator_moliere
 
 Prologue
 
@@ -38,7 +38,7 @@ Aimons-nous donc d'une ardeur éternelle.
 Quand deux cœurs s'aiment bien,
 Tout le reste n'est rien.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I01 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1669 *creator_moliere
 
 -*who_julie
 Mon Dieu, Éraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble ; et tout serait perdu, après la défense que l'on m'a faite.
@@ -84,7 +84,7 @@ Non, Pourceaugnac est une chose que je ne saurais supporter, et nous lui joueron
 -*who_eraste
 Voici notre subtil Napolitain, qui nous dira des nouvelles.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I02 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1669 *creator_moliere
 
 -*who_sbrigani
 Monsieur, votre Homme arrive, je l'ai vu à trois lieues d'ici, où a couché le Coche ; et dans la Cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par cœur.
@@ -159,7 +159,7 @@ Ma foi, voici notre Homme, songeons à nous.
 -*who_nerine
 Ah comme il est bâti !
 
-**** *book_moliere_monsieur-pourceaugnac *id_I03 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1669 *creator_moliere
 
 -*who_pourceaugnac
 Hé bien, quoi ? qu'est-ce ? qu'y a-t-il ?
@@ -363,7 +363,7 @@ Non, j'allais en chercher un.
 -*who_sbrigani
 Je serai bien aise d'être avec vous pour cela, et je connais tout ce Pays-ci.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I04 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1669 *creator_moliere
 
 -*who_eraste
 Ah qu'est-ce ci ! que vois-je !
@@ -628,7 +628,7 @@ Il a la mine d'être honnête Homme.
 -*who_eraste
 Ma foi, Monsieur de Pourceaugnac, nous vous en donnerons de toutes les façons ; les choses sont préparées, et je n'ai qu'à frapper.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I05 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1669 *creator_moliere
 
 -*who_eraste
 Je crois, Monsieur, que vous êtes le Médecin à qui l'on est venu parler de ma part.
@@ -688,7 +688,7 @@ Voilà des soins fort obligeants.
 -*who_apothicaire
 Le voici, le voici, le voici qui vient.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I06 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1669 *creator_moliere
 
 -*who_paysan
 Monsieur, il n'en peut plus, et il dit qu'il sent dans la tête les plus grandes douleurs du monde.
@@ -744,7 +744,7 @@ Le voici.
 -*who_medecin1
 La conjoncture est tout à fait heureuse, et j'ai ici un Ancien de mes Amis avec lequel je serai bien aise de consulter sa maladie.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I07 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1669 *creator_moliere
 
 -*who_eraste
 Une petite affaire m'est survenue, qui m'oblige à vous quitter ; mais voilà une Personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu'il lui sera possible.
@@ -789,7 +789,7 @@ Je vous prie de m'excuser, de l'incivilité que je commets.
 -*who_pourceaugnac
 Vous vous moquez, et c'est trop de grâce que vous me faites.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I08 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1669 *creator_moliere
 
 -*who_medecin1
 Ce m'est beaucoup d'honneur, Monsieur, d'être choisi pour vous rendre service.
@@ -924,14 +924,14 @@ Mon Père et ma Mère n'ont jamais voulu de remèdes, et ils sont morts tous deu
 Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé.
 Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accoisons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I09 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I09 *act_I *date_1669 *creator_moliere
 
 -*who_pourceaugnac
 Que Diable est-ce là ?
 Les Gens de ce Pays-ci sont-ils insensés ?
 Je n'ai jamais rien vu de tel, et je n'y comprends rien du tout.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I10 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I10 *act_I *date_1669 *creator_moliere
 
 -*who_musicien1_musicien2
 Bon di, bon di, bon di,
@@ -960,7 +960,7 @@ Pigliate del vino,
 E qualche volta un po po di tabac
 Alegramente, Monsu Pourceaugnac.
 
-**** *book_moliere_monsieur-pourceaugnac *id_I11 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I11 *act_I *date_1669 *creator_moliere
 
 -*who_apothicaire
 Monsieur, voici un petit remède, un petit remède, qu'il vous faut prendre, s'il vous plaît, s'il vous plaît.
@@ -998,7 +998,7 @@ Piglialo, piglialo, piglialo su.
 -*who_pourceaugnac
 Allez-vous-en au Diable.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II01 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1669 *creator_moliere
 
 -*who_medecin1
 Il a forcé tous les obstacles que j'avais mis ; et s'est dérobé aux remèdes que je commençais de lui faire.
@@ -1049,7 +1049,7 @@ Laissez-moi faire.
 -*who_sbrigani
 Je vais de mon côté dresser une autre batterie, et le Beau-père est aussi dupe que le Gendre.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II02 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1669 *creator_moliere
 
 -*who_medecin1
 Vous avez, Monsieur, un certain Monsieur de Pourceaugnac, qui doit épouser votre Fille.
@@ -1118,7 +1118,7 @@ Il n'importe, il me faut un Malade, et je prendrai qui je pourrai.
 Prenez qui vous voudrez, mais ce ne sera pas moi.
 Voyez un peu la belle raison.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II03 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1669 *creator_moliere
 
 -*who_sbrigani
 Montsir, avec le Vostre permissione, je suisse un Trancher Marchant Flamane, qui voudrait bienne vous temandair un petit nouvel.
@@ -1211,7 +1211,7 @@ Je le suis, Montsir, obliger plus que beaucoup du bon nouvel que Montsir m'avoir
 Cela ne va pas mal ; quittons notre ajustement de Flamand, pour songer à d'autres machines ; et tâchons de semer tant de soupçons et de division entre le Beau-père et le Gendre, que cela rompe le Mariage prétendu.
 Tous deux également sont propres à gober les hameçons qu'on leur veut tendre ; et entre nous autres Fourbes de la première Classe, nous ne faisons que nous jouer, lorsque nous trouvons un Gibier aussi facile que celui-là.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II04 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1669 *creator_moliere
 
 -*who_pourceaugnac
 Piglialo su, piglialo su, Signor Monsù.
@@ -1379,7 +1379,7 @@ Ce Vieillard-là ?
 -*who_sbrigani
 Oui, je me retire.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II05 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1669 *creator_moliere
 
 -*who_pourceaugnac
 Bonjour, Monsieur, bonjour.
@@ -1411,7 +1411,7 @@ Vous imaginez-vous, Monsieur Oronte, qu'un Homme comme moi soit si affamé de Fe
 -*who_oronte
 Vous imaginez-vous, Monsieur de Pourceaugnac, qu'une Fille comme la mienne soit si affamée de Mari ?
 
-**** *book_moliere_monsieur-pourceaugnac *id_II06 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1669 *creator_moliere
 
 -*who_julie
 On vient de me dire, mon Père, que Monsieur de Pourceaugnac est arrivé.
@@ -1536,7 +1536,7 @@ Quel Marchand Flamand ? quels Créanciers ? quelle Sentence obtenue contre moi
 -*who_oronte
 Vous savez bien ce que je veux dire.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II07 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II07 *act_II *date_1669 *creator_moliere
 
 -*who_lucette
 Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés.
@@ -1579,7 +1579,7 @@ Allez, vous êtes un méchant Homme.
 -*who_pourceaugnac
 Je ne connais rien à tout ceci.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II08 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II08 *act_II *date_1669 *creator_moliere
 
 -*who_nerine
 Ah je n'en pis plus, je sis toute essoflée.
@@ -1697,13 +1697,13 @@ Au secours, au secours, où fuirai-je ? je n'en puis plus.
 -*who_oronte
 Allez, vous ferez bien de le faire punir, et il mérite d'être pendu.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II09 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II09 *act_II *date_1669 *creator_moliere
 
 -*who_sbrigani
 Je conduis de l'œil toutes choses, et tout ceci ne va pas mal.
 Nous fatiguerons tant notre Provincial, qu'il faudra, ma foi, qu'il déguerpisse.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II10 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II10 *act_II *date_1669 *creator_moliere
 
 -*who_pourceaugnac
 Ah je suis assommé.
@@ -1766,7 +1766,7 @@ Je le veux, et vais vous conduire chez deux Hommes fort habiles ; mais j'ai aup
 -*who_pourceaugnac
 Qu'importe comme ils parlent, pourvu qu'ils me disent ce que je veux savoir.
 
-**** *book_moliere_monsieur-pourceaugnac *id_II11 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II11 *act_II *date_1669 *creator_moliere
 
 -*who_avocat1
 La polygamie est un cas,
@@ -1799,7 +1799,7 @@ Et l'affaire est sans embarras ;
 La polygamie est un cas,
 Est un cas pendable.
 
-**** *book_moliere_monsieur-pourceaugnac *id_III01 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1669 *creator_moliere
 
 -*who_sbrigani
 Oui, les choses s'acheminent où nous voulons : Et comme ses lumières sont fort petites, et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la Justice de ce Pays, et des apprêts qu'on faisait déjà pour sa mort, qu'il veut prendre la fuite ; et pour se dérober avec plus de facilité aux Gens que je lui ai dit qu'on avait mis pour l'arrêter aux Portes de la Ville, il s'est résolu à se déguiser, et le déguisement qu'il a pris est l'habit d'une Femme.
@@ -1828,7 +1828,7 @@ Cela va le mieux du monde.
 -*who_sbrigani
 Voici notre Demoiselle, allez vite, qu'il ne nous voie ensemble.
 
-**** *book_moliere_monsieur-pourceaugnac *id_III02 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1669 *creator_moliere
 
 -*who_sbrigani
 Pour moi, je ne crois pas qu'en cet état on puisse jamais vous connaître, et vous avez la mine comme cela, d'une Femme de condition.
@@ -1896,7 +1896,7 @@ Que deviendrai-je cependant ?
 Attendez-moi là.
 Je suis à vous dans un moment ; vous n'avez qu'à vous promener.
 
-**** *book_moliere_monsieur-pourceaugnac *id_III03 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1669 *creator_moliere
 
 -*who_suisse1
 Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l'a esté contané par Ortonnance à l'être pendu par son cou.
@@ -1980,7 +1980,7 @@ Toi l'avoir menty toi-même.
 -*who_pourceaugnac
 Au secours, à la force.
 
-**** *book_moliere_monsieur-pourceaugnac *id_III04 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1669 *creator_moliere
 
 -*who_exempt
 Qu'est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ?
@@ -2025,7 +2025,7 @@ Non, non : à votre mine, et à vos discours, il faut que vous soyez ce Monsieu
 -*who_pourceaugnac
 Hélas !
 
-**** *book_moliere_monsieur-pourceaugnac *id_III05 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1669 *creator_moliere
 
 -*who_sbrigani
 Ah Ciel ! que veut dire cela ?
@@ -2103,7 +2103,7 @@ Que le Ciel te conduise !
 Par ma foi, voilà une grande dupe.
 Mais voici…
 
-**** *book_moliere_monsieur-pourceaugnac *id_III06 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1669 *creator_moliere
 
 -*who_sbrigani
 Ah ! quelle étrange aventure ! quelle fâcheuse nouvelle pour un Père !
@@ -2127,7 +2127,7 @@ Oui ; elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'o
 Allons vite à la Justice.
 Des Archers après eux.
 
-**** *book_moliere_monsieur-pourceaugnac *id_III07 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1669 *creator_moliere
 
 -*who_eraste
 Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre Père.

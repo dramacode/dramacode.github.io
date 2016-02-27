@@ -66,7 +66,7 @@ Tarquin estant au siege d'Ardee invite les Romains à seconder⁎ ses mouvements
 Sexte consent à regret, toutefois se ressouvenant que c'êtoit une occasion pour voir Lucresse qu'il aymoit infiniment, il se propose mille plaisirs, et dés l'heure rend Maxime confident de cette amour malgré tous les sentimens que l'honneur⁎ et le devoir luy pouvoient inspirer.
 Dans ce siege Colatin ayant appris des nouvelles de Lucresse par Misene leur serviteur, renvoye ce mesme Messager pour asseurer Lucresse qu'ils emportoient sur les ennemis tout autant qu'ils en pouvoient souhaiter, et beaucoup plus qu'ils n'en avoient esperé au commencement.
 
-**** *book_ *id_body-6-1 *act_acte1 *date_1637 *creator_chevreau
+**** *book_ *id_acte101 *act_acte1 *date_1637 *creator_chevreau
 
 -*who_tarquin
 Et bien, confessez donc qu'aujourd'huy ma valeur⁎
@@ -174,7 +174,7 @@ Qu'ils sçavent offenser ; mais qu'on sçait bien punir ;
 Souffrir⁎ nos ennemis !
 
 -*who_tarquin
-Sexte, il faut avoüer
+      Sexte, il faut avoüer
 Que vous avez un cœur⁎ qu'un chacun doit loüer.
 On sçait que vos exploits forcent⁎ la Renommée
 De porter vostre nom plus loing que cette armée ;
@@ -213,7 +213,7 @@ Qu'on m'oste du combat pour m'en oster la gloire⁎ ?
 Vous me rendrez confus quand vous resisterez,
 Mais courez sans répondre et vous m'obligerez⁎.
 
-**** *book_ *id_body-6-2 *act_acte1 *date_1637 *creator_chevreau
+**** *book_ *id_acte102 *act_acte1 *date_1637 *creator_chevreau
 
 -*who_sexte
 Quoy, Maxime, le Roy seroit-il en colere ?
@@ -377,7 +377,7 @@ Ah ! que cette victoire est d'une longue peine,
 « Ils sont sujets aux maux qu'on vous peut reprocher,
 « Leur ame⁎ est comme une autre, et leur corps est de chair.
 
-**** *book_ *id_body-6-3 *act_acte1 *date_1637 *creator_chevreau
+**** *book_ *id_acte103 *act_acte1 *date_1637 *creator_chevreau
 
 -*who_colatin
 Misene retournez, et dites à Lucresse
@@ -385,7 +385,7 @@ Qu'elle a trop de sujet de banir sa tristesse⁎.
 Est-elle à Colatie ?
 
 -*who_misene
-Elle y fait son séjour.
+      Elle y fait son séjour.
 
 -*who_colatin
 Elle en pourroit partir si j'estois de retour ?
@@ -412,7 +412,7 @@ Sexte entretient⁎ Maxime de la violence de sa passion, et quelque difficulté 
 Cependant qu'ils sont à contester, Tullie arrive, que Sexte entretient⁎ du succez des armes de Tarquin ; ce qui luy oste la peur qu'elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune.
 Lucresse apres avoir veu Misene, raconte à Cecilie un songe dont elle n'attend rien de bon : et commence à en espreuver l'éfet par la fausse nouvelle de la mort de son mary, que Maxime tasche de rendre veritable, pour l'assujettir par ce moyen plus facilement aux volontez de Sexte.
 
-**** *book_ *id_body-8-1 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte201 *act_acte2 *date_1637 *creator_chevreau
 
 -*who_sexte
 Use de cent raisons pour deffendre à mes sens
@@ -494,7 +494,7 @@ Et prenons celle-cy pour visiter la Reine.
 Maxime qu'à propos elle s'en vient icy,
 Mon discours va bien-tost la tirer de soucy.
 
-**** *book_ *id_body-8-2 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte202 *act_acte2 *date_1637 *creator_chevreau
 
 -*who_tullie
 Ah ! Mon fils, que mon cœur estoit dans la contrainte,
@@ -664,7 +664,7 @@ Et dans un tel dessein⁎ que le monde contemple.
 Mais qu'il est mal-aysé de servir les Romains !
 « Et qu'un Sceptre parfois est pesant dans les mains !
 
-**** *book_ *id_body-8-3 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte203 *act_acte2 *date_1637 *creator_chevreau
 
 -*who_lucresse
 Comment l'as-tu pû voir au milieu de l'armée ?
@@ -712,7 +712,7 @@ Fait naistre en mesme temps et l'enuie⁎, et l'amour,
 Et qu'apres ce combat…
 
 -*who_lucresse
-Ma chere Cecilie,
+      Ma chere Cecilie,
 « On ne se peut aymer dans sa melancolie.
 Helas une beauté dans l'état où je suis
 Conserve rarement sa force⁎ et ses ennuis⁎ ;
@@ -765,7 +765,7 @@ Il m'a fallu de force⁎ accuser la nature.
 Mais comme justement Maxime vient à nous,
 Nous sçaurons si le sort⁎ nous est contraire ou dous.
 
-**** *book_ *id_body-8-4 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte204 *act_acte2 *date_1637 *creator_chevreau
 
 -*who_lucresse
 Si bien que nous jugeons par la fin de la guerre
@@ -779,7 +779,7 @@ La honte et le dépit avec le chastiment ?
 Toutefois Colatin…
 
 -*who_lucresse
-Quoi vous estes au port ?
+      Quoi vous estes au port ?
 Et je vous entretiens⁎ cependant qu'il est mort.
 
 -*who_maxime
@@ -801,7 +801,7 @@ Sexte le veut servir, bref ce triste⁎ rapport
 Qui vous doit affliger…
 
 -*who_lucresse
-Je voy bien qu'il est mort.
+      Je voy bien qu'il est mort.
 Ah ! pauvre Colatin, ta femme ne peut croire,
 Qu'un dessein⁎ de regner ait obscurcy ta gloire⁎.
 
@@ -840,7 +840,7 @@ Pendant ces intrigues, Tullie s'estant aperceuë de la tristesse, et de la resve
 Elles sortent neanmoins dans la resolution d'essayer toutes sortes de remedes pour connoistre cette maladie : et Tullie s'en remet sur Melixene qui ne tenoit pas pour impossible que la beauté de Lucresse eut touché le Prince.
 Dans ces entremises Tarquin apres avoir pris Ardée revient à Rome, et Colatin à Colatie et Sexte descouvrant sa damnable resolution viole Lucresse ; car n'ayant pû rien en tirer par les menasses, il crût ne devoir l'obtenir que par la force⁎.
 
-**** *book_ *id_body-10-1 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte301 *act_acte3 *date_1637 *creator_chevreau
 
 -*who_maxime
 Quand mesme Colatin reconnoitroit son crime,
@@ -928,7 +928,7 @@ Autrement vostre mal est loing de son remede ;
 C'est par ce moyen seul qu'il doit estre guery,
 Vous obligez⁎ un Prince, et sauvez un mary.
 
-**** *book_ *id_body-10-2 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte302 *act_acte3 *date_1637 *creator_chevreau
 
 -*who_lucresse
 Vous de qui la bonté console une affligée,
@@ -1008,7 +1008,7 @@ Qu'on ne peut eventer qu'avecque du regret.
 Conduisons-nous si bien apres l'avoir surprise
 Que pas un du logis ne rompe l'entreprise⁎.
 
-**** *book_ *id_body-10-3 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte303 *act_acte3 *date_1637 *creator_chevreau
 
 -*who_tullie
 Mais n'as-tu point connu que depuis son retour
@@ -1058,7 +1058,7 @@ Qu'on connoisse l'objet⁎ d'une flâme si forte :
 Et nous verrons apres !
 
 -*who_melixene
-À parler sainement,
+      À parler sainement,
 Je croy qu'on n'en peut faire un ferme jugement.
 Toutefois nous pouvons remarquer la plus belle,
 Et dire qu'il a droit de soûpirer⁎ pour elle,
@@ -1119,7 +1119,7 @@ Quelque fille qu'il ayme ou facile, ou severe,
 Et de quelque costé, que vienne son malheur,
 Il faut à tout le moins divertir sa douleur.
 
-**** *book_ *id_body-10-4 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte304 *act_acte3 *date_1637 *creator_chevreau
 
 -*who_tarquin
 Estes-vous satisfaits ? Ardée est-elle prise ?
@@ -1159,7 +1159,7 @@ Je vais à Colasie, adieu jusqu'à demain.
 C'est là que vous pourez finir vôtre tristesse⁎,
 Servez donc vôtre humeur⁎, et contentez Lucresse.
 
-**** *book_ *id_body-10-5 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau
 
 -*who_sexte
 Madame, Colatin n'a plus aucun souci,
@@ -1260,7 +1260,7 @@ Toute-fois ce moyen ne sçauroit m'attirer.
 N'importe !
 
 -*who_sexte
-J'en ay cent pour vous desesperer.
+      J'en ay cent pour vous desesperer.
 Mais vous resistez trop ; et j'ay trop d'inocence,
 Il se faut au besoin servir de violence.
 
@@ -1268,14 +1268,14 @@ Il se faut au besoin servir de violence.
 Hé sauvez mon honneur⁎.
 
 -*who_sexte
-Nous en viendrons à bout !
+      Nous en viendrons à bout !
 
 -*who_lucresse
 Que voulez vous de moy, puis que vous m'ôtez tout ?
 Au secours Cecilie…
 
 -*who_sexte
-Ah ! J'ay trop eu de crainte
+      Ah ! J'ay trop eu de crainte
 J'estime tout en vous, mais je hay vostre plainte.
 
 -*who_lucresse
@@ -1292,7 +1292,7 @@ Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mou
 Cependant qu'ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s'estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir.
 Ayant sçeu l'autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l'heure vont esmouvoir tout le peuple et Brute principalement, qui n'attendoit que l'occasion de s'exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.
 
-**** *book_ *id_body-12-1 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte401 *act_acte4 *date_1637 *creator_chevreau
 
 -*who_lucresse
 Et tu veux que je vive apres sa perfidie,
@@ -1395,13 +1395,13 @@ Madame qu'il demeure, et qu'il n'en sçache rien,
 Il apprendroit sa honte.
 
 -*who_lucresse
-O Dieux quel entretien⁎ !
+      O Dieux quel entretien⁎ !
 Une telle action seroit-elle impunie ?
 Colatin doit vanger ma douleur infinie.
 Ne m'en parle jamais !
 
 -*who_cecilie
-Je prevoy des mal-heur,
+      Je prevoy des mal-heur,
 Qui vous feront verser et du sang et des pleurs ;
 Sexte ne peut jamais eviter sa colere,
 Il ira le tuër dans les bras de son père
@@ -1426,7 +1426,7 @@ Mon bras me peut guerir, et le tien le retire.
 Fais ce que tu voudras, mais il faut que la mort
 Succede au desespoir que me livre le sort⁎.
 
-**** *book_ *id_body-12-2 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau
 
 -*who_maxime
 J'entendois vos debats, et je n'osois parétre,
@@ -1480,7 +1480,7 @@ C'est d'avoir eu de l'heur, et ne n'en avoir plus.
 Toutefois confessez.
 
 -*who_sexte
-Que j'ay failli sans doute ;
+      Que j'ay failli sans doute ;
 Mais confessez aussi que l'amour ne voit goute,
 Et que bien rarement on s'entretient⁎ des Dieux
 Quand un objet⁎ si beau se presente à nos yeux.
@@ -1507,7 +1507,7 @@ Personne apres cecy ne me condannera.
 Ne m'abandonne point dans ce danger visible,
 Et fais pour mon salut ce qui sera possible.
 
-**** *book_ *id_body-12-3 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte403 *act_acte4 *date_1637 *creator_chevreau
 
 -*who_misene
 Je n'en fais que sortir, je vous allois treuver,
@@ -1531,7 +1531,7 @@ On diroit que pas un ne la peut consoler.
 Je crains quelque accident.
 
 -*who_colatin
-Que viens-tu de me dire ?
+      Que viens-tu de me dire ?
 Dois-je le déchirer ou si je le doy lire ?
 S'il cache mon mal-heur, à quoy bon de le voir,
 Le puis-je déchirer s'il me fait le sçavoir ?
@@ -1633,7 +1633,7 @@ Il a forcé⁎Lucresse, et nous force⁎ à vous plaindre.
 Il a forcé⁎ Lucresse, et ce Prince brutal
 A contenté ses sens d'un plaisir si fatal ?
 
-**** *book_ *id_body-12-4 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte404 *act_acte4 *date_1637 *creator_chevreau
 
 -*who_lucretie
 Mon fils, quel nouveau bruit trouble nostre esperance ?
@@ -1657,7 +1657,7 @@ Le pouvez vous bien voir sans luy donner la mort ?
 Sexte a fait nos mal-heurs.
 
 -*who_lucretie
-Il faut tout entreprendre⁎,
+      Il faut tout entreprendre⁎,
 Viste ne craignons rien, tachons de nous defendre.
 Tel que soit le tyran qui nous ôte l'honneur⁎,
 Il se ressouvient trop de son premier honneur⁎.
@@ -1686,7 +1686,7 @@ Tullie ayant veu dans la passion du Prince, le commencement de son mal-heur, app
 L'éfet succede à la crainte ; car Lucretie, Colatin, Brute et quelques autres, donnent la fuitte à leur Roy, et chassent toute la race des Tarquins.
 Apres avoir contenté, leurs desirs, Colatin et Lucretie vont voir Lucresse, qui ne pouvant survivre à son deshonneur⁎, apres avoir prié Colatin de vanger son injure, tire secretement de son sein un poignard et se tüe voulant laisser par sa mort la mémoire de sa vie et de sa vertu⁎ aux nations les plus reculées.
 
-**** *book_ *id_body-14-1 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte501 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_tarquin
 Romains, c'est comme il faut honorer ma conqueste,
@@ -1720,7 +1720,7 @@ Mille pensers confus importunent ma joye.
 Je sçay bien comme il faut rabatre ton orgueil,
 Pren garde que ce char ne te soit un cercueil.
 
-**** *book_ *id_body-14-2 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_maxime
 Allez ne craignez rien ; tout vous sera prospere,
@@ -1734,7 +1734,7 @@ Seigneur pardonnez moy je viens me reconnetre.
 J'ay violé Lucresse.
 
 -*who_brute
-O Lâche suborneur !
+      O Lâche suborneur !
 Nous avons cent moiens pour finir ton bon-heur.
 Qu'une telle action demeurât impunie,
 Brute que tardes tu dans cette tyrannie ?
@@ -1825,7 +1825,7 @@ Sui moy dans ce mal-heur comme dans ma fortune⁎.
 N'importe, il faut tourner les malheurs en coutume, 
 Voions si nos douçeurs auront plus d'amertume.
 
-**** *book_ *id_body-14-3 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte503 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_tullie
 Je te l'avois bien-dit qu'il estoit amoureux⁎,
@@ -1873,7 +1873,7 @@ Et s'il nous veut aider ou bien s'il nous veut nuire.
 Les Dieux nous ayment trop pour changer notre sort⁎,
 Et les Dieux sont trop bons pour nous donner la mort.
 
-**** *book_ *id_body-14-4 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte504 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_tarquin
 Quoy vous me bannissez ? O Dieux quelle insolence !
@@ -1915,7 +1915,7 @@ S'ils sont loing de ces lieux comme de ta memoire.
 Poursuivons les Romains, c'est trop s'entretenir⁎ :
 Nous commençons fort bien, mais il faut mieux finir.
 
-**** *book_ *id_body-14-5 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_tarquin
 Quelles extremitez⁎ où la rage les porte,
@@ -1961,7 +1961,7 @@ Et votre seureté depend de mon pouvoir.
 Mais funeste malheur où mon ame⁎ est reduitte
 Toute ma seureté doit estre dans ma fuitte.
 
-**** *book_ *id_body-14-6 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte506 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_colatin
 Helas ! ce n'est pas tout ; l'Empereur est bani,
@@ -1975,7 +1975,7 @@ Que l'effet d'un grand crime est un grand repentir.
 Mais allons plus avant, et qu'une mort cruelle
 Acheve de toucher cette ame⁎ criminelle.
 
-**** *book_ *id_body-14-7 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte507 *act_acte5 *date_1637 *creator_chevreau
 
 -*who_lucresse
 Comment les puis-je voir sans mourir à leurs yeux ?

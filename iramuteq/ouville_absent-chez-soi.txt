@@ -12,7 +12,7 @@ Avril 1643.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-3-1 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-301 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 JE beny cette nuict qui me donne le bien
@@ -50,16 +50,16 @@ Je me repens bien donc d'estre si tost sortie.
 Rentrons.
 
 -*who_elize
-Je le veux bien.
+      Je le veux bien.
 
 -*who_diane
-Et toy demeure icy.
+      Et toy demeure icy.
 Attens-y mon carrosse.
 
 -*who_elize
-Et toy Pauline aussi.
+      Et toy Pauline aussi.
 
-**** *book_ *id_body-3-2 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-302 *act_ *date_1643 *creator_ouville
 
 -*who_pauline
 JE me réjoüys fort de voir que nos maistresses
@@ -107,28 +107,28 @@ Ils ne puissent sitost accomplir leurs plaisirs.
 Pourquoy ?
 
 -*who_pauline
-Parce qu'encor on n'en dit rien au pere.
+      Parce qu'encor on n'en dit rien au pere.
 
 -*who_julie
 Elle a son pere encor ?
 
 -*who_pauline
-Ouy, son pere & son frere,
+      Ouy, son pere & son frere,
 Un jeune Cavalier⁎.
 
 -*who_julie
-Mais dy moy, son Amant,
+      Mais dy moy, son Amant,
 Comment le nomme t'on ?
 
 -*who_pauline
-Son nom est Clorimant.
+      Son nom est Clorimant.
 
 -*who_julie
 Aurois tu point conceu quelque amoureuse flame,
 Pour quelqu'un de ses gens ?
 
 -*who_pauline
-Tu lis dedans mon ame,
+      Tu lis dedans mon ame,
 Les voyants tous les jours si fort se mignarder,
 Serions nous entre nous oysifs à regarder ?
 Ce que j'ayme est plaisant, & de si bonne grace,
@@ -151,7 +151,7 @@ Qu'elle ayme, & et dont elle est sans mentir adorée.
 Ton galand⁎ est à luy ?
 
 -*who_julie
-Si tu t'es déclarée,
+      Si tu t'es déclarée,
 N'aurois-je pas grand tort si je te celois rien ?
 Il est vray que je l'ayme, & qu'il me veut du bien,
 Le carosse est venu, j'advertis ma maitresse.
@@ -159,20 +159,20 @@ Le carosse est venu, j'advertis ma maitresse.
 -*who_pauline
 Elles viennent ensemble.
 
-**** *book_ *id_body-3-3 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-303 *act_ *date_1643 *creator_ouville
 
 -*who_diane
-Et bien quelle paresse !
+      Et bien quelle paresse !
 
 -*who_julie
 Il est venu Madame.
 
 -*who_diane
-Adieu je vous promets
+      Adieu je vous promets
 De l'envoyer chez vous.
 
 -*who_elize
-Croyez moy qu'à jamais,
+      Croyez moy qu'à jamais,
 Ce poinct m'obligera⁎ ; car je brusle d'envie
 De voir ce qui vous a la liberté ravie,
 Ce brave⁎ Cavalier⁎ que vous vantez si fort.
@@ -187,7 +187,7 @@ Faites-moy s'il vous plaist la faveur de m'aymer,
 Vous me l'avez promis.
 
 -*who_diane
-Je doy trop estimer
+      Je doy trop estimer
 L'honneur que je reçoy de vostre connoissance,
 Pour ne vous pas servir de toute ma puissance.
 
@@ -195,13 +195,13 @@ Pour ne vous pas servir de toute ma puissance.
 Pauline, allons.
 
 -*who_pauline
-Julie au moins souvienne toy
+      Julie au moins souvienne toy
 De ce que tu m'as dit.
 
 -*who_julie
-Repose-toy sur moy.
+      Repose-toy sur moy.
 
-**** *book_ *id_body-3-4 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-304 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 Vous vous estes, Monsieur, fait bien long-temps attendre.
@@ -224,7 +224,7 @@ Un œil si gratieux, un entretien si doux.
 Quels estoient vos discours ?
 
 -*who_diane
-Nous discourions de vous.
+      Nous discourions de vous.
 J'ay dit que vous estiez un Cavalier⁎ qui m'ayme,
 Et que j'estime autant aussi comme moy-mesme.
 J'ay peint vostre merite, & je vous ay vanté
@@ -244,13 +244,13 @@ Vous irez de ma part, & verrez ce que c'est.
 -*who_clitandre
 Entrons, je le veux bien, j'iray puis qu'il vous plaist.
 
-**** *book_ *id_body-3-5 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-305 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Bien que t'a-t-elle dit ?
 
 -*who_geraste
-Le Ciel vous est prospere,
+      Le Ciel vous est prospere,
 N'apprehendez plus rien, car son pere & son frere
 S'en vont tous deux aux champs, & sont prests à partir.
 Elle m'a commandé de vous en advertir.
@@ -267,11 +267,11 @@ Est-il dessous le Ciel un plus heureux Amant ?
 Tu dis qu'elle m'attend ?
 
 -*who_geraste
-Ouy, seule, & qui desire
+      Ouy, seule, & qui desire
 Vous parler à loisir.
 
 -*who_clorimant
-C'est le but où j'aspire.
+      C'est le but où j'aspire.
 Et qui rend à ce coup tous mes désirs contens :
 Mais allons de ce pas, ne perdons point de temps.
 
@@ -280,42 +280,42 @@ Ils sortent, je les voy sur le pas de la porte,
 Ils vous verront, Monsieur, cachez vous.
 
 -*who_clorimant
-Il n'importe.
+      Il n'importe.
 N'estant point cognu d'eux, puis-je pas sans soupçons
 Estre en la rue ?
 
 -*who_geraste
-Octave est un mauvais garçon,
+      Octave est un mauvais garçon,
 Que sçavons nous Monsieur, peut-estre qu'il nous guette.
 
-**** *book_ *id_body-3-6 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-306 *act_ *date_1643 *creator_ouville
 
 -*who_polemas
 Elize ne vient point !
 
 -*who_octave
-Elle est toute deffaitte,
+      Elle est toute deffaitte,
 Avec certain chagrin⁎.
 
 -*who_polemas
-Qui cause ce soucy⁎ ?
+      Qui cause ce soucy⁎ ?
 
 -*who_octave
 C'est d'avoir trop veillé.
 
 -*who_clorimant
-Retirons-nous d'icy.
+      Retirons-nous d'icy.
 Nous pourrions en ce lieu causer des jalousies.
 
 -*who_octave
 Mais qui vous meine aux champs ?
 
 -*who_polemas
-Certaines fantaisies⁎
+      Certaines fantaisies⁎
 Qui troublent mon repos.
 
 -*who_octave
-D'où vient cela Monsieur ?
+      D'où vient cela Monsieur ?
 
 -*who_polemas
 J'ay l'esprit agité pour l'amour de ta sœur.
@@ -353,7 +353,7 @@ Qui vous oblige donc à tenir ce langage ?
 Il fait bien en effet.
 
 -*who_polemas
-Non, non, Elize est sage.
+      Non, non, Elize est sage.
 Mais je souhaitterois qu'il fust en mon pouvoir
 Pour beaucoup de raisons de bien-tost la pourvoir⁎.
 Je ne crains pas pourtant, quoy qu'elle soit sans mere,
@@ -387,11 +387,11 @@ Quand j'avois resolu de vous parler du mien.
 Te veux-tu marier ?
 
 -*who_octave
-Avec vostre licence.
+      Avec vostre licence.
 Pourquoy ? n'est-il pas temps.
 
 -*who_polemas
-Et quelle est l'alliance
+      Et quelle est l'alliance
 Que tu nous veux donner ? je n'y contredy pas
 Si plutost que l'Amour, l'honneur guide tes pas.
 
@@ -403,13 +403,13 @@ C'est ce qui m'en plaist fort : mais quelle est ta Maistresse ?
 La cognois-je ?
 
 -*who_octave
-Fort bien.
+      Fort bien.
 
 -*who_polemas
-Dy donc.
+      Dy donc.
 
 -*who_octave
-Il est besoing
+      Il est besoing
 De prendre auparavant la chose de plus loing,
 Vous vous souvenez bien, au moins il me le semble,
 Que nous fusmes tous deux un jour souper ensemble
@@ -420,7 +420,7 @@ Vis à vis d'un objet⁎ qu'alors vous peustes voir.
 Seroit-ce bien Diane ?
 
 -*who_octave
-Ouy Monsieur, c'est la mesme,
+      Ouy Monsieur, c'est la mesme,
 C'est ce divin object⁎, cette beauté que j'ayme,
 Mais plutost que j'adore, & je jure, & promets
 Si vous le trouvez bon de l'aymer à jamais.
@@ -499,7 +499,7 @@ Si l'Amour est plus fort que n'est l'obeyssance,
 Ou si l'obeyssance est maistresse d'Amour ;
 Ne tardons point, allons icy pres faire un tour.
 
-**** *book_ *id_body-3-7 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-307 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Je bruslois de desir dedans l'impatience
@@ -600,14 +600,14 @@ Va reposer une heure, & moy durant ce temps
 J'iray faire une affaire.
 
 -*who_elize
-Il est vray, je me sens
+      Il est vray, je me sens
 L'esprit tout assoupi. Va, mais ne tarde guere.
 
 -*who_geraste
 Sommes-nous pas d'accord ?
 
 -*who_pauline
-Parle donc à mon pere.
+      Parle donc à mon pere.
 Je n'oserois jamais sans son consentement,
 Quand je devrois mourir, recevoir un Amant.
 
@@ -620,14 +620,14 @@ Si tu ne veux soudain me mettre au desespoir.
 Va ne crains rien, & vien promptement me revoir.
 Fin du premier Acte
 
-**** *book_ *id_body-4-1 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-401 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Je me trompe, ou je voy Pauline dans la ruë ?
 Dy moy, que fais-tu là ?
 
 -*who_pauline
-Je suis icy venuë
+      Je suis icy venuë
 Expres pour vous attendre, elle est en grand soucy⁎
 Pourquoy vous tardez tant. Madame le voicy.
 
@@ -653,7 +653,7 @@ Madame, un Cavalier⁎ vous demande à la porte
 De la part de Diane.
 
 -*who_elize
-Ah je sçay bien que c'est.
+      Ah je sçay bien que c'est.
 Elle veut que je voye un Amant qui luy plaist,
 Qu'elle m'a fort loué, cache toy la derriere,
 De peur qu'il ne te voye, il ne tardera guere,
@@ -663,9 +663,9 @@ Il n'est pas à propos qu'il te rencontre icy.
 Je fais ce que tu veux.
 
 -*who_elize
-Et toy Geraste aussi.
+      Et toy Geraste aussi.
 
-**** *book_ *id_body-4-2 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-402 *act_ *date_1643 *creator_ouville
 
 -*who_clitandre
 Pardonnez-moy, je viens de la part d'une Dame
@@ -744,7 +744,7 @@ Puis que pour ce sujet je vous ay desjà dit
 L'estime que j'en fais.
 
 -*who_clitandre
-Je suis tout interdit⁎.
+      Je suis tout interdit⁎.
 J'ay les sens tout confus, permettez moy, Madame,
 Puis que vous possedez, & mon cœur, & mon Ame,
 Que je baise la main qui me donne la mort.
@@ -781,26 +781,26 @@ Laissez moy seule icy, retirez vous de grace.
 On appelle Madame.
 
 -*who_elize
-Ah grands Dieux qui sera-ce ?
+      Ah grands Dieux qui sera-ce ?
 
-**** *book_ *id_body-4-3 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-403 *act_ *date_1643 *creator_ouville
 
 -*who_elize
 Qu'on ouvre promptement.
 
 -*who_polemas
-Vous mocquez-vous de moy ?
+      Vous mocquez-vous de moy ?
 De me faire tarder. Mais qu'est-ce que je voy ?
 L'avois-je pas bien dit ?
 
 -*who_octave
-Souffrez⁎-vous cette injure ?
+      Souffrez⁎-vous cette injure ?
 
 -*who_clitandre
 Je suis perdu, grands Dieux !
 
 -*who_octave
-Un homme icy ! je jure.
+      Un homme icy ! je jure.
 
 -*who_polemas
 Octave arrestez-vous, laissez-moy ce soucy,
@@ -809,7 +809,7 @@ Parlez à moy, Monsieur, dites-moy quelle affaire
 Vous emmeine en ce lieu ?
 
 -*who_elize
-Grands Dieux je desespere.
+      Grands Dieux je desespere.
 
 -*who_clitandre
 J'estois venu Monsieur, de la part, arrivant ;
@@ -819,7 +819,7 @@ Mais moy, quand elle fut, je suis auparavant.
 Qu'attendez-vous Monsieur ?
 
 -*who_elize
-O fille mal-heureuse.
+      O fille mal-heureuse.
 
 -*who_polemas
 En pareils accidents⁎ la force est dangereuse,
@@ -827,7 +827,7 @@ Que faites vous icy ? Non n'ayez point de peur,
 Parlez sans vous troubler.
 
 -*who_clitandre
-Je vous jure Monsieur,
+      Je vous jure Monsieur,
 Croyez-moy s'il vous plaist, que jamais en ma vie,
 Je ne vous offençai, ny n'en ay point d'envie.
 
@@ -836,11 +836,11 @@ Laissons-là ce discours, c'est assez je vous crois,
 Que faites-vous icy ?
 
 -*who_clitandre
-C'est la premiere fois,
+      C'est la premiere fois,
 Ou je puisse perir.
 
 -*who_polemas
-Je sçay bien le contraire.
+      Je sçay bien le contraire.
 Ce n'est pas le moyen d'accommoder⁎ l'affaire,
 Si vous me déguisez ainsi la verité.
 
@@ -848,27 +848,27 @@ Si vous me déguisez ainsi la verité.
 Je vous la dy Monsieur.
 
 -*who_octave
-Ah quelle fausseté !
+      Ah quelle fausseté !
 
 -*who_polemas
 Croyez qu'on ne peut pas aysément me surprendre⁎ :
 Mais quel est vostre nom ?
 
 -*who_clitandre
-On m'appelle Clitandre.
+      On m'appelle Clitandre.
 
 -*who_polemas
 Le nom de vostre pere ?
 
 -*who_clitandre
-Il est mort.
+      Il est mort.
 
 -*who_polemas
-Mais comment
+      Mais comment
 Le nommoit-on ?
 
 -*who_clitandre
-Son nom estoit Theodomant.
+      Son nom estoit Theodomant.
 
 -*who_polemas
 Je l'ay cognu, c'estoit un homme de merite
@@ -877,33 +877,33 @@ A venir voir ma fille ? estes-vous engagé
 Sous les lois de l'Hymen ?
 
 -*who_clitandre
-Non.
+      Non.
 
 -*who_polemas
-Je l'ay bien jugé.
+      Je l'ay bien jugé.
 
 -*who_octave
 Pourquoy ces questions où la preuve est si claire ?
 A quoy bon ce discours ?
 
 -*who_polemas
-Tout beau⁎, laisse moy faire.
+      Tout beau⁎, laisse moy faire.
 Venez çà, sçavez-vous que ce logis est mien ?
 Et que je suis son pere ?
 
 -*who_clitandre
-Ouy je le sçay fort bien.
+      Ouy je le sçay fort bien.
 
 -*who_polemas
 Passez un peu deçà.
 
 -*who_clitandre
-Dieux soyez à mon ayde,
+      Dieux soyez à mon ayde,
 Il faut perir icy, la chose est sans remede,
 Ou souffrir⁎ un affront.
 
 -*who_elize
-J'ay le cœur tout transi⁎.
+      J'ay le cœur tout transi⁎.
 
 -*who_polemas
 Elize respons moy, quel est cét homme icy ?
@@ -912,15 +912,15 @@ Elize respons moy, quel est cét homme icy ?
 Celuy qu'il vous a dit.
 
 -*who_polemas
-Mais dy moy qui l'engage
+      Mais dy moy qui l'engage
 A te venir chercher ?
 
 -*who_elize
-Il m'apporte un message
+      Il m'apporte un message
 De Diane qu'il sert.
 
 -*who_octave
-Ah Monsieur en effet
+      Ah Monsieur en effet
 C'est mon rival qui sert cét adorable objet⁎
 Dont je vous ay parlé faictes que tout à l'heure⁎
 Il espouse ma sœur ou souffrez⁎ que je meure ;
@@ -1003,7 +1003,7 @@ Pourrez-vous à Diane ainsi manquer de foy⁎ ?
 -*who_clitandre
 Elle aura patience⁎ aussi bien comme moy.
 
-**** *book_ *id_body-4-4 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-404 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Ingrate & fiere⁎ Elize a mon ame agitée
@@ -1071,7 +1071,7 @@ Je te seray tousjours telle que je te suis.
 Elize te le jure.
 
 -*who_clorimant
-Ah non ce n'est point elle,
+      Ah non ce n'est point elle,
 Elize ne sçauroit jamais estre infidelle,
 Ou celle maintenant qui se presente à moy
 Est ingrate, parjure, inconstante⁎, & sans foy⁎.
@@ -1132,7 +1132,7 @@ Veux-tu m'accompagner, veux-tu suivre mes pas ?
 Dieux ! es-tu raisonnable ?
 
 -*who_clorimant
-Et pourquoy donc ingrate
+      Et pourquoy donc ingrate
 Veux-tu qu'en te croyant encore je me flate ?
 
 -*who_elize
@@ -1140,7 +1140,7 @@ Quel scandale grands Dieux ! que diroit-on de moy ?
 Pense à ce que tu dis.
 
 -*who_clorimant
-Ame lasche⁎ & sans foy⁎.
+      Ame lasche⁎ & sans foy⁎.
 Tu me dis que je pense & que je considere !
 En matiere d'Amour, celle qui delibere
 N'en a point, ou du moins s'il faut qu'elle en ait eu
@@ -1156,7 +1156,7 @@ Si le vent les emporte, il me faut des effets.
 Non je n'escoute plus.
 
 -*who_pauline
-Geraste que t'en semble ?
+      Geraste que t'en semble ?
 
 -*who_geraste
 Que je m'enfuy de toy, que nous partons ensemble,
@@ -1177,7 +1177,7 @@ Fait en cette action violence à soy-mesme.
 Je suis morte r'entrons, peut-estre un mot d'escrit
 Aura quelque pouvoir sur ce boüillant esprit.
 
-**** *book_ *id_body-4-5 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-405 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 Clitandre s'entretient long-temps avec Elize,
@@ -1195,9 +1195,9 @@ Qu'elle a, si l'on dit vray, mesme engagé sa foy⁎.
 J'oy du bruit, voy qui c'est.
 
 -*who_julie
-C'est Clitandre, Madame.
+      C'est Clitandre, Madame.
 
-**** *book_ *id_body-4-6 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-406 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 Qu'il est triste ? avez vous quelque trouble dans l'ame ?
@@ -1211,7 +1211,7 @@ De divers sentiments, je sens mon ame atteinte.
 Qui vous rend interdit⁎ & muët ?
 
 -*who_clitandre
-Une crainte.
+      Une crainte.
 
 -*who_diane
 Une crainte avec moy ? Dieux ! pour quel suject ?
@@ -1224,7 +1224,7 @@ Ouy, c'est pour cét object que je suis tout de flame.
 Comment vous souspirez.
 
 -*who_clitandre
-Je souspire, Madame.
+      Je souspire, Madame.
 
 -*who_diane
 Ouy mon cœur, est-ce moy qui vous fait souspirer ?
@@ -1242,19 +1242,19 @@ En cette occasion⁎, helas peussay-je l'estre !
 Encor d'où venez-vous, qu'avez-vous ?
 
 -*who_clitandre
-Je ne sçay,
+      Je ne sçay,
 Madame, je ne puis vous dire ce que j'ay,
 Je viens de veoir Elize.
 
 -*who_diane
-He bien quelle nouvelle ?
+      He bien quelle nouvelle ?
 Parlez-moy franchement, comment se porte t'elle ?
 
 -*who_clitandre
 Elle se porte bien.
 
 -*who_diane
-Dites-moy donc mon Cœur,
+      Dites-moy donc mon Cœur,
 D'où vous naist ce chagrin⁎, cette mauvaise humeur ?
 Vous a-t-elle pas dit combien je vous estime ?
 
@@ -1281,13 +1281,13 @@ Il m'a falu, grands Dieux, ce mot me desespere.
 Quoy donc ?
 
 -*who_clitandre
-Il m'a falu sur l'heure l'espouser.
+      Il m'a falu sur l'heure l'espouser.
 
 -*who_diane
 Que dites-vous grands Dieux ?
 
 -*who_clitandre
-Pouvois-je m'opposer
+      Pouvois-je m'opposer
 Avec si peu de force à tant de violence ?
 On n'a jamais parlé d'une telle insolence,
 Si j'eusse d'un seul mot resisté seulement,
@@ -1308,7 +1308,7 @@ M'estimez vous si simple, & l'esprit si mal sain
 Que je ne puisse pas penetrer ?
 
 -*who_clitandre
-C'est en vain.
+      C'est en vain.
 Vous me blasmez à tort, ouy je jure Madame
 Que vous n'avez point droict de soubçonner ma flame.
 Ce que j'ay fait n'est point par infidelité,
@@ -1331,7 +1331,7 @@ Je voy bien ce que c'est Elize m'a trahie,
 Adieu, perfide ingrat.
 
 -*who_clitandre
-Escoutez je vous prie.
+      Escoutez je vous prie.
 
 -*who_diane
 Que veux-tu que j'escoute, ame lasche⁎ & sans foy⁎ ?
@@ -1342,7 +1342,7 @@ Sors, & n'espere pas de me voir de ta vie.
 Elle part en cholere.
 
 -*who_clitandre
-Arreste-la Julie.
+      Arreste-la Julie.
 
 -*who_julie
 Je ne le puis. Ormin tu t'en repentiras.
@@ -1353,27 +1353,27 @@ Imite cét ingrat, comme luy cours au change⁎.
 Que ferons-nous Monsieur ?
 
 -*who_clitandre
-Mon Elize est un Ange :
+      Mon Elize est un Ange :
 Sortons, n'arrestons pas d'avantage en ce lieu.
 Allons revoir Élize. Adieu Diane, Adieu.
 Fin du second Acte
 
-**** *book_ *id_body-5-1 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-501 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Tout mon fait est-il prest ?
 
 -*who_geraste
-Monsieur vostre valize,
+      Monsieur vostre valize,
 Est en fort bon estat.
 
 -*who_clorimant
-Adieu perfide Elize,
+      Adieu perfide Elize,
 Je m'en vay de ce pas, je veux t'abandonner,
 Mes chevaux ?
 
 -*who_geraste
-Tout à l'heure⁎ on les doit emmener,
+      Tout à l'heure⁎ on les doit emmener,
 Mais pourrez-vous quitter cét objet⁎ plain de charmes
 Pour qui je vous ay veu respandre tant de larmes ?
 
@@ -1381,13 +1381,13 @@ Pour qui je vous ay veu respandre tant de larmes ?
 En doutes-tu Geraste ?
 
 -*who_geraste
-Oüy j'ay lieu d'en douter,
+      Oüy j'ay lieu d'en douter,
 Vous feignez de parler, & de vous absenter,
 Afin de luy donner un peu de jalousie,
 Vous n'irez pas bien loing.
 
 -*who_clorimant
-Dieux quelle frenaisie,
+      Dieux quelle frenaisie,
 Escoute, & si je ments, me punissent les Dieux.
 Un trait poussé de l'arc, un oyseau dans les Cieux,
 Ny l'esclair qui d'abord nous esbloüit la veuë
@@ -1415,7 +1415,7 @@ T'opposer au dessein d'un si juste voyage.
 Ne m'en parle donc plus.
 
 -*who_geraste
-J'ateste⁎ tous les Dieux
+      J'ateste⁎ tous les Dieux
 Que le moindre soûpir, deux larmes de ses yeux,
 Quatre mots de sa main escrits avec tendresse,
 Car je cognois assez quelle est vostre foiblesse,
@@ -1432,7 +1432,7 @@ Et vous pensez encor qu'elles songent à vous ?
 Dieux quelle extravagance !
 
 -*who_clorimant
-Ouvre, c'est elle-mesme.
+      Ouvre, c'est elle-mesme.
 
 -*who_geraste
 Me doutois-je pas bien qu'en cette ardeur⁎ extresme,
@@ -1444,7 +1444,7 @@ Est-ce pour ce subjet que vous faisiez le brave ?
 Ouvre, te dis-je.
 
 -*who_geraste
-Hé quoy ! vous faisiez tant du grave,
+      Hé quoy ! vous faisiez tant du grave,
 Des larmes de ses yeux, des lettres de ses mains,
 Des souspirs de sa bouche ! à quoy bon ces dédains ?
 
@@ -1455,10 +1455,10 @@ Veux-tu que tout de bon je me mette en colere !
 En colere ? pourquoy ! vous n'auriez guere à faire.
 Elle entre icy, Monsieur.
 
-**** *book_ *id_body-5-2 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-502 *act_ *date_1643 *creator_ouville
 
 -*who_pauline
-O le brave⁎ soldat !
+      O le brave⁎ soldat !
 
 -*who_geraste
 Quoy ? n'en vois-tu pas deux prests d'aller au combat ?
@@ -1472,7 +1472,7 @@ O Dieux qu'il est gentil, & qu'il a bonne mine,
 Où de grace allez-vous ?
 
 -*who_clorimant
-A la guerre, Pauline.
+      A la guerre, Pauline.
 
 -*who_pauline
 Que je ry de vous voir, que j'y prens de plaisir,
@@ -1487,7 +1487,7 @@ Mais Pauline que fais cette femme dy moy ?
 La nommez-vous ainsi ?
 
 -*who_clorimant
-Je fay ce que je doy.
+      Je fay ce que je doy.
 Dy moy comment veux-tu qu'à present je la nomme,
 Si l'on donne ce nom à qui possede un homme
 En qualité⁎ d'Espoux, elle est en ayant deux
@@ -1510,7 +1510,7 @@ Tu t'en dois asseurer. Mais dy moy qui t'emmeine ?
 Un papier que voicy.
 
 -*who_clorimant
-Quoy de cette inhumaine ?
+      Quoy de cette inhumaine ?
 Elle me contera sa nopce en cét escrit.
 
 -*who_pauline
@@ -1523,11 +1523,11 @@ Une lettre d'Elize est un venin pour moy.
 Reporte-là de grace.
 
 -*who_pauline
-Ah justes Dieux pourquoy ?
+      Ah justes Dieux pourquoy ?
 Voyez ce qu'elle escrit.
 
 -*who_clorimant
-Que me peut-elle dire ?
+      Que me peut-elle dire ?
 Bien pour l'amour de toy, Pauline, il la faut lire.
 LETTRE
 Pour avoir desiré garder l'obeyssance
@@ -1556,7 +1556,7 @@ Veut-elle derechef exciter mon courroux
 Par ce style outrageux ?
 
 -*who_pauline
-De quoy vous plaignez-vous ?
+      De quoy vous plaignez-vous ?
 
 -*who_clorimant
 Allegue-t'elle icy raison en sa deffence
@@ -1564,7 +1564,7 @@ Qui puisse d'un moment retarder mon absence ?
 Que je parle dit-elle ?
 
 -*who_pauline
-Ah vous avez grand tort.
+      Ah vous avez grand tort.
 D'où vous naist dites-moy ce furieux⁎ transport⁎ ?
 Voyez-vous pas assez qu'Elize vous adore ?
 
@@ -1573,7 +1573,7 @@ Que sous d'autre pouvoir elle n'est pas encore
 Me dit-elle l'ingrate.
 
 -*who_pauline
-Où songez vous grands Dieux ?
+      Où songez vous grands Dieux ?
 Relisez cét escrit, considerez-le mieux,
 Voyez qu'il est remply d'Amour & de tendresse.
 
@@ -1596,13 +1596,13 @@ Que ne tiens-je aussi bien la main qui l'a tracée.
 Ne respondrez-vous point ?
 
 -*who_clorimant
-Tay toy, sors de ce lieu,
+      Tay toy, sors de ce lieu,
 Ne me parle jamais de cette ingratte, Adieu.
 
 -*who_pauline
 Je reviendray tantost, vous estes en colere.
 
-**** *book_ *id_body-5-3 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-503 *act_ *date_1643 *creator_ouville
 
 -*who_geraste
 Vous avez tort, Monsieur, mais que pensez-vous faire ?
@@ -1617,7 +1617,7 @@ Quoy traistre en ma presence, oses-tu bien nommer
 Encor cette perfide ?
 
 -*who_geraste
-En cette ardeur⁎ extresme,
+      En cette ardeur⁎ extresme,
 Si vous n'estes, Monsieur, du tout hors de vous-mesme
 Vous parroissez avoir perdu le jugement⁎.
 Moderez-vous un peu, soyez moins vehement,
@@ -1633,23 +1633,23 @@ Que vous ne devez pas la condamner ainsi.
 Appelle-la, Geraste.
 
 -*who_geraste
-Elle est bien loin d'icy.
+      Elle est bien loin d'icy.
 
 -*who_clorimant
 Va promptement apres.
 
 -*who_geraste
-J'y cours Monsieur.
+      J'y cours Monsieur.
 
 -*who_clorimant
-Arreste,
+      Arreste,
 N'y va pas.
 
 -*who_geraste
-Bien Monsieur.
+      Bien Monsieur.
 
 -*who_clorimant
-L'action que j'ay faite
+      L'action que j'ay faite
 Monstre que j'ay du cœur en ayant resisté
 Au desir d'aller voir cette ingrate beauté.
 Mais pourray-je souffrir⁎ d'estre un moment sans elle.
@@ -1659,7 +1659,7 @@ Pauline n'est pas loing, cours apres & l'apelle.
 J'y vay Monsieur.
 
 -*who_clorimant
-Que dis-je, escoute n'en fais rien.
+      Que dis-je, escoute n'en fais rien.
 Vit-on jamais mal-heur qui fust esgal au mien ?
 La chose est resoluë, oüy sans plus de remise⁎,
 Il faut absolument que j'aille voir Elize.
@@ -1669,22 +1669,22 @@ La Cholere ne peut l'emporter sur l'Amour.
 Allons-y cette nuit.
 
 -*who_clorimant
-Non, non, j'yray de jour.
+      Non, non, j'yray de jour.
 
 -*who_geraste
 De jour, comment cela ?
 
 -*who_clorimant
-Ne t'en mets pas en peine.
+      Ne t'en mets pas en peine.
 Grands Dieux changez Elize, ou mon Amour en haine.
 
-**** *book_ *id_body-5-4 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-504 *act_ *date_1643 *creator_ouville
 
 -*who_ormin
 Vous estes tout pensif, qu'avez vous ?
 
 -*who_clitandre
-Je ne sçay.
+      Je ne sçay.
 L'alliance d'Elize où je me voy forcé
 Me met, lors que j'y pense, en grande inquietude.
 
@@ -1692,7 +1692,7 @@ Me met, lors que j'y pense, en grande inquietude.
 Vous la trouviez si belle.
 
 -*who_clitandre
-Ouy, mais n'est-il pas rude
+      Ouy, mais n'est-il pas rude
 Qu'en fait de mariage & d'inclination⁎
 On force un Cavalier⁎ de ma condition⁎ ?
 Vit-on jamais au monde une telle surprise ?
@@ -1739,7 +1739,7 @@ Pourray-je me sauver, & m'exempter de blasme ?
 Que dira-t'on de moy ?
 
 -*who_ormin
-Que vous avez pris femme
+      Que vous avez pris femme
 Parfaite, belle, & sage, & qui pourroit je croy,
 Je dy sans la flatter l'estre mesme d'un Roy.
 Si l'on vous a surpris, cette surprise est belle,
@@ -1758,10 +1758,10 @@ Je m'en vais appeler, mais faites que l'on voye
 Des marques sur ce front d'allegresse, & de joie.
 Tout est ouvert entrons.
 
-**** *book_ *id_body-5-5 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-505 *act_ *date_1643 *creator_ouville
 
 -*who_polemas
-Toute la Cour, Monsieur,
+      Toute la Cour, Monsieur,
 Ayant sçeu que de vous je reçois tant d'honneur,
 De desirer entrer dedans nostre famille,
 M'a fait des compliments⁎ : mais j'ay peur que ma fille
@@ -1792,24 +1792,24 @@ Je tiens quoy qu'il en soit, Clitandre pour mon gendre.
 J'y gagne seul, Monsieur.
 
 -*who_elize
-Et moy seule j'y perds.
+      Et moy seule j'y perds.
 
 -*who_clitandre
 Vous me mettrez aux Cieux.
 
 -*who_elize
-Et moy dans les Enfers.
+      Et moy dans les Enfers.
 
 -*who_polemas
 Des sieges promptement.
 
 -*who_octave
-Que j'ay l'ame ravie.
+      Que j'ay l'ame ravie.
 
 -*who_elize
 Grands Dieux, c'est à ce coup qu'on attente⁎ à ma vie.
 
-**** *book_ *id_body-5-6 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-506 *act_ *date_1643 *creator_ouville
 
 -*who_pauline
 Un Cavalier⁎ là bas vous demande, Monsieur.
@@ -1823,7 +1823,7 @@ Que toute la Cour sçait que le Ciel nous envoye.
 Il n'en faut point douter.
 
 -*who_clorimant
-Me trouvant fort pressé
+      Me trouvant fort pressé
 De faire un grand voyage où je me voy forcé.
 Ayant appris aussi qu'une importante affaire
 Vous tient tous assemblez, il n'est point necessaire
@@ -1846,21 +1846,21 @@ Que ce soit s'il luy plaist pour un siecle d'années.
 Dieux quelle effronterie !
 
 -*who_pauline
-Elle est au dernier point ;
+      Elle est au dernier point ;
 Madame est-il troublé ?
 
 -*who_elize
-Non non il ne l'est point.
+      Non non il ne l'est point.
 
 -*who_polemas
 Mes enfants respondez.
 
 -*who_clitandre
-Pour cét honneur extresme
+      Pour cét honneur extresme
 Je vous baise les mains⁎.
 
 -*who_elize
-Et moy j'en fais de mesme.
+      Et moy j'en fais de mesme.
 
 -*who_clorimant
 Pour ne vous tenir pas davantage en soucy,
@@ -1872,14 +1872,14 @@ Avant que de partir de recevoir le mien
 Qui me peze par trop.
 
 -*who_elize
-Ah ! cét homme Pauline
+      Ah ! cét homme Pauline
 Est venu pour me perdre ; hé Dieux il m'assassine.
 
 -*who_pauline
 Dissimulez un peu.
 
 -*who_elize
-Pauline je ne puis.
+      Pauline je ne puis.
 
 -*who_clorimant
 C'est de quoy j'ay besoing en l'estat où je suis.
@@ -1889,7 +1889,7 @@ Et vous ne voudrez pas, tant vous estes courtois⁎,
 Me refuser ce bien.
 
 -*who_polemas
-Il est vray qu'autre fois
+      Il est vray qu'autre fois
 Aysement j'eusse peû vous rendre ce service,
 Mais j'ay depuis dix ans quitté cét exercice,
 Et je suis fort marry de n'avoir point cét heur⁎.
@@ -1898,7 +1898,7 @@ Et je suis fort marry de n'avoir point cét heur⁎.
 Je suis trop mal-heureux.
 
 -*who_elize
-Si vous voulez, Monsieur,
+      Si vous voulez, Monsieur,
 Pour quelque peu de temps differer ce voyage
 Vous en pourrez trouver mesme avec advantage.
 
@@ -1920,7 +1920,7 @@ Est-ce ce Cavalier⁎ qui recherchoit Elize ?
 Ouy qui part de cholere.
 
 -*who_clitandre
-Ah ! qu'il l'ait j'y consens
+      Ah ! qu'il l'ait j'y consens
 Luy cédant de bon cœur le droit que j'y prétens.
 
 -*who_elize
@@ -1987,14 +1987,14 @@ La passion, Monsieur, en ce poinct vous emporte,
 Vous vous delorez trop.
 
 -*who_clitandre
-Nous nous entendons bien.
+      Nous nous entendons bien.
 
 -*who_clorimant
 Je ne veux pas, Messieurs, troubler vostre entretien,
 Je pren congé de vous.
 
 -*who_elize
-Ah Pauline je pasme !
+      Ah Pauline je pasme !
 
 -*who_pauline
 Vous vous delorez trop, moderez vous Madame.
@@ -2003,7 +2003,7 @@ Vous vous delorez trop, moderez vous Madame.
 Pauline je ne puis.
 
 -*who_polemas
-Je suis au desespoir !
+      Je suis au desespoir !
 En cette occasion⁎ que je n'ay le pouvoir
 De vous servir, Monsieur, comme je le souhaite.
 
@@ -2020,14 +2020,14 @@ Adieu, je ne veux pas arrester davantage.
 -*who_octave
 Puissiez-vous revenir en santé du voyage.
 
-**** *book_ *id_body-5-7 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-507 *act_ *date_1643 *creator_ouville
 
 -*who_polemas
 Ce Cavalier⁎ icy sans doute me prenoit
 Pour homme de trafic.
 
 -*who_clitandre
-C'est ce qui l'emmenoit.
+      C'est ce qui l'emmenoit.
 
 -*who_polemas
 Clorimant, dites-vous ? Est-ce ainsi qu'on le nomme ?
@@ -2036,7 +2036,7 @@ Clorimant, dites-vous ? Est-ce ainsi qu'on le nomme ?
 Ouy, Monsieur.
 
 -*who_polemas
-Il paroist fort brave⁎ Gentil-homme⁎.
+      Il paroist fort brave⁎ Gentil-homme⁎.
 Pour quelque peu de temps pourrois-je vous quitter ?
 
 -*who_octave
@@ -2045,14 +2045,14 @@ Pour pouvoir discourir avecque sa maistresse.
 Donnons-luy le loisir.
 
 -*who_polemas
-Bien Monsieur je vous laisse,
+      Bien Monsieur je vous laisse,
 Il est juste, & mon fils a fort bonne raison.
 Disposez comme estant enfant de la maison.
 
 -*who_clitandre
 Vous me rendez confus par cét honneur extresme.
 
-**** *book_ *id_body-5-8 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-508 *act_ *date_1643 *creator_ouville
 
 -*who_ormin
 Je ne sçaurois celer, Pauline, que je t'ayme.
@@ -2073,10 +2073,10 @@ Et sans trembler de peur peut-il me regarder ?
 S'il l'osoit je ferois.
 
 -*who_pauline
-Quoy ?
+      Quoy ?
 
 -*who_ormin
-Dieux je desespere,
+      Dieux je desespere,
 N'excite point de grace à ce point ma cholere,
 S'il s'oppose jamais au bien que je pretends !
 
@@ -2093,7 +2093,7 @@ Sont muets, si j'osois prendre la hardiesse
 Je les resveillerois.
 
 -*who_pauline
-Pourquoy ? tu le peux bien.
+      Pourquoy ? tu le peux bien.
 
 -*who_ormin
 Oserois-je Monsieur troubler vostre entretien ?
@@ -2120,10 +2120,10 @@ Je sors donc, & ce soir je vous verray, Madame.
 -*who_elize
 Faites ce qu'il vous plaist.
 
-**** *book_ *id_body-5-9 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-509 *act_ *date_1643 *creator_ouville
 
 -*who_elize
-Ah, Pauline, je pasme !
+      Ah, Pauline, je pasme !
 En cette occasion⁎, qui me peut consoler ?
 
 -*who_pauline
@@ -2132,7 +2132,7 @@ Et luy faire à l'abord un peu meilleure mine,
 Vous contraindre un moment.
 
 -*who_elize
-Je ne sçaurois Pauline.
+      Je ne sçaurois Pauline.
 Que ferois-je grands Dieux ? puis-je agir autrement ?
 Il faut bien que je meure en perdant Clorimant,
 Il s'absente ; à ce mot Dieux je perds la parole,
@@ -2179,7 +2179,7 @@ Mon pere, c'en est faict, pardonnez cette offence,
 Mon Amour est plus fort que mon obeïssance.
 Fin du troisiesme Acte
 
-**** *book_ *id_body-6-1 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-601 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Est-il dessous le Ciel un plus heureux Amant ?
@@ -2210,7 +2210,7 @@ Si pour l'Amour de moy tu veux quitter Pauline,
 Je quitte cét ingrat.
 
 -*who_geraste
-Mais ne faits pas la fine,
+      Mais ne faits pas la fine,
 Pour me quitter apres & te mocquer de moy ?
 
 -*who_julie
@@ -2227,22 +2227,22 @@ Va voir qui c'est, Julie, & reviens promptement.
 Madame, c'est Elize.
 
 -*who_clorimant
-Elize ?
+      Elize ?
 
 -*who_diane
-Ah ! Clorimant
+      Ah ! Clorimant
 Cachez-vous là dedans, il n'est pas raisonnable
 Qu'elle vous trouve icy.
 
 -*who_clorimant
-Se connoissant coulpable,
+      Se connoissant coulpable,
 Elle vient pour vous voir afin de s'excuser.
 
 -*who_diane
 Cachez-vous donc de grace.
 
 -*who_clorimant
-Il se faut exposer
+      Il se faut exposer
 Encor à cét affront ; car l'honneur m'y convie,
 Quoy que pour me cacher j'ay hazardé ma vie.
 Madame j'obeys, & je me cache icy.
@@ -2251,9 +2251,9 @@ Madame j'obeys, & je me cache icy.
 Que deviendray-je moy ?
 
 -*who_julie
-Va te cacher aussi.
+      Va te cacher aussi.
 
-**** *book_ *id_body-6-2 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-602 *act_ *date_1643 *creator_ouville
 
 -*who_elize
 Parce que vous avez juste subject de plainte,
@@ -2345,21 +2345,21 @@ As-tu dessein icy d'exciter mon courroux ?
 Considerez un peu.
 
 -*who_elize
-Moy que je considere ?
+      Moy que je considere ?
 Quoy ?
 
 -*who_pauline
-Madame escoutez sans vous mettre en cholere,
+      Madame escoutez sans vous mettre en cholere,
 Vostre honneur.
 
 -*who_elize
-Tes discours sont icy superflus.
+      Tes discours sont icy superflus.
 
 -*who_pauline
 Le respect.
 
 -*who_elize
-Je le perds, & je n'escoute plus.
+      Je le perds, & je n'escoute plus.
 Non, non, je veux mourir, si je ne le puis suivre,
 Car Clorimant absent Elize ne peut vivre.
 
@@ -2374,7 +2374,7 @@ Vois-tu mon heur⁎ present, & qu'Elize m'adore,
 Va laisse moy sortir.
 
 -*who_geraste
-Il n'est pas temps encore.
+      Il n'est pas temps encore.
 
 -*who_elize
 Je rentre maintenant en un gouffre d'ennuis,
@@ -2397,10 +2397,10 @@ Octave monte icy, Madame, avec Clitandre.
 Dieux il me faut cacher je ne m'en puis deffendre.
 Grands Dieux que faites vous ?
 
-**** *book_ *id_body-6-3 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-603 *act_ *date_1643 *creator_ouville
 
 -*who_octave
-En cette occasion⁎
+      En cette occasion⁎
 Il vous faut puissamment marquer ma passion,
 Dire que je l'adore, & que comme beau frere,
 Vous venez terminer cette importante affaire.
@@ -2449,13 +2449,13 @@ Avec un Cavalier⁎ qui n'est pas loing d'icy.
 Qu'on nomme ?
 
 -*who_diane
-Clorimant.
+      Clorimant.
 
 -*who_clitandre
-Quel Clorimant ?
+      Quel Clorimant ?
 
 -*who_octave
-J'expire.
+      J'expire.
 
 -*who_diane
 Vous cognoissez fort bien celuy que je veux dire.
@@ -2473,7 +2473,7 @@ Si vous avez dessein de me rendre jaloux
 Vous travaillez en vain.
 
 -*who_diane
-Qu'ai je affaire de vous ?
+      Qu'ai je affaire de vous ?
 N'esperez pas perfide, ame ingratte & volage,
 Que je vous puisse voir & souffrir⁎ davantage.
 J'abhore tout de vous, jusques à vostre nom,
@@ -2486,7 +2486,7 @@ Clorimant est party, Madame, je le jure.
 Il n'est rien de plus vray.
 
 -*who_diane
-Dieux l'estrange imposture !
+      Dieux l'estrange imposture !
 Sçachez que Clorimant n'est pas bien loing d'icy.
 
 -*who_octave
@@ -2514,21 +2514,21 @@ Sçauroit on jamais voir deux Amans plus honteux ?
 -*who_julie
 Vous les avez tuez d'un mesme coup tous deux.
 
-**** *book_ *id_body-6-4 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-604 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Justes Dieux quels dédains vous me faites paroistre,
 Qui vous oblige à fuyr ?
 
 -*who_elize
-Veux-tu me laisser traistre.
+      Veux-tu me laisser traistre.
 
 -*who_clorimant
 Considerez, mon Cœur, que de tous les Amans
 Je suis le plus fidelle.
 
 -*who_elize
-Ah perfide ! tu ments.
+      Ah perfide ! tu ments.
 Oses-tu bien, ingrat, me tenir ce langage ?
 
 -*who_clorimant
@@ -2559,7 +2559,7 @@ Avant qu'il soit une heure, il recevra ma foy⁎.
 Adieu perfide ingrat.
 
 -*who_clorimant
-Madame escoutez moy.
+      Madame escoutez moy.
 
 -*who_elize
 Que veux tu que j'escoute esprit lasche⁎ & volage ?
@@ -2582,7 +2582,7 @@ D'une si detestable & noire trahison ?
 Puis que je t'ay trouvé caché dans sa maison.
 Je ne te veux ny voir ny parler de ma vie.
 
-**** *book_ *id_body-6-5 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-605 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Acheve-moy cruelle, assouvy ton envie.
@@ -2592,7 +2592,7 @@ Madame permettez que je suive ses pas.
 Escoutez Clorimant.
 
 -*who_clorimant
-Non je ne le puis pas.
+      Non je ne le puis pas.
 Madame il faut mourir, ou fleschir ma cruelle.
 
 -*who_julie
@@ -2600,10 +2600,10 @@ Geraste que dis-tu ? veux-tu m'estre infidelle ?
 Veux-tu comme ton maistre estre ingrat.
 
 -*who_geraste
-Laisse moy.
+      Laisse moy.
 Je veux suivre Pauline & luy garder la foy⁎.
 
-**** *book_ *id_body-6-6 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-606 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 Que dis-tu de cela ? vois-tu comme on nous traitte ?
@@ -2617,7 +2617,7 @@ Clitandre est à mes yeux encore plus charmant.
 J'auray pour son subject tousjours mesme tendresse,
 Quoy qu'inconstant⁎ pourveu qu'Elize me le laisse.
 
-**** *book_ *id_body-6-7 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-607 *act_ *date_1643 *creator_ouville
 
 -*who_ormin
 Pensez y mieux Monsieur, pourquoy desirez vous
@@ -2635,11 +2635,11 @@ Et je veux si je puis tascher à le dissoudre.
 Comment le pourrez vous ?
 
 -*who_clitandre
-Je leur veux demander
+      Je leur veux demander
 Plus qu'ils ne m'ont promis.
 
 -*who_ormin
-C'est mal y proceder.
+      C'est mal y proceder.
 Cette action Monsieur n'est point d'un honneste homme,
 Vous ne leur avez point demandé d'autre somme
 Avant que de conclure, & maintenant pourquoy
@@ -2647,7 +2647,7 @@ Sans raison voulez-vous desgager⁎ vostre foy⁎ ?
 Que dira-t'on de vous ?
 
 -*who_clitandre
-Tout ce qu'on voudra dire,
+      Tout ce qu'on voudra dire,
 J'ay fait presentement dessein de leur escrire
 Que je suis resolu de ne l'espouser pas,
 Si l'on n'adjouste encor quatre mille ducats
@@ -2683,18 +2683,18 @@ Allons soupper devant retirons-nous sans bruit.
 -*who_ormin
 C'est fort bien dit Monsieur, je vais à la cuisine.
 
-**** *book_ *id_body-6-8 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-608 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Geraste escoute un mot, dis-tu pas que Pauline
 Te veut entretenir cette nuit ?
 
 -*who_geraste
-Ouy Monsieur,
+      Ouy Monsieur,
 Mais j'y dois aller seul.
 
 -*who_clorimant
-Que t'importe, as-tu peur ?
+      Que t'importe, as-tu peur ?
 
 -*who_geraste
 Ouy, car facilement on vous pourroit cognoistre,
@@ -2710,7 +2710,7 @@ Mais ce que vous voulez ne sçaurois-je luy dire.
 -*who_clorimant
 Comme moy tu ne peux exprimer mon martire⁎.
 
-**** *book_ *id_body-6-9 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-609 *act_ *date_1643 *creator_ouville
 
 -*who_elize
 Geraste doit-il pas te venir voir icy ?
@@ -2725,12 +2725,12 @@ Retire toy ; je veux luy parler en ta place.
 Luy diray-je pas bien ?
 
 -*who_elize
-Tu n'auras pas la grace
+      Tu n'auras pas la grace
 D'exprimer ce que j'ay dans l'ame, cache toy.
 Est-ce pas toy Geraste ?
 
 -*who_clorimant
-Ouy Pauline, c'est moy :
+      Ouy Pauline, c'est moy :
 C'est Elize à la voix je l'ay bien recognuë.
 
 -*who_elize
@@ -2780,12 +2780,12 @@ S'il la quittoit l'aymant ainsi comme tu dis.
 Il ne s'en ira point :
 
 -*who_clorimant
-Quoy Pauline es-tu folle
+      Quoy Pauline es-tu folle
 Il ne s'en ira point ? non, car croy moy qu'il volle.
 Il est bien loing d'icy.
 
 -*who_elize
-Te mocques-tu de moy ?
+      Te mocques-tu de moy ?
 
 -*who_clorimant
 Mais te suis-je suspect, doutes-tu de ma foy⁎ ?
@@ -2798,7 +2798,7 @@ Il me laisse en ce lieu pour un certain affaire
 Qu'il m'a recommandé.
 
 -*who_elize
-Ah Dieux ! comme aysément
+      Ah Dieux ! comme aysément
 En cette occasion⁎ j'abuse⁎ Clorimant.
 Et luy tout au rebours croit de m'avoir trompée.
 
@@ -2814,31 +2814,31 @@ Si ta maistresse veut luy mander quelque chose
 Au moins sçache-le d'elle ?
 
 -*who_elize
-Ah Geraste je n'ose,
+      Ah Geraste je n'ose,
 Elle s'en veut deffaire & le laisser aller,
 Elle ne veut jamais le voir n'y luy parler.
 Quoy demain sans faillir elle espouse Clitandre.
 La chose est resoluë.
 
 -*who_clorimant
-Ah que viens-je d'entendre ?
+      Ah que viens-je d'entendre ?
 Elle espouse Clitandre ? est-il dessous les Cieux
 Homme plus miserable ; oze-t'elle à mes yeux,
 Commettre cette lasche⁎ & noire perfidie ?
 Dy luy.
 
 -*who_elize
-Que veux-tu donc encor que je luy die ?
+      Que veux-tu donc encor que je luy die ?
 
 -*who_clorimant
 Qu'elle trahit, Pauline, un tres-fidelle Amant
 Qu'elle est …
 
 -*who_elize
-Tout beau⁎ Geraste.
+      Tout beau⁎ Geraste.
 
 -*who_clorimant
-Ah je suis Clorimant,
+      Ah je suis Clorimant,
 Que la perfide Elize à sa fureur immole.
 
 -*who_elize
@@ -2856,7 +2856,7 @@ Qu'il n'est rien plus volage & plus inconstant⁎ qu'elle,
 Qu'elle est une perfide une …
 
 -*who_elize
-Tout beau⁎ c'est moy.
+      Tout beau⁎ c'est moy.
 
 -*who_clorimant
 Je te cognoissois bien, ame ingratte & sans foy⁎,
@@ -2869,25 +2869,25 @@ Tien voilà tes escrits que j'immole à ma rage
 Tes cheveux, ton pourtraict.
 
 -*who_geraste
-Monsieur que faites vous ?
+      Monsieur que faites vous ?
 
 -*who_clorimant
 Pourquoy me retiens tu ?
 
 -*who_geraste
-Moderez ce courroux,
+      Moderez ce courroux,
 Et ne les rompez pas, apres cette cholere
 Vous mourriez de regret.
 
 -*who_clorimant
-Quand je le considere
+      Quand je le considere
 Tu dis vray, mais as-tu quelques papiers sur toy.
 
 -*who_geraste
 J'ay des cartes, Monsieur.
 
 -*who_clorimant
-Bon, bon, donne les moy.
+      Bon, bon, donne les moy.
 Tien je romps le pourtraict de cette ingratte Dame,
 Que je veux encor mieux effacer de mon ame.
 Et ces escrits tesmoings de ses legeretez,
@@ -2918,7 +2918,7 @@ Tes escrits, tes rubans, tes indignes cheveux,
 Et je vay dans le vin esteindre tous mes feux⁎.
 Tu t'en repentiras, je jure aussi bien qu'elle.
 
-**** *book_ *id_body-6-10 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-610 *act_ *date_1643 *creator_ouville
 
 -*who_elize
 Il est le seul coupable & me fait criminelle.
@@ -2927,7 +2927,7 @@ Il est le seul coupable & me fait criminelle.
 Ils sont partis Madame.
 
 -*who_elize
-Ah si je ne sçavois
+      Ah si je ne sçavois
 Que ce n'est pas, Pauline, icy la seule fois
 Qu'il fait le furieux, qu'il part & qu'il demeure,
 Je croy qu'assurément je mourrois tout à l'heure⁎.
@@ -2945,7 +2945,7 @@ Dont pourtant on ne voit jamais tomber la pluye.
 Ah ! Pauline, je crains.
 
 -*who_pauline
-Ne craignez pas qu'il fuye.
+      Ne craignez pas qu'il fuye.
 
 -*who_elize
 Mais il vient à mes yeux de rompre mes escrits,
@@ -2965,7 +2965,7 @@ Ils pourroient aysément estre veus de mon pere.
 Bien Madame, j'y vay.
 
 -*who_elize
-En l'estat où je suis,
+      En l'estat où je suis,
 Grands Dieux retirez moy de ce gouffre d'ennuis.
 
 -*who_elize
@@ -2973,56 +2973,56 @@ Est-il possible, ô Dieux ! qu'il m'ait fait cette injure,
 Ramasse ces papiers.
 
 -*who_pauline
-Des papiers je vous jure
+      Des papiers je vous jure
 Que je n'en voy pas un.
 
 -*who_elize
-Qu'est-ce que je voy là ?
+      Qu'est-ce que je voy là ?
 
 -*who_pauline
 Une carte rompuë.
 
 -*who_elize
-Aporte.
+      Aporte.
 
 -*who_pauline
-Là voilà.
+      Là voilà.
 
 -*who_elize
 Que porte-t'elle ?
 
 -*who_pauline
-Rien.
+      Rien.
 
 -*who_elize
-Ah Pauline regarde.
+      Ah Pauline regarde.
 
 -*who_pauline
 Je voy bien ce que c'est.
 
 -*who_elize
-Quoy ?
+      Quoy ?
 
 -*who_pauline
-C'est la hallebarde
+      C'est la hallebarde
 Du Valet de carreau.
 
 -*who_elize
-Que dis-tu ?
+      Que dis-tu ?
 
 -*who_pauline
-Que voicy
+      Que voicy
 Le bas du Roy de trefle.
 
 -*who_elize
-Et l'autre ?
+      Et l'autre ?
 
 -*who_pauline
-C'est icy
+      C'est icy
 L'as de cœur.
 
 -*who_elize
-Vois-tu point quelque pourtrait, Pauline ?
+      Vois-tu point quelque pourtrait, Pauline ?
 
 -*who_pauline
 Ouy, je tiens une teste elle s'appelle Argine.
@@ -3039,7 +3039,7 @@ L'invention, Madame, est certes excellente.
 Monte, viens te coucher.
 
 -*who_pauline
-Me coucher ! il est jour.
+      Me coucher ! il est jour.
 
 -*who_elize
 Clorimant tu ne peux desmentir ton amour.
@@ -3047,7 +3047,7 @@ Va je ne te crains plus, & croy, quoy que tu faces,
 Qu'à present je me ry de toutes tes menaces.
 Fin du quatriesme Acte
 
-**** *book_ *id_body-7-1 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-701 *act_ *date_1643 *creator_ouville
 
 -*who_octave
 D'où vient que je vous voy, Monsieur si tost levé ?
@@ -3062,7 +3062,7 @@ Ce qu'il m'escrit que moy, lors que tu l'auras leu.
 Encore que mande-t'il ?
 
 -*who_polemas
-Je n'eusse jamais creu
+      Je n'eusse jamais creu
 Qu'un Cavalier⁎ d'honneur fust parjure ny lasche⁎,
 Et procedast si mal, mais ce qui plus m'en fasche⁎,
 Est que tout Paris sçait maintenant nostre accord.
@@ -3071,7 +3071,7 @@ Est que tout Paris sçait maintenant nostre accord.
 Sçauray-je point que c'est ?
 
 -*who_polemas
-Ah Clitandre a grand tort.
+      Ah Clitandre a grand tort.
 Allons trouver ta sœur, tu sçauras devant elle
 Le sujet qui me trouble, & me met en cervelle,
 Elle sera surprise aussi bien comme moy.
@@ -3081,7 +3081,7 @@ Il est un peu matin, & ma sœur que je croy
 Ne peut pas à cette heure estre encor esveillée.
 Mais la voicy qui sort, mesme toute habillée.
 
-**** *book_ *id_body-7-2 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-702 *act_ *date_1643 *creator_ouville
 
 -*who_polemas
 Ma fille quel sujet vous fait veiller ainsi ?
@@ -3090,7 +3090,7 @@ Ma fille quel sujet vous fait veiller ainsi ?
 Je ne sçaurois dormir.
 
 -*who_polemas
-Si c'est pour le soucy⁎
+      Si c'est pour le soucy⁎
 Que vous cause l'amour de vostre Espoux Clitandre,
 Ma fille je vous veux en trois mots faire entendre
 Que vous n'y pensiez plus. Voyez ce qu'il m'escrit.
@@ -3100,7 +3100,7 @@ N'importe cét amour trouble peu mon esprit.
 Mais encor que dit-il ?
 
 -*who_polemas
-Sçachez que cét infame⁎
+      Sçachez que cét infame⁎
 Plus amoureux cent fois des biens que d'une femme
 Vous veut bien espouser, mais à condition
 (Voyez jusqu'à quel poinct monte sa passion,
@@ -3109,7 +3109,7 @@ Qu'il veut avoir de plus, que la somme promise,
 Quatre mille ducats.
 
 -*who_elize
-Grands Dieux que dites-vous ?
+      Grands Dieux que dites-vous ?
 
 -*who_polemas
 C'est ce que par ce mot me mande vostre Espoux.
@@ -3122,7 +3122,7 @@ De mesme perfidie & d'aussi lasches⁎ tours.
 On me l'avoit bien dit.
 
 -*who_polemas
-Voilà comme il vous ayme.
+      Voilà comme il vous ayme.
 
 -*who_elize
 Je ne le celle point, la surprise est extresme,
@@ -3164,16 +3164,16 @@ Vous ne pouvez, Monsieur, de ce point vous deffendre :
 Vostre honneur vous y force.
 
 -*who_polemas
-Il me faudroit donc vendre
+      Il me faudroit donc vendre
 Jusques à ma maison pour y pouvoir fournir.
 Où me tiendrois-je apres ?
 
 -*who_elize
-Vous vous pouvez tenir.
+      Vous vous pouvez tenir.
 Aysément avec moy.
 
 -*who_polemas
-Mais que dira ton frere ?
+      Mais que dira ton frere ?
 
 -*who_octave
 Ne laissez pas, Monsieur, de terminer l'affaire,
@@ -3189,7 +3189,7 @@ Si vous vous obligez⁎, qui nous rendra contens ;
 Cét homme a de l'argent.
 
 -*who_polemas
-Va, ne perds point de temps.
+      Va, ne perds point de temps.
 Puis va-t'en aussi-tost au logis de Clitandre,
 Dy luy que pour avoir l'heur⁎ de le voir mon gendre,
 J'ay fait tous mes efforts pour le rendre content,
@@ -3200,13 +3200,13 @@ Je m'en vay convier mes amis de ce pas,
 Fay qu'il vienne avec toy.
 
 -*who_octave
-Je n'y manqueray pas.
+      Je n'y manqueray pas.
 
 -*who_elize
 Puis que ta lascheté⁎ se fait ainsi paroistre,
 Amour fay qu'aujourd'huy je me vange du traistre.
 
-**** *book_ *id_body-7-3 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-703 *act_ *date_1643 *creator_ouville
 
 -*who_clitandre
 C'en est fait me voilà maintenant desgagé⁎,
@@ -3232,9 +3232,9 @@ La conduisent les Dieux ainsi que je souhaite.
 Entrons donc chez Diane.
 
 -*who_ormin
-Elle sort je la voy.
+      Elle sort je la voy.
 
-**** *book_ *id_body-7-4 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-704 *act_ *date_1643 *creator_ouville
 
 -*who_diane
 Que veut dire cela ? Clitandre entrer chez moy ?
@@ -3288,23 +3288,23 @@ Madame, au nom des Dieux calmez vostre colere,
 Accordez-moy ce poinct.
 
 -*who_diane
-Non, je ne le puis faire.
+      Non, je ne le puis faire.
 Je suis trop irritée.
 
 -*who_clitandre
-Et bien posons le cas
+      Et bien posons le cas
 Que j'aye justement merité le trespas,
 Demandant à genoux pardon de mon offence
 Ne l'obtiendray-je point ?
 
 -*who_diane
-Clitandre quand j'y pense
+      Clitandre quand j'y pense
 Je ne sçaurois pour tout endurer ces mespris.
 Mais si tu veux un peu remettre mes esprits,
 Dy moy du mal d'Elize.
 
 -*who_clitandre
-Ah justes Dieux ! Madame,
+      Ah justes Dieux ! Madame,
 Pourquoy desirez vous que j'endure le blasme
 Que l'on me donnera de la traitter ainsi.
 
@@ -3325,7 +3325,7 @@ Un objet de pitié, bien plustost que d'Amour.
 Je te pardonne tout.
 
 -*who_ormin
-Pour rentrer en ta grace,
+      Pour rentrer en ta grace,
 Dy moy ? qu'est-il besoin à present que je face ?
 
 -*who_julie
@@ -3370,7 +3370,7 @@ J'entens monter quelqu'un, Madame, c'est Octave.
 -*who_clitandre
 Il vient pour m'attaquer, il vient faire du brave.
 
-**** *book_ *id_body-7-5 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-705 *act_ *date_1643 *creator_ouville
 
 -*who_octave
 Comme je vous cherchois, quelqu'un m'a dit Monsieur,
@@ -3405,7 +3405,7 @@ Car ma sœur vous souhaitte avec impatience.
 Qu'en dites vous Madame ?
 
 -*who_diane
-Ah Dieux quelle impudence !
+      Ah Dieux quelle impudence !
 Osez vous sans rougir me tenir ce discours ?
 
 -*who_clitandre
@@ -3420,7 +3420,7 @@ Quoy que vous en pensiez, qui m'oblige à ce faire.
 Impudent imposteur.
 
 -*who_clitandre
-Vous estes en colere ;
+      Vous estes en colere ;
 Je souffre⁎ tout de vous, mais Madame escoutez,
 Car je ne diray mot si vous vous emportez.
 Dites moy, voulez vous qu'à present je viole
@@ -3434,7 +3434,7 @@ Vous estiez contre moy tous trois d'intelligence :
 Je vous entends fort bien :
 
 -*who_octave
-Madame au nom des Dieux
+      Madame au nom des Dieux
 Moderez ces transports⁎, & tournez ces beaux yeux
 Vers moy qui vous adore, & qui brusle d'envie
 De hazarder pour vous, & l'honneur & la vie.
@@ -3465,7 +3465,7 @@ Pourrois-je justement abandonner mon maistre ?
 -*who_julie
 Je n'attendois pas moins d'un perfide & d'un traistre.
 
-**** *book_ *id_body-7-6 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-706 *act_ *date_1643 *creator_ouville
 
 -*who_julie
 Encor que dites-vous de cette lascheté⁎ ?
@@ -3489,10 +3489,10 @@ Mais puis qu'il est absent, il n'y faut plus songer.
 Madame le voilà.
 
 -*who_diane
-Te mocques⁎ tu Julie ?
+      Te mocques⁎ tu Julie ?
 Ma joye est à present de tout point accomplie.
 
-**** *book_ *id_body-7-7 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-707 *act_ *date_1643 *creator_ouville
 
 -*who_julie
 Quoy vous estes icy Clorimant ? justes Dieux !
@@ -3526,7 +3526,7 @@ En dépit qu'il en eut a terminé l'affaire,
 Et dans une heure au plus Clitandre …
 
 -*who_clorimant
-Ah taisez vous.
+      Ah taisez vous.
 
 -*who_diane
 Sera n'en doutez point son legitime espoux.
@@ -3570,7 +3570,7 @@ Madame allons au temple ; & faisons devant eux
 Accomplir nostre hymen.
 
 -*who_diane
-Clorimant je le veux.
+      Clorimant je le veux.
 C'est ainsi que je veux me vanger de ce traistre.
 
 -*who_geraste
@@ -3585,7 +3585,7 @@ De m'aymer à jamais, & de m'estre fidelle.
 Ouy je te le promets.
 
 -*who_clorimant
-Dis à cette cruelle
+      Dis à cette cruelle
 Que je suis à Paris & ne l'ay point quitté.
 Qu'icy j'ay recognu son infidelité.
 Qu'elle espouze Clitandre, & dy qu'à son exemple,
@@ -3593,7 +3593,7 @@ Avecque mes parents à present dans le temple,
 Dessous les mesmes loix je m'en vay me ranger,
 Et me joindre à Diane afin de me vanger.
 
-**** *book_ *id_body-7-8 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-708 *act_ *date_1643 *creator_ouville
 
 -*who_polemas
 Des sieges promptement, sçachez mon cher Clitandre,
@@ -3619,11 +3619,11 @@ Quoy Geraste à Paris, hé que pense tu faire,
 Qui t'emmene en ces lieux ?
 
 -*who_geraste
-Pauline escoute icy
+      Pauline escoute icy
 Je te veux dire un mot.
 
 -*who_polemas
-Courage les voicy.
+      Courage les voicy.
 Messieurs nous n'attendions pas vostre compagnie,
 Afin d'authoriser cette ceremonie.
 
@@ -3631,7 +3631,7 @@ Afin d'authoriser cette ceremonie.
 Je vay trouver Elize, attend.
 
 -*who_polemas
-Assayons nous,
+      Assayons nous,
 Il ne manque plus rien nous sommes icy tous.
 
 -*who_pauline
@@ -3644,14 +3644,14 @@ Allons donc promptement, vous plaist-il pas Clitandre.
 J'en suis content.
 
 -*who_elize
-Monsieur avant que de jouir
+      Monsieur avant que de jouir
 De ce bien, faites moy la faveur de m'ouir.
 
 -*who_polemas
 Parlez je vous entends.
 
 -*who_elize
-Monsieur j'ay lieu de craindre
+      Monsieur j'ay lieu de craindre
 Que Clitandre à la fin n'ait subject de se plaindre :
 Car pour dire le vray vous n'aviez pas raison,
 Pour l'avoir rencontré dedans une maison,
@@ -3694,7 +3694,7 @@ De faire plus de cas des biens que d'une femme.
 Ah, Madame, est-ce ainsi ?
 
 -*who_elize
-Lasche⁎ retirez-vous.
+      Lasche⁎ retirez-vous.
 
 -*who_polemas
 Ma fille moderez ce violent courroux,
@@ -3707,15 +3707,15 @@ En la vertu que j'ay qu'en dix mille ducats.
 En fin c'est Clorimant.
 
 -*who_polemas
-Il est absent.
+      Il est absent.
 
 -*who_elize
-Mon pere,
+      Mon pere,
 Il n'est pas loing d'icy. Cours & ne tarde guere.
 Geraste appelle-le.
 
 -*who_geraste
-Bien Madame j'y cours.
+      Bien Madame j'y cours.
 
 -*who_clitandre
 Consentez-vous, Monsieur à de si lasches⁎ tours ?
@@ -3728,7 +3728,7 @@ Je luy souffre⁎ en ce cas d'agir comme il luy plaist.
 -*who_elize
 Je cherche mon repos, & vous vostre interest.
 
-**** *book_ *id_body-7-9 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-709 *act_ *date_1643 *creator_ouville
 
 -*who_clorimant
 Par vostre mandement je suis venu, Madame,
@@ -3755,7 +3755,7 @@ Si Monsieur m'eust parlé plustost, j'eusse sur l'heure
 Terminé cette affaire.
 
 -*who_clitandre
-Ah Clorimant ! je meure
+      Ah Clorimant ! je meure
 Si je suis de vostre heur⁎ aucunement jaloux.
 Diane je veux estre aujourd'huy vostre Espoux,
 Je rentre dans vos fers, & j'abandonne Elize.
@@ -3767,7 +3767,7 @@ Je ne veux point de vous, Monsieur, je suis promise.
 À qui ?
 
 -*who_diane
-Ce Cavalier⁎ n'est pas bien loing d'icy.
+      Ce Cavalier⁎ n'est pas bien loing d'icy.
 
 -*who_clitandre
 Madame resvez-vous ? me raillez vous ainsi ?
@@ -3777,7 +3777,7 @@ Je ne vous raille point, Monsieur. Parlez Octave
 M'estimez vous encor ?
 
 -*who_octave
-Dieux je suis vostre esclave.
+      Dieux je suis vostre esclave.
 
 -*who_diane
 Monsieur je suis à vous, & vous donne la main.
@@ -3807,7 +3807,7 @@ Monsieur voulez vous pas nous marier ensemble,
 Pauline & moy j'entends.
 
 -*who_clorimant
-Ouy Geraste je veux
+      Ouy Geraste je veux
 Aussi bien que les miens esteindre tous tes feux⁎.
 
 -*who_elize

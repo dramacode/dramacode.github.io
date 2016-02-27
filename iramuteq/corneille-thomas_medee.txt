@@ -137,7 +137,7 @@ Malgré tous leurs projets, seront enfin forcez
 De souffrir⁎ le repos⁎ qu'il veut donner au monde.
 Fin du Prologue.
 
-**** *book_ *id_body-4-1 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-401 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Pour flater mes ennuis⁎, que ne puis-je te croire !
@@ -209,7 +209,7 @@ Un couroux⁎ violent ne doit jamais parler.
 On perd la plus seure vangeance
 Si l'on ne sçait dissimuler.
 
-**** *book_ *id_body-4-2 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 D'où vous vient cét air sombre, & qu'allez-vous m'apprendre ?
@@ -227,7 +227,7 @@ La Princesse les doit retenir auprés d'elle.
 C'est estre genereuse.
 
 -*who_jason
-Elle me laisse voir
+      Elle me laisse voir
 Que nous pouvons esperer d'avantage.
 Sur son pere elle a tout pouvoir
 Et j'attens tout du zele où sa bonté l'engage.
@@ -249,17 +249,17 @@ C'est flater le penchant qui nous porte à l'aimer.
 Quoy vous me soupçonnez ?
 
 -*who_medee
-Jason doit me connaistre ;
+      Jason doit me connaistre ;
 Il me coûte assez cher pour ne le perdre pas.
 
 -*who_jason
 Ah ! que me dites-vous ?
 
 -*who_medee
-Ce que je crains.
+      Ce que je crains.
 
 -*who_jason
-Helas !
+      Helas !
 Que ne puis-je faire paroître
 Ce que mon cœur pour vous sera jusqu'au trépas !
 
@@ -298,7 +298,7 @@ Mais du ciel irrité quel que soit le couroux⁎,
 Songez que si je puis me repondre de vous,
 Je n'ay point à craindre sa haine.
 
-**** *book_ *id_body-4-3 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1693 *creator_corneille
 
 -*who_jason
 Que je serois heureux, si j'étais moins aimé !
@@ -353,7 +353,7 @@ Nos plus fiers⁎ ennemis trembleront devant nous.
 Disparoissez, inquietes alarmes⁎,
 Vaines terreurs, fuyez, éloignez-vous.
 
-**** *book_ *id_body-4-4 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 L'allegresse en ces lieux, ne peut estre plus grande…
@@ -361,7 +361,7 @@ Mon peuple voit Oronte, & son secours promis
 Doit étonner⁎ nos ennemis.
 Rendons luy les honneurs que son rang nous demande.
 
-**** *book_ *id_body-4-5 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1693 *creator_corneille
 
 -*who_oronte
 Seigneur, la Thessalie attaquant vos Estats,
@@ -394,7 +394,7 @@ Et rien n'est impossible à qui peut l'aquerir.
 Voyez nos peuples accourir,
 Et souffrez que leur joye auprés de vous s'exprime.
 
-**** *book_ *id_body-4-6 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-406 *act_ *date_1693 *creator_corneille
 
 -*who_corinthien
 Courez aux champs de Mars, volez, jeune Heros.
@@ -439,7 +439,7 @@ Unissons-nous en ce grand jour,
 Nous ferons triompher & la gloire⁎& l'amour.
 Fin du premier Acte.
 
-**** *book_ *id_body-5-1 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-501 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 Il est temps de parler sans feindre.
@@ -538,7 +538,7 @@ C'est être sage
 Que de céder au temps ;
 Faisons taire les mécontens.
 
-**** *book_ *id_body-5-2 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Princesse, c'est sur vous que mon espoir se fonde.
@@ -554,7 +554,7 @@ Si dans mon triste sort le Ciel leur fait raison.
 Je ne vous dis rien pour Jason,
 Jason aura soin de sa gloire⁎.
 
-**** *book_ *id_body-5-3 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 Enfin à ton amour tout espoir est permis,
@@ -577,7 +577,7 @@ Au plus grand des Heros j'en remets la deffense,
 Et preferant son alliance,
 Je te donne, & ne te perds pas.
 
-**** *book_ *id_body-5-4 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-504 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 Prince, venez apprendre une heureuse nouvelle.
@@ -589,7 +589,7 @@ A luy cacher sous quel espoir
 Pour l'éloigner j'use de mon pouvoir,
 Prenez avis de la Princesse.
 
-**** *book_ *id_body-5-5 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-505 *act_ *date_1693 *creator_corneille
 
 -*who_jason
 Qu'ay-je à resoudre encor ? il faut vivre pour vous.
@@ -665,7 +665,7 @@ Le plaisir d'estre aimé passe tous les plaisirs.
 De l'amour à nos cœurs, faisons suivre l'empire :
 Le plaisir d'estre aimé passe tous les plaisirs.
 
-**** *book_ *id_body-5-6 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-506 *act_ *date_1693 *creator_corneille
 
 -*who_oronte
 Puisqu'un fier⁎ ennemy par le bruit de ses armes,
@@ -689,7 +689,7 @@ Qui vous repondra de ma foy ;
 Et qu'icy mille voix par un doux assemblage,
 De mon amour vous parlent avec moy.
 
-**** *book_ *id_body-5-7 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-507 *act_ *date_1693 *creator_corneille
 
 -*who_captifs
 Qu'elle est charmante, qu'elle est belle !
@@ -850,7 +850,7 @@ La gloire⁎ est l'objet de ses vœux.
 Ton triomphe est certain, victoire, Amour, victoire.
 Fin du second Acte.
 
-**** *book_ *id_body-6-1 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-601 *act_ *date_1693 *creator_corneille
 
 -*who_oronte
 L'Orage est violent, il a deû vous surprendre ;
@@ -936,7 +936,7 @@ Son crime ne peut s'égaler.
 Il vient ; mon cœur s'émeut & reprend sa tendresse⁎.
 Elle en triomphera, laissez-moy luy parler.
 
-**** *book_ *id_body-6-2 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Vous sçavez l'exil qu'on m'ordonne.
@@ -1016,7 +1016,7 @@ Adieu, je ne puis plus soutenir vos douleurs,
 Et je dois me cacher vos pleurs,
 Si je veux en sauver ma gloire⁎.
 
-**** *book_ *id_body-6-3 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-603 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Quel prix de mon amour ! quel fruit de mes forfaits !
@@ -1039,7 +1039,7 @@ L'éloignement, l'exil, sont les tristes effets
 De l'hommage eternel que j'en devois attendre ?
 Quel prix de mon amour ! quel fruit de mes forfaits !
 
-**** *book_ *id_body-6-4 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Croiras-tu mon malheur ? Jason, Jason luy-mesme,
@@ -1093,7 +1093,7 @@ En punissant Jason craignez de vous punir.
 Retire-toy, tes yeux ne pourroient soûtenir
 L'horreur qu'icy je vais répandre :
 
-**** *book_ *id_body-6-5 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Noires filles du Stix⁎, Divinitez terribles,
@@ -1154,7 +1154,7 @@ Vous avez servi mon courroux ;
 C'est assez retirez-vous.
 Fin du troisième Acte.
 
-**** *book_ *id_body-7-1 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-701 *act_ *date_1693 *creator_corneille
 
 -*who_cleone
 Jamais on ne la vit si belle,
@@ -1172,7 +1172,7 @@ Vous causera de la surprise.
 Elle paroist. Voyez quel air de Majesté
 Anime & soutient sa beauté.
 
-**** *book_ *id_body-7-2 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1693 *creator_corneille
 
 -*who_jason
 Ah ! que d'attraits, que de graces nouvelles ?
@@ -1232,7 +1232,7 @@ Mais le Prince d'Argos s'avance ;
 Et son importune presence
 Me force à m'éloigner de vous.
 
-**** *book_ *id_body-7-3 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1693 *creator_corneille
 
 -*who_oronte
 Si-tost que je parois, la Princesse vous quitte ;
@@ -1272,7 +1272,7 @@ Vous sçavez à quels soins⁎ la Guerre icy m'engage.
 Les Troupes qu'aujourd'huy fait assembler le Roy,
 N'attendent plus que moy.
 
-**** *book_ *id_body-7-4 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1693 *creator_corneille
 
 -*who_oronte
 Vos soupcons estoient vrais, j'ay veu, j'ay veu moy-mesme
@@ -1309,7 +1309,7 @@ Je me declare pour vous.
 Laissez-moy seule icy ; dans ce que je medite
 J'ay besoin de calmer le trouble qui m'agite.
 
-**** *book_ *id_body-7-5 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 D'où me vient cette horreur ? est-ce à moy de trembler ?
@@ -1330,7 +1330,7 @@ Mais pour voir son supplice égaler mon couroux⁎,
 C'est par l'endroit le plus sensible
 Qu'il faut porter les derniers coups.
 
-**** *book_ *id_body-7-6 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 Vos adieux sont-ils faits ? Le murmure s'augmente,
@@ -1390,7 +1390,7 @@ Je plains ton triste sort, tes Sujets te trahissent,
 Mais ne crains rien de leur emportement ;
 Pour le faire cesser je ne veux qu'un moment.
 
-**** *book_ *id_body-7-7 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-707 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Objets agreables,
@@ -1444,7 +1444,7 @@ Luy doit ceder la place.
 Tout ressent le pouvoir
 Du plaisir de nous voir.
 
-**** *book_ *id_body-7-8 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-708 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 Mon pouvoir t'est connu, j'ay mis ta Garde en fuite,
@@ -1462,7 +1462,7 @@ Ou les Dieux m'osteront le jour.
 D'un indigne mépris c'est trop souffrir⁎ l'outrage.
 Vien, Fureur, c'est à toy d'achever mon ouvrage.
 
-**** *book_ *id_body-7-9 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-709 *act_ *date_1693 *creator_corneille
 
 -*who_creon
 Noires Divinitez, que voulez-vous de moy ?
@@ -1482,7 +1482,7 @@ Je vais apprendre à Radamante⁎
 Jusqu'où va la noirceur de ses enchantemens.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-8-1 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-801 *act_ *date_1693 *creator_corneille
 
 -*who_nerine
 On ne peut sans effroy soutenir sa presence.
@@ -1524,7 +1524,7 @@ C'est mon rang, il est vray, mais c'est le sang d'un traitre.
 Puis-je trop acheter, en les faisant perir,     
 La douceur de le voir souffrir ?
 
-**** *book_ *id_body-8-2 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-802 *act_ *date_1693 *creator_corneille
 
 -*who_creuse
 Si la pitié vous peut trouver sensible,
@@ -1555,7 +1555,7 @@ Le pouvoir d'un Pere & d'un Roy.
 Pourquoi precipiter un dessein…
 
 -*who_medee
-Point d'excuse.
+      Point d'excuse.
 Du trouble où je vous mets je connois la raison ;
 Quand au Prince d'Argos vostre cœur se refuse,
 Il veut se garder à Jason.
@@ -1564,7 +1564,7 @@ Il veut se garder à Jason.
 Se garder à Jason ?
 
 -*who_medee
-Je sçay sa perfidie,
+      Je sçay sa perfidie,
 En luy vous aviez un amant ;
 Mais on n'offence pas Medée impunément ;
 D'une entreprise⁎ si hardie
@@ -1590,7 +1590,7 @@ Que ce grand bruit m'est redoutable !
 Dieux cruels, est-ce ainsi que vostre haine accable
 Ceux que vous devez soutenir ?
 
-**** *book_ *id_body-8-3 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-803 *act_ *date_1693 *creator_corneille
 
 -*who_creuse
 Venez, parlez ; qu'avez-vous à m'apprendre ?
@@ -1612,7 +1612,7 @@ Ce que peut un prompt desespoir.
 Helas !
 
 -*who_cleone
-Dans ce malheur extrême,     
+      Dans ce malheur extrême,     
 Chacun s'est empressé de luy prêter secours.
 Le Roy dans ce moment a terminé ses jours,
 Du mesme fer il s'est percé luy-même.
@@ -1635,7 +1635,7 @@ A ces Dieux inhumains.
 C'est assez, laissez-moy, vos pleurs ne font qu'aigrir,
 Les maux que je me dois preparer à souffrir⁎.
 
-**** *book_ *id_body-8-4 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-804 *act_ *date_1693 *creator_corneille
 
 -*who_creuse
 Eh bien, barbare, estes-vous satisfaite ?
@@ -1662,7 +1662,7 @@ Quels effets en seront produits,
 Puisque vous ignorez jusqu'où va ma puissance,
 Connoissez tout ce que je suis.
 
-**** *book_ *id_body-8-5 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-805 *act_ *date_1693 *creator_corneille
 
 -*who_creuse
 Quel feu dans mes veines s'allume ?
@@ -1674,7 +1674,7 @@ Me fait souffrir⁎ mille tourmens ensemble.
 Mon mal est sans remede, à quoy servent ces pleurs ?
 Rien ne peut soûlager l'excez de mes douleurs.
 
-**** *book_ *id_body-8-6 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-806 *act_ *date_1693 *creator_corneille
 
 -*who_jason
 Ah, Roy trop malheureux ! mais ô ciel ! la Princesse
@@ -1727,7 +1727,7 @@ Mais adieu ; de la mort les horreurs me saisissent,
 Je perds la voix, mes forces s'affoiblissent,
 C'en est fait, j'expire, je meurs.
 
-**** *book_ *id_body-8-7 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-807 *act_ *date_1693 *creator_corneille
 
 -*who_jason
 Elle est morte, & je vis ! courons à la vengeance,
@@ -1736,7 +1736,7 @@ La perte de Medée est deuë à mon amour.
 Quel supplice assez grand peut expier l'offense ?
 Mais par quel effet de son art…
 
-**** *book_ *id_body-8-8 *act_ *date_1693 *creator_corneille
+**** *book_ *id_body-808 *act_ *date_1693 *creator_corneille
 
 -*who_medee
 C'est peu, pour contenter la douleur qui te presse,
@@ -1748,7 +1748,7 @@ Les a ravis à ta tendresse⁎.
 Ah barbare !
 
 -*who_medee
-Infidelle ! aprés ta trahison,
+      Infidelle ! aprés ta trahison,
 Ay-je dû voir mes fils dans les fils de Jason ?
 
 -*who_jason

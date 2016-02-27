@@ -1,5 +1,5 @@
 ---
-identifier: corneille_antiochus  
+identifier: corneille-thomas_antiochus  
 creator: Corneille, Thomas  
 date: 1666  
 title: Antiochus. Tragi-comédie  
@@ -693,7 +693,7 @@ Par mon éloignement pressez l'heureux spectacle.
 Mais, Seigneur, ce dessein…  
 
     ANTIOCHUS
-Rien ne peut l'ébranler,  
+        Rien ne peut l'ébranler,  
 C'est me servir enfin que d'oser luy parler,  
 D'un Roy qui vous cherit craignez-vous la colere ?  
 
@@ -817,7 +817,7 @@ Le Roy trop vivement partage vostre peine,
 Pour ne pas faire efforts…  
 
     ANTIOCHUS
-C'est-là ce qui me gesne,  
+        C'est-là ce qui me gesne,  
 Son déplaisir m'accable, et comme un noir destin  
 Par l'éclat de la Cour redoute mon chagrin,  
 Je croy pour quelque temps qu'il luy sera moins rude  
@@ -827,13 +827,13 @@ Pour tirer son adveu daignez me seconder,
 Madame, et par vos soins …  
 
     STRATONICE
-Quoy, Prince, dois-je croire  
+        Quoy, Prince, dois-je croire  
 Qu'en secret ce chagrin porte envie à ma gloire,  
 Et que dans vostre cœur un mouvement jaloux,  
 Lors qu'on m'appelle au Trône…  
 
     ANTIOCHUS
-Ah, que me dites- vous ?  
+        Ah, que me dites- vous ?  
 Qu'à l'ardeur de mes vœux le juste Ciel réponde,  
 Et vous estes soudain la Maistresse du Monde ;  
 Si le Sceptre en est beau, quoy que vous presumiez,  
@@ -844,7 +844,7 @@ Elle seule en est digne, et pour mieux l'élever…
 Mais Dieux !  
 
     STRATONICE
-Vous avez lieu [68] de ne pas achever,  
+        Vous avez lieu [68] de ne pas achever,  
 Et le trouble sur vous peut prendre quelque empire,  
 Quand la civilité [69] vous engage à trop dire.  
 
@@ -890,7 +890,7 @@ De l'air dont vous parlez, c'est sans trop de couroux…
 Phenice, qu'as tu dit ?  
 
     PHENICE
-Mais que me dites- vous ?  
+        Mais que me dites- vous ?  
 
     STRATONICE
 Que te peut dire une ame estonnée⁎, abatuë,  
@@ -1039,7 +1039,7 @@ Mais je l'ay veu s'aigrir par cette violence,
 Et craignant d'oser trop…  
 
     SELEUCUS
-Ah, tout vous est permis,  
+        Ah, tout vous est permis,  
 Et vous seule avez droit de me rendre mon fils.  
 Vos soins y peuvent tout, employez-les, de grace,  
 A détourner un sort dont l'horreur nous menace,  
@@ -1102,10 +1102,10 @@ La Reyne en ce qu'il souffre a plus de part que moy.
 Stratonice ?  
 
     ARSINOE
-Elle mesme.  
+    Elle mesme.  
 
     BARSINE
-Et vous le pouvez croire  
+        Et vous le pouvez croire  
 Dans le peu d'interest qu'il montre pour sa gloire ?  
 Quand chacun à l'envy s'y fait voir empressé  
 Du plus foible devoir il se croit dispensé,  
@@ -1209,7 +1209,7 @@ Sans cesse s'abysme, et son trouble …de grace,
 Faites …  
 
     ARSINOE
-Et bien, Seigneur, que faut-il que je fasse ?  
+        Et bien, Seigneur, que faut-il que je fasse ?  
 Vous ne dites plus rien, et tout à coup vos yeux…  
 
     ANTIOCHUS
@@ -1244,7 +1244,7 @@ Mais je vous l'abandonne, et ne veux pour partage
 Que reprendre un Portrait…  
 
     ANTIOCHUS
-Ah, c'est me faire outrage,  
+        Ah, c'est me faire outrage,  
 En me le confiant ne craignez rien pour luy,  
 Et souffrez que sa veuë amuse mon ennuy⁎,  
 La Peinture eut toûjours dequoy me satisfaire.  
@@ -1256,7 +1256,7 @@ Dites-moy d'un coup d'œil ce que vous en pensez,
 Les traits en sont hardis, et la main…  
 
     ANTIOCHUS *l'empeschant d'ouvrir la boëte.*
-Non, Madame,  
+        Non, Madame,  
 Déja la resverie⁎ occupe trop mon ame,  
 Et du moins devant vous c'est à moy d'éviter  
 Tout ce que je prévoy qui pourroit l'augmenter,  
@@ -1264,7 +1264,7 @@ Du Peintre en ce Portrait examinant l'adresse
 J'oublierois malgré moy…  
 
     ARSINOE
-Seigneur, je vous le laisse, .  
+        Seigneur, je vous le laisse, .  
 Quoy que sur ce travail j'aye à vous consulter,  
 La Reyne qui paroist m'oblige à vous quitter.  
 
@@ -1313,7 +1313,7 @@ J'avois creu que sur vous je pouvois quelque chose,
 Mais…  
 
     ANTIOCHUS
-Si dans ce pouvoir vous trouvez quelque appas⁎,  
+        Si dans ce pouvoir vous trouvez quelque appas⁎,  
 Il ne va que trop loin, ne vous en plaignez pas.  
 
     STRATONICE
@@ -1346,10 +1346,10 @@ Aux troubles de l'amour a peine à resister.
 Helas !  
 
     STRATONICE
-Vous soûpirez !  
+    Vous soûpirez !  
 
     ANTIOCHUS
-Il est vray, je soûpire,  
+        Il est vray, je soûpire,  
 Et dis peut-estre plus que je n'ay crû vous dire ;  
 Mais si j'explique trop ce qu'en vain je combats,  
 Songez que c'est à vous à [97] ne m'entendre pas.  
@@ -1358,7 +1358,7 @@ Songez que c'est à vous à [97] ne m'entendre pas.
 Quoy, Prince ? il se peut donc que l'amour…  
 
     ANTIOCHUS
-Ah, Madame,  
+        Ah, Madame,  
 Vous avez arraché ce secret de mon ame,  
 Et quand rien sur ce point ne pouvait m'ébranler,  
 Vous blasmiez mon silence, il a falu parler ;  
@@ -1400,7 +1400,7 @@ Pour moy, si sur son cœur, quand elle a tout le vostre,
 Je puis…  
 
     ANTIOCHUS
-Vous y pouvez sans doute plus qu'une autre,  
+        Vous y pouvez sans doute plus qu'une autre,  
 Et si je me souffrois l'espoir d'un bien si doux,  
 Mon amour ne voudroit l'attendre que de vous,  
 Mais si-tost que j'aurois…Je sçay trop que ma flame…  
@@ -1409,7 +1409,7 @@ Mais si-tost que j'aurois…Je sçay trop que ma flame…
 Et bien Prince, achevez.  
 
     ANTIOCHUS
-N'en parlons plus, Madame,  
+        N'en parlons plus, Madame,  
 J'oubliois un devoir que mon respect soûtient,  
 Je m'allois égarer, mais ma raison revient,  
 Et tant qu'un coup fatal borne enfin ma misere,  
@@ -1492,7 +1492,7 @@ Je dois à ce Portrait l'adveu de vostre flame ,
 Et sur ce qu'il m'apprend …  
 
     ANTIOCHUS
-Rendez- le moy, Madame,  
+        Rendez- le moy, Madame,  
 Mon Amour le demande, et dans son desespoir…  
 
     STRATONICE
@@ -1511,7 +1511,7 @@ Qu'un hommage secret luy soûmettant ma foy…
 Prince, adieu, c'en est trop.  
 
     ANTIOCHUS
-Madame, écoutez-moy .  
+        Madame, écoutez-moy .  
 Si je ne puis forcer mon amour à se taire,  
 J'ay du sang à répandre, il peut vous satisfaire  
 Je vous l'offre, et mon mal deviendra plus leger…  
@@ -1542,7 +1542,7 @@ Je vous l'ay déja dit, Tigrane, il faut partir,
 C'est tout ce que je sçay.  
 
     TIGRANE
-Je n'ose vous promettre  
+        Je n'ose vous promettre  
 Que le Roy sur ce point vueille rien vous permettre,  
 D'un congé si funeste il condamne l'espoir,  
 Et plein d'impatience il demande à vous voir.  
@@ -1610,7 +1610,7 @@ Quand on n'a dans un cœur que l'amour à guerir.
 Quoy, mon fils aimeroit ?  
 
     ANTIOCHUS.
-Qu'avez-vous dit, Madame ?  
+        Qu'avez-vous dit, Madame ?  
 
     STRATONICE.
 Ouy, Seigneur, son chagrin est l'effet de sa flame,  
@@ -1661,7 +1661,7 @@ Madame, vous sçavez le reste du secret ?
 Ouy, Seigneur, et je puis…  
 
     ANTIOCHUS.
-Ne dites rien, Madame,  
+        Ne dites rien, Madame,  
 Vous n'avez que trop fait d'avoir trahy ma flame,  
 Bornez-la des malheurs qu'on ne peut reparer,  
 Et laissez-moy mourir sans me desesperer.  
@@ -1700,7 +1700,7 @@ Puissent croistre ces maux que j'ay trop meritez,
 Puissent…  
 
     SELEUCUS.
-Je sçais à quoy ton grand cœur te convie,  
+        Je sçais à quoy ton grand cœur te convie,  
 Tu dois tout à Tigrane, il t'a sauvé la vie,  
 Mais le trouble où t'abysme un long et dur ennuy⁎,  
 Quoi qu'il ait fait pour toy, te rend quite vers luy,  
@@ -1712,7 +1712,7 @@ Mais pourquoy m'advertir de ce que je lui doy ?
 Tigrane…  
 
     SELEUCUS.
-Le voicy, laisse parler ton Roy.  
+        Le voicy, laisse parler ton Roy.  
 
 
 ### SCENE III
@@ -1728,7 +1728,7 @@ Au prix de tout mon sang j'aspire à le montrer,
 Seigneur…  
 
     SELEUCUS.
-Dans ses ennuys⁎ on vient de penetrer,  
+        Dans ses ennuys⁎ on vient de penetrer,  
 Il en cachoit la cause avec un soin extréme,  
 Mais tout est éclaircy, te le diray-je ? Il aime,  
 Et son feu qu'au silence il a toûjours contraint,  
@@ -1743,7 +1743,7 @@ Moi, Seigneur ? La Princesse ! Ah Dieux ! Qu'à l'hymenée,
 Tigrane…  
 
     SELEUCUS.
-Son malheur tient ton ame estonnée,  
+        Son malheur tient ton ame estonnée,  
 Tu crains de luy ravir ce qui plaist à ses yeux,  
 Mais enfin à l'Estat tes jours sont precieux.  
 Quelque atteinte qu'il sente à ce grand coup de foudre,  
@@ -1777,7 +1777,7 @@ Par un premier advis venez-l'y preparer.
 Madame, se peut-il…  
 
     STRATONICE.
-Ouy, perdez vos alarmes,  
+        Ouy, perdez vos alarmes,  
 Vos vœux pour la Princesse auront assez de charmes,  
 Et si pour la toucher quelque soin m'est permis,  
 Je vous y serviray comme je l'ay promis.  
@@ -1796,7 +1796,7 @@ De voir tout ce qu'on craint dans un malheur extréme
 Porter sur mon amour…  
 
     ANTIOCHUS.
-Quoy, Tigrane, et vous-mesme  
+        Quoy, Tigrane, et vous-mesme  
 Vous croyez que mon cœur pour la Princesse atteint…  
 
     TIGRANE.
@@ -1873,7 +1873,7 @@ Que loin que mon espoir combate vostre feu,
 Je suis prest…  
 
     TIGRANE.
-Ah, Seigneur, pourquoy ce desaveu ?  
+        Ah, Seigneur, pourquoy ce desaveu ?  
 N'avez-vous pas au Roy déclaré quel empire…  
 
     ANTIOCHUS.
@@ -1885,7 +1885,7 @@ On a crû [102] mon silence, il s'est mal expliqué.
 Et ce Portrait, Seigneur ?  
 
     ANTIOCHUS.
-En vain on me l'oppose,  
+        En vain on me l'oppose,  
 S'il semble avoir trop dit n'en cherchez point la cause,  
 Mon cœur dont ce mystere augmente l'embarras,  
 Ne vous peut éclaircir ce qu'il ne conçoit pas.  
@@ -1953,15 +1953,15 @@ Vous ayez laissé voir mon Portrait à la Reyne,
 Et souffert que le Roy…  
 
     ANTIOCHUS.
-Madame, vous sçavez  
+        Madame, vous sçavez  
 Que plaignant les ennuys qui me sont reservez  
 Vous-mesme…  
 
     ARSINOE.
-Et bien, Seigneur ?  
+    Et bien, Seigneur ?  
 
     TIGRANE.
-Que cherchez-vous, Madame ?  
+        Que cherchez-vous, Madame ?  
 Son trouble n'est-il pas le témoin de sa flame ?  
 Vous faut-il un témoin plus fort, plus asseuré,  
 Et Tigrane a-t'il tort s'il meurt desesperé ?  
@@ -1973,7 +1973,7 @@ Il est vray qu'on l'a veu, mais sans trop s'alarmer,
 Qu'il attende…  
 
     ARSINOE.
-Je voy ce qu'il faut presumer,  
+        Je voy ce qu'il faut presumer,  
 Et penetre à la fin sous quel secret empire…  
 
     ANTIOCHUS.
@@ -2002,7 +2002,7 @@ ARSINOE, TIGRANE, BARSINE.
 Madame, c'est donc là…  
 
     ARSINOE.
-Vous n'estes pas à plaindre  
+        Vous n'estes pas à plaindre  
 Autant que vostre amour vous engage à le craindre.  
 Quelque ordre dont l'éclat menace vostre espoir,  
 Il suffit [106] que c'est moy qui dois le recevoir.  
@@ -2022,14 +2022,14 @@ Qu'on en voit chaque jour redoubler les accez,
 Qu'on tremble de la suite ?  
 
     ARSINOE.
-Attendez le succez.  
+        Attendez le succez.  
 
     TIGRANE.
 Il y va de sa vie, et quand le peril presse,  
 Vous voulez…  
 
     ARSINOE.
-Sa vertu bannira sa foiblesse,  
+        Sa vertu bannira sa foiblesse,  
 Ou s'il essaye en vain de contraindre ses vœux,  
 Le Roy n'a qu'à vouloir, et le Prince est heureux.  
 
@@ -2041,7 +2041,7 @@ Vostre heur [107] est toûjours seur, quelque ombre qui le cache,
 Ne vous alarmez point.  
 
     TIGRANE.
-Quoy ? Garder quelque espoir ?  
+        Quoy ? Garder quelque espoir ?  
 Quand pour le rendre heureux le Roy n'a qu'à vouloir ?  
 
     ARSINOE.
@@ -2056,7 +2056,7 @@ Qu'a [108] mon malheur d'obscur pour ne le point comprendre ?
 Ne vois-je pas…  
 
     ARSINOE.
-Adieu, gardez toûjours ma foy,  
+        Adieu, gardez toûjours ma foy,  
 Je vous en diray plus quand j'auray veu le Roi .  < Fin du troisiéme Acte. >
 
 
@@ -2128,7 +2128,7 @@ C'est assez qu'à Tigrane elle ait donné sa foy,
 Voilà ce qui se dit.  
 
     STRATONICE.
-Et que resout le Roy ?  
+        Et que resout le Roy ?  
 
     PHENICE.
 Pour vaincre ses refus on croit qu'il l'ait [111] mandée,  
@@ -2254,7 +2254,7 @@ Et puisqu'à son bonheur il cherche à resister
 On peut croire…  
 
     TIGRANE.
-Ah, Madame, il n'en faut point douter,  
+        Ah, Madame, il n'en faut point douter,  
 La Princesse le charme, il l'adore, et son ame  
 Peut à peine suffire à l'excez de sa flame,  
 Jamais un plus beau feu ne regna sur un cœur,  
@@ -2273,7 +2273,7 @@ Puisqu'à vous preferer la Princesse constante
 Sçaura trop …  
 
     TIGRANE.
-C'est par là que mon malheur s'augmente.  
+        C'est par là que mon malheur s'augmente.  
 On m'apprend que le Roy de tant d'amour surpris  
 M'impute pour son choix ce qu'elle a de mépris,  
 Et que si jusqu'au bout il la trouve obstinée  
@@ -2297,7 +2297,7 @@ De souffrir que mon bras luy preste du secours.
 Si le Prince …  
 
     TIGRANE.
-A ses yeux il faut cacher mon trouble,  
+        A ses yeux il faut cacher mon trouble,  
 Et puisque mon malheur par sa vertu redouble ;  
 Je vous laisse empescher qu'une vaine pitié  
 N'immole dans son cœur l'amour à l'amitié.  
@@ -2327,7 +2327,7 @@ Et je vous parle icy pour la derniere fois.
 L'hymen d'Arsinoé…  
 
     ANTIOCHUS.
-Je le voy bien, Madame,  
+        Je le voy bien, Madame,  
 Vous consentez pour elle au beau feu qui m'enflame, [114]  
 Mais l'excuseriez-vous si de ce feu charmé  
 J'advoüois que c'est vous qui l'avez allumé ?  
@@ -2336,7 +2336,7 @@ J'advoüois que c'est vous qui l'avez allumé ?
 Moy, Prince ?  
 
     ANTIOCHUS.
-Il n'est plus temps, Madame, de vous taire  
+        Il n'est plus temps, Madame, de vous taire  
 Qu'Arsinoé n'a rien de ce qui peut me plaire.  
 Ne me demandez point quel fatal contre-temps  
 M'a fait luy donner part aux ennuys que je sens,  
@@ -2400,7 +2400,7 @@ Si le Ciel à mon choix… Mais qu'est-il necessaire…
 N'achevez point si-tost.  
 
     STRATONICE.
-C'est à moy de me taire,  
+        C'est à moy de me taire,  
 Mon destin le demande, il luy faut obeir.  
 
     ANTIOCHUS.
@@ -2410,13 +2410,13 @@ Mais enfin si le Ciel vous eust laissé choisir ?
 Que vous estes cruel ! ah !  
 
     ANTIOCHUS.
-Vostre cœur soûpire ?  
+        Vostre cœur soûpire ?  
 
     STRATONICE.
 Ce soupir eschapé…  
 
     ANTIOCHUS.
-Parlez, que veut-il dire ?  
+        Parlez, que veut-il dire ?  
 M'apprend-il que mes vœux des vostres secondez…  
 
     STRATONICE.
@@ -2508,7 +2508,7 @@ Madame, asseurez-moy de toute vostre estime,
 Me la promettez-vous ?  
 
     STRATONICE.
-Ouy, je vous la promets,  
+        Ouy, je vous la promets,  
 Fuyez, et s'il se peut, ne me voyez jamais.  
 
     ANTIOCHUS.
@@ -2550,12 +2550,12 @@ Ah, Madame ! pourquoy me l'avez-vous fait dire ?
 Vostre Portrait, helas !  
 
     ARSINOE.
-Seigneur, il me suffit,  
+        Seigneur, il me suffit,  
 Je voy ce que sans vous je m'estois déja dit,  
 Vous brûlez pour la Reyne, et l'amour…  
 
     ANTIOCHUS.
-Ouy, Madame,  
+        Ouy, Madame,  
 Vous avez malgré moy penetré dans mon ame,  
 Et ce qu'obstinément j'aurois toûjours caché,  
 De ce cœur amoureux vous l'avez arraché,  
@@ -2575,7 +2575,7 @@ Quelque excez qu'à son feu le Roy semble souffrir,
 Son âge…  
 
     ANTIOCHUS.
-Ah, gardez-vous de luy rien découvrir.  
+        Ah, gardez-vous de luy rien découvrir.  
 Pour mettre auprés de vous mon crime en évidence  
 Le Destin par surprise a trahy mon silence ;  
 Mais si vous m'accusez, il n'est rien que ma foy  
@@ -2601,7 +2601,7 @@ De remettre en mes mains le Portrait de la Reyne,
 Sa veuë adoucira …  
 
     ARSINOE.
-J'ay sujet d'en douter,  
+        J'ay sujet d'en douter,  
 Mais ce n'est point à moy, Seigneur, à resister,  
 Ce Portrait est à vous, je sçauray vous le rendre.  
 Tandis je vay sçavoir quel conseil je dois prendre,  
@@ -2748,7 +2748,7 @@ Le Prince aime la Reyne, et tout dépend de vous.
 Il aime…  
 
     ARSINOE
-Et quoy, Seigneur ? Vous promettez sans peine,  
+        Et quoy, Seigneur ? Vous promettez sans peine,  
 Et quand il faut agir, l'engagement vous gesne⁎.  
 
     SELEUCUS.
@@ -2856,7 +2856,7 @@ Vous nous trahiriez tous à cacher plus long-temps…
 Seigneur.  
 
     SELEUCUS.
-J'en ay receu des advis importants,  
+        J'en ay receu des advis importants,  
 Et vous seul pouvez tout pour me tirer de peine.  
 J'apprens qu'au vif éclat des beautez de la Reyne…  
 Ne me déguisez rien, que dit-on à la Cour  
@@ -2877,7 +2877,7 @@ J'aime à fuir le murmure, et c'est sur vos advis…
 Seigneur, oubliez-vous…  
 
     SELEUCUS.
-Non, non, parlez, mon Fils,  
+        Non, non, parlez, mon Fils,  
 Je ne demande point que vous flatiez ma flame,  
 Ouvrez-moy vostre cœur, je vous ouvre mon ame ;  
 Je puis avoir trop crû ce doux empressement  
@@ -2914,11 +2914,11 @@ Demetrius [131] son Pere auroit lieu de se plaindre,
 Et la guerre aussi-tost…  
 
     SELEUCUS.
-Afin de l'empescher  
+        Afin de l'empescher  
 Il faudroit…  
 
     ANTIOCHUS.
-Quoy ! l'affront s'en pourroit-il cacher,  
+        Quoy ! l'affront s'en pourroit-il cacher,  
 Et manquer de parole où l'on voit que la sienne…  
 
     SELEUCUS.
@@ -2926,7 +2926,7 @@ Vostre main supléeroit au defaut de la mienne,
 Et sans rompre l'Accord…  
 
     ANTIOCHUS.
-Que dites-vous Seigneur ?  
+        Que dites-vous Seigneur ?  
 
     SELEUCUS.
 Je sçay quel coup, mon Fils, c'est porter sur ton cœur,  
@@ -2934,7 +2934,7 @@ Un changement si dur l'arrache à la Princesse,
 Mais…  
 
     ANTIOCHUS.
-J'ay promis, Seigneur, de vaincre ma faibloisse.  
+        J'ay promis, Seigneur, de vaincre ma faibloisse.  
 
     SELEUCUS.
 Non, si tu souffres trop par ce nouveau projet,  
@@ -2963,10 +2963,10 @@ Je sçay qu'il peut beaucoup, mais quitte l'artifice,
 Et m'apprens…  
 
     ANTIOCHUS.
-Quoy, Seigneur ?  
+    Quoy, Seigneur ?  
 
     SELEUCUS.
-Aimes-tu Stratonice ?  
+        Aimes-tu Stratonice ?  
 
     ANTIOCHUS.
 Si j'aime Stratonice ! Ah Dieux, qu'ay-je entendu ?  
@@ -2984,7 +2984,7 @@ Oublierois-je, Seigneur, que vous estes mon Pere ?
 Ah, plustost mille morts…  
 
     SELEUCUS.
-Va, c'en est trop, mon Fils,  
+        Va, c'en est trop, mon Fils,  
 Je découvre l'abysme où ton respect t'a mis,  
 Quelques charmes d'abord avoient sçeu me surprendre,  
 Mais puisque ton amour peut dégager ma foy,  
@@ -3005,7 +3005,7 @@ Espousez-la, de grace, et si ce n'est assez…
 Mais, ô Dieux !  
 
     SELEUCUS.
-A la voir, Prince, vous rougissez,  
+        A la voir, Prince, vous rougissez,  
 Parlons-luy, cette épreuve est encor necessaire,  
 Vous sçavez mieux apres ce que vous pourrez faire.  
 
@@ -3028,7 +3028,7 @@ Son zele m'est connu, qu'on la fasse venir.
 Seigneur…  
 
     SELEUCUS.
-Lors qu'à Tigrane on voit tout si contraire,  
+        Lors qu'à Tigrane on voit tout si contraire,  
 Madame, vous pouvez ordonner qu'il espere,  
 Quoy que d'Arsinoé le Prince soit charmé  
 Il sçaura l'oublier s'il est ailleurs aimé ;  
@@ -3045,7 +3045,7 @@ Et si mon Hymenée est pour vous une gesne,
 Je puis…  
 
     SELEUCUS.
-Dans mes Estats vous devez estre Reyne,  
+        Dans mes Estats vous devez estre Reyne,  
 Et je ne manque à rien si mon Fils couronné  
 Vous asseure le rang qui vous est destiné.  
 Mon amour s'en esmeut, mais je voy qu'à mon âge  
@@ -3062,20 +3062,20 @@ Pour moy de sa tendresse il croit trop les appas⁎,
 Madame, il vous adore.  
 
     SELEUCUS.
-Et ne l'aimes-tu pas ?  
+        Et ne l'aimes-tu pas ?  
 
     ANTIOCHUS.
 Aimer la Reyne ? Ô Ciel !  
 
     SELEUCUS.
-Et bien, il t'en faut croire,  
+        Et bien, il t'en faut croire,  
 Mais si de son Hymen tu rejettes la gloire,  
 Fay qu'elle-mesme au moins puisse apprendre de toy  
 Que ses charmes sont peu pour surprendre ta foy  
 Qu'un mépris…  
 
     ANTIOCHUS.
-Moy, j'aurois du mépris pour la Reyne !  
+        Moy, j'aurois du mépris pour la Reyne !  
 Seroit-il pour ce crime une assez rude peine ?  
 Jamais tant de beautez n'eurent droit de charmer,  
 Mais, Seigneur, je ne dois ny ne la veux aimer,  
@@ -3083,7 +3083,7 @@ J'en atteste les Dieux, et si de ma foiblesse,
 Vostre ame…  
 
     SELEUCUS.
-Accepte donc la main de la Princesse,  
+        Accepte donc la main de la Princesse,  
 Je la laisse à ton choix.  
 
 
@@ -3092,12 +3092,12 @@ SELEUCUS, STRATONICE, ANTIOCHUS, ARSINOE TIGRANE, PHENICE, BARSINE, Suite.
 
 
     ARSINOE.
-Elle est à luy, Seigneur,  
+        Elle est à luy, Seigneur,  
 S'il peut pour l'accepter faire suivre le cœur,  
 Mais la Reyne…  
 
     ANTIOCHUS.
-Ah, Madame ! et vous-mesme osez dire…  
+        Ah, Madame ! et vous-mesme osez dire…  
 Mais, Seigneur, vous voyez à quoy sa flame aspire,  
 Pour épargner Tigrane elle veut m'imputer…  
 
@@ -3107,7 +3107,7 @@ Puisqu'elle offre sa main c'est à toy de la prendre,
 Je n'en croy que ce gage.  
 
     ANTIOCHUS.
-Et bien, il me faut rendre,  
+        Et bien, il me faut rendre,  
 Ceder à mon destin. Donnez, Princesse, hélas !  
 Seigneur, c'est de Tigrane asseurer le trépas,  
 Des jours qu'il m'a sauvez est-la récompense ?  
@@ -3122,7 +3122,7 @@ On m'impute par là ce qu'il sent pour la Reyne.
 Connois-tu ce Portrait.  
 
     ANTIOCHUS.
-Ordonnez de ma peine,  
+        Ordonnez de ma peine,  
 Il faut punir le crime où l'amour m'a fait choir,  
 C'est tout ce que je puis et connoistre et sçavoir.  
 
@@ -3156,7 +3156,7 @@ A donner son adveu nous sçaurons l'obliger.
 Seigneur, encor un coup…  
 
     SELEUCUS.
-Obey sans replique,  
+        Obey sans replique,  
 C'est tout ce que je veux que ton devoir m'explique.  
 
     ANTIOCHUS.
@@ -3165,7 +3165,7 @@ Loin de punir un Fils récompense un ingrat !
 Madame…  
 
     SELEUCUS.
-Apres l'ennuy des plus rudes alarmes  
+        Apres l'ennuy des plus rudes alarmes  
 Tigrane de l'espoir goustera mieux les charmes,  
 S'y rendra tout entier ; attendant l'heureux jour  
 Qui remplissant ses vœux, couronne vostre amour.  < FIN. >

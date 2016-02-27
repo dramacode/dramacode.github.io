@@ -38,7 +38,7 @@ AV LECTEVR.
 Ie m'aſſeure, LECTEVR, que cette Trage-Comedie, que toute la Cour & toute la Ville ont trouuée ſi belle ſur le Theatre, ne te paroiſtra guere moins agreable ſur le papier, & que tu la trouueras auſſi bien ſouſtenuë par la delicateſſe & par la majeſté de ſes vers, que par la dignité de ſon sujet.
 Si Villegas Eſpagnol aſſez obſcur, qui a eſte aſſez heureux pour trouuer vn ſi beau nœud, euſt eu la meſme fortune⁎ dans le deſnouëment, cette ſeule production l'auroit ſans doute eſgalé aux plus fameux Inuenteurs de ſa nation, & de ſon siecle : Si comme cette piece eſt aſſez rare, il arriue par hazard qu'elle vienne à tomber entre tes mains ; j'ay la vanité d'eſperer que tu priſeras peut-eſtre moins les richeſſes & les profuſions de l'Autheur, que ma petite Œconomie⁎.
 
-**** *book_ *id_body-2-1 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-201 *act_ *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Enfin voicy le jour tant de fois souhaitté,
@@ -111,7 +111,7 @@ Oüy, Seigneur, sur ce point vous serez obey,
 N'y respons, pas mon cœur, ma bouche t'a trahy ;
 Mais voicy la Princesse à qui ie ne puis taire.
 
-**** *book_ *id_body-2-2 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-202 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Qv'on ne m'en parle plus à moins que me desplaire :
@@ -131,26 +131,26 @@ Astolfe, allez chercher vostre sœur Isabelle.
 Souffrez qu'auparauant.
 
 -*who_cassandre
-Viste j'ay besoin d'elle.
+      Viste j'ay besoin d'elle.
 
 -*who_astolfe
 Sans m'escouter, Madame.
 
 -*who_cassandre
-Allez-y de ce pas,
+      Allez-y de ce pas,
 Obeïssez, vous dis-je, & ne repliquez pas.
 
 -*who_astolfe
 Quel accueil, justes Dieux, quelle atteinte à mon ame.
 
-**** *book_ *id_body-2-3 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-203 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_lope
 Don Remon de Moncade & Don Pedre, Madame,
 Viennent vers vostre Altesse.
 
 -*who_cassandre
-Ah je ne doute point
+      Ah je ne doute point
 Qu'ils ne viennent encor me presser sur ce point ;
 Rentrons Don Lope, il faut que je les abandonne,
 En l'humeur⁎ où je suis ie n'escoute personne.
@@ -237,7 +237,7 @@ Entre nous arresté, qui regle nostre sort.
 Ie le veux, aprenons sur son rapport fidelle
 Qui de vous ou de moy plaist aux yeux d'Isabelle,
 
-**** *book_ *id_body-2-4 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-204 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 Beralde se souuient de ce qu'il m'a promis.
@@ -246,7 +246,7 @@ Beralde se souuient de ce qu'il m'a promis.
 Ouy, Seigneur.
 
 -*who_don_pedre
-Aprenez que nous sommes amis
+      Aprenez que nous sommes amis
 Ce qui dans deux riuaux semble chose assez rare,
 Que nous ne voulons point que l'amour nous separe,
 Qu'Esclaues d'Isabelle, & sans estre jaloux⁎,
@@ -334,10 +334,10 @@ Qu'auec égalité tous deux je vous honore.
 Allons vers la Princesse.
 
 -*who_moncade
-Allons, & descouurons,
+      Allons, & descouurons,
 S'il est possible enfin, quel Maistre nous aurons.
 
-**** *book_ *id_body-2-5 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-205 *act_ *date_1654 *creator_boisrobert
 I'ay ce me semble esté bien leger à promettre,
 De rendre à leur Maistresse & l'vne & l'autre lettre,
 Qui prend, s'engage enfin, que sert de contester,
@@ -359,7 +359,7 @@ Ils sont égaux de taille, & different en soye,
 Que veut dire D. Pedre auec son bleu mourant ?
 Le vert de l'autre marque vn espoir apparent.
 
-**** *book_ *id_body-2-6 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-206 *act_ *date_1654 *creator_boisrobert
 
 -*who_astolfe
 De qui sont ces Poulets⁎ sont-ils d'vne Maistresse.
@@ -371,19 +371,19 @@ On me les a donnez pour rendre à la Princesse.
 A la Princesse !
 
 -*who_beralde
-O dieux ! que je suis interdit⁎,
+      O dieux ! que je suis interdit⁎,
 O cruelle surprise, insensé qu'ay-je dit ?
 
 -*who_astolfe
 Pour rendre à la Princesse ?
 
 -*who_beralde
-Ah ! je luy deuois dire,
+      Ah ! je luy deuois dire,
 Qu'à sa sœur ces riuaux auoient raison d'escrire,
 O maudit interest⁎.
 
 -*who_astolfe
-I'ay lieu⁎ d'estre jaloux⁎.
+      I'ay lieu⁎ d'estre jaloux⁎.
 Ie les rendray moy-mesme, allez retirez vous.
 Qui donc si hardiment ose escrire à Cassandre ?
 En ouurant ces billets, nous le pourrons apprendre,
@@ -399,14 +399,14 @@ Quoy Moncade, d'escrire a pris la liberté !
 Quoy, i'aurois vn riual, plus chery, mieux traitté ?
 Relisons ce billet, taschons d'y mieux connoistre.
 
-**** *book_ *id_body-2-7 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-207 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Ovy, je feray mon chois, ouy, vous aurez un Maistre.
 Qu'on ne m'en parle plus.
 
 -*who_astolfe
-Puis que vous connoissez le sang.
+      Puis que vous connoissez le sang.
 De Moncade Madame.
 Puis que vous connoissez son rang.
 Daignez connoistre aussi son respect⁎ & sa flame.
@@ -428,7 +428,7 @@ L'ingrate de Moncade a reconneu la main,
 Et retire⁎ sa lettre.
 
 -*who_cassandre
-Il s'est ému soudain,
+      Il s'est ému soudain,
 De cette emotion je deuine la cause,
 Astolphe, dans l'esprit, vous auez quelque chose,
 Respondez sans contrainte, & sans vous estonner⁎.
@@ -445,7 +445,7 @@ Et veu ma qualité, j'en suis assez surpris.
 D'où luy vint ce billet.
 
 -*who_moncade
-D'où luy vient ce mépris ?
+      D'où luy vient ce mépris ?
 
 -*who_cassandre
 Quelque surprise icy vous broüille la ceruelle.
@@ -460,7 +460,7 @@ Ce que vous auez leu vous touche fort au cœur.
 Oüy, Madame.
 
 -*who_moncade
-Ay-je escrit pour outrager sa sœur ?
+      Ay-je escrit pour outrager sa sœur ?
 
 -*who_cassandre
 Ie ne puis plus cacher ce que souffre mon ame.
@@ -482,17 +482,17 @@ La declaration ne peut estre plus claire.
 Malheureuse Cassandre.
 
 -*who_astolfe
-O malheureux amant.
+      O malheureux amant.
 
 -*who_moncade
 Suiuons-la pour luy dire enfin tout mon tourment⁎ :
 Car je n'attens plus rien de cét iniuste frere.
 Elle emporte ma lettre.
 
-**** *book_ *id_body-2-8 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-208 *act_ *date_1654 *creator_boisrobert
 
 -*who_astolfe
-Et je pourray m'en taire ?
+      Et je pourray m'en taire ?
 Ie souffriray sans bruit⁎ ce coup de desespoir ?
 Moncade, hors d'icy, je desire vous voir-
 
@@ -500,7 +500,7 @@ Moncade, hors d'icy, je desire vous voir-
 Pourquoy ?
 
 -*who_astolfe
-Pour vous prier de me tirer de peine.
+      Pour vous prier de me tirer de peine.
 Il faut vous desister d'vne recherche vaine.
 
 -*who_moncade
@@ -535,12 +535,12 @@ Vous vous abusez fort de vous l'estre promis,
 Ie ne puis jamais l'estre, adieu.
 
 -*who_moncade
-Quelle injustice.
+      Quelle injustice.
 D'où luy vient ce mespris, d'où luy naist ce caprice ?
 Si i'apprens qu'Isabelle ait vn mespris pareil,
 Enfin de la raison nous suiurons le conseil.
 
-**** *book_ *id_body-3-1 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-301 *act_ *date_1654 *creator_boisrobert
 
 -*who_isabelle
 D'où vous naist ce chagrin, mon frere qu'auez vous ?
@@ -574,7 +574,7 @@ On auoit cette lettre encor à luy donner,
 Vous verrez ce que c'est, ma sœur, je vous la laisse.
 Adieu, vos propres yeux y verront sa foiblesse⁎.
 
-**** *book_ *id_body-3-2 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-302 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Av moment qu'il me void il s'enfuit brusquement
@@ -582,7 +582,7 @@ L'ingrat, d'où luy peut naistre vn si prompt changement ?
 Que voy-je ?
 
 -*who_isabelle
-Il est jaloux, Madame, & c'est tout dire ;
+      Il est jaloux, Madame, & c'est tout dire ;
 Le malheureux qu'il est souffre vn cruel martire,
 Vos mespris ont causé son desplaisir secret,
 Il s'en va, mais je sçay qu'il vous quitte à regret.
@@ -617,7 +617,7 @@ Non ; car cent importuns qui m'ont tousiours tenuë⁎,
 Ne me l'ont peu permettre.
 
 -*who_isabelle
-Enfin examinons
+      Enfin examinons
 Si c'est auec raison que nous le condamnons.
 
 -*who_cassandre
@@ -636,7 +636,7 @@ Madame, qu'est-ce cecy, cette lettre s'adresse
 A vous.
 
 -*who_cassandre
-De Dom Remon i'y voy la hardiesse.
+      De Dom Remon i'y voy la hardiesse.
 
 -*who_isabelle
 C'est à moy que l'ingrat deuoit escrire ainsy,
@@ -683,7 +683,7 @@ Il m'a mis cette lettre encore entre les mains,
 Qu'il croit estre pour vous.
 
 -*who_cassandre
-Voyons la, je le pleins.
+      Voyons la, je le pleins.
 Souffrez adorable Isabelle,
 Qu'vn Amant discret & fidelle
 Vous descouure sa passion,
@@ -691,7 +691,7 @@ Vous connoissez le sang Illustre d'Arragon.
 C'est à vous qu'on l'escrit.
 
 -*who_isabelle
-Souffrez que je la voye
+      Souffrez que je la voye
 Dom Pedre d'Arragon est celuy qui l'enuoye,
 D'où naist la passion de cét homme imprudent,
 Et d'où vient que mon frere en est le confident
@@ -705,10 +705,10 @@ Elle n'est pas plus juste, & ce vain amoureux
 N'en doit jamais attendre ce succez⁎ plus heureux,
 Astolfe vient à nous.
 
-**** *book_ *id_body-3-3 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-303 *act_ *date_1654 *creator_boisrobert
 
 -*who_astolfe
-Qve voulez vous Madame
+      Qve voulez vous Madame
 Enfin, pretendez vous arracher de mon ame
 Cette amour immortelle, & ces feux⁎ eternels,
 Que vous auez trop tard reconnus criminels ?
@@ -781,13 +781,13 @@ Ie crains fort son esprit, le connoissez vous bien,
 Madame ?
 
 -*who_cassandre
-Ouÿ c'est vn homme ardent⁎ & magnanime,
+      Ouÿ c'est vn homme ardent⁎ & magnanime,
 Qui pour sauuer l'Estat s'en feroit la victime,
 Qui m'aime auec tendresse, & qui d'vn mesme cœur,
 Embrasse mes Estats.
 
 -*who_astolfe
-Ces raisons me font peur,
+      Ces raisons me font peur,
 Vous connoissez son cœur, moy sa delicatesse,
 Comme il void nos voisins nous quereller sans cesse,
 Il s'est mis dans l'esprit qu'il faut vous engager,
@@ -800,7 +800,7 @@ Comme il aime son sang, & qu'il en sçait le pris⁎,
 Il agrera mon choix,
 
 -*who_astolfe
-Il en sera surpris ;
+      Il en sera surpris ;
 Madame, excusez moy si j'ose encor vous dire,
 Que je crains d'autant plus qu'ardamment je desire.
 Ie sçay jusqu'à quel point le Duc est delicat,
@@ -843,7 +843,7 @@ Sans incredulité vous n'en pouuez douter,
 Mon frere.
 
 -*who_astolfe
-Son humeur⁎ est fort à redouter,
+      Son humeur⁎ est fort à redouter,
 Et toute ma fortune⁎, Adorable Princesse,
 Enfin peut m'échapper par sa delicatesse.
 
@@ -860,7 +860,7 @@ Voicy le Duc mon Pere, il faut luy faire entendre,
 Les effets d'vn amour & si noble & si tendre,
 Il est dénaturé⁎ s'il n'en est satisfait.
 
-**** *book_ *id_body-3-4 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-304 *act_ *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Qv'auez-vous auancé, mon fils, qu'auez-vous fait ?
@@ -915,7 +915,7 @@ Cherchez vn autre objet⁎ à vostre passion⁎ :
 Car cela ne se peut.
 
 -*who_astolfe
-Et toutefois je pense,
+      Et toutefois je pense,
 
 -*who_le_dvc
 Vous pensez ; moy je sçay de certaine science,
@@ -934,10 +934,10 @@ Qui vous monte à la teste, & vous a transporté⁎.
 I'ay plus.
 
 -*who_le_dvc
-Et qu'auez-vous.
+      Et qu'auez-vous.
 
 -*who_astolfe
-Vn plus seur temoignage.
+      Vn plus seur temoignage.
 Sa parole & sa foy⁎, m'en faut-il dauantage ?
 
 -*who_le_dvc
@@ -956,12 +956,12 @@ O Pere miserable⁎, ô fils trop malheureux.         565
 Quel mal-heur !
 
 -*who_le_dvc
-Ah mon fils, aprenez vne histoire,
+      Ah mon fils, aprenez vne histoire,
 Qui vous couure de honte & destruit vostre gloire⁎,
 Cassandre est vostre sœur.
 
 -*who_astolfe
-Qu'entens-je ? ô justes Dieux.
+      Qu'entens-je ? ô justes Dieux.
 
 -*who_le_dvc
 Descouurez⁎ si quelqu'vn nous escoute en ces lieux,
@@ -1044,7 +1044,7 @@ A ce charme⁎ diuin mon ame est trop sensible,
 L'esloignement tout seul ne me peut secourir,
 Ie ne voy que la mort qui me puisse guerir.
 
-**** *book_ *id_body-4-1 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-401 *act_ *date_1654 *creator_boisrobert
 
 -*who_moncade
 Ie vous dy verité, Dom Pedre, il est certain,
@@ -1053,7 +1053,7 @@ D'Astolfe, qui tout haut en faisoit la lecture,
 Beralde m'a trahy.
 
 -*who_don_pedre
-I'ay donc part à l'injure⁎,
+      I'ay donc part à l'injure⁎,
 Le fourbe⁎ m'aura fait sans doute vn mesme tour⁎.
 
 -*who_moncade
@@ -1064,10 +1064,10 @@ Si je souffre l'affront tenez moy pour vn lasche.
 Il faut sçauoir l'histoire auant que l'on se fasche,
 Peut-estre a-t'il raison.
 
-**** *book_ *id_body-4-2 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-402 *act_ *date_1654 *creator_boisrobert
 
 -*who_beralde
-Que leur diray-je, ô Dieux.
+      Que leur diray-je, ô Dieux.
 
 -*who_don_pedre
 Vous verrez qu'on le fourbe⁎, & qu'on me traitte mieux.
@@ -1096,10 +1096,10 @@ I'ay fort fidellement vostre billet remis.
 En main propre ?
 
 -*who_beralde
-En main propre.
+      En main propre.
 
 -*who_moncade
-O l'insigne⁎ imposture.
+      O l'insigne⁎ imposture.
 
 -*who_beralde
 Mais, Seigneur, en cecy je pleins vostre auanture⁎,
@@ -1112,7 +1112,7 @@ Qu'en donnant deuant moy vostre lettre à son frere.
 A son frere ? Ah l'ingrate.
 
 -*who_beralde
-Ou je suis abusé ;
+      Ou je suis abusé ;
 Ou de quelque autre objet son cœur est embrazé ?
 De cette auersion je ne suis pas la cause,
 Et ne pouvois pas mieux executer la chose.
@@ -1132,10 +1132,10 @@ C'est vn esprit fougueux, traittons-le doucement ;
 Puis qu'il faut feindre encor, feignons obligemment.
 Il vient.
 
-**** *book_ *id_body-4-3 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-403 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_pedre
-He, bien Beralde a-t'il donné ma lettre,
+      He, bien Beralde a-t'il donné ma lettre,
 Qu'en doit-on esperer, que m'en puis-je promettre ?
 
 -*who_beralde
@@ -1146,7 +1146,7 @@ Qu'on l'a fort bien receuë, ou je suis fort deceu⁎.
 En main propre, Beralde ?
 
 -*who_beralde
-Ouy je vous en asseure.
+      Ouy je vous en asseure.
 
 -*who_don_pedre
 Ce que vous m'asseurez, est-ce point imposture ?
@@ -1190,13 +1190,13 @@ Croyez que i'employray toute mon industrie⁎,
 Pour vous rendre content.
 
 -*who_don_pedre
-Amy je vous en prie.
+      Amy je vous en prie.
 
 -*who_beralde
 Ie me suis bien tiré d'vn pas fort dangereux,
 Mais on ne peut long-temps fourber deux amoureux.
 
-**** *book_ *id_body-4-4 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-404 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 He bien qui de nous deux, Moncade, a l'auantage ?
@@ -1206,7 +1206,7 @@ S'il faut du confident croire le tesmoignage,
 Mes affaires vont mal.
 
 -*who_don_pedre
-S'il l'en faut croire aussi,
+      S'il l'en faut croire aussi,
 Ie voy que mon dessein n'a pas mal reüssi ;
 Elle a receu ma lettre, & d'vn œil fauorable.
 
@@ -1241,17 +1241,17 @@ Sur le moindre mespris que je receuray d'elle.
 Vostre demande est juste.
 
 -*who_moncade
-Ah je la voy venir
+      Ah je la voy venir
 L'ingratte, & je ne puis ses regards soustenir ;
 Que je crains ses mespris.
 
 -*who_don_pedre
-La voulez vous attendre ?
+      La voulez vous attendre ?
 
 -*who_moncade
 Ouy, quoy qu'à son amour je n'ose rien pretendre.
 
-**** *book_ *id_body-4-5 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-405 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 Souffrez qu'auec respect je vous donne la main,
@@ -1262,15 +1262,15 @@ Quoy donc, ce que je hay me cherche, & ce que j'aime,
 Me fuit ?
 
 -*who_don_pedre
-Vous connoissez ma passion extresme
+      Vous connoissez ma passion extresme
 Madame,
 
 -*who_isabelle
-Ouy je la sçay D. Pedre, & sçay de plus,
+      Ouy je la sçay D. Pedre, & sçay de plus,
 Que vous m'auez escrit.
 
 -*who_beralde
-Nos billets sont receus.
+      Nos billets sont receus.
 
 -*who_isabelle
 Ouy, jusque dans mes mains vostre lettre est venuë,
@@ -1294,7 +1294,7 @@ Moderez vos transports⁎ D. Pedre & me quittez ;
 Adieu, laissez moy seule.
 
 -*who_don_pedre
-He bien je me retire.
+      He bien je me retire.
 
 -*who_moncade
 Que tu souffres, mon cœur, vn estrange⁎ martire.
@@ -1317,7 +1317,7 @@ Et donne luy ta vie aprés ta liberté.
 Il s'esbranle à la fin,
 
 -*who_moncade
-O rigoureuse crainte ;
+      O rigoureuse crainte ;
 
 -*who_isabelle
 Il vient : mais l'action me parest bien contrainte,
@@ -1331,7 +1331,7 @@ Ie n'ose ouurir la bouche, & tremble deuant elle.
 Qu'il est gesné⁎, bons Dieux.
 
 -*who_moncade
-Adorable Isabelle,
+      Adorable Isabelle,
 Souffrez que dans ce lieu je vous parle vn moment.
 
 -*who_isabelle
@@ -1371,7 +1371,7 @@ D'accabler de mespris vn Amant si fidelle ?
 Sans vouloir esbranler encor sa fermeté,
 Luy proposant le change & l'infidelité.
 
-**** *book_ *id_body-4-6 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-406 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 Enfin vous auez sceu qui de nous deux la touche,
@@ -1386,7 +1386,7 @@ La beauté qu'on vous offre estant plus fauorable,
 Vous rendroit plus heureux.
 
 -*who_moncade
-Que je suis miserable.
+      Que je suis miserable.
 
 -*who_don_pedre
 Vn cœur genereux⁎ cede aux volontez du sort,
@@ -1406,7 +1406,7 @@ Ie voy de ma fortune vn asseuré⁎ presage ;
 Ma rencontre a causé ce transport amoureux,
 Si j'en sçay bien vser suis-je pas trop heureux ?
 
-**** *book_ *id_body-4-7 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-407 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Astolfe tarde bien, sa longueur importune,
@@ -1457,7 +1457,7 @@ Ie vous obeïray, Madame, aueuglement,     
 Ie suiuray vos conseils.
 
 -*who_cassandre
-Vous ferez sagement,
+      Vous ferez sagement,
 
 -*who_moncade
 C'est justice, aprés tout d'aimer quand on nous aime.
@@ -1481,7 +1481,7 @@ I'aurois l'esprit bien foible, & l'ame bien grossiere ;
 Voila pourquoy sans doute on n'a peu l'obliger,
 De s'arrester au choix d'aucun Prince estranger.
 
-**** *book_ *id_body-4-8 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-408 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Astolfe enfin parest, quel chagrin l'accompagne,
@@ -1505,7 +1505,7 @@ L'excessive douleur qui cause mon martire.
 Quelle douleur, qu'entens-je ?
 
 -*who_astolfe
-Ah qu'allez-vous iuger,
+      Ah qu'allez-vous iuger,
 D'vn cœur qui vous adore & qui ne peut changer ?
 Helas qu'allez-vous dire ? helas qu'allez-vous croire ?
 I'atteste tous les Dieux dont i'ay blessé la gloire,
@@ -1544,7 +1544,7 @@ Me separant de vous je m'arrache à moy mesme,
 Il faut de vos beaux yeux me priuer desormais,
 Princesse, il faut vous dire vn adieu pour jamais.
 
-**** *book_ *id_body-4-9 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-409 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Est-ce Astolfe ? est-ce luy que j'ay veu disparestre,
@@ -1561,7 +1561,7 @@ Il ne peut s'échapper à mon juste courroux ;
 Hola.
 
 -*who_don_lope
-Que vous plaist-il, Madame, & qu'auez-vous ?
+      Que vous plaist-il, Madame, & qu'auez-vous ?
 
 -*who_cassandre
 Renferme dans ton cœur la douleur qui te presse⁎,
@@ -1600,7 +1600,7 @@ Perdre qui de ma vie est l'vnique soustien ?
 Que voulez-vous, Madame.
 
 -*who_cassandre
-Helas je ne veux rien.
+      Helas je ne veux rien.
 
 -*who_don_lope
 Son esprit agité souffre vne estrange⁎ peine.
@@ -1608,7 +1608,7 @@ Son esprit agité souffre vne estrange⁎ peine.
 -*who_cassandre
 Qu'on me cherche le Duc viste, & qu'on me l'ameine.
 
-**** *book_ *id_body-5-1 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-501 *act_ *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Ie souffre⁎ autant que vous dans cét éloignement,
@@ -1619,19 +1619,19 @@ Vostre équipage est prest, pour vostre passeport,
 Ie m'en vay le signer.
 
 -*who_astolfe
-Ah c'est signer ma mort.
+      Ah c'est signer ma mort.
 
-**** *book_ *id_body-5-2 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-502 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_lope
 La Princesse, Seigneur, auec impatience,
 Vous attend.
 
 -*who_le_dvc
-Ie vous suy.
+      Ie vous suy.
 
 -*who_don_lope
-Mais faittes diligence⁎.
+      Mais faittes diligence⁎.
 
 -*who_le_dvc
 Ie marche sur vos pas, i'y suis dans vn moment,
@@ -1643,7 +1643,7 @@ Seigneur, l'ordre est pressant, donc sans plus de demeure⁎.
 -*who_le_dvc
 Allons, tenez vous prest, je reuiens dans vne heure.
 
-**** *book_ *id_body-5-3 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-503 *act_ *date_1654 *creator_boisrobert
 
 -*who_moncade
 Ovy, ouy, brize tes fers⁎, esclaue malheureux,
@@ -1660,10 +1660,10 @@ Ie pleins cette pudeur que j'ay trop reconnuë
 Qui la gesne⁎, & l'engage à tant de retenuë,
 La voicy.
 
-**** *book_ *id_body-5-4 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-504 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
-Malheureuse ! he n'as tu pas compris,
+      Malheureuse ! he n'as tu pas compris,
 Que ton humeur facile attira ces mépris,
 Pour m'estre à cœur ouuert librement declarée,
 Mon amour d'vn ingrat⁎ est peu considerée :
@@ -1684,7 +1684,7 @@ Ne vous repentez pas d'vne bonté si grande,
 Madame.
 
 -*who_cassandre
-Quoy Moncade auroit sceu mon secret.
+      Quoy Moncade auroit sceu mon secret.
 
 -*who_moncade
 Vous l'offenceriez trop d'en montrer du regret,
@@ -1717,7 +1717,7 @@ Connoissez vous l'escrit que je tiens en mes mains :
 Et n'est-il pas de vous ! relisez-le.
 
 -*who_moncade
-Ouy, Madame,
+      Ouy, Madame,
 
 -*who_cassandre
 Adieu taschez d'en faire autant de vostre flame.
@@ -1729,13 +1729,13 @@ Auec tant de ferueur se declarast pour elle,
 Ie luy deuois marquer vn oubly d'Isabelle 
 I'ay connu sa prudence, & je voy mon erreur.
 
-**** *book_ *id_body-5-5 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-505 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_lope
 Voicy le Duc, Madame.
 
 -*who_cassandre
-Eclatte⁎ ma fureur⁎,
+      Eclatte⁎ ma fureur⁎,
 L'amour dessus mon ame auoit trop pris d'Empire⁎,
 Adieu sortez, Messieurs, que chacun se retire,
 
@@ -1773,10 +1773,10 @@ Vostre age & vostre rang ont vn grand priuilege,
 Seyez vous.
 
 -*who_le_dvc
-Iobeïs.
+      Iobeïs.
 
 -*who_cassandre
-Parlez c'est sans tesmoins.
+      Parlez c'est sans tesmoins.
 Depuis que mes Estats sont regis pas vos soins⁎,
 Me tenez vous pas lieu de Tuteur & de Pere ?
 
@@ -1937,24 +1937,24 @@ Que celuy que j'auois jusqu'au trosne éleué.
 -*who_le_dvc
 Ah l'ingrat⁎, le perfide⁎.
 
-**** *book_ *id_body-5-6 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-506 *act_ *date_1654 *creator_boisrobert
 
 -*who_don_lope
-Astolfe s'est treuué,
+      Astolfe s'est treuué,
 Madame,
 
 -*who_cassandre
-Astolfe ?
+      Astolfe ?
 
 -*who_le_dvc
-O Dieux !
+      O Dieux !
 
 -*who_cassandre
-Qu'il approche, qu'il vienne,
+      Qu'il approche, qu'il vienne,
 L'ingrat,
 
 -*who_le_dvc
-Quelle disgrace est pareille à la mienne.
+      Quelle disgrace est pareille à la mienne.
 
 -*who_cassandre
 Sa presence a d'abord⁎ dissipé mon courroux.
@@ -1984,7 +1984,7 @@ Pour s'arrester à toy par vn indigne choix ?
 Parle donc.
 
 -*who_astolfe
-Ouy, Seigneur je sçay toutes ces choses.
+      Ouy, Seigneur je sçay toutes ces choses.
 
 -*who_le_dvc
 Cependant à ce chois on dit que tu t'opposes.
@@ -1993,13 +1993,13 @@ Et te souuiens-tu pas de ce que tu promis ?
 Veux-tu pas l'espouser ?
 
 -*who_astolfe
-S'il est en ma puissance,
+      S'il est en ma puissance,
 I'ay les mesmes respects⁎, la mesme obeïssance.
 De ce tresor diuin je seray possesseur,
 Si vous me l'ordonnez.
 
 -*who_le_dvc
-Quoy meschant, de ta sœur ?
+      Quoy meschant, de ta sœur ?
 L'extrauagance est grande, & je ne la puis taire,
 Il dit qu'il ne le peut, & qu'il n'en veut rien faire.
 
@@ -2013,17 +2013,17 @@ Cét ordre rigoureux est tout plein de Iustice⁎,
 Madame, hola.
 
 -*who_don_lope
-Seigneur.
+      Seigneur.
 
 -*who_astolfe
-Injuste effet d'amour.
+      Injuste effet d'amour.
 
 -*who_le_dvc
 Saisissez vous de luy, menez le dans la tour,
 Et nous en respondez.
 
 -*who_don_lope
-Dieux cét ordre m'estonne.
+      Dieux cét ordre m'estonne.
 
 -*who_le_dvc
 Faittes ce qu'on vous dit, la Princesse l'ordonne.
@@ -2035,16 +2035,16 @@ Ouy, ouy, c'est par mon ordre, asseurez-vous⁎ de luy.
 Rendez moy vostre espée.
 
 -*who_cassandre
-Ah j'en mourray d'ennuy⁎.
+      Ah j'en mourray d'ennuy⁎.
 
 -*who_astolfe
 Prenez la.
 
 -*who_don_lope
-Suiuez moy.
+      Suiuez moy.
 
 -*who_astolfe
-I'obeis sans murmure.
+      I'obeis sans murmure.
 Cette rigueur, mon Pere, offence la nature⁎,
 Si je n'ay point failly, Dieux par quelle raison,
 
@@ -2109,7 +2109,7 @@ Et ma plus douce gloire⁎ est d'accomplir vos vœux.
 Qui peut l'en empescher ?
 
 -*who_astolfe
-Sçachez-le de sa bouche,
+      Sçachez-le de sa bouche,
 L'obstacle vient de luy, car pour ce qui me touche,
 Ie jure par l'éclat qui sort de vos beaux yeux,
 Que j'ay plus de respect⁎ pour vous, que pour les Dieux :
@@ -2163,7 +2163,7 @@ Pressé⁎ sur cét hymen, l'ingrat⁎ m'a respondu,
 Qu'il aime mieux mourir.
 
 -*who_cassandre
-Ie l'ay bien entendu,
+      Ie l'ay bien entendu,
 Mourir ? Ah c'est vn songe, & je ne le puis croire,
 Quoy preferer la mort à ton bien, à ta gloire,
 Méchant ! quoy je te suis vn objet⁎ odieux ?
@@ -2173,7 +2173,7 @@ Qui croid impunement brauer sa Souueraine,
 Gardes qu'on s'en saisisse.
 
 -*who_astolfe
-Ah dure extremité.
+      Ah dure extremité.
 
 -*who_le_dvc
 Monstre d'ingratitude⁎ & d'infidelité.
@@ -2182,7 +2182,7 @@ Monstre d'ingratitude⁎ & d'infidelité.
 Helas vous sçauez bien mon Pere.
 
 -*who_le_dvc
-Quoy, barbare ?
+      Quoy, barbare ?
 
 -*who_astolfe
 Souffrez que je luy parle auant qu'on m'en separe.
@@ -2197,7 +2197,7 @@ Duc, vous nous respondrez de cét esprit⁎ volage :
 Il a voulu la mort, mais j'en auray le choix ;
 I'entens qu'il soit jugé dans la rigueur des loix⁎.
 
-**** *book_ *id_body-6-1 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-601 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Vous m'estonnez, Beralde, Astolfe ose m'escrire ?
@@ -2206,7 +2206,7 @@ Vous m'estonnez, Beralde, Astolfe ose m'escrire ?
 Pour se justifier.
 
 -*who_cassandre
-Et que me peut-il dire ?
+      Et que me peut-il dire ?
 
 -*who_beralde
 En ouurant ce pacquet qu'il vient de me donner,
@@ -2278,7 +2278,7 @@ Qui m'a volé le cœur de cét Amant infame.
 Auez vous bien le front⁎ de parestre en ces lieux,
 Ostez vous, miserable⁎, ostez vous de mes yeux.
 
-**** *book_ *id_body-6-2 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-602 *act_ *date_1654 *creator_boisrobert
 
 -*who_isabelle
 Ie ne puis sans pleurer la voir ainsi troublée⁎,
@@ -2315,7 +2315,7 @@ Deuez vous jusqu'à moy porter vostre colere ?
 Connoissez cette lettre.
 
 -*who_isabelle
-Elle est du Duc mon pere.
+      Elle est du Duc mon pere.
 
 -*who_cassandre
 Lisez-la, malheureuse, & voyez si j'ay tort,
@@ -2329,7 +2329,7 @@ Quoy qu'il ne soit sceu que de moy,
 Plus je ly cette lettre, & moins je sçay comprendre,
 Quel est ce sens caché que vous croyez entendre.
 
-**** *book_ *id_body-6-3 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-603 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
 De ce grand coup de foudre⁎ elle a l'esprit⁎ frappé.
@@ -2381,7 +2381,7 @@ Sçachez qu'elle est ma fille, & qu'Astolfe est son frere.
 Moy je suis vostre fille ?
 
 -*who_le_dvc
-Ouy j'en jure les Dieux.
+      Ouy j'en jure les Dieux.
 
 -*who_cassandre
 Croyez vous qu'il en soit, esprit pernicieux ?
@@ -2390,7 +2390,7 @@ Imposteur, qu'est-ce encor qu'on me veut faire entendre,
 Moy je suis vostre fille ?
 
 -*who_le_dvc
-Ouy, Madame, escoutez
+      Ouy, Madame, escoutez
 Vn recit surprenant, mais plein de veritez,
 Ouy vous estes ma fille, encor je vous le jure,
 
@@ -2416,10 +2416,10 @@ Ce que j'oste à mon fils prouue assez clairement.
 Qui donc m'oste le sceptre ?
 
 -*who_le_dvc
-Isabelle,
+      Isabelle,
 
 -*who_cassandre
-Et comment ?
+      Et comment ?
 
 -*who_le_dvc
 Quand elle vint au monde elle y vint languissante,
@@ -2484,10 +2484,10 @@ Que trop injustement nous auons occuppé.
 -*who_le_dvc
 Ie vay vous obeïr.
 
-**** *book_ *id_body-6-4 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-604 *act_ *date_1654 *creator_boisrobert
 
 -*who_cassandre
-Dans cette obeïssance,
+      Dans cette obeïssance,
 Vous allez voir finir mon regne, & ma puissance :
 Et vous verrez, Princesse, en vous la remettant,
 Et mesprisant du sort le caprice⁎ inconstant
@@ -2542,7 +2542,7 @@ Ie seray la premiere à flechir les genoux,
 On fait dans le Palais assembler la Noblesse ;
 Rentrons, non non, passez vous estes ma Princesse.
 
-**** *book_ *id_body-6-5 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-605 *act_ *date_1654 *creator_boisrobert
 
 -*who_beralde
 Ie viens vous aduertir qu'Astolfe est de retour,
@@ -2550,7 +2550,7 @@ Que D. Bernard est libre, & le rameine en cour
 Malgré luy.
 
 -*who_cassandre
-Dom Bernard ? l'a-t'il pû reconnestre?
+      Dom Bernard ? l'a-t'il pû reconnestre?
 
 -*who_beralde
 Il m'a plûtost connu, qu'il n'a connu mon maistre.
@@ -2559,13 +2559,13 @@ Il m'a plûtost connu, qu'il n'a connu mon maistre.
 Bernard depuis quinze ans detenu ?
 
 -*who_beralde
-Les Voicy ?
+      Les Voicy ?
 
 -*who_cassandre
 Où s'est fait leur rencontre ?
 
 -*who_beralde
-A mille pas d'icy,
+      A mille pas d'icy,
 Voyant quel desespoir l'emportoit vers la France,
 Il la fait reuenir auecque diligence⁎,
 I'en ay fait aduertir le Duc diligemment⁎,
@@ -2575,7 +2575,7 @@ Et suis vers vostre Altesse accouru promptement.
 He bien, nous les verrons auecque la Noblesse,
 Pourray-ie bien le voir sans monstrer ma foiblesse⁎ ?
 
-**** *book_ *id_body-6-6 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-606 *act_ *date_1654 *creator_boisrobert
 
 -*who_astolfe
 Pourquoy me ramener malgré moy dans ces lieux ?
@@ -2587,13 +2587,13 @@ Mais ie le dis encor, si le Duc & Cassandre
 Ne prennent comme vous part à cét entretien,
 Vous me pressez en vain, je ne vous diray rien.
 
-**** *book_ *id_body-6-7 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-607 *act_ *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Qvoy mon fils de retour.
 
 -*who_beralde
-La chose est tres certaine.
+      La chose est tres certaine.
 
 -*who_le_dvc
 Et le vray D. Bernard malgré luy le rameine ?
@@ -2603,7 +2603,7 @@ Captif depuis quinze ans, il reuient en ces lieux ?
 Ouy, Seigneur, les voicy.
 
 -*who_le_dvc
-Quel bon-heur, justes Dieux !
+      Quel bon-heur, justes Dieux !
 Ne suis-je point deceu⁎ par vne fausse joye,
 Est-il vray, cher amy, qu'encor je vous reuoye ?
 Embrassez moy, mon fils, vous venez à propos,
@@ -2621,7 +2621,7 @@ Pourquoy nous assemblons icy tous les Estats.
 Astolfe en reuenant m'en a dit quelque chose,
 Et je sçay son chagrin dont il m'a dit la cause.
 
-**** *book_ *id_body-6-8 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-608 *act_ *date_1654 *creator_boisrobert
 
 -*who_astolfe
 Voici Cassandre, ô Dieux ! le puis-je encore reuoir,
@@ -2629,7 +2629,7 @@ Cét objet⁎ de ma rage & de mon desespoir,
 Cette sœur que j'adore ?
 
 -*who_cassandre
-Ah ! tout le cœur me tremble,
+      Ah ! tout le cœur me tremble,
 Puis-je bien voir mon frere, & mon Amant ensemble ?
 Ainsi que nostre cœur destournons-en nos yeux,
 Forçons vn mouuement qui blesseroit les Dieux.
@@ -2672,7 +2672,7 @@ Le Duc vous croit sa fille, & le croit vainement.
 Dieux que me dittes vous ?
 
 -*who_dom_bernard
-Vne verité pure,
+      Vne verité pure,
 Et quand vous aurez mieux consulté la nature⁎,
 Et gousté mes raisons, vous le sentirez bien.
 
@@ -2684,7 +2684,7 @@ Non, Madame, escoutez, s'il vous plaist vne histoire,
 Qui vous surprendra tous.
 
 -*who_le_dvc
-Quel moyen de vous croire,
+      Quel moyen de vous croire,
 Dittes moy, Dom Bernard, ne m'aydastes vous pas,
 A supposer⁎ l'enfant qui finit nos debas ?
 
@@ -2768,7 +2768,7 @@ Si vous m'eussiez plustost rendu ce tesmoignage,
 Que j'en eusse eu de joye.
 
 -*who_cassandre
-Oublions le passé
+      Oublions le passé
 Sans condamner l'erreur où l'on vous a laissé,
 Vous auez dignement gouuerné ma Prouince,
 A vostre Sang Illustre elle deuoit vn Prince,
@@ -2779,19 +2779,19 @@ Ie partage ma gloire⁎ & mon cœur auec elle,
 Et luy donne Moncade.
 
 -*who_isabelle
-O ! regne heureux & doux.
+      O ! regne heureux & doux.
 
 -*who_astolfe
 O bonté sans exemple.
 
-**** *book_ *id_body-6-9 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-609 *act_ *date_1654 *creator_boisrobert
 
 -*who_moncade
-On n'attend plus que vous,
+      On n'attend plus que vous,
 Madame.
 
 -*who_cassandre
-Allons, Moncade, on vous a fait justice⁎ :
+      Allons, Moncade, on vous a fait justice⁎ :
 Car de Beralde enfin on a sceu l'artifice,
 Isabelle auoit creu que vous pensiez à moy :
 Mais elle est detrompée, & reçoit vostre foy⁎.
@@ -2800,7 +2800,7 @@ Mais elle est detrompée, & reçoit vostre foy⁎.
 Croiray-je ce miracle !
 
 -*who_isabelle
-Ouy, vous le deuez croire.
+      Ouy, vous le deuez croire.
 
 -*who_moncade
 Aux douceurs de l'amour faisons ceder la gloire,

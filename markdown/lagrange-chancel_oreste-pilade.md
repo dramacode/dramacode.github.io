@@ -1,5 +1,5 @@
 ---
-identifier: la-grange-chancel_oreste  
+identifier: lagrange-chancel_oreste-pilade  
 creator: La Grange-Chancel, François-Joseph de  
 date: 1697  
 title: Oreste et Pilade. Tragédie  
@@ -697,8 +697,6 @@ Achevé d'imprimer pour la premiere fois le 20. Mars 1699.
 La Scene est à Anticire [257], dans le Palais de Thoas.
 
 
-ORESTE ET PILADE, OU IPHIGENIE EN TAURIDE. *TRAGEDIE*.
-
 
 ## ACTE I.
 
@@ -732,7 +730,7 @@ A-t-on tout préparé ? verray-je [269] la Princesse, [270]
 Hidaspe ?  
 
     HIDASPE.
-Elle est encore aux pieds de la Deesse.  
+        Elle est encore aux pieds de la Deesse.  
 Tandis que de ce Grec à la mort destiné,  
 On couronne de fleurs le front infortuné⁎.  
 Pleine d'un feu⁎ divin dans l'enceinte sacrée,  
@@ -775,7 +773,7 @@ Elle n'est pas la seule icy que je redoute.
 Et quel autre ennemy pouvez-vous craindre ?  
 
     THOAS.
-Ecoûte.  
+        Ecoûte.  
 Quand le feu⁎ Roy, parmy tant de Scythes fameux,  
 Daigna tourner sur moy ses regards et ses vœux,  
 Et me faire en mourant l'appuy⁎ de sa famille,  
@@ -819,7 +817,7 @@ Tremble, Thoas, au nom d'Oreste.
 Quel Oracle !  
 
     THOAS.
-En secret m'ayant esté rendu,  
+        En secret m'ayant esté rendu,  
 R'appellant aussi-tôt mon esprit éperdu,  
 Pour assurer mes jours contre ce coup funeste,  
 Je crus que je devois cacher le nom d'Oreste ;  
@@ -917,11 +915,11 @@ S'il m'avoit devancé qu'auroit-ce été, grands Dieux !
     THOAS.
 Il n'en faut point douter, ce Prince est en ces lieux.  
 
-    ANTHENOR.    
+    ANTHENOR.
 Luy ?  
 
     THOAS.
-C'est ce même Grec dont j'attens le supplice,  
+        C'est ce même Grec dont j'attens le supplice,  
 Et qu'aujourd'huy Diane accepte en sacrifice.  
 Son front où d'un beau sang⁎ se répand la fierté⁎,  
 Cet orgueil qu'il oppose à mon authorité ;  
@@ -952,13 +950,13 @@ Nous allons l'éprouver par l'hymen⁎ qui s'apreste :
 L'ordre …  
 
     IPHIGENIE.
-Arreste Thoas.  
+    Arreste Thoas.  
 
     THOAS.
-Hé quoy ?  
+    Hé quoy ?  
 
     IPHIGENIE.
-Thoas, arreste.  
+        Thoas, arreste.  
 Les Dieux n'approuvent point ton hymen⁎ avec moy.  
 Diane a prononcé. Je ne puis estre à toy :  
 Ce n'est pas tout. De sang la Deesse se lasse :  
@@ -966,10 +964,10 @@ Devant son Tribunal ce Grec a trouvé grace :
 Elle s'en fait l'appuy⁎.  
 
     THOAS.
-Ciel !  
+    Ciel !  
 
     IPHIGENIE.
-Au pied de l'Autel,  
+        Au pied de l'Autel,  
 Mon bras alloit sur luy porter le coup mortel.  
 Un prodige inouy me surprend, et m'arreste.  
 Les sacrez ornemens [305] sont tombez de sa teste.  
@@ -1005,7 +1003,7 @@ La parole a ses loix qu'on ne doit point enfraindre,
 Qui [313] le souffre⁎ est indigne …  
 
     IPHIGENIE.
-Est-ce à toy de t'en plaindre ?  
+        Est-ce à toy de t'en plaindre ?  
 Toy qui ne dois ce rang dont tu fais vanité,  
 Qu'à ton manque de foy⁎, qu'à ton impieté :  
 Aux ordres du feu⁎ Roy cesse de faire injure⁎.  
@@ -1023,7 +1021,7 @@ Aux yeux de la Deesse ose, viens m'épouser,
 Je vais t'attendre.  
 
     THOAS.
-Hé bien, je vous suis, ma vangeance …  
+        Hé bien, je vous suis, ma vangeance …  
 
 
 ### SCENE IV.
@@ -1048,7 +1046,7 @@ IPHIGENIE, CYANE.
 
 
     CYANE.
-Madame,  
+        Madame,  
 Quel est l'affreux dessein où s'emporte son ame !  
 Que [315] seroit-ce, grands Dieux ! s'il venoit à sçavoir  
 Que ce prodige n'est que pour le décevoir⁎ :  
@@ -1059,7 +1057,7 @@ Je crois déjà le voir furieux⁎, irrité, [316]
 Porter sur vôtre teste …  
 
     IPHIGENIE.
-Il n'oseroit Cyane.  
+        Il n'oseroit Cyane.  
 Consacrée aux Autels, Prestresse de Diane,  
 Quelque audace qu'il eût ce frein l'arresteroit. [317]  
 Il a beau menacer Cyane, il n'oseroit.  
@@ -1126,7 +1124,7 @@ Je n'ay conté qu'à toy les malheurs de ma vie.
 Madame …  
 
     IPHIGENIE.
-De ce nom le fier⁎ ressentiment⁎,  
+        De ce nom le fier⁎ ressentiment⁎,  
 Déteste cet indigne, et lâche abaissement.  
 Il veut briser un joug dont sa gloire est flêtrie.  
 Je brûle⁎ de revoir la Grece, ma patrie,  
@@ -1145,7 +1143,7 @@ Qu'aux mains d'Agamemnon il jure de remettre.
 Quand mon pere sçaura …  
 
     CYANE.
-Madame, y pensez-vous ?  
+        Madame, y pensez-vous ?  
 Comment le dérober à Thoas en courroux⁎ ?  
 Quand même à vôtre feinte il donneroit croyance,  
 Pensez-vous d'un Tyran tromper la prévoyance ?  
@@ -1214,7 +1212,7 @@ La Prestresse aujourd'huy le verroit son époux.
 Prevenons [334] …  
 
     ANTHENOR.
-Suspendez un moment ce courroux⁎ :  
+        Suspendez un moment ce courroux⁎ :  
 Tout semble s'opposer au sort⁎ qui vous menace.  
 Tout semble présager qu'il va changer de face :  
 Ce Grec dont le trépas est encore incertain,  
@@ -1255,7 +1253,7 @@ Peut-estre à son devoir desormais attaché,
 Qu'il vous raporte un Sceptre …  
 
     THOMIRIS.
-Aprés sa perfidie,  
+        Aprés sa perfidie,  
 Aprés l'impunité de son audace impie,  
 Vous croyez qu'aux remords il se laisse ébranler,  
 Et qu'il n'ait fait ce pas qu'afin de reculer, [339]  
@@ -1267,7 +1265,7 @@ L'Ambassadeur Sarmate est de l'intelligence [340].
 Tous contre le Tyran vont …  
 
     ANTHENOR.
-Madame, il s'avance.  
+        Madame, il s'avance.  
 
 
 ### SCENE II.
@@ -1290,7 +1288,7 @@ Vous offre, avec sa foy⁎, l'Empire⁎ du Sarmate ;
 Avide, impatient de m'acquiter vers vous, [344] [345]  
 J'ay reçû sa demande, il sera vôtre époux.  
 
-    THOMIRIS.    
+    THOMIRIS.
 Aux ordres de mon pere est-ce ainsi que vôtre ame …  
 
     THOAS.
@@ -1303,7 +1301,7 @@ Vous regnez ! Sans nul titre, et de race commune,
 A qui le devez-vous, Seigneur⁎ ?  
 
     THOAS.
-A la fortune⁎.  
+        A la fortune⁎.  
 Destiné pour remplir le Trône où je me vois,  
 Au feu⁎ Roy vôtre pere elle [346] imposa son choix.  
 C'est d'elle, et non de luy, que je tiens ma Couronne.  
@@ -1352,10 +1350,10 @@ THOAS, ANTHENOR, HIDASPE.
 
 
     THOAS *à Hidaspe.*
-Faites venir ce Grec.  
+    Faites venir ce Grec.  
 
     ANTHENOR.
-Quelle surprise !  
+        Quelle surprise !  
 Avez-vous pû, Seigneur⁎, former cette entreprise ?  
 Songez-vous bien à qui vous livrez Thomiris ?  
 Au Sarmate, au plus grand de tous vos ennemis :  
@@ -1365,7 +1363,7 @@ Il joindra tost ou tard vostre Sceptre, et le sien.
 Vous le voyez, Seigneur⁎, jamais …  
 
     THOAS.
-Je ne vois rien.  
+        Je ne vois rien.  
 Dans les divers transports⁎ dont mon trouble m'anime⁎ ;  
 Quand j'entends que les Dieux protegent ma victime,  
 Quand je vois que mon peuple interdit⁎, effrayé,  
@@ -1394,7 +1392,7 @@ Est-ce que la Prestresse est rebelle à mes loix ?
 Ne le verray-je [353] pas ?  
 
     HIDASPE.
-Seigneur⁎, on vous l'ameine :  
+        Seigneur⁎, on vous l'ameine :  
 Mais je ne l'ay du Peuple obtenu qu'avec peine :  
 Inspiré par Diane à s'en faire l'appuy⁎,  
 Son zele⁎, contre tous, se déclare pour luy ;  
@@ -1403,10 +1401,10 @@ Par les Dieux attestez j'ay dissipé sa crainte,
 J'ay promis son retour.  
 
     THOAS.
-Qu'il vienne.  
+    Qu'il vienne.  
 
     HIDASPE.
-Le voicy.  
+        Le voicy.  
 
 
 ### SCENE V.
@@ -1430,7 +1428,7 @@ Ne te retrouve pas une seconde fois.
 Tu peux partir.  
 
     PILADE.
-Le sang⁎ dont le Ciel m'a fait naistre,  
+        Le sang⁎ dont le Ciel m'a fait naistre,  
 Dans ce vaste Univers ne connoist point de maître [356] :  
 Son sort⁎ indépendant en tout temps, en tous lieux,  
 Ne reçoit ny de loix, ny d'ordres que des Dieux.  
@@ -1453,7 +1451,7 @@ THOAS, IPHIGENIE, PILADE, ANTHENOR, HIDASPSE, CYANE, TAXIS.
 
 
     THOAS.
-Venez, venez, Madame.  
+        Venez, venez, Madame.  
 Ce malheureux mortel se déclare aujourd'huy,  
 Indigne des bontez que vous avez pour luy :  
 Il mourra, rien ne peut retenir ma vangeance.  
@@ -1707,7 +1705,7 @@ THOMIRIS, ANTHENOR, ERINE.
 Verray-je l'Etranger, Anthenor ?  
 
     ANTHENOR.
-Ouy, Madame :  
+        Ouy, Madame :  
 Mais toujours agité des troubles de son ame,  
 Je viens de le laisser pasle et sans mouvement ;  
 Attendez pour le voir dans cet appartement,  
@@ -1755,7 +1753,7 @@ THOMIRIS, ERINE.
 
 
     ERINE.
-Qu'ay-je entendu !  
+        Qu'ay-je entendu !  
 Quoy ! vous renoncez donc au rang qui vous est dû,  
 En faveur de Thoas, vostre haine affoiblie …  
 
@@ -1902,7 +1900,7 @@ Quel sort⁎ m'annonce icy vostre auguste⁎ presence ?
 Ne le puis-je sçavoir ?  
 
     IPHIGENIE.
-Armez-vous de constance⁎.  
+        Armez-vous de constance⁎.  
 Montrez de vostre cœur [399] toute la fermeté.  
 C'est icy de Thoas l'Empire⁎ redouté.  
 Nul Grec ne met le pied sur ce fatal rivage,  
@@ -1922,7 +1920,7 @@ Et déja mon cœur vole au devant de vos coups.
 Me voila prest, marchons.  
 
     IPHIGENIE.
-Je demeure immobile.  
+        Je demeure immobile.  
 Que vois-je ? Que la Grece en Heros est fertile !  
 L'arrest⁎ du coup mortel qui les doit accabler,  
 N'a rien d'assez affreux pour les faire trembler.  
@@ -1962,10 +1960,10 @@ Contre la perfidie, ô titres superflus !
 Agamemnon …  
 
     IPHIGENIE.
-Hé bien ?  
+    Hé bien ?  
 
     ORESTE.
-Madame, il ne vit plus.  
+        Madame, il ne vit plus.  
 
     IPHIGENIE.
 Il ne vit plus ! Jaloux d'une si belle vie,  
@@ -1982,20 +1980,20 @@ Soüiller, par son trépas, la plus sainte des loix.
 Quelle main ?  
 
     ORESTE.
-A son nom, Ciel ! étouffe ma voix.  
+        A son nom, Ciel ! étouffe ma voix.  
 
     IPHIGENIE.
 Quel [404] est ce monstre ? ah Dieux !  
 
     ORESTE.
-Sans commettre un blasphême  
+        Sans commettre un blasphême  
 Puis-je le prononcer ! c'est sa femme elle-même.  
 
     IPHIGENIE.
 Clitemnestre !  
 
     ORESTE.
-Ouy, Madame. Horrible souvenir !  
+        Ouy, Madame. Horrible souvenir !  
 Ne puisses-tu jamais penetrer l'avenir. [405]  
 
     IPHIGENIE.
@@ -2012,7 +2010,7 @@ Mais helas ! que sa mort coûta cher à son pere. [406]
 Comment ?  
 
     ORESTE.
-Agamemnon vainqueur de tant de Rois,  
+        Agamemnon vainqueur de tant de Rois,  
 Revenoit triomphant joüir de ses exploits.  
 Egiste en son absence ayant seduit la Reine,  
 De ses amours furtifs apprehendant la peine,  
@@ -2053,7 +2051,7 @@ Non. Mais le châtiment vous en est reservé.
 Vous voyez devant vous le criminel.  
 
     IPHIGENIE.
-Impie,  
+        Impie,  
 As-tu pû, sans fremir, attenter à sa vie ?  
 Diffamé [409] par un meurtre horrible à reciter,  
 Aprés l'avoir commis oses-tu t'en vanter ?  
@@ -2073,7 +2071,7 @@ Attens mon ordre. [410]
 ### SCENE VII.
 
     ORESTE *seul*.
-Où vont ces transports⁎ furieux⁎ !  
+        Où vont ces transports⁎ furieux⁎ !  
 Quel interest prend-elle au sort⁎ de mes ayeux ?  
 Ciel ! Mais pourquoy vouloir en penetrer la cause :  
 Elle m'offre la mort ; demanday-je autre chose ?  
@@ -2115,9 +2113,9 @@ Ah ! pour moy le trépas n'a plus rien de funeste.
 C'est Pilade, grands Dieux !  
 
     PILADE.
-Que vois-je ? c'est Oreste.  
+        Que vois-je ? c'est Oreste.  
 
-    ORESTE.    
+    ORESTE.
 Pilade entre mes bras, qui l'auroit pû penser ?  
 
     PILADE.
@@ -2155,7 +2153,7 @@ Que me dis-tu ? Chargé de crimes inouïs,
 Détesté, méritant la celeste disgrace,  
 Ay-je un cœur où l'amour puisse encor trouver place ?  
 
-    PILADE.    
+    PILADE.
 Quel effort d'avoir pû resister à ses coups !  
 Cher Prince, que Pilade est encor loin de vous.  
 Seduit par les attraits de la même Prestresse,  
@@ -2181,7 +2179,7 @@ Connoissent dans quel sang ils vont tremper leurs mains. [414]
 Allons, Seigneur.  
 
     ORESTE.
-Amy, que vas-tu faire ? arreste.  
+        Amy, que vas-tu faire ? arreste.  
 
     PILADE.
 Du coup qui va tomber suspendons la tempeste,  
@@ -2197,7 +2195,7 @@ ORESTE, PILADE, HIDASPE, TAXIS.
 
 
     HIDASPE.
-Vous estes-vous acquitté de l'employ …  
+        Vous estes-vous acquitté de l'employ …  
 
     PILADE.
 Pour en estre informé, qu'on nous conduise au Roy.  
@@ -2382,11 +2380,11 @@ Aux cœurs comme le mien la vie est peu de chose.
 Quoy vous …  
 
     IPHIGENIE.
-Allons sçavoir par quel soudain appuy⁎  
+        Allons sçavoir par quel soudain appuy⁎  
 Ce Grec …  
 
     CYANE.
-Hidaspe vient, vous l'apprendrez de luy.  
+        Hidaspe vient, vous l'apprendrez de luy.  
 
 
 ### SCENE V.
@@ -2410,7 +2408,7 @@ Dans ce trouble mortel … Mais les voicy tous deux.
 Sçachez quel est celuy …  
 
     IPHIGENIE.
-Qu'on me laisse avec eux.  
+        Qu'on me laisse avec eux.  
 
 
 ### SCENE VI.
@@ -2445,7 +2443,7 @@ C'est à son amitié que j'en suis redevable :
 L'un à l'autre liez par le plus saint des nœuds⁎, [433]  
 Ou nous vivrons ensemble, ou nous mourrons tous deux.  
 
-    IPHIGENIE.    
+    IPHIGENIE.
 N'attens pas que ma main te joigne à ce perfide :  
 Je vais devant tes yeux punir son parricide, [434]  
 Dans les flots de son sang éteindre mon courroux⁎.  
@@ -2455,7 +2453,7 @@ Puisse obtenir la mort par grace, ou par supplice.
 Venez.  
 
     PILADE.
-Craignez vous-même, et tremblez d'y penser.  
+        Craignez vous-même, et tremblez d'y penser.  
 C'est le pur sang⁎ des Dieux que vous allez verser.  
 Son bras, à vos desseins, peut servir mieux qu'un autre :  
 Sa haine, pour Thoas, est égale à la vôtre ;  
@@ -2468,7 +2466,7 @@ Heritier de son rang, c'est son fils, c'est Oreste.
 Oreste !  
 
     ORESTE.
-A cet amy n'ajoûtez point de foy⁎,  
+        A cet amy n'ajoûtez point de foy⁎,  
 Il vous peint des vertus qui ne sont point en moy.  
 Ce n'est que par pitié que sa bouche me louë.  
 Je suis du sang des Dieux, il est vray, je l'avouë ;  
@@ -2486,7 +2484,7 @@ N'écoûtez sur ma mort ny pitié, ny priere,
 Ouy, je vous la demande à genoux.  
 
     IPHIGENIE.
-Ah mon frere !  
+        Ah mon frere !  
 
     ORESTE.
 Juste Ciel ! de quel nom vient-on de m'honorer !  
@@ -2528,7 +2526,7 @@ J'estois tantôt coupable, et je le suis encore.
 Hélas !  
 
     ORESTE.
-Il n'est plus temps de répandre des pleurs,  
+        Il n'est plus temps de répandre des pleurs,  
 A l'espoir dont le Ciel nous flate⁎, ouvrons nos cœurs :  
 Je me sens inspiré par ses vives lumieres,  
 Et dans l'évenement de ses profonds mysteres⁎,  
@@ -2557,7 +2555,7 @@ Où sa fortune⁎ attache et ses soins⁎, et sa vûë.
 Contre tant de perils qu'oserez-vous tenter ?  
 Quel miracle ! quel Dieu pourroient les surmonter !  
 
-    PILADE.    
+    PILADE.
 Madame, n'ayez point ces indignes allarmes⁎,  
 Livrez-nous seulement la Statuë, et des armes,  
 Les Dieux de ce peril sçauront nous dégager :  
@@ -2570,7 +2568,7 @@ Epargne à vôtre main l'horreur d'un sacrilege,
 Qu'aux ordres de Thoas …  
 
     IPHIGENIE.
-Et moy que deviendray-je [444] ?  
+        Et moy que deviendray-je [444] ?  
 Sanglant, enorgueilly d'un triomphe inhumain,  
 Je verray le Tyran vos testes à la main,  
 M'imposer un hymen⁎ que mon ame déteste.  
@@ -2601,7 +2599,7 @@ Que je vive, Madame, et respire sans vous :
 Ah ! plûtost tout mon sang …  
 
     IPHIGENIE.
-Le Tyran vient à nous.  
+        Le Tyran vient à nous.  
 
 
 ### SCENE VII.
@@ -2622,7 +2620,7 @@ Tous deux d'un saint devoir également épris,
 De mourir l'un pour l'autre ont la perseverence,  
 Aucun ne veut devoir la vie à ta clemence.  
 
-    THOAS.    
+    THOAS.
 Cette confusion commence à me lasser,  
 Madame, c'est à vous de la faire cesser.  
 Faites-moy voir Oreste, et me livrez sa teste [448],  
@@ -2660,7 +2658,7 @@ La Tauride verra ce qu'on vit devant Troye.
 Ils se partageront en ce commun effroy,  
 Et s'il en est pour eux, il en sera pour moy.  
 
-    IPHIGENIE.    
+    IPHIGENIE.
 Quel es-tu pour tenir ce superbe⁎ langage ?  
 Oses-tu commander à qui tu dois hommage ?  
 Plus haut que ton pouvoir n'éleves point ta voix,  
@@ -2714,7 +2712,7 @@ Vous pouvez de ma part le luy faire sçavoir.
 Allez.  
 
     ANTHENOR.
-Jusques au Temple, où son zele⁎ s'empresse  
+        Jusques au Temple, où son zele⁎ s'empresse  
 D'aller pour son voyage implorer la Deesse,  
 Je vais de vos bontez, Seigneur⁎, luy faire part.  
 
@@ -2778,7 +2776,7 @@ THOAS, HIDASPE.
 
 
     THOAS.
-Par quels retardemens …  
+        Par quels retardemens …  
 
     HIDASPE.
 Tout succede, Seigneur, à vos empressemens⁎.  
@@ -2855,7 +2853,7 @@ Qu'on avoit de Diane enlevé la statuë.
 Ciel !  
 
     TAXIS.
-Accusant les Grecs de cette impieté,  
+        Accusant les Grecs de cette impieté,  
 A les chercher par tout mon zele⁎ m'a porté.  
 Je fais entendre en vain par tout leur nom funeste.  
 Aucun ne me répond quand je demande Oreste.  
@@ -2867,7 +2865,7 @@ Et mon lâche ennemy trouve qui [466] le protege.
 Quel monstre dans ma Cour …  
 
     TAXIS
-Seigneur⁎, vous le diray-je,  
+        Seigneur⁎, vous le diray-je,  
 Une impie, une ingrate, une fiere⁎ beauté,  
 Se vante, sans fremir, de cette impieté :  
 Elle ose aux yeux de tous avoüer son offense,  
@@ -2966,7 +2964,7 @@ THOAS, THOMIRIS, TAXIS.
 
 
     TAXIS.
-Venez, Seigneur⁎,  
+        Venez, Seigneur⁎,  
 Le jour nous a fait voir la troupe fugitive,  
 Qu'un orage imprévû retient prés de la rive.  
 Hidaspe par les vents les voyant arrestez,  
@@ -3076,7 +3074,7 @@ Il le joint [478] ; mais bien-tost il a le même sort,
 Sous le fer de ce Prince il expire.  
 
     THOMIRIS.
-Il est mort.  
+        Il est mort.  
 
     ANTHENOR.
 Ouy, Madame, et la mer jusqu'alors soûlevée, [479]  

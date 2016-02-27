@@ -1,5 +1,5 @@
 ---
-identifier: puget-de-la-serre_martyre  
+identifier: puget-serre_martyre-sainte-catherine  
 creator: Puget de La Serre, Jean  
 date: 1643  
 title: Le Martyre de sainte Catherine. Tragédie en prose  
@@ -794,7 +794,7 @@ Que les bornes de cét Empire sont aujourd'huy de longue étenduë, puis qu'une 
     LEONOR
 Quel demon jaloux de vostre repos, Madame, vous oste le sentiment [26] de ses delices : Tout rit à vos desirs ; le Soleil vous peut faire voir sur la terre autant d'esclaves qu'elle porte de mortels. Et comme si vous estiez insensible à toutes ces faveurs, vous en mesprisez la jouïssance, apres avoir fait mille vœux pour les acquerir. Les Chrestiens doivent estre immolez à la juste cholere de l'Empereur, pour porter la peine de leur des-obeïssance. Nos Autels attendent aujourd'huy ces victimes, ou leurs offrandes.
 
-    ROSILEE 
+    ROSILEE
 La Religion ne s'introduit pas dans nos ames, ma soeur, ny par le fer, ny par le feu, il faut que la Nature nous en donne les premiers sentimens, & que les Dieux achevent le reste. Car comme ils ne sont que lumiere, c'est à eux d'esclairer nos esprits pour les eslever jusques à leur connoissance, selon la portée⁎ de nostre condition. Les Chrestiens sont plus malheureux que coupables. Que si les Loix de l'Etat, plustost que celle de la Raison, demandent ou leur vie, ou leur obeïssance, dans la necessité⁎ où ils se treuvent reduits, je souffre avec eux une partie de sa violence.
 
     L'IMPERATRICE
@@ -1497,7 +1497,7 @@ Tu ressentiras bien-tost la Vertu du premier [130] qu'il a fait, Lucius, puis qu
     LUCIUS
 Ha Seigneur, le jour [131] de ta grace commence à luire dans mon ame ! Sa lumiere perce le bandeau de mon aveuglement: Je ressens ta Bonté, je recognois ta Puissance, je confesse ton Nom; J'adore le Dieu des Chrestiens. Sire, vostre Majesté peut voir son erreur dans la confession publique que je fais mienne, mon esprit humilié, & ma raison sousmise sous le doux joug de la Foy, me font cognoistre⁎ mon ignorance. Le Dieu seul des Chrestiens doit estre adoré.
 
-    L'EMPEREUR 
+    L'EMPEREUR
 L'Empereur se leve de sa chaise avec colere.
 
 Quel subit changement ? Quoy Lucius ? une fille nouvellement instruite dans sa Religion vous imposera silence au mépris des Dieux & de mon autorité, c'est ce que je ne puis concevoir. Recommencez la dispute.

@@ -1243,10 +1243,6 @@ Achevé d'imprimer le 21. Fevrier, 1636.
  – TIMANTEPrince.
  – CLORIMANTEVieillard.
 
-CLEOMEDON
-
-TRAGE-COMEDIE
-
 
 ## ACTE I
 
@@ -1256,7 +1252,7 @@ ARGIRE. CELIANTE. PLACIDE.
 
 
     ARGIRE.
-Va d'un pas genereux⁎ pour suivre la victoire ;                       
+Va d'un pas genereux⁎ pour suivre la victoire ;  
 Adjouste à ta grandeur le lustre de ta gloire⁎,  
 Et monstre que ton bras t'eust le Sceptre donné [74]  
 Si le Ciel en naissant [75] ne t'eust pas couronné.  
@@ -1334,7 +1330,7 @@ Comparable au Soleil tousjours foible en naissant
 Il acquit plus d'eclat la journee s'avançant.  
 
     ARGIRE.
-Ne pût-il [85] s'affranchir avecques [86] tant de grace⁎  ?               
+Ne pût-il [85] s'affranchir avecques [86] tant de grace⁎  ?  
 
     PLACIDE.
 Un jour que l'on prenoit les plaisirs de la chasse,  
@@ -1382,7 +1378,7 @@ Fust-il environné de mille bataillons,
 Fust-il comme les Dieux armé de tourbillons,  
 Il aura seulement cette bonne fortune⁎,  
 D'avoir avec son Prince une tombe commune,  
-Et quelque grand succez⁎ qu'il se soit proposé                      
+Et quelque grand succez⁎ qu'il se soit proposé  
 Il aura le seul bien d'avoir beaucoup osé.  
 Mais il est temps d'aller où la gloire⁎ m'appelle.  
 
@@ -1468,7 +1464,7 @@ Celiante est son fils !
 Vous m'estonnez⁎, Madame.  
 
     ARGIRE.
-            Escoute seulement,  
+        Escoute seulement,  
 Et donne un peu de tresve à ton estonnement⁎.  
 Policandre fort jeune, et bien plus temeraire  
 Se déroba jadis à la Cour de son pere,  
@@ -1613,7 +1609,7 @@ Mais il est vostre sang⁎.
     ARGIRE.
         Il l'est de Policandre,  
 Ne t'estonne⁎ donc pas si je veus le repandre.  
-Si le malheur du fils est au pere fatal,                           
+Si le malheur du fils est au pere fatal,  
 Que l'on verse son sang⁎, je consens à son mal [127].  
 Pour avoir sur ce traistre une insigne⁎ victoire,  
 Je voudrois hazarder⁎, et mon Sceptre⁎ et ma gloire⁎,  
@@ -1718,7 +1714,7 @@ PLACIDE.
 
 
     POLICANDRE.
-            Quelle triste⁎ nouvelle                       
+        Quelle triste⁎ nouvelle  
 Venez-vous adjouster à ma peine éternelle ?  
 Void-on pendre sur nous un desastre nouveau ?  
 Suis-je proche du trosne, ou proche du tombeau ?  
@@ -1746,7 +1742,7 @@ Sire, dans ce combat vos gens⁎ victorieux
 Ont fait de [139] cent captifs un butin glorieux.  
 
     POLICANDRE.
-Que [140] servent cent captifs à qui perd un Empire ?                  
+Que [140] servent cent captifs à qui perd un Empire ?  
 
     BIRENE.
 Mais on a pris entre eux [141] un confident d'Argire,  
@@ -1775,16 +1771,16 @@ Il se meurt [145], mon amy, parle, et faits [146] un effort⁎.
 Grand Prince, Celiante. [147]  
 
     POLICANDRE.
-        Achevez.  
+    Achevez.  
 
     CELANIRE.
-                Il est mort.  
+        Il est mort.  
 
     BIRENE.
 Courage⁎, Celiante, achevez, [148]  
 
     POLICANDRE.
-                Ha ! Birene.  
+        Ha ! Birene.  
 Je croy qu'il n'a paru que pour me mettre en peine,  
 Et pour vanger sur moy [149] son desastre apparant,  
 Par les profonds soucis ⁎ qu'il me laisse en mourant.  
@@ -1892,10 +1888,10 @@ Aussi bien ces discours me semblent superflus.
 Sortez-vous ?  
 
     CELANIRE
-        Non ma sœur.  
+    Non ma sœur.  
 
     BELISE
-                Adieu donc je vous laisse,  
+        Adieu donc je vous laisse,  
 Il faut que j'aille au temple, et desjà l'heure presse⁎.  
 
     CELANIRE *seule.*
@@ -2004,7 +2000,7 @@ Que sans temerité j'attends de ma fortune⁎.
 
     CELANIRE
 Je t'ayme, c'est assez, et ce discours t'apprend  
-Que tu dois regarder plus haut que tu n'es grand ;                  
+Que tu dois regarder plus haut que tu n'es grand ;  
 Pour aspirer enfin où j'aspire moy-mesme,  
 Ne te regarde pas, mais regarde qui t'ayme,  
 Et croy que ce destin qui te fit mon Amant⁎,  
@@ -2047,7 +2043,7 @@ CELIANTE. ORONTE.
     ORONTE
 Puisque par les Destins il estoit arresté⁎,  
 Que je partagerois vostre captivité.  
-Puisque le bras fatal de l'aveugle fortune⁎                      
+Puisque le bras fatal de l'aveugle fortune⁎  
 Nous a fait rencontrer une prison commune,      
 Souffrez qu'à vos douleurs tous mes soins soient offerts,  
 Et qu'enfin je vous ayde à supporter vos fers⁎.  
@@ -2093,7 +2089,7 @@ Qui vous pourroit troubler en cette extremité,
 Si vous ne l'estes pas par vostre aversité⁎  ?  
 
     CELIANTE
-Helas ! de mille maux ma fortune⁎ est suivie,                      
+Helas ! de mille maux ma fortune⁎ est suivie,  
 Un ennemy secret attente sur ma vie,  
 Et desja de ses traits⁎ l'invincible rigueur,  
 Malgré tous mes efforts⁎ m'a traversé le cœur.  
@@ -2108,7 +2104,7 @@ Tout captif que je suis j'en sçauray triompher.
 Ton secours est trop foible.  
 
     ORONTE
-                Hé bien pour s'en deffendre  
+        Hé bien pour s'en deffendre  
 Il faut de son dessein avertir Policandre.  
 
     CELIANTE
@@ -2186,10 +2182,10 @@ Et vaincre un ennemi qui triompha d'Hercule ?
 Non, non, Sire.      
 
     CELIANTE
-        Hé quoy donc ?  
+    Hé quoy donc ?  
 
     ORONTE
-                Escoutez seulement.  
+        Escoutez seulement.  
 
     CELIANTE
 Que pourrois-je escouter pour mon soulagement ?  
@@ -2200,10 +2196,10 @@ Il faut à mon secours la Mort ou Celanire.
 Vous l'aurez.  
 
     CELIANTE
-        Quoy la Mort ?  
+    Quoy la Mort ?  
 
     ORONTE
-                Vous aurez du secours  
+        Vous aurez du secours  
 Si l'oreille et le cœur s'ouvrent à mon discours.  
 
     CELIANTE
@@ -2337,7 +2333,7 @@ TIMANTE et CREON demeurent.
 
 
     TIMANTE
-O dessein plus honteux et bien plus redoutable,                      
+O dessein plus honteux et bien plus redoutable,  
 Que nostre aversité⁎ ne fut espouventable !  
 Faut-il qu'un estranger, nostre esclave autrefois,  
 Remplisse avec orgueil le throsne de nos Rois [198] ?  
@@ -2382,7 +2378,7 @@ Au moins nous direz vous l'estat de vostre Roy.
 
     ORONTE
 Vous le comblez icy de tant de bons offices,  
-Qu'il y met sa prison au rang de ses delices.                      
+Qu'il y met sa prison au rang de ses delices.  
 Et loing de vouloir mal [201] à celuy qui l'a pris,  
 Il pense luy devoir un legitime prix.  
 
@@ -2400,7 +2396,7 @@ Mais que luy donne-on ?
 Celanire ?  
 
     CREON
-Elle mesme.  
+    Elle mesme.  
 
     ORONTE
         Ha ! vous m'avez surpris.  
@@ -2435,7 +2431,7 @@ Mais sans peine et sans force il adore des Maistres,
 Dont il a respecté les Illustres Ancestres.  
 
     ORONTE
-Ce discours me promet de bons evenements ;                  
+Ce discours me promet de bons evenements ;  
 Et je doy profiter de leurs ressentiments [207].  
 Il le faut confesser, un hymen⁎ de la sorte  
 A beaucoup de mal-heurs pourroit ouvrir la porte.  
@@ -2450,10 +2446,10 @@ Qu'ils pouvoient en effet ce qu'ils faisoient en songe⁎ [209]  :
 Mais depuis.  
 
     TIMANTE
-        Quoy depuis ?  
+    Quoy depuis ?  
 
     ORONTE
-                Il n'y faut plus songer⁎ [210].  
+        Il n'y faut plus songer⁎ [210].  
 
     CREON
 L'avis⁎ n'est pas de ceux que l'on doit negliger.  
@@ -2476,7 +2472,7 @@ Il est vray quelquesfois.
 Mais que dit vostre Roy de ce songe⁎ ?  
 
     ORONTE
-                Il l'ignore.  
+        Il l'ignore.  
 
     TIMANTE
 Y voudroit-il penser ?  
@@ -2490,7 +2486,7 @@ Oronte, croyez-nous que s'il y veut entendre,
 Nous ferons plus pour luy qu'il ne sçauroit pretendre.  
 
     ORONTE
-Si vous estes pour luy, je veux tout esperer.                      
+Si vous estes pour luy, je veux tout esperer.  
 
     TIMANTE
 De ce que nous pouvons, vous pouvez l'asseurer.  
@@ -2637,7 +2633,7 @@ Je le pourray, ma soeur, si le Roy le desire.
 Vous le pourrez, ma Sœur ?  
 
     CELANIRE
-                Suivre sa volonté,  
+        Suivre sa volonté,  
 C'est tout ce que je puis en cette extremité.  
 
     BELISE
@@ -2756,7 +2752,7 @@ Pour un point important j'allasse le revoir.
 Helas !  
 
     CLEOMEDON
-Que dites-vous ?  
+    Que dites-vous ?  
 
     CELANIRE
         Helas ! il faut me taire,  
@@ -2824,7 +2820,7 @@ Faites donc de ma mort, mon prix ou mon supplice,
 Et si l'œil m'a blessé, que la main me guerisse [240].  
 
     CELANIRE
-Adieu ; va voir le Roy ; voicy la fin du jour [241],                      
+Adieu ; va voir le Roy ; voicy la fin du jour [241],  
 Monstre lui du respect, et cache mon amour.  
 Resiste prudemment à ce malheur extreme,  
 Et lors [242] que tu me perds ne te perds pas toy-mesme.  
@@ -2864,7 +2860,7 @@ Par cét heureux hymen⁎ deux couronnes unies,
 De nos mauvais destins vaincront les tyrannies.  
 Par lui dans nos Estats on verra desormais  
 Renaistre heureusement l'abondance et la paix.  
-Bien qu'à Cleomedon ma promesse m'engage,                      
+Bien qu'à Cleomedon ma promesse m'engage,  
 Bien qu'il en ait receu ma parole pour gage⁎,  
 Je sçay bien neantmoins que ses affections  
 Se regleront tousjours par mes intentions :  
@@ -3123,7 +3119,7 @@ Quiconque est animé⁎ d'une ame genereuse⁎,
 Sçaura plaindre par tout la vertu mal-heureuse.  
 
     CELIANTE
-Je ne sçay si l'amour, ou bien l'ambition [263]                      
+Je ne sçay si l'amour, ou bien l'ambition [263]  
 Lui firent souhaiter vostre possession.  
 
     CELANIRE
@@ -3137,7 +3133,7 @@ Est à l'un comme à l'autre une peine bien deuë.
 Que dites-vous, Monsieur ?  
 
     CELIANTE
-                N'avez-vous pas appris  
+        N'avez-vous pas appris  
 Qu'Amour ou sa disgrace a troublé ses esprits ?  
 Et que par les effets de la melancolie⁎  
 A son ambition succede la folie ?  
@@ -3146,7 +3142,7 @@ A son ambition succede la folie ?
 Helas !  
 
     CELIANTE
-Cleomedon devenu furieux  
+        Cleomedon devenu furieux  
 Choque⁎ indifferement les hommes et les Dieux.  
 Mais comme on ne void rien qui ne cede à vos charmes⁎,  
 Vostre nom seulement luy fait quitter les armes,  
@@ -3217,7 +3213,7 @@ Il est vray que j'ay tort, et j'ose vous le dire,
 Mais qui peut justement esperer Celanire ?  
 Entre nous neantmoins est cette esgalité,  
 Que je suis en amour ce qu'elle est en beauté.  
-Enfin je vous adore, enfin belle Princesse,                      
+Enfin je vous adore, enfin belle Princesse,  
 Je ne cognoy que vous de Reine et de Deesse [274],  
 Et je souhaiterois d'estre au nombre des Dieux,  
 A dessein seulement de vous meriter mieux.  
@@ -3293,7 +3289,7 @@ Celiante se retire. [283]
 Qu'en dites-vous, ma Sœur ?  
 
     CELANIRE
-                Qu'il est tousjours celuy  
+        Qu'il est tousjours celuy  
 Qui causa nos malheurs, et qui fit mon ennuy⁎.  
 Qu'il m'ayme, qu'il souspire⁎, et qu'il verse des larmes,  
 Son amitié me plaist comme firent ses armes.  
@@ -3364,7 +3360,7 @@ Mon amour seulement le fait souhaiter [285].
 Mais, helas ! quelle Amour ?  
 
     CELANIRE
-                Je sçay qu'elle est divine.  
+        Je sçay qu'elle est divine.  
 
     BELISE
 Elle est autre, ma Sœur, que l'on ne l'imagine :  
@@ -3442,7 +3438,7 @@ Si j'en pleure aujourd'huy, si je m'en desespere,
 C'est de voir que le fils n'a pas suivy la Mere.  
 
     TIMANTE
-Mais pour vous consoler de cette aversité⁎,                      
+Mais pour vous consoler de cette aversité⁎,  
 C'est assez de sçavoir que le fils est resté.  
 
     CELANIRE
@@ -3493,7 +3489,7 @@ Cependant pour le prix de ma fidelité,
 Souviens-toy, me dit-on, que je t'ay rachepté.  
 
     BIRENE
-Faut-il qu'une parole abatte ce courage⁎,                      
+Faut-il qu'une parole abatte ce courage⁎,  
 Qu'un Lyon ne pût vaincre avec toute sa rage ?  
 Faut-il que quatre mots triomphent de ce cœur,  
 Dont le pouvoir d'un Roy ne pût estre vainqueur ?  
@@ -3537,7 +3533,7 @@ Ne laissons rien debout, où l'on veut m'abaisser :
 Si j'ay tout relevé, je puis tout renverser⁎.  
 
     BIRENE
-Monsieur, parlez plus bas songez⁎ à Celanire.                      
+Monsieur, parlez plus bas songez⁎ à Celanire.  
 Si vous ne vous taisez, pour moy je le vay dire.  
 
     CLEOMEDON
@@ -3579,7 +3575,7 @@ Osons tout, perdons tout, desjà la terre s'ouvre,
 Et pour me secourir tout l'enfer se descouvre⁎,  
 De leurs fers⁎ eternels les Titans detachez,  
 Paroissent sur les monts qu'ils avoient arrachez [300].  
-Regarde, cher amy, leur troupe qui s'assemble,                      
+Regarde, cher amy, leur troupe qui s'assemble,  
 Dessous de si grands corps desjà la terre tremble.  
 Le Soleil s'en estonne⁎, et semble dire aux Dieux,  
 Qu'une seconde guerre a menacé les Cieux.  
@@ -3674,7 +3670,7 @@ CLORIMANTE. ORONTE. BIRENE.
 Ne puis-je voir le Roy ?  
 
     ORONTE
-            Que lui voulez-vous dire ?  
+        Que lui voulez-vous dire ?  
 
     CLORIMANTE
 Chose qui le regarde aussi bien que l'Empire.  
@@ -3729,7 +3725,7 @@ POLICANDRE
 Mais desjà le Roy sort⁎.  
 
     BIRENE
-            Mais voyez quelle audace.  
+        Mais voyez quelle audace.  
 
     CLORIMANTE
 Ha ! grand Prince, ha ! Messieurs, permettez que je passe,  
@@ -3740,7 +3736,7 @@ Pour entendre la fin de vos adversitez.
 Qu'on esloigne ce gueux.  
 
     CLORIMANTE
-            Sire, c'est Clorimante.  
+        Sire, c'est Clorimante.  
 
     POLICANDRE
 Que dit-il ?  
@@ -3752,7 +3748,7 @@ Que dit-il ?
 Qu'on le fasse approcher.  
 
     CLORIMANTE
-            Que les Dieux me sont doux,  
+        Que les Dieux me sont doux,  
 De me permettre encor d'embrasser vos genoux !  
 
     POLICANDRE
@@ -3789,7 +3785,7 @@ Que jamais ma faveur ne t'abandonnera.
 Monsieur, pardonnez-nous.  
 
     CLORIMANTE
-            Est-ce à moy qu'on s'adresse ?  
+        Est-ce à moy qu'on s'adresse ?  
 Qui m'outrageoit tantost, maintenant me caresse.  
 Que ne peut la faveur ! Quand nous la possedons,  
 Nous avons plus d'amis que nous n'en demandons.  
@@ -3807,7 +3803,7 @@ En vain⁎ par ma raison je veux estre guidee,
 Toujours de deux Tyrans mon ame est possedee,  
 L'amour et le respect la divisent entre-eux,  
 Et mesme ma raison paroist pour tous les deux.  
-La raison equitable autant qu'elle est severe,                       
+La raison equitable autant qu'elle est severe,  
 Veut que je suive icy les volontez d'un pere.  
 Et la mesme raison venant à mon secours,  
 Veut qu'à nos deffenseurs nous devions nos amours.  
@@ -3834,21 +3830,21 @@ BIRENE. CLEOMEDON. CELANIRE.
 Monsieur, que faites-vous ?  
 
     CLEOMEDON
-                Sa perte est arrestee⁎,  
+        Sa perte est arrestee⁎,  
 Dés le mesme moment que je l'ay meditee.  
 Puisque je l'ay juré sa ruïne [318] le suit.  
 Tu me retiens en vain⁎.  
 
     CELANIRE
-            Mais j'entens quelque bruit.  
+        Mais j'entens quelque bruit.  
 Est-ce vous ?  
 
     CLEOMEDON
-        Ha ! Ma Reine.  
+    Ha ! Ma Reine.  
 
     BIRENE
-                Opposez-vous, Madame,  
-A ce nouveau transport⁎ qui bourrelle⁎ son ame.                   
+        Opposez-vous, Madame,  
+A ce nouveau transport⁎ qui bourrelle⁎ son ame.  
 Il cherche Celiante, et conspire sa mort.  
 
     CELANIRE
@@ -3897,7 +3893,7 @@ Quoy qu'on ait laschement contre moy suscité⁎,
 Mon sang⁎ ne coule pas s'il n'est bien achepté.  
 Ce Monarque amoureux sera de mes victimes,  
 Je veux de son trespas faire l'un de mes crimes,  
-Je le veux immoler à mon dernier transport⁎,                      
+Je le veux immoler à mon dernier transport⁎,  
 Affin que si je meurs je merite la mort.  
 
     CELANIRE
@@ -3932,7 +3928,7 @@ C'est de voir par nos maux nostre ennemy content⁎.
 Arreste⁎ encore un coup⁎.  
 
     CLEOMEDON
-            Ainsi tout m'est contraire,  
+        Ainsi tout m'est contraire,  
 Puisque ce [322] qui m'aymoit deffend mon aversaire.  
 
     CELANIRE
@@ -3948,7 +3944,7 @@ Lors qu'il [324] est sans espoir, il a desjà pery.
     CELANIRE
 Ne desespere point, asseuré que personne  
 Ne t'ostera jamais la foy⁎ que je te donne.  
-Et si tu n'as ce cœur amoureux et bruslant,                       
+Et si tu n'as ce cœur amoureux et bruslant,  
 Un autre desormais ne l'aura que sanglant.  
 Le Ciel ne l'enferma dans ce sein miserable⁎,  
 Qu'affin qu'il fust un jour ton prix plus honnorable [325].  
@@ -3965,7 +3961,7 @@ J'espereray, Madame, et ce sera la mort.
 Quelqu'un vous vient querir.  
 
     CELANIRE *en s'en allant.*
-                Adieu donc, mais espere,  
+        Adieu donc, mais espere,  
 Et croy ce que je dis plustost que ta colere.  
 
     CLEOMEDON
@@ -4064,7 +4060,7 @@ L'envoyerent icy pour vostre allegement.
 Mais le voicy qui vient.  
 
     ARGIRE
-            Hé ! Dieux, c'est Clorimante.  
+        Hé ! Dieux, c'est Clorimante.  
 Que devint en tes mains le petit Celiante ?  
 
     CLORIMANTE
@@ -4077,10 +4073,10 @@ Ha ! Madame,
 Il est.  
 
     ARGIRE
-Acheve, [333]  
+    Acheve, [333]  
 
     CLORIMANTE
-            Il est ce qu'a voulu le Sort⁎.  
+        Il est ce qu'a voulu le Sort⁎.  
 
     ARGIRE
 Celiante n'est plus.  
@@ -4111,7 +4107,7 @@ Un moment devant vous [337] je vins trouver le Roy.
 Helas ! mon fils est mort.  
 
     POLICANDRE
-            Mais lors que [338] cette guerre  
+        Mais lors que [338] cette guerre  
 Passa dans vos Estats de mesme qu'un tonnerre,  
 Un enfant aussi beau que la mesme [339] beauté  
 Me fut pour mon bon-heur esclave presenté ;  
@@ -4121,7 +4117,7 @@ Ne seroit-ce point luy ? Mandez Cleomedon.
 Le recognoistrez-vous ?  
 
     CLORIMANTE
-            Non pas, Sire, à ce nom.  
+        Non pas, Sire, à ce nom.  
 
     POLICANDRE
 Celuy de Quinicson le fera-il connoistre⁎ ?  
@@ -4130,7 +4126,7 @@ Celuy de Quinicson le fera-il connoistre⁎ ?
 Ha ! Sire, je le voy.  
 
     ARGIRE
-            Je ne voy rien paraistre [340].  
+        Je ne voy rien paraistre [340].  
 
     CLORIMANTE
 A ce nom seulement je pense le revoir.  
@@ -4144,7 +4140,7 @@ Et de n'avoir trouvé que son nom seulement.
 Pourquoy le changea-on ?  
 
     POLICANDRE
-            Il sembla trop barbare⁎,  
+        Il sembla trop barbare⁎,  
 Pour un petit enfant d'une beauté si rare.  
 
     ARGIRE
@@ -4167,7 +4163,7 @@ C'est luy mesme, Madame, ô Divine advanture !    
 Dois-je esperer ce bien ?  
 
     POLICANDRE
-            Madame le voicy.  
+        Madame le voicy.  
 ACTE V
 
 
@@ -4187,7 +4183,7 @@ Voyez subtilement si sa main est marquee [344].
 Faut-il voir de nouveau ma fortune⁎ attaquee ?  
 Ne me fait-on paraistre en ces lieux redoutez,  
 Que pour mieux m'asseurer de mes adversitez ?  
-Que pour me faire voir que ma force contrainte,                  
+Que pour me faire voir que ma force contrainte,  
 Est le mespris de ceux dont elle fut la crainte ?  
 Hé ! quoy, pour vos Estats par ma main deffendus,  
 Pour tant de maux chassez, pour tant de biens rendus,  
@@ -4221,7 +4217,7 @@ Ha ! Sire, c'est luy-mesme, ha ! mon Prince, ha ! mon Roy.
 Je le voy, ce laurier⁎.  
 
     ARGIRE
-            Moy-mesme je le voy,  
+        Moy-mesme je le voy,  
 Mais mieux que le laurier⁎ que nous voyons paraistre,  
 Un secret mouvement me l'a fait recognoistre,  
 La Nature et le Ciel favorables et doux,  
@@ -4230,7 +4226,7 @@ Me le font voir icy par d'autres yeux que vous.
     POLICANDRE
 Ainsi le juste Ciel luy donna par avance,  
 De ses hautes vertus la noble recompense,  
-Et monstra qu'il seroit la gloire⁎ des guerriers,                      
+Et monstra qu'il seroit la gloire⁎ des guerriers,  
 Puisque mesme en naissant il obtint des lauriers⁎.  
 
     ARGIRE
@@ -4265,7 +4261,7 @@ Et si ton mal fut grand, ton bon cœur l'est aussi.
 Voy ton frere, et l'embrasse.  
 
     CLEOMEDON
-                Hé ! Dieu, ce Roy mon frere,  
+        Hé ! Dieu, ce Roy mon frere,  
 Ha ! Sire, la risee est icy toute claire.  
 Mon frere, un ennemy qui me prive de biens,  
 Et m'oste mes thresors pour en faire les siens !  
@@ -4312,7 +4308,7 @@ Celiante, mon fils, contente⁎ mes desirs.
 Me voilà prest à tout.  
 
     POLICANDRE
-            Voy-tu cette Princesse ?  
+        Voy-tu cette Princesse ?  
 Elle est pour un Monarque une digne Maistresse⁎  
 Adore ses vertus, ayme-la desormais,  
 Elle n'est pas ma fille, on le sçait, tu le sçais.  

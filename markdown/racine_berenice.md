@@ -1,8 +1,8 @@
 ---
-identifier: racine_berenice  
-creator: Racine  
-date: 1670  
-title: Bérénice  
+identifier: RACINE_BERENICE  
+creator: RACINE, Jean  
+date: 1671  
+title: BÉRÉNICE, TRAGÉDIE  
 ---
 
 
@@ -12,18 +12,11 @@ TRAGÉDIE
 
 M. DC. LXXI. AVEC PRIVILÈGE DU ROI.
 
-par M. RACINE
+PAR M. RACINE
 
-
-
-# EXTRAIT DU PRIVILÈGE DU ROI
-
-Par Grâce et Privilège du Roi, donné à Paris le jour de janvier 1671. Signé par le Roi en son conseil d'ALENCE. Il est perimis à Sieur RACINE, de faire imprimer par tel de nos imprimeurs réservés que bon lui semblera choisir, une tragédie de sa composition, intitulée BERENICE ; Et défenses sont faites à toutes personnes, de quelque qualité et condition qu'elles soient, d'imprimer, faire imprimer, vendre et débiter la dite tragédie, sans le consentement de l'exposant, ou de ceux qui auraont droit de lui, à peine de mille lvres d'amende, payables par chacuns des contrevenants, confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts ; et ce pendatn le temps et espace de dix ans, à compter du jour que la dite tragédie sera achevée d'imprimer pour la première fois, ainsi que plus au long il est porté et dites lettres de privilège.
-
-Registré sur le livre de la Communauté, suivant l'arrêt de la cour le 8 avril 1653. Signé L. SEVESTRE, Syndic.
-
-Et le dit Sieur RACINE, a cécé son droit de privilège à Claude Barbin, Marchand Libraire à Paris, pour en jouir suivant l'accord fait entre eux.Achevé d'imprimer pour la première fois le 24 Janvier 1671.À PARIS Chez Claude Barbin, au Palais, sur le second perron de la Sainte-Chapelle.Représenté pour la première fois le 21 novembre 1670 à l'Hôtel de Bourgogne.
-À Monseigneur Colbert. Secrétaire d'Etat, Contrôleur général des finances, Surintendant des bâtiments, grand Trésorier des Ordres du roi, Marquis de Seignelay, etc.
+# EXTRAIT DU PRIVILÈGE DU ROI Par Grâce et Privilège du Roi, donné à Paris le jour de janvier 1671. Signé par le Roi en son conseil d'ALENCE. Il est permis à Sieur RACINE, de faire imprimer par tel de nos imprimeurs réservés que bon lui semblera choisir, une tragédie de sa composition, intitulée BERENICE ; Et défenses sont faites à toutes personnes, de quelque qualité et condition qu'elles soient, d'imprimer, faire imprimer, vendre et débiter la dite tragédie, sans le consentement de l'exposant, ou de ceux qui auront droit de lui, à peine de mille livres d'amende, payables par chacun des contrevenants, confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts ; et ce pendant le temps et espace de dix ans, à compter du jour que la dite tragédie sera achevée d'imprimer pour la première fois, ainsi que plus au long il est porté et dites lettres de privilège. Registré sur le livre de la Communauté, suivant l'arrêt de la cour le 8 avril 1653. Signé L. SEVESTRE, Syndic. Et le dit Sieur RACINE, a cédé son droit de privilège à Claude Barbin, Marchand Libraire à Paris, pour en jouir suivant l'accord fait entre eux.Achevé d'imprimer pour la première fois le 24 Janvier 1671.À PARIS Chez CLAUDE BARBIN, au Palais, sur le second perron de la Sainte-Chapelle.
+Représenté pour la première fois le 21 novembre 1670 à l'Hôtel de Bourgogne.
+À Monseigneur COLBERT. SECRÉTAIRE D'ÉTAT, Contrôleur général des finances, Surintendant des bâtiments, grand Trésorier des Ordres du roi, Marquis de Seignelay, etc.
 
 
 
@@ -33,9 +26,9 @@ Quelque juste défiance que j'aie de moi-même et de mes ouvrages, j'ose espére
 
 L'on sait que les moindres choses vous deviennent considérables, pour peu qu'elles puissent servir ou à sa gloire ou à son plaisir. Et c'est ce qui fait qu'au milieu de tant d'importantes occupations, où le zèle de votre prince et le bien public vous tiennent continuellement attaché, vous ne dédaignez pas quelquefois de descendre jusqu'à nous, pour nous demander compte de notre loisir.
 
-J'aurais ici une belle occasion de m'étendre sur vos louanges, si vous me permettiez de vous louer. Et que ne dirais-je point de tant de rares qualités qui vous ont attiré l'admiration de toute la France, de cette pénétration à laquelle rien n'échappe, de cet esprit vaste qui embrasse, qui exécute tout à la fois tant de grandes choses, de cette âme que rien n'étonne, que rien ne fatigue ?
+J'aurais ici une belle occasion de m'étendre sur vos louanges, si vous me permettiez de vous louer. Et que ne dirais-je point de tant de rares qualités qui vous ont attiré l'admiration de toute la France, de cette pénétration à laquelle rien n'échappe, de cet esprit vaste qui embrasse, qui exécute tout à la fois tant de grandes choses, de cette âme que rien n'étonne, que rien ne fatigue ?
 
-Mais, MONSEIGNEUR, il faut être plus retenu à vous parler de vous-même et je craindrais de m'exposer, par un éloge importun, à vous faire repentir de l'attention favorable dont vous m'avez honoré ; il vaut mieux que je songe à la mériter par quelques nouveaux ouvrages : aussi bien c'est le plus agréable remerciement qu'on vous puisse faire. Je suis avec un profond respect,
+Mais, MONSEIGNEUR, il faut être plus retenu à vous parler de vous-même et je craindrais de m'exposer, par un éloge importun, à vous faire repentir de l'attention favorable dont vous m'avez honoré ; il vaut mieux que je songe à la mériter par quelques nouveaux ouvrages : aussi bien c'est le plus agréable remerciement qu'on vous puisse faire. Je suis avec un profond respect,
 
 MONSEIGNEUR, Votre très humble et très obéissant serviteur,
 RACINE.
@@ -45,36 +38,34 @@ RACINE.
 # Préface
 Titus, reginam Berenicen, cum etiam nuptias pollicitus ferebatur, statim ab Urbe dimisit invitus invitam.  
 
-C'est-à-dire que "Titus, qui aimait passionnément Bérénice, et qui même, à ce qu'on croyait, lui avait promis de l'épouser, la renvoya de Rome, malgré lui et malgré elle, dès les premiers jours de son empire". Cette action est très fameuse dans l'histoire, et je l'ai trouvée très propre pour le théâtre, par la violence des passions qu'elle y pouvait exciter. En effet, nous n'avons rien de plus touchant dans tous les poètes, que la séparation d'Enée et de Didon, dans Virgile. Et qui doute que ce qui a pu fournir assez de matière pour tout un chant d'un poème héroïque, où l'action dure plusieurs jours, ne puisse suffire pour le sujet d'une tragédie, dont la durée ne doit être que de quelques heures ? Il est vrai que je n'ai point poussé Bérénice jusqu'à se tuer comme Didon, parce que Bérénice n'ayant pas ici avec Titus les derniers engagements que Didon avait avec Enée, elle n'est pas obligée comme elle de renoncer à la vie. A cela près, le dernier adieu qu'elle dit à Titus, et l'effort qu'elle se fait pour s'en séparer, n'est pas le moins tragique de la pièce, et j'ose dire qu'il renouvelle assez bien dans le cœur des spectateurs l'émotion que le reste y avait pu exciter. Ce n'est point une nécessité qu'il y ait du sang et des morts dans une tragédie ; il suffit que l'action en soit grande, que les acteurs en soient héroïques, que les passions y soient excitées, et que tout s'y ressente de cette tristesse majestueuse qui fait tout le plaisir de la tragédie.
+C'est-à-dire que "Titus, qui aimait passionnément Bérénice, et qui même, à ce qu'on croyait, lui avait promis de l'épouser, la renvoya de Rome, malgré lui et malgré elle, dès les premiers jours de son empire". Cette action est très fameuse dans l'histoire, et je l'ai trouvée très propre pour le théâtre, par la violence des passions qu'elle y pouvait exciter. En effet, nous n'avons rien de plus touchant dans tous les poètes, que la séparation d'Enée et de Didon, dans Virgile. Et qui doute que ce qui a pu fournir assez de matière pour tout un chant d'un poème héroïque, où l'action dure plusieurs jours, ne puisse suffire pour le sujet d'une tragédie, dont la durée ne doit être que de quelques heures ? Il est vrai que je n'ai point poussé Bérénice jusqu'à se tuer comme Didon, parce que Bérénice n'ayant pas ici avec Titus les derniers engagements que Didon avait avec Enée, elle n'est pas obligée comme elle de renoncer à la vie. A cela près, le dernier adieu qu'elle dit à Titus, et l'effort qu'elle se fait pour s'en séparer, n'est pas le moins tragique de la pièce, et j'ose dire qu'il renouvelle assez bien dans le coeur des spectateurs l'émotion que le reste y avait pu exciter. Ce n'est point une nécessité qu'il y ait du sang et des morts dans une tragédie ; il suffit que l'action en soit grande, que les acteurs en soient héroïques, que les passions y soient excitées, et que tout s'y ressente de cette tristesse majestueuse qui fait tout le plaisir de la tragédie.
 
-Je crus que je pourrais rencontrer toutes ces parties dans mon sujet. Mais ce qui m'en plut davantage, c'est que je le trouvai extrêmement simple. Il y avait longtemps que je voulais essayer si je pourrais faire une tragédie avec cette simplicité d'action qui a été si fort du goût des anciens. Car c'est un des premiers préceptes qu'ils nous ont laissés : "Que ce que vous ferez, dit Horace, soit toujours simple et ne soit qu'un". Ils ont admiré l'Ajax de Sophocle, qui n'est autre chose qu'Ajax qui se tue de regret, à cause de la fureur où il était tombé après le refus qu'on lui avait fait des armes d'Achille. Ils ont admiré le Philoctète, dont tout le sujet est Ulysse qui vient pour surprendre les flèches d'Hercule. L'Oedipe même, quoique tout plein de reconnaissances, est moins chargé de matière que la plus simple tragédie de nos jours. Nous voyons enfin que les partisans de Térence, qui l'élèvent avec raison au-dessus de tous les poètes comiques, pour l'élégance de sa diction et pour la vraisemblance de ses mœurs, ne laissent pas de confesser que Plaute a un grand avantage sur lui par simplicité qui est dans la plupart des sujets de Plaute. Et c'est sans doute cette simplicité merveilleuse qui a attiré à ce dernier toutes les louanges que les anciens lui ont données. Combien Ménandre était-il encore plus simple, puisque Térence est obligé de prendre deux comédies de ce poète pour en faire une des siennes !
+Je crus que je pourrais rencontrer toutes ces parties dans mon sujet. Mais ce qui m'en plut davantage, c'est que je le trouvai extrêmement simple. Il y avait longtemps que je voulais essayer si je pourrais faire une tragédie avec cette simplicité d'action qui a été si fort du goût des anciens. Car c'est un des premiers préceptes qu'ils nous ont laissés : "Que ce que vous ferez, dit Horace, soit toujours simple et ne soit qu'un". Ils ont admiré l'Ajax de Sophocle, qui n'est autre chose qu'Ajax qui se tue de regret, à cause de la fureur où il était tombé après le refus qu'on lui avait fait des armes d'Achille. Ils ont admiré le Philoctète, dont tout le sujet est Ulysse qui vient pour surprendre les flèches d'Hercule. L'Oedipe même, quoique tout plein de reconnaissances, est moins chargé de matière que la plus simple tragédie de nos jours. Nous voyons enfin que les partisans de Térence, qui l'élèvent avec raison au-dessus de tous les poètes comiques, pour l'élégance de sa diction et pour la vraisemblance de ses moeurs, ne laissent pas de confesser que Plaute a un grand avantage sur lui par simplicité qui est dans la plupart des sujets de Plaute. Et c'est sans doute cette simplicité merveilleuse qui a attiré à ce dernier toutes les louanges que les anciens lui ont données. Combien Ménandre était-il encore plus simple, puisque Térence est obligé de prendre deux comédies de ce poète pour en faire une des siennes !
 
-Et il ne faut point croire que cette règle ne soit fondée que sur la fantaisie de ceux qui l'ont faite. Il n'y a que le vraisemblable qui touche dans la tragédie. Et quelle vraisemblance y a-t-il qu'il arrive en un jour une multitude de choses qui pourraient à peine arriver en plusieurs semaines ? Il y en a qui pensent que cette simplicité est une marque de peu d'invention. Ils ne songent pas qu'au contraire toute l'invention consiste à faire quelque chose de rien, et que tout ce grand nombre d'incidents a toujours été le refuge des poètes qui ne sentaient dans leur génie ni assez d'abondance ni assez de force pour attacher durant cinq actes leurs spectateurs par une action simple, soutenue de la violence des passions, de la beauté des sentiments et de l'élégance de l'expression. Je suis bien éloigné de croire que toutes ces choses se rencontrent dans mon ouvrage ; mais aussi je ne puis croire que le public me sache mauvais gré de lui avoir donné une tragédie qui a été honorée de tant de larmes, et dont la trentième représentation a été aussi suivie que la première.
+Et il ne faut point croire que cette règle ne soit fondée que sur la fantaisie de ceux qui l'ont faite. Il n'y a que le vraisemblable qui touche dans la tragédie. Et quelle vraisemblance y a-t-il qu'il arrive en un jour une multitude de choses qui pourraient à peine arriver en plusieurs semaines ? Il y en a qui pensent que cette simplicité est une marque de peu d'invention. Ils ne songent pas qu'au contraire toute l'invention consiste à faire quelque chose de rien, et que tout ce grand nombre d'incidents a toujours été le refuge des poètes qui ne sentaient dans leur génie ni assez d'abondance ni assez de force pour attacher durant cinq actes leurs spectateurs par une action simple, soutenue de la violence des passions, de la beauté des sentiments et de l'élégance de l'expression. Je suis bien éloigné de croire que toutes ces choses se rencontrent dans mon ouvrage ; mais aussi je ne puis croire que le public me sache mauvais gré de lui avoir donné une tragédie qui a été honorée de tant de larmes, et dont la trentième représentation a été aussi suivie que la première.
 
-Ce n'est pas que quelques personnes ne m'aient reproché cette même simplicité que j'avais recherchée avec tant de soin. Ils ont cru qu'une tragédie qui était si peu chargée d'intrigues ne pouvait être selon les règles du théâtre. Je m'informai s'ils se plaignaient qu'elle les eût ennuyés. On me dit qu'ils avouaient tous qu'elle n'ennuyait point, qu'elle les touchait même en plusieurs endroits et qu'ils la verraient encore avec plaisir. Que veulent-ils davantage ? Je les conjure d'avoir assez bonne opinion d'eux-mêmes pour ne pas croire qu'une pièce qui les touche, et qui leur donne du plaisir, puisse être absolument contre les règles. La principale règle est de plaire et de toucher. Toutes les autres ne sont faites que pour parvenir à cette première. Mais toutes ces règles sont d'un long détail, dont je ne leur conseille pas de s'embarrasser. Ils ont des occupations plus importantes. Qu'ils se reposent sur nous de la fatigue d'éclaircir les difficultés de la poétique d'Aristote, qu'ils se réservent le plaisir de pleurer et d'être attendris, et qu'ils me permettent de leur dire ce qu'un musicien disait à Philippe, roi de Macédoine, qui prétendait qu'une chanson n'était pas selon les règles : "A Dieu ne plaise, seigneur, que vous soyez jamais si malheureux que de savoir ces choses-là mieux que moi !"
+Ce n'est pas que quelques personnes ne m'aient reproché cette même simplicité que j'avais recherchée avec tant de soin. Ils ont cru qu'une tragédie qui était si peu chargée d'intrigues ne pouvait être selon les règles du théâtre. Je m'informai s'ils se plaignaient qu'elle les eût ennuyés. On me dit qu'ils avouaient tous qu'elle n'ennuyait point, qu'elle les touchait même en plusieurs endroits et qu'ils la verraient encore avec plaisir. Que veulent-ils davantage ? Je les conjure d'avoir assez bonne opinion d'eux-mêmes pour ne pas croire qu'une pièce qui les touche, et qui leur donne du plaisir, puisse être absolument contre les règles. La principale règle est de plaire et de toucher. Toutes les autres ne sont faites que pour parvenir à cette première. Mais toutes ces règles sont d'un long détail, dont je ne leur conseille pas de s'embarrasser. Ils ont des occupations plus importantes. Qu'ils se reposent sur nous de la fatigue d'éclaircir les difficultés de la poétique d'Aristote, qu'ils se réservent le plaisir de pleurer et d'être attendris, et qu'ils me permettent de leur dire ce qu'un musicien disait à Philippe, roi de Macédoine, qui prétendait qu'une chanson n'était pas selon les règles : "A Dieu ne plaise, seigneur, que vous soyez jamais si malheureux que de savoir ces choses-là mieux que moi !"
 
-Voilà tout ce que j'ai à dire à ces personnes à qui je ferai toujours gloire de plaire. Car pour le libelle que l'on fait contre moi, je crois que les lecteurs me dispenseront volontiers d'y répondre. Et que répondrais-je à un homme qui ne pense rien et qui ne sait pas même construire ce qu'il pense ? Il parle de protase comme s'il entendait ce mot, et veut que cette première des quatre parties de la tragédie soit toujours la plus proche de la dernière, qui est la catastrophe. Il se plaint que la trop grande connaissance des règles l'empêche de se divertir à la comédie. Certainement, si l'on en juge par sa dissertation, il n'y eut jamais de plainte plus mal fondée. Il paraît bien qu'il n'a jamais lu Sophocle, qu'il loue très injustement d'une grande multiplicité d'incidents ; et qu'il n'a même jamais rien lu de la poétique, que dans quelques préfaces de tragédies. Mais je lui pardonne de ne pas savoir les règles du théâtre, puisque, heureusement pour le public, il ne s'applique pas à ce genre d'écrire. Ce que je ne lui pardonne pas, c'est de savoir si peu les règles de la bonne plaisanterie, lui qui ne veut pas dire un mot sans plaisanter. Croit-il réjouir beaucoup les honnêtes gens par ces hélas de poche, ces mesdemoiselles mes règles, et quantité d'autres basses affectations qu'il trouvera condamnées dans tous les bons auteurs, s'il se mêle jamais de les lire ?
+Voilà tout ce que j'ai à dire à ces personnes à qui je ferai toujours gloire de plaire. Car pour le libelle que l'on fait contre moi, je crois que les lecteurs me dispenseront volontiers d'y répondre. Et que répondrais-je à un homme qui ne pense rien et qui ne sait pas même construire ce qu'il pense ? Il parle de protase comme s'il entendait ce mot, et veut que cette première des quatre parties de la tragédie soit toujours la plus proche de la dernière, qui est la catastrophe. Il se plaint que la trop grande connaissance des règles l'empêche de se divertir à la comédie. Certainement, si l'on en juge par sa dissertation, il n'y eut jamais de plainte plus mal fondée. Il paraît bien qu'il n'a jamais lu Sophocle, qu'il loue très injustement d'une grande multiplicité d'incidents ; et qu'il n'a même jamais rien lu de la poétique, que dans quelques préfaces de tragédies. Mais je lui pardonne de ne pas savoir les règles du théâtre, puisque, heureusement pour le public, il ne s'applique pas à ce genre d'écrire. Ce que je ne lui pardonne pas, c'est de savoir si peu les règles de la bonne plaisanterie, lui qui ne veut pas dire un mot sans plaisanter. Croit-il réjouir beaucoup les honnêtes gens par ces hélas de poche, ces mesdemoiselles mes règles, et quantité d'autres basses affectations qu'il trouvera condamnées dans tous les bons auteurs, s'il se mêle jamais de les lire ?
 
-Toutes ces critiques sont le partage de quatre ou cinq petits auteurs infortunés, qui n'ont jamais pu par eux-mêmes exciter la curiosité du public. Ils attendent toujours l'occasion de quelque ouvrage qui réussisse pour l'attaquer, non point par jalousie, car sur quel fondement seraient-ils jaloux ? Mais dans l'espérance qu'on se donnera la peine de leur répondre, et qu'on les tirera de l'obscurité où leurs propres ouvrages les auraient laissés toute leur vie.
+Toutes ces critiques sont le partage de quatre ou cinq petits auteurs infortunés, qui n'ont jamais pu par eux-mêmes exciter la curiosité du public. Ils attendent toujours l'occasion de quelque ouvrage qui réussisse pour l'attaquer, non point par jalousie, car sur quel fondement seraient-ils jaloux ? Mais dans l'espérance qu'on se donnera la peine de leur répondre, et qu'on les tirera de l'obscurité où leurs propres ouvrages les auraient laissés toute leur vie.
 
 
 # ACTEURS
- – Titus, empereur de Rome.
- – Bérénice, reine de Palestine.
- – Antiochus, roi de Comagène.
- – Paulin, confident de Titus.
- – Arsace, confident d'Antiochus.
- – Phénice, confidente de Bérénice.
- – Rutile, Romain.
- – Suite de titusLa scène est à Rome, dans un cabinet qui est entre l'appartement de Titus, et celui de Bérénice. [1]
+ – TITUS, empereur de Rome.
+ – BÉRÉNICE, reine de Palestine.
+ – ANTIOCHUS, roi de Comagène.
+ – PAULIN, confident de Titus.
+ – ARSACE, confident d'Antiochus.
+ – PHÉNICE, confidente de Bérénice.
+ – RUTILE, Romain.
+ – SUITE DE TITUSLa scène est à Rome, dans un cabinet qui est entre l'appartement de Titus, et celui de Bérénice. [1]
 
 
 # ACTE I
 
 
-## SCÈNE PREMIÈRE
-Antiochus, Arsace.
-
+## SCÈNE PREMIÈRE. Antiochus, Arsace.
 
     ANTIOCHUS
 Arrêtons un moment. La pompe de ces lieux,  
@@ -89,61 +80,59 @@ Va chez elle. Dis-lui qu'importun à regret,
 J'ose lui demander un entretien secret.  
 
     ARSACE
-Vous, Seigneur, importun ? Vous cet ami fidèle,  
-Qu'un soin si généreux intéresse pour elle ?  
-Vous, cet Antiochus, son amant autrefois ;  
-Vous, que l'Orient compte entre ses plus grands rois :  
-Quoi ! déjà de Titus épouse en espérance,  
-Ce rang entre elle et vous met-il tant de distance ?  
+Vous, Seigneur, importun ? Vous cet ami fidèle,  
+Qu'un soin si généreux intéresse pour elle ?  
+Vous, cet Antiochus, son amant autrefois ;  
+Vous, que l'Orient compte entre ses plus grands rois :  
+Quoi ! Déjà de Titus épouse en espérance,  
+Ce rang entre elle et vous met-il tant de distance ?  
 
     ANTIOCHUS
 Va, dis-je, et sans vouloir te charger d'autres soins,  
 Vois si je puis bientôt lui parler sans témoins.  
 
 
-## SCÈNE II
+## SCÈNE II.
 
     ANTIOCHUS, SEUL.
-Hé bien, Antiochus, es-tu toujours le même ?  
-Pourrai je sans trembler lui dire : je vous aime ?  
-Mais quoi ! déjà je tremble, et mon cœur agité  
+Hé bien, Antiochus, es-tu toujours le même ?  
+Pourrai je sans trembler lui dire : je vous aime ?  
+Mais quoi ! Déjà je tremble, et mon coeur agité  
 Craint autant ce moment que je l'ai souhaité.  
 Bérénice autrefois m'ôta toute espérance.  
 Elle m'imposa même un éternel silence.  
 Je me suis tu cinq ans. Et jusques à ce jour  
 D'un voile d'amitié j'ai couvert mon amour.  
 Dois-je croire qu'au rang où Titus la destine,  
-Elle m'écoute mieux que dans la Palestine ?  
+Elle m'écoute mieux que dans la Palestine ?  
 Il l'épouse. Ai-je donc attendu ce moment  
-Pour me venir encor déclarer son amant ?  
-Quel fruit me reviendra d'un aveu téméraire ?  
-Ah ! puisqu'il faut partir, partons sans lui déplaire.  
+Pour me venir encor déclarer son amant ?  
+Quel fruit me reviendra d'un aveu téméraire ?  
+Ah ! Puisqu'il faut partir, partons sans lui déplaire.  
 Retirons-nous, sortons, et sans nous découvrir,  
 Allons loin de ses yeux l'oublier, ou mourir.  
-Hé quoi ! souffrir toujours un tourment qu'elle ignore ?  
-Toujours verser des pleurs qu'il faut que je dévore ?  
-Quoi ? même en la perdant redouter son courroux ?  
-Belle reine : et pourquoi vous offenseriez-vous ?  
-Viens-je vous demander que vous quittiez l'Empire ?  
-Que vous m'aimiez ? Hélas ! je ne viens que vous dire  
+Hé quoi ! Souffrir toujours un tourment qu'elle ignore ?  
+Toujours verser des pleurs qu'il faut que je dévore ?  
+Quoi ? Même en la perdant redouter son courroux ?  
+Belle reine : et pourquoi vous offenseriez-vous ?  
+Viens-je vous demander que vous quittiez l'Empire ?  
+Que vous m'aimiez ? Hélas ! je ne viens que vous dire  
 Qu'après m'être longtemps flatté que mon rival  
-Trouverait à ses vœux quelque obstacle fatal ;  
+Trouverait à ses voeux quelque obstacle fatal ;  
 Aujourd'hui qu'il peut tout, que votre hymen s'avance,  
 Exemple infortuné d'une longue constance,  
 Après cinq ans d'amour, et d'espoir superflus,  
 Je pars, fidèle encor quand je n'espère plus.  
 Au lieu de s'offenser, elle pourra me plaindre.  
 Quoi qu'il en soit, parlons, c'est assez nous contraindre.  
-Et que peut craindre, hélas ! un amant sans espoir  
-Qui peut bien se résoudre à ne la jamais voir ?  
+Et que peut craindre, hélas ! un amant sans espoir  
+Qui peut bien se résoudre à ne la jamais voir ?  
 
 
-## SCÈNE III
-Antiochus, Arsace.
-
+## SCÈNE III. Antiochus, Arsace.
 
     ANTIOCHUS
-Arsace, entrerons-nous ?  
+Arsace, entrerons-nous ?  
 
     ARSACE
         Seigneur, j'ai vu la reine.  
@@ -158,13 +147,13 @@ Peut-être avant la nuit l'heureuse Bérénice
 Change le nom de reine au nom d'impératrice.  
 
     ANTIOCHUS
-Hélas !  
+Hélas !  
 
     ARSACE
-        Quoi ! ce discours pourrait-il vous troubler ?  
+        Quoi ! Ce discours pourrait-il vous troubler ?  
 
     ANTIOCHUS
-Ainsi donc sans témoins je ne lui puis parler ?  
+Ainsi donc sans témoins je ne lui puis parler ?  
 
     ARSACE
 Vous la verrez, Seigneur. Bérénice est instruite  
@@ -176,26 +165,26 @@ Pour disparaître aux yeux d'une cour qui l'accable.
 
     ANTIOCHUS
 Il suffit. Cependant n'as-tu rien négligé  
-Des ordres importants dont je t'avais chargé ?  
+Des ordres importants dont je t'avais chargé ?  
 
     ARSACE
 Seigneur, vous connaissez ma prompte obéissance.  
-Des vaisseaux dans Ostie armés en diligence,  
+Des vaisseaux dans Ostie armés en diligence, [2]  
 Prêts à quitter le port de moments en moments,  
 N'attendent pour partir que vos commandements.  
-Mais qui renvoyez-vous dans votre Comagène ?  
+Mais qui renvoyez-vous dans votre Comagène ? [3]  
 
     ANTIOCHUS
 Arsace, il faut partir quand j'aurai vu la reine.  
 
     ARSACE
-Qui doit partir ?  
+Qui doit partir ?  
 
     ANTIOCHUS
-        Moi.  
+    Moi.  
 
     ARSACE
-        Vous ?  
+    Vous ?  
 
     ANTIOCHUS
         En sortant du palais,  
@@ -203,7 +192,7 @@ Je sors de Rome, Arsace, et j'en sors pour jamais.
 
     ARSACE
 Je suis surpris sans doute, et c'est avec justice.  
-Quoi ! depuis si longtemps la reine Bérénice  
+Quoi ! Depuis si longtemps la reine Bérénice  
 Vous arrache, Seigneur, du sein de vos États,  
 Depuis trois ans dans Rome elle arrête vos pas,  
 Et lorsque cette reine assurant sa conquête  
@@ -224,25 +213,25 @@ L'inimitié succède à l'amitié trahie.
 Non, Arsace, jamais je ne l'ai moins haïe.  
 
     ARSACE
-Quoi donc ! de sa grandeur déjà trop prévenu,  
-Le nouvel empereur vous a-t-il méconnu ?  
+Quoi donc ! De sa grandeur déjà trop prévenu,  
+Le nouvel empereur vous a-t-il méconnu ?  
 Quelque pressentiment de son indifférence  
-Vous fait-il loin de Rome éviter sa présence ?  
+Vous fait-il loin de Rome éviter sa présence ?  
 
     ANTIOCHUS
 Titus n'a point pour moi paru se démentir,  
 J'aurais tort de me plaindre.  
 
     ARSACE
-        Et pourquoi donc partir ?  
-Quel caprice vous rend ennemi de vous-même ?  
+        Et pourquoi donc partir ?  
+Quel caprice vous rend ennemi de vous-même ?  
 Le ciel met sur le trône un prince qui vous aime,  
 Un prince qui jadis témoin de vos combats  
 Vous vit chercher la gloire et la mort sur ses pas,  
 Et de qui la valeur par vos soins secondée  
 Mit enfin sous le joug la rebelle Judée.  
 Il se souvient du jour illustre et douloureux  
-Qui décida du sort d'un long siège douteux :  
+Qui décida du sort d'un long siège douteux :  
 Sur leur triple rempart les ennemis tranquilles  
 Contemplaient sans péril nos assauts inutiles,  
 Le bélier impuissant les menaçait en vain.  
@@ -255,25 +244,25 @@ Voici le temps, Seigneur, où vous devez attendre
 Le fruit de tant de sang qu'ils vous ont vu répandre.  
 Si, pressé du désir de revoir vos États,  
 Vous vous lassez de vivre où vous ne régnez pas,  
-Faut-il que sans honneur l'Euphrate vous revoie ?  
+Faut-il que sans honneur l'Euphrate vous revoie ?  
 Attendez pour partir que César vous renvoie  
 Triomphant, et chargé des titres souverains  
 Qu'ajoute encore aux rois l'amitié des Romains.  
-Rien ne peut-il, Seigneur, changer votre entreprise ?  
+Rien ne peut-il, Seigneur, changer votre entreprise ?  
 Vous ne répondez point.  
 
     ANTIOCHUS
-        Que veux-tu que je dise ?  
+        Que veux-tu que je dise ?  
 J'attends de Bérénice un moment d'entretien.  
 
     ARSACE
-Hé bien, Seigneur ?  
+Hé bien, Seigneur ?  
 
     ANTIOCHUS
         Son sort décidera du mien.  
 
     ARSACE
-Comment ?  
+Comment ?  
 
     ANTIOCHUS
         Sur son hymen j'attends qu'elle s'explique.  
@@ -282,41 +271,39 @@ S'il est vrai qu'on l'élève au trône des Césars,
 Si Titus a parlé, s'il l'épouse, je pars.  
 
     ARSACE
-Mais qui rend à vos yeux cet hymen si funeste ?  
+Mais qui rend à vos yeux cet hymen si funeste ?  
 
     ANTIOCHUS
 Quand nous serons partis, je te dirai le reste.  
 
     ARSACE
-Dans quel trouble, Seigneur, jetez-vous mon esprit !  
+Dans quel trouble, Seigneur, jetez-vous mon esprit !  
 
     ANTIOCHUS
 La reine vient. Adieu, fais tout ce que j'ai dit.  
 
 
-## SCÈNE IV
-Bérénice, Antiochus, Phénice.
-
+## SCÈNE IV. Bérénice, Antiochus, Phénice.
 
     BÉRÉNICE
 Enfin je me dérobe à la joie importune  
 De tant d'amis nouveaux, que me fait la fortune.  
 Je fuis de leurs respects l'inutile longueur,  
-Pour chercher un ami, qui me parle du cœur.  
+Pour chercher un ami, qui me parle du coeur.  
 Il ne faut point mentir, ma juste impatience  
 Vous accusait déjà de quelque négligence.  
-Quoi ! cet Antiochus, disais-je, dont les soins  
+Quoi ! Cet Antiochus, disais-je, dont les soins  
 Ont eu tout l'Orient et Rome pour témoins,  
 Lui que j'ai vu toujours constant dans mes traverses  
-Suivre d'un pas égal mes fortunes diverses ;  
+Suivre d'un pas égal mes fortunes diverses;  
 Aujourd'hui que le ciel semble me présager  
 Un honneur, qu'avec vous je prétends partager,  
 Ce même Antiochus se cachant à ma vue,  
-Me laisse à la merci d'une foule inconnue ?  
+Me laisse à la merci d'une foule inconnue ?  
 
     ANTIOCHUS
-Il est donc vrai, Madame ? Et selon ce discours  
-L'hymen va succéder à vos longues amours ?  
+Il est donc vrai, Madame ? Et selon ce discours  
+L'hymen va succéder à vos longues amours ?  
 
     BÉRÉNICE
 Seigneur, je vous veux bien confier mes alarmes.  
@@ -330,10 +317,10 @@ Il ne me laissait plus que de tristes adieux.
 Jugez de ma douleur, moi dont l'ardeur extrême,  
 Je vous l'ai dit cent fois, n'aime en lui que lui-même,  
 Moi, qui loin des grandeurs, dont il est revêtu,  
-Aurais choisi son cœur, et cherché sa vertu.  
+Aurais choisi son coeur, et cherché sa vertu.  
 
     ANTIOCHUS
-Il a repris pour vous sa tendresse première ?  
+Il a repris pour vous sa tendresse première ?  
 
     BÉRÉNICE
 Vous fûtes spectateur de cette nuit dernière,  
@@ -348,40 +335,40 @@ Il y joint l'Arabie, et la Syrie entière.
 Et si de ses amis j'en dois croire la voix,  
 Si j'en crois ses serments redoublés mille fois  
 Il va sur tant d'États couronner Bérénice,  
-Pour joindre à plus de noms le nom d'impératrice ;  
+Pour joindre à plus de noms le nom d'impératrice ;  
 Il m'en viendra lui-même assurer en ce lieu.  
 
     ANTIOCHUS
 Et je viens donc vous dire un éternel adieu.  
 
     BÉRÉNICE
-Que dites-vous ? Ah ciel ! Quel adieu ? Quel langage ?  
-Prince, vous vous troublez, et changez de visage ?  
+Que dites-vous ? Ah ciel ! Quel adieu ? Quel langage ?  
+Prince, vous vous troublez, et changez de visage ?  
 
     ANTIOCHUS
 Madame, il faut partir.  
 
     BÉRÉNICE
-        Quoi ? ne puis-je savoir  
+        Quoi ? ne puis-je savoir  
 Quel sujet...  
 
     ANTIOCHUS
         Il fallait partir sans la revoir.  
 
     BÉRÉNICE
-Que craignez-vous ? Parlez, c'est trop longtemps se taire.  
-Seigneur, de ce départ quel est donc le mystère ?  
+Que craignez-vous ? Parlez, c'est trop longtemps se taire.  
+Seigneur, de ce départ quel est donc le mystère ?  
 
     ANTIOCHUS
 Au moins, souvenez-vous que je cède à vos lois,  
 Et que vous m'écoutez pour la dernière fois.  
 Si dans ce haut degré de gloire et de puissance,  
 Il vous souvient des lieux où vous prîtes naissance,  
-Madame, il vous souvient que mon cœur en ces lieux  
+Madame, il vous souvient que mon coeur en ces lieux  
 Reçut le premier trait qui partit de vos yeux.  
 J'aimai, j'obtins l'aveu d'Agrippa votre frère.  
 Il vous parla pour moi. Peut-être sans colère  
-Alliez-vous de mon cœur recevoir le tribut,  
+Alliez-vous de mon coeur recevoir le tribut,  
 Titus, pour mon malheur, vint, vous vit, et vous plut.  
 Il parut devant vous dans tout l'éclat d'un homme  
 Qui porte entre ses mains la vengeance de Rome.  
@@ -392,14 +379,14 @@ Votre bouche à la mienne ordonna de se taire.
 Je disputai longtemps, je fis parler mes yeux.  
 Mes pleurs et mes soupirs vous suivaient en tous lieux.  
 Enfin votre rigueur emporta la balance,  
-Vous sûtes m'imposer l'exil, ou le silence :  
+Vous sûtes m'imposer l'exil, ou le silence :  
 Il fallut le promettre, et même le jurer.  
 Mais, puisqu'en ce moment j'ose me déclarer,  
 Lorsque vous m'arrachiez cette injuste promesse,  
-Mon cœur faisait serment de vous aimer sans cesse.  
+Mon coeur faisait serment de vous aimer sans cesse.  
 
     BÉRÉNICE
-Ah ! que me dites-vous ?  
+Ah ! que me dites-vous ?  
 
     ANTIOCHUS
         Je me suis tu cinq ans,  
@@ -409,8 +396,8 @@ J'espérai de verser mon sang après mes larmes,
 Ou qu'au moins jusqu'à vous porté par mille exploits,  
 Mon nom pourrait parler, au défaut de ma voix.  
 Le ciel sembla promettre une fin à ma peine.  
-Vous pleurâtes ma mort, hélas ! trop peu certaine.  
-Inutiles périls ! Quelle était mon erreur !  
+Vous pleurâtes ma mort, hélas ! trop peu certaine.  
+Inutiles périls ! Quelle était mon erreur !  
 La valeur de Titus surpassait ma fureur.  
 Il faut qu'à sa vertu mon estime réponde.  
 Quoique attendu, Madame, à l'empire du monde,  
@@ -418,7 +405,7 @@ Chéri de l'univers, enfin aimé de vous,
 Il semblait à lui seul appeler tous les coups,  
 Tandis que sans espoir, haï, lassé de vivre,  
 Son malheureux rival ne semblait que le suivre.  
-Je vois que votre cœur m'applaudit en secret,  
+Je vois que votre coeur m'applaudit en secret,  
 Je vois que l'on m'écoute avec moins de regret,  
 Et que trop attentive à ce récit funeste,  
 En faveur de Titus vous pardonnez le reste.  
@@ -427,22 +414,22 @@ Il dompta les mutins, reste pâle et sanglant
 Des flammes, de la faim, des fureurs intestines,  
 Et laissa leurs remparts cachés sous leurs ruines.  
 Rome vous vit, Madame, arriver avec lui.  
-Dans l'Orient désert quel devint mon ennui !  
-Je demeurai longtemps errant dans Césarée,  
-Lieux charmants, où mon cœur vous avait adorée.  
+Dans l'Orient désert quel devint mon ennui !  
+Je demeurai longtemps errant dans Césarée, [4]  
+Lieux charmants, où mon coeur vous avait adorée.  
 Je vous redemandais à vos tristes États,  
 Je cherchais en pleurant les traces de vos pas.  
 Mais enfin succombant à ma mélancolie,  
 Mon désespoir tourna mes pas vers l'Italie.  
 Le sort m'y réservait le dernier de ses coups.  
 Titus en m'embrassant m'amena devant vous.  
-Un voile d'amitié vous trompa l'un et l'autre ;  
+Un voile d'amitié vous trompa l'un et l'autre ;  
 Et mon amour devint le confident du vôtre.  
 Mais toujours quelque espoir flattait mes déplaisirs,  
-Rome, Vespasien, traversaient vos soupirs.  
+Rome, Vespasien, traversaient vos soupirs. [5]  
 Après tant de combats Titus cédait peut-être.  
-Vespasien est mort, et Titus est le maître.  
-Que ne fuyais-je alors ! J'ai voulu quelques jours  
+Vespasien est mort, et Titus est le maître. [6]  
+Que ne fuyais-je alors ! J'ai voulu quelques jours  
 De son nouvel empire examiner le cours.  
 Mon sort est accompli. Votre gloire s'apprête,  
 Assez d'autres sans moi, témoins de cette fête,  
@@ -474,9 +461,9 @@ Et c'est ce que je fuis. J'évite, mais trop tard,
 Ces cruels entretiens où je n'ai point de part.  
 Je fuis Titus. Je fuis ce nom qui m'inquiète,  
 Ce nom qu'à tous moments votre bouche répète.  
-Que vous dirai-je enfin ? Je fuis des yeux distraits  
+Que vous dirai-je enfin ? Je fuis des yeux distraits  
 Qui me voyant toujours ne me voyaient jamais.  
-Adieu, je vais le cœur trop plein de votre image,  
+Adieu, je vais le coeur trop plein de votre image,  
 Attendre en vous aimant la mort pour mon partage.  
 Surtout ne craignez point qu'une aveugle douleur  
 Remplisse l'univers du bruit de mon malheur,  
@@ -485,14 +472,12 @@ Vous fera souvenir que je vivais encore.
 Adieu.  
 
 
-## SCÈNE V
-Bérénice, Phénice.
-
+## SCÈNE V. Bérénice, Phénice.
 
     PHÉNICE
-        Que je le plains ! Tant de fidélité,  
+        Que je le plains ! Tant de fidélité,  
 Madame, méritait plus de prospérité.  
-Ne le plaignez-vous pas ?  
+Ne le plaignez-vous pas ?  
 
     BÉRÉNICE
         Cette prompte retraite  
@@ -502,9 +487,9 @@ Me laisse, je l'avoue, une douleur secrète.
 Je l'aurais retenu.  
 
     BÉRÉNICE
-        Qui moi ? Le retenir ?  
+        Qui moi ? Le retenir ?  
 J'en dois perdre plutôt jusques au souvenir.  
-Tu veux donc que je flatte une ardeur insensée ?  
+Tu veux donc que je flatte une ardeur insensée ?  
 
     PHÉNICE
 Titus n'a point encore expliqué sa pensée.  
@@ -518,44 +503,42 @@ Le temps n'est plus, Phénice, où je pouvais trembler.
 Titus m'aime, il peut tout, il n'a plus qu'à parler.  
 Il verra le Sénat m'apporter ses hommages,  
 Et le peuple de fleurs couronner ses images.  
-De cette nuit, Phénice, as-tu vu la splendeur ?  
-Tes yeux ne sont-ils pas tous pleins de sa grandeur ?  
+De cette nuit, Phénice, as-tu vu la splendeur ?  
+Tes yeux ne sont-ils pas tous pleins de sa grandeur ?  
 Ces flambeaux, ce bûcher, cette nuit enflammée,  
 Ces aigles, ces faisceaux, ce peuple, cette armée,  
 Cette foule de rois, ces consuls, ce Sénat,  
-Qui tous de mon amant empruntaient leur éclat ;  
+Qui tous de mon amant empruntaient leur éclat ;  
 Cette pourpre, cet or que rehaussait sa gloire,  
 Et ces lauriers encor témoins de sa victoire.  
 Tous ces yeux, qu'on voyait venir de toutes parts  
-Confondre sur lui seul leurs avides regards ;  
+Confondre sur lui seul leurs avides regards ;  
 Ce port majestueux, cette douce présence.  
-Ciel ! avec quel respect, et quelle complaisance,  
-Tous les cœurs en secret l'assuraient de leur foi !  
+Ciel ! avec quel respect, et quelle complaisance,  
+Tous les coeurs en secret l'assuraient de leur foi !  
 Parle. Peut-on le voir sans penser comme moi,  
 Qu'en quelque obscurité que le sort l'eût fait naître,  
-Le monde, en le voyant, eût reconnu son maître ?  
-Mais, Phénice, où m'emporte un souvenir charmant ?  
+Le monde, en le voyant, eût reconnu son maître ?  
+Mais, Phénice, où m'emporte un souvenir charmant ?  
 Cependant Rome entière, en ce même moment,  
-Fait des vœux pour Titus, et par des sacrifices  
+Fait des voeux pour Titus, et par des sacrifices  
 De son règne naissant célèbre les prémices.  
-Que tardons-nous ? Allons pour son empire heureux  
-Au ciel qui le protège offrir aussi nos vœux.  
+Que tardons-nous ? Allons pour son empire heureux  
+Au ciel qui le protège offrir aussi nos voeux.  
 Aussitôt sans l'attendre, et sans être attendue,  
 Je reviens le chercher, et dans cette entrevue  
-Dire tout ce qu'aux cœurs l'un de l'autre contents  
+Dire tout ce qu'aux coeurs l'un de l'autre contents  
 Inspirent des transports retenus si longtemps.  
 
 
 # ACTE II
 
 
-## SCÈNE PREMIÈRE
-Titus, Paulin, Suite.
-
+## SCÈNE PREMIÈRE. Titus, Paulin, Suite.
 
     TITUS
-A-t-on vu de ma part le roi de Comagène ?  
-Sait-il que je l'attends ?  
+A-t-on vu de ma part le roi de Comagène ?  
+Sait-il que je l'attends ?  
 
     PAULIN
         J'ai couru chez la reine,  
@@ -564,79 +547,77 @@ Il en était sorti lorsque j'y suis couru.
 De vos ordres, Seigneur, j'ai dit qu'on l'avertisse.  
 
     TITUS
-Il suffit. Et que fait la reine Bérénice ?  
+Il suffit. Et que fait la reine Bérénice ?  
 
     PAULIN
 La reine, en ce moment, sensible à vos bontés,  
-Charge le ciel de vœux pour vos prospérités.  
+Charge le ciel de voeux pour vos prospérités.  
 Elle sortait, Seigneur.  
 
     TITUS
-        Trop aimable princesse !  
-Hélas !  
+        Trop aimable princesse !  
+Hélas !  
 
     PAULIN
-        En sa faveur d'où naît cette tristesse ?  
+        En sa faveur d'où naît cette tristesse ?  
 L'Orient presque entier va fléchir sous sa loi.  
-Vous la plaignez ?  
+Vous la plaignez ?  
 
     TITUS
         Paulin, qu'on vous laisse avec moi.  
 
 
-## SCÈNE II
-Titus, Paulin.
-
+## SCÈNE II. Titus, Paulin.
 
     TITUS
 Hé bien, de mes desseins Rome encore incertaine  
 Attend que deviendra le destin de la reine,  
-Paulin, et les secrets de son cœur et du mien  
+Paulin, et les secrets de son coeur et du mien  
 Sont de tout l'univers devenus l'entretien.  
 Voici le temps enfin qu'il faut que je m'explique.  
-De la reine et de moi que dit la voix publique ?  
-Parlez. Qu'entendez-vous ?  
+De la reine et de moi que dit la voix publique ?  
+Parlez. Qu'entendez-vous ?  
 
     PAULIN
         J'entends de tous côtés  
 Publier vos vertus, Seigneur, et ses beautés.  
 
     TITUS
-Que dit-on des soupirs que je pousse pour elle ?  
-Quel succès attend-on d'un amour si fidèle ?  
+Que dit-on des soupirs que je pousse pour elle ?  
+Quel succès attend-on d'un amour si fidèle ?  
 
     PAULIN
 Vous pouvez tout. Aimez, cessez d'être amoureux.  
-La cour sera toujours du parti de vos vœux.  
+La cour sera toujours du parti de vos voeux.  
 
     TITUS
 Et je l'ai vue aussi cette cour peu sincère,  
 À ses maîtres toujours trop soigneuse de plaire,  
-Des crimes de Néron approuver les horreurs,  
+Des crimes de Néron approuver les horreurs, [7]  
 Je l'ai vue à genoux consacrer ses fureurs.  
 Je ne prends point pour juge une cour idolâtre,  
-Paulin. Je me propose un plus noble théâtre ;  
+Paulin. Je me propose un plus noble théâtre ;  
 Et sans prêter l'oreille à la voix des flatteurs,  
-Je veux par votre bouche entendre tous les cœurs.  
+Je veux par votre bouche entendre tous les coeurs.  
 Vous me l'avez promis. Le respect et la crainte  
 Ferment autour de moi le passage à la plainte.  
 Pour mieux voir, cher Paulin, et pour entendre mieux,  
 Je vous ai demandé des oreilles, des yeux.  
 J'ai mis même à ce prix mon amitié secrète,  
-J'ai voulu que des cœurs vous fussiez l'interprète,  
+J'ai voulu que des coeurs vous fussiez l'interprète,  
 Qu'au travers des flatteurs votre sincérité  
 Fît toujours jusqu'à moi passer la vérité.  
-Parlez donc. Que faut-il que Bérénice espère ?  
-Rome lui sera-t-elle indulgente, ou sévère ?  
+Parlez donc. Que faut-il que Bérénice espère ?  
+Rome lui sera-t-elle indulgente, ou sévère ?  
 Dois-je croire qu'assise au trône des Césars  
-Une si belle reine offensât ses regards ?  
+Une si belle reine offensât ses regards ?  
 
     PAULIN
 N'en doutez point, Seigneur. Soit raison, soit caprice,  
 Rome ne l'attend point pour son impératrice.  
 On sait qu'elle est charmante. Et de si belles mains  
 Semblent vous demander l'empire des humains.  
-Elle a même, dit-on, le cœur d'une Romaine.  
+Elle a même, dit-on, le coeur d'une Romaine.  
 Elle a mille vertus. Mais, Seigneur, elle est reine.  
 Rome, par une loi, qui ne se peut changer,  
 N'admet avec son sang aucun sang étranger,  
@@ -644,10 +625,10 @@ Et ne reconnaît point les fruits illégitimes,
 Qui naissent d'un hymen contraire à ses maximes.  
 D'ailleurs, vous le savez, en bannissant ses rois,  
 Rome à ce nom si noble, et si saint autrefois,  
-Attacha pour jamais une haine puissante ;  
+Attacha pour jamais une haine puissante ;  
 Et quoique à ses Césars fidèle, obéissante,  
 Cette haine, Seigneur, reste de sa fierté,  
-Survit dans tous les cœurs après la liberté.  
+Survit dans tous les coeurs après la liberté.  
 Jules, qui le premier la soumit à ses armes,  
 Qui fit taire les lois dans le bruit des alarmes,  
 Brûla pour Cléopâtre, et sans se déclarer,  
@@ -658,7 +639,7 @@ Sans oser toutefois se nommer son époux.
 Rome l'alla chercher jusques à ses genoux,  
 Et ne désarma point sa fureur vengeresse,  
 Qu'elle n'eût accablé l'amant et la maîtresse.  
-Depuis ce temps, Seigneur, Caligula, Néron,  
+Depuis ce temps, Seigneur, Caligula, Néron, [8]  
 Monstres, dont à regret je cite ici le nom,  
 Et qui ne conservant que la figure d'homme,  
 Foulèrent à leurs pieds toutes les lois de Rome,  
@@ -667,23 +648,23 @@ Allumé le flambeau d'un hymen odieux.
 Vous m'avez commandé surtout d'être sincère.  
 De l'affranchi Pallas nous avons vu le frère,  
 Des fers de Claudius Félix encor flétri,  
-De deux reines, Seigneur, devenir le mari ;  
+De deux reines, Seigneur, devenir le mari ;  
 Et s'il faut jusqu'au bout que je vous obéisse,  
 Ces deux reines étaient du sang de Bérénice.  
 Et vous croiriez pouvoir, sans blesser nos regards,  
 Faire entrer une reine au lit de nos Césars,  
 Tandis que l'Orient dans le lit de ses reines  
-Voit passer un esclave au sortir de nos chaînes ?  
+Voit passer un esclave au sortir de nos chaînes ?  
 C'est ce que les Romains pensent de votre amour.  
 Et je ne réponds pas avant la fin du jour  
-Que le Sénat chargé des vœux de tout l'empire,  
-Ne vous redise ici ce que je viens de dire :  
+Que le Sénat chargé des voeux de tout l'empire,  
+Ne vous redise ici ce que je viens de dire :  
 Et que Rome avec lui tombant à vos genoux,  
 Ne vous demande un choix digne d'elle et de vous.  
 Vous pouvez préparer, Seigneur, votre réponse.  
 
     TITUS
-Hélas ! à quel amour on veut que je renonce !  
+Hélas ! À quel amour on veut que je renonce !  
 
     PAULIN
 Cet amour est ardent, il le faut confesser.  
@@ -702,7 +683,7 @@ J'ai même souhaité la place de mon père,
 Moi, Paulin, qui cent fois, si le sort moins sévère  
 Eût voulu de sa vie étendre les liens,  
 Aurais donné mes jours pour prolonger les siens.  
-Tout cela (qu'un amant sait mal ce qu'il désire !)  
+Tout cela (qu'un amant sait mal ce qu'il désire !)  
 Dans l'espoir d'élever Bérénice à l'empire,  
 De reconnaître un jour son amour et sa foi,  
 Et de voir à ses pieds tout le monde avec moi.  
@@ -711,24 +692,24 @@ Après mille serments appuyés de mes larmes,
 Maintenant que je puis couronner tant d'attraits,  
 Maintenant que je l'aime encor plus que jamais,  
 Lorsqu'un heureux hymen joignant nos destinées  
-Peut payer en un jour les vœux de cinq années ;  
-Je vais, Paulin... Ô ciel ? puis-je le déclarer ?  
+Peut payer en un jour les voeux de cinq années ;  
+Je vais, Paulin... Ô ciel ? puis-je le déclarer ?  
 
     PAULIN
-Quoi, Seigneur ?  
+Quoi, Seigneur ?  
 
     TITUS
         Pour jamais je vais m'en séparer.  
-Mon cœur en ce moment ne vient pas de se rendre,  
+Mon coeur en ce moment ne vient pas de se rendre,  
 Si je t'ai fait parler, si j'ai voulu t'entendre,  
 Je voulais que ton zèle achevât en secret  
 De confondre un amour qui se tait à regret.  
 Bérénice a longtemps balancé la victoire.  
 Et si je penche enfin du côté de ma gloire,  
 Crois qu'il m'en a coûté, pour vaincre tant d'amour,  
-Des combats dont mon cœur saignera plus d'un jour.  
+Des combats dont mon coeur saignera plus d'un jour.  
 J'aimais, je soupirais dans une paix profonde,  
-Un autre était chargé de l'empire du monde ;  
+Un autre était chargé de l'empire du monde ;  
 Maître de mon destin, libre dans mes soupirs,  
 Je ne rendais qu'à moi compte de mes désirs.  
 Mais à peine le ciel eut rappelé mon père,  
@@ -740,12 +721,12 @@ Il fallait, cher Paulin, renoncer à moi-même,
 Et que le choix des dieux, contraire à mes amours,  
 Livrait à l'univers le reste de mes jours.  
 Rome observe aujourd'hui ma conduite nouvelle.  
-Quelle honte pour moi ? Quel présage pour elle,  
+Quelle honte pour moi ? Quel présage pour elle,  
 Si dès le premier pas renversant tous ses droits,  
-Je fondais mon bonheur sur le débris des lois ?  
+Je fondais mon bonheur sur le débris des lois ?  
 Résolu d'accomplir ce cruel sacrifice,  
 J'y voulus préparer la triste Bérénice.  
-Mais par où commencer ? Vingt fois depuis huit jours,  
+Mais par où commencer ? Vingt fois depuis huit jours,  
 J'ai voulu devant elle en ouvrir le discours,  
 Et dès le premier mot ma langue embarrassée  
 Dans ma bouche vingt fois a demeuré glacée.  
@@ -775,44 +756,44 @@ Et qu'un héros vainqueur de tant de nations
 Saurait bien, tôt ou tard, vaincre ses passions.  
 
     TITUS
-Ah ! que sous de beaux noms cette gloire est cruelle !  
+Ah ! Que sous de beaux noms cette gloire est cruelle !  
 Combien mes tristes yeux la trouveraient plus belle,  
-S'il ne fallait encor qu'affronter le trépas !  
-Que dis-je ? Cette ardeur que j'ai pour ses appas,  
+S'il ne fallait encor qu'affronter le trépas !  
+Que dis-je ? Cette ardeur que j'ai pour ses appas,  
 Bérénice en mon sein l'a jadis allumée.  
 Tu ne l'ignores pas, toujours la Renommée  
 Avec le même éclat n'a pas semé mon nom,  
 Ma jeunesse nourrie à la cour de Néron  
 S'égarait, cher Paulin, par l'exemple abusée,  
 Et suivait du plaisir la pente trop aisée.  
-Bérénice me plut. Que ne fait point un cœur  
-Pour plaire à ce qu'il aime, et gagner son vainqueur ?  
+Bérénice me plut. Que ne fait point un coeur  
+Pour plaire à ce qu'il aime, et gagner son vainqueur ?  
 Je prodiguai mon sang. Tout fit place à mes armes.  
 Je revins triomphant. Mais le sang et les larmes  
-Ne me suffisaient pas pour mériter ses vœux.  
+Ne me suffisaient pas pour mériter ses voeux.  
 J'entrepris le bonheur de mille malheureux.  
-On vit de toutes parts mes bontés se répandre ;  
-Heureux ! et plus heureux que tu ne peux comprendre  
+On vit de toutes parts mes bontés se répandre ;  
+Heureux ! Et plus heureux que tu ne peux comprendre  
 Quand je pouvais paraître à ses yeux satisfaits  
-Chargé de mille cœurs conquis par mes bienfaits.  
-Je lui dois tout, Paulin. Récompense cruelle !  
+Chargé de mille coeurs conquis par mes bienfaits.  
+Je lui dois tout, Paulin. Récompense cruelle !  
 Tout ce que je lui dois va retomber sur elle.  
 Pour prix de tant de gloire et de tant de vertus,  
 Je lui dirai, partez, et ne me voyez plus.  
 
     PAULIN
-Hé quoi, Seigneur ! hé quoi ! cette magnificence  
-Qui va jusqu'à l'Euphrate étendre sa puissance,  
+Hé quoi, Seigneur ! Hé quoi ! Cette magnificence  
+Qui va jusqu'à l'Euphrate étendre sa puissance, [9]  
 Tant d'honneurs, dont l'excès a surpris le Sénat,  
-Vous laissent-ils encor craindre le nom d'ingrat ?  
+Vous laissent-ils encor craindre le nom d'ingrat ?  
 Sur cent peuples nouveaux Bérénice commande.  
 
     TITUS
-Faibles amusements d'une douleur si grande !  
+Faibles amusements d'une douleur si grande !  
 Je connais Bérénice, et ne sais que trop bien  
-Que son cœur n'a jamais demandé que le mien.  
+Que son coeur n'a jamais demandé que le mien.  
 Je l'aimai, je lui plus. Depuis cette journée,  
-(Dois-je dire funeste, hélas ! ou fortunée ?)  
+(Dois-je dire funeste, hélas ! Ou fortunée ?)  
 Sans avoir en aimant d'objet que son amour,  
 Étrangère dans Rome, inconnue à la cour,  
 Elle passe ses jours, Paulin, sans rien prétendre  
@@ -821,7 +802,7 @@ Encor si quelquefois un peu moins assidu
 Je passe le moment où je suis attendu,  
 Je la revois bientôt de pleurs toute trempée.  
 Ma main à les sécher est longtemps occupée.  
-Enfin tout ce qu'Amour a de nœuds plus puissants,  
+Enfin tout ce qu'Amour a de noeuds plus puissants,  
 Doux reproches, transports sans cesse renaissants,  
 Soin de plaire sans art, crainte toujours nouvelle,  
 Beauté, gloire, vertu, je trouve tout en elle.  
@@ -829,24 +810,22 @@ Depuis cinq ans entiers chaque jour je la vois,
 Et crois toujours la voir pour la première fois.  
 N'y songeons plus. Allons, cher Paulin, plus j'y pense,  
 Plus je sens chanceler ma cruelle constance.  
-Quelle nouvelle, ô ciel ! je lui vais annoncer !  
+Quelle nouvelle, ô ciel ! Je lui vais annoncer !  
 Encore un coup, allons, il n'y faut plus penser.  
 Je connais mon devoir, c'est à moi de le suivre.  
 Je n'examine point si j'y pourrai survivre.  
 
 
-## SCÈNE III
-Titus, Paulin, Rutile.
-
+## SCÈNE III. Titus, Paulin, Rutile.
 
     RUTILE
 Bérénice, Seigneur, demande à vous parler.  
 
     TITUS
-Ah Paulin !  
+Ah Paulin !  
 
     PAULIN
-        Quoi ! déjà vous semblez reculer !  
+        Quoi ! Déjà vous semblez reculer !  
 De vos nobles projets, Seigneur, qu'il vous souvienne,  
 Voici le temps.  
 
@@ -854,9 +833,7 @@ Voici le temps.
         Hé bien, voyons-la. Qu'elle vienne.  
 
 
-## SCÈNE IV
-Bérénice, Titus, Paulin, Phénice.
-
+## SCÈNE IV. Bérénice, Titus, Paulin, Phénice.
 
     BÉRÉNICE
 Ne vous offensez pas, si mon zèle indiscret  
@@ -864,69 +841,69 @@ De votre solitude interrompt le secret.
 Tandis qu'autour de moi votre cour assemblée  
 Retentit des bienfaits dont vous m'avez comblée,  
 Est-il juste, Seigneur, que seule en ce moment  
-Je demeure sans voix et sans ressentiment ?  
+Je demeure sans voix et sans ressentiment ?  
 Mais, Seigneur, (car je sais que cet ami sincère  
-Du secret de nos cœurs connaît tout le mystère)  
+Du secret de nos coeurs connaît tout le mystère)  
 Votre deuil est fini, rien n'arrête vos pas,  
 Vous êtes seul enfin, et ne me cherchez pas.  
 J'entends que vous m'offrez un nouveau diadème,  
 Et ne puis cependant vous entendre vous-même.  
-Hélas ! plus de repos, Seigneur, et moins d'éclat.  
-Votre amour ne peut-il paraître qu'au Sénat ?  
-Ah Titus ! car enfin l'amour fuit la contrainte  
+Hélas ! Plus de repos, Seigneur, et moins d'éclat.  
+Votre amour ne peut-il paraître qu'au Sénat ?  
+Ah Titus ! Car enfin l'amour fuit la contrainte  
 De tous ces noms, que suit le respect et la crainte,  
-De quel soin votre amour va-t-il s'importuner ?  
-N'a-t-il que des États qu'il me puisse donner ?  
-Depuis quand croyez-vous que ma grandeur me touche ?  
+De quel soin votre amour va-t-il s'importuner ?  
+N'a-t-il que des États qu'il me puisse donner ?  
+Depuis quand croyez-vous que ma grandeur me touche ?  
 Un soupir, un regard, un mot de votre bouche,  
-Voilà l'ambition d'un cœur comme le mien.  
+Voilà l'ambition d'un coeur comme le mien.  
 Voyez-moi plus souvent et ne me donnez rien.  
-Tous vos moments sont-ils dévoués à l'empire ?  
-Ce cœur après huit jours n'a-t-il rien à me dire ?  
-Qu'un mot va rassurer mes timides esprits !  
-Mais parliez-vous de moi, quand je vous ai surpris ?  
+Tous vos moments sont-ils dévoués à l'empire ?  
+Ce coeur après huit jours n'a-t-il rien à me dire ?  
+Qu'un mot va rassurer mes timides esprits !  
+Mais parliez-vous de moi, quand je vous ai surpris ?  
 Dans vos secrets discours étais-je intéressée,  
-Seigneur ? Étais-je au moins présente à la pensée ?  
+Seigneur ? Étais-je au moins présente à la pensée ?  
 
     TITUS
 N'en doutez point, Madame, et j'atteste les dieux  
 Que toujours Bérénice est présente à mes yeux.  
 L'absence, ni le temps, je vous le jure encore,  
-Ne vous peuvent ravir ce cœur qui vous adore.  
+Ne vous peuvent ravir ce coeur qui vous adore.  
 
     BÉRÉNICE
-Hé quoi ! vous me jurez une éternelle ardeur,  
-Et vous me la jurez avec cette froideur ?  
-Pourquoi même du ciel attester la puissance ?  
-Faut-il par des serments vaincre ma défiance ?  
-Mon cœur ne prétend point, Seigneur, vous démentir,  
+Hé quoi ! Vous me jurez une éternelle ardeur,  
+Et vous me la jurez avec cette froideur ?  
+Pourquoi même du ciel attester la puissance ?  
+Faut-il par des serments vaincre ma défiance ?  
+Mon coeur ne prétend point, Seigneur, vous démentir,  
 Et je vous en croirai sur un simple soupir.  
 
     TITUS
 Madame...  
 
     BÉRÉNICE
-        Hé bien, Seigneur ? Mais quoi, sans me répondre  
-Vous détournez les yeux, et semblez vous confondre !  
-Ne m'offrirez-vous plus qu'un visage interdit ?  
-Toujours la mort d'un père occupe votre esprit ?  
-Rien ne peut-il charmer l'ennui qui vous dévore ?  
+        Hé bien, Seigneur ? Mais quoi, sans me répondre  
+Vous détournez les yeux, et semblez vous confondre !  
+Ne m'offrirez-vous plus qu'un visage interdit ?  
+Toujours la mort d'un père occupe votre esprit ?  
+Rien ne peut-il charmer l'ennui qui vous dévore ?  
 
     TITUS
-Plût au ciel que mon père, hélas, vécût encore !  
-Que je vivais heureux !  
+Plût au ciel que mon père, hélas, vécût encore !  
+Que je vivais heureux !  
 
     BÉRÉNICE
         Seigneur, tous ces regrets  
-De votre piété sont de justes effets :  
+De votre piété sont de justes effets :  
 Mais vos pleurs ont assez honoré sa mémoire,  
-Vous devez d'autres soins à Rome, à votre gloire :  
+Vous devez d'autres soins à Rome, à votre gloire :  
 De mon propre intérêt je n'ose vous parler.  
 Bérénice autrefois pouvait vous consoler.  
 Avec plus de plaisir vous m'avez écoutée.  
 De combien de malheurs pour vous persécutée  
-Vous ai-je pour un mot sacrifié mes pleurs ?  
-Vous regrettez un père. Hélas, faibles douleurs !  
+Vous ai-je pour un mot sacrifié mes pleurs ?  
+Vous regrettez un père. Hélas, faibles douleurs !  
 Et moi (ce souvenir me fait frémir encore)  
 On voulait m'arracher de tout ce que j'adore,  
 Moi, dont vous connaissez le trouble et le tourment,  
@@ -935,51 +912,49 @@ Moi, qui mourrais le jour qu'on voudrait m'interdire
 De vous...  
 
     TITUS
-        Madame, hélas ! que me venez-vous dire ?  
-Quel temps choisissez-vous ? Ah de grâce ! arrêtez.  
+        Madame, hélas ! Que me venez-vous dire ?  
+Quel temps choisissez-vous ? Ah de grâce ! Arrêtez.  
 C'est trop pour un ingrat prodiguer vos bontés.  
 
     BÉRÉNICE
-Pour un ingrat, Seigneur ! et le pouvez-vous être ?  
-Ainsi donc mes bontés vous fatiguent peut-être ?  
+Pour un ingrat, Seigneur ! Et le pouvez-vous être ?  
+Ainsi donc mes bontés vous fatiguent peut-être ?  
 
     TITUS
 Non, Madame. Jamais, puisqu'il faut vous parler,  
-Mon cœur de plus de feux ne se sentit brûler.  
+Mon coeur de plus de feux ne se sentit brûler.  
 Mais...  
 
     BÉRÉNICE
-        Achevez.  
+    Achevez.  
 
     TITUS
-        Hélas !  
+    Hélas !  
 
     BÉRÉNICE
-        Parlez.  
+    Parlez.  
 
     TITUS
         Rome... L'empire.  
 
     BÉRÉNICE
-Hé bien ?  
+Hé bien ?  
 
     TITUS
         Sortons, Paulin, je ne lui puis rien dire.  
 
 
-## SCÈNE V
-Bérénice, Phénice.
-
+## SCÈNE V. Bérénice, Phénice.
 
     BÉRÉNICE
-Quoi me quitter sitôt, et ne me dire rien ?  
-Chère Phénice, hélas ! quel funeste entretien !  
-Qu'ai-je fait ? Que veut-il ? Et que dit ce silence ?  
+Quoi me quitter sitôt, et ne me dire rien ?  
+Chère Phénice, hélas ! Quel funeste entretien !  
+Qu'ai-je fait ? Que veut-il ? Et que dit ce silence ?  
 
     PHÉNICE
 Comme vous je me perds d'autant plus que j'y pense.  
 Mais ne s'offre-t-il rien à votre souvenir  
-Qui contre vous, Madame, ait pu le prévenir ?  
+Qui contre vous, Madame, ait pu le prévenir ?  
 Voyez, examinez.  
 
     BÉRÉNICE
@@ -988,17 +963,17 @@ Plus je veux du passé rappeler la mémoire,
 Du jour que je le vis, jusqu'à ce triste jour,  
 Plus je vois qu'on me peut reprocher trop d'amour.  
 Mais tu nous entendais. Il ne faut rien me taire.  
-Parle. N'ai-je rien dit qui lui puisse déplaire ?  
-Que sais-je ? J'ai peut-être avec trop de chaleur  
+Parle. N'ai-je rien dit qui lui puisse déplaire ?  
+Que sais-je ? J'ai peut-être avec trop de chaleur  
 Rabaissé ses présents, ou blâmé sa douleur.  
-N'est-ce point que de Rome il redoute la haine ?  
+N'est-ce point que de Rome il redoute la haine ?  
 Il craint peut-être, il craint d'épouser une reine.  
-Hélas ! s'il était vrai... Mais non, il a cent fois  
+Hélas ! S'il était vrai... Mais non, il a cent fois  
 Rassuré mon amour contre leurs dures lois.  
-Cent fois... Ah ! qu'il m'explique un silence si rude.  
+Cent fois... Ah ! Qu'il m'explique un silence si rude.  
 Je ne respire pas dans cette incertitude.  
 Moi, je vivrais, Phénice, et je pourrais penser  
-Qu'il me néglige, ou bien que j'ai pu l'offenser ?  
+Qu'il me néglige, ou bien que j'ai pu l'offenser ?  
 Retournons sur ses pas. Mais quand je m'examine,  
 Je crois de ce désordre entrevoir l'origine,  
 Phénice, il aura su tout ce qui s'est passé.  
@@ -1012,11 +987,11 @@ Titus. Ah, plût au ciel, que sans blesser ta gloire,
 Un rival plus puissant voulût tenter ma foi,  
 Et pût mettre à mes pieds plus d'empires que toi,  
 Que de sceptres sans nombre il pût payer ma flamme,  
-Que ton amour n'eût rien à donner que ton âme ;  
+Que ton amour n'eût rien à donner que ton âme ;  
 C'est alors, cher Titus, qu'aimé, victorieux,  
-Tu verrais de quel prix ton cœur est à mes yeux.  
+Tu verrais de quel prix ton coeur est à mes yeux.  
 Allons, Phénice, un mot pourra le satisfaire.  
-Rassurons-nous, mon cœur, je puis encor lui plaire.  
+Rassurons-nous, mon coeur, je puis encor lui plaire.  
 Je me comptais trop tôt au rang des malheureux.  
 Si Titus est jaloux, Titus est amoureux.  
 
@@ -1024,39 +999,37 @@ Si Titus est jaloux, Titus est amoureux.
 # ACTE III
 
 
-## SCÈNE PREMIÈRE
-Titus, Antiochus, Arsace.
-
+## SCÈNE PREMIÈRE. Titus, Antiochus, Arsace.
 
     TITUS
-Quoi, prince ! vous partiez ? Quelle raison subite  
-Presse votre départ, ou plutôt votre fuite ?  
-Vouliez-vous me cacher jusques à vos adieux ?  
-Est-ce comme ennemi que vous quittez ces lieux ?  
-Que diront avec moi, la cour, Rome, l'empire ?  
-Mais comme votre ami que ne puis-je point dire ?  
-De quoi m'accusez-vous ? Vous avais-je sans choix  
-Confondu jusqu'ici dans la foule des rois ?  
-Mon cœur vous fut ouvert tant qu'a vécu mon père.  
+Quoi, prince ! Vous partiez ? Quelle raison subite  
+Presse votre départ, ou plutôt votre fuite ?  
+Vouliez-vous me cacher jusques à vos adieux ?  
+Est-ce comme ennemi que vous quittez ces lieux ?  
+Que diront avec moi, la cour, Rome, l'empire ?  
+Mais comme votre ami que ne puis-je point dire ?  
+De quoi m'accusez-vous ? Vous avais-je sans choix  
+Confondu jusqu'ici dans la foule des rois ?  
+Mon coeur vous fut ouvert tant qu'a vécu mon père.  
 C'était le seul présent que je pouvais vous faire.  
-Et lorsqu'avec mon cœur ma main peut s'épancher,  
-Vous fuyez mes bienfaits tout prêts à vous chercher ?  
+Et lorsqu'avec mon coeur ma main peut s'épancher,  
+Vous fuyez mes bienfaits tout prêts à vous chercher ?  
 Pensez-vous qu'oubliant ma fortune passée  
-Sur ma seule grandeur j'arrête ma pensée ?  
+Sur ma seule grandeur j'arrête ma pensée ?  
 Et que tous mes amis s'y présentent de loin  
-Comme autant d'inconnus, dont je n'ai plus besoin ?  
+Comme autant d'inconnus, dont je n'ai plus besoin ?  
 Vous-même, à mes regards qui vouliez vous soustraire,  
 Prince, plus que jamais vous m'êtes nécessaire.  
 
     ANTIOCHUS
-Moi, Seigneur ?  
+Moi, Seigneur ?  
 
     TITUS
-        Vous.  
+    Vous.  
 
     ANTIOCHUS
-        Hélas ! d'un prince malheureux,  
-Que pouvez-vous, Seigneur, attendre que des vœux ?  
+        Hélas ! D'un prince malheureux,  
+Que pouvez-vous, Seigneur, attendre que des voeux ?  
 
     TITUS
 Je n'ai pas oublié, Prince, que ma victoire  
@@ -1070,35 +1043,35 @@ Et je veux seulement emprunter votre voix.
 Je sais que Bérénice à vos soins redevable  
 Croit posséder en vous un ami véritable.  
 Elle ne voit dans Rome et n'écoute que vous.  
-Vous ne faites qu'un cœur et qu'une âme avec nous,  
+Vous ne faites qu'un coeur et qu'une âme avec nous,  
 Au nom d'une amitié si constante, et si belle,  
 Employez le pouvoir que vous avez sur elle.  
 Voyez-la de ma part.  
 
     ANTIOCHUS
-        Moi, paraître à ses yeux ?  
+        Moi, paraître à ses yeux ?  
 La reine pour jamais a reçu mes adieux.  
 
     TITUS
 Prince, il faut que pour moi vous lui parliez encore.  
 
     ANTIOCHUS
-Ah ! parlez-lui, Seigneur, la reine vous adore.  
+Ah ! Parlez-lui, Seigneur, la reine vous adore.  
 Pourquoi vous dérober vous-même en ce moment  
-Le plaisir de lui faire un aveu si charmant ?  
+Le plaisir de lui faire un aveu si charmant ?  
 Elle l'attend, Seigneur, avec impatience.  
 Je réponds en partant de son obéissance,  
 Et même elle m'a dit que prêt à l'épouser,  
 Vous ne la verrez plus que pour l'y disposer.  
 
     TITUS
-Ah ! qu'un aveu si doux aurait lieu de me plaire !  
-Que je serais heureux, si j'avais à le faire !  
+Ah ! Qu'un aveu si doux aurait lieu de me plaire !  
+Que je serais heureux, si j'avais à le faire !  
 Mes transports aujourd'hui s'attendaient d'éclater.  
 Cependant aujourd'hui, Prince il faut la quitter.  
 
     ANTIOCHUS
-La quitter ! Vous, Seigneur ?  
+La quitter ! Vous, Seigneur ?  
 
     TITUS
         Telle est ma destinée,  
@@ -1107,18 +1080,18 @@ D'un espoir si charmant je me flattais en vain.
 Prince, il faut avec vous qu'elle parte demain.  
 
     ANTIOCHUS
-Qu'entends-je ? Ô ciel !  
+Qu'entends-je ? Ô ciel !  
 
     TITUS
         Plaignez ma grandeur importune.  
 Maître de l'univers je règle sa fortune.  
 Je puis faire les rois, je puis les déposer.  
-Cependant de mon cœur je ne puis disposer.  
+Cependant de mon coeur je ne puis disposer.  
 Rome contre les rois de tout temps soulevée,  
 Dédaigne une beauté dans la pourpre élevée,  
 L'éclat du diadème, et cent rois pour aïeux  
 Déshonorent ma flamme, et blessent tous les yeux.  
-Mon cœur libre d'ailleurs sans craindre les murmures,  
+Mon coeur libre d'ailleurs sans craindre les murmures,  
 Peut brûler à son choix dans des flammes obscures,  
 Et Rome avec plaisir recevrait de ma main,  
 La moins digne beauté, qu'elle cache en son sein.  
@@ -1133,16 +1106,16 @@ L'auront pu préparer à ce triste discours.
 Et même en ce moment, inquiète, empressée,  
 Elle veut qu'à ses yeux j'explique ma pensée.  
 D'un amant interdit soulagez le tourment.  
-Epargnez à mon cœur cet éclaircissement.  
+Épargnez à mon coeur cet éclaircissement.  
 Allez, expliquez-lui mon trouble et mon silence,  
 Surtout qu'elle me laisse éviter sa présence.  
 Soyez le seul témoin de ses pleurs et des miens  
 Portez-lui mes adieux, et recevez les siens.  
 Fuyons tous deux, fuyons un spectacle funeste  
 Qui de notre constance accablerait le reste.  
-Si l'espoir de régner et de vivre en mon cœur,  
+Si l'espoir de régner et de vivre en mon coeur,  
 Peut de son infortune adoucir la rigueur,  
-Ah Prince ! jurez-lui que toujours trop fidèle,  
+Ah Prince ! Jurez-lui que toujours trop fidèle,  
 Gémissant dans ma cour, et plus exilé qu'elle,  
 Portant jusqu'au tombeau le nom de son amant,  
 Mon règne ne sera qu'un long bannissement,  
@@ -1150,23 +1123,21 @@ Si le ciel non content de me l'avoir ravie
 Veut encor m'affliger par une longue vie.  
 Vous, que l'amitié seule attache sur ses pas,  
 Prince, dans son malheur ne l'abandonnez pas.  
-Que l'Orient vous voie arriver à sa suite ;  
-Que ce soit un triomphe, et non pas une fuite ;  
-Qu'une amitié si belle ait d'éternels liens ;  
+Que l'Orient vous voie arriver à sa suite ;  
+Que ce soit un triomphe, et non pas une fuite ;  
+Qu'une amitié si belle ait d'éternels liens ;  
 Que mon nom soit toujours dans tous vos entretiens.  
 Pour rendre vos États plus voisins l'un de l'autre,  
 L'Euphrate bornera son empire et le vôtre.  
 Je sais que le Sénat tout plein de votre nom,  
 D'une commune voix confirmera ce don.  
-Je joins la Cilicie à votre Comagène.  
-Adieu ne quittez point ma princesse, ma reine !  
-Tout ce qui de mon cœur fut l'unique désir,  
+Je joins la Cilicie à votre Comagène. [10]  
+Adieu ne quittez point ma princesse, ma reine !  
+Tout ce qui de mon coeur fut l'unique désir,  
 Tout ce que j'aimerai jusqu'au dernier soupir.  
 
 
-## SCÈNE II
-Antiochus, Arsace.
-
+## SCÈNE II. Antiochus, Arsace.
 
     ARSACE
 Ainsi le ciel s'apprête à vous rendre justice.  
@@ -1175,27 +1146,27 @@ Loin de vous la ravir on va vous la livrer.
 
     ANTIOCHUS
 Arsace, laisse-moi le temps de respirer.  
-Ce changement est grand, ma surprise est extrême !  
-Titus entre mes mains remet tout ce qu'il aime !  
-Dois-je croire, grands dieux ! ce que je viens d'ouïr ?  
-Et quand je le croirais, dois-je m'en réjouir ?  
+Ce changement est grand, ma surprise est extrême !  
+Titus entre mes mains remet tout ce qu'il aime !  
+Dois-je croire, grands dieux ! Ce que je viens d'ouïr ?  
+Et quand je le croirais, dois-je m'en réjouir ?  
 
     ARSACE
-Mais moi-même, Seigneur, que faut-il que je croie ?  
-Quel obstacle nouveau s'oppose à votre joie ?  
+Mais moi-même, Seigneur, que faut-il que je croie ?  
+Quel obstacle nouveau s'oppose à votre joie ?  
 Me trompiez-vous tantôt au sortir de ces lieux,  
 Lorsque encor tout ému de vos derniers adieux,  
 Tremblant d'avoir osé s'expliquer devant elle,  
-Votre cœur me contait son audace nouvelle ?  
+Votre coeur me contait son audace nouvelle ?  
 Vous fuyez un hymen qui vous faisait trembler.  
-Cet hymen est rompu. Quel soin peut vous troubler ?  
+Cet hymen est rompu. Quel soin peut vous troubler ?  
 Suivez les doux transports où l'amour vous invite.  
 
     ANTIOCHUS
 Arsace, je me vois chargé de sa conduite.  
 Je jouirai longtemps de ses chers entretiens,  
 Ses yeux même pourront s'accoutumer aux miens.  
-Et peut-être son cœur fera la différence  
+Et peut-être son coeur fera la différence  
 Des froideurs de Titus à ma persévérance.  
 Titus m'accable ici du poids de sa grandeur.  
 Tout disparaît dans Rome auprès de sa splendeur.  
@@ -1203,31 +1174,31 @@ Mais quoique l'Orient soit plein de sa mémoire,
 Bérénice y verra des traces de ma gloire.  
 
     ARSACE
-N'en doutez point, Seigneur, tout succède à vos vœux.  
+N'en doutez point, Seigneur, tout succède à vos voeux.  
 
     ANTIOCHUS
-Ah ! que nous nous plaisons à nous tromper tous deux !  
+Ah ! Que nous nous plaisons à nous tromper tous deux !  
 
     ARSACE
-Et pourquoi nous tromper ?  
+Et pourquoi nous tromper ?  
 
     ANTIOCHUS
-        Quoi ! je lui pourrais plaire !  
-Bérénice à mes vœux ne serait plus contraire ?  
-Bérénice d'un mot flatterait mes douleurs ?  
+        Quoi ! Je lui pourrais plaire !  
+Bérénice à mes voeux ne serait plus contraire ?  
+Bérénice d'un mot flatterait mes douleurs ?  
 Penses-tu seulement que parmi ses malheurs,  
 Quand l'univers entier négligerait ses charmes,  
 L'ingrate me permît de lui donner des larmes.  
 Ou qu'elle s'abaissât jusques à recevoir  
-Des soins, qu'à mon amour elle croirait devoir ?  
+Des soins, qu'à mon amour elle croirait devoir ?  
 
     ARSACE
-Et qui peut mieux que vous consoler sa disgrâce ?  
+Et qui peut mieux que vous consoler sa disgrâce ?  
 Sa fortune, Seigneur, va prendre une autre face.  
 Titus la quitte.  
 
     ANTIOCHUS
-        Hélas ! De ce grand changement  
+        Hélas ! De ce grand changement  
 Il ne me reviendra que le nouveau tourment  
 D'apprendre par ses pleurs à quel point elle l'aime.  
 Je la verrai gémir, je la plaindrai moi-même.  
@@ -1235,15 +1206,15 @@ Pour fruit de tant d'amour j'aurai le triste emploi
 De recueillir des pleurs qui ne sont pas pour moi.  
 
     ARSACE
-Quoi ! ne vous plairez-vous qu'à vous gêner sans cesse ?  
-Jamais dans un grand cœur vit-on plus de faiblesse ?  
+Quoi ! Ne vous plairez-vous qu'à vous gêner sans cesse ?  
+Jamais dans un grand coeur vit-on plus de faiblesse ?  
 Ouvrez les yeux, Seigneur, et songeons entre nous  
 Par combien de raisons Bérénice est à vous.  
 Puisque aujourd'hui Titus ne prétend plus lui plaire,  
 Songez que votre hymen lui devient nécessaire.  
 
     ANTIOCHUS
-Nécessaire !  
+Nécessaire !  
 
     ARSACE
         À ses pleurs accordez quelques jours,  
@@ -1257,15 +1228,15 @@ L'intérêt, la raison, l'amitié, tout vous lie.
     ANTIOCHUS
 Oui, je respire, Arsace, et tu me rends la vie.  
 J'accepte avec plaisir un présage si doux.  
-Que tardons-nous ? Faisons ce qu'on attend de nous,  
-Entrons chez Bérénice ; et puisqu'on nous l'ordonne,  
+Que tardons-nous ? Faisons ce qu'on attend de nous,  
+Entrons chez Bérénice ; et puisqu'on nous l'ordonne,  
 Allons lui déclarer que Titus l'abandonne.  
-Mais plutôt demeurons. Que faisais-je ? Est-ce à moi,  
-Arsace, à me charger de ce cruel emploi ?  
-Soit vertu, soit amour, mon cœur s'en effarouche.  
+Mais plutôt demeurons. Que faisais-je ? Est-ce à moi,  
+Arsace, à me charger de ce cruel emploi ?  
+Soit vertu, soit amour, mon coeur s'en effarouche.  
 L'aimable Bérénice entendrait de ma bouche,  
-Qu'on l'abandonne ! Ah Reine ! Et qui l'aurait pensé,  
-Que ce mot dût jamais vous être prononcé ?  
+Qu'on l'abandonne ! Ah Reine ! Et qui l'aurait pensé,  
+Que ce mot dût jamais vous être prononcé ?  
 
     ARSACE
 La haine sur Titus tombera toute entière.  
@@ -1277,23 +1248,21 @@ Assez d'autres viendront lui conter son malheur.
 Et ne la crois-tu pas assez infortunée  
 D'apprendre à quel mépris Titus l'a condamnée,  
 Sans lui donner encor le déplaisir fatal  
-D'apprendre ce mépris par son propre rival ?  
+D'apprendre ce mépris par son propre rival ?  
 Encore un coup fuyons. Et par cette nouvelle  
 N'allons point nous charger d'une haine immortelle.  
 
     ARSACE
-Ah ! la voici, Seigneur, prenez votre parti.  
+Ah ! La voici, Seigneur, prenez votre parti.  
 
     ANTIOCHUS
-Ô ciel !  
+Ô ciel !  
 
 
-## SCÈNE III
-Bérénice, Antiochus, Arsace, Phénice.
-
+## SCÈNE III. Bérénice, Antiochus, Arsace, Phénice.
 
     BÉRÉNICE
-        Hé quoi, Seigneur vous n'êtes point parti ?  
+        Hé quoi, Seigneur vous n'êtes point parti ?  
 
     ANTIOCHUS
 Madame, je vois bien que vous êtes déçue,  
@@ -1310,13 +1279,13 @@ Il vous cherche vous seul. Il nous évite tous.
 Il ne m'a retenu que pour parler de vous.  
 
     BÉRÉNICE
-De moi, Prince !  
+De moi, Prince!  
 
     ANTIOCHUS
-        Oui, Madame.  
+    Oui, Madame.  
 
     BÉRÉNICE
-        Et qu'a-t-il pu vous dire ?  
+        Et qu'a-t-il pu vous dire ?  
 
     ANTIOCHUS
 Mille autres, mieux que moi, pourront vous en instruire.  
@@ -1337,7 +1306,7 @@ Avant la fin du jour vous me justifierez.
 Adieu, Madame.  
 
     BÉRÉNICE
-        Ô ciel ! Quel discours ! Demeurez.  
+        Ô ciel ! Quel discours ! Demeurez.  
 Prince, c'est trop cacher mon trouble à votre vue.  
 Vous voyez devant vous une reine éperdue,  
 Qui la mort dans le sein, vous demande deux mots.  
@@ -1346,14 +1315,14 @@ Et vos refus cruels, loin d'épargner ma peine,
 Excitent ma douleur, ma colère, ma haine.  
 Seigneur, si mon repos vous est si précieux,  
 Si moi-même jamais je fus chère à vos yeux,  
-Eclaircissez le trouble où vous voyez mon âme.  
-Que vous a dit Titus ?  
+Éclaircissez le trouble où vous voyez mon âme.  
+Que vous a dit Titus ?  
 
     ANTIOCHUS
         Au nom des dieux, Madame...  
 
     BÉRÉNICE
-Quoi ! vous craignez si peu de me désobéir ?  
+Quoi ! Vous craignez si peu de me désobéir ?  
 
     ANTIOCHUS
 Je n'ai qu'à vous parler, pour me faire haïr.  
@@ -1362,7 +1331,7 @@ Je n'ai qu'à vous parler, pour me faire haïr.
 Je veux que vous parliez.  
 
     ANTIOCHUS
-        Dieux ! quelle violence !  
+        Dieux ! Quelle violence !  
 Madame, encore un coup, vous louerez mon silence.  
 
     BÉRÉNICE
@@ -1374,39 +1343,39 @@ Madame, après cela je ne puis plus me taire.
 Hé bien, vous le voulez, il faut vous satisfaire.  
 Mais ne vous flattez point. Je vais vous annoncer  
 Peut-être des malheurs, où vous n'osez penser.  
-Je connais votre cœur. Vous devez vous attendre  
+Je connais votre coeur. Vous devez vous attendre  
 Que je le vais frapper par l'endroit le plus tendre.  
 Titus m'a commandé...  
 
     BÉRÉNICE
-        Quoi ?  
+    Quoi ?  
 
     ANTIOCHUS
         De vous déclarer  
 Qu'à jamais l'un de l'autre il faut vous séparer.  
 
     BÉRÉNICE
-Nous séparer ? Qui ? Moi ? Titus de Bérénice !  
+Nous séparer ? Qui ? Moi ? Titus de Bérénice !  
 
     ANTIOCHUS
 Il faut que devant vous je lui rende justice.  
-Tout ce que dans un cœur sensible et généreux  
+Tout ce que dans un coeur sensible et généreux  
 L'amour au désespoir peut rassembler d'affreux,  
-Je l'ai vu dans le sien. Il pleure ; il vous adore.  
-Mais enfin que lui sert de vous aimer encore ?  
+Je l'ai vu dans le sien. Il pleure ; il vous adore.  
+Mais enfin que lui sert de vous aimer encore ?  
 Une reine est suspecte à l'empire romain.  
 Il faut vous séparer, et vous partez demain.  
 
     BÉRÉNICE
-Nous séparer ! Hélas, Phénice !  
+Nous séparer ! Hélas, Phénice !  
 
     PHÉNICE
-        Hé bien, Madame ?  
+        Hé bien, Madame ?  
 Il faut ici montrer la grandeur de votre âme.  
 Ce coup sans doute est rude, il doit vous étonner.  
 
     BÉRÉNICE
-Après tant de serments Titus m'abandonner !  
+Après tant de serments Titus m'abandonner !  
 Titus qui me jurait... Non, je ne le puis croire,  
 Il ne me quitte point, il y va de sa gloire.  
 Contre son innocence on veut me prévenir.  
@@ -1416,7 +1385,7 @@ Allons le voir. Je veux lui parler tout à l'heure.
 Allons.  
 
     ANTIOCHUS
-        Quoi ? Vous pourriez ici me regarder...  
+        Quoi ? Vous pourriez ici me regarder...  
 
     BÉRÉNICE
 Vous le souhaitez trop pour me persuader.  
@@ -1425,18 +1394,16 @@ Pour jamais à mes yeux gardez-vous de paraître.
 À Phénice.
 
 Ne m'abandonne pas dans l'état où je suis,  
-Hélas ! pour me tromper je fais ce que je puis.  
+Hélas ! Pour me tromper je fais ce que je puis.  
 
 
-## SCÈNE IV
-Antiochus, Arsace.
-
+## SCÈNE IV. Antiochus, Arsace.
 
     ANTIOCHUS
-Ne me trompé-je point ? L'ai-je bien entendue ?  
-Que je me garde, moi, de paraître à sa vue ?  
+Ne me trompé-je point ? L'ai-je bien entendue ?  
+Que je me garde, moi, de paraître à sa vue ?  
 Je m'en garderai bien. Et ne partais-je pas,  
-Si Titus malgré moi n'eût arrêté mes pas ?  
+Si Titus malgré moi n'eût arrêté mes pas ?  
 Sans doute, il faut partir. Continuons, Arsace.  
 Elle croit m'affliger. Sa haine me fait grâce.  
 Tu me voyais tantôt inquiet, égaré.  
@@ -1448,20 +1415,20 @@ Je partirai peut-être avec indifférence.
 Moins que jamais, Seigneur, il faut vous éloigner.  
 
     ANTIOCHUS
-Moi, je demeurerai pour me voir dédaigner ?  
-Des froideurs de Titus je serai responsable ?  
-Je me verrai puni parce qu'il est coupable ?  
+Moi, je demeurerai pour me voir dédaigner ?  
+Des froideurs de Titus je serai responsable ?  
+Je me verrai puni parce qu'il est coupable ?  
 Avec quelle injustice, et quelle indignité  
-Elle doute à mes yeux de ma sincérité ?  
+Elle doute à mes yeux de ma sincérité ?  
 Titus l'aime, dit-elle, et moi je l'ai trahie.  
-L'ingrate ! m'accuser de cette perfidie ?  
-Et dans quel temps encor ! Dans le moment fatal  
+L'ingrate ! M'accuser de cette perfidie ?  
+Et dans quel temps encor ! Dans le moment fatal  
 Que j'étale à ses yeux les pleurs de mon rival,  
 Que pour la consoler je le faisais paraître  
 Amoureux et constant, plus qu'il ne l'est peut-être.  
 
     ARSACE
-Et de quel soin, Seigneur, vous allez-vous troubler ?  
+Et de quel soin, Seigneur, vous allez-vous troubler ?  
 Laissez à ce torrent le temps de s'écouler.  
 Dans huit jours, dans un mois, n'importe, il faut qu'il passe.  
 Demeurez seulement.  
@@ -1481,27 +1448,25 @@ Cours. Et partons du moins assurés de sa vie.
 # ACTE IV
 
 
-## SCÈNE PREMIÈRE
+## SCÈNE PREMIÈRE.
 
     BÉRÉNICE, SEULE.
-Phénice ne vient point ? Moments trop rigoureux,  
-Que vous paraissez lents à mes rapides vœux !  
+Phénice ne vient point ? Moments trop rigoureux,  
+Que vous paraissez lents à mes rapides voeux !  
 Je m'agite, je cours, languissante, abattue,  
 La force m'abandonne, et le repos me tue.  
-Phénice ne vient point ? Ah que cette longueur  
-D'un présage funeste épouvante mon cœur !  
+Phénice ne vient point ? Ah que cette longueur  
+D'un présage funeste épouvante mon coeur !  
 Phénice n'aura point de réponse à me rendre.  
 Titus, l'ingrat Titus n'a point voulu l'entendre.  
 Il fuit, il se dérobe à ma juste fureur.  
 
 
-## SCÈNE II
-Bérénice, Phénice.
-
+## SCÈNE II. Bérénice, Phénice.
 
     BÉRÉNICE
-Chère Phénice, hé bien ! as-tu vu l'empereur ?  
-Qu'a-t-il dit ? Viendra-t-il ?  
+Chère Phénice, hé bien ! As-tu vu l'empereur ?  
+Qu'a-t-il dit ? Viendra-t-il ?  
 
     PHÉNICE
         Oui, je l'ai vu, Madame,  
@@ -1509,11 +1474,11 @@ Et j'ai peint à ses yeux le trouble de votre âme.
 J'ai vu couler des pleurs qu'il voulait retenir.  
 
     BÉRÉNICE
-Vient-il ?  
+Vient-il ?  
 
     PHÉNICE
         N'en doutez point, Madame, il va venir.  
-Mais voulez-vous paraître en ce désordre extrême ?  
+Mais voulez-vous paraître en ce désordre extrême ?  
 Remettez-vous, Madame, et rentrez en vous-même.  
 Laissez-moi relever ces voiles détachés,  
 Et ces cheveux épars dont vos yeux sont cachés.  
@@ -1521,23 +1486,21 @@ Souffrez que de vos pleurs je répare l'outrage.
 
     BÉRÉNICE
 Laisse, laisse, Phénice, il verra son ouvrage.  
-Et que m'importe, hélas ! de ces vains ornements ?  
-Si ma foi, si mes pleurs, si mes gémissements ;  
-Mais que dis-je, mes pleurs ? si ma perte certaine,  
+Et que m'importe, hélas ! De ces vains ornements ?  
+Si ma foi, si mes pleurs, si mes gémissements ;  
+Mais que dis-je, mes pleurs ? si ma perte certaine,  
 Si ma mort toute prête enfin ne le ramène,  
 Dis-moi, que produiront tes secours superflus,  
-Et tout ce faible éclat qui ne le touche plus ?  
+Et tout ce faible éclat qui ne le touche plus ?  
 
     PHÉNICE
-Pourquoi lui faites-vous cet injuste reproche ?  
+Pourquoi lui faites-vous cet injuste reproche ?  
 J'entends du bruit, Madame, et l'empereur s'approche,  
 Venez, fuyez la foule, et rentrons promptement.  
 Vous l'entretiendrez seul dans votre appartement.  
 
 
-## SCÈNE III
-Titus, Paulin, Suite.
-
+## SCÈNE III. Titus, Paulin, Suite.
 
     TITUS
 De la reine, Paulin, flattez l'inquiétude.  
@@ -1545,92 +1508,90 @@ Je vais la voir. Je veux un peu de solitude.
 Que l'on me laisse.  
 
     PAULIN
-        Ô ciel ! que je crains ce combat !  
+        Ô ciel ! Que je crains ce combat !  
 Grands dieux, sauvez sa gloire, et l'honneur de l'État.  
 Voyons la reine.  
 
 
-## SCÈNE IV
+## SCÈNE IV.
 
     TITUS, SEUL.
-        Hé bien, Titus, que viens-tu faire ?  
-Bérénice t'attend. Où viens-tu, téméraire ?  
-Tes adieux sont-ils prêts ? T'es-tu bien consulté ?  
-Ton cœur te promet-il assez de cruauté ?  
+        Hé bien, Titus, que viens-tu faire ?  
+Bérénice t'attend. Où viens-tu, téméraire ?  
+Tes adieux sont-ils prêts ? T'es-tu bien consulté ?  
+Ton coeur te promet-il assez de cruauté ?  
 Car enfin au combat, qui pour toi se prépare,  
 C'est peu d'être constant, il faut être barbare.  
 Soutiendrai-je ces yeux dont la douce langueur,  
-Sait si bien découvrir les chemins de mon cœur ?  
+Sait si bien découvrir les chemins de mon coeur ?  
 Quand je verrai ces yeux armés de tous leurs charmes,  
 Attachés sur les miens, m'accabler de leurs larmes,  
-Me souviendrai-je alors de mon triste devoir ?  
-Pourrai-je dire enfin : je ne veux plus vous voir ?  
-Je viens percer un cœur que j'adore, qui m'aime.  
-Et pourquoi le percer ? Qui l'ordonne ? Moi-même.  
-Car enfin Rome a-t-elle expliqué ses souhaits ?  
-L'entendons-nous crier autour de ce palais ?  
-Vois-je l'État penchant au bord du précipice ?  
-Ne le puis-je sauver que par ce sacrifice ?  
+Me souviendrai-je alors de mon triste devoir ?  
+Pourrai-je dire enfin : je ne veux plus vous voir ?  
+Je viens percer un coeur que j'adore, qui m'aime.  
+Et pourquoi le percer ? Qui l'ordonne ? Moi-même.  
+Car enfin Rome a-t-elle expliqué ses souhaits ?  
+L'entendons-nous crier autour de ce palais ?  
+Vois-je l'État penchant au bord du précipice ?  
+Ne le puis-je sauver que par ce sacrifice ?  
 Tout se tait, et moi seul trop prompt à me troubler,  
 J'avance des malheurs que je puis reculer.  
 Et qui sait si sensible aux vertus de la reine,  
-Rome ne voudra point l'avouer pour Romaine ?  
+Rome ne voudra point l'avouer pour Romaine ?  
 Rome peut par son choix justifier le mien.  
 Non, non, encore un coup ne précipitons rien.  
 Que Rome avec ses lois mette dans la balance  
 Tant de pleurs, tant d'amour, tant de persévérance,  
 Rome sera pour nous. Titus, ouvre les yeux.  
-Quel air respires-tu ? N'es-tu pas dans ces lieux  
+Quel air respires-tu ? N'es-tu pas dans ces lieux  
 Où la haine des rois avec le lait sucée,  
-Par crainte, ou par amour, ne peut être effacée ?  
+Par crainte, ou par amour, ne peut être effacée ?  
 Rome jugea ta reine en condamnant ses rois.  
-N'as-tu pas en naissant entendu cette voix ?  
+N'as-tu pas en naissant entendu cette voix ?  
 Et n'as-tu pas encore ouï la renommée  
-T'annoncer ton devoir jusque dans ton armée ?  
+T'annoncer ton devoir jusque dans ton armée ?  
 Et lorsque Bérénice arriva sur tes pas,  
-Ce que Rome en jugeait, ne l'entendis-tu pas !  
-Faut-il donc tant de fois te le faire redire ?  
-Ah lâche ! fais l'amour, et renonce à l'empire.  
+Ce que Rome en jugeait, ne l'entendis-tu pas !  
+Faut-il donc tant de fois te le faire redire ?  
+Ah lâche ! Fais l'amour, et renonce à l'empire.  
 Au bout de l'univers va, cours te confiner,  
-Et fais place à des cœurs plus dignes de régner.  
+Et fais place à des coeurs plus dignes de régner.  
 Sont-ce là ces projets de grandeur et de gloire  
-Qui devaient dans les cœurs consacrer ma mémoire ?  
+Qui devaient dans les coeurs consacrer ma mémoire ?  
 Depuis huit jours je règne. Et jusques à ce jour  
-Qu'ai-je fait pour l'honneur ? J'ai tout fait pour l'amour.  
-D'un temps si précieux quel compte puis-je rendre ?  
-Où sont ces heureux jours que je faisais attendre ?  
-Quels pleurs ai-je séchés ? Dans quels yeux satisfaits  
-Ai-je déjà goûté le fruit de mes bienfaits ?  
-L'univers a-t-il vu changer ses destinées ?  
-Sais-je combien le ciel m'a compté de journées ?  
+Qu'ai-je fait pour l'honneur ? J'ai tout fait pour l'amour.  
+D'un temps si précieux quel compte puis-je rendre ?  
+Où sont ces heureux jours que je faisais attendre ?  
+Quels pleurs ai-je séchés ? Dans quels yeux satisfaits  
+Ai-je déjà goûté le fruit de mes bienfaits ?  
+L'univers a-t-il vu changer ses destinées ?  
+Sais-je combien le ciel m'a compté de journées ?  
 Et de ce peu de jours si longtemps attendus,  
-Ah malheureux ! combien j'en ai déjà perdus !  
+Ah malheureux ! Combien j'en ai déjà perdus !  
 Ne tardons plus. Faisons ce que l'honneur exige.  
 Rompons le seul lien...  
 
 
-## SCÈNE V
-Bérénice, Titus.
-
+## SCÈNE V. Bérénice, Titus.
 
     BÉRÉNICE, EN SORTANT.
         Non, laissez-moi, vous dis-je.  
 En vain tous vos conseils me retiennent ici.  
-Il faut que je le voie. Ah Seigneur ! vous voici.  
-Hé bien, il est donc vrai que Titus m'abandonne ?  
+Il faut que je le voie. Ah Seigneur ! Vous voici.  
+Hé bien, il est donc vrai que Titus m'abandonne ?  
 Il faut nous séparer. Et c'est lui qui l'ordonne.  
 
     TITUS
-N'accablez point, Madame, un prince malheureux ;  
+N'accablez point, Madame, un prince malheureux ;  
 Il ne faut point ici nous attendrir tous deux.  
 Un trouble assez cruel m'agite et me dévore,  
 Sans que des pleurs si chers me déchirent encore.  
-Rappelez bien plutôt ce cœur, qui tant de fois  
+Rappelez bien plutôt ce coeur, qui tant de fois  
 M'a fait de mon devoir reconnaître la voix.  
 Il en est temps. Forcez votre amour à se taire,  
-Et d'un œil que la gloire et la raison éclaire,  
+Et d'un oeil que la gloire et la raison éclaire,  
 Contemplez mon devoir dans toute sa rigueur.  
-Vous-même contre vous fortifiez mon cœur.  
+Vous-même contre vous fortifiez mon coeur.  
 Aidez-moi, s'il se peut, à vaincre sa faiblesse,  
 À retenir des pleurs qui m'échappent sans cesse.  
 Ou si nous ne pouvons commander à nos pleurs,  
@@ -1640,19 +1601,19 @@ Les pleurs d'un empereur, et les pleurs d'une reine.
 Car enfin, ma Princesse, il faut nous séparer.  
 
     BÉRÉNICE
-Ah cruel ! est-il temps de me le déclarer ?  
-Qu'avez-vous fait ? Hélas ! Je me suis crue aimée.  
+Ah cruel ! Est-il temps de me le déclarer ?  
+Qu'avez-vous fait ? Hélas ! Je me suis crue aimée.  
 Au plaisir de vous voir mon âme accoutumée  
 Ne vit plus que pour vous. Ignoriez-vous vos lois,  
-Quand je vous l'avouai pour la première fois ?  
-À quel excès d'amour m'avez-vous amenée ?  
-Que ne me disiez-vous : Princesse infortunée,  
-Où vas-tu t'engager, et quel est ton espoir ?  
-Ne donne point un cœur, qu'on ne peut recevoir.  
+Quand je vous l'avouai pour la première fois ?  
+À quel excès d'amour m'avez-vous amenée ?  
+Que ne me disiez-vous : Princesse infortunée,  
+Où vas-tu t'engager, et quel est ton espoir ?  
+Ne donne point un coeur, qu'on ne peut recevoir.  
 Ne l'avez-vous reçu, cruel, que pour le rendre  
-Quand de vos seules mains ce cœur voudrait dépendre ?  
+Quand de vos seules mains ce coeur voudrait dépendre ?  
 Tout l'empire a vingt fois conspiré contre nous.  
-Il était temps encor. Que ne me quittiez-vous ?  
+Il était temps encor. Que ne me quittiez-vous ?  
 Mille raisons alors consolaient ma misère.  
 Je pouvais de ma mort accuser votre père,  
 Le peuple, le Sénat, tout l'empire romain,  
@@ -1669,19 +1630,19 @@ Enfin quand je n'ai plus à redouter que vous.
     TITUS
 Et c'est moi seul aussi qui pouvais me détruire.  
 Je pouvais vivre alors, et me laisser séduire.  
-Mon cœur se gardait bien d'aller dans l'avenir  
+Mon coeur se gardait bien d'aller dans l'avenir  
 Chercher ce qui pouvait un jour nous désunir.  
-Je voulais qu'à mes vœux rien ne fût invincible,  
+Je voulais qu'à mes voeux rien ne fût invincible,  
 Je n'examinais rien, j'espérais l'impossible.  
-Que sais-je ? J'espérais de mourir à vos yeux  
+Que sais-je ? J'espérais de mourir à vos yeux  
 Avant que d'en venir à ces cruels adieux.  
 Les obstacles semblaient renouveler ma flamme.  
 Tout l'empire parlait. Mais la gloire, Madame,  
-Ne s'était point encor fait entendre à mon cœur  
-Du ton dont elle parle au cœur d'un empereur.  
+Ne s'était point encor fait entendre à mon coeur  
+Du ton dont elle parle au coeur d'un empereur.  
 Je sais tous les tourments où ce dessein me livre.  
 Je sens bien que sans vous je ne saurais plus vivre,  
-Que mon cœur de moi-même est prêt à s'éloigner.  
+Que mon coeur de moi-même est prêt à s'éloigner.  
 Mais il ne s'agit plus de vivre, il faut régner.  
 
     BÉRÉNICE
@@ -1693,16 +1654,16 @@ Cette bouche à mes yeux s'avouant infidèle,
 M'ordonnât elle-même une absence éternelle.  
 Moi-même j'ai voulu vous entendre en ce lieu.  
 Je n'écoute plus rien, et pour jamais adieu.  
-Pour jamais ! Ah Seigneur, songez-vous en vous-même  
-Combien ce mot cruel est affreux quand on aime ?  
+Pour jamais ! Ah Seigneur, songez-vous en vous-même  
+Combien ce mot cruel est affreux quand on aime ?  
 Dans un mois, dans un an, comment souffrirons-nous,  
-Seigneur, que tant de mers me séparent de vous ?  
+Seigneur, que tant de mers me séparent de vous ?  
 Que le jour recommence et que le jour finisse,  
 Sans que jamais Titus puisse voir Bérénice,  
-Sans que de tout le jour je puisse voir Titus ?  
-Mais quelle est mon erreur, et que de soins perdus !  
+Sans que de tout le jour je puisse voir Titus ?  
+Mais quelle est mon erreur, et que de soins perdus !  
 L'ingrat de mon départ consolé par avance,  
-Daignera-t-il compter les jours de mon absence ?  
+Daignera-t-il compter les jours de mon absence ?  
 Ces jours si longs pour moi lui sembleront trop courts.  
 
     TITUS
@@ -1712,92 +1673,92 @@ Vous fera confesser que vous étiez aimée.
 Vous verrez que Titus n'a pu sans expirer...  
 
     BÉRÉNICE
-Ah Seigneur ! s'il est vrai, pourquoi nous séparer ?  
-Je ne vous parle point d'un heureux hyménée :  
-Rome à ne vous plus voir m'a-t-elle condamnée ?  
-Pourquoi m'enviez-vous l'air que vous respirez ?  
+Ah Seigneur ! S'il est vrai, pourquoi nous séparer ?  
+Je ne vous parle point d'un heureux hyménée :  
+Rome à ne vous plus voir m'a-t-elle condamnée ?  
+Pourquoi m'enviez-vous l'air que vous respirez ?  
 
     TITUS
-Hélas ! vous pouvez tout, Madame. Demeurez,  
+Hélas ! Vous pouvez tout, Madame. Demeurez,  
 Je n'y résiste point. Mais je sens ma faiblesse.  
 Il faudra vous combattre et vous craindre sans cesse,  
 Et sans cesse veiller à retenir mes pas,  
 Que vers vous à toute heure entraînent vos appas.  
-Que dis-je ? En ce moment mon cœur hors de lui-même  
+Que dis-je ? En ce moment mon coeur hors de lui-même  
 S'oublie, et se souvient seulement qu'il vous aime.  
 
     BÉRÉNICE
-Hé bien, Seigneur, hé bien, qu'en peut-il arriver ?  
-Voyez-vous les Romains prêts à se soulever ?  
+Hé bien, Seigneur, hé bien, qu'en peut-il arriver ?  
+Voyez-vous les Romains prêts à se soulever ?  
 
     TITUS
-Et qui sait de quel œil ils prendront cette injure ?  
+Et qui sait de quel oeil ils prendront cette injure ?  
 S'ils parlent, si les cris succèdent au murmure,  
-Faudra-t-il par le sang justifier mon choix ?  
+Faudra-t-il par le sang justifier mon choix ?  
 S'ils se taisent, Madame, et me vendent leurs lois,  
-À quoi m'exposez-vous ? Par quelle complaisance  
-Faudra-t-il quelque jour payer leur patience !  
-Que n'oseront-ils point alors me demander ?  
-Maintiendrai-je des lois, que je ne puis garder ?  
+À quoi m'exposez-vous ? Par quelle complaisance  
+Faudra-t-il quelque jour payer leur patience !  
+Que n'oseront-ils point alors me demander ?  
+Maintiendrai-je des lois, que je ne puis garder ?  
 
     BÉRÉNICE
 Vous ne comptez pour rien les pleurs de Bérénice.  
 
     TITUS
-Je les compte pour rien ! Ah ciel, quelle injustice !  
+Je les compte pour rien ! Ah ciel, quelle injustice !  
 
     BÉRÉNICE
 Quoi, pour d'injustes lois que vous pouvez changer,  
-En d'éternels chagrins vous-même vous plonger ?  
-Rome a ses droits, Seigneur. N'avez-vous pas les vôtres ?  
-Ses intérêts sont-ils plus sacrés que les nôtres ?  
+En d'éternels chagrins vous-même vous plonger ?  
+Rome a ses droits, Seigneur. N'avez-vous pas les vôtres ?  
+Ses intérêts sont-ils plus sacrés que les nôtres ?  
 Dites, parlez.  
 
     TITUS
-        Hélas ! Que vous me déchirez !  
+        Hélas ! Que vous me déchirez !  
 
     BÉRÉNICE
-Vous êtes empereur, Seigneur, et vous pleurez ?  
+Vous êtes empereur, Seigneur, et vous pleurez ?  
 
     TITUS
 Oui, Madame, il est vrai, je pleure, je soupire,  
 Je frémis. Mais enfin quand j'acceptai l'empire,  
-Rome me fit jurer de maintenir ses droits ;  
+Rome me fit jurer de maintenir ses droits ;  
 Il les faut maintenir. Déjà plus d'une fois  
 Rome a de mes pareils exercé la constance.  
-Ah ! si vous remontiez jusques à sa naissance,  
+Ah ! Si vous remontiez jusques à sa naissance,  
 Vous les verriez toujours à ses ordres soumis.  
 L'un jaloux de sa foi va chez les ennemis  
 Chercher avec la mort la peine toute prête.  
 D'un fils victorieux l'autre proscrit la tête.  
 L'autre avec des yeux secs, et presque indifférents,  
 Voit mourir ses deux fils par son ordre expirants.  
-Malheureux ! Mais toujours la patrie et la gloire  
+Malheureux ! Mais toujours la patrie et la gloire  
 Ont parmi les Romains remporté la victoire.  
 Je sais qu'en vous quittant le malheureux Titus  
-Passe l'austérité de toutes leurs vertus ;  
+Passe l'austérité de toutes leurs vertus ;  
 Qu'elle n'approche point de cet effort insigne.  
 Mais, Madame, après tout, me croyez-vous indigne  
 De laisser un exemple à la postérité,  
-Qui sans de grands efforts ne puisse être imité ?  
+Qui sans de grands efforts ne puisse être imité ?  
 
     BÉRÉNICE
 Non, je crois tout facile à votre barbarie.  
 Je vous crois digne, ingrat, de m'arracher la vie.  
-De tous vos sentiments mon cœur est éclairci.  
+De tous vos sentiments mon coeur est éclairci.  
 Je ne vous parle plus de me laisser ici.  
-Qui moi ? J'aurais voulu honteuse, et méprisée,  
-D'un peuple qui me hait soutenir la risée ?  
+Qui moi ? J'aurais voulu honteuse, et méprisée,  
+D'un peuple qui me hait soutenir la risée ?  
 J'ai voulu vous pousser jusques à ce refus  
 C'en est fait, et bientôt vous ne me craindrez plus.  
 N'attendez pas ici que j'éclate en injures,  
 Que j'atteste le ciel ennemi des parjures.  
 Non, si le ciel encore est touché de mes pleurs,  
 Je le prie en mourant d'oublier mes douleurs.  
-Si je forme des vœux contre votre injustice,  
+Si je forme des voeux contre votre injustice,  
 Si devant que mourir la triste Bérénice  
 Vous veut de son trépas laisser quelque vengeur,  
-Je ne le cherche, ingrat, qu'au fond de votre cœur.  
+Je ne le cherche, ingrat, qu'au fond de votre coeur.  
 Je sais que tant d'amour n'en peut être effacée,  
 Que ma douleur présente, et ma bonté passée,  
 Mon sang, qu'en ce palais je veux même verser,  
@@ -1807,13 +1768,11 @@ Je me remets sur eux de toute ma vengeance.
 Adieu.  
 
 
-## SCÈNE VI
-Titus, Paulin.
-
+## SCÈNE VI. Titus, Paulin.
 
     PAULIN
         Dans quel dessein vient-elle de sortir,  
-Seigneur ? Est-elle enfin disposée à partir ?  
+Seigneur ? Est-elle enfin disposée à partir ?  
 
     TITUS
 Paulin, je suis perdu, je n'y pourrai survivre.  
@@ -1821,13 +1780,13 @@ La reine veut mourir. Allons, il faut la suivre.
 Courons à son secours.  
 
     PAULIN
-        Hé quoi ? N'avez-vous pas  
-Ordonné dès tantôt qu'on observe ses pas ?  
+        Hé quoi ? N'avez-vous pas  
+Ordonné dès tantôt qu'on observe ses pas ?  
 Ses femmes à toute heure autour d'elle empressées  
 Sauront la détourner de ces tristes pensées.  
 Non, non, ne craignez rien. Voilà les plus grands coups,  
 Seigneur, continuez, la victoire est à vous.  
-Je sais que sans pitié vous n'avez pu l'entendre ;  
+Je sais que sans pitié vous n'avez pu l'entendre ;  
 Moi-même en la voyant je n'ai pu m'en défendre.  
 Mais regardez plus loin. Songez en ce malheur  
 Quelle gloire va suivre un moment de douleur,  
@@ -1842,7 +1801,7 @@ Je ne souffrirai point que Bérénice expire.
 Allons, Rome en dira ce qu'elle en voudra dire.  
 
     PAULIN
-Quoi ! Seigneur ?  
+Quoi ! Seigneur ?  
 
     TITUS
         Je ne sais, Paulin, ce que je dis.  
@@ -1857,16 +1816,14 @@ Et le peuple élevant vos vertus jusqu'aux nues,
 Va partout de lauriers couronner vos statues.  
 
     TITUS
-Ah Rome ! Ah Bérénice ! Ah prince malheureux !  
-Pourquoi suis-je empereur ? Pourquoi suis-je amoureux ?  
+Ah Rome ! Ah Bérénice ! Ah prince malheureux !  
+Pourquoi suis-je empereur ? Pourquoi suis-je amoureux ?  
 
 
-## SCÈNE VII
-Titus, Antiochus, Paulin, Arsace.
-
+## SCÈNE VII. Titus, Antiochus, Paulin, Arsace.
 
     ANTIOCHUS
-Qu'avez-vous fait, Seigneur ? L'aimable Bérénice  
+Qu'avez-vous fait, Seigneur ? L'aimable Bérénice  
 Va peut-être expirer dans les bras de Phénice.  
 Elle n'entend ni pleurs, ni conseil, ni raison.  
 Elle implore à grands cris le fer et le poison.  
@@ -1875,19 +1832,17 @@ On vous nomme, et ce nom la rappelle à la vie.
 Ses yeux toujours tournés vers votre appartement  
 Semblent vous demander de moment en moment,  
 Je n'y puis résister, ce spectacle me tue.  
-Que tardez-vous ? Allez vous montrer à sa vue.  
+Que tardez-vous ? Allez vous montrer à sa vue.  
 Sauvez tant de vertus, de grâces, de beauté,  
 Ou renoncez, Seigneur, à toute humanité.  
 Dites un mot.  
 
     TITUS
-        Hélas ! Quel mot puis-je lui dire ?  
-Moi-même en ce moment sais-je si je respire ?  
+        Hélas ! Quel mot puis-je lui dire ?  
+Moi-même en ce moment sais-je si je respire ?  
 
 
-## SCÈNE VIII
-Titus, Antiochus, Paulin, Arsace, Rutile.
-
+## SCÈNE VIII. Titus, Antiochus, Paulin, Arsace, Rutile.
 
     RUTILE
 Seigneur, tous les tribuns, les consuls, le Sénat,  
@@ -1897,18 +1852,18 @@ Dans votre appartement attend votre présence.
 
     TITUS
 Je vous entends, grands dieux. Vous voulez rassurer  
-Ce cœur que vous croyez tout prêt à s'égarer.  
+Ce coeur que vous croyez tout prêt à s'égarer.  
 
     PAULIN
 Venez, Seigneur, passons dans la chambre prochaine,  
 Allons voir le Sénat.  
 
     ANTIOCHUS
-        Ah ! courez chez la reine.  
+        Ah ! Courez chez la reine.  
 
     PAULIN
 Quoi vous pourriez, Seigneur, par cette indignité,  
-De l'empire à vos pieds fouler la majesté ?  
+De l'empire à vos pieds fouler la majesté ?  
 Rome...  
 
     TITUS
@@ -1921,22 +1876,20 @@ Qu'elle ne pourra plus douter de mon amour.
 # ACTE V
 
 
-## SCÈNE PREMIÈRE
+## SCÈNE PREMIÈRE.
 
     ARSACE, SEUL.
-Où pourrai-je trouver ce prince trop fidèle ?  
+Où pourrai-je trouver ce prince trop fidèle ?  
 Ciel, conduisez mes pas, et secondez mon zèle,  
 Faites qu'en ce moment je lui puisse annoncer  
 Un bonheur où peut-être il n'ose plus penser.  
 
 
-## SCÈNE II
-Antiochus, Arsace.
-
+## SCÈNE II. Antiochus, Arsace.
 
     ARSACE
 Ah quel heureux destin en ces lieux vous renvoie,  
-Seigneur ?  
+Seigneur ?  
 
     ANTIOCHUS
         Si mon retour t'apporte quelque joie,  
@@ -1946,7 +1899,7 @@ Arsace, rends-en grâce à mon seul désespoir.
 La reine part, Seigneur.  
 
     ANTIOCHUS
-        Elle part ?  
+    Elle part ?  
 
     ARSACE
         Dès ce soir.  
@@ -1959,8 +1912,8 @@ Puisse voir son désordre, et jouir de sa fuite.
 Elle écrit à César.  
 
     ANTIOCHUS
-        Ô ciel ! qui l'aurait cru ?  
-Et Titus ?  
+        Ô ciel ! Qui l'aurait cru ?  
+Et Titus ?  
 
     ARSACE
         À ses yeux Titus n'a point paru.  
@@ -1970,77 +1923,71 @@ Et ces noms, ces respects, ces applaudissements,
 Deviennent pour Titus autant d'engagements,  
 Qui le liant, Seigneur, d'une honorable chaîne,  
 Malgré tous ses soupirs, et les pleurs de la reine,  
-Fixent dans son devoir ses vœux irrésolus.  
+Fixent dans son devoir ses voeux irrésolus.  
 C'en est fait. Et peut-être il ne la verra plus.  
 
     ANTIOCHUS
-Que de sujets d'espoir, Arsace, je l'avoue !  
-Mais d'un soin si cruel la Fortune me joue :  
+Que de sujets d'espoir, Arsace, je l'avoue !  
+Mais d'un soin si cruel la Fortune me joue :  
 J'ai vu tous mes projets tant de fois démentis,  
-Que j'écoute en tremblant tout ce que tu me dis ;  
-Et mon cœur prévenu d'une crainte importune,  
+Que j'écoute en tremblant tout ce que tu me dis ;  
+Et mon coeur prévenu d'une crainte importune,  
 Croit même, en espérant, irriter la Fortune.  
-Mais que vois-je ? Titus porte vers nous ses pas.  
-Que veut-il ?  
+Mais que vois-je ? Titus porte vers nous ses pas.  
+Que veut-il ?  
 
 
-## SCÈNE III
-Titus, Antiochus, Arsace.
-
+## SCÈNE III. Titus, Antiochus, Arsace.
 
     TITUS, EN ENTRANT.
         Demeurez, qu'on ne me suive pas.  
 Enfin, Prince, je viens dégager ma promesse.  
 Bérénice m'occupe, et m'afflige sans cesse.  
-Je viens le cœur percé de vos pleurs, et des siens,  
+Je viens le coeur percé de vos pleurs, et des siens,  
 Calmer des déplaisirs moins cruels que les miens.  
 Venez, Prince, venez. Je veux bien que vous-même,  
 Pour la dernière fois vous voyiez si je l'aime.  
 
 
-## SCÈNE IV
-Antiochus, Arsace.
-
+## SCÈNE IV. Antiochus, Arsace.
 
     ANTIOCHUS
-Hé bien ! voilà l'espoir que tu m'avais rendu.  
+Hé bien ! Voilà l'espoir que tu m'avais rendu.  
 Et tu vois le triomphe où j'étais attendu.  
-Bérénice partait justement irritée ?  
-Pour ne la plus revoir Titus l'avait quittée ?  
-Qu'ai-je donc fait, grands dieux ! Quel cours infortuné  
-À ma funeste vie aviez-vous destiné ?  
+Bérénice partait justement irritée ?  
+Pour ne la plus revoir Titus l'avait quittée ?  
+Qu'ai-je donc fait, grands dieux ! Quel cours infortuné  
+À ma funeste vie aviez-vous destiné ?  
 Tous mes moments ne sont qu'un éternel passage  
 De la crainte à l'espoir, de l'espoir à la rage.  
-Et je respire encor ? Bérénice ! Titus !  
-Dieux cruels ! de mes pleurs vous ne vous rirez plus.  
+Et je respire encor ? Bérénice ! Titus !  
+Dieux cruels ! De mes pleurs vous ne vous rirez plus.  
 
 
-## SCÈNE V
-Titus, Bérénice, Phénice.
-
+## SCÈNE V. Titus, Bérénice, Phénice.
 
     BÉRÉNICE
 Non, je n'écoute rien. Me voilà résolue.  
-Je veux partir. Pourquoi vous montrer à ma vue ?  
-Pourquoi venir encore aigrir mon désespoir ?  
-N'êtes-vous pas content ? Je ne veux plus vous voir.  
+Je veux partir. Pourquoi vous montrer à ma vue ?  
+Pourquoi venir encore aigrir mon désespoir ?  
+N'êtes-vous pas content ? Je ne veux plus vous voir.  
 
     TITUS
 Mais de grâce, écoutez.  
 
     BÉRÉNICE
-        Il n'est plus temps.  
+    Il n'est plus temps.  
 
     TITUS
         Madame,  
 Un mot.  
 
     BÉRÉNICE
-        Non.  
+    Non.  
 
     TITUS
-        Dans quel trouble elle jette mon âme !  
-Ma Princesse, d'où vient ce changement soudain ?  
+        Dans quel trouble elle jette mon âme !  
+Ma Princesse, d'où vient ce changement soudain ?  
 
     BÉRÉNICE
 C'en est fait. Vous voulez que je parte demain.  
@@ -2048,19 +1995,19 @@ Et moi, j'ai résolu de partir tout à l'heure.
 Et je pars.  
 
     TITUS
-        Demeurez.  
+    Demeurez.  
 
     BÉRÉNICE
-        Ingrat, que je demeure !  
-Et pourquoi ? Pour entendre un peuple injurieux,  
-Qui fait de mon malheur retentir tous ces lieux ?  
+        Ingrat, que je demeure !  
+Et pourquoi ? Pour entendre un peuple injurieux,  
+Qui fait de mon malheur retentir tous ces lieux ?  
 Ne l'entendez-vous pas cette cruelle joie,  
-Tandis que dans les pleurs moi seule je me noie ?  
-Quel crime, quelle offense a pu les animer ?  
-Hélas ! et qu'ai-je fait que de vous trop aimer ?  
+Tandis que dans les pleurs moi seule je me noie ?  
+Quel crime, quelle offense a pu les animer ?  
+Hélas ! Et qu'ai-je fait que de vous trop aimer ?  
 
     TITUS
-Écoutez-vous, Madame, une foule insensée ?  
+Écoutez-vous, Madame, une foule insensée ?  
 
     BÉRÉNICE
 Je ne vois rien ici dont je ne sois blessée.  
@@ -2073,37 +2020,37 @@ Sont autant d'imposteurs que je ne puis souffrir.
 Allons, Phénice.  
 
     TITUS
-        Ô ciel ! Que vous êtes injuste !  
+        Ô ciel ! Que vous êtes injuste !  
 
     BÉRÉNICE
 Retournez, retournez vers ce Sénat auguste  
 Qui vient vous applaudir de votre cruauté.  
-Hé bien, avec plaisir l'avez-vous écouté ?  
-Êtes-vous pleinement content de votre gloire ?  
-Avez-vous bien promis d'oublier ma mémoire ?  
+Hé bien, avec plaisir l'avez-vous écouté ?  
+Êtes-vous pleinement content de votre gloire ?  
+Avez-vous bien promis d'oublier ma mémoire ?  
 Mais ce n'est pas assez expier vos amours.  
-Avez-vous bien promis de me haïr toujours ?  
+Avez-vous bien promis de me haïr toujours ?  
 
     TITUS
-Non, je n'ai rien promis. Moi, que je vous haïsse !  
-Que je puisse jamais oublier Bérénice !  
-Ah dieux ! dans quel moment son injuste rigueur  
-De ce cruel soupçon vient affliger mon cœur !  
+Non, je n'ai rien promis. Moi, que je vous haïsse !  
+Que je puisse jamais oublier Bérénice !  
+Ah dieux ! Dans quel moment son injuste rigueur  
+De ce cruel soupçon vient affliger mon coeur !  
 Connaissez-moi, Madame, et depuis cinq années  
 Comptez tous les moments, et toutes les journées  
 Où par plus de transports, et par plus de soupirs,  
-Je vous ai de mon cœur exprimé les désirs ;  
+Je vous ai de mon coeur exprimé les désirs ;  
 Ce jour surpasse tout. Jamais, je le confesse,  
 Vous ne fûtes aimée avec tant de tendresse.  
 Et jamais...  
 
     BÉRÉNICE
         Vous m'aimez, vous me le soutenez.  
-Et cependant je pars, et vous me l'ordonnez ?  
-Quoi ! dans mon désespoir trouvez-vous tant de charmes ?  
-Craignez-vous que mes yeux versent trop peu de larmes ?  
-Que me sert de ce cœur l'inutile retour ?  
-Ah cruel ! par pitié montrez-moi moins d'amour.  
+Et cependant je pars, et vous me l'ordonnez ?  
+Quoi ! Dans mon désespoir trouvez-vous tant de charmes ?  
+Craignez-vous que mes yeux versent trop peu de larmes ?  
+Que me sert de ce coeur l'inutile retour ?  
+Ah cruel ! Par pitié montrez-moi moins d'amour.  
 Ne me rappelez point une trop chère idée.  
 Et laissez-moi du moins partir persuadée  
 Que déjà de votre âme exilée en secret,  
@@ -2116,23 +2063,21 @@ Lisez, ingrat, lisez, et me laissez sortir.
 
     TITUS
 Vous ne sortirez point, je n'y puis consentir.  
-Quoi ? ce départ n'est donc qu'un cruel stratagème ?  
-Vous cherchez à mourir ? Et de tout ce que j'aime  
-Il ne restera plus qu'un triste souvenir ?  
+Quoi ? ce départ n'est donc qu'un cruel stratagème ?  
+Vous cherchez à mourir ? Et de tout ce que j'aime  
+Il ne restera plus qu'un triste souvenir ?  
 Qu'on cherche Antiochus, qu'on le fasse venir.  
 Bérénice se laisse tomber sur un siège.
 
 
 
-## SCÈNE VI
-Titus, Bérénice.
-
+## SCÈNE VI. Titus, Bérénice.
 
     TITUS
 Madame, il faut vous faire un aveu véritable.  
 Lorsque j'envisageai le moment redoutable  
 Où pressé par les lois d'un austère devoir  
-Il fallait pour jamais renoncer à vous voir ;  
+Il fallait pour jamais renoncer à vous voir ;  
 Quand de ce triste adieu je prévis les approches,  
 Mes craintes, mes combats, vos larmes, vos reproches,  
 Je préparai mon âme à toutes les douleurs  
@@ -2151,7 +2096,7 @@ Si je suis empereur, ou si je suis Romain.
 Je suis venu vers vous sans savoir mon dessein.  
 Mon amour m'entraînait, et je venais peut-être  
 Pour me chercher moi-même, et pour me reconnaître.  
-Qu'ai-je trouvé ? Je vois la mort peinte en vos yeux.  
+Qu'ai-je trouvé ? Je vois la mort peinte en vos yeux.  
 Je vois pour la chercher que vous quittez ces lieux.  
 C'en est trop. Ma douleur à cette triste vue  
 À son dernier excès est enfin parvenue.  
@@ -2162,7 +2107,7 @@ Par un heureux hymen je tarisse vos larmes.
 En quelque extrémité que vous m'ayez réduit,  
 Ma gloire inexorable à toute heure me suit.  
 Sans cesse elle présente à mon âme étonnée  
-L'empire incompatible avec votre hyménée ;  
+L'empire incompatible avec votre hyménée ;  
 Me dit, qu'après l'éclat et les pas que j'ai faits,  
 Je dois vous épouser encor moins que jamais.  
 Oui, Madame. Et je dois moins encore vous dire  
@@ -2174,9 +2119,9 @@ Vous verriez à regret marcher à votre suite
 Un indigne empereur sans empire, sans cour,  
 Vil spectacle aux humains des faiblesses d'amour.  
 Pour sortir des tourments, dont mon âme est la proie,  
-Il est, vous le savez, une plus noble voie ;  
+Il est, vous le savez, une plus noble voie ;  
 Je me suis vu, Madame, enseigner ce chemin  
-Et par plus d'un héros, et par plus d'un Romain :  
+Et par plus d'un héros, et par plus d'un Romain :  
 Lorsque trop de malheurs ont lassé leur constance,  
 Ils ont tous expliqué cette persévérance  
 Dont le sort s'attachait à les persécuter,  
@@ -2184,14 +2129,14 @@ Comme un ordre secret de n'y plus résister.
 Si vos pleurs plus longtemps viennent frapper ma vue,  
 Si toujours à mourir je vous vois résolue,  
 S'il faut qu'à tous moments je tremble pour vos jours,  
-Si vous ne me jurez d'en respecter le cours ;  
+Si vous ne me jurez d'en respecter le cours ;  
 Madame, à d'autres pleurs vous devez vous attendre.  
 En l'état où je suis je puis tout entreprendre,  
 Et je ne réponds pas que ma main à vos yeux  
 N'ensanglante à la fin nos funestes adieux.  
 
     BÉRÉNICE
-Hélas !  
+Hélas !  
 
     TITUS
         Non, il n'est rien dont je ne sois capable.  
@@ -2221,10 +2166,10 @@ Elle m'a vu toujours ardent à vous louer,
 Répondre par mes soins à votre confidence.  
 Vous croyez m'en devoir quelque reconnaissance.  
 Mais le pourriez-vous croire en ce moment fatal,  
-Qu'un ami si fidèle était votre rival ?  
+Qu'un ami si fidèle était votre rival ?  
 
     TITUS
-Mon rival !  
+Mon rival !  
 
     ANTIOCHUS
         Il est temps que je vous éclaircisse.  
@@ -2236,13 +2181,13 @@ M'avait rendu tantôt quelque faible espérance.
 Les larmes de la reine ont éteint cet espoir.  
 Ses yeux baignés de pleurs demandaient à vous voir.  
 Je suis venu, Seigneur, vous appeler moi-même.  
-Vous êtes revenu. Vous aimez, on vous aime ;  
+Vous êtes revenu. Vous aimez, on vous aime ;  
 Vous vous êtes rendu, je n'en ai point douté.  
 Pour la dernière fois je me suis consulté.  
 J'ai fait de mon courage une épreuve dernière,  
 Je viens de rappeler ma raison toute entière.  
 Jamais je ne me suis senti plus amoureux.  
-Il faut d'autres efforts pour rompre tant de nœuds.  
+Il faut d'autres efforts pour rompre tant de noeuds.  
 Ce n'est qu'en expirant que je puis le détruire.  
 J'y cours. Voilà de quoi j'ai voulu vous instruire.  
 Oui, Madame, vers vous j'ai rappelé ses pas.  
@@ -2256,14 +2201,14 @@ Sur ces jours malheureux que je vous sacrifie.
 
     BÉRÉNICE, SE LEVANT.
 Arrêtez. Arrêtez. Princes trop généreux,  
-En quelle extrémité me jetez-vous tous deux !  
+En quelle extrémité me jetez-vous tous deux !  
 Soit que je vous regarde, ou que je l'envisage,  
 Partout du désespoir je rencontre l'image.  
 Je ne vois que des pleurs. Et je n'entends parler  
 Que de trouble, d'horreurs, de sang prêt à couler.  
 À Titus.
 
-Mon cœur vous est connu, Seigneur, et je puis dire  
+Mon coeur vous est connu, Seigneur, et je puis dire  
 Qu'on ne l'a jamais vu soupirer pour l'empire.  
 La grandeur des Romains, la pourpre des Césars  
 N'a point, vous le savez, attiré mes regards.  
@@ -2271,10 +2216,10 @@ J'aimais, Seigneur, j'aimais, je voulais être aimée.
 Ce jour, je l'avouerai, je me suis alarmée.  
 J'ai cru que votre amour allait finir son cours.  
 Je connais mon erreur, et vous m'aimez toujours.  
-Votre cœur s'est troublé, j'ai vu couler vos larmes.  
+Votre coeur s'est troublé, j'ai vu couler vos larmes.  
 Bérénice, Seigneur, ne vaut point tant d'alarmes,  
 Ni que par votre amour l'univers malheureux,  
-Dans le temps que Titus attire tous ses vœux,  
+Dans le temps que Titus attire tous ses voeux,  
 Et que de vos vertus il goûte les prémices,  
 Se voie en un moment enlever ses délices.  
 Je crois depuis cinq ans jusqu'à ce dernier jour  
@@ -2287,7 +2232,7 @@ Adieu, Seigneur, régnez, je ne vous verrai plus.
 
 Prince, après cet adieu, vous jugez bien vous-même  
 Que je ne consens pas de quitter ce que j'aime,  
-Pour aller loin de Rome écouter d'autres vœux.  
+Pour aller loin de Rome écouter d'autres voeux.  
 Vivez, et faites-vous un effort généreux.  
 Sur Titus, et sur moi, réglez votre conduite.  
 Je l'aime, je le fuis. Titus m'aime, il me quitte.  
@@ -2301,9 +2246,59 @@ Tout est prêt. On m'attend. Ne suivez point mes pas.
 Pour la dernière fois, adieu, Seigneur.  
 
     ANTIOCHUS
-        Hélas !  
+        Hélas !  
+
+
+# ANNEXES
+
+
+## Liste des oeuvres théâtrales de Jean Racine
+
+Le corpus théâtral de Jean Racine se compose de douze pièces : onze tragédies et une comédie. Cette production se partage dans le temps en deux parties : la première et principale se situe entre les débuts avec "La Thébaïde" (1664) et le la polémique de "Phèdre" (1677), la seconde concerne les deux tragédies religieuses d'Esther (1689) et d'Athalie (1691) commandées par Mme de Maintenon. Les deux premières tragédies ont été représentées par le troupe de Molière au théâtre du Palais-Royal puis Racine confia ses pièces à la troupe de l'Hôtel de Bourgogne et se brouilla avec Molière. Son unique comédie fut représentée à l'Hôtel Guénégaud et ses dernières tragédies au Collège de Saint-Cyr jouées par les pensionnaires devant Louis XIV. Les sujets des tragédies sont tirés de la mythologie grecque (La Thébaïde, Andromaque, Iphigénie, Phèdre), de l'histoire antique grecque (Alexandre) ou romaine (Britannicus, Bérénice, Mithridate), ou de l'histoire récente proche-orientale (Bajazet). Esther et Athalie sont inspirées des livres éponymes de la Bible. La comédie des Plaideurs ironise sur la justice de son temps.
+
+La Thébaïde ou les rère ennemis (1664), représentée pour le première fois le 20 juin 1664 au Théâtre du Palais-Royal
+
+Alexandre le Grand (1665), représentée pour le première fois le 4 décembre 1665 au Théâtre du Palais Royal.
+
+Andromaque (1667), représentée pour le première fois le 17 novembre 1667 à l'Hôtel de Bourgogne.
+
+Les Plaideurs (1668), représentée pour le première fois le 28 mai à l'Hôtel Guénégaud.
+
+Britannicus (1669), représentée pour le première fois le 13 décembre 1669 à l'Hôtel de Bourgogne.
+
+Bérénice (1670), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Mithridate (1673), représentée pour le première fois le à l'Hôtel de Bourgogne.
+
+Bajazet (1672), représentée pour le première fois le 1er janvier 1672 à l'Hôtel de Bourgogne.
+
+Iphigénie, représentée pour le première fois le 18 août 1674 à l'Hôtel de Bourgogne.
+
+Phèdre (1677), représentée pour le première fois le 1er janvier 1677 à l'Hôtel de Bourgogne.
+
+Esther, représentée pour le première fois le 26 janvier 1689 au Collège de Saint-Cyr.
+
+Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de Saint-Cyr.
 
 -------
 
 
-[1] NOTA : Le texte est celui de l'édition 1697.
+[1] NOTA : Le texte est celui de l'édition 1697.
+
+[2] Ostie : Port de Rome situé à 35  km au sud de Rome au débouché du Tibre.
+
+[3] Comagène : Région de l'Asie Mineure au sud au nord de la Syrie à l'est de la Cappadoce. 
+
+[4] Césarée : Ville de Palestine (actuellement en Israël) au bord de la Mer Méditerannée au sud d'Haïfa, où, en 70, Titus célébra sa victoire sur Jérusalem.
+
+[5] Vespasien (9, 79) : Empereur romain, père de titus et Vespasien. Il succéda au trône impérial après Néron en 69 qui fut l'année des quatre emepreurs.
+
+[6] La scène se déroule après le 23 juin 79 date de la mort de Vespasien.
+
+[7] Néron : Empereur romain qui régna jusqu'en 69, Vespasien, père de Titus lui succéda. Néron est aussi un des personnages principaux de la tragédie Britannicus que Racine présenta l'année précédente de Bérénice.
+
+[8] Caligula (12-41) : Troisième empereur romain après Auguste et Tibère. Fils de Germanicus. Il régna en despote et fut assassiné.
+
+[9] Euphrate : Fleuve de Perse, qui prend sa source en Arménie et qui traverse la Commagèn .
+
+[10] Cilicie : Région d'Asie Mineure qui se trouve au sud-ouest et qui permet d'avoir un accès à la mer Méditerranée.

@@ -1,12 +1,12 @@
 
 
-**** *book_ *id_I01 *act_I *date_1665
+**** *book_ *id_I01 *act_I *date_1697
 
 -*who_cleofile
-Quoi ? Vous allez combattre un roi dont la puissance
-Semble forcer le ciel à prendre sa défense ;
+Quoi ? Vous allez combattre un roi dont la puissance
+Semble forcer le ciel à prendre sa défense ;
 Sous qui toute l'Asie a vu tomber ses rois,
-Et qui tient la fortune attachée à ses lois ?
+Et qui tient la fortune attachée à ses lois ?
 Mon frère, ouvrez les yeux pour connaître Alexandre,
 Voyez de toutes parts les trônes mis en cendre,
 Les peuples asservis, et les rois enchaînés,
@@ -16,32 +16,32 @@ Et prévenez les maux qui les ont entraînés.
 Voulez-vous que frappé d'une crainte si basse,
 Je présente la tête au joug qui nous menace,
 Et que j'entende dire aux peuples indiens,
-Que j'ai forgé moi-même et leurs fers et les miens ?
+Que j'ai forgé moi-même et leurs fers et les miens ?
 Quitterai-je Porus, trahirai-je ces princes,
 Que rassemble le soin d'affranchir nos provinces,
 Et qui sans balancer sur un si noble choix,
-Sauront également vivre ou mourir en rois ?
+Sauront également vivre ou mourir en rois ?
 En voyez-vous un seul, qui sans rien entreprendre
 Se laisse terrasser au seul nom d'Alexandre,
 Et le croyant déjà maître de l'univers,
-Aille esclave empressé lui demander des fers ?
+Aille esclave empressé lui demander des fers ?
 Loin de s'épouvanter à l'aspect de sa gloire,
 Ils l'attaqueront même au sein de la victoire.
-Et vous voulez, ma sœur, que Taxile aujourd'hui,
+Et vous voulez, ma soeur, que Taxile aujourd'hui,
 Tout prêt à le combattre, implore son appui.
 
 -*who_cleofile
 Aussi n'est-ce qu'à vous que ce prince s'adresse,
-Pour votre amitié seule Alexandre s'empresse ;
+Pour votre amitié seule Alexandre s'empresse ;
 Quand la foudre s'allume et s'apprête à partir,
 Il s'efforce en secret de vous en garantir.
 
 -*who_taxile
-Pourquoi suis-je le seul que son courroux ménage ?
+Pourquoi suis-je le seul que son courroux ménage ?
 De tous ceux que l'Hydaspe oppose à son courage,
-Ai-je mérité seul son indigne pitié ?
-Ne peut-il à Porus offrir son amitié ?
-Ah ! sans doute il lui croit l'âme trop généreuse
+Ai-je mérité seul son indigne pitié ?
+Ne peut-il à Porus offrir son amitié ?
+Ah ! Sans doute il lui croit l'âme trop généreuse
 Pour écouter jamais une offre si honteuse,
 Il cherche une vertu qui lui résiste moins,
 Et peut-être il me croit plus digne de ses soins.
@@ -52,11 +52,11 @@ Que de ses ennemis il vous croit le plus brave,
 Et qu'en vous arrachant les armes de la main,
 Il se promet du reste un triomphe certain.
 Son choix à votre nom n'imprime point de taches,
-Son amitié n'est point le partage des lâches ;
+Son amitié n'est point le partage des lâches ;
 Quoiqu'il brûle de voir tout l'univers soumis,
 On ne voit point d'esclave au rang de ses amis.
-Ah ! si son amitié peut souiller votre gloire,
-Que ne m'épargniez-vous une tache si noire ?
+Ah ! Si son amitié peut souiller votre gloire,
+Que ne m'épargniez-vous une tache si noire ?
 Vous connaissez les soins qu'il me rend tous les jours,
 Il ne tenait qu'à vous d'en arrêter le cours.
 Vous me voyez ici maîtresse de son âme,
@@ -71,74 +71,74 @@ Et peut-être, mon frère, à l'aimer à mon tour.
 -*who_taxile
 Vous pouvez, sans rougir du pouvoir de vos charmes,
 Forcer ce grand guerrier à vous rendre les armes,
-Et sans que votre cœur doive s'en alarmer,
+Et sans que votre coeur doive s'en alarmer,
 Le vainqueur de l'Euphrate a pu vous désarmer.
 Mais l'État aujourd'hui suivra ma destinée,
 Je tiens avec mon sort sa fortune enchaînée,
 Et quoique vos conseils tâchent de me fléchir,
 Je dois demeurer libre afin de l'affranchir.
-Je sais l'inquiétude où ce dessein vous livre ;
-Mais comme vous, ma sœur, j'ai mon amour à suivre.
+Je sais l'inquiétude où ce dessein vous livre ;
+Mais comme vous, ma soeur, j'ai mon amour à suivre.
 Les beaux yeux d'Axiane, ennemis de la paix,
 Contre votre Alexandre arment tous leurs attraits.
-Reine de tous les cœurs, elle met tout en armes,
+Reine de tous les coeurs, elle met tout en armes,
 Pour cette liberté que détruisent ses charmes,
 Elle rougit des fers qu'on apporte en ces lieux,
 Et n'y saurait souffrir de tyrans que ses yeux.
-Il faut servir, ma sœur, son illustre colère.
+Il faut servir, ma soeur, son illustre colère.
 Il faut aller...
 
 -*who_cleofile
-      Hé bien, perdez-vous pour lui plaire !
+      Hé bien, perdez-vous pour lui plaire !
 De ces tyrans si chers suivez l'arrêt fatal,
 Servez-les, ou plutôt servez votre rival.
 De vos propres lauriers souffrez qu'on le couronne,
-Combattez pour Porus, Axiane l'ordonne ;
+Combattez pour Porus, Axiane l'ordonne ;
 Et par de beaux exploits, appuyant sa rigueur,
-Assurez à Porus l'empire de son cœur.
+Assurez à Porus l'empire de son coeur.
 
 -*who_taxile
-Ah ! ma sœur, croyez-vous que Porus...
+Ah ! Ma soeur, croyez-vous que Porus...
 
 -*who_cleofile
       Mais vous-même,
-Doutez-vous en effet qu'Axiane ne l'aime ?
+Doutez-vous en effet qu'Axiane ne l'aime ?
 Quoi, ne voyez-vous pas avec quelle chaleur,
-L'ingrate à vos yeux même étale sa valeur ?
+L'ingrate à vos yeux même étale sa valeur ?
 Quelque brave qu'on soit, si nous la voulons croire,
-Ce n'est qu'autour de lui que vole la Victoire ;
+Ce n'est qu'autour de lui que vole la Victoire ;
 Vous formeriez sans lui d'inutiles desseins,
 La liberté de l'Inde est toute entre ses mains.
 Sans lui déjà nos murs seraient réduits en cendre,
-Lui seul peut arrêter les progrès d'Alexandre :
+Lui seul peut arrêter les progrès d'Alexandre :
 Elle se fait un dieu de ce prince charmant,
-Et vous doutez encor qu'elle en fasse un amant ?
+Et vous doutez encor qu'elle en fasse un amant ?
 
 -*who_taxile
 Je tâchais d'en douter, cruelle Cléofile.
-Hélas ! dans son erreur affermissez Taxile.
-Pourquoi lui peignez-vous cet objet odieux ?
+Hélas ! Dans son erreur affermissez Taxile.
+Pourquoi lui peignez-vous cet objet odieux ?
 Aidez-le bien plutôt à démentir ses yeux.
 Dites-lui qu'Axiane est une beauté fière,
 Telle à tous les mortels qu'elle est à votre frère.
 Flattez de quelque espoir...
 
 -*who_cleofile
-      Espérez, j'y consens :
+      Espérez, j'y consens :
 Mais n'espérez plus rien de vos soins impuissants.
 Pourquoi dans les combats chercher une conquête,
-Qu'à vous livrer lui-même Alexandre s'apprête ?
+Qu'à vous livrer lui-même Alexandre s'apprête ?
 Ce n'est pas contre lui qu'il la faut disputer,
 Porus est l'ennemi qui prétend vous l'ôter.
 Pour ne vanter que lui, l'injuste renommée
-Semble oublier les noms du reste de l'armée :
+Semble oublier les noms du reste de l'armée :
 Quoi qu'on fasse, lui seul en ravit tout l'éclat,
 Et comme ses sujets il vous mène au combat.
-Ah ! si ce nom vous plaît, si vous cherchez à l'être,
+Ah ! Si ce nom vous plaît, si vous cherchez à l'être,
 Les Grecs et les Persans vous enseignent un maître.
 Vous trouverez cent rois compagnons de vos fers,
 Porus y viendra même avec tout l'univers.
-Mais Alexandre enfin ne vous tend point de chaînes ;
+Mais Alexandre enfin ne vous tend point de chaînes ;
 Il laisse à votre front ces marques souveraines,
 Qu'un orgueilleux rival ose ici dédaigner.
 Porus vous fait servir, il vous fera régner.
@@ -146,28 +146,28 @@ Au lieu que de Porus vous êtes la victime,
 Vous serez... Mais voici ce rival magnanime.
 
 -*who_taxile
-Ah ! ma sœur, je me trouble, et mon cœur alarmé,
+Ah ! Ma soeur, je me trouble, et mon coeur alarmé,
 En voyant mon rival, me dit qu'il est aimé.
 
 -*who_cleofile
 Le temps vous presse. Adieu. C'est à vous de vous rendre
 L'esclave de Porus, ou l'ami d'Alexandre.
 
-**** *book_ *id_I02 *act_I *date_1665
+**** *book_ *id_I02 *act_I *date_1697
 
 -*who_porus
 Seigneur, ou je me trompe, ou nos fiers ennemis,
 Feront moins de progrès qu'ils ne s'étaient promis.
 Nos chefs et nos soldats brûlants d'impatience,
-Font lire sur leur front une mâle assurance ;
+Font lire sur leur front une mâle assurance ;
 Ils s'animent l'un l'autre, et nos moindres guerriers
 Se promettent déjà des moissons de lauriers.
 J'ai vu de rang en rang cette ardeur répandue,
-Par des cris généreux éclater à ma vue :
-Ils se plaignent qu'au lieu d'éprouver leur grand cœur,
+Par des cris généreux éclater à ma vue :
+Ils se plaignent qu'au lieu d'éprouver leur grand coeur,
 L'oisiveté d'un camp consume leur vigueur.
-Laisserons-nous languir tant d'illustres courages ?
-Notre ennemi, Seigneur, cherche ses avantages :
+Laisserons-nous languir tant d'illustres courages ?
+Notre ennemi, Seigneur, cherche ses avantages :
 Il se sent faible encore, et pour nous retenir
 Éphestion demande à nous entretenir.
 Et par de vains discours...
@@ -178,19 +178,19 @@ Nous ignorons encor ce que veut Alexandre.
 Peut-être est-ce la paix qu'il nous veut présenter.
 
 -*who_porus
-La paix ! Ah de sa main pourriez-vous l'accepter ?
-Hé quoi ? Nous l'aurons vu par tant d'horribles guerres,
+La paix ! Ah de sa main pourriez-vous l'accepter ?
+Hé quoi ? Nous l'aurons vu par tant d'horribles guerres,
 Troubler le calme heureux dont jouissaient nos terres,
 Et le fer à la main entrer dans nos États,
-Pour attaquer des rois qui ne l'offensaient pas ?
+Pour attaquer des rois qui ne l'offensaient pas ?
 Nous l'aurons vu piller des provinces entières,
 Du sang de nos sujets faire enfler nos rivières,
 Et quand le ciel s'apprête à nous l'abandonner,
-J'attendrai qu'un tyran daigne nous pardonner ?
+J'attendrai qu'un tyran daigne nous pardonner ?
 
 -*who_taxile
 Ne dites point, Seigneur, que le ciel l'abandonne.
-D'un soin toujours égal sa faveur l'environne :
+D'un soin toujours égal sa faveur l'environne :
 Un roi qui fait trembler tant d'États sous ses lois,
 N'est pas un ennemi que méprisent les rois.
 
@@ -199,14 +199,14 @@ Loin de le mépriser j'admire son courage,
 Je rends à sa valeur un légitime hommage.
 Mais je veux à mon tour mériter les tributs
 Que je me sens forcé de rendre à ses vertus.
-Oui je consens qu'au ciel on élève Alexandre ;
+Oui je consens qu'au ciel on élève Alexandre;
 Mais si je puis, Seigneur, je l'en ferai descendre,
 Et j'irai l'attaquer jusque sur les autels
 Que lui dresse en tremblant le reste des mortels.
 C'est ainsi qu'Alexandre estima tous ces princes,
 Dont sa valeur pourtant a conquis les provinces.
-Si son cœur dans l'Asie eût montré quelque effroi,
-Darius en mourant l'aurait-il vu son roi ?
+Si son coeur dans l'Asie eût montré quelque effroi,
+Darius en mourant l'aurait-il vu son roi ?
 
 -*who_taxile
 Seigneur, si Darius avait su se connaître,
@@ -218,18 +218,18 @@ Ce foudre était encore enfermé dans la nue.
 Dans un calme profond Darius endormi
 Ignorait jusqu'au nom d'un si faible ennemi.
 Il le connut bientôt, et son âme étonnée
-De tout ce grand pouvoir se vit abandonnée ;
+De tout ce grand pouvoir se vit abandonnée ;
 Il se vit terrassé d'un bras victorieux,
 Et la foudre en tombant lui fit ouvrir les yeux.
 
 -*who_porus
 Mais encore à quel prix croyez-vous qu'Alexandre
-Mette l'indigne paix dont il veut vous surprendre ?
+Mette l'indigne paix dont il veut vous surprendre ?
 Demandez-le, Seigneur, à cent peuples divers,
 Que cette paix trompeuse a jetés dans les fers.
 Non, ne nous flattons point, sa douceur nous outrage.
-Toujours son amitié traîne un long esclavage :
-En vain on prétendrait n'obéir qu'à demi ;
+Toujours son amitié traîne un long esclavage :
+En vain on prétendrait n'obéir qu'à demi ;
 Si l'on n'est son esclave, on est son ennemi.
 
 -*who_taxile
@@ -238,23 +238,23 @@ Par quelque vain hommage on peut le satisfaire.
 Flattons par des respects ce prince ambitieux,
 Que son bouillant orgueil appelle en d'autres lieux.
 C'est un torrent qui passe, et dont la violence
-Sur tout ce qui l'arrête exerce sa puissance ;
+Sur tout ce qui l'arrête exerce sa puissance ;
 Qui grossi du débris de cent peuples divers,
 Veut du bruit de son cours remplir tout l'univers.
-Que sert de l'irriter par un orgueil sauvage ?
+Que sert de l'irriter par un orgueil sauvage ?
 D'un favorable accueil honorons son passage,
 Et lui cédant des droits que nous reprendrons bien,
 Rendons-lui des devoirs qui ne nous coûtent rien.
 
 -*who_porus
-Qui ne nous coûtent rien, Seigneur ? L'osez-vous croire ?
-Compterai-je pour rien la perte de ma gloire ?
+Qui ne nous coûtent rien, Seigneur ? L'osez-vous croire ?
+Compterai-je pour rien la perte de ma gloire ?
 Votre empire, et le mien seraient trop achetés,
 S'ils coûtaient à Porus les moindres lâchetés.
 Mais croyez-vous qu'un prince enflé de tant d'audace,
-De son passage ici ne laissât point de trace ?
+De son passage ici ne laissât point de trace ?
 Combien de rois brisés à ce funeste écueil,
-Ne règnent plus qu'autant qu'il plaît à son orgueil ?
+Ne règnent plus qu'autant qu'il plaît à son orgueil ?
 Nos couronnes d'abord devenant ses conquêtes,
 Tant que nous régnerions flotteraient sur nos têtes,
 Et nos sceptres en proie à ses moindres dédains,
@@ -264,7 +264,7 @@ Jamais de ses liens il ne dégage un prince,
 Et pour mieux asservir les peuples sous ses lois,
 Souvent dans la poussière il leur cherche des rois.
 Mais ces indignes soins touchent peu mon courage,
-Votre seul intérêt m'inspire ce langage ;
+Votre seul intérêt m'inspire ce langage;
 Porus n'a point de part dans tout cet entretien,
 Et quand la gloire parle il n'écoute plus rien.
 
@@ -302,7 +302,7 @@ Un esclave est pour elle un objet de courroux.
 
 -*who_taxile
 Mais croyez-vous, Seigneur, que l'amour vous ordonne
-D'exposer avec vous son peuple et sa personne ?
+D'exposer avec vous son peuple et sa personne ?
 Non, non, sans vous flatter, avouez qu'en ce jour
 Vous suivez votre haine, et non pas votre amour.
 
@@ -317,7 +317,7 @@ Avant qu'il me cherchât, un orgueil inquiet
 M'avait déjà rendu son ennemi secret.
 Dans le noble transport de cette jalousie,
 Je le trouvais trop lent à traverser l'Asie.
-Je l'attirais ici par des vœux si puissants,
+Je l'attirais ici par des voeux si puissants,
 Que je portais envie au bonheur des Persans.
 Et maintenant encor s'il trompait mon courage,
 Pour sortir de ces lieux, s'il cherchait un passage,
@@ -326,30 +326,30 @@ Lui refuser la paix qu'il nous veut présenter.
 
 -*who_taxile
 Oui, sans doute, une ardeur si haute et si constante
-Vous promet dans l'histoire une place éclatante ;
+Vous promet dans l'histoire une place éclatante ;
 Et sous ce grand dessein dussiez-vous succomber,
 Au moins c'est avec bruit qu'on vous verra tomber.
 La reine vient. Adieu. Vantez-lui votre zèle,
 Découvrez cet orgueil qui vous rend digne d'elle.
 Pour moi je troublerais un si noble entretien,
-Et vos cœurs rougiraient des faiblesses du mien.
+Et vos coeurs rougiraient des faiblesses du mien.
 
-**** *book_ *id_I03 *act_I *date_1665
+**** *book_ *id_I03 *act_I *date_1697
 
 -*who_axiane
-Quoi, Taxile me fuit ? Quelle cause inconnue...
+Quoi, Taxile me fuit ? Quelle cause inconnue...
 
 -*who_porus
 Il fait bien de cacher sa honte à votre vue,
 Et puisqu'il n'ose plus s'exposer aux hasards,
-De quel front pourrait-il soutenir vos regards ?
+De quel front pourrait-il soutenir vos regards ?
 Mais laissons-le, Madame et puisqu'il veut se rendre,
-Qu'il aille avec sa sœur adorer Alexandre.
+Qu'il aille avec sa soeur adorer Alexandre.
 Retirons, nous d'un camp, où l'encens à la main
 Le fidèle Taxile attend son souverain.
 
 -*who_axiane
-Mais, Seigneur, que dit-il ?
+Mais, Seigneur, que dit-il ?
 
 -*who_porus
       Il en fait trop paraître.
@@ -357,7 +357,7 @@ Cet esclave déjà m'ose vanter son maître,
 Il veut que je le serve...
 
 -*who_axiane
-      Ah ! sans vous emporter,
+      Ah ! Sans vous emporter,
 Souffrez que mes efforts tâchent de l'arrêter.
 Ses soupirs, malgré moi, m'assurent qu'il m'adore.
 Quoi qu'il en soit, souffrez que je lui parle encore,
@@ -365,56 +365,56 @@ Et ne le forçons point par ce cruel mépris,
 D'achever un dessein qu'il peut n'avoir pas pris.
 
 -*who_porus
-Hé quoi, vous en doutez ? Et votre âme s'assure
+Hé quoi, vous en doutez ? Et votre âme s'assure
 Sur la foi d'un amant infidèle, et parjure,
 Qui veut à son tyran vous livrer aujourd'hui,
 Et croit en vous donnant, vous obtenir de lui.
 Hé bien, aidez-le donc à vous trahir vous-même,
-Il vous peut arracher à mon amour extrême ;
+Il vous peut arracher à mon amour extrême ;
 Mais il ne peut m'ôter par ses efforts jaloux,
 La gloire de combattre et de mourir pour vous.
 
 -*who_axiane
 Et vous croyez qu'après une telle insolence,
-Mon amitié, Seigneur, serait sa récompense ?
-Vous croyez que mon cœur s'engageant sous sa loi,
-Je souscrirais au don qu'on lui ferait de moi ?
-Pouvez-vous, sans rougir, m'accuser d'un tel crime ?
-Ai-je fait pour ce prince éclater tant d'estime ?
+Mon amitié, Seigneur, serait sa récompense ?
+Vous croyez que mon coeur s'engageant sous sa loi,
+Je souscrirais au don qu'on lui ferait de moi ?
+Pouvez-vous, sans rougir, m'accuser d'un tel crime ?
+Ai-je fait pour ce prince éclater tant d'estime ?
 Entre Taxile et vous, s'il fallait prononcer,
-Seigneur, le croyez-vous, qu'on me vît balancer ?
+Seigneur, le croyez-vous, qu'on me vît balancer ?
 Sais-je pas que Taxile est une âme incertaine,
-Que l'amour le retient quand la crainte l'entraîne ?
+Que l'amour le retient quand la crainte l'entraîne ?
 Sais-je pas que sans moi sa timide valeur
-Succomberait bientôt aux ruses de sa sœur ?
+Succomberait bientôt aux ruses de sa soeur ?
 Vous savez qu'Alexandre en fit sa prisonnière,
-Et qu'enfin cette sœur retourna vers son frère,
+Et qu'enfin cette soeur retourna vers son frère,
 Mais je connus bientôt qu'elle avait entrepris
-De l'arrêter au piège où son cœur était pris.
+De l'arrêter au piège où son coeur était pris.
 
 -*who_porus
-Et vous pouvez encor demeurer auprès d'elle ?
-Que n'abandonnez-vous cette sœur criminelle ?
+Et vous pouvez encor demeurer auprès d'elle ?
+Que n'abandonnez-vous cette soeur criminelle ?
 Pourquoi par tant de soins voulez-vous épargner
 Un prince...
 
 -*who_axiane
       C'est pour vous que je le veux gagner.
 Vous verrai-je accablé du soin de nos provinces,
-Attaquer seul un roi vainqueur de tant de princes ?
+Attaquer seul un roi vainqueur de tant de princes ?
 Je vous veux dans Taxile offrir un défenseur,
-Qui combatte Alexandre en dépit de sa sœur.
-Que n'avez-vous pour moi cette ardeur empressée ?
-Mais d'un soin si commun votre âme est peu blessée ;
-Pourvu que ce grand cœur périsse noblement,
+Qui combatte Alexandre en dépit de sa soeur.
+Que n'avez-vous pour moi cette ardeur empressée ?
+Mais d'un soin si commun votre âme est peu blessée ;
+Pourvu que ce grand coeur périsse noblement,
 Ce qui suivra sa mort le touche faiblement.
 Vous me voulez livrer sans secours, sans asile,
 Au courroux d'Alexandre, à l'amour de Taxile,
 Qui me traitant bientôt en superbe vainqueur,
-Pour prix de votre mort demandera mon cœur.
+Pour prix de votre mort demandera mon coeur.
 Hé bien, Seigneur, allez. Contentez votre envie,
 Combattez, oubliez le soin de votre vie.
-Oubliez que le ciel favorable à vos vœux
+Oubliez que le ciel favorable à vos voeux
 Vous préparait peut-être un sort assez heureux.
 Peut-être qu'à son tour Axiane charmée,
 Allait... Mais non, Seigneur, courez vers votre armée.
@@ -422,26 +422,26 @@ Un si long entretien vous serait ennuyeux,
 Et c'est vous retenir trop longtemps en ces lieux.
 
 -*who_porus
-Ah ! Madame, arrêtez, et connaissez ma flamme,
+Ah ! Madame, arrêtez, et connaissez ma flamme,
 Ordonnez de mes jours, disposez de mon âme,
 La gloire y peut beaucoup, je ne m'en cache pas,
-Mais que n'y peuvent point tant de divins appas !
+Mais que n'y peuvent point tant de divins appas !
 Je ne vous dirai point que pour vaincre Alexandre
 Vos soldats et les miens allaient tout entreprendre,
 Que c'était pour Porus un bonheur sans égal,
 De triompher tout seul aux yeux de son rival.
 Je ne vous dis plus rien. Parlez en souveraine.
-Mon cœur met à vos pieds et sa gloire, et sa haine.
+Mon coeur met à vos pieds et sa gloire, et sa haine.
 
 -*who_axiane
-Ne craignez rien : ce cœur qui veut bien m'obéir,
+Ne craignez rien : ce coeur qui veut bien m'obéir,
 N'est pas entre des mains qui le puissent trahir.
 Non, je ne prétends pas jalouse de sa gloire,
 Arrêter un héros qui court à la victoire.
 Contre un fier ennemi précipitez vos pas,
 Mais de vos alliés ne vous séparez pas.
 Ménagez-les, Seigneur, et d'une âme tranquille
-Laissez agir mes soins sur l'esprit de Taxile ;
+Laissez agir mes soins sur l'esprit de Taxile ;
 Montrez en sa faveur des sentiments plus doux,
 Je le vais engager à combattre pour vous.
 
@@ -451,7 +451,7 @@ Voyons Éphestion, puisqu'il faut qu'on le voie.
 Mais sans perdre l'espoir de le suivre de près,
 J'attends Éphestion, et le combat après.
 
-**** *book_ *id_II01 *act_II *date_1665
+**** *book_ *id_II01 *act_II *date_1697
 
 -*who_ephestion
 Oui, tandis que vos rois délibèrent ensemble,
@@ -462,31 +462,31 @@ Fidèle confident du beau feu de mon maître,
 Souffrez que je l'explique aux yeux qui l'ont fait naître,
 Et que pour ce héros, j'ose vous demander
 Le repos qu'à vos rois il veut bien accorder.
-Après tant de soupirs, que faut-il qu'il espère ?
-Attendez-vous encore après l'aveu d'un frère ?
-Voulez-vous que son cœur incertain et confus,
-Ne se donne jamais sans craindre vos refus ?
-Faut-il mettre à vos pieds le reste de la terre ?
-Faut-il donner la paix ? Faut-il faire la guerre ?
+Après tant de soupirs, que faut-il qu'il espère ?
+Attendez-vous encore après l'aveu d'un frère ?
+Voulez-vous que son coeur incertain et confus,
+Ne se donne jamais sans craindre vos refus ?
+Faut-il mettre à vos pieds le reste de la terre ?
+Faut-il donner la paix ? Faut-il faire la guerre ?
 Prononcez. Alexandre est tout prêt d'y courir,
 Ou pour vous mériter, ou pour vous conquérir.
 
 -*who_cleofile
 Puis-je croire qu'un prince, au comble de la gloire,
-De mes faibles attraits garde encor la mémoire ?
+De mes faibles attraits garde encor la mémoire ?
 Que traînant après lui la victoire et l'effroi
-Il se puisse abaisser à soupirer pour moi ?
+Il se puisse abaisser à soupirer pour moi ?
 Des captifs comme lui brisent bientôt leur chaîne,
 À de plus hauts desseins la gloire les entraîne,
-Et l'amour dans leurs cœurs interrompu, troublé,
+Et l'amour dans leurs coeurs interrompu, troublé,
 Sous le faix des lauriers est bientôt accablé.
 Tandis que ce héros me tint sa prisonnière,
-J'ai pu toucher son cœur d'une atteinte légère ;
+J'ai pu toucher son coeur d'une atteinte légère ;
 Mais je pense, Seigneur, qu'en rompant mes liens,
 Alexandre à son tour brisa bientôt les siens.
 
 -*who_ephestion
-Ah ! si vous l'aviez vu brûlant d'impatience,
+Ah ! Si vous l'aviez vu brûlant d'impatience,
 Compter les tristes jours d'une si longue absence,
 Vous sauriez que l'amour précipitant ses pas,
 Il ne cherchait que vous en courant aux combats.
@@ -497,41 +497,41 @@ Tout ce qui l'empêchait de s'approcher de vous.
 On voit en même champ vos drapeaux et les nôtres,
 De ses retranchements il découvre les vôtres,
 Mais après tant d'exploits, ce timide vainqueur,
-Craint qu'il ne soit encor bien loin de votre cœur.
+Craint qu'il ne soit encor bien loin de votre coeur.
 Que lui sert de courir de contrée en contrée,
-S'il faut que de ce cœur vous lui fermiez l'entrée ?
-Si pour ne point répondre à de sincères vœux,
-Vous cherchez chaque jour à douter de ses feux ?
+S'il faut que de ce coeur vous lui fermiez l'entrée ?
+Si pour ne point répondre à de sincères voeux,
+Vous cherchez chaque jour à douter de ses feux ?
 Si votre esprit armé de mille défiances...
 
 -*who_cleofile
-Hélas ! de tels soupçons sont de faibles défenses,
-Et nos cœurs se formant mille soins superflus,
+Hélas ! De tels soupçons sont de faibles défenses,
+Et nos coeurs se formant mille soins superflus,
 Doutent toujours du bien qu'ils souhaitent le plus.
 Oui, puisque ce héros veut que j'ouvre mon âme,
-J'écoute avec plaisir le récit de sa flamme ;
+J'écoute avec plaisir le récit de sa flamme ;
 Je craignais que le temps n'en eût borné le cours,
 Je souhaite qu'il m'aime, et qu'il m'aime toujours.
 Je dis plus. Quand son bras força notre frontière,
 Et dans les murs d'Omphis m'arrêta prisonnière,
-Mon cœur qui le voyait maître de l'univers,
-Se consolait déjà de languir dans ses fers ;
+Mon coeur qui le voyait maître de l'univers,
+Se consolait déjà de languir dans ses fers ;
 Et loin de murmurer contre un destin si rude,
 Il s'en fit, je l'avoue, une douce habitude,
 Et de sa liberté perdant le souvenir,
 Même en la demandant, craignait de l'obtenir.
 Jugez si son retour me doit combler de joie.
-Mais tout couvert de sang, veut-il que je le voie ?
+Mais tout couvert de sang, veut-il que je le voie ?
 Est-ce comme ennemi qu'il se vient présenter,
-Et ne me cherche-t-il que pour me tourmenter ?
+Et ne me cherche-t-il que pour me tourmenter ?
 
 -*who_ephestion
 Non, Madame, vaincu du pouvoir de vos charmes,
 Il suspend aujourd'hui la terreur de ses armes.
 Il présente la paix à des rois aveuglés,
 Et retire la main qui les eût accablés.
-Il craint que la victoire à ses vœux trop facile,
-Ne conduise ses coups dans le sein de Taxile ;
+Il craint que la victoire à ses voeux trop facile,
+Ne conduise ses coups dans le sein de Taxile;
 Son courage sensible à vos justes douleurs,
 Ne veut point de lauriers arrosés de vos pleurs.
 Favorisez les soins où son amour l'engage,
@@ -545,13 +545,13 @@ D'une crainte si juste est sans cesse agitée.
 Je tremble pour mon frère, et crains que son trépas,
 D'un ennemi si cher n'ensanglante le bras.
 Mais en vain je m'oppose à l'ardeur qui l'enflamme,
-Axiane et Porus tyrannisent son âme ;
+Axiane et Porus tyrannisent son âme ;
 Les charmes d'une reine, et l'exemple d'un roi,
 Dès que je veux parler, s'élèvent contre moi.
-Que n'ai-je point à craindre en ce désordre extrême ?
+Que n'ai-je point à craindre en ce désordre extrême ?
 Je crains pour lui, je crains pour Alexandre même.
 Je sais qu'en l'attaquant, cent rois se sont perdus,
-Je sais tous ses exploits ; mais je connais Porus.
+Je sais tous ses exploits ; mais je connais Porus.
 Nos peuples qu'on a vus triomphants à sa suite,
 Repousser les efforts du Persan et du Scythe,
 Et tout fiers des lauriers dont il les a chargés,
@@ -559,8 +559,8 @@ Vaincront à son exemple, ou périront vengés.
 Et je crains...
 
 -*who_ephestion
-      Ah ! quittez une crainte si vaine,
-Laissez courir Porus où son malheur l'entraîne ;
+      Ah ! Quittez une crainte si vaine,
+Laissez courir Porus où son malheur l'entraîne ;
 Que l'Inde en sa faveur arme tous ses États,
 Et que le seul Taxile en détourne ses pas.
 Mais les voici.
@@ -571,7 +571,7 @@ Par vos sages conseils dissipez cet orage.
 Ou s'il faut qu'il éclate, au moins souvenez-vous
 De la faire tomber sur d'autres que sur nous.
 
-**** *book_ *id_II02 *act_II *date_1665
+**** *book_ *id_II02 *act_II *date_1697
 
 -*who_ephestion
 Avant que le combat qui menace vos têtes,
@@ -579,7 +579,7 @@ Mette tous vos États au rang de nos conquêtes,
 Alexandre veut bien différer ses exploits,
 Et vous offrir la paix pour la dernière fois.
 Vos peuples prévenus de l'espoir qui vous flatte,
-Prétendaient arrêter le vainqueur de l'Euphrate ;
+Prétendaient arrêter le vainqueur de l'Euphrate ;
 Mais l'Hydaspe malgré tant d'escadrons épars,
 Voit enfin sur ses bords flotter nos étendards.
 Vous les verriez plantés jusques sur vos tranchées,
@@ -587,15 +587,15 @@ Et de sang et de morts vos campagnes jonchées,
 Si ce héros couvert de tant d'autres lauriers,
 N'eût lui-même arrêté l'ardeur de nos guerriers.
 Il ne vient point ici, souillé du sang des princes,
-D'un triomphe barbare effrayer vos provinces ;
+D'un triomphe barbare effrayer vos provinces ;
 Et cherchant à briller d'une triste splendeur,
 Sur le tombeau des rois élever sa grandeur.
 Mais vous-mêmes trompés d'un vain espoir de gloire,
-N'allez point dans ses bras irriter la Victoire ;
+N'allez point dans ses bras irriter la Victoire ;
 Et lorsque son courroux demeure suspendu,
 Princes, contentez-vous de l'avoir attendu.
 Ne différez point tant à lui rendre l'hommage,
-Que vos cœurs, malgré vous rendent à son courage,
+Que vos coeurs, malgré vous rendent à son courage,
 Et recevant l'appui que vous offre son bras,
 D'un si grand défenseur honorez vos États.
 Voilà ce qu'un grand roi veut bien vous faire entendre,
@@ -619,23 +619,23 @@ Ils refusent l'encens qu'on leur veut arracher.
 Assez d'autres États devenus vos conquêtes,
 De leurs rois sous le joug ont vu ployer les têtes.
 Après tous ces États qu'Alexandre a soumis,
-N'est-il pas temps, Seigneur, qu'il cherche des amis ?
+N'est-il pas temps, Seigneur, qu'il cherche des amis ?
 Tout ce peuple captif, qui tremble au nom d'un maître,
 Soutient mal un pouvoir qui ne fait que de naître.
 Ils ont, pour s'affranchir, les yeux toujours ouverts.
 Votre empire n'est plein que d'ennemis couverts.
 Ils pleurent en secret leurs rois sans diadèmes.
-Vos fers trop étendus se relâchent d'eux-mêmes ;
-Et déjà dans leur cœur les Scythes mutinés,
+Vos fers trop étendus se relâchent d'eux-mêmes ;
+Et déjà dans leur coeur les Scythes mutinés,
 Vont sortir de la chaîne, où vous nous destinez.
 Essayez, en prenant notre amitié pour gage,
-Ce que peut une foi qu'aucun serment n'engage ;
+Ce que peut une foi qu'aucun serment n'engage ;
 Laissez un peuple au moins qui puisse quelquefois
 Applaudir sans contrainte au bruit de vos exploits.
 Je reçois à ce prix l'amitié d'Alexandre.
 Et je l'attends déjà, comme un roi doit attendre
 Un héros dont la gloire accompagne les pas,
-Qui peut tout sur mon cœur, et rien sur mes États.
+Qui peut tout sur mon coeur, et rien sur mes États.
 
 -*who_porus
 Je croyais, quand l'Hydaspe assemblant ses provinces
@@ -644,24 +644,24 @@ Qu'il n'avait avec moi, dans des desseins si grands,
 Engagé que des rois ennemis des tyrans.
 Mais puisqu'un roi flattant la main qui nous menace,
 Parmi ses alliés brigue une indigne place,
-C'est à moi de répondre aux vœux de mon pays,
+C'est à moi de répondre aux voeux de mon pays,
 Et de parler pour ceux que Taxile a trahis.
-Que vient chercher ici le roi qui vous envoie ?
-Quel est ce grand secours que son bras nous octroie ?
+Que vient chercher ici le roi qui vous envoie ?
+Quel est ce grand secours que son bras nous octroie ?
 De quel front ose-t-il prendre sous son appui
-Des peuples qui n'ont point d'autre ennemi que lui ?
+Des peuples qui n'ont point d'autre ennemi que lui ?
 Avant que sa fureur ravageât tout le monde,
-L'Inde se reposait dans une paix profonde ;
+L'Inde se reposait dans une paix profonde ;
 Et si quelques voisins en troublaient les douceurs,
 Il portait dans son sein d'assez bons défenseurs.
-Pourquoi nous attaquer ? Par quelle barbarie
-A-t-on de votre maître excité la furie ?
+Pourquoi nous attaquer ? Par quelle barbarie
+A-t-on de votre maître excité la furie ?
 Vit-on jamais chez lui nos peuples en courroux
-Désoler un pays inconnu parmi nous ?
+Désoler un pays inconnu parmi nous ?
 Faut-il que tant d'États, de déserts, de rivières,
-Soient entre nous et lui d'impuissantes barrières ?
+Soient entre nous et lui d'impuissantes barrières ?
 Et ne saurait-on vivre au bout de l'univers,
-Sans connaître son nom, et le poids de ses fers ?
+Sans connaître son nom, et le poids de ses fers ?
 Quelle étrange valeur, qui ne cherchant qu'à nuire,
 Embrase tout, sitôt qu'elle commence à luire,
 Qui n'a que son orgueil pour règle et pour raison,
@@ -672,13 +672,13 @@ Plus d'États, plus de rois. Ses sacrilèges mains
 Dessous un même joug rangent tous les humains.
 Dans son avide orgueil je sais qu'il nous dévore.
 De tant de souverains nous seuls régnons encore.
-Mais que dis-je nous seuls ? Il ne reste que moi,
+Mais que dis-je nous seuls ? Il ne reste que moi,
 Où l'on découvre encor les vestiges d'un roi.
 Mais c'est pour mon courage une illustre matière.
-Je vois d'un œil content trembler la terre entière,
+Je vois d'un oeil content trembler la terre entière,
 Afin que par moi seul les mortels secourus,
 S'ils sont libres, le soient de la main de Porus,
-Et qu'on dise partout dans une paix profonde :
+Et qu'on dise partout dans une paix profonde :
 « Alexandre vainqueur eût dompté tout le monde,
 Mais un roi l'attendait au bout de l'univers,
 Par qui le monde entier a vu briser ses fers. »
@@ -695,22 +695,22 @@ De ses exploits au moins vous conter la moitié.
 Vous verriez...
 
 -*who_porus
-      Que verrais-je ? Et que pourrais-je apprendre
-Qui m'abaisse si fort au dessous d'Alexandre ?
+      Que verrais-je ? Et que pourrais-je apprendre
+Qui m'abaisse si fort au dessous d'Alexandre ?
 Serait-ce sans effort les Persans subjugués,
-Et vos bras tant de fois de meurtres fatigués ?
+Et vos bras tant de fois de meurtres fatigués ?
 Quelle gloire en effet d'accabler la faiblesse
 D'un roi déjà vaincu par sa propre mollesse,
 D'un peuple sans vigueur et presque inanimé,
 Qui gémissait sous l'or dont il était armé,
 Et qui tombant en foule, au lieu de se défendre,
-N'opposait que des morts au grand cœur d'Alexandre ?
+N'opposait que des morts au grand coeur d'Alexandre ?
 Les autres éblouis de ses moindres exploits
 Sont venus à genoux lui demander des lois,
 Et leur crainte écoutant je ne sais quels oracles,
 Ils n'ont pas cru qu'un dieu pût trouver des obstacles.
-Mais nous, qui d'un autre œil jugeons des conquérants,
-Nous savons que les dieux ne sont pas des tyrans ;
+Mais nous, qui d'un autre oeil jugeons des conquérants,
+Nous savons que les dieux ne sont pas des tyrans ;
 Et de quelque façon qu'un esclave le nomme,
 Le fils de Jupiter passe ici pour un homme.
 Nous n'allons point de fleurs parfumer son chemin,
@@ -722,12 +722,12 @@ Que n'en coûte à son bras l'empire des Persans.
 Ennemis du repos qui perdit ces infâmes,
 L'or qui naît sous nos pas, ne corrompt point nos âmes.
 La gloire est le seul bien qui nous puisse tenter,
-Et le seul que mon cœur cherche à lui disputer.
+Et le seul que mon coeur cherche à lui disputer.
 C'est elle...
 
 -*who_ephestion
       Et c'est aussi ce que cherche Alexandre.
-À de moindres objets son cœur ne peut descendre.
+À de moindres objets son coeur ne peut descendre.
 C'est ce qui l'arrachant du sein de ses États,
 Au trône de Cyrus lui fit porter ses pas,
 Et du plus ferme empire ébranlant les colonnes,
@@ -741,7 +741,7 @@ Bientôt le fer en main vous le verrez marcher.
 -*who_porus
 Allez donc, je l'attends, ou je le vais chercher.
 
-**** *book_ *id_II03 *act_II *date_1665
+**** *book_ *id_II03 *act_II *date_1697
 
 -*who_taxile
 Quoi vous voulez au gré de votre impatience...
@@ -751,16 +751,16 @@ Non, je ne prétends point troubler votre alliance.
 Éphestion aigri seulement contre moi,
 De vos soumissions rendra compte à son roi.
 Les troupes d'Axiane à me suivre engagées
-Attendent le combat sous mes drapeaux rangées :
+Attendent le combat sous mes drapeaux rangées :
 De son trône et du mien je soutiendrai l'éclat,
 Et vous serez, Seigneur, le juge du combat.
-À moins que votre cœur animé d'un beau zèle
+À moins que votre coeur animé d'un beau zèle
 De vos nouveaux amis n'embrasse la querelle.
 
-**** *book_ *id_II04 *act_II *date_1665
+**** *book_ *id_II04 *act_II *date_1697
 
 -*who_axiane
-Ah ! que dit-on de vous, Seigneur ? Nos ennemis
+Ah ! que dit-on de vous, Seigneur ? Nos ennemis
 Se vantent que Taxile est à moitié soumis,
 Qu'il ne marchera point contre un roi qu'il respecte.
 
@@ -780,14 +780,14 @@ Madame, je m'en vais disposer mon armée.
 Ecoutez moins ce bruit qui vous tient alarmée.
 Porus fait son devoir, et je ferai le mien.
 
-**** *book_ *id_II05 *act_II *date_1665
+**** *book_ *id_II05 *act_II *date_1697
 
 -*who_axiane
 Cette sombre froideur ne m'en dit pourtant rien,
 Lâche, et ce n'est point là, pour me le faire croire,
 La démarche d'un roi qui court à la victoire.
 Il n'en faut plus douter. Et nous sommes trahis.
-Il immole à sa sœur sa gloire et son pays,
+Il immole à sa soeur sa gloire et son pays,
 Et sa haine, Seigneur, qui cherche à vous abattre
 Attend pour éclater que vous alliez combattre.
 
@@ -796,20 +796,20 @@ Madame, en le perdant je perds un faible appui,
 Je le connaissais trop pour m'assurer sur lui.
 Mes yeux sans se troubler ont vu son inconstance.
 Je craignais beaucoup plus sa molle résistance.
-Un traître en nous quittant pour complaire à sa sœur,
+Un traître en nous quittant pour complaire à sa soeur,
 Nous affaiblit bien moins qu'un lâche défenseur.
 
 -*who_axiane
-Et cependant, Seigneur, qu'allez-vous entreprendre ?
+Et cependant, Seigneur, qu'allez-vous entreprendre ?
 Vous marchez sans compter les forces d'Alexandre.
 Et courant presque seul au-devant de leurs coups,
 Contre tant d'ennemis vous n'opposez que vous.
 
 -*who_porus
-Hé quoi ? Voudriez-vous qu'à l'exemple d'un traître,
-Ma frayeur conspirât à vous donner un maître ?
+Hé quoi ? Voudriez-vous qu'à l'exemple d'un traître,
+Ma frayeur conspirât à vous donner un maître ?
 Que Porus dans un camp se laissant arrêter,
-Refusât le combat qu'il vient de présenter ?
+Refusât le combat qu'il vient de présenter ?
 Non, non, je n'en crois rien. Je connais mieux, Madame,
 Le beau feu que la gloire allume dans votre âme.
 C'est vous, je m'en souviens, dont les puissants appas
@@ -821,10 +821,10 @@ Le titre de captif, que pour le mériter.
 Oui, Madame, je vais dans l'ardeur qui m'entraîne
 Victorieux ou mort mériter votre chaîne.
 Et puisque mes soupirs s'expliquaient vainement
-À ce cœur que la gloire occupe seulement,
+À ce coeur que la gloire occupe seulement,
 Je m'en vais par l'éclat qu'une victoire donne
 Attacher de si près la gloire à ma personne,
-Que je pourrai peut-être amener votre cœur,
+Que je pourrai peut-être amener votre coeur,
 De l'amour de la gloire à l'amour du vainqueur.
 
 -*who_axiane
@@ -836,42 +836,42 @@ Ne vous informez point de l'état de mon âme.
 Triomphez et vivez.
 
 -*who_porus
-      Qu'attendez-vous, Madame ?
+      Qu'attendez-vous, Madame ?
 Pourquoi dès ce moment ne puis-je pas savoir
-Si mes tristes soupirs ont pu vous émouvoir ?
+Si mes tristes soupirs ont pu vous émouvoir ?
 Voulez-vous (car le sort, adorable Axiane,
 À ne vous plus revoir peut-être me condamne)
 Voulez-vous qu'en mourant, un prince infortuné
-Ignore à quelle gloire il était destiné ?
+Ignore à quelle gloire il était destiné ?
 Parlez.
 
 -*who_axiane
-      Que vous dirai-je ?
+      Que vous dirai-je ?
 
 -*who_porus
       Ah, divine Princesse,
 Si vous sentiez pour moi quelque heureuse faiblesse,
-Ce cœur qui me promet tant d'estime en ce jour
+Ce coeur qui me promet tant d'estime en ce jour
 Me pourrait bien encor promettre un peu d'amour.
-Contre tant de soupirs peut-il bien se défendre ?
+Contre tant de soupirs peut-il bien se défendre ?
 Peut-il...
 
 -*who_axiane
       Allez, Seigneur, marchez contre Alexandre.
 La victoire est à vous, si ce fameux vainqueur
-Ne se défend pas mieux contre vous que mon cœur.
+Ne se défend pas mieux contre vous que mon coeur.
 
-**** *book_ *id_III01 *act_III *date_1665
+**** *book_ *id_III01 *act_III *date_1697
 
 -*who_axiane
-Quoi, Madame, en ces lieux on me tient enfermée ?
-Je ne puis au combat voir marcher mon armée ?
+Quoi, Madame, en ces lieux on me tient enfermée ?
+Je ne puis au combat voir marcher mon armée ?
 Et commençant par moi sa noire trahison,
-Taxile de son camp me fait une prison ?
-C'est donc là cette ardeur qu'il me faisait paraître ?
-Cet humble adorateur se déclare mon maître :
+Taxile de son camp me fait une prison ?
+C'est donc là cette ardeur qu'il me faisait paraître ?
+Cet humble adorateur se déclare mon maître :
 Et déjà son amour lassé de ma rigueur
-Captive ma personne au défaut de mon cœur ?
+Captive ma personne au défaut de mon coeur ?
 
 -*who_cleofile
 Expliquez mieux les soins, et les justes alarmes
@@ -881,8 +881,8 @@ L'ardeur qui l'intéresse à votre sûreté.
 Tandis qu'autour de nous deux puissantes armées
 D'une égale chaleur au combat animées,
 De leur fureur partout font voler les éclats,
-De quel autre côté conduiriez-vous vos pas ?
-Où pourriez-vous ailleurs éviter la tempête ?
+De quel autre côté conduiriez-vous vos pas ?
+Où pourriez-vous ailleurs éviter la tempête ?
 Un plein calme en ces lieux assure votre tête.
 Tout est tranquille...
 
@@ -893,24 +893,24 @@ Quoi, lorsque mes sujets mourant dans une plaine,
 Sur les pas de Porus combattent pour leur reine,
 Qu'au prix de tout leur sang ils signalent leur foi,
 Que le cri des mourants vient presque jusqu'à moi,
-On me parle de paix ? Et le camp de Taxile
-Garde dans ce désordre une assiette tranquille ;
+On me parle de paix ? Et le camp de Taxile
+Garde dans ce désordre une assiette tranquille ;
 On flatte ma douleur d'un calme injurieux,
-Sur des objets de joie on arrête mes yeux ?
+Sur des objets de joie on arrête mes yeux ?
 
 -*who_cleofile
 Madame, voulez-vous que l'amour de mon frère
-Abandonne aux périls une tête si chère ?
+Abandonne aux périls une tête si chère ?
 Il sait trop les hasards...
 
 -*who_axiane
       Et pour m'en détourner
-Ce généreux amant me fait emprisonner ?
+Ce généreux amant me fait emprisonner ?
 Et tandis que pour moi son rival se hasarde,
-Sa paisible valeur me sert ici de garde ?
+Sa paisible valeur me sert ici de garde ?
 
 -*who_cleofile
-Que Porus est heureux ! le moindre éloignement
+Que Porus est heureux ! Le moindre éloignement
 À votre impatience est un cruel tourment.
 Et si l'on vous croyait, le soin qui vous travaille
 Vous le ferait chercher jusqu'au champ de bataille.
@@ -918,21 +918,21 @@ Vous le ferait chercher jusqu'au champ de bataille.
 -*who_axiane
 Je ferais plus, Madame. Un mouvement si beau
 Me le ferait chercher jusque dans le tombeau,
-Perdre tous mes États, et voir d'un œil tranquille
-Alexandre en payer le cœur de Cléofile.
+Perdre tous mes États, et voir d'un oeil tranquille
+Alexandre en payer le coeur de Cléofile.
 
 -*who_cleofile
-Si vous cherchez Porus, pourquoi m'abandonner ?
+Si vous cherchez Porus, pourquoi m'abandonner ?
 Alexandre en ces lieux pourra le ramener.
 Permettez que veillant au soin de votre tête,
 À cet heureux amant l'on garde sa conquête.
 
 -*who_axiane
-Vous triomphez, Madame, et déjà votre cœur
+Vous triomphez, Madame, et déjà votre coeur
 Vole vers Alexandre, et le nomme vainqueur.
 Mais sur la seule foi d'un amour qui vous flatte,
 Peut-être avant le temps ce grand orgueil éclate.
-Vous poussez un peu loin vos vœux précipités,
+Vous poussez un peu loin vos voeux précipités,
 Et vous croyez trop tôt ce que vous souhaitez.
 Oui, oui...
 
@@ -941,10 +941,10 @@ Oui, oui...
 Qui de nous deux, Madame, aura pu se méprendre.
 
 -*who_axiane
-Ah ! je n'en doute plus, et ce front satisfait
+Ah ! Je n'en doute plus, et ce front satisfait
 Dit assez à mes yeux que Porus est défait.
 
-**** *book_ *id_III02 *act_III *date_1665
+**** *book_ *id_III02 *act_III *date_1697
 
 -*who_taxile
 Madame, si Porus avec moins de colère
@@ -958,10 +958,10 @@ Quoi Porus...
 -*who_taxile
       C'en est fait. Et sa valeur trompée
 Des maux que j'ai prévus se voit enveloppée.
-Ce n'est pas (car mon cœur respectant sa vertu
+Ce n'est pas (car mon coeur respectant sa vertu
 N'accable point encore un rival abattu)
 Ce n'est point que son bras disputant la victoire
-N'en ait aux ennemis ensanglanté la gloire ;
+N'en ait aux ennemis ensanglanté la gloire ;
 Qu'elle-même attachée à ses faits éclatants
 Entre Alexandre et lui n'ait douté quelque temps.
 Mais enfin contre moi sa vaillance irritée
@@ -974,20 +974,20 @@ Et de son vain courroux trop tard désabusé,
 Souhaiter le secours qu'il avait refusé.
 
 -*who_axiane
-Qu'il avait refusé ? Quoi donc ? Pour ta patrie,
-Ton indigne courage attend que l'on te prie ?
+Qu'il avait refusé ? Quoi donc ? Pour ta patrie,
+Ton indigne courage attend que l'on te prie ?
 Il faut donc malgré toi te traîner aux combats,
-Et te forcer toi-même à sauver tes États ?
+Et te forcer toi-même à sauver tes États ?
 L'exemple de Porus, puisqu'il faut qu'on t'y porte,
-Dis-moi, n'était-ce pas une voix assez forte ?
+Dis-moi, n'était-ce pas une voix assez forte ?
 Ce héros en péril, ta maîtresse en danger,
-Tout l'État périssant n'a pu t'encourager ?
-Va, tu sers bien le maître à qui ta sœur te donne.
+Tout l'État périssant n'a pu t'encourager ?
+Va, tu sers bien le maître à qui ta soeur te donne.
 Achève, et fais de moi ce que sa haine ordonne.
 Garde à tous les vaincus un traitement égal,
 Enchaîne ta maîtresse en livrant ton rival.
 Aussi bien, c'en est fait. Sa disgrâce, et ton crime
-Ont placé dans mon cœur ce héros magnanime.
+Ont placé dans mon coeur ce héros magnanime.
 Je l'adore, et je veux avant la fin du jour
 Déclarer à la fois ma haine, et mon amour,
 Lui vouer à tes yeux une amitié fidèle,
@@ -995,19 +995,19 @@ Et te jurer aux siens une haine immortelle.
 Adieu, tu me connais. Aime-moi si tu veux.
 
 -*who_taxile
-Ah ! n'espérez de moi que de sincères vœux,
+Ah ! N'espérez de moi que de sincères voeux,
 Madame, n'attendez ni menaces ni chaînes,
 Alexandre sait mieux ce qu'on doit à des reines.
 Souffrez que sa douceur vous oblige à garder
-Un trône que Porus devait moins hasarder ;
+Un trône que Porus devait moins hasarder ;
 Et moi-même en aveugle on me verrait combattre
 La sacrilège main qui le voudrait abattre.
 
 -*who_axiane
 Quoi par l'un de vous deux mon sceptre raffermi,
-Deviendrait dans mes mains le don d'un ennemi ?
+Deviendrait dans mes mains le don d'un ennemi ?
 Et sur mon propre trône on me verrait placée
-Par le même tyran qui m'en aurait chassée ?
+Par le même tyran qui m'en aurait chassée ?
 
 -*who_taxile
 Des reines et des rois vaincus par sa valeur,
@@ -1018,10 +1018,10 @@ L'une le traite en fils, l'autre le traite en frère.
 -*who_axiane
 Non, non, je ne sais point vendre mon amitié,
 Caresser un tyran, et régner par pitié.
-Penses-tu que j'imite une faible Persane ?
-Qu'à la cour d'Alexandre on retienne Axiane ?
+Penses-tu que j'imite une faible Persane ?
+Qu'à la cour d'Alexandre on retienne Axiane ?
 Et qu'avec mon vainqueur courant tout l'univers,
-J'aille vanter partout la douceur de ses fers ?
+J'aille vanter partout la douceur de ses fers ?
 S'il donne les États, qu'il te donne les nôtres.
 Qu'il te pare, s'il veut, des dépouilles des autres.
 Règne, Porus ni moi n'en serons point jaloux.
@@ -1029,33 +1029,33 @@ Et tu seras encor plus esclave que nous.
 J'espère qu'Alexandre amoureux de sa gloire,
 Et fâché que ton crime ait souillé sa victoire,
 S'en lavera bientôt par ton propre trépas.
-Des traîtres comme toi font souvent des ingrats ;
+Des traîtres comme toi font souvent des ingrats ;
 Et de quelques faveurs que sa main t'éblouisse,
 Du perfide Bessus regarde le supplice.
 Adieu.
 
-**** *book_ *id_III03 *act_III *date_1665
+**** *book_ *id_III03 *act_III *date_1697
 
 -*who_cleofile
       Cédez, mon frère, à ce bouillant transport.
 Alexandre et le temps vous rendront le plus fort.
 Et cet âpre courroux, quoi qu'elle en puisse dire,
 Ne s'obstinera point au refus d'un empire.
-Maître de ses destins, vous l'êtes de son cœur.
-Mais dites-moi, vos yeux ont-ils vu le vainqueur ?
-Quel traitement, mon frère, en devons-nous attendre ?
-Qu'a-t-il dit ?
+Maître de ses destins, vous l'êtes de son coeur.
+Mais dites-moi, vos yeux ont-ils vu le vainqueur ?
+Quel traitement, mon frère, en devons-nous attendre ?
+Qu'a-t-il dit ?
 
 -*who_taxile
-      Oui, ma sœur, j'ai vu votre Alexandre.
+      Oui, ma soeur, j'ai vu votre Alexandre.
 D'abord ce jeune éclat, qu'on remarque en ses traits,
 M'a semblé démentir le nombre de ses faits.
-Mon cœur plein de son nom n'osait, je le confesse,
+Mon coeur plein de son nom n'osait, je le confesse,
 Accorder tant de gloire avec tant de jeunesse.
 Mais de ce même front l'héroïque fierté,
 Le feu de ses regards, sa haute majesté
 Font connaître Alexandre. Et certes son visage
-Porte de sa grandeur l'infaillible présage ;
+Porte de sa grandeur l'infaillible présage ;
 Et sa présence auguste appuyant ses projets
 Ses yeux comme son bras font partout des sujets.
 Il sortait du combat. Ébloui de sa gloire
@@ -1065,9 +1065,9 @@ Il a fait à son tour éclater sa bonté.
 Ses transports ne m'ont point déguisé sa tendresse.
 Retournez, m'a-t-il dit, auprès de la princesse,
 Disposez ses beaux yeux à revoir un vainqueur
-Qui va mettre à ses pieds sa victoire et son cœur.
+Qui va mettre à ses pieds sa victoire et son coeur.
 Il marche sur mes pas. Je n'ai rien à vous dire,
-Ma sœur, de votre sort je vous laisse l'empire,
+Ma soeur, de votre sort je vous laisse l'empire,
 Je vous confie encor la conduite du mien.
 
 -*who_cleofile
@@ -1077,97 +1077,97 @@ Tout va vous obéir, si le vainqueur m'écoute.
 -*who_taxile
 Je vais donc... Mais on vient. C'est lui-même sans doute.
 
-**** *book_ *id_III04 *act_III *date_1665
+**** *book_ *id_III04 *act_III *date_1697
 
 -*who_alexandre
 Allez, Éphestion. Que l'on cherche Porus,
 Qu'on épargne sa vie, et le sang des vaincus.
 
-**** *book_ *id_III05 *act_III *date_1665
+**** *book_ *id_III05 *act_III *date_1697
 
 -*who_alexandre
 Seigneur, est-il donc vrai qu'une reine aveuglée
-Vous préfère d'un roi la valeur déréglée ?
+Vous préfère d'un roi la valeur déréglée ?
 Mais ne le craignez point. Son empire est à vous.
 D'une ingrate à ce prix fléchissez le courroux.
 Maître de deux États, arbitre des siens mêmes,
-Allez avec vos vœux offrir trois diadèmes.
+Allez avec vos voeux offrir trois diadèmes.
 
 -*who_taxile
-Ah ! c'en est trop, Seigneur, prodiguez un peu moins...
+Ah ! C'en est trop, Seigneur, prodiguez un peu moins...
 
 -*who_alexandre
 Vous pourrez à loisir reconnaître mes soins.
 Ne tardez point. Allez où l'amour vous appelle,
 Et couronnez vos feux d'une palme si belle.
 
-**** *book_ *id_III06 *act_III *date_1665
+**** *book_ *id_III06 *act_III *date_1697
 
 -*who_alexandre
 Madame, à son amour je promets mon appui.
-Ne puis-je rien pour moi quand je puis tout pour lui ?
+Ne puis-je rien pour moi quand je puis tout pour lui ?
 Si prodigue envers lui des fruits de la victoire,
-N'en aurai-je pour moi qu'une stérile gloire ?
+N'en aurai-je pour moi qu'une stérile gloire ?
 Les sceptres devant vous ou rendus ou donnés,
 De mes propres lauriers mes amis couronnés,
 Les biens que j'ai conquis répandus sur leurs têtes,
 Font voir que je soupire après d'autres conquêtes.
 Je vous avais promis que l'effort de mon bras
-M'approcherait bientôt de vos divins appas ;
+M'approcherait bientôt de vos divins appas ;
 Mais dans ce même temps, souvenez-vous, Madame,
 Que vous me promettiez quelque place en votre âme.
 Je suis venu. L'amour a combattu pour moi.
 La Victoire elle-même a dégagé ma foi.
 Tout cède autour de vous. C'est à vous de vous rendre,
-Votre cœur l'a promis, voudra-t-il s'en défendre ?
+Votre coeur l'a promis, voudra-t-il s'en défendre ?
 Et lui seul pourrait-il échapper aujourd'hui
-À l'ardeur d'un vainqueur qui ne cherche que lui ?
+À l'ardeur d'un vainqueur qui ne cherche que lui ?
 
 -*who_cleofile
-Non, je ne prétends pas que ce cœur inflexible
+Non, je ne prétends pas que ce coeur inflexible
 Garde seul contre vous le titre d'invincible.
 Je rends ce que je dois à l'éclat des vertus
 Qui tiennent sous vos pieds cent peuples abattus.
 Les Indiens domptés sont vos moindres ouvrages.
 Vous inspirez la crainte aux plus fermes courages.
 Et quand vous le voudrez, vos bontés à leur tour
-Dans les cœurs les plus durs inspireront l'amour.
+Dans les coeurs les plus durs inspireront l'amour.
 Mais, Seigneur, cet éclat, ces victoires, ces charmes,
 Me troublent bien souvent par de justes alarmes.
-Je crains que satisfait d'avoir conquis un cœur,
-Vous ne l'abandonniez à sa triste langueur ;
+Je crains que satisfait d'avoir conquis un coeur,
+Vous ne l'abandonniez à sa triste langueur ;
 Qu'insensible à l'ardeur que vous aurez causée,
 Votre âme ne dédaigne une conquête aisée.
 On attend peu d'amour d'un héros tel que vous.
 La gloire fit toujours vos transports les plus doux.
-Et peut-être, au moment que ce grand cœur soupire,
+Et peut-être, au moment que ce grand coeur soupire,
 La gloire de me vaincre est tout ce qu'il désire.
 
 -*who_alexandre
 Que vous connaissez mal les violents désirs
-D'un amour qui vers vous porte tous mes soupirs !
+D'un amour qui vers vous porte tous mes soupirs !
 J'avouerai qu'autrefois au milieu d'une armée
-Mon cœur ne soupirait que pour la Renommée,
+Mon coeur ne soupirait que pour la Renommée,
 Les peuples et les rois devenus mes sujets,
-Étaient seuls à mes vœux d'assez dignes objets,
+Étaient seuls à mes voeux d'assez dignes objets,
 Les beautés de la Perse à mes yeux présentées
 Aussi bien que ses rois ont paru surmontées.
-Mon cœur d'un fier mépris armé contre leurs traits,
+Mon coeur d'un fier mépris armé contre leurs traits,
 N'a pas du moindre hommage honoré leurs attraits.
 Amoureux de la gloire, et partout invincible,
 Il mettait son bonheur à paraître insensible.
 Mais hélas, que vos yeux ces aimables tyrans,
-Ont produit sur mon cœur des effets différents !
+Ont produit sur mon coeur des effets différents !
 Ce grand nom de vainqueur n'est plus ce qu'il souhaite,
 Il vient avec plaisir avouer sa défaite,
-Heureux ! si votre cœur se laissant émouvoir,
+Heureux ! Si votre coeur se laissant émouvoir,
 Vos beaux yeux à leur tour avouaient leur pouvoir.
-Voulez-vous donc toujours douter de leur victoire ;
-Toujours de mes exploits me reprocher la gloire ?
-Comme si les beaux nœuds où vous me tenez pris,
+Voulez-vous donc toujours douter de leur victoire ;
+Toujours de mes exploits me reprocher la gloire ?
+Comme si les beaux noeuds où vous me tenez pris,
 Ne devaient arrêter que de faibles esprits.
 Par des faits tout nouveaux, je m'en vais vous apprendre
-Tout ce que peut l'amour sur le cœur d'Alexandre.
+Tout ce que peut l'amour sur le coeur d'Alexandre.
 Maintenant que mon bras engagé sous vos lois
 Doit soutenir mon nom et le vôtre à la fois,
 J'irai rendre fameux par l'éclat de la guerre
@@ -1177,29 +1177,29 @@ Où leurs sauvages mains en refusent aux dieux.
 
 -*who_cleofile
 Oui, vous y traînerez la victoire captive,
-Mais je doute, Seigneur, que l'amour vous y suive ;
+Mais je doute, Seigneur, que l'amour vous y suive ;
 Tant d'États, tant de mers qui vont nous désunir,
 M'effaceront bientôt de votre souvenir.
 Quand l'Océan troublé vous verra sur son onde,
-Achever quelque jour la conquête du monde ;
+Achever quelque jour la conquête du monde ;
 Quand vous verrez les rois tomber à vos genoux,
 Et la terre en tremblant se taire devant vous,
 Songerez-vous, Seigneur, qu'une jeune princesse,
 Au fond de ses États vous regrette sans cesse,
-Et rappelle en son cœur les moments bienheureux
-Où ce grand conquérant l'assurait de ses feux ?
+Et rappelle en son coeur les moments bienheureux
+Où ce grand conquérant l'assurait de ses feux ?
 
 -*who_alexandre
-Hé quoi ? vous croyez donc qu'à moi-même barbare
-J'abandonne en ces lieux une beauté si rare ?
+Hé quoi ? Vous croyez donc qu'à moi-même barbare
+J'abandonne en ces lieux une beauté si rare ?
 Mais vous-même plutôt voulez-vous renoncer
-Au trône de l'Asie où je vous veux placer ?
+Au trône de l'Asie où je vous veux placer ?
 
 -*who_cleofile
 Seigneur, vous le savez, je dépends de mon frère.
 
 -*who_alexandre
-Ah ! s'il disposait seul du bonheur que j'espère,
+Ah ! S'il disposait seul du bonheur que j'espère,
 Tout l'empire de l'Inde asservi sous ses lois
 Bientôt en ma faveur irait briguer son choix.
 
@@ -1219,10 +1219,10 @@ Allait entre nous deux finir notre querelle,
 Lorsqu'un gros de soldats se jetant entre nous
 Nous a fait dans la foule ensevelir nos coups.
 
-**** *book_ *id_III07 *act_III *date_1665
+**** *book_ *id_III07 *act_III *date_1697
 
 -*who_alexandre
-Hé bien ramène-t-on ce prince téméraire ?
+Hé bien ramène-t-on ce prince téméraire ?
 
 -*who_ephestion
 On le cherche partout. Mais quoi qu'on puisse faire,
@@ -1235,55 +1235,55 @@ Et du soldat vainqueur arrêtant la poursuite,
 -*who_alexandre
 Désarmez les vaincus sans les désespérer.
 Madame, allons fléchir une fière princesse,
-Afin qu'à mon amour Taxile s'intéresse ;
+Afin qu'à mon amour Taxile s'intéresse ;
 Et puisque mon repos doit dépendre du sien,
 Achevons son bonheur pour établir le mien.
 
-**** *book_ *id_IV01 *act_IV *date_1665
+**** *book_ *id_IV01 *act_IV *date_1697
 
 -*who_axiane
 N'entendrons-nous jamais que des cris de victoire,
-Qui de mes ennemis me reprochent la gloire ?
+Qui de mes ennemis me reprochent la gloire ?
 Et ne pourrai-je au moins en de si grands malheurs
-M'entretenir moi seule avecque mes douleurs ?
+M'entretenir moi seule avecque mes douleurs ?
 D'un odieux amant sans cesse poursuivie,
 On prétend malgré moi m'attacher à la vie.
 On m'observe, on me suit. Mais, Porus, ne crois pas
 Qu'on me puisse empêcher de courir sur tes pas.
-Sans doute à nos malheurs ton cœur n'a pu survivre,
+Sans doute à nos malheurs ton coeur n'a pu survivre,
 En vain tant de soldats s'arment pour te poursuivre,
 On te découvrirait au bruit de tes efforts,
 Et s'il te faut chercher ce n'est qu'entre les morts.
-Hélas ! en me quittant, ton ardeur redoublée
+Hélas ! En me quittant, ton ardeur redoublée
 Semblait prévoir les maux dont je suis accablée,
 Lorsque tes yeux aux miens découvrant ta langueur,
-Me demandaient quel rang tu tenais dans mon cœur ;
+Me demandaient quel rang tu tenais dans mon coeur ;
 Que sans t'inquiéter du succès de tes armes
 Le soin de ton amour te causait tant d'alarmes.
 Et pourquoi te cachais-je avec tant de détours
-Un secret si fatal au repos de tes jours ?
+Un secret si fatal au repos de tes jours ?
 Combien de fois tes yeux forçant ma résistance
-Mon cœur s'est-il vu prêt de rompre le silence ?
+Mon coeur s'est-il vu prêt de rompre le silence ?
 Combien de fois sensible à tes ardents désirs
-M'est-il en ta présence échappé des soupirs ?
+M'est-il en ta présence échappé des soupirs ?
 Mais je voulais encor douter de ta victoire.
 J'expliquais mes soupirs en faveur de la gloire,
-Je croyais n'aimer qu'elle. Ah ! pardonne, grand Roi,
+Je croyais n'aimer qu'elle. Ah ! Pardonne, grand Roi,
 Je sens bien aujourd'hui que je n'aimais que toi.
 J'avouerai que la gloire eut sur moi quelque empire.
 Je te l'ai dit cent fois. Mais je devais te dire
 Que toi seul en effet m'engageas sous ses lois.
-J'appris à la connaître en voyant tes exploits ;
+J'appris à la connaître en voyant tes exploits;
 Et de quelque beau feu qu'elle m'eût enflammée,
 En un autre que toi je l'aurais moins aimée.
 Mais que sert de pousser des soupirs superflus,
-Qui se perdent en l'air et que tu n'entends plus ?
+Qui se perdent en l'air et que tu n'entends plus ?
 Il est temps que mon âme au tombeau descendue,
 Te jure une amitié si longtemps attendue.
-Il est temps que mon cœur pour gage de sa foi
+Il est temps que mon coeur pour gage de sa foi
 Montre qu'il n'a pu vivre un moment après toi.
 Aussi bien penses-tu que je voulusse vivre
-Sous les lois d'un vainqueur à qui ta mort nous livre ?
+Sous les lois d'un vainqueur à qui ta mort nous livre ?
 Je sais qu'il se dispose à me venir parler,
 Qu'en me rendant mon sceptre il veut me consoler.
 Il croit peut-être, il croit que ma haine étouffée
@@ -1291,13 +1291,13 @@ Il croit peut-être, il croit que ma haine étouffée
 Qu'il vienne. Il me verra toujours digne de toi
 Mourir en reine ainsi que tu mourus en roi.
 
-**** *book_ *id_IV02 *act_IV *date_1665
+**** *book_ *id_IV02 *act_IV *date_1697
 
 -*who_axiane
 Hé bien, Seigneur, hé bien, trouvez-vous quelques charmes
-À voir couler des pleurs que font verser vos armes ?
+À voir couler des pleurs que font verser vos armes ?
 Ou si vous m'enviez en l'état où je suis,
-La triste liberté de pleurer mes ennuis ?
+La triste liberté de pleurer mes ennuis ?
 
 -*who_alexandre
 Votre douleur est libre, autant que légitime.
@@ -1310,11 +1310,11 @@ Entre les plus grands rois il se fit remarquer,
 Je savais...
 
 -*who_axiane
-      Pourquoi donc le venir attaquer ?
+      Pourquoi donc le venir attaquer ?
 Par quelle loi faut-il qu'aux deux bouts de la terre
-Vous cherchiez la vertu pour lui faire la guerre ?
+Vous cherchiez la vertu pour lui faire la guerre ?
 Le mérite à vos yeux ne peut-il éclater
-Sans pousser votre orgueil à le persécuter ?
+Sans pousser votre orgueil à le persécuter ?
 
 -*who_alexandre
 Oui, j'ai cherché Porus. Mais quoi qu'on puisse dire,
@@ -1322,7 +1322,7 @@ Je ne le cherchais pas afin de le détruire.
 J'avouerai que brûlant de signaler mon bras
 Je me laissai conduire au bruit de ses combats,
 Et qu'au seul nom d'un roi jusqu'alors invincible,
-À de nouveaux exploits mon cœur devint sensible.
+À de nouveaux exploits mon coeur devint sensible.
 Tandis que je croyais par mes combats divers
 Attacher sur moi seul les yeux de l'univers,
 J'ai vu de ce guerrier la valeur répandue
@@ -1330,7 +1330,7 @@ Tenir la Renommée entre nous suspendue,
 Et voyant de son bras voler partout l'effroi,
 L'Inde sembla m'ouvrir un champ digne de moi.
 Lassé de voir des rois vaincus sans résistance,
-J'appris avec plaisir le bruit de sa vaillance :
+J'appris avec plaisir le bruit de sa vaillance :
 Un ennemi si noble a su m'encourager,
 Je suis venu chercher la gloire et le danger.
 Son courage, Madame, a passé mon attente.
@@ -1343,18 +1343,18 @@ Qu'une chute si belle élève sa vertu,
 Et qu'il ne voudrait pas n'avoir point combattu.
 
 -*who_axiane
-Hélas ! il fallait bien qu'une si noble envie
+Hélas ! Il fallait bien qu'une si noble envie
 Lui fît abandonner tout le soin de sa vie,
 Puisque de toutes parts trahi, persécuté,
 Contre tant d'ennemis il s'est précipité.
 Mais vous, s'il était vrai que son ardeur guerrière
 Eût ouvert à la vôtre une illustre carrière,
-Que n'avez-vous, Seigneur, dignement combattu ?
-Fallait-il par la ruse attaquer sa vertu ?
+Que n'avez-vous, Seigneur, dignement combattu ?
+Fallait-il par la ruse attaquer sa vertu ?
 Et loin de remporter une gloire parfaite,
-D'un autre que de vous attendre sa défaite ?
-Triomphez. Mais sachez que Taxile en son cœur
-Vous dispute déjà ce beau nom de vainqueur ;
+D'un autre que de vous attendre sa défaite ?
+Triomphez. Mais sachez que Taxile en son coeur
+Vous dispute déjà ce beau nom de vainqueur ;
 Que le traître se flatte avec quelque justice
 Que vous n'avez vaincu que par son artifice.
 Et c'est à ma douleur un spectacle assez doux
@@ -1366,36 +1366,36 @@ Jamais on ne m'a vu dérober la victoire,
 Et par ces lâches soins qu'on ne peut m'imputer,
 Tromper mes ennemis au lieu de les dompter.
 Quoique partout ce semble accablé sous le nombre,
-Je n'ai pu me résoudre à me cacher dans l'ombre ;
+Je n'ai pu me résoudre à me cacher dans l'ombre ;
 Ils n'ont de leur défaite accusé que mon bras,
 Et le jour a partout éclairé mes combats.
 Il est vrai que je plains le sort de vos provinces,
 J'ai voulu prévenir la perte de vos princes.
-Mais s'ils avaient suivi mes conseils et mes vœux,
+Mais s'ils avaient suivi mes conseils et mes voeux,
 Je les aurais sauvés, ou combattu tous deux.
 Oui croyez...
 
 -*who_axiane
-      Je crois tout. Je vous crois invincible ;
-Mais, Seigneur, suffit-il que tout vous soit possible ?
-Ne tient-il qu'à jeter tant de rois dans les fers ?
-Qu'à faire impunément gémir tout l'univers ?
+      Je crois tout. Je vous crois invincible ;
+Mais, Seigneur, suffit-il que tout vous soit possible ?
+Ne tient-il qu'à jeter tant de rois dans les fers ?
+Qu'à faire impunément gémir tout l'univers ?
 Et que vous avaient fait tant de villes captives,
-Tant de morts dont l'Hydaspe a vu couvrir ses rives ?
+Tant de morts dont l'Hydaspe a vu couvrir ses rives ?
 Qu'ai-je fait, pour venir accabler en ces lieux
-Un héros sur qui seul j'ai pu tourner les yeux ?
-A-t-il de votre Grèce inondé les frontières ?
+Un héros sur qui seul j'ai pu tourner les yeux ?
+A-t-il de votre Grèce inondé les frontières ?
 Avons-nous soulevé des nations entières,
-Et contre votre gloire excité leur courroux ?
-Hélas ! nous l'admirions sans en être jaloux.
+Et contre votre gloire excité leur courroux ?
+Hélas ! Nous l'admirions sans en être jaloux.
 Contents de nos États, et charmés l'un de l'autre
 Nous attendions un sort plus heureux que le vôtre.
-Porus bornait ses vœux à conquérir un cœur,
+Porus bornait ses voeux à conquérir un coeur,
 Qui peut-être aujourd'hui l'eût nommé son vainqueur.
-Ah ! n'eussiez-vous versé qu'un sang si magnanime,
+Ah ! N'eussiez-vous versé qu'un sang si magnanime,
 Quand on ne vous pourrait reprocher que ce crime,
 Ne vous sentez-vous pas, Seigneur, bien malheureux,
-D'être venu si loin rompre de si beaux nœuds ?
+D'être venu si loin rompre de si beaux noeuds ?
 Non, de quelque douceur que se flatte votre âme,
 Vous n'êtes qu'un tyran.
 
@@ -1417,19 +1417,19 @@ Vous verriez...
 
 -*who_axiane
       Ah, Seigneur, puis-je ne les point voir
-Ces vertus dont l'éclat aigrit mon désespoir ?
+Ces vertus dont l'éclat aigrit mon désespoir ?
 N'ai-je pas vu partout la victoire modeste
-Perdre avec vous l'orgueil qui la rend si funeste ?
+Perdre avec vous l'orgueil qui la rend si funeste ?
 Ne vois-je pas le Scythe et le Perse abattus
 Se plaire sous le joug et vanter vos vertus,
 Et disputer enfin par une aveugle envie,
-À vos propres sujets le soin de votre vie ?
-Mais que sert à ce cœur que vous persécutez
-De voir partout ailleurs adorer vos bontés ?
+À vos propres sujets le soin de votre vie ?
+Mais que sert à ce coeur que vous persécutez
+De voir partout ailleurs adorer vos bontés ?
 Pensez-vous que ma haine en soit moins violente
-Pour voir baiser partout la main qui me tourmente ?
+Pour voir baiser partout la main qui me tourmente ?
 Tant de rois par vos soins vengés ou secourus,
-Tant de peuples contents, me rendent-ils Porus ?
+Tant de peuples contents, me rendent-ils Porus ?
 Non, Seigneur, je vous hais d'autant plus qu'on vous aime,
 D'autant plus qu'il me faut vous admirer moi-même,
 Que l'univers entier m'en impose la loi,
@@ -1440,26 +1440,26 @@ J'excuse les transports d'une amitié si tendre.
 Mais, Madame, après tout ils doivent me surprendre.
 Si la commune voix ne m'a point abusé,
 Porus d'aucun regard ne fut favorisé.
-Entre Taxile et lui votre cœur en balance,
+Entre Taxile et lui votre coeur en balance,
 Tant qu'ont duré ses jours a gardé le silence.
 Et lorsqu'il ne peut plus vous entendre aujourd'hui,
-Vous commencez, Madame, à prononcer pour lui ?
+Vous commencez, Madame, à prononcer pour lui ?
 Pensez-vous que sensible à cette ardeur nouvelle,
-Sa cendre exige encor que vous brûliez pour elle ?
+Sa cendre exige encor que vous brûliez pour elle ?
 Ne vous accablez point d'inutiles douleurs.
 Des soins plus importants vous appellent ailleurs.
 Vos larmes ont assez honoré sa mémoire.
-Régnez, et de ce rang soutenez mieux la gloire ;
+Régnez, et de ce rang soutenez mieux la gloire ;
 Et redonnant le calme à vos sens désolés,
 Rassurez vos États par sa chute ébranlés.
 Parmi tant de grands rois choisissez-leur un maître.
 Plus ardent que jamais Taxile...
 
 -*who_axiane
-      Quoi le traître ?
+      Quoi le traître ?
 
 -*who_alexandre
-Hé ! de grâce prenez des sentiments plus doux,
+Hé ! De grâce prenez des sentiments plus doux,
 Aucune trahison ne le souille envers vous.
 Maître de ses États il a pu se résoudre
 À se mettre avec eux à couvert de la foudre.
@@ -1477,7 +1477,7 @@ Ma présence à vos yeux n'est déjà que trop rude.
 L'entretien des amants cherche la solitude.
 Je ne vous trouble point.
 
-**** *book_ *id_IV03 *act_IV *date_1665
+**** *book_ *id_IV03 *act_IV *date_1697
 
 -*who_axiane
       Approche, puissant roi,
@@ -1486,25 +1486,25 @@ On veut en ta faveur combattre ma colère.
 On dit que tes désirs n'aspirent qu'à me plaire,
 Que mes rigueurs ne font qu'affermir ton amour.
 On fait plus, et l'on veut que je t'aime à mon tour.
-Mais sais-tu l'entreprise où s'engage ta flamme ?
-Sais-tu par quels secrets on peut toucher mon âme ?
+Mais sais-tu l'entreprise où s'engage ta flamme ?
+Sais-tu par quels secrets on peut toucher mon âme ?
 Es-tu prêt...
 
 -*who_taxile
       Ah Madame, éprouvez seulement
-Ce que peut sur mon cœur un espoir si charmant.
-Que faut-il faire ?
+Ce que peut sur mon coeur un espoir si charmant.
+Que faut-il faire ?
 
 -*who_axiane
       Il faut, s'il est vrai que l'on m'aime,
 Aimer la gloire, autant que je l'aime moi-même,
-Ne m'expliquer ses vœux que par mille beaux faits,
+Ne m'expliquer ses voeux que par mille beaux faits,
 Et haïr Alexandre autant que je le hais.
 Il faut marcher sans crainte au milieu des alarmes,
 Il faut combattre, vaincre, ou périr sous les armes.
 Jette, jette les yeux sur Porus et sur toi,
 Et juge qui des deux était digne de moi.
-Oui, Taxile, mon cœur douteux en apparence,
+Oui, Taxile, mon coeur douteux en apparence,
 D'un esclave, et d'un roi faisait la différence.
 Je l'aimai, je l'adore. Et puisqu'un sort jaloux
 Lui défend de jouir d'un spectacle si doux,
@@ -1514,7 +1514,7 @@ Toujours tu me verras au fort de mon ennui,
 Mettre tout mon plaisir à te parler de lui.
 
 -*who_taxile
-Ainsi je brûle en vain pour une âme glacée ?
+Ainsi je brûle en vain pour une âme glacée ?
 L'image de Porus n'en peut être effacée,
 Quand j'irais pour vous plaire affronter le trépas,
 Je me perdrais, Madame, et ne vous plairais pas.
@@ -1547,43 +1547,43 @@ Qu'après tant de respects qui vous rendent plus fière,
 Je pourrai...
 
 -*who_axiane
-      Je t'entends. Je suis ta prisonnière ;
+      Je t'entends. Je suis ta prisonnière ;
 Tu veux peut-être encor captiver mes désirs,
-Que mon cœur en tremblant réponde à tes soupirs.
+Que mon coeur en tremblant réponde à tes soupirs.
 Hé bien, dépouille enfin cette douceur contrainte.
 Appelle à ton secours la terreur et la crainte,
 Parle en tyran tout prêt à me persécuter.
 Ma haine ne peut croître, et tu peux tout tenter.
 Surtout ne me fais point d'inutiles menaces.
-Ta sœur vient t'inspirer ce qu'il faut que tu fasses.
-Adieu. Si ses conseils et mes vœux en sont crus,
+Ta soeur vient t'inspirer ce qu'il faut que tu fasses.
+Adieu. Si ses conseils et mes voeux en sont crus,
 Tu m'aideras bientôt à rejoindre Porus.
 
 -*who_taxile
-Ah ! plutôt...
+Ah ! Plutôt...
 
-**** *book_ *id_IV04 *act_IV *date_1665
+**** *book_ *id_IV04 *act_IV *date_1697
 
 -*who_cleofile
-      Ah ! quittez cette ingrate princesse,
+      Ah ! Quittez cette ingrate princesse,
 Dont la haine a juré de nous troubler sans cesse,
 Qui met tout son plaisir à vous désespérer.
 Oubliez...
 
 -*who_taxile
-      Non, ma sœur, je la veux adorer.
-Je l'aime. Et quand les vœux que je pousse pour elle,
+      Non, ma soeur, je la veux adorer.
+Je l'aime. Et quand les voeux que je pousse pour elle,
 N'en obtiendraient jamais qu'une haine immortelle,
 Malgré tous ses mépris, malgré tous vos discours,
 Malgré moi-même, il faut que je l'aime toujours.
 Sa colère après tout n'a rien qui me surprenne.
 C'est à vous, c'est à moi qu'il faut que je m'en prenne,
-Sans vous, sans vos conseils, ma sœur, qui m'ont trahi.
+Sans vous, sans vos conseils, ma soeur, qui m'ont trahi.
 Si je n'étais aimé, je serais moins haï.
 Je la verrais sans vous par mes soins défendue,
 Entre Porus et moi demeurer suspendue.
 Et ne serait-ce pas un bonheur trop charmant
-Que de l'avoir réduite à douter un moment ?
+Que de l'avoir réduite à douter un moment ?
 Non, je ne puis plus vivre accablé de sa haine,
 Il faut que je me jette aux pieds de l'inhumaine.
 J'y cours. Je vais m'offrir à servir son courroux
@@ -1596,11 +1596,11 @@ Il faut que tout périsse, ou que je sois heureux.
 -*who_cleofile
 Allez donc, retournez sur le champ de bataille,
 Ne laissez point languir l'ardeur qui vous travaille.
-À quoi s'arrête ici ce courage inconstant ?
+À quoi s'arrête ici ce courage inconstant ?
 Courez. On est aux mains. Et Porus vous attend.
 
 -*who_taxile
-Quoi Porus n'est point mort ? Porus vient de paraître ?
+Quoi Porus n'est point mort ? Porus vient de paraître ?
 
 -*who_cleofile
 C'est lui. De si grands coups le font trop reconnaître.
@@ -1610,29 +1610,29 @@ Il vient surprendre ici leur valeur endormie,
 Troubler une victoire encor mal affermie.
 Il vient n'en doutez point, en amant furieux
 Enlever sa maîtresse ou périr à ses yeux.
-Que dis-je ? Votre camp séduit par cette ingrate,
+Que dis-je ? Votre camp séduit par cette ingrate,
 Prêt à suivre Porus en murmures éclate.
 Allez vous-même, allez en généreux amant
 Au secours d'un rival aimé si tendrement,
 Adieu.
 
-**** *book_ *id_IV05 *act_IV *date_1665
+**** *book_ *id_IV05 *act_IV *date_1697
 
 -*who_taxile
-      Quoi ? la fortune obstinée à me nuire
-Ressuscite un rival armé pour me détruire ?
+      Quoi ? La fortune obstinée à me nuire
+Ressuscite un rival armé pour me détruire ?
 Cet amant reverra les yeux qui l'ont pleuré,
-Qui tout mort qu'il était me l'avaient préféré ?
-Ah ! c'en est trop. Voyons ce que le sort m'apprête,
+Qui tout mort qu'il était me l'avaient préféré ?
+Ah ! C'en est trop. Voyons ce que le sort m'apprête,
 À qui doit demeurer cette noble conquête.
 Allons. N'attendons pas dans un lâche courroux
 Qu'un si grand différend se termine sans nous.
 
-**** *book_ *id_V01 *act_V *date_1665
+**** *book_ *id_V01 *act_V *date_1697
 
 -*who_alexandre
-Quoi ? vous craigniez Porus même après sa défaite ?
-Ma victoire à vos yeux semblait-elle imparfaite ?
+Quoi ? Vous craigniez Porus même après sa défaite ?
+Ma victoire à vos yeux semblait-elle imparfaite ?
 Non, non, c'est un captif qui n'a pu m'échapper,
 Que mes ordres partout ont fait envelopper.
 Loin de le craindre encor ne songez qu'à le plaindre.
@@ -1649,10 +1649,10 @@ Et dès lors je le compte au rang de vos amis.
 -*who_alexandre
 C'est un rang où Porus n'a plus droit de prétendre,
 Il a trop recherché la haine d'Alexandre.
-Il sait bien qu'à regret je m'y suis résolu ;
+Il sait bien qu'à regret je m'y suis résolu ;
 Mais enfin je le hais autant qu'il l'a voulu.
 Je dois même un exemple au reste de la terre.
-Je dois venger sur lui tous les maux de la guerre ;
+Je dois venger sur lui tous les maux de la guerre ;
 Le punir des malheurs qu'il a pu prévenir,
 Et de m'avoir forcé moi-même à le punir.
 Vaincu deux fois, haï de ma belle princesse...
@@ -1668,22 +1668,22 @@ Qu'on le crût digne au moins de tomber sous vos coups,
 Et qu'un même combat signalant l'un et l'autre,
 Son nom volât partout à la suite du vôtre.
 Mais si je le défends, des soins si généreux
-Retombent sur mon frère et détruisent ses vœux.
-Tant que Porus vivra, que faut-il qu'il devienne ?
+Retombent sur mon frère et détruisent ses voeux.
+Tant que Porus vivra, que faut-il qu'il devienne ?
 Sa perte est infaillible, et peut-être la mienne.
 Oui, oui, si son amour ne peut rien obtenir,
 Il m'en rendra coupable et m'en voudra punir.
-Et maintenant encor, que votre cœur s'apprête
+Et maintenant encor, que votre coeur s'apprête
 À voler de nouveau de conquête en conquête,
 Quand je verrai le Gange entre mon frère et vous,
-Qui retiendra, Seigneur, son injuste courroux ?
+Qui retiendra, Seigneur, son injuste courroux ?
 Mon âme loin de vous languira solitaire.
-Hélas ! s'il condamnait mes soupirs à se taire,
-Que deviendrait alors ce cœur infortuné ?
-Où sera le vainqueur à qui je l'ai donné ?
+Hélas ! S'il condamnait mes soupirs à se taire,
+Que deviendrait alors ce coeur infortuné ?
+Où sera le vainqueur à qui je l'ai donné ?
 
 -*who_alexandre
-Ah c'en est trop, Madame, et si ce cœur se donne,
+Ah c'en est trop, Madame, et si ce coeur se donne,
 Je saurai le garder, quoi que Taxile ordonne,
 Bien mieux que tant d'États, qu'on m'a vu conquérir
 Et que je n'ai gardés que pour vous les offrir.
@@ -1694,15 +1694,15 @@ Le destin d'Alexandre et celui des humains.
 Le Malien m'attend prêt à me rendre hommage.
 Si près de l'océan que faut-il davantage
 Que d'aller me montrer à ce fier élément,
-Comme vainqueur du monde, et comme votre amant ?
+Comme vainqueur du monde, et comme votre amant ?
 Alors...
 
 -*who_cleofile
-      Mais quoi, Seigneur, toujours guerre sur guerre ?
-Cherchez-vous des sujets au-delà de la terre ?
+      Mais quoi, Seigneur, toujours guerre sur guerre ?
+Cherchez-vous des sujets au-delà de la terre ?
 Voulez-vous pour témoins de vos faits éclatants
-Des pays inconnus même à leurs habitants ?
-Qu'espérez-vous combattre en des climats si rudes ?
+Des pays inconnus même à leurs habitants ?
+Qu'espérez-vous combattre en des climats si rudes ?
 Ils vous opposeront de vastes solitudes,
 Des déserts que le ciel refuse d'éclairer,
 Où la nature semble elle-même expirer.
@@ -1711,14 +1711,14 @@ N'a pu cacher le cours d'une si belle vie,
 Vous attend dans ces lieux, et veut que dans l'oubli
 Votre tombeau du moins demeure enseveli.
 Pensez-vous y traîner les restes d'une armée,
-Vingt fois renouvelée, et vingt fois consumée ?
+Vingt fois renouvelée, et vingt fois consumée ?
 Vos soldats dont la vue excite la pitié,
 D'eux-mêmes en cent lieux ont laissé la moitié.
 Et leurs gémissements vous font assez connaître...
 
 -*who_alexandre
 Ils marcheront, Madame, et je n'ai qu'à paraître.
-Ces cœurs qui dans un camp d'un vain loisir déçus
+Ces coeurs qui dans un camp d'un vain loisir déçus
 Comptent en murmurant les coups qu'ils ont reçus,
 Revivront pour me suivre, et blâmant leurs murmures,
 Brigueront à mes yeux de nouvelles blessures.
@@ -1729,22 +1729,22 @@ Je vous l'ai dit, Madame, et j'ose encor vous dire...
 -*who_cleofile
 Seigneur, voici la reine.
 
-**** *book_ *id_V02 *act_V *date_1665
+**** *book_ *id_V02 *act_V *date_1697
 
 -*who_alexandre
-      Hé bien ! Porus respire.
+      Hé bien ! Porus respire.
 Le ciel semble, Madame, écouter vos souhaits,
 Il vous le rend...
 
 -*who_axiane
-      Hélas ! il me l'ôte à jamais !
+      Hélas ! Il me l'ôte à jamais !
 Aucun reste d'espoir ne peut flatter ma peine,
 Sa mort était douteuse, elle devient certaine,
 Il y court. Et peut-être il ne s'y vient offrir
 Que pour me voir encore, et pour me secourir.
-Mais que ferait-il seul contre toute une armée ?
+Mais que ferait-il seul contre toute une armée ?
 En vain ses grands efforts l'ont d'abord alarmée.
-En vain quelques guerriers qu'anime son grand cœur
+En vain quelques guerriers qu'anime son grand coeur
 Ont ramené l'effroi dans le camp du vainqueur.
 Il faut bien qu'il succombe, et qu'enfin son courage
 Tombe sur tant de morts qui ferment son passage.
@@ -1761,10 +1761,10 @@ Son retour va bientôt contenter votre envie.
 Vous le verrez.
 
 -*who_axiane
-      Vos soins s'étendraient jusqu'à lui ?
-Le bras qui l'accablait deviendrait son appui ?
-J'attendrais son salut de la main d'Alexandre ?
-Mais quel miracle enfin n'en dois-je point attendre ?
+      Vos soins s'étendraient jusqu'à lui ?
+Le bras qui l'accablait deviendrait son appui ?
+J'attendrais son salut de la main d'Alexandre ?
+Mais quel miracle enfin n'en dois-je point attendre ?
 Je m'en souviens, Seigneur, vous me l'avez promis
 Qu'Alexandre vainqueur n'avait plus d'ennemis.
 Ou plutôt ce guerrier ne fut jamais le vôtre.
@@ -1783,13 +1783,13 @@ Seul il peut à son choix le perdre ou l'épargner,
 Et c'est lui seul enfin que vous devez gagner.
 
 -*who_axiane
-Moi, j'irais à ses pieds mendier un asile ?
-Et vous me renvoyez aux bontés de Taxile ?
-Vous voulez que Porus cherche un appui si bas ?
+Moi, j'irais à ses pieds mendier un asile ?
+Et vous me renvoyez aux bontés de Taxile ?
+Vous voulez que Porus cherche un appui si bas ?
 Ah, Seigneur, votre haine a juré son trépas.
 Non, vous ne le cherchiez qu'afin de le détruire.
-Qu'une âme généreuse est facile à séduire !
-Déjà mon cœur crédule oubliant son courroux
+Qu'une âme généreuse est facile à séduire !
+Déjà mon coeur crédule oubliant son courroux
 Admirait des vertus qui ne sont point en vous.
 Armez-vous donc, Seigneur, d'une valeur cruelle.
 Ensanglantez la fin d'une course si belle.
@@ -1804,11 +1804,11 @@ Mais enfin s'il périt n'en accusez que vous.
 Le voici. Je veux bien le consulter lui-même.
 Que Porus de son sort soit l'arbitre suprême.
 
-**** *book_ *id_V03 *act_V *date_1665
+**** *book_ *id_V03 *act_V *date_1697
 
 -*who_alexandre
 Hé bien de votre orgueil, Porus, voilà le fruit.
-Où sont ces beaux succès qui vous avaient séduit ?
+Où sont ces beaux succès qui vous avaient séduit ?
 Cette fierté si haute est enfin abaissée.
 Je dois une victime à ma gloire offensée.
 Rien ne vous peut sauver. Je veux bien toutefois
@@ -1821,7 +1821,7 @@ N'achetez point si cher une gloire inutile.
 Vivez. Mais consentez au bonheur de Taxile.
 
 -*who_porus
-Taxile ?
+Taxile ?
 
 -*who_alexandre
       Oui.
@@ -1830,17 +1830,17 @@ Taxile ?
       Tu fais bien. Et j'approuve tes soins.
 Ce qu'il a fait pour toi ne mérite pas moins.
 C'est lui qui m'a des mains arraché la victoire.
-Il t'a donné sa sœur. Il t'a vendu sa gloire.
+Il t'a donné sa soeur. Il t'a vendu sa gloire.
 Il t'a livré Porus. Que feras-tu jamais
-Qui te puisse acquitter d'un seul de ses bienfaits ?
+Qui te puisse acquitter d'un seul de ses bienfaits ?
 Mais j'ai su prévenir le soin qui te travaille.
 Va le voir expirer sur le champ de bataille.
 
 -*who_alexandre
-Quoi Taxile ?
+Quoi Taxile ?
 
 -*who_cleofile
-      Qu'entends-je ?
+      Qu'entends-je ?
 
 -*who_ephestion
       Oui, Seigneur, il est mort,
@@ -1861,9 +1861,9 @@ C'en est fait, a-t-il dit, et ta perte est certaine,
 Porus, il faut périr ou me céder la reine. »
 Porus à cette voix ranimant son courroux,
 A relevé ce bras lassé de tant de coups.
-Et cherchant son rival d'un œil fier et tranquille,
+Et cherchant son rival d'un oeil fier et tranquille,
 « N'entends-je pas, dit-il, l'infidèle Taxile
-Ce traître à sa patrie, à sa maîtresse, à moi ?
+Ce traître à sa patrie, à sa maîtresse, à moi ?
 Viens lâche, poursuit-il, Axiane est à toi.
 Je veux bien te céder cette illustre conquête,
 Mais il faut que ton bras l'emporte avec ma tête.
@@ -1871,7 +1871,7 @@ Approche. » À ce discours ces rivaux irrités
 L'un sur l'autre à la fois se sont précipités.
 Nous nous sommes en foule opposés à leur rage.
 Mais Porus parmi nous court et s'ouvre un passage,
-Joint Taxile, le frappe et lui perçant le cœur,
+Joint Taxile, le frappe et lui perçant le coeur,
 Content de sa victoire, il se rend au vainqueur.
 
 -*who_cleofile
@@ -1879,10 +1879,10 @@ Seigneur, c'est donc à moi de répandre des larmes.
 C'est sur moi qu'est tombé tout le faix de vos armes.
 Mon frère a vainement recherché votre appui,
 Et votre gloire, hélas, n'est funeste qu'à lui.
-Que lui sert au tombeau l'amitié d'Alexandre ?
-Sans le venger, Seigneur, l'y verrez-vous descendre ?
+Que lui sert au tombeau l'amitié d'Alexandre ?
+Sans le venger, Seigneur, l'y verrez-vous descendre ?
 Souffrirez-vous qu'après l'avoir percé de coups,
-On en triomphe aux yeux de sa sœur et de vous ?
+On en triomphe aux yeux de sa soeur et de vous ?
 
 -*who_axiane
 Oui, Seigneur, écoutez les pleurs de Cléofile.
@@ -1891,15 +1891,15 @@ Tous ses efforts en vain l'ont voulu conserver,
 Elle en a fait un lâche, et ne l'a pu sauver.
 Ce n'est point que Porus ait attaqué son frère.
 Il s'est offert lui-même à sa juste colère.
-Au milieu du combat que venait-il chercher ?
-Au courroux du vainqueur venait-il l'arracher ?
+Au milieu du combat que venait-il chercher ?
+Au courroux du vainqueur venait-il l'arracher ?
 Il venait accabler, dans son malheur extrême,
 Un roi que respectait la Victoire elle-même.
-Mais pourquoi vous ôter un prétexte si beau ?
-Que voulez-vous de plus ? Taxile est au tombeau.
+Mais pourquoi vous ôter un prétexte si beau ?
+Que voulez-vous de plus ? Taxile est au tombeau.
 Immolez-lui, Seigneur, cette grande victime.
 Vengez-vous. Mais songez que j'ai part à son crime.
-Oui, oui, Porus, mon cœur n'aime point à demi,
+Oui, oui, Porus, mon coeur n'aime point à demi,
 Alexandre le sait, Taxile en a gémi.
 Vous seul vous l'ignoriez. Mais ma joie est extrême,
 De pouvoir en mourant vous le dire à vous-même.
@@ -1907,13 +1907,13 @@ De pouvoir en mourant vous le dire à vous-même.
 -*who_porus
 Alexandre, il est temps que tu sois satisfait.
 Tout vaincu que j'étais tu vois ce que j'ai fait.
-Crains Porus ; crains encor cette main désarmée,
+Crains Porus ; crains encor cette main désarmée,
 Qui venge sa défaite au milieu d'une armée.
 Mon nom peut soulever de nouveaux ennemis,
 Et réveiller cent rois dans leurs fers endormis.
 Étouffe dans mon sang ces semences de guerre,
 Va vaincre en sûreté le reste de la terre.
-Aussi bien n'attends pas qu'un cœur comme le mien
+Aussi bien n'attends pas qu'un coeur comme le mien
 Reconnaisse un vainqueur, et te demande rien.
 Parle, et sans espérer que je blesse ma gloire,
 Voyons comme tu sais user de la victoire.
@@ -1924,7 +1924,7 @@ Jusqu'au dernier soupir vous m'osez menacer.
 En effet ma victoire en doit être alarmée.
 Votre nom peut encor plus que toute une armée.
 Je m'en dois garantir. Parlez donc. Dites-moi,
-Comment prétendez-vous que je vous traite ?
+Comment prétendez-vous que je vous traite ?
 
 -*who_porus
       En roi.
@@ -1940,7 +1940,7 @@ Vivez, régnez tous deux, et seuls de tant de rois
 Jusques aux bords du Gange allez donner vos lois.
 Ce traitement, Madame, a droit de vous surprendre.
 Mais enfin, c'est ainsi que se venge Alexandre.
-Je vous aime, et mon cœur touché de vos soupirs
+Je vous aime, et mon coeur touché de vos soupirs
 Voudrait par mille morts venger vos déplaisirs.
 Mais vous-même pourriez prendre pour une offense
 La mort d'un ennemi qui n'est plus en défense.
@@ -1951,13 +1951,13 @@ J'apporte à vos beaux yeux ma vertu toute entière.
 Laissez régner Porus couronné par mes mains.
 Et commandez vous-même au reste des humains.
 Prenez les sentiments que ce rang vous inspire,
-Faites dans sa naissance admirer votre empire ;
+Faites dans sa naissance admirer votre empire ;
 Et regardant l'éclat qui se répand sur vous,
-De la sœur de Taxile oubliez le courroux.
+De la soeur de Taxile oubliez le courroux.
 
 -*who_axiane
 Oui, Madame, régnez, et souffrez que moi-même
-J'admire le grand cœur d'un héros qui vous aime.
+J'admire le grand coeur d'un héros qui vous aime.
 Aimez, et possédez l'avantage charmant
 De voir toute la terre adorer votre amant.
 
@@ -1974,7 +1974,7 @@ Je vous suis, et je crois devoir tout entreprendre
 Pour lui donner un maître aussi grand qu'Alexandre.
 
 -*who_cleofile
-Seigneur, que vous peut dire un cœur triste, abattu ?
+Seigneur, que vous peut dire un coeur triste, abattu ?
 Je ne murmure point contre votre vertu.
 Vous rendez à Porus la vie et la couronne,
 Je veux croire qu'ainsi votre gloire l'ordonne,

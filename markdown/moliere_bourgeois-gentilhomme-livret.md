@@ -546,8 +546,7 @@ Italiens.
 Une Musicienne Italienne fait le premier récit, dont voici les paroles.
 
 
-     LA MUSICIENNE ITALIENNE.   
- MADEMOISELLE HILAIRE.
+    LA MUSICIENNE ITALIENNE. MADEMOISELLE HILAIRE.
 
 Di rigori armata il seno  
 Contro amor mi ribellai,  
@@ -579,8 +578,7 @@ Le Seigneur Dominique.
 Un Musicien Italien se joint à Mademoiselle Hilaire, et chante avec elle les paroles qui suivent.
 
 
-    LE MUSICIEN ITALIEN.   
-MONSIEUR GAYE
+    LE MUSICIEN ITALIEN. MONSIEUR GAYE
 Bel tempo che vola  
 Rapiscé il contento,  
 D'amor ne la scola  

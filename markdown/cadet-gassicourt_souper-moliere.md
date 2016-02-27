@@ -1,5 +1,5 @@
 ---
-identifier: cadet-de-gassicourt_souper  
+identifier: cadet-gassicourt_souper-moliere  
 creator: Cadet de Gassicourt, Charles-Louis  
 date: 1795  
 title: Le Souper de Molière, ou La Soirée d'Auteuil. Fait historique en un acte, mêlé de vaudevilles.  
@@ -927,7 +927,7 @@ Les CC. Et Cnes.
  – MATHURIN,père de Madelon.Jourdan.
  – UN TABELLION⁎.
  – VILLAGEOIS D'AUTEUIL.
-La Scène se passe à Auteuil. [388]                            
+La Scène se passe à Auteuil. [388]
 
 
 
@@ -947,7 +947,7 @@ ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n'ai pas plus 
 Pourquoi me faire languir ; par pitié dites-moi si je puis espérer d'obtenir ma chère Madelon.
 
      LAFOREST.
-Je vois bien qu'il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j'en ai la parole ; mais il faut te le dire : j'ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l'escarcelle⁎, et de payer la dot de Madelon, ma foi je n'obtenois rien.                                
+Je vois bien qu'il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j'en ai la parole ; mais il faut te le dire : j'ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l'escarcelle⁎, et de payer la dot de Madelon, ma foi je n'obtenois rien.
 
     ANTOINE.
 De payer la dot de Madelon ? Quel bienfait ! Allez, allez, mamzelle [389] Laforest, je l'en remercierai bien, ce bon M. Molière... Madelon aussi... Si bien donc que son père ne voulait pas...
@@ -977,7 +977,7 @@ AIR : *Du haut en bas.*
 Tiens, c'est un fait :  
 Veut-on savoir ce qu'est un maître,  
 Par son valet  
-On juge, dit-on, ce qu'il est.       
+On juge, dit-on, ce qu'il est.  
 Or moi qui pense m'y connaître,  
 Je crois qu'on juge par ton maître  
 De son valet.  
@@ -1019,7 +1019,7 @@ Vous dites cela... parce qu'il vous consulte.
 Voici M. Mignard et M. Lulli ; je m'en rapporte à eux.
 
     ANTOINE.
-Soit, je le veux bien.                                 
+Soit, je le veux bien.
 
 
 ### SCENE II.
@@ -1054,7 +1054,7 @@ Et sur la scène comique
 Molière n'a point d'égal.  
 
     LAFOREST.
-Eh bien ! nous voilà d'accord.                             
+Eh bien ! nous voilà d'accord.
 
     ANTOINE.
 Je vais voir Madelon, et nous reviendrons ensemble remercier votre maître... Sans adieu.
@@ -1115,7 +1115,7 @@ AIR : *Vaudeville des Chasseurs.*
 Il me dictait une ordonnance  
 Près du lit d'un vieux moribond ;  
 Il nommait cent drogues [411], je pense,  
-Afin de paraître profond.       
+Afin de paraître profond.  
 Quand il eut assez fait parade  
 De ses grands mots, de son savoir,  
 Il prend mon papier pour le voir...  
@@ -1156,7 +1156,7 @@ Même air.
 Oui, mes amis, je l'avouerai :  
 Voyez jusqu'où la peur nous mène ;  
 A mon confesseur je livrai  
-Mon opéra de Polixène [412] :       
+Mon opéra de Polixène [412] :  
 Me croyant certain de mourir,  
 Je craignais de paraître impie ;  
 (Il tire un cahier de sa poche.)
@@ -1192,7 +1192,7 @@ Ainsi donc, dans tous les temps, malade ou non, Molière fait toujours des maria
 Oui ; mais celui-ci ne ressemble pas aux autres.
 AIR : *Ainsi jadis un grand prophête.*  
 A ses amans, sur le théâtre,  
-Pour dot il donne de l'esprit,       
+Pour dot il donne de l'esprit,  
 Et de son talent idolâtre  
 L'esprit du public applaudit ;  
 Mais quand sa rare [415] bienveillance  
@@ -1226,7 +1226,7 @@ C'est aujourd'hui le jour du bonheur !...
 Oui. J'venons en témoigner notre reconnaissance à qui nous l'devons.
 
     LULLI.
-Et lui présenter des fleurs, tribut ordinaire d'un jardinier.             
+Et lui présenter des fleurs, tribut ordinaire d'un jardinier.
 
     ANTOINE. 
 Dites mieux, M. Lulli.
@@ -1261,7 +1261,7 @@ Oh ! non : Dieu nous garde de le troubler ! Un homme qui fait tant de bien qu
 Antoine est digne d'un bienfait, puisqu'il sait le sentir. Qu'il serait à souhaiter que tout le monde connût Molière comme nous le connoissons.
 
     LAFOREST.
-Eh ! comment voulez-vous qu'on le connaisse ? On invente tant de choses contre lui.     
+Eh ! comment voulez-vous qu'on le connaisse ? On invente tant de choses contre lui.
 AIR : *Vaudeville de l'Officier de fortune.*  
 L'un prétend qu'il n'a pas de mérite,  
 L'autre dit qu'il a d'mauvaises mœurs,  
@@ -1288,7 +1288,7 @@ Que de générosité !
 Quelle sublime leçon !
 
     LAFOREST.
-Vous ne savez que cela, M. Lulli ? Bon ! Le lendemain ce fut bien autre chose. Un jeune homme de 19 [425] ans, nommé Racine, avait remis à Molière un poëme pour avoir son avis. L'ouvrage était mauvais... Il me l'a lu. -- Mais Molière vit que le jeune homme pouvait mieux faire... Aussi, en rendant le poëme, il y cacha cent louis [426], et le plan d'une tragédie. [427]                                 
+Vous ne savez que cela, M. Lulli ? Bon ! Le lendemain ce fut bien autre chose. Un jeune homme de 19 [425] ans, nommé Racine, avait remis à Molière un poëme pour avoir son avis. L'ouvrage était mauvais... Il me l'a lu. -- Mais Molière vit que le jeune homme pouvait mieux faire... Aussi, en rendant le poëme, il y cacha cent louis [426], et le plan d'une tragédie. [427]
 
     MIGNARD. 
 Si Racine est célèbre un jour, et cela pourrait bien être, il se rappellera sans doute que c'est à Molière qu'il doit ses premiers encouragemens.
@@ -1329,7 +1329,7 @@ Ses yeux sont pleins d'esprit.
 C'est lui ! c'est lui ! vraiment c'est bien lui-même !
 
     LULLI.
-Il n'y a rien à désirer ; vérité, chaleur, dessin pur... Mignard ! tu me prouves par-là qu'on ne devrait donner qu'au vrai talent le droit de peindre le génie.     
+Il n'y a rien à désirer ; vérité, chaleur, dessin pur... Mignard ! tu me prouves par-là qu'on ne devrait donner qu'au vrai talent le droit de peindre le génie.
 
     LAFOREST. 
 On dirait qu'il va parler.
@@ -1363,7 +1363,7 @@ Couvrons des plus aimables fleurs,
 Ornons son image chérie :  
 Puisse le sort, par ses faveurs,  
 En répandre ainsi sur sa vie.  
-(Pendant le couplet, Molière, en robe de chambre, entre en rêvant. Il s'arrête dans le fond du théâtre, et contemple cette scène avec sensibilité [429].)                        
+(Pendant le couplet, Molière, en robe de chambre, entre en rêvant. Il s'arrête dans le fond du théâtre, et contemple cette scène avec sensibilité [429].)
 
 
 
@@ -1394,7 +1394,7 @@ Qu'amour fait plus d'une chose
 Qu'il aime à faire deux fois.  
 
     ANTOINE, *à Molière.*
-Votre présence sera bien agréable pour nous.                     
+Votre présence sera bien agréable pour nous.
 
     MOLIERE. 
 J'espère bien aussi présider à votre noce ; mais, mon ami, ne compte pas sur moi pour l'église.
@@ -1433,7 +1433,7 @@ Nous saurons bien nous venger d'eux.
 Donnons toujours, donnons l'exemple,  
 Bientôt, plus aimés, mieux connus,  
 Nous ferons du théâtre un temple  
-Et de talens et de vertus.       
+Et de talens et de vertus.  
 
     ANTOINE. 
 Ce n'est pas Dieu, je le vois bien, ce sont les prêtres qui repoussent les comédiens.
@@ -1456,7 +1456,7 @@ MOLIERE, MIGNARD, LULLI, LAFOREST.
 MES bons amis, vous n'êtes guères curieux ; vous savez que je reçois du monde ce soir, et vous ne me demandez pas les noms des convives !... Remerciez-moi. J'ai écrit à Chapelle, à Lafontaine, et ils viendront souper avec nous. Il y a long-temps que nous ne nous somme réunis, et je veux, puisque je suis un peu rétabli, égayer notre soirée. Boileau viendra, je crois, aussi, quoiqu'il ne me l'ait pas assuré. (*à Laforest*.) Et toi ; songes [431] à nous bien traiter.
 
      LAFOREST.
-Vous voulez faire grande chère⁎ ?                         
+Vous voulez faire grande chère⁎ ?
 
     MOLIERE. 
 Sans doute.
@@ -1494,7 +1494,7 @@ C'est ainsi que Molière tire parti de tout, et fait des habits à toutes les ta
 Cela n'est pas étonnant, il est fils d'un tailleur [435].
 
     MOLIERE.
-Ah !... Lulli ! trève pour les pointes⁎,... jusqu'au dessert.             
+Ah !... Lulli ! trève pour les pointes⁎,... jusqu'au dessert.
 
     LAFOREST. 
 Je vois bien que le souper aura lieu, au moins promettez-moi que vous ne prendrez que du lait.
@@ -1522,7 +1522,7 @@ MOLIERE, LAFOREST, MIGNARD.
 
 
     MOLIERE,*s'approchant de son bureau.*
-COMBIEN j'ai de choses en arrière [436] ! ... Voici des lettres que je n'ai pas encore lues... Voyons... De la Thorillière [437] ? Que me mande-t-il ? Un nouveau succès... Bravo !... Ecoutez, écoutez... voici du comique. *Je te préviens, mon ami, que les Poquelins* [438], *pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.*            
+COMBIEN j'ai de choses en arrière [436] ! ... Voici des lettres que je n'ai pas encore lues... Voyons... De la Thorillière [437] ? Que me mande-t-il ? Un nouveau succès... Bravo !... Ecoutez, écoutez... voici du comique. *Je te préviens, mon ami, que les Poquelins* [438], *pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.*
 
     MIGNARD. 
 Bon ! Quelle sottise !
@@ -1552,7 +1552,7 @@ Je ne travaille que pour cela. -- Je crois que j'aurai le tems avant le souper d
 
     LAFOREST.
 Le moyen ! [442]⁎ vous me faites toujours rire.
-(Elle s'assied.)                                     
+(Elle s'assied.)
 
 
     MOLIERE,*tenant un cahier.*
@@ -1582,7 +1582,7 @@ BOILEAU, MIGNARD, MOLIERE, (un instant après) CHAPELLE.
 TU viens de bonne heure, et c'est me faire plaisir : on m'avait fait craindre de ne pas te voir ce soir.
 
      BOILEAU.
-Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.                
+Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.
 
     MOLIERE, *avec gaité.* 
 Ne dirait-on pas à tes regrets que c'est la journée de Titus [444] ! Va, mon pauvre Despreaux, Chapelle et Lulli sauront dissiper tes sombres idées.
@@ -1614,7 +1614,7 @@ AIR : *Vaudeville des Visitandines.*
 Pour soustraire au vent, à l'orage,  
 Un moraliste aussi parfait,  
 Mon amitié prudente et sage  
-L'abrita dans un cabaret⁎ [445].       
+L'abrita dans un cabaret⁎ [445].  
 Là, son énergique éloquence  
 Contre le vin se déchaîna,  
 Et puis enfin il s'enivra  
@@ -1648,7 +1648,7 @@ Je ne vois, mon cher Despreaux, qu'un seul moyen de le punir ; c'est de l'enivr
 J'accepte la revanche. Mais à propos, savez-vous bien que j'ai refusé pour vous la plus belle fête ! un souper délicieux, offert par un prince.
 
      MOLIERE.
-Et tu nous as préféré ? [451]                             
+Et tu nous as préféré ? [451]
 
     CHAPELLE. 
 Je choisis toujours le meilleur, mon ami ; tiens, vois la réponse que j'ai faite.
@@ -1687,7 +1687,7 @@ Le trait⁎ est hardi... mais il est juste.
 Il blessera, j'en suis sûr, et il faut avoir des ménagemens [452] avec les grands.
 
     BOILEAU.
-Combien peu de ces hommes si grands, seront un jour de grands hommes ! Chapelle a bien fait, cela me racommode avec lui. **                    
+Combien peu de ces hommes si grands, seront un jour de grands hommes ! Chapelle a bien fait, cela me racommode avec lui. **
 
     CHAPELLE. 
 Lorsque la réunion des Auteurs s'intitule la *République des Lettres* [453], c'est pour que tous soient libres d'écrire ce qu'ils pensent.
@@ -1721,7 +1721,7 @@ Il a quelque grande affaire ?
 Oui, un renard, une fourmi l'occupe [454].
 
     MOLIERE, *à part.*
-Le grand homme !                                 
+Le grand homme !
 
      CHAPELLE. 
 AIR : *De la Baronne.*  
@@ -1760,7 +1760,7 @@ Rien n'est plus rare que la chose. [455]
 Mais cela est bon... fort bon.
 
      LA FONTAINE, *naïvement.*
-Je le crois.                                     
+Je le crois.
 
     MOLIERE. 
 Je te sais gré d'avoir pensé à nous en faisant cet apologue [456].
@@ -1791,7 +1791,7 @@ Par la galiote⁎.
 Comment la galiote ?
 
     LA FONTAINE.
-Oui.                                         
+Oui.
 
     CHAPELLE.
 Mais elle passe ici vers midi, et tu n'es arrivé qu'à sept heures.
@@ -1820,7 +1820,7 @@ Comme quand tu vas à l'Académie.
 Tout cela est fort bien ; mais, pour me dédommager de ma course, il nous récitera un de ses contes.
 
      MOLIERE.
-Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.         
+Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.
 
 
 ### SCENE XI.
@@ -1859,7 +1859,7 @@ Eh bien ! de tous les deux.
 Quand il vous plaira.
 
     MOLIERE.
-Allons, mes amis, à table.                             
+Allons, mes amis, à table.
 
     CHAPELLE. 
 Laforest, mets le vin près de Despreaux ; c'est lui qui doit m'enivrer ce soir.
@@ -1898,7 +1898,7 @@ AIR : *Une fille est un oiseau.*
 Au milieu de l'univers,  
 Sur un mont, dit notre maître,  
 Les auteurs vont pour connaître  
-Quel est le prix de leurs vers.       
+Quel est le prix de leurs vers.  
 Ce mont s'appelle... *Parnasse.*  
 Chacun y cherche une place ;  
 Mais souvent, quoi que l'on fasse,  
@@ -1943,7 +1943,7 @@ Oui.
 Soit. Avec tous ses agrémens [465] ?
 (Il prélude du ton le plus faux, et dit, comme un chanteur public:)
 
-Approchez-vous ? C'est une chanson nouvelle, faite par un écrivain [466]... qui est auteur... littéraire... et qui fait des airs... en couplets... lyriques.                 
+Approchez-vous ? C'est une chanson nouvelle, faite par un écrivain [466]... qui est auteur... littéraire... et qui fait des airs... en couplets... lyriques.
 Attention ! Vous allez voir comme quoi une fille doit toujours être sur ses gardes.
 Sur la fin de l'automne
 Vint un rusé vieillard :
@@ -1967,7 +1967,7 @@ Ce choix pour une fille
 Est un grand embarras :
 La plus sage grapille,
 Et ne vendange pas.
-(Ils rient tous.)                                 
+(Ils rient tous.)
 
 
     LA FONTAINE.
@@ -1995,7 +1995,7 @@ Il y a des momens de folie où l'on maudit son existence.
 Dis plutôt des momens de raison ; car c'est quand le vin me fait perdre la mienne, que je puis seulement supporter la vie... (*Il verse à boire*.) Buvons.
 
     BOILEAU,*avec exaltation.*
-Lorsque l'amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs. L'amour enfante la jalousie.     
+Lorsque l'amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs. L'amour enfante la jalousie.
 
      LA FONTAINE. 
 Le vin, l'ivresse.
@@ -2027,7 +2027,7 @@ Bien pis [470] que ça : Je vois la foule entrer dans un temple... je la suis..
 Vous n'y pensez pas avec vos idées sombres... la veille d'une noce !
 
     LA FONTAINE.
-Allons, Molière, tu n'es pas plus heureux qu'un autre.             
+Allons, Molière, tu n'es pas plus heureux qu'un autre.
 
     TOUS. 
 Non... certainement.
@@ -2063,7 +2063,7 @@ Méprisés par des grands.
 Déchirés par les journalistes [475].
 
      MOLIERE, *à part.*
-Que penser des hommes, si les plus sages, les plus éclairés peuvent s'oublier ainsi ?     
+Que penser des hommes, si les plus sages, les plus éclairés peuvent s'oublier ainsi ?
 
     BOILEAU. 
 Il n'y a plus de goût.
@@ -2103,7 +2103,7 @@ Mais parbleu⁎ ! je pense que nous ne sommes pas loin du pont...
 Eh bien ! mes amis,
 Vers ce pont allons en droiture,  
 Et prenons-en tous la mesure  
-Du haut en bas.       
+Du haut en bas.  
 
     TOUS. 
 Bravo ! bravo ! Oui, le pont... du haut en bas.
@@ -2145,7 +2145,7 @@ Toi, plus de Tartuffes.
 Je n'entendrai plus la musique de Colasse ni de Cambert [481].
 
     LA FONTAINE.
-Partons !                                     
+Partons !
 
     MOLIERE, *les arrêtant.* (I)
 Un moment. O mes amis ! que faisons nous ? N'abandonnons point une résolution si belle aux fausses interprétations qu'on peut lui donner. On saura qu'à la suite d'un long souper nous aurons fait le sacrifice de notre existence, et la calomnie, avide de tout dénigrer, répandra le bruit que l'ivresse nous a plus inspirés que la philosophie. Amis, sauvons notre sagesse, attendons le retour prochain du soleil ; alors, aux yeux de tout le monde, nous donnerons cette leçon publique du mépris de la vie.
@@ -2172,7 +2172,7 @@ Sa réflexion est de bon sens : notre sagesse n'en sera que plus éclatante.
 (Il prend deux bouteilles que lui donne Laforest.)
 
 Feignons de prendre part à leurs folies, puisque je ne puis les ramener à la raison.
-(I) Cette tirade est de Voltaire [482]                        
+(I) Cette tirade est de Voltaire [482]
 
     MOLIERE.
 Enfin les voilà tous endormis... Au réveil [483]. On vient : ce sont nos jeunes gens.
@@ -2186,7 +2186,7 @@ Les Convives endormis, ANTOINE, MADELON, MOLIERE.
 TOUT est prêt, nous n'attendons que notre bienfaiteur.
 
     MADELON.
-Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'avons pas voulu qu'on entrât de peur de vous interrompre.                 
+Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'avons pas voulu qu'on entrât de peur de vous interrompre.
 
     MOLIERE. 
 Pourquoi donc ?
@@ -2222,7 +2222,7 @@ C'est un plaisir...
 Nous nous souviendrons toujours...
 
     MOLIERE.
-Cela ne vaut pas...                                 
+Cela ne vaut pas...
 
     ANTOINE. 
 Ah ! croyez que notre cœur...
@@ -2258,7 +2258,7 @@ Vous allez venir avec nous ?
 A l'instant je vous rejoins, je vais passer un habit ; retournez au jardin, et vous rentrerez quand je vous le dirai.
 
     ANTOINE.
-Oh ! de bien bon cœur.                               
+Oh ! de bien bon cœur.  
 
     ANTOINE, MADELON, MATHURIN. 
 AIR : *Frère Jacques.*  
@@ -2296,7 +2296,7 @@ Paix !
 Paix !  
 
      LULLI,*se réveillant.*
-Ah !... Mais où suis-je ? Chapelle, Mignard, Boileau... Ah ! dieu ! j'avais oublié qu'hier... O funeste résolution ! J'étais ivre sans doute... Oui, j'étais ivre, et ce qu'on promet dans l'ivresse... Si je pouvais m'échapper... Quelle lâcheté ! Quel opprobre !... Boileau s'éveille... feignons de dormir encore.                         
+Ah !... Mais où suis-je ? Chapelle, Mignard, Boileau... Ah ! dieu ! j'avais oublié qu'hier... O funeste résolution ! J'étais ivre sans doute... Oui, j'étais ivre, et ce qu'on promet dans l'ivresse... Si je pouvais m'échapper... Quelle lâcheté ! Quel opprobre !... Boileau s'éveille... feignons de dormir encore.
 
     BOILEAU. 
 Combien le soleil enfante de bisarrerie !
@@ -2331,7 +2331,7 @@ Des affaires pour lesquelles je voudrais que Molière... Où donc est-il ?
 Sa santé lui aura fait craindre de veiller.
 
      LA FONTAINE.
-Dans peu de temps sa guérison sera parfaite.                     
+Dans peu de temps sa guérison sera parfaite.
 
     CHAPELLE. 
 Je le crois. (*à part*.) Oh dieu ! la mémoire lui revient-elle ?
@@ -2373,7 +2373,7 @@ Qu'inspire un si doux moment :
 Croyons tous à la promesse  
 Du bonheur qui nous attend.  
 Mes amis, le tems nous presse,  
-Profitons de cet instant.       
+Profitons de cet instant.  
 
     MOLIERE. 
 Allons, plus de retard, remplissons notre engagement : voici tout le village, qui est déjà prévenu, et qui se fait un plaisir de nous accompagner.
@@ -2413,7 +2413,7 @@ La cérémonie !
 Comptez maintenant sur vos amis.
 
     MIGNARD,*montrant Moliere*
-Comme il est content, radieux !                         
+Comme il est content, radieux !
 
     MATHURIN. 
 Il jouit du plaisir de faire une bonne action.
@@ -2492,7 +2492,7 @@ Sitôt que s'offre le plaisir.
 Tel on voit près de sa maîtresse  
 Un amant outré de courroux,  
 Au premier regard de tendresse ;  
-Rire et tomber à ses genoux.       
+Rire et tomber à ses genoux.  
 
     MOLIERE.
 Amis, la véritable gloire  
@@ -2538,7 +2538,7 @@ L'ouvrage était grossier, méritait réprimande,
 Si l'on eût jugé le dessin ;  
 Mais le motif le recommande,  
 Et le peintre applaudit au cœur qui fait l'offrande,  
-Quoique le vrai talent n'ait pas conduit la main.       
+Quoique le vrai talent n'ait pas conduit la main.  
 Dans cette juste allégorie [500],  
 L'auteur de la pièce vous dit :  
 Citoyens, voyez, je vous prie,  
@@ -2547,7 +2547,7 @@ Vous êtes le peintre équitable,
 Molière l'ami regretté ;  
 Je suis l'élève de la fable :  
 Puissai-je être aussi bien traité !  
-FIN.    
+FIN.
 
 
 # Annexes

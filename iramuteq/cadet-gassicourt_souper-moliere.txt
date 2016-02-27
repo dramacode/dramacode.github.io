@@ -6,7 +6,7 @@ PERSONNAGES. ACTEURS.
 
 Les CC. Et Cnes.
 
-**** *book_ *id_body-2-1 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-201 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_laforest
 ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n'ai pas plus de tems qu'il ne m'en faut...
@@ -16,7 +16,7 @@ Pourquoi me faire languir ; par pitié dites-moi si je puis espérer d'obtenir 
 
 -*who_laforest
 Je vois bien qu'il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j'en ai la parole ; mais il faut te le dire : j'ai bien eu de la peine.
-Sans mon maitre, qui a promis de fouiller à l'escarcelle⁎, et de payer la dot de Madelon, ma foi je n'obtenois rien.                                
+Sans mon maitre, qui a promis de fouiller à l'escarcelle⁎, et de payer la dot de Madelon, ma foi je n'obtenois rien.
 
 -*who_antoine
 De payer la dot de Madelon ?
@@ -54,7 +54,7 @@ AIR : Du haut en bas.
 Tiens, c'est un fait :
 Veut-on savoir ce qu'est un maître,
 Par son valet
-On juge, dit-on, ce qu'il est.     
+On juge, dit-on, ce qu'il est.
 Or moi qui pense m'y connaître,
 Je crois qu'on juge par ton maître
 De son valet.
@@ -96,9 +96,9 @@ Vous dites cela... parce qu'il vous consulte.
 Voici M. Mignard et M. Lulli ; je m'en rapporte à eux.
 
 -*who_antoine
-Soit, je le veux bien.                                 
+Soit, je le veux bien.
 
-**** *book_ *id_body-2-2 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-202 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mignard
 ALLONS, mon ami, mettons-nous à l'ouvrage...
@@ -130,13 +130,13 @@ Et sur la scène comique
 Molière n'a point d'égal.
 
 -*who_laforest
-Eh bien ! nous voilà d'accord.                             
+Eh bien ! nous voilà d'accord.
 
 -*who_antoine
 Je vais voir Madelon, et nous reviendrons ensemble remercier votre maître...
 Sans adieu.
 
-**** *book_ *id_body-2-3 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-203 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_lulli
 TE troublerai-je en faisant de la musique ?
@@ -195,7 +195,7 @@ AIR : Vaudeville des Chasseurs.
 Il me dictait une ordonnance
 Près du lit d'un vieux moribond ;
 Il nommait cent drogues, je pense,
-Afin de paraître profond.     
+Afin de paraître profond.
 Quand il eut assez fait parade
 De ses grands mots, de son savoir,
 Il prend mon papier pour le voir...
@@ -236,7 +236,7 @@ Même air.
 Oui, mes amis, je l'avouerai :
 Voyez jusqu'où la peur nous mène ;
 A mon confesseur je livrai
-Mon opéra de Polixène :     
+Mon opéra de Polixène :
 Me croyant certain de mourir,
 Je craignais de paraître impie ;
 Mais espérant bien en guérir,
@@ -274,7 +274,7 @@ Ainsi donc, dans tous les temps, malade ou non, Molière fait toujours des maria
 Oui ; mais celui-ci ne ressemble pas aux autres.
 AIR : Ainsi jadis un grand prophête.
 A ses amans, sur le théâtre,
-Pour dot il donne de l'esprit,     
+Pour dot il donne de l'esprit,
 Et de son talent idolâtre
 L'esprit du public applaudit ;
 Mais quand sa rare bienveillance
@@ -288,7 +288,7 @@ Ne vois-je point les deux futurs ?
 -*who_laforest
 Justement.
 
-**** *book_ *id_body-2-4 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-204 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mignard
 GENTILLE Madelon, recevez mon compliment.
@@ -304,7 +304,7 @@ Oui.
 J'venons en témoigner notre reconnaissance à qui nous l'devons.
 
 -*who_lulli
-Et lui présenter des fleurs, tribut ordinaire d'un jardinier.             
+Et lui présenter des fleurs, tribut ordinaire d'un jardinier.
 
 -*who_antoine
 Dites mieux, M. Lulli.
@@ -342,7 +342,7 @@ Qu'il serait à souhaiter que tout le monde connût Molière comme nous le conno
 
 -*who_laforest
 Eh ! comment voulez-vous qu'on le connaisse ?
-On invente tant de choses contre lui.     
+On invente tant de choses contre lui.
 AIR : Vaudeville de l'Officier de fortune.
 L'un prétend qu'il n'a pas de mérite,
 L'autre dit qu'il a d'mauvaises mœurs,
@@ -376,7 +376,7 @@ Le lendemain ce fut bien autre chose.
 Un jeune homme de 19 ans, nommé Racine, avait remis à Molière un poëme pour avoir son avis.
 L'ouvrage était mauvais...
 Il me l'a lu. -- Mais Molière vit que le jeune homme pouvait mieux faire...
-Aussi, en rendant le poëme, il y cacha cent louis, et le plan d'une tragédie.                                 
+Aussi, en rendant le poëme, il y cacha cent louis, et le plan d'une tragédie.
 
 -*who_mignard
 Si Racine est célèbre un jour, et cela pourrait bien être, il se rappellera sans doute que c'est à Molière qu'il doit ses premiers encouragemens.
@@ -415,7 +415,7 @@ C'est lui ! c'est lui ! vraiment c'est bien lui-même !
 
 -*who_lulli
 Il n'y a rien à désirer ; vérité, chaleur, dessin pur...
-Mignard ! tu me prouves par-là qu'on ne devrait donner qu'au vrai talent le droit de peindre le génie.     
+Mignard ! tu me prouves par-là qu'on ne devrait donner qu'au vrai talent le droit de peindre le génie.
 
 -*who_laforest
 On dirait qu'il va parler.
@@ -447,7 +447,7 @@ Ornons son image chérie :
 Puisse le sort, par ses faveurs,
 En répandre ainsi sur sa vie.
 
-**** *book_ *id_body-2-5 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-205 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 MES amis ! mes enfans ! votre attachement vous égare.
@@ -477,7 +477,7 @@ Qu'amour fait plus d'une chose
 Qu'il aime à faire deux fois.
 
 -*who_antoine
-Votre présence sera bien agréable pour nous.                     
+Votre présence sera bien agréable pour nous.
 
 -*who_moliere
 J'espère bien aussi présider à votre noce ; mais, mon ami, ne compte pas sur moi pour l'église.
@@ -517,7 +517,7 @@ Nous saurons bien nous venger d'eux.
 Donnons toujours, donnons l'exemple,
 Bientôt, plus aimés, mieux connus,
 Nous ferons du théâtre un temple
-Et de talens et de vertus.     
+Et de talens et de vertus.
 
 -*who_antoine
 Ce n'est pas Dieu, je le vois bien, ce sont les prêtres qui repoussent les comédiens.
@@ -531,7 +531,7 @@ Demain la noce se fera ici ; mais ce soir venez me retrouver avec le tabellion�
 Adieu, mes enfans...
 A ce soir.
 
-**** *book_ *id_body-2-6 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-206 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 MES bons amis, vous n'êtes guères curieux ; vous savez que je reçois du monde ce soir, et vous ne me demandez pas les noms des convives !...
@@ -541,7 +541,7 @@ Il y a long-temps que nous ne nous somme réunis, et je veux, puisque je suis un
 Boileau viendra, je crois, aussi, quoiqu'il ne me l'ait pas assuré. (à Laforest.) Et toi ; songes à nous bien traiter.
 
 -*who_laforest
-Vous voulez faire grande chère⁎ ?                         
+Vous voulez faire grande chère⁎ ?
 
 -*who_moliere
 Sans doute.
@@ -580,7 +580,7 @@ Cela n'est pas étonnant, il est fils d'un tailleur.
 
 -*who_moliere
 Ah !...
-Lulli ! trève pour les pointes⁎,... jusqu'au dessert.             
+Lulli ! trève pour les pointes⁎,... jusqu'au dessert.
 
 -*who_laforest
 Je vois bien que le souper aura lieu, au moins promettez-moi que vous ne prendrez que du lait.
@@ -600,7 +600,7 @@ Je le pense avec mes amis.
 -*who_lulli
 Lafontaine viendra sans doute par le bois de Boulogne ; je vais au devant de lui.
 
-**** *book_ *id_body-2-7 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-207 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 COMBIEN j'ai de choses en arrière ! ...
@@ -611,7 +611,7 @@ Que me mande-t-il ?
 Un nouveau succès...
 Bravo !...
 Ecoutez, écoutez... voici du comique.
-Je te préviens, mon ami, que les Poquelins, pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.            
+Je te préviens, mon ami, que les Poquelins, pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.
 
 -*who_mignard
 Bon !
@@ -664,13 +664,13 @@ Ne laissons pas voir un ouvrage qui n'est pas terminé.
 C'est lui, vraiment.
 Vîte, vîte, mettons mon plan à l'ombre ; ce n'est qu'une esquisse.
 
-**** *book_ *id_body-2-8 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-208 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 TU viens de bonne heure, et c'est me faire plaisir : on m'avait fait craindre de ne pas te voir ce soir.
 
 -*who_boileau
-Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.                
+Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.
 
 -*who_moliere
 Ne dirait-on pas à tes regrets que c'est la journée de Titus !
@@ -711,7 +711,7 @@ AIR : Vaudeville des Visitandines.
 Pour soustraire au vent, à l'orage,
 Un moraliste aussi parfait,
 Mon amitié prudente et sage
-L'abrita dans un cabaret⁎.     
+L'abrita dans un cabaret⁎.
 Là, son énergique éloquence
 Contre le vin se déchaîna,
 Et puis enfin il s'enivra
@@ -746,7 +746,7 @@ J'accepte la revanche.
 Mais à propos, savez-vous bien que j'ai refusé pour vous la plus belle fête ! un souper délicieux, offert par un prince.
 
 -*who_moliere
-Et tu nous as préféré ?                             
+Et tu nous as préféré ?
 
 -*who_chapelle
 Je choisis toujours le meilleur, mon ami ; tiens, vois la réponse que j'ai faite.
@@ -785,7 +785,7 @@ Il blessera, j'en suis sûr, et il faut avoir des ménagemens avec les grands.
 
 -*who_boileau
 Combien peu de ces hommes si grands, seront un jour de grands hommes !
-Chapelle a bien fait, cela me racommode avec lui.                     
+Chapelle a bien fait, cela me racommode avec lui.
 
 -*who_chapelle
 Lorsque la réunion des Auteurs s'intitule la République des Lettres, c'est pour que tous soient libres d'écrire ce qu'ils pensent.
@@ -802,7 +802,7 @@ Il ne nous voit pas, j'en suis sûr.
 -*who_moliere
 Taisons-nous.
 
-**** *book_ *id_body-2-9 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-209 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_la_fontaine
 CELA n'est point malheureux, j'arrive au moment où je trouve mes deux derniers vers...
@@ -815,7 +815,7 @@ Il a quelque grande affaire ?
 Oui, un renard, une fourmi l'occupe.
 
 -*who_moliere
-Le grand homme !                                 
+Le grand homme !
 
 -*who_chapelle
 AIR : De la Baronne.
@@ -854,7 +854,7 @@ Rien n'est plus rare que la chose.
 Mais cela est bon... fort bon.
 
 -*who_la_fontaine
-Je le crois.                                     
+Je le crois.
 
 -*who_moliere
 Je te sais gré d'avoir pensé à nous en faisant cet apologue.
@@ -869,7 +869,7 @@ Le bonhomme n'a ni la rusticité d'Esope, ni la recherche de Phèdre ; mais il 
 -*who_moliere
 Messieurs ! messieurs ! le bonhomme ira plus loin que nous.
 
-**** *book_ *id_body-2-10 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-210 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_lulli
 OUF ! je crois, mes amis, qu'il ne faut pas compter sur Lafontaine : il ne... (appercevant Lafontaine.) Par où diable est-il arrivé !
@@ -881,7 +881,7 @@ Par la galiote⁎.
 Comment la galiote ?
 
 -*who_la_fontaine
-Oui.                                         
+Oui.
 
 -*who_chapelle
 Mais elle passe ici vers midi, et tu n'es arrivé qu'à sept heures.
@@ -910,9 +910,9 @@ Comme quand tu vas à l'Académie.
 Tout cela est fort bien ; mais, pour me dédommager de ma course, il nous récitera un de ses contes.
 
 -*who_moliere
-Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.         
+Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.
 
-**** *book_ *id_body-2-11 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-211 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_laforest
 PEUT-on vous servir ?
@@ -946,7 +946,7 @@ Eh bien ! de tous les deux.
 Quand il vous plaira.
 
 -*who_moliere
-Allons, mes amis, à table.                             
+Allons, mes amis, à table.
 
 -*who_chapelle
 Laforest, mets le vin près de Despreaux ; c'est lui qui doit m'enivrer ce soir.
@@ -985,7 +985,7 @@ AIR : Une fille est un oiseau.
 Au milieu de l'univers,
 Sur un mont, dit notre maître,
 Les auteurs vont pour connaître
-Quel est le prix de leurs vers.     
+Quel est le prix de leurs vers.
 Ce mont s'appelle... Parnasse.
 Chacun y cherche une place ;
 Mais souvent, quoi que l'on fasse,
@@ -1026,7 +1026,7 @@ Oui.
 Soit.
 Avec tous ses agrémens ?
 Approchez-vous ?
-C'est une chanson nouvelle, faite par un écrivain... qui est auteur... littéraire... et qui fait des airs... en couplets... lyriques.                 
+C'est une chanson nouvelle, faite par un écrivain... qui est auteur... littéraire... et qui fait des airs... en couplets... lyriques.
 Attention !
 Vous allez voir comme quoi une fille doit toujours être sur ses gardes.
 Sur la fin de l'automne
@@ -1076,7 +1076,7 @@ Dis plutôt des momens de raison ; car c'est quand le vin me fait perdre la mie
 
 -*who_boileau
 Lorsque l'amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs.
-L'amour enfante la jalousie.     
+L'amour enfante la jalousie.
 
 -*who_la_fontaine
 Le vin, l'ivresse.
@@ -1111,7 +1111,7 @@ Bien pis que ça : Je vois la foule entrer dans un temple... je la suis... et c
 Vous n'y pensez pas avec vos idées sombres... la veille d'une noce !
 
 -*who_la_fontaine
-Allons, Molière, tu n'es pas plus heureux qu'un autre.             
+Allons, Molière, tu n'es pas plus heureux qu'un autre.
 
 -*who_la_fontaine_lulli_chapelle_boileau_laforest_moliere
 Non... certainement.
@@ -1148,7 +1148,7 @@ Méprisés par des grands.
 Déchirés par les journalistes.
 
 -*who_moliere
-Que penser des hommes, si les plus sages, les plus éclairés peuvent s'oublier ainsi ?     
+Que penser des hommes, si les plus sages, les plus éclairés peuvent s'oublier ainsi ?
 
 -*who_boileau
 Il n'y a plus de goût.
@@ -1190,7 +1190,7 @@ Mais parbleu⁎ ! je pense que nous ne sommes pas loin du pont...
 Eh bien ! mes amis,
 Vers ce pont allons en droiture,
 Et prenons-en tous la mesure
-Du haut en bas.     
+Du haut en bas.
 
 -*who_la_fontaine_lulli_chapelle_boileau_laforest_moliere
 Bravo ! bravo !
@@ -1231,7 +1231,7 @@ Toi, plus de Tartuffes.
 Je n'entendrai plus la musique de Colasse ni de Cambert.
 
 -*who_la_fontaine
-Partons !                                     
+Partons !
 
 -*who_moliere
 Un moment.
@@ -1259,26 +1259,26 @@ Sa réflexion est de bon sens : notre sagesse n'en sera que plus éclatante.
 
 -*who_moliere
 Feignons de prendre part à leurs folies, puisque je ne puis les ramener à la raison.
-(I) Cette tirade est de Voltaire                        
+(I) Cette tirade est de Voltaire
 
 -*who_moliere
 Enfin les voilà tous endormis...
 Au réveil.
 On vient : ce sont nos jeunes gens.
 
-**** *book_ *id_body-2-12 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-212 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_antoine
 TOUT est prêt, nous n'attendons que notre bienfaiteur.
 
 -*who_madelon
-Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'avons pas voulu qu'on entrât de peur de vous interrompre.                 
+Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'avons pas voulu qu'on entrât de peur de vous interrompre.
 
 -*who_moliere
 Pourquoi donc ?
 Approchez, approchez : oh ne craignez pas de les réveiller ; ils dorment bien.
 
-**** *book_ *id_body-2-13 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-213 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mathurin
 VOILA le contrat de nos enfans ; nous venons vous prier d'y bailler un mot de vot' signature.
@@ -1297,7 +1297,7 @@ C'est un plaisir...
 Nous nous souviendrons toujours...
 
 -*who_moliere
-Cela ne vaut pas...                                 
+Cela ne vaut pas...
 
 -*who_antoine
 Ah ! croyez que notre cœur...
@@ -1332,7 +1332,7 @@ Vous allez venir avec nous ?
 A l'instant je vous rejoins, je vais passer un habit ; retournez au jardin, et vous rentrerez quand je vous le dirai.
 
 -*who_antoine
-Oh ! de bien bon cœur.                             
+Oh ! de bien bon cœur.
 
 -*who_antoine
 AIR : Frère Jacques.
@@ -1380,7 +1380,7 @@ Oui, j'étais ivre, et ce qu'on promet dans l'ivresse...
 Si je pouvais m'échapper...
 Quelle lâcheté !
 Quel opprobre !...
-Boileau s'éveille... feignons de dormir encore.                         
+Boileau s'éveille... feignons de dormir encore.
 
 -*who_boileau
 Combien le soleil enfante de bisarrerie !
@@ -1420,7 +1420,7 @@ Où donc est-il ?
 Sa santé lui aura fait craindre de veiller.
 
 -*who_la_fontaine
-Dans peu de temps sa guérison sera parfaite.                     
+Dans peu de temps sa guérison sera parfaite.
 
 -*who_chapelle
 Je le crois. (à part.) Oh dieu ! la mémoire lui revient-elle ?
@@ -1440,7 +1440,7 @@ Ah ! je tremble.
 -*who_mignard
 Je ne sais où j'en suis.
 
-**** *book_ *id_body-2-14 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_body-214 *act_ *date_1795 *creator_cadet_de_gassicourt
 
 -*who_villageois
 AIR : Habitans de ce village.
@@ -1451,7 +1451,7 @@ Qu'inspire un si doux moment :
 Croyons tous à la promesse
 Du bonheur qui nous attend.
 Mes amis, le tems nous presse,
-Profitons de cet instant.     
+Profitons de cet instant.
 
 -*who_moliere
 Allons, plus de retard, remplissons notre engagement : voici tout le village, qui est déjà prévenu, et qui se fait un plaisir de nous accompagner.
@@ -1493,7 +1493,7 @@ La cérémonie !
 Comptez maintenant sur vos amis.
 
 -*who_mignard
-Comme il est content, radieux !                         
+Comme il est content, radieux !
 
 -*who_mathurin
 Il jouit du plaisir de faire une bonne action.
@@ -1574,7 +1574,7 @@ Sitôt que s'offre le plaisir.
 Tel on voit près de sa maîtresse
 Un amant outré de courroux,
 Au premier regard de tendresse ;
-Rire et tomber à ses genoux.     
+Rire et tomber à ses genoux.
 
 -*who_moliere
 Amis, la véritable gloire
@@ -1620,7 +1620,7 @@ L'ouvrage était grossier, méritait réprimande,
 Si l'on eût jugé le dessin ;
 Mais le motif le recommande,
 Et le peintre applaudit au cœur qui fait l'offrande,
-Quoique le vrai talent n'ait pas conduit la main.     
+Quoique le vrai talent n'ait pas conduit la main.
 Dans cette juste allégorie,
 L'auteur de la pièce vous dit :
 Citoyens, voyez, je vous prie,
@@ -1629,4 +1629,4 @@ Vous êtes le peintre équitable,
 Molière l'ami regretté ;
 Je suis l'élève de la fable :
 Puissai-je être aussi bien traité !
-FIN.    
+FIN.

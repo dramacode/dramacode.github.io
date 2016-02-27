@@ -36,7 +36,7 @@ Je néglige à servir la Muse
 De qui la Comédie emprunte son éclat.
 C'est toy qui fais paroistre avec pompe⁎, avec gloire,
 Sur le Théatre des François,                     
-Ce qu'aux Etrangers quelquefois                        
+Ce qu'aux Etrangers quelquefois
 Le recit qu'on en fait rend difficile à croire.
 
 -*who_thalie
@@ -74,7 +74,7 @@ Ny pompes⁎ de Balets, ny charmes de Musique ?
 
 -*who_le_genie
 Il peut se reposer sur moy                        
-Du soin de ses galantes⁎ Festes ;                         
+Du soin de ses galantes⁎ Festes ;
 Pour plaire à ce qu'il aime, & luy marquer sa foy⁎,
 Il les trouvera toûjours prestes.
 
@@ -105,7 +105,7 @@ Et voir de vostre sein naistre des Instrumens.                
 
 -*who_thalie
 Tu promets moins que tu ne donnes,
-Et ma peine déjà commence à s'adoucir.                    
+Et ma peine déjà commence à s'adoucir.
 Quels Divertissemens⁎, lors que tu les ordonnes,
 Peuvent manquer de réüssir ?
 
@@ -146,7 +146,7 @@ Hé bien, Muse, es-tu satisfaite ?
 Je t'admire, & me tais.
 
 -*who_le_genie
-Après ce que tu vois,
+      Après ce que tu vois,
 Des Festes dont l'Amour me doit laisser le choix,         
 Puis que j'en prens le soin, ne sois plus inquiéte.                
 
@@ -175,16 +175,16 @@ Je le croy, ce n'est pas d'aujourd'huy qu'on publie
 Que les François ont un Génie
 Qui les rend capables de tout.                
 
-**** *book_ *id_body-8-1 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-101 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_le_marquis
 Entrer dans ce Chasteau !
 
 -*who_la_montagne
-Le grand péril !
+      Le grand péril !
 
 -*who_le_marquis
-Je tremble,
+      Je tremble,
 Que quelqu'un ne t'observe, & ne nous voye ensemble.
 
 -*who_la_montagne
@@ -193,13 +193,13 @@ C'est vous qui m'employez ; je conduis tout, suffit,    
 Ne craignez rien.                    
 
 -*who_le_marquis
-On peut remarquer ton visage.             
+      On peut remarquer ton visage.             
 
 -*who_la_montagne
 Et n'en changeay-je pas à chaque Personnage ?
 Quand je suis déguisé, je le donne au plus fin,
 Si me voulant connoistre, il n'y perd son Latin.
-Ne vous inquiétez pour aucun de mes Rôles,                    
+Ne vous inquiétez pour aucun de mes Rôles,
 Je les joüeray d'un air…Mais trève de paroles,                 
 Vous avez par l'effet déjà veu ce que vaut…
 
@@ -216,10 +216,10 @@ Ce sera, s'il vous plaist, Monsieur, sur vostre compte.
 A force de veiller…            
 
 -*who_le_marquis
-Va, j'en répons.
+      Va, j'en répons.
 
 -*who_la_montagne
-Ma foy⁎,        
+      Ma foy⁎,        
 Je suis seûr qu'un Jaloux dormiroit plus que moy.            
 Avoir tout-à-la-fois tant de choses à faire,
 C'est assez pour… Allez, quoyque prompt à vous plaire,     
@@ -240,10 +240,10 @@ Mais tout cela n'est rien, si l'on me fait connoistre.    
 Prens bien garde au secret.
 
 -*who_la_montagne
-Il vous est seûr.        
+      Il vous est seûr.        
 
 -*who_le_marquis
-Comment ?            
+      Comment ?            
 
 -*who_la_montagne
 La plûpart de mes Gens ne parlent qu'Allemand :
@@ -261,13 +261,13 @@ Vous croyez donc qu'icy je sois venu pour rien ?
 Il me faut…
 
 -*who_le_marquis
-Quoy ? Dy viste.                 
+      Quoy ? Dy viste.                 
 
 -*who_la_montagne
-Attendez, c'est…
+      Attendez, c'est…
 
 -*who_le_marquis
-Hé bien !    
+      Hé bien !    
 
 -*who_la_montagne
 Vous m'avez fait songer à ce que je prépare,                 
@@ -277,52 +277,52 @@ Et souvent en courant ma mémoire s'égare.
 Veux-tu que…        
 
 -*who_la_montagne
-Laissez-la, Monsieur, se retrouver,
+      Laissez-la, Monsieur, se retrouver,
 En resvant…
 
 -*who_le_marquis
-Est-ce icy, Bourreau, qu'il faut resver ?
+      Est-ce icy, Bourreau, qu'il faut resver ?
 
 -*who_la_montagne
 La Montre qu'il faudra…Non, je l'ay.
 
 -*who_le_marquis
-Va-t-en, traistre,            
+      Va-t-en, traistre,            
 Tu me perdras⁎.
 
 -*who_la_montagne
-Hé bien Serviteur, mais peut-estre             
+      Hé bien Serviteur, mais peut-estre             
 Quelque chose manquant, vous en aurez regret.
 
 -*who_le_marquis
 Non, sors.
 
 -*who_la_montagne
-Ah je le tiens ; Monsieur, vostre Portrait.
+      Ah je le tiens ; Monsieur, vostre Portrait.
 
 -*who_le_marquis
 Prens & t'éloigne. Quoy, tu reviens ?
 
 -*who_la_montagne
-Autre affaire,
+      Autre affaire,
 J'oubliois de l'argent, c'est le plus necessaire.
 
 -*who_le_marquis
 Voila ma Bourse.
 
 -*who_la_montagne
-Mais…                
+      Mais…                
 
 -*who_le_marquis
-Redoute mon couroux⁎.            
+      Redoute mon couroux⁎.            
 Veux-tu sortir ?
 
 -*who_la_montagne
-Je sors. Combien me donnez-vous ?
+      Je sors. Combien me donnez-vous ?
 J'ay besoin tout-au-moins…
 
 -*who_le_marquis
-Quelqu'un icy s'avance.    
+      Quelqu'un icy s'avance.    
 
 -*who_la_montagne
 Bon, c'est Virgine, elle est de nostre intelligence.
@@ -331,14 +331,14 @@ Bon, c'est Virgine, elle est de nostre intelligence.
 Laisse-moy luy parler, & songe qu'il est temps        
 Qu'à faire ce qu'il faut tu prépares tes Gens.                
 
-**** *book_ *id_body-8-2 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-102 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_le_marquis
 He bien, comment la nuit s'est-elle icy passée ?
 Que fait-on ?                
 
 -*who_virgine
-Ma Maistresse⁎ est fort embarassée ;
+      Ma Maistresse⁎ est fort embarassée ;
 Et ce que l'Inconnu fait pour la régaler,
 Luy donne à tous moments matiere de parler.    
 Olimpe, aussi-bien qu'elle, admire son adresse,    
@@ -366,7 +366,7 @@ Va porter dans un Bois mes ordres chaque nuit.                
 Peut-on mieux assurer un secret ?            
 
 -*who_virgine
-Je l'avouë,    
+      Je l'avouë,    
 Tant de précaution mérite qu'on vous loue :
 Mais vous perdez beaucoup à vous cacher ainsy,
 Déjà pour vous Olimpe a le adoucy,         
@@ -402,7 +402,7 @@ Le secret de son se ménage si bien,
 Qu'avec elle un Amant⁎ n'est jamais seûr de rien :
 Elle veut estre aimée, attire, écoute, engage,        
 Mais le plus avancé n'a pas grand avantage :                
-La presser c'est se rendre indigne de sa foy⁎,              
+La presser c'est se rendre indigne de sa foy⁎,
 Et vingt fois, tu le sçais, elle a dit devant moy,
 Qu'on auroit vers son moins de chemin à faire,
 Plus, sans rien exiger, on feroit pour luy plaire.        
@@ -435,9 +435,9 @@ Me montre un touché de tout ce que je fais.             
 Que t'en dit-elle à toy ? Parle.
 
 -*who_virgine
-Elle en est ravie,
+      Elle en est ravie,
 La gloire fut toûjours le charme de sa vie,
-Plus vos soins font d'éclat, plus elle s'applaudit                    
+Plus vos soins font d'éclat, plus elle s'applaudit
 De ce qu'à son mérite ils donnent de crédit :        
 Ce n'est point par sa flame⁎ une flame⁎ enhardie,            
 Elle reçoit des vœux sans qu'elle les mandie,
@@ -453,10 +453,10 @@ Songez à vous, elle a grand dessein⁎ de vous plaire.
 Souviens-toy seulement de ce que tu dois faire,        
 Je m'en tireray bien.
 
-**** *book_ *id_body-8-3 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-103 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_olimpe
-Vous a-t-on fait sçavoir             
+      Vous a-t-on fait sçavoir             
 Le petit différent que nous venons d'avoir ?
 Je voulois empescher qu'on ne vous fist l'outrage
 De souffrir⁎ avec vous un Rival en partage ;        
@@ -464,12 +464,12 @@ Mais contre l'Inconnu je me déclare en vain,        
 La Comtesse…
 
 -*who_le_marquis
-Eh Madame, à quoy bon ce dessein⁎ ?             
+      Eh Madame, à quoy bon ce dessein⁎ ?             
 Laissons à son panchant liberté toute entiere.
 Pour moy…                
 
 -*who_olimpe
-La complaisance⁎ est un peu singuliere ;    
+      La complaisance⁎ est un peu singuliere ;    
 Un Rival rend des soins, la Comtesse en fait cas…
 
 -*who_le_marquis
@@ -480,11 +480,11 @@ Et s'il faut qu'à l'aimer enfin elle consente ?               �
 Qu'elle l'épouse ?                
 
 -*who_le_marquis
-Hé bien, elle sera contente ?
+      Hé bien, elle sera contente ?
 C'est tout ce que je veux.
 
 -*who_olimpe
-Ah puis qu'il est ainsy,
+      Ah puis qu'il est ainsy,
 Marquis, j'ay tort pour vous de m'en mettre ensoucy.
 Puis que pour l'Inconnu vous avez tant de zele⁎,        
 Pour vous plaire, je vais le servir aupres d'elle.            
@@ -499,11 +499,11 @@ Un mérite aussi-bien étably que le vostre,            
 Peut prétendre beaucoup, &…
 
 -*who_le_marquis
-Je sçay bien aimer,         
+      Je sçay bien aimer,         
 C'est là mon seul mérite.
 
 -*who_olimpe
-On le doit estimer,
+      On le doit estimer,
 Et j'en connois fort peu qui comme la Comtesse        
 Ayant de vostre attiré la tendresse⁎,
 Voulussent consentir au chagrin⁎ sans égal        
@@ -516,10 +516,10 @@ Que j'auray veu remplir mes souhaits les plus doux,
 Si la Comtesse prend l'Inconnu pour Epous.        
 Adieu, Madame.
 
-**** *book_ *id_body-8-4 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-104 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_olimpe
-Il sort, & veut bien que je croye         
+      Il sort, & veut bien que je croye         
 Qu'en perdant la Comtesse il aura de la joye,        
 D'un pareil sentiment que dois-je présumer ?
 Aurois-je sçeu luy plaire ? & pourroit-il m'aimer ?
@@ -528,12 +528,12 @@ Aurois-je sçeu luy plaire ? & pourroit-il m'aimer ?
 Quoy, vous le soufririez⁎ ?
 
 -*who_olimpe
-Qu'il est bien fait, Melisse !    
+      Qu'il est bien fait, Melisse !    
 
 -*who_melisse
 Oüy, mais au Chevalier il faut rendre justice.            
 
-**** *book_ *id_body-8-5 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-105 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Scavez-vous que Dorante arrive icy ce soir ?
@@ -553,7 +553,7 @@ Peuvent prétendre au que tous les deux poursuivent.
 C'est aller un peu loin.
 
 -*who_la_comtesse
-Dequoy vous étonner ?    
+      Dequoy vous étonner ?    
 Pour prétendre à mon , me le font-ils donner ?         
 Croyez-moy, pour n'avoir nul reproche à se faire,
 Il faut de sa conduite éloigner le mistere,
@@ -637,7 +637,7 @@ Briller également & l'Esprit & l'Amour.
 -*who_la_comtesse
 Il faut l'avoüer, l'Inconnu m'embarasse,            
 Ce qu'il ordonne est fait avecque tant de grace,        
-Que je m'en sens touchée, & craindrois de l'aimer,                 
+Que je m'en sens touchée, & craindrois de l'aimer,
 Si je le voyois tel qu'on peut le présumer.
 J'admire chaque jour les détours qu'il employe
 Pour me faire agréer les Bouquets qu'il m'envoye ;
@@ -654,7 +654,7 @@ Par leur prompte retraite augmentent mon soucy.    
 Qui peut les employer ?                    
 
 -*who_olimpe
-J'en voy tant qui font gloire             
+      J'en voy tant qui font gloire             
 De soûpirer⁎ pour vous, que je ne sçay qu'en croire.
 Quel qu'il soit, c'est de vous un Amant⁎ bien épris.
 
@@ -674,21 +674,21 @@ Soupçonner le Marquis ! Non, non, quoyqu'il pût faire,
 Son amour si longtemps auroit peine à se taire,        
 Et voyant vostre peine, un soûrire indiscret        
 De ses soins aplaudis trahiroit le secret.                    
-Il vous parle à toute heure.                            
+Il vous parle à toute heure.
 
 -*who_la_comtesse
-Et si nostre Vicomte
+      Et si nostre Vicomte
 S'estoit avisé…    
 
 -*who_olimpe
-Luy ?                
+      Luy ?                
 
 -*who_la_comtesse
-Que j'en aurois de honte !
+      Que j'en aurois de honte !
 C'est un fatigant Homme.
 
 -*who_olimpe
-Il va jusqu'à l'excès.
+      Il va jusqu'à l'excès.
 
 -*who_la_comtesse
 Il doit venir m'instruire icy de mon Procés.    
@@ -704,10 +704,10 @@ Et ne pouvez-vous pas en rire comme moy ?
 Non, ces sortes d'Amans⁎…Mais qu'est-ce que je voy,
 Madame…                            
 
-**** *book_ *id_body-8-6 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_acte-106 *act_acte-1 *date_1675 *creator_corneille
 
 -*who_l_amour
-Vous voyez l'Amour & la Jeunesse,    
+      Vous voyez l'Amour & la Jeunesse,    
 Qui viennent admirer la charmante Comtesse,                
 Et luy dire à l'envy⁎, qu'estre de ses plaisirs,
 Fait l'unique bonheur qui flate leurs desirs.
@@ -716,7 +716,7 @@ Fait l'unique bonheur qui flate leurs desirs.
 Et qui les a conduits ?        
 
 -*who_virgine
-Ce More qui jargonne    
+      Ce More qui jargonne    
 Certains mots qui ne sont entendus de personne :    
 Ils sont tous deux entrez, demandant à vous voir.            
 
@@ -724,7 +724,7 @@ Ils sont tous deux entrez, demandant à vous voir.            
 C'est encor l'Inconnu.
 
 -*who_la_comtesse
-Nous allons le sçavoir.            
+      Nous allons le sçavoir.            
 Nous n'avions pas besoin que l'on nous vinst conduire,        
 Et d'eux-mesmes jusqu'à ce jour
 Jamais dans aucun lieu la Jeunesse & l'Amour        
@@ -734,7 +734,7 @@ N'ont eu de peine à s'introduire.                    
 L'aimable Couple !                
 
 -*who_la_comtesse
-Il n'est rien de si beau.    
+      Il n'est rien de si beau.    
 
 -*who_olimpe
 De leur petite Mascarade                
@@ -816,7 +816,7 @@ Il faut qu'à danser je m'employe.
 Danser ! Ignorez-vous qu'on a…    
 
 -*who_la_jeunesse
-Je vous entens ;        
+      Je vous entens ;        
 Mais je puis tout comme Déesse,
 En vain on croiroit m'arrester :
 D'ailleurs rien ne sçauroit contraindre la Jeunesse,            
@@ -873,7 +873,7 @@ Deh, che non mirate    
 Che già nel moi seno                        
 Lo spirio vien meno,
 E stà fu l'uscita.
-Occhi neri, il cui splendore    
+Occhi neri, il cui splendore
 Hora uccide, hora dà vita,
 Al mio cuore
 Che si muore
@@ -917,11 +917,11 @@ Madame, c'est à vous que ce Billet s'adresse.
 Lisons.                            
 
 -*who_olimpe
-De l'Inconnu j'admire le talent,
+      De l'Inconnu j'admire le talent,
 Tout ce qu'il fait enchante.    
 
 -*who_la_comtesse
-Il n'est rien plus galant⁎.             
+      Il n'est rien plus galant⁎.             
 Quoy que ma passion extréme
 Me fasse un souverain bonheur
 Du plaisir de vous dire à quel point je vous aime,
@@ -954,15 +954,15 @@ Il n'est pas mal dans ses affaires.
 On les a bien instruits.            
 
 -*who_la_comtesse
-Tâche à les amuser.
+      Tâche à les amuser.
 Virgine ; Les Enfans n'aiment point à se taire,        
 Et de nostre Inconnu par eux…        
 
 -*who_virgine
-Laissez-moy faire,
+      Laissez-moy faire,
 En badinant⁎ je les feray jaser.                
 
-**** *book_ *id_body-9-1 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-201 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_melisse
 Ainsi par une veuë au Chevalier fatale,        
@@ -1009,7 +1009,7 @@ Gardez de vous flater, on croit ce qu'on désire,
 Mais souvent…            
 
 -*who_olimpe
-Ne crains rien ; Si pour luy je soûpire⁎,         
+      Ne crains rien ; Si pour luy je soûpire⁎,         
 L'Amour qui m'y contraint, se conduira si bien,
 Qu'aux yeux de la Comtesse il n'en paroistra rien.    
 Tout ce que je prétens, est de vanter sans cesse        
@@ -1024,7 +1024,7 @@ Ainsi le Chevalier n'a plus rien à prétendre ?    
 Le voicy ; je ne puis refuser de l'entendre ;    
 Mais son amour du mien s'est un peu trop promis.    
 
-**** *book_ *id_body-9-2 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-202 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_le_chevalier
 Madame, apprenez-moy quel espoir m'est permis.            
@@ -1043,7 +1043,7 @@ Quelle réponse helas ! C'est donc tout ce qu'emporte    
 Cette parfaite ardeur⁎…            
 
 -*who_olimpe
-Je l'avoüe elle est forte,        
+      Je l'avoüe elle est forte,        
 Vos feux⁎ par cent devoirs m'ont esté confirmez ;             
 Mais de grace, est-ce vous, ou moy, que vous aimez ?    
 Je parois à vos yeux bien faite, belle, aimable,
@@ -1068,7 +1068,7 @@ Ah contre mon amour je voy ce qui s'apreste,        
 On veut…
 
 -*who_olimpe
-Finissons-là, j'ay quelque chose en teste ;
+      Finissons-là, j'ay quelque chose en teste ;
 Et comme je vous crois généreux & discret,                
 Je veux bien avec vous n'en pas faire un secret.
 L'Inconnu par ses soins offre icy son hommage⁎,
@@ -1080,7 +1080,7 @@ Me quittez-vous pour luy ? sera-t-il vostre Epoux ?             
 Vous a-t-il fait parler ?
 
 -*who_olimpe
-Voila de jalousie            
+      Voila de jalousie            
 Comme souvent sans cause on a l'ame saisie.
 
 -*who_le_chevalier
@@ -1096,37 +1096,37 @@ Favorable assurance ! En des maux si pressans,
 Pardonnez si d'abord l'Inconnu…
 
 -*who_olimpe
-J'y consens,        
+      J'y consens,        
 Mais à condition que pour servir sa flame⁎
 Vous verrez la Comtesse, & ferez…
 
 -*who_le_chevalier
-Moy, Madame !             
+      Moy, Madame !             
 Le Marquis qui l'adore est mon Amy.
 
 -*who_olimpe
-Fort-bien,    
+      Fort-bien,    
 Le Marquis vous est tout, & je ne vous suis rien.
 
 -*who_le_chevalier
 Madame…
 
 -*who_olimpe
-A l'Amitié l'on voit un fidelle,        
+      A l'Amitié l'on voit un fidelle,        
 Prompt, ardent ; pour l'Amour, c'est une bagatelle⁎.
 
 -*who_le_chevalier
 Mais si du Marquis…        
 
 -*who_olimpe
-Non, faites-vous son appuy,    
+      Non, faites-vous son appuy,    
 Je veux bien qu'il l'emporte, & vous laisse avec luy.
 Adieu.
 
-**** *book_ *id_body-9-3 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-203 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_le_marquis
-De quel chagrin⁎ vous vois-je atteint ? Il semble
+      De quel chagrin⁎ vous vois-je atteint ? Il semble
 Qu'elle sort en colere ; estes-vous mal ensemble ?    
 
 -*who_le_chevalier
@@ -1147,7 +1147,7 @@ Contre un parfait Amy ; contre un soy-mesme ?
 L'Amour n'excepte rien.
 
 -*who_le_chevalier
-Pour ne pas l'irriter,        
+      Pour ne pas l'irriter,        
 Je vous trahirois ! Non, laissons-la s'emporter ;    
 Le temps, & la raison, éteindront sa colere.
 
@@ -1161,7 +1161,7 @@ La Comtesse l'estime, & son ame incertaine        
 Peut malgré vostre amour…
 
 -*who_le_marquis
-N'en soyez point en peine,
+      N'en soyez point en peine,
 Sur elle, sur son je fais ce que je puis.                
 
 -*who_le_chevalier
@@ -1169,7 +1169,7 @@ Comprenez-vous assez quels seroient mes ennuis⁎,    
 S'il falloit que par moy…
 
 -*who_le_marquis
-Vous n'avez rien à craindre,
+      Vous n'avez rien à craindre,
 Empeschez seulement Olimpe de se plaindre.
 
 -*who_le_chevalier
@@ -1179,13 +1179,13 @@ Je m'oppose pour vous à ce qu'Olimpe exige
 Et crains tant d'obtenir…
 
 -*who_le_marquis
-Ne craignez rien, vous dis-je ;
+      Ne craignez rien, vous dis-je ;
 Et sans examiner le péril que je cours,        
 Assurez, s'il se peut, le repos de vos jours,            
 Je le verray sans peine.
 
 -*who_le_chevalier
-O bonté que j'admire !            
+      O bonté que j'admire !            
 Que ne vous dois-je point, & que puis-je vous dire ?
 Je vay rejoindre Olimpe, & malgré sa froideur
 Luy jurer d'un Amant⁎ la plus soûmise ardeur⁎,                    
@@ -1194,13 +1194,13 @@ J'auray tant de reserve en voyant la Comtesse,            
 Que ce qu'à l'Inconnu je presteray d'appuy,
 Faisant peu contre vous, ne fera rien pour luy.
 
-**** *book_ *id_body-9-4 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-204 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_le_marquis
 Virgine ?            
 
 -*who_virgine
-Vous riez ? D'où vous vient cette joye ?
+      Vous riez ? D'où vous vient cette joye ?
 
 -*who_le_marquis
 De voir contre elle-mesme Olimpe qui s'employe.
@@ -1212,7 +1212,7 @@ J'ay quelque part sans doute à ce qu'on luy fait faire.    
 Qu'on est dupe souvent !
 
 -*who_le_marquis
-Le plaisant de l'affaire,
+      Le plaisant de l'affaire,
 C'est qu'Olimpe qui croit par là me conserver,
 Brigue⁎ pour moy le qu'elle veut m'enlever.             
 
@@ -1224,28 +1224,28 @@ Quand j'ay suivy tantost l'Amour & la Jeunesse.
 Et qu'as-tu dit pour eux ?
 
 -*who_virgine
-Qu'ils ont d'abord couru        
+      Qu'ils ont d'abord couru        
 Se jetter en Carosse, & qu'ils ont disparu.        
 
 -*who_le_marquis
 Et la Comtesse ?        
 
 -*who_virgine
-Elle est dans une peine extréme,             
+      Elle est dans une peine extréme,             
 Et semble partagée entre vous & vous-mesme.
-Je viens de lui vanter vos tendres sentimens,                     
+Je viens de lui vanter vos tendres sentimens, 
 Elle a rendu justice à leurs empressemens⁎ ;    
 Puis avec un soûpir⁎ que l'Amour a fait naistre,                        
 Que n'est-il l'Inconnu, m'a-t-elle dit !
 
 -*who_le_marquis
-Peut-estre                
+      Peut-estre                
 Si je me déclarois, son sans embarras,
 Quoy que touché pour moy, ne le sentiroit pas.
 Ne précipitons rien.    
 
 -*who_virgine
-C'est l'humeur de la Dame,
+      C'est l'humeur de la Dame,
 Le mérite la charme, il peut tout sur son ame ;
 Mais il faut luy laisser vouloir ce qu'elle veut.                
 
@@ -1255,7 +1255,7 @@ Elle paroist ; je vay pousser le stratagème,        
 Et faire quelque temps le jaloux de moy-mesme ;    
 C'est le plus seûr moyen d'affermir mon bonheur.
 
-**** *book_ *id_body-9-5 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-205 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_le_marquis
 Madame, je vous trouve un air sombre, resveur,                
@@ -1265,7 +1265,7 @@ Peut-estre quand mon s'attache tout à vous,    
 Le vostre cherche ailleurs des hommages⁎ plus doux.
 Vous ne répondez point ? Je le voy trop, Madame,            
 Un autre feu⁎ sans doute est contraire à ma flame⁎ ;
-Malgré ce que le temps m'a dû prester d'appuy,                    
+Malgré ce que le temps m'a dû prester d'appuy,
 C'est l'Inconnu qu'on aime, & vous pensez à luy.
 
 -*who_la_comtesse
@@ -1279,7 +1279,7 @@ Je puis me la souffrir⁎ sur tout ce qui se passe.
 Quoy, Madame, un Rival…
 
 -*who_la_comtesse
-D'un ton plus bas, de grace.
+      D'un ton plus bas, de grace.
 S'il m'occupe l'esprit, vous devez présumer                
 Que c'est pour le connoistre, & non pas pour l'aimer.    
 Apres ce que pour moy ses soins marquent de zele⁎,
@@ -1324,7 +1324,7 @@ Ainsi c'est de nos s l'Etoile qui dispose ?    
 Mais…
 
 -*who_la_comtesse
-Je hay les raisons quand je veux quelque chose ;
+      Je hay les raisons quand je veux quelque chose ;
 Et j'avois toûjours crû que la soûmission            
 D'un véritable Amant⁎ marquoit la passion.
 
@@ -1332,7 +1332,7 @@ D'un véritable Amant⁎ marquoit la passion.
 Oüy quand il peut…        
 
 -*who_la_comtesse
-Marquis, voyez ce que vous faites ;         
+      Marquis, voyez ce que vous faites ;         
 J'aime en qui m'ose aimer, des volontez sujettes,
 Et qu'on m'estime assez, pour croire aveuglément,
 Que tout ce que je veux, je le veux justement.    
@@ -1349,7 +1349,7 @@ Ce ne sera jamais que trop tost, & peut-estre…    
 Suffit ; j'aime à sçavoir, Marquis, ce que je sçais ;            
 Vous m'osez refuser, & je m'en souviendray.
 
-**** *book_ *id_body-9-6 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-206 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_le_chevalier
 Quoy que j'ignore encor quel spéctacle on appreste,
@@ -1359,19 +1359,19 @@ Qui pour vous la donner, viennent de toutes parts.         
 Ils s'avancent vers vous.
 
 -*who_le_marquis
-Vous devez les attendre,
+      Vous devez les attendre,
 Madame, & l'Inconnu ne sçauroit moins prétendre ;
 Il connoist mieux que moy ce que c'est qu'estre Amant⁎,
 Par tout il vous régale.
 
 -*who_la_comtesse
-Et toûjours galamment ;
+      Et toûjours galamment ;
 Du moins j'ay tout sujet d'en estre satisfaite.                
 
 -*who_le_marquis
 Vous pouvez l'écouter, voicy son Interprete.
 
-**** *book_ *id_body-9-7 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-207 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_comus
 Madame, par hazard⁎, si Comus est un Dieu        
@@ -1406,7 +1406,7 @@ Tant de Galanterie⁎ a droit de vous charmer,
 Madame.
 
 -*who_olimpe
-N'épargner ny peine, ny dépense,            
+      N'épargner ny peine, ny dépense,            
 Pour fournir des plaisirs toûjours en abondance,    
 C'est là ce qui s'appelle aimer.
 
@@ -1419,7 +1419,7 @@ En sont destinez les apprests.
 
 -*who_la_comtesse
 Je ne veux pas les laisser inutiles,        
-Olimpe y prendra part ainsi que son Amant⁎.                     
+Olimpe y prendra part ainsi que son Amant⁎.
 
 -*who_olimpe
 Volontiers ; les refus sont assez difficiles,             
@@ -1430,13 +1430,13 @@ J'ay besoin d'une main, la vostre est-elle preste,
 Marquis ?
 
 -*who_le_marquis
-Vous vous moquez, je croy.    
+      Vous vous moquez, je croy.    
 
 -*who_la_comtesse
 Non, vous me conduirez.
 
 -*who_le_marquis
-Je renonce à la Feste,
+      Je renonce à la Feste,
 Elle n'est pas faite pour moy.                        
 
 -*who_la_comtesse
@@ -1444,10 +1444,10 @@ Point d'excuses, point de défaites,
 Je veux que vous veniez.
 
 -*who_le_marquis
-Eh Madame.
+      Eh Madame.
 
 -*who_la_comtesse
-Eh Marquis,
+      Eh Marquis,
 Sans façon, croyez-moy, faites ce que je vous dis ;    
 Vous vous montrez plus jaloux que vous n'estes.
 
@@ -1455,14 +1455,14 @@ Vous vous montrez plus jaloux que vous n'estes.
 Justement.
 
 -*who_la_comtesse
-Je connois vostre mieux que vous,         
+      Je connois vostre mieux que vous,         
 Et c'est si rarement que le trouble⁎ y peut naistre…
 
 -*who_le_marquis
 Oüy, Madame, j'ay tort de paroistre jaloux,
 Car je n'ay pas sujet de l'estre.    
 
-**** *book_ *id_body-9-8 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_acte-208 *act_acte-2 *date_1675 *creator_corneille
 
 -*who_olimpe
 On diroit qu'il sort en couroux⁎.
@@ -1625,10 +1625,10 @@ Le temps éclaircira l'amour de l'Inconnu,
 Un peu de patience.
 
 -*who_la_comtesse
-Il faut tâcher d'en rire,    
+      Il faut tâcher d'en rire,    
 En attendant que ce temps soit venu.
 
-**** *book_ *id_body-10-1 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-301 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Nommez ce sentiment fierté⁎, chagrin⁎, caprice⁎,    
@@ -1650,13 +1650,13 @@ Mais enfin vous devez vostre au Marquis.                
 Moy ? je ne luy dois rien.                    
 
 -*who_olimpe
-Et qu'a donc fait, Madame,
+      Et qu'a donc fait, Madame,
 Ce long & tendre amour qui vous soûmet son ame ?
 Pour vous rendre sensible il a tout essayé ;        
 Mille devoirs…
 
 -*who_la_comtesse
-Hé bien, n'en est-il pas payé ?
+      Hé bien, n'en est-il pas payé ?
 
 -*who_olimpe
 Comment, est-ce qu'à luy vostre foy⁎ vous engage ?            
@@ -1704,7 +1704,7 @@ N'ont de part que l'argent qu'on leur a fait couster.            
 Que si tout au contraire il estoit geux ?
 
 -*who_olimpe
-Madame,
+      Madame,
 Tant de Festes d'éclat qui vous prouvent sa flame⁎…    
 
 -*who_la_comtesse
@@ -1719,32 +1719,32 @@ Mais si vous connoissiez sa naissance, son bien,    
 Qu'a tout dans sa personne…
 
 -*who_la_comtesse
-Et le Marquis ? De grace,
+      Et le Marquis ? De grace,
 Si j'aime l'Inconnu, que faut-il que j'en fasse ?                
 Il n'est pas sans mérite, & doit estre écouté,    
 Par luy-mesme, ou du moins par l'ancienneté :
 De tout mes Protestans c'est le premier.        
 
 -*who_olimpe
-J'avoue            
+      J'avoue            
 Qu'il a des qualitez bien dignes qu'on le louë,
 L'air noble.    
 
 -*who_la_comtesse
-Qui des deux me conseilleriez-vous,            
+      Qui des deux me conseilleriez-vous,            
 Puis que j'en ay le choix, de prendre pour Epoux ?
 
 -*who_olimpe
 Moy ?
 
 -*who_la_comtesse
-Vous vous étonnez⁎ ?
+      Vous vous étonnez⁎ ?
 
 -*who_olimpe
-Si…
+      Si…
 
 -*who_la_comtesse
-Parlons d'autre chose.
+      Parlons d'autre chose.
 On vous trouve chagrine⁎, aprenez-m'en la cause,    
 Le Chevalier s'en plaint, & ne sçait que penser
 De voir qu'il ne fait plus que vous embarasser.                
@@ -1768,18 +1768,18 @@ Le trouble⁎ de vos yeux me fait beaucoup entendre ;
 Et quand le Chevalier…
 
 -*who_olimpe
-Vous voulez m'entreprendre,
+      Vous voulez m'entreprendre,
 Je quitte, & me sentant trop foible contre vous,
 Je vay chercher ailleurs des Ennemis plus doux.
 
-**** *book_ *id_body-10-2 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-302 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Elle a beau déguiser, je l'ay trop sçeu connoistre,    
 Elle aime le Marquis.
 
 -*who_virgine
-Cela pourroit bien estre.        
+      Cela pourroit bien estre.        
 
 -*who_la_comtesse
 Je n'ay point à m'en plaindre ; avant que s'expliquer,             
@@ -1793,21 +1793,21 @@ A soûpirer⁎ pour vous sont longtemps destinez,               �
 Et le Marquis…
 
 -*who_la_comtesse
-Je croy, sans trop faire la vaine,
+      Je croy, sans trop faire la vaine,
 Qu'à m'oublier si-tost il auroit quelque peine.
 Mais enfin l'Inconnu que je brule de voir,        
 Qu'en arrivera-t-il ?
 
 -*who_virgine
-Le voulez-vous sçavoir ?
+      Le voulez-vous sçavoir ?
 Un je-ne-sçay quel bruit a frapé mes oreilles,                
 Que des Bohémiens font icy des merveilles :
-Si vous les consultez, peut-estre ils vous diront                    
+Si vous les consultez, peut-estre ils vous diront
 De quel costé vos vœux à la fin tourneront.    
 Envoyez-les chercher.
 
 -*who_la_comtesse
-Sottise toute pure.
+      Sottise toute pure.
 
 -*who_virgine
 Ils sont sçavans, dit-on sur la Bonne-Avanture.                
@@ -1820,7 +1820,7 @@ Comment ? Vous allez bien chez Madame Voisin ?
 En sçait-elle plus qu'eux ?
 
 -*who_la_comtesse
-J'y vais par compagnie⁎.
+      J'y vais par compagnie⁎.
 
 -*who_virgine
 Mon Dieu, comme à beaucoup, c'est là vostre manie.
@@ -1831,18 +1831,18 @@ J'en sçay qui volontiers iroient trouver le Diable.    
 Les avertira-t-on ?
 
 -*who_la_comtesse
-Fay ce que tu voudras.
+      Fay ce que tu voudras.
 
 -*who_virgine
 Vous en rirez.
 
-**** *book_ *id_body-10-3 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-303 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_la_comtesse
-He quoy, toûjours chagrin⁎ ?
+      He quoy, toûjours chagrin⁎ ?
 
 -*who_le_chevalier
-Helas !        
+      Helas !        
 Madame, ignorez-vous les ennuis⁎ qu'on me donne ?
 On ne le voit que trop, Olimpe m'abandonne ;        
 Pour moy, pour mon amour, il n'est plus de secours.    
@@ -1854,7 +1854,7 @@ C'est assez, leur chagrin⁎ nous en fait une affaire.
 Nous sçavons mal aimer.    
 
 -*who_le_chevalier
-J'ay voulu comme vous
+      J'ay voulu comme vous
 Traiter de noir chagrin⁎ mes sentimens jalous ;                    
 Mais (& vous l'avez pû vous-mesme assez connoistre)
 Olimpe fuit si-tost qu'elle me voit paroistre :                
@@ -1869,7 +1869,7 @@ Je soupçonne un Rival que je ne puis trouver.
 Qu'on est fou quand on aime !
 
 -*who_le_chevalier
-Oüy, blâmez-moi, Madame.
+      Oüy, blâmez-moi, Madame.
 
 -*who_la_comtesse
 Quoy, vous ne sçavez pas ce que c'est qu'une Femme,
@@ -1891,7 +1891,7 @@ Mais qui m'assurera qu'on me garde sa foy⁎ ?
 Qu'on ait le cœur touché de ma tendresse⁎ ?
 
 -*who_la_comtesse
-Moy.
+      Moy.
 Ne vous alarmez point, Olimpe est mon Amie ;
 Et quand vostre espérance encor mal affermie        
 Du succés de vos feux⁎ vous laisseroit douter,                
@@ -1899,20 +1899,20 @@ J'ay quelque droit icy de me faire écouter ;
 Ses chagrins⁎ passeront.
 
 -*who_le_chevalier
-Vous me rendez la vie.
+      Vous me rendez la vie.
 Souffrez⁎, lors qu'à l'espoir cette ofre me convie,        
 Que j'en marque ma joye, &…
 
-**** *book_ *id_body-10-4 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-304 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_le_marquis
-Le transport⁎ est doux.
+      Le transport⁎ est doux.
 
 -*who_la_comtesse
 Il ne me déplaist pas.
 
 -*who_le_marquis
-Que ne poursuivez-vous ?        
+      Que ne poursuivez-vous ?        
 Quoyque l'Usage ait mis les façons hors de mode,    
 Je me retireray, si je vous incommode.
 
@@ -1920,7 +1920,7 @@ Je me retireray, si je vous incommode.
 Vous le prenez d'un ton fort agreable.    
 
 -*who_le_marquis
-Moy ?        
+      Moy ?        
 Je me fië à mes yeux, & croy ce que je voy.
 
 -*who_le_chevalier
@@ -1933,22 +1933,22 @@ Ne dites rien, de grace, il faut voir ce qu'il pense.
 Ce que je pense ?
 
 -*who_la_comtesse
-Hé bien ?
+      Hé bien ?
 
 -*who_le_marquis
-Que pourrois-je penser ?
+      Que pourrois-je penser ?
 Il vous baisoit la main.        
 
 -*who_la_comtesse
-Il peut recommencer
+      Il peut recommencer
 Est-ce là tout ?
 
 -*who_le_marquis
-Quoy donc, je puis estre si lâche,
+      Quoy donc, je puis estre si lâche,
 Que de…
 
 -*who_la_comtesse
-Continuez, j'aime assez qu'on se fâche.        
+      Continuez, j'aime assez qu'on se fâche.        
 Là, Monsieur le Marquis, emportez-vous, pestez,
 Je voudrois bien de vous oüir des duretez.
 
@@ -1966,7 +1966,7 @@ M'abandonner ainsi sans scrupule, sans honte,    
 Après que tout mon cœur…
 
 -*who_la_comtesse
-Et quel engagement
+      Et quel engagement
 M'oblige de répondre à vostre attachement ?            
 De quels sermens faussez suis-je vers vous coupable ?
 Qu'ay je promis ? Vrayment je vous trouve admirable.
@@ -1975,7 +1975,7 @@ Qu'ay je promis ? Vrayment je vous trouve admirable.
 Madame, permettez…
 
 -*who_la_comtesse
-Non, voyons jusqu'au bout ;
+      Non, voyons jusqu'au bout ;
 L'emportement est noble, il faut entendre tout.
 
 -*who_le_marquis
@@ -1985,14 +1985,14 @@ J'ay donc tort de me plaindre, & trop osé prétendre.             
 Vous me faites pitié.
 
 -*who_le_marquis
-Je n'y puis rien comprendre.        
+      Je n'y puis rien comprendre.        
 Tantost à vous oüir parler de l'Inconnu,            
 Je croyois que ses soins avoient tout obtenu,        
 Qu'à mon feu⁎, de son cœur vous prefériez l'empire :
 Maintenant…
 
 -*who_la_comtesse
-Croyez-vous n'avoir plus rien à dire ?             
+      Croyez-vous n'avoir plus rien à dire ?             
 
 -*who_le_marquis
 Non, Madame, sinon que j'avois mérité,    
@@ -2001,7 +2001,7 @@ Vous quittez l'Inconnu, vous me quittez moi-mesme ;    
 Et ce qui me confond, le Chevalier vous aime,
 Luy qui tantost chagrin⁎, & d'Olimpe jaloux…                
 
-**** *book_ *id_body-10-5 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-305 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_olimpe
 Quoy donc, le Chevalier a de l'amour pour vous,        
@@ -2014,15 +2014,15 @@ Vous céder tous les droits que j'eus d'abord sur luy.        
 L'effort est genéreux.                
 
 -*who_le_chevalier
-Et vous croyez, Madame…
+      Et vous croyez, Madame…
 
 -*who_olimpe
 Est-ce une nouveauté, qu'une nouvelle flame⁎ ?
-Un pareil changement est glorieux pour vous,                        
+Un pareil changement est glorieux pour vous,    
 Il marque…
 
 -*who_la_comtesse
-En vérité, je vous admire tous.    
+      En vérité, je vous admire tous.    
 Voila comme souvent sur de pures chimeres⁎,                
 Pour aller un peu viste, on se fait des affaires.
 De vostre froid accueil le Chevalier surpris,
@@ -2037,7 +2037,7 @@ Vous l'avez entendu, voila toute l'histoire.    
 Quoy, c'est…        
 
 -*who_la_comtesse
-Je vous conseille encor de n'en rien croire.
+      Je vous conseille encor de n'en rien croire.
 Ne faites pas le fier⁎ de voir tout éclaircy,                
 Je n'agis que pour moy lors que j'en use ainsy.
 
@@ -2057,7 +2057,7 @@ Fait lire dans ses yeux l'ennuy qu'elle en ressent.
 Je n'ay point à répondre à qui se plaint sans' cesse :            
 Mais voyez ce qu'icy le hazard⁎ nous adresse.
 
-**** *book_ *id_body-10-6 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-306 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Pour des Bohémiens, cet équipage est beau.
@@ -2069,13 +2069,13 @@ On les a rencontrez qui venoient au Chasteau.
 Rien n'est si propre qu'eux.
 
 -*who_le_chevalier
-La Bande est fort complete.
+      La Bande est fort complete.
 
 -*who_olimpe
 Elle vaut bien la voir.
 
 -*who_la_comtesse
-J'en suis tres-satisfaite.                
+      J'en suis tres-satisfaite.                
 
 -*who_bohemienne
 Nous ne faisons qu'arriver de Paris,
@@ -2084,7 +2084,7 @@ Assez agreables aux Belles,                          �
 On nous a fait présent de ces riches Habits ;
 Mais rien n'approche là de ce qu'on voit paroistre,             
 Où vos divins attraits cessent d'estre cachez :        
-Comme de tous les cœurs leur éclat se rend maistre,                
+Comme de tous les cœurs leur éclat se rend maistre,
 Souffrez⁎ qu'en l'admirant nous vous fassions connoistre    
 Combien nous en sommes touchez.
 
@@ -2092,7 +2092,7 @@ Combien nous en sommes touchez.
 La figure est galante⁎.
 
 -*who_olimpe
-Et fort bien ordonnée.                 
+      Et fort bien ordonnée.                 
 Par tout où vous irez le prix vous est certain :
 Mais voyez cette belle main,
 Et nous dites à qui l'Amour l'a destinée.
@@ -2116,7 +2116,7 @@ Qui le font mourir en naissant.
 Cette ligne qui croise avec celle de vie,
 Marque pour vostre gloire un murmure fatal :    
 Sur des traits ressemblans on en parlera mal,
-Et vous aurez une Copie                             
+Et vous aurez une Copie
 Qui vous fera croire l'Original
 D'un honneur ennemy de la cerémonie.
 N'en prenez pas trop de chagrin⁎ :
@@ -2137,7 +2137,7 @@ C'est du Destin un Decret nécessaire.                
 Tous deux !
 
 -*who_olimpe
-Si pour constant ce Decret est tenu,
+      Si pour constant ce Decret est tenu,
 Madame, du Marquis nous demandons la vie,
 Il vous a le premier servie :
 Quand vous serez Veuve de l'Inconnu,
@@ -2218,7 +2218,7 @@ Pour la tendresse⁎
 Il n'est qu'un temps,
 Et les beaux ans
 S'en vont sans cesse.
-Si l'Amour tost ou tard    
+Si l'Amour tost ou tard
 Nous met sous son empire,
 A ce qu'il désire
 Prenons quelque part,
@@ -2244,17 +2244,17 @@ Qui nous doit tenir lieu de tout.    
 Mais je veux qu'un présent…
 
 -*who_bohemienne
-Non, Madame, de grace,
+      Non, Madame, de grace,
 Reservez vos présens, & nous laissez aller.
 
 -*who_olimpe
 Ils sortent.    
 
 -*who_la_comtesse
-Suivez-les, Virgine, & que l'on fasse    
+      Suivez-les, Virgine, & que l'on fasse    
 Tout ce qui se pourra pour les bien régaler.
 
-**** *book_ *id_body-10-7 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-307 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Pour des Gens de leur sorte, il n'est pas ordinaire        
@@ -2274,11 +2274,11 @@ S'est assez approché de vous.
 J'ay peine. . Mais ô Ciel !
 
 -*who_le_chevalier
-Seroit-ce un de leurs coups             
+      Seroit-ce un de leurs coups             
 Et vous ay-je dit vray ?            
 
 -*who_le_marquis
-J'en tremble.
+      J'en tremble.
 
 -*who_la_comtesse
 Non, c'est leur faire tort, qu'avoir ces sentimens,
@@ -2303,10 +2303,10 @@ Se servir pour cela des Gens
 Qui mettent à voler toute leur industrie !
 Rappellez-les, allez.
 
-**** *book_ *id_body-10-8 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_acte-308 *act_acte-3 *date_1675 *creator_corneille
 
 -*who_virgine
-Madame, il n'est plus temps,    
+      Madame, il n'est plus temps,    
 J'ay descendu, couru, les ay priez d'attendre,        
 Ils n'ont rien voulu m'accorder.                        
 
@@ -2330,7 +2330,7 @@ Un Divertissement⁎ que son amour redoute ;    
 Il ne le croyoit pas de son Rival.    
 
 -*who_le_marquis
-Sans-doute
+      Sans-doute
 Je me ferois épargné cet ennuy⁎.                    
 
 -*who_la_comtesse
@@ -2340,7 +2340,7 @@ Et comme l'Inconnu cache trop son destin,
 Cherchons à le forcer de se faire connoistre ;
 L'Avanture embarasse, & j'en veux voir la fin.                
 
-**** *book_ *id_body-11-1 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-401 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_le_marquis
 Ne me le cachez point, vous voila resoluë,
@@ -2381,7 +2381,7 @@ Vous le dites d'un air si plein de confiance,
 Qu'il semble…
 
 -*who_le_marquis
-Je le dis, parce que je le pense.
+      Je le dis, parce que je le pense.
 
 -*who_la_comtesse
 Un si beau sacrifice est digne d'un Amant⁎ ;
@@ -2407,23 +2407,23 @@ Vous aurez le plaisir de le voir mon Epoux.
 J'auray ce plaisir ?
 
 -*who_la_comtesse
-Oüy, rien n'y peut mettre obstacle,
+      Oüy, rien n'y peut mettre obstacle,
 Mon choix sera pour luy.
 
 -*who_le_marquis
-J'attendray ce miracle.
+      J'attendray ce miracle.
 Ainfi donc le voyant, d'abord vous l'aimerez ?
 
 -*who_la_comtesse
 Si je ne l'aime pas, vous m'en accuserez.                
 
-**** *book_ *id_body-11-2 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-402 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Hé bien ? Olimpe ?
 
 -*who_le_chevalier
-En vain ma passion se flate,
+      En vain ma passion se flate,
 Toûjours mesme fierté⁎ dans sa froideur éclate ;
 Et ce qui rend sur tout mon esprit abatu,
 C'est ce qu'elle m'a dit, & que je vous ay tû.
@@ -2437,7 +2437,7 @@ C'est trahir l'amitié qui vous unit ensemble.
 
 -*who_le_chevalier
 A vous parler ainsi, je l'avoûray, je tremble,                
-Et me tairois encor, si l'aveu⁎ du Marquis                    
+Et me tairois encor, si l'aveu⁎ du Marquis
 Ne m'autorisoit pas à ce que je vous dis.
 Seûr que rien ne peut nuire à son amour extréme,
 A satisfaire Olimpe il m'a porté luy-mesme,
@@ -2449,7 +2449,7 @@ Dites-luy qu'envers vous j'ay tout fait pour luy plaire.
 Madame…
 
 -*who_la_comtesse
-Je commence à percer le mystere ;    
+      Je commence à percer le mystere ;    
 Olimpe au Chevalier fait paroistre à vos yeux
 Tout ce qu'a le mépris de plus injurieux ;                
 A servir l'Inconnu son adresse l'engage ;
@@ -2465,29 +2465,29 @@ Me craignent pour obstacle à leurs cœurs enflamez.
 Le Marquis aimeroit Olimpe ?
 
 -*who_le_marquis
-Moy, Madame,
+      Moy, Madame,
 Vous le croyez ?
 
 -*who_le_chevalier
-L'Ingrat ! il trahiroit ma flame⁎ !            
+      L'Ingrat ! il trahiroit ma flame⁎ !            
 Olimpe à qui mes soins tendrement attachez…
 Ah, si je le croyois…
 
 -*who_la_comtesse
-Quoy, vous vous en fâchez ?
+      Quoy, vous vous en fâchez ?
 Vous regretez un cœur que l'inconstance entraine,
 Vous en plaignez la perte ? Il n'en vaut pas la peine.
-Faites mieux, dédaignez ce manquement de foy⁎ ;                 
+Faites mieux, dédaignez ce manquement de foy⁎ ;
 On nous quitte tous deux, riez-en comme moy ;
 Vous m'en voyez déjà tellement consolée,
 Que si…
 
 -*who_le_chevalier
-Des trahisons c'est la plus signalée.
+      Des trahisons c'est la plus signalée.
 Le Marquis !        
 
 -*who_la_comtesse
-A quoy bon ces mouvemens jaloux ?
+      A quoy bon ces mouvemens jaloux ?
 
 -*who_le_chevalier
 Je sors, pour ne me pas échaper devant vous :                
@@ -2495,10 +2495,10 @@ Mais en vain vostre exemple à souffrir⁎ me convie,
 Avant qu'il m'oste Olimpe il m'ostera la vie ;
 C'est à luy d'y penser.
 
-**** *book_ *id_body-11-3 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-403 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_la_comtesse
-Allez, ne craignez rien,
+      Allez, ne craignez rien,
 Quelque emporté qu'il soit, je l'appaiseray bien.
 Pour Olimpe, je croy que l'on n'ignore guére                
 Que j'ay quelque pouvoir sur l'esprit de sa Mere.
@@ -2510,14 +2510,14 @@ Vous avez de la joye à mal juger de moy.    
 -*who_la_comtesse
 Je vous juge point mal, Olimpe est jeune & belle,
 Et quoi qu'on risque un peu d'aimer une Infidelle,            
-Elle a de quoy vous faire un destin assez doux,                    
+Elle a de quoy vous faire un destin assez doux,
 Mais je douterois fort qu'elle pût estre à vous.
 
 -*who_le_marquis
 Moy ? je n'y prétens rien.
 
 -*who_la_comtesse
-Mettons bas l'artifice⁎.
+      Mettons bas l'artifice⁎.
 
 -*who_le_marquis
 Madame, quelque jour vous me rendrez justice.
@@ -2531,10 +2531,10 @@ C'est à quoy vous seriez peut-estre un peu moins promte,
 Si vous preniez l'avis de Monsieur le Vicomte.
 Le voicy qui paroist.
 
-**** *book_ *id_body-11-4 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-404 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_la_comtesse
-Hé' bien, mon Raporteur ?
+      Hé' bien, mon Raporteur ?
 
 -*who_le_vicomte
 J'ay pour le convertir, parlé mieux qu'un Docteur,
@@ -2542,7 +2542,7 @@ Et n'ay pas, Dieu-mercy, mal employé mes peines.
 Il ne vous vuidera de plus de trois semaines,
 Et pour solliciter il vous donne le temps
 D'attendre le retour de nos deux Arcs-boutans :
-Par, là n'en doutez point, vostre affaire est gagnée.                
+Par, là n'en doutez point, vostre affaire est gagnée.
 
 -*who_la_comtesse
 Je puis donc de Paris me tenir éloignée ?
@@ -2555,30 +2555,30 @@ Mais il faut vous conter quelle est mon avanture,            
 Voyez-m'en rire encor.
 
 -*who_la_comtesse
-Cela ne va pas mal.
+      Cela ne va pas mal.
 
 -*who_le_vicomte
 Il n'est rien si plaisant.
 
 -*who_le_marquis
-Le franc Original !
+      Le franc Original !
 
 -*who_la_comtesse
 Enfin cette Avanture ?
 
 -*who_le_vicomte
-Elle est aussi gaillarde.    
+      Elle est aussi gaillarde.    
 
 -*who_la_comtesse
 En rirez-vous toûjours ?
 
 -*who_le_vicomte
-La chose vous regarde,
+      La chose vous regarde,
 C'est à vous là-dessus à vous l'imaginer.                 
 Devinez-la.    
 
 -*who_la_comtesse
-Jamais je ne sçeus deviner ;
+      Jamais je ne sçeus deviner ;
 On me dit tout au long ce qu'on veut que je sçache.
 
 -*who_le_vicomte
@@ -2589,19 +2589,19 @@ Mais j'ay si bien tourné, que j'y suis parvenu.
 A quoy ?    
 
 -*who_le_vicomte
-Vostre Inconnu ne m'est plus inconnu.            
+      Vostre Inconnu ne m'est plus inconnu.            
 
 -*who_le_marquis
 M'auroit-il découvert ?
 
 -*who_la_comtesse
-Vous pourriez le connoistre ?
+      Vous pourriez le connoistre ?
 
 -*who_le_vicomte
 Moy, qui vous parle, moy.
 
 -*who_le_marquis
-Cela ne sçauroit estre.
+      Cela ne sçauroit estre.
 
 -*who_le_vicomte
 Non, parce qu'il vous plaist que cela ne soit pas.
@@ -2612,14 +2612,14 @@ C'est, sans luy faire tort, une aussi franche Beste…            
 Comment ? vous l'avez veu ?
 
 -*who_le_vicomte
-Des pieds jusqu' à la teste.
+      Des pieds jusqu' à la teste.
 Il est basset, grosset, a les yeux hebétez.
 
 -*who_la_comtesse
 Mais où cette rencontre, & comment ?
 
 -*who_le_vicomte
-Ecoutez.    
+      Ecoutez.    
 Resvant à vos beautez dont j'avois l'ame pleine,
 Je me suis égaré dans la Forest prochaine,                
 Et voulant accourcir⁎, mon Cheval m'a mené
@@ -2668,7 +2668,7 @@ Je l'embarassois fort, il ne sçavoit que dire ;               �
 Mais c'estoit dire assez, que se taire & soûrire.
 Je luy serrois toûjours le bouton de fort prés,
 Quand, comme si la chose eus testé faite exprés,    
-Ce Grosset, ce Basset, commençant à paroistre 
+Ce Grosset, ce Basset, commençant à paroistre
 Vous estes curieux, parlez à nostre Maistre,                    
 Le voila, m'a-t-il dit, tout-à-propos venu.
 N'ayant point à douter qu'il ne fust l'Inconnu,
@@ -2685,7 +2685,7 @@ Et qu'on peut l'épargner, on n'est guére amoureux.            
 Et qu'avez-vous donc fait ?
 
 -*who_le_vicomte
-Ce que j'ay fait ? Silence,
+      Ce que j'ay fait ? Silence,
 Je diray tout par ordre, un peu de patience.
 J'ay demandé d'où vient qu'il campoit dans ce Bois ?
 Pourquoy la fausse-barbe ? Enquis deux & trois fois,
@@ -2697,7 +2697,7 @@ Luy marquant fiérement que je l'allois attendre,    
 Je me suis éloigné.
 
 -*who_le_marquis
-C'estoit fort bien le prendre.            
+      C'estoit fort bien le prendre.            
 
 -*who_le_vicomte
 Me battre là ! par tout j'aurois esté blâmé,
@@ -2710,12 +2710,12 @@ Il est bon quelquefois de voir comme on se fâche.
 Et qu'est-il arrivé ?
 
 -*who_le_vicomte
-Je n'ay trouvé qu'un lâche,
+      Je n'ay trouvé qu'un lâche,
 Qu'un farouche Animal, sans cœur & sans vertu,            
 Qu'un…cela fait pitié.
 
 -*who_le_marquis
-Vous l'avez donc batu ?    
+      Vous l'avez donc batu ?    
 
 -*who_le_vicomte
 Vous me la baillez bonne ; il s'est en Beste fiere⁎
@@ -2727,32 +2727,32 @@ D'un coup de Pistolet j'ay marqué mon depart.                
 C'est pousser la bravoure aussi loin…
 
 -*who_le_vicomte
-Sur mon ame,
+      Sur mon ame,
 Tout y va, quand il faut dégainer.
 
-**** *book_ *id_body-11-5 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-405 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_olimpe
-Ah, Madame,
+      Ah, Madame,
 J'ay trouvé l'Inconnu.
 
 -*who_la_comtesse
-Vous ?            
+      Vous ?            
 
 -*who_olimpe
-Oüy moy, dans ce Bois.
+      Oüy moy, dans ce Bois.
 
 -*who_le_vicomte
 Justement.
 
 -*who_olimpe
-Vous sçavez que j'y vais quelquefois.
+      Vous sçavez que j'y vais quelquefois.
 
 -*who_le_vicomte
 Le plaisant Personnage ! il vous a bien fait rire.                
 
 -*who_olimpe
-Luy ?    
+      Luy ?    
 
 -*who_le_vicomte
 Sans-doute, écoutez ce qu'elle va vous dire.
@@ -2761,20 +2761,20 @@ Sans-doute, écoutez ce qu'elle va vous dire.
 Jamais je n'ay rien veu de si…
 
 -*who_le_vicomte
-Tranchez le mot ?
+      Tranchez le mot ?
 De si beste ?
 
 -*who_olimpe
-Comment ?
+      Comment ?
 
 -*who_le_vicomte
-Quoy, ce n'est pas un Sot⁎ ?
+      Quoy, ce n'est pas un Sot⁎ ?
 
 -*who_olimpe
 Quels contes vous fait-il ?
 
 -*who_la_comtesse
-Ecoutons-la de grace.
+      Ecoutons-la de grace.
 
 -*who_le_vicomte
 Qu'elle parle à son aise, apres je retiens place.            
@@ -2783,13 +2783,13 @@ Qu'elle parle à son aise, apres je retiens place.            
 Vous aurez audiance à vostre tour.    
 
 -*who_le_vicomte
-Tant-mieux.
+      Tant-mieux.
 
 -*who_olimpe
 J'ay peine à croire encor au raport de mes yeux.
 Je resvois dans le Bois, quand pour joüir de l'ombre
 M'avançant lentement vers l'endroit le plus sombre,
-Je trouve un Cavalier, qui surpris de me voir,                    
+Je trouve un Cavalier, qui surpris de me voir,
 Me rend d'un air civil ce qu'il croit me devoir.
 Quels traits pourront suffire à luy rendre justice ?
 Peignez-vous Adonis, figurez-vous Narcisse,                        
@@ -2823,7 +2823,7 @@ Ses manieres en tout sont douces, agreables ;                
 Et si nous nous trouvions encor au temps des Fables,
 Je croirois que pour vous quelque Dieu tout exprés
 Seroit venu du Ciel habiter ces Forests.
-Quand pour un tel Amant⁎ on prend de la tendresse⁎,                
+Quand pour un tel Amant⁎ on prend de la tendresse⁎,
 Si c'est foiblesse en nous, l'excusable foiblesse !                
 
 -*who_le_vicomte
@@ -2841,24 +2841,24 @@ Mais le Vicomte a veu des marques de la Feste ;
 Les mesmes Gens qu'icy…
 
 -*who_le_vicomte
-J'ay veu de plus la Beste,
+      J'ay veu de plus la Beste,
 Le tres-vilain Monsieur…    
 
 -*who_olimpe
-Il ne sçait ce qu'il dit.
+      Il ne sçait ce qu'il dit.
 Soit qu'on s'attache au Corps, soit qu'on cherche l'Esprit,        
 L'Inconnu passe tout ce qu'il faut qu'on attende…
 
-**** *book_ *id_body-11-6 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-406 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_cascaret
 Madame.
 
 -*who_la_comtesse
-Que veut-on ?
+      Que veut-on ?
 
 -*who_cascaret
-Un Monsieur vous demande.
+      Un Monsieur vous demande.
 
 -*who_la_comtesse
 Voyez qui c'est, Virgine & l'amenez icy.
@@ -2878,26 +2878,26 @@ Je suis fort obligée à vostre complaisance⁎;                
 Mais ne sçachant à qui…    
 
 -*who_le_comedien
-Je suis Comédien,
+      Je suis Comédien,
 Madame.
 
 -*who_le_vicomte
 Ah, Serviteur, ne vous manque-t-il rien
-Pour nous pouvoir icy donner la Comédie ?
+      Pour nous pouvoir icy donner la Comédie ?
 
 -*who_le_comedien
 Non, Monsieur.    
 
 -*who_le_vicomte
-Il faudroit quelque Piece applaudie,
+      Il faudroit quelque Piece applaudie,
 Où l'employ des Acteurs répondist…
 
 -*who_le_comedien
-Laissez-nous            
+      Laissez-nous            
 Le soin de la choisir.
 
 -*who_le_vicomte
-Et Circé, l'avez-vous ?
+      Et Circé, l'avez-vous ?
 
 -*who_le_comedien
 Nous Circé ? Non, Monsieur, Paris seul est capable…
@@ -2909,13 +2909,13 @@ Les Singes m'y charmoient, leur Scene est admirable.    
 C'est là le bel endroit.
 
 -*who_le_vicomte
-Il plaist à bien des Gens.
+      Il plaist à bien des Gens.
 
 -*who_la_comtesse
 Et comment joüerez-vous ?    
 
 -*who_le_vicomte
-Avec des Paravents.             
+      Avec des Paravents.             
 
 -*who_le_comedien
 Un moment suffira pour dresser un Théatre.
@@ -2931,16 +2931,16 @@ On y pleure, & je hais les Lamentations.
 Vous estes gay.
 
 -*who_le_vicomte
-Jamais aucun chagrin⁎ en teste,    
+      Jamais aucun chagrin⁎ en teste,    
 Je ris toûjours.
 
 -*who_le_comedien
-Tandis que la Troupe s'apreste,
+      Tandis que la Troupe s'apreste,
 Nous avons parmy nous des Voix dont on fait cas ;
 Vous plaist-il les oüir ?
 
 -*who_la_comtesse
-Qui ne le voudroit pas ?
+      Qui ne le voudroit pas ?
 
 -*who_le_vicomte
 Ce début de Chanteurs servira de Prologue.
@@ -2953,7 +2953,7 @@ Dont j'ay veu jusqu'icy tout le monde charmé.
 Voyons ce Dialogue.
 
 -*who_le_comedien
-Il est fort estimé.
+      Il est fort estimé.
 
 -*who_alcidon
 Quoy, vous aimez ailleurs ? vous pouvez me haïr ?        
@@ -3043,17 +3043,17 @@ Plus il en est charmé.
 Voila mon amitié.
 
 -*who_olimpe
-La Chanson est jolie.        
+      La Chanson est jolie.        
 Mais en chantant toûjours, le Théatre s'oublie.                
 
 -*who_le_comedien
 J'en auray soin.
 
 -*who_le_vicomte
-Allons-y faire travailler,
+      Allons-y faire travailler,
 Et leur choisir un lieu commode à s'habiller.
 
-**** *book_ *id_body-11-7 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_acte-407 *act_acte-4 *date_1675 *creator_corneille
 
 -*who_olimpe
 Si j'ay de l'Inconnu vanté l'amour extréme,
@@ -3071,7 +3071,7 @@ Mais pour m'en rendre encor la douceur plus parfaite,
 J'ose vous demander une grace.    
 
 -*who_olimpe
-Parlez,
+      Parlez,
 Je veux dés ce moment tout ce que vous voulez.
 
 -*who_le_marquis
@@ -3080,14 +3080,14 @@ Qu'après que la Comtesse aura payé sa flame⁎,
 Vous prendrez un Epoux de ma main.
 
 -*who_olimpe
-Doutez-vous    
+      Doutez-vous    
 Que je n'en fasse pas mon bonheur le plus doux ?
 
 -*who_le_marquis
 Je crains quand vous sçaurez…
 
 -*who_olimpe
-Cette crainte est frivole⁎ ;
+      Cette crainte est frivole⁎ ;
 Fiez-vous-en à moy, je vous tiendrai parole ;                
 Et pour pouvoir plutost répondre à vos desirs,
 L'Inconnu n'a que trop poussé de vains soûpirs.
@@ -3097,7 +3097,7 @@ Je veux que dés demain la Comtesse le voye.
 Mais par où l'informer…
 
 -*who_olimpe
-J'en trouveray la voye,    
+      J'en trouveray la voye,    
 Il n'est pas difficile, & si j'en juge bien,                    
 Le Comus de tantost fait le Comédien.
 A la taille, à la voix, j'ay crû le reconnoistre ;
@@ -3111,20 +3111,20 @@ Se plaint, en le voyant, d'avoir été trahie ?
 Car vous aurez plus dit…
 
 -*who_olimpe
-Il est vray, j'ay voulu        
+      Il est vray, j'ay voulu        
 Fixer en sa faveur son cœur irrésolu :
 Mais un Homme galant⁎ remplit toûjours sans peine            
 L'attente qu'en fait naistre une estime incertaine,
 Et la Comtesse en luy…
 
 -*who_le_marquis
-Parlons sans le flater.    
+      Parlons sans le flater.    
 Luy trouvez-vous assez dequoy la mériter ?
 Est-ce un Homme si rare, & pour qui la Nature…
 
 -*who_olimpe
 Ne m'en demandez point une exacte peinture,                
-Il suffit que dans peu le succès fera foi                        
+Il suffit que dans peu le succès fera foi
 Que vous avez sujet d'estre content de moy.
 
 -*who_le_marquis
@@ -3136,9 +3136,9 @@ Avant la Comédie, il est bon qu'il soit prest.
 Quittons-nous un moment.
 
 -*who_le_marquis
-Je veux ce qui vous plaist.
+      Je veux ce qui vous plaist.
 
-**** *book_ *id_body-12-1 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-501 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_virgine
 Olimpe s'abusant⁎, vous en estes coupable.    
@@ -3183,20 +3183,20 @@ On sçait par le Vicomte où la Tente est dressée.
 Nostre Chevalier ?        
 
 -*who_le_marquis
-Sa colere est passée,
+      Sa colere est passée,
 L'Amour par l'espérance est bien-tost adoucy.
 
 -*who_virgine
 Il a pû voir pourtant qu'Olimpe…
 
 -*who_le_marquis
-La voicy.            
+      La voicy.            
 Laisse-nous un moment.    
 
-**** *book_ *id_body-12-2 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-502 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_olimpe
-Ma joye est sans seconde,
+      Ma joye est sans seconde,
 Marquis, & grace au Ciel tout va le mieux du monde.
 Nostre Comédien, comme je l'avois crû,
 S'est trouvé l'un de ceux qui servent l'Inconnu ;
@@ -3207,7 +3207,7 @@ Seûr, dit-il, que demain il se fera connoistre.
 Le terme n'est pas long.
 
 -*who_olimpe
-Pour moy, j'ay suposé
+      Pour moy, j'ay suposé
 Qu'il a suivy la Troupe en habit déguisé.
 L'entreprise pour luy ne seroit pas frivole⁎.
 
@@ -3216,7 +3216,7 @@ Si dans la Comédie il avoit pris un Rôle ?                
 Mais vous en connoissez le visage ?
 
 -*who_olimpe
-Il ne faut
+      Il ne faut
 Qu'un leger changement pour me mettre en defaut.
 
 -*who_le_marquis
@@ -3231,7 +3231,7 @@ Quoy que vous m'ayez dit, d'en paroistre jaloux ?
 Madame…
 
 -*who_olimpe
-Il ne vous faut que deux mots de tendresse⁎,    
+      Il ne vous faut que deux mots de tendresse⁎,    
 Pour faire de nouveau balancer la Comtesse,
 J'en crains dans vostre cœur le dangereux retour.
 
@@ -3245,18 +3245,18 @@ Et qu'apres son hymen⁎ vous n'accusiez ma foy⁎…
 Répondez-moy de vous, je vous répons de moy,
 Mais la Comtesse vient.
 
-**** *book_ *id_body-12-3 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-503 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_le_vicomte
-Si mon cœur…
+      Si mon cœur…
 
 -*who_la_comtesse
-Je vous prie,            
+      Je vous prie,            
 Point d'amour aujourd'huy, voyons la Comédie.
 Sont-ils prests à joüer ?
 
 -*who_le_chevalier
-Ils repassent leurs Vers ;
+      Ils repassent leurs Vers ;
 S'ils n'ont un peu de temps, tout ira de travers.
 
 -*who_le_vicomte
@@ -3270,16 +3270,16 @@ J'en fais provision en quelque lieu que j'aille.
 C'est bien fait.
 
 -*who_le_vicomte
-Vous ferez Chorus, vaille que vaille,
+      Vous ferez Chorus, vaille que vaille,
 Je donneray le ton.
 
 -*who_la_comtesse
-Quelle cervelle !
+      Quelle cervelle !
 
-**** *book_ *id_body-12-4 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-504 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_la_comtesse
-He' bien,            
+      He' bien,            
 Avance-t-on ? vos Gens n'ont-ils besoin de rien ?    
 
 -*who_le_comedien
@@ -3294,13 +3294,13 @@ Laissons-leur tout le temps qu'elles voudront avoir.            
 Vous aurez bien choisy ? La Piece…
 
 -*who_le_comedien
-Sera bonne.
+      Sera bonne.
 
 -*who_le_vicomte
 Qui l'a faite ?
 
 -*who_le_comedien
-Jamais nous ne nommons personne.
+      Jamais nous ne nommons personne.
 Nous voulons, si l'Ouvrage a quelque Approbateur,
 Qu'il l'ait pour son mérite, & non point pour l'Autheur ;
 Par là point de cabale ; on condamne, on approuve,            
@@ -3312,7 +3312,7 @@ Dont l'éclat en Province aussitost se détruit.
 Il peut avoir raison.    
 
 -*who_le_vicomte
-Bon, est-ce qu'en Province
+      Bon, est-ce qu'en Province
 On a le sens commun ? Ce sont Gens d'esprit mince.             
 
 -*who_le_comedien
@@ -3327,14 +3327,14 @@ La Piece d'aujourd'huy comment se nomme-t-elle ?
 L'Inconnu.
 
 -*who_la_comtesse
-L'Inconnu ?
+      L'Inconnu ?
 
 -*who_le_vicomte
-Si c'éstoit le Grosset,                
+      Si c'éstoit le Grosset,                
 Madame ?
 
 -*who_le_comedien
-C'est Psyché, grand & pompeux⁎ Sujet.
+      C'est Psyché, grand & pompeux⁎ Sujet.
 
 -*who_le_vicomte
 Tant-pis, le sérieux en moins de rien m'ennuye.
@@ -3342,17 +3342,17 @@ Et n'y joindrez-vous point quelque Crispinerie ?
 J'aime tous les Crispins.
 
 -*who_le_comedien
-Vous en aurez le choix.
+      Vous en aurez le choix.
 
 -*who_le_vicomte
 J'ay veu le Medecin, je croy, plus de cent fois.                
-Ce Pendu qu'on étend sur la Table, il m'enchante.                
+Ce Pendu qu'on étend sur la Table, il m'enchante.
 
 -*who_le_marquis
 C'est avecque justice.
 
 -*who_le_vicomte
-Et cet autre qui chante,
+      Et cet autre qui chante,
 Fa, sol, fa, sol, fa re, mi, fa.
 Quand il entonne ainsi son re, mi, fa, je ris…
 
@@ -3360,7 +3360,7 @@ Quand il entonne ainsi son re, mi, fa, je ris…
 Vrayement.
 
 -*who_olimpe
-Il a toûjours ses endroits favoris.
+      Il a toûjours ses endroits favoris.
 
 -*who_le_comedien
 Pour ne point perdre temps, voulez-vous que je fasse            
@@ -3370,7 +3370,7 @@ Mettre icy le Théatre où j'ay marqué sa place ?
 On dit qu'il est joly voyons.
 
 -*who_le_comedien
-Nostre Chanteur
+      Nostre Chanteur
 A quelque Scene à faire avant que d'estre Acteur,
 Vous la pourrez entendre, elle est preste. Allons viste,
 Ouvrez, & que chacun de son employ s'acquite.                
@@ -3397,7 +3397,7 @@ Enflame⁎, anime tout ; & pour mieux faire voir
 Qu'il n'est rien pour toy d'invincible,
 Fais aimer cette Insensible                            
 Qui se rit de ton pouvoir.
-L'Amour punit les Cruelles,                                
+L'Amour punit les Cruelles, 
 Aimez pour fuir son couroux⁎.
 
 -*who_le_maure
@@ -3421,7 +3421,7 @@ On nous trompe, & jamais Comédiens qui passent
 N'eurent cet appareil.
 
 -*who_olimpe
-Ceux-cy vous embarassent ?            
+      Ceux-cy vous embarassent ?            
 
 -*who_la_comtesse
 Non, je voy bien que c'est un Regal concerté,
@@ -3431,10 +3431,10 @@ Comédiens, ou non, commencent à paroistre,
 Il faut les écouter.
 
 -*who_le_vicomte
-Soyons donc écoutans ;                
+      Soyons donc écoutans ;                
 Mais j'en tiens, s'il les faut écouter bien longtemps.
 
-**** *book_ *id_body-12-5 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-505 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_zephire
 Quoy, tout-de-bon, vous estes en colere
@@ -3450,7 +3450,7 @@ Si vos desirs ne sont pas exaucez,
 C'est qu'un ordre d'Enhaut…
 
 -*who_aglaure
-Il n'est ordre qui tienne,    
+      Il n'est ordre qui tienne,    
 Je prie, & ce doit estre assez.
 
 -*who_zephire
@@ -3463,12 +3463,12 @@ Se prodigue pour elle en ces aimables lieux,                
 Et jamais…
 
 -*who_aglaure
-Oüy, ce sont merveilles sur merveilles,            
+      Oüy, ce sont merveilles sur merveilles,            
 Mais nostre Sexe est curieux.                            
 C'est peu pour nous de voir des Festes ordonnées
 Avec un éclat sans pareil.
 On compte à rien leur superbe appareil,                
-Si l'on ne sçait par qui ces Festes sont données.                    
+Si l'on ne sçait par qui ces Festes sont données.    
 Que prétend un Amant⁎ tant qu'il est inconnu ?    
 
 -*who_zephire
@@ -3489,7 +3489,7 @@ Que vous ne l'estes point, & ne le sçauriez estre.    
 Je ne suis point Zéphire ! & d'où vient ?
 
 -*who_aglaure
-En tous lieux
+      En tous lieux
 Zéphire se fait voir doux, complaisant, traitable,
 Et vous estes des Vents le plus inéxorable,                
 Ou Borée, ou quelque autre encor moins gratieux.    
@@ -3500,7 +3500,7 @@ Adieu, je vay soufler si froidement pour vous,
 Que vous aurez sujet d'en croire le couroux⁎
 Qui contre moy vous tient si déclarée.                    
 
-**** *book_ *id_body-12-6 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-506 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_cephise
 D'où vient, quand on me voit, que l'on vous quite ainsy ?
@@ -3533,7 +3533,7 @@ Et par leur paisible hymenée⁎,
 La Feste aussitost terminée                        
 Ne charmera plus que l'Epoux.
 Alors, où pour nous, je vous prie,
-Seront & les jeux & les ris ?                            
+Seront & les jeux & les ris ? 
 Car enfin fole est qui s'y fie.
 Quand les Amants⁎ sont Marys,                        
 Adieu la Galanterie⁎.    
@@ -3550,7 +3550,7 @@ Nous le verrons toûjours le mesme,
 Je sçauray son secret.
 
 -*who_aglaure
-Vous le sçaurez ! Comment ?
+      Vous le sçaurez ! Comment ?
 Est-ce que Zéphire vous aime ?
 
 -*who_cephise
@@ -3573,10 +3573,10 @@ Qui me font préferer à la plus accomplie.
 Vous le croyez ?
 
 -*who_cephise
-Si je le croy ?                        
+      Si je le croy ?                        
 Avec mon humeur enjoüée,
 Je fais faire naufrage à qui m'en vient conter ;
-Et dés qu'on a pû m'écouter,                            
+Et dés qu'on a pû m'écouter,
 C'est une franchise échoüée :                            
 Mais quand je trouverois Zéphire indifférent,                
 Le pressant de parler, s'en pourroit-il défendre ?
@@ -3590,7 +3590,7 @@ Ce sera pour Psyché, s'il s'explique avec vous,
 De l'inquiétude épargnée.
 J'en attens le succés, adieu.
 
-**** *book_ *id_body-12-7 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_acte-507 *act_acte-5 *date_1675 *creator_corneille
 
 -*who_zephire
 A la fin, ta Compagne a quité la partie.            
@@ -3606,7 +3606,7 @@ Tu t'en nommé Zéphire icy,
 J'en doute à voir ta toille.
 
 -*who_zephire
-Alors que je t'adore,
+      Alors que je t'adore,
 De cette verité tu peux estre en soucy ?    
 
 -*who_cephise
@@ -3627,7 +3627,7 @@ Non, foy⁎ de Vent d'honneur, j'ay dit la vérité
 Je suis Zéphire.
 
 -*who_cephise
-Hé bien, je le veux croire.
+      Hé bien, je le veux croire.
 Mais quant à l'Inconnu, son nom ? regarde-moy.
 J'ay promis à Psyché de le sçavoir de toy.
 Je dois tenir parole, il y va de ma gloire.                    
@@ -3637,13 +3637,13 @@ Ne me presse point là-dessus,
 J'ay des raisons…    
 
 -*who_cephise
-Pures chimeres⁎ !
+      Pures chimeres⁎ !
 
 -*who_zephire
 Je ne sçaurois parler.
 
 -*who_cephise
-Abus,
+      Abus,
 Tu m'aimes ; s'il me faut essuyer tes refus,
 Tu n'es pas bien dans tes affaires.                    
 
@@ -3654,7 +3654,7 @@ Que l'Inconnu me vienne reprocher
 Que ma langue ait fait tort à son amour extréme ?
 C'est de tous les Amans⁎ le plus passionné,                
 Rien ne sçauroit égaler sa tendresse⁎ ;
-Mais il veut estre seûr du cœur de sa Maistresse⁎,                
+Mais il veut estre seûr du cœur de sa Maistresse⁎,
 Avant que son secret luy soit abandonné.
 
 -*who_cephise
@@ -3677,14 +3677,14 @@ Il est bon que l'Amour me serve de Second.
 Quoy, l'Amour déguisé parmy nous !
 
 -*who_zephire
-Que t'en semble ?
+      Que t'en semble ?
 
 -*who_cephise
 Je voy bien que c'est luy qui commande en ces lieux,
 Et cours dire à Psyché…
 
 -*who_zephire
-Non, Cephise, il vaut mieux
+      Non, Cephise, il vaut mieux
 Que nous l'allions trouver ensemble.                    
 
 -*who_cephise
@@ -3698,7 +3698,7 @@ A moy ? cela n'est pas de vostre Comédie.
 
 -*who_zephire
 Vous estes la Psyché dont nous voulons parler ;    
-L'Amour en est croyable ; & quand je vous l'amene…                
+L'Amour en est croyable ; & quand je vous l'amene…
 
 -*who_l_amour
 Oüy, Comtesse, l'Amour vous veut tirer de peine,    
@@ -3719,32 +3719,32 @@ Il faut donc me haster de vous le faire voir ;
 Regardez ce Portrait.
 
 -*who_olimpe
-Si rien ne le deguise,    
+      Si rien ne le deguise,    
 Vous y verrez des traits…Vous en estes surprise.
 Hé bien, a-t-il l'air bon ? qu'en dites-vous ?
 
 -*who_la_comtesse
-Je dis…            
+      Je dis…            
 Voyez.
 
 -*who_le_chevalier
-C'est le Marquis.
+      C'est le Marquis.
 
 -*who_le_vicomte
-Le Marquis ?
+      Le Marquis ?
 
 -*who_olimpe
-Juste Ciel !
+      Juste Ciel !
 
 -*who_la_comtesse
 Quoy, c'est vous, dont l'adresse cachée
 Cherchoit à me toucher ?
 
 -*who_le_marquis
-En estes-vous fâchée ?
+      En estes-vous fâchée ?
 
 -*who_la_comtesse
-Je ne m'étonne plus si vos feux⁎ trop soûmis                    
+Je ne m'étonne plus si vos feux⁎ trop soûmis
 Aux vœux de l'Inconnu laissoient l'espoir permis.            
 
 -*who_le_marquis
@@ -3752,11 +3752,11 @@ Tant d'amour ne peut-il mériter de vous plaire ?    
 Ne vous rendez-vous point ?
 
 -*who_la_comtesse
-C'est une grande affaire.
+      C'est une grande affaire.
 D'ailleurs deux Inconnus…
 
 -*who_le_marquis
-Je n'en dois craindre rien ;
+      Je n'en dois craindre rien ;
 L'Inconnu du Vicomte est le Comédien,
 Il ne s'est pas trop mal acquité de son Rôle.                
 
@@ -3791,7 +3791,7 @@ O bonheur qui remplit tous mes vœux ! à Olimpe. Mais, Madame,
 Vous souvenez-vous…
 
 -*who_olimpe
-Oüy, je ne puis oublier                    
+      Oüy, je ne puis oublier
 Que je vous ay promis d'aimer le Chevalier ;                
 Vous avez de l'honneur, c'est assez vous en dire.    
 
@@ -3807,7 +3807,7 @@ Je vous voy là tous quatre en bonne intelligence.               
 Et moy, que devenir ?
 
 -*who_la_comtesse
-Vous prendrez patience.    
+      Vous prendrez patience.    
 
 -*who_le_vicomte
 Oüy, de mes pas pour vous c'est donc là le succés ?
@@ -3815,13 +3815,13 @@ Se charge qui voudra du soin de vos Procés.
 Adieu.
 
 -*who_la_comtesse
-Le prendrez-vous, Marquis ? il vous regarde.
+      Le prendrez-vous, Marquis ? il vous regarde.
 
 -*who_le_marquis
 Que ne ferois-je point ?    
 
 -*who_le_chevalier
-La retraite est gaillarde.            
+      La retraite est gaillarde.            
 
 -*who_olimpe
 C'est un Extravagant dont nous sommes défaits.
@@ -3830,7 +3830,7 @@ C'est un Extravagant dont nous sommes défaits.
 Allons.
 
 -*who_le_marquis
-Puisse l'Amour ne nous quiter jamais. 
+      Puisse l'Amour ne nous quiter jamais. 
 Si Claudine
 Ma voisine
 S'imagine
@@ -3852,7 +3852,7 @@ Attendez à demain que je vaze à la Ville,                  �
 J'auray mes vieux habits,                
 Et les Lundis
 Je ne fis pas si difficille.                    
-Mais à present       
+Mais à present  
 Tout franc
 Si vous faites l'impartinent,
 Si vous gastez mon linge blanc,

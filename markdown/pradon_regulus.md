@@ -434,7 +434,7 @@ Nous faisons référence à l'exemplaire que nous a servi de base avec le nom du
 # REGULUS, *TRAGEDIE*.
 
 
-## A MADAME             LA DAUPHINE [99]
+## A MADAME LA DAUPHINE [99]
 
 MADAME,
 
@@ -447,7 +447,7 @@ Vostre tres-humble & tres-obeïssant serviteur,
 PRADON.
 
 
-## A MADAME             **LA DAUPHINE EPISTRE.**
+## A MADAME **LA DAUPHINE EPISTRE.**
 Toy, dont le sang auguste & fecond à la fois,  
 Promet à l'Univers des Heros & des Rois ;  
 Princesse incomparable, écoute, & daigne entendre  
@@ -464,7 +464,7 @@ Et déja sur son front ennemy du repos
 Brillent les premiers traits⁎ qui forment les Heros ;  
 Ce merveilleux enfant qui n'a qu'un demy lustre,  
 Ne marque déja rien que de grand, que d'illustre ;  
-Ce Prince encor [106] à peine a l'usage des bras, [107]                          
+Ce Prince encor [106] à peine a l'usage des bras, [107]  
 Qu'il s'en sert pour montrer l'exercice aux soldats ;  
 Déja pour commander sa langue se dénoüe,  
 Et sa main foible encor d'armes seules se joüe [108] ;  
@@ -498,7 +498,7 @@ Et si nos ennemis irritent sa colere,
 Il sçaura les domter sur les pas de son Pere ;  
 Et son bras à son tour par des faits⁎ inouïs  
 Soutiendra bien la gloire & le nom de Loüis.  
-Toy seule sçais charmer ce Prince magnanime ;                          
+Toy seule sçais charmer ce Prince magnanime ;  
 Mais que dirais-je encor de ton esprit⁎ sublime,  
 Son goust pour les beaux Arts & la solidité,  
 Qui soutient le brillant de sa vivacité [112]  
@@ -548,7 +548,7 @@ Heureux si mes Heros toujours par leurs vertus⁎
 S'attirent ton sufrage ainsi que Regulus.  
 
 
-## PREFACE                    
+## PREFACE
 
 Le succés de Regulus a esté si grand [126], que son titre seul pouroit servir d'Apologie & de Préface pour répondre à quelques Critiques. Cependant⁎ sans me prévaloir des beautez que ce sujet m'a fournies, & des larmes que le public y a répanduës, j'ose dire que je me sçais un peu de gré d'avoir trouvé une route que plusieurs Auteurs avoient vainement cherchée. J'ay changé quelques circonstances à l'histoire [127], & j'ay mis la Scene dans le Camp des Romains devant Cartage, & non pas dans Rome, pour conserver l'unité du temps & du lieu. Mais il eût esté bien fascheux de laisser dans un eternel oubly, [128] la plus grande action qui se soit faite dans l'ancienne Rome, faute d'un peu d'invention. J'ay donc renvoyé Regulus dans le Camp des Romains, pour les porter à la guerre, qu'il va payer de sa vie, plutost qu'à la paix ; & cela a produit un si grand effet, que je voudrois faire souvent de pareilles fau- e tes. On m'a reproché qu'il n'y avoit pas assez d'action dans mon second Acte. J'avoüe qu'il ne fait que preparer aux trois derniers, sur qui tombe [129] toute l'action & tous les interests de la piece ; mais les Peintures que fait Fulvie du triomphe de son Amant⁎, ont paru assez belles, & mesme les plus fins connoisseurs m'ont applaudy d'avoir pû faire cinq Actes complets d'un sujet aussi simple qu'est celuy-cy [130]. J'ay tâché de conserver ce caractere de grandeur & de fermeté dans le plus austere Romain qui ait jamais parû, & l'on me flate de l'avoir fait voir dans toute son étenduë. Je n'ay rien imité ny emprunté de personne dans un sujet tout neuf, que les anciens & les modernes ont également respecté [131]. J'avoüe qu'il y a peu d'amour, mais je n'y en pouvois mettre davantage avec bien-sceance : Et j'ay fait cette reflection dans les representations de Regulus, que la grandeur d'ame frappe plus que la tendresse, & que le spectateur est touché plus vivement par une grande action qui l'enleve, que par un fade amour qui languit, & qui fatigue & l'Auditeur & l'Acteur. Quelques uns [132] ont trouvé à redire que j'ay mis un enfant sur la Scene [133], mais j'ay suivy mot à mot l'histoire, & ce qu'en dit le fameux Horace,
 
@@ -560,7 +560,7 @@ A se removisse, & virilem
 Ces Vers me doivent fort justifier de cette nouveauté, qui a produit un si grand effet, & qui a fait dire des choses si touchantes à Regulus, qu'elles font toute la beauté du cinquiéme Acte. Le caractere de Mannius est fondé dans l'histoire [135] ; & Florus, dans lequel j'ay pris mon sujet, nous apprend la revolte de ce Tribun qui fis soulever tout le Camp des Romains contre Regulus. Je luy ay donné un interest d'amour & de jalousie qui sert à mon action principale. J'avoüe que le caractere de Fulvie est entierement de mon invention, & qu'elle fait l'epizode [136] de ma Piece, on l'y trouve amenée avec bien sceance, & elle a des sentimens assez dignes d'une Romaine, pour ne pas faire rougir Regulus du dessein qu'il a de l'épouser aprés la prise de Cartage. Enfin sans faire une plus longue discution, je puis dire que cét Ouvrage a frapé si vivement tout le public, & les Acteurs en ont remply si dignement les caracteres, que cela me doit encourager à l'avenir à travailler avec plus d'ap- plication que jamais, & à chercher des sujets dont la grandeur soutienne celuy de Regulus, qui a trompé les Satyriques [137], puisqu'il a eu un sort⁎ à Paris moins cruel que celuy qu'il eut à Cartage.
 
 
-## ACTEURS [138]                
+## ACTEURS [138]
  – REGULUS ATTILIUSConsul, Commandant l'armée des Romains devant Cartage.
  – METELLUS,Proconsul de l'Afrique, pere de Fulvie.
  – FULVIE,fille de Metellus, promise à Regulus.
@@ -571,7 +571,7 @@ Ces Vers me doivent fort justifier de cette nouveauté, qui a produit un si gran
  – FAUSTINE,Confidente de Fulvie.
  – MARCELLE,autre Femme de la suite de Fulvie.
 La Scene est dans le Camp des Romains devant Cartage.
-< REGULUS,                        TRAGEDIE. >
+
 
 
 ## ACTE PREMIER.
@@ -587,7 +587,7 @@ Regulus considere un Romain tel que vous,
 Dans peu vous le verrez, il doit icy se rendre,  
 Cependant⁎ vous pouvez me parler & l'attendre.  
 
-    PRISCUS     
+    PRISCUS
 Oüy, Seigneur, le Senat qui m'envoye en ces lieux  
 Croit que de Regulus le bras victorieux,  
 Secondé par vos soins⁎ & par vôtre courage  
@@ -618,7 +618,7 @@ Le Tribun Mannius authorisoit leurs cris,
 Regulus s'avança sans parôitre surpris,  
 Et l'épée à la main, & d'un air intrepide  
 Aborde le Tribun, le saisit, l'intimide,  
-Jusques sur un vaisseau l'entraîne, & sur ses pas                      
+Jusques sur un vaisseau l'entraîne, & sur ses pas  
 On vit sans murmurer marcher tous les Soldats.  
 Nos vaisseaux firent voile, & les vents favorables,  
 Faisoient voir sur ses bords nos armes redoutables,  
@@ -650,7 +650,7 @@ Mais d'un si grand Heros nous devons tout attendre.
 
     METELLUS
 Oüy, contre sa valeur rien n'a pû se défendre,  
-Contre elle on a tenté d'inutiles secours,                              
+Contre elle on a tenté d'inutiles secours,  
 Le Fort de Clypea [144] n'a tenu que trois jours ;  
 Cette rapidité de conqueste en conqueste  
 Sans qu'il ait rien trouvé jusqu'icy qui l'arreste,  
@@ -682,7 +682,7 @@ Fulvie avecque ardeur voulut suivre mes pas
 Je l'aime, elle est ma Fille, & n'y resisté [149] pas,  
 Clypea fust d'abord sa premiere retraite⁎,  
 Je fus icy blessé, sa tendresse inquiéte  
-L'amena dans ce Camp, & pour me secourir                      
+L'amena dans ce Camp, & pour me secourir  
 Partagea les perils où je semblois courir ;  
 Elle n'a point encore voulu quitter son pere,  
 Regulus qui l'adore⁎ & n'en fait plus mistere,  
@@ -702,7 +702,7 @@ A peine a-t-il encor deux lustres accomplis,
 Que déja de son Pere il est le digne Fils.  
 
 
-### SCENE II.                        
+### SCENE II.
 REGULUS, METELLUS, PRISCUS.
 
 
@@ -715,7 +715,7 @@ Mais souffrez⁎ que mon cœur fasse éclater sa joye,
 Et qu'à vos yeux....  
 
     REGULUS.
-            Priscus quand Rome vous envoye  
+                    Priscus quand Rome vous envoye  
 Je dois vous recevoir comme un de ses enfans  
 Qu'elle honora toûjours d'emplois⁎ tres importans ;  
 Icy vôtre valeur va hâter la victoire,  
@@ -726,7 +726,7 @@ A-t-il dans le Senat rétably l'union ?
     PRISCUS.
 Oüy, Rome reünie est pour vous sans allarmes⁎,  
 Scipion attend tout de l'effort de vos armes ,  
-On fait pour leur succés des vœux aux immortels,                  
+On fait pour leur succés des vœux aux immortels,  
 Et l'encens en tous lieux fume sur leurs Autels.  
 
     REGULUS.
@@ -756,7 +756,7 @@ Que déja Metellus par cent exploits fameux
 A signalé son nom pour le moins autant qu'eux ;  
 Mais tandis qu'Amilcar est encore en Espagne,  
 Hastons-nous de finir cette heureuse Campagne,  
-Il amene son fils, c'est le jeune Annibal                              
+Il amene son fils, c'est le jeune Annibal  
 Qui doit-estre (dit-on) aux Romains si fatal ;  
 Ouy, ce jeune Heros éloigné de l'Afrique,  
 En naissant ennemy de nostre Republique,  
@@ -786,7 +786,7 @@ De ce jeune Heros qui suivra vostre trace.
     REGULUS.
 Je ne sçay d'où me vient cet importun soucy,  
 Mais souvent je voudrois qu'il ne fust point icy.  
-Allez vous reposer Priscus [155] dans vostre tente,                          
+Allez vous reposer Priscus [155] dans vostre tente,  
 Nous allons (s'il se peut) rendre Rome contente,  
 Et quand il sera temps nostre zele & nos soins⁎  
 N'en [156] prendront aujourd'huy que vos yeux pour témoins.  
@@ -814,10 +814,10 @@ Eloignons de ce Camp & mon fils & Fulvie.
 
     METELLUS.
 Il ne tiendra qu'à vous de les faire partir [158]  
-Seigneur.                                          
+Seigneur.  
 
     REGULUS.
-        Malgré mes feux⁎ il y faut consentir     [159].  
+                Malgré mes feux⁎ il y faut consentir     [159].  
 Tous les jours vostre fille augmente nos allarmes⁎,  
 A nos moindres perils elle donne des larmes ;  
 Que seroit-ce grands Dieux ! si de pressans malheurs  
@@ -846,7 +846,7 @@ Pour aider aux Romains à conserver le pere.
     REGULUS.
 Ah ! Seigneur dés ce jour il faut les écarter  
 Ces objets trop touchans pouroient nous arrester,  
-Au fort de Clypea renvoyons l'un & l'autre,                           
+Au fort de Clypea renvoyons l'un & l'autre,  
 C'est l'interest de Rome, & le mien, & le vostre.  
 
     METELLUS.
@@ -872,12 +872,12 @@ Le tribun Mannius doit marcher aujourd'huy,
 Et je veux....  
 
     METELLUS.
-        Gardez-vous de combattre avec luy,  
+                Gardez-vous de combattre avec luy,  
 Seigneur [164] laissez-moy faire, & n'allez pas vous-mesme,  
 Exposer vostre teste à quelque stratagesme.  
 Xantipus ne combat qu'en trompant l'ennemy,  
 On le sçait. Mannius n'est à vous qu'à demy, [165]  
-De ce Tribun encor j'ay quelque défiance,                          
+De ce Tribun encor j'ay quelque défiance,  
 Je doute de sa foy, si j'en croy l'apparance [166]  
 Tous vos plus grands succés il les voit à regret,  
 Rien n'est plus dangereux qu'un ennemy secret ;  
@@ -906,7 +906,7 @@ Vous allez triompher, & je viens vous l'apprendre ;
 L'endroit que Xantipus prenoit soin⁎ de défendre  
 Vient tout d'un coup, Seigneur, de tomber à nos yeux [169]  
 Bien moins par nos efforts que par l'ordre des Dieux ;  
-Oüy, sans aucun secours de nos fortes machines                          
+Oüy, sans aucun secours de nos fortes machines  
 Il s'est ensevely sous ses propres ruïnes,  
 Avant que l'ennemy le remette en état  
 Allons, Seigneur, courons l'engager au combat,  
@@ -918,11 +918,11 @@ Mannius, & je veux que ce soit avec vous
 Malgré tous les soupçons....  
 
     MANNIUS.
-                Seigneur, quelque jaloux  
+                        Seigneur, quelque jaloux  
 M'auroit-il prés de vous noircy....  
 
     REGULUS.
-                    Pour les détruire  
+                            Pour les détruire  
 Combattez prés de moy, c'est assez vous en dire,  
 Quand de nous dans un Camp on peut se défier  
 Une grande action sçait nous justifier ;  
@@ -936,7 +936,7 @@ Que la gloire de Rome anime vôtre espoir,
 Vous m'entendez, Tribun, faites vôtre devoir.  
 
 
-### SCENE V.                        
+### SCENE V.
 
     MANNIUS.
 Qu'entens-je Regulus en moy seul se confie,  
@@ -963,7 +963,7 @@ Il osa m'insulter & menacer ma teste
 Sur la sienne je fais retomber la tempeste⁎,  
 Cet affront est gravé trop avant [174] dans mon cœur [175] ;  
 Le sang des Manlius ne connoît point la peur,  
-Regulus, ne croy pas qu'une terreur panique                      
+Regulus, ne croy pas qu'une terreur panique  
 M'écartât [176] lâchement des rives de l'Afrique ;  
 Mais je ne voulois pas que mon amour caché  
 Te suivit en triomphe à ton char attaché :  
@@ -977,7 +977,7 @@ Allons sans balancer servir nos ennemis,
 Et leur tenir enfin tout ce que j'ay promis.  
 
 
-## ACTE II                                
+## ACTE II
 
 
 ### SCENE PREMIERE.
@@ -999,7 +999,7 @@ Je puis te découvrir mes mouvemens divers
 Quand Rome les approuve avec tout l'Univers.  
 Tu sçais que premier Chef de la guerre punique  
 Il défist Amilcar sur les costes d'Afrique [180],  
-Que Regulus obtint par l'ordre du Senat,                      
+Que Regulus obtint par l'ordre du Senat,  
 Les honneurs du triomphe avec le Consulat.  
 Tu n'estois pas à Rome où je fus amenée,  
 Je veux te rapeller cette grande journée,  
@@ -1031,7 +1031,7 @@ Tant de Vaisseaux brisez parurent dans nos Ports....
     FULVIE.
 Tu te trompes, la mer jalouse de sa gloire  
 Ne fit que rehausser l'éclat de sa victoire ; [184]  
-La tempeste⁎ parut favorable aux Romains,                          
+La tempeste⁎ parut favorable aux Romains,  
 Utile à Regulus, honteuse aux Africains ;  
 Car de tant de Vaisseaux toute la Mer couverte  
 Augmentoit son triomphe, & redoubloit leur perte,  
@@ -1063,7 +1063,7 @@ Te vanter Regulus, t'avoüer mon ardeur,
 Puis-je mieux t'expliquer que je regne en son cœur ?  
 Ouy, ma main est le prix de Cartage conquise,  
 On couronne nos feux⁎ aprés cette entreprise,  
-Je veux donc que mes yeux allument tour à tour                      
+Je veux donc que mes yeux allument tour à tour  
 Le flambeau de la guerre & les feux⁎ de l'amour,  
 Que mes tendres regards témoins de sa victoire  
 Animent ce Heros & partagent sa gloire.  
@@ -1095,7 +1095,7 @@ Regulus est trop seur de l'immortalité,
 Et n'en a que trop fait pour la posterité.  
 
 
-### SCENE II                            
+### SCENE II
 REGULUS, FULVIE, FAUSTINE, MARCELLE.
 
 
@@ -1118,7 +1118,7 @@ L'amour s'accorde mal avec de grands desseins,
 Et cette austerité de nos premiers Romains ;  
 Vous ne pouvez au Camp demeurer d'avantage,  
 On va bien-tôt donner un assaut à Cartage,  
-Le tumulte, les cris, & l'horreur des combats,                       
+Le tumulte, les cris, & l'horreur des combats,  
 Ce mélange confus d'armes & de Soldats,  
 Ce terrible apareil vous rendroit trop timide⁎,  
 Souffrez⁎ malgré l'amour que la gloire vous guide [192]  
@@ -1136,7 +1136,7 @@ Non.... Cartage ne peut tenir encor long-temps,
 Et sans vous exposer tous deux....  
 
     REGULUS.
-                Je vous entends ;  
+                        Je vous entends ;  
 Mais, Madame, est-il temps de parler de tendresse,  
 De grace cachez-moy toute vôtre foiblesse,  
 Vôtre cœur me tient mal ce qu'il m'avoit promis,  
@@ -1151,7 +1151,7 @@ Que dis-je ! en ce moment une nouvelle crainte,
 De noirs pressentimens dont mon ame est atteinte  
 Me font pâlir pour vous ; c'en est assez [195] Seigneur,  
 Vous devez vous fier aux troubles de mon cœur,  
-Des volontez du Ciel ces muets Interpretes                          
+Des volontez du Ciel ces muets Interpretes  
 Présagent nos malheurs par des craintes secretes,  
 Et ces pressentimens plus seurs que nos Devins,  
 Nous marquent quelquefois les Arrests des destins.  
@@ -1178,18 +1178,18 @@ Par les vœux d'un Romain à qui vous estes chere,
 Vos jours sont exposez dans un Camp.  
 
     FULVIE.
-                    Non, Seigneur,  
+                            Non, Seigneur,  
 Dissipez pour mes jours cette injuste terreur,  
 Auprés de Regulus je n'ay point ces foiblesses,  
 Vostre Camp est plus seur que mille forteresses,  
-Je seray plus tranquille auprés de vostre bras                          
+Je seray plus tranquille auprés de vostre bras  
 Que dans Rome, Seigneur, où vous ne serez pas.  
 
     REGULUS.
 Madame....  
 
     FULVIE.
-Si ma crainte a trop osé paroître,  
+        Si ma crainte a trop osé paroître,  
 D'un premier mouvement un cœur n'est pas le maître,  
 Foible comme je suis dans ces perils pressans,  
 Si je n'ay pas gardé d'empire⁎ sur mes sens,  
@@ -1201,7 +1201,7 @@ Pour l'en punir partez, oubliez sa tendresse,
 Et que la gloire soit vostre unique maîtresse⁎.  
 
 
-### SCENE III.                 
+### SCENE III.
 METELLUS, REGULUS, FULVIE, FAUSTINE, LEPIDE.
 
 
@@ -1231,7 +1231,7 @@ Je cours où mon devoir m'appelle, & je vous laisse,
 Adieu, Madame, vous prenez soin⁎ de mon fils.  
 
 
-### SCENE IV.                    
+### SCENE IV.
 METELLUS, FULVIE, FAUSTINE, MARCELLE.
 
 
@@ -1257,7 +1257,7 @@ Ne soyez plus ma fille [200] à mes desseins contraire,
 Partez dés ce moment si vous voulez me plaire,  
 Le Tribun Mannius s'offre à vous escorter,  
 De l'armée aujourd'huy je voudrois l'écarter,  
-J'ay mes raisons. Allez, je vous donne ma garde,                          
+J'ay mes raisons. Allez, je vous donne ma garde,  
 Et sans plus refléchir sur ce qui vous regarde,  
 Croyez que je travaille à vostre seureté.  
 
@@ -1287,7 +1287,7 @@ Seigneur, si vous m'aimez épargnez-moy des larmes.
 
     METELLUS.
 Ma fille, ignorez-vous le caprice des armes ?  
-Sans attendre du sort l'evenement⁎ douteux,                      
+Sans attendre du sort l'evenement⁎ douteux,  
 Allez à Clypea pour nous faire des vœux.  
 
     FULVIE.
@@ -1308,7 +1308,7 @@ Dites-luy que pour vous j'ay changé de dessein ;
 Adieu, mais oubliez toute vostre foiblesse.  
 
 
-### SCENE V.                        
+### SCENE V.
 FULVIE, FAUSTINE.
 
 
@@ -1320,7 +1320,7 @@ Pourquoy pour m'escorter s'offre-t-il à mon pere ?
 Pourquoy ?....mais j'en sçay trop penetrer le mistere.  
 
 
-### SCENE VI.                        
+### SCENE VI.
 MANNIUS, FULVIE, FAUSTINE.
 
 
@@ -1331,7 +1331,7 @@ Les crainte, les perils... sur tout l'amour d'un pere
 M'ont honoré d'un choix....  
 
     FULVIE
-                Il n'est pas necessaire,  
+                        Il n'est pas necessaire,  
 Je demeure en ce Camp, & n'en veux point partir [203],  
 Mon pere a la bonté d'y vouloir consentir ;  
 Mais vous, quand tout s'apreste, & que pour la patrie  
@@ -1348,7 +1348,7 @@ Je sçauray partager les perils avec luy ;
 Allez à Clypea nous attendre aujourd'huy.  
 
 
-### SCENE VII.                        
+### SCENE VII.
 
     MANNIUS.
 Ah ! sans aller si loin, vous iriez à Cartage,  
@@ -1378,7 +1378,7 @@ METELLUS, PRISCUS.
 Est-il donc vray, Priscus ?  
 
     PRISCUS.
-                Vous en estes surpris ;  
+                        Vous en estes surpris ;  
 Mais il n'est que trop vray que Regulus est pris,  
 Xantipus est vainqueur, & par son artifice  
 Il a fait à Cartage un si grand sacrifice [204] ;  
@@ -1390,7 +1390,7 @@ Il estoit découvert, facile & mal gardé,
 Regulus pour le voir de prés s'est hazardé,  
 (Vous sçavez que luy-mesme il veut tout reconnoître)  
 Il défend qu'on le suive, & l'on n'ose paroître ;  
-Enfin par le conseil du Tribun qui le perd,                          
+Enfin par le conseil du Tribun qui le perd,  
 Il avance pour voir ce poste à découvert ;  
 A peine ont-ils marché, que la terre s'entr'ouvre,  
 Par des lieux soûterrains l'ennemy se découvre ;  
@@ -1422,7 +1422,7 @@ Quand je me preparois à combattre, à le suivre,
 Aux mains des ennemis la fortune le livre ?  
 Pour ce Heros, pour nous, quel étrange revers ?  
 Sa chûte entraînera celle de l'Univers.  
-Toy, demon des combats qui des armes decides,                          
+Toy, demon des combats qui des armes decides,  
 Dans un abysme affreux toy-mesme tu le guides ?  
 Cartage est aux abois, & tu veux la sauver,  
 Abaisser les Romains pour la mieux relever ;  
@@ -1453,7 +1453,7 @@ Du sort de Regulus la cruelle disgrace,
 D'un funeste recit épargnons luy l'éclat.  
 
 
-### SCENE II.                        
+### SCENE II.
 FULVIE, FAUSTINE, METELLUS, PRISCUS.
 
 
@@ -1474,11 +1474,11 @@ Laissez-nous, pour ses jours vous ne devez rien craindre,
 Allons Priscus, [210]  
 
     FULVIE.
-            Souffrez⁎ que je suive vos pas,  
+                    Souffrez⁎ que je suive vos pas,  
 Seigneur.  
 
-    METELLUS.    
-    Non, demeurez, & ne me suivez pas,  
+    METELLUS.
+            Non, demeurez, & ne me suivez pas,  
 Ce qu'exige aujourd'huy le sort de ce grand homme,  
 Tout ce qu'attend de nous & le Senat & Rome  
 Demande un prompt conseil à nous seuls reservé [211]  
@@ -1493,18 +1493,18 @@ Pour m'épargner des pleurs vostre tendresse exige...
 Ah ! Regulus est mort ?  
 
     METELLUS.
-            Il est vivant, vous dis-je,  
+                    Il est vivant, vous dis-je,  
 R'assurez-vous, ma fille ;  
 
     FULVIE.
-            Il est vivant [212] Seigneur,  
+                    Il est vivant [212] Seigneur,  
 Devant moy, cependant⁎, vous changez de couleur ;  
 Si vous me dites vray, s'il faut que je vous croye,  
 Dés ce mesme moment souffrez⁎ que je le voye,  
 N'attestez⁎ point icy les hommes & les Dieux,  
 Mon cœur n'en croira plus desormais que mes yeux.  
 
-    METELLUS.    
+    METELLUS.
 Vous le verrez dans peu, nous allons dans sa tente,  
 Soyez moins inquiete, ou soyez plus constante,  
 Ayez pour Regulus moins de crainte & d'ennuy⁎,  
@@ -1533,7 +1533,7 @@ Faustine, allons, suivons mon pere dans sa tente,
 Le respect ne peut rien sur un cœur plein d'effroy,  
 Si Regulus est mort tout est perdu pour moy.  
 
-    FAUSTINE.      [215]
+    FAUSTINE.  [215]
 Non, de trop de douleur vostre crainte est suivie,  
 Metellus & Priscus répondent de sa vie,  
 A cette vaine erreur pourquoy vous attacher ?  
@@ -1550,7 +1550,7 @@ MANNIUS, FULVIE, FAUSTINE.
 
 
     MANNIUS.
-        Des malheurs où [217] je n'ose penser,  
+                Des malheurs où [217] je n'ose penser,  
 Et je tremble, Madame, à vous les annoncer,  
 Pour Regulus enfin vostre tendresse est vaine,  
 Et nous venons de perdre un si grand Capitaine.  
@@ -1558,12 +1558,12 @@ Et nous venons de perdre un si grand Capitaine.
     FULVIE.
 Il est mort, me trompais-je, helas !  
 
-    MANNIUS.    
-                    Il n'est pas mort  
+    MANNIUS.
+                            Il n'est pas mort  
 Madame.  
 
     FULVIE.
-        Où donc est-il, parlez, quel est son sort ?  
+                Où donc est-il, parlez, quel est son sort ?  
 
     MANNIUS.
 Guidé par son grand cœur, il alloit reconnoître  
@@ -1584,17 +1584,17 @@ Et vos vœux & vos pleurs pour luy sont superflus,
 Il n'y faut plus penser.  
 
     FULVIE.
-            Je ne le verray plus ?  
+                    Je ne le verray plus ?  
 Ah juste Dieux !  
 
-    MANNIUS.    
-            Je sens le coup qui vous acable,  
+    MANNIUS.
+                    Je sens le coup qui vous acable,  
 Mais sa perte pour vous n'est pas irreparable,  
 Il est tant de Romains dont le sang, les vertus⁎,  
 Pouroient encor, Madame....  
 
     FULVIE.
-                Arrestez Mannius ;  
+                        Arrestez Mannius ;  
 Qu'osez vous avancer, d'où vous vient tant d'audace ?  
 Hé quoy ? sans respecter sa nouvelle disgrace,  
 Couvrant adroitement vos insolens propos,  
@@ -1617,7 +1617,7 @@ Que du sein du repos il faut les arracher,
 Qu'il faut dans le peril les contraindre à marcher,  
 (Pardonnez-moy, Seigneur, si ma juste memoire  
 De semblables Romains me r'apelle l'histoire ;)  
-Mais quand de ses ayeux⁎ on n'a pas les vertus⁎, [220]                      
+Mais quand de ses ayeux⁎ on n'a pas les vertus⁎, [220]  
 C'est envain que l'on sort du sang des Manlius ;  
 Envain vous vous parez de cet honneur supréme !  
 Non, Tribun, il faut estre illustre par soy même,  
@@ -1646,7 +1646,7 @@ Quand tu vois Regulus des Dieux abandonné,
 Aux fers des Africains ce Heros enchaîné ;  
 Perfide, tu pretens en tirer avantage,  
 Quand pour luy la fortune a changé de visage,  
-Sa disgrace affermit mes sermens & ma foy,                      
+Sa disgrace affermit mes sermens & ma foy,  
 Et redouble aujourd'huy l'horreur que j'ay pour toy ;  
 Ah ! Lepide, parlez, dites, que fait mon pere,  
 Que dois-je craindre, helas ! que faut-il que j'espere ?  
@@ -1666,18 +1666,18 @@ Qu'on l'a fait avancer en suite du signal,
 Qu'il est dans le Conseil.  
 
     FULVIE.
-                Ah ! je tremble, & je n'ose  
+                        Ah ! je tremble, & je n'ose  
 Esperer....  
 
     LEPIDE.
-        On ne sçait encor ce qu'il propose.  
+                On ne sçait encor ce qu'il propose.  
 
     FULVIE.
 Plaise aux Dieux qu'en ce jour il propose la paix  
 Lepide, ce sont là mes plus ardans souhaits !  
 
 
-### SCENE VII.                
+### SCENE VII.
 METELLUS, PRISCUS, FULVIE, FAUSTINE, LEPIDE.
 
 
@@ -1699,15 +1699,15 @@ Allez, & portez en la nouvelle à son fils.
 J'obeïs, [224]  
 
     METELLUS *à Lepide*.
-Laissez-nous.  
+    Laissez-nous.  
 
 
-### SCENE VIII.                    
+### SCENE VIII.
 METELLUS, PRISCUS.
 
 
     METELLUS.
-                Mon ame est allarmée,  
+                        Mon ame est allarmée,  
 Regulus sur sa foy vient rejoindre l'armée,  
 Mon cœur en est content & chagrin tour à tour,  
 J'ay pleuré de sa prise, [225] & je crains son retour.  
@@ -1729,7 +1729,7 @@ Xantipus à son gré va nous donner des loix,
 Et l'on perd en un jour l'ouvrage de six mois ;  
 Ainsi, sans regarder ny moy, ny ma famille,  
 Ny mon propre panchant, ny celuy de ma fille,  
-J'avoüe en ce moment que je suis combatu                          
+J'avoüe en ce moment que je suis combatu  
 Par ces grands interests & ceux de ma vertu⁎,  
 Je payrois de mon sang une si belle vie,  
 Pourveu qu'elle coutât moins cher à ma patrie.  
@@ -1759,7 +1759,7 @@ A l'interest public que l'on doit reverer ;
 Quelque soit ce Heros, un Heros n'est qu'un homme ;  
 Priscus, & quelques soient ses genereux desseins,  
 Le doit-on préferer au reste des Romains ?  
-J'ignore cependant⁎ le dessein qui l'ameine,                          
+J'ignore cependant⁎ le dessein qui l'ameine,  
 Mais s'il parle de Paix nostre honte est certaine ;  
 Il faut rendre l'Afrique, & recevoir des loix  
 De Xantipus vaincu, de Cartage aux abois,  
@@ -1791,7 +1791,7 @@ De mille mouvemens je sens mon ame atteinte
 De joye & de douleur, d'esperance & de crainte,  
 Je crains pour luy, pour Rome, & j'aime tous les deux,  
 Pour l'un & l'autre enfin je partage mes vœux,  
-Mon sentiment, Seigneur, s'accorde avec le vostre,                      
+Mon sentiment, Seigneur, s'accorde avec le vostre,  
 Et je voudrois donner mes jours pour l'un & l'autre.  
 
 
@@ -1807,11 +1807,11 @@ Que seul & sans escorte on le voit qui s'avance,
 Il marche vers ces lieux, [229]  
 
     METELLUS.
-                Faisons nostre devoir,  
+                        Faisons nostre devoir,  
 A la teste du Camp allons le recevoir.  < Fin du troisième Acte. >
 
 
-## ACTE IV.                            
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -1835,7 +1835,7 @@ Il faut m'abandonner en aveugle à mon sort,
 Je perds Fulvie, helas ! & je cherche la mort.  
 
 
-### SCENE II.                    
+### SCENE II.
 LEPIDE, MANNIUS.
 
 
@@ -1860,7 +1860,7 @@ De son retour, Seigneur, c'est la paix qu'on espere.
 La paix ? ah justes Dieux !.... mais non, je dois me taire,  
 Vous estes peu Romain, Lepide, je le voy,  
 Vous n'en [230] penetrez pas les suittes comme moy,  
-Et c'est estre ennemy de nostre Republique,                          
+Et c'est estre ennemy de nostre Republique,  
 De parler d'une paix qui couteroit l'Afrique.  
 
     LEPIDE.
@@ -1890,7 +1890,7 @@ Nous le verrons bien-tôt, & déja Metellus....
 Juste Ciel ! il avance avecque Regulus.  
 
 
-### SCENE III.                
+### SCENE III.
 REGULUS, METELLUS, PRISCUS, LEPIDE, MANNIUS.
 
 
@@ -1917,7 +1917,7 @@ Il n'en faut point douter, j'en ay vû les aprêts,
 Mais sçachez à quel prix ils veulent cette paix.  
 D'un coup d'oeil vous voyez tout ce qu'ils nous demandent [232],  
 Et vous ne doutez pas de tout ce qu'ils pretendent ;  
-Le fort de Clypea par nos armes conquis,                      
+Le fort de Clypea par nos armes conquis,  
 De mes jours malheureux doit devenir le prix :  
 Que dis-je, [233] ils reprendront pour garantir ma teste  
 L'Afrique qui se voit déja nostre conqueste ;  
@@ -1949,7 +1949,7 @@ Seigneur, depuis long-temps vostre ame accoutumée
 A soutenir l'éclat de vostre renommé,  
 Vous imposa toujours les plus austeres loix,  
 Et c'est un vray Romain qu'en vous je reconnois ;  
-Mais, Seigneur, il y va de l'interest de Rome,                          
+Mais, Seigneur, il y va de l'interest de Rome,  
 De conserver toujours pour elle un si grand homme ;  
 Je ne puis, sans fremir, seulement écouter  
 La perte qu'aux Romains l'Afrique doit couter ;  
@@ -1958,7 +1958,7 @@ Ne veut point la payer d'une si belle vie,
 Je suis seur de la paix.  
 
     REGULUS.
-            Metellus, arrestez,  
+                    Metellus, arrestez,  
 Et parlez autrement si vous vous consultez ;  
 Un homme tel que vous, un homme Consulaire⁎  
 Doit parler en Romain sans fard & sans mistere,  
@@ -1975,12 +1975,12 @@ Tant d'illustres captifs sont la fleur de Cartage,
 Ces braves Africains.....  
 
     REGULUS.
-            Non, je vous le défens,  
+                    Non, je vous le défens,  
 Ce seroit leur laisser de braves combatans,  
 Des Chefs dont la valeur peut servir contre Rome,  
 Et perdant Regulus, vous ne perdez qu'un homme.  
 
-    PRISCUS.    
+    PRISCUS.
 Un homme tel que vous dans l'ardeur des combats,  
 Sçait conduire, animer plus de cent mille bras ;  
 Enfin nous perirons plûtôt que de vous rendre,  
@@ -2007,7 +2007,7 @@ Aussi-tost qu'il devient utile à la patrie.
     PRISCUS.
 Hé quoy ? Seigneur, faut-il qu'un lâche Xantipus [236]....  
 
-    REGULUS.    
+    REGULUS.
 Parlez-en mieux, sans doute il a quelques vertus⁎ ;  
 Ouy, la finesse & l'art de ce grand Capitaine  
 Egalent la valeur & la force Romaine ;  
@@ -2035,7 +2035,7 @@ O vertu⁎ sans exemple ! ô courage heroïque !
 
     REGULUS.
 Il n'en coutera pas la perte de l'Afrique ;  
-Sans vous embarrasser du sort de Regulus,                      
+Sans vous embarrasser du sort de Regulus,  
 Pressez, pressez Cartage, & ne differez plus,  
 Je l'ordonne en Consul pour servir ma patrie,  
 C'est le Commandement, le dernier de ma vie.  
@@ -2045,7 +2045,7 @@ Nous n'obeïrons point à ce Commandement,
 Seigneur, nous partirons....  
 
     REGULUS.
-                Ecoutez un moment,  
+                        Ecoutez un moment,  
 Qu'on cache mon depart sur tout, & que l'armée  
 De mes secrets desseins ne soit pas informée,  
 Servez toujours bien Rome, & laissons faire aux Dieux  
@@ -2067,11 +2067,11 @@ Et mon bon-heur a sceu me soustraire à leurs coups.
 Dans un pareil discours qu'on a peine à comprendre,  
 On s'accuse souvent en voulant se défendre.  
 
-    MANNIUS.    
+    MANNIUS.
 Quoy ? Seigneur.  
 
     REGULUS.
-        Mannius, soyez un peu moins fier⁎,  
+                Mannius, soyez un peu moins fier⁎,  
 Il seroit dangereux de vous justifier ;  
 C'est vous....quoy qu'il en soit, allez, je vous pardonne,  
 A vos propres remords mon cœur vous abandonne.  
@@ -2080,11 +2080,11 @@ A vos propres remords mon cœur vous abandonne.
 Moy, Seigneur ? je pourois....  
 
     REGULUS.
-                Ne me répondez plus,  
+                        Ne me répondez plus,  
 Allez, & qu'on me laisse avecque Metellus.  
 
 
-### SCENE IV.                    
+### SCENE IV.
 REGULUS, METELLUS.
 
 
@@ -2109,7 +2109,7 @@ Et j'en verse pour ceux que je leur [239] vay coûter.
     METELLUS.
 Seigneur, dans cét estat je ne sçay que vous dire,  
 Pere, amant⁎, je vous plains, Romain [240] je vous admire ;  
-Je suis charmé, je pleure, & je sens dans mon cœur                      
+Je suis charmé, je pleure, & je sens dans mon cœur  
 Un mélange confus de joye & de douleur ;  
 Vous allez acquerir une immortelle gloire,  
 Vaincu vous remportez une illustre victoire,  
@@ -2140,7 +2140,7 @@ De quelque grand malheur l'infaillible présage,
 Retiendrais [241]-je des pleurs qu'ils viendront m'arracher ?  
 Et je devrois songer moy-mesme à me cacher.  
 
-    REGULUS.    
+    REGULUS.
 Seigneur déguisons mieux toute nostre tristesse,  
 Et tâchons d'épuiser icy nostre foiblesse ;  
 Il faut pour achever un si noble dessein  
@@ -2170,7 +2170,7 @@ D'une infaillible mort je devenois la proye,
 Mais je ne dois verser que des larmes de joye ;  
 Pardonnez-moy, Seigneur, ces transports innocens,  
 Vous daignez partager les plaisirs que je sens ;  
-Mais je lis dans vos yeux de nouvelles allarmes⁎,                          
+Mais je lis dans vos yeux de nouvelles allarmes⁎,  
 Vous poussez des soûpirs, vous me cachez vos larmes.  
 
     METELLUS.
@@ -2180,13 +2180,13 @@ Regulus à vos yeux ne peut encor paroître,
 J'en connois les raisons.  
 
     FULVIE.
-            Faites-les moy connoître  
+                    Faites-les moy connoître  
 Ces raisons.... ah ! Seigneur, ne me déguisez rien :  
 Ciel ! que dois-je augurer de ce triste entretien ;  
 Parlez, expliquez-vous.  
 
     METELLUS.
-            Les interests de Rome,  
+                    Les interests de Rome,  
 Avec ceux de Cartage, occupent ce grand homme,  
 Il medite un dessein si grand, si genereux....  
 Non, jamais il ne fust plus digne de vos feux⁎ ;  
@@ -2199,7 +2199,7 @@ Quelle gloire [244] Seigneur ? de grace apprenez-moy....
     METELLUS.
 Quelle grande victoire il remporte sur soy !  
 
-    FULVIE.      [245]
+    FULVIE.  [245]
 Ah ! j'y dois prendre part, & quand sa gloire brille..  
 
     METELLUS.
@@ -2228,7 +2228,7 @@ Pourquoy dans ces momens se cache Regulus ?
 Mais que me veut Priscus qui paroît tout en larmes ?  
 
 
-### SCENE VII.                        
+### SCENE VII.
 PRISCUS, FULVIE, FAUSTINE.
 
 
@@ -2241,7 +2241,7 @@ Il veut partir, Madame, & courir à la mort.
 Quoy ? Seigneur, Regulus....  
 
     PRISCUS.
-                Il veut quitter l'armée,  
+                        Il veut quitter l'armée,  
 Sa vertu⁎ va remplir toute la renommée,  
 Il retourne à Cartage, & malgré nos souhaits,  
 Victime de la guerre, il refuse la paix :  
@@ -2255,7 +2255,7 @@ En bataillons serrez sans observer de rang,
 Ils ont alors fermé le passage du Camp ;      
 Ce spectacle nouveau le surprent & nous touche,  
 Il nous a regardez avecque un œil farouche ;  
-Et d'un visage austere, en s'adressant à moy,                      
+Et d'un visage austere, en s'adressant à moy,  
 Quoy ? vous voulez d'un Chef sans honneur & sans foy  
 (M'a t'il dit) laissez-moy dégager ma parole  
 Priscus, soûtenons mieux l'honneur du Capitole ;  
@@ -2269,12 +2269,12 @@ Allez trouver son fils, unissez-vous ensemble,
 Peut-estre en vous voyant tous deux...  
 
     FULVIE.
-                    Helas ! je tremble,  
+                            Helas ! je tremble,  
 Pourons-nous empescher un si cruel départ ?  
 Allons... mais que je crains de luy parler trop tard.  < Fin du quatrième Acte. >
 
 
-## ACTE V.                                
+## ACTE V.
 
 
 ### SCENE PREMIERE.
@@ -2297,8 +2297,8 @@ J'iray vanger ma gloire aux yeux des Africains ;
 Mais c'en est trop, Lepide, il faut nommer le traître  
 Qui doit avoir instruit....  
 
-    LEPIDE.    
-            Vous voulez le connoître ; [251]  
+    LEPIDE.
+                    Vous voulez le connoître ; [251]  
 C'est moy, Seigneur, c'est moy, qui viens de vous trahir,  
 Et qui jure à vos yeux de vous desobeïr,  
 Pour vos precieux jours ayant l'ame allarmée,  
@@ -2328,7 +2328,7 @@ Il sçaura ramener⁎ tout ce Camp si rebelle,
 Et par mon artifice...ah ! qu'il [254] tarde long-temps ?  
 Cartage attend la paix, c'est la mort que j'atens ;  
 Dieux ! lorsque Mannius fit soulever l'armée,  
-Qu'elle estoit contre moy de fureur animée,                          
+Qu'elle estoit contre moy de fureur animée,  
 Un coup d'oeil me fit craindre & me fit obeïr,  
 Et pour sauver mes jours vous osez me trahir  
 Cruels, qui m'empeschez de courir à Cartage ?  
@@ -2352,14 +2352,14 @@ Nous fait trembler, Seigneur, & pour vous & pour elle.
 Que dites-vous Priscus ?  
 
     PRISCUS.
-            Que sa frayeur mortelle  
+                    Que sa frayeur mortelle  
 Par des pleurs, des sanglots souvent entrecoupez,  
 Nous marque la douleur dont ses sens sont frapez,  
-Interdite⁎, tremblante, elle marche avec peine,                      
+Interdite⁎, tremblante, elle marche avec peine,  
 Elle vous cherche.  
 
     REGULUS.
-        Ah Dieux ! fuyons. Mais on l'ameine.  
+                Ah Dieux ! fuyons. Mais on l'ameine.  
 Lepide sort.
 
 
@@ -2383,10 +2383,10 @@ Et j'auray comme vous du sang prest à verser.
     REGULUS.
 Dieux ! que me dites-vous ? je fremis, ah ! Madame,  
 Quel chemin prenez-vous pour ébranler mon ame,  
-N'estoit-ce pas assez [258]....                                  
+N'estoit-ce pas assez [258]....  
 
     FULVIE.
-            Non, j'ay pris mon party,  
+                    Non, j'ay pris mon party,  
 Et mon cœur à vos yeux ne s'est point démenty ;  
 Je marche sur vos pas, l'amour & la patrie  
 Feront verser le sang de la triste Fulvie ;  
@@ -2412,7 +2412,7 @@ A nos fiers⁎ ennemis, Seigneur, plutost qu'à moy. [260]
     REGULUS.
 Il falloit servir Rome, & je la sers, Madame,  
 Elle a dû l'emporter sur vous & sur ma flâme ;  
-Ne me regardez plus comme amant⁎, comme époux,                      
+Ne me regardez plus comme amant⁎, comme époux,  
 Un malheureux esclave est indigne de vous [261] ;  
 Aujourd'huy cependant⁎ envisagez⁎ ma gloire  
 Esclave, je remporte une grande victoire,  
@@ -2437,7 +2437,7 @@ Avez-vous oublié pour moy vostre tendresse, [262]
 Et qui prendra le soin⁎ d'élever ma jeunesse ?  
 Que ferais-je sans vous ? si je ne vous voy pas,  
 Qui sçaura donc m'instruire à marcher sur vos pas ?  
-Qui poura me tracer le chemin de la gloire ?                          
+Qui poura me tracer le chemin de la gloire ?  
 Vous ne partirez point, non, je ne le [263] puis croire  
 Mon pere... mais helas ! vous détournez les yeux,  
 Et j'attendois de vous de plus tendres adieux ;  
@@ -2451,40 +2451,40 @@ Eloignez cet enfant, Lepide, & qu'on me laisse,
 Justes Dieux ! ah ! mon fils !  
 
     FULVIE.
-                Seigneur, tant de tendresse  
+                        Seigneur, tant de tendresse  
 Ne peut-elle toucher ?...  
 
 
-### SCENE V.                        
+### SCENE V.
 METELLUS, REGULUS, FULVIE, PRISCUS, LEPIDE, Le jeune ATTILIUS, FAUSTINE.
 
 
     REGULUS.
-            Ciel ! je voy Metellus,  
+                    Ciel ! je voy Metellus,  
 Je respire, Seigneur, ne me retient-on plus,  
 L'artifice ?...  
 
     METELLUS.
-        Ouy, Seigneur, & tout vous est propice,  
+                Ouy, Seigneur, & tout vous est propice,  
 Je vous rends à regret ce funeste service,  
 Vous pouvez retourner.  
 
     REGULUS.
-            Ah ! que ne dois-je-pas  
+                    Ah ! que ne dois-je-pas  
 A ces soins⁎ genereux ? quel funeste embarras  [266] ?  
 Un peu plus tard... ah Dieux ! auriez-vous pû le croire,  
 Vous me rendez la vie en me rendant la gloire,  
 Maîtresse⁎, fils, Romains [267] je ne vous connois plus,  
 Et ne vois de Romain icy que Metellus.  
 
-    LE JEUNE ATTILIUS.    
+    LE JEUNE ATTILIUS.
 Mon pere ?  
 
     FULVIE.
-Vous partez.  
+    Vous partez.  
 
     REGULUS.
-            Il en est temps [268] Madame,  
+                    Il en est temps [268] Madame,  
 Il est temps de marquer la grandeur de vostre ame ; [269]  
 Armez-vous de vertu⁎, sans plaindre Regulus,  
 Montrez-vous aujourd'huy fille de Metellus,  
@@ -2513,11 +2513,11 @@ Qu'il prenne pour modelle & ma vie & ma mort.
 Il sort avec Priscus.
 
 
-    FULVIE.    
+    FULVIE.
 Faustine, soûtiens-moy [274].  
 
     LE JEUNE ATTILIUS.
-            Mon pere, il faut vous suivre,  
+                    Mon pere, il faut vous suivre,  
 Je vous perds pour jamais, pourais-je vous survivre. [275]  
 
     METELLUS.
@@ -2529,7 +2529,7 @@ Esperez cependant⁎, Priscus, moy, les Romains,
 Nous allons l'arracher aux cruels Africains.  
 
 
-### SCENE VI.                    
+### SCENE VI.
 FULVIE, FAUSTINE, Le jeune ATTILIUS, LEPIDE.
 
 
@@ -2537,7 +2537,7 @@ FULVIE, FAUSTINE, Le jeune ATTILIUS, LEPIDE.
 Quel espoir justes Dieux !  
 
     LE JEUNE ATTILIUS.
-            Ah ! sans verser des larmes,  
+                    Ah ! sans verser des larmes,  
 Le fils de Regulus doit recourir aux armes,  
 Pourquoy m'arretez-vous ? un Romain, quoy qu'enfant,  
 Ne doit-il pas apprendre à combattre en naissant ?  
@@ -2546,7 +2546,7 @@ Ne doit-il pas apprendre à combattre en naissant ?
 Ah ! Seigneur.  
 
     LE JEUNE ATTILIUS.
-        Est-ce ainsi que vous devez m'instruire, [276]  
+                Est-ce ainsi que vous devez m'instruire, [276]  
 Vous devez au combat vous-mesme me conduire,  
 Je suivray Metellus, marchant à son costé, [277]  
 à Fulvie.
@@ -2554,7 +2554,7 @@ Je suivray Metellus, marchant à son costé, [277]
 Je combatray, Madame, en pleine seureté ;  
 Mais helas ! vous pleurez. Ah ! genereux Lepide,  
 Hé quoy ? n'est-il pas temps que la vertu⁎ me guide ?  
-Et que mon pere enfin puisse voir aujourd'huy,                      
+Et que mon pere enfin puisse voir aujourd'huy,  
 Qu'il laisse à sa patrie un fils digne de luy. [278]  
 
     LEPIDE.
@@ -2581,8 +2581,8 @@ Priscus & les Romains, le jeune Attilius,
 Tous veulent s'immoler pour sauver Regulus,  
 Vous devez esperer....  
 
-    FULVIE.    
-            Que veux-tu que j'espere ?  
+    FULVIE.
+                    Que veux-tu que j'espere ?  
 Tu connois Regulus, & tu connois mon pere.  
 
 
@@ -2609,7 +2609,7 @@ A-t'il pû concevoir ce dessein parricide⁎ ?
     MARCELLE.
 A ces mots mille bras luy servant de boureaux,  
 L'ont presque en un moment déchiré par morceaux,  
-Pour vanger Regulus chaque soldat avide                      
+Pour vanger Regulus chaque soldat avide  
 Vouloit teindre son bras du sang de ce perfide,  
 Ils ont marqué leur joye & leur juste douleur,  
 De connoître le crime, & d'en punir l'autheur.  
@@ -2638,7 +2638,7 @@ Que leur zele par là demeuroit inutile ;
 Alors toute l'armée interdite⁎, immobile      
 Par un triste silence accompagné de pleurs,  
 Promet en soupirant de vanger ses malheurs.  
-Regulus s'est servy de ce noble artifice,                              
+Regulus s'est servy de ce noble artifice,  
 D'un crime glorieux vostre pere complice,  
 Trompe toute l'armée, & conduit Regulus  
 Jusqu'aux murs de Cartage auprés de Xantipus ;  
@@ -2672,8 +2672,8 @@ Il meurt tranquillement pour sa chere patrie.
     FULVIE.
 Hélas !  
 
-    PRISCUS.    
-    Dans cét instant tout le Camp des Romains  
+    PRISCUS.
+            Dans cét instant tout le Camp des Romains  
 Pousse des cris affreux contre les Africains ;  
 Les soldats animez par ce touchant spectacle,  
 A leur premier effort ne trouvent point d'obstacle,  
@@ -2691,7 +2691,7 @@ La mort de Regulus luy [286] poura coûter cher,
 Qu'elle nous serve, au moins ! à tous deux de bucher ? [287]  < FIN. >
 
 
-## EXTRAIT DV PRIVILEGE                 du Roy.
+## EXTRAIT DV PRIVILEGE du Roy.
 
 Par Grace & Privilege du Roy, donné à le jour de 1688. Signé Par le Roy en son Conseil, Du *Gono*. Il est permis au Sieur *Pradon*, de faire imprimer, vendre & debiter par tel Imprimeur ou Libraire qu'il voudra choisir, une Piece de Theatre de sa composition, intitulée *Regulus, Tragedie*, pendant le temps de six années, à compter du jour que ladite Piece sera achevée d'imprimer pour la premiere fois : Pendant lequel temps faisons tres-expresse inhibition⁎ & deffense à toute personnes , de quelque qualité & condition qu'elles soient, de faire imprimer, vendre & debiter par tous les lieux de nostre obeïssance d'autre Edition que celle du Sieur *Pradon*, ou de ceux qui auront droit de luy, à peine de trois mil livres d'amende payables sans deport par chacun des contrevenans, confiscation des Exemplaires contrefaits, & autres peines plus au long contenuës dans lesdites Lettres.
 

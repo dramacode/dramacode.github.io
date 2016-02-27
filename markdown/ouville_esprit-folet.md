@@ -1,5 +1,5 @@
 ---
-identifier: ouville_l'esprit  
+identifier: ouville_esprit-folet  
 creator: Ouville, Antoine d'  
 date: 1642  
 title: L'Esprit folet. Comédie  
@@ -426,7 +426,7 @@ Nous y ferons grand chere, ou je me trompe fort .
 Depeschons-nous.  
 
     FLORESTAN
-Lizandre est un homme qui m'ayme,  
+        Lizandre est un homme qui m'ayme,  
 Je le sçais de certain à l'égal de luy-mesme,  
 Je n'en sçaurais douter : car cette affection  
 Est fondée en effet sur l'obligation⁎,  
@@ -444,7 +444,7 @@ Angelique, Isabelle, Florestan, Carrille
 
 
     ANGELIQUE
-Si comme je le croy,  
+        Si comme je le croy,  
 Vous estes Gentil-homme,ayez pitié de moy,  
 Estant nay cavalier⁎, vous ne pouvez sans blasme  
 Laisser perdre la vie, et l'honneur d'une femme,  
@@ -459,7 +459,7 @@ Adieu, je ne puis pas en dire davantage.
 Le voila qui me suit.  
 
     CARRILLE
-Est-ce une illusion ?  
+        Est-ce une illusion ?  
 Que pretendez-vous faire en cette occasion ?  
 
     FLORESTAN
@@ -477,7 +477,7 @@ Et si par ce moyen je ne puis l'arrester,
 J'useray de la force.  
 
     CARRILLE
-Il faut donc inventer  
+        Il faut donc inventer  
 Quelque subtil⁎ moyen, à propos cette lettre  
 Nous y pourra servir.  
 (Il tire une lettre de sa poche.)
@@ -489,7 +489,7 @@ Licidas, Carrille, Florestan, Ariste
 
 
     LICIDAS
-Ouy je la veux cognoistre  
+        Ouy je la veux cognoistre  
 Avant qu'elle m'eschape, et veux sçavoir pourquoy  
 Elle fuit ma rencontre, et se cache de moy .  
 
@@ -499,7 +499,7 @@ Et me dites à qui cette lettre s'adresse,
 De grace, obligez-moy.  
 
     LICIDAS *(le repoussant rudement.)*
-Retire-toy maraut.  
+        Retire-toy maraut.  
 
     FLORESTAN
 Ce valet est à moy, ne parlez pas si haut,  
@@ -527,7 +527,7 @@ Marry qu'un estranger vous acquiere la gloire
 De l'apprendre de luy.  
 
     LICIDAS
-C'est trop s'en faire accroire⁎,  
+        C'est trop s'en faire accroire⁎,  
 Je puis quand je voudray vous en faire leçon,  
 Et lors que je la faits, c'est de cette façon,  
 (Ils mettent tous deux l'espée à la main.)
@@ -546,7 +546,7 @@ Lizandre, Licidas, Florestan, Carrille, Ariste
 
 
     LIZANDRE
-Que vois-je justes Dieux ?  
+        Que vois-je justes Dieux ?  
 Doy-je croire en ce poinct ou desmentir mes yeux ?  
 (il met l'espée à la main)
 
@@ -555,7 +555,7 @@ Allons le secourir, sus mon frere courage,
 Je suis à vous.  
 
     LICIDAS
-Mon frere en voulant m'obliger⁎,  
+        Mon frere en voulant m'obliger⁎,  
 Vous me desobligez, et voulez m'outrager ;  
 C'est me faire un affront signalé que de croire  
 Que sans vous je ne puisse emporter la victoire,  
@@ -573,14 +573,14 @@ Me le faisant sçavoir où bon vous semblera,
 Nous nous rencontrerons .  
 
     LICIDAS
-Tout ce qu'il vous plaira .  
+        Tout ce qu'il vous plaira .  
 
     LIZANDRE
 Que vois-je tout de bon ? pourroy-je me mesprendre ?  
 Florestan, est-ce vous ?  
 
     FLORESTAN
-Est-ce vous cher Lizandre !  
+        Est-ce vous cher Lizandre !  
 
     LIZANDRE
 Veille-je,ou si je dors ? Dieux je ne puis penser  
@@ -590,7 +590,7 @@ Mon frere,vous devez aymer celuy que j'ayme ;
 Que j'en sçache la cause.  
 
     LICIDAS
-Il est vray qu'en effet,  
+        Il est vray qu'en effet,  
 Nous nous sommes piquez pour fort peu de sujet,  
 Ce valet m'empeschant de poursuivre une affaire,  
 Qui m'importoit beaucoup, m'a fait mettre en colere.  
@@ -607,7 +607,7 @@ J'ay tort, je le confesse, excusez mon audace,
 La faute est à moy seul.  
 
     LIZANDRE
-Il faut tout oublier.  
+        Il faut tout oublier.  
 Mon cher frere, embrassez ce brave Cavalier⁎,  
 A qui je doy mon bien, mon honneur et ma vie,  
 Secondez je vous prie en ce point mon envie,  
@@ -632,30 +632,30 @@ Je n'ay que trop connu la vostre à mes despens,
 Car vous m'avez blessé.  
 
     LIZANDRE
-Grands Dieux ! je desepere.  
+        Grands Dieux ! je desepere.  
 Quoy ! vous estes blessé ?  
 
     FLORESTAN
-La blessure est legere,  
+        La blessure est legere,  
 Ce n'est que dans la main .  
 
     LICIDAS
-Monsieur, à deux genoux  
+        Monsieur, à deux genoux  
 J'en demande pardon.  
 
     FLORESTAN
-Ah Dieux ! que faites-vous ?  
+        Ah Dieux ! que faites-vous ?  
 
     LIZANDRE
 Allons icy devant penser vostre blessure.  
 
     FLORESTAN *(bas)*
-              
+
 En entrant dans Paris, Dieux ! quel mauvais augure,  
 Qu'il me couste du sang.  
 
     LICIDAS *(bas)*
-Je suis au desespoir,  
+        Je suis au desespoir,  
 Que ce rencontre [17] icy m'empesche de sçavoir  
 Quel estoit cet object que je voulois cognoistre.  
 
@@ -771,35 +771,35 @@ Licidas, Angelique, Isabelle
 Que faites-vous ma sœur ?  
 
     ANGELIQUE
-Mais vous-mesme mon frere ?  
+        Mais vous-mesme mon frere ?  
 Vous semblez interdit, chagrin et tout deffait,  
 Estes-vous en colere ?  
 
     LICIDAS
-Oüy j'y suis en effet.  
+        Oüy j'y suis en effet.  
 
     ISABELLE  *(bas)*
 Ah Madame, il le sçait.  
 
     ANGELIQUE *(bas)*
-Grands Dieux ! je suis perdüe,  
+        Grands Dieux ! je suis perdüe,  
 Qu'avez-vous donc ?  
 
     LICIDAS
-Je viens de me battre en la ruë.  
+        Je viens de me battre en la ruë.  
 
     ANGELIQUE
 Vous battre, contre qui ?  
 
     LICIDAS
-Contre un jeune estranger ;  
+        Contre un jeune estranger ;  
 Et qui pis est encor, qui vient icy loger.  
 
     ANGELIQUE
 Qui vient icy loger ?  
 
     LICIDAS
-Mon frere nous l'emmeine,  
+        Mon frere nous l'emmeine,  
 C'est Florestan, de qui Lizandre estoit en peine,  
 Dont nous avons parlé plusieurs fois entre nous.  
 
@@ -810,14 +810,14 @@ Mais quel sujet a fait naistre votre querelle ?
     LICIDAS
 Nous nous sommes battus pour une damoiselle.  
 
-    ANGELIQUE 
+    ANGELIQUE
 Pour une damoiselle ?  
 
     LICIDAS
-Ouy ma sœur  
+    Ouy ma sœur  
 
     ANGELIQUE
-Mais comment ?  
+        Mais comment ?  
 
     LICIDAS
 Je vous veux tout conter dés le commencement,  
@@ -882,11 +882,11 @@ Du combat cependant j'ai eu quelque avantage. [35]
 Je l'ay blessé.  
 
     ANGELIQUE
-Blessé, bons Dieux ! je n'en puis plus,  
+        Blessé, bons Dieux ! je n'en puis plus,  
 Soustenez-moy, je meurs.  
 
     LICIDAS *(la soustenant)*
-J'ay les sens tous confus :  
+        J'ay les sens tous confus :  
 Mais d'où vient que son mal jusqu'à ce point vous touche ?  
 
     ANGELIQUE  *(bas)*
@@ -899,7 +899,7 @@ Non, non, ne craignez rien, sa blessure est legere,
 Ce n'est que dans la main.  
 
     ANGELIQUE
-J'apprehendois mon frere,  
+        J'apprehendois mon frere,  
 Je respire à ce coup, et mes sens sont remis.  
 
     LICIDAS
@@ -939,18 +939,18 @@ A pleurer tout le jour l'excez de mes miseres,
 Me le demandez-vous ?  
 
     LICIDAS
-Ma sœur vous avez tort,  
+        Ma sœur vous avez tort,  
 Vos pleurs ne peuvent pas faire revivre un mort,  
 Aux plus ardans soupirs, laissez la porte ouverte  
 Ils ne vous feront pas recouvrer vostre perte ;  
 Mais adieu je vous laisse.  
 
     ANGELIQUE
-En quel appartement  
+        En quel appartement  
 Logez-vous Florestan ?  
 
     LICIDAS
-Pour plus commodément  
+        Pour plus commodément  
 Le loger, sans qu'il soit mesme veu de personne,  
 Et qu'il puisse y venir à toute heure, on luy donne  
 Le quartier de derriere, où mon frere a logé,  
@@ -961,7 +961,7 @@ Ainsi chez nous il semble estre en autre maison [38]
 On l'a fait pour cela.  
 
     ANGELIQUE
-Vous avez eu raison.  
+        Vous avez eu raison.  
 Mais bien loing d'estre encor contre luy en colere,  
 Il vous faut estre amis, aimez-le mon cher frere,  
 Vous desobligeriez mon frere asseurément  
@@ -976,7 +976,7 @@ Isabelle, Angelique
 
 
     ISABELLE
-Qu'en dites-vous, Madame ?  
+        Qu'en dites-vous, Madame ?  
 Celuy que vous aymez d'une secrette flame,  
 Ce gentil Estranger, ce galand incognu,  
 Celuy qui vostre honneur a si bien maintenu,  
@@ -1001,7 +1001,7 @@ C'est un fait qui n'est pas croyable ce me semble.
 Pourquoy ne l'est-il pas ?  
 
     ANGELIQUE
-Ce sont des accidens  
+        Ce sont des accidens  
 Qui merveilleusement me surprennent les sens,  
 Je n'ose seulement esperer cette gloire,  
 Et je pense en effet qu'on me le fait acroire⁎.  
@@ -1035,7 +1035,7 @@ Un menuisier pourra mesme dans un moment
 Accomoder ces ais.  
 
     ANGELIQUE
-Allons donc promptement,  
+        Allons donc promptement,  
 Et sans plus consulter executer la chose,  
 J'approuve cet advis que ton esprit propose,  
 Va donner ordre à tout, car je desire avoir  
@@ -1049,13 +1049,13 @@ Qu'elle vienne soupper et coucher avec moy.
 Mais tout de bon Madame ?  
 
     ANGELIQUE
-Oüy j'en veux voir l'issuë.  
+        Oüy j'en veux voir l'issuë.  
 
     ISABELLE
 Vous entrerez chez luy ?  
 
     ANGELIQUE
-M'y voilà resoluë.  
+        M'y voilà resoluë.  
 Je veux voir si c'est luy, car si c'est l'estranger  
 Qui de si bonne grace a voulu m'obliger⁎,  
 Qui me voyant tantost d'un jaloux⁎ poursuivie,  
@@ -1065,7 +1065,7 @@ Qui n'a pas épargné mesme jusqu'à son sang,
 Qui m'a gaigné le cœur, et de si bonne grace,  
 Isabelle il n'est rien pour luy que je ne face.  
 
-    ISABELLE 
+    ISABELLE
 J'y songerois devant [42], car en cette action,  
 Quelle preuve avez-vous de sa discretion ?  
 Ne nous fions jamais aux Amours passageres,  
@@ -1133,7 +1133,7 @@ L'infame je la chasse, et luy donne congé,
 Je la mets à vos pieds.  
 
     FLORESTAN
-Puis-je sans jalousie⁎  
+        Puis-je sans jalousie⁎  
 Voir qu'encor vous vueilliez me vaincre en courtoisie ?  
 C'est trop, contentez-vous ; puis que je recognoy  
 Qu'au combat vous l'avez emporté dessus moy,  
@@ -1179,14 +1179,14 @@ Car tous les chemins vont aboutir au carfour.
 Ce valet est plaisant.  
 
     FLORESTAN
-Tu prens trop de licence,  
+        Tu prens trop de licence,  
 Maraut, va bouffonner ailleurs qu'en ma presence.  
 
     LIZANDRE
 Laissez-le.  
 
     FLORESTAN
-Tes discours sont un peu bien hardis.  
+        Tes discours sont un peu bien hardis.  
 
     CARRILLE
 J'avois leu que Paris estoit un paradis,  
@@ -1217,7 +1217,7 @@ Entrer quand vous voudrez sans qu'on vous divertisse.
     FLORESTAN
 Quand pourray-je jamais payer ce bon office ?  
 
-    LIZANDRE 
+    LIZANDRE
 Si vous ne voulez pas si tost vous mettre au lit  
 Pour tascher d'acquerir un peu plus d'appetit,  
 Puis que vous estimez si peu vostre blesseure  
@@ -1234,11 +1234,11 @@ Que le carroce vienne, et qu'on nous tienne prest
 Le soupé dans une heure.  
 
     FLORESTAN
-Allons puis qu'il vous plaist.  
+        Allons puis qu'il vous plaist.  
 Carrille escoute un mot.  
 
     CARRILLE
-Bien Monsieur sans remise.  
+        Bien Monsieur sans remise.  
 
 
 ### Scene IV
@@ -1298,7 +1298,7 @@ Si quelqu'un survenoit, et la fermer ainsi,
 Poussez.  
 
     ANGELIQUE
-Je n'en suis plus maintenant en soucy,  
+        Je n'en suis plus maintenant en soucy,  
 Il n'est rien de plus clair, la preuve en est certaine,  
 Et je n'ay pas de peur que l'on nous y surprenne.  
 
@@ -1318,7 +1318,7 @@ C'est le moins que je doy. Mais qui m'a transporté
 Mon cabinet icy ? ********  
 
     ISABELLE
-Madame, vostre frere  
+        Madame, vostre frere  
 S'est tantost contre moy quasi mis en colere,  
 Car je ne voulois pas en effect qu'on l'hostat,  
 Il l'a voulu par force, et que l'on apportast  
@@ -1336,14 +1336,14 @@ Ouy Madame, elles sont ouvertes, et pouvons [55]
 Visiter ce qu'il a.  
 
     ANGELIQUE
-Je le veux bien, voyons  
+        Je le veux bien, voyons  
 Comme il est curieux⁎ dans les hardes⁎ qu'il porte.  
 
     ISABELLE
 Mais s'il s'en aperçoit ?  
 
     ANGELIQUE 
-Tire tout il n'importe.  
+        Tire tout il n'importe.  
 (Isabelle tire tout ce qu'il y a dans la valize du maistre, et l'espand par la place.)
 
 
@@ -1351,7 +1351,7 @@ Tire tout il n'importe.
 Qu'est-ce là que tu tiens ?  
 
     ISABELLE
-Un bel habit d'esté.  
+        Un bel habit d'esté.  
 Qu'il est riche et superbe, ah quelle propreté !  
 Madame peut-on voir de plus belles chemises ?  
 Pour moy je ne crois pas qu'il les ait jamais mises ;  
@@ -1360,7 +1360,7 @@ Mais qu'est-ce que cela qu'il tient enveloppé
 Dans ce papier broüillart [57].  
 
     ANGELIQUE
-Attend que je le voye.  
+        Attend que je le voye.  
 Ce sont de beaux rubans, avec deux bas de soye.  
 
     ISABELLE
@@ -1395,10 +1395,10 @@ En verité Madame il est fort curieux⁎,
 Voicy force papiers.  
 
     ANGELIQUE
-Monstre.  
+    Monstre.  
 
     ISABELLE
-Tenez Madame.  
+        Tenez Madame.  
 
     ANGELIQUE
 Dieux ! qu'est-ce que je voy ? ce sont lettres de femme  
@@ -1416,7 +1416,7 @@ Tay toy, ces sots discours me mettent en colere,
 Va , ne tire plus rien.  
 
     ISABELLE
-Que pretendez-vous faire ?  
+        Que pretendez-vous faire ?  
 
     ANGELIQUE
 Puis qu'icy j'ay de quoy, je veux à ce galand  
@@ -1425,7 +1425,7 @@ Escrire un mot de lettre.
 
 
     ISABELLE
-Et pour moy cependant  
+        Et pour moy cependant  
 Je veux revisiter icy cette autre male,  
 (Elle tire les hardes de la valize de Carrille.)
 
@@ -1448,7 +1448,7 @@ Prenons-les et mettons des charbons à la place,
 Il deviendra tantost aussi froid qu'une glace,  
 Et se verra sans doute en estrange soucy.  
 
-    ANGELIQUE 
+    ANGELIQUE
 Ma lettre est faite , il faut que je la laisse icy,  
 Raccomode le tout, rajuste ces valizes.  
 
@@ -1457,7 +1457,7 @@ J'entens ouvrir la porte, ah Dieux nous sommes prises,
 Sauvons-nous promptement.  
 
     ANGELIQUE
-Laisse tout comme il est,  
+        Laisse tout comme il est,  
 Je mets ma lettre là.  
 (Elles se retirent par les ais.)
 
@@ -1466,7 +1466,7 @@ Je mets ma lettre là.
 ### Scene VI
 
     CARRILLE  *(seul)*
-Bon, mon fait est tout prest,  
+        Bon, mon fait est tout prest,  
 Que veut dire cela ? qui m'a fait ce mesnage,  
 Qui nous a mis ainsi nos hardes au pillage ?  
 En fait-on un encan ? Dieux je tremble de peur,  
@@ -1493,7 +1493,7 @@ Licidas, Carrille, Florestan, Lizandre
 
 
     LICIDAS
-Dy, qui te fait crier ?  
+        Dy, qui te fait crier ?  
 
     CARRILLE
 Il ne m'a pas laissé Messieurs un seul denier.  
@@ -1531,21 +1531,21 @@ Je ne ments point, Monsieur, c'est chose veritable.
 Ne te manque-t'il rien ?  
 
     CARRILLE
-Mon argent que ce diable  
+        Mon argent que ce diable  
 M'a pris, ou converty pour le moins en charbon.  
 
     FLORESTAN
 Ah ! l'insigne maraut.  
 
     LICIDAS
-O le mauvais bouffon !  
+        O le mauvais bouffon !  
 
     LIZANDRE
 Pour ce froid⁎ entretien as-tu pris tant de peine,  
 Sont-ce là ces beaux traits ?  
 
     CARRILLE
-Que le diable m'entraine  
+        Que le diable m'entraine  
 Au plus creux de l'enfer, si je vous ments d'un mot.  
 
     LICIDAS
@@ -1560,7 +1560,7 @@ Et bien je me tairay Monsieur, puis qu'il vous plaist,
 Mais  
 
     LIZANDRE
-Dedans un moment le souper sera prest,  
+        Dedans un moment le souper sera prest,  
 On vous advertira, mais n'ayez point d'ombrage  
 Que nostre Esprit folet⁎ vous face du dommage,  
 J'en demeure garand, Adieu, pour ce garçon  
@@ -1595,20 +1595,20 @@ Que ce soit un esprit, ou que ce soit un diable,
 Pour moy je n'en sçay rien.  
 
     FLORESTAN
-Tu penses m'abuzer,  
+        Tu penses m'abuzer,  
 Et reparer ta faute, en voulant t'excuser,  
 Fut-il jamais au monde une telle insolence ?  
 Regarde ces papiers qui me sont d'importance  
 En quel estat ils sont.  
 
     CARRILLE
-Je puisse estre bruslé,  
+        Je puisse estre bruslé,  
 Je puisse estre à present tout vif escartelé,  
 Je puisse voir du ciel la foudre toute preste  
 A tomber dessus moy.  
 
     FLORESTAN
-Je te rompray la teste  
+        Je te rompray la teste  
 Si tu contestes plus, insolent, c'est assez.  
 
     CARRILLE
@@ -1626,7 +1626,7 @@ Rajuste tout le reste. Atten, que voy-je icy ?
 Une lettre fermée.  
 
     CARRILLE
-A qui s'adresse-t'elle ?  
+        A qui s'adresse-t'elle ?  
 
     FLORESTAN
 A moy d'une façon certes toute nouvelle.  
@@ -1635,11 +1635,11 @@ A moy d'une façon certes toute nouvelle.
 Comment ?  
 
     FLORESTAN
-Ne m'ouvrez pas, j'appartiens seulement  
+        Ne m'ouvrez pas, j'appartiens seulement  
 A Florestan, dit-elle.  
 
     CARRILLE
-Et bien asseurément,  
+        Et bien asseurément,  
 Vous serez à la fin obligé de me croire,  
 Avez-vous jamais veu de plus estrange histoire ?  
 Ne l'ouvrez pas avant que de la conjurer.  
@@ -1697,7 +1697,7 @@ Ou par un sortilège, il faut qu'il l'ait charmée⁎.
 Avant que nous vinssions ?  
 
     CARRILLE
-Vous me feriez damner,  
+        Vous me feriez damner,  
 A ce compte il faudroit qu'elle eut peu deviner  
 Que vous deviez avoir sur l'heure une querelle,  
 Et que l'on vous devoit blesser pour l'amour d'elle.  
@@ -1723,7 +1723,7 @@ En faut-il davantage encor pour vous confondre ?
 Mais que resolvez-vous ?  
 
     FLORESTAN
-Je pretends luy respondre,  
+        Je pretends luy respondre,  
 Et luy faire paroistre un trait de jugement⁎ [74],  
 De n'avoir de sa lettre eu nul estonnement,  
 Puis qu'elle doit escrire, avec le temps j'espere  
@@ -1733,16 +1733,16 @@ De pouvoir aisement descouvrir ce mystere.
 N'en parlerez-vous point ?  
 
     FLORESTAN
-Comment, fausser la foy  
+        Comment, fausser la foy  
 A qui s'est confiée si franchement à moy ?  
 J'aymerois mieux mourir.  
 
     CARRILLE
-Vous avez donc envie  
+        Vous avez donc envie  
 D'offencer Licidas.  
 
     FLORESTAN
-Moy, je perdray la vie  
+        Moy, je perdray la vie  
 Avant que je consente à cette lascheté,  
 Je puis bien contenter ma curiosité,  
 Sans envers mon amy paroistre en rien coupable.  
@@ -1756,87 +1756,87 @@ Sans qu'on le puisse voir, entendre, ny toucher,
 Que croirez-vous alors ?  
 
     FLORESTAN
-Rien d'extraordinaire  
+        Rien d'extraordinaire  
 Qu'on ne puisse en effet naturellement faire.  
 
     CARRILLE
 Mais n'est-il point d'esprits ?  
 
     FLORESTAN
-D'esprits, c'est le vieux jeu.  
+        D'esprits, c'est le vieux jeu.  
 
     CARRILLE
 De familiers.  
 
     FLORESTAN
-Non plus .  
+    Non plus .  
 
     CARRILLE 
-De folets⁎ ?  
+    De folets⁎ ?  
 
     FLORESTAN
-Aussi peu.  
+        Aussi peu.  
 
     CARRILLE
 De sorciers ?  
 
     FLORESTAN
-Point du tout.  
+    Point du tout.  
 
     CARRILLE
-De larves au teint blesme [75] ?  
+        De larves au teint blesme [75] ?  
 
     FLORESTAN
 Quelle folie, ô Dieux !  
 
     CARRILLE
-Des enchanteurs ?  
+    Des enchanteurs ?  
 
     FLORESTAN
-De mesme.  
+        De mesme.  
 
     CARRILLE
 Des nigromantiens [76] ?  
 
     FLORESTAN 
-Imaginations.  
+        Imaginations.  
 
     CARRILLE
 Des farfadets ?  
 
     FLORESTAN
-Ce sont pures impressions.  
+        Ce sont pures impressions.  
 
     CARRILLE
 N'est-ce point une fée ?  
 
     FLORESTAN
-O l'estrange chimere !  
+        O l'estrange chimere !  
 
     CARRILLE
 Ou le moine bouru [77] ?  
 
     FLORESTAN
-Maraut, te veux-tu taire ?  
+        Maraut, te veux-tu taire ?  
 
     CARRILLE
 Seroit-ce pas une ame en peine ?  
 
     FLORESTAN
-Et tu pretends  
+        Et tu pretends  
 Qu'elle me fist l'amour [78] ? as-tu perdu le sens ?  
 
     CARRILLE  
 Un succube [79] ?  
 
     FLORESTAN
-Es-tu fol ?  
+    Es-tu fol ?  
 
     CARRILLE
-Un lutin ?  
+    Un lutin ?  
 
     FLORESTAN
-Ce sont fables.  
+        Ce sont fables.  
 
     CARRILLE
 A ce coup je vous tiens, et n'est-il point de diables ?  
@@ -1848,14 +1848,14 @@ Oüy ; mais ils ne sont rien sans un divin pouvoir.
 Mais que sera-ce donc ?  
 
     FLORESTAN
-Je ne le puis sçavoir,  
+        Je ne le puis sçavoir,  
 Plus je me romps l'esprit sur un sujet si rare,  
 Plus mes sens sont confus, et ma raison s'esgare.  
 Achevons.  
 
     CARRILLE,* (à par soy en ramassant les hardes.)*
             
-Ce demon,cét esprit enragé  
+        Ce demon,cét esprit enragé  
 S'est sauvé de l'enfer sans demander congé,  
 Avec son esprit fort mon maistre est heretique,  
 De nier les esprits et le pouvoir magique.  
@@ -1901,12 +1901,12 @@ Sans mentir c'est assez pour luy troubler l'esprit.
 Je croy qu'il l'aura veu.  
 
     LUCINDE
-Je meurs d'impatience,  
+        Je meurs d'impatience,  
 Aussi bien comme vous de sçavoir ce qu'il pense,  
 Qu'il doit estre surpris !  
 
     ANGELIQUE
-**C'est ce que je pretends,  
+        **C'est ce que je pretends,  
 Nous le sçaurons bien-tost, et peut-estre est-il temps,  
 A present que l'on soupe, allez voir Isabelle,  
 S'il aura respondu, mais soyez en cervelle [82],  
@@ -1918,20 +1918,20 @@ Il ne faut rien dire.
 
 
     ANGELIQUE
-**En fin je me resous,  
+        **En fin je me resous,  
 Comme je vous ay dit, de le voir, et peut-estre  
 Ce sera dés ce soir.  
 (On voit cependant Isabelle entrer dans la chambre de Florestan et prendre la lettre sur la table.)
 
 
     LUCINDE
-Et vous faire cognoistre ?  
+        Et vous faire cognoistre ?  
 
     ANGELIQUE
 Je m'en garderay bien.  
 
     LUCINDE
-Dieux ! et comment cela ?  
+        Dieux ! et comment cela ?  
 
     ANGELIQUE
 Vous le sçaurez tantost.  
@@ -1939,13 +1939,13 @@ Vous le sçaurez tantost.
 
 
     ISABELLE
-Madame la voilà :  
+        Madame la voilà :  
 
     LUCINDE
 Comment voilà sa lettre ?  
 
     ANGELIQUE
-Ah Dieux ! j'en suis ravie,  
+        Ah Dieux ! j'en suis ravie,  
 Voyons-la promptement, car j'en brusle d'envie.  
 Lettre [83]
 
@@ -2099,19 +2099,19 @@ Et qu'ils soient retirez, Isabelle les porte.
 Disiez-vous pas tantost, qu'on vous a faict sçavoir  
 Qu'ils doivent tous ensemble aller au bal ce soir ?  
 
-    ANGELIQUE 
+    ANGELIQUE
 Oüy, je luy veux mander que l'on m'en a priée,  
 Qu'il y vienne, et d'autant que je suis espiée,  
 Qu'il me pardonnera, si je n'ose pas là  
 Me descouvrir à luy.  
 
     LUCINDE
-Mais à quoy bon cela ?  
+        Mais à quoy bon cela ?  
 Puis que vous sçavez bien que vous ne pouvez faire  
 Ce que vous promettez ?  
 
     ANGELIQUE
-Il est tres necessaire,  
+        Il est tres necessaire,  
 Pour luy troubler encor d'avantage l'esprit,  
 Laissez-moy promptement respondre à son escrit.  
 
@@ -2157,30 +2157,30 @@ Quand vous serez entré ; car c'est nostre ordinaire
 De nous retirer tost.  
 
     FLORESTAN
-Je serois temeraire,  
+        Je serois temeraire,  
 Si j'avois le dessein de vous incommoder,  
 J'irois plustost sans vous.  
 
     LIZANDRE
-Vous y pourrez tarder  
+        Vous y pourrez tarder  
 Autant qu'il vous plaira, vous auriez de la peine  
 D'entrer en ce lieu là, si l'on ne vous y meine.  
 Il faut estre cognu, c'est à vingt pas d'icy,  
 Vous reviendrez bien seul.  
 
     FLORESTAN
-Laissez-m'en le soucy⁎,  
+        Laissez-m'en le soucy⁎,  
 Aussi bien comme vous je n'y veux pas tant estre ;  
 Mais parce qu'en ce lieu je veux un peu paroistre,  
 Vous me permettez bien de m'aller ajuster,  
 Et de changer d'habit.  
 
     LICIDAS
-Sans vous precipiter,  
+        Sans vous precipiter,  
 Vous avez trop de temps.  
 
     FLORESTAN
-Donc sans plus de demeure [99]  
+        Donc sans plus de demeure [99]  
 Je vous iray trouver chez vous avant une heure.  
 
 
@@ -2192,19 +2192,19 @@ Florestan, Carrille
 Carrille, que fais-tu ?  
 
     CARILLE
-Dieux ! je tremble de peur.  
+        Dieux ! je tremble de peur.  
 
     FLORESTAN
 Pourquoy n'es-tu là haut ?  
 
     CARRILLE
-Je n'oserois, Monsieur.  
+        Je n'oserois, Monsieur.  
 
     FLORESTAN
 Pour quel sujet, qu'as-tu ?  
 
     CARRILLE
-Dois-je pas avoir crainte  
+        Dois-je pas avoir crainte  
 Que cét Esprit Folet⁎ ne me donne une atteinte [100] ?  
 Je crains trop d'esprouver ce que pese sa main.  
 
@@ -2213,7 +2213,7 @@ L'impertinent maraut, tu le fais à dessein
 De faire le plaisant.  
 
     CARRILLE
-Quand on me devroit pendre,  
+        Quand on me devroit pendre,  
 Faschez-vous-en, ou non, je ne m'en puis deffendre,  
 J'y fais ce que je puis, qu'importe si j'ay peur,  
 Par menace croit-on me relever [101] le cœur ?  
@@ -2222,7 +2222,7 @@ Non pas quand on devroit me retrancher mes gages,
 J'ayme mieux perdre tout.  
 
     FLORESTAN
-Mais voyez ce maraut,  
+        Mais voyez ce maraut,  
 Allume la chandelle, et la porte là haut,  
 Apreste mon habit, le diable te confonde.  
 
@@ -2304,18 +2304,18 @@ Il m'emporte, il m'estrangle, ah Dieux ! j'ay beau prier,
 Invoquant tous les Dieux.  
 
     FLORESTAN
-Dy qui te fait crier ?  
+        Dy qui te fait crier ?  
 Qu'as-tu ?  
 
     CARRILLE 
-Monsieur, ils sont tous sourds à ma priere.  
+        Monsieur, ils sont tous sourds à ma priere.  
 
     FLORESTAN
 T'ay-je pas commandé d'avoir de la lumiere,  
 Pourquoy n'en as-tu pas ?  
 
     CARRILLE
-Ah ! cét ESPRIT FOLET⁎  
+        Ah ! cét ESPRIT FOLET⁎  
 Nous a tuez tous deux, moy d'un si grand souflet  
 Qu'il m'a, fort peu s'en faut, fait cracher la cervelle,  
 Et d'un souffle aussi-tost a tué la chandelle.  
@@ -2337,7 +2337,7 @@ Qui va là, je la tiens, va promptement là-bas,
 R'allumer ta chandelle.  
 
     CARRILLE 
-Ah ! ne le laschez pas.  
+        Ah ! ne le laschez pas.  
 (Carrille sort.)
 
 
@@ -2367,13 +2367,13 @@ Esprit malin, qui croit icy nous traverser,
 Tu n'eschaperas pas.  
 
     FLORESTAN 
-Aporte la lumiere.  
+        Aporte la lumiere.  
 
     CARRILLE
 Qu'est-il donc devenu ?  
 
     FLORESTAN
-Regarde là derriere,  
+        Regarde là derriere,  
 Je le tenois tantost ; mais il m'est eschapé.  
 
     CARRILLE
@@ -2386,24 +2386,24 @@ Cela suffit-il pas encor pour vous confondre ?
 Ne le teniez-vous pas ?  
 
     FLORESTAN
-Je ne puis que respondre,  
+        Je ne puis que respondre,  
 Il me vient de laisser ces hardes⁎ dans les mains,  
 Et puis s'est eschapé.  
 
     CARRILLE
-Voyez donc si je crains,  
+        Voyez donc si je crains,  
 Que c'est avec raison [108]. Ah ! Monsieur, je vous prie  
 Ne vous en mocquez point.  
 
     FLORESTAN
-C'est une raillerie,  
+        C'est une raillerie,  
 De croire que jamais on me puisse charmer⁎.  
 
     CARRILLE
 Mais qu'en croyez-vous donc ?  
 
     FLORESTAN
-Il est à presumer,  
+        Il est à presumer,  
 Que dis-je à presumer ? sans doute qu'il doit estre  
 Que c'est celle qui craint de se faire cognoistre,  
 Et qu'un de ses valets m'apportant ses escrits,  
@@ -2412,20 +2412,20 @@ T' a tué ta chandelle, et traicté de la sorte,
 Et s'est enfuy apres.  
 
     CARRILLE
-Par où ?  
+    Par où ?  
 
     FLORESTAN
-Par cette porte.  
+        Par cette porte.  
 
     CARRILLE
 Vous me feriez mourir, bien mocquez-vous de moy,  
 Je l'ay veu, je vous jure, ainsi que je vous voy.  
 
-    FLORESTAN 
+    FLORESTAN
 Dy donc comme il est fait ?  
 
     CARRILLE
-Ah ! de crainte j'en tremble,  
+        Ah ! de crainte j'en tremble,  
 Laissez-moy respirer ; il est fait ce me semble  
 Comme un coq-d'Inde [109] noir ; mais trente fois plus grand.  
 
@@ -2436,13 +2436,13 @@ Tien, pren.
 
 
     CARRILLE
-Moy manier des choses infernales ?  
+        Moy manier des choses infernales ?  
 
     FLORESTAN
 Pren, te dis-je, pendart.  
 
     CARRILLE
-Monsieur, j'ay les mains salles.  
+        Monsieur, j'ay les mains salles.  
 Comme vous le voyez toutes pleines de suif.  
 
     FLORESTAN
@@ -2454,7 +2454,7 @@ Ce n'est pas pour cela, mettez-le sur la table,
 Vous le verrez bien mieux.  
 
     FLORESTAN
-Sus donc puis qu'il te plaist,  
+        Sus donc puis qu'il te plaist,  
 Ostons ce taffetas, et voyons ce que c'est,  
 C'est une belle escharpe, et quelques confitures.  
 
@@ -2488,7 +2488,7 @@ Fut-il jamais au monde une telle surprise ?
 Croyez-vous aux esprits ?  
 
     FLORESTAN
-Ah Dieux, quelle sottise !  
+        Ah Dieux, quelle sottise !  
 
     CARRILLE *(en habillant son maistre.)*
 Vous en dites autant de tout ce que je fais,  
@@ -2502,7 +2502,7 @@ Tout le bien est pour vous, et tout le mal pour moy.
 Comment le mal pour toy ?  
 
     CARRILLE
-Si je voy qu'on renverse  
+        Si je voy qu'on renverse  
 Nos hardes⁎ en ce lieu, pour en faire un commerce,  
 J'ay la peine, et le soin de les raccomoder,  
 Vous ne faites que rire, et que me gourmander,  
@@ -2560,14 +2560,14 @@ Quand nous effectuërons ce que nous avons dit.
 Qui ne serait confus se trouvant en sa place ?  
 Le fait est tres-subtil⁎, mais grands Dieux quand sera-ce ?  
 
-    ANGELIQUE 
+    ANGELIQUE
 Cette nuit, je n'attends pour luy joüer ce tour,  
 Que l'heure et le moment qu'il sera de retour,  
 Il ne s'est veu jamais si surpris en sa vie  
 Comme il sera tantost.  
 
     LUCINDE
-Mon ame en est ravie.  
+        Mon ame en est ravie.  
 
     ANGELIQUE  *(à Isabelle.)*
 Toy si tost qu'un chacun se sera retiré  
@@ -2608,7 +2608,7 @@ Ne doutez point de moy, croyez que je feray
 Mieux que vous ne croyez.  
 
     ISABELLE
-Et moy je vous proteste⁎ [118]  
+        Et moy je vous proteste⁎ [118]  
 Que je viendray fort bien à bout de tout le reste. [119]  
 
 
@@ -2628,7 +2628,7 @@ Mais ne sçauriez-vous pas vous coucher sans y voir ?
 Vostre lit est tout prest. ****  
 
     FLORESTAN
-Penses-tu que je vueille  
+        Penses-tu que je vueille  
 Faire du bruit ceans, afin que je resveille  
 Tout le monde qui dort ? Ouvre donc promptement.  
 
@@ -2636,12 +2636,12 @@ Tout le monde qui dort ? Ouvre donc promptement.
 Tout est ouvert Monsieur.  
 
     FLORESTAN
-Marche tout doucement,  
+        Marche tout doucement,  
 Garde en faisant du bruit de resveiller personne,  
 Parle bas.  
 
     CARRILLE
-Croyez-moy, de crainte je frissonne,  
+        Croyez-moy, de crainte je frissonne,  
 Je crains plus que la mort cet Esprit enchanté⁎,  
 Que ne nous secourt-il à present de clarté ?  
 (Angelique entre par l'autre bout de la chambre avec sa lanterne sourde, et l'ouvre un peu par devant.)
@@ -2666,7 +2666,7 @@ N'estes-vous pas contraint de confesser vous-mesme
 Qu'il revient des esprits ?  
 
     FLORESTAN
-La surprise est extresme,  
+        La surprise est extresme,  
 Je ne sçay que penser tant j'ay l'esprit confus.  
 
     CARRILLE
@@ -2725,7 +2725,7 @@ Qu'il esbloüit mes yeux, et sille ma paupiere.
 Voyez-vous pas aussi qu'au plus creux de l'Enfer  
 Elle a pris cet esclat des yeux de Lucifer [125] ?  
 
-    FLORESTAN 
+    FLORESTAN
 Je ne luy puis donner d'assez dignes loüanges  
 Et sans doute je croy qu'elle est du rang des Anges.  
 
@@ -2751,10 +2751,10 @@ Sans aucun fondement, esbranle mon courage ?
 Il faut voir ce que c'est.  
 
     CARRILLE
-Ne soyez pas si fou  
+        Ne soyez pas si fou  
 De vous joüer du Diable [130], il vous tordroit le cou.  
 
-    FLORESTAN 
+    FLORESTAN
 Quoy ? dans mon cœur⁎ la peur pouroit-elle estre empreinte ?  
 Non non, resolvons-nous, banissons toute crainte.  
 Ombre, Ange, Diable, Esprit, femme, ou qui que tu sois  
@@ -2773,7 +2773,7 @@ Retourne t'en sur l'heure aux Enfers, sans parler.
 Que me veux-tu, respons ?  
 
     ANGELIQUE  *(bas.)*
-Il faut dissimuler. [132]  
+        Il faut dissimuler. [132]  
 Genereux Florestan, à qui seul la Nature  
 Prepare dés long-temps [133] la plus rare adventure  
 Qui soit jamais des Cieux arrivée icy bas,  
@@ -2809,7 +2809,7 @@ Contentez sur ce poinct, Monsieur, sa fantaisie ;
 Accordez luy la paix.  
 
     FLORESTAN
-Je ne crains rien icy  
+        Je ne crains rien icy  
 Avant qu'elle m'eschape il faut estre esclaircy. [140]  
 Je veux presentement que tu me satisfasses,  
 Parle donc, je me ris de toutes tes menaces,  
@@ -2850,7 +2850,7 @@ Et puis n'estant ny luth, ny harpe, ny guiterre
 Que sert de la toucher ?  
 
     FLORESTAN
-En cette extremité  
+        En cette extremité  
 J'en puis bien aisement sçavoir la verité  
 Ce fer m'esclaircira bien-tost de cette affaire,  
 Car estant un esprit je ne te puis mal-faire,  
@@ -2873,7 +2873,7 @@ Voyez si vous devez vous en formaliser.
 Que je sçache ton nom.  
 
     ANGELIQUE
-Puis que j'y suis forcée  
+        Puis que j'y suis forcée  
 Vous sçaurez les mal-heurs, dont je suis traversée,  
 Je sçay que je me perds de vous desabuser  
 Mais il n'est plus saison de vous rien desguiser.  
@@ -2901,7 +2901,7 @@ Comme tu le croyois.
 
 
     CARRILLE
-Il est bien aimable  
+        Il est bien aimable  
 S'il faut que c'en soit un, encore n'en sçay-je rien.  
 (Ils regardent partout avec la chandelle.)
 
@@ -2930,13 +2930,13 @@ Comment s'est-elle peu desrober à ma veuë ?
 Moy le puis-je sçavoir ?  
 
     FLORESTAN
-Je perds icy le sens⁎.  
+        Je perds icy le sens⁎.  
 
     CARRILLE
 Et bien qu'en dites-vous ?  
 
     FLORESTAN
-Regarde là dedans,  
+        Regarde là dedans,  
 Quel prodige est-ce icy ? m'eschaper de la sorte ?  
 
     CARRILLE
@@ -2949,11 +2949,11 @@ Non, mon ame jamais ne fut plus estonnée⁎.
 L'as-tu point veuë aller ?  
 
     CARRILLE
-Ouy, par la cheminée  
+        Ouy, par la cheminée  
 Je l'ay veuë eschaper.  
 
     FLORESTAN
-Ah l'insigne maraut !  
+        Ah l'insigne maraut !  
 
     CARRILLE
 Ouy, Monsieur, je l'ay veuë, ah regardez la haut  
@@ -2961,7 +2961,7 @@ Comme elle s'est soudain convertie en choüette ?
 La voyez-vous voler ?  
 
     FLORESTAN
-Quelle vertu secrette  
+        Quelle vertu secrette  
 A ctte femme icy d'eschaper de mes mains ?  
 Il m'en faut esclaircir, tous ces discours sont vains.  
 Je veux chercher partout ; Dieux c'est chose admirable⁎,  
@@ -2984,7 +2984,7 @@ Et toy de ton costé, cherche par tout, regarde
 Dessous ces tafetas.  
 
     CARRILLE
-Ah, Monsieur, je n'ay garde !  
+        Ah, Monsieur, je n'ay garde !  
 La chercher ! ce seroit de tout poinct m'achever,  
 Moy qui plus que la mort craindrois de la trouver.  
 
@@ -3008,25 +3008,25 @@ Je sçay bien ce que c'est, moy je n'en doute plus.
 Quoy ?  
 
     CARRILLE
-C'est un diable femme, est-il pas raisonnable,  
+        C'est un diable femme, est-il pas raisonnable,  
 Si la femme paroist le plus souvent un Diable,  
 Que le Diable ait pouvoir, une fois seulement  
 De paroistre une femme [149] ?  
 
     FLORESTAN
-O le beau jugement⁎.  
+        O le beau jugement⁎.  
 Est-il temps de railler ?  
 
     CARRILLE
-Quoy ne peut-il pas estre ?  
+        Quoy ne peut-il pas estre ?  
 Je croy ce que je dy.  
 
     FLORESTAN
-Tay toy, cherchons sa lettre ;  
+        Tay toy, cherchons sa lettre ;  
 Est-elle sur la table ?  
 
     CARRILLE
-Ouy, Monsieur, je la voy.  
+        Ouy, Monsieur, je la voy.  
 
     FLORESTAN
 Voyons si je pourray par elle estre esclaircy.  
@@ -3047,13 +3047,13 @@ Trouvez-vous à minuit devant le cimetiere
 Joignant Saint-Innocent [150].  
 
     CARRILLE
-Estrange rendez-vous.  
+        Estrange rendez-vous.  
 
     FLORESTAN
 J'iray.  
 
     CARRILLE
-Je vous tiendray pour le maistre des fous.  
+        Je vous tiendray pour le maistre des fous.  
 Lettre (Il lit.)
 
 Avec vostre valet rendez-vous à la porte.  
@@ -3065,7 +3065,7 @@ Lettre (Il lit.)
 Des gens vestus de noir.  
 
     CARRILLE
-Ce seront des Sathans.  
+        Ce seront des Sathans.  
 *Lettre* (Il lit.)
 
 Meneront un carosse, entrez tous deux dedans.  
@@ -3116,7 +3116,7 @@ Lucinde, Angelique, Isabelle
 Que me comptez-vous là, grands Dieux ?  
 
     ANGELIQUE
-Je me suis veuë,  
+        Je me suis veuë,  
 Sans mentir, sur le poinct tantost d'estre perduë.  
 Il m'avoit tout de bon surprise cette fois  
 Je ne le celle point, lors que moins j'y pensois ;  
@@ -3136,13 +3136,13 @@ A cause de mon duëil, et mon carosse mesme,
 Que pourra-t'il penser ?  
 
     LUCINDE
-«  L'estrange stratageme. » [157]  
+        «  L'estrange stratageme. » [157]  
 Mais quand il se verra dans cet apartement,  
 Si riche et si superbe ; en quel estonnement⁎  
 Ne se verra-t'il point ?  
 
     ANGELIQUE
-En ayant veu ma lettre  
+        En ayant veu ma lettre  
 Je ne sçay s'il voudra dans ce peril se mettre,  
 Mais son cœur⁎ genereux⁎ n'apprehendera rien.  
 
@@ -3156,7 +3156,7 @@ Comme je vous ay dit. Vous Isabelle aussi,
 Agissez comme il faut.  
 
     ISABELLE
-Laissez-m'en le soucy⁎.  
+        Laissez-m'en le soucy⁎.  
 Fin du quatriesme Acte.
 
 
@@ -3175,7 +3175,7 @@ Je ne tarderay point.
 
 
     CARRILLE
-Monsieur, nous voilà pris,  
+        Monsieur, nous voilà pris,  
 Nous sommes maintenant au pouvoir des esprits.  
 Voyez un peu que c'est que d'estre opiniastre [158]  
 Nous avons à present tout l'Enfer à combatre.  
@@ -3223,7 +3223,7 @@ Et perdre encor de plus, quatre doigts de la main
 Et r'estre [160] à la maison.  
 
     FLORESTAN
-O le joly dessein,  
+        O le joly dessein,  
 Je veux tout hazarder⁎, mesme jusqu'à la vie,  
 Pour sçavoir ce que c'est, car j'en brusle d'envie,  
 Je ne sçaurois plus vivre en cet aveuglement,  
@@ -3262,7 +3262,7 @@ De vous avoir tenu si long-temps en prison
 Parmy ces lieux obscurs.  
 
     FLORESTAN
-Deesse que j'adore  
+        Deesse que j'adore  
 On souffre bien la nuit quand on attend l'Aurore,  
 Elle m'eut semblé longue en osant esperer  
 Qu'un si brillant Soleil me devoit esclairer.  
@@ -3303,7 +3303,7 @@ Des sieges promptement.
 
 
     CARRILLE
-Je ne fus en ma vie  
+        Je ne fus en ma vie  
 Surpris comme je suis, que mon ame est ravie,  
 Est-ce une illusion, ou quelque enchantement ?  
 
@@ -3315,7 +3315,7 @@ N'en sera point mauvais, faisons luy des caresses.
 Hola-hau mon amy.  
 
     CARRILLE
-Mes Reynes, mes Princesses,  
+        Mes Reynes, mes Princesses,  
 Vous voulez m'attraper par quelque illusion, ****  
 Qui de vous a changé mon argent en charbon ?  
 
@@ -3329,11 +3329,11 @@ Le mien n'estoit point faux, c'estoit argent de mise.
 Approche toy.  
 
     CARRILLE
-Non, non, je suis fort bien icy,  
+        Non, non, je suis fort bien icy,  
 Mesdames. [164]  
 
     ISABELLE
-As-tu peur ? qui te met en soucy ?  
+        As-tu peur ? qui te met en soucy ?  
 Tu sembles interdit, qu'est-ce qui t'espouvente ?  
 
     CARRILLE
@@ -3355,7 +3355,7 @@ Je sçay que tu viendras mesme en depit de toy.
 J'ay les gouttes aux pieds.  
 
     ISABELLE
-Ah l'estrange imposture !  
+        Ah l'estrange imposture !  
 
     CARRILLE
 
@@ -3435,7 +3435,7 @@ N'estes-vous point maistresse au moins de Licidas,
 Ne me le celez point.  
 
     ANGELIQUE
-Non je ne la suis pas.  
+        Non je ne la suis pas.  
 Et je dy plus encore, je ne la sçauray estre.  
 
     FLORESTAN
@@ -3443,13 +3443,13 @@ Pourquoy donc devant luy n'oseriez-vous paroistre ?
 Quelle crainte avez-vous ?  
 
     ANGELIQUE
-Si vous estes discret,  
+        Si vous estes discret,  
 Ne vous informez pas non plus de ce secret,  
 Il m'importe il suffit, puis-je pas estre femme  
 De telle qualité [172].  
 
     FLORESTAN
-Pardonnez-moy, Madame,  
+        Pardonnez-moy, Madame,  
 Si dans ce grand desir je vous perds [173] le respect,  
 Je ne parleray plus si je vous suis suspect,  
 Ce n'est que par amour, mais si je ne vous fasche,  
@@ -3459,11 +3459,11 @@ Par quel subtil⁎ moyen, par quelle invention
 Vous entrez dans ma chambre. ****  
 
     ANGELIQUE
-Il n'est pas temps encore.  
+        Il n'est pas temps encore.  
 Vous le sçaurez un jour.  
 
     FLORESTAN
-Puis que je vous adore,  
+        Puis que je vous adore,  
 Au moins me devez-vous contenter sur ce poinct.  
 
     ANGELIQUE
@@ -3478,7 +3478,7 @@ Je ne veux desirer rien que ce qui vous plaist.
 Que nous sert-on donc ?  
 
     LUCINDE
-Madame, tout est prest.  
+        Madame, tout est prest.  
 
 
 ### Scene III
@@ -3493,10 +3493,10 @@ Apelle-t'on ?
 
 
     LICIDAS *(derriere le theatre.)*
-Ouvrez.  
+    Ouvrez.  
 
     ANGELIQUE* (bas à Lucinde.)*
-Justes dieux c'est mon frere !  
+        Justes dieux c'est mon frere !  
 
     LUCINDE
 En cette extremité que pretendez-vous faire ?  
@@ -3515,7 +3515,7 @@ Me fera-t'on long-temps attendre à cette porte ?
 Monsieur retirez-vous,  
 (A Isabelle à l'oreille)
 
-Isabelle fay les  
+        Isabelle fay les  
 Entrer dedans leur chambre, et passer par les ais.  
 Dieux aux extremitez où je me vois reduite  
 Je perds le jugement et manque de conduite⁎ !  
@@ -3534,7 +3534,7 @@ Monsieur vous avez fait la faute, il la faut boire.
 Où m'avez vous conduit, justes dieux !  
 
     CARRILLE, *(s'en allant.)*
-Ah Monsieur !  
+        Ah Monsieur !  
 C'estoit avec raison que je mourois de peur.  
 
     LICIDAS  *entre.*
@@ -3545,7 +3545,7 @@ Qui vous peut obliger à ces heures mon frere
 De troubler mon repos ?  
 
     LICIDAS
-Lucinde vous voicy,  
+        Lucinde vous voicy,  
 Mais que vois-je, grands dieux ? quel habit est-ce icy ?  
 Quel apparat de plats ? et quel desordre ? dites ,  
 Je vous voy toutes deux grandement interdites,  
@@ -3583,14 +3583,14 @@ Ma Cousine est icy.
 
 
     LICIDAS
-Je vous vois interdite,  
+        Je vous vois interdite,  
 Je sçay qu'asseurement quelqu'un est là dedans.  
 
     ANGELIQUE
 Vous vous trompez, vous dis-je.  
 
     LICIDAS
-Et le bruit que j'entends ?  
+        Et le bruit que j'entends ?  
 
     CARRILLE *(dedans.)*
 Ah dieu ! si cette fois de ses griffes j'eschape,  
@@ -3611,11 +3611,11 @@ J'y veux aller moy-mesme, attendez je veux voir.
 Non, vous n'entrerez point.  
 
     LICIDAS
-Si je fais mon devoir.  
+        Si je fais mon devoir.  
 Je vous monstreray bien.  
 
     ANGELIQUE
-Ah dieux c'est Isabelle !  
+        Ah dieux c'est Isabelle !  
 
     LICIDAS
 Je verray ce que c'est, baillez-moy la chandelle.  
@@ -3626,7 +3626,7 @@ Je verray ce que c'est, baillez-moy la chandelle.
 Dieux, il les trouvera, Cousine.  
 
     LUCINDE
-Nullement,  
+        Nullement,  
 Ils seront repassez dans leur appartement.  
 
     ANGELIQUE
@@ -3647,7 +3647,7 @@ Dont la porte est estroite, ayant eu de la peine
 D'entrer avec l'espée.  
 
     CARRILLE
-Ah ! la chose est certaine,  
+        Ah ! la chose est certaine,  
 Resolvons-nous au pis, nous allons estouffer ,  
 Car nous sommes sans doute en un cachot d'enfer.  
 
@@ -3661,7 +3661,7 @@ Vous eussiez bien mieux faict, si vous eussiez eu peur
 Aussi bien comme moy.  
 
     FLORESTAN
-Que sera devenuë  
+        Que sera devenuë  
 Cette rare beauté qui m'a charmé⁎ la veuë ?  
 Qui par tant de faveurs a daigné m'obliger⁎ ?  
 Mourons, ou la tirons de ce present danger.  
@@ -3677,33 +3677,33 @@ Je proteste⁎ qu'un homme est entré là dedans.
 Par où Monsieur ?  
 
     LICIDAS
-Par où vilaine ? tu pretends  
+        Par où vilaine ? tu pretends  
 De m'esbloüyr les yeux par ta cajolerie : ****  
 Je le trouveray bien.  
 
     CARRILLE
-Ah grands dieux ! je vous prie  
+        Ah grands dieux ! je vous prie  
 Ayez pitié de moy, de grace aveuglez-les ;  
 On nous cherche .  
 
     LICIDAS *(derriere.)*
-Qui peut avoir dé-joinct ces ais ?  
+        Qui peut avoir dé-joinct ces ais ?  
 
     ISABELLE
 Moy le puis-je sçavoir ?  
 
     CARRILLE
-**Je voy de la lumiere.  
+        **Je voy de la lumiere.  
 
     LICIDAS *(derriere.)*
 Infame sors d'icy.  
 
     CARRILLE
-**Cachons-nous là derriere :  
+        **Cachons-nous là derriere :  
 Quelqu'un entre, Monsieur.  
 
     FLORESTAN
-J'ay l'esprit tout confus,  
+        J'ay l'esprit tout confus,  
 Mais il ne me faut point consulter là dessus,  
 Je ne doy craindre rien, puis que j'ay l'advantage  
 De pouvoir au besoin m'ayder de mon courage.  
@@ -3722,7 +3722,7 @@ Licidas, Florestan, Carrille (caché).
 Quoy donc, c'est Florestan ?  
 
     FLORESTAN
-**Licidas ? en effect  
+        **Licidas ? en effect  
 Je ne me trompe point, c'est luy-mesme, ô merveille :  
 A-t'on jamais parlé d'une chose pareille ?  
 Il faut bien que ce soit par quelque enchantement  
@@ -3788,7 +3788,7 @@ De cette chambre icy dans son apartement ?
 Que peux-tu repartir ?  
 
     FLORESTAN
-Monsieur que cette espee  
+        Monsieur que cette espee  
 Que je tiens maintenant, dans mon sang soit trempee,  
 Que dis-je cette espee ? ah je luy ferois tort !  
 Car elle vient d'un bras trop genereux⁎ et fort,  
@@ -3815,7 +3815,7 @@ Est-il homme de cœur⁎ qui l'eust euë au costé
 Se voyant poursuivy ?  
 
     LICIDAS
-Pour vous purger de blasme  
+        Pour vous purger de blasme  
 Il vous faut confronter avecque cette infame,  
 Cause où je suis trompé de ce scandale icy.  
 
@@ -3828,7 +3828,7 @@ Allons, mais en passant advertissons mon frere,
 Entrons par cet endroict.  
 
     FLORESTAN *(bas.)*
-Je le veux. Justes dieux  
+        Je le veux. Justes dieux  
 En cet aveuglement esclaircissez mes yeux !  
 
     CARRILLE *(sortant d'où il estoit caché.)*
@@ -3846,7 +3846,7 @@ Angelique, Lucinde, Isabelle
 Que me dis-tu, grands dieux !  
 
     ISABELLE
-Madame vostre frere,  
+        Madame vostre frere,  
 Est entré qui soudain s'est fort mis en colere,  
 J'entendois par dehors de bien grandes rumeurs.  
 
@@ -3900,7 +3900,7 @@ Ta priere sera sur le champ exaucee,
 Nous n'y manquerons pas.  
 
     LIZANDRE
-Mais sans nous abuser,  
+        Mais sans nous abuser,  
 Dy-le tout franchement et sans rien déguiser.  
 
     ANGELIQUE
@@ -4046,7 +4046,7 @@ Il ne faut plus songer aux tristesses passees,
 Il se faut réjoüyr.  
 
     FLORESTAN
-Carrille, d'où viens-tu ?  
+        Carrille, d'où viens-tu ?  
 
     CARRILLE
 De peur de mal-parler, Monsieur je me suis teu,  
@@ -4055,11 +4055,11 @@ Participer au bien que le Ciel nous envoye ?
 Me veut-on oublier ?  
 
     FLORESTAN
-Non, parle librement,  
+        Non, parle librement,  
 Dy nous ce que tu veux.  
 
     CARRILLE
-Je veux premierement,  
+        Je veux premierement,  
 (Puis que l'on me permet de parler de la sorte,)  
 Afin que de tout poinct ma tristesse soit morte ;  
 Qu'aujourd'huy l'on me fasse intendant du Festin,  
@@ -4070,7 +4070,7 @@ Apres cela je suis au bout de mes souhaits.
 Me le promettez-vous ?  
 
     FLORESTAN
-Oüy je te le promets,  
+        Oüy je te le promets,  
 Repose-toy sur moy, je t'en donne parole.  
 
     CARRILLE

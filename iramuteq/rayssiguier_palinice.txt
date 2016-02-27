@@ -19,13 +19,13 @@ Vostre très humble, et très obeissant serviteur, DE R.
 
 LES AMOURS DE PALINICE, CIRCEINE ET FLORICE TRAGI-COMEDIE
 
-**** *book_ *id_body-3-1 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-301 *act_ *date_1634 *creator_rayssiguier
 
 -*who_florice
-Mon frère confessés que toute l'Italie,                        
+Mon frère confessés que toute l'Italie,
 Encore que le Ciel l'ait beaucoup embellie,
 Qu'elle soit riche en biens, prodigue en voluptés
-Et qu'elle soit superbe⁎ en diverses Cités,                    
+Et qu'elle soit superbe⁎ en diverses Cités,
 N'a rien de comparable en toutes ses merveilles
 Aux plaisirs qu'ont icy nos yeux et nos oreilles :
 Voyez tous ces costaux, où Bacchus triomphant
@@ -49,7 +49,7 @@ Nous semblent à l'envy se vouloir surpasser,
 Dites-m'en vostre advis, mon frère, je vous prie.
 
 -*who_alcandre
-Puis que vous le voulez il faut que je vous die                    
+Puis que vous le voulez il faut que je vous die
 Que l'Italie est belle, et que là les plaisirs
 Trompent nostre espérance et passent les désirs,
 Que sa richesse est grande, et et que son païsage
@@ -73,7 +73,7 @@ Que vous aimez un peu celle que vous loüez⁎.
 
 -*who_alcandre
 Comment, un peu, ma sœur ? j'aime plus que ma vie
-L'adorable beauté qui m'a l'ame ravie,                        
+L'adorable beauté qui m'a l'ame ravie,
 Et s'il falloit mourir pour avoir seulement
 Le bien de la servir⁎, je mourrois constamment⁎.
 
@@ -101,7 +101,7 @@ Vous le voulez sçavoir, c'est la belle Circeine.
 
 -*who_florice
 Circeine, où pensez-vous ? je pleins vostre malheur,
-Et je ne puis sçavoir vostre amour sans douleur,                    
+Et je ne puis sçavoir vostre amour sans douleur,
 Faites tous vos efforts d'esteindre en leur naissance
 Ces feux dont vous sentez la mortelle puissance,    
 Perdez ces vains désirs, prenez-en de meilleurs,
@@ -128,24 +128,24 @@ Et Palinice sert⁎ avecques passion
 Son frère Clorian dans son affection
 
 -*who_alcandre
-Qu'est-ce donc qui retarde un heureux mariage ?                 
+Qu'est-ce donc qui retarde un heureux mariage ?
 
 -*who_florice
 Palinice.
 
 -*who_alcandre
-Comment, c'est elle qui l'engage,
+      Comment, c'est elle qui l'engage,
 Et la presse en faveur de son frère.
 
 -*who_florice
-                Escoutés,
+      Escoutés,
 Et vous sçaurez le nœud de ces difficultés.
 
 -*who_alcandre
 Vous me ferez plaisir.
 
 -*who_florice
-            Vous cognoissez Sileine.
+      Vous cognoissez Sileine.
 
 -*who_alcandre
 Ouy je le cognoy bien, c'est l'aisné de Circeine.
@@ -158,7 +158,7 @@ Il nuist à Clorian auprès de vostre Dame.
 
 -*who_alcandre
 Ah ! que par ces discours, ma sœur, vous m'obligés⁎,
-Mes maux sont maintenant à demy soulagés,                    
+Mes maux sont maintenant à demy soulagés,
 Je commence de voir quelque jour qui m'esclaire,
 Pour acquerir⁎ la sœur il faut gaigner le frère,
 J'y prendray tant de soins j'y feray tant de pas
@@ -170,7 +170,7 @@ Un secret important au feu qui vous dévore,
 Mais je crains.
 
 -*who_alcandre
-        Craignez-vous de me trop obliger⁎ ?
+      Craignez-vous de me trop obliger⁎ ?
 
 -*who_florice
 Je crains en vous servant⁎ de me trop engager.
@@ -185,14 +185,14 @@ Que son oncle Arimant se portera pour nous,
 Il est fort amoureux.
 
 -*who_alcandre
-            Et de qui ?
+      Et de qui ?
 
 -*who_florice
-                De moy-mesme
-Mais il est importun⁎.                     
+      De moy-mesme
+Mais il est importun⁎.
 
 -*who_alcandre
-            O le bon-heur extrême :
+      O le bon-heur extrême :
 Ah ! ma sœur vous tenez ma vie entre vos mains,
 Sans vous tous mes travaux⁎ n'eussent esté que vains,
 Faites donc qu'Arimant mon amour authorise,
@@ -206,7 +206,7 @@ Dont l'œil pleure les dents qui manquent à la bouche,
 Vous vous moquez, mon frère.
 
 -*who_alcandre
-                Au contraire, ma sœur,
+      Au contraire, ma sœur,
 Sçachez que tant de biens dont il est possesseur,
 Quoy que vous en disiez le rendent agréable,
 La richesse nous rend un homme trop aimable,
@@ -215,7 +215,7 @@ Et luy sert⁎ en amour de chaleur et de sang.
 
 -*who_florice
 Mais vous ne dites pas que leur ame enflamée
-Dans un corps tout glacé se trouvant enfermée                    
+Dans un corps tout glacé se trouvant enfermée
 Fait naistre en leur amour cent sortes de soupçons,
 Le feu ne sçauroit vivre avecque les glaçons,
 La vieillesse amoureuse est un monstre en nature,
@@ -237,13 +237,13 @@ De rendre à vostre amour Circeine plus sensible.
 Le feras-tu ma sœur ?
 
 -*who_florice
-            Ouy, je la voy venir.
+      Ouy, je la voy venir.
 Donnez nous le loisir de nous entretenir.
 
-**** *book_ *id_body-3-2 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-302 *act_ *date_1634 *creator_rayssiguier
 
 -*who_circeine
-En me voyant venir vostre frère vous quitte,                    
+En me voyant venir vostre frère vous quitte,
 Trouve-t'il point mauvais lors que je vous visite ?
 
 -*who_florice
@@ -258,12 +258,12 @@ Aussi bien n'est ce pas ce qui m'emmene icy,
 Voyez dedans ces gands,
 
 -*who_florice
-            Voicy quelque surprise.
+      Voicy quelque surprise.
 
 -*who_circeine
 Non non, vous cognoistrez l'auteur de l'entreprise,
 Tirez en ce papier, et le lisez apres,
-Je veux que vous sçachiez mes desseins plus secrets                
+Je veux que vous sçachiez mes desseins plus secrets
 
 -*who_florice
 Si je ments lors que  je vous jure,
@@ -275,7 +275,7 @@ Et qu'il me punisse en parjure.
 Et comment cet amour dure encor.
 
 -*who_circeine
-                Quel Amour ?
+      Quel Amour ?
 
 -*who_florice
 L'amour de Clorian plus cognu que le jour.
@@ -290,7 +290,7 @@ Si vous considérez la lettre de plus prés.
 Après avoir consideré l'escriture
 Je le cognois d'effect, et je suis bien faschée
 Que son ame se soit dans vos nœuds attachée.
-J'ay fait ce que j'ay peu pour l'oster de vos fers⁎:                    
+J'ay fait ce que j'ay peu pour l'oster de vos fers⁎:
 Mais on mettroit plustost les morts hors des enfers.
 
 -*who_circeine
@@ -307,7 +307,7 @@ Que le feu de son sein eschauffe vostre glace.
 Sçavez vous l'advenir ?
 
 -*who_florice
-            Non, mais par le passé
+      Non, mais par le passé
 Je juge qu'il sera fort mal recompencé,
 Vous le sçavez Circeine aussi bien que moi- mesme,
 Chacun ne sçait-il pas que Clorian vous aime ?
@@ -318,7 +318,7 @@ Il se verra bien loin de son contentement,
 Je ne dis pas cela pour engager Alcandre.
 
 -*who_florice
-Elle rougit pourtant, elle est preste à se rendre.                     
+Elle rougit pourtant, elle est preste à se rendre.
 
 -*who_circeine
 Ce sera m'obliger⁎ que de l'en destourner,
@@ -341,15 +341,15 @@ Ah ! que mon frère aura du mal en son amour.
 Adieu
 
 -*who_florice
-Vous verra-t'on,
+      Vous verra-t'on,
 
 -*who_circeine
-            A quelque heure du jour.
+      A quelque heure du jour.
 
-**** *book_ *id_body-3-3 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-303 *act_ *date_1634 *creator_rayssiguier
 
 -*who_clorian
-Amour que les mortels qui sont en ta puissance                    
+Amour que les mortels qui sont en ta puissance
 Ont des astres malins autheurs de leur naissance,
 Ils n'ont point de repos⁎ que parmy les travaux⁎,
 Leurs biens sont fort petits, et grands leurs moindres maux.
@@ -364,7 +364,7 @@ Qui ne fait point de bien que pour faire du mal,
 Et nous le cognoissons, et toutesfois encore
 Il faut que malgré nous nostre ame les adore.
 Non non, je feray voir au reste des Amants⁎
-Qu'on peut rompre ses fers⁎, et finir ses tourments,                 
+Qu'on peut rompre ses fers⁎, et finir ses tourments,
 Esteint fort aisément une flame⁎ amoureuse,
 Apres m'avoir donné mille marques d'amour,
 Cette ingratte me voit comme le premier jour,
@@ -386,10 +386,10 @@ Aimons la donc tousjours, et faisons nos efforts
 De perdre ce rival qui rompt nos doux accords,
 Ma peur peut tout sur elle, il faut qu'elle l'en presse.
 
-**** *book_ *id_body-3-4 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-304 *act_ *date_1634 *creator_rayssiguier
 
 -*who_palinice
-Que fait icy mon frère, absent de sa maistresse  ?                
+Que fait icy mon frère, absent de sa maistresse  ?
 Si j'avois un Amant⁎ si négligent que vous,
 Je prendrois le plaisir de le rendre jaloux.
 
@@ -410,13 +410,13 @@ Dites moy, depuis quand un si grand changement ?
 
 -*who_clorian
 Depuis qu'elle reçoit Alcandre comme Amant⁎,
-Qu'elle rit avec luy, qu'il est tousjours chez elle.                     
+Qu'elle rit avec luy, qu'il est tousjours chez elle.
 
 -*who_palinice
 Et de là vous jugez,
 
 -*who_clorian
-            Qu'elle m'est infidèlle.
+      Qu'elle m'est infidèlle.
 
 -*who_palinice
 Ostez de vostre esprit ce dangereux soupçon,
@@ -439,7 +439,7 @@ Elle est fille cruelle, et rend tout languissant
 L'amour qui l'a fait naistre, ou l'estouffe en naissant.
 
 -*who_clorian
-Au contraire, ma sœur, mon amour s'en augmente,                 
+Au contraire, ma sœur, mon amour s'en augmente,
 Mon ardeur tous les jours devient plus vehemente,
 Et ne me laisse pas un moment de repos⁎.
 
@@ -463,12 +463,12 @@ Qui voit ce qui n'est pas, doute de ce qu'il tient,
 Et par de faux soupçons sa douleur entretient ;
 Empeschons toutesfois que ce mal ne le gaigne,
 Et qu'il ne soit cognu de ma belle compagne,
-Elle pourroit en fin réduire en vérité                        
+Elle pourroit en fin réduire en vérité
 Ce qui n'est qu'en l'esprit d'un Amant⁎ irrité,
 D'un Amant soupçonneux qui se plaint de son ombre,
 Et craint sans en avoir des ennemis sans nombre.
 
-**** *book_ *id_body-3-5 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-305 *act_ *date_1634 *creator_rayssiguier
 
 -*who_circeine
 Que de diversitez travaillent mes esprits,
@@ -484,13 +484,13 @@ Disposer à son goust de mes yeux, de ma voix,
 Et fort de l'amitié que sa sœur me tesmoigne,
 Il se vient plaindre à moy soudain que je m'éloigne.
 Il estoit bon alors que je vivois chez eux,
-Que Palinice avoit tout pouvoir sur mes vœux⁎,                    
+Que Palinice avoit tout pouvoir sur mes vœux⁎,
 Je ne suis plus enfant, l'âge a fait ma science,
 Et j'ay pour me conduire assez d'expérience :
 Mais Alcandre se vient promener en ces lieux,
 Feignons de nous vouloir destourner de ses yeux.
 
-**** *book_ *id_body-3-6 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-306 *act_ *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Cet Argus importun⁎, qui sans cesse m'esclaire,
@@ -502,7 +502,7 @@ Qui despoüille ces lieux des richesses de Flore
 Qui fait comparaison des roses et des lis
 Quelle tient en sa main tout fraischement cueillis,
 Au neges de son sein, au corail de sa bouche
-Ces œillets sont plus beaux lors que  sa main les touche,                 
+Ces œillets sont plus beaux lors que  sa main les touche,
 Ses regards font en eux l'esclat beaucoup plus grand,
 Et le feu de ses yeux dans leurs feuilles s'esprend,
 Ah ! que je porte envie à cette belle rose,
@@ -522,7 +522,7 @@ Je ne sçaurois guérir ma douleur de la sorte,
 Approchons hardiment : belle que faites vous,
 Ces ornemens sont vains pour des attraits si doux,
 Aussi ne croy je pas que vous en fassiez conte,
-Et que vous les preniez que pour leur faire honte,                 
+Et que vous les preniez que pour leur faire honte,
 La beauté de ces fleurs, dont le parterre est peint,
 N'a rien de comparable aux fleurs de vostre teint.
 
@@ -546,7 +546,7 @@ Auprès de vos beautez n'ont rien de tel en elles :
 Si je dis que la rose en son esclat vermeil
 Auprès de vostre bouche est une ombre au soleil :
 Que ces lis, ces œillets, ont une couleur morte,
-C'est que vostre beauté dessus elles l'emporte,                    
+C'est que vostre beauté dessus elles l'emporte,
 Et que tout ce qu'on voit d'excellent et de beau
 Paroist auprès de vous comme au jour un flambeau.
 
@@ -570,10 +570,10 @@ De vous oser aymer, mais c'est la vérité.
 Ou véritable ou faux, si vous me voulez plaire,
 N'en parlons plus.
 
-**** *book_ *id_body-3-7 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-307 *act_ *date_1634 *creator_rayssiguier
 
 -*who_palinice
-        Circeine, et bien cette onde claire                
+      Circeine, et bien cette onde claire
 Parle t'elle pour vous advantageusement
 Comme fait le discours de ce parfaict amant⁎.
 
@@ -581,7 +581,7 @@ Comme fait le discours de ce parfaict amant⁎.
 Que vous m'avez surprise !
 
 -*who_palinice
-            Au moins il me le semble,
+      Au moins il me le semble,
 Et vous ne pouvez pas vous ennuyer ensemble,
 Alcandre a l'esprit bon, il a beaucoup d'aquis
 Pour vous faire trouver son entretien exquis.
@@ -597,10 +597,10 @@ Il ne vous disoit rien qui vous fust importun⁎.
 Son entretien n'estoit qu'un entretien commun.
 
 -*who_palinice
-Je croy ce qu'il vous plaist.                             
+Je croy ce qu'il vous plaist.
 
 -*who_alcandre
-            Mauvaise Palinice,
+      Mauvaise Palinice,
 Je n'ay jamais rien fait contre vostre service⁎.
 
 -*who_palinice
@@ -613,10 +613,10 @@ Puis que vous le voulez je vous quite la place.
 Adieu belles.
 
 -*who_circeine
-        Adieu.
+      Adieu.
 
 -*who_alcandre
-            Je crains cet entretien,
+      Je crains cet entretien,
 Je prevoy que l'on va disputer de mon bien,
 Palinice peut tout sur l'esprit de Circeine,
 Et son authorité me fera de la peine.
@@ -625,7 +625,7 @@ Et son authorité me fera de la peine.
 Dites la vérité, j'ay desja remarqué
 Que pour vostre sujet⁎ il semble bien piqué,
 Qu'il vous aime, ou qu'il feint avecques tant d'adresse
-Que je parle de vous comme de sa maistresse.                     
+Que je parle de vous comme de sa maistresse.
 
 -*who_circeine
 Si la civilité doit passer pour amour,
@@ -652,7 +652,7 @@ Jugez avec quel œil je verrois ce divorce⁎,
 Si je le souffrirois qu'avec beaucoup de force.
 
 -*who_circeine
-Continuez tousjours, Madame, de m'aymer                    
+Continuez tousjours, Madame, de m'aymer
 Et moy de vous servir⁎, et de vous estimer,
 Puis que vous avez creu que c'estoit son attente,
 Encor que je n'en sois nullement consentente
@@ -669,11 +669,11 @@ Cette obligation⁎, de ce que je pourray.
 Pour ne les fascher point, il me faudra contraindre,
 L'on vient à bout de tout pourveu qu'on sçache feindre.
 
-**** *book_ *id_body-4-1 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-401 *act_ *date_1634 *creator_rayssiguier
 
 -*who_cerinte
 
-Divin sujet de mes douleurs                            
+Divin sujet de mes douleurs
 Belle cause de tous mes pleurs,
 Ingrate et parfaite Florice :
 Le ciel t'a-il fait naistre avec cette beauté,
@@ -684,7 +684,7 @@ A ceux qui te rendent service⁎ ?
 Tes appas⁎ qui sont si puissans
 Tiendront-ils l'empire des sens
 Avec une rigueur si forte,
-Que tu ne daignes pas regarder seulement                    
+Que tu ne daignes pas regarder seulement
 L'extrême passion où mon ame s'emporte,
 Ny donner quelque allègement
 Aux longs ennuis⁎ que je suporte.
@@ -706,7 +706,7 @@ Qui te peut apporter du blasme.
 
 Helas ! je ne suis malheureux
 Que pour estre trop amoureux
-D'une beauté qui fait estime                            
+D'une beauté qui fait estime
 D'un homme que les biens rendent impérieux,
 Qui parlait de mes feux comme on feroit d'un crime
 Empesche sa bouche et ses yeux
@@ -726,10 +726,10 @@ La touchent de pitié pour ta longue souffrance,
 Elle a l'esprit trop bon pour prendre en bonne part
 Sans quelqu'autre intérest les vœux⁎ de ce vieillard.
 
-**** *book_ *id_body-4-2 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-402 *act_ *date_1634 *creator_rayssiguier
 
 -*who_florice
-Cerinte quel sujet a vostre humeur réveuse ?                    
+Cerinte quel sujet a vostre humeur réveuse ?
 
 -*who_cerinte
 Vous le sçavez ma belle, une cause amoureuse
@@ -745,7 +745,7 @@ Ces parterres, ces fleurs, ces jardins, ces vergers,
 Où l'air est parfumé de ces beaux orangers,
 Où toute chose rit, où l'amoureux Zéphire 
 Entre les bras de Flore à toute heure souspire
-Ces ruisseaux dont l'argent coule si doucement,                     
+Ces ruisseaux dont l'argent coule si doucement,
 Ces arbres que le vent esmeut légèrement,
 Ces fontaines, ces prez et ces plaisans ombrages
 Hors de vostre présence ont des objects⁎ sauvages.
@@ -770,7 +770,7 @@ A laissé dans mon cœur des désirs trop ardans
 Pour le pouvoir ouyr sans mourir tout à l'heure,
 Il faut que mon feu vive ou que mon ame meure,
 Vous tenez en vos mains et mes biens et mes maux,
-Mon repos en dépend ainsi que mes travaux⁎,                     
+Mon repos en dépend ainsi que mes travaux⁎,
 Un mot de vostre bouche establit ma fortune⁎,
 Ou me rend désormais la lumière importune⁎,
 Seule vous gouvernez mon heur⁎ et mon mal-heur
@@ -785,19 +785,19 @@ Mais n'est-ce point un heur⁎ de vos croyances folles ?
 En quoy consiste t'il ?
 
 -*who_cerinte
-            A dire deux paroles,
+      A dire deux paroles,
 
 -*who_florice
 Qui sont ?
 
 -*who_cerinte
-J'ayme Cerinte,
+      J'ayme Cerinte,
 
 -*who_florice
-            Et je l'avois jugé,
+      Et je l'avois jugé,
 Si je dis donc ces mots vous estes allégé
 Vous estes plus heureux que le reste des hommes,
-Les Dieux désireront d'estre ce que nous sommes,                 
+Les Dieux désireront d'estre ce que nous sommes,
 S'il ne tient qu'à cela je vous rendray content.
 
 -*who_cerinte
@@ -817,15 +817,15 @@ Vous estes tous frapez de mesme maladie,
 Adieu le bien heureux,
 
 -*who_cerinte
-            Après ce trait moqueur
+      Après ce trait moqueur
 Je devrois effacer son portrait de mon cœur,
 Mais ses dédains ne font que raviver ma flame,
 Elle se changera, souffrons, c'est une femme.
 
-**** *book_ *id_body-4-3 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-403 *act_ *date_1634 *creator_rayssiguier
 
 -*who_arimant
-Amour puissant demon, qui régis les mortels,                     
+Amour puissant demon, qui régis les mortels,
 Dois-je encore porter l'encens sur tes autels ?
 Mes cheveux desja blancs, et l'âge qui me presse
 Me devroient dispenser des loix d'une maistresse,
@@ -842,7 +842,7 @@ En faisant voir en moy la glace avec l'ardeur,
 Monstre aussi ton pouvoir en rendant favorable
 A mes désirs ardans cet objet⁎ adorable,
 Inspire à mon esprit des persuasions
-Qui détournent le sien de ses aversions,                    
+Qui détournent le sien de ses aversions,
 La fille de nature ayme d'estre parée,
 Faisons luy donc pleuvoir une moisson dorée,
 Et couvrons nos défauts de l'éclat des trésors,
@@ -855,14 +855,14 @@ Mais le voicy venir assez mélancolique,
 Je sçay bien d'où luy vient la douleur qui le pique,
 Circeine depuis peu le voit bien froidement.
 
-**** *book_ *id_body-4-4 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-404 *act_ *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Me voilà trop heureux, servons-nous d'Arimant,
 Comme oncle il peut beaucoup sur ma chère maistresse⁎.
 
 -*who_arimant
-D'où vient  que ce visage est couvert de tristesse ?                
+D'où vient  que ce visage est couvert de tristesse ?
 Palinice vous nuit, et Clorian aussi.
 
 -*who_alcandre
@@ -884,17 +884,17 @@ Pour n'estre point ingrat, ma puissance est petite,
 Mais ce que je pourray
 
 -*who_arimant
-            Vous le sçaurez après,
+      Vous le sçaurez après,
 Dites moy seulement d'où naissent vos regrets,
 Et quel nouveau sujet⁎ vous avez de vous plaindre.
-De voir vostre nièce avec moy se contraindre,                     
+De voir vostre nièce avec moy se contraindre,
 Si je veux luy parler, ne me respondre mot,
 Tourner ailleurs ses yeux, ou s'enfuyr aussi-tost.
 Elle fait plus d'estat de vostre amour discrette
 Que vous ne pensez pas,
 
 -*who_alcandre
-            Elle est donc bien secrette,
+      Elle est donc bien secrette,
 Puis que quand Clorian ou Palinice y sont,
 Et qu'elle m'aperçoit elle change de front.
 
@@ -915,7 +915,7 @@ Je feray plus encore que je ne vous promets.
 Ma vie avec ces vers en vos mains je remets.
 
 -*who_arimant
-Mais Alcandre un bien-fait vous en demande un autre,                 
+Mais Alcandre un bien-fait vous en demande un autre,
 Travaillez pour mon bien, comme moy pour le vostre,
 Faites que vostre sœur approuve mon dessein.
 
@@ -927,14 +927,14 @@ Vostre dessein l'honore, et je puis l'engager
 Selon vostre désir,
 
 -*who_arimant
-        Adieu c'est m'obliger⁎.
+      Adieu c'est m'obliger⁎.
 
-**** *book_ *id_body-4-5 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-405 *act_ *date_1634 *creator_rayssiguier
 
 -*who_sileine
 Dois-je encore long-temps supporter mes supplices,
 Ne devez-vous jamais agréer mes services⁎ ?
-Puis que vous le voulez j'ay failly contre vous,                     
+Puis que vous le voulez j'ay failly contre vous,
 Et mon crime est plus grand que n'est vostre courroux,    
 Si je n'ay point failly, quelle humeur vous emporte,
 De vous monstrer si froide à mon ardeur si forte ?
@@ -956,7 +956,7 @@ D'oublier cet amour dont vous m'asseurez tant,
 Pour un nouvel objet, c'est bien estre constant⁎.
 
 -*who_sileine
-Je ne me dédis pas d'avoir servy Dorise,                      
+Je ne me dédis pas d'avoir servy Dorise,
 Mais vous sçavez pourquoy se fit cette entreprise,
 Vous le vouliez ainsi, moy pour vous obeyr,
 Je fus ingenieux à me sçavoir trahir,
@@ -974,7 +974,7 @@ Et puis ce sera moy qui seray le coulpable.
 C'est moy,
 
 -*who_sileine
-        C'est vous d'effect, et moy le misérable
+      C'est vous d'effect, et moy le misérable
 Qui souffre le tourment qu'un autre a mérité.
 
 -*who_palinice
@@ -982,7 +982,7 @@ Vous n'estes pas encor tout à fait acquitté.
 
 -*who_sileine
 Que me reste-t'il donc pour vous rendre assouvie ?
-Demandez-vous mon sang ? demandez-vous ma vie ?                 
+Demandez-vous mon sang ? demandez-vous ma vie ?
 Je les perdray tous deux si c'est vostre désir.
 
 -*who_palinice
@@ -1006,10 +1006,10 @@ Sont de chercher tousjours de nouvelles malices :
 Ingrate je voy bien, mais je le voy trop tard,
 Que tes discours ne sont que feintes et que fard.
 
-**** *book_ *id_body-5-1 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-501 *act_ *date_1634 *creator_rayssiguier
 
 -*who_arimant
-Circeine vous sçavez que j'adore Florice,                    
+Circeine vous sçavez que j'adore Florice,
 Qu'Alcandre m'y peut nuire, ou m'y rendre service
 Et vous le méprisez, vous fuyez son abord⁎,
 Si vous continuez vous me donnez la mort,
@@ -1018,7 +1018,7 @@ Vous sçavez qu'il vous ayme, et ses feux sont honestes,
 -*who_circeine
 Vous avez bonne grace en cet âge où vous estes,
 De vous estre sousmis aux traverses d'amour,
-Croyez-vous d'accorder la nuit avec le jour,                    
+Croyez-vous d'accorder la nuit avec le jour,
 Le chaud avec le froid, et contre la nature,
 De faire qu'une fille ayme la sepulture :
 Mon cher oncle, Florice a des appas⁎ trop grands,
@@ -1043,7 +1043,7 @@ Mais Clorian, mon frère, et Palinice ensemble,
 Alors que mon mal-heur avec moy les assemble,
 Me tourmentent si fort à son occasion,
 Que je ne le puis voir qu'à sa confusion,
-Quoy que dedans mon ame encor je le regrette,                    
+Quoy que dedans mon ame encor je le regrette,
 Je l'ay cognu tousjours d'une humeur si discrette,
 Et si plein de respect et de civilité,
 Que je me dois loüer de son honesteté.
@@ -1068,7 +1068,7 @@ Vous ne parleriez pas avec moy de la sorte.
 
 -*who_arimant
 Hors de leur interest tous les autres aussi.
-Ne vous préfferoient pas avec tant de soucy⁎,                     
+Ne vous préfferoient pas avec tant de soucy⁎,
 Laissez les interests et des uns et des autres,
 De tous nos sentimens ne suivez que les vostres,
 Lors que vous aurez leu ces vers qui sont de luy,
@@ -1092,7 +1092,7 @@ Vous dédaignez de voir un malheureux esclave,
 Qui tient ses fers⁎ si précieux,
 Que des larmes dont il les lave,
 Il rend graces aux dieux.
-Vous me voyez languir, vous me voyez contraindre,                 
+Vous me voyez languir, vous me voyez contraindre,
 Vous me voyez souffrir mille ennuis sans me plaindre
 De vos cruels mespris.
 
@@ -1112,7 +1112,7 @@ Mais au fort de mon mal si je tourne ma veue
 Sur les divins apas⁎ dont vous estes pourveue
 Je m'en dédis soudain,
 Et mon cœur se resout à toutes les tortures
-Que peut souffrir un cœur humain                        
+Que peut souffrir un cœur humain
 Dans les pénibles advantures
 Que fait naistre un dédain.
 Clorian mon rival ny sa sœur, ny vous mesme,
@@ -1136,7 +1136,7 @@ Voyés en quel estat est son ame affligée.
 
 -*who_circeine
 Si ce qu'il dit est vray je luy suis obligée⁎,
-Et soyez asseuré que pour l'amour de vous                    
+Et soyez asseuré que pour l'amour de vous
 Il recevra de moy des traictements plus doux.
 
 -*who_arimant
@@ -1150,26 +1150,26 @@ Je ne puis toutesfois autrement l'obliger⁎.
 Escrivés-luy,
 
 -*who_circeine
-        Non non, se seroit m'engager,
+      Non non, se seroit m'engager,
 
 -*who_arimant
 J'escriray donc pour vous,
 
 -*who_circeine
-            Arimant, l'un vaut l'autre.
+      Arimant, l'un vaut l'autre.
 
 -*who_arimant
 Circeine, je ne sçay quelle humeur est la vostre,
 Parlez-moy franchement,
 
 -*who_circeine
-            Bien je vous le promets.
+      Bien je vous le promets.
 
 -*who_arimant
 Hayssez-vous Alcandre, ou bien si vous l'aimés.
 
 -*who_circeine
-Pourquoy haïr Alcandre, il a des avantages,                     
+Pourquoy haïr Alcandre, il a des avantages,
 Qui le feroient aymer aux ames plus sauvages.
 
 -*who_arimant
@@ -1191,14 +1191,14 @@ Ah ! qu'il seroit heureux contre son espérance,
 S'il avoit de vos mains une telle asseurance,
 Et si vous me voulés obliger⁎ tout à faict,
 Ne m'en dites pas tant, et m'en donnés l'effaict.
-Un petit mot d'escrit redonnera la vie                        
+Un petit mot d'escrit redonnera la vie
 A qui vos cruautés l'ont à demy ravie.
 
 -*who_circeine
 Je ne veux pas escrire,
 
 -*who_arimant
-            Et bien non j'escriray :
+      Et bien non j'escriray :
 Mais vous approuverez ce que je luy diray.
 
 -*who_circeine
@@ -1217,8 +1217,8 @@ Que ces soins importuns⁎ se sentent de l'enfance :
 Et bien qu'y trouvés-vous à redire.
 
 -*who_circeine
-                    A la fin
-Il faudra confesser que vous estes bien fin,                    
+      A la fin
+Il faudra confesser que vous estes bien fin,
 Et quand je signeray n'est-ce pas tout de mesme,
 Que si j'avois escrit Alcandre je vous ayme ?
 
@@ -1234,7 +1234,7 @@ La faute sera vostre, et n'aura point d'excuse.
 Je le veux bien, Adieu.
 
 -*who_circeine
-            Le plaisant amoureux,
+      Le plaisant amoureux,
 En obligeant Alcandre il se croit bien-heureux,
 Et se met dans l'esprit mille chimères vaines
 Pour flater sa folie, et soulager ses peines,
@@ -1243,10 +1243,10 @@ Mais Alcandre à mes yeux a de puissants apas⁎,
 Sa passion discrète entièrement m'oblige⁎,
 Clorian que voicy m'importune et m'afflige.
 
-**** *book_ *id_body-5-2 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-502 *act_ *date_1634 *creator_rayssiguier
 
 -*who_clorian
-Je cognois bien Circeine en vos déportemens⁎,                    
+Je cognois bien Circeine en vos déportemens⁎,
 Que je suis malheureux entre tous vos amans⁎,    
 Et quoy que j'aye esté le premier dans vos chaines,
 Le premier qui pour vous a suporté de peines
@@ -1266,7 +1266,7 @@ Vous vous plaignés tousjours, vostre humeur ombrageuse
 Est trop insupportable, et m'est trop dangereuse.
 
 -*who_clorian
-Pleust à Dieu qu'il fust vray, que mes soubçons trompeurs            
+Pleust à Dieu qu'il fust vray, que mes soubçons trompeurs
 Ne fussent rien qu'un ombre, ou que vaines vapeurs :
 Mais je suis asseuré, qu'un autre amour vous touche,
 Qu'Alcandre est dans le cœur, et moy dedans la bouche.
@@ -1280,10 +1280,10 @@ Ah ! quelle ingratitude, après tant de services⁎
 Que ce sexe s'emporte, aisément dans les vices :
 Mais elle a laissé cheoir un de ses gands icy.
 
-**** *book_ *id_body-5-3 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-503 *act_ *date_1634 *creator_rayssiguier
 
 -*who_sileine
-Clorian m'a promis de prendre le soucy⁎                        
+Clorian m'a promis de prendre le soucy⁎
 D'apaiser Palinice, il faut que je le trouve.
 
 -*who_clorian
@@ -1296,15 +1296,15 @@ Ta sœur s'est elle point quelque peu relaschée,
 Ne me le cache point,
 
 -*who_clorian
-            Elle estoit bien fachée,
+      Elle estoit bien fachée,
 Mais j'ay tant fait pour toy, qu'elle t'a pardonné,
 Voy ce qu'en ta faveur, elle mesme a donné.
 
 -*who_sileine
-O que je suis heureux,                                
+O que je suis heureux,
 
 -*who_clorian
-            Lorsqu'elle a veu ta lettre
+      Lorsqu'elle a veu ta lettre
 J'ay beaucoup travaillé devant que le remettre,
 Mais touchée à la fin de te voir repetant,
 Elle m'a dit ces mots, qu'il vive donc content.
@@ -1317,7 +1317,7 @@ Si la lettre respond à tes désirs ardents.
 J'ay long- temps contesté si je devois recevoir les excuses de Sileine, après m'avoir si souvent offencée, et je m'estois desja resoluë de ne l'escouter plus, quand les asseurances que Clorian m'a donnée de sa répentance, m'ont obligée à luy accorder le pardon qu'il me demande, à condition que s'il retombe dans sa première faute, il ne doit espérer plus rien en Palinice.
 
 -*who_sileine
-Que j'adore ce nom, que je baise et rebaise                    
+Que j'adore ce nom, que je baise et rebaise
 Ce papier bien-heureux, instrument de mon aise,
 
 -*who_clorian
@@ -1343,16 +1343,16 @@ Son peu d'expérience en ces ruses d'amour,
 Me le déffend,
 
 -*who_clorian
-        Sileine on les sçait dans un jour,                    
+      Sileine on les sçait dans un jour,
 L'amour est un bon maistre, aide de la nature,
 Tu t'en esclairciras voyant cette escriture :
 Coignois-tu de qui c'est ?
 
 -*who_sileine
-            d'Alcandre
+      d'Alcandre
 
 -*who_clorian
-                    Il est certain.
+      Il est certain.
 
 -*who_sileine
 Mais à ce que je voy ce n'est rien qu'un quatrain
@@ -1360,7 +1360,7 @@ Dans lequel il tesmoigne une flame amoureuse,
 Sans y nommer personne,
 
 -*who_clorian
-            Et c'en est là la ruse.
+      Et c'en est là la ruse.
 Ta sœur qui ne veut pas qu'on sçache son ardeur,
 Le reçoit devant nous avec quelque froideur,
 Et fait taire son nom en ce qu'il fait pour elle,
@@ -1368,7 +1368,7 @@ L'aymant elle le fuit, me rit m'estant cruelle :
 Et puis c'est ignorer les ruses des amants⁎.
 Non non, mon cher amy, perds ces vains sentimens:
 L'amour, comme j'ay dit, est un maistre d'eschole
-Qui monstre ses secrets avec une parolle,                     
+Qui monstre ses secrets avec une parolle,
 Un mot le faict comprendre à cent peuples divers,
 Et lors que tu sçauras où j'ay trouvé ses vers,
 Tu diras avec moy que ta sœur est sçavante
@@ -1395,7 +1395,7 @@ Dans ce gand j'ay trouvé cette marque funeste,
 De tout mon desplaisir toy juge après du reste.
 
 -*who_sileine
-Elle nous a trompés, trompons à nostre tour,                     
+Elle nous a trompés, trompons à nostre tour,
 Les ruses sont souvent permises en amour.
 Ostons ces quatre vers pour en mettre quatre autres,
 Escrits de vostre main, qu'on puisse croire vostres,
@@ -1410,10 +1410,10 @@ Ainsi mal-aisement sera-t-elle déceuë.
 Laisse m'en le soucy⁎, fais les vers seulement,
 Je feray bien le reste assez subtilement.
 
-**** *book_ *id_body-6-1 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-601 *act_ *date_1634 *creator_rayssiguier
 
 -*who_cerinte
-On me vient d'advertir que Florice est allée                    
+On me vient d'advertir que Florice est allée
 Prendre seule le frais au bout de cette allée.
 
 -*who_arimant
@@ -1423,7 +1423,7 @@ Sans qu'un fascheux rival vienne troubler mon aise.
 Mais le voicy venir, ô rencontre mauvaise,
 
 -*who_cerinte
-J'apperçois Arimant, tesmoignons froidement                    
+J'apperçois Arimant, tesmoignons froidement
 Que je viens en ce lieu par divertissement.
 
 -*who_arimant
@@ -1448,9 +1448,9 @@ Mais Alcandre et ses biens me nuisent plus que luy,
 Destournons par icy, j'y puis aller de mesme.
 
 -*who_arimant
-Il s'en va, courons donc vers la beauté que j'aime.                
+Il s'en va, courons donc vers la beauté que j'aime.
 
-**** *book_ *id_body-6-2 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-602 *act_ *date_1634 *creator_rayssiguier
 
 -*who_florice
 
@@ -1468,7 +1468,7 @@ Et mesprisoit la cour, et les diversitez.
 
 Tantost sur le bord des ruisseaux,
 Et tantost sur les fleurs qui bordent nos fontaines :
-Nous oyons les oiseaux                                
+Nous oyons les oiseaux
 
 Qui nous disoient leurs peines,
 Et mesloient leurs chansons au murmure des eaux.
@@ -1491,7 +1491,7 @@ Par toute la contrée,
 Nos divertissements ont cessé d'estre tels.
 
 N'ois-je pas quelques uns qui par diverse voye,
-Se rendent en ces lieux, il faut que je les voye,                     
+Se rendent en ces lieux, il faut que je les voye,
 Cerinte et mon vieillard viennent pour me chercher,
 Sans en faire semblant laissons les approcher.
 
@@ -1516,14 +1516,14 @@ Quand vous y seriés seul vous ou luy l'advantage
 En seroit bien petit,
 
 -*who_arimant
-            Mauvaise ce langage
+      Mauvaise ce langage
 Devroit avoir changé pour mon subject au moins.
 
 -*who_cerinte
-Pourquoy plustost pour vous que pour moy.                    
+Pourquoy plustost pour vous que pour moy.
 
 -*who_florice
-                    Tous vos soins
+      Tous vos soins
 Et vos discours d'amour sont choses innutiles.
 
 -*who_arimant
@@ -1548,7 +1548,7 @@ Cruelle, recevez en des termes plus doux,
 Les offres d'un amant⁎ qui veut mourir pour vous.
 
 -*who_florice
-Voyons si je pourray contenter l'un et l'autre,                    
+Voyons si je pourray contenter l'un et l'autre,
 Que me demandez-vous, quel desir est le vostre ?
 
 -*who_arimant
@@ -1571,9 +1571,9 @@ Pour ne me tenir pas ce qu'il m'avoit promis.
 Qu'a-t'il promis ?
 
 -*who_arimant
-        De faire avecque vous en sorte
+      De faire avecque vous en sorte
 Que vous recognoistriez l'amour que je vous porte.
-Et ma sœur m'a promis de ne voir plus que luy                    
+Et ma sœur m'a promis de ne voir plus que luy
 Si cela suffisoit pour finir mon ennuy⁎
 Promettez m'en autant, et mon ame contente,
 Recueillera le fruict qu'on doit à son attente.
@@ -1584,7 +1584,7 @@ De ne regarder point vostre rival jamais,
 Estes-vous satisfait ?
 
 -*who_arimant
-            Plus qu'homme de la terre.
+      Plus qu'homme de la terre.
 
 -*who_cerinte
 Dieux ! je ne suis pas mort de ce coup de tonnerre,
@@ -1602,7 +1602,7 @@ Mais je voy que Cerinte a l'ame bien troublée.
 Dites plustost qu'elle est de douleur accablée.
 
 -*who_florice
-Je vous veux toutes fois oster de ce soucy⁎                    
+Je vous veux toutes fois oster de ce soucy⁎
 Pour l'amour de vous seul je le veux fuir aussi :
 Et pour l'amour de moy, forçant ce labirinte
 Je ne veux jamais voir Arimant ny Cerinte.
@@ -1628,7 +1628,7 @@ Mon ingrate, son frère et toy sçaurez peut-estre
 Ce que c'est de vouloir se joüer à son maistre.
 Florice se rit donc de mon affection,
 Et me vient reprocher mon imperfection.
-Est-ce là ce qu'Alcandre a fait pour moy vers elle,                
+Est-ce là ce qu'Alcandre a fait pour moy vers elle,
 Est-ce bien recognoistre un service⁎ fidèlle ?
 J'ay fait que ma nièce a receu ses escrits,
 Et luy fait que sa sœur me voit avec mespris.
@@ -1639,7 +1639,7 @@ Te pourroit bien encor aporter de l'ennuy :
 Mais voicy Clorian découvrons luy l'affaire
 Désobligeons Alcandre, et tachons de luy plaire.
 
-**** *book_ *id_body-6-3 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-603 *act_ *date_1634 *creator_rayssiguier
 
 -*who_clorian
 La ruse est bien conduite, Ah ! que c'est dextrement,
@@ -1648,7 +1648,7 @@ J'ay fait les quatre vers escrits de ma main mesme
 Desquels on peut juger que mon ingrate m'ayme,
 Et que Sileine a mis au lieu de ceux icy,
 Sans qu'elle en sçache rien, esperons donc, voicy
-Nostre vieil amoureux, oncle de ma maistresse,                     
+Nostre vieil amoureux, oncle de ma maistresse,
 Qui parlant pour Alcandre en sa faveur la presse.
 Taschons de le gaigner, Cerinte m'a conté⁎
 Que Florice aujourd'huy l'a fort mescontenté,
@@ -1663,7 +1663,7 @@ Clorian s'entretient de ses justes regrets,
 Ils naissent,
 
 -*who_arimant
-        quelquesfois d'une cause légère,
+      quelquesfois d'une cause légère,
 Le bon-heur peut venir lors qu'on en désespere.
 
 -*who_clorian
@@ -1675,7 +1675,7 @@ Qui rit de ceux qu'il tient, et qui croit en amour,
 C'est estre criminel d'aimer plus que d'un jour.
 
 -*who_arimant
-Il est vray que ce sexe⁎ a par fois  des follies,         
+Il est vray que ce sexe⁎ a par fois  des follies,
 Qui luy font à tout coup faire mille saillies⁎ :
 Mais je sçay mieux que vous d'où vient tout vostre mal.
 
@@ -1703,7 +1703,7 @@ Voila ce que jamais elle n'a fait pour moy,
 Depuis deux ou trois ans que je vy sous sa loy.
 
 -*who_arimant
-Ne vous tourmentez point, je veux par cette lettre                
+Ne vous tourmentez point, je veux par cette lettre
 Désobliger Alcandre, et bien-tost vous remettre,
 Allez trouver Circeine, et dedans vos discours
 Laschés quelque propos qui touchent vos amours,
@@ -1712,7 +1712,7 @@ De voir que vous sçachiez une affaire cachée,
 Laissez là, je feray tout le reste,
 
 -*who_clorian
-                Arimant
+      Arimant
 Vous rapellez en vie un malheureux amant⁎.
 
 -*who_arimant
@@ -1727,10 +1727,10 @@ Ce rival importun⁎ qui cause ma tristesse,
 La finesse en amour est prise pour vertu,
 Tel a vaincu souvent qui n'a pas combatu.
 
-**** *book_ *id_body-6-4 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-604 *act_ *date_1634 *creator_rayssiguier
 
 -*who_circeine
-Que la condition quelquesfois est nuisible,                    
+Que la condition quelquesfois est nuisible,
 Que les plus eslevez sont subjets à tomber,
 Leur chute est si visible,
 Qu'on peut mal-aisement aux yeux la desrober.
@@ -1742,7 +1742,7 @@ Les desseins mieux fondez trompent nostre espérance,
 Où l'on croit le repos on trouve les travaux :
 Et contre l'apparence,
 Au milieu des plaisirs des desplaisirs nouveaux.
-Mes compagnes et moy nous sommes retirées,                    
+Mes compagnes et moy nous sommes retirées,
 Dans nos petits hameaux, hors du monde et du bruict,
 Ou de tous separées,
 Chacun croit qu'en repos la lumière nous luit.
@@ -1763,7 +1763,7 @@ Ou comme entre ennemis on vienne à le finir.
 Je suis garde des ponts, vous devez le passage.
 
 -*who_circeine
-Vous me feriez juger que vous n'estes pas sage,                    
+Vous me feriez juger que vous n'estes pas sage,
 Que vous m'avez fait peur de me surprendre ainsi,
 Et quelle est vostre humeur de vous cacher icy.
 
@@ -1780,7 +1780,7 @@ Autant que vostre lettre à qui l'a voulu voir.
 Quelle lettre
 
 -*who_clorian
-        Il est vray je n'en puis rien sçavoir,
+      Il est vray je n'en puis rien sçavoir,
 Alcandre est si secret que je ne l'ay pas veuë,
 Plustost qu'un seul moment apres l'avoir receuë.
 
@@ -1793,11 +1793,11 @@ Où vous estimez tant son mérite et sa flame,
 Que vous ne pouvez pas le mespriser sans blasme.
 
 -*who_circeine
-Alcandre, Clorian, ny mortel quel qu'il soit,                    
+Alcandre, Clorian, ny mortel quel qu'il soit,
 Ne sera plus oüy,
 
 -*who_clorian
-        Ma feinte la déçoit.
+      Ma feinte la déçoit.
 C'est assez laissons la descharger sa colère.
 
 -*who_circeine
@@ -1805,7 +1805,7 @@ Tu ne pouvois ingrat autrement me desplaire,
 Et je te feray voir avec ta vanité,
 Que ma lettre est l'effect d'une importunité.
 
-**** *book_ *id_body-6-5 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-605 *act_ *date_1634 *creator_rayssiguier
 
 -*who_florice
 Estes-vous resolus encor de me poursuivre ?
@@ -1819,7 +1819,7 @@ Encor que vos mespris traversent⁎ mon amour,
 Et que vous souhaitiés que ma flame fust morte
 
 -*who_florice
-Et moy j'ay résolu de vivre d'autre sorte,                    
+Et moy j'ay résolu de vivre d'autre sorte,
 Et de n'endurer plus vostre importunité.
 
 -*who_arimant
@@ -1847,7 +1847,7 @@ Et dois-je estre puni des défauts d'un rival ?
 
 -*who_florice
 Je vous ay là-dessus expliqué ma pensée,
-Je ne désire plus de me voir si pressée,                        
+Je ne désire plus de me voir si pressée,
 Tant que vous serez deux à me persécuter,
 Je ne puis vous souffrir et moins vous contenter.
 
@@ -1870,7 +1870,7 @@ Ne me presse pas tant et me laisse en repos.
 Comment lache, tu fuis
 
 -*who_cerinte
-            Ces insolents propos
+      Ces insolents propos
 Ne se peuvent souffrir sans y perdre la vie.
 
 -*who_florice
@@ -1878,7 +1878,7 @@ Que ma présence au moins vous en donne l'envie.
 
 -*who_arimant
 Puis que l'un ne veut pas à l'autre vous céder,
-La mort nous fera voir qui vous doit posséder.                     
+La mort nous fera voir qui vous doit posséder.
 
 -*who_florice
 Vous estes trop mauvais dedans vostre colere,
@@ -1906,11 +1906,11 @@ En lieu propre, vuider⁎ nos querelles d'amour.
 Que ce vieil amoureux a de belles saillies⁎,
 Et je serois subjette à toutes ses follies.
 Non, non je ne veux plus me donner de l'ennuy⁎
-Mon frère satisfaict, n'a que faire de luy                        
+Mon frère satisfaict, n'a que faire de luy
 Cerinte dont l'amour est véritable et forte
 Doit estre désormais receu d'une autre sorte.
 
-**** *book_ *id_body-7-1 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-701 *act_ *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Qu'on ne me parle plus de ces cruels tourments,
@@ -1924,7 +1924,7 @@ Et nostre ame se plonge en de douces pensées.
 La moindre des faveurs qu'une beauté depart
 Nous fait mettre bien-tost les desplaisirs à part :
 Nous fait nommer heureux les jours de nostre vie.
-Et les premiers moments que nous l'avons servie                
+Et les premiers moments que nous l'avons servie
 Quels tourments souffre t'on dans l'empire d'amour
 Que je n'aye esprouvez depuis le premier jour,
 Depuis le jour qu'un œil dont j'adore les charmes,
@@ -1946,13 +1946,13 @@ D'un regard favorable a soulagé mon cœur,
 Et qu'elle a recogneu ma passion fidèlle,    
 Je me crois trop heureux d'avoir souffert pour elle,
 Les tourments me sont chers dedans mon souvenir,
-Et l'on me fait plaisir de m'en entretenir.                    
+Et l'on me fait plaisir de m'en entretenir.
 Arbres de qui souvent j'ay deschiré l'escorce,
 Ne me reprochégs point cette amoureuse force,
 Et pour l'amour de moy conservez cherement
 Les marques que j'y mets de mon contentement.
 
-**** *book_ *id_body-7-2 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-702 *act_ *date_1634 *creator_rayssiguier
 
 -*who_circeine
 Alcandre qui tenoit sa flame si secrète,
@@ -1966,7 +1966,7 @@ Garde le mieux encor que ne feroit le marbre.
 Et me preste ton ombre où je puisse rever,
 Au bon heur nompareil qui vient de m'arriver.
 Adorable Circeine, est il doncques possible,
-Qu'à mon affection tu te montre sensible ?                    
+Qu'à mon affection tu te montre sensible ?
 
 -*who_circeine
 Il est en beau chemin escoutons seulement.
@@ -1990,7 +1990,7 @@ Devant que de t'ouvrir, que cent fois je te baise.
 -*who_circeine
 Si je m'en puis saisir j'interrompray ton aise.
 Lettre de Circeine à Alcandre.
-La discrétion et l'honneteté d'Alcandre m'obligent en fin à l'asseurer que ses services me sont agréables, qu'il vive donc content après cette asseurance, et qu'il sçache que j'estime trop ses mérites, pour ne vouloir pas qu'il continuë d'aimer Circeine.                                    
+La discrétion et l'honneteté d'Alcandre m'obligent en fin à l'asseurer que ses services me sont agréables, qu'il vive donc content après cette asseurance, et qu'il sçache que j'estime trop ses mérites, pour ne vouloir pas qu'il continuë d'aimer Circeine.
 
 -*who_alcandre
 Ouy c'est son propre seing, il n'en faut plus douter,
@@ -2000,25 +2000,25 @@ Un Dieu ne pourroit pas ces faveurs mériter.
 Non, non
 
 -*who_alcandre
-Dieux, qu'est cecy qu'un voleur me l'emporte,
+      Dieux, qu'est cecy qu'un voleur me l'emporte,
 Impie, oses-tu bien y toucher de la sorte,
 Ton sang expiera ce profane attentat
 Attens
 
 -*who_circeine
-Vous n'estes pas Alcandre en bon estat,
+      Vous n'estes pas Alcandre en bon estat,
 Sans doute vous dormiez, et vostre fantaisie
 A jetté vostre esprit dans quelque frénésie,
 Me voulez vous tuer ?
 
 -*who_alcandre
-            Ah ! que plustost ce fer⁎                    
+      Ah ! que plustost ce fer⁎
 Plongé dedans mon sein, me pousse dans l'enfer,
 Ma belle pardonnez l'action insolente
 Que je viens de commettre.
 
 -*who_circeine
-                Elle est trop violente.
+      Elle est trop violente.
 
 -*who_alcandre
 Ouy pour vous : mais un autre en seroit desja mort
@@ -2041,16 +2041,16 @@ Ce ne sont que des vers qui disent que vos yeux
 Me peuvent abismer ou m'eslever aux cieux.
 
 -*who_circeine
-Je les veux voir pourtant.                            
+Je les veux voir pourtant.
 
 -*who_alcandre
-            C'est chose bien aisée.
+      C'est chose bien aisée.
 
 -*who_circeine
 Lisez-les
 
 -*who_alcandre
-Qui voudroit vous avoir refusée.
+      Qui voudroit vous avoir refusée.
 Mon espoir comme toy fust autres fois plus bas,
 Les moindres accidents⁎ menaçoient ma ruine,
 Et pouvoient comme à toy me donner le trépas :
@@ -2065,10 +2065,10 @@ Puis qu'avecque douceur ce bel œil me regarde.
 
 -*who_circeine
 Alcandre en tous endroits occupe ses esprits
-Seul ou non                                    
+Seul ou non
 
 -*who_alcandre
-        Rendés moy ce que vous m'avés pris.
+      Rendés moy ce que vous m'avés pris.
 Apres je recevray de bon cœur vos loüanges.
 
 -*who_circeine
@@ -2090,7 +2090,7 @@ Je recognois assez, belle, que vostre envie
 Retirant cest escrit n'est pas de m'obliger⁎,
 Et que vous me voulez tout à faict affliger.
 Pleust aux dieux que Circeine estimast tout de mesme
-Ce qui vient de la part d'un malheureux qui l'aime,                 
+Ce qui vient de la part d'un malheureux qui l'aime,
 Et qu'elle le gardast si cherement que moy :
 Mais nous ne sommes pas sous une mesme loy.
 Je suis trop amoureux et vous trop dédaigneuse.
@@ -2101,7 +2101,7 @@ Vous trouverez vos vers où vous les avez mis,
 Prenez ce gand,
 
 -*who_alcandre
-        Cet heur⁎ ne m'estoit pas promis
+      Cet heur⁎ ne m'estoit pas promis
 Puis que tu m'asseure ma belle
 Que seul j'ay part en ton amour,
 Je te jure par l'œil du jour
@@ -2111,7 +2111,7 @@ Me pouvois-je empescher de cette trahison ?
 Amour qui vois mon mal et me défends la plainte
 Te serois tu douté d'une semblable feinte ?
 Elle se plaint de moy sans en avoir subjet,
-Et donne à son courrroux un songe pour object.                 
+Et donne à son courrroux un songe pour object.
 Sans me faire languir vous deviez m'oster l'ame,
 Et non pas vous mocquer de ma fidèle flame,
 Adieu cruelle, adieu, c'est par ce coup fatal,
@@ -2125,7 +2125,7 @@ Ny souffrir qu'on se jouë à moy de la façon,
 Clorian est l'auteur de cette tromperie,
 Et je me vangeray de sa supercherie.
 
-**** *book_ *id_body-7-3 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-703 *act_ *date_1634 *creator_rayssiguier
 
 -*who_florice
 Et bien que dites vous du divertissement
@@ -2133,7 +2133,7 @@ Que me vient de donner l'amoureux Arimant.
 
 -*who_palinice
 Qu'il n'est rien de pareil à sa mélancholie,
-Et que sa passion ressent fort sa folie⁎.                         
+Et que sa passion ressent fort sa folie⁎.
 Et sans quelque soucy⁎ qui vient de me saisir,
 Je voudrois avec vous en avoir le plaisir.
 Vostre frère et le mien m'ont mise trop en peine,
@@ -2147,7 +2147,7 @@ Pourroient-ils devenir à ce point inhumains ?
 Je le crois, et voudrois avoir veu cette belle,
 Pour en pouvoir sçavoir la verité par elle.
 
-**** *book_ *id_body-7-4 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-704 *act_ *date_1634 *creator_rayssiguier
 
 -*who_circeine
 En vain je l'ay suivi, je n'ay peu l'attraper,
@@ -2160,7 +2160,7 @@ Allons donc la chercher, mais la voicy venir,
 Qui seule dans ce lieu semble s'entretenir.
 
 -*who_palinice
-Que vous vous espargnez d'une grande courvée,                
+Que vous vous espargnez d'une grande courvée,
 Le bon-heur nous en veut de vous avoir trouvée.
 
 -*who_circeine
@@ -2185,11 +2185,11 @@ Je crains que nous soyons toutes intéressées.
 Dites nous donc que c'est,
 
 -*who_circeine
-            Vous sçaurez qu'aujourd'huy
+      Vous sçaurez qu'aujourd'huy
 Vos frères m'ont donné de grands subjets⁎ d'ennuy⁎.
 Clorian m'a pressée avecque violence,
 Et sans aucun respect et beaucoup d'insolence    
-M'a reproché cent fois que trop légèrement                    
+M'a reproché cent fois que trop légèrement
 Je l'avois mesprisé pour un nouvel amant⁎.
 Et comme si j'estois sousmise à sa puissance,
 A pris dans ses discours une grande licence.
@@ -2200,7 +2200,7 @@ Et montrant qu'il avoit de l'aigreur contre Alcandre,
 S'en est allé faché.
 
 -*who_palinice
-            C'est fort mal procéder
+      C'est fort mal procéder
 Alcandre n'est pas homme à luy vouloir céder,
 Et j'avois tousjours craint qu'en fin sa jalousie
 Porteroit son esprit à cette frénésie.
@@ -2215,52 +2215,52 @@ Que vous a dit Alcandre après cette saillie⁎ ?
 -*who_circeine
 Rien, mais il s'est jetté dans la mélancholie,
 Et sans me dire mot a voulu me quitter,
-J'ay fait ce que j'ay peu taschant de l'arrester,         
+J'ay fait ce que j'ay peu taschant de l'arrester,
 Mais je ne l'ay peu faire
 
 -*who_palinice
-            Allons belle compagne
+      Allons belle compagne
 Envoyer leurs amis par toute la campagne,
 Ils se sont allez battre.
 
 -*who_circeine
-            Elles sont en soucy⁎,
+      Elles sont en soucy⁎,
 Mais je voudrois desja que cela fut ainsi,
 Alcandre vangeroit nostre commune offence,
 Et si je m'y trouvois je prendrois sa deffence.
 C'est Cerinte et mon frere, il est vray ce sont eux.
 Quelque accident nouveau les assemble tous deux.
 
-**** *book_ *id_body-7-5 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-705 *act_ *date_1634 *creator_rayssiguier
 
 -*who_sileine
 Nous decouvrons d'icy presque toute la plaine.
 
 -*who_cerinte
 Nous le pourrions sçavoir de vostre sœur Circeine
-La voicy toute seule.                                
+La voicy toute seule.
 
 -*who_circeine
-            Où courez vous si fort ?
+      Où courez vous si fort ?
 
 -*who_cerinte
 Empescher deux amans de se donner la mort,
 Les avez-vous point veux ?
 
 -*who_circeine
-            Qui sont ils ?
+      Qui sont ils ?
 
 -*who_sileine
-                    C'est Alcandre.
+      C'est Alcandre.
 
 -*who_circeine
 Et l'autre.
 
 -*who_cerinte
-Clorian
+      Clorian
 
 -*who_circeine
-        C'est beaucoup entreprendre,
+      C'est beaucoup entreprendre,
 Mais je ne sçay que faire à des esprits si fous,
 Les deux sœurs que voicy les cherchent comme vous.
 
@@ -2271,10 +2271,10 @@ Nous n'en avons encor apris nulle nouvelle.
 Ils sont pourtant sortis pour vuider⁎ leur querelle.
 
 -*who_cerinte
-Ils ne sçauroient aller qu'à l'entour de ces lieux,                     
+Ils ne sçauroient aller qu'à l'entour de ces lieux,
 Tournons de tous costez vostre oreille et vos yeux.
 
-**** *book_ *id_body-7-6 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-706 *act_ *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Puis que l'amour le veut : et qu'il est impossible
@@ -2289,7 +2289,7 @@ Hastons nous donc de peur que l'on ne nous sépare,
 Les voila sur Florice le point d'une action barbare.
 
 -*who_palinice
-Ne nous amusons pas, courons les empescher.                     
+Ne nous amusons pas, courons les empescher.
 
 -*who_sileine
 Courons, ils ne sçauroit à nos yeux se cacher,
@@ -2320,7 +2320,7 @@ Puis que cette action ma belle vous offence.
 
 -*who_clorian
 Que vous avez sur nous un pouvoir souverain,
-De nous faire tomber les armes de la main.                     
+De nous faire tomber les armes de la main.
 
 -*who_circeine
 Qu'un effort généreux se faisant dans vos ames,
@@ -2351,10 +2351,10 @@ Est-il assez puissant pour troubler mon repos ?
 -*who_florice
 Le voicy qui s'en vient tout prest à vous respondre.
 
-**** *book_ *id_body-7-7 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_body-707 *act_ *date_1634 *creator_rayssiguier
 
 -*who_arimant
-Voicy, voicy le bras qui te pourra confondre,                     
+Voicy, voicy le bras qui te pourra confondre,
 Alcandre et Clorian n'ont rien fait qu'à demy,
 Mets l'espée à la main je suis ton ennemy,
 Tu ne peux t'en dédire⁎, il faut que par les armes
@@ -2368,12 +2368,12 @@ L'amour est importun⁎ aux hommes de vostre âge.
 
 -*who_arimant
 Ces jeunes estourdis me voudroient reformer,
-Et me persuader qu'ils doivent seuls aymer.                    
+Et me persuader qu'ils doivent seuls aymer.
 Non non, il faut mourir ou posséder Florice,
 L'espée au poing Cerinte.
 
 -*who_alcandre
-            O le plaisant caprice !
+      O le plaisant caprice !
 
 -*who_florice
 Je ne puis plus souffrir cette importunité,
@@ -2397,13 +2397,13 @@ Ou verront ces beautez avec indifference.
 Je n'y contredis point.
 
 -*who_cerinte
-            J'en suis fort satisfaict.                    
+      J'en suis fort satisfaict.
 
 -*who_circeine
 Et vous qu'en dites vous ?
 
 -*who_arimant
-            Que le moyen m'en plait.
+      Que le moyen m'en plait.
 
 -*who_alcandre
 Il dépend donc de vous de nous tirer de peine.
@@ -2423,7 +2423,7 @@ De dire là-dessus clairement nos pensées.
 Il vous y faut resoudre
 
 -*who_florice
-            Il est vray, mais jurez
+      Il est vray, mais jurez
 Qu'à ce que nous dirons vous vous conformerez,
 Et que vous garderez nos volontez dernières.
 
@@ -2443,7 +2443,7 @@ Puis que vous le voulez, je le veux bien aussi.
 Nous le promettez-vous ?
 
 -*who_clorian
-            Nous le jurons ainsi.
+      Nous le jurons ainsi.
 
 -*who_florice
 Vous qui sçavez pourquoy mon ame est agitée,
@@ -2452,7 +2452,7 @@ Voyez si j'ay raison de vous blasmer tous deux,
 Et de desaprouver les effects de vos feux :
 Mais puis qu'il faut au vray dire ce que je pense,    
 Qu'il faut que l'un n'ait rien, l'autre ait sa récompense,
-Que vous n'espérés point que de l'avoir de moy,                    
+Que vous n'espérés point que de l'avoir de moy,
 Que je vous dois donner une derniere loy,
 Balançant le mérite et de l'un et de l'autre,
 J'aprouve vostre amour et j'estime le vostre :
@@ -2478,7 +2478,7 @@ Puisque pour des raisons que je ne diray pas,
 Cerinte aura seul part en ce que j'ay d'apas.
 
 -*who_arimant
-Le Ciel a-t-il fait naistre une chose si rare,                    
+Le Ciel a-t-il fait naistre une chose si rare,
 Pour luy donner apres une ame si barbare ?
 A t'il mis en ce sexe⁎ une extreme beauté,
 Pour y joindre la fraude avec la cruauté ?
@@ -2506,7 +2506,7 @@ Et mon cœur la victime oblige un pauvre amant⁎,
 Et donne en ma faveur ce dernier jugement.
 
 -*who_circeine
-J'eusse bien désiré de n'estre pas contrainte                
+J'eusse bien désiré de n'estre pas contrainte
 De vous donner jamais aucun subject de plainte :
 Mais desirant tous deux ce qu'un seul doit avoir
 De vous contenter tous n'est pas en mon pouvoir.
@@ -2529,8 +2529,8 @@ Et faisons l'action d'un homme généreux.
 Mais,
 
 -*who_alcandre
-    Ah ! ce mais ! remet toute mon espérance,
-Et donne à mon esprit quelque peu d'asseurance.                
+      Ah ! ce mais ! remet toute mon espérance,
+Et donne à mon esprit quelque peu d'asseurance.
 
 -*who_circeine
 Alcandre d'autre part m'a fait voir mille fois
@@ -2540,7 +2540,7 @@ De m'en ressouvenir qu'il ne me soit sensible,
 Et pour luy monstrer
 
 -*who_clorian
-            O Dieux, quel changement !
+      O Dieux, quel changement !
 Elle estime ma flame, et prend un autre amant⁎.
 
 -*who_circeine
@@ -2550,7 +2550,7 @@ Et qu'il ait le dessein de tousjours m'obliger,
 Qu'il aime Clorian.
 
 -*who_clorian
-        Mon soupçon est léger,
+      Mon soupçon est léger,
 Elle va prononcer à son désadvantage.
 
 -*who_alcandre
@@ -2561,7 +2561,7 @@ Et moy je veux aymer le reste de mes jours
 Alcandre de qui seul j'approuve les amours.
 
 -*who_clorian
-Le pilote qui voit fondre dessus sa teste                        
+Le pilote qui voit fondre dessus sa teste
 Durant un temps serain une horrible tempeste,
 Qui voit rompre ses mats, voit briser son vaisseau,
 Est moins surpris que moy par un coup si nouveau.
@@ -2576,7 +2576,7 @@ Me vienne icy flater dans mon affection.
 Ingrate
 
 -*who_arimant
-Clorian laissons ces plaintes vaines,
+      Clorian laissons ces plaintes vaines,
 Allons loin de ces lieux mettre fin à nos peines.
 
 -*who_clorian
@@ -2584,7 +2584,7 @@ Pour moy je veux chercher mon vray repos ailleurs,
 Et prendre désormais des mouvements meilleurs.
 
 -*who_arimant
-Et moy me retirant dans une solitude,                         
+Et moy me retirant dans une solitude,
 Je veux rire à loisir de son ingratitude.
 
 -*who_clorian
@@ -2599,7 +2599,7 @@ Nous verrions qui des deux seroit le plus heureux,
 Nommez le moy.
 
 -*who_florice
-        Sçachant sa longue servitude
+      Sçachant sa longue servitude
 Vous le devez tirer de son inquietude,
 Vous devez comme nous dire vos sentiments,
 Et perdre son espoir ou finir ses tourments.
@@ -2612,7 +2612,7 @@ Que la foudre à vos yeux me vienne mettre en poudre :
 Si je n'obeys pas à vostre volonté.
 
 -*who_circeine
-Palinice montrez icy vostre bonté,                
+Palinice montrez icy vostre bonté,
 Dites luy franchement quelle est vostre pensée.
 
 -*who_alcandre
@@ -2628,14 +2628,14 @@ Et vous n'eustes jamais de rival que vous mesme.
 Que voulez-vous de plus ?
 
 -*who_sileine
-            Rien qu'un point seulement
+      Rien qu'un point seulement
 Pour couronner ma flame et mon contentement.
 
 -*who_palinice
 Que demandez-vous donc ?
 
 -*who_sileine
-            Qu'un hymen nous assemble
+      Qu'un hymen nous assemble
 Pour vivre desormais heureusement ensemble.
 
 -*who_alcandre
@@ -2643,7 +2643,7 @@ Je croy que vos desseins se conforment icy,
 Si vous le désirez nous le voulons aussi.
 
 -*who_palinice
-Il s'y faudra résoudre, et passer une vie                        
+Il s'y faudra résoudre, et passer une vie
 Qui nous mette à couvert des efforts de l'envie.
 Mes compaignes et moy chérissons vos plaisirs,
 Et nous accordons tout à vos chastes désirs.

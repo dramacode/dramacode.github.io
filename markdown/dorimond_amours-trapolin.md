@@ -1,5 +1,5 @@
 ---
-identifier: drouin_comedie  
+identifier: dorimond_amours-trapolin  
 creator: Drouin, Nicolas  
 date: 1662  
 title: La comédie de la comédie et Les amours de Trapolin  
@@ -1303,7 +1303,7 @@ Achevé d'imprimer pour la première fois,< le 22. Janvier 1662. >
  – DEUX GALANTS.
  – LE PORTIER des comediens.
  – UNE COMEDIENNE.
- – TROUPE DE FILOUX.                        
+ – TROUPE DE FILOUX.
 
 
 ## LA COMEDIE DE LA COMEDIE.
@@ -1321,7 +1321,7 @@ Ce passe-temps est propre à charmer les ennuis⁎:
 
     LUCIDOR.
 Allons-y, je le veux ; au coin de cette ruë,  
-Une affiche à propos se montre à nostre veuë.                      
+Une affiche à propos se montre à nostre veuë.  
 AFFICHE.
 Les Comediens de Mademoiselle.
 La piece que nous vous donnons  
@@ -1349,7 +1349,7 @@ J'ayme la comedie, elle est mon element.
     LUCIDOR.
 Tous deux nous nous trouvons d'un mesme sentiment :  
 Il faut estre privé de bon sens, de science,  
-Pour ne la suivre pas, allons en diligence⁎.                       
+Pour ne la suivre pas, allons en diligence⁎.  
 Puis on la fait si bien, et si juste en ce temps,  
 Qu'elle sert de modelle aux plus honnestes gens :  
 On apprend la vertu voyant la comedie,  
@@ -1371,7 +1371,7 @@ J'en faits bien plus d'estat, et l'estime bien mieux;
 Mais on peut sans pecher gouster les inepties⁎  
 Qu'ils meslent gallamment avec leurs faceties⁎;  
 On rencontre des gens qui tondroient sur un œuf⁎  
-Et qui bien souvent ont l'esprit [66] comme un boeuf.                   
+Et qui bien souvent ont l'esprit [66] comme un boeuf.  
 
 
 ### SCENE II.
@@ -1402,8 +1402,8 @@ La belle comedie est le charme de l'ame;
 Allons-y je vous prie.  
 
     LA PREMIERE.
-            Allons; je le veux bien.  
-Pour moy je la prefere au plus bel entretien.                      
+        Allons; je le veux bien.  
+Pour moy je la prefere au plus bel entretien.  
 
 
 ### SCENE III.
@@ -1426,7 +1426,7 @@ Et s'ils m'alloient chasser je serois miserable.
 J'ay bien plus de raison que tous ces grands escrocs⁎  
 Qui viennent leur voler le fruict de leurs beaux mots;  
 J'en veux prendre à témoin les personnes plus sages;  
-Ne leur couste-t'il pas à faire des voyages ?                       
+Ne leur couste-t'il pas à faire des voyages ?  
 A nos comediens à faire des habits,  
 A blanchir leurs colets, à payer leurs rubis ?  
 Enfin la comedie est une marchandise  
@@ -1436,7 +1436,7 @@ Escrots⁎, passevolants, fillous ny pourveans⁎.
 Le premier qui viendra la main hors la pochette,  
 Contre luy vaillamment je veux tirer la brette⁎;  
 Mon sang est échauffé, je suis las d'en souffrir:  
-N'en laissons plus passer, c'est à faire mourir.                       
+N'en laissons plus passer, c'est à faire mourir.  
 
 
 ### SCENE IV.
@@ -1460,7 +1460,7 @@ Ah Dieux ! la belle estoffe, et la belle dentelle !
 Qui vous en a fait don ?  
 
     LA COMEDIENNE.
-            Qui ? C'est Mademoiselle [69] :  
+        Qui ? C'est Mademoiselle [69] :  
 Sa generosité m'en a fait un present  
 Et je le faits briller sur la scene à present.  
 Ma cravate est deffaite, et mon beau colier d'ambre...  
@@ -1473,7 +1473,7 @@ Vostre Cravate...
         Hé bien ! je l'accommoderay.  
 
     LE GALLAND.
-Vous allez au theatre où je vous conduiray.                       
+Vous allez au theatre où je vous conduiray.  
 Ma sœur veut vous donner un fort beau poinct de Gesne⁎,  
 Et moy des citrons doux, et de la pourcelaine.  
 
@@ -1481,13 +1481,13 @@ Et moy des citrons doux, et de la pourcelaine.
 Et moy des gans d'Espagne.  
 
     LE GALLAND
-                Et moy de beaux rubans.  
+        Et moy de beaux rubans.  
 
     L’ESPINAY.
 Et moy de la pomade.  
 
     LE GALLAND
-            Et moy de beaux pendants.  
+        Et moy de beaux pendants.  
 
     L’ESPINAY.
 Et moy des espagneuls qui viennent de Boulogne.  
@@ -1503,13 +1503,13 @@ Pour prendre vos presens, j'ay trop peu de deux bras.
 Elle a le teint fort beau.  
 
     LE GALLAND
-            Et la taille gentille.  
+        Et la taille gentille.  
 
     L’ESPINAY.
 Son oeil me plaist assez.  
 
     LE GALLAND.
-            Estes-vous femme ou fille ?  
+        Estes-vous femme ou fille ?  
 Aymez-moy je, vous prie, et m'appellez« mon coeur »,  
 Et je vous nommeray ma mignonne et ma sœur.  
 
@@ -1518,7 +1518,7 @@ Vous faites, par ma foy, fort bien la comedie :
 Quand vous parlez d'amour, que vous estes jolie !  
 
     LE GALLAND.
-Qu'elle fait bien la fiere, et la cruelle aussi !                      
+Qu'elle fait bien la fiere, et la cruelle aussi !  
 
     LA COMEDIENE.
 Aussi mon mestier est mon unique soucy  
@@ -1560,10 +1560,10 @@ On me vient de donner un sonnet merveilleux.
 Combien a-t-il de vers.  
 
     LE GALLAND.
-            Au moins trente.                      
+    Au moins trente.  
 
     LA COMEDIENNE.
-                    Encor mieux !  
+        Encor mieux !  
 De grace, informez-vous des reigles poëtiques :  
 Les epiques pour vous seroient les dramatiques.  
 Ah ! Lisez les autheurs qui composent des vers,  
@@ -1595,7 +1595,7 @@ Avoir aupres de nous grand accés, grand credit,
 Qui diront en voyant une comedienne,  
 Regarde cher amy cette Actrice elle est mienne.  
 L'autre luy respondra faisant fort l'empesché :  
-Elle vaut ma foi, bien la façon d'un peché.                      
+Elle vaut ma foi, bien la façon d'un peché.  
 Celuy-cy vous faisant cent façons non communes,  
 Vous fera le debit de ses bonnes fortunes,  
 Et pour se faire croire il prendra de grands soins,  
@@ -1619,7 +1619,7 @@ Des beautez que l'on void en ces aymables lieux,
 Que les dames y sont agreables et belles  
 Et qu'elles sont aussi toutes spirituelles.  
 Allons les divertir par nos accens mignards  
-Et recevoir l'honneur d'attirer leurs regards.                       
+Et recevoir l'honneur d'attirer leurs regards.  
 
 
 ### SCENE V.
@@ -1632,19 +1632,19 @@ Tiens mon mousqueton prest, mettons-nous en posture !
 Ouvre !  
 
     LE PORTIER.
-Il faut de l'argent !  
+    Il faut de l'argent !  
 
     LE FILOU.
-            Ah ventre !  
+        Ah ventre !  
 
     LE PORTIER.
 Par la mort !  
 
     LE FILOU.
-        Tu me refuse en vain !  
+    Tu me refuse en vain !  
 
     LE PORTIER.
-                    Tu fais un vain effort !  
+        Tu fais un vain effort !  
 
     LE FILOU.
 Comment tu faits le brave, et la rude moustache ?  
@@ -1656,7 +1656,7 @@ Je fais ce que je suis, quand je veux je me fâche.
 Je m'en vay te percer sy j'entre en action,  
 
     LE PORTIER.
-On m'a desja percé, j'ay veu l'occasion,                       
+On m'a desja percé, j'ay veu l'occasion,  
 Les canons, les fusils, et le fer et la flame  
 Ne me font point de peur, je me ris de ta lame.  
 
@@ -1682,7 +1682,7 @@ Ah c'est trop endurer, Portier tu periras.
     LE PORTIER.
 Je vay parler à vous, messieurs les fiers à bras;  
 Et d'estoc, et de taille, et de quarté et [71] de tierce  
-Pour le dernier sommeil il faut que je te berse.                      
+Pour le dernier sommeil il faut que je te berse.  
 Ils ne se battroient pas, s'ils n'estoient dix contre un,  
 Mais je me bat d'un air qui n'est pas du commun;  
 Ils s'en vont revenir peut-estre avec main forte.  
@@ -1701,7 +1701,7 @@ FIN.
  – POESIE.
  – GALANTERIE,Cousine.
 
-LES                                     AMOURS DE TRAPOLIN. *COMEDIE;*
+LES AMOURS DE TRAPOLIN. *COMEDIE;*
 
 
 ### SCENE PREMIERE.
@@ -1712,7 +1712,7 @@ TRAPOLIN, IGNORANCE.
 Et bien mon cher, mon beau, mon tout, mon agreable,  
 L'essence des amans, coquet le plus aimable,  
 Idole de mon cœur, si je languis pour vous  
-Vous languissez pour moy : tout est égal en nous.                  
+Vous languissez pour moy : tout est égal en nous.  
 Nos jeunes cœurs blessez, et des fers et des flâmes  
 Qu'un amour mutuel a fait naistre en nos ames  
 N'en peuvent ma foy plus et je voy bien qu'il faut  
@@ -1752,7 +1752,7 @@ L'amour quand il est las se met sur mon giron,
 Et ce petit fripon d'un ardeur sans égale,  
 Voudroit prendre mon cœur, et ma fleur virginale;  
 Mais ma pudeur combat avecque mes desirs;  
-Je pasme, je succombe, et pousse des soûpirs,                       
+Je pasme, je succombe, et pousse des soûpirs,  
 Mais ma virginité demeure toujours pure;  
 Dieu me veüille sauver d'une cheute future;  
 Ah ! Si j'avois esté du temps du beau Paris,  
@@ -1770,23 +1770,23 @@ Si je demeurois plus avec toy, mon coquet.
 Adieu, lampe d'amour.  
 
     IGNORANCE
-            Adieu falot de flâme.  
+        Adieu falot de flâme.  
 
     TRAPOLIN
 Je soûpire  
 
     IGNORANCE
-        Je meurs  
+    Je meurs  
 
     TRAPOLIN
-            Je succombe.  
+    Je succombe.  
 
     IGNORANCE.
-                    Ah ! je pasme !  
+        Ah ! je pasme !  
 Se quitter quand on s'aime, quelle cruauté !  
 
     TRAPOLIN.
-Je soûpire à tout coup, et de tous les costez.                       
+Je soûpire à tout coup, et de tous les costez.  
 
 
 ### SCENE II.
@@ -1809,7 +1809,7 @@ Si mes filles pouvoient attirer ses carresses
 Je serois bien-heureux, je serois au repos.  
 Je ne puis toutefois luy dire de grands mots  
 Car je n'ay point appris la basse complaisance,  
-De peur de déroger et soüiller ma science.                      
+De peur de déroger et soüiller ma science.  
 
 
 ### SCENE III.
@@ -1839,7 +1839,7 @@ Un riche, un grand Seigneur de grandeurs revestu,
 N'est que de l'or impur, s'il n'a point de vertu,  
 Qu'un soleil offusqué par un espais nuage  
 Et qu'un oyseau huppé qui n'a point de ramage.  
-Avecque vos tresors achetez de l‘esprit !                           
+Avecque vos tresors achetez de l‘esprit !  
 
     TRAPOLIN
 De l'esprit, en quel lieu ? qui m'en fera debit ?  
@@ -1871,7 +1871,7 @@ Le centre de l'esprit est au sacré ruisseau :
 Vas-y voir ignorant !  
 
     TRAPOLIN.
-            Qui moy ? boire de l'eau ?  
+        Qui moy ? boire de l'eau ?  
 Je ne bois que du vin ! quand j'ay beu je fais rage,  
 Si je parle d'amour, j'enfle mieux mon langage.  
 Quand j'ay beu, si je vay au pays feminin,  
@@ -1879,7 +1879,7 @@ D'un an en un seul jour je fais tout le chemin;
 Je pousse la douceur aupres d'une mignarde  
 Et soumets à mes loix l'amour la plus agarde;  
 Je ne m'amuse point à passer par les lieux  
-Où passent tant d'amans pour gagner de beaux yeux :                  
+Où passent tant d'amans pour gagner de beaux yeux :  
 Je monstre à ma Philis ma flâme toute nuë  
 Et vais au rendez-vous, dés la première veuë.  
 
@@ -1910,10 +1910,10 @@ Il faut avoir du cœur, de l'esprit, et du sens.
     TRAPOLIN
 Les femmes ne sont pas difficiles à prendre :  
 Un coquet comme moy met tost leurs cœurs en cendre,  
-Les femmes à mon gré...                                
+Les femmes à mon gré...  
 
     LE DOCTEUR.
-            Les femmes...taisez-vous  
+        Les femmes...taisez-vous  
 Parlez avec respect de ces objets si doux !  
 Un galand de trois jours, un marjolet⁎ d'une heure  
 Dira  je suis aimé d'une dame, je meure.  
@@ -1948,7 +1948,7 @@ L'action de la femme a peché seulement.
 Je diray, prouveray, par raison admirable  
 Que l ‘homme est tousjours homme, et n'est ny saint ny diable.  
 La femme a tousjours droict de regner sur le cœur,  
-Et la femme est tousjours le trône de l'honneur.                       
+Et la femme est tousjours le trône de l'honneur.  
 S'il se treuve une femme et méchante et coupable,  
 La femme pour cela n'en est point responsable.  
 Enfin les femmes sont de foibles animaux,  
@@ -1994,7 +1994,7 @@ Leurs beautez....
 Leurs beaux yeux...  
 
     LE DOCTEUR.
-            Du respect, pour les divinitez !                   
+        Du respect, pour les divinitez !  
 
     TRAPOLIN.
 Leur esprit...  
@@ -2033,7 +2033,7 @@ L'amour....
 
     LE DOCTEUR
         L'amour, l'amour perd un sot comme toy !  
-Des femmes sans cesser nous recevrons la loy :                       
+Des femmes sans cesser nous recevrons la loy :  
 Alexandre, Cesar, Sanson, Antoine, d'elles,  
 Furent-ils pas ferus, et charmez de leurs belles ?  
 Les doctes n'ont-ils pas ressenty tour à tour  
@@ -2066,7 +2066,7 @@ Les jaloux eussent-ils l'exactitude entière,
 Sieur Basle et Sieur Cadot viennent rompre en visiere.  
 Un homme est fort constant, la femme ne l'est pas;  
 Et je vous prouveray.... mais il n'écoute pas !  
-Docteur, Docteur ! il est méchant comme un guenuche⁎.                   
+Docteur, Docteur ! il est méchant comme un guenuche⁎.  
 
 
 ### SCENE IV.
@@ -2098,7 +2098,7 @@ Elle est grande, elle est belle, elle a fort bonne grace,
 Poësie est galante, elle a l'esprit serein,  
 Mais elle est fort quinteuse, et sujette au chagrin;  
 Chez tous les demis dieux elle est fort bien venuë,  
-Son langage est fort grand, mais sa bourse est menuë.                   
+Son langage est fort grand, mais sa bourse est menuë.  
 Elles ont des amans dont le nombre est petit,  
 Mais vos grands biens, Monsieurs, les vont mettre en credit,  
 À deux portes d'icy loge Dame Ignorance :  
@@ -2135,8 +2135,8 @@ Idsum tibi Papa, quid de me cupis ?
 Accedite.  
 
     TRAPOLIN.
-    Cupis veut dire Cupidon,  
-Moy Cupidon, j'ay l'œil assez fripon.                           
+        Cupis veut dire Cupidon,  
+Moy Cupidon, j'ay l'œil assez fripon.  
 Il est vray, qu'à peu pres j'ay sa taille et sa mine,  
 J'ay comme luy les yeux, comme luy j'assassine;  
 Et si l'on veut d'amour prendre la nudité,  
@@ -2172,7 +2172,7 @@ Avant que de mourir, me voir manger au vers !
 Dans mon berceau, maman me donna d'une poudre  
 Qui de mes vers estoit le redoutable foudre :  
 Elle m'en a purgé, pourquoy donc en autheur,  
-En remettray-je en moy l'insuportable humeur ?                   
+En remettray-je en moy l'insuportable humeur ?  
 Et puis selon mon sens, s'il faut que je le dise,  
 Vous avez la façon, madame Poësie,  
 De me donner apres la consommation,  
@@ -2209,7 +2209,7 @@ Je suis bien plus connuë , et j'ay bien plus d'atraits :
 On me penetre mieux, et je suis plus galante.  
 
     TRAPOLIN
-Ouy vous estes de vray connuë et consonnante;                       
+Ouy vous estes de vray connuë et consonnante;  
 Vostre esprit Poësie estoit doux et benin,  
 Vous sçavez assez bien placer le masculin,  
 Et jamais il ne va sans rime feminine;  
@@ -2245,7 +2245,7 @@ Imiter leur vertus, suivre leurs bonnes moeurs,
 Discerner les effects du neant et de l'estre.  
 Il me faut penetrer afin de me connoistre,  
 Discourir fortement sur la vie et la mort,  
-Connoistre le destin, la nature et le sort.                       
+Connoistre le destin, la nature et le sort.  
 Parlant du papillon, du fourmy, de l'atome,  
 Il n'apartient qu'à moy de bien exercer l'homme.  
 Philosophie est belle, et je vous en réponds.  
@@ -2282,7 +2282,7 @@ Mais vos pieds en sont cause; alte, ou bien je vous quite.
 Tant mieux, je ne veux point de froid temperament :  
 Il me faut plus de feux que de raisonnement,  
 Il faut estre pour moy d'une ame vigoureuse,  
-Une humeur enjoüée, une humeur amoureuse,                       
+Une humeur enjoüée, une humeur amoureuse,  
 Dormir peu, cheminer du soir jusques au matin [78],  
 Se nourir d'esperance, et d'un peu de chagrin,  
 Aller en un seul jour du couchant à l'aurore,  
@@ -2310,7 +2310,7 @@ POESIE, TRAPOLIN, GALANTERIE.
 
 
     POESIE.
-            La ? C'est Galanterie.  
+        La ? C'est Galanterie.  
 
     TRAPOLIN.
 Ce sera bien mon fait, car je suis fort galant;  
@@ -2318,7 +2318,7 @@ Approchons et faisons l'agreable en parlant.
 O Dieu ! qu'elle est aimable, et qu'elle a bonne grace !  
 Aussi tout est de mise ou la Galante passe;  
 Son teint est plus riant que les fleurs du Printemps;  
-Je la veux espouser, elle charme mes sens.                       
+Je la veux espouser, elle charme mes sens.  
 S'il vous faut des rubans belle Galanterie,  
 Je puis seul enrichir vostre robe jolie.  
 Ne vaudrois-je pas bien un pacquet de ruban ?  
@@ -2354,7 +2354,7 @@ Qui ne la voudroit pas en auroit de la honte.
 J'ay du feu, j'ay du fast, et mon sort fortuné  
 Vient d'avoir un esprit bien doux et bien tourné.  
 Il me faut des bijoux, et je suis magnifique,  
-Du plus riche Marchand j'épuise la boutique.                       
+Du plus riche Marchand j'épuise la boutique.  
 J'ayme mieux retrancher ma table et m'ajuster,  
 Et mon mary jamais ne m'y doit contester :  
 Et pourveu que je sois, mon amy dans ma chambre  
@@ -2393,7 +2393,7 @@ Vostre Pagase⁎ et vous me jetteriez à bas.
 
     POESIE.
 Les Muses de Paris ne sont pas toutes filles,  
-Et leurs vers toutefois se treuvent sans chevilles;                       
+Et leurs vers toutefois se treuvent sans chevilles;  
 Et si lors qu'elles vont voir le sacré vallon,  
 Chacune sçait fort bien trouver son Apollon.  
 
@@ -2411,10 +2411,10 @@ Est sujet à porter le bas.
 Aimez nous.  
 
     POESIE.
-        Suivez-nous.  
+    Suivez-nous.  
 
     GALANTERIE.
-                 Quittez l'indifférence.  
+        Quittez l'indifférence.  
 
     TRAPOLIN.
 Mais serois-je infidelle à ma chere ignorance ?  
@@ -2432,7 +2432,7 @@ PHILOSOPHIE, POESIE.
     IGNORANCE.
 Quoy ? traistre déloyal, perfide, ingrat, coupable,  
 Les sciences t'ont pris lors que je n'y suis pas,  
-Voy, voy, comme Agripa parle de leurs apas,                       
+Voy, voy, comme Agripa parle de leurs apas,  
 Et de leurs vanitez elles ont eu sa vie;  
 Et pourtant sans cesser il les avoit servie  
 Et vous belle friquette⁎, et vous beaux yeux fripons,  
@@ -2452,7 +2452,7 @@ Mais ce siecle est illustre, et nous sera plus doux.
 Ah ! ma chere Ignorance.  
 
     POESIE.
-            Ah ! douceur sans seconde !  
+        Ah ! douceur sans seconde !  
 Si tu peux la prenant en purger tout le monde,  
 Je serois opulente, et dans fort peu de temps.  
 
@@ -2467,13 +2467,13 @@ GALANTERIE, TRAPOLIN.
 
     LE DOCTEUR
 ET bien captivez-vous ce Phoenix des amans ?  
-Et le marirons-nous ?                                  
+Et le marirons-nous ?  
 
     PHILOSOPHIE.
-            Ouy.  
+    Ouy.  
 
     LE DOCTEVR.
-                De plaisir j'en dance.  
+        De plaisir j'en dance.  
 
     PHILOSOPHIE.
 Ouy, mais il nous méprise, et choisit l'Ignorance.  
@@ -2506,7 +2506,7 @@ Que la terre a trop d'ignorans.
 
     POESIE.
 Je te vais faire faire, au lieu d'epitalame,  
-De satyriques vers, et quelque écrit infame.                       
+De satyriques vers, et quelque écrit infame.  
 
     PHILOSOPHIE.
 Et moy je vais monter dessus mes grands chevaux  
@@ -2538,7 +2538,7 @@ Par moy de mille maux tu te pouras parer;
 Allons mon gros poupon !  
 
     TRAPOLIN
-            Allons mon Ignorance !  
+        Allons mon Ignorance !  
 Beuvons, joüons, dansons, et laissons la science !  
 Allons nous en dormir et manger à foison.  
 Le plus grand ennemy de l'homme est la raison.  
