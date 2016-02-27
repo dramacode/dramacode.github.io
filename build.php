@@ -16,12 +16,6 @@ else if (php_sapi_name() == "cli") {
 class Dramacode
 {
   static $sets = array(
-    "tc" => array(
-      "glob" => '../theatre-classique/RACINE*.xml',
-      "publisher" => "Théâtre Classique",
-      "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
-      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
-    ),
     "moliere" => array(
       "glob" => '../moliere/*.xml',
       "publisher" => 'OBVIL, projet Molière',
@@ -33,6 +27,12 @@ class Dramacode
       "publisher" => "CELLF, Bibliothèque dramatique",
       "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
       "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
+    ),
+    "tc" => array(
+      "glob" => '../theatre-classique/RACINE*.xml',
+      "publisher" => "Théâtre Classique",
+      "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
+      "source" => "http://dramacode.github.io/theatre-classique/%s.xml",
     ),
     /*
     "corneille-pierre" => array(
@@ -418,6 +418,12 @@ CREATE INDEX play_year_author ON play(year, author, title);
           $base->add($file, $setcode);
         }
       }
+      ini_set('implicit_flush', false);
+      // ob_implicit_flush(false); // turn off implicit flush
+      ob_start();
+      include_once(dirname(__FILE__).'/index.php');
+      $html =  ob_get_clean();
+      file_put_contents(dirname(__FILE__).'/index.html', $html);
       exit();
     }
     if ($_SERVER['argv'][0] == 'epubcheck') {
