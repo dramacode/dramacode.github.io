@@ -33,6 +33,7 @@ class Dramacode
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/theatre-classique/%s.xml",
+      "predir" => 'tc-',
     ),
     /*
     "corneille-pierre" => array(
@@ -84,6 +85,7 @@ PRAGMA page_size = 8192;
 CREATE TABLE play (
   -- une pièce
   id         INTEGER, -- rowid auto
+  setcode    TEXT,    -- code de set
   code       TEXT,    -- nom de fichier sans extension
   filemtime  INTEGER, -- date de dernière modification du fichier pour update
   publisher  TEXT,    -- nom de l’institution qui publie
@@ -101,6 +103,7 @@ CREATE TABLE play (
 CREATE UNIQUE INDEX play_code ON play(code);
 CREATE INDEX play_author_year ON play(author, year, title);
 CREATE INDEX play_year_author ON play(year, author, title);
+CREATE INDEX play_setcode ON play(setcode);
 
   ";
   /** Lien à une base SQLite */
@@ -141,6 +144,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
    * Produire les exports depuis le fichier XML
    */
   public function add($srcfile, $setcode=null, $force=false) {
+    $set = self::$sets[$setcode];
     $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
     $srcmtime = filemtime($srcfile);
     $this->_sqlmtime->execute(array($srcname));
@@ -155,7 +159,9 @@ CREATE INDEX play_year_author ON play(year, author, title);
     }
     $echo = "";
     foreach (self::$formats as $format => $extension) {
-      $destfile = dirname(__FILE__).'/'.$format.'/'.$srcname.$extension;
+      if (isset($set['predir'])) $dir = $set['predir'].$format;
+      else $dir = $format;
+      $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$extension;
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
       // delete destfile if exists ?
       if (file_exists($destfile)) unlink($destfile);
@@ -171,13 +177,20 @@ CREATE INDEX play_year_author ON play(year, author, title);
         // transformation auto en kindle
         $cmd = dirname(dirname(__FILE__))."/Livrable/kindlegen ".$destfile;
         $last = exec ($cmd, $output, $status);
-        $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
+        $mobi = dirname(__FILE__).'/'.$dir.'/'.$teinte->filename.".mobi";
         // error ?
         if (!file_exists($mobi)) {
           self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
         }
         else {
-          rename( $mobi, dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi");
+          if (isset($set['predir'])) $dir = $set['predir'].'kindle';
+          else $dir = 'kindle';
+          $dest = dirname(__FILE__).'/'.$dir.'/'.$teinte->filename.".mobi";
+          if (!is_dir(dirname($dest))) {
+            mkdir(dirname($dest), 0775, true);
+            @chmod(dirname($dest), 0775);  // let @, if www-data is not owner but allowed to write
+          }
+          rename( $mobi, $dest);
           $echo .= " kindle";
         }
       }
@@ -228,6 +241,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     if (isset(self::$sets[$setcode]['identifier'])) $identifier = sprintf (self::$sets[$setcode]['identifier'], $teinte->filename);
     else $identifier = null;
     $this->_insert->execute(array(
+      $setcode,
       $teinte->filename,
       $teinte->filemtime,
       self::$sets[$setcode]['publisher'],
@@ -279,6 +293,7 @@ CREATE INDEX play_year_author ON play(year, author, title);
     ';
     $i = 1;
     foreach ($this->pdo->query("SELECT * FROM play ORDER BY author, year") as $play) {
+      $set = self::$sets[$play['setcode']];
       echo "\n    <tr>\n";
       echo "      <td>$i</td>\n";
       if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['publisher']."</a></td>\n";
@@ -300,7 +315,9 @@ CREATE INDEX play_year_author ON play(year, author, title);
       $sep = ", ";
       foreach ( self::$formats as $label=>$extension) {
         if ($label == 'article') continue;
-        echo $sep.'<a href="'.$label.'/'.$play['code'].$extension.'">'.$label.'</a>';
+        if (isset($set['predir'])) $dir = $set['predir'].$label;
+        else $dir = $label;
+        echo $sep.'<a href="'.$dir.'/'.$play['code'].$extension.'">'.$label.'</a>';
       }
       echo "      </td>\n";
       echo "    </tr>\n";
@@ -332,8 +349,8 @@ CREATE INDEX play_year_author ON play(year, author, title);
     // table temporaire en mémoire
     $this->pdo->exec("PRAGMA temp_store = 2;");
     $this->_insert = $this->pdo->prepare("
-    INSERT INTO play (code, filemtime, publisher, identifier, source, author, title, year, acts, verse, genrecode, genre)
-              VALUES (?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
+    INSERT INTO play (setcode, code, filemtime, publisher, identifier, source, author, title, year, acts, verse, genrecode, genre)
+              VALUES (?,   ?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
     ");
     $this->_sqlmtime = $this->pdo->prepare("SELECT filemtime FROM play WHERE code = ?");
   }
@@ -418,12 +435,6 @@ CREATE INDEX play_year_author ON play(year, author, title);
           $base->add($file, $setcode);
         }
       }
-      ini_set('implicit_flush', false);
-      // ob_implicit_flush(false); // turn off implicit flush
-      ob_start();
-      include_once(dirname(__FILE__).'/index.php');
-      $html =  ob_get_clean();
-      file_put_contents(dirname(__FILE__).'/index.html', $html);
       exit();
     }
     if ($_SERVER['argv'][0] == 'epubcheck') {
