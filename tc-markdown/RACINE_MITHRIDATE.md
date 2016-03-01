@@ -42,7 +42,7 @@ Je ne dis rien de Pharnace, car qui ne sait pas que ce fut lui qui souleva contr
 
 
 # ACTEURS
- – MIHRIDATE, roi de Pont et de quantité d'autres royaumes.
+ – MITHRIDATE, roi de Pont et de quantité d'autres royaumes.
  – MONIME accordée avec Mithridate, et déjà déclarée reine.
  – PHARNACE, fils de Mithridate.
  – XIPHARÈS, fils de Mithridate, mais d'une mère différente.

@@ -191,7 +191,7 @@ Elle s'attend par moi de voir finir ses peines,
 Il la faut accuser si je manque de foi,
 Et je suis son captif, je ne suis pas son Roi.
 
--*who_jocaste.
+-*who_jocaste
 Dites, dites plutôt, coeur ingrat et farouche,
 Qu'auprès du diadème il n'est rien qui vous touche ;
 Mais je me trompe encor, ce rang ne vous plaît pas,
@@ -1816,6 +1816,7 @@ Hélas ! Pour me sauver, sauvez ces inhumains.
 **** *book_ *id_V01 *act_V *date_1664
 
 -*who_antigone
+
 
 À quoi te résous-tu princesse infortunée ?
 Ta mère vient de mourir dans tes bras,

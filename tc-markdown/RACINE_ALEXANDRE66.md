@@ -37,8 +37,7 @@ Je ne rapporterai point ici ce que l'histoire dit de Porus, il faudrait copier t
 
 En effet, que répondrais-je à ces critiques qui condamnent jusques au titre de ma tragédie, et qui ne veulent pas que je l'appelle Alexandre, quoique Alexandre en fasse la principale action, et que le véritable sujet de la pièce ne soit autre chose que la générosité de ce conquérant ? Ils disent que je fais Porus plus grand qu'Alexandre. Et en quoi paraît-il plus grand ? Alexandre, n'est-il pas toujours le vainqueur ? Il ne se contente pas de vaincre Porus par la force de ses armes, il triomphe de sa fierté même par la générosité qu'il fait paraître en lui rendant ses États. Ils trouvent étrange qu'Alexandre, après avoir gagné la bataille, ne retourne pas à la tête de son armée, et qu'il s'entretienne avec sa maîtresse, au lieu d'aller combattre un petit nombre de désespérés qui ne cherchent qu'à périr. Cependant, si l'on en croit un des plus grands capitaines de ce temps, Éphestion n'a pas dû s'y trouver lui-même. Je ne réponds rien à ceux qui blâment Alexandre de rétablir Porus en présence de Cléofile. C'est assez pour moi que ce qui passe pour une faute auprès de ces esprits qui n'ont lu l'histoire que dans les romans, et qui croient qu'un héros ne doit jamais faire un pas sans la permission de sa maîtresse, a reçu des louanges de ceux qui, étant eux-mêmes de grands héros, ont droit de juger de la vertu de leurs pareils. Enfin la plus grande objection que l'on me fasse, c'est que mon sujet est trop simple et trop stérile.
 
-Je ne représente point à ces critiques le goût de l'antiquité. Mais de quoi se plaignent-ils, si toutes mes scènes sont bien remplies, si elles sont bien liées nécessairement les unes aux autres, si tous mes acteurs ne viennent point sur le théâtre que l'on ne sache la raison qui les y fait venir et si, avec peu d'incidents et peu de matière, j'ai été assez heureux pour faire une pièce qui les a peut-être attachés malgré eux depuis le commencement jusqu'à la fin ? Mais ce qui me console, c'est de voir mes censeurs s'accorder si mal ensemble : les uns disent que Taxile n'est point assez honnête homme, les autres, qu'il ne mérite point sa perte ; les uns soutiennent qu'Alexandre n'est point assez amoureux, les autres, qu'il ne vient sur le théâtre que pour parler d'amour. Ainsi je n'ai pas besoin que mes amis se mettent en peine de me justifier, je n'ai qu'à renvoyer mes ennemis à mes ennemis, et je me repose sur eux de la défense d'une pièce qu'ils attaquent en si mauvaise intelligence, et avec des sentiments si opposés.  
-		Représenté pour la première fois au Théâtre du Palais-Royal, le 4 décembre 1665.
+Je ne représente point à ces critiques le goût de l'antiquité. Mais de quoi se plaignent-ils, si toutes mes scènes sont bien remplies, si elles sont bien liées nécessairement les unes aux autres, si tous mes acteurs ne viennent point sur le théâtre que l'on ne sache la raison qui les y fait venir et si, avec peu d'incidents et peu de matière, j'ai été assez heureux pour faire une pièce qui les a peut-être attachés malgré eux depuis le commencement jusqu'à la fin ? Mais ce qui me console, c'est de voir mes censeurs s'accorder si mal ensemble : les uns disent que Taxile n'est point assez honnête homme, les autres, qu'il ne mérite point sa perte ; les uns soutiennent qu'Alexandre n'est point assez amoureux, les autres, qu'il ne vient sur le théâtre que pour parler d'amour. Ainsi je n'ai pas besoin que mes amis se mettent en peine de me justifier, je n'ai qu'à renvoyer mes ennemis à mes ennemis, et je me repose sur eux de la défense d'une pièce qu'ils attaquent en si mauvaise intelligence, et avec des sentiments si opposés.Représenté pour la première fois au Théâtre du Palais-Royal, le 4 décembre 1665.
 
 
 # ACTEURS
@@ -2201,11 +2200,11 @@ Athalie, représentée pour la première fois le 17 novembre 1691 au Collège de
 
 [1] Voir le Cid (1637) de Pierre Corneille, v. 1258, "Et porte sur le font une mêle assurance.", et aussi du même auteur Cinna v. 329, Horace, v.379. On trouve la même fin de vers dans La Mort d'Agrippine (1653), de Cyrano de Bergerac, v. 126 et dans Fédéric (1660) de Claude Boyer, v. 253.
 
-[2] Nue  : Fig. Être dans la nue, être obscur, n'avoir pas encore éclaté. L
+[2] Nue : Fig. Être dans la nue, être obscur, n'avoir pas encore éclaté. L
 
-[3] Vers 197, "nous" est un ajout manuscrit de l'exemplaire BnF,  Yf 3205.
+[3] Vers 197, "nous" est un ajout manuscrit de l'exemplaire BnF, Yf 3205.
 
-[4] Omphis : Prince puissant  s'abandonne à Alexandre avec son Royaume, mais Alexandre d'y rétablit, et ces deux rois se font des présents l'un l'autre. "De la Vie et des actions d'Alexandre le Grand", Quinte Curce, trad. Vaugelas, résumé ch.12 livre VIII)
+[4] Omphis : Prince puissant s'abandonne à Alexandre avec son Royaume, mais Alexandre d'y rétablit, et ces deux rois se font des présents l'un l'autre. "De la Vie et des actions d'Alexandre le Grand", Quinte Curce, trad. Vaugelas, résumé ch.12 livre VIII)
 
 [5] V.439, On lit "tout fiers" mais il s'agit bien de "tous".
 
@@ -2215,7 +2214,7 @@ Athalie, représentée pour la première fois le 17 novembre 1691 au Collège de
 
 [8] "Vertu si rare" est la fin du vers 1575 du Cid de Pierre Corneille, mais aussi le vers 206 de Darius, et le vers 1340 Théodat de Th. Corneille, ou encore Antigone de Rotrou (v.310), Arminius de Scudery (v.140), Le Grand Selim (v. 534 et 613) de Le Vayer, La Mort des enfants d'Hérode (v.1489) de La Calprenède.
 
-[9] Bactrien : Habitant de la Bactiane, pays dépendant de la monarchie persane et conquis par Alexandre  en -328. Il se situait au nord de l'Afghanistan à l'ouest de l'Hymalaya entre les montagnes du Pamir et de l'Indu Kush.
+[9] Bactrien : Habitant de la Bactiane, pays dépendant de la monarchie persane et conquis par Alexandre en -328. Il se situait au nord de l'Afghanistan à l'ouest de l'Hymalaya entre les montagnes du Pamir et de l'Indu Kush.
 
 [10] Vers 529, on lit une "!" après valeur. Cette ponctuation une valeur pneumatique, pour le compréhension nous la retirons.
 

@@ -788,7 +788,7 @@ Mais que veut ce soldat ? Son âme est toute émue.
 
 **** *book_ *id_II04 *act_II *date_1697
 
--*who_garde
+-*who_gardes
 Seigneur, on est aux mains, et la trêve est rompue,
 Créon et les Thébains, par l'ordre de leur roi,
 Attaquent votre armée et violent leur foi.
@@ -1676,6 +1676,7 @@ Hélas ! pour me sauver, sauvez ces inhumains.
 **** *book_ *id_V01 *act_V *date_1697
 
 -*who_antigone
+
 
 À quoi te résous-tu princesse infortunée ?
 Ta mère vient de mourir dans tes bras,

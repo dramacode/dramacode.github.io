@@ -1558,7 +1558,7 @@ Ces quatre stances sont chantées alternativement par une voix seule et par tout
 
 
     UNE ISRAÈLITE
-    
+
 
 Rois, chassez la calomnie.  
 Ses criminels attentats  

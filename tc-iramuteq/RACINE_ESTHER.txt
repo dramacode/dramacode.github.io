@@ -278,7 +278,7 @@ Mais d'où vient cet air sombre, et ce cilice affreux,
 Et cette cendre enfin qui couvre vos cheveux ?
 Que nous annoncez-vous ?
 
--*who_mard
+-*who_mardochee
       Ô Reine infortunée !
 Ô d'un peuple innocent barbare destinée !
 Lisez, lisez l'arrêt détestable, cruel.
@@ -287,7 +287,7 @@ Nous sommes tous perdus, et c'est fait d'Israël.
 -*who_esther
 Juste ciel ! Tout mon sang dans mes veines se glace.
 
--*who_mard
+-*who_mardochee
 On doit de tous les Juifs exterminer la race.
 Au sanguinaire Aman nous sommes tous livrés.
 Les glaives, les couteaux sont déjà préparés.
@@ -311,7 +311,7 @@ As-tu donc de Jacob abandonné les restes ?
 -*who_choeur
 Ciel ! Qui nous défendra, si tu ne nous défends ?
 
--*who_mard
+-*who_mardochee
 Laissez les pleurs, Esther, à ces jeunes enfants.
 En vous est tout l'espoir de vos malheureux frères.
 Il faut les secourir. Mais les heures sont chères.
@@ -336,7 +336,7 @@ Je suis à cette loi comme une autre soumise.
 Et sans le prévenir, il faut pour lui parler,
 Qu'il me cherche, ou du moins qu'il me fasse appeler.
 
--*who_mard
+-*who_mardochee
 Quoi ! Lorsque vous voyez périr votre patrie,
 Pour quelque chose, Esther, vous comptez votre vie !
 Dieu parle, et d'un mortel vous craignez le courroux !
@@ -1451,6 +1451,7 @@ La justice, et la vérité !
 
 -*who_choeur
 
+
 Rois, chassez la calomnie.
 Ses criminels attentats
 Des plus paisibles États
@@ -1760,7 +1761,7 @@ Par le peuple en fureur à moitié déchiré.
 On traîne, on va donner en spectacle funeste
 De son corps tout sanglant le misérable reste.
 
--*who_mard
+-*who_mardochee
 Roi, qu'à jamais le ciel prenne soin de vos jours.
 Le péril des Juifs presse, et veut un prompt secours.
 

@@ -1457,7 +1457,7 @@ Son droit ? Tout ce qu'il dit sont autant d'impostures.
     DANDIN.
 Qu'est-ce qu'on vous a fait ?  
 
-     CHICANNEAU, L'INTIMÉ ET LA COMTESSE .
+     CHICANNEAU, L'INTIMÉ ET LA COMTESSE.
         On m'a dit des injures.  
 
     L'INTIMÉ, CONTINUANT.

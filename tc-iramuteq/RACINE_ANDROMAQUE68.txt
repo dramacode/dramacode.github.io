@@ -296,13 +296,13 @@ Et vous pourrez aux Grecs annoncer mon refus.
 
 **** *book_ *id_I03 *act_I *date_1668
 
--*who_phnix
+-*who_phoenix
 Ainsi vous l'envoyez aux pieds de sa Maîtresse ?
 
 -*who_pyrrhus
 On dit qu'il a longtemps brûlé pour la Princesse.
 
--*who_phnix
+-*who_phoenix
 Mais si ce feu, Seigneur, vient à se rallumer,
 S'il lui rendait son coeur, s'il s'en faisait aimer ?
 
@@ -312,7 +312,7 @@ Que charmés l'un de l'autre, ils retournent à Sparte.
 Tous nos Ports sont ouverts et pour elle et pour lui.
 Qu'elle m'épargnerait de contrainte et d'ennui !
 
--*who_phnix
+-*who_phoenix
 Seigneur...
 
 -*who_pyrrhus
@@ -827,7 +827,7 @@ Ah dieux !
       Hé bien, Phnix, l'Amour est-il le Maître ?
 Tes yeux refusent-ils encor de me connaître ?
 
--*who_phnix
+-*who_phoenix
 Ah ! je vous reconnais, et ce juste courroux
 Ainsi qu'à tous les Grecs, Seigneur, vous rend à vous.
 Et qui l'aurait pensé, qu'une si noble audace
@@ -851,7 +851,7 @@ Quels périls... Un regard m'eût tout fait oublier.
 Tous les Grecs conjurés fondaient sur un Rebelle.
 Je trouvais du plaisir à me perdre pour Elle.
 
--*who_phnix
+-*who_phoenix
 Oui, je bénis, Seigneur, l'heureuse cruauté
 Qui vous rend...
 
@@ -870,7 +870,7 @@ C'est lui-même, c'est toi, cher Époux, que j'embrasse.
 Et quelle est sa pensée ? Attend-elle en ce jour
 Que je lui laisse un Fils pour nourrir son amour ?
 
--*who_phnix
+-*who_phoenix
 Sans doute. C'est le prix que vous gardait l'Ingrate.
 Mais laissez-la, Seigneur.
 
@@ -882,7 +882,7 @@ Je la verrais aux miens, Phnix, d'un oeil tranquille.
 Elle est Veuve d'Hector. Et je suis Fils d'Achille.
 Trop de haine sépare Andromaque et Pyrrhus.
 
--*who_phnix
+-*who_phoenix
 Commencez donc, Seigneur, à ne m'en parler plus.
 Allez voir Hermione, et content de lui plaire,
 Oubliez à ses pieds jusqu'à votre colère.
@@ -894,7 +894,7 @@ Il ne l'aime que trop.
       Crois-tu, si je l'épouse,
 Qu'Andromaque en secret n'en sera pas jalouse ?
 
--*who_phnix
+-*who_phoenix
 Quoi toujours Andromaque occupe votre esprit ?
 Que vous importe, ô Dieux ! sa joie, ou son dépit ?
 Quel charme malgré vous vers elle vous attire ?
@@ -908,7 +908,7 @@ Et donner à ma haine une libre étendue.
 Viens voir tous ses attraits, Phnix, humiliés.
 Allons.
 
--*who_phnix
+-*who_phoenix
       Allez, Seigneur, vous jeter à ses pieds.
 Allez, en lui jurant que votre âme l'adore,
 À de nouveaux mépris l'encourager encore.
@@ -917,7 +917,7 @@ Allez, en lui jurant que votre âme l'adore,
 Je le vois bien, tu crois que prêt à l'excuser
 Mon coeur court après elle, et cherche à s'apaiser.
 
--*who_phnix
+-*who_phoenix
 Vous aimez, c'est assez.
 
 -*who_pyrrhus
@@ -937,7 +937,7 @@ Quel spectacle pour elle aujourd'hui se dispose !
 Elle en mourra, Phnix, et j'en serai la cause.
 C'est lui mettre moi-même un poignard dans le sein.
 
--*who_phnix
+-*who_phoenix
 Et pourquoi donc en faire éclater le dessein ?
 Que ne consultiez-vous tantôt votre faiblesse ?
 
@@ -948,7 +948,7 @@ D'un amour qui s'éteint c'est le dernier éclat.
 Allons. À tes conseils, Phnix, je m'abandonne ;
 Faut-il livrer son Fils ? Faut-il voir Hermione ?
 
--*who_phnix
+-*who_phoenix
 Oui, voyez-la, Seigneur, et par des voeux soumis
 Protestez-lui...
 
@@ -1230,7 +1230,7 @@ Mais lui-même il vous cherche.
       Où donc est la Princesse ?
 Ne m'avais-tu pas dit qu'elle était en ces lieux ?
 
--*who_phnix
+-*who_phoenix
 Je le croyais.
 
 -*who_andromaque
@@ -1242,7 +1242,7 @@ Que dit-elle, Phnix ?
 -*who_andromaque
       Hélas ! tout m'abandonne.
 
--*who_phnix
+-*who_phoenix
 Allons, Seigneur, marchons sur les pas d'Hermione.
 
 -*who_cephise
@@ -1924,7 +1924,7 @@ Va, cours. Mais crains encor d'y trouver Hermione.
 
 **** *book_ *id_IV06 *act_IV *date_1668
 
--*who_phnix
+-*who_phoenix
 Seigneur, vous l'entendez . Gardez de négliger
 Une Amante en fureur, qui cherche à se venger.
 Elle n'est en ces lieux que trop bien appuyée,

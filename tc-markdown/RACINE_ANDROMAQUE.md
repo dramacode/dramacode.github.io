@@ -33,8 +33,6 @@ Voilà sans doute la moindre de vos excellentes qualités. Mais, MADAME, c'est l
 MADAME, DE VOTRE ALTESSE ROYALE, Le très humble, très obéissant, et très fidèle serviteur,
 RACINE.
 
-  
-
 
 
 # Première Préface (édition 1668 et 1673)
@@ -64,8 +62,7 @@ Mais véritablement mes personnages sont si fameux dans l'antiquité, que, pour 
 
 Encore s'est-il trouvé des gens qui se sont plaints qu'il s'emportât contre Andromaque, et qu'il voulût épouser une captive à quelque prix que ce fût. J'avoue qu'il n'est pas assez résigné à la volonté de sa maîtresse, et que Céladon a mieux connu que lui le parfait amour. Mais que faire ? Pyrrhus n'avait pas lu nos romans. Il était violent de son naturel, et tous les héros ne sont pas faits pour être des Céladons.
 
-Quoi qu'il en soit, le public m'a été trop favorable pour m'embarrasser du chagrin particulier de deux ou trois personnes qui voudraient qu'on réformât tous les héros de l'antiquité pour en faire des héros parfaits. Je trouve leur intention fort bonne de vouloir qu'on ne mette sur la scène que des hommes impeccables mais je les prie de se souvenir que ce n'est point à moi de changer les règles du théâtre. Horace nous recommande de peindre Achille farouche, inexorable, violent, tel qu'il était, et tel qu'on dépeint son fils. Aristote, bien éloigné de nous demander des héros parfaits, veut au contraire que les personnages tragiques, c'est-à-dire ceux dont le malheur fait la catastrophe de la tragédie, ne soient ni tout à fait bons, ni tout à fait méchants. Il ne veut pas qu'ils soient extrêmement bons, parce que la punition d'un homme de bien exciterait plus l'indignation que la pitié du spectateur ; ni qu'ils soient méchants avec excès, parce qu'on n'a point pitié d'un scélérat. Il faut donc qu'ils aient une bonté médiocre, c'est-à-dire une vertu capable de faiblesse, et qu'ils tombent dans le malheur par quelque faute qui les fasse plaindre sans les faire détester.  
-
+Quoi qu'il en soit, le public m'a été trop favorable pour m'embarrasser du chagrin particulier de deux ou trois personnes qui voudraient qu'on réformât tous les héros de l'antiquité pour en faire des héros parfaits. Je trouve leur intention fort bonne de vouloir qu'on ne mette sur la scène que des hommes impeccables mais je les prie de se souvenir que ce n'est point à moi de changer les règles du théâtre. Horace nous recommande de peindre Achille farouche, inexorable, violent, tel qu'il était, et tel qu'on dépeint son fils. Aristote, bien éloigné de nous demander des héros parfaits, veut au contraire que les personnages tragiques, c'est-à-dire ceux dont le malheur fait la catastrophe de la tragédie, ne soient ni tout à fait bons, ni tout à fait méchants. Il ne veut pas qu'ils soient extrêmement bons, parce que la punition d'un homme de bien exciterait plus l'indignation que la pitié du spectateur ; ni qu'ils soient méchants avec excès, parce qu'on n'a point pitié d'un scélérat. Il faut donc qu'ils aient une bonté médiocre, c'est-à-dire une vertu capable de faiblesse, et qu'ils tombent dans le malheur par quelque faute qui les fasse plaindre sans les faire détester.
 
 
 # Seconde Préface (édition 1674 et suivantes)

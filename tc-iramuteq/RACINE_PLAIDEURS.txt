@@ -2,7 +2,7 @@
 
 **** *book_ *id_I01 *act_I *date_1697
 
--*who_petit_jean
+-*who_petitjean
 Ma foi, sur l'avenir, bien fou qui se fiera.
 Tel qui rit vendredi, dimanche pleurera.
 Un juge, l'an passé, me prit à son service,
@@ -58,14 +58,14 @@ Dormons.
 -*who_lintime
       Hé, Petit Jean, Petit Jean.
 
--*who_petit_jean
+-*who_petitjean
       L'Intimé.
 Il a déjà bien peur de me voir enrhumé.
 
 -*who_lintime
 Que diable ! Si matin que fais-tu dans la rue ?
 
--*who_petit_jean
+-*who_petitjean
 Est-ce qu'il faut toujours faire le pied de grue,
 Garder toujours un homme, et l'entendre crier ?
 Quelle gueule ! Pour moi, je crois qu'il est sorcier.
@@ -73,7 +73,7 @@ Quelle gueule ! Pour moi, je crois qu'il est sorcier.
 -*who_lintime
 Bon.
 
--*who_petit_jean
+-*who_petitjean
       Je lui disais donc en me grattant la tête,
 Que je voulais dormir. « Présente ta requête
 Comme tu veux dormir », m'a-t-il dit gravement.
@@ -102,13 +102,13 @@ Hors de cour.
 -*who_lintime
       Comme il saute.
 
--*who_petit_jean
+-*who_petitjean
       Ho ! Monsieur, je vous tiens.
 
 -*who_dandin
 Au voleur, au voleur.
 
--*who_petit_jean
+-*who_petitjean
       Ho ! Nous vous tenons bien.
 
 -*who_lintime
@@ -130,7 +130,7 @@ Où courez-vous, la nuit ?
 -*who_leandre
 Et qui juger ? Tout dort.
 
--*who_petit_jean
+-*who_petitjean
       Ma foi, je ne dors guère.
 
 -*who_leandre
@@ -201,7 +201,7 @@ Mon père. Petit Jean, ramenez votre maître,
 Couchez-le dans son lit, fermez porte, fenêtre,
 Qu'on barricade tout, afin qu'il ait plus chaud.
 
--*who_petit_jean
+-*who_petitjean
 Faites donc mettre au moins des garde-fous là-haut.
 
 -*who_dandin
@@ -331,33 +331,33 @@ Et qui jure pour moi lorsque j'en ai besoin.
 Qu'il m'attende. Je crains que mon juge ne sorte.
 Quatre heures vont sonner. Mais frappons à sa porte.
 
--*who_petit_jean
+-*who_petitjean
 Qui va là ?
 
 -*who_chicanneau
       Peut-on voir Monsieur ?
 
--*who_petit_jean
+-*who_petitjean
       Non.
 
 -*who_chicanneau
       Pourrait-on
 Dire un mot à Monsieur son secrétaire ?
 
--*who_petit_jean
+-*who_petitjean
       Non.
 
 -*who_chicanneau
 Et Monsieur son portier ?
 
--*who_petit_jean
+-*who_petitjean
       C'est moi-même.
 
 -*who_chicanneau
       De grâce,
 Buvez à ma santé, Monsieur.
 
--*who_petit_jean
+-*who_petitjean
       Grand bien vous fasse.
 Mais revenez demain.
 
@@ -376,7 +376,7 @@ De Pimbesche. Elle vient pour affaire qui presse.
 -*who_chicanneau
 Madame, on n'entre plus.
 
--*who_la_comtesse
+-*who_comtesse
       Hé bien ! l'ai-je pas dit ?
 Sans mentir, mes valets me font perdre l'esprit.
 Pour les faire lever, c'est en vain que je gronde,
@@ -385,31 +385,31 @@ Il faut que tous les jours j'éveille tout mon monde.
 -*who_chicanneau
 Il faut absolument qu'il se fasse celer.
 
--*who_la_comtesse
+-*who_comtesse
 Pour moi, depuis deux jours je ne lui puis parler.
 
 -*who_chicanneau
 Ma partie est puissante, et j'ai lieu de tout craindre.
 
--*who_la_comtesse
+-*who_comtesse
 Après ce qu'on m'a fait, il ne faut plus se plaindre.
 
 -*who_chicanneau
 Si, pourtant j'ai bon droit.
 
--*who_la_comtesse
+-*who_comtesse
       Ah, Monsieur, quel arrêt !
 
 -*who_chicanneau
 Je m'en rapporte à vous. Écoutez, s'il vous plaît.
 
--*who_la_comtesse
+-*who_comtesse
 Il faut que vous sachiez, Monsieur, la perfidie...
 
 -*who_chicanneau
 Ce n'est rien dans le fond.
 
--*who_la_comtesse
+-*who_comtesse
       Monsieur, que je vous die...
 
 -*who_chicanneau
@@ -449,19 +449,19 @@ La requête civile est ouverte pour moi,
 Je ne suis pas rendu. Mais vous, comme je vois,
 Vous plaidez ?
 
--*who_la_comtesse
+-*who_comtesse
       Plût à Dieu.
 
 -*who_chicanneau
       J'y brûlerai mes livres.
 
--*who_la_comtesse
+-*who_comtesse
 Je...
 
 -*who_chicanneau
       Deux bottes de foin cinq à six mille livres !
 
--*who_la_comtesse
+-*who_comtesse
 Monsieur, tous mes procès allaient être finis.
 Il ne m'en restait plus que quatre ou cinq petits.
 L'un contre mon mari, l'autre contre mon père,
@@ -474,21 +474,21 @@ On me défend, Monsieur, de plaider de ma vie.
 -*who_chicanneau
 De plaider !
 
--*who_la_comtesse
+-*who_comtesse
       De plaider.
 
 -*who_chicanneau
       Certes, le trait est noir,
 J'en suis surpris.
 
--*who_la_comtesse
+-*who_comtesse
       Monsieur, j'en suis au désespoir.
 
 -*who_chicanneau
 Comment ! Lier les mains aux gens de votre sorte ?
 Mais cette pension, Madame, est-elle forte ?
 
--*who_la_comtesse
+-*who_comtesse
 Je n'en vivrais, Monsieur, que trop honnêtement.
 Mais vivre sans plaider, est-ce contentement ?
 
@@ -497,158 +497,158 @@ Des chicaneurs viendront nous manger jusqu'à l'âme,
 Et nous ne dirons mot ? Mais s'il vous plaît, Madame,
 Depuis quand plaidez-vous ?
 
--*who_la_comtesse
+-*who_comtesse
       Il ne m'en souvient pas,
 Depuis trente ans, au plus.
 
 -*who_chicanneau
       Ce n'est pas trop.
 
--*who_la_comtesse
+-*who_comtesse
 Hélas !
 
 -*who_chicanneau
       Et quel âge avez-vous ? Vous avez bon visage.
 
--*who_la_comtesse
+-*who_comtesse
 Hé, quelque soixante ans.
 
 -*who_chicanneau
       Comment ! c'est le bel âge
 Pour plaider.
 
--*who_la_comtesse
+-*who_comtesse
       Laissez faire, ils ne sont pas au bout.
 J'y vendrai ma chemise, et je veux rien, ou tout.
 
 -*who_chicanneau
 Madame, écoutez-moi. Voici ce qu'il faut faire.
 
--*who_la_comtesse
+-*who_comtesse
 Oui Monsieur, je vous crois comme mon propre père.
 
 -*who_chicanneau
 J'irais trouver mon juge.
 
--*who_la_comtesse
+-*who_comtesse
       Oh, oui, Monsieur, j'irai.
 
 -*who_chicanneau
 Me jeter à ses pieds.
 
--*who_la_comtesse
+-*who_comtesse
       Oui, je m'y jetterai.
 Je l'ai bien résolu.
 
 -*who_chicanneau
       Mais daignez donc m'entendre.
 
--*who_la_comtesse
+-*who_comtesse
 Oui, vous prenez la chose ainsi qu'il la faut prendre.
 
 -*who_chicanneau
 Avez-vous dit, Madame ?
 
--*who_la_comtesse
+-*who_comtesse
       Oui.
 
 -*who_chicanneau
       J'irais sans façon
 Trouver mon juge.
 
--*who_la_comtesse
+-*who_comtesse
       Hélas, que ce Monsieur est bon !
 
 -*who_chicanneau
 Si vous parlez toujours, il faut que je me taise.
 
--*who_la_comtesse
+-*who_comtesse
 Ah que vous m'obligez ! je ne me sens pas d'aise.
 
 -*who_chicanneau
 J'irais trouver mon juge, et lui dirais...
 
--*who_la_comtesse
+-*who_comtesse
       Oui.
 
 -*who_chicanneau
       Vois.
 Et lui dirais ; Monsieur...
 
--*who_la_comtesse
+-*who_comtesse
       Oui, Monsieur.
 
 -*who_chicanneau
       Liez-moi...
 
--*who_la_comtesse
+-*who_comtesse
 Monsieur, je ne veux point être liée.
 
 -*who_chicanneau
       À l'autre !
 
--*who_la_comtesse
+-*who_comtesse
 Je ne la serai point.
 
 -*who_chicanneau
       Quelle humeur est la vôtre !
 
--*who_la_comtesse
+-*who_comtesse
 Non.
 
 -*who_chicanneau
       Vous ne savez pas, Madame, où je viendrai.
 
--*who_la_comtesse
+-*who_comtesse
 Je plaiderai, Monsieur, ou bien je ne pourrai.
 
 -*who_chicanneau
 Mais...
 
--*who_la_comtesse
+-*who_comtesse
       Mais je ne veux point, Monsieur que l'on me lie.
 
 -*who_chicanneau
 Enfin quand une femme en tête a sa folie...
 
--*who_la_comtesse
+-*who_comtesse
 Fou, vous-même.
 
 -*who_chicanneau
       Madame !
 
--*who_la_comtesse
+-*who_comtesse
       Et pourquoi me lier ?
 
 -*who_chicanneau
 Madame...
 
--*who_la_comtesse
+-*who_comtesse
       Voyez-vous ? il se rend familier.
 
 -*who_chicanneau
 Mais, Madame...
 
--*who_la_comtesse
+-*who_comtesse
       Un crasseux qui n'a que sa chicane,
 Veut donner des avis.
 
 -*who_chicanneau
       Madame !
 
--*who_la_comtesse
+-*who_comtesse
       Avec son âne !
 
 -*who_chicanneau
 Vous me poussez.
 
--*who_la_comtesse
+-*who_comtesse
       Bonhomme, allez garder vos foins.
 
 -*who_chicanneau
 Vous m'excédez.
 
--*who_la_comtesse
+-*who_comtesse
       Le sot !
 
 -*who_chicanneau
@@ -656,65 +656,65 @@ Vous m'excédez.
 
 **** *book_ *id_I08 *act_I *date_1697
 
--*who_petit_jean
+-*who_petitjean
 Voyez le beau sabbat qu'ils font à notre porte.
 Messieurs, allez plus loin tempêter de la sorte.
 
 -*who_chicanneau
 Monsieur, soyez témoin...
 
--*who_la_comtesse
+-*who_comtesse
       Que monsieur est un sot.
 
 -*who_chicanneau
 Monsieur, vous l'entendez, retenez bien ce mot.
 
--*who_petit_jean
+-*who_petitjean
 Ah, vous ne deviez pas lâcher cette parole.
 
--*who_la_comtesse
+-*who_comtesse
 Vraiment c'est bien à lui de me traiter de folle.
 
--*who_petit_jean
+-*who_petitjean
 Folle ! Vous avez tort. Pourquoi l'injurier ?
 
 -*who_chicanneau
 On la conseille.
 
--*who_petit_jean
+-*who_petitjean
       Oh !
 
--*who_la_comtesse
+-*who_comtesse
       Oui, de me faire lier.
 
--*who_petit_jean
+-*who_petitjean
 Oh, Monsieur !
 
 -*who_chicanneau
       Jusqu'au bout que ne m'écoute-t-elle ?
 
--*who_petit_jean
+-*who_petitjean
 Oh, Madame !
 
--*who_la_comtesse
+-*who_comtesse
       Qui moi souffrir qu'on me querelle ?
 
 -*who_chicanneau
 Une crieuse !
 
--*who_petit_jean
+-*who_petitjean
       Hé paix !
 
--*who_la_comtesse
+-*who_comtesse
       Un chicaneur !
 
--*who_petit_jean
+-*who_petitjean
 Holà !
 
 -*who_chicanneau
       Qui n'ose plus plaider !
 
--*who_la_comtesse
+-*who_comtesse
       Que t'importe cela ?
 Qu'est-ce qui t'en revient, faussaire abominable,
 Brouillon, voleur !
@@ -723,10 +723,10 @@ Brouillon, voleur !
       Et bon, et bon, de par le diable !
 Un sergent ! un sergent !
 
--*who_la_comtesse
+-*who_comtesse
       Un huissier ! un huissier !
 
--*who_petit_jean
+-*who_petitjean
 Ma foi, juge et plaideurs, il faudrait tout lier.
 
 **** *book_ *id_II01 *act_II *date_1697
@@ -1298,14 +1298,14 @@ Comment ?
 
 **** *book_ *id_II07 *act_II *date_1697
 
--*who_petit_jean
+-*who_petitjean
       Holà, quelqu'un n'a-t-il point vu mon maître ?
 Quel chemin a-t-il pris, la porte ou la fenêtre ?
 
 -*who_leandre
 À l'autre !
 
--*who_petit_jean
+-*who_petitjean
       Je ne sais qu'est devenu son fils.
 Et pour le père, il est où le diable l'a mis.
 Il me redemandait sans cesse ses épices,
@@ -1321,7 +1321,7 @@ Est disparu.
 -*who_leandre
 Hé grand Dieu !
 
--*who_petit_jean
+-*who_petitjean
       Le voilà, ma foi, dans les gouttières.
 
 -*who_dandin
@@ -1329,7 +1329,7 @@ Quelles gens êtes-vous ? Quelles sont vos affaires ?
 Qui sont ces gens en robe ? Êtes-vous avocats ?
 Çà, parlez.
 
--*who_petit_jean
+-*who_petitjean
       Vous verrez qu'il va juger les chats.
 
 -*who_dandin
@@ -1340,7 +1340,7 @@ Allez-lui demander si je sais votre affaire.
 Il faut bien que je l'aille arracher de ces lieux.
 Sur votre prisonnier, huissier, ayez les yeux.
 
--*who_petit_jean
+-*who_petitjean
 Ho ! ho ! Monsieur !
 
 -*who_leandre
@@ -1355,7 +1355,7 @@ Et suis-moi.
 -*who_chicanneau
 Monsieur, sans votre aveu, l'on me fait prisonnier.
 
--*who_la_comtesse
+-*who_comtesse
 Hé mon Dieu ! j'aperçois Monsieur dans son grenier.
 Que fait-il là ?
 
@@ -1368,28 +1368,28 @@ Le champ vous est ouvert.
 Monsieur, on m'injurie, et je venais ici
 Me plaindre à vous.
 
--*who_la_comtesse
+-*who_comtesse
       Monsieur, je viens me plaindre aussi.
 
--*who_chicanneau_la_comtesse
+-*who_chicanneau_comtesse
 Vous voyez devant vous mon adverse partie.
 
 -*who_lintime
 Parbleu, je me veux mettre aussi de la partie.
 
--*who_chicanneau,_la_comtesse,_lintime
+-*who_chicanneau_comtesse_lintime
 Monsieur je viens ici pour un petit exploit.
 
 -*who_chicanneau
 Hé, Messieurs ! tour à tour, exposons notre droit.
 
--*who_la_comtesse
+-*who_comtesse
 Son droit ? Tout ce qu'il dit sont autant d'impostures.
 
 -*who_dandin
 Qu'est-ce qu'on vous a fait ?
 
--*who_chicanneau,_la_comtesse,_lintime
+-*who_chicanneau_comtesse_lintime
       On m'a dit des injures.
 
 -*who_lintime
@@ -1398,7 +1398,7 @@ Outre un soufflet, Monsieur, que j'ai reçu plus qu'eux.
 -*who_chicanneau
 Monsieur, je suis cousin de l'un de vos neveux.
 
--*who_la_comtesse
+-*who_comtesse
 Monsieur, père Cordon vous dira mon affaire.
 
 -*who_lintime
@@ -1407,7 +1407,7 @@ Monsieur, je suis bâtard de votre apothicaire.
 -*who_dandin
 Vos qualités ?
 
--*who_la_comtesse
+-*who_comtesse
       Je suis comtesse.
 
 -*who_lintime
@@ -1426,7 +1426,7 @@ Monsieur...
 -*who_lintime
       Bon, le voilà qui fausse compagnie.
 
--*who_la_comtesse
+-*who_comtesse
 Hélas !
 
 -*who_chicanneau
@@ -1451,26 +1451,26 @@ En deux heures, au plus.
 -*who_leandre
       On n'entre point, Monsieur.
 
--*who_la_comtesse
+-*who_comtesse
 C'est bien fait, de fermer la porte à ce crieur.
 Mais moi...
 
 -*who_leandre
       L'on n'entre point, Madame, je vous jure.
 
--*who_la_comtesse
+-*who_comtesse
 Ho ! Monsieur, j'entrerai.
 
 -*who_leandre
       Peut-être.
 
--*who_la_comtesse
+-*who_comtesse
       J'en suis sûre.
 
 -*who_leandre
 Par la fenêtre donc.
 
--*who_la_comtesse
+-*who_comtesse
       Par la porte.
 
 -*who_leandre
@@ -1481,7 +1481,7 @@ Quand je devrais ici demeurer jusqu'au soir.
 
 **** *book_ *id_II11 *act_II *date_1697
 
--*who_petit_jean
+-*who_petitjean
 On ne l'entendra pas, quelque chose qu'il fasse.
 Parbleu, je l'ai fourré dans notre salle basse,
 Tout auprès de la cave.
@@ -1498,7 +1498,7 @@ Mais que vois-je ? Ah, c'est lui que le ciel nous renvoie.
 -*who_leandre
 Quoi par le soupirail ?
 
--*who_petit_jean
+-*who_petitjean
       Il a le diable au corps.
 
 -*who_chicanneau
@@ -1546,7 +1546,7 @@ C'est de très bon muscat.
 -*who_leandre
 Il faut les entourer ici de tous côtés.
 
--*who_la_comtesse
+-*who_comtesse
 Monsieur, il vous va dire autant de faussetés.
 
 -*who_chicanneau
@@ -1555,7 +1555,7 @@ Monsieur, je vous dis vrai.
 -*who_dandin
       Mon Dieu, laissez-la dire.
 
--*who_la_comtesse
+-*who_comtesse
 Monsieur, écoutez-moi.
 
 -*who_dandin
@@ -1567,7 +1567,7 @@ Monsieur...
 -*who_dandin
       Vous m'étranglez.
 
--*who_la_comtesse
+-*who_comtesse
       Tournez les yeux vers moi.
 
 -*who_dandin
@@ -1577,7 +1577,7 @@ Elle m'étrangle. Ay ! ay !
       Vous m'entraînez, ma foi.
 Prenez garde, je tombe.
 
--*who_petit_jean
+-*who_petitjean
       Ils sont sur ma parole,
 L'un et l'autre encavés.
 
@@ -1595,7 +1595,7 @@ Gardez le soupirail.
 
 **** *book_ *id_II12 *act_II *date_1697
 
--*who_la_comtesse
+-*who_comtesse
 Misérable ! il s'en va lui prévenir l'esprit.
 Monsieur, ne croyez rien de tout ce qu'il vous dit.
 Il n'a point de témoins. C'est un menteur.
@@ -1604,14 +1604,14 @@ Il n'a point de témoins. C'est un menteur.
       Madame,
 Que leur contez-vous là ? Peut-être ils rendent l'âme.
 
--*who_la_comtesse
+-*who_comtesse
 Il lui fera, Monsieur, croire ce qu'il voudra.
 Souffrez que j'entre.
 
 -*who_leandre
       Oh non, personne n'entrera.
 
--*who_la_comtesse
+-*who_comtesse
 Je le vois bien, Monsieur, le vin muscat opère
 Aussi bien sur le fils que sur l'esprit du père.
 Patience. Je vais protester comme il faut,
@@ -1682,7 +1682,7 @@ Contre un de vos voisins...
 
 **** *book_ *id_II14 *act_II *date_1697
 
--*who_petit_jean
+-*who_petitjean
       Arrête ! arrête ! attrape !
 
 -*who_leandre
@@ -1691,7 +1691,7 @@ Ah ! c'est mon prisonnier sans doute qui s'échappe.
 -*who_lintime
 Non, non, ne craignez rien.
 
--*who_petit_jean
+-*who_petitjean
       Tout est perdu... Citron...
 Votre chien... vient là-bas de manger un chapon,
 Rien n'est sûr devant lui. Ce qu'il trouve, il l'emporte.
@@ -1723,13 +1723,13 @@ Ils sont fort ignorants.
       Non pas, Monsieur, non pas.
 J'endormirai Monsieur, tout aussi bien qu'un autre.
 
--*who_petit_jean
+-*who_petitjean
 Pour moi, je ne sais rien, n'attendez rien du nôtre.
 
 -*who_leandre
 C'est ta première cause, et l'on te la fera.
 
--*who_petit_jean
+-*who_petitjean
 Mais je ne sais pas lire.
 
 -*who_leandre
@@ -1769,7 +1769,7 @@ Et même elle saura mieux répondre que moi.
 -*who_leandre
 Allez et revenez, l'on vous fera justice.
 
--*who_le_souffleur
+-*who_souffleur
 Quel homme !
 
 **** *book_ *id_III02 *act_III *date_1697
@@ -1793,7 +1793,7 @@ Mais voici tous nos gens qui marchent sur nos pas.
 -*who_dandin
 Vous ?
 
--*who_le_souffleur
+-*who_souffleur
       Je viens secourir leur mémoire troublée.
 
 -*who_dandin
@@ -1805,10 +1805,10 @@ Je vous entends. Et vous ?
 -*who_dandin
 Commencez donc.
 
--*who_le_souffleur
+-*who_souffleur
       Messieurs.
 
--*who_petit_jean
+-*who_petitjean
       Ho prenez le plus bas,
 Si vous soufflez si haut, l'on ne m'entendra pas.
 Messieurs...
@@ -1816,19 +1816,19 @@ Messieurs...
 -*who_dandin
       Couvrez-vous.
 
--*who_petit_jean
+-*who_petitjean
       Ô ! Mes...
 
 -*who_dandin
       Couvrez-vous, vous dis-je.
 
--*who_petit_jean
+-*who_petitjean
 Oh, Monsieur ? Je sais bien à quoi l'honneur m'oblige.
 
 -*who_dandin
 Ne te couvre donc pas.
 
--*who_petit_jean
+-*who_petitjean
       Messieurs... Vous doucement :
 Ce que je sais le mieux, c'est mon commencement.
 Messieurs, quand je regarde avec exactitude,
@@ -1846,7 +1846,7 @@ Quand je vois le Japon...
 -*who_lintime
       Quand aura-t-il tout vu ?
 
--*who_petit_jean
+-*who_petitjean
 Oh, pourquoi celui-là m'a-t-il interrompu ?
 Je ne dirai plus rien.
 
@@ -1858,7 +1858,7 @@ Il viendrait à bon port au fait de son chapon,
 Et vous l'interrompez par un discours frivole.
 Parlez donc, avocat.
 
--*who_petit_jean
+-*who_petitjean
       J'ai perdu la parole.
 
 -*who_leandre
@@ -1867,73 +1867,73 @@ Mais que font là tes bras pendants à ton côté ?
 Te voilà sur tes pieds droit comme une statue,
 Dégourdis-toi. Courage ! allons, qu'on s'évertue.
 
--*who_petit_jean
+-*who_petitjean
 Quand... je vois... Quand...je vois...
 
 -*who_leandre
       Dis donc ce que tu vois.
 
--*who_petit_jean
+-*who_petitjean
 Oh dame, on ne court pas deux lièvres à la fois.
 
--*who_le_souffleur
+-*who_souffleur
 On lit...
 
--*who_petit_jean
+-*who_petitjean
       On lit...
 
--*who_le_souffleur
+-*who_souffleur
       Dans la...
 
--*who_petit_jean
+-*who_petitjean
       Dans la...
 
--*who_le_souffleur
+-*who_souffleur
       Métamorphose.
 
--*who_petit_jean
+-*who_petitjean
 Comment ?
 
--*who_le_souffleur
+-*who_souffleur
       Que la métem...
 
--*who_petit_jean
+-*who_petitjean
       Que la métem...
 
--*who_le_souffleur
+-*who_souffleur
       Psycose.
 
--*who_petit_jean
+-*who_petitjean
 Psycose.
 
--*who_le_souffleur
+-*who_souffleur
       Hé le cheval !
 
--*who_petit_jean
+-*who_petitjean
       Et le cheval.
 
--*who_le_souffleur
+-*who_souffleur
 Encor !
 
--*who_petit_jean
+-*who_petitjean
       Encor.
 
--*who_le_souffleur
+-*who_souffleur
       Le chien !
 
--*who_petit_jean
+-*who_petitjean
       Le chien.
 
--*who_le_souffleur
+-*who_souffleur
       Le butor !
 
--*who_petit_jean
+-*who_petitjean
 Le butor.
 
--*who_le_souffleur
+-*who_souffleur
       Peste de l'avocat !
 
--*who_petit_jean
+-*who_petitjean
       Ah peste de toi-même !
 Voyez cet autre avec sa face de carême.
 Va-t'en au diable.
@@ -1942,7 +1942,7 @@ Va-t'en au diable.
       Et vous venez au fait. Un mot
 Du fait.
 
--*who_petit_jean
+-*who_petitjean
       Eh faut-il tant tourner autour du pot ?
 Il me font dire aussi des mots longs d'une toise,
 De grands mots qui tiendraient d'ici jusqu'à Pontoise.
@@ -1956,7 +1956,7 @@ Son procès est tout fait, et je l'assommerai.
 -*who_leandre
 Belle conclusion, et digne de l'exorde !
 
--*who_petit_jean
+-*who_petitjean
 On l'entend bien toujours. Qui voudra mordre y morde.
 
 -*who_dandin
@@ -1966,13 +1966,13 @@ Appelez les témoins.
       C'est bien dit, s'il le peut.
 Les témoins sont fort chers, et n'en a pas qui veut.
 
--*who_petit_jean
+-*who_petitjean
 Nous en avons pourtant, et qui sont sans reproche.
 
 -*who_dandin
 Faites-les donc venir.
 
--*who_petit_jean
+-*who_petitjean
       Je les ai dans ma poche.
 Tenez, voilà la tête, et les pieds du chapon.
 Voyez-les, et jugez.
@@ -2121,19 +2121,19 @@ Témoin trois procureurs dont icelui Citron
 A déchiré la robe. On en verra les pièces.
 Pour nous justifier, voulez-vous d'autres pièces ?
 
--*who_petit_jean
+-*who_petitjean
 Maître Adam...
 
 -*who_lintime
       Laissez-nous.
 
--*who_petit_jean
+-*who_petitjean
       L'Intimé...
 
 -*who_lintime
       Laissez-nous.
 
--*who_petit_jean
+-*who_petitjean
 S'enroue.
 
 -*who_lintime
@@ -2183,13 +2183,13 @@ Quem Græci dixere chaos, rudis indigestaque moles...
 -*who_leandre
 Quelle chute ! Mon père ?
 
--*who_petit_jean
+-*who_petitjean
       Ay, Monsieur ! Comme il dort !
 
 -*who_leandre
 Mon père, éveillez-vous.
 
--*who_petit_jean
+-*who_petitjean
       Monsieur, êtes-vous mort ?
 
 -*who_leandre

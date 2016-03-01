@@ -690,7 +690,6 @@ Quel est donc ce grand mal que leur courroux annonce ?
 
     OLYMPE.
 Prince pour en juger écoutez leur réponse.  
-    
 
 Thébains pour n'avoir plus de guerres,  
 Il faut par un ordre fatal,  
@@ -1908,7 +1907,7 @@ Hélas ! Pour me sauver, sauvez ces inhumains.
 ## SCÈNE PREMIÈRE.
 
     ANTIGONE, SEULE.
-    
+
 
 À quoi te résous-tu princesse infortunée ?  
 Ta mère vient de mourir dans tes bras,  

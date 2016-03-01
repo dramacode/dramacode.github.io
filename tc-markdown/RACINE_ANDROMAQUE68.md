@@ -69,8 +69,7 @@ Mais véritablement mes personnages sont si fameux dans l'antiquité, que, pour 
 
 Encore s'est-il trouvé des gens qui se sont plaints qu'il s'emportât contre Andromaque, et qu'il voulût épouser une captive à quelque prix que ce fût. J'avoue qu'il n'est pas assez résigné à la volonté de sa maîtresse, et que Céladon a mieux connu que lui le parfait amour. Mais que faire ? Pyrrhus n'avait pas lu nos romans. Il était violent de son naturel, et tous les héros ne sont pas faits pour être des Céladons.
 
-Quoi qu'il en soit, le public m'a été trop favorable pour m'embarrasser du chagrin particulier de deux ou trois personnes qui voudraient qu'on réformât tous les héros de l'antiquité pour en faire des héros parfaits. Je trouve leur intention fort bonne de vouloir qu'on ne mette sur la scène que des hommes impeccables mais je les prie de se souvenir que ce n'est point à moi de changer les règles du théâtre. Horace nous recommande de peindre Achille farouche, inexorable, violent, tel qu'il était, et tel qu'on dépeint son fils. Aristote, bien éloigné de nous demander des héros parfaits, veut au contraire que les personnages tragiques, c'est-à-dire ceux dont le malheur fait la catastrophe de la tragédie, ne soient ni tout à fait bons, ni tout à fait méchants. Il ne veut pas qu'ils soient extrêmement bons, parce que la punition d'un homme de bien exciterait plus l'indignation que la pitié du spectateur ; ni qu'ils soient méchants avec excès, parce qu'on n'a point pitié d'un scélérat. Il faut donc qu'ils aient une bonté médiocre, c'est-à-dire une vertu capable de faiblesse, et qu'ils tombent dans le malheur par quelque faute qui les fasse plaindre sans les faire détester.  
-   
+Quoi qu'il en soit, le public m'a été trop favorable pour m'embarrasser du chagrin particulier de deux ou trois personnes qui voudraient qu'on réformât tous les héros de l'antiquité pour en faire des héros parfaits. Je trouve leur intention fort bonne de vouloir qu'on ne mette sur la scène que des hommes impeccables mais je les prie de se souvenir que ce n'est point à moi de changer les règles du théâtre. Horace nous recommande de peindre Achille farouche, inexorable, violent, tel qu'il était, et tel qu'on dépeint son fils. Aristote, bien éloigné de nous demander des héros parfaits, veut au contraire que les personnages tragiques, c'est-à-dire ceux dont le malheur fait la catastrophe de la tragédie, ne soient ni tout à fait bons, ni tout à fait méchants. Il ne veut pas qu'ils soient extrêmement bons, parce que la punition d'un homme de bien exciterait plus l'indignation que la pitié du spectateur ; ni qu'ils soient méchants avec excès, parce qu'on n'a point pitié d'un scélérat. Il faut donc qu'ils aient une bonté médiocre, c'est-à-dire une vertu capable de faiblesse, et qu'ils tombent dans le malheur par quelque faute qui les fasse plaindre sans les faire détester.
 
 
 # ACTEURS
@@ -386,13 +385,13 @@ Et vous pourrez aux Grecs annoncer mon refus.
 
 ## SCÈNE III. Pyrrhus, Phnix.
 
-    PHNIX.
+    PHŒNIX.
 Ainsi vous l'envoyez aux pieds de sa Maîtresse ?  
 
     PYRRHUS.
 On dit qu'il a longtemps brûlé pour la Princesse.  
 
-    PHNIX.
+    PHŒNIX.
 Mais si ce feu, Seigneur, vient à se rallumer,  
 S'il lui rendait son coeur, s'il s'en faisait aimer ?  
 
@@ -402,7 +401,7 @@ Que charmés l'un de l'autre, ils retournent à Sparte.
 Tous nos Ports sont ouverts et pour elle et pour lui.  
 Qu'elle m'épargnerait de contrainte et d'ennui !  
 
-    PHNIX.
+    PHŒNIX.
 Seigneur...  
 
     PYRRHUS.
@@ -926,7 +925,7 @@ Ah dieux !
         Hé bien, Phnix, l'Amour est-il le Maître ?  
 Tes yeux refusent-ils encor de me connaître ?  
 
-    PHNIX.
+    PHŒNIX.
 Ah ! je vous reconnais, et ce juste courroux  
 Ainsi qu'à tous les Grecs, Seigneur, vous rend à vous.  
 Et qui l'aurait pensé, qu'une si noble audace  
@@ -950,7 +949,7 @@ Quels périls... Un regard m'eût tout fait oublier.
 Tous les Grecs conjurés fondaient sur un Rebelle.  
 Je trouvais du plaisir à me perdre pour Elle.  
 
-    PHNIX.
+    PHŒNIX.
 Oui, je bénis, Seigneur, l'heureuse cruauté  
 Qui vous rend...  
 
@@ -969,7 +968,7 @@ C'est lui-même, c'est toi, cher Époux, que j'embrasse.
 Et quelle est sa pensée ? Attend-elle en ce jour  
 Que je lui laisse un Fils pour nourrir son amour ?  
 
-    PHNIX.
+    PHŒNIX.
 Sans doute. C'est le prix que vous gardait l'Ingrate.  
 Mais laissez-la, Seigneur.  
 
@@ -981,7 +980,7 @@ Je la verrais aux miens, Phnix, d'un oeil tranquille.
 Elle est Veuve d'Hector. Et je suis Fils d'Achille.  
 Trop de haine sépare Andromaque et Pyrrhus.  
 
-    PHNIX.
+    PHŒNIX.
 Commencez donc, Seigneur, à ne m'en parler plus.  
 Allez voir Hermione, et content de lui plaire,  
 Oubliez à ses pieds jusqu'à votre colère.  
@@ -993,7 +992,7 @@ Il ne l'aime que trop.
         Crois-tu, si je l'épouse,  
 Qu'Andromaque en secret n'en sera pas jalouse ?  
 
-    PHNIX.
+    PHŒNIX.
 Quoi toujours Andromaque occupe votre esprit ?  
 Que vous importe, ô Dieux ! sa joie, ou son dépit ?  
 Quel charme malgré vous vers elle vous attire ?  
@@ -1007,7 +1006,7 @@ Et donner à ma haine une libre étendue.
 Viens voir tous ses attraits, Phnix, humiliés.  
 Allons.  
 
-    PHNIX.
+    PHŒNIX.
         Allez, Seigneur, vous jeter à ses pieds.  
 Allez, en lui jurant que votre âme l'adore,  
 À de nouveaux mépris l'encourager encore.  
@@ -1016,7 +1015,7 @@ Allez, en lui jurant que votre âme l'adore,
 Je le vois bien, tu crois que prêt à l'excuser  
 Mon coeur court après elle, et cherche à s'apaiser.  
 
-    PHNIX.
+    PHŒNIX.
 Vous aimez, c'est assez.  
 
     PYRRHUS.
@@ -1036,7 +1035,7 @@ Quel spectacle pour elle aujourd'hui se dispose !
 Elle en mourra, Phnix, et j'en serai la cause.  
 C'est lui mettre moi-même un poignard dans le sein.  
 
-    PHNIX.
+    PHŒNIX.
 Et pourquoi donc en faire éclater le dessein ?  
 Que ne consultiez-vous tantôt votre faiblesse ?  
 
@@ -1047,7 +1046,7 @@ D'un amour qui s'éteint c'est le dernier éclat.
 Allons. À tes conseils, Phnix, je m'abandonne ;  
 Faut-il livrer son Fils ? Faut-il voir Hermione ?  
 
-    PHNIX.
+    PHŒNIX.
 Oui, voyez-la, Seigneur, et par des voeux soumis  
 Protestez-lui...  
 
@@ -1338,7 +1337,7 @@ Mais lui-même il vous cherche.
         Où donc est la Princesse ?  
 Ne m'avais-tu pas dit qu'elle était en ces lieux ?  
 
-    PHNIX.
+    PHŒNIX.
 Je le croyais.  
 
     ANDROMAQUE, À CÉPHISE.
@@ -1350,7 +1349,7 @@ Que dit-elle, Phnix ?
     ANDROMAQUE.
         Hélas ! tout m'abandonne.  
 
-    PHNIX.
+    PHŒNIX.
 Allons, Seigneur, marchons sur les pas d'Hermione.  
 
     CÉPHISE.
@@ -2043,7 +2042,7 @@ Va, cours. Mais crains encor d'y trouver Hermione.
 
 ## SCÈNE VI. PYRRHUS, PHNIX.
 
-    PHNIX.
+    PHŒNIX.
 Seigneur, vous l'entendez . Gardez de négliger  
 Une Amante en fureur, qui cherche à se venger.  
 Elle n'est en ces lieux que trop bien appuyée,  

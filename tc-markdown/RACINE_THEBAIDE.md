@@ -1771,7 +1771,7 @@ Hélas ! pour me sauver, sauvez ces inhumains.
 ## SCÈNE PREMIÈRE.
 
     ANTIGONE, SEULE.
-    
+
 
 À quoi te résous-tu princesse infortunée ?  
 Ta mère vient de mourir dans tes bras,  
